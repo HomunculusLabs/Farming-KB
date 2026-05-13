@@ -18,7 +18,7 @@ sources:
 
 ## Overview
 
-Attalea speciosa, commonly known as babassu, is a large, monoecious palm native to the Amazon Basin and transitional forests of Brazil. It is one of the most economically important palm species in [[guzman-psilocybin-mushrooms-south-america]], valued for its oil-rich kernels, [[gadd-fungal-biodegradation-concrete-building-materials]], and role in traditional agroforestry systems.
+Attalea speciosa, commonly known as babassu, is a large, monoecious palm native to the Amazon Basin and transitional forests of Brazil. It is one of the most economically important palm species in [[gadd-fungal-biodegradation-concrete-building-materials]], and role in traditional agroforestry systems.
 
 The species dominates vast areas of secondary forest in the Brazilian states of Maranhão, Piauí, and Tocantins, forming near-monospecific stands called **babassuais** that cover an estimated 180,000 km². These stands arose following deforestation of original rainforest, as babassu thrives in disturbed, fire-affected landscapes.
 
@@ -60,9 +60,7 @@ The species is a disturbance-adapted pioneer that colonizes cleared forest land 
 
 Babassu thrives on well-drained to seasonally flooded soils at elevations below 600 m. It tolerates a wide range of soil types including oxisols, ultisols, and alluvial entisols. Annual rainfall in its native range is 1,200–2,500 mm with a pronounced dry season of 3–5 months.
 
-The species is notably tolerant of fire, with thick bark that protects the apical meristem. Repeated burning of understory vegetation in cattle pastures eliminates competing species but promotes babassu [[cannabis-seed-germination]] and seedling establishment.
-
-The transition from primary rainforest to babassu-dominated secondary forest represents one of the most extensive vegetation shifts in the Brazilian Amazon. This transformation has significant ecological implications for biodiversity, [[fungal-peat-decomposition-and-carbon-storage]], and hydrological cycling.
+The species is notably tolerant of fire, with thick bark that protects the apical meristem. Repeated burning of understory vegetation in cattle pastures eliminates competing species but promotes babassu [[fungal-peat-decomposition-and-carbon-storage]], and hydrological cycling.
 
 Babassu stands store an estimated 80–120 tonnes of carbon per hectare in aboveground biomass, substantially less than the primary rainforest they replaced. However, this carbon is more stable due to the species' longevity (100+ years) and fire resistance.
 
@@ -70,15 +68,9 @@ Babassu stands store an estimated 80–120 tonnes of carbon per hectare in above
 
 **Kernel oil (babassu oil)** is the primary commercial product. Each fruit contains 2–6 kernels with 60–67% oil content by dry weight. The oil is semisolid at room temperature, white to pale yellow, and composed primarily of lauric (44%), myristic (17%), and oleic (15%) acids.
 
-Babassu oil has been promoted as a sustainable alternative to [[cocos-nucifera]] oil in cosmetics, food, and industrial applications. Its high lauric acid content makes it particularly suitable for soap-making and detergent production.
+Babassu oil has been promoted as a sustainable alternative to [[query-how-do-i-start-black-soldier-fly-farming-for-composting-and-animal-feed]]. It contains approximately 70% carbohydrates and provides a significant caloric resource for rural communities during the dry season.
 
-The cosmetic industry values babassu oil for its melting point near skin temperature, which allows it to form a protective moisture barrier without leaving a greasy residue. It is increasingly marketed as an ingredient in natural hair and skin care products.
-
-The mesocarp flour is used as a starchy food supplement [[query-how-do-i-start-black-soldier-fly-farming-for-composting-and-animal-feed]]. It contains approximately 70% carbohydrates and provides a significant caloric resource for rural communities during the dry season.
-
-Leaves provide excellent **thatch** for roofing and are woven into baskets, mats, and handicrafts. The stems are used as [[singh-wood-rot-fungi-structural-timber-decay]] for rural construction. Charcoal produced from babassu endocarps is prized for its high heat output and low smoke production.
-
-The apical meristem (heart of palm) is edible but harvesting it kills the tree, making it a less sustainable product than kernel extraction. Unlike [[euterpe-oleracea]] (açaí), which produces multiple stems, babassu's solitary stem means heart-of-palm harvest is terminal.
+Leaves provide excellent **thatch** for roofing and are woven into baskets, mats, and handicrafts. The stems are used as [[euterpe-oleracea]] (açaí), which produces multiple stems, babassu's solitary stem means heart-of-palm harvest is terminal.
 
 The growing interest in babassu biodiesel has sparked both economic opportunity and land-use conflict. Industrial-scale extraction threatens the traditional extractivist model practiced by the quebradeiras, who have organized through cooperatives to defend their access rights.
 

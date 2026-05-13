@@ -59,27 +59,17 @@ Fruiting bodies are small to medium-sized. Caps measure 1.5–5 cm in diameter, 
 - Tough, cartilaginous stipe that bends rather than breaks
 - White spore print
 - Association with hardwood leaf litter, especially oak
-- Distinguished from *[[gymnopus-peronatus]]* by the absence of a bitter/almond taste
-- Cap surface lacks striations, unlike some related species
-- The combination of hygrophanous cap, white spores, and growth on leaf litter is distinctive within the collybioid mushrooms
-
-## Chemical Composition
-
-While not a target for nutritional use, *G. dryophilus* has been analyzed for its chemical constituents:
-- **Protein:** 12–18% of dry weight, with a favorable essential amino acid index
-- **Minerals:** Rich in potassium and phosphorus; contains trace amounts of selenium, zinc, and copper
-- **Ergosterol:** 4–7 mg/g dry weight, consistent with other agarics
-- **[[aact-tannins-terpenes-phenolic-compounds-wood-composting-ingham]]:** Total phenolic content of 2–4 mg GAE/g, contributing to moderate antioxidant activity
+- Distinguished from *[[aact-tannins-terpenes-phenolic-compounds-wood-composting-ingham]]:** Total phenolic content of 2–4 mg GAE/g, contributing to moderate antioxidant activity
 - **Bioactive peptides:** Limited studies have identified small peptides with ACE-inhibitory activity in mycelial extracts, though concentrations are low
 - The species has not been investigated for pharmaceutical applications and remains primarily of ecological and taxonomic interest
 
 ## Distribution and Habitat
 
-*G. dryophilus* is found across [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]] of the Northern Hemisphere, including Europe, North America, and parts of Asia. It is among the most frequently recorded agarics in forest surveys. The species fruits from early summer through late autumn, occasionally in mild winters. It is strongly associated with **oak-dominated forests** but also occurs under beech, birch, hazel, chestnut, and various conifers. It grows saprotrophically on fallen leaves, twigs, small branches, and other forest floor debris, playing an important role in the decomposition of lignocellulosic material in the litter layer. While primarily a saprotroph, some studies suggest a weak or facultative association with [[symbiotic-fungi-ectomycorrhizal-networks-overview]], potentially accessing nutrients through shared mycelial connections. The species has also been documented fruiting on wood chip mulch in urban parks and gardens, demonstrating its adaptability to anthropogenic habitats.
+*G. dryophilus* is found across [[symbiotic-fungi-ectomycorrhizal-networks-overview]], potentially accessing nutrients through shared mycelial connections. The species has also been documented fruiting on wood chip mulch in urban parks and gardens, demonstrating its adaptability to anthropogenic habitats.
 
 ## Ecological Role
 
-As a primary decomposer of hardwood leaf litter, *G. dryophilus* contributes significantly to carbon and [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] in temperate forest ecosystems. The species produces [[fungal-extracellular-enzymes]] including cellulases, laccases, and manganese peroxidases that break down complex plant polymers. Its ability to fruit prolifically on thin leaf litter layers suggests efficient resource utilization under competitive conditions. In forest succession studies, *G. dryophilus* is characteristic of mature, closed-canopy forests with well-developed litter horizons and tends to decrease in frequency after disturbance events such as clear-cutting or fire. The mycelium forms extensive networks in the litter layer, competing with other saprotrophic fungi for access to organic substrates. Stable isotope analysis suggests the species derives carbon primarily from freshly fallen litter rather than well-decomposed humus.
+As a primary decomposer of hardwood leaf litter, *G. dryophilus* contributes significantly to carbon and [[fungal-extracellular-enzymes]] including cellulases, laccases, and manganese peroxidases that break down complex plant polymers. Its ability to fruit prolifically on thin leaf litter layers suggests efficient resource utilization under competitive conditions. In forest succession studies, *G. dryophilus* is characteristic of mature, closed-canopy forests with well-developed litter horizons and tends to decrease in frequency after disturbance events such as clear-cutting or fire. The mycelium forms extensive networks in the litter layer, competing with other saprotrophic fungi for access to organic substrates. Stable isotope analysis suggests the species derives carbon primarily from freshly fallen litter rather than well-decomposed humus.
 
 ## Edibility
 
@@ -87,4 +77,4 @@ As a primary decomposer of hardwood leaf litter, *G. dryophilus* contributes sig
 
 ## Seasonality and Ecological Cycling
 
-The fruiting period varies by latitude: in Western Europe, *G. dryophilus* appears from June through November, peaking in September and October. In North America, it fruits from mid-summer through the first hard frosts. In mild maritime climates ([[psilocybin-north-america-pacific-northwest]], British Isles), occasional winter fruitings are observed during warm, wet periods. The species is particularly prolific in years following wet autumns, when thick leaf litter layers accumulate. Its role [[comparison-soil-protozoa-vs-nematodes-in-nutrient-cycling]] is most significant in oak-dominated forests, where it is one of the primary agents of leaf litter decomposition, converting complex organic matter into forms available for plant uptake. Fruit body production is estimated at 50–200 g fresh weight per hectare per year in productive oak stands, representing a significant but often overlooked component of forest carbon flux.
+The fruiting period varies by latitude: in Western Europe, *G. dryophilus* appears from June through November, peaking in September and October. In North America, it fruits from mid-summer through the first hard frosts. In mild maritime climates ([[comparison-soil-protozoa-vs-nematodes-in-nutrient-cycling]] is most significant in oak-dominated forests, where it is one of the primary agents of leaf litter decomposition, converting complex organic matter into forms available for plant uptake. Fruit body production is estimated at 50–200 g fresh weight per hectare per year in productive oak stands, representing a significant but often overlooked component of forest carbon flux.

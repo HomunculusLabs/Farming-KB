@@ -14,30 +14,10 @@ type: concept
 ## Overview
 
 Ayahuasca is a psychoactive brew traditionally prepared in the Amazon
-basin by combining the [[ayahuasca-and-banisteriopsis-caapi]] vine with the leaves of
-[[chacruna-psychotria-viridis]] (chacruna) or Diplopterys cabrerana (chaliponga).
+basin by combining the [[chacruna-psychotria-viridis]] (chacruna) or Diplopterys cabrerana (chaliponga).
 The pharmacological interaction between these plants creates a unique
-oral [[mckenna-dmt-experience-and-hyperspace]] that would otherwise be impossible, as DMT is
-normally inactive when taken orally due to rapid metabolism by monoamine
-oxidase (MAO) enzymes in the gut. Understanding the pharmacology and
-[[cannabis-safety-profile-and-overdose-risk]] of ayahuasca is essential for anyone considering its use,
-particularly in the context of [[ayahuasca-tourism-in-peru]] where medical oversight is typically absent.
-
-## Pharmacological Mechanism
-
-The pharmacological action of ayahuasca depends on the synergistic
-interaction between two classes of compounds:
-
-- **Beta-carboline alkaloids** (harmine, harmaline, and tetrahydroharmine)
-  from Banisteriopsis caapi act as reversible monoamine oxidase inhibitors
-  (MAOIs), specifically inhibiting MAO-A in the gastrointestinal tract.
-  This inhibition prevents the breakdown of DMT, allowing it to reach
-  systemic circulation and cross the blood-brain barrier.
-- **N,N-Dimethyltryptamine (DMT)** from Psychotria viridis or Diplopterys
-  cabrerana is a potent serotonergic psychedelic that acts primarily as
-  a 5-HT2A receptor agonist. DMT is structurally similar to serotonin
-  and produces profound alterations in perception, cognition, and
-  [[blesching-cannabis-emotional-processing-expansive-constricting-emotions]].
+oral [[cannabis-safety-profile-and-overdose-risk]] of ayahuasca is essential for anyone considering its use,
+particularly in the context of [[blesching-cannabis-emotional-processing-expansive-constricting-emotions]].
 
 ## Dangerous Drug Interactions
 
@@ -70,20 +50,7 @@ certain wines should be avoided before and after consuming ayahuasca
 to prevent hypertensive episodes. The strictness of these dietary
 restrictions is debated within the ayahuasca community, as the
 reversible MAO-A inhibition of harmine alkaloids is somewhat different
-from the irreversible [[tihkal-oral-activity-mao-inhibition]] of pharmaceutical MAOIs. However,
-conservative practice dictates adherence to at least basic dietary
-precautions for a period before and after ceremony participation.
-
-## Contraindications
-
-Ayahuasca is contraindicated for individuals with certain pre-existing
-conditions:
-
-- **Cardiovascular disease**: The brew can increase heart rate and
-  blood pressure, posing risks for those with hypertension, heart
-  disease, or a history of stroke.
-- **Psychiatric conditions**: Individuals with schizophrenia,
-  [[blesching-cannabis-bipolar-disorder]], or other psychotic conditions may experience
+from the irreversible [[blesching-cannabis-bipolar-disorder]], or other psychotic conditions may experience
   exacerbation of symptoms.
 - **Pregnancy**: The effects of ayahuasca on fetal development are
   not well studied, and the brew is generally avoided during pregnancy.
@@ -118,8 +85,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[ayahuasca-pharmacology]]
 - [[ayahuasca]]
-- [[doc]]
 - [[harmine]]
 - [[tetrahydroharmine]]

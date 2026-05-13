@@ -44,13 +44,9 @@ Blue-back fish also contain abundant vitamins: Vitamin A (prevents night-blindne
 ### How to Use FAA
 
 - **Basic dilution**: 1:1,000 with water.
-- Rich in nitrogen; good fertilizer for both soil and foliage during [[cannabis-vegetative-growth-stage]] when used with other KNF inputs.
-- Activates microorganisms when added to IMO or [[cho-fermented-mixed-compost-methods]] (after diluting).
+- Rich in nitrogen; good fertilizer for both soil and foliage during [[cho-fermented-mixed-compost-methods]] (after diluting).
 - For leafy vegetables, can be used continuously to increase yield, taste, and fragrance.
-- **Not recommended during [[knf-reproductive-growth-stage]]** -- may induce overgrowth.
-- Fish oil from fermentation can be used as insect repellent (e.g., army worm moths become helpless at the slightest contact).
-- Mackerel FAA is effective against mites and greenhouse whitefly -- dilute and spray on both leaf sides.
-- Bones left from FAA production can be put in brown rice vinegar (BRV) at 1:10 ratio to produce water-soluble [[bionutrients-lab-calcium-phosphate-calamansi]].
+- **Not recommended during [[bionutrients-lab-calcium-phosphate-calamansi]].
 
 ## Seawater and Fermented Seawater
 
@@ -76,16 +72,9 @@ Rice-washed water acts like yeast. Adding FPJ and OHN brings out the best proper
 - **Anthracnose control**: Add liquid IMO #4, OHN, and water-soluble calcium phosphate to fermented seawater for increased microbial activity.
 - **Enhancing ripening**: Use seawater at x1/30, x1/25, or x1/20.
 - **Hot weather and tropical nights**: Fermented seawater is particularly effective.
-- **Fungal [[hamilton-pest-and-disease-control-organic]]**: Controls scab, rust, and anthracnose.
+- **Fungal [[master-cho-knf-imo-indigenous-microorganism-collection]]
 
-## See Also
-
-- [[master-cho-knf-imo-indigenous-microorganism-collection]]
-
-- [[fish-amino-acid-faa]]
 - [[knf-seawater-fermented-seawater-guide]]
-- [[knf-water-soluble-calcium]]
 - [[knf-oriental-herbal-nutrient]]
-- [[knf-imo-four-stage-cultivation]]
 - [[knf-preparations]]
 - [[monster-cropping]]

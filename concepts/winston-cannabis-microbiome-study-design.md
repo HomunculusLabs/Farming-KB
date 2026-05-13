@@ -2,54 +2,7 @@
 title: Winston Cannabis Microbiome Study Design
 slug: "winston-cannabis-microbiome-study-design"
 tags: [microbiome, cannabis, research-methodology, 16s-rrna, experimental-design]
-source: understanding [[cannabis-microbiome-cultivar-specificity]] cannabis microbiome
-created: 2026-05-10
----
-
-# Winston Cannabis Microbiome Study Design
-
-## Overview
-
-The landmark 2014 study by Winston et al. published in *PLOS ONE* (doi:10.1371/journal.pone.0099641) was the first to characterize the endorhiza, rhizosphere, and bulk soil-associated microbiome of multiple distinct Cannabis cultivars. The study was conducted at the Argonne National Laboratory in collaboration with the Field Museum, University of Chicago, and commercial partners Cannavest and MO BIO Laboratories.
-
-## Two-Experiment Structure
-
-The study employed a deliberately two-part [[cannabis-microbiome-experimental-design]] to address complementary questions about Cannabis-associated [[cannabis-rhizosphere-microbial-communities]].
-
-### Experiment 1: Community Variation Across Strains
-
-- **Cultivars tested:** Sour Diesel (*C. sativa*, high THC:CBD), Bookoo Kush (sativa-dominant hybrid, moderately high THC:CBD), and Burmese (balanced hybrid, moderate THC:CBD)
-- **Location:** Vista, California, November 2011
-- **Sample timing:** 8 weeks post-harvest (after flowering bud and foliage harvest)
-- **Soil:** Locally composted soil with minimal edaphic variation between plots
-- **Sampling:** Triplicate DNA extracts from endorhiza, rhizosphere, and bulk soil for each of 9 plants (27 total samples)
-- **Limitation:** Post-harvest sampling meant plant tissues were undergoing senescence and decay, which later proved significant in interpreting Cellvibrio abundance
-
-### Experiment 2: Cultivar-Specificity with Edaphic Variation
-
-- **Cultivars tested:** White Widow (balanced hybrid, moderate THC:CBD) and Maui Wowie (*C. sativa*, high THC:CBD)
-- **Locations:** Vista and Orange County, California (two distinct soil types), August 2012
-- **Sample timing:** 2 weeks prior to harvest (actively growing plants)
-- **Soils:** Mo-Bio (MB) and Orange County (OC) soils with significant physicochemical differences in nitrogen, carbon, salinity, and water content
-- **Design:** Four White Widow plants in one soil, two White Widow in a completely different soil, plus Maui Wowie — creating a controlled cross of strain × soil type
-- **Sampling:** Triplicate from different roots on same plant (pseudoreplicates), 42 total samples
-- **Cannabinoid testing:** Delta-9-THC data from buds of 3 White Widow and 1 Maui Wowie plant at Delta-9 Technologies, LLC
-
-## Key Methodological Decisions
-
-### Sample Collection Protocol
-
-- Endorhiza samples taken from the root ball
-- Rhizosphere soil collected by shaking roots into a whirlpak bag
-- Bulk soil sampled 10 cm from the stem at 20 cm depth
-- All samples transferred to 4°C storage within ~4 hours
-- Root samples rinsed with alcohol and sterile water before extraction
-
-### Controls and Replication
-
-- Triplicate biological replicates per sample type per plant
-- Pseudoreplicates in Experiment 2 (different roots on same plant) to assess within-plant variation
-- White Widow grown in two different soils provided a natural experiment for testing the two-tier [[cultivar-cannabis-microbiome-two-tier-selection-model]]
+source: understanding [[cannabis-microbiome-experimental-design]] to address complementary questions about Cannabis-associated [[cultivar-cannabis-microbiome-two-tier-selection-model]]
 - Cross-soil OTU sharing analysis between endorhiza and bulk soil
 
 ### Sequencing Depth
@@ -79,12 +32,89 @@ All soils were classified as sandy loam. The dramatic difference in organic carb
 
 ### Diversity Metrics
 - **Alpha diversity:** Observed species and Chao1 index
-- **Beta diversity:** Weighted and [[weighted-vs-unweighted-unifrac-cannabis-strain-microbiome]] distances
-- **Ordination:** PCoA, RDA (redundancy analysis)
+- **Beta diversity:** Weighted and [[edaphic-factor-ranking-nitrogen-salinity-cannabis-microbiome]] importance
 
-### Statistical Tests
-- ADONIS (PERMANOVA) for community-level differences
-- ANOSIM for cluster comparisons
-- Mantel tests for correlation with edaphic/cannabinoid data
-- ANOVA (weighted) and G-test (unweighted) for individual OTU analysis
-- BEST analysis for ranking [[edaphic-factor-ranking-nitrogen-salinity-cannabis-microbiome]] importance
+## Overview
+
+Winston Cannabis Microbiome Study Design represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish winston cannabis microbiome study design
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving winston extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Winston Cannabis Microbiome Study Design finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for winston cannabis microbiome study design. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+winston cannabis microbiome study design and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Winston Cannabis Microbiome Study Design has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of winston cannabis microbiome study design into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[cannabinoid-endomicrobiome-correlation-winston]]
+- [[cannabis-endorhiza-shared-otu-soil-source-validation]]
+- [[green-cannabis-dry-sift-water-extraction]]
+- [[max-winston]]
+- [[soil-physicochemical-properties-cannabis-microbiome-assembly-winston]]

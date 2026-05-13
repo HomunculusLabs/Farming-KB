@@ -22,12 +22,8 @@ sources:
 *Antrodia cinnamomea* (syn. *Antrodia camphorata*), commonly known as
 niu-chang-chih (牛樟芝), is a rare parasitic fungus endemic to Taiwan
 that grows exclusively on the inner cavity of the decayed heartwood of
-the endangered camphor tree *Cinnamomum kanehirai*. It is one of the most
-valued [[query-what-are-the-best-mushroom-substrates-for-different-species]] — The lingzhi mushroom, a fellow polyporaceous
-medicinal fungus, is its closest well-known analogue in traditional
-medicine, though *A. cinnamomea* commands significantly higher market
-prices due to its extreme rarity and the cultural importance attached
-to its wild-harvested [[bloomfield-asterophora-and-mycoparasites-of-fruiting-bodies]].
+the endangered [[camphor]] tree *Cinnamomum kanehirai*. It is one of the most
+valued [[bloomfield-asterophora-and-mycoparasites-of-fruiting-bodies]].
 
 ## Taxonomic History
 
@@ -65,26 +61,84 @@ intensity, ranging from orange-red to reddish-brown. The margin is obtuse
 and cream to orange in color. The pore surface is orange to brownish-red
 with circular to angular pores numbering 2-4 per millimeter. The tube
 layer extends up to 1 cm deep. The context (flesh) is corky to woody in
-texture and reddish-brown, measuring 3-8 mm thick. The [[cancer-medicinal-mushrooms-submerged-fermentation-production]]
-
-## Conservation Status
-
-The conservation status of *Antrodia cinnamomea* is intimately linked to
-that of its sole [[ectomycorrhizal-host-tree-partnerships]], *Cinnamomum kanehirai*. This camphor species
+texture and reddish-brown, measuring 3-8 mm thick. The [[ectomycorrhizal-host-tree-partnerships]], *Cinnamomum kanehirai*. This camphor species
 is classified as endangered in Taiwan due to historical overharvesting for
-timber and [[permaculture-designers-manual-essential-oil-plants]] production; remaining old-growth stands are
-heavily fragmented and legally protected. Wild *A. cinnamomea* is
-correspondingly rare and is listed as endangered under Taiwan's
-Wildlife Conservation Act. Collection without permit is illegal, and
-enforcement has intensified due to the high black-market value. The
-The species is not formally evaluated by the IUCN Red List, but its
-dependence on a single endangered host and extremely restricted natural
-range would likely qualify it for an endangered listing if assessed.
-## Legal Status
-
-As a non-psychoactive medicinal fungus, *A. cinnamomea* is not subject to
-drug scheduling. Taiwan strictly regulates harvest and trade of wild-
-collected material under the Wildlife Conservation Act; only cultivated
-specimens from licensed facilities may be sold. In the EU and US, products
-are sold as [[medicinal-mushroom-dietary-supplements]], though health claims are restricted under
+timber and [[medicinal-mushroom-dietary-supplements]], though health claims are restricted under
 FDA and EFSA regulations. Japan has approved certain extracts as Foods for
+
+## Overview
+
+Antrodia Camphorata represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish antrodia camphorata
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving antrodia extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Antrodia Camphorata finds practical application in multiple design contexts.
+[[permaculture-principles]] guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for antrodia camphorata. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+antrodia camphorata and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Antrodia Camphorata has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of antrodia camphorata into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.

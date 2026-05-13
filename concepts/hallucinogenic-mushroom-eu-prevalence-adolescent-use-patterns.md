@@ -8,25 +8,7 @@ tags: [emcdda, prevalence, adolescent, school-survey, europe, hallucinogenic-mus
 
 ## Overview
 
-The EMCDDA (2006) thematic paper on [[emcdda-hallucinogenic-mushrooms-emerging-trend-europe]] provided the first comprehensive cross-national analysis [[european-prevalence-and-patterns-of-magic-mushroom-use]] use among European adolescents. [[emcdda-hallucinogenic-mushroom-school-surveys-adolescent-use]] conducted through the ESPAD (European School Survey Project on Alcohol and Other Drugs) framework revealed that lifetime prevalence of hallucinogenic mushroom use among 15-16 year old students in some countries approached or equaled that of ecstasy, despite overall prevalence remaining considerably lower than cannabis.
-
-## Data Sources and Methodology
-
-### ESPAD School Survey
-
-The European School Survey Project on Alcohol and Other Drugs (ESPAD) has collected data on substance use among 15-16 year old students across Europe since 1995. Key methodological features:
-
-- Target population: students born in specific years, surveyed at age 15-16
-- Self-administered questionnaires in classroom settings
-- Standardized methodology across participating countries
-- Questions include lifetime, last-year, and last-month prevalence
-
-### Data Limitations
-
-The EMCDDA acknowledged several limitations in the available data:
-
-1. **Historical bias:** Early surveys collected data on LSD or general "hallucinogenic drugs" rather than mushrooms specifically
-2. **Terminology confusion:** Some surveys may have included [[allegro-amanita-muscaria-properties-and-pharmacology]] use, which involves different compounds and risks
+The EMCDDA (2006) thematic paper on [[european-prevalence-and-patterns-of-magic-mushroom-use]] use among European adolescents. [[allegro-amanita-muscaria-properties-and-pharmacology]] use, which involves different compounds and risks
 3. **Recall bias:** Self-reported drug use is subject to under- and over-reporting
 4. **Non-response:** Students who use drugs more heavily may be absent from school on survey days
 5. **Cultural factors:** Willingness to report illegal behavior varies between countries
@@ -35,10 +17,7 @@ The EMCDDA acknowledged several limitations in the available data:
 
 ### Lifetime Prevalence Range
 
-Among young people aged 15-24, ever-in-lifetime use [[health-risks-of-hallucinogenic-mushrooms]] across 12 EU Member States ranged from less than 1% to 8%. The countries with the highest prevalence estimates were:
-
-- **Netherlands** — highest prevalence, consistent with the long history of smartshop availability
-- **Czech Republic** — high prevalence, reflecting permissive [[weil-cultural-attitudes-toward-altered-states]] drug use
+Among young people aged 15-24, ever-in-lifetime use [[weil-cultural-attitudes-toward-altered-states]] drug use
 - **United Kingdom** — significant use during the early 2000s smartshop boom
 - **Germany** — moderate-to-high prevalence
 - **Ireland** — elevated prevalence prior to 2006 legislation
@@ -79,9 +58,7 @@ Drug surveys conducted in club settings showed that prevalence of illegal drug u
 
 ### The Smartshop Effect
 
-The [[geographic-distribution-of-psilocybe-species]] mushroom use across Europe strongly correlates with the availability of smartshops and other retail outlets:
-
-- **Netherlands:** As the origin of the [[european-smartshop-economics-mushroom-supply-chain-emcdda-2006]] model, the Netherlands showed the highest and most established prevalence
+The [[european-smartshop-economics-mushroom-supply-chain-emcdda-2006]] model, the Netherlands showed the highest and most established prevalence
 - **UK:** The rapid expansion of mushroom shops during the early 2000s was followed by increased prevalence
 - **Germany, Ireland, Denmark:** Countries that later tightened legislation showed intermediate prevalence
 
@@ -118,8 +95,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[hallucinogenic-drugs]]
 - [[hallucinogenic-mushroom-prevalence-use-patterns-europe]]
-- [[dom]]
 - [[det]]
 - [[cocaine]]

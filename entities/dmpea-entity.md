@@ -10,11 +10,7 @@ sources:
 # DMPEA
 
 **Chemical name:** 3,4-Dimethoxyphenethylamine
-**[[2c-b-pihkal-entry-20]]:** #60
-
-## Overview
-
-DMPEA (3,4-Dimethoxyphenethylamine) is notable as one of the most thoroughly tested yet completely **inactive** compounds in the entire PiHKAL collection. Its inclusion in the book is primarily for its historical importance and its role in a major controversy in [[phenethylamine-chemistry-basics]] studies. Its complete inactivity despite sharing the 3,4-dimethoxy substitution pattern with active compounds like mda-entity|MDA demonstrates that:
+**[[phenethylamine-chemistry-basics]] studies. Its complete inactivity despite sharing the 3,4-dimethoxy substitution pattern with active compounds like mda-entity|MDA demonstrates that:
 
 - Two methoxy groups alone are insufficient for psychedelic activity
 - The methylenedioxy bridge of MDA/MDMA contributes more than simple oxygen substitution
@@ -24,9 +20,7 @@ DMPEA (3,4-Dimethoxyphenethylamine) is notable as one of the most thoroughly tes
 
 ## Broader Research Context
 
-The DMPEA/schizophrenia story is part of a larger pattern in [[phenethylamine-receptor-pharmacology]]
-- [[dmmda-compound-profile]] (for comparison of more complex substitution patterns)
-- [[lsd-synthesis-history]]
+The DMPEA/schizophrenia story is part of a larger pattern in [[dmmda-compound-profile]] (for comparison of more complex substitution patterns)
 - [[psilocybin-and-psilocin-chemical-synthesis]]
 
 ## Significance

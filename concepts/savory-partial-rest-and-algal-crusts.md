@@ -13,16 +13,7 @@ type: concept
 Partial rest occurs when animals are present on land but never produce herd
 effect. The animals graze calmly and may slightly disturb the soil surface,
 but they seldom stimulate the successional shift to more complex communities
-that [[savory-non-brittle-environments]] require. Algal, lichen, and moss crusts that form
-under partial rest can actually retard succession for thousands of years while
-providing only an illusion of soil protection.
-
-## Overview
-
-Savory defines partial rest as a condition where animals, either domestic or
-wild, are present but never have cause to produce herd effect. They may
-slightly disturb soil cover of algae, [[savory-rest-as-management-tool]]
-- [[savory-brittle-environments]]
+that [[savory-rest-as-management-tool]]
 - [[savory-animal-impact-and-herd-effect]]
 ## Practical Applications
 

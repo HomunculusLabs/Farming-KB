@@ -46,34 +46,13 @@ The chewing method of administration, with the material retained in the mouth, a
 
 In recent years, kanna has experienced a significant revival of interest, both as a commercial dietary supplement and as a subject of scientific research. Sceletium extracts are now marketed as natural antidepressants, anxiolytics, and cognitive enhancers, available in various forms including capsules, tinctures, and chewing gums.
 
-[[mushroom-cancer-clinical-trials-overview]] have investigated the efficacy of Sceletium extracts for the treatment of depression and anxiety, with generally positive results. The plant's long history of traditional use provides a strong ethnopharmacological basis for these investigations, and the novel mechanism of action of its alkaloids makes it an interesting subject for drug development.
+[[old-world-hallucinogenic-plants-overview]], kanna represents the southern African contribution to a diverse global pharmacopoeia. Its unique serotonergic alkaloid profile distinguishes it from the tropane-containing plants of Europe, the tryptamine-containing plants of the Americas, and the cannabinoid-containing plants of Asia, demonstrating the remarkable chemical diversity of psychoactive plants across the [[sceletium-tortuosum]]
 
-## Place in African Ethnopharmacology
+[[old-world-hallucinogenic-plants-overview]] plants.
 
-Kanna is one of the few African psychoactive plants with well-documented historical use. While Africa has a rich tradition of psychoactive plant use — including [[old-world-hallucinogenic-plants-overview]], kanna represents the southern African contribution to a diverse global pharmacopoeia. Its unique serotonergic alkaloid profile distinguishes it from the tropane-containing plants of Europe, the tryptamine-containing plants of the Americas, and the cannabinoid-containing plants of Asia, demonstrating the remarkable chemical diversity of psychoactive plants across the [[datura-metel-old-world-ethnobotany]].
+[[calea-zacatechichi-dream-herb-ethnobotany]] with oneirogenic properties.
 
-## Historical Context
-
-Kanna has one of the longest documented histories of use of any psychoactive plant in Africa. Dutch colonial settlers in the Cape of Good Hope recorded San and Khoikhoi use of the plant as early as the seventeenth century, describing how indigenous peoples chewed, smoked, or snuffed the fermented plant material to produce euphoria, reduced anxiety, and increased sociability.
-
-Archaeological evidence suggests that kanna use may extend back thousands of years. Plant material consistent with Sceletium tortuosum has been identified at archaeological sites in southern Africa, and rock art depictions from the region may reference the plant and its psychoactive effects. The traditional preparation involved a fermentation process in which the plant material was bruised and placed in a closed container to "sweat" for several days, a process believed to activate the alkaloid mesembrine and related compounds.
-
-## Modern Significance
-
-Kanna has experienced a significant resurgence in commercial popularity in the twenty-first century, marketed as a natural antidepressant, anxiolytic, and nootropic supplement. This popularity has been driven in part by the identification of mesembrine and related mesembrine alkaloids as serotonin reuptake inhibitors (SRIs), providing a plausible pharmacological mechanism for the plant's traditional mood-enhancing effects.
-
-Clinical and preclinical studies have provided preliminary support for the anxiolytic and antidepressant properties of standardized kanna extracts, although large-scale controlled trials remain limited. The growing commercial demand has raised concerns about sustainable harvesting of wild Sceletium populations and about the quality and consistency of commercial kanna products, many of which are not standardized to specific alkaloid content.
-
-## See Also
-
-- [[sceletium-tortuosum]]
-
-[[old-world-hallucinogenic-plants-overview]] — overview of Old [[old-world-hallucinogenic-plants-overview]] plants.
-
-[[sinicuichi-heimia-salicifolia-auditory-hallucinogen]] — Mexican [[calea-zacatechichi-dream-herb-ethnobotany]] with oneirogenic properties.
-
-[[allegro-plants-and-drugs-in-the-ancient-world]]
-- [[cultural-evolution-and-psychoactive-substances]]
+[[cultural-evolution-and-psychoactive-substances]]
 ## Practical Considerations
 
 Successful implementation of Kanna (Sceletium tortuosum): South African Narcotic Plant requires attention to
@@ -115,8 +94,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[sceletium-tortuosum]]
 - [[doc]]
-- [[cocaine]]
 - [[tryptamine]]
 - [[mesembrine]]

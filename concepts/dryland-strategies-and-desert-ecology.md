@@ -33,74 +33,7 @@ Truly drought-adapted species employ structural and physiological mechanisms:
 
 ## Animal Adaptations to Aridity
 
-Desert animals employ diverse strategies for [[water-conservation]]:
-
-- **Aestivation**: Periods of dormancy during extreme conditions
-- **Migration**: Movement to more humid areas during dry periods
-- **Oasis refuge**: Concentrating near permanent water sources
-- **Succulent vegetation browsing**: Obtaining water from food plants
-- **Nocturnal browsing**: Feeding at night to take advantage of condensation
-- **Predation**: Extracting water from prey insects and other animals
-- **Burrowing**: Daytime retreat to escape soil temperature fluctuations, often 1-2 meters deep
-
-Termite colonies are particularly notable for their engineering: some develop deep galleries to 40 meters depth to mine water, and arrange air conditioning through adapted permeable surface nest structures.
-
-## Desert Classification by Rainfall
-
-| Classification | Annual Rainfall | Examples |
-|---|---|---|
-| Hyperarid | 0-2 cm | Atacama, Namib desert, central Sahara |
-| Extremely dry | 2-5 cm | Central Arabian desert |
-| Arid | 5-15 cm | Mohave, Sonora, Sahara margins |
-| Semi-arid | 15-20 cm (max 40 cm) | Australian deserts, Asian deserts, Kalahari |
-
-Above 40 cm and up to 75-100 cm, dry savannah forests become possible. Rainfall in arid areas is highly unreliable, with a normal 30% variation year-to-year and potential for 90% variation in any single year.
-
-## Desert Structure and Features
-
-### Zonation
-
-A typical extensive hot desert area consists of:
-
-- **Savannah edge**: Transition toward more humid monsoon areas
-- **Mediterranean climate edge**: Winter-wet, summer-dry zones
-- **Scattered shrub-forb associations**: Forbs are any non-grass herbaceous plants
-- **Dunes**: Formed on harder pavement areas
-- **Bare pavements**: Harder rocks with faceted pebbles (gibber plain or reg)
-
-### The Cryptogamic Crust
-
-One of the most critical and delicate features of desert soils is the **fungal-algal-lichen (cryptogam) crust** found on bare areas between plant clumps. This crust:
-
-- Prevents wind erosion of soil surfaces
-- Fixes atmospheric nitrogen
-- Facilitates water infiltration
-- Is extremely vulnerable to physical disturbance by hoofed animals
-- Can take decades to recover once destroyed
-
-Its preservation is **essential for soil stability** in any desert management plan.
-
-### Drainage Patterns
-
-Much of the water runoff system in deserts ends not in rivers but in inland salt-pans or basins (**endorheic drainage**), from which all water eventually evaporates. Normal erosion is primarily by wind, but rare cloudbursts shape the main erosion features and move vast quantities of loose material from hills in turbulent stream flow.
-
-## Water Resources in Deserts
-
-Deserts present a paradox: despite extreme aridity, several more humid environments exist:
-
-1. **Exotic rivers**: Flow in from better-watered or forested regions (e.g., the Nile through the Sahara)
-2. **Oases**: Localized wet areas fed by groundwater or surface water collection
-3. **Aquifers**: Underground water resources, often ancient (fossil water)
-
-All three must be used with extreme caution. Aquifers can be depleted over vast areas by immodest pumping, causing widespread subsidence, collapse of the aquifer, and permanent disappearance of oases fed by the aquifer.
-
-### The Transpiration Principle
-
-Instead of concentrating solely on exotic water sources, the priority should be to increase water input into aquifers, soils, and streams, and to **re-humidify desert air by planting trees and protecting existing vegetation**. It is the presence of trees and shrubs—transpiring rather than evaporating water—that keeps desert salts from accumulating at soil level. Once evaporation alone operates, capillary action brings subsurface salts to the surface as magnesium, sodium, calcium, and potassium compounds (chlorides, sulphates, carbonates), making it impossible to establish vegetative cover.
-
-## Biodiversity at Risk
-
-The semi-arid transitional areas are particularly species-rich, making [[desertification]] devastating to useful plant diversity:
+Desert animals employ diverse strategies for [[desertification]] devastating to useful plant diversity:
 
 - **Sonoran and Great Basin deserts**: Gary Nabham (1986) documented 450 edible plant species (20% of total species)
 - **West Australian wheat-belt**: Of 936 woody plants, 45% are at risk from agricultural expansion
@@ -140,6 +73,77 @@ Permanent cropping or herding cannot be sustained in regions that experience one
 Despite their harshness, deserts are profoundly inspirational for designers. The hills reveal patterns, rock types, and erosion processes. As light changes from dawn to evening, new insights arise from shadowed and illuminated areas. What is unclear on the ground becomes part of a coherent pattern when seen from hills or the air. Desert peoples, in the great silences and vastness of nature, arrive at profound mystical pattern concepts that reflect sensitive reaction to environmental imperatives.
 ## See Also
 
-- [[desert-gardening]]
 - [[dryland-building-and-settlement]]
 - [[arid-landscape-scarp-wadi-desert-settlement]]
+
+## Overview
+
+Dryland Strategies And Desert Ecology represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish dryland strategies and desert ecology
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving dryland extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Dryland Strategies And Desert Ecology finds practical application in multiple design contexts.
+[[permaculture-principles]] guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for dryland strategies and desert ecology. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+dryland strategies and desert ecology and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Dryland Strategies And Desert Ecology has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of dryland strategies and desert ecology into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions

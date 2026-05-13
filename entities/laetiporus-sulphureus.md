@@ -18,11 +18,7 @@ sources:
 
 ## Overview
 
-**Laetiporus sulphureus** is a polypore bracket fungus in the family Polyporaceae, commonly known as chicken-of-the-woods or sulphur shelf. It is one of the most widely recognized [[edible-wild-mushrooms-by-region]], prized for its chicken-like texture when cooked.
-
-The fungus is a brown-rot pathogen that decomposes the lignin and cellulose of hardwood trees, particularly oaks, cherries, and yews. It causes a serious heartwood decay that can compromise the structural integrity of living trees.
-
-[[bloomfield-asterophora-and-mycoparasites-of-fruiting-bodies]] are annual, bright orange to yellow, and grow in overlapping shelf-like clusters on trunks and stumps. The species has a circumglobal distribution in temperate and subtropical forests.
+**Laetiporus sulphureus** is a polypore bracket fungus in the family Polyporaceae, commonly known as chicken-of-the-woods or sulphur shelf. It is one of the most widely recognized [[bloomfield-asterophora-and-mycoparasites-of-fruiting-bodies]] are annual, bright orange to yellow, and grow in overlapping shelf-like clusters on trunks and stumps. The species has a circumglobal distribution in temperate and subtropical forests.
 
 Recent molecular phylogenetics have revealed that what was historically treated as a single polymorphic species actually constitutes a complex of several distinct species across different continents.
 
@@ -60,13 +56,11 @@ Basidiospores are hyaline, broadly ellipsoid, smooth, 6–8 × 4–5.5 µm. The 
 
 **Laetiporus sulphureus** sensu stricto is native to Europe, where it is widely distributed from the Mediterranean to Scandinavia. It is also found across temperate Asia.
 
-In [[psilocybin-north-america-pacific-northwest]], the "chicken-of-the-woods" complex includes several cryptic species. L. sulphureus s.s. is restricted to Europe; [[growing-gourmet-north-american-reishi-species]] populations are now classified as L. cincinnatus, L. huronensis, L. gilbertsonii, and others.
+In [[growing-gourmet-north-american-reishi-species]] populations are now classified as L. cincinnatus, L. huronensis, L. gilbertsonii, and others.
 
 The fungus is saprotrophic and parasitic, primarily on hardwoods. Preferred hosts include **Quercus** spp. (oaks), **Prunus** spp. (cherries, plums), **Salix** spp. (willows), and **Taxus** spp. (yews).
 
-It rarely occurs on conifers in Europe, though [[north-american-dmt-containing-plants-phalaris-desmanthus-peganum]] species in the complex do attack some softwood hosts. Fruitings appear from spring through autumn, typically May to October.
-
-The fungus grows on living trees as a heart rot pathogen and continues fruiting on [[fungal-dead-wood-diversity]] after the host dies. It is found in deciduous and mixed forests, woodlands, parks, and urban settings.
+It rarely occurs on conifers in Europe, though [[fungal-dead-wood-diversity]] after the host dies. It is found in deciduous and mixed forests, woodlands, parks, and urban settings.
 
 ## Edibility and Culinary Use
 

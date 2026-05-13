@@ -17,61 +17,7 @@ updated: 2026-04-28
 sources:
   - Hanuš, L.O. et al. (2005). "Myrrh — Commiphora molmol and C. myrrha." In: Traditional Medicinal Plants and Malaria. CRC Press.
   - Dolara, P. et al. (2000). "Analgesic effects of myrrh." Phytotherapy Research, 14(6), 460-462.
-  - Shen, T. et al. (2012). "[[guzman-magic-mushrooms-chemical-constituents]] from the resin of Commiphora myrrha." Chemistry & Biodiversity, 9(7), 1441-1450.
-  - Su, S. et al. (2011). "The genus Commiphora: A review of its traditional uses, phytochemistry and pharmacology." Journal of Ethnopharmacology, 135(2), 263-277.
-  - Bisset, N.G. (1994). Herbal Drugs and Phytopharmaceuticals. CRC Press.
----
-
-# Commiphora myrrha
-
-## Overview
-
-*Commiphora myrrha* is a thorny, deciduous shrub or small tree in
-the family Burseraceae, native to arid northeastern Africa and
-the Arabian Peninsula. It is the primary source of **myrrh**, one
-of the oldest resinous substances used in medicine, incense, and
-religious ritual, traded for over 4,000 years.
-
-The species produces a yellowish-brown, aromatic oleoresin when
-the bark is wounded. Myrrh remains important in Traditional
-Chinese Medicine (TCM) and Ayurveda, classified as a blood-moving,
-pain-relieving, and wound-healing herb. It is also used in modern
-dental care products.
-
-## Taxonomy and Morphology
-
-**Classification:**
-- Kingdom: Plantae
-- Division: Magnoliophyta
-- Class: Magnoliopsida
-- Order: Sapindales
-- Family: Burseraceae
-- Genus: *Commiphora*
-- Species: *C. myrrha*
-- Authority: (Nees) Engl. (1883)
-
-**Synonyms:** *Balsamodendron myrrha* Nees, *Commiphora molmol*
-Engl. (often used interchangeably in the botanical trade).
-
-**Habit:** Shrub or small tree, 1–4 m tall, with a gnarled,
-irregular canopy. Bark is papery and peeling, exuding resin
-from natural fissures.
-
-**Branches:** Armed with stout thorns 1–3 cm long at the nodes.
-Young branches are smooth and grey-green, becoming rough and
-grey-brown with age.
-
-**Leaves:** Compound, trifoliate (rarely 5-foliate), alternate.
-Leaflets 1–3.5 cm long, obovate to elliptical, glabrous to
-finely pubescent, greyish-green. Sparse foliage is an
-adaptation to arid conditions.
-
-**Flowers:** Small, greenish-yellow to reddish, borne in
-axillary panicles or fascicles. Dioecious or occasionally
-monoecious.
-
-**Fruit:** Ovoid drupe, ~1 cm diameter, reddish-brown when
-ripe, 2-lobed, each lobe containing a [[cervantes-selfing-single-seed-descent]].
+  - Shen, T. et al. (2012). "[[cervantes-selfing-single-seed-descent]].
 
 ## Distribution and Habitat
 
@@ -84,13 +30,87 @@ dry savanna, and desert margins at 200–1,500 m elevation.
 The species is highly drought-tolerant, surviving on 150–300
 mm of annual rainfall.
 
-It is often found with *[[acacia]]*, *Boswellia*, and other
-drought-adapted woody plants in degraded rangelands.
+It is often found with *[[acacia]]
+- [[soma]]
+- [[commiphora-mukul]]
 
-## Chemistry and Bioactive Compounds
+## Overview
+
+Commiphora Myrrha represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish commiphora myrrha
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving commiphora extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Commiphora Myrrha finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for commiphora myrrha. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+commiphora myrrha and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Commiphora Myrrha has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of commiphora myrrha into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
 
 ## See Also
-- [[acacia]]
-- [[dom]]
-- [[soma]]
+
 - [[commiphora-mukul]]

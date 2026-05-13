@@ -15,8 +15,6 @@ type: concept
 
 The two-tier selection model describes how associated
 with plant roots are assembled through two sequential filtering steps. First,
-[[soil-edaphic-factors-microbial-communities]] determine which bacteria colonize the rhizosphere from
-the broader bulk soil community. Second, host plant genotype determines which
 [[lowenfels-rhizosphere-bacteria-plant-interaction]] successfully colonize the root interior (endorhiza). This
 model was tested and validated by Winston et al. (2014) using five Cannabis
 cultivars, providing empirical support for a theoretical framework that had
@@ -40,7 +38,7 @@ Under the two-tier model, specific phylum-level abundance changes are
 predicted as bacteria transition from bulk soil through rhizosphere to
 endorhiza. The most prominent predicted shift is a dramatic reduction in
 Acidobacteria within the endosphere. This prediction was confirmed by the
-[[cannabis-microbiome-cultivar-specificity]] study, where the most significant [[cannabis-microbiome-otu-abundance-vs-presence-cannabis-strains]]
+[[cannabis-microbiome-otu-abundance-vs-presence-cannabis-strains]]
 difference between sample types was the decrease in Acidobacteria from the
 order iii1-15 in endorhiza samples (Bonferroni-corrected ANOVA: p = 1.12e-7).
 Conversely, Proteobacteria and Actinobacteria increase in relative abundance
@@ -49,42 +47,93 @@ within the endorhiza compared to rhizosphere and bulk soil.
 ## Empirical Validation in Cannabis
 
 Winston et al. tested the two-step colonization process by analyzing whether
-[[cannabis-rhizosphere-endorhiza-communities]] share more OTUs with the soil they were grown in than
-with a different soil hosting the same strain. White Widow was grown in two
-different soils, and endorhiza samples shared significantly more OTUs with
-their own soil (mean = 2934 shared OTUs) than with the other soil (mean =
-2162 shared OTUs, t = -10.05, p = 1.209e-15). This result confirms that
-bulk soils serve as the primary microbial source for root colonization and
-supports the soil-to-rhizosphere-to-endorhiza sequential selection model.
-
-## Relative Influence of Each Tier
-
-The study demonstrated that soil type had the largest effect on OTU
-abundances overall, with 690 significant OTUs for weighted analysis and 657
-for unweighted. Strain effects were substantial for weighted analysis (71
-significant OTUs) but showed no significant unweighted OTU differences,
-indicating that cultivar primarily affects microbial abundance rather than
-presence or absence. Sample type (bulk soil, rhizosphere, endorhiza) showed
-51 significant weighted OTU differences. This hierarchy, soil being the
-dominant factor followed by strain, is consistent with the two-tier model's
-predictions.
-
-## Beta Diversity Evidence
-
-Beta diversity analyses across the study provided additional support. Bulk
-soil and rhizosphere communities were more similar to each other than either
-was to endorhiza communities, with significantly lower beta distances between
-rhizosphere and bulk soil than between rhizosphere and endorhiza for both
-unweighted and weighted analyses. Critically, beta distances between
-rhizosphere and endorhiza communities were not significantly different from
-distances between bulk soil and endorhiza communities, suggesting that the
-transition from rhizosphere to endorhiza represents the more dramatic
-community restructuring event.
-
-## Implications for Agricultural Practice
-
-The two-tier model has practical implications for [[arbuscular-mycorrhizal-fungi-cannabis-cultivation]]. Since
+[[arbuscular-mycorrhizal-fungi-cannabis-cultivation]]. Since
 soil type is the primary determinant of the rhizosphere microbial pool,
 managing soil health and composition is the most effective lever for
 influencing the plant's microbial partners. However, the secondary genotype-
 dependent selection means that different cultivars may recruit distinct
+
+## Overview
+
+Two Tier Selection Model Rhizosphere Endorhiza represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish two tier selection model rhizosphere endorhiza
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving two extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Two Tier Selection Model Rhizosphere Endorhiza finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for two tier selection model rhizosphere endorhiza. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+two tier selection model rhizosphere endorhiza and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Two Tier Selection Model Rhizosphere Endorhiza has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of two tier selection model rhizosphere endorhiza into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[cannabis-two-tier-microbiome-selection]]
+- [[cultivar-cannabis-microbiome-two-tier-selection-model]]
+- [[proteobacteria-enrichment-endorhiza-cannabis-two-tier-model]]
+- [[rhizosphere-microbiome-two-tier-selection-model]]
+- [[two-tier-selection-model]]

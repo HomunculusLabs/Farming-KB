@@ -18,13 +18,7 @@ sources:
 
 ## Overview
 
-Fungal plant pathogens cause devastating crop losses worldwide. The rice blast fungus [[magnaporthe-grisea]] serves as a model system for understanding fungal plant pathogenicity through functional genomics. M. grisea is a heterothallic, phytopathogenic ascomycete capable of infecting over 50 species of grass, with rice being the most economically important host. Rice blast disease destroys 11-30% of the rice harvest annually. The American CDC has classified rice blast as a significant biological weapon potential. Fungal structure can be a significant determinant of virulence for both human and plant pathogens.
-
-## Infection Biology of Magnaporthe grisea
-
-Rice blast manifests as different pathologies affecting stems, leaves and panicles. Blast infections of stem nodes cause the rice stem to rot before seed maturation, resulting in complete crop loss. Leaf infections reduce photosynthetic capacity, impede growth and can kill seedlings. Symptoms appear as ellipsoid, brown necrotic lesions developing 4-5 days after infection.
-
-The life cycle begins when three-celled asexual conidia, dispersed by wind, dew or rain splash, attach to the hydrophobic rice [[bloomfield-rust-germ-tube-tactile-sensing-leaf-surface-navigation]]. The conidial apex releases adhesive that attaches the [[spore]] tightly. Within an hour a germ tube develops; within four hours the tube hooks, changes direction, swells and flattens against the leaf surface, marking differentiation into a specialized infection structure called the appressorium. The appressorium develops an inner melanin layer and outer chitin layer, enabling generation of up to 8 MPa of [[bloomfield-turgor-pressure-and-hyphal-invasion]]. A penetration peg pierces the plant epidermis, differentiates into branched intracellular hyphae that colonize the plant and produce spores. Asexual reproduction predominates in the field with typically clonal populations, though sexual reproduction occurs near the Himalayas where higher genotypic diversity suggests genetic recombination and gene flow.
+Fungal plant pathogens cause devastating crop losses worldwide. The rice blast fungus [[bloomfield-rust-germ-tube-tactile-sensing-leaf-surface-navigation]]. The conidial apex releases adhesive that attaches the [[bloomfield-turgor-pressure-and-hyphal-invasion]]. A penetration peg pierces the plant epidermis, differentiates into branched intracellular hyphae that colonize the plant and produce spores. Asexual reproduction predominates in the field with typically clonal populations, though sexual reproduction occurs near the Himalayas where higher genotypic diversity suggests genetic recombination and gene flow.
 
 M. grisea can also infect roots under laboratory conditions, producing structures similar to hyphopodia of root-infecting fungi such as Gaeumannomyces graminis. Gene-for-gene resistance operates during root infection, and up to 10% of root-inoculated plants showed systemic disease with leaf lesions.
 
@@ -34,13 +28,7 @@ The M. grisea genome contains 11,109 predicted genes, comparable neurospora cras
 
 1. **Acquisition of novel genes**: Pathogens may have acquired new genes enabling plant infection, through horizontal transfer or gene duplication and divergence. M. grisea has 122 predicted cytochrome P450 genes versus only 37 in the closely related saprotroph N. crassa. P450s are involved in toxin biosynthesis and detoxification of antifungal compounds. M. grisea also has nine putative cutinase genes (none in N. crassa) that break down cutin on leaf surfaces.
 
-2. **Differential regulation of shared genes**: Genes present in both pathogens and non-pathogens may evolve different roles. Examples include [[fungal-environmental-sensing-signal-transduction-read]] genes (MAP kinases, adenylate cyclases, G-proteins, cAMP-dependent protein kinases). M. grisea accumulates arabitol (not glycerol like yeast) as compatible solute; glycerol generates enormous turgor for appressorial penetration.
-
-3. **Gene loss**: Pathogenicity may be associated with loss of certain genes, though few eukaryotic examples exist.
-
-## Fungal Pathogen Lifestyles
-
-Originally, [[bloomfield-fungal-pathogens-and-parasites]] were classified as necrotrophs (killing host cells and using dead material) or biotrophs (deriving nutrition from living tissue). A third class, hemibiotrophs, have an initial biotrophic phase followed by necrotrophic growth. M. grisea is frequently classified as both a necrotroph and a hemibiotroph -- it does not induce overt disease symptoms until 3 days after infection, and host cells are not damaged during initial infection. Biotrophs induce salicylate-dependent defence pathways while necrotrophs induce jasmonate and ethylene-dependent pathways, with interaction between the two.
+2. **Differential regulation of shared genes**: Genes present in both pathogens and non-pathogens may evolve different roles. Examples include [[bloomfield-fungal-pathogens-and-parasites]] were classified as necrotrophs (killing host cells and using dead material) or biotrophs (deriving nutrition from living tissue). A third class, hemibiotrophs, have an initial biotrophic phase followed by necrotrophic growth. M. grisea is frequently classified as both a necrotroph and a hemibiotroph -- it does not induce overt disease symptoms until 3 days after infection, and host cells are not damaged during initial infection. Biotrophs induce salicylate-dependent defence pathways while necrotrophs induce jasmonate and ethylene-dependent pathways, with interaction between the two.
 
 ## Functional Genomics Approaches
 
@@ -50,12 +38,7 @@ EST (expressed sequence tag) analysis provides rapid gene expression confirmatio
 
 ## Appressorium Development and Signal Transduction
 
-Appressorium development involves multiple signalling pathways. The PMK1 MAP kinase gene is essential for appressorium formation and [[fungal-hyphae-invasive-growth-mechanisms]]. The Dos1/ Dos2 transcriptional co-regulators maintain cellular turgor under hyperosmotic stress. The Pmk1 MAP kinase pathway is suppressed during hyperosmotic stress, and a Ptc-type phosphatase prevents cross-talk between hyperosmotic stress and infection-related pathways. Compatible solute accumulation during infection-related development is regulated by multiple pathways, with the Dos1/ Dos2 complex playing a key role in maintaining osmotic gradient across the appressorium membrane.
-
-## See Also
-
-- [[magnaporthe-grisea-functional-genomics-rice-blast]]
-- [[fungal-plant-diseases]]
+Appressorium development involves multiple signalling pathways. The PMK1 MAP kinase gene is essential for appressorium formation and [[magnaporthe-grisea-functional-genomics-rice-blast]]
 - [[biodiversity-of-fungi-plant-health-pathogens-biocontrol]]
 - gadd fungal environmental genomics
 
@@ -118,8 +101,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[dom]]
 - [[det]]
-- [[neurospora-crassa]]
 - [[spore]]
 - [[magnaporthe-grisea]]

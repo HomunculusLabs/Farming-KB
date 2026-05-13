@@ -10,7 +10,7 @@ type: query
 
 # What Is Syntropic Agriculture and How Do I Start?
 
-**Syntropic agriculture** (or *syntropic farming*) is a regenerative farming system developed by Swiss farmer Ernst Götsch in Brazil beginning in the 1980s. It mimics the natural succession of forest ecosystems to produce food, timber, and fiber while continuously improving soil health and biodiversity. The word "syntropy" refers to the life-organizing principle — the opposite of entropy — where energy is captured and concentrated into increasingly complex biological systems rather than dissipated.
+**[[syntropic-agriculture]]** (or *syntropic farming*) is a regenerative farming system developed by Swiss farmer Ernst Götsch in Brazil beginning in the 1980s. It mimics the natural succession of forest ecosystems to produce food, timber, and fiber while continuously improving soil health and biodiversity. The word "syntropy" refers to the life-organizing principle — the opposite of entropy — where energy is captured and concentrated into increasingly complex biological systems rather than dissipated.
 
 Unlike conventional agriculture, which simplifies ecosystems and degrades soil over time, syntropic farming **accelerates natural succession** to create productive, self-maintaining food forests. It has been successfully applied across tropical, subtropical, and increasingly temperate climates worldwide.
 
@@ -21,23 +21,15 @@ Syntropic systems are organized into vertical strata that mirror a natural fores
 
 - **Emergent layer** — tall timber trees (canopy pioneers, climax species)
 - **High canopy** — medium trees for fruit, nuts, or timber
-permaculture and agroforestry but is distinguished by its intense focus on succession management and the principle that pruning drives system fertility.
+[[permaculture]] and agroforestry but is distinguished by its intense focus on succession management and the principle that pruning drives system fertility.
 
 ## Resources for Learning More
 
 - **Ernst Götsch's work** — search for "Life in Syntropy" documentary (free online)
 - **Felipe Pasini and Dayana Andrade** — Brazilian practitioners who teach syntropic methods internationally
 - **Project Wadi Attir** — syntropic principles applied in arid Middle Eastern conditions
-- **Lincoln Smith** — applies syntropic methods in temperate [[psilocybin-north-america-pacific-northwest]]
-- **Syntropic Agroforestry groups** — active communities on Facebook and Telegram sharing regional experiences
+- **Lincoln Smith** — applies syntropic methods in temperate [[query-what-is-agroforestry-and-how-can-i-start]]
 
-The best way to learn syntropic agriculture is to start small, observe closely, and prune boldly. The system teaches you as much as you teach it.
-
-## See Also
-
-- [[query-what-is-agroforestry-and-how-can-i-start]]
-
-- [[query-what-is-biodynamic-agriculture-and-how-does-it-differ-from-organic]]
 - [[query-what-is-silvopasture-and-how-does-it-work]]
 ## Practical Considerations
 

@@ -16,10 +16,7 @@ sources:
 The fundamental approach: sow and plant everything in large enough quantities so that deer, birds, hares, and mice all have something to eat. Nature is fertile enough to provide for everyone. When humans become too miserly, a great battle against fellow creatures begins.
 
 ### Distraction Plants
-- Jerusalem artichokes (also serve as [[comparison-green-manure-guide-vs-mulch-types-and-effects]])
-- Various kinds of clover (also serve as green manure)
-- Buckwheat (also serves as green manure)
-- Various types of [[holzer-soft-fruit-bushes-and-berries]] (especially effective at keeping deer away from polycultures)
+- Jerusalem artichokes (also serve as [[holzer-soft-fruit-bushes-and-berries]] (especially effective at keeping deer away from polycultures)
 - Extra willow trees, especially in front of slopes (deer much prefer stripping willows because bark is softer and more elastic)
 
 ### Natural Branch Protection
@@ -70,20 +67,11 @@ If using naphtha or beechwood tar instead of bone salve (less intense odour):
 ### Observed Effectiveness
 Holzer observed a deer and her fawn trying to eat young fruit trees that had been sprinkled with the salve. For the first couple of bites, no reaction. Then the deer began acting as if crazy -- gagging, throwing its head from side to side, running wildly and trying to wipe the taste from its mouth on the grass. The fawn reacted the same way. The salve has not let Holzer down to this day.
 
-See also: [[permaculture-grazing-and-pasture]], [[holzer-green-manure-and-soil-building-plants]] for [[hamilton-seasonal-planting-calendars]] calendars.
-
-### Complementary Physical Protection Methods
-
-While Holzer's biological and olfactory methods form the core of his approach, certain situations require additional physical barriers. Individual tree guards made from wire mesh or plastic spirals provide reliable protection for young saplings during their first few years of establishment. These are most necessary when establishing new plantings in areas with high deer populations before the broader ecosystem has developed sufficient alternative forage. Electric fencing at two metres height, as Holzer uses for his wild cattle, can also serve double duty as a deer exclusion barrier when properly maintained. However, Holzer cautions against over-reliance on fencing, noting that it creates an artificial separation between the farm and the surrounding ecosystem. His preference is always to create conditions where browsing animals and cultivated plants can coexist through abundance rather than exclusion. For gardens and high-value plantings near woodland edges, a combination approach works best: physical protection for the most vulnerable plants during establishment, distraction planting to divert browsing pressure, and browsing salve as a persistent repellent for trees that outgrow individual guards. See [[holzer-wild-fruit-trees-and-hedges]] for integrating protection with productive hedgerows.
+See also: [[holzer-green-manure-and-soil-building-plants]] for [[holzer-wild-fruit-trees-and-hedges]] for integrating protection with productive hedgerows.
 
 ### Long-Term Landscape Integration
 
-The most effective browsing protection in Holzer's system is achieved through long-term landscape design that makes browsing animals a net benefit rather than a problem. As a permaculture system matures, the increasing diversity and abundance of food sources naturally reduces browsing pressure on any single species. Young food forests are most vulnerable during their establishment phase when trees are small and alternative forage is limited. Holzer addresses this by designing establishment sequences that begin with fast-growing pioneer species and sacrificial plants that bear the brunt of early browsing while slower-growing fruit trees and timber species establish below the browse line. Thorny hedges of wild roses, barberries, and blackthorn serve a dual purpose — they physically exclude deer from protected areas while producing berries that feed birds and provide habitat for predatory insects that control orchard pests. As the system matures, these functional hedges become productive elements in their own right. Holzer also emphasizes that deer and other browsing animals perform valuable [[biodiversity-of-fungi-ecosystem-services-agriculture]] including seed dispersal, [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] through their droppings, and vegetation management that maintains open areas and prevents any single species from dominating. The goal is not to exclude wildlife but to design systems where their presence contributes to overall productivity. See [[permaculture-grazing-and-pasture]] for integrated animal-plant systems.
-
-### Adapting the Approach for Different Scale Sites
-
-Holzer's browsing protection methods were developed on his 45-hectare Krameterhof in the Austrian Alps, but the principles translate to smaller properties with appropriate modifications. For suburban gardens of 500-2000 square metres, the natural distraction strategy can be adapted by interplanting sacrificial crops among valued plants — letting clover and wildflowers grow as ground cover rather than maintaining bare soil, and planting berry bushes at the garden perimeter as the first food source browsing animals encounter. The browsing salve remains effective at any scale and requires only small quantities of ingredients; Holzer's recipe can be scaled down for a handful of trees. On properties of 1-5 hectares, a more complete implementation becomes possible: dedicated distraction zones planted with preferred forage species can be established at the woodland-garden interface, creating a buffer where animals feed before reaching cultivated areas. Thorny hedge plantings of wild roses, blackthorn, and barberry provide both physical barriers and productive yields of berries and flowers. For larger properties above 5 hectares, Holzer's full system of paddock rotation, mixed plantings, and browsing salve can be implemented as designed. The key principle at any scale is abundance rather than exclusion — creating conditions where browsing animals have enough alternative food that they lose interest in protected plants. Even a small garden can apply this principle by maintaining biodiversity and avoiding the manicured, plant-free aesthetic that signals food scarcity to browsing animals. See faires-deer-proofing-and-wildlife-control for suburban-scale wildlife management and [[holzer-wild-fruit-trees-and-hedges]]
-- [[holzer-green-manure-and-soil-building-plants]]
+The most effective browsing protection in Holzer's system is achieved through long-term landscape design that makes browsing animals a net benefit rather than a problem. As a permaculture system matures, the increasing diversity and abundance of food sources naturally reduces browsing pressure on any single species. Young food forests are most vulnerable during their establishment phase when trees are small and alternative forage is limited. Holzer addresses this by designing establishment sequences that begin with fast-growing pioneer species and sacrificial plants that bear the brunt of early browsing while slower-growing fruit trees and timber species establish below the browse line. Thorny hedges of wild roses, barberries, and blackthorn serve a dual purpose — they physically exclude deer from protected areas while producing berries that feed birds and provide habitat for predatory insects that control orchard pests. As the system matures, these functional hedges become productive elements in their own right. Holzer also emphasizes that deer and other browsing animals perform valuable [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] through their droppings, and vegetation management that maintains open areas and prevents any single species from dominating. The goal is not to exclude wildlife but to design systems where their presence contributes to overall productivity. See [[holzer-wild-fruit-trees-and-hedges]]
 - [[holzer-alpine-plant-cultivation-gentian]]
 
 ## Practical Applications
@@ -115,8 +103,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[doc]]
 - [[dom]]
-- [[jerusalem-artichoke]]
 - [[permaculture]]
 - [[food-forest]]

@@ -1,45 +1,6 @@
 ---
 title: query-how-to-make-sourdough-bread-at-home Science and Fermentation
-subtitle: The [[fukuoka-microbial-ecology-decomposition]], dough chemistry, and practical culture of
-  naturally leavened bread.
-tags:
-  - sourdough
-  - fermentation
-  - lactic-acid-bacteria
-  - wild-yeast
-  - bread
-  - homesteading
-  - natural-farming
-date: 2026-04-28
-updated: 2026-04-28
-sources:
-  - sourdough-bread-guide.md
-  - wild-yeast-bread-baking.md
-  - faires-yogurt-and-sourdough-making.md
-  - lactic-acid-bacteria-lab.md
-  - lactic-acid-bacteria-natural-farming.md
-  - knf-lactic-acid-bacteria-serum.md
-  - cho-lactic-acid-bacteria-preparation.md
-  - lactic-acid-bacteria-knf.md
-  - bionutrients-lab-lactic-acid-bacteria-serum.md
-  - amanita-muscaria-living-bread-sacrament.md
-related_concepts:
-  - sourdough-bread-guide
-  - wild-yeast-bread-baking
-  - faires-yogurt-and-sourdough-making
-  - lactic-acid-bacteria-lab
-  - lactic-acid-bacteria-natural-farming
-  - knf-lactic-acid-bacteria-serum
-  - cho-lactic-acid-bacteria-preparation
-  - lactic-acid-bacteria-knf
-  - bionutrients-lab-lactic-acid-bacteria-serum
-  - amanita-muscaria-living-bread-sacrament
----
-
-# Sourdough Bread Science and Fermentation
-
-Sourdough bread is a naturally leavened bread made by fermenting flour
-and water with a stable culture of wild yeasts and lactic [[lactic-acid-bacteria-knf]].
+subtitle: The [[lactic-acid-bacteria-knf]].
 The culture, commonly called a starter, replaces commercial baker's yeast
 as the main source of carbon dioxide. It also acidifies the dough,
 changes the behavior of gluten and starch, and produces the flavor that
@@ -55,9 +16,7 @@ aroma, crust color, and keeping quality.
 Sourdough also belongs to the larger family of household and agricultural
 fermentations. The same broad group of lactic acid bacteria involved in
 bread appears in yogurt, vegetable ferments, animal feeds, compost
-systems, and Korean [[comparison-natural-farming-vs-permaculture]] inputs. In each setting, sugars are
-converted into organic acids and other metabolites that preserve food,
-shape microbial succession, and alter [[ph-and-nutrient-availability-garden-soils]].
+systems, and Korean [[ph-and-nutrient-availability-garden-soils]].
 
 Historically, sourdough links grain agriculture, home food preservation,
 and regional culture. Before industrial yeast, naturally leavened bread
@@ -120,30 +79,15 @@ substrates and is easy to stir and observe. A stiff starter ferments more
 slowly and may encourage different acid balances. Feeding ratios also
 ## See Also
 
-[[sourdough-bread-guide]]
-
 [[wild-yeast-bread-baking]]
 
 faires-yogurt-and-sourdough-making
 
-[[lactic-acid-bacteria-lab]]
-
 [[lactic-acid-bacteria-natural-farming]]
-
-[[knf-lactic-acid-bacteria-serum]]
 
 [[cho-lactic-acid-bacteria-preparation]]
 
-[[lactic-acid-bacteria-knf]]
-
 [[bionutrients-lab-lactic-acid-bacteria-serum]]
 
-[[amanita-muscaria-living-bread-sacrament]]
-
-## References
-
-This topic synthesizes the Farming KB concept pages listed in the YAML
-frontmatter, especially the practical sourdough guides, the homestead
-fermentation notes, the KNF and bionutrients LAB serum preparations, and
-the [[amanita-muscaria-living-bread-sacrament]] sacrament concept as a cultural comparison rather than a
+[[amanita-muscaria-living-bread-sacrament]] sacrament concept as a cultural comparison rather than a
 baking method.

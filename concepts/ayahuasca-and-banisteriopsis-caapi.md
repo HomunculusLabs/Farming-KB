@@ -1,22 +1,12 @@
 
 # Ayahuasca and Banisteriopsis caapi
 
-Ayahuasca is a psychoactive brew prepared from the bark of the *Banisteriopsis caapi* vine, native to the Amazon basin. [[golden-guide-amanita-muscaria-and-soma]] to [[psychotria-viridis]]** (chacruna) or **[[dmt-containing-plants-and-maoi-combination]] admixture plant. Provides the primary visionary compound.
-
-This combination is necessary because DMT is not orally active on its own — it is rapidly broken down by monoamine oxidase (MAO) enzymes in the gut and liver. The beta-carboline alkaloids in *B. caapi* are [[default-mode-network-and-ego-dissolution]] connectivity similar to other psychedelics.
+Ayahuasca is a psychoactive brew prepared from the bark of the *Banisteriopsis caapi* vine, native to the Amazon basin. [[psychotria-viridis]]** (chacruna) or **[[default-mode-network-and-ego-dissolution]] connectivity similar to other psychedelics.
 
 ### Risks and Contraindications
 
-- **MAOI interactions** — The [[turner-harmala-alkaloids-preparation-and-dosage]] in ayahuasca can interact dangerously with SSRI antidepressants, certain foods (tyramine-rich), and other medications.
-- **Cardiovascular effects** — Ayahuasca can increase heart rate and blood pressure.
-- **Psychological risks** — Challenging experiences ("bad trips") can occur, particularly in uncontrolled settings.
-- **Purgative effects** — Nausea, vomiting, and diarrhea are common and culturally considered part of the cleansing process.
-
-## See Also
-
-- [[peyote-and-mescaline]]
-- [[datura-as-hallucinogen]]
-- sacred [[sacred-mexican-morning-glories-ololiuqui-and-tlitliltzin]] and ololiuqui
+- **MAOI interactions** — The [[peyote-and-mescaline]]
+- [[sacred-mexican-morning-glories-ololiuqui-and-tlitliltzin]] and ololiuqui
 ## Background and Context
 
 Ayahuasca And Banisteriopsis Caapi is an important subject that has garnered significant attention
@@ -117,8 +107,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[banisteriopsis-caapi]]
 - [[ayahuasca]]
-- [[dom]]
 - [[det]]
 - [[mescaline]]

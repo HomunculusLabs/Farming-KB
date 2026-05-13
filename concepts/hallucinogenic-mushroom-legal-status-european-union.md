@@ -7,13 +7,7 @@ tags: [emcdda, europe, hallucinogenic-mushrooms, regulation, legal-status, preva
 
 ## International Framework and Baseline Controls
 
-[[psilocin-and-psilocybin-chemistry]], the primary psychoactive compounds found in
-hallucinogenic mushrooms, are controlled under the 1971 UN Convention on
-Psychotropic Substances. They are listed in Schedule I under the names
-psilocybine and psilocine (or psilotsin) respectively. All EU Member States
-control these substances accordingly at the chemical level. However, the
-legal status of the mushrooms themselves, as biological organisms containing
-these [[controlled-substances-act-and-psychedelic-research]], has varied significantly across EU countries and
+[[controlled-substances-act-and-psychedelic-research]], has varied significantly across EU countries and
 over time, creating a complex and evolving regulatory landscape.
 
 The fundamental challenge in regulating hallucinogenic mushrooms stems from
@@ -29,12 +23,7 @@ effective mechanisms to control supply.
 
 Between 2001 and 2006, six EU Member States tightened their legislation on
 hallucinogenic mushrooms, coinciding with concerns about increasing
-prevalence of use in these countries. The [[emcdda-eu-legislative-timeline-hallucinogenic-mushrooms-2001-2006]] unfolded as
-follows:
-
-**Denmark (July 2001):** Denmark was the first EU country to address
-hallucinogenic mushrooms in legislation, adding 'mushrooms or spores of
-[[guzman-allen-gartz-psilocybe-semilanceata-temperate-cosmopolitan-distribution]], Psilocybe cubensis or other fungi/spores
+prevalence of use in these countries. The [[guzman-allen-gartz-psilocybe-semilanceata-temperate-cosmopolitan-distribution]], Psilocybe cubensis or other fungi/spores
 containing psilocin or psilocybin, including grown, dried or processed in
 any other manner' as a controlled substance.
 
@@ -122,15 +111,7 @@ Finland, Greece, Hungary, Latvia, Lithuania, Romania, and Turkey report
 easy access, while over 20% in the Czech Republic, Ireland, Italy, Poland,
 and the UK report easy access.
 
-[[emcdda-hallucinogenic-mushroom-clubbing-surveys-and-prevalence]] conducted in dance music settings show consistently higher
-prevalence estimates than general or school population surveys, with
-lifetime prevalence ranging from 9% of clubbers in Budapest to 55% in
-France, demonstrating significantly higher use among nightlife cultures.
-
-## Impact of Legislation: The UK Experience
-
-The UK provides the most documented example of the impact of legislation on
-the [[hallucinogenic-mushroom-market-in-europe]]. Prior to July 2005, an estimated 300
+[[hallucinogenic-mushroom-market-in-europe]]. Prior to July 2005, an estimated 300
 shops and market stalls across the UK sold hallucinogenic mushrooms, with
 the UK Treasury collecting sales tax estimated to be worth up to GBP 175,000
 per year on a turnover of approximately GBP 1 million per annum.
@@ -144,6 +125,5 @@ truffles, and growkits were about to become controlled substances.
 
 Since the reclassification, seizures by law enforcement authorities have
 ## See Also
-- [[legal-responses-to-hallucinogenic-mushrooms-in-the-european-union]]
 - [[hallucinogenic-mushroom-legal-status-eu]]
 - [[hallucinogenic-mushroom-legal-status-europe]]

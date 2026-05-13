@@ -20,41 +20,19 @@ For short-term storage of up to a year, a dark drawer in an airtight container w
 
 Cannabis seeds are living embryos in a state of dormancy, and their longevity depends on slowing the metabolic processes that lead to cellular degradation.
 
-The three primary enemies of [[cannabis-seed-storage-and-viability]] are:
-
-- **Heat** - accelerates metabolic rate and enzyme activity within the seed
-- **Moisture** - promotes mold, [[brassinosteroid-fungal-growth-promotion]], or premature germination
+The three primary enemies of [[brassinosteroid-fungal-growth-promotion]], or premature germination
 - **Light** - triggers photochemical changes that damage cellular structures
 
-The [[cannabis-seed-storage-and-viability]] research shows that seeds frozen with appropriate moisture content demonstrate minimal loss of germination rates even after a decade. Strain genetics also play a role, with some indica-dominant lines showing exceptional longevity.
-
-## Moisture Control
-
-Moisture control is equally important because seeds that are too damp risk mold and premature germination, while seeds that are too dry can suffer cellular membrane damage during freezing.
-
-The ideal moisture content for long-term storage is between 5 and 8 percent.
-
-Achieving this level typically involves:
-
-- Air-drying seeds for several days after harvest in [[pf-tek-low-humidity-symptoms-and-remediation]]
+The [[pf-tek-low-humidity-symptoms-and-remediation]]
 - Placing them in airtight containers with food-grade silica gel packs
 - Using humidity indicator cards to monitor conditions without opening containers
 - Adding oxygen absorbers to slow oxidative degradation of seed lipids
 
-Vacuum-sealing removes oxygen, which slows the degradation of proteins and lipids within the seed embryo. Professional [[cannabis-seed-germination]] paper towel method provides a simple approach: place seeds between moist paper towels in a sealed bag at room temperature and check for taproot emergence after 48 to 72 hours.
-
-Testing tips:
-
-- Test two to three seeds from each batch every six to twelve months
-- If germination drops below 70 percent, consider growing out remaining stock
-- Seeds that fail may benefit from scarification or a [[cervantes-hydrogen-peroxide-sterilization]] soak
-- For breeders, regular grow-outs of stored [[cannabis-seed-storage-and-viability]] longevity
-- Maintain moisture between 5 and 8 percent using silica gel in airtight, opaque containers
-- Vacuum-seal with oxygen absorbers for maximum [[cannabis-seed-germination]] methods
+Vacuum-sealing removes oxygen, which slows the degradation of proteins and lipids within the seed embryo. Professional [[cervantes-hydrogen-peroxide-sterilization]] soak
+- For breeders, regular grow-outs of stored [[cannabis-seed-germination]] methods
 
 ## Related
 
-- [[query-how-to-germinate-cannabis-seeds]]
 - [[query-how-to-start-seed-saving]]
 ## Practical Considerations
 

@@ -10,17 +10,7 @@ type: concept
 created: 2026-04-28
 ---
 
-[[conventional-vs-organic-vs-regenerative]] and the paradoxes of the natural food market.
-
-## The Mandarin Orange Processing Pipeline
-
-Fukuoka traced what happens to Unshu mandarin oranges between harvest and market. The process involves five or six chemical
-treatments beyond the fertilizers and sprays used during growth.
-
-First, colour-accelerating chemicals are sprayed on trees so the fruit becomes fully coloured one week earlier. Whether the fruit is
-sold a week before or after October 10th, the price either doubles or falls by half, so the farmer applies the chemicals. Second,
-artificial sweeteners are applied because early-shipped fruit is not sweet enough. Although general chemical sweeteners are
-prohibited, the specific spray used on [[fukuoka-textdoc-search-natural-form-citrus-trees]] has not been specifically outlawed and almost everybody is using it.
+[[fukuoka-textdoc-search-natural-form-citrus-trees]] has not been specifically outlawed and almost everybody is using it.
 
 Third, the fruit goes to a ripening room for gas treatment after harvest. Fourth, each piece is sent rolling several hundred yards
 down a long conveyor to separate sizes. Bruising is common; the larger the sorting centre, the longer the fruit is bounced and
@@ -83,16 +73,14 @@ year he had been asked to ship two or three times as much as before. The fruit w
 
 Fukuoka was furious when a Tokyo merchant sold his honey and mountain eggs at extravagant prices. He immediately stopped all
 shipments, suspecting the merchant would also mix his rice with other rice to increase weight. His position was clear: "If a high
-price is charged for natural food, it means that the merchant is taking excessive profits. Furthermore, if [[fukuoka-natural-foods-movement-america]] are
-expensive, they become [[fukuoka-textdoc-fox-rabbit-grass-energy-cascade-caloric-waste-luxury-foods]] and only rich people are able to afford them."
+price is charged for natural food, it means that the merchant is taking excessive profits. Furthermore, if [[fukuoka-textdoc-fox-rabbit-grass-energy-cascade-caloric-waste-luxury-foods]] and only rich people are able to afford them."
 
 The consumer bias that natural food must be expensive works against widespread adoption. One retailer remarked that no one would buy
 natural produce unless it was priced high. Fukuoka insisted the opposite: natural food should be available locally at a reasonable
 price. "If the consumer will only adjust to the idea that low prices do not mean that the food is not natural, then everyone will
 begin thinking in the right direction."
 
-## The Economic Case for [[fukuoka-one-straw-revolution-principles]]
-- [[fukuoka-natural-farming-philosophy]]
+## The Economic Case for [[fukuoka-natural-farming-philosophy]]
 
 ## Practical Applications
 
@@ -123,8 +111,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[doc]]
 - [[det]]
-- [[fukuoka-textdoc-attaining-natural-form-fruit-trees]]
 - [[fukuoka-fruit-tree-disease-pest-control-natural-predators]]
 - [[natural-fruit-tree-form-and-non-pruning]]

@@ -13,18 +13,8 @@ sources:
 
 Updated: 2026-04-18
 
-Soil pH -- the measure of hydrogen ion concentration on a logarithmic scale from 0 (most acidic) to 14 (most alkaline) -- is arguably the single most important chemical property of soil. It determines whether nutrients are available for plant uptake and which organisms dominate the [[singh-fungal-roles-in-soil-aggregate-formation]] -- [[arbuscular-mycorrhizal-fungi-biology-symbiosis]] prefer ammonium nitrogen. Coniferous forests naturally create acidic, fungal soils.
-- **Nitrate (NO3-)** dominates in **alkaline soils** (pH above 7). This favors [[solomon-soil-testing-and-interpretation-low-input]] before applying amendments. Over-liming is as damaging as having acidic soil. pH adjustments should be gradual -- never try to change pH by more than 1 point in a single season.
-
-## Related Topics
-- Soil pH
-- Soil acidity and liming
-- Nutrient availability and pH
-- [[ingham-cover-crops-soil-biology]]
-- [[teaming-with-nutrients-composting-and-nutrient-cycling]]
-
-## Source
-- Lowenfels, Jeff. "Teaming with Nutrients: The Organic Gardener's Guide to Ending Synthetic Fertilizers and Rebuilding Soil Fertility." Chapter on pH effects on nutrient availability.
+Soil pH -- the measure of hydrogen ion concentration on a logarithmic scale from 0 (most acidic) to 14 (most alkaline) -- is arguably the single most important chemical property of soil. It determines whether nutrients are available for plant uptake and which organisms dominate the [[arbuscular-mycorrhizal-fungi-biology-symbiosis]] prefer ammonium nitrogen. Coniferous forests naturally create acidic, fungal soils.
+- **Nitrate (NO3-)** dominates in **alkaline soils** (pH above 7). This favors [[ingham-cover-crops-soil-biology]]
 - [[ingham-nutrient-cycling-soil-food-web]]
 - [[teaming-with-microbes-soil-minerals-cation-exchange]]
 ## Practical Applications

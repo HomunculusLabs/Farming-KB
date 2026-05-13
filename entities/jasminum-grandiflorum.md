@@ -12,17 +12,7 @@ date: 2026-05-08
 updated: 2026-05-08
 sources:
   - Gruen, M. (2014). "Jasmine: The genus Jasminum." In Medicinal and Aromatic Plants – Industrial Profiles, CRC Press.
-  - Shukla, A. et al. (2008). "permaculture-designers-manual-essential-oil-plants composition of Jasminum grandiflorum." Journal of [[permaculture-designers-manual-essential-oil-plants]] Research, 20(4), 285–287.
-  - CBI Ministry of Foreign Affairs (2021). "CBI Trade Statistics: comparison-essential-oils-vs-neem-oil-vs-insecticidal-soap and Oleoresins." CBI, The Hague.
----
-
-## Overview
-
-**Jasminum grandiflorum**, commonly known as Spanish jasmine, royal jasmine, or Catalan jasmine, is a deciduous climbing shrub in the family Oleaceae. Native to South Asia, it is now cultivated worldwide for its intensely fragrant white flowers, which are among the most important natural raw materials in the perfumery industry.
-
-The species is the primary commercial source of jasmine absolute and jasmine concrete, two of the most valued fragrance materials used in high-end perfumery, cosmetics, and aromatherapy. Jasmine absolute is often described as the "king of florals" in perfumery, prized for its rich, warm, and complex floral aroma with animalic undertones.
-
-Beyond its commercial importance, *J. grandiflorum* holds deep cultural and religious significance across South Asia, the Middle East, and the Mediterranean. It is the national flower of several countries and is extensively used in [[entheogenic-folk-religious-ceremonies]], wedding garlands, and traditional medicine.
+  - Shukla, A. et al. (2008). "permaculture-designers-manual-essential-oil-plants composition of Jasminum grandiflorum." Journal of [[entheogenic-folk-religious-ceremonies]], wedding garlands, and traditional medicine.
 
 ## Taxonomy and Morphology
 
@@ -37,7 +27,7 @@ Beyond its commercial importance, *J. grandiflorum* holds deep cultural and reli
 * **Genus:** Jasminum
 * **Species:** J. grandiflorum
 
-The genus *Jasminum* contains approximately 200 species distributed across tropical and [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]] of the [[datura-metel-old-world-ethnobotany]]. Several species are commercially important, but *J. grandiflorum* and *J. sambac* (Arabian jasmine) dominate the international jasmine trade.
+The genus *Jasminum* contains approximately 200 species distributed across tropical and [[datura-metel-old-world-ethnobotany]]. Several species are commercially important, but *J. grandiflorum* and *J. sambac* (Arabian jasmine) dominate the international jasmine trade.
 
 *J. grandiflorum* is a vigorous, scrambling, deciduous shrub or weak climber, typically reaching 2–4 meters in height with support. Stems are slender, angular, and trailing, with opposite, pinnate leaves composed of 5–7 leaflets.
 
@@ -49,7 +39,7 @@ The fragrance is exceptionally strong and sweet, particularly in the evening and
 
 ## Essential Oil Chemistry
 
-Jasmine fragrance is extracted through [[cannabis-solvent-extraction]] rather than [[comparison-steam-distillation-vs-co2-extraction-for-essential-oils]], because the delicate floral compounds degrade under high heat. The primary commercial products are jasmine concrete (a waxy solid) and jasmine absolute (obtained by washing the concrete with alcohol).
+Jasmine fragrance is extracted through [[comparison-steam-distillation-vs-co2-extraction-for-essential-oils]], because the delicate floral compounds degrade under high heat. The primary commercial products are jasmine concrete (a waxy solid) and jasmine absolute (obtained by washing the concrete with alcohol).
 
 The chemical composition of jasmine absolute is extremely complex, with over 300 identified constituents. Key odor-active compounds include benzyl acetate (15–25%), linalool (5–15%), farnesene (10–15%), indole (2–5%), benzyl benzoate (5–10%), and methyl anthranilate (1–3%).
 

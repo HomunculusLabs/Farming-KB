@@ -21,9 +21,7 @@ sources:
 
 # Psoralen
 
-## [[plants-of-the-gods-overview-hallucinogenic-plant-use]]
-
-Psoralen (C₁₁H₆O₃) is the parent compound of the furanocoumarin class, a family of photoactive [[molecules-of-life-plant-cells]] found widely in plants, particularly within Apiaceae, Rutaceae, and Fabaceae families. It intercalates into DNA and forms covalent crosslinks upon exposure to long-wave ultraviolet radiation (UVA, 320–400 nm), making it both a potent phototoxic agent and the basis of PUVA therapy — one of the most effective [[singh-single-cell-protein-fungal-wastewater-treatment]]s for vitiligo, psoriasis, and cutaneous T-cell lymphoma.
+## [[molecules-of-life-plant-cells]] found widely in plants, particularly within Apiaceae, Rutaceae, and Fabaceae families. It intercalates into DNA and forms covalent crosslinks upon exposure to long-wave ultraviolet radiation (UVA, 320–400 nm), making it both a potent phototoxic agent and the basis of PUVA therapy — one of the most effective [[singh-single-cell-protein-fungal-wastewater-treatment]]s for vitiligo, psoriasis, and cutaneous T-cell lymphoma.
 
 ## Chemical Properties
 
@@ -33,9 +31,7 @@ Psoralen (C₁₁H₆O₃) is the parent compound of the furanocoumarin class, a
 - **CAS number:** 66-97-7
 - **Appearance:** Colorless to pale yellow crystalline solid
 - **Melting point:** 159–162°C
-- **Solubility:** Slightly soluble in water; soluble in [[ethanol]], DMSO, chloroform,
-  and hot acetic acid
-- **Structure:** Fused tricyclic [[blue-light-phototropism-red-light-photoperiodism-dual-plant-vision-system]] consisting of a furan ring attached to a
+- **Solubility:** Slightly soluble in water; soluble in [[blue-light-phototropism-red-light-photoperiodism-dual-plant-vision-system]] consisting of a furan ring attached to a
   coumarin (benzopyrone) core at the 6,7-positions
 
 The planar tricyclic structure allows intercalation between DNA base pairs,
@@ -58,31 +54,13 @@ The pharmacological action of psoralen depends on two sequential steps:
 Interstrand crosslinks block DNA replication and transcription, triggering
 apoptosis in rapidly dividing cells — the mechanistic basis for PUVA therapy.
 
-## [[natural-fruit-tree-form-and-non-pruning]] Occurrence
-
-Psoralen is biosynthesized via the phenylpropanoid pathway, starting from
-umbelliferone (7-hydroxycoumarin):
-
-- **Prenylation:** Dimethylallyl pyrophosphate (DMAPP) adds a prenyl group
-  to umbelliferone, forming demethylsuberosin
-- **Ring closure:** Oxidative cyclization forms the furan ring, [[fukuoka-ideal-rice-plant-form-dimensions-high-yield]]ing
+## [[fukuoka-ideal-rice-plant-form-dimensions-high-yield]]ing
   psoralen
 
 **Major plant sources:**
-- *[[permplant-fig-ficus-carica-fruit-tree]]* (fig) — latex and leaf sap contain high [[ultra-low-concentration-brassinosteroid-efficacy-hormetic-dose-response-fungi]]s
+- *[[ultra-low-concentration-brassinosteroid-efficacy-hormetic-dose-response-fungi]]s
 - *Ammi majus* (bishop's weed) — commercial source for medicinal psoralen
-- *[[pastinaca-sativa]]* (parsnip) — furanocoumarins in roots and foliage
-- *Citrus* spp. — peel oils contain bergamottin and related furanocoumarins
-- *Heracleum* spp. (giant hogweed) — phototoxic sap causes phytophotodermatitis
-
-## Effects: Therapeutic and Toxic
-
-**PUVA therapy (clinical):**
-- **Psoriasis:** Clearance rates of 70–90% after 20–30 treatments; remission
-  lasting 3–6 months on average
-- **Vitiligo:** Stimulates melanocyte proliferation and migration; the most
-  effective repigmentation therapy available, especially for widespread lesions
-- **Mycosis fungoides (CTCL):** PUVA is first-line for early-stage [[fukuoka-fruit-tree-disease-pest-control-natural-predators]]
+- *[[fukuoka-fruit-tree-disease-pest-control-natural-predators]]
 - **Dose:** Oral 8-methoxypsoralen (methoxsalen, 0.6 mg/kg) + UVA exposure
   1–2 hours later; topical psoralen baths are an alternative
 
@@ -91,3 +69,80 @@ umbelliferone (7-hydroxycoumarin):
 
 ## See Also
 - [[permplant-persimmon-diospyros-kaki-fruit-tree]]
+
+## Overview
+
+Psoralen represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish psoralen
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving psoralen extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Psoralen finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for psoralen. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+psoralen and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Psoralen has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of psoralen into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.

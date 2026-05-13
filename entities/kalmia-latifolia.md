@@ -13,12 +13,7 @@ sources:
   - Jaynes, R.A. (1988). "Kalmia: The Laurel Book." Timber Press.
   - USDA NRCS (2024). "Kalmia latifolia L. — Mountain Laurel." PLANTS Database.
   - Leach, W.J. (1962). "A Revision of the Genus Kalmia." Virginia Agricultural Experiment Station Bulletin 154.
-  - U.S. Forest Service (2024). "Silvics of [[psilocybin-north-america-pacific-northwest]]: Kalmia latifolia."
----
-
-## Overview
-
-**Kalmia latifolia**, commonly known as mountain laurel, is an evergreen shrub in the family Ericaceae native to [[polypore-fungi-eastern-north-america]] America.
+  - U.S. Forest Service (2024). "Silvics of [[polypore-fungi-eastern-north-america]] America.
 
 It is celebrated for its showy clusters of pink-to-white flowers and glossy, dark green foliage.
 
@@ -30,15 +25,7 @@ All parts of the plant contain toxic grayanotoxins that can cause serious illnes
 
 **Kalmia latifolia** L. was described by Carl Linnaeus in 1753, with the genus named in honor of the Swedish botanist Pehr Kalm.
 
-It is the type species of the genus *Kalmia*, which contains approximately eight species native to [[guzman-psilocybin-mushrooms-north-america]] and Cuba.
-
-The shrub typically grows 3–8 m tall, occasionally reaching 12 m under optimal conditions.
-
-It has a dense, multi-stemmed growth habit with spreading branches forming a rounded crown.
-
-Leaves are evergreen, alternate, elliptic to lanceolate, 5–12 cm long and 2–4 cm wide.
-
-The [[bloomfield-rust-germ-tube-tactile-sensing-leaf-surface-navigation]] is dark glossy green above and paler below, with entire margins that may be slightly revolute.
+It is the type species of the genus *Kalmia*, which contains approximately eight species native to [[bloomfield-rust-germ-tube-tactile-sensing-leaf-surface-navigation]] is dark glossy green above and paler below, with entire margins that may be slightly revolute.
 
 Flowering occurs from May through July, producing terminal corymbose clusters of 50–150 flowers.
 
@@ -87,3 +74,76 @@ Cases of human poisoning are rare but have been documented, primarily from honey
 The so-called "mad honey" produced by bees foraging heavily on Kalmia and Rhododendron species contains grayanotoxins.
 
 Consumption of as little as a few tablespoons of mad honey can produce symptoms within 30 minutes to 2 hours.
+
+## Overview
+
+Kalmia Latifolia represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish kalmia latifolia
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving kalmia extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Kalmia Latifolia finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for kalmia latifolia. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+kalmia latifolia and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Kalmia Latifolia has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+## See Also
+
+- [[kalmia-angustifolia]]
+- [[typha-latifolia]]
+- [[zornia-latifolia]]
+- [[sparassis-latifolia]]
+- [[sagittaria-latifolia]]

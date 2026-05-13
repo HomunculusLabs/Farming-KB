@@ -22,35 +22,6 @@ making them complementary additions to any medicinal herb garden.
 
 ## Echinacea
 
-[[echinacea-purpurea]]
-
-Echinacea encompasses several species of purple coneflower native to the
-prairies and open woodlands of central North America. The two most commonly
-used medicinally are Echinacea purpurea and Echinacea angustifolia, both
-members of the Asteraceae family. Echinacea has been used for centuries by
-Plains Indigenous peoples for wounds, infections, and snakebites, and became
-one of the most prescribed remedies of 19th-century Eclectic physicians.
-
-The primary bioactive compounds include alkylamides (especially in the roots),
-caffeic acid derivatives like cichoric acid (in aerial parts), and
-immunostimulatory polysaccharides. These compounds activate macrophages,
-enhance natural killer cell activity, and modulate cytokine production.
-Alkylamides also act as partial CB2 receptor agonists, providing an additional
-immunomodulatory pathway. Clinical evidence supports modest reductions in
-upper
-respiratory tract infection duration when taken at the earliest signs of
-illness, though product quality varies widely across commercial preparations.
-
-Echinacea is a hardy perennial in USDA Zones 3 to 9, tolerant of drought and
-poor soils once established. It prefers full sun and well-drained loamy or
-sandy soil. Roots are harvested in the autumn of the third or fourth year,
-while
-aerial parts are harvested at peak flowering. The plant is relatively
-pest-free, though aster yellows phytoplasma can occasionally cause distorted
-growth.
-
-## Lemon Balm
-
 [[lemon-balm-melissa-officinalis]]
 
 Lemon balm (Melissa officinalis) is a lemon-scented perennial herb in the
@@ -136,8 +107,6 @@ and nervous system toolkit from a single garden bed.
 
 ## See Also
 
-- [[comparison-echinacea-vs-chamomile]]
 - [[comparison-valerian-vs-lemon-balm]]
-- [[comparison-elderberry-vs-echinacea]]
 - [[comparison-echinacea-vs-tulsi]]
 - [[comparison-lemon-balm-vs-passionflower]]

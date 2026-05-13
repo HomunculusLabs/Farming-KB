@@ -11,30 +11,18 @@ type: comparison
 # Silvopasture vs Pasture
 
 Silvopasture intentionally integrates trees, forage, and livestock on the same
-land for dual income streams and enhanced [[biodiversity-of-fungi-ecosystem-services-agriculture]]. Pasture
-management focuses on optimizing grass-based livestock systems through
-[[comparison-rotational-grazing-vs-continuous-grazing]] and adaptive multi-paddock management.
+land for dual income streams and enhanced [[comparison-rotational-grazing-vs-continuous-grazing]] and adaptive multi-paddock management.
 
 ## Overview
 
 ### Silvopasture
 
-[[pasture-management]] centers on maximizing forage production and animal
-performance through careful grass stewardship. Rotational grazing moves
-livestock between paddocks to prevent overgrazing, allowing plants to recover
-fully between defoliations. Adaptive multi-paddock (AMP) grazing adjusts
-stocking density, rest periods, and paddock layout based on seasonal
-conditions and forage availability. Well-managed pasture builds soil health
-through [[mycorrhizal-root-exudates-pathogen-interactions]], increases water infiltration, and can sequester
+[[mycorrhizal-root-exudates-pathogen-interactions]], increases water infiltration, and can sequester
 meaningful amounts of carbon without any tree component.
 
 ## Key Differences
 
-| Feature | Silvopasture | [[grassland-pasture-management-mollison]] |
-|---|---|---|
-| Components | Trees + forage + livestock | Forage + livestock |
-| Income streams | Dual: timber/fruit + livestock | Single: livestock products |
-| [[mycorrhizal-fungi-soil-carbon-sequestration-by-type]] | 5-10x higher than pasture alone | Moderate, through root exudates |
+| Feature | Silvopasture | [[mycorrhizal-fungi-soil-carbon-sequestration-by-type]] | 5-10x higher than pasture alone | Moderate, through root exudates |
 | Shade provision | Natural shade extends grazing season | No shade, heat stress risk |
 | System complexity | Three interacting systems | Primarily grass management |
 | Establishment time | Years for tree canopy growth | Immediate with existing pasture |
@@ -104,20 +92,7 @@ the need for adequate fencing infrastructure, and the time required for
 degraded pastures to recover. Rotational systems require regular paddock
 moves, which demands daily attention during the grazing season. Drought and
 extreme weather can stress both pasture and livestock, requiring flexible
-management and sometimes [[savory-supplemental-feeding-and-winter-management]].
+management and sometimes [[comparison-pasture-vs-silvopasture]]
 
-## Bottom Line
-
-Silvopasture maximizes total land productivity and ecosystem services by
-adding trees to the grazing system. Pasture management maximizes forage and
-livestock output by focusing exclusively on grass-based optimization. For
-most operations, beginning with pasture management and progressively adding
-trees provides the best balance of immediate returns and long-term gains.
-
-## See Also
-
-- [[comparison-pasture-vs-silvopasture]]
-
-- [[food-forest-design]]
 - [[silvopasture-systems]]
 - [[pasture-management]]

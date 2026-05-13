@@ -7,7 +7,7 @@ created: 2026-05-11
 
 # Winter Spinach as the Dependable Cold-House Crop
 
-Overwintered spinach has become the cornerstone crop of Eliot Coleman's winter-harvest system at Four Season Farm.
+Overwintered spinach has become the cornerstone crop of [[eliot-coleman]]'s winter-harvest system at Four Season Farm.
 Of all the cold-hardy vegetables grown in the cold houses,
 spinach stands out as the most reliable,  productive,
 and economically valuable winter green.
@@ -109,21 +109,11 @@ The spinach cycle is integral to Coleman's mobile greenhouse rotation design.
 In Year 1,
 the house covers September-sown spinach from late October through March,
 then transitions to tomatoes from April through October. In Year 2,
-the previous greenhouse site is uncovered for a full growing season of green manure (typically red clover),
+the previous greenhouse site is uncovered for a full growing season of [[green-manure]] (typically red clover),
 building soil fertility and biological activity while allowing natural cleansing of pest and disease pressure.
 
 ## The Aphid Connection
 
-Winter spinach is the crop most susceptible to the aphid problem Coleman solved through nitrogen flushing (see [[coleman-aphid-nitrogen-flushing-winter-greenhouse-management]]).
-Because spinach produces new leaves continuously through winter,
-it is particularly sensitive to soil nitrogen levels.
-Excess nitrogen produces the soft,  succulent growth that aphids prefer.
-The weekly winter irrigation protocol was developed specifically with the spinach crop in mind.
-
-## See Also
-
-- [[coleman-overwintered-spinach-cold-house-production]]
-- [[coleman-winter-harvest-planting-schedule]]
+Winter spinach is the crop most susceptible to the aphid problem Coleman solved through nitrogen flushing (see [[coleman-overwintered-spinach-cold-house-production]]
 - [[coleman-mobile-greenhouse-crop-rotation-design]]
-- [[coleman-cold-hardy-winter-vegetables]]
 - [[coleman-persephone-months-winter-day-length]]

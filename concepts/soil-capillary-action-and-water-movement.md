@@ -11,7 +11,7 @@ created: 2026-05-11
 Capillary action is one of the most important yet least understood physical
 phenomena in gardening. It governs how water moves through soil, how seeds
 germinate, and how deeply plant roots can draw moisture without irrigation.
-Steve Solomon emphasizes that understanding capillarity is essential for
+[[steve-solomon]] emphasizes that understanding capillarity is essential for
 successful dry gardening and efficient water use.
 
 ## What Is Capillary Action?
@@ -137,8 +137,6 @@ makes the problem worse over time.
 
 ## Related Concepts
 
-- [[solomon-watering-strategies-and-dry-farming-techniques]]
 - [[solomon-drought-gardening-and-water-conservation]]
-- [[solomon-soil-profile-assessment-fractional-analysis-jar-test]]
 - [[soil-fertility-building-gradient-solomon]]
 - [[solomon-ready-to-till-soil-moisture-test]]

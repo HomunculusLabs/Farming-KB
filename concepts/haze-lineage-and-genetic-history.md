@@ -16,16 +16,7 @@ Haze is arguably the most influential cannabis lineage in modern breeding histor
 
 ### The Breeders
 
-The original Haze was created by a group of three brothers (known only as "the Haze Brothers") working in the Santa Cruz Mountains of Northern California in the late 1960s. At the time, the California cannabis scene was dominated by imported [[cannabis-landrace-strains]] — Mexican, Colombian, Thai, and Jamaican varieties that arrived via smuggling routes. The Haze Brothers set out to create a locally adapted sativa that combined the best qualities of these imports.
-
-### The Parental Crosses
-
-The breeding program involved a complex series of crosses between multiple landrace sativas. While the exact pedigree has been debated and some details remain obscured by time and the underground nature of the work, the generally accepted lineage involves:
-
-1. **Colombian Gold** (or Colombian Sativa): A tall, vigorous landrace from Colombia with sweet, fruity aromas and strong, clear psychoactive effects. Provided the backbone structure and flowering characteristics.
-2. **Thai** (or Thai Stick): A Southeast Asian landrace known for its extremely long flowering time (14–20 weeks), intense cerebral effects, and distinctive sweet, spicy aroma. Contributed the extended flowering trait and potency.
-3. **South Indian** (or Mexican): A shorter, faster-flowering sativa from southern India (or alternatively, a Mexican Acapulco Gold). Added speed to the flowering process and contributed to the hybrid's yield and vigor.
-4. **Southern African**: Some accounts include a fourth parent from southern Africa, contributing additional [[cannabis-resin-production-and-quality-traits-clarke]] compactness.
+The original Haze was created by a group of three brothers (known only as "the Haze Brothers") working in the Santa Cruz Mountains of Northern California in the late 1960s. At the time, the California cannabis scene was dominated by imported [[cannabis-resin-production-and-quality-traits-clarke]] compactness.
 
 ### The Breeding Process
 
@@ -115,19 +106,12 @@ Haze has been used as a parent in hundreds of crosses. Its genetic contribution 
 
 Haze strains present specific challenges for indoor cultivation:
 
-- **Height management**: Essential techniques include SCROG (Screen of Green), LST ([[low-stress-training]]), and early topping to control vertical growth.
-- **Light requirements**: Haze strains respond well to high-intensity lighting. A minimum of 600W HPS or equivalent LED per 4×4 foot area is recommended.
-- **Nutrient sensitivity**: Use lower nutrient concentrations than for indica strains. Start at 50% of recommended strength and increase gradually.
-- **Flowering patience**: Resist the temptation to harvest early. Haze strains continue to develop significant potency in the final 2–3 weeks of flowering. Trichomes should be predominantly milky with some amber before harvest.
-
-### Outdoor Growing
-
-- **Climate**: Best suited to Mediterranean, subtropical, or [[fukuoka-natural-farming-tropical-climates]] with long growing seasons. [[query-how-to-grow-and-use-oca-in-temperate-climates]], [[query-what-is-seed-starting-and-when-should-i-start-seeds-indoors]] in early spring and transplant after last frost.
+- **Height management**: Essential techniques include SCROG (Screen of Green), LST ([[fukuoka-natural-farming-tropical-climates]] with long growing seasons. [[query-what-is-seed-starting-and-when-should-i-start-seeds-indoors]] in early spring and transplant after last frost.
 - **Finishing**: May not finish before frost in climates north of 40° latitude without greenhouse protection.
 - **Support**: The tall, branchy structure requires staking or trellising, especially when heavy with resin-laden buds.
 
 ## See Also
 
-- cannabis sativa taxonomy botanical classification — Sativa classification framework
+- [[cannabis-sativa-taxonomy-botanical-classification]] — Sativa classification framework
 - cannabis landrace preservation — Original genetics behind Haze's parents
-- terpene profiles in sativa strains — Aroma chemistry of Haze-type strains
+- [[terpene-profiles-in-sativa-strains]] — Aroma chemistry of Haze-type strains

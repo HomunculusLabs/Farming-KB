@@ -25,46 +25,10 @@ from New Brunswick and Manitoba south to North Carolina and Oklahoma, and is
 one of the most important nectar-producing trees in eastern forests.
 
 The species is valued for its soft, workable timber, fragrant flowers that
-attract [[comparison-honey-bees-vs-native-solitary-bees]] in enormous numbers, and traditional medicinal uses. Its
-heart-shaped leaves and dense, pyramidal crown make it a popular ornamental
-tree for parks and large landscapes.
-
-American basswood typically reaches 20–25 meters in height with a trunk
-diameter of 60–90 cm. Exceptional individuals in old-growth stands may exceed
-35 meters in height and 120 cm in diameter. The species can live 200–300
-years.
-
-## Taxonomy and Morphology
-
-**Tilia americana** L. was described by Carl Linnaeus in 1753. It was
-historically placed in Tiliaceae but is now classified in Malvaceae subfamily
-Tilioideae. The common name "basswood" derives from "bast" (inner bark fiber),
-reflecting its historical use for cordage and rope.
-
-Leaves are 10–15 cm long and 8–12 cm wide, broadly ovate to cordate with
-coarsely serrate margins and acuminate tips. The base is characteristically
-heart-shaped (cordate) with asymmetrical attachment to the petiole. The
-upper surface is dark green and smooth; the lower surface is paler with
-axillary tufts of white hairs.
-
-Flowers appear in June–July in pendulous cymes borne from a distinctive
-elongate, leaf-like bract. The flowers are 10–14 mm in diameter, creamy
-white to pale yellow, and intensely fragrant. They are among the most
-attractive to bees of any North American tree species.
-
-The fruit is a globose to ovoid drupe, 6–8 mm in diameter, gray-green and
-pubescent, containing 1–2 seeds. The bark is gray to brown, initially smooth,
-developing long, narrow, vertical ridges with age. The wood is pale, soft,
-and lightweight with a fine, even texture.
-
-## Distribution and Habitat
-
-American basswood ranges from southeastern Manitoba, New Brunswick, and Nova
-Scotia south through the Great Lakes region and Appalachian Mountains to
-northern Georgia, and west to eastern Oklahoma and [[polypore-fungi-eastern-north-america]] Dakota.
+attract [[polypore-fungi-eastern-north-america]] Dakota.
 
 It is most abundant in the northern hardwood and Great Lakes-St. Lawrence
-forest regions, where it occurs as a scattered component of [[fagus-grandifolia]] forests. Common associates include [[betula-papyrifera]], [[acer-rubrum]].
+forest regions, where it occurs as a scattered component of [[betula-papyrifera]], [[acer-rubrum]].
 
 Basswood prefers rich, moist, well-drained loam soils of bottomlands, north-
 facing slopes, and coves. It is moderately shade-tolerant and often persists
@@ -87,3 +51,88 @@ A notable limitation in landscape use is susceptibility to Japanese beetle
 (*Popillia japonica*) defoliation, which can be severe during outbreak years.
 The tree also produces abundant sprouts from the root system, which can
 create maintenance issues in formal landscape settings.
+
+## Overview
+
+Tilia Americana represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish tilia americana
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving tilia extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Tilia Americana finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for tilia americana. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+tilia americana and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Tilia Americana has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of tilia americana into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[brunfelsia-americana]]
+- [[persea-americana]]
+- [[tilia-cordata]]
+- [[tilia-europaea]]
+- [[vallisneria-americana]]

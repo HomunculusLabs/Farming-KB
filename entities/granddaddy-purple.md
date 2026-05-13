@@ -25,14 +25,10 @@ sources:
 
 # Granddaddy Purple
 
-Granddaddy Purple (GDP) is an iconic indica-dominant [[blesching-cannabis-strain-selection-receptor-targeting]] bred by
-Ken Estes in the [[shipibo-san-francisco-ceremonial-center-ucayali]] Bay Area during the late 1990s to early 2000s.
+Granddaddy Purple (GDP) is an iconic indica-dominant [[shipibo-san-francisco-ceremonial-center-ucayali]] Bay Area during the late 1990s to early 2000s.
 
-A cross between [[purple-urkle]] and [[big-bud]], GDP became one of the most
-recognizable [[cannabis-microbiome-otu-abundance-vs-presence-cannabis-strains]] in the world, synonymous with the "purple
-cannabis" aesthetic and deeply relaxing body effects.
-
-Its fame exploded during California's [[cervantes-medical-marijuana-pharmacology]] era, where it became
+A cross between [[big-bud]], GDP became one of the most
+recognizable [[cervantes-medical-marijuana-pharmacology]] era, where it became
 a staple dispensary offering and set the template for purple indica strains
 that followed.
 
@@ -40,8 +36,7 @@ that followed.
 
 - **Type:** Indica-dominant (approximately 80/20 indica to sativa)
 - **Lineage:** Purple Urkle × Big Bud
-- **Breeder:** Ken Estes ([[grand-daddy-blue-dream-sativa-hybrid-strain]] Purp collective), circa 2003
-- **[[thc-content-factors-cultivation-freshness-storage-degradation-blesching]]:** 17–27% (phenotype and grow dependent)
+- **Breeder:** Ken Estes ([[thc-content-factors-cultivation-freshness-storage-degradation-blesching]]:** 17–27% (phenotype and grow dependent)
 - **CBD content:** Low (<0.1%); trace amounts typical
 
 ## Appearance

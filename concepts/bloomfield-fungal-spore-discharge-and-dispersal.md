@@ -12,25 +12,17 @@ sources:
 
 ## Overview
 
-[[spore-production-geotropic-sensitivity-coupling-basidiomycete-badham-1982]] and dispersal is central to [[bloomfield-fungal-biology-and-hyphal-growth]]. Fungi have evolved remarkable mechanisms to launch their reproductive cells into the air, water, or onto passing animals. From the surface-tension catapult of basidiomycetes to the explosive asci of ascomycetes, and the swimming zoospores of water molds, these mechanisms represent some of the most sophisticated biomechanical systems in nature.
+[[bloomfield-fungal-biology-and-hyphal-growth]]. Fungi have evolved remarkable mechanisms to launch their reproductive cells into the air, water, or onto passing animals. From the surface-tension catapult of basidiomycetes to the explosive asci of ascomycetes, and the swimming zoospores of water molds, these mechanisms represent some of the most sophisticated biomechanical systems in nature.
 
 ## Basidiomycete Spore Discharge (Surface-Tension Catapult)
 
-Mushrooms and their relatives (basidiomycetes) discharge spores using a surface-tension [[fungal-spore-discharge-catapult-mechanism]]:
-
-1. A fluid drop (Buller's drop) forms at the base of each basidiospore on the basidium
-2. The drop expands over several seconds, contacting both the spore and the adjacent spore/adaxial surface of the gill
-3. As the drop expands, [[bloomfield-buller-drop-surface-tension-spore-catapult-basidiospore-discharge]] pulls the spore toward the drop
+Mushrooms and their relatives (basidiomycetes) discharge spores using a surface-tension [[bloomfield-buller-drop-surface-tension-spore-catapult-basidiospore-discharge]] pulls the spore toward the drop
 4. At a critical moment, the drop fuses with the spore surface, redistributing mass
 5. The sudden shift in the center of mass combined with the collapse of the drop's meniscus launches the spore horizontally from the gill
 6. The spore then falls clear of the gill and is carried away by air currents
 
 ### Buller's Discoveries
-A.H.R. Buller (1874-1944), working at the University of Manitoba, was the first to systematically study [[emcdda-hallucinogenic-mushroom-spore-distribution-home-cultivation]] discharge:
-- Measured spore fall velocities using a tilted microscope with calibrated silk threads in the eyepiece, connected to an electric tapper inscribing marks on a rotating drum
-- Found spores fell slightly faster than Stokes' law predicted — later explained by Buller's drop increasing effective diameter
-- Published six volumes of "Researches on Fungi" (1909-1934), funding early volumes himself
-- Discovered the drop in 1910 and hypothesized [[bloomfield-buller-drops-and-surface-tension-spore-catapult-mechanism]] was the driving force, though the exact mechanism remained unexplained for 70+ years
+A.H.R. Buller (1874-1944), working at the University of Manitoba, was the first to systematically study [[bloomfield-buller-drops-and-surface-tension-spore-catapult-mechanism]] was the driving force, though the exact mechanism remained unexplained for 70+ years
 
 ### Spore Velocity and Dispersal
 - Spores are microscopic (typically 5-15 micrometers)
@@ -117,8 +109,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[spore]]
 - [[decomposition]]
-- [[fungal-spore-biology]]
 - [[bloomfield-lycoperdonosis-and-fungal-respiratory-health]]
 - [[fungal-spore-dispersal]]

@@ -11,51 +11,15 @@ sources: []
 ## Overview
 
 Gotu kola (Centella asiatica) and Chinese skullcap (Scutellaria
-baicalensis) are two highly val [[medicinal-herbs-for-livestock]] erbs from different
-traditional medicine systems that share some overlapping applications
-while maintaining distinct profiles. Gotu kola, a cornerstone of
-Ayurvedic medicine, is renowned for its cognitive enhancement and
-wound healing properties, while Chinese skullcap (huáng qín) is on [[chicken-of-the-woods]] he 50 fundamental herbs in Traditional Chinese Medicine,
+baicalensis) are two highly val [[chicken-of-the-woods]] he 50 fundamental herbs in Traditional Chinese Medicine,
 celebrated for its anti-inflammatory and neuroprotective effects.
 This comparison explores their unique characteristics, traditional
-use [[disenchantment-and-modern-craving-for-fungal-enchantment]] ern applications to he [[ayahuasca-tourism-practitioners-and-safety-considerations]] and growers
+use [[ayahuasca-tourism-practitioners-and-safety-considerations]] and growers
 understand when each herb might be most appropriate.
 
 ## Gotu Kola
 
-[[gotu-kola-growing-guide]]
-
-Gotu kola is a low-growing, herbaceous per [[hallucinogenic-plants-native-to-united-states]] t [[constructed-wetland-design]] nds
-and marshy areas across tropical and subtropical Asia, Africa, and
-Australia. In Ayurvedic medicine, it's known as "Brahmi" or
-"Mandukaparni" and has been used for thousands of years as a brain
-tonic, wound healer, and meditation aid. For those interested in cultivating this valuable topics/medicinal herb growing guide, proper attention to moisture levels and partial shade is essential. The plant produces small,
-rounded, fan-shaped leaves on long, slender stems that root at nodes
-as they creep along the ground, creating a dense carpet of vegetation.
-
-The primary active compounds in gotu kola are triterpenoid saponins,
-including asiaticoside, madecassoside, asiatic acid, and madecassic
-acid. These compounds are responsible for its wound-healing,
-cognitive-enhancing, and venous-protective effects. Gotu kola is
-particularly valued for its ability to stimulate collagen synthesis,
-making it excellent for skin repair and connective tissue support.
-
-Key medicinal applications include cognitive enhancement and memory
-support, wound healing and skin repair (including burns, wounds, and
-surgical scars), venous insufficiency, anxiety reduction, and
-anti-inflammatory effects. Gotu kola provides calm, focused mental
-clarity without stimulation, making it ideal for meditation practices
-and supporting cognitive function in older adults. As one of the queries/query what are adaptogenic herbs and how do they work, gotu kola helps the body adapt to stress while promoting mental clarity and emotional balance.
-
-Culturally, gotu kola holds significance throughout South and
-Southeast Asia, where it's not only used medicinally but also
-consumed as a food. In Sri Lanka and parts of India, fresh leaves are
-eaten raw in salads, and traditional dishes incorporate the herb for
-both flavor and health benefits.
-
-## Chinese Skullcap
-
-[[scutellaria-baicalensis]]
+[[hallucinogenic-plants-native-to-united-states]] t [[scutellaria-baicalensis]]
 
 Chinese skullcap (Scutellaria baicalensis), known as huáng qín (黄芩,
 "yellow root") in Chinese, is a perennial herbaceous plant in the
@@ -101,7 +65,7 @@ toxicity (sore throat, carbuncles, fevers), stopping bleeding
 | **Primary Applications** | Wound healing, cognitive support, venous health | Anti-inflammatory, neuroprotective, anxiolytic |
 | **Harvest Timing** | Leaves can be harvested year-round | Roots harvested in spring before flowering |
 | **Preparation Forms** | Teas, tinctures, fresh consumption, topical | Decoctions, extracts, powders, professional formulations |
-| **Preparation Techniques** | [[herbal-medicine-making-basics]] offers guidance on tea and tincture preparation | Traditional decoction methods require specialized [[herbal-medicine-making-basics]] knowledge |
+| **Preparation Techniques** | [[herbal-medicine-making-basics]] knowledge |
 
 ## When to Choose Gotu Kola
 

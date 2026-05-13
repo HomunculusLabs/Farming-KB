@@ -13,15 +13,13 @@ sources:
 
 updated: 2026-18
 
-Fukuoka's vision of the "quarter-acre farmer" represents the practical application of his [[fukuoka-seed-ball-methods-advanced]] containing seed rice
-7. Scatter pellets over straw before New Year
-8. Nothing left to do until [[direct-seeded-no-tillage-rice-winter-grain-succession]] harvest
+Fukuoka's vision of the "quarter-acre farmer" represents the practical application of his [[direct-seeded-no-tillage-rice-winter-grain-succession]] harvest
 
 The labor of one or two people is more than enough for a quarter-acre.
 
 ## The Philosophy of Mu
 
-[[comparison-natural-farming-vs-permaculture]] originates in the philosophy of "Mu," or nothingness, and returns to a "do-nothing" nature. This is not laziness or abandonment but a profound trust in nature's wisdom. The objective of natural farming is non-action and a [[emcdda-return-to-nature-megatrend-mushroom-appeal]].
+[[emcdda-return-to-nature-megatrend-mushroom-appeal]].
 
 The "do-nothing" age of consolidation and convergence has arrived. Man must hurry to establish a new way of life and a spiritual culture founded on communion with nature rather than consumption and exploitation.
 
@@ -39,26 +37,8 @@ Ten times as much energy is expended in traditional Japanese farming as the food
 
 ## Why People Cannot Accept Do-Nothing Farming
 
-When urbanites first encounter [[fukuoka-farming-for-all-quarter-acre-vision]]
-- [[fukuoka-do-nothing-farming-philosophy]]
-- [[fukuoka-do-nothing-farming-philosophy-and-practice]]
-## Practical Considerations
-
-When working with Fukuoka Quarter Acre Farmer Do Nothing Farming, several practical factors should be
-carefully considered to achieve optimal results. These include
-the specific conditions of the implementation context, available
-resources, timing requirements, and the interactions between this
-topic and other elements of the broader system. A holistic view
-that considers these interconnections produces better outcomes.
-
-Environmental conditions such as temperature, moisture, and
-seasonal patterns significantly influence results. Monitoring these
-variables and adapting practices accordingly is essential for success.
-The most effective practitioners develop keen observation skills and
-respond flexibly to changing conditions rather than following rigid
-protocols regardless of circumstances or local variation.
-
-[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
+When urbanites first encounter [[fukuoka-do-nothing-farming-philosophy]]
+- [[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -111,8 +91,6 @@ through generations to modern scientific approaches, the evolution continues
 to inform current best practices and research directions.
 
 ## See Also
-- [[do-nothing-farming]]
 - [[natural-farming]]
-- [[doc]]
 - [[dom]]
 - [[permaculture]]

@@ -16,9 +16,7 @@ type: concept
 
 # Spore Germination and Strain Isolation Techniques
 
-Germinating [[query-how-to-store-mushroom-spores-long-term]] and isolating pure strains from
-the resulting mycelium is the foundation of mushroom breeding
-and [[vic-high-true-breeding-strain-development-stabilization]]. While growing-gourmet-stock-culture-library and future use.
+Germinating [[vic-high-true-breeding-strain-development-stabilization]]. While growing-gourmet-stock-culture-library and future use.
 This last transfer usually results in individual dikaryotic
 strains which are labelled. Each labelled strain is then
 tested for productivity. Mini-culture experiments must be
@@ -46,29 +44,7 @@ When a concentrated mass of spores is germinated, the
 likelihood of bacteria and weed fungi infesting the site
 is greatly increased. Bacteria replicate faster than
 mushroom spores can germinate. As a result, the germinating
-spores become infected. However, if [[macrofungal-documentation-photography-spore-prints]] are made
-correctly from clean specimens, contamination is usually
-not a problem.
-
-Once inoculated, petri dish cultures should be taped with
-an elastic film such as Parafilm to protect the incubating
-mycelium from intrusive airborne contaminants.
-
-## Purifying Cultures After Spore Germination
-
-Many cultures originating from spores are associated with
-other micro-organisms. Several techniques are available for
-cleaning up a culture:
-
-### Antibiotic Sandwich Method
-For bacterially infested cultures, sandwich the mycelium
-between two layers of media containing an antibiotic such
-as gentamycin sulfate. The hyphae push through the media
-while bacteria are left behind.
-
-### pH Adjustment Method
-If the culture is mixed with contaminant molds, adjust the
-pH of the media to favor the [[antimicrobial-compounds-mushroom-mycelium]]. Many
+spores become infected. However, if [[antimicrobial-compounds-mushroom-mycelium]]. Many
 contaminant fungi are strong acidophiles, whereas Oyster
 mushrooms grow well near neutral pH.
 
@@ -117,8 +93,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[spore]]
 - [[doc]]
-- [[mycelium]]
 - [[growing-gourmet-spore-mass-inoculation-techniques]]
 - [[growing-gourmet-strain-senescence-degeneration]]

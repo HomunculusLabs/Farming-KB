@@ -19,19 +19,8 @@ conditioners available to the organic gardener.
 
 ## The Effects of Worms on Soil
 
-Worms feed mainly on [[hamilton-composting-and-organic-matter-management]] and, in the process, break the
-waste down and eject it in the form of pellets. These small pellets
-are coated with a gel which holds them together. The resulting crumb
-structure helps to [[query-how-do-i-improve-soil-drainage-in-my-garden]] and aeration, providing a
-superior environment for [[soil-moisture-management-and-root-growth]].
-
-The pellets not only change nutrients into a form readily available to
-plant roots, but also convert them into a form released slowly as
-required by plants. This prevents short-term toxicity that could
-otherwise develop. At the same time, the water-holding capacity of
-soil is increased considerably.
-
-Worms break [[fukuoka-textdoc-composting-critique-futility-prepared-organic-matter]] into smaller granules, enabling soil
+Worms feed mainly on [[query-how-do-i-improve-soil-drainage-in-my-garden]] and aeration, providing a
+superior environment for [[fukuoka-textdoc-composting-critique-futility-prepared-organic-matter]] into smaller granules, enabling soil
 microbes to work on a greater surface area. They also produce enzymes
 that enable bacteria to work more efficiently. The presence of worms
 in organic matter accelerates decomposition significantly.
@@ -52,39 +41,7 @@ where it cannot be dug in because plants cannot be disturbed. This is
 normally carried out in spring. Make sure the soil is moist before
 applying the mulch because it will absorb surface water. A good mulch
 of well-rotted manure or compost, about 2 to 3 inches (5 to 8cm)
-deep, will [[query-how-do-cover-crops-suppress-weeds]], retain moisture, and gradually feed the
-soil as it breaks down.
-
-## Adding Worms to the Soil
-
-This requires a certain amount of management. First, build a wormery
-to provide the worms with a controlled environment. Second, use the
-right variety of worm. The worms needed are commonly known as
-"nightcrawlers" or "red worms" (Lumbricus terrestris). They do not
-live for long in ordinary soil but multiply quickly in manure or
-compost heaps. If you cannot find any in your compost heap, buy them
-from a fishing tackle shop or specialist supplier.
-
-## Making a Wormery
-
-Make a wooden box at least 2 feet (60cm) high and about 2 feet by 3
-feet (60cm by 90cm), slightly wider and longer than your wheelbarrow.
-Support the box on legs so you can push your wheelbarrow underneath.
-Staple strong mesh about 2 inches (5cm) across the bottom. Make two
-holes in one side for removable wooden slats to rest on.
-
-The worm works upward: once it has digested one layer of organic
-matter, it moves to the next. Design the wormery so you can remove
-worm-worked material from the bottom, leaving worms inside to continue
-working on upper layers.
-
-## What to Feed Worms
-
-Worms work through almost anything from grass cuttings to kitchen
-scraps and even soaked newspapers, provided they are used in
-moderation. As with the compost heap, do not use too much of any one
-thing on its own; mix everything together. Never put more than an inch
-of material onto the heap in a week. [[fukuoka-textdoc-animal-manure-human-waste-natural-cycle-heretic]] can be added on its
+deep, will [[fukuoka-textdoc-animal-manure-human-waste-natural-cycle-heretic]] can be added on its
 own.
 
 ## Managing the Wormery
@@ -118,8 +75,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[composting]]
 - [[doc]]
-- [[decomposition]]
 - [[comparison-green-manure-vs-composting]]
 - [[hamilton-green-manure-crops-and-cover-cropping]]

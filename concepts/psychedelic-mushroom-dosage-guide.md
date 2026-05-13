@@ -11,7 +11,7 @@ sources: []
 
 ## Overview
 
-Accurate dosing [[archaeology-of-psychedelic-mushrooms]] is complicated by significant variability in potency between species, within species, and even between individual fruiting bodies. This guide provides general dosage frameworks based on Psilocybe cubensis as a reference standard, with conversion factors for other species. All dosages refer to dried mushroom material unless otherwise noted.
+Accurate dosing of psychedelic mushrooms is complicated by significant variability in potency between species, within species, and even between individual fruiting bodies. This guide provides general dosage frameworks based on Psilocybe cubensis as a reference standard, with conversion factors for other species. All dosages refer to dried mushroom material unless otherwise noted.
 
 ## Critical Caveats
 
@@ -67,7 +67,7 @@ Fresh mushrooms are often considered slightly different in character — some us
 
 ### Heroic Dose: 5.0g+
 
-- Full [[mystical-experience]] in the "hero's journey" framework (as described by Terence McKenna)
+- Full mystical experience in the "hero's journey" framework (as described by Terence McKenna)
 - Complete ego dissolution probable
 - Extreme vulnerability; requires expert guidance or extensive personal experience
 - Minimum 8 hours with no responsibilities; ideally a full day with nothing scheduled the following day
@@ -85,16 +85,16 @@ Potency varies dramatically between species. The following conversion factors ad
 | Psilocybe cyanescens | 0.40-0.60x | Very potent; 2g cubensis ≈ 1g cyanescens |
 | Psilocybe bohemica/serbica | 0.50-0.70x | Potent European species |
 | Psilocybe semilanceata | 0.50-0.70x | Small but potent; potency varies by region and season |
-| [[panaeolus-cyanescens-bali-omelette]] | 0.40-0.60x | "Blue meanies"; dung-inhabiting tropical species |
+| Panaeolus cyanescens | 0.40-0.60x | "Blue meanies"; dung-inhabiting tropical species |
 
 ### Moderate-Potency Species
 
 | Species | Potency Factor | Notes |
 |---------|---------------|-------|
 | Psilocybe cubensis | 1.0x | Reference standard |
-| Psilocybe allenii | 0.70-1.0x | [[psilocybin-north-america-pacific-northwest]] species |
-| [[panaeolus-cinctulus]] | 0.80-1.2x | Widespread but variable potency |
-| [[gymnopilus-spectabilis-entity]] | 0.70-1.0x | Larger mushrooms needed for equivalent dose |
+| Psilocybe allenii | 0.70-1.0x | Pacific Northwest species |
+| Panaeolus cinctulus | 0.80-1.2x | Widespread but variable potency |
+| Gymnopilus spectabilis | 0.70-1.0x | Larger mushrooms needed for equivalent dose |
 
 ### Low-Potency Species
 
@@ -140,10 +140,10 @@ Mushrooms are steeped in hot (not boiling) water for 10-20 minutes, optionally w
 - More consistent dosing (thorough extraction)
 - Potential loss of some alkaloids in discarded material
 
-### Capsules
+## See Also
 
-Dried, powdered mushrooms encapsulated for precise dosing. Effects are similar to whole consumption but with more predictable dosing and easier storage.
-
-## Tolerance
-
-Tolerance to psilocybin develops rapidly:
+- [[metzner-entheogenic-terminology-psychedelic-hallucinogenic-entheogenic]]
+- [[psychedelic-1960s-counterculture]]
+- [[psychedelic-consciousness-expansion]]
+- [[psychedelic-prohibition-and-the-war-on-consciousness]]
+- [[psychedelic-therapy-set-and-setting]]

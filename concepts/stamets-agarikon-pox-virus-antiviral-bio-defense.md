@@ -5,17 +5,10 @@ author: Paul Stamets
 tags: [agarikon, fomitopsis-officinalis, pox-virus, antiviral, biodefense, old-growth, bioShield, USAMRIID]
 ---
 
-In [[mycelium-running-conservation-biology-and-fungi]], Paul Stamets documents his discovery that extracts from the
-agarikon mushroom ([[fomitopsis-officinalis-entity]]) protect human blood cells from
+In [[fomitopsis-officinalis-entity]]) protect human blood cells from
 infection by orthopox viruses, the family that includes smallpox. This finding
 emerged from a broader program of screening old-growth forest fungi for
-[[ginseng-cultivation-and-medicinal-properties]] and led to formal collaboration with U.S. defense agencies
-through the BioShield biodefense program.
-
-## The Agarikon Mushroom
-
-Agarikon (Fomitopsis officinalis) is a polypore mushroom found exclusively in
-the old-growth forests of the [[psilocybin-north-america-pacific-northwest]], particularly the Olympic
+[[psilocybin-north-america-pacific-northwest]], particularly the Olympic
 Peninsula. It is a large, woody conk that grows on standing trees and fallen
 timber in ancient forest ecosystems. The species is restricted to an endangered
 habitat that is itself in rapid decline: less than 5% of the original
@@ -38,10 +31,7 @@ cultures were then screened through the BioShield program.
 
 Specially prepared extracts from living mycelium showed potent activity against
 vaccinia pox and cowpox viruses. Strains of agarikon varied in their potency,
-suggesting that [[biodiversity-fungal-genetic-diversity]] within the species is important for maximizing
-the range and strength of antiviral compounds available. Critically, the
-mushrooms were NOT active when simply boiled in water, which means traditional
-[[amanita-muscaria-preparation-methods]] would not capture the active constituents. Only carefully
+suggesting that [[amanita-muscaria-preparation-methods]] would not capture the active constituents. Only carefully
 prepared extracts from living mycelial cultures demonstrated the antiviral
 effect.
 
@@ -76,33 +66,12 @@ produces these antiviral compounds cannot be recovered.
 
 ## Broader Antiviral Landscape
 
-Stamets surveys the wider field of [[stamets-mushroom-antiviral-hiv-aids-opportunistic-infections]] research to contextualize
-the agarikon finding. Suzuki and others (1990) discovered an antiviral water-
-soluble lignin in an extract of shiitake mycelium. Fomes fomentarius, a
-hoof-shaped wood conk, inhibited tobacco mosaic virus. Collins and Ng (1997)
-identified a polysaccharopeptide from turkey tail ([[growing-gourmet-turkey-tail-trametes-versicolor-cultivation]])
+Stamets surveys the wider field of [[growing-gourmet-turkey-tail-trametes-versicolor-cultivation]])
 mushrooms that inhibited HIV type 1 infection. Sarkar and others (1993)
-identified an antiviral substance from shiitake. Reishi ([[ganoderma-lucidum]])
-showed antiviral activity against herpes simplex 1 and 2 and vesicular
-stomatitis virus.
-
-Piraino and Brandi (1999) discovered that derivatives of the gypsy mushroom
-(Cortinarius caperatus) inhibited replication and spread of varicella zoster
-(the shingles virus), influenza A, and respiratory syncytial virus (RSV).
-Wang and Ng (2000) isolated a novel ubiquitin-like glycoprotein from oyster
-mushrooms that inhibited HIV. Each mushroom species has a signature architecture
-and defense against microbes, suggesting that combinations of mushrooms may
-offer broad-spectrum protection.
-
-## Antimicrobial Breadth of Medicinal Mushrooms
-
-Stamets presents quantitative data showing that cold-water extracts from mycelial
-exudates of ten mushroom species inhibited both Escherichia coli and
-[[staphylococcus-aureus]] by more than 99.99% within 48-72 hours. Colony-forming
+identified an antiviral substance from shiitake. Reishi ([[staphylococcus-aureus]] by more than 99.99% within 48-72 hours. Colony-forming
 units per gram of water plummeted from more than 100,000,000 to the 1,000-10,000
 range. The most antibacterially active species were oyster mushroom (Pleurotus
-ostreatus), birch polypore ([[piptoporus-betulinus]]), and agarikon (Fomitopsis
-officinalis). This demonstrates that agarikon's [[medicinal-mushroom-antimicrobial-properties]] extend
+ostreatus), birch polypore ([[medicinal-mushroom-antimicrobial-properties]] extend
 beyond antiviral activity to include potent antibacterial effects as well.
 
 ## Three Mechanisms of Mushroom Defense

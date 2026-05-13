@@ -16,74 +16,103 @@ model reveals that the amount of energy flowing through an ecosystem, and thus
 available at every trophic level, can be increased not only by raising the
 volume of standing crop per unit of ground but also by lengthening the time
 during which that crop can grow and by expanding the leaf area of individual
-plants to capture more [[fukuoka-textdoc-three-dimensional-solar-energy-methodless-method]].
-
-## Overview
-
-The traditional energy pyramid, a two-dimensional diagram showing decreasing
-energy at each trophic level from plants through herbivores to predators,
-suggests very few ways to broaden the base. On cropland, broadening has been
-accomplished by increasing acreage, better-yielding crop strains, irrigation,
-and multiple cropping. On rangeland, through brush clearing, range reseeding,
-and similar technologies. Both approaches rely heavily on nonrenewable
-resource inputs.
-
-The discovery of the [[savory-four-missing-keys]] enabled Savory to view the energy
+plants to capture more [[savory-four-missing-keys]] enabled Savory to view the energy
 pyramid as multidimensional, both above and below ground, as two tetrahedrons
 joined at their bases. The crucial bottom level now has three sides: time
 (volume and area of plants, duration of growth, and leaf area). The more any
 of these three sides can be extended, the more energy humans can harvest at
-higher [[ingham-soil-foodweb-trophic-levels-protozoa-nematodes]]. Conversely, shortening any single side cuts energy flow
-throughout the entire system.
-
-## Key Concepts
-
-- The energy tetrahedron has three base dimensions: volume of standing crop,
-  time (duration) of growth, and area of leaf.
-- Extending any of these three sides increases total energy capture and
-  availability at all trophic levels, including underground.
-- The energy pyramid extends below ground where energy flow greatly affects
-  the health of mineral cycles, water cycles, and succession.
-- Shortening any single side of the base reduces energy all the way up and
-  ripples underground, affecting soil biological communities.
-- Most present technology quickly reaches energy debt, where broadening the
-  base requires more energy input than it returns in captured sunlight.
-
-## Time as a Dimension of Energy
-
-The energy converted by plants when green and growing must support all life
-both above and below ground throughout the year. The longer the time when
-plants are growing, the more productive the ecosystem as a whole. Time can be
-increased by lengthening the [[savory-growing-season-and-non-growing-season-management]] or by using the available growing
+higher [[savory-growing-season-and-non-growing-season-management]] or by using the available growing
 time within the season more efficiently.
 
 Producing a better mineral cycle, water cycle, and higher successional
-complexity extends growing time in both ways. In [[jadam-wild-grass-management]], growing
-time is used more efficiently if grazed or cut plants are not taken down too
-far. The less taken from a plant during active growth, the faster it regrows,
-as more leaf area remains to convert sunlight immediately.
-
-In [[savory-brittle-environments]], [[query-how-to-protect-plants-from-frost-and-extend-the-growing-season]] may be compressed into a short
-period following erratic rainfall. Every day of active growth matters
-enormously because the dormant season may last many months. Management that
-extends the effective growing time, even by days or weeks, can translate into
-significant increases in total energy captured over the year. This is one
-reason why holistic planned grazing places such emphasis on recovery periods
-that allow plants to reach full photosynthetic capacity before regrazing.
-
-## Volume of Plants
-
-The volume of standing plant material represents the total biomass available
-for conversion at level one of the energy pyramid. This volume can be
-increased through practices that enhance soil health, water effectiveness, and
-species diversity. Greater root volume supports more extensive underground
-biological communities, which in turn support the mineral and water cycles
-that sustain plant growth.
-
-The underground dimension of the energy tetrahedron is particularly important.
-Below-ground energy flow, driven by [[mycorrhizal-root-exudates-pathogen-interactions]] and decomposing organic
+complexity extends growing time in both ways. In [[savory-brittle-environments]], [[mycorrhizal-root-exudates-pathogen-interactions]] and decomposing organic
 matter, fuels the [[cannabis-rhizosphere-microbial-communities]] that make minerals available to
 plants and create soil structure that holds water. When above-ground
 management damages these underground communities, the effects ripple through
 the entire system. A healthy volume of living roots feeding soil organisms is
 as important as the volume of above-ground leaf and stem material.
+
+## Overview
+
+Savory Energy Tetrahedron represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish savory energy tetrahedron
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving savory extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Savory Energy Tetrahedron finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for savory energy tetrahedron. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+savory energy tetrahedron and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Savory Energy Tetrahedron has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of savory energy tetrahedron into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[savory-complexity-and-wholistic-thinking]]
+- [[savory-herd-composition-and-culling-strategies]]
+- [[savory-holistic-management-overview]]
+- [[savory-mineral-cycle-management]]
+- [[savory-reductionist-vs-holistic-science]]

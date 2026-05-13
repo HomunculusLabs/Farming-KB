@@ -1,7 +1,7 @@
 ---
 title: "schultes witches ointments flying salves and Flying Salves"
 created: 2026-04-28
-tags: [ethnobotany, witches-ointment, flying-salve, solanaceae, europe, medieval, tropane, [[scopolamine]]
+tags: [ethnobotany, witches-ointment, flying-salve, solanaceae, europe, medieval, tropane, scopolamine
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/plants-of-the-gods-schultes-hofmann.md]
@@ -21,15 +21,12 @@ notorious witches' sabbat.
 ## The Solanaceous Ingredients
 
 The primary ingredients of witches' ointments were four plants of the
-Nightshade family (Solanaceae): Henbane (*[[henbane-hyoscyamus-niger-ethnobotany]]* and *H.
-albus*), Belladonna or [[plants-of-the-gods-atropa-belladonna-deadly-nightshade]] (*[[plants-of-the-gods-nightshade-hexing-herbs]],
-[[schultes-mandrake-mandragora-officinarum]].
+Nightshade family (Solanaceae): Henbane (*[[plants-of-the-gods-atropa-belladonna-deadly-nightshade]] (*[[schultes-mandrake-mandragora-officinarum]].
 
 The difference in effects among these plants is only one of relative
 concentration of their active alkaloids. Belladonna contains little
 scopolamine, but this alkaloid is the main component of Mandrake and
-especially of Henbane. It is apparently scopolamine, not [[atropine]] or
-[[hyoscyamine]], that produces the hallucinogenic effects.
+especially of Henbane. It is apparently scopolamine, not [[hyoscyamine]], that produces the hallucinogenic effects.
 
 ## Preparation and Application
 

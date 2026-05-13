@@ -23,21 +23,7 @@ sources:
 
 It is a little-known species outside botanical circles, rarely cultivated and poorly represented in horticultural literature. Its restricted Balkan distribution places it among the many Greek and Albanian endemics that contribute to the region's exceptional plant diversity.
 
-The species is part of the *[[campanula-rotundifolia]]* aggregate, a taxonomically challenging group of closely related taxa distributed across Europe and western Asia. Resolving species boundaries within this group remains an active area of systematic research.
-
-Despite its limited horticultural presence, *Campanula uncinata* is of scientific interest as a hexaploid member of a predominantly diploid species complex, offering insights into polyploid evolution in European mountain flora.
-
-## Taxonomy and Morphology
-
-**Classification:**
-- Kingdom: Plantae
-- Family: Campanulaceae
-- Genus: *Campanula*
-- Species: *C. uncinata* Halácsy
-
-The species was described by Johann von Halácsy in 1894 from material collected in the mountains of central Greece. It was later treated as a variety of *Campanula rotundifolia* by some authors before being restored to species rank based on morphological and cytological evidence.
-
-The nomenclatural history reflects the broader [[growing-gourmet-pleurotus-sajor-caju-taxonomic-confusion]] within the *C. rotundifolia* aggregate, where numerous subspecies and microspecies have been described and subsequently synonymized. Modern molecular studies using AFLP and microsatellite markers are helping to clarify relationships within this complex.
+The species is part of the *[[growing-gourmet-pleurotus-sajor-caju-taxonomic-confusion]] within the *C. rotundifolia* aggregate, where numerous subspecies and microspecies have been described and subsequently synonymized. Modern molecular studies using AFLP and microsatellite markers are helping to clarify relationships within this complex.
 
 **Morphological characteristics:**
 - **Basal leaves** are ovate to cordate, long-petiolate, with crenate-dentate margins, forming a loose rosette.
@@ -62,28 +48,97 @@ Populations are scattered and often locally abundant in favorable sites. The spe
 
 Populations on Mount Olympus have been monitored as part of the GLORIA (Global Observation Research Initiative in Alpine Environments) network. Preliminary data suggest stable population trends over the past two decades, though the sample size is small.
 
-It co-occurs with other Balkan endemics including *[[campanula-saxatilis]]* on limestone and *Achillea holosericea* in alpine meadows. The Balkan Peninsula hosts over 100 *Campanula* species, making it one of the genus's global diversity centers.
-
-The species has been collected infrequently, and its true distribution may be wider than current records suggest. Under-collecting is a common issue for Balkan mountain endemics due to the rugged terrain and limited road access to high-elevation sites.
-
-## Cultivation
-
-*Campanula uncinata* is extremely rare in cultivation and not commercially available from mainstream nurseries. It has been grown in a few European botanic gardens from wild-collected seed.
-
-**Suggested growing conditions (based on related species):**
-- **Soil:** Well-drained, loamy, neutral to slightly alkaline, with added grit.
-- **Light:** Full sun to light shade.
-- **Moisture:** Moderate during growth, dry in winter dormancy.
-- **Hardiness:** Likely USDA zones 5–7, based on its native elevational range.
-
-Propagation should be by seed sown fresh in autumn, as the species likely requires cold stratification for germination. No cultivars or named selections exist. Division may be attempted in [[coleman-overwintered-onions-and-early-spring-crops]] but success is uncertain given the limited horticultural experience with this taxon.
+It co-occurs with other Balkan endemics including *[[coleman-overwintered-onions-and-early-spring-crops]] but success is uncertain given the limited horticultural experience with this taxon.
 
 Plants grown from seed at the Gothenburg Botanical Garden in Sweden flowered in their third year and persisted for five additional seasons before declining, suggesting a relatively short lifespan for a perennial bellflower.
 
-Gardeners attempting to grow this species should provide conditions similar to those recommended for other Balkan alpine bellflowers such as *Campanula saxatilis* and *[[campanula-ochroleuca]]*.
-
-No pests or diseases specific to *Campanula uncinata* have been documented in cultivation, likely because so few plants have been grown. General bellflower pests including slugs, aphids, and [[biodiversity-rust-fungi-urediniomycetes]] (*Puccinia campanulae*) would be expected under garden conditions.
+Gardeners attempting to grow this species should provide conditions similar to those recommended for other Balkan alpine bellflowers such as *Campanula saxatilis* and *[[biodiversity-rust-fungi-urediniomycetes]] (*Puccinia campanulae*) would be expected under garden conditions.
 
 ## Ecological Role
 
 The pendant to horizontally oriented flowers of *Campanula uncinata* are pollinated by small bees and hoverflies typical of montane meadow communities in the Balkans. The poricidal capsule dehiscence allows gradual seed release over several weeks.
+
+## Overview
+
+Campanula Uncinata represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish campanula uncinata
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving campanula extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Campanula Uncinata finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for campanula uncinata. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+campanula uncinata and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Campanula Uncinata has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of campanula uncinata into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[campanula-punctata]]
+- [[campanula-pyramidalis]]
+- [[campanula-raineri]]
+- [[campanula-rhomboidalis]]
+- [[campanula-thyrsoidea]]

@@ -109,13 +109,8 @@ The capacity of psychedelics to tap into hidden potentials of the human mind was
 
 ## See Also
 
-- [[psychedelic-psychotherapy]]
 - [[set-and-setting]]
-- [[ayahuasca]]
 - [[psilocybin]]
-- [[stanislav-grof]]
 - [[timothy-leary]]
-- [[brassinosteroid]]
 - [[mdma]]
-- [[psychedelic-mushroom-set-and-setting]]
 - [[psilocybe-cubensis]]

@@ -8,7 +8,7 @@ type: concept
 
 ## Overview
 
-Deserts receive precipitation in highly variable and unpredictable ways. Understanding the types of rainfall, the patterns of water loss, and the explosive biological responses to moisture is essential for designing effective desert systems. In permaculture, the goal is to shift from a regime where 88% of water is lost to one where water is captured, stored underground, and used to prolong growth periods and rehumidify the landscape through transpiration.
+Deserts receive precipitation in highly variable and unpredictable ways. Understanding the types of rainfall, the patterns of water loss, and the explosive biological responses to moisture is essential for designing effective desert systems. In [[permaculture]], the goal is to shift from a regime where 88% of water is lost to one where water is captured, stored underground, and used to prolong growth periods and rehumidify the landscape through transpiration.
 
 ## Types of Desert Rain
 
@@ -67,38 +67,13 @@ The arrival of water triggers equally dramatic responses from aquatic and semi-a
 
 The contrast between the abundance of water arriving from storms and the scarcity of water available to living systems is stark. In most biomes, the majority of rainfall infiltrates and supports continuous biological activity. In deserts, the reverse is true: the majority of rainfall is lost almost immediately, and biological activity is compressed into brief windows following precipitation events. Understanding and reversing this imbalance is the central design challenge for arid-zone permaculture.
 
-The central challenge of desert [[water-management]] is that approximately 88% of all precipitation that falls on deserts is lost. This loss occurs through two primary pathways:
-
-1. **Evaporation**: Direct evaporation from wet soil surfaces and from standing water in temporary pools and streams. High temperatures, low humidity, and intense solar radiation combine to extract moisture from exposed surfaces extremely rapidly.
-2. **Unused runoff**: Water that runs off the surface and flows out of the system before it can infiltrate or be used by plants and animals.
-
-This massive inefficiency represents the primary opportunity for intervention. Any system that can reduce evaporation and capture runoff before it is lost will dramatically improve the water budget of a desert landscape.
-
-## Natural Aquifer Recharge
-
-The tiny fraction of water that does reach aquifers does so primarily through major channel systems and through deep cracking clay soils that allow rapid percolation during large flow events. Most desert soils — especially sandy ones — hold water in the upper profile where it is quickly evaporated or taken up by shallow-rooted annuals. Designing for aquifer recharge means creating pathways that move water past the evaporation zone and into deeper storage before it can be lost.
-
-Only about 0.8% of total desert rainfall naturally recharges underground aquifers. The overwhelming majority of water is returned to the atmosphere through evaporation and transpiration before it can percolate to depth. This figure underscores both the fragility of desert groundwater resources and the enormous potential for designed systems to increase infiltration rates and direct water into underground storage. Every percentage point of rainfall redirected from the 88% loss category into aquifer recharge represents a massive improvement in the system's water budget.
-
-## Permaculture Strategy for Desert Water
-
-The overarching strategy for desert water management in permaculture is to:
-
-1. **Capture and store water underground**: By directing runoff into swales, dams, and injection points that feed water into the subsoil, water is protected from evaporation and made available to deep-rooted perennial plants over extended periods.
-2. **Prolong the growth period**: Underground water storage extends the period during which plants can access moisture, allowing perennials to survive dry spells and supporting longer productive cycles after rainfall events.
-3. **Rehumidify via transpiration**: As established perennial vegetation accesses stored groundwater, it transpires moisture back into the local atmosphere. This can create microclimatic feedback loops that increase local humidity, reduce temperature extremes, and potentially increase the likelihood of future precipitation events nearby.
-
-This strategy aims to shift the water balance from 88% loss to a system where the majority of precipitation is captured, stored, and cycled through living systems.
-
-## Mediterranean Climate Borders and Arid Conditions
-
-Areas on the borders of deserts that are classified as having "Mediterranean" climates can function as effectively arid when they overlay deep sands. Deep sandy soils drain rapidly and hold very little moisture in the root zone, even when rainfall is relatively higher than in the desert interior. In these zones, the same principles of water capture, underground storage, and transpiration-based rehumidification apply. Mediterranean climate regions with deep sands should be treated as arid for design purposes, with strategies focused on preventing rapid drainage and [[building-soil]] water-holding capacity through organic matter and vegetation establishment.
+The central challenge of desert [[building-soil]] water-holding capacity through organic matter and vegetation establishment.
 
 ## Design Implications
 
 For permaculture designers working in arid and semi-arid regions, the material in this concept has several direct implications:
 
-- **Design for extremes, not averages**: Every water management structure should handle both zero-rain years and extreme deluge events.
+- **Design for extremes, not averages**: Every [[water-management]] structure should handle both zero-rain years and extreme deluge events.
 - **Prioritize underground storage**: Surface water in deserts is evaporation waiting to happen. Every liter directed below ground is a liter protected from loss.
 - **Use biological responses as indicators**: The speed at which life responds to rain shows what is possible when water is available. Design systems that extend these productive windows.
 - **Value mobility and flexibility**: The walkabout principle suggests that fixed infrastructure should be complemented by flexible, mobile responses to where water is available.
@@ -121,6 +96,5 @@ These principles form the foundation for all subsequent desert design work. Each
 - Mediterranean zones on deep sands should be treated as arid for water management purposes.
 ## See Also
 
-- [[desert-precipitation-patterns-and-opportunistic-ecology]]
 - [[dryland-strategies-and-desert-ecology]]
 - [[water-harvesting-and-conservation]]

@@ -17,62 +17,15 @@ type: concept
 
 # Cannabis Microbiome Cultivar Specificity
 
-The Cannabis microbiome is shaped by a two-tier selection process where soil type determines the broad microbial [[core-endorhiza-bacterial-community-composition-cannabis]] across bulk soil, rhizosphere, and endorhiza compartments, while plant cultivar genotype fine-tunes the specific community structure within the endorhiza (root interior). This was the first comprehensive characterization of the endorhiza, rhizosphere, and bulk soil-associated microbiomes of distinct Cannabis cultivars, conducted by Winston et al. (2014).
-
-## The Two-Tier Selection Model
-
-The two-tier selection model describes how microbial communities shift as they colonize from soil into plant roots:
-
-**Tier 1: Soil-driven filtering.** Edaphic (soil) factors, particularly nitrogen, carbon, water content, salinity, and pH, determine the composition of the bulk soil microbiota. These microbes form the source pool for colonization of the rhizosphere, the nutrient-rich zone immediately surrounding roots. The strongest predictor of community composition across all sample types was soil type, explaining 32% of community variation.
-
-**Tier 2: Host genotype-driven selection.** Following rhizosphere colonization, migration into plant root tissues is governed by host plant genotype. Different cultivars selectively recruit or enrich specific bacterial taxa from the available soil-derived pool into the endorhiza. This second tier acts primarily on community structure (relative abundance of OTUs) rather than composition (presence/absence).
-
-## Sample Compartments
-
-Three distinct microbial habitats were characterized around Cannabis roots:
-
-### Bulk Soil
-The soil at a distance from plant roots, representing the ambient microbial community. Alpha diversity (chao1) is highest in bulk soil, ranging from approximately 4300 to 5600 depending on soil type. Community composition is dominated by the full spectrum of soil bacteria, including Acidobacteria that typically dominate in acidic forest soils.
-
-### Rhizosphere
-The soil tightly adhering to root surfaces after removal from the ground. This zone is enriched by rhizodeposits (exudates, mucilage, sloughed cells) that create a nutrient gradient, shifting community composition toward bacteria adapted to metabolize plant-derived carbon compounds. Alpha diversity shows a slight reduction from bulk soil. Communities are intermediate between bulk soil and endorhiza in composition.
-
-### Endorhiza
-Bacteria colonized within root tissue. This compartment shows the most dramatic community shifts from bulk soil, with a significant reduction in Acidobacteria and an increase in Proteobacteria and Actinobacteria. Alpha diversity drops dramatically, with chao1 values of approximately 3300. This compartment shows the strongest cultivar-specific effects, as the plant immune system and root tissue chemistry exert selective pressure on which bacteria gain entry.
-
-## Cultivar-Specific Communities
-
-### First Experiment (Sour Diesel, Bookoo Kush, Burmese)
-
-Three Cannabis cultivars were grown in similar soils in Vista, California. Endorhiza communities showed significant cultivar-specific clustering (ADONIS: R2 = 0.59, p = 0.004 for [[weighted-unifrac-strain-clustering-cannabis-endorhiza-community-structure]]). The abundance of Methylophilus explained a significant portion of the inter-cultivar difference, comprising 13% of the endorhiza community in Bookoo Kush, only 0.13% in Burmese, and was absent entirely in Sour Diesel.
+The Cannabis microbiome is shaped by a two-tier selection process where soil type determines the broad microbial [[weighted-unifrac-strain-clustering-cannabis-endorhiza-community-structure]]). The abundance of Methylophilus explained a significant portion of the inter-cultivar difference, comprising 13% of the endorhiza community in Bookoo Kush, only 0.13% in Burmese, and was absent entirely in Sour Diesel.
 
 ### Second Experiment (White Widow, Maui Wowie)
 
-Two cultivars were grown in two distinct soil types (Mo-Bio soil and Orange County soil) with significant edaphic differences in total carbon, nitrogen, salinity, and water content. Community beta diversity was significantly different between soil types, sample types, and strains. The prevalence of [[sphingomonas-wittichii-cannabis-endorhiza-strain-specificity]] distinguished the Maui Wowie endorhiza. This bacterium can metabolize phenazine-1-carboxylic acid and has been implicated in increased survival in soil environments, potentially conferring advantages to its host plant.
-
-### Core Endorhiza Community
-
-Despite cultivar-specific differences, all endorhiza samples shared a core bacterial community including Pseudomonas, Cellvibrio, Oxalobacteraceae, Xanthomonadaceae, Actinomycetales, and Sphingobacteriales. With the exception of the aerobic cellulytic bacterium Cellvibrio, all prevalent core community members are well-known [[endorhiza-endophytic-bacteria]], primarily within the orders Gammaproteobacteria and Alphaproteobacteria.
+Two cultivars were grown in two distinct soil types (Mo-Bio soil and Orange County soil) with significant edaphic differences in total carbon, nitrogen, salinity, and water content. Community beta diversity was significantly different between soil types, sample types, and strains. The prevalence of [[endorhiza-endophytic-bacteria]], primarily within the orders Gammaproteobacteria and Alphaproteobacteria.
 
 ## Edaphic Factors and Microbial Community Structure
 
-[[soil-physicochemical-properties-cannabis-microbiome-assembly-winston]] were the strongest determinants of microbial community structure across all sample types. In order of importance:
-
-1. **Nitrogen** (strongest effect, r-stat: 0.465 weighted, 0.630 unweighted)
-2. **Salinity** (r-stat: 0.437 weighted, 0.620 unweighted)
-3. **Total carbon** (r-stat: 0.330 weighted, 0.512 unweighted)
-4. **Water content** (r-stat: 0.281 weighted, 0.466 unweighted)
-5. **pH** (weakest of the five, r-stat: 0.221 weighted, 0.292 unweighted)
-
-The optimal combination of three edaphic factors (nitrogen, carbon, and water) explained 63.2% of community variation (BEST analysis). This finding suggests that manipulating soil conditions could be the most effective approach to shaping the Cannabis microbiome for agricultural purposes.
-
-## Phylum-Level Shifts
-
-Consistent with the two-tier selection model, the following shifts were observed from bulk soil to endorhiza:
-
-- **Acidobacteria**: Dramatically decreased in endorhiza, with the order iii1-15 showing the most significant reduction (Bonferroni-corrected ANOVA: p = 1.12e-7). Acidobacteria are oligotrophic soil bacteria poorly adapted to the carbon-rich root environment.
-- **Proteobacteria**: Increased in endorhiza, particularly orders Rhizobiales, Pseudomonadales, Burkholderiales, and Sphingomonadales. These copiotrophic bacteria are well-adapted to metabolizing plant exudates.
-- **Actinobacteria**: Increased in endorhiza, consistent with their known role as common plant endophytes and producers of [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]].
+[[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]].
 - **Bacteroidetes**: Orders Sphingobacteriales and Flavobacteriales contributed to strain-level differences, suggesting cultivar-specific recruitment.
 
 ## OTU Sharing Between Compartments
@@ -81,45 +34,91 @@ Beta distances confirmed that rhizosphere and bulk soil communities are more sim
 
 ## Cannabinoid Correlations
 
-[[cannabinoid-concentration-endorhiza-microbiome-correlation-cannabis]] and composition showed significant correlation with endorhiza community structure. However, because higher THC composition occurred in plants from one particular soil type, and THC was also significantly correlated with soil edaphic variables, the association between cannabinoids and microbiota could not be cleanly disentangled from soil physicochemical effects. This represents an important area for future research with controlled experimental designs.
+[[dom]]
+- [[maui-wowie]]
+- [[g-13]]
 
-## Post-Harvest Root Decay
+## Overview
 
-The first experiment sampled plants 8 weeks after harvest, revealing evidence of root decay. The relative abundance of the cellulytic bacterium Cellvibrio was 16.9% in post-harvest endorhiza versus only 0.095% in plants sampled 2 weeks before harvest. This dramatic difference suggests root tissue senescence and decomposition were occurring, highlighting the importance of sampling timing in microbiome studies.
+Cannabis Microbiome Cultivar Specificity represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
 
-## Functional Roles of Endorhiza Bacteria
+## Key Characteristics
+
+Several defining characteristics distinguish cannabis microbiome cultivar specificity
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving cannabis extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
 
 ## Practical Applications
 
-The principles and techniques discussed here have wide-ranging applications
-across multiple disciplines and contexts. Practitioners and researchers
-continue to explore new ways to integrate these concepts into modern practice,
-adapting traditional knowledge to contemporary challenges and opportunities.
+Cannabis Microbiome Cultivar Specificity finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
 
-## Key Considerations
+## Management and Implementation
 
-Several important factors influence the effectiveness and outcomes described
-in this topic. Understanding these considerations helps practitioners make
-informed decisions and avoid common pitfalls. Environmental conditions,
-timing, and material selection all play critical roles.
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for cannabis microbiome cultivar specificity. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+cannabis microbiome cultivar specificity and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
 
 ## Historical Context
 
-The historical development of this subject reflects centuries of accumulated
-knowledge and practical experience. From traditional methods passed down
-through generations to modern scientific approaches, the evolution continues
-to inform current best practices and research directions.
+Cannabis Microbiome Cultivar Specificity has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
 
-## Common Challenges
+## Integration Strategies
 
-Practitioners frequently encounter several challenges when working with
-these concepts. Climate variability, resource limitations, and knowledge
-gaps can all affect outcomes. Addressing these challenges requires patience,
-observation, and a willingness to adapt approaches based on results.
+Successful integration of cannabis microbiome cultivar specificity into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
 
 ## See Also
-- [[dom]]
-- [[det]]
-- [[maui-wowie]]
-- [[sour-diesel]]
-- [[g-13]]
+
+- [[blesching-cannabis-cancer-symptoms]]
+- [[cannabis-endorhiza-shared-otu-soil-source-validation]]
+- [[cannabis-musculoskeletal-conditions]]
+- [[cannabis-oil-consumption-methods]]
+- [[green-cannabis-dry-sift-water-extraction]]

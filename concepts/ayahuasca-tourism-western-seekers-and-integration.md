@@ -12,9 +12,7 @@ tags: [ayahuasca]
 
 Western engagement with ayahuasca is part of a longer historical pattern of spiritual seeking outside Judeo-Christian traditions.
 
-Each generation since the 1950s has adopted alternative spiritual frameworks from non-Western cultures, with [[shamanism]] becoming fashionable in the 1990s and ayahuasca tourism emerging as a prominent expression of this trend into the early 2000s.
-
-Understanding this [[ghouled-field-guide-historical-context]] is essential for evaluating the motivations, expectations, and integration challenges facing contemporary Western ayahuasca seekers.
+Each generation since the 1950s has adopted alternative spiritual frameworks from non-Western cultures, with [[ghouled-field-guide-historical-context]] is essential for evaluating the motivations, expectations, and integration challenges facing contemporary Western ayahuasca seekers.
 
 ## Historical Pattern of Western Spiritual Seeking
 
@@ -34,39 +32,7 @@ This serial pattern reflects what the author characterizes as a recurring quest 
 
 Each wave of adoption extracts spiritual techniques from their originating cultural contexts, driven partly by exoticism and partly by genuine dissatisfaction with inherited Judeo-Christian frameworks.
 
-The article speculates that "within a few years, the avant-garde of the [[dmt-containing-plants-united-states-halpern]] will undergo a mass conversion to Islam" -- a prediction that captures the author's sense that Western spiritual seeking is serial and faddish.
-
-## The Foremost Question for Seekers
-
-Among Western seekers, the primary practical concern is finding a competent practitioner: "How do I find a good ayahuasquero?"
-
-Tourists are described as "often bewildered by the fact that almost every shaman claims to be the only person in all of Amazonia who knows how to properly brew the magic potion."
-
-This confusion reflects the difficulty of evaluating practitioners across vast cultural and linguistic divides, with no reliable quality assurance mechanisms available to tourists.
-
-The absence of credentialing, certification, or regulatory oversight means that seekers must rely entirely on word of mouth, guidebook recommendations, and personal judgment.
-
-Given the stakes -- ingesting a potent psychoactive brew in a foreign country from a stranger whose motivations may be primarily economic -- this informational vacuum represents a significant vulnerability.
-
-## Motivations and Expectations
-
-The article distinguishes between two broad categories of Western engagement:
-
-### Cultural Immersion Travelers
-
-Those interested in "learning about many different aspects of another society," for whom ayahuasca can be one component of a broader Peruvian experience.
-
-These travelers are willing to navigate "Peru's unpolished infrastructure" and are better positioned to find meaningful engagement.
-
-Their interest in the broader cultural context -- food, music, daily life, social structures -- provides a framework for understanding ayahuasca within its indigenous setting rather than extracting it as an isolated experience.
-
-### Ayahuasca-Specific Seekers
-
-Those whose primary or sole motivation is experiencing the brew itself.
-
-The author suggests these travelers may be better served by alternative approaches, noting that home-brewing with ingredients from ethnobotanical suppliers would be "more cost-effective" than international travel.
-
-The author further suggests that "this do-it-yourself approach could potentially be far more enlightening than what one might experience after traveling all the way to [[guzman-psilocybin-mushrooms-south-america]]" -- a striking statement that questions the fundamental value proposition of ayahuasca tourism for this group.
+The article speculates that "within a few years, the avant-garde of the [[guzman-psilocybin-mushrooms-south-america]]" -- a striking statement that questions the fundamental value proposition of ayahuasca tourism for this group.
 
 ### The Hybrid Motivation
 
@@ -78,9 +44,7 @@ The article's cautionary tone suggests that neither motivation alone fully justi
 
 ### Linguistic Barriers
 
-Communication with practitioners is limited even in ordinary consciousness, severely constraining the ability to receive guidance or understand [[kava-traditional-preparation-ceremonial-context]].
-
-[[icaros]] are sung in indigenous languages (primarily Shipibo in the areas described), their meanings opaque to Spanish-speaking tourists and completely inaccessible to English-only speakers.
+Communication with practitioners is limited even in ordinary consciousness, severely constraining the ability to receive guidance or understand [[icaros]] are sung in indigenous languages (primarily Shipibo in the areas described), their meanings opaque to Spanish-speaking tourists and completely inaccessible to English-only speakers.
 
 The inability to understand the verbal component of the ceremony means tourists miss a primary vehicle for the therapeutic and spiritual work that the ceremony is designed to accomplish.
 
@@ -117,8 +81,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[ayahuasca-tourism]]
 - [[ayahuasca]]
-- [[doc]]
 - [[psilocybin]]
 - [[dom]]

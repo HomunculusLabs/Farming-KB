@@ -11,70 +11,17 @@ sources:
 
 # Kuehneromyces mutabilis
 
-Kuehneromyces mutabilis, commonly known as the velvet foot, velvet shank, or brown birch bolete, is a saprotrophic agaric mushroom in the family Strophariaceae. It is widely distributed across temperate and [[fungal-diversity-boreal-forests-taiga]] of the Northern Hemisphere, where it fruits in dense clusters on the dead wood of hardwoods, especially birch (Betula spp.) and beech (Fagus spp.). The species is valued as an edible and cultivated mushroom in several European and Asian countries, notable for its ability to fruit during cold weather when few other mushrooms are available. Its specific epithet "mutabilis" refers to the dramatic two-toned appearance of its cap, which appears water-soaked and darker when wet but paler and velvety when dry — a hygrophanous trait that serves as a key field identification character.
-
-## Taxonomy and Naming
-
-- **Kingdom:** Fungi
-- **Division:** Basidiomycota
-- **Class:** Agaricomycetes
-- **Order:** Agaricales
-- **Family:** Strophariaceae
-- **Genus:** Kuehneromyces
-- **Species:** K. mutabilis (Pers.) Singer & A.H. Sm. (1946)
-- **Synonyms:** Agaricus mutabilis Pers. (1796), Pholiota mutabilis (Pers.) Quél. (1872), Galerina mutabilis (Pers.) Earle (1909)
-- **Common names:** velvet foot, velvet shank, brown birch mushroom, Krok mushrooms (Japan), Stockschwämmchen (German)
-- **Note:** The genus Kuehneromyces was erected to separate this species from Pholiota sensu stricto based on microscopic features, particularly the absence of chrysocystidia and the presence of distinctive cheilocystidia with narrow necks.
-
-## Description
-
-### Cap
-- **Diameter:** 3–8 cm, convex to plano-convex, sometimes with a slight umbo
-- **Surface:** Hygrophanous — markedly two-toned when partially dried: a darker reddish-brown zone at the margin from moisture retention, with a paler tan to ochraceous center where dried. When fully wet, uniformly chestnut-brown; when fully dry, uniformly pale tan.
-- **Texture:** Smooth to finely silky when dry, slightly viscid when wet
-- **Margin:** Inrolled when young, becoming straight, often with whitish veil remnants
-
-### Gills
-- **Attachment:** Adnate to adnexed, sometimes slightly sinuate
-- **Color:** Pale ochre at first, becoming cinnamon-brown to rust-brown with maturity
-- **Spacing:** Crowded, with 2–3 series of lamellulae (short gills)
-
-### Stem
-- **Dimensions:** 4–10 cm × 0.4–1.2 cm, cylindrical, equal or slightly tapered upward
-- **Surface:** Smooth above the ring zone, scaly to fibrillose below; pale yellowish above the annulus, darkening to reddish-brown below
-- **Ring:** Membranous, superior, often evanescent or reduced to a fibrillose zone
-- **Context:** Firm, whitish to pale buff, relatively thin
-
-### Microscopic Features
-| Feature | Description |
-|---------|-------------|
-| Basidiospores | 6.5–8.5 × 4–5 µm, ellipsoid, smooth, rust-brown in deposit, thick-walled, with a distinct germ pore |
-| Basidia | Clavate, 4-spored, 18–25 × 6–8 µm |
-| Cheilocystidia | Ventricose with narrow necks (bottle-shaped), thin-walled, 20–35 µm, forming a sterile band on gill edge |
-| Pleurocystidia | Absent |
-| Chrysocystidia | Absent (key distinction from Pholiota) |
-| Pileipellis | Cutis with cylindrical hyphae, 3–7 µm wide, with gelatinous matrix |
-| Caulocystidia | Cylindrical to clavate below the annulus |
-
-## Distribution and Habitat
-
-- **Geographic range:** Widely distributed across Europe, Asia (including Japan, Korea, China), and North America. Also reported from parts of South America and Australasia (likely introduced).
-- **Habitat:** Saprotrophic on dead or dying hardwood, especially birch (Betula spp.), beech ([[fagus-sylvatica]]), oak (Quercus spp.), alder (Alnus spp.), and elm (Ulmus spp.). Occasionally found on conifer stumps.
+Kuehneromyces mutabilis, commonly known as the velvet foot, velvet shank, or brown birch bolete, is a saprotrophic agaric mushroom in the family Strophariaceae. It is widely distributed across temperate and [[fagus-sylvatica]]), oak (Quercus spp.), alder (Alnus spp.), and elm (Ulmus spp.). Occasionally found on conifer stumps.
 - **Substrate:** Dead trunks, stumps, branches, and fallen logs; prefers well-decayed wood
-- **Fruiting season:** Autumn through winter (October–March in [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]]), often fruiting prolifically during cold snaps and light freezes when temperatures range from 2–10°C
-- **Growth habit:** Caespitose (growing in dense clusters), often forming large overlapping bouquets on a single log
-- **Ecology:** Primary wood decomposer; contributes significantly to [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] in temperate forest ecosystems during cold months
+- **Fruiting season:** Autumn through winter (October–March in [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] in temperate forest ecosystems during cold months
 
 ## Chemistry and Active Compounds
 
 - **Edibility:** Edible and highly regarded in Central Europe, Japan, and Korea. Firm texture and nutty flavor when cooked.
 - **Nutritional profile:** Rich in protein (approximately 20–25% dry weight), fiber, B vitamins (especially niacin and riboflavin), and minerals (potassium, phosphorus, selenium).
-- **[[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]]:**
-  - Polysaccharides with reported immunomodulatory and antitumor activity
-  - Ergothioneine (antioxidant amino acid derivative)
-  - [[aact-tannins-terpenes-phenolic-compounds-wood-composting-ingham]] with antioxidant capacity
+- **[[aact-tannins-terpenes-phenolic-compounds-wood-composting-ingham]] with antioxidant capacity
   - Lovastatin detected in some analyses (cholesterol-lowering statin)
-- **Toxicology concern:** Must be carefully distinguished from [[galerina-marginata]] (deadly galerina), which shares the same habitat (dead wood, clustered growth) and similar brown spores. G. marginata contains deadly amatoxins (α-amanitin, β-amanitin) identical to those in [[amanita-phalloides]].
+- **Toxicology concern:** Must be carefully distinguished from [[amanita-phalloides]].
 - **Key safety distinctions from G. marginata:**
   - K. mutabilis has a distinct hygrophanous two-toned cap; G. marginata does not
   - K. mutabilis has a well-developed ring; G. marginata has a fragile or absent ring
@@ -88,3 +35,88 @@ Kuehneromyces mutabilis, commonly known as the velvet foot, velvet shank, or bro
 | Galerina marginata | Similar habitat and cluster habit, but lacks hygrophanous two-toned cap, has thinner ring, contains deadly amatoxins — most dangerous lookalike |
 | [[pholiota-squarrosa]] | Has conspicuous erect scales on cap and stem, grows at base of living trees, not on dead wood; also edible when parboiled |
 | Kuehneromyces lignicola | Very similar but found on conifer wood; microscopically distinguished by spore size and cystidia shape |
+
+## Overview
+
+Kuehneromyces Mutabilis Entity represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish kuehneromyces mutabilis entity
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving kuehneromyces extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Kuehneromyces Mutabilis Entity finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for kuehneromyces mutabilis entity. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+kuehneromyces mutabilis entity and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Kuehneromyces Mutabilis Entity has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of kuehneromyces mutabilis entity into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[2c-g-3-entity]]
+- [[4-5-mdo-dmt-entity-tihkal]]
+- [[5-6-mdo-dipt-entity-tihkal]]
+- [[lupinus-mutabilis]]
+- [[methyl-k-entity-pihkal]]

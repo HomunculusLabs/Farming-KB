@@ -10,9 +10,7 @@ sources: []
 
 # María Sabina
 
-**María Sabina Magdalena García** (c. 1894 – November 22, 1985) was a Mazatec curandera (traditional healer) and shaman from Huautla de Jiménez, Oaxaca, Mexico. She is the most widely known practitioner of indigenous mushroom healing ceremonies and is credited with introducing the ritual use of [[valentina-pavlovna-wasson]] traveled to Huautla de Jiménez with the help of local intermediaries. Wasson arranged to participate in a velada conducted by María Sabina. The ceremony, held on the night of June 29–30, 1955, was a transformative experience for Wasson.
-
-Wasson published a celebrated account of this experience in the May 13, 1957 issue of *Life* magazine, titled "Seeking the [[australian-magic-mushroom-common-names]]." The article, illustrated with striking photographs by Allan Richardson, brought the existence of psychoactive [[stamets-psi-mazatec-mushroom-ceremonies-ethnobotany]] to global attention and triggered a wave of interest in [[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]] among Westerners.
+**María Sabina Magdalena García** (c. 1894 – November 22, 1985) was a Mazatec curandera (traditional healer) and shaman from Huautla de Jiménez, Oaxaca, Mexico. She is the most widely known practitioner of indigenous mushroom healing ceremonies and is credited with introducing the ritual use of [[australian-magic-mushroom-common-names]]." The article, illustrated with striking photographs by Allan Richardson, brought the existence of psychoactive [[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]] among Westerners.
 
 ## Aftermath and Impact
 
@@ -48,14 +46,7 @@ most important locally.
 
 ## System Connections
 
-This topic often overlaps with [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]], habitat design, water
-management, and low-input production. In a farming knowledge base, those
-connections matter because a single intervention can affect pest
-pressure, soil biology, yields, and long-term resilience.
-
-## Related Topics
-
-- [[psilocybe-mexicana]]
+This topic often overlaps with [[psilocybe-mexicana]]
 - maria-sabina-mazatec-mushroom-curandera
 - [[maria-sabina-velada-songs-and-mazatec-healing]]
 

@@ -18,15 +18,11 @@ sources:
 
 ## Overview
 
-Buphedrone is a synthetic stimulant belonging to the substituted cathinone class of chemicals. It is structurally related to methcathinone, differing only by the addition of an alpha-methyl group extending the carbon chain.
+Buphedrone is a synthetic stimulant belonging to the substituted [[cathinone]] class of chemicals. It is structurally related to methcathinone, differing only by the addition of an alpha-methyl group extending the carbon chain.
 
-The compound emerged in the early 2010s as part of the "bath salts" wave of novel [[cultural-evolution-and-psychoactive-substances]]. It produces stimulant and mild entactogenic effects through monoamine transporter interaction.
+The compound emerged in the early 2010s as part of the "bath salts" wave of novel [[savory-short-duration-grazing-and-cell-systems]] and high compulsion to redose.
 
-Buphedone is also known by the chemical name 2-(methylamino)-1-phenylbutan-1-one. It has been sold under street names including "B" and occasionally mixed into products labeled as mephedrone.
-
-The substance has no accepted medical use and is controlled in most jurisdictions. Its recreational profile is characterized by relatively [[savory-short-duration-grazing-and-cell-systems]] and high compulsion to redose.
-
-Buphedone has never been investigated in formal [[cancer-medicinal-mushrooms-schizophyllan-spg-clinical-trials]]. All pharmacological knowledge derives from in vitro studies and user self-reports, creating significant uncertainty about its [[blesching-cannabis-safety-profile]].
+Buphedone has never been investigated in formal [[blesching-cannabis-safety-profile]].
 
 The compound's legal status varies by jurisdiction, with most countries having enacted specific or generic controls. Online vendors continue to market analogs designed to circumvent existing legislation.
 

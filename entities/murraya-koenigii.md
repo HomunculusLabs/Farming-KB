@@ -20,9 +20,7 @@ sources:
 
 ## Overview
 
-**Murraya koenigii**, commonly known as **curry leaf** or **curry tree**, is an aromatic deciduous shrub or small tree in the family Rutaceae. It is native to the Indian subcontinent and is cultivated throughout South and [[psilocybe-southeast-asia-pacific]] for its aromatic leaves, which are an essential ingredient in South Indian, Sri Lankan, and Southeast Asian cuisines.
-
-The leaves contain a complex mixture of volatile terpenoids and carbazole alkaloids with documented antioxidant, anti-inflammatory, and hypoglycemic activities. In Ayurvedic medicine, the plant is used to treat digestive disorders, diabetes, and [[cannabis-for-skin-conditions-detailed]].
+**Murraya koenigii**, commonly known as **curry leaf** or **curry tree**, is an aromatic deciduous shrub or small tree in the family Rutaceae. It is native to the Indian subcontinent and is cultivated throughout South and [[cannabis-for-skin-conditions-detailed]].
 
 M. koenigii is distinct from the curry powder spice blend sold in Western markets. The plant's leaves provide a fresh, herbaceous aroma that cannot be replicated by any dried spice mixture.
 
@@ -48,9 +46,7 @@ Curry leaf trees are frost-sensitive and do not tolerate temperatures below 5°C
 
 ## Chemistry and Pharmacology
 
-The leaves contain 0.5–2.5% [[permaculture-designers-manual-essential-oil-plants]] composed primarily of monoterpenes and sesquiterpenes. Major volatile constituents include **sabinene**, **caryophyllene**, **α-pinene**, **β-pinene**, and **d-limonene**.
-
-Carbazole alkaloids are a distinctive class of [[antifungal-secondary-metabolites-coprophilous-fungi]] in M. koenigii, with **mahanimbine**, **murrayanine**, and **koenigine** being the most studied. These compounds exhibit antimicrobial, anti-inflammatory, and insecticidal activities.
+The leaves contain 0.5–2.5% [[antifungal-secondary-metabolites-coprophilous-fungi]] in M. koenigii, with **mahanimbine**, **murrayanine**, and **koenigine** being the most studied. These compounds exhibit antimicrobial, anti-inflammatory, and insecticidal activities.
 
 Hypoglycemic effects have been demonstrated in multiple animal studies, where leaf extracts significantly reduced blood glucose levels in streptozotocin-induced diabetic rats. The mechanism may involve stimulation of insulin secretion and enhancement of peripheral glucose uptake.
 
@@ -68,13 +64,7 @@ In Ayurvedic medicine, the leaves, bark, and roots are used to treat digestive c
 
 The fruits are edible and have a sweet, peppery flavor. They are sometimes used in traditional medicine as a stimulant and for treating digestive disorders.
 
-The essential oil of curry leaves has shown insecticidal and repellent activity against mosquitoes and stored-product pests. This has generated interest in M. koenigii as a botanical insecticide for [[comparison-beneficial-insects-guide-vs-integrated-pest-management]] management.
-
-## Cultivation
-
-M. koenigii is propagated primarily from seeds, which germinate in 2–3 weeks when fresh. Seed viability declines rapidly; stored seeds may require soaking or scarification. Semi-hardwood cuttings can also be used but strike with lower success rates.
-
-Trees are planted at 3–4 m spacing in well-prepared pits enriched with [[hamilton-composting-and-organic-matter-management]]. Regular watering is needed during establishment. Flowering begins at 1–2 years of age, with full leaf production from year three.
+The essential oil of curry leaves has shown insecticidal and repellent activity against mosquitoes and stored-product pests. This has generated interest in M. koenigii as a botanical insecticide for [[hamilton-composting-and-organic-matter-management]]. Regular watering is needed during establishment. Flowering begins at 1–2 years of age, with full leaf production from year three.
 
 Commercial leaf production involves repeated harvesting of tender branch tips every 2–3 months. Annual fresh leaf yield ranges from 2–5 kg per tree under good management.
 
@@ -87,3 +77,73 @@ Fresh curry leaves are rich in vitamins A, B, C, and E, as well as minerals incl
 Vitamin A content is notably high, contributing to the leaves' traditional use in treating eye disorders. Beta-carotene and other carotenoids account for much of the provitamin A activity.
 
 The leaves also contain significant amounts of fiber and plant sterols. Their low calorie content makes them a nutrient-dense addition to the diet.
+
+## Overview
+
+Murraya Koenigii represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish murraya koenigii
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving murraya extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Murraya Koenigii finds practical application in multiple design contexts.
+[[permaculture-principles]] guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for murraya koenigii. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+murraya koenigii and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Murraya Koenigii has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of murraya koenigii into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.

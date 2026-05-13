@@ -39,15 +39,7 @@ This proposed mechanism creates a direct biochemical pathway from a simple ferme
 
 Beyond its direct role as a cannabinoid precursor, hexanoic acid has been identified as a potent natural priming agent for plant defense responses. Research on hexanoic acid as a priming agent has demonstrated that it can activate broad-spectrum defenses by inducing callose deposition and the salicylic acid and jasmonic acid signaling pathways. It primes pathogen-specific responses according to the pathogen's lifestyle and also primes redox-related genes to produce an antioxidant protective effect.
 
-This priming activity is relevant to [[query-how-does-no-till-cannabis-cultivation-work]] because plant defense responses and [[fungal-elicitors-enhanced-secondary-metabolite-production]] production are interconnected. Many [[antifungal-secondary-metabolites-coprophilous-fungi]], including cannabinoids and terpenes, serve dual roles as defensive compounds and bioactive molecules. When hexanoic acid primes the plant's defense systems, it may simultaneously upregulate the metabolic pathways that produce cannabinoids and terpenes.
-
-The activation of jasmonic acid pathways is particularly relevant, as jasmonic acid signaling is known to stimulate trichome production and terpenoid biosynthesis in many plant species. This provides a second potential mechanism by which hexanoate application could enhance cannabinoid and terpene production beyond simply supplying biosynthetic precursors.
-
-## Origin of Hexanoate in Trichomes
-
-Research analyzing the trichome transcriptome of Cannabis sativa found that hexanoyl-CoA levels of 15.5 picomoles per gram of fresh weight were present in female hemp flowers, with lower amounts in leaves, stems, and roots. This distribution pattern parallels the accumulation of the end-product cannabinoid cannabidiolic acid (CBDA), confirming the trichome-specific nature of this biosynthetic pathway.
-
-The high abundance of transcripts encoding desaturases and a lipoxygenase in the trichome expressed sequence tag dataset suggests that hexanoate may be formed through a pathway involving the oxygenation and breakdown of unsaturated fatty acids within the trichomes themselves. This endogenous production pathway operates alongside any exogenous hexanoate that might be supplied through microbial activity or [[ultra-low-cost-foliar-application-methods]].
+This priming activity is relevant to [[fungal-elicitors-enhanced-secondary-metabolite-production]] production are interconnected. Many [[ultra-low-cost-foliar-application-methods]].
 
 ## Olivetolic Acid and UV-B Exposure
 
@@ -63,24 +55,7 @@ However, the concentration of hexanoate in LAB serum and its actual uptake by ca
 
 ## Related Topics
 
-- [[cannabis-lab-serum-cultivation]] for the practical production of LAB serum
-- [[cannabis-terpene-profile]] for [[clarke-marijuana-botany-terpene-biosynthesis-aromatic-profiles]] parallels
-- [[cannabis-plant-nutrition]] for broader plant nutrition context
-- [[cannabis-microbial-terpene-enhancement]] page discusses the broader relationship between microbial activity and terpene production in cannabis.
-
-## Exogenous Hexanoate Application
-
-Beyond LAB serum delivery, hexanoic acid can potentially be applied to cannabis through more direct methods. Dilute solutions of hexanoic acid in water could be used as foliar sprays or soil drenches, bypassing the variability inherent in biological fermentation. However, hexanoic acid has a strong, unpleasant odor (it is one of the compounds responsible for the smell of ginkgo fruit) and may cause phytotoxicity at higher concentrations.
-
-Coconut oil and palm kernel oil contain small amounts of hexanoic acid as part of their medium-chain fatty acid profile. Incorporating these oils into compost or soil amendments could provide a slow-release source of hexanoate through microbial activity. The ruminant milk fat connection in LAB serum is essentially the same principle, as ruminant milk naturally contains 1 to 2 percent hexanoic acid.
-
-## CsAAE1: The Key Enzyme
-
-The identification of CsAAE1 as the hexanoyl-CoA synthetase in Cannabis sativa trichomes was a significant advance in understanding cannabinoid biosynthesis. This enzyme shows high transcript abundance specifically in glandular trichomes, the sites of cannabinoid production, and activates hexanoate and other short- to medium-chain fatty acids in vitro.
-
-Phylogenetic analysis showed that CsAAE1 groups with peroxisomal acyl-activating enzymes but lacks the peroxisome targeting sequence (PTS1) that would direct it to peroxisomes. Instead, it localizes to the cytoplasm. This represents an example of metabolic recruitment, where an existing enzyme was co-opted for a new function through the loss of its targeting sequence, redirecting its activity from peroxisomal metabolism to the cannabinoid pathway.
-
-A second enzyme, CsAAE3, encodes a peroxisomal enzyme that also activates hexanoate among other fatty acid substrates. The existence of two enzymes capable of hexanoyl-CoA synthesis suggests that the plant has multiple routes for supplying this critical precursor, which may provide metabolic flexibility under different environmental conditions.
+- [[cannabis-terpene-profile]] for [[cannabis-plant-nutrition]] for broader plant nutrition context
 - [[fungal-elicitors-enhanced-secondary-metabolite-production]]
 
 ## Practical Applications
@@ -112,8 +87,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[cannabis-sativa]]
 - [[soma]]
-- [[cannabigerol]]
 - [[lactic-acid-bacteria]]
 - [[cannabis-trichome-development-cannabinoid-biosynthesis-sites]]

@@ -8,36 +8,7 @@ type: concept
 
 ## Overview
 
-Frost is one of the most consequential microclimatic factors in [[permaculture-design]], determining what can be grown where and requiring specific site-modification strategies. Understanding the physics of frost formation—rapid radiative cooling on clear, still nights—enables designers to create frost-free microclimates through careful manipulation of landform, vegetation, and thermal mass.
-
-## Frost Formation Physics
-
-Frost is caused by **radiation loss**—rapid cooling of the earth's surface on clear nights in still air. The proportion of heat loss on a cold night is directly proportional to the area of the night sky visible to the object losing heat. This principle has profound implications for site design:
-
-- A mouse in a cardboard tube in the ground loses very little heat (minimal sky exposure)
-- A mouse on a mound on a flat site is exposed to the whole sky and loses a great deal of heat
-
-## Clearing and Pit Design for Frost Reduction
-
-### The Steep-Sided Clearing Principle
-
-To reduce frost on any site, the strategy is to create a steep-sided clearing or pit that restricts radiation to a small area of sky. Such clearings provide two protective effects:
-
-1. **Radiant heat from vertical edges:** The surrounding landform or vegetation radiates stored heat inward
-2. **Obscured horizon:** Less sky visible means less radiant heat loss at night
-
-### Critical Design Rules
-
-- The clearing or pit should be **about one-half as wide as it is high**
-- Sides should be kept trimmed to **vertical**
-- In forests, clearings should **not exceed 30 m across**
-- Large clearings create or contain more frost—smaller is better
-
-### Progressive Frost Protection with Trees
-
-Building complete crown cover to prevent frost is best accomplished in stages:
-
-1. **Stage 1:** Plant the entire area to frost-tolerant pioneer species (e.g., silver wattle, *[[acacia-dealbata]]*)
+Frost is one of the most consequential microclimatic factors in [[acacia-dealbata]]*)
 2. **Stage 2:** Plant semi-hardy fruit trees in the shelter of the pioneers
 3. **Stage 3:** As frost-sensitive protected trees gain height, progressively cut back the pioneer species
 4. **Throughout:** Supply water to selected trees, which also helps ameliorate frost on high-risk nights
@@ -127,3 +98,11 @@ Areas of severe radiation require screening:
 
 ## See Also
 - [[coleman-season-extension-timeline-and-frost-protection]]
+
+## See Also
+
+- [[query-how-do-i-protect-plants-from-frost-and-freeze-damage]]
+- [[frost-protection-strategies]]
+- [[frost-protection-in-permaculture]]
+- [[frost-protection-and-radiation-management]]
+- [[hemenway-cold-air-drainage-and-frost-management]]

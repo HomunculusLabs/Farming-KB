@@ -8,15 +8,7 @@ tags: [fungal-modelling, mycelial-growth, Rhizoctonia-solani, cellular-automaton
 
 ## Overview
 
-Mathematical modelling of [[brassinosteroid-fungal-growth-promotion]] faces the fundamental challenge of
-scale. Models must address specific biological questions at appropriate
-spatial and temporal scales, with the ultimate goal of constructing multi-
-scale models that transfer information from individual gene action through
-to the growth and function of large-scale mycelia. Davidson and colleagues
-have developed a framework connecting physiology at the hyphal level to
-growth and function at the mycelial level, encompassing both continuum and
-discrete approaches calibrated against the soil-borne saprotroph
-[[gadd-mathematical-modelling-rhizoctonia-solani-mycelial-growth]].
+Mathematical modelling of [[gadd-mathematical-modelling-rhizoctonia-solani-mycelial-growth]].
 
 Earlier approaches either focused on the mycelium using variables such as
 biomass yield while ignoring spatial properties, or focused on hyphal-level
@@ -24,63 +16,11 @@ growth such as tip extension and branching while neglecting temporal
 dynamics. The new framework overcomes these limitations by addressing
 spatio-temporal properties across scales, using a continuum formulation for
 dense growth and a hybrid cellular automaton for sparse growth in
-[[fungal-mycelial-foraging-heterogeneous-environments]] such as soils.
-
-## Model Variables and Structure
-
-The mycelium is modelled using five interacting variables: active hyphae
-(involved in translocation of internal metabolites), inactive hyphae
-(moribund hyphae not involved in translocation or growth), hyphal tips,
-internal substrate (nutrients within the fungus), and external substrate
-(nutrients free in the environment). A single generic limiting element,
-assumed to be carbon, drives the model. Active hyphae change through new
-hyphae from tips and reactivation of inactive hyphae. Hyphal tips change
-through movement, branching proportional to internal substrate, and
-anastomosis. Internal substrate changes through translocation, uptake,
-and expenditure on maintenance and growth. External substrate changes
-through diffusion and fungal uptake.
-
-## Tip Growth, Branching and Translocation
-
-Hyphal tips tend to move in straight lines with small random directional
-fluctuations arising from new wall material incorporation at the tip. Tip
-growth rate depends on internal substrate status. Branching is proportional
-to internal substrate concentration, consistent with the established
-relationship between branching and [[bloomfield-turgor-pressure-and-hyphal-invasion]] or vesicle build-up.
-[[aact-microbial-foliar-nutrient-uptake-co2-stomata-ingham]] depends on both external and internal substrate
-concentrations and on hyphal biomass representing membrane surface area.
-
-The model includes both active, metabolically driven translocation and
-passive diffusive translocation. Active translocation depletes energy
-reserves and moves internal substrate towards hyphal tips as the major
-growth sinks. A key finding is that when active translocation is disabled,
-growth in uniform nutrient-rich conditions is largely unaffected,
-suggesting diffusion alone suffices. However, in heterogeneous
-environments, reduced active translocation decreases uptake on newly
-colonized patches because less internal substrate reaches tips to drive
-active uptake.
-
-## Continuum Approach and Calibration
-
-The continuum formulation treats variables as continuous densities
-expressed as nonlinear partial differential equations, suited to dense
+[[bloomfield-turgor-pressure-and-hyphal-invasion]] or vesicle build-up.
 [[brassinosteroid-psilocybe-cubensis-mycelial-growth-research]] in laboratory conditions. Translocation modelling
 accounts for the fractal branching structure by assuming shorter transit
 times than free-space diffusion. The model was calibrated using
-[[rhizoctonia-solani]] on glucose-amended mineral salts medium, with tip
-velocities and branching rates estimated from 15-hour growth images.
-
-Colony radial expansion showed good quantitative agreement with model
-biomass expansion. Reducing tip velocity according to the Q10-rule
-accurately predicted growth at lower temperatures. Model pH profiles
-replicated experimental acidification patterns. Applied to tessellated
-agar droplet systems with nutritional heterogeneity, the model predicted
-growth characteristics similar to experimental observations and extended
-them by explicitly mapping internal substrate concentrations.
-
-## Hybrid Cellular Automaton Model
-
-For sparse growth in structurally [[mycelial-growth-modeling-heterogeneous-environments]], a hybrid
+[[mycelial-growth-modeling-heterogeneous-environments]], a hybrid
 cellular automaton model represents the mycelium as a discrete structure
 on a hexagonal lattice while substrates remain continuous. This model
 explicitly includes anastomosis and translocation, processes neglected in
@@ -88,3 +28,88 @@ earlier discrete models due to computational difficulties. A novel
 feature is the simultaneous use of cell models for substrate and tips,
 and bond models for active and inactive hyphae, enabling accurate
 representation of network formation and internal redistribution.
+
+## Overview
+
+Mathematical Modelling Fungal Mycelia Davidson represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish mathematical modelling fungal mycelia davidson
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving mathematical extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Mathematical Modelling Fungal Mycelia Davidson finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for mathematical modelling fungal mycelia davidson. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+mathematical modelling fungal mycelia davidson and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Mathematical Modelling Fungal Mycelia Davidson has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of mathematical modelling fungal mycelia davidson into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[davidson-mathematical-modeling-fungal-mycelia]]
+- [[fungi-environment-mathematical-modelling-mycelial-growth]]
+- [[gadd-mathematical-modelling-fungal-mycelia]]
+- [[gadd-mathematical-modelling-fungal-mycelia-form-function]]
+- [[gadd-mathematical-modelling-rhizoctonia-solani-mycelial-growth]]

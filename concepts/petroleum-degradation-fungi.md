@@ -16,10 +16,7 @@ type: concept
 
 # Petroleum Degradation by Fungi
 
-[[singh-fungal-biodegradation-of-polycyclic-aromatic-hydrocarbons]] hydrocarbons (PAHs) and related petroleum compounds are
-widespread, hazardous environmental pollutants released through the burning
-of fossil fuels, coal mining, oil drilling, and industrial processes. Several
-PAHs are mutagenic and carcinogenic. [[petroleum-hydrocarbon-fungal-biodegradation]]
+[[petroleum-hydrocarbon-fungal-biodegradation]]
 by fungi, particularly white rot species, represents one of the most promising
 biological approaches for remediation of these persistent contaminants.
 

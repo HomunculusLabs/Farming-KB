@@ -35,13 +35,7 @@ consists of the following components, mixed in dry form and wetted to
 - 100 lbs (45.5 kg) ground corn cobs, peanut shells, chopped sugar
   cane bagasse, tea leaves, coffee, banana material, straw, etc.
 - 10 lbs (4.6 kg) rice bran or approximately 2.5 lbs extracted
-  [[soybean-oil-wastewater-fungi]]
-- 4 lbs (1.8 kg) gypsum (calcium sulfate)
-- 1 lb (0.45 kg) calcium carbonate
-- 100-140 lbs (45-64 kg) water or as required
-
-The calcium carbonate adjusts pH, offsetting inherent acidity of the
-[[growing-gourmet-substrate-materials-wood-types]]. When nitrogen supplements like rice bran are
+  [[growing-gourmet-substrate-materials-wood-types]]. When nitrogen supplements like rice bran are
 added, simple pasteurization may not adequately treat the substrate,
 and full sterilization is called for. Without supplementation,
 pasteurization usually suffices. The mixture must be loaded into bags
@@ -54,21 +48,11 @@ Wheat straw is the most accessible and forgiving substrate for small
 to mid-size cultivators. It is readily available, inexpensive, and
 needs only a quick run through a shredder before use. Wheat, rye,
 oat, and sorghum straws are all suitable. Straw accepts a limited
-number of contaminants while selectively favoring [[antimicrobial-compounds-mushroom-mycelium]],
-making it more forgiving than [[oyster-mushroom-supplemented-sawdust-blocks]]. Growing Oyster
-[[query-how-to-grow-mushrooms-on-straw]] is far less expensive than growing on sterilized
-sawdust. Many cottage growers enter the [[growing-gourmet-mushroom-dehydration-methods-equipment]] industry by
-first cultivating [[query-how-to-grow-oyster-mushrooms-at-home]] on straw.
-
-Hay should generally be avoided as it contains abundant seed kernels
-that tend to contaminate. However, limited numbers of grain kernels
-can actually boost yields. Research has shown that adding 20% alfalfa
-to wheat straw enhances [[cotter-oyster-mushroom-cultivation]] yields without increasing
+number of contaminants while selectively favoring [[oyster-mushroom-supplemented-sawdust-blocks]]. Growing Oyster
+[[growing-gourmet-mushroom-dehydration-methods-equipment]] industry by
+first cultivating [[cotter-oyster-mushroom-cultivation]] yields without increasing
 contamination risk, though alfalfa by itself is too nitrogen-rich.
-Straw supports all the gourmet [[cultivation-of-oyster-mushrooms]] including Pleurotus
-citrinopileatus, P. cystidiosus, P. djamor, P. eryngii, P. euosmus,
-P. ostreatus, and P. pulmonarius. Other mushrooms including King
-Stropharia, Shaggy Manes, [[comparison-king-stropharia-vs-paddy-straw-mushroom]], and Button mushrooms
+Straw supports all the gourmet [[comparison-king-stropharia-vs-paddy-straw-mushroom]], and Button mushrooms
 also thrive on straw-based substrates.
 
 ## Hot Water Bath Pasteurization
@@ -118,8 +102,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[mushroom-cultivation]]
 - [[mycelium]]
-- [[sterilization]]
 - [[tropical-mushroom-cultivation-agricultural-waste-substrates-poverty-alleviation]]
 - [[staycare-fungal-agricultural-waste-conversion]]

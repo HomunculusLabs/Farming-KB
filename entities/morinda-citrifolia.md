@@ -21,71 +21,85 @@ sources:
 
 # Morinda citrifolia
 
-**Noni** is an evergreen shrub or small tree in the coffee family (Rubiaceae), native to [[psilocybe-southeast-asia-pacific]] and Australasia but now naturalized throughout the tropics. One of the most important traditional Polynesian medicinal plants, noni has earned a reputation as a "canoe plant" — carried across the Pacific by early Polynesian voyagers for its food, fiber, and medicinal value. In permaculture, it is valued as a hardy pioneer species, soil stabilizer, and multi-use tree.
-
-## Taxonomy
-
-| Rank | Classification |
-|------|---------------|
-| Kingdom | Plantae |
-| Clade | Tracheophytes |
-| Clade | Angiosperms |
-| Clade | Eudicots |
-| Clade | Asterids |
-| Order | Gentianales |
-| Family | Rubiaceae |
-| Genus | *Morinda* |
-| Species | *M. citrifolia* |
-
-## Botanical Description
-
-**Growth habit:** Evergreen shrub to small tree, typically 3–10 m tall, occasionally reaching 15 m in ideal conditions. Canopy spread 3–6 m.
-**Trunk:** Gray-brown, rough bark, often crooked or gnarled. Branches are stiff and spreading.
-**Leaves:** Opposite, simple, elliptic to ovate, 15–30 cm long × 8–15 cm wide, glossy dark green above, paler below, with prominent venation. Leaves have a distinct pungent odor when crushed.
-**Flowers:** Small, white, tubular, 1.5–2 cm long, arranged in globose heads 2–3 cm diameter. Fragrant, opening at night (moth-pollinated). Flowers year-round in tropical climates.
-
-**Fruit:** Ovoid to ellipsoid syncarp (aggregate fruit), 5–12 cm long × 3–7 cm wide. Green when immature, turning creamy white to yellow-white when ripe. Surface has characteristic polygonal facets (achenes). Ripe fruit has a strong, pungent odor described as "aged cheese" or "vomit-like" — a consequence of butyric acid and caproic acid esters. Contains numerous seeds embedded in a white, juicy pulp.
-
-**Roots:** Extensive lateral root system. Some Pacific Island cultivars develop prominent, carrot-shaped taproots (used as a red dye source in traditional textiles).
-**Lifecycle:** Can begin flowering at 9–12 months from seed. Fruits mature 90–120 days after flowering. Productive for 20+ years.
-
-## Distribution & Habitat
-
-**Native range:** Southeast Asia (Indonesia, Malaysia, Philippines), northern Australia, Papua New Guinea.
-**Naturalized:** Throughout the Pacific Islands (Hawai'i, Tahiti, Fiji, Samoa, Tonga), Caribbean, Central and South America, West Africa, southern Florida.
-**Habitat:** Extremely versatile — found from sea level to 1,300 m elevation. Thrives on:
-- Coastal sandy soils and coral atolls
-- Volcanic soils (lava fields)
-- Disturbed sites, roadsides, forest margins
-- Saline-influenced coastal areas
-- Degraded pastures and abandoned farmland
-
-Noni is one of the first woody species to colonize lava flows in Hawai'i, demonstrating its role as a **pioneer species**.
-
-## Phytochemistry
-
-The fruit contains over 160 phytochemicals, with the most studied being:
-
-### Key Compounds
-
-| Compound | Class | Properties |
-|----------|-------|-----------|
-| **Scopoletin** | Coumarin | Anti-inflammatory, analgesic, antibacterial |
-| **Damnacanthal** | Anthraquinone | Anti-cancer (tyrosine kinase inhibitor), anti-fungal |
-| **Asperuloside** | Iridoid glycoside | Anti-inflammatory, hepatoprotective |
-| **Morindone** | Anthraquinone | Antimicrobial, antioxidant |
-| **Rutin** | Flavonoid glycoside | Antioxidant, capillary strengthening |
-| **Quercetin** | Flavonol | Anti-inflammatory, antihistamine, antioxidant |
-| **β-Sitosterol** | Phytosterol | Lipid-lowering, immunomodulatory |
-| **[[food-forest]] Integration
+**Noni** is an evergreen shrub or small tree in the coffee family (Rubiaceae), native to [[food-forest]] Integration
 - Canopy mid-layer or understory tree depending on placement
 - Tolerates partial shade but fruits best in full sun
-- Deep taproot accesses subsoil nutrients, bringing them to the surface via [[dighton-fungal-decomposition-leaf-litter-dynamics]]
-- Dropped fruit decomposes rapidly, cycling nutrients
-- Pest-resistant — few insect or disease problems in most locations
-- Salt-tolerant — suitable for coastal food forests
-
-## See Also
-
-- [[mollison-designers-pioneer-species-for-exhausted-tropical-soils]] — Site rehabilitation with fast-growing tropicals
+- Deep taproot accesses subsoil nutrients, bringing them to the surface via [[mollison-designers-pioneer-species-for-exhausted-tropical-soils]] — Site rehabilitation with fast-growing tropicals
 - [[food-forest-design]] — Integrating noni into polyculture systems
+
+## Overview
+
+Morinda Citrifolia represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish morinda citrifolia
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving morinda extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Morinda Citrifolia finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for morinda citrifolia. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+morinda citrifolia and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Morinda Citrifolia has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of morinda citrifolia into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.

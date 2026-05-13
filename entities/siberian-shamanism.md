@@ -8,7 +8,7 @@ type: entity
 
 Siberian shamanism is an ancient spiritual tradition practiced across the vast
 regions of Siberia and northern Russia, centered on the sacramental use of
-*Amanita muscaria* (the fly agaric mushroom). It represents one of the oldest
+*[[amanita-muscaria]]* (the fly agaric mushroom). It represents one of the oldest
 continuous entheogenic traditions on Earth, with roots extending back thousands
 of years. The shamans serve as intermediaries between the physical and spiritual
 worlds, using the mushroom to facilitate visionary experiences, healing, and
@@ -143,8 +143,6 @@ divine providence across numerous cultures.
 
 ## See Also
 
-- [[amanita-muscaria]] — The primary sacramental mushroom
 - [[fly-agaric]] — Common name for *Amanita muscaria*
-- [[r-gordon-wasson]] — Father of ethnomycology who studied these traditions
 - [[john-allegro]] — Philologist who traced linguistic connections
 - [[soma]] — Related entheogenic tradition in Hindu/Vedic culture

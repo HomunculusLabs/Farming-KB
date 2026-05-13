@@ -17,15 +17,7 @@ sources:
   - "Singer, R. (1986). The Agaricales in Modern Taxonomy, 4th edition. Koeltz Scientific Books."
   - "Stamets, P. (2000). Growing Gourmet and comparison-chaga-vs-turkey-tail-medicinal-mushrooms-comprehensive, 3rd edition. Ten Speed Press."
   - "Waterhouse, J.N. & Steel, E.C. (2003). A taxonomic revision of Pholiota sect. Pholiota. Mycotaxon, 86, 197-210."
-  - "Oei, P. (2003). accessible-mushroom-cultivation-for-disabilities with Special Emphasis on Appropriate Techniques for [[low-cost-mushroom-growing-house-construction-developing-countries]]. TOOL Publications."
-  - "Wasser, S.P. & Weis, A.L. (1999). [[panax-ginseng]] of substances occurring in higher Basidiomycetes mushrooms: current perspectives. International Journal of [[cancer-medicinal-mushrooms-extraction-bioavailability]], 1(1), 31-62."
-  - "Bao, D., et al. (2013). A taxonomic revision of Pholiota adiposa complex. Mycosystema, 32(3), 421-431."
-  - "https://www.mycobank.org/Biolomics.aspx?Table=Mycobank&Rec=153211"
----
-
-# Pholiota adiposa (Chestnut Mushroom)
-
-**Pholiota adiposa** (Fr.) Quél., commonly known as the **chestnut mushroom**, **fat pholiota**, or **adipose pholiota**, is an edible basidiomycete fungus in the family **Strophariaceae** (order Agaricales). It is a saprotrophic wood-decay fungus that fruits on living and dead hardwood trees, particularly elm, beech, and oak. The species is valued as a culinary mushroom in East Asia, where it is commercially cultivated, and has been investigated for various [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]] with medicinal potential. The epithet *adiposa* refers to the viscid, fatty texture of the cap surface when wet.
+  - "Oei, P. (2003). accessible-mushroom-cultivation-for-disabilities with Special Emphasis on Appropriate Techniques for [[panax-ginseng]] of substances occurring in higher Basidiomycetes mushrooms: current perspectives. International Journal of [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]] with medicinal potential. The epithet *adiposa* refers to the viscid, fatty texture of the cap surface when wet.
 
 ## Taxonomy
 
@@ -40,51 +32,101 @@ sources:
 | Genus | *Pholiota* |
 | Species | *P. adiposa* (Fr.) Quél. |
 
-Originally described as *Agaricus adiposus* by Elias Fries in 1821, transferred to *Pholiota* by Lucien Quélet in 1872. The genus *Pholiota* contains approximately 150 species worldwide, characterized by brown spore prints, partial veils, and preference for wood or lignin-rich substrates. Some authorities recognize the *P. adiposa* species complex as containing several cryptic taxa distinguishable by [[biodiversity-of-fungi-pcr-molecular-methods-fungal-diversity]] and [[geographic-distribution-of-psilocybe-species]].
+Originally described as *Agaricus adiposus* by Elias Fries in 1821, transferred to *Pholiota* by Lucien Quélet in 1872. The genus *Pholiota* contains approximately 150 species worldwide, characterized by brown spore prints, partial veils, and preference for wood or lignin-rich substrates. Some authorities recognize the *P. adiposa* species complex as containing several cryptic taxa distinguishable by [[geographic-distribution-of-psilocybe-species]].
 
 ## Macroscopic Description
 
 - **Cap**: 5–15 cm diameter, hemispherical to convex, becoming plano-convex with age; surface viscid to glutinous when moist (separable pellicle), ochre-yellow to golden-brown, covered with large recurved brown to tawny scales (squamules) more concentrated toward the center; margin often appendiculate with veil remnants
 - **Flesh**: White to pale yellow, thick and firm, mild nutty flavor; odor pleasant, mildly farinaceous or fruity
 - **Gills**: Adnate to slightly decurrent, crowded; initially white to pale yellow, becoming rust-brown to cinnamon as spores mature; gill edges flocculose (fringed) from cheilocystidia
-- **Stem**: 5–12 cm × 0.8–2.5 cm, equal to slightly clavate; surface covered with brownish scales below a thin [[membranous-annulus-loss-brassinosteroid-induced-morphological-change]]; white to yellowish above the ring; solid, firm
-- **Annulus**: Membranous, persistent but often collapsing with age; whitish to yellowish, sometimes with brownish scales on the upper surface
-- **Spore print**: Rust-brown to cinnamon-brown
-- **Taste/odor**: Mild, pleasantly nutty; no significant odor
-
-## Microscopic Features
-
-- **Basidiospores**: Ellipsoid to broadly ellipsoid, smooth, 6–8 × 4–5 µm; thick-walled with a distinct germ pore; brownish in deposit
-- **Basidia**: Clavate, 4-spored, 20–28 × 6–8 µm
-- **Cheilocystidia**: Numerous, lageniform to ventricose with a narrow neck, 20–40 × 6–12 µm; hyaline, thin-walled — this is a key diagnostic feature
-- **Pleurocystidia**: Similar to cheilocystidia but less abundant
-- **Pileipellis**: An ixocutis (gelatinized cutis) with embedded cylindrical hyphae 3–6 µm wide; scales formed by ascending fascicles of hyphae
-- **Hyphal system**: Monomitic; clamp connections present
-- **Sulphovanillin reaction**: Pileipellis stains blue-black with sulphovanillin (positive)
-
-## Habitat and Distribution
-
-*Pholiota adiposa* is primarily a **saprotrophic wood-decay fungus** causing a white rot of hardwoods, though it can also behave as a weak parasite on stressed trees. Natural substrates include:
-
-- **Preferred hosts**: Elm (*Ulmus* spp.), beech (*Fagus* spp.), oak (*Quercus* spp.), ash (*Fraxinus* spp.), maple (*Acer* spp.), willow (*Salix* spp.)
-- **Growth habit**: Clustered to caespitose (growing in dense clusters) on trunks, stumps, logs, and branches of living or dead trees
-- **Season**: Late summer through autumn (August–November in the Northern Hemisphere); in cultivation can be forced year-round
-
-Global distribution spans temperate and boreal regions of the Northern Hemisphere: Europe (widespread), Asia (China, Japan, Korea, Siberia), and North America (primarily eastern and central). In East Asia, it is particularly abundant in mountainous regions.
-
-## Cultivation
-
-*Pholiota adiposa* is one of the **commercially cultivated specialty mushrooms** in East Asia, particularly in China, Japan, and Korea, where it commands premium prices as a "forest mushroom":
-
-| Parameter | Optimal Range |
-|-----------|---------------|
-| Substrate | Hardwood sawdust (oak, beech, elm) supplemented with wheat bran (10–20%); also on hardwood logs |
-| Spawn type | Grain spawn (rye, wheat) or sawdust spawn |
-| Inoculation temperature | 20–25°C |
-| Colonization | 30–45 days on [[oyster-mushroom-supplemented-sawdust-blocks]] blocks |
+- **Stem**: 5–12 cm × 0.8–2.5 cm, equal to slightly clavate; surface covered with brownish scales below a thin [[oyster-mushroom-supplemented-sawdust-blocks]] blocks |
 | Fruiting temperature | 12–18°C |
 | Humidity | 85–95% relative humidity |
 | Light | Indirect light, 500–1000 lux |
 | CO₂ | < 1000 ppm for normal fruiting |
 | Yield | 150–300 g fresh per kg substrate ([[stamets-biological-efficiency-yield]] 15–30%) |
 | Harvest cycle | 2–3 flushes over 4–6 weeks |
+
+## Overview
+
+Pholiota Adiposa represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish pholiota adiposa
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving pholiota extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Pholiota Adiposa finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for pholiota adiposa. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+pholiota adiposa and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Pholiota Adiposa has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of pholiota adiposa into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[growing-gourmet-nameko-pholiota-cultivation]]
+- [[pholiota-aurivella]]
+- [[pholiota-nameko]]
+- [[pholiota-squarrosa]]

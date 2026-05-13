@@ -9,12 +9,7 @@ sources: []
 ---
 
 ## Overview
-Click chemistry is a [[hemenway-greywater-design-philosophy]] for chemical reactions that join molecular fragments rapidly, selectively, and in operationally simple conditions.
-The term was introduced by K. Barry Sharpless, Hartmuth Kolb, and M. G. Finn to describe reactions that behave like reliable molecular connectors rather than delicate total-synthesis maneuvers.
-A click reaction is expected to give high yields, tolerate water and oxygen when possible, form benign byproducts, and require little chromatographic purification.
-The idea is not one reaction but a screening criterion: choose transformations that make useful bonds with minimal fuss.
-This criterion became especially powerful in chemical biology because biomolecules contain many fragile functional groups that ordinary organic reactions would damage.
-Click chemistry overlaps with [[photoredox-catalysis]], and other enabling methods, but its center of gravity is reliability and selectivity.
+Click chemistry is a [[photoredox-catalysis]], and other enabling methods, but its center of gravity is reliability and selectivity.
 
 ## Defining Features
 The canonical click reaction is modular: two independently prepared partners carry compatible handles that react with each other in a predictable way.
@@ -89,39 +84,6 @@ Copper-mediated reactions are usually avoided in final biological systems unless
 Click handles in candidate drugs must be evaluated through ADME-style reasoning even when the synthetic step is convenient.
 
 ## See Also
-- [[psilocybin-mushroom-biology-chemistry]]
-
-## Practical Applications
-
-The principles and techniques discussed here have wide-ranging applications
-across multiple disciplines and contexts. Practitioners and researchers
-continue to explore new ways to integrate these concepts into modern practice,
-adapting traditional knowledge to contemporary challenges and opportunities.
-
-## Key Considerations
-
-Several important factors influence the effectiveness and outcomes described
-in this topic. Understanding these considerations helps practitioners make
-informed decisions and avoid common pitfalls. Environmental conditions,
-timing, and material selection all play critical roles.
-
-## Historical Context
-
-The historical development of this subject reflects centuries of accumulated
-knowledge and practical experience. From traditional methods passed down
-through generations to modern scientific approaches, the evolution continues
-to inform current best practices and research directions.
-
-## Common Challenges
-
-Practitioners frequently encounter several challenges when working with
-these concepts. Climate variability, resource limitations, and knowledge
-gaps can all affect outcomes. Addressing these challenges requires patience,
-observation, and a willingness to adapt approaches based on results.
-
-## See Also
 - [[psilocybin]]
-- [[cannabis-botany-history-chemistry]]
 - [[polyphenols-and-plant-defense-chemistry]]
-- [[guzman-neurotropic-fungi-classification-four-groups-chemistry-system]]
 - [[chemistry-of-hallucinogenic-plants]]

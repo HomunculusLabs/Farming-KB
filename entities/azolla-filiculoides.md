@@ -44,34 +44,14 @@ water surface. Each frond is bilobed, with a dorsal lobe containing the
 symbiont-containing cavity and a ventral lobe floating on the water surface.
 
 Fronds are green to reddish-bronze, with color shifting to deep red under
-stress (cold, [[query-how-to-fix-phosphorus-deficiency-in-cannabis]], high light). Roots hang 2–5 cm below
-the frond into the water column, absorbing nutrients directly.
-
-The symbiotic cyanobacterium *Nostoc azollae* inhabits a specialized cavity
-in the dorsal lobe and is transmitted vertically through sporangia to the
-[[next-generation-sequencing-hidden-fungal-diversity]] — one of the few obligate plant-cyanobacterium symbioses.
+stress (cold, [[next-generation-sequencing-hidden-fungal-diversity]] — one of the few obligate plant-cyanobacterium symbioses.
 
 ## Distribution and Habitat
 
-Native to warm and [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]] of the Americas, from southern Canada
-to Argentina. Widely introduced in Europe, Asia, Africa, Australia, and New
-Zealand as a biofertilizer and ornamental plant.
-
-It thrives in still or slow-moving freshwater bodies: ponds, ditches, rice
-paddies, and marshes. Optimal conditions include water temperature 18–30°C,
-pH 5.5–7.5, full sun, and moderate [[query-how-does-phosphorus-availability-change-across-soil-ph-levels]].
+Native to warm and [[query-how-does-phosphorus-availability-change-across-soil-ph-levels]].
 
 Azolla can survive brief freezing and temperatures up to 35°C. Under
-tropical conditions it grows year-round; [[query-how-to-grow-and-use-oca-in-temperate-climates]] it dies back
-in winter and overwinters as dormant spores (megaspores) that germinate in
-spring.
-
-## Nitrogen Fixation and Growth
-
-The *Azolla-Nostoc* symbiosis fixes atmospheric nitrogen at rates of 1.5–4.0
-kg N/ha/day under optimal field conditions, totaling 200–400 kg N/ha over a
-rice-growing season. This exceeds the nitrogen contribution of most leguminous
-[[query-what-is-biofumigation-and-how-does-it-work]].
+tropical conditions it grows year-round; [[query-what-is-biofumigation-and-how-does-it-work]].
 
 Biomass doubling time is 2–5 days under warm, nutrient-rich conditions.
 A single hectare can produce 40–80 tonnes of fresh biomass per season.
@@ -88,3 +68,82 @@ Azolla dry matter contains approximately:
 - **Protein:** 20–30% (rich in essential amino acids)
 - **Lipids:** 4–7%
 - **Carbohydrates:** 40–50%
+
+## Overview
+
+Azolla Filiculoides represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish azolla filiculoides
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving azolla extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Azolla Filiculoides finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for azolla filiculoides. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+azolla filiculoides and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Azolla Filiculoides has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of azolla filiculoides into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also

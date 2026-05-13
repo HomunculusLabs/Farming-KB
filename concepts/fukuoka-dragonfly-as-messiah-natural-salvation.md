@@ -1,22 +1,6 @@
 ---
 title: "Fukuoka's 'fukuoka dragonfly as messiah natural salvation' — Natural Salvation Philosophy"
-source: "Sowing Seeds in the Desert (2012), Chapter 1: 'The Call to [[comparison-natural-farming-vs-permaculture]]'"
-tags:
-  - natural-farming
-  - philosophy
-  - religion-critique
-  - ecology
-  - spirituality
-  - masanobu-fukuoka
-  - eastern-philosophy
-  - nature-salvation
----
-
-# Fukuoka's "Dragonfly as Messiah" — Natural Salvation Philosophy
-
-## Overview
-
-"The dragonfly will be the messiah" is a philosophical statement by [[masanobu-fukuoka]],
+source: "Sowing Seeds in the Desert (2012), Chapter 1: 'The Call to [[masanobu-fukuoka]],
 appearing at the conclusion of Chapter 1 of *Sowing Seeds in the Desert*. It encapsulates
 his conviction that true salvation for humanity lies not in religious doctrine, sacred
 scriptures, or institutionalized belief systems, but in a direct, unmediated relationship
@@ -65,29 +49,11 @@ The dragonfly in Fukuoka's statement carries multiple layers of symbolic meaning
 - **Freedom**: Fukuoka describes his own transformative experience by saying he "became
   as light as the wings of a dragonfly, and felt as if I were flying as high as the
   mountain peaks." The dragonfly represents the liberation from the weight of
-  [[non-discriminating-knowledge-and-critique-of-scientific-reductionism]] and worldly attachment.
-
-- **Natural divinity**: Unlike a human messiah who requires interpretation, scriptures,
-  and institutional structures, the dragonfly simply *is*. Its existence is itself a
-  demonstration of the truth Fukuoka seeks to convey—that nature needs no explanation
-  or justification.
-
-- **Immanence over transcendence**: Fukuoka rejects the idea of a deity separate from
-  the natural world. He writes, "I saw no deity other than the trees themselves, nor
-  did I perceive a spirit or soul of vegetation hidden within the trees." The dragonfly
-  is the messiah precisely because it is not supernatural—it is wholly natural.
-
-## Relationship to Buddhist and Taoist Thought
-
-Fukuoka's position resonates with several strands of [[fukuoka-western-eastern-philosophy-agriculture]]:
+  [[fukuoka-western-eastern-philosophy-agriculture]]:
 
 - **Zen Buddhism**: The emphasis on direct perception, the rejection of scriptures and
   conceptual thinking, and the value of an "egoless state" all align with Zen. Fukuoka
-  explicitly references the [[fukuoka-do-nothing-farming-philosophy-and-practice]] method.
-
-- **Buddhist rejection of intellectual knowledge**: Fukuoka notes that "the religion
-  of Buddhism rejects knowledge acquired through the human intellect as nothing more
-  than illusion," comparing this to the Western myth of the [[allegro-garden-of-eden-and-delight]], where
+  explicitly references the [[allegro-garden-of-eden-and-delight]], where
 
 ## Practical Applications
 
@@ -118,8 +84,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[doc]]
 - [[dom]]
-- [[fukuoka-pesticide-carnage-spider-firefly-dragonfly]]
 - [[fukuoka-mahayana-and-hinayana-natural-farming]]
 - [[fukuoka-natural-farming-philosophy-of-mu]]

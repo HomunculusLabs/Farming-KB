@@ -1,7 +1,7 @@
 ---
 title: Fukuoka, Descartes, Western Philosophy, and Nature
 source: masanobu-fukuoka-the-road-back-to-nature.md
-author: [[masanobu-fukuoka]]
+author: masanobu-fukuoka
 tags: [fukuoka, philosophy, descartes, western-philosophy, nature, anthropocentrism, eastern-philosophy]
 ---
 
@@ -9,8 +9,7 @@ tags: [fukuoka, philosophy, descartes, western-philosophy, nature, anthropocentr
 
 ## Overview
 
-In *The Road Back to Nature*, [[masanobu-fukuoka-natural-farming-philosophy]] identifies René Descartes' famous proposition
-"I think, therefore I am" as the [[fukuoka-spiritual-philosophical-foundation]] of the Western attitude toward nature
+In *The Road Back to Nature*, [[fukuoka-spiritual-philosophical-foundation]] of the Western attitude toward nature
 that has led to environmental destruction. He contrasts this anthropocentric worldview with
 Eastern philosophies of unity between humanity and nature, arguing that the West's error was
 not merely technological but fundamentally philosophical.
@@ -90,39 +89,6 @@ intuition.
 
 ## See Also
 
-- [[fukuoka-spiritual-philosophy-nature-and-god]]
-
-## Practical Applications
-
-The principles and techniques discussed here have wide-ranging applications
-across multiple disciplines and contexts. Practitioners and researchers
-continue to explore new ways to integrate these concepts into modern practice,
-adapting traditional knowledge to contemporary challenges and opportunities.
-
-## Key Considerations
-
-Several important factors influence the effectiveness and outcomes described
-in this topic. Understanding these considerations helps practitioners make
-informed decisions and avoid common pitfalls. Environmental conditions,
-timing, and material selection all play critical roles.
-
-## Historical Context
-
-The historical development of this subject reflects centuries of accumulated
-knowledge and practical experience. From traditional methods passed down
-through generations to modern scientific approaches, the evolution continues
-to inform current best practices and research directions.
-
-## Common Challenges
-
-Practitioners frequently encounter several challenges when working with
-these concepts. Climate variability, resource limitations, and knowledge
-gaps can all affect outcomes. Addressing these challenges requires patience,
-observation, and a willingness to adapt approaches based on results.
-
-## See Also
 - [[dom]]
-- [[det]]
 - [[fukuoka-philosophy-non-causality-nature]]
-- [[fukuoka-spiritual-philosophy-nature-and-god]]
 - [[fukuoka-god-nature-man-unity-philosophy]]

@@ -45,29 +45,6 @@ Mantel tests comparing cannabinoid concentration distance matrices with
 community dissimilarity matrices revealed significant but moderate correlations
 between cannabinoid profiles and endorhiza community structure. The correlation
 was stronger when using weighted
-[[unifrac-weighted-unweighted-analysis-cannabis-microbiome|UniFrac]] distances
-(incorporating taxon abundance) compared to unweighted UniFrac (presence-absence
-only), suggesting that cannabinoid concentrations affect the relative abundance
-of endorhiza taxa rather than fundamentally determining which taxa are present.
-
-However, when partial Mantel tests were performed controlling for soil edaphic
-variables, the cannabinoid-community correlation was substantially reduced. This
-indicated that a significant portion of the observed cannabinoid-microbiome
-relationship was mediated through shared edaphic influences rather than direct
-plant-microbe signaling involving cannabinoid compounds.
-
-## Confounding with Soil Edaphic Variables
-
-### The Confounding Problem
-
-The fundamental analytical challenge identified by Winston et al. was the
-entanglement of three factors: cultivar identity, cannabinoid concentration,
-and soil chemistry. Cultivar determines cannabinoid profile (genetic basis),
-cultivar also influences root exudate chemistry (affecting microbiome), and
-cultivar response to soil conditions creates genotype-by-environment
-interactions. Additionally, soil chemistry independently shapes the microbiome
-and may influence cannabinoid biosynthesis through nutrient availability.
-
 [[edaphic-factor-ranking-nitrogen-salinity-cannabis-microbiome|Nitrogen availability]] was the
 strongest edaphic predictor of community structure, and nitrogen is also known
 to influence cannabinoid biosynthesis rates. This dual role of nitrogen creates
@@ -97,10 +74,7 @@ abundance of Actinomycetales and other Gram-positive endorhiza members.
 
 Root exudates may also contain cannabinoid biosynthetic intermediates or
 degradation products that serve as carbon sources for specialized endophytes.
-The [[cannabis-endorhiza-core-microbiome-pseudomonas-rhizobiales|core microbiome]] taxa consistently detected across cultivars may be those capable
-of tolerating or metabolizing low levels of cannabinoid compounds in root
-tissues. Conversely, [[cannabis-cultivar-specificity-microbial-selection-mechanisms|cultivar-specific enrichments]] like [[methylophilus-methylotrophic-bacteria-cannabis-endorhiza|Methylophilus]] and
-[[sphingomonas-wittichii-maui-wowie|Sphingomonas wittichii]] may reflect differential
+The [[cannabis-cultivar-specificity-microbial-selection-mechanisms|cultivar-specific enrichments]] like [[sphingomonas-wittichii-maui-wowie|Sphingomonas wittichii]] may reflect differential
 tolerance to cannabinoid concentrations.
 
 ## Implications for Terroir
@@ -130,11 +104,7 @@ causality and identify specific cannabinoid-responsive taxa.
 
 ## See Also
 
-- [[two-tier-selection-model]]
 - [[cannabis-endorhiza-core-microbiome-pseudomonas-rhizobiales]]
-- [[cannabis-cultivar-specificity-microbial-selection-mechanisms]]
 - [[edaphic-factor-ranking-nitrogen-salinity-cannabis-microbiome]]
-- [[methylophilus-methylotrophic-bacteria-cannabis-endorhiza]]
 - [[sphingomonas-wittichii-maui-wowie]]
-- [[unifrac-weighted-unweighted-analysis-cannabis-microbiome]]
 - [[cannabis-rhizosphere-community-structure-edaphic-factors]]

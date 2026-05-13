@@ -11,23 +11,7 @@ sources:
 
 # Artemisia vulgaris
 
-Artemisia vulgaris (common mugwort) is a vigorous perennial herb in the family Asteraceae, native to Europe, Asia, and North Africa. One of the most widely distributed and culturally significant medicinal plants in the Northern Hemisphere, mugwort has been used for millennia in traditional medicine, culinary applications, spiritual practices, and textile dyeing. Its allelopathic properties, rapid growth, and ability to colonize disturbed ground make it both a valuable permaculture species for dynamic accumulation and, in some contexts, an aggressive weed. The species contains thujone, a bioactive ketone with stimulant and emmenagogue properties, and a complex [[permaculture-designers-manual-essential-oil-plants]] profile that underpins its traditional uses.
-
-## Taxonomy and Naming
-- **Order:** Asterales
-- **Family:** Asteraceae (daisy/sunflower family)
-- **Genus:** Artemisia
-- **Species:** A. vulgaris L.
-- **Authority:** Carl Linnaeus (1753)
-- **Synonyms:** A. vulgaris var. vulgatissima Besser, A. opulenta Pamp.
-- **Common names:** Mugwort, common wormwood, felon herb, wild wormwood, St. John's plant, chrysanthemum weed
-- **Etymology:** Genus named for Artemis, Greek goddess of the hunt. "Vulgaris" is Latin for "common." "Mugwort" may derive from "moughte" (moth) + "wyrt" (plant), referring to its use as a moth repellent, or from "mug" (drinking vessel), as the herb flavored beer before hops.
-- **Related species:** A. absinthium (wormwood), A. annua (sweet wormwood), A. dracunculus (tarragon), A. princeps (Japanese mugwort)
-
-## Description
-
-### Growth Habit and Morphology
-Robust rhizomatous perennial [[medicinal-herb-growing]] 0.5–2.5 m tall. Forms dense colonies through extensive creeping rhizomes that spread several meters from the parent plant. Stems are erect, angular, grooved, often with a distinct purplish tinge at the base. The vigorous growth habit allows quick colonization of disturbed ground, waste places, and garden margins. In permaculture systems, this growth is valued for dynamic nutrient-accumulating properties.
+Artemisia vulgaris (common mugwort) is a vigorous perennial herb in the family Asteraceae, native to Europe, Asia, and North Africa. One of the most widely distributed and culturally significant medicinal plants in the Northern Hemisphere, mugwort has been used for millennia in traditional medicine, culinary applications, spiritual practices, and textile dyeing. Its allelopathic properties, rapid growth, and ability to colonize disturbed ground make it both a valuable permaculture species for dynamic accumulation and, in some contexts, an aggressive weed. The species contains thujone, a bioactive ketone with stimulant and emmenagogue properties, and a complex [[medicinal-herb-growing]] 0.5–2.5 m tall. Forms dense colonies through extensive creeping rhizomes that spread several meters from the parent plant. Stems are erect, angular, grooved, often with a distinct purplish tinge at the base. The vigorous growth habit allows quick colonization of disturbed ground, waste places, and garden margins. In permaculture systems, this growth is valued for dynamic nutrient-accumulating properties.
 
 ### Leaves
 Leaves are alternate, deeply pinnately lobed (2–3 times pinnatisect), 5–20 cm long and 3–10 cm wide. The upper surface is dark green and glabrous; the lower surface is covered with dense white to gray tomentose hairs, giving a characteristic silvery-white underside. Leaf lobes are lanceolate to oblong with serrate margins. Basal leaves are long-petiolate and larger than upper stem leaves. When crushed, leaves emit a strong, aromatic, slightly bitter scent.
@@ -50,45 +34,94 @@ networks extending 3–5 m in all directions within 2–3 growing seasons.
 - **Habitat:** Grasslands, forest margins, riparian zones, waste ground, roadsides, arable field margins, urban vacant lots, coastal dunes.
 - **Soil tolerance:** Sandy, loamy, and clay soils from pH 4.8–8.0. Tolerates poor, compacted, and nutrient-deficient soils.
 - **Light:** Full sun to partial shade; most vigorous in open sites.
-- **Invasiveness:** Listed as invasive in parts of [[psilocybin-north-america-pacific-northwest]] and New Zealand due to aggressive rhizomatous spread.
-
-## Chemistry and Active Compounds
-| Compound | Typical % Range | Notes |
-|----------|----------------|-------|
-| α-Thujone | 0.5–2.0% (essential oil) | Ketone; neuroactive, emmenagogue |
-| β-Thujone | 0.1–0.8% | Less potent isomer of α-thujone |
-| 1,8-Cineole | 5–15% | Oxide; expectorant, antimicrobial |
-| Camphor | 3–10% | Terpene ketone; stimulant |
-| Artemisia ketone | 5–15% | Characteristic of Artemisia genus |
-| β-Caryophyllene | 2–8% | Sesquiterpene; anti-inflammatory |
-| Germacrene D | 3–10% | Sesquiterpene; insecticidal |
-| Borneol | 1–4% | Monoterpene alcohol; cooling |
-| Coumarins | Present (leaves) | Aromatic lactones; anticoagulant |
-| Flavonoids | Quercetin, kaempferol | Antioxidant, anti-inflammatory |
-| Tannins | 3–5% (aerial parts) | Astringent, antimicrobial |
-
-## Ethnobotanical and Cultural Significance
-Mugwort is among the most culturally important herbs in Eurasian tradition. In Traditional Chinese Medicine, dried mugwort (ài yè / 艾叶) is moxa — the primary fuel for moxibustion, burned over acupuncture points to stimulate circulation and warm the body. Moxibustion remains a standard therapeutic technique in modern TCM practice worldwide. The plant is sacred in Shinto and Buddhist traditions in Japan, one of the seven herbs of autumn (aki no nanakusa). In European folk medicine, mugwort was hung in doorways to ward off evil spirits and insects, placed in shoes to relieve foot fatigue on long journeys ("traveler's herb"), and used as a bitter digestive tonic in liqueurs such as absinthe and vermouth. The herb was the primary beer flavoring agent before hops adoption in the 15th–16th centuries, documented in the Reinheitsgebot (1516). In Korean culture, mugwort (ssuk / 쑥) is a staple food in rice cakes, soups, and tteokbokki.
-
-## Medicinal Properties
-| Property | Evidence Level | Traditional Use |
-|----------|---------------|-----------------|
-| Emmenagogue | Traditional + some clinical | Promotes menstruation |
-| Digestive bitter | Well-established | Stimulates appetite, relieves bloating |
-| Anti-inflammatory | In vitro and animal studies | Topical for arthritis, rheumatism |
-| Antimicrobial | In vitro confirmed | Wound wash, skin infections |
-| Antispasmodic | Traditional | Menstrual cramps, intestinal colic |
-| Diaphoretic | Traditional | Fever management, common cold |
-| Cholagogue | Traditional | Stimulates bile flow |
-| Nervine | Traditional | Anxiety, insomnia, epilepsy |
-| Anthelmintic | Traditional | Intestinal worm expulsion |
-
-## Permaculture Functions
-- **[[nutrient-dynamic-accumulator-reference]]:** Deep roots mine potassium, calcium, phosphorus from subsoil, making them available to shallower-rooted plants when used as mulch or compost. Root systems can extend 1–2 m deep.
+- **Invasiveness:** Listed as invasive in parts of [[nutrient-dynamic-accumulator-reference]]:** Deep roots mine potassium, calcium, phosphorus from subsoil, making them available to shallower-rooted plants when used as mulch or compost. Root systems can extend 1–2 m deep.
 - **Insect repellent:** Dried leaves repel moths, fleas, mosquitoes, and certain beetle species. Smoke from burning dried mugwort is an effective insect fumigant.
-- **[[artemisia-absinthium]]
-- achillea-millefolium
-- [[urtica-dioica]]
+- **[[urtica-dioica]]
 - permaculture
 ## See Also
 - [[thymus-vulgaris-entity]]
+
+## Overview
+
+Artemisia Vulgaris Entity represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish artemisia vulgaris entity
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving artemisia extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Artemisia Vulgaris Entity finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for artemisia vulgaris entity. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+artemisia vulgaris entity and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Artemisia Vulgaris Entity has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of artemisia vulgaris entity into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[artemisia-absinthium]]
+- [[artemisia-annua]]
+- [[artemisia-dracunculus]]
+- [[hippuris-vulgaris]]
+- [[syringa-vulgaris]]

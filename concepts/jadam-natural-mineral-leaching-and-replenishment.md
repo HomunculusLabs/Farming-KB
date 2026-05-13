@@ -61,16 +61,7 @@ vicious cycle that benefits fertilizer and pesticide companies.
 ## The JADAM Replenishment Strategy
 
 JADAM addresses mineral depletion through several complementary approaches.
-Sea water and [[jadam-sea-salt-and-mineral-solutions]] are central to the JADAM replenishment program. Sea
-water contains 83 identified minerals, including selenium (Se) and germanium
-(Ge), which are known to be extremely beneficial. Even the Korean National
-Institute of Agricultural Sciences has confirmed the benefits of sea water
-and sea salt for crops. JADAM strongly suggests using sea water/salt every
-time water is applied to fields.
-
-For farmers who cannot obtain sea water, sea salt is an effective
-alternative. The recommendation is 20 liters (5.28 gal) of sea water or 600
-grams (1.3 lb) of sea salt per 0.1 ha ([[fukuoka-agriculture-tomorrow-quarter-acre-vision]]). Normal sea water has
+Sea water and [[fukuoka-agriculture-tomorrow-quarter-acre-vision]]). Normal sea water has
 a salt concentration between 3.1-3.8%. Historically, rice paddies and
 orchards near the sea were showered with sea water elements for millennia,
 contributing to their fertility.
@@ -84,44 +75,10 @@ culturing containers by placing rock powder in a mesh bag.
 
 ## Practical Application
 
-The [[ultra-low-cost-mineral-leaching-and-sea-salt-replenishment]]
-- [[jadam-soil-mineral-replenishment]]
+The [[jadam-soil-mineral-replenishment]]
 
 ## See Also
 
-- [[jadam-natural-mineral-water]]
-
-## Practical Applications
-
-The principles and techniques discussed here have wide-ranging applications
-across multiple disciplines and contexts. Practitioners and researchers
-continue to explore new ways to integrate these concepts into modern practice,
-adapting traditional knowledge to contemporary challenges and opportunities.
-
-## Key Considerations
-
-Several important factors influence the effectiveness and outcomes described
-in this topic. Understanding these considerations helps practitioners make
-informed decisions and avoid common pitfalls. Environmental conditions,
-timing, and material selection all play critical roles.
-
-## Historical Context
-
-The historical development of this subject reflects centuries of accumulated
-knowledge and practical experience. From traditional methods passed down
-through generations to modern scientific approaches, the evolution continues
-to inform current best practices and research directions.
-
-## Common Challenges
-
-Practitioners frequently encounter several challenges when working with
-these concepts. Climate variability, resource limitations, and knowledge
-gaps can all affect outcomes. Addressing these challenges requires patience,
-observation, and a willingness to adapt approaches based on results.
-
-## See Also
 - [[doc]]
-- [[ultra-low-cost-mineral-leaching-and-sea-salt-replenishment]]
 - [[jadam-soil-mineral-replenishment]]
-- [[jadam-sea-salt-and-mineral-solutions]]
 - [[korean-natural-farming]]

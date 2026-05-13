@@ -41,25 +41,10 @@ Pigs are "blessed by nature with a plough in front and a compost spreader
 at the back." They can work any ground -- dry or wet, hard or soft, sandy or
 loamy. Their manure adds fertility. They leave the ground rough, creating
 diverse microclimates. After the first paddock is worked, move them to the
-next. See [[holzer-assessing-the-land]]):
-- Size, orientation, slope, and microclimates.
-- Soil type (sandy, clay, humus), [[soil-life]] (worms, woodlice).
+next. See [[soil-life]] (worms, woodlice).
 - Water situation: rainfall, wells, groundwater level, rainwater catchment.
 - Wind direction and strength.
-- Previous [[cuthill-mushroom-cultivation-history-19th-century]].
-- What would the land look like without human interference?
-
-## The Fokin Hoe
-
-A great invention from Russia: the Fokin hoe replaces several tools, is easy
-for elderly people to use, and manages in one hour what takes three hours
-with conventional tools. It greatly helps with weed regulation and loosening
-the ground. Every gardener should have one.
-
-## Related Topics
-
-- [[holzer-raised-bed-design-principles]]
-- [[holzer-assessing-the-land]]
+- Previous [[holzer-raised-bed-design-principles]]
 - [[holzer-intercropping-by-height-suntraps]]
 ## Practical Considerations
 
@@ -109,8 +94,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[doc]]
 - [[solomon-garden-size-calorie-production-self-sufficiency]]
-- [[solomon-self-sufficiency-garden-production]]
 - [[garden-land-size-and-food-self-sufficiency-solomon]]
 - [[holzer-crater-garden-design]]

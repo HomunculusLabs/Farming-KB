@@ -3,7 +3,7 @@ title: Queen Rearing Basics
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
-tags: [[homesteading]], animal-husbandry, beginner, pollinators, genetics]
+tags: [homesteading, animal-husbandry, beginner, pollinators, genetics]
 sources: []
 ---
 
@@ -112,7 +112,7 @@ queen develops, mates, and begins laying.
 
 ### Management
 - Place mating nucs in a sunny, well-drained location with distinctive
-  landmarks (queens use [[cannabis-harvest-timing-visual-cues]] to find home)
+  landmarks (queens use visual cues to find home)
 - Ensure adequate drone populations nearby for mating (drone comb in
   strong colonies)
 - Feed continuously — small colonies starve quickly
@@ -140,11 +140,10 @@ or kill a queen they do not accept.
   7 days
 - Ensure the colony has adequate food during the introduction period
 
-## Selecting Breeder Stock
+## See Also
 
-The quality of your queens depends on the genetics of the breeder colony.
-Select for:
-- Gentle temperament
-- High [[faires-beekeeping-and-honey-production]]
-- Good winter survival
-- Low Varroa mite loads (VSH or hygiene traits)
+- [[oner-jack-the-ripper-jacks-cleaner-space-queen]]
+- [[queen-inamullo]]
+- [[oner-jack-the-ripper-jacks-cleaner-space-queen-tga-subcool]]
+- [[cannabis-oil-extraction-basics]]
+- [[comparison-bamboo-construction-vs-timber-frame-basics]]

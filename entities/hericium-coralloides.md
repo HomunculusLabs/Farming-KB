@@ -16,21 +16,13 @@ sources:
 
 ## Overview
 
-*Hericium coralloides* (Scop.) Pers. (1801) is a species of [[bloomfield-boletus-satanus-edible-mushroom-hazards]] in the family Hericiaceae, order Russulales. It is commonly known as the coral hedgehog mushroom or comb tooth fungus, named for its branching, coral-like [[comparison-fruiting-body-vs-mycelium-extracts-medicinal-mushrooms]] that hangs in cascading spines from dead or dying hardwood trees. Unlike its more commercially prominent relative *Hericium [[mycelium]] has been confirmed as a productive source of erinacines A and E.
-
-**β-Glucans:** Polysaccharide β-(1,3)/(1,6)-glucans isolated from *H. coralloides* fruiting bodies demonstrate immunomodulatory activity, activating macrophages and enhancing NK-cell cytotoxicity. These compounds contribute to the species' traditional use as an immune tonic.
-
-**Anti-inflammatory effects:** Ethanolic extracts of *H. coralloides* inhibit nitric oxide (NO) production and suppress pro-inflammatory cytokines (TNF-α, IL-6, iNOS) in LPS-stimulated macrophage models, indicating potential applications in chronic inflammatory conditions.
-
-**Neurological benefits:** Preclinical studies suggest that *Hericium* extracts may ameliorate cognitive decline by promoting myelination, reducing amyloid plaque formation, and enhancing hippocampal neurogenesis. Human [[mushroom-cancer-clinical-trials-overview]] have primarily focused on *H. erinaceus*, but *H. coralloides* is expected to share similar neurotrophic properties given overlapping chemistry.
+*Hericium coralloides* (Scop.) Pers. (1801) is a species of [[comparison-fruiting-body-vs-mycelium-extracts-medicinal-mushrooms]] that hangs in cascading spines from dead or dying hardwood trees. Unlike its more commercially prominent relative *Hericium [[mushroom-cancer-clinical-trials-overview]] have primarily focused on *H. erinaceus*, but *H. coralloides* is expected to share similar neurotrophic properties given overlapping chemistry.
 
 **Antioxidant activity:** Phenolic compounds and polysaccharides from *H. coralloides* exhibit significant free-radical scavenging activity in DPPH and ABTS assays.
 
 ## Cultivation
 
-*Hericium coralloides* can be cultivated on supplemented hardwood sawdust substrates, though it is less commercially developed than *H. erinaceus*. Optimal [[biological-efficiency]] (fresh weight / dry substrate weight × 100) typically ranges from 50–80% over two to three flushes.
-
-Outdoor cultivation on hardwood logs is also feasible, using a spawn-and-plant approach similar to [[gourmet-medicinal-mushroom-shiitake-cultivation-logs]]. Inoculated beech or oak logs (10–20 cm diameter) are incubated in shaded, humid conditions for 6–12 months before natural fruiting in autumn.
+*Hericium coralloides* can be cultivated on supplemented hardwood sawdust substrates, though it is less commercially developed than *H. erinaceus*. Optimal [[gourmet-medicinal-mushroom-shiitake-cultivation-logs]]. Inoculated beech or oak logs (10–20 cm diameter) are incubated in shaded, humid conditions for 6–12 months before natural fruiting in autumn.
 
 ## Similar Species
 
@@ -38,8 +30,7 @@ Outdoor cultivation on hardwood logs is also feasible, using a spawn-and-plant a
 
 **Hericium erinaceus** (lion's mane) forms an unbranched, globular to irregular mass of densely packed spines descending from a single, short stalk. It lacks the characteristic branching pattern of *H. coralloides*. *H. erinaceus* spines are longer (15–40 mm), denser, and form a single, rounded mass, whereas *H. coralloides* has clearly differentiated branches with shorter spines in rows or tufts. Both are edible and medicinally valuable.
 
-**[[mushroom-cultivation-basics]]
-- [[mycorrhizal-networks]]
+**[[mycorrhizal-networks]]
 ## Practical Considerations
 
 When working with Hericium coralloides, several practical factors should be

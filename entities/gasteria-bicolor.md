@@ -109,13 +109,8 @@ The genus name Gasteria derives from the Greek "gaster" meaning stomach, referen
 
 ## See Also
 
-- [[gasteria-verrucosa]]
 - [[haworthia-fasciata]]
-- [[haworthia-limifolia]]
 - [[aloe-aristata]]
-- [[aloe-striata]]
 - [[echeveria-elegans]]
-- [[crassula-ovata]]
 - [[bulbine-frutescens]]
-- [[cotyledon-orbiculata]]
 - [[adromischus-cristatus]]

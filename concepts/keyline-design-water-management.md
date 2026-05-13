@@ -25,41 +25,9 @@ To find the keypoint, walk up a valley from the bottom. The point where the grou
 
 ### The Keyline
 
-The **keyline** is a [[comparison-swale-vs-contour-line-water-management]] that passes through the keypoint and extends across the adjacent ridges. It represents the natural water-spreading contour of the landscape. All cultivation, plowing, and earthworks are organized relative to this line.
+The **keyline** is a [[urban-permaculture-rainwater-harvesting-graywater]] needs for zone 1-3 intensive growing areas while managing broadacre zone 4-5 grazing or forestry.
 
-## Keyline Cultivation Pattern
-
-Keyline cultivation follows a specific pattern designed to move water from wet valleys to dry ridges:
-
-1. **Below the keyline**: Plow parallel to the keyline but with a slight upward tilt toward the ridges. As you move downhill from the keyline, each successive plow line drifts slightly uphill from true contour, guiding runoff from the wet valley out toward the drier slopes.
-
-2. **Above the keyline**: Plow parallel to the keyline (contour), keeping water on the slopes and preventing it from concentrating in the valleys.
-
-This pattern is implemented using a **Keyline plow** -- a subsoil ripper with shallow shanks that fracture compacted soil without inverting it. The plow penetrates 4-8 inches below the surface, opening channels for water infiltration while preserving topsoil structure.
-
-## Water Distribution and Dam Placement
-
-### Dams and Sills
-
-Keyline design includes strategic placement of water storage:
-
-- **Keypoint dams**: Small dams built at or near the keypoint in valleys, where the natural constriction provides an efficient site for water capture. These dams fill from valley runoff and gravity-feed irrigation lines down to lower areas.
-
-- **Ridge dams and saddle dams**: Placed in high saddles between ridges for storage at elevation, enabling gravity-fed distribution to lower parts of the property.
-
-- **Lock-pipe systems**: Pipes through dam walls that allow controlled release of water at specific heights, enabling gravity-fed irrigation to precise locations across the landscape.
-
-- **Sill drains**: Shallow channels across valleys below dams that spread overflow water laterally across the land rather than letting it concentrate in valley floors.
-
-### Irrigation Channels
-
-Contour channels above the keyline distribute water from high dams outward across the landscape. Because water flows by gravity, no pumps are needed once the system is established. This creates a self-distributing irrigation network that becomes more effective over time as soil structure improves.
-
-## Integration with Permaculture Design
-
-Keyline design fits naturally into [[urban-permaculture-rainwater-harvesting-graywater]] needs for zone 1-3 intensive growing areas while managing broadacre zone 4-5 grazing or forestry.
-
-- **Swale integration**: On smaller properties, keyline principles inform Water [[water-harvesting-techniques-comparison]] Comparison by providing the conceptual framework for where swales, [[mollison-designers-diversion-drains-and-interceptor-banks]], and spillways should be placed.
+- **Swale integration**: On smaller properties, keyline principles inform Water [[mollison-designers-diversion-drains-and-interceptor-banks]], and spillways should be placed.
 
 ## Benefits
 
@@ -83,43 +51,91 @@ Keyline design fits naturally into [[urban-permaculture-rainwater-harvesting-gra
 
 - P.A. Yeomans, "Water for Every Farm" (original keyline texts)
 - Darren J. Doherty, Keyline Design workshops and manuals
-- Abe Collins and Owen Hablutzel, Keyline soil [[mycorrhizal-fungi-soil-carbon-sequestration-by-type]] research
+- Abe Collins and Owen Hablutzel, Keyline soil [[water-management]]
+- [[permaculture-design]]
+- [[permaculture]]
 
-## Related
+## Overview
 
-- edge-effect-in-permaculture
+Keyline Design Water Management represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish keyline design water management
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving keyline extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
 
 ## Practical Applications
 
-The principles and techniques discussed here have wide-ranging applications
-across multiple disciplines and contexts. Practitioners and researchers
-continue to explore new ways to integrate these concepts into modern practice,
-adapting traditional knowledge to contemporary challenges and opportunities.
+Keyline Design Water Management finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
 
-## Key Considerations
+## Management and Implementation
 
-Several important factors influence the effectiveness and outcomes described
-in this topic. Understanding these considerations helps practitioners make
-informed decisions and avoid common pitfalls. Environmental conditions,
-timing, and material selection all play critical roles.
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for keyline design water management. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+keyline design water management and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
 
 ## Historical Context
 
-The historical development of this subject reflects centuries of accumulated
-knowledge and practical experience. From traditional methods passed down
-through generations to modern scientific approaches, the evolution continues
-to inform current best practices and research directions.
+Keyline Design Water Management has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
 
-## Common Challenges
+## Integration Strategies
 
-Practitioners frequently encounter several challenges when working with
-these concepts. Climate variability, resource limitations, and knowledge
-gaps can all affect outcomes. Addressing these challenges requires patience,
-observation, and a willingness to adapt approaches based on results.
+Successful integration of keyline design water management into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
 
 ## See Also
-- [[water-management]]
+
+- [[comparison-keyline-vs-swale]]
 - [[keyline-design]]
-- [[permaculture-design]]
-- [[swale]]
-- [[permaculture]]
+- [[keyline-water-conservation-mesothermal-landscapes]]
+- [[mollison-designers-slope-analysis-keyline-design]]
+- [[yeomans-keyline-system]]

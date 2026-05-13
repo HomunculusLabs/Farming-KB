@@ -14,12 +14,9 @@
     14|    14|
     15|    15|## Overview
     16|    16|
-    17|    17|2C-T-17 (nicknamed NIMITZ) is a member of the 2C-T family of [[pihkal-beta-substituted-phenethylamines]], featuring a secondary butylthio group at the 4-position of the 2,5-dimethoxyphenethylamine core.
-    18|It holds special significance in the PiHKAL series as one of the very first active [[optical-isomers-psychedelic-phenethylamines]] to incorporate a chiral center on the side of the benzene ring opposite the amine group.
-    19|Synthesized and evaluated by [[alexander-shulgin]], the compound is active at doses of 60–100 mg with a long duration of 10–15 hours, producing a heavy, predominantly physical [[leary-psychedelic-experience-bardo-mapping]] with minimal visual phenomena.
-    20|The nickname "Nimitz" derives from the Nimitz Freeway (State Highway 17) in the [[san-francisco-shipibo-ayahuasca-ceremonial-center]] Bay Area.
-    21|    18|
-    22|    19|## [[hallucinogen-terminology-and-chemical-classification]]
+    17|    17|2C-T-17 (nicknamed NIMITZ) is a member of the 2C-T family of [[optical-isomers-psychedelic-phenethylamines]] to incorporate a chiral center on the side of the benzene ring opposite the amine group.
+    19|Synthesized and evaluated by [[leary-psychedelic-experience-bardo-mapping]] with minimal visual phenomena.
+    20|The nickname "Nimitz" derives from the Nimitz Freeway (State Highway 17) in the [[hallucinogen-terminology-and-chemical-classification]]
     23|    20|
     24|    21|2C-T-17 belongs to the 2C-T series of 2,5-dimethoxy-4-alkylthiophenethylamines.
     25|The compound features the characteristic 2,5-dimethoxy substitution on the phenyl ring with a sulfur atom at the 4-position bearing a secondary butyl group (-S-CH(CH3)CH2CH3).
@@ -35,20 +32,7 @@
     35|This intermediate was used without distillation in the next step.
     36|The sulfide undergoes Vilsmeier-Haack formylation using phosphorus oxychloride and N-methylformanilide, yielding 2,5-dimethoxy-4-(sec-butylthio)benzaldehyde as a pale cream crystalline solid.
     37|The benzaldehyde is condensed with nitromethane and ammonium acetate to form the beta-nitrostyrene, which crystallized as yellow beady crystals.
-    38|Final reduction with lithium aluminium hydride in THF, moderated with [[fukuoka-textdoc-fertilizer-soil-destruction-sulfuric-acid]], produced the free base which was distilled and converted to the hydrochloride salt.
-    39|The product was obtained as "spectacular white crystals" in good yield.
-    40|Separate R and S optical isomers were also synthesized, starting from the corresponding optically pure secondary butanols.
-    41|The chiral synthesis required special care to prevent racemization, particularly in the initial tosylation and substitution steps, and the project was at the nitrostyrene stage for both enantiomers at the time of writing.
-    42|    26|
-    43|    27|## Dosage and Duration
-    44|    28|
-    45|    29|The active dosage range for 2C-T-17 is reported as 60–100 mg, with a duration of 10–15 hours.
-    46|The relatively high dose requirement is comparable to 2C-T-9 (which also features a branched alkyl group), suggesting that branching at the sulfur may reduce receptor affinity.
-    47|Onset is slow, with maximum effects not developing until approximately 3 hours after ingestion.
-    48|The plateau extends from roughly the 3rd to the 7th hour, followed by a relatively rapid taper.
-    49|Sleep disturbance is noted even after subjective effects subside, with residuals potentially extending into the following morning.
-    50|    30|
-    51|    31|## [[mdma-qualitative-effects-phenomenology]]
+    38|Final reduction with lithium aluminium hydride in THF, moderated with [[mdma-qualitative-effects-phenomenology]]
     52|    32|
     53|    33|At 60 mg, effects took fully three hours to reach maximum intensity.
     54|The experience reached a solid ++ level but not a full +++, and was described as benign and instructive.
@@ -71,12 +55,7 @@
     71|The absence of visual effects at active doses is notable and shared with 2C-T-9, another compound with a branched alkyl group at the sulfur position.
     72|The "heavy" quality of the experience without corresponding sensory phenomena may indicate preferential activity at non-5-HT2A receptor subtypes, significant adrenergic or dopaminergic activity, or an atypical 5-HT2A activation pattern.
     73|The fitful sleep and next-morning residuals suggest extended central nervous system activity or active metabolites.
-    74|The chiral center in the [[shirota-glyoxalylamide-side-chain-construction-psilocin-synthesis]] raises the possibility of stereoselective receptor interactions, which could be resolved through testing of the individual R and S enantiomers.
-    75|    40|
-    76|    41|## Structure-Activity Relationships
-    77|    42|
-    78|    43|2C-T-17 is of particular theoretical importance in the 2C-T series due to the presence of a chiral center on the 4-position side chain.
-    79|In classical psychedelic phenethylamine/[[mckenna-food-gods-tryptamine-pharmacology-indoles]], chirality has been extensively studied at the alpha-carbon (adjacent to the amine), where the R-isomer of amphetamines consistently carries the psychedelic activity.
+    74|The chiral center in the [[mckenna-food-gods-tryptamine-pharmacology-indoles]], chirality has been extensively studied at the alpha-carbon (adjacent to the amine), where the R-isomer of amphetamines consistently carries the psychedelic activity.
     80|2C-T-17 represents one of the first opportunities to probe the stereochemistry of the receptor's "south end" — the region of the binding site opposite the nitrogen atom.
     81|The sec-butyl group provides a compact, branched four-carbon substituent that is comparable in steric bulk to the tert-butyl group of 2C-T-9 but with a different spatial arrangement due to the asymmetric center.
     82|Like 2C-T-9, the branched nature of the group results in relatively high dose requirements and minimal visual effects, suggesting that branched alkyl chains at the sulfur may not optimally engage the visual-cognitive circuitry associated with classical psychedelic activity.
@@ -90,47 +69,82 @@
     90|Shulgin speculates on three possible outcomes: one enantiomer carrying all activity and the other none, the effects being distributed between enantiomers, or the south end being totally symmetric (making the enantiomers indistinguishable).
     91|He notes as incidental trivia that R- and S-2-butanol smell different to the human nose, with the R-isomer having a subtle, somewhat fragrant odor and the S-isomer being stronger and more reminiscent of isopropanol, which he offers as evidence of the fundamental asymmetry of human biochemistry.
     92|    48|
-    93|    49|## [[ayahuasca-tourism-practitioners-and-safety-considerations]]
-    94|    50|
-    95|    51|2C-T-17 presents several safety considerations.
-    96|The high dose requirement (60–100 mg) increases the absolute amount of compound the body must process.
-    97|The slow onset (3 hours to peak) creates a risk of premature redosing if initial effects seem mild.
-    98|The long duration (10–15 hours) can interfere with sleep and daily activities, with residuals potentially persisting into the following day.
-    99|The fitful sleep reported at 100 mg suggests central nervous system overstimulation.
-   100|The "heavy" physical quality without clear sensory correlates could be disorienting for users expecting classic psychedelic visual effects.
-   101|The chiral nature of the compound introduces additional complexity, as the racemic mixture may contain one enantiomer that contributes desirable effects and another that contributes primarily to the heavy, less desirable physical sensations.
-   102|As with all novel psychoactive compounds, the full toxicological profile has not been established.
-   103|    52|
-   104|    53|
-## Comparative Analysis Within the 2C-T Series
+    93|    49|## [[shulgin-rating-scale]] for the [[tihkal-shulgin-rating-scale]] system
+   109|    58|
 
-Among the 2C-T compounds, 2C-T-17 is notable for its unusually high dose
-requirement of 60-100 mg. This places it alongside 2C-T-9 (t-butylthio,
-also requiring high doses) as one of the least potent members of the
-series. The shared characteristic between these two compounds is a branched
-alkyl group at the sulfur position, suggesting that branching significantly
-reduces receptor affinity. In contrast, linear-chain members like 2C-T-2
-(ethylthio, 12-25 mg) and 2C-T-7 (propylthio, 20-30 mg) are considerably
-more potent. The duration of 10-15 hours for 2C-T-17 is also at the longer
-end of the series, comparable to 2C-T-8 (10-15 hours) and exceeding the
-shorter-acting 2C-T-2 (6-8 hours).
+## Overview
+
+Pihkal Entry 48 represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish pihkal entry 48
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving pihkal extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Pihkal Entry 48 finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for pihkal entry 48. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+pihkal entry 48 and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
 
 ## Historical Context
 
-The synthesis of 2C-T-17 represented a significant theoretical advance in
-the Shulgin laboratory's exploration of phenethylamine stereochemistry.
-While the resolution of alpha-methyl substituted amphetamines into their
-optical isomers was well-established practice, the opportunity to probe
-receptor asymmetry at a site distant from the amine was novel. The nickname
-NIMITZ, derived from the Nimitz Freeway (State Highway 17) in the San
-Francisco Bay Area, follows the geographic naming convention used for other
-compounds in the series. The compound's heavy, physical character and
-minimal visual effects distinguish it from most other members of the 2C-T
-family, which tend to produce more classical psychedelic visual phenomena.
+Pihkal Entry 48 has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
 
-## Cross-References
-   105|    54|
-   106|    55|- Related compounds in PiHKAL: 2C-T-2, 2C-T-7, 2C-T-8, 2C-T-9, 2C-G-5, 2C-T-15 (SESQUI)
-   107|    56|- See also: pihkal 2c t family for the 2C-T series overview
-   108|    57|- See also: [[shulgin-rating-scale]] for the [[tihkal-shulgin-rating-scale]] system
-   109|    58|
+## Integration Strategies
+
+Successful integration of pihkal entry 48 into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.

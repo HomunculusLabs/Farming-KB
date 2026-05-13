@@ -20,23 +20,19 @@ sources:
 
 # Apple Fritter
 
-**Apple Fritter** is an indica-dominant [[query-what-is-the-difference-between-indica-sativa-and-hybrid-cannabis]] strain renowned for its exceptionally sweet, apple-pastry flavor profile and powerful sedating effects. A cross between **Sour Apple** and **[[animal-cookies]]**, this strain won first place at the 2016 High Times Northern California Cannabis Cup. It has since become one of the most sought-after dessert strains in the modern cannabis market.
+**Apple Fritter** is an indica-dominant [[animal-cookies]]**, this strain won first place at the 2016 High Times Northern California Cannabis Cup. It has since become one of the most sought-after dessert strains in the modern cannabis market.
 
 ## Lineage and Genetics
 
 ### Parent Strains
 
 - **Sour Apple** (female): A cross of Sour Diesel and Cinderella 99. Contributes sour, fruity terpenes and uplifting sativa-like cerebral effects.
-- **Animal Cookies** (male): A phenotype of [[girl-scout-cookies]] (GSC) crossed with Fire OG. Brings dense bud structure, cookie-dough sweetness, and heavy indica body effects.
-
-### Breeder
-
-Apple Fritter was originally bred by **Lumpy's Flowers**, a boutique breeding operation based in Northern California's Emerald Triangle. The strain was stabilized through selective backcrossing and phenohunting, with the goal of combining extreme potency with a unique dessert [[cannabis-terpene-profile]].
+- **Animal Cookies** (male): A phenotype of [[cannabis-terpene-profile]].
 
 ### Genetic Profile
 
 - **Type:** Indica-dominant hybrid (approximately 60–70% indica / 30–40% sativa)
-- **[[thc-content-factors-cultivation-freshness-storage-degradation-blesching]]:** 22–32% ([[interpreting-soil-test-results]] vary significantly by cultivation)
+- **[[interpreting-soil-test-results]] vary significantly by cultivation)
 - **CBD content:** < 1% (typically 0.05–0.3%)
 - **Primary terpenes:** Limonene, caryophyllene, myrcene
 

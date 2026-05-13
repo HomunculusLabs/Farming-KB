@@ -15,35 +15,15 @@ type: comparison
 The soil food web and biochar represent two complementary approaches to soil improvement that operate
 through fundamentally different mechanisms. The soil food web approach focuses on nurturing living
 biological communities, including bacteria, fungi, protozoa, nematodes, microarthropods, and earthworms,
-which collectively drive [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]], [[aact-disease-suppression-mechanisms-ingham]], and soil structure formation. Biochar is a
+which collectively drive [[aact-disease-suppression-mechanisms-ingham]], and soil structure formation. Biochar is a
 carbon-rich, porous material produced by pyrolyzing biomass in low-oxygen conditions, which provides
 physical habitat for soil microbes, retains nutrients and water through its extensive pore structure, and
 sequesters carbon for centuries to millennia.
 
 ## Soil Food Web
 
-[[biochar-and-fungi]]
-
-Biochar is produced through pyrolysis, the thermal decomposition of biomass (wood, crop residues, manure,
-nut shells) at temperatures of 300-700 degrees Celsius in a low-oxygen or oxygen-free environment. The
-resulting material is a highly porous, carbon-rich solid with a honeycomb-like internal structure containing
-millions of microscopic pores per gram of material. This structure gives biochar exceptional surface area
-(typically 200-400 square meters per gram), providing vast [[query-how-do-i-design-habitat-for-beneficial-insects]] microorganisms, holding
-water up to five times its own weight, and adsorbing nutrients and [[fungal-volatile-organic-compounds-communication]] through both physical
-surface interactions and chemical exchange mechanisms.
-
-The primary benefits of biochar in soil applications are nutrient retention (preventing leaching of
-nitrogen, phosphorus, potassium, and other nutrients from the root zone), water retention (improving
-moisture availability particularly in sandy or well-drained soils), habitat provision (the porous internal
-structure serves as a permanent refuge for beneficial bacteria, fungi, mycorrhizae, and actinomycetes), pH
-moderation (biochar is typically alkaline and can effectively buffer acidic soils), and long-term carbon
-sequestration (biochar is extremely resistant to biological decomposition, persisting in soil for hundreds
-to thousands of years). These effects are primarily physical and chemical rather than biological in nature.
-
-A critical practical step in biochar use is "charging" or "activation" before soil application. Fresh,
-uncharged biochar has a high cation exchange capacity but initially adsorbs nutrients from the surrounding
-soil, potentially creating a temporary nutrient deficit for nearby plants. Charging involves pre-soaking
-biochar in compost tea, liquid fertilizer, manure tea, urine, or [[cannabis-nutrient-solution-preparation]] for 2-4 weeks, allowing
+[[query-how-do-i-design-habitat-for-beneficial-insects]] microorganisms, holding
+water up to five times its own weight, and adsorbing nutrients and [[cannabis-nutrient-solution-preparation]] for 2-4 weeks, allowing
 nutrients and beneficial microorganisms to colonize the internal pore surfaces before soil incorporation.
 Uncharged biochar applied directly to soil can reduce plant growth for the first season, while properly
 charged biochar typically improves growth parameters within weeks of application.
@@ -99,16 +79,6 @@ the most permanent form of soil carbon storage known.
 ## Hybrid Approaches
 
 The soil food web and biochar are fundamentally complementary rather than competing strategies. Biochar
-provides the physical infrastructure (habitat, water retention, [[arbuscule-isolation-and-nutrient-exchange-mechanisms]] sites) while the soil food
-web provides the biological activity (decomposition, nutrient cycling, disease suppression) that makes that
-infrastructure productive and alive. The most effective use of biochar is as a habitat amplifier for soil
-food web organisms: charged biochar inoculated with compost tea becomes a concentrated microbial refuge that
-accelerates food web establishment and function. Many leading soil health experts recommend biochar as an
-enhancement to, rather than a replacement for, active soil food web management.
-
-## See Also
-
- [[biochar-and-fungi]]
- [[teaming-with-fungi-mycorrhizal-inoculation-techniques]]
+provides the physical infrastructure (habitat, water retention, [[biochar-and-fungi]]
  [[biochar-production-guide]]
  soil-fungal-community-composition

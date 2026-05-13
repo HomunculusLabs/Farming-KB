@@ -1,5 +1,5 @@
 ---
-title: Knf Fermented Fruit Juice
+title: KNF Fermented Fruit Juice
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
@@ -11,18 +11,18 @@ sources:
 
 # KNF Fermented Fruit Juice (FFJ)
 
-Fermented Fruit Juice is made by extracting plant juice using [[fungal-fruiting-body-mechanics-osmotic-pressure]] from brown sugar. FFJ provides hormones, nutrients, enzymes, and bio-active substances to plants and microorganisms.
+Fermented Fruit Juice is made by extracting plant juice using osmotic pressure from brown sugar. FFJ provides hormones, nutrients, enzymes, and bio-active substances to plants and microorganisms.
 
 ## Purpose and Effects
 
 - Promotes plant growth through bio-active substances and natural hormones
 - Enzymes in FFJ help manufacturing of nutrients for plant growth
 - Supports microorganisms in the soil
-- Different fruits provide different benefits based on their [[extending-growing-season]]
+- Different fruits provide different benefits based on their growing season
 
 ## Selecting Fruits
 
-Choose fruits appropriate to the plant's [[cannabis-growth-stage-checklist]]:
+Choose fruits appropriate to the plant's growth stage:
 
 | Season | Recommended Fruits |
 |--------|-------------------|
@@ -32,7 +32,7 @@ Choose fruits appropriate to the plant's [[cannabis-growth-stage-checklist]]:
 
 - Banana peel FFJ: very effective for fruiting/flowering plants
 - Tomato FFJ: good for leafy growth
-- Mango FFJ: excellent for [[cannabis-flowering-stage]]
+- Mango FFJ: excellent for flowering stage
 - Papaya FFJ: contains lots of enzymes
 
 ## Best Time to Pick
@@ -76,7 +76,7 @@ Choose fruits appropriate to the plant's [[cannabis-growth-stage-checklist]]:
 ## Dilution and Use
 
 - Basic dilution ratio: 1:1,000
-- For foliar spray: 1:500 during [[cervantes-seedling-care-early-growth]]
+- For foliar spray: 1:500 during early growth
 - Can be mixed with other KNF inputs
 - Apply during recommended plant growth phases
 
@@ -91,38 +91,3 @@ Choose fruits appropriate to the plant's [[cannabis-growth-stage-checklist]]:
 - [[knf-fish-amino-acid]]
 - [[jadam-fermented-plant-juice]]
 - [[knf-oriental-herbal-nutrient]]
-
-## Practical Applications
-
-The principles and techniques discussed here have wide-ranging applications
-across multiple disciplines and contexts. Practitioners and researchers
-continue to explore new ways to integrate these concepts into modern practice,
-adapting traditional knowledge to contemporary challenges and opportunities.
-
-## Key Considerations
-
-Several important factors influence the effectiveness and outcomes described
-in this topic. Understanding these considerations helps practitioners make
-informed decisions and avoid common pitfalls. Environmental conditions,
-timing, and material selection all play critical roles.
-
-## Historical Context
-
-The historical development of this subject reflects centuries of accumulated
-knowledge and practical experience. From traditional methods passed down
-through generations to modern scientific approaches, the evolution continues
-to inform current best practices and research directions.
-
-## Common Challenges
-
-Practitioners frequently encounter several challenges when working with
-these concepts. Climate variability, resource limitations, and knowledge
-gaps can all affect outcomes. Addressing these challenges requires patience,
-observation, and a willingness to adapt approaches based on results.
-
-## See Also
-- [[master-cho-knf-ffj-fermented-fruit-juice-guide]]
-- [[knf-fermented-plant-juice]]
-- [[master-cho-knf-fpj-fermented-plant-juice-guide]]
-- [[cho-fermented-fruit-juice-preparation]]
-- [[bionutrients-lab-fermented-fruit-juice-ffj]]

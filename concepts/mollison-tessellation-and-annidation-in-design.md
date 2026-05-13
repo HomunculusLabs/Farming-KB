@@ -17,47 +17,8 @@ type: concept
 # Tessellation and Annidation in Permaculture Design
 
 Tessellation and annidation are fundamental pattern strategies drawn
-from nature and applied in [[permaculture-design]] to create complex,
-compact, and efficient systems. [[bill-mollison]] explores these concepts
-in detail in the [[bill-mollison-permaculture-a-designers-manual-pattern-understanding-in-permaculture]] chapter of the Designers'
-Manual, showing how natural forms tile, nest, and interlock to
-produce resilient landscapes.
-
-## The Pattern Matrix
-
-A set of intersecting sine waves developed over a regular square or
-hexagonal matrix will set up a surface composed of core model shapes.
-It does not matter if we see the sine waves as static or flowing, the
-core model still maintains its shape. Such a pattern matrix shows that
-natural models tessellate (from the Latin tesserae, meaning tiles) to
-create whole surfaces. If landscapes are, in fact, a set of such
-models, they must be able to tessellate.
-
-Convection cells on deserts arise from a roughly hexagonal matrix of
-air cells 1-5 km across, and matrices also underlie the spacing of
-trees in forests. Glacial landscapes show whole series of such
-patterns, as do regular river headwaters.
-
-We could equally well have created a matrix by adding in samples of
-our core pattern as we add tiles to a floor. Thus we see the Euclidean
-concept of points and lines underlies our curvilinear forms. Even
-irregular models tessellate. Such tessellae are centred on nets or
-regular grids.
-
-## Annidation: Nested Components
-
-The "growth lines" of natural models are, in effect, a series of
-smaller and smaller forms nested within the larger boundaries, as is
-the case with target patterns or tree cross-sections. The process is
-termed annidation (Latin nidus, a nest) and is used in practice to
-compactly store bowls or glasses, one within the other; it then
-becomes a strategy for fitting-in like components of the same or
-different size in a compact way.
-
-Annidation is analogous to the compact spiral forms of mollusc shells,
-where each successive whorl nests within the previous expansion. In
-design, this principle enables us to layer multiple functions within
-the same space, much as a [[food-forest-layers-and-species]] canopy, understorey, herb,
+from nature and applied in [[bill-mollison]] explores these concepts
+in detail in the [[food-forest-layers-and-species]] canopy, understorey, herb,
 and root zones within the same ground area.
 
 ## Superimposition and Complexity
@@ -88,3 +49,88 @@ co-definitions in our core model, and its inter-dependent properties.
 ## Design Applications
 
 In practical permaculture design, tessellation and annidation inform:
+
+## Overview
+
+Mollison Tessellation And Annidation In Design represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish mollison tessellation and annidation in design
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving mollison extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Mollison Tessellation And Annidation In Design finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for mollison tessellation and annidation in design. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+mollison tessellation and annidation in design and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Mollison Tessellation And Annidation In Design has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of mollison tessellation and annidation in design into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[humid-cool-climate-characteristics-mollison]]
+- [[mentha-aquatica-mollison]]
+- [[mollison-designers-climate-zone-3-farm-forestry]]
+- [[mollison-designers-earthworks-for-erosion-control]]
+- [[soya-bean-mollison]]

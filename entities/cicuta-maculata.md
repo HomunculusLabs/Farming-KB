@@ -22,23 +22,7 @@ sources:
 
 ## Overview
 
-*Cicuta maculata* is the most widely distributed of four *Cicuta* species and is widely regarded as [[psilocybin-north-america-pacific-northwest]]'s most violently toxic native plant. All parts of the plant contain cicutoxin, a potent polyacetylene neurotoxin that causes fatal seizures, often within hours of ingestion.
-
-Despite its lethal toxicity, *C. maculata* is frequently confused with edible Apiaceae such as wild parsnip, wild carrot, and water celery — a dangerous misidentification that causes livestock and human fatalities nearly every year.
-
-## Taxonomy
-
-- **Kingdom:** Plantae
-- **Order:** Apiales
-- **Family:** Apiaceae
-- **Genus:** *Cicuta*
-- **Species:** *C. maculata* L.
-
-**Etymology:** Greek *kikuta* (a kind of plant); Latin *maculata* (spotted),
-referring to the purple streaking on the stem.
-
-**Varieties (4 recognized):**
-- *C. m.* var. *maculata* — [[polypore-fungi-eastern-north-america]] America
+*Cicuta maculata* is the most widely distributed of four *Cicuta* species and is widely regarded as [[polypore-fungi-eastern-north-america]] America
 - *C. m.* var. *angustifolia* — Western, narrow-leaved form
 - *C. m.* var. *bolanderi* — Sierra Nevada and Pacific ranges
 - *C. m.* var. *picta* — Great Plains and Rocky Mountains
@@ -88,3 +72,76 @@ Cicutoxin is the principal toxic principle:
 ⚠️ **Toxicity profile:** Onset of symptoms within 15–60 minutes; nausea, vomiting,
 abdominal pain, followed by generalized tonic-clonic seizures. Death typically
 results from respiratory arrest during status epilepticus. Survivors may suffer
+
+## Overview
+
+Cicuta Maculata represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish cicuta maculata
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving cicuta extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Cicuta Maculata finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for cicuta maculata. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+cicuta maculata and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Cicuta Maculata has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of cicuta maculata into broader
+systems requires careful planning and observation.
+
+## See Also
+
+- [[ixia-maculata]]
+- [[dactylorhiza-maculata]]

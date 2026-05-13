@@ -23,13 +23,7 @@ If seeds have thick coats, or need heat, cold treatment, or scarification to bre
 
 ### Step 2: Inoculation
 
-Purchase and inoculate legume seed with their appropriate **microbial or fungal spores** (rhizobia for nitrogen fixation, [[mycorrhizal-fungi|mycorrhizal-fungi]] for phosphorus uptake). The process:
-
-1. Soak the seed in inoculant solution
-2. Dry the seed
-3. Mix dried seed with the primary coat material (next step)
-
-This inoculation step is critical for legumes, as it ensures the nitrogen-fixing symbiosis that makes legumes valuable in soil rehabilitation. [[mycorrhizal-inoculation|mycorrhizal-inoculation]] improves phosphorus uptake, especially important in deficient or disturbed soils.
+Purchase and inoculate legume seed with their appropriate **microbial or fungal spores** (rhizobia for [[biological-nitrogen-fixation-agriculture]], [[mycorrhizal-inoculation|mycorrhizal-inoculation]] improves phosphorus uptake, especially important in deficient or disturbed soils.
 
 ### Step 3: Pelleting — Primary Coat
 
@@ -37,7 +31,7 @@ Create a damp but plastic slurry containing:
 
 - **Lime**: To buffer local acidity and provide calcium
 - **Clay**: To hold moisture around the seed and provide a growing medium
-- **Trace of fine rock flour**: For slow-release mineral nutrition
+- **Trace of fine rock flour**: For slow-release [[dryland-soils-and-mineral-nutrition]]
 - **Calcium or phosphate**: To supply essential macronutrients at germination
 
 The seed (pre-treated and inoculated) is mixed with this slurry, coating it evenly. The coated seed is then extruded through a **meat mincer with cutting blades removed** onto a shaker table or tray covered with dust, set on a slight incline.
@@ -51,7 +45,7 @@ The dust or outer pellet coat is the most sophisticated part of the pellet and s
 | **Soil conditioning gel or polymer** | Retains moisture around the seed during germination |
 | **Colloid-forming substance** (fine graphite) | Improves soil contact and moisture retention |
 | **Bird repellent** (green dye) | Prevents seed predation by birds |
-| **Insect repellent** (powdered neem leaf, *[[azadirachta-indica|azadirachta-indica]]* or *[[melia-azedarach|melia-azedarach]]*, or diatomaceous earth) | Protects seed from soil-dwelling insects |
+| **Insect repellent** (powdered neem leaf, *[[melia-azedarach-entity|melia-azedarach]]*, or diatomaceous earth) | Protects seed from soil-dwelling insects |
 | **Swelling clay** (bentonite) | Absorbs and holds water, expanding to create a moist micro-environment around the seed |
 
 Dust is added as needed to dry and shape the pellet, or to set a desirable pellet size. The incline of the shaker table helps round and uniform the pellets as they roll.
@@ -94,10 +88,10 @@ The combination of rhizobial inoculation and nutrient supply in the pellet makes
 
 1. **Higher germination rates**: Protection from desiccation, predators, and soil toxicity
 2. **Nutrient supply at critical stage**: The seedling has immediate access to minerals
-3. **Microclimate creation**: Bentonite and polymers create a moist micro-environment
+3. **[[holzer-climate-zone-microclimate-creation]]**: Bentonite and polymers create a moist micro-environment
 4. **Reduced seed waste**: Less predation means fewer seeds needed per unit area
 5. **Compatibility with aerial sowing**: Uniform pellet size allows mechanical or aerial distribution
-6. **Tailored formulations**: Pellet composition can be adjusted for specific soil conditions at each site
+6. **Tailored formulations**: [[clay-seed-pellet-composition-and-aerial-seeding-method]] can be adjusted for specific soil conditions at each site
 
 ## Design Considerations
 
@@ -110,17 +104,15 @@ The combination of rhizobial inoculation and nutrient supply in the pellet makes
 
 Seed treatment techniques improve germination rates and early plant establishment,
 particularly in challenging soil conditions. These methods are widely used in
-regenerative agriculture and permaculture systems.
+[[biochar-in-regenerative-agriculture]] and permaculture systems.
 
 ## Implementation Methods
 
 Common approaches include clay pelleting, mineral coating, and biological inoculation.
 Each method addresses specific challenges such as moisture retention, pest protection,
-or enhanced nutrient availability during the critical germination phase.
+or enhanced [[ph-and-nutrient-availability-garden-soils]] during the critical germination phase.
 
 ## See Also
-- [[clay-seed-pellet-composition-and-aerial-seeding-method]]
 - [[mycorrhizal-fungi-rock-penetration-soil-formation]]
-- [[legume-trees-and-nitrogen-fixing-permaculture-species]]
 - [[neem-azadirachta-indica-arid-zone-multipurpose-tree]]
 - [[fukuoka-aerial-seeding-clay-pellets-desert-revegetation-technique]]

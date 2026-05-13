@@ -2,26 +2,11 @@
 title: "Fukuoka's Eastern vs. fukuoka eastern western medicine healing world crisis — Healing the World in Crisis"
 source: "Sowing Seeds in the Desert (2012), Chapter 3: 'Healing a World In Crisis'"
 tags:
-  - [[natural-farming]]
-  - philosophy
-  - medicine
-  - ecology
-  - holistic-health
-  - masanobu-fukuoka
-  - eastern-philosophy
-  - desert-healing
----
-
-# Fukuoka's Eastern vs. Western Medicine — Healing the World in Crisis
-
-## Overview
-
-In Chapter 3 of *Sowing Seeds in the Desert*, [[masanobu-fukuoka]] draws a detailed parallel
+  - [[masanobu-fukuoka]] draws a detailed parallel
 between Eastern and Western approaches to medicine and their corresponding agricultural
 philosophies. He argues that Western medicine treats symptoms locally while Eastern
 medicine addresses the whole person, and that this fundamental divergence mirrors the
-difference between conventional agriculture (which attacks [[query-how-to-manage-pests-and-diseases-in-mushroom-cultivation]] with
-chemicals) and [[fukuoka-desert-revegetation-natural-farming|desert revegetation]] is
+difference between conventional agriculture (which attacks [[fukuoka-desert-revegetation-natural-farming|desert revegetation]] is
 explicitly modeled on the Eastern medical approach—restore the whole system rather
 than attack individual symptoms.
 
@@ -69,15 +54,7 @@ of life and death occur in nature." He describes an ideal meadow—"full of wild
 and sweet clover with bees and a few spotted fawns grazing in sunlight"—and asks
 whether "it is not enough to simply enjoy our time here and be grateful."
 
-The closing reflection on medicine mirrors his [[fukuoka-mu-nothingness-philosophy|philosophy of mu]], suggesting that the way to "elucidate the true nature of the mind" is to consider
-it from the standpoint of "the awareness people have before they become aware of
-themselves."
-
-On the question of spirit and the afterlife, he dismisses all such speculation as
-## See Also
-
-- [[fukuoka-desert-revegetation-natural-farming|Desert Revegetation]]
-- [[fukuoka-mu-nothingness-philosophy|Philosophy of Mu (Nothingness)]]
+The closing reflection on medicine mirrors his [[fukuoka-desert-revegetation-natural-farming|Desert Revegetation]]
 - [[fukuoka-critique-darwinian-evolution|Critique of Darwinian Evolution]]
 
 ## Practical Applications
@@ -109,8 +86,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[det]]
 - [[desert-revegetation]]
-- [[fukuoka-western-eastern-philosophy-agriculture]]
 - [[fukuoka-ignorant-medicine-hospital-collapse]]
 - [[fukuoka-straw-healing-the-earth]]

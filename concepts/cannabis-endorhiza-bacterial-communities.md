@@ -24,42 +24,7 @@ Despite cultivar-specific variation, all five Cannabis strains maintained a cons
 - **Actinomycetales** — an order of Actinobacteria known for producing antibiotics and antifungal compounds; they may contribute to root disease resistance
 - **Sphingobacteriales** — an order of Bacteroidetes involved in complex carbohydrate degradation
 
-With the exception of Cellvibrio, all prevalent core members are well-established endophytic bacteria primarily within the orders Gammaproteobacteria and Alphaproteobacteria. This taxonomic profile aligns with observations from other plant systems, suggesting conserved evolutionary mechanisms of [[fungal-endophyte-colonization-patterns]] across diverse plant species.
-
-## Cultivar-Specific Abundance Differences
-
-While the core community was conserved, the relative abundances of specific OTUs varied significantly between Cannabis cultivars. This pattern was evident in weighted (abundance-based) but not unweighted (presence/absence) UniFrac analyses:
-
-- **Experiment 1** (Burmese, BooKoo Kush, Sour Diesel): Endorhiza communities clustered significantly by strain (weighted ADONIS: R² = 0.59, p = 0.004; unweighted ADONIS: R² = 0.39, p = 0.003)
-- **Experiment 2** (White Widow, Maui Wowie): Strain differentiation was also significant (weighted ADONIS: R² = 0.27, p = 0.001)
-- **Pooled experiments**: Strain remained significant across all data combined (weighted ADONIS: R² = 0.301, p = 0.001)
-
-The absence of unweighted strain effects (0 significant OTUs in Experiment 1) confirms that cultivar selection reshapes community structure by adjusting relative abundances of shared taxa, not by introducing cultivar-specific species.
-
-## Key Strain-Differentiating Taxa
-
-### Methylophilus in Bookoo Kush
-
-The most dramatic strain-specific finding was the enrichment of *Methylophilus* in the Bookoo Kush endorhiza:
-
-- Comprised 13% of the Bookoo Kush endorhiza microbial community
-- Only 0.13% in Burmese endorhiza
-- Completely absent from Sour Diesel endorhiza
-- This difference explained a significant portion of the strain-level variation (FDR: p = 0.012)
-
-*Methylophilus* species are methylotrophic bacteria that can utilize one-carbon compounds such as methanol as their sole carbon and energy source. Their enrichment in Bookoo Kush may reflect differences in root exudate profiles, particularly methanol production from pectin demethylation in cell wall metabolism.
-
-### Sphingomonas wittichii in Maui Wowie
-
-In the second experiment, *Sphingomonas wittichii* was prevalent in the Maui Wowie endorhiza. This species has been documented to metabolize phenazine-1-carboxylic acid and has been implicated in increased survival in soil environments. Its presence may contribute to pathogen suppression or niche competition within the root interior.
-
-### Proteobacteria Dominance in Strain Differentiation
-
-The majority of OTUs showing significant abundance differences between Cannabis strains belonged to the Proteobacteria phylum, specifically the orders:
-
-- **Pseudomonadales** — includes many plant growth-promoting rhizobacteria (PGPR)
-- **Burkholderiales** — contains both beneficial and pathogenic species; some fix nitrogen
-- **Sphingomonadales** — known for degrading aromatic compounds and [[singh-fungal-biodegradation-of-polycyclic-aromatic-hydrocarbons]]
+With the exception of Cellvibrio, all prevalent core members are well-established endophytic bacteria primarily within the orders Gammaproteobacteria and Alphaproteobacteria. This taxonomic profile aligns with observations from other plant systems, suggesting conserved evolutionary mechanisms of [[singh-fungal-biodegradation-of-polycyclic-aromatic-hydrocarbons]]
 - **Rhizobiales** — best known for nitrogen fixation in legume root nodules; also includes non-nodulating endophytes
 
 Additionally, Bacteroidetes orders Sphingobacteriales and Flavobacteriales contributed to strain-level differences.
@@ -82,7 +47,7 @@ Endorhiza communities may contribute to localized "terroir" — the characterist
 
 ## Cannabinoid-Microbiome Correlations
 
-The second experiment included cannabinoid profiling of plants, revealing significant correlations between cannabinoid profiles and [[weighted-unifrac-strain-clustering-cannabis-endorhiza-community-structure]] (unweighted Mantel r-stat: 0.863, p = 0.001). However, interpretation is complicated by the confounding effect of soil type — plants from one soil type had both higher THC concentrations and different [[soil-physicochemical-properties-cannabis-microbiome-assembly-winston]], making it difficult to disassociate microbiome-cannabinoid associations from soil-cannabinoid relationships.
+The second experiment included cannabinoid profiling of plants, revealing significant correlations between cannabinoid profiles and [[soil-physicochemical-properties-cannabis-microbiome-assembly-winston]], making it difficult to disassociate microbiome-cannabinoid associations from soil-cannabinoid relationships.
 
 ## Sampling and Methodology
 
@@ -112,13 +77,8 @@ As the legal cannabis industry continues to mature, understanding the endorhiza 
 - **Consistency and quality control** — cultivar-specific microbiome profiles could serve as biomarkers for authentication and quality assurance, distinguishing genuine cultivar products from counterfeits
 - **Inoculant development** — understanding which endorhiza taxa are naturally enriched in high-performing cultivars could guide the development of targeted biological amendments
 - **Living soil product formulation** — compost teas and biological inoculants could be optimized for specific cultivar-microbe partnerships rather than using generic microbial mixes
-- **[[medicinal-mushroom-cancer-regulatory-frameworks]]** — microbial testing requirements for cannabis products may eventually need to account for the distinction between pathogenic organisms and beneficial endorhiza residents
-
-## Related Concepts
-
-- [[rhizosphere-ecology]]
+- **[[rhizosphere-ecology]]
 - 
-- [[cultivar-specificity-plant-microbiome]]
 - [[16s-rrna-sequencing-microbiome-analysis-cannabis]]
 
 ## See Also

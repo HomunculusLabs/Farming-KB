@@ -111,13 +111,8 @@ Gene flow between mountain ranges is limited by lowland barriers that prevent na
 
 ## See Also
 
-- [[aconitum-napellus]]
 - [[aconitum-lycoctonum]]
-- [[aconitum-carmichaelii]]
 - [[delphinium-elatum]]
-- [[helleborus-niger]]
 - [[pulsatilla-vulgaris]]
-- [[nigella-sativa]]
 - [[caltha-palustris]]
-- [[ranunculus-acris]]
 - [[anemone-nemorosa]]

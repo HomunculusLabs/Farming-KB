@@ -110,11 +110,7 @@ Asyneuma limoniifolium can be distinguished from similar species by its Limonium
 
 ## See Also
 
-- [[campanula-persicifolia]]
 - [[campanula-rotundifolia]]
-- [[phyteuma-spicatum]]
 - [[jasione-perennis]]
-- [[trachelium-caeruleum]]
 - [[symphyandra-wanneri]]
-- [[physoplexis-comosa]]
 - [[adenophora-remotiflora]]

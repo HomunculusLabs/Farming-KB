@@ -1,20 +1,6 @@
 ---
 title: "Chamovitz Photoperiodism and Agricultural Applications"
-source: grahamholmes-what-a-plant-knowsindd.md ([[daniel-chamovitz]], 2012)
-topics: photoperiodism, chrysanthemum farming, iris forcing, commercial flower production
-created: 2026-05-08
----
-
-# Chamovitz Photoperiodism and Agricultural Applications
-
-## Overview
-
-The discovery of photoperiodism by Wightman W. Garner and Harry A.
-Allard in 1918, as recounted by Daniel Chamovitz, revolutionised
-commercial agriculture. By understanding how plants measure the length
-of continuous darkness, farmers gained the ability to manipulate
-flowering timing to meet market demands. Chamovitz illustrates these
-principles with vivid examples from [[blesching-cannabinoid-pharmacology]].
+source: grahamholmes-what-a-plant-knowsindd.md ([[blesching-cannabinoid-pharmacology]].
 
 ## The Maryland Mammoth Discovery
 
@@ -37,8 +23,7 @@ planted Maryland Mammoth in pots and divided them into two groups:
   every afternoon (artificially shorter days) → stopped growing and
   began flowering
 
-The conclusion was revolutionary: the plant was measuring [[coleman-winter-day-length-and-persephone-months]]
-to determine when to switch from [[cannabis-vegetative-growth-stage]] to reproduction.
+The conclusion was revolutionary: the plant was measuring [[cannabis-vegetative-growth-stage]] to reproduction.
 
 ### The Concept of Photoperiodism
 
@@ -47,10 +32,7 @@ evidence that plants quantitatively measure light exposure. It led
 to the classification of plants into categories:
 
 - **Short-day plants**: Flower when days are short (nights are long)
-  — e.g., chrysanthemums, soybeans, Maryland [[maryland-mammoth-tobacco-and-the-discovery-of-photoperiodism]]
-- **Long-day plants**: Flower when days are long (nights are short)
-  — e.g., irises, barley
-- **Day-neutral plants**: Flowering is not regulated by [[coleman-persephone-months-winter-day-length]]
+  — e.g., chrysanthemums, soybeans, Maryland [[coleman-persephone-months-winter-day-length]]
 
 ### Immediate Agricultural Exploitation
 
@@ -117,8 +99,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[daniel-chamovitz]]
 - [[photoperiodism]]
-- [[det]]
 - [[chamovitz-maryland-mammoth-photoperiodism-discovery]]
 - [[chamovitz-plant-photoreceptors-beyond-phytochrome]]

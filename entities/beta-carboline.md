@@ -12,7 +12,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - "Shulgin, A. & Shulgin, A. (1997). TIHKAL: The Continuation. Transform Press."
-  - "Samoylenko, V. et al. (2010). \"β-Carboline alkaloids.\" Current [[cytochrome-p450-enzymes-drug-metabolism]], 11(5), 459-479."
+  - "Samoylenko, V. et al. (2010). \"β-Carboline alkaloids.\" Current cytochrome-p450-enzymes-drug-metabolism, 11(5), 459-479."
   - "Hertzog, R.I. et al. (2021). \"Pharmacology of turner-harmala-alkaloids-preparation-and-dosage.\" Pharmacology & Therapeutics, 225, 107859."
   - "Glennon, R.A. et al. (2000). \"β-Carbolines as agents of the central nervous system.\" Current Medicinal Chemistry, 7(2), 193-203."
 ---
@@ -24,13 +24,10 @@ sources:
 Beta-carbolines (β-carbolines, 9H-pyrido[3,4-b]indoles) are a class of
 tricyclic nitrogen-containing compounds structurally related to tryptamine,
 formed by the fusion of an indole ring with a pyridine ring.
-They occur naturally in a wide range of plants ([[mckenna-food-gods-peganum-harmala-soma]], Banisteriopsis
-caapi, tobacco) and are endogenously produced in mammalian tissues.
-The most pharmacologically significant members are the [[harmala-alkaloids]] —
+They occur naturally in a wide range of plants ([[harmala-alkaloids]] —
 harmine, harmaline, and harmalol — which are potent reversible inhibitors
 of monoamine oxidase A (MAO-A).
-Beta-carbolines play a central role in [[harner-amazonian-ayahuasca-preparation-methods]] brews as the
-MAO-inhibiting component that enables [[tihkal-oral-activity-mao-inhibition]] of DMT, and they have
+Beta-carbolines play a central role in [[tihkal-oral-activity-mao-inhibition]] of DMT, and they have
 independent psychoactive effects at higher doses including visual distortions
 and oneiric states.
 
@@ -69,12 +66,7 @@ and oneiric states.
   - Inhibition increases synaptic levels of these monoamines
 - **Selectivity:** Harmine and harmaline are 10–50× more potent against
   MAO-A than MAO-B
-- **Reversibility:** Unlike irreversible [[mao-inhibitors-and-psychedelics]] (phenelzine),
-  harmala alkaloids dissociate from the enzyme, reducing dietary tyramine risk
-- **Duration of action:** 4–6 hours at typical ayahuasca doses
-- **Pharmacological significance:** MAO-A inhibition prevents first-pass
-  hepatic degradation of orally administered DMT, enabling its psychoactive
-  effects — the basis of [[ayahuasca-pharmacology]]
+- **Reversibility:** Unlike irreversible [[ayahuasca-pharmacology]]
 
 ### Serotonergic Receptor Activity
 

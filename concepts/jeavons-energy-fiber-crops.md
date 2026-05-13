@@ -9,18 +9,7 @@ updated: 2026-04-26
 
 # Energy, Fiber, and Other Non-Food Crops
 
-The [[jeavons-grow-biointensive-method-overview]] method envisions the mini-farm as producing not only food
-but also materials for clothing, building, paper, and other needs. Energy,
-fiber, and miscellaneous crops expand the self-sufficiency of the garden
-beyond dietary needs.
-
-## The Five Crop Groups
-
-Jeavons organizes mini-farm crops into five broad groups:
-
-1. Grains, protein sources, and vegetable oil crops
-
-2. Compost, [[hamilton-composting-and-organic-matter-management]], and fodder crops
+The [[hamilton-composting-and-organic-matter-management]], and fodder crops
 
 3. Tree and cane food crops
 
@@ -59,9 +48,7 @@ crop suitable for small-scale fiber production.
 ### Bamboo
 
 Two types of bamboo are included in the Master Charts: paper bamboo and
-regular bamboo. Both are listed as under research, indicating that [[miniculture-production-yield-data-psilocybe-cubensis-bigwood-beug]]
-and growing instructions are still being developed. Bamboo has enormous
-potential as a renewable [[fungal-building-material-deterioration]], and many varieties are suitable
+regular bamboo. Both are listed as under research, indicating that [[fungal-building-material-deterioration]], and many varieties are suitable
 for small-scale cultivation.
 
 ### Sunflowers
@@ -118,8 +105,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[det]]
 - [[composting]]
-- [[natural-dye-plants]]
 - [[jeavons-green-manures-cover-crops]]
 - [[jeavons-tree-cane-crops]]

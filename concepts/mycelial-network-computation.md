@@ -17,10 +17,7 @@ forms vast interconnected networks that naturally solve spatial optimization
 problems as they forage for nutrients. This approach sits within the broader
 field of polycephalum* (technically a protist, but studied
 alongside fungi) famously reconstructed the Tokyo rail network when placed on
-a map with oat flakes representing cities. True fungal mycelium opleurotus-ostreatusurotus ostreatus* ([[cotter-oyster-mushroom-cultivation]]) has demonstrated similar spatial
-problem-solving capabilities.
-
-In fungal experiments, [[fungal-mycelial-networks-nutrient-translocation]] have been shown to:
+a map with oat flakes representing cities. True fungal mycelium opleurotus-ostreatusurotus ostreatus* ([[fungal-mycelial-networks-nutrient-translocation]] have been shown to:
 
 1. Reconnect severed connections via alternative routing, demonstrating
    built-in fault tolerance.
@@ -35,31 +32,14 @@ In fungal experiments, [[fungal-mycelial-networks-nutrient-translocation]] have 
 |----------|-------------|
 | Parallelism | Millions of hyphal tips grow simultaneously |
 | Fault tolerance | Networks self-repair when damaged |
-| [[fukuoka-textdoc-energy-efficiency-agricultural-labor]] | Operates at [[jadam-ambient-temperature-principle]], minimal energy |
+| [[jadam-ambient-temperature-principle]], minimal energy |
 | Adaptability | Rewires in response to changing conditions |
 | Scalability | Networks span centimeters to hectares in nature |
 | Memory | Network topology encodes past environmental states |
 
 ## Mathematical Modeling
 
-[[brassinosteroid-psilocybe-cubensis-mycelial-growth-research]] can be modeled using coupled differential equations describing
-hyphal extension rates, branching probability, and tube conductivity. The
-**Physarum solver** — originally developed for slime mold dynamics — has been
-adapted to fungal networks with modifications for anastomosis (hyphal fusion)
-and the more rigid cell walls of true fungi compared to plasmodial slime molds.
-
-## Current Limitations
-
-- **Speed**: Biological growth is orders of magnitude slower than silicon.
-  Network formation takes hours to days.
-- **Reliability**: Results vary between organisms and environmental conditions.
-  Reproducibility remains a challenge.
-- **Programmability**: No standardized input/output interface exists. Most
-  experiments rely on physical manipulation of food sources.
-- **Scalability**: Controlling large networks precisely is difficult; laboratory
-  setups are limited to petri-dish scale.
-- **Readout**: Extracting computational results from a biological network
-  requires [[unconventional-computing]]
+[[unconventional-computing]]
 alongside memristor networks, liquid state machines, and
 reservoir computing. It shares conceptual ground with swarm intelligence
 in its use of many simple agents (hyphal tips) producing emergent intelligent
@@ -82,6 +62,89 @@ research in telecommunications.
 ## See Also
 
 - biological computing
-- [[bio-electronic-interfaces]]
-- adaptive network topology
 - [[unconventional-computing]]
+
+## Overview
+
+Mycelial Network Computation represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish mycelial network computation
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving mycelial extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Mycelial Network Computation finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for mycelial network computation. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+mycelial network computation and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Mycelial Network Computation has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of mycelial network computation into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[fungal-mycelial-networks-nutrient-translocation]]
+- [[mycelial-colonization]]
+- [[mycelial-growth-promotion]]
+- [[mycelial-network-communication]]
+- [[mycelial-nutrient-translocation-networks]]

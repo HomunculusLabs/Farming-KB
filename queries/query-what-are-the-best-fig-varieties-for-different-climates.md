@@ -31,19 +31,7 @@ Cold climates are the most challenging for figs, but several varieties will surv
 - **Hardy Chicago** — Slightly more cold-hardy than standard Chicago Hardy. Proven performer in the Upper Midwest.
 - **Violette de Bordeaux** — Tolerates zone 6 with protection. Small but intensely flavored dark fruit.
 
-**Practical tips:** In zones 5–6, plant figs against a south-facing wall for radiant heat. Mulch heavily (12–18 inches) after the first hard freeze. Consider burying the tree by bending it into a trench for winter. [[container-growing-vegetables-herbs]] is also very effective — just move pots into an unheated garage or shed.
-
----
-
-## What are the best fig varieties for temperate climates (USDA Zones 7–8)?
-
-Zones 7–8 are the sweet spot for fig growing. Most common fig varieties thrive here with minimal winter protection.
-
-**Top recommendations:**
-- **Brown Turkey** — The most widely grown variety in temperate zones. Prolific, reliable, and disease-resistant.
-- **Celeste** — A Southern favorite. Small, closed-eye fruit resists splitting and souring in rain.
-- **Kadota** — Yellow-green skin, amber flesh. Great for fresh eating and drying. Excellent in zone 7–8.
-- **Desert King** — Produces a large breba crop. Green skin, strawberry-red flesh. Very reliable in the [[psilocybin-north-america-pacific-northwest]].
+**Practical tips:** In zones 5–6, plant figs against a south-facing wall for radiant heat. Mulch heavily (12–18 inches) after the first hard freeze. Consider burying the tree by bending it into a trench for winter. [[psilocybin-north-america-pacific-northwest]].
 - **Panachee (Tiger Stripe)** — Striped green-and-yellow fruit with red flesh. Unique flavor, great conversation piece.
 - **Petite Negri** — Compact, productive, and early-ripening. Ideal for smaller gardens.
 
@@ -53,31 +41,12 @@ Zones 7–8 are the sweet spot for fig growing. Most common fig varieties thrive
 
 ## What are the best fig varieties for hot, dry climates (USDA Zones 9–10)?
 
-Hot, dry climates with [[pf-tek-low-humidity-symptoms-and-remediation]] (Mediterranean-style) are where figs truly shine. Most commercial fig production happens in these zones.
-
-**Top recommendations:**
-- **Mission** — Classic California fig. Dark purple skin, deep red flesh. Excellent fresh or dried.
-- **Kadota** — The primary canning/drying fig. Tolerates [[extreme-heat-preparedness]] and drought once established.
+Hot, dry climates with [[extreme-heat-preparedness]] and drought once established.
 - **Calimyrna** — Large, golden-green fig with nutty flavor. Requires the fig wasp (Blastophaga psenes) for pollination — best in areas where it's present.
 - **Adriatic** — Light green skin, strawberry-pink flesh. The original "Fig Newton" fig. Prolific in hot zones.
 - **Sienna** — Large, vigorous tree producing abundant dark figs. Very heat-tolerant.
 
-**Practical tips:** In hot, dry zones, deep but infrequent watering establishes [[dighton-fungal-drought-tolerance-plant-water-relations]]. Avoid overhead irrigation — wet fruit splits and sours. Mulch to retain soil moisture. Most varieties in these zones produce two crops (breba + main).
-
----
-
-## What are the best fig varieties for humid subtropical climates?
-
-High humidity and summer rain can cause fig fruit to split, sour, or rot. Choosing closed-eye varieties is critical.
-
-**Top recommendations:**
-- **Celeste** — Closed eye prevents rainwater entry. The top choice for the humid Southeast US.
-- **Alma** — Texas A&M release. Very sweet, small-to-medium amber fruit. Tolerates humidity well.
-- **LSU Gold** — Louisiana State release. Yellow fig with excellent disease resistance in humid conditions.
-- **LSU Purple** — Dark fig with good rain tolerance. Reliable in the Gulf Coast region.
-- **Green Ischia** — Green skin, red flesh. Resists splitting in wet conditions better than most.
-
-**Practical tips:** In humid zones, prioritize closed-eye varieties to prevent souring. Plant in full sun with excellent [[stamets-growing-room-air-circulation-co2-management]]. Pick fruit daily during peak ripeness — overripe figs attract beetles and rot quickly on the branch. Raised beds or mounding helps with drainage.
+**Practical tips:** In hot, dry zones, deep but infrequent watering establishes [[stamets-growing-room-air-circulation-co2-management]]. Pick fruit daily during peak ripeness — overripe figs attract beetles and rot quickly on the branch. Raised beds or mounding helps with drainage.
 
 ---
 
@@ -138,8 +107,6 @@ The most important rule: **plant what grows well for your neighbors**. Local nur
 
 *Last updated: 2026-04-28*
 ## See Also
-
-- [[query-best-chestnut-varieties-for-different-climates-and-uses]]
 
 - [[query-what-are-the-best-mushroom-substrates-for-different-species]]
 - [[query-what-are-the-best-dynamic-accumulators-for-permaculture]]

@@ -9,57 +9,8 @@ tags: [forest-restoration, water]
 ---
 # Broadscale Restoration and Watershed Repair
 Broadscale restoration is the large-scale repair of degraded landscapes through
-simple, low-cost interventions that slow water flow, rebuild [[soil-erosion-control]], and allow
-natural systems to recover. Rather than expensive engineering projects, it
-relies on understanding natural patterns of water flow and plant succession to
-restore [[phytochrome-ecological-function-dusk-dawn-red-far-red-light-switch]] to damaged watersheds. This approach is central to
-[[broadscale-watershed-restoration-techniques]] used worldwide.
-## The Core Principle
-The cheapest and easiest place to store water is in the soil. Grazing, logging,
-roads, and agriculture all cause erosion. Once topsoil washes away, plants
-cannot establish themselves. Without vegetative cover, water cannot infiltrate
-into the soil, so it runs off, causing more erosion. The first step in
-restoring a watershed is slowing the flow of water across hillsides and allowing
-it to infiltrate before reaching streams.
-## Swale Systems
-### Contour Swales
-On gentle slopes (less than 15 degrees), broad shallow ditches called swales
-follow the contours of the land. Unlike drainage ditches that divert water away,
-swales hold storm runoff and infiltrate it over time. They:
-- Store water in underlying soils and sediments
-- Fill with silt over time to form terraces
-- Should be mulched to reduce evaporation
-- Should be planted with trees
-- Work best when their ends are anchored by a tree or bush
-### Boomerang Swales
-On slopes steeper than 15 degrees, networks of v-shaped "boomerang" swales are
-more appropriate. These are v-shaped berms pointing downhill, forming basins
-that direct water to individual trees. The v-shape concentrates water flow
-while preventing erosion at the berm ends.
-### Straw Bale Terraces
-Steep slopes can be terraced with straw bales:
-- Dig a shelf on contour for bales to rest on
-- Pin each bale into the ground with two stakes (willow, bamboo, or rebar)
-- Plant a native tree or shrub behind each straw bale
-- When it rains, bales soak up water like a sponge and water the trees
-- Bales decompose in a few years; the line of planted trees holds the hillside
-## Check Dams
-Once water reaches an arroyo or stream, the objective is to spread it out and
-slow it down. Work has the greatest effect high in the watershed where trickles
-turn into streams.
-### Construction Guidelines
-1. Make sure dams are "keyed in" -- dug far enough into the banks that water
-   will not eat around them
-2. Make them broader in the center where flow is strongest
-3. Make them lowest at the center with a splash pad of rocks below
-4. Keep structures no taller than about 18 inches (45 cm)
-5. Design so silt trapped in one dam reaches the bottom of the next
-6. Once filled with silt, build them up higher
-### Materials
-- Low leaky check dams of rocks or brush
-- Straw bales to plug small flows
-- Rock gabions for larger streams
-- [[building-with-natural-materials]] that blend with the landscape
+simple, low-cost interventions that slow water flow, rebuild [[phytochrome-ecological-function-dusk-dawn-red-far-red-light-switch]] to damaged watersheds. This approach is central to
+[[building-with-natural-materials]] that blend with the landscape
 Check dams work in first and second order streams. If structures blow out, key
 them in and try again, or move higher in the watershed.
 ## Microcatchments
@@ -75,19 +26,7 @@ The structures built are only temporary. Their primary function is to allow
 plants to establish. Long after swales and check dams have silted up, they will
 be visible as lines of trees along hillsides. These trees:
 - Send roots deep into soil to hold it in place
-- Tap into underground streams and share nutrients along webs of [[symbiotic-fungi-nitrogen-fixing-symbioses-agriculture]], build soil, and create conditions for
-climax species (cedar, fir) to eventually establish. In 20 years, degraded
-land can support forests of hazelnuts, peaches, and blueberries.
-## Urban Applications
-These restoration techniques work in cities as well as rural watersheds:
-- In Tucson, Arizona, people marked contours of a gently sloping parking lot,
-  removed three-foot-wide sections of asphalt along contour lines, and planted
-  native trees. Runoff from the rest of the parking lot watered the trees
-- Bust up driveways and divert street water to street trees
-- In asphalt or concrete-covered lots, remove pavement from low spots and
-  plant trees there
-- Plant native plants in guerrilla gardens -- they survive on local rainfall
-  and bring the natural world into the heart of the city. See [[urban-broadscale-restoration-watershed-repair]]
+- Tap into underground streams and share nutrients along webs of [[urban-broadscale-restoration-watershed-repair]]
 
 ## Practical Applications
 
@@ -118,8 +57,91 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[swale]]
 - [[phytochrome]]
-- [[urban-broadscale-restoration-watershed-repair]]
 - [[broadscale-watershed-restoration-techniques]]
 - [[chestnut-cultivation-and-restoration]]
+
+## Overview
+
+Broadscale Restoration Watershed Repair represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish broadscale restoration watershed repair
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving broadscale extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Broadscale Restoration Watershed Repair finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for broadscale restoration watershed repair. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+broadscale restoration watershed repair and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Broadscale Restoration Watershed Repair has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of broadscale restoration watershed repair into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[broadscale-watershed-restoration-techniques]]
+- [[comparison-mangrove-restoration-vs-constructed-wetlands]]
+- [[mollison-permaculture-two-broadscale-soil-improvement]]
+- [[permaculture-broadscale-no-till-grain-production]]
+- [[urban-broadscale-restoration-watershed-repair]]

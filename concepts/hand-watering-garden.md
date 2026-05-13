@@ -9,11 +9,11 @@ sources: [raw/papers/gardening-when-it-counts-steve-solomon.md]
 
 # Hand Watering the Garden
 
-Techniques for watering gardens with a hose and nozzle or watering can, as described in [[steve-solomon]]'s *Gardening When It Counts*. Solomon notes that before 1880, over 90% of all [[maintaining-organic-matter-in-vegetable-gardens]] were grown without running water at all.
+Techniques for watering gardens with a hose and nozzle or watering can, as described in [[steve-solomon]]'s *Gardening When It Counts*. Solomon notes that before 1880, over 90% of all vegetable gardens were grown without running water at all.
 
 ## The Fan Nozzle Method
 
-Many gardeners wet down their gardens almost daily with a hose and fan nozzle. John Jeavons recommends this method:
+Many gardeners wet down their gardens almost daily with a hose and fan nozzle. [[john-jeavons]] recommends this method:
 
 1. **Water daily** with a fan nozzle, continuing on each bed until the entire surface sparkles (becomes shiny wet)
 2. **The sparkle test**: The sparkling results from water that has not yet flowed into the bed beading up on the surface. The shine lasts only briefly initially, but as deeper soil becomes saturated, it lasts longer
@@ -42,7 +42,7 @@ This subtle moisture stress can cause significant damage without any visible wil
 
 To determine when to water, dig 5-6 inches (12-15 cm) below the surface and squeeze a handful of soil into a ball (the classic ready-to-till test):
 
-- **Damp and sticks together solidly**: Soil moisture is above 70% of [[bulk-substrate-field-capacity]] — no need to water
+- **Damp and sticks together solidly**: Soil moisture is above 70% of field capacity — no need to water
 - **Firmly sticks together but breaks apart easily**: Moisture is around 70%
 - **Feels damp but won't form a ball when squeezed hard**: Moisture is around 60% — time to water
 - **Contains over 10% clay and won't form a ball**: Moisture is around 50% — vegetables are experiencing moisture stress
@@ -52,7 +52,7 @@ To determine when to water, dig 5-6 inches (12-15 cm) below the surface and sque
 
 If you are so short of water that fertigation is not possible, foliar feeding with a sprayer is the next best choice:
 
-- Mix [[solomon-foliar-feeding-fish-emulsion-and-kelp]]/or kelp tea at recommended [[ingham-soil-drench-dilution-rates]]
+- Mix fish emulsion and/or kelp tea at recommended dilution rates
 - Spray directly onto plant leaves
 - Kelp tea contains phytamins and a full range of trace mineral nutrients
 - Even a few gallons per week can make a significant difference
@@ -64,7 +64,7 @@ After seedlings have come up or been transplanted out, sprinkle them with a fine
 
 ## How Much Water Do Plants Need?
 
-Modern [[comparison-heirloom-vegetable-varieties-vs-seed-saving-techniques]] have been bred in an age of oil-driven irrigation and are weaker at rooting than their predecessors. Crop science aims at maintaining moisture levels above 70% of field capacity to the full depth of the root zone.
+Modern vegetable varieties have been bred in an age of oil-driven irrigation and are weaker at rooting than their predecessors. Crop science aims at maintaining moisture levels above 70% of field capacity to the full depth of the root zone.
 
 The basic plan:
 1. Maintain soil moisture above 70% of field capacity in the top foot (30 cm)
@@ -79,38 +79,3 @@ All soils lose water at about the same rate through evapotranspiration, regardle
 - [[irrigation-systems]] — Sprinkler systems and fertigation
 - [[drought-gardening]] — Gardening with minimal irrigation
 - [[intensive-planting-spacing]] — How spacing affects water needs
-
-## Practical Applications
-
-The principles and techniques discussed here have wide-ranging applications
-across multiple disciplines and contexts. Practitioners and researchers
-continue to explore new ways to integrate these concepts into modern practice,
-adapting traditional knowledge to contemporary challenges and opportunities.
-
-## Key Considerations
-
-Several important factors influence the effectiveness and outcomes described
-in this topic. Understanding these considerations helps practitioners make
-informed decisions and avoid common pitfalls. Environmental conditions,
-timing, and material selection all play critical roles.
-
-## Historical Context
-
-The historical development of this subject reflects centuries of accumulated
-knowledge and practical experience. From traditional methods passed down
-through generations to modern scientific approaches, the evolution continues
-to inform current best practices and research directions.
-
-## Common Challenges
-
-Practitioners frequently encounter several challenges when working with
-these concepts. Climate variability, resource limitations, and knowledge
-gaps can all affect outcomes. Addressing these challenges requires patience,
-observation, and a willingness to adapt approaches based on results.
-
-## See Also
-- [[det]]
-- [[john-jeavons]]
-- [[decomposition]]
-- [[foliar-feeding]]
-- [[garden-myths-mulch-and-watering]]

@@ -24,18 +24,7 @@ sources:
 
 # Corydalis yanhusuo (Yan Hu Suo)
 
-**Corydalis yanhusuo** is a perennial herbaceous plant in the Papaveraceae (poppy) family, native to northern China. Its tuberous rhizome, known as **Yan Hu Suo** (延胡索) in Traditional Chinese Medicine (TCM), has been used for over a thousand years as a potent analgesic for pain conditions. The primary active compound, **dl-tetrahydropalmatine (THP)**, acts on dopamine and opioid receptors, providing [[bay-11-medical-sativa-granddaddy-purp-pain-relief-oner]] without the addictive potential of opiate medications.
-
-## Taxonomy and Botany
-
-- **Family:** Papaveraceae (poppy family)
-- **Genus:** *Corydalis*
-- **Species:** *C. yanhusuo* W.T. Wang ex Z.Y. Su & C.Y. Wu
-- **Chinese pharmacopeia name:** 延胡索 (Yán Hú Suǒ) — literally "prolonged Hu Suo"
-- **Synonyms:** *Corydalis turtschaninovii* Bess. f. *yanhusuo* (Y.T. Sun) C.Y. Wu; *Corydalis ambigua* Cham. et Schlecht. var. *yanhusuo* Y.T. Sun
-
-### Description
-A delicate perennial herb, 10–30 cm tall, emerging in [[coleman-overwintered-onions-and-early-spring-crops]] from a small, irregularly shaped tuberous rhizome (1–3 cm diameter). Stems are slender, erect, often purplish at the base. Leaves are finely dissected, 2–3 times pinnately divided, with narrow lobes — giving a feathery, almost fern-like appearance. Flowers are bilaterally symmetrical, pink to purplish, with a characteristic spurred petal typical of the Fumarioideae subfamily, borne in loose racemes. The fruit is a small, oblong capsule containing numerous small, shiny black seeds with elaiosomes (fatty attachments for ant dispersal).
+**Corydalis yanhusuo** is a perennial herbaceous plant in the Papaveraceae (poppy) family, native to northern China. Its tuberous rhizome, known as **Yan Hu Suo** (延胡索) in Traditional Chinese Medicine (TCM), has been used for over a thousand years as a potent analgesic for pain conditions. The primary active compound, **dl-tetrahydropalmatine (THP)**, acts on dopamine and opioid receptors, providing [[coleman-overwintered-onions-and-early-spring-crops]] from a small, irregularly shaped tuberous rhizome (1–3 cm diameter). Stems are slender, erect, often purplish at the base. Leaves are finely dissected, 2–3 times pinnately divided, with narrow lobes — giving a feathery, almost fern-like appearance. Flowers are bilaterally symmetrical, pink to purplish, with a characteristic spurred petal typical of the Fumarioideae subfamily, borne in loose racemes. The fruit is a small, oblong capsule containing numerous small, shiny black seeds with elaiosomes (fatty attachments for ant dispersal).
 
 ### Life Cycle
 Spring ephemeral — emerges, flowers, and sets seed within 6–8 weeks in early spring (March–May in its native range), then the above-ground foliage dies back completely. The tuberous rhizome persists underground through the dormant period.
@@ -88,3 +77,70 @@ The tuber contains over 30 isoquinoline alkaloids, classified into several struc
 - **Protopine**: ~0.05% — anti-inflammatory, anticholinergic
 
 ### Benzylisoquinoline Alkaloids
+
+## Overview
+
+Corydalis Yanhusuo represents an important element within sustainable
+design and [[solomon-gardening-aikido-pest-philosophy-ecological-management]] systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish corydalis yanhusuo
+from related concepts in [[permaculture]] and [[gaias-garden-ecological-design-process-checklist]].
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving corydalis extend
+across multiple [[ingham-soil-foodweb-trophic-levels-protozoa-nematodes]] and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Corydalis Yanhusuo finds practical application in multiple design contexts.
+[[permaculture-principles]] guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive [[livestock-grassland-management-strategies]] that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for corydalis yanhusuo. [[jeavons-climate-adaptation-growing-seasons]]
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+corydalis yanhusuo and its applications. Active investigation
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Corydalis Yanhusuo has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## See Also
+
+- [[corydalis-cava]]

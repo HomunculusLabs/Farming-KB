@@ -22,9 +22,7 @@ related_concepts:
 
 # Happy Hill Rice
 
-Happy Hill is a rice strain developed by [[masanobu-fukuoka]] on his farm in
-Ehime Prefecture, Japan. It represents a practical demonstration of
-natural [[natural-farming-principles-fukuoka]] applied to plant breeding — a variety created
+Happy Hill is a rice strain developed by [[natural-farming-principles-fukuoka]] applied to plant breeding — a variety created
 through natural selection and symbiosis with the farm ecosystem rather
 than through laboratory genetic manipulation.
 
@@ -32,16 +30,14 @@ than through laboratory genetic manipulation.
 
 Fukuoka described Happy Hill as a hardy strain carrying the genetic
 heritage of wild rice variants. Despite its wild ancestry, it proved to
-be one of the highest [[fukuoka-textdoc-ideal-form-high-yielding-rice]] strains in the world when grown under
-[[cho-loess-powder-in-natural-farming]] conditions. The variety was developed not through
+be one of the highest [[cho-loess-powder-in-natural-farming]] conditions. The variety was developed not through
 deliberate crossbreeding but through decades of natural selection on
 Fukuoka's farm, where rice grew in a clover-covered, no-till, no-fertilizer
 environment.
 
 The strain is notable for its vigor under low-input conditions. Unlike
 modern high-yielding varieties that require substantial nitrogen
-fertilization, irrigation, and [[cannabis-pest-management-guide]], Happy Hill performs well
-within the minimal-intervention framework [[four-principles-of-natural-farming]].
+fertilization, irrigation, and [[four-principles-of-natural-farming]].
 
 Fukuoka created it "together with the insects in my fields," suggesting
 a co-evolutionary process where the variety adapted to the specific pest
@@ -76,12 +72,7 @@ industrial agricultural inputs.
 Happy Hill rice was the centerpiece of Fukuoka's direct-seeded,
 no-tillage rice-barley rotation. The seeds were encapsulated in clay
 pellets and broadcast over the field in winter, germinating through the
-straw mulch and [[fukuoka-clover-cover-cropping-soil-ecology]] in spring without any transplanting.
-
-Under this system, the rice matured alongside the declining clover cover
-and was harvested while the young shoots of the next winter grain crop
-were already emerging beneath it. The variety's ability to establish
-from clay [[clay-pellet-seeding-technique]] and compete with clover made it uniquely suited
+straw mulch and [[clay-pellet-seeding-technique]] and compete with clover made it uniquely suited
 to this rotation.
 
 ## Significance
@@ -118,8 +109,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[doc]]
 - [[natural-farming]]
-- [[fukuoka-textdoc-happy-hill-rice-strain-world-food]]
 - [[fukuoka-happy-hill-rice-strain]]
 - [[fukuoka-happy-hill-rice-landrace]]

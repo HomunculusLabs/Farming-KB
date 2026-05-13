@@ -74,13 +74,7 @@ are at different growth stages simultaneously, ensuring steady harvest.
 
 ## Initial Investment Estimates
 
-All costs in **Thai Baht (฿)** based on the [[mushroom-cultivation-disabilities-training-manual-overview]]'s local pricing.
-
-### Minimal Startup — Buying Inoculated Bags
-
-| Item | Cost (Baht) |
-|------|-------------|
-| [[fao-accessible-mushroom-house-design-disabilities]] 3 m × 4 m (2-year lifespan) | 500 – 2,000 |
+All costs in **Thai Baht (฿)** based on the [[fao-accessible-mushroom-house-design-disabilities]] 3 m × 4 m (2-year lifespan) | 500 – 2,000 |
 | 1,000 inoculated mushroom bags (3-month cycle) | 3,500 |
 | **Total** | **4,000 – 5,500** |
 
@@ -94,7 +88,7 @@ stream (selling bags to others).
 
 | Item | Cost (Baht) |
 |------|-------------|
-| 200L oil drums × 2 (sterilization, 80–100 bags/batch, 2 years) | 400 – 700 |
+| 200L oil drums × 2 ([[sterilization]], 80–100 bags/batch, 2 years) | 400 – 700 |
 | Gas tank and burner (optional; wood/branches work as fuel) | 2,000 – 3,000 |
 | Other tools (basket, sprayer, gloves, etc.) | ~1,000 |
 | Cement floor (optional but recommended) | ~4,000 |
@@ -108,27 +102,7 @@ earth, keeping additional investment under 700 Baht.
 
 ## Three Levels of Operation
 
-| Level | Method | Houses | Bags | [[cervantes-perpetual-harvest-cycle]] |
-|-------|--------|--------|------|---------------|
-| 1st (Beginner) | Buy bags | 1 fruiting | 2,000 | 3 months harvest, 1 month rest |
-| 2nd (Intermediate) | Buy bags | 3 fruiting | 6,000 | 3 months/house, staggered |
-| 3rd (Advanced) | Make bags | 1 incubation + 3 fruiting | 6,000 | Continuous; can sell bags |
-
-**1st Level** — Ideal for learning basics with minimal capital. Seasonal income
-(3 months on, 1 month off for cleaning).
-
-**2nd Level** — Staggering three houses ensures at least two are producing at
-any time, smoothing income across the year.
-
-**3rd Level** — Full production chain control from substrate to sale. Maximum
-profit margins and operational independence.
-
----
-
-## Key Business Advice
-
-- **Start by buying bags.** Learn the growing process before making your own
-  [[mushroom-substrate-bags]]. Premature self-production leads to high contamination rates.
+| Level | Method | Houses | Bags | [[mushroom-substrate-bags]]. Premature self-production leads to high contamination rates.
 - **1,000 bags is the minimum viable scale.** Fewer bags do not generate enough
   income to justify the daily labor required.
 - **Harvest twice daily.** Morning and evening harvests capture peak quality,

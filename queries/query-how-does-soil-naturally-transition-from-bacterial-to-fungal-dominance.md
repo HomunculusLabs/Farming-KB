@@ -10,37 +10,7 @@ sources: []
 
 ## Short Answer
 
-Soil microbiomes shift from bacterial to fungal dominance as ecosystems mature through a natural process called [[bacterial-to-fungal-soil-succession]].
-
-Early successional soils disturbed by tilling, flooding, or bare fallow are dominated by fast-growing bacteria that thrive on simple carbon compounds.
-
-Over years and decades, perennial plant roots and accumulating organic matter create conditions that favor fungi, which decompose more complex materials like lignin and cellulose.
-
-Understanding this succession is essential for managing soil health in gardens, farms, and restored landscapes.
-
-## The Succession Spectrum
-
-Soil microbiology exists on a continuum from bacterial dominance to fungal dominance.
-
-The [[bacterial-vs-fungal-soil]] framework describes this spectrum as one of the most important indicators of ecosystem maturity and agricultural suitability.
-
-[[bacterial-vs-fungal-soil-dynamics]] explains how the ratio between these two groups shifts in response to disturbance, plant community composition, and management practices.
-
-Bacterial-dominated soils are characteristic of annual crop systems, disturbed sites, and early pioneer ecosystems.
-
-Fungal-dominated soils are found in mature forests, perennial grasslands, and undisturbed prairie ecosystems.
-
-Most agricultural soils fall somewhere in the middle, and their position on this spectrum directly affects nutrient cycling, disease suppression, and plant available nutrition.
-
-## What Drives the Transition
-
-The primary driver of bacterial-to-fungal succession is the shift in carbon quality entering the soil food web.
-
-Bacteria are opportunists that rapidly colonize fresh, simple organic matter such as sugars, amino acids, and young green residues.
-
-Fungi are slower-growing decomposers that specialize in breaking down complex carbon compounds like lignin, cellulose, and woody materials.
-
-As an ecosystem progresses from annual weeds to perennial grasses and eventually to woody plants, the quality of root exudates and surface litter becomes increasingly complex.
+Soil microbiomes shift from bacterial to fungal dominance as ecosystems mature through a natural process called [[bacterial-vs-fungal-soil]] framework describes this spectrum as one of the most important indicators of ecosystem maturity and agricultural suitability.
 
 [[query-what-are-root-exudates-and-how-do-they-shape-soil-life]] describes how root exudates change with plant maturity and directly feed specific microbial groups.
 
@@ -88,10 +58,6 @@ Mycorrhizal fungal networks dramatically expand the effective root zone of plant
 
 Fungal-dominated soil food webs tend to retain more nutrients and lose less to leaching because nutrients are immobilized in fungal biomass.
 
-[[biofertilizers-and-soil-inoculants]] describes how introducing beneficial fungi can accelerate this transition in degraded or recently disturbed soils.
-
-Disease suppression is generally stronger in fungal-dominated soils because diverse fungal communities compete with plant pathogens for resources and space.
-
 [[actinomycetes-soil-biology]] highlights how actinomycetes, which increase as soils mature, produce natural antibiotics that suppress soil-borne diseases.
 
 Fungal soils also have better aggregate structure, higher water-holding capacity, and more stable humus reserves.
@@ -100,15 +66,7 @@ Fungal soils also have better aggregate structure, higher water-holding capacity
 
 There are several practical ways to assess where a soil falls on the bacterial-to-fungal succession spectrum.
 
-The [[aact-soil-food-web-twelve-step-balancing-protocol]] provides a structured methodology for evaluating microbial ratios using direct microscopy.
-
-Lab-based techniques like phospholipid fatty acid analysis and DNA sequencing can quantify bacterial and fungal biomass precisely.
-
-Field indicators include the presence of fungal hyphae visible as white threads in compost or healthy topsoil, earthworm activity, and aggregate stability.
-
-Weed composition can also signal soil succession stage, with pioneer annuals indicating bacterial dominance and perennial forbs suggesting a more mature system.
-
-[[biodiversity-soil-life]] explains how overall microbial diversity tends to increase as succession progresses through the bacterial-to-fungal transition.
+The [[biodiversity-soil-life]] explains how overall microbial diversity tends to increase as succession progresses through the bacterial-to-fungal transition.
 
 Simple observations like soil smell, crumb structure, and water infiltration rate provide qualitative clues about succession progress.
 
@@ -118,25 +76,12 @@ Growers who want to accelerate the shift toward fungal dominance have several ev
 
 Applying fungal-dominant compost or compost tea introduces living fungal biomass directly into the soil profile.
 
-[[bacterial-vs-fungal-compost-teas]] explains how brewing conditions determine whether a tea is bacterial or fungal, and how to produce the right type for a given situation.
-
-Mulching with woody materials, wood chips, or leaf litter provides the complex carbon substrates that fuel fungal growth.
-
-Reducing or eliminating tillage preserves existing hyphal networks and allows them to expand over successive growing seasons.
-
 [[beneficial-indigenous-microorganisms-bim]] describes methods for capturing and propagating local microbial communities that are already adapted to regional conditions.
 
 Minimizing synthetic nitrogen applications prevents the artificial bacterial stimulation that delays fungal succession.
 
-[[biological-nitrogen-fixation-agriculture]] shows how legume integration can supply nitrogen through biological pathways that are compatible with fungal soil biology.
-
-## Key Points
-
-- Soil succession moves from bacterial to fungal dominance as ecosystems mature from disturbed sites to perennial plant communities.
-- [[bacterial-to-fungal-soil-succession]] is driven primarily by increasing carbon complexity from root exudates and plant litter.
+[[bacterial-to-fungal-soil-succession]] is driven primarily by increasing carbon complexity from root exudates and plant litter.
 - Physical disturbance like tillage resets succession toward bacterial dominance by destroying fungal hyphae.
 - Perennial plants and woody species engineer fungal-dominated soils through their root exudates and mycorrhizal partnerships.
 - Fungal-dominated soils offer better nutrient retention, disease suppression, and soil structure compared to bacterial soils.
-- [[aact-soil-food-web-twelve-step-balancing-protocol]] provides a practical framework for assessing and managing succession.
-- Wood chip mulches, fungal compost teas, no-till practices, and reduced synthetic nitrogen all accelerate the fungal transition.
 - [[query-what-is-the-difference-between-bacterial-and-fungal-dominant-soil]] provides a complementary overview of what bacterial and fungal soils mean for growers.

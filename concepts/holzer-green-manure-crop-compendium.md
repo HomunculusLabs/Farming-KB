@@ -11,60 +11,12 @@ sources:
 
 # Holzer Green Manure Crop Compendium
 
-A reference list of [[sepp-holzer]], drawn from his practices at the Krameterhof and in his advisory work. This compendium complements [[holzer-vegetable-garden-polycultures]], [[sepp-holzer-terrace-systems-and-raised-beds]].
-
-## Legumes (Nitrogen Fixers)
-
-### Sweet Clover (Melilotus officinalis)
-- Biennial, extremely deep-rooted (2+ metres)
-- Fixes large quantities of nitrogen
-- Breaks up compacted subsoil with powerful taproot
-- Drought-tolerant once established
-- Attracts bees and [[comparison-beneficial-insects-guide-vs-integrated-pest-management]]
+A reference list of [[holzer-vegetable-garden-polycultures]], [[comparison-beneficial-insects-guide-vs-integrated-pest-management]]
 - Use: between tree rows, on degraded land, as pioneer species
 
 ### Lupin (Lupinus sp.)
 - Annual or perennial depending on species
-- Very deep taproot (1-2 metres), excellent for [[query-which-cover-crops-are-best-for-breaking-hardpan-and-compacted-soil]]
-- Fixes nitrogen efficiently
-- Attractive blue, white, or yellow flowers attract pollinators
-- Some species produce edible seeds
-- Use: compacted soils, slope stabilisation, intercropping with grains
-
-### Lucerne / Alfalfa (Medicago sativa)
-- Perennial, deep-rooted (3-6 metres)
-- One of the most productive nitrogen fixers
-- Extremely drought-tolerant once established
-- Can be cut multiple times per season for mulch
-- High protein content when used as fodder
-- Use: permanent ground cover between rows, fodder production, deep soil improvement
-
-### Golden Bird's-Foot Trefoil (Lotus corniculatus)
-- Perennial, low-growing
-- Excellent permanent living mulch
-- Fixes nitrogen steadily
-- Tolerates poor soils and close mowing
-- Attractive yellow flowers for pollinators
-- Use: permanent ground cover in orchards, between vegetable rows
-
-### Common Vetch (Vicia sativa)
-- Annual climbing legume
-- Good nitrogen fixer
-- Can be sown in autumn for winter cover
-- Provides good biomass when cut
-- Use: autumn/winter cover crop, mixed with cereals
-
-### Crimson Clover (Trifolium incarnatum)
-- Annual or biennial
-- Fast-establishing, good biomass producer
-- Deep red flowers attract pollinators
-- Can be undersown in standing crops
-- Use: autumn cover crop, bee forage, vineyard intercrop
-
-### White Clover (Trifolium repens)
-- Perennial, low-growing, spreading
-- Excellent permanent living mulch
-- Fixes nitrogen continuously through [[savory-growing-season-and-non-growing-season-management]]
+- Very deep taproot (1-2 metres), excellent for [[savory-growing-season-and-non-growing-season-management]]
 - Tolerates foot traffic and mowing
 - Use: permanent ground cover, lawn alternative, orchard understory
 
@@ -118,8 +70,81 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[cover-crop]]
 - [[trifolium-incarnatum]]
-- [[phacelia-tanacetifolia]]
 - [[fagopyrum-esculentum]]
 - [[vicia-sativa]]
+
+## Overview
+
+Holzer Green Manure Crop Compendium represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish holzer green manure crop compendium
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving holzer extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Holzer Green Manure Crop Compendium finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for holzer green manure crop compendium. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+holzer green manure crop compendium and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Holzer Green Manure Crop Compendium has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of holzer green manure crop compendium into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and

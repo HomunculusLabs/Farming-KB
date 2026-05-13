@@ -12,20 +12,12 @@ type: concept
 
 # Direct Seeding Non-Cultivation
 
-Direct seeding non-cultivation is [[natural-farming]] could be applied in other areas and to the
-raising of other indigenous crops. In areas where water is less available,
-[[fukuoka-natural-upland-rice-minor-grains]], buckwheat, sorghum, or millet might replace flooded rice. Instead
-of [[fukuoka-white-clover-cover-crop-system]], other varieties of clover, alfalfa, vetch, or lupine might
-serve as field cover. Testing centres across Japan produced no evidence to
-contradict the method's universal applicability. The speed with which direct
-seeding was spreading in Okayama Prefecture was described as eye-opening.
-
-"There is probably no easier, simpler [[query-what-is-the-kratky-method-for-growing-cannabis]] grain," but it took
+Direct seeding non-cultivation is [[fukuoka-natural-upland-rice-minor-grains]], buckwheat, sorghum, or millet might replace flooded rice. Instead
+of [[query-what-is-the-kratky-method-for-growing-cannabis]] grain," but it took
 Fukuoka over thirty years to reach this simplicity.
 
 ## See Also
 
-- [[natural-farming-imo-collection-and-cultivation]]
 - [[solomon-thinning-spacing-and-direct-seeding]]
 ## Practical Applications
 
@@ -97,8 +89,6 @@ through generations to modern scientific approaches, the evolution continues
 to inform current best practices and research directions.
 
 ## See Also
-- [[doc]]
 - [[det]]
-- [[fukuoka-direct-seeding-rice-barley-cultivation]]
 - [[direct-seeding-techniques]]
 - [[comparison-seed-balls-vs-direct-seeding]]

@@ -25,7 +25,7 @@ sources:
 
 # Vegetable Garden Guide
 
-Comprehensive reference for [[home-vegetable-gardening]] based on Purdue University Extension guidelines (Lerner & Dana, HO-32-W). Covers planning, soil preparation, planting, care, and harvest.
+Comprehensive reference for home vegetable gardening based on Purdue University Extension guidelines (Lerner & Dana, HO-32-W). Covers planning, soil preparation, planting, care, and harvest.
 
 ## Site Selection
 
@@ -74,7 +74,7 @@ Vegetables grow best in open, level areas with loose, rich, well-drained soil. M
 
 ## Fertilization
 
-The [[purdue-four-step-garden-fertilization-program]] covers four steps: establishing basic fertility via soil test, annual NPK maintenance, high-phosphorus starter solution for transplants, and crop-specific nitrogen side-dressing. Soil pH adjustment (sulfur or limestone) [[hamilton-composting-and-organic-matter-management]] management (peat moss, compost, manures, green manures) are also covered. See [[vegetable-garden-fertilization]] for the complete program including [[ingham-compost-tea-application-rates-and-timing]] tables.
+The fertilization program covers four steps: establishing basic fertility via soil test, annual NPK maintenance, high-phosphorus starter solution for transplants, and crop-specific nitrogen side-dressing. Soil pH adjustment (sulfur or limestone) and organic matter management (peat moss, compost, manures, green manures) are also covered. See [[vegetable-garden-fertilization]] for the complete program including rates and timing tables.
 
 ## Planting Technique
 
@@ -138,13 +138,12 @@ Cover tender crops (tomatoes, peppers, eggplants) with cardboard boxes, blankets
 
 ## Harvest and Storage
 
-Detailed harvest timing and [[spawn-storage-conditions]] for all 25+ crops, organized by storage category (cold/moist, cool/dry, warm/dry, warm/moist) and crop type (root vegetables, cole crops, greens, legumes, vine crops, fruiting vegetables). See [[vegetable-garden-harvest]] for the complete guide.
-
-## Season End
-
-- Clean, repair, and sharpen tools; store dry
-- Wipe metal blades with oily rag to prevent rust
-- Drain fuel and oil from power tools
-- Store pesticides safely, protected from temperature extremes
+Detailed harvest timing and storage conditions for all 25+ crops, organized by storage category (cold/moist, cool/dry, warm/dry, warm/moist) and crop type (root vegetables, cole crops, greens, legumes, vine crops, fruiting vegetables). See [[vegetable-garden-harvest]] for the complete guide.
 
 ## See Also
+
+- [[fukuoka-vegetable-growing-natural-method]]
+- [[fukuoka-straw-vegetable-growing]]
+- [[vegetable-garden-watering-systems-spacing]]
+- [[solomon-dry-farming-water-less-vegetable-gardening]]
+- [[hamilton-crop-rotation-and-vegetable-planning]]

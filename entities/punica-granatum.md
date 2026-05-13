@@ -11,9 +11,7 @@ date: 2026-05-08
 updated: 2026-05-08
 sources:
   - Levin, G.M. (2006). "Pomegranate Roads: A Soviet Botanist's Exile from Eden." Floreant Press.
-  - Jurenka, J. (2008). "[[psilocybin-therapeutic-applications]] of Pomegranate." Alternative Medicine Review 13(2): 128-144.
-  - Stover, E. & Mercure, E.W. (2007). "The Pomegranate: A New Look at a Fruit Full of Promise." Pomology Research & Extension, UF-IFAS.
-  - Lansky, E.P. & Newman, R.A. (2007). "Punica granatum (Pomegranate) and Its Potential for [[cannabis-root-rot-prevention-and-treatment]] of Inflammation and Cancer." Journal of Ethnopharmacology 109(2): 177-206.
+  - Jurenka, J. (2008). "cannabis-root-rot-prevention-and-treatment of Inflammation and Cancer." Journal of Ethnopharmacology 109(2): 177-206.
 ---
 
 ## Overview
@@ -66,13 +64,7 @@ Greek, and Roman traders. Spanish missionaries introduced it to the
 Americas in the 16th century, where it naturalized widely in California,
 Arizona, and Latin America.
 
-It thrives in semi-arid Mediterranean [[query-how-to-grow-rare-tropical-fruits-in-marginal-and-subtropical-climates]] with hot
-summers and mild winters. Optimal growth occurs in USDA zones 7-10, with
-a chilling requirement of 100-500 hours below 7 degrees C.
-
-The plant is remarkably drought-tolerant once established, surviving on
-250-500 mm annual rainfall. It tolerates saline and alkaline soils but
-requires good drainage to prevent [[cervantes-root-rot-pythium-damping-off]].
+It thrives in semi-arid Mediterranean [[cervantes-root-rot-pythium-damping-off]].
 
 ## Cultivation
 
@@ -88,3 +80,6 @@ and market preference.
 Propagation is primarily by hardwood cuttings, which maintain true-to-type
 characteristics. Softwood cuttings under mist and [[comparison-seed-saving-techniques-vs-tissue-culture-cloning]] are used
 for large-scale nursery production.
+
+## See Also
+- [[comparison-olive-vs-fig-vs-pomegranate-mediterranean-fruit-trees]]

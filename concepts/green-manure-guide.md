@@ -12,21 +12,7 @@ sources:
 
 ## Overview
 
-Green manure is a crop grown specifically to add [[hamilton-composting-and-organic-matter-management]] and nutrients to beds that are empty for a period. It is sown with the intention of digging it into the soil. While more valuable to large-scale farmers, green manure crops are useful in small gardens too, particularly on light soils that should be kept covered when vacant to prevent nutrient leaching through winter drainage.
-
-## Benefits of Green Manure
-
-### Organic Matter Addition
-
-The soft green material rots down quickly. On soils short of organic matter, any addition is a bonus. Green manure also increases biological activity in the soil, and the roots serve to break up compacted soil and improve drainage.
-
-### Nutrient Cycling
-
-Deep-rooting crops like red clover and lupins reach down over 7ft (2m), bringing minerals from lower soil levels to the surface. When dug in, these nutrients become available to the next crop. This is particularly valuable on light soils where the biggest nutrient loss occurs through winter leaching.
-
-### Nitrogen Fixation
-
-[[weed-suppression-strategies]] for complementary approaches.
+Green manure is a crop grown specifically to add [[weed-suppression-strategies]] for complementary approaches.
 
 ## Sowing and Management
 
@@ -36,49 +22,12 @@ Choose a crop that matures in the time available. For winter cover, sow in late 
 
 ### Crop Selection
 
-Choose a crop unlike either the preceding or following crop to avoid perpetuating [[query-how-to-manage-pests-and-diseases-in-mushroom-cultivation]]. For example, never sow mustard (a brassica) after cabbages due to clubroot risk.
-
-### Soil Preparation
-
-Prepare the seedbed as thoroughly as for any other crop. If soil is low in nutrients, apply [[cervantes-compost-tea-organic-brewing]] or [[fukuoka-textdoc-animal-manure-human-waste-natural-cycle-heretic]] tea to assist rotting
-
-## Nitrogen-Fixing Green Manures
-
-### Alfalfa / Lucerne (Medicago sativa)
-
-Deep-rooting tall perennial. Provides plenty of green matter and fixes nitrogen. Sow at 1/2oz (15g) per sq yard/meter in spring, dig in fall. Alternatively, sow late summer for spring incorporation.
-
-### Broad or Fava Bean (Vicia faba)
-
-Excellent in every way -- withstands winter almost everywhere, produces abundant organic matter, fixes nitrogen, and the beans can be harvested and eaten. Sow fall or early summer, 4in apart in rows 12in apart. Allow a row or two to produce beans for seed saving.
-
-### Red Clover (Trifolium pratense)
-
-Low-growing nitrogen-fixer with extensive root system. Sow spring or late summer (always before fall). Scatter at 1oz (30g) per sq yard/meter in rows 6in apart. Dig in when land is needed.
-
-### Lupin (Lupinus angustifolius)
-
-Deep-rooting tall legume adding nitrogen and large amounts of phosphates. Sow spring, 3in between seeds in rows 6in apart. 1oz seeds about 70 yards of row. Cut and dig in summer; a second crop can follow eight weeks later.
-
-### Winter Tare (Vicia villosa)
-
-One of the most useful crops -- grows through winter when land is vacant. Produces large amounts of green matter, has an extensive root system, and fixes nitrogen. Sow late summer rows 6in apart. Can also be spring/summer sown. 3oz seeds about 100 yards of row.
-
-## Non-Nitrogen-Fixing Green Manures
-
-### Buckwheat (Fagopyrum esculentum)
-
-Requires the whole summer. Sow when weather is warm. Tall with extensive root system. Does not [[query-how-to-fix-nitrogen-toxicity-in-cannabis]] but attracts [[clubroot-disease-management]]. Scatter at 1oz per 4 sq yards or sow in rows 6in apart.
-
-### Italian Ryegrass (Lolium multiflorum)
-
-Fast-growing and bulky, germinates quickly even in cold soils. Can be dug in before ground warms for tender vegetables. Essential to use the annual strain "Westerwolds" -- perennial or biennial strains will regrow and cause endless problems. Dig in before [[cervantes-seed-production-storage]]. Scatter 1oz per 4 sq yards.
+Choose a crop unlike either the preceding or following crop to avoid perpetuating [[cervantes-compost-tea-organic-brewing]] or [[query-how-to-fix-nitrogen-toxicity-in-cannabis]] but attracts [[cervantes-seed-production-storage]]. Scatter 1oz per 4 sq yards.
 
 ## Integration with Garden Systems
 
-Green manure fits well within [[deep-bed-cultivation]], sow green manure between crops or during winter fallow periods. The resulting organic matter feeds the [[cover-crop-guide-detailed]] -- detailed cover crop reference
-- [[companion-planting-deterrents]] -- phacelia and buckwheat attract [[comparison-beneficial-insects-guide-vs-integrated-pest-management]]
-- [[crop-rotation-benefits]] -- integrating green manure into rotation plans
+Green manure fits well within [[cover-crop-guide-detailed]] -- detailed cover crop reference
+- [[comparison-beneficial-insects-guide-vs-integrated-pest-management]]
 - [[legume-nitrogen-dynamics]] -- nitrogen fixation mechanics
 
 ## Practical Applications
@@ -110,8 +59,91 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[green-manure-crops]]
 - [[doc]]
-- [[det]]
 - [[composting]]
 - [[vicia-villosa]]
+
+## Overview
+
+Green Manure Guide represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish green manure guide
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving green extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Green Manure Guide finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for green manure guide. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+green manure guide and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Green Manure Guide has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of green manure guide into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[comparison-green-manure-vs-composting]]
+- [[fukuoka-green-manure-clover-revolution]]
+- [[fukuoka-weed-management-and-green-manure]]
+- [[green-cannabis-curing-drying-buds]]
+- [[green-cannabis-grow-bible-species-indica-sativa-ruderalis]]

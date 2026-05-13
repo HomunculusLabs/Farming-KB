@@ -28,12 +28,7 @@ sources:
 created in early 2000s Southern California. Named for the distinctive
 pressure sensation around the temples that users commonly report.
 
-A cross between elite **OG Kush** and **[[hindu-kush]])
-- **Male:** [[cannabis-sour-diesel]] ([[thin-mint-cookies]]** — carries Headband lineage through GSC
-## See Also
-
-- og kush
-- [[thin-mint]]
+A cross between elite **OG Kush** and **[[cannabis-sour-diesel]] ([[thin-mint]]
 
 - sour diesel
 ## Practical Applications

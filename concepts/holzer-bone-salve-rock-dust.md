@@ -8,12 +8,7 @@ sources: ["papers/sepp-holzer-practical-guide.md"]
 ---
 ## Bone Salve (Beinsalbe)
 
-A traditional farm remedy made from animal bones, historically prepared by travelling "bone salve burners" (Beinsalbenbrennermandl). Holzer describes the [[kava-traditional-preparation-ceremonial-context]] method from his childhood in Lungau.
-
-### Traditional Preparation
-
-1. **Collect bones**: Save cattle and pig bones throughout the year in a ventilated chest
-2. **Dry and smoke**: Bones from smoked meat are already prepared; fresh bones are dried with good [[stamets-growing-room-air-circulation-co2-management]] (ventilation grate keeps mice out)
+A traditional farm remedy made from animal bones, historically prepared by travelling "bone salve burners" (Beinsalbenbrennermandl). Holzer describes the [[stamets-growing-room-air-circulation-co2-management]] (ventilation grate keeps mice out)
 3. **Crush**: Children helped crush bones to fit into cast iron pots
 4. **Set up apparatus**:
    - Two 10-litre cast iron pots
@@ -29,7 +24,7 @@ A traditional farm remedy made from animal bones, historically prepared by trave
 ### Uses
 - Treating wounded livestock (used by castrators and stockmen)
 - Wound healing and anti-inflammatory
-- Base ingredient for [[holzer-browsing-protection-methods]] salve on [[comparison-pruning-fruit-trees-vs-grafting-fruit-trees]]
+- Base ingredient for [[comparison-pruning-fruit-trees-vs-grafting-fruit-trees]]
 - Long-lasting intense odour repels deer and other browsing animals
 
 ## Browsing Protection Salve
@@ -72,24 +67,12 @@ Holzer mentions stonemeal in several contexts:
 ### Mineral Supplementation
 - Crushed rock minerals provide slow-release mineral nutrients
 - Granite dust, basalt dust, and other rock powders supply trace minerals
-- Complements organic fertilisation by adding mineral components that [[hamilton-composting-and-organic-matter-management]] alone may lack
-
-## Mulch and Surface Composting
-
-While not rock dust per se, Holzer's mulching philosophy shares the principle of slow nutrient release:
-
-- Material is NOT shredded (contrary to expert advice) so nutrients release slowly
-- Loose spreading maintains air circulation and prevents compaction
-- Vary [[mollison-mulch-materials-sources-and-tropical-application]] to provide diverse nutrients
+- Complements organic fertilisation by adding mineral components that [[mollison-mulch-materials-sources-and-tropical-application]] to provide diverse nutrients
 - 20cm+ of dry material (straw, hay) provides long-term soil protection
 
 ## See Also
 
-- [[comparison-kelp-meal-vs-rock-dust]]
-
 - [[holzer-fruit-growing-marginal-climates]]
-- [[holzer-farming-philosophy]]
-- holzer-fruit-tree-planting-method
 - [[holzer-wild-fruit-trees-and-hedges]]
 
 ## Practical Applications
@@ -121,8 +104,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[det]]
 - [[composting]]
-- [[kava]]
 - [[ghb]]
 - [[comparison-kelp-meal-vs-rock-dust]]

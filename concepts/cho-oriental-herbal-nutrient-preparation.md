@@ -1,7 +1,7 @@
 ---
 title: "Cho Oriental Herbal Nutrient Preparation"
 created: 2026-04-28
-tags: [knf, input-preparation, [[herbal-medicine]]
+tags: [knf, input-preparation, herbal-medicine
 date: 2026-04-28
 updated: 2026-04-28
 sources:
@@ -9,8 +9,7 @@ sources:
 type: concept
 ---
 
-The [[knf-ohn-oriental-herbal-nutrient-recipe]] (OHN) is a very important input in Dr.
-Cho's [[comparison-natural-farming-vs-permaculture]] system. It is made from herbs that are full of
+The [[comparison-natural-farming-vs-permaculture]] system. It is made from herbs that are full of
 energy and function to increase plant robustness, to sterilize, and
 to keep plants warm. OHN revitalizes crops and activates their growth.
 It is made from popular oriental herbs such as Angelica, Acutiloba,
@@ -89,39 +88,6 @@ application.
 ## Combining the Three OHNs
 
 ## See Also
-- [[knf-oriental-herbal-nutrient]]
-
-## Practical Applications
-
-The principles and techniques discussed here have wide-ranging applications
-across multiple disciplines and contexts. Practitioners and researchers
-continue to explore new ways to integrate these concepts into modern practice,
-adapting traditional knowledge to contemporary challenges and opportunities.
-
-## Key Considerations
-
-Several important factors influence the effectiveness and outcomes described
-in this topic. Understanding these considerations helps practitioners make
-informed decisions and avoid common pitfalls. Environmental conditions,
-timing, and material selection all play critical roles.
-
-## Historical Context
-
-The historical development of this subject reflects centuries of accumulated
-knowledge and practical experience. From traditional methods passed down
-through generations to modern scientific approaches, the evolution continues
-to inform current best practices and research directions.
-
-## Common Challenges
-
-Practitioners frequently encounter several challenges when working with
-these concepts. Climate variability, resource limitations, and knowledge
-gaps can all affect outcomes. Addressing these challenges requires patience,
-observation, and a willingness to adapt approaches based on results.
-
-## See Also
 - [[permaculture]]
-- [[knf-ohn-oriental-herbal-nutrient-recipe]]
 - [[oriental-herbal-nutrient-ohn]]
-- [[knf-oriental-herbal-nutrient]]
 - [[oriental-herbal-nutrient]]

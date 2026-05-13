@@ -29,12 +29,7 @@ minerals mediated by living organisms. Fungal bioweathering, driven by
 diverse fungal species across all major taxonomic groups, is one of the
 most important processes of microorganism-mediated weathering. Fungi can
 dissolve minerals and mobilize metals at higher pH values and over a
-wider redox range more efficiently than bacteria. (see [[saprotrophic-fungi-biogeochemical-cycles-gadd]]).
-
-## Why Fungi Excel as Weathering Agents
-
-Fungi possess several attributes that make them exceptionally effective
-at [[ectomycorrhizal-mineral-weathering-phosphate-mobilization-gadd]]:
+wider redox range more efficiently than bacteria. (see [[ectomycorrhizal-mineral-weathering-phosphate-mobilization-gadd]]:
 
 - **Environmental resistance**: Highly resistant to metal toxicity, UV
   radiation, and desiccation
@@ -46,16 +41,11 @@ at [[ectomycorrhizal-mineral-weathering-phosphate-mobilization-gadd]]:
   algae, and cyanobacteria (mycorrhizas, lichens)
 - **Filamentous exploration**: Hyphal growth increases surface area for
   mineral contact and enables translocation of nutrients within networks
-- **[[dighton-fungal-nutrient-translocation-element-redistribution]]**: Ability to move nutrients through mycelial
-  networks across [[fungal-mycelial-foraging-heterogeneous-environments]]
+- **[[fungal-mycelial-foraging-heterogeneous-environments]]
 
 ## Historical Context
 
-Fungi have been components of terrestrial [[cannabis-rhizosphere-microbial-communities]] since
-the Ordovician period (480–460 million years ago). Fungal bioweathering
-of basaltic outcrops in sub-polar areas is believed to be chronologically
-the first weathering process, preceding cryogenic processes. Lichens were
-possibly among the earliest life forms to occupy Earth's land surfaces. (see [[gadd-fungal-rock-weathering]]).
+Fungi have been components of terrestrial [[gadd-fungal-rock-weathering]]).
 
 ## Rock and Mineral Substrates
 
@@ -70,20 +60,7 @@ serpentine, muscovite, feldspar, spodumene, kaolin, nepheline, natural
 glass, and even medieval and antique glass artifacts.
 
 Alkaline (basic) rocks appear more susceptible to fungal attack than
-acidic rocks. [[query-how-do-fungi-contribute-to-carbon-sequestration]] weathering of silicate-bearing rocks
-(mica, orthoclase) and iron/manganese-bearing minerals (biotite, olivine,
-pyroxene).
-
-## Mechanisms
-
-### Biomechanical Weathering
-
-Direct physical degradation through:
-
-- **Hyphal penetration**: Extensive penetration into decayed rocks,
-  tunnelling along crystal planes, cleavage, cracks, and grain boundaries
-- **Turgor pressure**: Osmotically generated pressure within hyphae
-  exerts considerable mechanical force against [[fungal-community-profiling-rock-mineral-surfaces-gadd]]
+acidic rocks. [[fungal-community-profiling-rock-mineral-surfaces-gadd]]
 - **Thigmotropism**: Contact-guided growth towards grooves, ridges, and
   pores in solid materials, enabling exploration of weakened zones
 - **Lubrication**: Mucilaginous slime containing acidic and
@@ -111,8 +88,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[lichens]]
 - [[mycelium]]
-- [[ectomycorrhiza]]
 - [[decomposition]]
 - [[mycorrhiza]]

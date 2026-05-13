@@ -11,8 +11,7 @@ type: concept
 # Greenhouse Heating and Temperature Control
 
 The amount of heat used in a greenhouse determines what can be grown and
-when. [[query-how-to-grow-and-use-oca-in-temperate-climates]], frost-tender plants can only be kept in a
-[[coleman-cold-greenhouse-double-layer-protection]] for four to six weeks before the last expected frost. By
+when. [[coleman-cold-greenhouse-double-layer-protection]] for four to six weeks before the last expected frost. By
 providing just enough heat to keep frost at bay, the greenhouse becomes
 far more productive. Half-hardy perennials like fuchsias and geraniums can
 be overwintered, and tender plants can be started much earlier.
@@ -54,38 +53,7 @@ heaters are lower in initial cost but controlling temperature with a
 thermostat is difficult. Paraffin heaters emit fumes that can damage
 plants and require frequent refuelling. The wick must be adjusted
 according to weather conditions. These are best suited for small
-greenhouses or as [[coleman-cool-house-minimal-supplementary-heat]] sources.
-
-### Solid Fuel
-
-Various solid fuels can heat water pipes in the greenhouse. Coal is the
-most commonly used, being cheap and efficient. However, it requires
-considerable capital outlay for the boiler and piping, and frequent
-refuelling is necessary. Modern heaters of all types are typically
-controlled by thermostat to maintain constant temperatures.
-
-## Reducing Heating Costs
-
-Unless you specialise in temperature-sensitive plants, heating is only
-necessary for a few months of the year. To keep costs low, locate the
-greenhouse where it benefits from maximum free solar heat and provide
-shelter from strong winds. Inside the greenhouse, insulate to prevent
-heat loss and heat only the minimum area required.
-
-### Plastic Insulation
-
-The roof and sides can be lined with bubble-wrap insulation, which
-consists of thousands of air-filled bubbles acting as a double insulator.
-Plastic sheeting of any kind reduces light transmission considerably, so
-insulation should be removed as soon as the risk of frost passes. Divide
-the greenhouse with a plastic curtain to heat only the section
-containing plants that need protection.
-
-### Propagators
-
-A propagator reduces heating costs by restricting the heated area. These
-enclosed cases with built-in heating elements maintain a steady 65-70
-degrees F (18-21 degrees C) for [[cannabis-seed-germination-methods]]. A small propagator can
+greenhouses or as [[cannabis-seed-germination-methods]]. A small propagator can
 accommodate all the seeds needed by most gardens. Homemade versions can be
 made from a wooden box lined with heavy plastic and filled with expanded
 
@@ -118,8 +86,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[det]]
 - [[knf-fmc-floor-and-temperature-control]]
-- [[hamilton-slug-and-snail-control]]
 - [[hamilton-beneficial-insects-and-biological-pest-control]]
 - [[greg-green-temperature-and-humidity-control]]

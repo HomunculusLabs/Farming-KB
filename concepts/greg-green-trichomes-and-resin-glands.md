@@ -9,8 +9,7 @@ type: concept
 ---
 
 Trichomes are the tiny, crystal-like resin glands found on the surface of
-cannabis flowers and leaves. According to [[green-cannabis-plant-anatomy-calyx-pistil-bud-structure]]
-and [[delta-8-thc]], CBD, CBN, THCV, CBDV, CDC, and CBL.
+cannabis flowers and leaves. According to [[delta-8-thc]], CBD, CBN, THCV, CBDV, CDC, and CBL.
 
 Female plants produce the vast majority of trichomes, and the most potent
 type is called the stalked capitate trichome. These feature a visible stalk
@@ -40,12 +39,7 @@ males are present, often produce more abundant resin than pollinated crops.
  with tiny round heads. As flowering progresses, the gland heads swell
  and fill with cannabinoid rich oil. In the final weeks, trichomes may
  change color from clear to cloudy to amber, which many growers use as a
- visual indicator for [[cannabis-harvest-timing-visual-cues]].
-
-When a plant is in full flowering, the resin gland can explode or break,
-dropping resin down onto the leaves below. This gives even lower leaves a
-shiny, frosty appearance during late flowering. Resin can be rubbed off
-the bud using the fingers and rolled into small balls of [[cervantes-hand-rubbed-hash-charas]]
+ visual indicator for [[cervantes-hand-rubbed-hash-charas]]
 hashish, a practice that has been used for centuries.
 
 Fan leaves, located toward the bottom of the plant, are generally large
@@ -74,12 +68,7 @@ A plant with 20% THC at a level of 5 grown under poor conditions might
 only produce a fraction of what the same plant produces under optimal
 conditions, which could yield 70% THC at the same genetic level of 5. This
 means growers can significantly influence the total THC output through
-proper [[green-cannabis-lighting-guide]], nutrients, and care, even though
-the inherent potency ceiling is set by genetics.
-
-All strains vary in THC levels that come in different percentages. A good
-potent plant will have both levels and quantities very high. When examining
-a strain in a [[query-how-do-i-create-a-seed-bank-and-start-seed-saving]] catalogue, Green advises checking the THC levels
+proper [[query-how-do-i-create-a-seed-bank-and-start-seed-saving]] catalogue, Green advises checking the THC levels
 to understand how potent the plant is, while recognizing that some
 breeders may exaggerate their claims.
 
@@ -118,8 +107,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[charas]]
 - [[hashish]]
-- [[greg-green-mother-plants-and-clone-maintenance]]
 - [[greg-green-npk-and-nutrient-deficiency]]
 - [[greg-green-water-quality-and-hard-water]]

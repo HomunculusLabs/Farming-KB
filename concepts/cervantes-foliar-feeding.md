@@ -16,10 +16,7 @@ Foliar feeding is the practice of misting fertilizer
 solution directly onto plant foliage, where nutrients
 are absorbed through the leaves. Jorge Cervantes
 describes foliar feeding as a valuable technique for
-delivering a fast fix for [[hamilton-nutrient-deficiencies-and-treatment]] and
-supplementing regular root feeding programs.
-
-See also: [[cervantes-macronutrient-deficiency-toxicity]]
+delivering a fast fix for [[cervantes-macronutrient-deficiency-toxicity]]
 
 ## How Foliar Feeding Works
 
@@ -45,8 +42,7 @@ Foliar feeding is most useful in these situations:
 - **Providing immobile nutrients** such as calcium,
   boron, iron, manganese, molybdenum, and zinc that
   do not translocate well within the plant
-- **[[savory-supplemental-feeding-and-winter-management]] during flowering** when
-  [[plant-nutrient-uptake-mechanisms]] through roots slows, particularly
+- **[[plant-nutrient-uptake-mechanisms]] through roots slows, particularly
   for boron, calcium, iron, and potassium
 - **Reversing foliar nitrogen** by misting mother
   plants with plain water to leach nitrogen from
@@ -78,11 +74,7 @@ with urea-based fertilizers and keep them diluted.
 Urea also carries other nutrients into the plant
 when used as a carrier.
 
-See also: [[bud-rot-cannabis]]
-
-## See Also
-
-- [[lowenfels-nutrients-foliar-feeding-sap-analysis]]
+See also: [[lowenfels-nutrients-foliar-feeding-sap-analysis]]
 
 ## Practical Applications
 
@@ -113,8 +105,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[foliar-feeding]]
 - [[jorge-cervantes]]
-- [[solomon-liquid-fertilizers-and-foliar-feeding]]
 - [[lowenfels-nutrients-foliar-feeding-sap-analysis]]
 - [[teaming-with-nutrients-foliar-feeding-and-absorption]]

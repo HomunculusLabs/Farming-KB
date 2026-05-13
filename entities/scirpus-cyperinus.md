@@ -19,11 +19,9 @@ sources:
 
 ## Overview
 
-Scirpus cyperinus, commonly known as woolgrass or woolly bulrush, is a perennial herbaceous plant in the family Cyperaceae. Despite its common name, the species is a sedge rather than a true rush or bulrush, reflecting the historical [[growing-gourmet-pleurotus-sajor-caju-taxonomic-confusion]] within the Cyperaceae that has only been resolved through modern molecular systematics.
+Scirpus cyperinus, commonly known as woolgrass or woolly bulrush, is a perennial herbaceous plant in the family Cyperaceae. Despite its common name, the species is a sedge rather than a true rush or bulrush, reflecting the historical [[growing-gourmet-north-american-reishi-species]] sedges, recognised by its dense, woolly-looking inflorescences that give the plant a soft, fuzzy appearance during the late summer and autumn flowering period.
 
-The species is one of the more visually distinctive [[growing-gourmet-north-american-reishi-species]] sedges, recognised by its dense, woolly-looking inflorescences that give the plant a soft, fuzzy appearance during the late summer and autumn flowering period.
-
-The distinctive woolly inflorescences serve an important [[phytochrome-ecological-function-dusk-dawn-red-far-red-light-switch]] beyond [[mushroom-spore-visual-identification]]. The dense hairs surrounding each achene trap air bubbles, increasing the buoyancy of the diaspore and enhancing its ability to float on water surfaces for extended periods during hydrochorous dispersal.
+The distinctive woolly inflorescences serve an important [[mushroom-spore-visual-identification]]. The dense hairs surrounding each achene trap air bubbles, increasing the buoyancy of the diaspore and enhancing its ability to float on water surfaces for extended periods during hydrochorous dispersal.
 
 Woolgrass is a clonal species that spreads through both rhizomes and seed dispersal, forming dense tussocks and extensive stands in suitable wetland conditions. It is considered an important component of freshwater marsh and wet meadow communities across much of its range.
 
@@ -55,7 +53,7 @@ Populations in the southern Appalachians and the Ozark Highlands represent disju
 
 Typical habitats include freshwater marshes, wet meadows, sedge meadows, fens, swamp margins, stream banks, pond edges, roadside ditches, and low-lying areas subject to seasonal flooding. It tolerates a wide range of hydrological conditions, from shallow standing water to seasonally saturated soils.
 
-Woolgrass is often a dominant or codominant species in emergent marsh communities, particularly in areas with moderate [[ph-and-nutrient-availability-garden-soils]] and seasonal water-level fluctuations. It is a characteristic species of the [[carex-stricta]]–Scirpus cyperinus wet meadow association described in several midwestern state vegetation classifications.
+Woolgrass is often a dominant or codominant species in emergent marsh communities, particularly in areas with moderate [[carex-stricta]]–Scirpus cyperinus wet meadow association described in several midwestern state vegetation classifications.
 
 ## Ecology
 
@@ -63,28 +61,89 @@ Woolgrass provides significant ecological structure and function within wetland 
 
 Several bird species of conservation concern, including the Virginia rail, sora, and marsh wren, regularly nest within woolgrass stands. The dense vertical structure of the tussocks provides protection from predators and shelter from wind and weather.
 
-The fibrous root system and rhizome network contribute to soil stabilisation [[mollison-permaculture-two-arid-water-harvesting-and-erosion-control]] along stream banks and pond margins. This root mass also plays an important role [[comparison-soil-protozoa-vs-nematodes-in-nutrient-cycling]] within wetland systems, absorbing and storing nitrogen and phosphorus from the water column and soil substrate.
+The fibrous root system and rhizome network contribute to soil stabilisation [[comparison-soil-protozoa-vs-nematodes-in-nutrient-cycling]] within wetland systems, absorbing and storing nitrogen and phosphorus from the water column and soil substrate.
 
-[[cannabis-controlled-pollination-seed-production]] is abundant, with each plant producing thousands of small achenes that are dispersed by water, wind, and attachment to animal fur. The woolly perianth bristles aid in wind dispersal by increasing the surface area of the diaspore, allowing it to be carried considerable distances from the parent plant.
+[[tropical-rainforest-seedling-mycorrhiza-ecological-restoration]] projects.
 
-Seeds remain viable in the soil seed bank for several years, enabling populations to persist through periods of unfavourable conditions and to re-establish rapidly after disturbance events such as flooding, fire, or vegetation removal.
-
-Woolgrass is an early successional species in disturbed wetland habitats, readily colonising exposed mudflats, newly created wetlands, and areas recovering from disturbance. Its ability to establish rapidly from both seed and rhizome fragments makes it a valuable species for [[tropical-rainforest-seedling-mycorrhiza-ecological-restoration]] projects.
-
-The species is relatively tolerant of moderate water-quality degradation and can persist in wetlands affected by [[mycofiltration-of-agricultural-runoff]], although excessive nutrient loading tends to favour more competitive species such as cattails and reed canary grass over Scirpus cyperinus.
-
-The flowering period extends from June through September, with peak flowering and fruiting occurring in mid-summer. The woolly inflorescences persist through the autumn and into early winter, providing visual interest and continued habitat structure even after the foliage has senesced.
-
-In mixed-species wetland communities, Scirpus cyperinus commonly associates with other native sedges, rushes, and wetland grasses. It frequently grows alongside tussock sedge in sedge meadow communities and with broad-leaved cattail at the interface between emergent marsh and wet meadow zones.
-
-## Conservation Status
-
-Scirpus cyperinus is not considered a species of conservation concern across most of its range. It is common and widespread, with stable populations in the core of its distribution. However, like many wetland-dependent species, it has experienced local declines in areas where wetland drainage and conversion to agriculture have reduced available habitat.
-
-The species is listed as endangered in several northeastern states at the edge of its range, including Maine and New Hampshire, where wetland habitats are limited and increasingly fragmented. In these peripheral populations, habitat loss and competition from invasive species are the primary threats.
-
-At the continental scale, the ongoing loss of freshwater wetlands across North America represents the most significant long-term threat to Scirpus cyperinus and the diverse plant communities it supports. Conservation efforts focused on wetland protection and restoration directly benefit this and other native sedge species.
-
-[[dighton-fungal-responses-climate-change]] is expected to alter the hydrological regimes of many wetlands within the species' range, potentially creating both opportunities and challenges. Increased precipitation intensity may expand suitable habitat in some areas, while prolonged droughts and rising temperatures may reduce it in others.
+The species is relatively tolerant of moderate water-quality degradation and can persist in wetlands affected by [[dighton-fungal-responses-climate-change]] is expected to alter the hydrological regimes of many wetlands within the species' range, potentially creating both opportunities and challenges. Increased precipitation intensity may expand suitable habitat in some areas, while prolonged droughts and rising temperatures may reduce it in others.
 
 ## Cultivation and Uses
+
+## Overview
+
+Scirpus Cyperinus represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish scirpus cyperinus
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving scirpus extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Scirpus Cyperinus finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for scirpus cyperinus. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+scirpus cyperinus and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Scirpus Cyperinus has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of scirpus cyperinus into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also

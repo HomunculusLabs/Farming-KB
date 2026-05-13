@@ -43,25 +43,13 @@ The fruit is an achene with a short, curved beak. Seeds require 4–6 weeks of c
 
 Chromosome number is 2n = 16 in diploid wild forms. Most commercial cultivars are tetraploid (2n = 32), which contributes to their larger flower size and sturdier stems.
 
-The species is closely related to [[ranunculus-acris]] and R. bulbosus but is readily distinguished by its tuberous root system and more divided [[cannabis-leaf-morphology-and-phyllotaxy]].
+The species is closely related to [[cannabis-leaf-morphology-and-phyllotaxy]].
 
 ## Distribution and Habitat
 
 The species is native to the Mediterranean basin, occurring naturally in southern France, Italy, Greece, Turkey, Lebanon, Israel, and northwestern Africa. Populations are also recorded from Crete, Cyprus, and other eastern Mediterranean islands.
 
-It grows in well-drained, often rocky or sandy soils in full sun to light shade. [[mushroom-natural-habitats]] include garigue, open pine woodlands, fallow fields, and grassy slopes from sea level to approximately 800 meters.
-
-Soil preferences lean toward sandy or loamy substrates with good drainage. Heavy clay soils promote tuber rot and are unsuitable for both wild and cultivated populations.
-
-Rainfall in native habitats ranges from 400–800 mm annually, concentrated in the winter months. The species tolerates brief waterlogging during winter but requires dry summer conditions for tuber maturation.
-
-The Mediterranean growth cycle is autumnal: roots initiate growth with autumn rains, foliage develops through winter, and flowering occurs in spring (March–May). The plant enters summer dormancy as temperatures rise and soils dry.
-
-## Cultivation and Breeding
-
-Commercial cultivation centers on the Italian Riviera (Sanremo area), southern France, the Netherlands, and Israel. Total global cut-flower production exceeds 200 million stems annually.
-
-Tubers are planted in autumn at 5–8 cm depth in well-drained, fertile soil with pH 6.0–7.0. Optimal growing temperatures range from 10–18°C during the [[cervantes-vegetative-phase]].
+It grows in well-drained, often rocky or sandy soils in full sun to light shade. [[cervantes-vegetative-phase]].
 
 Spacing depends on the intended use: 10 × 15 cm for cut-flower production, 15 × 20 cm for garden display. Closer planting increases stem length but reduces flower count per plant.
 
@@ -73,18 +61,89 @@ Tubers are harvested after foliage dies back in summer and stored dry at 20–25
 
 Dehydration of tubers below 35% relative moisture content causes irreversible damage and reduces viability. Proper storage maintains tuber turgor and ensures uniform sprouting after planting.
 
-Common pests include aphids, spider mites, and thrips. [[botrytis-cinerea]] and [[fusarium-oxysporum]] are the most significant [[fungal-pathogens-in-agriculture]] commercial production.
-
-Propagation by seed is used primarily in breeding programs. Commercial production relies almost entirely on [[hamilton-vegetative-propagation]] through tuber division or [[cervantes-tissue-culture-micropropagation]].
-
-Tissue culture protocols using petal explants have been developed for rapid multiplication of elite cultivars. Somaclonal variation remains a challenge, with 5–10% of regenerants showing flower color or form mutations.
-
-## Ecology
-
-In its native Mediterranean habitat, Ranunculus asiaticus flowers from March to May, coinciding with peak pollinator activity. Primary pollinators include [[comparison-honey-bees-vs-native-solitary-bees]] (Anthophora, Andrena), hoverflies, and beetles.
+Common pests include aphids, spider mites, and thrips. [[fusarium-oxysporum]] are the most significant [[hamilton-vegetative-propagation]] through tuber division or [[comparison-honey-bees-vs-native-solitary-bees]] (Anthophora, Andrena), hoverflies, and beetles.
 
 The species is self-incompatible in most wild populations, promoting outcrossing and [[biodiversity-fungal-genetic-diversity]]. Seed set in cultivated double-flowered forms is typically very low due to the conversion of reproductive organs into tepals.
 
 Wild populations maintain moderate genetic diversity despite habitat fragmentation. Gene flow between isolated populations occurs primarily through insect-mediated pollen transfer over distances of up to 500 meters.
 
 Natural populations show considerable color polymorphism, with yellow, orange, and red forms co-occurring. This variation is maintained by pollinator preferences and local environmental conditions.
+
+## Overview
+
+Ranunculus Asiaticus represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish ranunculus asiaticus
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving ranunculus extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Ranunculus Asiaticus finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for ranunculus asiaticus. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+ranunculus asiaticus and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Ranunculus Asiaticus has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of ranunculus asiaticus into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also

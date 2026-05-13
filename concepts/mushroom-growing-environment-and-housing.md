@@ -12,7 +12,7 @@ created: 2026-05-11
 Successful mushroom cultivation depends on managing four critical
 environmental factors: temperature, humidity, light, and ventilation.
 Requirements shift significantly between the vegetative and reproductive
-phases of the mushroom life cycle.
+phases of the [[mushroom-life-cycle]].
 
 ### Temperature
 
@@ -22,7 +22,7 @@ phases of the mushroom life cycle.
   sharply outside this range; above 35°C, mycelial growth stops entirely.
 
 - **Fruiting Phase:** A significant temperature drop triggers fruiting. Most
-  oyster mushroom species fruit best at 10-20°C. Cold-weather strains may
+  [[oyster-mushroom-species]] fruit best at 10-20°C. Cold-weather strains may
   fruit at 5-15°C, while warm-weather strains require 15-25°C.
 
 ### Humidity
@@ -123,8 +123,6 @@ conditions, materials, and budgets:
   and material costs per unit.
 
 ## See Also
-- [[three-pillars-mushroom-cultivation-spawn-substrate-environment]]
 - [[cannabis-growing-environment-setup]]
-- [[mushroom-fruiting-environment]]
 - [[growing-gourmet-indoor-growing-environment]]
 - [[oyster-mushroom-fruiting-environment]]

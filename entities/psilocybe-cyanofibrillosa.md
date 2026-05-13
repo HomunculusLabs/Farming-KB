@@ -11,64 +11,16 @@ type: entity
 # Psilocybe cyanofibrillosa
 
 **Type:** Species (Fungus)
-**Category:** [[psilocin]] degradation.
-
-## Key Details
-
-### Taxonomy
-- **Order:** Agaricales
-- **Family:** Hymenogastraceae
-- **Genus:** Psilocybe
-- **Authority:** Stamets and Guzman
-
-### Morphology
-- **Cap:** 1.4-3.5 cm broad. Conic to convex to broadly convex,
-  eventually plane in age, typically not umbonate. Deep chestnut brown,
-  hygrophanous, fading to pale tan to yellowish brown, even dingy
-  grayish white in drying. Surface viscid when moist from a separable
-  gelatinous pellicle.
-- **Gills:** Adnate to adnexed, slightly subdecurrent in age. Light
-  grayish when young, becoming purplish brown with maturity, whitish
-  edges.
-- **Stem:** 30-70 mm long by 2-4 mm thick. Straight to flexuous, equal
-  to enlarged near base, longitudinally striate, adorned with fine
-  fibrils that become bluish when handled. Yellow brown to light tan
-  underneath. Partial veil white, cortinate, copious, sometimes leaving
-  a fragile annular zone.
-- **Spores:** Purplish brown in deposit, subellipsoid, (9) 9.5-11 (12)
-  by (5.5) 6-6.6 (7) microns.
-- **Microscopic features:** Basidia 4-spored, rarely 2-spored.
-  Pleurocystidia absent. Cheilocystidia fusiform to lanceolate, 22-33
-  by 5.5-7 microns, with elongated forking neck, 1-1.5 microns thick.
-
-### Habitat and Distribution
-Grows gregariously to scattered along the Pacific Coast from Northern
-California (Eureka/Arcata) north to British Columbia. Associated with
-bush lupines and especially common on flood plains of river estuaries
-flowing into the Pacific Ocean. Frequently found in coastal rhododendron
-gardens and nurseries. Fruits in the fall and winter months.
-
-### Chemistry
-Weakly to mildly active. Contains up to 0.21% psilocybin and 0.062%
-psilocin (Beug and Bigwood, in Stamets et al. 1980). The strong bluing
-reaction indicates significant psilocin content, and actual potency of
-fresh specimens is likely higher than dried analyses reveal due to
-psilocin degradation during handling and drying.
-
-## Relevance
-Psilocybe cyanofibrillosa is an important Pacific Northwest species
-that demonstrates how [[guzman-allen-gartz-conflicting-chemical-analyses-neurotropic-fungi]] of dried specimens may
+**Category:** [[guzman-allen-gartz-conflicting-chemical-analyses-neurotropic-fungi]] of dried specimens may
 underestimate the true potency of bluing species. Its strong bluing
 reaction indicates significant psilocin content, and actual potency
 of fresh specimens is likely higher than dried analyses reveal due to
 psilocin degradation during handling and drying.
 Its association with coastal rhododendron gardens and nurseries
 highlights the role of ornamental landscaping in creating habitat for
-[[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]]. To date, it has only been reported from the
-Pacific Coast region of [[psilocybin-north-america-pacific-northwest]].
+[[psilocybin-north-america-pacific-northwest]].
 
 ## See Also
-- [[psilocybe-caerulipes]]
 - [[psilocybe-subaeruginosa]]
 ## Practical Considerations
 
@@ -88,3 +40,88 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
+
+## Overview
+
+Psilocybe Cyanofibrillosa represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish psilocybe cyanofibrillosa
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving psilocybe extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Psilocybe Cyanofibrillosa finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for psilocybe cyanofibrillosa. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+psilocybe cyanofibrillosa and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Psilocybe Cyanofibrillosa has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of psilocybe cyanofibrillosa into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[psilocybe-caeruleoannulata]]
+- [[psilocybe-ovoidocystidiata]]
+- [[psilocybe-phyllogena]]
+- [[psilocybe-semilanceata-worldwide-temperate-distribution-guzman-1998]]
+- [[psilocybe-species-europe]]

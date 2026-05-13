@@ -22,13 +22,7 @@ sources:
 
 **Desmodium illinoense** is a perennial herbaceous legume in the family Fabaceae, commonly known as Illinois tick-trefoil or Illinois beggarlice.
 
-It is native to central and [[polypore-fungi-eastern-north-america]], ranging from Wisconsin and Minnesota south to Oklahoma and Arkansas, and east to Ohio and Indiana.
-
-The species is recognized by its tall, erect habit, trifoliolate leaves, and terminal racemes of pinkish-purple flowers that produce distinctive loments covered in hooked hairs.
-
-Among Desmodium species, it is one of the tallest and most robust, often towering above associated prairie forbs in late summer.
-
-Illinois tick-trefoil is an important component of tallgrass prairie communities and provides forage and cover for wildlife in native [[biodiversity-fungi-grassland-ecosystems]].
+It is native to central and [[biodiversity-fungi-grassland-ecosystems]].
 
 ## Taxonomy and Morphology
 
@@ -62,7 +56,7 @@ The species is most common in mesic to dry prairies, savannas, open woodlands, a
 
 It prefers well-drained loam to clay-loam soils with a pH of 5.5–7.0. It tolerates moderate drought but is less common on very sandy or very wet sites.
 
-Illinois tick-trefoil is frequently associated with dominant prairie grasses such as big bluestem ([[andropogon-gerardii]]) and Indian grass ([[sorghastrum-nutans]]).
+Illinois tick-trefoil is frequently associated with dominant prairie grasses such as big bluestem ([[sorghastrum-nutans]]).
 
 It is also found along roadsides, railroad rights-of-way, and in old fields undergoing succession to prairie vegetation.
 
@@ -72,18 +66,85 @@ It is also found along roadsides, railroad rights-of-way, and in old fields unde
 
 The hooked loment segments are an effective dispersal mechanism, attaching to the fur of mammals and feathers of birds for long-distance transport.
 
-The foliage provides moderate forage value for white-tailed deer, rabbits, and ground-nesting birds. [[coleman-winter-greens-nutritional-quality-cold-sweetening]] is highest during early growth stages.
-
-Several butterfly species use Desmodium as larval hosts, including the silver-spotted skipper (Epargyreus clarus) and the hoary edge (Achalarus lyciades).
-
-The dense foliage and tall growth form provide vertical structure and cover for ground-dwelling birds and small mammals within prairie communities.
-
-Seed production is abundant, with individual plants producing hundreds of loments per season, making it an important seed source for birds and small mammals.
-
-## Cultivation and Uses
-
-Illinois tick-trefoil is included in native seed mixes for [[comparison-prairie-restoration-vs-silvopasture]] throughout the tallgrass prairie region of the central United States.
+The foliage provides moderate forage value for white-tailed deer, rabbits, and ground-nesting birds. [[comparison-prairie-restoration-vs-silvopasture]] throughout the tallgrass prairie region of the central United States.
 
 Seed requires scarification for reliable germination, as the hard seed coat causes strong physical dormancy. Mechanical scarification or acid treatment is effective.
 
 Seeding rate for restoration is 2–4 kg/ha pure live seed, planted in early spring or as a dormant seeding in late fall.
+
+## Overview
+
+Desmodium Illinoense represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish desmodium illinoense
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving desmodium extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Desmodium Illinoense finds practical application in multiple design contexts.
+[[permaculture-principles]] guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for desmodium illinoense. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+desmodium illinoense and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Desmodium Illinoense has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of desmodium illinoense into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.

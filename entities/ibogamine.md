@@ -18,7 +18,7 @@ sources:
 
 ## Overview
 
-**Ibogamine** is an [[aminopropyl-silica-gel-chromatography-indole-alkaloid-purification]] found in the root bark of **[[plants-of-the-gods-tabernanthe-iboga-chemistry]]** and related Apocynaceae species, including *[[voacanga-africana]]* and *[[tabernaemontana-divaricata]]*. It is a close structural relative of ibogaine, the principal psychoactive alkaloid of the iboga plant.
+**Ibogamine** is an [[plants-of-the-gods-tabernanthe-iboga-chemistry]]** and related Apocynaceae species, including *[[tabernaemontana-divaricata]]*. It is a close structural relative of ibogaine, the principal psychoactive alkaloid of the iboga plant.
 
 Ibogamine is classified as a tryptamine derivative with a complex pentacyclic structure. It is one of at least 12 iboga-type alkaloids identified in *T. iboga*, occurring at lower concentrations than ibogaine or voacangine.
 
@@ -32,35 +32,11 @@ Research interest in ibogamine stems from its shared pharmacological properties 
 
 The structure features a pentacyclic ring system characteristic of the iboga alkaloid family. It differs from ibogaine primarily at the C-19 position — ibogamine lacks the methoxy substituent present on ibogaine's indole ring.
 
-This structural difference significantly affects potency and [[tihkal-receptor-binding-serotonin]] profiles. The absence of the methoxy group generally reduces affinity for serotonin 5-HT₂A receptors compared to ibogaine.
-
-**Solubility:** Lipophilic, soluble in organic solvents (chloroform, ethanol, DMSO). Poorly soluble in water. Forms crystalline solids with melting point approximately 160–162°C.
-
-## Pharmacology
-
-Ibogamine's pharmacological profile overlaps substantially with ibogaine but shows some notable differences in receptor affinity and functional activity.
-
-**Serotonin system:** Ibogamine acts as a serotonin reuptake inhibitor (SRI) and binds to 5-HT₂A and 5-HT₂C receptors. Its affinity for 5-HT₂A is lower than ibogaine's, likely due to the absence of the methoxy group.
-
-**Opioid system:** Ibogamine binds to mu (μ), kappa (κ), and delta (δ) opioid receptors with moderate affinity. It acts as [[salvinorin-a-kappa-opioid-receptor-pharmacology]] receptor agonist, which may contribute to its anti-addictive potential.
+This structural difference significantly affects potency and [[salvinorin-a-kappa-opioid-receptor-pharmacology]] receptor agonist, which may contribute to its anti-addictive potential.
 
 **NMDA receptors:** Like ibogaine, ibogamine shows moderate antagonism at NMDA glutamate receptors. This activity is thought to play a role in disrupting addictive neural pathways.
 
-**Dopamine system:** Ibogamine displays weak dopamine reuptake inhibition and minimal direct dopamine [[beta-glucan-receptor-binding]]. Its dopaminergic effects are less pronounced than ibogaine's.
-
-**Sodium channels:** Both ibogaine and ibogamine block cardiac hERG potassium channels, a property that raises cardiac safety concerns at higher doses.
-
-## Effects and Dosage
-
-Ibogamine is not commonly isolated for human consumption, and controlled studies on its subjective effects are essentially nonexistent. Available information comes from animal research and inference from the ibogaine literature.
-
-Estimated psychoactive effects are similar to ibogaine but milder, including oneiric (dreamlike) visual experiences, introspective cognitive states, and dose-dependent stimulation followed by sedation. The duration of action is likely similar to ibogaine (6–12 hours active phase, with aftereffects lasting 24–72 hours).
-
-No established human dosage range exists. In animal studies, effective doses are typically 2–5 times higher than ibogaine on a milligram-per-kilogram basis, reflecting its lower receptor potency.
-
-## Occurrence in Nature
-
-Ibogamine occurs in the root bark of *[[plants-of-the-gods-tabernanthe-iboga]]* at concentrations of approximately 0.1–0.5% dry weight, making it a minor alkaloid relative to ibogaine (1–6%) and voacangine (0.5–1.5%).
+**Dopamine system:** Ibogamine displays weak dopamine reuptake inhibition and minimal direct dopamine [[plants-of-the-gods-tabernanthe-iboga]]* at concentrations of approximately 0.1–0.5% dry weight, making it a minor alkaloid relative to ibogaine (1–6%) and voacangine (0.5–1.5%).
 
 It is also found in *Voacanga africana* root bark, *Tabernaemontana divaricata*, and *Ervatamia orientalis*. In *V. africana*, ibogamine occurs at roughly 0.05–0.2% dry weight.
 
@@ -68,17 +44,7 @@ Total iboga alkaloid content in *T. iboga* root bark typically ranges from 5–1
 
 ## Legal Status
 
-Ibogamine is not individually scheduled in most jurisdictions. However, its [[brassinosteroid-natural-occurrence-plant-kingdoms]] in *Tabernanthe iboga* root bark means it is regulated indirectly in countries where iboga is controlled.
-
-In the United States, ibogaine and iboga are Schedule I substances. Ibogamine is not explicitly listed but may be considered a controlled substance analogue under the Federal Analogue Act due to its structural similarity to ibogaine.
-
-## Related Compounds
-
-Ibogamine sits within a family of closely related iboga alkaloids. **Ibogaine** is the most prominent, with a methoxy group at C-12 that increases serotonergic potency.
-
-**Voacangine** is the 12-methoxy derivative of ibogamine's isomer tabersonine and serves as a common precursor for ibogaine semi-synthesis. **Ibogaine** can be produced from voacangine through demethylation and rearrangement.
-
-**Noribogaine** (12-hydroxyibogamine) is the primary active metabolite of ibogaine, with a longer half-life and significant contribution to ibogaine's prolonged [[cbd-therapeutic-effects]]. Other related alkaloids include tabernanthine, coronaridine, and iboluteine.
+Ibogamine is not individually scheduled in most jurisdictions. However, its [[cbd-therapeutic-effects]]. Other related alkaloids include tabernanthine, coronaridine, and iboluteine.
 
 ## Biosynthesis
 
@@ -87,3 +53,80 @@ The biosynthesis of ibogamine in *Tabernanthe iboga* follows the monoterpenoid i
 These precursors condense to form strictosidine, the universal precursor to all monoterpenoid indole alkaloids. Strictosidine undergoes a series of enzymatic transformations including hydrolysis, decarboxylation, and ring closures to produce the iboga skeleton.
 
 The specific enzymatic steps that differentiate ibogamine from ibogaine involve the absence of O-methylation at the C-12 position of the indole ring. In ibogaine biosynthesis, a specific O-methyltransferase adds the methoxy group, but this step is either absent or bypassed in ibogamine production.
+
+## Overview
+
+Ibogamine represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish ibogamine
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving ibogamine extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Ibogamine finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for ibogamine. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+ibogamine and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Ibogamine has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of ibogamine into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.

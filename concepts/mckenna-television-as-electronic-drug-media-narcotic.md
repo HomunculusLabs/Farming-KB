@@ -1,29 +1,7 @@
 ---
 title: Television as Electronic Drug — Media as Narcotic
 source: mckenna_t-food_of_the_gods.md
-author: [[terence-mckenna]]
-topics: media theory, television, social critique, consciousness, addiction
----
-
-# Television as Electronic Drug — Media as Narcotic
-
-Terence McKenna advanced the provocative thesis that television functions
-as a pharmacological agent — an "electronic drug" that alters consciousness,
-induces dependency, and serves the interests of social control. Drawing on
-the work of media theorists and his own analysis of the relationship
-between [[cultural-evolution-and-psychoactive-substances]] and [[entheogenic-churches-cultural-transformation-movement-metzner]], McKenna argued
-that television represents the most widespread and insidious form of
-drug abuse in modern civilization.
-
-## The Medium Is the Message
-
-McKenna's analysis builds on Marshall McLuhan's foundational insight that
-the form of a medium embeds itself in the message, creating a symbiotic
-relationship by which the medium influences how the actual message is
-perceived. Television does not merely convey content; it restructures
-consciousness itself. The flickering cathode-ray tube, the passive
-posture of the viewer, the segmentation of experience into commercial
-intervals — all of these [[metzner-shamanic-ceremony-versus-psychotherapy-structural-features]] constitute the drug
+author: [[cultural-evolution-and-psychoactive-substances]] and [[metzner-shamanic-ceremony-versus-psychotherapy-structural-features]] constitute the drug
 experience, regardless of whether the program is a sitcom, a news
 broadcast, or a nature documentary.
 
@@ -105,30 +83,6 @@ living world that preceded the rise of literacy, urbanization, and
 electronic media. Psychedelic plants, in his view, were the original
 technologies for accessing this mode of consciousness, and their
 suppression was a necessary precondition for the establishment of
-[[dominator-culture-and-partnership-society]].
-
-The archaic revival did not mean a literal return to Stone Age
-conditions but a recovery of the cognitive and perceptual capacities
-that industrial culture has atrophied. McKenna believed that the
-psychedelic experience, properly understood and integrated, could
-serve as an antidote to the electronic narcotic of television by
-restoring the viewer's capacity for critical awareness, direct
-experience, and authentic relationship.
-
-## Implications for the Digital Age
-
-McKenna's analysis, formulated in the era of broadcast television,
-acquires new urgency in the age of social media, algorithmic content
-feeds, and immersive digital environments. The electronic drug has
-evolved from a passive medium to an interactive one, from a
-one-to-many broadcast to a personalized stream. The basic pharmacology
-remains the same: consciousness is altered, dependency is cultivated,
-and attention is harvested for commercial purposes. The dose has merely
-been refined.
-
-## See Also
-
-- [[mckenna-the-kingdom-of-fungi]]
-- [[mckenna-club-des-hachischins-and-nineteenth-century-literary-hashish]]
+[[mckenna-the-kingdom-of-fungi]]
 - [[mckenna-ayahuasca-healing-icaros-sound-suggestion]]
 - [[mckenna-food-of-the-gods-thesis]]

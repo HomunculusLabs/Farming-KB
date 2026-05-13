@@ -29,9 +29,9 @@ sources:
 
 **Tuber borchii** Vittad., commonly known as the **bianchetto truffle** or **whitish truffle**, is an ectomycorrhizal ascomycete fungus in the family Tuberaceae.
 
-Native to the Mediterranean basin, it is harvested commercially in Italy, France, Spain, and increasingly in cultivated plantations across Europe, [[psilocybin-north-america-pacific-northwest]], and the [[guzman-allen-gartz-africa-southern-hemisphere-underexplored-neurotropic-fungi]].
+Native to the Mediterranean basin, it is harvested commercially in Italy, France, Spain, and increasingly in cultivated plantations across Europe, [[guzman-allen-gartz-africa-southern-hemisphere-underexplored-neurotropic-fungi]].
 
-Unlike the more celebrated *Tuber melanosporum* (Périgord black truffle) and *T. magnatum* (white truffle), the bianchetto occupies a broader ecological niche and tolerates a wider range of host trees and soil conditions, making it both more accessible to foragers and more amenable to cultivation.
+Unlike the more celebrated *[[tuber-melanosporum]]* (Périgord black truffle) and *T. magnatum* (white truffle), the bianchetto occupies a broader ecological niche and tolerates a wider range of host trees and soil conditions, making it both more accessible to foragers and more amenable to cultivation.
 
 ## Taxonomy and Morphology
 
@@ -53,21 +53,7 @@ It forms ectomycorrhizal associations with a broad host range, including **Pine*
 
 The species favors sandy or sandy-loam soils with pH 6.5–8.0, good drainage, and moderate organic matter. It fruits in autumn through early spring (October–March), typically at 2–15 cm soil depth.
 
-Compared to *T. magnatum*, the bianchetto tolerates drier conditions and a wider [[query-what-is-the-ideal-temperature-range-for-growing-cannabis]], partly explaining its broader geographic distribution.
-
-The species has been successfully introduced outside its native range through inoculated plantations. In New Zealand, *T. borchii* has naturalized in *Pinus radiata* forests and is harvested commercially on both North and South Islands.
-
-In North America, experimental plantations in California, Oregon, and the southeastern United States have produced fruiting bodies, though yields remain lower than in Mediterranean climates.
-
-Climate change may expand the potential cultivation range northward, as warmer winters in traditionally marginal areas become more suitable for truffle production.
-
-## Cultivation
-
-*T. borchii* was the first truffle species successfully cultivated at commercial scale, with documented plantations in Italy dating to the 1970s. It remains the most reliable truffle for orchard cultivation.
-
-Inoculated seedlings of *Pinus pinea*, *Corylus avellana*, or *Quercus* spp. are planted at 3–5 m spacing. Fruiting typically begins 4–7 years after planting, with peak production at 10–15 years.
-
-Yields in managed orchards range from 10–50 kg/ha/year, varying with soil quality, host species, and [[fukuoka-orchard-management-detailed]] practices.
+Compared to *T. magnatum*, the bianchetto tolerates drier conditions and a wider [[fukuoka-orchard-management-detailed]] practices.
 
 Irrigation during summer drought significantly improves yields, as mycelial growth and fruiting initiation require adequate soil moisture.
 
@@ -88,3 +74,77 @@ Nutritionally, bianchetto truffles are low in calories but contain modest amount
 As an obligate ectomycorrhizal symbiont, *T. borchii* depends entirely on living host roots for carbohydrate supply. The mycorrhizal mantle surrounds fine root tips, facilitating bidirectional [[arbuscule-isolation-and-nutrient-exchange-mechanisms]].
 
 The fungus provides the host with enhanced phosphorus uptake and protection against certain soil-borne pathogens. In return, the host supplies photosynthate (primarily glucose and fructose) to the fungal mycelium.
+
+## Overview
+
+Tuber Borchii represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish tuber borchii
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving tuber extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Tuber Borchii finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for tuber borchii. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+tuber borchii and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Tuber Borchii has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of tuber borchii into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource

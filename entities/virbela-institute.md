@@ -83,7 +83,10 @@ This mirrors the permaculture design process: observe, analyse, design, implemen
 
 ## Cross-References
 
-- [[flowform]] — the water aeration system developed by the institute
 - [[bill-mollison]] — cites the Virbela Institute as an example of applied pattern
-- [[herb-spiral]] — another example of three-dimensional pattern application in permaculture
 - [[mulch-pit-garden]] — related water-efficient design pattern
+
+## See Also
+
+- [[permaculture-institute]]
+- [[jadam-natural-pesticide-institute-and-research]]

@@ -59,17 +59,7 @@ integration.
 
 ## Psychedelic Therapy
 
-Psychedelic therapy, the favored treatment approach in the [[dmt-containing-plants-united-states-halpern]],
-involved administering a single very high LSD dose (0.3 to 0.6 mg) after
-correspondingly intensive psychological preparation of the patient. This method
-attempted to induce a mystical-religious experience through the shock effects of
-LSD. This experience could then serve as a starting point for a restructuring
-and curing of the patient's personality in the accompanying psychotherapeutic
-treatment.
-
-The term "psychedelic," which can be translated as "mind-manifesting" or
-"mind-expanding," was introduced by [[hofmann-lsd-clinical-research-early-studies]]
-- [[cannabis-and-brain-cancer-research]]
+Psychedelic therapy, the favored treatment approach in the [[hofmann-lsd-clinical-research-early-studies]]
 - [[plant-micronutrients-and-their-essential-functions]]
 ## Practical Considerations
 
@@ -119,8 +109,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[lsd]]
 - [[doc]]
-- [[dmt]]
 - [[hofmann-lsd-clinical-research-early-studies]]
 - [[hofmann-lsd-sandoz-research-program]]

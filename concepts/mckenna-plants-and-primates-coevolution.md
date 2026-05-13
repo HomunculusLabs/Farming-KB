@@ -23,11 +23,7 @@ Languages appear invisible to the people who speak them, yet they create the fab
 
 The strategy of early hominid omnivores, McKenna suggests, was to eat everything that seemed foodlike and to vomit whatever was unpalatable. This exposed early humans to an ever-shifting chemical equilibrium. An organism may regulate chemical input through internal processes, but ultimately mutagenic influences increase and a greater number of genetically variant individuals are offered up to natural selection.
 
-The results are accelerated changes in neural organization, states of consciousness, and behavior. No change is permanent; each gives way to yet another. All flows. McKenna proposes that this constant exposure to novel plant chemistry was the engine driving the rapid expansion of the human brain during the Pleistocene — each new psychoactive encounter potentially selected for individuals with greater neural plasticity and sensitivity to [[weil-the-natural-mind-altered-states-normalcy]].
-
-## Primate Self-Medication
-
-A key empirical support for McKenna's thesis comes from primatological research on chimpanzee self-medication. At Gombe Stream National Park in Tanzania, researchers found that a particular species of leaf — *Aspilia* — kept appearing undigested in chimpanzee dung. Rather than eating their usual [[holzer-wild-fruit-trees-and-hedges]], the chimps would walk twenty minutes or more to a site where *Aspilia* grew, place their lips over a leaf, hold it in their mouths, roll it around for a few moments, then swallow it whole. In this way as many as thirty small leaves might be eaten.
+The results are accelerated changes in neural organization, states of consciousness, and behavior. No change is permanent; each gives way to yet another. All flows. McKenna proposes that this constant exposure to novel plant chemistry was the engine driving the rapid expansion of the human brain during the Pleistocene — each new psychoactive encounter potentially selected for individuals with greater neural plasticity and sensitivity to [[holzer-wild-fruit-trees-and-hedges]], the chimps would walk twenty minutes or more to a site where *Aspilia* grew, place their lips over a leaf, hold it in their mouths, roll it around for a few moments, then swallow it whole. In this way as many as thirty small leaves might be eaten.
 
 Biochemist Eloy Rodriguez of the University of California at Irvine isolated the active principle — a reddish oil named thiarubrine-A. Neil Towers of the University of British Columbia found that this compound could kill common bacteria in concentrations of less than one part per million. Herbarium records showed that African peoples used *Aspilia* leaves to treat wounds and stomachaches. Of the four species native to Africa, indigenous peoples used only three — the same three species used by the chimpanzees.
 
@@ -41,13 +37,9 @@ Symbiotic relationships can be very tightly bound genetically or somewhat more o
 
 ## Alkaloids as Essential Metabolites
 
-McKenna challenges the conventional view that alkaloids — including all the major hallucinogens — are "[[antifungal-secondary-metabolites-coprophilous-fungi]]" produced by plants as defense mechanisms. He notes that alkaloids are formed in the greatest amounts in plant tissues that are most active in overall metabolism, and they fluctuate in both concentration and rate of metabolic decay. They are not inert end products but are in a dynamic state, suggesting they are essential to the life and survival strategy of the organism in ways not yet fully understood.
+McKenna challenges the conventional view that alkaloids — including all the major hallucinogens — are "[[query-can-you-reveg-a-cannabis-plant-after-harvest]]
 
-One possibility McKenna raises is that some of these compounds function as exopheromones — chemical messengers that do not act among members of a single species but act across species lines, allowing a small group of individuals to affect a community or an entire biome. This concept is explored more fully in his discussion of the [[query-can-you-reveg-a-cannabis-plant-after-harvest]]
-
-- [[mckenna-transcendent-other-and-exopheromones]]
 - [[mckenna-nostalgia-for-paradise]]
-- [[consciousness-and-psychedelics]]
 - [[mckenna-diet-symbiosis-human-evolution]]
 ## Practical Considerations
 

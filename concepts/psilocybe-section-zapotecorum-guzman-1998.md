@@ -11,7 +11,7 @@ tags: [mycology, psilocybe, taxonomy, zapotecorum, neurotropic-fungi, distributi
 # Psilocybe Section Zapotecorum: Taxonomy and Distribution
 
 Section Zapotecorum is one of the most important taxonomic sections within
-the genus Psilocybe, named after the type species Psilocybe zapotecorum.
+the genus Psilocybe, named after the type species [[psilocybe-zapotecorum]].
 This section contains species of significant ethnopharmacological importance,
 including several used ceremonially by indigenous Mesoamerican peoples. The
 section's biogeographical distribution provides key evidence for understanding
@@ -143,8 +143,6 @@ semilanceata notably absent from Mexico despite circumglobal distribution.
 
 ## Related Concepts
 
-- [[psilocybe-zapotecorum]] - type species of the section
 - [[psilocybe-aucklandii]] - trans-Pacific connection
-- [[neurotropic-fungi-new-guinea-melanesia-indigenous-use-guzman-1998]] - parallel indigenous use center
 - [[psilocybe-southern-hemisphere-origin-hypothesis]] - biogeographical context
 - [[psilocybe-mexicana]] - Section Mexicanae comparison species

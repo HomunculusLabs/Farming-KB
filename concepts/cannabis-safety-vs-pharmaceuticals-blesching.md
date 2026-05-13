@@ -1,6 +1,6 @@
 ---
 title: Cannabis Safety Vs Pharmaceuticals Blesching
-source: [[uwe-blesching]], The [[blesching-cannabis-health-index-autoimmune-conditions]] (2015)
+source: blesching-cannabis-health-index-autoimmune-conditions (2015)
 tags: [cannabis-safety, pharmaceutical-comparison, fda, mortality, harm-reduction, evidence-based-medicine, cannabis]
 ---
 
@@ -8,7 +8,7 @@ tags: [cannabis-safety, pharmaceutical-comparison, fda, mortality, harm-reductio
 
 ## Overview
 
-Uwe Blesching's *The [[blesching-cannabis-health-index-cannabinoid-terpene-synergy]]* places [[blesching-cannabis-safety-adverse-effects-evidence]] in
+Uwe Blesching's *The [[blesching-cannabis-safety-adverse-effects-evidence]] in
 the context of broader pharmaceutical risk, arguing that the plant's
 safety profile is dramatically more favorable than commonly prescribed
 alternatives. Drawing on FDA data, CDC mortality statistics, and his
@@ -32,45 +32,7 @@ compared to mortality data for other substances:
 ## Cannabis vs Other Drugs in Emergency Context
 
 Blesching's 20 years of emergency medical service experience provides
-anecdotal but telling context for [[blesching-cannabis-safety-profile-adverse-effects-and-overdose-risk]]. He ranks drugs by the
-frequency of 911 emergency calls they generate:
-
-1. **Nicotine** (tobacco) — most frequent, due to lasting and serious
-   organ damage from chronic use
-2. **Alcohol** — second most frequent, from acute intoxication, accidents,
-   and chronic disease
-3. **Heroin** — frequent overdose events
-4. **Stimulants** — cocaine, crack, methamphetamine, diet pills
-5. **PCP** — unpredictable violent behavior
-6. **Psychogenic substances** — LSD, ecstasy, psilocybin (occasional calls)
-7. **Cannabis** — virtually no 911 calls for exclusive cannabis use
-
-Many government statistics report large numbers of "cannabis-related"
-ER visits, but closer examination reveals that the majority involve
-cannabis combined with other drugs or are anxiety-related episodes, not
-physiological emergencies.
-
-## FDA Comparative Study
-
-An FDA report compared marijuana to seventeen common FDA-approved
-pharmaceutical drugs used to treat similar symptoms and conditions:
-
-- Between 1997 and 2005: zero deaths from exclusive cannabis use
-- Same period: 10,008 deaths from the 17 comparison pharmaceuticals
-- The comparison drugs included common pain relievers, anti-nausea
-  medications, muscle relaxants, anti-anxiety drugs, and
-  antidepressants
-
-This data suggests that cannabis carries a considerably reduced risk of
-adverse side effects, including death, compared to pharmaceutical
-alternatives that physicians routinely prescribe.
-
-## The Vioxx Scandal and Evidence-Based Medicine
-
-Blesching uses the Vioxx (rofecoxib) scandal to illustrate systemic
-problems with pharmaceutical safety evaluation:
-
-- Vioxx was approved for [[blesching-cannabis-rheumatoid-arthritis]] but quickly prescribed
+anecdotal but telling context for [[blesching-cannabis-rheumatoid-arthritis]] but quickly prescribed
   off-label for numerous other conditions
 - Before the medical community recognized the danger, Vioxx caused an
   estimated 55,000 to 500,000 deaths from heart attacks and strokes
@@ -117,8 +79,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[uwe-blesching]]
 - [[psilocybin]]
-- [[pcp]]
 - [[cocaine]]
 - [[nicotine]]

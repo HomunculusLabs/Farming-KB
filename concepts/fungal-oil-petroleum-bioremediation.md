@@ -24,9 +24,7 @@ hydrocarbon classes:
 - **Aliphatic hydrocarbons** -- straight-chain and branched alkanes
   (relatively easily degraded)
 - **Cycloalkanes** -- cycloparaffins of varying ring sizes
-- **Monocyclic [[singh-fungal-biodegradation-of-polycyclic-aromatic-hydrocarbons]]** (MAHs) -- BTEX compounds
-  (benzene, toluene, ethylbenzene, xylenes)
-- **[[staycare-fungal-degradation-of-polycyclic-aromatic-hydrocarbons]]** (PAHs) -- the most persistent
+- **Monocyclic [[staycare-fungal-degradation-of-polycyclic-aromatic-hydrocarbons]]** (PAHs) -- the most persistent
   fraction (2-6 fused rings)
 - **Resins and asphaltenes** -- polar, high-molecular-weight components
   (most recalcitrant)
@@ -40,8 +38,6 @@ biodegradable; asphaltenes are least.
 Numerous fungi can utilize aliphatic hydrocarbons as sole carbon
 sources:
   - "raw/papers/elaine-ingham-phd-the-field-guide-for-actively-aerated-com.md"
-- **[[staycare-cunninghamella-elegans-in-bioremediation]]** -- degrades n-alkanes from C10 to C32;
-  optimal chain length C14-C16
 - **[[aspergillus-niger]], A. fumigatus, A. terreus** -- alkane oxidation
   capabilities
 - **Cladosporium, Penicillium, Fusarium** -- common soil isolates with
@@ -63,14 +59,7 @@ sources:
 The most studied oil spill bioremediation effort provided key lessons:
 - Biostimulation with fertilizer nutrients enhanced biodegradation
   of oil on shorelines
-- Indigenous microbial populations (both [[query-what-is-the-difference-between-bacterial-and-fungal-dominant-soil]])
-  responded to nutrient addition
-- Oil composition changes over time favored more resistant aromatic
-  fractions
-
-### Deepwater Horizon (2010)
-The Deepwater Horizon spill released approximately 4.9 million barrels
-of crude oil. [[biodiversity-fungi-soil-fungal-communities]] in deep-sea sediments showed
+- Indigenous microbial populations (both [[biodiversity-fungi-soil-fungal-communities]] in deep-sea sediments showed
 significant shifts in composition following the spill.
 - Cladosporium and Penicillium species dominated oiled sediment
   communities
@@ -84,41 +73,78 @@ significant shifts in composition following the spill.
 - Nutrient addition (biostimulation) is often more effective than
   organism addition (bioaugmentation)
 - Lignocellulosic carriers (sawdust, wood chips) serve dual purposes
-  as inoculum carrier and [[pressure-cooker-sterilisation-fungal-substrate]]
+  as inoculum carrier and [[dom]]
+- [[surfactant-enhanced-fungal-bioremediation]]
+- [[singh-cost-analysis-fungal-bioremediation]]
 
-## Enzyme Systems in Petroleum Degradation
+## Overview
+
+Fungal Oil Petroleum Bioremediation represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish fungal oil petroleum bioremediation
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving fungal extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
 
 ## Practical Applications
 
-The principles and techniques discussed here have wide-ranging applications
-across multiple disciplines and contexts. Practitioners and researchers
-continue to explore new ways to integrate these concepts into modern practice,
-adapting traditional knowledge to contemporary challenges and opportunities.
+Fungal Oil Petroleum Bioremediation finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
 
-## Key Considerations
+## Management and Implementation
 
-Several important factors influence the effectiveness and outcomes described
-in this topic. Understanding these considerations helps practitioners make
-informed decisions and avoid common pitfalls. Environmental conditions,
-timing, and material selection all play critical roles.
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for fungal oil petroleum bioremediation. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+fungal oil petroleum bioremediation and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
 
 ## Historical Context
 
-The historical development of this subject reflects centuries of accumulated
-knowledge and practical experience. From traditional methods passed down
-through generations to modern scientific approaches, the evolution continues
-to inform current best practices and research directions.
+Fungal Oil Petroleum Bioremediation has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
 
-## Common Challenges
+## Integration Strategies
 
-Practitioners frequently encounter several challenges when working with
-these concepts. Climate variability, resource limitations, and knowledge
-gaps can all affect outcomes. Addressing these challenges requires patience,
-observation, and a willingness to adapt approaches based on results.
+Successful integration of fungal oil petroleum bioremediation into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
 
-## See Also
-- [[dom]]
-- [[mycoremediation]]
-- [[surfactant-enhanced-fungal-bioremediation]]
-- [[genetic-engineering-fungal-bioremediation]]
-- [[singh-cost-analysis-fungal-bioremediation]]
+## Challenges and Solutions

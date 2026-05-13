@@ -14,9 +14,7 @@ type: query
 Preventing mold and mildew in cannabis requires managing humidity below 50%
 RH during flowering, ensuring adequate airflow with oscillating fans and
 exhaust ventilation, maintaining plant spacing for light penetration, and
-applying preventive biological controls like [[powdery-mildew-cannabis|powdery mildew]] appears as white powdery spots on leaf surfaces and
-thrives in temperatures between 68 and 80 degrees Fahrenheit with humidity
-above 55%. [[cannabis-indoor-ventilation-setup]] should include an
+applying preventive biological controls like [[cannabis-indoor-ventilation-setup]] should include an
 exhaust fan rated for the grow room volume, pulling stale air out and
 creating negative pressure that draws fresh air in through intake ports.
 Inline fans with carbon filters serve double duty by also controlling odor.
@@ -26,39 +24,17 @@ the same objectives without mechanical exhaust systems.
 
 Plant architecture plays a major role in mold prevention. Dense, bushy
 canopies trap humidity and block light from lower growth, creating dark, damp
-microclimates ideal for [[bloomfield-fungal-pathogens-and-parasites]]. Techniques like
-[[cannabis-training-techniques]]
+microclimates ideal for [[cannabis-training-techniques]]
 open up the plant structure so air and light penetrate evenly throughout the
 canopy. Removing dead or yellowing leaves eliminates breeding grounds for
 pathogens. Maintaining adequate spacing between plants, typically one to two
-square feet per plant depending on [[query-how-to-choose-the-right-pot-size-for-cannabis]], prevents the canopy from
-becoming a solid wall of foliage that restricts [[stamets-growing-room-air-circulation-co2-management]].
+square feet per plant depending on [[stamets-growing-room-air-circulation-co2-management]].
 
 Biological controls offer an additional layer of protection that is
-particularly valuable for organic and [[trichoderma-harzianum|Trichoderma]] species colonize root zones and leaf
-surfaces, competing with pathogenic fungi for space and nutrients while
-producing antifungal compounds that suppress disease organisms. [[cannabis-indoor-ventilation-setup|exhaust ventilation]]
-- Open up the canopy with [[trichoderma-harzianum|Trichoderma]] and [[query-how-do-i-grow-horseradish-and-prevent-it-from-spreading]] Questions
-- [[query-what-causes-cannabis-bud-rot-and-how-to-prevent-it]]
+particularly valuable for organic and [[cannabis-indoor-ventilation-setup|exhaust ventilation]]
+- Open up the canopy with [[query-how-do-i-grow-horseradish-and-prevent-it-from-spreading]] Questions
 - [[query-how-do-i-use-trichoderma-for-plant-disease-prevention]]
-- [[query-how-to-brew-a-fungal-dominant-compost-tea]]
-## Practical Considerations
-
-When working with How Do I Prevent Mold and Mildew in My Cannabis Grow?, several practical factors should be
-carefully considered to achieve optimal results. These include
-the specific conditions of the implementation context, available
-resources, timing requirements, and the interactions between this
-topic and other elements of the broader system. A holistic view
-that considers these interconnections produces better outcomes.
-
-Environmental conditions such as temperature, moisture, and
-seasonal patterns significantly influence results. Monitoring these
-variables and adapting practices accordingly is essential for success.
-The most effective practitioners develop keen observation skills and
-respond flexibly to changing conditions rather than following rigid
-protocols regardless of circumstances or local variation.
-
-[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
+- [[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.

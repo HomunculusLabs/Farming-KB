@@ -14,17 +14,12 @@ sources:
   - Brodo, I.M., Sharnoff, S.D. & Sharnoff, S. (2001). Lichens of psilocybin-north-america-pacific-northwest. Yale University Press.
   - Llano, G.A. (1950). "A Monograph of the Lichen Family Umbilicariaceae in the Western Hemisphere." Office of Naval Research.
   - Hestmark, G. (1990). "Umbilicaria in Europe." Sommerfeltia 11: 1-75.
-  - Nash, T.H. III et al. (2002). [[fungi-in-the-environment-lichen-biology]]. Cambridge University Press.
-  - Clayden, S.R. (2010). "Umbilicaria." In: Brodo, I.M. (ed.), Lichens [[berry-growing]], Supplement.
+  - Nash, T.H. III et al. (2002). berry-growing, Supplement.
 ---
 
 ## Overview
 
-Umbilicaria mammulata, commonly known as the smooth rock tripe or elephant hide lichen, is one of the largest foliose lichens in [[polypore-fungi-eastern-north-america]] America. It forms extensive, leathery thalli on exposed rock surfaces, with individual specimens sometimes exceeding 30 centimeters in diameter.
-
-The species is a member of the family Umbilicariaceae, a group of saxicolous lichens commonly called rock tripe that are characterized by their single central holdfast and loosely attached thallus. Umbilicaria mammulata is among the most conspicuous and widely distributed species in this family.
-
-Rock tripe has a long history of use as emergency food by explorers, Indigenous peoples, and soldiers. During the siege of Boston in 1775, colonial troops reportedly survived on Umbilicaria collected from local rock outcrops, earning the lichen a place in [[palmer-early-american-mycology-nineteenth-century]] history.
+Umbilicaria mammulata, commonly known as the smooth rock tripe or elephant hide lichen, is one of the largest foliose lichens in [[palmer-early-american-mycology-nineteenth-century]] history.
 
 ## Taxonomy and Morphology
 
@@ -62,28 +57,94 @@ In the Great Smoky Mountains National Park, Umbilicaria mammulata is among the m
 
 The species requires good air quality and is sensitive to sulfur dioxide pollution. Historical declines were documented in areas near industrial centers, though populations have recovered in many regions following air quality improvements since the mid-twentieth century.
 
-Recovery rates following pollution abatement have been documented in several eastern [[growing-gourmet-north-american-reishi-species]] studies. Full recolonization of previously denuded rock surfaces may require 30 to 50 years, depending on the proximity of source populations and the degree of substrate alteration from acid deposition.
-
-## Ecology and Conservation
-
-Umbilicaria mammulata is one of the dominant saxicolous lichens on exposed rock surfaces in the eastern deciduous forest region. Its large thallus size and high biomass make it a significant component of rock-face ecosystems.
-
-The species provides habitat for a variety of microarthropods, including oribatid mites, collembolans, and tardigrades. These organisms inhabit the spaces between the thallus and the rock surface, where humidity remains elevated and temperatures are moderated by the insulating properties of the lichen.
-
-Umbilicaria mammulata contributes to biological weathering of rock surfaces through both physical and chemical mechanisms. The thallus expands and contracts with moisture changes, exerting mechanical stress on the substrate, while lichen acids slowly dissolve [[fungal-community-profiling-rock-mineral-surfaces-gadd]], contributing to soil formation.
+Recovery rates following pollution abatement have been documented in several eastern [[fungal-community-profiling-rock-mineral-surfaces-gadd]], contributing to soil formation.
 
 The rate of biological weathering by Umbilicaria species has been estimated at 0.01 to 0.1 millimeters of rock surface per century. While individually modest, the cumulative effect across extensive rock surfaces over geological time scales contributes significantly to pedogenesis in montane landscapes.
 
 The species serves as an important food source for terrestrial snails and slugs in moist forest habitats. Several species of land snails are specialized grazers of Umbilicaria, feeding on both the algal layer and the fungal tissue.
 
-[[fungal-biodiversity-conservation-status]] is currently secure across most of the species' range. However, local populations can be affected by rock climbing, quarrying, and recreational development that removes or disturbs rock surfaces. Air quality remains the primary long-term conservation concern.
-
-## Similar Species
-
-Umbilicaria mammulata is most easily confused with Umbilicaria vellea, which has a distinctly papillose upper surface and a different chemistry dominated by vellelic acid. Umbilicaria vellea also tends to occur on calcareous substrates where U. mammulata is absent.
-
-Umbilicaria muhlenbergii is a smaller species that typically occurs at lower elevations and on a wider range of rock types. It can be distinguished by its smaller thallus size, thinner texture, and the presence of rhizinose structures on the lower surface.
-
-The European Umbilicaria polyphylla is morphologically similar but has a different [[geographic-distribution-of-psilocybe-species]] and chemical profile. Umbilicaria deusta, the peppered rock tripe, has characteristic black dots on the upper surface and a much thinner thallus.
+[[geographic-distribution-of-psilocybe-species]] and chemical profile. Umbilicaria deusta, the peppered rock tripe, has characteristic black dots on the upper surface and a much thinner thallus.
 
 ## Chemistry and Traditional Use
+
+## Overview
+
+Umbilicaria Mammulata represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish umbilicaria mammulata
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving umbilicaria extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Umbilicaria Mammulata finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for umbilicaria mammulata. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+umbilicaria mammulata and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Umbilicaria Mammulata has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of umbilicaria mammulata into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[umbilicaria-esculenta]]
+- [[umbilicaria-phaea]]

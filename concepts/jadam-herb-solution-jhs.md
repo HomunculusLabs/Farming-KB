@@ -1,6 +1,6 @@
 ---
 
-title: Jadam Herb Solution Jhs
+title: JADAM Herb Solution (JHS) — Boiled Herb Extract Recipes
 created: 2026-04-11
 updated: 2026-04-12
 type: concept
@@ -21,7 +21,7 @@ sources:
 
 # JADAM Herb Solution (JHS)
 
-JHS is a boiled herb extract that provides insecticidal and germicidal power to [[jadam-methods]] pesticides. Different herbs target different pests. The basic herb is [[comparison-jerusalem-artichoke-vs-potato]] (controls aphids, mites, moths). Stronger options include gingko (adds leafhopper/planthopper control) and Korean pasque flower root (strongest -- controls stinkbugs, thrips, and almost everything else). Always combined with [[jadam-wetting-agent-jwa]].
+JHS is a boiled herb extract that provides insecticidal and germicidal power to [[jadam-methods]] pesticides. Different herbs target different pests. The basic herb is Jerusalem artichoke (controls aphids, mites, moths). Stronger options include gingko (adds leafhopper/planthopper control) and Korean pasque flower root (strongest -- controls stinkbugs, thrips, and almost everything else). Always combined with [[jadam-wetting-agent-jwa]].
 
 ## Herb Selection Guide
 
@@ -69,7 +69,7 @@ Must use soft water (test with JWA).
 1. While JHS is still boiling, pour into heat-resistant bottles until completely full
 2. Squeeze slightly until no air remains, seal tightly with lid
 3. **Immediately lay bottle on its side** -- hot liquid sterilizes the air pocket around lid
-4. Store in cool, dark place or [[root-cellaring-guide]]
+4. Store in cool, dark place or cold storage
 5. Properly sterilized JHS keeps 1-2 years
 6. Use small bottles (easier to fill completely, use up quickly)
 7. Once opened, use within 1-2 days
@@ -95,7 +95,7 @@ Must use soft water (test with JWA).
 
 ## JHS Pesticide Formulations
 
-**[[jadam-pesticide-for-aphids-and-mites]]** (per 500L):
+**Aphids and mites** (per 500L):
 - JWA 5L + Jerusalem artichoke JHS 5L
 
 **Moths** (tobacco moth, armyworm, diamondback):
@@ -118,6 +118,6 @@ Must use soft water (test with JWA).
 ## See Also
 
 - [[jadam-wetting-agent-jwa]] — always combine JHS with JWA
-- [[jadam-sulfur-js]] — add JS to JHS formulations for disease + [[hamilton-beneficial-insects-and-biological-pest-control]]
-- [[jadam-natural-pesticide-jnp]] — complete [[jadam-combined-pesticide-programs-jwa-js-jhs]]
+- [[jadam-sulfur-js]] — add JS to JHS formulations for disease + pest control
+- [[jadam-natural-pesticide-jnp]] — complete pesticide programs
 - [[jadam-methods]] — JADAM system overview

@@ -9,14 +9,11 @@ sources:
 ---
 # Solomon on the Complete Organic Fertilizer
 
-From [[complete-organic-fertilizer-formulation]]
-
-- [[composting-science-solomon]]
-- [[intensive-gardening-critique-solomon]]
+From [[composting-science-solomon]]
 - [[intensive-gardening-critique-solomon]]
 
 ## Merged: Fertilizer Placement
-Steve Solomon provides specific guidance on how, when, and where to place fertilizers in the garden. Proper placement ensures nutrients reach plant roots efficiently while minimizing waste and leaching. - solomon complete organic fertilizer guide - [[watering-irrigation-solomon]] - [[solomon-gardening-when-it-counts-index]] (2005) by Steve Solomon. Solomon identifies certain vegetables as fussy about soil type. - [[solomon-growing-brassicas-guide]] - [[intensive-gardening-critique-solomon]] - solomon complete organic fertilizer guide - [[intensive-gardening-critique-solomon]] - solomon complete organic fertilizer guide - [[tomato-pepper-eggplant-growing-guide]] - [[solomon-growing-garlic-onions-leeks]] - solomon complete organic fertilizer guide - [[intensive-gardening-critique-solomon]] - solomon complete organic fertilizer guide There are two basic types of garlic: hardnecks and softnecks.
+Steve Solomon provides specific guidance on how, when, and where to place fertilizers in the garden. Proper placement ensures nutrients reach plant roots efficiently while minimizing waste and leaching. - solomon complete organic fertilizer guide - [[solomon-gardening-when-it-counts-index]] (2005) by Steve Solomon. Solomon identifies certain vegetables as fussy about soil type. - [[intensive-gardening-critique-solomon]] - solomon complete organic fertilizer guide - [[tomato-pepper-eggplant-growing-guide]] - [[intensive-gardening-critique-solomon]] - solomon complete organic fertilizer guide There are two basic types of garlic: hardnecks and softnecks.
 ## Background and Context
 
 Solomon on the Complete Organic Fertilizer is an important subject that has garnered significant attention

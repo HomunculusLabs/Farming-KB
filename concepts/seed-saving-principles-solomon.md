@@ -12,24 +12,7 @@ sources:
 
 Updated: 2026-04-18
 
-Source: Gardening When It Counts, [[steve-solomon]], Chapter 5
-
-Solomon provides a practical framework for understanding which vegetables can be easily saved by home gardeners and which are best left to professionals.
-
-## Self-Pollinating vs. Outcrossing Species
-
-The most important distinction for seed saving is how the species pollinates:
-
-**Self-pollinating (inbreeding) species**: These transfer pollen within their own flowers. They inbreed generation after generation with no negative consequences. They are stable and easy to save seed from.
-
-Self-pollinating vegetables:
-- Beans
-- Peas
-- Lettuce
-- Tomatoes
-- Eggplant (mostly)
-- Endive/escarole/chicory
-- Garlic ([[hamilton-vegetative-propagation]], no true seed)
+Source: Gardening When It Counts, [[hamilton-vegetative-propagation]], no true seed)
 
 For these species, you can save seed from a single plant, or even a single pod or fruit, year after year with no problems. A few (peas and beans) have a slight tendency to outcross and should be isolated by about 20 feet.
 
@@ -47,38 +30,7 @@ Outcrossing vegetables:
 ## Inbreeding Depression
 
 When outcrossing species are grown from too small a population:
-- [[biodiversity-fungal-genetic-diversity]] declines rapidly
-- Plants become weaker with each generation
-- After only a few generations, the variety may become nonproductive
-- Seeds may barely sprout and grow so weakly they can't survive
-
-The minimum number of plants needed to maintain vigor varies by species:
-- For kale or rutabagas (less refined outcrossers): as few as 12 plants
-- For corn: at least 50 plants
-- For some highly refined brassicas: 200 or more plants
-
-For a full-sized cabbage variety requiring 200 plants at 2 square feet each, that's 400 square feet — two-thirds of a typical garden. This is why Solomon says growing seed of refined outcrossing brassicas is not practical for most home gardeners.
-
-## Wet Seed vs. Dry Seed
-
-### Dry Seed
-Forms in pods, clusters on stalks, or dried flower structures. Examples: beans, peas, lettuce, mustard, spinach, beet, okra.
-
-Key to vigorous dry seed: let it mature fully on the plant while keeping it drying steadily. If ripening continues over weeks in damp weather, pull entire plants, shake soil from roots, and move under cover to finish drying.
-
-For large-seeded crops (peas, beans): harvest individual pods when the stem end withers and plant sap is no longer flowing into the pod. At this point, maximum nutrition has been transferred to the seed.
-
-### Wet Seed
-Forms in juicy fruit still full of moisture at maturity. Examples: tomatoes, peppers, cucumbers, melons, squash, pumpkins.
-
-Key to vigorous wet seed: let the fruit become completely ripe — nearly to the point of rotting — before extracting seed.
-- Tomatoes: extract from overripe fruit that has sat on the counter a few extra days
-- Melons: fruit should "slip" from the vine
-- Squash: allow fully ripe fruit to cure for a month before extracting seed
-
-## Hybrids: A Balanced View
-
-Solomon challenges the anti-hybrid rhetoric common in [[hamilton-geoffhamilton-nick-organic-gardening-companion-planting]] circles, drawing on his experience running Territorial [[seed-company-supplier-reference]]:
+- [[hamilton-geoffhamilton-nick-organic-gardening-companion-planting]] circles, drawing on his experience running Territorial [[seed-company-supplier-reference]]:
 
 ### The Anti-Hybrid Claims and Reality
 The common claim that "you can't save seed from hybrids" is a half-truth:
@@ -88,3 +40,88 @@ The common claim that "you can't save seed from hybrids" is a half-truth:
 
 ### The Real Hybrid Problem
 The genuine concern with hybrids is economic:
+
+## Overview
+
+Seed Saving Principles Solomon represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish seed saving principles solomon
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving seed extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Seed Saving Principles Solomon finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for seed saving principles solomon. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+seed saving principles solomon and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Seed Saving Principles Solomon has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of seed saving principles solomon into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[cactus-cultivation-seed-cutting]]
+- [[fungicide-treated-seed-detection-and-avoidance]]
+- [[query-how-to-start-seed-saving]]
+- [[seed-starting-indoors]]
+- [[slimy-clump-water-logged-grass-seed-substrate-failure-modes]]

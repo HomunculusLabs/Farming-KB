@@ -13,70 +13,14 @@ Ecstasy (MDMA, 3,4-methylenedioxymethamphetamine) is a psychoactive drug classif
 
 ## Chemistry
 
-MDMA is a synthetic phenethylamine, chemically related to both amphetamines and [[2c-b-psychedelic-empathogen-guide]], which Shulgin developed later in the same phenethylamine family.
-
-## Dosage
-
-| Dose | Effect |
-|------|--------|
-| 80-120 mg | Standard therapeutic dose, strong empathogenic effects |
-| 150+ mg | Heavy dose, more stimulant side effects |
-| 200+ mg | Excessive — amphetamine side effects dominate, diminished emotional quality |
-
-Ecstasy is usually sold in tablets or capsules. Purity varies widely on the street. Taking more does not proportionally increase the emotional/spiritual qualities — it mainly amplifies the speed-like side effects.
-
-## The Experience
-
-### Character of the High
-The first few times one takes ecstasy are usually the most profound. Many people report that the initial experiences are the most emotionally open and connected, with subsequent uses producing diminishing returns in the empathogenic qualities.
-
-### Positive Qualities
-- Extraordinary feeling of love, openness, and emotional connection with others
-- Deep empathic understanding — ability to feel what others are feeling
-- Enhanced tactile sensitivity — touch feels wonderful
-- Sense of unity and belonging, reduction of social anxiety
-- Feelings of acceptance and self-worth
-- Enhanced appreciation of music and art
-- Mild visual enhancement — not a full psychedelic but some sensory amplification
-
-### Not Really Psychedelic
-Turner explicitly notes that ecstasy is not really a psychedelic. While it produces some mild sensory enhancement, the visual component is minimal. The experience is primarily emotional and social rather than perceptual or consciousness-expanding. One cannot expect the depth of [[psilocybin-mushroom-distribution-worldwide]], or [[2c-b-psychedelic-empathogen-guide]])
-- Dehydration risk at parties/raves
-- Neurotoxicity concerns with frequent use
-- Emotional content tends to be repetitive or predictable — less exploratory than psychedelics
-
-### Best Use Context
-Ecstasy shines in therapeutic and social settings: couples therapy, group bonding, conflict resolution, and intimate gatherings. The empathogenic qualities make it ideal for situations where emotional openness is the goal. Large parties and raves are popular but not necessarily the most meaningful setting.
-
-## Safety Factors
-
-- **Hydration is critical** — ecstasy increases body temperature and sweating; water intake must be monitored (not too much either — water intoxication is also dangerous)
-- **Purity unknown on street** — test kits recommended; tablets may contain MDMA analogs, amphetamines, or other substances
-- **Serotonin syndrome risk** when combined with certain medications (SSRIs, MAOIs)
-- **Neurotoxicity** — frequent use depletes serotonin; allow weeks between sessions
-- **Contraindicated with MAO inhibitors** — dangerous interaction
-- **Cardiovascular stress** — increases heart rate and blood pressure
-- **[[lsd-set-and-setting-framework]] still matter** — while less sensitive than true psychedelics, the emotional openness can be distressing without proper preparation
+MDMA is a synthetic phenethylamine, chemically related to both amphetamines and [[psilocybin-mushroom-distribution-worldwide]], or [[lsd-set-and-setting-framework]] still matter** — while less sensitive than true psychedelics, the emotional openness can be distressing without proper preparation
 
 ## Combinations
 
-- **LSD ("Candy flipping")**: A classic combination. LSD provides the psychedelic depth while ecstasy adds emotional warmth. Turner notes the combination is frequently used and can be very powerful. Start with a lower dose of each substance. The LSD tends to dominate the visual and perceptual space while the ecstasy provides an emotional overlay. See [[2c-b-psychedelic-empathogen-guide]].
-- **Marijuana**: Often used to ease the comedown or extend the experience
+- **LSD ("Candy flipping")**: A classic combination. LSD provides the psychedelic depth while ecstasy adds emotional warmth. Turner notes the combination is frequently used and can be very powerful. Start with a lower dose of each substance. The LSD tends to dominate the visual and perceptual space while the ecstasy provides an emotional overlay. See [[mdma]]
 
-## Comparison with Other Substances
-
-For a detailed comparison with other empathogens and psychedelics, see Psychedelic Substances Comparison.
-
-## See Also
-
-- [[mdma]]
-
-- [[psychedelic-safety-and-harm-reduction]] — general [[adverse-effects-and-harm-reduction-psilocybin]]
-- [[homestead-security]] — MDEA variant
-
-## Related
-
-- psychedelic [[metzner-mdma-assisted-therapy-research]] protocol
+- [[adverse-effects-and-harm-reduction-psilocybin]]
+- [[metzner-mdma-assisted-therapy-research]] protocol
 ## Practical Considerations
 
 Successful implementation of Ecstasy (MDMA) Guide requires attention to
@@ -118,8 +62,89 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[mdma]]
 - [[psilocybin]]
-- [[dom]]
 - [[det]]
 - [[psychedelic-substances-comparison]]
+
+## Overview
+
+Ecstasy Mdma Guide represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish ecstasy mdma guide
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving ecstasy extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Ecstasy Mdma Guide finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for ecstasy mdma guide. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+ecstasy mdma guide and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Ecstasy Mdma Guide has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of ecstasy mdma guide into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[archaeology-of-ecstasy-prehistoric-mushroom-use]]
+- [[ecstasy-mdma-heart-opening-psychedelic]]
+- [[emcdda-hallucinogenic-mushroom-entactogenic-comparison-ecstasy]]

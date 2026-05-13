@@ -1,7 +1,7 @@
 
 # Peyote and Mescaline
 
-Peyote (*[[golden-guide-amanita-muscaria-and-soma]] to [[lophophora-diffusa]]** — A related species found in central Mexico; contains lower mescaline levels.
+Peyote (*[[lophophora-diffusa]]** — A related species found in central Mexico; contains lower mescaline levels.
 
 ## Mescaline
 
@@ -10,12 +10,12 @@ Peyote (*[[golden-guide-amanita-muscaria-and-soma]] to [[lophophora-diffusa]]** 
 - **Chemical name**: 3,4,5-trimethoxyphenethylamine.
 - **Classification**: Phenethylamine alkaloid.
 - **Structure**: A phenethylamine backbone with three methoxy groups at positions 3, 4, and 5 of the benzene ring.
-- **Isolation**: First isolated from peyote by Arthur Heffter in 1897. First synthesized by Ernst Späth in 1919.
+- **Isolation**: First isolated from peyote by [[arthur-heffter]] in 1897. First synthesized by Ernst Späth in 1919.
 - **Dosage**: 200–500 mg produces a full pre-columbian-mushroom-use textiles from northern Mexico.
 
 ### Ceremonial Use
 
-The peyote ceremony (as depicted in Schultes's guide, from a painting by Tsa Toke, a Kiowa artist) involves:
+The [[peyote-ceremony]] (as depicted in Schultes's guide, from a painting by Tsa Toke, a Kiowa artist) involves:
 
 - **Night-long ceremony** — Sessions begin after dark and continue until dawn.
 - **Central fire and crescent altar** — The ceremonial space is organized around a fire pit and a crescent-shaped earthen altar.
@@ -27,8 +27,7 @@ The peyote ceremony (as depicted in Schultes's guide, from a painting by Tsa Tok
 
 The Native American Church (NAC), formally incorporated in 1918, is the institutional embodiment of peyote religion:
 
-- Combines Christian elements with [[psilocybin-mushrooms]]
-- [[datura-as-hallucinogen]]
+- Combines Christian elements with [[datura-as-hallucinogen]]
 - [[amanita-muscaria-fly-agaric-history-and-pharmacology]] as hallucinogen
 ## Practical Applications
 

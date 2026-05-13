@@ -18,9 +18,7 @@ sources:
 
 ## Overview
 
-**Mnium hornum** (swan's-neck thyme-moss, horn-leaved thyme-moss) is an acrocarpous moss in the family Mniaceae, widespread across Europe and [[polypore-fungi-eastern-north-america]] America. It is one of the most common and easily recognized woodland mosses, forming loose turfs on shaded banks, rotting wood, and forest floors.
-
-The species is named for its characteristic arched (swan's-neck) setae that curve sharply downward just below the capsule, giving the sporophyte a distinctive hooked appearance. This feature makes it identifiable even without [[fungal-microscopic-examination-mounting-media-techniques]].
+**Mnium hornum** (swan's-neck thyme-moss, horn-leaved thyme-moss) is an acrocarpous moss in the family Mniaceae, widespread across Europe and [[fungal-microscopic-examination-mounting-media-techniques]].
 
 Mnium hornum is an early-successional species on disturbed forest substrates. It colonizes bare soil, decaying logs, and tree bases rapidly, forming turfs that facilitate later colonization by other mosses and vascular plants.
 
@@ -43,48 +41,99 @@ The costa is strong and extends to the leaf tip or shortly excurrent. Leaf cells
 
 The sporophyte is conspicuous and distinctive. The seta is 2 to 3.5 cm long, purplish-red, and curves sharply downward near the capsule in a characteristic swan's-neck arc. Capsules are pendulous, 2.5 to 4 mm long, cylindrical, and strongly ribbed when dry.
 
-Capsules have a conical, beaked operculum and a well-developed double peristome. Spores are 14 to 20 μm in diameter, finely papillose, and mature from late winter to [[coleman-overwintered-onions-and-early-spring-crops]].
+Capsules have a conical, beaked operculum and a well-developed double peristome. Spores are 14 to 20 μm in diameter, finely papillose, and mature from late winter to [[mollison-climate-zones-permaculture-strategies]] of western Europe, where high rainfall and moderate temperatures favor its growth.
 
-The species is autoicous, with male and female reproductive structures borne on separate branches of the same stem. Sporophyte production is relatively frequent compared to many forest mosses, with mature capsules commonly observed in early spring.
-
-When moist, the turfs appear soft and glossy with spreading leaves. Upon drying, leaves fold inward and become crisp, and the overall color shifts from green to a dark brownish-green.
-
-## Distribution and Habitat
-
-Mnium hornum is distributed across western and central Europe, from the British Isles and Scandinavia southward to the Iberian Peninsula and Italy, and eastward to the Carpathians and western Russia. It also occurs in eastern North America from Newfoundland to the Great Lakes region.
-
-The species is absent from the Mediterranean lowlands, arctic regions, and most of Asia. It reaches its greatest abundance in the oceanic and suboceanic [[mollison-climate-zones-permaculture-strategies]] of western Europe, where high rainfall and moderate temperatures favor its growth.
-
-It colonizes a variety of shaded, moist substrates including forest floors, stream banks, rotting logs, tree bases, rocky ledges, and earthen banks. It shows a preference for acidic to neutral soils rich in [[hamilton-composting-and-organic-matter-management]].
-
-Mnium hornum is an early colonizer of disturbed sites, rapidly establishing on bare soil following landslides, treefall, or trail disturbance. It is common in both deciduous and coniferous woodlands but prefers shaded conditions with consistent moisture.
-
-Elevation range extends from lowlands to approximately 1,200 meters. It is most abundant at low to middle elevations in humid, oceanic-influenced climates where rainfall exceeds 800 mm annually.
-
-The species tolerates moderate disturbance from forestry operations and can recolonize clear-cut areas within a few years if moisture conditions are favorable. This resilience contributes to its widespread and common status across its range.
-
-## Ecology and Interactions
-
-Mnium hornum plays a significant role in early forest floor succession. Its rapid colonization of disturbed substrates stabilizes soil surfaces and creates conditions suitable for later-successional species including [[hypnum-cupressiforme]].
+It colonizes a variety of shaded, moist substrates including forest floors, stream banks, rotting logs, tree bases, rocky ledges, and earthen banks. It shows a preference for acidic to neutral soils rich in [[hypnum-cupressiforme]].
 
 The species is a reliable indicator of acidic to neutral soil conditions. Its presence in a bryophyte community typically correlates with moderately nutrient-poor, moisture-retentive forest soils with pH values between 4.5 and 6.5.
 
 Its turfs provide habitat for diverse microarthropod communities. Springtails, oribatid mites, and nematodes are commonly found within Mnium mats, where the moss layer moderates temperature and moisture fluctuations.
 
-Mnium hornum frequently grows alongside [[polytrichum-commune]], and [[pleurozium-schreberi]]
-- [[dicranum-scoparium]]
+Mnium hornum frequently grows alongside [[pleurozium-schreberi]]
 - [[rhytidiadelphus-triquetrus]]
-- [[climacium-dendroides]]
 - [[thuidium-delicatulum]]
-- [[picea-abies]]
 - [[fagus-sylvatica]]
-- [[marchantia-polymorpha]]
 - [[athyrium-filix-femina]]
 
 ## See Also
 
-- [[buxbaumia-aphylla]]
-
 - [[bartramia-pomiformis]]
 
 - [[anomodon-viticulosus]]
+
+## Overview
+
+Mnium Hornum represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish mnium hornum
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving mnium extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Mnium Hornum finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for mnium hornum. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+mnium hornum and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Mnium Hornum has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of mnium hornum into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.

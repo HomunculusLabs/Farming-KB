@@ -11,11 +11,7 @@ foundation of the entire method, treating them as non-negotiable prerequisites.
 
 ## Why Sterile Technique Matters More Than Substrate Choice
 
-Cultivators often invest considerable effort debating [[wood-loving-substrate-recipes]] -- straw,
-grain, compost blends -- while giving comparatively little attention to cleanliness.
-This is a fundamental error. The substrate merely provides nutrition; it is the
-sterility of the environment and the grower's technique that determines whether
-[[antimicrobial-compounds-mushroom-mycelium]] or competing organisms claim those nutrients. A perfectly
+Cultivators often invest considerable effort debating [[antimicrobial-compounds-mushroom-mycelium]] or competing organisms claim those nutrients. A perfectly
 formulated substrate inoculated with contaminated tools will fail every time.
 Conversely, even a modest substrate can produce excellent results when strict
 hygiene is observed. Jarrold's method demonstrates this principle repeatedly: the
@@ -43,12 +39,11 @@ contamination vectors in home mushroom cultivation include:
 - **Skin and hair**: Cultivators shed microscopic particles continuously. Long
   sleeves, hair covers, and gloves reduce this vector.
 
-- **Water**: Non-sterile water used in spore [[cannabis-nutrient-solution-preparation]] can carry
-  bacteria that outcompete [[query-how-to-store-mushroom-spores-long-term]] immediately upon inoculation.
+- **Water**: Non-sterile water used in spore [[query-how-to-store-mushroom-spores-long-term]] immediately upon inoculation.
 
 ## Pressure Cooker Sterilization at 15 PSI
 
-Jarrold specifies pressure [[pressure-cooker-sterilization-of-grain-jars]] the prepared [[oil-drum-sterilizer-mushroom-substrate-bags]] at
+Jarrold specifies pressure [[oil-drum-sterilizer-mushroom-substrate-bags]] at
 15 pounds per square inch (psi) for a total of 60 minutes, divided into two stages
 of 30 minutes each. This two-stage approach serves an important purpose: the first
 30-minute cycle penetrates the substrate and eliminates the majority of organisms,

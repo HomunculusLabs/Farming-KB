@@ -8,33 +8,9 @@ type: entity
 
 ## Description
 
-Petroleum ether (also called ligroin, petroleum spirit, or naphtha) is a light, volatile hydrocarbon solvent mixture consisting primarily of alkanes (pentane, hexane, and heptane). It has a boiling range of approximately 30–60°C and is widely used as a selective extraction solvent in [[pericyclic-reactions-organic-chemistry]]. In cannabis and natural product processing, petroleum ether is valued for its high selectivity — it preferentially dissolves cannabinoid-rich oils while leaving behind water-soluble tars, chlorophyll, and other non-psychoactive plant components.
-
-## Classification
-
-- **Category**: Chemical / Solvent
-- **Chemical type**: Hydrocarbon mixture (aliphatic alkanes)
-- **Boiling point**: 30–60°C
-- **CAS number**: 8032-32-4 (typical mixture)
-- **Appearance**: Clear, colorless liquid
-
-## Key Facts
-
-- Produces cannabis oil approximately twice as potent by weight compared to alcohol-based extractions, due to its selectivity for lipophilic cannabinoids over polar plant constituents.
-- Not a true "ether" in the chemical sense — contains no ether functional groups. The name is a historical misnomer; it is a petroleum distillate fraction.
-- Highly flammable with extremely low flash point; requires careful handling with no open flames, spark-free equipment, and adequate ventilation.
-- Typically available only through chemical supply companies, not consumer [[emcdda-hallucinogenic-mushroom-smartshop-and-retail-outlets]].
-- In [[cannabis-alchemy-book]], petroleum ether is primarily used as a secondary purification solvent: crude oil is first extracted with alcohol, then partitioned between petroleum ether and water/alcohol to separate psychoactive cannabinoids from tars and waxes.
-- The ether/oil layer separates cleanly above the denser water/alcohol/tar layer, enabling clean siphoning or pipetting of the purified product.
-
-## Relevance to Cultivation and Mycology
-
-Petroleum ether has applications beyond cannabis processing:
-
-- **Mushroom lipid extraction**: Can be used to extract non-polar lipids and terpenoids from fungal biomass, useful in characterizing mushroom [[antifungal-secondary-metabolites-coprophilous-fungi]].
-- **[[aminopropyl-silica-gel-chromatography-indole-alkaloid-purification]]**: While alkaloids themselves are often polar, petroleum ether helps remove non-polar impurities during multi-step purification protocols for fungal compounds.
-- **Spore lipid analysis**: Used in laboratory settings to extract and analyze fatty acid profiles from fungal spores and mycelial membranes.
-- **Essential oil work**: Applicable to extraction of volatile terpenes from aromatic fungi and cultivated plants used in [[companion-planting-with-fungi]] mushroom beds.
+Petroleum ether (also called ligroin, petroleum spirit, or naphtha) is a light, volatile hydrocarbon solvent mixture consisting primarily of alkanes (pentane, hexane, and heptane). It has a boiling range of approximately 30–60°C and is widely used as a selective extraction solvent in [[emcdda-hallucinogenic-mushroom-smartshop-and-retail-outlets]].
+- In [[antifungal-secondary-metabolites-coprophilous-fungi]].
+- **[[companion-planting-with-fungi]] mushroom beds.
 
 ## Safety Considerations
 
@@ -66,15 +42,93 @@ This subject has relevance across multiple disciplines and applications. Underst
 Implementation spans agricultural, ecological, and cultural contexts. The methodology draws on both traditional knowledge and modern scientific understanding.
 
 ## See Also
-- [[aminopropyl-silica-gel-chromatography-indole-alkaloid-purification]]
 - [[emcdda-hallucinogenic-mushroom-smartshop-and-retail-outlets]]
-- [[emcdda-hallucinogenic-mushroom-spore-distribution-home-cultivation]]
 - [[emcdda-hallucinogenic-mushroom-species-classification-and-chemistry]]
-- [[emcdda-hallucinogenic-mushroom-retail-pricing-product-economics-2006]]
+- [[mycology]]
+- [[spore]]
+- [[singh-fungal-oxidation-petroleum-enzymes]]
+
+## Overview
+
+Petroleum Ether represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish petroleum ether
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving petroleum extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Petroleum Ether finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for petroleum ether. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+petroleum ether and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Petroleum Ether has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of petroleum ether into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
 
 ## See Also
-- [[mycology]]
-- [[companion-planting]]
-- [[spore]]
+
+- [[fukuoka-petroleum-agriculture-food-quality-decline]]
+- [[fukuoka-textdoc-petroleum-agriculture-synthetic-food-critique]]
+- [[mycoremediation-petroleum-hydrocarbons]]
 - [[petroleum-degradation-fungi]]
-- [[singh-fungal-oxidation-petroleum-enzymes]]
+- [[singh-petroleum-hydrocarbon-fungal-remediation-technologies]]

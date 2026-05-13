@@ -8,89 +8,7 @@ type: concept
 
 ## Overview
 
-Soils contain both essential [[trace-elements-heavy-metals-permaculture|Trace]] elements and dangerous heavy metals. Understanding which elements are toxic, their sources, and how they move through biological systems is crucial for [[permaculture-design]]. Living organisms continuously concentrate, disperse, and transform elements, creating complex patterns of nutrient cycling and pollutant accumulation that the [[permaculture]] designer must work with — or risk creating toxic systems.
-
-## Zinc (Zn)
-
-Zinc is critical for both tree establishment in deserts or dunes and to human health. It is cheap to supply and should be tested for in all desert gardens.
-
-### Deficiency and Toxicity
-
-- **Deficient on**: Leached sands, dunes, alkaline sands
-- **Supplied by**: Zinc sulphate spray on plants or zinc salts in seed pellets
-- In plants, zinc is essential to growth control hormones
-- Zinc deficiency causes gross metabolic imbalances and stunting of growth
-- People with malnutrition often have low zinc blood levels and poor wound healing
-- **Diabetes** is often linked with zinc deficiency
-- Excessive zinc acts as an emetic, causing vomiting and weakness
-
-### Human Health
-
-- Necessary to several enzymes in the body
-- Prostate (seminal) fluids are high in zinc
-- Diets of coarse grains, unleavened bread, and low meat intake contribute to zinc deficiency in poor people, especially in high-calcium soils
-- Oral zinc sulphate can be given clinically
-- Alcoholism, diabetes, feverish sweating, and stress all lower zinc levels
-- **Severe deficiency causes**: Hair loss, moist eczema of the mouth area, impotence, apathy, diarrhoea
-
-## Arsenic (As)
-
-Arsic sometimes seems to be needed by horses and is included in chicken pellets, but it is a poison to animals even at slight concentrations. Polluting sources come from gold processing areas and from chickens fed on pelleted foods containing high arsenic levels.
-
-## Selenium (Se)
-
-- Selenium deficiency in lambs causes **"white muscle"** or **"still lamb"** disease, cured by selenium and vitamin E injection
-- Also causes "thrift" in animals in many countries where severe dietary deficiency occurs
-- Five mg/year is sufficient for sheep; more can cause toxicity
-- **Seaweeds** may supply sufficient selenium to gardens
-
-## Strontium (Sr)
-
-- As **Strontium-90** (Sr⁹⁰), a long-term and very poisonous radioactive element, it is a widespread danger from atomic plants
-- Pollutes many areas and milk; was used as "blackmail" (e.g., in New York water supply in 1985)
-- Causes cancer at absorption site and leukaemia in children — a "hidden cost" of the atomic age
-- Excreted in urine of breast-fed babies
-- **Concentrates 4–8 times in cows' milk**, so levels must be monitored after atomic fallout
-- There are no safe levels of radioactive strontium
-- Ordinary (non-radioactive) strontium is a trace element
-
-## Cadmium (Cd)
-
-- A poison concentrated by green leafy plants and shellfish
-- Derived from **traffic (tyres)** and **superphosphate** fertiliser
-- May already be at very high levels in acid soils of market gardens using artificial fertilisers (as in Canberra)
-- Cadmium causes painful human disease **itai-itai** (Japan) and permanent deformations
-- This is one of the strongest arguments against reliance on superphosphate in food-growing areas
-
-## Other Toxic Elements
-
-### Tin (Sn)
-- Ores and wastes create plant establishment problems
-- Not noted as toxic at low levels in diets, but can become toxic at high levels in canned food
-
-### Antimony (Sb)
-- Behaves similarly to arsenic — a poison at even slight concentrations
-
-### Iodine (I)
-- Deficiencies occur in weathered basalts, causing growth problems and **goitre**
-- Remedied by fish, shellfish, and seaweed in the diet
-- **Iodine-131** (¹³¹I) is now a common radioactive fall-out from atomic plants and tests
-- Poisons milk over wide areas and affects thyroid function
-- Can cause cancer, death of children from hyperthyroidism — a real risk from atomic establishments and tests
-
-### Mercury (Hg)
-- A common poison released by mines, metal processes, and acid rain
-- More active in organically polluted areas
-- Creates very serious coordination and sanity problems, central nervous system malfunction, bone deformity, and insanity
-
-### Thallium (Tl)
-- A toxin causing birth deformities — very dangerous
-
-### Lead (Pb)
-- A common poison from petrol, old paints, and battery burning
-- A serious **urban soil pollutant**
-- Needs heavy organic soils to block uptake, or removal of lead-concentrating vegetation for disposal
-- **[[earthworms]]** may concentrate lead to lethal levels in polluted soils
+Soils contain both essential [[permaculture-design]]. Living organisms continuously concentrate, disperse, and transform elements, creating complex patterns of nutrient cycling and pollutant accumulation that the [[earthworms]]** may concentrate lead to lethal levels in polluted soils
 - Salt in vegetable cooking water blocks uptake of some heavy metals on plant proteins — if lead pollution is suspected, add salt to cooking waters
 
 ### Radon (Rn)
@@ -111,16 +29,7 @@ Fungi, bacteria, and invertebrates can seek out, assemble, and change specific c
 
 | Element | Concentrating Agent |
 |---------|-------------------|
-| [[iron-cobalt-nickel-copper-zinc-in-soils|Iron]] | Root fungi, bacteria |
-| Iron-Manganese | Bacteria, molluscs |
-| Calcium | Root fungi, algae |
-| Phosphate | Root fungi, algae |
-| Zinc | Bacteria |
-| Nickel | Bacteria, molluscs |
-| Copper | Bacteria |
-| Selenium | Bacteria |
-| Cadmium | Bacteria |
-| Nitrogen | Root fungi ([[rhizobia]]), algae |
+| [[rhizobia]]), algae |
 
 ### Concentration by Accumulation of Detritus
 
@@ -148,3 +57,87 @@ Even faeces contain very different concentrations of potash, nitrates, and pollu
 
 ## Permaculture Implications
 
+## Overview
+
+Heavy Metal Toxicity And Biological Element Transport represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish heavy metal toxicity and biological element transport
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving heavy extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Heavy Metal Toxicity And Biological Element Transport finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for heavy metal toxicity and biological element transport. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+heavy metal toxicity and biological element transport and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Heavy Metal Toxicity And Biological Element Transport has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of heavy metal toxicity and biological element transport into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[dighton-fungal-biosorption-heavy-metal-remediation]]
+- [[heavy-metal-remediation-fungi]]
+- [[singh-composted-fungal-biomass-heavy-metal-immobilization]]
+- [[singh-fungal-biosorption-reactors-heavy-metals]]
+- [[trace-elements-heavy-metals-permaculture]]

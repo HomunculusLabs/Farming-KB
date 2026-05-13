@@ -53,9 +53,7 @@ The biosynthetic pathway shares intermediates with nicotine biosynthesis in toba
 ### Primary Source: Conium maculatum
 
 - **Poison hemlock** (*Conium maculatum*, Apiaceae) is the principal natural source of coniine, containing 0.5–1.0% total alkaloids in dried foliage, with concentrations highest in green fruit (up to 3.5%).
-- **[[cannabinoid-receptors-cb1-cb2-tissue-distribution-blesching]] (highest to lowest):** Seeds/fruit > young leaves > stems > roots. Alkaloid concentration peaks during flowering and early seed set.
-- **Seasonal variation:** Alkaloid content is highest in spring growth and lowest in senescent tissue.
-- **[[geographic-distribution-of-psilocybe-species]]:** Native to Europe and North Africa; naturalized in [[psilocybin-north-america-pacific-northwest]], [[guzman-psilocybin-mushrooms-south-america]], Australia, and New Zealand. Common in meadows, roadside ditches, stream banks, and disturbed ground.
+- **[[geographic-distribution-of-psilocybe-species]]:** Native to Europe and North Africa; naturalized in [[guzman-psilocybin-mushrooms-south-america]], Australia, and New Zealand. Common in meadows, roadside ditches, stream banks, and disturbed ground.
 
 ### Secondary Sources
 

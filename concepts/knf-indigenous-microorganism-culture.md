@@ -1,5 +1,5 @@
 ---
-title: Knf Indigenous Microorganism Culture
+title: KNF Indigenous Microorganism Culture (IMO)
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
@@ -11,7 +11,7 @@ sources:
 
 # KNF Indigenous Microorganism Culture (IMO)
 
-[[beneficial-indigenous-microorganisms-bim]] (IMOs) are locally-sourced microorganisms cultured and multiplied for use in soil conditioning, compost making, and plant health. [[mulching-in-natural-farming]], IMOs are the primary tool for building fertile, healthy soil.
+Indigenous Microorganisms (IMOs) are locally-sourced microorganisms cultured and multiplied for use in soil conditioning, compost making, and plant health. In Natural Farming, IMOs are the primary tool for building fertile, healthy soil.
 
 ## Why Indigenous Microorganisms
 
@@ -21,7 +21,7 @@ Dr. Cho advocates collecting microorganisms from different areas (sunny, shaded,
 
 ## Two Major Functions of IMOs
 
-1. Decompose complex [[chamovitz-plant-scent-communication-volatile-organic-compounds]] (dead plant/animal bodies, wastes) into nutrients easily absorbable by plants
+1. Decompose complex organic compounds (dead plant/animal bodies, wastes) into nutrients easily absorbable by plants
 2. Create antibiotic substances, enzymes, and lactic acids that suppress diseases and promote healthy soil conditions
 
 ## IMO Stages 1-4
@@ -37,7 +37,7 @@ Dr. Cho advocates collecting microorganisms from different areas (sunny, shaded,
 6. When rice is covered with microorganisms (white, yellow, red growth), transfer to clay pot or glass jar
 7. Black molds indicate you have exceeded the number of days
 
-**Method 2 -- From [[cho-imo-collection-bamboo-stump-and-paddy-field]]:**
+**Method 2 -- From bamboo stump:**
 1. Cut a healthy bamboo shoot 10 cm from ground, trim edges to prevent juice leaking
 2. Fill cavity with boiled rice (level higher than edge)
 3. Cover with wooden box, dry leaves, and plastic sheet
@@ -48,7 +48,7 @@ Dr. Cho advocates collecting microorganisms from different areas (sunny, shaded,
 1. Fill wooden box 3/4 with steamed rice
 2. After paddy harvest, place box face-down on rice stumps
 3. Cover with wire net and plastic sheet
-4. In about 1 week, mostly anaerobic microorganisms collected (Bacillus licheniformis, [[bacillus-subtilis]])
+4. In about 1 week, mostly anaerobic microorganisms collected (Bacillus licheniformis, Bacillus subtilis)
 
 ### IMO-2: Expansion with Sugar
 
@@ -88,38 +88,3 @@ Mix IMO-1 with jaggery/brown sugar in 1:1 ratio by weight. Example: 1 kg jaggery
 - [[knf-lactic-acid-bacteria-serum]]
 - [[knf-oriental-herbal-nutrient]]
 - [[knf-fish-amino-acid]]
-
-## Practical Applications
-
-The principles and techniques discussed here have wide-ranging applications
-across multiple disciplines and contexts. Practitioners and researchers
-continue to explore new ways to integrate these concepts into modern practice,
-adapting traditional knowledge to contemporary challenges and opportunities.
-
-## Key Considerations
-
-Several important factors influence the effectiveness and outcomes described
-in this topic. Understanding these considerations helps practitioners make
-informed decisions and avoid common pitfalls. Environmental conditions,
-timing, and material selection all play critical roles.
-
-## Historical Context
-
-The historical development of this subject reflects centuries of accumulated
-knowledge and practical experience. From traditional methods passed down
-through generations to modern scientific approaches, the evolution continues
-to inform current best practices and research directions.
-
-## Common Challenges
-
-Practitioners frequently encounter several challenges when working with
-these concepts. Climate variability, resource limitations, and knowledge
-gaps can all affect outcomes. Addressing these challenges requires patience,
-observation, and a willingness to adapt approaches based on results.
-
-## See Also
-- [[indigenous-microorganisms]]
-- [[spore]]
-- [[master-cho-knf-imo-indigenous-microorganism-collection]]
-- [[knf-loess-powder]]
-- [[knf-imo-four-soil-foundation-and-field-application]]

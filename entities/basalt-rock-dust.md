@@ -31,8 +31,8 @@ Basalt rock dust is a finely ground material produced from basalt, a dark, dense
 - Restores calcium and magnesium levels in acidic, leached soils, improving pH buffering and nutrient availability
 - The silicon released from basalt weathering strengthens plant cell walls and can improve resistance to fungal pathogens and insect pests
 - In mushroom cultivation, trace minerals from basalt may support enzyme production in mycelium
-- Permaculture systems use basalt dust as part of broad-scale soil rehabilitation strategies on degraded land
-- The slow-release nature of rock dust minerals means benefits accumulate over years rather than providing an immediate nutrient spike
+- Permaculture systems use basalt dust as part of broad-scale [[soil-rehabilitation-strategies]] on degraded land
+- The slow-release nature of [[rock-dust-minerals]] means benefits accumulate over years rather than providing an immediate nutrient spike
 - Basalt-derived soils (Andisols) are among the most naturally fertile agricultural soils globally
 - Must be applied according to soil test results -- indiscriminate application can create imbalances or toxicity
 
@@ -78,8 +78,6 @@ all influence the optimal approach to implementation.
 
 ## See Also
 
-- [[basalt-rock-dust-agriculture]]
 - [[comparison-azomite-vs-basalt-rock-dust]]
-- [[comparison-basalt-rock-dust-vs-rock-dust-remineralization]]
 - [[comparison-kelp-meal-vs-basalt-rock-dust]]
 - [[fungal-rock-colonization-and-extreme-environments]]

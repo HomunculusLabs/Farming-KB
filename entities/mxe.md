@@ -20,37 +20,7 @@ created: 2026-04-28
 
 ## Overview
 
-**Methoxetamine** (MXE) is a dissociative anesthetic of the arylcyclohexylamine class, structurally related to [[dextromethorphan]]. Developed as a potential pharmaceutical agent, it gained notoriety as a designer drug and research chemical beginning around 2010.
-
-MXE was designed to reproduce ketamine's dissociative and antidepressant effects while reducing duration of action and eliminating the urotoxicity associated with chronic ketamine use. It became one of the most widely used novel psychoactive substances (NPS) before international scheduling.
-
-## Chemical Properties
-
-- **IUPAC name:** 2-(3-Methoxyphenyl)-2-(ethylamino)cyclohexanone
-- **Molecular formula:** C₁₅H₂₁NO₂
-- **Molecular weight:** 247.33 g/mol
-- **CAS number:** 1239943-76-0
-- **SMILES:** COc1cccc(c1)C2(CCCCC2=O)NCC
-- **Appearance:** White to off-white crystalline powder
-
-MXE differs structurally from ketamine by the substitution of the 2-chlorophenyl group with a 3-methoxyphenyl group and the replacement of the N-methyl with an N-ethyl group. The 3-methoxy substitution increases lipophilicity and potency at NMDA receptors.
-
-The compound is a free base at physiological pH. It is soluble in ethanol, DMSO, and slightly soluble in water. The hydrochloride salt form is more water-soluble and is the form most commonly encountered in recreational contexts.
-
-## Pharmacology
-
-### Receptor Activity
-
-MXE acts primarily as a non-competitive antagonist at the NMDA receptor (glutamate-gated ion channel). In vitro binding assays indicate an IC₅₀ approximately 3–5× lower than ketamine, making MXE more potent at NMDA sites.
-
-Additional pharmacological actions include:
-
-- **Serotonin reuptake inhibition** (SERT): moderate affinity, contributing to empathogenic and mood-elevating effects
-- **Dopamine reuptake inhibition** (DAT): weak, less pronounced than ketamine
-- **Opioid receptor activity**: low affinity for μ-opioid receptors, insufficient to produce analgesia independently
-- **Sigma-1 receptor agonism**: hypothesized to contribute to antidepressant effects, though evidence is limited
-
-The combination of NMDA antagonism with serotonin reuptake inhibition distinguishes MXE from [[ketamine]]'s K-hole.
+**[[methoxetamine]]** (MXE) is a dissociative anesthetic of the arylcyclohexylamine class, structurally related to [[ketamine]]'s K-hole.
 
 The empathogenic component is notably stronger than ketamine. Users describe feelings of emotional warmth, connectedness, and enhanced introspection. Visual distortions include geometric patterns, color intensification, and closed-eye imagery.
 
@@ -76,14 +46,85 @@ Oral doses are approximately 1.5–2× the insufflated equivalent. Tolerance dev
 
 MXE was first scheduled in the UK under a Temporary Class Drug Order (TCDO) in April 2012, making it one of the first substances controlled under this framework. It was subsequently placed under permanent control as a Class B drug in 2015.
 
-The European Union added MXE to the list of psychoactive substances subject to control measures in 2015. In the [[dmt-containing-plants-united-states-halpern]], MXE is not federally scheduled but is covered under the Federal Analogue Act as an analogue of pcp in some jurisdictions.
-
-China banned MXE production and export in 2015 as part of a broad crackdown on synthetic drug manufacturing. Japan, Australia, and Canada have also scheduled MXE under their respective controlled substances acts.
-
-## Toxicology and Risks
-
-Documented [[blesching-cannabis-safety-adverse-effects-evidence]] include hypertension, tachycardia, nausea, and ataxia at recreational doses. Severe toxicity presents with agitation, seizures, and cardiovascular collapse.
+The European Union added MXE to the list of psychoactive substances subject to control measures in 2015. In the [[blesching-cannabis-safety-adverse-effects-evidence]] include hypertension, tachycardia, nausea, and ataxia at recreational doses. Severe toxicity presents with agitation, seizures, and cardiovascular collapse.
 
 There is no evidence of urotoxicity (bladder damage) at recreational doses, unlike chronic ketamine use. However, case reports of prolonged heavy use describe cognitive impairment, memory deficits, and psychological dependence.
 
 MXE has a narrow [[cannabis-therapeutic-index-overview]]. Deaths attributed to MXE alone are rare but documented, typically involving doses exceeding 100 mg or combinations with depressants (alcohol, benzodiazepines, opioids). Intravenous use carries the highest risk profile.
+
+## Overview
+
+Mxe represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish mxe
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving mxe extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Mxe finds practical application in multiple design contexts.
+[[permaculture-principles]] guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for mxe. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+mxe and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Mxe has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of mxe into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.

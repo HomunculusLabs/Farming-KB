@@ -33,43 +33,9 @@ the landscape, he designed a cascading system of sixteen lakes and ponds:
   lakes feeding lower ones through natural channels.
 - The lakes were shaped with proper deep and shallow zones, aligned with
   prevailing winds for natural aeration (see
-  [[desertification-causes-reversal]] as practiced through Holzer's methods.
-
-## Lessons from Extremadura
-
-The Extremadura project demonstrates several key principles of Holzer's
-approach. First, water retention is the foundation of landscape restoration
-in arid climates. By creating multiple water bodies at different elevations,
-the entire water table of a valley can be raised. Second, construction
-methods should use local, natural materials wherever possible. The lake
-beds were sealed with local clay and compacted earth rather than synthetic
-liners. Third, patience is essential. Ecological systems take time to
-establish, and the first years after construction may show limited results
-before the biological systems mature and begin self-regulating.
-
-## Related Topics
-
-- [[holzer-water-landscapes-retention]]
-- [[holzer-reforestation-after-fire]]
+  [[holzer-water-landscapes-retention]]
 - [[holzer-ring-water-feeder-living-water-supply]]
-- [[holzer-self-sufficiency-garden-plan]]
-## Practical Considerations
-
-When working with Holzer Extremadura Water Paradise - Sixteen Lakes in Spain, several practical factors should be
-carefully considered to achieve optimal results. These include
-the specific conditions of the implementation context, available
-resources, timing requirements, and the interactions between this
-topic and other elements of the broader system. A holistic view
-that considers these interconnections produces better outcomes.
-
-Environmental conditions such as temperature, moisture, and
-seasonal patterns significantly influence results. Monitoring these
-variables and adapting practices accordingly is essential for success.
-The most effective practitioners develop keen observation skills and
-respond flexibly to changing conditions rather than following rigid
-protocols regardless of circumstances or local variation.
-
-[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
+- [[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -110,8 +76,6 @@ through generations to modern scientific approaches, the evolution continues
 to inform current best practices and research directions.
 
 ## See Also
-- [[desertification]]
 - [[holzer-tamera-water-landscape-project]]
-- [[holzer-water-landscapes-retention]]
 - [[holzer-lebenshilfe-permaculture-project-for-disabled-people]]
 - [[holzer-thailand-permaculture-project]]

@@ -13,7 +13,7 @@ tags:
 
 ## Latitude Comparisons: A Paradox of Climate
 
-Eliot Coleman opens Chapter 5 of *The Winter Harvest Handbook* with a
+[[eliot-coleman]] opens Chapter 5 of *The Winter Harvest Handbook* with a
 counterintuitive observation that reframes how northern growers should think
 about their winter growing potential. Portland, Maine sits at roughly the same
 latitude as St. Tropez on the French Riviera. New York City shares its latitude
@@ -130,8 +130,6 @@ artificial intervention. These principles require no expensive technology, only
 knowledge of latitude, day length, and the biology of cold-hardy vegetables.
 
 ## See Also
-- [[coleman-aphid-nitrogen-flushing-winter-greenhouse-management]]
 - [[coleman-unheated-greenhouse-economic-model-passive-winter-production]]
-- [[coleman-winter-harvest-greenhouse-temperature-management]]
 - [[coleman-aphid-management-winter-greenhouse-nitrogen-flushing]]
 - [[coleman-sunlight-and-winter-crop-growth-rates]]

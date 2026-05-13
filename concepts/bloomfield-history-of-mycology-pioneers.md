@@ -48,21 +48,7 @@ for his consuming interest in mycology. Seven volumes of his journal Mycological
 Notes appeared between 1898 and 1925, serving as both a serious publication and
 a bully pulpit.
 
-Lloyd took issue with the practice of appending [[bloomfield-taxonomic-authority-debate-lloyd-underwood-atkinson]] names after
-species binomials, denouncing academics who published incompetent or false
-descriptions of new species simply to inflate their reputations. He created the
-fictional mycologist "N.J. McGinty" to ridicule offenders -- some scientists
-missed the joke and requested more information on these bizarre organisms.
-
-His most famous victim was Cornell mycologist George Atkinson, who published a
-description of a rare phallic mushroom from Texas as a new genus, Dictybole.
-Lloyd demonstrated that Atkinson's drawing was based on a single decomposing
-specimen of Simblum periphragmoides (described seventy years earlier by the
-Reverend Miles Berkeley). "Dictybole is Simblum in death." In 1917, Lloyd
-published "The Myths of Mycology," savaging both Atkinson and Columbia professor
-Lucien Underwood.
-
-Lloyd lived at 309 West Court Street on the ground floor of the [[lloyd-library]].
+Lloyd took issue with the practice of appending [[lloyd-library]].
 
 ## The Tulasne Brothers
 
@@ -79,15 +65,7 @@ acquired scientific knowledge after quitting law and pursuing research at the
 Jardin de Plantes in Paris; he wrote most of the text while Charles created the
 illustrations. Charles's three-dimensional depictions of fungi "far exceed" any
 photograph in information content -- "it is as if he shrank himself to the size
-of a [[spore]] and drew the fungal forest that towered around him." Only 100 copies
-of their Fungi Hypogaei (1851) were printed.
-
-## Other Key Figures
-
-**Anton de Bary (1831-1888)**: German mycologist who authored Comparative
-## See Also
-
-- [[bloomfield-buller-experimental-mycology]]
+of a [[bloomfield-buller-experimental-mycology]]
 
 ## Practical Applications
 
@@ -118,8 +96,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[mycology]]
 - [[spore]]
-- [[bloomfield-history-of-mycology-scientific-discipline]]
 - [[bloomfield-forensic-mycology-corpse-finder-hebeloma-decomposition-evidence]]
 - [[bloomfield-buller-experimental-mycology]]

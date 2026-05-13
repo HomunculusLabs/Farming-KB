@@ -8,38 +8,7 @@ sources: [raw/papers/ben-lemon-cannabis-alchemy.md]
 ---
 # Cannabis THC Acetate Preparation
 
-THC acetate has approximately twice the potency of THC on the Adams scale (THC = 7.3, THC acetate = 14.6). There is also a 25% increase in weight after adding the acetate structure. The effect of THC acetate is more spiritual and psychedelic than ordinary THC, with a unique property: a delay of about thirty minutes before effects are felt. The pharmacological profile places it alongside other [[tetrahydrocannabinolic-acid-thca]] is essential since the quality of starting material directly affects acetate yield and purity.
-
-## Safety Requirements
-
-This conversion uses acetic anhydride, an extremely dangerous chemical. A safety glove box is mandatory:
-
-1. Construct a box with thick reinforced front boards and hinged thin plywood side panels
-2. Side panels blow outward in case of explosion, protecting the operator
-3. Replace air in the sealed box with anhydrous nitrogen gas (making combustion impossible)
-4. Test by attempting to strike a match — if it won't light, oxygen is removed
-5. Equipment includes: exhaust fan with sparkless motor, fire extinguisher, safety-glass window, long sealed gloves
-6. All operations performed through gloves from outside the box
-
-## Equipment
-
-- 500ml Pyrex round-bottom boiling flask with ground glass fitting
-- Tubular condenser with matching ground glass fitting
-- Metal pot (2000ml+) as hot oil bath
-- Thermometer for monitoring oil bath temperature
-- Sparkless electric hotplate
-- Rheostat to control hotplate from outside the box
-- Ring stand and proper clamps
-- Cottonseed oil (for oil bath)
-- Acetic anhydride (reactant)
-- Immersible water pump, bucket, and hoses for condenser coolant
-
-## Conversion Process
-
-### Refluxing
-
-1. Place measured cannabis extract in the boiling flask
-2. Add acetic anhydride equal to 3× the volume of the [[cervantes-hash-cannabis-oil-production]]
+THC acetate has approximately twice the potency of THC on the Adams scale (THC = 7.3, THC acetate = 14.6). There is also a 25% increase in weight after adding the acetate structure. The effect of THC acetate is more spiritual and psychedelic than ordinary THC, with a unique property: a delay of about thirty minutes before effects are felt. The pharmacological profile places it alongside other [[cervantes-hash-cannabis-oil-production]]
 3. Assemble apparatus: flask in oil bath, condenser secured above, thermometer visible through safety glass
 4. Fill condenser with circulating ice water via immersion pump
 5. Heat oil bath slowly, monitoring temperature
@@ -78,13 +47,7 @@ This conversion uses acetic anhydride, an extremely dangerous chemical. A safety
 - The product volume will be up to 25% more than the starting oil volume
 - THC acetate can be consumed in any customary manner (smoked, oral, etc.)
 
-For growers interested in the upstream cultivation side, [[cannabis-cancer-pain-research]] explores the therapeutic potential of cannabinoids including acetylated derivatives.
-
-See also [[cannabis-extraction-basics]], [[cannabis-indoor-growing-basics]].
-
-## See Also
-- [[cannabis-hash-making-from-extracted-oil]]
-- [[thc-acetate-and-isomerization]]
+For growers interested in the upstream cultivation side, [[cannabis-extraction-basics]], [[cannabis-hash-making-from-extracted-oil]]
 - [[tetrahydrocannabinolic-acid-thca]]
 
 ## Practical Applications
@@ -116,8 +79,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[thc-acetate]]
 - [[cottonseed-oil]]
-- [[petroleum-ether]]
 - [[tetrahydrocannabinol]]
 - [[acetic-anhydride]]

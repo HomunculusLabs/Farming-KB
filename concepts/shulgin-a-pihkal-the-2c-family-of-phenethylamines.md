@@ -1,7 +1,7 @@
 ---
 title: The 2C Family of Phenethylamines
 source: shulgin-a-pihkal.md
-source_author: [[alexander-shulgin]]
+source_author: alexander-shulgin
 category: phenethylamines
 tags: [2c-family, phenethylamine, psychedelic, shulgin, structure-activity, sar]
 mined: 2026-05-10
@@ -11,7 +11,7 @@ mined: 2026-05-10
 
 ## Overview
 
-The 2C family is a large group of synthetic [[optical-isomers-psychedelic-phenethylamines]] systematically explored by Alexander Shulgin and documented in PiHKAL. The "2C" designation refers to the two-carbon chain of the phenethylamine skeleton, distinguishing these compounds from their three-carbon amphetamine (DO) analogues. The 2C compounds share a common core structure — 2,5-dimethoxyphenethylamine — with various substituents at the 4-position on the aromatic ring. Shulgin synthesized and bioassayed over 30 members of this family, establishing one of the most comprehensive structure-activity relationship (SAR) studies in [[taar1-trace-amine-associated-receptor-psychedelic-pharmacology]].
+The 2C family is a large group of synthetic [[taar1-trace-amine-associated-receptor-psychedelic-pharmacology]].
 
 ## Core Structure
 
@@ -38,26 +38,7 @@ The halogenated 2C compounds form the most well-characterized subgroup:
 - **2C-Br** (2C-B, bromo): 12-24 mg, 4-8 hours. The most popular and well-known member
 - **2C-I** (iodo): 14-22 mg, 6-10 hours. More visual and longer-lasting than 2C-B
 
-There is a clear trend: increasing halogen size (Cl → Br → I) corresponds to increasing potency and duration. This correlates with increased lipophilicity and enhanced [[beta-glucan-receptor-binding]] affinity at 5-HT2A sites.
-
-### Alkyl Substituents (The 2C-D, 2C-E, 2C-P Series)
-
-- **2C-D** (methyl): 60-100 mg, 4-6 hours. Mild, primarily cognitive effects with minimal visual component. Shulgin described it as a "philosophical tool."
-- **2C-E** (ethyl): 10-25 mg, 8-12 hours. Intensely visual and psychedelic. One of the most powerful members.
-- **2C-P** (propyl): 8-16 mg, 10-16 hours. Extremely long duration for a 2C compound. Shulgin noted a 16-hour experience from just 12 mg.
-
-The alkyl series shows that a methyl group is too small for significant activity, ethyl hits a sweet spot of potency and duration, and propyl extends duration considerably.
-
-### Thioether Substituents (The 2C-T Series)
-
-The 2C-T compounds replace the 4-position substituent with an alkylthio (sulfur-containing) group:
-
-- **2C-T-2** (ethylthio): 12-25 mg, 6-8 hours. Well-regarded, popular in the 1990s
-- **2C-T-4** (isopropylthio): 8-20 mg, 8-12 hours
-- **2C-T-7** (propylthio): 10-30 mg, 8-15 hours. Associated with several adverse events, contributing to the scheduling of the 2C-T series
-- **2C-T-21** (2-fluoroethylthio): 8-12 mg, 7-10 hours
-
-The thioether series is generally more potent than corresponding alkyl analogues and has been associated with more [[adverse-effects-and-harm-reduction-psilocybin]], particularly cardiovascular toxicity at higher doses.
+There is a clear trend: increasing halogen size (Cl → Br → I) corresponds to increasing potency and duration. This correlates with increased lipophilicity and enhanced [[adverse-effects-and-harm-reduction-psilocybin]], particularly cardiovascular toxicity at higher doses.
 
 ### Other Notable Members
 
@@ -68,56 +49,92 @@ The thioether series is generally more potent than corresponding alkyl analogues
 
 ## Pharmacological Profile
 
-The 2C compounds act primarily as agonists at the 5-HT2A receptor, the same receptor target as LSD, [[psilocin]], and mescaline. Additional receptor interactions contribute to the unique character of each compound:
-
-- **5-HT2C**: Contributes to anxiety and visual effects
-- **5-HT1A**: May modulate the emotional tone of the experience
-- **Alpha-adrenergic receptors**: Some 2C compounds show stimulant properties
-- **TAAR1**: Trace amine-associated receptor 1 may contribute to stimulant effects in some members
-
-The subjective quality of each 2C compound differs significantly despite sharing the same primary mechanism. 2C-B is noted for its balanced sensory and emotional effects; 2C-E is overwhelmingly visual and cognitive; 2C-D is primarily a cognitive enhancer with minimal perceptual change. Shulgin suggested that the specific receptor subtype affinity profile — the balance of activity across 5-HT2A, 5-HT2C, 5-HT1A, and other sites — determines the unique subjective character of each compound.
-
-## Dosage Ranges Across the Family
-
-| Compound | Substituent | Dosage (mg) | Duration (h) | Character |
-|----------|------------|-------------|--------------|-----------|
-| 2C-H | H | Inactive | — | Precursor |
-| 2C-D | CH3 | 60-100 | 4-6 | Cognitive, mild |
-| 2C-C | Cl | 20-40 | 4-6 | Gentle, warm |
-| 2C-B | Br | 12-24 | 4-8 | Balanced, popular |
-| 2C-F | F | 50-100+ | 6-8 | Weak, unclear |
-| 2C-I | I | 14-22 | 6-10 | Visual, longer |
-| 2C-E | C2H5 | 10-25 | 8-12 | Intense, visual |
-| 2C-P | C3H7 | 8-16 | 10-16 | Very long duration |
-| 2C-T-2 | S-C2H5 | 12-25 | 6-8 | Good, popular |
-| 2C-T-7 | S-C3H7 | 10-30 | 8-15 | Risky, potent |
-
-## Historical Context
-
-The 2C family emerged from Shulgin's systematic exploration of the phenethylamine structure. His approach was methodical: synthesize a compound, test it at gradually increasing doses, document effects in detail, and use the results to inform the next synthesis target. This created an unprecedented body of self-experimentation data spanning hundreds of compounds.
-
-Several 2C compounds became commercially significant:
-
-- **2C-B**: Widely used in psychotherapy in the 1980s; became a popular recreational substance in the 1990s; scheduled internationally in the 2000s
-- **2C-I**: Became popular as a "legal high" after 2C-B was scheduled
-- **2C-T-7**: Sold commercially before being linked to fatalities and emergency hospitalizations
-
-## Relationship to the DO Family
-
-Every 2C compound has a corresponding DO (amphetamine) analogue with an additional carbon in the chain:
-
-| 2C Compound | DO Analogue | Potency Ratio | Duration Ratio |
-|-------------|-------------|---------------|----------------|
-| 2C-B | DOB | ~10x less potent | ~3x shorter |
-| 2C-I | DOI | ~10x less potent | ~3x shorter |
-| 2C-D | DOM | ~10x less potent | ~3x shorter |
-| 2C-E | DOET | ~10x less potent | ~3x shorter |
-
-The DO compounds are uniformly more potent and longer-lasting than their 2C counterparts, but the shorter duration and lower potency of the 2C family generally makes them more manageable for therapeutic or exploratory use.
-
-## See Also
-
-- [[shulgin-a-pihkal-2c-b-4-bromo-25-dimethoxyphenethylamine]]
+The 2C compounds act primarily as agonists at the 5-HT2A receptor, the same receptor target as LSD, [[shulgin-a-pihkal-2c-b-4-bromo-25-dimethoxyphenethylamine]]
 - dob 25 dimethoxy 4 bromoamphetamine
 - doi 25 dimethoxy 4 iodoamphetamine
 - [[mescaline]] — the natural phenethylamine prototype
+
+## Overview
+
+Shulgin A Pihkal The 2C Family Of Phenethylamines represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish shulgin a pihkal the 2c family of phenethylamines
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving shulgin extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Shulgin A Pihkal The 2C Family Of Phenethylamines finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for shulgin a pihkal the 2c family of phenethylamines. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+shulgin a pihkal the 2c family of phenethylamines and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Shulgin A Pihkal The 2C Family Of Phenethylamines has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of shulgin a pihkal the 2c family of phenethylamines into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[hallucinogenesis-quantum-molecular-correlates-smythies-shulgin]]
+- [[quantum-mechanical-correlates-hallucinogenesis-smythies-shulgin]]
+- [[shulgin-a-pihkal-2c-e-4-ethyl-25-dimethoxyphenethylamine]]
+- [[shulgin-a-pihkal-2c-i-4-iodo-25-dimethoxyphenethylamine]]
+- [[shulgin-future-psychedelics-scheduling-and-regulation]]

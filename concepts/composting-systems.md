@@ -18,7 +18,7 @@ tags:
 
 sources:
 - raw/sepp-holzer-practical-guide-to-small-scale-integrative.md
-- raw/a-guide-to-home-scale-permaculture-gaias-[[fungi-in-garden-ecosystems|garden]]-a-guide-to-home-scale-permacultu.md
+- raw/a-guide-to-home-scale-permaculture-gaias-garden-a-guide-to-home-scale-permacultu.md
 - raw/a-new-indoor-growing-technique-tech-main-doc-a4-sizeindd.md
 - https://rodaleinstitute.org/why-organic/composting/
 - https://attra.ncat.org/attra-pub/summaries/summary.php?pub=5

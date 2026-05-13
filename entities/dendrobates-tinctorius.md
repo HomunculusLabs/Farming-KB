@@ -20,49 +20,7 @@ sources:
 
 ## Overview
 
-**Dendrobates tinctorius**, the dyeing poison dart frog, is among the largest and most colorful members of the family Dendrobatidae. It is native to the Guiana Shield region of [[guzman-psilocybin-mushrooms-south-america]].
-
-Adults range from 35–55 mm in snout-vent length, making this species one of the largest poison dart frogs. The species exhibits extraordinary color polymorphism across its range, with distinct morphs displaying different patterns of blue, yellow, black, and white.
-
-The specific epithet *tinctorius* refers to the indigenous practice of using the frog's skin toxins to dye the feathers of young parrots. This traditional use is the origin of the species' common name.
-
-Like other dendrobatid frogs, *D. tinctorius* sequesters lipophilic alkaloids from its arthropod diet. These compounds are stored in skin glands and serve as a potent chemical defense against predators.
-
-The species is one of the most commonly kept poison dart frogs in the herpetocultural trade. Its bold coloration, relatively large size, and active diurnal behavior make it a popular display animal in terrariums.
-
-## Taxonomy and Morphology
-
-**Dendrobates tinctorius** (Cuvier, 1797) belongs to the family Dendrobatidae (poison dart frogs), order Anura.
-
-**Classification:**
-
-- Kingdom: Animalia
-- Phylum: Chordata
-- Class: Amphibia
-- Order: Anura
-- Family: Dendrobatidae
-- Genus: Dendrobates
-- Species: D. tinctorius
-
-The body is robust with smooth skin. The head is wider than the body is long, with a rounded snout. Toe pads are expanded but smaller than those of arboreal hylid frogs.
-
-Coloration is the most variable trait in this species. The "azureus" morph, once considered a separate species (*D. azureus*), displays a uniform cobalt-blue coloration with black spots on the dorsal surface.
-
-Other morphs include yellow-striped, white-striped, and banded patterns against dark backgrounds. Color morphs are geographically restricted, with no intergradation zones between adjacent morph populations.
-
-The degree of color polymorphism in this species is among the highest of any amphibian. Over 20 distinct morphs have been described, each associated with a specific geographic locality.
-
-The first toe is opposable in males, which is used in amplexus. Males are generally smaller and more slender than females.
-
-The ventral surface may be blue, yellow, or patterned depending on the morph. Bright coloration serves as aposematic signaling, warning potential predators of the frog's toxicity.
-
-## Distribution and Habitat
-
-**Dendrobates tinctorius** is found in the Guiana Shield, including French Guiana, Suriname, Guyana, and adjacent parts of northern Brazil. Its range extends from sea level to approximately 600 meters elevation.
-
-The species inhabits primary and secondary [[tropical-rainforest-seedling-mycorrhiza-ecological-restoration]]. It is most abundant in forested areas with high humidity and abundant [[dighton-fungal-decomposition-leaf-litter-dynamics]].
-
-Disturbed habitats, including forest edges and partially cleared areas, are also used where sufficient [[fungal-diversity-leaf-litter-coarse-woody-debris]] and moisture are retained. However, extensive deforestation and conversion to agriculture eliminate suitable habitat.
+**Dendrobates tinctorius**, the dyeing poison dart frog, is among the largest and most colorful members of the family Dendrobatidae. It is native to the Guiana Shield region of [[tropical-rainforest-seedling-mycorrhiza-ecological-restoration]]. It is most abundant in forested areas with high humidity and abundant [[fungal-diversity-leaf-litter-coarse-woody-debris]] and moisture are retained. However, extensive deforestation and conversion to agriculture eliminate suitable habitat.
 
 Unlike many dendrobatids, *D. tinctorius* is primarily terrestrial, foraging on the [[fungal-ecology-forest-floor]]. It is also found climbing low vegetation and rocky outcrops near streams.
 
@@ -87,3 +45,85 @@ Histrionicotoxins block nicotinic acetylcholine receptors, interfering with neur
 Captive-bred specimens are significantly less toxic than wild-caught individuals. Without access to the specific arthropod prey that supply alkaloid precursors, captive frogs sequester few or no defensive compounds.
 
 The specific arthropod sources of dendrobatid alkaloids were identified through decades of research by John W. Daly and colleagues at the National Institutes of Health. This work demonstrated that dietary specialization drives chemical defense in poison dart frogs.
+
+## Overview
+
+Dendrobates Tinctorius represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish dendrobates tinctorius
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving dendrobates extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Dendrobates Tinctorius finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for dendrobates tinctorius. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+dendrobates tinctorius and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Dendrobates Tinctorius has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of dendrobates tinctorius into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[carthamus-tinctorius]]
+- [[pisolithus-tinctorius]]

@@ -12,29 +12,11 @@ sources:
 
 ## Overview
 
-[[fukuoka-critique-soil-cultivation]].
-- **[[cervantes-chemical-fertilizers-guide]]:** Create dependency by disrupting biological [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]].
-Plants become lazy — mycorrhizal associations atrophy when phosphorus is supplied
-artificially. Nitrogen-fixing bacteria are outcompeted when synthetic nitrogen is
-abundant. The soil's biological fertility system degrades, requiring ever more external
-inputs.
-- **Removal of crop residues:** When straw, stalks, and other residues are removed
-(for burning, feeding, or sale), [[hamilton-composting-and-organic-matter-management]] is exported from the field faster
+[[cervantes-chemical-fertilizers-guide]]:** Create dependency by disrupting biological [[hamilton-composting-and-organic-matter-management]] is exported from the field faster
 than it can be rebuilt.
-- **Monoculture:** Reduces the diversity of [[mycorrhizal-root-exudates-pathogen-interactions]] and plant residues that
-feed different soil organisms, simplifying the soil ecosystem.
-- **Pesticides:** Kill beneficial organisms along with target species, disrupting
-the soil food web.
-
-## How Fertility Is Maintained in Natural Farming
-
-In Fukuoka's system, fertility is maintained through:
-1. **No-till:** Preserves soil structure and biological communities. See [[fukuoka-straw-mulch-philosophy]]. See also [[fukuoka-white-clover-ground-cover]] and
-other ground covers [[query-how-to-fix-nitrogen-toxicity-in-cannabis]], protect the soil surface, and provide continuous
+- **Monoculture:** Reduces the diversity of [[fukuoka-straw-mulch-philosophy]]. See also [[query-how-to-fix-nitrogen-toxicity-in-cannabis]], protect the soil surface, and provide continuous
 root exudates that feed soil biology.
-4. **Crop rotation:** The [[fukuoka-four-principles-natural-farming]] — the principles
-- [[fukuoka-straw-mulch-system]] — organic matter recycling
-- [[fukuoka-critique-soil-cultivation]] — tillage damage
+4. **Crop rotation:** The [[fukuoka-straw-mulch-system]] — organic matter recycling
 - [[fukuoka-natural-soil-works-itself]]
 ## Practical Applications
 
@@ -97,8 +79,6 @@ through generations to modern scientific approaches, the evolution continues
 to inform current best practices and research directions.
 
 ## See Also
-- [[query-what-is-the-soil-food-web-and-why-does-it-matter]]
 - [[natural-farming]]
-- [[doc]]
 - [[det]]
 - [[composting]]

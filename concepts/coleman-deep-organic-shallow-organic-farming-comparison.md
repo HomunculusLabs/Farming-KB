@@ -8,7 +8,7 @@ created: 2026-05-11
 
 # Deep Organic vs. Shallow Organic Farming Philosophy
 
-Eliot Coleman distinguishes between two fundamentally different approaches to organic farming: "deep organic" and "shallow organic." This distinction is not about the depth of soil cultivation but about the depth of philosophical commitment to ecological principles.
+[[eliot-coleman]] distinguishes between two fundamentally different approaches to organic farming: "deep organic" and "shallow organic." This distinction is not about the depth of soil cultivation but about the depth of philosophical commitment to ecological principles.
 Understanding this distinction is essential for grasping Coleman's approach to agriculture and his critique of the mainstream organic food industry as it has evolved since the USDA National Organic Program (NOP) standards were established.
 
 ## The Shallow Organic Approach
@@ -131,8 +131,6 @@ And the continuous cycle of observation and adaptation has refined the system ov
 
 ## See Also
 
-- [[coleman-mobile-greenhouse-crop-rotation-design]]
 - [[coleman-winter-harvest-greenhouse-temperature-management]]
-- [[ultra-low-green-manure-cover-crop-species]]
 - [[coleman-four-season-farm]]
 - [[coleman-louis-savier-french-market-garden-modernization]]

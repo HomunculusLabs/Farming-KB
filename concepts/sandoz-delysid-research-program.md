@@ -21,27 +21,7 @@ Sandoz recognized the medicinal-psychiatric potential of LSD and made it availab
 
 Sandoz manufactured Delysid in two forms:
 
-Sugar-coated tablets containing 0.025 mg (25 micrograms) of [[lysergic-acid-diethylamide]] tartrate.
-
-Ampoules of 1 ml containing 0.1 mg (100 micrograms) for oral administration. The solution could also be injected subcutaneously or intravenously, with the effect identical to oral administration but more rapid in onset.
-
-Ampoules that had not been opened, protected against light and stored in a cool place, were considered stable for an unlimited period. Opened ampoules or diluted solutions retained effectiveness for one to two days if refrigerated.
-
-## Official Indications
-
-The Sandoz prospectus for Delysid listed two primary indications:
-
-### Analytical Psychotherapy
-
-Delysid was indicated "to elicit release of repressed material and provide mental relaxation, particularly in anxiety states and obsessional neuroses."
-
-The recommended initial dose was 25 micrograms (one tablet), increased at each treatment by 25 micrograms until the optimum dose was found, usually between 50 and 200 micrograms. Individual treatments were given at intervals of one week.
-
-### Experimental Studies on Psychoses
-
-The second indication concerned "experimental studies on the nature of psychoses." The prospectus stated that psychiatrists could gain insight into "the world of ideas and sensations of mental patients" by taking Delysid themselves.
-
-Delysid could also be used to induce "model psychoses of [[savory-short-duration-grazing-and-cell-systems]] in normal subjects, thus facilitating studies on the pathogenesis of mental disease."
+Sugar-coated tablets containing 0.025 mg (25 micrograms) of [[savory-short-duration-grazing-and-cell-systems]] in normal subjects, thus facilitating studies on the pathogenesis of mental disease."
 
 In normal subjects, doses of 25 to 75 micrograms were generally sufficient. In certain forms of psychosis and in chronic alcoholism, higher doses were necessary (2 to 4 micrograms per kilogram of body weight).
 
@@ -57,17 +37,7 @@ The mental effects of Delysid could be "rapidly reversed by the intramuscular ad
 
 ## Two Therapeutic Approaches
 
-The Sandoz program supported two distinct therapeutic methodologies that emerged from [[hofmann-lsd-clinical-research-early-studies]] with Delysid:
-
-### Psycholytic Therapy
-
-Developed in European clinics, this approach employed moderately strong doses of LSD in several successive sessions at regular intervals. The term was coined by Ronald A. Sandison, an English therapist of Jungian orientation and pioneer of clinical LSD research.
-
-The root "-lysis" signifies the dissolution of tension or conflicts in the psyche. After the sessions, the LSD experiences were worked out in group discussions and in expression therapy through drawing and painting.
-
-### Psychedelic Therapy
-
-Favored in the [[dmt-containing-plants-united-states-halpern]], this method involved administering a single, very high dose of LSD (0.3 to 0.6 mg) after intensive psychological preparation. The term "psychedelic" — "mind-manifesting" or "mind-expanding" — was introduced by [[humphry-osmond]], a pioneer of LSD research in America.
+The Sandoz program supported two distinct therapeutic methodologies that emerged from [[dmt-containing-plants-united-states-halpern]], this method involved administering a single, very high dose of LSD (0.3 to 0.6 mg) after intensive psychological preparation. The term "psychedelic" — "mind-manifesting" or "mind-expanding" — was introduced by [[humphry-osmond]], a pioneer of LSD research in America.
 
 This approach attempted to induce a mystical-religious experience through the shock effects of LSD, which could then serve as a starting point for personality restructuring in accompanying psychotherapeutic treatment.
 
@@ -88,3 +58,88 @@ Sandoz also published a "Literature on Delysid" bibliography periodically, docum
 ## LSD for the Dying
 
 One remarkable application discovered through the program was the administration of LSD to the terminally ill. Observations in American clinics showed that severe painful conditions in cancer patients, no longer responsive to conventional pain-relieving medication, could be alleviated or abolished by LSD.
+
+## Overview
+
+Sandoz Delysid Research Program represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish sandoz delysid research program
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving sandoz extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Sandoz Delysid Research Program finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for sandoz delysid research program. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+sandoz delysid research program and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Sandoz Delysid Research Program has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of sandoz delysid research program into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[hofmann-sandoz-crisis-lsd-withdrawal]]
+- [[metzner-lsd-origins-sandoz-psycholytic-osmond-hoffer-alcoholism-and-consciousness-expansion]]
+- [[metzner-sandoz-psycholytic-therapy-european-clinical-model]]
+- [[sandoz-pharmaceuticals]]
+- [[sandoz-psilocybin-distribution-program]]

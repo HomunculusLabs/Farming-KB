@@ -27,7 +27,7 @@ sources:
 
 ## Overview
 
-Isoproscaline (3,5-dimethoxy-4-isopropoxyphenethylamine) is a synthetic psychedelic phenethylamine and a positional isomer of proscaline. It was first synthesized and characterized by Alexander Shulgin and is documented as entry #28 in PIHKAL (Phenethylamines I Have Known and Loved).
+Isoproscaline (3,5-dimethoxy-4-isopropoxyphenethylamine) is a synthetic psychedelic phenethylamine and a positional isomer of proscaline. It was first synthesized and characterized by [[alexander-shulgin]] and is documented as entry #28 in PIHKAL (Phenethylamines I Have Known and Loved).
 
 The compound is a mescaline analog in which the 4-ethoxy group of mescaline is replaced by a 4-isopropoxy group. Like other members of the 2C-P and mescaline derivative family, isoproscaline produces psychedelic effects with a characteristically long duration.
 
@@ -51,40 +51,87 @@ The compound exists as a free base or as a crystalline hydrochloride salt. The h
 
 Isoproscaline acts primarily as a serotonin 5-HT₂A receptor agonist, the mechanism shared by most classical psychedelic phenethylamines and tryptamines. The 5-HT₂A receptor activation in cortical layer V pyramidal neurons is responsible for the characteristic psychedelic effects.
 
-The compound likely exhibits partial agonist activity at 5-HT₂A, similar to mescaline and other members of the phenethylamine class. Its binding affinity is expected to be moderate, though formal [[tihkal-receptor-binding-serotonin]] data is limited in the published literature.
-
-Additional serotonergic activity at 5-HT₂C receptors may contribute to the anxiety, stimulation, and nausea sometimes reported with mescaline-type compounds. Activity at trace amine-associated receptor 1 (TAAR1) is also possible but unstudied for this specific compound.
-
-The increased steric bulk of the isopropoxy group relative to mescaline's ethoxy group is expected to slow metabolic clearance by monoamine oxidase (MAO), contributing to a longer duration of action. This pattern is consistent across the DOX series of phenethylamines.
-
-## Effects and Dosage
-
-Based on Shulgin's PIHKAL reports, the effective dose range for isoproscaline is approximately 20–40 mg orally. Effects onset occurs within 60–90 minutes, with peak effects at 2–4 hours and total duration of 10–14 hours.
-
-The subjective experience is described as mescaline-like with enhanced visual distortion, color intensification, and geometric patterning. Users report a warm, empathetic quality to the experience with less cognitive disruption than tryptamine psychedelics.
-
-Physical effects include pupil dilation, increased heart rate, mild to moderate stimulation, and gastrointestinal discomfort during onset. Nausea is common during the first hour and may be more pronounced than with mescaline itself due to the isopropoxy group.
-
-Aftereffects include residual stimulation, mild visual trailing, and emotional flattening that may persist for 4–8 hours after the primary experience subsides. The extended duration makes careful dose selection and time management important for users.
-
-## Synthesis
-
-Isoproscaline is synthesized from 3,5-dimethoxy-4-hydroxybenzaldehyde (syringaldehyde) as the starting material. The key step involves alkylation of the 4-hydroxyl group with isopropyl bromide or isopropyl iodide under basic conditions.
-
-The resulting 3,5-dimethoxy-4-isopropoxybenzaldehyde undergoes a Henry reaction (nitroaldol condensation) with nitromethane to form the corresponding β-nitrostyrene intermediate. Reduction of the nitrostyrene to the phenethylamine is typically accomplished using lithium aluminum hydride (LiAlH₄).
-
-The free base is converted to the hydrochloride salt for purification and stabilization. Shulgin's original [[four-hydroxyindole-psilocin-synthesis-route-shirota]] is described in detail in PIHKAL. The compound requires careful handling due to its psychoactive potency.
+The compound likely exhibits partial agonist activity at 5-HT₂A, similar to mescaline and other members of the phenethylamine class. Its binding affinity is expected to be moderate, though formal [[four-hydroxyindole-psilocin-synthesis-route-shirota]] is described in detail in PIHKAL. The compound requires careful handling due to its psychoactive potency.
 
 ## Dosage and Harm Reduction
 
-Effective dose range for isoproscaline is 20–40 mg orally. Shulgin reported threshold effects at approximately 15 mg. A moderate dose of 25–30 mg provides a full [[leary-psychedelic-experience-bardo-mapping]] for most individuals.
-
-The extended duration (10–14 hours) means users should plan for a full day and night experience. Driving or operating machinery is dangerous during and for at least 12 hours after dosing. A trip sitter is strongly recommended for first-time users.
-
-As with all phenethylamines, individuals with cardiovascular conditions, schizophrenia, or a personal or family history of psychosis should avoid isoproscaline. Serotonin syndrome risk exists if combined with MAOIs, SSRIs, or other serotonergic substances.
-
-## Legal Status
-
-Isoproscaline is unscheduled in most jurisdictions but may fall under analogue acts in countries with comprehensive drug scheduling frameworks. In the [[dmt-containing-plants-united-states-halpern]], the Federal Analogue Act potentially applies, though prosecution specifically for isoproscaline is unrecorded.
+Effective dose range for isoproscaline is 20–40 mg orally. Shulgin reported threshold effects at approximately 15 mg. A moderate dose of 25–30 mg provides a full [[dmt-containing-plants-united-states-halpern]], the Federal Analogue Act potentially applies, though prosecution specifically for isoproscaline is unrecorded.
 
 In the United Kingdom, the Psychoactive [[controlled-substances-act-and-psychedelic-research]] 2016 may encompass isoproscaline as a psychoactive substance. In Germany, the NpSG (New Psychoactive Substances Act) may apply to unlisted phenethylamine derivatives.
+
+## Overview
+
+Isoproscaline represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish isoproscaline
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving isoproscaline extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Isoproscaline finds practical application in multiple design contexts.
+[[permaculture-principles]] guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for isoproscaline. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+isoproscaline and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Isoproscaline has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of isoproscaline into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.

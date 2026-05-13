@@ -7,17 +7,7 @@ tags: [mycology, mushrooms]
 sources:
   - "raw/papers/terence-mckenna-food-of-the-gods.md"
 ---
-# African Mushroom Cult History The oldest known evidence of human psychoactive mushroom use, preserved in 10,000-year-old rock art of the Sahara Desert, along with documented cases of psilocybin mushroom intoxications in Africa. ## The [[terence-mckenna]], working independently, found evidence for the oldest known mushroom cult in Africa.
-
-Their discoveries emerged from the very continent known as the cradle of humanity.
-
-From 9,000 to 7,000 years ago, the area of the Sahara between Tassili (Southern Algeria), Acacus (Libya), and Ennedi (Chad) was populated by humans who created magnificent rock drawings.
-
-These pictures tell of a time when the Sahara was still a blooming garden, long before erosion processes starting around 3,500 B.C. turned the area into desert.
-
-The rock drawings date from as far back as 10,000 B.C. up to the present.
-
-Among the Stone Age drawings (7,000-5,000 B.C.) are those typical of the "[[mckenna-tassili-plateau-round-head-civilization]] phase," including pictures of pasture animals, evergreen and deciduous trees.
+# African Mushroom Cult History The oldest known evidence of human psychoactive mushroom use, preserved in 10,000-year-old rock art of the Sahara Desert, along with documented cases of psilocybin mushroom intoxications in Africa. ## The [[mckenna-tassili-plateau-round-head-civilization]] phase," including pictures of pasture animals, evergreen and deciduous trees.
 
 ## Iconography of the Mushroom Cult
 
@@ -37,11 +27,7 @@ As early as 9,000-7,000 years ago, the head was apparently considered the seat o
 
 Mushrooms were drawn in white, several shades of ochre, and occasionally in blue colors, possibly representing the bluing phenomenon of psilocybin-containing species.
 
-The rock drawings consistently show two kinds of mushroom shapes: one resembling [[psychedelic-mushroom-set-and-setting]] and [[psychedelic-mushroom-set-and-setting]] (a nitrophilic species), and [[psychedelic-mushroom-set-and-setting]].
-
-Ola'h's monograph on Panaeolus describes two strongly psychoactive African species: Panaeolus africanus Ola'h and Panaeolus tropicales Ola'h.
-
-Given sufficiently wet conditions, [[global-psychedelic-mushroom-species-diversity]] was discovered in Natal Province, South Africa, the first psychotropic Psilocybe species ever found in the area.
+The rock drawings consistently show two kinds of mushroom shapes: one resembling [[psychedelic-mushroom-set-and-setting]] (a nitrophilic species), and [[global-psychedelic-mushroom-species-diversity]] was discovered in Natal Province, South Africa, the first psychotropic Psilocybe species ever found in the area.
 
 ## Documented Intoxications
 
@@ -59,16 +45,9 @@ Both patients recovered completely within six hours after medical intervention.
 
 ## Biogeographical Context
 
-Africa has very few records of neurotropic Psilocybe species due to scarce [[guzman-allen-gartz-mycological-exploration-bias-and-underexplored-regions]], despite the continent's high biodiversity.
+Africa has very few records of neurotropic Psilocybe species due to scarce [[inocybe-aeruginascens-profile]] is known from Northern Africa (Morocco and Algeria) and also from Europe (Czechoslovakia).
 
-Only 6-8 neurotropic species of Psilocybe are known from Africa.
-
-[[inocybe-aeruginascens-profile]] is known from Northern Africa (Morocco and Algeria) and also from Europe (Czechoslovakia).
-
-magic-mushroom-cultural-history, [[psilocybe-global-biogeography]]
-
-See also: [[panaeolus-africanus]]
-- [[psilocybin-mushroom]]
+magic-mushroom-cultural-history, [[panaeolus-africanus]]
 - [[guzman-allen-gartz-global-psilocybe-biogeography]]
 ## Practical Considerations
 
@@ -118,8 +97,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[psilocybin-mushroom]]
 - [[doc]]
-- [[psilocybin]]
 - [[panaeolus-africanus]]
 - [[shroom-cultural-history-mushroom-art-and-iconography]]

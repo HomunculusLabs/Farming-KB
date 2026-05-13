@@ -10,11 +10,7 @@ sources: [/Users/t3rpz/wiki/raw/papers/cancer-treatments-medicinal-mushrooms.md]
 
 # Boletus pinophilus
 
-*Boletus pinophilus* (syn. *Boletus pinicola*), commonly known as the pine bolete or pinewood bolete, is a species of edible mushroom in the family Boletaceae. It is one of the most highly prized wild mushrooms in Europe, valued both for its exceptional culinary qualities and for its emerging profile of [[cordyceps-cancer-bioactive-compounds]] with potential medicinal applications, including anti-inflammatory, antioxidant, and anticancer properties.
-
-## Taxonomy and Description
-
-*Boletus pinophilus* belongs to the *[[boletus-edulis-entity]]* species complex, a group of closely related boletes that are among the most commercially important wild-harvested mushrooms in the world. It was long considered a variety or form of *B. edulis* but has been recognized as a distinct species based on morphological, ecological, and molecular evidence.
+*Boletus pinophilus* (syn. *Boletus pinicola*), commonly known as the pine bolete or pinewood bolete, is a species of edible mushroom in the family Boletaceae. It is one of the most highly prized wild mushrooms in Europe, valued both for its exceptional culinary qualities and for its emerging profile of [[boletus-edulis-entity]]* species complex, a group of closely related boletes that are among the most commercially important wild-harvested mushrooms in the world. It was long considered a variety or form of *B. edulis* but has been recognized as a distinct species based on morphological, ecological, and molecular evidence.
 
 The cap is typically 8–25 cm in diameter, convex to plano-convex in maturity, with a smooth, slightly sticky surface when moist. The cap color is distinctive: a rich chestnut-brown to reddish-brown, often with a warm, mahogany tone that differentiates it from the paler *B. edulis*. The cap margin is typically inrolled when young and may retain a whitish rim.
 
@@ -26,7 +22,7 @@ The spore print is olive-brown. Spores are fusiform, measuring 14–18 × 4–6 
 
 *Boletus pinophilus* is found throughout Europe, from the Mediterranean to Scandinavia, and extends into parts of North Africa and western Asia. It has also been reported from North America, though its distribution there is less well documented and may involve distinct pectomycorrhizal-associationss.
 
-As both the common name and specific epithet suggest, *B. pinophilus* is strongly associated with pine trees (*Pinus* spp.), particularly Scots pine (*Pinus sylvestris*) and other European pine species. It forms [[ectomycorrhizal-associations]] with the roots of its host trees, playing an important role in forest [[biodiversity-of-fungi-decomposition-nutrient-cycling]].
+As both the common name and specific epithet suggest, *B. pinophilus* is strongly associated with pine trees (*Pinus* spp.), particularly Scots pine (*Pinus sylvestris*) and other European pine species. It forms [[biodiversity-of-fungi-decomposition-nutrient-cycling]].
 
 The species typically fruits from late summer through autumn, with peak fruiting occurring in September and October. It prefers well-drained, sandy or gravelly soils in mature pine forests and can be found in both lowland and montane habitats.
 
@@ -37,9 +33,7 @@ The species typically fruits from late summer through autumn, with peak fruiting
 Dried *B. pinophilus* develops an intensely concentrated umami flavor that makes it a prized ingredient in Mediterranean and Eastern European cuisines. The dried mushroom is often ground into powder for use as a natural flavor enhancer.
 
 Commercial harvesting of *B. pinophilus* is an important economic activity in many E
-Related: [[porcini-boletus-guide]]
-- [[boletus-aereus]], [[porcini-boletus-guide]],
-[[medicinal-mushroom-antioxidant-anti-inflammatory]]
+Related: [[boletus-aereus]], [[medicinal-mushroom-antioxidant-anti-inflammatory]]
 ## Practical Considerations
 
 When working with Boletus pinophilus, several practical factors should be

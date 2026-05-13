@@ -16,7 +16,7 @@ created: 2026-04-28
 
 ## Short Answer
 
-In a permaculture system, nitrogen cycling is designed as a **closed-loop system** where [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]] fixation, recycling of organic wastes, and minimization of losses replace synthetic fertilizer inputs. Leguminous plants, composting, [[faires-livestock-integration-permaculture]], and strategic biomass management work together to keep nitrogen moving through the system and available to crops without the environmental pollution associated with conventional agriculture.
+In a permaculture system, nitrogen cycling is designed as a **closed-loop system** where [[faires-livestock-integration-permaculture]], and strategic biomass management work together to keep nitrogen moving through the system and available to crops without the environmental pollution associated with conventional agriculture.
 
 ## The Permaculture Nitrogen Cycle: Key Components
 
@@ -25,16 +25,7 @@ In a permaculture system, nitrogen cycling is designed as a **closed-loop system
 Permaculture systems rely on biological nitrogen fixation (BNF) as the primary nitrogen input rather than synthetic fertilizers:
 
 **Leguminous trees and shrubs (nitrogen-fixing trees/NFTs):**
-- Black locust (*[[gleditsia-triacanthos]]*): pods provide livestock fodder; fixes 40–100 kg N/ha/year
-- Siberian pea shrub (*hippophae-rhamnoides*): fixes N via *Frankia* actinorhizal symbiosis; edible berries
-- Alder (*Alnus* spp.): pioneer N fixer for riparian and degraded sites; 40–120 kg N/ha/year
-- Tagasaste (*Chamaecytisus proliferus*): fast-growing fodder tree for Mediterranean climates; 200+ kg N/ha/year
-- Acacia, Leucaena, Gliricidia, Inga: tropical N-fixing trees for agroforestry systems
-
-**Herbaceous legumes:**
-- Perennial clovers (white, red, alsike) in orchard floors and pastures
-- Alfalfa/lucerne: deep taproot mines subsoil N; 150–300 kg N/ha/year fixed
-- Vetch, peas, beans, cowpea, lupins: annual or biennial [[jeavons-green-manures-cover-crops]] in rotation
+- Black locust (*[[jeavons-green-manures-cover-crops]] in rotation
 - Native legumes: leadplant, purple prairie clover, baptisia, groundnut — adapted to local conditions
 
 ### 2. Nitrogen Recycling (The Internal Loop)
@@ -49,28 +40,8 @@ Permaculture systems rely on biological nitrogen fixation (BNF) as the primary n
 - Chickens, ducks, rabbits, goats, cattle recycle plant N through manure
 - Urine is especially N-rich (10–15 g N/L) — poultry manure contains ~3–4% N
 - Deep bedding systems (straw + manure) create compost-in-place
-- [[mollison-designers-chicken-tractors-egg-production]] concentrate manure N on garden beds before planting
-- Rabbit manure is "cold" (can be applied directly) with ~2% N
-
-**Mulching and [[query-how-does-keyline-design-work-in-permaculture]]
-- [[query-how-do-nitrogen-fixing-plants-work-in-permaculture]]
-## Practical Considerations
-
-When working with How Does Nitrogen Cycling Work in a Permaculture System?, several practical factors should be
-carefully considered to achieve optimal results. These include
-the specific conditions of the implementation context, available
-resources, timing requirements, and the interactions between this
-topic and other elements of the broader system. A holistic view
-that considers these interconnections produces better outcomes.
-
-Environmental conditions such as temperature, moisture, and
-seasonal patterns significantly influence results. Monitoring these
-variables and adapting practices accordingly is essential for success.
-The most effective practitioners develop keen observation skills and
-respond flexibly to changing conditions rather than following rigid
-protocols regardless of circumstances or local variation.
-
-[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
+- [[query-how-does-keyline-design-work-in-permaculture]]
+- [[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.

@@ -12,7 +12,7 @@ sources: [https://www.attra.ncat.org, https://www.fao.org/dairy-production-produ
 
 Goats are among the most versatile livestock a homesteader or permaculture practitioner can integrate into their system. As ruminants with strong browsing preferences, they convert woody browse, invasive brush, and diverse forage into milk, meat, fiber, and fertility — all while performing vegetation management that would otherwise require machinery or herbicides. Their relatively small size, high reproductive rate, and adaptability to varied terrain make them particularly suited to small-scale, diversified operations.
 
-In permaculture-design-course-notes, goats occupy multiple functional niches: they are a **yield element** (milk, meat, fiber, breeding stock), a **maintenance element** (vegetation control, firebreak creation, [[nutrient-cycling-in-soil]]), and a **connective element** (linking pasture, orchard, and forest systems through [[comparison-rotational-grazing-vs-continuous-grazing]]). Understanding their biology, behavior, and management requirements is essential for successful integration.
+In permaculture-design-course-notes, goats occupy multiple functional niches: they are a **yield element** (milk, meat, fiber, breeding stock), a **maintenance element** (vegetation control, firebreak creation, [[comparison-rotational-grazing-vs-continuous-grazing]]). Understanding their biology, behavior, and management requirements is essential for successful integration.
 
 ## Goat Breeds for Permaculture
 
@@ -83,46 +83,12 @@ Goats require protection from wind, rain, and extreme temperatures. Unlike cattl
 **Portable shelter designs for rotational grazing:**
 - Hoop houses on skids (moveable with ATV or by hand)
 - Cattle panel A-frame shelters
-- [[straw-bale-construction]] temporary shelters (excellent cold-weather insulation)
-- Pallet shelters with tarp or metal roofing
-
-### Fencing
-
-Goats are the ultimate fencing challenge. Recommendations:
-
-- **Perimeter fencing**: Minimum 48 inches tall for standard goats; 60 inches for athletic breeds like Alpines. Woven wire (no-climb horse fencing, 2×4 inch mesh) is standard.
-- **Electric fencing**: 3–5 strand high-tensile or poly wire, minimum 42 inches tall. Train goats to electric fence in a small, secure area first. A single strand at nose height on the inside of existing fence prevents pushing through.
-- **Corner posts**: Wooden or steel T-posts with proper bracing. Goats rub and lean on fences.
-- **Gates**: Self-latching, goat-proof latches. Goats learn to lift standard gate latches.
-- **Predator protection**: Consider livestock guardian dogs (LGDs) — Great Pyrenees, Anatolian Shepherd, Maremma are traditional choices. Llamas and donkeys also serve as guardians.
-
-## Nutritional Needs
-
-### Forage-Based Diet
-
-Goats thrive on a diverse diet of browse, forbs, pasture, and hay. In permaculture systems, they can harvest their own food from multi-species pastures, orchard understories, and managed browse strips.
-
-**Key forage species for goats:**
-- **Trees**: Black locust (high protein), willow, mulberry, [[permaculture-honey-locust-pod-fodder-system]] pods, elm, poplar
+- [[permaculture-honey-locust-pod-fodder-system]] pods, elm, poplar
 - **Shrubs**: Multiflora rose (they love thorny plants), autumn olive, Russian olive, kudzu, brambles
-- **Forbs**: [[dandelion]], plantain, chicory, vetch, clovers, comfrey
-- **Pasture grasses**: Orchardgrass, fescue, bermudagrass, bluegrass
-
-**[[savory-supplemental-feeding-and-winter-management]]:**
+- **Forbs**: [[savory-supplemental-feeding-and-winter-management]]:**
 - **Hay**: Good-quality grass or mixed hay offered free-choice when pasture/browse is insufficient. Alfalfa for pregnant/lactating does.
 - **Grain**: Dairy does in peak lactation may need 1–2 lbs of grain daily. Over-graining causes acidosis and reduces forage intake. Many homesteaders minimize or eliminate grain by using high-quality forage.
-- **Loose minerals**: Goats require a **goat-specific loose mineral** (not sheep minerals — sheep minerals lack copper, which goats need). [[query-how-to-fix-copper-deficiency-in-cannabis]] causes coat fading, weak immune response, and poor growth. Free-choice loose minerals are preferred over blocks.
-
-### Toxic Plants to Avoid
-
-Goats will generally avoid toxic plants if good forage is available, but饥饿 or curiosity can lead to poisoning:
-
-- **Rhododendron, azalea, laurel** (grayanotoxin — deadly)
-- **Yew** (taxine — rapidly fatal)
-- **Oleander** (cardiac glycosides)
-- **Cherry, peach, plum** (wilted leaves contain cyanide)
-- **Nightshade family** (leaves and green fruits)
-- **[[dynamic-accumulator-bracken-fern-potash]]** (thiaminase — cumulative poison)
+- **Loose minerals**: Goats require a **goat-specific loose mineral** (not sheep minerals — sheep minerals lack copper, which goats need). [[dynamic-accumulator-bracken-fern-potash]]** (thiaminase — cumulative poison)
 - **Hemlock** (conium — highly toxic)
 - **Johnsongrass** (prussic acid when stressed)
 
@@ -144,7 +110,4 @@ Goats will generally avoid toxic plants if good forage is available, but饥饿 o
 Internal parasites — especially **Haemonchus contortus** (barber pole worm) — are the leading health challenge for goats worldwide. Permaculture-oriented strategies include:
 
 1. **FAMACHA system**: Score eyelid mucous membrane color (1–5 scale). Only deworm animals scoring 4–5 (anemic).
-2. **Rotational grazing**: Move goats off contaminated pasture before larvae become infective (~21 days in [[stamets-cultivator-agaricus-bitorquis-warm-weather-cultivation]], longer in cool).
-3. **Multi-species grazing**: Rotate cattle, horses, or sheep behind goats. Each species' parasites are host-specific.
-4. **Tannin-rich forage**: Sericea lespedeza, chicory, and bird's-foot trefoil contain condensed tannins that reduce parasite burden.
-5. **Herbal dewormers**: Wormwood, garlic, pumpkin seeds, [[diatomaceous-earth-cannabis]] — anecdotal support but limited clinical evidence. Use as supplements, not replacements for chemical dewormers.
+2. **Rotational grazing**: Move goats off contaminated pasture before larvae become infective (~21 days in [[diatomaceous-earth-cannabis]] — anecdotal support but limited clinical evidence. Use as supplements, not replacements for chemical dewormers.

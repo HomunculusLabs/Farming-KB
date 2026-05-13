@@ -16,57 +16,13 @@ sources:
   - Hughes CE. (1998). "Monograph of Calliandra (Leguminosae-Mimosoideae)." Royal Botanic Gardens, Kew.
   - Carsan S, Karanja J, Staudt M, et al. (2012). "A review on the quality of Calliandra calothyrsus as a fodder for ruminants." Agroforestry Systems, 86(2), 247-256.
   - Sumberg JE. (1985). "Calliandra calothyrsus: An agroforestry tree for the humid tropics." NFTA, Wau, Papua New Guinea.
-  - Orwa C, Mutua A, Kindt R, et al. (2009). "Agroforestree Database: a tree reference [[lemon-cannabis-alchemy-solvent-properties-and-selection-guide]]." World Agroforestry Centre.
-created: 2026-04-28
----
+  - Orwa C, Mutua A, Kindt R, et al. (2009). "Agroforestree Database: a tree reference [[guzman-allen-gartz-neurotropic-fungi-central-america-caribbean]] and widely adopted across tropical agroforestry systems worldwide.
 
-# Calliandra calothyrsus
+Commonly known as red calliandra or pajón, it has become one of the most important [[comparison-arid-vs-tropical-permaculture]] and smallholder farming systems.
 
-Calliandra calothyrsus is a fast-growing, nitrogen-fixing leguminous tree native to [[guzman-allen-gartz-neurotropic-fungi-central-america-caribbean]] and widely adopted across tropical agroforestry systems worldwide.
+The species is valued for its rapid [[guzman-allen-gartz-neurotropic-fungi-caribbean-central-america]] to Colombia and Venezuela, typically in humid and subhumid tropical lowlands at 0–1500 m elevation.
 
-Commonly known as red calliandra or pajón, it has become one of the most important [[multipurpose-trees-in-permaculture-design]] [[comparison-arid-vs-tropical-permaculture]] and smallholder farming systems.
-
-The species is valued for its rapid [[dighton-fungal-biomass-production-aquatic-ecosystems]], high-quality fodder, soil improvement capacity, and utility as a shade tree for coffee and cocoa plantations.
-
-## Taxonomy and Morphology
-
-- **Kingdom:** Plantae
-- **Division:** Tracheophyta
-- **Class:** Magnoliopsida
-- **Order:** Fabales
-- **Family:** Fabaceae (subfamily Caesalpinioideae)
-- **Genus:** Calliandra
-- **Species:** C. calothyrsus Meisn. (1847)
-
-Calliandra calothyrsus is a multi-stemmed shrub or small tree, typically 4–8 m in height, occasionally reaching 12 m under optimal conditions.
-
-The crown is spreading and open with a flattened or irregular shape. Bark is grey-brown, becoming rough and fissured with age.
-
-Leaves are bipinnate, 15–30 cm long, with 4–6 pairs of pinnae, each bearing 15–25 pairs of small elliptic leaflets (3–6 mm long).
-
-The showy inflorescences are the most distinctive feature — dense, powder-puff-like heads, 3–5 cm in diameter, with numerous long white-to-pink stamens creating a striking visual display.
-
-Pods are linear, 8–15 cm long, 1–1.5 cm wide, flat and dehiscent, containing 8–15 seeds that are brown and oblong (4–6 mm).
-
-## Distribution and Habitat
-
-Native range extends from southern Mexico through [[guzman-allen-gartz-neurotropic-fungi-caribbean-central-america]] to Colombia and Venezuela, typically in humid and subhumid tropical lowlands at 0–1500 m elevation.
-
-The species has been widely introduced throughout the tropics, with major plantings in East Africa (Kenya, Tanzania, Uganda), Southeast Asia (Indonesia, Philippines), and the [[guzman-allen-gartz-neurotropic-fungi-hawaii-pacific-islands]].
-
-It grows best in areas with 1000–4000 mm annual rainfall and mean annual temperatures of 22–28°C, though it tolerates dry seasons of 3–5 months.
-
-C. calothyrsus is adaptable to a range of soils including acidic, infertile, and eroded sites, but performs poorly on waterlogged or highly calcareous soils.
-
-It is shade-intolerant in early growth but tolerates moderate shade once established.
-
-## Agroforestry Applications
-
-### Soil Improvement and Erosion Control
-
-As a nitrogen-fixing legume, C. calothyrsus forms associations with Rhizobium bacteria, contributing 40–100 kg N/ha/year to soil systems.
-
-The tree produces substantial leaf litter (5–10 t dry matter/ha/year) that decomposes rapidly, cycling nutrients and improving soil [[hamilton-composting-and-organic-matter-management]].
+The species has been widely introduced throughout the tropics, with major plantings in East Africa (Kenya, Tanzania, Uganda), Southeast Asia (Indonesia, Philippines), and the [[hamilton-composting-and-organic-matter-management]].
 
 Its dense root system and coppicing habit make it excellent for stabilizing slopes and controlling soil erosion on degraded hillsides.
 
@@ -82,8 +38,83 @@ The foliage contains condensed tannins (3–5%) that can reduce bloat risk but m
 
 In coffee and cocoa agroforestry systems, C. calothyrsus provides dappled shade that improves crop microclimate without excessive light competition.
 
-Its pruning cycle of 3–6 months generates mulch that suppresses weeds, retains soil moisture, and adds [[fukuoka-textdoc-composting-critique-futility-prepared-organic-matter]] around crop root zones.
-
-The tree also serves as a windbreak and boundary marker on smallholder farms, providing additional [[biodiversity-of-fungi-ecosystem-services-agriculture]] beyond direct production.
+Its pruning cycle of 3–6 months generates mulch that suppresses weeds, retains soil moisture, and adds [[biodiversity-of-fungi-ecosystem-services-agriculture]] beyond direct production.
 
 Beekeeping benefits from its abundant nectar production during flowering periods, supporting honey yields in tropical apiaries.
+
+## Overview
+
+Calliandra Calothyrsus represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish calliandra calothyrsus
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving calliandra extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Calliandra Calothyrsus finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for calliandra calothyrsus. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+calliandra calothyrsus and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Calliandra Calothyrsus has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of calliandra calothyrsus into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.

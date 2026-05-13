@@ -6,25 +6,17 @@ type: concept
 tags: [permaculture, design]
 sources: []
 ---
-Updated: 2026-04-18 Gooseberry (Ribes uva-crispa) is a hardy shrub producing tart edible berries, valued in European cuisine but restricted in some [[growing-gourmet-north-american-reishi-species]] regions due to white pine blister rust concerns. It is a productive addition to [[backyard-orchard-design]] layouts.
+Updated: 2026-04-18 Gooseberry (Ribes uva-crispa) is a hardy shrub producing tart edible berries, valued in European cuisine but restricted in some [[backyard-orchard-design]] layouts.
 
 ## Botanical Description
 
-Gooseberry is a deciduous shrub growing 3-5 feet (1-1.5 m) tall and wide with arching, thorny branches. The lobed leaves are light green, and small greenish or purplish flowers appear in [[coleman-overwintered-onions-and-early-spring-crops]]. Fruit ranges from green to red to purple depending on variety, typically 0.5-1 inch (1-2.5 cm) in diameter. Plants can be productive for 20-30 years.
-
-## Uses
-
-- Edible fruit (tart berries for jams, pies, desserts)
-
-- [[mollison-designers-bee-forage-tree-planting]] (early spring flowers)
+Gooseberry is a deciduous shrub growing 3-5 feet (1-1.5 m) tall and wide with arching, thorny branches. The lobed leaves are light green, and small greenish or purplish flowers appear in [[mollison-designers-bee-forage-tree-planting]] (early spring flowers)
 
 - Wildlife food and habitat
 
-- [[organic-pest-and-disease-management]] for [[jadam-weed-control-strategies-natural]].
+- [[jadam-weed-control-strategies-natural]].
 
 ## See Also
-
-- [[permaculture-fruit-tree-guide]]
 
 - [[jadam-fruit-tree-winter-pest-control]]
 - [[hamilton-pest-and-disease-control-organic]]

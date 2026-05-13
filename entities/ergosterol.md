@@ -46,7 +46,7 @@ Ergosterol is synthesized via the mevalonate pathway, shared with plant and anim
 - **Key enzymes:** HMG-CoA reductase (rate-limiting), squalene epoxidase, C-14 demethylase (CYP51), C-22/C-23 desaturase
 - **Regulation:** Oxygen-dependent; anaerobic conditions block the pathway at C-5 and C-22 desaturation steps, leading to accumulation of intermediate sterols
 - **Fungal specificity:** Found in all true fungi (Eumycota) but absent in bacteria, plants, and animals
-- **Content by species:** Agaricus bisporus (~5.8 mg/g DW), [[pleurotus-ostreatus]] (~7.3 mg/g DW), [[lentinula-edodes]] (~8.4 mg/g DW), porcini (Boletus edulis, ~10.6 mg/g DW)
+- **Content by species:** [[agaricus-bisporus]] (~5.8 mg/g DW), [[lentinula-edodes]] (~8.4 mg/g DW), porcini (Boletus edulis, ~10.6 mg/g DW)
 - **Mycelial vs. fruiting body:** Mycelium typically contains lower ergosterol concentrations than mature fruiting bodies
 - **Environmental factors:** Light exposure, temperature, and substrate composition influence ergosterol accumulation; higher levels observed in sun-exposed specimens
 - **Storage:** Concentrated in plasma membrane; small amounts in intracellular membranes (mitochondria, ER)
@@ -67,24 +67,84 @@ Ergosterol converts to vitamin D₂ (ergocalciferol) upon ultraviolet B (UVB) ir
 
 - **Mechanism:** UVB (280–315 nm) photolyzes the B-ring, opening it to form pre-vitamin D₂, which thermally isomerizes to vitamin D₂
 - **Conversion rate:** 20–50% of ergosterol converts to vitamin D₂ under controlled UV exposure
-- **Commercial production:** Large-scale irradiation of ergosterol extracted from yeast (*[[saccharomyces-cerevisiae]]*) is the primary source of dietary vitamin D₂ supplements
-- **Mushroom irradiation:** Fresh mushrooms exposed to UVB produce 10–25 µg vitamin D₂ per 100 g fresh weight, comparable to vitamin D₂ supplements
-- **Post-harvest enhancement:** UV treatment of commercially grown mushrooms is increasingly adopted by producers; gills are most responsive due to high surface area
-- **Sun-drying:** Traditional sun-drying of mushrooms achieves significant vitamin D₂ formation, explaining the elevated vitamin D content of many dried mushroom products in traditional diets
-- **Storage stability:** Vitamin D₂ in irradiated mushrooms is stable for up to 8 days refrigerated; degradation accelerates at room temperature
-
-## Antifungal Drug Targets
-
-Ergosterol biosynthesis is the target of the most widely used antifungal drug classes.
-
-- **Azoles (fluconazole, itraconazole, voriconazole):** Inhibit lanosterol 14α-demethylase (CYP51), blocking conversion of lanosterol to ergosterol; toxic 14α-methyl sterols accumulate
-- **Polyenes (amphotericin B, nystatin):** Bind directly to ergosterol in the membrane, forming transmembrane pores that cause ion leakage and cell death
-- **Allylamines (terbinafine):** Inhibit squalene epoxidase, preventing squalene-to-lanosterol conversion
-- **Morpholines (fenpropimorph):** Inhibit C-14 reductase and C-8 isomerase
-- **Selective toxicity:** Mammalian cells use cholesterol, not ergosterol — this difference underlies the therapeutic index of antifungal agents
-- **Resistance mechanisms:** Target site mutations in CYP51, upregulation of efflux pumps (CDR1, MDR1), and activation of alternative sterol pathways have been documented in clinical isolates of *[[candida-albicans]]* and *[[aspergillus-fumigatus]]*
+- **Commercial production:** Large-scale irradiation of ergosterol extracted from yeast (*[[candida-albicans]]* and *[[aspergillus-fumigatus]]*
 
 ## Analytical Methods
 
 - **Quantification:** HPLC with UV detection (282 nm) is the standard method; GC-MS after saponification also used
 - **Biomarker applications:** Ergosterol concentration correlates with living fungal biomass in soil (µg ergosterol/g soil ≈ mg fungal C/g soil); used in mycorrhizal research and environmental monitoring
+
+## Overview
+
+Ergosterol represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish ergosterol
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving ergosterol extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Ergosterol finds practical application in multiple design contexts.
+[[permaculture-principles]] guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for ergosterol. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+ergosterol and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Ergosterol has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of ergosterol into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and

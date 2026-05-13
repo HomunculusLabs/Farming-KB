@@ -10,7 +10,7 @@ sources: []
 
 ## Overview
 
-Chaga (*[[chaga-inonotus-obliquus]]*) and maitake (*[[maitake-grifola-frondosa]]*)
+Chaga (*[[maitake-grifola-frondosa]]*)
 are two of the most celebrated medicinal mushrooms in the world, yet they
 occupy fundamentally different ecological niches, offer distinct bioactive
 compound profiles, and serve different therapeutic goals. Chaga is a sterile
@@ -23,28 +23,6 @@ Understanding their differences helps practitioners, cultivators, and health
 enthusiasts choose the right mushroom for their specific needs.
 
 ## Chaga
-
-[[chaga]]
-
-Chaga forms a dark, charcoal-like sterile conk (sclerotium) on living birch
-trees across the circumboreal forests of Siberia, Scandinavia, Canada, and
-the northern United States. The visible mass is not a fruiting body but
-compressed mycelium and wood tissue — the actual fruiting body develops only
-after the host tree dies and is rarely seen in commerce.
-
-Its bioactive profile is dominated by three compound classes. Melanin
-concentrations of 15-30% in the black crust provide potent free-radical
-scavenging and radioprotective activity. Triterpenoids — particularly
-betulinic acid converted from birch bark betulin — give chaga unique
-antitumor and anti-inflammatory properties not found in other medicinal
-mushrooms. Beta-glucans activate immune cells via dectin-1 receptor signaling.
-
-Chaga has centuries of use in Siberian, Russian, and Scandinavian traditional
-medicine, consumed as a decoction or tea. It is one of the most commercially
-significant medicinal mushrooms globally, though wild harvest sustainability
-remains a concern due to slow growth rates of 2-5 cm per year.
-
-## Maitake
 
 [[maitake-grifola-frondosa]]
 
@@ -124,8 +102,6 @@ immune-modulating arms of the body's defense system.
 
 ## See Also
 
-- [[comparison-lions-mane-vs-chaga-medicinal-mushrooms]]
 - [[comparison-chaga-vs-turkey-tail]]
-- [[medicinal-mushrooms]]
 - [[chaga-mushroom-research]]
 - [[maitake-cancer-clinical-research]]

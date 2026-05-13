@@ -12,7 +12,7 @@ sources:
 
 Updated: 2026-04-18
 
-[[steve-solomon]] considers potatoes the most calorie-efficient [[vegetable-crop-demand-classification-fertility-matching-solomon]], making them essential for any serious food garden. He provides detailed guidance on both Irish potatoes and sweet potatoes.
+[[vegetable-crop-demand-classification-fertility-matching-solomon]], making them essential for any serious food garden. He provides detailed guidance on both Irish potatoes and sweet potatoes.
 
 ## Irish Potatoes
 
@@ -23,9 +23,7 @@ When growing food during lean times, maximizing calories per unit area is essent
 ### Soil and Fertilization
 
 - Potatoes are a medium-demand vegetable. Extremely high fertility is not needed.
-- Avoid too much manure or [[compost]], which can cause the potatoes to be diseased.
-- It's better to make the entire potato bed moderately fertile rather than concentrating amendments in rows or hills.
-- Light soils are preferred; [[query-how-do-i-improve-heavy-clay-soil-in-my-garden]] can restrict tuber development.
+- Avoid too much manure or [[query-how-do-i-improve-heavy-clay-soil-in-my-garden]] can restrict tuber development.
 - Good drainage after heavy rains is essential.
 
 ### Planting
@@ -88,3 +86,11 @@ When growing food during lean times, maximizing calories per unit area is essent
 - This encourages better root development.
 - Keep well-weeded before vines run.
 - Hill up soil against stems gradually as vines grow. Extension services say hilling reduces insect problems.
+
+## See Also
+
+- [[sweet-potato-guide]]
+- [[comparison-cassava-vs-taro-vs-sweet-potato-vs-yam]]
+- [[tropical-root-crops-cassava-taro-sweet-potato-and-yam]]
+- [[comparison-jerusalem-artichoke-vs-potato]]
+- [[jeavons-potato-growing]]

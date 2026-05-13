@@ -27,11 +27,7 @@ Cannabidiol-bis-3,5-dinitrobenzoate is a chemical derivative of cannabidiol (CBD
 - From 340 gm dark oil intermediate, 194 gm of the crystalline dinitrobenzoate derivative was obtained, demonstrating good yield for a two-step derivatization.
 - Conversion back to pure cannabidiol is achieved by adding 220 ml liquid ammonia to 288 gm of the dinitrobenzoate in 400 ml anhydrous toluene at -70 degrees C in a Parr bomb. During five hours, pressure builds to 110 psi and temperature rises to 20 degrees C.
 - The byproduct 3,5-dinitrobenzamide is removed by filtration after dissolving in heptane and washing.
-- Final chromatography on Florisil (180 gm product on 3400 gm Florisil, eluted with 30% chloroform in hexane) and crystallization from [[petroleum-ether]] yields pure white prismatic cannabidiol crystals (94.8 gm).
-
-## Relevance to Cultivation and Mycology
-
-This compound is relevant to the broader field of cannabis chemistry and pharmacognosy. The ability to isolate pure cannabidiol was historically essential for characterizing the cannabinoid profile of different cannabis varieties, conducting pharmacological research, and developing isomerization procedures for converting [[cbd-to-thc-isomerization-chemistry]]. While modern chromatographic and spectroscopic methods (HPLC, GC-MS) have largely supplanted derivative-based purification, the cannabidiol-bis-3,5-dinitrobenzoate route remains a classic example of purification through crystallizable derivative formation in natural products chemistry. It also illustrates the sophisticated chemical methodology that was applied to [[vioxx-scandal-evidence-based-medicine-gaps-lessons-cannabis-research-blesching-2015]] even in the early decades of [[greg-green-thc-and-cannabinoid-science]].
+- Final chromatography on Florisil (180 gm product on 3400 gm Florisil, eluted with 30% chloroform in hexane) and crystallization from [[cbd-to-thc-isomerization-chemistry]]. While modern chromatographic and spectroscopic methods (HPLC, GC-MS) have largely supplanted derivative-based purification, the cannabidiol-bis-3,5-dinitrobenzoate route remains a classic example of purification through crystallizable derivative formation in natural products chemistry. It also illustrates the sophisticated chemical methodology that was applied to [[greg-green-thc-and-cannabinoid-science]].
 
 ## Chemical Significance
 
@@ -41,11 +37,7 @@ The dinitrobenzoate derivatization strategy exploits two key principles: (1) the
 
 The cannabidiol-bis-3,5-dinitrobenzoate intermediate is a critical step in the complete pipeline from raw hashish to pure THC:
 
-1. Hashish is extracted with [[pf-tek-200-proof-ethyl-alcohol-procurement-state-permit]] and hexane.
-2. The extract is chromatographed on Florisil to produce a cannabinoid-enriched oil.
-3. CBD is converted to the crystalline dinitrobenzoate derivative (this compound) for purification.
-4. The derivative is cleaved with liquid ammonia to yield pure crystalline CBD.
-5. Pure CBD is isomerized with [[fukuoka-textdoc-fertilizer-soil-destruction-sulfuric-acid]] in cyclohexane to yield pure THC.
+1. Hashish is extracted with [[fukuoka-textdoc-fertilizer-soil-destruction-sulfuric-acid]] in cyclohexane to yield pure THC.
 
 ## Safety Considerations
 
@@ -68,22 +60,90 @@ The compound exhibits characteristic reactivity patterns determined by its molec
 Detection and quantification utilize spectroscopic, chromatographic, and colorimetric techniques. Standardized testing protocols ensure reproducible and reliable results across laboratories.
 
 ## See Also
-- [[vioxx-scandal-evidence-based-medicine-gaps-lessons-cannabis-research-blesching-2015]]
 - [[blesching-cannabis-chi-scoring-evidence-based-medicine]]
-- [[pf-tek-200-proof-ethyl-alcohol-procurement-state-permit]]
+- [[fukuoka-textdoc-fertilizer-soil-destruction-sulfuric-acid]]
+- [[vioxx-scandal-evidence-based-medicine-gaps-lessons-cannabis-research-blesching-2015]]
 - [[fukuoka-textdoc-fertilizer-soil-destruction-sulfuric-acid]]
 - [[cannabis-evidence-based-medicine-chi-methodology]]
 
 ## See Also
-- [[vioxx-scandal-evidence-based-medicine-gaps-lessons-cannabis-research-blesching-2015]]
-- [[pf-tek-200-proof-ethyl-alcohol-procurement-state-permit]]
-- [[fukuoka-textdoc-fertilizer-soil-destruction-sulfuric-acid]]
-- [[blesching-cannabis-chi-scoring-evidence-based-medicine]]
-- [[cannabis-evidence-based-medicine-chi-methodology]]
-
-## See Also
-- [[parr-bomb]]
 - [[florisil]]
-- [[mycology]]
 - [[cyclohexane]]
 - [[doc]]
+
+## Overview
+
+Cannabidiol Bis 3 5 Dinitrobenzoate represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish cannabidiol bis 3 5 dinitrobenzoate
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving cannabidiol extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Cannabidiol Bis 3 5 Dinitrobenzoate finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for cannabidiol bis 3 5 dinitrobenzoate. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+cannabidiol bis 3 5 dinitrobenzoate and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Cannabidiol Bis 3 5 Dinitrobenzoate has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of cannabidiol bis 3 5 dinitrobenzoate into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.

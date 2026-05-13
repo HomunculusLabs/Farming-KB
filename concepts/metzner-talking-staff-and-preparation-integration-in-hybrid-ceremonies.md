@@ -11,10 +11,7 @@ created: 2026-05-08
 
 metzner-preparation-and-integration-practices-in-hybrid-ceremonies
 
-[[metzner-set-and-setting-hypothesis-origins-and-extensions]]
 [[metzner-shamanic-singing-icaros-rhythm-and-entrainment]]
-[[metzner-syncretic-entheogenic-folk-ceremonies]]
-metzner-syncretic-entheogenic-folk-ceremonies-community-ritual
 [[metzner-holotropic-breathwork-and-grof-perinatal-matrices]]
 ## Background and Context
 

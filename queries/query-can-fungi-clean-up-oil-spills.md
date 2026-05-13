@@ -14,43 +14,18 @@ type: query
 Yes, certain fungi can break down petroleum hydrocarbons, heavy metals, pesticides,
 explosives, and other environmental pollutants through a process called mycoremediation.
 White rot fungi like Pleurotus ostreatus produce powerful enzymes called peroxidases
-that decompose complex [[plants-of-the-gods-chemical-structures-hallucinogens]] found in oil, PAHs, and many synthetic
-contaminants. While promising, mycoremediation works best as part of integrated
-remediation strategies rather than as a standalone solution for environmental cleanup.
-
-## Detailed Explanation
-
-Mycoremediation is the use of fungi to degrade, sequester, or otherwise neutralize
-environmental contaminants. The concept was popularized by Paul Stamets and has since
-been validated by numerous scientific studies demonstrating that certain fungal species
-possess remarkable abilities to break down chemicals that persist in the environment
-for decades or even centuries. The [[brown-rot-and-white-rot-fungi-in-mycoremediation]] enzymes that
-decompose wood, including [[fungal-lignin-peroxidase-veratryl-alcohol]], [[fungal-manganese-peroxidase-remediation]], and laccase, can
-also break the chemical bonds in petroleum compounds. The mycoremediation of oil spills and [[mycoremediation-of-heavy-metals]] guides explain how species like Pleurotus
-and Ganoderma have been used to treat contaminated water and soil containing lead,
-cadmium, mercury, and chromium. The fungal-biodegradation-pesticides research
-shows that fungi can break down organophosphates, organochlorines, and other pesticide
-classes through enzymatic action. Explosive contaminants like TNT and RDX, which
-contaminate military training grounds and manufacturing facilities, are also
-susceptible to fungal degradation as documented in mycoremediation-of-explosives. The mycoremediation-basic-techniques describes [[mushroom-inoculation-methods-spore-syringe-mycelium-syringe-agar-squares-comparison]] where fungal spawn
+that decompose complex [[brown-rot-and-white-rot-fungi-in-mycoremediation]] enzymes that
+decompose wood, including [[fungal-manganese-peroxidase-remediation]], and laccase, can
+also break the chemical bonds in petroleum compounds. The mycoremediation of oil spills and [[mushroom-inoculation-methods-spore-syringe-mycelium-syringe-agar-squares-comparison]] where fungal spawn
 or myceliated substrates are mixed directly into contaminated soil or placed in
 filtration systems. mycoremediation-bioreactor-design covers
 controlled systems where fungal enzymes are produced at scale for ex situ treatment of
-contaminated water or soil. The [[fungal-bioremediation-mechanisms]] page provides a balanced
-assessment of when mycoremediation is and is not appropriate. The [[mycoremediation-of-textile-dyes]] and [[mycoremediation-of-plastics]] page covers
-emerging research into fungal species that can colonize and slowly degrade specific
-plastic polymers. Pestalotiopsis microspora, discovered in the Amazon, has shown
-ability to degrade polyurethane, and several other species are being investigated
-for their plastic-degrading potential. This research is still in its early stages
-but represents a potentially transformative application of fungal biology.
-
-Emerging techniques in mycoremediation include [[fukuoka-textdoc-genetic-engineering-critique-warning]] to enhance
+contaminated water or soil. The [[mycoremediation-of-textile-dyes]] and [[fukuoka-textdoc-genetic-engineering-critique-warning]] to enhance
 fungal enzyme production, nanotechnology-enabled delivery systems for fungal
 inoculum, and the development of fungal-bacterial consortia that combine the
 strengths of both organism types. The mycoremediation-enzyme-production-optimization pages explore these cutting-edge
 approaches that may significantly improve the speed and effectiveness of fungal
-bioremediation in the coming years. The [[fungal-remediation-decision-tree]]
-- [[mycoremediation-case-studies]]
+bioremediation in the coming years. The [[mycoremediation-case-studies]]
 ## Practical Considerations
 
 When working with Can Fungi Clean Up Oil Spills and Environmental Pollution, several practical factors should be

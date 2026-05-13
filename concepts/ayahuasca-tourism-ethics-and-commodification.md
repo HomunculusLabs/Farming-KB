@@ -8,9 +8,7 @@ type: concept
 tags: [ayahuasca, ethics]
 ---
 
-# [[ayahuasca-tourism]] raises significant ethical concerns that cut across cultural appropriation, economic exploitation, authenticity, and safety.
-
-As shamanism became fashionable among [[ayahuasca-tourism-western-seekers-and-integration]] in the 1990s, commercial demand created a tourism industry that inevitably transforms the character of the ceremonies it packages and sells.
+# [[ayahuasca-tourism-western-seekers-and-integration]] in the 1990s, commercial demand created a tourism industry that inevitably transforms the character of the ceremonies it packages and sells.
 
 The ethical landscape is complex, involving tensions between genuine cross-cultural exchange and exploitative commercialization, between seekers' spiritual aspirations and practitioners' economic realities.
 
@@ -18,9 +16,7 @@ The ethical landscape is complex, involving tensions between genuine cross-cultu
 
 ### Shallowness of Commercialized Ceremony
 
-A core ethical tension is that commercialized [[metzner-amazonian-ayahuasca-ceremonies-icaros-and-healing-methods]] tend to be shallower than rituals conducted solely for the shaman's relatives and community.
-
-The article states plainly that "the character of a commercialized [[ayahuasca-ceremony-pharmacology-safety]] would probably be shallower than a ritual conducted solely for the benefit of the shaman's relatives and community."
+A core ethical tension is that commercialized [[ayahuasca-ceremony-pharmacology-safety]] would probably be shallower than a ritual conducted solely for the benefit of the shaman's relatives and community."
 
 In a tourist-oriented ceremony, visitors observe ritual procedures and hear icaros (sacred chants), but the experience is fundamentally observational rather than participatory.
 
@@ -32,9 +28,7 @@ The ceremonial depth, communal intention, and cosmological specificity that char
 
 ### Linguistic and Cultural Barriers
 
-Even in ordinary [[mckenna-food-gods-designer-states-of-consciousness]], linguistic barriers and cultural misunderstandings confound communication between foreign tourists and indigenous practitioners.
-
-These barriers are amplified during [[weil-the-natural-mind-altered-states-normalcy]] of consciousness, making genuine spiritual transmission extremely difficult in a commercial setting.
+Even in ordinary [[weil-the-natural-mind-altered-states-normalcy]] of consciousness, making genuine spiritual transmission extremely difficult in a commercial setting.
 
 The shaman's primary concern becomes risk management -- "it is only prudent for the shaman to take reasonable precautions to prevent problems with foreigners" -- rather than deep engagement with each participant.
 
@@ -66,11 +60,7 @@ The article documents a consistent pattern of exploitation by some practitioners
 
 - Another practitioner ("A") swindled the author on the price of a tobacco pipe, leading to declined invitations for rituals -- a decision that protected the author but also meant missing potentially valuable ceremonial experiences.
 
-These observations coexist with accounts of honorable practitioners, such as "E" in [[san-francisco-shipibo-ayahuasca-ceremonial-center]], who was "widely regarded as an honorable man" and conducted private family services at night alongside his commercial offerings.
-
-The uneven quality of practitioners creates a landscape where exploitation is common enough to warrant caution but not universal enough to condemn the entire industry.
-
-This ambiguity makes ethical navigation particularly difficult for tourists, who must distinguish genuine practitioners from opportunists without adequate information or [[ayahuasca-pharmacology-and-cultural-context]].
+These observations coexist with accounts of honorable practitioners, such as "E" in [[ayahuasca-pharmacology-and-cultural-context]].
 
 ### Asymmetric Power and Information
 
@@ -117,8 +107,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[ayahuasca]]
 - [[doc]]
-- [[shamanism]]
 - [[icaros]]
 - [[icaro]]

@@ -43,15 +43,7 @@ The flowering stem is thick (3–5 cm diameter at the base), hollow, and can rea
 
 The root system is a massive, thickened taproot that can weigh 5–15 kg in mature plants. It is this taproot that yields the commercially valuable oleo-gum-resin when wounded.
 
-Seeds are small, oval, and flattened, approximately 8–12 mm long with prominent dorsal ribs. Viability is relatively short, typically 1–2 years under proper [[spawn-storage-conditions]].
-
-## Distribution and Habitat
-
-Ferula assa-foetida is native to the arid and semi-arid mountainous regions of Central Asia. Its range extends from eastern Iran through Afghanistan and into southern Turkmenistan.
-
-The species grows on dry, stony hillsides, alluvial fans, and mountain slopes at elevations of 1000–3500 meters. It prefers well-drained, calcareous soils in areas with low annual rainfall (150–300 mm).
-
-Associated vegetation includes other xerophytic Apiaceae, Asteraceae, and Poaceae species adapted to the continental climate of the Iranian Plateau and [[cannabis-hindu-kush-strain-description-clarke]].
+Seeds are small, oval, and flattened, approximately 8–12 mm long with prominent dorsal ribs. Viability is relatively short, typically 1–2 years under proper [[cannabis-hindu-kush-strain-description-clarke]].
 
 Wild populations have declined significantly due to overharvesting of resin and habitat degradation from grazing. The species is classified as vulnerable in parts of its range.
 
@@ -73,7 +65,7 @@ Domestication efforts face challenges including the long juvenile period, irregu
 
 ## Chemistry and Uses
 
-Asafoetida oleo-gum-resin contains three major fractions: resin (40–64%), gum (25–40%), and [[permaculture-designers-manual-essential-oil-plants]] (10–20%). Each fraction contributes distinct [[guzman-magic-mushrooms-chemical-constituents]] and biological activities.
+Asafoetida oleo-gum-resin contains three major fractions: resin (40–64%), gum (25–40%), and [[guzman-magic-mushrooms-chemical-constituents]] and biological activities.
 
 The essential oil is dominated by sulfur-containing compounds, particularly (E)-1-propenyl sec-butyl disulfide (30–50%) and (Z)-1-propenyl sec-butyl disulfide (10–20%). These compounds are responsible for the characteristic sulfurous odor.
 

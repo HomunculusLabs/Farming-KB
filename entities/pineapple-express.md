@@ -27,14 +27,7 @@ sources:
 
 ## Overview
 
-Pineapple Express is a sativa-dominant hybrid cannabis strain renowned for its tropical fruit aroma, uplifting cerebral effects, and widespread cultural recognition — amplified enormously by the 2008 Judd Apatow/Seth Rogen film of the same name. Despite the Hollywood association, Pineapple Express is a legitimate and well-regarded cultivar with a loyal following among both recreational and medical users. It delivers an energizing, creative high suitable for daytime use, with a distinctive tropical flavor profile that makes it one of the most instantly recognizable strains in [[mckenna-cannabis-culture-history]].
-
-## Lineage and Genetics
-
-Pineapple Express is the result of crossing two distinctly Hawaiian-influenced strains:
-
-- **Trainwreck:** A legendary sativa-dominant hybrid with Mexican and Thai landrace ancestry, known for its potent, fast-acting cerebral high and complex earthy, pine, and citrus aromas. Trainwreck is itself a cross of Mexican sativa, Thai sativa, and Afghani indica genetics, producing a balanced yet cerebral experience. See [[trainwreck-cannabis]] — Parent strain with cerebral potency
-- [[cannabis-indoor-growing-basics]] — Pure sativa with energizing effects
+Pineapple Express is a sativa-dominant hybrid cannabis strain renowned for its tropical fruit aroma, uplifting cerebral effects, and widespread cultural recognition — amplified enormously by the 2008 Judd Apatow/Seth Rogen film of the same name. Despite the Hollywood association, Pineapple Express is a legitimate and well-regarded cultivar with a loyal following among both recreational and medical users. It delivers an energizing, creative high suitable for daytime use, with a distinctive tropical flavor profile that makes it one of the most instantly recognizable strains in [[trainwreck-cannabis]] — Parent strain with cerebral potency
 - [[blue-dream]] — Balanced hybrid with similar broad appeal
 - [[endocannabinoid-neurogenesis-neuroplasticity-blesching]]
 ## Practical Applications

@@ -12,17 +12,12 @@ sources:
 
 Updated: 2026-04-18
 
-The walnut-hackberry guild, developed by Arizona permaculture designer Tim Murphy, is a nature-based guild centered on the allelopathic walnut tree (Juglans spp.). This guild demonstrates the armchair method of guild design: observing natural plant communities, understanding their interrelationships, and then building analogous human-designed assemblages that produce food and other useful products while maintaining [[phytochrome-ecological-function-dusk-dawn-red-far-red-light-switch]].
-
-## The Allelopathy Challenge
-
-Walnut trees secrete juglone, a toxic compound that suppresses competing plants. Very few species can thrive under the walnut canopy, and vegetation near the trees is often stunted. This makes [[comparison-companion-planting-reference-vs-jadam-monoculture-critique]] with walnuts particularly tricky. However, observing nature reveals that certain species naturally tolerate juglone and can form productive communities beneath walnuts.
+The walnut-hackberry guild, developed by Arizona permaculture designer Tim Murphy, is a nature-based guild centered on the allelopathic walnut tree (Juglans spp.). This guild demonstrates the armchair method of guild design: observing natural plant communities, understanding their interrelationships, and then building analogous human-designed assemblages that produce food and other useful products while maintaining [[comparison-companion-planting-reference-vs-jadam-monoculture-critique]] with walnuts particularly tricky. However, observing nature reveals that certain species naturally tolerate juglone and can form productive communities beneath walnuts.
 
 ## Core Guild Members
 
 ### Walnut (Juglans spp.) -- Central Element
-- Provides nuts, premium timber, and [[hemenway-backyard-wildlife-habitat]]
-- [[permplant-carob-drought-tolerant-food-tree]]; grows in arid western states and less harsh locales
+- Provides nuts, premium timber, and [[permplant-carob-drought-tolerant-food-tree]]; grows in arid western states and less harsh locales
 - Naturally open, spreading varieties (butternut, buartnut, heartnut) are excellent
 - Decomposing walnut leaves and husks release insect-repelling citronella fumes
 - Black walnut (J. nigra), butternut (J. cinerea), heartnut (J. ailantifolia cordiformis)
@@ -53,19 +48,10 @@ Chiltepine (Capsicum aviculare) and wolfberry (Lycium spp.) are found naturally 
 - Note: potatoes are stunted by juglone and should be avoided
 
 ### Nitrogen Fixers
-Russian olive ([[elaeagnus-angustifolia]]) and other Elaeagnus species are drought-tolerant and insensitive to juglone. They provide:
-- [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]] via symbiotic bacteria
+Russian olive ([[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]] via symbiotic bacteria
 - Wildlife food (berries)
 - Human food (goumi and Elaeagnus x ebbingei produce edible fruit)
-- [[fukuoka-natural-farming-in-arid-regions]], native N-fixers like ceanothus and Apache plume (Fallugia paradoxa) work well
-
-### Buffer Zone Plants
-Placed at guild margins to protect neighboring plants from juglone drift:
-- Mulberry (Morus spp.)
-- Elderberry (Sambucus spp.)
-- [[comparison-black-locust-vs-honey-locust]] ([[robinia-pseudoacacia]]) -- also fixes nitrogen, beloved by bees
-- Acacia -- also fixes nitrogen
-- Beyond this buffer zone, non-tolerant fruiting [[nitrogen-fixing-trees-and-shrubs]] can be planted
+- [[comparison-black-locust-vs-honey-locust]] ([[nitrogen-fixing-trees-and-shrubs]] can be planted
 
 ## Guild Assembly
 
@@ -87,3 +73,78 @@ A key ecological insight from this guild: certain plant families thrive in the l
 ## Proven Installations
 
 Mary Zemach of Los Alamos has installed a variation containing currants, wolfberries, elderberries, silverberries, and Elaeagnus alongside walnuts and hackberries. While still experimental, the plants were reported as thriving.
+
+## Overview
+
+Walnut Hackberry Guild Design represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish walnut hackberry guild design
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving walnut extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Walnut Hackberry Guild Design finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for walnut hackberry guild design. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+walnut hackberry guild design and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Walnut Hackberry Guild Design has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of walnut hackberry guild design into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and

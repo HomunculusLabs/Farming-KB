@@ -8,47 +8,8 @@ type: entity
 
 ## Description
 
-The ayahuasca ceremony (sesión de ayahuasca) is the central ritual practice of Amazonian vegetalismo, conducted in the home of a vegetalista (plant medicine practitioner). The ceremony follows a precise sequence of preparation, prayer, ingestion, singing of icaros, and visionary experience. As described in Pablo Amaringo's [[amaringo-ayahuasca-visions-shipibo-iconography]], the ceremony involves specific protocols for preparation, drinking, seating, and interaction with the spirit world.
-
-## Classification
-
-- **Domain**: Amazonian vegetalismo / mestizo shamanism
-- **Category**: Ritual practice, ceremonial procedure
-- **Setting**: Nighttime, in the vegetalista's home
-- **Components**: Prayer, icaro singing, smoke blowing, perfume application
-
-## Key Facts
-
-- The ceremony takes place at approximately 9-10 PM in complete darkness. The vegetalista blows smoke on each person's head and may apply perfume or camphorated water depending on their specialty.
-- Before drinking, the participant must pray to the ayahuasca spirit: "Grandfather, please, let me see all those things I want to see." Wishes may include seeing a distant relative, finding something lost, discovering the nature of an illness, or identifying enemies.
-- The participant must drink from the same spot on the gourd where the vegetalista blew and sang, as this is the point of activation for the medicine's power.
-- [[soil-health-assessment-biological-chemical-physical-indicators]] predict the nature of the experience: a single yawn means beautiful visions; multiple yawns mean strong visions or enemy attacks. Left arm contractions indicate sorcerer interference; right arm contractions indicate the ayahuasca spirit will fulfill the participant's wishes.
-- People sit in ritual order, not randomly. Those with mal aire (illness from evil breeze) or sorcery-induced illnesses not healed by [[fukuoka-eastern-western-medicine-healing-world-crisis]] come for treatment with plant teachers.
-- The ceremony begins with jokes and stories about supernatural encounters — yakuruna, pink dolphins, Chullachaki, Sachanzama, black tigers, mermaids — building communal rapport before the sacred work begins.
-
-## Relevance to Cultivation and Mycology
-
-The ayahuasca ceremony represents the traditional clinical setting for plant medicine administration in Amazonia. Understanding the ceremonial framework is essential for ethnopharmacological research because set and setting profoundly influence drug effects. The specific protocols — dietary preparation, darkness, smoke, perfume, icaro singing, and communal storytelling — create a reproducible context that shapes the pharmacological experience. The vegetalista's advisory role about food prescriptions and behavioral restrictions during ayahuasca use parallels modern medical guidance about drug-food interactions. The [[ayahuasca-ceremony-structure-and-practice]] demonstrates how Amazonian peoples have developed a systematic approach to [[metzner-amplifier-microscope-metaphors-psychedelic-therapy]] over millennia of practice.
-
-## Related Entities
-
-- Icaro — the sacred songs that drive the ceremony
-- Vegetalista — the practitioner who leads the ceremony
-- Mariri — the shaman's power activated during the ceremony
-- Chullachaki — spirit entity discussed in ceremony storytelling
-- Yakuruna — water beings discussed in ceremony storytelling
-
-## Sequence of Practice
-
-- The ceremony begins before the brew is swallowed.
-- Diet, intention, fear, expectation, and social trust shape the session.
-- The vegetalista's house becomes a temporary clinical and cosmological space.
-- Darkness reduces ordinary visual distraction.
-- Smoke, perfume, prayer, and song organize attention.
-- The shared gourd marks the brew as a mediated medicine rather than a casual drink.
-- The prayer to the ayahuasca spirit frames the experience as a request.
-- The participant asks to see what is needed, lost, hidden, or healing.
-- This request aligns the ceremony with [[ayahuasca-ceremony-structure-and-practice]].
+The ayahuasca ceremony (sesión de ayahuasca) is the central ritual practice of Amazonian vegetalismo, conducted in the home of a vegetalista (plant medicine practitioner). The ceremony follows a precise sequence of preparation, prayer, ingestion, singing of icaros, and visionary experience. As described in Pablo Amaringo's [[soil-health-assessment-biological-chemical-physical-indicators]] predict the nature of the experience: a single yawn means beautiful visions; multiple yawns mean strong visions or enemy attacks. Left arm contractions indicate sorcerer interference; right arm contractions indicate the ayahuasca spirit will fulfill the participant's wishes.
+- People sit in ritual order, not randomly. Those with mal aire (illness from evil breeze) or sorcery-induced illnesses not healed by [[ayahuasca-ceremony-structure-and-practice]] demonstrates how Amazonian peoples have developed a systematic approach to [[ayahuasca-ceremony-structure-and-practice]].
 
 ## Role of the Vegetalista
 
@@ -58,14 +19,7 @@ The ayahuasca ceremony represents the traditional clinical setting for plant med
 - The vegetalista listens to bodily signs such as yawning, trembling, crying, or purging.
 - These signs are interpreted within the local medical system.
 - Icaros guide the visions and call specific plant or spirit allies.
-- The practice is closely related to [[icaros-in-ayahuasca-ceremony]].
-- A trained singer can calm fear, intensify vision, or direct healing.
-- The song is both music and medicine.
-
-## Mariri and Protection
-
-- The ceremony also activates the healer's mariri.
-- [[mariri]] is described as a subtle phlegm or power substance.
+- The practice is closely related to [[mariri]] is described as a subtle phlegm or power substance.
 - It can contain, move, or neutralize harmful forces.
 - In extraction work, mariri protects the healer from what is removed.
 - This is why the page title links to [[ayahuasca-ceremony-and-mariri-system]].
@@ -102,3 +56,88 @@ The ayahuasca ceremony represents the traditional clinical setting for plant med
 - Such stories prepare participants for visionary landscapes.
 - The ceremony links ethnobotany, music, myth, psychology, and medicine.
 - It remains the central container for understanding ayahuasca in Amaringo's source text.
+
+## Overview
+
+Ayahuasca Ceremony represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish ayahuasca ceremony
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving ayahuasca extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Ayahuasca Ceremony finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for ayahuasca ceremony. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+ayahuasca ceremony and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Ayahuasca Ceremony has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of ayahuasca ceremony into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[ayahuasca-ceremony-and-mariri-system]]
+- [[ayahuasca-sorcery-types]]
+- [[ayahuasca-tourism-cost-analysis-peru-vs-homebrew]]
+- [[ayahuasca-tourism-ethics]]
+- [[icaros-in-ayahuasca-ceremony]]

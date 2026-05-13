@@ -61,8 +61,7 @@ ones, allowing bacterial populations to stabilize.
 
 ## Mineralization -- The Key Role
 
-The most critical function of protozoa in the [[nematode-roles-in-soil]], [[root-exudates-rhizosphere]], [[teaming-with-microbes-soil-food-web-trophic-structure-and-succession]]
-- [[teaming-with-microbes-plant-control]]
+The most critical function of protozoa in the [[root-exudates-rhizosphere]], [[teaming-with-microbes-plant-control]]
 - [[teaming-with-microbes-compost-tea-and-inoculation]]
 ## Practical Considerations
 

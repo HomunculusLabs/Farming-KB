@@ -29,9 +29,7 @@ Nutrients are grouped into three categories:
 ## Macronutrient Deficiencies
 
 ### Nitrogen (N) — Mobile
-**Role:** Essential for proteins, chlorophyll, amino acids, enzymes, nucleic acids. Mainly responsible for leaf and stem growth, overall size and vigor. Required in high levels during [[cannabis-vegetative-growth-stage]].
-
-**Deficiency symptoms:** Most common [[cannabis-grow-nutrient-deficiency-problem-solving]].
+**Role:** Essential for proteins, chlorophyll, amino acids, enzymes, nucleic acids. Mainly responsible for leaf and stem growth, overall size and vigor. Required in high levels during [[cannabis-grow-nutrient-deficiency-problem-solving]].
 - Slow growth
 - Lower leaves yellow between veins while veins remain green (interveinal chlorosis)
 - Yellowing progresses through entire leaf; leaf dies and drops
@@ -67,17 +65,7 @@ Nutrients are grouped into three categories:
 ## General Nutrient Management
 
 - Fertilize sparingly the first month after transplanting
-- Use high-nitrogen formula during [[comparison-cannabis-vegetative-stage-vs-flowering-stage]]
-- Change to "super bloom" (high P, K; low N) when flowering begins
-- Leach nutrients from growing medium 7-10 days before harvest to avoid fertilizer taste
-- Fertilizer with chelated iron helps when excess calcium blocks iron and potassium uptake
-
-## pH and Nutrient Availability
-
-- Soil pH 6.0-7.0 for optimal nutrient availability
-- Hydroponic pH 5.5-6.5
-- Outside this range, nutrients become "locked out" — present but unavailable to plants
-- [[teaming-with-microbes-humic-and-fulvic-acids]] acids chelate metallic ions (Cu, Fe, Mn, Zn), making them readily transportable and available
+- Use high-nitrogen formula during [[teaming-with-microbes-humic-and-fulvic-acids]] acids chelate metallic ions (Cu, Fe, Mn, Zn), making them readily transportable and available
 
 ## Soil Temperature and Nutrient Uptake
 
@@ -87,7 +75,7 @@ Nutrients are grouped into three categories:
 - Root temperatures below 40°F cause cell damage from freezing water expansion
 
 ## Related Topics
-- [[cervantes-flowering-phase]] — [[green-cannabis-grow-bible-flowering-phase-and-harvest]] nutrient changes
+- [[green-cannabis-grow-bible-flowering-phase-and-harvest]] nutrient changes
 
 ## Practical Applications
 
@@ -118,8 +106,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[cannabis-nutrient-management]]
 - [[jorge-cervantes]]
-- [[cervantes-nutrient-solution-reservoir-management]]
 - [[hydroponic-nutrient-management]]
 - [[cervantes-nutrient-mobility-deficiency-diagnosis]]

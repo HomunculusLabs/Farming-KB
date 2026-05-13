@@ -115,19 +115,11 @@ It is less practical in urban areas with strict code enforcement and high labor 
 
 Earthbag is one of several options within the natural building family, each with different strengths.
 
-Compared to [[adobe-construction]], earthbag works with a wider range of soil types and does not require making and curing bricks in advance.
+Compared to [[comparison-cob-construction-vs-straw-bale-construction]], earthbag is faster for very thick walls but produces a less sculptable surface.
 
-Against [[comparison-cob-construction-vs-straw-bale-construction]], earthbag is faster for very thick walls but produces a less sculptable surface.
+The [[comparison-earthbag-vs-adobe-construction]] explains that earthbag is more forgiving of imperfect soil mixes.
 
-The [[comparison-earthbag-construction-vs-cob-construction]] page details how earthbag offers better seismic performance than cob in earthquake zones.
-
-For builders choosing between systems, [[comparison-earthbag-vs-adobe-construction]] explains that earthbag is more forgiving of imperfect soil mixes.
-
-The [[comparison-earthbag-vs-rammed-earth]] comparison shows that rammed earth produces a smoother, more refined wall but requires expensive formwork.
-
-Other natural methods like [[comparison-cob-vs-hempcrete]] and [[comparison-cob-vs-timber-frame]] offer different trade-offs in insulation, cost, and skill level.
-
-For a broader natural building decision, [[how-do-i-choose-between-straw-bale-and-earthbag-construction]] covers the most common comparison people face.
+The [[comparison-cob-vs-hempcrete]] and [[how-do-i-choose-between-straw-bale-and-earthbag-construction]] covers the most common comparison people face.
 
 ## Key Points
 
@@ -137,12 +129,6 @@ For a broader natural building decision, [[how-do-i-choose-between-straw-bale-an
 - Walls must be plastered with earthen or lime plaster to protect bags from UV degradation.
 - Earthbag construction is extremely low-cost but very labor-intensive.
 - The technique offers excellent thermal mass and earthquake resistance.
-- It is well-suited for [[homestead-startup-checklist]] projects in rural or off-grid settings.
-- Building codes vary widely, so check local regulations before starting.
-
-## Related Questions
-
-- [[query-how-do-i-choose-a-natural-building-method-for-my-climate]]
-- [[query-can-bamboo-be-used-as-a-building-material-and-how-do-i-get-started]]
+- It is well-suited for [[query-how-do-i-choose-a-natural-building-method-for-my-climate]]
 - [[query-what-is-the-best-natural-plaster-for-earthship-or-cob-walls]]
 - [[query-how-do-i-build-and-manage-a-greywater-system-for-garden-irrigation]]

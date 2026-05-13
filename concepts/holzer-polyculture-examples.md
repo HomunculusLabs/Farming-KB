@@ -16,38 +16,16 @@ Growing plants in polycultures is both possible and practical anywhere. Monocult
 ## Cereal Polycultures
 
 ### Cereals with Catch Crops
-- Sow catch crops (clover, radishes, salad, various [[permaculture-plants-medicinal-herbs-healing]]) after cereal crops have flowered
-- Catch crops develop slowly while cereals ripen
-- When cereals are harvested, catch crops receive more light and begin to thrive
-- Soon ready for harvest
-- Mixed clover varieties can be sown earlier as ground cover
-- Clover supports cereal growth and prevents rival plants
-- After cereal harvest, field can be used as forage area
-
-### Stubble Drilling
-- After cereal harvest, sow plants directly into remaining stubble
-- Suitable plants depend on location and [[savory-growing-season-and-non-growing-season-management]]
+- Sow catch crops (clover, radishes, salad, various [[savory-growing-season-and-non-growing-season-management]]
 - September cereal harvest: sow forage or winter fruit (winter rape, turnips)
 - These root in autumn, survive winter, ripen next summer
 - Can be harvested or left to improve soil / tilled in
 - At lower altitudes (July harvest): fast-growing vegetables, turnips, salad give another yield same year
-- After catch [[cole-crop-harvest-and-storage]], field can be planted with [[coleman-semi-hibernating-winter-crops-harvest-extension]] in autumn
+- After catch [[coleman-semi-hibernating-winter-crops-harvest-extension]] in autumn
 - Intensive use only possible when none of the crops are monoculture
 
 ### Key Principle
-A balanced mixture of plants that improve soil and [[query-how-to-fix-nitrogen-toxicity-in-cannabis]] is required. Polycultures will not exhaust the soil of any one nutrient because they have different requirements. Leave some crops as mulch and green manure rather than harvesting everything.
-
-## Tall Plant Support Systems
-
-### Maize, Sunflowers, Hemp with Legumes
-- Tall-growing plants give peas and beans something to climb
-- Legumes provide nitrogen and improve growth of supporting plants
-- All can be harvested and threshed together
-
-### Jerusalem Artichoke Polyculture
-- Jerusalem artichokes + maize + peas + beans
-- Harvested together and processed in a forage silo
-- Catch crop of [[fukuoka-white-clover-cover-crop-system]], black medick, and Alsike clover (on wet soil)
+A balanced mixture of plants that improve soil and [[fukuoka-white-clover-cover-crop-system]], black medick, and Alsike clover (on wet soil)
 
 ### Pea and Maize Combination
 - Very good feed combination
@@ -118,8 +96,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[doc]]
 - [[jerusalem-artichoke]]
-- [[det]]
 - [[permaculture]]
 - [[polyculture-design-holzer]]

@@ -9,7 +9,7 @@ sources: []
 
 # Fungal Plant Diseases
 
-[[bloomfield-fungal-pathogens-and-parasites]] are among the most common and destructive plant diseases in both home gardens and commercial agriculture. They spread via spores carried by wind, water, insects, and contaminated tools. Most [[duggar-mushroom-insect-pests-and-fungal-diseases]] thrive in warm, humid conditions with poor air circulation.
+Fungal pathogens are among the most common and destructive plant diseases in both home gardens and commercial agriculture. They spread via spores carried by wind, water, insects, and contaminated tools. Most fungal diseases thrive in warm, humid conditions with poor air circulation.
 
 ## Major Fungal Diseases
 
@@ -74,7 +74,7 @@ Management:
 
 ### Botrytis (Gray Mold)
 
-Caused by [[botrytis-cinerea]]. Produces gray-brown fuzzy mold on dying or damaged plant tissue. Common in cool, humid conditions (58-72F) with poor air circulation. Affects strawberries, tomatoes, grapes, beans, and many ornamentals. Often a secondary pathogen that colonizes wounded tissue.
+Caused by Botrytis cinerea. Produces gray-brown fuzzy mold on dying or damaged plant tissue. Common in cool, humid conditions (58-72F) with poor air circulation. Affects strawberries, tomatoes, grapes, beans, and many ornamentals. Often a secondary pathogen that colonizes wounded tissue.
 
 Management:
 - Reduce humidity in greenhouse/grow space
@@ -91,37 +91,13 @@ Management:
 - Maintain proper plant spacing for airflow
 - Water at the base of plants, not overhead
 - Sanitize tools between plants with 70% isopropyl alcohol
-- Apply preventive biological controls (Trichoderma, [[bacillus-subtilis]])
+- Apply preventive biological controls (Trichoderma, Bacillus subtilis)
 - Keep garden debris cleaned up between seasons
 - Monitor plants regularly for early symptoms
 
-## Mechanisms of Action
-
-Understanding the underlying mechanisms provides insight into how these
-systems function and interact. Multiple pathways and feedback loops are
-typically involved, creating complex but comprehensible patterns that can
-be studied and replicated in appropriate contexts.
-
-## Comparative Analysis
-
-When compared with alternative approaches, this topic reveals distinct
-advantages and limitations. Context-specific evaluation is essential for
-determining the most appropriate methodology. Different situations may
-call for different strategies, and the optimal approach often combines
-elements from multiple frameworks.
-
-## Future Directions
-
-Ongoing research and practical experimentation continue to refine our
-understanding. Emerging technologies, improved analytical methods, and
-collaborative knowledge-sharing networks are accelerating progress in
-this field. Practitioners are encouraged to stay current with new
-developments and contribute their own observations to the collective
-knowledge base.
-
 ## See Also
 
-- [[plant-disease-identification]] -- visual [[growing-gourmet-cultivation-troubleshooting-diagnostic-guide]] for all disease types
-- [[integrated-pest-management]] -- systematic approach to pest [[vegetable-insect-and-disease-control]]
+- [[plant-disease-identification]] -- visual diagnostic guide for all disease types
+- [[integrated-pest-management]] -- systematic approach to pest and disease control
 - [[bacterial-plant-diseases]]
 - [[viral-plant-diseases]]

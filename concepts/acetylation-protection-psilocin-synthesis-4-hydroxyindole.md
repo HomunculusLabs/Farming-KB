@@ -18,15 +18,7 @@ sources:
 type: concept
 ---
 
-# Acetylation Protection Strategy in [[shirota-psilocin-psilocybin-large-scale-synthesis-pathway]] verview
-
-The concise large-scale synthesis of [[tryptamine-chemistry-psilocin-and-psilocybin-synthesis]] reported by Shirota, Hakamata, and Goda (2003) at Japan's National Institute of Health Sciences employed an **acetylation-based protection strategy** for the 4-hydroxyl group of indole, rather than the more commonly used benzyl ether protection. This choice proved critical to achieving a chromatography-free synthesis on [[shirota-gram-scale-chromatography-free-psilocybin-synthesis]], yielding both target compounds in high purity without the need for column chromatography at any step.
-
-## The Protection Choice: Acetyl vs. Benzyl
-
-Previous syntheses of psilocin from 4-hydroxyindole had utilized **benzyl ether protection** of the 4-hydroxyl group (as reported by Nichols and Frescas). The Shirota team evaluated both approaches and selected acetylation for several reasons:
-
-1. **Single-step deprotection**: Acetyl groups can be removed during the final LiAlH4 reduction step, eliminating the need for a separate deprotection reaction. Benzyl protection requires a dedicated deprotection step ([[catalytic-hydrogenolysis-palladium-carbon-debenzylation]]).
+# Acetylation Protection Strategy in [[tryptamine-chemistry-psilocin-and-psilocybin-synthesis]] reported by Shirota, Hakamata, and Goda (2003) at Japan's National Institute of Health Sciences employed an **acetylation-based protection strategy** for the 4-hydroxyl group of indole, rather than the more commonly used benzyl ether protection. This choice proved critical to achieving a chromatography-free synthesis on [[catalytic-hydrogenolysis-palladium-carbon-debenzylation]]).
 2. **Crystalline intermediates**: The acetyl-protected intermediates (4-acetylindole and 3-dimethylaminooxalyl-4-acetylindole) formed as crystalline solids, enabling purification by filtration rather than chromatography.
 3. **Operational simplicity**: Acetylation uses readily available reagents (acetic anhydride, pyridine) under mild conditions, avoiding the handling complexities associated with benzyl protection reagents.
 4. **Stability**: The 4-O-benzyl derivative of 4-hydroxyindole was noted to be "somewhat unstable, without careful control of the reaction conditions," and could not be isolated in crystal form.
@@ -64,22 +56,7 @@ The psilocin produced by this route matched literature values:
 
 ### Forensic and Analytical Applications
 
-The primary motivation for this synthesis was the production of **standard reference compounds** for the identification of psilocybin-containing mushrooms. Following the June 6, 2002 [[reversed-phase-hplc-psilocybin-psilocin-quantification-bigwood-beug]] rds**: Gas chromatography reference compounds
-- **HPLC standards**: High-performance liquid chromatography reference materials, particularly for reversed-phase methods
-
-Gram-scale production without chromatography made these standards accessible to forensic laboratories without specialized purification equipment.
-
-### Scalability
-
-The acetylation route was specifically designed for scale. All intermediates were crystalline solids that could be purified by filtration and washing, a process far more practical on large scale than column chromatography. The synthesis of compound 6 was demonstrated on a 100 mmol scale (17.6 g input), and the LiAlH4 reduction was performed on an 80 mmol scale.
-
-### Comparison with Previous Routes
-
-Previous syntheses of psilocin had been reported, but the Shirota route offered distinct advantages:
-
-- **Troxler, Seemann, and Hofmann (1959)**: The original Sandoz synthesis; psilocybin yield of approximately 20%
-- **Hofmann et al. (1959)**: Alternative route with similar limitations
-- **Nichols and Frescas**: Benzyl [[acetyl-protection-route-psilocin-psilocybin-synthesis]] with approximately 47% yield for psilocybin, requiring anion-exchange resin purification
+The primary motivation for this synthesis was the production of **standard reference compounds** for the identification of psilocybin-containing mushrooms. Following the June 6, 2002 [[acetyl-protection-route-psilocin-psilocybin-synthesis]] with approximately 47% yield for psilocybin, requiring anion-exchange resin purification
 
 The Shirota acetylation route achieved **87.5% yield for psilocin** and **87.5% yield for psilocybin** from the respective immediate precursors, representing a substantial improvement.
 
@@ -96,36 +73,8 @@ Acetylation Protection Psilocin Synthesis 4 Hydroxyindole has significant applic
 The development and understanding of acetylation protection psilocin synthesis 4 hydroxyindole has evolved considerably over recent decades, with contributions from researchers, practitioners, and indigenous knowledge systems worldwide.
 
 ## See Also
-- [[shirota-4-hydroxyindole-acetyl-protection-psilocin-synthesis-starting-material]]
 - [[acetyl-protection-route-psilocin-psilocybin-synthesis]]
-- [[shirota-acetyl-versus-benzyl-protection-psilocin-synthesis-stability-forensic-standards]]
 - [[shirota-psilocin-synthesis-4-hydroxyindole-pathway]]
-- [[four-hydroxyindole-psilocin-synthesis-route-shirota]]
-
-## Key Considerations
-
-Several important factors influence the effectiveness and outcomes described
-in this topic. Understanding these considerations helps practitioners make
-informed decisions and avoid common pitfalls. Environmental conditions,
-timing, and material selection all play critical roles.
-
-## Historical Context
-
-The historical development of this subject reflects centuries of accumulated
-knowledge and practical experience. From traditional methods passed down
-through generations to modern scientific approaches, the evolution continues
-to inform current best practices and research directions.
-
-## Common Challenges
-
-Practitioners frequently encounter several challenges when working with
-these concepts. Climate variability, resource limitations, and knowledge
-gaps can all affect outcomes. Addressing these challenges requires patience,
-observation, and a willingness to adapt approaches based on results.
-
-## See Also
 - [[psilocin]]
-- [[4-hydroxyindole]]
 - [[psilocybin]]
-- [[indole]]
 - [[tryptamine]]

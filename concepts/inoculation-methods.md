@@ -1,6 +1,6 @@
 ---
 
-title: Inoculation Methods
+title: Mushroom Inoculation Methods — Spores, Spawn, and Stem Butts
 created: 2026-04-11
 updated: 2026-04-12
 type: concept
@@ -21,7 +21,7 @@ sources:
 
 # Mushroom Inoculation Methods
 
-From Chapter 9 of *[[mycelium-running-conservation-biology-and-fungi]]* by [[paul-stamets]]. This chapter covers the practical methods for starting and expanding mycelium, from the simplest spore techniques to advanced spawn multiplication.
+From Chapter 9 of *Mycelium Running* by [[paul-stamets]]. This chapter covers the practical methods for starting and expanding mycelium, from the simplest spore techniques to advanced spawn multiplication.
 
 ## Spore Collection
 
@@ -86,7 +86,7 @@ Spawn is mycelium that has been grown on a carrier medium and is used to inocula
 
 | Spawn Type | Carrier | Best For |
 |-----------|---------|----------|
-| Grain spawn | Sterilized rye, millet, wheat | [[cannabis-sativa-indoor-cultivation-techniques]], fast expansion |
+| Grain spawn | Sterilized rye, millet, wheat | Indoor cultivation, fast expansion |
 | Sawdust spawn | Sterilized hardwood sawdust + bran | Logs, stumps, bulk substrates |
 | Plug/dowel spawn | Wooden dowels grooved for mycelium | Logs, stumps, outdoor beds |
 | Wood chip spawn | Fresh hardwood chips | Outdoor beds, bunker spawn |
@@ -94,9 +94,9 @@ Spawn is mycelium that has been grown on a carrier medium and is used to inocula
 
 ### Mother Patches and Naturalization
 Stamets recommends creating "mother patches" from laboratory spawn:
-1. Inoculate outdoor bed with [[pure-culture-spawn-method-duggar-usda-1902]]
+1. Inoculate outdoor bed with pure culture spawn
 2. Incubate 6 months to 1 year — mycelium acclimates to wild conditions
-3. Expand 2-20x using [[fukuoka-textdoc-creating-rice-paddy-natural-methods]]
+3. Expand 2-20x using natural methods
 4. Naturalized spawn is often more vigorous because its "immune system" adapts to complex microbial environments
 
 ## Transplanting Wild Mycelium
@@ -104,7 +104,7 @@ Stamets recommends creating "mother patches" from laboratory spawn:
 ### Finding and Identifying Wild Mycelium
 - Look beneath downed logs, in firewood stacks, in leaf/wood chip piles
 - Healthy mycelium grips wood chips firmly — tenacity reflects vigor
-- Scent is key: oyster = anise, [[clitocybe-odora]] = sweet, matsutake = pine
+- Scent is key: oyster = anise, Clitocybe odora = sweet, matsutake = pine
 - Mycelial "lens" or "motherlode" = a large natural concentration usable as mother patch
 
 ### Transplantation Protocol
@@ -140,11 +140,11 @@ Perhaps the most underappreciated cultivation method:
 - This is an evolutionary advantage: animals eat the soft upper flesh, discard the tough base, inadvertently inoculating new habitats
 
 ### Making Cardboard Spawn from Stem Butts
-1. Gather fresh mushrooms with stem bases and rhizomorphs intact
-2. Clip base just above where stem narrows; keep rootlike rhizomorphs attached
-3. Soak cardboard; place 1 stem butt per ~16 sq inches between panels
-4. Soak, place in box/tub, cover with wood chips
-5. Incubate in shade on the ground 4-5 months
-6. Use each colonized sheet as a mycelial footprint for outdoor beds
 
-### Making Dowel Spawn from Stem Butts
+## See Also
+
+- [[pf-tek-steam-sterilization-and-inoculation-technique]]
+- [[fungal-formulation-and-inoculation-for-in-situ-bioremediation]]
+- [[pf-tek-inoculation-and-incubation]]
+- [[spore-inoculation-sterile-technique]]
+- [[mushroom-training-inoculation-techniques]]

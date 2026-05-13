@@ -12,9 +12,7 @@ sources:
   - Nearing, Helen and Scott. The Good Life. Schocken Books, 1970.
 ---
 
-# [[season-extension-techniques]] and Protected Culture
-
-[[comparison-season-extension-techniques-vs-cold-frame-gardening]] is the practice of modifying the [[cannabis-growing-environment-setup]] to start crops earlier in spring, grow later into autumn, or produce through the winter. It encompasses a spectrum from simple, inexpensive frost barriers to fully engineered climate-controlled structures. For the homesteader, market gardener, and [[permaculture]] designer, season extension multiplies annual yield, reduces dependence on imported food, and builds resilience against erratic weather patterns driven by climate change.
+# [[comparison-season-extension-techniques-vs-cold-frame-gardening]] is the practice of modifying the [[permaculture]] designer, season extension multiplies annual yield, reduces dependence on imported food, and builds resilience against erratic weather patterns driven by climate change.
 
 ## Principles of Season Extension
 
@@ -43,48 +41,11 @@ A simple cold frame might gain you 2–4 weeks on both ends of the season. A hig
 
 Not all crops benefit equally from season extension. Understanding plant cold tolerance categories is essential:
 
-| Category | [[query-what-is-the-ideal-temperature-range-for-growing-cannabis]] | Example Crops |
-|----------|-------------------|---------------|
-| Very cold-hardy | Down to -10°C (14°F) | Spinach, mache, kale, parsnips, leeks, garlic |
-| Cold-hardy | Down to -5°C (23°F) | Carrots, beets, turnips, chard, collards, broccoli |
-| Slightly frost-tolerant | Down to -2°C (28°F) | Lettuce, peas, radishes, cauliflower, onions |
-| Frost-tender | Damaged below 0°C (32°F) | Tomatoes, peppers, eggplant, beans, cucumbers, basil |
-| Warm-season only | Damaged below 10°C (50°F) | Melons, okra, sweet potatoes (growth stalls below this) |
-
-Cool-season crops are the backbone of winter growing. With even minimal protection, many will continue slow growth through the darkest months, especially crops like spinach and mache that tolerate repeated freeze-thaw cycles.
-
-## Passive Techniques (No Structure Required)
-
-### Site Selection and Microclimate Optimization
-
-Before adding any structure, the site itself offers the cheapest and most durable season extension:
-
-- **South-facing slopes** receive more direct solar radiation and allow cold air to drain away downslope
-- **Thermal mass walls** — stone, brick, or water bodies adjacent to growing areas absorb heat during the day and release it slowly at night
-- **Windbreaks** — hedgerows, fences, or earth berms on the north and west sides reduce convective heat loss; protection extends roughly 10–15 times the windbreak's height downwind
-- **Frost pockets** — low-lying areas where cold air pools should be avoided for frost-sensitive plantings
-- **Dark surfaces** — dark-colored soil, stone mulch, or black plastic absorbs more solar radiation than light-colored surfaces, warming the seed zone faster in spring
-
-### Mulching for Season Extension
-
-Organic mulches (straw, leaves, wood chips) insulate soil, moderating temperature swings between day and night. In autumn, a thick layer of straw or leaf mulch around root crops like carrots, parsnips, and beets can keep the ground from freezing solid, allowing harvest well into winter. Black [[jadam-plastic-mulch-problems]] warms soil 2–5°C above bare ground in spring, accelerating germination of warm-season crops by 1–2 weeks.
+| Category | [[jadam-plastic-mulch-problems]] warms soil 2–5°C above bare ground in spring, accelerating germination of warm-season crops by 1–2 weeks.
 
 ### Raised Beds
 
-[[raised-beds-vs-in-ground-vs-containers]] drain and warm faster in spring than in-ground beds, gaining 1–2 weeks on the season. The elevation above surrounding ground reduces frost risk in cold-air drainage areas. When combined with row covers, raised beds become a powerful low-cost season extension combination. Build raised beds from untreated wood, stone, or corrugated metal — avoid pressure-treated lumber near edible crops.
-
-### Heat-Absorbing Surfaces and Radiant Heating
-
-Painting a south-facing wall flat black and placing a bed of dark stone or gravel in front of it creates a heat sink that radiates warmth back to adjacent plants. Water-filled containers (55-gallon drums painted black) placed inside structures provide enormous thermal mass — water has one of the highest specific heat capacities of any common material at 4.18 J/g°C.
-
-## Row Covers and Low Tunnels
-
-### Floating Row Covers
-
-Floating row covers are spunbonded polyester or polypropylene fabrics laid directly over crops without support. They are the simplest and most affordable season extension tool available.
-
-**Types by weight:**
-- **Lightweight (0.5 oz/yd²)** — provides ~2°F [[holzer-frost-protection-techniques]], transmits 85–95% light, excellent for insect exclusion
+[[holzer-frost-protection-techniques]], transmits 85–95% light, excellent for insect exclusion
 - **Medium-weight (1.0–1.25 oz/yd²)** — provides ~4°F frost protection, transmits 70–85% light, moderate insect barrier
 - **Heavyweight (1.5–2.0 oz/yd²)** — provides ~6–8°F frost protection, transmits 50–70% light, best for overwintering
 
@@ -145,5 +106,4 @@ A hotbed is a cold frame with a heat source beneath the growing bed. The traditi
 | April | Harden off transplants; sow warm-season seeds by month's end |
 | May | Remove lid during warm days; transition crops to open garden |
 ## Related
-- [[deep-water-culture]]
 - [[cotter-agar-tissue-culture-techniques]]

@@ -18,21 +18,7 @@ type: concept
 # Growing Mediums Comparison
 
 Choosing the right growing medium is fundamental to cannabis
-cultivation success. [[jorge-cervantes]] covers growing mediums in detail
-in Chapters 10 and 12 of *Marijuana Horticulture*, comparing soil,
-soilless mixes, and inert hydroponic substrates.
-
-## Cation Exchange Capacity (CEC)
-
-The CEC of a growing medium measures its capacity to hold cations
-(nutrient ions) available for root uptake. It is measured in
-milli-Equivalents per 100 grams on a scale from 0 to 100.
-
-| Medium | CEC (mEq/100g) | Notes |
-|--------|----------------|-------|
-| Compost | 90 | Highest nutrient retention |
-| Sunshine Mix | 90 | Excellent all-around |
-| [[query-what-is-the-difference-between-coco-coir-and-peat-moss]] | 80 | High retention, acidic |
+cultivation success. [[query-what-is-the-difference-between-coco-coir-and-peat-moss]] | 80 | High retention, acidic |
 | Garden soil | 70 | Moderate retention |
 | Expanded clay | 20 | Low; needs constant nutrients |
 | Vermiculite | 20 | Holds water and nutrients |
@@ -55,18 +41,7 @@ provides good drainage, moisture retention, and root penetration.
 - **Loam:** Best all-around. Different-sized particles create diverse
   pore spaces for drainage and moisture retention.
 
-Soil pH should be 6.5-7.0 for optimal [[ph-and-nutrient-availability-garden-soils]].
-
-## Soilless Mixes
-
-Soilless mixes are popular, inexpensive, lightweight, and sterile.
-They contain some or all of: pumice, vermiculite, perlite, sand,
-peat moss, and coconut coir.
-
-### Advantages
-- Complete control over fertilizer concentration, moisture, and pH
-- Good texture, water retention, and drainage
-- Can be leached efficiently to prevent [[cervantes-salt-buildup-leaching-management]]
+Soil pH should be 6.5-7.0 for optimal [[cervantes-salt-buildup-leaching-management]]
 - pH balanced near 6.0-7.0 unless fortified
 
 ### Popular Brands
@@ -75,17 +50,7 @@ Jiffy Mix, Ortho Mix, Sunshine Mix, Terra-Lite, ProMix
 ### Texture Guidelines
 - For rapid-growing cannabis, use coarse, light, spongy texture
 - Fine mixes hold more moisture (better for small containers)
-- Mixes with more perlite/sand drain faster, reducing [[query-how-do-i-prevent-and-fix-salt-buildup-in-cannabis-soil]]
-- Mix with more vermiculite/peat hold water longer (better for small
-  pots)
-
-## Hydroponic Substrates
-
-Active recovery hydroponic systems use substrates that drain rapidly
-and hold plenty of air:
-
-### Expanded Clay (Hydroton/Hydroclay)
-- Large [[fukuoka-aerial-seeding-clay-pellets-desert-revegetation-technique]] that expedite drainage and hold air
+- Mixes with more perlite/sand drain faster, reducing [[fukuoka-aerial-seeding-clay-pellets-desert-revegetation-technique]] that expedite drainage and hold air
 - Excellent for ebb-and-flow, drip, and top-feed systems
 - Can be sterilized and reused
 
@@ -118,8 +83,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[det]]
 - [[cation-exchange-capacity]]
-- [[cannabis-growing-mediums]]
 - [[marijuana-horticulture-cervantes-hydroponic-growing-systems]]
 - [[cervantes-net-pots-growing-slabs]]

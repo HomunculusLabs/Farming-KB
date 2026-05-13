@@ -44,21 +44,10 @@ Ursolic acid (3β-hydroxy-urs-12-en-28-oic acid) is a pentacyclic triterpenoid c
 
 ## Natural Sources
 
-Ursolic acid is biosynthesized via the mevalonate pathway from 2,3-oxidosqualene through the action of ursolic acid synthase (α-amyrin synthase), which cyclizes the precursor into the ursane skeleton. Major dietary and [[dmt-botanical-sources-pharmacology]] include:
+Ursolic acid is biosynthesized via the mevalonate pathway from 2,3-oxidosqualene through the action of ursolic acid synthase (α-amyrin synthase), which cyclizes the precursor into the ursane skeleton. Major dietary and [[staycare-fungal-treatment-of-olive-oil-mill-wastewater]]
 
-**Fruits** (primarily in peel/wax coating):
-- **Apple** (Malus domestica): Richest common dietary source; peel contains 0.5–1.0 mg/g. Daily intake from apples: 2–12 mg
-- **Cranberry** (Vaccinium macrocarpon): Significant content in fruit and leaves
-- **Blueberry, bilberry, lingonberry** (Vaccinium spp.): Moderate skin content
-- **Pear, peach, plum, cherry, loquat, jujube**: Present in peel waxes
-- **Olive** (Olea europaea): Present in fruit and [[staycare-fungal-treatment-of-olive-oil-mill-wastewater]]
-
-**[[holzer-kitchen-garden-herbs-and-medicinal-plants]] plants**:
-- **Holy basil / Tulsi** ([[rosmarinus-officinalis-entity]]): 1.5–3.0% in dried leaves; richest herbal source
-- **Oregano** ([[prunella-vulgaris]]), elderberry, honeysuckle (Lonicera japonica)**: Present in aerial parts
-
-**Traditional medicines containing ursolic acid**:
-- Bearberry (Arctostaphylos uva-ursi) — original source; loquat leaf (Eriobotrya japonica); oldenlandia diffusa (Chinese anticancer herb); [[stamets-reishi-ganoderma-lucidum-cultivation]] (reishi triterpenoid fraction)
+**[[rosmarinus-officinalis-entity]]): 1.5–3.0% in dried leaves; richest herbal source
+- **Oregano** ([[stamets-reishi-ganoderma-lucidum-cultivation]] (reishi triterpenoid fraction)
 
 ## Pharmacology and Mechanisms of Action
 
@@ -67,12 +56,12 @@ Ursolic acid modulates a remarkable array of molecular targets, which underlies 
 **Anti-inflammatory**:
 - Inhibits NF-κB nuclear translocation, reducing TNF-α, IL-1β, IL-6, COX-2, and iNOS expression
 - Suppresses MAPK signaling (ERK, JNK, p38) and TLR4/MyD88 pathway
-- Activates Nrf2/HO-1 antioxidant defense pathway
-- Effective in rheumatoid arthritis, colitis, and allergic airway inflammation models
+- Activates Nrf2/HO-1 [[blesching-cannabis-oxidative-stress-and-antioxidant-defense]] pathway
+- Effective in [[blesching-cannabis-rheumatoid-arthritis]], colitis, and allergic airway inflammation models
 
 **Anticancer**:
 - Induces apoptosis via mitochondrial pathway (Bax/Bcl-2 modulation, caspase-3/9 activation)
-- Inhibits PI3K/Akt/mTOR and STAT3 signaling pathways
+- Inhibits PI3K/Akt/mTOR and STAT3 [[plant-signaling-pathways]]
 - Suppresses angiogenesis (VEGF, HIF-1α downregulation) and metastasis (MMP-2, MMP-9 inhibition)
 - Active against breast, prostate, lung, colon, liver, pancreatic, gastric, glioma, and melanoma lines
 - IC₅₀ typically 10–50 μM; synergistic with conventional chemotherapeutics at lower doses
@@ -88,3 +77,73 @@ Ursolic acid modulates a remarkable array of molecular targets, which underlies 
 - Reduces fasting blood glucose and HbA1c in streptozotocin-diabetic rat models
 - Promotes skeletal muscle hypertrophy and brown fat activation
 - Improves lipid profile: reduces TC, LDL, TG; increases HDL
+
+## Overview
+
+Ursolic Acid represents an important element within sustainable
+design and [[solomon-gardening-aikido-pest-philosophy-ecological-management]] systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish ursolic acid
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving ursolic extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Ursolic Acid finds practical application in multiple design contexts.
+[[mollisonian-permaculture-principles]] guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for ursolic acid. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+ursolic acid and its applications. Active investigation
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Ursolic Acid has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of ursolic acid into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.

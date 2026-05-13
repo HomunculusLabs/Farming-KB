@@ -20,31 +20,8 @@ tags:
 
 ## Hyphae: The Filamentous Feeding Machines
 
-Hyphae are the filamentous cells that constitute the [[fungal-mycelium-hyphae-and-the-feeding-phase]] — the
-feeding phase of a fungus. Rather than consuming food in the animal sense,
-hyphae absorb nutrients directly through their cell walls and plasma membranes.
-This absorption is concentrated at the hyphal tip, where the fungus releases an
-astonishing array of polymer-degrading enzymes into the surrounding environment.
-These enzymes break down complex materials — cellulases dismantle cellulose,
-proteases dissolve proteins, and many others target a wide spectrum of
-substrates — converting them into molecules small enough to cross the membrane.
-
-## The Fungal Appetite: Eating Almost Anything
-
-Fungi possess what Money calls "catholic tastes": they are prepared to eat
-virtually anything. Given enough time, fungi will grow on camera lens coatings
-(etching glass itself), consume the plastic lining of fuel injectors, pit
-machine tool surfaces, and liquify wallpaper. This dietary breadth suggests two
-things: first, fungi are biochemically equipped to decompose an extraordinary
-range of materials; second, they have had a very long evolutionary history in
-which to develop these capabilities. The scavenging (saprobic) lifestyle —
-growing on decaying [[fukuoka-textdoc-composting-critique-futility-prepared-organic-matter]] — actually demands more biochemical dexterity
-than parasitism, which means [[cordyceps-cultivation]] likely evolved from saprobic
-ancestors.
-
-## The Scavenger's Legacy in Pathogens
-
-Parasitic and [[cordyceps-insect-pathogenic-fungi]] retain genes encoding enzymes they no longer need
+Hyphae are the filamentous cells that constitute the [[fukuoka-textdoc-composting-critique-futility-prepared-organic-matter]] — actually demands more biochemical dexterity
+than parasitism, which means [[cordyceps-insect-pathogenic-fungi]] retain genes encoding enzymes they no longer need
 on a daily basis. This genetic conservation suggests they still deploy these
 enzymes occasionally, preserving a biochemical toolkit inherited from their
 saprobic ancestors. Researchers have repeatedly attempted to neutralize
@@ -58,25 +35,7 @@ waxy plant cuticle — did not prevent fungi from infecting plants. The fungi
 simply produced other cutinases, and the cuticle itself proved to be a
 relatively insignificant mechanical barrier. Similarly, disrupting the genes
 encoding plant cell wall-degrading enzymes failed to halt infection. The same
-pattern appeared with *[[bloomfield-candida-albicans-yeast-hyphal-dimorphism]]*: protease gene disruption produced
-mutants that retained the ability to kill laboratory mice. There is no single
-"magic bullet" enzyme. The modern, more promising approach targets regulatory
-genes that control whole groups of secreted enzymes simultaneously, rather than
-individual enzyme genes.
-
-## Enzyme Secretion at the Hyphal Tip
-
-Enzymes destined for export are packaged into vesicles within the hyphal cell.
-These vesicles stream toward the hyphal tip along cytoskeletal tracks and fuse
-with the plasma membrane, releasing their enzymatic cargo into the cell wall
-and beyond. This secretion process is precisely targeted to the growing tip,
-where the fungus most needs to break down external materials. The coordinated
-flow of vesicles to a single expanding point is one of the defining features of
-fungal growth.
-
-## The Electrical Engine of Nutrient Absorption
-
-Fungi use electrical activity to power [[aact-microbial-foliar-nutrient-uptake-co2-stomata-ingham]]. A proton pump embedded
+pattern appeared with *[[aact-microbial-foliar-nutrient-uptake-co2-stomata-ingham]]. A proton pump embedded
 in the plasma membrane actively exports hydrogen ions (H⁺) out of the cell,
 creating a charge differential — the interior becomes electrically negative
 relative to the exterior. Carrier proteins exploit this gradient through

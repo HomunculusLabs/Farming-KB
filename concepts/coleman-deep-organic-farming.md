@@ -19,16 +19,11 @@ lesson for agriculture. Heyerdahl wanted to prove that ancient Egyptian
 sailors could have reached the New World in traditional boats made of
 bundled papyrus stalks. He and his crew studied fresco paintings, three
 to four thousand years old, on tomb walls of pyramids for instruction
-on how to construct the crafts. [[allegro-star-of-the-morning-venus-and-the-sacred-mushroom]] stern down to the
-afterdeck, for which they could discern no purpose according [[allegro-plants-and-drugs-in-the-ancient-world]] ensuing construction, it was left out. Ra I collapsed
+on how to construct the crafts. [[allegro-plants-and-drugs-in-the-ancient-world]] ensuing construction, it was left out. Ra I collapsed
 in mid-ocean for lack of that rope. Their second attempt, Ra II, with
 the newly appreciated rope in its assigned place, completed the voyage
 without a hitch.
 
-[[weil-the-natural-mind-altered-states-normalcy]] knowledge of
-the past to the chemical insults of the present, there was a part left
-out that is the rope's equivalent -- an unappreciated part without
-which the boat will fall apart. That crucial part is called "soil
 [[hamilton-composting-and-organic-matter-management]]."
 
 ## The Biological Foundation
@@ -36,38 +31,10 @@ which the boat will fall apart. That crucial part is called "soil
 In the mid-1930s, organic farming arose from a renewed recognition of
 the vital importance of soil organic matter. Some farmers saw the
 undesirable changes in their soil and the diminished health of their
-crops and livestock that followed the shift to [[knf-vs-chemical-farming-comparison]]. Their
-appreciation for soil organic matter was reborn. This philosophy
-connects directly to holmgren-permaculture-principles-7-9 of working with natural systems.
-
-The organic pioneers realized that the farm is not a factory, but
-rather a human-managed microcosm of the natural world. Whether in
-forest or prairie, soil fertility in the natural world is maintained
-and renewed by the recycling of all plant and animal residues, which
-create the organic matter in the soil. This recycling is a biological
-process, which means that the most important contributors to soil
-fertility are alive. They are neither farmers nor fertilizer salesmen.
-They are the population of living creatures in the [[water-management]] drainage, air flow, crop rotations, and
+crops and livestock that followed the shift to [[water-management]] drainage, air flow, crop rotations, and
 varietal selection to reduce plant stress.
 
-**Shallow-organic farmers**, after rejecting [[coleman-deep-organic-vs-shallow-organic-farming]]
-## Practical Considerations
-
-When working with Deep-Organic Farming and the Small Farm, several practical factors should be
-carefully considered to achieve optimal results. These include
-the specific conditions of the implementation context, available
-resources, timing requirements, and the interactions between this
-topic and other elements of the broader system. A holistic view
-that considers these interconnections produces better outcomes.
-
-Environmental conditions such as temperature, moisture, and
-seasonal patterns significantly influence results. Monitoring these
-variables and adapting practices accordingly is essential for success.
-The most effective practitioners develop keen observation skills and
-respond flexibly to changing conditions rather than following rigid
-protocols regardless of circumstances or local variation.
-
-[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
+**Shallow-organic farmers**, after rejecting [[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -111,8 +78,6 @@ through generations to modern scientific approaches, the evolution continues
 to inform current best practices and research directions.
 
 ## See Also
-- [[doc]]
 - [[composting]]
-- [[permaculture]]
 - [[coleman-deep-organic-farming-philosophy]]
 - [[coleman-deep-organic-vs-shallow-organic-farming]]

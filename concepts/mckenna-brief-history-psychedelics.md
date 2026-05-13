@@ -16,17 +16,8 @@ tags:
 
 # Brief History of Psychedelics
 
-In *Food of the Gods*, Terence McKenna traces the modern history of psychedelic
-discovery from the late [[mckenna-club-des-hachischins-and-nineteenth-century-literary-hashish]] through the suppression of research
-in the late 1960s. He frames this history as a scientific renaissance that
-briefly illuminated the hidden dimensions of human consciousness before being
-crushed by the combined forces of dominator culture, government repression, and
-institutional fear.
-
-## Suppression and Forgetting
-
-McKenna begins by noting that psychedelic plants and experience were first
-suppressed by [[fukuoka-european-civilization-standstill]], then ignored and forgotten. The fourth
+In *Food of the Gods*, [[terence-mckenna]] traces the modern history of psychedelic
+discovery from the late [[fukuoka-european-civilization-standstill]], then ignored and forgotten. The fourth
 century witnessed the suppression of the mystery religions, the cults of Bacchus
 and Diana, of Attis and Cybele. Christianity triumphed over the Gnostic sects,
 which were the last bastions of paganism. These repressive episodes effectively
@@ -61,7 +52,7 @@ of visionary pharmacology.
 
 ## Mescaline and the Phenomenological Approach
 
-In 1897, Arthur Heffter became the first human being to isolate and ingest pure
+In 1897, [[arthur-heffter]] became the first human being to isolate and ingest pure
 mescaline. The psychologist and pioneer sexologist Havelock Ellis soon offered
 his own account of mescaline's pleasures, describing visions of thick, glorious
 fields of jewels, solitary or clustered, sometimes brilliant and sparkling,
@@ -69,49 +60,9 @@ sometimes with a dull rich glow, which would spring up into flowerlike shapes
 beneath his gaze.
 
 Dr. Kurt Beringer, Lewin's student and an acquaintance of Hermann Hesse and Carl
-Jung, became the father of [[mckenna-beringer-mescaline-psychedelic-psychiatry]]. His phenomenological approach
-stressed reportage of the internal vistas beheld. He conducted hundreds of
-experiments with mescaline in human beings. In 1927 Beringer published his
-magnum opus *Der Meskalinrausch*, an inspired work that set the stage for the
-science of investigative pharmacology. The following year saw the publication of
-Heinrich Kluver's *Mescal, the Divine Plant and Its Psychological Effects*.
-
-## Harmine, Telepathine, and Amazonian Research
-
-The investigation of hallucinogenic indoles also dates to the 1920s. Lewin
-became interested in harmine, an indole whose only source was thought to be
-*Banisteriopsis caapi*, the woody liana encountered by Richard Spruce in the
-Amazon nearly eighty years before. In 1927, chemists E. Perrot and M.
-Raymond-Hamet isolated the active agent and named it telepathine. Years later,
-researchers realized that telepathine was identical to harmaline, and the name
-harmine was given official precedence.
-
-Blas Pablo Reko, an Austrian expatriate living in Mexico, played a crucial
-bridging role. In 1937, Reko sent Henry Wassen a package containing collections
-of piule seed, the visionary morning glory seeds of *[[ipomoea-violacea]]*, and a
+Jung, became the father of [[ipomoea-violacea]]*, and a
 fragment of teonanacatl, the first specimen of a psilocybin-containing mushroom
-to be brought to scientific attention. [[richard-evans-schultes]], the young Harvard
-ethnobotanist, correctly identified Reko's mushroom as the mysterious
-teonanacatl described by the Spanish chroniclers.
-
-## The Invention of LSD
-
-In 1938, Albert Hofmann was engaged in routine pharmaceutical research at Sandoz
-Laboratories in Basel, Switzerland. While working with vasoconstricting
-substances derived from ergot, Hofmann synthesized the first d-lysergic acid
-diethylamide tartrate, LSD-25. The compound was cataloged and placed into
-storage, where it remained for five years. On April 16, 1943, feeling a touch of
-the Friday blahs, and unaware that he had absorbed a dose through handling the
-chemical without gloves, Hofmann left work early and set off on his bicycle
-through the streets of Basel.
-
-Hofmann lay down at home and sank into a not unpleasant intoxicated dreamlike
-condition, characterized by an extremely stimulated imagination. In a dreamlike
-state, with eyes closed, he perceived an uninterrupted stream of fantastic
-pictures, extraordinary shapes with intense, kaleidoscopic play of colors. After
-some two hours this condition faded away. This accidental self-experiment
-inaugurated the most consequential chapter in the history of human interaction
-with [[cultural-evolution-and-psychoactive-substances]].
+to be brought to scientific attention. [[cultural-evolution-and-psychoactive-substances]].
 
 ## Pandora's Box and the Psychedelic Sixties
 

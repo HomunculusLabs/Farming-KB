@@ -14,8 +14,7 @@ type: query
 
 ## Short Answer
 A herb spiral is a compact, vertical garden structure shaped like a rising spiral that
-grows a wide variety of culinary and [[permaculture-plants-medicinal-herbs-healing]] in a small footprint. It is one
-of the most iconic elements of [[herb-spiral-microclimate-design]] page explores these microclimate
+grows a wide variety of culinary and [[herb-spiral-microclimate-design]] page explores these microclimate
 zones in greater depth.
 
 Building a herb spiral is a relatively straightforward project that can be
@@ -25,33 +24,18 @@ course of stones or bricks in a spiral pattern beginning at the perimeter, and t
 stacking successive courses upward toward the center. Good drainage is critical, so
 a base layer of gravel or rubble is often laid down before adding topsoil enriched
 with compost. The stones also serve as a thermal mass, absorbing heat during the
-day and releasing it slowly at night, which extends the [[savory-growing-season-and-non-growing-season-management]] for
-frost-sensitive herbs. For step-by-step building instructions, the
-[[permaculture-principles]], most notably the principle to [[mollison-designers-herb-spiral-design-construction]], emphasize the functional
-rationale behind every dimension of the spiral.
-
-Water management is another important consideration. Herb spirals can be designed
-with a small pond or bog garden at the base where the spiral meets the ground.
-This pond collects runoff from the spiral above, creating a wetland microzone that
-supports water-loving plants and attracts frogs and [[comparison-beneficial-insects-guide-vs-integrated-pest-management]]. The
+day and releasing it slowly at night, which extends the [[permaculture-principles]], most notably the principle to [[comparison-beneficial-insects-guide-vs-integrated-pest-management]]. The
 water then slowly infiltrates back into the surrounding soil, reducing overall
 irrigation needs. This integration of water features is a hallmark of thoughtful
-[[comparison-herb-spiral-vs-keyhole-beds]]. Similarly,
 [[herb-garden-design]] context.
-The herb spiral works best when integrated into a larger [[holzer-kitchen-garden-herbs-and-medicinal-plants]] layout near
-the house, since the most frequently harvested herbs should be the most accessible.
-It also pairs well with [[herb-spiral-microclimate-design]] for details.
+The herb spiral works best when integrated into a larger [[herb-spiral-microclimate-design]] for details.
 - Construction involves stacking stones or bricks in a rising spiral with a gravel
   drainage base and compost-enriched soil; full instructions are on the
   use-edges-and-value-the-marginal
-  by maximizing [[bill-mollison-permaculture-a-designers-manual-edge-effect-and-ecotone-design]] and stacking multiple functions into one element.
-- Herb spirals can be compared to other permaculture garden features such as keyhole
-  beds and banana circles to determine the best fit for a given site; see
-  [[comparison-banana-circle-vs-herb-spiral]].
+  by maximizing [[comparison-banana-circle-vs-herb-spiral]].
 
 ## Related Questions
 
-- [[herb-spiral-design-guide]]
 - [[herb-spiral]]
 ## Practical Considerations
 

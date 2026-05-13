@@ -5,10 +5,7 @@ topics: shamanism, ethnobotany, trance, healing, spirituality
 ---
 # McKenna's Shamanism and Techniques of Ecstasy
 
-[[terence-mckenna]]'s exploration of shamanism in "Food of the Gods" draws
-heavily on Mircea Eliade's foundational work "Shamanism: Archaic
-Techniques of Ecstasy" while adding his own perspective as an
-ethnobotanist who spent years studying shamanic [[yakuruna-water-spirits-of-the-amazon]].
+[[yakuruna-water-spirits-of-the-amazon]].
 McKenna presents shamanism as the original form of human spiritual
 practice — one that predates all organized religions and maintains
 remarkable consistency across cultures separated by vast distances.
@@ -30,7 +27,7 @@ must shamanize in order to remain cured.
 
 ## The Initiation
 
-The [[shamanic-initiation-death-resurrection-pattern-ecstatic-traditions]] involves a symbolic [[allegro-death-and-resurrection-in-the-mushroom-cult]], which
+The [[allegro-death-and-resurrection-in-the-mushroom-cult]], which
 is understood as a radical transformation into a superhuman condition.
 The neophyte undergoes initiatory sickness and trances, lying as though
 dead or in deep trance for days on end. During this time, helping spirits
@@ -49,13 +46,7 @@ transformation is from a profane into a sacred state of being.
 ## Techniques of Ecstasy
 
 Not all shamans use intoxication with plants to obtain ecstasy, but all
-[[amazonian-boa-spirits-and-water-beings-in-shamanic-practice]] aims to give rise to ecstasy. Drumming, manipulation of
-breath, ordeals, fasting, theatrical illusions, and sexual abstinence are
-all time-honored methods for entering the trance necessary for shamanic
-work.
-
-Yet none of these methods is as effective, as ancient, and as
-overwhelming as the use of plants containing [[neurotropic-fungi-chemical-compounds]] that
+[[neurotropic-fungi-chemical-compounds]] that
 produce visions. This practice of using visionary plant intoxicants may
 seem alien to Westerners, who regard psychoactive drugs as either
 frivolous or dangerous. But the shamanic use of plants is fundamentally

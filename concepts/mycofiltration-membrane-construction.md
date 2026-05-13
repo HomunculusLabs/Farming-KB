@@ -9,7 +9,7 @@ sources: [raw/books/stamets-p-mycelium-running.md]
 
 # Mycofiltration Membrane Construction
 
-Building [[fungal-filter-barnyard-waste-remediation]] membranes for water purification and [[permplant-willows-salix-erosion-control-fodder]]
+Building [[permplant-willows-salix-erosion-control-fodder]]
 
 ## Overview
 
@@ -27,30 +27,7 @@ surface areas.
 
 - Pathogens including protozoa, bacteria, and viruses
 - Silt and suspended particulates
-- Chemical toxins (including some [[fungal-biosorption-of-heavy-metals-by-filamentous-fungi]] and hydrocarbons)
-
-## Installation Sites
-
-- Farms and suburban and urban areas
-- Watersheds
-- Factories
-- Roads
-- Stressed, harmed, or malnourished habitats
-
-## Debris Sources for Membrane Construction
-
-Installation of mycofiltration membranes can utilize debris from:
-- Forests (brush, tree trimmings, wood chips)
-- Pulp and paper mills (cellulose, fiber, cardboard, or paper waste)
-- City and rural recycling centers (yard waste)
-- Farms (straw, corncobs, cotton, coffee wastes)
-- Breweries (washed grains) and other industries
-
-## How Pathogens Are Captured
-
-Pathogens passing through the cellular nets of mycelia are digested by the
-fungi. If enzymes and antibiotics secreted by the mycelium do not kill all
-the pathogens, bacteria such as [[bacillus-subtilis]] are blocked from
+- Chemical toxins (including some [[bacillus-subtilis]] are blocked from
 reproducing and are suspended in a state of dormancy. These types of
 bacteria may later revive when the mycelial mat dies and a hospitable
 habitat reemerges. This dieback process is analogous to the decay of a
@@ -58,15 +35,7 @@ fishing net that loses its cohesiveness and unthreads.
 
 ## The Skookum Inlet Proof of Concept
 
-The foundational mycofiltration experiment was conducted by [[paul-stamets]] on
-his waterfront farm on Kamilche Point in Skookum Inlet, Washington. Two
-swales gradually narrowed over the course of about 800 feet, dropping 120
-feet from uplands to a saltwater bay downstream where a neighbor grew clams
-and oysters commercially.
-
-Installation: Several truckloads of wood chips (from utility company tree
-trimming) were dumped into the depression. On top of each dump load,
-Stropharia [[stropharia-rugoso-annulata-mycofiltration]] spawn was spread and raked into a foot-deep
+The foundational mycofiltration experiment was conducted by [[stropharia-rugoso-annulata-mycofiltration]] spawn was spread and raked into a foot-deep
 layer. Springwater saturated the wood chips. Several months later, a garden
 giant mycelial bed approximately 50 feet wide and 200 feet long was
 established.
@@ -77,8 +46,7 @@ improvement occurred before the septic system was even repaired. The
 contaminated water seeped from the livestock pasture, entered the
 mycofilter, and fed the myceliated wood matrix with nutrients and bacteria.
 As the fungus grew, the wood chips became infused with white, silky
-mycelium. The water exiting the [[stamets-outdoor-wood-chip-bed-mycelium-transplantation]] was largely cleansed of
-bacteria, which had been consumed by the mycelium of the [[kings-stropharia-garden-giant]].
+mycelium. The water exiting the [[kings-stropharia-garden-giant]].
 
 ## Bunker Spawn Method
 
@@ -88,3 +56,88 @@ is particularly useful for:
 - Creating portable filtration units
 - Building buffer zones around sensitive waterways
 - Stabilizing eroding banks and road cuts
+
+## Overview
+
+Mycofiltration Membrane Construction represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish mycofiltration membrane construction
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving mycofiltration extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Mycofiltration Membrane Construction finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for mycofiltration membrane construction. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+mycofiltration membrane construction and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Mycofiltration Membrane Construction has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of mycofiltration membrane construction into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[mycelium-running-skookum-inlet-mycofiltration-field-trial]]
+- [[mycofiltration-overview]]
+- [[mycofiltration-watershed-protection]]
+- [[singh-mycofiltration-water-runoff]]
+- [[stamets-king-stropharia-permaculture-mycofiltration]]

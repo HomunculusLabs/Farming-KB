@@ -1,6 +1,6 @@
 ---
 title: Computational Fluid Dynamics
-aliases: [CFD, numerical [[turbulence-modeling-fluid-dynamics]], fluid-flow simulation]
+aliases: [CFD, numerical turbulence-modeling-fluid-dynamics, fluid-flow simulation]
 tags: [engineering, fluid-dynamics, computational-physics, simulation, numerical-methods]
 created: 2026-05-02
 updated: 2026-05-06
@@ -11,37 +11,7 @@ sources: []
 ## Overview
 Computational fluid dynamics, usually abbreviated CFD, is the numerical simulation of fluid flow and related transport processes.
 
-It uses computers to approximate the governing equations for liquids, gases, plasmas, sprays, bubbles, [[heat-transfer-coefficient]], reacting mixtures, and moving interfaces.
-
-CFD is valuable when analytical solutions are unavailable and physical experiments are expensive, dangerous, slow, difficult to instrument, or impossible at full scale.
-
-It does not replace experiments; it complements them by providing detailed fields of velocity, pressure, temperature, species concentration, vorticity, and wall shear.
-
-The method is central in aerospace, turbomachinery, automotive design, electronics cooling, civil engineering, weather prediction, biomedical flows, chemical reactors, marine hydrodynamics, and energy systems.
-
-## Governing Equations
-Most CFD begins with conservation of mass, momentum, and energy written for a continuum fluid.
-
-The Navier-Stokes equations relate velocity, pressure, density, viscosity, body forces, and acceleration for viscous flow.
-
-The energy equation is needed when compressibility, [[heat-transfer-mechanisms]], combustion, [[phase-change-materials-thermal-energy-storage]], or temperature-dependent material properties matter.
-
-Species-transport equations track mixtures, pollutants, vapor, combustion products, dissolved substances, or chemical reactants.
-
-Simplified models include potential flow, Euler equations, boundary- layer equations, shallow-water equations, lubrication theory, and incompressible Navier-Stokes equations.
-
-Choosing the governing equations is an engineering judgment about which physics controls the result and which terms can be safely neglected.
-
-## Discretization
-CFD converts partial differential equations into algebraic equations over a finite set of cells, nodes, or elements.
-
-Finite volume methods integrate conservation equations over control volumes and compute fluxes through their faces.
-
-This conservative form makes finite volume schemes especially common in industrial aerodynamics, compressible flow, turbomachinery, and general- purpose CFD software.
-
-Finite difference methods approximate derivatives on structured grids and are efficient for canonical, atmospheric, oceanic, and high-order research simulations.
-
-[[finite-element-method]] methods represent fields with basis functions over elements and are useful for complex geometry, incompressible flow, multiphysics coupling, and stabilized formulations.
+It uses computers to approximate the governing equations for liquids, gases, plasmas, sprays, bubbles, [[heat-transfer-mechanisms]], combustion, [[finite-element-method]] methods represent fields with basis functions over elements and are useful for complex geometry, incompressible flow, multiphysics coupling, and stabilized formulations.
 
 Spectral, spectral-element, discontinuous Galerkin, lattice Boltzmann, vortex, particle, and immersed-boundary methods serve specialized accuracy, geometry, or physics needs.
 
@@ -118,8 +88,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[dom]]
 - [[det]]
-- [[turbulence-modeling-fluid-dynamics]]
 - [[navier-stokes-equations-fluid-dynamics]]
 - [[computational-universe-and-natural-intelligence]]

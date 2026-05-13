@@ -13,14 +13,11 @@ sources:
 
 ## Core Principles
 
-[[holzer-ancient-cereals-growing]]
-- [[permaculture-design]]
-- [[sepp-holzer-method]]
+[[permaculture-design]]
 - [[holzer-livestock-integration]]
 
 ## Related
 
-- [[bypass-technique-planting]]
 - [[holzer-symbiotic-interaction-theory]]
 ## Practical Applications
 
@@ -96,8 +93,6 @@ through generations to modern scientific approaches, the evolution continues
 to inform current best practices and research directions.
 
 ## See Also
-- [[doc]]
 - [[det]]
-- [[permaculture]]
 - [[sepp-holzer]]
 - [[holzer-livestock-philosophy-paddock-system]]

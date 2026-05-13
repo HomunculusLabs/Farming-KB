@@ -67,7 +67,7 @@ for shelf life and shipping durability rather than taste.
 
 This article provides a comprehensive overview of berry and small fruit
 cultivation, covering soil and site requirements, individual species guides,
-planting and establishment, [[hamilton-pruning-and-training-fruit-trees]], pest and [[plant-disease-management-solomon]],
+planting and establishment, [[plant-disease-management-solomon]],
 harvest and post-harvest handling, propagation, small-scale production strategies,
 nutritional benefits, and climate considerations, synthesizing organic growing
 principles, permaculture design, and conventional horticultural best practices.
@@ -99,38 +99,9 @@ become effective. Incorporating two to four inches of compost into planting beds
 improves both fertility and soil structure. For blueberries, elemental sulfur
 or peat moss should be worked into the soil to lower pH, keeping in mind that
 sulfur applications may require three to six months to achieve the desired
-effect. A cover crop of [[mushroom-compost]] or buckwheat planted the season before
-berry establishment helps suppress weeds and add organic matter. After planting,
-a thick mulch of three to six inches of wood chips, straw, or pine needles
-conserves moisture, suppresses weed competition, and slowly releases nutrients
-as it decomposes.
-
-## Blueberries
-
-Blueberries are long-lived perennial shrubs in the genus Vaccinium that produce
-antioxidant-rich fruit for decades when properly established. Their primary and
-most critical growing requirement is acidic soil with a pH of 4.5 to 5.5; this
-is the most common reason for failure in blueberry cultivation. At higher pH
-levels, blueberries develop iron chlorosis, evidenced by yellowing leaves with
-green veins, and fail to thrive. Soil testing should be conducted annually, as
-pH tends to drift upward over time. Elemental sulfur is the most effective
-amendment for lowering pH, applied at a rate of one to two pounds per hundred
-square feet in sandy soils and five to six pounds in clay soils. Peat moss,
-pine needles, and pine bark also contribute to soil acidity.
-
-Several types of blueberries are available. Northern highbush blueberries
-(Vaccinium corymbosum) are the most common for home gardens, forming upright
-shrubs four to six feet tall in zones three through seven. Southern highbush
-varieties have lower chill hour requirements for zones five through ten.
-## See Also
-
-berry-fruit-production-in-permaculture
-[[berry-growing]]
-[[berry-species-guide]]
+effect. A cover crop of [[berry-growing]]
 [[blueberry-growing-guide]]
-[[strawberry-growing-guide]]
 [[elderberry-growing-guide]]
-[[grape-growing-guide]]
 [[fruit-growing-guide-organic]]
 
 ## References
@@ -141,9 +112,6 @@ Cool to Cold Climates. Tagari Publications, 1988.
 Lowenfels, Jeff. *Teaming with Fungi*. Timber Press, 2017. Source material for
 blueberry mycorrhizal associations and soil biology.
 
-Hamilton, Geoff, ed. *[[hamilton-geoffhamilton-nick-organic-gardening-companion-planting]]*. 2010. Source material for organic
-fruit growing principles and general [[fukuoka-orchard-management-detailed]].
+Hamilton, Geoff, ed. *[[fukuoka-orchard-management-detailed]].
 
-Elderberry [[hofmann-lsd-clinical-research-early-studies]]: Multiple peer-reviewed studies on Sambucus nigra
-and S. canadensis antiviral activity, 2004-2024. See
-[[elderberry-growing-guide]] for detailed references.
+Elderberry [[elderberry-growing-guide]] for detailed references.

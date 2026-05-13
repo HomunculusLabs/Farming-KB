@@ -9,7 +9,7 @@ sources: []
 
 # Oyster Mushroom Species Guide
 
-Oyster mushrooms (genus Pleurotus) are among the most widely [[fungi-cultivated-mushrooms-pathogens-competitors]] worldwide, valued for their fast growth, broad substrate tolerance, excellent culinary qualities, and ease of cultivation. The genus contains over 30 described species, but five are most commonly grown commercially and by home cultivators.
+Oyster mushrooms (genus Pleurotus) are among the most widely cultivated mushrooms worldwide, valued for their fast growth, broad substrate tolerance, excellent culinary qualities, and ease of cultivation. The genus contains over 30 described species, but five are most commonly grown commercially and by home cultivators.
 
 ## Genus Overview
 
@@ -29,7 +29,7 @@ Pleurotus species are white-rot fungi that decompose both cellulose and lignin, 
 | Spawn Run | 14-21 days | 10-18 days | 14-21 days | 10-16 days | 21-30 days |
 | Colonization Speed | Moderate | Fast | Moderate | Fast | Slow |
 | Substrate Range | Very broad | Very broad | Broad | Broad | Narrower (prefers straw) |
-| [[biological-efficiency]] | 100-200% | 100-150% | 75-150% | 50-100% | 60-100% |
+| Biological Efficiency | 100-200% | 100-150% | 75-150% | 50-100% | 60-100% |
 | Shelf Life | 5-7 days | 5-7 days | 3-5 days | 2-3 days | 7-10 days |
 | Cold Tolerance | Good | Poor | Poor | None | Excellent |
 | Heat Tolerance | Moderate | Good | Good | Very good | Poor |
@@ -56,11 +56,11 @@ More demanding than other oyster species. Requires higher temperatures and humid
 
 ## Pleurotus djamor (Pink Oyster)
 
-A tropical species with vivid pink coloration that fades to orange-tan with age. Native to subtropical and [[fukuoka-natural-farming-in-tropical-regions]] worldwide.
+A tropical species with vivid pink coloration that fades to orange-tan with age. Native to subtropical and tropical regions worldwide.
 
 The most heat-tolerant of the common oyster species but also the most perishable — fruiting bodies deteriorate within 24-48 hours at room temperature. Best consumed immediately after harvest or sold same-day. The pink color is temperature-sensitive: cooler growing conditions intensify the color.
 
-Excellent choice for tropical [[query-how-to-grow-rare-tropical-fruits-in-marginal-and-subtropical-climates]]. Does not tolerate cold temperatures at all.
+Excellent choice for tropical and subtropical climates. Does not tolerate cold temperatures at all.
 
 ## Pleurotus eryngii (King Oyster)
 
@@ -108,22 +108,8 @@ All Pleurotus species share similar substrate preparation:
 
 - [[shiitake-cultivation-guide]] for sawdust block cultivation methods
 - [[enoki-cultivation-guide]] for another commercially important cultivated species
-- [[paddy-straw-mushroom]] for [[tropical-mushroom-cultivation-agricultural-waste-substrates-poverty-alleviation]] comparison
+- [[paddy-straw-mushroom]] for tropical mushroom cultivation comparison
 
 ## Related
 
-- [[agaricus-aurora]] -- Agaricus species
-## Practical Cultivation Notes
-
-Successful cultivation depends on maintaining appropriate environmental conditions throughout the colonization and fruiting phases. Temperature, humidity, and fresh air exchange must be carefully managed to promote healthy mycelial growth and prevent contamination. Substrate selection and preparation are critical factors that directly influence yield and biological efficiency.
-
-## Safety Considerations
-
-Proper identification is essential when foraging wild specimens, as many species have toxic lookalikes. Cultivated varieties offer greater consistency and safety compared to wild-harvested material. Always follow established protocols for handling and processing, particularly when working with species that produce bioactive compounds.
-
-## See Also
-- [[abort-management-pinhead-removal-mushroom-casing-cultivation]]
-- [[accessible-mushroom-cultivation-for-disabilities]]
-- [[acid-house-rave-culture-and-second-mushroom-boom]]
-- [[adaptive-anemotropism-spore-dispersal-optimization-mushroom-evolution]]
-- [[adaptive-significance-mushroom-tropisms-spore-dispersal]]
+- [[agaricus-species-guide]] -- Agaricus species

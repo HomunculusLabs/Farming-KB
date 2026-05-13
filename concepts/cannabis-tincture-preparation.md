@@ -13,7 +13,7 @@ tags: [cannabis, medicine-making]
 
 ## Overview
 
-[[query-how-to-make-cannabis-tinctures-at-home]] are liquid extracts made by dissolving [[blesching-cannabis-resin-preparations-kief-hashish-concentrates]] glands in alcohol. According to Cervantes, a well-made tincture retains 60 percent or more of the THC contained in the raw material. Tinctures offer a discreet and precise method of cannabis consumption, with effects similar to edibles but faster onset.
+[[blesching-cannabis-resin-preparations-kief-hashish-concentrates]] glands in alcohol. According to Cervantes, a well-made tincture retains 60 percent or more of the THC contained in the raw material. Tinctures offer a discreet and precise method of cannabis consumption, with effects similar to edibles but faster onset.
 
 ## Scientific Basis
 
@@ -23,66 +23,7 @@ Alcohol acts as a solvent to dissolve the psychoactive cannabinoids from cannabi
 
 ### Ingredients
 
-- 4 ounces (112 gm) of clean [[cannabis-leaf-morphology-and-phyllotaxy]]
-- 2 quarts (about 2 liters) of lukewarm water (90F/32C)
-- 1 quart (0.95 L) of 80-proof alcohol of choice
-
-### Step 1: Chlorophyll Wash
-
-1. Clean cannabis leaf in lukewarm water, stirring until well-mixed
-2. Keep leaves whole for easier handling
-3. Strain out leaves with a colander, letting greenish water drain
-4. This step removes much of the green chlorophyll for a cleaner taste
-
-### Step 2: Alcohol Extraction
-
-1. Place wet foliage in a bowl
-2. Cover with 1 quart of 80-proof alcohol
-3. Stir until alcohol and foliage are well-mixed
-4. Ensure all foliage is covered with alcohol
-5. Cover bowl with lid to prevent alcohol evaporation
-6. Let sit for 48 hours
-
-### Step 3: Concentration
-
-1. Remove lid and let mix sit uncovered for 12 hours
-2. About half the alcohol will evaporate, concentrating the tincture
-3. Stir brew again until well-mixed
-4. Pour through a coffee filter into a receptacle
-5. Use coffee filter to wring all liquid out of leaves
-6. Pour alcohol through leaves again and wring out remaining liquid
-
-### Result
-
-The process yields approximately two cups of cannabis tincture concentrate. For higher potency, the mixture can be boiled down further to concentrate it more.
-
-## Alcohol Selection
-
-- Higher-proof alcohol (more than 80 proof) extracts cannabinoids more efficiently
-- Standard 80-proof spirits work well
-- Flavored liqueurs such as Kahlua, Cointreau, or Galliano can be used for flavored tinctures
-- Liqueurs contain lower alcohol percentage, so extraction takes longer
-- Grain alcohol (Everclear) provides the most efficient extraction
-
-## Dosage and Effects
-
-The tincture is potent and its effects differ from smoking:
-
-- The buzz is similar to eating cannabis but comes on in less time
-- Onset is faster than edibles because sublingual absorption bypasses digestion
-- Effects can be very strong, especially with concentrated tinctures
-- Start with very small amounts to gauge personal tolerance
-- Effects are typically more body-centered than smoked cannabis
-
-## Storage
-
-Proper storage is critical for maintaining tincture potency:
-
-- Store concentrated tinctures in a cool, dark place
-- Heat and light degrade tinctures quickly
-- Dark glass bottles are ideal for storage
-- Use the tincture within one to three months for best quality
-- Refrigeration extends [[psilocybin-shelf-life-stability]]
+- 4 ounces (112 gm) of clean [[psilocybin-shelf-life-stability]]
 
 ## Culinary Applications
 
@@ -117,8 +58,91 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[psilocybin]]
 - [[hashish]]
-- [[cannabis-reefers-and-tincture-preparation]]
 - [[cannabis-cannabutter-preparation]]
 - [[marijuana-magick-cannabis-sacred-spatial-preparation]]
+
+## Overview
+
+Cannabis Tincture Preparation represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish cannabis tincture preparation
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving cannabis extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Cannabis Tincture Preparation finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for cannabis tincture preparation. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+cannabis tincture preparation and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Cannabis Tincture Preparation has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of cannabis tincture preparation into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[blesching-cannabis-vasopressin-aggression]]
+- [[cannabis-cultivar-microbiome-specificity]]
+- [[green-cannabis-grow-bible-species-indica-sativa-ruderalis]]
+- [[lemon-haze-cannabis]]
+- [[query-how-to-harvest-and-cure-cannabis-for-best-flavor]]

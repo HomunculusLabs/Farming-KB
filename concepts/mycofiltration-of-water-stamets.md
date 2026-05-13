@@ -13,26 +13,8 @@ Updated: 2026-04-18
 
 ## Overview
 
-Mycofiltration is the use of fungal [[singh-mycelial-mats-and-biological-soil-crusts]] to filter biological and chemical contaminants from water. Developed by Paul Stamets in the 1990s, the technique uses the natural enzymatic and antibiotic properties of mushroom mycelium to clean water flowing through constructed or natural filtration beds. Mycofiltration represents one of the four pillars of mycorestoration-overview|mycorestoration.
-
-Source: [[stropharia-rugoso-annulata-mycofiltration]] (wine-cap/garden giant), but other species can be incorporated:
-- **Pleurotus ostreatus** ([[tahuya-forest-road-reclamation]] for detailed documentation. Mycofiltration mats on logging roads:
-- Reduce sediment flow into streams
-- Filter hydrocarbons (oil, diesel) from road surfaces
-- Cool water flowing into fisheries
-- Transform abandoned roads into nature trails
-
-### Shellfish Protection
-
-The original Kamilche Point mycofiltration installation was designed to protect shellfish beds from fecal contamination upstream. Fecal coliform bacteria in water passing through Stropharia beds were dramatically reduced, protecting the economic viability of shellfish farming operations.
-
-### Urban Stormwater
-
-Mycofiltration can be applied to urban stormwater management:
-- Bioswales and rain gardens inoculated with mycelium
-- Green roof drainage systems
-- Parking lot runoff filtration
-- Construction site [[permplant-willows-salix-erosion-control-fodder]]
+Mycofiltration is the use of fungal [[stropharia-rugoso-annulata-mycofiltration]] (wine-cap/garden giant), but other species can be incorporated:
+- **Pleurotus ostreatus** ([[permplant-willows-salix-erosion-control-fodder]]
 
 ***
 
@@ -53,30 +35,7 @@ Mycofiltration can be applied to urban stormwater management:
 - Wood chips may need replenishing every few years as decomposition progresses
 - Monitor filtration effectiveness with periodic water quality testing
 - Re-inoculate if mycelial density declines
-- The beds improve with age as the [[gadd-mycelial-network-dynamics]] matures and multi-kingdom communities develop
-
-***
-
-## Multi-Layer Benefits
-
-Mycofiltration installations provide benefits beyond water quality:
-
-- **Habitat creation** — insect breeding grounds support bird, bat, and fish food chains
-- **Soil building** — wood chip decomposition creates rich soil (12 inches chips → 1-2 inches soil)
-- **Erosion control** — mycelium binds soil particles, preventing erosion
-- **[[mycorrhizal-fungi-soil-carbon-sequestration-by-type]]** — [[bioremediation-fungal-biomass-biosorbent-material]] stores carbon
-- **Educational value** — visible demonstration of ecological restoration
-- **Aesthetic improvement** — lush, green filtration zones replace eroded, bare ground
-- **Insectary function** — attracts beneficial predatory insects for mycopesticides-stamets|pest management
-
-***
-
-## Cost Comparison
-
-| Method | Relative Cost |
-|--------|--------------|
-| Conventional water treatment | High |
-| [[comparison-constructed-wetland-vs-backyard-pond]] | Medium |
+- The beds improve with age as the [[mycorrhizal-fungi-soil-carbon-sequestration-by-type]]** — [[comparison-constructed-wetland-vs-backyard-pond]] | Medium |
 | Mycofiltration | Low (up to 50% of conventional) |
 | Road reclamation (mycofiltration) | ~50% of conventional cost |
 | Road reclamation (conventional) | Baseline |

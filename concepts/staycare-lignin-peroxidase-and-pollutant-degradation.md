@@ -11,18 +11,11 @@ type: concept
 # Lignin Peroxidase and Pollutant Degradation
 
 Lignin peroxidase (LiP) is a water-soluble, glycosylated extracellular
-enzyme secreted by white rot fungi. Like [[fungal-manganese-peroxidase-remediation]] (MnP), LiP
-is dependent on [[cervantes-hydrogen-peroxide-sterilization]] for catalysis. LiP is unique among
+enzyme secreted by white rot fungi. Like [[cervantes-hydrogen-peroxide-sterilization]] for catalysis. LiP is unique among
 fungal peroxidases in its ability to produce radical cations from the
 one-electron oxidation of non-phenolic aromatic compounds, making it a
 powerful agent for the degradation of recalcitrant environmental pollutants
-including [[singh-fungal-biodegradation-of-polycyclic-aromatic-hydrocarbons]] hydrocarbons, chlorinated phenols, and
-nitroaromatic compounds.
-
-## Discovery and Significance
-
-LiP was the first enzyme shown to be capable of depolymerizing synthetic
-lignin in vitro. Isolated initially from [[phanerochaete-chrysosporium]] by
+including [[phanerochaete-chrysosporium]] by
 Tien and Kirk (1984), LiP is a haem-containing peroxidase that operates at
 an optimum pH below 3.0. The enzyme shows signs of instability under
 certain conditions but is protected by veratryl alcohol (VA), a secondary

@@ -36,41 +36,15 @@ included 2 bulls and 5 cows, along with other domesticated farm animals. By
 1803, the government owned approximately 1,800 cattle, most of which were
 imported from the Cape, Calcutta, and the west coast of America. It was during
 this early colonial period that the visionary mushrooms described in John W.
-Allen's [[ghouled-field-guide-historical-context]] probably first appeared in Australia.
-
-Cleland (1934) asserted that "fungi growing in cow or horse-dung and confined
-to such habitats, must in the case of Australia, all belong to introduced
-species." This principle has been foundational to understanding the
-biogeography of coprophilous (dung-inhabiting) fungi in the Southern
-Hemisphere.
-
-## The Role of the Dung Beetle
-
-It is believed that the [[kanna-sceletium-south-african-narcotic]] dung beetle may have played a critical
+Allen's [[kanna-sceletium-south-african-narcotic]] dung beetle may have played a critical
 role in the actual dispersal of psychoactive fungal spores across the
 Australian landscape. These beetles, which likely accompanied imported cattle,
-would have buried dung containing [[query-how-to-store-mushroom-spores-long-term]] into the soil, creating the
-ideal conditions for fungal colonization. English mycologist Roy Watling of the
-Royal Botanic Gardens in Glasgow, Scotland, cautioned that "it must be
-remembered that fungi can change substrate preferences and there are
-coprophilous fungi on kangaroo droppings etc."
-
-## Species Introduced With Livestock
-
-Several key species of psychoactive mushrooms are believed to have been
-introduced to Australia through the cattle dispersal mechanism:
-
-- [[panaeolus-cyanescens-bali-omelette]] (known locally as "blue meanies") -- found in the
+would have buried dung containing [[panaeolus-cyanescens-bali-omelette]] (known locally as "blue meanies") -- found in the
   dung of cattle, water buffalo, and sometimes horses
-
-- [[gartz-panaeolus-subbalteatus-taxonomy-and-intoxication-history]] -- common in the dung of cattle and also fruiting
-  abundantly in composting hay and stable shavings
 
 - [[psychedelic-mushroom-set-and-setting]] was introduced into Australia
 accidentally by early settlers along with their livestock. This same spore
-dispersal mechanism probably applies to [[panaeolus-cyanescens-bali-omelette]]. The species predominates in the New Plymouth region,
-an area of intensive dairy farming. Mushrooms appear in autumn, most commonly
-under lupine bushes in coastal paddocks. The [[psychedelic-mushroom-set-and-setting]] as a recreational drug
+dispersal mechanism probably applies to [[psychedelic-mushroom-set-and-setting]] as a recreational drug
 tends to confirm the belief that some farmers in early times may have added
 one or two basidiomes (gilled mushrooms) to a meal to liven it up, and still
 do" (Margot & Watling, 1981). This suggests that the introduction of
@@ -84,12 +58,7 @@ remarkable persistence in the Australian and New Zealand environments. The
 fact that these species have become naturalized across multiple Australian
 states and both islands of New Zealand indicates successful establishment of
 viable populations. The warm, moist conditions of the Australian subtropical
-coast, combined with the abundance of [[psilocybe-cubensis-cattle-dung-substrate-introduction-americas-guzman-1998]] in pastoral regions, created
-ideal conditions for these fungi to thrive and spread.
-
-## See Also
-
-- [[mushroom-folklore-and-culture]] -- cultural context of mushroom use
+coast, combined with the abundance of [[mushroom-folklore-and-culture]] -- cultural context of mushroom use
 - gordon-wasson-mushroom-discovery -- the original 1957 Life Magazine report
 
 ## Practical Applications
@@ -121,8 +90,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[coprophilous-fungi]]
 - [[doc]]
-- [[psilocybin]]
 - [[dom]]
 - [[composting]]

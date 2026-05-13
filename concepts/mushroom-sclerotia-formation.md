@@ -24,46 +24,22 @@ Several psilocybin-containing species are known sclerotia formers:
 
 ### Psilocybe tampanensis
 
-- Originally collected near Tampa, Florida by [[steven-pollock]]
-- The most famous sclerotium-forming species
-- Sclerotia commonly called "philosopher's stones"
-- Produces both sclerotia in vitro and mushrooms when cased
-- Potency is generally moderate compared to P. cubensis
-
-### Psilocybe mexicana
-
-- Native to Central Mexico, used traditionally by Mazatec and Nahua peoples
-- Reported in ethnographic literature (e.g., Wasson's writings)
-- Produces sclerotia reliably on [[disposable-tray-casing-method-grass-seed-substrate]]
+- Originally collected near Tampa, Florida by [[disposable-tray-casing-method-grass-seed-substrate]]
 - Typically yields one large flush and a smaller second flush of mushrooms
 - Sclerotia tend to be smaller than P. tampanensis
 
 ### Psilocybe galindoi / P. atlantis / P. natalensis
 
-- Closely related species also capable of [[dark-incubation-sclerotia-production-psilocybe-mexicana-tampanensis]]
-- Varying potency and yield depending on isolate and conditions
-- Taxonomy of this group has been revised multiple times
-
-## Sclerotia Formation In Vitro
-
-The key advantage of sclerotia-forming species is that **no casing or
-[[comparison-laminar-flow-hood-vs-fruiting-chamber]] is required** to produce a harvestable product. Sclerotia form
+- Closely related species also capable of [[comparison-laminar-flow-hood-vs-fruiting-chamber]] is required** to produce a harvestable product. Sclerotia form
 directly within the colonized substrate jar.
 
 ### Substrate
 
-Grass seed is the preferred substrate for [[in-vitro-sclerotia-production-timeline-psilocybe]]. The standard
-preparation (110g seed + 180ml water per 720ml jar) works well. Rye grass seed
-(*[[lolium-perenne]]*) or mixed grass seed (untreated, no fungicides) is ideal.
+Grass seed is the preferred substrate for [[lolium-perenne]]*) or mixed grass seed (untreated, no fungicides) is ideal.
 
 ### Colonization and Growth Timeline
 
-1. **Inoculation** — standard [[cultivator-sterile-technique-and-agar-culture]], spore syringe or liquid
-   culture
-2. **Colonization** — 5–20 days at approximately 20°C until fully colonized
-3. **Sclerotia initiation** — begins after full colonization, typically within
-   2–4 weeks
-4. **[[sclerotia-maturation-timeline-psilocybe-tampanensis-mexicana]]** — sclerotia continue to enlarge for up to
+1. **Inoculation** — standard [[sclerotia-maturation-timeline-psilocybe-tampanensis-mexicana]]** — sclerotia continue to enlarge for up to
    **4 months** after inoculation
 5. **Harvest** — jars are opened and sclerotia are separated from the substrate
 
@@ -87,3 +63,88 @@ wet substrate promotes bacterial contamination and prevents sclerotia
 formation. The grass seed should be hydrated but not waterlogged.
 
 ### Strain and Genetics
+
+## Overview
+
+Mushroom Sclerotia Formation represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish mushroom sclerotia formation
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving mushroom extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Mushroom Sclerotia Formation finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for mushroom sclerotia formation. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+mushroom sclerotia formation and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Mushroom Sclerotia Formation has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of mushroom sclerotia formation into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[classic-mushroom-recipes-traditional-preparations]]
+- [[emcdda-european-mushroom-varieties-and-market-products]]
+- [[emcdda-hallucinogenic-mushroom-wild-foraging-and-hunting]]
+- [[mushroom-hormones-gill-directed-tropism-basidiomycete-development]]
+- [[mushroom-spawn]]

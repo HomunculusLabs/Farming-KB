@@ -10,16 +10,7 @@ sources:
 
 # Linguistic Evidence for Mushroom Encoded in Biblical Texts
 
-The heart of Allegro's argument in *The [[allegro-the-sacred-mushroom-amanita-identification]] and the Cross* is his
-claim that the Bible -- both Old and New Testaments -- contains numerous names,
-epithets, and phrases that are actually disguised references to the
-allegro-jesus-name-as-mushroom-epithet.
-
-### Peter (Cephas/Petros)
-The name Peter, Allegro argues, is a play on the Semitic *pitrā'* meaning
-"mushroom," related to the Aramaic *pitra'* and the Greek *petra* ("rock").
-The "rock" upon which the church is built is the mushroom itself. See
-[[amanita-muscaria-cultural-history]]: the fir
+The heart of Allegro's argument in *The [[amanita-muscaria-cultural-history]]: the fir
 (denizen of conifer forests), the carob (a "pod" name shared with the
 mushroom), and the vine-cluster (the red cap). The "vine of the field" (II
 Kgs 4:38) where Elisha's disciples found "death in the pot" is a folk-name
@@ -70,14 +61,7 @@ concepts appear independently across languages. Dionysus (*IA-U-NU-ShUSh*)
 is "Semen, seed that saves" -- almost identical to Jesus's name, with NU
 ("seed") added. The Greek *phoinix* (Phoenix) traces to the same Sumerian
 mushroom word as *Boanerges*. The Arabic *khashish* (Hashish) and Greek
-*kannabis* (Cannabis) both connect to [[sacred-mushroom-names-cross-cultural-synonyms]]. Whether these
-connections are real or artifacts of Allegro's flexible methodology remains
-the central point of scholarly dispute.
-
-## See Also
-
-- [[allegro-philological-methodology]] -- Method and its limitations
-- [[allegro-biblical-references-to-mushrooms-and-fungi]] -- OT mushroom references
+*kannabis* (Cannabis) both connect to [[allegro-philological-methodology]] -- Method and its limitations
 - [[allegro-bible-as-cryptogram]] -- Bible as encoded text
 
 ## Practical Applications
@@ -109,8 +93,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[hashish]]
 - [[amanita]]
-- [[mckenna-linguistic-impulse-psilocybin-broca-area-syntax]]
 - [[mckenna-language-as-magic-shamanic-theory-linguistic-reality-plant-hallucinogens]]
 - [[emcdda-hallucinogenic-mushroom-criminological-evidence]]

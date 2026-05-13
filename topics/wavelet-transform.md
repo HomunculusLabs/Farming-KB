@@ -19,34 +19,7 @@ It analyzes a signal by comparing it with short oscillatory functions known as w
 Each wavelet is shifted across the signal and stretched or compressed to examine different levels of detail.
 The resulting coefficients describe where particular patterns occur and at what scale they occur.
 This makes the wavelet transform especially useful for data whose behavior changes over time, space, or resolution.
-[[query-what-is-a-wavelet-transform-used-for]] can be understood as a localized alternative to global sinusoidal analysis.
-Where Fourier methods describe a signal as a sum of endless sine and cosine waves, wavelet methods use compact or rapidly decaying waveforms.
-The distinction matters whenever a signal contains bursts, edges, singularities, transients, or changing rhythms.
-Wavelet analysis is used in engineering, statistics, geophysics, image compression, biomedical signal processing, numerical analysis, and computer vision.
-It is one of the central tools of modern signal processing and multiscale data representation.
-## Basic Idea
-A wavelet is a wave-like function that rises and falls over a limited interval.
-The basic wavelet is often called the mother wavelet.
-Scaled and translated copies of the mother wavelet form a collection of analyzing functions.
-Translation moves the wavelet along the signal to test different locations.
-Scaling widens or narrows the wavelet to test coarse or fine features.
-A wide wavelet corresponds to low-frequency, long-duration structure.
-A narrow wavelet corresponds to high-frequency, short-duration structure.
-The transform coefficient is large when the local shape of the signal resembles the wavelet at that scale and position.
-The coefficient is small when the wavelet and the signal locally disagree or cancel out.
-In this way, the transform produces a map of local structure rather than a single global spectrum.
-The same idea applies to one-dimensional signals, two-dimensional images, three-dimensional volumes, and irregular scientific data.
-## Continuous and Discrete Forms
-The continuous wavelet transform evaluates many scales and positions.
-It creates a dense time-scale or space-scale representation that is often visually interpretable.
-This form is useful for exploratory analysis, seismology, biomedical rhythms, and nonstationary oscillations.
-The discrete wavelet transform uses selected scales and positions, usually arranged dyadically by powers of two.
-Its coefficients can form a compact basis or frame for reconstructing the original signal.
-The discrete form is usually preferred for compression, denoising, fast computation, and numerical algorithms.
-A fast discrete wavelet transform can be implemented with a pair of filters and downsampling operations.
-The low-pass filter produces approximation coefficients that describe broad structure.
-The high-pass filter produces detail coefficients that describe changes, edges, and fine texture.
-Repeating the same operation on the approximation coefficients creates a multilevel [[decomposition]].
+[[decomposition]].
 This nested structure is often called a wavelet pyramid.
 An inverse transform recombines the coefficients to reconstruct the original data.
 ## Multiresolution Analysis
@@ -94,9 +67,7 @@ Finite signals require assumptions beyond their endpoints, such as zero padding,
 Poor boundary choices can create artificial coefficients near the edges of a signal.
 ## Historical Development
 The earliest recognizable wavelet basis was introduced by Alfred Haar in 1909.
-For much of the [[coleman-louis-savier-twentieth-century-maraicher]], Fourier analysis remained the dominant language of signal representation.
-Fourier methods were powerful for stationary and periodic phenomena but less natural for localized events.
-Geophysicist Jean Morlet developed wavelet-like methods for seismic exploration in the late [[coleman-louis-savier-twentieth-century-maraicher]].
+For much of the [[coleman-louis-savier-twentieth-century-maraicher]].
 Alex Grossmann helped provide a mathematical formulation of the continuous wavelet transform.
 Yves Meyer developed major theoretical foundations for wavelet bases.
 Ingrid Daubechies constructed compactly supported orthonormal wavelets that made many applications practical.
@@ -125,8 +96,7 @@ Fourier analysis provides precise frequency information but weak localization fo
 Short-time Fourier analysis adds localization by using a fixed window.
 Wavelet analysis uses windows that change with scale, giving long windows for low frequencies and short windows for high frequencies.
 This variable resolution is one of its defining advantages.
-Wavelets can also complement state-estimation methods such as the [[kalman-filter]].
-A [[kalman-filter]] estimates hidden states through time using a dynamical model and noisy observations.
+Wavelets can also complement state-estimation methods such as the [[kalman-filter]] estimates hidden states through time using a dynamical model and noisy observations.
 A wavelet transform reorganizes observed data into scale-localized coefficients.
 The two methods answer different questions, but both are used for noisy, time-varying signals.
 Hybrid systems may use wavelets for denoising or feature extraction before statistical filtering.

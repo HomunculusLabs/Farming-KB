@@ -61,7 +61,7 @@ Bark is dark gray to brown, developing furrows and ridges with age. Young branch
 
 The species reaches its greatest size in the Appalachian Mountains and the Cumberland Plateau. It is most abundant in rich, moist coves and lower mountain slopes.
 
-It grows in mixed hardwood forests, often associated with [[liriodendron-tulipifera]], [[quercus-alba]], [[acer-saccharum]], [[fagus-grandifolia]], and [[tilia-americana]]. It is a component of the mixed mesophytic forest association.
+It grows in mixed hardwood forests, often associated with [[quercus-alba]], [[fagus-grandifolia]], and [[tilia-americana]]. It is a component of the mixed mesophytic forest association.
 
 Optimal growth occurs on deep, fertile, well-drained loam soils with a pH of 5.0–6.5. The species is somewhat shade-tolerant in youth but becomes more light-demanding with maturity.
 

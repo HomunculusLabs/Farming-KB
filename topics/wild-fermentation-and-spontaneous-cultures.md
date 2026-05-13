@@ -23,36 +23,13 @@ Wild fermentation — also called spontaneous fermentation — is the practice o
 
 Wild fermentation relies on the diverse community of bacteria, yeasts, and molds that colonize raw foods. These microorganisms — *Lactobacillus* species, wild *Saccharomyces* and non-*Saccharomyces* yeasts, acetic acid bacteria, and various filamentous fungi — are ubiquitous in soil, on plant surfaces, in the air, on human hands, and on the surfaces of fermentation vessels and tools.
 
-When environmental conditions shift — through the addition of salt, the exclusion of oxygen, a change in pH or temperature, or the depletion of easily metabolized sugars — the [[edaphic-factors-microbial-community-structure]] undergoes [[holmgren-ecological-succession-and-pulsing]]. Different organisms dominate at different stages, each creating conditions that favor the next wave. This dynamic, multi-species process is what gives wild-[[fermented-foods-and-beverages]] their characteristic depth, complexity, and variability.
-
-### Key Characteristics
-
-- **No [[comparison-wild-fermentation-vs-commercial-starter-culture]] culture is added.** Fermentation is driven entirely by organisms present on the raw material and in the processing environment.
+When environmental conditions shift — through the addition of salt, the exclusion of oxygen, a change in pH or temperature, or the depletion of easily metabolized sugars — the [[holmgren-ecological-succession-and-pulsing]]. Different organisms dominate at different stages, each creating conditions that favor the next wave. This dynamic, multi-species process is what gives wild-[[comparison-wild-fermentation-vs-commercial-starter-culture]] culture is added.** Fermentation is driven entirely by organisms present on the raw material and in the processing environment.
 - **Microbial diversity is high.** Dozens to hundreds of species may participate, interacting through competition, mutualism, and succession.
-- **Results are variable.** Batch-to-batch variation is the norm — influenced by season, [[jadam-ambient-temperature-principle]], ingredient microbiome, and handling.
-- **Terroir is expressed.** The microbial ecology of a particular place — a farm, a kitchen, a cellar — shapes the flavor profile of the product.
-- **Minimal equipment is needed.** Most wild fermentations require nothing more than a vessel, salt or water, and time.
-
----
-
-## The Science of Spontaneous Fermentation
-
-### Microbial Succession
-
-Wild fermentation is fundamentally an ecological process. Understanding succession — the predictable sequence of microbial community changes — is key to managing it successfully.
-
-**Phase 1: Initial colonization.** When raw food is shredded, crushed, or submerged in brine, the microbes present on its surface begin to multiply. In vegetable ferments, *Leuconostoc* species are often the first to appear, producing carbon dioxide and lactic acid while tolerating higher oxygen levels and moderate salt concentrations. In grain or fruit ferments, wild yeasts and a range of bacteria compete for available sugars.
-
-**Phase 2: Acidification.** As lactic acid bacteria (LAB) — primarily *Lactobacillus* species — proliferate, they produce lactic acid, dropping the pH from near-neutral to 3.5–4.5. This acidic environment is inhospitable to most pathogens and spoilage organisms, providing a natural preservation mechanism. The dominant LAB species shift over time as acidity increases: *Lactobacillus plantarum*, *L. brevis*, and *L. pentosus* are common late-stage dominants in vegetable ferments.
-
-**Phase 3: Maturation and stability.** Once pH is sufficiently low and acid concentrations are high, the microbial community stabilizes. Flavor compounds accumulate through secondary metabolism — esters, diacetyl, acetaldehyde, and various sulfur-containing compounds. In long ferments (sauerkraut aged for months, kimchi stored in onggi jars), enzymatic breakdown of [[plant-cell-membrane-transport-proteins-channels-carriers-and-pumps]] walls continues, developing umami and complexity.
+- **Results are variable.** Batch-to-batch variation is the norm — influenced by season, [[plant-cell-membrane-transport-proteins-channels-carriers-and-pumps]] walls continues, developing umami and complexity.
 
 ### The Role of Yeasts in Wild Fermentation
 
-Wild yeasts are critical in beverage fermentations and also play important roles in many food fermentations. *[[saccharomyces-cerevisiae]]* — the species used in commercial baker's and brewer's yeast — is surprisingly rare in the wild. Instead, spontaneous alcoholic fermentations are typically initiated by a succession of non-*Saccharomyces* species:
-
-- ***Hanseniaspora/Kloeckera***: Apiculate (lemon-shaped) yeasts that dominate early fermentation. They produce high levels of acetic acid, ethyl acetate, and various esters. Sensitive to ethanol — typically die off as alcohol rises above 4–6%. Found on grapes, apples, berries, and other fruit skins.
-- ***Candida*** and ***Pichia***: Oxidative yeasts that form pellicles (thin white films) on the surface of fermenting liquids where oxygen is available. They produce acetic acid, ethyl acetate, and other [[query-how-do-fungal-volatile-compounds-affect-plant-growth-and-other-microorganisms]]. *Pichia kluyveri* is valued in some wine and cider traditions for its tropical fruit aromas.
+Wild yeasts are critical in beverage fermentations and also play important roles in many food fermentations. *[[query-how-do-fungal-volatile-compounds-affect-plant-growth-and-other-microorganisms]]. *Pichia kluyveri* is valued in some wine and cider traditions for its tropical fruit aromas.
 - ***Torulaspora delbrueckii***: A non-*Saccharomyces* yeast increasingly prized in natural winemaking for its aromatic contributions (fruity, floral notes) and ability to reduce volatile acidity. More ethanol-tolerant than most non-*Saccharomyces* yeasts — can persist into mid-fermentation.
 - ***Metschnikowia pulcherrima***: A pigmented yeast (produces red colonies) found on fruit skins. Notable for producing pulcherrimin, a red pigment that binds iron and may inhibit competing microorganisms — a form of microbial competition.
 - ***Saccharomyces paradoxus*** and ***S. uvarum***: Wild relatives of *S. cerevisiae*. *S. uvarum* (formerly *S. bayanus*) is cold-adapted and contributes to fermentation in cooler climates — important in traditional cider and some European wine regions.
@@ -61,29 +38,7 @@ Wild yeasts are critical in beverage fermentations and also play important roles
 
 As fermentation proceeds and ethanol concentration rises, alcohol-tolerant *Saccharomyces* species eventually dominate, completing sugar conversion to ethanol and CO₂. But in many traditional processes, the non-*Saccharomyces* yeasts are never fully displaced, and their metabolic products — esters, higher alcohols, volatile phenols, glycerol, and acetaldehyde — define the character of the final beverage.
 
-In food fermentations (sourdough, [[fermented-vegetables-guide]]), yeasts play supporting roles — producing CO₂ for leavening (in bread) and contributing subtle aromatic complexity. The yeast communities in sourdough, for example, are typically dominated by *Kazachstania exigua*, *Wickerhamomyces anomalus*, and *Pichia kudriavzevii* rather than *Saccharomyces cerevisiae*.
-
-### Acetic Acid Bacteria
-
-Acetic acid bacteria (AAB) — primarily *Acetobacter* and *Gluconobacter* species — are aerobic organisms that oxidize ethanol to acetic acid. In most fermentations they are an unwanted contaminant, but in several important wild fermentation traditions they play a central role:
-
-- **Vinegar production** (all types): Deliberate exposure of alcoholic liquid to air encourages AAB.
-- **Kombucha**: A symbiotic culture of bacteria and yeast (SCOBY) includes AAB, which produce acetic acid that contributes to kombucha's tart flavor.
-- **Water kefir and tibicos**: AAB are part of the grain biofilm ecosystem.
-- **Cacao fermentation**: AAB are essential for developing the precursors of chocolate flavor during the 5–7 day fermentation of cacao beans.
-
----
-
-## Major Categories of Wild Fermentation
-
-### Vegetable Fermentation (Lacto-Fermentation)
-
-The simplest and most accessible form of wild fermentation. Raw vegetables are shredded or packed whole into a vessel, salted or submerged in brine, and left at room temperature. The salt selectively favors lactic acid bacteria while inhibiting spoilage organisms.
-
-**Classic examples:**
-- **Sauerkraut** (Germany/Eastern Europe): Shredded cabbage and salt, fermented 1–6+ weeks.
-- **Kimchi** (Korea): Cabbage, radish, garlic, ginger, chili, fish sauce or shrimp paste, fermented in onggi (porous clay) jars. The onggi's semi-permeable walls allow gas exchange while protecting from contamination.
-- **Curtido** ([[guzman-allen-gartz-neurotropic-fungi-central-america-caribbean]]): Cabbage, carrots, onions, oregano, vinegar, and chilies.
+In food fermentations (sourdough, [[guzman-allen-gartz-neurotropic-fungi-central-america-caribbean]]): Cabbage, carrots, onions, oregano, vinegar, and chilies.
 - **Tsukemono** (Japan): A vast category of pickled vegetables, from simple salt-brined cucumbers (asazuke) to complex rice-bran fermented (nuka-zuke) preparations.
 - **Atchara** (Philippines): Green papaya, carrots, bell peppers, ginger in vinegar-brine.
 - **Ajvar and other Balkan ferments**: Roasted peppers, eggplant, and garlic.

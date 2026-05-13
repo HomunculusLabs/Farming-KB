@@ -9,17 +9,9 @@ sources: []
 
 # Fungal Glomalin and Soil Carbon
 
-Glomalin is a glycoprotein produced abundantly by [[arbuscular-mycorrhizal-fungi]]
-that plays a pivotal role in soil [[singh-fungal-roles-in-soil-aggregate-formation]] and stabilization, and
-represents a significant component of [[soil-organic-carbon-fractions-turnover-dynamics]] pools. Discovered by
-Sara Wright and colleagues in the 1990s, glomalin has transformed our
-understanding of [[query-how-mycorrhizal-fungi-help-plants]] contribute to soil structure and
-long-term [[gadd-fungal-carbon-sequestration]] in terrestrial ecosystems.
-
-## Discovery and Characterization
-
-Glomalin was first identified and described by Wright and Upadhyaya (1996) as
-a copiously produced glycoprotein from [[arbuscular-mycorrhizal-colonization-patterns]] fungi. The
+Glomalin is a glycoprotein produced abundantly by [[singh-fungal-roles-in-soil-aggregate-formation]] and stabilization, and
+represents a significant component of [[query-how-mycorrhizal-fungi-help-plants]] contribute to soil structure and
+long-term [[arbuscular-mycorrhizal-colonization-patterns]] fungi. The
 compound was detected using a monoclonal antibody technique developed to
 specifically recognize glomalin in soil extracts. This immunological detection
 method allowed researchers to quantify glomalin concentrations in soil
@@ -27,25 +19,7 @@ aggregates and to correlate glomalin content with measures of soil physical
 properties.
 
 The name "glomalin" reflects its origin from Glomales, the taxonomic order
-that was traditionally used to classify [[arbuscular-mycorrhizal-fungi-biology-symbiosis]]. Glomalin
-is operationally defined by its extraction characteristics and immunoreactivity
-rather than by a precise chemical structure, as the compound has proven
-difficult to purify to homogeneity.
-
-It is extracted from soil using alkaline solutions (sodium citrate at high
-temperature and pH) and can be quantified using enzyme-linked immunosorbent
-assay (ELISA) methods.
-
-## Chemical Properties
-
-Glomalin is a recalcitrant glycoprotein with unusual stability in soil. Its
-resistance to microbial decomposition is attributed to several chemical
-properties including a high degree of cross-linking through iron and other
-metal ions, the presence of aromatic amino acid residues, and the formation of
-complexes with soil mineral particles.
-
-These properties give glomalin a turnover time in soil estimated at years to
-decades, far longer than most [[knf-leaf-mold-humus]] fractions. The glycoprotein
+that was traditionally used to classify [[knf-leaf-mold-humus]] fractions. The glycoprotein
 contains both protein and carbohydrate components, with the protein component
 including specific epitopes recognized by the monoclonal antibody.
 
@@ -56,9 +30,7 @@ in aggregate stabilization.
 
 ## Role in Soil Aggregate Formation
 
-The central [[phytochrome-ecological-function-dusk-dawn-red-far-red-light-switch]] of glomalin is its contribution to the
-formation and stabilization of soil aggregates. Soil aggregates are
-combinations of mineral soil particles [[hamilton-composting-and-organic-matter-management]] that create the
+The central [[hamilton-composting-and-organic-matter-management]] that create the
 porous structure essential for soil fertility, water infiltration, and gas
 exchange.
 
@@ -118,8 +90,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[glomalin-and-soil-carbon]]
 - [[dom]]
-- [[det]]
 - [[arbuscular-mycorrhizal-fungi]]
 - [[composting]]

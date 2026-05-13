@@ -64,44 +64,10 @@ Mead's palette is narrower in base but broadens through adjunts: melomels (fruit
 
 Typical mead ranges from 8-14% ABV (traditional), with session meads at 3-7% and big meads reaching 16-18%. Most beers fall between 4-8% ABV, with imperial styles reaching 10-12%. Mead's higher ABV is a natural consequence of honey's high sugar density (approximately 1.035 gravity per pound per gallon).
 
-Higher ABV meads require more careful yeast selection and [[green-cannabis-grow-bible-nutrient-management-ppm]]. A standard 3-pound-per-gallon traditional mead hits ~12% ABV -- pushing the limits of many wine yeasts. Lalvin EC-1118 (Champagne yeast) at 18% tolerance is the go-to for big meads. Beer yeasts rarely exceed 12% tolerance, and high-gravity beers often need yeast starters or multiple pitches.
+Higher ABV meads require more careful yeast selection and [[mycelium-running-mushroom-antimicrobial-properties-species-chart]] (iso-alpha acids inhibit bacteria), beer is relatively resilient to contamination post-boil.
 
-## Scaling and Batch Sizes
-
-Beer is typically brewed in 5-gallon batches (the standard homebrew size), which fills approximately 48-50 twelve-ounce bottles. The equipment and process are optimized for this scale. Smaller 1-2 gallon batches work but feel inefficient given the equipment footprint.
-
-Mead scales gracefully. A 1-gallon jug batch is perfectly practical and produces 8-10 bottles -- ideal for experimentation and gift-giving. Five-gallon mead batches are common but require 12-18 pounds of honey ($40-100+), making ingredient cost a real consideration. Mead's long aging also means cellar space becomes a factor at larger scales.
-
-## Water Chemistry
-
-Beer is 90-95% water, and water mineral content profoundly affects mash pH, hop utilization, and final flavor. Burton-on-Trent's hard sulfate water produces classic English pale ales; Pilsen's soft water defines Czech pilsners. Serious home brewers adjust water chemistry with calcium chloride, gypsum, and acid.
-
-Mead's water requirements are simpler. Chlorine-free water is the primary concern -- chlorine produces medicinal off-flavors. Beyond that, mead does not have a mash step, so mineral adjustments are optional rather than critical. Some mead makers add calcium to support yeast health, but it is far less consequential than in beer.
-
-## Carbonation
-
-Beer is almost always carbonated -- either by bottle conditioning with priming sugar or by forced carbonation via kegging. Carbonation is considered essential to the beer experience, contributing mouthfeel, aroma release, and perceived freshness.
-
-Mead is traditionally still, though sparkling meads (petillant or fully carbonated) are growing in popularity. Carbonating mead requires either bottle conditioning with additional honey or sugar (carefully measured to avoid over-pressurization), or kegging. Session meads are often carbonated to mimic a beer-like drinking experience.
-
-## Risk of Infection
-
-Beer's boil (60-90 minutes at 212°F) effectively pasteurizes the wort, killing virtually all wild organisms. Combined with hops' [[mycelium-running-mushroom-antimicrobial-properties-species-chart]] (iso-alpha acids inhibit bacteria), beer is relatively resilient to contamination post-boil.
-
-Mead has no boil step. Honey is naturally antimicrobial (low water activity, high osmotic pressure, trace [[cervantes-hydrogen-peroxide-sterilization]]), but once diluted with water, this protection vanishes. Meticulous sanitation is critical for mead -- infections are more common and harder to correct. The lack of hop bitterness in mead also means no antimicrobial backup.
-
-## Homesteader Integration
-
-Both beverages connect to homesteading systems, but through different pathways:
-
-- **Mead** directly values beekeeping infrastructure and [[mollison-designers-beekeeping-honey-production-permaculture]]. A single strong hive can produce 30-60 pounds of surplus honey annually -- enough for 10-15 gallons of mead.
-- **Beer** connects to [[fukuoka-no-till-grain-production-method]] and hop cultivation. Hops are perennial vines hardy in zones 4-8, requiring rhizome planting and trellising. Malting barley at home is possible but labor-intensive.
-
-## Common Problems
-
-| Problem | Mead | Beer |
-|---------|------|------|
-| Stalled fermentation | [[cannabis-grow-nutrient-deficiency-problem-solving]], low temp, exceeded ABV tolerance | Too cold, old yeast, insufficient aeration |
+Mead has no boil step. Honey is naturally antimicrobial (low water activity, high osmotic pressure, trace [[mollison-designers-beekeeping-honey-production-permaculture]]. A single strong hive can produce 30-60 pounds of surplus honey annually -- enough for 10-15 gallons of mead.
+- **Beer** connects to [[cannabis-grow-nutrient-deficiency-problem-solving]], low temp, exceeded ABV tolerance | Too cold, old yeast, insufficient aeration |
 | Off-flavors | Sulphur (nutrient stress), medicinal (chlorine) | Fusel alcohols (too warm), buttery (diacetyl), skunky (light exposure) |
 | Overly sweet | Incomplete fermentation; repitch or check ABV tolerance | Incomplete fermentation; check gravity |
 | Too dry | Normal for mead; backsweeten after stabilizing | Unlikely; indicates over-attenuation or infection |
@@ -116,8 +82,5 @@ The two are not mutually exclusive. Braggot combines honey and malted grain, and
 
 ## See Also
 
-- [[comparison-cider-vs-mead-making]]
-
 - [[beer-brewing-basics]] for the complete brewing process
-- [[cider-making-guide]] for another accessible homestead fermentation
 - [[comparison-beer-vs-wine-making]] for beer versus wine

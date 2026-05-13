@@ -24,7 +24,7 @@ sources:
 
 Cedrus deodara, the deodar cedar, is a large evergreen coniferous tree in the family Pinaceae native to the western Himalayas. It is the national tree of Pakistan and holds deep cultural and religious significance across the Indian subcontinent.
 
-The species is one of four true cedars in the genus Cedrus, alongside [[cedrus-libani]] (cedar of Lebanon), [[cedrus-atlantica]] (Atlas cedar), and Cedrus brevifolia (Cypriot cedar). Deodar cedar is distinguished by its gracefully drooping leading shoots and softer, more flexible foliage.
+The species is one of four true cedars in the genus Cedrus, alongside [[cedrus-atlantica]] (Atlas cedar), and Cedrus brevifolia (Cypriot cedar). Deodar cedar is distinguished by its gracefully drooping leading shoots and softer, more flexible foliage.
 
 Deodar cedar is generally considered the most cold-hardy of the true cedars, though Atlas cedar can tolerate slightly lower temperatures in some provenances. Among the four species, deodar cedar has the longest needles and the most pronounced pendulous habit.
 
@@ -32,7 +32,7 @@ Deodar cedar typically reaches 40–60 meters in height with a trunk diameter of
 
 The species is the tallest of the true cedars, regularly exceeding 50 meters on optimal sites. The largest recorded specimen, measured in the Kangra Valley of Himachal Pradesh, had a girth exceeding 12 meters and an estimated age of over 700 years.
 
-The species is long-lived, often reaching 500–1,000 years in its native range. [[holzer-saving-ancient-trees]] are revered in Hindu and Buddhist traditions, where they are associated with temples, [[permaculture-designers-manual-sacred-groves]], and meditation sites.
+The species is long-lived, often reaching 500–1,000 years in its native range. [[permaculture-designers-manual-sacred-groves]], and meditation sites.
 
 In Hindu mythology, the deodar cedar is considered the tree of Lord Shiva and is planted around temples dedicated to him throughout the Himalayan region. The wood is traditionally used to carve religious icons and ceremonial objects.
 
@@ -60,9 +60,7 @@ Pollination occurs in autumn (September–November), with pollen dispersed by wi
 
 Cones are barrel-shaped, glossy green when young, becoming brown at maturity in the second year. Each cone bears 50–80 spirally arranged seed scales, each with two seeds. Seeds are 10–14 mm long with a resinous wing 15–25 mm long.
 
-[[clay-pellet-seed-dispersal]] is primarily by wind, with the resinous wings facilitating longer-distance transport. Germination is epigeal, occurring in spring after a period of cold stratification. Seed viability in storage is limited to approximately 2–3 years under standard conditions.
-
-The root system of young deodar cedars develops a strong taproot that gradually transitions to a widespread lateral root system with age. Mature trees produce extensive [[plants-without-mycorrhizal-associations]], particularly with [[ectomycorrhizal-fungi]] that enhance [[aact-microbial-foliar-nutrient-uptake-co2-stomata-ingham]] on montane soils.
+[[plants-without-mycorrhizal-associations]], particularly with [[aact-microbial-foliar-nutrient-uptake-co2-stomata-ingham]] on montane soils.
 
 ## Distribution and Habitat
 
@@ -76,9 +74,7 @@ Soils in the native range are typically acidic, well-drained loams to sandy loam
 
 Annual precipitation in the native range varies from 750 to 2,000 mm, with a significant proportion falling as winter snow. Mean annual temperatures range from 5°C to 15°C, with winter minima of -10°C to -15°C.
 
-Deodar cedar has been widely planted as an ornamental and forestry tree well beyond its native range. It has naturalized in parts of western Europe, the southeastern [[dmt-containing-plants-united-states-halpern]], Australia, and New Zealand.
-
-The species performs best in regions with mild, moist winters and warm, dry summers. It is widely grown in California, the southeastern US, the Mediterranean basin, and parts of Australia and New Zealand. [[coleman-cold-hardiness-testing-ratings]] is approximately -18°C, limiting its use in continental climates.
+Deodar cedar has been widely planted as an ornamental and forestry tree well beyond its native range. It has naturalized in parts of western Europe, the southeastern [[coleman-cold-hardiness-testing-ratings]] is approximately -18°C, limiting its use in continental climates.
 
 ## Ecology and Applications
 

@@ -10,17 +10,11 @@ sources:
 
 # Root Crops: Growing Guide
 
-Source: [[steve-solomon]], "Gardening When It Counts" (2005)
-
-## The Root Crop Strategy
-
-Solomon describes root crops as employing a brilliant survival strategy: "sneak a deep taproot through the opposition; then begin drawing moisture and nutrition located deeper than neighbors can reach. A supply of raw materials assured, fill a storage chamber with surplus food. Then rest over winter. In spring, start with a huge advantage to overtop neighbors and shade them out, and begin making seeds."
-
-Most root crops are biennials: they grow [[holmgren-catch-and-store-energy-four-landscape-storages]] in year one, then flower and set seed in year two.
+Source: [[holmgren-catch-and-store-energy-four-landscape-storages]] in year one, then flower and set seed in year two.
 
 ## Potatoes (Solanum tuberosum)
 
-The single most important [[jeavons-carbon-and-calorie-crop-integration]] for [[fukuoka-natural-farming-temperate-climates]]. Solomon devotes more space to potatoes than any other vegetable.
+The single most important [[fukuoka-natural-farming-temperate-climates]]. Solomon devotes more space to potatoes than any other vegetable.
 
 ### Seed Preparation (Chitting)
 
@@ -32,31 +26,7 @@ About 6 weeks before planting, spread uncut seed potatoes on a tray in bright in
 - Prepare rows: spread compost/manure in 1-foot bands, deeply dig the rows
 - For highest yield: excavate trenches, fill with compost/manure/COF, cover with soil
 - Set seed pieces 4 inches deep, 8-12 inches apart in rows 36 inches apart
-- Wider spacing: larger tubers, slightly lower yield, better [[dighton-fungal-drought-tolerance-plant-water-relations]]
-- Closer spacing: moderate tubers, maximum yield, less drought tolerance
-
-### Hilling
-
-Plant shallowly, then hill up progressively as vines grow:
-- When vines are ~4 inches tall, pull soil from between rows up against vines
-- Bury bottom inch of vine; repeat every 5-7 days
-- Never cover more than 1/4 of new growth
-- By bloom time, aim for 18-inch-wide mound ~10 inches tall
-- Almost all potatoes form in this mound; proper hilling eliminates green potatoes
-- Continue light hilling as weeds emerge until vines fall over
-
-### Nutrition and Quality
-
-Soil [[holmgren-mineral-balance-soil-fertility]] affects potato [[coleman-winter-greens-nutritional-quality-cold-sweetening]]. High potassium + high moisture produces bulky, watery, low-protein tubers. Waxy "boiling" varieties with reduced irrigation after tuber set produce higher protein (up to ~11% dry weight). Lower potassium in the COF and moderate moisture produce smaller but more nutritious spuds.
-
-### Harvest and Storage
-
-- Dig for "new potatoes" once earliest variety is in bloom
-- Main harvest when vines have browned off and skins are tough
-- Handle carefully; avoid cuts and bruises
-- Cut potatoes do not store well
-- Ideal storage: humid, stable 38-40F (3-4C)
-- Solomon stores in wood boxes in an unheated outbuilding with wool blankets for [[blesching-cannabis-fever-temperature-regulation]]
+- Wider spacing: larger tubers, slightly lower yield, better [[holmgren-mineral-balance-soil-fertility]] affects potato [[blesching-cannabis-fever-temperature-regulation]]
 - Potatoes last for months; rub off sprouts to extend storage
 
 ### Pests and Diseases
@@ -88,3 +58,88 @@ Require light, well-drained soil. Need 3-4 months of warm growing weather (90+ d
 - Monitor closely near expected maturity; size up rapidly in last few weeks
 - Dig promptly when ready; avoid skinning damage
 - Light irrigation before digging helps if soil is dry
+
+## Overview
+
+Solomon Root Crops Growing represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish solomon root crops growing
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving solomon extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Solomon Root Crops Growing finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for solomon root crops growing. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+solomon root crops growing and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Solomon Root Crops Growing has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of solomon root crops growing into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[solomon-disease-identification-and-organic-remedies]]
+- [[solomon-manure-types-and-nutrient-values]]
+- [[solomon-raised-beds-and-bed-preparation]]
+- [[solomon-seed-saving-vegetable-breeding]]
+- [[solomon-soil-preparation-bed-prep]]

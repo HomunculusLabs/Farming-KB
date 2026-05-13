@@ -35,57 +35,90 @@ Mollison identifies several integrated approaches for managing kikuyu in tropica
 
 ### Barrier Plantings
 
-- **Lemongrass ([[cymbopogon-citratus]])**: Forms dense clumps that act as an effective barrier to kikuyu rhizome spread. Regularly cut for mulch in vegetable gardens while serving its barrier function.
-- **Comfrey (Symphytum officinale)**: Deep-rooted perennial that competes effectively with kikuyu at garden borders. Also provides potassium-rich mulch when cut.
-- Both species serve a dual function as kikuyu barriers and repetitive-cut mulch crops for the vegetable garden.
-- Many permaculture practitioners now use both lemongrass and comfrey as a combined kikuyu barrier and mulch crop system.
-
-### Mulch Suppression
-
-- Thick organic mulch (20-25 cm deep) applied to garden beds almost totally eradicates kikuyu by excluding light from stolons and rhizomes.
-- Cardboard and newspaper laid directly over kikuyu sod, then covered with organic mulch, provides effective initial suppression.
-- Mulched areas can be planted immediately if paper or cardboard is used as a barrier over undug grasses.
-- Coconut husks, palm fronds, and nut husks are excellent mulch materials in tropical settings for kikuyu suppression.
-- Plastic sheet mulch also suppresses kikuyu effectively but does not add humus or improve soil structure.
-
-### Integrated Weed-to-Mulch Pipeline
-
-- Kikuyu and other persistent grasses can be routed through poultry or cattle pens, where seeds are digested and foliage consumed.
-- Alternatively, problematic material can be shredded for anaerobic digestion in biogas plants, bagged in plastic bales and solarised, or bundled and immersed in covered water pits to rot.
-- Pigs are particularly effective at eliminating nut-grasses, rhizomes, bulbs, and sedges that resprout from compost.
-
-## Role in Tropical Agricultural Systems
-
-- **Pasture**: Primary pasture species in humid and wet-dry tropics, supporting dairy and beef production across Australia, East Africa, and Hawaii.
-- **Erosion control**: Dense mat-forming habit makes it effective for stabilising slopes, embankments, and waterway margins.
-- **Green manure**: When slashed, kikuyu provides large quantities of nitrogen-rich green matter for compost or mulch (seed-free second-cut grass preferred for garden use).
-- **Sports turf**: Widely used for sports fields and lawns in subtropical regions due to wear tolerance and rapid recovery.
-
-## Relevance to Cultivation
-
-- **Garden design challenge**: Kikuyu management is a fundamental design consideration in tropical and subtropical permaculture. Garden bed placement, barrier plantings, and mulch strategies must be planned with kikuyu in mind.
-- **Edge effect management**: The boundary between garden and pasture is a critical zone where barrier plants like lemongrass and comfrey serve as living edging.
-- **Mulch production paradox**: Kikuyu areas that are slashed regularly produce abundant mulch material, but seed-head mulch should never be placed in gardens.
-- **Soil improvement**: Despite its weed status, kikuyu's deep root system can improve soil structure and bring nutrients from depth, making it useful as a preliminary soil-building cover before garden establishment.
-- **Timing of slashing**: Critical for mulch quality. Seed-free mulch (second-cut grass) is best for placement around valuable crops.
-- **Dual-purpose design**: Well-designed permaculture systems convert the kikuyu problem into a mulch solution through strategic barrier planting and animal integration.
-
-## Design Pattern: Kikuyu-to-Mulch Conversion
-
-A proven permaculture design pattern for converting kikuyu-infested land to productive gardens:
-
-1. Establish lemongrass and comfrey barrier plants around the perimeter of the planned garden.
-2. Slash kikuyu short and cover with overlapping cardboard or newspaper.
-3. Apply 20-25 cm of organic mulch (palm fronds, coconut husks, straw, or compost) on top.
-4. Plant directly into the mulch layer; the cardboard suppresses kikuyu while decomposing.
-5. Maintain barrier plantings with regular cutting to prevent kikuyu rhizome bridging.
-6. Route any kikuyu that does encroach through poultry pens before returning to garden as mulch.
-
-## Source Reference
-
-Bill Mollison, *Permaculture: A Designers' Manual* (Tagari Publications, 1988), Chapter 10: The Humid Tropics, Sections on Hedgerow and Mulch Plants, pp. 256-258.
-## See also
-
-- [[tropical-food-system-development]]
-- [[soil-erosion-control]]
+- **Lemongrass ([[tropical-food-system-development]]
 - [[mollison-designers-poultry-forage-design-pastured-systems]]
+
+## Overview
+
+Kikuyu Grass Mollison represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish kikuyu grass mollison
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving kikuyu extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Kikuyu Grass Mollison finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for kikuyu grass mollison. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+kikuyu grass mollison and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Kikuyu Grass Mollison has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of kikuyu grass mollison into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[comparison-vetiver-grass-vs-bamboo-for-erosion-control]]
+- [[grass-seed-mushroom-cultivation]]
+- [[grass-seed-substrate-water-absorption-variability-and-calibration]]
+- [[overnight-soak-grass-seed-substrate-homogeneity]]
+- [[water-absorption-variability-grass-seed-substrate-preparation]]

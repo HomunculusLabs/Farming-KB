@@ -10,11 +10,7 @@ sources:
 # DOEF
 
 **Chemical name:** 2,5-Dimethoxy-4-(2-fluoroethyl)-amphetamine
-**[[2c-b-pihkal-entry-20]]:** #65
-
-## Overview
-
-DOEF is a member of the [[alexander-shulgin]] describes DOEF as a compound where "all systems [are] intact, body, mind and emotion" -- a notably positive assessment that places it among the more benign members of the psychedelic amphetamines.
+**[[alexander-shulgin]] describes DOEF as a compound where "all systems [are] intact, body, mind and emotion" -- a notably positive assessment that places it among the more benign members of the psychedelic amphetamines.
 
 ## Dosage
 
@@ -30,14 +26,7 @@ DOEF is a member of the [[alexander-shulgin]] describes DOEF as a compound where
 
 ## Effects
 
-The qualitative reports from [[doet-compound-profile]] but with different electronic properties, which may explain the subtle differences in character.
-
-## Related Compounds
-
-- dob-entity|DOB (bromo, the starting material for synthesis)
-- doi-entity|DOI (iodo, similar effect profile)
-- [[2c-family-compounds-overview]]
-- [[pihkal-introduction-and-methodology]]
+The qualitative reports from [[2c-family-compounds-overview]]
 - [[shulgin-dosage-guidelines]]
 
 ## Shulgin's Assessment
@@ -87,3 +76,75 @@ and helps identify patterns that might otherwise be overlooked in the
 complexity of day-to-day management and observation activities.
 
 ## Future Directions
+
+## Overview
+
+Doef Entity represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish doef entity
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving doef extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Doef Entity finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for doef entity. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+doef entity and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Doef Entity has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of doef entity into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions

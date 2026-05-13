@@ -2,7 +2,7 @@
 
 ## Overview
 
-The NASA Technical Support Package (MSC-22484) on microwave surface sterilization presents experimental kill curve data for a mixed surface population of bacteria, demonstrating the dose-response relationship between [[microbial-kill-curves-microwave-exposure]] and microbial population reduction. This data provides the quantitative foundation for the nasa [[coaxial-power-splitter-waveguide-microwave-sterilization]] challenge organisms kill kinetics protocol and reveals how different microorganisms respond to [[dry-microwave-irradiation-spore-resistance]] under [[psilocybe-cubensis-strain-potency-variability-controlled-conditions-bigwood-beug]].
+The NASA Technical Support Package (MSC-22484) on microwave surface sterilization presents experimental kill curve data for a mixed surface population of bacteria, demonstrating the dose-response relationship between [[coaxial-power-splitter-waveguide-microwave-sterilization]] challenge organisms kill kinetics protocol and reveals how different microorganisms respond to [[psilocybe-cubensis-strain-potency-variability-controlled-conditions-bigwood-beug]].
 
 ## Challenge Organisms
 
@@ -12,16 +12,9 @@ The NASA study used a defined mixed culture of three bacterial species as challe
 
 *Bacillus pumilus* is a Gram-positive, spore-forming rod bacterium commonly found in soil and associated with plant surfaces. Its inclusion in the challenge population was significant because:
 
-- **Spore-forming capability** — *B. pumilus* produces endospores that are among the most resistant microbial structures to physical and chemical [[conventional-surface-sterilization-methods-limitations-comparison]], making it a stringent test of microwave efficacy
-- **[[bacillus-pumilus-radiation-resistance-surface-decontamination]]** — *B. pumilus* spores have been documented as highly resistant to UV and ionizing radiation, and were used in space biology contamination studies
+- **Spore-forming capability** — *B. pumilus* produces endospores that are among the most resistant microbial structures to physical and chemical [[bacillus-pumilus-radiation-resistance-surface-decontamination]]** — *B. pumilus* spores have been documented as highly resistant to UV and ionizing radiation, and were used in space biology contamination studies
 - **Environmental relevance** — as a soil-dwelling organism, *B. pumilus* represents the type of contaminant most likely to be encountered on surfaces exposed to environmental air and dust
-- **[[microwave-sterilizable-access-port-nasa-space-biology]]** — *B. pumilus* has been studied extensively in NASA's planetary protection and space station microbiology programs
-
-### Escherichia coli
-
-*Escherichia coli* is a Gram-negative, non-spore-forming rod bacterium and a standard indicator organism in microbiology. Its inclusion served to:
-
-- **Represent vegetative cells** — as a non-spore-former, *E. coli* tested whether [[microbial-kill-microwave-irradiation]] could kill actively growing cells, which are generally more susceptible than spores
+- **[[microbial-kill-microwave-irradiation]] could kill actively growing cells, which are generally more susceptible than spores
 - **Provide a benchmark** — *E. coli* is one of the most well-characterized organisms in microbiology, with established thermal death times and radiation sensitivity data for comparison
 - **Represent Gram-negative sensitivity** — Gram-negative bacteria are generally more susceptible to environmental stressors than Gram-positive organisms due to their thinner peptidoglycan layer
 - **Environmental relevance** — *E. coli* contamination indicates fecal contamination or poor sanitation, representing a common class of surface contaminants in enclosed systems

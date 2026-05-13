@@ -25,13 +25,9 @@ sources:
 ## Overview
 
 *Viburnum prunifolium*, known as blackhaw or sweet haw, is a deciduous
-shrub or small tree native to eastern and central [[psilocybin-north-america-pacific-northwest]]. It is one
-of the most important traditional uterine tonics and antispasmodics in
-both [[halpern-sacramental-peyote-and-native-american-church]] and Western [[amazonian-medicinal-plants-in-amaringos-visions]]
-- [[viburnum-opulus]]
+shrub or small tree native to eastern and central [[halpern-sacramental-peyote-and-native-american-church]] and Western [[viburnum-opulus]]
 
 ## See Also
-- [[herbal-plant-remedies]]
 - [[natives-vs-exotics]]
 
 ## Practical Applications

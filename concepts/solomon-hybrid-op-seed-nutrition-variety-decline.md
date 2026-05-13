@@ -4,14 +4,7 @@
 
 ## Core Concept
 
-Modern [[comparison-heirloom-vegetable-varieties-vs-seed-saving-techniques]] — both hybrid (F1) and open-pollinated (OP) — are
-generally less nutritious and less flavorful than the vegetable varieties
-grown before 1870. This decline is not caused by hybridization technology
-itself but by a fundamental shift in how varieties are selected. Before 1870,
-seed was saved family-to-family across generations, with natural selection
-favoring varieties that produced the best health in those who ate them. After
-industrialization, seed selection shifted to market criteria: yield,
-uniformity, shipping durability, and appearance — not [[coleman-winter-greens-nutritional-quality-cold-sweetening]].
+Modern [[coleman-winter-greens-nutritional-quality-cold-sweetening]].
 
 ## The Pre-1870 Selection Process
 
@@ -34,8 +27,7 @@ produced vegetables that were both nutritious and delicious.
 
 By about 1870, Europe and the United States had undergone the Industrial
 Revolution. Farming ceased to be primarily a subsistence activity and became
-a commercial enterprise. More than 90% of people in [[guzman-psilocybin-mushrooms-north-america]] had lived
-on self-sufficient farms with [[maintaining-organic-matter-in-vegetable-gardens]]; after 1870, increasing
+a commercial enterprise. More than 90% of people in [[maintaining-organic-matter-in-vegetable-gardens]]; after 1870, increasing
 numbers moved to cities and bought their food. The farmer now grew what the
 market demanded: uniform appearance, high yield, shipping durability, and
 long shelf life. Varieties were selected for commercial traits, and the
@@ -44,30 +36,7 @@ family-level selection was no longer prioritized.
 
 ## The Hybrid Question
 
-There is widespread belief among [[teaming-with-microbes-the-organic-gardeners-guide-to-the-soil-food-web]] that hybrids are less
-nutritious than open-pollinated varieties. Solomon, drawing on the work of
-biophysicist Dr. Alan Kapuler, presents a more nuanced view.
-
-### What Hybrids Actually Are
-Commercial hybrids are produced by crossing two genetically uniform inbred
-parent lines. The resulting F1 seed is highly uniform and vigorous
-(hybrid vigor or heterosis). This process often involves breeding
-self-sterility into parent lines so they can only produce seed by crossing
-with the other parent, ensuring genetic uniformity in the commercial product.
-
-### Why Hybrids Dominate Commercial Agriculture
-Commercial growers prefer hybrids because they are perfectly uniform in
-maturity (allowing single-pass harvest), highly vigorous (producing higher
-yields), and consistent in quality. The higher seed cost is more than offset
-by increased marketable yield. For the home gardener, these advantages are
-less relevant since uniform maturity and maximum yield are not primary goals.
-
-### The Real Problem
-It is generally true that modern hybrids are not as nutritious as old-fashioned
-OP varieties. However, it is also true that OP varieties developed since 1870
-are not as nutritious either. The decline in nutritional quality affects all
-modern breeding, regardless of whether the variety is hybrid or OP. The
-variable is not the breeding method but the [[cannabis-breeding-traits-selection-criteria-clarke]] used.
+There is widespread belief among [[cannabis-breeding-traits-selection-criteria-clarke]] used.
 
 ### The Heirloom Myth
 Much of what passes for "heirloom" OP varieties today is not genuinely old.
@@ -145,5 +114,4 @@ yield is arguably more important than total weight harvested.
 
 ## See Also
 
-- [[vegetable-seed-saving-and-germination]]
 - [[variety-trials-seed-company-quality-solomon]]

@@ -9,7 +9,7 @@ sources: []
 
 # Rust Fungi Guide
 
-Rust fungi (order Pucciniales, phylum [[basidiomycete-phylum-guide]]) are obligate plant parasites responsible for some of the most devastating crop diseases in agriculture. With over 7,000 species, they are the largest group of plant pathogenic fungi. Rust fungi cannot be cultured artificially and require living host tissue to complete their life cycle.
+Rust fungi (order Pucciniales, phylum [[basidiomycete-phylum-guide|Basidiomycota]]) are obligate plant parasites responsible for some of the most devastating crop diseases in agriculture. With over 7,000 species, they are the largest group of plant pathogenic fungi. Rust fungi cannot be cultured artificially and require living host tissue to complete their life cycle.
 
 ## Defining Characteristics
 
@@ -46,7 +46,7 @@ Rust fungi can have up to five distinct spore stages, designated by Roman numera
 - This is the stage responsible for epidemics
 
 ### Stage III: Telia (Teliospores)
-- Dark brown to black pustules, often forming late in [[query-how-to-protect-plants-from-frost-and-extend-the-growing-season]]
+- Dark brown to black pustules, often forming late in the growing season
 - Produce teliospores, which are the overwintering/overseasoning stage
 - Teliospores are dikaryotic; karyogamy occurs within them
 - Some require a dormancy period before germination
@@ -83,7 +83,7 @@ Missing one or more spore stages, often producing only telia and basidia.
 - Ug99 lineage (TTKSK): identified in Uganda in 1999, threatens global wheat production
 - Ug99 has virulence against most widely deployed resistance genes
 - Can cause yield losses of up to 100% in susceptible varieties
-- Eradication of barberry in [[guzman-psilocybin-mushrooms-north-america]] reduced stem rust incidence dramatically
+- Eradication of barberry in North America reduced stem rust incidence dramatically
 
 ### Stripe (Yellow) Rust (Puccinia striiformis f. sp. tritici)
 - Favors cooler, moist conditions
@@ -99,7 +99,7 @@ Missing one or more spore stages, often producing only telia and basidia.
 - Yield losses typically 10-40%
 
 ### Coffee Leaf Rust (Hemileia vastatrix)
-- Devastating disease of [[coffea-arabica]]
+- Devastating disease of Coffea arabica
 - Caused the collapse of coffee production in Ceylon (Sri Lanka) in the 1870s
 - Currently threatens coffee production throughout Central and South America
 - Favorable conditions: temperatures 18-28 C, high humidity
@@ -109,7 +109,7 @@ Missing one or more spore stages, often producing only telia and basidia.
 - First reported in Japan in 1902; arrived in continental US in 2004
 - Can cause yield losses of 10-80%
 - Rapid spread through wind-dispersed urediniospores
-- Requires fungicide application for control; [[cannabis-disease-pest-resistance-breeding-clarke]] ongoing
+- Requires fungicide application for control; resistance breeding ongoing
 
 ### Pine Stem Rusts (Cronartium spp.)
 - Cronartium ribicola: white pine blister rust, alternates between white pines and Ribes (currants/gooseberries)
@@ -117,7 +117,7 @@ Missing one or more spore stages, often producing only telia and basidia.
 - Efforts to develop resistant pine varieties and remove Ribes in pine areas
 
 ### Cedar-Apple Rust (Gymnosporangium juniperi-virginianae)
-- Alternates between eastern red cedar ([[juniperus-virginiana]]) and apple/crabapple
+- Alternates between eastern red cedar (Juniperus virginiana) and apple/crabapple
 - Produces large, gelatinous, orange telial horns on cedar in spring
 - Causes bright orange spots on apple leaves and fruit
 - Control: remove cedar trees near orchards, apply fungicides
@@ -140,11 +140,11 @@ Missing one or more spore stages, often producing only telia and basidia.
 ### Cultural Practices
 - Crop rotation reduces initial inoculum
 - Adjusted planting dates to avoid peak rust periods
-- Destroy volunteer plants that serve as a green bridge
-- Remove alternate hosts (barberry for stem rust, Ribes for white pine blister rust)
-- Residue management to reduce overwintering inoculum
 
-### Surveillance and Forecasting
-- International rust surveillance networks monitor pathogen evolution
-- Molecular tools (PCR, genome sequencing) track virulence shifts
-- Weather-based forecasting models predict disease risk
+## See Also
+
+- [[bloomfield-coffee-rust-and-crop-pathogens]]
+- [[bloomfield-heteroecious-rust-fungi-life-cycles-gymnosporangium]]
+- [[rust-fungi]]
+- [[bloomfield-rust-sex-insect-mediated-spermatia-transfer-dikaryon-formation]]
+- [[urediniomycetes-rust-fungi-yeastlike-relatives]]

@@ -19,7 +19,7 @@ sources:
 
 **Knautia arvensis** (L.) Coult., commonly known as field scabious, is a perennial herbaceous plant in the family Caprifoliaceae. It is native to Europe and western Asia, where it is a prominent feature of unimproved meadows, roadside verges, and chalk grasslands.
 
-The species produces large, attractive, lilac-blue flower heads that are among the most important nectar sources for butterflies in temperate European grasslands. It is widely planted in wildflower meadow mixtures and pollinator conservation schemes.
+The species produces large, attractive, lilac-blue flower heads that are among the most important nectar sources for butterflies in temperate European grasslands. It is widely planted in wildflower meadow mixtures and [[pollinator-conservation]] schemes.
 
 Field scabious flowers from June to October, making it one of the longest-blooming native meadow species in its range. This extended flowering period provides critical late-season forage when many other meadow plants have finished.
 
@@ -47,11 +47,7 @@ The chromosome number is 2n = 20. Hybridisation with *K. dipsacifolia* produces 
 
 *K. arvensis* is widely distributed across Europe, from the British Isles east to the Ural Mountains, and from southern Scandinavia to the Mediterranean Basin. It extends into western Asia as far as western Siberia.
 
-It has been introduced to [[psilocybin-north-america-pacific-northwest]], New Zealand, and parts of southern South America, where it occasionally naturalises in disturbed grassland.
-
-The species shows a strong preference for neutral to calcareous soils. It is characteristic of chalk and limestone grasslands, but also thrives on road verges, field margins, and railway embankments.
-
-It has been introduced to North America, New Zealand, and parts of southern South America, where it occasionally naturalises in disturbed grassland. In North America it is most commonly recorded in Ontario and the northeastern [[dmt-containing-plants-united-states-halpern]].
+It has been introduced to [[dmt-containing-plants-united-states-halpern]].
 
 The species is considered naturalised but not invasive in its introduced range. It does not form dense monocultures and typically occurs as scattered individuals within existing plant communities.
 
@@ -69,13 +65,7 @@ The flowers are protandrous, with male-phase florets opening before female-phase
 
 Pollination is primarily carried out by Lepidoptera and long-tongued Hymenoptera. The floral architecture, with a deep corolla tube, excludes short-tongued insects and selects for efficient specialist pollinators.
 
-Seed predation by weevils and [[comparison-black-soldier-fly-larvae-vs-meat-scraps-composting]] can be substantial, reducing seed set by up to 50% in some populations. Despite this, the species remains a prolific seed producer.
-
-The foliage is palatable to livestock when young but becomes coarse and unpalatable after flowering. Grazing animals typically avoid mature plants, allowing them to set seed in lightly grazed pastures.
-
-## Cultivation
-
-Field scabious is readily propagated from seed, which should be sown in autumn or [[coleman-overwintered-onions-and-early-spring-crops]] onto a fine, firm seedbed. Germination typically occurs within 3–6 weeks at temperatures above 15°C.
+Seed predation by weevils and [[coleman-overwintered-onions-and-early-spring-crops]] onto a fine, firm seedbed. Germination typically occurs within 3–6 weeks at temperatures above 15°C.
 
 In meadow mixtures, a sowing rate of approximately 1–2 g per square metre is recommended. Plants usually flower in their second [[savory-growing-season-and-non-growing-season-management]] from seed.
 

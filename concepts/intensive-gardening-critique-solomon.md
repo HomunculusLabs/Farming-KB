@@ -14,21 +14,7 @@ Updated: 2026-04-18
 
 Source: Gardening When It Counts, Steve Solomon, Chapters 3, 6, 7
 
-Solomon is openly critical of intensive gardening methods (close spacing, [[coleman-french-intensive-bed-method]] preparation, constant watering and feeding) as promoted by John Jeavons, Mel Bartholomew (Square Foot Gardening), and others. His book's title — "Gardening When It Counts" — is a direct challenge to the intensive paradigm.
-
-## The Problem with Close Spacing
-
-Intensive gardening advocates spacing plants very closely — sometimes just inches apart — based on the theory that plants will shade the soil, suppress weeds, and create a beneficial microclimate.
-
-Solomon's objections:
-
-**Nutrient competition**: Closely spaced plants compete aggressively for the same pool of soil nutrients. With wide spacing, each plant has access to a much larger soil volume. The result is larger, healthier, more productive individual plants.
-
-**Water competition**: Intensive beds require constant watering because many plants are drawing from the same limited soil volume. In a drought or water shortage, intensive gardens fail catastrophically while widely-spaced gardens survive.
-
-**[[stamets-growing-room-air-circulation-co2-management]]**: Close spacing reduces airflow between plants, creating humid microclimates that promote fungal diseases. [[cervantes-powdery-mildew-prevention-treatment]], botrytis, and other fungi thrive in the still, moist air between closely-spaced plants.
-
-**Weed management difficulty**: With close spacing, there is no room to hoe between plants. [[fukuoka-textdoc-weed-control-with-weeds-rice-barley-clover-discovery]] must be done by hand, which is extremely labor-intensive for any garden larger than a postage stamp.
+Solomon is openly critical of intensive gardening methods (close spacing, [[stamets-growing-room-air-circulation-co2-management]]**: Close spacing reduces airflow between plants, creating humid microclimates that promote fungal diseases. [[fukuoka-textdoc-weed-control-with-weeds-rice-barley-clover-discovery]] must be done by hand, which is extremely labor-intensive for any garden larger than a postage stamp.
 
 **Labor intensity**: Intensive gardens require constant attention — watering, feeding, pruning, and harvesting. This is fine as a hobby but impractical for anyone who needs to grow a significant food supply.
 
@@ -40,83 +26,91 @@ Solomon recommends spacing plants far enough apart that you can easily pass a ho
 - Plants in the row spaced at the distance recommended for the mature size of the plant
 - Enough room to walk between rows without brushing against foliage
 
-The result: fewer plants, but each plant is far more productive. Total yield per square foot may be lower than [[row-gardening-vs-intensive-methods-solomon]], but yield per plant and yield per unit of labor are much higher.
+The result: fewer plants, but each plant is far more productive. Total yield per square foot may be lower than [[intensive-planting-spacing]], [[solomon-choosing-seeds-and-catalogs]] - [[solomon-gardening-when-it-counts-index]] (2005) by Steve Solomon. Solomon calls watering the single most important decision the gardener will make. - [[complete-organic-fertilizer-recipes]] - [[solomon-gardening-when-it-counts-index]] - [[root-competition-plant-spacing-solomon]] - [[square-foot-gardening]]
+- [[doc]]
+- [[john-jeavons]]
 
-## The Fertility Problem
+## Overview
 
-Intensive methods rely on heavy applications of compost and/or fertilizer to support closely-spaced plants. Solomon points out:
+Intensive Gardening Critique Solomon represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
 
-- Most home gardeners cannot produce enough compost to sustain intensive beds
-- Purchasing enough amendments for intensive gardening is expensive
-- The whole point of his approach is to grow food without spending much money
-- With wider spacing, moderate soil fertility is sufficient because each plant has access to more resources
+## Key Characteristics
 
-## Water Dependency
+Several defining characteristics distinguish intensive gardening critique solomon
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
 
-Intensive gardens are water-dependent:
-- Many closely-spaced plants transpire enormous amounts of water
-- The soil surface is shaded but the total water demand is very high
-- Without regular irrigation, intensive gardens fail quickly
-- In a true emergency (drought, water shortage, pump failure), the intensive garden is wiped out
+## Ecological Context
 
-Solomon's widely-spaced garden, by contrast, can survive extended periods without supplemental water because each plant has a large soil reservoir to draw from.
-
-## Scale Considerations
-
-Intensive methods work well for:
-- Small backyard gardens (under 500 sq ft)
-- Demonstration gardens
-- Situations where garden space is severely limited
-- Gardeners who enjoy the intensive management required
-
-Intensive methods fail for:
-- Gardens intended to supply a significant portion of household food
-- Gardens larger than a few hundred square feet
-- Situations where water is limited or unreliable
-- Gardeners with limited time for daily maintenance
-
-## The "Gardening When It Counts" Philosophy
-
-Solomon's book is written for people who garden because they need to — because their health, their budget, or their food security depends on it. For these gardeners, the question is not "how much can I grow in the smallest space?" but "how can I most reliably grow the most food with the least money and labor?"
-
-The answer, Solomon argues, is:
-- Wide spacing
-- Deep, infrequent watering
-- [[intensive-planting-spacing]], [[watering-irrigation-solomon]], [[solomon-choosing-seeds-and-catalogs]] - [[solomon-crop-rotation-and-garden-planning]] - [[solomon-gardening-when-it-counts-index]] (2005) by Steve Solomon. Solomon calls watering the single most important decision the gardener will make. - [[watering-irrigation-solomon]] - [[complete-organic-fertilizer-recipes]] - [[root-competition-plant-spacing-solomon]] Modern intensive gardening methods, adapted to suburban lots and piped water, grow plants much closer together in massed plantings on raised beds.
-## Merged: Solomon on Soil Preparation and Garden Layout
-From [[solomon-gardening-when-it-counts-index]] - [[composting-science-solomon]] - [[root-competition-plant-spacing-solomon]] - [[seed-germination-techniques-solomon]] For nearly complete caloric self-sufficiency, about 4,500 square feet (420 square meters) per adult is needed, helped by a root cellar or other winter storage.
+The ecological relationships involving intensive extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
 
 ## Practical Applications
 
-The principles and techniques discussed here have wide-ranging applications
-across multiple disciplines and contexts. Practitioners and researchers
-continue to explore new ways to integrate these concepts into modern practice,
-adapting traditional knowledge to contemporary challenges and opportunities.
+Intensive Gardening Critique Solomon finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
 
-## Key Considerations
+## Management and Implementation
 
-Several important factors influence the effectiveness and outcomes described
-in this topic. Understanding these considerations helps practitioners make
-informed decisions and avoid common pitfalls. Environmental conditions,
-timing, and material selection all play critical roles.
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for intensive gardening critique solomon. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+intensive gardening critique solomon and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
 
 ## Historical Context
 
-The historical development of this subject reflects centuries of accumulated
-knowledge and practical experience. From traditional methods passed down
-through generations to modern scientific approaches, the evolution continues
-to inform current best practices and research directions.
+Intensive Gardening Critique Solomon has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
 
-## Common Challenges
+## Integration Strategies
 
-Practitioners frequently encounter several challenges when working with
-these concepts. Climate variability, resource limitations, and knowledge
-gaps can all affect outcomes. Addressing these challenges requires patience,
-observation, and a willingness to adapt approaches based on results.
+Successful integration of intensive gardening critique solomon into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
 
 ## See Also
-- [[square-foot-gardening]]
-- [[steve-solomon]]
-- [[doc]]
-- [[composting]]
-- [[john-jeavons]]
+
+- [[coleman-intensive-cropping-double-cropping-greenhouse-productivity]]
+- [[comparison-zone-1-intensive-garden-vs-zone-5-wilderness]]
+- [[mollison-designers-market-garden-intensive-production-design]]
+- [[small-scale-intensive-food-systems-mollison]]
+- [[solomon-intensive-vs-extensive-spacing]]

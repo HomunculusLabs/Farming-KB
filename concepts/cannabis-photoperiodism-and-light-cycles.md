@@ -20,9 +20,7 @@ The 12/12 photoperiod works because it mimics the natural light conditions of la
 
 ## Vegetative Light Cycles
 
-During the [[comparison-cannabis-vegetative-stage-vs-flowering-stage]], cannabis plants are typically kept under 18 hours of light and 6 hours of darkness (18/6), though some growers use 24 hours of continuous light. The longer light period encourages vigorous vegetative growth, root development, and foliage production. Plants under 18/6 or 24/0 maintain their vegetative state and do not begin flowering.
-
-The time taken to form flower primordia varies with the length of the inductive photoperiod. Given 10 hours per day of light, a strain may take only 10 days to flower after switching, whereas if given 16 hours per day it may take up to 90 days. Inductive photoperiods of less than 8 hours per day do not seem to accelerate [[growing-gourmet-primordia-formation-pinning]] beyond what occurs at the 12-hour threshold.
+During the [[growing-gourmet-primordia-formation-pinning]] beyond what occurs at the 12-hour threshold.
 
 This variable response means that growers in different situations can manipulate flowering onset by adjusting the light cycle. A gradual reduction from 18 hours to 12 hours over several days can ease the plant's transition into flowering, potentially reducing stress compared to an abrupt switch from vegetative to flowering light schedules.
 
@@ -60,27 +58,15 @@ Such manipulations are experimental and not recommended for novice growers, as t
 
 ## Autoflowering Exception
 
-[[comparison-autoflowering-cannabis-vs-cannabis-photoperiod-flowering-cycle]] varieties (containing [[cervantes-cannabis-ruderalis-autoflowering]] genetics) do not require a specific photoperiod to begin flowering. These varieties begin flowering based on age rather than light cycle, typically transitioning after 2-4 weeks of vegetative growth regardless of the light schedule. This trait makes autoflowering varieties well-suited for climates with short growing seasons or growers seeking multiple harvests per year.
+[[cervantes-cannabis-ruderalis-autoflowering]] genetics) do not require a specific photoperiod to begin flowering. These varieties begin flowering based on age rather than light cycle, typically transitioning after 2-4 weeks of vegetative growth regardless of the light schedule. This trait makes autoflowering varieties well-suited for climates with short growing seasons or growers seeking multiple harvests per year.
 
 The photoperiod insensitivity of autoflowering varieties comes from their Cannabis ruderalis heritage. Ruderalis evolved in high-latitude regions with extremely short summers, developing the ability to flower based on maturity rather than day length as an adaptation to complete its life cycle before winter arrived. Breeders have incorporated this trait into modern autoflowering hybrids. These strains allow growers to maintain a simple light schedule throughout the entire grow cycle, simplifying operations considerably. Many autoflower growers use 18/6 or 20/4 from seed to harvest without any schedule changes.
 
 ## Importance of Consistent Timing
 
-Consistency in light scheduling is one of the most important factors in successful [[query-how-does-no-till-cannabis-cultivation-work]]. Plants that receive their light and dark periods at the same times each day develop more predictable growth patterns and tend to be healthier than those subjected to irregular schedules. Timer reliability is therefore a critical consideration — battery-backed digital timers are preferred over mechanical timers that can fail during power outages.
-
-When transitioning from vegetative to flowering light cycles, the change should be clean and definitive. Gradually reducing light hours over several days may reduce stress but also delays the onset of flowering. Most experienced growers prefer an abrupt switch from 18/6 (or their chosen vegetative schedule) directly to 12/12, as this provides the clearest photoperiodic signal to the plant.
-
-Light cycle manipulation remains an important tool in the advanced grower's repertoire. Understanding the relationship between photoperiod and plant development allows for optimization of yields, timing of harvests, and management of plant architecture throughout the cannabis life cycle.
-
-## See Also
-
-- [[cannabis-vegetative-stage-management]]
-
-- [[cannabis-environment-control]]
+Consistency in light scheduling is one of the most important factors in successful [[cannabis-vegetative-stage-management]]
 
 - [[cannabis-indoor-growing-basics]]
-
-- [[cannabis-genetics-and-breeding]]
 
 - [[cannabis-flowering-stage-management]]
 
@@ -113,8 +99,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[photoperiod-cannabis]]
 - [[cannabis-ruderalis]]
-- [[photoperiodism]]
 - [[det]]
 - [[query-how-to-prevent-and-treat-cannabis-light-burn-and-heat-stress]]

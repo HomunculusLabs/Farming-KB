@@ -6,16 +6,7 @@ type: concept
 
 # The Man-Child Born of a Virgin: Thunder, Fertilization, and the Anointing
 
-The mushroom's unique growth pattern — emerging from a womb-like volva without visible seed or root — made it a powerful symbol across [[allegro-fertility-philosophy-of-the-ancient-near-east]] East of virgin birth and divine sonship.
-John Allegro traces how this natural phenomenon became encoded in language, ritual, and scripture.
-The argument is not simply that mushrooms were admired as strange plants.
-It is that their form, seasonality, and sudden appearance offered an entire symbolic grammar for divine generation.
-The fungus rose from the earth like a child from a womb, yet no ordinary father or seed could be seen.
-That apparent paradox made it an especially useful natural emblem for myths of miraculous conception.
-
-## Mushroom Growth from the Volva
-
-[[allegro-colour-and-consistency-of-the-amanita-muscaria]] begins its life enclosed within a protective membrane, the *volva*, which surrounds the young fungus like an egg shell around a yolk.
+The mushroom's unique growth pattern — emerging from a womb-like volva without visible seed or root — made it a powerful symbol across [[allegro-colour-and-consistency-of-the-amanita-muscaria]] begins its life enclosed within a protective membrane, the *volva*, which surrounds the young fungus like an egg shell around a yolk.
 Pliny the Elder described the process vividly: "the earth produces first a 'womb' (vulva)... and afterwards (the mushroom) itself inside the womb, like a yolk inside the egg."
 This botanical reality gave the ancients a concrete model for conception without apparent human agency.
 The Amanita's structure is distinctive.
@@ -52,8 +43,7 @@ The chain of divine names preserves this logic.
 ISKUR means "Mighty Penis"; Adad/Hadad means "Big-father"; the Greeks called him *Patēr-Zeus*, the Romans *Jupiter* — "Father-god."
 At every stage, the deity's identity is bound up with phallic generative power, and the mushroom that bears his form is the proof of his virility.
 When demons encountered Jesus, they recognized "the Holy One of God" (Mark 1:24).
-The title "Holy One" connects directly to the "Holy Plant" known throughout [[allegro-plants-and-drugs-in-the-ancient-world]].
-In that setting, [[allegro-star-of-the-morning-venus-and-the-sacred-mushroom]] appeared after thunderstorms as the visible offspring of the supreme deity.
+The title "Holy One" connects directly to the "Holy Plant" known throughout [[allegro-star-of-the-morning-venus-and-the-sacred-mushroom]] appeared after thunderstorms as the visible offspring of the supreme deity.
 
 ## Spittle, Semen, and Healing
 
@@ -95,9 +85,7 @@ The root sh-m-sh carries multiple related meanings: "to serve" — whether at ta
 The sun-storm-god and the mushroom-son shared this generative identity.
 The Greek *therapeutēs*, "giver of life," traces to Sumerian *DARA*, "to beget," and connects with both Ea, the god of wisdom and incantation, and Adad, the storm-god.
 The Therapeutae were an ascetic sect — celibate, organized in mixed communities, gathering for Sabbath assembly and dawn singing.
-Their practices reflect [[allegro-death-and-resurrection-in-the-mushroom-cult]]'s emphasis on purity, visionary experience, and communal ritual.
-The Sampsaeans, whose name derives from sh-m-sh, were similarly linked with the Essenes.
-Together they form part of the broad network of mushroom-worshipping communities that Allegro places in the [[allegro-dead-sea-scrolls-and-early-christian-sects]] era.
+Their practices reflect [[allegro-dead-sea-scrolls-and-early-christian-sects]] era.
 
 ## Practical Applications
 
@@ -128,8 +116,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[john-allegro]]
 - [[allegro-man-child-born-of-a-virgin]]
-- [[dom]]
 - [[amanita]]
 - [[amanita-soma-born-thunder-eucharist-taste-identification]]

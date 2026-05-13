@@ -22,20 +22,7 @@ These show rapid early uptake, then a gradual decline over the season. They are 
 ### Type 4: Potassium
 Remains fairly steady over the year, then declines as wood storage and root reserves build up in autumn. Potassium is "withdrawn" from leaves in autumn.
 
-These findings have direct implications for timing foliar sprays, selecting the season for leaf [[compost]] harvesting, and pre-emptive nutrient adjustment.
-
-## Diagnostic Key for Mineral Deficiencies
-
-The following key helps diagnose mineral deficiencies based on visible plant symptoms. Start with the first choices and follow through the branching path.
-
-### First Level: Which Part Is Affected?
-
-| Symptom | Go To |
-|---------|-------|
-| Leaves, stems, or leaf stalks affected | B |
-| Flowers or fruits affected | M |
-| Underground storage organs affected | N |
-| Whole field or row shows patchy or variable yields | Check [[soil-ph]], drainage, salt, viral disease |
+These findings have direct implications for timing foliar sprays, selecting the season for leaf [[soil-ph]], drainage, salt, viral disease |
 
 ### Second Level: Which Leaves Are Affected?
 
@@ -54,67 +41,7 @@ The following key helps diagnose mineral deficiencies based on visible plant sym
 - Leaves wilted, light-coloured, then dying. Onions undersized, peas with barely-formed seeds. Common on coastal sands. Black sheep may show brown wool tinge: Potassium deficiency {11}
 - Wilted and dying leaves not the primary problem: F
 
-**F — Interveinal [[chlorosis]]:**
-- Colour loss is interveinal (between veins), only later including veins. Common on calcareous or coral atolls, desert soils: Iron deficiency {3}
-- Veins remain green, pale areas whitish or lacking colour: Manganese deficiency {4}
-
-**G — Near-vein green areas with dying leaf tissue:**
-- Areas near veins still green, affected areas become transparent, brown, or start to die. Young leaves first affected. Peas/beans show brown roots. pH usually >7.0: Calcium deficiency {7}
-- Leaves smaller than normal, stems shortened, growth retarded. Beans and sweet corn most affected. Leaves may develop rosette appearance: Zinc deficiency {5}
-
-**H — Brittle or distorted growth:**
-- Plants brittle, leaves distorted, growing points die, stems cracked/rough/short. Probable on acidic sands or heavily-limed high-humus soils: Boron deficiency {6}
-- Plants not brittle, but stunted, tips dying, feeder roots die, leaf tips and terminal bud margins dying. Check for over-watering, excess Na, K, Mg: Calcium deficiency {7}
-
-**I — Chlorosis patterns:**
-- Plant with marked yellow (chlorosis): J
-- Yellowing not the main problem; brown-edged or purple: L
-
-**J — Whole-plant yellowing:**
-- Yellowing between veins or on margins of leaves, progressing to whole plant yellowing, spindly growth, older leaves dropping. Prevalent in cold peaty soils, leached sands, waterlogged soils: Nitrogen deficiency {8}
-
-**K — Margin effects:**
-- Margins yellow or blotched, progressing to death of leaf area, curling or brittleness. Common on acid sandy soils with high K or Ca readings: Magnesium deficiency {9}
-- Interveinal yellowing resembling N deficiency, progressing to younger leaves, leaf margins of brassicas can die leaving central tissue only ("whiptail"): Molybdenum deficiency {10}
-
-**L — Scorching and wilting:**
-- Leaf margins brown/scorched, cupped downward, dying target spots with dark centres and yellow edges. Growth reduced progressively: Potassium deficiency {14}
-- Leaves wilt, droop, die at tips and edge: Sodium excess
-- Leaves dull, dark green or red-purple, especially on undersurface, veins and stems purple, growth much reduced: Phosphorus deficiency {12}
-
-**M — Fruit symptoms:**
-- Fruit rough, cracked, spotted, few flowers. Tomatoes with internal browning, uneven ripening: Boron deficiency {6}
-- Fruits rot on blossom end: Calcium deficiency (blossom end rot) {7}
-
-**N — Root symptoms:**
-- Internal dying or water-soaked areas in beet, turnip, rutabaga: Boron deficiency {6}
-- Cavities in root core, outside collapses as pits. Common in carrots, parsnips on acid leached soils. Roots may split open: Boron deficiency {6}
-
-## Remedy Numbers (for Gardens)
-
-### {1} Sulphur
-Add plain sulphur (not medical quality) at one handful per square metre.
-
-### {2} Copper
-Add as fine-crushed ore, or copper sulphate at 7 kg/hectare (1 g/square metre) every 5-7 years.
-
-### {3} Iron
-Try sulphur first, then add iron sulphate or spray foliage with very dilute iron solution. Bury old iron (galvanised iron, old wire) in humus pits near trees.
-
-### {4} Manganese
-Try sulphur first, then use very dilute foliar spray of manganese sulphate.
-
-### {5} Zinc
-Add zinc oxide in acid areas, sulphate in alkaline. Zinc at 7 kg/hectare every 7-10 years.
-
-### {6} Boron
-Be careful — toxic in large quantities. First lime acid areas, add sulphur to alkaline areas. If needed, add borax at 1 gram/square metre and test with cabbages. Avoid detergents with borates.
-
-### {7} Calcium
-Use limestone in areas where manganese is plentiful, dolomite if not. Use gypsum in alkaline salty soils, then flush with fresh water. Bone, bamboo mulch, and buckwheat straw are all calcium sources.
-
-### {8} Nitrogen
-Ensure soil is well drained (0.5 m for vegetables, 1-2 m for trees). Check cobalt levels. Use dilute urine (20:1 water), ammonium sulphate in alkaline areas, legume mulches, compost, and surface mulch. Build up worms and [[soil-life]]. Do not overdo it — nitrates in green plants can cause blue-baby syndrome.
+**F — Interveinal [[soil-life]]. Do not overdo it — nitrates in green plants can cause blue-baby syndrome.
 
 ### {9} Magnesium
 Check if potash is not too high. Add clay to sandy acid soils. Use dolomite for first dressing, then limestone. Epsom salts can be used as foliar spray for severe deficiency.
@@ -130,3 +57,88 @@ Bring pH to 6-6.5 using lime in acid soils and humus in alkaline. Use bone meal,
 
 ### {14} Potassium (root crops)
 Same remedies as {11}, but note that potassium is translocated to roots late in growth, so symptoms may appear late for root crops.
+
+## Overview
+
+Plant Mineral Deficiency Diagnosis represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish plant mineral deficiency diagnosis
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving plant extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Plant Mineral Deficiency Diagnosis finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for plant mineral deficiency diagnosis. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+plant mineral deficiency diagnosis and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Plant Mineral Deficiency Diagnosis has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of plant mineral deficiency diagnosis into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[electromagnetic-spectrum-plant-light-perception]]
+- [[lowenfels-rhizosphere-bacteria-plant-interaction]]
+- [[phytochrome-and-plant-photoperiodism]]
+- [[plant-fungal-signaling-mycorrhiza]]
+- [[plant-life-rhythms-pulsatory-growth]]

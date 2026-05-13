@@ -1,6 +1,6 @@
 ---
 title: Biodiversity Of Fungi Chytrid Zoosporic Fungi Ecology
-source: [[biodiversity-of-fungi-biodiversity-patterns-ecosystems]] (Mueller, Bills & Foster, 2004)
+source: biodiversity-of-fungi-biodiversity-patterns-ecosystems (Mueller, Bills & Foster, 2004)
 concepts: [chytridiomycota, zoospores, zygomycota, glomales, early-fungal-evolution]
 ---
 
@@ -8,13 +8,10 @@ concepts: [chytridiomycota, zoospores, zygomycota, glomales, early-fungal-evolut
 
 ## Overview
 
-Chytrid and zoosporic fungi occupy a pivotal position in [[biodiversity-of-fungi-fungal-phylogeny-kingdom-classification]] as the
-earliest-diverging lineages of the [[fungal-taxonomy-and-kingdom-fungi]]. Unlike almost all other fungi,
+Chytrid and zoosporic fungi occupy a pivotal position in [[fungal-taxonomy-and-kingdom-fungi]]. Unlike almost all other fungi,
 chytrids produce **motile zoospores** equipped with a single posterior flagellum,
 a trait inherited from the common ancestor of fungi and animals. The study of
-these organisms—drawn from Chapter 1 of *[[biodiversity-of-fungi-biomass-carbon-soil-structure]]* (Mueller, Bills
-& Foster, 2004)—reveals how molecular systematics has reshaped our understanding
-of [[bloomfield-chytrid-fungi-early-fungal-evolution]], challenged morphology-based classifications, and
+these organisms—drawn from Chapter 1 of *[[bloomfield-chytrid-fungi-early-fungal-evolution]], challenged morphology-based classifications, and
 illuminated the ecological importance of these often-overlooked microorganisms.
 
 ## Phylum Chytridiomycota
@@ -23,17 +20,7 @@ illuminated the ecological importance of these often-overlooked microorganisms.
 
 Chytridiomycota are the **only true fungi** that produce motile zoospores with
 flagella. This single posterior flagellum is a hallmark of the group and is
-shared with the flagellated progenitor of the entire [[fungal-kingdom-diversity]]. Chytrids
-are predominantly aquatic or soil-inhabiting organisms, ranging from unicellular
-forms to simple multicellular thalli.
-
-### Zoospore Biology
-
-Zoospore biology is central to chytrid ecology and life history:
-
-- **Single posterior flagellum** — provides motility through aquatic films and
-  soil water, enabling dispersal to new substrates.
-- **Chemotaxis** — zoospores actively sense and swim toward [[query-how-do-plants-use-chemical-signals-to-defend-against-insects]]
+shared with the flagellated progenitor of the entire [[query-how-do-plants-use-chemical-signals-to-defend-against-insects]]
   (sugars, amino acids) released by potential host substrates, increasing
   colonization efficiency.
 - **Encystment and germination** — upon contacting a suitable surface, the
@@ -55,22 +42,7 @@ distinct clades:
   rDNA analyses, despite sharing the zoosporic habit.
 
 These findings suggest the flagellum was lost **independently multiple times**
-during [[fungal-evolution]], with major implications for classification and for
-understanding the aquatic-to-terrestrial transition.
-
-### Mitochondrial DNA Evidence
-
-Mitochondrial DNA (mtDNA) sequences provide additional resolution for
-relationships within chytrid lineages, corroborating clade boundaries identified
-from nuclear rDNA and offering independent evidence for deep branching patterns.
-
-## Ecological Roles of Chytrids
-
-Chytrids occupy diverse ecological niches of significant environmental and
-economic importance:
-
-- **Aquatic decomposers** — principal decomposers of chitin, cellulose, and
-  keratin in freshwater and [[fungal-biodiversity-marine-ecosystems-coastal-deep-sea]], recycling nutrients and driving
+during [[fungal-biodiversity-marine-ecosystems-coastal-deep-sea]], recycling nutrients and driving
   microbial food webs.
 - **Parasites of algae** — obligate parasites regulating algal populations and
   influencing primary productivity in aquatic systems.
@@ -117,8 +89,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[zoosporic-fungi]]
 - [[doc]]
-- [[dom]]
 - [[soma]]
 - [[spore]]

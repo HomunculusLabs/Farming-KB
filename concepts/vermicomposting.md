@@ -9,7 +9,7 @@ sources: []
 
 # Vermicomposting
 
-Vermicomposting is the process of using earthworms to decompose organic waste into vermicast (worm castings) — one of the finest soil amendments available. Worm castings are rich in plant-available nutrients, [[forest-and-bamboo-beneficial-microorganisms]], humic acids, and [[gibberellins-plant-growth-hormones]]. Vermicomposting can be done indoors or outdoors, in small apartments or on large homesteads, making it one of the most accessible [[composting-methods-comparison]].
+Vermicomposting is the process of using [[earthworms]] to decompose organic waste into vermicast (worm castings) — one of the finest soil amendments available. Worm castings are rich in plant-available nutrients, beneficial microorganisms, humic acids, and plant growth hormones. Vermicomposting can be done indoors or outdoors, in small apartments or on large homesteads, making it one of the most accessible [[composting]] methods.
 
 ## Benefits of Vermicomposting
 
@@ -27,10 +27,10 @@ Vermicomposting is the process of using earthworms to decompose organic waste in
 The most common and versatile composting worm. Also called redworm, brandling worm, or manure worm.
 
 - **Size**: 2-3 inches fully grown
-- **[[query-what-is-the-ideal-temperature-range-for-growing-cannabis]]**: 40-90°F (ideal: 55-77°F)
+- **Temperature range**: 40-90°F (ideal: 55-77°F)
 - **Reproduction rate**: Very fast — doubles population every 2-3 months under ideal conditions
 - **Appetite**: Consumes roughly half its body weight per day
-- **Availability**: Widely available online, at [[solomon-garden-centers-seedling-traps]], and through worm farms
+- **Availability**: Widely available online, at garden centers, and through worm farms
 
 ### Eisenia hortensis (European Nightcrawler)
 Larger worm that is both a composter and a bait worm.
@@ -93,7 +93,7 @@ Bedding provides a moist, carbon-rich environment for worms. Materials:
 ### What to Feed
 
 - Fruit and vegetable scraps (most kitchen waste)
-- [[oyster-mushroom-coffee-grounds-cultivation]] and filters
+- Coffee grounds and filters
 - Tea bags (remove staples)
 - Crushed eggshells (provides grit and calcium)
 - Grain products (bread, rice, pasta) — in moderation

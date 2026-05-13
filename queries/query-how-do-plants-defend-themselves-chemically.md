@@ -20,13 +20,7 @@ that keeps plants alive — and how you can work with it.
 ## What Are Chemical Defenses and Why Do Plants Need Them?
 
 Plants are sessile — they can't run from herbivores, pathogens, or stress.
-Instead, they evolved **[[antifungal-secondary-metabolites-coprophilous-fungi]]**: compounds that deter pests,
-inhibit microbes, and signal danger to neighbors. They aren't involved in
-growth directly, but are critical to survival.
-
-## What Are the Main Types of Chemical Defenses?
-
-- **Alkaloids** — Nitrogen-containing neurotoxins. Examples: [[caffeine]] (coffee), solanine (nightshade leaves).
+Instead, they evolved **[[caffeine]] (coffee), solanine (nightshade leaves).
 - **Terpenes** — Volatile oils behind strong aromas. Mint, lavender, and
   rosemary produce terpenes that repel insects. Pyrethrins from chrysanthemums
   are natural insecticides used commercially.
@@ -65,9 +59,7 @@ pathways, making future defenses stronger and faster — called *defense priming
 ## Examples of Well-Defended Plants
 
 - **Tobacco** — produces nicotine, a powerful insect neurotoxin
-- **Deadly nightshade** — loaded with atropine and [[companion-planting]] Relate to Chemical Defenses?
-
-Many [[comparison-companion-planting-reference-vs-jadam-monoculture-critique]] effects are driven by chemistry:
+- **Deadly nightshade** — loaded with atropine and [[comparison-companion-planting-reference-vs-jadam-monoculture-critique]] effects are driven by chemistry:
 
 - **Marigolds** release thiophenes from roots that repel root-knot nematodes
 - **Basil** emits volatile terpenes that mask tomatoes from whiteflies and aphids
@@ -80,14 +72,8 @@ Understanding the chemistry helps you choose companions intentionally.
 
 - **Allow mild stress** — Light drought or controlled herbivory primes defenses.
   Don't overwater or over-fertilize.
-- **Use [[coleman-compost-and-organic-fertility-management]] matter** — Healthy soil microbiomes improve nutrition,
-  and well-nourished plants produce more secondary metabolites.
-- **Apply silica (silicon)** — Silicon accumulates in cell walls, creating a
-  physical barrier that complements chemical defenses and triggers phenolic
-  production. Use potassium silicate sprays or diatomaceous earth amendments.
-- **Inoculate with [[mycorrhizal-fungi]] form symbioses with over 80% of plant species. Beyond
-[[arbuscule-isolation-and-nutrient-exchange-mechanisms]], they serve as an underground communication network. When one
-plant is attacked, it sends [[query-how-do-plants-use-chemical-signals-to-defend-against-insects]] through the common mycorrhizal
+- **Use [[mycorrhizal-fungi]] form symbioses with over 80% of plant species. Beyond
+[[query-how-do-plants-use-chemical-signals-to-defend-against-insects]] through the common mycorrhizal
 network, prompting neighbors to pre-activate defenses — a process called "plant
 eavesdropping." This is one of the strongest arguments for maintaining healthy
 soil fungal populations.

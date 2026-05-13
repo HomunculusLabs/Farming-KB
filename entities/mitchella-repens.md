@@ -16,16 +16,9 @@ sources:
   - Gleason, H.A. & Cronquist, A. (1991). "Manual of Vascular Plants of Northeastern dmt-containing-plants-united-states-halpern and Adjacent Canada." 2nd ed. New York Botanical Garden.
   - Fernald, M.L. (1950). "Gray's Manual of Botany." 8th ed. American Book Company.
   - Moerman, D.E. (1998). "halpern-sacramental-peyote-and-native-american-church Ethnobotany." Timber Press.
-  - Foster, S. & Duke, J.A. (2014). "A [[field-guide-psilocybin-bluing-reaction-identification]] to Medicinal Plants and Herbs." 2nd ed. Houghton Mifflin.
----
+  - Foster, S. & Duke, J.A. (2014). "A [[psilocybin-north-america-pacific-northwest]]. It is one of the most recognizable woodland [[polypore-fungi-eastern-north-america]] American forests, known for its paired white flowers and distinctive bright red berries.
 
-# Mitchella repens
-
-## Overview
-
-Mitchella repens, commonly known as partridgeberry, squaw vine, or twinberry, is a low-growing evergreen perennial herb in the family Rubiaceae native to forests of [[psilocybin-north-america-pacific-northwest]]. It is one of the most recognizable woodland [[permaculture-plants-food-forest-ground-covers-bamboos]] in [[polypore-fungi-eastern-north-america]] American forests, known for its paired white flowers and distinctive bright red berries.
-
-The species is the only member of its genus found in [[guzman-psilocybin-mushrooms-north-america]] and is notable for its unique [[cannabis-sex-determination-floral-biology]]: each "flower" is actually a pair of fused flowers that produce a single berry, resulting in the characteristic double-blossom scar (two dimples) visible on the ripe fruit.
+The species is the only member of its genus found in [[cannabis-sex-determination-floral-biology]]: each "flower" is actually a pair of fused flowers that produce a single berry, resulting in the characteristic double-blossom scar (two dimples) visible on the ripe fruit.
 
 ## Taxonomy and Morphology
 
@@ -78,12 +71,80 @@ The berries can be eaten raw or cooked, and have been used in small quantities t
 
 ### Medicinal Uses
 
-Mitchella repens has a long history of use in [[growing-gourmet-north-american-reishi-species]] traditional medicine, particularly among Indigenous peoples and in 19th-century Eclectic medical practice.
-- **Parturifacient:** The most well-known traditional use is as an aid during late pregnancy and childbirth. Preparations of the leaves and stems were used to ease labor pains, promote uterine contractions, and reduce postpartum hemorrhage.
-- **Menstrual disorders:** Used to regulate menstruation and relieve dysmenorrhea among the Cherokee, Iroquois, and other tribes.
-- **Diuretic:** Leaf infusions were used as a mild diuretic for urinary complaints.
-- **[[cannabis-topical-applications]]:** Crushed leaves were applied to wounds, burns, and skin inflammations.
+Mitchella repens has a long history of use in [[cannabis-topical-applications]]:** Crushed leaves were applied to wounds, burns, and skin inflammations.
 
 Pharmacological studies have identified saponins, tannins, and flavonoid glycosides in the plant, which may account for some of the documented activities. However, modern clinical evidence is limited.
 
 ## Permaculture and Ecological Value
+
+## Overview
+
+Mitchella Repens represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish mitchella repens
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving mitchella extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Mitchella Repens finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for mitchella repens. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+mitchella repens and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Mitchella Repens has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of mitchella repens into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions

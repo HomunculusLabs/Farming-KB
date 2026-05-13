@@ -20,36 +20,6 @@ long-term soil regeneration.
 
 ## Stinging Nettle
 
-[[stinging-nettle]]
-
-Stinging nettle is a herbaceous perennial in the family Urticaceae, recognized
-by its opposite, heart-shaped leaves covered in hollow silica-tipped
-trichomes that deliver a painful sting containing histamine, acetylcholine,
-and serotonin. Despite this defense mechanism, nettle has been a staple food
-and fiber crop across Europe and Asia for thousands of years. Once cooked,
-dried, or blanched, the stinging compounds are completely neutralized,
-revealing a mild, spinach-like flavor that is remarkably nutrient-dense.
-
-Nettle is one of the richest plant sources of iron, calcium, magnesium, and
-protein among leafy greens. Fresh leaves contain approximately 30% protein by
-dry weight, along with significant amounts of vitamins A, C, and K. Medicinally,
-nettle is well-documented for its anti-inflammatory and antihistamine
-properties, making it a leading herbal treatment for seasonal allergies,
-benign prostatic hyperplasia, and osteoarthritis. A 2009 study in
-*Phytotherapy Research* demonstrated that nettle extract affects key
-receptors associated with allergic rhinitis.
-
-As a dynamic accumulator, nettle mines nitrogen, iron, potassium, and other
-minerals from deep subsoil layers and brings them to the surface through
-leaf litter and stem decomposition. Fermented nettle tea is a high-nitrogen
-liquid fertilizer prized in organic gardening. Nettle also supports over 40
-insect species, including several butterflies whose larvae feed exclusively
-on its leaves. Its rhizomatous root system stabilizes soil and helps break
-compaction, though this same spreading habit makes it potentially invasive
-in cultivated gardens.
-
-## Dandelion
-
 [[dandelion]]
 
 Dandelion is a perennial herb in the Asteraceae family, instantly recognizable
@@ -143,8 +113,6 @@ monocultures cannot replicate.
 
 ## See Also
 
-- [[comparison-nettle-vs-comfrey]]
 - [[comparison-chamomile-vs-dandelion]]
-- [[comparison-stinging-nettle-vs-mullein]]
 - [[comparison-dandelion-vs-yarrow]]
 - [[comparison-chamomile-vs-nettle]]

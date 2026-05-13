@@ -46,31 +46,9 @@ efficient than synthetic fertilization.
 
 ### Nematodes
 
-[[ingham-beneficial-nematodes-soil-food-web]] are microscopic roundworms that feed on bacteria, fungi,
-and other nematodes. Like protozoa, they excrete plant-available nitrogen
-after consuming their prey. Some species prey on root-feeding pests. A healthy
-soil food web keeps pest nematodes in check through competition and predation.
-
-### Microarthropods
-
-Mites, springtails, and other tiny arthropods shred organic matter into
-smaller pieces, increasing surface area for bacterial and fungal colonization.
-They also regulate fungal populations and create pore spaces as they move
-through soil, improving aeration and water infiltration.
-
-### Earthworms
-
-Earthworms are the [[fungi-dominant-soil-biomass-ecosystem-engineers]] of the soil world. They burrow,
+[[fungi-dominant-soil-biomass-ecosystem-engineers]] of the soil world. They burrow,
 creating channels for water and roots. Their castings are rich in plant-
-available nutrients and [[forest-and-bamboo-beneficial-microorganisms]]. Worm populations are a
-reliable indicator of soil health.
-
-## Humus and Soil Structure
-
-As organisms decompose organic matter, a stable, dark material called **humus**
-is formed. Humus is the key to soil fertility and structure:
-
-- **Nutrient retention**: Humus has enormous [[cation-exchange-capacity]] (CEC),
+available nutrients and [[cation-exchange-capacity]] (CEC),
   holding nutrients in the root zone where plants can access them.
 - **Water retention**: One pound of humus can hold several pounds of water,
   dramatically improving drought resistance.
@@ -101,7 +79,7 @@ mulch. Over months, the layers decompose into rich, worm-filled soil.
 
 Cover crops protect bare soil, fix nitrogen (legumes), break compaction
 (daikon radish), and add organic matter when cut and dropped as green mulch.
-They keep the soil food web fed during fallow periods query how do i garden on a slope and prevent erosion.
+They keep [[the-soil-food-web]] fed during fallow periods query how do i garden on a slope and prevent erosion.
 
 ### Woody Debris
 

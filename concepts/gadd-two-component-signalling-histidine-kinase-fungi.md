@@ -1,13 +1,7 @@
 # Two-Component Signalling in Filamentous Fungi
 
 **Source:** Gadd, Watkinson & Dyer, *Fungi in the Environment*, Chapter 3
-**Domain:** Mycology → Cell Biology → [[fungal-environmental-sensing-signal-transduction]]
-
----
-
-## Overview
-
-Two-component signalling systems are a major [[environmental-sensing-filamentous-fungi-read]]
+**Domain:** Mycology → Cell Biology → [[environmental-sensing-filamentous-fungi-read]]
 mechanism in filamentous fungi, enabling detection of and response to
 osmotic stress, light, nutrients, and other abiotic signals. These
 systems, originally discovered in prokaryotes, have been elaborated
@@ -16,63 +10,8 @@ the complexity found in yeasts.
 
 N. D. Read's chapter on environmental sensing in filamentous fungi
 provides a detailed comparative analysis of two-component signalling
-machinery across [[neurospora-crassa]], [[saccharomyces-cerevisiae]], and
-[[fungi-in-the-environment-rice-blast-magnaporthe-grisea]], revealing how filamentous growth in heterogeneous
-environments has driven expansion of upstream sensory proteins while
-conserving downstream integration components.
-
-## Mechanism: Hybrid Histidine Kinase Phosphorelay
-
-Fungal two-component systems differ from the simple bacterial two-
-component design. In fungi, the system operates as a hybrid phosphorelay
-through four protein components:
-
-1. **Hybrid histidine kinase**: Contains both a histidine kinase domain
-   and a response regulator domain in a single protein. This is the
-   sensor component that detects environmental signals.
-
-2. **Histidine phosphotransferase (HPT)**: A separate protein that
-   shuttles the phosphate group from the hybrid kinase's response
-   regulator domain to the final response regulator.
-
-3. **Response regulator**: Receives the phosphate from the HPT and
-   activates downstream signalling, typically through MAP kinase
-   cascades or direct transcriptional regulation.
-
-In response to an environmental stimulus, the histidine kinase
-autophosphorylates on a conserved histidine residue. The phosphate is
-then transferred intramolecularly to an aspartate on the kinase's
-response regulator domain, then to a histidine on the HPT protein,
-and finally to an aspartate on the terminal response regulator.
-
-## Expansion in Filamentous Fungi
-
-The number of two-component system proteins varies dramatically across
-fungi:
-
-| Species | Histidine Kinases | HPT Proteins | Response Regulators |
-|---------|------------------|--------------|-------------------|
-| *S. cerevisiae* | 1 | 1 | 1 |
-| *S. pombe* | 3 | 1 | 3 |
-| *N. crassa* | 11 | 1 | 2 |
-| *M. grisea* | ~12+ | 1 | 2 |
-
-The expansion is entirely in the upstream sensory component (histidine
-kinases) while the downstream integration machinery (HPT and response
-regulators) is conserved at minimal levels. This pattern suggests that
-multiple environmental signals converge through a small number of
-integration points, where the HPT and response regulators serve as
-information hubs.
-
-## Functions of N. crassa Histidine Kinases
-
-Of the eleven histidine kinases identified in N. crassa, only one is
-predicted to be membrane-spanning, suggesting that most sense
-intracellular conditions rather than extracellular signals directly.
-
-**Known functions:**
-- **Two kinases** involved in hyphal development and morphogenesis
-- **Three kinases** involved in [[darwin-phototropism-experiments-plant-light-sensing]] (photoperception)
+machinery across [[saccharomyces-cerevisiae]], and
+[[darwin-phototropism-experiments-plant-light-sensing]] (photoperception)
 - **One kinase** (osmotic-1) involved in osmoregulation — encodes a
   putative histidine kinase similar to bacterial osmosensors
 
@@ -118,8 +57,91 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[dom]]
 - [[det]]
-- [[phototropism]]
 - [[mycology]]
 - [[gadd-rock-dwelling-fungi-epilithic-endolithic]]
+
+## Overview
+
+Gadd Two Component Signalling Histidine Kinase Fungi represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish gadd two component signalling histidine kinase fungi
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving gadd extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Gadd Two Component Signalling Histidine Kinase Fungi finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for gadd two component signalling histidine kinase fungi. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+gadd two component signalling histidine kinase fungi and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Gadd Two Component Signalling Histidine Kinase Fungi has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of gadd two component signalling histidine kinase fungi into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[gadd-intracellular-signal-transduction-filamentous-fungi]]
+- [[gadd-lichen-biogeochemistry-pioneer]]
+- [[gadd-mineral-transformations-biogeochemistry]]
+- [[gadd-saltmarsh-fungal-decomposition-laccase-genes]]
+- [[lichen-biogeochemistry-pioneer-rock-colonization-gadd]]

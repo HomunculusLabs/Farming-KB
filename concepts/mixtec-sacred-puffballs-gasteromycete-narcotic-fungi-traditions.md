@@ -1,20 +1,15 @@
 # Mixtec Sacred Puffballs and Gasteromycete Narcotic Fungi Traditions
 
-Among the most unusual and poorly understood aspects of indigenous mushroom use in Mexico are the traditions involving gasteromycete fungi — puffballs, earthstars, and related fungi — as sacred or narcotic substances. Unlike the well-documented use of gilled mushrooms (agarics) of the genus Psilocybe, the gasteromycete traditions involve fungi that produce their spores internally and release them through openings or by disintegration, rather than on exposed gills.
+Among the most unusual and poorly understood aspects of indigenous mushroom use in Mexico are the traditions involving [[gasteromycete-fungi]] — puffballs, earthstars, and related fungi — as sacred or narcotic substances. Unlike the well-documented use of gilled mushrooms (agarics) of the genus Psilocybe, the gasteromycete traditions involve fungi that produce their spores internally and release them through openings or by disintegration, rather than on exposed gills.
 
 ## The Mixtec Puffball Tradition
 
 ### Historical Documentation
 The Mixtec people of Oaxaca, Mexico, have a documented tradition of using certain puffball fungi (gasteromycetes) in religious and ceremonial contexts. Guzmán (1959, 1997) reported that Mixtec communities in the Mixteca Alta region used puffballs that grew in circles (fairy rings) on the prairies and in open grasslands. These fungi were considered sacred and were associated with celestial phenomena — they were sometimes called "fallen stars" because of their round shape and their tendency to appear suddenly after rain, as if dropped from the sky.
 
-The Mixtec puffball tradition is distinct from the better-known Mazatec and Nahua use of Psilocybe mushrooms. While Psilocybe species were consumed for their psychoactive properties in the context of [[metzner-shamanic-healing-and-divination-paradigm]] ceremonies, the puffball traditions appear to have served different ceremonial purposes, often related to rain-making, agricultural fertility, and communication with ancestors.
+The Mixtec puffball tradition is distinct from the better-known Mazatec and Nahua use of Psilocybe mushrooms. While Psilocybe species were consumed for their psychoactive properties in the context of [[lycoperdon-marginatum]] and Lycoperdon umbrinum are found in the region and form the characteristic fairy rings described in ethnographic accounts. These small to medium-sized puffballs are common in Mexican grasslands and appear during the rainy season (June-September), which coincides with the traditional ceremonial calendar of many Mixtec communities.
 
-### Gasteromycete Species Involved
-The specific species of gasteromycetes used by the Mixtec and other indigenous groups have not been definitively identified in all cases. However, several genera have been proposed based on field observations and ethnographic reports:
-
-- **Lycoperdon** (puffballs): The most commonly cited genus in Mixtec puffball traditions. Species such as [[lycoperdon-marginatum]] and Lycoperdon umbrinum are found in the region and form the characteristic fairy rings described in ethnographic accounts. These small to medium-sized puffballs are common in Mexican grasslands and appear during the rainy season (June-September), which coincides with the traditional ceremonial calendar of many Mixtec communities.
-
-- **Calvatia** (giant puffballs): [[calvatia-cyathiformis]] and related species are found in Mexican grasslands and could have been used ceremonially. Some Calvatia species were traditionally used as wound dressings and for other medicinal purposes, suggesting a broader pattern of gasteromycete use beyond strictly ceremonial contexts. The giant puffball ([[calvatia-gigantea]]), while less common in tropical Mexico, was used medicinally by peoples further north.
+- **Calvatia** (giant puffballs): [[calvatia-gigantea]]), while less common in tropical Mexico, was used medicinally by peoples further north.
 
 - **Geastrum** (earthstars): These distinctive fungi, which open in a star-like pattern to reveal the spore case, have been associated with sacred symbolism in several indigenous traditions due to their unusual morphology. The star-like opening pattern naturally evokes celestial and cosmic symbolism, making these fungi particularly suited for use in cosmologically-oriented ceremonies.
 

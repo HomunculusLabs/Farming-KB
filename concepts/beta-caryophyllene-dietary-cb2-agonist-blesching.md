@@ -1,26 +1,7 @@
 ---
 title: "(E)-beta-Caryophyllene Dietary CB2 Agonist"
 source: uwe-blesching-the-cannabis-health-index
-tags: [beta-caryophyllene, terpene, CB2, spice, [[beta-caryophyllene-dietary-cannabinoid]], anti-inflammatory]
----
-
-# (E)-beta-Caryophyllene: A Dietary CB2 Agonist
-
-## Overview
-
-An international group of researchers from Switzerland, Germany, Italy, and
-the U.S. (2008, 2012) reported that certain plants, most notably spice-
-producing plants, contain a functional non-psychoactive CB2 agonist called
-(E)-beta-caryophyllene or (E)-BCP. This molecule is considered by some
-researchers to be a food-based cannabinoid. While some chemists may prefer
-traditional nomenclature and consider the molecule a terpene or terpenoid,
-this distinction has little practical value to the many patients who may
-benefit from its use.
-
-Scientists suggest that activation of CB2 receptors via this newly discovered
-dietary plant-based cannabinoid might present a new and additional therapeutic
-strategy in the treatment of a multitude of diseases associated with
-inflammation [[reactive-oxygen-species-and-oxidative-stress]], both underlying factors in a host of
+tags: [beta-caryophyllene, terpene, CB2, spice, [[reactive-oxygen-species-and-oxidative-stress]], both underlying factors in a host of
 different pathologies. Additional research has shown that (E)-beta-
 caryophyllene may also protect against microbes, pain, and cancer.
 
@@ -38,9 +19,7 @@ compound available without prescription or regulatory restriction.
 
 The (E)-beta-caryophyllene content in test samples of Black Ashanti pepper
 was 58% and in White Ashanti pepper 52%. For comparison, the (E)-beta-
-caryophyllene content in a sample of [[blesching-cannabis-sativa-indica-classification]] ranges from only 12
-to 35%. These West African peppers also have antibacterial properties
-against E. coli and [[staphylococcus-aureus]], making them dual-purpose
+caryophyllene content in a sample of [[staphylococcus-aureus]], making them dual-purpose
 therapeutic spices with both cannabinoid and antimicrobial activity.
 
 ### Indian Bay-Leaf (Cinnamomum tamala)
@@ -70,8 +49,7 @@ compounds.
 ### African Basil (Ocimum micranthum)
 
 This type of basil typically contains an (E)-beta-caryophyllene content of
-14%. The medicinal uses of [[ocimum-basilicum]], a form commonly used worldwide,
-include [[medicinal-mushroom-antimicrobial-properties]] (giardia), assistance with dyspepsia and
+14%. The medicinal uses of [[medicinal-mushroom-antimicrobial-properties]] (giardia), assistance with dyspepsia and
 high blood pressure, potential effectiveness against cholera-induced diarrhea,
 antiviral activity against herpes virus I and II, adenoviruses, hepatitis B,
 and RNA viruses (coxsackievirus B1 and enterovirus 71), antibacterial action
@@ -118,8 +96,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[blesching-dietary-beta-caryophyllene-spice-sources-cb2-agonist]]
 - [[beta-caryophyllene-dietary-cannabinoid-cb2-spices-blesching]]
-- [[doc]]
 - [[piperine]]
 - [[aframomum-melegueta]]

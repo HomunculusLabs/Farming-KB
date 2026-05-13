@@ -23,11 +23,7 @@ physically or chemically inaccessible in the soil matrix.
 Persistent organic pollutants (POPs) interact with soil through a
 variety of sorption mechanisms, including covalent bonding and
 electrostatic interactions. The extent of sorption depends on the
-chemical nature of the pollutant and the amount of [[hamilton-composting-and-organic-matter-management]] or
-clay in the soil. Hydrophobic compounds such as pentachlorophenol (PCP)
-generally sorb strongly to soil organic matter, including humic and
-syringic acids, which can decrease their transformation rates by fungi
-in [[comparison-liquid-culture-vs-grain-spawn]].
+chemical nature of the pollutant and the amount of [[comparison-liquid-culture-vs-grain-spawn]].
 
 pH significantly influences sorption behavior. PCP, for example,
 becomes a water-soluble salt at high pH, increasing its mobility and
@@ -53,8 +49,7 @@ efficient a fungal inoculant may be under laboratory conditions.
 
 ## Accessing Sorbed Pollutants
 
-A fundamental question in [[lentinula-edodes]] was more effective at transforming PCP at lower soil
-  moisture, while [[staycare-fungal-in-situ-bioremediation-formulation-strategies]]
+A fundamental question in [[staycare-fungal-in-situ-bioremediation-formulation-strategies]]
   for inoculant delivery
 - fungal-enzymes-degradation for enzymatic mechanisms
 ## Practical Considerations

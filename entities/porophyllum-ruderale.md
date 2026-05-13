@@ -18,43 +18,11 @@ sources:
 
 ## Overview
 
-Porophyllum ruderale is an annual herbaceous plant in the family Asteraceae, native to the Americas from the southern United States through [[guzman-allen-gartz-neurotropic-fungi-caribbean-central-america]] to northern South America.
-
-It is widely known as **papaloquelite** or simply **papalo** in Mexican cuisine, where its pungent, citrus-aromatic leaves serve as a garnish and flavoring agent, particularly in tacos, cemitas, and soups.
-
-The species belongs to a genus of aromatic plants characterized by oil glands visible as translucent dots on the leaf surface, which produce the characteristic strong aroma when bruised.
-
-## Taxonomy and Morphology
-
-**Taxonomy:** Kingdom Plantae → Asteraceae → tribe Tageteae → genus *Porophyllum*.
-
-*Porophyllum ruderale* (Jacq.) Cass. was described by Alexandre Henri Gabriel de Cassini in the early 19th century.
-
-Synonyms include *Calea ruderale* Jacq. and *Porophyllum linaria* Cass. The genus name derives from Greek *poros* (pore) and *phyllon* (leaf), referring to the conspicuous oil glands.
-
-The plant is an erect annual reaching 0.5–1.5 m in height. Stems are branched, glabrous to sparsely pubescent, and often purplish-tinged.
-
-Leaves are alternate, ovate to lanceolate, 3–12 cm long and 1–5 cm wide, with serrate margins and a distinct midrib. The leaf surface bears numerous translucent punctate oil glands, visible as pinprick-sized translucent dots against the light.
-
-Flower heads are arranged in loose corymbose panicles. Each head contains 5–8 pale green to whitish ray florets and 15–25 tubular disc florets. The involucre is campanulate, 6–8 mm long, with linear-lanceolate phyllaries.
-
-Achenes are black, linear, 4–6 mm long, with a pappus of 2–3 barbellate bristles.
-
-The genus *Porophyllum* comprises approximately 25–30 species distributed across the Americas. *P. ruderale* is the most widely known and utilized species, though other regional species such as *P. tagetoides* (Arizona) and *P. linaria* share similar aromatic properties.
-
-The close relationship to the genus *Tagetes* (marigolds) is reflected in shared phytochemistry — both genera produce thiophene compounds and aromatic monoterpenes that contribute to their characteristic scents.
-
-## Distribution and Habitat
-
-The species ranges from the southern United States (Texas, New Mexico, Arizona) through Mexico and Central America into Colombia, Venezuela, Ecuador, Peru, and Bolivia.
-
-It grows as a weed in disturbed sites, along roadsides, in cultivated fields, and on waste ground, typically at elevations from sea level to 2,500 m.
-
-The plant thrives in warm-temperate to [[query-how-to-grow-rare-tropical-fruits-in-marginal-and-subtropical-climates]] with moderate rainfall. It tolerates a range of soil types including sandy, loamy, and rocky substrates.
+Porophyllum ruderale is an annual herbaceous plant in the family Asteraceae, native to the Americas from the southern United States through [[query-how-to-grow-rare-tropical-fruits-in-marginal-and-subtropical-climates]] with moderate rainfall. It tolerates a range of soil types including sandy, loamy, and rocky substrates.
 
 In urban and peri-urban areas of central and southern Mexico, it often volunteers in gardens and vacant lots, where it is collected rather than formally cultivated.
 
-The plant exhibits some [[dighton-fungal-drought-tolerance-plant-water-relations]] once established, though it performs best with regular moisture during its vegetative growth phase. It is frost-sensitive and behaves as a strict annual [[query-how-to-grow-and-use-oca-in-temperate-climates]].
+The plant exhibits some [[query-how-to-grow-and-use-oca-in-temperate-climates]].
 
 ## Cultivation and Uses
 
@@ -80,10 +48,81 @@ The distinctive aroma and flavor of papalo derive from volatile terpenoids produ
 
 Principal volatile constituents identified in leaf essential oil include **thymol**, **p-cymene**, **β-caryophyllene**, **limonene**, and **myrcene**. The relative proportions vary with geography and harvest timing.
 
-Thymol contributes antimicrobial and antifungal properties and is responsible for the herb's use in traditional parasitic treatments. β-Caryophyllene is a dietary [[cannabinoid-receptor-agonists-antagonists-synthetic-reference-blesching]] agonist with anti-inflammatory activity.
+Thymol contributes antimicrobial and antifungal properties and is responsible for the herb's use in traditional parasitic treatments. β-Caryophyllene is a dietary [[bloomfield-candida-albicans-yeast-hyphal-dimorphism]]* in vitro, supporting traditional use for treating infections. Anthelmintic activity has also been documented in preliminary studies on intestinal parasites.
 
-Flavonoids and phenolic compounds have also been isolated from aerial parts, including quercetin derivatives and caffeic acid esters.
+## Overview
 
-The essential oil yield from fresh leaves ranges from 0.1–0.5% (v/w), with higher concentrations in young leaves and during flowering.
+Porophyllum Ruderale represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
 
-Antimicrobial assays of the essential oil have demonstrated activity against *Staphylococcus aureus*, *Escherichia coli*, and *[[bloomfield-candida-albicans-yeast-hyphal-dimorphism]]* in vitro, supporting traditional use for treating infections. Anthelmintic activity has also been documented in preliminary studies on intestinal parasites.
+## Key Characteristics
+
+Several defining characteristics distinguish porophyllum ruderale
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving porophyllum extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Porophyllum Ruderale finds practical application in multiple design contexts.
+[[permaculture-principles]] guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for porophyllum ruderale. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+porophyllum ruderale and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Porophyllum Ruderale has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of porophyllum ruderale into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.

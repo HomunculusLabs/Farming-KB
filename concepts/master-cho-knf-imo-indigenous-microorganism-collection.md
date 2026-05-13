@@ -10,18 +10,10 @@ tags: [knf]
 
 # Master Cho's IMO Collection Guide
 
-[[beneficial-indigenous-microorganisms-bim]] (IMO) are organisms that have lived in harmony with the soil in a particular region, contributing to establishing the environment they inhabit. IMO are the main protagonists that bring vigor to the land and have proliferated in diversity over time. They withstand any weather conditions and, given the right environment, perform their function with great vitality.
-
-## Necessity of IMO
-
-Achieving the right soil conditions -- invigorating the life of the soil -- is the most important aspect of practical [[comparison-natural-farming-vs-permaculture]]. The optimal living environment for microbes and small animals must be provided. The goal [[four-principles-of-natural-farming]] is to revitalize increasingly desolate earth by reinstating these organisms to their original design.
-
-## Characteristics of IMO
-
-- **Decomposition ability**: IMO break down complex organic materials (plants, animals, excrements, [[hamilton-organic-fertilizers-and-plant-nutrition]]) into simpler compounds absorbable by plants.
+[[comparison-natural-farming-vs-permaculture]]. The optimal living environment for microbes and small animals must be provided. The goal [[hamilton-organic-fertilizers-and-plant-nutrition]]) into simpler compounds absorbable by plants.
 - **Catalysis of chemical processes**: Microorganisms produce numerous enzymes, antibiotics, organic acids, and complexes. Most chemical reactions in soil and plants rely on these enzyme catalysts.
 - **Ecosystem revitalization**: When soil is revitalized through IMO use, bacteria and fungi appear first, followed by nematodes, earthworms, mole crickets, and moles.
-- **[[aact-disease-suppression-mechanisms-ingham]]**: IMO convert weak soil into healthy soil by solubilizing [[dynamic-accumulator-plants-trace-minerals]] and enhancing nutrient circulation. Recovered microbial diversity rapidly reduces disease occurrence.
+- **[[dynamic-accumulator-plants-trace-minerals]] and enhancing nutrient circulation. Recovered microbial diversity rapidly reduces disease occurrence.
 
 ## Collecting IMO (IMO #1)
 
@@ -30,7 +22,7 @@ Achieving the right soil conditions -- invigorating the life of the soil -- is t
 It is important to collect IMO in a place with characteristics most similar to the land being worked. Vegetation differs by altitude because microorganisms and their environments differ.
 
 - Prefer areas around plants whose roots contain sugar: near bamboo or broadleaf tree roots, leaf moulds near the field, or lawn grass roots.
-- Rice stumps are excellent: after harvest, sap rises to the stump top. Fungi and bacteria such as [[aspergillus-oryzae]] or [[bacillus-subtilis]] gather on the stump.
+- Rice stumps are excellent: after harvest, sap rises to the stump top. Fungi and bacteria such as [[bacillus-subtilis]] gather on the stump.
 - Collect in a slightly barren area, 150-200m higher than the field altitude.
 - **South-facing slopes**: effective for summer crops (more sunshine).
 - **North-facing slopes**: effective for winter crops (less sunshine).

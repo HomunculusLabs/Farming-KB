@@ -26,60 +26,13 @@ sources:
   - Capulator breeder profile. "MAC (Miracle Alien Cookies) line." https://www.instagram.com/capulator
   - "Chemotaxonomic analysis of query-what-are-cannabis-terpenes-and-why-do-they-matter." Frontiers in Plant Science, 2020.
 ---
-# MAC 1 ([[girl-scout-cookies]] × Alien green cannabis plant anatomy calyx pistil bud structurebuting dense bud structure,
-  cookie-dough and fuel terpenes, and high [[cannabis-glandular-trichome-types-resin-production-clarke]] from the GSC lineage
-- **Male parent:** Unnamed [[oner-colombian-landrace-sativa-strains]] sativa, contributing elevated THC, elongated flowering,
-  and bright citrus-forward terpenes distinguishing MAC from its cookie ancestry
-- **Breeder:** Capulator (California); selected MAC, [[chemdawg]] through GSC, with rare Colombian
+# MAC 1 ([[cannabis-glandular-trichome-types-resin-production-clarke]] from the GSC lineage
+- **Male parent:** Unnamed [[chemdawg]] through GSC, with rare Colombian
   sativa genetics not commonly found in contemporary commercial strains
 
 ## Appearance
 
-MAC flowers are visually distinctive with among the highest [[query-how-do-i-maximize-terpene-and-resin-production-in-cannabis]] commercial circulation. Buds
-are medium-to-large with tapered, slightly elongated structure reflecting sativa influence. Coloration is
-striking: bright lime-to-chartreuse green with occasional deep purple patches, covered in opaque white
-trichomes often giving a nearly white or silver appearance. **Pistils** are abundant, long, and vivid
-orange-to-amber, interweaving through calyxes to create a textured, fuzzy surface. Resin coverage is
-extraordinary — buds are tacky and leave significant deposits on grinding equipment. This makes MAC a
-preferred choice for hash and rosin production, with ice-water hash yields often exceeding 5% by weight.
-
-## Aroma and Flavor
-
-MAC's aroma is complex and immediately memorable — bright sour citrus with diesel and herbal undertones
-reflecting both the Alien Cookies fuel aromatics and the Colombian landrace contribution. Secondary notes
-include floral hints, doughy sweetness, and an earthy, musky base.
-
-The flavor follows closely: sharp sour citrus and diesel on inhalation, floral and herbal mid-palate notes
-on exhale, with a long, earthy, slightly sweet aftertaste. Smoke is thick and resinous.
-
-## Terpene Profile
-
-- **Myrcene** (~0.3–0.6%): Contributes herbal, earthy base notes and physical relaxation effects; moderate
-  presence allows cerebral effects to remain prominent rather than producing full sedation
-- **Limonene** (~0.3–0.5%): Primary source of citrus aromatics; contributes mood elevation, stress
-  relief, and mild anxiolytic effects; enhances absorption of other terpenes and cannabinoids
-- **Terpinolene** (~0.1–0.3%): Less common terpene, contributing floral, piney, and fruity notes;
-  mildly sedative and antioxidant; adds complexity distinguishing MAC from simpler cookie-type strains
-- **Caryophyllene** (~0.2–0.3%): Peppery undertones and anti-inflammatory effects via CB2 agonism
-- **Ocimene** and **Humulene** (trace): Sweet-woody depth and mild appetite-suppressant/decongestant effects
-
-## Cannabinoid Profile
-
-- **THC:** 20–23% (consistently high; select phenotypes and crosses may reach 25–27%)
-- **CBD:** 0.05–0.3% (negligible; not a therapeutic CBD source)
-- **CBG:** 0.1–0.4% (slightly elevated compared to average; contributes minorly to anti-inflammatory effects)
-- **THCV:** <0.1% (not significant)
-- **CBC:** trace
-
-## Effects
-
-MAC 1 is celebrated for its remarkably balanced effects profile that delivers both cerebral stimulation and
-physical comfort without strongly favoring either direction. The experience is often described as "lucid" —
-users maintain mental clarity and functional capacity while experiencing significant mood elevation and
-physical relaxation.
-
-**Onset (0–10 minutes):** Rapid cerebral onset with immediate euphoric pressure behind the eyes and
-forehead, accompanied by mood elevation and enhanced [[plant-sensory-perception]]. Creative thought processes are
+MAC flowers are visually distinctive with among the highest [[plant-sensory-perception]]. Creative thought processes are
 enhanced without the racing quality sometimes associated with sativa-dominant strains.
 
 **Peak (15–45 minutes):** Physical effects develop as warm, soothing body sensation that relaxes muscles
@@ -88,3 +41,80 @@ Many users report enhanced ability to engage in creative work, social activities
 
 **Duration (2–3 hours):** Effects taper gradually with smooth comedown. Some residual relaxation persists
 but doesn't interfere with normal activities. Mental clarity returns fully within 3–4 hours.
+
+## Overview
+
+Mac 1 represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish mac 1
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving mac extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Mac 1 finds practical application in multiple design contexts.
+[[permaculture-principles]] guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for mac 1. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+mac 1 and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Mac 1 has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of mac 1 into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.

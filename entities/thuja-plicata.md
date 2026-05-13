@@ -26,13 +26,9 @@ Western redcedar is renowned for its exceptionally durable, decay-resistant hear
 
 Mature specimens can exceed 60 meters in height and live for over 1,000 years. The largest known individual, the Cheewhat Lake cedar on Vancouver Island, has a trunk volume exceeding 750 cubic meters.
 
-The species is easily distinguished from [[sequoia-sempervirens]]
-- [[picea-abies]]
-- [[cedrus-libani]]
+The species is easily distinguished from [[picea-abies]]
 - [[taxus-baccata]]
-- [[pseudotsuga-menziesii]]
 - [[larix-decidua]]
-- [[larix-kaempferi]]
 - [[pinus-contorta]]
 - [[sequoiadendron-giganteum]]
 ## Practical Applications

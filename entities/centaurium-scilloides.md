@@ -72,9 +72,7 @@ The perennial rootstock allows plants to survive winter and regenerate from the 
 
 Centaurium scilloides acts as an indicator species for species-rich maritime grassland communities.
 
-Associated species include Thymus polytrichus, [[festuca-rubra]], and Armeria maritima in typical coastal habitats.
-
-[[clay-pellet-seed-dispersal]] is primarily by wind, with small seeds released from dehiscent capsules in autumn.
+Associated species include Thymus polytrichus, [[clay-pellet-seed-dispersal]] is primarily by wind, with small seeds released from dehiscent capsules in autumn.
 
 Germination in the wild typically occurs in spring, with seedlings establishing in bare patches of open turf.
 
@@ -90,3 +88,11 @@ Centaurium scilloides is hardy to approximately USDA zone 7, tolerating light fr
 
 ## See Also
 - [[centaurium-umbellatum]]
+
+## See Also
+
+- [[centaurium-montanum]]
+- [[centaurium-minus]]
+- [[centaurium-umbellatum]]
+- [[centaurium-erythraea]]
+- [[centaurium-pulchellum]]

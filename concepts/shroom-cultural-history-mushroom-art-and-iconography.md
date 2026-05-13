@@ -10,14 +10,7 @@ tags: [history, mushroom-cultivation]
 
 # Mushroom Art and Iconography
 
-## From "Shroom: A Cultural History of the Magic Mushroom" by [[jonathan-ott]] and Rogan Taylor, appearing in the Sunday Times (1980) and New Scientist (1986). However, historian Ronald Hutton has "poured cold water on the idea," noting that Siberian shamans did not travel by sleigh, never wore red-and-white clothes, and their spirit-journeys took place entirely in an otherworldly dimension.
-
-## Rock Art: Tassili and Beyond
-
-### The Tassili Figure
-
-The most famous proposed mushroom art comes from the [[mckenna-tassili-plateau-round-head-civilization]] of southern Algeria (Neolithic to Common Era). The image, popularised by [[shroom-cultural-history-mushroom-in-ancient-civilizations]] — The archaeological and historical evidence for ancient mushroom use
-- [[shroom-cultural-history-maria-sabina-and-mazatec-tradition]] — The living artistic tradition of [[maria-sabina-mazatec-mushroom-ceremony]] chants
+## From "Shroom: A Cultural History of the Magic Mushroom" by [[mckenna-tassili-plateau-round-head-civilization]] of southern Algeria (Neolithic to Common Era). The image, popularised by [[shroom-cultural-history-maria-sabina-and-mazatec-tradition]] — The living artistic tradition of [[maria-sabina-and-mazatec-mushroom-ceremony]] chants
 ## Practical Applications
 
 Mushroom Art and Iconography — Shroom has a range of practical applications that make it relevant to

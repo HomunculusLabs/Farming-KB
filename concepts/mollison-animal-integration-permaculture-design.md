@@ -13,7 +13,7 @@ Animal integration is a fundamental principle of Mollison's
 permaculture design. Rather than treating animals as separate from
 the plant system, Permaculture Two weaves them into the landscape as
 essential components that perform multiple functions: forage
-harvesting, fertilisation, [[hamilton-beneficial-insects-and-biological-pest-control]], [[fukuoka-weed-management-and-green-manure]], and
+harvesting, fertilisation, [[fukuoka-weed-management-and-green-manure]], and
 product yield.
 
 ## The Interaction of Plants and Animals
@@ -38,40 +38,10 @@ Atsatt and O'Dowd's research on plant defense guilds:
    Trifolium fragiferum protecting white clover from hares)
 
 3. Attractant or decoy plants that draw pests away from crops
-   ([[solanum-nigrum]] with potatoes attracting Colorado beetle egg
-   masses as a lethal decoy)
-
-## Livestock in Forage Forest Systems
-
-Mollison advocates self-feeding forage forest systems where animals
-range freely among tree crops rather than being fed cut fodder.
-Traditional slash-feeding -- manually cutting tree foliage during
-drought -- is far less sensible than allowing herds to self-feed
-within managed forest strips.
-
-Animals can range into forest when extremes of heat and cold affect
-them, occupying pastures during tolerable spring and autumn periods.
-An estimated 15% of beef yield is lost due to lack of shelter alone.
-Tree crops provide this shelter as a secondary yield alongside
-primary forage production.
-
-## Poultry Integration and Forage Systems
-
-Permaculture Two provides one of the most extensive listings of
-[[free-range-poultry-forage-design-mollison]] species in permaculture literature. The goal is to
+   ([[free-range-poultry-forage-design-mollison]] species in permaculture literature. The goal is to
 reduce or eliminate purchased feed by designing landscapes that
-produce [[integrated-poultry-forage-systems-zone-two]] year-round.
-
-**Tree species for poultry forage:** Tagasaste, carob, [[comparison-black-locust-vs-honey-locust]],
-mulberry, fig, oak, chestnut, [[black-walnut-juglans-nigra]], banana passionfruit
-(frost-resistant, trellised on eucalypt), pokeweed (for pigeons),
-Celtis spp., wild rye (moderate salinity tolerance)
-
-**Vine species:** Kudzu (Thunbergia), chayote, gabizura
-(Actinostemma lobatum)
-
-**Root crops:** Nut-grass (Eleocharis), sour-grass (Oxalis), oca,
-[[comparison-jerusalem-artichoke-vs-potato]] under oak forest or on poor soil
+produce [[comparison-black-locust-vs-honey-locust]],
+mulberry, fig, oak, chestnut, [[comparison-jerusalem-artichoke-vs-potato]] under oak forest or on poor soil
 
 **Herb layer:** Clovers, medics, lucerne, chicory, asparagus,
 plantain, fennel, shepherd's purse, cleavers, partridge berry,
@@ -91,11 +61,89 @@ Several special herbs are highlighted for their specific benefits:
 
 ## See Also
 
-- [[mollison-flood-retardation-by-trees-and-earthworks]]
-- [[mollison-introduction-to-soils-in-permaculture]]
-- [[mollison-life-in-earth-burrowers-roots]]
-- [[mollison-pdc-solar-greenhouse-design]]
-- [[mollison-sediment-management-and-check-dam-systems]]
-- [[mollison-soil-pollution-and-remediation]]
-- [[mollison-tribal-soil-classifications-and-soil-structure]]
-- [[mollison-tropical-earth-shaping-polyculture-economics]]
+- [[mollison-designers-climate-zone-5-wilderness-conservation]]
+- [[mollison-designers-companion-planting-science]]
+- [[mollison-designers-design-for-disaster-resilience]]
+- [[mollison-designers-ocean-reef-restoration-mariculture]]
+- [[mollison-designers-road-water-harvesting-and-integration]]
+- [[mollison-designers-wild-yield-and-foraging-systems]]
+- [[mollison-free-range-pig-systems]]
+- [[mollison-local-currency-systems-and-community-banking]]
+- [[mollison-pdc-community-legal-structure]]
+
+## Overview
+
+Mollison Animal Integration Permaculture Design represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish mollison animal integration permaculture design
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving mollison extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Mollison Animal Integration Permaculture Design finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for mollison animal integration permaculture design. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+mollison animal integration permaculture design and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Mollison Animal Integration Permaculture Design has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of mollison animal integration permaculture design into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.

@@ -14,17 +14,7 @@ sources:
   - Schofield J.J. (1989). "Discovering Wild Plants." Alaska Northwest Books.
   - Moore M. (1993). "Medicinal Plants of the Pacific West." Red Crane Books.
   - Turner N.J. (1995). "Food Plants of Coastal First Peoples." UBC Press.
-  - Foster S., Hobbs C. (2002). "A [[ghouled-field-guide-historical-context]] to Western Medicinal Plants."
-  - Small E., Catling P.M. (1999). "Canadian Medicinal Crops." NRC Research Press.
----
-
-# Oplopanax horridus
-
-## Overview
-
-**Devil's club** (*Oplopanax horridus*) is a large, spiny deciduous shrub in the
-family Araliaceae, native to the moist coniferous forests of the Pacific Northwest
-and the Rocky Mountains of [[psilocybin-north-america-pacific-northwest]]. Reaching heights of 1–5 meters, it is
+  - Foster S., Hobbs C. (2002). "A [[psilocybin-north-america-pacific-northwest]]. Reaching heights of 1–5 meters, it is
 among the most distinctive understory plants in its range, instantly recognizable
 by its dense covering of yellowish spines on stems, petioles, and leaf veins.
 
@@ -34,20 +24,7 @@ respiratory ailments, rheumatism, diabetes, and tuberculosis.
 
 Modern research has confirmed significant immunomodulatory, antidiabetic, and
 anti-inflammatory activities, generating growing interest in devil's club as a
-[[growing-gourmet-north-american-reishi-species]] adaptogen analogous to Asian ginseng species.
-
-## Taxonomy and Morphology
-
-- **Kingdom:** Plantae
-- **Order:** Apiales
-- **Family:** Araliaceae
-- **Genus:** *Oplopanax*
-- **Species:** *O. horridus* (Sm.) Miq.
-
-**Synonyms:** *Fatsia horrida* (Sm.) Benth. & Hook.f., *Panax horridus* Sm.
-
-The plant produces large palmately lobed leaves 15–45 cm across, broadly maple-
-shaped with 5–7 pointed lobes. Each [[bloomfield-rust-germ-tube-tactile-sensing-leaf-surface-navigation]] is armed with sharp spines along
+[[bloomfield-rust-germ-tube-tactile-sensing-leaf-surface-navigation]] is armed with sharp spines along
 the major veins.
 
 Stems are stout, unbranched or sparsely branched, covered with a dense mat of
@@ -66,8 +43,7 @@ extend through the Rocky Mountains of Idaho and western Montana, with disjunct
 populations as far east as Ontario and Minnesota.
 
 The species is strongly associated with old-growth and mature coniferous forests,
-particularly those dominated by western redcedar (*[[thuja-plicata]]*), western
-hemlock (*[[tsuga-heterophylla]]*), and Sitka spruce (*[[picea-sitchensis]]*).
+particularly those dominated by western redcedar (*[[tsuga-heterophylla]]*), and Sitka spruce (*[[picea-sitchensis]]*).
 
 It thrives in riparian zones, avalanche chutes, and areas with high soil moisture
 and dappled shade. Elevation ranges from sea level to approximately 1,500 m.
@@ -87,3 +63,80 @@ The inner bark and root cortex contain a diverse array of bioactive constituents
 - **Alkaloids:** N-methyltyramine and related phenethylamine derivatives.
 - **Volatile oils:** Contributing to the distinctive spicy-aromatic fragrance of
   fresh inner bark.
+
+## Overview
+
+Oplopanax Horridus represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish oplopanax horridus
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving oplopanax extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Oplopanax Horridus finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for oplopanax horridus. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+oplopanax horridus and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Oplopanax Horridus has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of oplopanax horridus into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.

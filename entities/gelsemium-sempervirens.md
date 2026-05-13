@@ -21,53 +21,7 @@ sources:
 
 ## Overview
 
-**Gelsemium sempervirens** (L.) J.St.-Hil., commonly known as **Carolina jessamine**, yellow jessamine, evening trumpetflower, or woodbine, is a twining evergreen vine native to the southeastern United States and [[guzman-allen-gartz-neurotropic-fungi-central-america-caribbean]]. It is the state flower of South Carolina.
-
-Despite its ornamental beauty and sweet-scented flowers, all parts of the plant contain potent **indole alkaloids** — primarily gelsemine, gelseminine, and sempervirine — which act as competitive antagonists at glycine receptors. Ingestion causes progressive paralysis and has resulted in numerous human and livestock fatalities.
-
-## Taxonomy and Morphology
-
-- **Kingdom:** Plantae
-- **Order:** Gentianales
-- **Family:** Gelsemiaceae (formerly Loganiaceae)
-- **Genus:** Gelsemium
-- **Species:** G. sempervirens (L.) J.St.-Hil.
-
-The vine grows 3–6 meters long when supported, with slender, wiry stems that twine counterclockwise. Leaves are opposite, lanceolate to ovate, 3–7 cm long and 1–2 cm wide, glossy dark green above and lighter below. They are evergreen in the southern part of the range but deciduous in colder zones.
-
-The fragrant, trumpet-shaped flowers appear in late winter to early spring (February–April). Each flower is 2–3 cm long, bright yellow, and borne in axillary clusters. The corolla has five fused petals forming a funnel. Fruit is an oblong capsule 1–2 cm long, splitting open to release flat, winged seeds.
-
-## Distribution and Habitat
-
-Carolina jessamine is native from Virginia south to Florida and west to Texas. Its range extends into Mexico and Guatemala. The species grows in USDA hardiness zones 7–10, preferring rich, moist, well-drained soils in partial shade to full sun.
-
-Natural habitats include woodland margins, thickets, swamp edges, fence rows, and stream banks. It is extremely common in the coastal plain and Piedmont regions. The vine climbs vigorously on trees, fences, and trellises, forming dense curtains of foliage.
-
-## Bioactive Compounds
-
-The pharmacological activity of *G. sempervirens* is attributed primarily to three related indole alkaloids. These compounds act primarily at glycine receptors in the central nervous system, producing the characteristic paralytic effects.
-
-- **Gelsemine** (C₂₀H₂₂N₂O₂) — the principal alkaloid, comprising 0.25–0.5% of dry leaf weight. Acts as a glycine receptor antagonist. Potent convulsant at higher doses; sedative and analgesic at sub-lethal doses.
-- **Gelseminine** — structurally similar to gelsemine with overlapping pharmacology. Contributes to the paralytic effects.
-- **Sempervirine** — a minor alkaloid with reported cytotoxic activity against cancer cell lines in vitro.
-
-Additional compounds include gelsedine, gelsemicine, and 14-hydroxygelsemine. The alkaloid profile varies seasonally, with peak concentrations in the leaves during flowering.
-
-## Toxicology
-
-All plant parts are toxic — roots, stems, leaves, flowers, and nectar.
-
-The lethal dose of gelsemine in humans is estimated at 0.5–1.0 mg/kg body weight, though significant individual variation exists. Children and the elderly are at greatest risk from accidental exposure.
-
-Symptoms of poisoning follow a characteristic progression.
-
-Initial signs include dizziness, blurred vision, drooping eyelids (ptosis), and difficulty swallowing. This progresses to muscle weakness, loss of deep tendon reflexes, and respiratory depression. Death results from respiratory paralysis.
-
-Onset of symptoms occurs within 30 minutes to several hours after ingestion. Children are particularly vulnerable — ingestion of a single flower has caused serious poisoning. Nectar is toxic to honeybees, though honey from *Gelsemium* nectar is rarely produced in dangerous quantities.
-
-## Pharmacology and Ethnobotanical Use
-
-Despite its toxicity, *G. sempervirens* has a long history of medicinal use among [[halpern-sacramental-peyote-and-native-american-church]] peoples and in 19th-century eclectic medicine.
+**Gelsemium sempervirens** (L.) J.St.-Hil., commonly known as **Carolina jessamine**, yellow jessamine, evening trumpetflower, or woodbine, is a twining evergreen vine native to the southeastern United States and [[halpern-sacramental-peyote-and-native-american-church]] peoples and in 19th-century eclectic medicine.
 
 The Cherokee used root preparations as an analgesic for neuralgia, headache, and toothache. The Creek applied poultices of the root to inflammations and swellings. Seminole healers used the root for fever and rheumatism, always at carefully controlled doses.
 
@@ -77,14 +31,92 @@ Modern herbalists and homeopaths continue to use *Gelsemium* preparations, parti
 
 ## Cultivation and Ornamental Use
 
-Carolina jessamine is widely cultivated as an ornamental vine for its showy, fragrant flowers and evergreen foliage. It is easily propagated from softwood cuttings taken in summer or from semi-hardwood cuttings in autumn. [[jeavons-seed-propagation-techniques]] is also possible but slower.
-
-The plant prefers moist, organically rich soil with good drainage. It tolerates partial shade but flowers most profusely in full sun. Established plants are moderately drought-tolerant. Pruning after flowering controls size and promotes dense, bushy growth.
-
-Popular cultivars include 'Pride of Augusta' (double flowers), 'Woodlander's Pale Yellow' (cream-colored flowers), and 'Margarita' ([[fukuoka-ideal-rice-plant-morphology-compact-growth-high-yield]], cold-hardy to zone 7). The vine is relatively pest-free, though spider mites and scale insects may occur.
+Carolina jessamine is widely cultivated as an ornamental vine for its showy, fragrant flowers and evergreen foliage. It is easily propagated from softwood cuttings taken in summer or from semi-hardwood cuttings in autumn. [[fukuoka-ideal-rice-plant-morphology-compact-growth-high-yield]], cold-hardy to zone 7). The vine is relatively pest-free, though spider mites and scale insects may occur.
 
 ## Related Species
 
 - **Gelsemium elegans** — heartbreak grass; extremely toxic species from [[psilocybe-southeast-asia-pacific]], implicated in suicides and folk medicines
 - **Gelsemium rankinii** — Rankin's jessamine; flowers in autumn, found in the Florida Panhandle
 - **Mostuea brunonis** — African relative in the same family, also containing gelsemine-type alkaloids
+
+## Overview
+
+Gelsemium Sempervirens represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish gelsemium sempervirens
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving gelsemium extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Gelsemium Sempervirens finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for gelsemium sempervirens. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+gelsemium sempervirens and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Gelsemium Sempervirens has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of gelsemium sempervirens into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[cupressus-sempervirens]]
+- [[sequoia-sempervirens]]

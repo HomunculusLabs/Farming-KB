@@ -15,18 +15,13 @@ Trichoderma species represent the most widely studied and commercially
 deployed fungal biocontrol agents worldwide. Singh's treatment of
 Trichoderma within the mycoremediation framework emphasizes the genus as
 a multifunctional organism combining direct pathogen suppression with
-plant [[brassinosteroid-growth-promotion-psilocybe-cubensis]] and soil bioremediation capabilities. Species
-including [[trichoderma-viride]],
-[[integrated-pest-management]] and soil
+plant [[trichoderma-viride]],
 [[comparison-bioremediation-strategies-vs-biostimulation-techniques]].
 
 ## See Also
 
-- [[singh-entomopathogenic-fungi-biocontrol-agents]]
-
 - [[singh-fungal-consortia-synergistic-biodegradation]] - Trichoderma in mixed
-  culture systems for [[staycare-fungal-consortia-for-enhanced-pollutant-removal]] degradation
-- fungal [[ligninolytic-enzyme-production-bioremediation]] induction - Regulation of hydrolytic enzyme
+  culture systems for [[ligninolytic-enzyme-production-bioremediation]] induction - Regulation of hydrolytic enzyme
   systems in Trichoderma biocontrol activity
 - bioremediation technologies overview - Context for biocontrol within
   broader [[combined-biological-remediation-approaches]] frameworks

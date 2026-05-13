@@ -21,38 +21,12 @@ type: query
 
 ## Short Answer
 
-Rock dust — finely ground volcanic, sedimentary, or igneous rock — slowly releases a broad spectrum of plant-essential minerals through natural weathering processes. It replenishes [[biodiversity-of-fungi-biomass-carbon-soil-structure]], supports microbial activity, and can moderate pH. Think of it as a long-term mineral investment rather than a quick-fix fertilizer.
-
-## What Minerals Do Rock Dusts Supply?
-
-### Macronutrients
-
-- **Calcium (Ca)** — Cell wall structure, root elongation, soil flocculation. Found in limestone, basalt, gypsum dust.
-- **Magnesium (Mg)** — Core of chlorophyll molecule, enzyme activation. Found in dolomite, basalt, olivine.
-- **Potassium (K)** — [[silicon]] (Si)** — Cell wall fortification, [[hamilton-pest-and-disease-control-organic]] resistance. Found in basalt, [[electron-transport-chain-mitochondrial-respiration]] in respiration
+Rock dust — finely ground volcanic, sedimentary, or igneous rock — slowly releases a broad spectrum of plant-essential minerals through natural weathering processes. It replenishes [[silicon]] (Si)** — Cell wall fortification, [[electron-transport-chain-mitochondrial-respiration]] in respiration
 - **Manganese (Mn)** — Enzyme cofactor, nitrogen assimilation
 - **Zinc (Zn)** — Auxin production, carbohydrate metabolism
 - **Copper (Cu)** — Lignin synthesis, reproductive development
 - **Boron (B)** — Cell wall integrity, pollen tube growth, fruit set
-- **Cobalt (Co)** — Essential for [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]] in legume rhizobia
-- **Molybdenum (Mo)** — Nitrate reductase enzyme activity
-- **Selenium (Se)** — Antioxidant benefits in edible crops
-
-The exact mineral profile varies enormously by rock type and geological deposit. Always request and review the supplier's mineral analysis before purchasing.
-
-## How Does Mineral Weathering Work in Soil?
-
-Weathering converts locked-up rock minerals into plant-available forms through three simultaneous mechanisms:
-
-### Chemical Weathering
-
-- **Hydrolysis:** Water molecules react with silicate minerals, breaking bonds and releasing K⁺, Ca²⁺, Mg²⁺, and silicic acid. This is the primary dissolution pathway for basalt dust.
-- **Carbonation:** CO₂ dissolved in soil water forms carbonic acid, which dissolves calcium and magnesium carbonates.
-- **Oxidation:** Oxygen reacts with iron-bearing minerals (biotite, pyrite), releasing iron and generating new clay minerals.
-
-### Biological Weathering (Most Important in Living Soil)
-
-- **Organic acid exudation:** Plant roots and [[arbuscular-mycorrhizal-fungi-biology-symbiosis]] secrete citric, oxalic, and malic acids that chelate and dissolve mineral cations directly from rock surfaces.
+- **Cobalt (Co)** — Essential for [[arbuscular-mycorrhizal-fungi-biology-symbiosis]] secrete citric, oxalic, and malic acids that chelate and dissolve mineral cations directly from rock surfaces.
 - **Microbial metabolism:** Soil bacteria and fungi produce CO₂ (lowering local pH) and organic ligands that accelerate mineral dissolution.
 - **Biofilm activity:** Microbial biofilms colonizing rock dust particles concentrate acids at the mineral-water interface.
 
@@ -115,13 +89,7 @@ Rock dust is cumulative. Expect results in growing seasons, not days. It is not 
 
 **Rates:** Raised beds (new) — 5–10 lbs per 100 sq ft, mixed into top 4–6" with compost. Raised beds (maintenance) — 2–5 lbs per 100 sq ft top-dressed annually. In-ground gardens — 50–200 lbs per 1,000 sq ft, incorporated with broadfork or tillage. Fruit trees — 5–20 lbs per tree ringed around the drip line. Compost piles — 1–2 cups per cubic foot layered between materials. Container mixes — 1–2 tablespoons per gallon blended at planting.
 
-**Methods:** Broadcast and incorporate for new beds. Top-dress for established beds and let rain, worms, and biology incorporate it. Layer into compost piles between green and brown materials. Add a small handful to [[actively-aerated-compost-tea]] tea for a mineral-drenched biological inoculant.
-
-**Pro tip:** Finer dust weathers faster. Target particle size below 100 microns for ideal biological weathering. Sift coarse material or run it through a chipper if needed.
-
-## Common Mistakes
-
-1. **Overapplication** — Excessive dust spikes pH, [[query-what-causes-nutrient-burn-in-cannabis-and-how-to-prevent-it]] imbalances, and can cement the soil surface. Stick to recommended rates and retest annually.
+**Methods:** Broadcast and incorporate for new beds. Top-dress for established beds and let rain, worms, and biology incorporate it. Layer into compost piles between green and brown materials. Add a small handful to [[query-what-causes-nutrient-burn-in-cannabis-and-how-to-prevent-it]] imbalances, and can cement the soil surface. Stick to recommended rates and retest annually.
 2. **Wrong type for your soil pH** — Liming dusts on alkaline soil worsen iron chlorosis and phosphorus lockout. Match dust type to your pH needs.
 3. **Expecting quick results** — Use soluble mineral amendments for immediate deficiency correction. Rock dust is for the long term.
 4. **Ignoring soil biology** — Dust on compacted, biologically dead soil accomplishes little. Build soil life with compost, mulch, and minimal tillage first.
@@ -130,13 +98,6 @@ Rock dust is cumulative. Expect results in growing seasons, not days. It is not 
 
 ## When Is Rock Dust Worth It vs. Other Amendments?
 
-**Rock dust is worth it when:** Your soil shows trace mineral depletion from intensive cropping; you're building long-term soil health; you grow in sandy, leached soils; you want to improve crop [[coleman-winter-greens-nutritional-quality-cold-sweetening]] and flavor; you practice no-till and need persistent amendments.
+**Rock dust is worth it when:** Your soil shows trace mineral depletion from intensive cropping; you're building long-term soil health; you grow in sandy, leached soils; you want to improve crop [[fukuoka-ancient-soil-fertility-rock-weathering]]
 
-**Other amendments are better when:** You need immediate deficiency correction (use chelated/soluble fertilizers); you need nitrogen (use compost, cover crops); you need rapid pH adjustment (use ag lime or elemental sulfur); budget is tight (compost delivers more per dollar); you're growing in small containers (use liquid mineral supplements).
-
-## See Also
-
-- [[fukuoka-ancient-soil-fertility-rock-weathering]]
-
-- [[query-how-does-biochar-improve-soil-health-and-should-i-use-it]]
 - [[query-how-does-crop-rotation-improve-soil-health]]

@@ -1,12 +1,6 @@
 # Seed Germination Science and Laboratory Methods
 
-**Source:** Gardening When It Counts — [[steve-solomon]] (2005)
-
-## Core Concept
-
-Understanding how seed germination laboratories achieve near-perfect results
-provides a practical framework for improving field germination rates.
-[[solomon-seed-sprouting-conditions-laboratory-germination-technique]] testing is standardized, accurate, and reproducible:
+**Source:** Gardening When It Counts — [[solomon-seed-sprouting-conditions-laboratory-germination-technique]] testing is standardized, accurate, and reproducible:
 two different labs testing samples from the same seed bag should produce
 nearly identical results. The key is controlling moisture, temperature,
 oxygen, and media sterility to match laboratory conditions as closely as
@@ -72,20 +66,7 @@ Solomon distills successful field germination into a simple principle:
 **Start with vigorous seeds, then create soil conditions that match laboratory
 standards as closely as possible.**
 
-Gardeners should focus on two controllable factors: [[seed-quality-and-selection-solomon]] (buy from
-reputable companies that test and report germination rates) and seedbed
-preparation (firm, moist, warm soil at proper planting depth).
-
-## The Anti-Overwatering Principle
-
-Most gardeners water seeds far too often. The natural fear that seeds will die
-if they dry out leads to frequent shallow watering that actively harms
-germination through several mechanisms:
-
-- **Lowered soil temperature**: Each watering event cools the soil, slowing
-  the germination process
-- **Disease promotion**: Cool, wet conditions favor damping-off fungi that
-  kill seedlings at the soil line and [[query-how-to-prevent-and-treat-powdery-mildew-on-cannabis]] cucurbits
+Gardeners should focus on two controllable factors: [[query-how-to-prevent-and-treat-powdery-mildew-on-cannabis]] cucurbits
 - **Weed stimulation**: Frequent surface moisture germinates weed seeds that
   compete with crop seedlings
 - **Surface crusting**: Repeated wetting and drying creates a hard crust that
@@ -145,6 +126,5 @@ A germination rate below 80% for most vegetables suggests declining vigor.
 
 ## See Also
 
-- [[vegetable-seed-saving-and-germination]]
 - [[variety-trials-seed-company-quality-solomon]]
 - [[transplanting-techniques-solomon]]

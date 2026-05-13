@@ -47,27 +47,7 @@ Synthesized from 5-methoxy-N-methyltryptamine (5-MeO-NMT) by reductive coupling 
 
 ## The Oral vs. Smoked Paradox
 
-5-MeO-MIPT is remarkable for being several times more potent orally than when smoked -- a dramatic contrast to 5-MeO-DMT which is not orally active at all. When smoked, the two compounds appear similar: comparable speed of onset, intense depersonalization, loss of contact with surroundings, and impressive recall of early memories. But the [[tihkal-oral-activity-mao-inhibition]] difference reveals they are "totally different from one another."
-
-Shulgin speculates on the mechanism: preferential metabolism, first-pass effects, pyrolysis products from smoking, different receptors, or lipophilicity differences. The mystery remains unresolved. As Shulgin quotes Mark Twain: "I like science because it gives one such a wholesome return of conjecture from such a trifling investment of fact."
-
-### Positional Isomer Activity
-
-The four possible mono-methoxylated MIPT isomers have all been synthesized and explored in man:
-- **4-MeO-MIPT** (entry #39): Modest activity; has its own recipe
-- **5-MeO-MIPT** (this entry): Extremely potent orally, less so when smoked
-- **6-MeO-MIPT**: Inactive at up to 50 mg orally; synthesized from 6-methoxyindole via 2-nitroethyl acetate, hydrogenation, benzyloxycarbonylation, reduction, and reductive coupling with acetone (9% overall yield). One report of a "neurological twinge" at 16 mg.
-- **7-MeO-MIPT**: Essentially inactive at 50 mg; synthesized via the same five-step sequence from 7-methoxyindole (24% overall yield). GC analysis showed only 80% purity, with identified impurities of 7-MeO-NIPT (5%), 7-MeO-DMT (3%), and 7-MeO-NMT (4%). "Something going on" at 20 mg and possible light-headedness at 70 mg.
-
-This positional specificity -- active at positions 4 and 5, inactive at 6 and 7 -- parallels the British idiom "at 6's and 7's" for confusion. The pattern also gives additional support to the positional parallels between the "4-position" of phenethylamines and the "5-position" of tryptamines.
-
-### The 4-Methoxy-DMT Analogues
-
-A similar pattern holds for the N,N-dimethyl series. The 4-methyl ether of psilocin (4-MeO-DMT) is a simple, stable homologue, but the methyl ether group cannot be easily hydrolyzed to psilocin like the phosphate or acetate esters. The immediate homologue 4-MeO-DET is completely without action at up to 30 mg orally or by smoking. The remaining DMT isomers (6-MeO-DMT, originally thought to be a minor B. caapi alkaloid, and 7-MeO-DMT) remain relatively unknown. Squirrel monkey studies suggested 4-MeO-DMT had weak central activity, much less potent than 5-MeO-DMT. No human trials have been reported for any of these three isomers.
-
-## Eroticism and Sensory Enhancement
-
-A striking feature is the consistent erotic/sensual component, shared with [[5-meo-dmt-entity-tihkal]]. At 4-6 mg orally, the experience is characterized by "ease of interpretive fantasy, almost dream-like, and easy eroticism" without visual effects. At 6 mg the experience becomes "extremely erotic" with "tactile extraordinary" qualities. This sensory-enhancing profile -- music enhancement, food appreciation, tactile sensitivity -- without the visual fireworks of other psychedelics makes it unique among tryptamines.
+5-MeO-MIPT is remarkable for being several times more potent orally than when smoked -- a dramatic contrast to 5-MeO-DMT which is not orally active at all. When smoked, the two compounds appear similar: comparable speed of onset, intense depersonalization, loss of contact with surroundings, and impressive recall of early memories. But the [[5-meo-dmt-entity-tihkal]]. At 4-6 mg orally, the experience is characterized by "ease of interpretive fantasy, almost dream-like, and easy eroticism" without visual effects. At 6 mg the experience becomes "extremely erotic" with "tactile extraordinary" qualities. This sensory-enhancing profile -- music enhancement, food appreciation, tactile sensitivity -- without the visual fireworks of other psychedelics makes it unique among tryptamines.
 
 ## Other 5-Methoxy-N,N-Dialkyl Tryptamines
 
@@ -86,7 +66,84 @@ The complete 5-methoxy series in TIHKAL includes:
 
 ## See Also
 
-- [[5-meo-dipt-entity-tihkal]] -- diisopropyl analogue with erotic enhancement
 - [[dmt-entity-tihkal]] -- parent tryptamine
-- [[harmaline-entity-tihkal]] -- beta-carboline MAOI relevant to tryptamine potentiation
 - [[melatonin-entity-tihkal]] -- N-acetyl-5-methoxytryptamine; endogenous hormone
+
+## Overview
+
+5 Meo [[mipt-entity-tihkal]] represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish 5 meo mipt entity tihkal
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving 5 extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+5 Meo Mipt Entity Tihkal finds practical application in multiple design contexts.
+[[permaculture-principles]] guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for 5 meo mipt entity tihkal. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+5 meo mipt entity tihkal and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+5 Meo Mipt Entity Tihkal has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of 5 meo mipt entity tihkal into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also

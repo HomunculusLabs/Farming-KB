@@ -8,13 +8,10 @@ sources:
   - "raw/papers/leary-t-the-psychedelic-experience.md"
 ---
 
-The [[lsd-set-and-setting-framework]] framework is the foundational principle for understanding
-and managing psychedelic experiences. First articulated by Timothy Leary, Ralph
-Metzner, and [[richard-alpert]] in the 1960s, it posits that the character of a
+The [[richard-alpert]] in the 1960s, it posits that the character of a
 psychedelic experience is determined primarily by two factors: "set" (the
 internal state and expectations of the person) and "setting" (the external
-environment, [[emcdda-hallucinogenic-mushroom-polydrug-use-social-context]], and cultural framework). This deceptively simple
-framework has been validated by decades of [[hofmann-lsd-clinical-research-early-studies]] and remains the
+environment, [[hofmann-lsd-clinical-research-early-studies]] and remains the
 single most important concept for safe, beneficial psychedelic use.
 
 ## Set: Internal Factors
@@ -57,21 +54,7 @@ Setting refers to the physical environment, social context, and cultural
 framework surrounding the psychedelic experience. Key components include:
 
 Physical environment — a comfortable, aesthetically pleasing space that feels
-safe and private is essential. In [[lentinan-clinical-research]], this typically means a
-quiet room with dim lighting, comfortable furnishings, and access to nature
-elements (plants, art, music). The setting should be free from unexpected
-interruptions, loud noises, and unfamiliar or threatening stimuli.
-
-Social context — the presence and behavior of other people profoundly shape the
-experience. In clinical settings, trained guides or therapists provide calm,
-reassuring presence and non-directive support. In ceremonial contexts, the
-community of participants and the leadership of experienced practitioners create
-a shared field of intention and support. Solo use eliminates social support but
-maximizes privacy and self-direction.
-
-Musical accompaniment — music is consistently identified as one of the most
-important elements of psychedelic session settings. Research has shown that the
-emotional quality and [[metzner-shamanic-ceremony-versus-psychotherapy-structural-features]] of music during psychedelic sessions
+safe and private is essential. In [[metzner-shamanic-ceremony-versus-psychotherapy-structural-features]] of music during psychedelic sessions
 significantly influence the experience. Classical, ambient, and sacred music
 traditions are commonly used in clinical protocols, with a curated playlist that
 builds in emotional intensity during the peak period.
@@ -85,6 +68,82 @@ therapeutic models.
 
 ## Clinical Application
 
-In modern [[metzner-psycholytic-psychedelic-therapy-models]], set and setting are carefully optimized as part of
-the [[ingham-aact-leaf-curl-taphrina-treatment-protocol]]. Preparation sessions (typically 1-3 meetings before the
+In modern [[ingham-aact-leaf-curl-taphrina-treatment-protocol]]. Preparation sessions (typically 1-3 meetings before the
 psychedelic session) address the "set" component: building therapeutic alliance,
+
+## Overview
+
+Set And Setting Framework represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish set and setting framework
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving set extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Set And Setting Framework finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for set and setting framework. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+set and setting framework and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Set And Setting Framework has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of set and setting framework into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.

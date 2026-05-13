@@ -10,11 +10,7 @@ type: concept
 
 # Fermented Plant Juice Preparation and Application
 
-[[korean-natural-farming]]
-(KNF) developed by Dr. Han Kyu Cho. FPJ is a fermented extract of a
-plant's sap and chlorophylls, producing a rich enzyme solution full
-of microorganisms such as [[natural-farming]] guide, FPJ serves as a [[ingham-natural-growth-regulators-soil-microbes]] stimulant,
-[[cannabis-pest-management-guide]] tool, and plant health enhancer that can replace
+[[natural-farming]] guide, FPJ serves as a [[cannabis-pest-management-guide]] tool, and plant health enhancer that can replace
 commercial fertilizers and synthetic growth hormones.
 
 ## Understanding FPJ
@@ -44,20 +40,7 @@ the final FPJ. Several criteria guide plant selection:
 
 ### Recommended Plant Sources by Growth Stage
 
-- For germination to early [[cannabis-vegetative-growth-stage]]: Mugwort (Artemisia
-  vulgaris) and bamboo shoot FPJs help crops become resistant
-  against cold and grow fast and strong
-- For vegetative growth: Arrowroot and bamboo shoot FPJs, as well as
-  reeds and water or marsh plants with firm stems, help crops obtain
-  needed nitrogen to increase in volume
-- For pest management: FPJ mixed with rice bran can be sprinkled
-  around fruit trees to lure pests to the ground, away from fruits
-
-### Crop-Specific FPJ Matching
-
-Best results come from using FPJ made from the same crop family:
-- Tomato: lateral buds of stems and leaves
-- Squash and [[comparison-cassava-vs-taro-vs-sweet-potato-vs-yam]]: vines from the same crops
+- For germination to early [[comparison-cassava-vs-taro-vs-sweet-potato-vs-yam]]: vines from the same crops
 - Pinched shoots of plants (not contaminated by chemicals)
 
 ## Timing of Collection
@@ -118,8 +101,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[fermented-plant-juice]]
 - [[han-kyu-cho]]
-- [[jadam-fermented-plant-juice-preparation]]
 - [[cho-fermented-plant-juice-preparation]]
 - [[casing-soil-preparation-and-application]]

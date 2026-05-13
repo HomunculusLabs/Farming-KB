@@ -1,7 +1,7 @@
 ---
 title: DOI (2,5-Dimethoxy-4-Iodoamphetamine)
 source: shulgin-a-pihkal.md
-source_author: [[alexander-shulgin]]
+source_author: alexander-shulgin
 category: phenethylamines
 tags: [doi, amphetamine, psychedelic, 5-ht2a, radioligand, shulgin, receptor-mapping]
 mined: 2026-05-10
@@ -83,24 +83,12 @@ The R-isomer appears approximately 4x more potent than the S-isomer in humans, t
 
 ## 5-HT2 Receptor Research
 
-DOI's most important contribution to science is as a tool for studying [[psilocybin-pharmacology-and-serotonin-receptors]]:
-
-### Receptor Binding
-DOI has been shown to have extremely high binding capacity to 5-HT2 receptors, with subnanomolar affinity. It has become a standard reference compound in pharmacological studies of serotonergic psychedelics.
-
-### Radiolabelled DOI
-DOI synthesized with radioactive iodine isotopes has been used to:
-- Map brain [[fungal-biogeography-distribution-patterns]] using whole-body scanning
-- Study the time course of [[psychedelic-drug-testing-and-adulterant-screening]] distribution in living subjects
-- Investigate the localization of other [[psychedelic-compounds-reference]] by extrapolation
+DOI's most important contribution to science is as a tool for studying [[fungal-biogeography-distribution-patterns]] using whole-body scanning
+- Study the time course of [[psychedelic-compounds-reference]] by extrapolation
 - Track pulmonary-first metabolism of amphetamine psychedelics
 
 ### The Receptor Subtype Problem
-Shulgin noted with characteristic dry humor the proliferation of [[serotonin-receptor-interference-psychedelic-mechanism]] subtypes: "The scientist would never want to let the layman know just what he is talking about." The subdivision of 5-HT receptors into 1a, 1b, 2a, 2b, and further sub-subtypes was driven in part by the availability of selective compounds like DOI that could distinguish between them.
-
-## Commercial Research Availability
-
-A small neurochemical research company on the US [[east-coast-sour-diesel-clone-lineage-chemdawg-family-tree]] offered radiolabelled DOI as a commercial product for research experiments. Shulgin noted with suspicion that the price had nearly doubled and that telephone orders were no longer accepted for this compound — suggesting awareness of its psychoactive properties despite its sale as a research tool.
+Shulgin noted with characteristic dry humor the proliferation of [[east-coast-sour-diesel-clone-lineage-chemdawg-family-tree]] offered radiolabelled DOI as a commercial product for research experiments. Shulgin noted with suspicion that the price had nearly doubled and that telephone orders were no longer accepted for this compound — suggesting awareness of its psychoactive properties despite its sale as a research tool.
 
 ## Comparison with DOB and DOC
 
@@ -115,6 +103,5 @@ All three share the pattern of extreme potency, long duration, R-isomer dominanc
 ## See Also
 
 - dob 25 dimethoxy 4 bromoamphetamine — the bromo analogue
-- [[shulgin-a-pihkal-2c-b-4-bromo-25-dimethoxyphenethylamine]] — the 2-carbon analogue
 - [[psilocybin-pharmacology]] — the primary receptor target
 - [[shulgin-dom-stp-phenethylamine-amphetamine-relationship]] 4 methyl 25 dimethoxyamphetamine — the methyl prototype of the DO series

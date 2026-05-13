@@ -42,13 +42,7 @@ Organizing by ecological group recognizes that:
 
 ### Aquatic Fungi
 
-**Freshwater habitats:** Includes single-celled aquatic species and other aquatic fungi such as [[aquatic-hyphomycetes-and-ingoldian-spores]]. These fungi play critical roles in leaf decomposition in streams and are sampled using specialized techniques including foam collection, leaf pack incubation, and baiting.
-
-**Marine habitats:** Fungi in marine and estuarine environments, including those associated with driftwood, algae, and marine invertebrates.
-
-### Soil-Associated Fungi
-
-Soil fungi are widely distributed and include species from multiple phyla. Sampling typically involves soil [[particle-filtration-dilution-plating-microfungal-isolation]], direct isolation, molecular methods, or baiting techniques. Soil fungi represent one of the most diverse and least characterized fungal groups.
+**Freshwater habitats:** Includes single-celled aquatic species and other aquatic fungi such as [[particle-filtration-dilution-plating-microfungal-isolation]], direct isolation, molecular methods, or baiting techniques. Soil fungi represent one of the most diverse and least characterized fungal groups.
 
 ### Wood-Inhabiting Fungi
 
@@ -58,9 +52,7 @@ Soil fungi are widely distributed and include species from multiple phyla. Sampl
 
 ### Obligate Root Mutualists (Mycorrhizal Fungi)
 
-**Ectomycorrhizal fungi:** Form sheaths around root tips of forest trees. Surveyed through both sporocarp surveys and [[fungal-microscopic-examination-mounting-media-techniques]] of root tips.
-
-**[[arbuscular-mycorrhizal-fungi]]:** Form arbuscules within root cortical cells. Surveyed primarily through root staining and microscopic examination, or molecular methods targeting spores in soil.
+**Ectomycorrhizal fungi:** Form sheaths around root tips of forest trees. Surveyed through both sporocarp surveys and [[arbuscular-mycorrhizal-fungi]]:** Form arbuscules within root cortical cells. Surveyed primarily through root staining and microscopic examination, or molecular methods targeting spores in soil.
 
 **Other types:** Ericoid, orchid, and ectendomycorrhizal fungi, each requiring specialized sampling approaches.
 
@@ -70,23 +62,7 @@ Fungi living asymptomatically within plant tissues. Sampling involves surface st
 
 ### Plant Pathogens
 
-**Biotrophic pathogens:** Obligate parasites including rusts and [[biodiversity-powdery-mildews]] that can only grow on living host tissue. Surveyed through symptom-based field searches and microscopic examination.
-
-**Necrotrophic and hemibiotrophic pathogens:** Fungi that kill host tissue. Isolated from diseased plant material using standard microbiological techniques.
-
-**Facultative pathogens:** Species that can live as saprobes but cause disease under certain conditions, complicating their detection and classification.
-
-### Lichen-Forming Fungi
-
-Symbiotic associations between fungi (primarily ascomycetes) and photosynthetic partners (algae or cyanobacteria). Surveyed through standardized plot searches of bark, rock, and soil surfaces. Many lichen-forming fungi are perennial and can be found at any time of year.
-
-### Fungi Associated with Insects and Other Animals
-
-**Entomopathogenic fungi:** Fungi that pathogenize insects, including *Beauveria*, *Metarhizium*, and *Cordyceps* species.
-
-**Insect symbionts:** Fungi living in mutualistic associations with insects, including those cultivated by leaf-cutter ants and termites.
-
-**Dung fungi (coprophiles):** Specialized fungi growing on herbivore dung, including many zygomycetes and ascomycetes with explosive [[bloomfields-orchard-spore-discharge-mechanisms]].
+**Biotrophic pathogens:** Obligate parasites including rusts and [[bloomfields-orchard-spore-discharge-mechanisms]].
 
 ## Practical Applications
 
@@ -117,8 +93,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[fungal-biodiversity]]
 - [[dom]]
-- [[det]]
 - [[spore]]
 - [[metarhizium]]

@@ -21,56 +21,17 @@ molds are a vague group of not-so-great-for-your-plant fungi, but
 which fungi are in the group and which are not has not been defined,
 at least as far as current knowledge goes.
 
-In the scientific world, we talk about [[cervantes-compost-tea-organic-brewing]], but not many. Yeasts are [[foliar-epiphytic-fungi-sooty-mildews-powdery-mildews]] develop
+In the scientific world, we talk about [[foliar-epiphytic-fungi-sooty-mildews-powdery-mildews]] develop
 after scale gets established because the beneficial organisms consume
 the honeydew so the sooty mold lacks food.
 
 Black spot, on the other hand, harms the plant. The enzymatic ability
 of the black-spot fungi is so weak that it cannot outcompete any
-other organism on the [[bloomfield-rust-germ-tube-tactile-sensing-leaf-surface-navigation]]. If some organism is already
-present on the leaf surface, the black spot fungus cannot push it
-out. The main agent of protection is coverage. Get the organisms
-back on your leaf surfaces, and then stop killing them. It is easy
-to protect your leaves from the fungus that causes black spot. The
-initial infection is just vaguely gray, as the fungal hyphae start
-growing on the leaf surface. As the hyphae mature, spores form and
-are black. The spot gets larger as the fungus grows outward.
-
-## Selecting for Beneficial Fungi
-
-The carbohydrate and starch media are best for pathogens. Avoid the
-starchy, carbohydrate, and sugary foods when trying to grow
-beneficial fungi. Stick to the lignin, cellulose, [[aact-fungal-dominant-tea]]
-should use materials like [[comparison-fish-hydrolysate-vs-fish-emulsion]], humic acids, and other
-complex fungal foods rather than simple sugars or starches. Take
-your cultures to the local University mycologist if you need help
-identifying what you have growing in your [[aact-compost-quality-standards-ingham]].
+other organism on the [[aact-fungal-dominant-tea]]
+should use materials like [[aact-compost-quality-standards-ingham]].
 
 The process of growing beneficial fungi in compost involves adding
-beneficial fungal foods and/or good tested [[bacterial-vs-fungal-compost-teas]] or worm
-castings to compost that needs improvement, and letting them grow
-at around 50% moisture. Pay attention to the kind of fungi growing.
-Good composts with good food resources will produce thick white
-strands. Bad composts produce only gray fuzz. Testing different
-composts with different food resources is the most reliable way
-to identify [[dighton-litter-quality-fungal-decomposition-rates]] material for your [[chamovitz-circadian-rhythm-internal-clock-plants]].
-## Practical Considerations
-
-When working with Yeasts and Molds in Compost Tea Systems, several practical factors should be
-carefully considered to achieve optimal results. These include
-the specific conditions of the implementation context, available
-resources, timing requirements, and the interactions between this
-topic and other elements of the broader system. A holistic view
-that considers these interconnections produces better outcomes.
-
-Environmental conditions such as temperature, moisture, and
-seasonal patterns significantly influence results. Monitoring these
-variables and adapting practices accordingly is essential for success.
-The most effective practitioners develop keen observation skills and
-respond flexibly to changing conditions rather than following rigid
-protocols regardless of circumstances or local variation.
-
-[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
+beneficial fungal foods and/or good tested [[dighton-litter-quality-fungal-decomposition-rates]] material for your [[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -111,8 +72,78 @@ through generations to modern scientific approaches, the evolution continues
 to inform current best practices and research directions.
 
 ## See Also
-- [[dom]]
 - [[spore]]
-- [[fungal-hyphae]]
 - [[decomposition]]
 - [[ingham-blackstrap-molasses-compost-tea-concentration-osmotic-effects]]
+
+## Overview
+
+Ingham Yeasts Molds Compost Tea represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish ingham yeasts molds compost tea
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving ingham extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Ingham Yeasts Molds Compost Tea finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for ingham yeasts molds compost tea. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+ingham yeasts molds compost tea and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Ingham Yeasts Molds Compost Tea has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of ingham yeasts molds compost tea into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions

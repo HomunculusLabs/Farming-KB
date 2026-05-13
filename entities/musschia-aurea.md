@@ -123,13 +123,8 @@ species action plan was developed in 2018 by the regional government.
 
 ## See Also
 
-- [[campanula-latifolia]]
 - [[campanula-fragilis]]
-- [[lobelia-tupa]]
 - [[trachelium-caeruleum]]
-- [[phyteuma-spicatum]]
 - [[adenophora-liliifolia]]
-- [[campanula-pyramidalis]]
 - [[symphyandra-cretica]]
-- [[jasione-perennis]]
 - [[wahlenbergia-hederacea]]

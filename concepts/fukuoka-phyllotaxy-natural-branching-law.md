@@ -12,16 +12,7 @@ Phyllotaxy is the fixed law governing the arrangement
 of leaves and branches on a plant. Every species follows
 a specific pattern of divergence and spacing that ensures
 no two leaves or branches overlap, and all receive equal
-ventilation and sunlight. [[masanobu-fukuoka]] used this
-principle as the foundation for his argument that fruit
-trees grown in their natural form never require pruning.
-
-## The Mathematical Order of Plant Growth
-
-In plants with a divergence angle of 72 degrees, each
-successive leaf emerges at that same fixed angle from the
-previous one. The sixth leaf on the branches of peach,
-persimmon, [[fukuoka-mandarin-orange-citrus]], orange, and cherry trees is
+ventilation and sunlight. [[fukuoka-mandarin-orange-citrus]], orange, and cherry trees is
 always located directly above the first leaf, and the
 eleventh leaf is always directly above the sixth. When the
 distance along the branch between two consecutive buds is
@@ -52,12 +43,7 @@ arrangement. One can clearly make out the chronology of
 branch emergence. The spacing and angle of the branches
 are regular and orderly. Never does one branch grow too
 long or cross with another branch. The same law operates
-in bamboo, cryptomeria, Japanese cypress, [[camphor]],
-camellia, Japanese maple, and all other trees.
-
-## Implications for Pruning
-
-Fukuoka asks: if [[holzer-wild-fruit-trees-and-hedges]] mountain pines were
+in bamboo, cryptomeria, Japanese cypress, [[holzer-wild-fruit-trees-and-hedges]] mountain pines were
 simply left to grow to their full size under natural
 conditions, would pruning ever be necessary? His answer
 is unequivocally no. The very goal that the gardener or
@@ -118,8 +104,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[camphor]]
 - [[fukuoka-mahayana-and-hinayana-natural-farming]]
-- [[fukuoka-natural-farming-philosophy-of-mu]]
 - [[fukuoka-natural-livestock-farming]]
 - [[fukuoka-natural-seedlings-versus-grafted-nursery-stock]]

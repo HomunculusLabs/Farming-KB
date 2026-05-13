@@ -17,17 +17,12 @@ type: concept
 
 # Ideal Form of High-Yielding Rice
 
-[[masanobu-fukuoka]]'s search for the ideal form of rice represents a unique
-convergence of practical agronomy and philosophical inquiry in *The
-Natural Way of Farming*. Rather than following the conventional laboratory
-approach of breaking down and analyzing rice plants, Fukuoka chose to
-observe from afar, seeking the true form of [[fukuoka-lundberg-family-farms-natural-rice-transition]] and asking what
+[[fukuoka-lundberg-family-farms-natural-rice-transition]] and asking what
 healthy rice is.
 
 ## Abandoning the Laboratory Approach
 
-Aware of the problems with [[solomon-soil-testing-laboratory-analysis-low-input-gardening]] of rice plants, Fukuoka
-chose instead to observe from afar, seeking the true form of [[fukuoka-lundberg-family-farms-natural-rice]]
+Aware of the problems with [[fukuoka-lundberg-family-farms-natural-rice]]
 and asking what healthy rice is. His approach was fundamentally different
 from conventional breeding, which selects for individual traits in
 isolation.
@@ -40,8 +35,7 @@ robust, and bears fine golden heads of grain. Even rice grown under
 terrible conditions on depleted soil gives surprisingly high yields.
 
 The conditions that produced the ideal form were precisely those of
-[[comparison-natural-farming-vs-permaculture]]: no tillage, no fertilizer, no pesticides, and the
-companionship of clover as a [[query-what-is-living-mulch-and-when-should-i-use-it]] nitrogen source.
+[[query-what-is-living-mulch-and-when-should-i-use-it]] nitrogen source.
 
 ## Eight Characteristics of Ideal Rice
 
@@ -81,9 +75,7 @@ per head or percent of ripened grains.
 
 ## The Inverted Triangular Shape
 
-The most counterintuitive finding was that the [[fukuoka-ideal-rice-plant-form-dimensions-high-yield]] has an
-inverted triangular shape: long second leaf with decreasing length
-downward. When leaves are unhealthy and droop, [[query-which-cannabis-training-techniques-produce-highest-yields]] come from
+The most counterintuitive finding was that the [[query-which-cannabis-training-techniques-produce-highest-yields]] come from
 small, erect top leaves that do not shield lower leaves from the sun.
 
 ## Suppressing Vegetative Growth
@@ -117,8 +109,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[fukuoka-ideal-rice-plant-form-dimensions-high-yield]]
 - [[fukuoka-textdoc-ideal-rice-morphology-high-yield-natural-farming]]
-- [[fukuoka-ideal-rice-plant-form-high-yield-cultivation]]
 - [[permaculture]]
 - [[fukuoka-ideal-rice-plant-morphology-compact-growth-high-yield]]

@@ -9,61 +9,7 @@ sources: []
 
 # Bioremediation of Polycyclic Aromatic Hydrocarbons
 
-Polycyclic aromatic hydrocarbons (PAHs) are a class of [[fungal-volatile-organic-compounds-communication]] consisting of two or more fused benzene rings that are widespread environmental contaminants resulting from incomplete combustion of organic matter and petroleum-related activities.
-
-PAHs are of significant environmental and health concern because many are mutagenic, carcinogenic, and teratogenic. The bioremediation of PAH-contaminated environments is an active area of research and practice.
-
-This page provides an overview of PAH bioremediation principles, complementing the detailed discussions of fungal-specific pathways in [[fungal-pah-degradation-pathways]], and [[pah-properties-toxicity-bioremediation]] provides detailed information on the chemical properties, toxicological profiles, and environmental behavior of priority PAHs.
-
-The recalcitrance of PAHs increases with molecular weight, number of rings, and degree of ring condensation.
-
-Benzo(a)pyrene, a five-ring PAH, is one of the most potent chemical carcinogens known and serves as a benchmark for evaluating the effectiveness of high molecular weight PAH bioremediation.
-
-In soil and sediment environments, PAHs become increasingly sequestered over time through partitioning into organic matter, diffusion into micropores, and encapsulation within soil aggregates, reducing their bioavailability to degrading microorganisms.
-
-## Bacterial Degradation of PAHs
-
-Aerobic bacterial degradation of PAHs is initiated by multicomponent dioxygenase enzyme systems that incorporate both atoms of molecular oxygen into the aromatic ring.
-
-The initial dioxygenation produces cis-dihydrodiol intermediates, which are subsequently dehydrogenated to catechol derivatives that undergo ring cleavage.
-
-Ring cleavage can proceed through ortho-cleavage (intradiol) or meta-cleavage (extradiol) pathways, producing central intermediates that feed into the tricarboxylic acid cycle.
-
-Bacterial degradation is most effective for low molecular weight PAHs that can serve as sole carbon and energy sources for growth.
-
-Naphthalene degradation by Pseudomonas species has been extensively studied and serves as a model system for understanding bacterial PAH metabolism.
-
-Phenanthrene and anthracene degradation has been demonstrated by numerous bacterial genera including Sphingomonas, Mycobacterium, and Pseudomonas.
-
-Degradation of four-ring PAHs such as pyrene and fluoranthene by bacteria typically requires cometabolism, where organisms growing on lower molecular weight PAHs produce enzymes that incidentally transform higher molecular weight compounds.
-
-Mycobacterium species are notable for their ability to degrade a relatively wide range of PAHs, including some four-ring compounds, through their mycolic acid-rich cell envelopes that facilitate interaction with hydrophobic substrates.
-
-Anaerobic PAH degradation proceeds through carboxylation, methylation, or reduction pathways, but these processes are generally much slower than aerobic degradation and are less well characterized.
-
-## Fungal Degradation of PAHs
-
-White-rot fungi play a uniquely important role in PAH bioremediation because their ligninolytic enzyme system can oxidize the highly recalcitrant high molecular weight PAHs that resist bacterial attack.
-
-The principal [[singh-ligninolytic-enzymes-fungal-bioremediation]] involved in PAH degradation are lignin peroxidase, [[fungal-manganese-peroxidase-remediation]], and laccase.
-
-Lignin peroxidase oxidizes PAHs through one-electron oxidation to generate aryl radical cations that undergo a variety of non-enzymatic reactions including ring opening, coupling, and incorporation of oxygen.
-
-Manganese peroxidase generates Mn(III)-organic acid complexes that act as diffusible oxidants, extending the reach of the enzyme system beyond the fungal hyphal surface.
-
-Laccase oxidizes phenolic PAHs and, in the presence of appropriate mediators, can also oxidize non-phenolic PAHs with higher ionization potentials.
-
-brown-rot-fungi-biodegradation.
-
-The fungal [[gadd-mycelial-network-dynamics]] can physically penetrate soil aggregates and access PAHs in microenvironments that are inaccessible to bacteria.
-
-[[mycoremediation-pah-and-pcb-degradation]] detail the application of fungal PAH degradation in field and pilot-scale systems.
-
-## Factors Affecting PAH Biodegradation
-
-Bioavailability is often the primary factor limiting PAH biodegradation in aged contaminated soils.
-
-PAHs that are strongly sorbed to organic matter or sequestered within soil aggregates are not readily accessible to degrading microorganisms.
+Polycyclic aromatic hydrocarbons (PAHs) are a class of [[fungal-pah-degradation-pathways]], and [[singh-ligninolytic-enzymes-fungal-bioremediation]] involved in PAH degradation are lignin peroxidase, [[gadd-mycelial-network-dynamics]] can physically penetrate soil aggregates and access PAHs in microenvironments that are inaccessible to bacteria.
 
 [[fungal-bioremediation-mechanisms]] describes the production and application of biosurfactants for enhancing PAH bioavailability and degradation.
 
@@ -83,8 +29,89 @@ Biopile and land farming systems are commonly used for ex situ treatment of PAH-
 
 Bioaugmentation with characterized PAH-degrading bacteria or fungi can accelerate treatment, particularly for high molecular weight PAHs that few indigenous organisms can degrade.
 
-[[constructed-wetlands-wastewater-treatment]] systems have been applied to PAH-contaminated water, where both plants and associated microbial communities contribute to contaminant removal.
+[[fungal-bioreactor-types]] and [[mycoremediation]] protocols for PAH remediation track the disappearance of individual PAH compounds, the reduction in total PAH mass, changes in toxicity, and shifts in the degrading [[edaphic-factors-microbial-community-structure]].
 
-Phytoremediation combined with mycorrhizal fungi, as described in [[fungal-bioreactor-types]] and [[enzyme-based-bioremediation]].
+## Overview
 
-[[mycoremediation]] protocols for PAH remediation track the disappearance of individual PAH compounds, the reduction in total PAH mass, changes in toxicity, and shifts in the degrading [[edaphic-factors-microbial-community-structure]].
+Pah Bioremediation represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish pah bioremediation
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving pah extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Pah Bioremediation finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for pah bioremediation. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+pah bioremediation and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Pah Bioremediation has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of pah bioremediation into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[comparison-brown-rot-vs-white-rot-bioremediation]]
+- [[heavy-metal-bioremediation]]
+- [[singh-genetically-engineered-fungi-bioremediation]]
+- [[singh-phytotoxicity-testing-bioremediation-assessment]]
+- [[white-rot-fungi-in-pesticide-and-btex-bioremediation]]

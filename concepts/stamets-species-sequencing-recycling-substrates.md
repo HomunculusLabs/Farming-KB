@@ -8,19 +8,9 @@ sources:
   - "raw/papers/david-holmgren-permaculture-principles-pathways-beyon.md"
   - "raw/papers/david-holmgren-permaculture-principles-pathways-beyon.md"
 ---
-# Stamets Species Sequencing and Substrate Recycling #mushroom-cultivation #permaculture #sustainable-agriculture #substrate-recycling Updated: 2026-04-18 Source: Paul Stamets, Growing Gourmet and Medicinal Mushrooms (1993), Ch. 22 ## Overview Species sequencing is Stamets' technique for recycling spent mushroom substrates by re-inoculating them with a different mushroom species. Each decomposer has unique enzymes that partially break down wood and lignocellulose. By sequencing species in succession, cultivators can extract maximum nutritional value from a single batch of substrate material, with the end product being rich humus for gardening and permaculture. See also [[staycare-spent-mushroom-compost-bioremediation]], [[paddy-straw-mushroom-volvariella-volvacea-cultivation]], [[shiitake-cultivation-guide]]
-
-### Stage 2: Oyster Mushroom (Pleurotus spp.)
-- No nutritional amendment needed for second stage
-- The partially decomposed substrate has sufficient accessible nutrients
-- Can grow multiple flushes
-- See [[king-oyster-cultivation]], king-stropharia-wine-cap-cultivation, [[outdoor-mushroom-bed-preparation]], king-stropharia-wine-cap-cultivation
-
-Stump culture represents the longest-term version of substrate recycling -- living stumps can produce mushrooms for 5-10+ years with no additional input. See [[permaculture-principles]]:
-- [[holmgren-produce-no-waste-waste-hierarchy-refuse-reduce-reuse-repair-recycle]] (every bit of substrate is used)
+# Stamets Species Sequencing and Substrate Recycling #mushroom-cultivation #permaculture #sustainable-agriculture #substrate-recycling Updated: 2026-04-18 Source: Paul Stamets, Growing Gourmet and Medicinal Mushrooms (1993), Ch. 22 ## Overview Species sequencing is Stamets' technique for recycling spent mushroom substrates by re-inoculating them with a different mushroom species. Each decomposer has unique enzymes that partially break down wood and lignocellulose. By sequencing species in succession, cultivators can extract maximum nutritional value from a single batch of substrate material, with the end product being rich humus for gardening and permaculture. See also [[paddy-straw-mushroom-volvariella-volvacea-cultivation]], [[king-oyster-cultivation]], king-stropharia-wine-cap-cultivation, [[permaculture-principles]]:
 - [[holmgren-obtain-a-yield-detailed]] (multiple harvests from single input)
-- Use and [[permaculture-principle-use-and-value-renewable-resources]] resources (wood waste becomes food)
-- [[permaculture-principle-integrate-rather-than-segregate]] than segregate ([[accessible-mushroom-cultivation-for-disabilities]] feeds into gardening)
+- Use and [[permaculture-principle-integrate-rather-than-segregate]] than segregate ([[accessible-mushroom-cultivation-for-disabilities]] feeds into gardening)
 
 The technique can be scaled from kitchen-scale (one block at a time) to commercial operations handling tons of substrate per cycle.
 ## Practical Applications

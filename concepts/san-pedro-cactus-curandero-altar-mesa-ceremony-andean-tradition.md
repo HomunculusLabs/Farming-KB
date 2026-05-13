@@ -9,8 +9,7 @@ created: 2026-05-10
 
 ## Overview
 
-The ceremonies of the San Pedro cactus ([[echinopsis-pachanoi]], formerly
-[[trichocereus-pachanoi]]) in the Andean regions of South America represent
+The ceremonies of the San Pedro cactus ([[trichocereus-pachanoi]]) in the Andean regions of South America represent
 one of the oldest continuously practiced entheogenic traditions in the
 world. Metzner describes how these ceremonies are sometimes conducted
 around a fire with singing, similar to other shamanic traditions, but
@@ -29,9 +28,7 @@ back to the Chavin culture (circa 1000 BCE).
 
 The primary psychoactive compound in San Pedro is mescaline, the same
 alkaloid found in peyote. However, the ceremonial traditions, cultural
-contexts, [[gottlieb-peyote-extraction-and-preparation-methods]] differ significantly between the
-Andean San Pedro ceremonies and the North American peyote ceremonies of
-the [[halpern-sacramental-peyote-and-native-american-church]].
+contexts, [[halpern-sacramental-peyote-and-native-american-church]].
 
 ## The Curandero: Andean Healing Practitioner
 

@@ -92,15 +92,11 @@ Propagation is by seed sown in autumn or by division of established clumps in ea
 
 The species is relatively disease-free but can suffer from slug damage in damp conditions. Crown rot may occur in poorly drained situations. It is unsuited to hot, humid summers and performs best in regions with cool nights.
 
-It is suited for crevice planting in rock walls, trough gardens, and alpine house cultivation. In cultivation it may hybridize with other dwarf campanulas, particularly [[campanula-cochlearifolia]] and [[campanula-poscharskyana]].
+It is suited for crevice planting in rock walls, trough gardens, and alpine house cultivation. In cultivation it may hybridize with other dwarf campanulas, particularly [[campanula-poscharskyana]].
 
 ## See Also
 
-- [[campanula-rotundifolia]] — widespread bellflower, close relative
 - [[campanula-scheuchzeri]] — alpine bellflower, morphologically similar
-- [[campanula-cochlearifolia]] — fairy's thimble, dwarf alpine species
 - [[campanula-barbata]] — bearded bellflower, alpine calcicole
-- [[campanula-uniflora]] — single-flowered arctic-alpine bellflower
 - [[campanula-carpatica]] — tussock bellflower, cultivated rock garden species
-- [[campanula-garganica]] — Adriatic bellflower, limestone specialist
 - [[campanula-portenschlagiana]] — Dalmatian bellflower, wall crevice species

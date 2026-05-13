@@ -8,29 +8,14 @@ tags: [mycology, taxonomy, cantharellales, agaricomycetes, basidiomycota]
 
 ## Overview
 
-Cantharellales is an order of [[singh-basidiomycete-fungi-in-petroleum-hydrocarbon-cleanup]] within the class Agaricomycetes that includes some of the most highly prized [[palmer-edible-mushrooms-north-america]] (chanterelles) as well as ecologically critical mycorrhizal partners and plant pathogens. The order is morphologically diverse, encompassing fungi with forked ridges, true gills, teeth, and smooth hymenophores, as well as microscopic "resupinate" crusts that form essential [[teaming-with-microbes-fungi-and-mycorrhizal-relationships]] with orchids and forest trees. Molecular phylogenetics has united these disparate forms into a well-supported monophyletic order.
-
-## Taxonomic History
-
-The order Cantharellales was historically a small group centered on the genus Cantharellus (chanterelles). Early classification placed chanterelles near the gilled mushrooms (Agaricales) due to their above-ground, mushroom-like [[bloomfield-asterophora-and-mycoparasites-of-fruiting-bodies]]. The application of molecular systematics, particularly the multi-gene analyses of Hibbett et al. (2007) and the comprehensive phylogeny of Buyck et al. (2014) and Binder et al. (2013), dramatically expanded the order to include genera previously scattered across multiple orders.
+Cantharellales is an order of [[palmer-edible-mushrooms-north-america]] (chanterelles) as well as ecologically critical mycorrhizal partners and plant pathogens. The order is morphologically diverse, encompassing fungi with forked ridges, true gills, teeth, and smooth hymenophores, as well as microscopic "resupinate" crusts that form essential [[bloomfield-asterophora-and-mycoparasites-of-fruiting-bodies]]. The application of molecular systematics, particularly the multi-gene analyses of Hibbett et al. (2007) and the comprehensive phylogeny of Buyck et al. (2014) and Binder et al. (2013), dramatically expanded the order to include genera previously scattered across multiple orders.
 
 Key molecular findings included:
 - The genus *Craterellus* (trumpet chanterelles) is nested within Cantharellales
 - The tooth fungus genus *Hydnum* (hedgehog mushrooms) belongs in Cantharellales
 - The important orchid mycorrhizal genus *Tulasnella* is a member
 - The plant pathogenic genus *Ceratobasidium* (cause of rice sheath blight and other crop diseases) is included
-- The economically damaging *Thanatephorus cucumeris* ([[gadd-mathematical-modelling-rhizoctonia-solani-mycelial-growth]] teleomorph) is a cantharelloid fungus
-
-## Morphological Features
-
-### Hymenophore Diversity
-Cantharellales exhibit remarkable hymenophore variation:
-
-**Blanched ridges (cantharelloid)**: *Cantharellus* species have shallow, blunt, forking ridges on the hymenophore that resemble blunt gills but are structurally distinct. These ridges are typically decurrent (running down the stipe), cross-veined, and blunt-edged — never sharp or blade-like. This morphology is intermediate between gills and pores and is the hallmark of the order's type genus.
-
-**True gills (lamellate)**: Some Cantharellales have well-developed lamellae, including *Arrhenia*, *Lichenomphalia*, and certain *Craterellus* species. These gills are often thick, waxy, and widely spaced compared to those of Agaricales.
-
-**Teeth (odontoid)**: *Hydnum* species produce a tooth-like hymenophore with spines or teeth hanging vertically from the underside of the pileus. *[[hydnum-repandum]]* (sweet tooth, hedgehog mushroom) is a prized edible with pale teeth. This morphology converges with similar forms in Hericiales and some Polyporales.
+- The economically damaging *Thanatephorus cucumeris* ([[hydnum-repandum]]* (sweet tooth, hedgehog mushroom) is a prized edible with pale teeth. This morphology converges with similar forms in Hericiales and some Polyporales.
 
 **Smooth to wrinkled**: Resupinate (crust-forming) genera like *Tulasnella*, *Ceratobasidium*, and *Thanatephorus* have smooth, tuberculate, or merulioid hymenophores. These are often visible only as thin crusts on substrate surfaces or are entirely microscopic.
 
@@ -61,13 +46,7 @@ Cantharellaceae contains the classic chanterelles:
 
 **Cantharellus**: The type genus, with approximately 90 described species worldwide. The genus has been substantially revised by molecular work, with many new species described from Africa, Asia, and the Americas. Major groups include:
 - *C. cibarius* group: golden chanterelle complex, widespread in temperate Northern Hemisphere forests, associated with oaks, beeches, spruces, and other trees
-- *C. lateritius* group: smooth chanterelle, widespread in [[polypore-fungi-eastern-north-america]] and parts of Asia
-- *C. minor* and allies: small tropical chanterelles from Africa and Asia
-- *C. floridulus*: East Asian species
-- *C. subalbidus*: white chanterelle from the [[psilocybin-north-america-pacific-northwest]] [[berry-growing]]
-
-**Craterellus**: Trumpet chanterelles and black trumpets:
-- *C. tubaeformis* (yellowfoot): funnel-shaped, yellow-brown, autumn fruiting in conifer forests. Very common in northern Europe and [[guzman-psilocybin-mushrooms-north-america]]. Prized edible with excellent flavor.
+- *C. lateritius* group: smooth chanterelle, widespread in [[psilocybin-north-america-pacific-northwest]] [[guzman-psilocybin-mushrooms-north-america]]. Prized edible with excellent flavor.
 - *C. cornucopioides* (black trumpet, horn of plenty): dark gray to black, trumpet-shaped, with a smoky, rich flavor. Considered by many to equal or surpass golden chanterelles in culinary quality.
 - *C. cinereus* (ashen chanterelle): gray to brown, related to black trumpet
 
@@ -83,10 +62,7 @@ The genus *Sistotrema* is also placed in Hydnaceae. Sistotrema species are mostl
 ### Tulasnellaceae
 Tulasnellaceae is one of the most ecologically important families in the order, despite its members being largely microscopic:
 
-**Tulasnella**: These fungi form the essential mycorrhizal partner for the majority of orchid species worldwide. Orchid seeds are microscopic and contain virtually no energy reserves; they require infection by an appropriate Tulasnella species (or sometimes other fungi) to germinate and develop into a protocorm. This obligate mycorrhizal relationship has driven orchid evolution, ecology, and [[fungal-conservation-challenges]]. *Tulasnella* species are cosmopolitan and highly host-specific, with different orchid species requiring different Tulasnella strains.
-
-### Ceratobasidiaceae
-Ceratobasidiaceae contains important plant pathogens and [[arbuscular-mycorrhizal-fungi]]:
+**Tulasnella**: These fungi form the essential mycorrhizal partner for the majority of orchid species worldwide. Orchid seeds are microscopic and contain virtually no energy reserves; they require infection by an appropriate Tulasnella species (or sometimes other fungi) to germinate and develop into a protocorm. This obligate mycorrhizal relationship has driven orchid evolution, ecology, and [[arbuscular-mycorrhizal-fungi]]:
 
 ## Practical Applications
 
@@ -117,8 +93,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[psilocybin]]
 - [[spore-print]]
-- [[spore]]
 - [[orchid-mycorrhiza]]
 - [[ectomycorrhiza]]

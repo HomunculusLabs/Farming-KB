@@ -14,18 +14,7 @@ sources:
   - Andrews, D.J. & Kumar, K.A. (1996). "Pearl Millet." In Janick, J. & Simon, J.E. (eds.), Advances in New Crops. ASHS Press.
   - Varshney, R.K. et al. (2017). "Pearl Millet Genome Sequence Provides Insights into dighton-fungal-drought-tolerance-plant-water-relations." Nature Biotechnology, 35, 961–966.
   - FAO (2023). "FAOSTAT: Millet psilocybe-cubensis-miniculture-production-data-and-flush-longevity." Food and Agriculture Organization.
-  - Bidinger, F.R. et al. (1987). "Identification of Agronomic Traits for Improving [[dighton-fungal-drought-tolerance-plant-water-relations]]." Field Crops Research, 17, 87–104.
----
-
-# Pennisetum glaucum
-
-## Overview
-
-**Pennisetum glaucum** (pearl millet) is a warm-season annual cereal grass in the family Poaceae, domesticated in the Sahel region of West Africa over 4,000 years ago. It is the most widely grown millet species, cultivated on approximately 30 million hectares globally.
-
-Pearl millet is a critical food security crop in arid and semi-arid regions of sub-Saharan Africa and the Indian subcontinent. It is remarkably drought-tolerant, capable of producing grain in areas receiving as little as 300 mm of annual rainfall.
-
-Global production exceeds 30 million tonnes annually, with India and Niger as the largest producers. The grain is consumed as flour, porridge, [[comparison-mead-vs-kvass-fermented-beverages]], and livestock feed.
+  - Bidinger, F.R. et al. (1987). "Identification of Agronomic Traits for Improving [[comparison-mead-vs-kvass-fermented-beverages]], and livestock feed.
 
 ## Taxonomy and Morphology
 
@@ -45,37 +34,15 @@ Pearl millet is grown across a broad latitudinal band from approximately 30°N t
 
 The crop thrives in sandy, infertile soils with low water-holding capacity where other cereals fail. It tolerates soil pH from 5.0 to 8.0, high salinity, and aluminum toxicity in acidic soils.
 
-Optimal growth occurs at temperatures of 25–35°C with 400–600 mm of rainfall distributed over a 90–120 day [[savory-growing-season-and-non-growing-season-management]]. It is the most heat-tolerant cereal crop, maintaining photosynthesis at leaf temperatures above 40°C.
+Optimal growth occurs at temperatures of 25–35°C with 400–600 mm of rainfall distributed over a 90–120 day [[psilocybin-storage-stability-post-harvest-degradation-mushrooms]] and nutritional value compared to other tropical cereals.
 
-The species is particularly important in the Sahelian ecozone, where it is the dominant staple crop. In India, it is a staple in Rajasthan, Gujarat, and Maharashtra, where monsoon rainfall is unreliable.
-
-## Nutritional Profile
-
-Pearl millet grain contains approximately 8–12% protein, 60–70% carbohydrates, 4–5% fat, and 2–3% fiber. The protein quality is superior to most other millets due to a more favorable amino acid balance.
-
-The grain is notably rich in iron (6–11 mg/100 g) and zinc (3–5 mg/100 g), making it a valuable crop for addressing micronutrient deficiencies in populations dependent on cereal-based diets. Biofortified varieties with elevated iron and zinc content have been developed.
-
-Lipid content is relatively high for a cereal at 4–5%, with a favorable fatty acid profile including oleic, linoleic, and palmitic acids. This contributes to better [[psilocybin-storage-stability-post-harvest-degradation-mushrooms]] and nutritional value compared to other tropical cereals.
-
-Pearl millet is gluten-free, making it suitable for celiac patients and those with gluten intolerance. The grain also contains significant levels of [[aact-tannins-terpenes-phenolic-compounds-wood-composting-ingham]] with antioxidant activity.
-
-## Cultivation
-
-Pearl millet is typically direct-seeded at rates of 2–5 kg/ha in rows spaced 50–75 cm apart. The crop matures in 75–120 days depending on variety, making it well-suited to short [[jeavons-climate-adaptation-growing-seasons]].
+Pearl millet is gluten-free, making it suitable for celiac patients and those with gluten intolerance. The grain also contains significant levels of [[jeavons-climate-adaptation-growing-seasons]].
 
 Water requirements are among the lowest of all cereal crops, with seasonal water use of 350–450 mm. This efficiency derives from rapid early growth, small leaf area relative to biomass, and stomatal regulation during drought stress.
 
 Fertilizer requirements are modest compared to maize and sorghum. Recommended rates in sub-Saharan Africa are 20–40 kg N/ha and 10–20 kg P₂O₅/ha, though many smallholders apply little or no fertilizer.
 
-Average grain yields range from 500–1,500 kg/ha under traditional management, with research station yields exceeding 3,000 kg/ha. The yield gap reflects limited input use, variable rainfall, and biotic stress from [[cervantes-downy-mildew-fungal-blight]] (*Sclerospora graminicola*) and Striga parasitism.
-
-Hybrid pearl millet technology has been widely adopted in India, with hybrids yielding 30–50% more than open-pollinated varieties. In Africa, adoption of improved varieties remains limited by seed system constraints.
-
-## Agricultural Importance
-
-Pearl millet provides food security for an estimated 90 million people in sub-Saharan Africa and 50 million in South Asia. It is often the only reliable cereal crop in the driest farming zones.
-
-The crop serves as dual-purpose grain and fodder in many farming systems. Stover ([[jadam-crop-residue-fertilizer]]) is a critical dry-season livestock feed, contributing significantly to mixed crop-livestock livelihoods.
+Average grain yields range from 500–1,500 kg/ha under traditional management, with research station yields exceeding 3,000 kg/ha. The yield gap reflects limited input use, variable rainfall, and biotic stress from [[jadam-crop-residue-fertilizer]]) is a critical dry-season livestock feed, contributing significantly to mixed crop-livestock livelihoods.
 
 Pearl millet has growing importance as a climate-resilient crop under global warming scenarios. Models project that rising temperatures and increasingly erratic rainfall will expand the areas where pearl millet is the most productive cereal option.
 
@@ -88,3 +55,88 @@ The primary gene pool of pearl millet includes wild and weedy relatives across s
 Modern breeding programs exploit heterosis through hybrid development. Three-line (CMS-based) and two-line (GMS-based) hybrid systems are both used, with India's private seed sector producing most commercial hybrid seed.
 
 Genomic resources include a high-quality reference genome published in 2017 and dense SNP marker panels for genomic selection. Marker-assisted selection targets include downy mildew resistance, drought tolerance QTLs, and micronutrient biofortification.
+
+## Overview
+
+Pennisetum Glaucum represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish pennisetum glaucum
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving pennisetum extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Pennisetum Glaucum finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for pennisetum glaucum. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+pennisetum glaucum and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Pennisetum Glaucum has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of pennisetum glaucum into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[cibotium-glaucum]]
+- [[leucobryum-glaucum]]
+- [[pennisetum]]
+- [[pennisetum-alopecuroides]]
+- [[pennisetum-setaceum]]

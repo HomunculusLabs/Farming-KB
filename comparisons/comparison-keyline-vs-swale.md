@@ -18,10 +18,7 @@ strategies for managing water on agricultural and permaculture landscapes.
 
 While both aim to capture, store, and redistribute water across a site, they
 differ fundamentally in their design philosophy, scale of implementation, and
-underlying mechanisms of [[keyline-design]] was developed by P.A. Yeomans in 1950s Australia as a
-comprehensive landscape planning system.
-
-[[david-holmgren]].
+underlying mechanisms of [[david-holmgren]].
 
 Both approaches recognize that water is the primary driver of landscape health
 and that thoughtful management of water movement can reverse degradation, build
@@ -29,81 +26,7 @@ soil, increase biological productivity, and create lasting drought resilience.
 
 ## Keyline Design
 
-Keyline design identifies a specific [[comparison-swale-vs-contour-line-water-management]] on a landscape called the
-keypoint. This is located where the valley slope transitions from convex
-(steeper upper slope) to concave (flatter lower slope).
-
-This transition point marks where water naturally begins to slow down and
-spread across the landscape rather than concentrating in the valley floor.
-
-From this keypoint, the keyline extends across the landscape following contours
-of equal elevation, creating a reference line for all subsequent cultivation
-and earthworks.
-
-Cultivation and plowing are done parallel to the keyline rather than strictly
-on contour. This has a critical effect on water distribution across the land.
-
-When plowing parallel to the keyline moving away from the valley center, the
-cultivation lines gradually fall off contour. This redirects water that would
-normally concentrate in valleys outward toward the ridges.
-
-The result is a remarkably even distribution of soil moisture across the entire
-landscape, rehydrating dry ridges while reducing saturation in valley floors.
-
-The keyline system encompasses much more than a single ditch or channel. It is
-a holistic landscape management approach that includes the Keyline Scale of
-Permanence, which establishes a priority hierarchy for farm planning decisions.
-
-The Scale of Permanence orders planning priorities as: climate, landform, water
-supply, roads, trees, buildings, and subdivision. This ensures foundational
-elements are planned first.
-
-Keyline cultivation is performed with a Yeomans-style plow that uses shanks to
-shatter compacted subsoil without inverting the soil profile, improving deep
-water infiltration and root penetration while preserving surface soil structure.
-
-## Swale Systems
-
-Swales are level channels dug on contour across a slope, designed to intercept
-surface runoff, slow it down, and allow it to infiltrate into the soil profile.
-
-A standard swale consists of a ditch on the uphill side and a berm (a mound
-of excavated soil) on the downhill side. The berm is typically planted with
-trees, shrubs, and perennial vegetation whose roots access the stored water.
-
-Spillways are incorporated at safe intervals to handle overflow during extreme
-rainfall events and prevent catastrophic failure of the berm structure.
-
-Unlike keyline design, swales are discrete, localized features that can be
-installed independently on small properties, urban lots, or garden beds.
-
-They do not redistribute water across the landscape. Instead, they capture and
-infiltrate water at specific points along a slope for localized benefit.
-
-Multiple swales are often installed in a stair-step pattern down a hillside,
-creating a cascading system of water storage and infiltration as each swale
-captures overflow from the one above.
-
-Swales are particularly effective for establishing tree crops, food forests,
-and agroforestry systems because the berm provides a fertile, well-watered
-planting zone above the saturated swale bottom.
-
-The infiltrated water creates a subsurface lens of moisture that tree roots
-can access during dry periods, significantly improving establishment success.
-
-Swale spacing depends on slope steepness, soil type, and rainfall patterns. On
-gentle slopes, swales can be spaced farther apart; on steeper slopes they
-should be closer together to prevent excessive water velocity.
-
-## Key Differences
-
-| Feature | Keyline Design | Swale Systems |
-|---|---|---|
-| Origin | P.A. Yeomans, 1950s Australia | Permaculture tradition |
-| Scope | Whole landscape planning system | Individual water-harvesting feature |
-| Design Line | Keypoint contour, parallel cultivation | Strictly on contour, level bottom |
-| Water Strategy | Redistributes valley water to ridges | Captures and infiltrates water in place |
-| Primary Tool | Yeomans plow, deep ripping | Shovel, excavator, or [[soil-conditioning-chisel-plow-biological-methods]] |
+Keyline design identifies a specific [[soil-conditioning-chisel-plow-biological-methods]] |
 | Best Scale | Broadacre, large properties | Any scale including urban lots |
 | Maintenance | Periodic subsoiling as needed | Berm repair, spillway clearing |
 | Integration | Roads, trees, buildings, subdivision | Food forests and tree crops |
@@ -141,6 +64,87 @@ deep infiltration capacity, followed by swale installation where intensive food
 production is planned.
 
 ## See Also
-- [[keyline-design]]
-- pdc-water-harvesting-design
 - [[permaculture-design]]
+
+## Overview
+
+Comparison Keyline Vs Swale represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish comparison keyline vs swale
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving comparison extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Comparison Keyline Vs Swale finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for comparison keyline vs swale. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+comparison keyline vs swale and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Comparison Keyline Vs Swale has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of comparison keyline vs swale into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[comparison-beeswax-vs-shellac-vs-carnauba-wax]]
+- [[comparison-bioaugmentation-vs-biostimulation]]
+- [[comparison-gypsum-vs-rock-phosphate]]

@@ -14,10 +14,8 @@ sources:
 # Psilocybe aucklandii
 
 **Psilocybe aucklandii** Guzmán, C.C. King & Bandala, commonly known as
-the Auckland Psilocybe or King's Psilocybe, is a [[gartz-conocybe-cyanopus-rare-psychoactive-mushroom]]
-species native to New Zealand. It belongs to [[psilocybe-zapotecorum-section-zapotecorum-americas-pacific-distribution-guzman-1998]] of the
-genus *Psilocybe* and is closely related to [[psilocybe-zapotecorum]]
-from Mexico and [[guzman-psilocybin-mushrooms-south-america]]. The species was described by Guzmán, King,
+the Auckland Psilocybe or King's Psilocybe, is a [[psilocybe-zapotecorum-section-zapotecorum-americas-pacific-distribution-guzman-1998]] of the
+genus *Psilocybe* and is closely related to [[guzman-psilocybin-mushrooms-south-america]]. The species was described by Guzmán, King,
 and Bandala and is known from the Auckland region and the North Island of
 New Zealand, where it grows in association with native and introduced
 vegetation.
@@ -36,9 +34,7 @@ vegetation.
 Guzmán noted that *P. aucklandii* is closely related to *P. zapotecorum*
 from Mexico and South America, with both species belonging to Section
 Zapotecorum. This relationship is of biogeographic interest, suggesting
-ancient Gondwanan [[fungal-biogeography-distribution-patterns]] or long-distance dispersal events.
-The species was included as number 66 in the Guzman, Allen, and Gartz
-(1998) worldwide checklist [[distribution-of-neurotropic-fungi]].
+ancient Gondwanan [[distribution-of-neurotropic-fungi]].
 
 ## Morphology
 

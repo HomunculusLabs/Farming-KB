@@ -15,8 +15,7 @@ type: concept
 This landmark study by Winston et al. (2014) provides the first description of the
 endorhiza, rhizosphere, and bulk soil-associated microbiome of five distinct Cannabis
 cultivars. The research supports a two-tier selection model where soil type determines
-[[core-endorhiza-bacterial-community-composition-cannabis]] across sample types while host cultivar determines community
-structure within endorhiza samples. For related work, see [[cannabis-root-microbiome]] pages.
+[[cannabis-root-microbiome]] pages.
 
 ## Study Design
 
@@ -30,39 +29,14 @@ Samples taken eight weeks post-harvest. 27 total samples.
 types with significant edaphic variation. Samples taken two weeks pre-harvest from
 organically grown plants in Vista and Orange County, California. 42 total samples.
 
-Total: 69 samples analyzed via Illumina 16S [[16s-rrna-sequencing-microbiome-analysis]] of the V4 region.
-
-## The Two-Tier Selection Model
-
-A growing body of research unites rhizosphere and plant tissue colonization under
-a two-tier selection model:
-
-### Tier 1: Soil Determination of Community Composition
-[[soil-edaphic-factors-microbial-communities]] determine the structure of the local soil microbiota, which
+Total: 69 samples analyzed via Illumina 16S [[soil-edaphic-factors-microbial-communities]] determine the structure of the local soil microbiota, which
 becomes the source for the first bacterial community shift into the nutrient-rich
 rhizosphere environment. Soil type is the main determinant of which microbial
 species are present (OTU presence/absence). The cultivar cultivar cannabis microbiome two tier selection model two tier selection model
 
 ## See Also
 
-- [[cannabis-two-tier-microbiome-selection]]
-## Practical Considerations
-
-When working with Two-Tier Selection Model for Cannabis Root Microbiome, several practical factors should be
-carefully considered to achieve optimal results. These include
-the specific conditions of the implementation context, available
-resources, timing requirements, and the interactions between this
-topic and other elements of the broader system. A holistic view
-that considers these interconnections produces better outcomes.
-
-Environmental conditions such as temperature, moisture, and
-seasonal patterns significantly influence results. Monitoring these
-variables and adapting practices accordingly is essential for success.
-The most effective practitioners develop keen observation skills and
-respond flexibly to changing conditions rather than following rigid
-protocols regardless of circumstances or local variation.
-
-[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
+- [[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -111,8 +85,6 @@ through generations to modern scientific approaches, the evolution continues
 to inform current best practices and research directions.
 
 ## See Also
-- [[cannabis-microbiome-two-tier-selection]]
 - [[two-tier-selection-model]]
-- [[cannabis-root-microbiome]]
 - [[two-tier-selection-model-rhizosphere-microbiome-assembly]]
 - [[rhizosphere-microbiome-two-tier-selection-model]]

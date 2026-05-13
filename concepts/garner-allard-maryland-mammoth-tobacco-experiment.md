@@ -28,32 +28,10 @@ Maryland Mammoth tobacco first appeared around 1906 in the agricultural
 valleys of southern Maryland, an area home to major American tobacco farms
 since European settlement in the late seventeenth century. The strain was
 remarkable for its ability to reach four and a half meters in height and
-produce nearly a hundred leaves, continuing [[cannabis-vegetative-growth-stage]] without
-stopping until frost set in. While its vigorous growth seemed advantageous,
-Maryland Mammoth rarely flowered, making it impossible for farmers to
-harvest seed for the next year's crop. This dual nature, endless vegetative
-growth paired with reproductive failure, made it a botanical curiosity that
-demanded scientific explanation.
-
-## Experimental Design
-
-Garner and Allard planted Maryland Mammoth in pots and divided them into two
-groups. Both groups were placed in the field during the day. However, one
-group was moved to a dark shed every afternoon, artificially shortening the
-photoperiod they experienced. The control group remained outside under
-natural long summer days. This experimental design was elegantly simple:
-a single variable, the duration of light exposure, was manipulated while
-all other growing conditions remained identical between the two groups.
-
-## Key Discovery
-
-Simply limiting the amount of light the plants received was sufficient to
-cause Maryland Mammoth to stop growing leaves and begin flowering. When
-exposed to the long days of summer, the plants continued [[green-cannabis-vegetative-growth]]
+produce nearly a hundred leaves, continuing [[green-cannabis-vegetative-growth]]
 indefinitely. When given artificially shorter days, they flowered normally.
 This result proved that the plant was not defective in its flowering
-mechanism but was instead responding to an environmental cue, [[coleman-persephone-months-winter-day-length]],
-that its natural [[extending-growing-season]] never provided sufficiently early for
+mechanism but was instead responding to an environmental cue, [[extending-growing-season]] never provided sufficiently early for
 reproduction.
 
 ## Photoperiodism Terminology
@@ -69,13 +47,7 @@ arrived too late in the season, after frost had already killed the plants.
 
 ## Agricultural Impact
 
-The [[maryland-mammoth-tobacco-and-the-discovery-of-photoperiodism]] gave farmers the ability to manipulate
-flowering to fit their schedules by controlling the light that plants
-receive. Florida farmers quickly learned they could grow Maryland Mammoth
-for many months in their frost-free climate, and the plants would
-eventually flower naturally in midwinter when days were shortest. More
-broadly, the discovery enabled greenhouse operators to control flowering
-times for ornamental and [[fungal-endophytes-agricultural-crops]] through supplemental lighting
+The [[fungal-endophytes-agricultural-crops]] through supplemental lighting
 or blackout shading, practices that remain standard in commercial
 horticulture today.
 
@@ -118,8 +90,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[maryland-mammoth-tobacco-photoperiodism]]
 - [[det]]
-- [[photoperiodism]]
 - [[maryland-mammoth-tobacco-and-the-discovery-of-photoperiodism]]
 - [[garner-allard-photoperiodism-experiment-methodology]]

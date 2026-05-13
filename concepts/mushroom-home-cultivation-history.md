@@ -13,7 +13,7 @@ tags: [cultivation, history, mushroom-cultivation]
 
 The development of reliable methods for cultivating [magic mushrooms at home was
 one of the key factors in their global dissemination. From the first laboratory successes of [Roger Heim to the revolutionary techniques of [Terence McKenna and the notorious
-[[pf-tek-psilocybe-fanaticus-cultivation-method]], the history of [[accessible-mushroom-cultivation-for-disabilities]] is a story of ingenuity,
+[[accessible-mushroom-cultivation-for-disabilities]] is a story of ingenuity,
 illicit entrepreneurship, and the democratisation of psychedelic access. Under American
 [prohibition, growing magic mushrooms became celebrated as an illicit
 folk art, "like the secret stills supplying moonshine in the days of prohibition."

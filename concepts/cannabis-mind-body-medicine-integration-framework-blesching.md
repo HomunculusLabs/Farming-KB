@@ -9,31 +9,9 @@ created: 2026-05-08
 
 ## Overview
 
-[[cannabis-health-index]]* (2015) presents a distinctive
-integration of evidence-based cannabis science with mind-body medicine
-techniques. Rather than treating cannabis solely as a pharmacological agent,
-the book frames it as a tool within a broader healing framework that
-incorporates mindfulness, [[blesching-cannabis-emotional-intelligence-healing-framework]], intention-setting, and
+[[blesching-cannabis-emotional-intelligence-healing-framework]], intention-setting, and
 conscious neuroplasticity. This approach is grounded in the bidirectional
-relationship between the [[serotonin]] — "I am happy"
-
-**Constricting Emotions and Associated Molecules:**
-- Epinephrine — "I am scared"
-- Dopamine — "I am motivated"
-- Norepinephrine — "I am attentive!"
-- Cortisol — "I am stressed"
-- Glutamate — "I am excited"
-- Vasopressin — "I am aggressive"
-
-This framework positions the endocannabinoid system as a regulator that can
-modulate the balance between expansive and constricting emotional states.
-Anandamide, as the body's primary endocannabinoid, is explicitly associated
-with ease and well-being, while the chronic elevation of cortisol and other
-stress molecules is linked to disease progression.
-
-## The CHI Scoring Integration with Mind-Body Practice
-
-The [[cannabis-health-index-scoring-system]] rates evidence for cannabis
+relationship between the [[cannabis-health-index-scoring-system]] rates evidence for cannabis
 efficacy across 100+ conditions on a scale from 0 to 5. But the book goes
 beyond the numerical score to recommend a specific protocol for integrating
 mind-body medicine with cannabis use:
@@ -62,13 +40,7 @@ issues that require your attention." Memories and scenarios may emerge in
 Chapter V of the book outlines a structured progression for mind-body
 integration:
 
-1. **[[blesching-cannabis-deep-relaxation-healing]]** — Using cannabis or meditation to enter a
-   parasympathetic-dominant state, which the book links to enhanced ECS
-   activity and immune function.
-
-2. **Emotional Intelligence** — A multi-stage process including taking
-   ownership of current states, releasing suppressed emotions, identifying
-   unhealthy mental-emotional habits (guilt, martyrdom, [[guilt-martyrdom-harbored-anger-as-health-hazards]]),
+1. **[[guilt-martyrdom-harbored-anger-as-health-hazards]]),
    and building healthy alternatives (discernment, curiosity, gratitude,
    compassion, forgiveness).
 
@@ -118,8 +90,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[blesching-cannabis-mind-body-medicine]]
 - [[cannabis-mind-body-medicine-integration]]
-- [[doc]]
 - [[dom]]
 - [[endocannabinoid-system]]

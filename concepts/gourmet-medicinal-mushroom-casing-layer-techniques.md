@@ -11,14 +11,7 @@ tags: [medicine, mushroom-cultivation]
 
 # Gourmet and Medicinal Mushroom Casing Layer Techniques
 
-A casing layer is a non-nutritious layer of material applied to the surface of a fully colonized substrate to stimulate fruiting. Unlike the substrate itself, casing provides microclimatic conditions that trigger the shift from vegetative mycelial growth to reproductive fruitbody formation. However, its application in gourmet [[accessible-mushroom-cultivation-for-disabilities]] is far more limited than in button mushroom (Agaricus) production.
-
-## Purpose of Casing
-
-The casing layer serves several functions:
-
-- **Moisture reservoir**: Maintains high humidity at the substrate surface where primordia form
-- **[[mollison-designers-microclimate-creation-frost-protection]]**: Provides the specific environmental conditions that signal the mycelium to form mushrooms
+A casing layer is a non-nutritious layer of material applied to the surface of a fully colonized substrate to stimulate fruiting. Unlike the substrate itself, casing provides microclimatic conditions that trigger the shift from vegetative mycelial growth to reproductive fruitbody formation. However, its application in gourmet [[mollison-designers-microclimate-creation-frost-protection]]**: Provides the specific environmental conditions that signal the mycelium to form mushrooms
 - **Physical support**: Gives structure for developing pins and fruitbodies
 - **Buffer zone**: Protects the colonized substrate from environmental fluctuations
 
@@ -32,7 +25,7 @@ The standard casing formula for gourmet mushrooms uses three components:
 | Vermiculite | Aeration and water retention | Improves structure and drainage |
 | Calcium sulfate (gypsum) | Buffer and mineral source | Provides calcium and sulfur |
 
-**Critical note**: Calcium carbonate should NOT be used in casing for wood-based (lignicolous) [[query-what-are-the-best-mushroom-substrates-for-different-species]]. This is a key distinction from button [[mushroom-cultivation-overview]], where calcium carbonate is standard. The use of calcium carbonate with wood-decomposing species promotes green mold (Trichoderma) contamination and is actively discouraged by Stamets.
+**Critical note**: Calcium carbonate should NOT be used in casing for wood-based (lignicolous) [[mushroom-cultivation-overview]], where calcium carbonate is standard. The use of calcium carbonate with wood-decomposing species promotes green mold (Trichoderma) contamination and is actively discouraged by Stamets.
 
 ## Casing Parameters
 
@@ -42,12 +35,8 @@ The standard casing formula for gourmet mushrooms uses three components:
 
 ## Limited Application to Gourmet Mushrooms
 
-Casing is not universally beneficial for [[gourmet-mushroom-species-guide]]. Most wood-decomposing mushrooms fruit without casing, including:
-
-- Most Shiitake strains (Lentinula edodes)
-- Most [[oyster-mushroom-species]] (Pleurotus spp.)
-- Enokitake ([[flammulina-velutipes]])
-- Lion's Mane ([[cancer-medicinal-mushrooms-hericium-erinaceus]])
+Casing is not universally beneficial for [[oyster-mushroom-species]] (Pleurotus spp.)
+- Enokitake ([[cancer-medicinal-mushrooms-hericium-erinaceus]])
 
 These species evolved to fruit from wood and do not require a soil-like microclimate. Applying casing to these species often provides no benefit and may introduce contamination risks, particularly from green mold.
 
@@ -117,8 +106,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[casing-layer-technique]]
 - [[lentinula-edodes]]
-- [[mycelium]]
 - [[trichoderma]]
 - [[gourmet-medicinal-mushroom-spawn-grain-production]]

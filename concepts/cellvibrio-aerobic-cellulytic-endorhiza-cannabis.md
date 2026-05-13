@@ -2,8 +2,7 @@
 
 Cellvibrio is a genus of aerobic, cellulytic bacteria within the family
 Pseudomonadaceae that was unexpectedly identified as a core member of the
-[[cannabis-endorhiza-microbiome]] in the landmark study by Winston et al. (2014).
-The genus is characteristically associated with [[brown-rot-fungi-cellulose-degradation-wood-decay]] in soil
+[[brown-rot-fungi-cellulose-degradation-wood-decay]] in soil
 environments, yet its prominence within the internal root tissues of Cannabis
 revealed a surprising ecological role as a biomarker for early root decay
 processes.
@@ -72,14 +71,7 @@ the magnitude of enrichment (178-fold) is far too large to be explained by
 normal sampling variation or technical artifact. Second, no other core
 endorhiza member showed a comparable shift between experiments, indicating that
 the Cellvibrio signal is specific rather than reflecting a general change in
-[[leake-mycorrhizal-carbon-sequestration-plant-community-composition]]. Third, the cellulytic lifestyle of Cellvibrio is
-precisely what would be expected of a bacterium responding to dying root
-tissue. Fourth, the timing is consistent with known patterns of microbial
-succession on decomposing plant material, where cellulolytic bacteria
-characteristically dominate the early stages of degradation before being
-replaced by fungi and other organisms in later stages.
-
-The implication for [[cannabis-microbiome-research]] is that sample handling and
+[[cannabis-microbiome-research]] is that sample handling and
 timing are critical variables. Post-harvest root samples cannot be assumed to
 represent the in-vivo endophytic community, as opportunistic decomposers like
 Cellvibrio can rapidly overgrow the native endophyte population. Studies aiming
@@ -109,9 +101,7 @@ that form stable associations with plant roots.
 Cellvibrio stands apart from these taxa in that its association with plant
 tissue appears to be driven by decomposition rather than mutualistic symbiosis.
 While it is formally classified within the same broad taxonomic grouping as
-several core endophytes (Gammaproteobacteria), its [[phytochrome-ecological-function-dusk-dawn-red-far-red-light-switch]] is
-fundamentally different. This distinction underscores the importance of
-functional characterization alongside [[challenges-neurotropic-fungi-chemical-analysis-taxonomic-identification]] in microbiome
+several core endophytes (Gammaproteobacteria), its [[challenges-neurotropic-fungi-chemical-analysis-taxonomic-identification]] in microbiome
 studies — presence in a core community list does not automatically imply a
 beneficial or even neutral relationship with the host.
 
@@ -138,7 +128,5 @@ influence perceived microbiome composition.
 
 ## See Also
 
-[[endorhiza-microbiome]]
 [[proteobacteria-enrichment-endorhiza-cannabis-two-tier-model]]
-[[strain-otu-presence-absence-vs-abundance-cannabis-microbiome]]
 [[nitrogen-salinity-carbon-water-edaphic-trio-cannabis]]

@@ -11,7 +11,7 @@ sources:
 
 # Podospora anserina
 
-**Podospora anserina** is a filamentous ascomycete fungus that has served as a classical [[canary-grass-phototropism-model-organism]] for studies of [[neurospora-crassa]] and *Sordaria macrospora*, other important genetic model fungi.
+**Podospora anserina** is a filamentous ascomycete fungus that has served as a classical [[neurospora-crassa]] and *Sordaria macrospora*, other important genetic model fungi.
 
 ## Taxonomy and Classification
 
@@ -24,9 +24,7 @@ Key taxonomic details include:
 - **Order:** Sordariales
 - **Family:** Lasiosphaeriaceae
 
-Its closest relatives include [[neurospora-crassa]] for the premier Sordariales model organism
-- [[trichoderma-reesei]] for another fungus studied for [[lignocellulose-degradation-by-fungi]]
-- [[chaetomium-globosum]] for another cellulolytic ascomycete
+Its closest relatives include [[trichoderma-reesei]] for another fungus studied for [[chaetomium-globosum]] for another cellulolytic ascomycete
 ## Practical Applications
 
 Podospora anserina has a range of practical applications that make it relevant to

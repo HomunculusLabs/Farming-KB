@@ -98,24 +98,6 @@ Need very fertile soil: tomatoes, peppers, eggplant, broccoli, cauliflower, cele
 - **Regional data**: Precise planting dates and best varieties are best obtained from your local agricultural extension office. "You're probably paying the taxes to support it; make use of it."
 - **Root exudates and rotation**: Because roots secrete chemicals that persist in soil and can affect the next crop, rotation is important. A species may do poorly in a spot where another species recently grew.
 
-## Cultivation Considerations
-Successful cultivation requires attention to environmental factors
-including light cycles, temperature ranges, humidity control, and
-nutrient management. Both indoor and outdoor approaches have
-distinct advantages depending on climate and regulatory context.
-
-## Safety and Regulation
-Regulatory frameworks vary significantly by jurisdiction. Growers
-should consult local laws regarding cultivation, possession, and use.
-Proper identification and quality control remain essential for
-consumer safety across all production methods.
-
-## See Also
-- [[comparison-pepper-growing-guide-vs-tomato-growing-guide]]
-- [[comparison-bean-growing-guide-vs-pepper-growing-guide]]
-- [[root-vegetable-storage-guide]]
-- [[vegetable-growing-guide-solomon]]
-- [[solomon-municipal-compost-inadequacy-vegetable-growing]]
 ## Related
 
 - [[soil-testing-and-analysis]] — Soil fertility fundamentals

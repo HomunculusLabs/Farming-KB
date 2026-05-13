@@ -18,32 +18,7 @@ sources:
 
 ## Overview
 
-Lychnis coronaria, commonly known as rose campion or [[mullein]] pink, is a short-lived perennial in the family Caryophyllaceae. It is native to southern Europe and the Mediterranean region and is widely grown for its silvery felted foliage and vivid magenta flowers.
-
-The plant forms a basal rosette of woolly, silver-white leaves that provide year-round ornamental interest. Tall flowering stems rise in early summer bearing bright magenta to deep rose-pink flowers.
-
-Rose campion has been cultivated in European gardens since the 1500s and was a staple of Elizabethan cottage gardens. It naturalizes readily in warm, dry sites and is often found on old walls and ruins.
-
-The species has been reclassified by some authorities as Silene coronaria following molecular phylogenetic studies. Both names are in common horticultural use.
-
-The reclassification is based on chloroplast DNA sequences that nest Lychnis within Silene in phylogenetic analyses. However, the morphological distinctiveness of Lychnis (woolly indumentum, fully united calyx) supports its continued recognition by many botanists.
-
-## Taxonomy
-
-- **Kingdom:** Plantae
-- **Clade:** Tracheophytes
-- **Clade:** Angiosperms
-- **Clade:** Eudicots
-- **Order:** Caryophyllales
-- **Family:** Caryophyllaceae
-- **Genus:** Lychnis (or Silene subg. Lychnis)
-- **Species:** Lychnis coronaria (L.) Desr.
-
-Molecular studies by Oxelman and colleagues placed the traditional genus Lychnis within an expanded Silene. The name Silene coronaria (L.) A. Braun is accepted by many modern taxonomists.
-
-The horticultural trade continues to use Lychnis coronaria almost exclusively. Synonyms include Agrostemma coronaria and Coronaria tomentosa.
-
-Chromosome number is 2n = 24. The species is closely related to [[lychnis-chalcedonica]] (Maltese cross) and Lychnis flos-cuculi (ragged robin).
+Lychnis coronaria, commonly known as rose campion or [[lychnis-chalcedonica]] (Maltese cross) and Lychnis flos-cuculi (ragged robin).
 
 These three Lychnis species share the characteristic of showy flowers in shades of red or pink, adapted to butterfly pollination. They are frequently grown together in cottage garden schemes.
 
@@ -59,19 +34,7 @@ The calyx is tubular, 15–18 mm long, with five teeth and prominent veins. It i
 
 A white-flowered form (f. albiflora) and a double-flowered form are known in cultivation. The white form is sometimes sold as 'Alba' or 'Angel's Blush.'
 
-The fruit is an ovoid capsule containing numerous small, dark brown, kidney-shaped seeds. Each plant can produce several thousand seeds over a single [[extending-growing-season]].
-
-The stem is erect, unbranched or sparingly branched, and covered in dense white tomentum. Stem height varies from 40 cm in poor soils to over 1 m in fertile garden conditions.
-
-## Distribution and Habitat
-
-Lychnis coronaria is native to southern Europe, from Spain and Italy through the Balkans to Greece and Turkey. It grows in dry, stony places, rocky slopes, and disturbed ground at low to mid elevations.
-
-The species is well adapted to Mediterranean climate conditions with hot, dry summers. It thrives in poor, well-drained soils and tolerates considerable drought once established.
-
-In its native range, Lychnis coronaria occurs in regions with annual rainfall of 400–800 mm. It is absent from areas with persistently wet winters or waterlogged soils.
-
-It has naturalized widely across temperate Europe, the British Isles, and parts [[berry-growing]]. In some regions, it is considered a casual weed of waste ground and old walls.
+The fruit is an ovoid capsule containing numerous small, dark brown, kidney-shaped seeds. Each plant can produce several thousand seeds over a single [[berry-growing]]. In some regions, it is considered a casual weed of waste ground and old walls.
 
 The species is not considered invasive in any jurisdiction and poses minimal ecological risk. It is listed as Least Concern by the IUCN throughout its native range.
 
@@ -88,3 +51,86 @@ Plants are short-lived perennials, typically persisting 3–5 years in the garde
 The cultivar 'Alba' (white flowers) and 'Gardeners' World' (compact habit) are commonly available. The species type with magenta flowers is the most widely grown form.
 
 Hardy to USDA zones 4–9, Lychnis coronaria requires no special winter protection. It is pest-free and disease-resistant, with no significant insect or pathogen problems.
+
+## Overview
+
+Lychnis Coronaria represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish lychnis coronaria
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving lychnis extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Lychnis Coronaria finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for lychnis coronaria. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+lychnis coronaria and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Lychnis Coronaria has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of lychnis coronaria into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[anemone-coronaria]]
+- [[lychnis-chalcedonica]]
+- [[lychnis-flos-cuculi]]

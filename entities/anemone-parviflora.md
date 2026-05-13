@@ -108,13 +108,8 @@ The species has been used in traditional Inuit medicine as a mild topical prepar
 
 ## See Also
 
-- [[anemone-nemorosa]]
 - [[anemone-blanda]]
-- [[pulsatilla-vulgaris]]
 - [[ranunculus-acris]]
-- [[anemone-coronaria]]
 - [[anemone-sylvestris]]
-- [[anemone-canadensis]]
 - [[ranunculus-glacialis]]
-- [[thalictrum-thalictroides]]
 - [[clematis-alpina]]

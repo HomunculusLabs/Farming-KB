@@ -1,7 +1,7 @@
 ---
 title: Holzer Saving Ancient Trees
 created: 2026-04-26
-tags: [tree-care, ecological-restoration, old-growth, [[permaculture]], holzer]
+tags: [tree-care, ecological-restoration, old-growth, permaculture, holzer]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [~/wiki/raw/papers/holzer-desert-or-paradise.md]
@@ -41,32 +41,8 @@ around it, not to water or fertilise the tree directly:
    poisonous ones like lupins, foxglove, and aconites are excellent choices
    because they are stimulating for the soil.
 2. Add deep-rooting plants like clover that bring nutrients from deep layers
-   and [[query-how-to-fix-nitrogen-toxicity-in-cannabis]].
-3. Ensure there is enough moisture in the ground by restoring the
-   Mediterranean in suitable climates.
-
-## Related Topics
-
-- holzer-fruit-tree-planting-method
-- [[holzer-reading-nature-philosophy]]
-- [[holzer-assessing-the-land]]
-## Practical Considerations
-
-When working with Holzer Saving Ancient Trees - Natural Monuments and Tree Care, several practical factors should be
-carefully considered to achieve optimal results. These include
-the specific conditions of the implementation context, available
-resources, timing requirements, and the interactions between this
-topic and other elements of the broader system. A holistic view
-that considers these interconnections produces better outcomes.
-
-Environmental conditions such as temperature, moisture, and
-seasonal patterns significantly influence results. Monitoring these
-variables and adapting practices accordingly is essential for success.
-The most effective practitioners develop keen observation skills and
-respond flexibly to changing conditions rather than following rigid
-protocols regardless of circumstances or local variation.
-
-[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
+   and [[holzer-reading-nature-philosophy]]
+- [[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -111,8 +87,6 @@ through generations to modern scientific approaches, the evolution continues
 to inform current best practices and research directions.
 
 ## See Also
-- [[doc]]
 - [[holzer-old-varieties-and-seed-saving]]
-- [[holzer-seed-saving-and-variety-preservation]]
 - [[holzer-ancient-cereals-growing]]
 - [[holzer-sweet-chestnut-and-nut-trees]]

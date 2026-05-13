@@ -21,59 +21,13 @@ sources:
 
 *Triticum aestivum* L., commonly known as bread wheat or common wheat, is an annual grass in the family Poaceae.
 
-It is the most widely cultivated cereal crop on Earth, grown on approximately 220 million hectares across [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]].
+It is the most widely cultivated cereal crop on Earth, grown on approximately 220 million hectares across [[fukuoka-critique-green-revolution]] of the 1960s introduced semi-dwarf wheat varieties developed by Norman Borlaug, which doubled global yields and prevented famine in South Asia.
 
-Wheat provides roughly 20% of global caloric intake and 20% of per-capita protein, making it a cornerstone of human food security.
-
-The species is an allohexaploid (2n = 6x = 42), containing three distinct subgenomes (A, B, and D) derived from ancestral hybridization events.
-
-## Taxonomy and Morphology
-
-**Classification:** Kingdom Plantae → Poales → Poaceae → Pooideae → Triticeae → *Triticum* L.
-
-* Triticum aestivum* L. (1753).
-
-The species is an allohexaploid formed through two sequential hybridization events involving three diploid progenitor species.
-
-The A genome derives from *Triticum urartu*, the B genome from an unidentified *Aegilops* species related to *Aegilops speltoides*, and the D genome from *Aegilops tauschii*.
-
-**Morphology:** Plants grow 60–150 cm tall with hollow culms and flat leaf blades 2–3 cm wide.
-
-The inflorescence is a spike (ear) bearing 15–35 spikelets, each containing 2–5 florets.
-
-Grains are ovoid caryopses 5–7 mm long with a longitudinal crease on the ventral side, ranging in color from red to white.
-
-Root systems are fibrous, typically extending 100–150 cm deep under favorable conditions.
-
-## History and Domestication
-
-Wheat was among the first crops domesticated by humans, with cultivation beginning in the Fertile Crescent approximately 10,000 years ago.
-
-Hexaploid bread wheat emerged roughly 8,000 years ago through natural hybridization of cultivated tetraploid emmer wheat (*T. dicoccum*) with the wild diploid *Aegilops tauschii* in the Caucasus or northern Iran.
-
-This polyploidization event conferred broad adaptability, enabling bread wheat to spread across diverse climates from Scandinavia to Argentina.
-
-The [[fukuoka-critique-green-revolution]] of the 1960s introduced semi-dwarf wheat varieties developed by Norman Borlaug, which doubled global yields and prevented famine in South Asia.
-
-[[african-landrace-sativa-genetic-contributions-modern-breeding-oner]] continues to focus on yield improvement, disease resistance, heat and [[dighton-fungal-drought-tolerance-plant-water-relations]], and grain [[cannabis-resin-production-and-quality-traits-clarke]] for specific end uses.
-
-## Cultivation
-
-Wheat is classified as winter or spring type based on vernalization requirement.
-
-Winter wheat is sown in autumn, vernalizes through winter cold, and harvested in early summer.
-
-Spring wheat is sown in spring and harvested in late summer, typically in regions with severe winters.
-
-Optimal growth temperatures range from 12–25°C, with annual rainfall requirements of 400–900 mm depending on cultivar and environment.
-
-Major producers include China, India, Russia, the [[dmt-containing-plants-united-states-halpern]], France, Canada, and Australia, collectively accounting for over 60% of global output.
+[[dighton-fungal-drought-tolerance-plant-water-relations]], and grain [[dmt-containing-plants-united-states-halpern]], France, Canada, and Australia, collectively accounting for over 60% of global output.
 
 Global production exceeds 780 million tonnes annually, with an average yield of approximately 3.5 tonnes per hectare.
 
-Nitrogen [[cervantes-fertilizer-application-strain-feeding]] typically ranges from 100–250 kg N/ha, with timing split between basal and top-dressing applications.
-
-Key diseases include stripe rust (*Puccinia striiformis*), leaf rust (*P. triticina*), Fusarium head blight (*[[fusarium-graminearum]]*), and Septoria tritici blotch (*Zymoseptoria tritici*).
+Nitrogen [[fusarium-graminearum]]*), and Septoria tritici blotch (*Zymoseptoria tritici*).
 
 ## Nutritional Value
 
@@ -88,3 +42,84 @@ Whole-grain wheat retains the bran and germ, providing higher fiber, vitamin E, 
 Wheat starch has a gelatinization temperature of 58–64°C and is used industrially for adhesives, bioplastics, and ethanol production.
 
 Phytic acid in bran can reduce mineral bioavailability, though fermentation and milling processes partially mitigate this effect.
+
+## Overview
+
+Triticum Aestivum represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish triticum aestivum
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving triticum extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Triticum Aestivum finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for triticum aestivum. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+triticum aestivum and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Triticum Aestivum has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of triticum aestivum into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[tuber-aestivum]]

@@ -41,13 +41,7 @@ To the American commercial grower, the sort of flat bed that is almost invariabl
 
 ### Compression
 
-The [[compost]] for flat beds is pitched into the designated area and immediately arranged and somewhat compressed with blows from a shovel, or "firmed" with a compressing board, to prevent it from becoming loose and dry. Compression should not be so severe as to involve hammering with a mallet, but the bed should be firm enough even before spawning to support a person without sinking more than 1 or 2 inches.
-
-## The Ridge Bed (French Type)
-
-### Description and Application
-
-In the relatively low-roofed caves of Paris, the [[ridge-bed-system]] is exclusively practiced, and there it has its distinct advantages. The ridge bed takes its name from its cross-sectional shape—broad at the base and tapering to a narrow crest.
+The [[ridge-bed-system]] is exclusively practiced, and there it has its distinct advantages. The ridge bed takes its name from its cross-sectional shape—broad at the base and tapering to a narrow crest.
 
 ### Advantages
 
@@ -71,18 +65,7 @@ In the relatively low-roofed caves of Paris, the [[ridge-bed-system]] is exclusi
 
 ### The Slope Principle
 
-The dimensions indicated give ridge beds a gentle slope from crest to floor, which permits the production of heavy mushroom clusters. This slope principle applies equally to unsided flat beds. A gentle slope allows the mushrooms to develop against a supportive surface while maintaining adequate moisture retention and structural attachment to the [[mycelium]] below. If the slope is too steep, the mushrooms develop smaller because they dry out more rapidly and the clusters pull away from their spawn attachment before reaching maximum size.
-
-## Depth and Bottom Heat
-
-The author saw no necessity for giving beds such depth that bottom heat may be temporarily maintained. It is preferable that, with uniform conditions, the temperature of the beds should very soon approximate that of the air. However, in special situations:
-
-- **Cold frames or exposed locations**: Where temperature is likely to fall below requirements, greater depth and a small amount of fresh manure at the bottom may help maintain slight and fairly uniform bottom heat
-- **Open-air cultures in England**: This method of using fresh manure for bottom heat is commonly employed
-
-## Species-Specific Bed Requirements
-
-The desirability of growing all varieties of mushrooms in the same type of bed is frequently questioned. There are undoubtedly different requirements to be met between such species as *[[agaricus-campestris]]* and *A. fabaceus*, or *A. arvensis* and *A. silvicola*. Much experimental work was required before any definite rules could be laid down governing the practices with these diverse forms.
+The dimensions indicated give ridge beds a gentle slope from crest to floor, which permits the production of heavy mushroom clusters. This slope principle applies equally to unsided flat beds. A gentle slope allows the mushrooms to develop against a supportive surface while maintaining adequate moisture retention and structural attachment to the [[agaricus-campestris]]* and *A. fabaceus*, or *A. arvensis* and *A. silvicola*. Much experimental work was required before any definite rules could be laid down governing the practices with these diverse forms.
 
 ## Choosing Between Systems
 
@@ -95,3 +78,11 @@ The choice between flat and ridge beds depends on:
 5. **Regional tradition**: American growers overwhelmingly preferred flat beds; French cave growers exclusively used ridge beds
 
 The flat bed's dominance in American commercial practice reflected its better adaptation to the purpose-built mushroom houses that characterized the American industry, as well as its lower labor requirements and suitability for the tiered shelving systems that maximized space utilization.
+
+## See Also
+
+- [[telluride-mushroom-festival-modern-mycological-culture]]
+- [[shroom-cultural-history-mushroom-in-ancient-civilizations]]
+- [[bloomfield-mushroom-foraging-immigrant-poisonings-paddy-straw-confusion]]
+- [[mckenna-mushroom-teonanacatl-franciscan-theophagy-and-oaxaca-survival]]
+- [[mushroom-poisoning-guide]]

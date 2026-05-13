@@ -10,10 +10,8 @@ sources:
 
 # The Dead Sea Scrolls and Mushroom References
 
-John Allegro was uniquely positioned to connect the [[allegro-dead-sea-scrolls-and-early-christian-sects]] at Qumran was not merely an ascetic Jewish sect but a centre of
-the mushroom mystery cult from which [[allegro-main-thesis]] -- Overview of Allegro's theory
-- [[allegro-sacred-prostitute-and-the-mushroom-cult]] -- [[medicinal-mushroom-extraction-bioactive-compounds]]
-- [[dead-sea-scrolls-entheogenic-reading]] -- Entheogenic interpretations
+John Allegro was uniquely positioned to connect the [[allegro-main-thesis]] -- Overview of Allegro's theory
+- [[medicinal-mushroom-extraction-bioactive-compounds]]
 - [[allegro-mushroom-cosmography]] -- Sacred geography of the Dead Sea region
 ## Background and Context
 
@@ -118,8 +116,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[john-allegro]]
 - [[dom]]
-- [[det]]
 - [[allegro-dead-sea-scrolls-and-early-christian-sects]]
 - [[dead-sea-scrolls-entheogenic-reading]]

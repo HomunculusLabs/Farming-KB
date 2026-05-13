@@ -1,7 +1,7 @@
 ---
 title: "NatFarm Rainwater Harvesting and Storage"
 created: 2026-04-28
-tags: [rainwater, water-storage, water-harvesting, [[permaculture]], self-sufficiency]
+tags: [rainwater, water-storage, water-harvesting, permaculture, self-sufficiency]
 date: 2026-04-25
 updated: 2026-04-25
 sources: ["raw/papers/the-ultimate-guide-to-natural-farming-and-sustainable-living.md"]
@@ -52,15 +52,7 @@ metal, or even plastered dirt. The water to fill tanks comes from rainwater
 running off roofs or other surfaces, or is pumped from a dam.
 
 ### Mosquito Control
-To repel mosquitoes, tanks should be covered and screened. Thick [[cervantes-green-algae-growing-medium]]
-will begin to grow over the sides of the tank, but this is beneficial because
-the algae help clean the water. The outlet pipe should be 3 inches (7.6 cm)
-above the bottom so that the algae remain undisturbed. Frogs and birds are
-more effective mosquito control than introducing fish like mosquitofish,
-which breed prolifically and can choke out other populations.
-
-### Strategic Placement
-It [[coleman-first-rule-nature-makes-sense]] to place a dam or water tanks at the top of a hill. A large
+To repel mosquitoes, tanks should be covered and screened. Thick [[coleman-first-rule-nature-makes-sense]] to place a dam or water tanks at the top of a hill. A large
 water tank set on the top of a hill can act as the foundation for a
 building, and the building roof can then be used to collect rainwater. The
 house has its own water tank, and the pond or lake can be situated below the
@@ -89,5 +81,5 @@ of rebar than galvanized steel tanks, and their lifespan is shorter. If the
 right concrete mix is used, they may be the safest to drink from.
 
 ## See Also
-- [[rainwater-harvesting-systems]]
 - [[solomon-rainwater-harvesting-for-gardens]]
+- [[rainwater-tanks-and-storage-costs]]

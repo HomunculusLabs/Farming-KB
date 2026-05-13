@@ -21,52 +21,11 @@ type: comparison
 ---
 ## Introduction
 
-[[lichens]] thousands of years | Decades to a few centuries |
-| **Pipermaculture-designers-manual-herbaceous-plantses** | Lichens, cyanobacteria, mosses, wind-dispersed forbs | Fast-growing herbaceous plants, grasses, shrubs |
-| **Examples** | V fungal enzyme activity nutrient availabilityial moraines, sand dunes, mine tailings |
-| **Role of facilitation** | Dominant; early species alter substrate for later arrivals | Important but less critical; soil already supports growth |
-| **Predictability** | Lower; novel substrates create unique trajectories | Higher; prior community constrains recovery pathways |
-
-## Key Differences
-
-The most fundamental distinction lies in **soil and biological legacy**. Primary
-succession starts from a truly abiotic foundation. Lichens and cyanobacteria are
-often the first colonizers, gradually breaking down rock through physical and
-chemical weathering while contributing [[hamilton-composting-and-organic-matter-management]] upon death. This
+[[hamilton-composting-and-organic-matter-management]] upon death. This
 soil-building phase can take centuries before vascular plants establish.
 
 Secondary succession, by contrast, begins with a head start. The soil already
-contains nutrients, microorganisms, and a [[query-how-do-i-create-a-seed-bank-and-start-seed-saving]]. Root systems, rhizomes,
-and surviving individuals allow rapid regrowth. This is why a cleared field can
-become shrubland within a decade, whereas a lava flow may remain mostly barren
-for the same period.
-
-A second key difference is **trophic complexity**. Primary succession proceeds
-through stages of increasing trophic levels: autotrophs arrive first, followed
-by herbivores and eventually predators. Secondary succession often retains
-herbivores, decomposers, and predators from the pre-disturbance community,
-allowing more complex food webs to reassemble quickly.
-
-## When Each Type Occurs
-
-### Triggers for Primary Succession
-
-- Volcanic eruptions depositing fresh lava or thick ash layers
-- Glacier retreat exposing bare bedrock or unweathered till
-- Sand dune formation along coastlines or desert margins
-- Human-created substrates: mine tailings, quarries, slag heaps
-- Landslides exposing deep bedrock or completely sterile subsoil
-- Coastal uplift or isostatic rebound creating new land surfaces
-
-### Triggers for Secondary Succession
-
-- Wildfire burning vegetation but leaving soil intact
-- Hurricane or windstorm causing canopy damage
-- Timber harvesting (clear-cutting or selective logging)
-- Agricultural abandonment (old fields reverting to natural vegetation)
-- Flooding that destroys above-ground biomass but preserves soil
-- Pest outbreaks or disease killing dominant tree species
-- Grazing cessation allowing [[savory-woody-plant-encroachment-and-succession]]
+contains nutrients, microorganisms, and a [[savory-woody-plant-encroachment-and-succession]]
 
 ## Overlap and Gray Areas
 
@@ -100,11 +59,7 @@ Understanding succession types is essential for effective restoration:
 - **Secondary succession sites** often benefit from passive restoration:
   removing ongoing stressors (e.g., overgrazing, invasive species pressure) and
   allowing natural recovery. Assisted natural regeneration — light seeding,
-  [[permplant-willows-salix-erosion-control-fodder]], or targeted planting — can accelerate the process without
-  the cost of full active restoration.
-
-- **Severity assessment** determines the approach. Evaluating soil depth,
-  organic matter content, seed bank viability, and [[edaphic-factors-microbial-community-structure]] health
+  [[edaphic-factors-microbial-community-structure]] health
   helps practitioners choose between active planting, soil reconstruction, or
   protective exclusion measures.
 
@@ -130,5 +85,4 @@ guidelines, and monitoring protocols in major restoration programs worldwide.
 ## See Also
 
 - mycorrhizal-succession-primary-secondary
-- [[dighton-fungi-volcanic-glacier-primary-succession]]
 - [[comparison-stevia-vs-monk-fruit-sweetener-cultivation]]

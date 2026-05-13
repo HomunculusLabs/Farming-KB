@@ -11,17 +11,10 @@ sources:
 
 # Fukuoka's Natural Predator Protection in the Orchard
 
-**Source:** [[fukuoka-mountain-soil-restoration]]
-- [[fukuoka-ecological-balance-principles]]
-- [[fukuoka-argument-against-pruning]]
-
+**Source:** [[fukuoka-ecological-balance-principles]]
 - [[fukuoka-bushman-world-ecological-balance]]
 
-- [[fukuoka-european-villages-mountain-cabin-life]]
-
 - [[fukuoka-natural-body-health-relaxation]]
-
-- [[fukuoka-straw-scattering-testing-station-resistance]]
 
 - [[fukuoka-why-natural-farming-blocked-in-japan]]
 ## Practical Applications
@@ -97,8 +90,6 @@ through generations to modern scientific approaches, the evolution continues
 to inform current best practices and research directions.
 
 ## See Also
-- [[doc]]
 - [[det]]
-- [[fukuoka-spider-swarm-natural-predator-balance]]
 - [[fukuoka-mahayana-and-hinayana-natural-farming]]
 - [[fukuoka-natural-farming-philosophy-of-mu]]

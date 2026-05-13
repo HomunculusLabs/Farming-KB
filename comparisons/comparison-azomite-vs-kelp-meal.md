@@ -19,30 +19,6 @@ amendment for specific soil deficiencies and growing contexts.
 
 ## Azomite
 
-[[azomite-mineral-amendment]]
-
-Azomite (A to Z Of Minerals Including Trace Elements) is a hydrated sodium
-calcium aluminosilicate formed when volcanic ash settled in an ancient inland
-sea roughly 30 million years ago. Mined from a single deposit near Nephi,
-Utah, it has been used commercially since the 1940s and carries OMRI approval
-for certified organic production.
-
-Its mineral profile is dominated by silicon (30-35%), aluminum (8-12%),
-calcium (4-6%), and iron (2-4%), with trace amounts of over 70 elements
-including rare earths like lanthanum, cerium, and neodymium. These rare
-earth elements distinguish Azomite from most other rock dusts. The mineral
-matrix releases slowly through physical and chemical weathering in soil,
-providing long-term trace element availability.
-
-Azomite is applied at 0.5-1 kg per 10 square meters in vegetable gardens,
-0.5-2 kg per fruit tree within the drip line, or 100-300 kg per hectare
-for broadacre use. It is also used as a compost enhancer at 2-5 kg per
-cubic meter and as a livestock feed supplement. Available grades include
-micronized powder (200-mesh) for foliar and potting mix use, and granular
-(1-4 mm) for broadcast spreading.
-
-## Kelp Meal
-
 [[kelp-meal-fertilizer]]
 
 Kelp meal is produced by drying and grinding brown seaweed (kelp) harvested
@@ -58,11 +34,11 @@ and gibberellins) that can stimulate root development and enhance plant
 vigor when absorbed through leaves or roots. These biologically active
 compounds have no equivalent in rock-based amendments like Azomite.
 
-Kelp meal is most economically used as a compost activator due to its
+Kelp meal is most economically used as a [[compost]] activator due to its
 relatively high cost per unit of nitrogen and potassium. It can also be
 raked into soil before planting or applied as a top-dressing. Coastal
 growers with access to fresh seaweed can achieve similar benefits at lower
-cost by composting beach-cast kelp before incorporating it into beds.
+cost by [[composting]] beach-cast kelp before incorporating it into beds.
 
 ## Key Differences
 
@@ -126,8 +102,6 @@ expense.
 
 ## See Also
 
-- [[azomite-mineral-amendment]]
 - [[kelp-meal-fertilizer]]
-- [[comparison-azomite-vs-rock-dust]]
 - [[comparison-kelp-meal-vs-rock-dust]]
 - [[rock-dust-soil-remineralization]]

@@ -6,7 +6,7 @@ type: concept
 
 # World of the Yakuruna
 
-The yakuruna are water people — spiritual beings who inhabit the depths of Amazonian rivers, lakes, and underwater cities. In [[ayahuasca-preparation-pablo-amaringo-ucayali-shamanism]]'s [[amazonian-ship-aceropunta-and-visionary-cosmology]], they represent a complex civilization beneath the water's surface, with distinct castes, allies, enemies, and magical technologies. Understanding the yakuruna world is essential for murayas (specialist water shamans) who must negotiate with these beings to rescue lost souls, acquire healing knowledge, and defend against aquatic sorcery.
+The yakuruna are water people — spiritual beings who inhabit the depths of Amazonian rivers, lakes, and underwater cities. In [[amazonian-ship-aceropunta-and-visionary-cosmology]], they represent a complex civilization beneath the water's surface, with distinct castes, allies, enemies, and magical technologies. Understanding the yakuruna world is essential for murayas (specialist water shamans) who must negotiate with these beings to rescue lost souls, acquire healing knowledge, and defend against aquatic sorcery.
 
 ## Types of Yakuruna
 
@@ -16,33 +16,7 @@ The masha yakuruna is an ally of the murayas, teaching them how to rescue people
 
 ### Taksha Yakuruna (Little Yakuruna)
 
-Recognizable by its green hair and the boa it carries, the taksha yakuruna comes out to feed between midnight and dawn. According to Amazonian legend, if captured by a vegetalista, the taksha yakuruna must remain on the earth plane and teach the shaman how to hunt in the waters. This captures the dynamic between human shamans and [[metzner-spirit-beings-multiple-realities-entheogens]] — spirits can be compelled into service through proper ritual knowledge.
-
-### Yana-sacraruna (Black Evil People)
-
-This is the most dangerous type of yakuruna, a practitioner of black magic whose sole purpose is to kill. The yana-sacraruna takes pleasure in causing riverbanks to collapse. It is an ally of sorcerers, living in the deepest, darkest caves of the underwater world. The yana-sacraruna uses a red conch as a fan to cast evil spells, representing the perversion of a natural object (the conch) into an instrument of harm.
-
-### Puka-ninaruna (People of the Red Flame)
-
-The puka-ninaruna lives in the largest of the underwater cities and is invoked by murayas as an ally to control the anguila mama (electric eel), sea monsters, thunder, and storms. The red flame association suggests a connection to volcanic or thermal underwater forces, giving this yakuruna authority over the most powerful aquatic phenomena.
-
-## The Underwater Realms
-
-### The Golden Grove
-
-The yakuruna rest in a grove of golden trees that support serpent-hammocks of beautiful color. This grove represents the living spaces of the water people — not dark caves but luminous, ornate environments where even the hammocks are alive.
-
-### The Enchanted Underwater Forest
-
-One of the most beautiful underwater realms is an enchanted forest of aquatic plants and seashells containing precious pearls and aquamarines. This realm blurs the boundary between mineral, plant, and spiritual existence.
-
-### City of the Huiracucha Mermaids
-
-The huiracucha mermaids (huiracucha = white people) inhabit a city where the most sublime and beautiful mermaids live, possessing great magical power. The huiracucha designation connects them to the white/foreign spirit category in Andean-Amazonian cosmology.
-
-### The Miraculous Oasis of Youth
-
-Resplendent with aromatic fragrances, this oasis's [[icaro]] is a love chant that can amorously spellbind anyone. It represents the mythical fountain of youth archetype transposed into an Amazonian underwater context.
+Recognizable by its green hair and the boa it carries, the taksha yakuruna comes out to feed between midnight and dawn. According to Amazonian legend, if captured by a vegetalista, the taksha yakuruna must remain on the earth plane and teach the shaman how to hunt in the waters. This captures the dynamic between human shamans and [[icaro]] is a love chant that can amorously spellbind anyone. It represents the mythical fountain of youth archetype transposed into an Amazonian underwater context.
 
 ### Sumillakta — City of the Sumis
 
@@ -56,23 +30,7 @@ Above the healing hut, a celestial opening appears through layers of dark clouds
 
 ### Auca-sirenas (War Mermaids)
 
-These mermaids keep watch on the tranquil and resting yakurunas. They live within rocks and can disappear by simply approaching one. The small pools of water atop their rocks function as solar mirrors that can be transformed into strong lasers capable of capturing even the most powerful enemies. This represents a sophisticated defensive technology within the [[yakuruna-aquatic-spirit-world]].
-
-### Yakuruna's Dogs
-
-Fierce dogs wearing the heads of piranha fish serve as the yakuruna's guard animals. Their piranha heads combine the dog's tracking ability with the fish's biting power, creating an aquatic guard dog of extraordinary ferocity.
-
-### Cats with Canero Heads
-
-Behind the dogs are cats wearing the heads of canero (Vandelia plazai), a type of parasitic catfish often invoked by evil sorcerers. The canero is notorious for entering the urethra of swimmers, making it a symbol of invasive, painful attack. Cats with these heads represent stealthy, penetrating aggression.
-
-### Flying Gourds
-
-Behind the cats, flying gourds filled with ultra-sonic hymns patrol the underwater realms. These represent sonic weaponry in the spirit world — sound as a defensive technology.
-
-### Tian Camuri Fairies
-
-The tian camuri fairies (tian = to possess, camuri = round seaweed fruit) bring medicinal flowers so that the vegetalista will learn their [[icaros]] and heal with them. Behind them appear the great arkanas (defensive protections) that come from these plants. The fairies serve as intermediaries between the underwater plant world and human healers.
+These mermaids keep watch on the tranquil and resting yakurunas. They live within rocks and can disappear by simply approaching one. The small pools of water atop their rocks function as solar mirrors that can be transformed into strong lasers capable of capturing even the most powerful enemies. This represents a sophisticated defensive technology within the [[icaros]] and heal with them. Behind them appear the great arkanas (defensive protections) that come from these plants. The fairies serve as intermediaries between the underwater plant world and human healers.
 
 ## The Angel Taksha
 
@@ -130,11 +88,7 @@ The subaquatic world is divided into three regions:
 
 ### Levitation
 
-The sumiruna is transported through a glass tube (the [[lupuna]] colorada, Cavallinesia sp.) with the help of ancash sílfos (blue sylphs), standing on a ball of high-pressure gas ready for levitation. The sumiruna wears skins of the boa, trousers of ray-fish, feet of yangunturo (giant armadillo), and a hat of macaw (yura-guacamayo). White mermaids make the capsule levitate while flying saucers hurry to receive it and accompany it in astral travel.
-
-### Swallowing Virotes
-
-The vision also shows curanderos swallowing various virotes (magical darts) with their mann. Each swallows darts from a different [[palm-tree-uses]]:
+The sumiruna is transported through a glass tube (the [[palm-tree-uses]]:
 
 - **Banco on tortoise**: Swallows virotes of the inchahui palm (Syagrus tessmannii)
 - **Pipe smoker**: Swallows virotes of the pona palm (Iriartea exorrhiza)

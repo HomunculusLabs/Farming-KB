@@ -31,7 +31,7 @@ The Department of Health and Human Services recommended rescheduling cannabis to
 
 ## Medical Cannabis States
 
-Medical programs allow access to various [[marijuana-strain-guide-indica]], [[marijuana-strain-guide-sativa]], and [[marijuana-strain-guide-hybrid]] strains through licensed dispensaries.
+Medical programs allow access to various [[marijuana-strain-guide-indica|indica]], [[marijuana-strain-guide-sativa|sativa]], and [[marijuana-strain-guide-hybrid|hybrid]] strains through licensed dispensaries.
 
 ### Common Qualifying Conditions
 
@@ -56,13 +56,13 @@ Some states have broader qualifying condition lists or allow physician recommend
 - **Physician recommendation:** Written certification from a licensed physician
 - **Patient card:** ID card identifying the patient as a registered medical user
 - **Designated caregiver:** Many states allow a caregiver to purchase and transport on behalf of a patient
-- **Dispensary access:** Licensed dispensaries sell medical cannabis products
+- **Dispensary access:** Licensed dispensaries sell medical [[hashish-preparation-and-cannabis-products]]
 - **Possession limits:** Typically higher than recreational limits (varies by state)
 - **Cultivation:** Some states allow home cultivation for medical patients
 
 ## Adult-Use (Recreational) Legal States
 
-As of 2026, numerous states have legalized cannabis for adult recreational use. These states operate regulated commercial markets with licensed [[cannabis-business-basics]].
+As of 2026, numerous states have legalized cannabis for adult recreational use. These states operate regulated commercial markets with licensed [[cannabis-business-basics|cannabis businesses]].
 
 ### Fully Legal States (Representative Examples)
 
@@ -123,7 +123,7 @@ Medical cultivation is generally more permissive where it exists.
 
 ### Licensing Types
 
-- **Cultivation license:** [[query-how-do-i-use-mycorrhizal-inoculants-when-growing-cannabis]] (tiered by canopy size)
+- **Cultivation license:** Growing cannabis (tiered by canopy size)
 - **Processing/manufacturing license:** Extracts, edibles, topicals production
 - **Dispensary/retail license:** Selling to consumers
 - **Distribution license:** Transporting between licensed businesses
@@ -132,9 +132,9 @@ Medical cultivation is generally more permissive where it exists.
 
 ### Compliance Requirements
 
-Licensed [[cannabis-business-basics]] must comply with:
+Licensed [[cannabis-business-basics|cannabis businesses]] must comply with:
 - Seed-to-sale tracking (Metrc or equivalent system)
-- [[cannabis-testing-and-quality]] requirements (potency, pesticides, heavy metals, microbes)
+- [[cannabis-testing-and-quality|Product testing]] requirements (potency, pesticides, heavy metals, microbes)
 - Security requirements (cameras, vaults, access control)
 - Packaging, labeling, and advertising restrictions
 - Employee background checks, financial reporting, and waste management

@@ -14,136 +14,91 @@ sources:
 
 # Breadfruit (Artocarpus altilis)
 
-Breadfruit is a fast-growing, long-lived tropical tree in the mulberry family (Moraceae) that produces large, starchy fruits used as a staple carbohydrate across the Pacific Islands, Caribbean, and parts of Africa and [[psilocybe-southeast-asia-pacific]]. A single mature tree can yield 200–600 fruits per year, making it one of the highest-producing food trees on Earth.
+Breadfruit is a fast-growing, long-lived tropical tree in the mulberry family (Moraceae) that produces large, starchy fruits used as a staple carbohydrate across the Pacific Islands, Caribbean, and parts of Africa and [[tropical-root-crops-cassava-taro-sweet-potato-and-yam]] — Other tropical [[forest-gardening-and-food-forests]] — Integrating breadfruit into food [[agroforestry-and-alley-cropping]] — Breadfruit in agroforestry systems
+- [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]]
+- [[companion-planting-and-polycultures]] — Companion plants for breadfruit
 
-## Taxonomy and Botany
+## Overview
 
-- **Kingdom:** Plantae
-- **Order:** Rosales
-- **Family:** Moraceae (mulberry family)
-- **Genus:** Artocarpus
-- **Species:** A. altilis (Parkinson) Fosberg
-- **Synonyms:** A. communis, A. incisus
+Breadfruit Cultivation And Uses represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
 
-Breadfruit is closely related to jackfruit (*A. heterophyllus*) and breadnut (*A. camansi*). Wild breadfruit (*A. camansi*) from New Guinea is considered the ancestor of cultivated seedless breadfruit. The genus Artocarpus contains approximately 60 species distributed across Southeast Asia and the Pacific.
+## Key Characteristics
 
-### Morphology
+Several defining characteristics distinguish breadfruit cultivation and uses
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
 
-Breadfruit is a large, handsome, evergreen tree reaching 15–25 meters (50–80 feet) in height, though in cultivation it is often managed at 10–15 meters for easier harvesting. Key morphological features include:
+## Ecological Context
 
-- **Trunk:** Straight, cylindrical, 0.6–1.2 meters in diameter, with grey to brown bark that may develop shallow fissures with age. The tree occasionally produces buttress roots in wet conditions.
-- **Leaves:** Large, glossy, deeply lobed, 30–90 cm long and 20–50 cm wide. Leaves are alternate, bright green above, and lighter green with prominent yellowish veins beneath. Young leaves are often yellow-green and may be reddish-tinged.
-- **Flowers:** Monoecious (separate male and female flowers on the same tree). Male inflorescences are club-shaped, 10–30 cm long, yellowish-green, and appear first. Female inflorescences are rounded and develop into the fruit.
-- **Fruit:** A large syncarp (compound fruit), 10–30 cm in diameter, weighing 0.5–6 kg. The skin is green, yellowish-green, or yellow at maturity, with a pattern of hexagonal faces marked by a small, brown, leathery plug at each vertex. The flesh is creamy white to pale yellow, fibrous, and starchy with a bread-like texture when cooked. Most cultivated varieties are seedless; seeded types exist and are called breadnut.
-- **Roots:** Extensive lateral root system. Breadfruit is typically propagated vegetatively from root shoots or suckers.
+The ecological relationships involving breadfruit extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
 
-## History and Origin
+## Practical Applications
 
-### Wild Ancestry
+Breadfruit Cultivation And Uses finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
 
-Breadfruit was first domesticated in the western Pacific, likely in the Bismarck Archipelago and/or the Solomon Islands, approximately 3,500 years ago. The wild progenitor, *Artocarpus camansi* (breadnut), is native to New Guinea and the Philippines and produces seeded fruits. Through centuries of selection, Pacific Islanders developed the seedless, high-yielding varieties that characterize modern breadfruit.
+## Management and Implementation
 
-### Oceanic Dispersal
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
 
-The spread of breadfruit across the Pacific is one of the great stories of plant domestication. Austronesian voyagers carried breadfruit saplings aboard their outrigger canoes as they settled islands across Melanesia, Micronesia, and Polynesia. By the time European explorers arrived, breadfruit was a cornerstone crop from Fiji to Tahiti to Hawaii.
+## Regional Considerations
 
-### The Bounty and European Contact
+Different geographic regions present unique challenges and
+opportunities for breadfruit cultivation and uses. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
 
-Breadfruit entered European consciousness through Captain James Cook's first voyage (1768–1771), when Sir Joseph Banks documented its importance in Tahiti. Impressed by its productivity, the British Royal Navy dispatched the HMS *Bounty* in 1787 under Lieutenant William Bligh to transport breadfruit seedlings from Tahiti to the Caribbean as a cheap food source for enslaved Africans on sugar plantations. The infamous mutiny intervened, but Bligh subsequently completed the voyage aboard HMS *Providence* in 1791–1793, successfully delivering 678 breadfruit plants to St. Vincent and Jamaica.
+## Sustainability
 
-### Modern Spread
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
 
-Today, breadfruit is grown throughout the tropics:
-- **Pacific Islands:** Staple food in Fiji, Samoa, Tonga, Tahiti, Hawaii, and elsewhere
-- **Caribbean:** Widely established in Jamaica, Trinidad, St. Vincent, Puerto Rico, and Haiti
-- **Southeast Asia:** Indonesia, Philippines, Malaysia, Sri Lanka
-- **Africa:** Ghana, Nigeria, Madagascar, Mauritius, Seychelles
-- **Central and South America:** Limited cultivation in Costa Rica, Panama, and Brazil
+## Research and Development
 
-## Nutritional Profile
+Ongoing research continues to expand understanding of
+breadfruit cultivation and uses and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
 
-Breadfruit is a nutrient-dense staple food. Values per 100 g of raw breadfruit:
+## Historical Context
 
-| Nutrient | Amount | % Daily Value |
-|----------|--------|---------------|
-| Energy | 103 kcal | 5% |
-| Carbohydrates | 27 g | 10% |
-| Protein | 1.1 g | 2% |
-| Fat | 0.2 g | <1% |
-| Dietary Fiber | 4.9 g | 20% |
-| Vitamin C | 29 mg | 32% |
-| Thiamin (B1) | 0.11 mg | 9% |
-| Riboflavin (B2) | 0.03 mg | 2% |
-| Niacin (B3) | 1.0 mg | 7% |
-| Potassium | 490 mg | 10% |
-| Calcium | 17 mg | 1% |
-| Iron | 0.5 mg | 3% |
-| Magnesium | 25 mg | 6% |
-| Phosphorus | 30 mg | 4% |
+Breadfruit Cultivation And Uses has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
 
-Breadfruit is gluten-free, making it an excellent alternative to wheat flour. The fruit has a moderate glycemic index and is a good source of complex carbohydrates. Its potassium content supports cardiovascular health, and its fiber content promotes digestive regularity. Compared to white rice, breadfruit provides more protein, fiber, vitamins, and minerals per calorie.
+## Integration Strategies
 
-## Propagation Methods
+Successful integration of breadfruit cultivation and uses into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
 
-Breadfruit is almost always propagated vegetatively to preserve the seedless character of cultivated varieties. Several methods are used:
+## Challenges and Solutions
 
-### Root Shoots and Suckers
-
-The most traditional and widely practiced method. Breadfruit naturally produces root suckers that can be separated from the parent tree and transplanted:
-
-1. Identify healthy suckers 30–60 cm tall arising from roots near the base of the tree
-2. Sever the connecting root with a sharp spade, retaining as much of the sucker's root system as possible
-3. Trim the top to reduce transpiration
-4. Plant in a nursery pot or directly in the field
-5. Maintain high humidity and partial shade until established (4–8 weeks)
-
-This method produces true-to-type plants and is the preferred approach for small-scale growers. However, each parent tree produces only a limited number of suckers per year.
-
-### Root Cuttings
-
-Sections of roots 1.5–3 cm in diameter and 15–30 cm long can be induced to sprout:
-
-1. Collect roots from healthy parent trees during the dormant or early growth period
-2. Plant horizontally 5–10 cm deep in a well-drained propagation medium (sand, coir, or a mix)
-3. Keep moist and warm (25–30°C)
-4. Sprouts typically emerge in 4–8 weeks
-5. Transplant when shoots are 15–30 cm tall
-
-### Marcotting (Air Layering)
-
-Branches can be air-layered to produce rooted plants while still attached to the parent:
-
-1. Select a healthy branch 1–3 cm in diameter
-2. Make an upward cut about one-third through the branch
-3. Apply rooting hormone to the wound
-4. Wrap with moist sphagnum moss and secure with plastic
-5. Roots form in 2–4 months
-6. Sever below the rooted section and pot up
-
-### Tissue Culture (Micropropagation)
-
-Modern laboratories can mass-produce breadfruit plantlets through tissue culture:
-
-- Meristem or nodal explants are surface-sterilized and cultured on nutrient media
-- Multiplication rates of 5–10× per subculture cycle
-- Allows rapid production of disease-free planting material
-- The Breadfruit Institute (NTBG) has pioneered this technique, producing thousands of plantlets of select varieties for distribution globally
-- Essential for large-scale reforestation and food security projects
-
-### Seeds
-
-Seeded varieties (breadnut, *A. camansi*) can be grown from seed, but seeds lose viability quickly (within 2–4 weeks at room temperature). Seed-grown trees show genetic variation and may produce seeded fruit even when pollinated by seedless varieties.
-
-## Growing Conditions
-
-### Climate
-
-Breadfruit is strictly tropical and subtropical:
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
 
 ## See Also
 
-- [[tropical-root-crops-cassava-taro-sweet-potato-and-yam]] — Other tropical [[growing-staple-crops-grains-beans-and-tubers]] for comparison
-- [[forest-gardening-and-food-forests]] — Integrating breadfruit into food [[comparison-food-forest-design-vs-backyard-orchard-design]]
-- [[agroforestry-and-alley-cropping]] — Breadfruit in agroforestry systems
-- [[permaculture-zone-and-sector-analysis]] — Zoning breadfruit in [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]]
-- [[companion-planting-and-polycultures]] — Companion plants for breadfruit
+- [[comparison-breadfruit-vs-cassava]]
+- [[grass-seed-cultivation-of-psilocybe-species]]
+- [[horseradish-cultivation-and-uses]]
+- [[mushroom-cultivation-cloning-isolation]]
+- [[mushroom-cultivation-steps-substrate-preparation]]

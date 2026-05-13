@@ -12,11 +12,11 @@ sources: []
 ## Overview
 
 St. John's Wort is a perennial herbaceous plant native to Europe, western
-Asia, and North Africa, now naturalized throughout much [[berry-growing]].
+Asia, and North Africa, now naturalized throughout much of North America.
 Named for flowering around St. John's Day (June 24), it has been used
 medicinally for over 2,400 years and is one of the most clinically studied
 herbal remedies, particularly for mild to moderate depression. It also
-produces a beautiful red oil infusion valued in topical [[childrens-herbal-medicine]].
+produces a beautiful red oil infusion valued in topical herbal medicine.
 
 ## Botanical Profile
 
@@ -41,7 +41,7 @@ serotonin, dopamine, and norepinephrine reuptake.
 
 Internal uses:
 - Mild to moderate depression: The most extensively studied use. Numerous
-  [[cancer-medicinal-mushrooms-schizophyllan-spg-clinical-trials]] and meta-analyses support its efficacy, showing it is
+  clinical trials and meta-analyses support its efficacy, showing it is
   comparable to standard SSRIs for mild to moderate depression with fewer
   side effects for many people.
 - Anxiety: Often co-occurs with depression treatment; may help with
@@ -60,7 +60,7 @@ Topical uses:
 
 ## Critical Drug Interactions
 
-St. John's Wort is notorious for [[cannabis-drug-interactions-and-contraindications]] must be used with
+St. John's Wort is notorious for drug interactions and must be used with
 caution. It is a potent inducer of cytochrome P450 enzymes (particularly
 CYP3A4) and P-glycoprotein, which speeds up the metabolism of many drugs:
 
@@ -139,12 +139,12 @@ Management:
 For medicinal use, harvest the upper 6-12 inches of the plant (flowering
 tops including buds, flowers, and upper leaves) during peak bloom.
 
-Optimal [[cannabis-harvest-timing-visual-cues]]:
-- Harvest on a dry, sunny day in mid-morning after dew has dried
-- The highest hypericin content is when approximately 50% of flowers are
-  open and 50% are in bud
-- Snip stems above a leaf node to allow regrowth
-- Handle fresh material minimally to avoid losing the red pigment on your
-  fingers (it stains)
+Optimal harvest timing:
 
-## Processing
+## See Also
+
+- [[comparison-calendula-vs-st-johns-wort]]
+- [[johns-hopkins-psychedelic-research]]
+- [[comparison-arnica-vs-st-johns-wort]]
+- [[comparison-valerian-vs-st-johns-wort]]
+- [[comparison-chamomile-vs-st-johns-wort]]

@@ -19,17 +19,7 @@ and biochemical characters to produce a classification that reflects evolutionar
 
 ### Traditional Morphological Classification
 
-For most of the [[bloomfield-history-of-mycology-pioneers]],
-fungi were classified primarily on the basis of morphological characteristics of their reproductive structures.
-The four traditional phyla — Zygomycota (pin molds and relatives),
-Chytridiomycota (chytrids),  Ascomycota (sac fungi),
-and Basidiomycota (club fungi) — were distinguished primarily by the type of spore-producing structure they produced.
-The Oomycota (water molds) and slime molds were also historically included within the fungi,
-though molecular evidence has since shown they belong to other kingdoms.
-
-This morphological framework served mycology well for centuries and remains useful for field identification and ecological studies.
-However,  it suffered from several fundamental problems.
-Many fungi produce simple or reduced [[ectomycorrhizal-morphological-structures]] that provide few characters for classification.
+For most of the [[ectomycorrhizal-morphological-structures]] that provide few characters for classification.
 Convergent evolution of similar structures in unrelated lineages was common.
 And the morphological characters used for classification often reflected adaptation to ecological niches rather than shared evolutionary ancestry.
 
@@ -72,10 +62,7 @@ chanterelles,  and polypores.
 The Ascomycota (sac fungi) is the largest phylum of fungi in terms of described species,
 with approximately 64,000 known species.
 The defining characteristic of Ascomycota is the ascus — a sac-like cell in which sexual spores (ascospores) are produced following meiosis.
-Ascomycota includes yeasts (including the model organism [[saccharomyces-cerevisiae]]),
-filamentous molds (such as Aspergillus and Penicillium),
-truffles and morels,
-plant pathogens (such as [[biodiversity-powdery-mildews]] and the causative agents of Dutch elm disease and chestnut blight),
+Ascomycota includes yeasts (including the model organism [[biodiversity-powdery-mildews]] and the causative agents of Dutch elm disease and chestnut blight),
 lichen-forming fungi,
 and endophytic fungi that live within plant tissues without causing disease.
 
@@ -91,20 +78,7 @@ The Chytridiomycota (chytrids) are the most basal group of fungi and are unique 
 This flagellated stage reflects the aquatic ancestry of the fungal kingdom.
 Most chytrids are microscopic and found in aquatic or moist terrestrial environments,
 where they function as decomposers,  parasites of algae and other fungi,
-or in some cases as pathogens of amphibians (the chytrid [[batrachochytrium-dendrobatidis]] has caused devastating declines in amphibian populations worldwide).
-
-Molecular studies have shown that the traditional Chytridiomycota is paraphyletic with respect to other fungal groups.
-The modern classification recognizes Chytridiomycota in a more restricted sense,
-with some former chytrid lineages elevated to separate phyla (Blastocladiomycota,
-Neocallimastigomycota).
-
-### Zygomycota and Related Phyla
-
-The traditional Zygomycota has been dismantled by molecular phylogenetics and replaced by several distinct phyla.
-The Mucoromycota includes the familiar bread molds (Mucor,
-Rhizopus) and their relatives.
-The Zoopagomycota includes fungi that parasitize small animals such as nematodes and amoebae.
-The Glomeromycota ([[arbuscular-mycorrhizal-fungi]]) was elevated from an order within Zygomycota to its own phylum based on molecular evidence,
+or in some cases as pathogens of amphibians (the chytrid [[arbuscular-mycorrhizal-fungi]]) was elevated from an order within Zygomycota to its own phylum based on molecular evidence,
 reflecting their ancient evolutionary divergence and their critical ecological role as symbionts of the vast majority of land plants.
 
 ### Glomeromycota
@@ -140,7 +114,5 @@ and the integration of genome-scale data into fungal classification systems.
 
 ## See Also
 
-- [[fungal-molecular-methods-apcr-rdna-biodiversity]]
 - [[fungal-biodiversity-similarity-indices-beta-diversity]]
-- [[biodiversity-fungal-molecular-identification-dna-barcoding]]
 - [[environmental-dna-metabarcoding-fungi]]

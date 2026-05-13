@@ -11,10 +11,7 @@ type: concept
 
 # Crop Rotation System: Feeders, Givers, and Light Feeders
 
-Crop rotation is a form of [[comparison-companion-planting-reference-vs-jadam-monoculture-critique]] "over time" — a kind of
-agricultural recycling in which gardeners and plants participate to
-return as much to the soil as has been taken out. In the GROW
-[[jeavons-grow-biointensive-method-overview]], the rotation follows a specific three-phase
+Crop rotation is a form of [[jeavons-grow-biointensive-method-overview]], the rotation follows a specific three-phase
 cycle: heavy feeders, then heavy givers, then light feeders.
 
 ## The Three-Phase Rotation
@@ -24,70 +21,16 @@ cycle: heavy feeders, then heavy givers, then light feeders.
 Heavy feeders are most of the vegetables people like and eat. They
 take large amounts of nutrients, especially nitrogen, from the soil.
 After harvesting heavy feeders, phosphorus and potassium are returned
-to the soil in the form of [[jeavons-soil-fertility]].
-
-## Special Cases and Exceptions
-
-### Low Nitrogen Lovers
-
-Three vegetables have unusual nitrogen preferences:
-
-1. **Turnips** (light feeder) — would normally be planted after heavy
-   givers, which put a lot of nitrogen into the soil. You may find it
-   useful to have them follow a heavy feeder instead
-2. **Sweet potatoes** (light feeder) — same situation as turnips;
-   consider following a heavy feeder rather than a heavy giver
-3. **Green peppers** (heavy feeder of nutrients other than nitrogen)
-   — would normally come after a heavy giver and a light feeder. It
-   may also be good to have green peppers follow a heavy feeder
-
-Jeavons encourages experimentation with these out-of-sequence
-plantings to discover what works best in your specific conditions.
-
-## The Nutrient Return Cycle
-
-The rotation cycle is fundamentally about nutrient recycling:
-
-1. **Compost returns phosphorus and potassium** after heavy feeders
-2. **[[query-which-legumes-fix-the-most-nitrogen-for-gardens-and-farms]] nitrogen** during the heavy giver phase
+to the soil in the form of [[query-which-legumes-fix-the-most-nitrogen-for-gardens-and-farms]] nitrogen** during the heavy giver phase
 3. **Light feeders conserve remaining nutrients** while roots
-   continue to add [[hamilton-composting-and-organic-matter-management]] to the soil
-
-This cycle, when combined with sufficient
-[[jeavons-humus-and-soil-microbiology]], feeding
+   continue to add [[jeavons-humus-and-soil-microbiology]], feeding
 microbial life and improving soil structure for the next rotation
 cycle.
 
 ## Integration with Companion Planting
 
 The crop rotation system is one dimension of the broader
-[[jeavons-green-manures-cover-crops]] as
-  transition crops between main-season plantings
-- How compost applications fit into the rotation schedule
-- The long-term goal of closing the nutrient loop and achieving
-  truly sustainable soil fertility
-## Practical Considerations
-
-Successful implementation of Crop Rotation System: Feeders, Givers, and Light Feeders requires attention to
-several practical factors including environmental conditions,
-resource availability, and timing. Careful monitoring and
-adaptive management help optimize outcomes across varying
-conditions. Integration with other system elements enhances
-overall effectiveness and creates beneficial synergies that
-improve resilience and productivity over time.
-
-## Future Directions
-
-Continued development in this area promises new insights and
-improved approaches for both research and practical application.
-Cross-disciplinary collaboration and advances in analytical
-methods create opportunities for innovation and refinement.
-Recommended resources include current literature, practitioner
-communities, and systematic experimentation to build expertise.
-
-## See Also
-
-- [[jeavons-multi-crop-planting]]
+[[jeavons-multi-crop-planting]]
 
 ## Practical Applications
 
@@ -118,8 +61,90 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[composting]]
 - [[companion-planting]]
-- [[jeavons-crop-rotation-detail]]
 - [[fukuoka-white-clover-cover-crop-system]]
 - [[fukuoka-orchard-cover-crop-black-wattle-system]]
+
+## Overview
+
+Jeavons Crop Rotation System represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish jeavons crop rotation system
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving jeavons extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Jeavons Crop Rotation System finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for jeavons crop rotation system. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+jeavons crop rotation system and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Jeavons Crop Rotation System has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of jeavons crop rotation system into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[jeavons-history-philosophy-biointensive-agriculture]]
+- [[jeavons-master-planning-mini-farms]]
+- [[jeavons-root-systems-below-ground-composting]]
+- [[jeavons-seed-saving-and-propagation]]

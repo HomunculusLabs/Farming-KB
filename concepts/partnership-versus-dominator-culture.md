@@ -15,21 +15,12 @@ type: concept
 
 Terence McKenna adopted Riane Eisler's framework of "partnership" and
 "dominator" social models from *The Chalice and the Blade* as a central
-organizing principle for understanding human [[amanita-muscaria-cultural-history]]. In *Food of
-the Gods*, McKenna argues that the suppression of [[shamanic-ecstasy-and-healing]]
+organizing principle for understanding human [[shamanic-ecstasy-and-healing]]
 psychoactive plant use is not merely a historical curiosity but a defining
 feature of dominator culture — one that has made humanity "enemies of the
 planet, of ourselves, and our grandchildren." This framework provides the
 historical backbone for McKenna's four-part narrative: Paradise, Paradise
-Lost, Hell, and [[mckenna-paradise-regained-dmt-hyperspace]].
-
-## The Partnership Model
-
-Partnership societies, in Eisler's formulation, preceded and later competed
-with dominator forms of social organization. They were characterized by:
-
-- Egalitarian social structures
-- [[holmgren-gender-balance-and-sustainability]] the centrality of feminine principles
+Lost, Hell, and [[holmgren-gender-balance-and-sustainability]] the centrality of feminine principles
 - Goddess worship and earth-centered spirituality
 - Nomadic pastoralism and cattle-raising
 - Shamanic religion based on direct experiential knowledge
@@ -37,15 +28,7 @@ with dominator forms of social organization. They were characterized by:
 
 The Archaic period (Upper Paleolithic, seven to ten thousand years ago)
 immediately preceding the invention of agriculture represents McKenna's
-ideal of [[dominator-partnership-culture]]. It was a time of nomadic pastoralism and
-partnership, a culture based on cattle-raising, shamanism, and Goddess
-worship. During this period, humans maintained a near-symbiotic relationship
-with psychoactive plants that served as a "wellspring of insight and
-coordination flowing from the vegetable world to the human world."
-
-## The Dominator Model
-
-[[archaic-revival-partnership-vs-dominator-cultures]] are hierarchical, paternalistic, materialistic, and
+ideal of [[archaic-revival-partnership-vs-dominator-cultures]] are hierarchical, paternalistic, materialistic, and
 male-dominated. They emerged through the invasion of partnership societies
 by patriarchal groups beginning around 5000-3000 BC. Key characteristics
 include:
@@ -55,54 +38,7 @@ include:
 - Priestcraft and dogma replacing direct spiritual experience
 - Nature viewed as a resource to be exploited rather than a living
   community to which one belongs
-- Suppression of altered [[mckenna-food-gods-designer-states-of-consciousness]] and the feminine
-- Monotheistic religions centered on a male sky god
-
-Eisler used the archaeological record to argue that partnership societies
-in the ancient Middle East existed for vast areas and centuries without
-warfare and upheaval. Warfare and patriarchy arrived with the appearance of
-dominator values.
-
-## The Suppression of Ecstasy
-
-McKenna identified the suppression of shamanic ecstasy as the defining act
-of dominator culture. The ego-dominator cultural style cannot tolerate the
-ecstatic dissolution of boundaries between self and world that psychoactive
-plants produce. This suppression serves multiple functions:
-
-- **Protecting hierarchy**: Shamanic knowledge is inherently
-  anti-authoritarian; it gives direct access to the sacred without need
-  for priestly intermediaries
-- **Enabling exploitation**: A population bonded to nature through
-  ecstatic experience resists environmental destruction; severing this
-  bond makes exploitation possible
-- **Maintaining control**: Altered states of consciousness challenge the
-  assumptions that dominator culture is built upon — the inviolability of
-  the ego, the primacy of material reality, the legitimacy of hierarchy
-
-## The Dominator Inheritance
-
-McKenna described Western culture as "self-toxified by the poisonous
-by-products of technology and egocentric ideology" — the unhappy inheritor
-of the dominator attitude that alteration of consciousness by plants or
-substances is "somehow wrong, onanistic, and perversely antisocial."
-
-Deep-seated cultural biases explain why the Western mind turns anxious and
-repressive on contemplating drugs. Substance-induced changes in
-consciousness reveal that mental life has physical foundations, challenging
-both the Christian assumption of the soul's inviolability and the modern
-idea of the ego and its control structures. In short, encounters with
-psychedelic plants throw into question the entire worldview of dominator
-culture.
-
-## The Terror of the Ego
-
-At the deepest level, McKenna argued, the suppression of altered states
-reflects the ego's terror of its own dissolution. The fear of boundary
-dissolution between self and world underlies not only drug prohibition but
-the broader suppression of the feminine, the foreign, the exotic, and
-transcendental experiences. Dominator culture is, in this reading, a
-[[fukuoka-textdoc-disease-as-natures-self-defense-mechanism]] — a collective psychic structure designed to protect the
+- Suppression of altered [[fukuoka-textdoc-disease-as-natures-self-defense-mechanism]] — a collective psychic structure designed to protect the
 ego from the overwhelming awareness of its own contingency.
 
 ## From Paradise to Hell
@@ -110,8 +46,7 @@ ego from the overwhelming awareness of its own contingency.
 McKenna organized his historical narrative around this framework:
 
 1. **Paradise** (Archaic period): Partnership societies with shamanic
-   plant use, Goddess worship, and [[fukuoka-bushman-world-ecological-balance]]
-2. **Paradise Lost** (3000-1500 BC): Invasion by [[mckenna-alcohol-vs-psychedelics-dominator-cultures]],
+   plant use, Goddess worship, and [[mckenna-alcohol-vs-psychedelics-dominator-cultures]],
    suppression of the Goddess and her sacraments, replacement of Soma
    with alcohol
 3. **Hell** (1500 BC-present): Rise of addictive substances (sugar,
@@ -139,3 +74,77 @@ McKenna argued that the suppression of the natural human fascination with
 altered states and the destruction of the living planet are "intimately
 and causally connected." Recovering one necessarily involves recovering
 the other.
+
+## Overview
+
+Partnership Versus Dominator Culture represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish partnership versus dominator culture
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving partnership extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Partnership Versus Dominator Culture finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for partnership versus dominator culture. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+partnership versus dominator culture and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Partnership Versus Dominator Culture has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of partnership versus dominator culture into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource

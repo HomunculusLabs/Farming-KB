@@ -13,76 +13,17 @@ tags: [cannabis]
 
 ## Overview
 
-Solvent extraction uses chemical solvents to dissolve THC and other cannabinoids from cannabis plant material. According to Cervantes, while these methods can produce extremely potent concentrates, they carry significant health risks from explosion, fire, toxic fumes, and residual solvent contamination. The book deliberately omits detailed instructions for chemical [[arbuscular-mycorrhizal-spore-extraction-methods]] because of these safety concerns, noting that chemical damage may result from premature use of the end product before all solvents and residuals have been extracted.
-
-## Types of Solvent Extraction
-
-### Volatile Solvent Extraction
-
-Volatile solvent extraction uses dangerous chemical solvents including:
-
-- Isopropyl alcohol (rubbing alcohol)
-- [[pf-tek-ethyl-alcohol-extraction-liqueur-concentration]]
+Solvent extraction uses chemical solvents to dissolve THC and other cannabinoids from cannabis plant material. According to Cervantes, while these methods can produce extremely potent concentrates, they carry significant health risks from explosion, fire, toxic fumes, and residual solvent contamination. The book deliberately omits detailed instructions for chemical [[pf-tek-ethyl-alcohol-extraction-liqueur-concentration]]
 - White gas
 - Ether
 - Acetate
 - Various other alcohols
 
-The general process involves [[knf-seed-soaking-cannabis-germination]] in the solvent, then removing the solvent by evaporation. The resulting residual is a sludge containing chlorophyll, plant waxes, other debris, and cannabinoids. Cervantes does not recommend this method due to the dangerous chemicals involved.
-
-### Isomerization
-
-Isomerization is a chemical resin extraction process that was very popular in the 1970s and early 1980s. It has fallen out of favor because of the harsh and dangerous chemical solvents required, including white gas, [[fukuoka-textdoc-fertilizer-soil-destruction-sulfuric-acid]], and hydrochloric acid. These chemicals pose serious health risks to both the producer and consumer.
+The general process involves [[fukuoka-textdoc-fertilizer-soil-destruction-sulfuric-acid]], and hydrochloric acid. These chemicals pose serious health risks to both the producer and consumer.
 
 ### Butane Extraction (BHO)
 
-Butane [[cervantes-hash-cannabis-oil-production]] (BHO) is made by passing butane gas through chopped cannabis. The process works as follows:
-
-1. Butane gas is passed through a tube containing chopped cannabis
-2. Butane dissolves THC and transports it out a drain where it is collected
-3. The captured butane contains dissolved THC
-4. The collection container is set in a pan of warm water
-5. Butane evaporates away, leaving honey-colored residual oil
-6. Once butane has dissipated completely, oil is scraped from the collection pan
-
-Butane hash oil is particularly dangerous to make because:
-
-- The process uses a quantity of butane in an open container
-- Butane fumes are toxic to inhale
-- A small flame or spark could cause the butane to explode
-- Production should only occur in well-ventilated or outdoor locations
-- People who make butane hash should take extreme safety precautions
-
-## Hash Oil and Cannabis Oil
-
-### Hash Oil Characteristics
-
-Hash oil is a concentrate of hash or marijuana dissolved in hydrocarbon solvents such as ether and alcohol to extract THC. Hash and cannabis oil frequently retain residues from the solvents used for processing. These residues are a health risk to the consumer. The oils can be very concentrated and potent.
-
-Cannabis oils are normally dark in color because they contain chlorophyll and other contaminants. Filtering the oil through activated charcoal will remove virtually all of the impurities, improving both color and purity.
-
-### Honey Oil
-
-Honey oil was somewhat popular in America in the early 1970s. It has a distinctive translucent golden-amber color. The oil transforms from a stiff, toffee-like consistency to runny oil when warmed. Pure honey oil represents one of the most refined solvent extractions possible.
-
-### Jelly Hash
-
-Jelly hash combines high quality hash with cannabis oil. The typical recipe contains:
-
-- Eight parts high quality hash
-- One part cannabis oil (hash oil), usually extracted with butane
-
-Although very strong, the dark jelly hash has a characteristic sticky, oily consistency which makes it difficult to handle. The combination produces an extremely potent product.
-
-## Consumption Methods
-
-Cannabis oil can be consumed in several ways:
-
-- Wiped on joint papers or cigarettes for smoking
-- Applied to pipe screens before smoking
-- Smoked using hot knives (a traditional method)
-- Vaporized in an oil pipe (a stem with a glass bubble on one end)
-- Added to [[falconer-victorian-mushroom-cooking-recipes]] as an ingredient
+Butane [[falconer-victorian-mushroom-cooking-recipes]] as an ingredient
 - Applied to the tip of a cigarette
 
 A popular smoking method involves placing a little oil inside the glass bubble of an oil pipe. When heat is applied, the THC vaporizes and is inhaled through the stem.
@@ -118,8 +59,91 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[doc]]
 - [[honey-oil]]
-- [[det]]
 - [[isopropyl-alcohol]]
 - [[spore]]
+
+## Overview
+
+Cannabis Solvent Extraction represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish cannabis solvent extraction
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving cannabis extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Cannabis Solvent Extraction finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for cannabis solvent extraction. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+cannabis solvent extraction and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Cannabis Solvent Extraction has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of cannabis solvent extraction into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[blesching-cannabis-vasopressin-aggression]]
+- [[cannabis-cultivar-microbiome-specificity]]
+- [[green-cannabis-grow-bible-species-indica-sativa-ruderalis]]
+- [[lemon-haze-cannabis]]
+- [[query-how-to-harvest-and-cure-cannabis-for-best-flavor]]

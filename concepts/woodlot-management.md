@@ -1,5 +1,5 @@
 ---
-title: Woodlot Management
+title: [[permaculture-woodlot-management]]
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
@@ -21,7 +21,7 @@ Sustainable forestry means harvesting no more wood than the forest grows each ye
 - Protect riparian zones (stream banks) with uncut buffer strips
 - Encourage species diversity for resilience
 - Minimize soil disturbance during logging operations
-- Regenerate harvested areas promptly ([[fukuoka-natural-seeding-volunteer-rice-discovery]] or planting)
+- Regenerate harvested areas promptly ([[fukuoka-natural-seeding-direct-seeding-development]] or planting)
 
 ## Firewood Species
 

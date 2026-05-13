@@ -8,47 +8,18 @@ type: concept
 tags: [culture, permaculture, plants, tree-crop]
 ---
 
-# [[acacia]], tagasaste
-
-Beyond the general nitrogen-fixing pioneer species, several specific legume trees deserve detailed attention for their exceptional contributions to permaculture systems. These species provide stock feed, human food, timber, bee forage, and soil improvement simultaneously. This page covers the most important genera and species: Acacia (wattles), Carob, Black Locust, Honey Locust, Tagasaste, Leucaena, and Albizia.
-
-## Tagasaste ([[hamilton-geoffhamilton-nick-organic-gardening-companion-planting]]
+# [[hamilton-geoffhamilton-nick-organic-gardening-companion-planting]]
 
 Tagasaste is listed as a companion to nearly all fruit and nut trees: almond, apple, apricot, avocado, capulin cherry, cherry, citrus, carob, fig, jujube, lichee, nurse-plants in revegetation.
 
 Key species covered in the source:
 
 - **Acacia aneura (mulga)** - survives annual rainfalls 200-500 mm, some trees straight trunked to 9 m. Traditional Aboriginal staple.
-- **Acacia salicina (cooba)** - useful fodder and [[permplant-willows-salix-erosion-control-fodder]] tree
-- **Acacia saligna (golden wreath wattle)** - good for interplanting with apricots as companion
-- **Acacia stenophylla (river cooba)** - riparian species
-- **Acacia victoriae (gundabluey)** - dry country species, rainfall 125-300 mm
-
-Wattles are widely used as companion plants to fruit trees. Acacia pulchella, A. suaveolens, and A. decurrens are specifically noted as companions to Chinese chestnut, carob, avocado, loquat, macadamia, mango, plum, and white sapote.
-
-## Albizias (Albizia spp)
-
-Family: MIMOSACEAE
-
-### Albizia lebbek (Siris Tree)
-A moderately fast-growing, tall (to 30 m), spreading, deciduous tree native to the Indian subcontinent (rainfall 500-2000 mm). Good for erosion control with a strong root system. Tolerant of salt spray and grows well near the sea shore. Timber resembles rosewood and is a good furniture timber. Good dense firewood. The foliage contains about 20% protein; one tree can provide 27% of a cow's annual feed. Highly regarded for light-coloured honey.
-
-### Albizia lophantha (Crested Wattle)
-A small, fast-growing, nitrogen-fixing, semi-deciduous tree or sprawling shrub (4-15 m). Short-lived, killed by fire. Native to coastal areas of south-western Western Australia, now naturalised in warm temperate and subtropical zones. Fast growth makes it excellent for rehabilitation of sand dunes and soil stabilisation, and for shelterbelts. Cattle browse the leaves. Roots have 10% saponin content, used in silk and wood factories. Propagation by scarified seed.
-
-## Black Locust ([[gleditsia-triacanthos]])
+- **Acacia salicina (cooba)** - useful fodder and [[gleditsia-triacanthos]])
 
 Family: CAESALPINIACEAE
 
-A moderately fast-growing, long-lived legume native to [[psilocybin-north-america-pacific-northwest]] (rainfall 425-1500 mm, altitude to 2100 m). Often attains 24 m (up to 30 m), trunk diameters 60-90 cm. Deep root system makes it capable of withstanding drought. Tolerant of alkaline and acid soils, and salt. Deciduous, allowing light through in winter to pasture or understorey. Mature trees resistant to frost.
-
-### Pod Production and Nutrition
-
-Branches form thorns which protect from ring-barking by stock. Pigs, sheep, cattle, and goats all readily feed on the pods which fall from female trees in autumn.
-
-Nutritive analysis: protein 14.3-16%; sugar 15.5-26.5%; carbohydrate 60.5%; fat 7.5%; calcium 0.2%; iron 0.0038%; crude fibre 18.4%; ash 4.7%. Superior to oats as stock feed.
-
-Yields: 9 t/ha/yr by year 12 (at 36 trees/ha), 18 t/ha/yr by year 15, mature groves up to 50-60 t/ha/yr in selected [[growing-gourmet-north-american-reishi-species]] plantings. Pods also used for human food and alcohol fuel production.
+A moderately fast-growing, long-lived legume native to [[growing-gourmet-north-american-reishi-species]] plantings. Pods also used for human food and alcohol fuel production.
 
 ### Timber
 Hard, heavy, strong; heartwood lasts 100 years untreated in the ground. Good furniture timber. Coppices freely and suckers from damaged roots. Good fuelwood. Propagation similar to carob, also by transplanting root suckers.
@@ -71,16 +42,7 @@ Yields: up to 1 tonne from a single tree in a good season; about 8 t/ha is typic
 Some salt tolerance observed in carobs along waterways. The tree does not burn easily and generally recovers when scorched by fire. Stock will trim foliage within their reach.
 
 ### Propagation
-Seeds have very hard cases and need scarification: pour boiling water over seeds, soak overnight. Seedlings develop a long tap root very early (250 mm in first two weeks). Deep pots (1-litre milk cartons) recommended. [[comparison-seed-starting-indoors-vs-direct-seeding-techniques]] possible using protective markers.
-
-### Companion Planting
-Grows well with tagasaste, Albizia lophantha, and Acacia decurrens as nurse plants. Successfully companion-planted with grapes in Algeria.
-
-## Leucaena (Leucaena spp)
-
-Family: MIMOSACEAE
-
-A genus of 10 species native to southern North America and [[guzman-allen-gartz-neurotropic-fungi-central-america-caribbean]]. The most commercially exploited species, Leucaena leucocephala, is often claimed to be the fastest-growing tree in the tropics (evergreen, but sheds leaves in frost/storm/drought). Rainfall 250-3000 mm; altitudes below 500 m best. Tolerates some salinity and waterlogging.
+Seeds have very hard cases and need scarification: pour boiling water over seeds, soak overnight. Seedlings develop a long tap root very early (250 mm in first two weeks). Deep pots (1-litre milk cartons) recommended. [[guzman-allen-gartz-neurotropic-fungi-central-america-caribbean]]. The most commercially exploited species, Leucaena leucocephala, is often claimed to be the fastest-growing tree in the tropics (evergreen, but sheds leaves in frost/storm/drought). Rainfall 250-3000 mm; altitudes below 500 m best. Tolerates some salinity and waterlogging.
 
 ### Three Forms
 - **Common form**: Low shrub to 5 m, abundant foliage, flower, and seed
@@ -88,3 +50,88 @@ A genus of 10 species native to southern North America and [[guzman-allen-gartz-
 - **Peru type**: Medium tree to 10 m, branches close to ground, abundant foliage and seed
 
 ### Uses
+
+## Overview
+
+Permaculture Plants Legume Trees Acacia Carob Locust represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish permaculture plants legume trees acacia carob locust
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving permaculture extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Permaculture Plants Legume Trees Acacia Carob Locust finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for permaculture plants legume trees acacia carob locust. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+permaculture plants legume trees acacia carob locust and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Permaculture Plants Legume Trees Acacia Carob Locust has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of permaculture plants legume trees acacia carob locust into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[holzer-permaculture-landscape-design]]
+- [[permaculture-design-concepts-and-methods-overview]]
+- [[permaculture-design-methods-summary]]
+- [[permaculture-design-science-concepts-themes]]
+- [[permaculture-designers-manual-wildlife-corridors]]

@@ -9,29 +9,13 @@ sources:
 ---
 # JADAM Soil Management Without Tillage
 
-JADAM soil management eliminates the need for deep tillage by rebuilding soil health through microbial activity, [[gaias-garden-cover-crops-soil-building]], and surface application of [[hamilton-composting-and-organic-matter-management]]. The system addresses soil compaction -- the root cause of modern farming difficulties -- without mechanical intervention.
+JADAM soil management eliminates the need for deep tillage by rebuilding soil health through microbial activity, [[hamilton-composting-and-organic-matter-management]]. The system addresses soil compaction -- the root cause of modern farming difficulties -- without mechanical intervention.
 
 ## The Soil Compaction Problem
 
 Heavy machinery (tractors) compress soil, creating a hardened "plow pan" layer at approximately 15 cm (6 in) depth. This compaction:
 - Prevents roots from penetrating deeper soil
-- Traps [[cervantes-chemical-fertilizers-guide]], pesticides, and herbicides in the top 15 cm
-- Causes water stagnation and evaporation, leaving salt behind
-- Blocks the natural cycling of materials between sky and soil
-- Is measured to affect soil as deep as 7 meters below the surface
-
-JADAM's position: conventional farming and restoring soil life are fundamentally incompatible. Heavy machinery must be minimized or eliminated.
-
-## Detecting Soil Compaction
-
-Two simple methods:
-1. Dig 40 cm vertically, examine soil at 20 cm depth. Abundant roots below 20 cm means no compaction; absence of roots in multiple spots indicates plow pan.
-2. Push a sharp iron rod into soil. If it cannot penetrate, compaction exists.
-
-## The Leaf Mold Model
-
-JADAM's soil management ideal is the leaf mold found in mountains and forests -- soil that has been building for thousands of years. Three tenets:
-- Microorganism composition should match that of [[query-how-to-make-and-use-leaf-mold-in-your-garden]] nearby mountains
+- Traps [[query-how-to-make-and-use-leaf-mold-in-your-garden]] nearby mountains
 - Organic matter should be abundant like leaf mold
 - Minerals should be diverse like leaf mold
 
@@ -71,9 +55,7 @@ Leave crop residues on the soil surface. Add some organic matter and fully wet w
 ## Temperature Management Through Cover
 
 Cover crops and wild grass provide critical soil temperature regulation:
-- **Prevent early flowering**: Grass shades soil in spring, preventing rapid temperature rise that triggers premature blooming in [[comparison-pruning-fruit-trees-vs-grafting-fruit-trees]]
-- **Prevent chilling/freezing**: Microbial activity in covered soil raises temperature; even in winter, leaf mold rarely freezes
-- **Prevent summer overheating**: Black [[jadam-plastic-mulch-problems]] can raise soil to 45C (113F) at 1 cm depth; grass cover keeps soil at preferred temperatures. Cut grass 5 cm (2 in) high, 3 times per year
+- **Prevent early flowering**: Grass shades soil in spring, preventing rapid temperature rise that triggers premature blooming in [[jadam-plastic-mulch-problems]] can raise soil to 45C (113F) at 1 cm depth; grass cover keeps soil at preferred temperatures. Cut grass 5 cm (2 in) high, 3 times per year
 
 ## Addressing Salt Accumulation
 
@@ -117,8 +99,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[soil-life]]
 - [[building-soil]]
-- [[det]]
 - [[composting]]
 - [[cover-crops]]

@@ -1,6 +1,6 @@
 ---
 title: Mckenna Dmt Hyperspace Translinguistic Matter
-aliases: [DMT hyperspace, translinguistic matter, [[mckenna-hyperspace-and-human-freedom]], DMT mode shift]
+aliases: [DMT hyperspace, translinguistic matter, mckenna-hyperspace-and-human-freedom, DMT mode shift]
 tags: [psychedelics, consciousness, DMT, philosophy, tryptamines, phenomenology]
 source: mckenna_t-tryptamines_consciousness.md
 created: 2026-05-09
@@ -8,15 +8,10 @@ created: 2026-05-09
 
 # DMT Hyperspace and Translinguistic Matter
 
-DMT (N,N-dimethyltryptamine) produces what [[terence-mckenna]] described as the most
-intense [[leary-psychedelic-experience-bardo-mapping]] available to human beings. When smoked, the onset of
+DMT (N,N-dimethyltryptamine) produces what [[leary-psychedelic-experience-bardo-mapping]] available to human beings. When smoked, the onset of
 the experience begins in approximately fifteen seconds, making it one of the
 fastest-acting psychoactive compounds known. The experiencer falls immediately
-into a trance state, hearing a sound described as "[[mckenna-dmt-onset-phenomenology-ripping-cellophane]]" or "someone
-crumpling up plastic film and throwing it away." An ascending tone accompanies the
-visual phenomena.
-
-McKenna's colleague suggested this sound represents "our [[mckenna-radio-entelechy-dmt-onset-acoustic-phenomena]] ripping
+into a trance state, hearing a sound described as "[[mckenna-radio-entelechy-dmt-onset-acoustic-phenomena]] ripping
 out of the organic matrix." The experience is so overwhelming that despite living in
 a society "absolutely obsessed with every kind of sensation imaginable" that
 "adores every therapy, every intoxication, every sexual configuration, and all
@@ -58,8 +53,7 @@ sense of the incoming signal.
 
 The Logos, as McKenna used the term, refers to a self-transforming, self-revealing
 informational matrix encountered in the DMT state. It communicates through a
-language that cannot be translated into English—a [[mckenna-cognitive-dissonance-translinguistic-object]] that
-produces profound [[mckenna-translinguistic-objects-cognitive-dissonance-tryptamine]] in the human brain.
+language that cannot be translated into English—a [[mckenna-translinguistic-objects-cognitive-dissonance-tryptamine]] in the human brain.
 
 When humans encounter this translinguistic information, the hindbrain attempts to
 overlay language upon it, and it "sheds it like water off a duck's back." One tries
@@ -84,6 +78,5 @@ soul would exist as "a superconducting lens of translinguistic matter generated
 out of the body of each of us at a critical juncture at our psychedelic Bar
 Mitzvah." One's body image would exist as a "holographic wave transform while
 one is at play in the fields of the Lord and living in Elysium." This vision
-draws on the Kabbalistic [[mckenna-glossolalia-and-primal-language-tryptamine-states]] (*Ursprache*), Robert Graves' *The
-[[mckenna-primal-ursprache-kabbalistic-zohar-and-white-goddess-glossolalia]]*, and Philo Judeaus' description of the Logos passing "from
+draws on the Kabbalistic [[mckenna-primal-ursprache-kabbalistic-zohar-and-white-goddess-glossolalia]]*, and Philo Judeaus' description of the Logos passing "from
 things heard to things beheld."

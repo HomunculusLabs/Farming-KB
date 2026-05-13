@@ -37,7 +37,7 @@ A comprehensive safety reference for wild mushroom foraging. Covers positive ID 
 2. **No single rule works.** Peelability, silver spoon test, cap color, "if animals eat it" — all are myths. Each species must be learned individually (Ramsbottom, 1945).
 3. **When in doubt, throw it out.** No mushroom is worth your life.
 4. **Learn from local experts.** Join a mycological society. Regional knowledge is critical.
-5. **Start with easy species.** Morels, chanterelles, chicken of the woods, oyster mushrooms, lion's mane — all have [[metzner-three-distinctive-features-shamanic-entheogenic-ceremonies]] and few dangerous lookalikes.
+5. **Start with easy species.** Morels, chanterelles, chicken of the woods, oyster mushrooms, lion's mane — all have distinctive features and few dangerous lookalikes.
 6. **Use multiple field guides.** Cross-reference every ID with at least two sources.
 7. **Keep a detailed journal.** Photos, habitat, tree associations, spore print color, date, location.
 
@@ -72,9 +72,9 @@ Essential for distinguishing many lookalikes. Place cap gills-down on half white
 
 | Spore Print Color | Edible Examples | Dangerous Examples |
 |---|---|---|
-| White | [[comparison-king-stropharia-vs-paddy-straw-mushroom]] (Volvariella) | Death Cap ([[amanita-phalloides]]), Destroying Angel (A. virosa), many Lepiota |
-| Pink/brown | Field mushroom ([[agaricus-campestris]]) | Entoloma species (poisonous) |
-| Dark brown/chocolate | Psilocybe cubensis | [[galerina-marginata]] (DEADLY — same habitat as Psilocybe) |
+| White | Paddy straw mushroom (Volvariella) | Death Cap (Amanita phalloides), Destroying Angel (A. virosa), many Lepiota |
+| Pink/brown | Field mushroom (Agaricus campestris) | Entoloma species (poisonous) |
+| Dark brown/chocolate | Psilocybe cubensis | Galerina marginata (DEADLY — same habitat as Psilocybe) |
 | Rust/brown | Some edible Boletus | Cortinarius species (kidney toxin, delayed onset) |
 | Cream/yellow | Chanterelle | Jack-o'-lantern (not deadly but sickening) |
 | Purple-brown | King Bolete (Boletus edulis) | Some toxic Boletus (Tylopilus, Rubroboletus) |
@@ -118,7 +118,7 @@ Essential for distinguishing many lookalikes. Place cap gills-down on half white
 ## Regional Considerations
 
 - **Northeast/Appalachia**: Rich diversity. Hen of the woods under oaks. Chanterelles in old-growth hardwoods. Morels in spring.
-- **[[psilocybin-north-america-pacific-northwest]]**: Mushroom paradise — chanterelles, matsutake, king bolete, lion's mane. Long season (Sep-Dec).
+- **Pacific Northwest**: Mushroom paradise — chanterelles, matsutake, king bolete, lion's mane. Long season (Sep-Dec).
 - **Southeast**: Heat limits summer foraging. Focus on spring/fall. Beware venomous snakes in habitat.
 - **Midwest/Great Lakes**: Good morel hunting in spring. Chanterelles and hen of the woods in fall.
 - **Rocky Mountains**: Higher elevation = shorter season but unique species. Elevation matters more than latitude.
@@ -140,11 +140,11 @@ Essential for distinguishing many lookalikes. Place cap gills-down on half white
 - Key difference from Psilocybe: Galerina does NOT bruise blue
 
 ### Cortinarius
-- Several species contain orellanine (irreversible kidney toxin)
-- Delayed onset: days to WEEKS after consumption
-- Rust-brown spore print, cobwebby partial veil (cortina)
-- Notoriously difficult to identify — best avoided by beginners
 
----
+## See Also
 
-## Common Deadly Mistakes
+- [[reishi-mushroom-cultivation-and-medicinal-properties]]
+- [[straw-based-mushroom-substrate-preparation]]
+- [[casing-soil-sterilization-versus-pasteurization-debate-mushroom-cultivation]]
+- [[straw-mushroom-cultivation]]
+- [[psilocybe-caerulescens-mazatec-sacred-mushroom-guzman-1998]]

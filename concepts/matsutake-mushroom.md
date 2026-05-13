@@ -1,5 +1,5 @@
 ---
-title: Matsutake Mushroom
+title: [[matsutake-mushroom-ecology-and-culture]]
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
@@ -7,13 +7,13 @@ tags: [fungi, mushrooms, foraging, species, ecology, mycorrhizae, asia, economic
 sources: []
 ---
 
-# Matsutake Mushroom (Tricholoma matsutake)
+# Matsutake Mushroom ([[tricholoma-matsutake|Tricholoma matsutake]])
 
 The Matsutake is arguably the most valuable mushroom in the world by weight, with prime specimens commanding prices exceeding $1,000 per pound in Japanese markets. Despite intense demand spanning centuries, matsutake has never been successfully cultivated commercially — it remains one of the few ultra-premium foods that can only be wild-harvested.
 
 ## Overview
 
-Matsutake (Tricholoma matsutake, "pine mushroom") is an [[ectomycorrhizal-mushroom-fruiting-ecology]] that forms obligate symbiotic associations with the roots of specific pine and other conifer species. Found across the Northern Hemisphere in pine forests from Japan to North America to Scandinavia, it has been prized in Japanese culture for over a thousand years as a symbol of autumn, purity, and the changing seasons.
+Matsutake ([[tricholoma-matsutake]], "pine mushroom") is an [[ectomycorrhizal-mushroom-fruiting-ecology]] that forms obligate symbiotic associations with the roots of specific pine and other conifer species. Found across the Northern Hemisphere in pine forests from Japan to North America to Scandinavia, it has been prized in Japanese culture for over a thousand years as a symbol of autumn, purity, and the changing seasons.
 
 ## Species Profile
 

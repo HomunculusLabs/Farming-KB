@@ -15,21 +15,7 @@ type: concept
 
 # Substrate Supplementation for Mushroom Cultivation
 
-Supplementing [[query-what-are-the-best-mushroom-substrates-for-different-species]] with nitrogen-rich additives is
-one of the most effective ways to boost yields. However, it also
-introduces significant risk of contamination. Understanding how
-to properly supplement substrates is essential for commercial and
-advanced home cultivators seeking to maximize productivity.
-
-## The Role of Supplements
-
-Supplementing the substrate can boost yields substantially. A wide
-variety of protein-rich (nitrogenous) materials can be used to
-enhance the base substrate. Many of these are grains or their
-derivatives. Supplementing a substrate such as straw or sawdust
-changes the number and the type of organisms that can be supported.
-
-Most of the raw materials used for [[falconer-growing-mushrooms-in-sheds]] listed in
+Supplementing [[falconer-growing-mushrooms-in-sheds]] listed in
 Stamets' work favor mushroom mycelium and are nitrogen-poor.
 Semi-selectivity is lost after nitrogen supplements are added, but
 ultimately mushroom yields improve. Therefore, when supplements are
@@ -48,18 +34,7 @@ total dry mass of the bulk substrate to enhance yields:
 - Rice bran
 - Rye grain
 - Soybean meal and oil
-- Spent grains from beer fermentation ([[ergot-of-barley-and-wheat-alkaloid-composition]])
-- Vegetable oils
-- Wheat grain, wheat bran
-- Nutritional yeast
-
-Using rice bran as a reference standard, the substitution of other
-supplements should be added according to their relative protein
-and nitrogen contents. For instance, rice bran is approximately
-12.5% protein and 2% nitrogen. If soybean meal is substituted for
-rice bran, with its 44% protein and 7% nitrogen content, the
-cultivator should add roughly one quarter as much to the same
-[[oyster-mushroom-supplemented-sawdust-blocks]] formula.
+- Spent grains from beer fermentation ([[oyster-mushroom-supplemented-sawdust-blocks]] formula.
 
 ## Supplementation Rates and Risks
 
@@ -84,10 +59,7 @@ Simply spacing spawn bags or jars apart from one another, and
 lowering spawn room temperatures as thermogenesis begins, can stop
 this catalytic climb. For many of the gourmet wood decomposers, a
 temperature plateau of 75-85 degrees F (24-29 degrees C) is ideal
-during the [[growing-gourmet-substrate-preparation]].
-
-Thermogenesis is reduced to a more manageable level when using
-[[growing-gourmet-sawdust-spawn-production-use]] for inoculation into supplemented sawdust substrates
+during the [[growing-gourmet-sawdust-spawn-production-use]] for inoculation into supplemented sawdust substrates
 
 ## Practical Applications
 
@@ -118,8 +90,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[mushroom-cultivation]]
 - [[mycelium]]
-- [[sterilization]]
 - [[growing-gourmet-substrate-preparation]]
 - [[growing-gourmet-species-sequencing-substrate-cascades]]

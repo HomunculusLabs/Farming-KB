@@ -9,7 +9,7 @@ sources: []
 
 ## Overview
 
-Strawberries are one of the most rewarding fruits for home gardeners — they produce fruit quickly (within the first year for some types), take up relatively little space, and the flavor of homegrown berries far exceeds anything from the store. This guide covers the three main types, runner management, bed renovation, [[seed-saving-and-variety-selection]].
+Strawberries are one of the most rewarding fruits for home gardeners — they produce fruit quickly (within the first year for some types), take up relatively little space, and the flavor of homegrown berries far exceeds anything from the store. This guide covers the three main types, runner management, bed renovation, and variety selection.
 
 ## Strawberry Types
 
@@ -33,12 +33,12 @@ Strawberries are one of the most rewarding fruits for home gardeners — they pr
 - Good choice for steady fresh eating throughout the season
 
 ### Day-Neutral
-- Produce fruit continuously throughout [[query-how-to-protect-plants-from-frost-and-extend-the-growing-season]] regardless of day length
+- Produce fruit continuously throughout the growing season regardless of day length
 - Start bearing about 3 months after planting
 - Smallest berries of the three types but most consistent production
 - Most productive in the first year
 - Varieties: Albion, Seascape, San Andreas, Portola, Tristar, Mara des Bois
-- Excellent for containers [[sepp-holzer-terrace-systems-and-raised-beds]]
+- Excellent for containers and raised beds
 - Few runners; propagate by division
 - Best choice for small gardens wanting continuous fresh berries
 
@@ -46,7 +46,7 @@ Strawberries are one of the most rewarding fruits for home gardeners — they pr
 - Want a big harvest for freezing/jam: June-bearing
 - Want steady fresh berries all season: Day-neutral
 - Want moderate harvests with less maintenance: Everbearing
-- [[container-growing-vegetables-herbs]]: Day-neutral (compact, few runners)
+- Container growing: Day-neutral (compact, few runners)
 - Many gardeners plant a combination
 
 ## Site Selection and Soil
@@ -58,7 +58,7 @@ Strawberries are one of the most rewarding fruits for home gardeners — they pr
 
 ### Soil
 - Well-draining, slightly acidic soil, pH 5.5-6.8
-- Rich in [[fukuoka-textdoc-composting-critique-futility-prepared-organic-matter]] — work in 2-3 inches of compost before planting
+- Rich in organic matter — work in 2-3 inches of compost before planting
 - Sandy loam is ideal; avoid heavy clay
 - Raised beds are excellent for strawberries (improves drainage, reduces crown rot)
 - Strawberries are shallow-rooted (top 6 inches) — keep the root zone consistently moist
@@ -68,7 +68,7 @@ Strawberries are one of the most rewarding fruits for home gardeners — they pr
 ### Timing
 - Plant bare-root crowns in early spring as soon as soil is workable
 - In mild climates, fall planting (October-November) allows roots to establish for early spring harvest
-- Container-grown plants can be planted any time during the [[extending-growing-season]]
+- Container-grown plants can be planted any time during the growing season
 
 ### Planting Technique
 - Plant at the correct depth: crown (where roots meet stem) must be at soil level
@@ -96,7 +96,7 @@ Runners (stolons) are long stems that produce new daughter plants at their nodes
 ### Managing Runners
 - **June-bearing**: Allow first set of runners to develop and root; remove excess to prevent overcrowding. Aim for plants spaced 6-8 inches apart within the row
 - **Everbearing**: Allow some runners; remove excess
-- **Day-neutral**: Remove all runners to maximize [[query-how-do-i-prune-brambles-for-maximum-fruit-production]]
+- **Day-neutral**: Remove all runners to maximize fruit production
 
 ### Using Runners for Propagation
 - Peg runners into the soil or small pots to encourage rooting
@@ -140,11 +140,11 @@ Strawberry beds decline in productivity after 3-4 years. Renovation extends thei
 - **Northeast/Midwest**: Honeoye, Jewel, Allstar, Earliglow — cold-hardy, disease-resistant
 - **Southeast**: Chandler, Camarosa, Sweet Charlie, Albion — heat-tolerant
 - **Northwest**: Hood, Tillamook, Puget Crimson — excellent conditions
-- **General-purpose**: Chandler (adaptable), Seascape (day-neutral), Albion (excellent flavor)
 
-## Fertilizing
+## See Also
 
-- Apply balanced fertilizer at planting and after renovation
-- Side-dress with compost or balanced [[complete-organic-fertilizer-cof]] in early spring as growth resumes
-- Avoid excess nitrogen — promotes [[cannabis-vegetative-growth-stage]] at the expense of fruit
-- A light application of phosphorus at planting promotes root development
+- [[strawberry-cough]]
+- [[ingham-strawberry-potato-tomato-aact-application-protocols]]
+- [[oner-chupacabra-trainwreck-strawberry-fire-hybrid]]
+- [[bruce-banner-strawberry-diesel-ghost-og-hybrid]]
+- [[strawberry-banana]]

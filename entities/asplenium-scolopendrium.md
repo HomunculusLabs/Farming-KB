@@ -14,18 +14,7 @@ sources:
   - Reichstein, T. (1981). "Asplenium scolopendrium." Flora Europaea, Vol. 1.
   - Page, C.N. (1997). "The Ferns of Britain and Ireland." Cambridge University Press.
   - Hoshizaki, B.J. & Moran, R.C. (2001). Fern Grower's Manual. Timber Press.
-  - Flora of [[psilocybin-north-america-pacific-northwest]] Editorial Committee (1993). FNA Vol. 2.
----
-
-## Overview
-
-**Asplenium scolopendrium** L. is an evergreen fern in the family
-Aspleniaceae, commonly known as hart's-tongue fern. It is distinctive among
-ferns for its simple, undivided, tongue-shaped fronds, a morphology that
-contrasts sharply with the dissected fronds typical of most temperate ferns.
-
-The species has a wide distribution across Europe, North Africa, and eastern
-[[guzman-psilocybin-mushrooms-north-america]], with disjunct populations suggesting an ancient Tertiary
+  - Flora of [[guzman-psilocybin-mushrooms-north-america]], with disjunct populations suggesting an ancient Tertiary
 lineage. It is strongly associated with limestone substrates and calcareous
 habitats.
 
@@ -43,27 +32,7 @@ legs.
 The genus *Asplenium* is one of the largest fern genera, with approximately
 700 species worldwide. Members are characterized by linear sori covered by an
 indusium attached along one side, and often by rhizome scales with clathrate
-[[alpha-1-3-glucan-fungal-pathogen-cell-walls]].
-
-Fronds are simple (entire), strap-shaped, 20–60 cm long and 4–8 cm wide, with
-wavy or undulate margins. They arise from a short, ascending rhizome covered
-with dark brown scales.
-
-The lamina is leathery, glossy, and bright green. It tapers gradually at both
-the base and apex, with a conspicuous midrib running the length of the frond.
-
-Sori are linear, arranged in paired rows along the veins on the frond
-underside. Each sorus is covered by an indusium that opens toward the midrib.
-Spores are produced from midsummer through autumn.
-
-The root system is fibrous and relatively shallow. Plants form dense, circular
-rosettes of fronds radiating from a central crown.
-
-## Distribution and Habitat
-
-*Asplenium scolopendrium* is native to much of Europe, from Ireland and
-southern Scandinavia south to the Mediterranean, and east to the Caucasus. It
-also occurs in North Africa and in disjunct populations in [[polypore-fungi-eastern-north-america]]
+[[polypore-fungi-eastern-north-america]]
 America and eastern Asia.
 
 In [[berry-growing]], isolated populations exist in Ontario, New York, Alabama,
@@ -87,3 +56,88 @@ medicinal applications of the plant.
 The fronds were used as a poultice for wounds, burns, and skin ailments.
 Syrups and decoctions of the fronds were administered as an expectorant for
 coughs and respiratory complaints, and as a mild laxative.
+
+## Overview
+
+Asplenium Scolopendrium represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish asplenium scolopendrium
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving asplenium extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Asplenium Scolopendrium finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for asplenium scolopendrium. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+asplenium scolopendrium and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Asplenium Scolopendrium has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of asplenium scolopendrium into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[asplenium-adiantum-nigrum]]
+- [[asplenium-nidus]]
+- [[asplenium-platyneuron]]
+- [[asplenium-ruta-muraria]]
+- [[asplenium-trichomanes]]

@@ -22,51 +22,11 @@ sources:
 
 Mature trees typically reach 30–50 meters in height with diameters of 0.6–1.2 meters. The largest recorded specimens exceed 70 meters in height, ranking among the tallest pine species in the world.
 
-Western white pine produces soft, easily worked lumber that was once considered the premier construction wood of the Pacific Northwest. The species is closely related to eastern [[pinus-strobus]] and occupies a similar ecological niche in western montane forests.
-
-The species was designated the state tree of Idaho in 1935, reflecting its historical importance to the region's timber economy and forest ecosystems.
-
-Before the blister rust epidemic, western white pine comprised up to 25% of the commercial sawtimber volume in northern Idaho and western Montana. The loss of this species fundamentally altered the composition and economics of Inland Northwest forests.
-
-Natural stands of western white pine are now relatively rare, confined to isolated pockets of rust-resistant individuals and areas where environmental conditions limit blister rust spread.
-
-## Taxonomy and Morphology
-
-**Pinus monticola** Douglas ex D. Don was described in 1825 from specimens collected by David Douglas in the Cascade Range. It belongs to the subgenus **Pinus**, section **Strobus** (the white or soft pines).
-
-The species has no widely used synonyms, though early taxonomic work occasionally confused it with related Strobus pines. It is a diploid with 2n = 24 chromosomes.
-
-Bark on young trees is thin, smooth, and gray-green, becoming thick and divided into rectangular plates on mature trees. The plates are dark gray-brown with characteristic cinnamon-colored furrows.
-
-Needles occur in fascicles of five, measuring 5–10 cm long and 0.5–0.8 mm wide. They are finely serrate, blue-green in color, and notably soft and flexible compared to hard pine needles.
-
-Cones are large and cylindrical, measuring 15–25 cm long by 4–6 cm wide. They are borne on short stalks and mature in two years, releasing winged seeds approximately 10–12 mm in length.
-
-Cone scales are thin and flexible, without the armed prickles characteristic of many hard pines. Seed production begins at 7–10 years of age in open-grown trees, with good seed crops occurring at 2–5 year intervals.
-
-The root system develops a strong taproot in well-drained soils, transitioning to a widespread lateral root network as the tree matures. This architecture provides stability on steep mountain slopes.
-
-## Distribution and Habitat
-
-Western white pine ranges from southern British Columbia through the Cascade Range and Sierra Nevada to central California. Inland populations extend through the Rocky Mountains of Idaho, western Montana, and northeastern Oregon.
-
-The species occurs across a broad elevational range, from near sea level in coastal Washington to approximately 3,000 meters in the Sierra Nevada. In the Inland Northwest, it is most common between 900 and 1,800 meters.
-
-Optimal growth occurs on deep, moist, well-drained soils of volcanic or granitic origin. The species is moderately shade-tolerant in its youth but becomes increasingly intolerant with age.
-
-Western white pine commonly associates with [[pseudotsuga-menziesii]], [[tsuga-heterophylla]], [[abies-grandis]], and [[cedrus-libani]] at lower elevations. At higher sites it mixes with [[abies-concolor]] and Picea engelmannii.
+Western white pine produces soft, easily worked lumber that was once considered the premier construction wood of the Pacific Northwest. The species is closely related to eastern [[pseudotsuga-menziesii]], [[abies-grandis]], and [[abies-concolor]] and Picea engelmannii.
 
 Fire historically played an important role in western white pine ecology. Moderate-severity fires created canopy openings favorable for regeneration while reducing competition from shade-tolerant species.
 
-The species' fire ecology is intermediate between fire-adapted species like [[pinus-ponderosa]] and fire-sensitive species like grand fir. Moderate-intensity fires thin competing understory while leaving some seed trees alive.
-
-Climate projections suggest that warming temperatures may reduce suitable habitat for western white pine by expanding the range of blister rust at higher elevations. Drought stress at lower elevational margins is already contributing to increased mortality.
-
-## Timber and Ecology
-
-Western white pine wood is light, straight-grained, and easily worked, making it historically valuable for construction lumber, millwork, and specialty products. The wood has a specific gravity of approximately 0.36.
-
-Prior to the blister rust epidemic, western white pine was the preferred species for window frames, molding, and interior finish work. Its fine texture and uniform grain made it superior to [[pseudotsuga-menziesii]] for many applications.
+The species' fire ecology is intermediate between fire-adapted species like [[pseudotsuga-menziesii]] for many applications.
 
 The species was heavily logged throughout the late nineteenth and early twentieth centuries. Old-growth stands were virtually eliminated from accessible areas by the 1930s, and subsequent regeneration was devastated by blister rust.
 
@@ -87,3 +47,88 @@ Breeding programs for blister rust resistance have been ongoing since the 1950s.
 Planting of resistant stock has restored western white pine to some areas where it was previously extirpated. However, recovery remains slow due to the long generation time and continued pressure from blister rust.
 
 The species is classified as Near Threatened by some conservation assessments, primarily due to the ongoing impacts of blister rust. Climate change compounds the threat by increasing drought stress at lower elevations.
+
+## Overview
+
+Pinus Monticola represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish pinus monticola
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving pinus extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Pinus Monticola finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for pinus monticola. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+pinus monticola and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Pinus Monticola has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of pinus monticola into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[pinus-densiflora]]
+- [[pinus-lambertiana]]
+- [[pinus-mugo]]
+- [[pinus-pinea]]
+- [[pinus-ponderosa]]

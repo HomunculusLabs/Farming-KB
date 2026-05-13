@@ -88,42 +88,11 @@ Cinnamon thrives in tropical and subtropical climates with the following require
 
 Young plants require partial shade (40–60% light reduction) for the first 2–3 years. Mature trees perform best in full sun to partial shade. Consistent moisture is critical during establishment; established trees tolerate seasonal dry periods of 2–3 months.
 
-[[cervantes-wind-protection-outdoor-cannabis]] is important, as strong winds cause bark damage and reduce yield. Shelterbelts of taller trees are commonly incorporated into plantation design.
-
-### Soil
-
-Cinnamon is adaptable to a range of soil types but performs best in:
-
-- **Sandy loam to loamy soils** with good drainage
-- **Soil pH** of 5.5–6.5 (slightly acidic)
-- **[[hamilton-composting-and-organic-matter-management]] content** above 2%
+[[hamilton-composting-and-organic-matter-management]] content** above 2%
 - **Well-drained soils** — waterlogging causes root rot and tree death
 - **Deep soils** (60+ cm) to accommodate the taproot
 
-Heavy clay soils, saline soils, and waterlogged sites are unsuitable. Cinnamon tolerates moderately low fertility but responds well to [[cervantes-organic-amendments-chart]] and balanced fertilization.
-
-## Propagation
-
-### Seed Propagation
-
-Seeds are the primary method for C. verum propagation. Fresh seeds have high viability (80–90%) but lose germination capacity rapidly; seeds should be sown within 2–3 weeks of harvest. Key steps:
-
-1. **Seed collection**: Harvest ripe fruits (dark purple), remove pulp by maceration in water
-2. **Seed treatment**: Soak seeds in water for 24 hours; no stratification required
-3. **Sowing**: Sow in nursery beds or polybags at 1–2 cm depth; spacing 5 × 5 cm in beds
-4. **Germination**: Occurs in 15–30 days at 25–30°C under 40–50% shade
-5. **Pricking out**: Transplant seedlings to polybags at the 2–4 leaf stage
-6. **Nursery duration**: 8–12 months before field planting
-
-Cassia species are also propagated by seed, though C. cassia shows some recalcitrance and benefits from immediate sowing after harvest.
-
-### Vegetative Propagation
-
-Vegetative methods ensure clonal uniformity and earlier bearing:
-
-- **Cuttings**: Semi-hardwood cuttings (15–20 cm, 2–3 nodes) treated with IBA (2,000–3,000 ppm) root in 60–90 days under mist propagation. Success rates of 60–80% are achievable with C. verum.
-- **Air layering (marcotting)**: Applied to 1–2 year old shoots. Rooting occurs in 2–3 months. Layered plants establish faster than seedlings but produce fewer plants per parent tree.
-- **[[comparison-seed-saving-techniques-vs-tissue-culture-cloning]]**: Micropropagation from nodal and shoot tip explants has been standardized for C. verum on MS medium with BAP and NAA. Used for large-scale planting material production and conservation of elite germplasm.
+Heavy clay soils, saline soils, and waterlogged sites are unsuitable. Cinnamon tolerates moderately low fertility but responds well to [[comparison-seed-saving-techniques-vs-tissue-culture-cloning]]**: Micropropagation from nodal and shoot tip explants has been standardized for C. verum on MS medium with BAP and NAA. Used for large-scale planting material production and conservation of elite germplasm.
 
 ### Root Suckers
 
@@ -141,10 +110,6 @@ C. verum produces root suckers freely, which can be separated and planted. This 
 ### Planting
 ## See Also
 
-- [[turmeric-and-ginger-rhizome-cultivation]] — Other tropical rhizome spices
-- [[vanilla-cultivation-and-orchid-ecology]] — Vanilla production, another high-value [[comparison-black-pepper-vs-cardamom-tropical-spice-cultivation]]
-- [[tea-cultivation-and-camellia-sinensis-processing]] — Tea, a tropical beverage crop with similar agroforestry integration
-- [[comparison-black-pepper-vs-cardamom-tropical-spice-cultivation]] — Pepper, a climbing vine spice with complementary growing conditions
+- [[vanilla-cultivation-and-orchid-ecology]] — Vanilla production, another high-value [[tea-cultivation-and-camellia-sinensis-processing]] — Tea, a tropical beverage crop with similar agroforestry integration
 - [[moringa-oleifera-cultivation-uses-and-nutrition]] — Another tropical tree crop with medicinal uses
-- [[companion-planting-and-polycultures]] — Integration of cinnamon into multi-strata systems
 - [[biochar-in-regenerative-agriculture]] — Soil improvement for cinnamon plantations

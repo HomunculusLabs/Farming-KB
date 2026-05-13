@@ -40,21 +40,7 @@ Stems are prostrate to ascending, reaching 10–30 cm long, and root at the node
 
 Inflorescences are terminal cymes with 3–6 branches, each bearing 5–12 flowers. Individual flowers are approximately 1.5 cm across with five bright yellow petals and five sepals.
 
-Chromosomes are reported as 2n = 36 in most European populations. The species exhibits modest morphological [[psilocybin-psilocin-variation-across-flushes]] its range, particularly in leaf thickness and stem length.
-
-Carpels are distinct and stellate in fruit, each containing numerous tiny seeds. Seeds are ovoid, brown, and approximately 0.5 mm long, dispersed by wind and water across rocky substrates.
-
-Several closely related species in the *Sedum* section *Sedum* group share similar morphology. *Sedum rupestre* can be distinguished by its reflexed, overlapping leaves and upright yellow inflorescences.
-
-## Distribution and Habitat
-
-*Sedum rupestre* is native across much of Europe, from the British Isles and Scandinavia south to the Mediterranean. It extends eastward through central Europe to the Caucasus, Turkey, and parts of western Siberia.
-
-It grows naturally on dry, stony hillsides, rocky outcrops, cliff faces, and sandy banks. The species prefers full sun and well-drained, neutral to slightly alkaline soils.
-
-It tolerates poor, shallow substrates and is frequently found colonizing walls, shingle, and scree slopes. In its native range it occurs from sea level to approximately 1,500 m elevation.
-
-It has naturalized in parts [[berry-growing]], particularly in the northeastern United States and eastern Canada. There it can be found on old walls, roadsides, and disturbed stony ground.
+Chromosomes are reported as 2n = 36 in most European populations. The species exhibits modest morphological [[berry-growing]], particularly in the northeastern United States and eastern Canada. There it can be found on old walls, roadsides, and disturbed stony ground.
 
 In its introduced range, *Sedum rupestre* rarely becomes invasive due to its preference for dry, disturbed habitats. It coexists with other stress-tolerant species such as mosses, lichens, and annual herbs.
 
@@ -76,14 +62,89 @@ The species is highly resistant to deer, rabbits, and drought. Overwatering and 
 
 No serious insect pests or diseases are commonly reported. Mealybugs may occasionally colonize plants grown indoors or in overly humid conditions.
 
-Container-grown specimens benefit from a gritty, free-draining [[solomon-potting-mix-and-seedling-soil-recipe]]. A blend of one part loam to two parts coarse grit or perlite provides ideal drainage.
+Container-grown specimens benefit from a gritty, free-draining [[query-how-do-green-roofs-and-living-walls-benefit-urban-environments]] retaining walls.
 
-Feeding is rarely necessary. A light application of balanced, low-nitrogen fertilizer in early spring can promote flowering in container specimens.
+Flowers are a nectar source for diverse pollinator species during midsummer when fewer plants are in bloom. The foliage serves as microhabitat for small invertebrates and overwintering [[fukuoka-natural-farming-temperate-climates]].
 
-## Ecological Role
+## Overview
 
-The dense, evergreen mats formed by *Sedum rupestre* provide year-round ground cover that stabilizes thin soils on slopes and embankments. Its shallow root system helps prevent erosion on [[query-how-do-green-roofs-and-living-walls-benefit-urban-environments]] retaining walls.
+Sedum Rupestre represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
 
-Flowers are a nectar source for diverse pollinator species during midsummer when fewer plants are in bloom. The foliage serves as microhabitat for small invertebrates and overwintering [[hamilton-beneficial-insects-and-biological-pest-control]].
+## Key Characteristics
 
-In green-roof applications, *Sedum rupestre* contributes to stormwater retention, building insulation, and urban heat-island mitigation. It is one of the most frequently specified species in extensive sedum green-roof mixes across [[fukuoka-natural-farming-temperate-climates]].
+Several defining characteristics distinguish sedum rupestre
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving sedum extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Sedum Rupestre finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for sedum rupestre. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+sedum rupestre and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Sedum Rupestre has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of sedum rupestre into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[comparison-sedum-vs-sempervivum]]
+- [[sedum-acre]]
+- [[sedum-and-stonecrop-cultivation]]

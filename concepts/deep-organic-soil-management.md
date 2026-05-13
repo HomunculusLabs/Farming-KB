@@ -20,27 +20,13 @@ The foundational principle of deep-organic management is that healthy soil produ
 
 - Maintaining adequate organic matter levels (4–6% in mineral soils, higher in sandy soils)
 - Supporting a diverse and active soil biology (bacteria, fungi, protozoa, nematodes, earthworms, arthropods)
-- Minimizing soil disturbance to preserve established [[mycorrhizal-networks-and-forest-communication]] soil structure
-- Keeping the soil covered with living plants or mulch to protect soil biology query how do i garden on a slope and prevent erosion
-
-### Minimum Tillage
-
-Coleman has progressively [[comparison-no-till-vs-reduced-tillage]] intensity over his career, moving from moldboard plowing to shallow rototilling to his current preferred method of broadfork-only cultivation. The broadfork (also called a U-bar digger) is a hand tool with long tines that is stepped into the soil and leveraged to loosen compacted layers without inverting the soil profile.
+- Minimizing soil disturbance to preserve established [[comparison-no-till-vs-reduced-tillage]] intensity over his career, moving from moldboard plowing to shallow rototilling to his current preferred method of broadfork-only cultivation. The broadfork (also called a U-bar digger) is a hand tool with long tines that is stepped into the soil and leveraged to loosen compacted layers without inverting the soil profile.
 
 The advantages of minimum tillage in a deep-organic system are significant:
 
 1. **Mycorrhizal preservation**: Tillage severs and buries the hyphal networks of mycorrhizal fungi. These fungi extend the effective root zone of crops by 10–100x, improving access to water and phosphorus. Once established, mycorrhizal networks can persist for years if not disrupted by tillage.
-2. **Soil structure maintenance**: The crumb structure created by fungal glomalin and bacterial exopolysaccharides is the basis of good tilth. [[fukuoka-why-tillage-destroys-soil]] this structure, and it takes months to years to rebuild.
-3. **Carbon retention**: Tillage exposes buried organic matter to oxygen, accelerating decomposition and CO₂ release. Reduced tillage retains more soil carbon.
-4. **Weed seed management**: Deep tillage brings buried weed seeds to the surface where they germinate. Shallow cultivation minimizes this "seed bank activation."
-
-### Compost as the Primary Fertility Source
-
-In Coleman's system, finished compost is the primary source of all plant nutrients. He distinguishes between three types of compost used for different purposes:
-
-- **General compost**: Aged mixture of crop residues, animal manures, and carbon sources (leaves, straw, wood chips). Applied at 1–2 inches per year across all beds. Provides balanced macro- and micronutrients and feeds the soil food web.
-- **Compost tea**: Aerated compost extract used as a foliar spray or soil drench. Provides a rapid inoculation of [[forest-and-bamboo-beneficial-microorganisms]]. Applied every 2–3 weeks during the growing season.
-- **Leaf mold**: Decomposed tree leaves, high in fungal biomass. Particularly valuable for building the fungal component of the soil food web, which is important for perennial crops and woody-stemmed vegetables.
+2. **Soil structure maintenance**: The crumb structure created by fungal glomalin and bacterial exopolysaccharides is the basis of good tilth. [[forest-and-bamboo-beneficial-microorganisms]]. Applied every 2–3 weeks during the growing season.
+- **Leaf mold**: Decomposed tree leaves, high in fungal biomass. Particularly valuable for building the fungal component of [[the-soil-food-web]], which is important for perennial crops and woody-stemmed vegetables.
 
 ## Compost Production
 
@@ -137,5 +123,5 @@ The slake test provides a simple field assessment of soil aggregation and biolog
 ## See Also
 
 - cold greenhouse design unheated — Structure for winter growing
-- winter harvest scheduling year round — Crop timing calendar
+- [[winter-harvest-scheduling-year-round]] — Crop timing calendar
 - [[season-extension-techniques]] — Additional season extension tools

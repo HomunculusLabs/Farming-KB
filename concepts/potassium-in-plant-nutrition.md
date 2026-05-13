@@ -33,7 +33,7 @@ regulation. K-sufficient plants close stomata earlier during stress,
 reducing transpiration. K also maintains root hydraulic conductivity by
 regulating aquaporin function. Deep-rooted crops with good K status
 access water from lower soil horizons more effectively. In permaculture
-systems, managing K through [[composting]], green manures, and [[biochar]]
+systems, managing K through [[biochar]]
 helps buffer plants against dry periods.
 
 ## Potassium and Disease Resistance
@@ -52,39 +52,93 @@ translocated to young tissue. Symptoms include marginal chlorosis
 In severe cases, leaves curl downward, stems are weak and lodging-prone,
 and fruit is small with poor colour. Potato tubers from K-deficient
 plants have reduced specific gravity and higher bruising susceptibility.
-See also [[potato-pest-and-disease-management]].
-
-## Potassium in Soil
-Total soil K is often large but mostly unavailable. Only 1-2% exists as
-exchangeable K+ on clay and organic matter. Soil minerals (mica,
-feldspar, illite) contain large K reserves releasing slowly through
-weathering. Clay-rich soils have higher K availability than sandy soils.
-Cation exchange capacity (CEC) determines how much K is held against
-leaching. Soils with low CEC are prone to K deficiency.
-
-## Potassium Sources
-Synthetic fertilisers include muriate of potash (KCl, 60% K2O), sulfate
-of potash (K2SO4, 50% K2O), and potassium-magnesium sulfate (22% K2O).
-Organic sources: wood ash (3-7% K2O, raises pH), kelp meal (1-3% K2O
-plus trace minerals), banana skins, comfrey leaves (a [[dynamic-accumulators]] with 2-4% K in dry matter), green manures (buckwheat,
-clover), and composted manure. [[biochar]] serves as a long-term K
-reservoir when charged with nutrient-rich compost tea.
-
-## Managing Potassium in Permaculture Systems
-Permaculture focuses on cycling K through the system rather than
-importing it. Deep-rooted dynamic accumulators (comfrey, dandelion,
-chicory, borage) mine subsoil K and bring it to the surface through
-leaf fall. Composting returns K to the topsoil in plant-available form.
-nitrogen-fixing legumes often have high K uptake and boost soil K
-as green manures. Closed-loop systems returning all organic residues
-can maintain adequate K, though harvest removal of root crops depletes
-K faster than leaf crop systems.
-
-## Potassium Interactions
-K interacts with calcium and magnesium. Excessive K suppresses Ca uptake
-(blossom end rot in tomatoes) and Mg uptake (interveinal chlorosis).
-Ideal base saturation: 2-5% K, 60-75% Ca, 10-20% Mg (varies by soil).
-High nitrogen rates increase plant K demand. See also [[plant-available-nitrogen-ammonium-nitrate]].
+See also [[dynamic-accumulators]] with 2-4% K in dry matter), green manures (buckwheat,
+clover), and composted manure. [[plant-available-nitrogen-ammonium-nitrate]].
 
 ## Connections
 - [[plant-available-nitrogen-ammonium-nitrate]]
+
+## Overview
+
+Potassium In Plant Nutrition represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish potassium in plant nutrition
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving potassium extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Potassium In Plant Nutrition finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for potassium in plant nutrition. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+potassium in plant nutrition and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Potassium In Plant Nutrition has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of potassium in plant nutrition into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[plant-macronutrient-functions-nitrogen-phosphorus-potassium]]
+- [[soil-micronutrients-sulphur-potassium-calcium-trace-elements]]
+- [[solomon-chemical-fertilizer-incomplete-potassium-yield-tradeoff]]
+- [[solomon-phosphorus-potassium-and-secondary-nutrients]]
+- [[water-soluble-potassium-wp]]

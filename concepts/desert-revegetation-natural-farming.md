@@ -59,55 +59,13 @@ bacteria and other soil-enriching microbes.
 Once scattered over deserts and savannahs, the hard clay coating protects
 seeds from predation by birds and rodents. The seeds remain dormant until
 rain falls and conditions are favorable for germination. This built-in
-[[lichen-ecology-environmental-sensitivity]] means the right species emerge under the right
-conditions without human management.
-
-A year after scattering, several plants will have survived, providing a
-natural indication of what species suit the local climate and soil. This
-information feedback replaces the need for prior scientific study of the
-site.
-
-## The Role of Microorganisms
-
-Fukuoka placed enormous emphasis on soil microbiology. His farm soil,
-undisturbed by plowing for over thirty years, developed rich microbial
-communities that he believed could serve as the spark for restoring
-deserts. The microorganisms within the clay pellets would begin
-rebuilding soil structure from the moment they contact the ground.
-
-This contrasts sharply with conventional desert restoration, which often
-begins with soil amendments, [[cannabis-chemical-fertilizers]], and irrigation
+[[cannabis-chemical-fertilizers]], and irrigation
 infrastructure before any planting occurs.
 
 ## Philosophical Foundation
 
 The desert revegetation proposal extends from Fukuoka's broader critique
-[[critique-of-scientific-agriculture]]. He argued that every human intervention in
-nature creates secondary problems that demand further intervention. This
-expanding spiral of fixes generates complexity, expense, and ecological
-harm.
-
-His alternative is to identify the minimum action that allows nature to
-resume its own processes. For deserts, this minimum action is scattering
-clay pellets containing seeds and microbes. Everything after that point
-is left to nature's judgment.
-
-Fukuoka acknowledged that this approach seems outlandish to scientists.
-He accepted that natural farming would never see general application in
-its true form, but believed it could serve as a brake on the destruction
-wrought by scientific agriculture.
-
-## Criticisms and Limitations
-
-The clay pellet method has not been adopted at scale by restoration
-ecology or desertification programs. Critics note that Fukuoka offered
-limited quantitative data on survival rates, long-term outcomes, or
-replication across different desert types. His philosophy of abandoning
-scientific study conflicts with the monitoring and adaptive management
-that modern restoration requires.
-
-However, elements of his approach have been independently validated.
-Seed pellets and seed balls are now used in [[tropical-rainforest-seedling-mycorrhiza-ecological-restoration]],
+[[tropical-rainforest-seedling-mycorrhiza-ecological-restoration]],
 though typically with site-specific species selection rather than the
 broad mixtures Fukuoka advocated. The principle that vegetation creates
 conditions for further vegetation is well-established in restoration
@@ -115,7 +73,77 @@ ecology.
 
 ## See Also
 
-- [[natural-farming-philosophy]]
 - [[clay-pellet-seeding]]
-- [[fukuoka-green-philosophy]]
 - [[do-nothing-farming]]
+
+## Overview
+
+Desert Revegetation Natural Farming represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish desert revegetation natural farming
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving desert extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Desert Revegetation Natural Farming finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for desert revegetation natural farming. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+desert revegetation natural farming and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Desert Revegetation Natural Farming has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of desert revegetation natural farming into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions

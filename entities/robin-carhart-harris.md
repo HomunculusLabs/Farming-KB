@@ -25,18 +25,7 @@ He became interested in how altered states of consciousness relate
 to brain function and neural dynamics.
 
 He joined Imperial College London as a postdoctoral researcher
-under the mentorship of [[david-nutt]]. This collaboration
-established the Beckley/Imperial Research Programme, which became
-the world's leading center for psychedelic neuroimaging. Amanda
-Feilding's Beckley Foundation provided crucial funding for the
-early studies.
-
-## Brain Imaging Studies
-
-### First Modern LSD Brain Scan
-
-In 2016, Carhart-Harris's team published the first modern brain
-imaging study of [[lsd]] effects in healthy volunteers. The study
+under the mentorship of [[lsd]] effects in healthy volunteers. The study
 used fMRI and magnetoencephalography (MEG) to map brain activity
 during psychedelic states. Results showed reduced connectivity
 within the default mode network and increased global connectivity.
@@ -134,13 +123,8 @@ United States and Europe.
 
 ## See Also
 
-- [[david-nutt]]
 - [[stanislav-grof]]
-- [[roland-griffiths]]
 - [[albert-hofmann]]
-- [[lsd]]
 - [[psilocybin]]
-- [[default-mode-network-and-ego-dissolution]]
 - [[psilocybin-default-mode-network-ego-dissolution]]
-- [[psychedelic-microdosing]]
 - [[consciousness-and-psychedelics]]

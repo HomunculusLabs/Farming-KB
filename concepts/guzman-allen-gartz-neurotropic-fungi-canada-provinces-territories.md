@@ -9,49 +9,10 @@ created: 2026-05-11
 
 ## Overview
 
-Guzmán, Allen & Gartz document the [[distribution-of-neurotropic-fungi]] fungi across Canada, providing species lists for each province and territory. Canada's neurotropic mycobiota is characterized by a strong [[psilocybin-north-america-pacific-northwest]] concentration in British Columbia, with scattered records across southern provinces and territories. The Canadian distribution reflects the broader pattern of higher [[mexico-center-neurotropic-fungal-diversity]] in mesophytic and coastal forest ecosystems.
-
-## Widely Distributed Species
-
-The following species are reported across broad Canadian ranges without specific provincial restriction:
-
-| Species | Key References |
-|---------|---------------|
-| Amanita muscaria | Groves et al. 1958; Groves 1962; Schultes & Hofmann 1979; Wasson 1979; Ammirati et al. 1985; Navet 1988; Furst 1992; Ott 1993 |
-| Amanita pantherina | Groves et al. 1958; Groves 1962; Ott 1993 |
-| Claviceps purpurea | Grasso 1955; Singer et al. 1958 |
-| [[conocybe-smithii]] | Ammirati et al. 1985 |
+Guzmán, Allen & Gartz document the [[psilocybin-north-america-pacific-northwest]] concentration in British Columbia, with scattered records across southern provinces and territories. The Canadian distribution reflects the broader pattern of higher [[conocybe-smithii]] | Ammirati et al. 1985 |
 | Gymnopilus aeruginosus | Ammirati et al. 1985 |
 | Gymnopilus sapineus | Hesler 1969 |
-| [[guzman-panaeolina-foenisecii-psilocybin-controversy-conflicting-chemical-analyses]] | Groves 1962; Singer 1978 |
-| Panaeolus castaneifolius | Ola'h 1969 |
-| Panaeolus sphinctrinus | Groves 1962 |
-| Panaeolus subbalteatus | Singer et al. 1958; Ammirati 1985 |
-| Psilocybe quebecensis | Singer 1978; Chilton 1978 |
-| Psilocybe semilanceata | Heim et al. 1966; Heim 1971; Dawson & Morelli 1978; Ott 1978; Kinghorn 1979; Samorini 1992 |
-
-## British Columbia
-
-British Columbia has the richest documented neurotropic fungal diversity in Canada, consistent with its Pacific Northwest coastal climate. The province's mesophytic temperate rainforests provide ideal habitat for numerous species.
-
-**Amanita species:**
-- Amanita muscaria (Jenkins 1977; Ammirati et al. 1985)
-- Amanita pantherina (Jenkins 1977; Ammirati et al. 1985)
-
-**Psilocybe species:**
-- Psilocybe baeocystis (Singer & Smith 1958; Guzmán et al. 1976; Repke et al. 1977; Stamets 1978; Guzmán 1983)
-- Psilocybe cyanescens (Repke et al. 1977; Stamets 1978; Lincoff 1981; Guzmán 1983; Ammirati et al. 1985; Arora 1986)
-- Psilocybe cyanofibrillosa (Stamets 1996)
-- Psilocybe fimetaria (Guzmán 1983; Stamets 1996)
-- Psilocybe pelliculosa (Singer & Smith 1958; Guzmán et al. 1976; Ott 1976; Ott & Bigwood 1978; Repke et al. 1977; Hatfield 1979; Lincoff 1981; Guzmán 1983; Ammirati et al. 1985)
-- Psilocybe semilanceata (Heim et al. 1966; Ola'h 1967; Guzmán et al. 1976; Ott 1976; Repke et al. 1977; Stamets 1978, 1996; Hatfield 1979; Guzmán 1983; Ammirati et al. 1985; Arora 1986; Redhead 1989; Turner & Szczawinski 1991; Schalkwijk-Barendsen 1997)
-- Psilocybe sierrae (Stamets 1996; Guzmán 1983)
-- Psilocybe silvatica (Singer & Smith 1958)
-- Psilocybe strictipes (Ammirati et al. 1985; Guzmán et al. 1976; Guzmán 1995; Stamets 1996)
-- Psilocybe stuntzii (Guzmán et al. 1976; Ott 1976; Repke et al. 1977; Ott & Bigwood 1978; Stamets 1978, 1996; Guzmán 1983)
-
-**Other genera:**
-- [[conocybe-cyanopus]] (Repke et al. 1977; Stamets 1978, 1996)
+| [[conocybe-cyanopus]] (Repke et al. 1977; Stamets 1978, 1996)
 - Gymnopilus luteofolius (Stamets 1996)
 - Panaeolus papilionaceus (Gerhardt 1996)
 - Panaeolus subbalteatus (Ammirati et al. 1985)

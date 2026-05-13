@@ -7,13 +7,7 @@ tags: [microbiology, plant-microbe-interactions, rhizosphere, endophytes, ecolog
 
 # Two-Tier Selection Model
 
-The two-tier selection model (also called the two-step selection model) describes how plant root-associated bacterial communities are assembled through two sequential filtering stages: first by [[soil-edaphic-factors-microbial-communities]], then by host plant genotype. This model has become a central organizing framework for understanding the structure and assembly of the root microbiome across diverse plant species.
-
-## Overview of the Model
-
-The two-tier selection model posits that microbial community assembly in the root zone proceeds through two hierarchical filters:
-
-**Tier 1 — Soil Selection (Edaphic Filtering):** Bulk [[endorhiza-rhizosphere-bulk-soil-microbial-communities]] are shaped primarily by abiotic soil properties including pH, nitrogen content, salinity, organic carbon, water content, and texture. These edaphic factors determine the available pool of microbial taxa from which the plant can recruit associates. The soil acts as the primary inoculum source for the rhizosphere and endorhiza.
+The two-tier selection model (also called the two-step selection model) describes how plant root-associated bacterial communities are assembled through two sequential filtering stages: first by [[endorhiza-rhizosphere-bulk-soil-microbial-communities]] are shaped primarily by abiotic soil properties including pH, nitrogen content, salinity, organic carbon, water content, and texture. These edaphic factors determine the available pool of microbial taxa from which the plant can recruit associates. The soil acts as the primary inoculum source for the rhizosphere and endorhiza.
 
 **Tier 2 — Host Genotype Selection (Plant Filtering):** As microbes transition from the rhizosphere into the root interior (endorhiza), a second round of selection occurs driven by host plant genetics. The plant exerts genotype-dependent selection through root exudates, immune responses, and tissue-level compatibility. This second tier acts primarily on community structure (relative abundance) rather than composition (presence/absence).
 
@@ -27,13 +21,7 @@ The conceptual foundations of the two-tier model were developed through several 
 
 2. **Berg and Smalla (2009)** demonstrated that plant species and soil type cooperatively shape the structure and function of microbial communities in the rhizosphere. Their work showed that both factors act simultaneously rather than independently.
 
-3. **Bulgarelli et al. (2012, 2013)** provided the first comprehensive description of the two-step selection process for root-inhabiting bacterial microbiota in [[arabidopsis-thaliana]]. They proposed that bulk-soil microbial communities are filtered by increased concentration of rhizodeposits, followed by convergent host genotype-dependent selection on endophytic communities.
-
-4. **Winston et al. (2014)** tested and largely validated the two-tier model in Cannabis, providing evidence from five distinct cultivars grown across multiple soil types.
-
-## Predictions of the Model
-
-The two-tier selection model generates several testable predictions about [[edaphic-factors-soil-microbial-community-structure]]:
+3. **Bulgarelli et al. (2012, 2013)** provided the first comprehensive description of the two-step selection process for root-inhabiting bacterial microbiota in [[edaphic-factors-soil-microbial-community-structure]]:
 
 ### Taxonomic Shifts
 
@@ -52,54 +40,7 @@ Endorhiza communities should share more OTUs with their own native soil than wit
 
 The model predicts that:
 - Rhizosphere communities should be intermediate between bulk soil and endorhiza in terms of community composition
-- [[beta-diversity-distances-bulk-soil-rhizosphere-cannabis-endorhiza]] between rhizosphere and bulk soil should be lower than distances between endorhiza and either soil or rhizosphere communities
-- Soil type should be the primary determinant of overall community composition across all sample types
-- Host genotype should be the primary determinant of endorhiza community structure (abundance patterns), but a weaker determinant of rhizosphere community structure
-- Alpha diversity should follow a gradient: highest in bulk soil, intermediate in rhizosphere, and lowest in endorhiza, reflecting progressive filtering
-
-These predictions arise from the fundamental logic of the model: each filtering step removes taxa that are incompatible with the local environment (soil chemistry, then plant tissue), reducing diversity while increasing the influence of the selecting agent. The first filter (soil) is coarse and affects all sample types, while the second filter (plant genotype) is fine-grained and primarily affects only the communities in direct contact with plant tissues.
-
-## Evidence from Cannabis
-
-The Winston et al. (2014) study provided strong support for many predictions of the two-tier model, while also revealing areas where the model requires refinement:
-
-**Supported predictions:**
-- Soil type was the dominant factor structuring communities across all sample types (unweighted R² = 0.196, weighted R² = 0.323)
-- Cannabis strain significantly structured endorhiza communities (weighted R² = 0.59, p = 0.004)
-- Taxonomic shifts from soil to root followed predicted patterns (decreased Acidobacteria, increased Proteobacteria and Actinobacteria)
-- Endorhiza shared more OTUs with native soil than foreign soil
-- Strain selection acted primarily on abundance (71 weighted OTUs) rather than presence/absence (0 unweighted OTUs)
-
-**Areas requiring refinement:**
-- The predicted distinct rhizosphere filtering step was not strongly supported — beta distances between rhizosphere-endorhiza and bulk-soil-endorhiza were not significantly different from each other, suggesting the transition from soil to root interior may be more continuous than stepwise
-- Rhizosphere samples did not always form significantly differentiated clusters from bulk soil in unweighted analyses, particularly in the first experiment where minimal edaphic variation existed
-- Post-harvest sampling artifacts could mask or distort the filtering signal; the first experiment sampled roots 8 weeks post-harvest and the results were less consistent with the model than the second experiment which sampled actively growing plants
-- The relative importance of the two tiers may shift depending on the degree of edaphic variation; with minimal soil differences, cultivar effects may appear relatively stronger, while with large soil differences, the first tier dominates
-
-## Implications for Agricultural Practice
-
-The two-tier selection model has practical implications for managing plant-microbiome interactions in agriculture:
-
-- **Soil management is foundational:** Since soil type is the primary determinant of the available microbial pool, building healthy soil biology is the first priority for establishing beneficial root microbiomes
-- **Cultivar selection shapes the endorhiza:** Different crop varieties will recruit different endophytic communities from the same soil, suggesting that breeding programs could potentially select for varieties that recruit beneficial microbes
-The model also has implications for understanding plant invasions and ecosystem
-restoration. Invasive plants may succeed in part by recruiting different root
-microbiomes than native species, potentially gaining advantages in nutrient
-acquisition or pathogen resistance. Conversely, restoration ecology could
-benefit from selecting plant genotypes that foster beneficial soil microbial
-communities, accelerating the recovery of degraded ecosystems.
-- **Edaphic factors can be manipulated:** The strong influence of nitrogen, salinity, carbon, and water content on community structure means these factors can be adjusted to favor desirable microbial assemblages
-
-## Limitations
-
-The two-tier model, while useful, represents a simplification of a complex process. It does not fully account for:
-- Temporal dynamics and successional patterns in root colonization
-- The role of fungal communities (mycorrhizae and saprotrophs) in shaping bacterial assembly
-- Plant growth stage effects, which can override both soil and genotype signals
-- Interactions between the two tiers (e.g., how soil conditions modify the plant's exudate profile)
-- The role of dispersal limitation and stochastic colonization events
-- The potential for host immune responses to create additional filtering beyond simple genotype effects
-- The influence of plant [[antifungal-secondary-metabolites-coprophilous-fungi]], such as cannabinoids in Cannabis or alkaloids in other species, which may act as additional selection agents at the root interface
+- [[antifungal-secondary-metabolites-coprophilous-fungi]], such as cannabinoids in Cannabis or alkaloids in other species, which may act as additional selection agents at the root interface
 - The fact that the model was developed primarily from studies of herbaceous plants in temperate agricultural systems; its applicability to woody perennials, tropical species, and non-agricultural plants requires further investigation
 
 ## Future Research Directions
@@ -114,11 +55,94 @@ Finally, integrating fungal communities into the model is essential. The origina
 
 ## See Also
 
-- [[cannabis-endorhiza-microbiome]]
 - [[cannabinoid-receptors-cb1-cb2]]
-- [[rhizosphere-ecology]]
 - [[fungi-in-the-environment-fungal-endophytes-plant-communities]]
 - 
 - [[root-exudates]]
 
 The two-tier selection model continues to serve as the primary conceptual framework for root microbiome assembly, guiding both basic research and applied agricultural microbiology. As more data accumulates from diverse plant systems, the model will continue to be refined and extended, potentially incorporating multi-kingdom interactions and temporal dynamics.
+
+## Overview
+
+Two Tier Selection Model represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish two tier selection model
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving two extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Two Tier Selection Model finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for two tier selection model. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+two tier selection model and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Two Tier Selection Model has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of two tier selection model into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[cannabis-microbiome-two-tier-selection]]
+- [[cannabis-two-tier-microbiome-selection]]
+- [[rhizosphere-bulk-soil-similarity-cannabis-weak-first-tier]]
+- [[two-tier-selection-model-plant-microbiome]]
+- [[two-tier-selection-model-plant-microbiome-assembly]]

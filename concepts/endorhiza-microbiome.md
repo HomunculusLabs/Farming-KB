@@ -49,7 +49,7 @@ Several notable taxonomic changes occur as microbial communities transition from
 
 ## Cultivar-Specificity
 
-One of the most significant findings about the endorhiza microbiome is its strong cultivar-specificity. When soil type is controlled, different plant cultivars harbor significantly different endorhiza communities. In Cannabis studies, this effect was statistically significant using both [[weighted-unifrac-strain-clustering-cannabis-endorhiza-community-structure]] (ADONIS R² = 0.59, p = 0.004) and [[weighted-vs-unweighted-unifrac-cannabis-strain-microbiome]] (ADONIS R² = 0.39, p = 0.003) distance metrics.
+One of the most significant findings about the endorhiza microbiome is its strong cultivar-specificity. When soil type is controlled, different plant cultivars harbor significantly different endorhiza communities. In Cannabis studies, this effect was statistically significant using both [[weighted-vs-unweighted-unifrac-cannabis-strain-microbiome]] (ADONIS R² = 0.39, p = 0.003) distance metrics.
 
 This cultivar-specificity is thought to arise from differences in root exudate profiles, immune recognition systems, and root architecture between cultivars. Each cultivar creates a unique internal environment that selects for a specific subset of the available rhizosphere bacteria.
 
@@ -74,7 +74,7 @@ Endorhiza bacteria support plant growth through several mechanisms including the
 Endophytic bacteria enhance nutrient availability through nitrogen fixation, phosphate solubilization, and siderophore production. By converting atmospheric nitrogen to plant-available forms or solubilizing mineral phosphates, these organisms improve plant nutrition beyond what the soil alone can provide.
 
 ### Disease Suppression
-Endorhiza communities suppress plant diseases through multiple mechanisms including competition for niches and nutrients, production of [[antimicrobial-compounds-mushroom-mycelium]], induction of [[endophytic-mycorrhizal-induced-systemic-resistance]] in the host plant, and direct parasitism of pathogenic organisms. The presence of Pseudomonas and Actinomycetales in the core endorhiza is particularly relevant for disease suppression.
+Endorhiza communities suppress plant diseases through multiple mechanisms including competition for niches and nutrients, production of [[endophytic-mycorrhizal-induced-systemic-resistance]] in the host plant, and direct parasitism of pathogenic organisms. The presence of Pseudomonas and Actinomycetales in the core endorhiza is particularly relevant for disease suppression.
 
 ### Stress Tolerance
 Endorhiza bacteria assist their host plants in tolerating abiotic stresses including drought, salinity, and heavy metal toxicity. They also help plants tolerate phytotoxic effects of environmental contaminants such as pesticides and organic pollutants.
@@ -109,9 +109,7 @@ The endorhiza and rhizosphere microbiomes differ in several fundamental ways tha
 |---------|-------------|-----------|
 | Location | Soil adhering to root surface | Inside root tissue |
 | Nutrient availability | Moderate (root exudates diluted in soil) | High (direct access to plant metabolites) |
-| Community drivers | Primarily soil type ([[cannabinoid-microbiome-correlation-confounded-edaphic-factors]]) | Primarily plant genotype |
-| Alpha diversity | Typically higher | Typically lower |
-| [[cannabis-microbiome-cultivar-specificity]] | Generally weak | Often strong |
+| Community drivers | Primarily soil type ([[cannabis-microbiome-cultivar-specificity]] | Generally weak | Often strong |
 | Sampling complexity | Lower (soil collection) | Higher (surface sterilization required) |
 
 The rhizosphere serves as a transitional zone between bulk soil and the endorhiza, with community characteristics that are intermediate between these two compartments. In statistical analyses, rhizosphere communities often fail to cluster significantly by either soil type or cultivar, reflecting their dual influence.
@@ -127,7 +125,5 @@ Research on the endorhiza microbiome is rapidly expanding, with several key area
 
 ## See Also
 
-- [[two-tier-selection-model]]
-- cannabis rhizosphere
 - [[cannabis-cultivar-specificity]]
 - soil physicochemical factors and microbiome

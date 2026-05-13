@@ -9,24 +9,7 @@ sources:
   - "raw/papers/psilocybin-mushrooms-of-the-world-stamets.md"
   - "Stamets, P. (1996). forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc of the World. Ten Speed Press."
   - "Guzmán, G. (2009). The Genus Psilocybe: A Systematic Revision of the Known Species. Beihefte zur Nova Hedwigia 74."
-  - "Lincoff, G. (1981). National Audubon Society Field Guide to [[growing-gourmet-north-american-reishi-species]] Mushrooms. Alfred A. Knopf."
----
-
-# Gymnopilus junonius
-
-Gymnopilus junonius, commonly known as the laughing gym, laughing Jim, or spectacular rustgill, is a large, wood-inhabiting mushroom in the family Cortinariaceae (or Hymenogastraceae under recent phylogenetic reclassifications). Widely distributed across temperate and subtropical regions of the Northern Hemisphere, this species is notable among mycological enthusiasts for containing the psychoactive compounds [[hplc-analysis-of-psilocybin-and-psilocin]], though it is also reported to contain other toxic compounds that make its consumption inadvisable. The species epithet *junonius* refers to Juno, the Roman goddess, a reference to the mushroom's large, majestic fruiting habit. Despite its psychoactive properties, *G. junonius* is generally considered a [[growing-gourmet-poisonous-mushroom-lookalikes]] and is not recommended for recreational use.
-
-## Taxonomy and Classification
-
-- **Kingdom:** Fungi
-- **Division:** Basidiomycota
-- **Class:** Agaricomycetes
-- **Order:** Agaricales
-- **Family:** Cortinariaceae (sensu traditional) / Hymenogastraceae (sensu recent molecular phylogeny)
-- **Genus:** *Gymnopilus* P. Karst.
-- **Species:** *G. junonius* (Fr.) P.D. Orton
-- **Basionym:** *Agaricus junonius* Fr. (1821)
-- **Synonyms:** *[[gymnopilus-spectabilis-entity]]* (Fr.) A.H. Sm. & Singer (widely used in North American literature), *Agaricus spectabilis* Fr., *Fulvidula spectabilis* (Fr.) Pat.
+  - "Lincoff, G. (1981). National Audubon Society Field Guide to [[hplc-analysis-of-psilocybin-and-psilocin]], though it is also reported to contain other toxic compounds that make its consumption inadvisable. The species epithet *junonius* refers to Juno, the Roman goddess, a reference to the mushroom's large, majestic fruiting habit. Despite its psychoactive properties, *G. junonius* is generally considered a [[gymnopilus-spectabilis-entity]]* (Fr.) A.H. Sm. & Singer (widely used in North American literature), *Agaricus spectabilis* Fr., *Fulvidula spectabilis* (Fr.) Pat.
 - **Common names:** Laughing gym, laughing Jim, spectacular rustgill, big laughing gym
 
 ### Taxonomic Notes
@@ -60,16 +43,7 @@ The stipe measures 6–15 cm (2.4–6 inches) in length and 1–3 cm (0.4–1.2 
 - **North America:** Reported from eastern Canada to the southeastern United States, and along the Pacific coast from British Columbia to California
 - **Asia:** Recorded from Japan, Korea, China, and the Russian Far East
 - **Oceania:** Reported in southeastern Australia and New Zealand (possibly introduced)
-- **[[guzman-psilocybin-mushrooms-south-america]]:** Rare records from southern Brazil and Argentina
-
-### Substrate and Ecology
-*G. junonius* is a saprotrophic wood-decay fungus with the following ecological preferences:
-
-- **Primary substrate:** Dead or dying hardwoods, particularly oaks (*Quercus* spp.), maples (*Acer* spp.), beech (*Fagus* spp.), and various fruit trees in the Rosaceae
-- **Occasional substrate:** Conifer stumps and logs, especially spruce (*Picea*) and pine (*Pinus*) in mixed forests
-- **Growth pattern:** Solitary to gregarious, occasionally in large clusters (cespitose) on decaying logs, stumps, buried roots, and standing dead trees
-- **Fruiting season:** Late summer to autumn (August–November in the Northern Hemisphere); occasionally fruiting in spring in warmer climates
-- **Ecological role:** A brown rot decomposer that degrades cellulose and hemicellulose in wood, contributing to [[nutrient-cycling-in-soil]] forest ecosystems
+- **[[nutrient-cycling-in-soil]] forest ecosystems
 
 ## Phytochemistry and Psychoactive Properties
 
@@ -78,13 +52,94 @@ The psychoactive profile of *G. junonius* is complex and variable:
 
 - **Psilocybin:** 0.02–0.35% dry weight (highly variable by specimen and geography). Japanese collections have consistently tested positive; North American specimens show greater variability
 - **Psilocin:** Present in trace amounts, typically below 0.01% dry weight
-- **Bis-noryangonin:** A unique prenylated flavonoid identified in Japanese specimens of *G. junonius*, not found in psilocybin-containing *Psilocybe* species. May act as a weak monoamine oxidase inhibitor (MAOI), potentially modulating the [[leary-psychedelic-experience-bardo-mapping]]
-- **Gymnopilin:** An unspecified toxic compound (or compounds) reported to cause gastrointestinal distress, nausea, and cramping
-
-### Pharmacological Notes
-The presence of bis-noryangonin is of particular pharmacological interest, as its MAOI activity could theoretically potentiate the effects of psilocybin and psilocin by inhibiting their metabolic breakdown. However, the actual contribution of bis-noryangonin to the [[dosage-unpredictability-psilocybin-subjective-experience]] remains poorly characterized. The variable psilocybin content across geographic populations raises questions about whether the psychoactive phenotype is genetically fixed or environmentally modulated.
+- **Bis-noryangonin:** A unique prenylated flavonoid identified in Japanese specimens of *G. junonius*, not found in psilocybin-containing *Psilocybe* species. May act as a weak monoamine oxidase inhibitor (MAOI), potentially modulating the [[dosage-unpredictability-psilocybin-subjective-experience]] remains poorly characterized. The variable psilocybin content across geographic populations raises questions about whether the psychoactive phenotype is genetically fixed or environmentally modulated.
 
 ### Toxicity Concerns
 Despite containing psilocybin, *G. junonius* is NOT recommended for consumption for several reasons:
 
 - **Gastrointestinal toxicity:** Consumption is frequently associated with nausea, vomiting, abdominal cramping, and diarrhea, even in specimens confirmed to contain psilocybin
+
+## Overview
+
+Gymnopilus Junonius represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish gymnopilus junonius
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving gymnopilus extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Gymnopilus Junonius finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for gymnopilus junonius. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+gymnopilus junonius and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Gymnopilus Junonius has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of gymnopilus junonius into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[gymnopilus-aeruginosus]]
+- [[gymnopilus-fulgens]]
+- [[gymnopilus-luteus]]
+- [[gymnopilus-sapineus]]
+- [[gymnopilus-spectabilis-entity]]

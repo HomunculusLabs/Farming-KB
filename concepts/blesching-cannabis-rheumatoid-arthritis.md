@@ -25,12 +25,9 @@ parts of the body such as joints. Long-time rheumatoid arthritis sufferers can
 often be identified from a distance because their joints take on a gnarly
 appearance.
 
-According to Uwe Blesching's [[blesching-cannabis-health-index-autoimmune-conditions]] (CHI), the evidence-based
-confidence level for cannabis in treating rheumatoid arthritis is based on 3
-studies reviewed with a total CHI value of 10, yielding a [[blesching-cannabis-chi-score-methodology]] of 3.33.
+According to Uwe Blesching's [[blesching-cannabis-chi-score-methodology]] of 3.33.
 
-See also: [[cannabis-autoimmune-conditions-detailed]],
-[[blesching-cannabis-neuropathic-pain]],
+See also: [[blesching-cannabis-neuropathic-pain]],
 [[cannabis-and-fibromyalgia]]
 
 ## Cannabis and Rheumatoid Arthritis: The Evidence
@@ -83,43 +80,6 @@ Total CHI Value: 10
 ## Strain-Specific Considerations
 
 Sativex is not synthetic but rather made from cannabis. The formulation ratios
-are very similar to actual [[comparison-cannabis-sativa-vs-cannabis-indica]] ratios. Sativa and sativa-prominent
-hybrids contain relatively higher THC:CBD ratios and thus activate both CB1
-and CB2 receptors.
-
-Given the autoimmune and inflammatory nature of rheumatoid arthritis, indica
-
-## Practical Applications
-
-The principles and techniques discussed here have wide-ranging applications
-across multiple disciplines and contexts. Practitioners and researchers
-continue to explore new ways to integrate these concepts into modern practice,
-adapting traditional knowledge to contemporary challenges and opportunities.
-
-## Key Considerations
-
-Several important factors influence the effectiveness and outcomes described
-in this topic. Understanding these considerations helps practitioners make
-informed decisions and avoid common pitfalls. Environmental conditions,
-timing, and material selection all play critical roles.
-
-## Historical Context
-
-The historical development of this subject reflects centuries of accumulated
-knowledge and practical experience. From traditional methods passed down
-through generations to modern scientific approaches, the evolution continues
-to inform current best practices and research directions.
-
-## Common Challenges
-
-Practitioners frequently encounter several challenges when working with
-these concepts. Climate variability, resource limitations, and knowledge
-gaps can all affect outcomes. Addressing these challenges requires patience,
-observation, and a willingness to adapt approaches based on results.
-
-## See Also
-- [[uwe-blesching]]
-- [[doc]]
+are very similar to actual [[uwe-blesching]]
 - [[det]]
-- [[endocannabinoid-system]]
 - [[blesching-cannabis-arthritis]]

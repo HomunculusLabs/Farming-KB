@@ -10,9 +10,7 @@ tags: [reference]
 
 # Greenhouse and Polytunnel Growing
 
-Growing under glass extends the [[winter-gardening-season-extension]] significantly, allowing
-you to start plants earlier, grow tender crops, and protect from frost.
-[[hamilton-greenhouse-management-organic]] using
+Growing under glass extends the [[hamilton-greenhouse-management-organic]] using
 organic principles.
 
 ## Siting the Greenhouse
@@ -45,24 +43,9 @@ practical. Replace the polythene cover every 4-5 years.
 Cold frames are essential for acclimatizing plants. They provide a
 halfway house between the warm greenhouse and the open garden. Use them
 for hardening off seedlings before planting out, and for protecting
-tender plants in [[coleman-overwintered-onions-and-early-spring-crops]].
-
-A simple comparison  growing can be made from a wooden box with a hinged glass
-or plastic lid. Position it facing south for maximum light. Prop the
-lid open on warm days for ventilation and close it at night to retain
-heat.
-
-## Ventilation hamilton biomass compost hamilton greenhouse heating and temperature control systems and temperature control Control
-
-Good ventilation is critical to prevent fungal diseases and control
-temperature. Open doors and vents on warm days. In summer, shading may
-be needed to prevent scorching. Use blinds, shade paint, or netting.
-
-"Damping down" -- wetting the greenhouse knf [[knf-fmc-floor-and-temperature-control]] and temperature control staging on hot
+tender plants in [[knf-fmc-floor-and-temperature-control]] and temperature control staging on hot
 days -- helps cool the structure through evaporation and increases
-humidity, which benefits most hemenway insectary mollison [[mollison-designers-insectary-plants-and-beneficial-insect-habitat]] [[hamilton-beneficial-insects-and-biological-pest-control]] [[comparison-pheromone-based-pest-control-vs-beneficial-insect-biocontrol]], and use biological controls
-before resorting to sprays. Clean the greenhouse thoroughly each autumn
-to reduce overwintering [[query-how-to-manage-pests-and-diseases-in-mushroom-cultivation]]. Remove all plant debris and
+humidity, which benefits most hemenway insectary mollison [[hamilton-beneficial-insects-and-biological-pest-control]] [[query-how-to-manage-pests-and-diseases-in-mushroom-cultivation]]. Remove all plant debris and
 ## See Also
 ## Practical Considerations
 
@@ -112,8 +95,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[hamilton-greenhouse-heating-and-temperature-control]]
 - [[hamilton-container-greenhouse-growing]]
-- [[cold-greenhouse-growing]]
 - [[hamilton-greenhouse-management-organic]]
 - [[greenhouse-growing-guide]]

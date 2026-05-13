@@ -12,23 +12,11 @@ date: 2026-05-09
 updated: 2026-05-09
 sources:
   - Little, E.L. (1979). "Checklist of dmt-containing-plants-united-states-halpern Trees." USDA Forest Service Agriculture Handbook 541.
-  - Burns, R.M. & Honkala, B.H. (1990). "Silvics [[berry-growing]], Vol. 2." USDA Forest Service Agriculture Handbook 654.
-  - Godfrey, R.K. (1988). "Trees, Shrubs, and Woody Vines of Northern Florida." University of Georgia Press.
-  - Correll, D.S. & Johnston, M.C. (1979). "Manual of the Vascular Plants of Texas." University of Texas Press.
-  - Sternberg, G. & Wilson, J. (2004). "Landscaping with Native Trees." Houghton Mifflin.
----
-
-## Overview
-
-*Celtis laevigata*, commonly known as sugarberry or southern hackberry, is a medium to large deciduous tree in the family Cannabaceae. It is native to the southeastern and south-central United States, extending from Virginia to Texas and south into northeastern Mexico.
-
-The species is closely related to the northern hackberry (*[[celtis-occidentalis]]*) and is sometimes considered conspecific by some authorities. Sugarberry is distinguished by its smoother bark, narrower leaves, and sweeter fruit.
+  - Burns, R.M. & Honkala, B.H. (1990). "Silvics [[celtis-occidentalis]]*) and is sometimes considered conspecific by some authorities. Sugarberry is distinguished by its smoother bark, narrower leaves, and sweeter fruit.
 
 Sugarberry typically reaches 15–25 meters in height with a trunk diameter of 40–80 cm. It develops a broad, rounded to vase-shaped crown with arching branches. In open positions, the crown spreads wider than it is tall.
 
-Champion specimens have exceeded 30 meters in height with trunk diameters over 1 meter. The tree is relatively fast-growing, especially when young, with [[coleman-sunlight-and-winter-crop-growth-rates]] of 60–100 cm per year on favorable sites.
-
-The root system is extensive and spreading, with a deep taproot that contributes to the species' [[dighton-fungal-drought-tolerance-plant-water-relations]] and wind resistance. This deep root system also makes established trees difficult to transplant successfully.
+Champion specimens have exceeded 30 meters in height with trunk diameters over 1 meter. The tree is relatively fast-growing, especially when young, with [[dighton-fungal-drought-tolerance-plant-water-relations]] and wind resistance. This deep root system also makes established trees difficult to transplant successfully.
 
 The common name "sugarberry" refers to the sweet, date-like fruits that ripen in autumn and are consumed by numerous bird and mammal species. These fruits were historically eaten by Native Americans and early settlers.
 
@@ -38,13 +26,7 @@ The common name "sugarberry" refers to the sweet, date-like fruits that ripen in
 
 The species was described by Carl Ludwig Willdenow in 1806. It was previously placed in the family Ulmaceae but has since been moved to Cannabaceae based on molecular phylogenetic evidence. The genus *Celtis* contains approximately 60–70 species worldwide.
 
-The genus has a [[guzman-allen-gartz-psilocybe-semilanceata-temperate-cosmopolitan-distribution]], with species in [[guzman-psilocybin-mushrooms-north-america]], [[guzman-psilocybin-mushrooms-south-america]], Africa, Asia, and Europe. The disjunct distribution pattern suggests an ancient origin, with fossil *Celtis* leaves and fruits known from the Eocene epoch.
-
-The bark is relatively smooth and grey on young trees, developing a distinctive corky, warty texture with age. Unlike northern hackberry, the bark of sugarberry remains relatively smooth even on mature trunks, with less pronounced corky ridges.
-
-Leaves are alternate, simple, lanceolate to narrowly ovate, 5–12 cm long and 2–5 cm wide, with finely serrate margins. The upper surface is dark green and glossy, while the lower surface is paler with pubescence along the veins. Leaf bases are typically asymmetrical.
-
-Flowers are small, greenish, and inconspicuous, appearing in [[coleman-overwintered-onions-and-early-spring-crops]] before or with the leaves. The species is monoecious, with male and female flowers on the same tree. Pollination is by wind.
+The genus has a [[guzman-psilocybin-mushrooms-north-america]], [[coleman-overwintered-onions-and-early-spring-crops]] before or with the leaves. The species is monoecious, with male and female flowers on the same tree. Pollination is by wind.
 
 The fruit is a small, round drupe, 6–10 mm in diameter, ripening from orange to dark purple or black in late summer to autumn. Each fruit contains a single hard seed. The flesh is thin but sweet, with a flavor reminiscent of dates.
 
@@ -87,3 +69,82 @@ Sugarberry is a valuable wildlife food source throughout its range. The sweet fr
 Mammals that consume the fruit include foxes, raccoons, opossums, squirrels, and deer. The fruit persists into winter, providing a critical food resource during periods of scarcity. The tree's abundant and reliable fruit production makes it a keystone species in bottomland ecosystems.
 
 The dense canopy provides nesting habitat for songbirds and roosting sites for raptors. The bark texture provides substrate for lichens and mosses. Cavities in mature trees serve as den sites for squirrels, bats, and cavity-nesting birds.
+
+## Overview
+
+Celtis Laevigata represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish celtis laevigata
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving celtis extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Celtis Laevigata finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for celtis laevigata. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+celtis laevigata and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Celtis Laevigata has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of celtis laevigata into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also

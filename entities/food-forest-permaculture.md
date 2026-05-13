@@ -32,9 +32,7 @@ Natural forests are the most productive and resilient terrestrial ecosystems. Th
 
 - **Vertical stratification**: Multiple canopy layers capturing sunlight at every height
 - **Nutrient cycling**: Closed-loop decomposition with no external inputs needed
-- **Mutualistic networks**: Mycorrhizal fungi connecting plants for [[mycelial-network-resource-sharing-plants]]
-- **Succession dynamics**: Predictable progression from pioneer species to climax community
-- **Biodiversity**: High species richness creating [[functional-redundancy-fungal-communities]] and pest resilience
+- **Mutualistic networks**: Mycorrhizal fungi connecting plants for [[functional-redundancy-fungal-communities]] and pest resilience
 
 A food forest replicates these principles with species selected for human utility — food, medicine, fiber, fuel, and fertility.
 
@@ -47,35 +45,8 @@ The classic food forest model comprises seven distinct vertical layers:
 | **Canopy** | 10–30 m | Chestnut, walnut, oak, persimmon | Overstory nuts, windbreak, habitat |
 | **Understory** | 3–10 m | Apple, pear, plum, mulberry | Tree fruits, shade tolerance |
 | **Shrub** | 1–3 m | Berry bushes, currants, hazelnut | Berries, nuts, wildlife forage |
-| **Herbaceous** | 0.5–1.5 m | Comfrey, rhubarb, asparagus, herbs | [[comparison-dynamic-accumulators-vs-cover-crops]], culinary herbs |
-| **Ground cover** | 0–0.5 m | Strawberry, creeping thyme, clover | Weed suppression, soil protection |
-| **Rhizosphere** | Below ground | Potatoes, yacon, groundnut, garlic | Root crops, soil aeration |
-| **Vine** | Climbing | Kiwi, grape, passionflower, hops | Vertical production, shade |
-
-An eighth layer — the **mycelial network** — is increasingly recognized as fundamental, connecting the entire system through underground fungal highways.
-
-## Guild Design
-
-A **guild** is a group of mutually beneficial plants arranged around a central element (typically a fruit or nut tree). Each member serves multiple functions:
-
-### Classic Apple Tree Guild Example
-
-```
-Apple tree (center)
-├── Comfrey (dynamic accumulator — mines potassium, calcium from subsoil)
-├── Daffodil (pest deterrent — repels deer and rodents)
-├── Chives (insectary — attracts pollinators; anti-fungal)
-├── Clover (nitrogen fixer — green manure, living mulch)
-├── Yarrow (insectary — attracts predatory wasps; dynamic accumulator)
-└── Mint (ground cover — weed suppression; aromatic pest confuser)
-```
-
-### Key Functional Roles in Guilds
-
-1. **Nitrogen fixers**: Leguminous plants (clover, locust, seaberry) converting atmospheric N₂ into plant-available forms
-2. **Dynamic accumulators**: Deep-rooted plants (comfrey, dock, dandelion) mining minerals from subsoil
-3. **Insectaries**: Flowering plants providing nectar and pollen [[query-how-do-i-design-habitat-for-beneficial-insects]]
-4. **Mulch plants**: Rapidly growing biomass producers for chop-and-drop mulching
+| **Herbaceous** | 0.5–1.5 m | Comfrey, rhubarb, asparagus, herbs | [[query-how-do-i-design-habitat-for-beneficial-insects]]
+4. **Mulch plants**: Rapidly growing biomass producers for [[chop-and-drop]] mulching
 5. **Pest confusers**: Aromatic herbs masking the scent of target crops from pests
 6. **Habitat plants**: Providing shelter for predatory insects, birds, and amphibians
 
@@ -124,26 +95,6 @@ Apple tree (center)
 **Canopy**: Chestnut, black walnut, persimmon, pawpaw, heartnut, oak
 **Understory**: Apple, pear, plum, cherry, mulberry, Asian pear, medlar
 **Shrub**: Hazelnut, elderberry, aronia, seaberry, currant, gooseberry, blueberry
-**Herbaceous**: Comfrey, rhubarb, asparagus, [[comparison-jerusalem-artichoke-vs-potato]], hosta
-**Vine**: Hardy kiwi, grape, schisandra, hops, maypop
-**Ground cover**: Strawberry, wild ginger, woodland strawberry, ramps
-
-### Subtropical (USDA Zones 9–11)
-
-**Canopy**: Avocado, mango, macadamia, breadfruit, jackfruit, coconut
-**Understory**: Citrus, banana, papaya, guava, loquat, carambola
-**Shrub**: Coffee, cacao, tea, pineapple, moringa, cassava
-**Vine**: Passionfruit, vanilla, chayote, malabar spinach
-**Root crops**: Taro, sweet potato, yam, turmeric, ginger
-
-## Water Management
-
-### Keyline Design
-
-Keyline patterning directs water from valleys to ridges, maximizing infiltration across the landscape. Swales (level ditches on contour) capture runoff and allow slow percolation into the soil profile, reducing irrigation needs by 50–80% once established.
-
-### Greywater Integration
-
-Food forests can accept greywater outputs from households (laundry, shower, kitchen sink) as irrigation input, provided biocompatible soaps are used. Mulch basins and [[comparison-constructed-wetlands-vs-bioswales]] pre-filter water before plant uptake.
+**Herbaceous**: Comfrey, rhubarb, asparagus, [[comparison-constructed-wetlands-vs-bioswales]] pre-filter water before plant uptake.
 
 ## Economic Analysis

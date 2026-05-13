@@ -109,13 +109,8 @@ The plant contains mild compounds that deter most herbivores, though it is not c
 
 ## See Also
 
-- [[haworthia-fasciata]]
 - [[haworthia-retusa]]
-- [[aloe-aristata]]
 - [[gasteria-verrucosa]]
-- [[gasteria-bicolor]]
 - [[echeveria-elegans]]
-- [[crassula-ovata]]
 - [[adromischus-cristatus]]
-- [[kalanchoe-tomentosa]]
 - [[pachyphytum-oviferum]]

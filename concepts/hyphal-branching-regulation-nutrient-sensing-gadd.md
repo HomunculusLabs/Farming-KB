@@ -9,8 +9,7 @@ source: "geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in-the-environment"
 
 ## Overview
 
-Hyphal branching is the fundamental process by which [[environmental-sensing-filamentous-fungi-read]]
-construct their [[fungal-mycelial-networks-nutrient-translocation]]. Unlike plants and animals that grow
+Hyphal branching is the fundamental process by which [[fungal-mycelial-networks-nutrient-translocation]]. Unlike plants and animals that grow
 by cell division throughout their bodies, fungi grow exclusively at their
 tips, and branching creates new tips. The regulation of branching — its
 timing, frequency, and spatial pattern — determines the overall morphology
@@ -20,22 +19,7 @@ nutrients.
 ## The Relationship Between Internal Resources and Branching
 
 It has been widely reported that hyphal branching in mycelial fungi is
-related to the status of internally located material. [[bloomfield-turgor-pressure-and-hyphal-invasion]]
-and the build-up of tip vesicles have been implicated as key factors
-controlling when and where branches initiate (Webster, 1980; Gow and
-Gadd, 1995). When sufficient internal resources accumulate behind the
-tip, the probability of branching increases.
-
-This relationship means that branching is not random but is modulated
-by the fungus's internal physiological state. A well-fed hypha with
-abundant internal substrate branches more frequently than a nutrient-
-starved one. This makes intuitive sense: branching is the fungal
-equivalent of foraging — the organism invests in new exploratory
-growth when it has the energetic resources to do so.
-
-## Nutrient Uptake and Active Translocation
-
-In mycelial fungi, nutrient uptake occurs by [[diffusion-osmosis-and-active-transport-in-plants]] across
+related to the status of internally located material. [[diffusion-osmosis-and-active-transport-in-plants]] across
 the plasma membrane. This means uptake depends not only on the external
 substrate concentration but also on:
 
@@ -49,10 +33,7 @@ Many species of fungi possess both active (metabolically driven) and
 passive (diffusive) translocation mechanisms for carbon compounds
 (Olsson, 1995). Active translocation moves internal substrate towards
 hyphal tips since they represent the major growth sites and are
-therefore the largest net energy sinks. This [[fungal-pulsatile-nutrient-transport-mycelial-networks]]
-capability is especially well-developed in mycorrhizal fungi, which
-form extensive hyphal networks to shuttle nutrients between soil and
-plant roots—see [[ingham-mycorrhizal-fungi-nutrient-transport-colonization]]
+therefore the largest net energy sinks. This [[ingham-mycorrhizal-fungi-nutrient-transport-colonization]]
 for details on these symbiotic transport systems.
 
 ## The Spitzenkörper Role in Branch Initiation
@@ -76,9 +57,7 @@ to internal substrate concentration. In these models:
 - The colony expands as a function of tip number and tip extension
   rate
 - Anastomosis (hyphal fusion) creates interconnected networks that
-  improve [[mycelial-network-resource-sharing-plants]]
-
-The models were validated using [[gadd-mathematical-modelling-rhizoctonia-solani-mycelial-growth]] grown on glucose
+  improve [[gadd-mathematical-modelling-rhizoctonia-solani-mycelial-growth]] grown on glucose
 medium, with good quantitative agreement between predicted and observed
 biomass values and colony radial expansion rates.
 
@@ -118,8 +97,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[dom]]
 - [[det]]
-- [[mycelium]]
 - [[mycorrhizal-fungi]]
 - [[mycorrhiza]]

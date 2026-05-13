@@ -108,13 +108,8 @@ Conservation priorities include protecting remaining cloud forest habitat and mo
 
 ## See Also
 
-- [[cyathea-cooperi]]
 - [[cyathea-medullaris]]
-- [[cyathea-dealbata]]
 - [[dicksonia-antarctica]]
-- [[dicksonia-squarrosa]]
 - [[dicksonia-fibrosa]]
-- [[cibotium-barometz]]
 - [[cibotium-glaucum]]
-- [[blechnum-spicant]]
 - [[osmunda-regalis]]

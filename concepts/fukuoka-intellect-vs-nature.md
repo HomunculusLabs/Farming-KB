@@ -8,35 +8,7 @@ created: 2026-05-10
 
 # Fukuoka's Critique of Human Intellect vs. Nature
 
-In *The Road Back to Nature*, [[masanobu-fukuoka]] develops a sustained philosophical
-critique of the human intellect and its relationship to the natural world. This is
-not a secondary theme of the book but its central argument — the "road back to
-nature" is fundamentally a road back from the tyranny of human reason.
-
-## The Revelation
-
-Fukuoka describes a moment in his youth when he experienced a sudden, overwhelming
-vision of the totality of existence. He saw that God, nature, and humanity were
-originally one indivisible whole, and that human intellectual development had
-progressively split them apart. For nearly fifty years he kept this experience
-private, considering it beyond the capacity of language to convey.
-
-When he finally chose to write about it, he framed it not as religious mysticism
-but as direct empirical observation — what he called "innocent seeing." The
-revelation was not of something supernatural but of something so ordinary that
-civilized humans had become incapable of perceiving it: the wholeness and
-perfection of nature as it exists prior to human judgment.
-
-## The Perverse Pranks of Reason
-
-Fukuoka's critique of reason is radical. He writes that "intelligence and reason
-were nothing more than perverse pranks. The greatest enemies responsible for man's
-loss of his native aesthetic sense and of the understanding inherent to man are the
-human intellect and what we call reason."
-
-This is not anti-intellectualism in the simple sense. Fukuoka was a trained
-scientist who understood the power of analytical thinking. His argument is more
-subtle: that the human intellect, while useful within narrow [[dom|dom]]ains, becomes
+In *The Road Back to Nature*, [[dom|dom]]ains, becomes
 destructive when applied to the management of living systems. Reason operates by
 breaking wholes into parts, classifying, and making judgments. This mode of
 thinking is appropriate for building machines or solving mathematical problems. It
@@ -90,7 +62,6 @@ He illustrates this with an analogy: "At first, reason appeared capable of becom
 the means necessary for conversing with God, but instead it turned out to be a
 
 ## See Also
-- [[fukuoka-human-intellect-barrier-to-nature-road-back]]
 - [[fukuoka-textdoc-seeing-nature-wholistically-fuji-hokusai-analysis]]
 
 ## Practical Applications
@@ -122,8 +93,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[doc]]
 - [[dom]]
-- [[fukuoka-human-intellect-barrier-to-nature-road-back]]
 - [[fukuoka-nature-fundamentally-perfect-self-enriching]]
 - [[fukuoka-nature-perfect-imperfect-philosophical-perspective]]

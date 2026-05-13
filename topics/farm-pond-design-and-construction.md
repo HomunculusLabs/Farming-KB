@@ -130,14 +130,9 @@ At the Krameterhof, Holzer has found that even ponds in sandy loams gradually se
 ## Pond Liners for Backyard and Small-Scale Ponds
 ## See Also
 
-- [[permaculture-water-harvesting-earthworks]] and [[swale-design-and-earthwork-construction]]
-- keyline design and water management in permacultur [[rainwater-harvesting-and-graywater-recycling]] ling
-- aquaponics and backyard aq [[constructed-wetlands-and-ecological-wastewater-treatment]] er treatment
-- amphibians and pond ecolog [[aquatic-plants-and-pond-ecosystems]] tems
-- the soil food web
-
-- [[bill-mollison-permaculture-a-designers-manual-water-harvesting-and-earthworks]]
-- [[bill-mollison-permaculture-a-designers-manual-aquaculture-and-water-systems]]
+- [[swale-design-and-earthwork-construction]]
+- keyline design and water management in permacultur [[constructed-wetlands-and-ecological-wastewater-treatment]] er treatment
+- amphibians and pond ecolog [[bill-mollison-permaculture-a-designers-manual-water-harvesting-and-earthworks]]
 - [[bill-mollison-permaculture-a-designers-manual-soil-and-humus-management]]
 ## References
 

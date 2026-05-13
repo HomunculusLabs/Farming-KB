@@ -9,8 +9,7 @@ created: 2026-05-08
 
 ## Overview
 
-A significant but often overlooked aspect of [[endocannabinoid-system-and-cannabis-pharmacology]] discussed
-in Blesching's *The [[cannabis-health-index-scoring-system]], which weights studies by their
+A significant but often overlooked aspect of [[cannabis-health-index-scoring-system]], which weights studies by their
 methodological rigor, would likely assign lower scores to the raw cannabis
 evidence due to the predominance of laboratory and preclinical studies.
 
@@ -31,7 +30,6 @@ the practical constraints of psychoactivity.
 
 ## See Also
 
-- [[cannabis-endocannabinoid-system]]
 - [[blesching-cannabis-health-index-autoimmune-conditions]]
 ## Practical Applications
 

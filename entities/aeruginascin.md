@@ -10,18 +10,7 @@ sources: [/Users/t3rpz/wiki/raw/papers/the-metabolic-pathway-of-psilocybin-produ
 
 # Aeruginascin
 
-Aeruginascin is a naturally occurring [[aminopropyl-silica-gel-chromatography-indole-alkaloid-purification]] found in certain **Psilocybe** mushroom species, most notably *Psilocybe aeruginosa* from which it derives its name. It is a trimethylammonium analogue of psilocybin, distinguished by a permanently charged quaternary ammonium group on the ethylamine side chain in place of psilocybin's dimethylamine.
-
-## Chemical Structure
-
-Chemically, aeruginascin is **4-phosphoryloxy-N,N,N-trimethyltryptamine**. The key structural difference from psilocybin is the replacement of the terminal dimethylamine with a trimethylammonium cation, giving it a permanent positive charge. This quaternary ammonium modification significantly alters its pharmacokinetic properties — the molecule cannot cross the blood-brain barrier as readily as psilocybin or psilocin, which may explain differences in its psychoactive profile.
-
-## Occurrence
-
-Aeruginascin was first isolated and identified by **Jochen Gartz** in the late 1980s. It has been detected in:
-
-- *Psilocybe aeruginosa* (type species, highest concentrations)
-- *[[psilocybe-cyanescens]]*
+Aeruginascin is a naturally occurring [[psilocybe-cyanescens]]*
 - *Psilocybe bohemica* (occasionally reported)
 
 Its distribution is not universal among psilocybin-containing fungi, suggesting it represents a side branch of the biosynthetic pathway rather than a core intermediate.
@@ -32,7 +21,7 @@ Aeruginascin is produced via the same pathway as psilocybin, likely diverging th
 
 ## Pharmacology
 
-Unlike psilocybin, aeruginascin shows minimal classical psychedelic activity. The quaternary ammonium group prevents efficient passage across the blood-brain barrier. However, anecdotal reports from mushroom hunters consuming *[[gartz-inocybe-aeruginascens-distribution-and-psychoactivity]]* have described effects that differ qualitatively from typical psilocybin experiences, including reports of **euphoric and predominantly pleasant effects** without the anxiety or dysphoria sometimes associated with [[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]]. Gartz hypothesized that aeruginascin might act as a **modulator** of psilocybin's effects when co-ingested, potentially reducing negative psychological reactions.
+Unlike psilocybin, aeruginascin shows minimal classical psychedelic activity. The quaternary ammonium group prevents efficient passage across the blood-brain barrier. However, anecdotal reports from mushroom hunters consuming *[[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]]. Gartz hypothesized that aeruginascin might act as a **modulator** of psilocybin's effects when co-ingested, potentially reducing negative psychological reactions.
 
 ## Significance
 
@@ -67,12 +56,10 @@ on scarce inputs when a simpler ecological substitute is available.
 
 ## Related Topics
 
-- [[composting-systems]]
 - [[mushroom-cultivation]]
 
 ## See Also
 
-- [[psilocybin-containing-genera-beyond-psilocybe]]
 - [[psilocybe-azurescens]]
 ## Practical Considerations
 

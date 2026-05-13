@@ -4,13 +4,12 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [vegetables, gardening, cultivation, beginner, inoculation, harvesting]
-sources:
-  - "raw/papers/coleman-new-organic-grower.md"
+sources: []
 ---
 
 ## Overview
 
-Beans are one of the most productive and versatile crops in the home garden. They fix nitrogen from the air through a symbiotic relationship with rhizobia bacteria, improving soil fertility while producing abundant harvests. This guide covers pole vs bush beans, inoculation, [[coleman-succession-planting]], trellis systems, and drying beans for storage.
+Beans are one of the most productive and versatile crops in the home garden. They fix nitrogen from the air through a symbiotic relationship with rhizobia bacteria, improving soil fertility while producing abundant harvests. This guide covers pole vs bush beans, inoculation, succession planting, trellis systems, and drying beans for storage.
 
 ## Pole vs Bush Beans
 
@@ -35,7 +34,7 @@ Beans are one of the most productive and versatile crops in the home garden. The
 - Maturity: 60-75 days to first harvest, then continuous
 
 ### Choosing Between Them
-- Small gardens with limited space: pole beans ([[coleman-greenhouse-tomato-vertical-growing]])
+- Small gardens with limited space: pole beans (vertical growing)
 - Large beds or field planting: bush beans (no infrastructure needed)
 - Extended harvest desired: pole beans
 - Quick crop for succession: bush beans (faster maturity)
@@ -43,12 +42,12 @@ Beans are one of the most productive and versatile crops in the home garden. The
 
 ## Inoculation
 
-Bean inoculation introduces rhizobia bacteria to the soil, enabling [[biological-nitrogen-fixation-agriculture]].
+Bean inoculation introduces rhizobia bacteria to the soil, enabling nitrogen fixation.
 
 ### Why Inoculate
 - Rhizobia bacteria form nodules on bean roots
 - Inside these nodules, bacteria convert atmospheric nitrogen (N2) into plant-available forms
-- This reduces or eliminates the need for [[jadam-natural-nitrogen-fertilizer]]
+- This reduces or eliminates the need for nitrogen fertilizer
 - Plants grow more vigorously, especially in soils without prior legume history
 - Inoculated beans leave behind nitrogen-enriched soil for the next crop
 
@@ -132,7 +131,7 @@ Succession planting extends the bean harvest over many weeks.
 ### Corn Stalks (Three Sisters)
 - Pole beans climbing corn stalks as part of the traditional Three Sisters planting
 - Plant beans 2-3 weeks after corn to avoid competition
-- See [[food-forest-design]] for [[cervantes-companion-planting-pest-deterrent]] concepts
+- See [[food-forest-design]] for companion planting concepts
 
 ## Drying Beans
 
@@ -141,10 +140,11 @@ Drying beans are left on the plant until fully mature and dry, then shelled and 
 ### Growing Dry Beans
 - Most pole and bush bean varieties can be dried, but some are specifically bred for it
 - Dry bean varieties: Black Turtle, Pinto, Navy (Pea Bean), Cranberry, Jacob's Cattle, Good Mother Stallard, Red Kidney, Anasazi
-- Allow pods to dry completely on the plant (brown, brittle, rattling)
-- If frost threatens before pods are dry, pull entire plants and hang indoors to finish drying
 
-### Harvesting and Processing
-- Shell beans by hand or thresh by beating pods in a bag
-- Winnow to separate chaff (pour between bowls in a light breeze)
-- Spread beans on screens to dry further for 1-2 weeks
+## See Also
+
+- [[jilly-bean]]
+- [[ice-cream-bean-entity]]
+- [[comparison-bean-growing-guide-vs-pepper-growing-guide]]
+- [[comparison-fava-bean-vs-chickpea-vs-lentil-grain-legumes]]
+- [[comparison-permaculture-tuber-crops-vs-bean-growing-guide]]

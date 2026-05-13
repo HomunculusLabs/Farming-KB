@@ -10,7 +10,7 @@ sources:
 
 # Mycoremediation Case Studies
 
-Field-verified remediation projects demonstrating fungal cleanup of contaminated environments. Based on [[paul-stamets]]' *Mycelium Running* (2005). See also [[mycoremediation-basics]], [[mycoremediation-of-oil-spills]], [[mycoremediation-of-heavy-metals]], and [[mycorestoration-framework]].
+Field-verified remediation projects demonstrating fungal cleanup of contaminated environments. Based on [[paul-stamets]]' *Mycelium Running* (2005). See also [[mycoremediation-basics]], [[mycoremediation-of-oil-spills]], [[mycoremediation-heavy-metals]], and [[mycorestoration-framework]].
 
 ## Battelle Marine Science Laboratory: PCB Bioremediation
 
@@ -134,7 +134,7 @@ Field-verified remediation projects demonstrating fungal cleanup of contaminated
 - Various fungal species demonstrate ability to sequester heavy metals through biosorption
 - Mycelial mats can be deployed as passive filters for metal-contaminated water
 - After saturation, metal-loaded fungal biomass can be collected and processed
-- See [[mycoremediation-of-heavy-metals]] for detailed species data and mechanisms
+- See [[mycoremediation-heavy-metals]] for detailed species data and mechanisms
 
 ## Comparative Summary of Case Studies
 

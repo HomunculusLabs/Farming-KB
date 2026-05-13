@@ -8,13 +8,7 @@ topic: "dry-vermiculite-contaminant-barrier-pf-tek-cultivation"
 ## Overview
 
 The dry vermiculite contaminant barrier is a core innovation of the PF Tek
-[[boil-a-bag-mushroom-cultivation-method]], developed by Robert McPherson (known as
-"Psilocybe Fanaticus"). This technique uses a layer of dry, unsterilized
-vermiculite at the top of each cultivation jar to prevent airborne contaminant
-spores from reaching the sterile substrate below.
-
-The barrier is remarkable because it uses completely unsterilized material to
-protect [[oyster-mushroom-non-sterilized-substrate-cultivation]] — a counterintuitive approach that proved highly
+[[oyster-mushroom-non-sterilized-substrate-cultivation]] — a counterintuitive approach that proved highly
 effective and revolutionized amateur mycology by eliminating the need for
 expensive laminar flow hoods or glove boxes.
 
@@ -113,32 +107,9 @@ Extremely high spore loads in the environment, such as in a mold-contaminated
 building, can overwhelm the barrier's capacity. The barrier has a finite
 filtration capacity proportional to its thickness and density.
 
-Improper [[inoculation-technique-and-alcohol-flaming]], such as inserting the needle too deeply or
-at an angle, can push contaminated vermiculite down into the sterile
-substrate. The needle should be inserted straight down through the center
-of the barrier.
-
-## Legacy and Influence
-
-The dry vermiculite barrier concept has been adopted and adapted by countless
-cultivation methods since the PF Tek's introduction. The principle of using
-a dry, inert, nutrient-free material as a contaminate filter has been applied
-to:
-
-- Grain jar preparation in more advanced cultivation methods
-- Monotub and bulk cultivation setups using polyfill filters
-- [[history-of-commercial-mushroom-cultivation]] spawn production
+Improper [[history-of-commercial-mushroom-cultivation]] spawn production
 - Mycological research requiring simplified sterile technique
 
-The concept proved that effective [[cervantes-cannabis-contamination-prevention]] does not require
-expensive equipment or laboratory-grade sterility. With the right physical
-barrier design, amateur cultivators could achieve reliable results with
-minimal investment — a democratization of mycological knowledge that
-transformed the home cultivation landscape.
-
-## See Also
-
-- [[pf-tek]] — the complete cultivation method developed by Psilocybe Fanaticus
-- [[vermiculite-cannabis]] — the mineral substrate material and its properties
+The concept proved that effective [[pf-tek]] — the complete cultivation method developed by Psilocybe Fanaticus
 - [[brown-rice-flour-substrate]] — the nutrient component of PF Tek jars
 - [[mushroom-cultivation-contamination]] — causes and prevention of contamination

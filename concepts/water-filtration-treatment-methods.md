@@ -6,30 +6,13 @@ type: concept
 
 # Water Filtration and Treatment Methods
 
-Water filtration and treatment in [[permaculture-design]] relies on low-energy, biological, and gravity-driven systems rather than mechanical or chemical-heavy industrial processes. These methods work with natural ecological processes to purify water for domestic, agricultural, and ecological use.
-
-By combining physical, chemical, and biological treatment stages in sequence, clean water can be produced without dependence on powered machinery or synthetic inputs. Each stage addresses different classes of contaminants, and together they form a complete treatment train capable of producing high-quality water from a wide range of source conditions.
-
-## Common Water Treatments
-
-A range of simple, well-established treatments form the foundation of any water purification strategy:
-
-- **Aeration** — Exposing water to air to release dissolved gases and oxidise dissolved minerals. Can be achieved by cascading water over rocks, spraying through nozzles, or simply allowing broad, shallow flow across aeration beds. Aeration also supports aerobic bacterial activity downstream.
-- **Settling** — Allowing suspended particles to settle out by reducing flow velocity. Wide, still basins or tanks give sediments time to drop to the bottom. Settlement ponds are the simplest form, requiring only an excavated depression with adequate retention time.
-- **Skimming and Sieving** — Removing floating debris, oils, and surface contaminants with physical barriers. Sieves and skimmers catch leaves, organic matter, and surface films before they enter downstream treatment stages. Intake screens on feeder channels serve this purpose continuously.
-- **pH Adjustment** — Correcting acidity or alkalinity using natural amendments. Calcium compounds raise pH while sulphur-based inputs lower it, stabilising conditions for downstream biological processes. Proper pH is essential for bacterial efficiency and [[plant-nutrient-uptake]].
+Water filtration and treatment in [[plant-nutrient-uptake]].
 
 ## Coagulation and Flocculation
 
 Fine suspended particles that resist settling can be aggregated into larger masses (flocs) through coagulation and flocculation:
 
-- **Chemical coagulants** such as lime or ferric sulphates bind fine [[colloids]] into heavier clusters that settle readily. These are effective but introduce mineral salts into the water.
-- **Organic bacterial gels** offer a biological alternative, where bacterial polymers act as natural flocculants, aggregating suspended matter without introducing synthetic chemicals. These gels are produced by certain bacterial cultures grown in the treatment system itself.
-- **Liming** also serves a dual purpose here, reducing turbidity while adjusting pH. It is one of the simplest and most widely available treatments in rural and agricultural settings.
-
-## Sand Filtration
-
-Sand filtration is one of the oldest and most reliable water treatment methods. In a [[permaculture]] context it is designed as a passive, gravity-fed system:
+- **Chemical coagulants** such as lime or ferric sulphates bind fine [[permaculture]] context it is designed as a passive, gravity-fed system:
 
 - A sand filter bed should be approximately **1.2 metres deep** to provide adequate contact time and filtration depth.
 - The grading runs from **fine sand at the top** to **coarser material at the bottom**, creating a gradient that traps progressively smaller particles through the depth of the bed.
@@ -52,7 +35,7 @@ Activated charcoal (carbon) provides powerful adsorption of dissolved organic co
 Bacteria are the workhorses of biological water treatment, breaking down organic matter and converting dissolved nutrients:
 
 - **Trickle filters** pass water over media surfaces that support resident bacterial biofilms. As water trickles through, bacteria consume organic waste and transform nitrogenous compounds from ammonia to nitrite to nitrate.
-- **Carbon addition** in the form of simple carbohydrates (methanol, ethanol, or acetic acid) encourages bacterial growth, ensuring a robust microbial population capable of handling nutrient loads. This is particularly important in systems receiving high-nitrogen waste streams.
+- **Carbon addition** in the form of simple carbohydrates ([[methanol]], [[ethanol]], or acetic acid) encourages bacterial growth, ensuring a robust microbial population capable of handling nutrient loads. This is particularly important in systems receiving high-nitrogen waste streams.
 - Bacterial action removes nitrogen, reduces BOD (biological oxygen demand), and decomposes dissolved organic contaminants. Maintaining aerobic conditions in the filter bed is critical for these processes.
 
 ### Phytoplankton and Higher Plants

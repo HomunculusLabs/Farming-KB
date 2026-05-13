@@ -10,8 +10,7 @@ sources: []
 
 ## Overview
 
-Cordyceps ([[cordyceps-militaris-cultivation]]) and Reishi
-([[reishi-cultivation]]) are two of the most sought-after medicinal
+Cordyceps ([[reishi-cultivation]]) are two of the most sought-after medicinal
 mushrooms in the world, yet their cultivation demands are strikingly
 different. Cordyceps militaris is a fastidious, parasitic fungus that
 fruits on grain substrates under precise sterile conditions. Reishi
@@ -21,24 +20,6 @@ Choosing between them depends on your lab setup, experience level, and
 target market.
 
 ## Cordyceps Cultivation
-
-[[cordyceps-militaris-cultivation]]
-
-Cordyceps militaris cultivation is unique among mushroom growing because
-the species fruits directly on grain substrates — typically brown rice —
-without needing a separate bulk substrate. The process begins with liquid
-culture inoculation under strict sterile technique, as C. militaris is
-highly susceptible to bacterial contamination during early colonization.
-Jars of sterilized grain are incubated at 20-25 C (68-77 F) for 14-21
-days until fully colonized. Fruiting is triggered by light exposure and
-fresh air exchange at 18-22 C (64-72 F). The distinctive bright orange
-club-shaped fruiting bodies emerge over 4-8 weeks. Unlike most cultivated
-mushrooms, C. militaris requires consistently cool temperatures and
-careful humidity management throughout the entire fruiting cycle. The
-payoff is cordycepin content that matches or exceeds wild-harvested
-Ophiocordyceps sinensis, at a fraction of the cost.
-
-## Reishi Cultivation
 
 [[reishi-cultivation]]
 
@@ -114,8 +95,6 @@ income anchor while developing Cordyceps technique for premium markets.
 
 ## See Also
 
-- [[comparison-cordyceps-vs-lions-mane-cultivation]]
 - [[comparison-maitake-vs-reishi-medicinal-mushrooms]]
-- [[comparison-reishi-vs-turkey-tail-medicinal-mushrooms]]
 - [[cordyceps-cultivation]]
 - [[reishi-mushroom-medicinal-research]]

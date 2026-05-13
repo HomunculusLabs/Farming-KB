@@ -11,7 +11,7 @@ sources: []
 
 ## Overview
 
-Cannabis seed banks are companies that produce, store, and distribute cannabis seeds to growers worldwide. They serve as the primary source of [[biodiversity-fungal-genetic-diversity]] for both commercial operations and home cultivators. Understanding seed banks, strain preservation, and genetic terminology is essential for anyone serious about [[cannabis-breeding-basics]] or selecting quality genetics for [[cannabis-indoor-growing-basics]] or [[cannabis-outdoor-growing]] cultivation.
+Cannabis seed banks are companies that produce, store, and distribute cannabis seeds to growers worldwide. They serve as the primary source of [[biodiversity-fungal-genetic-diversity]] for both commercial operations and home cultivators. Understanding seed banks, strain preservation, and genetic terminology is essential for anyone serious about [[cannabis-breeding-basics|breeding]] or selecting quality genetics for [[cannabis-indoor-growing-basics|indoor]] or [[cannabis-outdoor-growing|outdoor]] cultivation.
 
 ## Types of Seeds
 
@@ -37,7 +37,7 @@ Feminized seeds are bred to produce only female plants (approximately 99% female
 
 ### Autoflowering Seeds
 
-Seeds containing ruderalis genetics that flower automatically based on age. See [[cannabis-autoflower-guide]] for detailed information.
+Seeds containing ruderalis genetics that flower automatically based on age. See [[cannabis-autoflower-guide|autoflower guide]] for detailed information.
 
 ### Clone-Only Genetics
 
@@ -87,11 +87,11 @@ Spain has emerged as a major seed bank hub due to favorable laws:
 
 **Americas:** Colombian (Gold, Red, Black — used in Skunk #1), Mexican (Acapulco Gold, Oaxacan), Jamaican sativas.
 
-**Africa:** Durban Poison (South African sativa — one of few pure landraces widely in seed form), Malawi, Swazi.
+**Africa:** Durban Poison ([[cannabis-strain-swazi-landrace-south-african-sativa-oner]] — one of few pure landraces widely in seed form), Malawi, Swazi.
 
 ### Landrace Preservation
 
-Many landrace populations are threatened by introduced hybrid genetics. Seed banks maintain living collections, and organizations like the [[cannabis-genetics-and-breeding]] Institute work on [[cannabis-breeding-basics]] and preservation efforts.
+Many landrace populations are threatened by introduced hybrid genetics. Seed banks maintain living collections, and organizations like the Cannabis Genetics Institute work on [[cannabis-breeding-basics|breeding programs]] and preservation efforts.
 
 ## Breeding Programs
 
@@ -121,8 +121,8 @@ High THC, unique [[cannabis-terpene-profiles]], fast flowering, high yields, pes
 
 Seed bank legality varies by jurisdiction:
 
-- Check [[cannabis-regulations-by-state]] before ordering
+- Check [[cannabis-regulations-by-state|local regulations]] before ordering
 - Seeds may be legal to purchase but illegal to germinate
 - International shipping carries legal risks
 - Medical programs may have specific seed sourcing requirements
-- [[cannabis-testing-and-quality]] of seeds and resulting plants helps ensure genetic integrity
+- [[cannabis-testing-and-quality|Quality testing]] of seeds and resulting plants helps ensure genetic integrity

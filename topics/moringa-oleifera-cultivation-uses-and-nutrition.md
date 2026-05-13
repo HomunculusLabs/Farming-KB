@@ -1,6 +1,6 @@
 # Moringa oleifera — Cultivation, Uses, and Nutrition
 
-Moringa oleifera, commonly known as the drumstick tree, horseradish tree, or simply *moringa*, is a fast-growing, drought-resistant tree native to the Indian subcontinent. Widely cultivated across tropical and subtropical regions, it is valued for its exceptional nutritional profile, medicinal properties, and versatility in agroforestry systems. Nearly every part of the tree — leaves, pods, seeds, bark, roots, and flowers — has documented uses in food, medicine, water purification, and agriculture.
+Moringa oleifera, commonly known as the drumstick tree, horseradish tree, or simply *moringa*, is a fast-growing, drought-resistant tree native to the Indian subcontinent. Widely cultivated across tropical and subtropical regions, it is valued for its exceptional nutritional profile, [[amanita-muscaria-medicinal-properties-heart-anxiety-dreams]], and versatility in agroforestry systems. Nearly every part of the tree — leaves, pods, seeds, bark, roots, and flowers — has documented uses in food, medicine, water purification, and agriculture.
 
 ## Taxonomy and Description
 
@@ -21,12 +21,10 @@ Moringa oleifera, commonly known as the drumstick tree, horseradish tree, or sim
 
 Moringa originated in the sub-Himalayan tracts of India, Pakistan, and Bangladesh, where it has been cultivated for over 4,000 years. Ancient Ayurvedic texts such as the *Charaka Samhita* (c. 300 BCE) reference moringa as a medicinal plant. From South Asia, it spread to:
 
-- **Southeast Asia** — introduced to the Philippines, Indonesia, and Malaysia via early maritime trade; *malunggay* is a dietary staple in Filipino cuisine
+- **[[guzman-thailand-southeast-asia-psychoactive-fungi-distribution]]** — introduced to the Philippines, Indonesia, and Malaysia via early maritime trade; *malunggay* is a dietary staple in Filipino cuisine
 - **Africa** — spread through East Africa and the Sahel region; naturalized across much of sub-Saharan Africa
-- **Central and South America** — introduced during the colonial era; widely naturalized in the Caribbean
-- **[[guzman-allen-gartz-neurotropic-fungi-hawaii-pacific-islands]]** — established in Hawaii, Fiji, and other Pacific archipelagos
-
-Today, moringa is cultivated in over 80 countries, with the largest commercial producers being India, Nigeria, the Philippines, and Ghana. Its cultivation is expanding rapidly in tropical Africa and [[guzman-allen-gartz-neurotropic-fungi-caribbean-central-america]] due to growing demand in the global health food and nutraceutical markets.
+- **Central and [[guzman-psilocybin-mushrooms-south-america]]** — introduced during the colonial era; widely naturalized in the Caribbean
+- **[[guzman-allen-gartz-neurotropic-fungi-caribbean-central-america]] due to growing demand in the global health food and nutraceutical markets.
 
 ## Botanical Characteristics
 
@@ -124,26 +122,14 @@ Cooking, blanching, or fermenting moringa leaves significantly reduces these ant
 
 ### Climate Requirements
 
-Moringa thrives in tropical and subtropical climates with the following characteristics:
+Moringa thrives in tropical [[query-how-to-grow-rare-tropical-fruits-in-marginal-and-subtropical-climates]] with the following characteristics:
 
 | Parameter | Optimal Range | Tolerable Range |
 |-----------|--------------|-----------------|
 | Temperature | 25–35°C | 10–48°C |
-| Annual rainfall | 250–3,000 mm | 250 mm minimum ([[drought-tolerant-planting-design]] once established) |
-| Altitude | 0–1,000 m | Up to 1,800 m in tropics |
-| Soil pH | 6.3–7.0 | 5.0–8.5 |
-| Light | Full sun | Partial shade tolerated |
-
-Moringa is remarkably drought-tolerant due to its deep taproot system, which can extend 2–3 meters below ground. However, young trees require regular watering during the first 2–3 months. The tree is sensitive to frost — temperatures below 2°C cause leaf drop, and prolonged freezing kills the above-ground growth, though the root system can resprout.
-## See Also
-
-- Moringa oleifera vs [[moringa-stenopetala]] (comparison)
+| Annual rainfall | 250–3,000 mm | 250 mm minimum ([[moringa-stenopetala]] (comparison)
 - Can moringa be used for water purification? (query)
-- Neem tree — another [[mollison-designers-moringa-and-multipurpose-tropical-trees]] tree
-- Agroforestry and [[alley-cropping]]
-- Carbon farming and climate resilient agriculture
-- [[syntropic-agriculture]] design and practice
-
-## Related
+- Neem tree — another [[alley-cropping]]
+- [[carbon-farming-and-climate-resilient-agriculture]] [[query-how-can-i-design-a-climate-resilient-food-forest]] agriculture
 - [[coleman-claytonia-winter-harvest-cultivation|coleman claytonia winter harvest cultivation]]
 - [[arbuscular-mycorrhizal-fungi-cannabis-cultivation|arbuscular mycorrhizal fungi cannabis cultivation]]

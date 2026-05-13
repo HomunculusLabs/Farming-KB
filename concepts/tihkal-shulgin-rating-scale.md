@@ -11,17 +11,7 @@ updated: 2026-04-26
 
 ## Overview
 
-[[alexander-shulgin]] developed a qualitative rating system for describing the intensity of psychedelic experiences. This scale is used throughout both PIHKAL and TIHKAL to characterize the effects of psychedelic substances in standardized terms. While formally defined in PIHKAL, the system is extensively employed in TIHKAL across all 55 entries.
-
-## The Scale
-
-### +/-
-
-**Minimal effects**. Barely noticeable. At the threshold of perception, there may be some suggestion of effect but nothing that can be confidently attributed to the compound.
-
-### +
-
-**Level 1**. Slightly noticeable. Some awareness of effects, light-headedness, or subtle changes in [[plant-sensory-perception]]. The subject is aware that something is happening but remains fully functional and oriented.
+[[plant-sensory-perception]]. The subject is aware that something is happening but remains fully functional and oriented.
 
 ### ++
 

@@ -58,32 +58,7 @@ experiences that can lead to lasting relief from conditions such as
 post-traumatic stress disorder, treatment-resistant depression, end-of-life
 anxiety, and substance use disorders.
 
-The modern revival of [[mckenna-suppression-psychedelic-research-lsd-therapy]] is backed by a growing body of
-rigorous clinical evidence. Phase 3 trials of MDMA-assisted therapy for PTSD
-have demonstrated that 67 to 71 percent of participants no longer met diagnostic
-criteria after treatment, with 88 percent experiencing clinically meaningful
-symptom reduction — results that dwarf the effect sizes of any existing PTSD
-treatment. Meanwhile, psilocybin has shown remarkable efficacy against
-treatment-resistant depression, with 37 percent of patients achieving remission
-after a single dose in a 233-patient trial. These findings have earned both
-compounds FDA Breakthrough Therapy designations, accelerating their path toward
-potential regulatory approval.
-
-Yet the story of psychedelic therapy is not simply one of clinical trials and
-neuroscience. It is intertwined with indigenous healing traditions stretching
-back thousands of years, with the cultural upheavals of the 1960s, and with
-fundamental questions about consciousness and healing. Understanding this field
-means understanding not just what these compounds do to the brain, but how they
-have been used across cultures, why they were suppressed, and what their
-resurgence tells us about the future of mental health care.
-
-## Historical Context: From Discovery to Suppression and Back
-
-### The Golden Age (1938–1966)
-
-The story of modern psychedelic therapy begins in 1938, when Swiss chemist
-Albert Hofmann synthesized LSD-25 at Sandoz Laboratories while researching
-ergot alkaloids derived from the [[bloomfield-ergot-claviceps-purpurea-ergotism]] fungus. Five years later,
+The modern revival of [[bloomfield-ergot-claviceps-purpurea-ergotism]] fungus. Five years later,
 on April 16, 1943, Hofmann accidentally absorbed a small amount through his
 skin and experienced what he later described as "an uninterrupted stream of
 fantastic pictures, extraordinary shapes with intense, kaleidoscopic play of
@@ -106,24 +81,14 @@ The 1950s and early 1960s became the golden age of psychedelic research. Over
 received psychedelic therapy. Osmond and Hoffer used LSD to treat alcoholism,
 ## See Also
 
-- [[psychedelic-therapy-foundations]] — The Harvard Psilocybin Project and
-  early [[hofmann-lsd-clinical-research-early-studies]]
-- [[psychedelic-therapy-current-research]] — Active clinical programs and
-  trial results
+- [[hofmann-lsd-clinical-research-early-studies]]
 - [[psychedelic-therapy-mechanisms]] — Neuroscience of 5-HT2A agonism, DMN
   disruption, and neuroplasticity
-- [[psychedelic-therapy-set-and-setting]] — The set and setting framework and
-  clinical protocol design
 - [[psychedelic-therapeutic-frameworks]] — Gaian psychotherapy and
   conventional versus psychedelic paradigm contrasts
-- [[microdosing-guide]] — Protocols, dosing, and evidence assessment
 - [[psychedelic-microdosing]] — Self-report surveys and research status
-- [[powell-psilocybin-end-of-life-anxiety]] — Psilocybin for existential
-  distress
 - [[controlled-substances-act-and-psychedelic-research]] — Legal history and
   regulatory framework
-- [[cannabis-ptsd-research]] — Endocannabinoid system and trauma
-  treatment
 - [[psychedelic-mushrooms-species-and-identification]] — Species profiles
   and identification
 
@@ -138,9 +103,7 @@ received psychedelic therapy. Osmond and Hoffer used LSD to treat alcoholism,
   Medicine*, 29, 1023–1031.
 - Carhart-Harris, R.L., et al. (2017). Psilocybin with psychological support
   for treatment-resistant depression. *The Lancet Psychiatry*, 4(8), 622–633.
-- Powell, J. (2011). *The [[powell-psilocybin-solution-ecological-cognition-theory]]: The Role of Sacred Mushrooms
-  in the Quest for Meaning*.
-- Leary, T., Metzner, R., & Alpert, R. (1964). *The [[leary-psychedelic-experience-bardo-mapping]]:
+- Powell, J. (2011). *The [[leary-psychedelic-experience-bardo-mapping]]:
   A Manual Based on the Tibetan Book of the Dead*.
 - Grob, C.S., et al. (2011). Pilot study of psilocybin treatment for anxiety
   in patients with advanced-stage cancer. *Archives of General Psychiatry*,

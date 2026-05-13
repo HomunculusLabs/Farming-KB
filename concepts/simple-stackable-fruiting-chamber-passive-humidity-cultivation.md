@@ -13,12 +13,7 @@ topics: [mycology, mushroom-cultivation, fruiting-chamber, humidity-management, 
 
 The GUILD cultivation guide describes a minimalist fruiting chamber system
 that achieves reliable mushroom production without humidifiers, cool-mist
-devices, or other powered [[chen-maitake-growth-parameters-environmental-control]] equipment. The design uses
-clear plastic bins covered with [[passive-humidity-fruit-chamber-polyethylene-sheeting]], with [[passive-humidity-fruiting-chamber-stackable-plastic-bin-design]]
-maintenance from casing surface evaporation. This approach is significantly
-simpler and cheaper than the elaborate setups commonly recommended, yet
-produces consistent multi-flush yields of *Psilocybe mexicana*, *P.
-tampanensis*, *P. cubensis*, and *[[gartz-panaeolus-subbalteatus-taxonomy-and-intoxication-history]]*.
+devices, or other powered [[passive-humidity-fruit-chamber-polyethylene-sheeting]], with [[gartz-panaeolus-subbalteatus-taxonomy-and-intoxication-history]]*.
 
 ## Chamber Construction
 

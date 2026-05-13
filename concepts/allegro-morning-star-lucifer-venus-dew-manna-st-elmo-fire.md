@@ -6,9 +6,7 @@ type: concept
 
 # Morning Star, Venus, Dew, Manna, and St Elmo's Fire
 
-In [[john-allegro]]'s reading of ancient Semitic and classical sources, the Morning Star (Venus), dew,
-and their associated mythological imagery are all facets of a single fertility complex centered on
-[[allegro-star-of-the-morning-venus-and-the-sacred-mushroom]]. The celestial body, its moisture, and the fungus it was thought to engender
+In [[allegro-star-of-the-morning-venus-and-the-sacred-mushroom]]. The celestial body, its moisture, and the fungus it was thought to engender
 formed an interconnected symbolic system linking heaven and earth, semen and soil, divinity and
 the underworld.
 
@@ -38,7 +36,7 @@ dome-capped organism that appears to fall from the sky and rise from the earth �
 symbol for any figure of ambiguous celestial-terrestrial origin. The name **Babylon** itself,
 Allegro suggests, is cognate with **Boubalion**, a fungus name attached to the Squirting Cucumber
 (*Ecballium elaterium*), deriving from Sumerian **GU-BAR**, "top of the head; glans penis." The
-Squirting Cucumber's explosive seed discharge mirrors the mushroom's spore-release, both understood
+Squirting Cucumber's explosive seed discharge mirrors the mushroom's [[spore]]-release, both understood
 as celestial semen.
 
 Pliny records a "Babylonian thorn bush" said to grow on the "Long Walls at Athens." Allegro
@@ -81,22 +79,7 @@ celestial-semenal origin rather than any merely aquatic explanation.
 Drugs and medicines were thought to be produced from dew warmed by the sun after star-risings.
 These were called **"heavenly gifts… equal to the Nectar of the gods"** — a direct link between
 celestial moisture and divine sustenance. The dew-born drugs were the pharmacological counterparts
-of [[allegro-the-sacred-mushroom-amanita-identification]], both products of the same heavenly emission.
-
-In the biblical narrative, the Israelites found **Manna** (the sacred fungus) after the evening of
-the quail (Exodus 16:13f). The dew that preceded and accompanied the manna was understood as a
-**"spermal emission"** — the heavenly seed from which the mushroom sprang. The sequence is telling:
-quail fall from the sky, dew covers the ground, and by morning the mushroom has appeared — a
-complete chain of celestial fertility.
-
-## Rephaim and Necromancy
-
-Isaiah 26:19 declares: "Thy dew is a dew of light, and on the land of the **shades** (*Rephaim*)
-thou wilt let it fall." The Rephaim were understood as **"those cast down from heaven"** — the
-fallen angels of Genesis 6 who descended to earth and interbred with mortal women, producing a race
-of giants and heroes.
-
-Just as the morning dew brings forth [[soma-and-the-sacred-mushroom-debate]], so it was believed to give life to the
+of [[soma-and-the-sacred-mushroom-debate]], so it was believed to give life to the
 denizens of the underworld. The dew of light falling upon the land of shades promised resurrection
 for the dead — the same fecundating power that quickened the earth could also revivify the departed.
 

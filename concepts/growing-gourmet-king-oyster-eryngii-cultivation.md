@@ -14,17 +14,7 @@ sources:
 type: concept
 ---
 
-# King Oyster Mushroom ([[cotter-oyster-mushroom-cultivation]]. Although it grows
-on cereal straws, yields are not as substantial as those of Pleurotus
-ostreatus and P. pulmonarius on the same material at the same rate of
-spawning, unless supplements are added or a unique spawning method is
-employed.
-
-Cap 3-12 cm in diameter, at first convex, expanding with age, becoming
-funnel-shaped, with the margin typically inrolled, extending with age.
-Stem 3-10 cm in length, central, thick, tapering downwards. Gills
-fairly distant, thin, grayish, and decurrent. Growing individually or
-in small groups. [[fungi-cultivated-mushrooms-pathogens-competitors]] achieve greater stature and
+# King Oyster Mushroom ([[fungi-cultivated-mushrooms-pathogens-competitors]] achieve greater stature and
 overall size compared to ones collected in the wild.
 
 ## Common Names
@@ -55,23 +45,12 @@ present. Context monomitic.
 ## Mycelial Characteristics
 
 Whitish, longitudinally radial at first, sometimes rhizomorphic, soon
-thickening and becoming cottony in age. [[query-what-is-the-difference-between-grain-spawn-and-liquid-culture-for-mushrooms]] myceliated
-straw smells rich, sweet, and classically Oyster-esque but not
-anise-like.
-
-## Cultivation Methods
-
-### Natural Method
-Outdoors on log sections turned vertically, and on stumps inoculated
-with [[growing-gourmet-plug-spawn-production]]. Easily grown on straw outdoors using the mound method.
+thickening and becoming cottony in age. [[growing-gourmet-plug-spawn-production]]. Easily grown on straw outdoors using the mound method.
 
 ### Spawn Expansion
-Traditional or [[growing-gourmet-liquid-inoculation-fermentation]] of grain spawn which is then
-broadcast into fruiting substrates, preferably sterilized sawdust.
-[[oyster-mushroom-pasteurized-straw-cultivation]] cultivation is comparatively less productive unless
+Traditional or [[oyster-mushroom-pasteurized-straw-cultivation]] cultivation is comparatively less productive unless
 inoculated with equal quantities of sawdust and grain spawn. Every ton
-of [[non-sterilized-wheat-straw-oyster-cultivation]] (2000 lbs dry weight) should simultaneously receive 100
-lbs of grain spawn (wet weight) and 100 lbs of [[growing-gourmet-sawdust-spawn-production-use]] (wet
+of [[growing-gourmet-sawdust-spawn-production-use]] (wet
 weight). This combination spawning method gives rise to large specimens
 on wheat straw.
 
@@ -118,8 +97,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[oyster-mushroom]]
 - [[spore]]
-- [[growing-gourmet-king-stropharia-cultivation]]
 - [[growing-gourmet-phoenix-oyster-pulmonarius-cultivation]]
 - [[growing-gourmet-tarragon-oyster-euosmus-cultivation]]

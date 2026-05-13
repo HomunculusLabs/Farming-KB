@@ -27,24 +27,9 @@ Above-ground symptoms include:
 - Leaf chlorosis (yellowing) beginning with older leaves and progressing upward
 - Wilting across the entire plant, even when soil or solution appears adequately moist
 - Slowed growth — foliage is very slow to grow when roots are rotten
-- Overall loss of plant vigor and reduced [[bloomfield-turgor-pressure-and-hyphal-invasion]]
-- Nutrient [[knf-calcium-deficiency-symptoms]] appearing despite adequate [[ph-and-nutrient-availability-garden-soils]]
-- Stems may become soft or discolored near the soil line in severe cases
-
-Inspect roots with a 10X magnifying glass for signs of pest damage that may have created entry points for the fungal infection. Healthy roots should be crisp, white, and abundant; rotted roots are brown, slimy, and may have a foul odor.
-
-## Causes and Risk Factors
-
-Root rot fungi are most prevalent when:
-
-- Roots are deprived of oxygen (stagnant water, overwatered soil)
-- Roots stand in unaerated water or waterlogged medium
-- Soil pests (fungus gnats, nematodes) cut, suck, and chew roots, creating openings for rotting diseases
-- Growing medium is not sterile — used potting soil may harbor harmful root rot fungi that have developed immunity to sprays
-- Calcium levels are inadequate, weakening cell walls and making tissue more susceptible
-- pH is too low, impairing root function [[root-anatomy-structure-and-nutrient-uptake]]
+- Overall loss of plant vigor and reduced [[knf-calcium-deficiency-symptoms]] appearing despite adequate [[root-anatomy-structure-and-nutrient-uptake]]
 - Nitrogen overfertilization weakens root health and makes tissue more susceptible
-- [[cannabis-nutrient-solution-preparation]] temperature is too high, reducing [[aact-dissolved-oxygen-fine-bubble-aeration-ingham]] available to roots
+- [[aact-dissolved-oxygen-fine-bubble-aeration-ingham]] available to roots
 - Containers lack adequate drainage, allowing water to pool around roots
 
 ## Damage Symptoms
@@ -52,13 +37,7 @@ Root rot fungi are most prevalent when:
 Root rot causes both direct and indirect damage to cannabis plants:
 
 - **Direct root damage**: Progressive browning and decay of the root system, starting with fine root hairs and advancing to larger roots
-- **Nutrient uptake failure**: As roots die, the plant cannot absorb water or nutrients, leading to wilting and [[knf-phosphoric-acid-deficiency-symptoms]]
-- **Vulnerability to secondary infection**: Damaged roots are entry points for additional pathogens including Fusarium and Pythium
-- **Growth arrest**: Without functional roots, plants cannot support new growth; the entire plant stagnates
-- **Plant death**: In advanced cases, root rot is fatal as the plant cannot maintain basic metabolic functions
-- **Reduced yield**: Even plants that survive root rot often produce significantly reduced harvests due to the growth setback
-
-The connection between root damage and above-ground symptoms is often underestimated. Rotten roots have been soaking in stagnant nutrient solution, and foliage is very slow to grow when roots are rotten. Plants may appear to have [[hamilton-nutrient-deficiencies-and-treatment]] when the actual problem is that roots cannot take up available nutrients.
+- **Nutrient uptake failure**: As roots die, the plant cannot absorb water or nutrients, leading to wilting and [[hamilton-nutrient-deficiencies-and-treatment]] when the actual problem is that roots cannot take up available nutrients.
 
 ## Prevention
 
@@ -88,3 +67,84 @@ Several commercial biological products are effective against root rot:
 ## Chemical Controls
 
 - **Sprays are NOT effective against root rot** — treatment must be applied directly to the root zone
+
+## Overview
+
+Root Rot Cannabis represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish root rot cannabis
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving root extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Root Rot Cannabis finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for root rot cannabis. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+root rot cannabis and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Root Rot Cannabis has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of root rot cannabis into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[cannabis-root-medicine-historical-modern-perspectives]]

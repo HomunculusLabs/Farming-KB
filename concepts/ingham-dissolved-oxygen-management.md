@@ -31,9 +31,7 @@ room temperature, maximum oxygen will be about 8.8 mg O2 per liter.
 
 ## Fine vs. Coarse Bubbles
 
-Fine bubbles are really hard on the [[aact-bacterial-dominant-tea]]. When you feed bacteria well, they can use up
-all the oxygen in any amount of water within minutes. The aeration
-rate needs to be high enough to offset [[query-what-is-the-difference-between-bacterial-and-fungal-dominant-soil]] growth.
+Fine bubbles are really hard on the [[query-what-is-the-difference-between-bacterial-and-fungal-dominant-soil]] growth.
 Not too much, not too little. The optimal aeration rate depends on
 how much food you add, the compost you use, and the water
 temperature.
@@ -86,40 +84,6 @@ with established protocols for your conditions.
 ## The Anaerobic Threshold
 
 Below approximately 6 mg O2 per liter (6 ppm), conditions shift
-toward [[aact-nematode-protozoa-management-ingham]] are also oxygen-dependent and will be lost if the
-brew goes anaerobic.
-
-## Practical Applications
-
-The principles and techniques discussed here have wide-ranging applications
-across multiple disciplines and contexts. Practitioners and researchers
-continue to explore new ways to integrate these concepts into modern practice,
-adapting traditional knowledge to contemporary challenges and opportunities.
-
-## Key Considerations
-
-Several important factors influence the effectiveness and outcomes described
-in this topic. Understanding these considerations helps practitioners make
-informed decisions and avoid common pitfalls. Environmental conditions,
-timing, and material selection all play critical roles.
-
-## Historical Context
-
-The historical development of this subject reflects centuries of accumulated
-knowledge and practical experience. From traditional methods passed down
-through generations to modern scientific approaches, the evolution continues
-to inform current best practices and research directions.
-
-## Common Challenges
-
-Practitioners frequently encounter several challenges when working with
-these concepts. Climate variability, resource limitations, and knowledge
-gaps can all affect outcomes. Addressing these challenges requires patience,
-observation, and a willingness to adapt approaches based on results.
-
-## See Also
-- [[dom]]
-- [[det]]
+toward [[dom]]
 - [[compost-tea-brewing]]
-- [[ingham-dissolved-oxygen-anaerobic-aact-brewing-management]]
 - [[ingham-dissolved-oxygen-critical-thresholds-compost-tea]]

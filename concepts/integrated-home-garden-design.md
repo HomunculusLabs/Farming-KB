@@ -65,7 +65,7 @@ The main staple crops — maize, cassava, yam, melons — are grown in avenue-st
 with spiral or zig-zag planting patterns that increase edge and disrupt pest spread. Each
 strip is a self-mulching polyculture: maize/beans, yam/beans, cassava/beans, melon/beans.
 Hedgerows of *Leucaena*, *Gliricidia*, and *Sesbania* border the avenues, supplying
-nitrogen fixation, chop-and-drop mulch, and animal fodder.
+nitrogen fixation, [[chop-and-drop]] mulch, and animal fodder.
 
 ### Element E — Forage Hedge and Animal Integration
 
@@ -140,17 +140,9 @@ every element performs multiple functions, every function is supported by multip
 elements, and energy flows (water, nutrients, heat, food) are cycled locally rather
 than imported and exported. The result is a resilient, low-input household that meets
 most of its own needs from a compact, intensively-managed landscape.
-## See also
-
-- [[permaculture-design]]
-- [[keyhole-garden-mandala-design]]
-- [[mollison-designers-poultry-forage-design-pastured-systems]]
 
 ## See Also
 
 - [[integrated-land-management-and-polyculture-design]]
-- [[integrated-land-management-and-village-design]]
 - [[integrated-land-management-hill-to-shore]]
-- [[integrated-land-management-tropical]]
 - [[integrated-land-management-tropical-profiles]]
-- [[integrated-pest-management-in-tropical-polycultures]]

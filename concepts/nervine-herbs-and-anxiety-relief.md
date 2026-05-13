@@ -10,16 +10,14 @@ sources: []
 
 Nervines act on the nervous system for stress, anxiety, insomnia, and
 tension. Unlike adaptogens (long-term HPA axis support, see
-[[adaptogenic-herbs-overview]] —
-  adaptogens address underlying [[mycelial-metabolite-excretion-stress-response-grain-jar-cultivation-guide]] while nervines provide
+[[mycelial-metabolite-excretion-stress-response-grain-jar-cultivation-guide]] while nervines provide
   symptomatic relief.
 - Evening sleep formulas typically combine 2-3 nervines (e.g., valerian +
   passionflower + chamomile).
 
 ## See Also
 
-- [[herbal-medicine-making-basics]] — Preparation methods and [[psilocybin-shelf-life-stability]]
-- [[cannabis-drug-interactions-and-contraindications]]
+- [[psilocybin-shelf-life-stability]]
 - [[psychedelic-therapy-current-research]]
 - [[herbal-medicine-safety]]
 ## Practical Applications

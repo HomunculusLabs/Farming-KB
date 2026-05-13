@@ -15,8 +15,7 @@ Chamaecytisus palmensis, commonly known as tagasaste or tree lucerne, is a fast-
 evergreen shrub or small tree in the family Fabaceae. Native to the arid volcanic
 slopes of the Canary Islands (particularly La Palma), it has been widely planted in
 Australia, New Zealand, and parts of Africa as a drought-resistant fodder tree and
-soil-improvement species. The plant combines high-quality [[permaculture-livestock-forage-systems]] production
-with atmospheric [[biological-nitrogen-fixation-agriculture]], making it a cornerstone species in permaculture
+soil-improvement species. The plant combines high-quality [[biological-nitrogen-fixation-agriculture]], making it a cornerstone species in permaculture
 and silvopastoral agroforestry systems.
 
 Tagasaste can reach 5–8 m in height under favorable conditions, though it is typically
@@ -40,14 +39,7 @@ black when mature, containing 5–10 small olive-green seeds per pod.
 
 The bark is smooth and green-grey on young stems, becoming fissured with age.
 Regrowth after cutting is vigorous, producing multiple shoots from the coppice stool
-within 4–6 weeks during [[query-how-to-protect-plants-from-frost-and-extend-the-growing-season]].
-
-## Nitrogen Fixation and Soil Improvement
-
-Tagasaste forms symbiotic associations with Rhizobium leguminosarum, actively fixing
-atmospheric nitrogen throughout the growing season. Fixation rates of 30–80 kg N/ha/year
-have been measured in established stands in Western Australia, with significant
-quantities transferred to companion pasture species through leaf [[dighton-pine-needle-litter-decomposition-fungal-succession]]
+within 4–6 weeks during [[dighton-pine-needle-litter-decomposition-fungal-succession]]
 and root exudation.
 
 Soil improvement benefits include:

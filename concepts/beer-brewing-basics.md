@@ -14,7 +14,7 @@ Home brewing is a natural fit for the homesteader, especially if you grow your o
 ## Two Main Approaches
 
 ### Extract Brewing (Beginner)
-Uses [[malt-extract-agar]] (concentrated wort) instead of whole grains. Simplifies the process significantly -- no mashing required. Good for learning fermentation, sanitation, and bottling before investing in all-grain equipment. Most home brewers start here.
+Uses malt extract (concentrated wort) instead of whole grains. Simplifies the process significantly -- no mashing required. Good for learning fermentation, sanitation, and bottling before investing in all-grain equipment. Most home brewers start here.
 
 ### All-Grain Brewing (Intermediate-Advanced)
 Brews from raw malted grain. More complex process (mashing, sparging) but offers complete control over the beer. Lower ingredient cost per batch. Required for using homestead-grown grains. Produces fresher, more complex flavors.
@@ -43,7 +43,7 @@ Provide bitterness (to balance malt sweetness), flavor, and aroma. Also act as a
 ### Yeast
 Converts sugars to alcohol and CO2. The single most important ingredient for beer quality.
 
-- Ale yeast ([[saccharomyces-cerevisiae]]): top-fermenting, works at 60-75F. Produces fruity esters. Ferments in 1-2 weeks.
+- Ale yeast (Saccharomyces cerevisiae): top-fermenting, works at 60-75F. Produces fruity esters. Ferments in 1-2 weeks.
 - Lager yeast (Saccharomyces pastorianus): bottom-fermenting, works at 45-55F. Cleaner, crisper flavor. Requires cold fermentation and lagering (cold storage for weeks to months).
 - Dry yeast: convenient, long shelf life, good for beginners. Rehydrate before pitching.
 - Liquid yeast: wider variety of strains, fresher, more expensive. Requires a starter for high-gravity beers.
@@ -97,7 +97,7 @@ Converts sugars to alcohol and CO2. The single most important ingredient for bee
 
 - Primary fermentation: 1-2 weeks. Most active fermentation occurs in the first 48-72 hours.
 - Secondary fermentation (optional): transfer to a clean fermenter for additional clarification and conditioning. Common for lagers and high-gravity beers.
-- [[hamilton-greenhouse-heating-and-temperature-control]] is critical: too warm = off-flavors (fusel alcohols, esters). Too cold = stalled fermentation.
+- Temperature control is critical: too warm = off-flavors (fusel alcohols, esters). Too cold = stalled fermentation.
 - Fermentation is complete when gravity is stable for 3 consecutive days (measure with hydrometer).
 
 ## Bottling and Carbonation
@@ -112,8 +112,8 @@ Converts sugars to alcohol and CO2. The single most important ingredient for bee
 
 ## Growing Your Own Ingredients
 
-- Hops: perennial vines, hardy in zones 4-8. Plant rhizomes in spring. Harvest cones in late summer. Dry and freeze for brewing. See [[small-scale-grain-growing]] for [[fukuoka-no-till-grain-production-method]].
-- Grain: [[ergot-of-barley-and-wheat-alkaloid-composition]] can be grown on the homestead. Malting requires controlled germination and kilning -- possible at home but labor-intensive.
+- Hops: perennial vines, hardy in zones 4-8. Plant rhizomes in spring. Harvest cones in late summer. Dry and freeze for brewing. See [[small-scale-grain-growing]] for grain production.
+- Grain: barley and wheat can be grown on the homestead. Malting requires controlled germination and kilning -- possible at home but labor-intensive.
 
 ## Common Problems
 

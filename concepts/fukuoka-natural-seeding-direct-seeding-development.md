@@ -6,22 +6,9 @@ type: concept
 
 # Fukuoka Natural Seeding and Direct Seeding Development
 
-[[masanobu-fukuoka]]'s work on natural seeding and direct-seeding methods represents
-one of the most radical departures from conventional agricultural practice in
-the [[coleman-louis-savier-twentieth-century-maraicher]]. By observing how nature manages seed dispersal and
+[[coleman-louis-savier-twentieth-century-maraicher]]. By observing how nature manages seed dispersal and
 germination, Fukuoka developed a system that progressively eliminated plowing,
-transplanting, [[cannabis-chemical-fertilizers]], compost, and pesticides — ultimately
-arriving at a no-tillage, direct-seeding rice/barley succession grown entirely
-within a living ground cover of clover.
-
-## Nature Plants Without Sowing Seed
-
-Fukuoka began by studying how grain reproduces in the wild. In nature, grain
-ripens in autumn and falls to the ground, where it must survive the winter
-before germinating in spring. The chances of any individual seed surviving
-until spring are extraordinarily slim — less than one in a million.
-Yet the vast quantity of grain that falls is not truly wasted. It serves a
-critical [[bloomfield-fungal-fruiting-body-morphology-ecological-function]] as food for insects and animals during winter
+transplanting, [[bloomfield-fungal-fruiting-body-morphology-ecological-function]] as food for insects and animals during winter
 months. As Fukuoka observed:
 > "Nature was not so indulgent as to leave enough grain lying around to feed
 > people who just sit and do nothing."
@@ -32,26 +19,7 @@ working on this problem. His first solution was a seed protectant — a coating
 of pesticide mixed with synthetic resin — that shielded seeds from predation
 and decay during winter. Over time, he found an even simpler method: encasing
 seeds in clay pellets. The clay pellets protected seeds through winter without
-synthetic chemicals, aligning with [[fukuoka-natural-farming-principles]].
-Alongside these experiments, Fukuoka noticed rice shoots growing from the
-stubble of harvested plants, raising the possibility of biannual or perennial
-rice in frost-free areas. This reinforced his conviction that nature already
-possessed mechanisms for continuous grain production that conventional farming
-had abandoned.
-
-The philosophical dimension was as important as the technical. Fukuoka insisted:
-> "Natural farming does not treat the planting of seed separately, but relates
-> it to all other aspects of rice production."
-
-This holistic perspective was captured in one of his most frequently quoted
-maxims:
-> "One thing is all things. To resolve one matter, one must resolve all
-> matters. Changing one thing changes all things."
-
-The decision to sow rice in the fall — mimicking nature's own timing — was not
-an isolated technique but the keystone that made an entire system possible:
-> "Once I made the decision to sow rice in the fall, I found that I could also
-> stop transplanting, and plowing, and applying [[cervantes-chemical-fertilizers-guide]], and
+synthetic chemicals, aligning with [[cervantes-chemical-fertilizers-guide]], and
 > preparing compost, and spraying pesticides."
 
 A single decision cascaded into the elimination of virtually every conventional
@@ -108,17 +76,7 @@ from single rows at eighteen-inch intervals to narrow rows six to eight inches
 apart, then to individual seeds at six by eight inches, and ultimately to
 broadcast seeding over the entire surface.
 A pivotal realization came when Fukuoka recognized that:
-> "Since I was using exactly the same [[query-what-is-the-kratky-method-for-growing-cannabis]] both rice and barley,
-> and was growing these two crops in succession, both crops could be grown as a
-> single cropping system."
-
-The two crops were not separate enterprises but two phases of a single
-continuous process. This insight allowed him to eliminate the tillage that
-normally separated one crop from the next.
-One bold experiment involved scattering rice seed directly over the standing
-heads of maturing barley. Seed losses were lighter than expected and
-germination was good, confirming that fall sowing was viable even without
-[[soil-tilth-and-seedbed-preparation]]. After repeated failures with shallow plowing — which
+> "Since I was using exactly the same [[soil-tilth-and-seedbed-preparation]]. After repeated failures with shallow plowing — which
 disrupted the soil ecosystem without clear benefits — he made his definitive
 commitment:
 > "I decided to go with the principle of direct seeding without tilling of any

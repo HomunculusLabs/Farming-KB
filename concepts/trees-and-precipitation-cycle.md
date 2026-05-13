@@ -102,10 +102,13 @@ The renewal times for these storages vary enormously — atmospheric water turns
 - Transpiration cycles can multiply rainfall across continental interiors
 - Forest edges create Ekman spirals that boost downwind rainfall by ~40%
 - Organic particles from forests serve as effective rain nuclei; industrial aerosols do not
-- Water availability must be the primary criterion for land selection in [[permaculture-design]]
-- There is plenty of water for the world if we design storage and use systems carefully
+- Water availability must be the primary criterion for land selection in [[trees-and-precipitation-compression-and-condensation]]
+- [[trees-and-precipitation]]
 
 ## See Also
-- [[trees-and-precipitation-compression-and-condensation]]
-- [[trees-and-the-water-cycle]]
-- [[trees-and-precipitation]]
+
+- [[query-how-do-i-graft-fruit-trees-in-a-home-orchard]]
+- [[comparison-olive-vs-fig-vs-pomegranate-mediterranean-fruit-trees]]
+- [[hamilton-ornamental-trees]]
+- [[wind-flagging-index-and-temperature-effects-of-trees]]
+- [[mollison-flood-retardation-by-trees-and-earthworks]]

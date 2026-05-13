@@ -109,27 +109,13 @@ In the wet-dry tropics, earthworks serve a dual purpose: managing episodic flood
 
 ### Monsoon Tropics
 
-Monsoon areas present the most challenging [[water-management]] scenario, with 60% of rain falling in summer but with floods and droughts equally unpredictable. Earthworks must be designed for maximum flexibility—able to handle both extreme excess and prolonged deficit. Large domestic water storage and river-based transport systems complement the earthworks.
-
-## Materials and Construction
-
-Earth-shaping in the tropics benefits from locally available materials:
-
-- **Logs and branches**: For immediate slope barriers and terraces
-- **Rocks and stones**: For permanent contour structures and gabions
-- **Bamboo**: For temporary retaining structures and terrace edges
-- **Living plants**: For permanent, self-maintaining contour stabilization
-
-The key principle is that earthworks should always be stabilized with vegetation as quickly as possible, as bare earth is highly vulnerable to tropical rainfall intensity.
-
-## References
-
-- Mollison, Bill, *Permaculture: A Designers' Manual*, Chapter 10
-- Yeomans, P.A., *Water for Every Farm*, Keyline Design principles
-- Spears, Marjorie, log barrier techniques, Queensland, Australia
+Monsoon areas present the most challenging [[mollison-designers-swale-design-and-water-harvesting-earthworks]]
+- [[mulching-guide]]
 
 ## See Also
 
-- [[mollison-designers-swale-design-and-water-harvesting-earthworks]]
-- [[water-wise-vegetable-gardening]]
-- [[mulching-guide]]
+- [[fukuoka-straw-healing-the-earth]]
+- [[earth-dam-building-mollison]]
+- [[earth-dam-construction]]
+- [[tropical-earth-shaping-techniques]]
+- [[earth-resources-excavation]]

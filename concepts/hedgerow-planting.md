@@ -9,7 +9,7 @@ sources: []
 
 # Hedgerow Planting
 
-Hedgerows are dense rows of shrubs, trees, and herbaceous plants that serve as living fences, windbreaks, wildlife corridors, and sources of food, medicine, and materials. They are a cornerstone of [[permaculture-design]] and ecological design, providing multiple functions in a single linear planting.
+Hedgerows are dense rows of shrubs, trees, and herbaceous plants that serve as living fences, windbreaks, wildlife corridors, and sources of food, medicine, and materials. They are a cornerstone of [[permaculture-design|permaculture]] and ecological design, providing multiple functions in a single linear planting.
 
 ## Hedgerow Design
 
@@ -23,7 +23,7 @@ Before selecting species, define the primary and secondary functions of the hedg
 - **Livestock containment**: Thorny, stock-proof species (hawthorn, blackthorn, honey locust)
 - **Foraging**: Edible fruits, nuts, berries, and herbs
 - **Soil stabilization**: Deep-rooted species on slopes and banks
-- **Pollinator habitat**: Succession of blooming species from early spring to late fall
+- **[[pollinator-habitat]]**: Succession of blooming species from early spring to late fall
 
 ### Layout
 
@@ -53,13 +53,13 @@ Edge:      g g g g g g g g       (ground covers, herbs, brambles)
 - Serviceberry (Amelanchier laevis): Edible berries, spring blooms, fall color
 - American plum (Prunus americana): Edible fruit, thorny, wildlife food
 - Hawthorn (Crataegus spp.): Thorny, stock-proof, red berries for birds
-- Redbud (Cercis canadensis): Spring flowers, nitrogen-fixing bacteria in roots
+- Redbud ([[cercis-canadensis]]): Spring flowers, nitrogen-fixing bacteria in roots
 - Crabapple (Malus spp.): Spring blossoms, persistent fruit for winter birds
 
 **Shrubs**
 - Elderberry (Sambucus canadensis): Edible berries, flowers for fritters, wildlife magnet
 - Winterberry (Ilex verticillata): Brilliant red winter berries, bird food
-- Ninebark ([[physocarpus-opulifolius]]): Adaptable, attractive bark, pollinator nectar
+- Ninebark (Physocarpus opulifolius): Adaptable, attractive bark, pollinator nectar
 - Hazelnut (Corylus americana): Edible nuts, wildlife food
 - American cranberrybush (Viburnum opulus var. americanum): Berries for birds and jelly
 - Chokeberry (Aronia melanocarpa): Edible, antioxidant-rich berries
@@ -68,7 +68,7 @@ Edge:      g g g g g g g g       (ground covers, herbs, brambles)
 
 **Ground Covers and Herbaceous**
 - Wild strawberry (Fragaria virginiana)
-- Virginia creeper ([[parthenocissus-quinquefolia]]) — for vertical coverage
+- Virginia creeper (Parthenocissus quinquefolia) — for vertical coverage
 - Native ferns for shaded edges
 - [[ground-cover-plants]] like wild ginger, creeping phlox
 
@@ -78,12 +78,12 @@ Edge:      g g g g g g g g       (ground covers, herbs, brambles)
 - Beautyberry (Callicarpa americana): Purple fall berries, pollinator flowers
 - Persimmon (Diospyros virginiana): Edible fruit, wildlife food
 - Yaupon holly (Ilex vomitoria): Evergreen, caffeine-containing leaves, berries
-- Pawpaw ([[asimina-triloba]]): Edible fruit, tropical appearance, zebra swallowtail host
+- Pawpaw (Asimina triloba): Edible fruit, tropical appearance, zebra swallowtail host
 - Sumac (Rhus spp.): Fall color, berries for tea, wildlife food
 
 ### Pacific Northwest (Zones 7-9)
 
-- Oregon grape ([[mahonia-aquifolium]]): Evergreen, edible tart berries
+- Oregon grape (Mahonia aquifolium): Evergreen, edible tart berries
 - Red-flowering currant (Ribes sanguineum): Early hummingbird nectar source
 - Pacific ninebark (Physocarpus capitatus): Erosion control, wildlife cover
 - Salmonberry (Rubus spectabilis): Edible berries, thicket-forming
@@ -97,8 +97,8 @@ Including nitrogen fixers improves soil fertility for surrounding plants:
 - Russian olive (Elaeagnus angustifolia) — note: invasive in some areas
 - Sea buckthorn (Hippophae rhamnoides)
 - American silverberry (Elaeagnus commutata)
-- Black locust ([[robinia-pseudoacacia]]) — fast-growing, excellent fence posts
-- Siberian pea shrub ([[caragana-arborescens]]) — edible seeds, hardy
+- Black locust (Robinia pseudoacacia) — fast-growing, excellent fence posts
+- Siberian pea shrub (Caragana arborescens) — edible seeds, hardy
 - Redbud (Cercis spp.)
 
 ## Windbreak Function

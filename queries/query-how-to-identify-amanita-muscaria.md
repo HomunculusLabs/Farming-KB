@@ -12,7 +12,7 @@ type: query
 
 ## Short Answer
 
-Amanita muscaria (the fly agaric) is one of the most recognizable
+[[amanita-muscaria]] (the [[fly-agaric]]) is one of the most recognizable
 mushrooms on Earth, with a bright scarlet to orange-red cap dotted
 with white wart-like patches, white gills, a white stem with a skirt-
 like ring, and a bulbous base encased in a cup-like volva.
@@ -42,20 +42,11 @@ toward the gills.
 The stem (stipe) is white, 8-20 cm tall, and 1-2.5 cm thick.
 It is stuffed with cottony tissue when young, becoming hollow with age.
 The base is distinctly bulbous and swollen, a key feature of the
-[[mushroom-foraging-safety]] for detailed
-identification keys and safety protocols.
-
-## Safety Warning
-
-Amanita muscaria is not lethal to healthy adults but can cause nausea,
-vomiting, dizziness, and confusion.
-The [[amanita-genus-morphology]] provides detailed diagnostic
+[[amanita-genus-morphology]] provides detailed diagnostic
 features for distinguishing Amanita species.
 
 ## Related Questions
 
-- [[query-how-to-identify-and-avoid-the-death-cap-amanita-phalloides]]
-- palmer-about-mushrooms-edible-species-identification
 - [[wild-foraging-guide]]
 ## Practical Considerations
 

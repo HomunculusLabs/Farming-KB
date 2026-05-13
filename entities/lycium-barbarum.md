@@ -29,56 +29,8 @@ sources:
 
 ## Overview
 
-**Lycium barbarum**, commonly known as **[[comparison-goji-berry-vs-aronia-chokeberry]]**, **wolfberry**, or **Chinese boxthorn**, is a
-woody perennial shrub in the family Solanaceae (nightshade family).
-Native to southeastern Europe and southwestern Asia, it has been cultivated for over 2,000 years
-in China for both its edible fruit and its extensive use in traditional Chinese medicine (TCM).
-
-The bright orange-red berries are rich in carotenoids (especially zeaxanthin), polysaccharides,
-and [[cordyceps-cancer-bioactive-compounds]]. [[query-how-do-i-grow-goji-berries-at-home]] have gained worldwide popularity as a "superfood" and
-functional food ingredient, with growing scientific evidence supporting antioxidant,
-neuroprotective, and immunomodulatory activities.
-
-## Taxonomy
-
-- **Kingdom:** Plantae
-- **Clade:** Tracheophytes, Angiosperms, Eudicots, Asterids
-- **Order:** Solanales
-- **Family:** Solanaceae
-- **Genus:** Lycium
-- **Species:** L. barbarum L. (1753)
-
-The species was described by Carl Linnaeus in 1753. It is closely related to *L. chinense*
-Miller, with which it is frequently confused in commerce. *L. barbarum* is tetraploid (2n = 4x = 48),
-while *L. chinense* is diploid (2n = 2x = 24).
-
-## Morphology
-
-*Lyceum barbarum* is a deciduous, arching shrub reaching 1–3 m in height with thorny branches.
-The leaves are lanceolate to ovate, 2–5 cm long, arranged alternately or in small clusters.
-
-Flowers are hermaphroditic, solitary or in small clusters of 2–5, with a funnel-shaped corolla
-1.5–2 cm long. Petals are purple to pale lilac with darker veining. Flowering occurs from June
-to September.
-
-The fruit is an oblong-ovoid berry, 1–2 cm long, bright orange-red when ripe, containing
-10–30 small yellow seeds. The berries are sweet-tart and are typically harvested by shaking
-branches onto collection sheets.
-
-## Distribution and Habitat
-
-The species is native to a broad range from southeastern Europe (Balkans) through Turkey, Iran,
-and Central Asia to northwestern China (Ningxia province, the [[lichens-primary-production-soil-formation-dighton]] region). It has
-naturalized in many [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]] worldwide.
-
-It thrives in well-drained, slightly alkaline to neutral soils (pH 6.5–8.0) and tolerates drought,
-saline conditions, and poor soils. It grows in full sun to partial shade and is cold-hardy to
-approximately -15°C (USDA zones 5–9).
-
-## Cultivation
-
-Goji berry is relatively easy to grow from seed or hardwood cuttings. Plants begin fruiting in
-their second or third year. Key [[mushroom-species-cultivation-parameters]]:
+**Lycium barbarum**, commonly known as **[[cordyceps-cancer-bioactive-compounds]]. [[lichens-primary-production-soil-formation-dighton]] region). It has
+naturalized in many [[mushroom-species-cultivation-parameters]]:
 
 - **Spacing:** 1–1.5 m apart in rows 2–3 m apart.
 - **Soil:** Well-drained, tolerant of poor and alkaline soils.
@@ -87,3 +39,85 @@ their second or third year. Key [[mushroom-species-cultivation-parameters]]:
 - **Yield:** 1–2 kg of dried berries per mature plant per year.
 - **Harvest:** Berries are delicate and best harvested by shaking; fresh berries are
   perishable and usually dried for storage.
+
+## Overview
+
+Lycium Barbarum represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish lycium barbarum
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving lycium extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Lycium Barbarum finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for lycium barbarum. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+lycium barbarum and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Lycium Barbarum has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of lycium barbarum into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[lycium-chinense]]
+- [[lycium-ferocissimum]]

@@ -11,24 +11,8 @@ sources:
 
 Animal bones consist of approximately 20% phosphate (P) and 20% calcium (Ca).
 Bone meal JLF provides both elements simultaneously, making it an excellent
-dual-purpose input for mid-to-late stage [[mushroom-crop-management-flush-harvesting]].
-
-## Role in Plant Growth
-
-- **Phosphorus (P):** Component of cell membranes (phospholipids), energy
-  metabolism (ATP), DNA and RNA
-- **Calcium (Ca):** Forms spindle fibers for cell walls and cell division (Ca2+);
-  signal transmitter for hormone responses
-- Together these elements **control [[cannabis-vegetative-growth-stage]]** and **stimulate
-  [[knf-reproductive-growth-stage]]** (flowering, fruiting)
-- Apply in later stages of fruit growth to strengthen lower buds
-
-## Recipe: Bone Meal JLF
-
-### Ingredients
-- Bone meal (powdered): 1 part by weight (10 kg per 100 L)
-- Water: 10 parts by weight
-- [[jadam-natural-nitrogen-fertilizer]])
+dual-purpose input for mid-to-late stage [[cannabis-vegetative-growth-stage]]** and **stimulate
+  [[jadam-natural-nitrogen-fertilizer]])
 
 ## Tips for Success
 
@@ -41,28 +25,9 @@ dual-purpose input for mid-to-late stage [[mushroom-crop-management-flush-harves
 
 ## Integration with JADAM Program
 
-Use alongside [[jadam-potassium-fertilizer]] for complete mid-late stage
-nutrition. See [[jadam-liquid-fertilizer]] -- base JLF method
-- [[jadam-potassium-fertilizer]] -- potassium JLF
+Use alongside [[jadam-liquid-fertilizer]] -- base JLF method
 - [[jadam-element-function-reference]] -- P and Ca functions
-- [[jadam-leaf-mold-soil-method]]
-## Practical Considerations
-
-When working with JADAM Calcium Phosphate Liquid Fertilizer, several practical factors should be
-carefully considered to achieve optimal results. These include
-the specific conditions of the implementation context, available
-resources, timing requirements, and the interactions between this
-topic and other elements of the broader system. A holistic view
-that considers these interconnections produces better outcomes.
-
-Environmental conditions such as temperature, moisture, and
-seasonal patterns significantly influence results. Monitoring these
-variables and adapting practices accordingly is essential for success.
-The most effective practitioners develop keen observation skills and
-respond flexibly to changing conditions rather than following rigid
-protocols regardless of circumstances or local variation.
-
-[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
+- [[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -111,8 +76,6 @@ through generations to modern scientific approaches, the evolution continues
 to inform current best practices and research directions.
 
 ## See Also
-- [[calcium-phosphate]]
 - [[doc]]
-- [[decomposition]]
 - [[jadam-calcium-fertilizer]]
 - [[jadam-liquid-fertilizer-nutritional-perspective]]

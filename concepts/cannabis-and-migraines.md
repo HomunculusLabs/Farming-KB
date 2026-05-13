@@ -12,19 +12,7 @@ sources:
 
 ## Overview
 
-Migraines affect approximately 12% of the population and are characterized by severe unilateral headache, often with nausea, vomiting, and sensitivity to light and sound. Cannabis has a long history of use for headache treatment. See also [[cannabis-and-ptsd]], and cannabinoid-receptors.
-
-## Clinical Evidence
-
-### CHI Score: 10 (Moderate Evidence)
-
-Three studies support cannabis for migraine treatment.
-
-### Key Findings
-
-**Endocannabinoid Deficiency Hypothesis (2004, Russo)**
-- Ethan Russo proposed the concept of Clinical Endocannabinoid Deficiency (CECD)
-- CECD may explain therapeutic benefits of cannabis in migraine, fibromyalgia, [[blesching-cannabis-irritable-bowel-syndrome]] syndrome, and other treatment-resistant conditions
+Migraines affect approximately 12% of the population and are characterized by severe unilateral headache, often with nausea, vomiting, and sensitivity to light and sound. Cannabis has a long history of use for headache treatment. See also [[blesching-cannabis-irritable-bowel-syndrome]] syndrome, and other treatment-resistant conditions
 - Migraine patients may have deficient endocannabinoid levels, making supplementation beneficial
 
 **Cannabinoid Mechanisms in Migraine**
@@ -67,9 +55,7 @@ Three studies support cannabis for migraine treatment.
 
 ## Related Topics
 
-- [[cannabis-and-ptsd]]
 - [[cannabis-and-insomnia]]
-- [[cannabis-seed-selection-and-strain-types]]
 - [[cannabis-for-cachexia-and-appetite-stimulation]]
 ## Practical Considerations
 
@@ -119,8 +105,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[doc]]
 - [[uwe-blesching]]
-- [[dom]]
 - [[serotonin]]
 - [[cannabis-terpene-and-aroma-chemistry-clarke]]

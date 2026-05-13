@@ -16,17 +16,10 @@ type: concept
 
 # Animal Manure — Types and Use in the Garden
 
-Animal manures are among the very best sources of [[hamilton-composting-and-organic-matter-management]]
-available to the gardener. They improve soil condition, feed the soil
-with nutrients, and help maintain the high level of fertility that
-organic growers continually strive to achieve. Although manures can be
-more difficult to obtain than [[hamilton-composting-and-organic-matter-management]] where
-the high nitrogen content will assist [[hamilton-green-manure-crops-and-cover-cropping]]
-and [[organic-soil-management]] programme.
+Animal manures are among the very best sources of [[hamilton-composting-and-organic-matter-management]] where
+the high nitrogen content will assist [[organic-soil-management]] programme.
 
 ## See Also
-
-- [[animal-face]]
 
 - [[solomon-manure-types-and-nutrient-values]]
 ## Practical Applications
@@ -97,8 +90,6 @@ through generations to modern scientific approaches, the evolution continues
 to inform current best practices and research directions.
 
 ## See Also
-- [[doc]]
 - [[det]]
-- [[composting]]
 - [[hamilton-geoffhamilton-nick-organic-gardening-soil-types-and-management]]
 - [[hamilton-green-manure-crops-and-cover-cropping]]

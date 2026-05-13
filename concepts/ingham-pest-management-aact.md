@@ -11,8 +11,7 @@ sources:
 
 # Pest Management with AACT
 
-Extracted from Elaine Ingham's AACT Field Guide, covering [[ingham-foliar-insect-pest-deterrence-mechanisms]]
-management through [[ingham-anaerobic-vs-aerobic-compost-tea]] -- anaerobic brews
+Extracted from Elaine Ingham's AACT Field Guide, covering [[ingham-anaerobic-vs-aerobic-compost-tea]] -- anaerobic brews
 protect plants from pests by toxic compounds they produce, but these are
 not desirable and can be dangerous to human health.
 
@@ -41,26 +40,8 @@ deliver complete nutrition.
 
 AACT typically contains certain fungi that are parasitic on insect larvae,
 especially the beetles whose larvae consume roots. The particular fungus
-to find is [[biodiversity-of-fungi-plant-health-pathogens-biocontrol]]
-- [[bacterial-vs-fungal-compost-teas]]
-- [[ingham-weed-control-through-biology]]
-## Practical Considerations
-
-When working with Pest Management with AACT from Ingham Field Guide, several practical factors should be
-carefully considered to achieve optimal results. These include
-the specific conditions of the implementation context, available
-resources, timing requirements, and the interactions between this
-topic and other elements of the broader system. A holistic view
-that considers these interconnections produces better outcomes.
-
-Environmental conditions such as temperature, moisture, and
-seasonal patterns significantly influence results. Monitoring these
-variables and adapting practices accordingly is essential for success.
-The most effective practitioners develop keen observation skills and
-respond flexibly to changing conditions rather than following rigid
-protocols regardless of circumstances or local variation.
-
-[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
+to find is [[bacterial-vs-fungal-compost-teas]]
+- [[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -111,8 +92,6 @@ through generations to modern scientific approaches, the evolution continues
 to inform current best practices and research directions.
 
 ## See Also
-- [[elaine-ingham]]
 - [[doc]]
-- [[det]]
 - [[ingham-foliar-pest-deterrence-aact]]
 - [[ingham-dissolved-oxygen-anaerobic-aact-brewing-management]]

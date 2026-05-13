@@ -6,7 +6,7 @@ type: concept
 tags: [permaculture, design]
 sources: []
 ---
-Updated: 2026-04-18 Chicory (Cichorium intybus) is a hardy perennial plant valued as a nutritious salad green, [[permaculture-designers-manual-animal-forage-systems]], coffee substitute, and herbal remedy. It grows so readily it is often considered a weed. It serves multiple functions in permaculture-ground-cover-plants component. ## Botanical Description Chicory is a deep-rooted perennial [[medicinal-herb-growing]] 1-5 feet (30-150 cm) tall. It has a thick taproot that can reach 6-10 feet (2-3 m) deep, making it an excellent [[nutrient-dynamic-accumulator-reference]]. The blue, daisy-like flowers bloom from mid-summer through autumn. The plant forms a rosette of dandelion-like leaves close to the ground. ## Uses - Edible roots and shoots (bitter but nutritious) - [[mollison-designers-bee-forage-tree-planting]] - Animal forage (kills worms, easy to digest) - Herbal remedy - Coffee substitute (roasted roots) - Companion in baby green salads - [[compost-building-guide]] piles and [[permaculture-dynamic-accumulator-plants]]
+Updated: 2026-04-18 Chicory (Cichorium intybus) is a hardy perennial plant valued as a nutritious salad green, [[medicinal-herb-growing]] 1-5 feet (30-150 cm) tall. It has a thick taproot that can reach 6-10 feet (2-3 m) deep, making it an excellent [[mollison-designers-bee-forage-tree-planting]] - Animal forage (kills worms, easy to digest) - Herbal remedy - Coffee substitute (roasted roots) - Companion in baby green salads - [[permaculture-dynamic-accumulator-plants]]
 
 - permaculture-herb-plants
 

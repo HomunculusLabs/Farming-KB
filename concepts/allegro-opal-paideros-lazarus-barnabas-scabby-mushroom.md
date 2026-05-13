@@ -10,17 +10,7 @@ The Greek name for opal was **Paiderōs** (παιδερός). Pliny the Elder de
 the opal's dominant colour as "a mixture of sky-blue and purple" and notes that
 its brilliance is "darkened by the colour of wine" — the mark of a superior
 specimen. He further records "salt-like specks or rough places or dots" across
-its surface, a texture that mirrors the flecked cap of the *[[allegro-amanita-muscaria-properties-and-pharmacology]]*.
-
-Pliny supplies a false etymology for the stone's name:
-
-- *pais* ("boy") + *erōtis* ("beloved")
-- → *paiderastēs* ("pederast")
-
-The stone, he says, is thus "exceptionally beautiful" — its name encoding the
-love of boys. The etymology is philologically spurious but theologically loaded.
-The opal's spotted, wine-darkened surface becomes a coded reference to the
-[[allegro-sacred-mushroom-cross-introduction-fertility-cults]] concealed within the language of mineralogy.
+its surface, a texture that mirrors the flecked cap of the *[[allegro-sacred-mushroom-cross-introduction-fertility-cults]] concealed within the language of mineralogy.
 
 Matthew 3:17 reproduces this precise false etymology. At the baptism of Jesus, a
 voice from heaven declares: "This is my son, the **beloved**" (ho *agapētos*,
@@ -64,44 +54,7 @@ scabby excrescence of fertility religion.
 
 The prophetic movement that produced the Hebrew Bible stood in opposition to
 the fungus cult, but Allegro stresses this was "never clear-cut opposition."
-Yahweh was himself a fertility god; [[allegro-death-and-resurrection-in-the-mushroom-cult]] was not a foreign
-intrusion but an "esoteric development of fertility religion" native to Israel
-itself. The prophets denounced what their own tradition had generated.
-
-# Lazarus and Lapis Lazuli
-
-The name **Lazarus** (Luke 16:19–31) appears on the surface to be a contracted
-form of Eleazar ("God has helped"). Allegro argues the actual referent is
-**Lazuli** — Lapis Lazuli, the blue semi-precious stone.
-
-Pliny describes lapis lazuli as a blue mineral marked with "flecks of gold" and
-notes it can be "tinged with purple." The Persian name *Lazhurward* derives from
-Sumerian **\*AR_ZAI_DARA**, meaning "brightly shining variegated (stone)." The
-variegated quality — blue, gold, purple — links the stone to the mushroom's own
-chromatic complexity.
-
-In the parable, "dogs came and licked his sores" (v.21). The warty, rough
-surface of the mushroom cap — the "sores" — is being described. Dogs licking
-the fungal excrescences mirrors the appearance of the stone's uneven texture.
-The sores are not pathological; they are botanical.
-
-The New Testament cryptographer thus encoded the stone-name **Lazrad** as the
-personal name **Lazarus**, embedding the mushroom-stone within a parable about
-wealth, poverty, and resurrection.
-
-# Barnabas "Son of Encouragement"
-
-In Acts 4:32–37, a Levite named Joseph is "surnamed by the apostles Barnabas
-(which means Son of Encouragement)." The standard exegesis claims:
-
-- **Bar-** = Aramaic "son of"
-- **-nabas** = a root meaning "encouragement" or "exhortation"
-
-No such root exists in Aramaic. The translation is a pious fiction.
-
-Allegro's decipherment: **BAR** = "skin" and **nābüs** = "giraffe." Pliny
-describes the giraffe as having a "ruddy colour picked out with white spots" —
-precisely the colouration of the *[[allegro-colour-and-consistency-of-the-amanita-muscaria]]* cap. Barnabas is thus
+Yahweh was himself a fertility god; [[allegro-colour-and-consistency-of-the-amanita-muscaria]]* cap. Barnabas is thus
 "spotted skin" — the mushroom's hide.
 
 The **n-b-s** root-group is remarkably consistent across languages:

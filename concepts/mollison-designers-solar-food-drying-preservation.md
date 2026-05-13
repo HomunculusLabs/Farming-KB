@@ -17,11 +17,10 @@ type: concept
 
 # Solar Food Drying and Preservation
 
-[[bill-mollison]]'s [[mollison-designers-herb-spiral-design-construction]] gardens are excellent candidates
+[[mollison-designers-herb-spiral-design-construction]] gardens are excellent candidates
   for solar drying.
 
-- **[[smoking-meat-and-fish]]:** Require thin slicing (3-5mm), salt or smoke
-  pretreatment, and careful attention to [[query-how-do-i-build-a-medicinal-herb-drying-rack-and-optimize-drying-conditions]] to prevent
+- **[[query-how-do-i-build-a-medicinal-herb-drying-rack-and-optimize-drying-conditions]] to prevent
   spoilage. Best suited to very dry climates.
 
 ## Nutritional Retention
@@ -39,8 +38,7 @@ retention are:
 
 ## Integration into Permaculture Design
 
-Solar dryers fit naturally into [[mollison-designers-mixed-orchard-design-species-selection]] and permaculture-designers-manual-bamboo -- source reference
-- [[mollison-designers-herb-spiral-design-construction]] -- herbs for drying
+Solar dryers fit naturally into [[mollison-designers-herb-spiral-design-construction]] -- herbs for drying
 ## Practical Considerations
 
 When working with Solar Food Drying and Preservation, several practical factors should be

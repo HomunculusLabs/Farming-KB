@@ -18,39 +18,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - Simon, J.E. (1990). "Parsley, Petroselinum crispum." In J. Janick & J.E. Simon (Eds.), Advances in New Crops. Timber Press.
-  - Farooq, A. et al. (2013). "A review on [[metzner-ayahuasca-therapeutic-potential]] of Petroselinum crispum." Avicenna Journal of Phytomedicine, 3(2), 91–101.
-  - Nedorostova, L. et al. (2009). "Antimicrobial activity of parsley." Czech Journal of Food Sciences, 27(S1), S258–S261.
-  - https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:439607-1
-aliases:
-  - Parsley
-  - Garden Parsley
-  - Curly Parsley
-  - Flat-leaf Parsley
-  - Italian Parsley
-  - Petroselinum hortensecreated: 2026-05-07
-
-created: 2026-05-07
----
-
-## Overview
-
-Petroselinum crispum (Mill.) Nyman ex A.W. Hill is a biennial herbaceous plant in the family Apiaceae, widely cultivated as a culinary herb and traditional medicinal plant. Native to the central Mediterranean region, it has been naturalized across Europe, Asia, and the Americas.
-
-Two primary cultivar groups are recognized: curly-leaf parsley (var. crispum) and flat-leaf or Italian parsley (var. neapolitanum). A third form, Hamburg parsley (var. tuberosum), is grown for its edible root.
-
-Parsley is among the most widely used herbs in global cuisine and is also valued for its high nutritional content, particularly vitamins K, C, and A.
-
-## Taxonomy and Classification
-
-- **Kingdom:** Plantae
-- **Order:** Apiales
-- **Family:** Apiaceae
-- **Genus:** Petroselinum
-- **Species:** P. crispum (Mill.) Nyman ex A.W. Hill
-
-The species was originally described as Apium crispum by Philip Miller in 1768. It was later transferred to Petroselinum by Albert Nyman. The genus Petroselinum is monotypic, containing only P. crispum.
-
-The species is closely related to celery ([[apium-graveolens]]) and shares many of its aromatic and phytochemical characteristics.
+  - Farooq, A. et al. (2013). "A review on [[apium-graveolens]]) and shares many of its aromatic and phytochemical characteristics.
 
 ## Morphology
 
@@ -64,7 +32,7 @@ Hamburg parsley produces a thick, fleshy taproot similar in appearance to a smal
 
 ## Distribution and Cultivation
 
-Parsley is cultivated worldwide in temperate [[query-how-to-grow-rare-tropical-fruits-in-marginal-and-subtropical-climates]]. Major producers include the [[dmt-containing-plants-united-states-halpern]], Germany, France, Italy, and Hungary. It prefers well-drained, fertile soil with partial to full sun.
+Parsley is cultivated worldwide in temperate [[dmt-containing-plants-united-states-halpern]], Germany, France, Italy, and Hungary. It prefers well-drained, fertile soil with partial to full sun.
 
 Seeds are slow to germinate, requiring 3–6 weeks and often benefiting from soaking or stratification. The plant is hardy and can withstand light frost, allowing extended harvest seasons.
 
@@ -76,14 +44,91 @@ Parsley is exceptionally rich in vitamin K, providing over 500% of the daily val
 
 The herb contains notable amounts of iron (6.2 mg/100 g), potassium, calcium, and magnesium. Its high chlorophyll content contributes to its characteristic deep green color and antioxidant properties.
 
-[[permaculture-designers-manual-essential-oil-plants]] yield ranges from 0.1–0.3% of fresh weight, with apiol, myristicin, and [[limonene]] as the primary volatile constituents.
+[[limonene]] as the primary volatile constituents.
 
 ## Bioactive Compounds and Pharmacology
 
 The essential oil of parsley contains apiol (parsley camphor), myristicin, limonene, eugenol, and alpha-pinene. Apiol is the most distinctive compound and was historically used medicinally.
 
-Flavonoid content includes apiin, [[luteolin]], and [[apigenin]], which exhibit antioxidant, anti-inflammatory, and potential anticancer activities in vitro.
+Flavonoid content includes apiin, [[apigenin]], which exhibit antioxidant, anti-inflammatory, and potential anticancer activities in vitro.
 
 Parsley extracts demonstrate antimicrobial activity against Gram-positive bacteria and some fungi. The diuretic properties of parsley have been documented in both traditional use and limited clinical studies.
 
 Myristicin, present at 0.05–0.1% in the essential oil, is a psychoactive compound that can produce hallucinogenic effects at very high doses; normal culinary use poses no risk.
+
+## Overview
+
+Petroselinum Crispum represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish petroselinum crispum
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving petroselinum extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Petroselinum Crispum finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for petroselinum crispum. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+petroselinum crispum and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Petroselinum Crispum has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of petroselinum crispum into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.

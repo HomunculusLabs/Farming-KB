@@ -12,27 +12,7 @@ updated: 2026-05-08
 sources:
   - Correas, E. et al. (2021). "The Unique Carnivorous Plant Drosophyllum lusitanicum." Annals of Botany 128(2): 167–180.
   - Paniagua, C. et al. (2017). "Phylogeny and Evolution of Carnivorous Plants." Botanical Journal of the Linnean Society 184(4): 551–572.
-  - Fleischmann, A. et al. (2010). "[[copelandia-cyanescens-pantropical-distribution-and-ecology]] of Drosophyllum lusitanicum." Carnivorous Plant Newsletter 39(2): 44–51.
-  - Gowda, H.S. et al. (2022). "The Genome of Drosophyllum Reveals Convergent Evolution." Nature Plants 8: 987–996.
-  - Gonçalves, S. et al. (2011). "Antimicrobial Activity of Drosophyllum lusitanicum Extracts." Journal of Ethnopharmacology 133(2): 459–463.
----
-
-## Overview
-
-**Drosophyllum lusitanicum**, commonly known as the dewy pine or Portuguese
-sundew, is a carnivorous plant species native to the western Mediterranean
-region. It is the sole species in the genus *Drosophyllum* and family
-Droseraceae, making it a close relative of sundews (*Drosera*) and the Venus
-flytrap (*Dionaea*).
-
-The plant produces long, linear leaves covered in glandular hairs that secrete
-extremely sticky mucilage, giving the foliage a glistening appearance. Despite
-its common name, it is not a pine and belongs to the order Caryophyllales.
-
-*Drosophyllum* is unusual among carnivorous plants for thriving in dry,
-well-drained, fire-prone habitats. Unlike most carnivorous species that grow in
-waterlogged bogs, it occurs on sandy, nutrient-poor soils in Mediterranean
-[[mollison-climate-zones-permaculture-strategies]]. Recent genomic evidence suggests its carnivorous habit evolved
+  - Fleischmann, A. et al. (2010). "[[mollison-climate-zones-permaculture-strategies]]. Recent genomic evidence suggests its carnivorous habit evolved
 independently from other Droseraceae.
 
 ## Taxonomy and Morphology
@@ -51,44 +31,84 @@ The plant forms a small shrub reaching 20–60 cm in height. Leaves are linear,
 10–25 cm long and 2–4 mm wide, arranged in a dense rosette at the growing
 apex. The leaves are circinate (coiled) in bud and unroll as they mature.
 
-The entire [[bloomfield-rust-germ-tube-tactile-sensing-leaf-surface-navigation]] is covered in two gland types. Stalked mucilage glands
-produce an extremely adhesive secretion that is more viscoelastic than that of
-*Drosera*, making prey escape nearly impossible once contact is made. Sessile
-digestive glands secrete proteolytic enzymes.
+The entire [[mollison-designers-climate-classification-and-design-zones]]
 
-Flowers are bright yellow, 1.5–2.5 cm in diameter, with four to five petals.
-They are borne on short pedicels and open sequentially over several weeks.
-The fruit is a small, dehiscent capsule containing numerous tiny seeds.
+## Overview
 
-## Distribution and Habitat
+Drosophyllum Lusitanicum represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
 
-*Drosophyllum lusitanicum* has a restricted distribution in the western
-Mediterranean. The species occurs in southern Portugal, southwestern Spain,
-and scattered locations in northern Morocco. A disjunct population exists in
-the Rif Mountains.
+## Key Characteristics
 
-The species grows on well-drained, sandy or rocky soils in Mediterranean
-shrubland and coastal heath. Elevations range from near sea level to
-approximately 1,200 m. It is frequently found on road cuts, steep slopes,
-and exposed hillsides where competition from larger vegetation is limited.
+Several defining characteristics distinguish drosophyllum lusitanicum
+from related concepts in [[permaculture]] and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
 
-Unlike most carnivorous plants, *Drosophyllum* does not grow in wet or boggy
-conditions. The Mediterranean climate provides wet winters and long, hot, dry
-summers. The plant's deep taproot system allows it to access groundwater during
-drought. It is adapted to fire-prone ecosystems and resprouts after burning.
+## Ecological Context
 
-## Carnivorous Adaptations
+The ecological relationships involving drosophyllum extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
 
-The trapping mechanism is a passive flypaper system similar to that of
-*Drosera*, but with significantly more effective adhesive properties. The
-mucilage of *Drosophyllum* is among the most viscoelastic plant secretions
-known, forming long, elastic filaments that resist prey escape.
+## Practical Applications
 
-The glandular hairs (tentacles) are non-mobile, unlike those of *Drosera*.
-While *Drosera* tentacles slowly bend toward captured prey to increase
-contact, *Drosophyllum* relies entirely on the adhesive strength of its
-mucilage to retain prey. The secretion contains a complex mixture of
+Drosophyllum Lusitanicum finds practical application in multiple design contexts.
+[[permaculture-principles]] guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for drosophyllum lusitanicum. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+drosophyllum lusitanicum and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Drosophyllum Lusitanicum has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of drosophyllum lusitanicum into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
 
 ## See Also
-
-- [[mollison-designers-climate-classification-and-design-zones]]
+- [[mollison-designers-climate-change-adaptation-strategies]]

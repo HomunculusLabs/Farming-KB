@@ -10,26 +10,7 @@ created: 2026-05-10
 
 ## Overview
 
-D.H. Jarrold's boil-a-bag [[exotic-mushroom-cultivation-guide]] describes two [[humidity-chamber-designs-jarrold-mushroom-cultivation]] for the fruiting stage. The primary design uses a simple 4-foot by 2-foot fish tank as a [[passive-humidity-fruit-chamber-polyethylene-sheeting]] chamber, while a more advanced self-humidifying design incorporates an aquarium air pump and air stone for automated humidity maintenance. These DIY chambers represent accessible, low-cost approaches to maintaining the high-humidity environment required for mushroom fruiting.
-
-## Passive Fish Tank Humidity Chamber
-
-### Basic Setup
-
-The simplest fruiting chamber in Jarrold's system is a standard glass aquarium:
-
-- **Dimensions:** 4 ft × 2 ft (approximately 120 cm × 60 cm)
-- **Construction:** Standard glass fish tank, no modifications required
-- **Humidity source:** Layer of soaked hydro pellets (hydroton/LECA) on the bottom
-- **Sealing:** Plastic sheet placed over the top to create a seal
-- **Purpose:** Prevents humidity escape and excludes flies and contaminants
-
-### Operation
-
-The passive chamber requires minimal daily maintenance:
-
-- Fan fresh air into the tank twice daily for gas exchange
-- Monitor for signs of [[mushroom-pin-formation]]
+D.H. Jarrold's boil-a-bag [[humidity-chamber-designs-jarrold-mushroom-cultivation]] for the fruiting stage. The primary design uses a simple 4-foot by 2-foot fish tank as a [[mushroom-pin-formation]]
 - Ensure hydro pellets remain moist
 - Watch for contamination indicators
 
@@ -73,19 +54,7 @@ When the air pump runs, it pushes air through the airline tubing and out through
 - **Consistent humidity:** Continuous operation eliminates humidity fluctuations
 - **Reduced maintenance:** No need to manually mist or top up water as frequently
 - **Better gas exchange:** Air pump provides gentle air circulation
-- **Lower contamination risk:** Sealed system with filtered air input reduces [[mushroom-contamination-vectors]]
-- **Scalability:** Air pump capacity can be matched to chamber size
-
-## Warm Humid Air Delivery Chamber
-
-For cultivators in cold climates or those growing during cold seasons, Jarrold describes a third, more advanced design:
-
-### Design Features
-
-- Water-filled base container with heating element
-- Input fan connected to the main chamber via large duct
-- Multiple small connection ducts as potential outlets
-- Timer-controlled water heater to regulate [[greg-green-temperature-and-humidity-control]]
+- **Lower contamination risk:** Sealed system with filtered air input reduces [[greg-green-temperature-and-humidity-control]]
 - Water heater timer requires several hours of initial calibration
 
 ## Practical Applications
@@ -117,8 +86,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[fruiting-chamber]]
 - [[mycelium]]
-- [[humidity-chamber-aquarium-mushroom-fruiting]]
 - [[jarrold-warm-humid-air-delivery-chamber-cold-climate-mushroom]]
 - [[aquarium-humidity-chamber-mushroom-fruiting]]

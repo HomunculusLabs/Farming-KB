@@ -13,7 +13,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - J. A. Zohary (1994). "Morus L." In: Flora Palaestina. The Israel Academy of Sciences and Humanities.
-  - E. M. Venkataramana et al. (2019). "A review on [[morus-alba]], Morus nigra and [[morus-rubra]]." Journal of Pharmacy & Bioallied Sciences, 11(Suppl 1), S75–S82.
+  - E. M. Venkataramana et al. (2019). "A review on morus-rubra." Journal of Pharmacy & Bioallied Sciences, 11(Suppl 1), S75–S82.
   - USDA Natural Resources Conservation Service. "Morus nigra L." PLANTS Database.
   - M. L. Kafkas et al. (2008). "Molecular characterization of mulberry accessions from Turkey." Scientia Horticulturae, 116(4), 364–368.
   - A. K. Pandey et al. (2018). "Mulberry: A potential source of query-what-are-the-main-bioactive-compounds-in-medicinal-plants." Journal of Integrative Medicine, 16(5), 367–376.
@@ -61,9 +61,7 @@ than other *Morus* species, with a balanced sweet-tart profile.
 
 *Morus nigra* is native to a region stretching from the Iranian Plateau through Southwest
 Asia to the Levant. It has been naturalized across Southern Europe, the Mediterranean
-Basin, and parts of [[neurotropic-fungi-japan-east-asia-species-cultural-context]] following centuries of cultivation.
-
-The tree prefers warm-temperate to [[query-how-to-grow-rare-tropical-fruits-in-marginal-and-subtropical-climates]] (USDA zones 5–9). It is more cold-
+Basin, and parts of [[query-how-to-grow-rare-tropical-fruits-in-marginal-and-subtropical-climates]] (USDA zones 5–9). It is more cold-
 sensitive than *M. alba*, suffering significant twig dieback below −20°C. It thrives in
 deep, well-drained loamy soils with a pH of 5.5–7.0 but tolerates clay and sandy substrates
 with adequate moisture.
@@ -88,3 +86,7 @@ Summer pruning after fruiting is recommended, as black mulberry bleeds heavily i
 during dormancy. A modified open-center form works well for home orchards.
 
 Key cultivars include 'Hicks Fancy' (Australia), 'King James' (England), and 'Noir de
+
+## See Also
+
+- [[permplant-mulberries-morus-fruit-fodder-timber]]

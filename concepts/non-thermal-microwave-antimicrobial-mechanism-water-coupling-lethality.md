@@ -13,15 +13,7 @@ type: concept
 
 The lethal action of microwave irradiation against microorganisms operates through
 a mechanism fundamentally distinct from simple thermal denaturation. At 2.45 GHz,
-the microwave frequency used in the NASA MSC-22484 [[microwave-surface-sterilization-system-design-nasa-msap-2-45-ghz-trace-water-steam]],
-electromagnetic energy couples directly with the rotational transitions of dipolar
-water molecules. This coupling produces localized heating within microbial cells
-that differs qualitatively from the uniform thermal environment produced by
-conventional autoclaving or dry-heat sterilization.
-
-## Microwave Frequency Selection and Water Interaction
-
-The 2.45 GHz frequency band was selected for [[coaxial-power-splitter-waveguide-microwave-sterilization]] because it
+the microwave frequency used in the NASA MSC-22484 [[coaxial-power-splitter-waveguide-microwave-sterilization]] because it
 falls within the absorption maximum for rotational transitions of water molecules.
 Water is a strongly polar molecule with a permanent electric dipole moment of
 approximately 1.85 Debye units. When exposed to an oscillating electromagnetic
@@ -39,8 +31,7 @@ gradient that spares thermally labile non-biological materials.
 
 ## Differential Lethality: Vegetative Cells Versus Spores
 
-NASA experiments with the [[challenge-organisms-nasa-microwave-surface-sterilization-testing]] system demonstrated a
-clear differential in [[e-coli-pseudomonas-cepacia-microwave-susceptibility-surface-sterilization]] between vegetative bacterial cells
+NASA experiments with the [[e-coli-pseudomonas-cepacia-microwave-susceptibility-surface-sterilization]] between vegetative bacterial cells
 and bacterial or fungal spores. Vegetative cells of Escherichia coli, Pseudomonas
 cepacia, and [[bacillus-pumilus-radiation-resistance-surface-decontamination]] contain abundant free water within their cytoplasm,
 providing an efficient coupling medium for 2.45 GHz microwave energy. The
@@ -57,7 +48,7 @@ left spores viable.
 
 ## Trace Water Enhancement Protocol
 
-The breakthrough in microwave surface sterilization came from the recognition that
+The breakthrough in [[microwave-surface-sterilization]] came from the recognition that
 spore resistance could be overcome by introducing controlled quantities of water
 to the contaminated surface. The NASA protocol specifies approximately 9
 microliters of water per square centimeter of surface area. This trace water

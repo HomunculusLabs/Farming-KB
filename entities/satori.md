@@ -20,70 +20,91 @@ sources:
 
 ## Overview
 
-Satori is a sativa-dominant hybrid [[blesching-cannabis-strain-selection-receptor-targeting]] created by Mandala Seeds,
-a breeder known for incorporating landrace genetics into stable, high-quality
-cultivars. The name "Satori" is a Zen Buddhist term for sudden enlightenment,
-reflecting the strain's reported ability to produce a clear, meditative, and
-uplifting cerebral experience.
-
-Satori was bred from a carefully selected Nepalese landrace crossed with
-a fast-flowering [[oner-chunky-cherry-malawi-african-sativa-indica-hybrid]]. The result is a vigorous, high-yielding
+Satori is a sativa-dominant hybrid [[oner-chunky-cherry-malawi-african-sativa-indica-hybrid]]. The result is a vigorous, high-yielding
 strain that retains the energetic, creative sativa effects of its Himalayan
-parentage while maintaining a manageable [[what-a-plant-knows-photoperiodism-flowering-time-measurement]] and structure.
-
-## Lineage
-
-**Parent 1:** Selected Nepalese landrace — sourced from the high-altitude
-Himalayan regions of Nepal, this parent contributes the strain's sativa-
-dominant growth pattern, creative cerebral effects, and resistance to cold
-temperatures. Nepalese landraces are valued for their complex terpene
-profiles and spiritual, uplifting effects.
-
-**Parent 2:** Fast-flowering indica hybrid — contributes reduced flowering
-time, compact [[green-cannabis-plant-anatomy-calyx-pistil-bud-structure]], and increased [[cannabis-glandular-trichome-types-resin-production-clarke]]. The indica
-parent also adds a grounding body component that balances the sativa energy.
-
-The approximate sativa-to-indica ratio is reported at 70:30, reflecting
-the Nepalese sativa dominance.
-
-## Appearance
-
-Plants are tall and vigorous, with strong branching and elongated
-internodes characteristic of sativa-dominant varieties. Indoor height
-can reach 120–150 cm without training, making vertical space a
-consideration.
-
-Buds are medium density, elongated, and coated in a thick layer of
-trichomes. The calyxes are light to medium green with occasional
-golden and amber tones. Pistils are abundant, ranging from white to
-light orange.
-
-The overall visual impression is one of a classic sativa — tall,
-leggy, with airy but resinous flowers. The high trichome density is
-notable, giving buds a silvery sheen.
-
-## Aroma and Flavor
-
-The aroma is complex and distinctive, blending earthy, sandalwood-like
-notes with hints of lemon, incense, and tropical fruit. The Nepalese
-landrace parent contributes a deep, woody, almost temple-incense
-quality that is uncommon in modern hybrid strains.
-
-On the inhale, the flavor is smooth and citrusy with floral undertones.
-The exhale reveals earthy, woody, and slightly spicy notes with a
-lingering sandalwood aftertaste. The complexity of the flavor profile
-is frequently cited as one of Satori's defining characteristics.
-
-## Terpene Profile
-
-**Terpinolene** (dominant): Contributes floral, herbal, and slightly
-fruity notes. Associated with antioxidant and sedative properties.
-Relatively uncommon as a dominant terpene in cannabis, giving Satori
-a distinctive profile.
-
-**Myrcene** (prominent): Provides the earthy, herbal base notes and
-contributes to the strain's relaxing physical effects. Modulates THC
-delivery through [[beta-caryophyllene-entourage-effects-cannabis]].
+parentage while maintaining a manageable [[green-cannabis-plant-anatomy-calyx-pistil-bud-structure]], and increased [[beta-caryophyllene-entourage-effects-cannabis]].
 
 **Caryophyllene** (moderate): Adds peppery, spicy undertones and
 contributes anti-inflammatory properties through CB2 [[tihkal-receptor-binding-serotonin]].
+
+## Overview
+
+Satori represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish satori
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving satori extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Satori finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for satori. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+satori and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Satori has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of satori into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[cannabis-strain-satori]]
+- [[oner-satori-mandala-seeds-nepalese-high-thc-strain-profile]]

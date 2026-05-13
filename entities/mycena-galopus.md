@@ -14,8 +14,7 @@ sources:
 **Mycena galopus** is a saprotrophic basidiomycete fungus in the family
 Mycenaceae, commonly known as the milky mycena. It is one of the most
 important saprotrophic fungi in temperate and boreal forest floor
-ecosystems, playing a key role in leaf [[dighton-pine-needle-litter-decomposition-fungal-succession]] and
-competitive interactions with [[query-what-are-ectomycorrhizal-fungi-and-which-plants-do-they-associate-with]]. The species is
+ecosystems, playing a key role in leaf [[query-what-are-ectomycorrhizal-fungi-and-which-plants-do-they-associate-with]]. The species is
 particularly significant in coniferous forests where it dominates the
 decomposer community.
 
@@ -50,16 +49,7 @@ decomposition was much greater with the saprotroph Lepista nuda
 (decomposition constant k = 1.00, respiration 14.0 mg CO2/day/g) than
 with ectomycorrhizal species Thelephora terrestris (k = 0.15, 4.5
 mg CO2/day/g) or Suillus bovinus (k = 0.22, 11.0 mg CO2/day/g).
-[[fungal-nitrogen-mineralization-pathways]] only occurred with Lepista, supporting the view
-that specialized saprotrophs are superior competitors for organic
-resources compared to ectomycorrhizal fungi.
-
-### Resource Partitioning
-
-Lindahl et al. (1999) showed that interactions between ectomycorrhizal
-fungi and the saprotroph Hypholoma fasciculare resulted in net transfer
-of phosphorus from the saprotroph to mycorrhizal fungi. Up to 25% of P
-in the saprotroph mycelium was captured by [[mollison-designers-mycorrhizal-fungi-and-soil-microbiology]]
+[[mollison-designers-mycorrhizal-fungi-and-soil-microbiology]]
 translocated to the host tree within 30 days, while the reciprocal
 transfer was three orders of magnitude lower.
 

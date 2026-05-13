@@ -16,7 +16,7 @@ sources:
 
 ## Overview
 
-Enoki ([[flammulina-velutipes]]), also known as Enokitake, is one of the most commercially important [[fungi-cultivated-mushrooms-pathogens-competitors]] worldwide. Its wild form looks entirely different from the cultivated product: in nature it produces a normal cap-and-stem mushroom with a velvety, brown stem, but commercial cultivation produces the distinctive long-stemmed, white, needle-like clusters familiar from Asian cuisine. This transformation is achieved through controlled cultivation conditions that exploit the mushroom's natural response to low light and high CO2.
+Enoki (Flammulina velutipes), also known as Enokitake, is one of the most commercially important cultivated mushrooms worldwide. Its wild form looks entirely different from the cultivated product: in nature it produces a normal cap-and-stem mushroom with a velvety, brown stem, but commercial cultivation produces the distinctive long-stemmed, white, needle-like clusters familiar from Asian cuisine. This transformation is achieved through controlled cultivation conditions that exploit the mushroom's natural response to low light and high CO2.
 
 ## Species Description
 
@@ -69,7 +69,7 @@ Enoki is unusual among cultivated mushrooms in requiring a significant cold-temp
 After full colonization, bottles/blocks are moved to a cold room:
 
 - **Temperature:** 50-55°F (10-13°C) for initiation
-- **Duration:** Several days to trigger [[growing-gourmet-primordia-formation-pinning]]
+- **Duration:** Several days to trigger primordia formation
 - Some cultivators recommend a more dramatic cold shock (down to 38-42°F / 3-6°C) for 24-48 hours
 
 ### Stem Elongation Phase
@@ -84,7 +84,7 @@ The distinctive long-stemmed morphology requires:
 
 ### The Bottle Method
 
-Traditional Japanese cultivation uses narrow-mouthed bottles. The restricted opening at the bottle neck channels the [[falconer-growing-mushrooms-in-sheds]] upward, naturally promoting the elongated form. A collar may be placed around the emerging cluster to further encourage upright growth.
+Traditional Japanese cultivation uses narrow-mouthed bottles. The restricted opening at the bottle neck channels the growing mushrooms upward, naturally promoting the elongated form. A collar may be placed around the emerging cluster to further encourage upright growth.
 
 ## Harvest and Post-Harvest
 
@@ -94,7 +94,7 @@ Harvest when stems have reached the desired length (typically 10-15 cm) and caps
 
 ### Yield
 
-- [[biological-efficiency]]: 80-150% (high for a cultivated mushroom)
+- Biological efficiency: 80-150% (high for a cultivated mushroom)
 - One to two flushes per block/bottle
 - Commercial operations typically take only the first flush for premium quality
 
@@ -111,21 +111,21 @@ Enoki is rich in:
 - **B vitamins:** Particularly niacin (B3), thiamine (B1), and riboflavin (B2)
 - **Dietary fiber:** High in chitin and other fungal cell wall components
 
-Studies suggest potential anti-tumor, immune-enhancing, and cholesterol-lowering properties. See [[medicinal-mushroom-guide-enoki]] for detailed research summaries.
+Studies suggest potential anti-tumor, immune-enhancing, and cholesterol-lowering properties. See [[medicinal-mushroom-guide-enoki|medicinal Enoki guide]] for detailed research summaries.
 
 ## Common Problems
 
 - **Stem shortening / cap expansion:** Too much light exposure during elongation phase
 - **Browning:** Temperature too high, or bacterial contamination
-- **Mold contamination:** Trichoderma and Penicillium are common competitors; strict [[cultivator-sterile-technique-and-agar-culture]] essential
+- **Mold contamination:** Trichoderma and Penicillium are common competitors; strict sterile technique essential
 - **Uneven clusters:** Improper bottle filling or uneven colonization
 
 ## See Also
 
-- [[medicinal-mushroom-guide-enoki]]
-- [[enoki-cultivation-guide]]
-- [[mushroom-cultivation-basics]]
-- [[bulk-substrate-preparation]]
+- [[medicinal-mushroom-guide-enoki|Enoki medicinal properties]]
+- [[enoki-cultivation-guide|Enoki cultivation detailed guide]]
+- [[mushroom-cultivation-basics|mushroom cultivation fundamentals]]
+- [[bulk-substrate-preparation|bulk substrate preparation]]
 
 ## Related
 

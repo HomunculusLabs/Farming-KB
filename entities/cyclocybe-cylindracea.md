@@ -25,9 +25,7 @@ sources:
 Cyclocybe cylindracea, formerly classified as Agrocybe cylindracea, is an edible
 saprotrophic mushroom in the family Strophariaceae. It is widely cultivated in
 East Asia, particularly China, Japan, and Korea, where it is valued for its
-nutty flavor, firm [[growing-gourmet-cloning-wild-vs-cultivated-mushrooms]] in China by production volume.
-
-## Taxonomy [[agrocybe-aegerita-pioppino-medicinal-profile]] sensu auct. (misapplied), Pholiota cylindracea (DC.) Quél.
+nutty flavor, firm [[agrocybe-aegerita-pioppino-medicinal-profile]] sensu auct. (misapplied), Pholiota cylindracea (DC.) Quél.
 
 ### Macroscopic Features
 
@@ -52,39 +50,96 @@ nutty flavor, firm [[growing-gourmet-cloning-wild-vs-cultivated-mushrooms]] in C
 ## Distribution and Habitat
 
 Cyclocybe cylindracea is broadly distributed across temperate and subtropical
-regions of Europe, Asia, and [[psilocybin-north-america-pacific-northwest]]. It fruits on hardwood stumps and
-logs, especially Populus, Salix, Quercus, and Betula. A primary decomposer of
-woody substrates, it can also fruit from buried roots of living trees.
-
-Fruiting occurs spring through autumn in temperate zones, year-round in
-subtropical climates. Wild collections are common in riparian corridors where
-poplar and willow dominate.
-
-## Cultivation
-
-Cyclocybe cylindracea is among the top six most commercially cultivated
-mushrooms in China by production volume, with well-established protocols.
-
-### Substrate and Parameters
-
-- **Primary substrates:** Sawdust of broadleaf trees (poplar, oak, beech),
-  supplemented with wheat bran (15–20%) and calcium carbonate (1–2%).
-  Straw-based substrates also productive.
-- **Spawn run:** 25–28°C, 85–90% relative humidity, 20–30 days.
-- **Fruiting induction:** Temperature drop to 15–20°C, high humidity (90–95%),
-  fresh air exchange (5–8 exchanges/hour), ambient light (200–500 lux).
-- **Fruiting cycle:** 7–14 days from primordia to harvest. Multiple flushes
-  over 2–3 months. [[stamets-biological-efficiency-yield]] typically 60–100% on supplemented
+regions of Europe, Asia, and [[stamets-biological-efficiency-yield]] typically 60–100% on supplemented
   sawdust.
 - **Yields:** 0.8–1.2 kg fresh per kg dry substrate across 3–4 flushes.
 
 ### Commercial Methods
 
 Most commercial production uses bag-cultivation on sterilized supplemented
-sawdust, similar to Shiitake methodology. Some operations employ [[growing-gourmet-outdoor-log-inoculation-techniques]]
-cultivation on poplar bolts. The species is relatively contamination-resistant
-and tolerant of a wide [[query-what-is-the-ideal-temperature-range-for-growing-cannabis]], making it suitable for low-tech farming.
+sawdust, similar to Shiitake methodology. Some operations employ [[query-what-is-the-ideal-temperature-range-for-growing-cannabis]], making it suitable for low-tech farming.
 
 ## Chemistry and Pharmacology
 
 ### Nutritional Composition (per 100 g fresh weight)
+
+## Overview
+
+Cyclocybe Cylindracea represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish cyclocybe cylindracea
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving cyclocybe extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Cyclocybe Cylindracea finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for cyclocybe cylindracea. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+cyclocybe cylindracea and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Cyclocybe Cylindracea has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of cyclocybe cylindracea into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[agrocybe-cylindracea]]

@@ -6,7 +6,7 @@ type: concept
 
 # The Tree Model and Pattern Matrices
 
-The tree model is [[bill-mollison]]'s general core pattern model — a single, unifying form from which all major natural patterns can be derived through projection, cross-section, and longitudinal section. It serves as the master template for understanding how energy and materials flow through natural systems and provides a practical framework for [[permaculture-design]].
+The tree model is [[permaculture-design]].
 
 ## The Tree as Universal Model
 
@@ -119,3 +119,11 @@ The tree model and matrix understanding provide designers with:
 
 ## See Also
 - [[general-pattern-model-events]]
+
+## See Also
+
+- [[nut-tree-cultivation-for-permaculture-food-forests]]
+- [[tree-effects-on-precipitation]]
+- [[fukuoka-textdoc-shelterbelt-design-environmental-tree-planting]]
+- [[fukuoka-no-prune-fruit-tree-method]]
+- [[organic-fruit-tree-care-calendar]]

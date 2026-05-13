@@ -25,19 +25,7 @@ sources:
 
 ## Overview
 
-**[[mimosa-hostilis]]** (Benth.) — widely used synonym, though M. tenuiflora is the currently accepted name
-- **Jurema preta** — northeastern Brazil (Tupi-Guarani origin)
-- **Tepezcohuite** — Mexico (Nahuatl: *tepetl* "hill" + *cuahuitl* "tree")
-- **Carbonal** — Mexico, referring to charcoal-like inner bark
-- **Jurema branca** — sometimes confused with M. verrucosa, a related species
-
-The taxonomic distinction between M. tenuiflora and M. hostilis has been debated, but current botanical consensus treats them as conspecific, with M. tenuiflora having nomenclatural priority.
-
-## Morphology and Growth
-
-M. tenuiflora is a fast-growing, multi-stemmed shrub or small tree reaching 4–8 m in height, though it is often shorter in harsh conditions. Key morphological features include:
-
-- **Bark:** Dark brown to gray, rough and fissured; inner bark is reddish-pink, the characteristic feature used in Mexican traditional medicine. [[iboga-root-bark-preparation]] is the primary psychoactive plant part
+**[[iboga-root-bark-preparation]] is the primary psychoactive plant part
 - **Leaves:** Bipinnately compound, 5–10 cm long, with 2–4 pairs of pinnae, each bearing 10–20 pairs of tiny linear leaflets 3–6 mm long. The sensitive leaves fold when disturbed (seismonastic movement), a characteristic of the genus
 - **Flowers:** Spikes of fragrant white to pale yellow staminate flowers, 2–4 cm long, appearing after rainfall events
 - **Fruit:** Flat, brittle pods 3–6 cm × 6–10 mm, containing 3–5 brown oval seeds 2–3 mm long
@@ -45,11 +33,7 @@ M. tenuiflora is a fast-growing, multi-stemmed shrub or small tree reaching 4–
 
 ## Distribution and Ecology
 
-- **Native range:** Northeastern Brazil (Caatinga biome), extending through [[guzman-allen-gartz-neurotropic-fungi-central-america-caribbean]] to southern Mexico (Chiapas, Oaxaca)
-- **Introduced/naturalized:** Parts of the Caribbean, tropical Africa, and Asia
-- **Habitat:** Semi-arid tropical and subtropical regions; dominant component of Caatinga vegetation in northeastern Brazil; also found in secondary growth, disturbed areas, and dry deciduous forests
-
-The species is exceptionally drought-tolerant and fire-resistant, resprouting vigorously from the root crown after cutting or fire. It is a pioneer species that colonizes degraded land and contributes to soil recovery through [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]].
+- **Native range:** Northeastern Brazil (Caatinga biome), extending through [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]].
 
 ## Phytochemistry
 
@@ -88,3 +72,79 @@ The psychoactive use of M. tenuiflora root bark has been documented in northeast
 In Mexico, M. tenuiflora is used primarily for dermatological purposes, with no known psychoactive tradition:
 
 - **Burn treatment:** The inner bark powder is applied topically to burns, promoting rapid re-epithelialization and reducing scarring. This use became internationally known after the 1984 San Juan Ixhuatepec gas explosion in Mexico City, where burn victims were treated with tepezcohuite
+
+## Overview
+
+Jurema represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish jurema
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving jurema extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Jurema finds practical application in multiple design contexts.
+[[permaculture-principles]] guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for jurema. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+jurema and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Jurema has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of jurema into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.

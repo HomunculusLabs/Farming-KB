@@ -12,16 +12,10 @@ tags: [maitake, medicine, mushroom-cultivation, mushrooms]
 
 ## Overview
 
-[[grifola-frondosa]] (Maitake, Hen of the Woods) is a [[gourmet-medicinal-mushroom-casing-layer-techniques]] with
+[[gourmet-medicinal-mushroom-casing-layer-techniques]] with
 significant anti-cancer and immunomodulatory properties. Beta-glucan fractions
 from Maitake are used by over 3,000 health professionals in the US for
-[[cannabis-root-rot-prevention-and-treatment]] of a range of conditions including flu, HIV, diabetes,
-hypertension, hypercholesterolaemia, and urinary tract infections. Maitake
-capsules, tea, powder, and drinks are widely marketed in the US and Europe.
-
-## Active Constituents
-
-Key [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]] from G. frondosa include:
+[[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]] from G. frondosa include:
 
   - Grifolan: a (1-3)-beta-glucan similar to Schizophyllan in primary
     structure; activates macrophages increasing IL-6, IL-1, and TNF-alpha
@@ -68,7 +62,7 @@ Human clinical studies:
 
 Grifron-D demonstrates both immunomodulatory and direct cytotoxic effects:
 
-  - Achieved >95% [[blesching-cannabis-apoptosis-and-cancer-cell-death]] of androgen-independent [[blesching-cannabis-prostate-cancer]] PC-3
+  - Achieved >95% [[blesching-cannabis-prostate-cancer]] PC-3
     cells in 24 hours at >=480 ug/ml
   - Vitamin C acts synergistically: 30-60 ug/ml GD plus 200 uM vitamin C
     matched the effect of 480 ug/ml GD alone
@@ -78,48 +72,11 @@ Grifron-D demonstrates both immunomodulatory and direct cytotoxic effects:
   - May inactivate glyoxalase I, a detoxifying enzyme in cancer cells,
     potentially enhancing chemotherapy efficacy
   - Approved by FDA for trial under Investigational New Drug Application
-    (IND) for [[blesching-cannabis-pain-advanced-cancer]] patients
-  - FDA exempted Grifron-D from Phase I study due to absence of adverse
-    reactions in previous trials and no significant pre-clinical toxicity
-
-Ongoing [[mushroom-cancer-clinical-trials-overview]] (Phase I/II) in breast, prostate, lung, liver, and
+    (IND) for [[mushroom-cancer-clinical-trials-overview]] (Phase I/II) in breast, prostate, lung, liver, and
 gastric cancers are underway in the US and Japan.
 
 ## Additional Medicinal Properties
 
-G. frondosa demonstrates multiple [[cbd-therapeutic-effects]] beyond cancer:
-
-## Practical Applications
-
-The principles and techniques discussed here have wide-ranging applications
-across multiple disciplines and contexts. Practitioners and researchers
-continue to explore new ways to integrate these concepts into modern practice,
-adapting traditional knowledge to contemporary challenges and opportunities.
-
-## Key Considerations
-
-Several important factors influence the effectiveness and outcomes described
-in this topic. Understanding these considerations helps practitioners make
-informed decisions and avoid common pitfalls. Environmental conditions,
-timing, and material selection all play critical roles.
-
-## Historical Context
-
-The historical development of this subject reflects centuries of accumulated
-knowledge and practical experience. From traditional methods passed down
-through generations to modern scientific approaches, the evolution continues
-to inform current best practices and research directions.
-
-## Common Challenges
-
-Practitioners frequently encounter several challenges when working with
-these concepts. Climate variability, resource limitations, and knowledge
-gaps can all affect outcomes. Addressing these challenges requires patience,
-observation, and a willingness to adapt approaches based on results.
-
-## See Also
-- [[dom]]
-- [[schizophyllan]]
+G. frondosa demonstrates multiple [[dom]]
 - [[grifolan]]
-- [[det]]
 - [[grifola-frondosa]]

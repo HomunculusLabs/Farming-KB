@@ -67,7 +67,7 @@ Moderate temperatures at high latitudes suit photosynthesis, conferring efficien
 At equatorial latitudes, the ample light is **inefficient** due to extremely high temperatures. Plants may become **light-saturated** — photosynthesis can actually decline in intense light, and energy built into plants may be less in sunlight than in partial shade. Shade (down to 20% sunlight) is of great benefit in tropical deserts and sunny equatorial areas. Shadecloth with 50–70% light transmission may greatly increase production.
 
 ### Optimal Temperature Ranges
-- Above 25°C (77°F): photosynthetic efficiency **sharply decreases**
+- Above 25°C (77°F): [[photosynthetic-efficiency]] **sharply decreases**
 - Arctic/high latitudes: **15°C (59°F)** is optimum for adapted species
 - Many food plants: **20–24°C (68–75°F)** is optimum
 
@@ -90,8 +90,6 @@ knowledge to extend growing seasons, reduce energy consumption, and create
 favorable conditions for cultivated ecosystems in diverse climate zones.
 
 ## See Also
-- [[landscape-effects-of-altitude-and-valley-climates]]
 - [[latitude-altitude-and-valley-climates]]
-- [[altitude-effects]]
 - [[latitude-effects]]
 - [[latitude-effects-on-photosynthesis-and-crop-production]]

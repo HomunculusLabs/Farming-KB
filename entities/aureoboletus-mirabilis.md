@@ -19,45 +19,7 @@ sources:
 
 ## Overview
 
-**Aureoboletus mirabilis** is an edible bolete mushroom found in the Pacific Northwest of [[psilocybin-north-america-pacific-northwest]]. It is commonly called the **admirable bolete** or **velvet bolete** due to its striking dry, velvety golden-yellow cap.
-
-The species is a mycorrhizal associate of conifers, particularly **western hemlock** (*[[tsuga-heterophylla]]*) and **Sitka spruce** (*[[picea-sitchensis]]*). It fruits in late autumn through winter, making it one of the latest-fruiting boletes in its range.
-
-Its combination of a bright yellow cap, reddish pore surface, and reticulate stipe makes it relatively easy to identify in the field. It is considered one of the better edible boletes in the Pacific Northwest.
-
-## Taxonomy and Morphology
-
-**Classification:**
-
-- Kingdom: Fungi
-- Division: Basidiomycota
-- Class: Agaricomycetes
-- Order: Boletales
-- Family: Boletaceae
-- Genus: *Aureoboletus*
-- Species: *A. mirabilis* (Murrill) Klopfenstein
-
-The species was originally described by William A. Murrill in 1912 as *Boletus mirabilis*. It was transferred to *Aureoboletus* by Klopfenstein in 1992 based on morphological and phylogenetic evidence.
-
-**Synonyms:** *Boletus mirabilis* Murrill, *Suillus mirabilis* (Murrill) Singer, *Xerocomus mirabilis* (Murrill) Singer.
-
-**Cap:** 5–15 cm, convex to plano-convex, dry and finely velvety to tomentose. Color is bright golden-yellow to lemon-yellow, sometimes with olive tones near the center. Surface does not become slimy when wet.
-
-**Pore surface:** Initially yellow, becoming olive-yellow with age, bruising slowly brownish. Tubes are adnexed to decurrent, 8–15 mm deep. Pores are angular, 1–2 per mm.
-
-**Stipe:** 6–12 cm long, 1.5–3 cm thick, central to slightly eccentric. Solid, firm. Surface is vivid yellow with conspicuous red reticulation (net pattern) especially near the apex. Base often has white mycelium.
-
-**Flesh:** Yellow, firm, unchanging or very slowly bluing when cut. Taste mild, pleasant. Odor fruity or not distinctive.
-
-**Spore print:** Olive-brown to yellowish-brown.
-
-**Spores:** 12–16 × 4.5–6 µm, fusoid to subfusoid, smooth, inamyloid. Basidia are clavate, four-spored, 25–35 × 8–10 µm. Pleurocystidia are fusoid to ventricose, 40–60 × 8–12 µm.
-
-**Chemical reactions:** KOH on cap surface produces a strong reddish-brown reaction. Ammonia on the flesh produces a transient pink coloration that fades to brown. These reactions help distinguish *A. mirabilis* from superficially similar yellow boletes.
-
-## Distribution and Habitat
-
-*A. mirabilis* is found along the Pacific coast [[berry-growing]], from British Columbia through Washington and Oregon to northern California. It has also been reported in the Rocky Mountains of Idaho and Montana.
+**Aureoboletus mirabilis** is an edible bolete mushroom found in the Pacific Northwest of [[tsuga-heterophylla]]*) and **Sitka spruce** (*[[berry-growing]], from British Columbia through Washington and Oregon to northern California. It has also been reported in the Rocky Mountains of Idaho and Montana.
 
 It is an obligate **ectomycorrhizal** species, forming associations primarily with conifers. Common host trees include western hemlock, Sitka spruce, Douglas-fir, and western redcedar. It fruits on the ground in conifer forests, often near fallen logs or in moss.
 
@@ -69,22 +31,93 @@ Fruiting occurs from October through January, with peak production in November a
 
 It can be prepared by sautéing, drying, or pickling. The firm texture holds up well in soups and stews. Dried specimens reconstitute well and retain good flavor.
 
-As with all boletes, specimens should be checked for insect larva infestation, which is common in older [[bloomfield-asterophora-and-mycoparasites-of-fruiting-bodies]]. The stipe can become tough in mature specimens and is often discarded.
-
-There are no known toxic look-alikes in its range. The combination of golden-yellow velvety cap, red reticulate stipe, and late-season fruiting make misidentification unlikely.
-
-## Ecological Role
-
-As an ectomycorrhizal species, *A. mirabilis* plays an important role in **[[comparison-nutrient-cycling-vs-nutrient-dense-gardening]]** in Pacific Northwest conifer forests. The [[arbuscular-mycorrhizal-network-visualization-anastomosis]] it forms with host trees facilitates exchange of soil minerals for photosynthetically fixed carbon.
-
-The species contributes to **forest soil aggregation** through [[bloomfields-orchard-hyphal-growth-and-invasive-biology]] contributes organic matter to the forest floor. Late-season fruiting bodies provide a food source for deer, small mammals, and invertebrates during months when other fungal resources are scarce.
+As with all boletes, specimens should be checked for insect larva infestation, which is common in older [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]]** in Pacific Northwest conifer forests. The [[bloomfields-orchard-hyphal-growth-and-invasive-biology]] contributes organic matter to the forest floor. Late-season fruiting bodies provide a food source for deer, small mammals, and invertebrates during months when other fungal resources are scarce.
 
 ## Cultivation
 
-Cultivation of *Aureoboletus mirabilis* has not been commercially achieved. As an obligate ectomycorrhizal species, it requires living host trees to complete its life cycle, making traditional saprotrophic [[synthetic-log-cultivation-methods-guide]] infeasible.
-
-Some mycologists have attempted **greenhouse inoculation** of conifer seedlings with *A. mirabilis* spore slurries or mycelial cultures, with limited success. Fruiting in pot cultures has been observed only rarely and unpredictably.
-
-The species is primarily harvested from wild populations. Sustainable [[emcdda-european-magic-mushroom-hunting-wild-foraging-practices]] are recommended, including cutting mushrooms at the base rather than uprooting and leaving smaller specimens to mature.
+Cultivation of *Aureoboletus mirabilis* has not been commercially achieved. As an obligate ectomycorrhizal species, it requires living host trees to complete its life cycle, making traditional saprotrophic [[emcdda-european-magic-mushroom-hunting-wild-foraging-practices]] are recommended, including cutting mushrooms at the base rather than uprooting and leaving smaller specimens to mature.
 
 ## Chemical Composition
+
+## Overview
+
+Aureoboletus Mirabilis represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish aureoboletus mirabilis
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving aureoboletus extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Aureoboletus Mirabilis finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for aureoboletus mirabilis. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+aureoboletus mirabilis and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Aureoboletus Mirabilis has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of aureoboletus mirabilis into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[campanula-mirabilis]]
+- [[nepenthes-mirabilis]]
+- [[welwitschia-mirabilis]]

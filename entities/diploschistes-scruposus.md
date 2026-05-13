@@ -39,7 +39,7 @@ The photobiont partner is a chlorococcoid green alga, most commonly identified a
 
 Molecular studies of Asterochloris photobionts have revealed multiple distinct lineages associated with Diploschistes scruposus across its geographic range. This photobiont diversity suggests that the fungal partner can selectively associate with different algal strains depending on local environmental conditions. Such flexibility may contribute to the broad ecological amplitude of the species.
 
-In section, the thallus shows a well-developed upper cortex composed of densely packed fungal hyphae, a medullary layer where algal cells are intermixed with loosely arranged hyphae, and a lower cortex that may be thin or absent depending on the substrate. The excipulum of the apothecium is composed of darkly pigmented, thick-walled fungal cells.
+In section, the thallus shows a well-developed upper cortex composed of densely packed [[fungal-hyphae]], a medullary layer where algal cells are intermixed with loosely arranged hyphae, and a lower cortex that may be thin or absent depending on the substrate. The excipulum of the apothecium is composed of darkly pigmented, thick-walled fungal cells.
 
 The prothallus, when present, is a thin black or dark brown margin that may extend slightly beyond the main thallus. This feature is more commonly observed in specimens growing on rock surfaces and may be absent in terricolous or muscicolous forms. The prothallus helps anchor the thallus to the substrate and may assist in water absorption from the underlying surface.
 
@@ -49,21 +49,7 @@ Pycnidia are common and immersed within the thalline areoles, producing small co
 
 Diploschistes scruposus has a cosmopolitan distribution, occurring on every continent except Antarctica. It is particularly abundant in Mediterranean climates, temperate regions, and arid to semi-arid environments. The species ranges from sea level to elevations exceeding 2500 meters in mountainous areas, demonstrating considerable ecological amplitude.
 
-In North America, Diploschistes scruposus is widespread across the southern and western [[dmt-containing-plants-united-states-halpern]], extending into Mexico. It is common on calcareous soils and rocks in desert and grassland regions, particularly in the Sonoran, Chihuahuan, and Mojave deserts. In Europe, it occurs from the Mediterranean basin northward to Scandinavia and the British Isles, where it favors limestone and mortar on old walls.
-
-The species has also been recorded across much of Asia, Africa, South America, and Australasia. In tropical regions it tends to be restricted to higher elevations and exposed calcareous outcrops where competition from faster-growing tropical lichens is reduced. Its presence on oceanic islands suggests effective long-distance dispersal via ascospores.
-
-The species is remarkably catholic in its substrate preferences. It colonizes rock surfaces of both calcareous and siliceous composition, including limestone, sandstone, basalt, and concrete. It also grows on soil, particularly compacted or disturbed soils along roadsides and in arid regions. Less commonly, it establishes on mosses, bark, and decaying wood in sheltered microhabitats.
-
-Habitats where Diploschistes scruposus is most abundant include open, sun-exposed sites with low competition from vascular plants. It thrives on stone walls, gravestones, old buildings, and exposed rock outcrops. The species is often a pioneer colonizer of fresh mineral surfaces, playing an early successional role in biological weathering and soil formation.
-
-In arid environments, Diploschistes scruposus frequently co-occurs with other calcicolous crustose lichens such as Aspicilia spp. and Buellia spp. It may also be found growing alongside foliose and fruticose species in more vegetated habitats, though it typically occupies the most exposed microsites where competition is reduced.
-
-As a pioneer crustose lichen, Diploschistes scruposus plays a significant role in primary succession on bare rock and soil surfaces. Its thallus contributes to biological weathering by secreting organic acids that slowly dissolve mineral substrates. This process initiates soil development and creates conditions favorable for colonization by more complex organisms.
-
-The species provides microhabitat structure for various invertebrates, including mites, springtails, and nematodes that inhabit the irregular thallus surface. These microarthropod communities contribute to [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] within the lichen microecosystem and may facilitate [[aquatic-fungi-spore-dispersal-ingold]] through their movements across the thallus.
-
-Diploschistes scruposus is relatively tolerant of air pollution compared to many lichen species, particularly those with cyanobacterial photobionts. This tolerance allows it to persist in urban and suburban environments where more sensitive species have declined. It is therefore sometimes used as a bioindicator of intermediate [[cervantes-air-quality-ventilation]] in lichen biomonitoring studies.
+In North America, Diploschistes scruposus is widespread across the southern and western [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] within the lichen microecosystem and may facilitate [[cervantes-air-quality-ventilation]] in lichen biomonitoring studies.
 
 The species can reproduce both sexually through ascospore production and asexually through thallus fragmentation and conidiospores. Sexual reproduction promotes genetic diversity and long-distance dispersal, while asexual reproduction enables rapid colonization of suitable substrates near existing populations. This dual reproductive strategy contributes to the species' success across varied environments.
 
@@ -88,3 +74,77 @@ Diploschistes scruposus can be confused with several other crustose and squamulo
 Diploschistes muscorum is the most frequently confused species, as it shares a similar crustose to squamulose growth form and often occupies comparable habitats. However, D. muscorum typically grows on mosses and organic substrates, has a thinner thallus, and produces smaller ascospores. D. scruposus, by contrast, is more commonly saxicolous and terricolous with larger, more prominently muriform spores.
 
 Species of Aspicilia, particularly A. calcarea and A. cinerea, can resemble Diploschistes scruposus in their white to gray crustose thalli and black apothecia. However, Aspicilia species produce simple, ellipsoid ascospores rather than the large muriform spores characteristic of Diploschistes. Additionally, Aspicilia lacks the distinctive chemistry of Diploschistes.
+
+## Overview
+
+Diploschistes Scruposus represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish diploschistes scruposus
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving diploschistes extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Diploschistes Scruposus finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for diploschistes scruposus. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+diploschistes scruposus and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Diploschistes Scruposus has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of diploschistes scruposus into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource

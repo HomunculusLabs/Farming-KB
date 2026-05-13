@@ -3,7 +3,7 @@ title: Skoolie Bus Conversion
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
-tags: [construction, [[homesteading]], off-grid, design, sustainability, engineering]
+tags: [construction, homesteading, off-grid, design, sustainability, engineering]
 sources: []
 ---
 
@@ -79,7 +79,7 @@ Insulation is critical — metal buses conduct heat and cold aggressively. Witho
 - Cost: $500-1,000
 
 **Havelock Wool (Natural Option)**
-- Sheep's [[mollison-designers-wool-insulation-and-natural-textiles]] batts
+- Sheep's wool insulation batts
 - Naturally manages moisture, fire-resistant
 - Cost: $2,000-3,000
 
@@ -130,21 +130,21 @@ Build a stud wall framework inside the bus:
 
 **Greywater**
 - 30-50 gallon greywater tank
-- Or [[off-grid-waste-management]] disposal system with filter and direct drain
+- Or [[off-grid-waste-management|greywater]] disposal system with filter and direct drain
 
 **Black Water**
-- Most skoolies use [[off-grid-waste-management]] to eliminate blackwater tanks
+- Most skoolies use [[off-grid-waste-management|composting toilets]] to eliminate blackwater tanks
 - If using a regular toilet, install a blackwater tank with proper venting
 
 ### Phase 7: Propane System (2-3 Days)
 
 - Mount propane tanks in a ventilated exterior compartment
 - Run copper or CSST flexible gas line to appliances
-- Install propane regulator, shutoff valve, and leak detector
-- Appliances: cooktop, oven, heater, water heater, refrigerator
 
-### Phase 8: Interior Finish (2-4 Weeks)
+## See Also
 
-1. Install wall paneling (tongue-and-groove pine, shiplap, or painted plywood)
-2. Install ceiling (thin plywood or paneling)
-3. Install flooring
+- [[document-format-conversion-fidelity]]
+- [[hybrid-to-op-variety-conversion-breeding-solomon]]
+- [[cervantes-conversion-bulbs-hid-lighting]]
+- [[staycare-fungal-agricultural-waste-conversion]]
+- [[savory-game-ranching-and-wildlife-conversion]]

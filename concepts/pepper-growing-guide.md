@@ -9,7 +9,7 @@ sources: []
 
 # Pepper Growing Guide
 
-Peppers (Capsicum species) are warm-season crops that thrive in heat and full sun. This guide covers sweet and hot pepper varieties, indoor seed starting, transplanting, [[cannabis-nutrient-management]], and harvesting for optimal yield and flavor.
+Peppers (Capsicum species) are warm-season crops that thrive in heat and full sun. This guide covers sweet and hot pepper varieties, indoor seed starting, transplanting, nutrient management, and harvesting for optimal yield and flavor.
 
 ## Sweet vs. Hot Peppers
 
@@ -71,7 +71,7 @@ Peppers (Capsicum species) are warm-season crops that thrive in heat and full su
 - Plant at the same depth as in the pot — peppers do NOT root from the stem like tomatoes.
 - Add a handful of compost and a sprinkle of bone meal to each planting hole.
 - Water in well.
-- Row cover or cloche for the first 1-2 weeks after transplanting helps with [[blesching-cannabis-fever-temperature-regulation]].
+- Row cover or cloche for the first 1-2 weeks after transplanting helps with temperature regulation.
 
 ### Container Growing
 - Peppers grow very well in containers (5+ gallon minimum).
@@ -84,7 +84,7 @@ Peppers (Capsicum species) are warm-season crops that thrive in heat and full su
 Peppers are moderate feeders — not as heavy as tomatoes or corn.
 
 ### Key Nutrients
-- **Nitrogen**: Needed for early [[cannabis-vegetative-growth-stage]]. Apply at planting and early growth stages.
+- **Nitrogen**: Needed for early vegetative growth. Apply at planting and early growth stages.
 - **Phosphorus**: Critical for flowering and fruit set. Add bone meal at planting.
 - **Potassium**: Important for fruit quality and disease resistance. Kelp meal, wood ash.
 - **Calcium**: Prevents blossom end rot (less common in peppers than tomatoes but possible).
@@ -92,7 +92,7 @@ Peppers are moderate feeders — not as heavy as tomatoes or corn.
 
 ### Fertilizer Schedule
 - At planting: compost + bone meal in hole.
-- 2 weeks after transplant: side-dress with balanced [[complete-organic-fertilizer-cof]] or compost.
+- 2 weeks after transplant: side-dress with balanced organic fertilizer or compost.
 - At first flowers: reduce nitrogen; add potassium source (kelp meal, wood ash).
 - During fruiting: light side-dress every 3-4 weeks with compost or balanced fertilizer.
 - Avoid excess nitrogen — lush foliage with few flowers/fruit.
@@ -110,7 +110,7 @@ Peppers are moderate feeders — not as heavy as tomatoes or corn.
 
 ### Blossom End Rot
 - Black sunken spots on fruit bottom.
-- Cause: [[knf-calcium-deficiency-symptoms]] or inconsistent watering.
+- Cause: calcium deficiency or inconsistent watering.
 - Prevention: consistent moisture, adequate calcium, mulch.
 
 ### Sunscald
@@ -141,10 +141,10 @@ Peppers are moderate feeders — not as heavy as tomatoes or corn.
 
 ## Preserving
 
-- **Drying**: Thread hot peppers on string (ristras), hang in a dry, well-ventilated area. Cayenne, Thai, and thin-walled peppers dry best.
-- **Freezing**: Chop sweet peppers, spread on a sheet pan, freeze, then bag. Best for cooking.
-- **Pickling**: Jalapeños, banana peppers, and sweet peppers pickle well.
-- **Hot sauce**: Blend fermented or fresh hot peppers with vinegar, garlic, and salt.
-- **Smoking and drying**: Chipotle (smoked jalapeño), smoked cayenne for spice blends.
+## See Also
 
-## Related
+- [[comparison-pepper-growing-guide-vs-tomato-growing-guide]]
+- [[tomato-pepper-eggplant-growing-guide]]
+- [[comparison-bean-growing-guide-vs-pepper-growing-guide]]
+- [[comparison-black-pepper-vs-cardamom-tropical-spice-cultivation]]
+- [[comparison-cacao-vs-black-pepper-tropical-crop-cultivation]]

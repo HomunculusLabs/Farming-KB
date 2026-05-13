@@ -23,29 +23,7 @@ Gentiana macrophylla is a robust perennial herb in the family Gentianaceae, know
 
 It is one of the most important medicinal gentians in traditional Chinese medicine, valued for anti-inflammatory and hepatoprotective properties. The species grows 30–60 cm tall with whorled leaves and clusters of dark blue to purple flowers.
 
-Gentiana macrophylla is native to [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]] of China, Mongolia, and Siberia. It thrives in mountain meadows and forest margins at elevations of 400–3,000 m.
-
-The roots are the primary medicinal part, containing bitter secoiridoid glycosides. Harvest typically occurs in autumn after 3–5 years of growth.
-
-This species is listed in the Chinese Pharmacopoeia as an official drug source for Qin Jiao. Three other Gentiana species (G. straminea, G. crassicaulis, and G. dahurica) are also accepted sources.
-
-## Taxonomy and Morphology
-
-**Classification:** Gentianaceae > Gentianoideae > Gentiana > Aptera > Macrophyllae. Authority: Pall. (1789).
-
-Key synonyms include Gentiana macrophylla var. minor and Gentiana wutaiensis. The species belongs to the section Aptera, characterized by wingless seeds and large leaf rosettes.
-
-The stems are erect, unbranched, and glabrous, reaching 30–60 cm. Basal leaves form a conspicuous rosette of 5–8 large, ovate-lanceolate leaves up to 25 cm long.
-
-Cauline leaves are in whorls of 3–4, progressively smaller up the stem. The leaf blades are prominently 5–7 nerved, dark green, and leathery.
-
-Flowers appear in terminal and axillary clusters from July to September. The corolla is tubular-campanulate, dark blue-purple, 2.5–3.5 cm long.
-
-The calyx tube is short with five narrow lobes. Stamens are inserted midway on the corolla tube.
-
-The fruit is an elliptic capsule 2–3 cm long, containing numerous small, brown, wingless seeds. Root systems consist of thick, fleshy taproots with a characteristic yellow-orange color.
-
-The root system is the commercially harvested part, developing significant mass over 3–5 [[jeavons-climate-adaptation-growing-seasons]]. Fresh roots have a strong, persistent bitterness characteristic of gentian species.
+Gentiana macrophylla is native to [[jeavons-climate-adaptation-growing-seasons]]. Fresh roots have a strong, persistent bitterness characteristic of gentian species.
 
 ## Distribution and Habitat
 
@@ -53,23 +31,7 @@ Gentiana macrophylla occurs across northern and central China (Gansu, Hebei, Hei
 
 Populations in the Qinling Mountains of Shaanxi and Gansu are considered the primary commercial source. The species grows in mountain meadows, forest margins, scrubland, and grassy slopes.
 
-Preferred soils are well-drained, slightly acidic loams rich in [[fukuoka-textdoc-composting-critique-futility-prepared-organic-matter]]. Elevational range extends from 400 m to 3,000 m above sea level.
-
-The species requires cold winters and moderate summer rainfall. It is frost-hardy to USDA zone 4.
-
-Overharvesting of wild populations has led to conservation concerns in several provinces. Cultivated sources now provide the majority of commercial material.
-
-## Chemistry and Pharmacology
-
-The roots contain secoiridoid glycosides as the primary bioactive class. Gentiopicroside is the major compound, typically comprising 2–8% of dry root weight.
-
-Additional secoiridoids include swertiamarin and sweroside, both with documented hepatoprotective activity. The xanthone derivative gentisine is also present.
-
-Minor compounds include loganic acid and several caffeoylquinic acid derivatives. The bitter index of the roots exceeds 12,000 on the standard scale.
-
-Triterpenoids (oleanolic acid, ursolic acid) contribute to the anti-inflammatory profile. Alkaloids including gentianine have been isolated in small quantities.
-
-Pharmacological studies demonstrate anti-inflammatory effects via suppression of NF-κB signaling and COX-2 expression. Hepatoprotective activity is mediated through antioxidant [[fungal-enzyme-induction-and-regulation]].
+Preferred soils are well-drained, slightly acidic loams rich in [[fungal-enzyme-induction-and-regulation]].
 
 Analgesic properties have been confirmed in rodent models of inflammatory and neuropathic pain. The species also shows immunomodulatory and mild antipyretic effects.
 
@@ -83,8 +45,93 @@ Primary indications include rheumatic arthritis, jaundice, constipation, and fev
 
 Qin Jiao is a component of several classic formulas including Qin Jiao San and Da Qin Jiao Tang. These formulas treat joint pain, stiffness, and wind-dampness patterns.
 
-Modern clinical applications extend to chronic hepatitis, liver fibrosis, and [[blesching-cannabis-health-index-autoimmune-conditions]]. Standardized extracts are available as [[medicinal-mushroom-dietary-supplements]] in Asian markets.
+Modern clinical applications extend to chronic hepatitis, liver fibrosis, and [[medicinal-mushroom-dietary-supplements]] in Asian markets.
 
 Harvesting occurs in autumn after the aerial parts die back. Roots are cleaned, dried, and sliced for decoction or powder preparation.
 
 The species name Qin Jiao derives from the Qinling mountain region, its historic center of trade. It has been documented in Chinese herbals since the Shen Nong Ben Cao Jing (c. 200 CE).
+
+## Overview
+
+Gentiana Macrophylla represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish gentiana macrophylla
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving gentiana extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Gentiana Macrophylla finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for gentiana macrophylla. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+gentiana macrophylla and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Gentiana Macrophylla has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of gentiana macrophylla into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[gentiana-aspera]]
+- [[gentiana-ciliata]]
+- [[gentiana-farreri]]
+- [[gentiana-nivalis]]
+- [[gentiana-septemfida]]

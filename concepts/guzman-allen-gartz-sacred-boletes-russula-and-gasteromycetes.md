@@ -22,29 +22,10 @@ fungi: species used as integrate-rather-than-segregate confirmed chemistry.
 ## Boletes as Sacred Fungi in New Guinea
 
 Singer (1958, 1960a), Heim and Wasson (1965), and Heim (1965a, 1978) reported
-the use of Psilocybe, Russula, and Boletaceous fungi as [[poria-cocos]], neurotropic-fungi-world-checklist.
-
-## See Also
-
-- [[guzman-allen-gartz-sacred-puffballs-gasteromycetes-indigenous-cultures]]
+the use of Psilocybe, Russula, and Boletaceous fungi as [[guzman-allen-gartz-sacred-puffballs-gasteromycetes-indigenous-cultures]]
 ## Practical Applications
 
-[[guzman-new-guinea-sacred-boletes-russula-neurotropic-controversy-heim-wasson]] and Gasteromycetes has a range of practical applications that make it relevant to
-both researchers and practitioners. Understanding these applications
-requires familiarity with the underlying principles and their
-manifestation in real-world contexts. The breadth of applications
-reflects the fundamental importance of this topic across disciplines.
-
-Implementation varies based on scale, available resources, and
-specific objectives. Small-scale applications may be relatively
-straightforward, while larger implementations require more careful
-planning and coordination. Adaptation to local conditions is always
-essential for achieving optimal results regardless of scale.
-
-Documented case studies provide valuable reference points, though
-each situation presents unique combinations of opportunities and
-constraints that require context-specific solutions. The most
-successful implementations combine established [[arbuscular-mycorrhizal-inoculum-production-best-practices]] with
+[[arbuscular-mycorrhizal-inoculum-production-best-practices]] with
 creative adaptation to local conditions and emerging challenges.
 
 ## Key Considerations
@@ -97,8 +78,6 @@ through generations to modern scientific approaches, the evolution continues
 to inform current best practices and research directions.
 
 ## See Also
-- [[guzman-allen-gartz-new-guinea-sacred-fungi-boletus-russula-controversy]]
 - [[guzman-allen-gartz-sacred-non-psilocybin-fungi-polypores-boletes-puffballs]]
-- [[guzman-allen-gartz-sacred-non-psilocybin-fungi-cordyceps-and-claviceps]]
 - [[guzman-allen-gartz-sacred-puffballs-gasteromycetes-indigenous-cultures]]
 - [[doc]]

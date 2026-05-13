@@ -18,8 +18,7 @@ type: concept
 
 Understanding fungal community structure and dynamics in contaminated
 environments is essential for predicting remediation outcomes and
-designing effective [[singh-petroleum-hydrocarbon-fungal-remediation-technologies]],
-[[singh-mycorrhizal-fungi-rhizosphere-remediation]]. Limitations
+designing effective [[singh-mycorrhizal-fungi-rhizosphere-remediation]]. Limitations
 include resolution constraints (20-40 detectable taxa) and
 semi-quantitative band intensity analysis.
 
@@ -43,8 +42,7 @@ particularly at the species level.
 qPCR enables absolute or relative quantification of specific fungal taxa
 or functional genes. Key applications include:
 
-- Quantifying [[singh-cytochrome-p450-fungal-bioremediation]],
-  [[singh-lignin-peroxidase-lip-fungal-degradation]] genes
+- Quantifying [[singh-lignin-peroxidase-lip-fungal-degradation]] genes
 - Tracking inoculated strains during bioaugmentation experiments
 - Assessing fungal-to-bacterial biomass ratios in contaminated soils
 
@@ -75,8 +73,7 @@ other eukaryotic sequences and requiring substantial sequencing depth.
 ### Metatranscriptomics
 
 RNA-based metatranscriptomics reveals actively expressed fungal genes,
-identifying upregulation of [[singh-fungal-biodegradation-of-polycyclic-aromatic-hydrocarbons]] and temporal dynamics during
-[[singh-enzyme-production-for-industrial-bioremediation]],
+identifying upregulation of [[singh-enzyme-production-for-industrial-bioremediation]],
 identifying [[singh-fungal-consortia-synergistic-biodegradation]].
 
 ## Network Analysis and Bioinformatics

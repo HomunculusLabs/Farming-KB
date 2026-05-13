@@ -12,15 +12,7 @@ sources:
 
 updated: 2026-04-18
 
-One of Dr. Cho Han Kyu's most celebrated achievements in Korean [[comparison-natural-farming-vs-permaculture]] (KNF) is the development of an odorless piggery system. The conventional pig farming industry has long struggled with the problems of foul odor, wastewater pollution, and the need for expensive waste treatment facilities. Dr. Cho's experiments related to pollution-free piggery are described as "simply superb and beyond the imagination of mainstream agriculture scientists."
-
-## The Problem with Conventional Pig Housing
-
-In conventional pig farming, facilities require expensive waste treatment infrastructure to manage the massive amounts of manure and wastewater produced. The smell is offensive to neighbors, the waste pollutes waterways, and the cost of maintaining hygiene is significant. Cleaning pig pens is labor-intensive and the use of chemicals and antibiotics is common. The livestock housing itself becomes a source of environmental contamination rather than a closed-loop system.
-
-## The KNF Approach: Zero Emission
-
-The KNF piggery system is designed around the concept of "zero emission" -- no wastewater is emitted and all wastes are recycled and converted to resources. The housing itself serves as a waste treatment facility, fertilizer factory, and feed mixer all in one. This is accomplished through the use of [[knf-indigenous-microorganism-culture]] (the advanced stage of prepared [[beneficial-indigenous-microorganisms-bim]]) is mixed into the bedding along with [[knf-brown-rice-vinegar]] can be added to the bedding to help maintain optimal conditions.
+One of Dr. Cho Han Kyu's most celebrated achievements in Korean [[knf-indigenous-microorganism-culture]] (the advanced stage of prepared [[knf-brown-rice-vinegar]] can be added to the bedding to help maintain optimal conditions.
 
 ## Additional Management Practices
 
@@ -30,21 +22,7 @@ The KNF piggery system is designed around the concept of "zero emission" -- no w
 
 - **Occasional turning:** The bedding may need to be turned periodically to maintain aeration, though the pigs' rooting behavior often provides sufficient mixing.
 
-- **Feed management:** The pigs' feed influences the composition of their manure. KNF-fed pigs produce waste that is more easily broken down by the [[edaphic-factors-microbial-community-structure]].
-
-## The End Product: Premium Compost
-
-After several months to a year of operation, the [[comparison-deep-litter-vs-hot-composting]] bedding is transformed into a rich, dark, humus-like compost. This material, sometimes called IMO-5 when prepared with additional inputs, is an excellent soil amendment. It contains not only decomposed [[hamilton-composting-and-organic-matter-management]] but also a thriving community of beneficial microorganisms that can be applied to fields to improve soil health. The composted litter from the piggery floor is a complete fertilizer, providing macronutrients, micronutrients, and beneficial biology.
-
-## Integration with Crop Production
-
-The KNF piggery is designed as part of an integrated farming system. The composted litter is used to fertilize crop fields, crop residues are used as bedding material, and agricultural by-products can supplement pig feed. This creates a closed nutrient loop where nothing is wasted.
-
-## Benefits and Economic Advantages
-
-The odorless piggery system offers significant economic advantages over conventional pig farming:
-
-- **Eliminated waste treatment costs:** No need for expensive [[mollison-designers-wastewater-treatment-wetlands]] infrastructure, slurry tanks, or manure separation equipment. The bedding system itself handles all waste processing.
+- **Feed management:** The pigs' feed influences the composition of their manure. KNF-fed pigs produce waste that is more easily broken down by the [[comparison-deep-litter-vs-hot-composting]] bedding is transformed into a rich, dark, humus-like compost. This material, sometimes called IMO-5 when prepared with additional inputs, is an excellent soil amendment. It contains not only decomposed [[mollison-designers-wastewater-treatment-wetlands]] infrastructure, slurry tanks, or manure separation equipment. The bedding system itself handles all waste processing.
 - **Reduced labor:** The deep litter system requires minimal daily maintenance. No regular pen cleaning is needed, freeing labor for other farm tasks.
 - **Premium compost output:** The end product is high-quality, microbially-rich compost that can be sold or applied to farm fields, reducing or eliminating the need for purchased fertilizers.
 - **Improved animal health:** The natural environment reduces stress and disease incidence, lowering veterinary costs and medication use. Pigs raised in this system are generally healthier and require fewer interventions.
@@ -54,11 +32,7 @@ The odorless piggery system offers significant economic advantages over conventi
 
 Dr. Cho's system has been successfully adapted across diverse climates and scales, from small family operations with 5-10 pigs to larger commercial facilities. The key principles -- soil-based floors, IMO inoculation, deep carbon bedding, and aerobic management -- remain constant regardless of scale. In tropical regions, increased bedding depth and more frequent moisture management may be needed. In temperate zones, the heat generated by fermentation provides supplemental warmth during cold months, reducing heating costs.
 
-## Comparison with [[knf-indigenous-microorganism-culture]]
-- [[knf-fermented-mixed-compost]]
-- [[natural-farming-livestock-integration]]
-
-Source: Cho's Global Natural Farming (CGNF). SARRA, 2011. Chapters 1, 8.
+## Comparison with [[knf-fermented-mixed-compost]]
 - [[knf-livestock-chicken-house-natural-farming]]
 ## Practical Considerations
 
@@ -93,29 +67,84 @@ When applying these concepts, consider regional variations, available resources,
 
 ## See Also
 
-- [[knf-livestock-odorless-piggery]]
 - [[solomon-weed-management-without-chemicals]]
-- [[solomon-pest-management-without-chemicals]]
 - [[solomon-mild-climate-disease-pest-buildup-without-hard-freeze]]
-- [[query-how-to-store-food-without-refrigeration]]
+- [[dom]]
+- [[composting]]
+- [[ghb]]
+
+## Overview
+
+Knf Piggery Without Smell represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish knf piggery without smell
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving knf extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Knf Piggery Without Smell finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for knf piggery without smell. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+knf piggery without smell and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
 
 ## Historical Context
 
-The historical development of this subject reflects centuries of accumulated
-knowledge and practical experience. From traditional methods passed down
-through generations to modern scientific approaches, the evolution continues
-to inform current best practices and research directions.
+Knf Piggery Without Smell has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
 
-## Common Challenges
+## Integration Strategies
 
-Practitioners frequently encounter several challenges when working with
-these concepts. Climate variability, resource limitations, and knowledge
-gaps can all affect outcomes. Addressing these challenges requires patience,
-observation, and a willingness to adapt approaches based on results.
+Successful integration of knf piggery without smell into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
 
-## See Also
-- [[dom]]
-- [[cho-han-kyu]]
-- [[composting]]
-- [[permaculture]]
-- [[ghb]]
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.

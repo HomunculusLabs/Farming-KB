@@ -11,27 +11,18 @@ type: concept
 
 # Cover Crops
 
-Cover crops, also called [[jeavons-green-manures-cover-crops]], are plants grown primarily to
-benefit the soil rather than for harvest. They are a cornerstone of
-[[decomposition]] and avoid nitrogen tie-up from immature material.
+Cover crops, also called [[decomposition]] and avoid nitrogen tie-up from immature material.
 
 ## Cover Crops in the Home Garden
 
 Cover crops aren't just for farmers. Even small gardeners can use them
-effectively. In a [[hamilton-vegetable-bed-preparation]], after harvesting summer crops, sow
-[[mushroom-compost]] or winter rye for winter cover. In spring, cut the
+effectively. In a [[mushroom-compost]] or winter rye for winter cover. In spring, cut the
 cover crop and plant directly through the residue. For perennial beds,
-[[fukuoka-white-clover-cover-crop-system]] makes an excellent [[comparison-living-mulch-vs-cover-crops]] between plants, fixing
+[[comparison-living-mulch-vs-cover-crops]] between plants, fixing
 nitrogen and suppressing weeds while tolerating foot traffic.
 
 A simple rotation: spring peas (food crop) followed by buckwheat
-([[solomon-buckwheat-summer-cover-crop-guide]]), followed by fall-planted garlic through a winter rye
-cover crop. This ensures soil is never bare and always being fed.
-
-## See Also
-
-- nitrogen-fixing-plants
-- [[sheet-mulching]]
+([[sheet-mulching]]
 ## Practical Applications
 
 Cover Crops has a range of practical applications that make it relevant to
@@ -97,8 +88,6 @@ through generations to modern scientific approaches, the evolution continues
 to inform current best practices and research directions.
 
 ## See Also
-- [[cover-crop]]
 - [[doc]]
-- [[det]]
 - [[decomposition]]
 - [[mollison-designers-cover-crops-and-green-manure-species]]

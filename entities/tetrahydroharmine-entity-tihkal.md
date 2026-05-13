@@ -12,26 +12,11 @@ sources: ["raw/papers/shulgin-a-tihkal.md"]
 
 - Full name: 7-Methoxy-1,2,3,4-tetrahydroharman; 1,2,3,4-tetrahydroharmine
 
-- Synonyms: 7-MeO-THH, Leptaflorine, 7-Methoxy-1-methyl-1,2,3,4-tetrahydro-beta-carboline
+- Synonyms: 7-MeO-THH, Leptaflorine, 7-Methoxy-1-methyl-1,2,3,4-tetrahydro-[[beta-carboline]]
 
 - Class: Beta-carboline, tetrahydro derivative
 
-- Source: [[harmaline-entity-tihkal]]. Only a single trial
-exists, with a single volunteer.
-
-## Natural Occurrence
-
-Tetrahydroharmine is one of the three principal beta-carboline alkaloids
-found in [[harmine-entity-tihkal]] and [[peganum-harmala]] ([[golden-guide-syrian-rue-and-maoi-plants]]) and [[psychotria-viridis]]. In one
-analyzed brew using C. pentandra, a component initially identified as DMT
-by HPLC proved to be tetrahydroharmine upon GCMS analysis — yet the brew
-still exhibited psychopharmacological activity.
-
-## Pharmacological Importance
-
-Tetrahydroharmine is an effective monoamine oxidase inhibitor (MAOI), which
-is critical for its role in ayahuasca. MAO inhibition allows orally inactive
-compounds like [[harmine-entity-tihkal]]
+- Source: [[harmine-entity-tihkal]] and [[golden-guide-syrian-rue-and-maoi-plants]]) and [[harmine-entity-tihkal]]
 and [[harmaline-entity-tihkal]] are better-studied MAOIs, tetrahydroharmine
 may be an extremely important — and underappreciated — factor in the overall
 pharmacology of ayahuasca preparations.
@@ -87,3 +72,79 @@ few other naturally occurring compounds.
 
 - Harmine: Fully aromatic 7-methoxy-beta-carboline, potent MAO-A inhibitor,
 traditional ayahuasca component
+
+## Overview
+
+Tetrahydroharmine Entity Tihkal represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish tetrahydroharmine entity tihkal
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving tetrahydroharmine extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Tetrahydroharmine Entity Tihkal finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for tetrahydroharmine entity tihkal. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+tetrahydroharmine entity tihkal and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Tetrahydroharmine Entity Tihkal has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of tetrahydroharmine entity tihkal into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.

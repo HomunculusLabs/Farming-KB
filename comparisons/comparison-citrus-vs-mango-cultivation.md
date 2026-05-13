@@ -96,33 +96,14 @@ Mango is significantly higher in vitamin A and sugar. Citrus provides more vitam
 
 ## Economics
 
-Mango commands higher per-unit prices, particularly for fresh market and [[hamilton-organic-fruit-growing]]. Citrus is a higher-volume commodity benefiting from juice and oil processing infrastructure. Mango's concentrated harvest requires more peak labor.
-
-## Permaculture Integration
-
-Citrus functions well in the lower canopy layer, provides year-round pollinator forage, and suits containers. Mango dominates the upper canopy, provides deep [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] via taproots, and generates significant shade and biomass. In combined plantings, maintain 20+ ft between mango canopies and citrus to avoid excessive shading.
+Mango commands higher per-unit prices, particularly for fresh market and [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] via taproots, and generates significant shade and biomass. In combined plantings, maintain 20+ ft between mango canopies and citrus to avoid excessive shading.
 
 ## Summary: Which to Grow?
 
 | Scenario | Best Choice |
 |----------|------------|
-| Marginal subtropical (zone 8b–9a) | **Citrus** — wider [[coleman-cold-hardiness-testing-ratings]] |
-| Small urban garden or patio | **Citrus** — dwarf varieties, containers |
-| Year-round fruit production | **Citrus** — extended harvest season |
-| Hot tropical climate (zone 11) | **Mango** — better heat adaptation |
-| Organic production priority | **Mango** — fewer devastating diseases |
-| Commercial juice production | **Citrus** — established juice industry |
-| High-value fresh fruit market | **Mango** — premium pricing |
-| Drought-prone site | **Mango** — more drought-tolerant |
-
-## See Also
-
-- [[citrus-paradisi]]
-- [[citrus-aurantifolia]]
-
+| Marginal subtropical (zone 8b–9a) | **Citrus** — wider [[citrus-paradisi]]
 - [[comparison-vanilla-vs-cacao-cultivation]]
 
-- [[comparison-shiitake-vs-oyster-cultivation]]
 - [[comparison-avocado-vs-mango-cultivation]]
-- [[comparison-companion-planting-reference-vs-jadam-monoculture-critique]] and polycultures
 - [[query-what-is-integrated-pest-management-for-organic-mushroom-cultivation]]

@@ -18,15 +18,12 @@ type: concept
 
 # Humus, Humic Acid, and Fulvic Acid Distinctions
 
-The terms humus, humic acid, and fulvic acid are frequently used interchangeably in agriculture, but they represent distinct components of [[knf-leaf-mold-humus]] with different properties, formation pathways, and functions. Understanding these distinctions is essential for making informed decisions about soil amendments [[ingham-actinomycetes-soil-biology-and-compost-tea]] production.
+The terms humus, humic acid, and fulvic acid are frequently used interchangeably in agriculture, but they represent distinct components of [[ingham-actinomycetes-soil-biology-and-compost-tea]] production.
 
 ## Humus: The Complete System
 
 Humus is the broadest category, encompassing the entire living and dead organic matter system in soil. It includes:
 
-- **[[savory-living-organisms-as-tools]]**: Bacteria, fungi, protozoa, nematodes, microarthropods, earthworms, and plant roots
-- **Simple organic matter**: Simple sugars, amino acids, proteins, simple carbohydrates, lipids, and thousands of other simple compounds
-- **Intermediate organic matter**: Polysaccharides (multiple simple sugars bound together in increasingly complex, branched forms), amino-sugars, hormones, fats, and lipopolysaccharides
 - **[[teaming-with-microbes-humic-and-fulvic-acids]]**: Intermediate molecular weight fractions formed by the binding and branching of simpler compounds
 - **Humic acids**: The most complex tier, formed when all of the above are bound together in very complex tertiary or three-dimensional binding complexes
 
@@ -36,23 +33,7 @@ Humus is therefore not a single substance but an entire ecosystem of organic mat
 
 Humic acid sits at the most complex end of the organic matter spectrum. Key characteristics:
 
-- Formed from the binding of simpler [[fungal-volatile-organic-compounds-communication]] into three-dimensional complexes
-- Very high molecular weight
-- Difficult to analyze chemically due to structural complexity
-- Poorly soluble in water under acidic conditions
-- Soluble in alkaline solutions
-- Dark brown to black in color
-
-### Biological Production
-
-The production of humic acid is primarily a fungal process, though it requires the full soil foodweb:
-
-- **Fungi** are the primary producers of humic acid. They create the complex "waste products" that form the backbone of humic acid through their enzymatic breakdown of lignin and cellulose
-- **Earthworms** assist by processing organic material through their digestive systems, creating conditions favorable for fungal humification
-- **Microarthropods** help fungi maintain dominance over bacterial processes in the soil environment
-- **Bacteria** initiate the decomposition process by consuming simple sugars and rapid-growth food resources
-
-Real humic [[staycare-fungal-organic-acid-production-metal-leaching]] requires ALL of these organisms to be present. If the soil foodweb is incomplete, humic acid production is impaired. This is why simply adding humic acid products to soil without addressing the underlying biology is often ineffective: without the organisms to maintain the system, added humic acids are not replenished.
+- Formed from the binding of simpler [[staycare-fungal-organic-acid-production-metal-leaching]] requires ALL of these organisms to be present. If the soil foodweb is incomplete, humic acid production is impaired. This is why simply adding humic acid products to soil without addressing the underlying biology is often ineffective: without the organisms to maintain the system, added humic acids are not replenished.
 
 ## Fulvic Acid: Intermediate Products
 
@@ -78,7 +59,7 @@ Organic matter decomposition follows a predictable succession:
 
 4. **Bacteria finish**: After fungi have done the heavy lifting, bacteria complete the job, further processing material into stable humus forms.
 
-The key insight is that fungi are the bottleneck in humus production. If [[bioremediation-fungal-biomass-biosorbent-material]] is low, [[lowenfels-humus-formation-benefits]] is slow regardless of how much organic matter is added. The practical implication is that favoring fungi from the start of composting (rather than the typical bacterial-dominant approach) can dramatically speed up humification.
+The key insight is that fungi are the bottleneck in humus production. If [[lowenfels-humus-formation-benefits]] is slow regardless of how much organic matter is added. The practical implication is that favoring fungi from the start of composting (rather than the typical bacterial-dominant approach) can dramatically speed up humification.
 
 ## Compost Tea Extraction of Humics
 
@@ -118,8 +99,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[soil-foodweb]]
 - [[dom]]
-- [[composting]]
 - [[decomposition]]
 - [[comparison-humic-acid-vs-fulvic-acid]]

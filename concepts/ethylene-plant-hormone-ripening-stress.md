@@ -8,17 +8,7 @@ source: general-knowledge
 
 # Ethylene: The Ripening and Stress Response Hormone
 
-Ethylene (C₂H₄) is the simplest naturally occurring plant hormone — a gaseous hydrocarbon at [[jadam-ambient-temperature-principle]]. Despite its molecular simplicity, ethylene regulates some of the most commercially important processes in agriculture, including fruit ripening, flower senescence, leaf abscission, and responses to pathogen attack and flooding stress. Its gaseous nature means it can diffuse freely between cells and tissues, and it can also affect neighboring plants.
-
-## Discovery
-
-The effects of ethylene on plants were observed long before the hormone itself was identified. Ancient Chinese and Egyptian cultures practiced burning incense in closed rooms to ripen fruit, unknowingly exploiting ethylene's effects. In the 19th century, street lamps leaking illuminating gas (which contained ethylene) were noticed to cause nearby trees to defoliate. In 1901, the Russian botanist Dimitry Neljubov identified ethylene as the active component of illuminating gas that caused the "triple response" in etiolated seedlings. The compound was definitively identified as a natural plant hormone by Richard Gane in 1934, who showed that apples produce ethylene autonomously.
-
-## Biosynthesis of Ethylene
-
-Ethylene biosynthesis follows the **Yang Cycle** (methionine or Yang cycle), named after Shang Fa Yang who elucidated the pathway:
-
-1. **Methionine → [[s-adenosylmethionine]] (SAM)**: Catalyzed by SAM synthetase
+Ethylene (C₂H₄) is the simplest naturally occurring plant hormone — a gaseous hydrocarbon at [[s-adenosylmethionine]] (SAM)**: Catalyzed by SAM synthetase
 2. **SAM → 1-Aminocyclopropane-1-Carboxylic Acid (ACC)**: Catalyzed by ACC synthase (ACS), the rate-limiting step
 3. **ACC → Ethylene**: Catalyzed by ACC oxidase (ACO), an oxygen-dependent enzyme
 
@@ -68,23 +58,8 @@ Ethylene is the primary trigger for fruit ripening in climacteric fruits (those 
 
 In climacteric fruits, ethylene triggers a developmental switch from maturation to ripening through:
 - Autocatalytic ethylene production (System 2 ethylene synthesis replaces the basal System 1)
-- [[chitin-chitosan-fungal-cell-wall]] degradation: upregulation of polygalacturonase, pectin methylesterase, cellulase
-- Chlorophyll degradation and carotenoid synthesis (color change from green to ripe)
-- Starch-to-sugar conversion (sweetening)
 - [[fungal-organic-acid-metal-solubilization]] metabolism (reduction in acidity)
-- [[fungal-btex-volatile-compound-degradation]] synthesis (flavor and aroma production)
-- Conversion of ACC synthase from regulated to constitutive expression
-
-## Commercial Applications
-
-### Ethylene Promotion
-- **Fruit ripening**: Ethylene gas or ethephon (2-chloroethylphosphonic acid, which decomposes to release ethylene) is used to ripen bananas, tomatoes, and other climacteric fruits during transport and retail
-- **Latex flow**: Ethylene stimulates latex production in rubber trees (Hevea brasiliensis), applied as ethephon to increase rubber yield
-- **Pineapple flowering**: Ethephon treatment induces uniform flowering in pineapple plantations
-- **Leaf abscission**: Used to promote leaf drop in cotton before mechanical harvesting
-
-### Ethylene Inhibition
-- **1-Methylcyclopropene (1-MCP)**: A competitive inhibitor of ethylene receptors, widely used commercially to extend [[ingham-aact-holding-time-shelf-life-decay]] of apples, kiwifruit, cut flowers, and other perishables. Marketed as SmartFresh, EthylBloc, and similar products
+- [[ingham-aact-holding-time-shelf-life-decay]] of apples, kiwifruit, cut flowers, and other perishables. Marketed as SmartFresh, EthylBloc, and similar products
 - **Hypobaric storage**: Reduced atmospheric pressure slows ethylene accumulation
 - **Potassium permanganate scrubbers**: Remove ethylene from storage atmospheres
 - **Controlled atmosphere storage**: Low O₂ and elevated CO₂ suppress ethylene synthesis and action
@@ -118,8 +93,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[dom]]
 - [[ghb]]
-- [[abscisic-acid-plant-stress-hormone]]
 - [[strigolactone-plant-hormone]]
 - [[endocannabinoid-system-stress-hormone-reduction-mechanisms-blesching]]

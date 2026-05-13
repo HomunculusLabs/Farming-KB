@@ -24,7 +24,7 @@ sources:
 
 Dendroaspis polylepis, commonly known as the black mamba, is the longest venomous snake in Africa and one of the fastest-moving snakes in the world. It is widely regarded as the most dangerous snake on the African continent due to the combination of its highly toxic neurotoxic venom, large venom yield, aggressive defensive temperament, and speed.
 
-The species is native to sub-Saharan Africa, ranging from northeastern South Africa through eastern Africa to southern Somalia and Ethiopia. It is a diurnal, predominantly terrestrial snake that inhabits a variety of savanna and woodland habitats.
+The species is native to sub-Saharan Africa, ranging from northeastern [[table-mountain-south-africa-mollison]] through eastern Africa to southern Somalia and Ethiopia. It is a diurnal, predominantly terrestrial snake that inhabits a variety of savanna and woodland habitats.
 
 Despite its fearsome reputation, the black mamba typically avoids human confrontation and will flee when possible. Most bites occur when the snake is cornered, surprised, or deliberately provoked. Without antivenom treatment, mortality from black mamba envenomation approaches 100 percent.
 
@@ -82,11 +82,10 @@ The onset of neurotoxic symptoms is notably rapid compared to many other elapid 
 
 Local effects at the bite site are typically minimal, with little swelling or pain. This contrasts sharply with viper envenomations and may lead patients to underestimate the severity of the bite.
 
-Polyvalent antivenoms produced by the [[kanna-sceletium-south-african-narcotic]] Institute for Medical Research are effective against black mamba venom. Treatment typically requires multiple vials, often 10 or more in severe cases. Mechanical ventilation may be necessary to support respiration while antivenom takes effect.
-
-The species is responsible for numerous fatalities annually across sub-Saharan Africa, though exact numbers are difficult to establish due to limited reporting infrastructure in rural areas. The combination of rapid onset, high toxicity, and limited access to antivenom in remote locations makes the black mamba one of the most feared snakes in Africa.
-
-Black mamba venom components have attracted significant pharmacological research interest. Dendrotoxins are used as research tools in neuroscience for studying potassium channel function, and several venom-derived peptides are under investigation for potential [[psilocybin-therapeutic-applications]].
+Polyvalent antivenoms produced by the [[psilocybin-therapeutic-applications]].
 
 ## See Also
 - [[blesching-cannabis-hypertension-cardiovascular-effects]]
+
+## See Also
+- [[psilocybin-intoxication-medical-management-and-first-aid]]

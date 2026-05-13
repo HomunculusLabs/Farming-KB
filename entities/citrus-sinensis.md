@@ -22,57 +22,9 @@ sources:
 
 **Citrus sinensis** (L.) Osbeck, the sweet orange, is an evergreen tree in the family Rutaceae and the world's most widely grown fruit tree species. It is cultivated commercially across tropical, subtropical, and warm temperate regions.
 
-The species originated as a hybrid between [[fukuoka-mandarin-orange-citrus]] (*C. reticulata*) and pummelo (*C. maxima*) in Southeast Asia. Domestication likely occurred in southern China, northern India, or the region between them.
+The species originated as a hybrid between [[savory-growing-season-and-non-growing-season-management]]. A 2–3 month cool period (5–15°C) is beneficial for color development and sugar accumulation.
 
-Global production exceeds 75 million metric tons annually. Brazil and the United States dominate orange juice production, while China and India lead in fresh fruit output.
-
-The fruit is consumed fresh, juiced, dried, and processed into essential oils, pectin, and animal feed. Orange juice is one of the most traded fruit commodities globally.
-
-## Taxonomy and Morphology
-
-The accepted name *Citrus sinensis* was published by Peter Osbeck in 1757. The epithet *sinensis* (Latin for "Chinese") reflects the species' presumed Asian origin.
-
-Molecular phylogenetics confirm sweet orange is an interspecific hybrid. Approximately 75% of its genome derives from mandarin and 25% from pummelo, consistent with a single hybridization event.
-
-Trees typically reach 5–12 m in height with a rounded, dense canopy. Young branches bear sharp axillary thorns that diminish with age.
-
-Leaves are elliptic to obovate, 7–14 cm long, with crenulate margins and narrowly winged petioles. The upper surface is dark green and glossy; the underside is paler with visible oil glands.
-
-Flowers are white, fragrant, and typically pentamerous, 2–4 cm in diameter. They appear primarily in spring but may bloom intermittently in tropical climates.
-
-The fruit (hesperidium) is globose to slightly oblong, 6–10 cm in diameter, with a tight-to-loose rind. Pulp color ranges from pale yellow to deep orange depending on carotenoid profile.
-
-## Distribution and Habitat
-
-Sweet orange cultivation extends from 40°N to 40°S latitude. Major producing regions include Brazil, the United States (Florida, California), China, India, Mexico, and the Mediterranean basin.
-
-Optimal growth occurs in climates with 1000–1500 mm annual rainfall distributed evenly through the [[savory-growing-season-and-non-growing-season-management]]. A 2–3 month cool period (5–15°C) is beneficial for color development and sugar accumulation.
-
-Trees are damaged by temperatures below −2°C for extended periods. [[holzer-frost-protection-techniques]] measures including wind machines, microsprinklers, and overhead irrigation are standard in marginal growing areas.
-
-In tropical lowland regions lacking a cool season, oranges remain green-skinned even when fully ripe. The chlorophyll mask prevents carotenoid color development, though internal quality is comparable to colored fruit.
-
-The species tolerates a range of soil types but performs best in well-drained sandy loams with pH 5.5–7.5. Poorly drained soils promote root rot caused by *Phytophthora* spp.
-
-## Chemistry and Nutrition
-
-Orange juice provides approximately 47 kcal per 100 mL, with 8–9% total sugars (glucose, fructose, sucrose). Vitamin C content ranges from 33–50 mg per 100 mL.
-
-The principal carotenoid pigments include β-cryptoxanthin, β-carotene, and lutein. These contribute to the characteristic orange color and provide provitamin A activity.
-
-The peel essential oil contains limonene (90–95%), myrcene, and linalool. Cold-pressed orange oil is a major commodity in flavoring and fragrance industries.
-
-Flavonoids including hesperidin and naringin are concentrated in the albedo and segment membranes. Hesperidin is the most abundant flavonoid in sweet orange, comprising up to 90% of total flavonoid content.
-
-## Cultivation
-
-Commercial orchards are typically planted at 250–400 trees per hectare. Trees begin producing fruit 3–4 years after planting and reach peak bearing capacity by years 8–12.
-
-Budding onto rootstock is the standard propagation method. Sour orange, Carrizo citrange, and Swingle citrumelo are widely used rootstocks, selected for disease resistance and soil adaptation.
-
-Citrus greening disease (huanglongbing, HLB), caused by *Candidatus Liberibacter asiaticus*, is the most devastating threat to global orange production. The disease is vectored by the Asian citrus psyllid (*Diaphorina citri*).
-
-Other significant pests include [[comparison-olive-vs-fig-vs-pomegranate-mediterranean-fruit-trees]] fly, citrus rust mite, and Florida red scale. Integrated pest management programs combine [[fukuoka-textdoc-biological-control-fallacy-pheromone-critique]] with targeted chemical applications.
+Trees are damaged by temperatures below −2°C for extended periods. [[comparison-olive-vs-fig-vs-pomegranate-mediterranean-fruit-trees]] fly, citrus rust mite, and Florida red scale. Integrated pest management programs combine [[fukuoka-textdoc-biological-control-fallacy-pheromone-critique]] with targeted chemical applications.
 
 ## Culinary and Industrial Use
 
@@ -87,3 +39,88 @@ Orange blossom water, distilled from the flowers, is used in Middle Eastern and 
 ## Varieties
 
 Sweet orange cultivars are broadly classified as common (white-fleshed), navel, blood, and acidless types. Navel oranges, characterized by a secondary fruit development at the apex, are the dominant fresh-market variety.
+
+## Overview
+
+Citrus Sinensis represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish citrus sinensis
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving citrus extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Citrus Sinensis finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for citrus sinensis. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+citrus sinensis and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Citrus Sinensis has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of citrus sinensis into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[citrus-cultivation-and-variety-guide]]
+- [[comparison-citrus-vs-mango-cultivation]]
+- [[fukuoka-citrus-orchard-natural-development]]
+- [[fukuoka-textdoc-citrus-orchard-soil-rehabilitation-timeline]]
+- [[mollison-designers-citrus-growing-and-care]]

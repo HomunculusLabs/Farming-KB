@@ -9,7 +9,7 @@ sources: []
 
 # Porcini (Boletus) Guide
 
-Porcini ([[boletus-edulis-entity]] and related species) are among the most sought-after wild mushrooms in the world. Known as "cepes" in France, "steinpilz" in Germany, "porcini" in Italy, and "king bolete" in North America, these mushrooms have a rich, nutty, meaty flavor that makes them a cornerstone of European cuisine. Like [[chanterelle-guide]] species, porcini are mycorrhizal and cannot be cultivated.
+Porcini (Boletus edulis and related species) are among the most sought-after wild mushrooms in the world. Known as "cepes" in France, "steinpilz" in Germany, "porcini" in Italy, and "king bolete" in North America, these mushrooms have a rich, nutty, meaty flavor that makes them a cornerstone of European cuisine. Like [[chanterelle-guide]] species, porcini are mycorrhizal and cannot be cultivated.
 
 ## Overview
 
@@ -21,10 +21,10 @@ Molecular research has revealed that what was traditionally considered a single 
 
 - Boletus edulis sensu stricto: Europe (the original porcino)
 - Boletus edulis var. grandedulis: western North America (the "King Bolete")
-- [[boletus-reticulatus]] (syn. B. aereus): Europe, "Dark Bolete" or "Bronze Bolete"
-- [[boletus-pinophilus]]: Europe, pine-associated, "Pine Bolete"
+- Boletus reticulatus (syn. B. aereus): Europe, "Dark Bolete" or "Bronze Bolete"
+- Boletus pinophilus: Europe, pine-associated, "Pine Bolete"
 - Boletus rex-veris: western North America, spring fruiting
-- Boletus variipes: [[polypore-fungi-eastern-north-america]], associated with oak
+- Boletus variipes: eastern North America, associated with oak
 - Boletus fibrillosus: Pacific Northwest, spruce/hemlock
 
 All are edible and excellent, with similar culinary qualities. The distinctions are primarily geographic and ecological.
@@ -45,13 +45,13 @@ All are edible and excellent, with similar culinary qualities. The distinctions 
 
 ## Mycorrhizal Ecology
 
-Porcini form [[ectomycorrhizal-associations]] with several tree genera:
+Porcini form ectomycorrhizal associations with several tree genera:
 
 - Spruce (Picea): most common association in Europe and North America
 - Pine (Pinus): especially B. pinophilus and B. reticulatus
 - Birch (Betula): common in northern Europe and North America
 - Oak (Quercus): B. variipes, B. edulis var. grandedulis
-- Beech (Fagus): common in [[psilocybe-bohemica-central-european]] forests
+- Beech (Fagus): common in central European forests
 - Chestnut (Castanea): important association in Italy and France
 - Fir (Abies): high-elevation forests
 
@@ -140,11 +140,11 @@ Drying is the traditional and preferred preservation method for porcini:
 - The drying process creates new flavor compounds (Maillard reaction products)
 - Dried porcini are a foundational ingredient in Italian, French, and German cuisines
 - Properly dried, they store for 1-2 years without quality loss
-- Reconstituted porcini provide both the mushroom and a rich soaking liquid
 
-### Drying Methods
+## See Also
 
-1. Thread on string and hang in a warm, dry, well-ventilated area
-2. Dehydrator: 95-110 F for 8-24 hours until brittle
-3. Oven: lowest setting with door propped open; 95-110 F for 6-12 hours
-4. Slice 1/4 to 1/2 inch thick for even drying
+- [[porcini-commercial-market]]
+- [[boletus-pinophilus]]
+- [[boletus-edulis-entity]]
+- [[boletus-reticulatus]]
+- [[boletus-regius]]

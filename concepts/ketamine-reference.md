@@ -17,7 +17,7 @@ Ketamine is a dissociative anesthetic with a unique pharmacological profile that
 - Chemical formula: C13H16ClNO
 - Molecular weight: 237.73 g/mol
 - CAS number: 1867-66-9
-- Structure: arylcyclohexylamine — shares [[metzner-shamanic-ceremony-versus-psychotherapy-structural-features]] with PCP (phencyclidine) and DXM (dextromethorphan)
+- Structure: arylcyclohexylamine — shares structural features with PCP (phencyclidine) and DXM (dextromethorphan)
 - Stereoisomers: exists as two enantiomers, S-ketamine (esketamine) and R-ketamine (arketamine)
 - Physical form: white crystalline powder or clear liquid (in pharmaceutical preparations)
 - Routes of administration: intravenous (IV), intramuscular (IM), intranasal, oral, sublingual
@@ -108,8 +108,8 @@ This mechanism is fundamentally different from classical psychedelics (5-HT2A ag
 ### Chronic Pain
 
 - Originally developed as an anesthetic/analgesic
-- Effective [[cannabis-for-neuropathic-pain]], CRPS, and fibromyalgia at subanesthetic doses
-- May reduce opioid [[cannabis-tolerance-and-dependence]]
+- Effective for neuropathic pain, CRPS, and fibromyalgia at subanesthetic doses
+- May reduce opioid tolerance and dependence
 
 ### PTSD and Addiction
 
@@ -127,8 +127,8 @@ This mechanism is fundamentally different from classical psychedelics (5-HT2A ag
 - Visual distortions (not typically true hallucinations at therapeutic doses)
 - Altered body image (feeling larger/smaller, floating)
 - Dreamlike or trance-like state
-- Enhanced introspection and [[blesching-cannabis-emotional-processing-expansive-constricting-emotions]]
-- Some users describe [[default-mode-network-and-ego-dissolution]] at higher doses
+- Enhanced introspection and emotional processing
+- Some users describe ego dissolution at higher doses
 
 ### Psychological Aftereffects
 
@@ -140,11 +140,11 @@ This mechanism is fundamentally different from classical psychedelics (5-HT2A ag
 ### Side Effects
 
 - Transient blood pressure and heart rate increase (monitored during clinical use)
-- Nausea, vomiting, dizziness, visual disturbances
-- Confusion and disorientation during the experience
-- Bladder toxicity with chronic recreational use (ketamine bladder syndrome)
-- Cognitive impairment and psychological dependence risk with chronic heavy use
 
-## Safety and Contraindications
+## See Also
 
-### Contraindications
+- [[ketamine-psychedelic-journey-guide]]
+- [[ketamine-ultimate-psychedelic-journey]]
+- [[ketamine]]
+- [[mckenna-taxonomy-hallucinogenic-demons-ions-mind-ketamine-stuttering-blind]]
+- [[turner-ketamine-combinations-and-cydelikspace-navigation]]

@@ -27,7 +27,7 @@ A side-by-side reference for growers choosing between the three classic Mediterr
 
 ## Quick Reference Table
 
-| Dimension | Olive (*[[olea-europaea]]*) | Fig (*[[ficus-carica]]*) | Pomegr  granatum*) |
+| Dimension | Olive (*[[ficus-carica]]*) | Pomegr  granatum*) |
 |---|---|---|---|
 | **Ideal Climate** | Mediterranean, warm/dry summers | Mediterranean, subtropical | Mediterranean, semi-arid |
 | **USDA Hardiness** | 8–11 | 6–11 (varies by cultivar) | 7–10 |
@@ -39,93 +39,13 @@ A side-by-side reference for growers choosing between the three classic Mediterr
 | **Primary Product** | Olive oil, table olives | Fresh/dried fruit | Fresh arils, juice, ornamental |
 | **Chill Hours** | 200–500 (low) | 100–300 (very low) | 100–200 (very low) |
 | **Pollination** | Mostly self-fertile; wind-pollinated | Self-fertile; parthenocarpic common | Self-fertile; bee-pollinated |
-| **[[dighton-fungal-drought-tolerance-plant-water-relations]]** | Excellent (roots to 6 m) | Good once established | Very good; deep taproot |
-
-## Botanical Overview
-
-- **Olive (*Olea europaea*)**: Evergreen tree in the Oleaceae family, native to the Mediterranean basin. Narrow, leathery grey-green leaves with silvery undersides. Extremely long-lived; some specimens exceed 1,000 years. Oil content in fruit ranges 15–30% depending on cultivar and water stress.
-
-- **Fig (*Ficus carica*)**: Deciduous (or semi-deciduous in mild climates) member of the Moraceae family. Large, deeply lobed palmate leaves. Produces a syconium (inverted flower structure). Many cultivars produce two crops: a *breba* crop on old wood in spring and a *main* crop on new wood in late summer.
-
-- **Pomegranate (*Punica granatum*)**: Deciduous shrub or small tree, sole member of the family Lythraceae (formerly Punicaceae). Brilliant orange-red flowers, glossy dark-green foliage. The fruit is a berry (botanically a balausta) containing 200–1,400 arils. Native from Iran to northern India.
-
-## Climate Adaptability and Hardiness Zones
-
-Olives are the most heat-tolerant of the three, thriving where summer temperatures regularly exceed 35 °C (95 °F). They suffer damage below −7 °C (20 °F) and die below −12 °C (10 °F). Figs are the most cold-hardy — cultivars like 'Chicago Hardy' and 'Celeste' survive in zone 6 with dieback, regrowing from roots each spring. Pomegranates sit in between; hardy to about −12 °C, with Russian cultivars (e.g., 'Salavatski') pushing zone 6 survivability.
-
-All three share a preference for hot, dry summers and mild, wet winters — the classic Mediterranean climate pattern. Humid summer climates (e.g., US Southeast) favor figs but challenge olives due to [[bloomfield-amphibian-decline-fungal-disease-climate-interactions]] pressure (especially *Verticillium* wilt and peacock spot).
+| **[[bloomfield-amphibian-decline-fungal-disease-climate-interactions]] pressure (especially *Verticillium* wilt and peacock spot).
 
 ## Water Requirements and Drought Tolerance
 
 Olive is the undisputed drought champion. Mature trees survive on 250–400 mm (10–16 in) of annual rainfall with no irrigation, drawing water from roots extending 6+ meters. Stressing olives reduces yield but concentrates oil — a deliberate technique in dry-farming traditions.
 
-Figs require more consistent moisture for good fruit quality (500–800 mm annual). Under severe drought they drop fruit but survive; mulching is critical. Pomegranates tolerate 300–500 mm annually and have a deep taproot (up to 4.5 m) that sustains them through dry pe [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]] lture design: olives and pomegranates are the best choices for unirrigated or low-irrigation zones; figs work well in swale-adjacent or greywater-influenced areas.
-
-## Soil Preferences and Adaptability
-
-Olive trees are famously unfussy — they grow in rocky, calcareous, and even saline soils (up to EC ~6 dS/m). They require excellent drainage; waterlogging kills roots within days. pH 6.0–8.0 is acceptable.
-
-Figs adapt to a wide range but perform best in deep, well-drained loams with pH 6.0–6.5. They tolerate somewhat heavy soils better than olives but still suffer in persistently waterlogged conditions. Figs also handle moderate salinity.
-
-Pomegranates prefer loamy soils (pH 5.5–7.2) and are somewhat more demanding than olives about soil depth and fertility for optimal production. They tolerate mild alkalinity but struggle in highly saline soils.
-
-## Pollination and Fruiting Characteristics
-
-All three species are predominantly self-fertile, making single-tree planting viable — a significant advantage for small homesteads.
-
-- **Olive**: Wind-pollinated; most commercial cultivars ('Arbequina', 'Koroneiki', 'Mission') set fruit alone. Cross-pollination can increase yield by 10–20% in some varieties ('Manzanillo' benefits from 'Sevillano' nearby).
-- **Fig**: No pollination needed for most common cultivars — they are *persistent* (parthenocarpic). The *Smyrna* type requires caprification by a fig wasp (*Blastophaga psenes*), which is rare outside California's Central Valley.
-- **Pomegranate**: Self-fertile; pollinated by bees and hummingbirds. 'Wonderful' is the standard commercial cultivar and sets heavy crops alone.
-
-## Pruning and Training Differences
-
-**Olive**: Train to a central leader or vase shape in early years. Mature trees need annual light pruning to open the canopy and remove suckers from the base. Olives fruit on one-year-old wood; aggressive pruning reduces yield the following season. Harvest pruning (after picking) is standard.
-
-**Fig**: Often grown as a multi-trunk bush for cold hardiness (easier to protect and regenerate). Minimal pruning needed — thin for airflow and remove dead wood. Caprifig-type pruning is not applicable to common garden varieties.
-
-**Pomegranate**: Naturally shrubby; often trained to 3–5 main trunks. Remove suckers and shape into a vase form. Fruiting occurs on new growth, so moderate annual pruning encourages productivity. Remove crossing branches and shape the canopy.
-
-## Pest and Disease Profiles
-
-| Issue | Olive | Fig | Pomegranate |
-|---|---|---|---|
-| **Olive fruit fly** | Major pest (med fly) | — | — |
-| **Olive knot** | Bacterial (tumors on branches) | — | — |
-| **Fig beetle / dried fruit beetle** | — | Common; ruins ripe fruit | Can be a nuisance |
-| **Fig rust** | — | Fungal leaf disease in humidity | — |
-| **Nematodes** | Root-knot in sandy soils | Root-knot common | Root-knot nematode significant |
-| **Botryosphaeria** | Branch canker | Branch dieback | Can cause cankers |
-| **Verticillium wilt** | Serious in wet soils | Moderate risk | Less common |
-| **Leaf-footed bug** | — | — | Major pest; damages arils |
-| **Overall vulnerability** | Moderate (climate-dependent) | Low–moderate | Low–moderate |
-
-Figs generally have the fewest serious pest issues. Organic management is feasible for all three with proper monitoring and cultural practices.
-
-## Harvest Timeline and Yield Expectations
-
-| | Olive | Fig | Pomegranate |
-|---|---|---|---|
-| **Bearing age** | 3–5 years | 2–4 years | 3–5 years |
-| **Full production** | 7–15 years | 5–8 years | 6–8 years |
-| **Yield per tree** | 20–100 kg olives; 3–6 L oil | 10–50 kg fruit | 15–60 kg fruit |
-| **Harvest method** | Raking, mechanical shakers | Hand-pick (soft fruit) | Hand-pick (commercial: mechanical) |
-
-Fig yields can be erratic — alternate bearing is common. Olives are steady producers once mature. Pomegranates are reliable and increase yield steadily with age.
-
-## Culinary and Economic Uses
-
-- **Olive**: Oil production (extra virgin is highest value), table olives (curing: brine, dry salt, lye), wood (craftsmanship), ornamental.
-- **Fig**: Fresh eating, drying (concentrated sugar — 50%+), jams, preserves, baking, livestock feed.
-- **Pomegranate**: Fresh arils, pomegranate juice (major commercial product), grenadine syrup, molasses (*dibbs rumman*), ornamental landscape value (especially dwarf cultivars like 'Nana').
-
-Economically, olives dominate in oil-producing regions. Pomegranate juice is a high-value niche market. Figs serve well in diversified farmstands and direct-to-consumer channels.
-
-## Role in Permaculture and Food Forest Design
-
-All three are excellent permaculture candidates. Key design considerations:
-
-- **Canopy layer**: Olive (high canopy) → Pomegranate (mid) → Fig (variable, often multi-trunk bush layer).
-- **Guild partners**: Olives pair with lavender, rosemary, and nitrogen-fixing understory. Figs benefit from comfrey and mulch plants. Pomegranates work well with [[query-best-mediterranean-herbs-for-beginner-herb-garden]] and alliums.
+Figs require more consistent moisture for good fruit quality (500–800 mm annual). Under severe drought they drop fruit but survive; mulching is critical. Pomegranates tolerate 300–500 mm annually and have a deep taproot (up to 4.5 m) that sustains them through dry pe [[query-best-mediterranean-herbs-for-beginner-herb-garden]] and alliums.
 - **Windbreak function**: Olives make excellent windbreaks (evergreen, wind-resistant).
 - **Fire resistance**: All three have relatively high fire resistance due to moisture content and leaf structure — useful in fire-prone Mediterranean landscapes.
 
@@ -141,6 +61,90 @@ All three are excellent permaculture candidates. Key design considerations:
 - ❌ Slow to reach full production
 ## See Also
 
-- [[mollison-designers-olive-fig-and-mediterranean-tree-crops]]
 - [[comparison-central-leader-vs-open-center-fruit-tree-training]]
 - [[query-how-do-i-graft-fruit-trees-in-a-home-orchard]]
+
+## Overview
+
+Comparison Olive Vs Fig Vs Pomegranate Mediterranean Fruit Trees represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish comparison olive vs fig vs pomegranate mediterranean fruit trees
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving comparison extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Comparison Olive Vs Fig Vs Pomegranate Mediterranean Fruit Trees finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for comparison olive vs fig vs pomegranate mediterranean fruit trees. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+comparison olive vs fig vs pomegranate mediterranean fruit trees and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Comparison Olive Vs Fig Vs Pomegranate Mediterranean Fruit Trees has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of comparison olive vs fig vs pomegranate mediterranean fruit trees into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[comparison-beeswax-vs-shellac-vs-carnauba-wax]]
+- [[comparison-bioaugmentation-vs-biostimulation]]
+- [[comparison-gypsum-vs-rock-phosphate]]
+- [[comparison-light-straw-clay-vs-hempcrete]]
+- [[comparison-tomato-vs-pepper-growing]]

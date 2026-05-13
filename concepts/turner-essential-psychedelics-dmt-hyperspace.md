@@ -11,18 +11,10 @@ tags: [dmt, psychedelics]
 # DMT Hyperspace
 
 D.M. Turner's chapter "DMT -- Candy for the Mind" provides one of the most vivid
-first-person accounts of the [[mckenna-dmt-experience-and-hyperspace]] in underground psychedelic literature.
-He rates N,N-DMT at intensity 9-10, the highest in his entire guide.
-
-## Nature and Origins
-
-N,N-Dimethyltryptamine (DMT) is a naturally occurring psychedelic found in
-numerous plants worldwide, especially the Amazon region. It is also an
-endogenous neurotransmitter produced in the human [[mckenna-tryptamine-endogenous-dmt-pineal-gland-theory]] -- correlated to
+first-person accounts of the [[mckenna-tryptamine-endogenous-dmt-pineal-gland-theory]] -- correlated to
 the "3rd eye" or Ajna Chakra. Turner suggests that meditative states attained by
 yogis concentrating on the 3rd eye may result from increased DMT levels. DMT
-has been consumed for centuries as Yopo/Epena snuffs ([[yopo-anadenanthera-peregrina-snuff]],
-[[virola-theiodora]]) and as [[ayahuasca]]/Yage brews combined with [[turner-harmala-alkaloids-preparation-and-dosage]].
+has been consumed for centuries as Yopo/Epena snuffs ([[virola-theiodora]]) and as [[turner-harmala-alkaloids-preparation-and-dosage]].
 
 ## Onset and Intensity
 

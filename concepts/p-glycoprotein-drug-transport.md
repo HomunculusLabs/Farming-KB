@@ -54,25 +54,7 @@ strong.
 
 ## Pharmacokinetic Effects
 
-[[first-pass-metabolism-and-oral-bioavailability]] can decrease when an orally administered drug is a strong P-gp substrate. Absorbed
-molecules may be cycled from enterocytes back into the intestinal lumen, giving metabolic enzymes additional
-opportunities to act before the drug reaches systemic circulation.
-
-Clearance can increase when hepatic or renal P-gp efficiently secretes a compound. Conversely, inhibition of
-the transporter can raise drug exposure. The effect is largest when transport is a limiting step and when the
-affected tissue contributes substantially to disposition.
-
-P-gp also shapes distribution half-life. Drugs may enter a protected tissue slowly, be expelled rapidly, or
-show nonlinear accumulation if the transporter becomes saturated. These kinetic patterns can matter for
-efficacy, toxicity, and withdrawal of central effects.
-
-## Drug Interactions
-
-Transporter-mediated interactions occur when one compound inhibits, induces, or competes for P-gp while
-another compound depends on it for disposition. Inhibition can increase exposure to a substrate drug.
-Induction can reduce exposure and therapeutic effect.
-
-Clinically important examples often involve narrow [[cannabis-therapeutic-index-overview]] drugs, cardiovascular agents,
+[[cannabis-therapeutic-index-overview]] drugs, cardiovascular agents,
 immunosuppressants, anticancer drugs, antiretrovirals, and central nervous system drugs. The practical
 question is not whether a molecule touches P-gp in vitro, but whether concentrations at the relevant tissue
 are high enough to change patient exposure.
@@ -90,4 +72,9 @@ allowing tumor cells to survive concentrations that would otherwise be lethal.
 This mechanism is conceptually simple but clinically difficult to exploit. Direct P-gp inhibitors can cause
 
 ## See Also
-- [[plant-cell-membrane-transport-proteins-channels-carriers-and-pumps]]
+
+- [[peruvian-drug-war-and-ayahuasca-acceptance]]
+- [[cytochrome-p450-enzymes-drug-metabolism]]
+- [[ayahuasca-drug-interactions]]
+- [[weil-drug-use-as-innate-human-drive]]
+- [[metzner-non-drug-methods-consciousness-transformation]]

@@ -8,38 +8,7 @@ sources: ["Shulgin - PIHKAL"]
 ---
 # SB
 
-[[2c-b-pihkal-entry-20]] #144. SYMBESCALINE; 3,5-DIETHOXY-4-METHOXYPHENETHYLAMINE.
-
-## Chemical Name
-
-SYMBESCALINE; 3,5-DIETHOXY-4-METHOXYPHENETHYLAMINE
-
-## Dosage and Duration
-
-| Property | Value |
-|----------|-------|
-| Dosage | above 240 mg. |
-| Duration | unknown. |
-
-## Qualitative Comments
-
-> (with 120 mg) There were no effects. Sleep
-> that evening was strange, however, and I was fully awake at 4:00 AM,
-> alert, and mentally restless. And there was a strange outburst of
-> anger in the mid-morning. Might these be related to the material the
-> previous day?
->
-> (with 240 mg) There was a slight chill that reminded me that I had
-> taken symbescaline a half hour earlier. There was what might be
-> called a vague threshold for about three hours, then nothing more.
-> This material had a God-awful taste that lingers in the mouth far too
-> long. If ever again, it will be in a gelatin capsule.
-
-## Extensions and Commentary
-
-It must be concluded that SB is "probably"
-not active. There was no convincing evidence for much effect at
-levels that would clearly be active for [[mescaline]]. This is the kind
+[[mescaline]]. This is the kind
 of result that puts some potentially ambiguous numbers in the
 literature. One cannot say that it is inactive, for there might well
 be something at 400 or 800 or 1200 milligrams. But since it has been
@@ -88,3 +57,88 @@ appropriately depressed (mp 137-140 deg C.).
 
 A solution of 7.6 g 2,6-diethoxyphenol in 40 mL MeOH was treated with
 4.9 g of a 40% aqueous solution of dimethylamine followed by 3.6 g of
+
+## Overview
+
+Sb Entity Pihkal represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish sb entity pihkal
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving sb extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Sb Entity Pihkal finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for sb entity pihkal. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+sb entity pihkal and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Sb Entity Pihkal has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of sb entity pihkal into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[2c-c-entity]]
+- [[2c-o-4-entity]]
+- [[4-ho-dbt-entity-tihkal]]
+- [[mckenna-dmt-i-thou-relationship-entity-encounter-ethics]]
+- [[pyrethrum-entity]]

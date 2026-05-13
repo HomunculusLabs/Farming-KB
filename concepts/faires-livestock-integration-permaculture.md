@@ -4,30 +4,24 @@ created: 2026-04-26
 updated: "2026-04-24"
 sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
-  - "[[nicole-faires]], The Ultimate Guide to comparison-natural-farming-vs-permaculture and natural-farming-sustainable-living-principles"
+  - "nicole-faires, The Ultimate Guide to comparison-natural-farming-vs-permaculture and natural-farming-sustainable-living-principles"
 type: concept
 tags: [animal-husbandry, culture, permaculture]
 ---
 
 # Livestock Integration in Permaculture Systems
 
-In permaculture, animals are integrated as functional elements that provide multiple outputs: meat, eggs, milk, manure, [[hamilton-beneficial-insects-and-biological-pest-control]], [[fukuoka-textdoc-weed-control-with-weeds-rice-barley-clover-discovery]], and soil building. Every animal is placed where its behaviors benefit the overall system.
+In permaculture, animals are integrated as functional elements that provide multiple outputs: meat, eggs, milk, manure, [[fukuoka-textdoc-weed-control-with-weeds-rice-barley-clover-discovery]], and soil building. Every animal is placed where its behaviors benefit the overall system.
 
 ## Design Principles
 
 Animals are positioned by zone based on how often they need attention. Chickens, rabbits, and ducks go in Zone 2 (near the house for daily egg collection). Goats, cows, and sheep go in Zone 3. Pigs and large grazing animals work well in Zone 4 forest areas.
 
-The key principle is matching outputs with inputs: chickens produce manure (output) near the [[mushroom-cultivator-compost-pile-management]] (input); the barn on a slope allows manure to be pushed through floor slats into a lower level for composting. When starting out, crowd everything in as much as possible — it is easier to thin things out than wait for them to grow.
-
-Each element is placed in relation to everything else and to you: next to, close by, behind, away from. A chicken coop is placed in Zone 2 bordering Zone 1 because you must visit daily for eggs. It should be next to the [[fukuoka-dutch-priest-vegetable-garden-spiritual-renewal]] for easy manure movement and connect to a forage garden.
+The key principle is matching outputs with inputs: chickens produce manure (output) near the [[fukuoka-dutch-priest-vegetable-garden-spiritual-renewal]] for easy manure movement and connect to a forage garden.
 
 ## Chickens
 
-Place on the edge of Zone 1, bordering the Zone 2 orchard. They provide meat, eggs, feathers, fertilizer, pest control, [[jadam-soil-management-no-till-and-weed-control]].
-
-**Coop design**: At least 3 sq ft per chicken. A 7x7 ft coop holds 16 chickens. Set on stilts so manure drops through slats into a swale or wheelbarrow. Include roosts (18 inches from wall) and nesting boxes (one per two hens, 12x12 inches, attached to outside with lid for egg collection without entering). Door should be 12 inches high in the roof peak — deters predators and provides ventilation. Fox-proof ladder: 5 feet wide with 3-foot rung spacing.
-
-**[[comparison-chicken-tractor-vs-free-range]]**: Movable A-frame housing 3-8 birds with open floor. Each chicken needs 3 sq ft including pen space. The floor is open so birds eat directly and manure falls to ground.
+Place on the edge of Zone 1, bordering the Zone 2 orchard. They provide meat, eggs, feathers, fertilizer, pest control, [[comparison-chicken-tractor-vs-free-range]]**: Movable A-frame housing 3-8 birds with open floor. Each chicken needs 3 sq ft including pen space. The floor is open so birds eat directly and manure falls to ground.
 
 - Never let chickens into mulched gardens (Zones 1-3) as they destroy mulch
 - Bantams or small chickens can forage in young unmulched orchards
@@ -52,26 +46,7 @@ Ducks are the gentlest and most versatile poultry. They eat algae, weeds, slugs,
 
 ## Pigs
 
-Pigs work well in Zone 4 forest areas. They root and clear land effectively but can be destructive. Each sow needs at least 2.5 acres for forage. [[query-how-do-i-grow-figs-in-cold-climates]] they need a three-sided shed; a farrowing pen is needed for birthing.
-
-- Sows are generally gentle with regular handling; boars can be aggressive
-- Piglets need 86°F (30°C) and huddle together; farrowing pen has dividers for piglets
-- Lactating sows need 7-12 lbs of grain per day
-- Automatic waterers with spray capability keep them cool since pigs cannot sweat
-
-## Goats
-
-Goats excel at clearing tough brush and brambles. Keep no more than one per person. They are clever escape artists requiring 4.5-foot fencing with no gaps wider than 8 inches.
-
-- 0.25 acre per goat with legume-grass hay (4-5 lbs/day)
-- Need loose mineralized salt (will not lick blocks) and fresh clean water
-- Rotate to new pasture every 3 weeks (stomach worm lifespan)
-- Tree forage is especially valuable; they eat higher leaves first and work down
-- Fence height and Y-shaped yokes deter escape attempts
-
-## Sheep and Cattle
-
-Sheep can enter orchards only after trees are 7+ years old and must be carefully controlled. A legume-grass mix feeds 5 ewes and 8 lambs per acre, rotated weekly. Tree forage provides food, shelter, soil benefits, [[query-role-of-fungi-in-soil-aggregation-and-erosion-prevention]].
+Pigs work well in Zone 4 forest areas. They root and clear land effectively but can be destructive. Each sow needs at least 2.5 acres for forage. [[query-role-of-fungi-in-soil-aggregation-and-erosion-prevention]].
 
 Forage system development takes 5-10 years: Year 1 is 10% trees, Year 5 is 40% trees. Forage trees include fig, poplar, willow, chestnut, oak, and pine.
 
@@ -118,8 +93,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[permaculture]]
 - [[doc]]
-- [[det]]
 - [[composting]]
 - [[swale]]

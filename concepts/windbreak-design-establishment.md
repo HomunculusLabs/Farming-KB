@@ -8,73 +8,7 @@ type: concept
 
 ## Overview
 
-Windbreaks and shelterbelts are among the most critical infrastructure elements in [[permaculture-design]], especially on exposed coastal, island, subtropical, and hill sites. Properly designed windbreaks can mean the difference between some crop and a good crop—and in severe wind areas, between a crop and total crop failure. This concept covers the principles, species selection, establishment methods, and design strategies for effective wind protection systems.
-
-## Why Windbreaks Matter
-
-### Crop Protection
-
-- Winds of **8 km/h** are harmless to crops
-- Winds of **24 km/h** reduce crop production and cause weight loss in animals
-- Winds of **32–40 km/h** cause mechanical damage to plants that exceeds all other effects
-- Trees are severely wind-pruned by mechanical damage, salt burn near coasts, sandblast in dunes, and iceblast in cold climates
-- Wind transport of sand buries fences, buildings, trees, and crops in deserts and incipient deserts
-
-### Building Energy Savings
-
-Shelterbelts around houses achieve a **20–30% saving in heating fuels** in moderate to severe winters because wind chill factors remove approximately 60% of heat from glazed areas and flat-plate solar collectors. In cold areas, earth banks plus shelterbelts combined with a sun-facing aspect constitute a critical design strategy.
-
-### Livestock Protection
-
-- Blizzards kill livestock and newborn lambs
-- Hardy animals can lose **30% of bodyweight in 3 days** of blizzard
-- Fences must be designed to avoid forming downwind or downslope traps—herds escaping blizzards will pile up against them and smother in fenced corners
-- All moorland and high plateau fences should allow easy downwind escape to woodlots, sheltered valleys, or lower elevations
-
-### Desert Heat Reduction
-
-In deserts, where advected (wind-carried) heat is the most severe effect on human comfort, shelterbelt trees reduce ground temperatures by up to **15°C**.
-
-## Windbreak Design Principles
-
-### Permeability
-
-Effective windbreaks should have **40–50% penetrability** in the front line or dominant species. Solid barriers create excessive turbulence on the leeward side, while overly porous barriers provide insufficient protection. The optimal permeability allows wind to pass through at reduced velocity while preventing violent eddies.
-
-### Pattern Design by Wind Predictability
-
-**Predictable wind patterns** (revealed by tree flagging, local knowledge, or wind records):
-- Plan directional, patterned windbreaks of earth bank and trees aligned to the prevailing wind direction
-- Arrange buildings, gardens, and animal shelters to face the sun and benefit from solar impact within the protected zone
-
-**Unpredictable or multi-directional winds** (some deserts):
-- Impose a close rectangular or network pattern of windbreaks
-- More intensive coverage needed since severe winds and sandblast may arrive from any direction
-
-### Multiple Row Strategy
-
-On coasts and in deserts, it is not until after the **fourth or even fifth tree row** develops that wind-prone fruit or nut-bearing trees will yield. Windbreak establishment is therefore the **first priority** for gardens in these situations.
-
-## Species Selection for Windbreaks
-
-### Wind-Resistant Plant Characteristics
-
-Plants that survive severe wind share common adaptive features for resisting desiccation and sandblast:
-
-| Adaptation | Examples |
-|---|---|
-| Fibrous stems | Palms |
-| Fleshy, succulent leaves | Aloes, agaves, Euphorbias |
-| Hard, needle-like leaves or stems | Pines, tamarisks, Casuarinas, some Acacias |
-| Hairy (tomentose) leaf covers | Coprosma, some Acacias |
-| Waxy leaf surfaces | Eucalypts, some pines, some Acacias |
-
-### Pioneer Species
-
-- Must be easily grown from seed or cutting
-- Should tolerate full exposure and drought
-- Need to establish quickly to provide initial protection
-- Example: Silver wattle (*[[acacia-dealbata]]*) as a frost-tolerant legume pioneer
+Windbreaks and shelterbelts are among the most critical infrastructure elements in [[acacia-dealbata]]*) as a frost-tolerant legume pioneer
 
 ### Fire and Wind Resistance Overlap
 
@@ -147,3 +81,11 @@ In windbreak forests near coasts, **small openings of 6–9 m (20–30 feet)** p
 Across the flat peninsula of Kalaupapa on Moloka'i, Hawaiians built tiny stone fences of 25–50 cm (10–20 inches) high, only 4.5–5 m (15–18 feet) apart, behind which they grew sweet potato crops with tough fern mulch. Wild date palms still struggle to 4.5 m (15 feet) in the teeth of the trade winds, demonstrating the persistent challenge of coastal wind exposure.
 ## See Also
 - [[windbreak-design-establishment-methods]]
+
+## See Also
+
+- [[comparison-windbreak-vs-thermal-mass]]
+- [[windbreak-design-and-configurations]]
+- [[coastal-windbreak-systems-and-plant-wind-tolerance]]
+- [[mollison-designers-windbreak-configurations-for-crops-and-orchards]]
+- [[bill-mollison-permaculture-a-designers-manual-windbreak-design-and-shelter]]

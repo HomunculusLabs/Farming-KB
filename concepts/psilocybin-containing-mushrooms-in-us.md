@@ -9,10 +9,8 @@ sources: [/Users/t3rpz/wiki/raw/papers/halpern-m-hallucinogens-dissociative-agen
 type: concept
 ---
 
-# [[psilocybe-cubensis]] and other Psilocybe species, commonly known as
-"[[guzman-magic-mushrooms-african-species]]," contain the hallucinogenic compounds psilocybin
-(4-phosphoryloxy-N,N-dimethyltryptamine) and [[hallucinogenic-plants-native-to-united-states]],
-[[paul-stamets]] provide
+# [[guzman-magic-mushrooms-african-species]]," contain the hallucinogenic compounds psilocybin
+(4-phosphoryloxy-N,N-dimethyltryptamine) and [[paul-stamets]] provide
 comprehensive identification resources.
 
 ## Geographic Distribution in the US
@@ -35,18 +33,12 @@ environments for these fungi.
 ## Misidentification Risks
 
 Misidentification of wild mushrooms is the most significant danger
-associated with [[emcdda-psilocybin-non-addictive-profile-tolerance-dynamics]] use. Many [[growing-gourmet-poisonous-mushroom-lookalikes]]
+associated with [[growing-gourmet-poisonous-mushroom-lookalikes]]
 species grow in the same habitats as Psilocybe species, and
 inexperienced foragers risk consuming toxic look-alikes. This risk
 can result in serious illness or death from liver failure or other
 organ damage caused by truly poisonous species such as Galerina
 species, which can resemble small Psilocybe mushrooms.
-
-[[falconer-growing-mushrooms-in-sheds]] from verified spore prints eliminates the risk of
-false identification and potential poisoning from wild-sourced
-specimens.
-
-## Preparation and Dosage
 
 [[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]] are typically dried and eaten directly. They may
 also be brewed into a tea to reduce nausea. Fresh mushrooms can be

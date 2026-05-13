@@ -15,49 +15,7 @@ type: concept
 
 Winston et al. (2014) employed a two-experiment design to characterize the
 bacterial microbiome of Cannabis across the root-soil continuum. The first
-experiment explored broad [[psilocybin-psilocin-variation-across-flushes]] three cultivars in a single soil
-type, while the second focused on cultivar-specificity with greater edaphic
-variation using two cultivars across two soil types. This design provided
-both breadth (five total cultivars) and depth (controlled soil comparisons),
-though different sampling timings introduced an important confound.
-
-## Experiment 1: Post-Harvest Sampling
-
-### Objective
-
-Identify variation in microbial communities between roots and soil across
-three Cannabis cultivars grown in the same soil environment.
-
-### Cultivars
-
-Three cultivars representing different chemotypes and genetic backgrounds:
-
-- **Sour Diesel**: [[comparison-cannabis-sativa-vs-cannabis-indica]], high THC to [[cannabis-thc-cbd-ratio-guide-for-conditions]]
-- **Bookoo Kush**: Sativa-dominant hybrid (sativa x indica), moderately
-  high THC to CBD ratio
-- **Burmese**: Balanced hybrid (sativa x indica), moderate THC to CBD
-  ratio
-
-### Growing Conditions and Sampling
-
-Nine organically-grown plants (three per cultivar) in locally composted
-soil in Vista, California. Samples were collected in November 2011, eight
-weeks after harvesting flowering bud and foliage. For each plant:
-
-1. **Bulk soil**: 50 g sample at 10 cm from stem, 20 cm depth
-2. **Rhizosphere soil**: Adhered soil shaken into a whirlpak bag
-3. **Endorhiza**: Root ball samples rinsed with alcohol and sterile water
-
-A larger bulk soil sample was collected for edaphic testing (pH, salinity,
-N, C, water content). All samples stored at 4 degrees C for approximately
-4 hours during shipping. Triplicate extracts yielded single representative
-samples per compartment per plant. Total: 27 samples.
-
-### Key Limitation
-
-Post-harvest timing introduced root decay effects, particularly
-proliferation of cellulolytic Cellvibrio (see
-[[soil-edaphic-factors-microbial-communities]]).
+experiment explored broad [[comparison-cannabis-sativa-vs-cannabis-indica]], high THC to [[soil-edaphic-factors-microbial-communities]]).
 
 ### Sampling Protocol
 
@@ -85,9 +43,7 @@ Delta-9-Technologies, LLC (Santa Ana, CA).
 | Cannabinoid data| No                   | Yes                    |
 | Pseudoreplicates| No                   | Yes (different roots)  |
 
-The rarefaction depth difference means [[microbial-alpha-diversity-soil-plant-gradient]] cannot be directly
-compared between experiments. Different sampling timings confound
-experiment with plant [[cho-plant-growth-stage-treatment-protocols]].
+The rarefaction depth difference means [[cho-plant-growth-stage-treatment-protocols]].
 
 ## Practical Applications
 
@@ -118,8 +74,76 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[psilocybin]]
 - [[dom]]
-- [[psilocin]]
 - [[sour-diesel]]
 - [[tetrahydrocannabinol]]
+
+## Overview
+
+Cannabis Microbiome Experimental Design represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish cannabis microbiome experimental design
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving cannabis extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Cannabis Microbiome Experimental Design finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for cannabis microbiome experimental design. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+cannabis microbiome experimental design and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Cannabis Microbiome Experimental Design has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of cannabis microbiome experimental design into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.

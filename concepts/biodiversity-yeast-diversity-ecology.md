@@ -16,14 +16,7 @@ type: concept
 
 # Yeast Diversity, Ecology, and Molecular Systematics
 
-Comparisons of [[ribosomal-rna-sequencing-yeast-identification]] (rRNA) and its template ribosomal DNA
-(rDNA) have fundamentally transformed our understanding of yeast
-biodiversity and evolutionary relationships. Ribosomes are present in
-all cellular organisms and share a common evolutionary origin, providing
-a molecular history shared by all organisms. Some rRNA/rDNA sequences
-are sufficiently conserved to serve as reference points for aligning
-less conserved regions used to measure evolutionary relationships.
-The application of these [[molecular-tools-bioremediation]] has resolved long-standing
+Comparisons of [[molecular-tools-bioremediation]] has resolved long-standing
 questions about yeast phylogeny and enabled rapid identification of
 species.
 
@@ -45,39 +38,8 @@ colleagues (1990) and Vilgalys and Hester (1990).
 
 The 5S rRNA molecule (approximately 120 nucleotides) was widely used
 for broad phylogenetic estimates. Walker and Doolittle (1982) showed
-that 5S rRNA similarity among [[basidiomycetous-yeasts-ballistoconidia-biocontrol]] correlated with
-[[fungal-woronin-bodies-and-septal-pore-organization]] type. Among ascomycetous yeasts, Schizosaccharomyces pombe
-was found to be phylogenetically distant from [[saccharomyces-cerevisiae]].
-However, the informationally richer 18S and 26S rRNA molecules have
-now replaced 5S rRNA for most analyses. The 5.8S rRNA (about 160
-nucleotides) contains modified nucleotides but has yielded limited
-phylogenetic resolution; it is increasingly studied as part of ITS
-regions.
-
-The 5-prime end of large subunit rRNA is quite variable and useful for
-identifying closely related species. Peterson and Kurtzman (1991)
-showed that nucleotide differences in the approximately 300-nucleotide
-D2 domain (positions 25S-635) distinguish nearly all sibling species.
-Kurtzman and Robnett (1998) extended this work, sequencing a 600-
-nucleotide D1/D2 region for approximately 500 currently recognized
-ascomycetous yeast species. Strains differing by 1 percent or more
-substitutions in D1/D2 are separate species, while conspecific strains
-show 0 to 1 percent divergence. A similar correlation exists for
-basidiomycetous yeasts (Fell et al. 2000).
-
-## Ascomycetous Yeast Phylogeny
-
-rRNA/rDNA comparisons have produced several major findings: (1) yeasts
-are phylogenetically separate from euascomycetes, forming a sister
-clade; (2) Schizosaccharomyces is phylogenetically distant from the
-budding-yeast clade, warranting reassignment to Schizosaccharomycetales;
-(3) many phenotypic characters, including ascospore morphology, are
-poor indicators of phylogenetic relationships. Ascosporogenous yeasts,
-except Schizosaccharomyces, form a monophyletic clade. Schizosaccharomyces,
-Protomyces, Taphrina, Saitoella, and Pneumocystis form a divergent
-basal clade provisionally termed "Archiascomycetes."
-
-Eremascus species, forming asci unenclosed in [[bloomfield-asterophora-and-mycoparasites-of-fruiting-bodies]], align
+that 5S rRNA similarity among [[fungal-woronin-bodies-and-septal-pore-organization]] type. Among ascomycetous yeasts, Schizosaccharomyces pombe
+was found to be phylogenetically distant from [[bloomfield-asterophora-and-mycoparasites-of-fruiting-bodies]], align
 with euascomycetes. Budding cannot define yeasts alone: Ascoidea and
 Eremothecium show no typical budding, while Aureobasidium and
 Phialophora (euascomycetes) are dimorphic. Sexual states of all yeast
@@ -118,8 +80,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[dom]]
 - [[soma]]
-- [[spore]]
 - [[rhodotorula-yeast-biodiversity-ecology]]
 - [[yeast-biodiversity-isolation-ecology]]

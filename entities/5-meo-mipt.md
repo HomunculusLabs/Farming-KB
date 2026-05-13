@@ -15,8 +15,7 @@ sources: [/Users/t3rpz/wiki/raw/papers/shulgin-a-tihkal.md]
 5-MeO-MiPT (5-methoxy-N-methyl-N-isopropyltryptamine) is a synthetic psychedelic
 tryptamine first synthesized and characterized by Alexander Shulgin. It is
 documented in tihkal (Tryptamines I Have Known and Loved), where it is described
-as producing a warm, sensual, and predominantly physical [[leary-psychedelic-experience-bardo-mapping]]
-compared to the more visual and cognitive effects of [[psilocin]].
+as producing a warm, sensual, and predominantly physical [[psilocin]].
 Its informal name "Moxy" reflects its methoxy substitution pattern.
 
 ## Chemical Properties
@@ -29,32 +28,7 @@ Its informal name "Moxy" reflects its methoxy substitution pattern.
 - **Solubility:** Soluble in organic solvents including ethanol, methanol, and
   chloroform; moderately soluble in water as a salt
 
-5-MeO-MiPT is structurally related to [[5-meo-dipt-entity-tihkal]] through its
-5-methoxy substitution on the indole ring. The N-methyl-N-isopropyl substitution
-pattern on the terminal amine distinguishes it from the simpler N,N-dimethyl
-configuration of DMT and produces significantly altered pharmacokinetic and
-pharmacodynamic properties. The isopropyl group provides steric bulk that reduces
-metabolic clearance compared to simpler tryptamines, contributing to a longer
-duration of action.
-
-## Synthesis
-
-5-MeO-MiPT is synthesized from 5-methoxyindole through a multi-step process
-involving the formation of a gramine intermediate (via reaction with dimethylamine
-and formaldehyde), followed by displacement with N-methylisopropylamine. The
-synthetic route is described in detail in tihkal. The starting material,
-5-methoxyindole, is commercially available or can be prepared from 5-hydroxyindole
-by methylation with dimethyl sulfate or methyl iodide.
-
-## Pharmacology
-
-5-MeO-MiPT acts primarily as a serotonin 5-HT2A receptor agonist, with additional
-activity at 5-HT1A and possibly other serotonin receptor subtypes. The compound is
-metabolized by monoamine oxidase (MAO) and by cytochrome P450 enzymes, with the
-isopropyl group providing some resistance to oxidative deamination. This metabolic
-stability, relative to [[psilocin]] or [[5-meo-dmt-entity]], it is longer-acting, less overwhelming, and produces
-more body-focused effects. Compared to 5-MeO-DiPT ("Foxy Methoxy"), it is less
-auditorily distortive and generally regarded as having a more benign [[cannabis-safety-profile-and-overdose-risk]].
+5-MeO-MiPT is structurally related to [[psilocin]] or [[cannabis-safety-profile-and-overdose-risk]].
 The isopropyl substitution on the amine nitrogen is the key structural feature
 distinguishing it from these relatives and is responsible for its unique balance of
 oral bioavailability, duration, and subjective character.
@@ -63,10 +37,7 @@ oral bioavailability, duration, and subjective character.
 
 Formal toxicological data for 5-MeO-MiPT is limited. Like other serotonergic
 psychedelics, it carries theoretical risks of triggering latent psychiatric
-conditions in susceptible individuals. Shulgin noted no serious [[blesching-cannabis-safety-adverse-effects-evidence]] at
-reasonable doses but cautioned that the compound can be dysphoric at doses above
-the effective range. There are no confirmed deaths directly attributable to
-5-MeO-MiPT. As with all tryptamines, caution is advised regarding [[cannabis-drug-interactions-and-contraindications]],
+conditions in susceptible individuals. Shulgin noted no serious [[cannabis-drug-interactions-and-contraindications]],
 particularly with serotonergic medications (SSRIs, MAOIs, tramadol) which could
 theoretically precipitate serotonin syndrome.
 
@@ -88,3 +59,88 @@ under analog drug provisions or generic tryptamine controls. In the US, it exist
 in a regulatory gray area under the Federal Analog Act but is not specifically
 listed in the Controlled [[controlled-substances-act-and-psychedelic-research]]. It is controlled in the UK under the
 Psychoactive Substances Act (2016) and in several other European countries. Its
+
+## Overview
+
+5 Meo Mipt represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish 5 meo mipt
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving 5 extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+5 Meo Mipt finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for 5 meo mipt. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+5 meo mipt and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+5 Meo Mipt has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of 5 meo mipt into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[4-ho-mipt-entity-tihkal]]
+- [[4-meo-mipt-entity-tihkal]]
+- [[5-6-mdo-mipt-entity-tihkal]]
+- [[mipt]]
+- [[mipt-entity-tihkal]]

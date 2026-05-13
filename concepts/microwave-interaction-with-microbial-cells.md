@@ -19,8 +19,7 @@ target organism.
 
 ## Water as the Critical Mediator
 
-Water is the essential mediator in [[coaxial-power-splitter-waveguide-microwave-sterilization]]. The 2.45 GHz
-[[microwave-frequency-2450-mhz-water-dipole-coupling-sterilization]] was specifically chosen because it couples efficiently
+Water is the essential mediator in [[microwave-frequency-2450-mhz-water-dipole-coupling-sterilization]] was specifically chosen because it couples efficiently
 with the rotational transitions of dipolar water molecules. When water
 molecules absorb microwave energy, they rotate rapidly, generating heat
 through molecular friction. This is the same mechanism that heats food in
@@ -30,21 +29,7 @@ The amount of water present at the microbial target determines which
 kill mechanism dominates. Vegetative cells contain sufficient intrinsic
 water for direct microwave coupling. Bacterial spores, however, contain
 very little free water, making them relatively resistant to direct
-[[dry-microwave-irradiation-spore-resistance]].
-
-## Vegetative Cell Destruction
-
-Vegetative (actively growing) microbial cells contain 70-80% water by
-mass. This intrinsic water makes them highly susceptible to microwave
-irradiation. When microwaves penetrate the cell wall at sufficient
-intensity and duration, they couple with the intracellular water,
-causing rapid localized heating.
-
-The heating denatures proteins, disrupts cell membranes, and inactivates
-essential enzymes. The cell effectively cooks from the inside. Because the
-water is distributed throughout the cell, the damage is pervasive and
-irreversible. The NASA experiments showed that vegetative cells including
-*Escherichia coli* and *[[e-coli-pseudomonas-cepacia-microwave-susceptibility-surface-sterilization]]* were eliminated rapidly,
+[[e-coli-pseudomonas-cepacia-microwave-susceptibility-surface-sterilization]]* were eliminated rapidly,
 generally within the first few Watt-hours of exposure.
 
 ## Spore Resistance and the Trace Water Strategy
@@ -106,19 +91,7 @@ reliable dose for complete kill across all test organisms.
 ## Dose-Response Relationship
 
 The efficiency of microbial kill is dependent upon four principal factors:
-duration of [[microwave-exposure-system-architecture-surface-sterilization]], intensity (power density) of the exposure,
-the amount of water present at the target surface, and the kind and number
-of microorganisms in the initial population.
-
-Higher power density produces faster heating and more rapid microbial
-reduction, but may also create thermal gradients that shield organisms in
-low-exposure zones. Lower power density with longer exposure time provides
-more uniform treatment. The optimal balance depends on the specific system
-geometry and the required sterility assurance level.
-
-## Implications for Mycology
-
-[[contamination-prevention-in-mushroom-cultivation]], microwave sterilization principles are relevant
+duration of [[contamination-prevention-in-mushroom-cultivation]], microwave sterilization principles are relevant
 to understanding why substrate moisture content affects contamination rates.
 Wet substrates heat more uniformly and completely in microwaves, reaching
 temperatures that kill contaminant organisms. Dry substrates may not reach
@@ -126,6 +99,5 @@ lethal temperatures uniformly, leaving pockets where resistant fungal spores
 and bacterial endospores survive to colonize the substrate.
 
 ## See Also
-- [[microwave-microbial-kill-curves]]
 - [[microwave-microbial-kill-mechanisms]]
 - [[microbial-kill-microwave-irradiation]]

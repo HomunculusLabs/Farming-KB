@@ -120,6 +120,5 @@ commercial cannabis production, maximizing yield per square foot.
 
 ## Cross-References
    117|
-   118|- Related: [[cervantes-case-study-energy-efficient-sea-of-green]], [[cervantes-cloning]], [[cervantes-mother-plants]], [[cervantes-flowering-phase]], [[cervantes-hydroponic-systems]], [[cervantes-perpetual-harvest-cycle]], [[comparison-dwc-vs-ebb-and-flow]]
-   119|- See also: [[cervantes-pruning-training]], [[cervantes-humidity-control-dehumidification]], [[cervantes-nft-aeroponic-systems]], [[cervantes-drain-to-waste-vs-recirculating]]
+   118|- Related: [[cervantes-cloning]], [[cervantes-flowering-phase]], [[cervantes-perpetual-harvest-cycle]], [[cervantes-pruning-training]], [[cervantes-nft-aeroponic-systems]], [[cervantes-drain-to-waste-vs-recirculating]]
    120|

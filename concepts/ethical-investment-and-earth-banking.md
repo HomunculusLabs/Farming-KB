@@ -13,78 +13,7 @@ sources:
 
 updated: 2026-04-18
 
-Ethical investment represents "one of the truly new phenomena of this century" -- a reaction to the misuse of money by governments, large aid agencies, and rapacious investors. [[bill-mollison]]'s Permaculture [[bill-mollison-permaculture-a-designers-manual-animal-systems-in-permaculture]] (Chapter 14, Section 14.13) provides a comprehensive framework for redirecting capital toward earth care, people care, and [[holmgren-ethical-principles-care-earth-people-fair-shares]].
-
-## The Ethical Investment Movement
-
-Prior to 1980, very few ethical financial systems existed. Today there are hundreds of such organizations handling in excess of $160 billion annually (in the USA alone). The Permaculture Institute began teaching "banking on the earth" in 1983, following seminars with the E.F. Schumacher group.
-
-### Getting Started
-Any local group can:
-1. Set up a resource list of data from existing models
-2. Invite fund managers to visit and give seminars
-3. Adopt or devise local financial recycling systems
-4. Start ethical brokerages or non-monetary community exchange
-
-Annual seminars (called "The Other Economic Summit" -- TOES, in the UK) bring together 60-100 interested people and organizations. Banks, insurance companies, cooperatives, and credit unions send representatives.
-
-## Negative Screening: What to Avoid
-
-### Companies That Do NOT Care for the Earth
-- Produce pollutants, dangerous wastes, excess packaging, non-recyclable containers
-- Make shoddy, quickly superseded, unrepairable products
-- Produce poisons, biocides, armaments, dangerous materials (asbestos, leaded petrol, CFCs, radioactive paints)
-
-### Companies That Do NOT Care for People
-- Produce dangerous foods or medicines
-- Have unsafe or polluted workplaces (including noise pollution)
-- Deal in addictive substances (alcohol, tobacco, gambling)
-- Do not permit organised labour or pay fair wages
-- Exploit people via slavery, bonded labour, excessive profit, prostitution, discrimination
-- Support regimes using torture, imprisonment without charge, dictatorships
-
-### Companies Without Public Conscience
-- Use bribery and price-fixing
-- Operate on excessive profits
-- Monopolize resources or markets
-- Do not invest in ethical groups
-
-## Positive Investment: What to Support
-
-Enterprises that:
-- Assist conservation and reduce waste
-- Grow clean food free of biocides
-- Community reafforestation
-- Build energy-conserving houses or villages
-- Produce clean transport or energy systems
-- Assist people's self-reliance
-- Found cooperatives, profit-sharing systems
-- Produce durable, useful, necessary products
-
-## Recommended Investment Categories
-
-### Short Term (1-2 year amortization)
-- Draught-proofing and insulation
-- Attached glasshouses
-- Clean water tanks
-- Trickle irrigation
-- Dam building
-- Loans to good local industries
-
-### Medium Term
-- Bee, chicken, pig forage systems
-- Aquaculture water catchments
-- Nurseries
-- Tourism
-- Farm rehabilitation
-- Clean power systems
-
-### Long Term
-- Town and city reconstruction
-- Fuel crop processing
-- Small farm development
-- Large-scale property retrofit
-- [[fukuoka-citrus-orchard-establishment-bare-hillside]]
+Ethical investment represents "one of the truly new phenomena of this century" -- a reaction to the misuse of money by governments, large aid agencies, and rapacious investors. [[bill-mollison-permaculture-a-designers-manual-animal-systems-in-permaculture]] (Chapter 14, Section 14.13) provides a comprehensive framework for redirecting capital toward earth care, people care, and [[fukuoka-citrus-orchard-establishment-bare-hillside]]
 - Research into new energy forms
 
 ### Permanent
@@ -118,8 +47,91 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[permaculture]]
 - [[holmgren-ethical-principles-care-earth-people-fair-shares]]
-- [[mollison-local-currency-systems-and-community-banking]]
 - [[sepp-holzer-earth-cellars-and-philosophy]]
 - [[earth-oven-and-cob-oven-construction]]
+
+## Overview
+
+Ethical Investment And Earth Banking represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish ethical investment and earth banking
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving ethical extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Ethical Investment And Earth Banking finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for ethical investment and earth banking. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+ethical investment and earth banking and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Ethical Investment And Earth Banking has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of ethical investment and earth banking into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[bill-mollison-permaculture-a-designers-manual-ethical-foundations-in-permaculture]]
+- [[earth-constructs-permaculture]]
+- [[holmgren-ethical-principles-care-earth-people-fair-shares]]
+- [[permaculture-ethical-principles-holmgren]]
+- [[solomon-ethical-mail-order-seed-business]]

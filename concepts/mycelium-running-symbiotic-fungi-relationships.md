@@ -30,7 +30,7 @@ Most plants from grasses to Douglas firs have mycorrhizal partners. Approximatel
 
 Both plant and mycorrhizae benefit: the mycelium brings distant nutrients and moisture to the host, extending the absorption zone well beyond the root structure. The plant provides the fungi with access to plant-secreted sugars, mostly hexoses. The surface area of mycorrhizal fungi may be 10 to 100 times greater than the surface area of leaves in a forest.
 
-Key mycorrhizal associations include Glomus intraradices with cedars and redwoods, Pisolithus tinctorius with pines, Rhizopogon parksii with deciduous trees, Boletus edulis with pines, and Cantharellus cibarius with oaks and firs. For deeper exploration of [common [[dighton-mycorrhizal-networks-carbon-transfer]] and their role in forest ecology, see the dedicated pages on [[comparison-soil-food-web-vs-arbuscular-mycorrhizal-fungi]] fungi and [ectomycorrhizal ecology.
+Key mycorrhizal associations include Glomus intraradices with cedars and redwoods, Pisolithus tinctorius with pines, Rhizopogon parksii with deciduous trees, Boletus edulis with pines, and Cantharellus cibarius with oaks and firs. For deeper exploration of [common [[comparison-soil-food-web-vs-arbuscular-mycorrhizal-fungi]] fungi and [ectomycorrhizal ecology.
 
 ## Endophytes: Mutualistic Symbionts
 

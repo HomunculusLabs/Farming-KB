@@ -11,13 +11,7 @@ tags: [jadam]
 
 # JADAM Local Material Collection and Use
 
-[[query-what-is-jadam-farming-and-how-does-it-work]] is built on the principle that all necessary agricultural
-inputs exist freely in nature. By sourcing materials from the local
-environment rather than purchasing them from agricultural suppliers,
-farmers eliminate the cost of agricultural inputs entirely. This is the
-practical realization of [[jadam-seed-treatment-and-storage]] and [[jadam-herb-solution-jhs]]:
-
-- **[[comparison-jerusalem-artichoke-vs-potato]]** (Helianthus tuberosus): Often found growing
+[[jadam-seed-treatment-and-storage]] and [[comparison-jerusalem-artichoke-vs-potato]]** (Helianthus tuberosus): Often found growing
   wild; entire plant is used. The most practical JHS herb, easy to grow
   in bulk. Controls aphids, mites, and most moth species.
 - **Gingko**: Common ornamental tree; fallen leaves collected in autumn
@@ -42,25 +36,9 @@ practical realization of [[jadam-seed-treatment-and-storage]] and [[jadam-herb-s
 
 ### Soil and Mineral Materials
 
-- **Leaf mold** ([[jadam-sulfur-germicide-js]]
-  production.
+- **Leaf mold** ([[cho-water-soluble-calcium-and-potassium]]. Collected from household kitchens, dried, and processed.
 
-- **Phyllite powder**: Metamorphic rock powder used as a carrier in JS
-  production. Available from stone quarries or construction sites.
-
-- **Sea salt**: Collected from ocean water through evaporation or
-  purchased inexpensively. Used in JS production and as a trace mineral
-  supplement.
-
-- **Charcoal**: Wood charcoal provides soil structure improvement and
-  microbial habitat. Produced by burning wood in low-oxygen conditions.
-
-### Kitchen and Farm Waste Materials
-
-- **Food waste**: Fermented and used for [[cho-water-soluble-calcium-and-potassium]]. Collected from household kitchens, dried, and processed.
-
-- **Bone meal**: Animal bones provide [[bionutrients-lab-calcium-phosphate-calamansi]] for
-  [[jadam-animal-byproduct-liquid-fertilizer]].
+- **Bone meal**: Animal bones provide [[jadam-animal-byproduct-liquid-fertilizer]].
 
 ## Seasonal Collection Calendar
 
@@ -69,11 +47,8 @@ availability:
 
 - **Spring**: Begin collecting fresh herb leaves (foxglove, tobacco,
   garden balsam). Collect wild grasses before flowering for
-  [[jadam-jhs-herb-selection-guide]]
-- [[jadam-liquid-fertilizer]]
-- [[jadam-cover-crop-method]]
-- Wild Plant Identification For Farming
-- Foraging For [[cho-natural-farming-inputs-overview]]
+  [[jadam-liquid-fertilizer]]
+- [[cho-natural-farming-inputs-overview]]
 - Jadam Agricultural Independence
 ## Practical Considerations
 
@@ -123,8 +98,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[digitalis-purpurea]]
 - [[nerium-oleander]]
-- [[bionutrients]]
 - [[lycoris-radiata]]
 - [[helianthus-tuberosus]]

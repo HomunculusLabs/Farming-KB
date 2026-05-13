@@ -13,7 +13,7 @@ Updated: 2026-04-18
 
 Source: Sepp Holzer, *Sepp Holzer's Permaculture* (2010)
 
-Sepp Holzer's approach to [[cannabis-pest-management-guide]] is fundamentally different from conventional agriculture. Rather than fighting pests, he designs systems where natural predators and [[fukuoka-ecological-balance-principles]] keep potential problems in check.
+Sepp Holzer's approach to [[fukuoka-ecological-balance-principles]] keep potential problems in check.
 
 ## Core Philosophy
 
@@ -22,8 +22,7 @@ Sepp Holzer's approach to [[cannabis-pest-management-guide]] is fundamentally di
 ## Voles and Decoy Plants
 
 Voles can cause significant damage by eating plant roots. Rather than using poison, Holzer uses decoy plants:
-- [[comparison-jerusalem-artichoke-vs-potato]] and black salsify make excellent decoy plants
-- Provide enough decoy plants and voles leave [[comparison-pruning-fruit-trees-vs-grafting-fruit-trees]] alone
+- [[comparison-pruning-fruit-trees-vs-grafting-fruit-trees]] alone
 - The energy required to repair soil damage from poison is far greater than the supposed damage from voles eating crops
 - Ensure voles always have enough decoy plants available
 

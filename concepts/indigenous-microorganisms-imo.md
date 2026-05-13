@@ -1,6 +1,6 @@
 ---
 
-title: Indigenous Microorganisms Imo
+title: Indigenous Microorganisms (IMO) — Collection and Cultivation
 created: 2026-04-10
 updated: 2026-04-12
 type: concept
@@ -27,10 +27,10 @@ sources:
 
 # Indigenous Microorganisms (IMO)
 
-IMO is the foundation of [[korean-natural-farming]]. It captures and multiplies the native [[forest-and-bamboo-beneficial-microorganisms]] from your local environment and reintroduces them to your soil. These are the microbes already adapted to your climate and ecosystem. As Master Cho states: "In non-chemical agriculture we do not feed the plant. We nurture the soil and the soil nurtures the plant through the IMOs."
+IMO is the foundation of Korean Natural Farming. It captures and multiplies the native beneficial microorganisms from your local environment and reintroduces them to your soil. These are the microbes already adapted to your climate and ecosystem. As Master Cho states: "In non-chemical agriculture we do not feed the plant. We nurture the soil and the soil nurtures the plant through the IMOs."
 
 Microorganisms have two major functions in farming:
-1. Decompose complex [[chamovitz-plant-scent-communication-volatile-organic-compounds]] (dead plants/animals, wastes) into nutrients absorbable by plants
+1. Decompose complex organic compounds (dead plants/animals, wastes) into nutrients absorbable by plants
 2. Create antibiotic substances, enzymes, and lactic acids that suppress diseases and promote healthy soil
 
 ## The 4-Stage Process
@@ -50,7 +50,7 @@ Microorganisms have two major functions in farming:
 1. Find a forested area with deep leaf litter (at least 2 feet to 1 yard of humus), away from roads
 2. Look for a healthy, old, robust tree with accumulated humus
 3. Fill the wooden box loosely with cooked white rice — don't pack (3 inches max height)
-4. Cover with white porous paper, secure with rubber band (paper allows [[growing-gourmet-growing-room-ventilation-air-exchange]])
+4. Cover with white porous paper, secure with rubber band (paper allows air exchange)
 5. Excavate 2 inches of soil at the collection site, place the box in the pit
 6. Cover with leaves; protect from animals with bamboo basket
 7. Use plastic sheet only during excess rains
@@ -58,7 +58,7 @@ Microorganisms have two major functions in farming:
    - At 20C: 5-6 days
    - At 30-35C: 2-3 days
 
-**Method 2 — [[cho-imo-collection-bamboo-stump-and-paddy-field]] Collection**:
+**Method 2 — Bamboo Stump Collection**:
 1. Choose a bamboo bush in the center of a bamboo grove
 2. Cut a healthy bamboo shoot ~10 cm from the ground
 3. Trim the cut stump edges so inner edge slants toward hollow (prevents juice leakage)
@@ -66,12 +66,12 @@ Microorganisms have two major functions in farming:
 5. Cover with the wooden box, then dry leaves, then plastic sheet with weight
 6. In 3-5 days, red, white, yellow, and black microorganisms will be collected along with bamboo juice
 
-**Method 3 — Paddy [[psilocybin-mushroom-field-collection-techniques]]**:
+**Method 3 — Paddy Field Collection**:
 1. After paddy harvest, place rice-filled wooden boxes face-down on cut rice stumps
 2. Cover with steel wire net (mice/rat protection) and plastic sheet
 3. IMOs gather in ~1 week; mostly anaerobic microbes including:
    - Bacillus licheniformis (breaks down protein, fat, carbohydrates)
-   - [[bacillus-subtilis]] (breaks up strong fibers like straw and reeds)
+   - Bacillus subtilis (breaks up strong fibers like straw and reeds)
 
 **Signs of success**: Rice should have colorful growth — white, gray, yellow, orange, or pink molds. White fuzzy growth (fungi) is ideal. **Black molds indicate you have exceeded the collection days** — discard and try again.
 
@@ -101,7 +101,7 @@ Microorganisms have two major functions in farming:
 
 ### Stage 3: IMO-3 (Expansion)
 
-**What**: Mix IMO-2 with a carbon carrier for [[knf-imo-four-soil-foundation-and-field-application]] — massive cultivation of IMOs.
+**What**: Mix IMO-2 with a carbon carrier for field application — massive cultivation of IMOs.
 
 **Materials**:
 - IMO-2 liquid, diluted 1:1000 with water
@@ -119,7 +119,7 @@ Microorganisms have two major functions in farming:
 7. Takes 5-7 days for white spores to cover surface = complete
 11. Finished IMO-3 has a pleasant smell (Absida, Aspergillus, Mucor, Rhizopus) and white colonies
 
-**Expected microbes**: [[aspergillus-oryzae]], Bacillus subtilis, and many others from the paddy straw.
+**Expected microbes**: Aspergillus oryzae, Bacillus subtilis, and many others from the paddy straw.
 
 **Storage**: Keep in jute/gunny/cloth bags in shaded, cool, ventilated area. Pile containers 3 layers high, shield from sun and rain. Moisture drops to 20-30% (dormancy phase). No need to turn during storage.
 
@@ -140,10 +140,11 @@ Microorganisms have two major functions in farming:
 3. Mix on soil floor (NOT concrete)
 4. Create heap not more than 20 cm high
 5. Adjust moisture to 65-75% with diluted NF inputs (FPJ, FFJ, FAA, LAB at 1:1000)
-6. Add seawater for IMOs to work best when inoculated into soil
-7. Cover for 2 days
-8. Ready to apply — moisture may need adjusting before use (add nutrient liquids if dried)
 
-**Application**: Scatter IMO-4 in small lumps over the field (minimum 1500 kg per acre). Do not bury deeply — the deeper the soil, the richer it is, so don't bury IMO. Apply 2-3 hours before sunset. The lumps help soil build aggregated structure rapidly.
+## See Also
 
-## IMO Diversity Principles
+- [[imo-indigenous-microorganisms]]
+- [[mexican-sacred-mushrooms-indigenous-use-and-ethnobotany]]
+- [[guzman-allen-gartz-sacred-puffballs-gasteromycetes-indigenous-cultures]]
+- [[mexican-indigenous-nomenclature-sacred-mushrooms]]
+- [[cordyceps-neurotropic-fungi-mexican-indigenous-ceremonies]]

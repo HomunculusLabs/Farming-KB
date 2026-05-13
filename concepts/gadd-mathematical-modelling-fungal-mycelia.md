@@ -16,43 +16,9 @@ type: concept
 
 # Mathematical Modelling of Fungal Mycelial Form and Function
 
-Mathematical modelling of [[brassinosteroid-fungal-growth-promotion]] and function aims to reduce
-complex biological systems to simpler mathematical representations where
-rigorous logical structures can isolate, identify, and investigate key
-properties. As Einstein noted, 'everything should be made as simple as
-possible, but no simpler.' The art lies in achieving a meaningful balance
-between simplification and biological fidelity.
-
-## Historical context and scale challenges
-
-Mathematical modelling of fungal growth has been conducted for several
-decades. One of the main problems facing modellers is the choice of
-scale. Biological questions must first be identified, then matched to
-the scale at which they are most likely to be expressed. The ultimate
-goal is multi-scale models that transfer information from individual
-genes through to the growth and function of large-scale mycelia. Until
-recently, modelling efforts either focused on the mycelium using
-variables such as biomass yield, or focused on hyphal-level growth such
-as tip extension, branching, and anastomosis. In the former, spatial
-properties were generally ignored; in the latter, temporal effects were
-often neglected.
-
-## Continuum models for dense mycelia
-
-Large-scale, spatio-temporal properties of fungal mycelia have been
-addressed by deriving systems of nonlinear partial differential equations
-that represent the interaction of [[bioremediation-fungal-biomass-biosorbent-material]] and a growth-limiting
+Mathematical modelling of [[bioremediation-fungal-biomass-biosorbent-material]] and a growth-limiting
 substrate. This approach is ideal for modelling dense mycelia growing on
-Petri dishes, foodstuffs, plant surfaces, and [[natural-building-materials-guide]]. The
-strategy has allowed study of biomass distribution within mycelia in
-homogeneous and heterogeneous conditions, translocation in various
-habitat configurations, and functional consequences such as acid
-production.
-
-## Discrete models for sparse growth
-
-When growth is sparse, as in nutrient-poor conditions or structurally
-[[modelling-mycelial-growth-heterogeneous-environments-davidson]] such as soils, continuum approaches are less
+Petri dishes, foodstuffs, plant surfaces, and [[modelling-mycelial-growth-heterogeneous-environments-davidson]] such as soils, continuum approaches are less
 relevant. Discrete modelling is more appropriate, where individual
 hyphae are identified. Such models usually take the form of computer
 simulations and are often derived from statistical properties of
@@ -111,8 +77,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[gadd-mathematical-modelling-fungal-mycelia-form-function]]
 - [[brassinosteroid]]
-- [[mycelium]]
 - [[mathematical-modelling-fungal-mycelia-davidson]]
 - [[davidson-mathematical-modeling-fungal-mycelia]]

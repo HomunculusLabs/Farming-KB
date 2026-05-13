@@ -10,31 +10,14 @@ sources:
 
 Updated: 2026-04-18
 
-Source: The Ultimate Guide to [[comparison-natural-farming-vs-permaculture]] and [[natural-farming-sustainable-living-principles]], [[nicole-faires]]
-
-Community Supported Agriculture (CSA) is a direct-to-consumer marketing model where families purchase a seasonal share of a farm's harvest in advance, receiving weekly boxes of fresh produce throughout the [[savory-growing-season-and-non-growing-season-management]]. It is the fastest-growing method of direct farm sales.
+Source: The Ultimate Guide to [[natural-farming-sustainable-living-principles]], [[savory-growing-season-and-non-growing-season-management]]. It is the fastest-growing method of direct farm sales.
 
 ## How CSA Works
 
 ### The Model
 
 1. **Farmers plan** their seasonal production
-2. **Consumers purchase a share** before [[query-how-to-protect-plants-from-frost-and-extend-the-growing-season]] (typically $300–500)
-3. **Weekly boxes** of fresh-picked vegetables, fruits, and sometimes value-added products are delivered or made available for pickup
-4. **Risk sharing**: Members share both the bounty and the risk of farming — if crops fail, members receive less; if abundant, they receive more
-
-### Benefits for Farmers
-
-- **Upfront capital**: Payment comes before the season begins, reducing financial pressure
-- **Guaranteed market**: No uncertainty about who will buy the produce
-- **Direct relationship**: Personal connection with customers builds loyalty
-- **Reduced waste**: You know exactly how much to harvest
-- **Marketing savings**: No middlemen, no retail packaging costs
-
-### Benefits for Consumers
-
-- **Freshest possible food**: Harvested that day or the day before
-- **[[fukuoka-seasonal-eating-natural-food-calendar]]**: Encourages connection to natural growing cycles
+2. **Consumers purchase a share** before [[fukuoka-seasonal-eating-natural-food-calendar]]**: Encourages connection to natural growing cycles
 - **Variety**: Exposure to vegetables and fruits they might not otherwise try
 - **Farm connection**: Knowing where food comes from and who grows it
 - **Community**: Being part of a local food system
@@ -117,8 +100,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[permaculture]]
 - [[community-food-systems-and-csa-farms]]
-- [[comparison-biochar-in-agriculture-vs-biochar-soil-remediation]]
 - [[biological-nitrogen-fixation-agriculture]]
 - [[comparison-hugelkultur-vs-syntropic-agriculture]]

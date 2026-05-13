@@ -10,9 +10,7 @@ sources:
 ---
 # Psilocybin Mushroom Lookalikes and Deadly Identification Warnings
 
-Source: [[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]] of the World (Stamets, 1996, Ch. 4)
-
-Mistakes in [[psilocybin-mushroom-identification-guide]] can be lethal. Since few little brown mushrooms have ever been sought after as food, little was known about their biochemistry until recently. As more people sought psilocybin varieties, poisonings from mistaken identifications increased.
+Source: [[psilocybin-mushroom-identification-guide]] can be lethal. Since few little brown mushrooms have ever been sought after as food, little was known about their biochemistry until recently. As more people sought psilocybin varieties, poisonings from mistaken identifications increased.
 
 ## Deadly Galerina Species
 
@@ -59,10 +57,8 @@ Other brown-spored genera with abundant poisonous species:
 
 ## See Also
 
-- [[psilocybin-mushroom-distribution-worldwide]]
-- deadly [[ramsbottom-poisonous-fungi-identification-guide]] guide
+- [[ramsbottom-poisonous-fungi-identification-guide]] guide
 - amanita poisoning types
-- [[psychedelic-mushroom-set-and-setting]]
 - [[mycorrhizal-edible-mushroom-species-overview]]
 - [[fungal-roles-in-old-growth-forests]]
 ## Practical Considerations

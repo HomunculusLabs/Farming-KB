@@ -6,7 +6,7 @@ type: concept
 
 # Sealing Leaky Dams
 
-Sealing leaky dams is a critical skill in permaculture [[water-management]]. Earth dams that fail to hold water represent a significant loss of labour and resources. Multiple sealing techniques exist, ranging from low-cost biological methods to expensive engineered solutions. Earth storage remains the **cheapest, easiest, and most locally self-reliant** method of [[water-conservation]].
+Sealing leaky dams is a critical skill in [[permaculture]] [[water-conservation]].
 
 ## Dam Efficiency Factors
 
@@ -97,7 +97,7 @@ Engineered membranes provide the most reliable seal but at the highest cost. Opt
 - Enables **steeper bank angles**, reducing the land area required for a given storage volume.
 - **Too expensive** for most permaculture and small-scale applications.
 - Plastic and neoprene liners are vulnerable to puncture; concrete requires professional installation and maintenance.
-- Reduces the self-reliance central to permaculture design.
+- Reduces the self-reliance central to [[permaculture-design]].
 - Vulnerable to UV degradation and physical damage if not properly protected with cover layers.
 
 ## Choosing a Sealing Method
@@ -121,6 +121,5 @@ Engineered membranes provide the most reliable seal but at the highest cost. Opt
 
 ## See Also
 
-- [[dam-spillways-and-sealing-leaky-dams]]
 - [[log-waxing-inoculation-sealing]]
 - [[gley-pond-sealing-mollison]]

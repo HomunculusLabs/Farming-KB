@@ -48,18 +48,7 @@ typically much longer than sub-apical compartments.
 ## Cell types derived from hyphae
 
 Filamentous fungi produce several cell types: uninucleate spores, yeast
-cells, and other determinate cell types including [[fungal-appressorium-and-infection-structures]]
-(appressoria, haustoria), basidia, cystidia, adhesive knobs, and
-nematophagous rings. All determinate cell types are derived from hyphae.
-More extensive multicellular development requires hyphal aggregation to
-form conglutinate cells, which develop into tissues that are either
-pseudoparenchymatous or prosenchymatous.
-
-## Multicellular structures
-
-Hyphal aggregates form complex multicellular systems including fruit
-bodies (ascomata, basidiomata, conidiomata), sclerotia, rhizomorphs,
-and mycelial cords. [[neurospora-crassa]] has 28 morphologically distinct
+cells, and other determinate cell types including [[neurospora-crassa]] has 28 morphologically distinct
 cell types. The mechanism of fungal multicellular development, involving
 specialisation of hyphal compartments from aggregated hyphae, is
 fundamentally different from animal or plant multicellularity.
@@ -70,17 +59,7 @@ Fungi combine features of animals (heterotrophic) and plants
 (non-motile). Being non-motile and heterotrophic has introduced
 selection pressures that shaped characteristic features. Hyphae respond
 sensitively and rapidly to myriad signals in heterogeneous
-microenvironments. [[gadd-spitzenkorper-vesicle-supply-centre-hyphal-tip-growth-direction]] and branching patterns change
-quickly, and hyphae can grow from unfavourable to favourable
-environments. Sporulation can be initiated rapidly to resist or escape
-adverse conditions.
-
-## Hyphal avoidance and homing
-
-In the peripheral growth zone, hyphae avoid each other and do not fuse.
-In sub-peripheral regions, certain hyphal branches home towards each
-other and fuse. This creates an interconnected network. Hyphal fusion
-results from [[two-phase-directed-growth-psilocybe-cubensis-basidiocarp-development]] of branches that actively seek compatible
+microenvironments. [[two-phase-directed-growth-psilocybe-cubensis-basidiocarp-development]] of branches that actively seek compatible
 partners. These processes are regulated by autoregulatory signals
 produced by the fungus itself.
 
@@ -118,8 +97,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[det]]
 - [[spore]]
-- [[gadd-spitzenkorper-vesicle-supply-centre-hyphal-tip-growth-direction]]
 - [[gadd-hyphal-tip-growth-and-branching-mechanisms]]
 - [[gadd-mathematical-modelling-rhizoctonia-solani-mycelial-growth]]

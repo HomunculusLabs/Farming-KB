@@ -14,7 +14,7 @@ Shamanism represents humanity's oldest and most indigenous form of natural spiri
 
 Before organized religion, before written language, early humans who encountered consciousness-expanding plants became aware of something beyond normal physical reality. This realization developed a new contemplation of death and a desire for individual immortality. World mythologies universally contain claims of beings ascending beyond death into a spiritual dimension, attainable through a quest for an elixir — and this cosmopolitan pattern across ancient documents points to a common historical source: the indigenous natural practice of shamanism.
 
-[[allegro-colour-and-consistency-of-the-amanita-muscaria]] mushroom is identified as the cornerstone of shamanism, producing the quintessential [[shamanism-death-and-rebirth]] experience. Despite shamanism's rejection of patriarchal religious structures, it is paradoxically the foundational source from which all major religions ultimately derive their myths, rituals, and symbolism.
+[[shamanism-death-and-rebirth]] experience. Despite shamanism's rejection of patriarchal religious structures, it is paradoxically the foundational source from which all major religions ultimately derive their myths, rituals, and symbolism.
 
 ## The Core Practice: Journey into Death
 
@@ -40,17 +40,13 @@ A significant portion of shamanic scholarship concerns the identity of **Soma**,
 
 1. **Amanita muscaria** (red) — produces the "quickening of the spirit"
 2. **Psilocybe species** (blue) — opens the "third eye"
-3. **Syrian Rue / [[mckenna-food-gods-peganum-harmala-soma]]** — contains Telepathine, an MAO inhibitor that increases the properties of other compounds, paralleling Pinoline naturally produced by the Pineal Gland
-4. **Opium Poppy** — induces euphoria enabling one to relax and fully experience the intensive visionary state
-5. **Green plants including Cannabis** — prevents nausea, enhances effects, and reactivates neural pathways opened by entheogens
-
-This combination mimics the DMT-Pinoline combination naturally produced by the pineal gland, associated with naturally occurring psychic experiences and visionary states during sleep (somnambulism). The linguistic connection between Soma and [[papaver-somniferum]], as well as the word somnambulism itself, is noted as significant.
+3. **Syrian Rue / [[papaver-somniferum]], as well as the word somnambulism itself, is noted as significant.
 
 ## Suppression of Indigenous Spirituality
 
 The text identifies a systematic pattern of suppression directed at shamanic and indigenous spiritual practices:
 
-- **[[mckenna-caffeine-coffee-and-industrial-revolution]] and patriarchal systems** consciously attempted to stamp out [[ethnobotanical-use-of-sacred-mushrooms-in-indigenous-cultures]] under the guise of "civilizing the savage"
+- **[[ethnobotanical-use-of-sacred-mushrooms-in-indigenous-cultures]] under the guise of "civilizing the savage"
 - **Religious systems** downplay, repress, or completely obscure references to entheogenic plant usage within their doctrinal belief systems
 - **Five natural human drives** are identified as specifically targeted for repression: (1) expanding consciousness, (2) heightening awareness, (3) experiencing plant substances, (4) freely enjoying sexuality, (5) engaging in rhythmic dance and trance
 - These drives are replaced with societal models of moral judgment condemning them as sin
@@ -72,15 +68,83 @@ This subject has relevance across multiple disciplines and applications. Underst
 Implementation spans agricultural, ecological, and cultural contexts. The methodology draws on both traditional knowledge and modern scientific understanding.
 
 ## See Also
-- [[mckenna-language-as-magic-shamanic-theory-linguistic-reality-plant-hallucinogens]]
 - [[ethnobotanical-use-of-sacred-mushrooms-in-indigenous-cultures]]
-- [[allegro-colour-and-consistency-of-the-amanita-muscaria]]
 - [[mckenna-caffeine-coffee-and-industrial-revolution]]
-- [[amanita-indo-european-language-family-ancient-world-view]]
-
-## See Also
 - [[shamanism]]
-- [[samsara]]
 - [[dmt]]
-- [[syrian-rue]]
 - [[pineal-gland]]
+
+## Overview
+
+Shamanism And Entheogenic Death Rebirth represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish shamanism and entheogenic death rebirth
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving shamanism extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Shamanism And Entheogenic Death Rebirth finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for shamanism and entheogenic death rebirth. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+shamanism and entheogenic death rebirth and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Shamanism And Entheogenic Death Rebirth has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of shamanism and entheogenic death rebirth into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and

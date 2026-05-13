@@ -8,14 +8,7 @@ sources: [papers/mycelium-running-stamets.md]
 ---
 # Spore Print Collection
 
-[[mushroom-spore-printing-and-storage]] is the art and science of capturing [[query-how-to-store-mushroom-spores-long-term]] for identification, cultivation, and artistic purposes. It is both a fun activity and an essential skill for any mycophile. From *[[woodlovers-mycelium-running-pathway-technique]]* by [[ganoderma-lucidum-reishi-comprehensive-profile]]*) is a polypore with pores; lion's mane (*[[agaricus-bisporus-cultivation-biology]]* (button/portobello), *Panaeolus* |
-| Rust-brown | *Gymnopilus*, *Cortinarius* |
-| Cinnamon-brown | *Galerina*, *Pholiota*, *Inocybe* |
-| Purple-brown | *Psilocybe*, *Deconica*, *Hypholoma* |
-| Black | *Coprinus*, *Panaeolus foenisecii* |
-| Pinkish-brown | *Clitopilus* |
-| Salmon/pinkish | *Pluteus*, some *Volvariella* |
-| Yellow | *[[guzman-chlorophyllum-molybdites-toxic-edible-paradox-yoruba-divinatory-use]]* (green-spored!) |
+[[query-how-to-store-mushroom-spores-long-term]] for identification, cultivation, and artistic purposes. It is both a fun activity and an essential skill for any mycophile. From *[[ganoderma-lucidum-reishi-comprehensive-profile]]*) is a polypore with pores; lion's mane (*[[guzman-chlorophyllum-molybdites-toxic-edible-paradox-yoruba-divinatory-use]]* (green-spored!) |
 | Green | *Chlorophyllum molybdites* |
 | Orange-brown | *Gymnopilus* |
 

@@ -15,11 +15,7 @@ In conventional garden design, water appears only by fortunate rainfall or by th
 
 ## The Fivefold Path to Water Wisdom
 
-Following the [[williams-pdc-ecological-design-principles]] principle that "each function is supported by many elements," a water-wise garden relies on multiple complementary techniques. If one system fails, others sustain the garden.
-
-### 1. High Organic Matter Content
-
-The cheapest place to store water is in the soil. Humus [[hamilton-composting-and-organic-matter-management]] act as a sponge, swelling to hold several times their weight in water. One foot of rich, moist soil blanketing a backyard holds as much water as a 3-inch-deep lake of the same size.
+Following the [[hamilton-composting-and-organic-matter-management]] act as a sponge, swelling to hold several times their weight in water. One foot of rich, moist soil blanketing a backyard holds as much water as a 3-inch-deep lake of the same size.
 
 Research shows that soil with as little as 2 percent organic matter can reduce irrigation needs by 75 percent compared to poor soils with less than 1 percent organic matter. Organic matter also adds fertility, stores nutrients, boosts soil life, and fluffs soil structure.
 
@@ -67,7 +63,7 @@ The synergy comes because the techniques do more than just save water: they prot
 
 ## Greywater and Ponds
 
-Beyond the five core techniques, ecological gardens can incorporate greywater systems (draining household wash water to mulch basins and [[comparison-constructed-wetlands-vs-bioswales]]) and ponds for water storage, wildlife habitat, and [[mollison-designers-microclimate-creation-frost-protection]]. These extend the water web of connections linking the pieces of the garden together.
+Beyond the five core techniques, ecological gardens can incorporate greywater systems (draining household wash water to mulch basins and [[mollison-designers-microclimate-creation-frost-protection]]. These extend the water web of connections linking the pieces of the garden together.
 
 Greywater systems typically divert water from laundry, bathroom sinks, and
 showers (never from toilets or kitchen sinks with food waste) into mulch-filled
@@ -81,45 +77,6 @@ reliable and require the least maintenance.
 Ponds serve multiple functions in the ecological garden. A well-placed pond
 reflects light into nearby growing areas, moderates temperature extremes by
 absorbing heat during the day and releasing it at night, and provides habitat
-for amphibians, [[comparison-beneficial-insects-guide-vs-integrated-pest-management]], and birds that contribute to pest control.
-Even a small pond of 50 to 100 square feet can significantly influence the
-microclimate within a 30-foot radius. The pond edge, or riparian zone, is
-often the most productive planting area in the entire garden, supporting
-species that bridge the gap between aquatic and terrestrial ecosystems.
-
-## Keyline Design and Broad-Scale Water Harvesting
-
-## Practical Applications
-
-The principles and techniques discussed here have wide-ranging applications
-across multiple disciplines and contexts. Practitioners and researchers
-continue to explore new ways to integrate these concepts into modern practice,
-adapting traditional knowledge to contemporary challenges and opportunities.
-
-## Key Considerations
-
-Several important factors influence the effectiveness and outcomes described
-in this topic. Understanding these considerations helps practitioners make
-informed decisions and avoid common pitfalls. Environmental conditions,
-timing, and material selection all play critical roles.
-
-## Historical Context
-
-The historical development of this subject reflects centuries of accumulated
-knowledge and practical experience. From traditional methods passed down
-through generations to modern scientific approaches, the evolution continues
-to inform current best practices and research directions.
-
-## Common Challenges
-
-Practitioners frequently encounter several challenges when working with
-these concepts. Climate variability, resource limitations, and knowledge
-gaps can all affect outcomes. Addressing these challenges requires patience,
-observation, and a willingness to adapt approaches based on results.
-
-## See Also
-- [[soil-life]]
-- [[keyline-design]]
+for amphibians, [[soil-life]]
 - [[dom]]
-- [[composting]]
 - [[swale]]

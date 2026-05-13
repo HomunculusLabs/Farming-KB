@@ -12,21 +12,8 @@ type: concept
 
 # Liebig's Law of Minimum Critique
 
-[[masanobu-fukuoka]] mounts a sustained and detailed critique of Justus von
-Liebig's law of minimum, one of the foundational principles of modern
 [[fukuoka-critique-laws-agricultural-science]]. First proposed by the German chemist, the law states
-that [[fukuoka-hotel-analogy-crop-yield-model]] is determined by the nutrient present in shortest supply.
-Fukuoka argues that this principle, while appearing self-evident, is
-fundamentally flawed and has led agriculture down a destructive path.
-
-## The Barrel Analogy and Its Two Failures
-
-Liebig illustrated his law with a diagram now known as Liebig's barrel. The
-amount of water, or yield, the barrel holds is determined by that nutrient
-in shortest supply. No matter how large the supply of other nutrients, it
-is that nutrient of which there is the greatest scarcity that sets the
-upper limit on the yield. Fukuoka identifies two fundamental reasons why
-this analogy does not apply to the real world of [[comparison-cacao-vs-black-pepper-tropical-crop-cultivation]].
+that [[comparison-cacao-vs-black-pepper-tropical-crop-cultivation]].
 
 ## First Failure: The Barrel Has No Foundation
 
@@ -79,8 +66,7 @@ Fukuoka extends the barrel metaphor to critique the institutional structure
 of agricultural research. Not understanding the relationships between
 nutrients amounts to the lack of a hoop to hold the barrel staves together.
 This is the situation at an agricultural research center with separate
-sections devoted to the study of [[cannabis-sativa-indoor-cultivation-techniques]], fertilizers, and
-[[comparison-pheromone-based-pest-control-vs-beneficial-insect-biocontrol]]; even the existence of a planning section and a farsighted
+sections devoted to the study of [[comparison-pheromone-based-pest-control-vs-beneficial-insect-biocontrol]]; even the existence of a planning section and a farsighted
 director will be unable to pull these sections together into an integral
 whole with a common purpose.
 
@@ -118,8 +104,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[fukuoka-critique-of-liebig-law-of-minimum]]
 - [[dom]]
-- [[det]]
 - [[liebig-law-of-minimum-critique-natural-farming]]
 - [[fukuoka-liebig-law-critique]]

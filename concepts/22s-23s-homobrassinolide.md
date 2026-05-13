@@ -3,14 +3,7 @@ title: 22S,23S-Homobrassinolide
 category: Brassinosteroids
 tags: [brassinosteroid, steroid, homobrassinolide, phytohormone, stigmasterol]
 related: mycelial-growth-enhancement-with-phytohormones
-source: Gartz et al. (1990) - Growth-Promoting Effect of a Brassinosteroid in Mycelial Cultures of [[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]]; Adam & Marquardt (1986)
----
-# 22S,23S-Homobrassinolide
-
-22S,23S-Homobrassinolide is a synthetic brassinosteroid belonging to the
-C29 homobrassinosteroid class. Prepared from stigmasterol, it
-demonstrated significant growth-promoting effects in fungal cultivation,
-notably accelerating [[brassinosteroid-psilocybe-cubensis-mycelial-growth-research]] and fruiting in *Psilocybe
+source: Gartz et al. (1990) - Growth-Promoting Effect of a Brassinosteroid in Mycelial Cultures of [[brassinosteroid-psilocybe-cubensis-mycelial-growth-research]] and fruiting in *Psilocybe
 cubensis*. It represents one of the few brassinosteroids tested for
 biological activity outside the plant kingdom.
 
@@ -38,42 +31,17 @@ typically show reduced or absent biological activity.
 
 The compound was synthesized from stigmasterol, a readily available
 plant sterol found in soybean, calabar bean, and various other plant
-sources. The [[four-hydroxyindole-psilocin-synthesis-route-shirota]], described by Adam and Marquardt (1986),
-involves multi-step chemical modification of the stigmasterol
-framework:
-
-1. Stigmasterol serves as the starting material, providing the
-   correct 29-carbon skeleton with the C-24 methyl group already
-   present
-2. The sterol nucleus undergoes selective oxidation and hydroxylation
-   to install the 2α,3α-diol on the A-ring
-3. The B-ring is modified to introduce the 7-oxolactone
-4. The side chain is oxidized to produce the 22S,23S-diol
-   configuration
-
-The synthesis from stigmasterol is advantageous because it is an
-abundant and inexpensive starting material. The use of a plant-derived
-sterol precursor underscores the [[serotonin-psilocybin-structural-relationship-hallucinogenic-mechanism]] between
+sources. The [[serotonin-psilocybin-structural-relationship-hallucinogenic-mechanism]] between
 brassinosteroids and common plant sterols.
 
 ## Biological Activity
 
-### [[emcdda-psilocybin-non-addictive-profile-tolerance-dynamics]] of this class:
-
-- Promotion of cell elongation and cell division
-- Enhancement of reproductive development
-- Increased [[fungal-lichen-stress-tolerance-and-poikilohydry]]
+### [[fungal-lichen-stress-tolerance-and-poikilohydry]]
 - Improvement of source-sink relationships and yield
 
 The homobrassinosteroid structure (C29) generally shows comparable or
 slightly modified activity relative to C28 parent compounds, with the
-C-24 methyl group potentially influencing [[tihkal-receptor-binding-serotonin]] and
-metabolic stability.
-
-### In Fungi — Seminal Findings
-The landmark study by Gartz, Adam, and Vorbrodt (1990) was the first
-to demonstrate brassinosteroid activity in a fungal system. Using
-*[[brassinosteroids]] — Overview of the brassinosteroid class
+C-24 methyl group potentially influencing [[brassinosteroids]] — Overview of the brassinosteroid class
 - psilocybe-cubensis-fruiting-optimization — Cultivation outcomes
   with brassinosteroid treatment
 ## Practical Considerations
@@ -98,9 +66,7 @@ The development and understanding of 22s 23s homobrassinolide has evolved consid
 Successful implementation of 22s 23s homobrassinolide requires attention to local conditions, climate adaptability, and integration with existing ecological systems. Regular monitoring and adaptive management are essential for optimal results.
 
 ## See Also
-- [[gartz-homobrassinolide-structure-stigmasterol-biosynthesis-fungal-systems]]
 - [[brassinosteroid-homobrassinolide-chemistry-synthesis]]
-- [[homobrassinolide]]
 - [[22s-23s-homobrassinolide-chemistry-and-synthesis]]
 
 ## Historical Context
@@ -118,8 +84,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[homobrassinolide]]
 - [[psilocybin]]
-- [[dom]]
 - [[psilocin]]
 - [[indole]]

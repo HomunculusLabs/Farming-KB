@@ -1,8 +1,7 @@
 ---
 title: AACT Brewing Science
 aliases:
-  - [[compost-tea-brewing]]
-  - [[actively-aerated-compost-tea-aact-brewing]] tea science
+  - actively-aerated-compost-tea-aact-brewing tea science
   - AACT microbiology
 tags:
   - compost-tea
@@ -20,42 +19,7 @@ Actively Aerated Compost Tea (AACT) is a liquid extract produced by
 brewing high-quality compost in aerated water with supplemental food
 sources for 18-24 hours. Developed and standardized by Dr. Elaine
 Ingham and the Soil Foodweb community, AACT concentrates and multiplies
-the [[forest-and-bamboo-beneficial-microorganisms]] found in compost — bacteria, fungi,
-protozoa, and nematodes — into a form that can be applied as a soil drench
-or foliar spray. The science of AACT brewing centers on maintaining
-aerobic conditions throughout the brew cycle to support beneficial aerobic
-organisms while suppressing anaerobic pathogens.
-
-## The Aerobic Imperative
-
-The single most critical factor in AACT brewing is maintaining dissolved
-oxygen (DO) levels above 6 mg/L throughout the entire brew cycle. Below
-this threshold, facultative anaerobes begin to switch metabolism, producing
-metabolites that can harm plants and beneficial soil organisms. Below
-5.5-6.0 mg/L DO, conditions shift toward anaerobiosis, potentially
-supporting pathogens like *E. coli*, *Salmonella*, and *Clostridium* species.
-
-Aeration requirements depend on brewer design:
-- **5-gallon brewers:** Single air pump with coarse bubble diffuser;
-  minimum 0.05 CFM (cubic feet per minute) air flow
-- **25-50 gallon brewers:** Multiple air stones or diaphragm pump;
-  0.25-0.5 CFM
-- **100+ gallon brewers:** Commercial regenerative blower; 1+ CFM with
-  fine bubble diffusion for maximum oxygen transfer efficiency
-
-Fine bubbles provide more surface area for gas exchange than coarse bubbles,
-but both can work if air volume is sufficient. The goal is turbulent mixing
-that keeps compost particles suspended and exposed to oxygen while
-preventing foam from clogging air stones.
-
-## Compost Quality
-
-The starting compost determines everything about the final tea. Ingham's
-standards for AACT compost:
-- **Bacterial biomass:** 100-500 micrograms per gram
-- **Fungal biomass:** 100-500 micrograms per gram (for balanced tea)
-- **Protozoa:** 10,000+ per gram
-- **[[ingham-beneficial-nematodes-soil-food-web]]:** Present and diverse
+the ingham-beneficial-nematodes-soil-food-web:** Present and diverse
 - **No detectable pathogens:** Verified by direct microscopy
 - **No persistent herbicides:** Clopyralid, aminopyralid, and similar
   compounds survive composting and will kill broadleaf plants when
@@ -73,25 +37,7 @@ Beyond compost and water, AACT recipes include food sources to fuel
 microbial multiplication during the brew:
 
 ### Bacterial Foods
-- **Unsulfured [[ingham-blackstrap-molasses-compost-tea-concentration-osmotic-effects]]:** 1-4 tablespoons per 5 gallons.
-  The primary bacterial food. Provides simple sugars that bacteria
-  rapidly metabolize. Must be unsulfured — sulfur preservatives inhibit
-  beneficial organisms.
-- **Fish hydrolysate:** 1-2 tablespoons per 5 gallons. Provides
-  nitrogen and amino acids. Must be hydrolysate (enzymatically
-  digested), NOT fish emulsion (high-temperature processed), which
-  kills beneficial organisms.
-- **Kelp meal:** 1 teaspoon per 5 gallons. Cold-water extracted
-  kelp provides micronutrients, growth hormones (cytokinins,
-  auxins), and compounds that benefit both bacteria and fungi.
-
-### Fungal Foods
-- **Humic acids:** 1-4 tablespoons per 5 gallons. Long-chain carbon
-  molecules that selectively feed fungi and actinomycetes.
-- **Fish hydrolysate:** Also feeds fungi when used at higher rates.
-- **Chitin:** 1-2 teaspoons per 5 gallons (crab or shrimp shell
-  meal). Feeds chitin-decomposing fungi and bacteria, which in turn
-  produce chitinase enzymes that attack [[bloomfield-fungal-pathogens-and-parasites]] insect
+- **Unsulfured bloomfield-fungal-pathogens-and-parasites insect
   pests.
 - **Rock dust:** 1 tablespoon per 5 gallons. Provides minerals and
   surface area for fungal colonization.
@@ -134,10 +80,17 @@ A successful AACT brew should:
 
 ## See Also
 
-- [[soil-foodweb-biology]]
-- [[complete-organic-fertilizer-cof]]
+- complete-organic-fertilizer-cof
 
 ## References
 
 - Ingham, E.R. *The Field Guide I for Actively Aerated Compost Tea*.
   Sustainable Studies Institute, 2004.
+
+## See Also
+
+- [[ingham-aact-beauveria-fruit-fly-beneficial-bacteria-inoculant]]
+- [[ingham-strawberry-potato-tomato-aact-application-protocols]]
+- [[ingham-aact-hydroponic-integration-microbe-restoration]]
+- [[foliar-pest-deterrence-aact-mechanisms]]
+- [[aact-compost-extract-leachate-tea-distinctions-ingham]]

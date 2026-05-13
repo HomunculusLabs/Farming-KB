@@ -29,7 +29,7 @@ Ilya Romanovich Prigogine (1917–2003) was a Russian-Belgian physical chemist a
 
 1. **Self-organising substrates:** Mushroom mycelium is a classic dissipative structure — it consumes energy-rich substrate and produces organised networks, fruiting bodies, and complex metabolites. Understanding this helps cultivators optimise conditions for mycelial self-organisation.
 2. **Far-from-equilibrium growing:** Actively growing fungal cultures exist far from thermodynamic equilibrium. Maintaining energy flow (fresh air exchange, nutrient availability, temperature gradients) keeps the system in the productive far-from-equilibrium state.
-3. **Ecosystem complexity:** Mixed cultivation systems (polyculture beds, companion planting with fungi) are more complex and stable than monocultures because they are far-from-equilibrium dissipative structures with multiple energy pathways.
+3. **Ecosystem complexity:** Mixed cultivation systems (polyculture beds, [[companion-planting-with-fungi]]) are more complex and stable than monocultures because they are far-from-equilibrium dissipative structures with multiple energy pathways.
 4. **Design for energy throughput:** Prigogine's work validates Mollison's strategy of designing systems that maximise energy throughput — more energy flow means more potential for self-organisation and complexity.
 5. **Contamination resistance:** Complex, self-organised mycelial networks resist contamination better than sparse, low-energy cultures, consistent with dissipative-structure theory.
 
@@ -39,9 +39,7 @@ Mollison quotes Newsweek (October 24, 1977) on Prigogine's Nobel Prize: "biologi
 
 ## See Also
 
-- [[eugene-odum]]
 - [[edward-goldsmith]]
-- [[isaac-asimov-thermodynamics]]
 - [[permaculture]]
 - [[law-of-return-and-energy-catchment-design]]
 

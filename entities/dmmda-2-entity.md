@@ -10,40 +10,9 @@ sources:
 # DMMDA-2
 
 **Chemical name:** 2,3-Dimethoxy-4,5-methylenedioxyamphetamine
-**[[2c-b-pihkal-entry-20]]:** #59
+**[[dmmda-compound-profile]], which was prepared from apiole (Oil of Parsley).
 
-## Overview
-
-DMMDA-2 is an amphetamine combining two methoxy groups and a methylenedioxy bridge on the aromatic ring, making it a structural amalgamation of mmda-entity|MMDA and [[dmmda-compound-profile]], which was prepared from apiole (Oil of Parsley).
-
-Shulgin notes that DMMDA-2 is one of the "ten essential amphetamines" since dillapiole is one of the "ten [[comparison-essential-oils-vs-neem-oil-vs-insecticidal-soap]]" -- a reference to his systematic approach of exploring psychoactive compounds derived from natural essential oil precursors.
-
-## Dosage
-
-| Level | Amount (mg) |
-|-------|-------------|
-| Threshold | ~28 |
-| Common | ~50 |
-| Active range | 28 - 50+ |
-
-Duration: Unknown (insufficient data).
-
-## Effects
-
-The pharmacological data for DMMDA-2 is notably sparse:
-
-- **At 28 mg:** Threshold effect noted by the original observer.
-- **At 50 mg:** "I am into it; it is much like mda-entity|MDA."
-
-This is the extent of the published qualitative data. Shulgin was not the taster and can only quote what he received from the original observer.
-
-## Literature Complications
-
-The activity level of "5x the potency of mescaline" was published in a large review article on the basis of the limited data above, and was "permanently enshrined in the published literature." Shulgin expresses uncertainty about this characterization, noting: "What is it really like? I don't know."
-
-## Synthesis
-
-The synthesis was performed by someone other than Shulgin, and the original notes were lost. The procedure used was exactly the same as that described for [[dmmda-compound-profile]] | 2,5-dimethoxy-3,4-methylenedioxy |
+Shulgin notes that DMMDA-2 is one of the "ten essential amphetamines" since dillapiole is one of the "ten [[dmmda-compound-profile]] | 2,5-dimethoxy-3,4-methylenedioxy |
 | DMMDA-2 | 2,3-dimethoxy-4,5-methylenedioxy |
 | DMMDA-3 | Unknown (not yet synthesized) |
 | DMMDA-4 | Unknown |
@@ -56,15 +25,7 @@ At the time DMMDA and DMMDA-2 were synthesized, Shulgin envisioned a thorough st
 
 ## Related Compounds
 
-- [[mmda-2-compound-profile]] (the phenethylamine analogue)
-- mda-entity|MDA (the parent methylenedioxy compound)
-- mdma-entity|MDMA (the N-methyl derivative)
 - [[2c-family-compounds-overview]]
-- [[lsd-synthesis-history]]
-
-## Significance
-
-DMMDA-2 represents an incomplete but intriguing data point in the systematic exploration of methylenedioxy/methoxy-substituted amphetamines. Its structural position between MMDA and MMDA-2 suggests it could be "quite a winner if the dosage and the duration were known," but the absence of thorough bioassay data leaves its true character uncertain.
 - [[dmmda-entity]]
 ## Practical Considerations
 
@@ -84,3 +45,88 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
+
+## Overview
+
+Dmmda 2 Entity represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish dmmda 2 entity
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving dmmda extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Dmmda 2 Entity finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for dmmda 2 entity. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+dmmda 2 entity and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Dmmda 2 Entity has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of dmmda 2 entity into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[5-6-mdo-dipt-entity-tihkal]]
+- [[dmmda-2-entity-pihkal]]
+- [[dmmda-compound-profile]]
+- [[dmmda-entity]]
+- [[dmmda-entity-pihkal]]

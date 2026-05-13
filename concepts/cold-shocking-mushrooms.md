@@ -7,22 +7,8 @@ updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/benjamin-minge-duggar-mushroom-growing.md]
 type: concept
 ---
-# Cold Shocking Mushrooms Cold shocking is a cultivation technique used to initiate fruiting (pinning) in mushroom mycelium by exposing it to a sudden drop in temperature. The practice is most commonly associated with [[psilocybe-cubensis]]**: A tropical species where cold shocking is of
-  questionable value. Cubensis fruits naturally in warm, humid conditions and
-  may actually benefit more from a simple drop in temperature from incubation
-  to standard room temperature fruiting conditions rather than a dramatic cold
-  shock. Many experienced cultivators argue that the standard practice of
-  lowering temperature from ~27°C to ~23°C is sufficient and that true cold
-  shocking is unnecessary or even counterproductive.
-
-- **[[lentinula-edodes]]** (shiitake): [[gourmet-medicinal-mushroom-shiitake-cultivation-logs]] traditionally
-  involves a cold shock step. After a long colonization period on supplemented
-  sawdust blocks, blocks are soaked in cold water (often overnight) to both
-  hydrate the substrate and deliver a thermal shock that initiates fruiting.
-
-- **[[bacteria-and-microorganisms-in-mushroom-fruiting]]
+# Cold Shocking Mushrooms Cold shocking is a cultivation technique used to initiate fruiting (pinning) in mushroom mycelium by exposing it to a sudden drop in temperature. The practice is most commonly associated with [[lentinula-edodes]]** (shiitake): [[bacteria-and-microorganisms-in-mushroom-fruiting]]
 - pinning mycology
-- [[mushroom-cultivation-bulk-substrates]]
 - [[growing-gourmet-growing-room-ventilation-air-exchange]]
 ## Practical Applications
 
@@ -97,8 +83,6 @@ through generations to modern scientific approaches, the evolution continues
 to inform current best practices and research directions.
 
 ## See Also
-- [[doc]]
 - [[fruiting-conditions]]
-- [[det]]
 - [[mycelium]]
 - [[mycology]]

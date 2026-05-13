@@ -20,20 +20,10 @@ type: concept
 Fungi produce a remarkable arsenal of extracellular enzymes that enable them
 to decompose complex plant polymers, including cellulose, hemicellulose, and
 lignin. These fungal enzymes in decomposition are central to global
-carbon cycling, [[fukuoka-pine-forest-ecosystem-collapse-cascade-matsutake]] functioning, and the applied fields of
-[[mycoremediation-techniques]]
-and [[enzyme-based-bioremediation]] potential of fungal enzymes extends well
-beyond [[fukuoka-microbes-scavengers-natural-decomposition-biosystem]]. The free radical mechanism of ligninolytic
+carbon cycling, [[mycoremediation-techniques]]
+and [[fukuoka-microbes-scavengers-natural-decomposition-biosystem]]. The free radical mechanism of ligninolytic
 enzymes enables them to transform structurally diverse pollutants including
-[[singh-fungal-biodegradation-of-polycyclic-aromatic-hydrocarbons]] hydrocarbons, chlorophenols, polychlorinated biphenyls,
-dyes, and explosives. The non-specific nature of these reactions means that
-enzymes do not need to be adapted to particular contaminants, making them
-powerful tools for environmental cleanup.
-
-## See Also
-
-- [[fungal-cellulose-degradation]]
-- [[enzyme-based-bioremediation]]
+[[fungal-cellulose-degradation]]
 - [[mycoremediation-enzymology]]
 ## Practical Applications
 
@@ -96,8 +86,6 @@ through generations to modern scientific approaches, the evolution continues
 to inform current best practices and research directions.
 
 ## See Also
-- [[decomposition]]
 - [[doc]]
-- [[det]]
 - [[mycoremediation]]
 - [[fungal-decomposition-resource-quality-determinants]]

@@ -6,19 +6,7 @@ type: concept
 
 # Plants as Heat Generators
 
-While plants are generally thought of as passive organisms that respond to their thermal environment, several species actively generate heat through metabolic processes — a phenomenon known as thermogenesis. In [[permaculture-design]], these heat-generating plants can be strategically placed to create warm microclimates, protect frost-sensitive companions, and support pollinator activity in cold conditions.
-
-## Thermogenic Plants
-
-Several plant families have evolved the ability to generate internal heat, typically associated with their reproductive structures. The most notable examples include:
-
-### Arum Lilies (Araceae Family)
-
-Most or all species in the Arum lily family store fats that are metabolically "burned" to produce heat. This thermogenesis is most pronounced in the inflorescence (flowering structure), where temperatures can rise dramatically above ambient conditions. The primary purpose appears to be volatilizing scent compounds to attract pollinating insects, particularly flies and beetles that are drawn to warmth.
-
-### Philodendron selloum
-
-[[philodendron-selloum]] is one of the most dramatic examples of plant thermogenesis. Individual plants can register temperatures of 46°C (115°F) when surrounding air temperature is only 4°C (39°F) — a differential of 42°C. This extraordinary heat production serves multiple functions: it disperses odoriferous scents that attract pollinating flies, provides a warm environment for pollinator activity, and accelerates the development of reproductive structures.
+While plants are generally thought of as passive organisms that respond to their thermal environment, several species actively generate heat through metabolic processes — a phenomenon known as thermogenesis. In [[philodendron-selloum]] is one of the most dramatic examples of plant thermogenesis. Individual plants can register temperatures of 46°C (115°F) when surrounding air temperature is only 4°C (39°F) — a differential of 42°C. This extraordinary heat production serves multiple functions: it disperses odoriferous scents that attract pollinating flies, provides a warm environment for pollinator activity, and accelerates the development of reproductive structures.
 
 ### Crocuses
 
@@ -102,3 +90,11 @@ In New Guinea highlands, cabbages from long-day climates may never flower, inste
 - **Low latitudes (0–30°):** Tropical climates with cold mountain exceptions; near-equal day and night lengths year-round.
 - **Mid latitudes (30–50°):** Cool to temperate climates with boreal mountains; long summer days and short winter days.
 - **High latitudes (>50°):** Very long summer days, short winter days, with diffuse light supporting some growth during the cold season.
+
+## See Also
+
+- [[water-use-efficiency-plants]]
+- [[us-native-hallucinogenic-dissociative-plants]]
+- [[query-how-to-make-lactobacillus-serum-for-plants]]
+- [[permaculture-plants-ground-covers-living-mulches]]
+- [[query-best-native-nitrogen-fixing-plants-for-permaculture-food-forests]]

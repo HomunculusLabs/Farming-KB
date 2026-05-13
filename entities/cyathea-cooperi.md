@@ -27,7 +27,7 @@ It has become a problematic invasive species in several regions outside its nati
 
 The trunk is covered with persistent leaf bases that form a distinctive lattice pattern. These leaf bases are light brown and create the characteristic straw-like appearance referenced in its common name.
 
-Despite its common name, *Cyathea cooperi* is not closely related to the New Zealand tree fern *[[dicksonia-antarctica]]*. The two species differ significantly in trunk structure, growth rate, and [[coleman-hardy-winter-vegetables-cold-tolerance-mechanisms]].
+Despite its common name, *Cyathea cooperi* is not closely related to the New Zealand tree fern *[[coleman-hardy-winter-vegetables-cold-tolerance-mechanisms]].
 
 The species was named in honor of Daniel Cooper, a nineteenth-century Australian botanical collector. It was formally described by William Jackson Hooker in 1854.
 
@@ -50,7 +50,7 @@ Spores are trilete, approximately 50–70 μm in diameter, and pale yellow when 
 
 Phylogenetic analyses place *Cyathea cooperi* in the *Sphaeropteris* clade, sometimes recognized as a separate genus. This group is characterized by scaly trunks and lack of true indusia.
 
-The species can be distinguished from the similar *Cyathea australis* by its smoother trunk, lighter-colored scales, and more finely divided fronds.
+The species can be distinguished from the similar *[[cyathea-australis]]* by its smoother trunk, lighter-colored scales, and more finely divided fronds.
 
 ## Distribution and Habitat
 
@@ -72,17 +72,11 @@ Australian tree fern is widely cultivated in tropical and subtropical gardens fo
 
 It grows best in partial shade but tolerates full sun in humid climates. In cooler regions it can be grown in containers and moved to shelter during winter.
 
-Propagation is exclusively from spores, as the species does not produce offsets. [[growing-gourmet-spore-germination-strain-isolation]] requires sterile conditions, warm temperatures, and high humidity.
-
-Transplanting established specimens is possible due to the compact root system. However, trunks should not be buried deeper than their original soil level.
-
-Regular watering is essential during dry periods. Mulching around the base helps retain soil moisture and provides [[organic-nutrients-vs-synthetic-nutrients]].
+Propagation is exclusively from spores, as the species does not produce offsets. [[organic-nutrients-vs-synthetic-nutrients]].
 
 The species is hardy to approximately USDA zone 9b. Frost damage causes frond dieback but the trunk usually survives and resprouts.
 
-The species responds well to balanced, slow-release fertilizers during [[query-how-to-protect-plants-from-frost-and-extend-the-growing-season]]. Avoid high-nitrogen formulations, which promote soft, weak frond growth.
-
-Pests are uncommon in cultivation. Scale insects and mealybugs may infest stressed plants, particularly those grown indoors with poor [[stamets-growing-room-air-circulation-co2-management]].
+The species responds well to balanced, slow-release fertilizers during [[stamets-growing-room-air-circulation-co2-management]].
 
 ## Invasiveness
 

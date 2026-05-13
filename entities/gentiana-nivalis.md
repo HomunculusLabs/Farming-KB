@@ -68,9 +68,7 @@ Phenological studies indicate that Gentiana nivalis is flowering earlier in resp
 
 ## Cultivation
 
-Gentiana nivalis is occasionally grown in alpine trough gardens and crevice plantings but is challenging to maintain long term. Its annual or biennial [[agaricus-campestris-biology-and-life-cycle]] means plants must set seed to persist in cultivation.
-
-Sowing fresh seed in autumn on the surface of gritty, peat-based [[compost]] gives the best results. Natural cold stratification over winter promotes reliable spring germination.
+Gentiana nivalis is occasionally grown in alpine trough gardens and crevice plantings but is challenging to maintain long term. Its annual or biennial [[compost]] gives the best results. Natural cold stratification over winter promotes reliable spring germination.
 
 Seedlings are tiny and vulnerable to drying out in their first weeks. A thin layer of fine grit helps maintain surface moisture without promoting damping-off fungi.
 
@@ -78,12 +76,18 @@ The species requires full sun and excellent drainage, mirroring its exposed alpi
 
 Plants flower in their first or second summer, producing a single brilliant blue bloom per stem. Allow seed to ripen and self-sow for continued colony maintenance.
 
-Gentiana nivalis is best displayed among rocks with other miniature alpines such as Saxifraga, Androsace, and Draba. The tiny scale of the plant requires careful placement at the front of rock [[water-garden-features]].
-
-Pot-grown specimens in clay pots replicate the restricted root environment of natural rock crevices. Use a lean, gritty mix to avoid excessive [[cannabis-vegetative-growth-stage]] at the expense of flowering.
+Gentiana nivalis is best displayed among rocks with other miniature alpines such as Saxifraga, Androsace, and Draba. The tiny scale of the plant requires careful placement at the front of rock [[cannabis-vegetative-growth-stage]] at the expense of flowering.
 
 ## Ecological Role
 
 In alpine and Arctic ecosystems, Gentiana nivalis provides nectar for small bees, flies, and hoverflies during the brief summer flowering period. The flowers are visited by a range of generalist pollinators.
 
 The species is a minor component of alpine turf and fellfield vegetation. Its taproot helps stabilize loose substrate in rock crevice habitats.
+
+## See Also
+
+- [[gentiana-dinarica]]
+- [[gentiana-prostrata]]
+- [[gentiana-asclepiadea]]
+- [[gentiana-waltonii]]
+- [[gentiana-veitchiorum]]

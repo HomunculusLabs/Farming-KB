@@ -8,13 +8,7 @@ type: concept
 
 ## Overview
 
-John Allegro argues that the Jewish Zealots and Sicarii of the first-century revolt were not merely political insurgents but movements rooted in sacred mushroom cult worship. Their names, rhetoric, and behaviour reflect the influence of psychedelic drug experiences — particularly [[allegro-colour-and-consistency-of-the-amanita-muscaria]] — upon their ideology, suicidal fervour, and apocalyptic worldview. The tragic finale at Masada, with its philosophical speech on the soul's liberation through death, is read as a distilled expression of drug-cult metaphysics.
-
-## Zealots Name as Mushroom Reference
-
-### The Root GAN and the Colour Red
-
-The Sumerian word **GAN** denoted the mushroom cap, the colour red, and cochineal dye — the vivid crimson extract derived from insect bodies that served as one of [[allegro-plants-and-drugs-in-the-ancient-world]]'s most prized colouring agents. From this root the Hebrew **qanna'** developed, meaning "to be red in the face" and, by extension, "to be zealous" — the flushed, burning countenance of religious fervour mirroring the red cap of the fungus itself.
+John Allegro argues that the Jewish Zealots and Sicarii of the first-century revolt were not merely political insurgents but movements rooted in sacred mushroom cult worship. Their names, rhetoric, and behaviour reflect the influence of psychedelic drug experiences — particularly [[allegro-plants-and-drugs-in-the-ancient-world]]'s most prized colouring agents. From this root the Hebrew **qanna'** developed, meaning "to be red in the face" and, by extension, "to be zealous" — the flushed, burning countenance of religious fervour mirroring the red cap of the fungus itself.
 
 ### Qanna'im as a Jumbled Mushroom Name
 
@@ -78,17 +72,7 @@ The Greek **gigantes** ("giants") derive from a Sumerian phrase meaning "sky-sha
 
 ### Related Names from the Same Root
 
-The same root appears in the Greek **Anakes**, a title of the Dioskouroi (the divine twins Castor and Pollux), and in **Antimimon**, one of the ancient names for the mandrake plant — another psychoactive species revered in the ancient Near East. The web of connections binds [[guzman-allen-gartz-indigenous-mexican-mushroom-nomenclature-sacred-names]] to the deepest strata of Mediterranean mythology.
-
-## Sicarii = Iscariot = Mushroom Name
-
-### The Usual Latin Explanation
-
-The standard etymology derives "Sicarii" from the Latin **sica**, a short sickle blade, referring to the curved daggers these assassins concealed beneath their cloaks. While plausible on the surface, this explanation fails to account for the deeper linguistic connections Allegro uncovers.
-
-### The S-K-R Root: A Sumerian Fungal Reference
-
-The consonantal skeleton **s-k-r** points instead to the Sumerian ***USh_GU_RI**, meaning "knobbed bolt" or "phallus" — a common euphemism for the [[shroom-cultural-history-mushroom-in-ancient-civilizations]] Near Eastern vocabularies. The shape of the Amanita, with its bulbous stem and rounded cap, naturally invited such phallic identification.
+The same root appears in the Greek **Anakes**, a title of the Dioskouroi (the divine twins Castor and Pollux), and in **Antimimon**, one of the ancient names for the mandrake plant — another psychoactive species revered in the ancient Near East. The web of connections binds [[shroom-cultural-history-mushroom-in-ancient-civilizations]] Near Eastern vocabularies. The shape of the Amanita, with its bulbous stem and rounded cap, naturally invited such phallic identification.
 
 ### Persian saqrätiyün: Iscariot as Dioskouroi
 

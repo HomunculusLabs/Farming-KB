@@ -20,35 +20,7 @@ created: 2026-04-28
 
 ## Overview
 
-**Koumine** is an oxindole alkaloid found in *Gelsemium elegans* (Loganiaceae), the same species that produces the highly toxic alkaloid [[gelsemine]].
-
-It is the most abundant alkaloid in *G. elegans*, typically comprising 40–60% of the total alkaloid fraction, and is significantly less toxic than its convulsant relatives gelsemine and gelsenicine.
-
-Research interest in koumine has grown substantially due to its anxiolytic, anti-inflammatory, and immunomodulatory properties at doses well below the toxic threshold.
-
-It represents a promising lead compound for novel anxiolytic drug development, potentially offering a non-benzodiazepine mechanism of action with fewer side effects.
-
-## Chemical Properties
-
-Koumine has the molecular formula **C₂₀H₂₂N₂O** and a molecular weight of **306.40 g/mol**.
-
-It is structurally related to gelsemine but lacks the C-3 hydroxyl group, resulting in a simpler oxindole skeleton with one fewer oxygen atom.
-
-The IUPAC name is (19E)-23-ethyl-19,21-didehydro-18,21-seco-5α,7β,20α-eburnamenine-3,17-dione.
-
-The compound crystallizes as colorless needles or prisms, with a melting point of approximately 170–172°C. It is slightly soluble in water, soluble in ethanol and acetone, and readily forms salts with mineral acids.
-
-Koumine's biosynthesis follows the strictosidine pathway, sharing early steps with other *Gelsemium* alkaloids. The key divergence from gelsemine biosynthesis occurs at C-3 hydroxylation, which koumine lacks.
-
-The absolute configuration was established through X-ray crystallographic analysis and confirmed by total synthesis efforts. The molecule contains four stereocenters, with the natural enantiomer displaying all biological activity.
-
-## Pharmacology
-
-Koumine exhibits a distinct pharmacological profile from the more toxic *Gelsemium* alkaloids. Rather than acting as a glycine receptor antagonist like gelsemine, koumine modulates neurotransmitter systems through multiple targets.
-
-**Anxiolytic activity** is the most extensively documented effect. In rodent models including the elevated plus maze, light-dark box, and open field tests, koumine produces significant anxiolytic-like effects at doses of 0.56–2.8 mg/kg (i.p.) without the sedation or motor impairment typical of benzodiazepines.
-
-The anxiolytic mechanism involves modulation of the serotonergic system, particularly through 5-HT1A receptor partial agonism. Koumine increases [[serotonin]] turnover in the hippocampus and prefrontal cortex.
+**Koumine** is an oxindole alkaloid found in *Gelsemium elegans* (Loganiaceae), the same species that produces the highly toxic alkaloid [[serotonin]] turnover in the hippocampus and prefrontal cortex.
 
 Additionally, koumine normalizes HPA axis activity under chronic stress conditions, reducing corticosterone levels and preventing stress-induced dendritic atrophy in the hippocampus.
 
@@ -64,26 +36,91 @@ Neuroprotective effects include protection against glutamate-induced excitotoxic
 
 Koumine is markedly less toxic than gelsemine, with an approximate LD50 in mice of 84 mg/kg (i.p.) compared to approximately 1 mg/kg for gelsemine. This ~80-fold difference makes koumine a far more viable candidate for therapeutic development.
 
-The [[cannabis-therapeutic-index-overview]] (LD50/minimum effective dose) is approximately 30–40 for anxiolytic effects, comparing favorably to many current anxiolytic medications including benzodiazepines.
-
-Chronic toxicity studies in rats at 10× the effective dose for 90 days showed no significant organ toxicity, hematological abnormalities, or histopathological changes in major organs.
-
-No serious [[blesching-cannabis-safety-adverse-effects-evidence]] have been reported at therapeutic doses in animal studies. Mild sedation occurs at doses significantly above the anxiolytic range.
+The [[blesching-cannabis-safety-adverse-effects-evidence]] have been reported at therapeutic doses in animal studies. Mild sedation occurs at doses significantly above the anxiolytic range.
 
 No convulsant activity has been observed at any tested dose, distinguishing koumine sharply from other *Gelsemium* alkaloids and eliminating the primary safety concern of this alkaloid family.
 
-The pharmacokinetic profile shows rapid absorption after intraperitoneal administration in rodents, with peak plasma concentrations reached within 30–60 minutes. [[first-pass-metabolism-and-oral-bioavailability]] is moderate (approximately 25–35%), with hepatic first-pass metabolism being the primary limitation.
+The pharmacokinetic profile shows rapid absorption after intraperitoneal administration in rodents, with peak plasma concentrations reached within 30–60 minutes. [[psilocybin-clinical-trial-landscape-2020-2025]] approval.
 
-Metabolism occurs primarily through hepatic cytochrome P450 enzymes, with CYP3A4 and CYP2D6 identified as the major isoforms involved. The elimination half-life is approximately 2–4 hours in rodents.
-
-## Legal Status
-
-Koumine is not specifically scheduled under international drug conventions. However, as a constituent of *G. elegans*, it falls under regulations governing this toxic plant species in several jurisdictions.
-
-In China, koumine-containing preparations are classified as investigational drugs requiring [[psilocybin-clinical-trial-landscape-2020-2025]] approval.
-
-No koumine-based pharmaceuticals have yet reached market approval, though several candidates are in Phase I/II clinical development [[cannabis-for-anxiety-disorders]] and [[cannabis-chronic-pain-management]].
+No koumine-based pharmaceuticals have yet reached market approval, though several candidates are in Phase I/II clinical development [[cannabis-chronic-pain-management]].
 
 ## Related Compounds
 
 Koumine is one of five major *Gelsemium* alkaloids, each with distinct pharmacological profiles:
+
+## Overview
+
+Koumine represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish koumine
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving koumine extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Koumine finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for koumine. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+koumine and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Koumine has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of koumine into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.

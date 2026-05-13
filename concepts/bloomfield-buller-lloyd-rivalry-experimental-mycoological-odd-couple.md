@@ -2,12 +2,7 @@
 title: Bloomfield Buller Lloyd Rivalry Experimental Mycoological Odd Couple
 source: "Mr. Bloomfield's Orchard"
 source_author: "[[nicholas-money]]"
-topics: ["mycology", "history of science", "[[singer-wasson-scientific-rivalry-psilocybe-taxonomy]]", "fungal spores"]
----
-
-# Buller and Lloyd: The Odd Couple of Mycology
-
-The [[bloomfield-history-of-mycology-pioneers]] features no more fascinating contrast than Arthur Henry
+topics: ["mycology", "history of science", "[[bloomfield-history-of-mycology-pioneers]] features no more fascinating contrast than Arthur Henry
 Reginald Buller and Curtis Gates Lloyd — the laboratory experimentalist and the
 self-taught taxonomic collector whose intersecting careers illuminate enduring
 tensions between different modes of scientific inquiry that persist in biology
@@ -67,9 +62,7 @@ In 1910, Buller observed the formation of a fluid drop at the base of each
 basidiospore seconds before discharge. Once he found that the drop traveled
 with the spore, the Stokes' law discrepancy was resolved — fluid clinging to
 the spore surface increased its effective diameter, speeding its descent. He
-wrote: "It may be that the force of [[bloomfield-buller-drops-and-surface-tension-spore-catapult-mechanism]] is used in some way to
-effect spore-discharge; but exactly how I cannot satisfactorily explain. Possibly
-we have an entirely new principle involved." The [[fungal-spore-discharge-catapult-mechanism]] would defy
+wrote: "It may be that the force of [[fungal-spore-discharge-catapult-mechanism]] would defy
 full explanation for seventy years, but his hypothesis proved critical to its
 ultimate solution.
 
@@ -115,6 +108,5 @@ experiment.
 
 ## See Also
 
-- [[bloomfield-buller-drop-surface-tension-spore-catapult-basidiospore-discharge]]
 - [[bloomfield-curtis-gates-lloyd-pharmacist-mycologist]]
 - [[bloomfield-mushroom-aerodynamics-wind-spore-dispersal]]

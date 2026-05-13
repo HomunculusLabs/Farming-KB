@@ -13,22 +13,11 @@ sources:
 type: concept
 ---
 
-# Catalytic Hydrogenolysis for [[wasson-rediscovery-of-psilocybin]]. This transformation converts the zwitterionic N,zwitterionic dibenzyl phosphate (compound 8) into psilocybin (compound 2) by
-simultaneously removing both benzyl protecting groups: the N-benzyl group
-from the quaternary ammonium ion and the O-benzyl group from the
-phosphate ester. The reaction proceeds cleanly to give crystalline
-psilocybin in 87.5% yield without any chromatographic purification.
-
-## The Role of Hydrogenolysis in the Synthesis
-
-The [[psilocybin-synthesis-zwitterionic-intermediate-filtration-method]] (compound 8) carries two benzyl groups that
+# Catalytic Hydrogenolysis for [[psilocybin-synthesis-zwitterionic-intermediate-filtration-method]] (compound 8) carries two benzyl groups that
 must be removed to reveal the final psilocybin structure:
 
 1. **N-benzyl removal**: Cleavage of the benzyl group from the quaternary
-   ammonium nitrogen (N-1 of the [[indole]]) restores the indole NH and
-   converts the quaternary ammonium to the tertiary N,N-dimethylamine.
-2. **O-benzyl removal**: Cleavage of the benzyl group from the phosphate
-   monoester reveals the free [[cho-water-soluble-phosphoric-acid-preparation]] group (-OPO3H2), giving
+   ammonium nitrogen (N-1 of the [[cho-water-soluble-phosphoric-acid-preparation]] group (-OPO3H2), giving
    the complete phosphate ester of psilocybin.
 
 Both debenzylation events occur under the same catalytic hydrogenolysis
@@ -40,27 +29,7 @@ The hydrogenolysis is performed under the following conditions:
 
 - **Substrate**: Compound 8 (10.5 g, 22.5 mmol)
 - **Solvent**: Methanol (225 mL), chosen for its ability to dissolve
-  the [[psilocybin-phosphorylation-via-zwitterionic-intermediate]] and its compatibility with Pd/C
-  catalysis
-- **Catalyst**: 10% palladium on activated carbon (approximately 1 g,
-  roughly 10% by weight of substrate)
-- **Atmosphere**: Hydrogen gas under an initially argon atmosphere
-  that is then replaced with hydrogen
-- **Temperature**: Room temperature (ambient conditions)
-- **Time**: Approximately 2-3 hours total
-
-The reaction is monitored by TLC, watching for the disappearance of
-compound 8 and its mono-debenzylated derivative and the appearance of
-psilocybin.
-
-## Mechanism of Pd/C Hydrogenolysis
-
-### Benzyl Ester Cleavage (O-Benzyl)
-
-The O-benzyl phosphate ester undergoes standard hydrogenolytic cleavage.
-Molecular hydrogen is adsorbed and activated on the palladium surface,
-generating reactive Pd-H species. The benzyl-oxygen bond is cleaved
-through [[oxidative-addition-organometallic-chemistry]] to Pd(0) or through a surface-mediated
+  the [[oxidative-addition-organometallic-chemistry]] to Pd(0) or through a surface-mediated
 process, yielding toluene and the free phosphate acid. This is the same
 mechanism by which benzyl esters are routinely deprotected in organic
 synthesis.
@@ -118,8 +87,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[psilocybin]]
 - [[methanol]]
-- [[indole]]
 - [[ethanol]]
 - [[shirota-catalytic-hydrogenolysis-debenzylation-psilocybin]]

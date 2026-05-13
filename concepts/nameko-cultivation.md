@@ -16,7 +16,7 @@ sources:
 
 ## Overview
 
-Nameko (Pholiota nameko) is a traditional Japanese culinary mushroom, one of the most popular [[fungi-cultivated-mushrooms-pathogens-competitors]] in Japan. It is characterized by its small amber-to-orange cap and distinctive gelatinous, slippery surface coating. Nameko has a mild, nutty flavor and is a key ingredient in miso soup and nabemono (Japanese hot pot dishes).
+Nameko ([[pholiota-nameko]]) is a traditional Japanese culinary mushroom, one of the most popular [[fungi-cultivated-mushrooms-pathogens-competitors]] in Japan. It is characterized by its small amber-to-orange cap and distinctive gelatinous, slippery surface coating. Nameko has a mild, nutty flavor and is a key ingredient in miso soup and nabemono (Japanese hot pot dishes).
 
 ## Species Description
 
@@ -119,6 +119,6 @@ Fresh Nameko is highly perishable due to its gelatinous coating and moisture con
 ## See Also
 
 - Nameko cultivation detailed guide
-- [[log-cultivation-methods]]
-- [[shiitake-cultivation-guide]]
-- [[mushroom-cultivation-basics]]
+- [[log-cultivation-methods|log cultivation methods]]
+- [[shiitake-cultivation-guide|shiitake cultivation (similar log method)]]
+- [[mushroom-cultivation-basics|mushroom cultivation fundamentals]]

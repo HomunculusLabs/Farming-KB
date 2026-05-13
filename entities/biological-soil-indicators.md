@@ -77,12 +77,6 @@ A framework for using plants, animals, and ecological patterns to assess soil an
 
 ## Relevance to Cultivation
 
-Biological indicators are the foundation of [[permaculture-site-analysis]]. Rather than relying on expensive laboratory tests, practitioners learn to read the landscape through its living inhabitants. This approach is especially valuable in the developing world and for home gardeners. The framework connects directly to management decisions: chicory pioneering compacted soils informs both diagnosis and pioneer plant selection; pH indicator plants guide species choice; fire scar reading informs fire management.
-
-## Related Entities
-
-- Earthworms — primary soil health indicator
-- [[soil-ph]] — pH management
-- [[plant-mineral-deficiency-diagnosis]] — companion diagnostic system
+Biological indicators are the foundation of [[soil-ph]] — pH management
 - [[seed-pelleting]] — technique for establishing plants on difficult sites
 - Mycorrhizae — [[soil-biota]] contributing to soil health

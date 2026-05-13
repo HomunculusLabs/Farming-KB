@@ -46,13 +46,8 @@ Aconitine is a highly toxic diterpenoid alkaloid found in *Aconitum* species (mo
 
 ## Natural Sources
 
-Aconitine and related C₁₉-diterpenoid alkaloids are found in approximately 300 *Aconitum* species (family Ranunculaceae) distributed across [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]] of the Northern Hemisphere. The biosynthetic pathway originates from geranylgeranyl pyrophosphate (GGPP) and proceeds through ent-kaurene intermediates before extensive oxidative rearrangement and esterification.
-
-- **[[aconitum-napellus]]** (common monkshood): Native to Europe; roots (tubers) contain 0.3–1.5% aconitine. Historically used as a poison for hunting and warfare. Cultivated as an ornamental.
+Aconitine and related C₁₉-diterpenoid alkaloids are found in approximately 300 *Aconitum* species (family Ranunculaceae) distributed across [[aconitum-napellus]]** (common monkshood): Native to Europe; roots (tubers) contain 0.3–1.5% aconitine. Historically used as a poison for hunting and warfare. Cultivated as an ornamental.
 - **Aconitum kusnezoffii** (Kusnezoff monkshood): Native to Siberia and East Asia; roots are the primary source of aconitine in traditional Chinese medicine ("Cao Wu").
-- **[[aconitum-carmichaelii]]** (Chinese aconite): Chinese medicinal plant ("Chuan Wu"); roots contain aconitine alongside mesaconitine and hypaconitine as the three principal alkaloids.
-- **Aconitum sinomontanum** (Chinese monkshood): Used in Tibetan medicine; contains lappaconitine rather than aconitine as the major alkaloid.
-- **Aconitum ferrox** (Indian aconite): Important in Ayurvedic medicine ("Vishamushka"); roots contain aconitine and related alkaloids.
 - **[[aconitum-anthora]]** (yellow monkshood): Historically used as an antidote to aconite poisoning (paradoxically, given its own toxicity).
 
 ## Pharmacology
@@ -67,11 +62,7 @@ The cardiac toxicity of aconitine is its most clinically significant feature. Pe
 
 ### Neurological Effects
 
-Aconitine produces initial paresthesias and numbness in the face and extremities (particularly the oral mucosa and perioral region), reflecting its action on sensory neurons. This progresses to generalized sensory disturbances, muscle fasciculations, and convulsions. Unlike [[strychnine]], aconitine poisoning does not characteristically preserve consciousness; cerebral involvement can produce confusion, agitation, coma, and respiratory depression. The neurological effects result from repetitive firing of both central and peripheral neurons due to sodium channel disinhibition.
-
-### Anti-inflammatory and Analgesic Activity
-
-Paradoxically, at sub-toxic doses aconitine and processed aconite preparations demonstrate significant anti-inflammatory and analgesic effects. These are attributed to inhibition of NF-κB signaling, suppression of pro-inflammatory cytokines, and modulation of TRPV1 and Nav1.7 channels involved in pain signaling. Processed aconite ("Zhi Fuzi" in Chinese medicine) is considered one of the most potent analgesic herbs in traditional Chinese pharmacopeia, used [[cannabis-for-rheumatoid-arthritis]], neuropathic pain, and [[cannabis-for-inflammatory-conditions]].
+Aconitine produces initial paresthesias and numbness in the face and extremities (particularly the oral mucosa and perioral region), reflecting its action on sensory neurons. This progresses to generalized sensory disturbances, muscle fasciculations, and convulsions. Unlike [[cannabis-for-rheumatoid-arthritis]], neuropathic pain, and [[cannabis-for-inflammatory-conditions]].
 
 ## Toxicology
 

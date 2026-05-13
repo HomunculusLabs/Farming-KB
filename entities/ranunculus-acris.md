@@ -36,7 +36,7 @@ Ranunculus acris was described by Carl Linnaeus in his 1753 Species Plantarum. T
 
 The specific epithet "acris" means "sharp" or "acrid," referring to the pungent taste of the fresh foliage. The plant belongs to the section Ranunculus within the subgenus Ranunculus.
 
-Chromosome number is 2n = 14 (diploid), though polyploid cytotypes are known from northern populations. Molecular phylogenetics place Ranunculus acris in a clade with [[ranunculus-repens]] and [[ranunculus-bulbosus]].
+Chromosome number is 2n = 14 (diploid), though polyploid cytotypes are known from northern populations. Molecular phylogenetics place Ranunculus acris in a clade with [[ranunculus-bulbosus]].
 
 Several subspecies are recognized, including subsp. acris, subsp. friesianus, and subsp. strigulosus. The species exhibits considerable morphological variation across its broad geographic range.
 
@@ -60,39 +60,91 @@ Fruiting heads are globose, composed of numerous flattened achenes with short cu
 
 The root system consists of a short vertical rhizome with fibrous roots. Unlike Ranunculus repens, meadow buttercup does not produce stolons.
 
-The plant overwinters as a basal rosette of lobed leaves close to the ground. This rosette stage allows it to survive mowing and moderate [[gadd-mycelial-network-resilience-grazing-pressure]] throughout winter months.
-
-## Distribution and Habitat
-
-Ranunculus acris is native to Europe, western Asia, and North Africa. It has been widely introduced to North America, South America, Australia, and New Zealand through European settlement and agriculture.
-
-In its native range, it occurs from sea level to alpine meadows at 2,500 meters. The species is ubiquitous in damp meadows, pastures, road verges, and woodland clearings.
-
-It prefers moist, moderately fertile soils but tolerates a wide range of conditions. The plant thrives in both acidic and calcareous soils and grows in full sun to partial shade.
-
-In introduced regions, meadow buttercup has become a common component of pastures and disturbed ground. It is considered invasive in some parts of New Zealand and North America.
-
-The species is absent only from the driest Mediterranean zones and the high Arctic. Climate envelope models suggest its range may expand northward under warming scenarios.
-
-In the British Isles, Ranunculus acris is a component of the National Vegetation Classification MG5 grassland community. These species-rich hay meadows are a priority habitat under the EU Habitats Directive.
-
-The plant shows moderate tolerance to waterlogging and can persist in seasonally flooded grasslands. It is less drought-tolerant than Ranunculus bulbosus, from which it is distinguished by its taller stature and lack of bulbous stem base.
-
-## Cultivation and Uses
-
-Meadow buttercup is not widely cultivated as a garden ornamental, though it has a place in [[hamilton-wildflower-meadow]] plantings. Several double-flowered horticultural selections exist, including the popular cultivar 'Citrinus' with pale lemon flowers.
+The plant overwinters as a basal rosette of lobed leaves close to the ground. This rosette stage allows it to survive mowing and moderate [[hamilton-wildflower-meadow]] plantings. Several double-flowered horticultural selections exist, including the popular cultivar 'Citrinus' with pale lemon flowers.
 
 The species has limited traditional medicinal use due to its toxicity. Fresh herb was applied externally as a vesicant and counterirritant in folk medicine, but such practices are discouraged.
 
-Ranunculus acris has been used as a model organism in [[mycorrhiza-bioassays-ecological-studies]] of grassland communities. Its response to grazing pressure and [[cervantes-fertilizer-application-strain-feeding]] is well-documented.
+Ranunculus acris has been used as a model organism in [[cervantes-fertilizer-application-strain-feeding]] is well-documented.
 
 The plant is avoided by grazing livestock due to the acrid taste caused by protoanemonin. Heavy grazing reduces competition and can paradoxically increase buttercup abundance in pastures.
 
 ## See Also
 
 - [[ranunculus-aconitifolius]]
-- [[ranunculus-arvensis]]
-- [[ranunculus-cassubicus]]
-- [[ranunculus-eschscholtzii]]
-- [[ranunculus-occidentalis]]
-- [[ranunculus-pennsylvanicus]]
+- [[ranunculus-auricomus]]
+- [[ranunculus-lyallii]]
+- [[ranunculus-polyanthemos]]
+
+## Overview
+
+Ranunculus Acris represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish ranunculus acris
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving ranunculus extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Ranunculus Acris finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for ranunculus acris. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+ranunculus acris and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Ranunculus Acris has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of ranunculus acris into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource

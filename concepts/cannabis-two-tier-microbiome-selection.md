@@ -20,17 +20,7 @@ Under this model, soil type primarily determines which microbial species are ava
 
 The first tier of selection operates at the level of the bulk soil community. Soil properties including pH, texture, organic carbon content, nitrogen availability, salinity, and water content create the environment that selects for the initial microbial species pool. Different soils harbor dramatically different microbial communities, and these differences propagate upward through the plant-root interface.
 
-In the cannabis microbiome study, soil type was overwhelmingly the strongest predictor of [[core-endorhiza-bacterial-community-composition-cannabis]] across all sample types. Unweighted analysis showed 657 significant OTU differences between soil types, compared to 51 between sample types and zero between strains. This demonstrates that soil is the primary determinant of which microorganisms are present in the system.
-
-Edaphic factor analysis identified nitrogen as the strongest factor structuring microbial communities, followed by salinity, carbon, water content, and pH. The optimal combination of three factors (nitrogen, carbon, and water content) explained 63.2 percent of the variance in community data.
-
-## Second Tier: Host Genotype Selection
-
-The second tier operates as microorganisms migrate from the rhizosphere into plant tissues. Plant roots exude organic compounds (rhizodeposits) that create a nutrient-rich environment, attracting microorganisms from the surrounding soil. However, the transition from rhizosphere to endorhiza involves an additional selective filter imposed by the plant host.
-
-The plant's genotype influences this selection through several mechanisms. Root anatomy and structure determine which microorganisms can physically access root interior tissues. Root exudate composition, which varies between genotypes, selectively feeds certain microorganisms over others. The plant's immune system recognizes and permits or excludes specific microbial taxa based on molecular signaling.
-
-In cannabis, this second tier of selection is most clearly observed in the endorhiza, where [[cannabis-cultivar-effects-soil-microbiome]] on community structure are strongest. While soil type determines which organisms are available, the cannabis plant's genotype determines which organisms thrive within its root tissues.
+In the cannabis microbiome study, soil type was overwhelmingly the strongest predictor of [[cannabis-cultivar-effects-soil-microbiome]] on community structure are strongest. While soil type determines which organisms are available, the cannabis plant's genotype determines which organisms thrive within its root tissues.
 
 ## Evidence from Cannabis Studies
 
@@ -40,23 +30,7 @@ Community composition across sample types was determined predominantly by soil p
 
 Community structure (abundance) within endorhiza samples was driven mainly by cannabis cultivar, consistent with second-tier selection. In weighted analysis, strain was the main determinant of the first principal coordinate axis, explaining 34.51 percent of variation.
 
-Alpha diversity showed a clear decline from bulk soil (highest diversity) through rhizosphere (intermediate) to endorhiza (lowest diversity), reflecting the progressive filtering of the [[edaphic-factors-microbial-community-structure]] at each tier.
-
-The test of shared OTUs between endorhiza and soil samples supported the soil-derived origin of endophytes. White Widow plants grown in two different soils shared significantly more OTUs with their own soil than with the other soil, confirming that endorhiza communities are recruited from the local soil pool.
-
-## Beta Diversity Patterns
-
-The two-tier model predicts specific patterns of community similarity. Rhizosphere and bulk soil communities should be more similar to each other than either is to endorhiza communities, because the rhizosphere represents an intermediate stage between bulk soil and endophytic colonization.
-
-In the cannabis study, beta distances between rhizosphere and bulk soil communities were significantly lower than distances between rhizosphere and endorhiza communities for both weighted and unweighted analyses. Similarly, distances between bulk soil and rhizosphere were significantly lower than distances between bulk soil and endorhiza communities.
-
-However, distances between rhizosphere and endorhiza communities were not significantly different from distances between bulk soil and endorhiza communities. This finding provides only partial support for the two-tier model and suggests that the rhizosphere-to-endorhiza transition may be more abrupt than gradual in cannabis.
-
-## Implications for Cannabis Cultivation
-
-The two-tier model has practical implications for cannabis growers seeking to optimize their plants' microbiomes. The dominant role of soil in determining the available microbial species pool means that soil management is the primary lever for influencing the root microbiome. Building healthy, biologically active soil through composting, cover cropping, and minimal tillage creates the foundation for beneficial root-microbe partnerships.
-
-The secondary role of cultivar selection means that different cannabis genetics may perform optimally with different soil microbiome profiles. A cultivar that thrives in one soil environment may underperform in another, not because of direct [[ph-and-nutrient-availability-garden-soils]] but because the soil's microbial community is incompatible with the cultivar's genotype-specific selection preferences.
+Alpha diversity showed a clear decline from bulk soil (highest diversity) through rhizosphere (intermediate) to endorhiza (lowest diversity), reflecting the progressive filtering of the [[ph-and-nutrient-availability-garden-soils]] but because the soil's microbial community is incompatible with the cultivar's genotype-specific selection preferences.
 
 Inoculation strategies should consider both tiers. Adding beneficial microorganisms to soil (first tier) expands the available species pool, but the plant will ultimately select which organisms colonize its tissues based on its genotype (second tier). Effective inoculation therefore requires both introducing desirable organisms and creating soil conditions that favor their persistence.
 
@@ -64,14 +38,8 @@ Inoculation strategies should consider both tiers. Adding beneficial microorgani
 
 The two-tier model, while useful, is a simplification of complex ecological dynamics. Plant growth stage, seasonal changes, management practices, and interactions between microorganisms all introduce additional layers of complexity. The model does not fully account for horizontal gene transfer between root-associated microorganisms, co-evolution between host plants and their microbial partners, or the role of fungal partners such as mycorrhizae.
 
-In cannabis specifically, the high level of [[fungal-elicitors-enhanced-secondary-metabolite-production]] production adds another dimension not captured by the basic two-tier framework. Root exudates in cannabis may include cannabinoids or their precursors, potentially creating unique selection pressures on the root microbiome that are not observed in other crop species.
-
-## Related
-
-- [[cultivar-cannabis-microbiome-two-tier-selection-model]] Topics
-- [[cannabis-endorhiza-microbiome]] for endorhiza community characterization
+In cannabis specifically, the high level of [[cultivar-cannabis-microbiome-two-tier-selection-model]] Topics
 - [[cannabis-root-microbiome]] for broader root microbiome context
-- [[cannabis-soil-and-nutrient-requirements]] for soil management
 - [[cannabis-hydroponic-systems]] for soil-less growing and microbiome implications
 
 ## Alpha Diversity Patterns
@@ -117,8 +85,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[endorhiza-microbiome]]
 - [[cannabis-microbiome-two-tier-selection]]
-- [[cultivar-cannabis-microbiome-two-tier-selection-model]]
 - [[dom]]
 - [[det]]

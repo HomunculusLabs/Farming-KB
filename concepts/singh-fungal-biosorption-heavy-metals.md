@@ -16,8 +16,7 @@ Source: fungal-bioremediation (2006), Chapter 11
 
 ## Overview
 
-Fungal biosorption is the process by which living or dead [[bioremediation-fungal-biomass-biosorbent-material]] sequesters toxic metals from aqueous solutions. This technology offers a promising and economical alternative for treating metal-laden industrial effluents. Conservative estimates value new biosorbents in the [[growing-gourmet-north-american-reishi-species]] environmental market at $27 million per year (Volesky, 2001). The fungal-specific form is termed mycosorption, and the biomass used is called mycosorbent. See also [[acid-mine-drainage-treatment]], [[aureobasidium-pullulans]], [[aspergillus-niger]] dead biomass: Cr(VI) -> Cr(III) via two mechanisms
-- [[alternaria-alternata]]: Se(IV/VI) -> (CH3)2Se (dimethyl selenide, volatile)
+Fungal biosorption is the process by which living or dead [[growing-gourmet-north-american-reishi-species]] environmental market at $27 million per year (Volesky, 2001). The fungal-specific form is termed mycosorption, and the biomass used is called mycosorbent. See also [[aureobasidium-pullulans]], [[alternaria-alternata]]: Se(IV/VI) -> (CH3)2Se (dimethyl selenide, volatile)
 - Penicillium spp.: As(V) -> (CH3)2HAs or (CH3)3As (volatile arsenic compounds)
 - Penicillium spp.: Te(IV/VI) -> (CH3)2Te
 
@@ -26,7 +25,7 @@ Fungal biosorption is the process by which living or dead [[bioremediation-funga
 
 ### Metal Leaching
 - Oxalic acid: leaching agent for Al, Fe, Li (forming soluble metal oxalate complexes)
-- Bjerkandera fumosa, Phlebia radiata, [[penicillium-simplicissimum]]: zinc adsorption accompanied by citric [[staycare-fungal-organic-acid-production-metal-leaching]]
+- Bjerkandera fumosa, Phlebia radiata, [[staycare-fungal-organic-acid-production-metal-leaching]]
 - Aspergillus niger cultural filtrate: solubilizes 18% Cu, 7% Ni, 4% Co
 
 ## Biosorption Reactor Types
@@ -34,8 +33,6 @@ Fungal biosorption is the process by which living or dead [[bioremediation-funga
 ### Batch Stirred-Tank Reactors
 - Earliest used for metal-biosorbent effectiveness testing
 - Plug-flow system: 2-5 min retention time, 87% copper reduction (Butter et al., 1998)
-- [[saccharomyces-cerevisiae]] in PVA gel: 97% Cu(II) removal
-- Mucor rouxii in polysulfone: 4.0 mg/g Pb, 3.7 mg/g Cd
 - [[growing-gourmet-turkey-tail-trametes-versicolor-cultivation]]: heat-killed mycelia showed HIGHER Cd(II) uptake (153 mg/g) than live (124 mg/g)
 - Lentinus sajor-caju: dead mycelia (90% Cd removal) > live mycelia (78%)
 

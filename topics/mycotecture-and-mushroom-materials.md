@@ -29,20 +29,7 @@ The formation of a mycelium composite involves several biological processes:
 - **Enzymatic modification:** Fungi secrete cellulases, ligninases, and other enzymes that partially digest the substrate, modifying its surface chemistry and improving bonding.
 - **Extracellular polymer secretion:** Glucans, chitin, and glycoproteins are deposited at hyphal surfaces and interfaces, forming a natural binder.
 - **Densification and self-assembly:** As the mycelium colonizes the full substrate volume, the composite achieves structural integrity through the density and connectivity of the hyphal network.
-- **Termination and curing:** Heat treatment (typically 80–120°C) kills the fungus, halting growth and stabilizing the material while preserving the [[bloomfield-what-lies-beneath-mycelial-architecture-hyphal-biology-subterranean-fungus]].
-
-### Fungal Species Used in Mycotecture
-
-Different fungal species produce composites with distinct properties:
-
-| Species | Substrate Preference | Growth Rate | Composite Characteristics |
-|---|---|---|---|
-| *[[ganoderma-lucidum]]* (Reishi) | Sawdust, wood chips | Moderate | Dense, hard, high compressive strength | *Pleurotus ostreatus* (Oyster) (Oyster) | Straw, [[fungi-in-composting-and-agricultural-waste-conversion]] | Fast | Lightweight, good insulation | *Trametes versicolor* (Turkey Tail) (Turkey Tail) | Wood chips, sawdust | Moderate | Uniform, fine texture |
-| *Ganoderma tsugae* | Hemlock sawdust | Moderate-Slow | Very dense, water-resistant |
-| *Fomes fomentarius* (Tinder Fungus) | Birch, hardwood | Slow | Extremely tough, fire-resistant |
-| *Pleurotus eryngii* (King Oyster) | Straw, cotton waste | Fast | Good tensile properties, flexible |
-
-*Ganoderma* species are favored for structural applications due to their dense, hard fruiting bodies and robust [[fungal-mycelial-networks-nutrient-translocation]]. *Pleurotus* species are preferred for packaging and insulation where rapid growth and lightweight properties are prioritized.
+- **Termination and curing:** Heat treatment (typically 80–120°C) kills the fungus, halting growth and stabilizing the material while preserving the [[ganoderma-lucidum]]* (Reishi) | Sawdust, wood chips | Moderate | Dense, hard, high compressive strength | *Pleurotus ostreatus* (Oyster) (Oyster) | Straw, [[fungal-mycelial-networks-nutrient-translocation]]. *Pleurotus* species are preferred for packaging and insulation where rapid growth and lightweight properties are prioritized.
 
 ## History and Key Milestones
 
@@ -69,36 +56,7 @@ Different fungal species produce composites with distinct properties:
 
 The substrate provides both nutrition for fungal growth and the bulk material of the final composite:
 
-1. **Selection:** Agricultural waste (wheat straw, rice straw, corn stover, hemp hurd), wood byproducts (sawdust, wood chips), or industrial waste (cotton gin trash, [[oyster-mushroom-coffee-grounds-cultivation]], paper pulp).
-2. **Processing:** Substrate is chopped to uniform particle size (typically 5–20 mm) to ensure even colonization.
-3. **Moisture adjustment:** Water content is adjusted to 60–75% by weight, the optimal range for most fungal species.
-4. **Supplementation (optional):** Nitrogen sources (bran, gypsum) may be added at 5–20% to accelerate growth, though this can affect final material properties.
-5. **Sterilization:** Substrate is sterilized (autoclaving at 121°C for 30–60 minutes, or pasteurization at 70–80°C for 1–2 hours) to eliminate competing microorganisms.
-
-### Inoculation and Growth
-
-1. **Inoculation:** Grain spawn (mycelium grown on sterilized grain) is mixed into the cooled substrate at a rate of 5–15% by weight.
-2. **Molding:** The inoculated substrate is packed into molds of the desired shape — from simple blocks to complex architectural forms. Molds may be made from plastic, metal, or biodegradable materials.
-3. **Incubation:** Molds are placed in controlled-environment chambers at 24–28°C and 85–95% relative humidity for 3–14 days, depending on species, substrate, and desired density.
-4. **CO₂ management:** High CO₂ levels (>5%) encourage vegetative mycelial growth and suppress fruiting body formation, which is critical for producing uniform composites.
-
-### Harvesting and Post-Processing
-
-1. **Demolding:** The colonized composite is removed from the mold once fully bound (indicated by white mycelial coverage throughout).
-2. **Drying:** Composites are dried at 60–100°C for 12–48 hours to reduce moisture content below 10%, killing the fungus and stabilizing the material.
-3. **Post-treatment (optional):**
-   - **Heat pressing:** Increases density and surface hardness (up to 2× compressive strength improvement).
-   - **Coating:** Natural oils, waxes, or bio-based resins improve water resistance.
-   - **Fire retardant treatment:** Borate dips, mineral coatings, or integrated mineral substrates (vermiculite, perlite) improve fire ratings.
-   - **Surface finishing:** Sanding, planing, or lamination for architectural applications.
-
-### Industrial-Scale Production
-
-Modern production facilities use automated systems:
-
-- **Continuous mixers** for substrate preparation and inoculation
-- **Pneumatic filling** of molds for consistent density
-- **[[eclss-environmental-control-life-support]] chambers** with automated temperature, humidity, and CO₂ management
+1. **Selection:** Agricultural waste (wheat straw, rice straw, corn stover, hemp hurd), wood byproducts (sawdust, wood chips), or industrial waste (cotton gin trash, [[eclss-environmental-control-life-support]] chambers** with automated temperature, humidity, and CO₂ management
 - **Continuous belt dryers** for post-processing
 - **CNC trimming** for dimensional accuracy
 - Production cycle times range from 5–14 days depending on product thickness and density requirements.
@@ -144,6 +102,5 @@ Mycelium composites exhibit notable fire-resistant properties:
 ## See Also
 
 - vermicomposting-and-earthworm-ecology — related biological waste processing
-- [[bioremediation-using-fungi]] — fungal applications in environmental restoration
 - [[biochar-in-regenerative-agriculture]] — another carbon-negative biomaterial
 - [[bamboo-permaculture-and-construction]] — sustainable structural material alternative

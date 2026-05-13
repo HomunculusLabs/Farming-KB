@@ -8,16 +8,14 @@ sources:
   - raw/papers/mckenna_t-food_of_the_gods.md
 type: concept
 ---
-# The Invention [[indole]]
-hallucinogens but were nevertheless capable of inducing intense [[weil-the-natural-mind-altered-states-normalcy]].
+# The Invention [[weil-the-natural-mind-altered-states-normalcy]].
 As late as the Middle Ages the witch was still the ha-gazussa, a being that sat
 on the Hag, the fence, which passed behind the gardens and separated the village
 from the wilderness. She was a being who participated in both worlds.
 
 ## The Father of Psychopharmacology
 
-The [[mycology-modern-era]] of psychopharmacology's interest in the aboriginal use of
-hallucinogenic plants began with [[ayahuasca]] and other New World hallucinogens laid the
+The [[ayahuasca]] and other New World hallucinogens laid the
 groundwork for the chemical characterization that was to follow. His student
 Timothy Plowman continued this tradition with important work on coca and
 Erythroxylum species. The birth of ethnopsychopharmacology took place at Harvard
@@ -39,15 +37,7 @@ Hofmann's discovery been recognized for what it was even a moment earlier.
 Alfred Jarry may have anticipated and allegorized the great event when he wrote "The
 Passion Considered as an Uphill Bicycle Race" in 1894. The Dadaists and Surrealists
 and their forerunners grouped around Jarry and his Ecole du Pataphysique did much to
-explore the use of hashish and [[mescaline]] as augmentations to creative expression.
-They set the cultural stage for the truly surreal emergence of society's awareness
-of LSD.
-
-## Bicycle Day
-
-Every LSD enthusiast knows the story of how on April 16, 1943, feeling a touch of
-the Friday blahs, and unaware that he had absorbed a dose of LSD through handling the
-chemical without gloves, chemist [[albert-hofmann]] left work early and set off on his
+explore the use of hashish and [[albert-hofmann]] left work early and set off on his
 bicycle through the streets of Basel. He was forced to interrupt his work in the
 laboratory in the middle of the afternoon, being affected by a remarkable restlessness
 combined with a slight dizziness. At home he lay down and sank into a not unpleasant

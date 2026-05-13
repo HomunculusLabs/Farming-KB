@@ -24,9 +24,7 @@ sources:
 
 **Chlorella vulgaris** is a spherical, unicellular green microalga in the division Chlorophyta. It is among the most widely cultivated microalgae globally, valued as a dietary supplement, animal feed ingredient, and biofuel feedstock.
 
-First described by Martinus Beijerinck in 1890, *C. vulgaris* has become a [[canary-grass-phototropism-model-organism]] for photosynthetic research and commercial algal production. Its robust growth, high protein content, and tolerance of diverse cultivation conditions make it a workhorse species in the microalgae industry.
-
-Global annual production exceeds several thousand metric tons of dried biomass. Major producers operate in Taiwan, Japan, Germany, and the [[dmt-containing-plants-united-states-halpern]].
+First described by Martinus Beijerinck in 1890, *C. vulgaris* has become a [[dmt-containing-plants-united-states-halpern]].
 
 ## Taxonomy and Morphology
 
@@ -52,13 +50,7 @@ Notable micronutrients include vitamins B1, B2, B6, B12, C, and E. The B12 conte
 
 *C. vulgaris* grows photoautotrophically, heterotrophically, and mixotrophically. Photoautotrophic cultivation in open raceway ponds is the lowest-cost method, achieving biomass densities of 0.5–1.5 g/L.
 
-Heterotrophic cultivation using [[dighton-fungal-dissolved-organic-carbon-production]] sources (glucose, acetate) in fermenters reaches far higher densities of 10–100 g/L. This approach is preferred for nutritional supplement production where cell-wall quality and controlled growth are priorities.
-
-Mixotrophic growth combines light and organic carbon, potentially exceeding the biomass productivity of either mode alone. Optimal temperature is 25–35°C with pH maintained between 6.0 and 8.0.
-
-Light intensity of 2,000–6,000 lux supports near-maximal photoautotrophic growth rates. Higher intensities can induce photoinhibition without adequate mixing or CO2 supplementation.
-
-Industrial-scale photobioreactors and thin-layer cascade systems have improved volumetric productivity to 0.3–0.7 g/L/day. Closed systems reduce [[fungicide-treated-seed-contamination-risk-mushroom-substrate]] and improve product consistency compared to open ponds.
+Heterotrophic cultivation using [[fungicide-treated-seed-contamination-risk-mushroom-substrate]] and improve product consistency compared to open ponds.
 
 ## Applications
 
@@ -70,20 +62,89 @@ In fish feed, partial replacement of fishmeal with chlorella (up to 10–15%) ha
 
 **Biofuel:** Lipid-extracted *C. vulgaris* residue can be processed into biodiesel via transesterification.
 
-Biomass productivity and lipid yield under stress conditions remain below economic viability targets for standalone [[permaculture-on-farm-alcohol-fuel-production]]. Integration with biorefinery approaches, where high-value coproducts subsidize fuel production, is considered more promising.
-
-**[[mollison-designers-wastewater-treatment-wetlands]]:** The species efficiently removes nitrogen, phosphorus, and [[fungal-biosorption-of-heavy-metals-by-filamentous-fungi]] from municipal and agricultural wastewater. Coupled cultivation-bioremediation systems are an active area of commercial development.
-
-**Bioproducts:** Pigment extracts (lutein, chlorophyll), bioactive peptides, and polysaccharides with reported antioxidant and immunomodulatory activities are high-value coproducts.
-
-## Ecological Significance
-
-*C. vulgaris* is ubiquitous in freshwater environments worldwide. It is commonly found in ponds, lakes, and slow-moving rivers, often forming green water blooms under nutrient-rich conditions.
-
-The species plays a role in freshwater [[lichens-primary-production-soil-formation-dighton]] and [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]]. It serves as food for zooplankton and filter-feeding organisms, forming a base link in many aquatic food webs.
+Biomass productivity and lipid yield under stress conditions remain below economic viability targets for standalone [[mollison-designers-wastewater-treatment-wetlands]]:** The species efficiently removes nitrogen, phosphorus, and [[lichens-primary-production-soil-formation-dighton]] and [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]]. It serves as food for zooplankton and filter-feeding organisms, forming a base link in many aquatic food webs.
 
 In eutrophic systems, *C. vulgaris* can contribute to algal blooms. These blooms alter water quality through oxygen fluctuations, pH shifts, and light attenuation affecting submerged macrophytes.
 
 Its ability to sequester CO2 during photosynthesis (approximately 1.8 kg CO2 per kg biomass) has attracted interest in carbon capture applications. Integration with industrial flue gas streams is under investigation.
 
 ## Strain Improvement and Genetics
+
+## Overview
+
+Chlorella Vulgaris represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish chlorella vulgaris
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving chlorella extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Chlorella Vulgaris finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for chlorella vulgaris. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+chlorella vulgaris and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Chlorella Vulgaris has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of chlorella vulgaris into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also

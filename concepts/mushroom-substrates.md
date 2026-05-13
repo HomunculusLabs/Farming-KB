@@ -30,7 +30,7 @@ The substrate is the material on which mushroom mycelium grows and from which fr
 
 Related: [[mushroom-cultivation-basics]], [[mushroom-sterile-technique-detailed]]
 
-## [[mushroom-cultivation-grain-spawn]]
+## [[mushroom-cultivation-grain-spawn|Grain Spawn]]
 
 Grain spawn is the universal inoculum for expanding mycelium before introducing it to fruiting substrates.
 
@@ -88,12 +88,12 @@ The backbone of commercial indoor cultivation for shiitake, lion's mane, reishi,
 ### Wood Chips
 
 - Ideal for outdoor beds, wine cap, and [[stamets-outdoor-natural-culture-methods]].
-- Irregular chips 1-3 inches give better results than finely ground material — greater nutrient and water reservoir with substantial surface area for [[growing-gourmet-primordia-formation-pinning]].
+- Irregular chips 1-3 inches give better results than finely ground material — greater nutrient and water reservoir with substantial surface area for primordia formation.
 - Fresh chips are preferable to aged; sawdust supports rapid initial growth but soon loses vitality.
 
 ### Straw
 
-- Wheat straw is the standard for [[cotter-oyster-mushroom-cultivation]]. Pasturized at 160F for 20-30 minutes.
+- Wheat straw is the standard for [[comparison-reishi-vs-oyster-mushroom-cultivation]]. Pasturized at 160F for 20-30 minutes.
 - Straw can be used whole or chopped; chopped permeates more rapidly.
 - Chopped or whole straw adequate for Stropharia rugoso-annulata; compacted 6-12 inches deep.
 
@@ -103,7 +103,7 @@ Supplements boost nutritional value and accelerate colonization and yields.
 
 - **Bran (rice or wheat)** — the most common supplement. Added at 10-20% by dry weight to sawdust blocks. For shiitake, sawdust:bran ratio of 4:1 is standard. Rice bran promoted fastest mycelial growth in shiitake trials (Han et al. 1981).
 - **Gypsum (CaSO4)** — added at 1-3% to buffer pH and improve texture. Provides calcium and sulfur. Prevents substrate clumping.
-- **Calcium carbonate (CaCO3)** — pH buffer, typically 0.2% for sawdust blocks.
+- **[[peat-calcium-carbonate-perlite-casing-psilocybe-cubensis-miniculture]] (CaCO3)** — pH buffer, typically 0.2% for sawdust blocks.
 - **Other supplements tested**: yeast powder (2%), soybean meal (5%), milk powder (2%), molasses (1.5%) — all increased mycelial growth over rice bran alone in shiitake trials.
 
 ## Pasteurization vs Sterilization

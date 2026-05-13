@@ -39,7 +39,7 @@ community, particularly its youngest members.
 
 Saint Nicholas is traditionally depicted wearing red and white robes — colors
 that directly mirror both the Siberian shaman's traditional attire and the
-*Amanita muscaria* mushroom itself. The equilateral-circumscribed cross
+*[[amanita-muscaria]]* mushroom itself. The equilateral-circumscribed cross
 appearing on his vestments is identified in ethnomycological analysis as both
 an ancient Christian symbol and a mushroom symbol, representing the Holy Grail
 and the cross shape formed by the mushroom's cap when viewed from above.
@@ -125,9 +125,6 @@ The figure demonstrates:
 
 ## See Also
 
-- [[amanita-muscaria]] — The mushroom encoded in Saint Nicholas symbolism
 - [[siberian-shamanism]] — The tradition Saint Nicholas supplanted
-- [[r-gordon-wasson]] — Scholar who traced these connections
 - [[john-allegro]] — Philologist who decoded biblical mushroom references
-- [[soma]] — Related entheogenic tradition
 - [[fly-agaric]] — Common name for *Amanita muscaria*

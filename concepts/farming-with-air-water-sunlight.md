@@ -6,45 +6,7 @@ type: concept
 
 # Farming with Air, Water and Sunlight
 
-"Farming with Air, Water and Sunlight" is a foundational principle in [[natural-farming]] that
-emphasizes the overwhelming importance of three natural elements — air, water, and sunlight
-— in driving plant and animal growth. Rather than focusing primarily on chemical nutrient
-inputs, this philosophy recognizes that the vast majority of agricultural productivity comes
-from freely available natural forces that farmers must learn to harness and direct effectively.
-
-## The 96/4 Principle
-
-A central tenet of this approach is that **ninety-six percent (96%) of plant and animal
-growth is attributed to air, water, and sunlight**, while only **four percent (4%) can be
-attributed to nutrients and other elements**. This ratio dramatically reframes the farmer's
-priorities. While conventional agriculture obsesses over nutrient supplementation, natural
-farming redirects attention to ensuring the dominant growth factors are optimally provided.
-
-This principle is clearly demonstrated in natural forest ecosystems, where plants grow
-vigorously and in harmony without any deliberate application of fertilizer. Nutrients are
-derived from natural soil fertility as organic matter decays and is consumed by
-microorganisms, releasing nutrients that sustain plant life. But the primary drivers of that
-growth remain air, water, and sunlight. Without them, no amount of nutrient application can
-compensate. The same applies to animal growth: if animals cannot effectively utilize these
-powerful elements, they will not develop properly or remain healthy.
-
-## Contrast with Conventional Farming
-
-Conventional farming has become myopic by de-emphasizing these power elements in favor of
-synthetic interventions. The conventional paradigm relies heavily on the **Nitrogen-Phosphorus-
-Potassium (NPK) farming scheme** — reducing soil fertility to three chemical nutrients. When
-pests and diseases emerge, the conventional response is synthetic pesticides rather than
-addressing underlying environmental imbalances. In livestock production, conventional farmers
-focus on formulated feeds and routine antibiotics. They speak of "balanced fertilization"
-and "balanced diets," yet achieve these through chemical means that ignore the fundamental
-role of natural elements.
-
-This narrow focus on chemical inputs leads farmers away from understanding the true drivers
-of agricultural productivity. By failing to recognize and provide the power elements that
-Nature offers freely, conventional systems create dependency on external inputs while degrading
-the natural systems that sustain life.
-
-## Harnessing Air: [[double-digging]] in Biointensive Mini-Farming
+"Farming with Air, Water and Sunlight" is a foundational principle in [[double-digging]] in Biointensive Mini-Farming
 
 One of the most direct applications of this principle is found in the **Biointensive
 mini-farming** technique of **double digging**. In conventional agriculture, soil is typically
@@ -57,25 +19,9 @@ because air cannot reach their root systems effectively.
 ## Harnessing Water
 
 Water is frequently taken for granted, yet without adequate moisture — whether through
-irrigation or natural rainfall — plants do not grow well and often die. In natural farming,
+irrigation or natural rainfall — plants do not grow well and often die. In [[natural-farming]],
 consistent and clean water availability is ensured for both crops and livestock. Water
-facilitates organic matter [[decomposition]], enables nutrient transport, regulates temperature,
-and sustains the microbial communities that drive soil fertility. In livestock production,
-continuous access to clean water is non-negotiable for animal health.
-
-## Harnessing Sunlight: Orientation and Moon Phase Planting
-
-The principle of "no sun, no life" is absolute. Without sunlight, photosynthesis cannot
-occur and no food is produced for plant nourishment. Natural farming applies specific
-techniques to maximize sunlight utilization.
-
-### East-West Planting Orientation
-
-Planting beds oriented **east to west** receive maximum sunlight exposure as the sun rises
-in the east and sets in the west. This orientation ensures plants capture the full arc of
-solar energy throughout the day, maximizing photosynthetic activity.
-
-### North-South Orientation with [[companion-planting]]
+facilitates organic matter [[companion-planting]]
 
 In planting beds oriented **north to south**, interplanting or companion planting is employed.
 Shorter plants are positioned towards the northern portion to maximize sunlight exposure and

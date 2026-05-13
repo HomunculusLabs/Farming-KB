@@ -108,13 +108,8 @@ Research on Tylecodon cardiac glycosides has contributed to understanding of buf
 
 ## See Also
 
-- [[tylecodon-reticulatus]]
 - [[tylecodon-paniculatus]]
-- [[tylecodon-wallichii]]
 - [[tylecodon-pearsonii]]
-- [[cotyledon-orbiculata]]
 - [[cotyledon-undulata]]
-- [[crassula-perforata]]
 - [[crassula-rupestris]]
-- [[adromischus-cristatus]]
 - [[kalanchoe-orgyalis]]

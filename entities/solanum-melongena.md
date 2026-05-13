@@ -13,7 +13,7 @@ sources:
   - Daunay, M.C. et al. (2001). "Solanum melongena L." In: Solanaceae III, Royal Botanic Gardens, Kew.
   - Knapp, S. et al. (2013). "Phylogenetics of the eggplant and wild relatives." In: Eggplant, Springer.
   - Plazas, M. et al. (2014). "The history of eggplant domestication." Annals of Botany.
-  - Raigón, M.D. et al. (2008). "The phenolic compounds of eggplant." Journal of Agricultural and Food Chemistry.
+  - Raigón, M.D. et al. (2008). "The [[aact-tannins-terpenes-phenolic-compounds-wood-composting-ingham]] of eggplant." Journal of Agricultural and Food Chemistry.
 ---
 
 # Solanum melongena
@@ -44,7 +44,7 @@ Seed size and number vary considerably; wild relatives produce many small seeds,
 
 Eggplant was domesticated in the region spanning India to southern China approximately 2,000–2,500 years ago. The earliest written records appear in Chinese agricultural treatises from the 1st century BCE.
 
-Linguistic evidence supports multiple domestication centers: Sanskrit "vatingana" and Chinese "qiezi" reflect independent cultivation traditions. Arabic "al-badhinjan" gave rise to the English "aubergine" via French and Catalan intermediaries.
+[[allegro-linguistic-evidence]] supports multiple domestication centers: Sanskrit "vatingana" and Chinese "qiezi" reflect independent cultivation traditions. Arabic "al-badhinjan" gave rise to the English "aubergine" via French and Catalan intermediaries.
 
 Wild Solanum species with small, bitter fruits were gathered by humans for millennia before cultivation. The process of domestication selected for larger fruit size, reduced bitterness, and loss of prickles.
 
@@ -58,21 +58,11 @@ Global trade and migration have spread eggplant-based dishes worldwide. Japanese
 
 Eggplant is cultivated globally between approximately 40°N and 40°S latitude. Major producers include China (accounting for over 60% of global production), India, Egypt, Turkey, and Iran. Total world production exceeds 55 million tonnes annually.
 
-The crop requires warm temperatures (25–30°C optimal) and a long frost-free [[savory-growing-season-and-non-growing-season-management]] of 100–150 days. It is sensitive to cold and cannot tolerate temperatures below 10°C.
-
-Flowering and fruit set are adversely affected by temperatures above 35°C or below 15°C. Night temperatures above 25°C can cause flower drop and poor fruit development, limiting production in tropical lowlands.
-
-Eggplant performs best in well-drained, fertile sandy loam soils with pH 6.0–6.8. The plants have moderate water requirements but benefit from consistent irrigation during fruit development.
-
-Transplants are typically started in nurseries 6–8 weeks before field planting. Spacing of 60–90 cm between plants and 90–120 cm between rows is standard for most varieties.
-
-Plants benefit from moderate nitrogen fertilization and adequate phosphorus for root development. Excessive nitrogen promotes [[cannabis-vegetative-growth-stage]] at the expense of fruit production.
+The crop requires warm temperatures (25–30°C optimal) and a long frost-free [[cannabis-vegetative-growth-stage]] at the expense of fruit production.
 
 Staking or trellising is recommended to support heavy fruit loads and prevent disease. Pruning to 2–3 main stems improves airflow and fruit quality in indeterminate varieties.
 
-Major pests include flea beetles, Colorado potato beetle, aphids, and [[cervantes-spider-mites-identification-control]]. Verticillium wilt, Fusarium wilt, and Phytophthora blight are the most serious diseases.
-
-[[comparison-beneficial-insects-guide-vs-integrated-pest-management]] management combining resistant rootstocks, [[comparison-crop-rotation-vs-cover-cropping]], [[fukuoka-textdoc-biological-control-fallacy-pheromone-critique]] agents, and targeted pesticide application is recommended. Grafting onto Solanum torvum rootstocks provides effective resistance to soil-borne pathogens.
+Major pests include flea beetles, Colorado potato beetle, aphids, and [[comparison-beneficial-insects-guide-vs-integrated-pest-management]] management combining resistant rootstocks, [[fukuoka-textdoc-biological-control-fallacy-pheromone-critique]] agents, and targeted pesticide application is recommended. Grafting onto Solanum torvum rootstocks provides effective resistance to soil-borne pathogens.
 
 Harvest occurs 60–90 days after transplanting when fruits reach full size and develop a glossy skin. Frequent harvesting stimulates continued fruit production throughout the growing season.
 
@@ -87,3 +77,73 @@ The fruit must be cooked before eating, as raw eggplant contains solanine and is
 Frying eggplant in oil produces a rich, creamy texture that is the basis of many traditional dishes. Grilling or roasting over an open flame adds smoky complexity and reduces oil absorption compared to pan-frying.
 
 Nutritionally, eggplant is low in calories (25 kcal per 100 g) and provides dietary fiber, potassium, magnesium, and folate. The purple skin is particularly rich in anthocyanins, notably nasunin.
+
+## Overview
+
+Solanum Melongena represents an important element within sustainable
+design and [[solomon-gardening-aikido-pest-philosophy-ecological-management]] systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish solanum melongena
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving solanum extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Solanum Melongena finds practical application in multiple design contexts.
+[[mollisonian-permaculture-principles]] guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive [[livestock-grassland-management-strategies]] that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for solanum melongena. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+solanum melongena and its applications. Active investigation
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Solanum Melongena has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of solanum melongena into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.

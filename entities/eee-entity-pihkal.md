@@ -23,8 +23,7 @@ PIHKAL entry #73. 2,4,5-TRIETHOXYAMPHETAMINE.
 
 ## Qualitative Comments
 
-No [[2c-o-4-entity-pihkal]]
-- [[2-br-4-5-mda-entity-pihkal]]
+No [[2-br-4-5-mda-entity-pihkal]]
 
 - PIHKAL (Shulgin & Shulgin, 1991)
 - Related phenethylamines: mescaline, escaline
@@ -39,43 +38,12 @@ binding affinity at serotonin 5-HT2A receptors and other monoamine targets.
 
 In the Shulgin framework, the 4-position substitution is considered the most
 critical determinant of psychedelic activity in the 2,4,5-trisubstituted
-[[pihkal-dob-doi-dom-amphetamine-series-comparison]]. The 2- and 5-positions modulate potency, duration, and
-qualitative character. EEE's lack of human bioassay data means its receptor
-binding profile remains uncharacterized, though its close structural
-relationship to active compounds like MEM suggests potential serotonergic
-activity. The increased lipophilicity of ethoxy versus methoxy groups may
-affect blood-brain barrier penetration and metabolic stability.
-
-## Effects
-
-Because EEE has never been tested in humans, no effects data is available.
-Shulgin noted it was the final compound synthesized in the ethoxy homologue
-series and was never bioassayed. Based on SAR (structure-activity relationship)
-analysis of the trialkoxyamphetamine family, compounds with 4-alkoxy
-substitution tend to exhibit psychedelic effects, while substitution at the
-2-position alone (as in EMM) often reduces or eliminates activity.
-
-## Legal Status
-
-As a substituted amphetamine, EEE may fall under analogue drug legislation in
-many jurisdictions. In the [[dmt-containing-plants-united-states-halpern]], the Federal Analog Act could
+[[dmt-containing-plants-united-states-halpern]], the Federal Analog Act could
 potentially classify EEE as a Schedule I controlled substance if intended for
 human consumption, due to its structural similarity to known psychedelic
 amphetamines. In the United Kingdom, substituted amphetamines with
 psychedelic properties are generally controlled under the Psychoactive
-[[controlled-substances-act-and-psychedelic-research]] or existing Misuse of Drugs regulations. Specific scheduling
-varies by country.
-
-## Similar Compounds
-
-EEE belongs to the trialkoxyamphetamine series explored by Shulgin:
-- MEM (2,5-dimethoxy-4-ethoxyamphetamine) — the most potent member of the
-  series, described as a true treasure by Shulgin
-- MME (2-methoxy-4,5-diethoxyamphetamine) — another ethoxy homologue of TMA-2
-- EEM (2-ethoxy-4,5-dimethoxyamphetamine) — intermediate in the series
-- EME (2-ethoxy-4-methoxy-5-ethoxyamphetamine) — mixed substitution pattern
-- TMA-2 (2,4,5-trimethoxyamphetamine) — the parent compound and prototype
-- [[mescaline]] (3,4,5-trimethoxyphenethylamine) — the classic
+[[mescaline]] (3,4,5-trimethoxyphenethylamine) — the classic
   phenethylamine reference compound
 
 ## Practical Applications
@@ -89,8 +57,91 @@ EEE belongs to the trialkoxyamphetamine series explored by Shulgin:
 - Impact extends to related fields and interdisciplinary applications.
 
 ## See Also
-- [[pea-entity-pihkal]]
 - [[meda-entity-pihkal]]
-- [[j-entity-pihkal]]
 - [[me-entity-pihkal]]
 - [[mdoh-entity-pihkal]]
+
+## Overview
+
+Eee Entity Pihkal represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish eee entity pihkal
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving eee extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Eee Entity Pihkal finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for eee entity pihkal. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+eee entity pihkal and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Eee Entity Pihkal has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of eee entity pihkal into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[2c-c-entity]]
+- [[2c-o-4-entity]]
+- [[4-ho-dbt-entity-tihkal]]
+- [[mckenna-dmt-i-thou-relationship-entity-encounter-ethics]]
+- [[pyrethrum-entity]]

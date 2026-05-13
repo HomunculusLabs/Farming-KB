@@ -1,6 +1,6 @@
 ---
 title: Fungal Decomposition and the Global Carbon Cycle
-subtitle: How fungi drive [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]], soil formation, and carbon dynamics
+subtitle: How fungi drive comparison-nutrient-cycling-vs-nutrient-dense-gardening, soil formation, and carbon dynamics
   across terrestrial ecosystems
 tags: [mycology, ecology, decomposition, carbon-cycle, nutrient-cycling,
   wood-decay, climate-change, soil-science]
@@ -43,15 +43,7 @@ The first law of thermodynamics dictates that matter can neither be created
 nor destroyed, and within ecosystems, this law governs the transformations of
 energy and nutrients between compartments. Energy and nutrients are contained
 within the living biomass of plants and animals forming communities, and the
-transformations that occur among them through [[dighton-fungal-trophic-interactions-soil-food-webs]] within food
-chains and webs are regarded as the processes of ecosystems. Fungi occupy a
-central position in these transformations, linking the fixation of carbon by
-plants through photosynthesis to the release of carbon dioxide through
-decomposition and the mineralization of nutrients that sustain future plant
-growth.
-
-John Dighton, in his comprehensive treatment of fungi in ecosystem processes,
-identifies three fundamental [[biodiversity-of-fungi-ecosystem-services-agriculture]] carried out by fungi. The first
+transformations that occur among them through [[biodiversity-of-fungi-ecosystem-services-agriculture]] carried out by fungi. The first
 is the making of nutrients available through the breakdown of dead plant and
 animal remains by microbes and animals. During decomposition, mineral nutrients
 are released in a soluble form as inorganic ions from the breakdown of the
@@ -105,45 +97,8 @@ forest ecosystems, occurring as both saprotrophs and mycorrhizal symbionts.
 The saprotrophic basidiomycetes that decompose wood are broadly categorized
 into white rot and brown rot fungi, based on the visual appearance of the
 decayed wood and the underlying biochemical mechanisms involved. White rot
-fungi, such as [[growing-gourmet-turkey-tail-trametes-versicolor-cultivation]], possess the ability to degrade all cell
-wall components, including lignin, cellulose, and hemicellulose. They achieve
-lignin degradation through the production of lignin peroxidases, manganese
-peroxidases, and laccases, which are extracellular oxidative enzymes that
-generate highly reactive free radicals capable of cleaving the aromatic rings
-and ether bonds of the lignin polymer. The activity of these enzymes leaves the
-wood with a bleached, whitish appearance because the dark lignin is
-preferentially removed from the cell wall matrix.
-
-Brown rot fungi, in contrast, primarily degrade the cellulose and
-hemicellulose components of wood while leaving the lignin largely intact,
-though chemically modified. Species such as [[fungal-serpula-lacrymans-dry-rot-buildings]] and those in the
+fungi, such as [[fungal-serpula-lacrymans-dry-rot-buildings]] and those in the
 genera Gloeophyllum and Postia employ a non-enzymatic mechanism involving the
-Fenton reaction, in which [[cervantes-hydrogen-peroxide-sterilization]] reacts with ferrous iron to
-generate hydroxyl radicals that depolymerize cellulose. Brown rot fungi also
-produce oxalic acid, which can overproduce in copper-tolerant species, aiding
-in the solubilization of metal ions that participate in the Fenton reaction.
-The brown rot process leaves behind a brown, crumbly residue of modified lignin
-enriched in carbon and depleted in other elements.
-
-The ecological implications of this division between white rot and brown rot
-strategies are profound. White rot fungi tend to dominate in the decomposition
-of hardwood species and in environments where complete mineralization of
-organic matter is favored, while brown rot fungi are particularly important in
-coniferous forests, where their ability to rapidly access cellulose from the
-lignin-encrusted cell walls of gymnosperm wood provides a competitive
-advantage. The differential decay strategies also affect the fate of carbon in
-forest ecosystems. Studies comparing the two groups have found that brown rot
-wood has a carbon content of approximately 43.5 percent compared to 41.6
-percent in white-rotted wood, reflecting the concentration of lignin-derived
-carbon in the brown rot residue. White rot promotes more complete carbon
-release as carbon dioxide, while brown rot leaves behind a more recalcitrant
-carbon pool that can contribute to long-term soil carbon storage.
-
-## Mycelial Foraging Strategies in Heterogeneous Environments
-## See Also
-
-- [[fungal-decomposition-nutrient-cycling-ecosystems-dighton]]
-- [[dighton-fungal-extracellular-enzyme-systems-decomposition]]
+Fenton reaction, in which [[fungal-decomposition-nutrient-cycling-ecosystems-dighton]]
 - [[lichens-primary-production-soil-formation-dighton]]
-- [[brown-rot-fungi-cellulose-degradation-wood-decay]]
 - [[query-how-do-fungal-volatile-compounds-affect-plant-growth-and-other-microorganisms]]

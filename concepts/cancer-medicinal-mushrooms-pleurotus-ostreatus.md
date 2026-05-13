@@ -9,23 +9,14 @@ sources:
 type: concept
 ---
 
-# [[grifola-frondosa]] and P. ostreatus
-administration on cancer outbreaks and activities of macrophages and
-lymphocytes in mice treated with the carcinogen N-butyl-N'-butanolitroso-
-amine. The study demonstrated significant immunomodulatory effects and
-reduced tumour incidence across all three mushroom species.
-
-P. ostreatus has been shown to contain antitumour acidic polysaccharide
-fractions from its [[comparison-fruiting-body-vs-mycelium-extracts-medicinal-mushrooms]], as well as beta-glucan and
+# [[comparison-fruiting-body-vs-mycelium-extracts-medicinal-mushrooms]], as well as beta-glucan and
 heteroglucan from its submerged cultured mycelium. The antitumour
 polysaccharides from the fruit-body have demonstrated activity in
 xenograft models, confirming their biological activity.
 
 ## Cancer Chemoprevention
 
-Professor Ikekawa (2001) confirmed previous studies with [[lentinus-edodes-entity-the-mushroom-cultivator]]
-and P. ostreatus showing that regular feeding of powdered medicinal
-mushrooms can have a [[cancer-prevention-dietary-mushroom-intake]] effect, demonstrating both high
+Professor Ikekawa (2001) confirmed previous studies with [[cancer-prevention-dietary-mushroom-intake]] effect, demonstrating both high
 antitumour activity and restriction of tumour metastasis in experimental
 animals. In Ikekawa's study, control mice were bred on ordinary feed
 while treated mice received feed containing 5% dried fruit-bodies of
@@ -57,23 +48,11 @@ The addition of 4% dried Pleurotus to a high cholesterol diet
 effectively lowered cholesterol levels. Pleurotus supplement in the
 daily diet over a one-month period reduced serum cholesterol, suggesting
 it could be recommended as a natural cholesterol-lowering agent.
-However, large [[psilocybin-large-scale-production]] of lovastatin from fruit-bodies is not
-deemed commercially viable because of variability in fruit-body
-composition. Lovastatin is normally found only in the lamella and
-basidiospores and not in the stipe and cap.
-
-## Cultivation and Production
-
-P. ostreatus is one of the easiest mushrooms to grow, most often on
-straw or sawdust logs. Worldwide production reached approximately
-875,600 tonnes. Mycelial cultivation could be the way ahead for
-consistent lovastatin and polysaccharide production. Lovastatin has also
-been detected in [[cancer-medicinal-mushrooms-submerged-fermentation-production]] broth of P. saca and in surface
+However, large [[cancer-medicinal-mushrooms-submerged-fermentation-production]] broth of P. saca and in surface
 fermentation broth of P. sapidus (Gunde-Cimerman et al., 1993).
 
 ## Related Topics
 
-- [[medicinal-mushroom-cancer-chemoprevention]]
 - [[cancer-medicinal-mushrooms-submerged-fermentation-production]]
 ## Practical Considerations
 
@@ -123,8 +102,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[pleurotus-ostreatus]]
 - [[psilocybin]]
-- [[det]]
 - [[spore]]
 - [[mycelium]]

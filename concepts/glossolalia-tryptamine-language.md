@@ -18,7 +18,7 @@ tags:
   - linguistics
   - Terence-McKenna
 created: 2026-05-09
-source: "McKenna, T. (1983/1992). [[mckenna-tryptamine-hallucinogens-and-consciousness]] and Consciousness. In *The [[archaic-revival-partnership-vs-dominator-cultures]]*. HarperCollins."
+source: "McKenna, T. (1983/1992). archaic-revival-partnership-vs-dominator-cultures*. HarperCollins."
 ---
 
 # Glossolalia and Tryptamine Language
@@ -30,9 +30,7 @@ its effect on language. Under the influence of DMT, psilocybin, and related
 compounds, language ceases to function merely as a tool for communication and
 becomes a phenomenon in itself — a visible, tangible, multidimensional fabric
 that can be perceived directly rather than merely produced and interpreted. In
-his 1983 Esalen lecture, [[terence-mckenna]] explored the relationship between
-tryptamine hallucinogens and language in depth, arguing that these compounds
-reveal a deeper stratum of [[mckenna-language-as-magic-shamanic-theory-linguistic-reality-plant-hallucinogens]] underlying all human speech — what
+his 1983 Esalen lecture, [[mckenna-language-as-magic-shamanic-theory-linguistic-reality-plant-hallucinogens]] underlying all human speech — what
 he called the "assembly language behind language" and sometimes the "Ursprache"
 or primal language.
 
@@ -72,20 +70,7 @@ provide direct access to it.
 This has profound implications for linguistics and the philosophy of language. If
 a neurological state induced by an endogenous compound reveals language as a
 fundamental dimension of reality rather than a mere conventional sign system, then
-the relationship between [[mckenna-language-and-reality]] is far more intimate than most
-contemporary theories allow. McKenna's position suggests language is not something
-human beings invented but something they discovered — a pre-existing dimension of
-reality that the brain evolved to access under specific conditions.
-
-## Ursprache: The Primal Language
-
-McKenna's concept of Ursprache — the German term for "proto-language" — refers to
-the primordial linguistic substrate accessible under tryptamine hallucinogens. This
-is not a hypothetical reconstructed proto-language of historical linguistics but a
-living, experiential reality — a mode of communication transcending the limitations
-of any specific natural language, conveying meaning with directness and richness
-that ordinary speech cannot approach. The Ursprache, as experienced under DMT, is
-not spoken in words but in "[[mckenna-translinguistic-objects-cognitive-dissonance-tryptamine]]" — multidimensional forms
+the relationship between [[mckenna-translinguistic-objects-cognitive-dissonance-tryptamine]]" — multidimensional forms
 carrying their meaning in their structure. These objects are perceived rather than
 heard, understood immediately and completely without the delays and ambiguities of
 
@@ -118,8 +103,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[tryptamine-hallucinogens-and-language]]
 - [[tryptamine]]
-- [[tryptamine-hallucinogens]]
 - [[psilocybin]]
 - [[dom]]

@@ -4,13 +4,12 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [cannabis, processing, recipe, preparation, medicine, health, potency]
-sources:
-  - "raw/papers/elaine-ingham-phd-the-field-guide-for-actively-aerated-com.md"
+sources: []
 ---
 
 ## Overview
 
-[[cannabis-tinctures-and-edibles]] are liquid extracts made by [[knf-seed-soaking-cannabis-germination]] flower or concentrate in a solvent (alcohol, glycerin, or oil). They are administered sublingually (under the tongue) for rapid absorption or added to food and beverages. Tinctures offer precise dosing, discreet use, long [[ingham-aact-holding-time-shelf-life-decay]], and a smoke-free consumption method.
+Cannabis tinctures are liquid extracts made by soaking cannabis flower or concentrate in a solvent (alcohol, glycerin, or oil). They are administered sublingually (under the tongue) for rapid absorption or added to food and beverages. Tinctures offer precise dosing, discreet use, long shelf life, and a smoke-free consumption method.
 
 ## How Tinctures Work
 
@@ -32,7 +31,7 @@ Alcohol is the most efficient solvent for cannabis tinctures, extracting a full 
 
 **Cold Method (Long Extraction)**:
 1. Decarboxylate 1 ounce (28g) cannabis at 240 F for 35 minutes
-2. Place decarbed cannabis in a glass [[mason-jar-preserving-guide]]
+2. Place decarbed cannabis in a glass mason jar
 3. Pour 1 pint (16 oz / 475 ml) of high-proof alcohol over the cannabis
 4. Seal jar tightly and store in a cool, dark place
 5. Shake daily for 4-6 weeks
@@ -50,7 +49,7 @@ Alcohol is the most efficient solvent for cannabis tinctures, extracting a full 
 
 The hot method produces a darker, stronger-tasting tincture in less time. The cold method preserves more terpenes and has a milder flavor.
 
-**[[ingham-compost-tea-holding-time-shelf-life]]**: Alcohol tinctures last 1-2+ years when stored properly. Alcohol acts as a preservative.
+**Shelf life**: Alcohol tinctures last 1-2+ years when stored properly. Alcohol acts as a preservative.
 
 ### Glycerin Tinctures
 
@@ -117,7 +116,7 @@ To estimate tincture potency, you need to know the starting cannabis percentage:
 ### Dosing Guidelines
 
 - **Beginner**: Start with 1-2.5 mg THC
-- **[[ultra-low-dose-brassinosteroid-response-psilocybe-cubensis]]**: 2.5-5 mg THC
+- **Low dose**: 2.5-5 mg THC
 - **Moderate dose**: 5-15 mg THC
 - **High dose**: 15-30 mg THC
 - **Microdosing**: 0.5-2.5 mg, 2-3 times daily
@@ -142,9 +141,10 @@ Tinctures can be flavored with:
 - **Terpenes**: Add strain-specific or botanical terpenes for flavor and effect enhancement
 - **Cinnamon, ginger, or chamomile**: Steep with the cannabis during extraction
 
-## Storage
+## See Also
 
-- Store all tinctures in dark glass bottles (amber or cobalt)
-- Keep in a cool, dark place
-- Alcohol tinctures: shelf stable at room temperature for 1-2 years
-- Glycerin tinctures: 6-12 months at room temperature
+- [[cannabis-cultivar-microbiome-specificity]]
+- [[weighted-vs-unweighted-unifrac-cannabis-strain-microbiome]]
+- [[cannabis-and-endometriosis]]
+- [[blesching-cannabis-immune-system-modulation]]
+- [[cannabis-seed-germination-viability-breeding-clarke]]

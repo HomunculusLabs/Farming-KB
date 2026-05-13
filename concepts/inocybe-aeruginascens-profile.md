@@ -26,20 +26,7 @@ only in members of the families Strophariaceae (Psilocybe, Panaeolus, Conocybe)
 and Bolbitiaceae.
 
 The discovery of psilocybin in Inocybe aeruginascens, along with its later
-identification in [[psilocybe-semilanceata]] appear to have the two
-lowest degrees of variability in psilocybin content across samples from different
-locations.
-
-The species contains only trace amounts of psilocin, which explains its
-relatively weak [[field-guide-psilocybin-bluing-reaction-identification]] compared to species like
-[[psilocybe-cubensis-potency-variation-by-flush]].
-
-### Iron Chloride Test
-
-G. Drewitz discovered that the application of iron chloride to fruiting bodies
-of Inocybe aeruginascens caused a deep blue discoloration, while muscarine-
-producing species of the same genus did not change color. Iron chloride reacts
-with phenoles to form intensely blue molecules. Since
+identification in [[field-guide-psilocybin-bluing-reaction-identification]] compared to species like
 [[psilocybe-genus-diversity-and-taxonomy]] species with their distinctive
 dark spore prints, Inocybe species have brown spore prints that can resemble
 those of many non-psychoactive species.
@@ -74,13 +61,7 @@ Inocybe species contain dangerous levels of muscarine and other toxins. The risk
 of fatal misidentification is significant. Only experienced mycologists should
 attempt to collect or identify any Inocybe species for any purpose. The
 greenish tint and weak bluing reaction are insufficient for reliable
-identification — [[fungal-microscopic-examination-mounting-media-techniques]] of spore ornamentation and cystidia is
-essential.
-
-## See Also
-
-- [[psilocybe-semilanceata]] — Europe's most common psychoactive mushroom
-- [[panaeolus-subbalteatus-profile]] — European dung-inhabiting psychoactive species
+identification — [[psilocybe-semilanceata]] — Europe's most common psychoactive mushroom
 - [[psilocin-and-psilocybin-chemistry]] — The active compounds
 
 ## Practical Applications
@@ -112,8 +93,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[inocybe-aeruginascens]]
 - [[doc]]
-- [[psilocybin]]
 - [[psilocin]]
 - [[jochen-gartz]]

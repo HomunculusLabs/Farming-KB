@@ -7,12 +7,7 @@ tags:
   - bolete
   - rubroboletus
   - boletaceae
-  - [[mycology]]
-  - poisonous
-  - toxic
-  - ectomycorrhizal
-  - europe
-  - [[mushroom-identification]]
+  - mushroom-identification
   - foraging
   - temperate
   - gi-distress
@@ -62,15 +57,7 @@ recognize.
   a greenish or yellowish tint in age; margin thick and inrolled when young.
 - **Pore surface:** Bright orange to red-orange when young, becoming more
   ochre-yellow with maturity; pores round to angular, ~1–2 per mm; does NOT
-  bruise blue (key distinguishing feature from *[[suillellus-luridus]]*).
-- **Tubes:** 1–2.5 cm long, yellowish, adnate to slightly decurrent.
-- **Stipe:** 6–12 cm × 3–8 cm, stout, club-shaped to bulbous at base;
-  surface pale yellow with coarse, prominent red reticulum (especially near
-  the apex); reticulum fades toward the base.
-- **Flesh:** Thick, firm, pale yellow in cap, yellowish in stipe; turns
-  slightly bluish in the stipe base when cut, but the reaction is slow and
-  weak — much less pronounced than in *S. luridus*.
-- **[[comparison-spore-print-collection-vs-spore-syringe-production]]:** Olive-green to olive-brown.
+  bruise blue (key distinguishing feature from *[[comparison-spore-print-collection-vs-spore-syringe-production]]:** Olive-green to olive-brown.
 - **Spores:** 10–15 × 5–7 µm, ellipsoid to fusiform, smooth.
 - **Odor:** Distinctive and unpleasant — often described as reminiscent of
   old ham or putrid, especially in mature specimens.
@@ -90,8 +77,6 @@ recognize.
 ## Toxicity
 
 ## See Also
-- [[dom]]
 - [[doc]]
-- [[mycorrhiza]]
 - [[ectomycorrhiza]]
 - [[spore]]

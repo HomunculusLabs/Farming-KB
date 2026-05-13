@@ -52,31 +52,13 @@ When a tree is grafted, the flow of sap is blocked at the graft juncture. This c
 
 ### Root System Limitations
 
-Grafted trees, especially citrus on commercial rootstock, tend to develop shallower root systems than seed-grown trees. This makes them more vulnerable to drought, wind damage, and nutrient stress. A tree grown from seed sends down a deep taproot and develops a root system that mirrors the shape of its above-ground portion — a [[fukuoka-pesticide-cascade-collapse-natural-balance]] that grafted trees can never fully achieve.
-
-The root system of a seed-grown tree extends downward and outward in proportion to the canopy, creating a stable, self-supporting structure. Grafted trees, by contrast, often develop unbalanced root systems that do not match the scion's canopy, requiring staking, trellising, or other artificial support.
-
-### Loss of Genetic Diversity
-
-Grafted orchards are clones — genetically identical trees. This eliminates the possibility of unusual or superior fruit arising from seed, and creates vulnerability to diseases and pests that can sweep through genetically uniform plantings. The natural genetic variation that protects wild plant populations from epidemic disease is deliberately eliminated in commercial orchards.
-
-### The Dependency Spiral
-
-Perhaps most importantly, grafted trees create a cycle of dependency. Because they have compromised vascular systems, they require more fertilizer. Because they have shallow roots, they require more irrigation. Because they are genetically uniform, they require more pesticide protection. Each intervention creates the need for further intervention, trapping the grower in an escalating spiral of inputs.
-
-## Fukuoka's Experiments with Seed-Grown Citrus
-
-When Fukuoka tried the direct planting of [[fukuoka-mandarin-orange-citrus]] seed, he found that trees grown from seed are generally considered inferior and useless because they revert or degenerate. The fruit produced is often smaller, irregular in shape, and may not match the qualities of the parent variety.
+Grafted trees, especially citrus on commercial rootstock, tend to develop shallower root systems than seed-grown trees. This makes them more vulnerable to drought, wind damage, and nutrient stress. A tree grown from seed sends down a deep taproot and develops a root system that mirrors the shape of its above-ground portion — a [[fukuoka-mandarin-orange-citrus]] seed, he found that trees grown from seed are generally considered inferior and useless because they revert or degenerate. The fruit produced is often smaller, irregular in shape, and may not match the qualities of the parent variety.
 
 However, this experiment gave him something far more valuable: a clue as to the **true form of the tree and its natural rate of growth**. By observing how seed-grown citrus developed without human interference, Fukuoka was able to understand the natural architecture of citrus trees — knowledge that later proved essential for his work on natural tree forms and no-pruning cultivation.
 
-The seed-grown tree showed him what a citrus tree wants to be when left alone. This knowledge became the template against which he measured all subsequent [[orchard-management]] decisions.
+The seed-grown tree showed him what a citrus tree wants to be when left alone. This knowledge became the template against which he measured all subsequent [[fukuoka-natural-orchard-development]] establishment is their **chelating action**. Tree roots work their way down to the deepest soil strata, contributing physically to the aggregation and structure of the soil. In addition, they serve as a nutrient source and have a chelating action that solubilizes insoluble nutrients in the soil.
 
-## The Chelating Action of Tree Roots
-
-One of the most important but often overlooked functions of tree roots in [[fukuoka-natural-orchard-development]] establishment is their **chelating action**. Tree roots work their way down to the deepest soil strata, contributing physically to the aggregation and structure of the soil. In addition, they serve as a nutrient source and have a chelating action that solubilizes insoluble nutrients in the soil.
-
-[[root-exudates]] — organic acids, sugars, and amino acids secreted by living roots — create a chemical environment around each root tip that dissolves minerals locked in soil particles and makes them available for uptake. This is a process that no [[cervantes-fertilizer-application-strain-feeding]] can replicate because it operates at the molecular level in the immediate root zone.
+[[cervantes-fertilizer-application-strain-feeding]] can replicate because it operates at the molecular level in the immediate root zone.
 
 When land is cleared for orchard planting, if these roots are dug up and disposed of, this drastically changes natural conditions and damages the soil so severely that it cannot recover — even if holes are later dug and the same amount of coarse organic matter returned. The living root system of established trees performs a function that no amount of added organic matter can replicate.
 
@@ -118,8 +100,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[fukuoka-textdoc-natural-direct-seeding-versus-rice-transplanting]]
 - [[fukuoka-textdoc-laissez-faire-versus-natural-farming]]
-- [[fukuoka-organic-versus-natural-farming]]
 - [[scientific-farming-versus-natural-farming]]
 - [[fukuoka-mahayana-and-hinayana-natural-farming]]

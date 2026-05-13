@@ -1,5 +1,5 @@
 ---
-title: "Allegro Sumer Civilization Cuneiform Writing System"
+title: "[[allegro-sumer-and-the-beginnings]] Civilization Cuneiform Writing System"
 source: allegro-j-the-sacred-mushroomcross.md
 type: concept
 ---
@@ -12,7 +12,7 @@ Civilization began in Sumer, in the Land of the Two Rivers, Mesopotamia. No one 
 
 The fertile soil deposited by annual flooding supported surplus agriculture on a scale that allowed populations to concentrate in permanent settlements. Cities like ancient Eridu accommodated thousands of inhabitants, sustained by irrigation canals and the extraordinary fecundity of the river-deposited earth.
 
-From these agricultural beginnings, the Sumerians built a complex and enduring civilization. Their innovations in irrigation, [[coleman-cover-crop-rotation-and-soil-health]], and [[holzer-natural-animal-husbandry]] created the economic surplus necessary to support specialized labor, long-distance trade, and monumental construction.
+From these agricultural beginnings, the Sumerians built a complex and enduring civilization. Their innovations in irrigation, [[holzer-natural-animal-husbandry]] created the economic surplus necessary to support specialized labor, long-distance trade, and monumental construction.
 
 The plain yielded not only food but the very medium of Sumerian literacy — the alluvial clay from which hundreds of thousands of tablets would be shaped over the course of three millennia. Writing was born from the soil of Mesopotamia, quite literally.
 
@@ -30,13 +30,7 @@ The Sumerian saw himself not as the master of the earth but as its custodian, an
 
 The temple stood at the very center of Sumerian life — far more than a place of worship. It served simultaneously as the seat of justice, land administration, scientific learning, theological speculation, religious ritual, university and primary school. In a very real sense, the temple was the state.
 
-All knowledge flowed through the temple. Scribes trained within its walls recorded every transaction, every legal judgment, every astronomical observation, every prayer and incantation. The temple was the institutional memory of the city, and its records constituted the longest continuous archive of human activity in [[allegro-plants-and-drugs-in-the-ancient-world]].
-
-No distinction existed between sacred and secular knowledge — all learning was temple learning, and all literacy served the gods. The separation of religion from science, of theology from administration, is a modern imposition that would have been unintelligible to the Sumerian mind.
-
-Temple colleges trained the scribes, priests, astronomers, and administrators who managed every aspect of the city's affairs. Over the next two thousand years, these temple colleges built some of the richest and most extensive libraries of the ancient world. Clay tablets by the hundreds of thousands were catalogued and shelved, preserving literature, law, mathematics, astronomy, medical knowledge, and religious texts.
-
-These extraordinary collections preserved Sumerian learning across millennia and would eventually be the means by which the [[allegro-sumerian-language-bridge-god-name-decipherment]] itself was recovered. Without the temple's obsessive commitment to recording and preserving, the Sumerian voice would have been lost utterly beneath the strata of later civilizations.
+All knowledge flowed through the temple. Scribes trained within its walls recorded every transaction, every legal judgment, every astronomical observation, every prayer and incantation. The temple was the institutional memory of the city, and its records constituted the longest continuous archive of human activity in [[allegro-sumerian-language-bridge-god-name-decipherment]] itself was recovered. Without the temple's obsessive commitment to recording and preserving, the Sumerian voice would have been lost utterly beneath the strata of later civilizations.
 
 ## Discovery of the Sumerians
 

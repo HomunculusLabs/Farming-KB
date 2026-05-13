@@ -9,14 +9,14 @@ sources: []
 
 ## Overview
 
-Mushrooms are versatile ingredients with diverse textures and flavors that respond differently to various [[solar-cooking-methods]]. Proper technique is essential to bring out the best in each species. This guide covers cooking methods, species-specific approaches, flavor pairing, and common mistakes to avoid.
+Mushrooms are versatile ingredients with diverse textures and flavors that respond differently to various cooking methods. Proper technique is essential to bring out the best in each species. This guide covers cooking methods, species-specific approaches, flavor pairing, and common mistakes to avoid.
 
 ## Fundamental Principles
 
 ### Why Cook Mushrooms
-All [[edible-wild-mushrooms-by-region]] should be cooked before eating. Raw mushrooms contain:
+All wild mushrooms should be cooked before eating. Raw mushrooms contain:
 - Chitin in cell walls (indigestible raw)
-- Potential pathogens from the [[cannabis-growing-environment-setup]]
+- Potential pathogens from the growing environment
 - Heat-sensitive toxins in some species
 - Agaritine in raw Agaricus species (reduced by cooking)
 
@@ -79,7 +79,7 @@ For tough or woody species:
 - Stewed mushrooms are traditional in Eastern European, Asian, and Mediterranean cuisines
 
 ### Frying
-- Tempura batter for delicate mushrooms (morels, [[medicinal-mushroom-guide-enoki]], chanterelles)
+- Tempura batter for delicate mushrooms (morels, [[medicinal-mushroom-guide-enoki|enoki]], chanterelles)
 - Pan-frying in breadcrumbs for meaty mushrooms (portobello, king oyster)
 - Deep-frying for crispy texture (shiitake chips, maitake fries)
 - Drain on paper towels; season immediately after frying
@@ -96,7 +96,7 @@ Preservation method that also creates flavor:
 - Best preservation method for most mushrooms
 - Concentrates flavor; dried mushrooms often more flavorful than fresh
 - Morels, porcini, shiitake are classic drying candidates
-- Rehydrate in warm water; save the soaking liquid as [[mushroom-stock-culture-preservation]]
+- Rehydrate in warm water; save the soaking liquid as mushroom stock
 - Dried mushrooms store for years in airtight containers
 
 ## Species-Specific Cooking
@@ -118,7 +118,7 @@ Preservation method that also creates flavor:
 - Do not pair with vinegar or strong acids (masks flavor)
 
 ### Porcini/Boletes (Boletus edulis group)
-- Rich, nutty, meaty flavor; the "king" of [[palmer-edible-mushrooms-north-america]]
+- Rich, nutty, meaty flavor; the "king" of edible mushrooms
 - Check all boletes for blue staining (some are bitter or toxic)
 - Best methods: sauteing, drying, risotto, soups
 - Pair with: pasta, rice, Parmesan, thyme, white wine
@@ -140,11 +140,11 @@ Preservation method that also creates flavor:
 - King oyster (P. eryngii): much meatier; slice and sear like scallops
 
 ### Hen of the Woods/Maitake (Grifola frondosa)
-- Complex, peppery flavor; layered, feathery texture
-- Tear into pieces along natural segments
-- Best methods: roasting, braising, tempura, soups
-- Pair with: soy sauce, butter, sage, roasted meats
-- Crisps beautifully when roasted at high heat
 
-### Chicken of the Woods (Laetiporus sulphureus)
-- Chicken-like texture and mild flavor when young
+## See Also
+
+- [[reishi-mushroom-cultivation-and-medicinal-properties]]
+- [[straw-based-mushroom-substrate-preparation]]
+- [[casing-soil-sterilization-versus-pasteurization-debate-mushroom-cultivation]]
+- [[straw-mushroom-cultivation]]
+- [[psilocybe-caerulescens-mazatec-sacred-mushroom-guzman-1998]]

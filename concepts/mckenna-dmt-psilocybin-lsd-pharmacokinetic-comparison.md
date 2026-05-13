@@ -10,10 +10,7 @@ aliases: [Tryptamine Pharmacokinetics, DMT Psilocybin LSD Comparison,
 
 # DMT vs Psilocybin vs LSD — Pharmacokinetic and Experiential Comparison
 
-[[terence-mckenna]], drawing on decades of personal experimentation beginning with
-DMT in 1965, drew sharp pharmacokinetic and phenomenological distinctions
-between the three major classical hallucinogens: N,N-dimethyltryptamine (DMT),
-psilocybin, and [[lsd-d-lysergic-acid-diethylamide]] (LSD). These differences, he
+[[lsd-d-lysergic-acid-diethylamide]] (LSD). These differences, he
 argued, reflect fundamentally different relationships between the compounds
 and human neurochemistry.
 
@@ -28,25 +25,9 @@ rapidity as evidence that the brain is "absolutely at home with this compound":
 > seconds and lasting five minutes, means that the brain is absolutely at
 > home with this compound.
 
-This interpretation rests on [[mckenna-endogenous-dmt-brain-familiarity]] — it is present in small amounts in the
-human brain, structurally similar to serotonin (5-hydroxytryptamine), and
-metabolized rapidly by monoamine oxidase. The brain's enzymatic machinery
-handles DMT with the efficiency of a familiar substrate, not a foreign toxin.
-
-The experiential quality matches the pharmacokinetic intensity. The [[mckenna-dmt-onset-phenomenology-and-mode-shift-experience]]
-involves a [[mckenna-dmt-onset-phenomenology-ripping-cellophane]] (described as "ripping cellophane" or "[[mckenna-radio-entelechy-dmt-onset-acoustic-phenomena]]
-ripping out of the [[mckenna-radio-entelechy-organic-matrix-ripping]]"), an ascending tone, and a mode shift that
-deposits the experiencer into what McKenna called the "merry go raum" — a
-domed, underground-feeling space of extraordinary alien presence.
-
-## Psilocybin — The Slow Build
-
-Psilocybin (4-phosphoryloxy-N,N-dimethyltryptamine) produces qualitatively
-similar phenomenology to DMT but with dramatically different kinetics. The
-experience builds over approximately one hour and is sustained for several
-hours. McKenna described the relationship:
-
-> The [[cap-versus-stem-alkaloid-distribution-in-psilocybin-mushrooms]] do the same things that DMT does, although the
+This interpretation rests on [[mckenna-dmt-onset-phenomenology-and-mode-shift-experience]]
+involves a [[mckenna-radio-entelechy-dmt-onset-acoustic-phenomena]]
+ripping out of the [[cap-versus-stem-alkaloid-distribution-in-psilocybin-mushrooms]] do the same things that DMT does, although the
 > experience builds up over an hour and is sustained for a couple of hours.
 
 The slower onset of psilocybin reflects its pharmacokinetic pathway. Unlike
@@ -56,25 +37,8 @@ crossing the blood-brain barrier. This conversion adds latency to onset while
 extending duration through gradual hepatic processing.
 
 Despite the kinetic differences, McKenna emphasized that psilocybin produces
-the same confrontation with [[mckenna-heraclitus-aeon-child-play-tryptamine-ecstasy]] and
-[[mckenna-translinguistic-matter-and-exteriorized-soul]] that characterize the DMT experience. The
-[[mckenna-tryptamine-hallucinogens-and-consciousness]]
-is the same; only the time scale differs.
-
-## LSD — The Prolonged Retention
-
-LSD represents a different pharmacological class entirely. McKenna noted that
-LSD is "retained in the body for some time," contrasting it with DMT's rapid
-clearance. This prolonged retention has several consequences:
-
-- The experience lasts 8–12 hours, far exceeding either DMT or psilocybin
-- The extended duration creates a fundamentally different experiential
-  texture — more time for integration, narrative development, and ego
-  engagement
-- The slower clearance means the body must metabolize an unfamiliar
-  molecular structure, potentially increasing physical stress
-
-McKenna's implicit hierarchy — favoring the [[psilocybin-serotonin-structural-homology-endogenous-familiarity-argument]] of DMT
+the same confrontation with [[mckenna-translinguistic-matter-and-exteriorized-soul]] that characterize the DMT experience. The
+[[psilocybin-serotonin-structural-homology-endogenous-familiarity-argument]] of DMT
 over the synthetic unfamiliarity of LSD — reflects his broader epistemological
 commitment to natural compounds. He stated: "There is some certainty that one
 is dealing with a creature of integrity if one deals with a plant, but the
@@ -88,3 +52,88 @@ tryptophan that share structural similarity with serotonin. This structural
 kinship is central to McKenna's argument about their significance:
 
 - **Serotonin** (5-hydroxytryptamine) — the major neurotransmitter found
+
+## Overview
+
+Mckenna Dmt Psilocybin Lsd Pharmacokinetic Comparison represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish mckenna dmt psilocybin lsd pharmacokinetic comparison
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving mckenna extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Mckenna Dmt Psilocybin Lsd Pharmacokinetic Comparison finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for mckenna dmt psilocybin lsd pharmacokinetic comparison. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+mckenna dmt psilocybin lsd pharmacokinetic comparison and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Mckenna Dmt Psilocybin Lsd Pharmacokinetic Comparison has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of mckenna dmt psilocybin lsd pharmacokinetic comparison into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[mckenna-baconian-exploration-tryptamine-research-methodology]]
+- [[mckenna-drugs-governments-and-intelligence-agencies]]
+- [[mckenna-fall-of-partnership-society]]
+- [[mckenna-translinguistic-matter-and-exteriorized-soul]]
+- [[mckenna-translinguistic-objects-hyperdimensional-language]]

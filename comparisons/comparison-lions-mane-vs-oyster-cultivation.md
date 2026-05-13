@@ -10,8 +10,7 @@ sources: []
 
 ## Overview
 
-Lion's mane ([[hericium-erinaceus-lions-mane-cultivation]]) and oyster
-mushroom ([[oyster-mushroom-cultivation]]) represent two of the most
+Lion's mane ([[oyster-mushroom-cultivation]]) represent two of the most
 accessible and rewarding cultivated mushrooms, yet they serve very
 different purposes. Lion's mane is prized for its neuroprotective
 compounds and unique lobster-like flavor, while oyster mushrooms are
@@ -20,29 +19,6 @@ cholesterol-lowering statins. Understanding their differences helps
 growers choose the right species for their goals and conditions.
 
 ## Lion's Mane
-
-[[hericium-erinaceus-lions-mane-cultivation]]
-
-Lion's mane (Hericium erinaceus) produces cascading white spines rather
-than a typical cap-and-stem morphology. It is a hardwood-loving species
-that fruits on oak, walnut, beech, and maple. In cultivation it requires
-sterilized supplemented sawdust substrates with a pH of 6.5-7.0 and
-careful attention to full mycelial colonization before fruiting.
-
-Its medicinal reputation centers on two compound families: hericenones
-(from fruiting bodies) and erinacines (from mycelium). Both stimulate
-nerve growth factor (NGF) synthesis, supporting cognitive function and
-neuroregeneration. Clinical trials have shown improvements in mild
-cognitive impairment at 3g/day dried powder over 16 weeks. This unique
-nootropic profile makes lion's mane the most popular mushroom for brain
-health.
-
-Culinarily, lion's mane has a sweet, seafood-like flavor often compared
-to lobster or crab. Its texture is firm and meaty when cooked, making
-it an excellent vegetarian substitute for shellfish. However, it does
-not store well fresh and is best consumed within a few days of harvest.
-
-## Oyster Mushroom
 
 [[oyster-mushroom-cultivation]]
 
@@ -108,32 +84,6 @@ straw inoculated with grain spawn can produce multiple flushes with no
 sterilization equipment required.
 
 Oyster mushrooms are also the better choice for mycoremediation
-projects. [[oyster-mushroom-spent-substrate-recycling]] shows that
-Pleurotus species can break down petroleum hydrocarbons, PAHs, and
-other environmental pollutants. For income-focused growers, oyster
-mushrooms offer faster turnaround (3-4 week cycles) and higher total
-yields per unit of substrate, though at lower per-pound prices.
-
-## Combined Cultivation
-
-Many growers cultivate both species to diversify their offering and
-spread risk. A practical approach: use oyster mushrooms on straw for
-high-volume, lower-margin production, and lion's mane on supplemented
-sawdust blocks for premium, lower-volume sales. The same fruiting
-chamber can serve both species sequentially, since lion's mane fruits
-at 65-75 F (overlapping with many warm-weather oyster strains).
-
-Substrate preparation differs significantly. Oyster straw requires only
-pasteurization (160-170 F for 1-2 hours), while lion's mane sawdust
-requires full sterilization (15 psi for 60-90 minutes). Growers can
-start with oyster mushrooms to learn basic technique and hygiene, then
-add lion's mane once they have invested in a pressure cooker or
-autoclave for sterilization.
-
-## See Also
-
-- [[comparison-shiitake-vs-oyster-cultivation]]
-- [[comparison-lions-mane-vs-cordyceps-cultivation]]
+projects. [[comparison-shiitake-vs-oyster-cultivation]]
 - [[comparison-cordyceps-vs-lions-mane-cultivation]]
-- [[medicinal-mushroom-guide-lions-mane]]
 - [[medicinal-mushroom-guide-oyster]]

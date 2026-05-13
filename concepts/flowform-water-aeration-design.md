@@ -29,28 +29,7 @@ Flowforms are artificial replicates of naturally occurring rock basins, cast in 
 
 ### Three Primary Mixing Effects
 
-When water flows through a cascade of [[flowform]] basins, three distinct mixing mechanisms operate simultaneously:
-
-1. **Vertical turbulence (plunge)**: Water drops from one basin to another, creating a vertical overturn that entrains air from the surface deep into the water column
-
-2. **Lateral figure-8 flow**: Water courses around the basins in a figure-8 or lemniscate pattern, creating prolonged contact between water and air as the flow path is maximized within each vessel
-
-3. **Pulse interaction**: The lateral figure-8 flow deflects the vertical drop flow, switching it from side to side in a regular rhythm. This interaction between vertical and horizontal turbulence creates the most effective mixing zone
-
-### Secondary Turbulence Patterns
-
-Within these major turbulence patterns, distinct sub-patterns further enhance aeration:
-
-- **Vortices and counterflow**: Rotating water masses that trap air bubbles and extend their residence time in the water
-- **Overfolds and cusps**: Wave-like formations at basin edges that create additional air-water interfaces
-- **Edge mixing**: Enhanced turbulence at the boundaries of the basins and in the main flow stream
-
-## Applications
-
-### Sewage and Wastewater Treatment
-
-Stacked below sewage pipe outfalls, Flowforms provide **primary treatment** through:
-- **Aeration**: Introducing dissolved oxygen to support aerobic [[decomposition]]
+When water flows through a cascade of [[decomposition]]
 - **Oxidation**: Converting reduced pollutants (ammonia, hydrogen sulfide, iron, manganese) to less harmful oxidized forms
 - **Turbulent mixing**: Preventing stratification and ensuring all water contacts the air-water interface
 
@@ -104,3 +83,11 @@ The Flowform concept suggests a design philosophy where:
 - **Educational value** is built into infrastructure — people learn about water, flow, and ecology from interacting with the systems
 
 The Flowform stands as a model for how [[permaculture-design]] can create infrastructure that is simultaneously functional, beautiful, educational, and ecologically beneficial.
+
+## See Also
+
+- [[flowform]]
+- [[flowform-water-aeration]]
+- [[cho-water-soluble-phosphoric-acid-preparation]]
+- [[jadam-water-soluble-calcium-preparation]]
+- [[water-use-efficiency-plants]]

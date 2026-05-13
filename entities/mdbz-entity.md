@@ -9,33 +9,7 @@ sources:
 ---
 # MDBZ (N-Benzyl-MDA; 3,4-Methylenedioxy-N-benzylamphetamine)
 
-MDBZ is a substituted amphetamine compound and the N-benzyl derivative of [[mda]], with a benzyl (phenylmethyl) group replacing the hydrogen on the nitrogen atom.
-
-The compound was synthesized as part of the systematic exploration of N-substitution on the MDA skeleton.
-
-## Pharmacological Profile
-
-MDBZ has shown no significant psychoactive effects at the doses explored.
-
-Dosage: Greater than 150 mg (no central effects observed).
-
-Duration: Unknown.
-
-The compound is considered inactive as a centrally acting psychoactive substance.
-
-## The Benzylamine Problem
-
-The benzyl group is useful in synthetic chemistry because it can be easily removed by catalytic hydrogenation.
-
-In pharmacology, however, it is often a disappointment.
-
-With most centrally active alkaloids, there is a critical two-carbon separation between the aromatic ring and the nitrogen atom.
-
-This two-carbon chain is what makes phenethylamines what they are: phenyl (aromatic ring), ethyl (two-carbon chain), and amine (basic nitrogen).
-
-If one carbon is removed, the result is a benzylamine, which usually has an entirely different pharmacology or is most often simply not active.
-
-A vivid example is the narcotic drug [[fentanyl]], where replacement of the phenethyl group on the nitrogen with a benzyl group virtually eliminates analgesic potency.
+MDBZ is a substituted amphetamine compound and the N-benzyl derivative of [[fentanyl]], where replacement of the phenethyl group on the nitrogen with a benzyl group virtually eliminates analgesic potency.
 
 The N-benzyl analogue of MDA similarly shows little if any central activity.
 
@@ -59,11 +33,7 @@ The yield was quite small (0.55 g), reflecting the difficulty of separating prod
 
 Several additional N-homologues and analogues of MDA were synthesized alongside MDBZ.
 
-The highest alkyl group on the nitrogen of MDA that was assayed was the straight-chain butyl homologue ([[mda]]
-
-[[mdal-entity]]
-
-[[mdma]]
+The highest alkyl group on the nitrogen of MDA that was assayed was the straight-chain butyl homologue ([[mdal-entity]]
 
 [[mde-entity]]
 
@@ -88,3 +58,88 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
+
+## Overview
+
+Mdbz Entity represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish mdbz entity
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving mdbz extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Mdbz Entity finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for mdbz entity. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+mdbz entity and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Mdbz Entity has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of mdbz entity into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[2c-c-entity]]
+- [[2c-o-4-entity]]
+- [[4-ho-dbt-entity-tihkal]]
+- [[mdbz-entity-pihkal]]
+- [[pyrethrum-entity]]

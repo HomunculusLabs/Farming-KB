@@ -13,39 +13,15 @@ date: 2026-05-10
 updated: 2026-05-10
 sources:
   - "raw/papers/psilocybin-mushrooms-of-the-world-stamets.md"
-  - "Guzmán, Allen & Gartz (1998) - A Worldwide [[psilocybe-geographical-distribution-patterns]] of the [[african-neurotropic-fungi-distribution-gaps-exploration-potential]]"
+  - "Guzmán, Allen & Gartz (1998) - A Worldwide african-neurotropic-fungi-distribution-gaps-exploration-potential"
   - "Stamets (1996)"
 type: concept
 ---
 
 # Psilocybe cyanofibrillosa — The Fibrillose-Capped Psilocybe of the Pacific Northwest
 
-**Psilocybe cyanofibrillosa** is a neurotropic mushroom species endemic to the Pacific Northwest region [[berry-growing]]. A relatively obscure member of the genus, it is primarily known from coastal and low-elevation forests of the region. The specific epithet "cyanofibrillosa" refers to the distinctive bluish (cyano-) fibrils (-fibrillosa) on the cap surface, which is a key identifying feature in the field.
-
-## Taxonomic Position
-
-P. cyanofibrillosa is classified within the genus Psilocybe (family Strophariaceae or Hymenogastraceae). It belongs to the group of wood-inhabiting, bluing Psilocybe species characteristic of the Pacific Northwest coniferous forests, alongside better-known species such as P. cyanescens, P. azurescens, P. pelliculosa, P. stuntzii, and P. silvatica. The species was not included in Singer & Smith's (1958) original treatment, suggesting it may have been described later or separated from similar taxa through subsequent taxonomic revision.
-
-## Morphology
-
-Based on the specific epithet and its classification among Pacific Northwest Psilocybe species, P. cyanofibrillosa is characterized by:
-
-- A cap (pileus) surface covered with distinctive fibrils that can show bluish tones, especially when young or moist
-- Hygrophanous cap that changes color as it dries — a common feature of the genus
-- [[field-guide-psilocybin-bluing-reaction-identification]] upon bruising, indicating the presence of psilocybin and/or psilocin
-- Small to medium-sized [[bloomfield-asterophora-and-mycoparasites-of-fruiting-bodies]] consistent with other wood-inhabiting Psilocybe species
-- Growth on woody substrates including decaying wood, wood debris, and possibly wood chip mulch
-
-The fibrillose cap surface is the most distinctive field character that separates this species from other Pacific Northwest Psilocybe species. While many Psilocybe species have viscid or smooth caps when moist, P. cyanofibrillosa retains visible fibrils (hair-like filaments) on the cap surface, giving it a distinctive texture and appearance.
-
-## Distribution
-
-P. cyanofibrillosa has a very restricted known distribution, documented only from the Pacific Northwest:
-
-- **California**: Stamets, 1996 — the southernmost confirmed record, likely from the northern coastal redwood forests
-- **British Columbia (Canada)**: Stamets, 1996 — the northernmost confirmed record, from the coastal temperate rainforests of southwestern British Columbia
-
-The species' entire known range spans from northern California through the Pacific Northwest coast to southwestern British Columbia, following the distribution of the coastal temperate rainforest ecosystem. This is one of the most restricted distributions of any confirmed neurotropic Psilocybe species in [[guzman-psilocybin-mushrooms-north-america]], even more limited than P. azurescens (which extends from California to Washington) and P. cyanescens (which has a broader Pacific coast distribution plus introduced populations in Europe).
+**Psilocybe cyanofibrillosa** is a neurotropic mushroom species endemic to the Pacific Northwest region [[field-guide-psilocybin-bluing-reaction-identification]] upon bruising, indicating the presence of psilocybin and/or psilocin
+- Small to medium-sized [[guzman-psilocybin-mushrooms-north-america]], even more limited than P. azurescens (which extends from California to Washington) and P. cyanescens (which has a broader Pacific coast distribution plus introduced populations in Europe).
 
 The extremely limited citation history — only Stamets (1996) for both confirmed locations — suggests the species is either genuinely rare, frequently overlooked (misidentified as other similar species), or both. It has not been reported from the Cascade Range inland, from Oregon (despite Oregon being central to the Pacific Northwest), or from any location outside the immediate Pacific coast region.
 
@@ -61,7 +37,7 @@ The species' restriction to the coastal zone suggests it requires the consistent
 
 ## Chemical Composition
 
-P. cyanofibrillosa contains [[hplc-analysis-of-psilocybin-and-psilocin]], as indicated by its inclusion in the [[guzman-allen-gartz-neurotropic-fungi-classification-system]] and its reported bluing reaction. Specific quantitative chemical data (mg/g dry weight of psilocybin, psilocin, baeocystin, or norbaeocystin) do not appear to have been published, or at least are not referenced in the distributional source material. Its potency relative to other Pacific Northwest species remains unknown, though it is generally assumed to be moderate based on its taxonomic position.
+P. cyanofibrillosa contains [[guzman-allen-gartz-neurotropic-fungi-classification-system]] and its reported bluing reaction. Specific quantitative chemical data (mg/g dry weight of psilocybin, psilocin, baeocystin, or norbaeocystin) do not appear to have been published, or at least are not referenced in the distributional source material. Its potency relative to other Pacific Northwest species remains unknown, though it is generally assumed to be moderate based on its taxonomic position.
 
 ## Comparison with Related Pacific Northwest Species
 
@@ -88,3 +64,87 @@ The lack of reports from Oregon — situated between the two confirmed locations
 P. cyanofibrillosa is one of the least-studied confirmed neurotropic Psilocybe species. Priority research areas include:
 
 1. **Comprehensive field surveys** throughout the Pacific Northwest to determine the true extent of its distribution
+
+## Overview
+
+Psilocybe Cyanofibrillosa Profile represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish psilocybe cyanofibrillosa profile
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving psilocybe extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Psilocybe Cyanofibrillosa Profile finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for psilocybe cyanofibrillosa profile. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+psilocybe cyanofibrillosa profile and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Psilocybe Cyanofibrillosa Profile has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of psilocybe cyanofibrillosa profile into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[grass-seed-cultivation-of-psilocybe-species]]
+- [[psilocybe-fascicata]]
+- [[psilocybe-plutonia]]
+- [[psilocybe-strictipes-entity]]

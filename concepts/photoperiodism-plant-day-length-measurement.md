@@ -21,14 +21,9 @@ type: concept
 
 ## Overview
 
-[[photoperiodism]] is the physiological response of plants to the length of day and night,
-and it is one of the most important timing mechanisms in the plant kingdom. Through
-photoperiodism, plants can determine the time of year and coordinate critical life
-events — especially flowering — with the appropriate season. The discovery of
-photoperiodism in the early [[coleman-louis-savier-twentieth-century-maraicher]] revealed that plants possess a far more
+[[coleman-louis-savier-twentieth-century-maraicher]] revealed that plants possess a far more
 sophisticated ability to measure and respond to light than anyone had previously
-imagined, and it opened the door to the discovery of [[phytochrome]], the remarkable
-red/far-red [[phototropin-blue-light-receptor-plant-directional-sensing]] that underlies much of plant visual biology.
+imagined, and it opened the door to the discovery of [[phototropin-blue-light-receptor-plant-directional-sensing]] that underlies much of plant visual biology.
 
 ## The Maryland Mammoth Tobacco
 
@@ -88,3 +83,11 @@ middle of the night. These experiments proved conclusively that plants measure n
 length of the day but the length of the continuous period of darkness. A single brief
 flash of light in the middle of the night is enough to reset the plant's internal
 clock and convince it that the night is over.
+
+## See Also
+
+- [[photoperiodism-garner-allard-discovery]]
+- [[phytochrome-photoreceptors-photoperiodism]]
+- [[maryland-mammoth-tobacco-photoperiodism]]
+- [[photoperiodism-plants]]
+- [[phytochrome-red-far-red-switch-and-photoperiodism]]

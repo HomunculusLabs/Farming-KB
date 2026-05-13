@@ -1,7 +1,7 @@
 ---
 title: Chamovitz Cryptochrome Blue Light Photoreception
 source: grahamholmes-what-a-plant-knowsindd.md
-source_author: "[[daniel-chamovitz]] (2012)"
+source_author: "daniel-chamovitz (2012)"
 topics: [plant-biology, photobiology, cryptochrome, blue-light-reception, plant-senses, photoreceptors]
 created: 2026-05-10
 ---
@@ -10,29 +10,11 @@ created: 2026-05-10
 
 ## Overview
 
-While phytochrome receives the most attention in plant photobiology for its role in detecting red and far-red light, plants possess additional photoreceptor systems that are equally sophisticated. Cryptochromes are blue-light-absorbing photoreceptors that play critical roles in plant development, [[chrysanthemum-coronarium]] entrainment, and de-etiolation. Along with phototropins, they form a complementary system to phytochrome that allows plants to sense the full spectrum of their light environment. Daniel Chamovitz's "What a Plant Knows" explores how these photoreceptor systems together give plants a richer visual sense than is commonly appreciated.
-
-## The Blue-Light Sensing Problem
-
-Plants need to detect blue light for several [[plant-micronutrients-and-their-essential-functions]]: phototropism (growing toward light), stomatal opening, inhibition of stem elongation, chloroplast movement, and circadian clock entrainment. Phytochrome, which absorbs primarily red and far-red light, cannot fulfill these roles. The discovery that plants have dedicated blue-light receptors answered a longstanding question in plant physiology: how do plants sense and respond to blue wavelengths independently of the phytochrome system?
+While phytochrome receives the most attention in plant photobiology for its role in detecting red and far-red light, plants possess additional photoreceptor systems that are equally sophisticated. Cryptochromes are blue-light-absorbing photoreceptors that play critical roles in plant development, [[plant-micronutrients-and-their-essential-functions]]: phototropism (growing toward light), stomatal opening, inhibition of stem elongation, chloroplast movement, and circadian clock entrainment. Phytochrome, which absorbs primarily red and far-red light, cannot fulfill these roles. The discovery that plants have dedicated blue-light receptors answered a longstanding question in plant physiology: how do plants sense and respond to blue wavelengths independently of the phytochrome system?
 
 The importance of blue-light sensing becomes clear when considering plant ecology. Blue light is abundant in full sunlight and is particularly enriched in shade light that has been scattered by the atmosphere (which is why the sky appears blue). Plants use blue light as a signal of open sky and unshaded conditions, distinct from the red/far-red ratio that signals shading by neighboring vegetation (primarily sensed by phytochrome).
 
-Charles and Francis Darwin first documented phototropism in the 1880s through their experiments with oat and [[canary-grass-phototropism-model-organism]] coleoptiles, demonstrating that the light-sensing portion of the plant is at the tip while the bending response occurs lower on the stem. This separation of perception and response hinted at a mobile signaling molecule — later identified as auxin. But it took over a century to identify the molecular photoreceptor mechanisms. Julius von Sachs demonstrated that blue light, not red light, drives phototropic bending, but the specific photoreceptor responsible remained elusive until the modern era of molecular genetics and Arabidopsis mutant screening.
-
-## Cryptochrome Structure and Function
-
-Cryptochromes (CRY) are flavoproteins that absorb blue and ultraviolet-A light (320–500 nm). They are structurally related to photolyases, DNA repair enzymes found in bacteria, but have evolved a new function in plants and animals as photoreceptors rather than repair enzymes. This evolutionary repurposing is a remarkable example of molecular exaptation.
-
-Plant cryptochromes contain two chromophores:
-- **Flavin adenine dinucleotide (FAD)**: The primary light-absorbing cofactor
-- **Methenyltetrahydrofolate (MTHF)**: An antenna pigment that transfers energy to FAD
-
-When cryptochrome absorbs blue light, the FAD undergoes a redox change, triggering a conformational change in the protein that initiates a signaling cascade leading to changes in gene expression.
-
-## Arabidopsis Cryptochromes: CRY1 and CRY2
-
-The model plant [[arabidopsis-thaliana]] possesses two major cryptochrome genes:
+Charles and Francis Darwin first documented phototropism in the 1880s through their experiments with oat and [[arabidopsis-thaliana]] possesses two major cryptochrome genes:
 
 ### CRY1
 CRYPTOCHROME 1 is primarily responsible for blue-light-mediated inhibition of hypocotyl elongation. When a seedling is grown under blue light, CRY1 activation suppresses the elongation of the stem, producing a compact, de-etiolated seedling. Mutants lacking CRY1 grow tall and spindly even under blue light, unable to perceive this critical growth-inhibiting signal.
@@ -46,7 +28,7 @@ One of cryptochrome's most fundamental roles is in entraining the plant's circad
 
 Cryptochromes, along with phytochromes, provide the light input to the circadian oscillator. Without cryptochrome, plants still maintain a circadian rhythm, but it becomes "free-running" — it drifts out of synchronization with the external day/night cycle. The interaction between CRY1/CRY2 and clock components such as TOC1, CCA1, and LHY forms a molecular feedback loop that keeps the plant's internal clock aligned with the solar day.
 
-Chamovitz draws an analogy to human jet lag: just as travelers struggle to adjust their [[plant-circadian-rhythms]] to new time zones, plants transferred to different [[cannabis-photoperiodism-and-light-cycles]] show measurable physiological disruption until their cryptochrome-mediated clock-resetting mechanism catches up. The speed and accuracy of this resetting depends on the quality and intensity of blue light available, which is why artificial lighting in greenhouses must include blue wavelengths to maintain normal circadian regulation of plant metabolism.
+Chamovitz draws an analogy to human jet lag: just as travelers struggle to adjust their [[cannabis-photoperiodism-and-light-cycles]] show measurable physiological disruption until their cryptochrome-mediated clock-resetting mechanism catches up. The speed and accuracy of this resetting depends on the quality and intensity of blue light available, which is why artificial lighting in greenhouses must include blue wavelengths to maintain normal circadian regulation of plant metabolism.
 
 ## Phototropins: The Other Blue-Light Receptors
 
@@ -84,9 +66,7 @@ The implications extend beyond basic biology. Because human cryptochromes regula
 Understanding cryptochrome signaling has practical implications for horticulture and agriculture:
 
 - **Supplemental lighting in greenhouses**: Blue light supplementation can be used to control plant architecture through cryptochrome-mediated growth inhibition, producing shorter, sturdier stems that are better suited for transplanting
-- **[[blesching-cannabinoid-pharmacology]]**: Understanding CRY2's role in flowering allows growers to manipulate day length responses for out-of-season flowering in ornamental and food crops
-- **Vertical farming**: Cryptochrome-optimized light spectra can produce more compact, desirable plant morphologies in controlled environment agriculture, reducing the need for chemical [[aact-natural-growth-regulators-bacteria-fungi-humus-cycle-ingham]]
-- **[[fungal-stress-responses]]**: Cryptochrome signaling intersects with abiotic stress pathways, suggesting that light quality management could improve plant resilience to drought, temperature extremes, and pathogen pressure
+- **[[aact-natural-growth-regulators-bacteria-fungi-humus-cycle-ingham]]
 - **[[coleman-sowing-seedling-production]]**: Nursery operations can use blue-light-enriched environments to produce stronger, more compact seedlings through cryptochrome activation
 
 ## Practical Applications
@@ -118,8 +98,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[daniel-chamovitz]]
 - [[doc]]
-- [[dom]]
 - [[det]]
 - [[phototropism]]

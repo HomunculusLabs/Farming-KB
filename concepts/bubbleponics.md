@@ -10,7 +10,7 @@ tags: [reference]
 
 # Bubbleponics for Cannabis
 
-Bubbleponics is a hybrid [[cannabis-grow-hydroponic-growing-systems]] method that combines elements of [[rockwool-cannabis]] starter cubes, or other inert media in the net pots.
+Bubbleponics is a hybrid [[rockwool-cannabis]] starter cubes, or other inert media in the net pots.
 
 ## Advantages of Bubbleponics
 
@@ -18,15 +18,11 @@ Bubbleponics is a hybrid [[cannabis-grow-hydroponic-growing-systems]] method tha
 - **Rapid growth**: The combination of top feeding and bottom aeration produces very fast growth rates.
 - **Simple design**: Like DWC, bubbleponics systems are relatively simple with few components.
 - **No timer needed**: Both the water pump and air pump can run continuously, 24 hours a day.
-- **Excellent oxygenation**: Continuous bubbling maintains high [[aact-dissolved-oxygen-fine-bubble-aeration-ingham]] levels in the reservoir.
-- **Forgiving for beginners**: The dual delivery system is more forgiving than pure DWC or banisteriopsis caapi.
-- **Versatile**: Works well for seedlings, clones, [[cannabis-vegetative-growth-stage]], and flowering.
+- **Excellent oxygenation**: Continuous bubbling maintains high [[cannabis-vegetative-growth-stage]], and flowering.
 
 ## How It Differs from Deep Water Culture
 
-While closely related to [[deep-water-culture]], bubbleponics adds the top-feed element:
-- **DWC**: Roots must grow down into the reservoir to access nutrients. Young plants rely on the moisture in the net pot until roots reach the solution.
-- **Bubbleponics**: [[cannabis-nutrient-solution-preparation]] is actively delivered to the top of the root zone, ensuring immediate feeding. Once roots reach the reservoir, the DWC component takes over as the primary nutrient source.
+While closely related to [[cannabis-nutrient-solution-preparation]] is actively delivered to the top of the root zone, ensuring immediate feeding. Once roots reach the reservoir, the DWC component takes over as the primary nutrient source.
 
 ## How It Differs from Aeroponics
 
@@ -46,11 +42,7 @@ While bubbleponics uses top-feed drip delivery, it differs from standard [top-fe
 
 The net pots in a bubbleponics system can be filled with:
 - expanded clay pellets (hydroton): The most popular choice. Excellent drainage, reusable, and provides good support.
-- [[coco-coir-cannabis]]: Can be used but may retain too much moisture for the top-feed application.
-
-## Cannabis Cultivation in Bubbleponics
-
-Bubbleponics is well-suited for all [[query-what-are-the-stages-of-cannabis-growth]] growth:
+- [[query-what-are-the-stages-of-cannabis-growth]] growth:
 - **Seedlings and clones**: Top-feeding provides immediate nutrition. [Clones root quickly in the moist, aerated environment.
 - **[[comparison-cannabis-vegetative-stage-vs-flowering-stage]]**: Fast growth rates make bubbleponics excellent for [vegetative growth.
 - **Flowering**: The system supports heavy flowering plants when reservoir volume is adequate.
@@ -118,5 +110,4 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[banisteriopsis-caapi]]
 - [[deep-water-culture]]

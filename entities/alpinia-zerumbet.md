@@ -21,9 +21,7 @@ sources:
 
 ## Overview
 
-**Alpinia zerumbet**, commonly known as **shell ginger**, **pink porcelain lily**, or **variegated ginger**, is a rhizomatous perennial herb in the family Zingiberaceae. It is native to [[neurotropic-fungi-japan-east-asia-species-cultural-context]] and is widely cultivated throughout the tropics and subtropics as an ornamental and medicinal plant.
-
-The species is valued for its striking shell-shaped flowers with pink and yellow striped petals, as well as its variegated foliage. The leaves and rhizomes contain bioactive diarylheptanoids and [[comparison-essential-oils-vs-neem-oil-vs-insecticidal-soap]] with antioxidant, anti-inflammatory, and diuretic properties.
+**Alpinia zerumbet**, commonly known as **shell ginger**, **pink porcelain lily**, or **variegated ginger**, is a rhizomatous perennial herb in the family Zingiberaceae. It is native to [[comparison-essential-oils-vs-neem-oil-vs-insecticidal-soap]] with antioxidant, anti-inflammatory, and diuretic properties.
 
 In Okinawan folk medicine, A. zerumbet leaves are consumed as a daily health tea, contributing to the region's reputation for longevity. The species is one of the most culturally significant medicinal plants in the Ryukyu Islands.
 
@@ -51,7 +49,7 @@ Shell ginger is frost-sensitive and does not tolerate temperatures below 5°C fo
 
 The leaves contain significant quantities of phenolic compounds, primarily diarylheptanoids. The major bioactive constituents include **caftaric acid**, **5-O-caffeoylquinic acid**, and various flavonoid glycosides.
 
-The essential oil is composed mainly of monoterpenes, with **1,8-cineole** (eucalyptol), **α-pinene**, **β-pinene**, and **limonene** as principal components. The oil content ranges from 0.1–0.5% of fresh leaf weight.
+The essential oil is composed mainly of monoterpenes, with **1,8-cineole** ([[eucalyptol]]), **α-pinene**, **β-pinene**, and **limonene** as principal components. The oil content ranges from 0.1–0.5% of fresh leaf weight.
 
 Antioxidant activity has been demonstrated in multiple in vitro assays. Leaf extracts show strong DPPH and ABTS radical scavenging activity, comparable to standard antioxidants at equivalent concentrations.
 
@@ -77,7 +75,7 @@ A. zerumbet is propagated by division of the rhizome or from seed. Division is t
 
 Plants are established at 0.5–1 m spacing in fertile, organic-rich soil. Regular irrigation and partial shade produce the best leaf coloration in variegated cultivars. Full sun can bleach the variegation.
 
-The species is relatively pest-free but may be affected by mealybugs, [[cervantes-spider-mites-identification-control]], and [[cervantes-foliar-spots-blight-fungal-leaf-diseases]] spot diseases in humid conditions. Good [[stamets-growing-room-air-circulation-co2-management]] and well-drained soil minimize disease pressure.
+The species is relatively pest-free but may be affected by mealybugs, [[cervantes-foliar-spots-blight-fungal-leaf-diseases]] spot diseases in humid conditions. Good [[stamets-growing-room-air-circulation-co2-management]] and well-drained soil minimize disease pressure.
 
 In temperate climates, A. zerumbet is grown as a container plant and overwintered indoors. The rhizomes survive light frosts if well-mulched, but extended freezing kills the plant.
 

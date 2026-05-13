@@ -29,50 +29,17 @@ Fukuoka practices rice-barley succession cropping in which he seeds barley toget
 
 ## No Pesticides: Insect Pests Do Not Exist
 
-A thousand plant diseases exist in nature, yet in truth there are none. To someone who understands the chain of being that links together the world of [[savory-living-organisms-as-tools]], there is no way of telling which organisms are beneficial predators and which are pests. By meddling with controls, all man accomplishes is destruction of the natural order.
-
-## Pollution by New Pesticides
-
-Many await new pesticides that have no [[blesching-cannabis-safety-adverse-effects-evidence]] and are totally non-polluting. But animal cells, plant cells, and microorganisms are basically all quite similar. A substance effective on insects also acts, to a greater or lesser degree, on plants and animals. To claim something does not cause pollution is to make small distinctions based on minor differences.
+A thousand plant diseases exist in nature, yet in truth there are none. To someone who understands the chain of being that links together the world of [[blesching-cannabis-safety-adverse-effects-evidence]] and are totally non-polluting. But animal cells, plant cells, and microorganisms are basically all quite similar. A substance effective on insects also acts, to a greater or lesser degree, on plants and animals. To claim something does not cause pollution is to make small distinctions based on minor differences.
 
 ## The Pine Rot Case Study
 
 Fukuoka's analysis of red pine disease reveals a cascade of causes: soil acidification kills matsutake mushrooms (symbionts on pine roots), parasitic mold fungi follow, then nematode infestation. The pinewood nematode is merely a secondary symptom. True control means addressing soil conditions, not spraying pesticides.
 
-[[fukuoka-natural-rice-farming-steps]] | [[fukuoka-do-nothing-farming-philosophy]] | [[fukuoka-future-modern-agriculture]]
-- [[natural-farming-philosophy]], [[one-straw-revolution-guide]], [[fukuoka-four-principles-natural-farming]], [[fukuoka-no-fertilizer-principle]], fukuoka no weeding no pesticides, [[fukuoka-do-nothing-farming-philosophy]], [[clay-seed-balls-tsuchi-dango]].
-
-For further reading, consult Masanobu Fukuoka's 'The One-Straw Revolution' and 'The Natural Way of Farming'.
-The [[comparison-natural-farming-vs-permaculture]] movement has inspired practitioners worldwide to reconsider the role of human intervention in food production.
+[[fukuoka-do-nothing-farming-philosophy]] | [[natural-farming-philosophy]], [[fukuoka-four-principles-natural-farming]], [[fukuoka-do-nothing-farming-philosophy]], [[comparison-natural-farming-vs-permaculture]] movement has inspired practitioners worldwide to reconsider the role of human intervention in food production.
 Key to success is abandoning the mindset that nature needs to be controlled and instead learning to cooperate with natural processes.
-Winter [[miniculture-rye-grain-cultivation-method-for-psilocybe-cubensis]] without tilling demonstrates how carefully timed seeding can work with seasonal cycles.
-The relationship between soil microorganisms, plant roots, and [[hamilton-composting-and-organic-matter-management]] is central to Fukuoka's method.
+Winter [[hamilton-composting-and-organic-matter-management]] is central to Fukuoka's method.
 Natural farming orchards use a layered approach: tall trees, understory fruit trees, shrubs, ground covers, and root crops.
-Fukuoka's methods have been adapted successfully in tropical, temperate, and arid climates [[fungi-around-the-world-species-distribution]].
-The spiritual dimension of natural farming emphasizes humility, gratitude, and a deep connection to the land.
-
-For further reading, consult Masanobu Fukuoka's 'The One-Straw Revolution' and 'The Natural Way of Farming'.
-The natural farming movement has inspired practitioners worldwide to reconsider the role of human intervention in food production.
-Key to success is abandoning the mindset that nature needs to be controlled and instead learning to cooperate with natural processes.
-Winter grain cultivation without tilling demonstrates how carefully timed seeding can work with seasonal cycles.
-The relationship between soil microorganisms, plant roots, and organic matter is central to Fukuoka's method.
-Natural farming orchards use a layered approach: tall trees, understory fruit trees, shrubs, ground covers, and root crops.
-Fukuoka's methods have been adapted successfully in tropical, temperate, and arid climates around the world.
-The spiritual dimension of natural farming emphasizes humility, gratitude, and a deep connection to the land.
-
-## Merged: Fukuoka No Weeding Principle Weed Utility
-
-# No-Weeding Principle and Weed Utility
-
-updated: 2026-04-18
-
-The fukuoka-five-principles-natural-farming. Rather than pulling weeds, he proposed using them — a principle he also called "weed utility." The presence of grasses is not only not harmful, it is positively essential to healthy soil.
-
-## The False Distinction Between Crops and Weeds
-
-Nature does not arbitrarily call one plant a weed and try to eradicate it. Man created the distinction between "crops" and "weeds." He believes that to raise a crop, he must remove other grasses and herbs. But the growth of weeds is natural; there is no end to their variety or to the labors of those who try to eradicate them.
-
-If one believes crops grow with the aid of fertilizers, then surrounding weeds appear to compete for nutrients. But in [[fukuoka-green-manure-clover-revolution]] that take the place of undesirable weeds eliminates the need for weeding while enriching soil and preventing erosion.
+Fukuoka's methods have been adapted successfully in tropical, temperate, and arid climates [[fukuoka-green-manure-clover-revolution]] that take the place of undesirable weeds eliminates the need for weeding while enriching soil and preventing erosion.
 
 ## Weeding Is Positively Harmful
 
@@ -117,8 +84,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[masanobu-fukuoka]]
 - [[matsutake-mushroom]]
-- [[composting]]
 - [[permaculture]]
 - [[natural-farming]]

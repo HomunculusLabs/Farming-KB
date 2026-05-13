@@ -13,46 +13,7 @@ sources:
   - Ray, J. (1686). "Historia Plantarum." London.
   - Handel-Mazzetti, H. (1928). "Symbolae Sinicae." Botanische Ergebnisse.
   - Hu, C.M. & Kelso, S. (1996). "Primulaceae." Flora of China, Vol. 15. Science Press.
-  - Weakley, A.S. (2022). "Flora of the Southeastern [[dmt-containing-plants-united-states-halpern]]." UNC Herbarium.
-  - Preston, C.D. & Pearman, D.A. (2015). "New Atlas of the British and Irish Flora." Oxford University Press.
----
-
-## Overview
-
-**Lysimachia ciliata**, commonly known as fringed loosestrife, is a perennial herb in the family Primulaceae. It is native to [[guzman-psilocybin-mushrooms-north-america]], where it occurs in moist woodlands, floodplains, and stream banks across much of the eastern and central [[dmt-maoi-plants-united-states]] and southern Canada.
-
-The species is valued as a native ornamental for its nodding yellow flowers and attractive whorled foliage. It spreads by rhizomes to form substantial colonies in suitable wetland habitats.
-
-The specific epithet "ciliata" refers to the ciliate (fringed) margins of the leaves and calyx, a distinguishing feature of the species.
-
-Fringed loosestrife should not be confused with purple loosestrife (Lythrum salicaria), an unrelated invasive wetland plant in the family Lythraceae. Despite the common name, the two species belong to different families and are easily distinguished by flower color and structure.
-
-## Taxonomy and Morphology
-
-Lysimachia ciliata was described by Carl Linnaeus in 1753. It belongs to the large genus Lysimachia, which contains approximately 180 species distributed across temperate and subtropical regions of the Northern Hemisphere.
-
-- **Kingdom:** Plantae
-- **Family:** Primulaceae
-- **Genus:** Lysimachia
-- **Authority:** L. (1753)
-
-Recent molecular studies place Lysimachia within a reorganized Primulaceae that incorporates several former families. The genus is closely related to Anagallis and Trientalis.
-
-Several varieties have been described based on leaf pubescence and stem characteristics, but these are not widely accepted. The species is relatively uniform across its broad geographic range.
-
-The plant grows 40–100 cm tall from a creeping rhizome. Stems are erect, simple or sparingly branched, and glabrous to sparsely pubescent. Leaves are opposite or whorled in groups of three, lanceolate to ovate-lanceolate, 5–12 cm long.
-
-Leaf margins are distinctly ciliate with fine hairs 0.5–1 mm long. This ciliation is visible under magnification and is a reliable diagnostic character for the species.
-
-Flowers are solitary in the upper leaf axils, nodding on pedicels 1–3 cm long. The corolla is bright yellow, 1.5–2.5 cm across, with five deeply lobed petals that are gland-dotted on the inner surface.
-
-The fruit is a globose capsule 3–5 mm in diameter that dehisces by valves. Seeds are small, dark brown, angular, and approximately 1 mm long.
-
-Flowering typically occurs from late June through August in the northern part of the range. In southern populations, flowering may begin as early as May.
-
-## Distribution and Habitat
-
-Lysimachia ciliata is widespread across eastern and central [[berry-growing]]. Its range extends from Nova Scotia and Quebec west to Manitoba, Minnesota, and the Dakotas, and south to Georgia, Alabama, and Texas.
+  - Weakley, A.S. (2022). "Flora of the Southeastern [[guzman-psilocybin-mushrooms-north-america]], where it occurs in moist woodlands, floodplains, and stream banks across much of the eastern and central [[berry-growing]]. Its range extends from Nova Scotia and Quebec west to Manitoba, Minnesota, and the Dakotas, and south to Georgia, Alabama, and Texas.
 
 The species is absent from the Great Plains and the arid Southwest. It becomes increasingly localized at the southern edge of its range, where it is restricted to cooler, moister sites.
 
@@ -74,25 +35,92 @@ The species is moderately tolerant of shade but flowers more prolifically in bri
 
 The species serves as a larval host plant for several moth species. Its dense growth provides cover for small wildlife in wetland edge habitats.
 
-[[cannabis-controlled-pollination-seed-production]] is variable, with some populations producing abundant seed while others rely primarily on vegetative reproduction. Seeds require cold stratification for germination.
+[[lysimachia-clethroides]]
+- [[lysimachia-maritima]]
+- [[lysimachia-quadrifolia]]
+- [[lysimachia-thyrsiflora]]
 
-## Cultivation
+## Overview
 
-Fringed loosestrife is easily grown in moist, partly shaded garden conditions. It is adaptable and tolerant of a wide range of soil types provided adequate moisture is available.
+Lysimachia Ciliata represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
 
-- **Light:** Part shade to full shade; tolerates morning sun
-- **Soil:** Moist to wet loam; tolerant of clay soils
-- **Hardiness:** USDA zones 3–8
-- **Propagation:** Division in spring or fall; seed sown fresh
-- **Spacing:** 30–45 cm between plants
+## Key Characteristics
 
-In cultivation, Lysimachia ciliata can be vigorous and may spread beyond its intended area. Planting in contained beds or using root barriers is advisable in small gardens.
+Several defining characteristics distinguish lysimachia ciliata
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving lysimachia extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Lysimachia Ciliata finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for lysimachia ciliata. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+lysimachia ciliata and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Lysimachia Ciliata has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of lysimachia ciliata into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
 
 ## See Also
 
-- [[lysimachia-clethroides]]
 - [[lysimachia-ephemerum]]
 - [[lysimachia-maritima]]
 - [[lysimachia-nemorum]]
-- [[lysimachia-quadrifolia]]
+- [[lysimachia-nummularia]]
 - [[lysimachia-thyrsiflora]]

@@ -16,10 +16,7 @@ region: "United States, England, California"
 ## Overview
 
 B.M. Duggar's *Mushroom Growing* (1915) describes several types of structures
-and environments suitable [[grass-seed-substrate-for-mushroom-cultivation]], ranging from purpose-built
-mushroom houses to natural caves and even open-air beds. The choice of
-structure depends on scale, climate, permanence, and available investment.
-Winter is the primary growing season, making [[blesching-cannabis-fever-temperature-regulation]] a central
+and environments suitable [[blesching-cannabis-fever-temperature-regulation]] a central
 concern across all facility types.
 
 ## The Mushroom House
@@ -79,12 +76,7 @@ in very large houses to facilitate handling materials.
 When beds are prepared in caves, cellars, or simply on the floors of
 existing buildings, preparation is relatively simple. Caves are particularly
 well-suited to mushroom growing because they naturally maintain uniform
-[[greg-green-temperature-and-humidity-control]] — conditions ideal for sustained mushroom
-production without the need for elaborate climate control systems.
-
-Cellars offer similar advantages, providing stable below-ground conditions
-that buffer against the temperature fluctuations of surface weather. These
-environments reduce the need for artificial heating and [[pf-tek-dual-chambered-terrarium-design-humidity-management]].
+[[pf-tek-dual-chambered-terrarium-design-humidity-management]].
 
 ## Open Air Culture
 
@@ -105,15 +97,7 @@ covers for protection.
 ### Limitations and Regional Suitability
 
 Open-air culture cannot be regarded as having great commercial possibilities
-in most regions. The difficulties are considerable: [[history-of-commercial-mushroom-cultivation]]
-growing demands uniform temperature, yet daily temperature variation in
-open settings is often significant. Drying winds are frequent, and the
-moisture factor is hard to regulate without an enclosed structure.
-
-Some sections of California may be suitable for outdoor culture. The mean
-monthly temperature of San Francisco ranges from 50 to 60 degrees Fahrenheit,
-with daily temperature ranges that are not pronounced. Both *Agaricus
-campestris* and *[[agaricus-arvensis]]* have been found in California during
+in most regions. The difficulties are considerable: [[agaricus-arvensis]]* have been found in California during
 winter months, suggesting natural suitability.
 
 ## Temperature Requirements
@@ -141,8 +125,5 @@ humidity that mushrooms require.
 
 ## See Also
 
-- [[mushroom-compost-preparation-historical]] — Compost preparation methods
 - [[mushroom-spawn-production-grain-inoculation]] — Spawn selection and bed spawning
-- [[duggar-mushroom-marketing-economics-1915]] — Harvest, packing, and sale
-- mushroom species agricus campestris — The common field mushroom
 - [[hamilton-cold-frames-and-hardening-off]] — Related growing structures

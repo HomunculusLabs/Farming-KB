@@ -39,13 +39,7 @@ Onion skins (both yellow and red varieties) produce warm golds, oranges,
 and deep rusts. Black walnut hulls give rich browns without any
 mordant. Avocado pits and skins produce surprisingly vivid pinks and
 peach tones on protein fibers. Coreopsis (tickseed) flowers yield
-oranges and reds. The [[mollison-designers-wool-processing-natural-dyeing]] describes
-traditional integrated approaches. Coreopsis, marigold, dyer's
-chamomile, and weld produce yellows. Madder root yields reds and
-oranges after two to three years of growth. Woad and Japanese indigo
-produce blues through different extraction methods. St. John's wort
-gives reds and golds. Many of these plants double as ornamentals,
-medicinals, or companion plants in a [[fukuoka-dutch-priest-vegetable-garden-spiritual-renewal]].
+oranges and reds. The [[fukuoka-dutch-priest-vegetable-garden-spiritual-renewal]].
 
 ## Understanding Fast vs Fugitive Dyes
 
@@ -87,6 +81,5 @@ into waterways.
 
 ## Related Questions
 
-- [[query-how-to-extract-and-use-fungal-pigments-for-natural-dyeing]]
 - [[query-do-beans-and-peas-feed-nearby-plants-with-nitrogen]]
 - [[query-what-are-ectomycorrhizal-fungi-and-which-plants-do-they-associate-with]]

@@ -63,20 +63,7 @@ Clones require specific environmental conditions to successfully form roots:
 
 - pH of the rooting medium should be between 5.0 and 6.0
 - Aeroponic systems perform best at pH 5.0-5.5
-- [[cervantes-compact-fluorescent-lighting]] is preferred during rooting (10-21 days)
-- Temperature should be maintained in the 72-80°F range
-- High humidity (70-90%) reduces transpiration stress
-- Minimal nitrogen; increased phosphorus promotes root growth
-
-## Preparing Mother Plants for Cloning
-
-### Carbohydrate Building
-
-Clones develop dense root systems faster when stems have a high carbohydrate and low nitrogen
-concentration. Growers build carbohydrate levels by:
-
-- Leaching the growing medium with copious quantities of water to flush out nutrients
-- Reverse [[cannabis-foliar-feeding]]: misting mother plants with clean water every morning for 3-4 days to
+- [[cannabis-foliar-feeding]]: misting mother plants with clean water every morning for 3-4 days to
   leach nitrogen from leaves
 - Older leaves may turn light green as nitrogen depletes and carbohydrates build
 
@@ -115,34 +102,11 @@ pre-sex under an 18-hour photoperiod, but this does not necessarily exclude them
 
 An embolism is an air bubble trapped in the hollow stem of a cutting. This occurs when large
 cuttings are taken and left on a surface before being placed in water or growing medium. When an
-embolism forms, fluid flow stops and the clone dies. [[jadam-crop-disease-prevention-methods]] include:
-
-- Immediately dipping cuttings in water or growing medium after cutting
-- Taking cuttings underwater to eliminate air contact
-
-### Environmental Stress
-
-Cloning is the most traumatic event a cannabis plant can experience. The entire plant chemistry
-changes as the stem that once grew leaves must now produce roots. During this vulnerable period:
-
-- Avoid all sprays [[solomon-liquid-fertilizers-and-foliar-feeding]] during rooting
-- Maintain consistent [[greg-green-temperature-and-humidity-control]]
-- Provide gentle air circulation without strong drafts
-- Use sterile tools [[hamilton-potting-compost-recipes-and-growing-media]] to prevent infection
+embolism forms, fluid flow stops and the clone dies. [[solomon-liquid-fertilizers-and-foliar-feeding]] during rooting
+- Maintain consistent [[hamilton-potting-compost-recipes-and-growing-media]] to prevent infection
 
 ## Post-Rooting Care
 
 Once clones have developed a strong root system, they are given 18-24 hours of light to remain in
-the [[knf-vegetative-growth-stage]]. After the root system is established, clones are transplanted into
-larger containers for 1-4 weeks of vegetative growth before being induced to flower under a 12/12
-photoperiod.
-
-With good technique and experience, most growers achieve a consistent 100% clone survival rate.
-Growers are advised to take five to ten practice clones before committing to a serious cloning
-operation, especially when working with unfamiliar strains.
-
-## See Also
-
-- [[marijuana-horticulture-cervantes-cannabis-breeding-and-genetics]] genetics
-- [[marijuana-horticulture-cervantes-cannabis-life-cycle-and-photoperiod]] and photoperiod
+the [[marijuana-horticulture-cervantes-cannabis-breeding-and-genetics]] genetics
 - [[cannabis-grow-hydroponic-growing-systems]]

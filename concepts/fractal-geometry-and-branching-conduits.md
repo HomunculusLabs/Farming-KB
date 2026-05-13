@@ -8,38 +8,19 @@ type: concept
 
 Fractal geometry provides a powerful lens for understanding the branching, self-similar patterns that pervade natural systems. From the architecture of trees to the distribution of lichen on stone, fractals describe forms that repeat at ever-smaller scales. In permaculture design, recognizing these patterns allows practitioners to work with nature's inherent efficiencies rather than against them. Branching conduits — the ever-dividing pathways that transport energy, materials, and information through living systems — are among the most important fractal structures for designers to understand and emulate.
 
-## [[query-what-are-dung-beetles-and-how-do-they-benefit-soil-and-pasture-health]] Fractals?
-
-The study of fractal geometry was pioneered by Benoit Mandelbrot. The word itself derives from the Latin *fractus*, meaning "shattered" or "broken" — an apt description for forms that appear fragmented and irregular yet follow discernible, self-similar rules at every scale of observation.
-
-Fractals are as common in nature as they are in abstract systems. They appear wherever energy disperses, materials scatter, or information branches. Natural examples include:
-
-- Impact shatter-zones in rock and soil
-- Cloud formations and weather patterns
-- Forked lightning bolts
-- Neural networks in the brain
-- Snowflakes and ice crystals
-- Tree branches and root systems
-- River drainage networks
-- Lichen patterns spreading across stone
-
-Fractal patterns also appear in abstract and procedural systems such as computer searching algorithms, [[what-a-plant-knows-phytochrome-red-far-red-light-switch]] identification keys, and decision trees. In all cases, the defining feature is self-similarity: the overall structure is mirrored at progressively finer scales. This recursive quality means that a small portion of a fractal, when examined in isolation, resembles the whole — a property with profound implications for understanding and designing complex systems.
+## [[what-a-plant-knows-phytochrome-red-far-red-light-switch]] identification keys, and decision trees. In all cases, the defining feature is self-similarity: the overall structure is mirrored at progressively finer scales. This recursive quality means that a small portion of a fractal, when examined in isolation, resembles the whole — a property with profound implications for understanding and designing complex systems.
 
 ### Fractals and Euclidean Geometry
 
 Fractals are not opposed to classical geometry — they are contained within it. A tree, for instance, can be described in Euclidean terms as having a straight central axis, existing within a plane, and composed of regular curved lines. Yet the branching pattern that fills that framework is irreducibly fractal. The Euclidean form provides the scaffold; the fractal pattern provides the functional complexity.
 
-A bare winter-deciduous tree is perhaps the most accessible and typical example of a fractal in nature. With its leaves stripped away, the full branching hierarchy is visible: trunk divides into major limbs, limbs into branches, branches into twigs, and twigs into fine shoots. Each level of di[[blue-light-phototropism-red-light-photoperiodism-dual-plant-vision-system]] recapitulates the logic of the one above it.
-
-## Fractal Patterns in the Landscape
-
-Fractals operate at scales beyond individual organisms. They describe the scatter of tree clumps across open grassland, where groups of trees repeat the branching logic at the landscape level. Similarly, the pattern of lichen colonizing a stone surface follows fractal distribution rules, with patches and sub-patches echoing the overall [[query-what-are-root-exudates-and-how-do-they-shape-soil-life]].
+A bare winter-deciduous tree is perhaps the most accessible and typical example of a fractal in nature. With its leaves stripped away, the full branching hierarchy is visible: trunk divides into major limbs, limbs into branches, branches into twigs, and twigs into fine shoots. Each level of di[[query-what-are-root-exudates-and-how-do-they-shape-soil-life]].
 
 ### Fulgurites and Shatter Patterns
 
 Fulgurites — tubes of sand or rock fused by lightning strikes — are striking natural fractals. Lightning, a massive electrical discharge, follows a branching path through the ground, fusing material along its fractal trace. These structures reveal the connection between energy release and fractal form.
 
-Tree roots can be understood as a slow underground shatter or explosion. The root system expands outward from the trunk in a pattern that mirrors the above-ground branching, driven by the same biomechanical forces but operating on [[query-what-are-the-different-fruit-tree-training-systems-and-which-should-i-use]] timescales. This observation leads to a practical technique sometimes called "gelignite planting," in which controlled explosive charges create shatter patterns in [[fukuoka-ideal-rice-plant-morphology-compact-growth-high-yield]]ed soil. When trees are subsequently planted, their roots preferentially follow these pre-fractured pathways, accelerating establishment in difficult ground.
+Tree roots can be understood as a slow underground shatter or explosion. The root system expands outward from the trunk in a pattern that mirrors the above-ground branching, driven by the same biomechanical forces but operating on [[fukuoka-ideal-rice-plant-morphology-compact-growth-high-yield]]ed soil. When trees are subsequently planted, their roots preferentially follow these pre-fractured pathways, accelerating establishment in difficult ground.
 
 ## The Physics of Branching Conduits
 
@@ -90,7 +71,7 @@ In each case, the same principles apply: a central supply divides into ever-smal
 
 The most basic function of tree-like fractal forms is gathering and dispersal from margins. A tree gathers sunlight, carbon dioxide, water, and nutrients from the vast surface area of its leaves and fine roots. It then disperses these resources — as sugars, growth materials, and structural support — throughout its branching network. The efficiency of this process depends entirely on the fractal architecture that provides maximal marginal area while maintaining coherent internal transport.
 
-This gathering-from-margins function is not limited to biology. It describes the logic of watershed drainage, market distribution networks, [[query-how-does-mycorrhizal-network-communication-work-between-plants]] systems, and many other human-designed structures. Any system that must collect from or deliver to a wide area [[query-how-does-cover-cropping-benefit-soil-and-when-should-i-plant-them]]s from fractal branching.
+This gathering-from-margins function is not limited to biology. It describes the logic of watershed drainage, market distribution networks, [[query-how-does-cover-cropping-benefit-soil-and-when-should-i-plant-them]]s from fractal branching.
 
 Designers who internalize this principle can evaluate any layout — from a farm water system to a village road network — by asking: does this structure maximize its marginal interface for efficient gathering and dispersal?
 

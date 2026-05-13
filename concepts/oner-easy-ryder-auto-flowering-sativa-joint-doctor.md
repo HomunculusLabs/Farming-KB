@@ -4,19 +4,9 @@ source_type: paper
 topics: [cannabis, sativa, auto-flowering, lowryder, joint-doctor, ak-47, indoor-growing, outdoor-growing, fast-flowering, high-bred-seeds, berry-flavor]
 ---
 
-# Easy Ryder — Auto-Flowering Sativa by th [[autoflowering-sativa-development-joint-doctor]] or
+# Easy Ryder — Auto-Flowering Sativa by th [[berry-and-small-fruit-growing]] and fruity flavors, and grows well both indoors and outdoors under a 20[[psilocybin-logos-consciousness]] nd the Joint Doctor
 
-## Summary
-
-Easy Ryder is a sativa-dominant auto-flowering strain bred by Canada's the Joint Doctor under his High Bred Seeds label. A stabilized F1 cross of Automatic AK-47 and Lowryder #2, it finishes flowering in just 56 days with a total seed-to-harvest cycle of approximately 70 days. It delivers a balanced high wi [[berry-and-small-fruit-growing]] and fruity flavors, and grows well both indoors and outdoors under a 20[[light-schedule-cannabis]] ule.
-
----
-
-## Backg [[psilocybin-logos-consciousness]] nd the Joint Doctor
-
-Lowryder by Canada's the Joint Doctor comes up in conversation so regularly with more straight-edge friends that many have memorized the Joint Doctor's website URL and now just send people there. If you are not a pot grower, the idea that you can get super awesome bud in just 60 days is apparently amazing to you — in fact, even experienced pot growers still find it ama [[chamovitz-gravitropism-plant-knows-where-it-is]]
-
-It is hard to overstate the impact that the auto-flowering Lowryd [[plutarch-and-cicero-on-the-eleusinian-mysteries]] on the worldwide cannabis com [[solomon-gardening-when-it-counts-index]] when it was released, and the impact that its offspring continue to have on a market that cannot get enough of [[dmt-candy-for-the-mind]] For the Easy Ryder strain, the Doct [[oner-sativa-renaissance-rise-of-the-second-child]] e second version of his most famous creation and crossed it with an Auto AK-47 that is as amazing as it [[allegro-christianity-as-a-fertility-cult]] ds. As a stabilized F1 cross this is a gorgeous little plant that, despite being slightly sativa-dominant, will not get much beyond 2 feet in height and will finish in 56 days of flowering.
+Lowryder by Canada's the Joint Doctor comes up in conversation so regularly with more straight-edge friends that many have memorized the Joint Doctor's website URL and now just send people there. If you are not a pot grower, the idea that you can get super awesome bud in just 60 days is apparently amazing to you — in fact, even experienced pot growers still find it ama [[plutarch-and-cicero-on-the-eleusinian-mysteries]] on the worldwide cannabis com [[dmt-candy-for-the-mind]] For the Easy Ryder strain, the Doct [[allegro-christianity-as-a-fertility-cult]] ds. As a stabilized F1 cross this is a gorgeous little plant that, despite being slightly sativa-dominant, will not get much beyond 2 feet in height and will finish in 56 days of flowering.
 
 The very best traits of the two parent strains have been teased out and caressed lovingly with Easy Ryder, leading them into a harmonious relationship in which they barely even argue about who lost the TV remote.
 

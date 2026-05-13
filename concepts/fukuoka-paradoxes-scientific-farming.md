@@ -10,7 +10,6 @@ type: concept
 
 # Fukuoka on the Paradoxes of Scientific Farming
 
-[[masanobu-fukuoka]] identified a fundamental paradox at the heart of
 [[fukuoka-critique-scientific-agriculture-civilization]]: the problems it claims to solve are problems it
 created in the first place. His analysis reveals a self-perpetuating cycle
 where each intervention necessitates further intervention, trapping farmers
@@ -25,48 +24,10 @@ their apparent value. For example, the reason a field must be plowed is that
 man has created the conditions that require it. The farmer feels as a result
 that doing so is worthwhile.
 
-The farmer floods his [[fukuoka-textdoc-creating-rice-paddy-natural-methods]] for six months and runs a tiller through
-it, turning the soil into something akin to adobe mud. The constant
-activity kills the microbes and drives the air from the earth. As the soil
-is kneaded, it breaks down into smaller and smaller particles. Eventually,
-the farmer must run his plow deep through the field to let air into the
-earth. He weeds and intertills, stirring the soil repeatedly. All of this
-is extra work. Man creates the conditions that require him to plow each
-year.
-
-## The Fertilizer Trap
-
-The reason [[cervantes-chemical-fertilizers-guide]] have to be applied is that the paddies are
+The farmer floods his [[cervantes-chemical-fertilizers-guide]] have to be applied is that the paddies are
 filled with water and the roots of the rice are allowed to rot so that the
 plants become weak. With the roots half-rotted, the crop will be lost unless
-quick-acting [[cannabis-chemical-fertilizers]] are used. That and only that is why
-administering chemical fertilizers has a booster effect on the rice plants.
-
-When man establishes the conditions in a field that render chemical
-fertilizers necessary, plants rice in that field, then runs tests in which
-he fertilizes one section and does not fertilize another, it stands to
-reason that the fertilized plot will produce larger plants. That is why
-people think rice can be grown in high yields with fertilizers.
-
-But when pots are taken out into a field, filled with soil, and brought
-back into the lab, that no longer is natural soil. That soil has died.
-Chemical fertilizers that serve as a special diet for weak rice are not
-necessary. If the soil were left intact and healthy rice grown, there would
-be no need for chemical fertilizers.
-
-## The Pesticide Cascade
-
-Developments in chemical technology create earth that has to be plowed.
-And with the frail, leggy rice that grows as a result, pests break out
-unless the plants are sprayed with pesticides. So they are sprayed. All
-that was really necessary was to come up with some way of enriching the
-soil while leaving it in nature's hands.
-
-But instead of trying to breed healthy rice, scientists breed rice suited
-to these artificial and unnatural methods of cultivation. Far from
-upgrading rice, breeding programs have succeeded only in downgrading it.
-All that has been accomplished is the creation of weak rice under the
-prompting of consumer demands for [[fukuoka-tasty-rice-illusion]], the creation of a rice that
+quick-acting [[fukuoka-tasty-rice-illusion]], the creation of a rice that
 must be sprayed with pesticide.
 
 ## The Unnecessary Nature of Scientific Intervention
@@ -117,8 +78,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[doc]]
 - [[scientific-farming-paradoxes-according-to-fukuoka]]
-- [[fukuoka-scientific-farming-paradoxes]]
 - [[fukuoka-natural-vs-scientific-farming]]
 - [[fukuoka-natural-scientific-farming-entanglement-silkworm]]

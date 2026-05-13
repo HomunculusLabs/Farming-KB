@@ -11,18 +11,7 @@ type: concept
 
 # Cannabis and Autism Spectrum Disorder
 
-[[cannabis-for-epilepsy-and-seizure-disorders]])
-- **Sensory processing modulation**: The ECS regulates sensory gating
-  and integration. Some researchers hypothesize that endocannabinoid
-  dysfunction may contribute to sensory hypersensitivity in ASD
-
-## Key Observations from Early Studies
-
-- Parents of children with ASD who were given CBD-rich cannabis extracts
-  reported significant improvements in anxiety levels, behavioral
-  outbursts, and self-injurious behaviors
-- Sleep quality improved in a majority of reported cases, which is
-  notable given the high prevalence of [[cannabis-sleep-disorders-and-insomnia]] in ASD
+[[cannabis-sleep-disorders-and-insomnia]] in ASD
 - Social communication improvements were reported by some families,
   though these subjective reports require controlled validation
 - A notable Israeli study found that CBD-enriched cannabis treatment
@@ -38,13 +27,7 @@ type: concept
 - THC content is typically kept very low or eliminated entirely in
   pediatric applications
 - Whole-plant extracts with preserved terpenes may offer additional
-  benefit through the [[cannabis-terpene-entourage-effect-profiles]]
-- Consistent dosing schedules appear more effective than as-needed use
-
-## Special Considerations
-
-- Pediatric use requires careful medical supervision and monitoring
-- [[cannabis-drug-interactions-and-contraindications]] with commonly prescribed ASD medications (SSRIs,
+  benefit through the [[cannabis-drug-interactions-and-contraindications]] with commonly prescribed ASD medications (SSRIs,
   antipsychotics, stimulants) must be evaluated
 - Long-term effects of cannabinoid use during neurodevelopment are not
   fully understood
@@ -66,13 +49,8 @@ Research into the ECS and ASD has revealed:
 
 ## Related Topics
 
-- [[blesching-cannabis-anxiety]] - anxiety management with cannabinoids
 - [[blesching-cannabis-sleep-disorders]] - sleep improvement
-- blesching cannabis [[cannabis-pain-management-protocols]] - for self-injurious behaviors
-
-## Key References
-
-Blesching, U. (2017). *The [[blesching-cannabis-health-index-autoimmune-conditions]]*. North Atlantic Books.
+- blesching cannabis [[blesching-cannabis-health-index-autoimmune-conditions]]*. North Atlantic Books.
 See sections on neurodevelopmental disorders and emerging applications.
 ## Practical Considerations
 
@@ -122,8 +100,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[doc]]
 - [[dom]]
-- [[endocannabinoid-system]]
 - [[cannabis-and-autism-research]]
 - [[blesching-cannabis-neuroprotection-neurodegenerative]]

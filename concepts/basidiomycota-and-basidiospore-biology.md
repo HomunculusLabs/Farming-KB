@@ -15,8 +15,7 @@ The Basidiomycota is one of the major phyla of the fungal kingdom, comprising
 approximately 30,000 described species and an estimated 1.5 million species
 total. It includes many of the most familiar and conspicuous fungi — the
 mushrooms, brackets, puffballs, rusts, and smuts — as well as the more
-esoteric [[stinkhorn-fungi-phallus-impudicus]] and
-[[cage-fungi-and-polyhedral-structures]] that Nicholas Money explores with
+esoteric [[cage-fungi-and-polyhedral-structures]] that Nicholas Money explores with
 particular enthusiasm in *Mr. Bloomfield's Orchard*. The defining feature of
 the Basidiomycota is the production of basidiospores, a unique type of sexual
 spore borne on specialized cells called basidia.
@@ -41,23 +40,9 @@ the Basidiomycota.
 ## Familiar Members: Brackets, Portabella, and Beyond
 
 The Basidiomycota includes many fungi of direct economic and culinary
-importance. The common [[growing-gourmet-button-mushroom-agaricus-cultivation]], *[[genetic-improvement-agaricus-bisporus-molecular-approaches]]*, and its mature
+importance. The common [[genetic-improvement-agaricus-bisporus-molecular-approaches]]*, and its mature
 form, the portabella, are basidiomycetes cultivated on a vast commercial scale.
-Bracket fungi (polypores) such as *[[stamets-reishi-ganoderma-lucidum-cultivation]]* (reishi) and *Fomes
-fomentarius* (tinder conk) are basidiomycetes that produce tough, perennial
-fruiting bodies on the trunks and stumps of trees. Puffballs, earthstars,
-coral fungi, and chanterelles are all basidiomycetes. The phylum also
-includes economically devastating plant pathogens — the rusts (Pucciniales)
-and smuts (Ustilaginales) — which cause billions of dollars in crop losses
-annually worldwide.
-
-## Phallic Mushrooms: Stinkhorns and Cage Fungi
-
-Among the approximately 30,000 described species of Basidiomycota, roughly 70
-species are classified as phallic mushrooms, belonging to the order Phallales.
-These include the stinkhorns (Phallus, Dictyophora, Mutinus) and the cage
-fungi (Clathrus, Anthurus, Laternea, Ileodictyon). Though they represent a
-tiny fraction of [[biodiversity-basidiomycete-diversity-taxonomy]], phallic mushrooms are
+Bracket fungi (polypores) such as *[[biodiversity-basidiomycete-diversity-taxonomy]], phallic mushrooms are
 disproportionately conspicuous and culturally significant. Their dramatic
 morphology, rapid development, and pungent odor make them among the most
 unforgettable organisms in the fungal kingdom. Nicholas Money uses these
@@ -66,27 +51,7 @@ evolution, and the relationship between form and function.
 
 ## Basidia and Basidiospore Production
 
-The basidium is the microscopic organ of [[fungal-life-cycles-sexual-reproduction-metamorphosis]] in the
-Basidiomycota. Basidia are typically club-shaped cells that develop at the
-tips of specialized hyphae within the hymenium — the spore-bearing surface
-of the fruiting body. In gilled mushrooms, the hymenium lines the surfaces
-of the gills; in boletes, it lines the surfaces of the pores; in puffballs,
-it lines the inner surface of the spore chamber.
-
-Before spore production, the basidium undergoes a complex process of nuclear
-fusion (karyogamy) and meiosis. Most basidiomycetes exist in a dikaryotic
-state, in which each cell contains two genetically distinct nuclei. Nuclear
-fusion in the basidium combines these two haploid nuclei into a single
-diploid nucleus, which then undergoes meiosis to produce four haploid nuclei.
-These nuclei migrate into the developing basidiospores, each of which thus
-receives a genetically unique haploid genome.
-
-## The Life Cycle
-
-The life cycle of a typical basidiomycete proceeds through several stages. A
-basidiospore lands on a suitable substrate and germinates, producing a haploid
-germ tube that elongates into a hypha. This haploid hypha grows and branches
-to form a haploid mycelium composed of [[fungal-hyphae-and-mycelium]]. When
+The basidium is the microscopic organ of [[fungal-hyphae-and-mycelium]]. When
 haploid mycelia of compatible mating types encounter one another, they fuse
 
 ## Practical Applications
@@ -118,8 +83,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[stinkhorns-and-cage-fungi]]
 - [[dom]]
-- [[nicholas-money]]
 - [[spore]]
 - [[mycelium]]

@@ -9,7 +9,7 @@ sources: []
 
 # Rammed Earth Construction
 
-Rammed earth construction is a building technique that creates dense, monolithic walls by compacting damp earth between temporary formwork. One of the oldest building methods in human history, rammed earth has been used for millennia across China, the Mediterranean, North Africa, the Middle East, and Europe. Modern rammed earth combines ancient techniques with contemporary engineering, producing walls of exceptional strength, durability, and thermal performance. In [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]], rammed earth is valued for its minimal processing, [[jadam-local-material-collection-and-use]] sourcing, longevity, and thermal mass properties.
+Rammed earth construction is a building technique that creates dense, monolithic walls by compacting damp earth between temporary formwork. One of the oldest building methods in human history, rammed earth has been used for millennia across China, the Mediterranean, North Africa, the Middle East, and Europe. Modern rammed earth combines ancient techniques with contemporary engineering, producing walls of exceptional strength, durability, and thermal performance. In [[jadam-local-material-collection-and-use]] sourcing, longevity, and thermal mass properties.
 
 ## Historical Background
 
@@ -49,13 +49,7 @@ Openings for doors and windows are formed by boxing out within the formwork or b
 
 Stabilised rammed earth includes a small percentage of cement, typically 5-10 percent by weight, mixed with the earth. The cement acts as a binder, significantly increasing compressive strength and water resistance. Stabilised rammed earth is suitable for wetter climates where unstabilised walls would be vulnerable to erosion.
 
-Lime stabilisation is an alternative to cement, using 5-8 percent [[cervantes-hydrated-lime-quicklime-ph-adjustment]]. Lime stabilised walls gain strength slowly through carbonation over months and years. Lime provides good water resistance and flexibility, and is more environmentally benign than cement in terms of embodied energy and carbon emissions.
-
-## Thermal Performance
-
-Rammed earth walls have excellent thermal mass properties. Their high density allows them to absorb, store, and slowly release heat energy. This thermal lag effect, typically 8-12 hours depending on wall thickness, significantly reduces indoor temperature fluctuations.
-
-In hot climates, rammed earth walls absorb daytime heat and release it at night, keeping interiors cool during the day. In cold climates, combined with [[comparison-passive-solar-vs-earth-sheltered]] design, walls capture winter sunlight and release stored heat overnight. The thermal mass effect reduces both heating and cooling energy requirements.
+Lime stabilisation is an alternative to cement, using 5-8 percent [[comparison-passive-solar-vs-earth-sheltered]] design, walls capture winter sunlight and release stored heat overnight. The thermal mass effect reduces both heating and cooling energy requirements.
 
 For optimal thermal performance in cold climates, rammed earth walls may be insulated externally. External insulation allows the wall mass to remain inside the insulation envelope, where it contributes to indoor thermal comfort. Internal insulation negates the thermal mass benefit.
 
@@ -73,16 +67,84 @@ If surface erosion does occur, it can be repaired by applying a lime wash or ear
 
 ## Environmental Benefits
 
-Rammed earth has very low embodied energy compared to conventional [[natural-building-materials-guide]]. The primary energy input is in soil extraction, mixing, and compaction, which can be done with minimal mechanical equipment. If cement stabiliser is used, embodied energy increases, but remains lower than concrete or brick construction.
-
-The material is non-toxic, breathable, and at [[powell-psilocybin-end-of-life-anxiety]] can be returned to the earth or crushed and reused as aggregate. Local sourcing of materials minimises transport emissions. The longevity of rammed earth buildings means that the energy invested in construction is amortised over a very long service life.
+Rammed earth has very low embodied energy compared to conventional [[powell-psilocybin-end-of-life-anxiety]] can be returned to the earth or crushed and reused as aggregate. Local sourcing of materials minimises transport emissions. The longevity of rammed earth buildings means that the energy invested in construction is amortised over a very long service life.
 
 ## See Also
-
-[[cob-construction]]
 
 [[permaculture-building-design]]
 
 [[permaculture-zone-0-house-design]]
 
 permaculture-designers-manual-timber-construction
+
+## Overview
+
+Rammed Earth represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish rammed earth
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving rammed extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Rammed Earth finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for rammed earth. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+rammed earth and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Rammed Earth has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of rammed earth into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions

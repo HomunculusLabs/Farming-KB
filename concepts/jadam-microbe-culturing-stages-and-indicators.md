@@ -10,16 +10,7 @@ type: concept
 
 # jadam microbe culturing stages and indicators
 
-Successfully culturing JADAM indigenous [[jadam-microorganism-solution-culturing]] (JMS) depends
-on recognizing the correct stage of fermentation. The visual indicators of
-foam production are the primary guide for determining when JMS is at its
-peak effectiveness and ready for use. Understanding these stages prevents
-both premature use and the loss of viable microorganisms.
-
-## The Foam-Based Indicator System
-
-JMS culturing follows a predictable progression of foam development that
-serves as a reliable visual indicator of microbial [[fukuoka-textdoc-microclimate-mite-scale-population-dynamics]]. The
+Successfully culturing JADAM indigenous [[fukuoka-textdoc-microclimate-mite-scale-population-dynamics]]. The
 key principle is that foam quantity and quality directly reflect the number
 and activity of microorganisms in the solution.
 
@@ -35,41 +26,7 @@ transform soil biology and suppress pathogens.
 
 During the initial culturing period, small bubbles begin forming on the
 surface of the solution. The bubbles are generally small and scattered.
-The lower the [[jadam-ambient-temperature-principle]], the smaller the bubbles will be because
-low-temperature-loving microbes are smaller in size. This does not indicate
-failure; it simply reflects the microbial population that is adapted to the
-current temperature conditions.
-
-### Mid Stage (48-72 Hours)
-
-Bubbles increase in number and begin forming a more defined foam layer. As
-temperature rises and microbial activity accelerates, the foam becomes more
-vigorous. At this point, a round foam disc begins to form on the surface.
-The edges of this disc should be observed carefully as the fermentation
-progresses toward completion.
-
-### Peak Stage (Optimal Harvest Window)
-
-Cultivation is complete when foam displays a clear circle with crisp, well-
-defined edges. The foam forms a pizza-like layer across the surface. This
-state lasts approximately 12 hours, providing a workable window for
-application. At this peak, microbial populations are at their maximum and
-the JMS is at full potency.
-
-This is the critical moment for use. JMS must be completely used up at the
-optimum period, and then a new culturing cycle should begin. Do not leave
-any quantity unused because it can start smelling bad and attract mosquito
-larvae. For a 500-liter batch, dilute 10 times with water and apply to an
-area of 0.1 to 3.3 hectares (0.25 to 8.2 acres).
-
-### Decline Stage (Post-Peak)
-
-After the peak, the disc of foam starts to crumble, indicating that microbes
-are beginning to die. As nutrients in the medium are consumed, microbial
-death accelerates. Eventually, all foam disappears, leaving behind a thin
-film on the surface. At this point, the microorganisms have perished and the
-solution is no longer suitable as JMS. However, it can still be used as
-[[jadam-liquid-fertilizer-nutritional-perspective]] by diluting 10 times with water.
+The lower the [[jadam-liquid-fertilizer-nutritional-perspective]] by diluting 10 times with water.
 
 ## Temperature Effects on Culturing
 
@@ -118,8 +75,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[doc]]
 - [[det]]
-- [[decomposition]]
 - [[jadam-microorganism-solution-culturing]]
 - [[knf-lab-culturing-and-uses]]

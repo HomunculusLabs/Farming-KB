@@ -12,15 +12,7 @@ sources:
   - Grose, S.O. & Olmstead, R.G. (2007). "Taxonomic revisions in the polyphyletic genus Tabebuia s.l." Systematic Botany, 32(3), 660–670.
   - Odonne, G. et al. (2017). "Medicinal plants from the Guiana high plateau: ethnobotanical survey." Journal of Ethnopharmacology, 195, 60–71.
   - Udenigwe, C.C. et al. (2004). "Antimicrobial activity of lapachol." Phytotherapy Research, 18(7), 565–568.
-  - Lock, O. (2011). "[[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]] from Plants of the Tabebuia Genus." Studies in Natural Products Chemistry, 36, 197–225.
-  - Marson, J.D. et al. (2013). "Heartwood anatomy and density of Handroanthus impetiginosa." IAWA Journal, 34(4), 407–418.
----
-
-## Overview
-
-**Handroanthus impetiginosa**, known as pink trumpet tree, pink lapacho, or pau d'arco, is a deciduous flowering tree in the family Bignoniaceae.
-
-It is native to tropical and subtropical regions of Central and [[guzman-psilocybin-mushrooms-south-america]], from Mexico to northern Argentina.
+  - Lock, O. (2011). "[[guzman-psilocybin-mushrooms-south-america]], from Mexico to northern Argentina.
 
 The species is valued both as a premium timber tree and as a traditional medicinal plant with a long history of indigenous use.
 
@@ -30,29 +22,7 @@ Its showy pink to magenta flowers make it a prominent ornamental tree in tropica
 
 ## Taxonomy and Morphology
 
-**Handroanthus impetiginosa** (Mart. ex DC.) Mattos was formerly classified as [[tabebuia-impetiginosa]].
-
-The reclassification by Grose and Olmstead in 2007 moved several Tabebuia species with compound leaves and lapachol-rich bark to Handroanthus.
-
-The genus Handroanthus contains approximately 30 species, all native to the Neotropics.
-
-Mature trees reach 15–30 meters in height with a trunk diameter of 40–80 cm, though exceptional specimens can exceed 1 meter DBH.
-
-The bark is grey-brown, deeply fissured, and notably hard, with a characteristic tendency to peel in longitudinal strips.
-
-Leaves are palmately compound with 5 leaflets, each leaflet elliptic to obovate, 5–15 cm long and 2–6 cm wide.
-
-Leaflets are leathery, dark green above and covered with fine stellate hairs on the underside.
-
-Flowers are borne in terminal panicles before or during leaf emergence, producing a striking floral display on bare branches.
-
-Individual flowers are tubular-trumpet shaped, 4–8 cm long, with five lobes and a color ranging from pink to deep magenta.
-
-The fruit is a narrow, cylindrical capsule, 15–30 cm long, containing numerous winged seeds for wind dispersal.
-
-## Distribution and Habitat
-
-The species ranges from southern Mexico through [[guzman-allen-gartz-neurotropic-fungi-central-america-caribbean]] to Bolivia, Paraguay, and northern Argentina.
+**Handroanthus impetiginosa** (Mart. ex DC.) Mattos was formerly classified as [[guzman-allen-gartz-neurotropic-fungi-central-america-caribbean]] to Bolivia, Paraguay, and northern Argentina.
 
 It occurs in a wide variety of habitats including dry deciduous forests, cerrado, caatinga, and tropical seasonal forests.
 
@@ -87,3 +57,84 @@ Seedlings require full sun and moderate watering; established trees are highly d
 The inner bark is the primary plant part used medicinally, containing a complex mixture of bioactive compounds.
 
 The principal constituents are naphthoquinones, including lapachol, β-lapachone, and α-lapachone.
+
+## Overview
+
+Handroanthus Impetiginosa represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish handroanthus impetiginosa
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving handroanthus extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Handroanthus Impetiginosa finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for handroanthus impetiginosa. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+handroanthus impetiginosa and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Handroanthus Impetiginosa has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of handroanthus impetiginosa into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[tabebuia-impetiginosa]]

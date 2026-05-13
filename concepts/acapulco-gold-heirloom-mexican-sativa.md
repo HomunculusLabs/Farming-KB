@@ -11,26 +11,14 @@ tags: [cannabis, sativa, strain-profile, acapulco-gold, landrace, mexican-sativa
 
 ## Overview
 
-Acapulco Gold is one of the most legendary [[cannabis-microbiome-otu-abundance-vs-presence-cannabis-strains]] in history, widely regarded as one of the finest marijuana varieties ever cultivated. Originally hailing from the Acapulco region of Mexico, this heirloom sativa earned its "Gold" designation from the golden hue of its dried buds and the golden color it takes on when properly cured. Selected and preserved by SnowHigh Seeds of the USA, the strain represents a direct genetic link to the Mexican sativas that were foundational to cannabis culture in the 1960s and 1970s. The strain's reputation as "the best in the world" reflects its status among connoisseurs who have experienced authentic Mexican [[cervantes-landrace-cannabis-populations]].
+Acapulco Gold is one of the most legendary [[cervantes-landrace-cannabis-populations]].
 
 ## Historical Significance
 
-Acapulco Gold occupies a unique position in cannabis history. During the 1960s and 1970s, before the widespread hybridization of [[cannabis-genetics-and-breeding]] the introduction of Afghan indica varieties to North America, Mexican sativas dominated the American cannabis market. Acapulco Gold was the premium offering among these Mexican varieties — the strain that seasoned smokers would specifically seek out and pay premium prices for. It was the benchmark against which all other cannabis was measured.
-
-The strain gained its legendary status during this golden era of cannabis culture, when Mexican sativas were the primary source of marijuana in the United States. The import routes from Acapulco and other Mexican Pacific coast cities supplied much of the American market, and Acapulco Gold was considered the finest product available through these channels. Its reputation was so well established that it became a cultural reference point — mentioned in songs, films, and literature as shorthand for premium quality cannabis.
-
-The decline of authentic Acapulco Gold began in the late 1970s and 1980s when several factors converged: increased border enforcement disrupted traditional import routes, the introduction of Afghan indica genetics shifted breeding priorities toward shorter, faster-flowering plants, and the eradication programs of the 1980s targeted Mexican cannabis fields. The Mexican government's aerial spraying campaigns, funded in part by U.S. drug enforcement agencies, devastated the traditional growing regions of Guerrero state. By the 1990s, genuine Acapulco Gold had become exceedingly rare, and most of what was sold under the name was either a diluted hybrid or an entirely different strain with a marketing label.
-
-## Geographic Origin and Terroir
-
-The Acapulco region of Guerrero state, Mexico, provides a specific [[cannabis-growing-environment-setup]] that shaped this strain's characteristics:
+Acapulco Gold occupies a unique position in cannabis history. During the 1960s and 1970s, before the widespread hybridization of [[cannabis-growing-environment-setup]] that shaped this strain's characteristics:
 
 - **Climate**: Tropical coastal climate with consistent warmth, high humidity, and distinct wet and dry seasons. The long growing season allows for extended vegetative and flowering periods.
-- **Latitude**: Approximately 16.8°N, providing roughly 12.5 hours of daylight at summer solstice. This relatively low latitude [[growing-gourmet-indoor-growing-environment]] is consistent with other celebrated equatorial and subtropical sativas.
-- **Elevation**: The Pacific coastal region where Acapulco Gold was traditionally grown features a mix of lowland tropical and slightly elevated terrain, providing varied microclimates within the growing region.
-- **Soil**: The volcanic and alluvial soils of the Guerrero coast provide mineral-rich growing medium that contributes to the strain's complex terpene profile.
-
-The concept of cannabis terroir — the idea that a strain's characteristics are shaped by its growing environment as much as by its genetics — is particularly relevant to landrace varieties like Acapulco Gold. While SnowHigh Seeds has preserved the genetics, the strain may express differently when grown outside its native environment. Growers working with authentic Acapulco Gold genetics often report that the closest approximation of the original experience comes from outdoor grows in Mediterranean or [[query-how-to-grow-rare-tropical-fruits-in-marginal-and-subtropical-climates]] that most closely replicate the conditions of the Guerrero coast.
+- **Latitude**: Approximately 16.8°N, providing roughly 12.5 hours of daylight at summer solstice. This relatively low latitude [[query-how-to-grow-rare-tropical-fruits-in-marginal-and-subtropical-climates]] that most closely replicate the conditions of the Guerrero coast.
 
 ## Genetic Profile
 
@@ -60,19 +48,11 @@ The strain is described as "not too tall" for a pure sativa, which is somewhat u
 
 ### Flowering Time
 
-Acapulco Gold finishes after approximately 70 days of flowering (approximately 10 weeks). This is moderate for a pure sativa and significantly shorter than many Southeast Asian landraces that can require 14–16 weeks. The moderate flowering time makes Acapulco Gold more accessible to indoor growers than many other landrace sativas, while still maintaining the extended maturation that produces the complex cannabinoid and [[cannabis-terpene-profiles]] associated with long-flowering sativas.
-
-### Outdoor Performance
-
-Outdoors, Acapulco Gold will finish around mid-October in the Northern Hemisphere. This relatively late finish means it is best suited to Mediterranean or subtropical climates where autumn weather remains warm and dry through October. In climates with early autumn rain, the late finish creates risk of mold and bud rot. The strain flourishes "in the great wide open" and purists consider outdoor, soil-based cultivation to be the only authentic way to grow this variety.
-
-### Cultivation Difficulty
-
-The source material explicitly warns that Acapulco Gold is "not for the faint of heart, whether you're smoking or growing." For growers, this means the strain presents genuine challenges that make it unsuitable for inexperienced cultivators. The wild genetics require an understanding of sativa-specific [[cannabis-advanced-refinement-fractional-distillation]], and the plant may not respond well to the rigid schedules and heavy feeding programs that modern hybrid varieties tolerate.
+Acapulco Gold finishes after approximately 70 days of flowering (approximately 10 weeks). This is moderate for a pure sativa and significantly shorter than many Southeast Asian landraces that can require 14–16 weeks. The moderate flowering time makes Acapulco Gold more accessible to indoor growers than many other landrace sativas, while still maintaining the extended maturation that produces the complex cannabinoid and [[cannabis-advanced-refinement-fractional-distillation]], and the plant may not respond well to the rigid schedules and heavy feeding programs that modern hybrid varieties tolerate.
 
 ### Preferred Growing Method
 
-Organic soil cultivation is recommended as the ideal growing method for Acapulco Gold. This preference aligns with the Rev's broader philosophy that sativa strains are "wild-ish and highly adaptable plants" that don't respond well to [[organic-nutrients-vs-synthetic-nutrients]]. The strain "deserves respect and attention" and rewards patient, natural [[gourmet-medicinal-mushroom-oyster-cultivation-methods]] with superior flavor, potency, and overall quality.
+Organic soil cultivation is recommended as the ideal growing method for Acapulco Gold. This preference aligns with the Rev's broader philosophy that sativa strains are "wild-ish and highly adaptable plants" that don't respond well to [[gourmet-medicinal-mushroom-oyster-cultivation-methods]] with superior flavor, potency, and overall quality.
 
 ## Aroma, Flavor, and Effects
 
@@ -112,8 +92,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[acapulco-gold]]
 - [[cannabis-strain-acapulco-gold-heirloom-mexican-sativa]]
-- [[dom]]
 - [[polm-gold-moroccan-chefchaouen-sativa-hybrid]]
 - [[cannabis-colombian-gold-landrace-sativa]]

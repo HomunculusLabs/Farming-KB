@@ -11,11 +11,7 @@ sources:
 
 # Fukuoka Hybrid Rice International Drama
 
-The [[natural-farming-fukuoka]]'s own [[fukuoka-seed-war-rice-weapon]], [[fukuoka-happy-hill-rice-strain]], [[fukuoka-critique-green-revolution]], [[fukuoka-natural-rice-barley-cultivation]]
-
-## See Also
-
-- [[fukuoka-spider-ecosystem-drama-rice-fields]]
+The [[fukuoka-seed-war-rice-weapon]], [[fukuoka-critique-green-revolution]], [[fukuoka-spider-ecosystem-drama-rice-fields]]
 ## Background and Context
 
 Fukuoka Hybrid Rice International Drama is an important subject that has garnered significant attention
@@ -118,8 +114,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[dom]]
 - [[det]]
-- [[fukuoka-spider-ecosystem-drama-rice-fields]]
 - [[fukuoka-seed-war-food-strategic-weapon-hybrid-rice-geopolitics]]
 - [[fukuoka-winter-grain-rice-rotation]]

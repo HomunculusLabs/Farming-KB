@@ -22,11 +22,7 @@ ALEPH-7 is the most pharmacologically distinctive member of the [ALEPH family, n
 - Molecular formula: C14H23NO2S (free base)
 - Molecular weight: 269.41 g/mol (free base)
 - Class: Substituted amphetamine (ALEPH family, sulfur-substituted DOx variant)
-- The propylthio homologue of [ALEPH; amphetamine counterpart of [[2c-d-pihkal-entry-23]] (2,5-dimethoxy-4-propylthiophenethylamine). The 2C-T-7 became far more widely known and controversial due to several fatalities associated with its use, leading to emergency scheduling. ALEPH-7's profile suggests the propylthio substitution pattern produces particularly long-acting and unusual psychological states regardless of backbone length.
-
-## Synthesis Summary
-
-Synthesized from 2,5-dimethoxy-4-((n)-propylthio)benzaldehyde (see [[2c-d-pihkal-entry-23]] for aldehyde synthesis) via condensation with nitroethane and ammonium acetate ([[scythian-cannabis-steam-bath-ritual]], overnight), yielding the nitrostyrene as orange crystals (mp 83-84 C). Reduction with LAH in THF requires extended reaction time (2 days reflux + 2 days at room temperature). The product is isolated via extraction and converted to HCl salt as an off-white powder.
+- The propylthio homologue of [ALEPH; amphetamine counterpart of [[2c-d-pihkal-entry-23]] for aldehyde synthesis) via condensation with nitroethane and ammonium acetate ([[scythian-cannabis-steam-bath-ritual]], overnight), yielding the nitrostyrene as orange crystals (mp 83-84 C). Reduction with LAH in THF requires extended reaction time (2 days reflux + 2 days at room temperature). The product is isolated via extraction and converted to HCl salt as an off-white powder.
 
 ## Comparison to Related Compounds
 
@@ -48,24 +44,7 @@ Synthesized from 2,5-dimethoxy-4-((n)-propylthio)benzaldehyde (see [[2c-d-pihkal
 
 ## See Also
 
-- [[aleph-6-pihkal-entry-6]]
-## Practical Considerations
-
-When working with ALEPH-7 - PIHKAL Entry #7 Compound Profile, several practical factors should be
-carefully considered to achieve optimal results. These include
-the specific conditions of the implementation context, available
-resources, timing requirements, and the interactions between this
-topic and other elements of the broader system. A holistic view
-that considers these interconnections produces better outcomes.
-
-Environmental conditions such as temperature, moisture, and
-seasonal patterns significantly influence results. Monitoring these
-variables and adapting practices accordingly is essential for success.
-The most effective practitioners develop keen observation skills and
-respond flexibly to changing conditions rather than following rigid
-protocols regardless of circumstances or local variation.
-
-[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
+- [[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -111,8 +90,6 @@ through generations to modern scientific approaches, the evolution continues
 to inform current best practices and research directions.
 
 ## See Also
-- [[doc]]
 - [[dom]]
-- [[aleph-pihkal-entry-3]]
 - [[aleph-6-pihkal-entry-6]]
 - [[aleph-2-pihkal-entry-4]]

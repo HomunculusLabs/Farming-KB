@@ -8,20 +8,11 @@ sources: [/Users/t3rpz/wiki/raw/papers/uwe-blesching-the-cannabis-health-index.m
 ---
 # Cannabis Health Index
 
-The Cannabis Health Index is a therapeutic framework developed by Uwe Blesching, Ph.D., that maps specific cannabis preparations, cannabinoid profiles, and terpene combinations to particular health conditions. Rather than treating cannabis as a monolithic therapy, the index takes an entourage-effect approach, recommending specific THC:CBD ratios, [[cannabis-terpene-profiles-sativa]], and [[cannabis-delivery-methods-comparison]] for different conditions. This page summarizes key therapeutic applications and principles.
+The Cannabis Health Index is a therapeutic framework developed by Uwe Blesching, Ph.D., that maps specific cannabis preparations, cannabinoid profiles, and terpene combinations to particular health conditions. Rather than treating cannabis as a monolithic therapy, the index takes an entourage-effect approach, recommending specific THC:CBD ratios, [[cannabis-delivery-methods-comparison]] for different conditions. This page summarizes key therapeutic applications and principles.
 
 ## Core Principle: The Entourage Approach
 
-The Cannabis Health Index is built on the [[cannabis-terpene-entourage-effect-profiles]] — the principle that cannabis therapeutics are most effective when multiple cannabis compounds (cannabinoids, terpenes, flavonoids) work synergistically rather than as isolated molecules:
-
-- **THC alone** is less therapeutic than whole-plant cannabis with equivalent THC
-- **CBD alone** misses the benefits of THC and terpene synergies for many conditions
-- **Specific terpene profiles** enhance or modify cannabinoid effects for particular therapeutic targets
-- **Individual variation** means the optimal preparation varies between patients
-
-See [[cannabis-thc-therapeutic-profile]] and [[cannabis-cancer-symptom-management]]
-- [[cannabis-health-index-scoring-system]]
-- [[cannabis-anxiety-research]]
+The Cannabis Health Index is built on the [[cannabis-thc-therapeutic-profile]] and [[cannabis-health-index-scoring-system]]
 - [[cannabis-and-ibs-research]]
 ## Practical Applications
 
@@ -97,8 +88,6 @@ through generations to modern scientific approaches, the evolution continues
 to inform current best practices and research directions.
 
 ## See Also
-- [[doc]]
 - [[uwe-blesching]]
-- [[maps]]
 - [[det]]
 - [[cannabis-health-index-chi-score]]

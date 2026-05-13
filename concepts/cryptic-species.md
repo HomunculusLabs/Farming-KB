@@ -15,9 +15,7 @@ identical or nearly indistinguishable but reproductively isolated and
 genetically distinct. They cannot be reliably told apart by traditional
 morphological examination and are recognized only through molecular,
 behavioral, ecological, or reproductive data. Cryptic speciation is
-particularly prevalent [[biodiversity-fungal-genetic-diversity]].
-
-## Prevalence [[allegro-star-of-the-morning-venus-and-the-sacred-mushroom]] organism's genome.
+particularly prevalent [[allegro-star-of-the-morning-venus-and-the-sacred-mushroom]] organism's genome.
 
 - **Convergent evolution**: Similar ecological pressures can produce
   morphologically identical structures in unrelated lineages. Mushroom
@@ -49,10 +47,7 @@ Several approaches are used to uncover cryptic species:
 
 ### Molecular Phylogenetics
 
-[[environmental-dna-sequencing-fungi]] of conserved loci (ITS, LSU, RPB1, RPB2, TEF1) reveals
-phylogenetic lineages within morphologically defined species. Concordance
-across multiple gene trees strengthens the case for cryptic speciation.
-Multi-locus [[fungi-multilocus-sequence-typing-molecular-epidemiology]] (MLST) and whole-genome sequencing provide
+[[fungi-multilocus-sequence-typing-molecular-epidemiology]] (MLST) and whole-genome sequencing provide
 increasing resolution. Whole-genome data can reveal speciation events
 through patterns of linkage disequilibrium and recombination.
 
@@ -69,18 +64,7 @@ have revealed many cryptic species complexes.
 
 Cryptic species often occupy different ecological niches, host
 species, or geographic ranges. Correlating genetic lineages with
-ecological differentiation provides [[aspergillus-fumigatus-population-genetics]]
-
-Coalescent-based methods and species delimitation algorithms (GMYC,
-BPP, STACEY) use patterns of genetic variation within and between
-populations to statistically test for cryptic species boundaries.
-These approaches can identify independently evolving lineages even
-when morphological data are uninformative.
-
-## Implications for Biodiversity Estimates
-
-Cryptic species significantly inflate the gap between described and
-estimated [[arbuscular-mycorrhizal-fungal-diversity-patterns-distribution]]. If even 30% of described fungal species
+ecological differentiation provides [[arbuscular-mycorrhizal-fungal-diversity-patterns-distribution]]. If even 30% of described fungal species
 contain unrecognized cryptic lineages, the true species count could be
 substantially higher than current estimates suggest. This has profound
 implications for conservation, as cryptic species may have different
@@ -118,8 +102,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[dom]]
 - [[det]]
-- [[ascomycota]]
 - [[gramine]]
 - [[mycorrhiza]]

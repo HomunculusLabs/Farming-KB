@@ -9,57 +9,8 @@ created: 2026-05-11
 
 ## The Radical Proposition
 
-Terence McKenna advances what he acknowledges is "at odds with the expectations
-[[fukuoka-road-critique-of-modern-science]]": the proposition that "the world is actually made of language
-in some fashion." This is not a metaphor or a poetic flourish but a claim about
-the fundamental nature of reality itself — one that McKenna argues is supported
-by both millennia of shamanic experience and current developments in linguistic
-thought.
-
-The implications are profound. If reality is produced by language rather than
-merely reflected in it, then the relationship between mind and world is reversed
-from the Western scientific model. Reality becomes, in McKenna's formulation,
-more like "an utterance or a tale" than a collection of particles and forces.
-
-## Landau and the Linguistic Revolution
-
-McKenna grounds his argument in the work of Boston University anthropologist
-Misia Landau, whose formulation of the twentieth-century linguistic revolution he
-quotes directly:
-
-> "The twentieth-century linguistic revolution is the recognition that language
-> is not merely a device for communicating ideas about the world, but rather a
-> tool for bringing the world into existence in the first place. Reality is not
-> simply 'experienced' or 'reflected' in language, but instead is actually
-> produced by language."
-
-This quote encapsulates the core of McKenna's epistemological argument. Language
-is not a passive medium for describing an independently existing reality — it is
-the active generative principle by which reality itself comes into being. The
-distinction between "experiencing" reality and "producing" it through language is
-the fulcrum on which shamanic epistemology turns.
-
-## The Shaman's Cosmology: A Tale That Becomes True
-
-From the shamanic perspective, as McKenna describes it, "the cosmos is a tale
-that becomes true as it is told, and as it tells itself." The world is not a
-mechanism to be analyzed but a narrative to be participated in. This perspective
-"implies that human imagination can seize the tiller of being in the world."
-
-McKenna contrasts this with the physicist's ontology of "leptons and baryons or
-charge and spin" — the "high priests" of our culture's dominant religion of
-materialism. For the shaman, these particles are not the fundamental constituents
-of reality; language is. The cosmos is not a machine but a story, and the shaman
-is one who has learned to read and speak that story fluently.
-
-This view combines "freedom, personal responsibility, and a humbling awareness
-of the true size and intelligence of the world" into what McKenna calls "a fitting
-basis for living an authentic neo-Archaic life." A reverence for and immersion in
-"the powers of language and communication" are "the basis of the shamanic path."
-
-## Hopi Tenses, Inuit Pronouns: Language Creates Reality Limits
-
-McKenna marshals [[allegro-linguistic-evidence]] to demonstrate that language actively shapes
+[[terence-mckenna]] advances what he acknowledges is "at odds with the expectations
+[[allegro-linguistic-evidence]] to demonstrate that language actively shapes
 rather than passively describes reality. Two examples are central:
 
 **Hopi** has no past or future tenses or concepts. McKenna asks: "How, then, can
@@ -85,7 +36,7 @@ understood when thought of as magic, for it is the implicit position of magic
 that the world is made of language." This equation of language and magic is not
 incidental but essential to shamanic epistemology. In the magical worldview,
 words have power — they can heal, curse, transform, and create. The shaman's
-chants (icaros), spells, and invocations are not symbolic acts but effective
+chants ([[icaros]]), spells, and invocations are not symbolic acts but effective
 operations on the fabric of reality.
 
 The connection to plant hallucinogens becomes clear: "Preeminent among the
@@ -136,12 +87,5 @@ forgotten the source of their power.
 Shamanism "strives for a higher point of view" achieved "through a feat of
 linguistic prowess." The shaman "is one who has attained a vision of the
 beginnings and the endings of all things and who can communicate that vision."
-This is the source of shamanic power — and the reason why [[mckenna-dissolution-of-the-dominator-culture]]
-has systematically suppressed it.
-
-## See Also
-
-- [[mckenna-shamanic-initiation-death-resurrection-eliade]]: death, resurrection, and transformation (Eliade)
-- [[mckenna-amazon-ayahuasca-encounter-dona-catalina]] with Dona Catalina
-- Partnership vs. dominator culture
-- The habit-obsession-addiction [[mckenna-habit-obsession-addiction-spectrum-and-cultural-formation]] formation
+This is the source of shamanic power — and the reason why [[mckenna-shamanic-initiation-death-resurrection-eliade]]: death, resurrection, and transformation (Eliade)
+- [[mckenna-habit-obsession-addiction-spectrum-and-cultural-formation]] formation

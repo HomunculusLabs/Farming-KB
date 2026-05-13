@@ -9,19 +9,7 @@ type: concept
 ---
 # Palmer on the Neglected Science of Mycology in America
 In his 1877 article "A Neglected Science," published in the Boston Daily
-Globe, Palmer lamented the state of [[palmer-early-american-mycology-nineteenth-century]] with particular
-eloquence. While American botanists had classified nearly every green herb on
-the continent, and collectors regularly documented new species of beetles,
-birds, and fish, the fungi -- "a race of beings about which the schools tell
-us nothing" -- remained almost entirely unstudied.
-
-## The State of American Knowledge
-
-Palmer wrote that when a child kicked a fungus over, "we call them
-toadstools. When the cook broils them, they are mushrooms. This is the limit
-of popular knowledge." He contrasted this ignorance with the intensive study
-given to other branches of natural history: Amherst vied with Harvard in the
-race for the longest name and clearest type, while the vast [[mckenna-the-kingdom-of-fungi]]
+Globe, Palmer lamented the state of [[mckenna-the-kingdom-of-fungi]]
 lay untouched beneath everyone's feet.
 
 ## The Few American Authorities
@@ -89,5 +77,12 @@ fungi."
 ## Palmer's Assessment After Fifteen Years
 
 ## See Also
-- [[fukuoka-pit-of-knowledge-fragmented-science]]
 - [[mycology-21st-century-frontiers]]
+
+## See Also
+
+- [[palmer-mushroom-folklore-cultural-significance]]
+- [[palmer-amanitine-poison-mechanism]]
+- [[palmer-amanitine-poison-classification-treatment]]
+- [[palmer-russula-lactarius-families]]
+- [[mushroom-cultivation-basics-spawn-biology-palmer]]

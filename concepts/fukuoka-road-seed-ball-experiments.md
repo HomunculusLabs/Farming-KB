@@ -10,17 +10,11 @@ sources:
 ---
 # Fukuoka's Seed Ball Experiments Worldwide
 
-In [[natural-farming-fukuoka]] describes his experiments with seed balls ([[fukuoka-aerial-seeding-clay-pellets-desert-revegetation-technique]] enclosing seeds) as a tool for large-scale revegetation of deserts and degraded lands. This technique is the practical bridge between his [[fukuoka-road-africa-greening-desert]] — Somalia seed ball experiments in detail
-- [[fukuoka-road-back-desert-reclamation]] — theoretical basis for [[fukuoka-desert-greening-plant-irrigation]]
-- [[fukuoka-road-observation-natures-patterns]] — understanding what seeds to use where
+In [[fukuoka-aerial-seeding-clay-pellets-desert-revegetation-technique]] enclosing seeds) as a tool for large-scale revegetation of deserts and degraded lands. This technique is the practical bridge between his [[fukuoka-road-back-desert-reclamation]] — theoretical basis for [[fukuoka-road-observation-natures-patterns]] — understanding what seeds to use where
 
 ## The Sowing from the Car
 
-One of the most vivid episodes from Fukuoka's American travels occurred while riding south from Oregon to California: "We talked in the car of the idea of scattering daikon and [[comparison-green-manure-guide-vs-mulch-types-and-effects]] seeds directly onto the parched wasteland along the road." A young man took out a bag filled with different seeds. When they reached a beautiful high pass before the California desert, the man "had the car stopped, handed me the seeds, and said, 'Try scattering them over the desert.'" Fukuoka scattered the seeds from the top of the pass toward the valley below. "Everyone else riding with me began doing the same thing, shouting out, 'This is it! This is it!'"
-
-## The Seed Collection Network
-
-Fukuoka built an informal international network of seed collectors. A taxonomist "collecting rhizobia and especially nitrogen-fixing plants" handed him seed bags, having been "moved by the idea of a campaign to sow seeds in the desert." In the states of Washington and California, "there are groups and individual botanists doing dedicated research" who collect seeds of primitive vegetables and plants native to local areas. The director of the Paleobotanical Gardens in [[shipibo-san-francisco-ceremonial-center-ucayali]] "promised that he would collect seeds of plants suited for growth in the desert."
+One of the most vivid episodes from Fukuoka's American travels occurred while riding south from Oregon to California: "We talked in the car of the idea of scattering daikon and [[shipibo-san-francisco-ceremonial-center-ucayali]] "promised that he would collect seeds of plants suited for growth in the desert."
 
 ## The Pilot and the 750-Acre Wasteland
 
@@ -40,28 +34,7 @@ Fukuoka connected the physical act of sowing seeds with a deeper mission: "Sowin
 
 ## The California Experiment
 
-Fukuoka planned a systematic test: "My ultimate desire was to run tests on methods of scattering drought-hardy cover seeds over arid lands by airplane." While in California, he envisioned using "Reagan's bombers and space shuttles to rain down seeds all over the world rather than to fire missiles." This provocative framing — converting weapons of destruction into instruments of creation — captured the essence of his [[fukuoka-sowing-green-philosophy-one-grain-revolution]]: turning humanity's most powerful technologies toward the regeneration of nature.
-
-## Historical Context
-
-This approach emerged from decades of field observation and experimentation. Early practitioners documented results through careful record-keeping, building empirical evidence later validated by controlled studies. The methodology has evolved considerably, incorporating insights from soil science, microbiology, and ecology. Modern practitioners benefit from both traditional knowledge and contemporary scientific understanding.
-## Practical Considerations
-
-When working with Fukuoka's Seed Ball Experiments Worldwide, several practical factors should be
-carefully considered to achieve optimal results. These include
-the specific conditions of the implementation context, available
-resources, timing requirements, and the interactions between this
-topic and other elements of the broader system. A holistic view
-that considers these interconnections produces better outcomes.
-
-Environmental conditions such as temperature, moisture, and
-seasonal patterns significantly influence results. Monitoring these
-variables and adapting practices accordingly is essential for success.
-The most effective practitioners develop keen observation skills and
-respond flexibly to changing conditions rather than following rigid
-protocols regardless of circumstances or local variation.
-
-[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
+Fukuoka planned a systematic test: "My ultimate desire was to run tests on methods of scattering drought-hardy cover seeds over arid lands by airplane." While in California, he envisioned using "Reagan's bombers and space shuttles to rain down seeds all over the world rather than to fire missiles." This provocative framing — converting weapons of destruction into instruments of creation — captured the essence of his [[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -103,8 +76,6 @@ informed decisions and avoid common pitfalls. Environmental conditions,
 timing, and material selection all play critical roles.
 
 ## See Also
-- [[doc]]
 - [[acacia]]
-- [[det]]
 - [[soma]]
 - [[desert-revegetation]]

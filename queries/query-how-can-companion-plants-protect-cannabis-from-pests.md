@@ -14,20 +14,16 @@ type: query
 
 ## Short Answer
 Companion plants protect cannabis by repelling pests with aromatic compounds,
-attracting predatory insects that eat [[green-cannabis-pests-prevention]], masking cannabis scent from
-herbivores, and disrupting pest life cycles through trap cropping. A well-
-designed [[comparison-companion-planting-reference-vs-jadam-monoculture-critique]] scheme can significantly reduce the need for organic
+attracting predatory insects that eat [[comparison-companion-planting-reference-vs-jadam-monoculture-critique]] scheme can significantly reduce the need for organic
 sprays and intervention.
 
 ## Detailed Explanation
 
-[[companion-planting-deterrents]] page catalogs which plants repel which pests,
-while the [[cervantes-companion-planting-pest-deterrent]] recommends marigolds, nasturtiums,
+[[cervantes-companion-planting-pest-deterrent]] recommends marigolds, nasturtiums,
 and alliums (garlic, onions, chives) as primary masking plants. Marigolds
 produce thiophenes and alpha-terthienyl, compounds that repel nematodes in the
 soil and whiteflies above ground. Garlic and chives release sulfur compounds
-that deter [[beneficial-insects-cannabis]] guide explains how maintaining a continuous bloom
-of umbelliferous flowers throughout the [[savory-growing-season-and-non-growing-season-management]] sustains predator
+that deter [[savory-growing-season-and-non-growing-season-management]] sustains predator
 populations so they are present and hunting when pest outbreaks occur. Without
 these nectar sources, predators disperse to other areas during periods when prey
 is scarce.
@@ -38,46 +34,56 @@ Nasturtiums are a classic trap crop for aphids, which prefer nasturtium leaves
 and will colonize them heavily while leaving nearby cannabis largely untouched.
 Blue Hubbard squash attracts squash bugs and vine borers. Mustard and radish
 flowers pull flea beetles away from neighboring crops. The
-[[comparison-companion-planting-vs-intercropping]] analysis
-explores how companion planting differs from but complements intercropping
-strategies in a cannabis garden context.
-
-For the most effective pest management, companion planting should be integrated
-into a broader Integrated Pest Management (IPM) strategy. [[cervantes-biological-pest-control-predators]]
+[[cervantes-biological-pest-control-predators]]
 provide complementary approaches that work alongside companion plants. Regular
 monitoring with yellow sticky traps, maintaining proper airflow and canopy
-spacing, and using [[comparison-companion-planting-vs-polyculture]] page highlights that
-companion planting is often simpler to implement in a cannabis garden than full
-polyculture, since cannabis has specific spacing and [[growing-gourmet-light-requirements-mushroom-fruiting]]. Focus on
+spacing, and using [[growing-gourmet-light-requirements-mushroom-fruiting]]. Focus on
 a perimeter ring of aromatic plants, a few trap crops at corners and edges, and
 umbelliferous flowers scattered between plants for maximum benefit with minimal
 interference to light penetration and airflow around your cannabis canopy.
 
 ## Key Points
 - Aromatic companions like marigolds, garlic, basil, and nasturtiums mask
-  cannabis scent and chemically repel pests through [[query-how-do-fungal-volatile-compounds-affect-plant-growth-and-other-microorganisms]]
-- Umbelliferous flowers (dill, fennel, yarrow, cilantro) attract predatory wasps,
-  ladybugs, and lacewings that hunt cannabis pest species
-- Trap crops like nasturtiums draw aphids away from cannabis and can be removed
-  before pest populations multiply and spread
-- Below-ground companions like French marigolds suppress root-knot nematodes
-  while deep-rooted plants mine minerals that strengthen plant immunity
-- Companion planting is most effective when integrated into a broader IPM
-  strategy with biological controls and regular pest monitoring
-
-## Related
-
-- [[query-how-to-control-pests-without-chemicals]]
-- [[query-how-to-prevent-and-treat-powdery-mildew-on-cannabis]]
+  cannabis scent and chemically repel pests through [[query-how-to-control-pests-without-chemicals]]
 - [[query-how-to-fix-nitrogen-toxicity-in-cannabis]]
-
 
 ## See Also
 
-- [[query-how-do-i-build-and-use-a-keyhole-garden]]
-- [[query-how-do-i-design-an-edible-landscape-for-my-front-yard]]
-- [[query-how-do-i-start-an-outdoor-mushroom-garden-in-my-backyard]]
-- [[query-how-do-i-train-and-trellis-fruiting-vines-and-climbing-plants]]
+- [[query-how-do-bacteriophages-affect-soil-microbiome-and-plant-health]]
+- [[query-how-do-epiphytes-survive-without-soil]]
+- [[query-how-do-i-establish-a-food-forest-on-degraded-land]]
+- [[query-how-do-i-fix-soil-compaction-in-my-garden]]
+- [[query-how-do-i-grow-and-use-chamomile]]
+- [[query-how-do-i-grow-cannabis-in-a-greenhouse]]
+- [[query-how-do-i-grow-cordyceps-mushrooms]]
+- [[query-how-do-i-grow-gooseberries-and-currants]]
+- [[query-how-do-i-grow-grapes-in-my-backyard]]
+- [[query-how-do-i-grow-lavender-and-what-are-its-uses]]
+- [[query-how-do-i-grow-perennial-vegetables-in-my-garden]]
+- [[query-how-do-i-grow-persimmons-and-which-variety-should-i-choose]]
+- [[query-how-do-i-grow-tomatoes-organically]]
+- [[query-how-do-i-identify-and-control-whiteflies-on-cannabis]]
+- [[query-how-do-i-make-a-johnson-su-bioreactor]]
+- [[query-how-do-i-make-koji-at-home-for-beginners]]
+- [[query-how-do-i-manage-ph-in-my-cannabis-grow]]
+- [[query-how-do-i-manage-weeds-organically-without-chemicals]]
+- [[query-how-do-i-start-a-profitable-market-garden-on-a-small-plot]]
+- [[query-how-do-i-start-growing-berries-in-my-garden]]
+- [[query-how-do-i-stratify-and-scarify-seeds-for-better-germination]]
+- [[query-how-do-psychedelics-change-consciousness]]
+- [[query-how-does-companion-planting-work-in-a-food-forest]]
+- [[query-how-to-grow-amaranth-for-grain-and-greens]]
+- [[query-how-to-grow-cannabis-in-an-aquaponics-system]]
+- [[query-how-to-grow-morel-mushrooms]]
+- [[query-how-to-grow-truffles]]
+- [[query-how-to-identify-psilocybe-cubensis-in-the-wild]]
+- [[query-how-to-increase-cannabis-yield]]
+- [[query-how-to-propagate-woody-herbs-from-cuttings]]
+- [[query-how-to-start-a-worm-farm-for-profit]]
+- [[query-how-to-start-beekeeping-on-a-homestead]]
+- [[query-how-to-use-bamboo-in-permaculture]]
+- [[query-how-to-use-molasses-in-your-cannabis-garden]]
+- [[query-how-to-use-seaweed-extract-in-my-garden]]
 
 ## Practical Considerations
 
@@ -97,3 +103,47 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
+
+## Overview
+
+Query How Can Companion Plants Protect Cannabis From Pests represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish query how can companion plants protect cannabis from pests
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving query extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Query How Can Companion Plants Protect Cannabis From Pests finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for query how can companion plants protect cannabis from pests. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability

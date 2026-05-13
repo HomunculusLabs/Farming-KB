@@ -8,7 +8,7 @@ type: concept
 
 ## Overview
 
-The Egyptian pyramid initiation rites represent what is described as the highest form of spiritual initiation in [[allegro-plants-and-drugs-in-the-ancient-world]] — a three-day ordeal conducted in the central chamber (King's Chamber) of the Great Pyramid at Gizeh, combining the pharmacological effects of *amanita-muscaria* with the pyramid's anomalous energy fields to produce a guided [[shamanism-death-and-rebirth]] experience. These rites gave birth to later secret initiatory orders including the Rosicrucians, Freemasons, and Templars, though the later societies are described as degraded imitations of the original Egyptian practice.
+The Egyptian pyramid initiation rites represent what is described as the highest form of spiritual initiation in [[shamanism-death-and-rebirth]] experience. These rites gave birth to later secret initiatory orders including the Rosicrucians, Freemasons, and Templars, though the later societies are described as degraded imitations of the original Egyptian practice.
 
 ## The Great Pyramid as Initiation Chamber
 
@@ -34,14 +34,7 @@ A tub in the central chamber, known to have played a ceremonial role, is linked 
 - **Directional guidance** — the portals may have been intended to direct the spirit of the initiate toward specific celestial destinations
 
 ### The Sarcophagus
-The granite sarcophagus in the King's Chamber is central to the rite. The word **sarcophagus** literally translates as **"flesh-eating"** — a designation connected to the mushroom, which is referred to as "flesh" in most [[sacred-meal-ancient-traditions]]. The initiate would lie in the sarcophagus, consume the "sacred flesh" (the mushroom sacrament), and drink the "waters of life."
-
-## The Three-Day Ordeal
-
-The initiation ritual lasted **three days** and followed a specific sequence:
-
-### Day 1-3: The Death Trance
-The initiate was placed in a death-like trance induced by [[allegro-colour-and-consistency-of-the-amanita-muscaria]] within the sealed central chamber. This state involved:
+The granite sarcophagus in the King's Chamber is central to the rite. The word **sarcophagus** literally translates as **"flesh-eating"** — a designation connected to the mushroom, which is referred to as "flesh" in most [[allegro-colour-and-consistency-of-the-amanita-muscaria]] within the sealed central chamber. This state involved:
 
 - Complete physical stillness in the sarcophagus
 - Profound alteration of consciousness
@@ -112,7 +105,7 @@ Despite the ideal of merit-based advancement, the Egyptian system was "supremely
 ## Egyptian Symbolism and the Mushroom
 
 ### The Ankh
-[[andrija-puharich]], in "[[allegro-star-of-the-morning-venus-and-the-sacred-mushroom]]: Key to the Door of Eternity," described hieroglyphic and linguistic links between the Ankh and the Amanita muscaria. The Ankh (the "key of life") is theorized as a mushroom symbol — the loop representing the cap and the vertical line the stem.
+[[allegro-star-of-the-morning-venus-and-the-sacred-mushroom]]: Key to the Door of Eternity," described hieroglyphic and linguistic links between the Ankh and the [[amanita-muscaria]]. The Ankh (the "key of life") is theorized as a mushroom symbol — the loop representing the cap and the vertical line the stem.
 
 ### The Aten (Winged Sun Disc)
 The Aten symbolizes the mushroom cap with the gills stylized as wings. This connects the Egyptian solar theology directly to mushroom imagery.

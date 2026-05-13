@@ -13,7 +13,7 @@ sources:
 
 updated: 2026-04-18
 
-During his [[fukuoka-european-travels-natural-farming]], [[masanobu-fukuoka]] spent a week at the
+During his [[masanobu-fukuoka]] spent a week at the
 estate of Giannozzo Pucci, publisher of the Italian edition of The
 One-Straw Revolution, in a rural area between Florence and the hills
 of Tuscany.
@@ -38,14 +38,7 @@ Although Giannozzo's place was called an orchard, it consisted of
 little more than extensively grown grapevines among which were
 scattered two-hundred-year-old olive trees. Having encountered these
 Italians who lived such a free and cheerful life, Fukuoka felt both a
-sense of expectation that the spirit and practice [[four-principles-of-natural-farming]]
-would surely take hold in Italy and, mixed with this, a sense of envy
-when he thought back at how fussy and narrow-minded people are in
-Japan.
-
-## Practical Instruction
-
-Along with practical instruction in the production of [[comparison-pruning-fruit-trees-vs-grafting-fruit-trees]] and
+sense of expectation that the spirit and practice [[comparison-pruning-fruit-trees-vs-grafting-fruit-trees]] and
 vegetables, Fukuoka spoke about Christ, philosophy, and other topics.
 Communication was complex: Fukuoka spoke and drew his philosophical
 cartoons on large sheets of paper with a brush. A young Japanese woman
@@ -70,15 +63,7 @@ When told that the cypress trees, which appear so often in Van Gogh's
 paintings, are used for mourning the souls of the dead, Fukuoka
 responded: "In my eyes, they are lamenting the decline and ruin of
 the Italian mountains." This observation connected to his broader
-concerns about [[fukuoka-european-civilization-standstill]].
-
-## The Trip to Pratovecchio
-
-One day Fukuoka said, "Italy has few trees. I'd like to see a virgin
-Italian forest." The group formed a caravan of cars and drove three
-hours along a gently sloping highland road to a virgin forest at
-Pratovecchio. The gently undulating road passed by vineyards and fields
-of wheat, with cows and flocks of [[permaculture-designers-manual-sheep-grazing]]. Every so often a
+concerns about [[permaculture-designers-manual-sheep-grazing]]. Every so often a
 single farmhouse stood alone on a ridge with children playing nearby.
 Nowhere did even a single billboard or telephone pole mar the view.
 
@@ -118,8 +103,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[natural-farming]]
 - [[permaculture]]
-- [[fukuoka-mahayana-and-hinayana-natural-farming]]
 - [[fukuoka-natural-farming-philosophy-of-mu]]
 - [[fukuoka-natural-livestock-farming]]

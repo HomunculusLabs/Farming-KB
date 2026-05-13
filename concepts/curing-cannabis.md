@@ -10,8 +10,7 @@ tags: [cannabis]
 
 # Curing Cannabis
 
-Curing is the post-drying process that allows [[query-what-causes-airy-loose-cannabis-buds-and-how-to-prevent-them]] to complete moisture
-equalization and develop full aroma, flavor, and smoothness. After [[allegro-star-of-the-morning-venus-and-the-sacred-mushroom]] bud. Gently
+Curing is the post-drying process that allows [[allegro-star-of-the-morning-venus-and-the-sacred-mushroom]] bud. Gently
 pack as many buds into the container as possible without crushing them. Place
 containers in a cool, dry, dark place. Check in 2-4 hours to see if buds have "sweated"
 moisture. Gently squeeze buds to feel if they are moister than before -- be careful,
@@ -20,51 +19,8 @@ resin glands bruise easily.
 ### Managing Moisture
 
 If stems fold instead of snapping and buds feel moist, remove them from the container
-and place [[allegro-plants-and-drugs-in-the-ancient-world]] container and open
-the lid for a few minutes every few hours to let excess moisture escape. At this point
-you can add an orange or lemon peel to the container to impart a slight citrus aroma.
-
-### Final Dry-Down
-
-Check containers several times daily, opening for 5-10 minutes each time. Depending on
-moisture content, buds should be totally dry in a few days to two weeks. Once evenly
-dry, seal in airtight containers for storage.
-
-## Ideal Curing Conditions
-
-- **Temperature:** 60-70 degrees F (15-21 degrees C); cool is better
-- **Humidity:** 40-60 percent relative humidity
-- **Light:** Dark -- light degrades THC and terpenes
-- **Container:** Airtight glass preferred; check seals regularly
-
-## How Long to Cure
-
-Minimum effective curing is 2-4 weeks. Many growers cure for 4-8 weeks for optimal
-flavor development. Some connoisseurs cure for 6 months or longer. The first week has
-the most dramatic effect on potency and smoothness. Extended curing continues to improve
-flavor complexity.
-
-## Flavor Enhancement
-
-During curing, chlorophyll [[drying-cannabis]] -- the prerequisite stage before curing
-- [[flushing-nutrients]] -- pre-harvest step affecting cure quality
-## Practical Considerations
-
-When working with Curing Cannabis, several practical factors should be
-carefully considered to achieve optimal results. These include
-the specific conditions of the implementation context, available
-resources, timing requirements, and the interactions between this
-topic and other elements of the broader system. A holistic view
-that considers these interconnections produces better outcomes.
-
-Environmental conditions such as temperature, moisture, and
-seasonal patterns significantly influence results. Monitoring these
-variables and adapting practices accordingly is essential for success.
-The most effective practitioners develop keen observation skills and
-respond flexibly to changing conditions rather than following rigid
-protocols regardless of circumstances or local variation.
-
-[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
+and place [[drying-cannabis]] -- the prerequisite stage before curing
+- [[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -111,8 +67,83 @@ through generations to modern scientific approaches, the evolution continues
 to inform current best practices and research directions.
 
 ## See Also
-- [[doc]]
 - [[cannabis-curing-storage-post-harvest-clarke]]
-- [[cannabis-drying-and-curing-guide]]
 - [[cannabis-curing-jar-technique]]
 - [[cannabis-harvest-and-curing]]
+
+## Overview
+
+Curing Cannabis represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish curing cannabis
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving curing extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Curing Cannabis finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for curing cannabis. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+curing cannabis and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Curing Cannabis has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of curing cannabis into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.

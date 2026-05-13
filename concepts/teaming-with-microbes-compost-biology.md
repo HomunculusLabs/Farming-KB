@@ -10,7 +10,7 @@ sources:
 
 # Compost Biology and the Soil Food Web
 
-Compost is a concentrated universe of [[teaming-with-microbes-bacterial-vs-fungal-dominance]] and [[teaming-with-microbes-overview]]) along with additional fungi.
+Compost is a concentrated universe of [[teaming-with-microbes-overview]]) along with additional fungi.
 
 **Temperature management:**
 - A properly made pile reaches 135F (57C) in 24-72 hours and 150F (65C) in three days
@@ -22,10 +22,7 @@ Compost is a concentrated universe of [[teaming-with-microbes-bacterial-vs-funga
 
 ### Stage 3: Maturation (Cooling)
 
-Mesophilic organisms reassert themselves. [[teaming-with-microbes-compost-tea-and-inoculation]]
-- [[mulching-guide]]
-- [[teaming-with-microbes-actinomycetes]]
-
+Mesophilic organisms reassert themselves. [[mulching-guide]]
 - [[teaming-with-microbes-fb-ratio]]
 
 - [[teaming-with-microbes-bacterial-vs-fungal-dominance]]

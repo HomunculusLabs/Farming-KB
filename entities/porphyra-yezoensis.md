@@ -18,9 +18,7 @@ sources:
 
 ## Overview
 
-**Porphyra yezoensis** Ueda is a red marine macroalga in the family Bangiaceae, widely cultivated as the primary source of nori in Japan and [[neurotropic-fungi-japan-east-asia-species-cultural-context]]. It is one of the most valuable aquaculture seaweeds globally, with annual production exceeding 10 billion sheets of dried nori.
-
-The species has a heteromorphic [[bloomfield-fungal-life-cycle-spiral-versus-circle]] alternating between a microscopic conchocelis phase and a macroscopic leafy gametophytic phase.
+**Porphyra yezoensis** Ueda is a red marine macroalga in the family Bangiaceae, widely cultivated as the primary source of nori in Japan and [[bloomfield-fungal-life-cycle-spiral-versus-circle]] alternating between a microscopic conchocelis phase and a macroscopic leafy gametophytic phase.
 The gametophyte is the harvested form, processed into the thin dried sheets used in sushi and other Japanese dishes.
 
 P. yezoensis is native to the cold temperate waters of the Northwest Pacific.
@@ -58,12 +56,7 @@ Conchospores are seeded onto nets suspended in the sea during autumn.
 The gametophytic thalli grow on these nets through winter, reaching harvestable size in 30–50 days. Multiple harvests are possible from a single seeding.
 
 The floating net method is the standard cultivation technique.
-Nets are stretched between floating frames in coastal waters, with the depth adjusted to optimize light exposure and [[ph-and-nutrient-availability-garden-soils]].
-
-After harvest, nori is washed, minced, and formed into sheets using a papermaking-like process.
-The sheets are dried and packaged, with premium grades commanding high prices in Japanese markets.
-
-Yields average 3–6 tonnes of dried nori per hectare per season. [[plant-disease-management-solomon]], particularly against red rot disease caused by Pythium, is a major challenge requiring careful monitoring and net management.
+Nets are stretched between floating frames in coastal waters, with the depth adjusted to optimize light exposure and [[plant-disease-management-solomon]], particularly against red rot disease caused by Pythium, is a major challenge requiring careful monitoring and net management.
 
 ## Chemistry and Nutrition
 
@@ -79,7 +72,7 @@ These pigments contribute to the characteristic color and are commercially extra
 Porphyran, a sulfated galactan unique to Bangiales, constitutes 20–35% of dry weight.
 This polysaccharide has demonstrated prebiotic, immunomodulatory, and antiviral activities in laboratory studies.## Related Species
 
-Porphyra umbilicalis is the closest relative of P.
+[[porphyra-umbilicalis]] is the closest relative of P.
 yezoensis in commercial cultivation, known as laver in the British Isles and used in Welsh laverbread. It differs in its thicker thallus and preference for colder Atlantic waters.
 
 Pyropia tenera (formerly Porphyra tenera) is the traditional Japanese nori species, largely replaced by P.

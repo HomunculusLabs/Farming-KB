@@ -6,9 +6,7 @@ type: concept
 
 # Cloud Seeding and Orographic Precipitation
 
-Regional [[water-management]] can be significantly enhanced through two complementary strategies: artificial cloud seeding to increase precipitation, and orographic design using vegetation and landform to induce rainfall through uplift and condensation.
-
-[[bill-mollison]]'s Permaculture: A Designers' Manual treats these as interdependent techniques—seeding without ground storage wastes water, and orographic effects without atmospheric moisture yield little benefit. Together, they form a powerful approach to rehydrating degraded landscapes.
+Regional [[bill-mollison]]'s Permaculture: A Designers' Manual treats these as interdependent techniques—seeding without ground storage wastes water, and orographic effects without atmospheric moisture yield little benefit. Together, they form a powerful approach to rehydrating degraded landscapes.
 
 ## Cloud Seeding Methods and Effectiveness
 
@@ -62,7 +60,7 @@ Forests on windward slopes create drag and surface roughness that forces incomin
 
 ### Modest Earth Rises
 
-Even surprisingly small terrain modifications can induce orographic effects. **Earth rises of just 4–6 metres**, when oriented perpendicular to prevailing moisture-laden winds, can produce local humidity increases and initiate cloud formation. This has significant implications for permaculture design: ridge construction and earth-shaping can meaningfully influence local microclimate and rainfall patterns without the scale of mountain ranges. These modest features are particularly effective in coastal or inland regions where moisture-bearing winds pass over flat terrain and need a final trigger to release precipitation. Designers can construct these ridges from excavated material generated during swale and dam construction, turning a waste product into a dual-purpose rainfall and water-harvesting asset.
+Even surprisingly small terrain modifications can induce orographic effects. **Earth rises of just 4–6 metres**, when oriented perpendicular to prevailing moisture-laden winds, can produce local humidity increases and initiate cloud formation. This has significant implications for [[permaculture-design]]: ridge construction and earth-shaping can meaningfully influence local microclimate and rainfall patterns without the scale of mountain ranges. These modest features are particularly effective in coastal or inland regions where moisture-bearing winds pass over flat terrain and need a final trigger to release precipitation. Designers can construct these ridges from excavated material generated during swale and [[dam-construction]], turning a waste product into a dual-purpose rainfall and water-harvesting asset.
 
 ### Ekman Spirals at Forest Edges
 
@@ -134,6 +132,5 @@ Strategic reforestation on cross-wind ridges and preservation of upland absorpti
 
 ## See Also
 
-- [[cloud-seeding-and-orographic-rainfall-enhancement]]
 - [[cloud-seeding-and-orographic-rainfall]]
 - [[silver-iodide-cloud-seeding-mollison]]

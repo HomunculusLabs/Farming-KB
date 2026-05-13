@@ -12,14 +12,7 @@ related: [negative-geotropism-in-mushroom-fruiting, mushroom-stipe-development-s
 Anemotropism is the growth response of an organism to wind or air currents.
 In mushrooms, anemotropism causes the stipe (stem) to bend and grow toward
 or away from the direction of airflow. This phenomenon was systematically
-studied by Edmond R. Badham in *[[brassinosteroid-growth-promotion-psilocybe-cubensis]]* using a controlled wind
-tunnel apparatus (Mycologia, 1982).
-
-## Observations in Psilocybe Cubensis
-
-### Directional Growth Into Wind
-When mushroom primordia between developmental Stage 1 (slight pileus
-swelling) and Stage 2 (nearly spherical pileus) are placed in a [[closed-circuit-wind-tunnel-design-mushroom-tropism-badham-1982]]
+studied by Edmond R. Badham in *[[closed-circuit-wind-tunnel-design-mushroom-tropism-badham-1982]]
 with horizontal airflow at 9 ± 3 cm/sec, the stipe grows **into the
 direction of the airflow**. This anemotropic response is the dominant
 tropic behavior during early stipe elongation.
@@ -32,10 +25,7 @@ mediated by a mechanism independent of photoreception.
 
 ### Independence from Fertility
 Anemotropism occurs equally in both fertile (spore-producing) and sterile
-([[sporeless-mutant-geotropism-link-psilocybe-cubensis]]) basidiocarps during Stage 1–2 development. This
-demonstrates that the response does not require the presence of spores or
-gill tissue, distinguishing it from the later-acting negative geotropic
-response which is linked to [[spore-production-geotropic-sensitivity-coupling-basidiomycete-badham-1982]].
+([[spore-production-geotropic-sensitivity-coupling-basidiomycete-badham-1982]].
 
 ### Reversibility
 When cultures are rotated perpendicular to the wind (3 rpm), growth
@@ -69,9 +59,7 @@ specifications:
 
 The tunnel included a blower, polyester fiber filter for wind speed
 reduction, a spin-type humidifier with heater, an air baffle, heat cable,
-and [[cervantes-humidity-control-dehumidification]] via thermocouple feedback. This design allowed precise
-independent control of all four environmental variables known to affect
-[[mushroom-growth-hormone-decapitation-gill-diffusate-evidence-basidiomycetes]]: wind, humidity, light, and temperature.
+and [[mushroom-growth-hormone-decapitation-gill-diffusate-evidence-basidiomycetes]]: wind, humidity, light, and temperature.
 
 ## Proposed Mechanism: Boundary Layer Redistribution
 
@@ -82,9 +70,7 @@ boundary layer around the stipe. In airflow:
   on the windward side (upstream)
 - This asymmetric boundary layer creates differential water vapor
   concentrations around the stipe
-- The **windward side** experiences greater [[evaporative-demand-hypothesis-mushroom-growth]] (more
-  drying)
-- This differential in [[evaporative-demand-gradient-stipe-elongation-mechanism-badham-1982]] causes cells on opposite sides
+- The **windward side** experiences greater [[evaporative-demand-gradient-stipe-elongation-mechanism-badham-1982]] causes cells on opposite sides
   of the stipe to grow at different rates, resulting in curvature toward
   the wind
 
@@ -117,8 +103,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[dom]]
 - [[spore]]
-- [[brassinosteroid]]
 - [[psilocybe-cubensis]]
 - [[adaptive-anemotropism-spore-dispersal-optimization-mushroom-evolution]]

@@ -39,7 +39,7 @@ The populations at highest risk — immunocompromised patients (HIV/AIDS, transp
 - **Limited commercial incentive**: Pharmaceutical companies perceive fungal vaccines as low-profit compared to chronic disease therapeutics. The primary target populations (immunocompromised) are relatively small
 - **Regulatory uncertainty**: No established regulatory pathway for fungal vaccines; no precedents for approval
 - **Clinical trial complexity**: Endpoint definitions are challenging; patient populations are heterogeneous and often critically ill
-- **Funding**: Historical underfunding of fungal [[cannabis-huntingtons-disease-research]] relative to bacterial and viral diseases
+- **Funding**: Historical underfunding of fungal disease research relative to bacterial and viral diseases
 
 ## Candida Vaccine Candidates
 
@@ -53,12 +53,12 @@ The most clinically advanced Candida vaccine candidate:
 - **Platform**: Recombinant protein with alum adjuvant
 - **Als3 function**: Cell surface adhesin and invasin involved in biofilm formation, epithelial adhesion, and iron acquisition
 - **Clinical progress**: Completed Phase II trials showing immunogenicity and reduced recurrence of vulvovaginal candidiasis. Phase III planning for recurrent vulvovaginal candidiasis
-- **Spectrum**: Also shown protective activity against C. glabrata, C. tropicalis, and [[staphylococcus-aureus]] (due to structural similarity between Als3 and S. aureus adhesins)
+- **Spectrum**: Also shown protective activity against C. glabrata, C. tropicalis, and Staphylococcus aureus (due to structural similarity between Als3 and S. aureus adhesins)
 
 ### Other Candida Candidates
 
 - **Sap2 vaccine**: Targeting secreted aspartyl protease 2, important for tissue invasion. Shown protective in animal models. Phase I completed in Italy
-- **Beta-glucan conjugate vaccines**: Conjugating fungal beta-glucan cell wall components to carrier proteins. Beta-glucan is a pathogen-associated molecular pattern (PAMP) that stimulates [[plant-innate-immunity-pti-eti-defense]] through Dectin-1 receptor. Preclinical studies show broad protection against multiple Candida species
+- **Beta-glucan conjugate vaccines**: Conjugating fungal beta-glucan cell wall components to carrier proteins. Beta-glucan is a pathogen-associated molecular pattern (PAMP) that stimulates innate immunity through Dectin-1 receptor. Preclinical studies show broad protection against multiple Candida species
 - **Mannan-based vaccines**: Mannan is a major component of the Candida cell wall. Mannan-tetanus toxoid conjugates have shown efficacy in animal models
 
 ## Aspergillus Vaccine Candidates
@@ -67,7 +67,7 @@ Invasive aspergillosis primarily affects immunocompromised patients, especially 
 
 ### ASP3976 (Astellas/GlaxoSmithKline)
 
-- **Antigen**: Recombinant Asp f3 protein from [[aspergillus-fumigatus]]
+- **Antigen**: Recombinant Asp f3 protein from Aspergillus fumigatus
 - **Mechanism**: Asp f3 is a thiol peroxidase involved in oxidative stress defense
 - **Status**: Completed Phase I trials demonstrating safety and immunogenicity in healthy adults
 - **Target population**: Patients undergoing chemotherapy, stem cell transplantation, or lung transplantation
@@ -85,7 +85,7 @@ Cryptococcal meningitis kills approximately 180,000 people annually, primarily i
 
 ### Capsule-Based Approaches
 
-The polysaccharide capsule is the primary virulence factor of [[bloomfield-cryptococcus-neoformans-capsule-melanin-brain]]:
+The polysaccharide capsule is the primary virulence factor of Cryptococcus neoformans:
 
 - **GXM conjugate vaccine**: Glucuronoxylomannan (the major capsular polysaccharide) conjugated to tetanus toxoid. Shown protective in animal models. Phase I trials demonstrated safety and immunogenicity
 - **GXM-tetanus toxoid**: Generates antibodies that enhance opsonophagocytosis of Cryptococcus by macrophages
@@ -139,7 +139,12 @@ The success of mRNA vaccines against SARS-CoV-2 has renewed interest in mRNA pla
 - **Universal fungal vaccines**: Targeting common antigens shared across multiple fungal pathogens (e.g., beta-glucan, heat shock proteins, chitin)
 - **Combination vaccines**: Incorporating antigens from multiple fungi into a single formulation
 - **Therapeutic vaccines**: Designed to boost immune responses in patients already infected
-- **Improved adjuvants**: TLR agonists and other pattern recognition [[cannabinoid-receptor-agonists-antagonists-synthetic-reference-blesching]] to enhance fungal-specific immune responses
-- **Personalized approaches**: Tailoring vaccine strategies to individual patient risk profiles and immune status
+- **Improved adjuvants**: TLR agonists and other pattern recognition receptor agonists to enhance fungal-specific immune responses
 
-See [[fungal-infections-human]] for details on the diseases these vaccines aim to prevent and [[fungal-antibiotics]] for current treatment approaches.
+## See Also
+
+- [[fungi-in-the-environment-fungal-ecosystems]]
+- [[fungal-amber-fossils]]
+- [[singh-fungal-pellet-formation-bioremediation]]
+- [[dark-septate-endophytes]]
+- [[fungal-pathogens-human-disease]]

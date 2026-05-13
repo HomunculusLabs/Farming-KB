@@ -31,23 +31,10 @@ sources:
 # Arctium lappa
 
 **Greater burdock** is a robust biennial herb in the Asteraceae family,
-native to Europe and Asia and now naturalized across [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]]
-worldwide. Known for its large heart-shaped leaves and distinctive
-purple-thistle flower heads that produce the iconic hooked burs, burdock
-has a long dual history as both a food crop and [[medicinal-herb-growing]].
+native to Europe and Asia and now naturalized across [[medicinal-herb-growing]].
 
 The taproot is the primary usable part — a thick, carrot-like root
-reaching 60–90 cm in length by the end of the first [[extending-growing-season]]. In
-Japanese cuisine, burdock root (*gobo*) is a staple vegetable valued for
-its earthy flavor and crisp texture. In traditional Western herbalism,
-burdock root is classified as an "alterative" or blood purifier.
-
-## Taxonomy
-
-Plantae → Tracheophytes → Angiosperms → Eudicots → Asterids →
-**Asterales → Asteraceae → *Arctium → *A. lappa** L. (1753).
-
-Related species: *A. minus* (lesser burdock, common in [[psilocybin-north-america-pacific-northwest]]),
+reaching 60–90 cm in length by the end of the first [[psilocybin-north-america-pacific-northwest]]),
 *A. tomentosum* (woolly burdock). *A. minus* is sometimes used
 interchangeably with *A. lappa* but has a thinner, less fleshy root.
 
@@ -69,8 +56,7 @@ interchangeably with *A. lappa* but has a thinner, less fleshy root.
 ## Distribution and Habitat
 
 Native to Europe and temperate Asia, burdock has been introduced
-worldwide and naturalized across [[guzman-psilocybin-mushrooms-north-america]], Australia, and parts of
-[[guzman-psilocybin-mushrooms-south-america]]. It thrives in disturbed soils, forest edges, roadsides,
+worldwide and naturalized across [[guzman-psilocybin-mushrooms-south-america]]. It thrives in disturbed soils, forest edges, roadsides,
 stream banks, and vacant lots — anywhere with deep, nitrogen-rich soil
 and full to partial sun. Prefers well-drained loamy soils (pH 5.5–7.0)
 but tolerates a wide range. Deep taproot provides [[dighton-fungal-drought-tolerance-plant-water-relations]] once
@@ -88,3 +74,77 @@ Asian and European traditions:
 - **Nutrition:** Rich in inulin (up to 45% dry weight), a prebiotic
   fiber; contains potassium, calcium, iron, manganese (~72 kcal/100g)
 - **Harvest note:** First-year roots preferred — second-year become woody
+
+## Overview
+
+Arctium Lappa Entity represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish arctium lappa entity
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving arctium extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Arctium Lappa Entity finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for arctium lappa entity. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+arctium lappa entity and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Arctium Lappa Entity has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of arctium lappa entity into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource

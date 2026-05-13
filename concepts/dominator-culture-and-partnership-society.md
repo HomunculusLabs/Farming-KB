@@ -17,45 +17,7 @@ Our culture, self-toxified by the poisonous by-products of technology and egocen
 
 McKenna argues that suppression of shamanic gnosis, with its reliance on ecstatic dissolution of the ego, has robbed us of life's meaning and made us enemies of the planet, of ourselves, and our grandchildren.
 
-We are killing the planet in order to keep intact the wrongheaded assumptions of the ego-dominator [[mckenna-cannabis-cultural-style-and-feminine-plant]]. It is time for change.
-
-The dominator model is characterized by hierarchy, male dominance, the suppression of the feminine, and an ego-centered approach to reality. It values power over others, property accumulation, and linear progress. Its primary intoxicants are stimulants (coffee, sugar, tobacco) and narcotics (alcohol, opiates) -- drugs that reinforce the social order rather than dissolve it.
-
-These substances serve the dominator agenda because they do not threaten the ego structure but instead reinforce patterns of compulsive productivity and social conformity. Coffee, in particular, is welcomed and encouraged in the modern office environment, while a drug such as cannabis, which deconditions users from accepted values, is both feared and persecuted.
-
-## The Partnership Model
-
-In contrast, the partnership model -- which McKenna associates with the original mushroom-using cultures of the African grasslands -- features power distributed between men and women and through all age groups.
-
-Ultimate power in such societies was the power to create and sustain life, naturally imaged as female: the power of the Great Goddess.
-
-Partnership societies do not simply replace patriarchy with matriarchy; such concepts are too limited and gender-bound. The real difference is between a society based on partnership and roles appropriate to age, size, and level of skill, versus a society in which a dominance hierarchy is maintained at the expense of the full expression and social utilization of the individuals within the group.
-
-In the partnership situation the lack of concepts based on property and ego inflation made jealousy and possessiveness less of a problem. Group sexual activity within a small tribe and group experiences with hallucinogens acted to dissolve boundaries and differences between people and to promote the open and unstructured sexuality that is naturally a part of nomadic tribalism.
-
-Children were raised by extended families of cousins, siblings, aunts, uncles, and former and current sexual partners, giving them many different relationships and a variety of role models. Group values were not usually at odds with that of the individual or their mate and children. Adolescent sexual experimentation was expected and encouraged.
-
-Couples may bond for any number of reasons related to themselves and the welfare of the group; such bonding may be -- but is not necessarily -- lifelong. Sexuality is rarely taboo in such societies, only becoming so as a result of contact with dominator values.
-
-## Monotheism as Pathological Projection
-
-McKenna extends the dominator analysis to religion, arguing that monotheism exhibits what is essentially a pathological personality pattern projected onto the ideal of God: the pattern of the paranoid, possessive, power-obsessed male ego. This God is not someone you would care to invite to a garden party.
-
-The Western ideal is the only formulation of deity that has no relationship with woman at any point in the theological myth. In ancient Babylon, Anu was paired with his consort Inanna; Grecian religion assigned Zeus a wife, many consorts, and daughters. These heavenly pairings are typical. Only the god of Western civilization has no mother, no sister, no female consort, and no daughter.
-
-The drive for unitary wholeness within the psyche, which is to a degree instinctual, can become pathological if pursued in a context in which dissolution of boundaries and rediscovery of the ground of being has been made impossible. Monotheism became the carrier of the dominator model, the Apollonian model of the self as solar and complete in its masculine expression.
-
-The worth and power of emotion and the natural world have been devalued and replaced by a narcissistic fascination with the abstract and the metaphysical. This attitude has proved a double-edged sword; it has given science explanatory power and its capacity for moral bankruptcy.
-
-## The Transition: Agriculture and the Fall
-
-The transition from partnership to dominator occurred when humans abandoned the nomadic hunter-gatherer lifestyle for agriculture. Women, as gatherers, were under much greater pressure to develop language than their male counterparts. The hunter was able to function quite well on a very limited number of linguistic signals, as is still the case among hunting peoples such as the !Kung or the Maku.
-
-For gatherers, the situation was different. Those women with the largest repertoire of communicable images of foods and their sources and secrets of preparation were unquestionably placed in a position of advantage. Language may well have arisen as a mysterious power possessed largely by women -- women who spent much more of their waking time together and, usually, talking -- than did men.
-
-The linguistic depth women attained as gatherers eventually led to a momentous discovery: the discovery of agriculture. Women realized that they could simply grow a restricted number of plants. They learned the needs of only those few plants, embraced a sedentary lifestyle, and began to forget the rest of nature they had once known so well.
-
-At that point the retreat from the natural world began, and the dualism of humanity versus nature was born. One of the places where the old goddess culture died, [[mckenna-catal-huyuk-natufian-link]], in present-day Anatolian Turkey, is the very place where agriculture may have first arisen.
+We are killing the planet in order to keep intact the wrongheaded assumptions of the ego-dominator [[mckenna-catal-huyuk-natufian-link]], in present-day Anatolian Turkey, is the very place where agriculture may have first arisen.
 
 ## The Drug Dimension of Cultural Change
 
@@ -67,62 +29,96 @@ The ennui of modernity is the consequence of a disrupted quasisymbiotic relation
 
 ## Fear of Boundary Dissolution
 
-The generally hostile attitude of dominator society toward sexual expression can be traced to the terror that the dominator ego feels in any situation in which boundaries are dissolved, even the most pleasurable and natural of situations. The French notion of orgasm as petit mort perfectly encapsulates the fear and fascination that boundary-dissolving experiences hold for [[partnership-and-dominator-cultures-in-human-history]].
-
-Dominator culture has shown a remarkable ability to redesign itself to meet changing levels of technology and collective self-awareness. In all its manifestations, monotheism has been and remains the single most stubborn force resisting perception of the primacy of the natural world.
-
-## Power Versus Powerlessness
-
-Jean Baker Miller pointed out that the so-called need to control and dominate others is psychologically a function, not of a feeling of power, but of a feeling of powerlessness. Distinguishing between "power for oneself and power over others," she writes: "In a basic sense, the greater the development of each individual the more able, more effective, and less needy of limiting or restricting others she or he will be."
-
-The global triumph of Western values means we, as a species, have wandered into a state of prolonged neurosis because of the absence of a connection to the unconscious. The monstrous forces of scientific industrialism and global politics were conceived at the time of the shattering of the symbiotic relationships with the plants that had bound us to nature from our dim beginnings.
-
-This left each human being frightened, guilt-burdened, and alone. Existential man was born. Terror of being was the placenta that accompanied the birth of Christianity, the ultimate cult of domination by the unconstrained male ego.
-
-## See Also
-
-[[mckenna-archaic-revival]]
-
-[[mckenna-psychedelic-shamanism]]
+The generally hostile attitude of dominator society toward sexual expression can be traced to the terror that the dominator ego feels in any situation in which boundaries are dissolved, even the most pleasurable and natural of situations. The French notion of orgasm as petit mort perfectly encapsulates the fear and fascination that boundary-dissolving experiences hold for [[mckenna-archaic-revival]]
 
 [[tryptamine-consciousness-theory]]
 
-[[mckenna-ur-plant-hypothesis]]
-
 [[mckenna-mushroom-stones-of-guatemala]]
-- [[partnership-and-dominator-models]]
+- [[terence-mckenna]]
+- [[shamanism]]
+- [[partnership-society-vs-dominator-culture]]
+
+## Overview
+
+Dominator Culture And Partnership Society represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish dominator culture and partnership society
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving dominator extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
 
 ## Practical Applications
 
-The principles and techniques discussed here have wide-ranging applications
-across multiple disciplines and contexts. Practitioners and researchers
-continue to explore new ways to integrate these concepts into modern practice,
-adapting traditional knowledge to contemporary challenges and opportunities.
+Dominator Culture And Partnership Society finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
 
-## Key Considerations
+## Management and Implementation
 
-Several important factors influence the effectiveness and outcomes described
-in this topic. Understanding these considerations helps practitioners make
-informed decisions and avoid common pitfalls. Environmental conditions,
-timing, and material selection all play critical roles.
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for dominator culture and partnership society. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+dominator culture and partnership society and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
 
 ## Historical Context
 
-The historical development of this subject reflects centuries of accumulated
-knowledge and practical experience. From traditional methods passed down
-through generations to modern scientific approaches, the evolution continues
-to inform current best practices and research directions.
+Dominator Culture And Partnership Society has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
 
-## Common Challenges
+## Integration Strategies
 
-Practitioners frequently encounter several challenges when working with
-these concepts. Climate variability, resource limitations, and knowledge
-gaps can all affect outcomes. Addressing these challenges requires patience,
-observation, and a willingness to adapt approaches based on results.
+Successful integration of dominator culture and partnership society into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
 
 ## See Also
-- [[terence-mckenna]]
-- [[dom]]
-- [[shamanism]]
-- [[tryptamine]]
-- [[partnership-society-vs-dominator-culture]]
+
+- [[archaic-revival-partnership-vs-dominator-cultures]]
+- [[dominator-partnership-culture]]
+- [[mckenna-alcohol-vs-psychedelics-dominator-cultures]]
+- [[mckenna-partnership-dominator-culture-models]]
+- [[mckenna-television-dominator-drug]]

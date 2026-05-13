@@ -6,7 +6,7 @@ type: entity
 
 ## Description
 
-Soil colloids are stable aqueous suspensions of clay, organic, or polymer particles so fine they remain suspended unaffected by gravity. They form the active chemical sites in soil where ionic bonding, nutrient exchange, and water retention occur. Colloids and the gels they produce are the primary mechanism by which soils bind water and nutrients against leaching.
+[[soil-colloids]] are stable aqueous suspensions of clay, organic, or polymer particles so fine they remain suspended unaffected by gravity. They form the active chemical sites in soil where ionic bonding, nutrient exchange, and water retention occur. Colloids and the gels they produce are the primary mechanism by which soils bind water and nutrients against leaching.
 
 ## Classification
 
@@ -39,7 +39,7 @@ Soil colloids are stable aqueous suspensions of clay, organic, or polymer partic
 - Commercial products: Agrosoke, Ikedagel, Terrasorb (hydrophilic granules)
 - Most artificial gels are acrylic-based (acrylamide polymers) supplied as granules
 - Can absorb hundreds of times their weight in water
-- Applied at 6 kg/ha or more; water conservation claims of up to 50%
+- Applied at 6 kg/ha or more; [[water-conservation]] claims of up to 50%
 - Used in nursery plants, row crops, desert tree plantings, transplanting, and seed pelleting
 
 ### Colloid Destruction and Flocculation
@@ -53,19 +53,7 @@ Soil colloids are stable aqueous suspensions of clay, organic, or polymer partic
 
 ## Relevance to Cultivation and Mycology
 
-Soil colloids directly mediate nutrient availability to mycorrhizal fungi and plant roots. The ion exchange capacity of colloids determines how effectively nutrients are retained in the root zone versus being leached. In [[mushroom-substrate-preparation]], understanding colloid behaviour informs casing material selection: peat-based casings function partly through their colloidal properties, which regulate water availability and micro-environmental conditions for pin initiation. In tropical soils, most colloids exist as cellular gels in the biomass or as bacterial sheathing material, making biological soil management more critical than mineral amendment.
-
-## Sources
-
-- Mollison, B. (1988). Permaculture: A Designer's Manual. Tagari Publications.
-- Leeper, G.W. (1982). Introduction to Soil Science. Melbourne University Press.
-
-## Colloid Formation in Soils
-
-Mollison described soil colloids as the dynamic interface between mineral and
-organic soil fractions. These sub-micrometer particles carry negative surface
-charges that hold cations (Ca2+, Mg2+, K+, NH4+) against leaching, forming the
-soil's [[cation-exchange-capacity]].
+Soil colloids directly mediate nutrient availability to mycorrhizal fungi and plant roots. The ion exchange capacity of colloids determines how effectively nutrients are retained in the root zone versus being leached. In [[cation-exchange-capacity]].
 
 ## Gel-Surface Interactions
 
@@ -82,6 +70,81 @@ colloid-gel structures that take years to develop.
 
 ## See Also
 
-- [[bill-mollison-permaculture-a-designers-manual-soil-and-humus-management]]
 - [[query-what-are-root-exudates-and-how-do-they-shape-soil-life]]
 - [[query-what-are-ectomycorrhizal-fungi-and-which-plants-do-they-associate-with]]
+
+## Overview
+
+Soil Colloids And Gels Mollison represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish soil colloids and gels mollison
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving soil extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Soil Colloids And Gels Mollison finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for soil colloids and gels mollison. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+soil colloids and gels mollison and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Soil Colloids And Gels Mollison has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of soil colloids and gels mollison into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.

@@ -23,16 +23,13 @@ environments.
 Lichens represent a dual (or sometimes tripartite) organism where:
 
 - **The mycobiont** (usually an Ascomycete fungus) provides structure, protection from
-  desiccation and UV radiation, mineral acquisition, and [[mushroom-cultivation-jar-lid-management-loose-fit-vacuum-gas-exchange]] architecture
-- **The photobiont** ([[cervantes-green-algae-growing-medium]] and/or cyanobacteria) provides photosynthate (sugars) to
+  desiccation and UV radiation, mineral acquisition, and [[cervantes-green-algae-growing-medium]] and/or cyanobacteria) provides photosynthate (sugars) to
   the fungal partner
 - **The cyanobiont** (when present as a third partner) fixes atmospheric nitrogen,
   enabling lichens to colonize nitrogen-poor substrates
 
 The mycobiont controls the relationship and determines lichen morphology (crustose, foliose,
-or fruticose), [[soil-temperature-plant-growth-rate-doubling-rule]], and reproductive strategy. The photobiont exists within a layer
-of fungal tissue (the photobiont layer) sandwiched between an upper cortex and lower cortex
-of densely packed [[fungal-hyphae]].
+or fruticose), [[fungal-hyphae]].
 
 ## Poikilohydry: Life Without Water Regulation
 
@@ -55,8 +52,7 @@ equilibrates with atmospheric humidity. Key characteristics include:
 ### Atmospheric Humidity Absorption
 Lichens absorb water vapor directly from the atmosphere. Most species require a minimum
 relative humidity of 80-95% (corresponding to water potential of approximately -5 to -10 MPa)
-before significant [[arbuscule-isolation-metabolic-activity-assays]] resumes. The fungal medulla acts as a wick, drawing
-water from the surface throughout the thallus by [[capillary-action-in-soils]].
+before significant [[capillary-action-in-soils]].
 
 ### Liquid Water Uptake
 Rain, dew, fog, and meltwater provide liquid water that lichens absorb rapidly. The upper
@@ -118,8 +114,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[lichen-symbiosis]]
 - [[lichens]]
-- [[det]]
 - [[mycorrhizal-symbiosis-carbon-cycling-gadd]]
 - [[gadd-beetle-gut-fungal-symbiosis]]

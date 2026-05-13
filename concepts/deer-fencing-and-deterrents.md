@@ -19,7 +19,7 @@ Key factors influencing local deer pressure:
 - Proximity to wooded cover and travel corridors
 - Severity of the previous winter
 - Local predator population (coyotes, wolves, mountain lions)
-- [[fukuoka-critique-agricultural-development]] reducing natural habitat
+- Agricultural development reducing natural habitat
 - Hunting season pressure pushing deer into safe zones
 
 ## Physical Fencing Options
@@ -103,7 +103,7 @@ No plant is completely deer-proof, but many are strongly avoided. Incorporating 
 - Lavender, rosemary, thyme, sage
 - Daffodils, foxglove, bleeding heart
 - Yarrow, catmint, Russian sage
-- [[ornamental-grasses-guide]] (Miscanthus, Pennisetum)
+- Ornamental grasses (Miscanthus, Pennisetum)
 - Ferns, hellebores, lungwort
 
 **Moderately resistant (occasionally browsed when food is scarce):**
@@ -137,14 +137,14 @@ No plant is completely deer-proof, but many are strongly avoided. Incorporating 
 - Heavy browsing on evergreens and woody plants
 - Wrap young tree trunks with hardware cloth
 - Stack brush piles near fence lines to provide alternative forage
-- Consider temporary [[savory-supplemental-feeding-and-winter-management]] (where legal) to divert pressure
+- Consider temporary supplemental feeding (where legal) to divert pressure
 
 ## Integration with Homestead Design
 
 - Place high-value crops (vegetables, orchard) in the most protected zone
 - Use deer-resistant plants as a buffer zone around the garden perimeter
-- Combine fencing with [[homestead-permaculture-design]] [[mollison-course-zone-planning-and-design]] — intensive zones get the best fencing
-- [[cover-crop-quick-reference]] with deer-resistant species like winter rye or [[mushroom-compost]]
+- Combine fencing with [[homestead-permaculture-design]] zone planning — intensive zones get the best fencing
+- [[cover-crop-quick-reference]] with deer-resistant species like winter rye or crimson clover
 - Integrate livestock guardian dogs into your [[goat-husbandry]] plan for both deer and predator deterrence
 
 ## Related Concepts

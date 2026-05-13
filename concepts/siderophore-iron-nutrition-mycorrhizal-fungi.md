@@ -21,8 +21,7 @@ type: concept
 Mycorrhizal fungi produce specialized iron-chelating compounds called
 siderophores to acquire iron from soil environments where this essential
 nutrient is often poorly available. Research across the major mycorrhizal
-types has revealed distinct siderophore profiles: [[dighton-ericoid-mycorrhizal-nutrient-acquisition]]
-fungi primarily produce ferricrocin and fusigen, [[query-what-are-ectomycorrhizal-fungi-and-which-plants-do-they-associate-with]]
+types has revealed distinct siderophore profiles: [[query-what-are-ectomycorrhizal-fungi-and-which-plants-do-they-associate-with]]
 produce ferricrocin among other hydroxamates, and a novel siderophore
 called basidiochrome has been discovered in orchid mycorrhizal fungi.
 The iron acquisition strategies of mycorrhizal fungi have significant
@@ -45,9 +44,7 @@ cellular metabolism.
 Ericoid mycorrhizal fungi produce ferricrocin or fusigen as their main
 siderophores. These ascomycete fungi, which colonize plants in the
 Ericaceae family, operate in the acidic organic soils of heathlands and
-[[fungal-diversity-boreal-forests-taiga]] where iron chemistry is particularly complex. The
-production of ferricrocin and fusigen allows these fungi to access iron
-from [[hamilton-composting-and-organic-matter-management]] and mineral sources in their characteristic
+[[hamilton-composting-and-organic-matter-management]] and mineral sources in their characteristic
 habitats. The identification of these siderophores established that
 ericoid mycorrhizal fungi possess active iron acquisition mechanisms
 that may contribute to host plant iron nutrition.

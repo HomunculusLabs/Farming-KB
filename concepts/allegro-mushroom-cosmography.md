@@ -10,27 +10,7 @@ sources:
 
 # Mushroom Cosmography — The Universe as Fungus
 
-Allegro reveals that [[allegro-fertility-philosophy-of-the-ancient-near-east]] Eastern cosmography — the conceptual mapping of the universe — was modeled on the mushroom's anatomy. From individual sacred sites to the geography of the entire Mediterranean, the mushroom's form (volva, stem, canopy) provided the template for understanding the world.
-
-## The Mushroom Model of the Cosmos
-
-To the mushroom cosmographer, the universe was a gigantic fungus. At the base was the cup-shaped volva containing the waters of creation. The central pillar, variously identified with sacred mountains, supported the heavenly canopy. In sexual terms, the phallic stem stood in the vulva cup, raising the "burden" (canopy) to heaven. The whole formed a comprehensive model of the creative process.
-
-## Canaan: The Nuptial Couch of Heaven
-
-The land mass at the eastern end of the Mediterranean was understood as the earth's vaginal entrance. The mushroom, imagined horizontally lying on its side, has its canopy forming the curving sweep of the Palestinian coastline — the "crutch" of the earth, with Asia Minor as the northern "leg" and Egypt/North Africa as the southern "leg." For the Mesopotamian myth-maker, the sun plunged every evening into this "vulva" of the west.
-
-The biblical name Canaan (Hebrew Kena'an) derives from Sumerian "nuptial couch of heaven." The offshore island of Cyprus was reckoned as a "glans" poised for entry into the Canaanite womb — its name (Greek Kupros) deriving from Sumerian "head of the erect penis."
-
-## Jerusalem: The Uterus of the World
-
-In any population centre practicing fertility religion, the palace-temple was the seat of the god's creative activity — the "uterus" to be fertilized by his presence. The topography and nomenclature of Jerusalem/Zion must be understood in these terms.
-
-The Temple site was placed on "the threshing floor of Araunah" (II Sam 24:15ff). The Hebrew word for threshing floor means originally "seed-container." Araunah's name means "pounder of the womb" — the phallus grinding ingredients in the uterine "mortar." The centre of the earth, the "navel," was portrayed in the Church of the Holy Sepulchre, as at Delphi in classical times.
-
-## Zion, the Valleys, and the Birth Canal
-
-South of the Temple lay the Jebusite stronghold of Zion proper — the mons veneris of the city. On its south-western flank was the Pool of Siloam ("place of washing"). Below Zion, the valley of the "sons of Hinnom" — from Sumerian "penis-sheath" ("vagina") — combined with the Kidron valley, running down to the [[allegro-dead-sea-scrolls-and-early-christian-sects]] basin, the bowels of the earth.
+Allegro reveals that [[allegro-dead-sea-scrolls-and-early-christian-sects]] basin, the bowels of the earth.
 
 This gorge was the original "valley of the shadow of death" (Psalm 23:4). The real meaning of the Sumerian original is "way of birth" — "birth canal." The Psalmist's concern that his shepherd-god should guide him by "rod and staff" through the valley takes on new meaning: as a baby needs the midwife's firm hand pressed through the vagina, so the mystic needed God's guidance through the experience of re-birth.
 
@@ -50,16 +30,13 @@ The Phoenix, the Pillar, the Cross, the Ladder — all these cosmic symbols conv
 
 ## Scholarly Significance and Criticism
 
-Allegro's interpretation of [[allegro-death-and-resurrection-in-the-mushroom-cult]] mythology as mushroom-derived remains one of the most contested aspects of [[allegro-philological-methodology]] underlying these claims has been heavily criticized by mainstream scholars
+Allegro's interpretation of [[allegro-philological-methodology]] underlying these claims has been heavily criticized by mainstream scholars
 
 ## See Also
 
-- [[allegro-philological-methodology]]
 - [[allegro-fungal-iconography-in-ancient-art]]
 - controversy-sacred-mushroom-theory
-- [[sacred-mushroom-and-the-cross]], which proposed that the major religions of the ancient [[ancient-cannabis-use-near-east-and-egypt]] Mediterranean world were ultimately derived from a proto-historical [[african-mushroom-cult-history]]. While this thesis has not gained acceptance in mainstream scholarship, it continues to be discussed in the field of entheogenic studies and has influenced contemporary debates about the role of psychoactive substances in the development of religious ideas.
-
-The question of whether ancient peoples used psychoactive mushrooms in religious contexts is separate from the question of whether Allegro's specific philological claims are correct. Archaeological evidence for psychoactive plant use in antiquity has grown substantially since Allegro's work was published, and the [[psychedelic-therapy-current-research]], has renewed interest in the historical relationship between psychoactive substances and religious experience. While Allegro's specific claims about Sumerian and Hebrew philology remain controversial, his broader argument that psychoactive plants played a significant role in the development of human religious consciousness has found new support from researchers investigating the neuroscience of mystical experience and the anthropology of shamanism.
+- [[ancient-cannabis-use-near-east-and-egypt]] Mediterranean world were ultimately derived from a proto-historical [[psychedelic-therapy-current-research]], has renewed interest in the historical relationship between psychoactive substances and religious experience. While Allegro's specific claims about Sumerian and Hebrew philology remain controversial, his broader argument that psychoactive plants played a significant role in the development of human religious consciousness has found new support from researchers investigating the neuroscience of mystical experience and the anthropology of shamanism.
 
 ## Cultivation Applications
 
@@ -109,8 +86,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[doc]]
 - [[shamanism]]
-- [[mystical-experience]]
 - [[allegro-mushroom-cosmography-jerusalem-zion-gehenna]]
 - [[allegro-key-of-the-kingdom-and-peter-as-mushroom]]

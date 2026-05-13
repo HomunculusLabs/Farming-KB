@@ -39,47 +39,9 @@ spirit is matter. Both are one.
 Nature provided man with a vast array of foods. Discerning what he thought were
 good and bad qualities, he picked and chose, thinking he had to create
 harmonious combinations. This has been the root of his errors. Human knowledge
-can never compare with the greatness of the [[fukuoka-textdoc-natural-order-food-chain-unity]]. The colors of
-nature remain constant and immutable, but to man they appear to change as
-readily as hydrangea blossoms.
-
-## Flavor: Beyond the Tip of the Tongue
-
-People say, "You cannot know what something tastes like unless you try it."
-Yet a food may taste good or bad depending on when and where it is eaten. The
-scientist analyzes ingredients and investigates correlations between minerals
-and the five tastes, but flavor cannot be understood by relying on chemical
-analysis or sensations at the tip of the tongue.
-
-Even were the five tastes perceived by five different organs, a person would
-be unable to sense true flavor if his instincts themselves were confused.
-Instinct does not investigate instinct; wisdom does not turn back and
-scrutinize itself.
-
-## The Lost Sense of Flavor
-
-Evidence that the human sense of flavor has gone haywire: people today chase
-after flavor because they have lost it. If this sense were intact, they would
-judge accurately for themselves. Natural man gathers his food without
-discrimination, his instincts are intact so he eats properly in accordance
-with natural laws. Modern man bases his judgments on mistaken knowledge and
-searches about with his five deranged senses.
-
-Man has become spiritually alienated from food. True flavor can be perceived
-only with the five senses, the mind, and the spirit. Flavor must be in
-consonance with the spirit. People who think that flavor originates in the
-food itself eat only with the tip of the tongue and so are easily deceived.
-
-## The White Rice Delusion
-
-An adult who has lost his instinctive sense of taste no longer appreciates the
-taste of rice. He eats white rice prepared by polishing [[cho-brown-rice-vinegar-preparation]] to remove
+can never compare with the greatness of the [[cho-brown-rice-vinegar-preparation]] to remove
 the bran. To make up for the loss, he adds meat sauce or eats it with
-sashimi. [[fukuoka-tasty-rice-illusion-food-processing]] thus becomes rice that is easy to flavor and season, and
-people delude themselves into thinking of white rice as high-grade rice.
-
-Nowadays people believe that protein is protein and vitamin B is vitamin B
-regardless of where they come from. But [[smoking-meat-and-fish]] have gone the same route
+sashimi. [[smoking-meat-and-fish]] have gone the same route
 as rice. Meat is no longer meat and fish no longer fish. Refinements in
 flavoring with petroleum-derived protein have created people unaware that
 their entire diet has been converted into an artificial diet.
@@ -118,8 +80,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[doc]]
 - [[dom]]
-- [[det]]
 - [[fukuoka-textdoc-trajectory-hothouse-agriculture-to-total-food-synthesis]]
 - [[fukuoka-textdoc-diet-of-the-sick-returning-nature]]

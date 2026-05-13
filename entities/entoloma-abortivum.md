@@ -30,16 +30,8 @@ sources:
 ## Overview
 
 *Entoloma abortivum*, commonly known as the aborted entoloma or shrimp of
-the woods, is an [[bloomfield-boletus-satanus-edible-mushroom-hazards]] in the family Entolomataceae. It is most
-notable for its unusual parasitic relationship with *[[armillaria-mellea-entity]]*
-(honey fungus), which causes some [[bloomfield-asterophora-and-mycoparasites-of-fruiting-bodies]] to develop as deformed,
-irregular masses called "aborted" forms. These aborted specimens are
-considered choice edibles with a flavor often compared to shrimp,
-hence the common name.
-
-The species was first described by Lewis David von Schweinitz in 1822 and
-later transferred to the genus *Entoloma* by Miles Joseph Berkeley in
-1859. It is widely distributed across [[polypore-fungi-eastern-north-america]] and parts of
+the woods, is an [[armillaria-mellea-entity]]*
+(honey fungus), which causes some [[polypore-fungi-eastern-north-america]] and parts of
 Europe, fruiting from late summer through autumn.
 
 ## Taxonomy and Morphology
@@ -58,10 +50,7 @@ before turning pinkish as spores mature. The stipe is 4–10 cm tall,
 Aborted forms are irregular, contorted masses 3–15 cm across, lacking any
 discernible cap, gills, or stipe structure. Their surface is white to
 pale gray, and the interior is solid and marbled. These aborted forms are
-the result of *Armillaria mellea* [[bloomfield-turgor-pressure-and-hyphal-invasion]] disrupting normal
-development.
-
-[[comparison-spore-print-collection-vs-spore-syringe-production]] is pinkish. Spores are angular to ellipsoid, measuring
+the result of *Armillaria mellea* [[comparison-spore-print-collection-vs-spore-syringe-production]] is pinkish. Spores are angular to ellipsoid, measuring
 7.5–10.5 × 6–8 µm, with 5–7 angles, which is characteristic of the
 genus *Entoloma*.
 
@@ -73,18 +62,88 @@ occurs in parts of Europe, though it is less commonly reported there.
 
 The species is strongly associated with *Armillaria mellea* and is
 typically found at the base of hardwood trees, particularly oak (*Quercus*
-spp.), maple (*Acer* spp.), and beech (*[[fagus-grandifolia]]*). It fruits
-on or near decaying roots, stumps, and buried wood from August through
-November, often in the same locations year after year.
-
-Both normal and aborted forms can be found fruiting together, and the
-aborted form is often more abundant than the normal mushroom in a given
-location.
-
-## Ecology
-
-The aborted entoloma's most distinctive ecological feature is its
-parasitic interaction with honey fungus (*Armillaria mellea*). Research
-has established that *E. abortivum* actively parasitizes *A. mellea*
-rhizomorphs and [[comparison-fruiting-body-vs-mycelium-extracts-medicinal-mushrooms]] primordia. When *Entoloma* hyphae invade
+spp.), maple (*Acer* spp.), and beech (*[[comparison-fruiting-body-vs-mycelium-extracts-medicinal-mushrooms]] primordia. When *Entoloma* hyphae invade
 developing *Armillaria* mushrooms, they disrupt cellular organization,
+
+## Overview
+
+Entoloma Abortivum represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish entoloma abortivum
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving entoloma extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Entoloma Abortivum finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for entoloma abortivum. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+entoloma abortivum and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Entoloma Abortivum has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of entoloma abortivum into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[entoloma-hochstetteri]]
+- [[entoloma-rhodopolium]]
+- [[entoloma-sinuatum]]

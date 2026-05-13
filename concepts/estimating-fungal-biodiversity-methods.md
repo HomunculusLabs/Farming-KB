@@ -1,6 +1,6 @@
 ---
 title: Estimating Fungal Biodiversity Methods and Challenges
-aliases: [[fungal-species-estimation-methods-total-diversity]], fungal diversity assessment, unknown fungi, mycological survey methods]
+aliases: fungal-species-estimation-methods-total-diversity, fungal diversity assessment, unknown fungi, mycological survey methods]
 tags: [mycology, biodiversity, fungal-ecology, survey-methods, species-estimation, ecology]
 source: biodiversity-of-fungi.md
 created: 2026-05-11
@@ -23,7 +23,7 @@ The number of described fungal species stands at approximately 74,000–120,000,
 1. **Cryptic lifestyle**: Most fungi live as microscopic mycelium hidden in soil, wood, or host tissue, visible only when fruiting (which may last hours to days).
 2. **Ephemeral fruiting**: Many species fruit only sporadically — some once every several years.
 3. **Microscopic diversity**: A significant proportion are known only from cultures or molecular detections and have never been observed in nature.
-4. **Undersampled habitats**: [[fungal-biodiversity-tropical-forests]] likely harbor the greatest fungal diversity but have been surveyed far less than [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]].
+4. **Undersampled habitats**: [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]].
 5. **Taxonomic expertise shortage**: Declining numbers of trained mycological taxonomists create a bottleneck in species description.
 
 ## Methods for Estimating Fungal Diversity
@@ -58,37 +58,7 @@ The ATBI concept, developed for the Guanacaste Conservation Area in Costa Rica, 
 
 ### Expected Species Richness
 
-Based on existing data from well-surveyed temperate sites, the relationship between fungal and plant diversity is approximately 6:1 (six fungal species per plant species). A temperate forest with 400 native plant species might support 2,400–3,000 fungal species. Tropical forests, with higher plant diversity and more complex [[king-stropharia-ecological-interactions-permaculture]], likely support significantly higher fungal diversity, but comprehensive data are lacking.
-
-## Ratio-Based Estimation Methods
-
-### Fungal:Plant Species Ratios
-
-The most widely used method for estimating global fungal diversity extrapolates from the ratio of fungal to plant species in well-surveyed areas:
-
-1. Count the number of fungal species known from a well-surveyed site (e.g., 2,000 species from a temperate forest)
-2. Count the number of plant species at the same site (e.g., 300 species)
-3. Calculate the ratio (approximately 6.7:1 in this example)
-4. Apply the ratio to the global number of described plant species (approximately 400,000)
-5. Estimate total fungal species: 400,000 × 6.7 ≈ 2.7 million
-
-This method assumes that the fungal:plant ratio is relatively constant across biomes, which is almost certainly not true. Tropical ratios may be significantly higher due to greater host specificity and more complex ecological interactions.
-
-### Host-Specificity Corrections
-
-Many fungi, especially endophytes and plant pathogens, are specific to particular host species. For these groups, diversity can be estimated by multiplying the number of host species by the average number of fungal species per host:
-
-- Endophytic fungi: 5–20+ species per host plant species
-- Foliar pathogens: 1–5 species per host species
-- Root-associated fungi: 10–50+ species per host species
-
-These host-specific estimates suggest that fungal diversity associated with plants alone may exceed 5 million species globally.
-
-## Challenges in Standardization
-
-### Lack of Standard Protocols
-
-As emphasized in *Biodiversity of Fungi*, one of the greatest obstacles to meaningful comparison between fungal diversity studies is the absence of standardized [[lichen-biodiversity-sampling-protocols-data-analysis]]. Different studies use different:
+Based on existing data from well-surveyed temperate sites, the relationship between fungal and plant diversity is approximately 6:1 (six fungal species per plant species). A temperate forest with 400 native plant species might support 2,400–3,000 fungal species. Tropical forests, with higher plant diversity and more complex [[lichen-biodiversity-sampling-protocols-data-analysis]]. Different studies use different:
 
 - Sampling methods (fruiting body collection, culturing, DNA analysis)
 - Effort levels (number of visits, person-hours, number of samples)
@@ -116,6 +86,4 @@ Automated image recognition systems are being developed for fungal identificatio
 
 ## See Also
 
-- mycorrhizal fungi ecosystem function — The role of [[plants-without-mycorrhizal-associations]]
-- fungal inventory protocols — Standardized field survey methods
-- [[endophytic-fungi-plant-interactions]] — Fungi living inside plant tissues
+- [[mycorrhizal-fungi-ecosystem-function]] — The role of [[endophytic-fungi-plant-interactions]] — Fungi living inside plant tissues

@@ -15,23 +15,16 @@ Grasshopper plagues are among the most visible and economically damaging
 symptoms of ecosystem dysfunction on rangelands and croplands. Savory's
 framework reinterprets insect outbreaks not as random events requiring
 chemical intervention, but as predictable consequences of simplified
-biological communities and degraded [[savory-water-cycle-management]] exacerbates moisture fluctuations. Dry, warm
-soil conditions from [[savory-bare-ground-and-soil-exposure]] are ideal for grasshopper egg
+biological communities and degraded [[savory-bare-ground-and-soil-exposure]] are ideal for grasshopper egg
 survival. The damaged water cycle is as important as weather in
 determining breeding success, yet many entomologists fail to consider
 it in their predictions.
 
 ## Overgrazing, Partial Rest, and Outbreaks
 
-The same two factors that drive [[savory-seed-establishment-and-plant-recruitment]]
-
-- [[fukuoka-textdoc-no-cause-and-effect-in-nature]] guideline - Testing root causes
-- plant [[savory-plant-succession-and-community-dynamics]] dynamics - Community complexity
-- brittle environments - Why outbreaks are worst in brittle areas
-- [[savory-water-cycle-management]] - Water cycle and breeding success
-- [[cervantes-biological-pest-control-predators]] control and succession - Biological approaches
-
-See also: [[pasture-management-and-forage]]
+The same two factors that drive [[fukuoka-textdoc-no-cause-and-effect-in-nature]] guideline - Testing root causes
+- plant [[savory-water-cycle-management]] - Water cycle and breeding success
+- [[pasture-management-and-forage]]
 ## Practical Applications
 
 Grasshopper and Insect Outbreaks has a range of practical applications that make it relevant to

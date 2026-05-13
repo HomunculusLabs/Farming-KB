@@ -109,13 +109,8 @@ Urban expansion and agricultural development have caused local declines in some 
 
 ## See Also
 
-- [[adromischus-cristatus]]
 - [[crassula-ovata]]
-- [[haworthia-fasciata]]
 - [[gasteria-verrucosa]]
-- [[cotyledon-orbiculata]]
 - [[tylecodon-reticulatus]]
-- [[aeonium-arboreum]]
 - [[echeveria-elegans]]
-- [[sedum-rupestre]]
 - [[portulacaria-afra]]

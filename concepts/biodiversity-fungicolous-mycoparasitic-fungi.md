@@ -7,66 +7,11 @@ updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/unknown-biodiversity-of-fungi.md]
 type: concept
 ---
-# Fungicolous and Mycoparasitic Fungi [[fungal-biodiversity]], with species distributed across all
-major fungal phyla. The study of fungicolous fungi is critical for
-understanding [[air-pollution-fungal-community-responses]] dynamics, [[schizophyllum-commune]] is a potent
-mycoparasite of many plant-pathogenic fungi, coiling around and
-penetrating host hyphae. Athelia arachnoidea is a common corticiaceous
-species that overgrows and kills epiphytic lichens, and can destroy
-whole lichen communities especially in areas with significant air
-pollution. Among boletes and agarics, host-specific associations are
-found in Asterophora and Squamanita.
-
-## Ecological Strategies
-
-Fungicolous fungi employ diverse mechanisms to exploit fungal hosts.
-Biotrophic contact mycoparasites such as Gonatobotrys simplex grow on
-Alternaria and Cladosporium species, contacting hosts via fingerlike
-branches. Some require mycotrophein, a mixture found in [[biodiversity-fungal-culture-preservation]]
+# Fungicolous and Mycoparasitic Fungi [[air-pollution-fungal-community-responses]] dynamics, [[biodiversity-fungal-culture-preservation]]
 extracts, for axenic growth. Necrotrophic mycoparasites like
-[[ceratocystis-fimbriata]]. Trichoderma species
-produce volatile inhibitors, peptaibols, and cell wall-degrading enzymes
-that cause host cell vacuolization, collapse, and disintegration.
-
-## Fungi on Sporocarps of Other Fungi (SCIF)
-
-A well-studied group includes fungi growing on fresh or decaying
-sporocarps of macromycetes. These SCIF are mainly ascomycetes or their
-anamorphs but include many Basidiomycota, especially Tremellales. They
-are gradually replaced during succession by saprotrophic Penicillium and
-Cladosporium species not specialized to the substratum. Myxomycete
-sporangia are colonized by specialized myxomyceticolous fungi including
-Gliocladium album and Nectriopsis violacea on Physarales, and Aphanocladium
-album and Byssostilbe stilbigera on noncalcareous myxomycetes.
-
-## [[biodiversity-powdery-mildews]], (4) mycelia, sclerotia, and spores in
-soil, and (5) [[bloomfield-ingoldian-aquatic-fungi-spore-dispersal]] and fungus-like microorganisms. Polyphagous
-fungicolous fungi including Clonostachys rosea, Trichoderma species, and
-Acremonium strictum can colonize many kinds of Ascomycota and
-Basidiomycota. Specialized fungicolous fungi often show narrow host
-ranges, reflecting coevolutionary relationships with their hosts.
-
-## Biocontrol Applications
-
-Several fungicolous fungi have been investigated as biocontrol agents.
-[[coniothyrium-minitans]] parasitizes sclerotia of
-[[sclerotinia-sclerotiorum]]. Lecanicillium species show high chitinase
-activity and potential as entomogenous, nematophagous, and fungicolous
-biocontrol agents. Hansfordia (Dicyma) pulvinata is a destructive parasite
-on Cercospora and Passalora species, using a fungistatic sesquiterpene
-metabolite, deoxyphomenone, to kill host structures.
-
-## Collection and Study Methods
-
-Collecting fungicolous fungi requires careful observation of fungal
-sporocarps in the field, looking for deformations, color changes, or
-overgrowth on potential host fungi. Both the host and parasite should
-be collected whenever possible. Insecticidal fogging can be used to
-collect fungicolous fungi from tree canopies where they grow on
-
-## See Also
-
-- [[fungicolous-fungi-spores-sclerotia-oospores]]
+[[biodiversity-powdery-mildews]], (4) mycelia, sclerotia, and spores in
+soil, and (5) [[coniothyrium-minitans]] parasitizes sclerotia of
+[[fungicolous-fungi-spores-sclerotia-oospores]]
 
 ## Practical Considerations
 
@@ -116,8 +61,90 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[fungicolous-fungi]]
 - [[acremonium-strictum]]
-- [[clonostachys-rosea]]
 - [[spore]]
 - [[lichens]]
+
+## Overview
+
+Biodiversity Fungicolous Mycoparasitic Fungi represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish biodiversity fungicolous mycoparasitic fungi
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving biodiversity extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Biodiversity Fungicolous Mycoparasitic Fungi finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for biodiversity fungicolous mycoparasitic fungi. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+biodiversity fungicolous mycoparasitic fungi and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Biodiversity Fungicolous Mycoparasitic Fungi has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of biodiversity fungicolous mycoparasitic fungi into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[biodiversity-fungal-molecular-identification-dna-barcoding]]
+- [[dighton-soil-fungal-biodiversity-assessment]]
+- [[fungal-biodiversity-tropical-ecosystems]]
+- [[fungi-in-the-environment-fungal-biodiversity]]

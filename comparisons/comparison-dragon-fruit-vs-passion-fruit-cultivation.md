@@ -24,13 +24,11 @@ Purple passion fruit tolerates cooler conditions than yellow, making the purple 
 
 ## Soil Requirements
 
-Dragon fruit tolerates poor, sandy, or rocky soils better than most fruit crops, owing to its cactus ancestry and efficient CAM (Crassulacean Acid Metabolism) photosynthesis. It is sensitive to waterlogging — root rot (*Phytophthora* spp.) is the most common cause of plant death in commercial plantings. Slightly acidic to neutral pH (5.5–7.0) is acceptable. Sandy loam with added [[hamilton-composting-and-organic-matter-management]] and excellent drainage is ideal. [[cervantes-organic-amendments-chart]] (compost, aged manure) should be applied at planting and annually as a surface mulch.
+Dragon fruit tolerates poor, sandy, or rocky soils better than most fruit crops, owing to its cactus ancestry and efficient CAM (Crassulacean Acid Metabolism) photosynthesis. It is sensitive to waterlogging — root rot (*Phytophthora* spp.) is the most common cause of plant death in commercial plantings. Slightly acidic to neutral pH (5.5–7.0) is acceptable. Sandy loam with added [[cervantes-organic-amendments-chart]] (compost, aged manure) should be applied at planting and annually as a surface mulch.
 
 Passion fruit requires deeper, more fertile soil for sustained high yields. It prefers well-drained sandy loam to clay loam with pH 5.5–6.5. The root system is relatively shallow (top 40 cm), making it vulnerable to both waterlogging and nematode damage. Heavy clay soils require raised beds or mounding to ensure adequate drainage. Regular fertilization with balanced NPK and micronutrients (especially boron and calcium) is essential for continuous flowering and fruit quality.
 
-## [[water-management]]
-
-[[soil-testing]] should guide fertilization programs to avoid nutrient imbalances.
+## [[soil-testing]] should guide fertilization programs to avoid nutrient imbalances.
 
 ## Support and Trellis Needs
 
@@ -40,13 +38,7 @@ Passion fruit requires a strong wire trellis system. A two-wire horizontal trell
 
 ## Propagation Methods
 
-Dragon fruit is almost exclusively propagated from stem cuttings (20–40 cm segments), which root readily in well-drained media within 2–4 weeks. Cuttings should be cured (dried 2–7 days in shade) before planting to prevent rot. Cuttings fruit faster than seedlings and maintain clonal characteristics of the parent. Seed propagation is used mainly in breeding programs but results in high genetic variability and delays fruiting by 2–3 additional years. [[comparison-seed-saving-techniques-vs-tissue-culture-cloning]] is emerging for large-scale commercial propagation of disease-free planting material.
-
-Passion fruit can be propagated by seed, cuttings, or grafting. Seed-grown plants show genetic variability and may take longer to fruit. Hardwood cuttings root with hormone treatment and produce true-to-type plants. Grafting onto resistant rootstocks (e.g., *P. caerulea* or yellow passion fruit rootstock) is standard in commercial settings to manage soil-borne diseases like Fusarium wilt.
-
-## Time to First Harvest
-
-Dragon fruit typically begins bearing 12–18 months after planting cuttings, with full production reached by year 3–4. It produces multiple flushes per [[savory-growing-season-and-non-growing-season-management]], often 4–6 rounds of flowering and fruiting. Individual flowers open at night and require pollination within hours. This extended establishment period is offset by the crop's decades-long productive lifespan, making it a sound long-term investment.
+Dragon fruit is almost exclusively propagated from stem cuttings (20–40 cm segments), which root readily in well-drained media within 2–4 weeks. Cuttings should be cured (dried 2–7 days in shade) before planting to prevent rot. Cuttings fruit faster than seedlings and maintain clonal characteristics of the parent. Seed propagation is used mainly in breeding programs but results in high genetic variability and delays fruiting by 2–3 additional years. [[savory-growing-season-and-non-growing-season-management]], often 4–6 rounds of flowering and fruiting. Individual flowers open at night and require pollination within hours. This extended establishment period is offset by the crop's decades-long productive lifespan, making it a sound long-term investment.
 
 Passion fruit vines fruit faster, typically 9–12 months from planting. They reach peak production in year 2 and may decline sharply by year 3–5, requiring replanting. This shorter productive lifespan is a key distinction and affects long-term financial planning for commercial operations.
 
@@ -54,11 +46,7 @@ Passion fruit vines fruit faster, typically 9–12 months from planting. They re
 
 Most commercial dragon fruit cultivars are self-fertile, but some red-fleshed types require cross-pollination by moths or bats in their native habitat. In areas where natural pollinators are absent, hand pollination with a brush during the night-blooming window can improve fruit set, fruit size, and seed count.
 
-Passion fruit pollination requirements vary by cultivar. Purple passion fruit is generally self-fertile. Yellow passion fruit often benefits from cross-pollination by bees, carpenter bees, or hand pollination. Insufficient pollination results in misshapen or undersized fruit. Maintaining [[fusarium-oxysporum]]* f. sp. *passiflorae*) is a devastating soil-borne disease, best managed by resistant rootstocks, crop rotation, and soil solarization.
-
-## Pruning Needs
-
-Dragon fruit requires moderate pruning: removing damaged, diseased, or overcrowded stems, and thinning to improve [[stamets-growing-room-air-circulation-co2-management]] and light penetration. Post-harvest pruning of spent flowering branches encourages new growth. Old, unproductive stems should be removed to make room for vigorous young growth. Annual pruning sessions are typically sufficient. Pruning tools should be sanitized between plants to prevent disease transmission, especially for stem canker.
+Passion fruit pollination requirements vary by cultivar. Purple passion fruit is generally self-fertile. Yellow passion fruit often benefits from cross-pollination by bees, carpenter bees, or hand pollination. Insufficient pollination results in misshapen or undersized fruit. Maintaining [[stamets-growing-room-air-circulation-co2-management]] and light penetration. Post-harvest pruning of spent flowering branches encourages new growth. Old, unproductive stems should be removed to make room for vigorous young growth. Annual pruning sessions are typically sufficient. Pruning tools should be sanitized between plants to prevent disease transmission, especially for stem canker.
 
 Passion fruit demands frequent and heavy pruning. Vines are thinned to 1–2 strong leaders per plant. Lateral shoots are managed to prevent overcrowding on the trellis wire — excess lateral growth reduces airflow and increases disease incidence. Pruning after each harvest cycle and annual renovation cuts are standard. Unpruned passion fruit becomes an unmanageable tangle with poor fruit production and elevated disease pressure. A well-maintained trellis should have open canopy structure allowing light penetration and air movement through the vine.
 
@@ -79,3 +67,84 @@ Passion fruit is calorie-denser (≈97 kcal/100 g) and rich in dietary fiber (�
 - [[comparison-guava-vs-passion-fruit-cultivation]]
 
 > Both options offer unique advantages depending on climate, available materials, and intended use.
+
+## Overview
+
+Comparison Dragon Fruit Vs Passion Fruit Cultivation represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish comparison dragon fruit vs passion fruit cultivation
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving comparison extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Comparison Dragon Fruit Vs Passion Fruit Cultivation finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for comparison dragon fruit vs passion fruit cultivation. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+comparison dragon fruit vs passion fruit cultivation and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Comparison Dragon Fruit Vs Passion Fruit Cultivation has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of comparison dragon fruit vs passion fruit cultivation into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[comparison-beeswax-vs-shellac-vs-carnauba-wax]]

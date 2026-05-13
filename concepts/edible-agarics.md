@@ -27,7 +27,7 @@ in greenhouses and flower beds, requiring more completely fermented
 compost and higher temperature. *A. placomyces* is a woodland species
 found from early summer until late fall, with a large, flat, thin cap.
 *A. silvicola*, an inhabitant of woods, is almost pure white.
-The commercial [[agaricus-bisporus]] ([[growing-gourmet-button-mushroom-agaricus-cultivation]]) is the most
+The commercial [[growing-gourmet-button-mushroom-agaricus-cultivation]]) is the most
 widely cultivated fungus worldwide, descended from wild Agaricus
 species originally foraged in open fields and meadows.
 
@@ -35,12 +35,7 @@ species originally foraged in open fields and meadows.
 
 The genus *Coprinus* is characterized by the deliquescence of gills
 and other parts to an inky black liquid when fully mature.
-*C. comatus*, the [[growing-gourmet-shaggy-mane-coprinus-cultivation]], is often 6 to 8 inches tall and
-considered one of the best fungi. *C. atramentarius*, the true Ink-Cap,
-is smaller and slaty gray, found in clusters about sidewalks.
-*C. micaceus* is smaller still, often covering several square feet
-about old stumps. All three are recommended for the table.
-Important: *[[bloomfield-coprine-disulfiram-alcohol-reaction-coprinus-atramentarius]]* causes severe reactions when
+*C. comatus*, the [[bloomfield-coprine-disulfiram-alcohol-reaction-coprinus-atramentarius]]* causes severe reactions when
 consumed with alcohol due to coprine, a compound that inhibits
 acetaldehyde dehydrogenase. This interaction can persist for several
 days after mushroom consumption.
@@ -75,18 +70,8 @@ The genus *Amanita* contains the most deadly poisonous species, but
 also some excellent edible ones. The identification of the volva (cup
 at the stem base) and annulus (ring on the stem) is essential.
 *A. phalloides* is the Death Angel, extremely poisonous.
-*A. muscaria* is the handsome [[amanita-muscaria-fly-agaric-history-and-pharmacology]], also poisonous.
-*A. Caesarea*, the Royal Agaric, is regarded as a great delicacy but
-should be omitted by amateur collectors.
-
-### Pleurotus
-
-*P. ostreatus*, the [[oyster-mushroom]], grows in clusters on decaying
+*A. muscaria* is the handsome [[oyster-mushroom]], grows in clusters on decaying
 trunks and logs. The gills are strongly decurrent. It is found from
-[[coleman-overwintered-onions-and-early-spring-crops]] until frost. No species of *Pleurotus* are even suspicious,
-though the flavor is not regarded as among the best. *P. ulmarius* has
-a more definite stem, and *P. sapidus* is distinguished by
-lilac-tinted spores.
 [[cultivation-of-oyster-mushrooms]] are among the easiest edible fungi to cultivate at
 
 ## Practical Applications
@@ -118,8 +103,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[spore]]
 - [[amanita]]
-- [[edible-wild-mushrooms-by-region]]
 - [[perennial-vegetables]]
 - [[edible-mushroom-families-boleti-russula-lactarius-clavaria-puffballs-palmer]]

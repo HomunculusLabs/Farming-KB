@@ -30,34 +30,9 @@ Mechanical weathering alone is generally insufficient to explain the full extent
 
 Fungi secrete a wide range of low-molecular-weight organic acids that are primary agents of mineral dissolution:
 
-- **Oxalic acid**: The most commonly produced fungal acid, oxalate forms strong soluble complexes with calcium, iron, and aluminum. Calcium [[fungal-calcium-oxalate-crystals]] (weddellite and whewellite) are frequently observed on fungal-colonized mineral surfaces and represent a major pathway for calcium mobilization from silicate and carbonate minerals.
-- **Citric acid**: A tricarboxylic acid that chelates divalent and trivalent metal cations, citric acid is particularly effective at solubilizing phosphorus from phosphate minerals and iron from iron-bearing silicates.
-- **Gluconic acid**: Produced by many fungi during glucose metabolism, gluconic acid contributes to mineral dissolution through proton release and metal complexation.
-- **Malic, succinic, and fumaric acids**: These dicarboxylic acids supplement the primary weathering agents, particularly under nutrient-limited conditions where fungi upregulate organic acid excretion.
+- **Oxalic acid**: The most commonly produced fungal acid, oxalate forms strong soluble complexes with calcium, iron, and aluminum. Calcium [[crystal-structure-and-crystal-defects]] accelerates dissolution, releasing both iron and associated cations.
 
-### Proton-Promoted Dissolution
-
-In addition to forming metal-organic complexes, organic acids release protons that directly attack mineral surfaces through proton-promoted dissolution. The hydrogen ion displaces structural cations (Ca²⁺, Mg²⁺, K⁺, Na⁺, Fe²⁺/³⁺) from mineral lattices, weakening crystal structures and releasing soluble ions into solution. This mechanism is analogous to — but typically far more effective than — abiotic acid rain weathering.
-
-### Chelation and Ligand-Promoted Dissolution
-
-Fungal exudates include a variety of chelating agents — siderophores, organic acids, and specific metal-binding peptides — that form soluble complexes with metal cations at mineral surfaces. By removing structural cations from the mineral lattice, these ligands accelerate dissolution beyond what proton attack alone could achieve. The combined action of proton-promoted and ligand-promoted dissolution is synergistic.
-
-### Extracellular Enzymes
-
-Some fungi produce extracellular enzymes that directly attack mineral structures. Laccases, peroxidases, and other oxidative enzymes can oxidize structural Fe(II) to Fe(III) in silicate minerals, destabilizing the crystal lattice. Phosphatases released by fungi and their associated bacterial communities solubilize organic phosphorus from mineral-adsorbed forms.
-
-### Mineral-Specific Weathering Patterns
-
-Different mineral types are weathered at different rates and through different dominant mechanisms:
-
-- **Feldspars**: The most abundant minerals in Earth's crust, feldspars weather primarily through proton-promoted and ligand-promoted dissolution. Oxalic and citric acids attack the aluminum-silicon framework, releasing K⁺, Na⁺, and Ca²⁺ while leaving behind secondary clay minerals (kaolinite, halloysite). This transformation — feldspar to clay — is the single most important mineralogical change in soil formation.
-
-- **Micas and clay minerals**: Biotite and other mica-group minerals are weathered through oxidation of structural iron and interlayer cation exchange. Fungal exudates strip potassium from between the silicate layers, expanding the crystal lattice and transforming mica into vermiculite and eventually smectite clays with greatly increased cation exchange capacity.
-
-- **Iron-bearing silicates**: Pyroxenes, amphiboles, and olivine contain ferrous iron that is susceptible to oxidation by fungal enzymes and reactive oxygen species. Oxidation of Fe(II) to Fe(III) destabilizes the [[crystal-structure-and-crystal-defects]] accelerates dissolution, releasing both iron and associated cations.
-
-- **Phosphate minerals**: Apatite and other [[bionutrients-lab-calcium-phosphate-calamansi]] minerals are attacked by fungal organic acids through a combination of proton release and calcium chelation. [[fungal-roles-in-phosphorus-solubilization]] from mineral sources is one of the most agriculturally significant aspects of fungal weathering, as plant-available phosphorus is frequently the limiting nutrient in terrestrial ecosystems.
+- **Phosphate minerals**: Apatite and other [[fungal-roles-in-phosphorus-solubilization]] from mineral sources is one of the most agriculturally significant aspects of fungal weathering, as plant-available phosphorus is frequently the limiting nutrient in terrestrial ecosystems.
 
 - **Carbonate minerals**: Calcite and dolomite dissolve readily in the presence of fungal organic acids through acid neutralization and calcium complexation. While carbonates are relatively soft and weather quickly, fungal colonization accelerates the process substantially compared to purely abiotic dissolution.
 
@@ -67,15 +42,7 @@ Lichens — symbiotic associations between fungi (mycobionts) and photosynthetic
 
 ## Mycorrhizal Weathering
 
-Ectomycorrhizal and [[singh-ericoid-mycorrhizal-fungi-remediation]] weather minerals directly in the rhizosphere. These symbiotic fungi extend hyphae from root surfaces into soil mineral particles, exuding organic acids and chelating agents that dissolve phosphorus, potassium, calcium, magnesium, and micronutrients from otherwise unavailable mineral sources. This process is particularly important in forest ecosystems where mineral weathering is the primary long-term source of plant-available nutrients.
-
-## Role in Pedogenesis
-
-Fungal bioweathering is a fundamental driver of soil formation from rock. In primary succession — the colonization of bare rock, volcanic deposits, and glacial moraines — fungi are often among the first organisms to establish. Their weathering activities create the first mineral soil (regolith) from solid rock, establishing the substrate upon which higher plants and more complex ecosystems can develop. The fungi's ability to scavenge nutrients from minerals is especially critical in these nutrient-poor pioneer environments.
-
-### Succession and Soil Development
-
-In early primary succession, free-living fungi and lichens dominate rock surfaces. As weathering progresses and a thin soil layer accumulates, saprotrophic fungi decompose the initial organic matter contributed by lichens and pioneer microorganisms. This creates a positive feedback loop: more organic matter supports more fungal biomass, which accelerates mineral weathering, which creates more soil for more organisms. Eventually, mycorrhizal fungi colonize the first higher plants, dramatically accelerating [[soil-protozoa-nutrient-cycling-and-mineralization]] soil development through their direct access to plant carbohydrates.
+Ectomycorrhizal and [[soil-protozoa-nutrient-cycling-and-mineralization]] soil development through their direct access to plant carbohydrates.
 
 ### Depth Profile Effects
 
@@ -118,8 +85,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[fungal-bioweathering]]
 - [[fungal-hyphae]]
-- [[laccase]]
 - [[dom]]
 - [[bionutrients]]

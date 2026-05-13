@@ -8,17 +8,17 @@ type: concept
 
 ## Overview
 
-Soil pollution from agricultural chemicals, industrial waste, and urban contamination represents one of the most persistent and difficult environmental challenges of the modern era. [[bill-mollison]]'s treatment of this subject in *[[permaculture]]: A Designers' Manual* draws on real-world cases from Australian agriculture to illustrate both the severity of contamination and the limited strategies available for remediation.
+Soil pollution from agricultural chemicals, industrial waste, and urban contamination represents one of the most persistent and difficult environmental challenges of the modern era. [[permaculture]]: A Designers' Manual* draws on real-world cases from Australian agriculture to illustrate both the severity of contamination and the limited strategies available for remediation.
 
 ## Sources of Agricultural Soil Pollution
 
 ### Chronic Chemical Application
 
-Orchards, sugarcane areas, pineapple, cotton, tobacco, and banana plantations have historically received extreme applications of mineral additives, arsenicals, Aldrin, DDT, copper salts, and dioxins. The cumulative effect of decades of chemical use creates contamination that persists long after application ceases.
+Orchards, sugarcane areas, pineapple, cotton, tobacco, and banana plantations have historically received extreme applications of mineral additives, arsenicals, [[aldrin]], DDT, copper salts, and dioxins. The cumulative effect of decades of chemical use creates contamination that persists long after application ceases.
 
 ### A Case Study: West Australian Apple Orchards
 
-Even after 18-20 years of no chemical use, apple orchards in Western Australia continued to produce unsafe levels of Aldrin and Dieldrin in the eggs of free-range chickens foraging on the land. Attempts to grow prawns in ponds on such lands failed due to residual Dieldrin levels in soils. This demonstrates the extraordinary persistence of organochlorine pesticides in the environment.
+Even after 18-20 years of no chemical use, apple orchards in Western Australia continued to produce unsafe levels of Aldrin and [[dieldrin]] in the eggs of free-range chickens foraging on the land. Attempts to grow prawns in ponds on such lands failed due to residual Dieldrin levels in soils. This demonstrates the extraordinary persistence of organochlorine pesticides in the environment.
 
 ### Lead Contamination from Roadways
 
@@ -111,6 +111,5 @@ The overarching principle is prevention. We must not add to existing contaminati
 
 ## See Also
 
-- [[mollison-soil-pollution-and-remediation]]
 - [[soil-pollution-and-remediation-strategies]]
 - [[soil-pollution-biocides-mollison]]

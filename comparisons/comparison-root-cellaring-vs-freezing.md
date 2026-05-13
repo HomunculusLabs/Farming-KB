@@ -10,8 +10,7 @@ sources: []
 
 ## Overview
 
-[[solomon-root-cellaring-and-crop-storage]] freezing represent two fundamentally different approaches to
-food preservation. Root cellaring uses the earth's natural [[comparison-windbreak-vs-thermal-mass]] to keep
+[[comparison-windbreak-vs-thermal-mass]] to keep
 harvests cool and humid without electricity, while freezing halts enzymatic
 activity and microbial growth through sub-zero temperatures. The choice between
 them shapes energy budgets, storage capacity, food quality, and self-reliance.
@@ -26,12 +25,7 @@ chemical degradation. Nearly any food can be frozen: vegetables, fruits, meats,
 prepared meals, herbs, and doughs. This universality makes freezing the most
 versatile single preservation method available.
 
-[[root-cellaring-and-no-energy-food-storage]]
-
-It is ideal for off-grid living. Combined with dehydration and fermentation,
-root cellaring forms a complete no-energy preservation toolkit. The passive
-nature means nothing breaks down, no compressor fails, and no utility bill
-arrives. For those with suitable land, [[query-how-to-build-and-manage-a-root-cellar]] is a one-time investment
+[[query-how-to-build-and-manage-a-root-cellar]] is a one-time investment
 serving for decades.
 
 ## When to Choose Freezing
@@ -64,7 +58,6 @@ process any declining crops by freezing, fermenting, or drying them.
 
 ## See Also
 
-- [[comparison-freezing-vs-canning]]
 - [[comparison-fermentation-vs-canning]]
 - [[comparison-solar-dehydrator-vs-electric-dehydrator]]
 ## Practical Considerations

@@ -8,62 +8,9 @@ sources: ["Shulgin - PIHKAL"]
 ---
 # BOH
 
-[[2c-b-pihkal-entry-20]] #15. beta-Methoxy-3,4-methylenedioxy-PEA.
-
-## Dosage and Duration
-
-| Property | Value |
-|----------|-------|
-| Dosage | 80 - 120 mg. |
-| Duration | 6 - 8 h. |
-
-## Qualitative Comments
-
-> (with 90 mg) Distinct body awareness in an
-> hour. The threshold is mostly physical. Faint sense of inside
-> warmth, skin prickling, cold feet, loose bowels, anorexia. By the
-> fifth hour, I was on the downslope, and in retrospect I found it good
-> humored but not insightful.
->
-> (with 100 mg) There was a vague nausea, and a chilling of the feet.
-> It reached a real plus two, with dilated pupils and quite a thirst.
->
-> How can one describe the state? There were no visuals, and I was not
-> even stoned. I was just very turned on. And I was completely back to
-> baseline by hour number six.
->
-
-## Extensions and Commentary
-
-There are several reports of a nice, mild
-mood enhancement in the 20-40 milligram dosage area, but searches for
-psychedelic effects at higher levels gave a strange mix of some sort
-of an altered state along with bodily discomfort. The BOH name for
-this member of the BOX family follows the convention discussed in the
-BOD recipe Q with RHS for homopiperonylamine, the simplest of the
-muni-metro family, q.v. The demethylated homologue of BOH is BOHH,
-and is the methylenedioxy analogue of norepinephrine. It might well
-hydrolytically open up in the body to provide this neurotransmitter,
-and serve as some sort of transmitter in its own right. It is
-discussed under DME.
-
-Maybe there is something to the concept that when you imitate a
-neurotransmitter too closely, you get a hybrid gemisch of activity.
-The term "pro-drug" is used to identify a compound that may not be
-intrinsically active, but one which metabolizes in the body to provide
-an active drug. I feel the term should have been pre-drug, but
-pro-drug was the word that caught on. BOH may well act in the body as
-a pro-drug to norepinephrine, but with the temporary blocking of the
-polar functions with ether groups, it can gain access to the brain.
-And once there, it can be stripped of these shields and play a direct
-neurological role. I uncovered a very similar analogy in the
 [[bob-entity-pihkal]]
-- [[bohd-entity-pihkal]]
 - [[bod-entity-pihkal]] -- BOD (PIHKAL #14)
-- [[bohd-entity-pihkal]] -- BOHD (PIHKAL #16)
-## Practical Considerations
-
-Successful implementation of BOH (beta-Methoxy-3,4-methylenedioxy-PEA) -- [[2c-c-pihkal-entry-22]] #15 requires attention to
+- [[2c-c-pihkal-entry-22]] #15 requires attention to
 several practical factors including environmental conditions,
 resource availability, and timing. Careful monitoring and
 adaptive management help optimize outcomes across varying
@@ -79,3 +26,88 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
+
+## Overview
+
+Boh Entity Pihkal represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish boh entity pihkal
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving boh extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Boh Entity Pihkal finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for boh entity pihkal. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+boh entity pihkal and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Boh Entity Pihkal has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of boh entity pihkal into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[3c-e-entity]]
+- [[ganesha-entity]]
+- [[methyl-mmda-2-entity-pihkal]]
+- [[tris-entity-pihkal]]
+- [[vaccinium-corymbosum-entity]]

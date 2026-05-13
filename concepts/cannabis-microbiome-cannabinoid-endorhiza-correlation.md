@@ -5,24 +5,9 @@ tags: [cannabis, microbiome, cannabinoids, THC, endorhiza, host-microbe, seconda
 created: 2026-05-10
 ---
 
-# Cannabinoid Concentration Correlation with [[cannabis-endorhiza-microbiome-structure]]
-
-## Overview
-
-One of the most intriguing findings of the Winston et al. (2014) study was the significant
-correlation between cannabinoid concentration and composition and the structure of the
-Cannabis [[core-endorhiza-bacterial-community-composition-cannabis]]. However, this correlation is confounded by the
-simultaneous influence of [[soil-physicochemical-properties-cannabis-microbiome-assembly-winston]] on both cannabinoid production
-and [[edaphic-factors-microbial-community-structure]], making it difficult to establish a direct causal
-relationship between the plant's [[antifungal-secondary-metabolites-coprophilous-fungi]] and its root microbiome.
-
-## The Cannabinoid-Microbiome Correlation
-
-### Mantel Test Results
-Cannabinoid data from the second experiment — including delta-9-tetrahydrocannabinol
-(THC) and other cannabinoid measurements — was correlated with endorhiza community
-composition using Mantel tests. The analysis revealed a statistically significant
-correlation between cannabinoid profiles and [[weighted-unifrac-strain-clustering-cannabis-endorhiza-community-structure]] for
+# Cannabinoid Concentration Correlation with [[core-endorhiza-bacterial-community-composition-cannabis]]. However, this correlation is confounded by the
+simultaneous influence of [[edaphic-factors-microbial-community-structure]], making it difficult to establish a direct causal
+relationship between the plant's [[weighted-unifrac-strain-clustering-cannabis-endorhiza-community-structure]] for
 unweighted analysis (r-stat: 0.863, p-value = 0.001). This suggests that the types
 of bacteria present in the root interior are associated with the cannabinoid profile
 of the plant.
@@ -118,8 +103,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[endorhiza-microbiome]]
 - [[rhizosphere-microbiome]]
-- [[cannabinoid-concentration-endorhiza-microbiome-correlation-cannabis]]
 - [[tetrahydrocannabinol]]
 - [[cannabinoid-microbiome-correlation-cannabis]]

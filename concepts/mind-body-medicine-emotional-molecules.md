@@ -4,10 +4,7 @@ created: 2026-04-28
 tags:
   - mind-body-medicine
   - neurotransmitters
-  - [[endocannabinoid-system]]
-  - psychosomatic
-  - emotional-intelligence
-  - [[cannabis-health-index]]." North Atlantic Books, 2015. Chapter II.
+  - cannabis-health-index." North Atlantic Books, 2015. Chapter II.
 type: concept
 ---
 
@@ -15,8 +12,7 @@ type: concept
 
 ## Overview
 
-The connection between molecules, emotions, and conscious interventions represents a critical bridge in understanding how the [[cannabis-mind-body-medicine-integration]]
-- [[blesching-cannabis-mind-body-medicine]]
+The connection between molecules, emotions, and conscious interventions represents a critical bridge in understanding how the blesching-cannabis-mind-body-medicine
 ## Background and Context
 
 Mind-Body Medicine and Emotional Molecules is an important subject that has garnered significant attention
@@ -67,7 +63,7 @@ Selection of appropriate methods should be based on careful assessment
 of the specific situation, including available resources, timeline, and
 desired outcomes rather than rigid adherence to any single approach.
 
-[[arbuscular-mycorrhizal-inoculum-production-best-practices]] have been developed through years of trial and error
+arbuscular-mycorrhizal-inoculum-production-best-practices have been developed through years of trial and error
 by experienced practitioners. These practices represent distilled wisdom
 about what works reliably across a range of conditions. However, they
 should be treated as guidelines rather than rigid rules, with adaptation
@@ -87,3 +83,11 @@ systemic applications, the principles involved can be adapted and
 combined in creative ways to address diverse needs and objectives.
 Understanding the range of possible applications helps practitioners
 identify opportunities for implementation in their own contexts.
+
+## See Also
+
+- [[blesching-mind-body-medicine-psychosomatic-foundations]]
+- [[blesching-dark-night-of-soul-meditation-adverse-effects-mind-body]]
+- [[mckenna-jaynes-bicameral-mind-breakdown]]
+- [[mckenna-vegetable-mind-and-gaian-holism]]
+- [[blesching-cannabis-endocannabinoid-mind-body]]

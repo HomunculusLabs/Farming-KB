@@ -57,21 +57,7 @@ Annual precipitation in native habitats ranges from 400–700 mm. The species to
 
 It is listed as Least Concern by most conservation authorities. Local populations in western Europe are stable, though agricultural intensification has reduced some meadow habitats.
 
-The species has naturalized sporadically in parts of northern Europe and [[guzman-psilocybin-mushrooms-north-america]]. These occurrences are typically near gardens from which it has escaped.
-
-In its native range, it is considered an indicator species of species-rich calcareous grasslands. Its presence often signals high botanical diversity in meadow communities.
-
-## Cultivation
-
-Entire-leaved clematis is cultivated as a herbaceous perennial in USDA zones 3–8. It is among the hardiest clematis species, tolerating winter temperatures below −30 °C.
-
-The plant prefers full sun to light shade and well-drained, neutral to alkaline soil. Unlike climbing clematis, it does not require its roots to be shaded.
-
-Established plants are drought-tolerant and require minimal supplemental watering. Overwatering and poor drainage are the primary causes of garden failures.
-
-Propagation is by seed or basal cuttings taken in spring. Seeds require 4–8 weeks of cold stratification and may germinate irregularly over several months.
-
-The species hybridizes readily with other herbaceous clematis, particularly *[[clematis-recta]]*. The hybrid × *Clematis* 'Arabella' is a popular garden selection from this cross.
+The species has naturalized sporadically in parts of northern Europe and [[clematis-recta]]*. The hybrid × *Clematis* 'Arabella' is a popular garden selection from this cross.
 
 Notable cultivars include 'Durandii' (a hybrid with *C. jackmanii*), 'Hakuree' (compact Japanese selection), and 'Rosea' (pink-flowered form). These extend the ornamental range of the species.
 
@@ -88,3 +74,76 @@ The silky seed heads are dispersed by wind, with the feathery styles acting as p
 The foliage contains ranunculin-derived compounds that deter most mammalian herbivores. Deer and rabbits typically avoid the plant in garden settings.
 
 Several species of moths use *Clematis* as a larval food plant. The presence of these compounds in the foliage provides some protection from generalist insect herbivores.
+
+## Overview
+
+Clematis Integrifolia represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish clematis integrifolia
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving clematis extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Clematis Integrifolia finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for clematis integrifolia. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+clematis integrifolia and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Clematis Integrifolia has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+## See Also
+
+- [[clematis-tangutica]]
+- [[clematis-vitalba]]
+- [[clematis-florida]]
+- [[clematis-flammula]]
+- [[clematis-viticella]]

@@ -1,15 +1,7 @@
 ---
 title: Pf Tek Perlite Humidification Mushroom Cultivation
-source: PF TEK - [[pf-tek-psilocybe-fanaticus]]
----
-
-# PF TEK Perlite Humidification in Mushroom Cultivation
-
-## Overview
-
-Perlite humidification is the [[passive-humidity-fruit-chamber-polyethylene-sheeting]] management technique central to
-the [[pf-tek-fruiting-and-harvesting]] method. Perlite, an expanded volcanic glass, serves as the
-primary humidity medium in the [[dual-chambered-terrarium]].
+source: PF TEK - [[passive-humidity-fruit-chamber-polyethylene-sheeting]] management technique central to
+the [[dual-chambered-terrarium]].
 
 When properly prepared in the terrarium base, wet perlite maintains 90%+ relative
 humidity through continuous surface evaporation. This eliminates the need for
@@ -26,8 +18,7 @@ retain water. The enormous combined surface area is what makes perlite such an
 effective humidity medium. Water evaporates from all surfaces simultaneously,
 creating sustained and even humidity output.
 
-Perlite is inexpensive, widely available at [[solomon-garden-centers-seedling-traps]], and chemically inert.
-It does not decompose or interact negatively with the [[mushroom-crop-management-flush-harvesting]].
+Perlite is inexpensive, widely available at [[mushroom-crop-management-flush-harvesting]].
 
 ## The "Less is More" Approach
 

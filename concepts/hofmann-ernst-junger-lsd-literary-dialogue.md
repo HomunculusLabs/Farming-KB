@@ -13,11 +13,7 @@ type: concept
 ## Hofmann's Radiance from Junger
 
 Ernst Junger's literary work and personality had a profound influence on
-[[albert-hofmann]]. In the light of Junger's perspective, which
-stereoscopically comprises the surfaces and depths of things, the world
-Hofmann knew took on a new, translucent splendor. This enchantment began
-long before the discovery of LSD and before Hofmann came into personal
-contact with the author in connection with [[metzner-hallucinogenic-drugs-psychotherapy-shamanism]].
+[[metzner-hallucinogenic-drugs-psychotherapy-shamanism]].
 
 Hofmann's enchantment began with Junger's book "Das Abenteuerliche Herz"
 (The Adventurous Heart). Again and again over forty years he returned to
@@ -57,23 +53,7 @@ with nets. He locked himself up in his studio for trips into the dreamy
 regions. He said that all countries and unknown islands were woven into
 the tapestry. The drugs served him as keys to entry into the chambers
 and caves of this world." Peri's library contained the great inspirers
-of the [[mckenna-club-des-hachischins-and-nineteenth-century-literary-hashish]]: De Quincey, E.T.A. Hoffmann, Poe, and
-Baudelaire, alongside ancient herbals, necromancy texts, and
-demonological works. The library also held "a heavy old volume by the
-Heidelberg psychologists on the extract of mescal buttons, and a paper on
-the phantastica of ergot by Hofmann-Bottmingen."
-
-## The First LSD Trip: February 1951
-
-Two years after Heliopolis appeared, in February 1951, came "the great
-adventure," an LSD trip with Ernst Junger. Since only reports of LSD
-experiments in psychiatric settings existed, this experiment especially
-interested Hofmann as an opportunity to observe the effects of LSD on an
-artistic person in a nonmedical milieu.
-
-Professor Heribert Konzett, physician and pharmacologist, was invited for
-medical support. The trip took place at 10:00 in the morning in the
-living room of Hofmann's house in Bottmingen. A [[ultra-low-dose-brassinosteroid-response-psilocybe-cubensis]] of 0.05 mg was
+of the [[ultra-low-dose-brassinosteroid-response-psilocybe-cubensis]] of 0.05 mg was
 chosen as a precaution.
 
 ## The Experience
@@ -118,8 +98,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[lsd]]
 - [[shamanism]]
-- [[brassinosteroid]]
 - [[hashish]]
 - [[hofmann-lsd-animal-experiments-toxicity]]

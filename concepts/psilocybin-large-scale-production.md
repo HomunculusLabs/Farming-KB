@@ -1,6 +1,6 @@
 ---
 
-title: Psilocybin Large Scale Production
+title: Large-Scale Psilocybin Production — Room Design and Workflow
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
@@ -23,7 +23,7 @@ sources:
 
 # Large-Scale Psilocybin Production — Room Design and Workflow
 
-Gottlieb's design for a dedicated 10x15 ft production room for bulk [[psilocybin-mushroom-cultivation-basics]]. This represents the practical scale-up from individual jar cultivation to a coordinated production schedule. See [[psilocybin-fruiting-chambers]] for fruiting chamber details and [[psilocybin-liquid-culture]] for culture preparation.
+Gottlieb's design for a dedicated 10x15 ft production room for bulk psilocybin mushroom cultivation. This represents the practical scale-up from individual jar cultivation to a coordinated production schedule. See [[psilocybin-fruiting-chambers]] for fruiting chamber details and [[psilocybin-liquid-culture]] for culture preparation.
 
 Related: [[psilocybin-mushroom-cultivation]], [[psilocybin-extraction-guide]]
 
@@ -34,11 +34,11 @@ Related: [[psilocybin-mushroom-cultivation]], [[psilocybin-extraction-guide]]
 - **Walls**: Clean, smooth, easily washable surface (plastic sheeting, epoxy paint, or fiberglass)
 - **Floor**: Concrete or sealed surface, easily cleaned
 - **Ventilation**: 12-inch air exhaust fan in wall, with filtered intake
-- **[[hamilton-greenhouse-heating-and-temperature-control]]**: Electric heater, thermostat, thermometer
+- **Temperature control**: Electric heater, thermostat, thermometer
 - **Humidity control**: Ultrasonic humidifier or misting system
 - **Lighting**: Fluorescent ceiling light on timer (12 hours on/12 hours off)
 - **Shelving**: Four-tier shelving units, each shelf approximately 12 inches apart
-- **Door**: Sealed to maintain [[chen-maitake-growth-parameters-environmental-control]]
+- **Door**: Sealed to maintain environmental control
 
 ### Equipment Checklist
 - 50+ quart Mason jars (or equivalent)
@@ -75,7 +75,7 @@ Gottlieb designed a rotating 10-day cultivation cycle for continuous production:
 - Fully colonized jars appear white with mycelium throughout
 - Reduce temperature slightly if growth seems too fast (lower temp = higher potency)
 
-**Day 8-9 — [[fruiting-initiation]]**
+**Day 8-9 — Fruiting Initiation**
 - Move fully colonized jars to fruiting conditions
 - Introduce light (12h on/12h off cycle)
 - Increase humidity (80-95% relative humidity)
@@ -83,7 +83,7 @@ Gottlieb designed a rotating 10-day cultivation cycle for continuous production:
 - Mushrooms typically begin appearing within 48-72 hours
 
 **Day 10 — Harvest**
-- Harvest mushrooms as veils begin to tear ([[partial-veil-tropism-protection-before-spore-release]])
+- Harvest mushrooms as veils begin to tear (before spore release)
 - This is also the day to inoculate the next batch of jars
 - Repeat cycle continuously
 

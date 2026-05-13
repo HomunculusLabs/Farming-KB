@@ -9,11 +9,7 @@ wikilinks: [psilocybin-psilocin-variation-across-flushes, alkaloid-distribution-
 
 # Psilocybe cubensis Miniculture Technique
 
-The "miniculture" method developed by Bigwood and Beug (1982) is a scaled-down [[boil-a-bag-mushroom-cultivation-technique]] [[miniculture-rye-grain-cultivation-method-for-psilocybe-cubensis]] that uses small jars rather than large trays or monotubs. Originally designed for controlled research on alkaloid variation across flushes, this approach offers advantages for experimental reproducibility, space efficiency, and [[mushroom-contamination-control]].
-
-## Origins and Purpose
-
-Bigwood and Beug adapted existing cultivation methods to create a standardized, reproducible system for studying [[hplc-analysis-of-psilocybin-and-psilocin]] levels across successive flushes. The method was based on:
+The "miniculture" method developed by Bigwood and Beug (1982) is a scaled-down [[miniculture-rye-grain-cultivation-method-for-psilocybe-cubensis]] that uses small jars rather than large trays or monotubs. Originally designed for controlled research on alkaloid variation across flushes, this approach offers advantages for experimental reproducibility, space efficiency, and [[hplc-analysis-of-psilocybin-and-psilocin]] levels across successive flushes. The method was based on:
 
 - The rye-grain medium originally described by San Antonio (1971) for commercial mushroom cultivation.
 - Refinements by Oss and Oeric (1976) for [[psilocybe-cubensis-cultivation]].
@@ -55,7 +51,7 @@ The miniculture setup requires minimal equipment:
 
 ### Phase 2: Inoculation and Colonization (Weeks 1–4)
 
-1. Under sterile conditions (laminar flow hood or still air box), transfer mycelium from agar culture to the sterilized grain.
+1. Under sterile conditions ([[laminar-flow-hood]] or still air box), transfer mycelium from agar culture to the sterilized grain.
 2. Close jars and incubate at room temperature (24–27°C).
 3. Every 4 days for 28 days, gently shake each jar to distribute the growing mycelium evenly across the grain surface.
 4. After 28 days, the mycelium should have fully colonized the grain, appearing as a dense white mat throughout the jar.

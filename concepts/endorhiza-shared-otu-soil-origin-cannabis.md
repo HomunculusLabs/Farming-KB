@@ -2,41 +2,13 @@
 
 A critical test of the two-step selection model for root microbiome assembly
 was performed by Winston et al. (2014) using a reciprocal soil experiment
-with the [[cannabis-cultivar-effects-soil-microbiome]] White Widow. The experiment demonstrated that
-endophytic microbes within the [[actinobacteria-enrichment-cannabis-endorhiza]] are primarily inherited
+with the [[actinobacteria-enrichment-cannabis-endorhiza]] are primarily inherited
 from the surrounding soil, confirming that the first step of root colonization
 is fundamentally soil-driven rather than genotype-driven.
 
 ## Experimental Design: Reciprocal Soil Transplant
 
-To rigorously test whether [[cannabis-rhizosphere-endorhiza-communities]] derive their membership from
-the local soil environment, Winston et al. (2014) grew the White Widow
-cultivar in two distinct soil types. By comparing the OTU composition of the
-endorhiza communities with the OTU pools available in each soil, the
-researchers could quantify the degree to which endophytes were recruited from
-their native soil versus the alternative soil they did not experience.
-
-This reciprocal design is a powerful approach because it controls for the
-confounding influence of plant genotype — since White Widow was the cultivar
-used in both soils, any differences in endorhiza composition can be attributed
-to soil type rather than plant genetics. The experiment thus cleanly isolates
-the first step of the two-step model (soil-driven recruitment) from the second
-step (genotype-driven abundance tuning).
-
-## Results: Shared OTU Analysis
-
-The results were unambiguous. Endorhiza communities from White Widow plants
-grown in soil A shared significantly more OTUs with soil A (mean = 2,934
-shared OTUs) than with soil B (mean = 2,162 shared OTUs). Conversely,
-endorhiza communities from plants grown in soil B shared more OTUs with soil B
-than with soil A. The statistical significance of this difference was
-extremely high (p = 1.2 x 10^-15), leaving no doubt that endorhiza
-communities are preferentially composed of organisms originating from their
-local soil environment.
-
-The magnitude of the difference is noteworthy. Plants shared approximately
-772 more OTUs on average with their own soil than with the foreign soil,
-representing a substantial fraction of the total [[proteobacteria-dominance-cannabis-endorhiza]]. This
+To rigorously test whether [[proteobacteria-dominance-cannabis-endorhiza]]. This
 indicates that the soil acts as the primary reservoir from which the
 endophytic community is drawn, with the majority of detected endorhiza OTUs
 having detectable counterparts in the surrounding soil.
@@ -60,15 +32,7 @@ that the soil provides.
 
 The second step of the model — genotype-driven abundance tuning — is not
 directly tested by this particular experiment but is supported by the
-complementary finding that [[cannabis-microbiome-otu-abundance-vs-presence-cannabis-strains]] show 71 significant weighted but
-zero unweighted OTU differences. Together, these two results provide a
-coherent picture: soil determines who is present, and the plant determines
-who dominates.
-
-## Soil as the Primary Reservoir of Endophytic Diversity
-
-The shared OTU finding reinforces a principle that has emerged consistently
-from plant [[cannabis-microbiome-research]] across diverse species: the soil is the
+complementary finding that [[cannabis-microbiome-research]] across diverse species: the soil is the
 primary reservoir of root-associated microbial diversity. This has been
 demonstrated in Arabidopsis, maize, rice, barley, and now Cannabis. In each
 case, the composition of the root microbiome reflects the composition of the
@@ -130,7 +94,5 @@ differences in the available OTU pool and thus in endorhiza composition.
 
 ## See Also
 
-[[strain-otu-presence-absence-vs-abundance-cannabis-microbiome]]
 [[proteobacteria-enrichment-endorhiza-cannabis-two-tier-model]]
-[[nitrogen-salinity-carbon-water-edaphic-trio-cannabis]]
 [[cellvibrio-aerobic-cellulytic-endorhiza-cannabis]]

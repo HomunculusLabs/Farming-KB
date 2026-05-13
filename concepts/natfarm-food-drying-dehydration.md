@@ -37,13 +37,7 @@ and require no electricity for storage once dried. Dried herbs from the
 garden provide year-round flavoring. A simple rule of thumb is that dried
 foods weigh approximately one-tenth of their fresh weight, making them
 extremely efficient for storage and transport. The food drying and dehydration can
-include a dedicated drying area or [[comparison-solar-dehydrator-vs-electric-dehydrator]] as part of the home
-design. Any food that cannot be dried or fermented can go to the
-or [[solar-and-electric-food-drying-methods]]
-- [[comparison-lacto-fermentation-vs-canning]] preservation for another preservation method
-
-## See Also
-
+include a dedicated drying area or [[solar-and-electric-food-drying-methods]]
 - [[mollison-designers-solar-food-drying-preservation]]
 ## Practical Considerations
 

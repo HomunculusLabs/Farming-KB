@@ -8,36 +8,11 @@ sources:
   - "raw/papers/unknown-biodiversity-of-fungi.md"
 ---
 
-# [[tompkins-plant-chemical-communication]]
-
-## Overview
-
-Fungi "sing" to one another in chemical pulses and answer with developmental changes. Their reproductive strategies range from simple asexual [[spore-production-geotropic-sensitivity-coupling-basidiomycete-badham-1982]] to elaborate sexual cycles involving pheromone communication between mating partners. Chapter 7 of "Mr. Bloomfield's Orchard" explores the mechanisms of [[fruiting-body-development]] formation.
-
-## A follows an endless progression: spore, mycelium, spore, mycelium
-
-A single zygomycete clone from one spore might colonize a kitchen scrap for a house's entire lifetime. The moistened bread experiment (leave a slice on the counter, observe with a magnifying lens after a few days) reveals the complete lifecycle: airborne spore lands, germinates, hyphae colonize the bread, aerial branches produce sporangia, and new spores are released.
-
-## Oomycete Sexual Reproduction
-
-### Pheromones: Antheridiol and Oogoniol
-
-Water molds (Achlya species) communicate using steroid pheromones remarkably similar to human sex hormones:
-
-1. **The female initiates**: releases antheridiol from her mycelium into the water
-2. **The male responds**: upon detecting antheridiol, the male grows antheridial branches toward the pheromone source and releases oogoniol
-3. **The female senses success**: detecting oogoniol, she forms egg sacs (oogonia) and secretes more antheridiol to attract additional males
-4. **Contact and penetration**: male branches attach to the oogonium surface, flatten against it, and stumpy hyphae penetrate the egg chamber to inject sperm nuclei
-5. **Fertilization**: each egg can be fertilized by a different male; thick-walled oospores form and remain dormant until conditions favor germination
-
-The [[plants-of-the-gods-chemical-structures-hallucinogens]] of antheridiol and oogoniol are very similar to estrogen, progesterone, and testosterone — remarkable given the evolutionary distance between water molds and animals. All are ring-shaped lipids called steroids.
+# [[spore-production-geotropic-sensitivity-coupling-basidiomycete-badham-1982]] to elaborate sexual cycles involving pheromone communication between mating partners. Chapter 7 of "Mr. Bloomfield's Orchard" explores the mechanisms of [[plants-of-the-gods-chemical-structures-hallucinogens]] of antheridiol and oogoniol are very similar to estrogen, progesterone, and testosterone — remarkable given the evolutionary distance between water molds and animals. All are ring-shaped lipids called steroids.
 
 ### John Raper's Discoveries
 
-John Raper at Harvard first demonstrated that antheridia and oogonia development was coordinated by [[query-how-do-plants-use-chemical-signals-to-defend-against-insects]]:
-- Worked with Achlya ambisexualis (which he discovered) and A. bisexualis
-- Fished for water molds by sterilizing hemp seeds and floating them on pond water samples — zoospores swim to the surface, glue themselves to seeds, and sprout hyphae
-- [[query-how-to-germinate-cannabis-seeds]] have very high fat content and make superb bait for water molds
+John Raper at Harvard first demonstrated that antheridia and oogonia development was coordinated by [[query-how-to-germinate-cannabis-seeds]] have very high fat content and make superb bait for water molds
 
 ### Hermaphroditism vs. Heterothallism
 
@@ -118,8 +93,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[bloomfield-siren-songs-fungal-chemical-communication-reproduction-chapter-7]]
 - [[det]]
-- [[spore]]
 - [[mycelium]]
 - [[bloomfield-lycoperdonosis-and-fungal-respiratory-health]]

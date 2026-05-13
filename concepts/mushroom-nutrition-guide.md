@@ -11,7 +11,7 @@ sources: []
 
 ## Overview
 
-Mushrooms are nutritionally dense foods that occupy a unique position between vegetables and animal products. They provide protein, fiber, B vitamins, minerals, and [[cordyceps-cancer-bioactive-compounds]] found in few other foods. As the only non-animal source of vitamin D (when UV-exposed) and a significant source of ergothioneine, selenium, and beta-glucans, mushrooms deserve a central place in a health-conscious diet. This page covers the macronutrient and micronutrient profile of common [[palmer-edible-mushrooms-north-america]] and compares their nutritional value.
+Mushrooms are nutritionally dense foods that occupy a unique position between vegetables and animal products. They provide protein, fiber, B vitamins, minerals, and bioactive compounds found in few other foods. As the only non-animal source of vitamin D (when UV-exposed) and a significant source of ergothioneine, selenium, and beta-glucans, mushrooms deserve a central place in a health-conscious diet. This page covers the macronutrient and micronutrient profile of common edible mushrooms and compares their nutritional value.
 
 ## Macronutrient Profile
 
@@ -81,7 +81,7 @@ Note: B12 content in mushrooms is controversial. Some studies detect B12, but it
 
 - Vitamin C: Low in most culinary mushrooms (0-5 mg/100 g)
 - Vitamin E: Small amounts (trace)
-- The primary antioxidant value comes from non-vitamin compounds: ergothioneine, selenium, glutathione, and [[aact-tannins-terpenes-phenolic-compounds-wood-composting-ingham]]
+- The primary antioxidant value comes from non-vitamin compounds: ergothioneine, selenium, glutathione, and phenolic compounds
 
 ## Minerals
 
@@ -91,7 +91,7 @@ Note: B12 content in mushrooms is controversial. Some studies detect B12, but it
 | Copper | Iron metabolism, antioxidant enzymes | 0.3-0.5 mg/100 g (15-25% DV) |
 | Potassium | Fluid balance, nerve function | 300-500 mg/100 g (8-14% DV) |
 | Phosphorus | Bone health, energy metabolism | 80-120 mg/100 g (8-12% DV) |
-| Iron | [[hemoglobin-and-oxygen-transport]], energy | 0.5-1.5 mg/100 g (3-8% DV) |
+| Iron | Oxygen transport, energy | 0.5-1.5 mg/100 g (3-8% DV) |
 | Zinc | Immune function, wound healing | 0.5-1.0 mg/100 g (5-9% DV) |
 | Manganese | Bone formation, metabolism | 0.05-0.5 mg/100 g |
 
@@ -141,10 +141,10 @@ Mushrooms are particularly notable as a source of selenium, providing amounts co
 | Chanterelle | 38 | 1.5 | 3.8 | 0.5 | 7.0 | 2.2 | 0.4 | 4.1 | 100-800 |
 | Morel | 31 | 3.1 | 2.8 | 0.6 | 5.1 | 5.5 | 0.2 | 3.4 | 100-500 |
 
-*Vitamin D content varies enormously based on UV exposure. Commercially grown mushrooms without UV exposure contain negligible vitamin D. Wild-harvested mushrooms contain variable but significant amounts.
+## See Also
 
-### Culinary Species Comparison (Dried, per 100 g)
-
-| Species | Calories | Protein (g) | Fiber (g) | Fat (g) | Beta-Glucans (g) |
-|---------|----------|-------------|-----------|---------|-------------------|
-| Shiitake (dried) | 296 | 9.6 | 11.0 | 0.9 | 5-8 |
+- [[reishi-mushroom-cultivation-and-medicinal-properties]]
+- [[straw-based-mushroom-substrate-preparation]]
+- [[casing-soil-sterilization-versus-pasteurization-debate-mushroom-cultivation]]
+- [[straw-mushroom-cultivation]]
+- [[psilocybe-caerulescens-mazatec-sacred-mushroom-guzman-1998]]

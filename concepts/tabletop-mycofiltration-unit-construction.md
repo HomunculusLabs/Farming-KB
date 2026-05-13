@@ -8,64 +8,11 @@ sources: [raw/papers/cotter-organic-mushroom-farming-mycoremediation.md]
 type: concept
 ---
 
-# Tabletop [[mycoremediation]] installations. This bench-scale approach
-connects directly to the broader science of [[bioaugmentation-strategies]] for contaminated sites.
+# Tabletop [[bioaugmentation-strategies]] for contaminated sites.
 
 ## Design Philosophy
 
-[[growing-gourmet-sawdust-spawn-production-use]] from the selected fungal species, filling each tier.
-- **Tubing**: For water recirculation between the collection
-  reservoir and the top tier.
-- **Collection reservoir**: Catches filtered water for testing
-  and recirculation.
-
-## Building the Test Unit
-
-Constructing a test unit provides valuable data that guides the
-design of full-scale installations. The unit reveals information
-about species effectiveness, biomass volume requirements, optimal
-water flow rates, and probable installation costs. This data can
-also support successful grant proposals for larger projects.
-
-The three-tiered design allows comparison of different species or
-different strains of the same species under identical conditions.
-Each tier can be independently inoculated with a different fungal
-species, enabling side-by-side evaluation of filtration
-performance.
-
-## Inoculating the Filtration Unit
-
-Fill each tier with fully colonized mycelial substrate. The
-biomass should be intact and well-consolidated to prevent
-channeling of water through gaps. Ensure the mycelium is actively
-growing, not stalled or contaminated. The [[stropharia-rugosoannulata|king stropharia]] and biobleaching-of-pulp-by-white-rot-fungi and related research demonstrates that enzymatic extraction from [[bioremediation-fungal-biomass-biosorbent-material]] is feasible at bench scale. The tabletop unit can be modified for enzyme harvesting by
-inserting small sterile, open-ended tubing into the biomass,
-accessible from the exterior and typically positioned at an angle
-that can be capped. Solutions added through these tubes infuse
-into the mycelial block for metabolite elicitation.
-
-Allow the tubing to sit for one week in the mycelial block before
-adding any solution. This gives the mycelium time to heal and
-seal off any holes, making the filter watertight. If done
-correctly, added solutions should not flow through but rather sit
-and maintain a level throughout the experiment.
-
-## Testing Contaminant Removal
-
-Biological or chemical contaminants can be introduced through the
-infusion tubing to elicit metabolic responses. These responses can
-be harvested as novel antibiotics or enzymes specific to the
-target contaminant. The system also allows straightforward testing
-of water quality before and after filtration to quantify removal
-efficiency.
-
-## Species Evaluation
-
-Building test units helps determine the most effective fungal
-species for a given contaminant. Not all mushrooms are created
-equal, and different strains of the same species can exhibit
-profound differences. Some are extremely selective "picky eaters,"
-while others, like [[query-how-to-grow-oyster-mushrooms-at-home]], will consume nearly any
+[[stropharia-rugosoannulata|king stropharia]] and biobleaching-of-pulp-by-white-rot-fungi and related research demonstrates that enzymatic extraction from [[query-how-to-grow-oyster-mushrooms-at-home]], will consume nearly any
 substrate offered. Many can be trained to adapt to different
 environmental conditions or to remediate high contaminant levels.
 
@@ -82,5 +29,89 @@ effectiveness.
 
 ## Scaling Considerations
 
-stamets-mycoremediation-principles for the foundational science behind [[cotter-pet-livestock-waste-fungal-remediation-systems]]
-- [[stropharia-rugoso-annulata-mycofiltration]] for species-specific filtration applications
+stamets-mycoremediation-principles for the foundational science behind [[stropharia-rugoso-annulata-mycofiltration]] for species-specific filtration applications
+
+## Overview
+
+Tabletop Mycofiltration Unit Construction represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish tabletop mycofiltration unit construction
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving tabletop extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Tabletop Mycofiltration Unit Construction finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for tabletop mycofiltration unit construction. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+tabletop mycofiltration unit construction and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Tabletop Mycofiltration Unit Construction has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of tabletop mycofiltration unit construction into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[growing-gourmet-bioremediation-mycofiltration]]
+- [[mycelium-running-skookum-inlet-mycofiltration-field-trial]]
+- [[mycofiltration-membrane-construction]]
+- [[mycofiltration-of-chemical-runoff]]
+- [[stamets-king-stropharia-permaculture-mycofiltration]]

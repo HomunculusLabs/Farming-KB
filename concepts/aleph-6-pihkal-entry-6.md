@@ -11,12 +11,7 @@ type: concept
 
 # ALEPH-6
 
-**[[2c-b-pihkal-entry-20]] #6**
-
-## Chemical Identity
-
-- **Full name:** 2,5-Dimethoxy-4-phenylthioamphetamine
-- **Class:** Amphetamine ([[aleph-family-overview]], 2,5-dimethoxy-4-thio
+**[[aleph-family-overview]], 2,5-dimethoxy-4-thio
   substitution with phenyl ring on sulfur)
 - **Molecular formula:** C17H21NO2S (free base)
 - **Hydrochloride salt:** white crystals, mp 194-195 °C
@@ -80,46 +75,6 @@ C6H5 broad peak at 7.50 ppm, and CHO at 10.37 ppm.
 
 ### Step 3: Nitrostyrene
 Condensation with nitroethane (32 mL) and ammonium acetate
-(0.8 g) on [[scythian-cannabis-steam-bath-ritual]] for 21 h gave the nitrostyrene as
-gold-yellow crystals, mp 105-106 °C (5.3 g from recrystallization
-of 95% EtOH).
-
-### Step 4: Reduction
-LAH (2.0 g) in THF reduced the nitrostyrene (3.5 g) over 36 h
-reflux plus 24 h at room temperature. The amine was isolated
-via acetone grinding to give 1.8 g HCl salt, mp 194-195 °C.
-
-## Practical Applications
-
-The principles and techniques discussed here have wide-ranging applications
-across multiple disciplines and contexts. Practitioners and researchers
-continue to explore new ways to integrate these concepts into modern practice,
-adapting traditional knowledge to contemporary challenges and opportunities.
-
-## Key Considerations
-
-Several important factors influence the effectiveness and outcomes described
-in this topic. Understanding these considerations helps practitioners make
-informed decisions and avoid common pitfalls. Environmental conditions,
-timing, and material selection all play critical roles.
-
-## Historical Context
-
-The historical development of this subject reflects centuries of accumulated
-knowledge and practical experience. From traditional methods passed down
-through generations to modern scientific approaches, the evolution continues
-to inform current best practices and research directions.
-
-## Common Challenges
-
-Practitioners frequently encounter several challenges when working with
-these concepts. Climate variability, resource limitations, and knowledge
-gaps can all affect outcomes. Addressing these challenges requires patience,
-observation, and a willingness to adapt approaches based on results.
-
-## See Also
-- [[doc]]
-- [[lsd]]
+(0.8 g) on [[doc]]
 - [[lsm]]
-- [[aleph-pihkal-entry-3]]
 - [[aleph-7-pihkal-entry-7]]

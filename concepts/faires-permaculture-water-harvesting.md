@@ -10,59 +10,11 @@ tags: [culture, harvesting, permaculture, water]
 
 # Permaculture Water Harvesting Strategies
 
-Permaculture water harvesting captures, stores, and directs water across a property using gravity, terrain, and [[williams-pdc-ecological-design-principles]] rather than pumps and pipes. The goal is to make every property as self-reliant in water as possible.
-
-Water is the most important element on a piece of land. No other factor impacts so many other things or is affected by so many other elements. The first step is deciding where water comes from and devising storage using gravity. The second step is using species that need less water in hard-to-reach places.
-
-## Swales
-
-A swale is a long, shallow ditch 3-5 feet across that stops and channels water into the soil. Unlike a regular ditch that carries water away, a swale forces absorption directly into the ground. Trees planted along swales soak up the stored water.
-
-Swales are placed across slopes on contour. Two or more are installed together, with spacing dependent on rainfall:
-
-| Annual Rainfall | Swale Spacing |
-|----------------|---------------|
-| 5 inches       | 60 feet       |
-| 10 inches      | 50 feet       |
-| 20 inches      | 40 feet       |
-| 30 inches      | 30 feet       |
-| 40 inches      | 20 feet       |
-| 50 inches      | 10 feet       |
-
-After a couple of rainfalls soak deeply into the soil, plant trees directly behind the dirt mound. In wet climates, the area between swales can be heavily planted. In dry climates, only plant swale edges. It takes 3-10 years for trees to fully mature and begin shading, mulching, and absorbing salts. This is the most important step of the whole swale strategy.
-
-Swales can be filled with rock, gravel, or gypsum for even better water penetration. They work on steep slopes, flat prairies, and in urban areas using road and roof runoff. Over time, throw mulch in; grass will grow, and as trees shade it, other species will spring up.
-
-## Rainwater Catchment
-
-Every 1,000 sq ft of roof surface gathers 600 gallons per inch of rain. Metal roofing is the cleanest collection surface. Install gutters with a leaf screen.
-
-For human consumption, divert the first gallon per 100 sq ft of roof area (a roof washer) to a separate tank or garden. This helps keep dirt out of the water. Cover tank inlets with mosquito screen and include an overflow valve to the garden.
-
-Storage tanks: a single person needs at least 1,000 gallons; a family needs a minimum of 2,500 gallons. Tanks can be made from concrete, compacted clay, metal, or plastered dirt. Place tanks at the top of hills for gravity-fed distribution. A large water tank at the top of a hill can even act as the foundation for a building, with the roof collecting rainwater.
-
-Thick [[cervantes-green-algae-growing-medium]] will grow on tank sides — this is beneficial as it helps clean the water. The outlet pipe should be 3 inches above the bottom so algae remain undisturbed.
+Permaculture water harvesting captures, stores, and directs water across a property using gravity, terrain, and [[cervantes-green-algae-growing-medium]] will grow on tank sides — this is beneficial as it helps clean the water. The outlet pipe should be 3 inches above the bottom so algae remain undisturbed.
 
 ## Diversion Drains
 
-Unlike swales (which stop water), diversion drains carry water away. They direct flow to swales, ponds, or irrigation systems. When sending water to a dam, drains should be built of rock or concrete. Spill gates give flow control for [[soil-moisture-monitoring-irrigation-management]].
-
-## Dry Bed Management
-
-In desert areas with seasonal streams prone to flash floods, stream braiding spreads flow across the landscape. Starting at the head of a stream, dig a small pool, then create a diamond pattern of diversion channels. Where each diamond intersects, dig another pool.
-
-For streams near buildings, dig a lagoon at the head and install swales and dry dams between the lagoon and the structure.
-
-## Dam Types
-
-- **Saddle dams**: Built on the lowest point between two hilltops to catch runoff; at the top of slope for gravity-fed distribution
-- **Horseshoe dams**: Built on descending ridges to catch overflow from saddle dams
-- **Keypoint dams**: Built in valleys of small streams at the highest practical point for irrigation
-- **Contour dams**: Built on flat areas along the land contour for irrigation and fish
-
-Dam walls should never exceed 20 feet high. They function like small ponds with gentle slopes on all sides, scooped from the hillside with clay piled to form the wall. The outer slope should roughly match the inner slope angle.
-
-Sealing: Soil is unlikely to be waterproof. Use gley (fermented manure smeared in 8-inch layer over inside and walls, covered with dirt, cardboard, or plastic; ferments in about a week [[query-how-to-grow-and-use-oca-in-temperate-climates]]), pond liner (heavy black plastic, rubber, or geotextile), or earthbags.
+Unlike swales (which stop water), diversion drains carry water away. They direct flow to swales, ponds, or irrigation systems. When sending water to a dam, drains should be built of rock or concrete. Spill gates give flow control for [[query-how-to-grow-and-use-oca-in-temperate-climates]]), pond liner (heavy black plastic, rubber, or geotextile), or earthbags.
 
 ## Pond Design
 
@@ -70,9 +22,7 @@ Ponds can segregate fish of different ages when several are connected in success
 
 ## Irrigation Design
 
-Permaculture irrigation is half species choice and half terrain. Only a small part involves piping or pumps. Gravity directs water to gardens, and species are chosen for specific [[dighton-fungal-drought-tolerance-plant-water-relations]]. The barn roof harvests rainwater stored in a tank and gravity-fed to gardens below.
-
-**Desert irrigation**: Recycle all graywater to wetland marshes. Use buried drip hoses at least 6 inches under mulch. Make your own with earthenware ollas, bottles with holes, or pipes filled with gravel. Water only in early morning, late evening, or at night. Mulch and swales are the secret to [[comparison-desert-gardening-vs-drought-gardening]] success.
+Permaculture irrigation is half species choice and half terrain. Only a small part involves piping or pumps. Gravity directs water to gardens, and species are chosen for specific [[comparison-desert-gardening-vs-drought-gardening]] success.
 
 In the orchard, sprinklers can mist over roots but only in shady tree areas to avoid evaporation problems.
 
@@ -117,8 +67,83 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[permaculture-water-harvesting]]
 - [[permaculture]]
-- [[irrigation-systems]]
 - [[swale]]
 - [[graywater-systems]]
+
+## Overview
+
+Faires Permaculture Water Harvesting represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish faires permaculture water harvesting
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving faires extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Faires Permaculture Water Harvesting finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for faires permaculture water harvesting. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+faires permaculture water harvesting and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Faires Permaculture Water Harvesting has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of faires permaculture water harvesting into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.

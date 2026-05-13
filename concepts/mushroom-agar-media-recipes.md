@@ -15,13 +15,13 @@ sources:
 
 ## Overview
 
-Agar media are gelatinous, nutrient-rich substrates used for culturing [[antimicrobial-compounds-mushroom-mycelium]] in the laboratory. They serve [[plant-micronutrients-and-their-essential-functions]] [[contamination-prevention-in-mushroom-cultivation]]: isolating pure strains from spores or tissue, expanding mycelium for [[mushroom-cultivation-grain-spawn]] production, and maintaining [[mushroom-genetics-strain-selection]]. Different formulations suit different purposes and species preferences.
+Agar media are gelatinous, nutrient-rich substrates used for culturing [[antimicrobial-compounds-mushroom-mycelium]] in the laboratory. They serve [[plant-micronutrients-and-their-essential-functions]] [[contamination-prevention-in-mushroom-cultivation]]: isolating pure strains from spores or tissue, expanding mycelium for [[mushroom-cultivation-grain-spawn|grain spawn]] production, and maintaining [[mushroom-genetics-strain-selection|strain collections]]. Different formulations suit different purposes and species preferences.
 
 ## Basic Principles
 
 All agar media share these components:
 
-- **Agar:** A gelling agent derived from red algae (Gelidium or Gracilaria species), typically used at 1.5-2.0% concentration (15-20 g per liter). Provides a solid but moist surface for mycelial growth
+- **Agar:** A gelling agent derived from red algae (Gelidium or Gracilaria species), typically used at 1.5-2.0% concentration (15-20 g per liter). Provides a solid but moist surface for [[brassinosteroid-psilocybe-cubensis-mycelial-growth-research]]
 - **Nutrient source:** Provides carbohydrates, nitrogen, minerals, and vitamins for fungal growth
 - **Water:** Distilled or deionized; typically 1 liter per recipe
 - **pH adjustment:** Most mushroom mycelium prefers slightly acidic conditions (pH 5.0-6.5)
@@ -49,7 +49,7 @@ The most widely used general-purpose [[cultivator-contaminants-of-mushroom-cultu
 
 ### Malt Extract Agar (MEA)
 
-An excellent all-purpose medium, often preferred over PDA for its consistency and ease of preparation. Particularly good for [[basidiomycete-phylum-guide]].
+An excellent all-purpose medium, often preferred over PDA for its consistency and ease of preparation. Particularly good for [[basidiomycete-phylum-guide|basidiomycetes]].
 
 **Ingredients:**
 - 20 g malt extract powder (light malt extract, not dark)
@@ -146,5 +146,5 @@ A richer medium for fastidious species:
 ## Pouring Plates
 
 1. Allow sterilized media to cool to approximately 50-55°C (comfortable to touch but still liquid)
-2. Pour 20-25 mL into each sterile Petri dish inside a [[comparison-laminar-flow-hood-vs-fruiting-chamber]]
+2. Pour 20-25 mL into each sterile Petri dish inside a [[laminar-flow-hood]]
 3. Cover immediately and allow to solidify (15-30 minutes)

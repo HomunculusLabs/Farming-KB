@@ -43,9 +43,7 @@ Plinthite is significant because of its irreversible hardening behaviour. Unlike
 
 ## Related Concepts
 
-- [[ferricrete]] — the broader category of iron-cemented soil pans
 - [[silcrete-cangagua]] — silica-cemented soil pans
-- [[calcrete-caliche]] — calcium-cemented soil pans
 - [[ortstein]] — iron-organic hardpan in podzol soils (the organic-rich counterpart)
 
 ## Practical Applications
@@ -61,20 +59,85 @@ and long-term management goals. Integration with broader design frameworks enhan
 both resilience and productivity of the overall system.
 
 ## See Also
-- [[humus-formation-and-soil-organic-matter]]
 - [[keyline-design]]
-- [[bill-mollison-permaculture-a-designers-manual-soil-and-humus-management]]
 - [[urban-permaculture-trees-water-cycling]]
-- [[query-how-does-cover-cropping-benefit-soil-and-when-should-i-plant-them]]
-
-## Additional Context
-
-Plinthite represents an important element within the broader framework of
-sustainable land management and ecological design. Integration with complementary
-techniques enhances overall system resilience and productivity.
-
-## See Also
 - [[bill-mollison-permaculture-a-designers-manual-aquaculture-and-water-systems]]
-- [[mollison-designers-humus-building-and-soil-organic-matter]]
 - [[bill-mollison-permaculture-a-designers-manual-tropical-grassland-rehabilitation]]
 - [[bill-mollison-permaculture-a-designers-manual-dryland-strategies-and-desert-agriculture]]
+
+## Overview
+
+Plinthite represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish plinthite
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving plinthite extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Plinthite finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for plinthite. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+plinthite and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Plinthite has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of plinthite into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.

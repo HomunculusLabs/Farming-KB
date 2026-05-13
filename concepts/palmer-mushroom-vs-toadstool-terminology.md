@@ -27,12 +27,9 @@ interchangeable when speaking of fungi in popular language.
 ## Origin of the Error
 
 Palmer traced the confusion to the fact that only one variety of fungus
-— the common meadow mushroom ([[edible-mushroom-families-boleti-russula-lactarius-clavaria-puffballs-palmer]],
-[[mushroom-toxicology-palmer-theory]]
+— the common meadow mushroom ([[mushroom-toxicology-palmer-theory]]
 
 ## See Also
-
-- [[palmer-neglected-science-mycology]]
 
 - [[palmer-toadstool-poisoning-cases]]
 ## Practical Applications

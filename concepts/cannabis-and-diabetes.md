@@ -12,7 +12,7 @@ sources:
 
 updated: 2026-04-18
 
-Research from The [[blesching-cannabis-health-index-autoimmune-conditions]] documents significant potential for [[cannabis-anti-inflammatory-applications]], and hypoglycaemic effects (Ojewole, 2006)
+Research from The [[cannabis-anti-inflammatory-applications]], and hypoglycaemic effects (Ojewole, 2006)
 
 ### Garlic
 - Time-released garlic powder tablets improved metabolic effects in Type 2 diabetes in double-blinded placebo-controlled study (Sobenin et al., 2008)
@@ -30,45 +30,13 @@ Research from The [[blesching-cannabis-health-index-autoimmune-conditions]] docu
 - **Black seed (Nigella sativa)**: Cardiac inotropic and hypertrophic effects (El-Bahai et al., 2009)
 
 ### Beta-Caryophyllene
-**Gertsch et al. (2008)**: Beta-caryophyllene identified as a "dietary cannabinoid" -- a CB2-selective compound found in [[comparison-black-pepper-vs-cardamom-tropical-spice-cultivation]], cloves, rosemary, and cannabis. This is relevant because CB2 activation has anti-inflammatory effects without psychoactivity.
-
-## Psychosomatic Factors
-
-- Psychological stress may contribute to diabetes onset (Wales, 1995)
-- Blood glucose monitoring and glycemic control in adolescence affected by family conflict (Ingerski et al., 2010)
-- Positive emotions may protect against diabetes and other conditions (Richman et al., 2005)
-
-## Mechanism of Action
-
-### Endocannabinoid System in Diabetes
-- CB1 receptors are involved in [[blesching-cannabis-appetite-regulation-ghrelin-leptin]] and glucose metabolism
-- Overactivation of CB1 contributes to obesity and [[cannabis-metabolic-syndrome-research]] (a diabetes precursor)
-- CB2 receptors have anti-inflammatory effects that may protect pancreatic beta cells
-- CBD's immunomodulatory action may prevent autoimmune attack on beta cells
-
-### The Paradox
-While CB1 antagonists were explored as anti-obesity drugs (rimonabant), they caused depression and were withdrawn. CBD, which does not block CB1 but modulates the immune system, may offer a safer therapeutic approach.
-
-## Clinical Considerations
-
-### Strain Selection
-CBD-dominant strains or 1:1 THC:CBD strains are most appropriate for diabetes patients due to:
-- CBD's anti-inflammatory and immunomodulatory effects
-- Lower psychoactive burden for chronic use
-- Neuroprotective effects on the retina
-
-### Metabolic Effects
-Note that cannabis use is associated with increased appetite ("the munchies"), which may seem counterproductive for diabetes management. However, the studies above suggest that the biochemical effects of cannabinoids on glucose metabolism are independent of appetite effects.
-
-## Related Topics
-
-- [[cannabis-endocannabinoid-system]]
+**Gertsch et al. (2008)**: Beta-caryophyllene identified as a "dietary cannabinoid" -- a CB2-selective compound found in [[blesching-cannabis-appetite-regulation-ghrelin-leptin]] and glucose metabolism
+- Overactivation of CB1 contributes to obesity and [[cannabis-endocannabinoid-system]]
 - Cannabis For Inflammation
 
 ## Source
 
 Uwe Blesching, The Cannabis Health Index (2015), Diabetes Mellitus section
-- [[cannabis-seed-selection-and-strain-types]]
 - [[medicinal-mushroom-antioxidant-anti-inflammatory]]
 ## Practical Considerations
 
@@ -118,8 +86,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[cannabis-health-index]]
 - [[doc]]
-- [[uwe-blesching]]
 - [[dom]]
 - [[allicin]]

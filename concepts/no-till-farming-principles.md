@@ -1,11 +1,6 @@
 # No-Till Farming Principles
 
-No-till farming [[natural-farming-philosophy]] is an agricultural practice that eliminates mechanical soil disturbance,
-preserving soil structure, biology, and organic matter accumulation. Instead of turning
-soil with plows or rotary tillers, no-till systems rely on biological processes, surface
-mulching, and minimal surface disturbance to maintain planting conditions. The approach
-has gained enormous traction across both broad-acre commodity agriculture and small-scale
-market gardening, particularly in cannabis [[supercritical-co2-cannabis-extraction]] cultivation where soil health directly
+No-till farming [[supercritical-co2-cannabis-extraction]] cultivation where soil health directly
 influences terpene and cannabinoid profiles.
 
 ## Historical Development
@@ -25,7 +20,7 @@ development of paraquat and later glyphosate herbicides provided farmers with to
 manage weeds without mechanical cultivation. Today, no-till is practiced on over 180
 million hectares globally, with Brazil, Argentina, Australia, and the United States
 leading adoption. In organic and regenerative farming circles, no-till systems that
-avoid synthetic herbicides have become a central practice for building soil health.
+avoid synthetic herbicides have become a central practice for [[building-soil]] health.
 
 ## Soil Structure and Biology
 
@@ -36,7 +31,7 @@ mechanical tillage. These aggregates create pore spaces that facilitate water
 infiltration, gas exchange, and root penetration. When aggregates are destroyed, soil
 becomes compacted, erosion-prone, and less capable of supporting microbial life.
 
-The soil food web is profoundly affected by tillage. Mycorrhizal fungal networks, which
+[[the-soil-food-web]] is profoundly affected by tillage. Mycorrhizal fungal networks, which
 extend root reach and facilitate nutrient exchange, are physically severed by tilling.
 It takes weeks to months for these networks to reestablish. Earthworm populations,
 which create macropores and cycle nutrients through their digestive tracts, decline
@@ -45,8 +40,7 @@ regulate bacterial and fungal populations through grazing are also disrupted.
 
 In contrast, no-till soils develop increasingly complex biological communities over
 time. Fungal-to-bacterial ratios shift toward fungal dominance, which is associated
-with more stable [[soil-protozoa-nutrient-cycling-and-mineralization]] better soil structure. Glomalin, a sticky protein
-produced by [[arbuscular-mycorrhizal-fungi]], accumulates in no-till soils and acts as a
+with more stable [[arbuscular-mycorrhizal-fungi]], accumulates in no-till soils and acts as a
 biological glue binding soil particles together. Studies consistently show that no-till
 soils have 20-40% higher microbial biomass and significantly greater enzymatic activity
 compared to conventionally tilled soils.

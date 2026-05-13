@@ -2,7 +2,7 @@
 
 > Animal husbandry, food preservation, natural building, energy systems, and emergency preparedness
 
-**250 pages**
+**255 pages**
 
 ## A
 
@@ -57,9 +57,11 @@
 
 - [[dairy-and-cheesemaking]]
 - [[dam-construction]]
+- [[dam-wall-construction-and-earth-tanks]]
 - [[deer-fencing-and-deterrents]]
 - [[desert-house-energy-and-water-conservation]]
 - [[desert-house-water-energy-conservation]]
+- [[dieu-ponds-terraces-and-dam-construction]]
 - [[dryland-building-and-settlement]]
 - [[dryland-building-settlements]]
 - [[dryland-buildings-and-settlements]]
@@ -77,6 +79,8 @@
 - [[earthquake-preparedness-guide]]
 - [[egg-preservation-methods]]
 - [[emergency-preparedness]]
+- [[energy-conversion-efficiency]]
+- [[energy-conversion-efficiency-comparison]]
 - [[energy-efficiency-farming-systems-comparison]]
 - [[energy-efficient-house-design]]
 - [[extreme-heat-preparedness]]
@@ -302,6 +306,7 @@
 ## V
 
 - [[van-life-off-grid]]
+- [[village-energy-systems-and-conversion-efficiency]]
 
 ## W
 

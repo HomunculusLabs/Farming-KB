@@ -109,13 +109,8 @@ Global annual production is estimated at **over 50 million plants**, with major 
 
 ## See Also
 
-- [[euphorbia-tirucalli]]
 - [[echeveria-elegans]]
-- [[crassula-ovata]]
 - [[kalanchoe-blossfeldiana]]
-- [[haworthia-fasciata]]
 - [[sedum-acre]]
-- [[aloe-vera]]
 - [[agave-americana]]
-- [[euphorbia-obesa]]
 - [[aloe-arborescens]]

@@ -9,26 +9,7 @@ sources:
 ---
 # JADAM Antibiotic Contamination and Soil Health Crisis
 
-JADAM identifies the contamination of soil by antibiotics from [[fukuoka-factory-livestock-critique-natural-grazing-philosophy]] operations as one of the most serious and underrecognized threats to agricultural sustainability. The use of antibiotic-laden manure on farms creates a cascade of soil degradation that undermines the foundation of crop production.
-
-## The Antibiotic Pathway from Livestock to Soil
-
-The contamination cycle works as follows:
-
-1. Factory livestock operations routinely use hormones and antibiotics in raising animals
-2. Animal excrement containing antibiotic residues is processed into manure
-3. This manure is supplied to farms, often at very cheap prices due to government support
-4. When antibiotics build up in the soil, they destroy beneficial soil microorganisms
-5. Microorganism destruction leads to further hardening of soil
-6. Hardened soil reduces root penetration and crop health
-
-## Scientific Evidence
-
-A University of Minnesota study, supported by the US Department of Agriculture (USDA), investigated whether crops grown with compost containing antibiotics accumulate the chemicals within their tissue:
-
-- Antibiotics do move into the plants
-- Concentrations became higher as the use of manure increased
-- [[growing-root-vegetables-guide]] (potatoes, carrots, radish) that come into direct contact with soil were far more vulnerable to antibiotic contamination
+JADAM identifies the contamination of soil by antibiotics from [[growing-root-vegetables-guide]] (potatoes, carrots, radish) that come into direct contact with soil were far more vulnerable to antibiotic contamination
 - The implications extend beyond soil health to food safety and consumer health
 
 ## JADAM's Position
@@ -36,20 +17,14 @@ A University of Minnesota study, supported by the US Department of Agriculture (
 JADAM's core message on this issue:
 - "Any form of farming should be judged based on its ability to sustain production"
 - Continuing farming that contaminates soil with chemicals is "compromising our future"
-- [[coleman-deep-organic-farming-philosophy]] bans the use of such [[cotter-pet-livestock-waste-fungal-remediation-systems]] for good reason
+- [[cotter-pet-livestock-waste-fungal-remediation-systems]] for good reason
 - The principle: "Food going into my mouth determines my health; manure going into the soil determines the health of the crops"
 - The prescription: "Eat whole foods for your body and apply wholesome fertilizers for the crops"
 
 ## Connection to Soil Compaction
 
 Antibiotic contamination compounds the soil compaction problem:
-- Heavy tractors create a hardened [[ultra-low-soil-compaction-and-plow-pan-solutions]] at approximately 15 cm depth
-- Chemicals cannot penetrate deep into the soil through this compacted layer
-- Instead, they linger at the sub-surface level after water evaporates
-- This residue is highly detrimental to crop roots
-- Combined with antibiotic destruction of microbes, the soil becomes increasingly hostile to plant life
-
-See [[jadam-root-soil-assessment]] for the physical dimension of this crisis.
+- Heavy tractors create a hardened [[jadam-root-soil-assessment]] for the physical dimension of this crisis.
 
 ## The Root-Soil Connection
 
@@ -68,11 +43,8 @@ JADAM uses pepper (chili) cultivation as an illustrative example:
 - The root cause is not new diseases but degraded soil from chemical inputs
 - Pepper roots no longer settle properly because soil microorganism communities have been destroyed
 
-See [[jadam-seed-treatment-leaf-mold]] to restore microbial diversity
-6. Use [[jadam-vision-four-aims]] -- the systemic challenges
-- [[jadam-transition-conventional-to-organic]] -- the path forward
+See [[jadam-vision-four-aims]] -- the systemic challenges
 - [[jadam-soil-management-principles]]
-- [[jadam-root-soil-assessment]]
 - [[jadam-natural-farming-philosophy]]
 ## Practical Considerations
 
@@ -122,8 +94,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[det]]
 - [[jadam-soil-management-no-till-and-weed-control]]
-- [[jadam-soil-management-without-tillage]]
 - [[jadam-green-manure-crops-for-soil-salinity-reduction]]
 - [[jadam-soil-foundation-work]]

@@ -15,57 +15,14 @@ type: concept
 Fungal ecosystem services are the benefits that fungi provide to humanity
 and to the natural world. These services span virtually every ecological
 process and have direct implications for agriculture, medicine, climate
-regulation, and [[fungal-biodiversity-conservation-status]]. Despite their foundational
-importance, fungal ecosystem services are often overlooked in
-environmental policy and conservation planning, in part because so much
-of fungal diversity remains undescribed.
-
-## Carbon Cycling and Climate Regulation
-
-### Decomposition
-
-Fungi are the primary agents of decomposition in terrestrial ecosystems.
-They possess a unique enzymatic repertoire that enables them to break down
-complex organic polymries that no other organisms can efficiently degrade.
-White-rot fungi, for example, produce lignin peroxidases and manganese
-peroxidases that depolymerize lignin — the second most abundant organic
-polymer on Earth after cellulose. Without fungal decomposition, dead wood
-and plant litter would accumulate indefinitely, carbon and nutrient
-cycling would halt, and ecosystems would collapse.
-
-Brown-rot fungi use a different strategy, employing Fenton chemistry to
-generate hydroxyl radicals that selectively degrade cellulose and hemicellulose
-while leaving lignin partially modified. This creates a characteristic
-brown residue that is an important component of [[knf-leaf-mold-humus]].
+regulation, and [[knf-leaf-mold-humus]].
 
 ### Soil Carbon Storage
 
 Fungi play a dual role in the global carbon cycle. While decomposition
 releases carbon dioxide, fungal biomass and metabolic products also
 contribute to stable soil organic matter. Glomalin — a glycoprotein
-produced by [[comparison-soil-food-web-vs-arbuscular-mycorrhizal-fungi]] fungi — is remarkably resistant to
-degradation and can persist in soils for decades to centuries, forming a
-significant long-term carbon sink. Globally, mycorrhizal fungi are
-estimated to transfer 5-10 billion tonnes of carbon from plants to soils
-annually.
-
-## Plant Nutrition and Mycorrhizal Networks
-
-### Nutrient Exchange
-
-Mycorrhizal fungi form symbiotic associations with over 90% of plant
-species. In exchange for plant-derived carbohydrates, these fungi provide
-their hosts with mineral nutrients — particularly phosphorus, nitrogen,
-and micronutrients like zinc and copper. The fungal mycelium extends far
-beyond the plant root zone, effectively increasing the absorptive surface
-area of the root system by orders of magnitude.
-
-### Common Mycorrhizal Networks
-
-Individual mycorrhizal fungi often connect multiple plants simultaneously,
-forming underground networks sometimes called "wood wide webs" or "common
-mycorrhizal networks" (CMNs). Through these networks, carbon, nutrients,
-and [[query-how-do-plants-use-chemical-signals-to-defend-against-insects]] can be transferred between plants. Research has
+produced by [[query-how-do-plants-use-chemical-signals-to-defend-against-insects]] can be transferred between plants. Research has
 shown that CMNs can facilitate nutrient transfer from older, shaded trees
 to younger seedlings in forest understories, and may enable plants to
 send chemical warnings about insect herbivore attacks to neighboring
@@ -75,17 +32,9 @@ plants.
 
 ### Plant Growth Promotion
 
-Beyond [[plants-without-mycorrhizal-associations]], many fungi [[query-what-are-pgpr-and-how-do-they-promote-plant-growth]] through
-other mechanisms. [[endophytic-fungi-living-inside-plants]] within plant tissues can produce
-growth hormones, fix atmospheric nitrogen, solubilize phosphate, and
-suppress plant pathogens. Commercial biofertilizers based on fungi like
-*Trichoderma* and [[pgpr-mycorrhizal-inoculants-microplant-establishment]] are increasingly used in
-[[phosphate-accumulators-sustainable-agriculture]].
-
-### Biological Control
-
-Fungal pathogens of insect pests (entomopathogenic fungi) are used as
-biological control agents. *[[beauveria-bassiana]]* and *Metarhizium
+Beyond [[query-what-are-pgpr-and-how-do-they-promote-plant-growth]] through
+other mechanisms. [[pgpr-mycorrhizal-inoculants-microplant-establishment]] are increasingly used in
+[[beauveria-bassiana]]* and *Metarhizium
 anisopliae* are mass-produced and applied as biopesticides against
 agricultural and forest pests. These fungi infect and kill insects
 
@@ -118,8 +67,83 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[fungal-decomposition]]
 - [[mycorrhizal-networks]]
-- [[metarhizium]]
 - [[mycelium]]
 - [[mycorrhizal-fungi]]
+
+## Overview
+
+Fungal Ecosystem Services represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish fungal ecosystem services
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving fungal extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Fungal Ecosystem Services finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for fungal ecosystem services. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+fungal ecosystem services and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Fungal Ecosystem Services has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of fungal ecosystem services into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.

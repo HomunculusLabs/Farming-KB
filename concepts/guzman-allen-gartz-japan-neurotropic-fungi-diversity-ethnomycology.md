@@ -17,7 +17,7 @@ Japan possesses one of the most thoroughly documented neurotropic fungal floras 
 ### Ascomycetes: Cordyceps Species
 Japan is unusual among Asian countries in hosting two Cordyceps species used as sacred fungi:
 - **Cordyceps capitata** — Heim & Wasson (1958), Schultes & Hofmann (1973, 1979), Heim (1978), Imazeki & Hongo (1983, 1987), Imazeki et al. (1988). This species parasitizes Elaphomyces (deer truffle) fruiting bodies. It was among the fungi considered by Heim and Wasson as having potential psychoactive properties in their early Mexican ceremonial context work.
-- **Cordyceps ophioglossoides** — Heim & Wasson (1958), Schultes & Hofmann (1973, 1979), Heim (1978), Imazeki & Hongo (1983, 1987), Imazeki et al. (1988). Another Elaphomyces parasite with a long history in Japanese traditional medicine. While its psychoactive properties remain unconfirmed, its inclusion in the neurotropic fungi category reflects its ceremonial use.
+- **Cordyceps ophioglossoides** — Heim & Wasson (1958), Schultes & Hofmann (1973, 1979), Heim (1978), Imazeki & Hongo (1983, 1987), Imazeki et al. (1988). Another Elaphomyces parasite with a long history in Japanese traditional medicine. While its psychoactive properties remain unconfirmed, its inclusion in the [[neurotropic-fungi]] category reflects its ceremonial use.
 
 ### Amanita Species (Ibotenic Acid Group)
 - **Amanita muscaria** — The most extensively documented neurotropic fungus in Japan, reported by Hongo (1959, 1960), Takemoto et al. (1964a, 1964b), Heim (1965a, b, 1978), Chilton et al. (1974), Ott (1976b, 1993), Hongo & Yokoyama (1978), Imazeki & Hongo (1983, 1987), Yokoyama (1985), and Imazeki et al. (1988). In Japan, A. muscaria is mycorrhizal with birch (Betula) and various Pinus species in northern and montane forests.
@@ -123,9 +123,6 @@ While Japan is relatively well-surveyed compared to most Asian countries, Guzmá
 
 ## See Also
 
-- [[guzman-allen-gartz-neurotropic-fungi-asia]]
 - [[guzman-allen-gartz-neurotropic-fungi-australasia]]
-- [[cordyceps-claviceps-sacred-neurotropic-fungi-mexico]]
 - [[gymnopilus-spectabilis-profile]]
-- [[gartz-pluteus-salicinus-wood-inhabiting-psilocybin]]
 - [[amanita-muscaria-chemistry-and-pharmacology]]

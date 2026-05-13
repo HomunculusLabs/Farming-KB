@@ -11,7 +11,7 @@ sources: [papers/a-training-manual-mushroom-cultivation-by-people-with-disabi.md
 
 ## Overview
 
-Cultivating edible and [[comparison-chaga-vs-turkey-tail-medicinal-mushrooms-comprehensive]] on contaminated substrates represents a dual-purpose strategy: bioremediation of pollutants combined with production of valuable fungal biomass. White-rot basidiomycetes used in mushroom cultivation naturally produce [[mycoremediation-white-rot-fungi-lignin-degradation-enzymes]] that degrade a wide range of environmental contaminants. The spent mushroom substrate (SMS) remaining after harvest can further serve as a soil amendment, compost ingredient, or continued bioremediation agent.
+Cultivating edible and [[mycoremediation-white-rot-fungi-lignin-degradation-enzymes]] that degrade a wide range of environmental contaminants. The spent mushroom substrate (SMS) remaining after harvest can further serve as a soil amendment, compost ingredient, or continued bioremediation agent.
 
 ## Substrates for Cultivation
 
@@ -23,7 +23,6 @@ Several commercially cultivated mushroom species have demonstrated bioremediatio
 
 - **Pleurotus ostreatus** (oyster mushroom): Degrades mycoremediation-of-petroleum-hydrocarbons in creosote-contaminated soil, mineralizing 53% [14C]pyrene, 25% [14C]benz[a]anthracene, and 39% [14C]benzo[a]pyrene to 14CO2 in solid-state fermentation. Removes all PAHs except heterocyclic compounds from aged creosote-contaminated soil. Also degrades [[mycoremediation-textile-dye-degradation]].
 - **Pleurotus florida**: Mineralizes [14C]heavier PAHs in soils and shows ability to grow from straw substrate into contaminated soil. Degrades eight unlabeled and three 14C-labeled PAHs during solid-state fermentation.
-- **[[staycare-phanerochaete-chrysosporium-in-bioremediation]]**: Although not typically cultivated as an edible mushroom, this model white-rot fungus is widely used in bioremediation research. Removes up to 96% of total PAHs from creosote-contaminated soil in 4 months.
 - **[[growing-gourmet-turkey-tail-trametes-versicolor-cultivation]]**: Mineralizes 34.1% of [14C]pyrene during cultivation on wheat straw, the highest rate among species tested.
 - **[[genetic-improvement-agaricus-bisporus-molecular-approaches]]**: The compost extract of spent A. bisporus substrate serves as a source of crude laccase for enzymic oxidation of phenols. Spent compost achieves 100% phenol removal.
 
@@ -33,7 +32,7 @@ SMS is the residual material after mushroom harvest and represents a large-volum
 
 - **Soil bioremediation**: SMS from Agaricus bisporus provides crude laccase activity for phenol oxidation. Fish oil is added to SMS and mixed with creosote-contaminated soil for bioaugmentation, achieving enhanced PAH removal.
 - **Compost bioreactors**: Composting with SMS can reduce extractable mycoremediation-of-petroleum-hydrocarbons by stimulating biodegradation or binding intermediates to organic matter. SMS-amended compost removed 45% of benzo[a]pyrene with Phanerochaete chrysosporium.
-- **Inoculum carrier**: Spent mushroom culture can be advantageous as fungal inoculum for [[mycoremediation-explosive-contaminants]], and [[mycoremediation-pesticide-herbicide-contamination]]. Pilot-scale composting of chlorophenol-contaminated soil achieved >90% removal. Compost bioaugmentation with P. chrysosporium showed removal efficiencies of 62.8% and 65.6% for fungal-amended and unamended systems respectively, with bound residue formation as the primary removal mechanism.
+- **Inoculum carrier**: Spent mushroom culture can be advantageous as fungal inoculum for [[mycoremediation-pesticide-herbicide-contamination]]. Pilot-scale composting of chlorophenol-contaminated soil achieved >90% removal. Compost bioaugmentation with P. chrysosporium showed removal efficiencies of 62.8% and 65.6% for fungal-amended and unamended systems respectively, with bound residue formation as the primary removal mechanism.
 
 ## PAH Degradation During Cultivation
 
@@ -88,9 +87,7 @@ When applying these concepts, consider regional variations, available resources,
 
 ## See Also
 
-- [[tropical-mushroom-cultivation-agricultural-waste-substrates-poverty-alleviation]]
 - [[mushroom-cultivation-bulk-substrates]]
-- [[wine-cap-mushroom-cultivation]]
 - [[victorian-mushroom-spawn-cultivation]]
 - [[victorian-mushroom-cultivation]]
 

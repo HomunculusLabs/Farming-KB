@@ -1,5 +1,5 @@
 ---
-title: Stem Butt Cardboard Cultivation
+title: Stem Butt and Cardboard Cultivation — Low-Tech Mycelium Expansion
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
@@ -36,7 +36,7 @@ The stem butt method uses the bottom portion of harvested mushrooms to generate 
 - Slower than commercial spawn (typically 1 year longer)
 - Not all strains survive the transfer
 - Trial-and-error required to perfect technique
-- Lower success rate than [[mushroom-spawn-making-and-pure-culture-methods]]
+- Lower success rate than pure culture methods
 
 ## Cardboard Spawn Method
 
@@ -44,7 +44,7 @@ The stem butt method uses the bottom portion of harvested mushrooms to generate 
 
 Corrugated cardboard is an excellent substrate for mycelial expansion:
 - Sweet wood-based glues in cardboard boost mycelial growth
-- Contaminating green molds (Trichoderma species) do NOT grow as well on cardboard as many gourmet and [[medicinal-mushrooms]]
+- Contaminating green molds (Trichoderma species) do NOT grow as well on cardboard as many gourmet and medicinal mushrooms
 - Corrugated ridges and valleys provide favorable microenvironments
 - Readily available, free, and biodegradable
 - Cardboard from US, Canada, and Europe tends to be free of dioxins
@@ -104,9 +104,9 @@ Practically any fallen tree or piece of wood on the ground for a few months will
 ### Identification Without Mushrooms
 
 Mycelium "breathes" — emitting species-specific fragrances:
-- **[[cancer-medicinal-mushrooms-pleurotus-ostreatus]]** (oyster): Mildly anise-like
+- **Pleurotus ostreatus** (oyster): Mildly anise-like
 - **Clitocybe odora**: Anise-rich
-- **[[tricholoma-matsutake]]**: Pine-like
+- **Tricholoma matsutake**: Pine-like
 - **Stropharia rugoso-annulata**: Rich, uniquely sweet fragrance
 - **Lepista nuda** (blewit): Brilliant purplish mycelium
 
@@ -133,7 +133,7 @@ Mycelium "breathes" — emitting species-specific fragrances:
 2. Spread over 10 lbs of moist, untreated wheat straw
 3. Place in perforated bag or container
 4. Incubate outdoors at 35-50°F
-5. In [[psilocybin-north-america-pacific-northwest]]: January inoculation → March fruiting (for oyster mushrooms)
+5. In Pacific Northwest: January inoculation → March fruiting (for oyster mushrooms)
 
 ## Expansion Mathematics
 

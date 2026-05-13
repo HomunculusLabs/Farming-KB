@@ -1,6 +1,6 @@
 ---
 
-title: Gymnopilus Purpuratus
+title: Gymnopilus purpuratus
 created: 2026-04-12
 updated: 2026-04-12
 type: entity
@@ -22,7 +22,7 @@ sources:
 
 # Gymnopilus purpuratus
 
-A large, orange psychoactive mushroom of the genus Gymnopilus, notable for its striking appearance and wide [[guzman-allen-gartz-africa-southern-hemisphere-underexplored-neurotropic-fungi]] distribution. Contains psilocybin, psilocin, and bis-noryangonin. Documented extensively by [[jochen-gartz]].
+A large, orange psychoactive mushroom of the genus Gymnopilus, notable for its striking appearance and wide Southern Hemisphere distribution. Contains psilocybin, psilocin, and bis-noryangonin. Documented extensively by [[jochen-gartz]].
 
 ## Taxonomy
 
@@ -40,7 +40,7 @@ A large, orange psychoactive mushroom of the genus Gymnopilus, notable for its s
 - **Gills (lamellae):** Adnate to slightly decurrent, moderately crowded. Color: chrome yellow when young, becoming rusty-orange to purplish-brown with spore maturity. Edge often paler and finely serrate.
 - **Stem (stipe):** 4-10 cm long, 0.5-1.5 cm thick. Equal or tapering slightly upward. Surface fibrous, often with longitudinal striations. Color: yellow-orange above, darker brownish below. Ring (annulus): present but evanescent — a thin, yellowish membranous ring that often disappears. Cortina-like veil in young specimens.
 - **Flesh:** Yellow-orange, firm. Turns purplish-brown to greenish on exposure (not blue — this is a Gymnopilus characteristic).
-- **Spore print:** Rusty brown to purplish-brown (distinctive).
+- **[[spore-print]]:** Rusty brown to purplish-brown (distinctive).
 - **Spores:** Rough/warty (echinulate), elliptical to amygdaliform, 7-10 x 4.5-6 µm.
 - **Odor:** Mild to slightly farinaceous (flour-like) or not distinctive.
 - **Taste:** Mild to slightly bitter.
@@ -63,7 +63,7 @@ Gymnopilus purpuratus has a primarily Southern Hemisphere distribution:
 - Rare and at the northern edge of its range. Occasional reports from southern Europe, but these may represent confusion with other Gymnopilus species.
 
 ### North America
-- **United States:** Rarely reported, primarily from the [[psilocybin-north-america-pacific-northwest]] and Gulf Coast states. Most North American reports of "psychoactive Gymnopilus" refer to G. spectabilis (see below).
+- **United States:** Rarely reported, primarily from the Pacific Northwest and Gulf Coast states. Most North American reports of "psychoactive Gymnopilus" refer to G. spectabilis (see below).
 
 ## Habitat and Ecology
 
@@ -86,7 +86,7 @@ Gymnopilus purpuratus contains a unique combination of psychoactive compounds:
 
 ### Bis-noryangonin
 
-G. purpuratus is notable for containing bis-noryangonin, a beta-carboline compound with monoamine oxidase inhibiting (MAOI) properties. This is significant because:
+G. purpuratus is notable for containing bis-noryangonin, a [[beta-carboline]] compound with monoamine oxidase inhibiting (MAOI) properties. This is significant because:
 - MAOIs can potentiate the effects of tryptamines by inhibiting their enzymatic breakdown
 - The presence of a natural MAOI alongside psilocybin/psilocin may alter the pharmacokinetics of the experience
 - This compound is characteristic of the Gymnopilus genus and is not found in Psilocybe or Panaeolus species
@@ -104,7 +104,7 @@ Gartz documented that G. purpuratus was used recreationally in Chile, particular
 
 ### Australian Use
 
-In Australia, G. purpuratus is occasionally used but is less well-known than Psilocybe cubensis ("gold tops") or [[panaeolus-cyanescens-bali-omelette]] ("blue meanies"). Its wood-inhabiting habit and seasonal autumn fruiting make it less accessible than the dung-inhabiting species that fruit year-round in tropical areas.
+In Australia, G. purpuratus is occasionally used but is less well-known than Psilocybe cubensis ("gold tops") or Panaeolus cyanescens ("blue meanies"). Its wood-inhabiting habit and seasonal autumn fruiting make it less accessible than the dung-inhabiting species that fruit year-round in tropical areas.
 
 ## Similar Species (Critical for Safety)
 
@@ -122,11 +122,11 @@ Several Gymnopilus species resemble G. purpuratus but may differ in psychoactive
 
 ## Relationship to Other Psychoactive Genera
 
-Gymnopilus represents a distinct lineage of [[ceremonial-shamanic-use-psychoactive-mushrooms]] separate from the better-known genera:
+Gymnopilus represents a distinct lineage of psychoactive mushrooms separate from the better-known genera:
 - Unlike Psilocybe and Panaeolus (dark-spored, typically dung-inhabiting), Gymnopilus has rusty-brown spores and is primarily wood-inhabiting
 - The presence of bis-noryangonin (a beta-carboline MAOI) alongside psilocybin is unique to this genus
 - The bluing reaction characteristic of Psilocybe is replaced by purplish-brown color changes in Gymnopilus
-- This represents an independent evolutionary origin of [[baeocystin-and-norbaeocystin-in-psilocybin-biosynthesis]], suggesting convergent evolution toward psychoactive tryptamine production
+- This represents an independent evolutionary origin of psilocybin biosynthesis, suggesting convergent evolution toward psychoactive tryptamine production
 
 ## See Also
 

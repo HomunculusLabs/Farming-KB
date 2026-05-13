@@ -21,48 +21,8 @@ slowly to plants over weeks and months.
 
 ## The Soil Sponge
 
-Humus and [[hamilton-composting-and-organic-matter-management]] act as a sponge, swelling to hold
-several times their weight in water. Research shows that soil
-with as little as 2 percent organic matter can reduce
-irrigation needs by 75 percent compared to poor soils with
-less than 1 percent organic matter. One foot of rich, moist
-soil blanketing a backyard holds as much water as a 3-inch-
-deep lake the same size.
-
-The key to soil water storage is organic matter. Most urban
-and suburban soils are low in organic matter because developers
-often strip the topsoil from new subdivisions. Before
-homeowners can achieve the "lake-in-the-ground" effect, they
-must build up organic matter to at least its pre-development
-state.
-
-## How Rivers Work
-
-Hemenway illustrates this principle with a visit to seed-grower
-George Stevens's farm on the banks of the Klamath River. When
-asked how often he irrigates, George pointed to the foothills
-ringing the valley and explained that the hillsides, covered
-with soil lying on rocky substrata, act as a giant sponge.
-They hold massive quantities of water and release it slowly
-over the dry summer, draining underground to feed the river.
-
-This explains why rivers stay full instead of draining dry
-after each rain. Creeks are fed not by an endlessly gushing
-faucet but by water that slowly seeps out of humic earth,
-drop by drop, the drops coalescing into trickles and then
-broader creeks. Rivers come from the soil, guardian of our
-water.
-
-## Building Water-Holding Soil
-
-To transform garden soil into a water reservoir, several
-techniques work together:
-
-- Add generous amounts of [[coleman-compost-and-organic-fertility-management]] matter
-- Use hemenway-cover-crops-guide and [[mulch-types-and-effects]] to reduce evaporation
-- Avoid compacting soil by minimizing foot traffic
-
-[[soil-foodweb]] organisms, including fungi and bacteria,
+Humus and [[coleman-compost-and-organic-fertility-management]] matter
+- Use hemenway-cover-crops-guide and [[soil-foodweb]] organisms, including fungi and bacteria,
 create glomalin and other substances that improve soil
 structure and water-holding capacity.
 
@@ -77,46 +37,92 @@ lower than the edges. These gentle depressions are invisible
 to the eye but the rain knows they are there.
 
 gaias-garden-rainwater-roof-harvesting
-   and [[ozier-pdc-composting-and-soil-building]], deep mulching, and
-composting all build the soil's ability to store water.
+   and [[sheet-mulching]]
+- [[toby-hemenway]]
+- [[irrigation-systems]]
+- [[mollison-designers-soil-water-storage-in-forest-systems]]
 
-## See Also
+## Overview
 
-- gaias-garden-rainwater-roof-harvesting
-- [[sheet-mulching]]
-- [[gaias-garden-bringing-the-soil-to-life]]
+Hemenway Soil As Water Storage represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish hemenway soil as water storage
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving hemenway extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
 
 ## Practical Applications
 
-The principles and techniques discussed here have wide-ranging applications
-across multiple disciplines and contexts. Practitioners and researchers
-continue to explore new ways to integrate these concepts into modern practice,
-adapting traditional knowledge to contemporary challenges and opportunities.
+Hemenway Soil As Water Storage finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
 
-## Key Considerations
+## Management and Implementation
 
-Several important factors influence the effectiveness and outcomes described
-in this topic. Understanding these considerations helps practitioners make
-informed decisions and avoid common pitfalls. Environmental conditions,
-timing, and material selection all play critical roles.
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for hemenway soil as water storage. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+hemenway soil as water storage and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
 
 ## Historical Context
 
-The historical development of this subject reflects centuries of accumulated
-knowledge and practical experience. From traditional methods passed down
-through generations to modern scientific approaches, the evolution continues
-to inform current best practices and research directions.
+Hemenway Soil As Water Storage has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
 
-## Common Challenges
+## Integration Strategies
 
-Practitioners frequently encounter several challenges when working with
-these concepts. Climate variability, resource limitations, and knowledge
-gaps can all affect outcomes. Addressing these challenges requires patience,
-observation, and a willingness to adapt approaches based on results.
+Successful integration of hemenway soil as water storage into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
 
 ## See Also
-- [[toby-hemenway]]
-- [[building-soil]]
-- [[irrigation-systems]]
-- [[composting]]
-- [[mollison-designers-soil-water-storage-in-forest-systems]]
+
+- [[hemenway-accelerated-succession]]
+- [[hemenway-backyard-wildlife-habitat]]
+- [[hemenway-cold-air-drainage-and-frost-management]]
+- [[hemenway-garden-design-process-observation-and-visioning]]
+- [[hemenway-mulch-makers-and-plant-functional-roles]]

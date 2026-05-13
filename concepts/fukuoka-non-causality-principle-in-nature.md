@@ -1,15 +1,13 @@
 ---
 title: Fukuoka's Non-Causality Principle in Nature
-source: The Natural Way of Farming - [[masanobu-fukuoka]]
-source_id: fukuoka-textdoc
-topics: [[natural-farming]], philosophy-of-nature, non-causality, mu, epistemology, eastern-philosophy, scientific-method-critique]
+source: The Natural Way of Farming - natural-farming, philosophy-of-nature, non-causality, mu, epistemology, eastern-philosophy, scientific-method-critique]
 ---
 
 # Fukuoka's Non-Causality Principle in Nature
 
 ## Beyond Cause and Effect
 
-[[masanobu-fukuoka-natural-farming-philosophy]]'s philosophy [[four-principles-of-natural-farming]] rests on a radical
+[[four-principles-of-natural-farming]] rests on a radical
 epistemological claim: in nature, there is no cause and effect. This
 assertion, which strikes at the heart of Western scientific reasoning,
 distinguishes Fukuoka's thought not only from conventional agriculture
@@ -20,8 +18,7 @@ Fukuoka sees an indivisible whole whose apparent causal connections are
 artifacts of human intellectual fragmentation.
 
 The non-causality principle emerges most clearly in Fukuoka's
-discussion of desert formation. Scientists approach [[desertification]]
-by seeking causes: overgrazing, deforestation, [[dighton-fungal-responses-climate-change]], soil
+discussion of desert formation. Scientists approach [[dighton-fungal-responses-climate-change]], soil
 erosion. Each identified cause suggests an intervention, and each
 intervention creates new effects that require further study. Fukuoka
 argues that this approach is fundamentally misguided because the chain
@@ -66,12 +63,7 @@ cause and effect are intellectual constructs imposed on a system
 that operates as an indivisible whole.
 
 Fukuoka's alternative to causal intervention is not inaction but a
-different kind of action: the scattering of [[fukuoka-aerial-seeding-clay-pellets-desert-revegetation-technique]] containing
-a diverse mixture of seeds and microorganisms over barren land. This
-approach does not attempt to identify and correct specific causes of
-desertification. Instead, it introduces complexity and diversity into
-a simplified system, trusting that the self-organizing properties of
-nature will reestablish a functional ecosystem. The [[fukuoka-desert-revegetation-clay-pellets]]
+different kind of action: the scattering of [[fukuoka-desert-revegetation-clay-pellets]]
 protect seeds from predation and desiccation until conditions are
 right for germination, at which point natural processes take over.
 
@@ -90,7 +82,7 @@ itself a product of previous interventions.
 
 In Fukuoka's own fields, which had not been plowed for thirty years,
 the soil maintained its structure through the action of plant roots
-and soil organisms. The [[fukuoka-white-clover-cover-crop-system]] and the [[fukuoka-rice-straw-mulch-central-technique]]
+and soil organisms. The [[fukuoka-rice-straw-mulch-central-technique]]
 created conditions in which the soil worked itself, without any need
 for mechanical intervention. The apparent necessity of plowing is
 therefore not a response to natural soil conditions but a response

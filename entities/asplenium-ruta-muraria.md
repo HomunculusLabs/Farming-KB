@@ -108,13 +108,8 @@ Asplenium ruta-muraria is sometimes placed in the segregate genus Ceterach based
 
 ## See Also
 
-- [[asplenium-trichomanes]]
 - [[asplenium-scolopendrium]]
-- [[asplenium-nidus]]
 - [[adiantum-capillus-veneris]]
-- [[polypodium-vulgare]]
 - [[cystopteris-fragilis]]
-- [[dryopteris-filix-mas]]
 - [[athyrium-filix-femina]]
-- [[adiantum-pedatum]]
 - [[pteris-cretica]]

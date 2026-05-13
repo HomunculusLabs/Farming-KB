@@ -10,11 +10,7 @@ type: query
 ---
 # How to Make Lactobacillus Serum for Plants
 ## Short Answer
-Lactobacillus serum (LAB serum) is a natural probiotic culture made by fermenting rice wash water with milk to selectively breed Lactobacillus bacteria. It is a core input in Korean [[comparison-natural-farming-vs-permaculture]] and JADAM methods, used as a soil inoculant, compost accelerator, foliar spray, and odor suppressant. Making it at home costs nearly nothing using just rice, water, milk, and a glass jar.
-## Detailed Explanation
-### What Is Lactobacillus Serum?
-Lactobacillus serum is one of the most versatile inputs in natural farming systems. Lactobacillus bacteria are lactic [[lactic-acid-bacteria-knf]] (LAB) that produce lactic acid as a metabolic byproduct. This acid lowers pH, suppresses harmful microorganisms, breaks down [[hamilton-composting-and-organic-matter-management]], and makes nutrients more available to plants.
-In Korean Natural Farming, LAB serum is considered essential for maintaining soil health. It is used in virtually every aspect of crop production, from seed treatment to post-harvest storage. For a full overview of how it fits into a broader fertility program, see the [[bionutrients-lab-lactic-acid-bacteria-serum]] guide provides detailed ratios and troubleshooting tips for each stage of this process.
+Lactobacillus serum (LAB serum) is a natural probiotic culture made by fermenting rice wash water with milk to selectively breed Lactobacillus bacteria. It is a core input in Korean [[lactic-acid-bacteria-knf]] (LAB) that produce lactic acid as a metabolic byproduct. This acid lowers pH, suppresses harmful microorganisms, breaks down [[bionutrients-lab-lactic-acid-bacteria-serum]] guide provides detailed ratios and troubleshooting tips for each stage of this process.
 ### Storage and Shelf Life
 Proper storage keeps your LAB serum viable for months or longer. Glass containers are strongly preferred over plastic, which can leach chemicals and is less airtight.
 - **Room temperature:** store in a sealed glass jar for up to 6 months.
@@ -30,11 +26,10 @@ Dilution rates depend on how you plan to use the serum. These are starting point
 | Foliar spray | 1:1000 (serum to water) | Every 2-3 weeks |
 | Compost accelerator | 1:50 (serum to water) | As needed when turning |
 | Odor control | 1:100 (serum to water) | Spray manure piles weekly |
-For [[ultra-low-cost-foliar-application-methods]], spray in the early morning or late evening to avoid leaf burn. Adding a small amount of surfactant (a few drops of mild soap) can help the serum spread evenly across leaf surfaces.
-The [[query-how-to-start-a-worm-compost-bin]].
+For [[query-how-to-start-a-worm-compost-bin]].
 - **As an odor control agent:** It suppresses ammonia-producing bacteria and reduces foul smells in manure piles and livestock operations. Many small-scale livestock keepers spray pens weekly.
 - **As a plant health tonic:** Foliar applications populate leaf surfaces with beneficial bacteria that compete with pathogens for space and nutrients, creating a protective biofilm.
-- **In bokashi systems:** LAB serum is an essential ingredient in the bran-based inoculant that ferments kitchen scraps anaerobically. See the [[complete-knf-input-reference]] lists LAB serum among the core inputs of Korean Natural Farming and provides application schedules for different growth stages. For a broader comparison of farming approaches that use LAB serum, see [[query-how-to-make-korean-natural-farming-inputs]].
+- **In bokashi systems:** LAB serum is an essential ingredient in the bran-based inoculant that ferments kitchen scraps anaerobically. See the [[query-how-to-make-korean-natural-farming-inputs]].
 ## Key Points
 - LAB serum is made in two stages: ferment rice wash water for 2-3 days, then add milk and ferment 5-7 more days
 - The clear yellow liquid that separates from the milk curd is the usable serum
@@ -45,7 +40,6 @@ The [[query-how-to-start-a-worm-compost-bin]].
 - Raw milk produces the best results, but standard pasteurized milk works well too
 - Always strain the final serum and discard the curd and sediment layers
 ## Related Questions
-- [[query-jadam-vs-korean-natural-farming]]
 - [[lactobacillus]]
 ## Practical Considerations
 

@@ -20,25 +20,7 @@ The same enzyme systems that white-rot fungi use to degrade lignin -- lignin per
 
 ### Lignin Peroxidase (LiP)
 
-Lignin peroxidase is a heme-containing glycoprotein that catalyzes the oxidation of non-phenolic aromatic compounds with redox potentials exceeding 1.4 V, making it one of the most powerful biological oxidants known. LiP can oxidize [[staycare-fungal-degradation-of-polycyclic-aromatic-hydrocarbons]] hydrocarbons (PAHs), chlorinated phenols, and various other aromatic pollutants. The enzyme requires [[cervantes-hydrogen-peroxide-sterilization]] as a co-substrate and [[staycare-veratryl-alcohol-as-lignin-peroxidase-mediator]] as a redox mediator for optimal activity against some substrates.
-
-### Manganese Peroxidase (MnP)
-
-Manganese peroxidase oxidizes Mn(II) to Mn(III), which forms stable complexes with organic acids (oxalate, malonate, malate). The Mn(III)-organic acid complex is a diffusible oxidant capable of degrading phenolic compounds and initiating the depolymerization of lignin. MnP is the most commonly expressed ligninolytic peroxidase in soil environments and plays a central role in the degradation of pentachlorophenol (PCP) and other chlorinated pollutants.
-
-### Laccase
-
-Laccases are multicopper oxidases that oxidize phenolic substrates by a four-electron reduction of molecular oxygen to water. With the aid of redox mediators (natural or synthetic), laccases can also oxidize non-phenolic compounds. Laccases have broad substrate specificity and are involved in the degradation of PAHs, chlorinated phenols, azo dyes, and other xenobiotics.
-
-## Target Pollutants
-
-### Polycyclic Aromatic Hydrocarbons (PAHs)
-
-PAHs are widespread environmental contaminants derived from fossil fuel combustion, petroleum spills, and industrial processes. Many PAHs are mutagenic, carcinogenic, and highly resistant to degradation due to their hydrophobic nature and stable aromatic ring structures. White-rot fungi can oxidize PAHs through their ligninolytic enzyme systems, converting high-molecular-weight PAHs to more polar, water-soluble metabolites that are more readily mineralized by bacteria.
-
-### Pentachlorophenol (PCP)
-
-PCP is a broad-spectrum wood preservative that has caused extensive soil and groundwater contamination. [[staycare-phanerochaete-chrysosporium-in-bioremediation]] and other white-rot fungi can degrade PCP through MnP-mediated oxidation. Competitive RT-PCR studies have shown that specific lignin peroxidase genes are not necessarily expressed during PCP degradation in soil, highlighting the importance of MnP and other enzyme systems.
+Lignin peroxidase is a heme-containing glycoprotein that catalyzes the oxidation of non-phenolic aromatic compounds with redox potentials exceeding 1.4 V, making it one of the most powerful biological oxidants known. LiP can oxidize [[cervantes-hydrogen-peroxide-sterilization]] as a co-substrate and [[staycare-phanerochaete-chrysosporium-in-bioremediation]] and other white-rot fungi can degrade PCP through MnP-mediated oxidation. Competitive RT-PCR studies have shown that specific lignin peroxidase genes are not necessarily expressed during PCP degradation in soil, highlighting the importance of MnP and other enzyme systems.
 
 ### Chlorinated Dioxins and Furans
 
@@ -54,7 +36,7 @@ Fungi contribute to the natural attenuation of many pesticide compounds in soil.
 
 ### Textile Dyes and Industrial Effluents
 
-Laccases from white-rot fungi (especially [[growing-gourmet-turkey-tail-trametes-versicolor-cultivation]] and Trametes hirsuta) are effective at decolorizing and degrading synthetic dyes used in the [[staycare-fungal-treatment-of-textile-industry-wastewater]]. This application of fungal biodegradation has been commercialized for treatment of dye-laden wastewater.
+Laccases from white-rot fungi (especially [[staycare-fungal-treatment-of-textile-industry-wastewater]]. This application of fungal biodegradation has been commercialized for treatment of dye-laden wastewater.
 
 ## Gene Expression During Bioremediation
 
@@ -75,14 +57,10 @@ Several mycoremediation strategies have been developed:
 
 ## See Also
 
-- [[biochemistry-of-ligninolytic-fungi-bioremediation]]
-- [[mycoremediation]]
-
-- [[brown-rot-and-white-rot-fungi-in-mycoremediation]]
-- [[brown-rot-white-rot-fungi-remediation]]
-- mycelium-running-bioremediation-mushroom-projects
-- [[gadd-fungal-nutrition-metabolism]]
-- [[gadd-fungal-ecology-saprotrophs]]
+- [[gadd-fungal-biochemical-weathering-acidolysis-complexolysis-redoxolysis-protonolysis]]
+- [[gadd-fungal-extreme-environments]]
+- [[gadd-fungal-plant-pathogens]]
+- [[gadd-fungal-reproduction-spores]]
 
 ## Key Considerations
 
@@ -106,8 +84,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[fungal-hyphae]]
 - [[pcp]]
-- [[laccase]]
 - [[phanerochaete-chrysosporium]]
 - [[mycofiltration]]

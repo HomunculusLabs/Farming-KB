@@ -21,7 +21,7 @@ and balanced indica-sativa effects,
 while Strawberry Diesel adds a sweet berry-diesel fragrance,
 increased sativa influence,  and enhanced resin production.
 
-The OG Kush parent itself traces back to [[chemdawg-lineage-and-legacy]] (see [[cannabis-strain-chemdawg-origin-genetics-lineage]]),
+The OG Kush parent itself traces back to [[cannabis-strain-chemdawg-origin-genetics-lineage]]),
 meaning that Bruce Banner carries genetics from one of the most foundational lines in modern cannabis history.
 The Strawberry Diesel parent adds genetics from the Diesel family (also descended from Chemdawg via Sour Diesel) and New York City Diesel,
 creating a genetic profile that is heavily weighted toward the Chemdawg lineage through multiple pathways.
@@ -68,34 +68,7 @@ crystalline appearance even before full maturity.
 ## Aroma and Terpene Profile
 
 Bruce Banner's aroma is complex and multi-layered,
-reflecting the diverse [[african-landrace-sativa-genetic-contributions-modern-breeding-oner]] of its parent strains.
-The dominant aromatic notes are sweet and fruity with a strong diesel undertone — the combination of Strawberry Diesel's berry sweetness with OG Kush's earthy-pine-diesel complexity.
-Many users detect specific notes of fresh strawberries,  diesel fuel,
-sweet citrus,  and earthy hash on the nose.
-
-The terpene profile is dominated by myrcene (earthy,  musky,  relaxing),
-caryophyllene (peppery,  spicy),  and limonene (citrus,  mood-elevating),
-with significant contributions from pinene (pine) and linalool (floral,
-calming).
-This diverse terpene profile contributes to the strain's complex effects through the entourage effect and is one of the reasons for its widespread therapeutic appeal.
-
-## Effects and Potency
-
-Bruce Banner's most celebrated characteristic is its extraordinary potency.
-THC content consistently tests between 24% and 30%,
-with some phenotypes reportedly exceeding 30% in competitive testing.
-This places Bruce Banner among the most potent cannabis strains ever developed and makes it one of the strongest options available to both recreational and medical consumers.
-
-The effects follow a characteristic two-stage pattern that inspired the Hulk naming convention.
-The initial onset is relatively mild and manageable — a gentle cerebral uplift and mood enhancement that can feel deceptively light.
-Over the course of 15 to 30 minutes,  the effects intensify dramatically,
-building into a powerful wave of euphoria,  cerebral stimulation,
-and deep physical relaxation that can be overwhelming for inexperienced consumers.
-
-The balance between cerebral and physical effects makes Bruce Banner versatile for both daytime and evening use,
-though the high potency means that most users consume smaller quantities than they would with less potent varieties.
-[[oner-sativa-medical-applications]] include [[cannabis-chronic-pain-management]],  nausea relief,
-[[cannabis-for-cachexia-and-appetite-stimulation]],  stress and anxiety reduction,
+reflecting the diverse [[oner-sativa-medical-applications]] include [[cannabis-for-cachexia-and-appetite-stimulation]],  stress and anxiety reduction,
 and as an adjunct treatment for depression.
 
 ## Cultivation Notes
@@ -119,15 +92,8 @@ Optimal results depend on careful management of the growing environment includin
 Legal status varies significantly by jurisdiction, with ongoing legislative changes affecting cultivation, processing, and distribution. Growers must maintain awareness of current local, regional, and national regulations. Compliance with testing requirements, licensing provisions, and quality standards is essential for legitimate operations.
 
 ## See Also
-- [[2c-b-compound-profile]]
 - [[2c-c-compound-profile]]
-- [[2c-d-compound-profile]]
 - [[2c-e-compound-profile]]
-- [[2c-i-compound-profile]]
-
-## See Also
-
 - [[cannabis-strain-chemdawg-origin-genetics-lineage]]
-- [[cannabis-strain-amnesia-haze-genetics-history]]
-- cannabis strain [[oner-bruce-banner-genetics-cultivation-strain-profile]] profile
+- [[oner-bruce-banner-genetics-cultivation-strain-profile]] profile
 - [[cannabis-strain-acapulco-gold-heirloom-mexican-sativa]]

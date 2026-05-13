@@ -13,10 +13,7 @@ type: concept
 
 ## Overview
 
-Dimethyltryptamine (DMT) is a powerful endogenous [[mckenna-tryptamine-hallucinogen-classification-four-groups-plants]]
-that produces arguably the most intense and unusual altered state of
-consciousness known to pharmacology. Terence McKenna's 1983 lecture
-"[[mckenna-tryptamine-hallucinogens-and-consciousness]] and Consciousness" provides one of the most
+Dimethyltryptamine (DMT) is a powerful endogenous [[mckenna-tryptamine-hallucinogens-and-consciousness]] and Consciousness" provides one of the most
 detailed first-person phenomenological accounts of the DMT experience,
 describing it as a visit to a radically alien dimension that exists "one
 quanta away" from ordinary reality.
@@ -33,23 +30,7 @@ psychedelics by several pharmacological properties:
 - **Intensity**: Among the most intense of all psychedelic experiences
 - **Endogenous status**: Present in small amounts in the human brain,
   suggesting a natural neurochemical role
-- **[[serotonin-psilocybin-structural-relationship-hallucinogenic-mechanism]]**: Psilocybin is 4-phosphoryloxy-N,N-
-  dimethyltryptamine; serotonin (5-hydroxytryptamine) is the major
-  neurotransmitter in the human brain — all share the tryptamine
-  backbone
-
-The rapid onset and brief duration mean "the brain is absolutely at home
-with this compound" — the speed of action suggests endogenous pathways
-are already prepared to process DMT-like molecules. This contrasts with
-LSD, which is retained in the body for extended periods.
-
-## Stages of the DMT Experience
-
-### Onset (0-30 seconds)
-
-McKenna describes a characteristic onset sequence:
-
-1. **Auditory phenomena**: A sound "like [[mckenna-dmt-onset-phenomenology-ripping-cellophane]], like someone
+- **[[mckenna-dmt-onset-phenomenology-ripping-cellophane]], like someone
    crumpling up plastic film and throwing it away" — described by a
    friend as "our radio entelechy ripping out of the organic matrix"
 2. **Ascending tone**: A rising pitch accompanies the transition
@@ -117,8 +98,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[dmt-phenomenology]]
 - [[dmt]]
-- [[psilocybin]]
 - [[terence-mckenna]]
 - [[dom]]

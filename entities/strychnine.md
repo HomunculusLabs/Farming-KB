@@ -26,7 +26,7 @@ sources:
 
 ## Overview
 
-Strychnine is a highly toxic [[aminopropyl-silica-gel-chromatography-indole-alkaloid-purification]] found primarily in the seeds of *Strychnos nux-vomica* (strychnine tree) and related *Strychnos* species. It is one of the most potent convulsant poisons known, with a lethal dose in humans estimated at 50–100 mg. Strychnine acts as a competitive antagonist at glycine receptors (GlyR) in the [[blesching-cannabis-spinal-cord-injuries]] and brainstem, blocking inhibitory glycine-mediated neurotransmission and producing characteristic hyperreflexia, severe muscle spasms, and opisthotonus. Despite its extreme toxicity, strychnine has a long history of medical use as a stimulant, respiratory analeptic, and gastrointestinal tonic dating back to 16th-century European medicine. It remains an important compound in neuroscience research, forensic toxicology, and as a reference standard for glycine [[cannabinoid-receptors-cb1-cb2]].
+Strychnine is a highly toxic [[blesching-cannabis-spinal-cord-injuries]] and brainstem, blocking inhibitory glycine-mediated neurotransmission and producing characteristic hyperreflexia, severe muscle spasms, and opisthotonus. Despite its extreme toxicity, strychnine has a long history of medical use as a stimulant, respiratory analeptic, and gastrointestinal tonic dating back to 16th-century European medicine. It remains an important compound in neuroscience research, forensic toxicology, and as a reference standard for glycine [[cannabinoid-receptors-cb1-cb2]].
 
 ## Chemical Profile
 
@@ -48,7 +48,7 @@ Strychnine is a highly toxic [[aminopropyl-silica-gel-chromatography-indole-alka
 
 Strychnine is isolated from several *Strychnos* species (family Loganiaceae), which are distributed across tropical and subtropical regions of Asia, Africa, and Australia. The biosynthetic pathway involves the condensation of tryptamine with secologanin to form strictosidine, followed by multiple enzymatic transformations.
 
-- **Strychnos nux-vomica** (strychnine tree): Native to India, [[psilocybe-southeast-asia-pacific]], and northern Australia; seeds contain 1.0–1.5% strychnine and 0.5–1.0% [[brucine]]. This is the primary commercial source of strychnine alkaloids.
+- **Strychnos nux-vomica** (strychnine tree): Native to India, [[brucine]]. This is the primary commercial source of strychnine alkaloids.
 - **Strychnos ignatii** (Ignatius bean): Native to the Philippines and China; seeds contain 1.0–2.5% strychnine and smaller amounts of brucine. Historically used in traditional Chinese medicine as "Maqianzi."
 - **Strychnos angustiflora**: Found in southern China and Southeast Asia; a traditional medicinal source of strychnine alkaloids.
 - **Strychnos potatorum** (clearing-nut tree): Found in India and Sri Lanka; contains trace amounts of strychnine alongside other Strychnos alkaloids.

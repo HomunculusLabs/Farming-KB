@@ -14,9 +14,7 @@ This reduces water usage by up to 50 percent compared to conventional watering w
 The basic design consists of a waterproof container with a drainage layer and water reservoir separated from the growing medium by a geotextile fabric barrier.
 ## Detailed Explanation
 Wicking beds represent one of the most effective water-efficient gardening techniques available to home gardeners.
-They combine the principles of [[wicking-bed-construction]] process creates a self-contained growing system where water stored in a reservoir wicks upward through the soil profile.
-This bottom-up watering approach mimics the way plants naturally access water from the water table in wild ecosystems.
-It delivers moisture directly to the root zone where it is needed most for plant growth and [[plant-nutrient-uptake-mechanisms]].
+They combine the principles of [[plant-nutrient-uptake-mechanisms]].
 The water efficiency of wicking beds comes from several factors working together in the system design.
 Water is delivered from below, which dramatically reduces evaporative losses from the soil surface.
 The soil profile remains consistently moist but never saturated, which is the ideal condition for most vegetable root growth.
@@ -53,15 +51,10 @@ The choice of reservoir material affects both the wicking performance and the ov
 The most common options each have distinct advantages and disadvantages worth considering before making your selection.
 Gravel is inexpensive and widely available but very heavy, making large beds difficult to move. Scoria (volcanic rock) is lighter than gravel and has excellent water-holding capacity in its pores.
 Recycled plastic drainage cells are lightweight, easy to install, and provide excellent water distribution, but represent a higher upfront cost compared to natural reservoir materials.
-An innovative alternative is using [[hamilton-composting-and-organic-matter-management]] as the reservoir material instead of inorganic gravel or scoria.
-In this approach, the bottom of the bed is filled with woody branches, logs, and coarse organic matter.
-This technique is similar to hugelkultur and creates additional soil volume as the organic matter slowly decomposes.
-As the wood decomposes, it releases nutrients into the water reservoir and improves the overall fertility of the bed.
-The [[drip-irrigation-guide]] principles can be adapted to automatically fill your wicking bed on a schedule.
+An innovative alternative is using [[drip-irrigation-guide]] principles can be adapted to automatically fill your wicking bed on a schedule.
 Connect a low-volume dripper or bubbler emitter to the fill pipe inlet for automated filling.
 A simple mechanical timer on your hose bib can fill the bed on a regular schedule without electricity.
-[[graywater-systems]] can also supply water to wicking beds with additional filtration to prevent clogging.
-The [[cannabis-environment-control]] requirements of consistent moisture levels, wicking beds offer a significant advantage.
+[[cannabis-environment-control]] requirements of consistent moisture levels, wicking beds offer a significant advantage.
 They eliminate the moisture fluctuations between watering sessions that can stress plants and reduce yields.
 ### Wicking Bed Material Comparison
 | Reservoir Material | Cost | Weight | Wicking Performance | Lifespan |
@@ -80,19 +73,11 @@ They eliminate the moisture fluctuations between watering sessions that can stre
 ### Planting Considerations for Wicking Beds
 Most vegetables, herbs, and flowers grow well in wicking beds, but some plants are better suited than others.
 Shallow-rooted plants like lettuce, radishes, and herbs thrive in wicking beds and benefit from the consistent moisture.
-Deep-rooted plants like tomatoes, peppers, and [[growing-root-vegetables-guide]] also perform well but may need deeper soil layers.
-Perennial plants with deep taproots may eventually reach the reservoir layer and reduce reservoir capacity over time.
-Plants that prefer drier conditions, such as [[query-best-mediterranean-herbs-for-beginner-herb-garden]] (rosemary, thyme, lavender), may not be ideal for wicking beds.
+Deep-rooted plants like tomatoes, peppers, and [[query-best-mediterranean-herbs-for-beginner-herb-garden]] (rosemary, thyme, lavender), may not be ideal for wicking beds.
 The constant moisture at the root zone can promote root rot in these drought-adapted species.
 These plants can still be grown in wicking beds by planting them in elevated mounds within the bed or in separate containers on the surface.
-The [[wicking-bed-construction]] project creates a self-watering garden that reduces water usage by up to 50 percent through capillary action
-- Core components include a waterproof container, 20 to 30 cm reservoir of gravel or scoria, geotextile fabric barrier, and 25 to 35 cm of quality soil
-- Connect your wicking bed to [[drip-irrigation-guide]] timers for automated filling
+The [[drip-irrigation-guide]] timers for automated filling
 - Most vegetables and herbs thrive in wicking beds, but Mediterranean herbs and succulents may suffer from the consistently moist root zone
-- Regular maintenance includes checking reservoir water levels weekly and flushing the reservoir periodically to prevent [[cervantes-salt-buildup-leaching-management]]
-
-## See Also
-
-- [[query-how-do-i-build-with-earthbags]]
+- Regular maintenance includes checking reservoir water levels weekly and flushing the reservoir periodically to prevent [[query-how-do-i-build-with-earthbags]]
 
 - [[query-how-do-i-build-a-wicking-bed-for-my-garden]]

@@ -9,7 +9,7 @@ tags: [natural-farming, agriculture, petroleum, synthetic-food, industrial-agric
 
 ## Overview
 
-Masanobu Fukuoka identified modern agriculture as fundamentally dependent on petroleum energy, arguing that it has been transformed from a biological activity into a manufacturing process. His critique centers on the idea that so-called scientific agriculture uses oil-derived fertilizers, pesticides, and machinery to produce what he calls "synthetic food products" — poor imitations of natural food that degrade both human health and the environment.
+[[masanobu-fukuoka]] identified modern agriculture as fundamentally dependent on petroleum energy, arguing that it has been transformed from a biological activity into a manufacturing process. His critique centers on the idea that so-called scientific agriculture uses oil-derived fertilizers, pesticides, and machinery to produce what he calls "synthetic food products" — poor imitations of natural food that degrade both human health and the environment.
 
 ## Agriculture as a Processing Industry
 
@@ -108,15 +108,12 @@ The only way forward, Fukuoka argued, is to relinquish human knowledge and actio
 
 ## Summary
 
-Fukuoka's petroleum agriculture critique connects directly to his broader natural farming philosophy. Industrial agriculture's dependence on fossil fuels represents the ultimate form of human separation from natural processes. By requiring massive energy inputs at every stage — from fertilizer production to mechanized harvesting to global distribution — modern food systems consume far more energy than they produce in food calories. This energy deficit is masked only by the temporarily cheap availability of petroleum, a resource that is inherently finite.
+Fukuoka's petroleum agriculture critique connects directly to his broader [[natural-farming-philosophy]]. Industrial agriculture's dependence on fossil fuels represents the ultimate form of human separation from natural processes. By requiring massive energy inputs at every stage — from fertilizer production to mechanized harvesting to global distribution — modern food systems consume far more energy than they produce in food calories. This energy deficit is masked only by the temporarily cheap availability of petroleum, a resource that is inherently finite.
 
 The transition away from petroleum-dependent agriculture will eventually be forced by resource depletion, if not chosen for ecological reasons. Fukuoka's natural farming offers a proven alternative: a system that produces food with zero petroleum inputs, zero tillage, zero applied fertilizer, and zero pesticides, while simultaneously improving soil health and supporting greater biodiversity than any conventional system.
 
 ## See Also
 
-- [[fukuoka-five-principles-natural-farming-no-tillage-no-fertilizer]]
 - [[fukuoka-direct-seeded-no-tillage-rice-barley-clover-succession]]
-- [[fukuoka-agricultural-production-net-energy-deduction]]
 - [[fukuoka-artificial-food-synthesis-degradation-food-quality]]
-- [[fukuoka-natural-diet-food-philosophy]]
 - [[fukuoka-textdoc-centrifugal-centripetal-natural-scientific-farming]]

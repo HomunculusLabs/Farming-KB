@@ -19,65 +19,11 @@ sources:
 
 Nymphaea tetragona, commonly known as the pygmy water lily or dwarf white water lily, is a small aquatic perennial in the family Nymphaeaceae.
 
-It is among the most widely distributed water lily species, ranging across northern Europe, northern Asia, and western [[guzman-psilocybin-mushrooms-north-america]].
-
-The species produces small white flowers and narrow floating leaves, typically reaching only 5 to 15 centimeters in diameter.
-
-Nymphaea tetragona is significant as an ornamental pond plant, a subject of ecological research on aquatic pollination, and a culturally important plant in traditional East Asian medicine.
-
-## Taxonomy and Morphology
-
-Nymphaea tetragona was described by Georgi in 1775. It belongs to the subgenus Nymphaea, section Nymphaea within the genus Nymphaea.
-
-Some authorities have treated Nymphaea tetragona as a synonym of [[nymphaea-alba]] or [[nymphaea-odorata]], but molecular phylogenetic studies support its status as a distinct species.
-
-The rhizome is slender and creeping, producing roots at nodes along its length.
-
-Leaves are ovate to orbicular, 5 to 12 centimeters long and 4 to 10 centimeters wide, with a narrow sinus reaching approximately one-third of the leaf blade.
-
-The upper leaf surface is green and glabrous, while the lower surface is often purplish-red.
-
-Flowers are solitary, floating or slightly elevated above the water surface, reaching 3 to 5 centimeters in diameter.
-
-Petals are white, numbering 12 to 20, arranged in two to three overlapping rows.
-
-Stamens are numerous, yellow, and shorter than the petals.
-
-The fruit is a globose capsule 1 to 1.5 centimeters in diameter, containing numerous small seeds that sink after release.
-
-## Distribution and Habitat
-
-Nymphaea tetragona has a circumboreal distribution, occurring across subarctic and [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]] of the Northern Hemisphere.
+It is among the most widely distributed water lily species, ranging across northern Europe, northern Asia, and western [[nymphaea-alba]] or [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]] of the Northern Hemisphere.
 
 In Eurasia, it ranges from Scandinavia eastward through Siberia to northern China, Korea, and Japan.
 
-In North America, populations are found in Alaska, northern Canada, and the [[psilocybin-north-america-pacific-northwest]].
-
-The species grows in shallow freshwater habitats including ponds, lake margins, slow-moving streams, and marshes.
-
-It prefers water depths of 30 to 100 centimeters with muddy or sandy substrates.
-
-Nymphaea tetragona tolerates cold temperatures well and can survive winter freezing of its above-ground parts, regenerating from the rhizome each spring.
-
-It is often found in oligotrophic to mesotrophic waters with moderate nutrient levels.
-
-## Ecology and Reproduction
-
-Nymphaea tetragona flowers from June through August in its northern range, with individual flowers opening in the morning and closing by late afternoon.
-
-Pollination is primarily entomophilous, with beetles and flies serving as the main pollinators.
-
-The flowers are thermogenic, producing slight heat that enhances volatile emission and attracts pollinators in cool northern climates.
-
-Seeds are dispersed by water currents and possibly by waterfowl that consume the fruit capsules.
-
-Vegetative reproduction occurs through rhizome fragmentation, which allows the species to colonize new areas within a water body.
-
-The floating leaves provide shade and habitat for aquatic invertebrates and small fish.
-
-Nymphaea tetragona is a food source for various herbivores, including beavers, muskrats, and waterfowl.
-
-Decomposing leaf litter from Nymphaea tetragona contributes [[fukuoka-textdoc-composting-critique-futility-prepared-organic-matter]] to the benthic environment, supporting detritivore food webs.
+In North America, populations are found in Alaska, northern Canada, and the [[fukuoka-textdoc-composting-critique-futility-prepared-organic-matter]] to the benthic environment, supporting detritivore food webs.
 
 ## Cultivation
 
@@ -88,3 +34,88 @@ Its compact size makes it particularly suitable for tub gardens and balcony pond
 Cultivation requires full sun to partial shade and still or very slow-moving water.
 
 The rhizome should be planted in loam or clay-based aquatic soil at a depth of 15 to 45 centimeters below the water surface.
+
+## Overview
+
+Nymphaea Tetragona represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish nymphaea tetragona
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving nymphaea extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Nymphaea Tetragona finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for nymphaea tetragona. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+nymphaea tetragona and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Nymphaea Tetragona has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of nymphaea tetragona into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[nymphaea-alba]]
+- [[nymphaea-ampla]]
+- [[nymphaea-caerulea]]
+- [[nymphaea-lotus]]
+- [[nymphaea-odorata]]

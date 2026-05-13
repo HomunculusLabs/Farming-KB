@@ -9,15 +9,9 @@ created: 2026-05-09
 
 Sclerotia (singular: sclerotium) are dense, hardened masses of mycelium that
 serve as survival structures in certain fungi. In the genus *Psilocybe*,
-sclerotia are produced by several species — most notably *[[dark-incubation-sclerotia-production-psilocybe-mexicana-tampanensis]]*
-and *[[sclerotia-maturation-timeline-psilocybe-tampanensis-mexicana]]* — as a means of persisting through unfavourable
+sclerotia are produced by several species — most notably *[[sclerotia-maturation-timeline-psilocybe-tampanensis-mexicana]]* — as a means of persisting through unfavourable
 environmental conditions such as drought, extreme temperatures, or nutrient
-depletion. Unlike the more familiar [[ectomycorrhizal-mushroom-fruiting-ecology]] body, sclerotia form
-entirely below the substrate surface (or within it) and contain the same
-psychoactive alkaloids — primarily psilocybin and psilocin — found in the
-mushrooms of the same species. In underground cultivation communities,
-sclerotia are often colloquially referred to as "magic truffles" or
-"philosopher's stones," a term popularised by the Dutch [[dutch-smart-shop-paddos-history]] trade.
+depletion. Unlike the more familiar [[dutch-smart-shop-paddos-history]] trade.
 
 ## What Are Sclerotia?
 

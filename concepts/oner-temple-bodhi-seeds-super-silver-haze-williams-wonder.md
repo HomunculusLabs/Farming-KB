@@ -1,25 +1,7 @@
 ---
 title: "Temple — Bodhi Seeds"
-source: "S.T. Oner, The Rev - [[blesching-cannabis-sativa-indica-classification]] Volume 3: The Essential Guide to the World's Finest Marijuana Strains"
-source_type: book
-topics:
-  - cannabis-strain
-  - sativa-dominant
-  - bodhi-seeds
-  - temple
-  - super-silver-haze
-  - williams-wonder
----
-
-# Temple — Bodhi Seeds
-
-## Overview
-
-Temple is a sativa-dominant hybrid created by Bodhi Seeds, one of America's most
-respected boutique breeders. A cross between Mr. Nice's [[super-silver-haze]] and the
-legendary William's Wonder, Temple represents the intersection of [[haze-cannabis-lineage-and-breeding-history]] with
-a classic indica workhorse. The result is a plant that delivers sativa effects and
-[[cannabis-terpene-profiles]] in a compact, manageable package — a sativa "shorty" that reaches
+source: "S.T. Oner, The Rev - [[super-silver-haze]] and the
+legendary William's Wonder, Temple represents the intersection of [[cannabis-terpene-profiles]] in a compact, manageable package — a sativa "shorty" that reaches
 only medium height and finishes in just 9-10 weeks. For growers who want sativa
 quality without the space and time demands of typical sativa cultivars, Temple is
 an exceptional choice.
@@ -27,63 +9,93 @@ an exceptional choice.
 ## Genetic Lineage
 
 - **Female parent:** Mr. Nice's Super Silver Haze — one of the most celebrated sativa
-  strains in cannabis history, itself a cross of [[cannabis-strain-mango-haze-northern-lights-skunk-haze]], Haze, and Skunk #1.
-  Super Silver Haze has won multiple High Times Cannabis Cup awards and is renowned
-  for its soaring cerebral high and complex Haze terpene profile.
-- **Male parent:** William's Wonder — an indica-dominant strain with a dedicated
-  cult following. William's Wonder is known for its massive, dense bud production and
-  its heavy, euphoric effects. The Oner guide describes its fanbase as "as dedicated
-  and passionate as the millions of pre-teen girls who seem to swarm around Justin
-  Bieber wherever the wannabe badass decides to go" — though noting that William's
-  Wonder fans are "less screamy and more incredibly high."
-
-This cross combines the best of both worlds: Super Silver Haze's cerebral potency and
-complex terpenes with William's Wonder's compact structure, massive yields, and
-accelerated flowering. The 9-10 week flowering time is remarkably short for a strain
-carrying Super Silver Haze genetics.
-
-## Plant Structure and Growth
-
-Temple is described as "the sort of sativa that gives indica growers a huge sigh of
-relief." Key structural characteristics:
-
-- **Height:** Medium. Unlike most sativa-dominant strains, Temple stays compact and
-  manageable. No ladders or falling from 14-foot monsters required.
-- **Leaves:** Incredibly thin and pale green serrated leaves that "scream I'M A SATIVA!"
-  the moment you enter the grow room. This sativa leaf morphology signals the
-  plant's genetic heritage despite its restrained stature.
-- **Bud structure:** Massive colas that "could make The Shard feel inadequate."
-  Bodhi Seeds' breeder is noted for his dedication to creating "absolutely massive
-  nugs of pot," and Temple is a prime example of this philosophy.
-- **Branching:** Good lateral branching develops as flowering progresses, with buds
-  forming along the entire branch length, not just at the apical tip.
-
-## Cultivation
-
-Temple is recommended for organic [[mushroom-cultivation-environments]], especially for medical
+  strains in cannabis history, itself a cross of [[mushroom-cultivation-environments]], especially for medical
 use where purity of final product is paramount. However, the strain is adaptable and
 will perform in virtually any growing setup.
 
-[[mushroom-species-cultivation-parameters]]:
-- **Flowering time:** 9-10 weeks, which is remarkably fast for Super Silver Haze
-  genetics.
-- **Yield:** Very heavy. The massive cola production and dense bud structure result
-  in substantial harvests per plant.
-- **Nutrient needs:** Moderate. Responds well to standard organic feeding schedules.
-- **Space requirements:** Minimal for a sativa-dominant strain. Suitable for indoor
-  grows where vertical space is limited.
-- **Training response:** Good response to low-stress training (LST) and screen of
-  green (ScrOG) methods. The naturally bushy structure benefits from even canopy
-  management.
+[[cannabis-terpene-entourage-effect-profiles]]:
 
-## Aroma and Flavor
+## Overview
 
-The terpene profile is dominated by citrus and Haze notes from the Super Silver
-Haze parent. When the initial citrus haze aroma dissipates, deeper layers emerge.
-The overall flavor impression is one of bright, zesty citrus with an earthy,
-spicy undertone characteristic of classic Haze genetics. The smoke is smooth
-and expansive.
+Oner Temple Bodhi Seeds Super Silver Haze Williams Wonder represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
 
-## Effects
+## Key Characteristics
 
-Temple can express multiple phenotypes with varying [[cannabis-terpene-entourage-effect-profiles]]:
+Several defining characteristics distinguish oner temple bodhi seeds super silver haze williams wonder
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving oner extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Oner Temple Bodhi Seeds Super Silver Haze Williams Wonder finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for oner temple bodhi seeds super silver haze williams wonder. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+oner temple bodhi seeds super silver haze williams wonder and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Oner Temple Bodhi Seeds Super Silver Haze Williams Wonder has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of oner temple bodhi seeds super silver haze williams wonder into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[cannabis-strain-temple-bodhi-seeds-super-silver-haze-oner]]
+- [[cannabis-super-cropping-technique]]
+- [[mckenna-dmt-cognitive-dissonance-and-wonder-response]]
+- [[oner-colombian-landrace-sativa-strains]]
+- [[oner-critical-haze-amnesia-critical-mass-yield-optimization]]

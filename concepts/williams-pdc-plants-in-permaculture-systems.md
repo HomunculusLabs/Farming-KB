@@ -5,15 +5,8 @@ Most people think permaculture is about plants. Permaculture is not
 about specific elements but about the connections between those
 elements. That said, understanding plants is crucial to permaculture
 design. Plants are the cornerstone life-form of our ecology and are
-usually viewed as the cornerstone of a good [[soil-building-ecological-garden]]**: Dead plant material builds mulch to strengthen
-  gardens and grow more future plants
-- **Wildlife Support**: Plants attract integrate-rather-than-segregate than
-segregate, value diversity, and [[gaias-garden-stacking-functions-detailed]] simultaneously.
-[[permaculture-designers-manual-animal-forage-systems]]:
-
-- **Native Plants**: The most prized type, performing the desired
-  function and growing naturally in the area
-- **[[invasive-species-management]] (Weeds)**: High propagation rates that enter
+usually viewed as the cornerstone of a good [[gaias-garden-stacking-functions-detailed]] simultaneously.
+[[invasive-species-management]] (Weeds)**: High propagation rates that enter
   existing ecologies and destabilize them by out-competing existing
   plants
 - **Niche Species**: Complex plants that thrive within narrow

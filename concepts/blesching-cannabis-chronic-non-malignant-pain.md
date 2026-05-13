@@ -25,15 +25,9 @@ about 17% of all pain falls into this category.
 
 The most common forms of CNMP that are non-responsive to pharmaceutical and
 non-drug treatment include musculoskeletal pains of the neck, shoulder, and
-back. These conditions represent a significant portion of the [[cannabis-chronic-pain-management]]
-burden worldwide.
-
-According to the [[blesching-cannabis-health-index-autoimmune-conditions]], the evidence for cannabis in treating
+back. These conditions represent a significant portion of the [[blesching-cannabis-health-index-autoimmune-conditions]], the evidence for cannabis in treating
 chronic non-malignant pain is based on 2 studies reviewed with a total CHI
-value of 5, yielding a [[blesching-cannabis-chi-score-methodology]] of 2.50.
-
-See also: [[blesching-cannabis-neuropathic-pain]],
-[[blesching-cannabis-spinal-cord-injuries]],
+value of 5, yielding a [[blesching-cannabis-neuropathic-pain]],
 [[blesching-cannabis-dosing-strategies]]
 
 ## Cannabis and Chronic Non-Malignant Pain: The Evidence
@@ -117,8 +111,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[doc]]
 - [[dom]]
-- [[dronabinol]]
 - [[tetrahydrocannabinol]]
 - [[blesching-cannabis-neuropathic-pain]]

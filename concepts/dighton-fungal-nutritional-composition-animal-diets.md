@@ -16,27 +16,9 @@ type: concept
 
 # Nutritional Composition of Fungi as Animal Food Resources
 
-The [[coleman-winter-greens-nutritional-quality-cold-sweetening]] of fungi as food for animals is a critical determinant
-of fungal roles in supporting secondary production within ecosystems. In
-, understanding the chemical
-composition of fungal tissue explains why fungi are preferred food items for
-many vertebrate and invertebrate consumers and how fungi sustain fungal-soil-food-web dynamics.
-
-## Macronutrient Composition
-
-Fungi vary considerably in their macronutrient composition, but generally
-offer a favorable balance of protein, carbohydrate, and minerals compared to
-many plant food sources. Representative values from Fogel and Trappe (1978)
-include:
-
-| Species                | Protein (%) | Fat (%) | Carbohydrate (%) | Ash (%) |
-|------------------------|-------------|---------|-------------------|---------|
-| [[genetic-improvement-agaricus-bisporus-molecular-approaches]]      | 50          | 1.2     | --                | 7       |
+The [[genetic-improvement-agaricus-bisporus-molecular-approaches]]      | 50          | 1.2     | --                | 7       |
 | Boletus edulis         | 33          | 5       | 58                | 7       |
-| [[lactarius-deliciosus]]   | 19          | 7       | 28                | 6       |
 | [[lentinus-edodes-entity-the-mushroom-cultivator]]        | 40          | 5       | 54                | 3       |
-| [[morchella-esculenta]]    | 12          | 2       | 46                | 10      |
-| Suillus luteus         | 17          | 4       | 53                | 6       |
 | [[tuber-melanosporum]]     | 11          | 2       | 42                | 8       |
 
 For comparison, chipped beef provides approximately 30% protein and 6% fat,
@@ -46,13 +28,7 @@ low fat relative to seeds and nuts.
 
 ## Micronutrient and Mineral Content
 
-Clinton et al. (1999) measured [[solomon-manure-quality-variable-nutrient-content-horse-steer-chicken]] of fungal fruit bodies from
-both mycorrhizal and saprotrophic basidiomycetes in a Nothofagus forest.
-They found that all elements except calcium were more concentrated in fungal
-tissue than in surrounding forest floor material. This nutrient density
-explains why fungi are preferred food resources for many animals.
-
-[[dighton-hypogeous-fungi-mammal-spore-dispersal]] contain higher concentrations of nitrogen, phosphorus,
+Clinton et al. (1999) measured [[dighton-hypogeous-fungi-mammal-spore-dispersal]] contain higher concentrations of nitrogen, phosphorus,
 potassium, and micronutrients than epigeous fungi, making them particularly
 valuable food items for mammals that can locate them.
 
@@ -118,8 +94,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[det]]
 - [[spore]]
-- [[suillus-luteus]]
 - [[mycorrhiza]]
 - [[dighton-fungal-mycophagy-vertebrate-invertebrate-diets]]

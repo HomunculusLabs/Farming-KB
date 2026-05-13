@@ -11,9 +11,8 @@ type: concept
 
 # Preparation of Hashish from Cannabis Oil
 
-Chapter 4 of *[[lemon-cannabis-alchemy-advanced-refinement-techniques]]* by [[ben-lemon]] describes how to prepare
-[[cannabis-hashish-from-extracted-oil-techniques]] cannabis oil by mixing it with finely powdered
-marijuana. This chapter bridges the [[mushroom-polysaccharide-extraction-chemistry]] of the earlier
+Chapter 4 of *[[ben-lemon]] describes how to prepare
+[[mushroom-polysaccharide-extraction-chemistry]] of the earlier
 chapters with traditional hashish-making techniques from various cannabis
 cultures [[fungi-around-the-world-species-distribution]].
 

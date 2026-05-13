@@ -17,8 +17,7 @@ type: concept
 # Selecting a Candidate for Cultivation
 
 Many mushroom hunters would love to have their favorite edible
-[[duggar-mushroom-growing-history-and-methods]] in their backyard. Practically speaking, however,
-our knowledge of [[accessible-mushroom-cultivation-for-disabilities]] is currently limited to about
+[[accessible-mushroom-cultivation-for-disabilities]] is currently limited to about
 100 species of the 10,000 thought to exist throughout the world.
 Techniques for cultivating one species may be applied to another,
 often by substituting an ingredient, changing a formula, or altering
@@ -30,62 +29,18 @@ Ironically, with species never before grown, the strategy of
 "benign neglect" more often leads to success than active interference
 with the natural progression of events. Many early mushroom projects
 only produced when left alone. This principle is especially relevant
-for [[growing-gourmet-wood-ear-auricularia-cultivation]]
-- The Prince (Agaricus augustus)
-- The Almond Agaricus (Agaricus subrufescens)
-- The Sylvan Agaricus (Agaricus sylvicola, A. lilaceps)
-- [[growing-gourmet-hypholoma-capnoides-cultivation]]
-- [[growing-gourmet-elm-oyster-hypsizygus-ulmarius]]
+for [[growing-gourmet-hypholoma-capnoides-cultivation]]
 - [[shiitake-mushroom-cultivation]]
-- [[growing-gourmet-king-stropharia-cultivation]]
-- The Deer Mushroom (Pluteus cervinus)
-
-### Grassland Mushrooms
-
-Species associated with open fields and meadows:
-
-- Meadow Mushrooms (Agaricus campestris, A. arvensis)
-- The Giant Puffball (Calvatia gigantea and allies)
-- Smooth Lepiota (Lepiota naucina)
-- The Parasol Mushroom (Lepiota procera)
-- Fairy Ring Mushroom (Marasmius oreades)
-
-### Dung-Inhabiting Mushrooms
-
-Species that grow on herbivore dung or enriched soils:
-
 - [[growing-gourmet-shaggy-mane-coprinus-cultivation]]
 - Scaly Lepiota (Lepiota rachodes)
 - Termite Mushrooms (Termitomyces spp.)
 - Wood Blewit (Lepista nuda)
-- growing gourmet paddy [[mushroom-training-straw-mushroom-cultivation]] volvariella
-
-## Uncultivated Species
-
-Species marked with an asterisk in the original text are those not
-yet successfully cultivated but believed to be achievable with
-experimentation. This list is by no means exclusive and will be
-much amended in the future. Many mushrooms described as good
-edibles in field guides may prove cultivatable with creative
-adaptation of existing techniques.
-
-## Key Considerations for Selection
-
-When selecting a candidate for cultivation, consider:
-
-1. **Habitat matching**: Select species appropriate for your
-   climate and available [[growing-gourmet-substrate-materials-wood-types]]
+- growing gourmet paddy [[growing-gourmet-substrate-materials-wood-types]]
 2. **Native vs. exotic**: Native species generally do better in
    outdoor settings, though obstacles to exotic species can be
    overcome with forethought to design
 3. **Decomposer category**: Understanding whether a species is a
-   [[growing-gourmet-substrate-materials-wood-types]])
-
-## See Also
-
-- [[growing-gourmet-caramel-capped-psilocybe-cyanescens-cultivation]]
-
-- [[growing-chicories-endive-radicchio]]
+   [[growing-gourmet-caramel-capped-psilocybe-cyanescens-cultivation]]
 
 - [[growing-gourmet-abalone-oyster-cystidiosus-cultivation]]
 
@@ -111,8 +66,85 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[marasmius-oreades]]
 - [[calvatia-gigantea]]
-- [[agaricus-augustus]]
 - [[agaricus-subrufescens]]
 - [[agaricus-sylvicola]]
+
+## Overview
+
+Growing Gourmet Selecting Candidate Cultivation represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish growing gourmet selecting candidate cultivation
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving growing extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Growing Gourmet Selecting Candidate Cultivation finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for growing gourmet selecting candidate cultivation. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+growing gourmet selecting candidate cultivation and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Growing Gourmet Selecting Candidate Cultivation has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of growing gourmet selecting candidate cultivation into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also

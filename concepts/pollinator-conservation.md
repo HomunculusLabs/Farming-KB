@@ -11,7 +11,7 @@ sources: []
 
 ## Overview
 
-Pollinators—bees, butterflies, moths, flies, beetles, wasps, and hummingbirds—are essential for ecosystem function and food production. Approximately 75% of flowering plants and 35% of global food crops depend on animal pollination. Pollinator populations are declining worldwide due to habitat loss, pesticide exposure, disease, and climate change. Creating and maintaining pollinator habitat is one of the most impactful conservation actions a homesteader can take. This connects to [[native-plant-gardening]], conservation, and [[invasive-species-management]] practices.
+Pollinators—bees, butterflies, moths, flies, beetles, wasps, and hummingbirds—are essential for ecosystem function and food production. Approximately 75% of flowering plants and 35% of global food crops depend on animal pollination. Pollinator populations are declining worldwide due to habitat loss, pesticide exposure, disease, and climate change. Creating and maintaining [[pollinator-habitat]] is one of the most impactful conservation actions a homesteader can take. This connects to [[native-plant-gardening|gardening]], conservation, and [[invasive-species-management]] practices.
 
 ## Native Bee Decline
 
@@ -125,7 +125,7 @@ Bumblebees nest in small cavities near the ground:
 ## Pesticide Reduction
 
 ### Integrated Pest Management (IPM)
-See [[integrated-pest-management]] for detailed IPM strategies. Key principles for pollinator protection:
+See [[integrated-pest-management|pest management]] for detailed IPM strategies. Key principles for pollinator protection:
 
 - **Monitor before treating**: Identify pests accurately; only treat when economic thresholds are exceeded
 - **Use targeted products**: Choose products that minimize non-target impacts

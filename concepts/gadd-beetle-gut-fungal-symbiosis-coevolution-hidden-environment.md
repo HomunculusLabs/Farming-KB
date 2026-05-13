@@ -1,4 +1,4 @@
-Source: geoffrey gadd sarah c watkinson paul s dyer fungi in the environment
+Source: geoffrey gadd [[sarah-c-watkinson]] paul s dyer fungi in the environment
 
 # Beetle Gut Fungal Symbiosis: Coevolution in a Hidden Environment
 
@@ -18,50 +18,7 @@ after initial observations (Buchner, 1965). However, more recent work indicates 
 insect–yeast interactions abound in nature, although the exact nature of many
 interactions remains poorly understood (Suh & Blackwell, 2005; Vega & Dowd, 2005).
 
-Yeasts and yeast-like fungi from [[fungi-in-the-environment-fungi-in-beetle-guts]] represent a "hidden environment" — an
-internal microbial ecosystem that has only begun to be explored using modern
-molecular techniques. The beetle gut fungi studied most extensively come from
-planthoppers (Homoptera) and beetles in three families: Anobiidae, Cerambycidae,
-and Scolytidae (Coleoptera).
-
-## The Nature of the Beetle Gut as a Fungal Habitat
-
-The insect gut comprises three main divisions: the foregut, midgut, and hindgut. In
-many beetle species examined, yeasts have been found in both foregut and midgut. For
-example, green lacewings in the genus *Chrysoperla* harbour several closely related
-yeast taxa in the crop, a chamber of the foregut, forming a small clade of closely
-related taxa with a broad geographic range across the southern USA. In
-fungus-feeding beetles, yeasts have been found localized in pockets at the anterior
-end of the midgut, such as the gastric caeca of *Megalodacne heros* (McHugh et al.,
-1997).
-
-In wood-ingesting passalid beetles, yeasts occupy a different location: they are
-positioned along a furrow extending the length of the relatively undifferentiated
-posterior two-thirds of the hindgut (Lichtwardt et al., 1999; Suh et al., 2003,
-2004c; Nardi et al., 2006). The hindgut of wood-boring beetles is rich in microbial
-diversity, with a complex, highly compartmentalized community including not only
-yeasts but also eccrinid trichomycetes, bacteria, amoeboid protists, and
-parabasalids.
-
-## Diversity of Fungi Associated with Beetles
-
-Investigations of beetle gut fungi have far surpassed initial expectations.
-The major findings from studies of beetles isolated primarily from the basidioma
-(mushroom) habitat include the following discoveries:
-
-- 650 yeasts were isolated from digestive tracts of more than 90% of all beetles
-  dissected (Boekhout, 2005; Suh et al., 2005).
-- 290 yeast genotypes representing more than 200 undescribed taxa were discovered
-  among the isolates (Suh & Blackwell, 2005; Suh et al., 2005).
-- Insect gut yeasts were distributed in clusters throughout the yeast phylogenetic
-  tree based on SSU and LSU rDNA analysis.
-- Several previously unknown, entirely insect-associated yeast clades were
-  discovered, including the *Candida tanzawaensis* clade, which contained 30% of
-  all gut yeasts collected (Suh et al., 2004b).
-- One dominant yeast was usually present in a beetle gut, confirmed by cloning
-  methods (Zhang et al., 2003).
-- Yeast–beetle specificity was observed between certain yeasts and beetles across
-  broad geographical ranges and multiple [[psilocybe-cubensis-developmental-stages]].
+Yeasts and yeast-like fungi from [[psilocybe-cubensis-developmental-stages]].
 
 The discovery of nearly 200 undescribed yeasts gains significance with the
 realization that fewer than 700 species of ascomycete yeast had been described
@@ -77,16 +34,7 @@ its branched filaments attach to the gut cuticle. Other members of the *P. stipi
 clade have also been isolated from associations with wood-boring beetles in several
 distantly related families. The high correlation between xylose-processing yeasts
 and wood-ingesting beetles is significant because xylose subunits form the backbone
-of the hemicellulose component of plant [[alpha-1-3-glucan-fungal-pathogen-cell-walls]] in wood.
-
-## Coevolution and Specificity of Beetle–Fungal Associations
-
-Several lines of evidence support coevolution between beetles and their gut
-fungi. Yeast–beetle specificity has been observed across broad geographical ranges
-and multiple developmental stages of some beetles (Suh et al., 2004b). Gene cloning
-from beetle guts revealed that while most cultured ascomycete yeasts were recovered,
-sequences discovered in BLAST searches were always somewhat different from known
-sequences, indicating that many [[anaerobic-gut-fungi]] represent novel, potentially coevolved
+of the hemicellulose component of plant [[anaerobic-gut-fungi]] represent novel, potentially coevolved
 lineages (Zhang et al., 2003).
 
 The question of whether gut yeasts drive rapid radiation of beetle lineages
@@ -109,8 +57,7 @@ non-feeding pupa to the adult.
 ## Functional Roles of Gut Fungi
 
 Several functions have been proposed for beetle gut fungi and other gut
-microbes: cellulose, hemicellulose, and [[lignin-degradation]]; pheromone production;
-detoxification of foodstuffs; [[biological-nitrogen-fixation-agriculture]]; and vitamin synthesis (Martin, 1987;
+microbes: cellulose, hemicellulose, and [[biological-nitrogen-fixation-agriculture]]; and vitamin synthesis (Martin, 1987;
 Suh & Blackwell, 2005). The presence of xylose-fermenting yeasts in wood-boring
 beetles supports a direct role in hemicellulose digestion. The symbiosis of
 *Symbiotaphrina* with anobiid beetles involves detoxification of food resources
@@ -129,3 +76,75 @@ and wood roaches, where gut microbes are also restricted to the hindgut and perf
 essential digestive functions. A community-level approach will be essential to
 understand the full role of gut inhabitants in beetle biology and ecosystem
 functioning.
+
+## Overview
+
+[[gadd-beetle-gut-fungal-symbiosis]] Coevolution Hidden Environment represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish gadd beetle gut fungal symbiosis coevolution hidden environment
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving gadd extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Gadd Beetle Gut Fungal Symbiosis Coevolution Hidden Environment finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for gadd beetle gut fungal symbiosis coevolution hidden environment. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+gadd beetle gut fungal symbiosis coevolution hidden environment and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Gadd Beetle Gut Fungal Symbiosis Coevolution Hidden Environment has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of gadd beetle gut fungal symbiosis coevolution hidden environment into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions

@@ -65,9 +65,7 @@ The technology has matured enormously since its earliest applications in the
 ranging from small household greywater marshes of a few square metres to
 municipal treatment systems serving communities of tens of thousands. They
 treat sewage, industrial effluent from food processing and pulp mills,
-agricultural runoff, acid mine drainage, [[singh-landfill-leachate-fungal-treatment]], and stormwater
-from urban surfaces. Research has revealed that the microbial communities
-within these systems — particularly the [[biodiversity-of-fungi-soil-fungal-communities-agriculture]] — are far more
+agricultural runoff, acid mine drainage, [[biodiversity-of-fungi-soil-fungal-communities-agriculture]] — are far more
 diverse and capable than was initially appreciated, opening new possibilities
 for treating recalcitrant pollutants that resist conventional biological
 treatment.
@@ -108,20 +106,12 @@ diversity, including many rare species.
 
 ## See Also
 
-- [[constructed-wetland-design]] — engineering parameters for wetland
-  construction
 - [[constructed-wetlands-wastewater-treatment]] — detailed treatment
   mechanisms
-- [[wetland-ecology]] — the natural ecosystems that constructed wetlands
-  emulate
 - [[graywater-wetland-marsh-filtration-systems]] — homestead-scale greywater
   marsh design
-- [[mollison-designers-wastewater-treatment-wetlands]] — Mollison's
-  permaculture approach
 - [[mollison-designers-greywater-treatment-reedbeds]] — reed bed construction
   details
-- [[singh-constructed-wetlands-fungal-wastewater-treatment]] — fungal roles
-  in treatment
 - [[graywater-systems-for-homesteads]] — household greywater management
 - [[mollison-designers-aquatic-edge-planted-wetland-design]] — aquatic edge
   planted wetland design

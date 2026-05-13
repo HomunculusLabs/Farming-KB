@@ -71,19 +71,7 @@ may reflect complementary ceremonial roles for the two species.
 
 ## Chemical Uncertainty
 
-Despite their importance in [[sacred-mushroom-use-mexico-teonanacatl-indigenous-traditions]], the neurotropic
-properties of these *Cordyceps* species remain chemically unresolved.
-Hofmann (in Heim and Wasson, 1958) did not find any indole alkaloids in
-specimens of *C. capitata* and *C. ophioglossoides* that Wasson had
-purchased in a Mexican market.
-
-Guzmán noted that these specimens had been "preserved for a long time"
-before analysis. Given the documented degradation of psilocybin and
-related compounds with specimen age (Repke et al., 1977a), the negative
-chemical result may reflect specimen deterioration rather than genuine
-absence of neurotropic compounds.
-
-The taxonomic relationship between *Cordyceps* and *[[bloomfield-ergot-claviceps-purpurea-ergotism]]*
+Despite their importance in [[bloomfield-ergot-claviceps-purpurea-ergotism]]*
 — the famous ergot fungus that produces ergot alkaloids known to cause
 hallucinations (Ramsbottom, 1954; Schultes and Hofmann, 1973, 1979;
 Wasson et al., 1978) — provides a biochemical rationale for potential
@@ -97,33 +85,9 @@ five *Claviceps* species recognized as neurotropic:
 
 1. *Claviceps purpurea* (Fr.: Fr.) Tul. — The classic ergot of rye
 2. *Claviceps nigricans* Tul.
-3. *[[claviceps-paspali]]* F. Stev. & J.G. Hall
-4. *Claviceps rolfesii* F. Stev. & J.G. Hall (possibly synonymous with
-   *C. paspali*)
-5. *Claviceps tripsicii* F. Stev. & J.G. Hall
-
-*C. purpurea* is confined to [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]] and is the best-studied
+3. *[[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]] and is the best-studied
 member of the group, responsible for ergotism (St. Anthony's Fire) in
 medieval Europe and the source of lysergic acid derivatives including
-LSD. The ergotized kykeon of [[plutarch-and-cicero-on-the-eleusinian-mysteries]] has been proposed
-as a psychedelic sacrament based on the known hallucinogenic properties
-of ergot alkaloids.
-
-## Ecological Context: Parasitic Lifestyle
-
-Both *Cordyceps* and *Claviceps* are obligate parasites, which
-distinguishes them ecologically from the saprotrophic *Psilocybe* species
-that dominate the neurotropic fungi inventory. *Cordyceps* species
-parasitize insects (entomopathogenic) or other fungi, while *Claviceps*
-species parasitize grasses and cereals. This parasitic lifestyle means
-these fungi are more difficult to cultivate and less predictable in their
-availability, which may contribute to their specialized — and perhaps
-more revered — status in indigenous ceremonies compared to the more
-commonly available *Psilocybe* species.
-
-## See Also
-
-- [[cordyceps-cultivation]]
-- [[ergot-fungi-and-cordyceps]]
+LSD. The ergotized kykeon of [[cordyceps-cultivation]]
 - [[cordyceps-claviceps-sacred-neurotropic-fungi-mexico]]
 - [[ergot-fungi-claviceps-ergot-alkaloids]]

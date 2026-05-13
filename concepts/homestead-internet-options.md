@@ -3,7 +3,7 @@ title: Homestead Internet Options
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
-tags: [off-grid, [[homesteading]], sustainability, tools, engineering]
+tags: [off-grid, homesteading, sustainability, tools, engineering]
 sources: []
 ---
 
@@ -13,7 +13,7 @@ Reliable internet access is increasingly essential for homesteaders — remote w
 
 ## Option 1: Starlink (Satellite)
 
-Starlink is SpaceX's low-earth-orbit (LEO) satellite internet constellation. It has transformed internet access for rural and [[off-grid-waste-management]] worldwide.
+Starlink is SpaceX's low-earth-orbit (LEO) satellite internet constellation. It has transformed internet access for rural and [[off-grid-waste-management|off-grid locations]] worldwide.
 
 ### Specifications
 
@@ -44,7 +44,7 @@ Starlink is SpaceX's low-earth-orbit (LEO) satellite internet constellation. It 
 
 - Expensive upfront and monthly cost
 - Occasional brief outages as satellites move
-- [[tree-canopy-fungal-sampling-techniques]] obstruction is a dealbreaker (requires clear view of sky)
+- Tree canopy obstruction is a dealbreaker (requires clear view of sky)
 - Power consumption may be significant for off-grid solar systems
 - Service quality varies by location and user density
 - SpaceX may adjust pricing or data policies
@@ -140,10 +140,11 @@ A WISP installs a small directional antenna on your roof or a tower, aimed at th
 - Search "wireless internet [your county/area]"
 - Check Wireless ISP Association (WISPA) directory
 - Ask neighbors what they use
-- Look for towers on hilltops with dish-shaped antennas
 
-## Option 4: DSL (Digital Subscriber Line)
+## See Also
 
-DSL delivers internet over existing copper telephone lines. Availability is declining as carriers abandon copper infrastructure.
-
-### Specifications
+- [[homestead-energy-conservation]]
+- [[homestead-mushroom-business]]
+- [[homestead-winter-preparations]]
+- [[homestead-tool-maintenance]]
+- [[common-homestead-weeds]]

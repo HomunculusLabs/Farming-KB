@@ -3,20 +3,20 @@ title: Micro Hydro Power
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
-tags: [energy, off-grid, [[homesteading]], sustainability, water, engineering]
+tags: [energy, off-grid, homesteading, sustainability, water, engineering]
 sources: []
 ---
 
 # Micro Hydro Power
 
-Micro hydro power generates electricity from flowing water on a small scale (typically under 100 kW). For homesteads with access to a stream or creek, micro hydro is often the most cost-effective and reliable [[holmgren-wind-power-and-renewable-energy-debate]] source. Unlike solar and wind, which fluctuate with weather and time of day, a properly designed micro hydro system produces power 24 hours a day, 365 days a year.
+Micro hydro power generates electricity from flowing water on a small scale (typically under 100 kW). For homesteads with access to a stream or creek, micro hydro is often the most cost-effective and reliable renewable energy source. Unlike solar and wind, which fluctuate with weather and time of day, a properly designed micro hydro system produces power 24 hours a day, 365 days a year.
 
 ## Why Micro Hydro Is Special
 
 - **Continuous power**: Produces electricity 24/7, unlike solar (daylight only) or wind (variable)
 - **Predictable output**: Flow rates are more consistent than sun or wind
 - **High capacity factor**: 50-90% (vs. 15-25% for solar, 20-35% for wind)
-- **[[coleman-quick-hoops-low-cost-season-extension-structures-design]] per kWh**: Often the cheapest renewable energy source over its lifetime
+- **Low cost per kWh**: Often the cheapest renewable energy source over its lifetime
 - **Long lifespan**: Equipment lasts 25-50 years with minimal maintenance
 - **Small footprint**: Minimal land use compared to solar arrays or wind towers
 
@@ -44,7 +44,7 @@ The volume of water flowing past a point per unit time. Measured in gallons per 
 2. **GPS altitudes**: Measure elevation at intake and turbine — subtract for head
 3. **Pressure gauge**: Attach to a pipe at the bottom of the fall; every 2.31 psi = 1 foot of head
 4. **Water level method**: Run a hose filled with water from intake to turbine; measure the height difference
-5. **Topographic [[maps]]**: Approximate for initial assessment
+5. **Topographic maps**: Approximate for initial assessment
 
 ### Measuring Flow
 
@@ -140,11 +140,10 @@ Annual energy: 275 watts x 24 hours x 365 days = 2,409,000 Wh = 2,409 kWh/year
 
 ### Tailrace
 
-- Channel that returns water to the stream below the turbine
-- Must meet environmental regulations (fish passage, water temperature)
+## See Also
 
-## Permitting and Regulations
-
-- **Water rights**: Many states require water rights or permits to divert stream flow
-- **Fish and wildlife**: Federal and state agencies protect aquatic habitat
-- **Dam safety**: Even small diversions may require permits
+- [[micro-pixe-analysis-of-elements-in-mycorrhizal-roots]]
+- [[micro-pixe-element-localization-mycorrhizal-roots]]
+- [[micro-pixe-analysis-mycorrhizal-metal-tolerant-plants]]
+- [[mollison-designers-forest-condensation-and-micro-climate-rainfall]]
+- [[ozier-pdc-hydro-cycle-and-watershed-management]]

@@ -2,11 +2,7 @@
 
 ## Overview
 
-In Masanobu Fukuoka's [[comparison-natural-farming-vs-permaculture]] system, the practice of spreading rice and barley straw across fields after harvest is far more than a simple mulching technique. Fukuoka described straw as "fundamental to my method of growing rice and winter grain" and stated that it is "connected with everything, with fertility, with germination, with weeds, with keeping away sparrows, with water management." This page examines the multiple interconnected functions of straw mulch in Fukuoka's system and the ecological principles that make it effective.
-
-## The Annual Straw Cycle
-
-Fukuoka's rice/[[direct-seeded-no-tillage-rice-barley-succession-in-clover]] system creates a continuous cycle of straw production and return:
+In Masanobu Fukuoka's [[direct-seeded-no-tillage-rice-barley-succession-in-clover]] system creates a continuous cycle of straw production and return:
 
 1. **Early October** — White clover and winter grain seeds (rye or barley) are broadcast among the ripening rice stalks. The clover and grain sprout and grow an inch or two before the rice is ready for harvest.
 
@@ -40,25 +36,7 @@ Fukuoka's system achieves high yields without applying prepared compost, commerc
 
 The decomposition of straw releases nutrients in a pattern that matches crop demand. Unlike synthetic fertilizers that release nutrients rapidly and can overwhelm the soil biology, straw decomposition is a gradual process mediated by soil microorganisms. This slow release means that nutrients become available as the growing crop needs them, reducing losses to leaching and volatilization.
 
-Fukuoka noted that using straw and green manure with a small amount of poultry manure could achieve high yields "without adding compost or commercial fertilizer at all." After several decades of observing nature's method of cultivation and fertilization, he was "reaping bumper crops of vegetables, citrus, rice, and winter grain as a gift, so to speak, from the [[fukuoka-natural-fertility-cycle]] of the earth."
-
-The danger of over-fertilization was illustrated by an experience where Fukuoka rented a field that the owner had used as a chicken manure dump over the winter. In that field, the rice plants came up too thickly and were attacked by blast disease, while four other fields that received only a small amount of chicken manure developed normally. This demonstrated that excess fertility, even from organic sources, can disrupt the natural balance and invite disease.
-
-## Weed Suppression Through Timing and Straw
-
-Fukuoka's approach to weed management is based on two complementary strategies: precise seeding timing and straw mulch coverage.
-
-### The Timing Advantage
-
-By sowing winter grain seeds while the rice is still standing in early October, the grain seedlings germinate and establish a head start before winter weeds can sprout. Similarly, rice seeds broadcast in clay pellets during autumn germinate beneath the standing winter grain, emerging when the barley or rye is harvested in May. This overlapping succession means there is no bare soil window during which weeds can establish.
-
-As Fukuoka explained: "Winter weeds sprout only after the rice has been harvested, but by that time, the winter grain already has a head start. Summer weeds sprout right after the harvest of barley and rye, but the rice is already growing strongly."
-
-### Straw as Weed Suppression
-
-After each harvest, the entire field is covered with straw. This layer performs several weed-suppressive functions:
-
-- **Light exclusion** — Weed seeds that land on the straw surface receive insufficient light to trigger germination. The straw mat blocks the [[cannabis-light-spectrum-and-color-bands]] that most weed seeds need to initiate sprouting.
+Fukuoka noted that using straw and green manure with a small amount of poultry manure could achieve high yields "without adding compost or commercial fertilizer at all." After several decades of observing nature's method of cultivation and fertilization, he was "reaping bumper crops of vegetables, citrus, rice, and winter grain as a gift, so to speak, from the [[cannabis-light-spectrum-and-color-bands]] that most weed seeds need to initiate sprouting.
 
 - **Physical barrier** — Even if weed seeds do germinate, the straw layer makes it difficult for seedlings to push through to reach sunlight. Crop seeds, being larger and more vigorous, are better able to penetrate the mulch.
 
@@ -76,13 +54,7 @@ The straw layer moderates soil temperature fluctuations, keeps the soil surface 
 
 ## Pest Protection and Ecological Balance
 
-Fukuoka's straw-covered fields naturally maintained lower pest populations than chemically treated fields. A visiting entomologist from the Kochi Prefecture Testing Centre investigated why rice leafhoppers were scarce in Fukuoka's fields despite no insecticide use. He discovered that [[fukuoka-natural-predator-protection]] populations — particularly spiders — were far more numerous in the straw-covered fields than in sprayed fields. The straw provided habitat for these predators, establishing a natural balance that kept pest populations in check without chemical intervention.
-
-This observation extends beyond insect pests. The straw layer provides habitat for a diverse community of soil organisms including ground beetles, centipedes, earthworms, and countless microbial species. This biological diversity creates a self-regulating ecosystem where no single pest species can dominate.
-
-## The Philosophical Dimension
-
-For Fukuoka, the straw mulch system was not merely a technique but an expression of his core philosophy: "These four [[four-principles-of-natural-farming]] farming (no cultivation, no chemical fertilizer or prepared compost, no weeding by tillage or herbicides, and no dependence on chemicals) comply with the natural order and lead to the replenishment of nature's richness."
+Fukuoka's straw-covered fields naturally maintained lower pest populations than chemically treated fields. A visiting entomologist from the Kochi Prefecture Testing Centre investigated why rice leafhoppers were scarce in Fukuoka's fields despite no insecticide use. He discovered that [[four-principles-of-natural-farming]] farming (no cultivation, no chemical fertilizer or prepared compost, no weeding by tillage or herbicides, and no dependence on chemicals) comply with the natural order and lead to the replenishment of nature's richness."
 
 The practice of returning all straw to the field represents a closed-loop system where nothing is removed and nothing external is added (beyond seeds). This contrasts with conventional agriculture where crop residues are often removed, burned, or otherwise disposed of, and fertility is maintained through external inputs. Fukuoka's system demonstrates that when the natural cycle of growth, harvest, and return is maintained, the soil's productive capacity can be sustained indefinitely without external amendments.
 
@@ -117,8 +89,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[masanobu-fukuoka]]
 - [[fukuoka-rice-straw-mulch-fertility-cycle]]
-- [[dom]]
 - [[permaculture]]
 - [[water-management]]

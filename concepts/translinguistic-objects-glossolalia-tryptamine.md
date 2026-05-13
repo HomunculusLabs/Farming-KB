@@ -3,8 +3,7 @@ title: Translinguistic Objects Glossolalia Tryptamine
 source: mckenna_t-tryptamines_consciousness.md
 topic: tryptamine_cognition
 related:
-  - [[dmt-phenomenology-and-tryptamine-hypercontinuum]].md
-  - [[mckenna-baconian-exploration-tryptamine-research-methodology]].md
+  - mckenna-baconian-exploration-tryptamine-research-methodology.md
 created: 2026-05-09
 ---
 
@@ -12,8 +11,7 @@ created: 2026-05-09
 
 ## Overview
 
-One of the most [[metzner-three-distinctive-features-shamanic-entheogenic-ceremonies]] of the tryptamine experience,
-as described by [[terence-mckenna]], is the encounter with what he calls
+One of the most terence-mckenna, is the encounter with what he calls
 "translinguistic objects"—phenomena that carry meaning and convey
 information but cannot be adequately captured by any human language.
 These objects exist at the boundary between perception and cognition,
@@ -71,8 +69,7 @@ what they have said, tryptamine-induced glossolalia is fully conscious
 and intentional. McKenna calls it "the assembly language that lies
 behind language."
 
-This concept draws on multiple traditions. [[robert-graves-british-mushroom-connection]], in *The
-[[mckenna-primal-ursprache-kabbalistic-zohar-and-white-goddess-glossolalia]]*, described a primal poetic language underlying all
+This concept draws on multiple traditions. mckenna-primal-ursprache-kabbalistic-zohar-and-white-goddess-glossolalia*, described a primal poetic language underlying all
 human tongues. The Kabbalistic *Zohar* describes a primal *Ursprache*
 (original language) preceding the confusion of Babel. McKenna suggests
 tryptamines provide access to this pre-linguistic cognitive substrate—
@@ -88,3 +85,11 @@ that ordinarily remains inaccessible.
 ## The Logos as Linguistic Foundation
 
 McKenna places translinguistic objects within the concept of the
+
+## See Also
+
+- [[the-logos-and-translinguistic-matter]]
+- [[mckenna-dmt-hyperspace-translinguistic-matter]]
+- [[glossolalia-translinguistic-objects]]
+- [[mckenna-translinguistic-matter-and-exteriorized-soul]]
+- [[mckenna-exteriorization-soul-translinguistic-matter]]

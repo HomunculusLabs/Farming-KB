@@ -16,7 +16,7 @@ tags:
 Temple is a sativa-dominant cannabis strain created by Bodhi Seeds, a respected
 American seed company known for producing exceptional genetics with a focus on
 large, resinous buds and complex flavor profiles. Temple represents a masterful
-cross between two legendary cultivars: Mr. Nice's Super Silver Haze and
+cross between two legendary cultivars: Mr. Nice's [[super-silver-haze]] and
 William's Wonder. The result is a strain that delivers the soaring cerebral
 qualities expected of its sativa heritage while remaining accessible to growers
 who might otherwise find pure sativas challenging to cultivate.
@@ -133,8 +133,6 @@ The phenotypic diversity, complex flavor, and joyful effects round out a strain
 that truly lives up to its name.
 
 ## See Also
-- [[oner-temple-bodhi-seeds-super-silver-haze-williams-wonder]]
 - [[oner-super-lemon-haze-greenhouse-strain-profile]]
-- [[critical-haze-strain-profile-resin-seeds-oner]]
 - [[cannabis-strain-sweet-pink-grapefruit-alpine-seeds-oner]]
 - [[cannabis-strain-super-lemon-haze-greenhouse-seed-co]]

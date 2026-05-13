@@ -8,61 +8,7 @@ sources: ["raw/papers/shulgin-a-tihkal.md"]
 ---
 # AL-LAD (6-Allylnor-LSD)
 
-TIHKAL entry #1. A lysergamide analogue of LSD with an allyl group substituted at the 6-position of ring D. AL-LAD is less potent than LSD but produces a notably gentler, "sweeter" [[leary-psychedelic-experience-bardo-mapping]] with erotic and music-enhancing properties. It belongs to a large series of 6-alkylated analogues of nor-LSD, most of which proved less potent than LSD and considerably less dramatic.
-
-## Chemical Names
-
-- 6-Norlysergic acid, 6-allyl-N,N-diethylamide
-- 6-Norlysergamide, 6-allyl-N,N-diethyl
-- N,N-Diethylnorlysergamide, 6-allyl
-- N-(6)-Allylnorlysergic acid, N,N-diethylamide
-- 9,10-Didehydro-6-allyl-N,N-diethylergoline-8b-carboxamide
-
-## Dosage
-
-| Route | Dose Range |
-|-------|-----------|
-| Oral | 80–160 micrograms |
-
-## Duration
-
-6–8 hours (shorter than LSD's 8–12 hours)
-
-## Qualitative Comments
-
-- **50 ug**: "I am aware in twenty minutes, and am into a stoned place, not too LSD like, in another hour. I would very much like to push higher, but that is not in the cards today and I must acknowledge recovery by hour eight."
-- **80 ug**: "A mild effect, although the doors to my repressed feelings somehow really became opened up. There was nothing transcendental here, but there were moments where I felt a conscious separation from the world about me. None of the profound meanings that I had hoped to have explained were explained."
-- **150 ug**: "I felt it in less than a quarter hour, and was shooting up past a +++ in another quarter hour. Fast. Just like LSD but without the vaguely sinister push. A little time slowing, randy, no body disturbance. Dropping at six hours and totally tired and going to sleep at twelve hours. I will repeat."
-- **150 ug**: "Simply beautiful. Erotic and music absorption after second hour. Clear thinking with superb imagery and good interpretation. Easy, gentle sleeping. Next day — serene, clear-thinking peacefulness. One of the best materials ever."
-- **160 ug**: "There was a very slow onset. Intermittent waves of intensification. There was never any fear or panic, but I chose to retreat to a private place. I prayed, and I cried, and I began to feel calmer. The rest of the day was spent pleasantly and smoothly."
-- **160 ug (with 40 mg propranolol pretreatment)**: "Very short bursts of loss of contact with my body, which became increasingly intense and frequent. It became really trippy, like acid. There were no visuals with my eyes closed, but when I removed my eye-shades the floors were melting, and the wall patterns and the wood ceiling really flowed. My body felt very blob-like. There was a very long down-ramp, with physical excitation appearing to linger longer than psychic excitation."
-- **200 ug (on tail end of MDMA)**: "I felt it quickly, but it never got to a super level. Complicated erotic, good talking, looked pretty stoned, and yet I still had cognitive integrity."
-
-## Extensions and Commentary
-
-AL-LAD is one of several very potent compounds in the series of 6-alkylated analogues of al al lad entity tihkal tihkal. Most proved to be less potent than LSD and considerably less dramatic. The compound is notable for:
-
-- Faster onset than LSD
-- Absence of the "vaguely sinister push" characteristic of LSD
-- Pronounced erotic enhancement
-- Music absorption
-- Gentle, easy comedown with no hangover
-- Shorter duration than LSD
-- Preservation of cognitive integrity even at higher doses
-
-The Inderal (propranolol) mentioned in one of the comments is an antihypertensive that reduces nervousness. The propranolol pretreatment experiment suggests that the peripheral physical effects of AL-LAD can be partially dissociated from the central psychedelic effects.
-
-## The "nor" Nomenclature
-
-A comment is appropriate concerning the use of the prefix "nor," as in the name N-allyl-nor-LSD. Its exact meaning is that there is an alkylated nitrogen atom somewhere that has lost an alkyl group. The original term is from the German phrase "N-ohne-Radical" meaning N (the nitrogen) without the radical (meaning the alkyl group). The removing of the N-methyl group of LSD to form the N-H counterpart is a textbook example of this usage. Unfortunately its use has expanded to embrace the removal of an alkyl group from a heteroatom of any sort. A metabolite of ibogaine that has lost a methyl group from the indolic oxygen atom was called noribogaine, when the correct term would have been desmethyl ibogaine.
-
-## Dose-Response Characteristics
-
-AL-LAD shows a clear dose-response progression from mild perceptual shifts at 50 ug to full psychedelic effects at 150 ug. The 50 ug dose produces gentle awareness and a "stoned" quality. At 80 ug, emotional openness is the primary effect. At 150 ug, the experience reaches +++ (Shulgin's scale for strong psychedelic effects) with rapid onset and clear visual imagery. At 160 ug, the effects become more challenging for some subjects, with emotional processing becoming the central theme. The compound remains manageable even at the upper end of its dose range, which contrasts with LSD's tendency toward increasing unpredictability at higher doses.
-
-## Comparison with Related Lysergamides
-
-AL-LAD occupies a distinctive niche within the LSD analogue family. Compared to [[eth-lad-entity-tihkal]] (the 6-ethyl analogue), AL-LAD has a slightly different character — the allyl group provides distinct electronic properties that affect [[tihkal-receptor-binding-serotonin]]. The 6-position substitution pattern in these compounds directly modifies how the molecule interacts with 5-HT2A and other serotonin receptor subtypes, producing the characteristic differences in experiential quality. AL-LAD's consistently positive reports ("One of the best materials ever") suggest that the allyl substitution may produce a particularly favorable receptor interaction profile compared to both shorter and longer alkyl chains.
+TIHKAL entry #1. A lysergamide analogue of LSD with an allyl group substituted at the 6-position of ring D. AL-LAD is less potent than LSD but produces a notably gentler, "sweeter" [[eth-lad-entity-tihkal]] (the 6-ethyl analogue), AL-LAD has a slightly different character — the allyl group provides distinct electronic properties that affect [[tihkal-receptor-binding-serotonin]]. The 6-position substitution pattern in these compounds directly modifies how the molecule interacts with 5-HT2A and other serotonin receptor subtypes, producing the characteristic differences in experiential quality. AL-LAD's consistently positive reports ("One of the best materials ever") suggest that the allyl substitution may produce a particularly favorable receptor interaction profile compared to both shorter and longer alkyl chains.
 
 ## Physical Properties
 
@@ -74,9 +20,93 @@ AL-LAD occupies a distinctive niche within the LSD analogue family. Compared to 
 
 ## See Also
 
-- [[lsd-entity-tihkal]] — the parent compound
 - [[5-meo-dipt-entity-tihkal]] — another tryptamine with erotic enhancement properties
 
 ## Related
 
 - [[pro-lad-entity-tihkal]]
+
+## Overview
+
+Al Lad Entity Tihkal represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish al lad entity tihkal
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving al extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Al Lad Entity Tihkal finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for al lad entity tihkal. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+al lad entity tihkal and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Al Lad Entity Tihkal has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of al lad entity tihkal into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[3c-e-entity]]
+- [[ganesha-entity]]
+- [[methyl-mmda-2-entity-pihkal]]
+- [[tris-entity-pihkal]]
+- [[vaccinium-corymbosum-entity]]

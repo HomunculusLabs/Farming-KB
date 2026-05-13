@@ -17,23 +17,7 @@ type: concept
 # Indoor Wood-Decay Fungi and Building Deterioration
 
 Wood-decay fungi that colonize buildings represent a significant threat to
-built structures worldwide. Among these, the dry [[comparison-white-rot-fungi-vs-brown-rot-fungi-biodegradation]] Meruliporia
-incrassata and [[meruliporia-incrassata]] causes extensive [[dry-rot-fungi-serpula-meruliporia]] in California and the
-southeastern [[dmt-containing-plants-united-states-halpern]], while [[serpula-lacrymans]] is responsible for
-similar destruction in Britain, Europe, Australia, and Japan. The name
-Serpula means serpent or worm, evoking the root-like structures that invade
-buildings. The specific name lacrymans (Latin for weeping) refers to the
-globules of fluid that appear on the fungal surface.
-
-The warmest invitation for dry rot is a house where wooden structures make
-direct contact with soil. A post sunk into the ground without concrete
-protection, soil accumulation under exterior stucco, or cracks in concrete
-slabs all serve as entry points. The fungus can infiltrate foundations, wood,
-or concrete, and progressively destroy the entire structure.
-
-## Strands and Rhizomorphs
-
-Dry [[bioremediation-fenton-chemistry-brown-rot-fungi]] form two types of root-like structure for colonization and
+built structures worldwide. Among these, the dry [[meruliporia-incrassata]] causes extensive [[dmt-containing-plants-united-states-halpern]], while [[bioremediation-fenton-chemistry-brown-rot-fungi]] form two types of root-like structure for colonization and
 water transport:
 
 - **Strands (chords)**: develop as assemblages of hyphae with a thick
@@ -117,8 +101,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[doc]]
 - [[det]]
-- [[spore]]
 - [[mycelium]]
 - [[dmt]]

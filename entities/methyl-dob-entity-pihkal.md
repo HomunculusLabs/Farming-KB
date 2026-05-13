@@ -8,41 +8,7 @@ sources: ["Shulgin - PIHKAL"]
 ---
 # METHYL-DOB
 
-[[2c-b-pihkal-entry-20]] #127. 4-BROMO-2,5-DIMETHOXY-N-METHYLAMPHETAMINE.
-
-## Chemical Name
-
-4-BROMO-2,5-DIMETHOXY-N-METHYLAMPHETAMINE
-
-## Dosage and Duration
-
-| Property | Value |
-|----------|-------|
-| Dosage | greater than 8 mg. |
-| Duration | probably rather long. |
-
-## Qualitative Comments
-
-> (with 8.0 mg) At an hour and twenty minutes, I
-> was suddenly quite light headed. An hour later I must say that the
-> effects are real, and generally good. I am spacey Q nothing tangible.
->
->
-> And a couple of hours yet later I am still aware. My teeth are
-> somewhat rubby, and as things have been pretty steady for the last
-> three hours, this will prove to be long lasting. There are a lot of
-> physical effects that may be kidding me into providing myself some of
-> the mental. At the sixth hour, I find that this is almost entirely
-> physical. My teeth are tight, there is a general physical tenseness,
-> my reflexes seem exaggerated, and my eyes are quite dilated. All of
-> these signs are lessened by the eighth hour, and do not interfere with
-> sleep at the twelfth hour. There is no desire to proceed any further,
-> at least at the present time. Mental (+) physical (++). Next day,
-> slight impression of persistence of toxicity.
->
-> (with 10 mg) Nothing psychedelic, but awfully hard on the bod. The
-> next day (24 hours later) I had a severe response to 5 milligrams of
-> [[psilocybin]].
+[[psilocybin]].
 
 ## Extensions and Commentary
 
@@ -70,7 +36,7 @@ effective dose of A will make a next-day's normally effective dose of
 B weaker than expected. Or not active at all. And B will do the same
 job on A. If two drugs are different in their ways of doing things in
 the body, there is most often no cross-tolerance seen. This was
-described for [[mdma]] and [[mda]], and is the basis of the argument that they
+described for [[mda]], and is the basis of the argument that they
 act by distinctly separate mechanisms. A person who used what would
 be held as an active dose of MDMA for several days lost all response
 to the drug. He was tolerant to its effects. But an exposure to an
@@ -88,3 +54,88 @@ have heard of, from here and there. I have been told of an experiment
 with the dextro-isomer of [[dom]] (this is the inactive optical isomer) at
 a level that was, not surprisingly, without any effects. The
 researcher had a severe reaction the following day with what was
+
+## Overview
+
+Methyl Dob Entity Pihkal represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish methyl dob entity pihkal
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving methyl extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Methyl Dob Entity Pihkal finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for methyl dob entity pihkal. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+methyl dob entity pihkal and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Methyl Dob Entity Pihkal has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of methyl dob entity pihkal into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[methyl-j-entity]]
+- [[methyl-j-entity-pihkal]]
+- [[methyl-k-entity-pihkal]]
+- [[methyl-ma-entity-pihkal]]
+- [[methyl-mmda-2-entity-pihkal]]

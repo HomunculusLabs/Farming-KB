@@ -10,31 +10,11 @@ sources:
 ---
 # Fukuoka on Spiritual Aspects of Farming and Nature Connection
 
-In [[natural-farming-fukuoka]] makes explicit what was only implicit in his earlier work: that [[natural-farming]] is fundamentally a spiritual practice. The book is structured around the relationship between God, nature, and man — three entities Fukuoka insists were "originally one indivisible" but have been "recklessly split apart" by human intellectual activity.
+In [[natural-farming]] is fundamentally a spiritual practice. The book is structured around the relationship between God, nature, and man — three entities Fukuoka insists were "originally one indivisible" but have been "recklessly split apart" by human intellectual activity.
 
 ## The Revelation
 
-Fukuoka reveals for the first time the foundational experience of his life: "I received a revelation of God one moment fifty years ago." He was "so taken aback by the vision I saw that I failed to advance along the road I should have." Instead, he "turned my back on God and tried to follow quietly the path of a solitary farmer." He now calls the road he passed over "the road back to nature" and confesses to having "grown arrogant" in "professing to practice [[comparison-natural-farming-vs-permaculture]]."
-
-## God, Nature, and Man as One
-
-The book's central theological claim: God, nature, and man were originally one indivisible entity. Science and human intellect have "recklessly split apart" this unity, "leaving only a legacy of incoherent chaos." The task of natural farming is to restore this unity — to return to the state where "the flowers of nature bloom of their own accord and scatter without care or concern."
-
-## Nature Creates God, Not the Reverse
-
-Fukuoka reverses the conventional theological understanding: "God did not create heaven, earth, and the cosmos. Rather, when the Earth was born and the meadow flowers bloomed, the butterflies fluttered about, and the birds sang, God came of his own choosing to dwell there." God is not a creator standing outside nature but an immanent presence that arises from natural wholeness. "Instead of praying to God as a mighty power that reigns over the heavens, man should have frolicked innocently with this wonderful sprite, this angel inhabiting the fields."
-
-## The Soul of Nature
-
-"The soul of nature is also the will of God who dwells in nature." This soul "does not lie hidden within DNA" and "cannot be found by dissecting nature." It is perceived only through innocent, non-intellectual awareness. "The flower perceived innocently is itself divine nature, but when examined with the intellect, this is transformed into the cold flower of reason, the heart of which nature shuts out."
-
-## The Orchard as Eden
-
-Visitors to Fukuoka's orchard "call this an Eden, a paradise on Earth." When spring arrives, "the cherry, plum, peach, and pear trees in my orchard, and the semi-wild vegetables growing beneath them, all break out into bloom, mixing with the green of the foliage." This is not metaphor for Fukuoka — it is literally a manifestation of God dwelling in nature. The orchard demonstrates that "the purpose" of farming "should always be the revival of nature and the manifestation and concrete expression of the God that lies hidden deep within nature."
-
-## God Knows Neither Space Nor Time
-
-Fukuoka insists that God "makes decisions from a standpoint that transcends space and time." This is why all human scientific and technological efforts — including [[fukuoka-textdoc-genetic-engineering-critique-warning]] and artificial intelligence — are "imperfect creatures caught within the domain of the concepts of space and time." Computers are "merely machines which make erroneous decisions that differ fundamentally from the decisions and aims of God."
+Fukuoka reveals for the first time the foundational experience of his life: "I received a revelation of God one moment fifty years ago." He was "so taken aback by the vision I saw that I failed to advance along the road I should have." Instead, he "turned my back on God and tried to follow quietly the path of a solitary farmer." He now calls the road he passed over "the road back to nature" and confesses to having "grown arrogant" in "professing to practice [[fukuoka-textdoc-genetic-engineering-critique-warning]] and artificial intelligence — are "imperfect creatures caught within the domain of the concepts of space and time." Computers are "merely machines which make erroneous decisions that differ fundamentally from the decisions and aims of God."
 
 ## Touching the Great Spirit
 
@@ -54,7 +34,6 @@ The spiritual path requires abandonment of the ego. "One must abandon oneself ea
 
 ## Related Concepts
 
-- [[fukuoka-road-do-nothing-farming]] — farming as spiritual practice
 - [[fukuoka-road-one-straw-revolution-continuation]] — the spiritual themes made explicit
 
 ## The Confession: Turning Away from God
@@ -119,8 +98,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[natural-farming]]
 - [[doc]]
-- [[dom]]
 - [[permaculture]]
 - [[fukuoka-spiritual-philosophy-farming]]

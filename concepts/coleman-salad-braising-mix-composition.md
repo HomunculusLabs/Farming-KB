@@ -3,9 +3,7 @@
 
 ## Overview
 
-[[salad-crops-growing-guide]] are far more cold tolerant than mature ones. This means the grower can harvest tender, delicate, nutritionally dense greens during months when most farms have nothing fresh to sell—a powerful competitive advantage.
-
-The distinction between salad mix and braising mix also reflects a deep understanding of culinary use. Rather than offering a generic "mixed greens" product, Coleman designed two distinct products for two distinct purposes, each with its own [[aact-compost-quality-standards-ingham]] and ingredient palette. This segmentation allows the grower to use a wider range of crops, reduce waste, and serve different customer preferences from the same production base.
+[[aact-compost-quality-standards-ingham]] and ingredient palette. This segmentation allows the grower to use a wider range of crops, reduce waste, and serve different customer preferences from the same production base.
 
 ## The Baby-Leaf Salad Mix
 
@@ -33,45 +31,15 @@ Coleman used specific cultivars chosen for winter performance:
 
 - **Endive**: 'Indivia Bianca Riccia da Taglio' (white curly endive for cutting), sold by Johnny's Seeds as 'Bianca Riccia'—nice light-colored frilly leaves at the baby-leaf stage.
 - **Red color**: 'Bull's Blood' beet leaves for red color, rather than radicchio. Cool winter temperatures intensify the deep maroon, and the flavor lacks radicchio's bitter edge (which can ruin a whole salad under poor conditions).
-- **Wild arugula**: 'Sylvetta' is perfectly hardy but requires further learning about [[succession-planting]] is essential**: Plant multiple successions to ensure continuous supply and to find the best timing for each ingredient under varying winter conditions.
-6. **Whole leaves, not chopped**: The visual appeal and textural integrity of whole baby leaves is a significant quality differentiator from supermarket mixes.
-7. **Trial constantly**: Continuously trial both standard and potential crops to identify cultivars better suited to conditions and to find new flavors, shapes, and textures.
-8. **Know your customers**: Different markets have different preferences. Some want mild salads; others want bold flavors. Design your mix for your specific customer base and be willing to adapt.
-9. **Track performance data**: Maintain detailed records of sowing dates, germination rates, growth rates, and quality assessments for each ingredient under different winter conditions. This data is invaluable for refining future mix compositions and planting schedules.
+- **Wild arugula**: 'Sylvetta' is perfectly hardy but requires further learning about [[coleman-winter-salad-braising-mix-composition]]
 
-## See Also
-
-- [[coleman-winter-salad-braising-mix-composition]]
-
-- coleman cold hardy [[cover-crop-selection-guide]] — Full list of winter-hardy varieties
-- [[organic-farming-history]] — Soil fertility for quality winter greens
+- coleman cold hardy [[organic-farming-history]] — Soil fertility for quality winter greens
 - coleman overwintered spinach — The backbone winter crop
-- coleman [[query-what-is-succession-planting-and-how-do-i-plan-a-succession-planting-schedule]] [[coleman-second-spring-august-planting-window]] — Timing succession plantings for mix continuity
+- coleman [[coleman-second-spring-august-planting-window]] — Timing succession plantings for mix continuity
 - winter mesclun varieties — Variety selection for winter salad mixes
 - coleman value added products — Marketing innovations like the Stir-Fry Pak
 - asian greens winter production — Detailed guide to winter Asian greens cultivation
-- [[coleman-direct-marketing-and-csa-models]] — Selling winter mixes directly to customers
-- winter greens nutritional density — Nutritional advantages of cold-grown greens
-- cold stress sugar concentration plants — Biochemistry of cold-sweetened greens
-- coleman fall planting timing — When to sow for winter mix harvests
-- baby leaf harvest technique — Cut-and-come-again methods for mixed greens
-## Practical Considerations
-
-When working with Coleman coleman salad braising mix composition Mix Composition, several practical factors should be
-carefully considered to achieve optimal results. These include
-the specific conditions of the implementation context, available
-resources, timing requirements, and the interactions between this
-topic and other elements of the broader system. A holistic view
-that considers these interconnections produces better outcomes.
-
-Environmental conditions such as temperature, moisture, and
-seasonal patterns significantly influence results. Monitoring these
-variables and adapting practices accordingly is essential for success.
-The most effective practitioners develop keen observation skills and
-respond flexibly to changing conditions rather than following rigid
-protocols regardless of circumstances or local variation.
-
-[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
+- [[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -111,8 +79,6 @@ through generations to modern scientific approaches, the evolution continues
 to inform current best practices and research directions.
 
 ## See Also
-- [[coleman-winter-salad-braising-mix-composition]]
 - [[det]]
-- [[succession-planting]]
 - [[coleman-baby-leaf-salad-mix-composition-quality-standards]]
 - [[coleman-baby-leaf-salad-mix-composition-production]]

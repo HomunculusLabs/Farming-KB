@@ -9,13 +9,11 @@ sources: ["raw/papers/bill-mollison-permaculture-a-designers-manual.md"]
 
 # Adobe Construction
 
-Adobe construction is a building technique using sun-dried earth bricks made from a mixture of clay-rich soil, sand, water, and straw or other fibrous material. Adobe is one of the most widespread traditional building methods on Earth, practised across the Americas, the Middle East, North Africa, the Mediterranean, and parts of Asia for thousands of years. The word adobe comes from the Arabic word at-tub, meaning brick, which was adopted into Spanish during the Moorish occupation of the Iberian Peninsula. In [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]], adobe is valued for its minimal energy inputs, [[jadam-local-material-collection-and-use]] sourcing, excellent thermal mass, and deep cultural roots in sustainable building traditions.
+Adobe construction is a building technique using sun-dried earth bricks made from a mixture of clay-rich soil, sand, water, and straw or other fibrous material. Adobe is one of the most widespread traditional building methods on Earth, practised across the Americas, the Middle East, North Africa, the Mediterranean, and parts of Asia for thousands of years. The word adobe comes from the Arabic word at-tub, meaning brick, which was adopted into Spanish during the Moorish occupation of the Iberian Peninsula. In [[jadam-local-material-collection-and-use]] sourcing, excellent thermal mass, and deep cultural roots in sustainable building traditions.
 
 ## History and Geographic Distribution
 
-Adobe building has been practised continuously for over 4,000 years. The earliest known adobe structures are in the [[allegro-fertility-philosophy-of-the-ancient-near-east]] East, including the city of Ur in Mesopotamia. In the Americas, adobe traditions developed independently, with notable examples including the Pueblo dwellings of the American Southwest, the great adobe cities of the Inca and pre-Inca civilisations in the Andes, and the colonial architecture of Mexico and California.
-
-Adobe remains one of the most common [[natural-building-materials-guide]] in the world today. An estimated 30-50 percent of the world's population lives in earth buildings, many of them adobe. The technique persists because it is affordable, requires minimal technology, uses locally available materials, and produces comfortable buildings suited to their climates.
+Adobe building has been practised continuously for over 4,000 years. The earliest known adobe structures are in the [[natural-building-materials-guide]] in the world today. An estimated 30-50 percent of the world's population lives in earth buildings, many of them adobe. The technique persists because it is affordable, requires minimal technology, uses locally available materials, and produces comfortable buildings suited to their climates.
 
 ## Soil Selection
 
@@ -73,53 +71,80 @@ Traditional renders use lime wash, mud plaster, or a combination. Lime render pr
 
 Adobe construction aligns closely with permaculture principles of using local, minimally processed resources. The building material is literally the earth on which the building stands. The energy input is minimal, limited to soil extraction, mixing, and manual labour. Adobe buildings are non-toxic, breathable, and biodegradable.
 
-The thermal mass of adobe walls can be enhanced by [[comparison-passive-solar-vs-earth-sheltered]] design. South-facing glazing in the northern hemisphere allows winter sun to heat adobe walls, which then radiate warmth throughout the night. Summer shading prevents overheating. Adobe's thermal mass makes it an ideal material for energy-efficient, climate-responsive building.
+The thermal mass of adobe walls can be enhanced by [[soil-testing]]
+- [[permaculture-principles]]
+- [[comparison-earthbag-vs-adobe-construction]]
 
-## Practical Context
-Adobe Construction is best interpreted in relation to site goals, climate constraints,
-available materials, and the biological processes already described on this page. For
-farming and land-care work, the useful question is not only what it is, but where it
-changes decisions about design, timing, monitoring, or risk management.
+## Overview
 
-## Field Indicators
-Useful indicators include changes in growth rate, seasonal timing, moisture behavior,
-pest or disease pressure, soil structure, and the response of nearby organisms.
-Recording these observations over several cycles helps distinguish a stable pattern from
-a one-time event caused by weather, disturbance, or management history.
+Adobe Construction represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
 
-## Management Notes
+## Key Characteristics
+
+Several defining characteristics distinguish adobe construction
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving adobe extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
 
 ## Practical Applications
 
-The principles and techniques discussed here have wide-ranging applications
-across multiple disciplines and contexts. Practitioners and researchers
-continue to explore new ways to integrate these concepts into modern practice,
-adapting traditional knowledge to contemporary challenges and opportunities.
+Adobe Construction finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
 
-## Key Considerations
+## Management and Implementation
 
-Several important factors influence the effectiveness and outcomes described
-in this topic. Understanding these considerations helps practitioners make
-informed decisions and avoid common pitfalls. Environmental conditions,
-timing, and material selection all play critical roles.
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for adobe construction. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+adobe construction and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
 
 ## Historical Context
 
-The historical development of this subject reflects centuries of accumulated
-knowledge and practical experience. From traditional methods passed down
-through generations to modern scientific approaches, the evolution continues
-to inform current best practices and research directions.
+Adobe Construction has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
 
-## Common Challenges
+## Integration Strategies
 
-Practitioners frequently encounter several challenges when working with
-these concepts. Climate variability, resource limitations, and knowledge
-gaps can all affect outcomes. Addressing these challenges requires patience,
-observation, and a willingness to adapt approaches based on results.
+Successful integration of adobe construction into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
 
-## See Also
-- [[soil-testing]]
-- [[permaculture]]
-- [[permaculture-principles]]
-- [[comparison-cob-building-vs-adobe-construction]]
-- [[comparison-earthbag-vs-adobe-construction]]
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource

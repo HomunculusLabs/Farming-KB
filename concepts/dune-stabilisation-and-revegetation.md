@@ -8,16 +8,7 @@ type: concept
 
 ## Overview
 
-Dune country represents both one of the most challenging and most water-rich environments in arid landscapes. Sands occur on pavements or as dunefields (sand seas), taking characteristic forms depending on wind intensity, duration, streamlines, velocity, and sand supply. Dunes function as enormous freshwater reservoirs—understanding their water-holding capacity and stabilisation techniques is essential for desert [[permaculture]].
-
-## Dunes as Water Reservoirs
-
-Any traveller in vegetated deserts notices that the largest trees stand in the dune ridges. This holds true for dunes on harder pavement, dunes on clay with a strong base pavement, coastal dune hollows, and deflation hollows in sands. The reason is straightforward:
-
-- **Dunes present a very large surface area** of sand grains for water to adhere to
-- **Rapid infiltration of rain** is possible through the porous sand matrix
-- In deep sands, the surface to a few metres may hold only 4% water, but at **6 metres** damp sands are found, and at **40 metres** saturated sands occur
-- Some dune fields (with [[humus]] and dust particles) support quite dense vegetation (50% cover) while others are almost sterile
+Dune country represents both one of the most challenging and most water-rich environments in arid landscapes. Sands occur on pavements or as dunefields (sand seas), taking characteristic forms depending on wind intensity, duration, streamlines, velocity, and sand supply. Dunes function as enormous freshwater reservoirs—understanding their water-holding capacity and stabilisation techniques is essential for desert [[humus]] and dust particles) support quite dense vegetation (50% cover) while others are almost sterile
 
 This freshwater lens functions much like the coral sands of an atoll holding rainwater that "floats" on salt water. At the edge of large dune complexes, water rushes and sedges appear at base seepage, and shallow lagoons form that are as much dune-fed as dune-dammed.
 
@@ -49,17 +40,8 @@ These fences provide measurable benefits:
 
 For dunes on pavement, planting proceeds after rains:
 
-1. **Fast-growing grain or oat crop** (sorghum, millet, desert legumes such as moth bean) or yam beans sown first
-2. **Hardy [[acacia]] seedlings** planted with mixed fertiliser
-3. If successful, grains flower and straw lasts two or more years; moth beans leave seed; small Acacias grow to permanent stabilisation
-4. **Acacia victoriae** provides copious leaf mulch for subsequent plantings
-5. A few larger quickset trees (tamarisk) may succeed if deeply set in or near the dune base
-
-### Pelleted Seed Broadcasting
-
-For extensive dune systems:
-
-1. Mix seed, mud, fertiliser, and insect repellent (neutralised copper sulphate with lime, [[neem]] tree leaf powder, or magnesite)
+1. **Fast-growing grain or oat crop** (sorghum, millet, desert legumes such as [[moth-bean]]) or yam beans sown first
+2. **Hardy [[neem]] tree leaf powder, or magnesite)
 2. Pass the stiff mass through a mincer with blades removed
 3. Extrude onto a vibrating tray with slight slope, dusted with dry powder
 4. Pellets dry into round forms that can be broadcast from the air
@@ -110,7 +92,7 @@ Once stabilised, dunes must be protected from:
 - **Badly aligned roads** that disrupt wind patterns
 - **Sand mining** to windward
 
-Sawdust and mulch in hollows are very beneficial. Mill wastes (bark, sawdust) have helped establish Acacia sophorae forests in coastal dunes in Tasmania. All plants in dunes benefit from nitrogenous fertiliser, phosphate, and trace elements, as old dunes are usually deficient in plant nutrients.
+Sawdust and mulch in hollows are very beneficial. Mill wastes (bark, sawdust) have helped establish [[acacia]] sophorae forests in coastal dunes in Tasmania. All plants in dunes benefit from nitrogenous fertiliser, phosphate, and trace elements, as old dunes are usually deficient in plant nutrients.
 
 ## Chevron Banks in Dune Swales
 

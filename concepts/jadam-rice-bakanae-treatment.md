@@ -12,31 +12,7 @@ sources:
 
 ## Overview
 
-Rice bakanae disease (caused by Fusarium fujikuroi) causes elongated, thin, pale seedlings that eventually die. JADAM developed a cold water seed immersion method using [[jadam-sulfur-js]] 5 L (1.3 gal)
-- Add water to make 500 L (132 gal) total solution
-
-### For small batches (20 L / 5.3 gal seeds):
-- Use JS 0.2 L (0.053 gal) in proportion
-
-### Special cases:
-- **Government-supplied variety seeds:** Rinse and rub 3 times, then immerse
-- **Rice seeds with thick husks:** Increase JS to 7 L (1.85 gal)
-- **Waxy rice and colored rice:** Increase JS to 7 L (1.85 gal)
-
-## Step-by-Step Procedure
-
-1. Put rice seeds in small porous bags
-2. Prepare the JS solution using cold water only (no heating)
-3. Immerse the seed bags in the solution for **48 hours**
-4. A white film will form on the surface (normal)
-5. Remove seeds and rinse **very thoroughly** with water
-6. Begin sprouting
-
-## Seedbed Treatment (if disease appears)
-
-If rice seedlings show bakanae disease in the seedbed:
-
-- [[jadam-wetting-agent-jwa]] 3 L (0.8 gal)
+Rice bakanae disease (caused by Fusarium fujikuroi) causes elongated, thin, pale seedlings that eventually die. JADAM developed a cold water seed immersion method using [[jadam-wetting-agent-jwa]] 3 L (0.8 gal)
 - Add water to make 500 L (132 gal)
 - Spray on affected seedlings
 
@@ -58,9 +34,8 @@ This solution can fully replace chemical seed disinfectants.
 
 ## See Also
 
-- [[jadam-sulfur-js]] - How to make [[ultra-low-jadam-sulfur-js]]
-- [[jadam-concentration-guidelines]] - Safety and [[blesching-cannabis-health-index-dosage-guidelines-medical]]
-- [[jadam-rice-water-weevil-control]]
+- [[ultra-low-jadam-sulfur-js]]
+- [[blesching-cannabis-health-index-dosage-guidelines-medical]]
 - [[jadam-natural-vs-chemical-pesticide]]
 ## Practical Considerations
 
@@ -110,8 +85,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[youngsang-cho]]
 - [[jadam-seed-treatment-and-storage]]
-- [[jadam-seed-seedling-treatment]]
 - [[jadam-seed-treatment-and-nursery-management]]
 - [[jadam-seed-treatment-leaf-mold]]

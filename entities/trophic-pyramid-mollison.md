@@ -9,7 +9,7 @@ tags: [ecological-concept, food-web, energy-flow, permaculture, systems-theory]
 
 ## Description
 
-The trophic pyramid mollison is an ecological concept critically examined by [[bill-mollison]] in *[[permaculture]]: A Designers' Manual*. While acknowledging its usefulness as a conceptual model, Mollison argues that the pyramid oversimplifies natural systems and that real-world food relationships are better understood as complex, cyclic food webs rather than linear hierarchies.
+The trophic pyramid mollison is an ecological concept critically examined by [[permaculture]]: A Designers' Manual*. While acknowledging its usefulness as a conceptual model, Mollison argues that the pyramid oversimplifies natural systems and that real-world food relationships are better understood as complex, cyclic food webs rather than linear hierarchies.
 
 ## Classification
 
@@ -46,36 +46,8 @@ The trophic pyramid critique directly applies to understanding soil food webs. I
 
 ## Source Reference
 
-Mollison, B. (1988). *Permaculture: A Designers' Manual*. [[tagari-publications]]. Chapter 2, section 2.7 — Pyramids, Food Webs, Growth, and Vegetarianism.
-
-## Historical Context
-- Emerged from observations of natural systems and ecological patterns
-- Documented through systematic study and practical experimentation
-- Has evolved through integration with modern scientific understanding
-- Continues to be refined through ongoing research and practice
-
-## Ecological Significance
-- Plays role in maintaining ecosystem balance and function
-- Contributes to biodiversity and habitat complexity
-- Supports natural processes including nutrient cycling
-- Influenced by and influences surrounding environmental conditions
-
-## Management Considerations
-- Requires understanding of local conditions and context
-- Benefits from integrated approaches to land management
-- Monitoring and adaptive management improve outcomes
-- Long-term sustainability depends on holistic system design
-
-## Research and Development
-- Ongoing studies explore new applications and understanding
-- Cross-disciplinary approaches enhance practical knowledge
-- Field observations complement controlled experimental results
-
-## See Also
-- [[mollison-trophic-pyramids-food-webs-and-energy-cycling]]
-- [[holmgren-trophic-pyramid-energy-hierarchy-societies]]
+Mollison, B. (1988). *Permaculture: A Designers' Manual*. [[mollison-trophic-pyramids-food-webs-and-energy-cycling]]
 - [[ingham-soil-foodweb-trophic-levels-protozoa-nematodes]]
-- [[trophic-pyramids-and-food-webs]]
 - [[keystone-species-and-trophic-cascades]]
 
 ## Overview and Definition
@@ -115,8 +87,6 @@ Mollison, B. (1988). *Permaculture: A Designers' Manual*. [[tagari-publications]
 - Adaptive management recommended for changing conditions
 
 ## Related Topics
-- [[mollison-trophic-pyramids-food-webs-and-energy-cycling]]
 - [[holmgren-trophic-pyramid-energy-hierarchy-societies]]
-- [[mollison-designers-coffee-shade-growing-systems]]
 - [[mollison-designers-willow-water-and-natural-rooting-propagation]]
 - [[mollison-earthworks-planning-and-post-earthworks-planting]]

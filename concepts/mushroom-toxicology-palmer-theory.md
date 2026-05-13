@@ -17,7 +17,7 @@ Palmer identified the Amanita family as the sole cause of all fatal mushroom poi
 
 ## Symptom Timeline
 
-Palmer documented that [[amanita-poisoning-identification-antidotes-palmer]] has a characteristic delayed onset:
+Palmer documented that Amanita poisoning has a characteristic delayed onset:
 - Attack begins 8+ hours after ingestion (vs. rapid onset for irritant poisons)
 - Latency period during which "no person felt the worse for the fatal meal"
 - Violent symptoms: vomiting, purging, perspiration, alternating cold spells, vertigo
@@ -30,7 +30,7 @@ Palmer proposed that fungal toxins work by **absorption** rather than digestion:
 
 1. **Intestinal absorption**: The alkaloid enters the system through the villi of the intestinal canal. "Were we to remove every vestige of the mushroom, the system might possibly be left so charged with poison as to refuse to rally."
 
-2. **Cross-contamination**: [[palmer-edible-mushrooms-north-america]] absorb the properties of poisonous ones when stored together. "If edible and noxious toadstools be gathered together, the former will absorb the properties of the latter." He proved this by personal experience — eating common mushrooms that had been in a box with decomposing Coprinus deliquescens caused immediate symptoms.
+2. **Cross-contamination**: Edible mushrooms absorb the properties of poisonous ones when stored together. "If edible and noxious toadstools be gathered together, the former will absorb the properties of the latter." He proved this by personal experience — eating common mushrooms that had been in a box with decomposing Coprinus deliquescens caused immediate symptoms.
 
 3. **Dermal absorption**: "An Amanita held in the closed hand will produce all the symptoms of poisoning, even to convulsions." He experienced nausea from holding Amanitas in a warm, perspiring hand while traveling in a closed railway car.
 
@@ -55,12 +55,12 @@ Palmer correctly noted that one case survivor used vinegar on the toadstool befo
 **Where Palmer was correct:**
 - Amanitas are the primary lethal mushroom genus
 - No simple test distinguishes edible from poisonous species
-- Delayed onset is characteristic of [[bloomfield-amatoxin-poisoning-mechanism]]
+- Delayed onset is characteristic of amatoxin poisoning
 - Cross-contamination between mushroom species is possible
 - Absorption (not just ingestion) of fungal toxins is real
 
 **Where Palmer was mistaken:**
-- His "Amanitine" conflated muscarine (A. muscaria), amatoxins (A. phalloides), [[amanita-muscaria-and-ibotenic-acid-containing-fungi]]/muscimol — different toxins with different mechanisms
+- His "Amanitine" conflated muscarine (A. muscaria), amatoxins (A. phalloides), and ibotenic acid/muscimol — different toxins with different mechanisms
 - Atropine antagonizes muscarine but not amatoxins (the truly deadly compounds)
 - Dermal absorption of amatoxins is not medically established
 - The "vinegar antidote" is not reliable
@@ -78,9 +78,9 @@ Palmer observed that animal susceptibility to mushroom toxins does not correlate
 - Pigs ate Amanita stew without ill effects
 - Rabbits swallowed non-edible fungi unharmed
 - A dog died from Agaricus melleus (honey mushroom) in 12 hours
-- A cat died in convulsions from [[marasmius-oreades]] (fairy-ring champignon)
-- A dog became sick from [[coprinus-comatus]] (shaggy mane)
+- A cat died in convulsions from Marasmius oreades (fairy-ring champignon)
+- A dog became sick from Coprinus comatus (shaggy mane)
 
 "Because a mushroom is eaten with impunity by the lower animals it by no means follows that it is fit for the food of man."
 
-See also: [[amanita-muscaria-guide]] | [[amanita-preparation-methods]] | [[nineteenth-century-mushroom-identification]] | [[julius-palmer]]
+See also: [[amanita-muscaria-guide]] | [[amanita-muscaria-preparation-methods]] | [[nineteenth-century-mushroom-identification]] | [[julius-palmer]]

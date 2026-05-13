@@ -12,35 +12,14 @@ type: concept
 
 ## Overview
 
-Ergot ([[eleusinian-mysteries]] of ancient Greece, and its contribution to
-modern medicine. Most importantly, the ergoline alkaloids derived from
-Ergot are the chemical basis of [[ergot-and-lysergic-acid-history]] diethylamide (LSD), the
+Ergot ([[ergot-and-lysergic-acid-history]] diethylamide (LSD), the
 most potent hallucinogen known. Ergot alkaloids or derivatives of them
 are the basis of important medicines used today in obstetrics, internal
 medicine, and psychiatry.
 
 ## Botanical Description
 
-[[bloomfield-ergot-claviceps-purpurea-ergotism]] (Fr.) Tulasne belongs to the Clavicipitaceae family
-and is distributed throughout temperate zones of Europe, northern
-Africa, Asia, and [[psilocybin-north-america-pacific-northwest]]. Ergot is a [[bloomfield-amphibian-decline-fungal-disease-climate-interactions]] of certain
-grasses and sedges, primarily of rye. The term "Ergot" refers to the
-sclerotium or fruiting body of an ascomycete or sac fungus.
-
-The spur is a purplish or black, curved, club-shaped growth 0.5-2.5
-in. (1-6 cm) long, which parasitically replaces the endosperm of the
-rye kernel. The fungus produces psychoactive and toxic alkaloids. There
-are two distinct periods in the life cycle of this fungus: an active
-and a dormant stage. The Ergot spur represents the dormant stage. When
-the spur falls to the ground, the Ergot sprouts globular heads called
-ascocarps from which grow asci, each with threadlike ascospores that are
-disseminated when the asci rupture.
-
-## Traditional and Indigenous Use
-
-It appears that Ergot has never been utilized purposefully as a
-hallucinogen in medieval Europe. However, it has recently been
-convincingly argued that Ergot played a role in the [[mckenna-food-of-the-gods-kykeon-and-eleusinian-mysteries]]
+[[psilocybin-north-america-pacific-northwest]]. Ergot is a [[mckenna-food-of-the-gods-kykeon-and-eleusinian-mysteries]]
 of ancient Greece, the most important religious initiation ceremony of
 the classical world. A Greek lecythus (sacramental vessel, 450-425
 B.C.) depicts Triptolemus holding the Eleusinian grain, a grass
@@ -88,3 +67,84 @@ pharmacological effects include:
 - Nausea, vomiting, and gastrointestinal distress
 
 Ergotism, the disease caused by consuming Ergot-contaminated grain,
+
+## Overview
+
+Plants Gods Ergot represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish plants gods ergot
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving plants extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Plants Gods Ergot finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for plants gods ergot. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+plants gods ergot and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Plants Gods Ergot has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of plants gods ergot into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[hallucinogenic-plants-overview]]

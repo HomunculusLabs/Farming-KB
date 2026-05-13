@@ -6,21 +6,7 @@ type: concept
 
 # Low Island and Coral Cay Strategies
 
-Low islands, coral sand cays, and atolls present some of the most challenging environments for human settlement and food production. Lying mostly within 28 degrees of the equator, these fragile landforms face hurricanes, limited freshwater, poor soils, and nutritional constraints. Careful [[permaculture-design]] approaches are essential to manage the known risks while building sustainable food, water, and shelter systems.
-
-## Environmental Challenges
-
-### Soils and Chemistry
-
-On atolls and coral cays, soil conditions are inherently difficult:
-
-- **pH values** range from 8.0 to 9.5 (strongly alkaline)
-- **Sand abrasion** damages young plants and limits establishment
-- **Basic mineral deficiencies** — especially iron, zinc, molybdenum, and boron — affect both soils and plants
-- **Thin coralline sand** overlies a hardpan of caliche or calcrete
-- **Calcrete worsens** with application of superphosphate
-
-**Soil amendments:** Elemental sulphur, iron sulphates, and humus lower pH. Humus sources include palm fronds, coconut husks, tree trunks, and leaf litter from pioneer species such as *[[casuarina-equisetifolia]]*, sea grape (*Coccolobus unifera*), coastal shrubs (*Scaevola*, *Tournefortia*, *Pemphis*), mangroves, and *Barringtonia* trees.
+Low islands, coral sand cays, and atolls present some of the most challenging environments for human settlement and food production. Lying mostly within 28 degrees of the equator, these fragile landforms face hurricanes, limited freshwater, poor soils, and nutritional constraints. Careful [[casuarina-equisetifolia]]*, sea grape (*Coccolobus unifera*), coastal shrubs (*Scaevola*, *Tournefortia*, *Pemphis*), mangroves, and *Barringtonia* trees.
 
 ### Water Supply
 
@@ -86,7 +72,7 @@ The best approach to atoll gardening is the pit garden — an excavation of abou
 | Base (damp, mulch) | Ground level | Watercress, parsley, chives, brassicas, taro, kangkong, salad greens |
 | First Terrace | 18–25 cm above base | Tomatoes, peppers, taro, sweet corn, beans, peas, taller crops |
 | Second Terrace | 25–60 cm above base | Banana, papaya, sweet potato, cassava (all provide mulch) |
-| Third (Highest) Terrace | Top | Cassava, sweet potato, banana, dry-tolerant vegetables, mulch trees (*Leucaena*, *Glyricidia*, *Tipuana tipu*, *Moringa oleifera*), local legume shrubs, palms for frond mulch and high shade, vines (passionfruit, four-winged bean) |
+| Third (Highest) Terrace | Top | Cassava, sweet potato, banana, dry-tolerant vegetables, mulch trees (*Leucaena*, *Glyricidia*, *[[tipuana-tipu]]*, *[[moringa-oleifera]]*), local legume shrubs, palms for frond mulch and high shade, vines (passionfruit, four-winged bean) |
 
 ### Surface Gardens
 
@@ -139,7 +125,6 @@ The five key design inputs for low island systems are:
 ## See Also
 
 - Tropical Hedgerow And Windbreak — Hedgerow establishment for coastal stabilization
-- [[savannah-forestry-and-difficult-terrain-pioneering]] — Techniques for establishing vegetation on challenging sites
 - [[savannah-forestry-rehabilitation]] — Broader land restoration principles applicable to island contexts
 ## See Also
 

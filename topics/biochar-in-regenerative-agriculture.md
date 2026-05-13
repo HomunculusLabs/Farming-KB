@@ -37,26 +37,7 @@ related_concepts:
 Biochar is a carbon-rich solid material produced through the pyrolysis of
 biomass in an oxygen-limited environment. When integrated into regenerative
 agricultural systems, biochar serves as a long-lived soil amendment that
-improves soil structure, enhances water retention, supports [[fukuoka-microbial-ecology-decomposition]],
-and sequesters atmospheric carbon for centuries to millennia. Its use draws
-both from modern scientific research and from ancient anthropogenic soils such
-as the Amazonian Terra Preta, which have maintained elevated fertility for
-thousands of years.
-
-Unlike conventional fertilizers, biochar does not supply nutrients directly.
-Instead, it functions as a porous, recalcitrant carbon matrix that enhances
-the soil's capacity to retain and cycle nutrients, water, and microbial life.
-This distinction is central to understanding its proper application within
-regenerative frameworks, where the health of the soil food web is the primary
-objective.
-
-## Historical Background
-
-The earliest documented use of biochar-enriched soils is the Terra Preta
-( Portuguese for "black earth") of the Amazon Basin. These anthropogenic dark
-earths, created by indigenous populations between 500 and 2,500 or more years
-ago, contain three to five times more organic carbon than the surrounding
-highly weathered [[mollison-designers-tropical-soils-and-cation-exchange-management]]. Terra Preta soils are distinguished by
+improves soil structure, enhances water retention, supports [[mollison-designers-tropical-soils-and-cation-exchange-management]]. Terra Preta soils are distinguished by
 abundant mycorrhizal spores, high fungal-to-bacterial ratios, and a
 remarkable persistence of fertility that continues to benefit agriculture
 today.
@@ -71,23 +52,8 @@ replicating these soils through deliberate biochar application.
 The term "biochar" was coined in the early 2000s to distinguish
 agriculturally oriented charcoal from other forms of pyrolyzed carbon, such
 as activated carbon used in filtration. Since then, biochar has become a
-subject of intensive [[roger-heim-scientific-study-psilocybin]], with thousands of peer-reviewed papers
-examining its properties, production methods, and effects on soil systems.
-
-## Biochar Production
-
-### Pyrolysis Temperature Ranges
-
-The properties of biochar are largely determined by the temperature at which
-it is produced. Three general temperature ranges are recognized, each yielding
-material with distinct characteristics suited to different applications.
-
-Low-temperature pyrolysis, conducted between 300 and 450 degrees Celsius,
-produces biochar with a higher concentration of surface functional groups,
-including carboxyl, hydroxyl, and carbonyl moieties. These functional groups
-enhance [[query-what-is-cation-exchange-capacity-and-why-does-it-matter]] capacity and provide favorable conditions for
-[[comparison-soil-food-web-vs-arbuscular-mycorrhizal-fungi]] fungi (AMF) colonization. Low-temperature biochar
-tends to retain more [[fungal-volatile-organic-compounds-communication]] compounds and has a somewhat lower
+subject of intensive [[query-what-is-cation-exchange-capacity-and-why-does-it-matter]] capacity and provide favorable conditions for
+[[fungal-volatile-organic-compounds-communication]] compounds and has a somewhat lower
 carbon stability than higher-temperature material.
 
 Medium-temperature pyrolysis, between 450 and 600 degrees Celsius, represents
@@ -123,11 +89,8 @@ itself is never directly exposed to flame. This produces a cleaner, more
 consistent product with lower ash content and fewer residual volatile
 ## See Also
 
-- [[the-soil-food-web]]
 - [[mycorrhizal-fungi]]
-- [[composting-and-soil-biology]]
 - [[regenerative-agriculture-overview]]
-- [[permaculture-design-principles]]
 - [[bioremediation-using-fungi]]
 - [[cover-crops-green-manures]]
 

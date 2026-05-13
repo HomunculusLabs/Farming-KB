@@ -26,34 +26,7 @@ related_concepts:
 
 Mexico possesses the highest diversity of neurotropic fungi of any country
 on Earth, with 76 known species representing approximately one-third of
-all documented [[mexico-center-neurotropic-fungal-biodiversity]] species globally. This extraordinary
-concentration is the product of Mexico's complex geography, varied climate,
-and the deep cultural integration of these fungi into indigenous traditions
-that spans millennia.
-
-## Species Inventory
-
-Of Mexico's 76 neurotropic species, 44 belong to the genus *Psilocybe* —
-representing 39% of all known Psilocybe species worldwide. The remaining
-species are distributed among *Gymnopilus*, *Panaeolus*, *Copelandia*,
-*Conocybe*, *Pluteus*, *Inocybe*, and several other genera. This
-diversity extends beyond psilocybin-containing species to include fungi
-used as sacred organisms in indigenous practice for which chemical
-analysis remains incomplete.
-
-The full inventory has been built over decades of mycological work,
-principally by Gastón Guzmán, whose career from the 1950s onward was
-largely dedicated to documenting Mexican neurotropic fungi. The
-seminal studies by Wasson, Heim, and Singer between 1954 and 1958
-marked a watershed, dividing Mexican mycology into pre-Wasson and
-post-Wasson eras due to the immense scientific interest these fungi
-generated.
-
-## Indigenous Names and Classification
-
-Guzmán documented more than 200 common names for neurotropic fungi
-across Mexico's indigenous languages. Many of these names reveal the
-[[ethnomycology-cultural-significance-sacred-fungi]] attributed to the mushrooms. Among the most
+all documented [[ethnomycology-cultural-significance-sacred-fungi]] attributed to the mushrooms. Among the most
 notable are *teonanácatl* (Nahuatl: "divine mushroom"), first
 recorded by the 16th-century Franciscan friar Bernardino de Sahagún,
 as well as names translating to "little boy" (*apipiltzin*), "mayor or
@@ -63,22 +36,7 @@ leader" (*atkad*), "fungus of the genius" (*di nizé taaya*), and
 The most commonly used Spanish names among indigenous communities are
 *san isidros* (after Saint Isidore, patron of agriculture), *pajaritos*
 (little birds), and *derrumbes* (landslides). These names are most
-frequently associated with *[[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]]*, *P. mexicana*, and
-*P. zapotecorum*, respectively.
-
-## Geographic Distribution Within Mexico
-
-Neurotropic fungi are found throughout Mexico but are concentrated in
-the central and southern regions where indigenous use has been
-documented. The states of Oaxaca, Puebla, Michoacán, and Mexico State
-are particularly rich in both species diversity and documented
-traditional use.
-
-The varied topography of these regions — spanning tropical lowlands,
-temperate oak-pine forests, subtropical cloud forests, and high-altitude
-paramo — creates numerous microhabitats suitable for different
-Psilocybe species. Altitudinal gradients in states like Oaxaca allow
-species from different [[mollison-climate-zones-permaculture-strategies]] to coexist within relatively
+frequently associated with *[[mollison-climate-zones-permaculture-strategies]] to coexist within relatively
 compact geographic areas.
 
 ## Key Species
@@ -88,3 +46,88 @@ neurotropic species are *[[dark-incubation-sclerotia-production-psilocybe-mexica
 identified by Schultes in 1939 and later studied extensively by
 Wasson and Heim; *P. cubensis*, one of the most widely distributed
 and cultivated neurotropic fungi globally; and *P. zapotecorum*, a
+
+## Overview
+
+Mexican Neurotropic Fungi Diversity represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish mexican neurotropic fungi diversity
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving mexican extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Mexican Neurotropic Fungi Diversity finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for mexican neurotropic fungi diversity. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+mexican neurotropic fungi diversity and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Mexican Neurotropic Fungi Diversity has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of mexican neurotropic fungi diversity into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[acapulco-gold-heirloom-mexican-sativa]]
+- [[cordyceps-neurotropic-fungi-mexican-indigenous-ceremonies]]
+- [[guzman-allen-gartz-indigenous-mexican-mushroom-nomenclature-sacred-names]]
+- [[mexican-indigenous-neurotropic-fungi-use]]
+- [[mexican-sacred-mushroom-traditions]]

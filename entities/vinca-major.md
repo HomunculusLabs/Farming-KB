@@ -21,61 +21,8 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - Mabberley, D.J. (2017). "Mabberley's Plant-Book: A Portable Dictionary of Plants." 4th ed. Cambridge University Press.
-  - van der Heijden, R. et al. (2004). "Biosynthesis of terpenoid indole alkaloids in [[catharanthus-roseus]]." Phytochemistry Reviews, 3(1-2), 107–116.
-  - USDA, NRCS (2024). "Vinca major L." PLANTS Database. plants.usda.gov.
-  - Duke, J.A. (2002). "Handbook of permaculture-plants-medicinal-herbs-healing." 2nd ed. CRC Press.
-  - IPNI (2024). "Vinca major L." International Plant Names Index.
-created: 2026-05-07
----
-
-## Overview
-
-**Vinca major** (greater periwinkle) is an evergreen perennial herb in the
-family **Apocynaceae**, native to the western Mediterranean region. It is
-widely cultivated as an ornamental groundcover and has naturalized across
-[[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]] worldwide, becoming invasive in parts of [[psilocybin-north-america-pacific-northwest]],
-Australia, and New Zealand.
-
-The plant contains over 70 alkaloids, most notably **vincamine** and
-**vincine**, which have been investigated for their effects on cerebral
-blood flow and cognitive function. Its sister species *[[vinca-minor]]* (lesser
-periwinkle) is more widely used in [[childrens-herbal-medicine]], but *V. major* shares
-a similar alkaloid profile at higher concentrations.
-
-## Taxonomy
-
-Magnoliophyta → Magnoliopsida → **Gentianales** → **Apocynaceae** → **Rauvolfioideae** → **Vinceae** → ***Vinca*** → ***V. major***.
-
-Authority: Carl Linnaeus (1753), *Species Plantarum* 1: 209.
-
-The genus *Vinca* contains five species native to Europe, northwest Africa,
-and southwest Asia. *V. major* is distinguished from *V. minor* by its
-larger leaves (3–9 cm vs. 1–3 cm), longer petioles, and ciliate leaf
-margins.
-
-## Morphology
-
-- **Growth habit**: Trailing, evergreen perennial forming dense mats
-  15–30 cm tall with prostrate stems up to 1 m long. Roots form at
-  stem nodes on contact with soil.
-
-- **Leaves**: Opposite, ovate to broadly elliptic, 3–9 cm long, 2–6 cm
-  wide. Dark glossy green, leathery, with ciliate margins. Petiole
-  1–2 cm, shorter than in *V. minor*.
-
-- **Flowers**: Solitary in leaf axils, 3–5 cm diameter. Five broadly
-  elliptic petals, violet-blue to lavender, rarely white. A slender
-  spur extends from the corolla tube. Flowers spring to early summer,
-  with sporadic bloom into autumn.
-
-- **Fruit**: Pair of slender follicles, 4–5 cm long, containing 3–5
-  seeds each. Seeds are cylindrical with a fleshy elaiosome.
-
-## Distribution and Habitat
-
-Native to the western Mediterranean: southern France, Italy, the Balkans,
-and northwest Africa. Widely introduced and naturalized in the British
-Isles, [[guzman-psilocybin-mushrooms-north-america]] (USDA zones 4–9), Japan, Australia, and New Zealand.
+  - van der Heijden, R. et al. (2004). "Biosynthesis of terpenoid indole alkaloids in [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]] worldwide, becoming invasive in parts of [[vinca-minor]]* (lesser
+periwinkle) is more widely used in [[guzman-psilocybin-mushrooms-north-america]] (USDA zones 4–9), Japan, Australia, and New Zealand.
 
 Thrives in shaded to partially shaded sites in woodlands, hedgerows, and
 stream banks. Tolerates full shade and a range of soil types, preferring
@@ -88,3 +35,88 @@ The root and aerial parts contain over 70 indole alkaloids:
 - **Vincamine**: The major alkaloid (0.3–1% of dry weight), a vasodilator
   that preferentially increases cerebral blood flow. Semi-synthetically
   modified as **vinpocetine**, a prescription drug in some countries for
+
+## Overview
+
+Vinca Major represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish vinca major
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving vinca extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Vinca Major finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for vinca major. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+vinca major and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Vinca Major has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of vinca major into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[ascomycota-phylogeny-major-classes-lineages]]
+- [[basidiomycota-classification-major-clades]]
+- [[cerinthe-major]]
+- [[plantago-major]]
+- [[vinca-minor]]

@@ -11,14 +11,12 @@ sources:
 
 **Chemical name:** 3,4-Methylenedioxy-N-ethylamphetamine
 
-**PiHKAL #106** | [[mda]]|MDA and a close relative of [[harm-reduction-guide]] for general [[adverse-effects-and-harm-reduction-psilocybin]] guidelines
-- [[ayahuasca-tourism-legal-status-by-country]]: Schedule I in the US and most countries
+**PiHKAL #106** | [[harm-reduction-guide]] for general [[ayahuasca-tourism-legal-status-by-country]]: Schedule I in the US and most countries
 
 ## Related Compounds
 
 - mda-entity|MDA — N-H parent compound, more psychedelic
 - mdma-entity|MDMA — N-methyl homologue, the prototypical empathogen
-- [[alexander-shulgin]] — synthesizer and bioassayer of MDE
 - [[shulgin-dosage-guidelines]]
 ## Practical Applications
 

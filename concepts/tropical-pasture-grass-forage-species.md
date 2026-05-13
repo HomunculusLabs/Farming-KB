@@ -1,12 +1,12 @@
 ---
-title: Tropical Pasture Grass and Forage Species
+title: [[mollison-designers-tropical-pasture-grass-species-and-establishment]] and Forage Species
 source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
 # Tropical Pasture Grass and Forage Species
 
-Tropical pastures form the foundation of livestock enterprises in warm climates. Selecting appropriate grass and forage species requires understanding rainfall zones, soil types, temperature regimes, and integration with tree crop systems. A mixture of legumes with selected grass species plus storable forage is ideal for the tropics.
+Tropical pastures form the foundation of livestock enterprises in warm climates. Selecting appropriate grass and forage species requires understanding rainfall zones, soil types, [[desert-temperature-regimes-and-soil-chemistry]], and integration with tree crop systems. A mixture of legumes with selected grass species plus storable forage is ideal for the tropics.
 
 ## Grassland and Range Management Strategies
 
@@ -20,10 +20,10 @@ Four key management strategies underpin productive tropical grazing systems:
 ## Tropical Pasture Grass Species
 
 ### Guinea Grass (*Panicum maximum*)
-A bunch grass for warm areas receiving 90–300 cm of rainfall. Drought resistant but yields best in humid areas. Frost sensitive. Shade tolerant, often yielding well under thin-crowned tree crops. Growth is maintained during cloudy summer-autumn regimes, a valuable characteristic. Grazed down to 15–20 cm and combines well with twining legumes that climb on its stiff stems. Suited to rotational grazing across 12–18 fields, interspersed with sugar-pod trees and tree fruit forages. Drilled to 6 mm depth to establish. A first choice for sub-tropic and tropic pastures.
+A bunch grass for warm areas receiving 90–300 cm of rainfall. [[drought-resistant-gardening-techniques]] but yields best in humid areas. Frost sensitive. Shade tolerant, often yielding well under thin-crowned tree crops. Growth is maintained during cloudy summer-autumn regimes, a valuable characteristic. Grazed down to 15–20 cm and combines well with twining legumes that climb on its stiff stems. Suited to [[comparison-rotational-grazing-vs-continuous-grazing]] across 12–18 fields, interspersed with sugar-pod trees and tree fruit forages. Drilled to 6 mm depth to establish. A first choice for sub-tropic and tropic pastures.
 
 ### Kikuyu Grass (*Pennisetum clandestinum*)
-Cold tolerant, grown from cool to tropical areas. Valuable for cooler uplands, thinner soils, and good autumn growth when nitrogen-fixing trees (Acacia, Leucaena, Prosopis, Albizia) are established. Prefers light soils and red loams. Excellent for water spillways and erosion control. Few legumes tolerate the tight sward, making nitrogen-fixing trees essential. Desmodium, Glycine, and white clover can be sod-drilled in autumn-cut areas.
+Cold tolerant, grown from cool to tropical areas. Valuable for cooler uplands, thinner soils, and good autumn growth when nitrogen-fixing trees (Acacia, Leucaena, Prosopis, Albizia) are established. Prefers light soils and red loams. Excellent for water spillways [[mollison-permaculture-two-arid-water-harvesting-and-erosion-control]]. Few legumes tolerate the tight sward, making nitrogen-fixing trees essential. Desmodium, Glycine, and white clover can be sod-drilled in autumn-cut areas.
 
 ### Makarikari Grass (*Panicum coloratum*)
 Bunch and spreading types for 40–90 cm rainfall. Tolerates alluvial fans, flood plains, black clay soils, red earths, and even semi-caked salted soils. Needs a year after seeding to establish, suiting rotational systems. Lucerne interplant can succeed in irrigated areas. Valuable for winter-green feed and drought resistance. Suits long-rotation grazing in open savannah of Acacia and sugar-pod trees.
@@ -69,7 +69,7 @@ Shrub to 3 m resembling Leucaena, tolerant of heavy cutting and browsing. Vigoro
 
 ### Other Key Forage Species
 - **Tagasaste** (*Chaemocytisus palmensis*) — tolerant and hardy, used in New Zealand dry areas for cut forage, pioneer, mulch, and nurse crop
-- **Honey Locust** (*Gleditsia triacanthos*) — heavy pod loads in dry subtropics, frost-hardy, thornless forms available
+- **Honey Locust** (*[[gleditsia-triacanthos]]*) — heavy pod loads in dry subtropics, frost-hardy, thornless forms available
 - **Kiawe** (*Prosopis pallida*) — staple pod forage on dry savannah, dense wood, excellent firewood and termite-resistant posts
 
 ## Forage Legumes
@@ -97,8 +97,6 @@ Perennial pasture legume of warm areas, 90–400 cm rain. Good pioneer of poor a
 Most grazing systems can extend under palms, between large tree crops, or as a complex with belts of forage tree legumes yielding fodder, fruit, pods, or large seed for food concentrates. Each soil type, location, rainfall area, slope type, and main crop needs individual assessment and planning. Soils under slashed pastures develop excellent structure with erosion effectively stopped.
 ## See also
 
-- [[tropical-pasture-grass-species]]
 - [[cool-temperate-forage-systems-and-coppice]]
-- [[fukuoka-shelterbelt-and-farm-site-selection]]
 - [[tropical-food-system-development]]
 - [[legume-nitrogen-fixation-and-green-manure]]

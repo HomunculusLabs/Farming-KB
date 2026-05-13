@@ -1,9 +1,8 @@
 ---
 title: Coleman Double Layer Climate Modification Temperature Data
 source: eliot-coleman-winter-harvest-handbook.md
-source_author: [[eliot-coleman]]
-topics: [[cold-house-winter-harvest-system]], greenhouse, double layer, temperature, climate modification
-wikilinks: winter harvest, cold house, [[coleman-double-layer-protection-greenhouse-row-cover]] protection, row cover, [[coleman-cool-greenhouse-vs-cold-greenhouse-temperature-comparison]]
+source_author: cold-house-winter-harvest-system, greenhouse, double layer, temperature, climate modification
+wikilinks: winter harvest, cold house, coleman-cool-greenhouse-vs-cold-greenhouse-temperature-comparison
 created: 2026-05-10
 ---
 
@@ -13,15 +12,7 @@ created: 2026-05-10
 
 The technical foundation of Eliot Coleman's winter harvest system is the climate
 modification achieved by combining two layers of protection — an outer layer of
-[[coleman-wiggle-wire-channel-greenhouse-plastic-attachment-system]] and an inner layer of floating row cover fabric. This
-double-layer system creates what Coleman calls a "twice-tempered climate" that
-is remarkably effective at protecting cold-hardy vegetables through Zone 5
-winters without any supplemental heat.
-
-## The Outer Layer: Unheated Greenhouse
-
-The outer layer is a standard plastic-covered, gothic-style hoop house aligned
-on an east-west axis. Coleman's houses at [[coleman-four-season-farm]] are 30 feet wide and
+[[coleman-four-season-farm]] are 30 feet wide and
 96 feet long. Key characteristics:
 
 - Single-layer UV-resistant polyethylene covering.
@@ -58,26 +49,7 @@ inner layer of the cold house drops only to 15°F to 18°F above zero (-10°C to
 ### The Layer-by-Layer Effect
 
 The temperature modification occurs in stages:
-- **Outdoor to [[coleman-greenhouse-interior-design-and-management]]**: The outer layer typically provides a
-  10-15°F (6-8°C) temperature gain over ambient conditions.
-- **Greenhouse interior to under row cover**: The inner layer provides an
-  additional 10-15°F (6-8°C) gain.
-- **Combined effect**: The total modification of 25-30°F is greater than
-  either layer alone, demonstrating the synergistic benefit of the system.
-
-## Relative Humidity Benefits
-
-The double coverage significantly increases relative humidity in the protected
-zone. Higher humidity offers additional freeze protection because moist air
-releases latent heat when water vapor condenses, buffering temperature
-extremes. The increased humidity also reduces moisture stress on plants during
-cold, windy periods when outdoor air is extremely dry.
-
-## Soil as Heat Storage
-
-A critical insight of Coleman's system is that the soil itself serves as the
-heat storage medium, just as it does in the natural world. During sunny winter
-days, solar radiation penetrates the [[coleman-greenhouse-covering-materials-comparison]] and row cover,
+- **Outdoor to [[coleman-greenhouse-covering-materials-comparison]] and row cover,
 warming the soil. This stored heat is gradually released at night, buffering
 the air temperature around the plants. The effectiveness of this system
 depends on adequate soil mass — raised beds with good soil depth store more
@@ -118,8 +90,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[eliot-coleman]]
 - [[coleman-double-layer-protection-temperature-performance]]
-- [[coleman-double-cover-air-inflated-trial-temperature-data]]
 - [[coleman-double-layer-protection-greenhouse-row-cover]]
 - [[coleman-cold-greenhouse-double-layer-protection]]

@@ -1,15 +1,14 @@
 ---
 title: Container and comparison-chinampas-vs-raised-bed-gardening Gardening
 created: 2026-04-26
-author: [[geoff-hamilton-organic-techniques]]
+author: geoff-hamilton-organic-techniques
 sources: hamilton-geoffhamilton-nick_-organic-gardening.md
 updated: 2026-04-24
 type: concept
 tags: [gardening]
 ---
 
-# Container and [[geoff-hamilton]]
-emphasizes that containers are not just a substitute for [[natural-farming-guide-hugelkultur-mounded-garden-beds]] --
+# Container and [[natural-farming-guide-hugelkultur-mounded-garden-beds]] --
 they offer unique opportunities for creative planting and for catering to
 specific plant needs.
 
@@ -81,45 +80,8 @@ If your soil is very chalky or alkaline and you want to grow acid-
 loving plants (rhododendrons, azaleas, camellias, pieris), build a
 raised bed from railroad ties. Fill with half acid soil and half peat-
 substitute, or three parts peat-substitute to one part sharp sand.
-Spread chipped [[fukuoka-pine-bark-weevil-ecology]] around the base to hide the ties.
-
-### Deep Beds for Vegetables
-The [[hamilton-deep-bed-system]] (4 ft wide) doubles productive land by eliminating
+Spread chipped [[hamilton-deep-bed-system]] (4 ft wide) doubles productive land by eliminating
 unproductive paths between rows. Dig deeply, break up subsoil, and
-incorporate plenty of [[hamilton-composting-and-organic-matter-management]]. Roots grow downward rather than
-spreading sideways, so crops are planted closer together. Yields can
-
-## Practical Applications
-
-The principles and techniques discussed here have wide-ranging applications
-across multiple disciplines and contexts. Practitioners and researchers
-continue to explore new ways to integrate these concepts into modern practice,
-adapting traditional knowledge to contemporary challenges and opportunities.
-
-## Key Considerations
-
-Several important factors influence the effectiveness and outcomes described
-in this topic. Understanding these considerations helps practitioners make
-informed decisions and avoid common pitfalls. Environmental conditions,
-timing, and material selection all play critical roles.
-
-## Historical Context
-
-The historical development of this subject reflects centuries of accumulated
-knowledge and practical experience. From traditional methods passed down
-through generations to modern scientific approaches, the evolution continues
-to inform current best practices and research directions.
-
-## Common Challenges
-
-Practitioners frequently encounter several challenges when working with
-these concepts. Climate variability, resource limitations, and knowledge
-gaps can all affect outcomes. Addressing these challenges requires patience,
-observation, and a willingness to adapt approaches based on results.
-
-## See Also
-- [[composting]]
-- [[hugelkultur]]
+incorporate plenty of [[composting]]
 - [[natural-farming-guide-raised-bed-and-intensive-gardening]]
-- [[raised-bed-gardening]]
 - [[hugelkultur]]

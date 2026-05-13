@@ -10,18 +10,7 @@ sources: [/Users/t3rpz/wiki/raw/papers/shulgin-a-tihkal.md]
 
 # Bufotenine
 
-**Bufotenine** (5-hydroxy-N,N-dimethyltryptamine, **5-OH-DMT**) is a naturally occurring tryptamine alkaloid found in the secretions of several toad species, certain plant genera, and in trace amounts in mammalian tissues. It has a complex pharmacological history — simultaneously used as an entheogen in [[chiric-caspi-brunfelsia-south-american-hallucinogen]] snuff traditions and historically labeled as a toxic deliriant.
-
-## Chemistry
-
-- **IUPAC**: 5-Hydroxy-N,N-dimethyl-1H-indole-3-ethanamine
-- **Molecular formula**: C₁₂H₁₆N₂O
-- **Molecular weight**: 204.27 g/mol
-- **CAS**: 487-93-4
-- Structurally identical to DMT with an additional 5-hydroxyl group; this hydroxyl dramatically changes pharmacokinetics (poor BBB penetration, rapid [[anadenanthera-peregrina]]* (yopo/cohoba seeds), *[[ibogaine]]. Analytical chemistry research has focused on distinguishing
-bufotenine from scheduled tryptamines in forensic contexts, as the compound
-occurs naturally in several commercially available plant seeds. The 2019
-rescheduling of certain toad-derived products in the [[dmt-containing-plants-united-states-halpern]] has
+**Bufotenine** (5-hydroxy-N,N-[[dimethyltryptamine]], **5-OH-DMT**) is a naturally occurring [[reversed-phase-hplc-tryptamine-alkaloid-quantification-methodology]] found in the secretions of several toad species, certain plant genera, and in trace amounts in mammalian tissues. It has a complex pharmacological history — simultaneously used as an entheogen in [[anadenanthera-peregrina]]* (yopo/cohoba seeds), *[[dmt-containing-plants-united-states-halpern]] has
 further complicated the legal landscape around bufotenine-containing
 materials.
 
@@ -32,8 +21,6 @@ materials.
 - Present in *Anadenanthera* seeds sold commercially, creating legal ambiguity in some jurisdictions
 
 ## See Also
-
-- [[tihkal-tryptamine-chemistry]]
 
 - [[5-meo-dmt-entity]]
 ## Practical Applications
@@ -88,3 +75,75 @@ between multiple variables and the difficulty of predicting outcomes
 with certainty. Building in redundancy, monitoring key indicators, and
 maintaining flexibility in approach all help manage this inherent
 uncertainty and improve the resilience of implementations over time.
+
+## Overview
+
+Bufotenine represents an important element within sustainable
+design and [[solomon-gardening-aikido-pest-philosophy-ecological-management]] systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish bufotenine
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving bufotenine extend
+across multiple [[ingham-soil-foodweb-trophic-levels-protozoa-nematodes]] and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Bufotenine finds practical application in multiple design contexts.
+[[permaculture-principles]] guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive [[livestock-grassland-management-strategies]] that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for bufotenine. [[jeavons-climate-adaptation-growing-seasons]]
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+bufotenine and its applications. Active investigation
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Bufotenine has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of bufotenine into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions

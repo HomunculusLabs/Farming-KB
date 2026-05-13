@@ -8,7 +8,7 @@ created: 2026-05-11
 
 # Fukuoka's Critique of Organic Farming
 
-One of Masanobu Fukuoka's most controversial positions was his rejection of organic farming as a meaningful alternative to conventional agriculture. While organic farming is widely celebrated as an environmentally friendly approach, Fukuoka argued it was "just another type of scientific farming" — fundamentally no different from chemical agriculture in its reliance on human intervention and its misunderstanding of natural processes. This critique, articulated in *The Natural Way of Farming*, challenges the assumptions underlying both conventional and alternative agriculture.
+One of [[masanobu-fukuoka]]'s most controversial positions was his rejection of organic farming as a meaningful alternative to conventional agriculture. While organic farming is widely celebrated as an environmentally friendly approach, Fukuoka argued it was "just another type of scientific farming" — fundamentally no different from chemical agriculture in its reliance on human intervention and its misunderstanding of natural processes. This critique, articulated in *The Natural Way of Farming*, challenges the assumptions underlying both conventional and alternative agriculture.
 
 ## Organic Farming as Scientific Agriculture
 
@@ -20,7 +20,7 @@ The key phrase is "local and temporal gains." Fukuoka acknowledged that organic 
 
 ## The Compost Problem
 
-Fukuoka was particularly critical of composting, which is often considered the cornerstone of organic soil management. His objection was straightforward: the organic material in compost must come from somewhere. When you remove plant material from one piece of land to make compost for another, you are depleting the source land. This is a zero-sum game at best and often negative-sum due to processing losses.
+Fukuoka was particularly critical of composting, which is often considered the cornerstone of [[organic-soil-management]]. His objection was straightforward: the organic material in compost must come from somewhere. When you remove plant material from one piece of land to make compost for another, you are depleting the source land. This is a zero-sum game at best and often negative-sum due to processing losses.
 
 "The ancient practice of using manure and compost does help speed crop growth, but this also depletes the land from which the organic material in the compost is taken."
 
@@ -113,9 +113,6 @@ Whether this epistemological humility can be reconciled with the practical deman
 
 ## See Also
 
-- [[fukuoka-do-nothing-farming-methodology]]
 - [[fukuoka-natural-diet-theory]]
-- [[fukuoka-sowing-agricultural-production-as-net-energy-deduction]]
 - [[fukuoka-textdoc-genetic-engineering-warning]]
-- [[fukuoka-desert-revegetation-clay-pellet-method]]
 - [[comparison-fukuoka-vs-jadam-farming]]

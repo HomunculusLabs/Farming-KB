@@ -18,17 +18,12 @@ sources:
 
 ## Overview
 
-[[glomalin-and-soil-carbon]], a glycoprotein produced by AMF, acts as a biological glue binding soil particles into stable aggregates. This improves soil structure, water infiltration, and erosion resistance.
-
-## Inoculation Practices
-
-Commercial [[pgpr-mycorrhizal-inoculants-microplant-establishment]] are available as powders, granules, or liquid suspensions containing AMF spores and hyphae. Best practices include:
+[[pgpr-mycorrhizal-inoculants-microplant-establishment]] are available as powders, granules, or liquid suspensions containing AMF spores and hyphae. Best practices include:
 
 - Inoculate at planting or transplanting — colonization efficiency decreases as root systems mature
 - Minimize soil disturbance after inoculation to preserve hyphal networks
 - Reduce phosphorus fertilizer rates — high available P suppresses AMF colonization
-- Avoid fungicide applications that are non-selective toward [[arbuscular-mycorrhizal-fungi-biology-symbiosis]]
-- Use diverse [[ericoid-mycorrhizae-types-and-ecology]]
+- Avoid fungicide applications that are non-selective toward [[ericoid-mycorrhizae-types-and-ecology]]
 - [[knf-agricultural-mineral-water]]
 ## Practical Applications
 

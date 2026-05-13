@@ -22,40 +22,7 @@ McKenna observed that the human brain underwent a dramatic expansion in size
 and complexity over a relatively short evolutionary timeframe — approximately
 two million years. This expansion cannot be fully explained by conventional
 evolutionary pressures such as tool use, social complexity, or dietary
-changes alone. McKenna proposed that the inclusion [[archaeology-of-psychedelic-mushrooms]]
-in the hominid diet provided an additional evolutionary pressure that
-accelerated cognitive development.
-
-The hypothesis centers on several proposed effects of psilocybin at
-different dosages, each of which McKenna argued would have conferred
-evolutionary advantages:
-
-**Low doses**: At low concentrations, psilocybin increases visual acuity,
-particularly edge detection. This would have improved hunting ability in
-early hominids, making mushroom-consuming individuals better hunters and
-thus more reproductively successful. Improved visual perception would have
-been directly selected for in a hunting-gathering context.
-
-**Medium doses**: At moderate doses, psilocybin increases sexual arousal
-and reduces social inhibitions. McKenna argued this would have promoted
-more frequent mating and greater social cohesion within groups, both of
-which would have enhanced reproductive success and group survival.
-
-**High doses**: At higher doses, psilocybin produces visionary experiences,
-dissolution of ego boundaries, and what McKenna called "ecstatic
-communitarianism." He proposed that these experiences formed the basis of
-early religious and spiritual practices, and that the shared visionary
-experiences would have strengthened social bonds and facilitated the
-development of collective identity.
-
-## The African Grassland Context
-
-McKenna placed the emergence of mushroom use in the context of the African
-grassland expansion that occurred as forests retreated during periods of
-climatic drying in the late Pliocene and early Pleistocene epochs. As
-early hominids followed receding forest margins onto the expanding
-savannah, they encountered new ecological niches, including the dung of
-grazing ungulates — the primary substrate [[miniculture-rye-grain-cultivation-method-for-psilocybe-cubensis]] and
+changes alone. McKenna proposed that the inclusion [[miniculture-rye-grain-cultivation-method-for-psilocybe-cubensis]] and
 related psychoactive mushroom species.
 
 The follow-the-herd strategy — tracking herds of grazing animals for food
@@ -99,32 +66,7 @@ foundations of culture. He traced the origins of religion, art, music, and
 dance to these early psychedelic experiences.
 
 In McKenna's framework, the period of mushroom-influenced culture
-represented a form of social organization he called "[[dominator-culture-and-partnership-society]]"
-or "goddess culture," characterized by egalitarian social structures,
-reverence for nature, and the centrality of ecstatic religious experience.
-He contrasted this with the "dominator culture" that he believed emerged
-later with the adoption of alcohol, agriculture, and patriarchal social
-structures.
-
-## Scientific Criticism
-
-The stoned ape hypothesis has been widely criticized by anthropologists,
-evolutionary biologists, and other scientists on several grounds. The most
-fundamental criticism is that the hypothesis is unfalsifiable — it makes
-claims about events in the deep past that cannot be tested with available
-evidence. There is no archaeological or paleontological record of mushroom
-consumption by early hominids, and the cognitive effects McKenna describes
-cannot be demonstrated to have influenced evolution.
-
-Critics also point out that psilocybin is not a mutagen and cannot directly
-alter the genome. Any evolutionary effect would have to operate through
-behavioral selection (individuals who consumed mushrooms behaving in ways
-that increased their reproductive success), but the connection between the
-subjective effects of psilocybin and measurable fitness advantages is
-highly speculative.
-
-The neuroscientific claims are also disputed. While psilocybin does affect
-[[psilocybin-pharmacology-and-serotonin-receptors]] and alter brain activity patterns, the specific claims
+represented a form of social organization he called "[[psilocybin-pharmacology-and-serotonin-receptors]] and alter brain activity patterns, the specific claims
 about enhanced visual acuity at low doses and the relationship between
 psychedelic experience and language development lack robust empirical
 support from controlled studies.
@@ -133,15 +75,75 @@ support from controlled studies.
 
 Despite its scientific limitations, the stoned ape hypothesis has been
 enormously influential in popular culture and psychedelic communities. It
-has stimulated interest in the evolutionary role of [[cultural-evolution-and-psychoactive-substances]]
-and has contributed to broader discussions about the relationship between
-consciousness-altering compounds and human cultural development. The
-hypothesis continues to be debated, and some researchers have called for
-more serious investigation of the potential evolutionary roles of
-psychoactive plant compounds in human prehistory.
-
-## See Also
-
-- psychedelic plants in human evolution
-- [[eleusinian-mysteries]]
+has stimulated interest in the evolutionary role of [[eleusinian-mysteries]]
 - [[psilocybin-mushrooms]]
+
+## Overview
+
+Stoned Ape Hypothesis represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish stoned ape hypothesis
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving stoned extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Stoned Ape Hypothesis finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for stoned ape hypothesis. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+stoned ape hypothesis and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Stoned Ape Hypothesis has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of stoned ape hypothesis into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.

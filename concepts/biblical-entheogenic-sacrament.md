@@ -8,7 +8,7 @@ type: concept
 
 ## Overview
 
-The concept of entheogenic substances as the literal (rather than merely symbolic) sacrament in Judeo-Christian tradition is explored through detailed analysis of biblical passages. The argument centers on identifying the "flesh," "blood," "manna," "living waters," and "hidden manna" described throughout the Bible as references to [[ceremonial-shamanic-use-psychoactive-mushrooms]] — specifically [[allegro-colour-and-consistency-of-the-amanita-muscaria]] — rather than abstract theological metaphors.
+The concept of entheogenic substances as the literal (rather than merely symbolic) sacrament in Judeo-Christian tradition is explored through detailed analysis of biblical passages. The argument centers on identifying the "flesh," "blood," "manna," "living waters," and "hidden manna" described throughout the Bible as references to [[allegro-colour-and-consistency-of-the-amanita-muscaria]] — rather than abstract theological metaphors.
 
 ## Key Biblical Identifications
 
@@ -51,7 +51,7 @@ A 12th-century artwork depicting Jesus above four plants, underscored by a green
 
 1. **Red plant (right)** — identified as Amanita muscaria, producing the "quickening of the spirit"
 2. **Blue plant** — identified as a Psilocybe species, "opening the third eye"
-3. **Another plant** — possibly [[golden-guide-syrian-rue-and-maoi-plants]] ([[mckenna-food-gods-peganum-harmala-soma]]), an MAO inhibitor
+3. **Another plant** — possibly [[mckenna-food-gods-peganum-harmala-soma]]), an MAO inhibitor
 4. **Fourth plant** — identified as the Opium Poppy, inducing relaxation necessary for the visionary state
 5. **Green vine (underscoring)** — representing green plants including Cannabis and DMT-containing grasses
 
@@ -63,28 +63,8 @@ Catholic communion robes are noted for their mushroom-like symbolic imagery — 
 
 ## The Two Baptisms
 
-Christian tradition describes two baptisms: baptism by water and baptism by fire. The mushroom, due to its red color, has a long association with fire. Moses conversed with God in the "Burning Bush" — interpreted as a reference to the Amanita muscaria growing on mountaintops. The second baptism by fire is the transformational baptism: the death journey to the heavens and [[shamanism-and-the-death-rebirth-experience]].
-
-A 15th-century fresco depicting Jesus with a cross in a tub is analyzed as showing both baptisms simultaneously: the water baptism (the tub) and the fire baptism (the cross as symbol for the mushroom). The tub itself resembles the central chamber tub in the Great Pyramid at Gizeh.
-
-## Stages of Experiential Understanding
-
-The text describes different levels of public awareness regarding the entheogenic interpretation of religious sacrament:
-
-- **Complete unawareness** — most people have never encountered the concept, and their paradigm may not allow consideration of it
-- **Passing interest** — some find it interesting but never think of it again
-- **Familiar resonance** — some find it somehow familiar and conduct independent research
-- **Prior knowledge** — some have heard about it but never seen or consumed the mushrooms
-- **Limited experience** — some have consumed the mushroom but at insufficient dosage, experiencing only stage 1 effects, leading them to conclude the identification is flawed
-- **Deeper experience** — fewer still have reached stage 2 or stage 3 effects
-
-The implication is that dosage-dependent effects of the Amanita muscaria are critical, and many who dismiss the entheogenic theory have done so based on incomplete experiential data.
-
-## See Also
-- [[dmt]]
-- [[syrian-rue]]
+Christian tradition describes two baptisms: baptism by water and baptism by fire. The mushroom, due to its red color, has a long association with fire. Moses conversed with God in the "Burning Bush" — interpreted as a reference to the Amanita muscaria growing on mountaintops. The second baptism by fire is the transformational baptism: the death journey to the heavens and [[dmt]]
 - [[amanita-muscaria]]
-- [[amanita]]
 - [[det]]
 
 ## Practical Applications
@@ -116,8 +96,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[det]]
 - [[shamanism]]
-- [[soma]]
 - [[amanita-muscaria]]
 - [[amanita]]

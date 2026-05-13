@@ -10,13 +10,7 @@ sources:
 
 # Calcium Phosphate Bionutrient
 
-Calcium phosphate is a critical bionutrient in [[knf-nutritive-cycle-theory]].
-
-## Nutrioperiodism: The Science of Nutrient Timing
-
-Inoue's theory of Nutrioperiodism holds that plants, like animals, require specific nutrients at specific stages of their development. In plants, three fundamental periods are recognized:
-
-**[[cannabis-vegetative-growth-stage]] Period:** The plant focuses on building leaves, stems, and root mass. Nitrogen is the critical nutrient during this phase.
+Calcium phosphate is a critical bionutrient in [[cannabis-vegetative-growth-stage]] Period:** The plant focuses on building leaves, stems, and root mass. Nitrogen is the critical nutrient during this phase.
 
 **Changeover Period:** The transitional phase between vegetative growth and reproductive development. This is the most critical period and determines the quality of the subsequent reproductive stage.
 
@@ -34,25 +28,9 @@ Slowed growth or apparent stagnation.
 
 Yellowing of lower leaves as the plant redirects nutrients.
 
-Increased susceptibility to [[query-how-to-manage-pests-and-diseases-in-mushroom-cultivation]].
+Increased susceptibility to [[knf-nutritive-cycle-theory]]. The cycle prescribes different inputs at different growth stages:
 
-Weak or deformed flower buds if calcium phosphate is deficient.
-
-Calcium phosphate addresses this critical need by supplying the structural minerals (calcium) and energy-transfer compounds (phosphate) required for cell division, flower initiation, and root development. This concept is elaborated in [[knf-nutritive-cycle-theory]]. The cycle prescribes different inputs at different growth stages:
-
-Early vegetative: [[fish-amino-acid-faa]] for nitrogen supplementation.
-
-Changeover period: Calcium phosphate bionutrient — the focus of this page.
-
-Early reproductive: [[knf-water-soluble-phosphoric-acid-wspa]], and [[knf-ohn-oriental-herbal-nutrient-recipe]] for fruit quality and plant health.
-
-This sequential approach ensures that the plant receives precisely the nutrients it needs at each developmental stage, minimizing waste and maximizing productivity.
-
-## Foliar vs Soil Application
-
-Calcium phosphate bionutrient can be applied both as a foliar spray and as a soil drench, each with distinct advantages:
-
-**[[ultra-low-cost-foliar-application-methods]] (preferred for changeover):** Spraying the diluted solution directly onto leaves provides the fastest [[plant-nutrient-uptake-mechanisms]]. Calcium absorbed through leaf tissue is immediately available to growing meristems. Foliar application is particularly effective for calcium because, once in the plant, calcium is immobile and cannot be translocated from older leaves to new growth. [[comparison-foliar-feeding-vs-compost-tea-nutrients]] ensures calcium reaches the actively growing points.
+Early vegetative: [[knf-water-soluble-phosphoric-acid-wspa]], and [[ultra-low-cost-foliar-application-methods]] (preferred for changeover):** Spraying the diluted solution directly onto leaves provides the fastest [[comparison-foliar-feeding-vs-compost-tea-nutrients]] ensures calcium reaches the actively growing points.
 
 **Soil Application:** Drenching the root zone with diluted calcium phosphate provides a longer-term supply. Soil application supports root development and improves calcium availability in the rhizosphere. It is less immediately effective than foliar spraying but provides sustained nutrition over the changeover period.
 
@@ -68,9 +46,7 @@ The manufacturing process is energy-intensive and environmentally damaging.
 
 Synthetic calcium phosphate can create imbalances in soil microbiology by over-acidifying the rhizosphere.
 
-Naturally produced calcium phosphate bionutrient, by contrast, is produced at farm scale with minimal energy input, contains no synthetic contaminants, and supports rather than disrupts soil microbial communities. See [[knf-pest-control-methods]] and [[water-soluble-calcium-wca]] — complementary calcium input for later growth stages.
-
-[[knf-input-application-timing]] — detailed explanation of the changeover phenomenon.
+Naturally produced calcium phosphate bionutrient, by contrast, is produced at farm scale with minimal energy input, contains no synthetic contaminants, and supports rather than disrupts soil microbial communities. See [[water-soluble-calcium-wca]] — complementary calcium input for later growth stages.
 
 [[soil-fertility-management]] — broader soil health context.
 ## Practical Considerations
@@ -121,8 +97,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[calcium-phosphate]]
 - [[dom]]
-- [[det]]
 - [[bionutrients]]
 - [[nutrioperiodism]]

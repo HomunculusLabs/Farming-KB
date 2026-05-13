@@ -95,21 +95,7 @@ mash tun, wort chiller, and propane burner represent the next tier.
 Cider makers need a fruit press, purchasable commercially or built from
 hardwood and a car jack. Mead makers need little beyond the basics.
 
-Sanitation is the single most important practice in all [[ayahuasca-diy-home-brewing-as-tourism-alternative]].
-Every surface that contacts cooled liquid must be sanitized. Star San, a
-phosphoric acid-based no-rinse sanitizer, is the modern standard. A
-solution of potassium metabisulfite also works well for wine and cider.
-The consequences of poor sanitation range from subtle off-flavors to
-complete spoilage, and the difference between a memorable batch and a
-dumped one often comes down to how carefully the brewer sanitized their
-equipment.
-
-## Growing Grapes for Home Winemaking
-
-Grapes are long-lived perennial vines capable of producing fruit for
-fifty years or more with proper care. For home winemaking, choosing
-varieties suited to your climate is the first and most important
-decision. In cold climates, zones four through five, [[cervantes-hybrid-varieties-types]]
+Sanitation is the single most important practice in all [[cervantes-hybrid-varieties-types]]
 like Marquette, Frontenac, La Crescent, and St. Croix offer the best
 combination of cold hardiness and wine quality. In moderate zones, classic
 Vitis vinifera varieties such as Cabernet Franc, Merlot, Chardonnay,
@@ -120,27 +106,11 @@ Vine training systems establish the permanent framework on which
 fruit-bearing canes grow each year. The four-arm Kniffen system, with
 ## See Also
 
-[[wine-making-from-grapes]] [[grape-growing-guide]] [[cider-making-guide]]
-[[mead-making-guide]] [[beer-brewing-basics]] [[gruit-beer-and-herbs]]
-[[barley-varieties-for-brewing]] [[malt-and-malting-process]]
-[[yeast-biology-guide]] [[vinegar-making]] [[hops-cultivation-and-brewing-uses]]
-[[wild-yeast-bread-baking]] [[lacto-fermentation-and-food-preservation-methods]]
-[[kombucha-brewing-and-fermented-tea-culture]]
-[[fermented-foods-and-beverages]] [[food-preservation-and-storage-methods]]
-[[home-cheesemaking-and-dairy-fermentation]]
-
-## References
-
-- Faires, Nancy. *Household Products from the Homestead*. Fermentation
-  chapters covering wine, cider, mead, and vinegar production.
-- Palmer, John J. *How to Brew*. Brewers Publications, 4th edition,
-  2017. Comprehensive reference for home beer brewing.
-- McQuade, Claude. *The Home Winemaker's Companion*. Storey
-  Publishing, 1999. Practical guide to small-scale winemaking.
-- Schramm, Ken. *The Compleat Meadmaker*. VinoPress, 2003. Definitive
-  guide to mead production at home.
-- Jolicoeur, Ben. *The Cider Maker's Handbook*. Chelsea Green, 2019.
-  Covers [[fukuoka-orchard-management-detailed]] through finished cider.
+[[grape-growing-guide]] [[mead-making-guide]] [[gruit-beer-and-herbs]]
+[[malt-and-malting-process]]
+[[vinegar-making]] [[wild-yeast-bread-baking]] [[kombucha-brewing-and-fermented-tea-culture]]
+[[food-preservation-and-storage-methods]]
+[[fukuoka-orchard-management-detailed]] through finished cider.
 - Hornsey, Ian. *Brewing*. Royal Society of Chemistry, 2003. Academic
   treatment of brewing science and history.
 - Ott, Jonathan. *Pharmacotheon*. Natural Products Co., 1993.

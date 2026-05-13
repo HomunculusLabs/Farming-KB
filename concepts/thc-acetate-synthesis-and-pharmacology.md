@@ -8,7 +8,7 @@ sources: []
 ---
 # THC Acetate Synthesis and Pharmacology
 
-THC acetate (tetrahydrocannabinol acetate) is a synthetic cannabinoid derivative produced by acetylating THC or its precursors. Described in "[[lemon-cannabis-alchemy-advanced-refinement-techniques]]" by D. Gold (attributed to "Nicolas Flamel," Berkeley 1979), it represents one of the earliest attempts to modify the THC molecule to alter its pharmacological properties, analogous to how morphine is modified to produce heroin. See [[cannabis-concentrates-and-extracts]] for the author context.
+THC acetate (tetrahydrocannabinol acetate) is a synthetic cannabinoid derivative produced by acetylating THC or its precursors. Described in "[[cannabis-concentrates-and-extracts]] for the author context.
 
 ## Chemical Background
 
@@ -18,14 +18,14 @@ The structural analogy is significant: just as the acetylation of morphine (diac
 
 ## Cannabis Alchemy: Historical Context
 
-"Cannabis Alchemy" was published during a period of intense home-chemistry experimentation in the counterculture. The book's introduction notes that cannabis research was "in its incipient state" and that "the potential for developing compounds of varied effects and duration is enormous." The author (writing under the pseudonym "Nicolas Flamel") positioned the work as pioneering, noting that [[comparison-cannabis-extraction-basics-vs-extraction-methods]] and refinement methods were "an elementary chemical technique" accessible to dedicated amateurs. The book covered extraction, purification, [[synthetic-tryptamine-methods]])
+"Cannabis Alchemy" was published during a period of intense home-chemistry experimentation in the counterculture. The book's introduction notes that cannabis research was "in its incipient state" and that "the potential for developing compounds of varied effects and duration is enormous." The author (writing under the pseudonym "Nicolas Flamel") positioned the work as pioneering, noting that [[synthetic-tryptamine-methods]])
 - The legal ambiguity surrounding cannabis chemistry at the time
 
 ## Synthesis Method
 
 The synthesis described in Cannabis Alchemy involves a multi-step process:
 
-1. **Starting material preparation**: Extract and purify THC from cannabis using [[cannabis-oil-purification-techniques]], optionally including [[cannabis-dosing-guidelines]] for THC dosing reference
+1. **Starting material preparation**: Extract and purify THC from cannabis using [[cannabis-dosing-guidelines]] for THC dosing reference
 - The acetyl group changes the molecule's metabolic pathway, potentially producing novel metabolites with unknown effects
 - Long-term health effects are essentially unstudied
 - The synthesis involves hazardous chemicals (acetic anhydride is corrosive and a respiratory irritant) requiring proper ventilation and safety equipment
@@ -39,23 +39,14 @@ THC acetate has recently re-emerged commercially as "THC-O-acetate" or "THC-O," 
 
 THC acetate is part of a broader category of cannabinoid structural modifications that includes:
 
-- **THC-O-acetate** (also called THC-O or ATHC): The same compound, sometimes abbreviated differently. See [[cannabis-endocannabinoid-system]].
-
-## Broader Cannabis Alchemy Techniques
-
-Beyond THC acetate, Cannabis Alchemy covered:
-- **Hashish preparation** (see [[cannabis-hashish-making-methods]])
-- **Oil capsule preparation** for oral dosing (see [[cannabis-concentrates-and-extracts]])
-- **[[cannabis-potency-enhancement-intact-flowers]]** of intact flowers
+- **THC-O-acetate** (also called THC-O or ATHC): The same compound, sometimes abbreviated differently. See [[cannabis-hashish-making-methods]])
+- **Oil capsule preparation** for oral dosing (see [[cannabis-potency-enhancement-intact-flowers]]** of intact flowers
 - **Direct vaporization** techniques for oil consumption
 - **High-volume extraction** methods
 
 ## See Also
 
-- [[cannabis-extraction-methods]] -- extraction techniques comparison
-- [[cannabis-solvent-reflux-extraction-methods]] -- [[cannabis-reflux-extraction-apparatus]] detail
-- [[cbd-to-thc-isomerization-chemistry]] -- CBD to THC conversion
-- [[cannabis-concentrates-and-extracts]] -- author background
+- [[cannabis-solvent-reflux-extraction-methods]] -- [[cbd-to-thc-isomerization-chemistry]] -- CBD to THC conversion
 - [[cannabis-therapeutic-condition-guide]] -- therapeutic applications
 ## Practical Considerations
 

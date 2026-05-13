@@ -22,7 +22,7 @@ sources:
 
 # Organic Greenhouse Gardening
 
-Growing under protection using organic methods. Based on Geoff Hamilton's approach to [[coleman-mobile-greenhouse-design-and-operation]] management. See [[geoff-hamilton-organic-techniques]] for the broader organic system and [[greenhouse-design]] for structure design.
+Growing under protection using organic methods. Based on Geoff Hamilton's approach to greenhouse design and management. See [[geoff-hamilton-organic-techniques]] for the broader organic system and [[greenhouse-design]] for structure design.
 
 ## Choosing and Siting a Greenhouse
 
@@ -55,7 +55,7 @@ Growing under protection using organic methods. Based on Geoff Hamilton's approa
 ## Growing in the Greenhouse
 
 ### Summer Crops
-- **Tomatoes** -- the primary greenhouse crop. Cordon varieties need string support, side shooting, and regular feeding once first truss sets. Good air circulation essential for [[cervantes-damping-off-seedling-disease-prevention]]
+- **Tomatoes** -- the primary greenhouse crop. Cordon varieties need string support, side shooting, and regular feeding once first truss sets. Good air circulation essential for disease prevention
 - **Cucumbers** -- need high humidity and consistent moisture. Train up canes or wire. All-female varieties avoid bitter fruits
 - **Peppers and aubergines** -- need consistent warmth (minimum 12°C at night). Slow starters; sow in February for June planting
 - **Melons** -- hotbed technique (manure heating) or grow bag culture. Need pinching out and pollination
@@ -77,7 +77,7 @@ Growing under protection using organic methods. Based on Geoff Hamilton's approa
 | Red spider mite | Increase humidity; introduce Phytoseiulus predator mites; remove badly affected leaves |
 | Whitefly | Yellow sticky traps; Encarsia formosa parasitic wasp; companion plant with basil |
 | Aphids | Ladybird larvae; soap spray (1 tbsp liquid soap per gallon); encourage hoverflies with umbellifer flowers |
-| Mealybug | Rubbing alcohol on cotton swab; [[fukuoka-textdoc-arrowhead-scale-ladybug-biological-control]] with Cryptolaemus ladybirds |
+| Mealybug | Rubbing alcohol on cotton swab; biological control with Cryptolaemus ladybirds |
 | Vine weevil | Nematode biological control (water into soil); sticky barriers on staging legs |
 | Fungal diseases (grey mould, damping off) | Good ventilation; avoid overhead watering; remove affected material immediately; space plants well |
 | Tomatoes -- blight | Never wet foliage when watering; remove lower leaves as plants grow; good air circulation |
@@ -86,13 +86,13 @@ Growing under protection using organic methods. Based on Geoff Hamilton's approa
 
 - Ventilation is critical -- open doors and vents on all but the coldest days. Stagnant air promotes fungal disease
 - Water in the morning so foliage dries before evening
-- Use water at [[jadam-ambient-temperature-principle]] (not freezing from the tap in winter)
+- Use water at ambient temperature (not freezing from the tap in winter)
 - Automatic watering systems with seep hoses or capillary matting save time and provide consistent moisture
 - Group plants by water need -- tomatoes need less than cucumbers
 
 ## Links
 
 - [[geoff-hamilton-organic-techniques]] -- Full organic gardening system
-- [[greenhouse-design]] -- Structure [[pond-design-and-construction]]
+- [[greenhouse-design]] -- Structure design and construction
 - [[seed-starting-reference]] -- Propagation under protection
 - [[seasonal-planning]] -- Monthly task calendar

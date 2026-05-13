@@ -19,38 +19,8 @@ sources:
   - Clarke, R.C. & Merlin, M.D. (2013). Cannabis: Evolution and Ethnobotany. University of California Press.
   - Hazekamp, A. et al. (2016). "The Cannabis Systematics Review: A biologically comprehensive approach." Cannabis and Cannabinoid Research, 1(1), 34-48.
   - ElSohly, M.A. et al. (2016). "Changes in green-cannabis-potency-maximizing Over the Last 2 Decades." Biological Psychiatry, 79(7), 613-619.
-  - https://www.leafly.com/strains/lemon-haze ([[chupacabra-strain-profile-sickmeds-oner]] data)
-  - Mudge, E.M. et al. (2018). "Cannabinoid and terpene content across comparison-cannabis-sativa-vs-cannabis-indica L. cultivars." Journal of Cannabis Research.
----
-
-# Lemon Haze
-
-## Overview
-
-**Lemon Haze** is a sativa-dominant [[cannabis-hybrid-vigor-and-phenotypes-clarke]] created by crossing **[[oner-temple-bodhi-seeds-super-silver-haze-williams-wonder]]** with **Lemon Skunk**. Developed by Green House Seeds, it quickly became one of the most popular [[cannabis-microbiome-otu-abundance-vs-presence-cannabis-strains]] worldwide after winning the **High Times Cannabis Cup** in 2008. The strain is celebrated for its **intense citrus aroma and flavor**, clear-headed and uplifting cerebral effects, and vigorous growth characteristics. It typically tests at 17–22% THC with negligible CBD content. The [[cannabis-terpene-profile]] is dominated by **limonene**, **terpinolene**, and **myrcene**, which together produce its signature lemon-citrus character.
-
-## Lineage
-
-- **Female parent:** Silver Haze — a classic sativa bred from Haze × [[screen-of-green]]) and LST ([[super-lemon-haze]]:** A separate Green House Seeds creation ([[amnesia-haze]]
-- [[girl-scout-cookies]]
-## Practical Applications
-
-Lemon Haze has a range of practical applications that make it relevant to
-both researchers and practitioners. Understanding these applications
-requires familiarity with the underlying principles and their
-manifestation in real-world contexts. The breadth of applications
-reflects the fundamental importance of this topic across disciplines.
-
-Implementation varies based on scale, available resources, and
-specific objectives. Small-scale applications may be relatively
-straightforward, while larger implementations require more careful
-planning and coordination. Adaptation to local conditions is always
-essential for achieving optimal results regardless of scale.
-
-Documented case studies provide valuable reference points, though
-each situation presents unique combinations of opportunities and
-constraints that require context-specific solutions. The most
-successful implementations combine established [[arbuscular-mycorrhizal-inoculum-production-best-practices]] with
+  - https://www.leafly.com/strains/lemon-haze ([[cannabis-hybrid-vigor-and-phenotypes-clarke]] created by crossing **[[cannabis-microbiome-otu-abundance-vs-presence-cannabis-strains]] worldwide after winning the **High Times Cannabis Cup** in 2008. The strain is celebrated for its **intense citrus aroma and flavor**, clear-headed and uplifting cerebral effects, and vigorous growth characteristics. It typically tests at 17–22% THC with negligible CBD content. The [[screen-of-green]]) and LST ([[amnesia-haze]]
+- [[arbuscular-mycorrhizal-inoculum-production-best-practices]] with
 creative adaptation to local conditions and emerging challenges.
 
 ## Key Considerations
@@ -88,3 +58,88 @@ uncertainty and improve the resilience of implementations over time.
 
 Learning from both successes and failures is essential for continuous
 improvement. Maintaining records of observations, interventions, and
+
+## Overview
+
+Lemon Haze represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish lemon haze
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving lemon extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Lemon Haze finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for lemon haze. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+lemon haze and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Lemon Haze has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of lemon haze into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[comparison-lemon-balm-vs-chamomile]]
+- [[lemon-balm-melissa-officinalis]]
+- [[lemon-cannabis-alchemy-direct-vaporization]]
+- [[lemon-cannabis-alchemy-hashing-and-extraction]]
+- [[lemon-haze-cannabis]]

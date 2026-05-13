@@ -12,11 +12,10 @@ type: concept
 
 ## Introduction
 
-The [[amanita-muscaria-fly-agaric-history-and-pharmacology]] mushroom, [[amanita-muscaria]], may be one of humanity's
+The [[amanita-muscaria]], may be one of humanity's
 oldest known hallucinogens. It has been suggested that its strange
 effects contributed to early human ideas of deity. Growing in the north
-[[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]] of both hemispheres in association with birch trees,
-the mushroom has played a central role in [[siberian-shamanism-and-amanita]] may
+[[siberian-shamanism-and-amanita]] may
 have been the legendary Soma of ancient India, one of the most
 important sacred substances in human religious history.
 
@@ -24,10 +23,7 @@ important sacred substances in human religious history.
 
 Fly agaric mushrooms grow in the north temperate regions of both
 hemispheres. The Eurasian type has a beautiful deep orange to blood-red
-cap flecked with white scales. The [[growing-gourmet-north-american-reishi-species]] type varies from
-cream to orange-yellow. Chemical differences exist between the two,
-with the New World type being devoid of the strongly hallucinogenic
-effects of its [[datura-metel-old-world-ethnobotany]] counterpart. Amanita muscaria typically occurs
+cap flecked with white scales. The [[datura-metel-old-world-ethnobotany]] counterpart. Amanita muscaria typically occurs
 in association with birches across a wide band of Northern Eurasia.
 
 ## Siberian Shamanic Use
@@ -55,7 +51,7 @@ the mushroom. The active principles pass through the body and are
 excreted unchanged or as still active derivatives. Consequently, a few
 mushrooms may inebriate many people through this recycling method. This
 practice is directly relevant to the identification of Amanita muscaria
-as the [[mckenna-vedic-soma-indo-european-mysteries]], since the [[rig-veda-soma-hymns-amanita-muscaria]] describes ritual urine drinking
+as the [[rig-veda-soma-hymns-amanita-muscaria]] describes ritual urine drinking
 in connection with the Soma ceremony.
 
 ## Nature of the Intoxication
@@ -80,46 +76,6 @@ states, depending on dosage and individual sensitivity.
 
 For a century, the intoxicating principle was believed to be muscarine,
 but muscarine is present in such minute concentrations that it cannot
-act as the inebriant. It is now recognized that [[amanita-muscaria-muscimol-ibotenic-acid-pharmacology]] forms
-several derivatives during the drying or extraction of the mushrooms.
-The main pharmacologically active principle is muscimole, found only
-in this mushroom. Other compounds such as muscazone are present in
-lesser concentrations and may contribute to the overall intoxication.
-The fact that muscimole is the sole natural hallucinogenic chemical
-excreted unchanged from the body is key to identifying Amanita as
-Soma, since the Vedic hymns specifically describe urine recycling.
-
-## Practical Applications
-
-The principles and techniques discussed here have wide-ranging applications
-across multiple disciplines and contexts. Practitioners and researchers
-continue to explore new ways to integrate these concepts into modern practice,
-adapting traditional knowledge to contemporary challenges and opportunities.
-
-## Key Considerations
-
-Several important factors influence the effectiveness and outcomes described
-in this topic. Understanding these considerations helps practitioners make
-informed decisions and avoid common pitfalls. Environmental conditions,
-timing, and material selection all play critical roles.
-
-## Historical Context
-
-The historical development of this subject reflects centuries of accumulated
-knowledge and practical experience. From traditional methods passed down
-through generations to modern scientific approaches, the evolution continues
-to inform current best practices and research directions.
-
-## Common Challenges
-
-Practitioners frequently encounter several challenges when working with
-these concepts. Climate variability, resource limitations, and knowledge
-gaps can all affect outcomes. Addressing these challenges requires patience,
-observation, and a willingness to adapt approaches based on results.
-
-## See Also
-- [[amanita-muscaria]]
-- [[amanita]]
+act as the inebriant. It is now recognized that [[amanita-muscaria]]
 - [[soma]]
-- [[shamanism]]
 - [[muscarine]]

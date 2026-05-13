@@ -10,7 +10,7 @@ sources:
 
 ## Overview
 
-[[fungal-degradation-of-textile-dyes]] is a major application of [[mycoremediation-techniques]]. The textile dye industry produces over 700,000 tons of synthetic dyes annually, with 10-15% lost directly to wastewater. These dyes — including azo, anthraquinone, phthalocyanine, triphenylmethane, and heterocyclic classes — are environmentally persistent, potentially carcinogenic, and resistant to conventional wastewater treatment.
+Fungal degradation of textile dyes is a major application of [[mycoremediation-techniques]]. The textile dye industry produces over 700,000 tons of synthetic dyes annually, with 10-15% lost directly to wastewater. These dyes — including azo, anthraquinone, phthalocyanine, triphenylmethane, and heterocyclic classes — are environmentally persistent, potentially carcinogenic, and resistant to conventional wastewater treatment.
 
 ## The Problem
 
@@ -78,5 +78,5 @@ Color discharge limits exist worldwide: <200 ADMI units (US), absorbance-based s
 
 - [[mycoremediation-enzymology]] for laccase, LiP, and MnP enzyme systems
 - [[white-rot-fungi-bioremediation]] for the primary fungal agents
-- field peas for field-scale deployment
+- [[mycoremediation-field-applications]] for field-scale deployment
 - [[mycoremediation-techniques]] for general approaches

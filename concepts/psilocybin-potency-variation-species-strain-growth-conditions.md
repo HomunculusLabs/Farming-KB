@@ -18,14 +18,10 @@ The psychoactive potency of psilocybin-containing mushrooms varies enormously �
 
 Reported psilocybin concentrations (dry weight basis) vary dramatically across species:
 
-- ***[[stamets-psi-psilocybe-azurescens-species-guide]]***: 0.8–1.8% (highest reliably reported)
-- ***Psilocybe bohemica***: 0.5–1.3%
 - ***[[guzman-allen-gartz-psilocybe-semilanceata-temperate-cosmopolitan-distribution]]*** (liberty cap): 0.2–1.5%
 - ***Psilocybe cyanescens***: 0.3–1.5%
 - ***Psilocybe cubensis***: 0.3–1.3% (cultivated)
 - ***Psilocybe baeocystis***: 0.3–0.8%
-- ***[[stamets-panaeolus-cyanescens-copelandia-identification-ecology]]*** (blue meanies): 0.2–0.9%
-- ***Gymnopilus luteofolius***: 0.01–0.2%
 - ***[[gartz-conocybe-cyanopus-rare-psychoactive-mushroom]]***: 0.05–0.3%
 
 The order-of-magnitude range from the weakest to strongest species underscores the importance of accurate species identification. Misidentification is a significant risk factor in recreational and therapeutic use.
@@ -71,7 +67,7 @@ Potency is a polygenic trait influenced by:
 
 ### Growth Stage
 
-Potency changes throughout the mushroom life cycle:
+Potency changes throughout the [[mushroom-life-cycle]]:
 
 - **Primordia (pins)**: Lower total alkaloid content per unit dry weight, but developing biosynthetic capacity.
 - **Immature fruiting bodies**: Rapidly increasing alkaloid accumulation.

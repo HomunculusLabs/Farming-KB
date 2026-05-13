@@ -1,24 +1,13 @@
 ---
 title: Mckenna Sugar Addiction Slavery Dominator Culture
 source: mckenna_t-food_of_the_gods.md
-author: [[terence-mckenna]]
-extracted: 2026-05-11
----
-
-# Sugar as Addiction and Engine of Slavery
-
-## Sugar in a History of Drugs
-
-McKenna argues that sugar abuse is the world's least discussed and most
-widespread addiction, and one of the hardest of all habits to kick.
-Sugar addicts may be maintenance users or binge eaters. The depths of
-serious [[mckenna-food-gods-sugar-addiction-slavery]] are exemplified by bulimics who may binge on
+author: [[mckenna-food-gods-sugar-addiction-slavery]] are exemplified by bulimics who may binge on
 sugar-saturated food and then induce vomiting or use a laxative purge to
 enable them to eat more sugar. After alcohol and tobacco, sugar is the
 most damaging addictive substance consumed by human beings.
 
 Sugar abuse rarely occurs alone as a syndrome. Mixed addictions, for
-example sugar and caffeine, are more common. Some addicts use diet pills
+example sugar and [[caffeine]], are more common. Some addicts use diet pills
 to control soaring body weight, and then tranquilizers to mitigate the
 jitteriness caused by the diet pills. An absolute correlation has been
 shown between high sugar consumption and high alcohol intake outside
@@ -46,23 +35,7 @@ Sugar had been known for centuries as a rare medicinal substance before
 it became a common food. The Romans knew it was derived from a bamboo-
 like grass. The tropical conditions needed for sugarcane cultivation
 ensured that sugar would be a rare and imported commodity in Europe.
-Only in the [[mckenna-club-des-hachischins-and-nineteenth-century-literary-hashish]], at the encouragement of Napoleon I, were
-sugar beets developed as an alternative to cane sugar.
-
-Sugarcane is known to occur as a wild plant, and the genus is well
-represented in tropical Asia with at least five species native to India.
-The Persian king Khusraw I (A.D. 531-578) dispatched envoys to India to
-investigate rumors of exotic drugs, and among those brought back was
-sukkar (Persian shakar, Sanskrit sarkara), our sugar. At that time and
-for long afterwards, sugar was used only to sweeten otherwise bitter
-medicines.
-
-## Sugar Reaches Europe
-
-Sugar reached England around 1319 and was popular in Sweden by 1390. It
-was an expensive and exotic novelty, mostly found in its traditional
-role in medicine: sugar made palatable the foul-tasting mixture of
-[[medicinal-herbs-for-livestock]], entrails, and other materials typical of the medieval
+Only in the [[medicinal-herbs-for-livestock]], entrails, and other materials typical of the medieval
 pharmacopoeia. In the age before antibiotics, sugar was commonly used to
 pack wounds before binding them, as the desiccant action of the sugar
 may have aided healing.

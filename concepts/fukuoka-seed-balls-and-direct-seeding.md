@@ -12,23 +12,13 @@ tags: [fukuoka, plant-growth]
 
 # Fukuoka Seed Balls and Direct Seeding
 
-Clay seed balls (sometimes called [[fukuoka-aerial-seeding-clay-pellets-desert-revegetation-technique]] or [[fukuoka-no-till-grain-production-method]] and his ambitious [[fukuoka-natural-farming]], which seeks to eliminate chemical inputs entirely. The ideal clay is one that persists through winter but softens reliably with spring rains.
+Clay seed balls (sometimes called [[fukuoka-no-till-grain-production-method]] and his ambitious [[fukuoka-straw-mulch-philosophy]].
 
-## Role in the Grain Production Cycle
-
-In Fukuoka's annual cycle, clay pellets play a specific role in the winter-over seeding of rice. After the rice harvest in autumn and the barley seeding, rice seeds enclosed in clay pellets are scattered over the field in mid-November or later. Through the winter, the pellets protect the dormant seeds. In spring, rainfall softens the clay and the rice seedlings emerge through the [[fukuoka-straw-mulch-philosophy]].
-
-This eliminates the entire nursery-bed phase of [[fukuoka-energy-analysis-rice-production-natural-vs-mechanized]]. There is no need to prepare starter beds, tend seedlings, or perform the labor-intensive transplanting operation that dominates conventional [[fukuoka-natural-rice-farming-steps]]. Fukuoka noted that in his system, winter weeds have not yet appeared at the time of autumn broadcasting, so the early seeding also helps with [[fukuoka-do-nothing-farming-philosophy]]. He wrote that "the seeds sown by nature are not so weak as to grow only in plowed fields. Plants have always grown by direct seeding, without tillage." By returning to direct seeding, the farmer eliminates the entire infrastructure of nursery beds, transplanting tools, and the backbreaking labor of moving seedlings from bed to paddy.
-
-Direct seeding also connects to Fukuoka's [[fukuoka-reviving-ancestral-strains]] work involved identifying and preserving older rice varieties that thrived under natural conditions.
+This eliminates the entire nursery-bed phase of [[fukuoka-natural-rice-farming-steps]]. Fukuoka noted that in his system, winter weeds have not yet appeared at the time of autumn broadcasting, so the early seeding also helps with [[fukuoka-reviving-ancestral-strains]] work involved identifying and preserving older rice varieties that thrived under natural conditions.
 
 ## Broader Significance
 
-The seed [[fukuoka-seed-ball-technique-detailed]] has been adopted and adapted worldwide by [[fukuoka-natural-rice-barley-cultivation]], the [[fukuoka-natural-weed-management]], and above all the recognition that nature grows the crops, not the farmer.
-
-## Seed Balls in the Broader Natural Farming Context
-
-Seed balls are not an isolated technique but an integral part of Fukuoka's complete farming system. In his [[fukuoka-direct-observation-method]]: he arrived at seed balls not through laboratory research but through decades of observation of how plants naturally establish themselves, combined with practical experimentation on his own farm.
+The seed [[fukuoka-natural-rice-barley-cultivation]], the [[fukuoka-direct-observation-method]]: he arrived at seed balls not through laboratory research but through decades of observation of how plants naturally establish themselves, combined with practical experimentation on his own farm.
 
 ## Limitations and Adaptations
 
@@ -39,34 +29,11 @@ While Fukuoka presented seed balls as simple and accessible, he acknowledged cer
 - Broadcasting pellets requires some skill to achieve even distribution
 - Not all seed types are equally suited to the pellet format; very large seeds may not need protection
 
-For those seeking more scientific convenience, Fukuoka noted that seeds could be coated with synthetic resins containing pesticides, but he clearly preferred the natural clay approach that aligned with his [[fukuoka-spiritual-philosophy-farming]] that distinguishes Fukuoka's natural farming from mere technique.
+For those seeking more scientific convenience, Fukuoka noted that seeds could be coated with synthetic resins containing pesticides, but he clearly preferred the natural clay approach that aligned with his [[comparison-seed-starting-vs-direct-seeding]]
 
-## See Also
-
-- [[comparison-seed-starting-vs-direct-seeding]]
-
-- [[fukuoka-seed-ball-technique]]
 - [[fukuoka-seed-ball-one-seed-technique]]
-- [[seed-balls-technique]]
 - [[fukuoka-desert-reclamation]]
-- [[fukuoka-desert-reclamation-projects]]
-## Practical Considerations
-
-When working with Fukuoka Seed Balls and Direct Seeding, several practical factors should be
-carefully considered to achieve optimal results. These include
-the specific conditions of the implementation context, available
-resources, timing requirements, and the interactions between this
-topic and other elements of the broader system. A holistic view
-that considers these interconnections produces better outcomes.
-
-Environmental conditions such as temperature, moisture, and
-seasonal patterns significantly influence results. Monitoring these
-variables and adapting practices accordingly is essential for success.
-The most effective practitioners develop keen observation skills and
-respond flexibly to changing conditions rather than following rigid
-protocols regardless of circumstances or local variation.
-
-[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
+- [[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -111,8 +78,6 @@ through generations to modern scientific approaches, the evolution continues
 to inform current best practices and research directions.
 
 ## See Also
-- [[fukuoka-straw-seed-balls-direct-seeding]]
 - [[doc]]
-- [[dom]]
 - [[det]]
 - [[natural-farming]]

@@ -31,27 +31,11 @@ sources:
 
 The full chemical name is 3-[2-(dimethylamino)ethyl]-5,6-methylenedioxyindole, also designated as 5H-1,3-dioxolo-[4,5-f]indole-7-ethaneamine, N,N-dimethyl.
 
-The free base has a melting point of 115-117 degrees Celsius. The compound is synthesized from 5,6-methylenedioxyindole, which is prepared from piperonal (see the synthesis section of [[tihkal-introduction-and-methodology]] as entry #31. It has received minimal human testing with no clear activity demonstrated.
-
-## Dosage and Administration
-
-The estimated dosage threshold is greater than 5 milligrams (by smoking).
-
-Duration is unknown.
-
-One qualitative comment is available: at 5 milligrams smoked, the subject reported "Nothing."
-
-## Pharmacology and Activity
-
-5,6-MDO-DMT has shown no detectable activity at the single tested dose of 5 milligrams by smoking. For comparison, both [[5-meo-dmt-entity-tihkal]] are active at levels of a few milligrams by this route of administration, making the inactivity of 5,6-MDO-DMT at this dose notable.
+The free base has a melting point of 115-117 degrees Celsius. The compound is synthesized from 5,6-methylenedioxyindole, which is prepared from piperonal (see the synthesis section of [[5-meo-dmt-entity-tihkal]] are active at levels of a few milligrams by this route of administration, making the inactivity of 5,6-MDO-DMT at this dose notable.
 
 In behavioral disruption studies in animals, 5,6-MDO-DMT is less potent than either 5-MeO-DMT or DMT, consistent with the human testing data suggesting reduced activity.
 
-The compound is the N,N-dimethyl member of a "methylenedioxy trilogy" that also includes the N-methyl-N-isopropyl compound [[5-6-mdo-dipt-entity-tihkal]]. None of the three compounds has demonstrated significant psychoactivity in preliminary human testing, suggesting that the 5,6-methylenedioxy substitution pattern is not favorable for tryptamine psychedelic activity.
-
-The 5,6-pattern has an appealing symmetry, being closely parallel to MDA with a sort-of long axis extending through the tryptamine molecule from the 3-position across the indole ring coming out between the 5- and 6-positions. This makes it feel like the most natural analogue to MDA or MDMA in the tryptamine world. However, despite this structural analogy, the psychoactivity that characterizes the phenethylamine methylenedioxy compounds does not translate to the tryptamine 5,6-methylenedioxy series.
-
-A potentially more exciting positioning would be the 4,5-disubstitution (as in [[5-6-mdo-mipt-entity-tihkal]] synthesis). The indole is dissolved in anhydrous diethyl ether, cooled in an ice bath, and treated with oxalyl chloride in ether added dropwise over 20 minutes. The resulting glyoxyl chloride crystallizes as red solids which are collected by filtration, washed with ether, and dried under vacuum.
+The compound is the N,N-dimethyl member of a "methylenedioxy trilogy" that also includes the N-methyl-N-isopropyl compound [[5-6-mdo-mipt-entity-tihkal]] synthesis). The indole is dissolved in anhydrous diethyl ether, cooled in an ice bath, and treated with oxalyl chloride in ether added dropwise over 20 minutes. The resulting glyoxyl chloride crystallizes as red solids which are collected by filtration, washed with ether, and dried under vacuum.
 
 The crude acid chloride is dissolved in anhydrous tetrahydrofuran, cooled under nitrogen to 0 degrees Celsius, and treated with a diethyl ether solution of dimethylamine until the reaction mixture remains basic (pH greater than 9). After workup, the residue is recrystallized from ethanol and ethyl acetate to yield 5,6-methylenedioxy-N,N-dimethylglyoxylamide with a melting point of 225-226 degrees Celsius in 41% yield.
 
@@ -59,19 +43,9 @@ The glyoxylamide is reduced with lithium aluminum hydride in dry tetrahydrofuran
 
 ## Related Compounds
 
-- [[5-6-mdo-dipt-entity-tihkal]] - the N,N-diisopropyl member of the trilogy
 - [[4-5-mdo-dipt-entity-tihkal]] - the 4,5-methylenedioxy diisopropyl analogue
-- [[5-meo-dmt-entity-tihkal]] - 5-methoxy-DMT for comparison
-
-## References
-
-Shulgin, A. and Shulgin, A. (1997). Tryptamines I Have Known and Loved: The Chemistry Continues. Entry #31, 5,6-MDO-DMT. Transform Press.
-
-## See Also
-
 - [[5-mes-dmt-entity-tihkal]]
 
-- [[5-6-mdo-dipt-entity-tihkal]] - the diisopropyl member
 - [[tihkal-introduction-and-methodology]] - overview of the TIHKAL project
 - [[5-mapb]]
 ## Practical Considerations
@@ -92,3 +66,85 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
+
+## Overview
+
+5 6 Mdo Dmt Entity Tihkal represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish 5 6 mdo dmt entity tihkal
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving 5 extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+5 6 Mdo Dmt Entity Tihkal finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for 5 6 mdo dmt entity tihkal. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+5 6 mdo dmt entity tihkal and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+5 6 Mdo Dmt Entity Tihkal has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of 5 6 mdo dmt entity tihkal into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[2c-c-entity]]
+- [[2c-o-4-entity]]

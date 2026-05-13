@@ -15,11 +15,9 @@ The vegetative growth stage is the period when plants develop their roots and sh
 
 During this stage, the plant's energy is directed primarily toward building biomass — leaves, stems, and root systems. A strong vegetative foundation directly correlates with the plant's ability to produce abundant flowers and fruit in subsequent stages.
 
-Within the [[knf-reproductive-growth-stage]] can delay flowering and reduce fruit set, a condition related to [[knf-preparations]] are particularly well-suited for supporting the vegetative growth stage:
+Within the [[knf-preparations]] are particularly well-suited for supporting the vegetative growth stage:
 
-- [[knf-indigenous-microorganism-culture]]: IMO establishes and maintains a healthy soil microbiome around the plant's root zone, enhancing [[ph-and-nutrient-availability-garden-soils]] and root development.
-
-- [[knf-lactic-acid-bacteria-serum]]: LAB supports the plant's digestive processes and helps maintain a healthy microbial environment on leaf surfaces and in the soil.
+- [[ph-and-nutrient-availability-garden-soils]] and root development.
 
 - [[knf-input-application-timing]] provides detailed guidance on scheduling, but general principles include:
 
@@ -35,40 +33,9 @@ As the plant nears the transition to reproductive growth, nitrogen-rich inputs l
 
 ## Monitoring Vegetative Health
 
-Successful management of the [[comparison-cannabis-vegetative-stage-vs-flowering-stage]] requires regular observation and responsive adjustment. Several visual indicators help farmers assess whether their plants are receiving appropriate nutrition:
+Successful management of the [[hamilton-pest-and-disease-control-organic]] pressure:** Plants that are well-nourished according to the [[knf-nutritive-cycle-theory]] — The theoretical framework for stage-based [[knf-input-application-timing]] — Nutrient stress during growth transitions.
 
-- **Leaf color:** Deep green leaves with uniform coloration indicate adequate nitrogen. Yellowing, especially of older leaves, suggests nitrogen deficiency.
-
-- **Growth rate:** Steady, vigorous growth with regular internode spacing is the goal. Extremely rapid growth can indicate excess nitrogen, while slow growth suggests deficiency.
-
-- **Root development:** Healthy white root systems with abundant fine root hairs indicate good soil biology and nutrient availability.
-
-- **[[hamilton-pest-and-disease-control-organic]] pressure:** Plants that are well-nourished according to the [[cho-nutritive-cycle-theory]] tend to exhibit natural pest resistance.
-
-- **Stem thickness:** Strong, thick stems that can support future fruit loads are built during the vegetative stage.
-
-When problems arise, consult [[knf-nutritive-cycle-theory]] — The theoretical framework for stage-based [[green-cannabis-grow-bible-nutrient-management-ppm]].
-
-- [[knf-input-application-timing]] — Nutrient stress during growth transitions.
-
-- [[knf-troubleshooting]] — Diagnosing and resolving common problems.
-## Practical Considerations
-
-When working with KNF Vegetative Growth Stage, several practical factors should be
-carefully considered to achieve optimal results. These include
-the specific conditions of the implementation context, available
-resources, timing requirements, and the interactions between this
-topic and other elements of the broader system. A holistic view
-that considers these interconnections produces better outcomes.
-
-Environmental conditions such as temperature, moisture, and
-seasonal patterns significantly influence results. Monitoring these
-variables and adapting practices accordingly is essential for success.
-The most effective practitioners develop keen observation skills and
-respond flexibly to changing conditions rather than following rigid
-protocols regardless of circumstances or local variation.
-
-[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
+- [[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -111,8 +78,6 @@ through generations to modern scientific approaches, the evolution continues
 to inform current best practices and research directions.
 
 ## See Also
-- [[doc]]
 - [[det]]
-- [[knf-reproductive-growth-stage]]
 - [[cannabis-vegetative-growth-stage]]
 - [[knf-imo-four-stage-cultivation]]

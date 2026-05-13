@@ -1,19 +1,15 @@
 ---
 title: Dimethylamine Amidation Tryptamine Side Chain Construction
-tags: [dimethylamine, amidation, organic-synthesis, [[tryptamine]], [[indole]], glyoxalylamide, psilocin, shirota, laboratory-technique]
+tags: [dimethylamine, amidation, organic-synthesis, indole, glyoxalylamide, psilocin, shirota, laboratory-technique]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [concise-large-scale-synthesis-of-psilocin-and-psilocybin-shirota-hakamata-goda.md]
 ---
 # Dimethylamine Amidation in Tryptamine Side Chain Construction
 
-The conversion of an [[shirota-glyoxalylamide-formation-oxalyl-chloride-indole]] adduct to a [[glyoxalylamide-intermediate-in-tryptamine-synthesis]]
+The conversion of an [[glyoxalylamide-intermediate-in-tryptamine-synthesis]]
 using dimethylamine is a critical step in the construction of the
-N,N-dimethyltryptamine side chain during the synthesis of [[psilocin]]. In the
-Shirota, Hakamata, and Goda (2003) route, this amidation transforms the yellow
-crystalline oxalyl chloride adduct of 4-acetylindole (compound 5) into the
-ivory white glyoxalylamide (compound 6), which contains the complete carbon
-and nitrogen framework of the target [[tryptamine]] molecule.
+N,N-dimethyltryptamine side chain during the synthesis of [[tryptamine]] molecule.
 
 ## Reaction Overview
 
@@ -23,14 +19,10 @@ n-hexane anti-solvent crystallization from the previous step, are dissolved in
 anhydrous tetrahydrofuran and treated with dimethylamine and pyridine.
 
 The reaction installs the N,N-dimethylamino group that will ultimately become
-part of the [[tryptamine]] ethylamine side chain after reduction with lithium
-aluminum hydride. This step represents the convergence point of the synthetic
-route, where the [[indole]] ring system and the ethylamine side chain are
+part of the [[indole]] ring system and the ethylamine side chain are
 joined through the glyoxalyl linker.
 
-Prior to this step, the molecule consists of a protected [[indole]] ring with
-an electrophilic oxalyl chloride substituent. After the amidation, the
-complete carbon skeleton of the target [[tryptamine]] is assembled, and only
+Prior to this step, the molecule consists of a protected [[tryptamine]] is assembled, and only
 the reduction of the glyoxalyl carbonyl groups remains.
 
 ## Detailed Experimental Procedure
@@ -67,25 +59,7 @@ dimethylamine for the electrophilic carbonyl carbon, yet basic enough to
 neutralize the acid as it forms. Pyridine also improves the solubility of
 ionic intermediates in the THF reaction medium.
 
-**Anhydrous diethyl ether** is added as a co-solvent when the reaction mixture begins to solidify. The solidification occurs because the glyoxalylamide product has lower solubility in THF than the [[shirota-4-hydroxyindole-acetyl-protection-psilocin-synthesis-starting-material]], and pyridinium hydrochloride salt formation increases the ionic character of the medium.
-
-Ether addition maintains a workable liquid phase and allows the product to
-precipitate in a filterable form rather than forming an intractable solid
-mass.
-
-**Tetrahydrofuran** is the primary reaction solvent, chosen for its ability to dissolve both the polar oxalyl chloride adduct and the dimethylamine reagent. THF is aprotic, which prevents premature hydrolysis of the acid chloride functionality. THF also has a convenient boiling point (66 degrees Celsius) for easy removal if needed.
-
-## Product Characteristics
-
-The glyoxalylamide (compound 6) is obtained as an ivory white crystalline
-powder in 80.0 percent yield (22.0 g from 17.6 g of 4-acetylindole at 100 mmol
-scale). The product is suitable for direct use in the next step without
-further purification.
-
-The ivory white color contrasts with the yellow color of the starting oxalyl
-chloride adduct, providing a visual confirmation of the chemical
-transformation. The product contains all atoms needed for the final
-[[psilocin]] molecule minus the two oxygen atoms that will be removed by
+**Anhydrous diethyl ether** is added as a co-solvent when the reaction mixture begins to solidify. The solidification occurs because the glyoxalylamide product has lower solubility in THF than the [[psilocin]] molecule minus the two oxygen atoms that will be removed by
 lithium aluminum hydride reduction.
 
 Specifically, the glyoxalylamide has:
@@ -123,11 +97,7 @@ under ionization conditions.
 
 ## Significance in the Synthetic Sequence
 
-The dimethylamine amidation step is the point at which the [[tryptamine]]
-pharmacophore is assembled. The 80 percent yield of this step, combined with
-the 85 percent yield of the subsequent lithium aluminum hydride reduction,
-gives an overall yield of approximately 68 percent for the two-step conversion
-of 4-acetylindole to [[psilocin]].
+The dimethylamine amidation step is the point at which the [[psilocin]].
 
 This represents a significant improvement over earlier routes that required
 additional protection and deprotection steps to install the dimethylamino

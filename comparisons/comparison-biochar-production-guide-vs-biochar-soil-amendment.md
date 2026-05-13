@@ -24,18 +24,9 @@ unlock biochar's potential as a soil conditioner.
 
 ## Biochar Production Guide
 
-[[biochar-soil-amendment]]
-
-Biochar's use as a soil amendment is inspired by terra preta, the remarkably
-fertile Amazonian dark earth created by indigenous peoples over centuries.
-These anthropogenic soils remain fertile thousands of years after their
-creation, demonstrating biochar's extraordinary stability and long-term soil
-benefits. Modern application draws on this legacy to improve contemporary
-agricultural soils through mechanisms including enhanced [[mollison-designers-tropical-soils-and-cation-exchange-management]]
+[[mollison-designers-tropical-soils-and-cation-exchange-management]]
 capacity, water retention three to five times biochar's weight, and provision
-of [[query-how-do-i-design-habitat-for-beneficial-insects]] microorganisms including mycorrhizal fungi.
-
-[[ingham-compost-tea-application-rates-and-timing]] vary by soil condition and goals, ranging from 0.5 kilograms
+of [[ingham-compost-tea-application-rates-and-timing]] vary by soil condition and goals, ranging from 0.5 kilograms
 per square meter for maintenance in already-healthy soils to 5 kilograms per
 square meter for remediation of degraded or sandy soils. The critical step
 that many newcomers miss is inoculation. Raw biochar straight from production
@@ -59,11 +50,7 @@ than competing with it.
 | Focus | Manufacturing carbon | Applying carbon to soil |
 | Core Process | Pyrolysis of biomass | Inoculation and field application |
 | Key Skill | Kiln operation, fire management | Soil assessment, composting |
-| [[query-what-is-the-ideal-temperature-range-for-growing-cannabis]] | 350 to 700 C | Ambient soil temperatures |
-| Time Investment | Hours per production batch | Weeks for proper charging |
-| Critical Risk | Overburning to ash | Applying uncharged biochar |
-| Feedstock Needed | Biomass for conversion | Compost, compost tea, nutrients |
-| Long-term Benefit | Stable [[mycorrhizal-fungi-soil-carbon-sequestration-by-type]] | Improved soil fertility and structure |
+| [[mycorrhizal-fungi-soil-carbon-sequestration-by-type]] | Improved soil fertility and structure |
 
 ## When to Choose Biochar Production Guide
 
@@ -103,7 +90,5 @@ operations creates a synergistic system where each process supports the other.
 
 ## See Also
 
-- [[comparison-biochar-remediation-vs-phytoremediation]]
 - [[biochar-soil-amendment]]
-- [[biointensive-carbon-farming]]
 - [[compost-tea-guide]]

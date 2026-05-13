@@ -63,62 +63,88 @@ Perennial legume that creeps with a good root system. Warm areas of 75 cm or mor
 
 ### Puero (*Pueraria phaseoloides*)
 
-Pioneer green and [[cover-crop]], perennial climber. Very vigorous as a smothering summer mat. Used in wet tropics. Palatable with good seedling vigor (can be broadcast). Can be kept in pastures under rotational grazing, but also suits green manuring, orchards, and garden mulch crop.
+Pioneer green and [[tropical-pasture-grasses]] — Grass companions for legume pastures
+- [[animal-tractor-systems]] — Integrating animals with forage legume systems
 
-### Macro (*Macrotyloma axillare* — formerly *Dolichos axillaris*)
+## Overview
 
-Twining perennial forming a dense sward. Needs more than 100 cm rain in light frost areas. Valuable in shallow ridge soils and tolerates some dry periods. Establishes readily.
+Tropical Forage Legumes represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
 
-### Lab-lab (*Lablab purpureus* — formerly *Dolichos lablab*)
+## Key Characteristics
 
-Vigorous annual or short-lived perennial useful for soil-building and weed control. Grown as a forage and mulch legume wherever cowpeas succeed. Will stand sporadic grazing; kept in rotation or strip grazing. Good silage, compost, mulch, and pioneer crop. Tolerates acid soil and rough seed-beds. Broadcast at 20 kg/ha or drill at 6–10 kg. Inoculation assists establishment. Good screen plant on trellis for watered dryland gardens. Pods and beans are edible.
+Several defining characteristics distinguish tropical forage legumes
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
 
-### Phasey Bean (*Macroptilium lathyroides* — formerly *Phaseolus lathyroides*)
+## Ecological Context
 
-Self-regenerating annual with long erect twining stems. Needs more than 75 cm rain on heavy soils. Can be sown with para grass in swampy areas, and also with glycine.
+The ecological relationships involving tropical extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
 
-## Upright Pasture Legumes
+## Practical Applications
 
-### Lucerne (*Medicago sativa*)
+Tropical Forage Legumes finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
 
-Grown from cool temperate to tropics, usually as a pure sward cut to baled hay, but also in well-managed pasture under rotation (allowing a year or so of light grazing). Deep rooted, growing from 55 cm rainfall and up. Combines well with makarikari grass and sorghum. Regular resting is essential to persistence; in pasture needs re-seeding every 4–8 years. Cut for hay just before flowering. Reseeded in cut sward by chisel seeding. Inoculation essential; lime pelleting also essential in acid soils. Sown at 6–14 kg/ha (lighter on rain-fed areas, heavier if irrigated). Silage with molasses is popular. Garden plots used for mulch, rabbit feed, and seeds for sprouting.
+## Management and Implementation
 
-### Stylo (*Stylosanthes guianensis*)
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
 
-Perennial pasture legume of warm areas, 90–400 cm rain. Good pioneer of poor acid soils, poor drainage, sands, rocky soils, and hillsides. Combined with low grasses such as signal grass and pangola. Sensitive to copper and phosphate deficiencies. Excellent mulch in tree systems; can be cut to silage. Surface-planted with wide range of inoculants. Many varieties suited to specific sites and climates. Some shrubby types are an excellent cassava interplant, or suit banana/papaya plantings as slash mulch. Often kept as feed for dry season. The seca variety suits fenced-off reserves. Shades out in dense plantation but may be ideal establishment mulch.
+## Regional Considerations
 
-### Kenya White Clover (*Trifolium semipilosum*)
+Different geographic regions present unique challenges and
+opportunities for tropical forage legumes. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
 
-Persists well in shortgrass pastures and dairy strip grazing with more than 100 cm rainfall (or irrigated). Flowers in autumn and spring. Needs good seedbed, scarification, and inoculation.
+## Sustainability
 
-### Haifa White Clover (*Trifolium* spp.)
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
 
-A strain adapted to summer heat and subtropics. Persists well and reseeds after drought. Good interplant together with woolly vetch.
+## Research and Development
 
-### Cowpea (*Vigna sinensis*)
+Ongoing research continues to expand understanding of
+tropical forage legumes and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
 
-A preferred annual cover crop and soil improver. Also grown with sorghum, maize, and millet as hay or mulch in established orchards.
+## Historical Context
 
-### Lupin (West Australian seed varieties)
+Tropical Forage Legumes has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
 
-Excellent cover crop and seed in acid sandy or good soils. Inoculated, can be broadcast or sod-seeded. Good winter green crop (annual) in vine and bush fruit crops.
+## Integration Strategies
 
-### Mung Beans (*Vigna radiata* — formerly *Phaseolus aureus*)
+Successful integration of tropical forage legumes into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
 
-Vigorous garden green crop, forage annual, hay or grain crop. Suits gardens and low crop systems. Annual.
+## Challenges and Solutions
 
-## Inoculation and Establishment
-
-Most tropical forage legumes require specific rhizobial inoculation for effective nitrogen fixation. Key establishment practices include:
-
-- **Seed treatment** — Hot water treatment for hard-seeded species, inoculation with appropriate rhizobial strains
-- **Seedbed preparation** — Good seedbed desirable for most species, though some tolerate rough conditions
-- **Sowing methods** — Broadcast, drill, or sod-seed depending on species and conditions
-- **Lime pelleting** — Essential for lucerne and other species on acid soils
-- **Minimum tillage** — Many species establish well in slashed weed areas with minimal soil disturbance
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
 
 ## See Also
 
-- [[tropical-pasture-grasses]] — Grass companions for legume pastures
-- [[savannah-forestry-rehabilitation]] — Using legumes for degraded land restoration
-- [[animal-tractor-systems]] — Integrating animals with forage legume systems
+- [[bloomfield-mycetoma-madurella-tropical-foot-fungus]]
+- [[comparison-cacao-vs-black-pepper-tropical-crop-cultivation]]
+- [[fungal-biodiversity-tropical-ecosystems]]

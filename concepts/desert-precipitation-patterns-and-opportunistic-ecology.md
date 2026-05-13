@@ -4,48 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Desert Precipitation Patterns and Opportunistic Ecology
-
-## Overview
-
-Rainfall in deserts is fundamentally different from that in humid regions. It occurs as a lesser part of normal cyclonic, convectional, or orographic rains, and its unpredictability shapes every aspect of desert ecology and human strategy. Understanding precipitation patterns and the remarkable opportunistic responses they trigger is essential for any dryland design.
-
-## Types of Desert Precipitation
-
-### Cyclonic and Frontal Rain
-
-Warm, unstable tropical air masses and cold westerly rain may be entrained into air cell circulation over deserts. These systems produce the larger rainfall events but are rare and unpredictable in interior desert regions.
-
-### Convectional Rain
-
-A significant proportion of desert rain is convectional, caused by local heating over sands, rocks, and bare soils. These storms typically:
-
-- Occur from about 1-3 PM (driven by peak surface heating)
-- Die out at dusk as temperatures drop
-- Produce intense, localized downpours
-- Are preceded by fierce downdraughts that raise dust storms
-
-### Seasonal Reliability
-
-Only in some deserts does rain fall fairly reliably in a seasonal distribution:
-
-- **Monsoon borders**: Affected by seasonal shifts in the Intertropical Convergence Zone
-- **Westerly coastal belts**: Winter rainfall zones (e.g., Mediterranean climate margins)
-- **Elsewhere**: Rain is episodic, and averages are essentially meaningless—many years may pass at any one place without rain
-
-### Fog and Dew Deserts
-
-Natural deserts exist where offshore winds and cold sea currents ensure rain is rare or absent (the Namibian coastal areas and the Atacama). These areas are treeless and depend on fogs and dew alone for plant growth. Dew traps of stone, scattered shrubs, or vertical metal screens up to 1 meter high are strategies to capture this critical moisture. Moroccan foresters have contemplated such metal screens to condense dew and establish shrubs that would themselves become moisture condensers.
-
-## Water Balance in Deserts
-
-The fundamental challenge of desert hydrology is captured in a simple inequality: **evaporation always exceeds rainfall**. Key metrics:
-
-- Annual precipitation in arid zones: 0-40 cm
-- Potential evaporation: 100 cm (steppe) to 700 cm/year (hyperarid areas)
-- Infiltration to recharge desert aquifers: as little as **0.8%** of total rainfall
-
-An estimated **88% of water either evaporates or rushes unused across the land** during and after rain events. The central strategy of dryland [[permaculture]] is to capture and store as much of this lost water as possible.
+# Desert Precipitation Patterns and Opportunistic [[permaculture]] is to capture and store as much of this lost water as possible.
 
 ## Runoff and Stream Flow
 
@@ -148,13 +107,10 @@ For both plants and animals, drawing from these deeper, cooler, and more humid s
 
 The central imperative is to capture some of the estimated 88% of water that evaporates or rushes unused across the land, and to safely store it below ground for:
 
-1. **Prolongation of the growth period** beyond the brief window after rain
-2. **Re-humidification of the desert air** itself via transpiration from trees and shrubs
-3. **Recharge of aquifers** beyond the natural 0.8% infiltration rate
-
-Every strategy that gets water into soil and keeps it there is worthwhile—particularly in Mediterranean climate areas on desert borders, which can be functionally "arid" when they have deep sands and poor water retention.
 ## See Also
 
-- [[dryland-strategies-and-desert-ecology]]
-- [[desert-gardening]]
-- [[dryland-soils-and-mineral-nutrition]]
+- [[desert-dams-rockholes-evaporation]]
+- [[desert-mulches-and-drought-strategies]]
+- [[desert-precipitation-and-opportunistic-response]]
+- [[fukuoka-stopping-desert-advance-natural-revegetation]]
+- [[desert-revegetation-natural-farming]]

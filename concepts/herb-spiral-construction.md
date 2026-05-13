@@ -97,7 +97,7 @@ Natural stone is the traditional and best material for herb spiral walls:
 
 ### 5. Install a Water Feature (Optional)
 
-- Place a small pond or bowl at the base of the spiral for aesthetics and to attract [[hamilton-beneficial-insects-and-biological-pest-control]] frogs
+- Place a small pond or bowl at the base of the spiral for aesthetics and to attract beneficial insects and frogs
 - The moisture from the pond helps create the humid microclimate for moisture-loving herbs at the bottom
 
 ## Planting by Zone
@@ -119,10 +119,10 @@ Mediterranean herbs that thrive in hot, dry conditions with sharp drainage:
 
 Herbs that like warmth but slightly more moisture:
 
-- Tarragon ([[artemisia-dracunculus]])
-- Chamomile ([[matricaria-chamomilla]])
+- Tarragon (Artemisia dracunculus)
+- Chamomile (Matricaria chamomilla)
 - Calendula (Calendula officinalis)
-- Yarrow ([[achillea-millefolium]])
+- Yarrow (Achillea millefolium)
 - Catnip (Nepeta cataria)
 
 ### Lower Middle (Zone 3) — Moderate Moisture, Some Shade
@@ -130,9 +130,9 @@ Herbs that like warmth but slightly more moisture:
 Herbs that prefer average moisture and some protection:
 
 - Basil (Ocimum basilicum)
-- Cilantro ([[coriandrum-sativum]])
+- Cilantro (Coriandrum sativum)
 - Dill (Anethum graveolens)
-- Parsley ([[petroselinum-crispum]])
+- Parsley (Petroselinum crispum)
 - Chives (Allium schoenoprasum)
 - Mint (Mentha spp.) — plant in the lower zones as mint spreads aggressively
 
@@ -140,10 +140,10 @@ Herbs that prefer average moisture and some protection:
 
 Moisture-loving herbs that thrive in cooler, wetter conditions:
 
-- Watercress (Nasturtium officinale) — near the optional water feature
-- Mints (Mentha spp.) — contain in the moist bottom zone
-- Vietnamese coriander (Persicaria odorata)
-- Lemon balm (Melissa officinalis)
-- Sweet woodruff (Galium odoratum)
+## See Also
 
-### North Side vs. South Side
+- [[medicinal-herb-growing]]
+- [[herb-spiral-microclimate-design]]
+- [[herb-gardening-organic-hamilton]]
+- [[jadam-herb-solution-jhs]]
+- [[hamilton-herb-garden-design]]

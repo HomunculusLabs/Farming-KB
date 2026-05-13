@@ -46,7 +46,7 @@ The mash method produces concentrated, restaurant-quality hot sauce.
 2. Blend peppers (and aromatics) into a rough puree -- do not over-process
 3. Weigh the puree, calculate salt at 2.5% of total weight
 4. Mix salt thoroughly into the puree
-5. Pack into a clean fermenting vessel ([[mason-jar-preserving-guide]], crock, or fermentation vessel)
+5. Pack into a clean fermenting vessel (mason jar, crock, or fermentation vessel)
 6. Press down to remove air pockets; puree should be submerged in its own juice
 7. If insufficient liquid, add a 2.5% salt brine to cover
 8. Cover with a lid + airlock, or a loose lid with daily burping
@@ -68,7 +68,7 @@ For sauces where you want identifiable pepper pieces:
 After fermentation:
 
 1. Transfer mash/peppers to a blender
-2. Add vinegar (white distilled, apple cider, or [[brown-rice-vinegar-brv]]) at 10-25% of total volume for additional safety and tang
+2. Add vinegar (white distilled, apple cider, or rice vinegar) at 10-25% of total volume for additional safety and tang
 3. Blend until smooth
 4. Strain through a fine mesh sieve or food mill if desired (smooth sauce) or leave chunky
 5. Taste and adjust: add more vinegar for tang, salt for seasoning, sugar or honey to balance heat
@@ -78,7 +78,7 @@ After fermentation:
 
 Critical safety parameters:
 - Final pH must be 4.6 or below (test with calibrated pH meter)
-- Target pH: 3.4-4.0 [[query-how-to-harvest-and-cure-cannabis-for-best-flavor]] and safety
+- Target pH: 3.4-4.0 for best flavor and safety
 - Water-bath can the finished sauce for shelf stability (10 min for half-pints)
 - Refrigerated fermented sauce keeps 6-12 months un-canned
 - Canned sauce keeps 12-18 months

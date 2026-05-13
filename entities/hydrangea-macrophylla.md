@@ -37,27 +37,7 @@ Bigleaf hydrangea is a deciduous shrub growing 1 to 2 meters tall and wide, with
 
 Leaves are opposite, broadly ovate, 10 to 20 centimeters long, with serrated margins and prominent palmate venation.
 
-The [[aact-foliar-sticker-spreaders-leaf-surface-attachment-ingham]] is glossy dark green above and lighter green below, with fine pubescence along the midrib beneath.
-
-Inflorescences are terminal corymbs up to 20 centimeters in diameter, composed of a mixture of fertile and sterile florets.
-
-In mophead forms, sterile florets dominate the display, with showy sepals 2 to 4 centimeters across that persist for months.
-
-Lacecap forms bear a central cluster of small fertile florets surrounded by a ring of larger sterile florets.
-
-The root system is fibrous and relatively shallow, extending primarily in the upper 30 centimeters of soil.
-
-## Distribution and Habitat
-
-Hydrangea macrophylla is native to temperate broadleaf forests of Japan, particularly the Pacific coast and southern islands.
-
-The species also occurs naturally in Korea and has been reported from coastal regions of eastern China.
-
-In its native range, bigleaf hydrangea grows as an understory shrub in moist, shaded woodlands along mountain streams.
-
-Native habitats receive 1,200 to 2,000 millimeters of annual rainfall and experience mild winters with minimal freezing temperatures.
-
-The species has been widely naturalized in parts of western Europe, the Atlantic coast [[berry-growing]], and New Zealand.
+The [[berry-growing]], and New Zealand.
 
 Naturalized populations typically establish in shaded, mesic sites with acidic soils in temperate maritime climates.
 
@@ -65,21 +45,7 @@ Optimal growth occurs in partial shade with consistent soil moisture and protect
 
 ## Flower Color Chemistry
 
-The most distinctive feature of Hydrangea macrophylla is its ability to produce flowers ranging from blue to pink depending on [[soil-ph]].
-
-This color variation is mediated by aluminum availability in the soil solution and the plant's physiological response to aluminum ions.
-
-Under acidic soil conditions (pH below 5.5), aluminum becomes soluble and is actively taken up by the roots.
-
-Aluminum accumulates in the sepals where it complexes with delphinidin-3-glucoside, producing blue-colored anthocyanin complexes.
-
-Under neutral to alkaline conditions (pH above 6.0), aluminum is insoluble and unavailable, resulting in pink or red flower coloration.
-
-The color transition occurs gradually across a pH range of approximately 5.0 to 6.5, with purple intermediates at middle values.
-
-Bigleaf hydrangea is one of the few plant species known to accumulate aluminum as a functional mechanism rather than suffering toxicity.
-
-The species produces [[citric-acid-cycle-tca-krebs-cycle]] in its roots, which chelates aluminum ions and facilitates their transport into aboveground tissues.
+The most distinctive feature of Hydrangea macrophylla is its ability to produce flowers ranging from blue to pink depending on [[citric-acid-cycle-tca-krebs-cycle]] in its roots, which chelates aluminum ions and facilitates their transport into aboveground tissues.
 
 Sepal cell vacuoles serve as the primary aluminum storage site, where concentrations can reach several thousand parts per million.
 
@@ -88,3 +54,88 @@ Gardeners exploit this chemistry by applying aluminum sulfate or elemental sulfu
 Conversely, adding lime raises soil pH and shifts flower color toward pink or red tones.
 
 ## Cultivation and Propagation
+
+## Overview
+
+Hydrangea Macrophylla represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish hydrangea macrophylla
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving hydrangea extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Hydrangea Macrophylla finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for hydrangea macrophylla. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+hydrangea macrophylla and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Hydrangea Macrophylla has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of hydrangea macrophylla into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[aristolochia-macrophylla]]
+- [[brunnera-macrophylla]]
+- [[gentiana-macrophylla]]
+- [[magnolia-macrophylla]]
+- [[swietenia-macrophylla]]

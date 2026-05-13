@@ -22,12 +22,10 @@ type: concept
 
 # Sparse Seeding for Natural High-Yield Rice Cultivation
 
-Fukuoka's method of [[fukuoka-critique-modern-agriculture]]: that denser planting always leads to higher yields. His experiments with broadcasting seed at very low densities, combined with clay-ball encapsulation [[gourmet-medicinal-mushroom-spawn-grain-production]].
+Fukuoka's method of [[gourmet-medicinal-mushroom-spawn-grain-production]].
 
-However, Fukuoka observed that crowded rice plants compete with each other for light, air, [[fukuoka-natural-farming-philosophy]]
-- [[fukuoka-textdoc-natural-direct-seeding-versus-rice-transplanting]]
-- fukuoka textdoc sparse seeding natural [[fukuoka-high-yield-rice-barley]]
-- [[fukuoka-textdoc-natural-direct-seeding-versus-rice-transplanting]]
+However, Fukuoka observed that crowded rice plants compete with each other for light, air, [[fukuoka-textdoc-natural-direct-seeding-versus-rice-transplanting]]
+- fukuoka textdoc sparse seeding natural [[fukuoka-textdoc-natural-direct-seeding-versus-rice-transplanting]]
 ## Practical Applications
 
 Sparse Seeding for Natural High-Yield Rice Cultivation has a range of practical applications that make it relevant to
@@ -96,8 +94,6 @@ through generations to modern scientific approaches, the evolution continues
 to inform current best practices and research directions.
 
 ## See Also
-- [[fukuoka-textdoc-ideal-rice-morphology-high-yield-natural-farming]]
 - [[fukuoka-textdoc-natural-direct-seeding-versus-rice-transplanting]]
-- [[doc]]
 - [[det]]
 - [[fukuoka-ideal-rice-plant-form-dimensions-high-yield]]

@@ -16,7 +16,7 @@ type: concept
 
 # Ergot Fungi and Ergotism in Human History
 
-Ergot fungi, primarily [[bloomfield-ergot-claviceps-purpurea-ergotism]], are [[escovopsis-parasitic-fungi-attine-ant-gardens]] that infect
+Ergot fungi, primarily [[escovopsis-parasitic-fungi-attine-ant-gardens]] that infect
 the grains of grasses and cereals, particularly rye. The disease they cause,
 ergotism, has been one of the most devastating afflictions in human history,
 responsible for countless deaths and episodes of mass hysteria. The dark
@@ -43,46 +43,7 @@ period of the host crop.
 
 Ergot sclerotia contain a complex mixture of alkaloid compounds, including
 ergotamine, ergocristine, ergocryptine, and ergometrine. These compounds
-are derivatives of [[ergot-and-lysergic-acid-history]] and belong to the ergoline family. The
-total alkaloid content of ergot sclerotia can exceed 0.5 percent of dry
-weight, making them among the most toxic naturally occurring substances
-found in food crops.
-
-The ergot alkaloids produce diverse pharmacological effects. Ergotamine
-constricts blood vessels and has been used medicinally to treat migraine
-headaches. Ergometrine (also called ergonovine) stimulates uterine
-contractions and has been used to control postpartum hemorrhage. Lysergic
-[[lsd-d-lysergic-acid-diethylamide]] (LSD), one of the most potent [[metzner-hallucinogenic-drugs-psychotherapy-shamanism]] known,
-is a semisynthetic derivative of ergot alkaloids.
-
-## Forms of Ergotism
-
-Ergotism manifests in two principal clinical forms. Convulsive ergotism is
-characterized by nervous symptoms including violent spasms, hallucinations,
-delusions, and convulsions. Victims may experience crawling sensations under
-the skin, fits of manic energy followed by profound depression, and
-disturbances of vision and hearing. These symptoms led to the condition being
-called "St. Anthony's Fire" in the Middle Ages.
-
-Gangrenous ergotism is characterized by vasoconstriction and tissue death
-in the extremities. The ergot alkaloids cause intense constriction of small
-blood vessels, cutting off blood supply to fingers, toes, and limbs. Without
-treatment, the affected tissues become gangrenous and may require amputation
-or result in death. Historical accounts describe entire communities affected
-by simultaneous outbreaks of gangrenous ergotism.
-
-## Historical Epidemics
-
-Ergotism epidemics have been documented throughout European history, with
-major outbreaks occurring from the Middle Ages through the 19th century. The
-disease was particularly prevalent in regions where rye was the staple grain
-and climatic conditions favored ergot infection. Poor harvests, during which
-ergot-contaminated grain was more likely to be consumed, exacerbated the
-problem.
-
-One of the most famous possible ergotism epidemics occurred in Salem,
-Massachusetts, in 1692. Some historians have proposed that the symptoms
-experienced by the "afflicted" girls during the [[bloomfield-salem-witch-trials-ergot-poisoning-caporael-hypothesis]],
+are derivatives of [[lsd-d-lysergic-acid-diethylamide]] (LSD), one of the most potent [[bloomfield-salem-witch-trials-ergot-poisoning-caporael-hypothesis]],
 including hallucinations, convulsions, and bizarre behavior, may have been
 caused by ergot-contaminated rye. This hypothesis remains debated but
 illustrates the profound social consequences that ergotism could produce.
@@ -118,8 +79,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[claviceps-purpurea]]
 - [[doc]]
-- [[shamanism]]
 - [[ergocryptine]]
 - [[spore]]

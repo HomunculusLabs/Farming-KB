@@ -11,7 +11,7 @@ sources:
 
 # Holzer Traditional Farm Medicine and Medicinal Herbs
 
-Sepp Holzer's farm at the Krameterhof has always functioned as both a food source and a pharmacy. His knowledge of medicinal and holzer medicinal and culinary herbs compendium draws on [[holzer-alpine-farming-techniques]] traditions passed down through generations. This complements the [[holzer-problem-plant-regulation-with-livestock]] and medicinal/culinary herbs:
+Sepp Holzer's farm at the Krameterhof has always functioned as both a food source and a pharmacy. His knowledge of medicinal and holzer medicinal and culinary herbs compendium draws on [[holzer-problem-plant-regulation-with-livestock]] and medicinal/culinary herbs:
 - Hound's-tongue -- decoy for voles, medicinal
 - Pot marigold -- discourages nematodes, medicinal
 - Winter savoury -- keeps aphids away from beans, culinary
@@ -27,41 +27,16 @@ Several medicinal herbs are used to make liquid fertilisers that double as plant
 - Comfrey (Symphytum officinale) -- potassium-rich liquid manure for fruiting plants
 - Nettle (Urtica dioica) -- nitrogen and iron-rich general growth stimulant
 - Tansy (Tanacetum vulgare) -- can be included in liquid fertiliser mixes
-- Oak leaf tea -- fungal [[cervantes-pest-disease-prevention-overview]]
-- Horsetail (Equisetum arvense) -- silica-rich, strengthens cell walls against fungal attack
-
-## Connection to the Broader Farm System
-
-Medicinal and culinary herbs are integrated throughout the farm:
-- Near the [[holzer-kitchen-garden-herbs-and-medicinal-plants]] gate for quick access (lovage, chives, garlic)
+- Oak leaf tea -- fungal [[holzer-kitchen-garden-herbs-and-medicinal-plants]] gate for quick access (lovage, chives, garlic)
 - On dry stony slopes where they develop more intense flavour (thyme, lavender, sage)
 - In moist nutrient-rich areas (mint, lemon balm, motherwort)
 - Around fruit trees as companion plants (pot marigold, borage, garlic)
 - In permanent pastures as self-seeding medicinal plants
 - In trigonella-foenum-graecum
 
-- [[composting-humus-building-holzer]]
 - [[holzer-polycultures-catch-crop-combinations]]
-- [[holzer-problem-plant-regulation]]
 - [[holzer-urban-farming]]
-- [[sepp-holzer-composting-and-humus-building]]
-## Practical Considerations
-
-When working with Holzer Traditional Farm Medicine and Medicinal Herbs, several practical factors should be
-carefully considered to achieve optimal results. These include
-the specific conditions of the implementation context, available
-resources, timing requirements, and the interactions between this
-topic and other elements of the broader system. A holistic view
-that considers these interconnections produces better outcomes.
-
-Environmental conditions such as temperature, moisture, and
-seasonal patterns significantly influence results. Monitoring these
-variables and adapting practices accordingly is essential for success.
-The most effective practitioners develop keen observation skills and
-respond flexibly to changing conditions rather than following rigid
-protocols regardless of circumstances or local variation.
-
-[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
+- [[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -110,8 +85,6 @@ through generations to modern scientific approaches, the evolution continues
 to inform current best practices and research directions.
 
 ## See Also
-- [[sepp-holzer]]
 - [[doc]]
-- [[tropaeolum-majus]]
 - [[det]]
 - [[composting]]

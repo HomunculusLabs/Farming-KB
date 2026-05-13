@@ -28,63 +28,92 @@ sources:
 ## Overview
 
 **Convallaria majalis** (lily of the valley) is a herbaceous perennial
-plant in the family Asparagaceae, native to [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]] of the
-Northern Hemisphere. Valued for its intensely fragrant white flowers,
-it is widely cultivated as an ornamental [[hamilton-shade-garden-plants]].
+plant in the family Asparagaceae, native to [[hamilton-shade-garden-plants]].
 
-Despite its toxicity, *C. majalis* has a long history of [[trichome-development-and-morphology]]
-
-**Taxonomy:**
-
-- **Kingdom:** Plantae
-- **Order:** Asparagales
-- **Family:** Asparagaceae (subfam. Nolinoideae)
-- **Genus:** *Convallaria*
-- **Species:** *C. majalis* L.
-
-**Synonyms:** *Convallaria majalis* var. *keiskei* (Miq.) Makino
-(Asian form), sometimes treated as *C. keiskei* (Miq.) Makino.
-
-**Morphology:**
-
-- **Rhizome:** Creeping, slender, producing aerial stems and roots at nodes
-- **Leaves:** 2, basal, broadly lanceolate, 10–20 cm × 3–6 cm,
-  parallel-veined, glossy dark green
-- **Flowers:** Raceme of 5–15 nodding, bell-shaped flowers, 6–8 mm long,
-  white, intensely fragrant; tepals 6, fused at base; flowering May–June
-- **Fruit:** Red-orange berry, 5–7 mm diameter, containing 2–6 seeds;
-  ripe August–October
-- **Height:** 15–30 cm
-
-## Distribution and Habitat
-
-Native to Europe, from the British Isles and Scandinavia southward through
-central and southern Europe to the Caucasus. Also native to eastern Asia
-(Japan, Korea, northeastern China) and limited populations in the eastern
-Appalachian Mountains of the [[fungal-ecosystem-indicator-species]] of ancient woodlands
+Despite its toxicity, *C. majalis* has a long history of [[fungal-ecosystem-indicator-species]] of ancient woodlands
 in parts of its European range.
 
-In [[psilocybin-north-america-pacific-northwest]], the Appalachian populations are considered native relicts
-or early European introductions — their origin remains debated.
-
-## Bioactive Compounds
-
-The primary bioactive constituents are cardiac glycosides (cardenolides):
-
-- **Convallatoxin:** The major cardenolide; structurally related to
-  ouabain, with potent Na⁺/K⁺-ATPase inhibitory activity
-- **Convallamarin:** A cardioactive glycoside with weaker activity
-- **Convallarin:** Additional steroidal saponin glycoside
-- **Convallatoxol:** A hydroxylated derivative of convallatoxin
-
-Cardiac glycoside content is highest in the flowers and roots, with lower
-concentrations in leaves and berries. Dry flower material contains
-approximately 0.1–0.3% convallatoxin.
-
-Flavonoids ([[quercetin]], [[kaempferol]] derivatives) and asparagine are also
+In [[quercetin]], [[kaempferol]] derivatives) and asparagine are also
 present in significant quantities.
 
 ## Pharmacology and Toxicity
 
 Convallatoxin inhibits Na⁺/K⁺-ATPase on cardiac myocyte membranes,
 increasing intracellular sodium and calcium concentrations. This enhances
+
+## Overview
+
+Convallaria Majalis represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish convallaria majalis
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving convallaria extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Convallaria Majalis finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for convallaria majalis. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+convallaria majalis and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Convallaria Majalis has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of convallaria majalis into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.

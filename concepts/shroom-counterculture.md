@@ -25,13 +25,8 @@ seeking radical alternatives to mainstream society.
 
 Wasson's 1957 Life article "Seeking the Magic Mushroom" played a
 pivotal role in kick-starting the psychedelic revolution. Key figures
-of that movement, including [[paul-stamets]] discovered that [[andrew-weil]], Scott Chilton,
-[[shroom-mazatec-tradition]] -- The Mazatec tradition
-- [[shroom-prohibition]] -- [[magic-mushroom-prohibition-history]]
-
-## Source
-
-Letcher, Andy. Shroom: A [[shroom-cultural-history-hippie-revolution-and-counterculture]] of the Magic Mushroom.
+of that movement, including [[andrew-weil]], Scott Chilton,
+[[shroom-prohibition]] -- [[shroom-cultural-history-hippie-revolution-and-counterculture]] of the Magic Mushroom.
 HarperCollins, 2006. Lines 8760-10000, 4610-4700.
 ## Practical Applications
 

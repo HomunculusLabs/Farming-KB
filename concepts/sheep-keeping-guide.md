@@ -10,15 +10,14 @@ sources:
 
 Updated: 2026-04-18
 
-Source: The Ultimate Guide to [[comparison-natural-farming-vs-permaculture]] and [[natural-farming-sustainable-living-principles]], Nicole Faires
+Source: The Ultimate Guide to [[natural-farming-sustainable-living-principles]], Nicole Faires
 
-Sheep are manageable livestock for small-scale farms, providing meat, wool, and [[grassland-pasture-management-mollison]] services. They are relatively easy to care for but require attention to [[fukuoka-natural-predator-protection]] and stress management.
+Sheep are manageable livestock for small-scale farms, providing meat, wool, and [[fukuoka-natural-predator-protection]] and stress management.
 
 ## How Sheep Fit into a Permaculture System
 
 - **Orchard foraging**: Can be allowed into the orchard after trees are at least 7 years old, though they must be monitored for tree damage
-- **Tree forage**: Trees provide food, shelter, soil benefits, [[query-role-of-fungi-in-soil-aggregation-and-erosion-prevention]] — an important part of sheep diet
-- **[[comparison-silvopasture-systems-vs-pasture-management]]**: Sheep graze efficiently when properly rotated
+- **Tree forage**: Trees provide food, shelter, soil benefits, [[comparison-silvopasture-systems-vs-pasture-management]]**: Sheep graze efficiently when properly rotated
 - **Wool production**: Annual shearing provides fiber for textiles or sale
 - **Meat**: Lambs provide high-quality meat
 
@@ -26,8 +25,6 @@ Sheep are manageable livestock for small-scale farms, providing meat, wool, and 
 
 ### Pasture
 
-- **[[savory-stock-density-vs-stocking-rate]]**: A legume-grass mix pasture feeds 5 ewes and 8 lambs per acre in northern regions
-- **Rotation**: Rotate weekly to prevent overgrazing and parasite buildup
 - **[[coleman-spring-transition]]**: Gradually introduce sheep to pasture each spring so they can adjust
 - **Winter foraging**: Harvested corn fields and roots left in the garden supplement winter diet
 - **Winter hay**: Each sheep eats 75 pounds (34 kg) of grain and 10 bales of hay over the winter

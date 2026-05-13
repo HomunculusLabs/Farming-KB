@@ -8,18 +8,10 @@ type: concept
 
 ## Overview
 
-The Anunnaki hypothesis, drawing primarily from the work of [[zecharia-sitchin]], proposes that the laws, moral codes, and religious structures of Western civilization originate not from divine revelation but from the directives of extraterrestrial beings — the Anunnaki or Elohim — who established control systems over their genetically engineered human workforce in ancient Sumeria (Mesopotamia). This framework reinterprets biblical narratives by comparing them to their earlier Sumerian cuneiform sources, revealing what the text characterizes as a systematic inversion of the original stories.
-
-## The Sumerian Creation Narrative
-
-According to the clay tablets translated from cuneiform, the Anunnaki were extraterrestrial beings who came to Earth from the star **Sirius**. They are described as having genetically manipulated indigenous beings (called "beasts") to create the human race. The key figures in this narrative include:
-
-- **An/Anu** — The father-god, supreme authority among the Anunnaki
-- **[[enki]]/Ea** — Son of Anu, the creator and benefactor of humanity
-- **[[enlil]]/Ilu-kur-gal** — Son of Anu, the controller and oppressor of humanity
+The [[anunnaki]] hypothesis, drawing primarily from the work of [[enki]]/Ea** — Son of Anu, the creator and benefactor of humanity
 - **[[ninhursag]]** — Sister of Enki, co-creator of humanity with Enki
 
-These Sumerian deities were later renamed and their stories adapted into subsequent religious systems: Ahura Mazda, Jehovah, Lord, Ahriman, Baal, and Adon in later traditions. The biblical stories of Jacob and Esau feuding over birthright are compared to the Sumerian tales of Enki and Enlil.
+These Sumerian deities were later renamed and their stories adapted into subsequent religious systems: Ahura Mazda, Jehovah, Lord, Ahriman, Baal, and Adon in later traditions. The biblical stories of Jacob and Esau feuding over birthright are compared to the Sumerian tales of Enki and [[enlil]].
 
 ## Enki Versus Enlil: The Archetypal Brothers
 

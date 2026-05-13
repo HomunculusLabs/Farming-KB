@@ -6,7 +6,7 @@ type: entity
 
 ## Description
 
-**Circadian rhythm** refers to the approximately 24-hour biological cycle that governs the metabolism, behavior, and physiological processes of nearly all living organisms. Derived from Latin *circa* (about) and *diem* (day), circadian rhythms are endogenous — generated internally — but entrained (synchronized) by external cues such as light and temperature. In Mollison's treatment, circadian rhythms are presented as one manifestation of [[biological-pulsers]], the fundamental timing mechanisms that shape all living events. The 24-hour rhythm of birds is specifically controlled by the [[pineal-gland]] and its secretion of the hormone melatonin.
+**Circadian rhythm** refers to the approximately 24-hour biological cycle that governs the metabolism, behavior, and physiological processes of nearly all living organisms. Derived from Latin *circa* (about) and *diem* (day), circadian rhythms are endogenous — generated internally — but entrained (synchronized) by external cues such as light and temperature. In Mollison's treatment, circadian rhythms are presented as one manifestation of [[pineal-gland]] and its secretion of the hormone melatonin.
 
 ## Classification
 
@@ -29,7 +29,7 @@ type: entity
 
 ## Relevance to Cultivation and Mycology
 
-Circadian rhythms are critically important in mycology. The bread mold *[[neurospora-crassa]]* is one of the premier model organisms for circadian rhythm research — its conidiation (spore production) cycle runs on a ~22-hour clock that can be entrained by light and temperature. Many mushroom species show diurnal fruiting patterns: *Pleurotus* species often initiate pinning during temperature drops associated with nighttime. *[[lentinula-edodes]]* (shiitake) fruiting is influenced by day/night temperature differentials. Understanding circadian entrainment helps cultivators design lighting schedules, temperature cycling, and fresh air exchange timing to trigger and synchronize fruiting events. Disruption of fungal circadian clocks — through irregular lighting or temperature — can reduce yields or prevent fruiting entirely, just as irregular light disrupts melatonin cycles in animals.
+Circadian rhythms are critically important in mycology. The bread mold *[[lentinula-edodes]]* (shiitake) fruiting is influenced by day/night temperature differentials. Understanding circadian entrainment helps cultivators design lighting schedules, temperature cycling, and fresh air exchange timing to trigger and synchronize fruiting events. Disruption of fungal circadian clocks — through irregular lighting or temperature — can reduce yields or prevent fruiting entirely, just as irregular light disrupts melatonin cycles in animals.
 
 ## Entrainment Factors
 
@@ -85,6 +85,5 @@ Bill Mollison, *Permaculture: A Designer's Manual*, Chapter 4, section on pulser
 - Adaptive management recommended for changing conditions
 
 ## Related Topics
-- [[chamovitz-circadian-rhythm-internal-clock-plants]]
 - [[metzner-shamanic-singing-icaros-rhythm-and-entrainment]]
 - [[plant-circadian-rhythms]]

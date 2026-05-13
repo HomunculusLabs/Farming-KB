@@ -3,7 +3,7 @@ title: Cider Making Guide
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
-tags: [[homesteading]], fermentation, food, recipe, fruit-tree, orchard, preparation, processing]
+tags: [homesteading, fermentation, food, recipe, fruit-tree, orchard, preparation, processing]
 sources: []
 ---
 
@@ -95,14 +95,14 @@ Most homesteaders have dessert apples, not true cider apples. You can still make
 
 ### Step 4: Choosing Your Yeast Approach
 
-**[[comparison-wild-fermentation-vs-commercial-starter-culture]] (Traditional)**
+**Wild Fermentation (Traditional)**
 - Use no added yeast -- rely on wild yeasts naturally present on the apples and in the environment
 - Results in complex, funky, terroir-driven cider
 - Less predictable -- can produce off-flavors or fail entirely
 - More consistent with unwashed, organic apples from old orchards
 - Fermentation may take longer and produce lower alcohol
 
-**[[comparison-wild-vs-cultured-yeast]] (Reliable)**
+**Cultured Yeast (Reliable)**
 - Pitch a specific commercial yeast strain
 - More predictable, cleaner fermentation
 - Recommended for beginners
@@ -141,9 +141,10 @@ If you want sweet or semi-sweet cider, you must stabilize before adding sugar:
 - Sparkling cider: bottle in thick beer bottles with caps. Prime with sugar as for beer. Age 2-4 weeks for carbonation.
 - Condition at room temperature, then store cool. Serve chilled.
 
-## Aging
+## See Also
 
-- Young cider (1-3 months): fresh, bright apple character, simple but pleasant
-- Aged cider (6-12 months): more complex, mellow, developed flavors
-- Extended aging (1-3+ years): gains depth and complexity. Higher-tannin ciders benefit most from aging.
-- Store at 50-60F, on their side if corked, away from light
+- [[comparison-cider-vs-mead-making]]
+- [[comparison-beer-brewing-vs-cider-making]]
+- [[compost-making-methods-solomon]]
+- [[granola-making]]
+- [[natto-making]]

@@ -8,7 +8,7 @@ created: 2026-05-11
 
 # Desert Revegetation via Clay Pellet Method
 
-Masanobu Fukuoka proposed a radical yet remarkably simple approach to combating global desertification: scattering clay pellets containing mixed seeds over arid and semi-arid landscapes. This method, outlined in *The Natural Way of Farming*, represents one of the most ambitious applications of [[cho-natural-farming-philosophy]] at a planetary scale. Rather than fighting desertification with expensive irrigation, chemical inputs, or [[singh-genetically-engineered-fungi-bioremediation]] drought-resistant crops, Fukuoka argued that nature itself possesses the capacity for recovery — if given the right seeds and left alone.
+Masanobu Fukuoka proposed a radical yet remarkably simple approach to combating global desertification: scattering clay pellets containing mixed seeds over arid and semi-arid landscapes. This method, outlined in *The Natural Way of Farming*, represents one of the most ambitious applications of [[singh-genetically-engineered-fungi-bioremediation]] drought-resistant crops, Fukuoka argued that nature itself possesses the capacity for recovery — if given the right seeds and left alone.
 
 ## The Core Insight: Rain Rises from the Ground
 
@@ -48,8 +48,7 @@ Modern soil science supports the critical role of microbial communities in multi
 
 - **Nitrogen fixation** by *Rhizobium* and free-living *Azotobacter* species, converting atmospheric N₂ into plant-available forms
 - **Phosphate solubilization** by mycorrhizal fungi and *Pseudomonas* bacteria, making bound phosphorus accessible to roots
-- **Soil aggregation** through glomalin production by [[arbuscular-mycorrhizal-fungi-cannabis-cultivation]], improving water retention in sandy desert soils
-- **Disease suppression** through competitive exclusion, antibiotic production, and [[endophytic-mycorrhizal-induced-systemic-resistance]] in host plants
+- **Soil aggregation** through glomalin production by [[endophytic-mycorrhizal-induced-systemic-resistance]] in host plants
 
 The inclusion of living soil in the pellets means that even in barren desert substrates, beneficial microbial communities get a foothold alongside the emerging seedlings, dramatically improving survival chances compared to bare seed distribution alone.
 
@@ -97,13 +96,7 @@ Several legitimate concerns have been raised about the clay pellet approach:
 3. **Oversimplification**: While the vegetation-rainfall feedback is directionally correct, desert formation involves complex interactions of atmospheric circulation, geology, and human land use
 4. **Verification**: Large-scale controlled trials of Fukuoka's method in genuine desert environments are lacking in the peer-reviewed literature
 5. **Timeline**: Ecological succession from scattered seeds to self-sustaining vegetation could take decades to centuries
-6. **[[gadd-mycelial-network-resilience-grazing-pressure]]**: Desertified lands are often occupied by pastoralists whose grazing animals could consume seedlings before establishment
-7. **Climate change**: Shifting precipitation patterns may render historical species selections inappropriate for future conditions
-8. **Soil crust disruption**: Desert soil surfaces often have fragile biological crusts (cyanobacteria, mosses, lichens) that could be damaged by pellet scattering, ironically worsening erosion
-
-## Philosophical Significance
-
-The desert revegetation proposal is a direct extension of Fukuoka's five [[fukuoka-four-principles-of-natural-farming]] farming — no tillage, no fertilizer, no pesticides, no weeding, no pruning — applied at a planetary scale. It embodies his core belief that "all begins by relinquishing human knowledge" and that nature possesses an inherent capacity for self-healing if humans would stop interfering.
+6. **[[fukuoka-four-principles-of-natural-farming]] farming — no tillage, no fertilizer, no pesticides, no weeding, no pruning — applied at a planetary scale. It embodies his core belief that "all begins by relinquishing human knowledge" and that nature possesses an inherent capacity for self-healing if humans would stop interfering.
 
 The method requires minimal labor and no technology beyond pellet-making itself, making it theoretically accessible to the poorest communities affected by desertification. It represents the ultimate expression of "do-nothing farming" — prepare the pellets, scatter them, and let nature do the rest.
 

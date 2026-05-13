@@ -11,32 +11,9 @@ type: concept
 ---
 # Odor Control in Cannabis Gardens
 A good exhaust fan, vented outdoors, is the first step
-in [[query-how-to-manage-cannabis-odor-and-stay-discreet]] control and the easiest way to keep a
-house from reeking of fresh marijuana. Proper
-ventilation is the foundation of any odor management
-strategy. When the odor is strong and venting outside is
-a problem, growers turn to additional methods: negative
-ion generators, deodorizing liquids, gels, pucks, or
-sprays, [[cervantes-ozone-generators-negative-ion-odor]], activated charcoal filters,
+in [[cervantes-ozone-generators-negative-ion-odor]], activated charcoal filters,
 or a combination of two or more of these solutions.
-See also: [[sterilization]] and removing odors from air at the
-molecular level. Some growers even use high levels of
-ozone to exterminate grow room pests.
-Ozone generators neutralize odors by converting oxygen
-(O2) into ozone (O3) by exposing air to ultraviolet (UV)
-light. The extra molecule is a positively charged ion
-that attaches to negatively charged odor cations. When
-the extra oxygen ion attaches to the cation, they
-neutralize one another and the odor disappears. The
-chemistry takes a minute or longer, so treated air must
-be held in a chamber to convert effectively.
-Ozone has an unusual odor similar to the smell of air
-after a good rain. Make sure not to produce too much
-ozone, and give it enough time to mix with smelly air
-to neutralize odors. The distinctive odor of excess
-ozone exiting a building will tip off unwanted
-attention. For this reason, many growers also use a
-[[cervantes-ventilation-fan-carbon-filter-setup]] to further scrub the air.
+See also: [[cervantes-ventilation-fan-carbon-filter-setup]] to further scrub the air.
 ### Ozone Generator Selection
 When shopping for an ozone generator, look for one that
 has been on the market for a few years with an
@@ -59,13 +36,7 @@ maintenance switch.
 For best results, keep the ozone generator in another
 room or isolated from growing plants. Ozone causes
 chlorotic spots on leaves that may first appear as a
-[[query-how-to-fix-magnesium-deficiency-in-cannabis]], increasing in size and turning
-dark. Symptoms are usually found on foliage nearest the
-generator. Leaves wither and drop, and overall plant
-growth slows.
-Smart growers set up an ozone generator in a spare
-closet or build an ozone exchange chamber and route
-fragrant grow [[stamets-growing-room-air-circulation-co2-management]] through it before evacuation.
+[[stamets-growing-room-air-circulation-co2-management]] through it before evacuation.
 Once generated, ozone has a life of about 30 minutes.
 It takes a minute or two for the O3 molecules to
 combine with oxygen to neutralize odors.
@@ -86,7 +57,6 @@ other pollutants from the air.
    time so odors are absorbed.
 
 ## See Also
-- [[cervantes-ozone-generators-negative-ion-odor]]
 - [[cervantes-neem-oil-organic-pest-control]]
 
 ## Practical Applications
@@ -118,8 +88,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[neem]]
 - [[sterilization]]
-- [[cervantes-mealybugs-scale-insect-control]]
 - [[cervantes-outdoor-vertebrate-pest-control]]
 - [[cervantes-ozone-generators-negative-ion-odor]]

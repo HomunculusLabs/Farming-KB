@@ -6,19 +6,11 @@ type: concept
 
 # Soil Rehabilitation by Mechanical Conditioning
 
-[[mechanical-soil-conditioning]] is a powerful rehabilitation technique for compacted, degraded agricultural soils. Using specialised implements to aerate and loosen soil without turning it over, this approach can transform lifeless, compacted ground into productive, living soil within one to two growing seasons. The method works in harmony with biological processes, creating conditions that allow [[soil-life]] to flourish and complete the rehabilitation.
+[[soil-life]] to flourish and complete the rehabilitation.
 
 ## The Problem: Compacted Degraded Soils
 
-On the common degraded soils of marginal areas, we can observe compacted, eroded, lifeless conditions. These soils are overgrazed and often invaded by flatweeds and non-forage species. They are boggy and wet in winter, and dry, cracked, and bony in summer, having little effective depth. The soil has lost its [[crumb-structure]], water cannot infiltrate, roots cannot penetrate, and the biological communities that maintain soil health have been suppressed or eliminated.
-
-## The Chisel Plough and Soil Conditioner
-
-A chisel plough or soil conditioner consists of a rectangular steel frame (tool bar) towed by tractor or draught animals, to which a number of shanks are attached. These are narrow-edge, axe-edged, forward-curved vertical steel bars. A slip-on steel shoe is attached to the point of each shank. Even a single implement of 5 shanks, requiring a 25 to 50 brake horsepower tractor, covers a significant area. There are at least six or seven manufacturers of soil-loosening machines in the USA, Europe, and Australia.
-
-### The Wallace Soil Conditioner
-
-[[geoff-wallace]] developed a soil conditioner of particular effectiveness. A circular coulter first slits the ground, which must be neither too dry nor too wet. The slit is followed by a steel shoe that opens the ground up to form an air pocket without turning the soil over. This is the critical distinction from conventional ploughing: the soil is opened and aerated without being inverted, preserving existing root systems and soil structure.
+On the common degraded soils of marginal areas, we can observe compacted, eroded, lifeless conditions. These soils are overgrazed and often invaded by flatweeds and non-forage species. They are boggy and wet in winter, and dry, cracked, and bony in summer, having little effective depth. The soil has lost its [[geoff-wallace]] developed a soil conditioner of particular effectiveness. A circular coulter first slits the ground, which must be neither too dry nor too wet. The slit is followed by a steel shoe that opens the ground up to form an air pocket without turning the soil over. This is the critical distinction from conventional ploughing: the soil is opened and aerated without being inverted, preserving existing root systems and soil structure.
 
 Seed can be dropped in the thin furrows created, and beans or corn seeded in this way grow through the existing grass. No fertiliser or top-dressing is needed — only the beneficial effect of entrapped air beneath the earth, combined with the follow-up work of soil life and plant roots on the re-opened soil.
 
@@ -81,7 +73,7 @@ If tree seed, soybeans, millet, or other crops are to be planted, the sequence i
 Where land is too steep and stony for mechanical implements, biological "chisel ploughs" serve the same function:
 
 - **Japan (Fukuoka)**: Radish and Acacia for deep soil penetration.
-- **Africa**: Acacia albida and Glyricidia.
+- **Africa**: [[acacia-albida]] and Glyricidia.
 - **New Guinea**: Casuarina.
 - **Mediterranean regions**: Tamarix.
 

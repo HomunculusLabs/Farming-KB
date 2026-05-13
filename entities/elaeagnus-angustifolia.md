@@ -20,7 +20,7 @@ sources:
 
 Elaeagnus angustifolia, commonly known as Russian olive, silverberry, or oleaster, is a deciduous shrub or small tree in the family Elaeagnaceae. It is native to western and central Asia, ranging from southern Russia and Kazakhstan to Turkey and Iran. The species is widely naturalized across North America and Europe, where it was introduced as an ornamental and windbreak plant.
 
-Russian olive is recognized for its silvery-scaled foliage, fragrant yellow flowers, and edible fruit. It forms a symbiotic relationship with actinorhizal bacteria (Frankia spp.), enabling atmospheric [[biological-nitrogen-fixation-agriculture]]. This trait makes it valuable in [[tropical-rainforest-seedling-mycorrhiza-ecological-restoration]] and permaculture systems.
+Russian olive is recognized for its silvery-scaled foliage, fragrant yellow flowers, and edible fruit. It forms a symbiotic relationship with actinorhizal bacteria (Frankia spp.), enabling atmospheric [[tropical-rainforest-seedling-mycorrhiza-ecological-restoration]] and permaculture systems.
 
 The plant has become invasive in riparian areas of the western United States, displacing native cottonwood and willow communities. Despite its invasive tendencies, it remains important in traditional medicine and dryland agroforestry.
 
@@ -38,15 +38,7 @@ The fruit is a drupe-like achene, 8-14 mm long, silvery-yellow when mature, cont
 
 Root systems are extensive, with both deep taproots reaching 2-4 meters and lateral roots that spread well beyond the canopy drip line. Actinorhizal root nodules containing Frankia bacteria form on lateral roots, enabling nitrogen fixation rates of 10-60 kg per hectare per year.
 
-Wood is dense, hard, and fine-grained with a yellow-brown heartwood. It has been used locally for tool handles, fence posts, and turning. The wood burns hot with a pleasant fragrance, making it a valued fuelwood [[fukuoka-natural-farming-in-arid-regions]].
-
-## Distribution and Habitat
-
-Elaeagnus angustifolia is native to dry regions of western and central Asia, including Iran, Turkey, Afghanistan, Kazakhstan, and western China. It naturally occurs along riverbanks, floodplains, and mountain slopes at elevations up to 2,000 meters.
-
-The species was introduced to North America in the late 1800s and widely planted for windbreaks, [[comparison-vetiver-grass-vs-bamboo-for-erosion-control]], and [[hemenway-backyard-wildlife-habitat]] across the Great Plains and Intermountain West. It is now naturalized across much of the United States and southern Canada.
-
-In Europe, Russian olive is cultivated as an ornamental and has naturalized locally in Mediterranean and [[psilocybe-bohemica-central-european]] countries. It is particularly common in the Danube basin and Balkan regions.
+Wood is dense, hard, and fine-grained with a yellow-brown heartwood. It has been used locally for tool handles, fence posts, and turning. The wood burns hot with a pleasant fragrance, making it a valued fuelwood [[comparison-vetiver-grass-vs-bamboo-for-erosion-control]], and [[psilocybe-bohemica-central-european]] countries. It is particularly common in the Danube basin and Balkan regions.
 
 The plant thrives in alkaline, saline, and sandy soils where few other woody species survive. It tolerates extreme drought, temperatures from -35 to 40 degrees Celsius, and pH levels from 6.0 to 9.0.
 
@@ -54,15 +46,11 @@ The plant thrives in alkaline, saline, and sandy soils where few other woody spe
 
 Russian olive is propagated from seed (requiring 60-90 days cold stratification), hardwood cuttings, or suckers. Seedlings establish rapidly and begin producing fruit within 3-5 years. Growth rates of 60-90 cm per year are common in favorable conditions.
 
-[[mollison-lawn-reform-and-alternatives-in-permaculture-design]], Elaeagnus angustifolia serves multiple functions as a nitrogen-fixing support species. Its deep root system breaks compacted subsoil and brings up minerals. The canopy provides wind protection for understory crops.
+[[windbreak-and-shelterbelt-design]] plantings across arid regions. A single row planted at 2-3 meter spacing creates an effective windbreak within 5 years. The dense root network stabilizes streambanks and dunes.
 
-The species is widely used in [[windbreak-and-shelterbelt-design]] plantings across arid regions. A single row planted at 2-3 meter spacing creates an effective windbreak within 5 years. The dense root network stabilizes streambanks and dunes.
+[[hamilton-composting-and-organic-matter-management]].
 
-[[cervantes-companion-planting-pest-deterrent]] combinations include Russian olive as a nurse tree for fruit trees, intercropped with nitrogen-demanding species like apple or plum. The leaf litter enriches surrounding soil with nitrogen [[hamilton-composting-and-organic-matter-management]].
-
-[[hamilton-pest-and-disease-control-organic]] resistance is generally high, though coral spot (Nectria cinnabarina) and Verticillium wilt can affect stressed plants. No significant insect pests are recorded, making it a low-maintenance choice for ecological plantings.
-
-Yield of fruit ranges from 5-15 kg per mature tree annually. Oil pressed from seeds has commercial potential as a rich source of unsaturated fatty acids and [[cordyceps-cancer-bioactive-compounds]].
+[[cordyceps-cancer-bioactive-compounds]].
 
 ## Edibility and Nutritional Value
 
@@ -87,3 +75,75 @@ Antimicrobial activity against Staphylococcus aureus and Escherichia coli has be
 Analgesic and antinociceptive effects have been documented in animal models, with aqueous fruit extracts reducing pain responses comparable to reference analgesics. Gastroprotective activity against ethanol-induced ulcers has also been demonstrated.
 
 Flavonoid profiles vary significantly by geographic origin, with Central Asian populations showing higher quercetin and kaempferol glycoside concentrations than European samples. This variability may influence the medicinal potency of different accessions.
+
+## Overview
+
+Elaeagnus Angustifolia represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish elaeagnus angustifolia
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving elaeagnus extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Elaeagnus Angustifolia finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for elaeagnus angustifolia. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+elaeagnus angustifolia and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Elaeagnus Angustifolia has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of elaeagnus angustifolia into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions

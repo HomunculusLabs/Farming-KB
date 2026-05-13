@@ -31,65 +31,9 @@ The THCA-to-THC conversion is critical for understanding cannabis potency: raw, 
 
 ## Receptor Pharmacology
 
-THC exerts its effects primarily through interaction with [[cannabinoid-receptors-cb1-cb2]] in the endocannabinoid system:
-
-- **CB1 receptors**: THC binds as a partial agonist at CB1 receptors, producing the characteristic neurological and psychological effects of cannabis including euphoria, altered perception, relaxation, increased appetite, and impaired short-term memory. THC's affinity for CB1 is approximately equal to its affinity for CB2.
-- **CB2 receptors**: THC also activates CB2 receptors, producing immune-modulating and anti-inflammatory effects that are not psychoactive. These effects contribute to the [[metzner-ayahuasca-therapeutic-potential]] of THC for inflammatory and [[cannabis-autoimmune-conditions]].
-- **Other targets**: THC interacts with several non-cannabinoid receptors including TRPV1 (pain), TRPA1 (pain and inflammation), PPAR-gamma (metabolism), and GPR55 (putative cannabinoid receptor), contributing to its diverse pharmacological profile.
-
-## Pharmacokinetics
-
-Understanding how THC is absorbed, distributed, metabolized, and eliminated is essential for both therapeutic and recreational use:
-
-- **Onset of action**: 1-10 minutes when inhaled (smoking or vaporizing); 30-120 minutes when ingested orally. The delayed onset with oral consumption is due to first-pass metabolism in the liver, where THC is converted to 11-hydroxy-THC (a more potent psychoactive metabolite).
-- **Duration of effects**: 2-4 hours when inhaled; 4-8+ hours when ingested orally. The longer duration with oral consumption reflects the slower absorption and the extended activity of 11-hydroxy-THC.
-- **Distribution**: THC is highly lipophilic and distributes readily into fatty tissues, including the brain and adipose tissue. This distribution pattern means that THC and its metabolites can persist in the body for weeks after last use.
-- **Metabolism**: Primarily by cytochrome P450 enzymes in the liver (CYP2C9 and CYP3A4), producing over 80 metabolites including the psychoactive 11-hydroxy-THC and the inactive 11-nor-9-carboxy-THC (THC-COOH, the primary urinary metabolite detected in drug tests).
-- **Elimination**: Half-life of approximately 1-3 days for occasional users; longer in chronic users due to accumulation in fat tissues.
-
-## Therapeutic Effects and Applications
-
-THC has demonstrated therapeutic efficacy across a wide range of conditions, as documented extensively in Blesching's *Cannabis Health Index* and the broader medical literature:
-
-### Pain Management
-- Reduces both acute and chronic pain through CB1 receptor activation in pain-processing pathways
-- Particularly effective for neuropathic pain, which is often resistant to conventional analgesics
-- May reduce the need for opioid medications in chronic pain patients
-
-### Anti-Nausea and Appetite Stimulation
-- One of the best-established medical uses of THC; approved by the FDA for chemotherapy-induced nausea and vomiting (as dronabinol/Marinol)
-- Stimulates appetite through CB1 receptors in the hypothalamus, beneficial for cachexia, anorexia, and HIV/AIDS wasting syndrome
-- Promotes weight gain and increases food intake
-
-### Neurological Conditions
-- Reduces spasticity and pain in [[blesching-cannabis-multiple-sclerosis]] patients (approved as Sativex in many countries)
+THC exerts its effects primarily through interaction with [[metzner-ayahuasca-therapeutic-potential]] of THC for inflammatory and [[blesching-cannabis-multiple-sclerosis]] patients (approved as Sativex in many countries)
 - May protect neurons from damage (neuroprotective properties via CB1)
-- Investigational for epilepsy, [[blesching-cannabis-tourette-syndrome]], and Parkinson's disease
-
-### Cardiovascular Protection
-Recent discoveries have revealed heart-protective properties of THC that may reshape cardiovascular medicine:
-
-- THC reduced heart attack size in animal models
-- THC may protect heart cells against damage from hypoxia (oxygen deprivation)
-- THC prepares heart cells to better handle ischemic events through induction of nitric oxide
-- THC demonstrates neuroprotective effects via CB1-mediated pathways relevant to cardiac innervation
-- These findings suggest that the way we treat acute and chronic heart disease may change as a result of cannabinoid research
-
-### Anti-Cancer Properties
-- THC has demonstrated anti-tumor effects in preclinical studies across multiple cancer types
-- Effects include induction of apoptosis (programmed cell death) in cancer cells, inhibition of angiogenesis (tumor blood vessel formation), and prevention of metastasis
-
-### Bronchodilation
-- THC causes bronchodilation (airway relaxation), which may benefit asthma patients
-- This effect occurs through CB1 receptor activation in bronchial smooth muscle
-
-## Pharmaceutical Preparations
-
-Several pharmaceutical products containing THC or synthetic THC analogs are available:
-
-- **Dronabinol (Marinol)**: Synthetic THC in capsule form, FDA-approved for nausea/vomiting (chemotherapy) and appetite stimulation (AIDS wasting)
-- **Nabilone (Cesamet)**: Synthetic THC analog, FDA-approved for chemotherapy-induced nausea
-- **Sativex**: Whole-plant extract containing approximately equal amounts of THC and CBD, approved in many countries [[cannabis-for-multiple-sclerosis]] spasticity and cancer pain
+- Investigational for epilepsy, [[cannabis-for-multiple-sclerosis]] spasticity and cancer pain
 - **Epidiolex**: CBD-dominant extract (not THC, but often discussed alongside THC preparations)
 
 A notable limitation of pharmaceutical THC preparations is that they contain only isolated THC and lack the other cannabinoids, terpenes, and plant compounds found in whole-plant cannabis that may contribute to therapeutic effects through the "entourage effect."
@@ -128,7 +72,6 @@ THC content varies significantly among cannabis strains and growing conditions:
 
 ## See Also
 
-- [[endocannabinoid-system-overview]]
 - [[cannabinoid-receptors-cb1-cb2]]
 - [[anandamide-bliss-molecule]]
 

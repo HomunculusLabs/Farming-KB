@@ -33,7 +33,7 @@ Startup costs vary enormously based on land price, location, and ambitions. Here
 ### Equipment and Supplies
 - Tractor (used, compact): $5,000-$25,000
 - Tools and workshop setup: $2,000-$10,000
-- Kitchen equipment ([[pf-tek-pressure-canner-sterilization]], dehydrator, grain mill): $500-$2,000
+- Kitchen equipment (pressure canner, dehydrator, grain mill): $500-$2,000
 - Irrigation system: $500-$5,000
 - First animals and housing: $500-$5,000
 
@@ -71,7 +71,7 @@ Most homesteads do not generate significant profit in the first 3-5 years. Plan 
 - Eggs: $4-$8/dozen, 10-20 hens can produce 5-14 dozen/week in peak season
 - Pastured poultry (meat chickens): $4-$6/lb dressed weight, 2-3 batches of 50-100 birds per year
 - Goat milk and dairy products: $8-$12/gallon for raw milk where legal, cheese and soap for higher margins
-- Vegetables: $2-$8/lb depending on crop and market ([[farmers-market-selling-guide]], CSA, restaurant sales)
+- Vegetables: $2-$8/lb depending on crop and market (farmers market, CSA, restaurant sales)
 - Value-added products: jams, pickles, baked goods, herbal products, soap, candles. See homestead crafts
 - Nursery plants and seeds: $3-$10/plant for starts, $2-$5/packet for seeds
 - Meat rabbits: breeding stock, processed fryers
@@ -93,7 +93,7 @@ If you operate your homestead as a business (even a small one), you may deduct o
 - **Vehicle expenses** — mileage or actual expenses for farm-related travel
 - **Depreciation** — equipment, buildings, fencing, and improvements depreciated over their useful life (3-20 years depending on asset)
 - **Soil and water conservation expenses** — up to 25% of gross farm income
-- **Agricultural tax exemptions** — many states exempt [[coleman-small-farm-equipment-and-tools]], feed, seed, and fertilizer from sales tax
+- **Agricultural tax exemptions** — many states exempt farm equipment, feed, seed, and fertilizer from sales tax
 
 **Important:** The IRS requires you to show profit intent. If you report a loss for 3 out of 5 consecutive years, the IRS may reclassify your farm as a hobby, eliminating deductions. Keep good records — see [[homestead-record-keeping]].
 
@@ -101,8 +101,8 @@ If you operate your homestead as a business (even a small one), you may deduct o
 
 - **NRCS EQIP (Environmental Quality Incentives Program)** — cost-share for conservation practices (fencing, water systems, cover crops, pasture improvement). Pays 50-75% of costs.
 - **USDA FSA loans** — beginning farmer loans, farm ownership loans, operating loans at below-market rates.
-- **State [[fukuoka-critique-agricultural-development]] programs** — many states offer grants for young farmers, specialty crops, and value-added products.
-- **SARE grants** — research and education grants for [[phosphate-accumulators-sustainable-agriculture]] projects.
+- **State agricultural development programs** — many states offer grants for young farmers, specialty crops, and value-added products.
+- **SARE grants** — research and education grants for sustainable agriculture projects.
 - **USDA Rural Development** — grants and loans for rural housing, community facilities, and utilities.
 
 Search grants.gov and your state department of agriculture for current opportunities.

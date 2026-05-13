@@ -16,25 +16,10 @@ type: concept
 
 # Underground Fungal Networks
 
-Underground fungal networks, often called [[mycorrhizal-fungi]] form mutualistic
-symbiotic associations with the roots of most terrestrial plants.
+Underground fungal networks, often called [[mycelium-as-natures-internet]]
 
-## Mycorrhizal Associations
-
-The term mycorrhiza (from the Greek *mykes*, fungus, and *rhiza*,
-root) describes the symbiotic relationship between fungi and plant
-roots. In [[mycelium-as-natures-internet]]
-
-- [[mycelium-running-stamets-fungal-ecology-networks]]
 - [[mycelial-networks]](mycelium-network.md)
-- [[fungal-symbiosis-with-plants]](fungal-symbiosis-with-plants.md)
-- [[bloomfield-fungal-pathogens-and-parasites]] and Human Disease]([[fungal-life-cycles]](fungal-life-cycles.md)
-
-## References
-
-- Money, N. P. (2002). *Mr. Bloomfield's Orchard: The Mysterious World
-  of Mushrooms, Molds, and Mycologists*. Oxford University Press.
-  Chapter 3: What [[bloomfield-what-lies-beneath-mycelial-architecture-hyphal-biology-subterranean-fungus]].
+- [[bloomfield-fungal-pathogens-and-parasites]] and Human Disease]([[bloomfield-what-lies-beneath-mycelial-architecture-hyphal-biology-subterranean-fungus]].
 - Webster, J. (1980). *Introduction to Fungi*. Cambridge University
   Press.
 - Smith, S. E. & Read, D. J. (2008). *mycorrhizal-symbiosis*, 3rd
@@ -88,3 +73,78 @@ and analytical methods offer opportunities for refinement and innovation
 that can enhance both the effectiveness and efficiency of implementation.
 
 Integration with other disciplines and approaches creates synergies that
+
+## Overview
+
+Underground Fungal Networks represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish underground fungal networks
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving underground extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Underground Fungal Networks finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for underground fungal networks. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+underground fungal networks and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Underground Fungal Networks has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of underground fungal networks into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and

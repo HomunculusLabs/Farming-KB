@@ -9,7 +9,7 @@ sources: []
 
 # Cannabis Flavonoids
 
-Flavonoids are a diverse class of phytonutrients found throughout the plant kingdom, responsible for the non-green pigmentation in plants (yellow, red, blue, purple hues). In cannabis, flavonoids contribute to flavor, aroma, color, and therapeutic effects. They are less discussed than cannabinoids and terpenes but play an important role in [[cannabis-terpene-entourage-effect]] and the plant's medicinal profile.
+Flavonoids are a diverse class of phytonutrients found throughout the plant kingdom, responsible for the non-green pigmentation in plants (yellow, red, blue, purple hues). In cannabis, flavonoids contribute to flavor, aroma, color, and therapeutic effects. They are less discussed than cannabinoids and terpenes but play an important role in the entourage effect and the plant's medicinal profile.
 
 ## What Are Flavonoids?
 
@@ -18,7 +18,7 @@ Flavonoids are polyphenolic compounds with a 15-carbon skeleton (two benzene rin
 Functions in cannabis:
 - Pigmentation: responsible for purple, blue, red, and yellow coloration in flowers and leaves
 - UV protection: flavonoids absorb UV radiation, protecting plant tissues
-- Pathogen defense: antifungal and [[medicinal-mushroom-antimicrobial-properties]]
+- Pathogen defense: antifungal and antimicrobial properties
 - Attraction: color and scent signals for pollinators
 - Allelopathy: some flavonoids inhibit competing plant growth
 
@@ -32,7 +32,7 @@ Cannabis produces several flavonoids that are unique to the species. The most st
 - A prenylated flavone (flavonoid with an isoprenyl group attached)
 - Potent anti-inflammatory: shown to be 30 times more potent than aspirin at inhibiting COX-2 (cyclooxygenase-2) enzyme
 - Does not produce psychoactive effects
-- Potential [[psilocybin-therapeutic-applications]]: arthritis, [[blesching-cannabis-inflammatory-bowel-disease]], neuroinflammation
+- Potential therapeutic applications: arthritis, inflammatory bowel disease, neuroinflammation
 - Concentration is very low in raw plant material (typically less than 0.1% of dry weight)
 - Biosynthetic pathway involves prenyltransferase enzymes unique to cannabis
 
@@ -42,7 +42,7 @@ Cannabis produces several flavonoids that are unique to the species. The most st
 - Also shows significant anti-inflammatory activity
 - COX-2 and prostaglandin inhibition
 - Both cannflavins are of significant pharmaceutical interest
-- [[fukuoka-critique-genetic-engineering]] research aims to produce cannflavins in other organisms (yeast, bacteria) at commercial scale
+- Genetic engineering research aims to produce cannflavins in other organisms (yeast, bacteria) at commercial scale
 
 ### Cannflavin C and Others
 
@@ -88,7 +88,7 @@ Beyond the cannflavins, cannabis contains many flavonoids shared with other plan
 - Found in celery, peppers, carrots, and cannabis
 - Potent anti-inflammatory through NF-kB pathway inhibition
 - Antioxidant properties
-- Neuroprotective: studied for potential in preventing [[blesching-cannabis-neurodegenerative-diseases]]
+- Neuroprotective: studied for potential in preventing neurodegenerative diseases
 - Anti-histamine properties
 - In cannabis: supports the overall anti-inflammatory therapeutic profile
 
@@ -141,10 +141,10 @@ Cool temperatures during flowering trigger anthocyanin accumulation, producing p
 
 ### Nutrient Status
 
-Phosphorus and potassium levels influence flavonoid biosynthesis. Deficiencies can stress plants into producing more flavonoids as protective compounds, though this is not an optimal production strategy.
+## See Also
 
-### Post-Harvest
-
-Flavonoids are relatively stable compared to terpenes but can degrade with excessive light, heat, or prolonged storage. Proper curing conditions preserve flavonoid content.
-
-## Extraction and Isolation
+- [[cannabis-cultivar-microbiome-specificity]]
+- [[weighted-vs-unweighted-unifrac-cannabis-strain-microbiome]]
+- [[cannabis-and-endometriosis]]
+- [[blesching-cannabis-immune-system-modulation]]
+- [[cannabis-seed-germination-viability-breeding-clarke]]

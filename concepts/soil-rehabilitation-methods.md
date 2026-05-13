@@ -43,39 +43,7 @@ Compacted, collapsed, and eroded soils require **rehabilitative aeration** combi
 Wasteful or polluting fertilisation can be replaced by:
 
 - **Foliar sprays** of trace elements in very small amounts, greatly assisting plant establishment
-- **[[seed-pelleting]]** using key elements that are locally deficient in plants
-- **Legume integration** to create total nitrogen for food crops via interplanting and green manures
-- Unlocking phosphate locked up in clays through biological activity
-
-### 4. Crop and Plant Species Selection
-
-Many older crop varieties yield with less fertiliser and water than recently developed varieties. Additional benefits include:
-
-- Superior flavour (e.g., heritage Pippin and Russet apples versus market varieties)
-- Pest and disease resistance
-- Medicinal value
-- Reliable production in sub-optimal conditions
-
-**Pioneer species** — including so-called noxious weeds — colonise eroded landscapes and begin the slow march towards stabilisation. These can be harvested as mulches.
-
-## Building Soil at Garden Scale
-
-Gardeners build soil through three integrated processes:
-
-1. **Shape the earth**: Raise or lower beds to facilitate watering or drainage, carefully levelling surfaces
-2. **Mix amendments**: Incorporate compost, humus materials, clay, sand, or nutrients to bring soil to balance
-3. **Mulch**: Reduce water loss, sun exposure, and erosion with surface organic matter
-
-Accessory systems include growing compost materials as hedgerows, herbs, or plantation within and around the garden, combined with trellis, shadecloth, glasshouses, and trickle irrigation.
-
-## Building Soil at Farm Scale
-
-Large-scale systems require different approaches unless producing high-value product:
-
-- **Broad-scale drainage** and soil conditioning
-- Primary aeration by machinery or biological agents
-- Careful plant and livestock management to maintain open, humus-rich soil
-- Introduction of deep-rooted species: [[daikon-radish]], comfrey, chicory, lucerne, tree legumes
+- **[[daikon-radish]], comfrey, chicory, lucerne, tree legumes
 - Worm species introduction to pastures
 - Livestock management for minimal compaction and over-grazing
 
@@ -86,15 +54,7 @@ Where mechanical implements cannot reach, deep-rooted plants serve as living soi
 | Region | Biological Chisel Species |
 |---|---|
 | Japan (Fukuoka) | Radish, Acacia |
-| Africa | [[acacia-albida]], Glyricidia |
-| New Guinea | Casuarina |
-| Mediterranean | Tamarix |
-
-For difficult terrain — boulder fields, dunes, steep slopes, laterites — **mixed legume/non-legume forests** (citrus, olive, pine, oak) provide the best permanent solution.
-
-## Evidence of Effectiveness
-
-Research by [[erik-van-der-werf]] at the Agomeda Agricultural Project in Ghana measured soil improvement through bulk density (g/cc):
+| Africa | [[erik-van-der-werf]] at the Agomeda Agricultural Project in Ghana measured soil improvement through bulk density (g/cc):
 
 | Soil Treatment | Bulk Density |
 |---|---|
@@ -112,3 +72,79 @@ The mulched soils showed dramatically improved aeration, soil temperatures 10°C
 3. **Older crop varieties are more resilient** — preserve and cultivate heritage varieties
 4. **Weeds are pioneers, not enemies** — they initiate the rehabilitation sequence
 5. **Scale determines method** — gardens use sheet mulch; farms use chisel ploughs and managed grazing
+
+## Overview
+
+Soil Rehabilitation Methods represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish soil rehabilitation methods
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving soil extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Soil Rehabilitation Methods finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for soil rehabilitation methods. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+soil rehabilitation methods and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Soil Rehabilitation Methods has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of soil rehabilitation methods into broader
+systems requires careful planning and observation.
+
+## See Also
+
+- [[casing-soil-sterilization-versus-pasteurization-debate-mushroom-cultivation]]
+- [[comparison-no-till-vs-mulch-soil-management]]
+- [[soil-conditioning-chisel-plow-biological-methods]]
+- [[cannabis-living-soil-guide]]
+- [[soil-fertility-gradient-approach]]

@@ -47,7 +47,7 @@ shipment in time for the holiday.
 Successful photoperiod manipulation requires precise control over both the timing
 and quality of light. The light interruption must occur during the middle of the
 dark period for maximum effectiveness. Red light is most efficient, as it
-specifically activates phytochrome, the photoreceptor responsible for photoperiod
+specifically activates [[phytochrome]], the photoreceptor responsible for photoperiod
 perception. Modern operations typically use LED fixtures emitting in the red
 spectrum (approximately 660 nm) for energy efficiency.
 
@@ -113,8 +113,6 @@ chrysanthemum grower's toolkit.
 
 ## See Also
 
-- [[night-interruption-photoperiodism]]
 - [[short-day-long-day-plant-flowering-classification]]
-- [[phytochrome-ecological-red-far-red-dusk-dawn-signaling]]
 - [[photoperiodism-garner-allard-discovery]]
 - [[chamovitz-maryland-mammoth-photoperiodism-discovery]]

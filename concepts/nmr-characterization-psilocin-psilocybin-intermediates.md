@@ -19,7 +19,7 @@ type: concept
 
 The Shirota, Hakamata, and Goda (2003) paper provides comprehensive
 NMR characterization of psilocin (compound 1), psilocybin (compound 2),
-the [[psilocybin-synthesis-zwitterionic-phosphate-intermediate-shirota-2003]] [[jadam-ambient-temperature-principle]].
+the [[jadam-ambient-temperature-principle]].
 
 ## General Experimental Conditions
 
@@ -27,7 +27,7 @@ the [[psilocybin-synthesis-zwitterionic-phosphate-intermediate-shirota-2003]] [[
   compounds measured in CDCl3. For psilocybin measured in D2O, the
   solvent residue peak (HDO) was used for the 1H NMR reference, and
   one drop of methanol was added as the 13C NMR reference.
-- **31P NMR**: [[4-hydroxyindole]] with an ethylamine [[shirota-glyoxalylamide-side-chain-construction-psilocin-synthesis]]:
+- **31P NMR**: [[shirota-glyoxalylamide-side-chain-construction-psilocin-synthesis]]:
 
 - 7.90 ppm (1H, br s): Indole NH (H-1)
 - 7.05 ppm (1H, d, J = 8.0 Hz): H-6
@@ -88,3 +88,11 @@ singlet because exchange with D2O eliminates the NH coupling.
 - 108.6 ppm: C-3 (quaternary)
 - 108.4 ppm: C-7
 - 59.7 ppm: C-2' (CH2, shifted downfield vs. psilocin)
+
+## See Also
+
+- [[shirota-psilocin-psilocybin-spectroscopic-characterization-forensic-standards]]
+- [[shirota-psilocybin-crystal-form-spectral-data-and-analytical-characterization]]
+- [[psilocin-psilocybin-characterization]]
+- [[shirota-psilocin-spectral-characterization-forensic-reference-standard]]
+- [[shirota-4-acetylindole-crystallization-nmr-characterization-synthesis]]

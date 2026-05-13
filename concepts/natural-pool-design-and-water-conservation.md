@@ -87,6 +87,13 @@ Soil samples revealing 40% or more clay content indicate sites suited to earth-d
 
 ## See Also
 
-- [[natural-swimming-pools-and-water-design]]
 - [[natural-farm-water-conservation-irrigation]]
 - [[fukuoka-textdoc-natural-three-dimensional-orchard-design]]
+
+## See Also
+
+- [[knf-livestock-chicken-house-natural-farming]]
+- [[four-principles-of-natural-farming]]
+- [[fukuoka-natural-diet-movement-america-europe]]
+- [[ultra-low-cost-jadam-natural-pesticide-jnp]]
+- [[blesching-anandamide-exercise-natural-endocannabinoid-enhancement]]

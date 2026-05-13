@@ -9,18 +9,11 @@ sources:
 
 # McKenna's Stropharia Hypothesis
 
-In his 1983 Esalen lecture "[[terence-mckenna]] advanced one of his most provocative proposals: that
-*[[spore]] Biology as Evidence
+In his 1983 Esalen lecture "[[spore]] Biology as Evidence
 
-McKenna marshaled evidence from the biology of [[query-how-to-store-mushroom-spores-long-term]] to
-support the extraterrestrial [[southern-hemisphere-origin-hypothesis-neurotropic-fungi-guzman-1998]].
+McKenna marshaled evidence from the biology of [[southern-hemisphere-origin-hypothesis-neurotropic-fungi-guzman-1998]].
 
-The spores of *[[mckenna-stropharia-cubensis-extraterrestrial-hypothesis-spore-dispersal]]* are deep purple in color, which
-McKenna argued is an adaptation for absorbing deep ultraviolet
-radiation — the kind encountered in interstellar space.
-
-Their outer casing is among the hardest organic substances known, and
-their [[mckenna-fungal-fossil-gap-spore-electron-density-and-metal-hardness]] approaches that of metal. These are not
+The spores of *[[mckenna-fungal-fossil-gap-spore-electron-density-and-metal-hardness]] approaches that of metal. These are not
 properties expected from an organism that evolved exclusively in the
 sheltered environment of Earth's surface.
 
@@ -30,11 +23,7 @@ temperatures, and the vacuum of space.
 
 ## Galactic Dispersal Strategy
 
-The proposed mechanism for [[spore-interstellar-dispersal-hypothesis]] is grounded in
-physical principles. Mushroom spores are incredibly light and numerous.
-
-A single fruiting body releases billions of spores. In the upper
-atmosphere, these would be subject to [[mckenna-spore-brownian-motion-and-galactic-percolation]] and the impulse
+The proposed mechanism for [[mckenna-spore-brownian-motion-and-galactic-percolation]] and the impulse
 of energetic particles — cosmic rays, solar wind, and other
 high-energy phenomena.
 
@@ -87,3 +76,75 @@ new patches of ground, but potentially new worlds.
 
 The combination gives the organism a strategy operating on both
 planetary and galactic scales.
+
+## Overview
+
+Mckenna Stropharia Hypothesis represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish mckenna stropharia hypothesis
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving mckenna extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Mckenna Stropharia Hypothesis finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for mckenna stropharia hypothesis. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+mckenna stropharia hypothesis and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Mckenna Stropharia Hypothesis has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of mckenna stropharia hypothesis into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions

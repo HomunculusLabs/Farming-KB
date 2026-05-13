@@ -4,10 +4,7 @@
 
 ## Core Concept
 
-Fungal mycelia function as integrated [[biological-transport-networks]], moving nutrients
-between different regions of the colony through internal translocation
-mechanisms. Modern imaging techniques — particularly photon-counting
-[[pcsi-scintillation-imaging-mycelial-nutrient-transport-bebber]] (PCSI) using radiolabeled compounds — have revealed
+Fungal mycelia function as integrated [[pcsi-scintillation-imaging-mycelial-nutrient-transport-bebber]] (PCSI) using radiolabeled compounds — have revealed
 that this transport is far more dynamic and complex than previously
 understood, involving both steady-state fluxes and pulsatile transport
 events coordinated across the mycelial network.
@@ -19,11 +16,7 @@ outward from a food source. They are integrated, networked systems capable
 of:
 - Moving nutrients from resource-rich zones to resource-poor zones
 - Coordinating growth direction toward new resources
-- Shifting internal [[mycelial-foraging-resource-allocation]] in response to environmental change
-- Maintaining communication between distant parts of the colony
-
-This transport capacity is fundamental to how fungi explore and exploit
-[[fungal-mycelial-foraging-heterogeneous-environments]] like soil, where nutrients are distributed in
+- Shifting internal [[fungal-mycelial-foraging-heterogeneous-environments]] like soil, where nutrients are distributed in
 patches rather than uniformly.
 
 ## Vacuolar Transport at the Cellular Level
@@ -60,20 +53,7 @@ coordinating tip growth and branching by modulating translocation capacity.
 ## Photon-Counting Scintillation Imaging (PCSI)
 
 A novel non-invasive technique was developed to track radiolabeled
-[[nutrient-movement-through-soil-to-plant-roots]] intact mycelial networks growing on scintillation
-screens.
-
-### Method
-14C-labelled amino-isobutyrate (AIB), a non-metabolized amino acid
-analogue, is taken up by mycelium growing from a central inoculum. The
-distribution of radiolabel is tracked over time using photon-counting
-scintillation imaging, providing spatial maps of nutrient allocation
-without destroying the colony.
-
-### Growth Phase Analysis
-Colony development follows two distinct phases:
-1. **Symmetric growth phase** — uniform radial expansion with relatively
-   even [[savory-dung-behavior-and-nutrient-distribution]]
+[[savory-dung-behavior-and-nutrient-distribution]]
 2. **Asymmetric growth phase** — sparser, directional growth focused toward
    resources, with canalized flow patterns emerging in cords
 

@@ -11,13 +11,7 @@ type: entity
 # Sapodilla
 
 **Type:** Species (Plant)
-**Category:** Evergreen [[comparison-berry-growing-vs-fruit-tree-pruning]]
-**Also known as:** Manilkara zapota, sapota, Santo Domingo apricot,
-marmalade plum, naseberry, nispero, chiku, chicle tree
-
-## Overview
-Sapodilla is a large, slow-growing, attractively shaped evergreen tree
-(5-18 m) native to [[guzman-allen-gartz-neurotropic-fungi-central-america-caribbean]]. It produces russet-brown fruit with
+**Category:** Evergreen [[guzman-allen-gartz-neurotropic-fungi-central-america-caribbean]]. It produces russet-brown fruit with
 honey-coloured, juicy, very sweet pulp. The tree is the original source
 of chicle, the natural latex base for chewing gum. It begins fruiting
 at about 8 years from seed (3-4 years from grafts), is drought
@@ -37,41 +31,7 @@ termite-resistant timber used since Mayan times.
 - **First fruit:** 8 years from seed, 3-4 years from grafts
 
 ### Growth Requirements
-- Soil: Prefers moist, well-drained soil with [[hamilton-composting-and-organic-matter-management]]; adaptable
-  to many soil types
-- Drought: Tolerant
-- Salt spray: Reasonably tolerant
-- Flooding: Tolerant
-- Wind: Tolerant
-- Temperature: Needs warm climate; tolerates very high temperatures
-- Pollination: Cross-pollination desirable but not essential
-
-### Fruit Characteristics
-- Produced in pairs, resembling quince in shape
-- Russet-brown colour when ripe
-- Honey-coloured pulp: juicy, tender, very sweet
-- Must be picked fully ripe; immature fruits contain tannin and milky
-  inedible juice
-- Seeds are hooked and can lodge in throat; should be removed
-
-### Nutritional Composition (per 100 g)
-- Energy: 89 calories
-- Carbohydrate: 21.8 g
-- Fat: 1.1 g
-- Protein: 0.5 g
-- Potassium: 193 mg
-- Vitamin A: 60 I.U.
-- Ascorbic acid: 14 mg
-
-### Uses
-- **Food:** Fresh eating; jams and jellies; young leaves also edible
-- **Chicle production:** Tapping the bark produces latex (chicle) used
-  as the base for chewing gum
-- **Timber:** Good, strong, durable, termite-resistant wood; used for
-  furniture, cabinet making, railway sleepers, flooring, tool handles,
-  rulers; Mayan temple lintels still intact
-- **Shade:** Good shade or windbreak species
-- **[[permaculture-designers-manual-animal-forage-systems]]:** Some potential
+- Soil: Prefers moist, well-drained soil with [[permaculture-designers-manual-animal-forage-systems]]:** Some potential
 
 ### Propagation
 - Grafted plants preferred (seed-grown trees may not grow true to type)
@@ -81,11 +41,92 @@ termite-resistant timber used since Mayan times.
 Sapodilla is a remarkably multi-purpose tropical tree combining sweet
 fruit production with chicle (gum) harvesting and some of the most
 durable timber available. Its termite-resistant wood has proven itself
-over millennia in Mayan architecture. For [[agroforestry]] systems.
-
-## See Also
-
-- [[lucuma-entity]]
+over millennia in Mayan architecture. For [[lucuma-entity]]
 - [[persimmon-entity]]
 - Chicle
 - Mamey Sapote
+
+## Overview
+
+Sapodilla Entity represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish sapodilla entity
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving sapodilla extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Sapodilla Entity finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for sapodilla entity. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+sapodilla entity and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Sapodilla Entity has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of sapodilla entity into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[2c-g-3-entity]]
+- [[4-5-mdo-dmt-entity-tihkal]]
+- [[5-6-mdo-dipt-entity-tihkal]]
+- [[mdcpm-entity-pihkal]]
+- [[methyl-k-entity-pihkal]]

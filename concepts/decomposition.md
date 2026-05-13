@@ -10,52 +10,9 @@ type: concept
 
 # Decomposition
 
-Decomposition is the biological process by which [[fukuoka-textdoc-composting-critique-futility-prepared-organic-matter]] is broken
-down into simpler organic and inorganic compounds. It is the engine of
-[[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] in all ecosystems, returning carbon, nitrogen, phosphorus,
+Decomposition is the biological process by which [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] in all ecosystems, returning carbon, nitrogen, phosphorus,
 and other elements to forms usable by primary producers. Without
-decomposition, ecosystems would rapidly accumulate dead [[savory-soil-organic-matter-and-decomposition-dynamics]]
-run out of available nutrients — effectively halting life.
-
-## The Decomposition Process
-
-Decomposition proceeds through three overlapping phases:
-
-### Leaching
-
-In the initial hours to days after organism death, water-soluble compounds
-— sugars, amino acids, mineral ions — dissolve and leach into surrounding
-soil or water. This phase is abiotic and rapid, removing 10–30% of the
-initial mass of leaf litter. Leached compounds fuel microbial growth in
-the immediate vicinity, initiating the biological decomposition cascade.
-
-### Fragmentation and Catabolism
-
-Invertebrate detritivores (earthworms, millipedes, springtails, termites)
-physically break down organic material, increasing surface area for microbial
-colonization. This fragmentation is a rate-limiting step in many ecosystems,
-particularly in arid environments where invertebrate activity is suppressed.
-
-Microorganisms — primarily fungi and bacteria — then catabolize the
-fragmented material through enzymatic breakdown. Fungi secrete extracellular
-enzymes (exoenzymes) that depolymerize complex polymers outside the cell,
-absorbing the resulting monomers and oligomers. Bacteria, lacking the
-extensive extracellular enzymatic repertoire of fungi, rely more on soluble
-substrates and operate at smaller spatial scales.
-
-### Humification and Mineralization
-
-As decomposition progresses, a fraction of the organic matter becomes
-chemically stabilized into humus — complex, recalcitrant organic compounds
-resistant to further microbial attack. Humus contributes to soil structure,
-[[mollison-designers-tropical-soils-and-cation-exchange-management]] capacity, and long-term [[fungal-peat-decomposition-and-carbon-storage]]. The remaining
-nutrients are fully mineralized into inorganic forms (CO₂, NH₄⁺, PO₄³⁻,
-SO₄²⁻) available for plant uptake.
-
-## Factors Controlling Decomposition Rates
-
-Decomposition rates vary enormously across ecosystems, from weeks in tropical
-forests to centuries in [[fungal-diversity-boreal-forests-taiga]] and tundra. The principal controlling
+decomposition, ecosystems would rapidly accumulate dead [[mollison-designers-tropical-soils-and-cation-exchange-management]] capacity, and long-term [[fungal-diversity-boreal-forests-taiga]] and tundra. The principal controlling
 factors are:
 
 ### Substrate Quality
@@ -64,17 +21,7 @@ The carbon-to-nitrogen (C:N) ratio is the strongest predictor of decomposition
 rate. Materials with low C:N ratios (fresh leaves, ~20:1) decompose rapidly
 because nitrogen is not limiting for microbial growth. High C:N materials
 (wood, ~400:1; conifer needles, ~60:1) decompose slowly because microbes
-must import nitrogen from surrounding soil to support [[fungal-extracellular-enzyme-production]].
-
-Lignin content is equally important. Lignin, a complex aromatic polymer,
-is highly recalcitrant and can only be degraded by white-rot basidiomycete
-fungi and certain actinobacteria. The lignin-to-nitrogen (L:N) ratio is
-often a better predictor of decomposition rate than C:N alone, particularly
-for woody materials.
-
-### Climate
-
-[[mushroom-growing-temperature-and-moisture]] are the primary climatic controls. Decomposition
+must import nitrogen from surrounding soil to support [[mushroom-growing-temperature-and-moisture]] are the primary climatic controls. Decomposition
 approximately follows a Q₁₀ relationship with temperature — rates roughly
 double for each 10°C increase — up to an optimum around 25–30°C. Moisture
 affects both microbial physiology and invertebrate activity; optimal
@@ -82,12 +29,7 @@ decomposition occurs at 60–80% water-holding capacity. Both desiccation
 and waterlogging (which creates anaerobic conditions) suppress decomposition.
 
 The combination of temperature and moisture explains the global pattern of
-decomposition: fastest in warm, wet [[fungal-biodiversity-tropical-forests]]; slowest in cold, dry
-tundra environments.
-
-### Soil Chemistry and Biology
-
-Soil pH influences microbial [[core-endorhiza-bacterial-community-composition-cannabis]] — fungi dominate in
+decomposition: fastest in warm, wet [[core-endorhiza-bacterial-community-composition-cannabis]] — fungi dominate in
 
 ## Practical Applications
 
@@ -118,8 +60,91 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[doc]]
 - [[dom]]
-- [[det]]
 - [[composting]]
 - [[fungal-ecology-decomposition-cycles]]
+
+## Overview
+
+Decomposition represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish decomposition
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving decomposition extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Decomposition finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for decomposition. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+decomposition and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Decomposition has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of decomposition into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[bloomfield-aquatic-hyphomycete-leaf-decomposition]]
+- [[fungal-ecology-and-decomposition]]
+- [[fungal-enzymes-in-decomposition]]
+- [[fungal-tannin-and-phenolic-decomposition]]
+- [[lowenfels-soil-fungi-decomposition]]

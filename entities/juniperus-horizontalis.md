@@ -29,7 +29,7 @@ The species exhibits remarkable phenotypic plasticity across its range. Plants i
 
 ## Taxonomy and Morphology
 
-**Juniperus horizontalis** Moench was described by Conrad Moench in 1794. The species is closely related to *Juniperus scopulorum* and *Juniperus virginiana*, and hybridization occurs where ranges overlap. The specific epithet *horizontalis* refers to its characteristic prostrate, spreading growth habit. No subspecies or varieties are formally recognized, though considerable morphological variation exists across the range.
+**Juniperus horizontalis** Moench was described by Conrad Moench in 1794. The species is closely related to *[[juniperus-scopulorum]]* and *Juniperus virginiana*, and hybridization occurs where ranges overlap. The specific epithet *horizontalis* refers to its characteristic prostrate, spreading growth habit. No subspecies or varieties are formally recognized, though considerable morphological variation exists across the range.
 
 Molecular phylogenetic studies place creeping juniper within the *Juniperus* section Sabina, a large group of scale-leaved junipers distributed across the Northern Hemisphere. Hybridization with eastern red cedar has been documented in the Great Lakes region, producing intermediate forms that complicate field identification. The species is chromosomally variable, with both diploid and tetraploid populations reported from different parts of its range.
 
@@ -63,17 +63,11 @@ The species is long-lived for a groundcover shrub, with individual plants common
 
 After fire, creeping juniper recovers primarily through seedling establishment rather than vegetative regrowth from surviving tissue. Seed dispersal from unburned patches facilitates gradual recolonization of burned areas. On frequently burned sites, the species may be replaced by grasses and forbs that establish more rapidly from soil-stored seed banks.
 
-Root systems are shallow but extensive, consisting of dense networks of fine roots in the upper 30 cm of soil. The species is highly drought-tolerant once established, drawing moisture from a large soil volume through its widespreading root system. On sandy sites, roots may extend 2–3 m laterally from the plant crown. [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]] through associated [[arbuscular-mycorrhizal-fungi-biology-symbiosis]] contributes to growth on nutrient-poor substrates.
+Root systems are shallow but extensive, consisting of dense networks of fine roots in the upper 30 cm of soil. The species is highly drought-tolerant once established, drawing moisture from a large soil volume through its widespreading root system. On sandy sites, roots may extend 2–3 m laterally from the plant crown. [[arbuscular-mycorrhizal-fungi-biology-symbiosis]] contributes to growth on nutrient-poor substrates.
 
 ## Uses and Cultivation
 
-Creeping juniper is one of the most widely planted groundcover conifers in North America and Europe. Its low, spreading habit, tolerance of poor soils, and winter hardiness make it a staple of landscape design. The species is used extensively in highway plantings, parking lot medians, [[permplant-willows-salix-erosion-control-fodder]] projects, and residential foundation plantings. It is particularly valued in cold climates where few evergreen groundcovers survive.
-
-The species tolerates urban conditions including air pollution, compacted soils, and road salt spray better than most conifers. Once established, creeping juniper requires minimal irrigation and maintenance, making it ideal for sustainable landscaping and xeriscaping. It is effective on steep slopes and embankments where mowing is impractical, providing erosion control while requiring no regular care beyond occasional pruning of dead material.
-
-Numerous cultivars have been selected for variation in foliage color, growth rate, and form. 'Wiltonii' (Blue Rug juniper) is the most popular, forming a dense, silver-blue mat only 10–15 cm tall. 'Plumosa' has upright, feathery branch tips with bronze winter color. 'Mother Lode' features golden-yellow new growth. 'Bar Harbor' is known for its excellent cold hardiness and purple winter tints.
-
-'Crimson Pygmy' is a compact form reaching only 30 cm tall with deep green summer foliage that turns burgundy in winter. 'Andorra Compacta' has a dense, cushion-like habit with steel-blue foliage and bronze-purple winter coloration. These cultivars are propagated by softwood and hardwood cuttings, with rooting percentages of 60–90% under mist propagation. Nursery production of creeping juniper cultivars is a significant segment of the [[growing-gourmet-north-american-reishi-species]] nursery industry.
+Creeping juniper is one of the most widely planted groundcover conifers in North America and Europe. Its low, spreading habit, tolerance of poor soils, and winter hardiness make it a staple of landscape design. The species is used extensively in highway plantings, parking lot medians, [[growing-gourmet-north-american-reishi-species]] nursery industry.
 
 Indigenous peoples used creeping juniper for various practical purposes. The aromatic boughs were placed in storage caches to deter insects and rodents. Cones were eaten fresh or dried for later use. Some tribes used the plant medicinally, preparing decoctions of foliage and cones to treat colds, coughs, and digestive complaints. The flexible, rooted branches were used in basketry and mat construction by northern peoples.
 
@@ -83,8 +77,4 @@ The Ojibwe and Cree peoples traditionally harvested creeping juniper cones as a 
 
 Creeping juniper is secure across most of its range and is not considered threatened. The species is widespread and locally abundant in boreal and montane habitats. However, populations in the Great Lakes sand dunes have declined in some areas due to habitat loss from development, recreational use, and invasive species competition.
 
-[[dighton-fungi-climate-change-feedback]] effects on creeping juniper are not well studied but are expected to be less severe than for montane and subalpine conifers due to the species' broad ecological amplitude. The main conservation concern involves the preservation of natural dune and alvar communities where creeping juniper is a keystone species. Invasive species such as spotted knapweed and leafy spurge can outcompete creeping juniper on disturbed sandy sites.
-
-## See Also
-
-- [[juniperus-communis]]
+[[juniperus-communis]]

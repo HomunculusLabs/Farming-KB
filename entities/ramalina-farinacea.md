@@ -55,13 +55,7 @@ The species also occurs on rock and wooden fence posts, though these substrates 
 
 Altitudinal range is from sea level to approximately 1200 m. It becomes less frequent at higher elevations where it is replaced by more cold-tolerant lichen species.
 
-The species is also present in the [[guzman-allen-gartz-africa-southern-hemisphere-underexplored-neurotropic-fungi]], with records from southeastern Australia, New Zealand, and South America. These populations may have been introduced or may represent natural long-distance dispersal events.
-
-In Mediterranean climates, *R. farinacea* is one of the dominant epiphytic lichens on olives and oaks. It benefits from the relatively mild, humid winters typical of these regions.
-
-## Chemistry
-
-*Ramalina farinacea* contains several characteristic [[antifungal-secondary-metabolites-coprophilous-fungi]]. The primary substances are **usnic acid** in the cortex and **evernic acid** or **everninic acid** in the medulla.
+The species is also present in the [[antifungal-secondary-metabolites-coprophilous-fungi]]. The primary substances are **usnic acid** in the cortex and **evernic acid** or **everninic acid** in the medulla.
 
 The medullary chemistry is variable, with two main chemotypes recognised. One chemotype contains evernic acid as the dominant medullary substance, while the other contains everninic acid.
 
@@ -81,16 +75,7 @@ The species is widely used in air quality biomonitoring programmes. Its thallus 
 
 Transplanted *R. farinacea* samples have been deployed in standardised biomonitoring networks across Europe. The concentration of metals in the thallus tissue provides a time-integrated measure of atmospheric contamination.
 
-In traditional medicine, *Ramalina* species have been used as poultices and wound dressings in several cultures. These applications likely exploit the [[mycelium-running-mushroom-antimicrobial-properties-species-chart]] of usnic acid and other lichen compounds.
+In traditional medicine, *Ramalina* species have been used as poultices and wound dressings in several cultures. These applications likely exploit the [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] by trapping dust particles and contributing organic matter to the bark surface. It is an early coloniser of young twigs and frequently establishes before other epiphytes.
 
-Ethnobotanical records from the Mediterranean indicate that *R. farinacea* was traditionally used to treat respiratory ailments. Decoctions of the lichen were applied as expectorants in folk medicine practices.
-
-The species plays a role in [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] by trapping dust particles and contributing organic matter to the bark surface. It is an early coloniser of young twigs and frequently establishes before other epiphytes.
-
-The photobiont partner is a trebouxioid green alga, typically assigned to the genus *Trebouxia*. Algal identity can influence the growth rate and [[fungal-lichen-stress-tolerance-and-poikilohydry]] of the lichen symbiosis.
-
-## See Also
-
-- [[ramalina-canariensis]]
-- [[ramalina-fraxinea]]
+The photobiont partner is a trebouxioid green alga, typically assigned to the genus *Trebouxia*. Algal identity can influence the growth rate and [[ramalina-canariensis]]
 - [[ramalina-menusis]]

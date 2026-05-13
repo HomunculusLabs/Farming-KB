@@ -28,26 +28,13 @@ The mycologist Nicholas Money has suggested that a systematic study of human
 decomposition from a mycological perspective would be invaluable, and proposed
 that a professional colleague with a strong stomach visit the FBI facility in
 Tennessee called the "Body Farm" — a research facility where human decomposition
-is studied under [[psilocybe-cubensis-strain-potency-variability-controlled-conditions-bigwood-beug]]. The resulting catalogue of fungal
-decomposers associated with human remains at various stages of decay would be
-an important reference for forensic investigation.
-
-## Hebeloma syriense: The Corpse Finder
-
-Among the most intriguing forensic fungi is *Hebeloma syriense*, a
-basidiomycete whose mycelium is known to colonize buried bodies. The appearance
-of its fruiting bodies above a gravesite can serve as botanical evidence of a
-concealed burial. Its common name — the "corpse finder" — reflects this grim
-association.
-
-The mechanism by which *Hebeloma syriense* locates buried remains is not fully
-understood, but likely involves [[plant-olfaction-chemical-sensing]] through the soil. Buried bodies
+is studied under [[plant-olfaction-chemical-sensing]] through the soil. Buried bodies
 release a complex mixture of decomposition products — amino acids, fatty acids,
 ammonia, and other organic molecules — that diffuse through surrounding soil.
 Fungal hyphae are capable of detecting and growing toward nutrient gradients, a
 phenomenon known as chemotropism. The nutrient-rich environment of a decomposing
 body would provide a powerful growth stimulus for soil-inhabiting fungi, drawing
-[[fungal-mycelial-networks-nutrient-translocation]] toward the source of [[query-how-do-plants-use-chemical-signals-to-defend-against-insects]] like iron filings drawn
+[[query-how-do-plants-use-chemical-signals-to-defend-against-insects]] like iron filings drawn
 to a magnet.
 
 The predictable appearance of *Hebeloma* fruiting bodies above burial sites
@@ -62,15 +49,7 @@ to estimate time since death.
 The relationship between fungi and decomposing animal tissue is ancient and
 deeply rooted. Fungi have been decomposing flesh for hundreds of millions of
 years, long before the appearance of mammals or any vertebrate animals. The
-oomycete *[[pythium-insidiosum-oomycete-human-infection-pythiosis]]*, an ancient pathogen that has existed for
-hundreds of millions of years, probably consumed the flesh of several kinds
-of prehistoric animals long before the appearance of mammals. Martha Powell,
-a world-renowned expert on zoospore-forming fungi, has found oomycetes growing
-in skin lesions on turtles and other reptiles in Alabama, offering a window
-into a lost world of exotic mycoses — a time when Pythium learned its
-flesh-penetrating tricks in the leg wounds of sauropods.
-
-Pathogenic fungi that now infect humans — such as *[[bloomfield-cryptococcus-neoformans-opportunistic-mycoses-aids]]*
+oomycete *[[bloomfield-cryptococcus-neoformans-opportunistic-mycoses-aids]]*
 and *Pythium insidiosum* — may be descendants of ancient flesh-decomposing
 species. The broad host range of *Cryptococcus* supports this hypothesis:
 infections have been reported in bats, camels, cats, cheetahs, civets, cows,
@@ -118,6 +97,5 @@ entomology and forensic anthropology.
 
 ## See Also
 
-- [[bloomfield-cryptococcus-neoformans-capsule-melanin-brain]]
 - [[bloomfield-pythiosis-insidiosi-swamp-cancer-oomycete-pathogen]]
 - [[bloomfield-fairy-rings-armillaria-giant-fungi]]

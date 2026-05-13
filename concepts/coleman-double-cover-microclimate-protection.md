@@ -4,7 +4,7 @@ created: 2026-05-08
 sources:
   - path: /Users/t3rpz/wiki/raw/papers/eliot-coleman-winter-harvest-handbook.md
     title: The coleman-claytonia-winter-harvest-cultivation Handbook - eliot-coleman
-    author: [[eliot-coleman]]
+    author: eliot-coleman
 updated: 2026-05-08
 type: concept
 tags: [reference]
@@ -14,10 +14,7 @@ tags: [reference]
 
 ## The Two-Layer Principle
 
-The core innovation behind successful [[coleman-winter-harvesting-techniques]] in cold
-climates is the use of double coverage -- a greenhouse outer layer
-combined with a lightweight inner layer of floating row cover. This
-simple technique transforms the [[cannabis-growing-environment-setup]] inside the beds
+The core innovation behind successful [[cannabis-growing-environment-setup]] inside the beds
 from one that would be impossible for plant growth into a protected
 microclimate where cold-hardy vegetables can thrive through the
 coldest months of the year.
@@ -25,51 +22,19 @@ coldest months of the year.
 The outer layer of the greenhouse provides the primary protection,
 sheltering plants from wind and precipitation while capturing solar
 energy during daylight hours. The inner layer -- typically a
-spun-bonded polyester [[coleman-row-cover-fabric-management]] such as Agribon P19 or P30 --
-creates a secondary zone of thermal protection immediately above the
-crop canopy. This [[coleman-cold-greenhouse-double-layer-protection]] system provides far more than the sum
+spun-bonded polyester [[coleman-cold-greenhouse-double-layer-protection]] system provides far more than the sum
 of its individual parts.
 
 ## Temperature Protection That Increases with Cold
 
-Research conducted both in the [[dmt-containing-plants-united-states-halpern]] and during a January 1996
-study trip along the 44th parallel in France and Italy has revealed
-a remarkable characteristic of double-layer protection. When the
-outside temperature drops to 25 degrees Fahrenheit (-4 degrees
-Celsius), the two layers together provide approximately 6 to 7
-degrees Fahrenheit (3.5 degrees Celsius) of freeze protection. This
-alone would be valuable, but the system becomes dramatically more
-effective as ambient temperatures fall further.
-
-When outside temperatures plunge to -15 degrees Fahrenheit (-26
-degrees Celsius), the double protection delivers 30 to 35 degrees
-Fahrenheit (16 to 19 degrees Celsius) of protection. This means that
-while the outside air may be far below freezing, the zone
-immediately surrounding the plants remains well above the damage
-threshold for cold-hardy crops. The colder it gets outside, the more
-valuable the inner layer becomes.
-
-## Zone Equivalency Through Layering
-
-Coleman describes this double-layer microclimate modification as
-moving the effective climate of the covered growing area approximately
-three USDA hardiness zones to the south. A farm located in Zone 5,
-for example, can achieve growing conditions equivalent to Zone 8
-through the simple addition of a second layer of protection inside the
-greenhouse.
-
-The practical significance of this zone shift cannot be overstated.
-Many crops that would be impossible to grow outdoors in a Zone 5
-winter -- including spinach, claytonia, mache, and various Asian
-greens -- not only survive but continue productive growth throughout
-the [[coleman-persephone-months-winter-day-length]]. The twice-tempered microclimate of the beds
+Research conducted both in the [[coleman-persephone-months-winter-day-length]]. The twice-tempered microclimate of the beds
 keeps soil temperatures above freezing even on the coldest nights,
 allowing replanting to continue right through winter.
 
 ## The Diurnal Heat Cycle
 
 A key factor in making this system work is the diurnal (daytime)
-influx of [[fukuoka-textdoc-three-dimensional-solar-energy-methodless-method]]. Even the wan sunlight of a cloudy [[coleman-winter-day-length-and-persephone-months]]
+influx of [[coleman-winter-day-length-and-persephone-months]]
 warms the covered beds above freezing during daylight hours. With the
 exception of one or two extremely cold winter days each year -- when
 an unusually cold night is followed by a heavily overcast day -- the
@@ -118,8 +83,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[doc]]
 - [[dmt]]
-- [[coleman-double-layer-protection-greenhouse-row-cover]]
 - [[coleman-double-cover-air-inflated-trial-temperature-data]]
 - [[coleman-double-cover-inflated-plastic-trial]]

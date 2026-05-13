@@ -8,62 +8,7 @@ sources: ["Shulgin - PIHKAL"]
 ---
 # BOD
 
-[[2c-b-pihkal-entry-20]] #14. 2,5,beta-Trimethoxy-4-methyl-PEA.
-
-## Dosage and Duration
-
-| Property | Value |
-|----------|-------|
-| Dosage | 15 - 25 mg. |
-| Duration | 8 - 16 h. |
-
-## Qualitative Comments
-
-> (with 20 mg) There were some very pleasant
-> visuals starting at 2-2.5 hours and continuing to 4-5 hours after the
-> beginning of the experiment. Open eye visuals seem to come on after
-> staring at particular areas, such as the living room ceiling or at
-> trees. The surroundings tended to move slightly. There was no
-> flowing of the images at all. When looking at the pine trees, the
-> needles appeared crystal clear and sharply defined, with strong
-> contrasts. Though the mental effect is difficult to define, I am not
-> sure it was all that great. I did become tired of the effect (along
-> with the confusion) after 8 hours, and was quite happy to note that it
-> did taper off in the early evening. I am not particularly sure I
-> would want to try this material again.
->
-> (with 20 mg) For the first three or so hours, the beauty of the
-> experience was marred by a strange discomfort. There was some
-> queasiness, and I felt a sluggishness of mind. Then I began moving in
-> and out of a pleasant place, and finally the discomfort completely
-> dissolved and the experience turned full on. Height of beauty, visual
-> perception. Lights below are amazing. Outside, marvelous sense of
-> Presence. There is not an elation, as often with other materials, but
-> a strong, even powerful sense of goodness, inner strength, solidity.
->
-> (with 25 mg) This was quite quick. The onset of the experience was
-> apparent within a half hour, and we were both at +++ within the hour.
-> Body load minimal. There was very little visual, compared with some
-> materials. Very interesting eyes-closed, but not continually Q just
-> now and then an intense vision might flash. Very benign and friendly
-> and pleasant and good-humored feeling. Superb for conversation and
-> conceptualization.
->
-> (with 25 mg) The body load was quite noticeable for everyone. But
-> the general state of mind was excellent; everyone was extremely
-> relaxed and funny. Puns, insults, delightful amusement. Not very
-> much insight work possible. Juices were needed and tolerated well,
-> but no one was particularly hungry. Sleep was difficult for most
-> people, not deep and not too refreshing. Excellent material, but body
-> price a bit too much for the mental effects. Pleasant, and I wouldn't
-> hesitate to take it again, but nothing very memorable except the
-> tremendous humor and laughter, which was truly delightful.
->
-
-## Extensions and Commentary
-
-This compound, BOD, was the first
-exploratory member of a new [[shulgin-a-pihkal-the-2c-family-of-phenethylamines]]. This family is
+[[shulgin-a-pihkal-the-2c-family-of-phenethylamines]]. This family is
 called the BOX series because an oxygen atom has been put on the
 
 benzylic carbon (the "benzyl-oxy" or "BO") of each of several well
@@ -87,7 +32,90 @@ people. An early street suggestion for PCP was FUK, and a current
 name for free-base methamphetamine is SNOT. And marijuana is fondly
 called SHIT by its aficionados. The final "A" on government groups
 such as the CIA or the DEA or the FDA is strongly reminscent of the
-final "A" which stands for amphetamine in things such as TMA and [[bob-entity-pihkal]]
-- [[bohd-entity-pihkal]]
-- [[bob-entity-pihkal]] -- BOB (PIHKAL #13)
+final "A" which stands for amphetamine in things such as TMA and [[bohd-entity-pihkal]]
 - [[boh-entity-pihkal]] -- BOH (PIHKAL #15)
+
+## Overview
+
+Bod Entity Pihkal represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish bod entity pihkal
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving bod extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Bod Entity Pihkal finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for bod entity pihkal. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+bod entity pihkal and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Bod Entity Pihkal has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of bod entity pihkal into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[2c-g-3-entity]]
+- [[4-5-mdo-dmt-entity-tihkal]]
+- [[5-6-mdo-dipt-entity-tihkal]]
+- [[mdcpm-entity-pihkal]]
+- [[methyl-k-entity-pihkal]]

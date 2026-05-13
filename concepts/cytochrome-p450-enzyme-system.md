@@ -1,6 +1,6 @@
 ---
 title: Cytochrome P450 Enzyme System
-aliases: [CYP450, P450, cytochrome p450, [[cytochrome-p450-enzymes-drug-metabolism]] enzymes]
+aliases: [CYP450, P450, cytochrome p450, cytochrome-p450-enzymes-drug-metabolism enzymes]
 tags: [biochemistry, pharmacology, toxicology, enzyme, drug-metabolism]
 created: 2026-05-02
 updated: 2026-05-06
@@ -16,29 +16,6 @@ Tsuneo Omura and Ryo Sato in 1962, the CYP superfamily is one of the largest
 gene families known, with over 300,000 sequences across all domains of life.
 Humans possess 57 functional CYP genes and 58 pseudogenes across 18 families and
 43 subfamilies. CYP enzymes are responsible for approximately 90% of Phase I
-[[singh-fungal-biodegradation-of-polycyclic-aromatic-hydrocarbons]] to carcinogenic epoxides. CYP1B1 metabolizes estrogens to
-potentially carcinogenic 4-hydroxyestradiol.
-## Phase I Oxidation Reactions
-CYPs catalyze diverse oxidations: aliphatic hydroxylation (midazolam by CYP3A4),
-aromatic hydroxylation via arene oxide intermediates (phenytoin by CYP2C9),
-N-dealkylation (codeine to morphine, diazepam to nordazepam), O-dealkylation
-(phenacetin to acetaminophen by CYP1A2), S-oxidation (omeprazole sulfone by
-CYP3A4), epoxidation (aflatoxin B1 8,9-epoxide, carbamazepine 10,11-epoxide),
-desaturation (valproic acid to delta-4-VPA), and deamination (amphetamine to
-phenylacetone by CYP2D6).
-## Inhibition and Induction
-CYP inhibition includes competitive (increased Km, unchanged Vmax; ketoconazole
-CYP3A4 Ki ~0.0037 uM), noncompetitive (decreased Vmax), and mechanism-
-based/suicide inhibition (irreversible covalent inactivation requiring new
-protein synthesis, half-life 24-72 hours). Classic MBI examples: erythromycin
-nitroso intermediate binds CYP3A4 heme; grapefruit juice furanocoumarins
-(bergamottin) inhibit intestinal CYP3A4; mibefradil was withdrawn due to CYP3A4
-suicide inhibition.
-Induction operates through nuclear receptors. PXR (Pregnane X Receptor)
-regulates CYP3A4/2C9/19 via ER6 motifs; rifampin can decrease midazolam AUC
-~95%. CAR (Constitutive Androstane Receptor) regulates CYP2B6/2C9/3A4, activated
-by phenobarbital and efavirenz. AhR (Aryl Hydrocarbon Receptor) regulates
-CYP1A1/1A2/1B1 via xenobiotic response elements, activated by cigarette smoke
 [[blesching-cannabis-breast-cancer]] outcomes. CYP2C19 PMs (12-23% Asians) face reduced clopidogrel
 efficacy. CYP2C9 variants require 17-78% lower warfarin doses. FDA lists
 pharmacogenomic data for over 300 drugs.
@@ -63,8 +40,7 @@ failure). The CYP superfamily originated over 3.5 billion years ago with
 remarkable conservation of the heme-thiolate mechanism. Plants have expanded
 repertoires (Arabidopsis: 272 genes). Drug-metabolizing families are vertebrate-
 specific. CYPs serve as drug targets (aromatase inhibitors, abiraterone, azole
-antifungals) [[cytochrome-p450-enzymes-structure-function-pharmacology]]
-- [[fungal-cytochrome-p450-biodegradation]]
+antifungals) [[fungal-cytochrome-p450-biodegradation]]
 ## Practical Considerations
 
 Successful implementation of Cytochrome P450 Enzyme System requires attention to
@@ -113,8 +89,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[dom]]
 - [[morphine]]
-- [[det]]
 - [[aflatoxin]]
 - [[ergosterol]]

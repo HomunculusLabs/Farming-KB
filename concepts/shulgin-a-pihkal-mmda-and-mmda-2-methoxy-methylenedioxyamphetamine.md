@@ -1,7 +1,7 @@
 ---
 title: MMDA and MMDA-2 (Methoxy-Methylenedioxyamphetamine)
 source: shulgin-a-pihkal.md
-source_author: [[alexander-shulgin]]
+source_author: alexander-shulgin
 category: psychopharmacology
 tags: [amphetamine, MMDA, MMDA-2, psychedelic, empathogen, Shulgin, PiHKAL, methylenedioxy, methoxy-amphetamine]
 created: 2026-05-11
@@ -38,7 +38,7 @@ MMDA was one of the most important stepping-stones in the development of MDMA. T
 
 The key insight was that adding a single methoxy group to the MDA scaffold dramatically altered the pharmacological profile. MMDA retained some of the empathogenic qualities of MDA but shifted toward a more psychedelic character. This observation — that small positional changes in substituents could convert a stimulant/empathogen into a primarily psychedelic compound — guided much of Shulgin's subsequent exploration.
 
-The critical next step was the addition of an N-methyl group to MMDA's structure, producing MDMA. Shulgin reports that this modification transformed the compound from a primarily [[leary-psychedelic-experience-bardo-mapping]] to something qualitatively new — a compound with powerful empathogenic properties that opened a [[blesching-cannabis-safety-profile-subjective-therapeutic-window]]. Without the exploration of MMDA first, MDMA might never have been discovered in Shulgin's laboratory.
+The critical next step was the addition of an N-methyl group to MMDA's structure, producing MDMA. Shulgin reports that this modification transformed the compound from a primarily [[blesching-cannabis-safety-profile-subjective-therapeutic-window]]. Without the exploration of MMDA first, MDMA might never have been discovered in Shulgin's laboratory.
 
 ## Dosage and Duration
 
@@ -128,7 +128,7 @@ The metabolic fate of these compounds likely involves hepatic O-demethylenation 
 
 ## Synthesis Pathway
 
-Both compounds follow a similar synthetic route from appropriate safrole or isosafrole precursors. The [[shirota-4-hydroxyindole-acetyl-protection-psilocin-synthesis-starting-material]] is processed to introduce the appropriate methoxy group through electrophilic aromatic substitution, then converted to the nitrostyrene via condensation with nitromethane. Reduction with LAH yields the amine freebase, followed by N-methylation via reductive amination with formaldehyde. The specific [[shulgin-gamma-dom-positional-isomerism]] requires careful control of which aromatic position receives the methoxy group during synthesis.
+Both compounds follow a similar synthetic route from appropriate safrole or isosafrole precursors. The [[shulgin-gamma-dom-positional-isomerism]] requires careful control of which aromatic position receives the methoxy group during synthesis.
 
 ## Legacy and Influence
 
@@ -140,11 +140,6 @@ The MMDA compounds represent a crucial evolutionary link in the phenethylamine p
 
 3. **The path to MDMA was methodical, not accidental**: MDMA emerged from systematic exploration of MDA derivatives, with MMDA serving as the critical intermediate concept.
 
-4. **Gentle psychedelics have [[metzner-ayahuasca-therapeutic-potential]]**: The consistent reports of low anxiety and high emotional accessibility suggest applications in psychotherapy and personal growth work.
-
-## See Also
-
-- [[shulgin-a-pihkal-the-2c-family-of-phenethylamines]] — the phenethylamine counterparts without the alpha-methyl group
-- [[shulgin-a-pihkal-2c-b-4-bromo-25-dimethoxyphenethylamine]] — a 2C compound with methoxy pattern parallels
+4. **Gentle psychedelics have [[shulgin-a-pihkal-the-2c-family-of-phenethylamines]] — the phenethylamine counterparts without the alpha-methyl group
 - [[shulgin-a-pihkal-dob-25-dimethoxy-4-bromoamphetamine]] — another amphetamine-type psychedelic showing the amphetamine vs phenethylamine distinction
 - [[shulgin-rating-scale]] — Shulgin's qualitative evaluation system used throughout PiHKAL

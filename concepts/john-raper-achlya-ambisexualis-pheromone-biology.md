@@ -1,7 +1,7 @@
 ---
 title: "John Raper and the Pheromone Biology of Achlya ambisexualis"
 source: mr-bloomfields-orchard---the-mysterious-world-of-mushrooms-molds-and-mycologists.md
-author: [[nicholas-money]]
+author: nicholas-money
 topics: [pheromone-biology, oomycetes, sexual-reproduction, mycology, endocrinology]
 ---
 
@@ -13,16 +13,7 @@ sexual communication in microorganisms when he discovered and
 characterized the pheromone system of the water mold Achlya
 ambisexualis.
 His work demonstrated for the first time that sexual development in a
-fungus was coordinated by specific [[query-how-do-plants-use-chemical-signals-to-defend-against-insects]] released by mating
-partners, a finding with profound implications for understanding hormonal
-communication across all kingdoms of life.
-
-## Discovery of Achlya ambisexualis
-
-Raper discovered Achlya ambisexualis itself, identifying it as a distinct
-species from its close relative Achlya bisexualis.
-Both are water molds, members of the oomycete lineage that inhabits
-freshwater ponds and [[fungal-roles-aquatic-environments]].
+fungus was coordinated by specific [[fungal-roles-aquatic-environments]].
 Achlya ambisexualis is unusual because it incorporates a family of
 strains in which distinct males and females coexist with hermaphrodites
 and "she-males" — organisms that can offer either oogonia or antheridia
@@ -64,10 +55,7 @@ regulator directing the expression of specific genes.
 The steroid pheromones of Achlya are structurally similar to animal
 steroid hormones, suggesting an ancient evolutionary relationship.
 
-While the precise nuclear [[psilocybin-pharmacology-5ht2a-receptor-mechanism]] has not been confirmed in
-Achlya, physiological experiments provided strong evidence for a
-gene-regulatory role of the pheromones.
-The male response to antheridiol involves dramatic changes in [[chitin-chitosan-fungal-cell-wall]]
+While the precise nuclear [[chitin-chitosan-fungal-cell-wall]]
 biology and growth patterns requiring extensive reprogramming of gene
 expression.
 
@@ -96,35 +84,13 @@ secretion governs the emergence of male branches.
 
 ## Environmental Distribution and Reproductive Strategy
 
-Don Thomas investigated the [[lichen-biology-guide]] of the Achlya
-pheromone system by comparing mating type distributions in different
-pond environments.
-In seasonal ponds that dry out in summer and freeze in winter,
-self-fertile hermaphrodites were ten times more common than
-mate-requiring heterothallic strains.
-In permanent ponds fed by spring water, heterothallic strains dominated.
-
-These observations suggested that self-fertility is an effective strategy
-for microorganisms in unstable environments.
-When conditions are harsh and unpredictable, the ability to reproduce
-without finding a mate provides a critical survival advantage.
-In stable environments, the benefits of outcrossing — [[biodiversity-fungal-genetic-diversity]]
+Don Thomas investigated the [[biodiversity-fungal-genetic-diversity]]
 and elimination of deleterious mutations — outweigh the risks of mate
 scarcity.
 
 ## Legacy
 
 Raper's work on Achlya pheromones established the concept of fungal
-hormones and influenced the broader field of [[plant-volatile-communication-chemical-ecology]].
-The discovery that simple organisms like water molds use sophisticated
-steroid signaling systems challenged the assumption that hormonal
-communication was unique to animals and plants.
-It provided a model system for studying how chemical signals coordinate
-complex developmental processes at the cellular level.
-
-## See Also
-
-- achlya ambisexualis pheromone system
-- oomycete [[basidiomycete-mating-systems-sexual-reproduction]]
+hormones and influenced the broader field of [[basidiomycete-mating-systems-sexual-reproduction]]
 - fungal steroid hormones
 - [[serial-sectioning-technique-trow-hartog-rivalry-mycology]] mycology

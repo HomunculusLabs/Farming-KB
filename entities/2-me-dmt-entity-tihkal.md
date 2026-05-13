@@ -52,14 +52,7 @@ Shulgin characterized the compound as a potential "tactile stimulant" with appli
 
 ## Auditory Effects
 
-The auditory distortion observed at 75 mg parallels findings with [[4-ho-dipt-entity-tihkal]]. Voices sounded lower and throatier, dial tones were altered, and touch-tones sounded unusual. However, music was perceived as normal, suggesting the effect is selective for certain frequency ranges or acoustic patterns rather than a global pitch shift.
-
-The down-shifting of music noted at 120 mg, described as "annoying rather than interesting," represents a dose-dependent intensification of the auditory effects.
-
-## Structure-Activity Relationships
-
-The 2-methyl substitution pattern appears across several tryptamines with interesting pharmacological consequences. In 2-Me-DMT, the combination of 2-methyl with N,N-dimethyl groups produces tactile and auditory effects without visual psychedelia. In [[amt-entity-tihkal]] — the parent compound without 2-methyl substitution, a powerful short-acting psychedelic.
-[[amt-entity-tihkal]] — the 2-methyl analogue of alpha-MT, a sedative tryptamine.
+The auditory distortion observed at 75 mg parallels findings with [[amt-entity-tihkal]] — the parent compound without 2-methyl substitution, a powerful short-acting psychedelic.
 [[det-entity-tihkal]] — diethyltryptamine, the parent compound without 2-methyl substitution.
 
 ## Historical Context

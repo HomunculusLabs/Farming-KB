@@ -13,8 +13,7 @@ sources:
   - "raw/papers/marijuana-horticulture-cervantes.md"
 synonyms:
   - marijuana arrests
-  - [[mckenna-drug-war-and-human-freedom]] facts
-  - [[cannabis-prohibition-history]]
+  - cannabis-prohibition-history
   - Steven McWilliams
   - Gonzales v Raich
 type: concept
@@ -26,27 +25,8 @@ type: concept
 therapeutics by the end of the century.*
 -- Professor John Graham, 1976
 
-[[cervantes-grow-room-security-law-enforcement]]
-- [[cervantes-guerrilla-growing-tactics]]
-- [[cervantes-cannabis-tolerance-addiction-pharmacology]]
-## Practical Applications
-
-War on Drugs Statistics and Cannabis Arrest Data has a range of practical applications that make it relevant to
-both researchers and practitioners. Understanding these applications
-requires familiarity with the underlying principles and their
-manifestation in real-world contexts. The breadth of applications
-reflects the fundamental importance of this topic across disciplines.
-
-Implementation varies based on scale, available resources, and
-specific objectives. Small-scale applications may be relatively
-straightforward, while larger implementations require more careful
-planning and coordination. Adaptation to local conditions is always
-essential for achieving optimal results regardless of scale.
-
-Documented case studies provide valuable reference points, though
-each situation presents unique combinations of opportunities and
-constraints that require context-specific solutions. The most
-successful implementations combine established [[arbuscular-mycorrhizal-inoculum-production-best-practices]] with
+[[cervantes-guerrilla-growing-tactics]]
+- [[arbuscular-mycorrhizal-inoculum-production-best-practices]] with
 creative adaptation to local conditions and emerging challenges.
 
 ## Key Considerations
@@ -97,8 +77,6 @@ through generations to modern scientific approaches, the evolution continues
 to inform current best practices and research directions.
 
 ## See Also
-- [[doc]]
 - [[det]]
-- [[mycorrhiza]]
 - [[marijuana-horticulture-cervantes-hydroponic-growing-systems]]
 - [[cervantes-high-pressure-sodium-lighting]]

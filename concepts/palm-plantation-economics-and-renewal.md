@@ -6,7 +6,7 @@ type: concept
 
 ## Overview
 
-Palm plantations — particularly coconut — represent one of the world's most widespread tropical monocultures. While commercially dominant, their long-term viability is undermined by soil exhaustion, declining yields, hurricane damage, and the social costs of monoculture. Permaculture design offers a path forward through intercropping strategies, continuous renewal, diversified products, and cooperative ownership models.
+Palm plantations — particularly coconut — represent one of the world's most widespread tropical monocultures. While commercially dominant, their long-term viability is undermined by soil exhaustion, declining yields, hurricane damage, and the social costs of monoculture. [[permaculture-design]] offers a path forward through intercropping strategies, continuous renewal, diversified products, and cooperative ownership models.
 
 ## Economics of Palm Intercropping
 
@@ -122,8 +122,6 @@ Mollison's core philosophy on plantation redesign is to **extend small successfu
 The designer's role is to **observe what works in situ**, document results rigorously, and help communities replicate successes on their own terms. This is the antithesis of the plantation model, which imposes uniform systems regardless of local context.
 ## See also
 
-- [[mollison-coconut-palm-polyculture-systems]]
 - [[palm-tree-uses]]
-- [[palm-clump-planting-patterns]]
 - [[palm-planting-patterns-and-mulch-systems]]
 - [[plantation-monoculture-reform]]

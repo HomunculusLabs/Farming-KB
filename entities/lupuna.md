@@ -20,14 +20,7 @@ Lupuna (Ceiba sp., also spelled *lupuna*) is a large canopy tree of the Amazon b
 
 ## Key Facts
 
-- The lupuna tree's spirit is described as a wise old nymph about to ascend a stairway leading to the [[tree-canopy-fungal-sampling-techniques]], which serves as an abode or sanctuary of the forest nymphs.
-- Tuyuyos (jabiru stork, Jabiru mycteria) are sorcerer birds that hatch their chicks at the top of the lupuna — these birds are food for witch doctors but make ordinary people thin if consumed.
-- The lupuna colorada (red lupuna, Cavallinesia sp.) is identified as the glass tube used by blue sylphs to transport the sumiruna to space during visionary experiences, indicating the tree's role as a bridge between earthly and cosmic realms.
-- The lupuna is described alongside other power trees including the tahuari (Tabebuia sp.), huacamayo-caspi (Coutarea hexandra), shihuahuaco (Dipteryx sp.), and cumaceba (Cesalpina equinata) in the context of sacred pipes.
-
-## Relevance to Cultivation and Mycology
-
-Ceiba species are keystone trees in [[mckenna-dmt-amazonian-ecosystems]], providing habitat for epiphytic plants, birds, insects, and fungi. Their massive stature and buttressed roots create microhabitats for diverse [[biodiversity-fungi-soil-fungal-communities]]. In traditional agroforestry, lupuna trees are often preserved when land is cleared for cultivation due to their spiritual significance. The tree's association with both healing (as sanctuary for helpful nymphs) and danger (as home to sorcerer birds) reflects the Amazonian understanding that the most powerful organisms in the ecosystem command respect. For mycological study, Ceiba trunks and branches host significant [[arbuscular-mycorrhizal-fungal-diversity]] including polypores and other wood-decay fungi.
+- The lupuna tree's spirit is described as a wise old nymph about to ascend a stairway leading to the [[mckenna-dmt-amazonian-ecosystems]], providing habitat for epiphytic plants, birds, insects, and fungi. Their massive stature and buttressed roots create microhabitats for diverse [[arbuscular-mycorrhizal-fungal-diversity]] including polypores and other wood-decay fungi.
 
 ## Related Entities
 
@@ -38,15 +31,7 @@ Ceiba species are keystone trees in [[mckenna-dmt-amazonian-ecosystems]], provid
 
 ## Visionary Ecology
 
-The lupuna is important because it concentrates vertical symbolism: buttressed roots anchor the forest floor, the trunk rises as a massive column, and the crown becomes a place of birds, spirits, and ascent. In the visionary language of [[amaringo-ayahuasca-visions-shipibo-iconography]], this verticality can become a stairway, pipe, or transit route between earthly and celestial domains.
-
-The tree's danger is inseparable from its sanctity. A being large enough to house nymphs and sorcerer birds is not merely useful; it is sovereign within its place. This helps explain why such trees may be spared in clearing and treated as landmarks of power rather than as anonymous timber.
-
-## Ethnobotanical Notes
-
-Ceiba species often develop buttresses, cavities, epiphyte loads, and deadwood zones that support complex communities. Those ecological niches make the tree a living structure for fungi, insects, birds, and climbing plants. The vegetalista image of the lupuna as inhabited therefore parallels an observable ecological fact: large old trees are multi-species dwellings.
-
-In comparative Amazonian plant-spirit study, lupuna belongs with ayahuman, tahuari, and other teacher or power trees. Its profile connects [[mckenna-dmt-amazonian-ecosystems]] to [[biodiversity-fungi-soil-fungal-communities]] by showing how cultural reverence can protect habitat complexity.
+The lupuna is important because it concentrates vertical symbolism: buttressed roots anchor the forest floor, the trunk rises as a massive column, and the crown becomes a place of birds, spirits, and ascent. In the visionary language of [[mckenna-dmt-amazonian-ecosystems]] to [[biodiversity-fungi-soil-fungal-communities]] by showing how cultural reverence can protect habitat complexity.
 
 ## Practical Relevance
 
@@ -79,3 +64,80 @@ The buttressed base may also trap leaf litter and moisture, forming small pocket
 The stories around lupuna should not be dismissed as decoration added to a botanical object. They are part of how people remember where power resides in the forest, which places require caution, and which beings deserve respect. The narrative layer helps organize ecological attention.
 
 For a knowledge base, preserving that narrative is important because it keeps ethnobotany from collapsing into Latin names and utilitarian uses alone.
+
+## Overview
+
+Lupuna represents an important element within sustainable
+design and [[solomon-gardening-aikido-pest-philosophy-ecological-management]] systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish lupuna
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving lupuna extend
+across multiple [[ingham-soil-foodweb-trophic-levels-protozoa-nematodes]] and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Lupuna finds practical application in multiple design contexts.
+[[mollisonian-permaculture-principles]] guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive [[livestock-grassland-management-strategies]] that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for lupuna. [[jeavons-climate-adaptation-growing-seasons]]
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+lupuna and its applications. Active investigation
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Lupuna has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of lupuna into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.

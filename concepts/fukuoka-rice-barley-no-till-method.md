@@ -10,11 +10,9 @@ sources:
 ---
 # Fukuoka Rice Barley No-Till Direct Seeding Method
 
-Fukuoka's signature agricultural technique -- the direct-seeded, no-till rice/barley succession in a [[comparison-green-manure-guide-vs-mulch-types-and-effects]] cover -- represents the practical core of his [[fukuoka-road-back-clover-barley-rice-method]]
+Fukuoka's signature agricultural technique -- the direct-seeded, no-till rice/barley succession in a [[fukuoka-road-back-clover-barley-rice-method]]
 
-- [[fukuoka-observation-based-farming]]
 - [[fukuoka-do-nothing-farming-philosophy]]
-- [[fukuoka-direct-seeded-no-tillage-rice-barley-method]]
 - [[fukuoka-quarter-acre-farmer-do-nothing-farming]]
 ## Background and Context
 
@@ -118,8 +116,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[dom]]
 - [[det]]
-- [[fukuoka-road-back-clover-barley-rice-method]]
 - [[fukuoka-direct-seeded-no-tillage-rice-barley-method]]
 - [[fukuoka-no-till-rice-barley-clover-succession]]

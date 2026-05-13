@@ -36,51 +36,9 @@ sources:
 Clitocybe nebularis, commonly known as the clouded agaric or cloud funnel,
 is a large saprotrophic and weakly ectomycorrhizal basidiomycete in the
 family Tricholomataceae. It is among the most abundant and recognizable
-late-autumn mushrooms in temperate forests of Europe and [[psilocybin-north-america-pacific-northwest]].
-
-The species produces massive [[bloomfield-asterophora-and-mycoparasites-of-fruiting-bodies]], with caps reaching 15–25 cm
-in diameter, forming extensive troops and [[bloomfield-fairy-rings-armillaria-giant-fungi]] on forest floors. Its
-distinctive grey cloud-like cap and penetrating farinaceous odor make it
-easy to identify in the field.
-
-C. nebularis has attracted pharmacological interest for its bioactive
-polysaccharides, particularly nebularin, a purine nucleoside with
-demonstrated antimicrobial and antitumor properties in preclinical studies.
-
-## Taxonomy and Morphology
-
-Described by August Batsch in 1789 as Agaricus nebularis, the species
-underwent several taxonomic revisions before its current placement. Jacob
-Christian Schäffer's earlier observations are also associated with the
-original concept. The epithet "nebularis" refers to the cloud-like grey
-coloration of the cap.
-
-The cap is 5–25 cm, initially convex with an inrolled margin, expanding
-to a broad funnel with a depressed center. The surface is smooth and
-glossy when wet, appearing cloud-grey to pale brownish-grey, often with
-a lighter margin.
-
-Gills are decurrent, crowded, narrow, and white to pale cream, sometimes
-developing a pinkish tinge with age. The stipe is 4–10 cm tall and 1–3 cm
-thick, solid, fibrous, and white to pale grey, often slightly eccentric.
-
-Flesh is thick, white, and firm, with a strong farinaceous odor reminiscent
-of damp meal or cucumbers. The taste is mealy and slightly peppery. Spores
-are ellipsoid, 5.5–7.5 × 3.5–5 µm, smooth, white in deposit.
-
-## Distribution and Habitat
-
-C. nebularis is widely distributed across temperate and [[fungal-diversity-boreal-forests-taiga]] of
-Europe, [[guzman-psilocybin-mushrooms-north-america]], and parts of Asia. It is particularly abundant in
-Central and Northern Europe, where it is one of the dominant late-season
-forest fungi.
-
-The species fruits from September through December, often persisting through
-early frosts. It grows in coniferous and mixed forests, especially under
-spruce (Picea abies), pine ([[pinus-sylvestris]]), and beech ([[fagus-sylvatica]]).
-
-While primarily saprotrophic on forest litter and woody debris, isotopic
-studies suggest C. nebularis can form weak [[ectomycorrhizal-associations]]
+late-autumn mushrooms in temperate forests of Europe and [[bloomfield-asterophora-and-mycoparasites-of-fruiting-bodies]], with caps reaching 15–25 cm
+in diameter, forming extensive troops and [[fungal-diversity-boreal-forests-taiga]] of
+Europe, [[pinus-sylvestris]]), and beech ([[ectomycorrhizal-associations]]
 with tree roots. It frequently forms large fairy rings or dense clusters
 of 20–100+ fruiting bodies, sometimes covering several square meters.
 
@@ -88,3 +46,88 @@ of 20–100+ fruiting bodies, sometimes covering several square meters.
 
 The most notable bioactive compound is nebularin, a purine nucleoside
 (9-β-D-ribofuranosylpurine) isolated from C. nebularis fruiting bodies.
+
+## Overview
+
+Clitocybe Nebularis represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish clitocybe nebularis
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving clitocybe extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Clitocybe Nebularis finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for clitocybe nebularis. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+clitocybe nebularis and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Clitocybe Nebularis has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of clitocybe nebularis into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[clitocybe-dealbata]]
+- [[clitocybe-geotropa]]
+- [[clitocybe-gibba]]
+- [[clitocybe-nuda]]
+- [[clitocybe-odora]]

@@ -9,11 +9,11 @@ sources: []
 
 # Homestead Canning Recipes
 
-Canning preserves homestead harvests for year-round use. Two methods exist: water-bath canning (high-acid foods, pH below 4.6) and [[comparison-pressure-canning-vs-water-bath-canning]] (low-acid foods). Botulism risk makes strict adherence to tested recipes non-negotiable.
+Canning preserves homestead harvests for year-round use. Two methods exist: water-bath canning (high-acid foods, pH below 4.6) and pressure canning (low-acid foods). Botulism risk makes strict adherence to tested recipes non-negotiable.
 
 ## Equipment
 
-- [[pf-tek-pressure-canner-sterilization]] (not a [[double-layer-tinfoil-jar-covering-pressure-cooker-method]] -- must have a dial gauge or weighted gauge)
+- Pressure canner (not a pressure cooker -- must have a dial gauge or weighted gauge)
 - Water-bath canner with rack
 - Mason jars (regular or wide-mouth) and two-piece lids
 - Jar lifter, headspace tool, bubble remover, funnel
@@ -42,7 +42,7 @@ Whole-kernel corn is one of the longest-processing vegetables due to its density
 
 ## Pressure Canning: Tomatoes (Water-Bath or Pressure)
 
-Tomatoes border on the acidity threshold. Modern varieties are less acidic than heirlooms. Add 2 tbsp bottled lemon juice or 1/2 tsp [[citric-acid-cycle-tca-krebs-cycle]] per quart (half for pints).
+Tomatoes border on the acidity threshold. Modern varieties are less acidic than heirlooms. Add 2 tbsp bottled lemon juice or 1/2 tsp citric acid per quart (half for pints).
 
 Water-bath method:
 1. Dip tomatoes in boiling water 30-60 seconds, then ice bath
@@ -119,3 +119,11 @@ Canning transforms seasonal abundance into shelf-stable food, making it a corner
 - USDA Complete Guide to Home Canning (2015 revision)
 - National Center for Home Food Preservation (nchfp.uga.edu)
 - Ball Blue Book Guide to Preserving
+
+## See Also
+
+- [[homestead-scale-assessment]]
+- [[homestead-insurance-guide]]
+- [[homestead-winter-preparations]]
+- [[comparison-grape-vs-hardy-kiwi-for-homestead-trellising]]
+- [[homestead-mushroom-business]]

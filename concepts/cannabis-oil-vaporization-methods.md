@@ -34,27 +34,7 @@ A tube or funnel (often made from rolled foil, a pen tube, or a glass tube) is p
 
 ## Hot Knife Method
 
-A traditional method described in [[mckenna-cannabis-culture-history]] involves heating two knives on a stovetop until they are red-hot. A small amount of cannabis oil is pressed between the two hot knives, causing it to instantly vaporize. The vapor is captured by inverting a funnel or cut-off bottle over the knives and inhaling through the narrow end.
-
-This method is simple but requires practice to avoid burning the oil or inhaling excessive heat. It also poses risks from handling extremely hot metal objects. The hot knife method predates the availability of commercial vaporization devices but has largely been superseded by safer and more controllable options.
-
-## Modern Dabbing
-
-Modern "dabbing" is the contemporary evolution of oil vaporization. A dab rig is a water pipe modified with a "nail" made of glass, quartz, ceramic, or titanium that is heated with a torch. A small amount of cannabis oil or concentrate (a "dab") is applied to the hot nail, instantly vaporizing it. The vapor is drawn through the water pipe for cooling and filtration before inhalation.
-
-Dabbing provides excellent temperature control with the use of electronic nails (e-nails) that maintain a precise temperature, eliminating the guesswork of torch heating. Quartz and ceramic nails provide cleaner flavor than titanium, which can impart a metallic taste.
-
-## Temperature Considerations
-
-The temperature at which oil is vaporized significantly affects the experience. Lower temperatures (approximately 157-165 degrees Celsius) produce a lighter vapor with more terpene flavor but may not fully vaporize all cannabinoids. Higher temperatures (175-200 degrees Celsius) produce denser vapor and more complete cannabinoid extraction but may sacrifice some terpene flavor and approach combustion temperatures.
-
-Different cannabinoids and terpenes vaporize at different temperatures, meaning the character of the vapor changes as the temperature increases. Low-temperature vaporization captures primarily monoterpenes and THC, while higher temperatures also volatilize CBD, CBN, and sesquiterpenes. This temperature-dependent release profile allows experienced users to tailor their experience.
-
-## Efficiency Comparison
-
-Oil vaporization is significantly more efficient than smoking [[cervantes-cannabis-flower-anatomy]]. In a bong or pipe, much of the THC is destroyed by combustion or lost in sidestream smoke between puffs. With direct oil vaporization, nearly all of the cannabinoids in the heated portion are delivered to the user. Estimates from [[lemon-cannabis-alchemy-advanced-refinement-techniques]] literature suggest that water-pipe filtration combined with vaporization may be twice as efficient as smoking joints or regular pipes.
-
-The concentrated nature of [[cannabis-hashish-from-extracted-oil-techniques]] means that the user can achieve desired effects with much less material. This efficiency, combined with the absence of plant combustion byproducts, makes oil vaporization one of the healthiest and most economical methods of cannabis consumption.
+A traditional method described in [[cervantes-cannabis-flower-anatomy]]. In a bong or pipe, much of the THC is destroyed by combustion or lost in sidestream smoke between puffs. With direct oil vaporization, nearly all of the cannabinoids in the heated portion are delivered to the user. Estimates from [[cannabis-hashish-from-extracted-oil-techniques]] means that the user can achieve desired effects with much less material. This efficiency, combined with the absence of plant combustion byproducts, makes oil vaporization one of the healthiest and most economical methods of cannabis consumption.
 
 ## Safety Considerations
 
@@ -62,9 +42,7 @@ All methods of oil vaporization involve heating flammable or combustible materia
 
 ## Related Topics
 
-- [[cannabis-honey-oil-production]] for refined oils suitable for vaporization
 - [[cannabis-delivery-methods-comparison]] for pharmacokinetic comparisons
-- [[cannabis-tinctures-guide]] for alternative non-smoking consumption methods
 - [[cannabis-oil-capsules-preparation]]
 ## Practical Considerations
 
@@ -114,8 +92,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[hashish]]
 - [[cannabis-oil-extraction-methods]]
-- [[cannabis-oil-consumption-methods]]
 - [[lemon-cannabis-alchemy-direct-vaporization]]
 - [[comparison-cannabis-extraction-basics-vs-extraction-methods]]

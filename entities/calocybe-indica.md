@@ -14,7 +14,7 @@ sources:
 
 ## Overview
 
-Calocybe indica is a tropical edible mushroom native to the Indian subcontinent, widely known as the Milky Mushroom or Dudh Chatta (Hindi: "milk umbrella"). It belongs to the family Lyophyllaceae within the order Agaricales. Among commercially [[fungi-cultivated-mushrooms-pathogens-competitors]], C. indica is one of the few species that thrives at high ambient temperatures (25–35°C), which gives it a distinct advantage over temperate species like [[volvariella-volvacea]]. In domestic markets it commands a price premium over paddy straw mushroom due to its meatier consistency and longer post-harvest viability.
+Calocybe indica is a tropical edible mushroom native to the Indian subcontinent, widely known as the Milky Mushroom or Dudh Chatta (Hindi: "milk umbrella"). It belongs to the family Lyophyllaceae within the order Agaricales. Among commercially [[volvariella-volvacea]]. In domestic markets it commands a price premium over paddy straw mushroom due to its meatier consistency and longer post-harvest viability.
 
 ## Taxonomy and Naming
 
@@ -68,7 +68,7 @@ Collections have been documented from elevations ranging from sea level to appro
 
 ## Cultivation Notes
 
-C. indica is one of the easiest tropical mushrooms to cultivate on a commercial scale, requiring no sophisticated [[eclss-environmental-control-life-support]] beyond basic shade and [[stamets-cultivator-humidity-management-fogging-systems]]. It is particularly suited to low-technology farming systems.
+C. indica is one of the easiest tropical mushrooms to cultivate on a commercial scale, requiring no sophisticated [[stamets-cultivator-humidity-management-fogging-systems]]. It is particularly suited to low-technology farming systems.
 
 - **Substrates:** Paddy straw (most common), wheat straw, sugarcane bagasse, maize stover, cotton waste, and combinations thereof. Supplements such as rice bran (10–15%) significantly improve yields.
 - **Pasteurization:** Hot water treatment (80°C for 1–2 hours) or steam pasteurization. No sterilization required for standard straw-based cultivation.
@@ -76,7 +76,7 @@ C. indica is one of the easiest tropical mushrooms to cultivate on a commercial 
 - **Casing:** Not strictly required, but a thin casing layer of sterilized soil or coir pith can improve pinning uniformity and yield by 10–20%.
 - **Fruiting temperature:** 28–35°C; no cold shock needed. Relative humidity 80–95%.
 - **Crop cycle:** 50–60 days from spawning to final harvest. Two to three flushes are typical, with the first flush producing 60–70% of total yield.
-- **[[stamets-biological-efficiency-yield]]:** 60–100% on supplemented paddy straw, comparable to [[volvariella-volvacea]].
+- **[[volvariella-volvacea]].
 
 ## Nutritional Value
 
@@ -88,3 +88,11 @@ Calocybe indica is a nutritious food source with a favorable protein-to-carbohyd
 - **Total lipids:** 2–4 g
 - **Ash:** 6–9 g
 - **Energy:** 280–340 kcal
+
+## See Also
+
+- [[calocybe-gambosa]]
+- [[piriformospora-indica-in-plant-fungal-co-culture]]
+- [[cannabis-sativa-vs-indica-therapeutic-profiles]]
+- [[cannabis-health-strains-sativa-indica]]
+- [[azadirachta-indica]]

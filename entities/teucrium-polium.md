@@ -50,13 +50,7 @@ It grows at elevations from near sea level to approximately 2,000 meters. The pl
 
 The species is calcicole, preferring alkaline limestone substrates. It is often found growing in rock crevices and on stony ground where competition from taller vegetation is limited.
 
-Several subspecies have been recognized, including subsp. polium (western Mediterranean) and subsp. capitatum (eastern Mediterranean and western Asia). These differ in inflorescence structure and [[cannabis-leaf-morphology-and-phyllotaxy]].
-
-In parts of its range, particularly North Africa and the Middle East, T. polium is collected from wild populations for traditional medicine. Overharvesting has led to local population declines in some areas.
-
-## Bioactive Compounds
-
-T. polium contains a diverse array of [[antifungal-secondary-metabolites-coprophilous-fungi]], including diterpenes, flavonoids, phenolic acids, and essential oil components.
+Several subspecies have been recognized, including subsp. polium (western Mediterranean) and subsp. capitatum (eastern Mediterranean and western Asia). These differ in inflorescence structure and [[antifungal-secondary-metabolites-coprophilous-fungi]], including diterpenes, flavonoids, phenolic acids, and essential oil components.
 
 The most notable compounds are neo-clerodane diterpenoids, including teucvin, teucvidin, and poliumoside. These compounds are responsible for many of the species' pharmacological activities.
 
@@ -66,13 +60,7 @@ Flavonoid glycosides, including luteolin and apigenin derivatives, have been iso
 
 Total phenolic content varies considerably with geography, harvest time, and plant part. Aerial parts harvested during flowering typically contain the highest concentrations of bioactive compounds.
 
-Volatile oil composition shows significant chemotype [[psilocybin-psilocin-variation-across-flushes]] the species' range. Western Mediterranean populations tend to be richer in α-pinene, while eastern populations contain more sesquiterpenes.
-
-## Pharmacology and Traditional Uses
-
-T. polium has been used extensively in traditional medicine for gastrointestinal disorders, diabetes, inflammation, and wound healing. In Persian traditional medicine (Unani), it is prescribed as a hypoglycemic agent.
-
-In vitro and animal studies have demonstrated anti-inflammatory, antioxidant, antimicrobial, and hepatoprotective activities. Extracts show activity against Gram-positive bacteria and some [[bloomfield-fungal-pathogens-and-parasites]].
+Volatile oil composition shows significant chemotype [[bloomfield-fungal-pathogens-and-parasites]].
 
 However, several cases of hepatotoxicity have been associated with T. polium consumption, particularly with prolonged use. The hepatotoxic effects are attributed to specific neoclerodane diterpenoids.
 
@@ -87,3 +75,75 @@ Anti-inflammatory effects have been attributed to inhibition of cyclooxygenase (
 In Jordanian and Palestinian traditional medicine, T. polium tea is used to treat kidney stones and urinary tract infections. In Morocco, it is consumed as a digestive aid and appetite stimulant.
 
 Due to hepatotoxicity concerns, several European health authorities have issued warnings against internal use of Teucrium species. External applications (compresses, poultices) are considered lower risk.
+
+## Overview
+
+Teucrium Polium represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish teucrium polium
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving teucrium extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Teucrium Polium finds practical application in multiple design contexts.
+[[permaculture-principles]] guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for teucrium polium. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+teucrium polium and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Teucrium Polium has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of teucrium polium into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions

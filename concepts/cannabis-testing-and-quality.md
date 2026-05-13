@@ -1,18 +1,17 @@
 ---
-title: Cannabis Testing and Quality
+title: Cannabis [[mushroom-spawn-vitality-testing-and-quality-assessment]]
 created: 2026-2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [cannabis, lab-technique, potency, safety, chemistry, psychopharmacology, health]
-sources:
-  - "raw/papers/elaine-ingham-phd-the-field-guide-for-actively-aerated-com.md"
+sources: []
 ---
 
 # Cannabis Testing and Quality
 
 ## Overview
 
-Cannabis testing is the [[solomon-soil-testing-laboratory-analysis-low-input-gardening]] of cannabis flowers, concentrates, and products to determine their chemical composition, potency, [[psilocybin-toxicity-and-safety-profile]]. In regulated markets, testing is legally required before products reach consumers. Even in non-regulated contexts, understanding testing methods and quality indicators helps growers and consumers make informed decisions about the products they grow and consume.
+Cannabis testing is the [[solomon-soil-testing-laboratory-analysis-low-input-gardening]] of cannabis flowers, concentrates, and products to determine their [[chemical-composition-of-hallucinogens]], potency, and safety profile. In regulated markets, testing is legally required before products reach consumers. Even in non-regulated contexts, understanding testing methods and quality indicators helps growers and consumers make informed decisions about the products they grow and consume.
 
 ## Types of Cannabis Testing
 
@@ -43,13 +42,13 @@ Potency testing measures the concentration of cannabinoids in a sample. This is 
 
 ### Terpene Testing
 
-Terpenes are aromatic compounds contributing to flavor, aroma, and effects. [[cannabis-terpene-entourage-effect]] means the same THC percentage can produce different experiences depending on terpene profile.
+Terpenes are aromatic compounds contributing to flavor, aroma, and effects. [[cannabis-terpenes-and-the-entourage-effect]] means the same THC percentage can produce different experiences depending on terpene profile.
 
 **Primary terpenes:** Myrcene (earthy, sedative), limonene (citrus, mood elevation), pinene (pine, focus), linalool (floral, calming), caryophyllene (pepper, anti-inflammatory via CB2), humulene (earthy, anti-inflammatory), terpinolene (piney, sedative at high doses), geraniol (floral, antioxidant).
 
 ### Pesticide Testing
 
-Screens for harmful [[ingham-manure-antibiotics-chemical-residues-composting]] from agricultural inputs. Tests for insecticides (organophosphates, neonicotinoids, pyrethroids), fungicides (boscalid, myclobutanil), herbicides (glyphosate), and miticides (abamectin, etoxazole). Methods: LC-MS/MS and GC-MS/MS for multi-residue panels (50-100+ compounds). Action levels vary by state (some in parts per billion).
+Screens for harmful chemical residues from agricultural inputs. Tests for insecticides (organophosphates, neonicotinoids, pyrethroids), fungicides (boscalid, myclobutanil), herbicides (glyphosate), and miticides (abamectin, etoxazole). Methods: LC-MS/MS and GC-MS/MS for multi-residue panels (50-100+ compounds). Action levels vary by state (some in parts per billion).
 
 ### Heavy Metal Testing
 
@@ -92,7 +91,7 @@ A COA is the official lab document containing all test results for a specific ba
 
 ## Laboratory Accreditation
 
-[[cannabis-seed-banks-and-genetics]] and growers rely on accredited labs for verification:
+[[cannabis-seed-banks-and-genetics|Seed banks]] and growers rely on accredited labs for verification:
 
 - **ISO 17025:** International standard for testing laboratory competence
 - **State certifications:** Required by individual regulatory programs
@@ -102,7 +101,7 @@ A COA is the official lab document containing all test results for a specific ba
 
 Testing is a snapshot. Other quality factors include:
 
-- **Growing practices:** [[cannabis-living-soil-guide]] and [[cannabis-outdoor-growing]] methods produce superior terpene content
+- **Growing practices:** [[cannabis-living-soil-guide|Living soil]] and [[cannabis-outdoor-growing|organic]] methods produce superior terpene content
 - **Harvest timing:** Proper trichome maturity
 - **Drying and curing:** Slow dry (10-14 days) and cure (2-8+ weeks) dramatically improve quality
 - **Storage:** Cool, dark, airtight preserves potency and terpenes
@@ -114,18 +113,4 @@ Testing is a snapshot. Other quality factors include:
 - **pH and EC meters:** For monitoring growing conditions
 - **Microscope:** For pest and mold identification
 
-These supplement but do not replace professional lab testing. Quality [[marijuana-strain-guide-sativa]] and [[marijuana-strain-guide-indica]] genetics can produce excellent testing results when cultivated properly.
-## Cultivation Best Practices
-
-Optimal results depend on careful management of the growing environment including light spectrum and intensity, nutrient delivery, and canopy management techniques. Environmental stress can be strategically applied to enhance desirable compound production. Regular monitoring and data logging help identify optimal conditions for specific genetic expressions.
-
-## Regulatory Landscape
-
-Legal status varies significantly by jurisdiction, with ongoing legislative changes affecting cultivation, processing, and distribution. Growers must maintain awareness of current local, regional, and national regulations. Compliance with testing requirements, licensing provisions, and quality standards is essential for legitimate operations.
-
-## See Also
-- [[aact-brewer-machine-design-testing-standards-ingham]]
-- [[aact-plate-counts-vs-direct-microscopy-molecular-dna-testing-ingham]]
-- [[blesching-cannabis-contaminants-testing-quality-control]]
-- [[brix-testing-plant-health-indicator-ingham]]
-- [[cannabis-quality-testing]]
+These supplement but do not replace professional lab testing. Quality [[marijuana-strain-guide-sativa|sativa]] and [[marijuana-strain-guide-indica|indica]] genetics can produce excellent testing results when cultivated properly.

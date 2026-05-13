@@ -9,7 +9,7 @@ sources: []
 
 # Homestead Water Purification
 
-Reliable water purification is essential for any [[off-grid-waste-management]] or [[homesteading]] [[homesteading]]. Whether your water comes from a well, spring, creek, or rainwater catchment, it may contain bacteria, viruses, parasites, chemicals, [[fungal-biosorption-of-heavy-metals-by-filamentous-fungi]], or sediment. A multi-barrier approach using complementary treatment methods ensures safe drinking water.
+Reliable water purification is essential for any [[off-grid-waste-management|off-grid]] or [[homesteading|rural]] [[homesteading|homestead]]. Whether your water comes from a well, spring, creek, or rainwater catchment, it may contain bacteria, viruses, parasites, chemicals, heavy metals, or sediment. A multi-barrier approach using complementary treatment methods ensures safe drinking water.
 
 ## Water Quality Testing
 
@@ -48,7 +48,7 @@ Before selecting a purification system, test your water:
 **How they work:** Water passes through microscopic pores in a ceramic candle that block bacteria and sediment. Many contain impregnated silver for antibacterial properties.
 
 **Popular systems:**
-- **Berkey (Big Berkey, Royal Berkey)**: Most popular gravity filter. Stainless steel housing, black Berkey elements filter bacteria, viruses (some models), cysts, chemicals, and [[mycoremediation-heavy-metals]]. Flow rate: 2.75 gallons/hour for Big Berkey with 2 elements.
+- **Berkey (Big Berkey, Royal Berkey)**: Most popular gravity filter. Stainless steel housing, black Berkey elements filter bacteria, viruses (some models), cysts, chemicals, and heavy metals. Flow rate: 2.75 gallons/hour for Big Berkey with 2 elements.
 - **Doulton/British Berkefeld**: Similar ceramic filter technology, widely used internationally.
 - **Katadyn Pocket**: Portable ceramic filter for backpacking — too small for household use but useful as backup.
 
@@ -140,10 +140,11 @@ Before selecting a purification system, test your water:
 
 **Calcium hypochlorite (pool shock):**
 - More stable than bleach for long-term storage
-- Mix a small amount with water to create a chlorine solution
-- Treat drinking water with the solution
-- Excellent for [[emergency-preparedness]] and long-term off-grid use
 
-### Biosand Filters
+## See Also
 
-**How they work:** A container filled with sand and gravel supports a biological layer (schmutzdecke) that breaks down pathogens as water slowly percolates through.
+- [[homestead-energy-conservation]]
+- [[homestead-mushroom-business]]
+- [[homestead-winter-preparations]]
+- [[homestead-tool-maintenance]]
+- [[homestead-internet-options]]

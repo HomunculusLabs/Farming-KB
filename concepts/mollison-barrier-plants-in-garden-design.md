@@ -46,8 +46,7 @@ if space permits:
 
 - A deep-rooted broadleaf (e.g., comfrey)
 - A clump grass which does not seed down or is not browsed
-  (e.g., lemongrass, [[comparison-vetiver-grass-vs-bamboo-for-erosion-control]])
-- A carpeting plant such as [[comparison-cassava-vs-taro-vs-sweet-potato-vs-yam]], nasturtium, or
+  (e.g., lemongrass, [[comparison-cassava-vs-taro-vs-sweet-potato-vs-yam]], nasturtium, or
   Impatiens
 - A dense low shrub (Oncoba, Coprosma, Echium fastuosum)
 - A bulb such as Canna, Agapanthus
@@ -59,12 +58,9 @@ first placed, they need to be mulched, manured, and watered.
 ## Lemongrass and Comfrey as Combined Barriers
 
 Lower garden windbreak species, especially lemongrass
-([[cymbopogon-citratus]]) and comfrey ([[comfrey-symphytum-officinale]]), are
+([[comfrey-symphytum-officinale]]), are
 as useful in preventing kikuyu grass intrusion as they are for
-repetitive cutting for mulch in the [[fukuoka-dutch-priest-vegetable-garden-spiritual-renewal]]. Many
-people use both these species as a combined kikuyu barrier and
-mulch crop. Lemongrass does not seed down aggressively and its
-clumping habit makes it ideal for edging [[natural-farming-guide-hugelkultur-mounded-garden-beds]].
+repetitive cutting for mulch in the [[natural-farming-guide-hugelkultur-mounded-garden-beds]].
 
 ## Animal Barriers and Bomas
 

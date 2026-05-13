@@ -48,49 +48,7 @@ considers seed biology, potting media, container size, irrigation, airflow,
 hardening off, and the labor rhythm of sowing and transplanting. Each decision
 affects the plant long after it leaves the tray.
 
-The practice links old and new techniques. [[hamilton-cold-frames-and-hardening-off]], hotbeds, cloches, and
-compost-heated beds belong beside plug trays, shade cloth, capillary mats, and
-unheated greenhouses. Organic growers add another layer: living composts,
-gentle fertility, microbial seed treatments, and avoidance of disease-prone
-excess nitrogen.
-
-Small-scale seed starting matters because it lets farms adapt. A grower who
-can raise strong transplants can choose varieties, recover from weather
-losses, produce successions, and avoid dependence on distant nurseries. In a
-climate of late frosts, heat waves, new pests, and unstable supply chains,
-propagation skill becomes a core resilience skill.
-
-## Seed Biology and Germination
-
-A seed is a dormant plant embryo packaged with stored food and protective
-tissues. Germination begins when water enters the seed, enzymes awaken,
-respiration increases, and the radicle pushes outward. Temperature, oxygen,
-moisture, and sometimes light determine whether this transition proceeds
-smoothly or stalls.
-
-Different crops carry different dormancy strategies. Lettuce may germinate
-poorly when hot, peppers often need warmth and patience, onions lose viability
-quickly, and many perennial herbs benefit from stratification or
-scarification. Nursery skill begins with noticing that seeds are not generic
-units. They are species-specific negotiations with season.
-
-Moisture is the most common point of failure. Seeds need steady hydration but
-also oxygen; saturated media can suffocate embryos and encourage damping-off
-fungi. The ideal condition is evenly moist, airy, and stable. This is why fine
-seed-starting mixes are light, why trays are covered only briefly, and why
-watering is gentler before emergence.
-
-Germination records turn experience into knowledge. Dates, temperatures, seed
-lot age, emergence percentage, and failures help growers refine schedules.
-Over time a farm builds its own propagation calendar, adjusted to its
-greenhouse, climate, and market rather than copied from a packet.
-
-## Propagation Media
-
-Seedlings begin life in a small volume of medium, so physical structure
-matters as much as nutrients. A good seed-starting mix holds water, drains
-freely, resists crusting, and allows roots to explore. Peat, coir, compost,
-[[comparison-leaf-mold-composting-vs-hot-composting-method]], perlite, vermiculite, sand, and screened loam are combined to
+The practice links old and new techniques. [[comparison-leaf-mold-composting-vs-hot-composting-method]], perlite, vermiculite, sand, and screened loam are combined to
 balance these traits.
 
 Organic growers often prefer compost-based mixes, but compost must be mature,
@@ -114,36 +72,16 @@ biologically suitable and logistically dependable.
 
 Containers shape roots. Shallow flats, soil blocks, plug trays, deep cells,
 pots, and biodegradable containers each create different root systems and
-labor demands. A tomato can tolerate potting up, while [[growing-sweet-corn-organically]] and
-cucurbits often dislike root disturbance. The container should match the crop,
-transplant age, and field plan.
-
-Root binding is a hidden nursery failure. When plants remain too long in small
-cells, roots circle, nutrients run out, and stress hormones accumulate. The
-seedling may look green but pause after transplanting. Timely potting up or
-field planting preserves momentum.
-
-Soil blocks offer one response to root architecture. Because the block is not
-confined by plastic walls, roots air-prune at the surface and resume growth
-## See Also
-
-- [[faires-seed-starting-transplanting-guide]]
-- [[jadam-seed-treatment-and-nursery-management]]
+labor demands. A tomato can tolerate potting up, while [[faires-seed-starting-transplanting-guide]]
 - [[hamilton-potting-compost-recipes-and-growing-media]]
-- [[hamilton-container-greenhouse-growing]]
 - [[coleman-unheated-greenhouse-design]]
-- [[coleman-cool-greenhouse]]
-- coleman-greenhouse-soil-management
 - [[greenhouse-growing-essentials]]
-- [[greenhouse-growing-guide]]
 - [[greenhouse-design]]
-- [[jeavons-shade-netting-mini-greenhouses]]
 - [[cannabis-clone-rooting-and-transplanting]]
 
 ## References
 
 - Faires, Nicole. The Ultimate Guide to Permaculture and seed-starting practice.
 - Coleman, Eliot. Four-season and unheated greenhouse writings.
-- Hamilton, Geoff and Nick Hamilton. Organic greenhouse and [[hamilton-potting-compost-recipes-and-growing-media]] guidance.
-- Youngsang Cho and JADAM sources on [[jadam-seed-treatment-and-nursery-management]] nursery management.
+- Hamilton, Geoff and Nick Hamilton. Organic greenhouse and [[jadam-seed-treatment-and-nursery-management]] nursery management.
 - Cervantes, Jorge. Cannabis propagation and transplanting references.

@@ -6,13 +6,7 @@ Power analysis is a crucial but frequently overlooked component of fungal biodiv
 
 ## The Problem in Fungal Biodiversity Research
 
-When comparing species richness or [[core-endorhiza-bacterial-community-composition-cannabis]] among sites, researchers commonly encounter nonsignificant statistical results. The null hypothesis (H₀) is not rejected, leading to the conclusion that no differences exist. However, this interpretation may be wrong if the study lacked sufficient statistical power.
-
-Two reasons explain nonsignificant results in fungal biodiversity comparisons:
-1. **No real differences exist** among the ecological units being compared
-2. **Sample sizes are too small** to reveal biological differences of a magnitude considered important
-
-Power analysis distinguishes between these alternatives and should be considered a crucial component of any [[cannabis-microbiome-experimental-design]] and analysis (Taylor and Gerrodette 1993; Thomas and Juanes 1996).
+When comparing species richness or [[cannabis-microbiome-experimental-design]] and analysis (Taylor and Gerrodette 1993; Thomas and Juanes 1996).
 
 ## Statistical Power Defined
 
@@ -32,7 +26,6 @@ The power of a statistical test is its ability to reject the null hypothesis whe
 
 Fungal communities typically exhibit high spatial and temporal variability:
 - Sporocarp surveys capture only species fruiting during the sampling period
-- [[biodiversity-of-fungi-soil-fungal-communities-agriculture]] show strong microhabitat heterogeneity
 - [[biodiversity-of-fungi-pcr-molecular-methods-fungal-diversity]] introduce their own sources of variance (primer bias, PCR stochasticity)
 - High community variance reduces statistical power, requiring larger sample sizes
 
@@ -82,10 +75,7 @@ For multivariate analyses (PERMANOVA, ANOSIM, MRPP):
 ### Monitoring Programs
 
 Long-term monitoring of fungal biodiversity presents unique challenges:
-- [[macrofungal-fruiting-phenology-interannual-variation]] in fruiting can be extreme
-- Power analysis should account for temporal autocorrelation
-- Detecting trends over time requires more years of data than most programs collect
-- Sequential or adaptive designs can optimize [[mycelial-foraging-resource-allocation]]
+- [[mycelial-foraging-resource-allocation]]
 
 ## When to Conduct Power Analysis
 
@@ -118,13 +108,8 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[fungal-biodiversity]]
 - [[dom]]
-- [[det]]
 - [[fungal-spatial-scale-biodiversity-hierarchical-zak-willig]]
-- [[fungal-beta-diversity-similarity-indices-zak-willig]]
-
 - [[fungal-biodiversity-crisis]]
-- [[fungal-biodiversity-education-citizen-science]]
 - [[fungal-biodiversity-scale-discovery-estimation]]
 - [[fungal-biodiversity-species-estimation]]

@@ -103,7 +103,13 @@ Just as yield can be increased, it can be decreased. The perverse aims of some p
 
 ## See Also
 
-- [[permaculture-design-principles-law-of-return]]
 - [[permaculture-principle-obtain-a-yield]]
-- [[permaculture-food-storage-and-preservation]]
 - [[permaculture-energy-cycling-and-resource-efficiency]]
+
+## See Also
+
+- [[cannabis-yield-optimization]]
+- [[farm-yield-strategies]]
+- [[solomon-potassium-yield-versus-nutrition-tradeoff]]
+- [[green-cannabis-grow-bible-plant-training-pruning-and-yield]]
+- [[fukuoka-hotel-model-harvest-yield-architecture]]

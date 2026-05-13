@@ -32,16 +32,10 @@ sources:
 ## Overview
 
 **Agave americana** (American agave, century plant) is a large succulent perennial
-in the family Asparagaceae, native to Mexico and the southern [[dmt-containing-plants-united-states-halpern]].
-Known as "century plant" for the mistaken belief that it flowers only once per
-century, it actually blooms after 10–30 years of [[cannabis-vegetative-growth-stage]].
+in the family Asparagaceae, native to Mexico and the southern [[cannabis-vegetative-growth-stage]].
 
 The species is one of the most widely cultivated agaves globally, valued for
-its dramatic architectural form, [[dighton-fungal-drought-tolerance-plant-water-relations]], and utility as a fiber,
-fermentable sugar, and medicinal plant. It has naturalized across Mediterranean
-Europe, Africa, South Asia, and Australia.
-
-Agaves played a central role in pre-Columbian [[shroom-mesoamerican-civilization]] as the
+its dramatic architectural form, [[shroom-mesoamerican-civilization]] as the
 source of pulque (fermented agave nectar), fiber (ixtle), food, and building
 materials, a cultural legacy that persists in contemporary Mexico.
 
@@ -66,10 +60,7 @@ offsets (pups) typically survive.
 
 ## Distribution and Habitat
 
-Native to eastern and [[psychoactive-cacti-of-central-mexico]] and the southern United States (Texas, New
-Mexico, Arizona). The species has been widely introduced and naturalized across
-Mediterranean Europe, North Africa, the Canary Islands, South Africa, India,
-Australia, and parts of [[guzman-psilocybin-mushrooms-south-america]].
+Native to eastern and [[guzman-psilocybin-mushrooms-south-america]].
 
 It inhabits arid and semi-arid environments including rocky hillsides, desert
 grasslands, thorn scrub, and disturbed sites. Tolerance ranges from near-sea

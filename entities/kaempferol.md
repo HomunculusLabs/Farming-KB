@@ -75,20 +75,12 @@ Metabolic benefits include improved glucose uptake in skeletal muscle, enhanced 
 
 Preclinical evidence supports kaempferol activity against multiple cancer types including breast, lung, colon, prostate, pancreatic, ovarian, and gastric cancers. IC₅₀ values in cancer cell lines typically range from 20–100 µM.
 
-In breast cancer, kaempferol inhibits ERα-positive cell proliferation and synergizes with tamoxifen. In [[psk-breast-lung-cancer-clinical-trials]], it sensitizes cells to cisplatin chemotherapy by inhibiting DNA repair mechanisms. In [[cannabis-and-colon-cancer-research]], it suppresses Wnt/β-catenin signaling.
+In breast cancer, kaempferol inhibits ERα-positive cell proliferation and synergizes with tamoxifen. In [[cannabis-and-colon-cancer-research]], it suppresses Wnt/β-catenin signaling.
 
-In vivo studies demonstrate tumor growth inhibition of 30–60% in xenograft models at doses of 50–200 mg/kg. No significant toxicity has been observed at therapeutic doses in animal studies. [[mushroom-cancer-clinical-trials-overview]] in humans are limited but ongoing.
-
-## Safety and Toxicology
-
-Kaempferol is classified as GRAS (Generally Recognized as Safe) by the US FDA as a food component. No [[blesching-cannabis-safety-adverse-effects-evidence]] have been reported at normal dietary intake levels.
+In vivo studies demonstrate tumor growth inhibition of 30–60% in xenograft models at doses of 50–200 mg/kg. No significant toxicity has been observed at therapeutic doses in animal studies. [[blesching-cannabis-safety-adverse-effects-evidence]] have been reported at normal dietary intake levels.
 
 At pharmacological doses (>200 mg/day), mild gastrointestinal discomfort has been reported. High-dose intravenous administration in animal studies showed no organ toxicity at doses up to 500 mg/kg. No mutagenic or genotoxic effects have been observed in standard Ames test and micronucleus assays.
 
-[[cannabis-drug-interactions-and-contraindications]] are possible due to CYP450 inhibition, particularly CYP3A4 and CYP2C9. Kaempferol may enhance the bioavailability of drugs metabolized by these enzymes, requiring clinical monitoring in polypharmacy patients.
-
-## See Also
-- [[plumbago-zeylanica]]
-- [[quercetin]]
+[[plumbago-zeylanica]]
 - [[pistia-stratiotes]]
 - [[query-what-are-the-health-benefits-of-dietary-polyphenols]]

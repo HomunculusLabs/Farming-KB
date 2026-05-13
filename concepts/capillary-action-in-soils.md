@@ -18,34 +18,7 @@ type: concept
 
 ## Overview
 
-Capillary action is the movement of water through narrow spaces between soil particles, driven by the combined forces of [[bloomfield-buller-drop-surface-tension-spore-catapult-basidiospore-discharge]] and adhesion. In the context of gardening, understanding capillarity is essential for [[cannabis-seed-germination-methods]], [[drought-gardening]], irrigation management, and overall soil health. [[steve-solomon]] devotes significant attention to this physical phenomenon because it is the mechanism by which water moves upward through soil from deeper moist layers to the surface, and it is the foundation upon which his low-irrigation and [[wide-spacing-dry-gardening-low-irrigation-solomon]] methods depend.
-
-## How Capillary Action Works
-
-When soil particles are packed closely together, the tiny gaps between them act like capillary tubes. Water molecules are attracted to soil particle surfaces (adhesion) and to each other (cohesion). In narrow spaces, the adhesive force between water and soil exceeds the pull of gravity, causing water to climb upward from wetter regions to drier ones.
-
-This is the same principle that causes water to climb up a paper towel dipped in a glass, or sap to rise in the tiny vessels of a tree trunk. In soil, the effect operates continuously: moisture moves from wet zones toward dry zones through the capillary network, as long as the spaces between soil particles remain connected.
-
-## The Footprint Test
-
-Solomon provides a practical field demonstration of capillarity. After rototilling a new garden, he advises the gardener to walk across the tilled surface, leaving footprints. Immediately after tilling, all the soil appears uniformly damp. But the next morning, before the sun has had a chance to heat the surface, the gardener should examine those footprints:
-
-The entire tilled surface will have dried to a lighter color — except for the footprints, which will still be dark and damp. Why? Because the gardener's weight compressed the soil particles in the footprints closely enough to restore capillary connections. In the loose, fluffy tilled soil, the capillary network was broken — water could not move from deeper moist layers to the surface. But in the compressed footprints, the capillary pathways were re-established, allowing moisture to rise from below.
-
-This simple observation has profound implications for garden management. It demonstrates that loose, fluffy soil is not inherently better — it has actually lost its ability to conduct water upward.
-
-## Field Capacity and the Wilting Point
-
-Capillary action defines two critical soil moisture thresholds:
-
-### Field Capacity
-When soil has absorbed all the water it can hold against the force of gravity — like a fully saturated sponge that has stopped dripping — it is said to be at field capacity. Any additional water added beyond this point will percolate downward by gravity. Field capacity is determined by the total surface area of soil particles: clay soils (with their enormous surface area per unit volume) hold much more water at field capacity than sandy soils.
-
-### Permanent Wilting Point
-As soil dries, the remaining moisture forms an ever-thinner film on soil particle surfaces. The thinner the film, the more tightly the water is held by capillary and adhesive forces. Eventually, the moisture clings so tightly to soil particles that vegetable roots cannot extract it. This is the permanent wilting point. Even hot, dry desert soil still holds some moisture that is physically inaccessible to plants.
-
-### Available Water Capacity
-The difference between field capacity and the permanent wilting point is the available water capacity — the range of soil moisture that plants can actually use. A garden soil with high available water capacity (typically a loam with good [[hamilton-composting-and-organic-matter-management]] content) can go longer between waterings than a sandy soil with low available water capacity.
+Capillary action is the movement of water through narrow spaces between soil particles, driven by the combined forces of [[cannabis-seed-germination-methods]], [[steve-solomon]] devotes significant attention to this physical phenomenon because it is the mechanism by which water moves upward through soil from deeper moist layers to the surface, and it is the foundation upon which his low-irrigation and [[hamilton-composting-and-organic-matter-management]] content) can go longer between waterings than a sandy soil with low available water capacity.
 
 ### Temporary Wilting Point
 Most vegetable species experience temporary wilting during hot afternoon hours when transpiration demand exceeds the roots' ability to extract water. This is a normal, non-damaging phenomenon if the soil still contains moisture above the permanent wilting point. Plants recover overnight as transpiration demand drops. However, Solomon warns that many vegetables experience subtle moisture stress well before any visible wilting occurs, and this invisible stress significantly reduces growth and quality.
@@ -118,8 +91,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[dom]]
 - [[det]]
-- [[composting]]
 - [[spore]]
 - [[drought-gardening]]

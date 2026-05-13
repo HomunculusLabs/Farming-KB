@@ -16,10 +16,9 @@ type: concept
 
 # Ololiuqui Vines of the Serpent
 
-Ololiuqui refers to the psychoactive seeds of two [[golden-guide-morning-glory-and-ololiuqui]] species:
-*[[plants-of-the-gods-turbina-corymbosa-ololiuqui]]* ([[rivea-corymbosa]]) and *[[ipomoea-violacea]]*. These
+Ololiuqui refers to the psychoactive seeds of two [[plants-of-the-gods-turbina-corymbosa-ololiuqui]]* ([[ipomoea-violacea]]*. These
 seeds, among the most sacred hallucinogens of Aztec civilization, contain
-[[ergot-and-lysergic-acid-history]] amide and related [[morning-glory-lsa-and-ergoline-alkaloids]], placing them
+[[morning-glory-lsa-and-ergoline-alkaloids]], placing them
 chemically in the same family as LSD and ergot. Their use has persisted
 from pre-Hispanic Mexico into the present day among indigenous communities
 of Oaxaca.
@@ -28,63 +27,93 @@ of Oaxaca.
 
 The Aztecs possessed "an herb called coatl-xoxo uhqui [green snake], and
 it bears a seed called Ololiuqui." An early colonial drawing depicts it as
-a [[hofmann-ololiuqui-morning-glory-investigation]] with congested fruits, cordate leaves, a tuberous root,
-and a twining habit. The Nahuatl name Ololiuqui means "round thing,"
-referring to the seed's shape. The plant was also known as Coaxihuitl or
-snake plant, reflecting its association with serpentine symbolism in Aztec
-cosmology.
-
-A mural from Teotihuacan, dated approximately 500 CE, depicts an ancient
-Indian Mother Goddess and her priestly attendants with a highly stylized
-vine of Ololiuqui. Hallucinogenic nectar appears to flow from the blossoms
-of the plant, and "disembodied eyes" and birds are other stylistic
-features associated with hallucinogenic intoxication, providing
-archaeological evidence of use centuries before the Aztec empire.
-
-## Colonial Descriptions and Persecution
-
-In 1651, Francisco Hernandez, physician to the King of Spain, provided the
-first professional botanical identification of Ololiuqui as a morning
-glory. He reported that "when the priests wanted to commune with their
-gods and to receive a message from them, they ate this plant to induce a
-delirium. A thousand visions and Satanic hallucinations appeared to them."
-He also catalogued medicinal uses: curing syphilis, mitigating pain caused
-by chills, relieving flatulency, removing tumors, and aiding in cases of
-dislocations, fractures, and pelvic troubles.
-
-Four centuries ago, a Spanish missionary wrote that Ololiuqui "deprives
-all who use it of their reason. The natives communicate in this way with
-the devil, for they usually talk when they become intoxicated with
-Ololiuqui, and they are deceived by various hallucinations which they
-attribute to the deity which they say resides in the seeds."
-
-The Indians fiercely defended their cherished Ololiuqui. As one observer
-noted: "Throughout these references we see two cultures in a duel to
-death, the Spanish and the Indians, with the tenacity and wiles of the
-Indians defending their cherished Ololiuqui. The Indians seem to have won
-out. Today in almost all the villages of Oaxaca one finds the seeds still
-serving the natives as an ever present help in time of trouble."
-
-## Divinatory Use and Ritual Practice
-
-Ololiuqui was consulted as an oracle to learn many things, especially
-those "beyond the power of the human mind to penetrate." The doctor who
-did not drink Ololiuqui might advise the patient to partake, appointing
-the day and hour and establishing the reason. The one drinking Ololiuqui
-must seclude himself in his room; no one must enter during his divination.
-He believes the Ololiuqui is revealing what he wants to know. When the
-delirium passes, the doctor emerges reciting "a thousand fabrications,"
-thus keeping the patient deceived.
-
-The Aztecs also prepared a salve for sacrificial rites: "They took
-poisonous insects, burned them and beat the ashes together with the foot
-of the ocotl, tobacco, Ololiuqui and some live insects. When thus
-anointed, they became fearless to every danger."
-
-## Mazatec and Chinantec Use
-
-In 1939, identifiable material of *[[turbina-corymbosa]]* was collected among
+a [[turbina-corymbosa]]* was collected among
 the Chinantec and Zapotec of Oaxaca, where it was cultivated for
 hallucinogenic use. The Chinantec name A-mu-kia means "medicine for
 divination." Thirteen seeds are usually ground up and drunk with water or
 in an alcoholic beverage. Intoxication rapidly begins and leads to visual
+
+## Overview
+
+Schultes Ololiuqui Vines Serpent represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish schultes ololiuqui vines serpent
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving schultes extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Schultes Ololiuqui Vines Serpent finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for schultes ololiuqui vines serpent. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+schultes ololiuqui vines serpent and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Schultes Ololiuqui Vines Serpent has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of schultes ololiuqui vines serpent into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[richard-evans-schultes]]
+- [[richard-evans-schultes-updated]]
+- [[schultes-ergot-st-anthonys-fire]]
+- [[schultes-panaeolus-mushrooms-shamanic]]
+- [[schultes-psilocybe-little-flowers-gods]]

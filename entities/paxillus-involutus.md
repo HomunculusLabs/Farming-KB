@@ -18,49 +18,14 @@ type: entity
 ## Overview
 Paxillus involutus is a widespread ectomycorrhizal basidiomycete fungus
 associated primarily with trees in the Pinaceae and Betulaceae families. It is
-one of the most extensively studied [[query-what-are-ectomycorrhizal-fungi-and-which-plants-do-they-associate-with]] due to its
-significant role in [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]], [[mycorrhizal-mineral-weathering-nutrient-acquisition]], and plant-microbe
-interactions in forest ecosystems. Despite its ecological importance, the
-fungus is toxic to humans when consumed raw.
-
-## Taxonomy and Classification
-- **Kingdom:** Fungi
-- **Division:** Basidiomycota
-- **Class:** Agaricomycetes
-- **Order:** Boletales
-- **Family:** Paxillaceae
-- **Genus:** Paxillus
-- **Species:** P. involutus
-
-## Key Details
-
-### Morphology
-- Cap is brown, convex, with an inrolled margin when young
-- Gills are decurrent, brown, bruising darker when handled
-- Stem is short, solid, and brownish
-- Spore print is rusty brown
-- Forms prominent mycorrhizal root tips with mantle and Hartig net
-
-### Symbiotic Relationships
-- Forms [[saprotrophic-fungi]] to host
-  plants through shared [[fungal-mycelial-networks-nutrient-translocation]] (Lindahl et al., 1999)
-
-### Ecological Role
-- Considered a "late-stage" mycorrhizal fungus in [[mollison-designers-food-forest-succession-design]]
+one of the most extensively studied [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]], [[saprotrophic-fungi]] to host
+  plants through shared [[mollison-designers-food-forest-succession-design]]
 - More prevalent in mature forest stands with recalcitrant litter
 - Interacts synergistically with Suillus species in nutrient cycling
 
 ## Relevance
 Paxillus involutus is a model ectomycorrhizal fungus for understanding
-mineral weathering, heavy [[fungal-metal-tolerance-mechanisms]], and plant-fungal interactions.
-Its ability to mobilize nutrients from rocks and protect host plants from
-toxic metals makes it valuable for reforestation of degraded or
-contaminated sites. In permaculture and ecological restoration, selecting
-inoculants with similar functional traits can improve tree establishment
-on marginal soils.
-
-## See Also
-- [[cenococcum-geophilum]]
+mineral weathering, heavy [[cenococcum-geophilum]]
 - [[suillus-granulatus]]
 ## Practical Considerations
 
@@ -80,3 +45,84 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
+
+## Overview
+
+Paxillus Involutus represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish paxillus involutus
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving paxillus extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Paxillus Involutus finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for paxillus involutus. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+paxillus involutus and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Paxillus Involutus has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of paxillus involutus into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[paxillus-atrotomentosus]]

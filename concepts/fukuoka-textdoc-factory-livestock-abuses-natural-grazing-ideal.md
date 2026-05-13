@@ -23,21 +23,7 @@ type: concept
 
 ## Overview
 
-[[masanobu-fukuoka]] launched a sweeping critique of industrial livestock production, arguing that the mass confinement of chickens, pigs, and cattle in factory facilities produces food that is qualitatively inferior, ecologically destructive, and spiritually degrading. He contrasted this with natural grazing as the ideal form of livestock husbandry, one that allows animals to live in accordance with their nature while requiring minimal human labor.
-
-## The Spread of Industrial Livestock Facilities
-
-One new livestock technology that has been spreading like wildfire throughout Japan is the mass raising of chickens, pigs, cattle, and other livestock and fowl in large facilities. The animals are fed preserved foods compounded from a very small amount of natural feed and liberal amounts of additives such as drugs, vitamins, and nutrients, all ostensibly for protecting health.
-
-This eliminates the necessity of rushing about to attend to every need of the livestock. The animal is efficiently raised by placing it in a narrow enclosure or cage just big enough to accommodate it but hardly allowing it to move about. The goal is to produce as much as possible on a narrow piece of land.
-
-## The Illusion of Efficiency
-
-There appear to be no problems with this method. In addition to being efficient, the work is less physically demanding and production is better than ever. But high-volume livestock farming encounters the problems of market supply and distribution of the product familiar in factory production.
-
-Beset by wildly fluctuating prices, the livestock farmer becomes totally caught up with concerns over his margins and profits. The apparent efficiency masks a deeper inefficiency. The factory system requires massive inputs of energy in the form of processed feed, [[mollison-pdc-trellis-systems-climate-control]], [[off-grid-waste-management]], and transportation.
-
-When these hidden costs are accounted for, the true [[fukuoka-textdoc-energy-efficiency-agricultural-labor]] of factory livestock farming is far lower than that of natural grazing, where the animals harvest their own feed and convert solar energy directly into food.
+[[mollison-pdc-trellis-systems-climate-control]], [[fukuoka-textdoc-energy-efficiency-agricultural-labor]] of factory livestock farming is far lower than that of natural grazing, where the animals harvest their own feed and convert solar energy directly into food.
 
 ## Beef Is No Longer Beef
 
@@ -49,25 +35,9 @@ Fukuoka states plainly: "We have arrived in an age where beef is no longer beef 
 
 Livestock farming is no longer a form of agriculture practiced in nature. Unfertilized battery chickens are just machines for hatching factory-made eggs, while hogs and cows are merely factory-produced meat and milk-fabricating machines. These products could not possibly be wholesome.
 
-Regardless of whether the product is good or bad, one person can raise tens and hundreds of thousands of head efficiently with mass [[spawn-production-techniques]]. But it is capital, not men, that today raises these animals.
+Regardless of whether the product is good or bad, one person can raise tens and hundreds of thousands of head efficiently with mass [[comparison-natural-farming-vs-permaculture]], livestock farming takes the form of open grazing. Cattle, pigs, and chickens fattened while free to roam at will on the open land under the sun's rays are a precious, irreplaceable source of food for man.
 
-## Capital Replaces the Farmer
-
-This is no longer the farmer's domain, but that of commercial houses which raise livestock in large factory-like operations. The farmer has been reduced to a factory worker, and the farm has been replaced by a production facility.
-
-The connection between the farmer, the land, and the animals has been severed entirely. What was once a sacred relationship between man, animal, and earth has been reduced to an industrial process governed by profit margins.
-
-## Natural Grazing as the True Ideal
-
-Under the precepts of [[comparison-natural-farming-vs-permaculture]], livestock farming takes the form of open grazing. Cattle, pigs, and chickens fattened while free to roam at will on the open land under the sun's rays are a precious, irreplaceable source of food for man.
-
-The problem lies elsewhere, in the prejudiced view that sees [[cho-loess-powder-in-natural-farming]] as inefficient. Is grazing, which allows one person to raise hundreds of head without doing anything, really inefficient? Is it not, rather, the most efficient form of production there is?
-
-## Rethinking the Definition of Efficiency
-
-The question of efficiency depends entirely on what is being measured. If the metric is output per unit of labor or output per unit of land, factory farming appears superior. But if the metric is output per unit of energy input, quality of the product, ecological sustainability, animal welfare, or long-term viability, natural grazing is clearly superior.
-
-The factory [[fukuoka-centrifugal-centripetal-farming-model]] succeeds only by externalizing its costs onto the environment, the animals, and the consumers.
+The problem lies elsewhere, in the prejudiced view that sees [[fukuoka-centrifugal-centripetal-farming-model]] succeeds only by externalizing its costs onto the environment, the animals, and the consumers.
 
 ## Animals Are Capable of Living in Nature
 
@@ -118,8 +88,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[fukuoka-factory-livestock-critique-natural-grazing-philosophy]]
 - [[fukuoka-textdoc-natural-livestock-farming-open-grazing]]
-- [[fukuoka-textdoc-natural-livestock-open-grazing]]
 - [[doc]]
 - [[dom]]

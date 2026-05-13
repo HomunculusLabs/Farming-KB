@@ -22,9 +22,7 @@ created: 2026-05-07
 
 4-PrO-DMT (4-propyloxy-N,N-dimethyltryptamine) is a synthetic psychedelic tryptamine and a member of the 4-substituted dimethyltryptamine family. It is an analogue of psilocin (4-HO-DMT) and 4-AcO-DMT, with the hydroxyl or acetyl group replaced by a propyloxy substituent at the 4-position of the indole ring.
 
-The compound was first synthesized and characterized by [[alexander-shulgin]], with preliminary pharmacological data reported in TiHKAL (Tryptamines I Have Known and Loved).
-
-Like other 4-substituted DMTs, 4-PrO-DMT acts primarily as a serotonin 5-HT2A receptor agonist, producing subjective effects qualitatively similar to [[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]].
+The compound was first synthesized and characterized by [[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]].
 
 The compound exists in research-chemical contexts and has not been approved for any therapeutic or commercial application.
 
@@ -52,11 +50,7 @@ Solubility is moderate in polar organic solvents (ethanol, DMSO) and limited in 
 
 Binding affinity at 5-HT2A is expected to fall within the range of other 4-alkoxy tryptamines (Ki in the low nanomolar to sub-micromolar range), based on structural analogy to 4-HO-DMT (Ki ≈ 6 nM) and 4-AcO-DMT.
 
-Activity at other [[serotonin-receptor-interference-psychedelic-mechanism]] subtypes (5-HT1A, 5-HT2C, 5-HT5A, 5-HT7) is anticipated but not fully characterized in the published literature.
-
-The compound is hypothesized to function as a prodrug, with metabolic O-dealkylation cleaving the propyloxy group to yield 4-HO-DMT (psilocin) as the active metabolite.
-
-This [[gluconeogenesis-biochemistry-metabolic-pathway]] parallels the established conversion of 4-AcO-DMT to psilocin via deacetylation and of 4-PO-DMT to psilocin via O-dealkylation.
+Activity at other [[gluconeogenesis-biochemistry-metabolic-pathway]] parallels the established conversion of 4-AcO-DMT to psilocin via deacetylation and of 4-PO-DMT to psilocin via O-dealkylation.
 
 The propyl chain is longer than the methyl (4-MeO-DMT) and ethyl (4-EtO-DMT) homologues, which may affect metabolic stability and duration of action.
 

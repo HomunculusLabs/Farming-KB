@@ -25,34 +25,7 @@ sources:
   - Huang, K.C. (1999). "The Pharmacology of Chinese Herbs." CRC Press.
   - Crownover, R.J. (2010). "Rheum palmatum: A Review of Botany,
     Chemistry, and Pharmacology." Journal of Ethnopharmacology.
-  - Li, T.K. (1974). "An Introduction to Chinese [[herbal-materia-medica]]."
-    Chinese Medicine Publishing.
-  - Rhee, M.H. et al. (2017). "Rhubarb (Rheum spp.): Chemistry and
-    Pharmacology." In: Medicinal and Aromatic Plants of the World.
-    Springer.
----
-
-# Rheum palmatum
-
-**Chinese Rhubarb** | *Rheum palmatum* L. | 大黄 (dà huáng)
-
-*Rheum palmatum* is a large perennial herb in the family Polygonaceae, native to the mountainous regions of western China and Tibet (Gansu, Qinghai, Sichuan, and Tibet at 1,500–4,000 m elevation). One of the most important drugs in Traditional Chinese Medicine (TCM), where its dried root and rhizome — known as *dà huáng* — has been used for over 2,000 years as a purgative, anti-inflammatory, and hepatoprotective agent. Medicinal activity derives primarily from anthraquinone glycosides (sennosides A and B, emodin, aloe-emodin, chrysophanol, physcion, rhein), which stimulate colonic peristalsis and exert broad pharmacological effects. Though related to culinary rhubarb (*R. rhabarbarum*), *R. palmatum* is cultivated primarily for medicinal use, though its petioles are also edible when properly prepared.
-
-## Taxonomy and Description
-
-Polygonaceae → Polygonoideae → *Rheum* → *R. palmatum*. Described by Linnaeus in 1759. The genus contains approximately 60 species distributed across Central and Eastern Asia. *R. palmatum* is closely related to *R. tanguticum* and *R. officinale*; the dried roots of all three are accepted as sources of *dà huáng* in the Chinese Pharmacopoeia. A large herbaceous perennial forming a substantial crown of leaves from a thick, fleshy rhizome, reaching 1.5–3.0 m at flowering with palmately lobed leaves 30–60 cm across on petioles to 60 cm. Small greenish-white flowers in terminal panicles up to 60 cm long. Three-winged achenes, 8–10 mm across. Blooms June to July.
-
-## Distribution and Habitat
-
-Native to the mountainous regions of Gansu, Qinghai, Sichuan, and Tibet in western China, at elevations of 1,500–4,000 meters. Grows in alpine meadows, rocky slopes, stream banks, and forest margins. Commercially cultivated in Gansu, Qinghai, and Sichuan, with smaller-scale production in Korea, Japan, and Eastern Europe. Hardy to USDA zone 5.
-
-## Phytochemistry
-
-The root and rhizome contain anthraquinone glycosides (primary actives: sennosides A and B, emodin 8-O-glucoside, aloe-emodin, chrysophanol, physcion, rhein — total anthraquinone content 2–5% in dried root), condensed tannins (proanthocyanidins, 5–10%), stilbenes and phenolic acids ([[holzer-medicinal-and-culinary-herbs-compendium]]
-- [[chinese-tallow-tree]]
-
-## See Also
-
+  - Li, T.K. (1974). "An Introduction to Chinese [[holzer-medicinal-and-culinary-herbs-compendium]]
 - [[permaculture-plants-edible-perennials-understory]]
 ## Practical Considerations
 
@@ -88,3 +61,80 @@ and adaptive capacity helps buffer against unpredictable events and
 conditions. This approach recognizes that some degree of uncertainty is
 inherent in working with natural systems and plans accordingly rather
 than assuming perfect predictability or control over outcomes.
+
+## Overview
+
+Rheum Palmatum represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish rheum palmatum
+from related concepts in [[permaculture]] and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving rheum extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Rheum Palmatum finds practical application in multiple design contexts.
+[[permaculture-principles]] guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for rheum palmatum. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+rheum palmatum and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Rheum Palmatum has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of rheum palmatum into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.

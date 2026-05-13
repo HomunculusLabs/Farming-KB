@@ -7,7 +7,7 @@ updated: 2026-04-25
 sources: ["papers/bill-mollison-permaculture-a-designers-manual.md"]
 type: concept
 ---
-# Pattern Understanding in Permaculture Pattern understanding is one of the most distinctive and intellectually ambitious aspects of permaculture design. Bill Mollison devoted an entire chapter of *Permaculture: A Designers' Manual* to the observation that natural systems express themselves through recurring patterns that optimize energy flow, material distribution, and information exchange. By understanding these patterns, designers can apply them to human systems, creating designs that are more efficient, resilient, and productive. Pattern understanding connects directly to [[zone-and-sector-analysis]] to [[zone-and-sector-analysis]]
+# Pattern Understanding in Permaculture Pattern understanding is one of the most distinctive and intellectually ambitious aspects of permaculture design. Bill Mollison devoted an entire chapter of *Permaculture: A Designers' Manual* to the observation that natural systems express themselves through recurring patterns that optimize energy flow, material distribution, and information exchange. By understanding these patterns, designers can apply them to human systems, creating designs that are more efficient, resilient, and productive. Pattern understanding connects directly to [[zone-and-sector-analysis]]
 zones radiating from Zone 0. A branching pathway system provides efficient
 access to all parts of a property while minimizing the total length of path
 required. Water distribution systems using branching patterns deliver water
@@ -19,24 +19,16 @@ structure at every scale.
 
 Wave patterns manifest in ocean swells, sand dunes, sound propagation, and
 the alternating layers of forest edges. Mollison applied wave patterns to
-contour plowing, [[bill-mollison-permaculture-a-designers-manual-edge-effect-and-ecotone-design]] between water and land.
-
-## Spiral Patterns
-
-Spiral patterns appear in [[oyster-mushroom-sunflower-seed-hull-substrate]] heads, pinecones, weather systems,
+contour plowing, [[oyster-mushroom-sunflower-seed-hull-substrate]] heads, pinecones, weather systems,
 galaxies, and the growth patterns of many climbing plants. In permaculture,
-the spiral is applied in [[comparison-herb-spiral-vs-keyhole-beds]] gardens where a three-dimensional spiral
-structure creates multiple microclimates in a small footprint. The top of the
-herb spiral is hot and dry, suitable for [[query-best-mediterranean-herbs-for-beginner-herb-garden]] like rosemary
+the spiral is applied in [[query-best-mediterranean-herbs-for-beginner-herb-garden]] like rosemary
 and thyme, while the base is cool and moist, supporting parsley, mint, and
 watercress. Spiral staircases save space in building design. Spiral water
 flow patterns in ponds increase aeration and nutrient distribution. The spiral
 also appears in the design of 
 relationships where multiple species are connected through mutual exchanges.
 A food forest functions as a network where nitrogen-fixing trees feed fruit
-trees, [[permaculture-plants-food-forest-ground-covers-bamboos]] suppress weeds and retain moisture, and climbing plants
-use trees as support while providing additional yield. Social networks in
-[[bill-mollison-permaculture-a-designers-manual-edge-effect-and-ecotone-design]] productivity
+trees, [[bill-mollison-permaculture-a-designers-manual-edge-effect-and-ecotone-design]] productivity
 increases at boundaries, lobate patterns increase overall system productivity.
 Mollison recommended designing garden beds, pond edges, and property
 boundaries with crenulated or lobate shapes rather than straight lines. A pond
@@ -118,8 +110,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[bill-mollison]]
 - [[permaculture-design]]
-- [[permaculture]]
 - [[bill-mollison-permaculture-a-designers-manual-animal-systems-in-permaculture]]
 - [[bill-mollison]]

@@ -10,10 +10,10 @@ type: concept
 
 # Psilocybe cubensis Cultivation
 
-[[psilocybe-cubensis]] is the most commonly cultivated [[psilocybin-mushrooms-overview]], [[mushroom-sterile-technique-detailed]], [[harm-reduction-guide]]
+[[psilocybin-mushrooms-overview]], [[harm-reduction-guide]]
 ## Background and Context
 
-Psilocybe cubensis Cultivation is an important subject that has garnered significant attention
+[[psilocybe-cubensis]] Cultivation is an important subject that has garnered significant attention
 from researchers, practitioners, and enthusiasts alike. The topic
 sits at the intersection of multiple disciplines, drawing on insights
 from biology, ecology, chemistry, and practical experience. A thorough

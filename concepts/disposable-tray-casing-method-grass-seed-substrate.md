@@ -1,31 +1,15 @@
 
-# Disposable Tray Casing Method for [[grass-seed-substrate]]
-
-The disposable tray casing method is a straightforward technique for
-transferring fully colonised grass [[grass-seed-substrate-for-mushroom-cultivation]] into a fruiting-ready
-configuration. Popular among home cultivators of **[[psilocybe-cubensis]]** and
-other coprophilous species, it requires minimal specialised equipment. The
-method centres on shaking loose colonised seed from wide-mouth jars, spreading
-it into shallow disposable plastic trays, and applying a non-nutritive casing
-layer that triggers the shift from vegetative casing-layer-materials-and-formulas for even pin formation, increases substrate volume per
-fruiting unit (raising yield compared to fruiting directly from jars), and
-allows multiple trays to share a single [[fruiting-chamber]]. Trays are disposable,
+# Disposable Tray Casing Method for [[grass-seed-substrate-for-mushroom-cultivation]] into a fruiting-ready
+configuration. Popular among home cultivators of **[[fruiting-chamber]]. Trays are disposable,
 eliminating sterilisation of fruiting containers between runs.
 
 ## Materials
 
 | Material | Specification | Notes |
 |---|---|---|
-| Grass [[sorghum-seed-spawn-production]] jars | Wide-mouth, fully colonised | Typically 500–750 mL each |
-| Disposable plastic trays | ~1 litre capacity | Shallow, food-grade |
-| polyethylene-sheeting-fruiting-bins-small-scale-cultivation | Clear, 2–4 mil | Chamber lid covering |
-| Mesh screen | Fine mesh | Pest barrier for vent holes |
-| Spoon and fork | Standard kitchen utensils | For applying and texturing casing |
-
-No [[low-cost-mushroom-growing-house-construction-developing-countries]]**: No cleaning or sterilising of reusable fruiting containers.
+| Grass [[low-cost-mushroom-growing-house-construction-developing-countries]]**: No cleaning or sterilising of reusable fruiting containers.
 - **Scalability**: Multiple trays prepared in one session, managed in shared
   fruiting-chamber-design
-- [[contamination-prevention-in-mushroom-cultivation]]
 - [[gottlieb-psilocybin-cultivation-bulk-substrate-preparation]] methods comparison
 ## Practical Applications
 
@@ -97,8 +81,6 @@ through generations to modern scientific approaches, the evolution continues
 to inform current best practices and research directions.
 
 ## See Also
-- [[grass-seed-substrate]]
 - [[doc]]
-- [[psilocybin]]
 - [[det]]
 - [[overnight-soak-method-homogeneous-grass-seed-substrate]]

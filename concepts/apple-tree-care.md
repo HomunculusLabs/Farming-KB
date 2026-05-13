@@ -9,7 +9,7 @@ sources: []
 
 ## Overview
 
-Apples are among the most rewarding fruit trees for home orchards. With proper planting, pruning, [[garden-myths-weeds-and-pest-management]], a single tree can produce fruit for 50-100+ years. This guide covers planting, [[comparison-central-leader-vs-open-center-fruit-tree-training]] pruning, fruit thinning, pest management, [[seed-saving-and-variety-selection]].
+Apples are among the most rewarding fruit trees for home orchards. With proper planting, pruning, and pest management, a single tree can produce fruit for 50-100+ years. This guide covers planting, central leader pruning, fruit thinning, pest management, and variety selection.
 
 ## Planting
 
@@ -20,7 +20,7 @@ Apples are among the most rewarding fruit trees for home orchards. With proper p
 - Avoid planting during the heat of midsummer
 
 ### Site Selection
-- Full sun (6-8+ hours direct) [[query-how-do-i-prune-brambles-for-maximum-fruit-production]] production
+- Full sun (6-8+ hours direct) for maximum fruit production
 - Good air circulation — avoid low frost pockets and wind-sheltered corners
 - Well-draining soil — standing water kills roots quickly
 - Soil pH 6.0-7.0
@@ -114,7 +114,7 @@ Thinning excess fruit is essential for quality apples and tree health.
 - Larvae tunnel into fruit, leaving frass (excrement) at the entry hole
 - Management:
   - Pheromone traps to monitor flight and disrupt mating
-  - Apply spinosad (Entrust) or Bt ([[bacillus-thuringiensis]]) at petal fall and repeat every 10-14 days for 3-4 applications
+  - Apply spinosad (Entrust) or Bt (Bacillus thuringiensis) at petal fall and repeat every 10-14 days for 3-4 applications
   - Remove dropped fruit regularly (breeding ground for larvae)
   - Bag individual fruit clusters with nylon footies or paper bags (very effective on small trees)
   - Trunk banding with corrugated cardboard to trap overwintering larvae
@@ -140,11 +140,11 @@ Thinning excess fruit is essential for quality apples and tree health.
   - Good air circulation through pruning reduces disease pressure
 
 ### Other Pests
-- **Apple maggot**: Flies lay eggs under fruit skin; larvae tunnel through flesh. Red sticky traps, kaolin clay sprays, clean up fallen fruit
-- **Plum curculio**: Small weevil that scars fruit and causes premature drop. Surround WP (kaolin clay) spray, pyrethrin at petal fall
-- **Aphids**: Curl leaves and produce honeydew; encourage ladybugs, use insecticidal soap
-- **Mites**: Cause bronzing of leaves; dormant oil spray, encourage predatory mites
 
-### Organic Spray Schedule
-- **Dormant season**: Horticultural oil (smother overwintering pests and eggs)
-- **Green tip**: Sulfur (scab prevention)
+## See Also
+
+- [[mollison-designers-apple-guild-and-cool-climate-fruit-guilds]]
+- [[bloomfield-apple-orchard-fungal-disease-devastation]]
+- [[apple-tree-guild-design-species-combinations]]
+- [[apple-centered-guild-design]]
+- [[apple-fritter]]

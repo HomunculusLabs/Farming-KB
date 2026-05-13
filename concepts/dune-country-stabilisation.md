@@ -6,36 +6,7 @@ type: concept
 
 # Dune Country and Stabilisation
 
-Sand dunes are among the most dynamic and challenging landforms in arid environments, yet they also represent enormous freshwater reservoirs and productive potential when properly understood and managed. Dune stabilisation is a critical component of desert [[permaculture]].
-
-## Dune Types and Classification
-
-Sands occur on pavements or as dunefields (sand seas). Depending on wind intensity, duration, streamlines and velocity, and the supply of sand downwind, dunes take characteristic forms:
-
-- **Transverse dunes**: Regular ridges perpendicular to the prevailing wind.
-- **Oblique dunes**: Oriented at an angle to wind direction.
-- **Longitudinal dunes**: Aligned parallel with the wind direction.
-- **Barchans**: Crescent-shaped dunes with horns pointing downwind.
-- **Sand seas**: Curiously wave-like (rough sea) forms with lobed advance edges.
-
-## Dunes as Water Reservoirs
-
-A critical insight for desert design is that dunes function as large water tanks. The relationship between depth and moisture content in dune systems is:
-
-- **Surface to a few metres**: Only about 4% water content.
-- **Approximately 6 metres deep**: Damp sands are found.
-- **Approximately 40 metres deep**: Saturated sands occur.
-
-Any traveller in vegetated deserts will notice that the largest trees — sometimes the only trees — stand in the dune ridges. This is true of dunes on harder pavement, dunes on clay with a strong base pavement, coastal dune hollows, and deflation hollows in sands. Dunes present a very large surface area of sand grains for water to adhere to, and rapid infiltration of rain is possible, much as coral sands of an atoll hold rainwater that "floats" on salt water.
-
-At the edge of large dune complexes, water rushes and sedges are usually visible at base seepage, and even shallow lagoons form that are as much dune-fed as dune-dammed. It follows that dune on pavement or salted ground is the best site for permanent plantings; the challenges are establishing those trees and stabilising the dune.
-
-## Establishing Vegetation on Isolated Dunes
-
-Dunes on pavement (isolated dunes) can be planted after rains using a multi-stage approach:
-
-1. **Fast-growing grain or oat crop**: Sorghum, millet, desert legumes such as moth bean, or yam beans are sown first.
-2. **Hardy [[acacia]] seedlings**: Planted preferably with a mixed fertiliser.
+Sand dunes are among the most dynamic and challenging landforms in arid environments, yet they also represent enormous freshwater reservoirs and productive potential when properly understood and managed. Dune stabilisation is a critical component of desert [[acacia]] seedlings**: Planted preferably with a mixed fertiliser.
 3. **Quickset trees**: Tamarisk may succeed if deeply set in or near the dune base.
 
 If successful, the grains flower and the straw persists for two or more years, moth beans leave seed for subsequent generations, and the small Acacias grow to effect permanent stabilisation. Species such as *Acacia victoriae* produce copious leaf mulch, and desert yam bean pits can be established in later years using this leaf mulch.
@@ -50,27 +21,7 @@ Extensive dunefields require a different approach, although pelleted seed can be
 
 Pelleting is a relatively simple process:
 
-1. Mix seed, mud, fertiliser, and insect repellent (neutralised copper sulphate with lime, [[neem]] tree leaf powder, or magnesite) into a stiff mass.
-2. Pass through a mincer with blades removed to extrude rolls.
-3. Place on a vibrating tray with a slight slope covered with dry powder or dusts.
-4. The extruded rolls become round pellets on the shaker tray.
-5. Spread out to dry.
-
-Pelleted seed is not eaten by birds or insects, giving it a significant survival advantage over bare seed.
-
-### Pitting
-
-Wherever rain flows or falls occasionally over bare sandy ground, pitting is an excellent technique. A set of large discs with one-quarter section cut off, or a small disc fixed to a wheel, is drawn cross-country. Seed and fertiliser are spread soon after. Seed, fertiliser, and sand blow into the pits, which respond very well to subsequent rain. Many hectares of these pits have grown successfully near Alice Springs in Central Australia.
-
-## Dune Stabilisation Strategies
-
-Stabilisation of sand and silt surfaces can be achieved through several mechanisms:
-
-- **Pebbles and vegetation**: Natural surface stabilisers.
-- **Water**: Creates bonds between particles that require much higher wind speeds to move sand.
-- **Salt**: Especially effective where dew is present, as salt is hygroscopic (water-absorbing).
-- **Chemical binders**: Tars, oils, or glues such as latex.
-- **Biological crusts**: [[lichens]], bacteria, fungi, and algal mats form naturally, as do salt crusts. No dunes form in some deserts where these delicate crusts cement the surface.
+1. Mix seed, mud, fertiliser, and insect repellent (neutralised copper sulphate with lime, [[lichens]], bacteria, fungi, and algal mats form naturally, as do salt crusts. No dunes form in some deserts where these delicate crusts cement the surface.
 
 ### Brush Fences
 
@@ -93,7 +44,7 @@ Since lethal soil temperatures are rarely formed below 15 cm in dunes, careful p
 Severe dune blowouts on coasts need intensive treatment:
 
 1. Hand planting of quickset grasses such as *Ammophila* spp.
-2. Pelleted moth bean seed.
+2. Pelleted [[moth-bean]] seed.
 3. Brush fences in 7-metre squares for early stabilisation.
 
 ### Advanced Techniques
@@ -117,3 +68,82 @@ Once stabilised, dunes must be protected from:
 - Scalds and Claypans
 - Pelleted Seed for Dryland Revegetation
 - Desert Forestry
+
+## Overview
+
+Dune Country Stabilisation represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish dune country stabilisation
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving dune extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Dune Country Stabilisation finds practical application in multiple design contexts.
+[[permaculture-principles]] guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for dune country stabilisation. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+dune country stabilisation and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Dune Country Stabilisation has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of dune country stabilisation into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also

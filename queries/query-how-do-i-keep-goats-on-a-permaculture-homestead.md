@@ -15,8 +15,8 @@ type: query
 ## Short Answer
 Keep goats only if you can provide excellent fencing, dry shelter, daily observation, and a clear job for them in the farm system.
 Goats are browsers rather than lawnmowers, so they fit best where brush control, hedgerow pruning, dairy, meat, or manure cycling are valuable.
-A resilient design combines [[goat-husbandry]], [[mollison-goats-and-browsing-systems-in-permaculture]] frames goats as browsing animals that can turn shrubby growth into food and fertility.
-[[goat-keeping-guide]] and [[goat-husbandry]] stresses that shelter should protect animals from wind, rain, and chronic dampness.
+A resilient design combines [[mollison-goats-and-browsing-systems-in-permaculture]] frames goats as browsing animals that can turn shrubby growth into food and fertility.
+[[goat-husbandry]] stresses that shelter should protect animals from wind, rain, and chronic dampness.
 Bedding should be managed as a fertility stream rather than as waste.
 Deep bedding can become compost feedstock when mixed with urine, manure, and carbon materials.
 The best shelter site is uphill from runoff, close enough for daily care, and far enough from gardens to avoid accidental browsing.
@@ -26,54 +26,17 @@ Shelter placement should support chores, manure collection, and emergency handli
 
 Goats can eat a wide variety of plants, but that does not mean every weed pile is safe feed.
 They need mineral access, clean water, adequate roughage, and energy that matches lactation, growth, or pregnancy.
-[[goat-cattle-integration]] shows one way goats can be combined with larger grazing systems instead of managed in isolation.
-Rotations work best when goats are moved before preferred browse is exhausted.
-Rest periods let shrubs regrow, break parasite cycles, and give soil cover time to recover.
-Mobile water, shade, mineral stations, and portable fencing make small paddock moves practical.
-The goal is controlled impact, not continuous access.
-
-### Protect trees, gardens, and infrastructure
-
-Goats can be helpful around woody edges, but they can also ring-bark young [[comparison-pruning-fruit-trees-vs-grafting-fruit-trees]] quickly.
+[[comparison-pruning-fruit-trees-vs-grafting-fruit-trees]] quickly.
 Orchards need guards, exclusion zones, or very short supervised browsing windows.
-[[goat-husbandry-detailed-guide]] provides the kind of basic care framework that beginners should study first.
-Local veterinary support matters because parasites, minerals, and diseases vary by region.
-New goats should be quarantined before joining an existing herd.
-Good records for weight, kidding, milk, treatments, and moves reveal problems earlier than memory does.
-Daily observation is the most important health tool on a small homestead.
-
-### Compare goats with other livestock
-
-Goats overlap with sheep, cattle, pigs, and poultry, but they are not interchangeable.
 [[comparison-cattle-husbandry-vs-goat-husbandry]] helps clarify scale, infrastructure, and forage differences.
 Goats are often better for brush and small-scale dairy than cattle.
 Sheep may be better for grass-dominant pasture.
-Poultry may be better for [[mushroom-pests-insect-control-stamets]] and garden fertility cycling.
-A good [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]] chooses animals by function rather than by charm.
+Poultry may be better for [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]] chooses animals by function rather than by charm.
 
 ## Key Points
-- Use [[goat-husbandry]] before buying animals, not after problems appear.
-- Treat [[mollison-designers-goat-management-and-browsing-systems]] to think about boundaries and controlled browsing.
-- Compare goats with sheep through [[comparison-cattle-husbandry-vs-goat-husbandry]] when land base and infrastructure are limiting.
-- Consider [[query-how-do-i-plan-rotational-grazing-for-soil-health]]
-- [[query-what-is-agroforestry-and-how-can-i-start]]
-## Practical Considerations
-
-When working with How do I keep goats on a permaculture homestead?, several practical factors should be
-carefully considered to achieve optimal results. These include
-the specific conditions of the implementation context, available
-resources, timing requirements, and the interactions between this
-topic and other elements of the broader system. A holistic view
-that considers these interconnections produces better outcomes.
-
-Environmental conditions such as temperature, moisture, and
-seasonal patterns significantly influence results. Monitoring these
-variables and adapting practices accordingly is essential for success.
-The most effective practitioners develop keen observation skills and
-respond flexibly to changing conditions rather than following rigid
-protocols regardless of circumstances or local variation.
-
-[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
+- Use [[mollison-designers-goat-management-and-browsing-systems]] to think about boundaries and controlled browsing.
+- Compare goats with sheep through [[query-how-do-i-plan-rotational-grazing-for-soil-health]]
+- [[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.

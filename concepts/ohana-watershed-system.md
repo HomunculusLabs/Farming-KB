@@ -16,35 +16,14 @@ The ancient Hawaiian land division known as the Ohana system is, in Mollison's v
 
 The Hawaiian Ohana divided each island into districts that followed the natural topographic boundaries -- the ridges between valleys. Each district ran from the mountain ridge to the surrounding reef, including the section of lagoon between the shoreline and the river, and extending over the reef itself. "These very logical districts imparted control of the entire watershed from its origins to its discharge into the sea and beyond."
 
-The Ohana is not just a land division but a social-ecological unit: "If you belonged to an Ohana, you belonged to a valley and a set of fields and a [[knf-fish-pond-integration]] and a reef section. They guarded right out to the reef and over the reef by building underwater structures. Thus they created reef structures for additional fish shelter. The people were an integral part of this whole system. The Ohana is a totality."
-
-Mollison emphasizes that the word Ohana means the people are an integral part of the division. It is not merely a land management technique but a complete social and ecological integration: "Its watershed, its people, its nutrient flow, its animals, everything, is a single, indivisible unit."
-
-## Keyline Irrigation
-
-The Hawaiians independently invented what P.A. Yeomans would later formalize as the [[watershed-management]], where the loss of nutrients from [[fukuoka-textdoc-agricultural-land-law-obstruction-return-farming]] to waterways is one of the most significant pollution problems worldwide.
-
-## Forest Management
-
-Forests were "taboo areas, because they were the source of water." They were "used very carefully for essential purposes." Foot traffic was confined to ridge tops -- "very sensible people." This forest protection maintained the hydrological cycle that sustained the entire system.
-
-Mollison observes that historically, Hawaiian springs have "either dried up, or recommenced to flow, depending on whether the forest is extending, or being removed." The connection between forest cover and water supply was deeply understood. "You can play around with the water, play around with forests, on these high islands." The amount of water generated is directly relevant to the amount of forest cover.
-
-The [[permaculture-design]] eye to understand the water-harvesting and wind-management principles at work. The rock mulch walls created microclimates that retained moisture and moderated temperature, allowing cultivation on sites that would otherwise be barren.
+The Ohana is not just a land division but a social-ecological unit: "If you belonged to an Ohana, you belonged to a valley and a set of fields and a [[watershed-management]], where the loss of nutrients from [[permaculture-design]] eye to understand the water-harvesting and wind-management principles at work. The rock mulch walls created microclimates that retained moisture and moderated temperature, allowing cultivation on sites that would otherwise be barren.
 
 ## Climate Games on High Islands
 
-High islands (over 1,000 feet) create their own microclimates. The windward side receives heavy orographic rainfall and supports rain forest. The leeward side is dry. "You can play all sorts of climate games downhill" -- descending from temperate species at elevation to ultra-tropical species at sea level. Mollison notes that "[[darkness-low-light-facilitation-entheogenic-ceremonies]] tolerance trees go up here, too, because they are almost always mists around the higher area."
-
-Mist often "curiously reproduces the whole shape of the island in the air above it." The forest works its way down the hillside by means of soil storage of water, creating additional precipitation through condensation. "The forest always beats rainfall in terms of water storage." Fresh water often travels out beyond the island and bubbles up in the sea as visible springs -- known to divers and peoples who spend much time near the coast.
-
-These principles of [[permaculture-principles]] of catching and storing energy, integrating rather than segregating, and producing no waste are all embodied in the Ohana system.
+High islands (over 1,000 feet) create their own microclimates. The windward side receives heavy orographic rainfall and supports rain forest. The leeward side is dry. "You can play all sorts of climate games downhill" -- descending from temperate species at elevation to ultra-tropical species at sea level. Mollison notes that "[[permaculture-principles]] of catching and storing energy, integrating rather than segregating, and producing no waste are all embodied in the Ohana system.
 
 ## See Also
 
-- [[water-harvesting-techniques-comparison]]
-- island-permaculture-design
-- forests-in-permaculture
 - [[watershed-management]]
 ## Practical Considerations
 
@@ -88,3 +67,84 @@ and helps identify patterns that might otherwise be overlooked in the
 complexity of day-to-day management and observation activities.
 
 ## Future Directions
+
+## Overview
+
+Ohana Watershed System represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish ohana watershed system
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving ohana extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Ohana Watershed System finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for ohana watershed system. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+ohana watershed system and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Ohana Watershed System has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of ohana watershed system into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[broadscale-restoration-watershed-repair]]

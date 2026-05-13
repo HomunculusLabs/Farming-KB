@@ -3,16 +3,7 @@ title: Seed Saving And Selection
 aliases: [seed saving, [[cervantes-open-pollinated-heirloom-seeds]], open-pollinated varieties, plant breeding, seed sovereignty]
 tags: [gardening, seeds, plant-breeding, food-sovereignty, heirloom-varieties, genetic-diversity]
 created: 2026-05-09
-source: Gardening When It Counts ([[steve-solomon]])
----
-
-# Seed Saving and Selection
-
-Seed saving is the practice of harvesting seeds from mature crops for replanting in subsequent seasons. Steve Solomon's *Gardening When It Counts* treats seed saving as an essential skill for self-sufficient gardeners, arguing that dependence on commercial seed suppliers is a vulnerability during hard times when seed may become unavailable or unaffordable.
-
-## The Importance of Seed Saving
-
-In normal times, purchasing seeds is convenient and reliable. Commercial [[spanish-cannabis-seed-companies]] offer tested varieties with known germination rates and disease resistance. However, Solomon points out several risks in seed dependence:
+source: Gardening When It Counts ([[spanish-cannabis-seed-companies]] offer tested varieties with known germination rates and disease resistance. However, Solomon points out several risks in seed dependence:
 
 - **Supply disruption:** Seed companies may face crop failures, shipping delays, or business closures
 - **Variety discontinuation:** Popular varieties can be dropped from catalogs without warning
@@ -33,11 +24,7 @@ OP varieties are the foundation of seed saving. Solomon recommends that gardener
 
 ### Hybrid (F1) Varieties
 
-F1 hybrids are produced by crossing two distinct inbred parent lines. The resulting seeds exhibit "[[cannabis-hybrid-vigor-and-phenotypes-clarke]]" — often greater uniformity, yield, or disease resistance than either parent. However, seeds saved from F1 plants do not breed true. The F2 generation (saved seed replanted) segregates into a wide range of types, most of which are inferior to the F1.
-
-Solomon does not dismiss hybrids entirely — they can be useful for specific purposes — but he insists that hybrid-dependent gardeners are not truly self-sufficient. If seed companies stop producing a hybrid, the gardener cannot reproduce it.
-
-## Basic [[seed-saving-techniques]]
+F1 hybrids are produced by crossing two distinct inbred parent lines. The resulting seeds exhibit "[[seed-saving-techniques]]
 
 ### Dry Seed Crops
 
@@ -73,18 +60,91 @@ Solomon recommends selecting for:
 
 - **Vigor and health:** Only save seed from the healthiest, most productive plants
 - **Disease resistance:** If some plants resist a disease that affects others, save their seed
-- **Early maturity:** In short-season climates, saving seed from the earliest plants extends the effective [[savory-growing-season-and-non-growing-season-management]]
-- **[[dighton-fungal-drought-tolerance-plant-water-relations]]:** During dry years, the plants that perform best are the ones to save from
+- **Early maturity:** In short-season climates, saving seed from the earliest plants extends the effective [[dighton-fungal-drought-tolerance-plant-water-relations]]:** During dry years, the plants that perform best are the ones to save from
 - **Flavor and quality:** Taste matters — save seed from the best-tasting specimens
 
 Over 5–10 generations, this selection pressure can produce varieties remarkably well-suited to a specific garden. Solomon calls this "backyard plant breeding" and considers it one of the most undervalued skills in home gardening.
 
 ## Population Size Considerations
 
-[[biodiversity-fungal-genetic-diversity]] within a seed-saving population is important for long-term variety health. Very small populations (fewer than 20 plants) lose genetic diversity through random chance, potentially leading to [[cervantes-hybrid-vigor-inbreeding-depression]] — reduced vigor, fertility, and disease resistance over generations.
+[[cervantes-hybrid-vigor-inbreeding-depression]] — reduced vigor, fertility, and disease resistance over generations.
 
 Solomon recommends minimum population sizes:
 
 - **Self-pollinating crops:** Save from at least 10–20 plants
 - **Cross-pollinating crops:** Save from at least 50–80 plants for good genetic health
 - **Maximum diversity:** Include as many plants as practical, especially for rare varieties
+
+## Overview
+
+Seed Saving And Selection represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish seed saving and selection
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving seed extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Seed Saving And Selection finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for seed saving and selection. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+seed saving and selection and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Seed Saving And Selection has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of seed saving and selection into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource

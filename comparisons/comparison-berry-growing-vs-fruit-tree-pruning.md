@@ -11,43 +11,21 @@ sources: []
 
 ## Overview
 
-Berries and [[comparison-root-cellaring-guide-vs-canning-and-preserving]].
-The comparison highlights a key distinction in management intensity: berry
-growing emphasizes planting, training, and annual renovation, while fruit tree
-pruning is a precision skill that determines the health and productivity of
-trees for decades.
-
-## Berry Growing
-
-[[fruit-tree-pruning]]
+Berries and [[fruit-tree-pruning]]
 
 Fruit tree pruning is the single most important skill for managing orchard
 productivity and tree health. Proper pruning determines tree shape, fruit
 quality, disease resistance, and long-term productivity. The three main training
-systems are [[comparison-central-leader-vs-open-center-fruit-tree-training]] (a dominant vertical trunk with scaffold branches at
-intervals, standard for apples and pears producing a conical shape), open center
-or vase (no central leader, 3-5 main scaffold branches radiating outward,
-preferred for peaches, plums, and cherries in areas with less risk of sunscald),
-and espalier (branches trained flat against a wall or fence in formal patterns,
-the most space-saving option for small gardens).
-
-Pruning serves multiple purposes: removing dead, diseased, and crossing branches
-that compromise tree health; opening the canopy for light penetration and air
-circulation to improve fruit quality and reduce disease; controlling tree size
-for easier harvesting [[holmgren-gigantism-intermediate-technology-and-small-scale]].
+systems are [[holmgren-gigantism-intermediate-technology-and-small-scale]].
 Orchard trees become a legacy asset that increases property value and food
 production capacity over time.
 
 ## Hybrid Approaches
 
-The most productive homestead integrates both berries and [[comparison-pruning-fruit-trees-vs-grafting-fruit-trees]] in a
-layered [[comparison-food-forest-design-vs-backyard-orchard-design]]. Plant fruit trees as the upper canopy and
+The most productive homestead integrates both berries and [[comparison-food-forest-design-vs-backyard-orchard-design]]. Plant fruit trees as the upper canopy and
 berries as the understory. Brambles can be trained along the perimeter of
 orchard rows, using the fence or a simple wire trellis as support. Strawberries
-serve as a [[comparison-living-mulch-vs-cover-crops]] under young fruit trees, producing fruit while
-suppressing weeds and retaining soil moisture. Blueberries and currants fill the
-partial-shade edges of the orchard where fruit trees cast afternoon shadows.
-This layered approach maximizes food production per [[comparison-biointensive-vs-square-foot-gardening]] and creates a
+serve as a [[comparison-biointensive-vs-square-foot-gardening]] and creates a
 ## Practical Considerations
 
 When working with Comparison Berry Growing Vs Fruit Tree Pruning, several practical factors should be

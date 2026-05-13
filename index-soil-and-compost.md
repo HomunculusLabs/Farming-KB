@@ -2,7 +2,7 @@
 
 > Soil science, composting, compost tea, mineral management, and the soil food web
 
-**645 pages**
+**649 pages**
 
 ## A
 
@@ -220,6 +220,8 @@
 - [[garden-soil-fertility-mineral-balance-solomon]]
 - [[garden-soil-terminology-glossary]]
 - [[ginger-garlic-extract-bionutrient]]
+- [[global-ecological-crisis-soils-and-deforestation]]
+- [[global-environmental-crisis-forests-soils-water]]
 - [[grassland-ecology-and-soil-biology]]
 - [[green-manure-cover-crops]]
 - [[green-manure-crops]]
@@ -533,6 +535,7 @@
 - [[soil-erosion-and-rehabilitation]]
 - [[soil-erosion-control]]
 - [[soil-erosion-processes-and-control]]
+- [[soil-erosion-water-crisis-salination]]
 - [[soil-fertility-building-gradient-solomon]]
 - [[soil-fertility-gradient-approach]]
 - [[soil-fertility-gradient-solomon]]
@@ -673,6 +676,7 @@
 - [[teaming-with-nutrients-plant-nutrient-essentials-npk]]
 - [[temperature-effects-plant-nutrient-uptake]]
 - [[termites-ants-tropical-soil-ecology]]
+- [[thermal-belts-and-soil-conditioning]]
 - [[thermal-composting-vs-aact]]
 - [[tompkins-soil-health-howard-indore-process]]
 - [[toxic-elements-in-soils]]

@@ -79,13 +79,7 @@ all influence the optimal approach to implementation.
 
 ## See Also
 
-- [[cannabis-health-index-chi-scoring]]
 - [[cannabis-health-index-scoring]]
-- [[griggs-putnam-wind-index]]
 - [[griggs-putnam-wind-index-mollison]]
 - [[windbreak-design-griggs-putnam-index]]
-
-## See Also
-- [[windbreak-design-griggs-putnam-index]]
-- [[griggs-putnam-wind-index]]
 - [[griggs-putnam-wind-index-mollison]]

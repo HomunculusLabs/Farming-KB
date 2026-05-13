@@ -8,85 +8,20 @@ sources: []
 ---
 # Cannabis Phenotype and Genotype Guide
 
-Understanding [[vic-high-cannabis-genetics-mendelian-inheritance]] is essential for breeders, growers, and anyone selecting strains. Robert Clarke's "[[clarke-marijuana-botany-cannabinoid-biosynthesis-pathway]]" provides the foundational text on cannabis genetics, breeding, and chemotaxonomy.
+Understanding [[clarke-marijuana-botany-cannabinoid-biosynthesis-pathway]]" provides the foundational text on cannabis genetics, breeding, and chemotaxonomy.
 
 ## Genotype vs Phenotype
 
 ### Genotype
 - The complete genetic code (DNA) of the plant
 - Determines the plant's potential: what it CAN be
-- Includes genes for cannabinoid production, growth pattern, disease resistance, [[cannabis-sex-determination-floral-biology]]
-- Each gene has two alleles (one from each parent)
-- Homozygous: both alleles the same (AA or aa)
-- Heterozygous: alleles differ (Aa)
-
-### Phenotype
-- The physical expression of the genotype in a given environment
-- What the plant actually IS — visible characteristics
-- Influenced by both genetics and environment (G × E interaction)
-- Same genotype can produce different phenotypes in different environments
-- This is why the "same" strain can look and perform differently for different growers
-
-### The Formula
-Phenotype = Genotype + Environment
-
-Example: A plant with genes for high thc may not achieve high THC if grown in poor conditions (insufficient light, nutrients, temperature stress).
-
-## Cannabis Chemotypes
-
-### Chemical Phenotype (Chemotype)
-Cannabis plants are classified by their cannabinoid profile:
-
-| Chemotype | THC | cbd | Ratio | Common Source |
-|---|---|---|---|---|
-| I (Drug type) | High (>0.3%) | Low (<0.5%) | THC dominant | Most recreational strains |
-| II (Intermediate) | Moderate | Moderate | 1:1 balanced | CBD-rich medical strains |
-| III (Fiber type) | Low (<0.3%) | High (>0.5%) | CBD dominant | Hemp, landrace fiber varieties |
-
-### Chemotype Inheritance
-- Chemotype is controlled by relatively few genes (oligogenic)
-- Cross of Type I × Type III produces Type II offspring (intermediate)
-- Cross of Type I × Type I produces mostly Type I offspring
-- This makes breeding for specific cannabinoid profiles relatively predictable
-
-## Cannabis Sex Determination
-
-### Dioecious
-- Cannabis is primarily dioecious (separate male and female plants)
-- Sex determined by X and Y chromosomes (XY = male, XX = female)
-- Environmental stress can cause sex reversal (hermaphroditism)
-
-### Hermaphroditism
-- **True hermaphrodite**: Plant develops both male and female reproductive organs
-- Causes: genetic predisposition, stress (light interruption, temperature extremes, nutrient stress, physical damage)
-- "Bananas" (stamen-like growth on female flowers): a common form of partial hermaphroditism
-- Hermaphroditic pollen produces female-biased offspring (~90% female)
-
-### Importance for Sinsemilla
-- Sinsemilla (seedless) cannabis is produced by removing males before pollination
-- Female plants produce more resin and cannabinoids when unpollinated
-- Hermaphroditism in a sinsemilla crop causes seeding — reduces quality and yield
-- Stress-resistant strains are less prone to hermaphroditism
-
-## Cannabis Subspecies and Varieties
-
-### Taxonomy (Clarke's Classification)
-- **[[comparison-cannabis-sativa-vs-cannabis-indica]]** (narrow-leaflet): Tropical/subtropical origin. Tall, long flowering, cerebral high
+- Includes genes for cannabinoid production, growth pattern, disease resistance, [[comparison-cannabis-sativa-vs-cannabis-indica]]** (narrow-leaflet): Tropical/subtropical origin. Tall, long flowering, cerebral high
 - **Cannabis indica** (wide-leaflet): Central Asian origin. Short, fast flowering, body high
-- **[[cervantes-cannabis-ruderalis-autoflowering]]**: Eastern European origin. Auto-flowering, low THC, cold-tolerant
-
-### Modern Hybrid Classification
-- Most modern strains are hybrids (crosses of sativa × indica)
-- "Indica" and "sativa" on dispensary labels often don't reflect actual genetics
-- The sativa/indica distinction is more about chemotype and growth pattern than strict taxonomy
-- See [[cannabis-terpene-profile]] for terpene details
+- **[[cannabis-terpene-profile]] for terpene details
 
 ## Related
 
-- [[gelonade]]
-
 - [[cannabis-phenotype-selection]]
-- [[cannabis-landrace-and-heirloom-varieties]] — for pure varieties
 - [[cannabis-thc-therapeutic-profile]] — for THC details
 
 ## Practical Applications
@@ -118,8 +53,91 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[cannabis-chemotypes]]
 - [[cannabis-indica]]
-- [[dom]]
 - [[det]]
 - [[robert-clarke]]
+
+## Overview
+
+Cannabis Phenotype And Genotype Guide represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish cannabis phenotype and genotype guide
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving cannabis extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Cannabis Phenotype And Genotype Guide finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for cannabis phenotype and genotype guide. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+cannabis phenotype and genotype guide and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Cannabis Phenotype And Genotype Guide has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of cannabis phenotype and genotype guide into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[blesching-cannabis-vasopressin-aggression]]
+- [[cannabis-cultivar-microbiome-specificity]]
+- [[green-cannabis-grow-bible-species-indica-sativa-ruderalis]]
+- [[lemon-haze-cannabis]]
+- [[query-how-to-harvest-and-cure-cannabis-for-best-flavor]]

@@ -3,9 +3,7 @@ title: "Cornus mas"
 created: 2026-04-28
 type: species
 tags:
-  - [[permaculture]]
-  - edible-fruit
-  - [[agroforestry]]
+  - agroforestry
   - cornaceae
   - medicinal-plant
   - ornamental
@@ -36,11 +34,7 @@ appear in Homer's Iliad and Roman agricultural texts. The fruit is
 exceptionally high in vitamin C, anthocyanins, and iridoid glycosides,
 with growing interest in its nutraceutical potential. It is widely
 regarded as one of the most valuable multi-purpose plants for
-temperate [[permaculture-design]]:
-
-- **[[food-forest-layers-and-species]]
-
-- [[food-forest]]
+temperate [[food-forest-layers-and-species]]
 
 - [[permaculture-dogwood-cornus-capitata]]
 ## Practical Considerations

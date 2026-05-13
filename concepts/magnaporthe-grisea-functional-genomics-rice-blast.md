@@ -11,74 +11,12 @@ sources:
 
 ## Overview
 
-[[magnaporthe-grisea]] (now reclassified as *M. oryzae*) is the causal
-agent of rice blast disease, one of the most devastating fungal diseases
-of cultivated rice worldwide. See [[bloomfield-rice-blast-appressorium-mechanics]]
+[[bloomfield-rice-blast-appressorium-mechanics]]
 for details on the infection apparatus.
 
 The genome of *M. grisea* was sequenced by the Broad Institute as part
 of the Fungal Genomes Initiative, with greater than seven-fold sequence
-coverage and 11,109 predicted genes — comparable to *[[neurospora-crassa]]*
-(10,082 genes) but nearly double that of budding yeast (6,591 genes).
-The apparent greater complexity of filamentous ascomycete genomes
-compared with unicellular yeasts likely reflects the multicellular
-nature, diverse life histories, and more complex ecologies of
-filamentous species.
-
-The first draft of the *M. grisea* genome was released in 2002, with
-the completed paper appearing in 2005 (Dean et al.). Of the 41
-published eukaryotic genomes at the time, 13 were from fungal species,
-with an additional 158 large-scale fungal sequencing projects ongoing.
-
-## Pathogenic Lifestyle Classification
-
-*M. grisea* is a classic example of a pathogen that does not fit neatly
-into the traditional categories of necrotrophy and biotrophy. Necrotrophic
-fungi kill host cells and use dead tissue as a nutritional source, while
-biotrophs derive nutrition from living host tissue.
-
-*M. grisea* does not induce overt disease symptoms until three days
-after infection, and host cells are not damaged during the initial
-infection period, which has led many researchers to classify it as a
-hemibiotroph. Importantly, different host defence pathways are triggered
-by different pathogen types. Biotrophs tend to induce salicylate-
-dependent defence pathways, whereas necrotrophs induce jasmonate and
-ethylene-dependent defence pathways.
-
-The classification of *M. grisea* as both a necrotroph and a
-hemibiotroph reflects the difficulty of applying these categories to
-pathogens with complex infection biology, and the blurred distinction
-is increasingly recognized across many fungal species.
-
-*M. grisea* can also infect plants via roots using structures similar
-to the hyphopodia of root-infecting fungi such as *Gaeumannomyces
-graminis*. Gene-for-gene resistance, typically associated with leaf
-blast infections, also operates during root infection, indicating that
-conserved molecular recognition systems function across different
-infection routes.
-
-## Evolution of Fungal Pathogenicity
-
-Comparative functional genomics between pathogenic and non-pathogenic
-fungi allows researchers to address what makes a pathogen different
-from a non-pathogen. Three possible mechanisms account for the
-evolution of pathogenic species:
-
-### Novel Gene Acquisition
-
-Pathogen genomes may have acquired novel genes enabling infection
-through horizontal gene transfer or gene duplication followed by
-functional divergence. *M. grisea* has 122 predicted cytochrome P450
-genes compared with only 37 in the closely related saprotroph
-*Neurospora crassa*. P450 enzymes are involved in toxin biosynthesis
-and detoxification of antifungal compounds. Additionally, nine
-cutinase-encoding genes exist in *M. grisea* but none in *N. crassa*,
-reflecting adaptation to plant surface penetration.
-
-### Differential Gene Regulation
-
-Genes present in both pathogens and non-pathogens may evolve different
-regulatory roles. [[fungal-environmental-sensing-signal-transduction]] components such as MAP kinases,
+coverage and 11,109 predicted genes — comparable to *[[fungal-environmental-sensing-signal-transduction]] components such as MAP kinases,
 adenylate cyclases, G-proteins, and cAMP-dependent protein kinases play
 key roles in pathogenicity-related development. Even metabolites with
 conserved functions differ: *[[saccharomyces-cerevisiae]]* accumulates
@@ -88,3 +26,88 @@ present in *M. grisea* but their activity is controlled by different
 environmental cues.
 
 ### Gene Loss
+
+## Overview
+
+Magnaporthe Grisea Functional Genomics Rice Blast represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish magnaporthe grisea functional genomics rice blast
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving magnaporthe extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Magnaporthe Grisea Functional Genomics Rice Blast finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for magnaporthe grisea functional genomics rice blast. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+magnaporthe grisea functional genomics rice blast and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Magnaporthe Grisea Functional Genomics Rice Blast has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of magnaporthe grisea functional genomics rice blast into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[bloomfield-rice-blast-magnaporthe-appressorium-plant-invasion]]
+- [[fungi-in-the-environment-rice-blast-magnaporthe-grisea]]
+- [[gadd-rice-blast-fungus-magnaporthe-grisea-functional-genomics]]
+- [[gadd-rice-blast-magnaporthe-grisea]]
+- [[magnaporthe-grisea]]

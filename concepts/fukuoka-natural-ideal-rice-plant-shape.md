@@ -1,23 +1,7 @@
 ---
 title: The Ideal Form and Shape of the Rice Plant
 created: 2026-04-28
-tags: [fukuoka, [[natural-farming]], rice, plant-morphology, high-yield]
-date: 2026-04-28
-updated: 2026-04-28
-sources:
-  - "raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md"
-  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
-type: concept
----
-
-# The Ideal Form and Shape of the Rice Plant
-
-Aware of the inherent problems with the process of breaking down and
-analyzing a rice plant in the laboratory and reaching conclusions from these
-results, Fukuoka chose to abandon existing notions and look instead at the
-rice plant from afar. His method of growing rice may appear reckless and
-absurd, but all along he sought the true form of rice. He searched for the
-form of [[fukuoka-lundberg-family-farms-natural-rice]] and asked what healthy rice is.
+tags: [fukuoka, [[fukuoka-lundberg-family-farms-natural-rice]] and asked what healthy rice is.
 
 ## Discovery Through Natural Cultivation
 
@@ -72,9 +56,7 @@ The major characteristics of rice plants with an ideal form include:
 
 Both the plant height and length of the leaf blades are much smaller than in
 ordinary varieties. This is no accident. Large plants were found unnecessary
-in [[fukuoka-energy-analysis-rice-production-natural-vs-mechanized]], so effort was made to suppress rather than promote
-vegetative growth. No irrigation was applied during the first half of the
-[[savory-growing-season-and-non-growing-season-management]], and fresh straw was applied to the field to check plant
+in [[savory-growing-season-and-non-growing-season-management]], and fresh straw was applied to the field to check plant
 response to a basal application of fertilizer.
 
 In ideally shaped rice, the internode lengths each decrease by half from the
@@ -118,8 +100,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[fukuoka-ideal-rice-plant-form-dimensions-high-yield]]
 - [[fukuoka-rice-plant-ideal-morphology]]
-- [[fukuoka-ideal-rice-plant-morphology-compact-growth-high-yield]]
 - [[fukuoka-textdoc-ideal-rice-morphology-high-yield-natural-farming]]
 - [[fukuoka-ideal-rice-plant-form-high-yield-cultivation]]

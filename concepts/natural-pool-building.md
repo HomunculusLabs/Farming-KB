@@ -9,7 +9,7 @@ sources: []
 
 ## Overview
 
-[[comparison-natural-swimming-pool-vs-conventional-pool]] pools (also called swimming ponds or bio-pools) use biological filtration instead of chlorine or other chemicals to maintain clean, clear water. They combine a swimming zone with one or more planted filtration zones where aquatic plants and [[forest-and-bamboo-beneficial-microorganisms]] purify the water. The result is a pool that looks and functions like a natural pond while being safe for swimming.
+Natural swimming pools (also called swimming ponds or bio-pools) use biological filtration instead of chlorine or other chemicals to maintain clean, clear water. They combine a swimming zone with one or more planted filtration zones where aquatic plants and beneficial microorganisms purify the water. The result is a pool that looks and functions like a natural pond while being safe for swimming.
 
 ## How Natural Pools Work
 
@@ -54,7 +54,7 @@ Combines biological filtration with a small mechanical component (UV sterilizer 
 
 The filtration zone must be proportional to the swimming zone:
 
-- **[[fukuoka-natural-farming-temperate-climates]]:** Regeneration zone = 50-70% of total surface area
+- **Temperate climates:** Regeneration zone = 50-70% of total surface area
 - **Warm/hot climates:** Regeneration zone = 60-80% of total surface area
 - **Shaded sites:** Can reduce regeneration zone by 10-15%
 - **Sunny sites:** Increase regeneration zone by 10-15%
@@ -87,14 +87,14 @@ Minimum total surface area for effective biological filtration: approximately 30
 Plants are the primary filtration mechanism. Select for:
 
 **Oxygenating submerged plants** (planted in gravel):
-- Hornwort ([[ceratophyllum-demersum]])
+- Hornwort (Ceratophyllum demersum)
 - Eelgrass (Vallisneria)
 - Water milfoil (Myriophyllum)
 
 **Marginal/emergent plants** (planted on shelf):
-- Pickerel weed ([[pontederia-cordata]])
+- Pickerel weed (Pontederia cordata)
 - Iris (Iris versicolor, I. pseudacorus)
-- Arrowhead ([[sagittaria-latifolia]])
+- Arrowhead (Sagittaria latifolia)
 - Cattail (Typha latifolia) — aggressive, use sparingly
 - Sweet flag (Acorus calamus)
 - Water mint (Mentha aquatica)
@@ -140,11 +140,11 @@ Plants are the primary filtration mechanism. Select for:
 ### Green Water (Algae Bloom)
 
 - Cause: Excess nutrients, insufficient filtration, or warm temperatures
-- Solutions: Add more plants, reduce nutrient input (no fertilizers near pool), increase circulation, add Daphnia (water fleas) to consume algae
 
-### Slime on Surfaces
+## See Also
 
-- Cause: Biofilm buildup — actually normal and beneficial
-- Solution: Brush walls gently; this is part of the biological process
-
-### Mosquitoes
+- [[natural-beekeeping-practices]]
+- [[fukuoka-rice-and-barley-natural-farming]]
+- [[natural-building-overview]]
+- [[fukuoka-natural-farming-philosophy-five-principles]]
+- [[natural-farming-do-nothing-philosophy]]

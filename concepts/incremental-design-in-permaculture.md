@@ -37,9 +37,7 @@ While incremental adaptation is the most successful way to proceed after selecti
 
 ## The Context: Whole System Design
 
-Incremental design is one component within a broader [[permaculture-design]] methodology. It works best when combined with:
-
-- **[[zone-and-sector-analysis]]** for spatial planning
+Incremental design is one component within a broader [[zone-and-sector-analysis]]** for spatial planning
 - **Slope, aspect, and elevation analysis** for landscape placement
 - **Guild design** for species assemblies
 - **Pattern understanding** for broad-scale planning
@@ -61,7 +59,7 @@ Site designing needs "not a specialist approach, but rather a multi-disciplinary
 
 ## Permaculture vs. Conventional Design
 
-Mollison provides a comparative framework contrasting permaculture design stimulus with conventional design:
+Mollison provides a comparative framework contrasting [[permaculture-design]] stimulus with conventional design:
 
 | Dimension | Permaculture | Conventional Design |
 |---|---|---|
@@ -83,7 +81,6 @@ Incremental design is a powerful but incomplete methodology. It excels at refini
 
 ## See Also
 
-- [[permaculture-zone-and-sector-analysis]]
 - [[slope-analysis-in-permaculture]]
 - [[permaculture-guild-design]]
-- Permaculture Ethics
+- [[permaculture-ethics]]

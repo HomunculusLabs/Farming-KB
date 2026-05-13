@@ -48,9 +48,7 @@ Soil microorganisms break down complex organic molecules, converting them into
 plant-available forms at a rate governed by soil temperature, moisture, and
 biological activity.
 
-Solomon's [[complete-organic-fertilizer-recipes]] (COF) formula exemplifies this approach:
-4 parts seed meal (protein source for nitrogen and phosphorus), 1 part
-agricultural lime or dolomite ([[dynamic-accumulator-plants-calcium-and-magnesium]], pH adjustment), 1 part
+Solomon's [[dynamic-accumulator-plants-calcium-and-magnesium]], pH adjustment), 1 part
 phosphate source (bone meal or rock phosphate), and 1 part kelp meal or basalt
 dust (trace minerals).
 
@@ -64,14 +62,7 @@ available for 2-3 months.
 
 This temperature dependence is actually an advantage: nutrients are released
 most rapidly when soil conditions favor plant growth, and slowest when plants
-are dormant or struggling. The timing naturally aligns [[ph-and-nutrient-availability-garden-soils]]
-with plant demand.
-
-### The Two-Month Lead Time
-
-Solomon emphasizes that organic fertilizers need to be applied approximately
-two months before the expected period of maximum plant demand. A spring planting
-that will reach peak growth in June should receive its [[cervantes-fertilizer-application-strain-feeding]]
+are dormant or struggling. The timing naturally aligns [[cervantes-fertilizer-application-strain-feeding]]
 in April. This lead time allows soil biology to begin decomposition so that
 nutrients are available when the plant needs them most.
 

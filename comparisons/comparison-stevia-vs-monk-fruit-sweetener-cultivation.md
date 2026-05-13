@@ -56,7 +56,7 @@ Stevia is a relatively compact bushy plant in the daisy family, while monk fruit
 | **Hardiness Zones** | USDA 9–11 (can be annual in 8) | USDA 10–11 (tropical/subtropical only) |
 | **Optimal Temp Range** | 20–30 °C (68–86 °F) | 22–30 °C (72–86 °F) |
 | **Frost Tolerance** | Sensitive; dies back below 5 °C | Very sensitive; no frost tolerance |
-| **[[coleman-winter-day-length-and-persephone-months]]** | [[vegetative-propagation-methods-mollison]].
+| **[[vegetative-propagation-methods-mollison]].
 
 ## Growth Cycle and Time to Harvest
 
@@ -78,11 +78,7 @@ Stevia offers a much faster return on investment, with multiple leaf harvests pe
 
 **Stevia processing** begins with leaf harvesting, drying (sun-dried or low-temperature dehydrated), then water or ethanol extraction. The crude extract is purified via ion-exchange chromatography or membrane filtration to isolate rebaudioside A and other steviol glycosides. The final product may be a white powder (95%+ Reb A) or blended with other sweeteners.
 
-**Monk [[fukuoka-fruit-processing-and-natural-food-marketing]]** involves harvesting mature fruits, crushing them, and steeping in [[crop-rotation-vegetable-garden]] are essential. Deer and rabbits find the leaves palatable and can decimate plantings.
+**Monk [[crop-rotation-vegetable-garden]] are essential. Deer and rabbits find the leaves palatable and can decimate plantings.
 
-**Monk fruit** faces significant [[cervantes-viral-diseases-cannabis]] (mosaic virus, transmitted by aphids), [[cervantes-powdery-mildew-prevention-treatment]], fruit rot, and root-knot nematodes. The dioecious nature of the plant (separate male/female vines) adds complexity — growers must maintain appropriate male-to-female ratios (typically 1:10 to 1:20) for pollination. Viral pressure is a major reason tissue [[stamets-cultivator-liquid-culture-propagation-methods]] is preferred.
-
-## Permaculture and Food Forest Suitability
-
-**Stevia** integrates well into food forests as an understory herb. Its compact size allows it to fill gaps between larger plants. It can serve as a [[hamilton-soft-fruit-cultivation]]
+**Monk fruit** faces significant [[cervantes-powdery-mildew-prevention-treatment]], fruit rot, and root-knot nematodes. The dioecious nature of the plant (separate male/female vines) adds complexity — growers must maintain appropriate male-to-female ratios (typically 1:10 to 1:20) for pollination. Viral pressure is a major reason tissue [[hamilton-soft-fruit-cultivation]]
 - [[fruit-tree-propagation]]

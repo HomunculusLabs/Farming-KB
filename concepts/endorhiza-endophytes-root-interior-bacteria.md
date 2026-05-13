@@ -13,37 +13,9 @@ type: concept
 
 ## Overview
 
-Endorhiza endophytes [[bacterial-endophytes-plant-roots]] are bacteria that colonize the interior of plant root
-tissue, residing within the endorhiza [[endorhiza-endophyte-bacteria-plant-roots]] — the zone encompassing both the
-rhizoplane (root surface) and the root cortex. Unlike [[lowenfels-rhizosphere-bacteria-plant-interaction]] [[endorhiza-endophyte-bacteria-plant-roots]]
-that inhabit the soil immediately surrounding roots [[bacterial-endophytes-plant-roots]], endorhiza bacteria have
-established themselves within the plant itself, forming intimate associations
-that can profoundly influence plant health, growth, and stress tolerance.
-
-## Definition and Distinction from Rhizosphere Bacteria
-
-The term "endorhiza" refers specifically to root-inhabiting microorganisms,
-distinguishing them from:
-
-- **Bulk soil microbiota**: Free-living bacteria not directly influenced
-  by plant roots
-- **Rhizosphere microbiota**: Bacteria in the soil zone directly influenced
-  by root exudates, typically 1–2 mm from the root surface
-- **Rhizoplane microbiota**: Bacteria attached to the root surface
-- **Endorhiza (endophytes)**: Bacteria that have penetrated and colonized
-  root tissue itself
-
-This distinction matters because the selective pressures acting on each
-community differ dramatically. Bulk soil communities are shaped primarily by
-[[cannabinoid-microbiome-correlation-confounded-edaphic-factors]] (pH, moisture, nutrients), while endorhiza [[methylophilus-methylotrophic-bacteria-cannabis-endorhiza]] communities face
-the additional selective pressure of the host plant's immune system and
-biochemical environment.
-
-## Functions of Endorhiza Bacteria
-
-### Growth Promotion
-
-Endorhiza bacteria [[methylophilus-methylotrophic-bacteria-cannabis-endorhiza]] provide phytohormones that directly stimulate plant growth:
+Endorhiza endophytes [[endorhiza-endophyte-bacteria-plant-roots]] — the zone encompassing both the
+rhizoplane (root surface) and the root cortex. Unlike [[endorhiza-endophyte-bacteria-plant-roots]]
+that inhabit the soil immediately surrounding roots [[cannabinoid-microbiome-correlation-confounded-edaphic-factors]] (pH, moisture, nutrients), while endorhiza [[methylophilus-methylotrophic-bacteria-cannabis-endorhiza]] provide phytohormones that directly stimulate plant growth:
 
 - **Indole-3-acetic acid (IAA)**: An auxin promoting root elongation and
   lateral root formation
@@ -60,8 +32,7 @@ Endorhiza bacteria [[methylophilus-methylotrophic-bacteria-cannabis-endorhiza]] 
 
 ### Disease Suppression
 
-- **Antibiotic production**: [[antimicrobial-compounds-mushroom-mycelium]] inhibit pathogens
-- **[[endophytic-mycorrhizal-induced-systemic-resistance]] (ISR)**: Priming the plant's immune
+- **Antibiotic production**: [[endophytic-mycorrhizal-induced-systemic-resistance]] (ISR)**: Priming the plant's immune
   defenses against future attack
 - **Competitive exclusion**: Occupying niche space prevents pathogen
   establishment
@@ -117,8 +88,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[root-exudates]]
 - [[indole]]
-- [[mycelium]]
 - [[mycorrhiza]]
 - [[dark-septate-endophytes-root-colonizing-fungi]]

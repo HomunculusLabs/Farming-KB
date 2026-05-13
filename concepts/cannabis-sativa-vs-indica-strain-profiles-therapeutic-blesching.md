@@ -1,7 +1,7 @@
 ---
 title: Cannabis Sativa Vs Indica Strain Profiles Therapeutic Blesching
 source: uwe-blesching-the-cannabis-health-index.md
-source_author: [[uwe-blesching]]
+source_author: uwe-blesching
 tags: [cannabis, sativa, indica, strain-selection, THC, CBD, therapeutic, cannabinoids]
 ---
 
@@ -9,43 +9,15 @@ tags: [cannabis, sativa, indica, strain-selection, THC, CBD, therapeutic, cannab
 
 ## Overview
 
-Medicinal cannabis consists of two basic species: Cannabis sativa and [[cannabis-indica]]. Both
-are psychoactive and both contain the cannabinoids required to engage the endocannabinoid
-system for specific therapeutic purposes. These two strains differ in appearance and contain
-different ratios of the primary cannabinoids, which is critically relevant when selecting
-a strain for specific therapeutic purposes.
-
-## Morphological Differences
-
-Indica plants tend to be short and stalky with wider leaves. Sativas usually grow longer,
-taller, and display a finer leaf structure. These physical characteristics reflect
-underlying biochemical differences that influence their [[cannabis-sativa-vs-indica-therapeutic-profiles]].
+Medicinal cannabis consists of two basic species: Cannabis sativa and [[cannabis-sativa-vs-indica-therapeutic-profiles]].
 
 ## The THC:CBD/CBN Ratio
 
-The most therapeutically significant [[query-what-is-the-difference-between-sativa-indica-and-hybrid-cannabis]] and indica strains lies in
-their cannabinoid ratios. These ratios are important because they determine the degree to
-which the balancing properties of the whole plant's constituents are additive or cancel
-each other out. The interplay between THC, CBD, and CBN (cannabinol) creates fundamentally
-different experiential and [[thc-cbd-therapeutic-profiles]].
+The most therapeutically significant [[thc-cbd-therapeutic-profiles]].
 
 ## Sativa Profile
 
-[[african-landrace-sativa-strains]] feature a higher THC to lower CBD/CBN ratio. This ratio produces
-characteristic effects:
-
-- **Mental and emotional emphasis**: Sativa effects tend to be more cerebrally focused,
-  influencing thought patterns, mood, and perception rather than primarily physical
-  sensations.
-
-- **Stimulating and energizing**: Sativas generally produce an uplifting, activating
-  experience that can increase alertness and creative energy.
-
-- **Extroverted quality**: The sativa experience tends toward sociability and outward
-  engagement, making it suitable for daytime activities and social interactions.
-
-- **Best for daytime use**: The energizing nature of sativas makes them appropriate for
-  morning and daytime [[psilocybin-therapeutic-applications]].
+[[psilocybin-therapeutic-applications]].
 
 - **Depression considerations**: Sativas may be particularly beneficial for patients
   experiencing depression, lethargy, or lack of motivation.
@@ -74,19 +46,7 @@ modulates the psychoactive effects of THC:
   experiencing anxiety, agitation, insomnia, or hyperarousal.
 
 - **Pain relief and muscle relaxation**: Indicas provide strong pain relief and deep
-  muscle relaxation, often preferred [[cannabis-for-chronic-pain]] conditions.
-
-## Receptor Binding Differences
-
-The sativa-dominant THC profile binds relatively equally to both CB1 and CB2 receptors.
-The indica-dominant CBD has a greater affinity for CB2 receptors, producing more
-immune-modulatory and anti-inflammatory effects with less central psychoactivity. This
-receptor binding difference helps explain the distinct therapeutic profiles of each strain
-type.
-
-## Fresh vs. Dried Cannabis
-
-An important consideration in [[blesching-cannabis-strain-selection-receptor-targeting]] is the form of the plant material. Fresh
+  muscle relaxation, often preferred [[blesching-cannabis-strain-selection-receptor-targeting]] is the form of the plant material. Fresh
 cannabis contains THC in the form of THC-carboxylic-acid (THCA), which is considered only
 
 ## Practical Applications
@@ -118,8 +78,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[cannabis-sativa]]
 - [[cannabis-sativa-vs-indica-therapeutic-differences-blesching]]
-- [[cannabis-sativa-vs-indica-therapeutic-profiles]]
 - [[doc]]
 - [[psilocybin]]

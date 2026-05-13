@@ -21,39 +21,6 @@ cultivate each for maximum benefit.
 
 ## Mullein
 
-[[mullein]]
-
-Mullein is a tall biennial in the figwort family (Scrophulariaceae),
-native to Europe and Asia and naturalized across North America. It produces a
-distinctive woolly basal rosette in its first year, then sends up a towering
-flower spike reaching 1 to 2.5 meters in its second year, adorned with
-hundreds of small yellow flowers. Dense star-shaped hairs give it a soft,
-felt-like texture, earning folk names like "flannel plant."
-
-Medicinally, mullein is best known as a respiratory powerhouse. Its leaves and
-flowers contain 2 to 3 percent mucilage polysaccharides that coat and soothe
-irritated mucous membranes, alongside triterpenoid saponins that stimulate
-expectoration. Flavonoids including luteolin, apigenin, and kaempferol provide
-anti-inflammatory and antispasmodic actions, while iridoid glycosides such as
-aucubin contribute hepatoprotective effects. Mullein is a cornerstone herb for
-bronchitis, persistent coughs, asthma, and chest congestion, typically prepared
-as a leaf infusion or combined with other respiratory herbs in tinctures.
-
-Mullein flower oil, often infused with garlic, is a well-known traditional
-remedy for ear infections, particularly in children. The plant also shows
-moderate antibacterial activity against respiratory pathogens like
-*Staphylococcus aureus* and *Streptococcus pneumoniae*. Topically, the soft
-leaves have been used as poultices for wounds, burns, and hemorrhoids.
-
-In permaculture, mullein serves as a dynamic mineral accumulator with a deep
-taproot that mines calcium, potassium, and magnesium from subsoil layers. It
-acts as a pioneer species on disturbed and compacted ground, breaking through
-hardpan and improving drainage. Its flowers attract bees, butterflies, and
-hoverflies, and its seeds feed finches through winter. Each plant can produce
-over 200,000 seeds that remain viable in soil for decades.
-
-## Yarrow
-
 [[yarrow-plant-guide]]
 
 Yarrow is a hardy perennial in the aster family (Asteraceae), native across
@@ -142,8 +109,6 @@ ongoing maintenance.
 
 ## See Also
 
-- [[comparison-arnica-vs-yarrow]]
 - [[comparison-stinging-nettle-vs-mullein]]
-- [[comparison-mullein-vs-st-johns-wort]]
 - [[comparison-arnica-vs-calendula]]
 - [[stinging-nettle]]

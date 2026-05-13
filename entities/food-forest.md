@@ -39,32 +39,8 @@ The concept represents one of the oldest human land-use strategies — tropical 
 ### 2. Understory / Low Tree Layer
 - **Height**: 3–10 meters
 - **Role**: Sub-canopy fruit and nut production, shade-tolerant crops, wildlife habitat
-- **Examples**: Apple (*Malus domestica*), pear (*Pyrus*), plum (*Prunus*), pawpaw (*[[asimina-triloba]]*), medlar, elderberry (*Sambucus*)
-
-### 3. Shrub Layer
-- **Height**: 1–3 meters
-- **Role**: Berry production, nitrogen fixation, habitat, windbreak lower tier
-- **Examples**: Blueberry (*Vaccinium*), currant (*Ribes*), hazelnut (*Corylus*), aronia, seaberry (*[[hippophae-rhamnoides]]*), Siberian pea shrub (*[[caragana-arborescens]]*)
-- **Many shrubs are nitrogen fixers** (Elaeagnus, Caragana, Ceanothus)
-
-### 4. Herbaceous Layer
-- **Height**: 0–1.5 meters (non-woody perennials)
-- **Role**: Vegetables, culinary herbs, medicinal plants, dynamic accumulators, ground cover
-- **Examples**: Asparagus, rhubarb, artichoke, comfrey (*Symphytum* — dynamic accumulator), yarrow (*Achillea*), mint family (Lamiaceae)
-
-### 5. Ground Cover Layer
-- **Height**: 0–30 cm
-- **Role**: Weed suppression, soil protection, moisture retention
-- **Examples**: Strawberry (*Fragaria*), creeping thyme, white clover (*Trifolium repens* — nitrogen fixer), sweet woodruff, nasturtium
-
-### 6. Root / Rhizosphere Layer
-- **Depth**: Below ground (15–100+ cm)
-- **Role**: Edible roots and tubers, soil structure, [[mycorrhizal-networks]]
-- **Examples**: [[comparison-jerusalem-artichoke-vs-potato]], sweet potato, yacon, groundnut (*Apios americana* — nitrogen fixer), garlic
-
-### 7. Vertical / Vine Layer
-- **Role**: Use vertical space, fence/trellis/tree trunk production
-- **Examples**: Hardy kiwi (*Actinidia arguta*), grape (*Vitis*), passionflower (*Passiflora*), hops (*[[humulus-lupulus]]*)
+- **Examples**: Apple (*Malus domestica*), pear (*Pyrus*), plum (*Prunus*), pawpaw (*[[hippophae-rhamnoides]]*), Siberian pea shrub (*[[mycorrhizal-networks]]
+- **Examples**: [[humulus-lupulus]]*)
 
 ### Eighth Layer (Fungal)
 Many designers now recognize an **eighth fungal layer**: cultivated mushrooms on logs or stumps, mycorrhizal inoculation of root zones, and decomposition of woody material → humus building. Fungal networks connect plants, facilitating nutrient and information exchange (the **"wood wide web"**).
@@ -88,3 +64,87 @@ A **guild** is a group of plants around a central element providing mutual suppo
 |---|---|
 | Nitrogen fixation | Siberian pea shrub, goumi, clover, groundnut |
 | Dynamic accumulation | Comfrey, dandelion, yarrow |
+
+## Overview
+
+Food Forest represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish food forest
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving food extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Food Forest finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for food forest. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+food forest and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Food Forest has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of food forest into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[fukuoka-five-grains-food-mandala]]
+- [[homesteading-food-preservation]]
+- [[mckenna-food-gods-honey-opium-minoan-crete-dionysus]]
+- [[mckenna-food-gods-soma-vedic-enigma]]

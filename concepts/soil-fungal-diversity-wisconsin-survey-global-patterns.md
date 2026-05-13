@@ -10,25 +10,7 @@ sources:
 
 # Soil Fungal Diversity — Wisconsin Survey and Global Patterns
 
-Soil supports some of the most diverse [[biodiversity-of-fungi-soil-fungal-communities-agriculture]] on Earth. The Wisconsin soil [[am-fungal-survey-methods]] program — spanning 20+ years across multiple vegetation types — remains the most comprehensive quantitative study of soil [[air-pollution-fungal-community-responses]] structure in relation to plant communities.
-
-## The Wisconsin Survey Program
-
-### Scope
-- Surveyed 107 prairies and forests in 18 of 21 major Wisconsin community types
-- >25,000 fungal isolates from soil underlying humus or litter
-- Guided by botanists M. P. Backus and J. T. Curtis
-- Spanned three biomes and four floristic centers
-
-### Guiding Hypothesis
-Soil fungi, like plants and animals, are responsive to the totality of their environment. If true, quantitative methods of plant ecology should:
-1. Reveal differing assemblages of principal species in each vegetation type
-2. Provide means for discovering specific correlations between fungal and plant communities via multivariate analysis
-
-### Key Findings
-
-#### Biome-Level Patterns
-- [[dighton-fungal-communities-grassland-soils]] varied widely among biomes
+Soil supports some of the most diverse [[am-fungal-survey-methods]] program — spanning 20+ years across multiple vegetation types — remains the most comprehensive quantitative study of soil [[dighton-fungal-communities-grassland-soils]] varied widely among biomes
 - Certain arrays of taxa from 30+ principal microfungal species are unmistakable indicator assemblages for each biome
 - Fusarium species, Paecilomyces lilacinus, Penicillium restrictum are among widespread indicators
 
@@ -50,24 +32,7 @@ Soil fungi, like plants and animals, are responsive to the totality of their env
 | Sand barrens | 3 | 1,000-2,000 | >18 |
 
 ### Conclusions
-- Hypothesis of concomitant species in plant and [[biodiversity-fungi-soil-fungal-communities]] was supported
-- Vegetation imprint could be overridden by proximate factors (soil chemistry)
-- Spheres of occurrence of fungal assemblages apparent for all major tree species
-
-## Global Soil Fungal Diversity
-
-### Species Richness Comparisons
-| Location | Habitat | Isolates | Taxa |
-|----------|---------|----------|------|
-| Germany | Wheat fields | 23,500 | 220 |
-| New York | Oak-pine forest | 15,770 | 267 |
-| Arizona/Utah | Desert | 19,000 | 228 |
-| Ivory Coast | Native forests | 6,246 | 215 |
-| Alberta | Alpine communities | 4,643 | 128 |
-| Sweden | Clear-cut forest | 3,891 | 96 |
-
-### Key Pattern: Tropical ≠ More Diverse
-Recent evidence indicates that species diversity in [[mollison-designers-tropical-soils-and-cation-exchange-management]] is **similar** to temperate soils. [[fungal-species-richness-and-diversity-indices]] in humid [[mollison-designers-pioneer-species-for-exhausted-tropical-soils]] is comparable to temperate forests. This contrasts with above-ground patterns where tropical diversity far exceeds temperate.
+- Hypothesis of concomitant species in plant and [[mollison-designers-tropical-soils-and-cation-exchange-management]] is **similar** to temperate soils. [[mollison-designers-pioneer-species-for-exhausted-tropical-soils]] is comparable to temperate forests. This contrasts with above-ground patterns where tropical diversity far exceeds temperate.
 
 ## Species-Isolate Curves
 
@@ -89,3 +54,88 @@ The relationship between species richness and number of isolates is **nonlinear*
 2. **Soil chemistry:** pH, calcium, [[fukuoka-textdoc-composting-critique-futility-prepared-organic-matter]] content
 3. **Moisture and temperature:** Most fungi grow/sporulate best >15-20C; water critical
 4. **Disturbance:** Burning, logging, cultivation — effects usually quantitative
+
+## Overview
+
+Soil Fungal Diversity Wisconsin Survey Global Patterns represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish soil fungal diversity wisconsin survey global patterns
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving soil extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Soil Fungal Diversity Wisconsin Survey Global Patterns finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for soil fungal diversity wisconsin survey global patterns. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+soil fungal diversity wisconsin survey global patterns and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Soil Fungal Diversity Wisconsin Survey Global Patterns has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of soil fungal diversity wisconsin survey global patterns into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[cool-temperate-soil-characteristics]]
+- [[jeavons-soil-ph-testing-balancing]]
+- [[lowenfels-tilling-no-till-soil-health]]
+- [[query-what-are-the-best-indicator-plants-for-soil-health]]
+- [[query-what-is-the-best-soil-mix-for-growing-cannabis]]

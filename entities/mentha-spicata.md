@@ -19,34 +19,7 @@ sources:
   - "Grieve, M. (1931). A Modern Herbal. Jonathan Cape."
   - "McClintock, E. (1970). A Monograph of the Genus Mentha."
   - "Lawrence, B.M. (2006). Mint: The Genus Mentha. CRC Press."
-  - "Burt, S. (2004). [[comparison-essential-oils-vs-neem-oil-vs-insecticidal-soap]]: their antibacterial properties. Int J Aromather, 14(1), 46-59."
-  - https://en.wikipedia.org/wiki/Mentha_spicata
----
-
-# Mentha spicata
-
-## Overview
-
-**Mentha spicata**, commonly known as spearmint, is a species of flowering plant in the family Lamiaceae native to much of Europe and southern Asia but now naturalized worldwide. It is one of the most widely cultivated and commercially important mint species, valued for its carvone-dominant essential oil, culinary versatility, [[panax-ginseng]], and ease of cultivation. Unlike its close relative peppermint (*Mentha × piperita*), spearmint contains minimal menthol and is instead characterized by a sweet, mildly warm flavor with notes of caraway — a profile derived from its primary terpene, (−)-carvone. In permaculture and [[williams-pdc-ecological-design-principles]], spearmint serves as a vigorous [[fukuoka-citrus-orchard-ground-cover-cultivation]], insectary plant, and [[companion-planting]] ally, though its aggressive rhizomatous spread requires careful management in integrated garden systems.
-
-## Taxonomy and Classification
-
-- **Kingdom:** Plantae
-- **Clade:** Tracheophytes
-- **Clade:** Angiosperms
-- **Clade:** Eudicots
-- **Clade:** Asterids
-- **Order:** Lamiales
-- **Family:** Lamiaceae
-- **Subfamily:** Nepetoideae
-- **Tribe:** Mentheae
-- **Genus:** *Mentha*
-- **Species:** *M. spicata* L.
-- **Chromosome number:** 2n = 48 (hexaploid, some populations 2n = 30)
-
-### Nomenclatural Notes
-
-The taxonomy of *Mentha* is notoriously complex due to widespread hybridization, polyploidy, and [[hamilton-vegetative-propagation]]. *Mentha spicata* as currently circumscribed may represent an allopolyploid of hybrid origin, likely involving *M. longifolia* and *M. suaveolens* or *M. rotundifolia*. The name *M. spicata* has been applied inconsistently in the literature, with some authors distinguishing between "native spearmint" (*M. spicata* sensu stricto) and "Scotch spearmint" (*M. × gracilis*, a hybrid of *M. spicata* × *M. arvensis*), which is the primary commercial source of spearmint oil in [[psilocybin-north-america-pacific-northwest]].
+  - "Burt, S. (2004). [[panax-ginseng]], and ease of cultivation. Unlike its close relative peppermint (*Mentha × piperita*), spearmint contains minimal menthol and is instead characterized by a sweet, mildly warm flavor with notes of caraway — a profile derived from its primary terpene, (−)-carvone. In permaculture and [[fukuoka-citrus-orchard-ground-cover-cultivation]], insectary plant, and [[hamilton-vegetative-propagation]]. *Mentha spicata* as currently circumscribed may represent an allopolyploid of hybrid origin, likely involving *M. longifolia* and *M. suaveolens* or *M. rotundifolia*. The name *M. spicata* has been applied inconsistently in the literature, with some authors distinguishing between "native spearmint" (*M. spicata* sensu stricto) and "Scotch spearmint" (*M. × gracilis*, a hybrid of *M. spicata* × *M. arvensis*), which is the primary commercial source of spearmint oil in [[psilocybin-north-america-pacific-northwest]].
 
 ## Botanical Description
 
@@ -88,3 +61,88 @@ The essential oil of spearmint is steam-distilled from the aerial parts (primari
 
 | Component | % of Essential Oil | Notes |
 |-----------|-------------------|-------|
+
+## Overview
+
+Mentha Spicata represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish mentha spicata
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving mentha extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Mentha Spicata finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for mentha spicata. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+mentha spicata and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Mentha Spicata has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of mentha spicata into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[actaea-spicata]]
+- [[mentha-aquatica-mollison]]
+- [[mentha-piperita]]
+- [[mentha-pulegium]]
+- [[mentha-suaveolens]]

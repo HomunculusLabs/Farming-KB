@@ -22,22 +22,7 @@ richer flavor, and grows best in cold climates.
 Softneck garlic (Allium sativum var. sativum) lacks a stiff central stalk,
 has more but smaller cloves, stores much longer, and tolerates milder
 winters.
-Choosing between them depends on your [[holzer-climate-zone-microclimate-creation]] and whether you
-prioritize flavor or storage life.
-
-## Climate Adaptation
-
-The most important difference is climate suitability. Hardneck
-garlic evolved in cold Central Asian regions and requires a sustained
-winter chill to develop properly. It performs best in USDA hardiness
-zones 3 through 6, where winters are cold enough to provide adequate
-vernalization. In zones 7 and warmer, hardneck garlic may struggle to
-form quality bulbs.
-
-Softneck garlic originated in Mediterranean climates with mild winters
-and grows well in USDA zones 5 through 9. It tolerates warmer conditions
-and does not require an extended deep freeze. Gardeners in the southern
-[[dmt-containing-plants-united-states-halpern]] or mild coastal regions should generally choose softneck
+Choosing between them depends on your [[dmt-containing-plants-united-states-halpern]] or mild coastal regions should generally choose softneck
 varieties for reliable results.
 
 ## Clove Structure and Size
@@ -114,7 +99,5 @@ are a bonus crop that softneck cannot provide.
 
 ## Elephant Garlic Note
 
-Elephant garlic ([[garlic-growing-guide]] covers planting, harvesting, and curing for
-  both types.
-- [[alliums-growing-guide]]
+Elephant garlic ([[alliums-growing-guide]]
 - [[comparison-hardneck-vs-softneck-garlic]]

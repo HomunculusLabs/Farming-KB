@@ -1,7 +1,7 @@
 ---
 title: Inoculation Point Taping Technique Sterile Bag Inoculation Jarrold
-tags: [[mushroom-cultivation]], sterile-technique, inoculation, boil-a-bag, contamination-prevention, jarrold]
-related: [mushroom-bag-inoculation-short-needle-vs-long-needle, [[jarrold-boil-a-bag-mushroom-cultivation-method]], [[spore-syringe-preparation-jarrold-method]]
+tags: mushroom-cultivation, sterile-technique, inoculation, boil-a-bag, contamination-prevention, jarrold]
+related: [mushroom-bag-inoculation-short-needle-vs-long-needle, spore-syringe-preparation-jarrold-method
 source: [jarrold-indoor-mushroom-growing-technique-boil-a-bag]
 created: 2026-05-10
 ---
@@ -10,11 +10,7 @@ created: 2026-05-10
 
 ## Overview
 
-One of the most practical and often overlooked aspects of the Jarrold boil-a-bag [[boil-a-bag-mushroom-cultivation-method]] is the inoculation point taping technique. This simple preparation step addresses two critical challenges in [[sterile-inoculation-technique-grain-jars-mycology]]: preventing the inoculation hole from enlarging when the needle is inserted, and providing a rapid seal after the needle is withdrawn to prevent contamination. The technique is specifically designed for the short-needle [[boil-a-bag-long-needle-inoculation-method-jarrold]], where the needle cannot pass through the filter can and must instead penetrate the bag directly below the filter level.
-
-## The Problem: Bag Puncture Contamination
-
-When a needle punctures a plastic bag containing [[oyster-mushroom-non-sterilized-substrate-cultivation]], two problems arise:
+One of the most practical and often overlooked aspects of the Jarrold boil-a-bag [[sterile-inoculation-technique-grain-jars-mycology]]: preventing the inoculation hole from enlarging when the needle is inserted, and providing a rapid seal after the needle is withdrawn to prevent contamination. The technique is specifically designed for the short-needle [[oyster-mushroom-non-sterilized-substrate-cultivation]], two problems arise:
 
 1. **Hole enlargement**: The flexible plastic stretches around the needle during insertion. When the needle is withdrawn, the stretched plastic may create an opening larger than the needle diameter, providing a contamination pathway for airborne microorganisms.
 
@@ -80,9 +76,7 @@ The taping technique is only necessary for the short-needle method. The long-nee
 |---------|---------------------------|------------------------------|
 | Bag puncture | Required | Not required |
 | Taping preparation | Yes (two pieces per point) | Minimal (tape can to bag only) |
-| Needle [[sterilization]] | Critical (penetrates bag) | Critical (penetrates filter) |
-| Spore volume | 5 cc × 2 points = 10 cc | 10 cc through filter |
-| [[fungicide-treated-seed-contamination-risk-mushroom-substrate]] | Higher (bag penetration) | Lower (sterile filter path) |
+| Needle [[fungicide-treated-seed-contamination-risk-mushroom-substrate]] | Higher (bag penetration) | Lower (sterile filter path) |
 | Ease of use | More complex | Simpler |
 | Speed | Slower (tape preparation) | Faster |
 
@@ -117,8 +111,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[det]]
 - [[isopropyl-alcohol]]
-- [[spore]]
 - [[mycology]]
 - [[sterilization]]

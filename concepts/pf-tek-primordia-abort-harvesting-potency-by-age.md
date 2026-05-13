@@ -9,11 +9,7 @@ created: 2026-05-11
 
 ## Overview
 
-[[pf-tek-psilocybe-fanaticus]] identified a crucial but often overlooked relationship
-between mushroom developmental stage and psychedelic potency. The PF TEK
-emphasizes that immature mushrooms — primordia and abortive fruiting bodies —
-are significantly more potent per unit weight than mature sporulating
-specimens. This page covers the stages of [[bloomfield-mushroom-formation-fruiting-body-development-cultivation]] in the
+[[bloomfield-mushroom-formation-fruiting-body-development-cultivation]] in the
 PF TEK, identification of aborts, and optimal harvesting strategies for
 maximum potency.
 
@@ -65,66 +61,8 @@ cap. These are also potent and suitable for harvesting.
 The central claim of PF regarding potency is straightforward: **small
 immature specimens are significantly more potent than larger mature ones.**
 This relationship has been supported by subsequent chemical analyses showing
-that [[hplc-analysis-of-psilocybin-and-psilocin]] concentrations are highest in young, actively
-growing tissue and decrease as the mushroom matures and dedicates resources
-to spore production.
-
-### Why Immature Mushrooms Are More Potent
-
-1. **Active biosynthesis** — Young mushrooms are actively synthesizing
-   psilocybin and related indole alkaloids during rapid cell division.
-
-2. **Dilution by structural tissue** — Mature mushrooms accumulate large
-   amounts of chitin and glucans. Concentration per gram decreases.
-
-3. **Resource redirection** — During maturation, the fungus shifts from
-   alkaloid biosynthesis to spore production.
-
-4. **Alkaloid volatility** — Psilocybin and psilocin degrade over time.
-   Mushrooms left on the cake lose potency before harvest.
-
-### Harvesting Strategy for Maximum Potency
-
-PF recommends the following approach:
-
-1. **Harvest primordia** — Pick the tiny worm-like primordia with reddish
-   heads as soon as they are identifiable. Use a pointed knife blade. These
-   are among the most potent material on the cake.
-
-2. **Harvest aborts promptly** — Pick abortive mushrooms while they are
-   still healthy and before their heads turn black. A pointed knife blade
-   works well for removing these small specimens.
-
-3. **Harvest before veil break** — When fruiting bodies develop normally,
-   harvest before the partial veil under the cap breaks. Mushrooms will be
-   smaller with roundish caps. They are more potent at this stage than
-   after sporulation begins.
-
-4. **Mature specimens for spore collection** — Allow some mushrooms to
-   fully mature for spore printing. These are "good for spore collecting
-   and showcasing but are weak in psychedelic potency."
-
-## The Complete Potency Prescription
-
-PF summarized the ideal cultivation approach concisely: "Grow them on brown
-rice, harvest them when they are young and cool dry them with desiccant. When
-this is done, they are an entheogen of the highest order."
-
-The three pillars of maximum potency in the PF TEK are:
-1. **[[pf-tek-vermiculite-brown-rice-substrate-dry-barrier]]** — Provides the nutritional base for optimal
-   [[mycelial-broth-alkaloid-production]]
-2. **Young harvesting** — Captures the peak alkaloid concentration window
-3. **Cool desiccant drying** — Preserves alkaloid content without heat
-   degradation
-
-## Time Scale of the PF TEK
-
-The complete cultivation cycle from spore to harvest follows this timeline:
-
-1. **Spore inoculation to germination** — within 1 week at approximately
-   21°C (70°F)
-2. **Germination to complete colonization** — 2-3 weeks
-3. **[[jarrold-mycelium-colonization-to-fruiting-transition-bag-opening-technique]] cycle start** — within 2 weeks
+that [[pf-tek-vermiculite-brown-rice-substrate-dry-barrier]]** — Provides the nutritional base for optimal
+   [[jarrold-mycelium-colonization-to-fruiting-transition-bag-opening-technique]] cycle start** — within 2 weeks
 4. **Fruiting cycle duration** — approximately 2 weeks for the primary flush
 
 Total time from inoculation to harvest: 4-6 weeks. After the initial flush,

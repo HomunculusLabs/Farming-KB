@@ -1,6 +1,6 @@
 ---
 title: "Stramenopila vs. True Fungi: The Oomycete Kingdom Distinction"
-source: "Mr. Bloomfield's Orchard - [[nicholas-money]]"
+source: "Mr. Bloomfield's Orchard - nicholas-money"
 topics: [mycology, taxonomy, oomycetes, stramenopila, fungal-classification]
 ---
 
@@ -8,17 +8,7 @@ topics: [mycology, taxonomy, oomycetes, stramenopila, fungal-classification]
 
 ## The Taxonomic Revolution in Mycology
 
-One of the most significant conceptual shifts in modern mycology has been the recognition that organisms long treated as fungi—including the notorious water molds and downy mildews—actually belong to an entirely different kingdom of life called the **Stramenopila**. This reclassification, driven by molecular phylogenetics, has profound implications for understanding [[bloomfield-fungal-biology-and-hyphal-growth]], ecology, and evolution. Nicholas Money's *Mr. Bloomfield's Orchard* devotes considerable attention to this distinction, noting that "oomycetes have been treated as fungi since the origins of mycological study because they have invasive hyphae, feed by absorbing nutrients, and form spores when they reproduce."
-
-## Defining Characteristics of Kingdom Fungi
-
-True fungi (Kingdom Fungi) share several fundamental features that distinguish them from stramenopiles:
-
-- **Chitinous cell walls**: Fungal cell walls are constructed primarily from chitin, a polymer of N-acetylglucosamine, interwoven with β-glucans and other polysaccharides
-- **Ergosterol in membranes**: Unlike animals (cholesterol) and plants (sitosterol), fungi use ergosterol as their primary membrane sterol—this is the biochemical basis for many antifungal drugs
-- **Absorptive nutrition**: All true fungi digest food externally through enzyme secretion and absorb the resulting small molecules
-- **Hyphal growth**: The invasive filamentous growth form, whether septate (with cross-walls) or coenocytic (without), is uniquely adapted for penetrating solid substrates
-- **Spore-based reproduction**: Fungi produce spores through both sexual and asexual pathways, often with remarkable [[fungal-spore-biology]]
+One of the most significant conceptual shifts in modern [[mycology]] has been the recognition that organisms long treated as fungi—including the notorious water molds and downy mildews—actually belong to an entirely different kingdom of life called the **Stramenopila**. This reclassification, driven by molecular phylogenetics, has profound implications for understanding [[fungal-spore-biology]]
 
 ## The Stramenopila: A Separate Evolutionary Lineage
 
@@ -63,7 +53,7 @@ Members of the Saprolegniaceae family are aquatic oomycetes that infect fish and
 
 The water mold family Saprolegniaceae, including *Achlya* ("the flower without petals"), *Thraustotheca*, and *Dictyuchus*, have served as important model organisms for studying fungal-like cell biology:
 
-- Their hyphae expand to several tenths of a millimeter in diameter—considerably larger than most fungal hyphae—making them ideal for microscopy
+- Their hyphae expand to several tenths of a millimeter in diameter—considerably larger than most [[fungal-hyphae]]—making them ideal for microscopy
 - The pointed tips are packed with cytoplasm streaming with visible organelles
 - Behind the growing apices, a thin sleeve of cytoplasm surrounds a large transparent vacuole
 - These organisms were first described in detail by William Arderon, a Fellow of the Royal Society of London, in 1748
@@ -86,13 +76,7 @@ Oomycetes fill ecological niches analogous to true fungi—as decomposers, patho
 
 ## Historical Context
 
-The traditional grouping of oomycetes with fungi dates to the earliest days of mycology, when classification was based on morphology and lifestyle rather than evolutionary relationships. The advent of molecular systematics in the 1980s and 1990s revealed the true phylogenetic distance between these groups, forcing a major reorganization of eukaryotic taxonomy. Despite this reclassification, the term "fungus" continues to be used loosely for oomycetes in many applied contexts—plant pathologists, aquaculture specialists, and medical mycologists still refer to oomycete diseases as "[[blesching-cannabis-fungal-infections-candida]]" in everyday usage.
-
-## Convergent Evolution of Invasiveness
-
-Perhaps the most profound lesson from the fungal-oomycete distinction is what it reveals about convergent evolution. Both lineages independently evolved:
-
-1. Filamentous [[fungal-hyphae-invasive-growth-mechanisms]] (hyphae)
+The traditional grouping of oomycetes with fungi dates to the earliest days of mycology, when classification was based on morphology and lifestyle rather than evolutionary relationships. The advent of molecular systematics in the 1980s and 1990s revealed the true phylogenetic distance between these groups, forcing a major reorganization of eukaryotic taxonomy. Despite this reclassification, the term "fungus" continues to be used loosely for oomycetes in many applied contexts—plant pathologists, aquaculture specialists, and medical mycologists still refer to oomycete diseases as "[[fungal-hyphae-invasive-growth-mechanisms]] (hyphae)
 2. Absorptive nutrition via enzyme secretion
 3. Spore-based dispersal and reproduction
 4. The ability to penetrate and degrade solid substrates

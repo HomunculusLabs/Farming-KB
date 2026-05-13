@@ -22,21 +22,7 @@ sources:
   - Turlings, T.C.J. & Tumlinson, J.H. (1992). Systemic release of query-how-do-plants-use-chemical-signals-to-defend-against-insects by herbivore-injured corn. Proceedings of the National Academy of Sciences, 89, 8399-8402.
 ---
 
-# [[trap-cropping]] and Push-Pull Pest Management
-
-## Overview
-
-Trap cropping and push-pull strategies are ecologically-based pest management techniques that manipulate insect behavior and plant chemistry to protect crops without reliance on synthetic pesticides. These methods exploit the natural preferences of pest insects—drawing them toward decoy plants (trap crops) or repelling them from the main crop while attracting them to a perimeter (push-pull)—reducing pest pressure on the target harvest. Together they form a cornerstone of integrated pest management ipm management (IPM) and have been validated across diverse cropping systems on every inhabited continent.
-
-## What Is Trap Cropping?
-
-A trap crop is a plant species (or cultivar) that is grown specifically to attract pest insects away from the main cash crop. The trap crop is more attractive to the pest than the primary crop, concentrating pest populations where they can be monitored, suppressed, or destroyed. The concept is ancient—Roman agricultural writers described planting sacrificial plants to protect vineyards—but modern trap cropping is grounded in chemical ecology, insect behavioral science, and evolutionary biology.
-
-### Mechanisms of Attraction
-
-Pest insects locate host plants through a hierarchy of cues:
-
-- **[[fungal-volatile-organic-compounds-communication]] compounds (VOCs)**: Plants emit specific blends of volatile chemicals that herbivorous insects detect with their antennae. Trap crops often produce higher concentrations of attractive volatiles than the main crop. For example, European corn borer moths are drawn to the sesquiterpene β-caryophyllene released by certain trap plant species at concentrations 10–100× higher than standard maize.
+# [[fungal-volatile-organic-compounds-communication]] compounds (VOCs)**: Plants emit specific blends of volatile chemicals that herbivorous insects detect with their antennae. Trap crops often produce higher concentrations of attractive volatiles than the main crop. For example, European corn borer moths are drawn to the sesquiterpene β-caryophyllene released by certain trap plant species at concentrations 10–100× higher than standard maize.
 - **Visual cues**: Color, shape, and size influence landing and oviposition choices. Many pests preferentially land on taller, more prominent plants, which is why perimeter trap crops are often planted before the main crop to establish a height advantage.
 - **Oviposition stimulants**: Surface chemicals, trichome density, and leaf texture can trigger egg-laying behavior. The Indian mustard cultivar 'PI 447697' produces glucosinolate profiles that serve as potent oviposition stimulants for diamondback moth, far exceeding those of neighboring cabbage.
 - **Nutritional suitability**: Some pests show a strong feeding preference for trap crops that contain higher levels of specific nutrients—sugars, amino acids, or secondary compounds that serve as feeding stimulants. Colorado potato beetles preferentially feed on certain Solanum species due to their glycoalkaloid profiles.
@@ -53,7 +39,7 @@ The trap crop is planted as a border entirely surrounding the main crop. This is
 
 Trap crop rows are planted at intervals within the main crop—typically every 4–10 rows, depending on pest mobility. This approach intercepts pests that have already penetrated the field edge. It is more effective for highly mobile pests that quickly disperse throughout a field.
 
-**Example**: In crucifer [[dry-gardening-unirrigated-vegetable-production-solomon]] in Kenya, Indian mustard is planted every 5–7 rows within cabbage fields. Diamondback moth populations concentrate on the mustard, and farmers ca [[cervantes-bacillus-thuringiensis-bt-control]] ngiensis (Bt) sprays only to the mustard rows.
+**Example**: In crucifer [[cervantes-bacillus-thuringiensis-bt-control]] ngiensis (Bt) sprays only to the mustard rows.
 
 ### Sequential Trap Cropping
 
@@ -75,9 +61,7 @@ Push-pull pest management is an elaboration of trap cropping that adds an active
 
 The push uses stimuli that deter pests from the main crop:
 
-- **Intercropped repellent plants**: Species that emit [[query-how-do-fungal-volatile-compounds-affect-plant-growth-and-other-microorganisms]] unattractive or repellent to the target pest. In African cereal systems, silverleaf desm desmodium uncinatum ncinatum*) intercropped between maize rows repels stemborer moths—specifically, desmodium releases (E)-β-ocimene and several other volatile terpenoids that disrupt stemborer host-finding behavior.
-- **Synthetic repellents**: Application of compounds that mask crop volatiles or actively repel pests. Methyl salicylate dispensers have been used to repel certain aphid species from apple orchards.
-- **Visual disruption**: Reflective mulches, UV-absorbing films, or colored markers that disorient pest insects. Aluminum-coated [[jadam-plastic-mulch-problems]] repels aphids and thrips from pepper and tomato fields.
+- **Intercropped repellent plants**: Species that emit [[jadam-plastic-mulch-problems]] repels aphids and thrips from pepper and tomato fields.
 - **Mechanical barriers**: Floating row covers and insect netting function as physical push components when used in combination with trap crops.
 
 ### The Pull Component
@@ -96,7 +80,7 @@ The most extensively validated push-pull system was developed by the Internation
 
 **Mechanism**:
 1. Desmodium releases volatile chemicals that repel stemborer moths from maize
-2. Desmodium root exudates rhizosphere trigger suicidal germination of Striga seeds, depleting the soil seed bank
+2. Desmodium [[root-exudates-rhizosphere]] trigger suicidal germination of Striga seeds, depleting the soil seed bank
 3. Napier grass at the border attracts stemborer moths for oviposition
 4. Napier grass stems produce a gummy substance that kills boring larvae before they can develop
 5. Desmodium is a legume that fixes nitrogen, improving soil fertility management for the maize crop

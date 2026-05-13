@@ -79,12 +79,8 @@ Spent mushroom compost serves as both a fungal inoculum source and a
 bulking agent for contaminated soil remediation. Fish oil is added to
 spent mushroom compost and then mixed with creosote-contaminated soil,
 achieving significant PAH degradation. During treatment of aged
-creosote-contaminated soil, [[agaricus-bisporus]] has been evaluated as a source
-of crude laccase for enzymatic oxidation of phenolic compounds. The
-relative activity of the compost extract showed effective phenol
-degradation at 100% removal efficiency. [[singh-ligninolytic-enzymes-fungal-bioremediation]] showed
+creosote-contaminated soil, [[singh-ligninolytic-enzymes-fungal-bioremediation]] showed
 substantially higher activities in straw-based compost than in liquid
 culture. The compost environment provides favorable conditions for
-[[ligninolytic-enzyme-production-bioremediation]] by white-rot and other fungi, including adequate
-moisture, aeration, [[ph-and-nutrient-availability-garden-soils]], and the presence of lignocellulosic
+[[ph-and-nutrient-availability-garden-soils]], and the presence of lignocellulosic
 substrates that induce ligninolytic enzyme systems. These enzymes

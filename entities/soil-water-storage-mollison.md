@@ -7,7 +7,7 @@ tags: [concept, soil-science, hydrology, water-conservation, permaculture-princi
 
 ## Description
 
-Soil water storage refers to the capacity of soil to hold water in multiple forms: as retention storage (surface films bound to soil particles), interstitial storage (water-filled cavities between soil particles), humus storage (water held in mycorrhizal networks and spongy organic detritus), and chemically-bound water (combined with soil minerals). Mollison identifies soil as the largest potential water storage in the landscape, with forests maximizing infiltration and storage capacity.
+Soil water storage refers to the capacity of soil to hold water in multiple forms: as retention storage (surface films bound to soil particles), interstitial storage (water-filled cavities between soil particles), humus storage (water held in [[mycorrhizal-networks]] and spongy organic detritus), and chemically-bound water (combined with soil minerals). Mollison identifies soil as the largest potential water storage in the landscape, with forests maximizing infiltration and storage capacity.
 
 ## Classification
 
@@ -29,7 +29,7 @@ Soil water storage refers to the capacity of soil to hold water in multiple form
 
 ## Relevance to Cultivation and Mycology
 
-Soil water storage is the foundational concept connecting forest management to agricultural productivity and fungal ecology. The humus storage layer, composed of mycorrhizal hyphae and decomposing organic matter, is the primary water reservoir that sustains plants and fungi between rainfall events. For mycology, this is critical: the mass of fungal hyphae below the humus layer creates the sponge-like structure that retains moisture. Soil ripping and conditioning techniques described by Mollison directly improve the habitat for mycorrhizal fungi by increasing porosity and organic matter incorporation. Understanding these storage mechanisms allows cultivators to design substrate and soil systems that maintain optimal moisture levels for mycelial colonization and fruiting.
+Soil water storage is the foundational concept connecting forest management to agricultural productivity and [[fungal-ecology]]. The humus storage layer, composed of mycorrhizal hyphae and decomposing organic matter, is the primary water reservoir that sustains plants and fungi between rainfall events. For mycology, this is critical: the mass of fungal hyphae below the humus layer creates the sponge-like structure that retains moisture. Soil ripping and conditioning techniques described by Mollison directly improve the habitat for mycorrhizal fungi by increasing porosity and organic matter incorporation. Understanding these storage mechanisms allows cultivators to design substrate and soil systems that maintain optimal moisture levels for mycelial colonization and fruiting.
 
 ## Source Reference
 
@@ -48,9 +48,7 @@ patterns rather than against them remains a foundational principle in regenerati
 design and sustainable land management methodologies.
 
 ## See Also
-- [[mollison-designers-soil-water-storage-and-field-capacity]]
 - [[mollison-designers-soil-water-storage-in-forest-systems]]
-- [[forest-water-interaction-and-soil-storage]]
 - [[hemenway-soil-as-water-storage]]
 - [[mollison-tribal-soil-classifications-and-soil-structure]]
 
@@ -79,3 +77,73 @@ These ideas continue to influence ecological design education worldwide.
 These principles demonstrate the interconnected nature of ecological systems
 and their relevance to sustainable design practice and regenerative land use.
 The integration of these concepts supports resilient and productive landscape design.
+
+## Overview
+
+Soil Water Storage Mollison represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish soil water storage mollison
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving soil extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Soil Water Storage Mollison finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for soil water storage mollison. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+soil water storage mollison and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Soil Water Storage Mollison has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of soil water storage mollison into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.

@@ -20,8 +20,7 @@ type: concept
 Siderophores are high-affinity iron-chelating compounds produced by
 fungi, bacteria, and some plants to scavenge iron from environments where
 this essential element is biologically unavailable. In the context of
-[[singh-fungal-plant-growth-promoting-mechanisms]] and
-soil [[fukuoka-microbial-ecology-decomposition]].
+[[fukuoka-microbial-ecology-decomposition]].
 
 ## The Iron Problem in Soil
 
@@ -72,10 +71,7 @@ recycled and re-secreted, making this an efficient recycling system.
 
 ## Competition with Pathogens and Microbial Antagonism
 
-Siderophore production is a key mechanism of [[fukuoka-textdoc-biological-control-fallacy-pheromone-critique]]. Fungi
-that secrete high-affinity siderophores can sequester environmental iron
-to levels too low for competing microorganisms to grow, a strategy known
-as competitive exclusion. In the rhizosphere, [[arbuscular-mycorrhizal-fungi-biology-symbiosis]] and
+Siderophore production is a key mechanism of [[arbuscular-mycorrhizal-fungi-biology-symbiosis]] and
 their associated [[pah-bioremediation]] contexts.
 
 ## Siderophores in Heavy Metal Chelation

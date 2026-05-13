@@ -12,14 +12,10 @@ sources:
 
 ## Overview
 
-Sickle cell disease is a hereditary blood disorder causing abnormal hemoglobin (HbS), leading to distorted (sickle-shaped) red blood cells, vaso-occlusive crises, [[cannabis-chronic-pain-management]], and organ damage. Cannabis shows promise for [[cannabis-pain-management-protocols]] and may have protective cardiovascular effects. See also cannabinoid-receptors and [[cannabis-for-nausea-and-appetite-stimulation]]
-- [[cannabis-and-insomnia]]
-
-- [[cannabis-and-copd-research]]
+Sickle cell disease is a hereditary blood disorder causing abnormal hemoglobin (HbS), leading to distorted (sickle-shaped) red blood cells, vaso-occlusive crises, [[cannabis-pain-management-protocols]] and may have protective cardiovascular effects. See also cannabinoid-receptors and [[cannabis-and-insomnia]]
 
 - [[cannabis-and-pancreatitis-research]]
 
-- [[cannabis-for-chronic-pain]]
 - [[cannabis-for-neuropathic-pain]]
 - Anti-inflammatory effects
 - cannabis and sickle cell disease
@@ -97,8 +93,6 @@ through generations to modern scientific approaches, the evolution continues
 to inform current best practices and research directions.
 
 ## See Also
-- [[doc]]
 - [[uwe-blesching]]
-- [[det]]
 - [[blesching-cannabis-sickle-cell-disease-pain-inflammation]]
 - [[cannabis-and-crohn-disease]]

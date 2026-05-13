@@ -29,7 +29,7 @@ sources:
 
 ## Introduction
 
-Mulberries are fast-growing, deciduous trees belonging to the genus *Morus* in the family Moraceae. With over 150 named species distributed across temperate and subtropical regions worldwide, mulberries have been cultivated for millennia — primarily for their sweet, nutrient-dense berries and their leaves, which are the sole food source of the domesticated silkworm (*Bombyx mori*). The trees are exceptionally hardy, adaptable, and productive, making them a cornerstone of [[forest-gardening-and-food-forests]], [[agroforestry-and-alley-cropping]], and sustainable land management systems.
+Mulberries are fast-growing, deciduous trees belonging to the genus *Morus* in the family Moraceae. With over 150 named species distributed across temperate and subtropical regions worldwide, mulberries have been cultivated for millennia — primarily for their sweet, nutrient-dense berries and their leaves, which are the sole food source of the domesticated silkworm (*Bombyx mori*). The trees are exceptionally hardy, adaptable, and productive, making them a cornerstone of [[agroforestry-and-alley-cropping]], and sustainable land management systems.
 
 Mulberries are among the most versatile multi-purpose trees in temperate and subtropical agriculture. They produce abundant fruit, provide high-quality fodder for livestock, yield medicinal compounds, support silk production, stabilize soil, and serve as ornamental shade trees. Their rapid growth rate — up to 3–4 feet per year in optimal conditions — means they can begin producing fruit within 2–3 years from planting, far sooner than most other fruit trees.
 
@@ -47,41 +47,7 @@ Native to western Asia (Iran and the Caucasus region), the black mulberry produc
 
 ### Red Mulberry (*Morus rubra*)
 
-Native to [[polypore-fungi-eastern-north-america]] America, the red mulberry is an important understory tree in hardwood forests from Massachusetts to Florida and west to Nebraska and Texas. Trees reach 40–60 feet. Fruit is dark red to purple, with a mild, sweet flavor. *M. rubra* is the most shade-tolerant species, naturally occurring as an understory tree, and is cold-hardy to Zone 4. It is threatened in parts of its range by hybridization with invasive *M. alba*. Conservation efforts are underway to preserve genetically pure *M. rubra* populations.
-
-### Hybrids and Other Species
-
-Crosses between species, particularly *M. alba × M. rubra*, produce vigorous, fruitful trees that combine cold-hardiness with superior fruit quality. The 'Illinois Everbearing' cultivar is one of the most famous hybrids. Additional species of regional importance include *M. macroura* (Himalayan mulberry), valued for its extraordinarily long fruit, and *M. latifolia* (Japanese mulberry), used in both sericulture and fruit production.
-
-## Historical and Cultural Significance
-
-### Sericulture and the Silk Road
-
-Mulberry cultivation is inextricably linked to the history of silk production. The practice of raising silkworms on mulberry leaves began in China around 3500 BCE and remained a closely guarded state secret for over 3,000 years. Mulberry leaves contain the ideal balance of proteins, carbohydrates, and minerals for silkworm growth, particularly 1-deoxynojirimycin (DNJ), a compound that improves silkworm health and silk quality.
-
-The spread of sericulture along the Silk Road carried mulberry cultivation to Korea (by 200 BCE), Japan, India, Central Asia, and eventually to Europe. By the 6th century CE, the Byzantine Empire had established sericulture after monks smuggled silkworm eggs and mulberry seeds out of China. Mulberry planting became so widespread in medieval Europe that entire landscapes were reshaped — most notably in Lombardy, Italy, and in the Languedoc region of France.
-
-### Traditional Medicine
-
-In Traditional Chinese Medicine (TCM), mulberry leaves (*Sang Ye*) have been used for centuries to treat fever, cough, diabetes, and hypertension. Modern research has validated many of these traditional uses, particularly the antidiabetic effects of DNJ, which inhibits alpha-glucosidase and slows carbohydrate absorption. Mulberry fruit (*Shen Shen Zi*) is used as a tonic for the blood, kidneys, and liver, and is believed to combat premature graying of hair.
-
-In Ayurvedic medicine, mulberry bark and fruit are used for digestive complaints, respiratory conditions, and as a blood purifier. European folk traditions used mulberry syrup as a treatment for sore throats and mouth ulcers.
-
-### Cultural Symbolism
-
-In Chinese culture, the mulberry symbolizes home, family, and sustenance — reflecting its role as the foundation of the household silk industry. The character for mulberry (桑, *sāng*) appears in numerous Chinese idioms and classical texts. In Ovid's *Metamorphoses*, the tragic tale of Pyramus and Thisbe takes place under a white mulberry tree, whose fruit was stained dark by the lovers' blood — an etiological myth for the dark-fruited varieties.
-
-## Climate and Site Requirements
-
-### Hardiness Zones
-
-| Species | USDA Hardiness Zones | Heat Tolerance |
-|---------|---------------------|----------------|
-| *M. alba* | 4–9 | Excellent |
-| *M. nigra* | 6–10 | Moderate |
-| *M. rubra* | 4–8 | Moderate |
-
-*M. alba* is the most adaptable species, thriving from the cold winters of the upper Midwest to the hot summers of the Deep South. *M. nigra* requires milder winters and is best suited to Zones 7–9 for reliable fruiting. *M. rubra* is cold-hardy but prefers the moderate climates of its native eastern [[growing-gourmet-north-american-reishi-species]] range.
+Native to [[growing-gourmet-north-american-reishi-species]] range.
 
 ### Soil Requirements
 
@@ -90,17 +56,11 @@ Mulberries are remarkably unfussy about soil. They tolerate:
 - **pH**: 5.5–7.5 (slightly acidic to neutral preferred)
 - **Texture**: Sandy loam to heavy clay
 - **Drainage**: Moderately well-drained to well-drained (tolerate brief flooding)
-- **Fertility**: Low to moderate (excessively rich soils produce excessive [[cannabis-vegetative-growth-stage]] at the expense of fruit)
-
-Avoid waterlogged, poorly drained sites, which promote root rot. Sandy soils require more frequent irrigation but produce sweeter fruit.
-
-### Sun and Water
-
-Full sun (6+ hours) is ideal for [[query-how-do-i-prune-brambles-for-maximum-fruit-production]] production. *M. rubra* tolerates partial shade well, as it evolved as an understory tree. Once established (2–3 years after planting), mulberries are moderately drought-tolerant due to their deep taproot system. Young trees need regular watering (1–2 inches per week) during establishment. Mature trees typically do not require supplemental irrigation except during prolonged drought.
+- **Fertility**: Low to moderate (excessively rich soils produce excessive [[query-how-do-i-prune-brambles-for-maximum-fruit-production]] production. *M. rubra* tolerates partial shade well, as it evolved as an understory tree. Once established (2–3 years after planting), mulberries are moderately drought-tolerant due to their deep taproot system. Young trees need regular watering (1–2 inches per week) during establishment. Mature trees typically do not require supplemental irrigation except during prolonged drought.
 
 ### Wind Tolerance
 
-Mulberry wood is relatively brittle, and strong winds can break branches, especially when loaded with fruit. Plant in sheltered locations or provide windbreaks. Young trees should be staked for the first 1–2 years. [[windbreaks-hedgerows-and-shelterbelts]] can serve as protection while providing [[williams-pdc-additional-permaculture-principles]] functions.
+Mulberry wood is relatively brittle, and strong winds can break branches, especially when loaded with fruit. Plant in sheltered locations or provide windbreaks. Young trees should be staked for the first 1–2 years. [[williams-pdc-additional-permaculture-principles]] functions.
 
 ## Propagation
 
@@ -128,16 +88,7 @@ Micropropagation from nodal explants is used commercially for mass production of
 
 ### Site Preparation
 
-Clear a 4–6 foot diameter area of weeds and sod. In compacted or poor soils, loosen the soil to a depth of 18 inches in a wide area (not just the planting hole) to encourage lateral root spread. Incorporate [[composting-and-soil-biology|compost]] at a rate of 10–20% by volume in the backfill — avoid concentrated pockets of amendments.
-
-### Planting
-
-1. **Timing**: Plant bare-root trees in early spring before bud break (or fall in mild climates). Container-grown trees can be planted anytime the ground is workable.
-2. **Hole**: Dig a hole twice as wide as the root system but no deeper. The root flare (where trunk meets roots) must remain at or slightly above ground level. Planting too deep is the most common establishment failure.
-3. **Root work**: Spread roots naturally in the hole. Trim any circling or damaged roots.
-4. **Backfill**: Use native soil amended lightly with compost. Firm gently to eliminate air pockets.
-5. **Water**: Fill the planting hole with water before final backfill to ensure root-soil contact.
-6. **Mulch**: Apply 3–4 inches of organic [[composting|mulch]] in a ring extending to the drip line, keeping mulch 3–4 inches away from the trunk.
+Clear a 4–6 foot diameter area of weeds and sod. In compacted or poor soils, loosen the soil to a depth of 18 inches in a wide area (not just the planting hole) to encourage lateral root spread. Incorporate [[composting|mulch]] in a ring extending to the drip line, keeping mulch 3–4 inches away from the trunk.
 7. **Stake**: Stake for the first 1–2 years in windy sites. Use a flexible tie to allow trunk movement, which strengthens caliper.
 
 ### Spacing

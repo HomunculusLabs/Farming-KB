@@ -23,28 +23,7 @@ mycorrhizae.
 
 ## Structural Features
 
-In [[comparison-orchid-mycorrhizae-vs-ericoid-mycorrhizae]], the fungus penetrates the cell wall and invaginates
-the plasmalemma, forming tightly coiled hyphal structures called pelotons
-within the plant cell. Once the plant is invaded, spread of the fungus may
-occur from cell to cell internally. The internal hyphae eventually collapse
-and are digested by the host cell, providing nutrients to the orchid.
-
-Since the symbiosis forms an external network of hyphae extending into the
-soil, it would seem probable that the fungal hyphae function in nutrient
-uptake as with other mycorrhizae, supplementing the typically coarse root
-system of orchids with increased absorbing surface area. This arrangement
-provides the plant with enhanced access to soil minerals and water.
-
-## Fungal Partners
-
-A number of basidiomycete genera have been shown to be involved in the
-symbiosis, although many reports on isolation of the symbiotic fungus from
-orchid roots have placed the symbionts in the form genus *Rhizoctonia* when
-the perfect stage was not known or the isolate was not induced to fruit in
-culture. The true diversity of orchid mycorrhizal fungi includes members of
-Ceratobasidiaceae, Tulasnellaceae, and Sebacinaceae.
-
-The closest relatives of *[[linum-album-piriformospora-indica-co-culture-system]]* are members of the
+In [[linum-album-piriformospora-indica-co-culture-system]]* are members of the
 Rhizoctina group (Ceratobasidales). Preliminary studies indicated that
 *P. indica* can interact with orchids (*Dactylorhiza purpurella* and
 *D. majalis*) as a mycorrhizal partner, though more studies are needed to
@@ -53,8 +32,7 @@ early development.
 
 ## Obligate Dependency on Fungi
 
-Unlike most other [[plants-without-mycorrhizal-associations]] where the plant derives primarily
-nutritional benefits, orchid [[teaming-with-microbes-fungi-and-mycorrhizal-relationships]] often involve an
+Unlike most other [[teaming-with-microbes-fungi-and-mycorrhizal-relationships]] often involve an
 obligate dependency. Orchid seeds are extremely small and contain minimal
 nutrient reserves. They germinate only in the presence of a suitable fungus,
 which provides carbohydrates and other nutrients to the developing embryo.
@@ -67,11 +45,7 @@ depend entirely on their fungal partners for carbon throughout their lives.
 
 ## Carbon Flow Direction
 
-[[ericoid-and-orchid-mycorrhizae]] are unique among mycorrhizal types in that carbon can
-flow from fungus to plant rather than exclusively from plant to fungus. In
-the early seedling stage, and in mycoheterotrophic species, the orchid
-parasitizes the fungal mycelium for carbon. The fungus, which may be
-simultaneously forming [[ectomycorrhizal-associations]] with surrounding trees,
+[[ectomycorrhizal-associations]] with surrounding trees,
 effectively serves as a bridge for carbon flow from trees to orchids.
 
 This tripartite relationship (tree-ECM fungus-orchid) means that some
@@ -88,3 +62,88 @@ novel hydroxamate siderophore named **basidiochrome** (molecular weight
 specifically from *Ceratobasidium* and *Rhizoctonia* spp. (Haselwandter et
 al. 2006). The precise chemical structure was elucidated through HPLC and
 spectroscopic methods. Basidiochrome is the main iron-chelating agent
+
+## Overview
+
+Orchid Mycorrhiza represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish orchid mycorrhiza
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving orchid extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Orchid Mycorrhiza finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for orchid mycorrhiza. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+orchid mycorrhiza and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Orchid Mycorrhiza has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of orchid mycorrhiza into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[comparison-bromeliad-vs-orchid-care]]
+- [[comparison-orchid-mycorrhizae-vs-ericoid-mycorrhizae]]
+- [[ericoid-and-orchid-mycorrhizae]]
+- [[orchid-mycorrhiza-protocorm-development]]
+- [[vanilla-cultivation-and-orchid-ecology]]

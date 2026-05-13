@@ -2,8 +2,7 @@
 title: Do-Nothing Rice Barley Method
 aliases:
   - direct-seeded no-tillage rice barley
-  - [[direct-seeded-no-tillage-rice-barley-succession-in-clover]]
-  - [[fukuoka-green-manure-clover-revolution]]
+  - fukuoka-green-manure-clover-revolution
   - do-nothing farming
   - natural rice cultivation
 tags:
@@ -17,16 +16,10 @@ source: "the natural way of farming  fukuoka"
 
 # Do-Nothing Rice Barley Method
 
-The do-nothing rice/barley method is [[masanobu-fukuoka]]'s signature [[boil-a-bag-mushroom-cultivation-technique]],
+The do-nothing rice/barley method is boil-a-bag-mushroom-cultivation-technique,
 formally known as "direct-seeded, no-tillage, winter grain/rice succession in a clover
 cover." This method produces roughly 22 bushels (1,300 pounds) each of winter grain and
-rice per quarter-acre without plowing, [[cannabis-chemical-fertilizers]], prepared compost, or
-pesticides. Fukuoka's goal was to eventually take in 33 bushels per quarter-acre. The
-labor of one or two people is more than enough to grow crops on a quarter-acre.
-
-Fukuoka practiced this method for over thirty years on the same field, never plowed or
-turned. He called it the "clover revolution" in rice and barley cropping, voicing his
-opposition to modern [[fukuoka-illusions-of-scientific-farming]] with its use of chemicals and large machinery.
+rice per quarter-acre without plowing, fukuoka-illusions-of-scientific-farming with its use of chemicals and large machinery.
 
 ## The Core Principle
 
@@ -118,8 +111,14 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[water-management]]
-- [[fukuoka-rice-barley-cultivation-history-no-tillage-method]]
-- [[natural-farming-rice-barley-clover-method]]
-- [[fukuoka-road-back-clover-barley-rice-method]]
-- [[fukuoka-rice-barley-no-till-method]]
+- fukuoka-rice-barley-cultivation-history-no-tillage-method
+- fukuoka-road-back-clover-barley-rice-method
+- fukuoka-rice-barley-no-till-method
+
+## See Also
+
+- [[fukuoka-textdoc-creating-true-people-do-nothing-road]]
+- [[do-nothing-farming]]
+- [[do-nothing-farming-method]]
+- [[natural-farming-do-nothing-agriculture]]
+- [[do-nothing-farming-philosophy]]

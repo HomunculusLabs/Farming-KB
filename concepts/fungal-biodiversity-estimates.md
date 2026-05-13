@@ -12,28 +12,7 @@ type: concept
 
 Fungal biodiversity remains one of the most poorly quantified frontiers in
 biology. Unlike plants and vertebrates, fungi are microscopic for much of their
-life cycle, making traditional [[mycetozoan-survey-methods-substratum-plating]] unreliable. Current estimates of
-global fungal species richness range from 2.2 million to 3.8 million, though
-some models suggest numbers could exceed 5 million. Only roughly 150,000 species
-have been formally described by taxonomists.
-
-## Known vs Estimated Species
-
-Early estimates by Hawksworth in 1991 proposed a ratio of approximately 6:1 for
-fungal-to-plant species, yielding an estimate of 1.5 million fungal species
-globally. This landmark calculation was based on the observed ratio of fungi to
-plants in well-studied temperate regions, extrapolated to global plant diversity.
-The 6:1 ratio became a benchmark for decades of discussion.
-
-Subsequent revisions pushed estimates higher. Hawksworth and Lucking (2017)
-re-evaluated the ratio using data from intensive tropical surveys, finding that
-fungal-to-plant ratios in species-rich forests could be 10:1 or even 17:1.
-Applying these ratios to updated plant species counts produced estimates of
-2.2 to 3.8 million fungal species. The true number may be even higher.
-
-## Molecular Discoveries
-
-High-throughput [[environmental-dna-sequencing-fungi]], particularly metabarcoding of environmental
+life cycle, making traditional [[environmental-dna-sequencing-fungi]], particularly metabarcoding of environmental
 samples, has generated data-driven estimates that consistently exceed
 morphology-based surveys. Molecular surveys reveal vast numbers of operational
 taxonomic units that do not correspond to any described species. Studies of
@@ -49,46 +28,12 @@ morphology-based surveys alone.
 
 ## Geographic Patterns
 
-[[arbuscular-mycorrhizal-fungal-diversity-patterns-distribution]] is not uniformly distributed. Tropical regions, particularly
 [[psilocybe-southeast-asia-pacific]] and tropical South America, harbor the highest estimated species
 richness. This pattern mirrors plant diversity and likely reflects the greater
 structural complexity and age of tropical ecosystems.
 
 Undersampling in temperate and boreal regions means that diversity there may
-also be substantially underestimated. Many temperate [[mycorrhizal-fungi-fruit-trees]] only briefly
-and unpredictably, and their below-ground mycelia are rarely sampled
-comprehensively. Arctic and alpine fungi are especially poorly known, despite
-harboring specialized taxa adapted to extreme conditions.
-
-## Why Numbers Matter
-
-At current rates of species description, roughly 1,500 to 2,000 new fungal
-species per year, describing even the lower-bound estimate of 2.2 million
-species would take centuries. The taxonomic workforce is small and shrinking in
-many countries. DNA-based approaches can accelerate discovery but cannot replace
-formal taxonomic description, which remains the gold standard.
-
-Beyond academic interest, fungal biodiversity estimates have practical
-consequences. Conservation policies that protect habitats based on documented
-species richness systematically undervalue areas with high undocumented fungal
-diversity. Each undescribed species potentially harbors unique secondary
-metabolites with pharmaceutical or industrial applications that will never be
-discovered if the species goes extinct before being cataloged.
-
-## Emerging Approaches
-
-Citizen science platforms such as iNaturalist and fungal recording networks are
-increasingly contributing to biodiversity knowledge by generating georeferenced
-occurrence data at scales impossible for professional taxonomists alone. Machine
-learning models trained on environmental variables predict where undescribed
-species are most likely to occur, helping to prioritize survey effort. These
-complementary approaches are gradually narrowing the gap between known and
-estimated fungal diversity.
-
-## See Also
-
-- [[environmental-dna-metabarcoding-fungi]]
-- [[cryptic-fungal-species]]
+also be substantially underestimated. Many temperate [[environmental-dna-metabarcoding-fungi]]
 - [[fungal-conservation-challenges]]
 
 ## Practical Applications
@@ -120,8 +65,85 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[fungal-biodiversity]]
 - [[doc]]
-- [[mycorrhiza]]
 - [[fungal-species-estimates-biodiversity-overview]]
 - [[fungal-biodiversity-built-environments-indoor-mycobiome]]
+
+## Overview
+
+Fungal Biodiversity Estimates represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish fungal biodiversity estimates
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving fungal extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Fungal Biodiversity Estimates finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for fungal biodiversity estimates. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+fungal biodiversity estimates and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Fungal Biodiversity Estimates has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of fungal biodiversity estimates into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also

@@ -64,16 +64,7 @@ Many reports mention the [MDMA and 2C-B combination. The most successful protoco
 
 ### Key Characteristics
 1. Steep dose-response curve -- small increments produce large effect changes
-2. [[savory-short-duration-grazing-and-cell-systems]] compared to other major psychedelics (4-8 hours)
-3. Strongly erotic and body-positive character
-4. Visual richness without the intensity of classical psychedelics
-5. Generally positive reports, though some users who prefer dissociative experiences (e.g., ketamine) find 2C-B uncomfortable in its corporeal focus
-
-### Related
-
-- [[bohd-pihkal-entry-16]]
-
-- [[bom-pihkal-entry-17]]
+2. [[bohd-pihkal-entry-16]]
 
 - [[al-pihkal-entry-2]] "Tweetio" Compounds
 - 2CB-2ETO (4-bromo-2-ethoxy-5-methoxyphenethylamine): Active at ~15 mg but never approaches 2C-B intensity. Higher doses merely prolong activity from ~3 to ~6 hours.
@@ -86,34 +77,6 @@ Many reports mention the [MDMA and 2C-B combination. The most successful protoco
 
 ## Pharmacological Notes
 
-2C-B is a 2,5-dimethoxy-4-substituted phenethylamine, a pattern that is consistently associated with 5-HT2A receptor agonism and psychedelic activity. The bromine atom at the 4-position is a relatively lipophilic substituent that contributes to the compound's moderate potency and distinctive effect profile. Within the [[2c-family-chemistry-and-sar-pihkal]] of the 2C family, the nature of the 4-position substituent is the primary determinant of potency, duration, and qualitative character.
-
-## Practical Applications
-2C B Pihkal Entry 20 has significant applications in sustainable agriculture, ecological design, and regenerative practices. Practitioners and researchers continue to explore innovative methods for implementing these concepts in diverse climates and scales of operation.
-
-## Historical Significance
-The development and understanding of 2c b pihkal entry 20 has evolved considerably over recent decades, with contributions from researchers, practitioners, and indigenous knowledge systems worldwide.
-
-## Key Considerations
-Successful implementation of 2c b pihkal entry 20 requires attention to local conditions, climate adaptability, and integration with existing ecological systems. Regular monitoring and adaptive management are essential for optimal results.
-
-## Historical Context
-
-The historical development of this subject reflects centuries of accumulated
-knowledge and practical experience. From traditional methods passed down
-through generations to modern scientific approaches, the evolution continues
-to inform current best practices and research directions.
-
-## Common Challenges
-
-Practitioners frequently encounter several challenges when working with
-these concepts. Climate variability, resource limitations, and knowledge
-gaps can all affect outcomes. Addressing these challenges requires patience,
-observation, and a willingness to adapt approaches based on results.
-
-## See Also
-- [[mdma]]
-- [[doc]]
+2C-B is a 2,5-dimethoxy-4-substituted phenethylamine, a pattern that is consistently associated with 5-HT2A receptor agonism and psychedelic activity. The bromine atom at the 4-position is a relatively lipophilic substituent that contributes to the compound's moderate potency and distinctive effect profile. Within the [[mdma]]
 - [[2c-b]]
-- [[det]]
 - [[alexander-shulgin]]

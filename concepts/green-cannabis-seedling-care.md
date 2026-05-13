@@ -10,32 +10,7 @@ tags: [cannabis, plant-growth]
 
 # Cannabis Seedling Care
 
-From Greg Green's *The [[green-cannabis-grow-bible-breeding-genetics-and-true-breeding]]* (4th ed.), Chapters 2 and 3.
-
-## The Germination Stage
-
-Germination is the initial stage of growth and occurs when your seed's
-embryo cracks open and the seedling produces a root. This root fixes
-itself into the soil and pushes the newborn seedling up and over the
-soil surface. Following surface contact, two embryonic leaves open
-outwards to receive sunlight, pushing the empty seed shell away from
-the seedling. It takes anywhere between 12 hours to 3 weeks for seeds
-to germinate.
-
-## Seed Selection and Viability
-
-Seeds must be viable to germinate. Never use white seeds -- these are
-immature. Find seeds that have white and grey markings or another color
-apart from white. Crushed seeds will not germinate. Old seeds may have
-trouble germinating. Always try to use the best seeds you can find.
-
-## Germination Methods
-
-### Seed Soil Propagation
-
-Place seeds down in moist soil about 3mm (or the length of the seed)
-from the surface. Keep the soil moist (not soaking wet) by sprinkling
-water over it once a day. This has a moderate [[maitake-fruiting-body-success-rate-management]] -- out of 10
+From Greg Green's *The [[maitake-fruiting-body-success-rate-management]] -- out of 10
 seeds only 7-8 may germinate.
 
 ### Seed Towel Propagation
@@ -43,8 +18,7 @@ seeds only 7-8 may germinate.
 Place seeds on a damp towel or damp piece of cotton wool. Cover with
 more damp material. Keep moist at all times. If the material dries out
 it may damage the seeds. Check daily for roots. If roots appear,
-immediately transfer to a [[query-what-is-the-best-cannabis-grow-medium-for-beginners]] using tweezers. Do not touch the
-root. Success rate: 8-9 out of 10 seeds. The risk is [[query-how-to-prevent-transplant-shock-when-moving-cannabis-plants]].
+immediately transfer to a [[query-how-to-prevent-transplant-shock-when-moving-cannabis-plants]].
 
 ### Propagation Kits (Rockwool SBS Tray)
 
@@ -117,8 +91,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[greg-green]]
 - [[cannabis-seedling-care-guide]]
-- [[blesching-cannabis-palliative-care]]
 - [[blesching-cannabis-wound-care]]
 - [[cervantes-seedling-care-early-growth]]

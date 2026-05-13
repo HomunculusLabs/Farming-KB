@@ -14,48 +14,7 @@ Inselbergs and fold mountains are the most extensive elevated features in many d
 
 Great domes such as Uluru (Ayers Rock) in Australia and similar massifs of granitic or metamorphosed sandstones are relatively simple systems compared to scarps and wadis. They rarely develop deep caves (though some rock shelter exists), rarely have pronounced valley entries, and usually dip steeply into loose sandy soils around the base.
 
-Despite their simplicity, inselbergs are very solid **run-off areas**, some covering many tens of hectares. Large trees and good [[humus]] soils develop at the base of cliffs on the shade side.
-
-### Water Harvesting Strategy
-
-The basic ratio for inselberg water harvesting is **1 acre of field to 20 hectares of rock run-off**. Base floods are led via fluming to walled fields where both crops and fruit trees or palms can be grown.
-
-**Implementation approaches:**
-- **Concrete or stone gutters** on bare domes lead run-off to walled fields
-- **Simple concrete or rock slab gutters** gather water from rock domes or inselbergs for infiltration to fields or storage in cisterns
-- Small tanks can have access ramps for pigeon, quail, small mammals, and frogs, with thatch to retard evaporation and exclude large animals
-- A few shallow mulch-filled valleys exist on these massifs where the soil is mainly humus, supporting trees, yams, and other vegetation
-
-### Occupancy Considerations
-
-- Larger systems (100 hectares or more) have historically been occupied by careful and conservative peoples as base camps for long-range foraging after rains
-- Each inselberg has a special charm; very sensitive and restricted occupancy is called for, developing and protecting natural resources rather than attempting extensive systems
-- Very small rock slabs (1-10 hectares) present a useful area for a gutter and tank system, a hectare or two of trees, and a wayside house
-
-### Rock Domes vs. Inselbergs
-
-Rock domes are the least common dryland hill landscape. They at times occur in series separated by great fissures. While run-off is assured, sandy soils require cautious use of water. Many would support a wildlife ramp-tank for desert birds and small mammals.
-
-## Fold Mountains
-
-### Characteristics
-
-Fold mountains are the most extensive features in many deserts and combine characteristics of both inselbergs and scarps, but are generally far more complex than either. They form through continental drift and tectonic processes.
-
-### Structural Features
-
-- **Synclines** (down-flexed sediments): May erode to great canoe shapes with a few river gorges cutting their way out
-- **Anticlines** (up-flexed sediments): May form great whalebacks, but in the long run a river forms on their spines and produces a long valley in the hills, faced on each side by cliffs or steep tilted sediments
-
-### Dam Opportunities
-
-Fold mountains offer the greatest dam opportunities of any desert landform:
-
-- **Exit dams**: Dams at the exit of rivers from ranges can create large ovoid freshwater lakes within the interior
-- **Catchment-to-storage ratio**: Must be **20-30:1 in deserts** for permanent water; modest and deep storages are more likely to hold water year-round than large shallow storages
-- **Foothill dams**: Wherever massive ranges back the fold mountains, foothill dams hold water from snow melt and rain run-off
-- **Narrow rock-walled exit valleys**: Provide sites for many modest dams
-- **Diversion dams**: Low-slope wadi-like streams flowing to the plains can be led off to create complex freshwater dam systems
+Despite their simplicity, inselbergs are very solid **run-off areas**, some covering many tens of hectares. Large trees and good [[wadi]]-like streams flowing to the plains can be led off to create complex freshwater dam systems
 
 ### Rock Palisades
 
@@ -83,3 +42,93 @@ Wherever series of palisades are a feature, a horizontal bore will often tap swe
 | Fold mountain dams | 20-30:1 (catchment:storage) | Deep, modest storages |
 | Headwater streams | N/A | Divert to contour trench, then dam |
 | Palisade slopes | N/A | Plant on upslope side for infiltration |
+
+## See Also
+- [[inselbergs-and-fold-mountains-desert]]
+- [[inselbergs-domes-and-fold-mountains-in-deserts]]
+- [[desert-house-water-energy-conservation]]
+
+## Overview
+
+Inselbergs Fold Mountains Desert Water Conservation represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish inselbergs fold mountains desert water conservation
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving inselbergs extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Inselbergs Fold Mountains Desert Water Conservation finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for inselbergs fold mountains desert water conservation. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+inselbergs fold mountains desert water conservation and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Inselbergs Fold Mountains Desert Water Conservation has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of inselbergs fold mountains desert water conservation into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[inselbergs-and-fold-mountain-water-systems]]
+- [[inselbergs-and-fold-mountains-desert]]
+- [[inselbergs-and-fold-mountains-in-desert-permaculture]]
+- [[inselbergs-and-fold-mountains-in-deserts]]
+- [[inselbergs-domes-and-fold-mountains-in-deserts]]

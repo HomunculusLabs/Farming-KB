@@ -10,11 +10,11 @@ sources: [raw/papers/nicole-faires-the-ultimate-guide-to-natural-farming-and.md]
 
 Updated: 2026-04-18
 
-Source: Sheri Faires, The Ultimate Guide to [[comparison-natural-farming-vs-permaculture]] and [[natural-farming-sustainable-living-principles]]
+Source: Sheri Faires, The Ultimate Guide to [[natural-farming-sustainable-living-principles]]
 
 ## Pigeons and Quail
 
-Pigeons are kept in cages tall enough for you to walk around inside. Quail can be kept in much smaller cages and up to six can be raised in a [[comparison-biointensive-vs-square-foot-gardening]] (0.09 meters), although for [[permaculture]] purposes you would want to give them more space than that. Quail can also live in the greenhouse because they don't eat the plants; pigeons eat seeds and grain, and quail eat insects. They provide eggs and meat and like rabbits can be legally grown in the city. For people who live in urban locations and are not able to raise chickens, pigeons and quail are sometimes allowed (although not necessarily in the quantities you will want to raise). Quail are considered wildlife, and in many places you may need to get a game bird license.
+Pigeons are kept in cages tall enough for you to walk around inside. Quail can be kept in much smaller cages and up to six can be raised in a [[permaculture]] purposes you would want to give them more space than that. Quail can also live in the greenhouse because they don't eat the plants; pigeons eat seeds and grain, and quail eat insects. They provide eggs and meat and like rabbits can be legally grown in the city. For people who live in urban locations and are not able to raise chickens, pigeons and quail are sometimes allowed (although not necessarily in the quantities you will want to raise). Quail are considered wildlife, and in many places you may need to get a game bird license.
 
 A breeding pair of pigeons can produce twelve squabs, or baby pigeons, per year. Squabs are considered a gourmet dish and are incredibly easy to raise. Quail lay about 200 eggs a year (almost every day), depending on how much light they have. If you add lighting during the winter, they can produce 300 or more. Unlike pigeons, quail aren't very good at brooding their own eggs, and like chickens, they need a little extra help. They are more often raised for the eggs than for their meat, because they are smaller than pigeons but lay more eggs.
 
@@ -38,9 +38,7 @@ The best system is an enclosed area just for ducks around a small pond with an i
 
 ### Duck Care
 
-If the ducks have adequate water, a grassy yard with new grass, and a forage garden with bugs in it, then you won't need much extra feed. Ducks need young grass to eat, and if their pasture is too small and unvaried, they will quickly destroy a grassy backyard. If you must give them additional food, wheat is the [[query-best-grain-legumes-for-a-small-homestead]] for ducks and goes well with oats. Hard round fruits and vegetables need to be crushed for them first. Liquid milk and hard-boiled eggs are good sources of protein for laying birds, and all ducks need calcium from eggshells or seashells, and grit. Ducks, unlike other poultry, need a little more niacin in their diet, but lots of fresh greens or peas should be enough.
-
-In turn, they will give you eggs, meat, feathers, [[comparison-pheromone-based-pest-control-vs-beneficial-insect-biocontrol]], and fertilizer.
+If the ducks have adequate water, a grassy yard with new grass, and a forage garden with bugs in it, then you won't need much extra feed. Ducks need young grass to eat, and if their pasture is too small and unvaried, they will quickly destroy a grassy backyard. If you must give them additional food, wheat is the [[comparison-pheromone-based-pest-control-vs-beneficial-insect-biocontrol]], and fertilizer.
 
 ### Duck Housing
 
@@ -80,41 +78,7 @@ Goslings raised in a brooder need 1.5 square feet per bird until 7 weeks and the
 
 - faires-comprehensive-food-preservation-guide
 - faires-zone-and-sector-planning
-- [[jadam-fruit-tree-winter-pest-control]]
 - [[holzer-poultry-keeping-ducks-geese-and-chickens]]
-- [[natural-farming]]
-
-## Practical Applications
-
-The principles and techniques discussed here have wide-ranging applications
-across multiple disciplines and contexts. Practitioners and researchers
-continue to explore new ways to integrate these concepts into modern practice,
-adapting traditional knowledge to contemporary challenges and opportunities.
-
-## Key Considerations
-
-Several important factors influence the effectiveness and outcomes described
-in this topic. Understanding these considerations helps practitioners make
-informed decisions and avoid common pitfalls. Environmental conditions,
-timing, and material selection all play critical roles.
-
-## Historical Context
-
-The historical development of this subject reflects centuries of accumulated
-knowledge and practical experience. From traditional methods passed down
-through generations to modern scientific approaches, the evolution continues
-to inform current best practices and research directions.
-
-## Common Challenges
-
-Practitioners frequently encounter several challenges when working with
-these concepts. Climate variability, resource limitations, and knowledge
-gaps can all affect outcomes. Addressing these challenges requires patience,
-observation, and a willingness to adapt approaches based on results.
-
-## See Also
 - [[dom]]
-- [[det]]
 - [[permaculture]]
-- [[mollison-duck-and-waterfowl-integration]]
 - [[faires-meat-processing-curing-and-smoking]]

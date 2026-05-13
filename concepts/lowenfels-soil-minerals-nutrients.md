@@ -24,15 +24,11 @@ themselves directly -- the soil food web feeds them.
 
 **Nitrogen (N)** -- Required in largest quantities. Essential for amino acids,
 proteins, chlorophyll, and nucleic acids. In the soil food web, nitrogen cycles
-through [[hamilton-composting-and-organic-matter-management]] (proteins, amino acids, nucleic acids) into inorganic
-forms (ammonium NH4+, nitrite NO2-, nitrate NO3-). Bacteria decompose organic
-matter and retain nitrogen in their bodies. [[teaming-with-microbes-protozoa-and-nematodes]] eat bacteria
+through [[teaming-with-microbes-protozoa-and-nematodes]] eat bacteria
 and release excess nitrogen as ammonium. Nitrifying bacteria convert ammonium to
 nitrate. Nitrogen-fixing bacteria (Rhizobium, Azotobacter) convert atmospheric
 N2 into ammonium. Plants absorb nitrogen as ammonium or nitrate depending on
-their type -- [[nitrogen-fixing-trees-and-shrubs]] prefer ammonium; vegetables and annuals prefer
-nitrate. See [[teaming-with-nutrients-ph-testing-and-soil-amendment]]
-- [[hamilton-soil-biology-and-microorganisms]]
+their type -- [[teaming-with-nutrients-ph-testing-and-soil-amendment]]
 - [[knf-seed-treatment-and-soil-foundation]]
 ## Practical Applications
 

@@ -49,7 +49,7 @@ It is the most cold-hardy of the three main species and thrives in rocky, alkali
 
 The roots are the primary medicinal part and are rich in echinacoside, a potent antioxidant compound.
 
-See [[comparison-echinacea-vs-calendula]] and [[comparison-echinacea-vs-chamomile]] for how echinacea compares to other popular medicinal herbs.
+See [[comparison-echinacea-vs-chamomile]] for how echinacea compares to other popular medicinal herbs.
 
 ## Site Selection, Soil, and Planting
 
@@ -69,39 +69,7 @@ Transplant seedlings outdoors after all danger of frost has passed, spacing them
 
 Nursery transplants can be set out in spring and will often flower in their first year, giving a head start over seed-grown plants.
 
-For more on starting a medicinal herb garden, see [[query-how-do-i-start-a-medicinal-herb-garden]].
-
-## Ongoing Care and Maintenance
-
-Once established, echinacea is remarkably low-maintenance and drought-resistant.
-
-Water newly planted echinacea regularly during the first growing season to develop deep roots.
-
-After the first year, supplemental watering is only needed during extended dry spells.
-
-Apply a thin layer of organic mulch around the base to conserve moisture and suppress weeds.
-
-Deadheading spent flowers throughout the season encourages continued blooming.
-
-Leave the final flush of flowers in place in fall to provide seeds for birds and allow self-seeding.
-
-Cut the plant back to the ground in late winter or early spring before new growth emerges.
-
-## Harvesting for Medicine
-
-The leaves, stems, and flowers can be harvested during peak bloom in midsummer.
-
-Cut the top third of the plant in the morning after dew has dried for the highest polysaccharide content.
-
-Aerial parts are richest in polysaccharides, which support immune cell activity.
-
-Roots are typically harvested from plants that are at least three years old in fall after dormancy.
-
-Wash roots thoroughly and chop them into small pieces before drying.
-
-Roots contain the highest levels of alkylamides, responsible for the characteristic tongue-tingling effect of quality echinacea preparations.
-
-For preparation methods, see [[query-how-to-make-herbal-tinctures-salves-and-extracts-at-home]].
+For more on starting a medicinal herb garden, see [[query-how-to-make-herbal-tinctures-salves-and-extracts-at-home]].
 
 ## Medicinal Uses and Benefits
 
@@ -125,13 +93,9 @@ Topical preparations of echinacea can reduce inflammation and promote wound heal
 
 ### How Echinacea Compares to Other Medicinal Herbs
 
-Echinacea differs from true [[adaptogenic-herbs-overview]] in that it is more of an acute immune stimulant than a long-term tonic.
+Echinacea differs from true [[comparison-ashwagandha-vs-echinacea]] for how echinacea compares to the popular adaptogen ashwagandha.
 
-See [[comparison-ashwagandha-vs-echinacea]] for how echinacea compares to the popular adaptogen ashwagandha.
-
-[[comparison-echinacea-vs-tulsi]] highlights the differences between echinacea and holy basil, another revered immune herb.
-
-For a broader look at herbs that help the body manage stress and support immunity, see [[query-what-are-adaptogenic-herbs-and-how-do-they-work]].
+[[query-what-are-adaptogenic-herbs-and-how-do-they-work]].
 
 ## Key Points
 
@@ -141,10 +105,7 @@ For a broader look at herbs that help the body manage stress and support immunit
 - Roots should be harvested from plants at least three years old for maximum alkylamide content.
 - Echinacea can shorten the duration of colds by about one day when taken early in symptom onset.
 - The tongue-tingling sensation from echinacea root preparations indicates high alkylamide potency.
-- It compares favorably to other immune herbs like [[comparison-elderberry-vs-echinacea]] and [[comparison-echinacea-vs-chamomile]].
-- For garden planning, see [[query-what-are-the-best-anxiolytic-herbs-to-grow-at-home]].
-## Related
-
-- [[query-what-are-the-health-benefits-of-sea-buckthorn-and-how-do-i-grow-it]] Questions
+- It compares favorably to other immune herbs like [[comparison-echinacea-vs-chamomile]].
+- For garden planning, see [[query-what-are-the-health-benefits-of-sea-buckthorn-and-how-do-i-grow-it]] Questions
 
 - [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]]

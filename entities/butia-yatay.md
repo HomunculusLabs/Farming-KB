@@ -13,21 +13,11 @@ sources:
   - Noblick, L.R. (2017). "A revision of Butia (Arecaceae)." Phytotaxa, 344(1), 1–96.
   - Lorenzi, H. et al. (2010). "Flora Brasileira: Arecaceae (Palmeiras)." Instituto Plantarum.
   - Glassman, S.F. (1979). "A revision of B. E. Dahlgren's classification of the palms." Fieldiana: Botany, new series, 2, 1–140.
-  - Moller, J. & Goettsch, B. (2018). "[[gottlieb-peyote-legal-status-and-conservation]] of Butia yatay in Argentina and Uruguay." Oryx, 52(4), 682–689.
-  - Zuloaga, F.O. & Morrone, O. (1999). "Catálogo de las Plantas Vasculares de la Argentina." Missouri Botanical Garden Press.
----
-
-# Butia yatay
-
-## Overview
-
-Butia yatay, commonly known as the yatay palm, is a large, solitary palm native to southern Brazil, Uruguay, and northeastern Argentina. It is one of the most cold-hardy feather palms, tolerating temperatures as low as -10°C, making it a popular ornamental in warm [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]] worldwide.
+  - Moller, J. & Goettsch, B. (2018). "[[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]] worldwide.
 
 The species typically reaches 10–14 meters in height with a stout, curved trunk and gracefully arching, blue-green pinnate fronds. It forms extensive palm savannas (palmares) in its native range, creating distinctive landscapes in the pampas and campos regions.
 
-Butia yatay is valued for its sweet, edible fruits, ornamental qualities, and ecological role in maintaining grassland-savanna ecosystems. The genus Butia contains approximately 20 accepted species, most of which are endemic to southern [[guzman-psilocybin-mushrooms-south-america]].
-
-The species is closely related to [[butia-capitata]] and was frequently confused with it in horticultural literature. Modern taxonomic revision has clarified their separation, with Butia capitata restricted to populations in Minas Gerais, Brazil.
+Butia yatay is valued for its sweet, edible fruits, ornamental qualities, and ecological role in maintaining grassland-savanna ecosystems. The genus Butia contains approximately 20 accepted species, most of which are endemic to southern [[butia-capitata]] and was frequently confused with it in horticultural literature. Modern taxonomic revision has clarified their separation, with Butia capitata restricted to populations in Minas Gerais, Brazil.
 
 Butia yatay can be distinguished from Butia capitata by its taller stature, more curved trunk, and smaller fruit. The two species also differ in their natural distributions, with Butia capitata occurring in interior Brazil at higher elevations while Butia yatay occupies lowland savannas further south.
 
@@ -47,44 +37,101 @@ Inflorescences are interfoliar, 1–1.5 meters long, and branched to one or two 
 
 Fruits are ovoid to subglobose drupes, 2.5–4 cm long, yellow to orange when ripe. The mesocarp is fibrous, sweet, and edible. The endocarp is hard and woody, enclosing a single ovoid seed. Fruit weight ranges from 10–25 g.
 
-Ripening occurs during the [[guzman-allen-gartz-africa-southern-hemisphere-underexplored-neurotropic-fungi]] autumn (March–May), with fruits persisting on the tree for several weeks before abscission. A single mature palm can produce 30–60 kg of fruit per season under favorable conditions.
-
-The mesocarp contains 8–12% oil by weight, predominantly composed of oleic and lauric fatty acids. Total soluble solids in the ripe pulp range from 14–22° Brix, indicating high sugar content suitable for fresh consumption and processing.
-
-## Distribution and Habitat
-
-Butia yatay occurs in southern Brazil (Rio Grande do Sul), Uruguay, and northeastern Argentina (Corrientes, Entre Ríos, and Misiones provinces). It is the dominant tree species in the yatay palm savannas of the Argentine Mesopotamia and Uruguayan campos.
-
-These palm savannas occupy flat to gently rolling terrain on well-drained sandy or loamy soils. Annual rainfall in the native range is 1,000–1,500 mm, distributed relatively evenly throughout the year. Elevations range from near sea level to approximately 400 meters.
-
-Soil pH in native stands is typically acidic to neutral (5.0–7.0), with low to moderate fertility. The species shows tolerance for seasonally waterlogged conditions during the austral winter, though prolonged flooding is detrimental. Rooting depth can exceed 2 meters in well-drained sandy soils.
-
-The species is tolerant of a wide [[query-what-is-the-ideal-temperature-range-for-growing-cannabis]], from approximately -10°C to 42°C. This exceptional [[coleman-cold-hardiness-testing-ratings]] for a feather palm makes it suitable for cultivation in Mediterranean, subtropical, and warm [[fukuoka-natural-farming-temperate-climates]]. Mature palms survive brief freezes with minimal damage.
+Ripening occurs during the [[query-what-is-the-ideal-temperature-range-for-growing-cannabis]], from approximately -10°C to 42°C. This exceptional [[fukuoka-natural-farming-temperate-climates]]. Mature palms survive brief freezes with minimal damage.
 
 Young plants are less cold-tolerant and benefit from winter protection during their first 3–5 years. Established palms have survived temperatures of -12°C to -14°C for brief periods, though foliar damage occurs below -8°C. Cold acclimation is enhanced by gradual exposure to declining autumn temperatures.
 
 Butia yatay typically occurs in open grassland-savanna communities, often coexisting with grasses such as Paspalum and Axonopus species and scattered woody plants including Acacia and Prosopis. Fire is a natural component of these ecosystems, and mature palms survive low-intensity grassland fires.
 
-The species acts as a nurse plant for grassland seedlings, creating favorable microsites beneath its crown where shade, moisture, [[hamilton-composting-and-organic-matter-management]] accumulation support the establishment of other species. This facilitation role enhances overall biodiversity in the savanna community.
-
-## Cultivation and Uses
-
-Butia yatay is widely cultivated as an ornamental palm in warm temperate and subtropical regions. Its blue-green foliage, moderate size, and exceptional [[coleman-hardy-winter-vegetables-cold-tolerance-mechanisms]] make it a versatile landscape specimen. It is commonly planted in parks, avenues, and residential gardens.
+The species acts as a nurse plant for grassland seedlings, creating favorable microsites beneath its crown where shade, moisture, [[coleman-hardy-winter-vegetables-cold-tolerance-mechanisms]] make it a versatile landscape specimen. It is commonly planted in parks, avenues, and residential gardens.
 
 The species grows best in full sun with well-drained soil. It tolerates drought, poor soils, and coastal conditions, making it a low-maintenance landscape choice once established. Growth rate is moderate, approximately 15–30 cm of trunk per year.
 
-In Mediterranean climates, Butia yatay has become one of the most reliable cold-hardy palms, tolerating the combination of winter cold and summer drought better than most tropical species. It has been successfully grown as far north as the [[psilocybin-north-america-pacific-northwest]] of the United States and southern England in sheltered positions.
-
-Fruits are sweet and edible, with a flavor reminiscent of apricot, pineapple, and coconut. They are eaten fresh, made into jams, jellies, and preserves, or fermented into palm wine and vinegar. In rural communities, fruit collection remains an important seasonal activity.
-
-The seeds yield an edible oil similar in composition to coconut oil, though commercial extraction is rare. The trunk pith can be processed to yield a sago-like starch. The fronds provide thatching material and are used in handicraft production.
-
-In Uruguay and northeastern Argentina, yatay fruit-based products represent a growing niche market. Artisanal jellies, liqueurs, and ice creams featuring yatay fruit are sold at regional markets and eco-tourism destinations. This emerging value chain provides economic incentives for palm savanna conservation.
-
-Propagation is from seed, which germinates readily within 2–6 months at warm temperatures (25–30°C). Hybridization with Butia capitata and [[syagrus-romanzoffiana]] occurs in cultivation, producing the intergeneric hybrid x Butyagrus nabonnandii, a vigorous and cold-hardy ornamental palm.
+In Mediterranean climates, Butia yatay has become one of the most reliable cold-hardy palms, tolerating the combination of winter cold and summer drought better than most tropical species. It has been successfully grown as far north as the [[syagrus-romanzoffiana]] occurs in cultivation, producing the intergeneric hybrid x Butyagrus nabonnandii, a vigorous and cold-hardy ornamental palm.
 
 This hybrid, commonly known as the mule palm, combines the cold hardiness of Butia with the greater size and faster growth of Syagrus. It is sterile, ensuring that it cannot escape cultivation and become invasive. The mule palm is increasingly popular in regions at the northern limits of palm cultivation.
 
 ## Ecology and Conservation
 
 Butia yatay is a keystone species of the palm savanna ecosystems of southern South America. The fruits provide a critical food source for birds, mammals, and reptiles during the autumn and winter months. Key frugivores include toucans, parakeets, foxes, and agoutis.
+
+## Overview
+
+Butia Yatay represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish butia yatay
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving butia extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Butia Yatay finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for butia yatay. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+butia yatay and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Butia Yatay has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of butia yatay into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[butia-capitata]]

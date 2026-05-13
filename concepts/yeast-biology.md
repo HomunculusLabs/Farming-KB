@@ -21,7 +21,7 @@ Yeast is not a taxonomic group but a growth form. Any fungus that exists predomi
 - **Budding reproduction**: Daughter cell emerges as a small bud from the parent cell surface
 - **Facultative anaerobes**: Most yeasts can ferment sugars in the absence of oxygen (fermentation) and respire in its presence
 - **Rapid growth**: Doubling time of 90-120 minutes under ideal conditions
-- **Robust**: Tolerate a wide range of pH (2.5-8.5), temperature (0-45°C), [[fungal-fruiting-body-mechanics-osmotic-pressure]], and ethanol concentration
+- **Robust**: Tolerate a wide range of pH (2.5-8.5), temperature (0-45°C), osmotic pressure, and ethanol concentration
 
 ## Saccharomyces cerevisiae: The Model Yeast
 
@@ -85,7 +85,7 @@ S. cerevisiae exhibits the Crabtree effect — in the presence of excess glucose
 |-------|-------------------|------|
 | Saccharomyces | Crabtree-positive, robust fermentation | Beer, wine, bread, bioethanol |
 | Candida | Opportunistic pathogen, dimorphic | Medical significance, C. albicans infections |
-| Pichia (Komagataella) | Methylotrophic — uses methanol | Recombinant [[fungal-single-cell-protein-production]] (Pichia pastoris) |
+| Pichia (Komagataella) | Methylotrophic — uses methanol | Recombinant protein production (Pichia pastoris) |
 | Kluyveromyces | Ferments lactose | Dairy fermentation, kefir |
 | Schizosaccharomyces | Fission yeast, divides by splitting | Research model (S. pombe), African millet beer |
 | Brettanomyces (Dekkera) | Produces acetic acid, "funky" flavors | Belgian lambic beers, wine spoilage |
@@ -109,7 +109,7 @@ Traditional fermentation methods rely on wild yeasts rather than commercial cult
 
 - **Lambic beer**: Fermented by wild yeasts and bacteria (Brettanomyces, Pediococcus) in the Senne Valley, Belgium. No added yeast — relies on airborne microflora
 - **Natural wine**: Fermented by indigenous grape yeasts (Hanseniaspora, Candida, then Saccharomyces)
-- **[[query-how-to-make-sourdough-bread-at-home]]**: Maintained by wild yeast (often Kazachstania exigua, Pichia kudriavzevii) and Lactobacillus bacteria in a [[comparison-wild-fermentation-vs-commercial-starter-culture]]
+- **Sourdough bread**: Maintained by wild yeast (often Kazachstania exigua, Pichia kudriavzevii) and Lactobacillus bacteria in a starter culture
 - **Wild fermentation**: Sandor Katz's philosophy — "wild fermentation" as a broader cultural practice
 
 ## Industrial Uses of Yeast
@@ -126,7 +126,7 @@ Traditional fermentation methods rely on wild yeasts rather than commercial cult
 ### Biotechnology
 
 - **Recombinant protein production**: Pichia pastoris (Komagataella phaffii) produces human insulin, hepatitis B vaccine, and many other pharmaceuticals
-- **Bioethanol**: S. cerevisiae engineered for higher ethanol tolerance and [[brown-rot-fungi-cellulose-degradation-wood-decay]] for second-generation biofuels
+- **Bioethanol**: S. cerevisiae engineered for higher ethanol tolerance and cellulose degradation for second-generation biofuels
 - **Single-cell protein**: Yeast biomass as a protein source for animal feed and human nutrition
 - **Bioremediation**: Some yeasts can accumulate heavy metals (Candida, Rhodotorula)
 
@@ -140,11 +140,10 @@ Traditional fermentation methods rely on wild yeasts rather than commercial cult
 - **Glutamic acid**: Naturally contains MSG-like umami flavor
 - **Not the same as brewer's yeast** (which has a bitter taste from hops residue)
 
-## Yeast Pathogens
+## See Also
 
-### Candida albicans
-
-- Part of the normal human microbiome (mouth, gut, vagina) but causes [[blesching-cannabis-aids-opportunistic-infections]] (candidiasis)
-- **Thrush**: Oral infection — white patches on tongue and mouth
-- **Vaginal yeast infection**: Common, affects ~75% of women at least once
-- **Systemic candidiasis**: Life-threatening in immunocompromised patients. Mortality rate 30-50%
+- [[yeast-diversity-taxonomy-and-inventory-methods]]
+- [[comparison-sourdough-vs-wild-yeast]]
+- [[ribosomal-rna-sequencing-yeast-identification]]
+- [[marmite-yeast-extract-straw-substrate]]
+- [[bloomfield-candida-albicans-yeast-hyphal-dimorphism]]

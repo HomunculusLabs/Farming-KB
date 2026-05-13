@@ -24,7 +24,7 @@ Unfortunately, detailed ethnographic documentation of shanin use is sparse. The 
 
 ## Chemistry
 
-An alkaloid of unknown identity has been reported from *Petunia violacea*, but the compound has not been characterized and its pharmacological properties remain undetermined. Given the plant's placement in the Solanaceae, it is plausible that the active constituents may include tropane alkaloids (such as hyoscyamine, scopolamine, or atropine) or other biodynamic compounds common to the nightshade family.
+An alkaloid of unknown identity has been reported from *Petunia violacea*, but the compound has not been characterized and its pharmacological properties remain undetermined. Given the plant's placement in the Solanaceae, it is plausible that the active constituents may include tropane alkaloids (such as [[hyoscyamine]], scopolamine, or atropine) or other biodynamic compounds common to the nightshade family.
 
 Phytochemical investigation of petunias is urgently needed. The genus has been studied primarily from a horticultural perspective—breeding, cultivation, and ornamental characteristics—while its phytochemistry has been largely neglected. Modern analytical techniques could readily identify and characterize the alkaloid(s) responsible for the reported psychoactive effects.
 
@@ -34,7 +34,7 @@ Within the Solanaceae, several genera are known to produce hallucinogenic effect
 
 - **Datura species** (*D. stramonium*, *D. inoxia*, *D. suaveolens*, and others): Contain hyoscyamine and scopolamine, producing characteristic deliriant intoxication.
 - **Brunfelsia species** (*B. grandiflora*, *B. chiricaspi*): Used as hallucinogenic additives in South American ceremonial drinks.
-- **Latua pubiflora**: The "sorcerers' tree" of Chile, containing hyoscyamine and scopolamine.
+- **[[latua-pubiflora]]**: The "sorcerers' tree" of Chile, containing hyoscyamine and scopolamine.
 - **Iochroma fuchsioides**: Suspected hallucinogen of the Sibundoy Valley in Colombia.
 
 The reported sensation of flight induced by shanin does not clearly align with the typical tropane alkaloid intoxication profile, which is more commonly characterized by delirium, visual disturbances, dry mouth, tachycardia, and amnesia. This discrepancy suggests that either the active compound(s) in *Petunia violacea* differ from the classical tropane alkaloids, or that the reported effects reflect a specific cultural interpretation of a more general altered state.
@@ -89,8 +89,6 @@ functions enhance overall system resilience and biodiversity.
 
 ## See Also
 
-- [[datura-stramonium]] — Jimson weed, the most widespread Solanaceous hallucinogen
 - [[chiric-caspi-brunfelsia-south-american-hallucinogen]] — Related South American Solanaceous hallucinogen
-- [[latua-pubiflora-arbol-de-los-brujos-ethnobotany]] — Chilean "sorcerers' tree"
 - [[culebra-borrachera-methysticodendron-amesianum]] — Aberrant Datura tree from Sibundoy
 - [[tree-daturas-brugmansia-south-american-ethnobotany]] — Tree Daturas of South America

@@ -15,7 +15,7 @@ The reproductive growth stage is the period from flowering to ripening of fruits
 
 Within the [Nutritive Cycle Theory, the reproductive stage corresponds to the "Adult" phase. It follows the [vegetative growth stage and represents the period when the farmer's efforts translate directly into harvestable yield.
 
-Successful management of this stage determines fruit quality, sweetness, color development, and post-harvest shelf life. The transition from vegetative to reproductive growth must be handled carefully, as rapid shifts in [[ph-and-nutrient-availability-garden-soils]] can cause stress — a condition discussed in [[knf-input-application-timing]].
+Successful management of this stage determines fruit quality, sweetness, color development, and post-harvest shelf life. The transition from vegetative to reproductive growth must be handled carefully, as rapid shifts in [[knf-input-application-timing]].
 
 ## Nutrient Focus (K and Ca)
 
@@ -34,9 +34,7 @@ Core reproductive-stage inputs include:
 - [Water-Soluble Calcium (WCA): The primary input, providing calcium needed for fruit cell wall development and structural integrity.
 - [[bionutrients-lab-oriental-herbal-nutrients-ohn]] Nutrient (OHN): A complex herbal extract supporting overall plant vitality and disease resistance during the demanding reproductive phase.
 - [Brown Rice Vinegar (BRV): Supports nutrient absorption and helps maintain proper pH for nutrient uptake.
-- [[comparison-compost-tea-guide-vs-fermented-plant-extract-fpe]] (FPE): Provides supplemental micronutrients and growth factors that support fruit development.
-
-These inputs are typically applied as foliar sprays, allowing the plant to absorb nutrients directly through fruit and leaf surfaces during the critical filling period. Application timing follows the guidelines in [[knf-input-application-timing]], with treatments generally applied every 7 to 14 days during the reproductive phase.
+- [[knf-input-application-timing]], with treatments generally applied every 7 to 14 days during the reproductive phase.
 
 ## Sweetness Promotion
 
@@ -68,13 +66,7 @@ All inputs are mixed in 1000 ml of water and sprayed on the plants during the dr
 
 Effective reproductive stage management depends on close observation and precise timing. Key monitoring points include:
 
-- **Flower development:** Assess whether flowering is uniform and prolific. Poor flowering may indicate a difficult transition from the [[comparison-cannabis-vegetative-stage-vs-flowering-stage]].
-- **Fruit set:** Monitor the rate and quality of fruit formation after pollination. Drop or malformation suggests nutrient imbalance.
-- **Fruit filling:** Track the rate of fruit enlargement. Slow filling may indicate insufficient calcium or potassium.
-- **Color development:** Proper color progression signals adequate potassium levels and appropriate maturity progression.
-- **Sugar content:** When available, Brix readings provide objective data on sugar accumulation and can guide the timing of the sweetness promotion treatment.
-
-If problems develop during the reproductive stage, consult [[knf-troubleshooting]] for diagnostic and corrective guidance. Most issues can be addressed through adjustments to input selection, concentration, or timing.
+- **Flower development:** Assess whether flowering is uniform and prolific. Poor flowering may indicate a difficult transition from the [[knf-troubleshooting]] for diagnostic and corrective guidance. Most issues can be addressed through adjustments to input selection, concentration, or timing.
 
 ## Transition Management: Vegetative to Reproductive
 
@@ -117,8 +109,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[det]]
 - [[bionutrients]]
-- [[permaculture]]
 - [[nutritive-cycle-theory]]
 - [[knf-vegetative-growth-stage]]

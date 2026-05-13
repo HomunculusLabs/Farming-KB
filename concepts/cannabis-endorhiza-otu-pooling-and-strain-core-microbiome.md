@@ -10,51 +10,7 @@ created: 2026-05-09
 
 ## Overview
 
-A critical test of the two-tier selection model involves examining whether endorhiza [[cannabis-rhizosphere-microbial-communities]] share more operational taxonomic units (OTUs) with the soil in which the plant was grown than with a different soil.
-
-This "OTU pooling" analysis provides direct evidence for the soil-derived origin of [[cannabis-rhizosphere-endorhiza-communities]] while also revealing strain-level core [[cannabis-endorhiza-microbiome-structure]] within Cannabis cultivars.
-
-The analysis pools samples by Cannabis strain and examines the core microbiome within each strain, testing whether endorhiza communities are soil-derived as the two-tier model predicts.
-
-## Testing the Two-Step Colonization Model
-
-The two-step colonization model posits that endorhiza communities are first fueled by rhizodeposition from the surrounding soil, followed by fine-tuning based on host genotype.
-
-This predicts that endorhiza communities should share more OTUs with their own soil than with a different soil in which the same strain is grown.
-
-White Widow was grown in two different soil types (Mo-Bio soil and Orange County soil), providing a natural experiment to test this prediction.
-
-If the two-tier model is correct, White Widow endorhiza samples should share more OTUs with the soil they were actually grown in than with the alternative soil where other White Widow plants were cultivated.
-
-## OTU Sharing Results
-
-The results strongly supported the two-tier model.
-
-The number of shared OTUs between endorhiza and their own soil (n = 45, mean = 2934) was significantly greater (t = 10.05, p = 1.209e-15) than the number of shared OTUs between endorhiza and the other soil (n = 45, mean = 2162).
-
-This approximately 36% increase in shared OTUs between endorhiza and their home soil demonstrates that the local soil microbiome serves as the primary source pool for root-colonizing bacteria.
-
-The plant does not recruit a completely novel community for its roots but rather filters and selects from the available soil taxa.
-
-## Implications for the Source of Endorhiza Communities
-
-This finding has several important implications for understanding plant-microbiome assembly.
-
-First, it confirms that endorhiza communities are fundamentally soil-derived, consistent with the broader understanding that most plant endophytes originate from the surrounding soil environment rather than from seed transmission or other vectors.
-
-Second, it suggests that the same cultivar grown in different soils will harbor overlapping but distinct endorhiza communities. While the plant's genotype provides a consistent selection pressure, the available taxa in the soil determine which bacteria can be recruited.
-
-Third, it implies that soil management practices could have significant downstream effects on the root microbiome. Compost amendments, cover cropping, and other soil health interventions that alter the bulk soil community could indirectly shape the endorhiza by changing the pool of available colonizers.
-
-## Strain-Level Core Endorhiza Community
-
-Despite the soil-dependent differences in OTU composition, a consistent core community was maintained across all Cannabis endorhiza samples regardless of cultivar.
-
-This core community included six major bacterial groups:
-
-### Pseudomonas
-
-A well-known genus of plant growth-promoting bacteria that can produce phytohormones, solubilize phosphate, and suppress plant pathogens through antibiotic production and [[endophytic-mycorrhizal-induced-systemic-resistance]].
+A critical test of the two-tier selection model involves examining whether endorhiza [[cannabis-rhizosphere-endorhiza-communities]] while also revealing strain-level core [[endophytic-mycorrhizal-induced-systemic-resistance]].
 
 ### Cellvibrio
 
@@ -70,13 +26,7 @@ A family within the Gammaproteobacteria that includes both plant pathogens and b
 
 ### Actinomycetales
 
-An order of Gram-positive bacteria known for producing antibiotics and contributing to [[knf-leaf-mold-humus]] decomposition.
-
-### Sphingobacteriales
-
-An order within the Bacteroidetes that includes plant-associated species found in various rhizosphere environments.
-
-With the exception of Cellvibrio, all prevalent members of this core endorhiza community are well-known [[endorhiza-endophytic-bacteria]] primarily within the orders Gammaproteobacteria and Alphaproteobacteria, consistent with observations from other plant systems.
+An order of Gram-positive bacteria known for producing antibiotics and contributing to [[endorhiza-endophytic-bacteria]] primarily within the orders Gammaproteobacteria and Alphaproteobacteria, consistent with observations from other plant systems.
 
 ## The Cellvibrio Exception
 
@@ -117,8 +67,83 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[dom]]
 - [[det]]
-- [[cover-crop]]
 - [[pseudomonas]]
 - [[decomposition]]
+
+## Overview
+
+Cannabis Endorhiza Otu Pooling And Strain Core Microbiome represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish cannabis endorhiza otu pooling and strain core microbiome
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving cannabis extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Cannabis Endorhiza Otu Pooling And Strain Core Microbiome finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for cannabis endorhiza otu pooling and strain core microbiome. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+cannabis endorhiza otu pooling and strain core microbiome and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Cannabis Endorhiza Otu Pooling And Strain Core Microbiome has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of cannabis endorhiza otu pooling and strain core microbiome into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.

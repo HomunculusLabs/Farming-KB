@@ -12,21 +12,11 @@ sources:
 
 updated: 2026-04-18
 
-Sowing seed is the cheapest way to lay a new lawn and allows you to control the different types of grasses making up the lawn. The only disadvantage is that a seed lawn takes three months to establish if sown in spring; if sown in fall, it should not be used until the following spring. A turf lawn is an "instant lawn" — it looks good right away and is ready for use about six weeks after laying if put down in spring. (see [[teaming-with-microbes-tilling-damage-to-fungal-networks]]).
-
-## Sowing a Seed Lawn
-
-Grass seed should be sown in early spring or early fall, when some wet weather can be expected. Avoid the driest months. (see [[spent-mushroom-substrate-applications]]).
+Sowing seed is the cheapest way to lay a new lawn and allows you to control the different types of grasses making up the lawn. The only disadvantage is that a seed lawn takes three months to establish if sown in spring; if sown in fall, it should not be used until the following spring. A turf lawn is an "instant lawn" — it looks good right away and is ready for use about six weeks after laying if put down in spring. (see [[spent-mushroom-substrate-applications]]).
 
 **Step 1 — Prepare a stale seedbed.** Rake the area roughly with the back of a fork to take out any local undulations before consolidating the soil.
 
-**Step 2 — Improve soil.** If soil is light or lacks organic matter, apply a 2in (5cm) layer of [[organic-composting-methods]]ing material possible — never throw them away.
-- Rake the lawn with a spring-tine rake at least once a year in spring to remove dead grass before you start mowing.
-- Trim edges with long-handled shears after mowing, taking clippers as close to the edge as possible.
-## See Also
-
-- [[sheet-mulching-lasagna-gardening]]
-- [[bacterial-vs-fungal-soil]]
+**Step 2 — Improve soil.** If soil is light or lacks organic matter, apply a 2in (5cm) layer of [[sheet-mulching-lasagna-gardening]]
 - [[gaias-garden-cover-crops-soil-building]]
 - faires-permaculture-soil-and-sheet-mulching
 ## Practical Applications

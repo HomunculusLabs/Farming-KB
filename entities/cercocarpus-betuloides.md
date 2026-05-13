@@ -75,11 +75,7 @@ In range management, mountain mahogany is considered a valuable winter browse sp
 
 ## See Also
 
-- [[arctostaphylos-uva-ursi]]
 - [[arctostaphylos-patula]]
-- [[quercus-robur]]
 - [[pinus-sylvestris]]
-- [[cedrus-libani]]
 - [[rhus-typhina]]
-- [[cercis-canadensis]]
 - [[vaccinium-angustifolium]]

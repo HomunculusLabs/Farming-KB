@@ -25,13 +25,7 @@ and knees. No allopathic cure is available. Management consists of topical
 medications, systemic pharmaceuticals, ultraviolet light therapy, and
 nutritional supplements.
 
-According to the [[blesching-cannabis-health-index-autoimmune-conditions]], the evidence for cannabis in treating
-psoriasis is based on 1 study reviewed with a CHI value of 3. While the
-evidence base is limited, the theoretical foundation from endocannabinoid
-system research is promising.
-
-See also: [[blesching-cannabis-skin-cancer-non-melanoma]],
-[[cannabis-autoimmune-conditions-detailed]],
+According to the [[blesching-cannabis-skin-cancer-non-melanoma]],
 [[blesching-cannabis-inflammatory-bowel-disease]]
 
 ## The Endocannabinoid System and Psoriasis
@@ -49,43 +43,14 @@ mechanism.
 ### The Skin's Endocannabinoid System
 
 A landmark 2009 multi-institutional study with researchers from Germany, the
-[[dmt-containing-plants-united-states-halpern]], England, and Hungary identified the endocannabinoid system in
-the skin for possible targeted approaches in treating various skin diseases.
-The main function of the ECS in the skin is to:
-
-- Control and balance growth of skin cells
-- Regulate differentiation (the process of becoming a specific skin cell)
-- Manage survival of skin cells
-- Produce proper immune responses
-
-Researchers believe that specific manipulation of the ECS might be beneficial
-in psoriasis among numerous other [[cannabis-for-skin-conditions-detailed]]. The ECS chart for
+[[cannabis-for-skin-conditions-detailed]]. The ECS chart for
 psoriasis indicates that up-regulation of both CB1 and CB2 receptors produces
 suppression of keratinocyte proliferation and inflammation.
 
 ## Strain-Specific Considerations
 
 THC binds with both CB1 and CB2 relatively equally. Sativas and sativa-
-dominant strains tend to present with a higher THC:[[cannabis-thc-cbd-ratio-guide-for-conditions]].
-
-For psoriasis patients, both receptor pathways (CB1 and CB2) appear relevant.
-Whole-plant cannabis preparations that activate both receptor types may be
-preferable to isolated cannabinoids. Topical applications infused with
-cannabinoids may provide localized benefits without systemic psychoactive
-effects, which is particularly relevant for a skin condition.
-
-## Conventional Treatment Limitations
-
-The limited effectiveness of conventional treatments makes psoriasis a
-condition where new therapeutic approaches are urgently needed. Current
-management strategies include:
-
-- **Topical medications**: Corticosteroids, vitamin D analogs, retinoids,
-  and moisturizers
-- **Systemic pharmaceuticals**: Methotrexate, cyclosporine, and biologics
-  (TNF-alpha inhibitors, IL-17 inhibitors, IL-23 inhibitors)
-- **Phototherapy**: UVB and PUVA treatments
-- **Nutritional supplements**: Various vitamins and omega-3 [[stable-carbon-isotope-signature-fatty-acids-mycorrhizal-carbon-tracking]]
+dominant strains tend to present with a higher THC:[[stable-carbon-isotope-signature-fatty-acids-mycorrhizal-carbon-tracking]]
 
 Many of these treatments carry significant side effect profiles, and
 
@@ -118,8 +83,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[doc]]
 - [[dom]]
-- [[det]]
 - [[endocannabinoid-system]]
 - [[dmt]]

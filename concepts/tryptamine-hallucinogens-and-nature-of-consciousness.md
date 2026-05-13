@@ -3,30 +3,7 @@ title: "Tryptamine Hallucinogens And Nature Of Consciousness"
 created: 2026-05-11
 source: mckenna_t-tryptamines_consciousness.md
 tags: [consciousness, tryptamine, mckenna, psychedelics, philosophy-of-mind, phenomenology]
-aliases: [[tryptamine-consciousness-theory]], McKenna Consciousness Model, Psychedelic Philosophy]
----
-
-# Tryptamine Hallucinogens and the Nature of Consciousness
-
-In his 1983 Esalen lecture, Terence McKenna proposed that tryptamine
-hallucinogens — particularly DMT and psilocybin — provide direct access to
-modes of consciousness that are ordinarily inaccessible, revealing aspects of
-mind that challenge conventional scientific materialism. Rather than treating
-psychedelic experiences as mere neurochemical artifacts, McKenna argued they
-represent genuine encounters with informational domains that exist beyond
-ordinary waking awareness.
-
-## Hallucination as Quantum Mechanical Phenomenon
-
-McKenna positioned hallucinations — alongside dreams — as the "major quantum
-mechanical phenomena that we all experience." He argued that when the large
-amounts of sensory radiation normally conveyed through the body are restricted,
-interior images and processes emerge that are "psycho-physical" and arise "at
-the quantum mechanical level."
-
-### The Single-Atom Argument
-
-McKenna cited work by John Smythies and [[alexander-shulgin]] demonstrating that
+aliases: [[alexander-shulgin]] demonstrating that
 moving a single atom on the molecular ring of an inactive tryptamine compound
 transforms it into a highly active psychedelic. To McKenna, this was "a perfect
 proof of the dynamic linkage at the formative level between quantum mechanically
@@ -62,31 +39,7 @@ transforming light and color."
 
 The entities encountered under DMT communicate through what McKenna calls
 "translinguistic objects" — meaning-laden forms that cannot be adequately
-translated into any human language. The [[mckenna-cognitive-dissonance-translinguistic-object]] produced by
-encountering these objects generates the characteristic state of wonder and
-awe. McKenna describes the experience of making sounds that pass from
-"things heard to things beheld" — a direct quotation from Philo Judaeus
-describing the Logos in its perfected state.
-
-## The "Other" and Epistemological Humility
-
-McKenna advocated a critical, skeptical approach to psychedelic entities:
-
-### Against Genuflection
-
-"I make no judgments about it. I constantly engage it in dialogue, saying,
-'Well, what are you? Are you some kind of diffuse consciousness that is in
-the ecosystem of the Earth? Are you a god or an extraterrestrial? Show me
-what you know.'" This stance refuses both naive acceptance and premature
-dismissal — what McKenna calls meeting these entities "on our feet" with
-dignity rather than kneeling.
-
-### The ET Communication Critique
-
-McKenna challenged the SETI paradigm directly: "To search expectantly for a
-radio signal from an extraterrestrial source is probably as culture bound a
-presumption as to search the galaxy for a good Italian restaurant." He argued
-that psychic, shamanic, and [[psilocybin-mystical-experiences-personality-change]] contain information that
+translated into any human language. The [[psilocybin-mystical-experiences-personality-change]] contain information that
 has been "ruled a priori irrelevant, incoherent, or mad" by scientific
 consensus, creating a systematic blind spot in our understanding of
 [[plant-intelligence-and-communication]].
@@ -136,6 +89,5 @@ description in the absence of rigorous experimental methodology.
 ## See Also
 
 - dmt nn dimethyltryptamine pharmacology and experience — DMT pharmacology
-- [[psilocybin-mushrooms-species-and-pharmacology]] — psilocybin specifics
 - [[ayahuasca-pharmacology-and-drug-interactions]] — ayahuasca as DMT delivery system
 - [[serotonin-receptor-interference-psychedelic-mechanism]] — neurobiological mechanisms

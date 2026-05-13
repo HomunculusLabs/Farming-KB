@@ -13,18 +13,13 @@ sources:
 
 Updated: 2026-04-18
 
-Source: The [[ghouled-field-guide-historical-context]] I for Actively [[actively-aerated-compost-tea-aact-brewing]] Tea, Dr. [[elaine-ingham]], Soil Foodweb Inc.
-
-Ingham provides a thorough and nuanced treatment of human pathogen concerns in [[actively-aerated-compost-tea]], distinguishing between rational precautions and unnecessary fear.
+Source: The [[actively-aerated-compost-tea-aact-brewing]] Tea, Dr. [[actively-aerated-compost-tea]], distinguishing between rational precautions and unnecessary fear.
 
 ## Compost Pathogen Elimination
 
 True compost does not contain human pathogens. Pathogens are eliminated through:
 
-1. **Temperature**: [[thermal-composting-vs-aact]] reaches temperatures that kill pathogens
-2. **Worm processing**: Passage through worm guts and contact with worm surfaces kill pathogens
-3. **Competition**: Aerobic organisms out-compete pathogens for food and space
-4. **Predation**: [[teaming-with-microbes-protozoa-and-nematodes]] consume human pathogens
+1. **Temperature**: [[teaming-with-microbes-protozoa-and-nematodes]] consume human pathogens
 5. **Inhibition**: Antibiotic-producing bacteria suppress pathogens
 
 ## Understanding Coliform Bacteria
@@ -51,55 +46,11 @@ Key point: "Don't go ballistic about microbes on plant surfaces or on plant debr
 ## E. coli Elimination in Compost
 
 ### In a Good Compost Pile
-- E. coli added in high numbers (even a billion) to good [[ingham-anaerobic-vs-aerobic-compost-tea]] with complete, active foodweb will be gone within 24 hours
-- The beneficial organisms out-compete, starve, and consume the E. coli
-
-### In a Poor Compost Pile
-- If the foodweb isn't present, E. coli can persist for months
-- Anaerobic conditions allow E. coli to survive
-
-### In Manure
-- With a good foodweb, E. coli disappears within 3 months
-- With a poor foodweb, it takes longer
-- Anaerobic piles still harbor E. coli
-
-## Strategies for Dealing with Poor Compost
-
-If you're not sure your compost is fully pathogen-free:
-
-### Garlic Juice
-- In SFI tests, garlic juice knocked out E. coli in tea made from compost known to contain E. coli
-- Use when [[aact-compost-quality-standards-ingham]] is uncertain
+- E. coli added in high numbers (even a billion) to good [[aact-compost-quality-standards-ingham]] is uncertain
 
 ### Citrus Products
-- [[citric-acid-cycle-tca-krebs-cycle]], orange oil, and other citrus products kill SOME organisms including E. coli at low concentrations
-- Amount is critical: roughly 1-2 drops in a 50-gallon brewer
-- Too much will also kill beneficial organisms — test to find the right amount
-
-### Inoculation with Clean Material
-- Alaska Humus can be used to inoculate compost that isn't fully trusted
-- A few weeks incubation at 50% moisture, with aeration, no high temperatures, should eliminate E. coli
-
-## Testing Frequency
-
-- Establish a history of no problems, then sample periodically based on production volume
-- If fecal E. coli is found, increase testing frequency until the source is eliminated
-- Test the first batch of each season at minimum
-- More frequent testing for operations using manure-based compost
-
-## Applying "Bad" Tea
-
-## Practical Applications
-Aact Pathogen Safety Ingham has significant applications in sustainable agriculture, ecological design, and regenerative practices. Practitioners and researchers continue to explore innovative methods for implementing these concepts in diverse climates and scales of operation.
-
-## Historical Significance
-The development and understanding of aact pathogen safety ingham has evolved considerably over recent decades, with contributions from researchers, practitioners, and indigenous knowledge systems worldwide.
-
-## See Also
 - [[ingham-compost-tea-pathogen-safety-anaerobic-risk]]
-- [[ingham-compost-tea-pathogen-safety-coliforms-ecoli]]
 - [[aact-water-quality-chlorine-removal-brewing-standards-ingham]]
-- [[aact-disease-suppression-mechanisms-ingham]]
 - [[aact-spray-equipment-nozzle-selection-ingham]]
 
 ## Key Considerations
@@ -124,8 +75,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[soil-foodweb]]
 - [[composting]]
-- [[ingham-compost-tea-pathogen-safety-coliforms-ecoli]]
 - [[ingham-compost-tea-pathogen-safety-anaerobic-risk]]
 - [[ingham-food-safety-compost-tea]]

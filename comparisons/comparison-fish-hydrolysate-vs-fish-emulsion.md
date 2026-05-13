@@ -15,9 +15,7 @@ type: comparison
 
 ## Overview
 
-Fish hydrolysate and fish emulsion are both liquid mycorrhizal-inoculant-production-methods, nutrient profiles, biological activity, and effects on [[ingham-cover-crops-soil-biology]].
-
-The core difference comes down to processing. Fish emulsion is produced with heat, which denatures proteins and destroys enzymes, amino acids, and many vitamins. Fish hydrolysate is produced at low temperatures using enzymatic digestion, preserving the full spectrum of [[decomposition]], which also lowers the pH to 3.5–4.5 and produces the characteristic strong, unpleasant odor. Some manufacturers add small amounts of synthetic urea or ammonium sulfate to boost the nitrogen content on the guaranteed analysis label.
+Fish hydrolysate and fish emulsion are both liquid mycorrhizal-inoculant-production-methods, nutrient profiles, biological activity, and effects on [[decomposition]], which also lowers the pH to 3.5–4.5 and produces the characteristic strong, unpleasant odor. Some manufacturers add small amounts of synthetic urea or ammonium sulfate to boost the nitrogen content on the guaranteed analysis label.
 
 **Typical analysis:** 4–5% N, 2–3% P, 2–3% K, with a portion of the nitrogen in the form of ammonium and urea from added synthetic sources.
 
@@ -45,14 +43,7 @@ Fish hydrolysate (also called fish amino acids or enzymatic fish digest) is prod
 
 **Advantages:**
 - Full amino acid profile (all 20 proteinogenic amino acids plus free-form L-amino acids) directly feeds soil bacteria, fungi, and plants
-- Preserved enzymes (proteases, lipases, amylases) enhance organic matter decomposition and [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] in soil
-- Contains fish oils rich in omega-3 fatty acids that stimulate soil fungal growth and suppress certain pathogens
-- Natural vitamins (B-complex, A, D, E) and cofactors support microbial metabolism
-- Collagen-derived amino acids (glycine, proline, hydroxyproline) improve soil aggregation and water-holding capacity
-- Mild, earthy odor compared to emulsion — more suitable for greenhouse and indoor applications
-- No synthetic additives — acceptable for all organic certification standards
-- Functions as a biostimulant, not just a fertilizer — triggers improved root growth, [[fungal-lichen-stress-tolerance-and-poikilohydry]], and [[plant-nutrient-uptake-mechanisms]] efficiency
-- Compatible with compost tea brewing and [[pgpr-mycorrhizal-inoculants-microplant-establishment]] without killing beneficial organisms
+- Preserved enzymes (proteases, lipases, amylases) enhance organic matter decomposition and [[fungal-lichen-stress-tolerance-and-poikilohydry]], and [[pgpr-mycorrhizal-inoculants-microplant-establishment]] without killing beneficial organisms
 
 **Limitations:**
 - Shorter shelf life (1–2 years) and often requires refrigeration after opening
@@ -87,7 +78,4 @@ Fish emulsion is the pragmatic choice when you need a quick, cheap nitrogen boos
 
 - **Rapid nitrogen correction** in nitrogen-deficient plants showing chlorosis, where immediate ammonium uptake is needed
 - **Large-scale row crops** where cost per acre is the dominant constraint and soil biology is already well-established
-- **[[comparison-foliar-feeding-vs-vermicompost-tea]]** for a quick green-up (dilute 15–30 mL per liter, apply in early morning)
-- **Compost activation** where heat-killed microbes are not a concern since the compost pile has its own biology
-
-For [[query-how-does-no-till-cannabis-cultivation-work]], fish emulsion is generally not recommended during flowering due to its strong odor and potential for synthetic nitrogen contamination. See [[hamilton-kelp-and-seaweed-in-organic-gardening]] in foliar applications — the amino acids in the hydrolysate chelate the micronutrients in the kelp, improving absorption, while the cytokinins in the kelp complement the auxin-like activity of the fish amino acids. This combination is sometimes called a "fish and kelp" program and is one of the most effective and economical biostimulant regimens in organic agriculture. See [[comparison-seaweed-extract-vs-fish-hydrolysate]]
+- **[[query-how-does-no-till-cannabis-cultivation-work]], fish emulsion is generally not recommended during flowering due to its strong odor and potential for synthetic nitrogen contamination. See [[comparison-seaweed-extract-vs-fish-hydrolysate]]

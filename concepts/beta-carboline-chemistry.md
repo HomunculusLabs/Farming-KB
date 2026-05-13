@@ -24,48 +24,16 @@ Three categories are recognized by their degree of saturation:
 
 ## Harmaline (TIHKAL #13)
 
-Synthesis from 6-methoxytryptamine and glycolaldehyde: The aldehyde condenses with the primary amine of the tryptamine, forming 1-hydroxymethyl-7-methoxy-tetrahydro-beta-carboline, which is dehydrated with [[cho-water-soluble-phosphoric-acid-preparation]] to yield the final product.
-
-**Dosage**: 150-300 mg oral
-**Duration**: 5-8 hours
-
-Effects include visual tracers, shimmer, and a general "clouding" of consciousness. Shulgin notes dietary concerns associated with MAO inhibition and provides detailed reports of harmaline combined with [[harmala-alkaloids-and-ayahuasca-preparation]]
-- [[mckenna-food-gods-peganum-harmala-soma]] (Syrian rue): harmine and harmaline in concentrations up to 3-7% of seed weight
-- Passiflora incarnata (passionflower): trace amounts of [[turner-harmala-alkaloids-preparation-and-dosage]]
-- Human tissues: endogenous beta-carbolines (pinoline, harmane) are found in the [[mckenna-tryptamine-endogenous-dmt-pineal-gland-theory]] and brain
-
-## See Also
-- [[5-meo-dmt-compound-profile]]
-- [[ayahuasca-preparation]]
+Synthesis from 6-methoxytryptamine and glycolaldehyde: The aldehyde condenses with the primary amine of the tryptamine, forming 1-hydroxymethyl-7-methoxy-tetrahydro-beta-carboline, which is dehydrated with [[harmala-alkaloids-and-ayahuasca-preparation]]
+- [[turner-harmala-alkaloids-preparation-and-dosage]]
+- Human tissues: endogenous beta-carbolines (pinoline, harmane) are found in the [[5-meo-dmt-compound-profile]]
 - [[dmt-and-ayahuasca-history]]
-- [[22s-23s-homobrassinolide-chemistry-and-synthesis]]
-
-## Merged: MAOI Oral Activity Requirement
-The pharmacological necessity of monoamine oxidase inhibition (MAOI) for oral tryptamine activity is one of the most practically important principles in [[5-methoxy-compounds]] - [[5-meo-dmt-compound-profile]] - beta carboline chemistry - beta carboline chemistry - beta carboline chemistry
-## Merged: Harmala Alkaloids
-The harmala alkaloids are a specific subset of beta-carbolines derived primarily from two [[dmt-botanical-sources-pharmacology]]: Banisteriopsis caapi (the ayahuasca vine of the Amazon) and Peganum harmala (Syrian rue, native to Mediterranean North Africa and Central Asia). These compounds have been used by humans for at least several thousand years and are the pharmacological key to ayahuasca's oral activity. - beta carboline chemistry - beta carboline chemistry - beta carboline chemistry - 5-meo-dmt-compound-profile - The first of the harmala alkaloids to be isolated (1847) - Fully aromatic beta-carboline (3,4-dihydroharmine oxidized) - Potent reversible inhibitor of monoamine oxidase type A (MAO-A) - Present in B.
+- [[5-methoxy-compounds]] - [[dmt-botanical-sources-pharmacology]]: Banisteriopsis caapi (the ayahuasca vine of the Amazon) and Peganum harmala (Syrian rue, native to Mediterranean North Africa and Central Asia). These compounds have been used by humans for at least several thousand years and are the pharmacological key to ayahuasca's oral activity. - beta carboline chemistry - beta carboline chemistry - beta carboline chemistry - 5-meo-dmt-compound-profile - The first of the harmala alkaloids to be isolated (1847) - Fully aromatic beta-carboline (3,4-dihydroharmine oxidized) - Potent reversible inhibitor of monoamine oxidase type A (MAO-A) - Present in B.
 - turner-harmala-alkaloids-preparation-and-dosage
 
 ## See Also
 
-- [[22s-23s-homobrassinolide-chemistry-and-synthesis]]
-## Practical Considerations
-
-When working with Beta-Carboline Chemistry, several practical factors should be
-carefully considered to achieve optimal results. These include
-the specific conditions of the implementation context, available
-resources, timing requirements, and the interactions between this
-topic and other elements of the broader system. A holistic view
-that considers these interconnections produces better outcomes.
-
-Environmental conditions such as temperature, moisture, and
-seasonal patterns significantly influence results. Monitoring these
-variables and adapting practices accordingly is essential for success.
-The most effective practitioners develop keen observation skills and
-respond flexibly to changing conditions rather than following rigid
-protocols regardless of circumstances or local variation.
-
-[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
+- [[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -111,8 +79,6 @@ through generations to modern scientific approaches, the evolution continues
 to inform current best practices and research directions.
 
 ## See Also
-- [[beta-carboline]]
 - [[ayahuasca]]
-- [[doc]]
 - [[harmala-alkaloids]]
 - [[harmine]]

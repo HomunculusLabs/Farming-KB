@@ -108,13 +108,8 @@ Restoration planting using nursery-grown sporelings has shown promise in fenced 
 
 ## See Also
 
-- [[cibotium-barometz]]
 - [[cibotium-glaucum]]
-- [[dicksonia-antarctica]]
 - [[dicksonia-squarrosa]]
-- [[dicksonia-fibrosa]]
 - [[cyathea-medullaris]]
-- [[cyathea-dealbata]]
 - [[cyathea-cooperi]]
-- [[platycerium-bifurcatum]]
 - [[asplenium-scolopendrium]]

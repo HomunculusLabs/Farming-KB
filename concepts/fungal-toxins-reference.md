@@ -11,7 +11,7 @@ sources: []
 
 ## Overview
 
-Fungi produce a diverse array of toxic [[antifungal-secondary-metabolites-coprophilous-fungi]] known as mycotoxins. These compounds range from deadly poisons found in [[palmer-poisonous-mushrooms-deadly-species]] to contaminants of agricultural crops that affect human and animal health on a global scale. This reference covers the most significant fungal toxins, their mechanisms of action, clinical effects, and management.
+Fungi produce a diverse array of toxic secondary metabolites known as mycotoxins. These compounds range from deadly poisons found in poisonous mushrooms to contaminants of agricultural crops that affect human and animal health on a global scale. This reference covers the most significant fungal toxins, their mechanisms of action, clinical effects, and management.
 
 ## Amatoxins (Amanitin)
 
@@ -19,10 +19,10 @@ Fungi produce a diverse array of toxic [[antifungal-secondary-metabolites-coprop
 
 Amatoxins are produced primarily by species in the genus Amanita, most notably:
 
-- **[[amanita-phalloides]]** (Death Cap) — responsible for the majority of fatal mushroom poisonings worldwide
-- **Amanita virosa** ([[bloomfield-destroying-angel-amanita-virosa-amatoxin-poisoning-clinical-course]])
+- **Amanita phalloides** (Death Cap) — responsible for the majority of fatal mushroom poisonings worldwide
+- **Amanita virosa** (Destroying Angel)
 - **Amanita verna** (Fool's Mushroom)
-- **[[amanita-bisporigera]]** (Eastern Destroying Angel)
+- **Amanita bisporigera** (Eastern Destroying Angel)
 - Also found in some Galerina and Lepiota species
 
 ### Mechanism of Action
@@ -35,7 +35,7 @@ Amatoxins are bicyclic octapeptides containing a tryptophan-derived indole bridg
 
 ### Clinical Presentation
 
-[[bloomfield-amatoxin-poisoning-mechanism]] follows a characteristic biphasic course:
+Amatoxin poisoning follows a characteristic biphasic course:
 
 **Phase 1 — Gastrointestinal (6-24 hours post-ingestion)**:
 - Severe nausea, vomiting, profuse watery diarrhea, abdominal cramping
@@ -76,7 +76,7 @@ Orellanine is produced by Cortinarius species, particularly C. orellanus (Fool's
 Orellanine is a bipyridyl compound that:
 
 - Causes DNA strand breaks and inhibits DNA synthesis
-- Generates [[reactive-oxygen-species-and-oxidative-stress]] (ROS) leading to oxidative damage
+- Generates reactive oxygen species (ROS) leading to oxidative damage
 - Primary target: renal proximal tubule epithelial cells
 - The mechanism is fundamentally different from amatoxins — orellanine primarily affects the kidneys with relative sparing of the liver
 
@@ -103,7 +103,7 @@ Orellanine poisoning has a uniquely long latency period:
 
 Gyromitrin is found in several species of false morels:
 
-- **[[gyromitra-esculenta]]** (False Morel) — the most significant source
+- **Gyromitra esculenta** (False Morel) — the most significant source
 - **Gyromitra gigas**, **Gyromitra infula**, and related species
 
 ### Mechanism of Action
@@ -137,13 +137,14 @@ Gyromitrin is volatile and water-soluble, making it partially removable through 
 
 ### Source
 
-Aflatoxins are produced by [[aspergillus-flavus]], A. parasiticus, and A. nomius, contaminating peanuts, corn, rice, wheat, soybeans, tree nuts, spices, and dried figs. Contamination is most prevalent in tropical and subtropical regions with hot, humid climates.
+Aflatoxins are produced by Aspergillus flavus, A. parasiticus, and A. nomius, contaminating peanuts, corn, rice, wheat, soybeans, tree nuts, spices, and dried figs. Contamination is most prevalent in tropical and subtropical regions with hot, humid climates.
 
 ### Mechanism of Action
 
-Aflatoxins are difuranocoumarin compounds, with B1 being the most potent and prevalent:
+## See Also
 
-- **Metabolic activation**: Aflatoxin B1 is metabolized by cytochrome P450 enzymes (CYP1A2, CYP3A4) to the reactive intermediate **aflatoxin B1-8,9-epoxide**
-- **DNA adduct formation**: The epoxide forms covalent bonds with DNA, primarily at the N7 position of guanine
-- **TP53 mutation**: Aflatoxin-DNA adducts cause a characteristic G-to-T transversion mutation in the TP53 tumor suppressor gene (codon 249), which is strongly associated with hepatocellular carcinoma
-- **Immunosuppression**: Aflatoxins suppress cell-mediated immunity and reduce antibody production
+- [[fungi-in-the-environment-fungal-ecosystems]]
+- [[fungal-amber-fossils]]
+- [[singh-fungal-pellet-formation-bioremediation]]
+- [[dark-septate-endophytes]]
+- [[fungal-pathogens-human-disease]]

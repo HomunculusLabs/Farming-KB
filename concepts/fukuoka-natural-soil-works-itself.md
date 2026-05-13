@@ -30,22 +30,14 @@ water's edge are not found on mountain tops, and terrestrial plants do not
 thrive in the water. Although apparently without intent or purpose, these
 plants know exactly where they can and should grow.
 
-Man talks of "the right crop for the right land,"[[cannabis-chemical-fertilizers]] encourages the tree to grow a shallow root
-structure that extends along the topsoil. [[fukuoka-natural-farming]] from
-[[fukuoka-natural-soil-fertility]] works itself
-is self-sustaining and that [[fukuoka-four-principles-natural-farming]] that
-lies at the heart of [[comparison-natural-farming-vs-permaculture]].
-
-## The Farmer's Field vs. the Mountain Forestmycorrhizal-fungitween cultivated fields and mountain forests reveals a
-fundamental truth. In the forest, deep humus layers accumulate naturally as
-[[dighton-fungal-decomposition-leaf-litter-dynamics]] decomposes. Root systems penetrate deeply, aerating the soil and
-bringing minerals from below. [[arbuscular-mycorrhizal-fungi-biology-symbiosis]] form vast networks connecting
-trees and plants, facilitating [[arbuscule-isolation-and-nutrient-exchange-mechanisms]]. No onesoil-food-weblizes,
+Man talks of "the right crop for the right land,"[[fukuoka-natural-farming]] from
+[[fukuoka-four-principles-natural-farming]] that
+lies at the heart of [[dighton-fungal-decomposition-leaf-litter-dynamics]] decomposes. Root systems penetrate deeply, aerating the soil and
+bringing minerals from below. [[arbuscule-isolation-and-nutrient-exchange-mechanisms]]. No onesoil-food-weblizes,
 or sprays the forest, yet it produces enormous biomasdecompositionyear.
 
 The farmer's field, by contrast, is stripped of its natural vegetation,
-compacted by machinery, and depleted of [[hamilton-composting-and-organic-matter-management]] through continuous
-harvesting. The [[ozier-pdc-composting-and-soil-building]] is disrupted by chemical inputs, and the
+compacted by machinery, and depleted of [[ozier-pdc-composting-and-soil-building]] is disrupted by chemical inputs, and the
 natural cycles of decomposition and renewal are broken. Then the farmer
 wonders why the soil "needs" plowing and fertilization, not realizing that
 these are merely responses to damage already done.
@@ -110,8 +102,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[natural-farming]]
 - [[dom]]
-- [[composting]]
 - [[permaculture]]
 - [[decomposition]]

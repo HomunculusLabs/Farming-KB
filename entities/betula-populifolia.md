@@ -40,13 +40,9 @@ The bark becomes rough and dark at the base of mature trunks, developing horizon
 
 The dark triangular patches (lenticel patches) at branch bases are actually diamond-shaped marks left when branches die and fall. These chevron marks are one of the most reliable field characters for distinguishing gray birch from other white-barked birches.
 
-Leaves are ovate to triangular, 4 to 8 cm long and 3 to 6 cm wide, with coarsely serrate margins and an acute apex. The leaves closely resemble those of aspen (Populus tremuloides), hence the specific epithet.
+Leaves are ovate to triangular, 4 to 8 cm long and 3 to 6 cm wide, with coarsely serrate margins and an acute apex. The leaves closely resemble those of aspen ([[populus-tremuloides]]), hence the specific epithet.
 
-The upper [[bloomfield-rust-germ-tube-tactile-sensing-leaf-surface-navigation]] is dark green and glabrous; the lower surface is lighter with scattered glandular dots. Petioles are slender and approximately 1 to 2 cm long.
-
-Catkins appear in spring before or with the leaves. Male catkins are pendulous, approximately 4 to 6 cm long at maturity; female catkins are smaller and erect, developing into cylindrical strobiles after pollination.
-
-Seeds are small, winged nutlets dispersed by wind in autumn. A single tree can produce over 1 million seeds annually, with peak [[cervantes-seed-production-storage]] beginning at approximately 15 years of age.
+The upper [[cervantes-seed-production-storage]] beginning at approximately 15 years of age.
 
 The root system is shallow and wide-spreading, with most fine roots concentrated in the upper 30 cm of soil. This root architecture contributes to the species' ability to colonize thin, rocky soils but also makes it susceptible to windthrow.
 
@@ -74,11 +70,7 @@ Seeds are consumed by songbirds including goldfinches, chickadees, and redpolls.
 
 The species is a host plant for numerous Lepidoptera, including the birch skeletonizer (Bucculatrix canadensisella) and the dusky birch sawfly (Croesus latitarsus). These insects in turn support insectivorous bird populations.
 
-Gray birch stands provide early-successional habitat for shrubland birds such as the chestnut-sided warbler, common yellowthroat, and eastern towhee. The loss of early-successional habitat in the northeastern [[dmt-containing-plants-united-states-halpern]] has raised conservation concerns for these species.
-
-The light canopy of gray birch allows a diverse understory to develop, including blueberry, huckleberry, and various fern species. This structural diversity supports a broader range of wildlife than more densely shaded forest types.
-
-Gray birch leaf litter decomposes relatively quickly, contributing [[hamilton-composting-and-organic-matter-management]] and improving soil fertility for subsequent successional stages. The species' role in soil development is particularly important on nutrient-poor glacial deposits.
+Gray birch stands provide early-successional habitat for shrubland birds such as the chestnut-sided warbler, common yellowthroat, and eastern towhee. The loss of early-successional habitat in the northeastern [[hamilton-composting-and-organic-matter-management]] and improving soil fertility for subsequent successional stages. The species' role in soil development is particularly important on nutrient-poor glacial deposits.
 
 ## Cultivation and Uses
 

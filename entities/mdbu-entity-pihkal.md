@@ -8,57 +8,7 @@ sources: ["Shulgin - PIHKAL"]
 ---
 # MDBU
 
-[[2c-b-pihkal-entry-20]] #102. N-BUTYL-MDA; 3,4-METHYLENEDIOXY-N-BUTYLAMPHETAMINE.
-
-## Chemical Name
-
-N-BUTYL-MDA; 3,4-METHYLENEDIOXY-N-BUTYLAMPHETAMINE
-
-## Dosage and Duration
-
-| Property | Value |
-|----------|-------|
-| Dosage | greater than 40 mg. |
-| Duration | unknown. |
-
-## Qualitative Comments
-
-No qualitative comments available in source.
-
-## Extensions and Commentary
-
-Straight chain homologues on the nitrogen
-atom of MDA longer than two carbons are probably not active. This
-butyl compound provoked no interest, and although the longer chain
-counterparts were made by the general sodium cyanoborohydride method
-(see under MDBZ), they were not tasted. All mouse assays that
-compared this homologous series showed a consistent decrease in action
-(anesthetic potency and motor activity) as the alkyl chain on the
-nitrogen atoms was lengthened.
-
-This synthetic procedure, using the hydrochloride salt of the amine
-and sodium cyanoborohydride in methanol, seems to be quite general for
-ketone compounds related to 3,4-methylenedioxyphenylacetone. Not only
-were most of the MD-group of compounds discussed here made in this
-manner, but the use of phenylacetone (phenyl-2-propanone, P-2-P)
-itself appears to be equally effective. The reaction of butylamine
-hydrochloride in methanol, with phenyl-2-propanone and sodium
-cyanoborohydride at pH of 6, after distillation at 70-75 deg C at 0.3
-mm/Hg, produced N-butylamphetamine hydrochloride (23.4 g from 16.3 g
-P-2-P). And, in the same manner with ethylamine hydrochloride there
-was produced N-ethylamphetamine (22.4 g from 22.1 g P-2-P) and with
-methylamine hydrochloride there was produced N-methylamphetamine
-hydrochloride (24.6 g from 26.8 g P-2-P). The reaction with simple
-ammonia (as ammonium acetate) gives consistently poor yields in these
-reactions.
-
-## Synthesis
-
-A total of 30 mL butylamine was introduced under the
-surface of 33 mL concentrated HCl, and the mixture stripped of
-volatiles under vacuum. The resulting glassy solid was dissolved in
-160 mL MeOH and treated with 7.2 g 3,4-methylenedioxyphenylacetone
-(see under [[mdma]] for its preparation). To this there was added 50%
+[[mdma]] for its preparation). To this there was added 50%
 NaOH dropwise until the pH was at about 6 as determined by the use of
 external dampened universal pH paper. The solution was vigorously
 stirred and 2.8 g sodium cyanoborohydride was added. Concentrated HCl
@@ -81,10 +31,93 @@ white crystals with a mp of 200-200.5 deg C. Anal. (C14H22ClNO2) N.
 
 ## Safety Notes
 
-This compound is a research chemical with limited human data. Shulgin's dosage ranges are based on limited self-experimentation and should not be taken as established safe doses. Many PIHKAL compounds are potent [[cultural-evolution-and-psychoactive-substances]] that may carry unknown risks. [[ayahuasca-tourism-legal-status-by-country]] varies by jurisdiction.
+This compound is a research chemical with limited human data. Shulgin's dosage ranges are based on limited self-experimentation and should not be taken as established safe doses. Many PIHKAL compounds are potent [[ayahuasca-tourism-legal-status-by-country]] varies by jurisdiction.
 
 ## See Also
 
-- [[myristicin-entity]]
-
 - [[mdbu-entity]]
+
+## Overview
+
+Mdbu Entity Pihkal represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish mdbu entity pihkal
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving mdbu extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Mdbu Entity Pihkal finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for mdbu entity pihkal. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+mdbu entity pihkal and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Mdbu Entity Pihkal has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of mdbu entity pihkal into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[2c-g-3-entity]]
+- [[4-5-mdo-dmt-entity-tihkal]]
+- [[5-6-mdo-dipt-entity-tihkal]]
+- [[mdbu-entity]]
+- [[methyl-k-entity-pihkal]]

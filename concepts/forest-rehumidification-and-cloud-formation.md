@@ -24,7 +24,7 @@ A forest can return **75% of its water to air** — in large enough amounts to f
 
 Forested areas return **ten times as much moisture as bare ground** and **twice as much as grasslands.** The release of water from trees and other plants accounts for **half or more of all moisture returned to air** globally.
 
-A large evergreen tree such as *Eucalyptus globulus* may transpire **3,600–4,500 litres of water per day.** With sixty or so trees per hectare, many tens of thousands of litres are returned to air to become clouds. It was this mechanism that Mussolini exploited to pump dry the Pontine marshes of Italy.
+A large evergreen tree such as *[[eucalyptus-globulus]]* may transpire **3,600–4,500 litres of water per day.** With sixty or so trees per hectare, many tens of thousands of litres are returned to air to become clouds. It was this mechanism that Mussolini exploited to pump dry the Pontine marshes of Italy.
 
 ### The Amazon Example
 
@@ -74,14 +74,12 @@ Forests and vegetation play critical roles in water cycling, temperature
 regulation, and atmospheric processes that sustain regional climate patterns.
 
 ## Practical Applications
-These concepts apply directly to permaculture design, agroforestry systems,
+These concepts apply directly to [[permaculture-design]], agroforestry systems,
 and watershed management. Understanding the interactions between vegetation,
 water, and atmosphere enables designers to create more resilient and productive
 landscapes that work with natural processes rather than opposing them.
 
 ## See Also
-- [[pdc-food-forest-design-and-forest-ecology]]
 - [[forest-rehumidification-and-snow-meltwater-effects]]
-- [[guzman-allen-gartz-neurotropic-fungi-vegetation-types-mesophytic-cloud-forest]]
 - [[forest-rehumidification-and-water-recycling]]
 - [[fukuoka-food-forest-orchard-design]]

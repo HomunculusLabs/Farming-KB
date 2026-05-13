@@ -11,15 +11,7 @@ sources: [raw/papers/variation-of-psilocybin-and-psilocin-levels-bigwood-beug.md
 
 ## Overview
 
-The 1982 study by Jeremy Bigwood and Michael W. Beug at The [[fukuoka-evergreen-state-permaculture-conference]] College (published in the *Journal of Ethnopharmacology*) is a foundational investigation into how psilocybin and psilocin levels vary across successive flushes (harvests) of *Psilocybe cubensis* grown in controlled culture. Their findings revealed a striking pattern: psilocin is typically absent in early flushes and peaks by the fourth flush, while psilocybin remains relatively stable but highly variable across flushes. These results have significant implications for cultivators seeking to optimize potency.
-
-## Study Design
-
-### Cultivation Method
-The researchers used a "miniculture" technique adapted from the rye-grain method of San Antonio (1971) and Oss & Oeric (1976):
-
-- **Container**: Wide-mouth half-pint jars (~250 ml)
-- **Substrate**: 10 g [[bigwood-beug-miniculture-rye-grain-flush-variation-method]] + 15 ml water per jar
+The 1982 study by Jeremy Bigwood and Michael W. Beug at The [[bigwood-beug-miniculture-rye-grain-flush-variation-method]] + 15 ml water per jar
 - **Sterilization**: Autoclaved before inoculation
 - **Inoculation**: Mycelium culture on agar transferred under sterile conditions
 - **Incubation**: Jars shaken every 4 days for 28 days to distribute mycelium evenly
@@ -27,8 +19,7 @@ The researchers used a "miniculture" technique adapted from the rye-grain method
 - **Watering**: 1 ml sterile water via syringe every two days
 
 ### Strain
-The primary strain studied originated from a [[psilocybin-psilocin-variation-across-flushes]]
-- [[psilocybin-psilocin-flush-accumulation-patterns]]
+The primary strain studied originated from a [[psilocybin-psilocin-flush-accumulation-patterns]]
 
 ## See Also
 

@@ -27,73 +27,8 @@ related_concepts:
 
 # Iboga, Ibogaine, and the Bwiti: African Psychedelic Medicine
 
-Iboga ([[plants-of-the-gods-tabernanthe-iboga-chemistry]]) is a perennial rainforest shrub native to the
-equatorial forests of West-Central Africa, particularly Gabon, Cameroon,
-and the Republic of the Congo. Its principal alkaloid, ibogaine, has
-generated international attention for a property shared by no other
-known psychedelic compound: the ability to interrupt substance addiction,
-particularly opioid dependence, often with a single administration. But
-iboga's significance extends far beyond addiction therapy. For centuries,
-it has been the central sacrament of the Bwiti religion, one of the
-most important and resilient indigenous spiritual movements in Africa.
-The iboga experience, lasting 12 to 36 hours or more, is among the
-longest and most intense of any known psychedelic, producing profound
-visionary states that practitioners describe as encounters with
-ancestors, confrontations with death, and journeys of spiritual rebirth.
-
-## Botany and Chemistry
-
-Tabernanthe iboga belongs to the Apocynaceae (Dogbane) family, a group
-that includes many alkaloid-bearing plants but only one known
-psychoactive species. The shrub grows 3 to 4.5 feet tall in the
-undergrowth of tropical forests, often cultivated in native dooryards.
-It has copious white, vile-smelling latex, ovate leaves yellowish green
-beneath, and tiny yellowish or pinkish flowers growing in groups of 5 to
-12. The ovoid, pointed yellow-orange fruits occur in pairs and grow to
-the size of olives. The yellowish root is the primary active plant part,
-containing the highest concentration of psychoactive alkaloids.
-
-Chemical studies have identified at least a dozen indole alkaloids in
-iboga root bark. The most important pharmacologically is ibogaine
-(C20H26N2O), an indole alkaloid in the iboga-type structural class, a
-subgroup of the larger family of monoterpenoid indole alkaloids. Its
-chemical structure features a complex polycyclic ring system with an
-indole nucleus fused to a seven-membered ring. Related alkaloids include
-ibogamine, tabernanthine, voacangine, coronaridine, and iboluteine.
-The total alkaloid content of root bark is approximately 1 to 5 percent
-ibogaine, with other iboga-type alkaloids also found in related genera
-including Voacanga and Tabernaemontana.
-
-Ibogaine can be produced synthetically, though it is most commonly
-extracted from root bark. The indole alkaloids found in T. iboga belong
-to the same broad chemical family as the tryptamines of psilocybin
-mushrooms, the ergolines of ergot and [[sacred-mexican-morning-glories-ololiuqui-and-tlitliltzin]], and the harmala
-alkaloids of [[golden-guide-syrian-rue-and-maoi-plants]], revealing fundamental molecular relationships
-across diverse psychoactive plant families.
-
-## The Bwiti Religion
-
-The Bwiti religion of Gabon and surrounding regions is one of the most
-significant syncretic spiritual movements in Africa, blending indigenous
-animistic beliefs with elements of Christianity in a complex framework
-for understanding the cosmos, human identity, and the relationship
-between the living and the dead. Iboga is used as a hallucinogen in a
-magico-religious context, serving to seek information from ancestors and
-the spirit world. The practice is described by practitioners as "a
-coming to terms with death."
-
-Bwiti temples (mbande) serve as centers of community spiritual life.
-Both men and women may participate, which is relatively unusual among
-plant-based hallucinogenic practices in indigenous societies. The cult
-has persisted for centuries despite intense missionary pressure,
-testament to the depth of its cultural roots and the power of the iboga
-experience in reinforcing traditional belief systems. Schultes and
-Hofmann noted that iboga provides "the strongest single force against
-the missionary spread of Christianity and Islam" in this region.
-
-## Initiation: Death and Rebirth
-
-The [[mckenna-iboga-tabernanthe-ibogaine-fang-bwiti-initiation-cult]] ceremony is one of the most demanding psychedelic
+Iboga ([[sacred-mexican-morning-glories-ololiuqui-and-tlitliltzin]], and the harmala
+alkaloids of [[mckenna-iboga-tabernanthe-ibogaine-fang-bwiti-initiation-cult]] ceremony is one of the most demanding psychedelic
 rituals documented anywhere in the world. Initiates consume large doses
 of iboga root bark, roughly 10 grams of dried powder for a full
 psychedelic effect, though traditional initiation doses can be much
@@ -116,17 +51,11 @@ nerve and induce visions.
 
 ## See Also
 
-- [[iboga-and-ibogaine-profile]] for the comprehensive substance profile
 - [[ibogaine-pharmacology]] for detailed mechanism of action
-- [[ibogaine-anti-addiction-therapy]] for clinical evidence and protocols
 - [[ibogaine-reference]] for the complete pharmacological reference
-- [[iboga-plant]] for botanical description
 - [[iboga-tabernanthe]] for the species overview
-- [[entheogen-bwiti-iboga-initiation-fang-society]] for initiation ethnography
 - [[iboga-and-the-bwiti-cult-initiation]] for ceremonial details
-- [[metzner-ibogaine-addiction-treatment]] for therapeutic approaches
 - [[schultes-iboga-bwiti-cult]] for the ethnobotanical account
-- [[mckenna-food-gods-ibogaine-bwiti-fang]] for McKenna's analysis
 - [[plants-of-the-gods-tabernanthe-iboga-chemistry]] for chemical details
 
 ## References
@@ -147,3 +76,75 @@ nerve and induce visions.
 - Mash, Deborah C., et al. "Ibogaine: Complex Pharmacokinetics
   and Pharmacodynamics." Alkaloids: Chemical and Biological
   Perspectives, 1998.
+
+## Overview
+
+Iboga Ibogaine And The Bwiti African Psychedelic Medicine represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish iboga ibogaine and the bwiti african psychedelic medicine
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving iboga extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Iboga Ibogaine And The Bwiti African Psychedelic Medicine finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for iboga ibogaine and the bwiti african psychedelic medicine. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+iboga ibogaine and the bwiti african psychedelic medicine and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Iboga Ibogaine And The Bwiti African Psychedelic Medicine has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of iboga ibogaine and the bwiti african psychedelic medicine into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions

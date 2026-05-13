@@ -10,8 +10,7 @@ Tribal pattern knowledge refers to the sophisticated systems by which indigenous
 cultures encode, store, and transmit practical, ecological, and spiritual information
 through non-alphabetic media — visual patterns, songs, dances, chants, and material
 objects. Far from primitive, these systems rival modern alphabetic recording in
-density, durability, and multi-dimensional encoding. [[bill-mollison]] highlights them in
-*[[permaculture]]: A Designers' Manual* as evidence that pattern literacy is an ancient
+density, durability, and multi-dimensional encoding. [[permaculture]]: A Designers' Manual* as evidence that pattern literacy is an ancient
 human faculty.
 
 ## Visual Pattern Media
@@ -141,3 +140,11 @@ time — for tens of thousands of years. Permaculture's emphasis on pattern lite
 edge effects, and multi-functional design echoes principles tribal peoples practiced
 intuitively. Recovering this capacity is not nostalgia but a practical extension of
 the design science Mollison articulates.
+
+## See Also
+
+- [[tribal-art-as-sacred-knowledge-systems]]
+- [[tribal-pattern-knowledge-systems]]
+- [[pattern-applications-and-tribal-pattern-knowledge]]
+- [[tribal-pattern-knowledge-and-traditional-encoding]]
+- [[tribal-pattern-application-and-land-division]]

@@ -10,16 +10,13 @@ tags: [tryptamine]
 
 # Tryptamine Research and Legal Status
 
-McKenna addresses the scientific, cultural, and legal barriers to tryptamine research in "[[mckenna-tryptamine-hallucinogens-and-consciousness]] and Consciousness" (Esalen lecture, December 1983; published in The [[mckenna-archaic-revival-four-part-structure-paradise-paradise-lost-hell-regained]], 1992). His analysis situates the suppression of tryptamine research within a broader pattern of what he calls Western civilization's alienation from shamanic knowledge and non-ordinary states of consciousness. The essay was delivered at the Lilly/Goswami Conference on Consciousness and Quantum Physics at Esalen Institute, placing McKenna's [[fukuoka-critique-of-scientific-agriculture]] orthodoxy alongside [[mckenna-quantum-mechanical-correlates-hallucinogenesis]] discussions of consciousness.
+McKenna addresses the scientific, cultural, and legal barriers to tryptamine research in "[[mckenna-archaic-revival-four-part-structure-paradise-paradise-lost-hell-regained]], 1992). His analysis situates the suppression of tryptamine research within a broader pattern of what he calls Western civilization's alienation from shamanic knowledge and non-ordinary states of consciousness. The essay was delivered at the Lilly/Goswami Conference on Consciousness and Quantum Physics at Esalen Institute, placing McKenna's [[mckenna-quantum-mechanical-correlates-hallucinogenesis]] discussions of consciousness.
 
 ## Legal Conflation of Distinct Compounds
 
-McKenna observes that in the eyes of both the "uninformed public and the law," [[mckenna-archaic-revival]]
-- [[5-meo-dmt-reference]]
-- [[mckenna-tryptamine-hallucinogens-and-consciousness]] -- parent topic overview
-- mckenna-tryptamine-consciousness-dmt-spirit-molecule -- DMT phenomenology
+McKenna observes that in the eyes of both the "uninformed public and the law," [[5-meo-dmt-reference]]
 - [[mckenna-tryptamine-psilocybin-consciousness-evolution]] -- psilocybin's evolutionary claims
-- [[mckenna-tryptamine-endogenous-dmt-pineal-gland-theory]] -- [[mckenna-endogenous-dmt-brain-familiarity]] hypothesis
+- [[mckenna-endogenous-dmt-brain-familiarity]] hypothesis
 ## Practical Applications
 
 Tryptamine Research and Legal Status - McKenna's Analysis has a range of practical applications that make it relevant to

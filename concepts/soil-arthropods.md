@@ -9,15 +9,15 @@ sources: [raw/papers/lowenfels-teaming-with-microbes.md]
 
 # Soil Arthropods
 
-Soil arthropods are invertebrate animals with jointed legs and exoskeletons that live in the soil and leaf litter. They are essential decomposers, predators, and engineers of soil structure. A [[query-how-to-build-healthy-garden-soil]] contains thousands of arthropods per square meter.
+Soil arthropods are invertebrate animals with jointed legs and exoskeletons that live in the soil and leaf litter. They are essential decomposers, predators, and engineers of soil structure. A healthy garden soil contains thousands of arthropods per square meter.
 
 ## Major Groups
 
 ### Mites (Acari)
 - The most numerous soil arthropods (100,000+ per square meter in healthy soil)
 - **Oribatid mites**: Slow-moving decomposers that break down tough plant material, fungi, and humus. They are the earthworms of the microscopic world — slow but essential
-- **[[comparison-predatory-mites-vs-ladybugs-biocontrol]]**: Hunt nematodes, springtails, and other small organisms
-- Key role in [[soil-protozoa-nutrient-cycling-and-mineralization]] humus formation
+- **Predatory mites**: Hunt nematodes, springtails, and other small organisms
+- Key role in nutrient cycling and humus formation
 
 ### Springtails (Collembola)
 - Small (1-2mm), primitive insects that jump using a forked appendage
@@ -27,10 +27,10 @@ Soil arthropods are invertebrate animals with jointed legs and exoskeletons that
 - Indicate healthy soil with good organic matter
 
 ### Beetles (Coleoptera)
-- **[[ground-beetles-carabidae-and-biological-pest-control]] (Carabidae)**: Predators that hunt slugs, cutworms, root maggots, and other soil pests at night. Essential [[fukuoka-textdoc-arrowhead-scale-ladybug-biological-control]] agents
+- **Ground beetles (Carabidae)**: Predators that hunt slugs, cutworms, root maggots, and other soil pests at night. Essential biological control agents
 - **Rove beetles (Staphylinidae)**: Predators in compost and rich soil
 - **Dung beetles (Scarabaeidae)**: Bury and decompose animal manure, incorporating nutrients into soil
-- Encourage ground beetles with stone mulch, ground cover, and [[comparison-no-till-vs-reduced-tillage]]
+- Encourage ground beetles with [[stone-mulch]], ground cover, and reduced tillage
 
 ### Ants (Formicidae)
 - Mix and aerate soil through tunneling (especially in grasslands and forests)
@@ -76,19 +76,74 @@ Soil arthropods are invertebrate animals with jointed legs and exoskeletons that
 - [[fungal-ecology-decomposition-cycles]] — for the broader decomposition system
 - [[natural-farming-pest-management]] — for encouraging predatory arthropods
 
+## Overview
+
+Soil Arthropods represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish soil arthropods
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving soil extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Soil Arthropods finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for soil arthropods. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+soil arthropods and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
 ## Historical Context
-- These approaches have evolved through decades of research and practical application.
-- Traditional knowledge systems have contributed significantly to modern understanding.
-- Scientific inquiry has progressively validated and refined historical practices.
 
-## Mechanisms and Processes
-- Underlying biological and ecological mechanisms drive observed outcomes.
-- Multiple interacting factors contribute to system-level effects.
-- Understanding these processes enables more targeted and effective interventions.
+Soil Arthropods has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
 
-## See Also
-- [[lowenfels-soil-macro-arthropods]]
-- [[query-what-is-the-role-of-springtails-and-soil-arthropods-in-soil-health]]
-- [[saprobic-soil-fungi-ecology-survey]]
-- [[soil-fungal-isolation-techniques]]
-- [[jadam-humus-soil-and-leaf-mold-distinction]]
+## Integration Strategies
+
+Successful integration of soil arthropods into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions

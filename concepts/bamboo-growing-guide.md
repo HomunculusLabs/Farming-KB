@@ -9,7 +9,7 @@ sources: []
 
 # Bamboo Growing Guide
 
-Bamboo is among the fastest-growing plants on Earth, capable of adding 24-36 inches per day during peak growth. It provides poles, edible shoots, [[comparison-vetiver-grass-vs-bamboo-for-erosion-control]], privacy screens, and carbon sequestration. However, its aggressive spreading habit demands careful planning and containment, especially with running varieties.
+Bamboo is among the fastest-growing plants on Earth, capable of adding 24-36 inches per day during peak growth. It provides poles, edible shoots, erosion control, privacy screens, and carbon sequestration. However, its aggressive spreading habit demands careful planning and containment, especially with running varieties.
 
 ## Running vs Clumping Bamboo
 
@@ -61,12 +61,12 @@ Less common due to cost and potential for rhizomes to exploit cracks. Suitable f
 
 | Species | Type | Height | Hardiness | Primary Use |
 |---------|------|--------|-----------|-------------|
-| [[phyllostachys-edulis]] (Moso) | Running | 50-75 ft | 5F | Timber, edible shoots |
+| Phyllostachys edulis (Moso) | Running | 50-75 ft | 5F | Timber, edible shoots |
 | Phyllostachys nigra | Running | 15-30 ft | 0F | Ornamental, black culms |
 | Fargesia nitida | Clumping | 8-12 ft | -20F | Hedge, shade tolerant |
 | Bambusa oldhamii | Clumping | 30-50 ft | 25F | Screening, timber |
-| [[phyllostachys-aurea]] | Running | 15-25 ft | 0F | Poles, hedge |
-| [[guadua-angustifolia]] | Clumping | 60-100 ft | 40F | Construction timber |
+| Phyllostachys aurea | Running | 15-25 ft | 0F | Poles, hedge |
+| Guadua angustifolia | Clumping | 60-100 ft | 40F | Construction timber |
 | Sasa palmata | Running | 4-8 ft | -10F | Ground cover, shade |
 | Chusquea culeou | Clumping | 10-20 ft | 0F | Ornamental, solid culms |
 
@@ -76,7 +76,7 @@ Less common due to cost and potential for rhizomes to exploit cracks. Suitable f
 - **Soil preparation**: Incorporate 4-6 inches of compost into planting area; bamboo is heavy feeder
 - **Planting**: Dig hole twice the width of root ball, set crown at soil level, backfill, water deeply
 - **Spacing**: 3-8 feet apart for screening; single specimen plantings for focal points
-- **Mulch**: 3-4 inches of organic mulch to retain moisture and [[query-how-do-cover-crops-suppress-weeds]]
+- **Mulch**: 3-4 inches of organic mulch to retain moisture and suppress weeds
 - **Watering**: 2-3 times per week during establishment; reduce once established but water during drought
 
 ## Harvesting Bamboo Poles
@@ -100,23 +100,9 @@ Many Phyllostachys species produce edible shoots in spring:
 ## Maintenance
 
 - **Thinning**: Remove older, yellowing culms at ground level each year to maintain airflow
-- **Fertilizing**: Apply balanced [[complete-organic-fertilizer-cof]] in early spring; nitrogen-rich for shoot production
+- **Fertilizing**: Apply balanced organic fertilizer in early spring; nitrogen-rich for shoot production
 - **Pest monitoring**: Watch for bamboo mites, aphids, and mealybugs
 - **Winter protection**: Mulch heavily in cold zones; Fargesia is naturally cold-hardy
-## Key Considerations
-
-Understanding the fundamental principles underlying this topic enables more effective practical application. Integration with related concepts strengthens overall system function and provides multiple pathways for implementation and adaptation to specific contexts.
-
-## Common Challenges
-
-Practitioners frequently encounter challenges related to resource availability, environmental variability, and knowledge gaps. Systematic approaches to problem-solving, combined with community knowledge sharing and iterative experimentation, provide effective pathways to overcoming these obstacles.
-
-## See Also
-- [[alliums-growing-guide]]
-- [[ashwagandha-growing-guide]]
-- [[bean-growing-guide]]
-- [[berry-and-small-fruit-growing]]
-- [[berry-growing]]
 
 ## See Also
 

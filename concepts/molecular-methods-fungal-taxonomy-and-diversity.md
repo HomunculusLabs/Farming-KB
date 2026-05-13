@@ -11,7 +11,7 @@ sources: [/Users/t3rpz/wiki/raw/papers/geoffrey-gadd-sarah-c-watkinson-paul-s-dy
 
 The last 30 years have seen accelerating habitat loss from development, pollution, and poor management. As ecosystems are degraded, our need to address issues concerning the biological and genetic diversity of remaining organisms increases. Historically, determining fungal species diversity has been complicated by our inability to culture many fungi, the ephemeral nature of sporocarp production, and intraspecific variation in fungal morphology and biochemistry.
 
-Molecular methods have transformed mycology by enabling researchers to detect and identify fungi directly from environmental samples, bypassing the need for culturing or [[comparison-fruiting-body-vs-mycelium-extracts-medicinal-mushrooms]] collection. These approaches have revealed that [[arbuscular-mycorrhizal-fungal-diversity-patterns-distribution]] is vastly greater than previously estimated from morphological studies alone.
+Molecular methods have transformed mycology by enabling researchers to detect and identify fungi directly from environmental samples, bypassing the need for culturing or [[arbuscular-mycorrhizal-fungal-diversity-patterns-distribution]] is vastly greater than previously estimated from morphological studies alone.
 
 ## Key Impediments to Understanding Fungal Diversity
 
@@ -25,20 +25,11 @@ Molecular methods have transformed mycology by enabling researchers to detect an
 
 - Physical and chemical requirements for sporocarp development are poorly defined
 
-- Anthropogenic factors (harvesting sporocarps) may obscure [[bloomfield-fungal-biology-and-hyphal-growth]]
-
-## DNA Extraction
-
-The first step in any molecular analysis is the extraction of high-quality fungal DNA. Methods range from simple CTAB-based protocols to commercial kit-based approaches optimized for different sample types. Herbarium specimens, fresh sporocarps, pure cultures, and environmental samples (soil, water, plant tissue) each present distinct challenges for DNA extraction. Older herbarium specimens often yield fragmented DNA, requiring modified protocols with shorter amplification targets.
-
-Detailed guidance on extraction methods is available in the [[fungal-species-concept-and-taxonomy]] in fungi continues to evolve as molecular data reveal previously unrecognized cryptic species and species complexes.
+- Anthropogenic factors (harvesting sporocarps) may obscure [[fungal-species-concept-and-taxonomy]] in fungi continues to evolve as molecular data reveal previously unrecognized cryptic species and species complexes.
 
 ## See Also
 
-- [[molecular-methods-fungal-diversity]]
 - [[fungal-dna-barcoding]]
-- [[fungal-species-concept-and-taxonomy]]
-- fungal-community-ecology
 - [[endophytic-fungi-biology-ecology-taxonomic-diversity]]
 ## Practical Considerations
 

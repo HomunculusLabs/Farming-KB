@@ -10,13 +10,7 @@ sources:
 
 Updated: 2026-04-18
 
-Source: The [[green-cannabis-grow-bible-breeding-genetics-and-true-breeding]] Bible, Greg Green (Ch. 5, 6)
-
-A root-bound plant has outgrown its container, causing roots to circle and pack tightly. Left untreated, it stunts growth and can kill the plant.
-
-## What Is Root-Bound
-
-When a plant's root system fills the entire container with no room for expansion, roots begin circling the inner walls and eventually choke each other. The root mass becomes a dense, hard ball that holds water poorly and prevents [[plant-nutrient-uptake-mechanisms]].
+Source: The [[plant-nutrient-uptake-mechanisms]].
 
 ## Symptoms of Root-Bound Plants
 
@@ -25,50 +19,15 @@ When a plant's root system fills the entire container with no room for expansion
 - **Small, slow-developing new growth**: New leaves are undersized and slow to unfurl
 - **Rapid wilting**: Plant wilts quickly after watering, even though soil appears moist
 - **Requires very frequent watering**: Root-bound plants dry out extremely fast because the root ball cannot hold water effectively
-- **[[cannabis-grow-nutrient-deficiency-problem-solving]] symptoms**: Even with proper feeding, leaves show deficiency signs because roots cannot take up nutrients efficiently
-- **Leaf discoloration**: Yellowing, especially lower leaves, progressing upward
-- **Drooping despite adequate moisture**: Plants may droop even right after watering
-
-### Below Ground (Visible During Transplant or Inspection)
-- **Dense root mat**: Roots are tightly packed with little to no soil visible
-- **Circling roots**: Roots wrap around the inner container wall in a spiral pattern
-- **Roots emerging from drainage holes**: Visible roots poking out the bottom of the pot
-- **Root ball slides out intact**: When removing from the container, the root ball holds its shape as a solid block with no soil falling away
-- **Water runs straight through**: Water pours out drainage holes almost immediately without being absorbed
-
-## Causes
-
-- **Container too small for the plant's growth rate**
-- **Left in the same container for too long without transplanting**
-- **Aggressive [[cannabis-vegetative-growth-stage]] in small starter pots**
+- **[[cannabis-vegetative-growth-stage]] in small starter pots**
 - **Fast-growing sativa-dominant strains outpacing container capacity**
 
 ## Prevention
 
 ### Right-Sizing Containers
-See [[green-cannabis-transplanting-root-bound-management]] Topics
-
-- [[cannabis-transplanting-guide]] — transplanting procedures
-- [[cannabis-nutrient-deficiency-and-toxicity-guide]] — deficiency identification
+See [[cannabis-transplanting-guide]] — transplanting procedures
 - [[cannabis-watering-techniques-and-frequency]] — proper watering practices
-- [[root-anatomy-structure-and-nutrient-uptake]]
-## Practical Considerations
-
-When working with Cannabis Root-Bound Symptoms and Management, several practical factors should be
-carefully considered to achieve optimal results. These include
-the specific conditions of the implementation context, available
-resources, timing requirements, and the interactions between this
-topic and other elements of the broader system. A holistic view
-that considers these interconnections produces better outcomes.
-
-Environmental conditions such as temperature, moisture, and
-seasonal patterns significantly influence results. Monitoring these
-variables and adapting practices accordingly is essential for success.
-The most effective practitioners develop keen observation skills and
-respond flexibly to changing conditions rather than following rigid
-protocols regardless of circumstances or local variation.
-
-[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
+- [[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -111,8 +70,81 @@ through generations to modern scientific approaches, the evolution continues
 to inform current best practices and research directions.
 
 ## See Also
-- [[doc]]
 - [[dom]]
-- [[greg-green]]
 - [[green-cannabis-transplanting-root-bound-management]]
 - [[cannabis-ph-management-and-soil-flushing]]
+
+## Overview
+
+Cannabis Root Bound Symptoms And Management represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish cannabis root bound symptoms and management
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving cannabis extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Cannabis Root Bound Symptoms And Management finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for cannabis root bound symptoms and management. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+cannabis root bound symptoms and management and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Cannabis Root Bound Symptoms And Management has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of cannabis root bound symptoms and management into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and

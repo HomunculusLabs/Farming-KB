@@ -12,11 +12,7 @@ sources:
 
 ## Overview
 
-Fungal pesticides (mycopesticides) use entomopathogenic fungi -- fungi that parasitize and kill insects -- as alternatives to [[comparison-parasitoid-wasps-vs-chemical-pesticides]]. The primary genera are Metarhizium (green mold), Beauveria (white mold), Hirsutella, and Paecilomyces. These fungi can target specific pest insects while sparing beneficial organisms, including pollinators. This selectivity makes them particularly valuable in agricultural systems where bee health is critical.
-
-## The Discovery of Presporulating Mycelium
-
-Paul Stamets discovered that the mycelium of parasitic fungi prior to sporulation acts as a "Trojan horse," attracting insect victims rather than repelling them. While studying [[metarhizium-anisopliae]] for carpenter ant control, he noticed white wedge-shaped sectors of growth that lacked or had delayed spore formation. After successive transfers, he isolated a nonsporulating mycelial phenotype that was still lethal to insects but emitted attractants and feeding stimulants.
+Fungal pesticides (mycopesticides) use entomopathogenic fungi -- fungi that parasitize and kill insects -- as alternatives to [[metarhizium-anisopliae]] for carpenter ant control, he noticed white wedge-shaped sectors of growth that lacked or had delayed spore formation. After successive transfers, he isolated a nonsporulating mycelial phenotype that was still lethal to insects but emitted attractants and feeding stimulants.
 
 This was a key discovery because:
 - Insects can detect entomopathogenic spores and avoid them
@@ -26,46 +22,14 @@ This was a key discovery because:
 
 ### Patent and Commercial Development
 
-Stamets was awarded a patent (US Patent 9,504,258) for "Mycotecture and Myco-materials" which included presporulating mycelium approaches [[insectary-plants-for-pest-control]]. The discovery opened the door to "bait stations" where fungal mycelium is offered as food to target pests, rather than sprayed as spores over entire fields. This dramatically reduces non-target exposure.
-
-## How Entomopathogenic Fungi Work
-
-Infection proceeds through several stages:
-1. A tiny spore or mycelial fragment contacts the insect exoskeleton
-2. The fungal hyphae penetrate the cuticle using enzymes and mechanical pressure
-3. Once inside the hemocoel (body cavity), the fungus proliferates
-4. The insect dies, and the fungus sporulates from the cadaver
-5. Spores become a "launching platform for further sporulation," creating a protective shield that repels subsequent invasions
-
-### Cuticle Penetration
-
-The insect cuticle is the first and most important barrier to infection. Entomopathogenic fungi produce a suite of enzymes to breach it:
-
-- **Proteases**: Degrade cuticular proteins, particularly the protein matrix of the procuticle. Pr1 and Pr2 proteases from Metarhizium are well-characterized [[fungal-virulence-factors-host-immune-evasion]]
+Stamets was awarded a patent (US Patent 9,504,258) for "Mycotecture and Myco-materials" which included presporulating mycelium approaches [[fungal-virulence-factors-host-immune-evasion]]
 - **Chitinases**: Break down chitin fibers in the endocuticle
 - **Lipases**: Degrade the epicuticular wax layer
 - **Esterases**: Help penetrate the outer lipid barrier
 
-The combination of [[enzymatic-degradation-in-mycoremediation]] and mechanical pressure from the growing germ tube allows the fungus to penetrate the cuticle within 12-24 hours of attachment.
+The combination of [[fukuoka-textdoc-biological-control-fallacy-pheromone-critique]] agents against Varroa:
 
-### Hemocoel Colonization and Death
-
-Once inside the hemocoel, the fungus faces the insect's immune system. Fungal cells undergo a morphological transition from filamentous hyphae to blastospores (yeast-like cells) that can proliferate rapidly in the hemolymph. The fungus produces toxins including:
-
-- **Destruxins**: Cyclic hexadepsipeptides produced by Metarhizium that paralyze muscles and suppress immune responses
-- **Beauvericin**: A cyclic ionophore produced by Beauveria that disrupts cell membranes
-- **Bassianolide**: Another ionophore toxic to insect cells
-
-Death typically occurs 3-7 days after infection, depending on the fungus, the insect host, and environmental conditions. After death, the fungus emerges from the cadaver under conditions of high humidity, producing conidia (spores) that are dispersed by wind, water, or contact to infect new hosts.
-
-## Application to Bee Health
-
-### Protecting Hives from Varroa Mites
-
-The Varroa destructor mite is the most significant threat to managed honey bees worldwide. Entomopathogenic fungi have been investigated as [[fukuoka-textdoc-biological-control-fallacy-pheromone-critique]] agents against Varroa:
-
-- **Metarhizium anisopliae**: Strains of M. anisopliae have shown efficacy against Varroa in laboratory and field trials. [[compost-tea-application-methods]] include dusting hives with fungal spores or placing spore-impregnated materials inside the hive
-- **[[beauveria-bassiana]]**: Also effective against Varroa in controlled studies, with some commercial products available for beekeepers
+- **Metarhizium anisopliae**: Strains of M. anisopliae have shown efficacy against Varroa in laboratory and field trials. [[beauveria-bassiana]]**: Also effective against Varroa in controlled studies, with some commercial products available for beekeepers
 - **Hirsutella thompsonii**: A natural mite pathogen that has been evaluated for Varroa control
 
 A key advantage of fungal control over chemical acaricides is that mites do not develop resistance as readily. Fungi attack through multiple mechanisms (enzymatic penetration, toxin production, mechanical disruption), making resistance evolution less likely than with single-target chemical agents.
@@ -118,8 +82,7 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[fungal-hyphae]]
-- [[doc]]
-- [[det]]
-- [[paul-stamets]]
-- [[spore]]
+
+- [[bee-forage-design]]
+- [[bee-forage-systems-design]]
+- [[bee-range-design]]

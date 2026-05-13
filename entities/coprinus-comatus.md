@@ -29,11 +29,7 @@ occurs within hours of the cap opening under favorable conditions.
 
 Shaggy mane mushrooms are cosmopolitan in distribution and frequently fruit in
 disturbed habitats, especially along roadsides, in gardens, and on
-compacted soils rich in [[hamilton-composting-and-organic-matter-management]].
-
-## Taxonomy and Morphology
-
-**Classification:** [[fungal-taxonomy-and-kingdom-fungi]] → Division Basidiomycota → Class Agaricomycetes →
+compacted soils rich in [[fungal-taxonomy-and-kingdom-fungi]] → Division Basidiomycota → Class Agaricomycetes →
 Order Agaricales → Family Agaricaceae → Genus *Coprinus* → Species *C. comatus*.
 
 **Authority:** (Pers.) Gray (1821). Basionym: *Agaricus comatus* O.F. Müll.
@@ -48,24 +44,8 @@ is covered in shaggy, erect white to buff scales that give the mushroom its
 common name. The cap margin extends slightly beyond the gills at maturity.
 
 Gills are crowded, free from the stipe, and initially white. They progress
-through pink to gray and finally black as deliquescence begins. [[boil-a-bag-spore-print-technique-jarrold]] is
-black. Basidiospores are ellipsoid, smooth, 12–18 × 7–10 µm, with a central
-germ pore.
-
-The stipe is central, white, hollow, 8–20 cm tall and 1–2 cm thick, with a
-fragile, movable ring near the apex. The ring often disappears as the cap
-expands. Flesh is thin, white, and lacks any significant odor when fresh.
-
-## Distribution and Habitat
-
-*Coprinus comatus* has a nearly [[guzman-allen-gartz-psilocybe-semilanceata-temperate-cosmopolitan-distribution]] across temperate and
-subtropical regions. It is found throughout Europe, [[psilocybin-north-america-pacific-northwest]], Asia, and
-parts of Africa and Australia. It fruits from late spring through autumn, with
-peak fruiting in early to mid-autumn in temperate zones.
-
-The species is strongly associated with disturbed ground and nutrient-rich soils.
-Common substrates include roadsides, cultivated fields, gardens, compost heaps,
-and grassy areas near farms. It often appears in clusters or [[bloomfield-fairy-rings-armillaria-giant-fungi]] in
+through pink to gray and finally black as deliquescence begins. [[guzman-allen-gartz-psilocybe-semilanceata-temperate-cosmopolitan-distribution]] across temperate and
+subtropical regions. It is found throughout Europe, [[bloomfield-fairy-rings-armillaria-giant-fungi]] in
 open, sunny locations.
 
 Unlike many agarics, shaggy mane is not a strict woodland species. It thrives
@@ -74,17 +54,89 @@ preference makes it one of the most common urban mushrooms.
 
 ## Culinary Use
 
-Shaggy mane is considered one of the finest edible [[edible-wild-mushrooms-by-region]] when
-harvested at the right stage. Only specimens with entirely white gills should
-be collected — once gills begin turning pink or gray, quality declines rapidly.
+Shaggy mane is considered one of the finest edible [[coprinopsis-atramentaria]]* (common
 
-The flavor is mild, slightly nutty, and reminiscent of asparagus. The texture
-is tender when cooked, though the cap becomes slimy when mature. Common
-preparations include sautéing in butter, cream sauces, and soups.
+## Overview
 
-A critical safety concern: *C. comatus* contains coprine, which inhibits
-acetaldehyde dehydrogenase. Consumption with alcohol can cause a disulfiram-like
-reaction (flushing, nausea, palpitations). This effect lasts 48–72 hours after
-ingestion. Cooking does not destroy coprine entirely.
+Coprinus Comatus represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
 
-The species should not be confused with *[[coprinopsis-atramentaria]]* (common
+## Key Characteristics
+
+Several defining characteristics distinguish coprinus comatus
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving coprinus extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Coprinus Comatus finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for coprinus comatus. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+coprinus comatus and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Coprinus Comatus has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of coprinus comatus into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[bloomfield-coprine-disulfiram-alcohol-reaction-coprinus-atramentarius]]
+- [[bloomfield-coprinus-ink-caps-deliquescence-coprine]]
+- [[coprinus-comatus-cultivation]]
+- [[coprinus-picaceus]]
+- [[stamets-cultivator-coprinus-comatus-shaggy-mane-cultivation]]

@@ -88,63 +88,11 @@ forest, canopy trees include chestnut, walnut, pecan, oak, honey locust, and
 standard-sized fruit trees. Their role extends far beyond food production:
 they moderate microclimate for all layers beneath, reduce wind speed, transpire
 water to create humidity, and cycle minerals from deep subsoil to the surface
-through leaf [[dighton-pine-needle-litter-decomposition-fungal-succession]].
-
-Canopy design is fundamentally about light management. Too dense a canopy
-starves the understory; too open a canopy fails to create the sheltered
-microclimate that makes lower layers productive. The ideal canopy provides
-dappled shade, with enough gaps for fruit production in the lower tree layer
-while still moderating temperature extremes. This is achieved through species
-selection (open-canopied trees like honey locust and chestnut rather than dense
-shade trees like maple or beech), strategic pruning, and careful spacing
-calculated to the mature crown spread.
-
-In suburban settings, the canopy layer may be limited to one or two large
-trees, or eliminated entirely in favor of semi-dwarf fruit trees serving as
-both canopy and understory. The canopy tree should be positioned to shade
-the house from summer sun while allowing winter light through (if deciduous),
-providing wind protection, and creating microclimates suitable for the desired
-understory plants.
-
-### The Understory Tree Layer
-
-Below the canopy, the understory layer contains smaller fruit and nut trees
-typically 15 to 40 feet tall at maturity. This is where the bulk of fruit
-production often occurs, with apple, pear, plum, cherry, peach, apricot,
-persimmon, pawpaw, fig, mulberry, and Asian pear filling the space between
-canopy trees. In small gardens, understory trees may serve as the entire
-overstory.
-
-Shade tolerance varies significantly among understory species. Pawpaw is
-naturally an understory tree and thrives in partial shade. Persimmon tolerates
-moderate shade. Most stone fruits and citrus need substantial sun for good
-fruit production and should be positioned in canopy gaps or at the southern
-edge of the forest. Semi-dwarf rootstocks (M7 for apples, OHxF 333 for pears)
-keep trees manageable while still producing full-sized fruit.
-## See Also
-
-- [[forest-garden-seven-layers]] -- detailed layer-by-layer species lists
-- [[food-forest-design]] -- [[holmgren-permaculture-twelve-design-principles-framework]] and process
-- [[food-forest-plant-palette]] -- comprehensive species tables and case studies
+through leaf [[forest-garden-seven-layers]] -- detailed layer-by-layer species lists
+- [[holmgren-permaculture-twelve-design-principles-framework]] and process
 - [[food-forest-establishment]] -- establishment strategies and timeline
-- [[food-forest-layers-and-species]] -- species for USDA zones 7-8
-- food-forest-understory-plants -- understory species selection
 - [[canopy-layer-design-food-forests]] -- canopy management and light
-- [[backyard-food-forest-design]] -- small-space food forest design
 - [[gaia-garden-plant-guilds]] -- guild design from Toby Hemenway
-- [[fruit-tree-guild-roles]] -- the seven guild roles
-- [[companion-planting]] -- [[comparison-companion-planting-reference-vs-jadam-monoculture-critique]] principles
-- [[companion-planting-with-fungi]] -- fungal companions in food forests
-- [[comfrey-multifunctional-guild-plant]] -- the key mulch plant
-- permaculture-two-design-principles -- broader permaculture framework
-
-## References
-
-- Mollison, Bill. *Permaculture: A Designers' Manual*. Tagari Publications, 1988.
-- Hemenway, Toby. *Gaia's Garden: A Guide to Home-Scale Permaculture*. Chelsea Green, 2001.
-- Faires, Nicole. *The Ultimate Guide to [[comparison-natural-farming-vs-permaculture]] and [[natural-farming-sustainable-living-principles]]*. Skyhorse, 2016.
-- Hart, Robert. *Forest Gardening: Cultivating an Edible Landscape*. Chelsea Green, 1996.
-- Jacke, Dave, and Toensmeier, Eric. *Edible Forest Gardens*. Chelsea Green, 2005.
-- Fukuoka, Masanobu. *The Natural Way of Farming*. Japan Publications, 1985.
-- Stamets, Paul. *[[woodlovers-mycelium-running-pathway-technique]]*. Ten Speed Press, 2005.
+- [[companion-planting]] -- [[companion-planting-with-fungi]] -- fungal companions in food forests
+- [[comparison-natural-farming-vs-permaculture]] and [[woodlovers-mycelium-running-pathway-technique]]*. Ten Speed Press, 2005.
 - Holmgren, David. *Permaculture: Principles and Pathways Beyond Sustainability*. Holmgren Design Services, 2002.

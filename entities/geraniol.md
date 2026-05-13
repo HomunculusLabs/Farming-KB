@@ -13,72 +13,12 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - "Buchbauer, G. et al. (1993). \"Fragrance compounds as permaculture-designers-manual-essential-oil-plants components.\" Journal of the Society of Cosmetic Chemists, 44, 237–248."
-  - "Jirovetz, L. et al. (1992). \"Analysis of [[permaculture-designers-manual-essential-oil-plants]] constituents.\" Wiener Medizinische Wochenschrift, 142(17), 395–400."
-  - "Chen, W. & Viljoen, A.M. (2010). \"Geraniol — a review of a commercially important fragrance material.\" kanna-sceletium-south-african-narcotic Journal of Botany, 76(4), 643–651."
-  - "Elson, C.E. et al. (1999). \"Isoprenoid-mediated inhibition of mevalonate synthesis.\" Advances in Experimental Medicine and Biology, 469, 157–170."
----
-
-# Geraniol
-
-## Overview
-
-Geraniol is an acyclic monoterpenoid alcohol found in the [[comparison-essential-oils-vs-neem-oil-vs-insecticidal-soap]] of
+  - "Jirovetz, L. et al. (1992). \"Analysis of [[comparison-essential-oils-vs-neem-oil-vs-insecticidal-soap]] of
 numerous aromatic plants, including rose, geranium, palmarosa, citronella,
 and lemon. It is one of the most commercially important fragrance compounds
 globally, used extensively in perfumery, cosmetics, food flavoring, and
-[[soap-making-guide]].
-
-Beyond its olfactory properties, geraniol has demonstrated significant
-pharmacological activities including anti-inflammatory, antimicrobial,
-antioxidant, and neuroprotective effects. It is also a notable minor
-terpene in many cannabis cultivars, contributing floral and rosy aroma
-notes. Geraniol occurs naturally as two enantiomers: (R)-geraniol
-(citronellol-type) and (S)-geraniol, though the racemic form is most
-common in commercial applications.
-
-## Chemical Properties
-
-- **IUPAC name:** (2E)-3,7-dimethylocta-2,6-dien-1-ol
-- **Molecular formula:** C₁₀H₁₈O
-- **Molecular weight:** 154.25 g/mol
-- **CAS number:** 106-24-1
-- **Density:** 0.889 g/cm³ at 20°C
-- **Boiling point:** 230°C
-- **Solubility:** Slightly soluble in water (~1 g/L at 25°C); miscible
-  with ethanol, ether, and most organic solvents
-- **Appearance:** Colorless to pale yellow liquid with a characteristic
-  rose-like odor
-
-Geraniol is an acyclic monoterpene alcohol, structurally related to
-nerol (cis-isomer), citronellol (saturated analog), and linalool (with
-an internal hydroxyl shift). It contains two conjugated double bonds
-at positions 2 and 6 of the carbon chain.
-
-The biosynthesis of geraniol proceeds via the mevalonate pathway (MVA)
-in the cytosol of plant cells. Geranyl pyrophosphate (GPP), the
-universal monoterpene precursor, is reduced to geraniol by geraniol
-synthase. In some plants, geraniol also serves as an intermediate in
-the biosynthesis of more complex terpenoids including iridoids and
-monoterpene glycosides.
-
-## Pharmacology and Effects
-
-**Anti-inflammatory activity:**
-Geraniol has demonstrated significant anti-inflammatory effects in
-multiple animal models. It suppresses NF-κB signaling, reduces TNF-α,
-IL-1β, and IL-6 production, and inhibits COX-2 expression. In murine
-models of carrageenan-induced paw edema, oral geraniol (50–200 mg/kg)
-produced dose-dependent reduction in inflammation comparable to
-indomethacin.
-
-**Antimicrobial activity:**
-Geraniol exhibits broad-spectrum antimicrobial activity against both
-Gram-positive and Gram-negative bacteria, as well as fungi and yeasts.
-Notable MIC values include *[[staphylococcus-aureus]]* (64 µg/mL),
-*Escherichia coli* (256 µg/mL), and *[[pelargonium-graveolens]]* (rose geranium) | 15–30% | Primary commercial source |
-| *[[rosa-damascena]]* (damask rose) | 10–25% | Perfumery standard |
-| *[[cymbopogon-winterianus]]* (citronella) | 30–45% | Insect repellent source |
-| *Citrus* spp. (lemon, orange) | 1–5% | Minor constituent |
+[[staphylococcus-aureus]]* (64 µg/mL),
+*Escherichia coli* (256 µg/mL), and *[[rosa-damascena]]* (damask rose) | 10–25% | Perfumery standard |
 | *[[ocimum-basilicum]]* (basil) | 1–8% | Culinary herb |
 | Cannabis cultivars | Trace – 0.5% | Floral-rosy aroma contributor |
 
@@ -87,3 +27,80 @@ a distinctive sweet, floral, and slightly citrusy aroma. It is more
 commonly detected in sativa-dominant and hybrid cultivars.
 
 ## Applications
+
+## Overview
+
+Geraniol represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish geraniol
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving geraniol extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Geraniol finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for geraniol. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+geraniol and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Geraniol has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of geraniol into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.

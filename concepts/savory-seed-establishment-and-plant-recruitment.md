@@ -13,18 +13,12 @@ type: concept
 
 The establishment of new plants from seed is one of the most critical
 yet overlooked processes in rangeland management. Savory's observations
-reveal that [[cervantes-seed-production-storage]] is rarely the limiting factor -- the
-conditions for germination and establishment are the [[savory-weak-link-analysis]]. This
-understanding is essential to advancing plant succession and  community dynamics and reversing [[savory-woody-plant-encroachment-and-succession]]
-- [[savory-soil-surface-and-capping]] - Surface conditions preventing
-  establishment
-- [[savory-animal-impact-and-herd-effect]] and herd effect - Creating disturbance for
+reveal that [[savory-weak-link-analysis]]. This
+understanding is essential to advancing plant succession and  community dynamics and reversing [[savory-soil-surface-and-capping]] - Surface conditions preventing
   establishment
 - [[savory-partial-rest-and-algal-crusts]] and algal crusts - How rest prevents recruitment
 
 ## See Also
-
-- [[shamanic-recruitment-signs-and-training-practices]]
 
 - [[mollison-designers-plant-nursery-seedling-production]]
 ## Practical Applications

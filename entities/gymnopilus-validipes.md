@@ -11,9 +11,7 @@ type: entity
 # Gymnopilus validipes
 
 **Type:** Species (Fungus)
-**Category:** [[psilocin]] was not screened. The
-mild taste contrasts sharply with the extremely bitter flavor of
-[[gymnopilus-spectabilis-entity]].
+**Category:** [[gymnopilus-spectabilis-entity]].
 
 ## Relevance
 Gymnopilus validipes is one of the most commonly encountered
@@ -26,7 +24,6 @@ characteristic bitter taste of G. spectabilis, making identification
 more challenging.
 
 ## See Also
-- [[armillaria-mellea-entity]]
 - [[gymnopilus-purpuratus]]
 ## Practical Applications
 

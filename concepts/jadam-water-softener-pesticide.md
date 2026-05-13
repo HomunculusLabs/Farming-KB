@@ -13,12 +13,7 @@ type: concept
 ## Overview
 
 Water quality is the single most critical and often overlooked factor in
-[[jadam-natural-pesticide-institute-and-research]] effectiveness. JADAM has developed a dedicated water
-softener system that removes calcium, magnesium, and iron from water
-through ion-exchange resin, producing soft water that dramatically
-improves pesticide performance. Without soft water, even properly
-formulated JADAM pesticides will clot, leave marks on produce, and have
-greatly reduced [[comparison-pheromone-based-pest-control-vs-beneficial-insect-biocontrol]] capability. The JADAM water softener costs
+[[comparison-pheromone-based-pest-control-vs-beneficial-insect-biocontrol]] capability. The JADAM water softener costs
 approximately five dollars per month to operate and can process enough
 water for thirty spray applications per resin cycle.
 
@@ -27,8 +22,7 @@ water for thirty spray applications per resin cycle.
 ### Why Hard Water Undermines Pesticides
 
 Hard water containing high levels of calcium, magnesium, and iron
-interferes with the [[jadam-nutrient-management-wetting-agent-and-calcium]] that is essential to all pesticide
-function. When [[ultra-low-jadam-wetting-agent-jwa]] (JWA) is mixed with hard water, the
+interferes with the [[ultra-low-jadam-wetting-agent-jwa]] (JWA) is mixed with hard water, the
 solution becomes murky like milk and produces little to no foam. Foam
 is described as the key component of pesticide because it indicates
 proper wetting and coating ability. Without adequate foam, pesticide
@@ -117,8 +111,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[jadam-water-softener]]
 - [[jadam-water-quality-pesticide]]
-- [[jadam-rice-water-weevil-control]]
 - [[ultra-low-water-softening-for-pesticide-efficacy]]
 - [[jadam-water-soluble-calcium-preparation]]

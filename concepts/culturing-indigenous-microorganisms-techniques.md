@@ -8,13 +8,7 @@ type: concept
 
 Indigenous microorganism (IMO) culturing is a set of low-cost, locally adaptable biotechnology
 practices for harvesting and propagating beneficial microbes from natural environments. These
-techniques originate from Korean [[natural-farming-principles]] and have been widely adopted in
-tropical smallholder agriculture across Southeast Asia, particularly in the Philippines. The core
-premise is that every local ecosystem already harbors microbial populations well-suited to its
-climate, soil conditions, and crop species; culturing these indigenous strains is both cheaper
-and more effective than importing commercial laboratory inoculants.
-
-## [[lactic-acid-bacteria]] (LAB)
+techniques originate from Korean [[lactic-acid-bacteria]] (LAB)
 
 Lactic acid bacteria are among the most versatile and widely applied microorganisms in natural
 farming. They serve functions spanning animal husbandry, aquaculture, crop production, and
@@ -43,30 +37,7 @@ The standard protocol for isolating lactic acid bacteria proceeds in two ferment
 
 1. **Rice wash fermentation**: Collect the milky water from washing raw rice and fill a container
    to no more than 25–50% capacity, leaving a 50–75% air gap to support aerobic microbial
-   activity. Cover loosely and ferment for 5–7 days at [[jadam-ambient-temperature-principle]] of 20–25°C. During
-   this phase, wild lactic acid bacteria and other microbes proliferate in the nutrient-rich wash.
-
-2. **Milk fermentation**: Strain the fermented rice wash liquid, discarding the solids. Add ten
-   parts milk by volume (fresh whole milk is preferred, though skim milk or powdered milk are
-   acceptable substitutes). Ferment for an additional 5–7 days. The lactic acid bacteria consume
-   lactose and casein, causing the milk solids to coagulate and float to the surface while the
-   liquid beneath turns yellow. This yellow serum contains a high concentration of pure
-   *Lactobacillus* cultures.
-
-3. **Storage and preparation**: Extract the yellow serum and mix with an equal volume of crude
-   sugar or molasses as a preservative. Refined sugar must not be used, as it lacks the trace
-   minerals that support microbial viability during storage. The prepared stock can be kept at
-   room temperature for extended periods. For application, dilute the stock at a ratio of 1:20
-   using chlorine-free water only. Typical application rates are 2–4 tablespoons per gallon of
-   water.
-
-## Forest Beneficial Microorganisms
-
-Forest soils beneath mature, healthy trees contain exceptionally diverse microbial communities.
-To harvest these organisms, locate an old, robust tree surrounded by deep humus (approximately
-0.6 m to 1 m in depth). Bury a flat container of cooked white rice under the leaf litter and
-humus layer, close to the tree's root zone. Protect the container with metal netting to prevent
-disturbance by animals. After 2–10 days (depending on [[mushroom-growing-temperature-and-moisture]]), the rice will
+   activity. Cover loosely and ferment for 5–7 days at [[mushroom-growing-temperature-and-moisture]]), the rice will
 have colonized with fungi, yeasts, and bacteria from the forest soil.
 
 An alternative approach involves collecting litter, humus, and leaf mold directly from the site
@@ -119,15 +90,8 @@ applications.
 ## Feeding Microbes
 
 Cultured microorganisms require carbohydrate and sugar substrates as their principal food source
-to remain active after application. In [[natural-farming]] systems, these are supplemented with
-[[bionutrients-fermented-plant-extracts]] (FPJ), ginger-garlic nutrient preparations, brown rice vinegar, and
-[[fish-amino-acid]] solutions. These inputs provide not only energy but also trace minerals, amino
-acids, and growth cofactors that sustain diverse microbial populations in the soil and on plant
-surfaces.
-
-## Comparison to Commercial Inoculants
-
-Japanese commercial microbial inoculants, such as [[bokashi-composting-and-effective-microorganisms]] (EM), typically
+to remain active after application. In [[bionutrients-fermented-plant-extracts]] (FPJ), ginger-garlic nutrient preparations, brown rice vinegar, and
+[[bokashi-composting-and-effective-microorganisms]] (EM), typically
 contain a defined consortium of lactic acid bacteria, photosynthetic bacteria, yeasts,
 actinomycetes, and fermenting fungi in standardized proportions. While effective, these products
 carry recurring purchase costs and may contain strains not optimally adapted to local conditions.

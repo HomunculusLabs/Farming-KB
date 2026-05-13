@@ -12,11 +12,7 @@ Contamination is the single most common cause of failure in amateur mushroom cul
 
 ### What Is Contamination?
 
-In the context of mushroom cultivation, "contamination" refers to the growth of any organism other than the desired mushroom mycelium on the substrate. Since [[kh2po4-phosphate-supplementation-mushroom-substrates]] are designed to be nutrient-rich and moist, they are attractive environments for a wide range of competing microorganisms. Contaminants compete with mushroom mycelium for nutrients, may produce toxic metabolites, and can render entire crops unusable.
-
-### Why It Matters
-
-[[mycoremediation-mushroom-cultivation-contaminated-substrates]] cannot be salvaged. Once a contaminant organism is established in a substrate jar, it cannot be removed without destroying the jar's contents. This is because contaminants spread through the same substrate that the mushroom mycelium colonizes, and there is no way to selectively eliminate the contaminant without killing the desired mycelium. Prevention is therefore far more important than treatment.
+In the context of mushroom cultivation, "contamination" refers to the growth of any organism other than the desired mushroom mycelium on the substrate. Since [[mycoremediation-mushroom-cultivation-contaminated-substrates]] cannot be salvaged. Once a contaminant organism is established in a substrate jar, it cannot be removed without destroying the jar's contents. This is because contaminants spread through the same substrate that the mushroom mycelium colonizes, and there is no way to selectively eliminate the contaminant without killing the desired mycelium. Prevention is therefore far more important than treatment.
 
 ## Common Contaminants
 
@@ -32,9 +28,7 @@ In the context of mushroom cultivation, "contamination" refers to the growth of 
 
 ### Bacterial Contaminants
 
-**Wet spot / sour rot (Bacillus species):** Bacterial contamination often presents as a slimy, wet, or discolored area in the substrate. It may produce a sour or rotten odor. Bacterial contamination is more common when [[pf-tek-substrate-moisture-diagnosis-and-correction]] content is too high or when steam sterilization was insufficient. Unlike mold, bacterial contamination is not always visible from outside the jar — it may manifest as slowed or stalled mycelium growth.
-
-**Pseudomonas (bacterial blotch):** Primarily a problem during fruiting, causing brown, slimy spots on mushroom caps. More of a post-colonization issue than a [[substrate-contamination]].
+**Wet spot / sour rot (Bacillus species):** Bacterial contamination often presents as a slimy, wet, or discolored area in the substrate. It may produce a sour or rotten odor. Bacterial contamination is more common when [[substrate-contamination]].
 
 **Endospore-forming bacteria:** Some bacteria produce heat-resistant endospores that survive steam sterilization (but are killed by pressure cooking at 15 PSI). This is one of the main arguments for using a pressure cooker over steam sterilization.
 

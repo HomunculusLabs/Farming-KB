@@ -16,19 +16,15 @@ type: concept
 
 # Grain Spawn Generation
 
-Grain spawn is the bridge between the laboratory and the [[duggar-mushroom-growing-room-design]].
-It serves the purpose of boosting mycelium to a state of vigor, serving
-as the launching pad from which the mycelium is introduced into bulk
-substrates. The concept is simple: [[antimicrobial-compounds-mushroom-mycelium]] is grown on
+Grain spawn is the bridge between the laboratory and the [[antimicrobial-compounds-mushroom-mycelium]] is grown on
 sterilized grain inside jars, bags, or bottles, and once fully
 colonized, this grain is used to inoculate a much larger mass of the
-final [[pf-tek-maximum-fruiting-substrate-formula]]. The grain provides an ideal medium because
-each kernel becomes an individual [[inoculation-point-taping-technique-sterile-bag-inoculation-jarrold]], allowing rapid
+final [[inoculation-point-taping-technique-sterile-bag-inoculation-jarrold]], allowing rapid
 and thorough colonization of the target substrate.
 
 ## Choice of Grain
 
-[[bigwood-beug-miniculture-rye-grain-flush-variation-method]] is the most popular choice for [[spawn-production]].
+[[spawn-production]].
 Both achieve the goal of hydrating the grain to optimal moisture levels
 while rendering it free of competitors through sterilization.
 
@@ -42,20 +38,7 @@ free water collects at the bottom of the containers. Excess water
 promotes bacterial growth and anaerobic conditions that are
 detrimental to mycelium. After draining, the grain is loaded into
 sterilization containers, typically to about 2/3 of their volume to
-allow room for shaking during the [[mushroom-spawn-run-thermogenesis-cotter]].
-
-### Method 2: Dry Grain Plus Hot Water
-
-Dry grain is placed directly into jars or bags, and hot water is then
-added. The containers are sealed and sterilized. During sterilization,
-the grain absorbs the water. This method is simpler in terms of
-handling but requires careful measurement of the water-to-grain ratio
-to achieve proper hydration without excess free moisture. A common
-ratio is approximately 2 parts water to 1 part dry grain by volume.
-
-## Jar Preparation and Filtration
-
-Jars used for grain spawn must be fitted with [[mushroom-cultivation-jar-lid-management-loose-fit-vacuum-gas-exchange]] filters
+allow room for shaking during the [[mushroom-cultivation-jar-lid-management-loose-fit-vacuum-gas-exchange]] filters
 that allow the mycelium to breathe while excluding contaminant spores.
 A common design features a 1/3 to 1/2 inch hole in the lid, covered
 with a microporous filter disc. These filter discs allow the passage
@@ -118,8 +101,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[det]]
 - [[spore]]
-- [[mycelium]]
 - [[sterilization]]
 - [[mushroom-spawn-generation-limits]]

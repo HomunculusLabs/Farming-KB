@@ -12,12 +12,7 @@ type: comparison
 
 ## Overview
 
-Perlite and vermiculite are two of the most commonly used [[extreme-heat-preparedness]], but they
-serve very different functions in a growing medium.
-
-Understanding their distinct properties is essential for [[perlite-cannabis]] and [[comparison-perlite-cannabis-vs-vermiculite-cannabis]]
-
-- [[vermiculite-cannabis]] — Comprehensive vermiculite properties guide
+Perlite and vermiculite are two of the most commonly used [[perlite-cannabis]] and [[vermiculite-cannabis]] — Comprehensive vermiculite properties guide
 - [[mollison-designers-soil-ph-and-mineral-amendments]] — Overview of all common soil amendments
 ## Practical Applications
 

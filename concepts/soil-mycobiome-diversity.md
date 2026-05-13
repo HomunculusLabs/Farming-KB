@@ -25,47 +25,16 @@ microbial communities on Earth.
 
 The organic-rich upper layers harbor the highest fungal biomass and
 diversity. Saprotrophic fungi dominate, decomposing fresh leaf litter
-and woody debris. Plant pathogenic [[teaming-with-microbes-fungi-and-mycorrhizal-relationships]] fungi are
-concentrated near root zones. The majority of culturable soil fungi
-are recovered from these upper layers.
-
-### Subsurface Layers (B and C Horizons)
-
-Fungal biomass decreases with depth, but distinct communities persist.
-Endophytic fungi, some mycorrhizal associations, and oligotrophic
-species maintain activity at depths exceeding one meter. Dark septate
-endophytes (DSE) are particularly common in deeper mineral soils.
-
-## Major Taxonomic Groups
-
-### Ascomycota
-
-The largest phylum in most soil surveys, ascomycetes include diverse
-saprotrophs, pathogens, and endophytes. Common genera include
-*Penicillium*, *Aspergillus*, *Trichoderma*, *Fusarium*, and
-*Chaetomium*. Many produce prolific conidia adapted for aerial
-dispersal and soil survival.
-
-### Basidiomycota
-
-Though less frequently detected by DNA surveys due to primer biases,
-basidiomycetes are functionally dominant in many soils. Wood-decay,
-ectomycorrhizal, and litter decomposer species contribute the majority
-of fungal biomass in forest soils. Their extensive [[fungal-mycelial-networks-nutrient-translocation]]
+and woody debris. Plant pathogenic [[fungal-mycelial-networks-nutrient-translocation]]
 persist for months to years.
 
 ### Mucoromycota and Zoopagomycota
 
 Early-diverging lineages commonly found in soil include *Mucor*,
 *Rhizopus*, and *Mortierella*. *Mortierella* species are particularly
-abundant in agricultural soils and play [[dighton-fungal-roles-in-nutrient-cycling]] cycling.
-
-### Glomeromycotina
-
-[[comparison-soil-food-web-vs-arbuscular-mycorrhizal-fungi]] fungi (AMF) are ubiquitous, forming symbioses
+abundant in agricultural soils and play [[comparison-soil-food-web-vs-arbuscular-mycorrhizal-fungi]] fungi (AMF) are ubiquitous, forming symbioses
 with most terrestrial plants. Their diversity is strongly influenced
-by land use, plant [[core-endorhiza-bacterial-community-composition-cannabis]], and soil chemistry. See
-[[mycorrhizal-symbiosis-mechanisms]] for detailed coverage of AMF
+by land use, plant [[mycorrhizal-symbiosis-mechanisms]] for detailed coverage of AMF
 biology and function.
 
 ## Functional Guilds
@@ -88,3 +57,88 @@ biology and function.
   Acidic soils favor [[query-what-are-ectomycorrhizal-fungi-and-which-plants-do-they-associate-with]]; alkaline soils support
   greater saprotrophic diversity.
 - **Land use**: Agricultural intensification reduces fungal diversity,
+
+## Overview
+
+Soil Mycobiome Diversity represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish soil mycobiome diversity
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving soil extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Soil Mycobiome Diversity finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for soil mycobiome diversity. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+soil mycobiome diversity and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Soil Mycobiome Diversity has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of soil mycobiome diversity into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[cool-temperate-soil-characteristics]]
+- [[jeavons-soil-ph-testing-balancing]]
+- [[lowenfels-tilling-no-till-soil-health]]
+- [[query-what-are-the-best-indicator-plants-for-soil-health]]
+- [[query-what-is-the-best-soil-mix-for-growing-cannabis]]

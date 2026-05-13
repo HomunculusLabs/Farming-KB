@@ -5,7 +5,7 @@ sources: Harner (ed.), hallucinogens-and-shamanism-harner-anthology (1973), Ch. 
 related:
   - amazonian-ayahuasca-shamanism
   - tsentsak
-  - [[banisteriopsis-caapi]]
+  - banisteriopsis-caapi
 tags: [ethnobotany, shamanism, jivaro, ecuador, ayahuasca, natem, witchcraft]
 type: concept
 updated: 2026-04-26
@@ -15,14 +15,9 @@ updated: 2026-04-26
 
 ## The Jivaro Worldview
 
-The Jivaro Indians of the Ecuadorian Amazon believe that **witchcraft is the cause of the vast majority of illnesses and non-violent deaths**. The normal waking life is simply a "lie" or illusion, while the true forces that determine daily events are supernatural and can only be seen and manipulated with the aid of [[metzner-hallucinogenic-drugs-psychotherapy-shamanism]].
-
-## The Natem Drink
-
-The Jivaro hallucinogenic brew, called **natem**, is prepared from:
-- *[[ayahuasca-and-banisteriopsis-caapi]]* (Malpighiaceae)
+The Jivaro Indians of the Ecuadorian Amazon believe that **witchcraft is the cause of the vast majority of illnesses and non-violent deaths**. The normal waking life is simply a "lie" or illusion, while the true forces that determine daily events are supernatural and can only be seen and manipulated with the aid of [[ayahuasca-and-banisteriopsis-caapi]]* (Malpighiaceae)
 - Leaves of a similar vine, probably also *Banisteriopsis* sp.
-- Contains [[harmaline]], [[harmine]], d-tetrahydroharmine, and quite possibly DMT
+- Contains [[harmine]], d-tetrahydroharmine, and quite possibly DMT
 
 ## Shamanic Initiation
 
@@ -82,43 +77,6 @@ Jivaro shamans consume natem, tobacco juice, and **piripiri** (a local Cyperus s
 
 ## The High Proportion of Jivaro Shamans
 
-Among the Jivaro, approximately **one in four adult men** is a shaman -- a remarkably high proportion. Harner attributes this partly to the presence of the natem drink, which makes it possible for virtually anyone to achieve the trance state necessary for [[amazonian-boa-spirits-and-water-beings-in-shamanic-practice]]. Unlike cultures where shamanic ability is attributed to hereditary gift or exceptional spiritual sensitivity, the Jivaro system democratizes access to the supernatural through the chemical door of natem.
-
-## Supernatural Perception Under Natem
-
-> Under natem, the shaman sees into the patient's body "as though it were glass." This is not metaphor for the Jivaro -- they believe the normal waking world is a "lie" and that the supernatural world revealed by natem is the only true reality. The ability to perceive and manipulate tsentsak, the invisible projectiles of witchcraft, is the defining skill of both curing and bewitching shamans.
-
-## Practical Applications
-
-The principles and techniques discussed here have wide-ranging applications
-across multiple disciplines and contexts. Practitioners and researchers
-continue to explore new ways to integrate these concepts into modern practice,
-adapting traditional knowledge to contemporary challenges and opportunities.
-
-## Key Considerations
-
-Several important factors influence the effectiveness and outcomes described
-in this topic. Understanding these considerations helps practitioners make
-informed decisions and avoid common pitfalls. Environmental conditions,
-timing, and material selection all play critical roles.
-
-## Historical Context
-
-The historical development of this subject reflects centuries of accumulated
-knowledge and practical experience. From traditional methods passed down
-through generations to modern scientific approaches, the evolution continues
-to inform current best practices and research directions.
-
-## Common Challenges
-
-Practitioners frequently encounter several challenges when working with
-these concepts. Climate variability, resource limitations, and knowledge
-gaps can all affect outcomes. Addressing these challenges requires patience,
-observation, and a willingness to adapt approaches based on results.
-
-## See Also
-- [[shamanism]]
-- [[ayahuasca]]
+Among the Jivaro, approximately **one in four adult men** is a shaman -- a remarkably high proportion. Harner attributes this partly to the presence of the natem drink, which makes it possible for virtually anyone to achieve the trance state necessary for [[shamanism]]
 - [[harmine]]
-- [[tetrahydroharmine]]
 - [[det]]

@@ -10,25 +10,9 @@ tags: [pharmacology]
 
 # Ibogaine Pharmacology
 
-Ibogaine is the principal psychoactive [[aminopropyl-silica-gel-chromatography-indole-alkaloid-purification]] of Tabernanthe
-iboga, an African shrub central to the Bwiti religion of Gabon and
-Congo. As with other hallucinogens, especially teonanacatl (Psilocybe
-spp.) and [[iboga-plant]].
+Ibogaine is the principal psychoactive [[iboga-plant]].
 
-[[iboga-plant]] Bwiti tradition:
-
-- **Ceremonial dose**: Small amounts taken regularly during ceremonies
-  , producing mild stimulation and heightened awareness
-- **Initiation dose**: Roughly 10g of dried root powder induces a full
-   psychedelic effect, with visionary experiences lasting many hours
-- **Therapeutic dose (modern context)**: Typically 10-25 mg/kg of puri
-  fied ibogaine hydrochloride
-- **Fresh or dried roots** may be eaten pure or added to palm wine in 
-  traditional contexts
-
-## Toxicity and Safety
-
-Ibogaine has a narrow [[cannabis-therapeutic-index-overview]], and its use carries
+[[cannabis-therapeutic-index-overview]], and its use carries
 significant risks:
 
 - Severe nausea and vomiting are almost universal at therapeutic doses
@@ -36,36 +20,9 @@ significant risks:
   been documented
 - Ataxia and loss of motor coordination are common
 - Seizures in susceptible individuals
-- Death in extreme cases (documented in both [[mckenna-iboga-tabernanthe-ibogaine-fang-bwiti-initiation-cult]] contexts
-   and modern therapeutic settings)
-- The stimulant properties can mask the depth of intoxication, making 
-  dose management particularly challenging
+- Death in extreme cases (documented in both [[allegro-amanita-muscaria-properties-and-pharmacology]]
 
-These safety concerns have limited the clinical development of
-ibogaine despite its promising anti-addictive effects.
-
-## See Also
-
-- [[allegro-amanita-muscaria-properties-and-pharmacology]]
-
-See also: [[schultes-iboga-bwiti-cult]]
-## Practical Considerations
-
-When working with Ibogaine Pharmacology, several practical factors should be
-carefully considered to achieve optimal results. These include
-the specific conditions of the implementation context, available
-resources, timing requirements, and the interactions between this
-topic and other elements of the broader system. A holistic view
-that considers these interconnections produces better outcomes.
-
-Environmental conditions such as temperature, moisture, and
-seasonal patterns significantly influence results. Monitoring these
-variables and adapting practices accordingly is essential for success.
-The most effective practitioners develop keen observation skills and
-respond flexibly to changing conditions rather than following rigid
-protocols regardless of circumstances or local variation.
-
-[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
+See also: [[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -111,8 +68,83 @@ through generations to modern scientific approaches, the evolution continues
 to inform current best practices and research directions.
 
 ## See Also
-- [[ibogaine]]
 - [[doc]]
-- [[iboga]]
 - [[indole]]
 - [[amanita]]
+
+## Overview
+
+Ibogaine Pharmacology represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish ibogaine pharmacology
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving ibogaine extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Ibogaine Pharmacology finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for ibogaine pharmacology. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+ibogaine pharmacology and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Ibogaine Pharmacology has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of ibogaine pharmacology into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.

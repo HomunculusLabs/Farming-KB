@@ -15,8 +15,7 @@ tags:
   - culinary-herb
   - aromatic
   - essential-oil
-  - [[permaculture]]
-  - [[companion-planting]]
+  - companion-planting
   - temperate-climate
   - herbalism
   - edible
@@ -36,7 +35,7 @@ created: 2026-04-28
 
 Commonly known as apple mint or woolly mint, it is valued for its mild, sweet aroma with fruity notes reminiscent of green apple.
 
-The species is widely cultivated as a culinary herb, ornamental [[fukuoka-citrus-orchard-ground-cover-cultivation]], and medicinal plant across [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]] worldwide.
+The species is widely cultivated as a culinary herb, ornamental [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]] worldwide.
 
 Its vigorous spreading habit and tolerance of diverse conditions make it both a useful garden plant and a potential invader.
 
@@ -87,3 +86,7 @@ Seed-grown plants are variable and may not retain the desirable aromatic qualiti
 In the kitchen, the leaves are used fresh in salads, fruit salads, cold beverages, and as a garnish.
 
 The mild flavor makes it suitable for mint sauce, jelly, and herbal teas where a less assertive mint note is desired.
+
+## See Also
+
+- [[mentha-pulegium]]

@@ -108,13 +108,8 @@ Pieris japonica wood is dense and fine-grained but rarely used due to the shrub'
 
 ## See Also
 
-- [[kalmia-latifolia]]
 - [[rhododendron-maximum]]
-- [[kalmia-angustifolia]]
 - [[gaultheria-shallon]]
-- [[gaultheria-procumbens]]
 - [[mahonia-aquifolium]]
-- [[taxus-baccata]]
 - [[ilex-opaca]]
-- [[hydrangea-macrophylla]]
 - [[camellia-japonica]]

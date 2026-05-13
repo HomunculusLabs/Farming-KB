@@ -11,9 +11,7 @@ tags:
 sources:
   - "gardening-when-it-counts-steve-solomon"
 synopsis: >-
-  [[steve-solomon]]'s gradient approach to soil fertility provides a tiered
-  system for improving garden soil, from zero-input low-demand gardening
-  to high-fertility [[complete-organic-fertilizer-cof]] (COF) systems. Each step
+  complete-organic-fertilizer-cof (COF) systems. Each step
   up the gradient produces better results, allowing gardeners to match
   their effort and budget to expected yields.
 ---
@@ -22,12 +20,8 @@ synopsis: >-
 
 ## Philosophy
 
-Steve Solomon's gradient [[soil-fertility-building-gradient-solomon]] approach recognizes that gardeners have vastly
-different resources — some have little money to spend, others no access
-to manure or [[duggar-stable-manure-selection-compost-materials]], while some can afford any input. Rather
-than prescribing one approach, Solomon provides a sequence of gradient [[soil-fertility-building-gradient-solomon]]
-steps, each an improvement over the last, allowing gardeners to match
-their [[ingham-cover-crops-soil-biology]] investment to their situation.
+Steve Solomon's gradient [[duggar-stable-manure-selection-compost-materials]], while some can afford any input. Rather
+than prescribing one approach, Solomon provides a sequence of gradient [[ingham-cover-crops-soil-biology]] investment to their situation.
 
 ## Step 1: No Soil Improvers
 
@@ -87,3 +81,7 @@ separate zone with doubled inputs:
 - 2 inch layer of steer manure or finished compost
 - COF blended into the top few inches of soil
 - Additional COF placed in hills around large plants
+
+## See Also
+
+- [[soil-fertility-building-gradient-solomon]]

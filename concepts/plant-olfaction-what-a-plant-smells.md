@@ -11,11 +11,8 @@ type: concept
 # Plant Olfaction: What a Plant Smells
 
 Plants possess a sophisticated ability to detect volatile chemicals in their
-environment, a capacity that [[plant-vision-and-phototropism]]
-- [[plant-response-to-sound-and-vibration]]
+environment, a capacity that [[plant-response-to-sound-and-vibration]]
 - plant communication
-- [[fungal-volatile-organic-compounds-communication]] compounds in ecology
-- tritrophic interactions
 - [[fungal-chemical-signaling]]
 ## Background and Context
 

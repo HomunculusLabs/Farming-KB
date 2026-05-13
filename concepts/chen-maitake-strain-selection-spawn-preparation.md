@@ -12,8 +12,7 @@ type: concept
 # Strain Selection and Spawn Preparation for Maitake Cultivation
 
 Strain selection is the single most critical decision before starting
-[[chen-maitake-primordia-initiation-fruiting]] spp.) or reishi
-([[grifola-frondosa]] strains do not fruit well, if at
+[[grifola-frondosa]] strains do not fruit well, if at
 all. Ninety percent of strains from culture collections and wild isolates
 tested by reputable growers fail to produce well-formed fruiting bodies.
 
@@ -25,52 +24,19 @@ strains in:
 
 - **Growth rate**: Strains with a spawn run of 30 days before primordia
   initiation are considered fast-growing; many require 60 to 90 days or
-  more of [[brassinosteroid-psilocybe-cubensis-mycelial-growth-research]] and maturation.
-- **Yield**: [[liquid-inoculation-alternative-spawn-media]].
+  more of [[liquid-inoculation-alternative-spawn-media]].
 
 ### 2. Grain Spawn
 A variety of grains can serve as the spawn substrate, including millet,
 rye, wheat, sorghum, and milo. Millet-based spawn has been shown
 effective; increasing the amount from a few grams to 500 g per substrate
 bag can shorten the spawn run to approximately one week. See
-[[mushroom-cultivation-grain-spawn]].
-
-### 3. Sawdust Spawn
-Supplemented sawdust-bran substrates are usually the choice for
 [[growing-gourmet-plug-spawn-production]].
 
 ## Spawn Sources and Suppliers
 
 Growers can obtain ready-to-fruit blocks (colonized synthetic logs) or
-spawn for self-inoculation. Notable [[growing-gourmet-north-american-reishi-species]] suppliers listed in
-the paper include:
-
-- **Fungi Perfecti** (Olympia, WA) - the most widely referenced supplier
-- **Field and Forest Products** (Peshtigo, WI)
-- **Mushroom People** (Summertown, TN)
-- **Mushroom Factory** (Theodosia, MO)
-- **Skunk Bay Mushroom Farm** (Hansville, WA)
-- **Wylie Mycologicals** (Wiarton, Ontario, Canada)
-- **Hanson Family Cedaridge Farm** (Estacada, OR)
-- **Western Biologicals** (Aldergrove, BC, Canada)
-- **Lambert Spawn Company** (Coatesville, PA)
-- **Phillip Mushroom Farm** (Kennett Square, PA)
-
-The leading US grower, Franklin Mushroom Farms, does not sell spawn.
-See also growing-gourmet-home-spawn-vs-commercial-spawn.
-
-## Cultivation Bags
-
-Specially designed polypropylene bags with microfilter windows for
-breathing are essential. Unicorn Imp. and Mfg. Corp. (Commerce, TX) is
-the supplier referenced in the paper. Key considerations:
-
-- Use large-bore bags (not narrow and long) for good aeration.
-- Do not fill bags to the rim; leave ample air space above the
-  substrate for oxygen and air exchange.
-- Coarser sawdust or wood chips must not puncture the bag.
-- Heat-sealed bags with microfilters are used for spawn run and
-  [[chen-maitake-primordia-initiation-fruiting]].
+spawn for self-inoculation. Notable [[chen-maitake-primordia-initiation-fruiting]].
 
 ## Shortening the Spawn Run
 
@@ -86,7 +52,7 @@ run characteristic of maitake:
 5. Ensure good substrate aeration with a fine-to-coarse sawdust ratio
   of 3:1 and proper moisture content.
 
-See also [[mushroom-spawn-making-detailed]] for general [[growing-gourmet-sawdust-spawn-production-use]]
+See also [[growing-gourmet-sawdust-spawn-production-use]]
 principles applicable to maitake.
 
 ## Practical Applications
@@ -118,8 +84,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[spawn-preparation]]
 - [[maitake-cultivation]]
-- [[det]]
 - [[brassinosteroid]]
 - [[chen-maitake-growth-parameters-environmental-control]]

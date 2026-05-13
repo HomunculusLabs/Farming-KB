@@ -1,6 +1,6 @@
 ---
 title: "Salvia salvia divinorum and salvinorin a A"
-subtitle: "The ethnobotany, pharmacology, and [[shroom-cultural-history-hippie-revolution-and-counterculture]] of diviner's sage."
+subtitle: "The ethnobotany, pharmacology, and shroom-cultural-history-hippie-revolution-and-counterculture of diviner's sage."
 tags: [salvia, salvinorin, ethnobotany, psychedelics, mazatec, pharmacology]
 date: 2026-04-28
 updated: 2026-04-28
@@ -53,29 +53,7 @@ interpretation, and prayerful inquiry. Understanding salvia requires holding
 both worlds together without reducing either to the other.
 
 Because salvinorin A can produce intense dissociation within seconds when
-vaporized, salvia is not a casual intoxicant. Its [[savory-short-duration-grazing-and-cell-systems]] does not make
-it simple. The plant invites a broader discussion of potency, route of
-administration, cultural translation, conservation, and the ethics of studying
-sacred plants.
-
-## Botany and restricted distribution
-
-Salvia divinorum belongs to the Lamiaceae, the mint family, whose members
-typically have square stems, opposite leaves, and aromatic chemistry. Unlike
-culinary sage, basil, or mint, this species is not valued for flavor but for
-the visionary properties of its leaves.
-
-The plant is a soft perennial herb that may reach a meter or more in height
-under humid shade. Its leaves are large, ovate, and finely toothed, often with
-a delicate texture that wilts quickly after harvest. The stems root easily at
-nodes, which explains why cuttings are the normal method of propagation.
-
-Reports from Oaxaca describe the plant growing in shaded ravines, stream
-edges, and moist mountain sites between roughly a few hundred and more than a
-thousand meters of elevation. It prefers filtered light, steady moisture, and
-protection from drying winds.
-
-One of the enduring puzzles of the species is its weak [[fungal-life-cycles-sexual-reproduction-metamorphosis]].
+vaporized, salvia is not a casual intoxicant. Its [[fungal-life-cycles-sexual-reproduction-metamorphosis]].
 Flowers are uncommon in cultivation, viable seed is rare, and many cultivated
 plants appear to descend from a narrow range of clones. Named strains such as
 Wasson Hofmann and Blosser are propagated vegetatively around the world.
@@ -109,21 +87,7 @@ used when mushrooms are unavailable, but that description can be misleading if
 it implies inferiority. The plant has its own protocols, voices, and
 diagnostic uses.
 
-[[kava-traditional-preparation-ceremonial-context]] emphasizes fresh leaves. Leaves may be chewed slowly
-as a quid, or crushed on a metate, diluted with water, filtered, and drunk.
-These methods absorb the active compound through oral tissues or the digestive
-tract rather than delivering a sudden pulmonary dose.
-
-The ritual setting is quiet and dark. Accounts from the Mazatec region
-describe healers using prayer, chanting, and seclusion to ask questions about
-illness, theft, family conflict, or spiritual imbalance. The value of the
-experience lies not in spectacle but in information, interpretation, and
-relationship.
-
-Albert Hofmann's account of receiving expressed leaf juice during a ceremony
-with Maria Sabina helped bring the plant to scientific attention. He
-encountered salvia as part of a broader Mexican search for sacred plant
-knowledge that also involved [[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]] and ololiuhqui seeds.
+[[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]] and ololiuhqui seeds.
 
 That history is ethically complicated. Scientific documentation preserved
 valuable knowledge and led to chemical discovery, yet publicity also
@@ -133,11 +97,8 @@ extraction are intertwined.
 ## See Also
 
 - salvia divinorum and salvinorin a
-- [[salvia-divinorum-profile]]
 - [[salvia-divinorum]]
-- [[salvinorin-pharmacology]]
 - [[salvinorin-reference]]
-- [[hofmann-salvia-divinorum-discovery]]
 - [[schultes-salvia-diviners-sage]]
 - [[plants-of-the-gods-salvia-divinorum-diviners-sage]]
 

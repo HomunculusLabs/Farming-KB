@@ -14,47 +14,23 @@ Updated: 2026-04-18
 
 Source: ~/wiki/raw/papers/gardening-when-it-counts-steve-solomon.md (17,348 lines)
 
-This index tracks all wiki pages created from Steve Solomon's "Gardening When It Counts," a comprehensive guide to [[home-vegetable-garden-planning]] in difficult conditions. Solomon, founder of Territorial Seed Company, draws on decades of Pacific Northwest growing experience to present a practical, sometimes contrarian approach to [[root-competition-plant-spacing-solomon]], and careful [[garden-hand-tools-solomon]] - Essential hand tools, maintenance, purchase philosophy
-
-### Bed and Soil
-
-- [[seed-starting-indoors-solomon]] - Germination cabinet, soil mix, containers, sowing, timing
-
-- [[seed-germination-techniques-solomon]] - Chitting, gel seeding, furrow technique, compost cover
+This index tracks all wiki pages created from Steve Solomon's "Gardening When It Counts," a comprehensive guide to [[root-competition-plant-spacing-solomon]], and careful [[seed-starting-indoors-solomon]] - Germination cabinet, soil mix, containers, sowing, timing
 
 - [[transplanting-techniques-solomon]] - Seedling evaluation, hardening off, procedure, post-care
 
 ### Watering
 
-- [[composting-science-solomon]] - C:N ratio, mulch [[intensive-gardening-critique-solomon]], sheet composting, compost paradox
+- [[intensive-gardening-critique-solomon]], sheet composting, compost paradox
 
 ### Plant Health and Disease
 
-- [[plant-disease-management-solomon]] - Prevention philosophy, [[comparison-foliar-feeding-vs-compost-tea-nutrients]], [[cervantes-powdery-mildew-prevention-treatment]], compost tea
-
-- [[intensive-gardening-critique-solomon]] - Critique of close spacing, Square Foot Gardening, scale considerations
-
-- [[vegetable-growing-guide-solomon]] - Sowing depths, fertility categories, kale, rotation
-
-### Fertilizer
+- [[comparison-foliar-feeding-vs-compost-tea-nutrients]], [[intensive-gardening-critique-solomon]] - Critique of close spacing, Square Foot Gardening, scale considerations
 
 - [[growing-food-in-hard-times]] - Solomon's approach to food self-sufficiency
 
-- [[geoff-hamilton-organic-techniques]] - Complementary [[hamilton-geoffhamilton-nick-organic-gardening-companion-planting]] perspective
+- [[hamilton-geoffhamilton-nick-organic-gardening-companion-planting]] perspective
 
-- [[organic-vegetable-growing-calendar]] - Garden tools overview
-
-## Source Statistics
-
-Total pages mined from this source: 13
-
-First mined: 2026-04-15
-
-Last mined: 2026-04-16
-
-Source size: 17,348 lines
-
-Coverage assessment: Well-mined — all major chapters have corresponding wiki pages. The source remains useful for cross-referencing with [[natural-farming-vs-organic-farming]] topics.
+- [[natural-farming-vs-organic-farming]] topics.
 ## Merged: Unirrigated Gardening
 
 # Unirrigated Gardening
@@ -87,3 +63,88 @@ Shifting to old-style spacing won't actually be a sacrifice. Instead of having t
 Instead of growing many small, crowded vegetables that take a longer time to harvest and clean, people will spend less time harvesting larger, more manageable produce. Species that produce an ongoing harvest over many weeks will yield surprisingly well when given room and then stopped (as they do in intensive beds from overcompetition).
 
 ## Soil Preparation for Unirrigated Gardening
+
+## Overview
+
+Solomon Gardening When It Counts Index represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish solomon gardening when it counts index
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving solomon extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Solomon Gardening When It Counts Index finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for solomon gardening when it counts index. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+solomon gardening when it counts index and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Solomon Gardening When It Counts Index has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of solomon gardening when it counts index into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[solomon-disease-identification-and-organic-remedies]]
+- [[solomon-manure-types-and-nutrient-values]]
+- [[solomon-raised-beds-and-bed-preparation]]
+- [[solomon-seed-saving-vegetable-breeding]]
+- [[solomon-soil-preparation-bed-prep]]

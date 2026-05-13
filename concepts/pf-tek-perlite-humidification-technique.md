@@ -13,7 +13,7 @@ type: concept
 
 ## Overview
 
-The perlite humidification technique is an alternative [[stamets-cultivator-humidity-management-fogging-systems]] method for [[ectomycorrhizal-mushroom-fruiting-ecology]] chambers that uses a layer of wetted perlite to create and maintain high humidity conditions. Originally described as an anonymous internet newsgroup posting, this low tech approach gained rapid popularity among cultivators for its simplicity and effectiveness. When used in conjunction with the PF dual [[dual-chambered-terrarium-design]], perlite humidification can eliminate the need for frequent manual spraying while maintaining optimal [[fruiting-conditions]].
+The perlite humidification technique is an alternative [[ectomycorrhizal-mushroom-fruiting-ecology]] chambers that uses a layer of wetted perlite to create and maintain high humidity conditions. Originally described as an anonymous internet newsgroup posting, this low tech approach gained rapid popularity among cultivators for its simplicity and effectiveness. When used in conjunction with the PF dual [[fruiting-conditions]].
 
 ## What Is Perlite
 
@@ -25,12 +25,7 @@ Perlite is a bright white, lightweight volcanic glass that has been expanded thr
 
 The perlite humidification process relies on several physical properties of the material:
 
-- Perlite absorbs water into its porous structure through [[capillary-action-in-soils]]
-- Gravity keeps the bulk water at the bottom of the perlite layer
-- Water moves through the porous structure and evaporates gradually into the air above
-- The evaporation occurs slowly over an extended period (estimated at weeks)
-
-Unlike its sister material vermiculite, perlite does not actually absorb and hold water internally in the same way. Instead, water is drawn into the pore spaces and held by [[bloomfield-buller-drop-surface-tension-spore-catapult-basidiospore-discharge]], then released through evaporation at a steady, controlled rate. This gradual release is what makes perlite ideal for humidification: it provides consistent moisture without oversaturation.
+- Perlite absorbs water into its porous structure through [[bloomfield-buller-drop-surface-tension-spore-catapult-basidiospore-discharge]], then released through evaporation at a steady, controlled rate. This gradual release is what makes perlite ideal for humidification: it provides consistent moisture without oversaturation.
 
 ### The Water Layer Dynamic
 
@@ -41,7 +36,7 @@ Within a perlite layer, water distributes itself with gravity pulling the bulk o
 ### Required Materials
 
 - Horticultural perlite (available at plant shops)
-- A suitable [[comparison-laminar-flow-hood-vs-fruiting-chamber]] (the PF [[dual-chambered-terrarium]] works well)
+- A suitable [[dual-chambered-terrarium]] works well)
 - Clean water (distilled or filtered preferred)
 - Mushroom cakes ready for fruiting
 

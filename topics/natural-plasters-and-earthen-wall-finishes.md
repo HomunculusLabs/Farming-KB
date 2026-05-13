@@ -28,9 +28,7 @@ Natural plasters are wall coatings made from earth, lime, gypsum, or other minim
 
 ## Overview and Historical Context
 
-Plaster has served as the primary protective and decorative finish for earthen, stone, and masonry buildings across every inhabited continent. From the lime plasters of ancient Roman villas to the clay finishes of West African adobe architecture, these materials were refined over millennia to suit local climates and available materials. The industrial revolution and the rise of Portland cement displaced many of these traditions in the 20th century, but a resurgence of interest in [[natural-building-materials-guide]] since the 1990s has revived and modernized plastering techniques.
-
-Natural plasters are valued in contemporary sustainable construction for their low embodied energy, breathability (vapor permeability), aesthetic warmth, and the fact that they can be made from on-site subsoil. They are essential companions to natural wall systems such as cob, [[straw-bale-construction]], [[comparison-light-straw-clay-vs-hempcrete]] clay, [[rammed-earth]], and adobe, all of which require a breathable finish to manage moisture.
+Plaster has served as the primary protective and decorative finish for earthen, stone, and masonry buildings across every inhabited continent. From the lime plasters of ancient Roman villas to the clay finishes of West African adobe architecture, these materials were refined over millennia to suit local climates and available materials. The industrial revolution and the rise of Portland cement displaced many of these traditions in the 20th century, but a resurgence of interest in [[straw-bale-construction]], [[rammed-earth]], and adobe, all of which require a breathable finish to manage moisture.
 
 ## Categories of Natural Plaster
 
@@ -45,24 +43,7 @@ Clay plasters are the simplest and most accessible natural finish. They are comp
 - **Water**: Added to achieve a workable consistency (like thick brownie batter for base coats)
 
 **Advantages:**
-- Extremely [[jadam-ultra-low-cost-agriculture]] when clay is sourced on-site
-- Fully breathable (high vapor permeability)
-- Easy to repair and patch
-- Can be tinted with natural pigments
-- Zero toxicity during application and throughout lifespan
-- Absorbs and releases humidity, moderating indoor climate
-- Can be applied by unskilled workers with minimal training
-
-**Limitations:**
-- Not water-resistant; unsuitable for exterior exposure in wet climates without additional protection
-- Softer than lime or cement plasters; more susceptible to abrasion damage
-- Requires protection from direct rain splash
-- Shorter lifespan on exterior surfaces in harsh climates
-- Can be dusty if not sealed with a clay wash or natural sealant
-
-### Lime Plasters
-
-Lime plasters use [[cervantes-hydrated-lime-quicklime-ph-adjustment]] (calcium hydroxide) as the binder, combined with sand aggregate. As the plaster cures, the lime undergoes carbonation — reacting with atmospheric carbon dioxide to form calcium carbonate (limestone), creating a hard, durable surface.
+- Extremely [[cervantes-hydrated-lime-quicklime-ph-adjustment]] (calcium hydroxide) as the binder, combined with sand aggregate. As the plaster cures, the lime undergoes carbonation — reacting with atmospheric carbon dioxide to form calcium carbonate (limestone), creating a hard, durable surface.
 
 **Types of Lime:**
 - **Type S hydrated lime**: Most common for plaster; available at building supply stores
@@ -106,11 +87,7 @@ Gypsum (calcium sulfate dihydrate) plasters set through crystallization when mix
 - Smooth final surfaces for painting or wallpapering
 - Commonly available as "gauging plaster" or "Keenes cement"
 
-**Note for natural builders:** Gypsum is generally avoided on exterior surfaces and on [[comparison-cob-construction-vs-straw-bale-construction]] walls because it is susceptible to moisture damage and can trap water. It is best reserved for interior use in dry conditions.
-
-### Tadelakt
-
-Tadelakt is a traditional Moroccan lime plaster technique that produces a waterproof, polished surface. It uses a specific lime (lime putty from the Marrakech region, though similar results can be achieved with other fat limes), fine marble sand, and black [[staycare-fungal-treatment-of-olive-oil-mill-wastewater]] soap, which is burnished with a stone to create a seamless, water-resistant finish.
+**Note for natural builders:** Gypsum is generally avoided on exterior surfaces and on [[staycare-fungal-treatment-of-olive-oil-mill-wastewater]] soap, which is burnished with a stone to create a seamless, water-resistant finish.
 
 **Process:**
 1. Apply 2–3 coats of lime plaster with increasing fineness

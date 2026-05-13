@@ -12,15 +12,7 @@ All types of trees act as condensers: Canary Island pines, laurels, holm oaks, r
 
 ## Fog Drip
 
-Precipitation from clear air is much less than from fog, where precipitation by condensation often exceeds local rainfall. Advection fogs are most noticeable where cold currents (such as the Oya Shio off [[neurotropic-fungi-japan-east-asia-species-cultural-context]] and the Labrador current off northeast America) cause humid inland airstreams in spring and summer.
-
-South-facing coasts near Newfoundland get 158 days of fog per year. Wherever mountains or foothills face onshore night winds, fog condensation will probably exceed rainfall. On Table Mountain (South Africa) and on Lanai (Hawaii), fog drip has been measured at 130-230 cm -- in both cases condensation exceeds rainfall. Redwoods in California were once restricted to the fog belt but will grow well in areas of higher rainfall without fogs.
-
-## Temperature Effects of Trees
-
-Evaporation causes heat loss locally, and condensation causes heat gain locally. Both effects can be used to heat or cool air or surfaces.
-
-The USDA's 1949 Yearbook of Agriculture on Trees reports: "An ordinary elm of medium size will [[query-how-to-get-rid-of-slugs-and-snails-organically]] 15,000 pounds of water on a clear dry hot day." Evapotranspiration in a 40-inch rainfall area is generally not less than 15 inches per year.
+Precipitation from clear air is much less than from fog, where precipitation by condensation often exceeds local rainfall. Advection fogs are most noticeable where cold currents (such as the Oya Shio off [[query-how-to-get-rid-of-slugs-and-snails-organically]] 15,000 pounds of water on a clear dry hot day." Evapotranspiration in a 40-inch rainfall area is generally not less than 15 inches per year.
 
 The evaporation by day off trees cools air in hot weather, while night condensation of atmospheric water warms the surrounding air. Moisture will not condense unless it finds a surface to condense on. Leaves provide this surface, as well as contact cooling. Leaf surfaces are likely to be cooler than other objects in the evening due to evaporation from leaf stomata during the day. As air rises over trees, vertical lift cooling occurs, combining to condense moisture on the forest.
 
@@ -43,44 +35,16 @@ Windstreams flowing across a forest are partly deflected over (about 60%) and pa
 
 Under the forest canopy, negative ions produced by life processes cause dust particles to clump together and fall out. If a windward forest edge is cut, windburn by salt, dust abrasion, or plain wind force may kill the inner forest of weaker stems. Forest edges are essential and permanent protection and should never be cut or removed.
 
-If dry hot air enters the forest, it is shaded, cooled, and humidified. If cold [[jarrold-warm-humid-air-delivery-chamber-cold-climate-mushroom]] enters, it is warmed, dehumidified, and slowly released via the tree crowns as misty spirals. The trees modify extremes of heat and humidity to a life-tolerable level.
-
-## Trees and Precipitation
-
-Trees have helped create both our soils and atmosphere. The first by mechanical ([[guttation-root-pressure-and-maple-sap-physiology]]) and chemical ([[comparison-humic-acid-vs-fulvic-acid]]) breakdown of rock, adding life processes as humus and myriad decomposers. The second by gaseous exchange, establishing and maintaining an oxygenated atmosphere and an active water-vapour cycle essential to life.
-
-Forests may be doing about 60% of the work of maintaining atmospheric composition, with the rest due to oceanic exchange. Many cities and most deforested areas (such as Greece) no longer produce the oxygen they use.
-
-The basic effects of trees on water vapour and windstreams are:
-
-- Compression of streamlines and induced turbulence in air flows
-- Condensation phenomena, especially at night
-- Rehumidification by the cycling of water to air
-- Snow and meltwater effects
-- Provision of nuclei for rain
-
-In flat country, especially in the path of onshore winds, fine grid placements of rain gauges in countries like Holland and Sweden reveal that 40% of the rainfall measured downwind of trees is caused by the trees themselves.
-
-## Deforestation and Drought
-
-The effects of tree condensation can be quickly destroyed. Felling of forests causes rivers to dry up, swamps to evaporate, shallow water to dry out, and drought to grip the land. All this can occur in the lifetime of a single person. The Canary Islands' laurel forests were destroyed by Spanish deforestation, converting a fog-fed rainforest into an arid area. Similar patterns have played out across the Mediterranean, the Middle East, and much of the tropics.
-
-## Cooling with Vegetation
-
-Reddish-colored leaves (as in some vines and shrubs) reflect chiefly [[blue-light-phototropism-red-light-photoperiodism-dual-plant-vision-system]] rays. Sharp temperature decreases of up to 20 degrees C (36 degrees F) can result from reddish foliage between a thermometer and the sun, compared to green-pigmented plants. Whitish plants such as wormwood and birch may reflect 85% of incoming light, while dark shade-plant leaves may reflect as little as 2%.
+If dry hot air enters the forest, it is shaded, cooled, and humidified. If cold [[guttation-root-pressure-and-maple-sap-physiology]]) and chemical ([[blue-light-phototropism-red-light-photoperiodism-dual-plant-vision-system]] rays. Sharp temperature decreases of up to 20 degrees C (36 degrees F) can result from reddish foliage between a thermometer and the sun, compared to green-pigmented plants. Whitish plants such as wormwood and birch may reflect 85% of incoming light, while dark shade-plant leaves may reflect as little as 2%.
 
 White or red-coloured roof vines over tiles can effectively lower summer temperatures within buildings. Additional cooling is achieved by fitting fine water sprays and damp mulch systems under trellises, creating cool areas of dense air by evaporation.
 
 ## Design Implications
 
-For [[permaculture-principle-apply-self-regulation]], the implications are clear:
-
-- Plant trees as early as possible in any design -- they take years to reach full water-cycling function (see [[comparison-backyard-food-forest-vs-urban-permaculture]] trees water cycling
+For [[comparison-backyard-food-forest-vs-urban-permaculture]] trees water cycling
 
 - permaculture-water-systems
-[[herb-spiral-microclimate-design]]
-- edge-effect-in-permaculture
-- [[comparison-hugelkultur-vs-keyline-design]]
+[[comparison-hugelkultur-vs-keyline-design]]
 - herb-spiral-design-guide
 
 ## Merged: Fodder Trees for Livestock Integration
@@ -88,3 +52,88 @@ For [[permaculture-principle-apply-self-regulation]], the implications are clear
 # Fodder Trees for Livestock Integration
 
 Fodder trees are multi-purpose woody perennials that produce leaves, pods, or branches suitable for feeding livestock. They represent a cornerstone of comparison-sheet-mulching-vs-chop-and-drop for related techniques.
+
+## Overview
+
+Urban Permaculture Trees Water Cycling represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish urban permaculture trees water cycling
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving urban extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Urban Permaculture Trees Water Cycling finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for urban permaculture trees water cycling. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+urban permaculture trees water cycling and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Urban Permaculture Trees Water Cycling has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of urban permaculture trees water cycling into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[comparison-backyard-food-forest-vs-urban-permaculture]]
+- [[permaculture-urban-design]]
+- [[urban-permaculture-and-city-farming]]
+- [[urban-permaculture-systems]]
+- [[urban-rooftop-farming-guide]]

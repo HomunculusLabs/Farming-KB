@@ -8,7 +8,7 @@ type: concept
 
 ## Overview
 
-Soil pollution from agricultural chemicals, industrial waste, and urban contamination represents one of the [[query-which-legumes-fix-the-most-nitrogen-for-gardens-and-farms|most]] persistent and difficult environmental challenges. [[bill-mollison]] documents the extent of soil contamination from conventional agriculture and provides practical strategies for assessment and remediation.
+Soil pollution from agricultural chemicals, industrial waste, and urban contamination represents one of the [[bill-mollison]] documents the extent of soil contamination from conventional agriculture and provides practical strategies for assessment and remediation.
 
 ## Sources of Agricultural Soil Pollution
 
@@ -18,13 +18,13 @@ Orchards, sugarcane areas, pineapple, cotton, tobacco, and banana plantations ha
 
 - **Mineral additives** — excessive synthetic fertilizers
 - **Arsenicals** — arsenic-based sprays and treatments
-- **Organochlorine pesticides** — [[aldrin]], DDT, [[dieldrin]], BHC
+- **Organochlorine pesticides** — [[dieldrin]], BHC
 - **Copper salts** — fungicide accumulation
 - **Dioxins** — persistent organic pollutants from various chemical applications
 
 ### Persistence of Contaminants
 
-The persistence of these chemicals is remarkable. Even after **18–20 years of no chemical use**, apple orchards in Western Australia produced unsafe levels of Aldrin and Dieldrin in the eggs of free-range chickens. Attempts to grow prawns in ponds on such lands failed due to residual Dieldrin levels in soils.
+The persistence of these chemicals is remarkable. Even after **18–20 years of no chemical use**, apple orchards in Western Australia produced unsafe levels of [[aldrin]] and Dieldrin in the eggs of free-range chickens. Attempts to grow prawns in ponds on such lands failed due to residual Dieldrin levels in soils.
 
 ## Specific Pollutants and Their Behavior
 
@@ -71,47 +71,7 @@ The persistence of these chemicals is remarkable. Even after **18–20 years of 
 - Excess copper causes **toxaemic jaundice** (liver poisoning) and blood in urine
 - People in Australian deserts often show high copper blood levels and blood in urine
 
-**Buffers:** Molybdenum, zinc, and sulphur may buffer copper uptake in sheep. [[query-how-to-make-and-use-plant-based-foliar-sprays-for-pest-and-disease-prevention|Plant]] uptake of lead and copper increases with temperature and acidity. Arsenic uptake is not related to acidity.
-
-### Groundwater Contamination
-
-Groundwater beneath farms can contain **80–90 biocidal substances** derived from fertilizers, sprays, and fuels. Near industrial waste dumps, additional contaminants include:
-
-- **Dioxins** — from industrial processes
-- **Radioactives** — from nuclear facilities and waste dumps
-- **Heavy metals** — cadmium, chromium, mercury
-
-**Guidelines:**
-
-- Do not use untested wells or bore waters for any purpose
-- Drink tank water (rainwater harvested from roofs)
-- Harvest surface runoff for gardens
-- Several decades may be needed to clear most aquifers of pollutants
-
-## Radioactive and Industrial Contamination
-
-### Long-Term Lock-Up Periods
-
-- **Tens of years** for heavy metal contamination
-- **Thousands of years** for radioactive materials from:
-
-  - Waste dumps and strategic stockpiles of yellowcake uranium (Iowa, Kentucky, Russia, UK, France)
-  - Nuclear power plant accidents
-  - Nuclear waste storage
-
-### Other Industrial Contaminants
-
-- **Cadmium and uranium-polluted soils** from chemically based, heavily-fertilized market gardens
-- **Nitrate-polluted soil waters** from excessive nitrogen fertilizer application
-- **Roadway contamination** — soils within 100 meters of roadways where 800–1,000 cars pass daily (leaded petrol) may be unsafe for food production
-
-## Economic Reality of Remediation
-
-The costs of rehabilitation already far outstrip the profits of degradation. For areas developed for farming from **1950 to the present** (the age of agricultural pollution), rehabilitation costs may be prohibitive.
-
-Applied health standards would close down many farms and factories. As public awareness rises, this will increasingly happen through public demand.
-
-## Human [[soil-pollution-and-human-nutrition|Nutrition]] and Soil Health Connection
+**Buffers:** Molybdenum, zinc, and sulphur may buffer copper uptake in sheep. [[soil-pollution-and-human-nutrition|Nutrition]] and Soil Health Connection
 
 ### Four Broad Principles
 

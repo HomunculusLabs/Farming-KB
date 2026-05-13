@@ -11,11 +11,7 @@ type: entity
 # Cannabigerol (CBG)
 
 **Type:** Chemical / Phytocannabinoid
-**Category:** Minor [[blesching-cannabis-cannabinoid-terpene-entourage-effect]] (biosynthetic precursor)
-**Also known as:** CBG, cannabigerol
-
-## Overview
-Cannabigerol (CBG) is a phytocannabinoid found in [[cannabis-indica]]. It is often called the "mother cannabinoid" or
+**Category:** Minor [[cannabis-indica]]. It is often called the "mother cannabinoid" or
 "stem cell cannabinoid" because it serves as the biosynthetic precursor
 from which all other major cannabinoids are synthesized. In the living
 cannabis plant, CBGA (cannabigerolic acid) is enzymatically converted
@@ -33,10 +29,7 @@ only trace amounts (usually less than 1%) in most cannabis strains.
 - CBGA converts to THCA, CBDA, and CBCA via plant enzymes
 
 ### Receptor Affinity
-CBG demonstrates dual [[tihkal-receptor-binding-serotonin]], engaging both CB1 and CB2
-cannabinoid receptors. This broad receptor affinity distinguishes it
-from CBD (which preferentially targets CB2) and makes it potentially
-useful for conditions requiring both neurological and [[cancer-immune-modulation-mechanisms]].
+CBG demonstrates dual [[cancer-immune-modulation-mechanisms]].
 
 ### Therapeutic Applications
 - **Anti-cancer:** Tested alongside CBD, CBC, CBD-acid, and THC-acid in
@@ -52,11 +45,7 @@ useful for conditions requiring both neurological and [[cancer-immune-modulation
 - **Depression:** Tested among cannabinoids evaluated for antidepressant
   properties, with its dual CB1/CB2 binding suggesting potential
   mood-modulating effects.
-- **[[cannabis-and-colon-cancer-research]]:** CBG-acid (CBGA) was found to inhibit colon cancer
-  cell proliferation in laboratory settings.
-
-### Biosynthetic Pathway
-CBGA is the central precursor in cannabis [[cannabis-trichome-development-cannabinoid-biosynthesis-sites]]:
+- **[[cannabis-trichome-development-cannabinoid-biosynthesis-sites]]:
 1. Geranyl pyrophosphate + olivetolic acid yield CBGA
 2. THCA synthase converts CBGA to THCA (then THC)
 3. CBDA synthase converts CBGA to CBDA (then CBD)
@@ -79,13 +68,83 @@ interest in "minor cannabinoids" has positioned CBG as a promising
 target for breeders and researchers. Its antibacterial properties
 against MRSA are particularly noteworthy given the global antibiotic
 resistance crisis. CBG-rich cannabis strains represent an emerging area
-of medical [[query-how-does-no-till-cannabis-cultivation-work]].
+of medical [[cannabigerol]]
 
-## See Also
-
-- [[cannabigerol]]
-
-- [[tetrahydrocannabinol]]
 - [[cannabichromene-cbc]]
 - [[cannabinol-cbn]]
 - cannabigerolic acid (CBGA)
+
+## Overview
+
+Cannabigerol Cbg represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish cannabigerol cbg
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving cannabigerol extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Cannabigerol Cbg finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for cannabigerol cbg. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+cannabigerol cbg and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Cannabigerol Cbg has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of cannabigerol cbg into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and

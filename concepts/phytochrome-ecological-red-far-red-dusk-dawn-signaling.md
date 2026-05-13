@@ -1,10 +1,10 @@
 # Phytochrome Ecological Signaling: Red and Far-Red Light at Dusk and Dawn
 
 Phytochrome serves as the primary photoreceptor mediating plant responses to red and
-far-red light. Its ecological function is elegantly attuned to the natural light
+far-red light. Its [[bloomfield-fungal-fruiting-body-morphology-ecological-function]] is elegantly attuned to the natural light
 transitions that occur at dawn and dusk, functioning as a biological switch that
 allows plants to measure the length of continuous darkness and regulate critical
-developmental processes including flowering, seed germination, and shade avoidance.
+developmental processes including flowering, seed germination, [[phototropism-and-shade-avoidance]].
 
 ## The Red-Far-Reversible Switch
 
@@ -20,13 +20,13 @@ made by Harry Borthwick and colleagues at the US Department of Agriculture in th
 early 1950s. If irises (long-day plants) are given a shot of red light in the middle
 of the night, they produce flowers. But if far-red light is shone on them immediately
 after the red pulse, the effect is nullified as if they never saw the red light at
-all. A subsequent red pulse reactivates the flowering response, and another far-red
+all. A subsequent red pulse reactivates the [[mollison-designers-day-length-and-flowering-response]], and another far-red
 pulse cancels it again. This alternating pattern can be repeated indefinitely, with
 only a few seconds of either color being sufficient to toggle the state.
 
 ## Ecological Logic of Dusk and Dawn
 
-In nature, this toggle mechanism has clear ecological significance. The last light
+In nature, this toggle mechanism has clear [[lichen-biology-and-ecological-significance]]. The last light
 any plant perceives at the end of the day is dominated by far-red wavelengths, which
 tells the plant it should "turn off" its active phytochrome state. In the morning,
 the incoming sunlight is rich in red light, which activates phytochrome and signals
@@ -56,13 +56,13 @@ of kind.
 
 Understanding phytochrome's ecological role has direct practical applications.
 Growers can manipulate flowering by controlling the red-far-red environment.
-Chrysanthemum farmers, for example, use photoperiod manipulation to delay flowering
+Chrysanthemum farmers, for example, use [[chrysanthemum-greenhouse-photoperiod-manipulation]] to delay flowering
 until just before Mother's Day. During autumn and winter, greenhouse lights are
 turned on for a few minutes each night to interrupt the long dark period, keeping
 the plants vegetative. Two weeks before the desired harvest date, the night
 interruption is stopped, and all plants flower simultaneously.
 
-The same principle applies to cannabis cultivation, where photoperiod control is
+The same principle applies to [[arbuscular-mycorrhizal-fungi-cannabis-cultivation]], where photoperiod control is
 essential for transitioning between vegetative growth and flowering. Indoor growers
 use timers to maintain specific dark periods (typically 12 hours) to trigger and
 sustain flowering in photoperiod-sensitive cultivars. The red-far-red dynamics of
@@ -122,8 +122,6 @@ favorable for seedling establishment.
 
 ## See Also
 
-- [[blue-light-phototropism-red-light-photoperiodism-dual-plant-vision-system]]
 - [[borthwick-far-red-reversal-photoperiodic-discovery]]
-- [[chamovitz-phytochrome-mobile-signal-leaf-to-flowering]]
 - [[chamovitz-maryland-mammoth-photoperiodism-discovery]]
 - [[photoperiodism-garner-allard-discovery]]

@@ -20,50 +20,12 @@ created: 2026-05-11
 Geomycology is the study of fungal interactions with minerals and geological
 substrates — encompassing the roles fungi play in mineral weathering,
 biomineralization, element solubilization and immobilization, and the
-transformation of [[staycare-fungal-biomethylation-of-metals-and-metalloids]]. As described by Gadd, Burford,
-Fomina, and Melville in *Fungi in the Environment*, fungi are major agents
-of biogeochemical cycling, with geomycological processes occurring in
-virtually all terrestrial and many aquatic environments. Fungi can comprise
-the largest pool of biomass in soil, exceeding that of other microorganisms
-and invertebrates, making their geological activities ecologically
-significant on a global scale.
-
-## Mineral Weathering
-
-Fungi weather minerals through several interconnected mechanisms:
-
-### Biochemical Weathering
-Fungi secrete organic acids (oxalic, citric, gluconic) that chelate and
-dissolve mineral cations. Low-molecular-weight organic acids are
-particularly effective at solubilizing phosphorus from insoluble mineral
-phosphates, calcium from carbonate rocks, and iron and aluminum from
-silicate minerals. Oxalic acid is the most commonly produced fungal acid
-and can form stable complexes with calcium, iron, and aluminum.
-
-### Biomechanical Weathering
-Hyphal penetration into rocks and minerals exerts physical pressure as
-hyphae grow into cracks, pores, and crystal boundaries. The combination
-of [[bloomfield-turgor-pressure-and-hyphal-invasion]] hyphal tip extension can wedge apart mineral
+transformation of [[bloomfield-turgor-pressure-and-hyphal-invasion]] hyphal tip extension can wedge apart mineral
 grains and expand fractures, increasing surface area for chemical
 attack.
 
 ### Extracellular Enzymatic Action
-Fungi produce [[fungal-extracellular-enzymes]] including phosphatases, lignin
-peroxidases, manganese peroxidases, and laccases that break down complex
-mineral-organic associations and liberate bound nutrients.
-
-### Indirect Effects Through Organic Matter Decomposition
-By decomposing organic matter, fungi produce CO2 and organic acids that
-lower soil pH and increase mineral solubility. This creates positive
-feedback loops: decomposition produces acids that weather minerals,
-releasing nutrients that support further decomposition.
-
-## Biomineralization
-
-Fungi don't only dissolve minerals — they also precipitate them:
-
-### Oxalate Biomineralization
-[[fungal-oxalate-secretion-and-mineral-dissolution]] leads to precipitation of calcium oxalate
+Fungi produce [[fungal-oxalate-secretion-and-mineral-dissolution]] leads to precipitation of calcium oxalate
 crystals (whewellite and weddellite) in and around mycelium. These
 crystals can persist long after the fungus dies, contributing to soil
 calcium pools and affecting soil structure. Calcium oxalate accounts
@@ -140,7 +102,6 @@ and bioleaching of valuable metals from low-grade ores.
 
 ## See Also
 
-- [[mycelial-nutrient-translocation]]
 - [[soil-foodweb-biology]]
 
 ## References

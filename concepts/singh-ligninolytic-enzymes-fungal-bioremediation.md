@@ -16,13 +16,7 @@ Source: Harbhajan Singh, Mycoremediation: Fungal Bioremediation (2006), Chapter 
 
 ## Overview
 
-Ligninolytic enzymes are the primary enzymatic arsenal that white-rot and litter-decomposing fungi deploy to degrade lignin and a vast array of xenobiotic pollutants. These enzymes include lignin peroxidase (LiP), [[fungal-manganese-peroxidase-remediation]] (MnP), laccase, and hydrogen peroxide-generating enzymes. Their nonspecific oxidative mechanisms make them uniquely suited for bioremediation of recalcitrant [[fungal-volatile-organic-compounds-communication]]. See also [[brown-rot-and-white-rot-fungi-in-mycoremediation]], fungal-ecology-mycoremediation.
-
-## White-Rot Fungi Classification by Enzyme Profile
-
-Hatakka (1994) classified white-rot fungi into three major categories based on enzyme production patterns:
-
-1. **Lignin-Manganese Peroxidase Group** (e.g., [[staycare-phanerochaete-chrysosporium-in-bioremediation]], Phlebia radiata) -- produces LiP and MnP
+Ligninolytic enzymes are the primary enzymatic arsenal that white-rot and litter-decomposing fungi deploy to degrade lignin and a vast array of xenobiotic pollutants. These enzymes include lignin peroxidase (LiP), [[fungal-volatile-organic-compounds-communication]]. See also [[staycare-phanerochaete-chrysosporium-in-bioremediation]], Phlebia radiata) -- produces LiP and MnP
 2. **Manganese Peroxidase-Laccase Group** (e.g., Dichomitus squalens, Rigidoporus lignosus) -- produces MnP and laccase
 3. **Lignin Peroxidase-Laccase Group** (e.g., Phlebia ochraceofulva, Junghuhnia separabilima) -- produces LiP and laccase
 

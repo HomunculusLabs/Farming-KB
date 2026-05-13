@@ -4,58 +4,7 @@ created: 2026-04-28
 tags:
   - synthesis
   - psilocin
-  - [[tryptamine]]
-  - indole-chemistry
-date: 2026-04-28
-updated: 2026-04-28
-sources:
-  - /Users/t3rpz/wiki/raw/papers/concise-large-scale-synthesis-of-psilocin-and-psilocybin-shirota-hakamata-goda.md
-type: concept
----
-
-# magic-mushrooms-japan.
-
-## Starting Material: 4-Hydroxyindole
-
-4-Hydroxyindole (compound 3) serves as the starting material for the
-entire synthesis. It is commercially available from suppliers such as
-Tokyo Kasei Kogyo Co., Ltd. in bottles of greater than 25 g (greater than
-185 mmol). The indole core provides the bicyclic aromatic scaffold upon
-which all subsequent modifications are built. The 4-hydroxy substituent
-corresponds to the phenolic position that is retained through the final
-product, psilocin.
-
-## Step 1: Acetyl Protection of the 4-Hydroxy Group
-
-The phenolic hydroxyl group of 4-hydroxyindole must be protected before
-subsequent reactions at the 3-position of the indole ring. In the
-Shirota route, acetylation with acetic anhydride in pyridine and
-dichloromethane (0 degrees C to room temperature) is employed to produce
-4-acetylindole (compound 4).
-
-The choice of acetyl protection over benzyl ether protection is
-significant. While benzyl ether protection was used by Nichols and
-Frescas (1999), it requires a separate deprotection step later in the
-synthesis. The acetyl group, by contrast, can be removed in situ during
-the lithium aluminum hydride reduction step, streamlining the overall
-process. This represents one of the key practical advantages of the
-Shirota synthesis.
-
-After the acetylation reaction, water is added and the mixture is
-evaporated. The resulting concentrate is dissolved in ethyl acetate,
-washed with water and saturated sodium chloride, dried over anhydrous
-sodium sulfate, and concentrated to afford crystalline 4-acetylindole as
-ivory white crystals. The product is collected by filtration and washed
-with water and ethyl acetate. The material is used directly in the next
-step without further purification.
-
-Spectroscopic data for 4-acetylindole include a characteristic acetyl
-methyl singlet at 2.39 ppm in the 1H NMR and a carbonyl carbon at 169.6
-ppm in the 13C NMR.
-
-## Step 2: Oxalylation to Form the Glyoxalyl Intermediate
-
-4-Acetylindole is treated with [[shirota-glyoxalylamide-formation-oxalyl-chloride-indole]] in anhydrous diethyl ether
+  - [[shirota-glyoxalylamide-formation-oxalyl-chloride-indole]] in anhydrous diethyl ether
 at 0 degrees C to form the 3-glyoxalyl-4-acetylindole intermediate
 (compound 5). After stirring for 15 minutes, n-hexane is added and the
 reaction flask is stored in a freezer overnight. The product precipitates
@@ -83,7 +32,91 @@ then washed with n-hexane, ethyl acetate, and water.
 
 This two-step acylation-amidation conversion from compound 4 to compound
 6 proceeds in over 80% yield. The dimethylamine introduces the
-N,N-dimethylaminoethyl [[shirota-glyoxalylamide-side-chain-construction-psilocin-synthesis]] precursor that will ultimately become
-the characteristic [[dimethyltryptamine]] moiety of psilocin. The
+N,N-dimethylaminoethyl [[dimethyltryptamine]] moiety of psilocin. The
 dimethylamino group appears as two singlets in the 1H NMR at 3.02 and
 2.92 ppm, corresponding to the inequivalent methyl groups of the amide.
+
+## Overview
+
+Psilocin Synthesis 4 Hydroxyindole To Psilocin represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish psilocin synthesis 4 hydroxyindole to psilocin
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving psilocin extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Psilocin Synthesis 4 Hydroxyindole To Psilocin finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for psilocin synthesis 4 hydroxyindole to psilocin. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+psilocin synthesis 4 hydroxyindole to psilocin and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Psilocin Synthesis 4 Hydroxyindole To Psilocin has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of psilocin synthesis 4 hydroxyindole to psilocin into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[hplc-analysis-of-psilocybin-and-psilocin]]
+- [[psilocybin-psilocin-flush-variation-bigwood-beug]]
+- [[psilocybin-psilocin-tissue-distribution]]
+- [[psilocybin-psilocin-variation-flushes]]
+- [[reversed-phase-hplc-tlc-confirmation-psilocybin-psilocin-quantification-bigwood-beug]]

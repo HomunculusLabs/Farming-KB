@@ -1,37 +1,7 @@
 ---
 title: Mckenna Food Gods Shamanism Techniques Of Ecstasy Mircea Eliade
 source: mckenna_t-food_of_the_gods.md
-topic: "Shamanism as the original human religion and its suppression by [[archaic-revival-partnership-vs-dominator-cultures]]"
-type: concept
-tags:
-  - shamanism
-  - eliade
-  - ecstasy
-  - ayahuasca
-  - peyote
-  - psilocybin
-  - iboga
-  - amanita-muscaria
-  - altered-states
-  - archaic-revival
-  - indigenous-religion
-  - monotheism
----
-
-# Shamanism: Techniques of Ecstasy
-
-## The Original Religion
-
-Shamanism is, by any reasonable archaeological or anthropological
-measure, the oldest form of human religious practice. Long before the
-development of agriculture, writing, cities, or the great organized
-religions, human communities maintained relationships with the unseen
-world through individuals who could deliberately enter altered states
-of consciousness and return with knowledge, healing, and guidance.
-These individuals are what we call **shamans** — a term derived from
-the Tungus word *saman*, meaning "one who knows." In *Food of the
-Gods*, Terence McKenna argues that shamanism is not merely a
-historical curiosity but the foundational [[powell-ancient-entheogenic-cults-and-the-religious-impulse]] of the
+topic: "Shamanism as the original human religion and its suppression by [[powell-ancient-entheogenic-cults-and-the-religious-impulse]] of the
 human species, one that predates and underlies all subsequent
 spiritual traditions.
 
@@ -70,9 +40,7 @@ rather than being a cultural invention.
 
 McKenna places psychoactive plants at the center of shamanic
 tradition. The ethnographic record is unambiguous: the majority of
-the world's shamanic cultures employ [[cultural-evolution-and-psychoactive-substances]] as
-primary tools for entering ecstatic states. In the Amazon, **ayahuasca**
-(*Banisteriopsis caapi*, combined with *[[chacruna-psychotria-viridis]]*) serves as
+the world's shamanic cultures employ [[chacruna-psychotria-viridis]]*) serves as
 the central sacrament. In North America, **peyote** (*Lophophora
 williamsii*) has been used for millennia. In Mesoamerica, **psilocybin
 mushrooms** formed the basis of the mushroom cults. In West Africa,
@@ -132,17 +100,5 @@ structures that organized religion supports.
 
 McKenna's concept of the **"archaic revival"** refers to the
 rediscovery of shamanic ways of knowing in contemporary culture. He
-saw in the psychedelic renaissance of the [[coleman-louis-savier-twentieth-century-maraicher]] — from
-Wasson's discovery to the counterculture to the revival of ayahuasca
-ceremonies — evidence that the shamanic impulse was reasserting
-itself. The archaic revival is not a regression but a recovery of a
-technology of consciousness that modern civilization had lost. For
-McKenna, returning to shamanic ways of knowing was not a rejection
-of science but a necessary complement — an acknowledgment that the
-rational, empirical worldview was incomplete without the dimensions
-of experience that shamanic practice reveals.
-
-## See Also
-
-- [[mckenna-food-gods-wasson-revelation-magic-mushroom-discovery-mazatec]]
+saw in the psychedelic renaissance of the [[mckenna-food-gods-wasson-revelation-magic-mushroom-discovery-mazatec]]
 - [[mckenna-food-gods-habit-culture-religion-obsession-vs-ecstasy]]

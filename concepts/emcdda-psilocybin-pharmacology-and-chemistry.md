@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# [[psilocin]]. Two further tryptamines, [[norbaeocystin]], could also be present but are thought to be less active
+# [[norbaeocystin]], could also be present but are thought to be less active
 than the former two.
 
 Psilocybin and psilocin are chemically classified as indolealkylamines
@@ -79,18 +79,8 @@ called "psychotomimetic" (resembling psychosis), "psychodysleptic"
 
 ## Potency and Variation
 
-[[pf-tek-mushroom-potency-and-age-relationship]] depends on the species or variety used, their origin,
-growing conditions, and age. The most potent species (e.g. *Psilocybe
-semilanceata*) could contain up to 1% psilocybin, with some higher
-potency reported in specific species (e.g. *[[psilocybe-bohemica]]*). In other species (*[[psilocybin-pharmacology-and-serotonin-receptors]]
-
-- [[emcdda-psilocybin-non-addictive-profile-tolerance-dynamics]] for species
+[[psilocybe-bohemica]]*). In other species (*[[emcdda-psilocybin-non-addictive-profile-tolerance-dynamics]] for species
   that contain these active compounds
-- [[emcdda-hallucinogenic-mushroom-health-risks]] for toxicity data
-  and health consequences
-
-## See Also
-
 - [[click-chemistry]]
 
 ## Practical Applications
@@ -122,8 +112,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[psilocybin]]
 - [[psilocybin-psilocin-chemistry-and-pharmacology-emcdda]]
-- [[psilocin]]
 - [[mescaline]]
 - [[baeocystin]]

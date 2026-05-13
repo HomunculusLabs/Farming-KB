@@ -20,11 +20,7 @@ sources:
 
 ## Overview
 
-In his 1983 Esalen lecture, [[terence-mckenna]] articulated one of his most
-radical visions: the future exteriorization of the human soul as a
-"superconducting lens of translinguistic matter."
-
-This concept, drawn from [[leary-psychedelic-experience-bardo-mapping]], proposes that human
+In his 1983 Esalen lecture, [[leary-psychedelic-experience-bardo-mapping]], proposes that human
 consciousness will eventually transcend biological embodiment through a
 critical transformation at what McKenna called a "psychedelic Bar
 Mitzvah."
@@ -39,11 +35,7 @@ McKenna used the term "translinguistic matter" to describe a substance or
 medium that lies beyond ordinary language but carries meaning. In the DMT
 state, he reported encountering objects that are "feeling-toned, meaning-
 toned, three-dimensional rotating complexes of transforming light and
-color" — [[mckenna-translinguistic-objects-cognitive-dissonance-tryptamine]] that convey information that "cannot be
-Englished." McKenna proposed that language may be merely a shadow or
-lower-dimensional projection of this deeper translinguistic capacity.
-
-The [[dmt-black-hole-effect-and-ineffability-of-tryptamine-experience]] suggests that human beings possess a latent
+color" — [[dmt-black-hole-effect-and-ineffability-of-tryptamine-experience]] suggests that human beings possess a latent
 ability to perceive and generate meaning directly in three-dimensional
 space, without the intermediary of spoken or written language.
 
@@ -88,3 +80,11 @@ McKenna proposed that language is not merely a human tool but a
 self-replicating information system with its own evolutionary trajectory.
 
 He compared language to DNA, noting that both involve "learning, coding,
+
+## See Also
+
+- [[mckenna-mushroom-teonanacatl-franciscan-theophagy-and-oaxaca-survival]]
+- [[mckenna-i-thou-ethics-entity-encounter]]
+- [[mckenna-ergot-and-witches-sabbath-theory]]
+- [[mckenna-eleusinian-mysteries]]
+- [[mckenna-vegetable-mind-and-gaian-holism]]

@@ -11,10 +11,7 @@ type: query
 # What Are Cannabis Terpenes and Why Do They Matter?
 
 ## Short Answer
-Terpenes are aromatic [[fungal-volatile-organic-compounds-communication]] produced by cannabis and many other
-plants that give each strain its unique smell, flavor, and therapeutic
-character. Beyond sensory qualities, terpenes interact with cannabinoids
-like THC and CBD to modify their effects through the [[cannabis-terpene-entourage-effect-profiles]],
+Terpenes are aromatic [[cannabis-terpene-entourage-effect-profiles]],
 meaning the terpene profile of a strain is just as important as its
 cannabinoid content in determining the overall experience and potential
 medical benefits.
@@ -24,24 +21,14 @@ Terpenes are the largest class of naturally occurring compounds in the plant
 kingdom, with over 20,000 identified across all plant species and more than
 100 found specifically in cannabis. They are produced in the same glandular
 trichomes that synthesize cannabinoids, making the two classes of compounds
-inextricably linked in the cannabis plant. The [[cannabis-terpene-entourage-effect]] page explains the research behind this
-phenomenon and how terpenes interact with the endocannabinoid system.
-
-Beyond terpenes, cannabis also produces [[cannabis-trichome-guide]] glands, which are
+inextricably linked in the cannabis plant. The [[cannabis-trichome-guide]] glands, which are
 the tiny crystal-like structures visible on well-grown cannabis flowers.
 Trichome density and maturity directly affect terpene content. Harvesting
 too early results in underdeveloped terpenes and a grassy or hay-like aroma,
 while harvesting too late can cause terpene degradation through oxidation.
-Proper [[cannabis-harvest-timing-visual-cues]] based on trichome observation is essential for
-maximizing terpene expression.
-
-Growing conditions significantly influence terpene production. Factors that
-enhance terpene expression include moderate environmental stress during late
-flowering (such as slight temperature drops or controlled water stress),
-proper [[green-cannabis-grow-bible-nutrient-management-ppm]] with adequate sulfur and magnesium, and the use
+Proper [[green-cannabis-grow-bible-nutrient-management-ppm]] with adequate sulfur and magnesium, and the use
 of full-spectrum light sources that include ultraviolet wavelengths.
-Interestingly, the [[query-what-are-endophytic-fungi-and-why-do-they-matter]] Questions
-- [[query-how-to-identify-and-fix-cannabis-iron-deficiency]]
+Interestingly, the [[query-how-to-identify-and-fix-cannabis-iron-deficiency]]
 ## Practical Considerations
 
 When working with What Are Cannabis Terpenes and Why Do They Matter?, several practical factors should be

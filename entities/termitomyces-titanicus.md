@@ -46,7 +46,7 @@ The pileus (cap) is convex to planar, reaching 40–100 cm in diameter, making i
 
 The stipe is central, robust, and extends deeply into the termite mound via a long rooting structure (pseudorhiza) that can reach 50–80 cm below ground. This rooting stipe is diagnostic for the genus.
 
-Gills are free, crowded, and white, darkening to pinkish-brown with spore maturity. The spore print is pinkish. Spores are ellipsoidal, smooth, 7–9 × 5–6 µm, inamyloid.
+Gills are free, crowded, and white, darkening to pinkish-brown with spore maturity. The [[spore-print]] is pinkish. Spores are ellipsoidal, smooth, 7–9 × 5–6 µm, inamyloid.
 
 ## Distribution and Habitat
 
@@ -60,21 +60,7 @@ Fruiting occurs at the onset of rainy seasons, triggered by heavy rainfall and h
 
 True cultivation of T. titanicus outside its termite symbiosis has proven extremely difficult. The fungus depends on the termite gut passage for initial inoculation and continuous comb management for sustained growth.
 
-Attempts at axenic culture have achieved [[brassinosteroid-psilocybe-cubensis-mycelial-growth-research]] on artificial media, but fruiting has not been reliably induced without termite workers. The specific chemical and physical conditions of the comb — pH, [[edaphic-factors-microbial-community-structure]], and [[fungal-volatile-organic-compounds-communication]] compounds — appear essential.
-
-Some research groups have developed partial in-vitro systems using sterilized comb material as substrate, achieving limited fruiting. Commercial cultivation remains unfeasible as of 2026.
-
-## Ecological Role
-
-T. titanicus plays a central role in the mutualistic symbiosis between Termitomyces fungi and fungus-growing termites. The fungus decomposes lignocellulose in the termite comb, converting plant material into nutrient-dense fungal nodules (conidia) that termites consume.
-
-This symbiosis enables Macrotermes species to dominate as primary decomposers in tropical ecosystems, processing up to 30% of annual net primary productivity in some African savannas. The termite-fungus mutualism is considered an analog to human agriculture.
-
-The genetic monoculture maintained within each colony (single Termitomyces strain per nest) is unusual among fungi and may be maintained by termites actively excluding competing molds.
-
-## Nutritional and Culinary Use
-
-T. titanicus is widely harvested as a premium [[bloomfield-boletus-satanus-edible-mushroom-hazards]] across its range. It is typically sliced and sun-dried for preservation, though fresh specimens are consumed when available.
+Attempts at axenic culture have achieved [[edaphic-factors-microbial-community-structure]], and [[bloomfield-boletus-satanus-edible-mushroom-hazards]] across its range. It is typically sliced and sun-dried for preservation, though fresh specimens are consumed when available.
 
 Nutritional analysis of related Termitomyces species shows high protein content (25–35% dry weight), significant mineral content (especially potassium, phosphorus, and zinc), and favorable amino acid profiles including all essential amino acids.
 
@@ -82,9 +68,83 @@ In traditional medicine across West Africa, Termitomyces species are used to tre
 
 ## Related Species
 
-- **Termitomyces clypeatus** — Similar size, Asian distribution, associated with Odontotermes termites
+- **[[termitomyces-clypeatus]]** — Similar size, Asian distribution, associated with Odontotermes termites
 - **Termitomyces eurhizus** — Smaller but widespread across tropical Africa and Asia
 - **Termitomyces microcarpus** — Much smaller species, common across sub-Saharan Africa
 - **Termitomyces schimperi** — [[comparison-cavendish-vs-east-african-highland-bananas]] species, associated with Macrotermes michaelseni
 
 ## Bioactive Compounds
+
+## Overview
+
+Termitomyces Titanicus represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish termitomyces titanicus
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving termitomyces extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Termitomyces Titanicus finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for termitomyces titanicus. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+termitomyces titanicus and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Termitomyces Titanicus has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of termitomyces titanicus into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource

@@ -12,11 +12,7 @@ tags: [cannabis, history]
 
 Schultes and Hofmann document cannabis as one of humanity's oldest cultivars,
 with a partnership between Cannabis and man existing for approximately ten
-thousand years -- since the discovery of agriculture in the [[datura-metel-old-world-ethnobotany]].
-
-## Origins and Chinese Antiquity
-
-The partnership of [[cannabis-spiritual-ritual-use]] and man has existed
+thousand years -- since the discovery of agriculture in the [[cannabis-spiritual-ritual-use]] and man has existed
 probably for ten thousand years. Cannabis has been a five-purpose plant: as a
 source of hempen fibers, for its oil, for its edible akenes (seeds), for its
 narcotic properties, and therapeutically to treat a wide spectrum of ills in
@@ -37,11 +33,7 @@ dynasty (700-500 BC) carry a "negative" connotation implying stupefying
 properties, a concept that obviously predated writing. There has been a
 continuous record of Hemp cultivation in China from Neolithic times.
 
-See also: [[mckenna-cannabis-culture-history]]
-
-## Scythian Use
-
-About 500 BC, the Greek writer Herodotus described a remarkable [[scythian-cannabis-steam-bath-ritual]]
+See also: [[scythian-cannabis-steam-bath-ritual]]
 of the Scythians. He reported that "they make a booth by fixing in the ground
 three sticks... inside the booth a dish is placed upon the ground into which
 they put a number of red hot stones and then add some Hemp seed...
@@ -50,28 +42,8 @@ can exceed; the Scyths, delighted, shout for joy."
 
 Recently, archaeologists excavated frozen Scythian tombs in central Asia,
 dated between 500 and 300 BC, and found tripods and pelts, braziers, and
-charcoal with remains of [[query-what-causes-cannabis-leaves-to-curl-and-how-to-fix-it]] and fruit. It has generally been
-accepted that the Scythians spread the plant westward to Europe.
-
-See also: [[cannabis-mind-body-medicine-integration]]
-- [[teaming-with-microbes-plant-control]]
-## Practical Considerations
-
-When working with Cannabis Ancient History in Plants of the Gods, several practical factors should be
-carefully considered to achieve optimal results. These include
-the specific conditions of the implementation context, available
-resources, timing requirements, and the interactions between this
-topic and other elements of the broader system. A holistic view
-that considers these interconnections produces better outcomes.
-
-Environmental conditions such as temperature, moisture, and
-seasonal patterns significantly influence results. Monitoring these
-variables and adapting practices accordingly is essential for success.
-The most effective practitioners develop keen observation skills and
-respond flexibly to changing conditions rather than following rigid
-protocols regardless of circumstances or local variation.
-
-[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
+charcoal with remains of [[cannabis-mind-body-medicine-integration]]
+- [[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -111,8 +83,6 @@ through generations to modern scientific approaches, the evolution continues
 to inform current best practices and research directions.
 
 ## See Also
-- [[doc]]
 - [[shamanism]]
-- [[cannabis-botany-history-chemistry]]
 - [[shroom-cultural-history-mushroom-in-ancient-civilizations]]
 - [[cannabis-prohibition-history]]

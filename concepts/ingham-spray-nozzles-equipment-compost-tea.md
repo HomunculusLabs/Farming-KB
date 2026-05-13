@@ -12,41 +12,14 @@ type: concept
 
 ## The Core Challenge
 
-Getting compost tea organisms through [[aact-spray-equipment-nozzle-selection-ingham]] and onto leaf
-surfaces alive and active is the primary challenge of foliar
-application. The equipment must not damage the organisms during
-passage through pumps and nozzles, and the organisms must survive
-impact on the [[bloomfield-rust-germ-tube-tactile-sensing-leaf-surface-navigation]]. Understanding the factors that affect
+Getting compost tea organisms through [[bloomfield-rust-germ-tube-tactile-sensing-leaf-surface-navigation]]. Understanding the factors that affect
 organism survival through equipment is essential for successful
-[[ingham-turf-lawn-compost-tea-programs]].
-
-## Nozzle Opening Size Requirements
-
-Nozzle diameter must be greater than 200 micrometers to allow
-fungal colonies to pass through. The largest [[ingham-beneficial-nematodes-soil-food-web]]
+[[ingham-beneficial-nematodes-soil-food-web]]
 are about 25 micrometers in width and 150 micrometers in length.
 Fungal structures can reach 100 micrometers. A minimum of 200
 micrometers is needed, but 300 to 400 micrometers is preferred
 because 200 micrometer openings tend to get clogged with fine
-[[hamilton-composting-and-organic-matter-management]], which then filters out the fungi along with the
-debris.
-
-## Mesh and Filter Size
-
-When spraying compost tea, use mesh sizes of 20 to 30 for spray
-equipment operating under 50 psi. Make the mesh size of the compost
-bag smaller than the nozzle openings on your sprayer. Then there
-should be no need for additional screening. Filtering tea can remove
-organisms if the filter opening size is too small, if filters get
-clogged, or if big chunks are filtered out since fungi go with
-them. Avoid using pantyhose or similar fine mesh materials that
-can screen out fungal material.
-
-## Pressure Management
-
-Pressure itself does not kill organisms. It is the impact pressure
-when organisms hit a surface that causes damage. Keep pressure low
-relative to the distance of the spray nozzle to the [[aact-foliar-sticker-spreaders-leaf-surface-attachment-ingham]]:
+[[aact-foliar-sticker-spreaders-leaf-surface-attachment-ingham]]:
 at 1 to 2 feet away, use no more than 20 to 40 psi. At 6 feet
 away, 100 psi is acceptable. At 100 feet away, 600 psi can work.
 The key principle is that organisms cannot take being splatted
@@ -118,8 +91,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[composting]]
 - [[compost-tea-brewing-equipment-ingham]]
-- [[ingham-blackstrap-molasses-compost-tea-concentration-osmotic-effects]]
 - [[ingham-foliar-compost-tea-application]]
 - [[ingham-compost-tea-ingredients-kelp-fish-humic-acids-fungal-foods]]

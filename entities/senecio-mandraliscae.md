@@ -109,13 +109,8 @@ Research on Senecio mandraliscae's water-use efficiency has contributed to under
 
 ## See Also
 
-- [[senecio-articulatus]]
 - [[crassula-ovata]]
-- [[crassula-perforata]]
 - [[kalanchoe-blossfeldiana]]
-- [[echeveria-elegans]]
 - [[sedum-rupestre]]
-- [[aeonium-arboreum]]
 - [[portulacaria-afra]]
-- [[dudleya-farinosa]]
 - [[cotyledon-orbiculata]]

@@ -7,10 +7,10 @@ topics: [agriculture, soil-science, natural-farming, tillage, soil-physics]
 
 # Plow Hardens Soil Through Flood Mechanism
 
-Masanobu Fukuoka identified a counterintuitive mechanism by which plowing
+[[masanobu-fukuoka]] identified a counterintuitive mechanism by which plowing
 actually degrades soil structure rather than improving it. This insight
 forms part of his critique of conventional agricultural practices and
-underpins his first principle of natural farming: no tillage.
+underpins his first principle of [[natural-farming]]: no tillage.
 
 ## The Paradox of Tillage
 
@@ -121,8 +121,6 @@ agricultural sustainability:
 
 ## Related Concepts
 
-- [[fukuoka-five-principles-natural-farming-no-tillage-no-fertilizer]]
 - [[fukuoka-straw-mulch-technique]]
-- [[fukuoka-direct-seeded-no-tillage-rice-barley-clover-succession]]
 - [[fukuoka-clover-cover-cropping-soil-ecology]]
 - [[fukuoka-one-gram-soil]]

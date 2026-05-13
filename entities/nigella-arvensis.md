@@ -22,45 +22,7 @@ sources:
 
 The plant grows 20–50 cm tall with finely divided, feathery foliage and small pale blue to white flowers. It typically blooms from May through July in its native range.
 
-Unlike its more famous relative *[[nigella-sativa]]* (black seed), *Nigella arvensis* has received relatively little attention in pharmacological research. It remains primarily a wildflower of agricultural margins and disturbed ground.
-
-The specific epithet *arvensis* means "of cultivated fields" in Latin, reflecting its typical habitat. The genus name *Nigella* derives from *niger* (black), referring to the black seeds.
-
-In English, the plant is also known as "wild fennel-flower" and "field black cumin." These common names reference both its habitat and its aromatic seeds.
-
-The species was first described by Linnaeus in 1753. It has been known to European botanists since the Renaissance, appearing in early herbals.
-
-## Taxonomy and Morphology
-
-Nigella arvensis belongs to the genus *Nigella* within tribe Nigelleae of Ranunculaceae. The genus comprises approximately 20 species distributed across Eurasia and North Africa.
-
-Several subspecies are recognized, including subsp. *arvensis*, subsp. *gallica*, and subsp. *lanata*. These differ primarily in seed morphology and degree of leaf dissection.
-
-Leaves are 2–3 times pinnately divided into narrow, linear segments 1–3 mm wide. The fine, thread-like leaflets give the foliage a delicate, feathery appearance reminiscent of dill or fennel.
-
-Stems are erect, branched above, and glabrous to sparsely pubescent. The plant produces a taproot system typical of annual species.
-
-Flowers are terminal, solitary or in small cymes, 1.5–2.5 cm in diameter. Each flower has five pale blue to whitish sepals; true petals are reduced to small nectaries.
-
-The fruit is an inflated capsule composed of 3–5 partially united follicles. Seeds are black, angular, and approximately 2 mm long with a wrinkled surface texture.
-
-The capsule opens by apical pores, releasing seeds gradually over several weeks. This extended dehiscence period ensures dispersal across variable conditions.
-
-Seed weight averages 0.5–0.8 mg, with approximately 1,200–1,500 seeds per gram. This small size facilitates wind dispersal and burial in soil crevices.
-
-## Distribution and Habitat
-
-The species ranges from Portugal and Spain eastward through southern France, Italy, the Balkans, Greece, Turkey, and into Iran and Central Asia. It occurs throughout the Mediterranean basin at low to middle elevations.
-
-In central Europe, it reaches its northern limit in southern Germany, Austria, and the Czech Republic. Populations in these northern areas are often localized and declining.
-
-The typical habitat is arable field margins, fallow ground, roadsides, and dry grasslands on calcareous soils. It is classified as an archeophyte in many parts of central Europe, having been introduced with early agriculture.
-
-The species has become rare in several northern European countries due to intensified agriculture and herbicide use. It is considered endangered in Germany, Switzerland, and Austria.
-
-## Ecology
-
-As an annual, Nigella arvensis completes its entire lifecycle within a single [[extending-growing-season]]. Seeds germinate in autumn or early spring, and plants set seed by mid-summer.
+Unlike its more famous relative *[[extending-growing-season]]. Seeds germinate in autumn or early spring, and plants set seed by mid-summer.
 
 The flowers are visited by small bees and flies, though specific pollinator relationships are poorly documented. The plant is not considered a major nectar source.
 
@@ -68,22 +30,91 @@ Seed dispersal is primarily by wind and mechanical ejection from the drying caps
 
 The species is classified as a segetal plant (weed of cultivated fields). Its decline parallels that of many cornfield annuals across Europe.
 
-In Mediterranean populations, the species shows moderate [[dighton-fungal-drought-tolerance-plant-water-relations]] through its deep taproot and finely divided leaves. These reduce water loss while maintaining photosynthetic capacity.
-
-The plant associates with [[arbuscular-mycorrhizal-fungi-in-tropical-forest-restoration]] natural populations, enhancing [[aact-microbial-foliar-nutrient-uptake-co2-stomata-ingham]] from poor soils. This symbiosis is particularly important in the calcareous habitats the species favors.
-
-Competition experiments show Nigella arvensis is a poor competitor against perennial grasses. It relies on regular soil disturbance to maintain populations in semi-natural habitats.
-
-## Cultivation
-
-Nigella arvensis is occasionally cultivated as an ornamental annual for its delicate foliage and airy appearance. It is hardy to USDA zones 5–9.
-
-The plant prefers full sun and well-drained, preferably calcareous soil. It tolerates poor soils and dry conditions once established.
-
-Sowing is direct in autumn or early spring at 1–2 mm depth. Autumn sowings generally produce larger, earlier-flowering plants.
-
-No serious pests or diseases are reported. The species is largely trouble-free in cultivation, requiring minimal attention beyond initial establishment.
-
-It is less commonly offered commercially than *[[nigella-damascena]]* (love-in-a-mist). Specialist seed suppliers and native plant nurseries are the most reliable sources.
+In Mediterranean populations, the species shows moderate [[arbuscular-mycorrhizal-fungi-in-tropical-forest-restoration]] natural populations, enhancing [[nigella-damascena]]* (love-in-a-mist). Specialist seed suppliers and native plant nurseries are the most reliable sources.
 
 The plant self-seeds moderately in favorable conditions but is not invasive. Allow some seed heads to mature for natural regeneration.
+
+## Overview
+
+Nigella Arvensis represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish nigella arvensis
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving nigella extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Nigella Arvensis finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for nigella arvensis. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+nigella arvensis and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Nigella Arvensis has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of nigella arvensis into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[acinos-arvensis]]
+- [[myosotis-arvensis]]
+- [[nigella-damascena]]
+- [[nigella-orientalis]]
+- [[nigella-sativa]]

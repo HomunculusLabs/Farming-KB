@@ -13,13 +13,7 @@ type: concept
 Cryptic species are two or more distinct species that are morphologically
 identical or nearly so, but are reproductively isolated and genetically
 divergent. In mycology, cryptic speciation is pervasive and represents a major
-component of the "unknown" [[biodiversity-fungal-biodiversity-estimation-methods]] — species that exist in nature
-but are hidden under a single described name.
-
-## Prevalence in Fungi
-
-Cryptic species are especially common in fungi because morphological characters
-used in traditional taxonomy ([[mycotoxins]],
+component of the "unknown" [[mycotoxins]],
    antibiotics) can differ between cryptic species.
 5. **Ecological differentiation** — differences in host specificity,
    substrate preference, or environmental tolerance can indicate cryptic
@@ -34,56 +28,12 @@ used in traditional taxonomy ([[mycotoxins]],
   genetically distinct formae speciales, many of which may warrant species
   status.
 - **Morchella esculenta** (morel) — phylogenetic studies reveal multiple
-  cryptic species across [[psilocybin-north-america-pacific-northwest]] and Europe that are
-  indistinguishable macroscopically.
-- **Armillaria mellea** (honey mushroom) — one of the most well-studied
-  cases, with multiple biological species recognized within what was once
-  considered a single widespread taxon.
-
-## Implications for Biodiversity Estimates
-
-Cryptic species inflate both described and undescribed diversity. They mean
-that existing species counts underestimate true diversity, and that the gap
-between described and estimated species is even larger than current numbers
-suggest. Each described species that harbors cryptic lineages represents not
-one species but several, each potentially with unique ecological roles,
-distributions, and conservation needs.
-
-## Practical Consequences
-
-Cryptic speciation has real-world implications beyond taxonomy. In plant
-pathology, misidentifying a pathogen due to cryptic diversity can lead to
-failed [[plant-disease-management-solomon]] strategies. In pharmaceutical mycology, different
-cryptic species may produce different [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]]. In biosecurity,
-cryptic invasive species may evade detection because they are identified as
-a known native species.
-
-## Species Delimitation Approaches
-
-Resolving cryptic species requires robust species delimitation methods. Common
-approaches include genealogical concordance phylogenetic species recognition
-(GCPSR), which requires multiple independent gene trees to show concordant
-splits; coalescent-based methods like Bayesian Poisson Tree Processes (BPP)
-that model speciation events probabilistically; and population genetic
-approaches that detect reproductive isolation through patterns of allele
-sharing and fixation indices. Genome-wide data has improved delimitation
-accuracy but also revealed that species boundaries in fungi can be porous,
-with ongoing gene flow between diverging lineages.
-
-## Hybridization and Introgression
-
-Fungal cryptic speciation is complicated by hybridization. Many fungi can
-hybridize across species boundaries, producing offspring with novel
-combinations of parental traits. Whole-genome sequencing has revealed
-extensive introgression in genera like Candida, Saccharomyces, and
-Neurospora, blurring the distinction between species and challenging
-traditional species concepts. Hybridization may also be a source of
-novel [[fungal-functional-diversity-decomposition]], producing genotypes capable of colonizing
+  cryptic species across [[plant-disease-management-solomon]] strategies. In pharmaceutical mycology, different
+cryptic species may produce different [[fungal-functional-diversity-decomposition]], producing genotypes capable of colonizing
 new niches or hosts.
 
 ## See Also
 
-- [[dark-taxa-fungi]]
 - [[environmental-dna-sequencing-fungi]]
 
 ## Practical Applications
@@ -115,8 +65,85 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[cryptic-species]]
 - [[psilocybin]]
-- [[det]]
 - [[morchella-esculenta]]
 - [[aureobasidium-pullulans]]
+
+## Overview
+
+Fungal Cryptic Species represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish fungal cryptic species
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving fungal extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Fungal Cryptic Species finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for fungal cryptic species. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+fungal cryptic species and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Fungal Cryptic Species has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of fungal cryptic species into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also

@@ -98,40 +98,14 @@ The actual length of stream per square kilometre determines how efficiently wate
 
 ### Vegetation Cover
 
-Runoff increases as vegetation is cleared. Less crown interception, [[humus]] storage, and ground interference by rain means more water runs off. The transition from shrub cover to tussock grass, and from grass to bare soil, progressively increases runoff percentages.
-
-## Precipitation Intensity Categories
-
-| mm/day | Phenomena |
-|--------|-----------|
-| 0–10 | Light dews, light semi-arid rains, prairie rains. Smallest rills begin flowing at 6–10 mm |
-| 11–20 | All-day drizzle, sheet erosion can occur at 13 mm, gully erosion develops at 15 mm |
-| 21–50 | Monsoon cloud streets on coasts, light rain all day in maritime climates, convectional desert rains |
-| 51–100 | Condensation drip from onshore fogs (~60 mm), tropical rains exceed 100 mm once yearly |
-| 100–200+ | Heavy rain all day, exceeded once yearly on monsoon coasts, once per century in temperate maritime areas |
-
-## Design Implications for Settlement
-
-### Flash Flood Risk
-
-Rain in deserts (falling as 2.5 cm/day for 2–3 days) produces severe local flooding. This becomes critical when settlements are located in wadis, upstream of restricted gaps in hills, or in hollows near dry watercourses. Oversize channels, drains, infiltration, and diversion systems are needed to cope with high-intensity storms.
-
-### Freshwater-Saltwater Interface
-
-A general profile of water depth and quality from hill intake to salt pan decides the strategies for settlement placement, water systems, water quality, and water disposal. Wells and windmills should be located close to hills in the loose sediments of alluvial fans, where freshwater is most accessible.
-
-### Strategic Water Management
-
-The proportion of water directed to different uses should be planned:
-
-- **Drinking water**: Roof catchment to sealed tanks (highest quality)
-- **Garden water**: Tank overflow to swales, supplemented by household greywater
-- **Landscape water**: Interceptor banks harvesting overland flow from surrounding areas
-- **Aquifer recharge**: Widespread infiltration structures maintaining soil water reserves
-
-## Related Topics
-
-- [[water-harvesting-in-arid-lands]]
-- [[swale-design]] and construction
+Runoff increases as vegetation is cleared. Less crown interception, [[water-harvesting-in-arid-lands]]
 - [[saltpans-gilgais-and-gully-erosion-control]]
 - dryland settlement design
+
+## See Also
+
+- [[cho-water-soluble-phosphoric-acid-preparation]]
+- [[jadam-water-soluble-calcium-preparation]]
+- [[water-use-efficiency-plants]]
+- [[greg-green-water-quality-and-hard-water]]
+- [[savory-water-cycle-management]]

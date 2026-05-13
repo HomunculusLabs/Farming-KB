@@ -11,16 +11,7 @@ type: concept
 # Fruiting Conditions for Mushroom Cultivation
 
 After substrate colonization, the mycelium needs a specific set of
-[[fungal-fruiting-body-formation-environmental-triggers]] to shift from vegetative growth to reproductive
-(fruiting) mode. Understanding and controlling these parameters
-separates successful cultivators from those who watch their colonized
-blocks sit dormant for weeks.
-
-## The Transition from Colonization to Fruiting
-
-During colonization, mycelium grows best in warm, dark, high-carbon
-dioxide environments. The shift to fruiting is triggered by changes in
-several [[mushroom-cultivation-environmental-parameters]] simultaneously. No single factor alone
+[[mushroom-cultivation-environmental-parameters]] simultaneously. No single factor alone
 is sufficient; the mycelium responds to the combined signal of reduced
 carbon dioxide, increased fresh air exchange, lower temperature, and
 light exposure.
@@ -34,8 +25,7 @@ trigger.
 
 ### Carbon Dioxide Levels
 
-This is arguably the most important [[cold-shock-fruiting-trigger-species-specificity-psilocybe-panaeolus]]. During
-colonization, carbon dioxide levels in the [[cannabis-growing-environment-setup]] can reach
+This is arguably the most important [[cannabis-growing-environment-setup]] can reach
 5,000 to 10,000 ppm or higher. For fruiting, levels should drop below
 800 ppm, ideally around 400 to 600 ppm (near ambient atmospheric
 levels).
@@ -58,15 +48,7 @@ surface.
 
 ### Relative Humidity Targets
 
-Most [[growing-gourmet-mushrooms-biological-efficiency-yield-metrics]] require 85 to 95 percent relative humidity for
-optimal fruiting. Below 80 percent, the mycelium and developing pins
-desiccate rapidly. Above 95 percent, water condenses on surfaces and
-promotes bacterial contamination.
-
-### Humidity Maintenance
-
-The most common approach is a combination of a humidifier and passive
-evaporation. Perlite in the bottom of a [[comparison-laminar-flow-hood-vs-fruiting-chamber]], misted
+Most [[comparison-laminar-flow-hood-vs-fruiting-chamber]], misted
 regularly, provides evaporative humidity. Ultrasonic foggers connected
 to a timer deliver fine mist on a regular schedule. The key is to mist
 the walls and air of the chamber rather than directly spraying the
@@ -76,15 +58,7 @@ developing mushrooms, which can cause them to rot.
 
 Evaporation from the substrate surface is itself a fruiting trigger.
 The constant cycle of surface moisture evaporating and being replenished
-through misting or [[cervantes-humidity-control-dehumidification]] stimulates pin formation. This is
-why maintaining high ambient humidity while allowing surface evaporation
-is the ideal balance.
-
-## Light
-
-### Light Requirements
-
-Contrary to common belief, most [[fungi-cultivated-mushrooms-pathogens-competitors]] are not grown in
+through misting or [[fungi-cultivated-mushrooms-pathogens-competitors]] are not grown in
 darkness during fruiting. They require light to orient their growth and
 trigger the genetic cascade that leads to fruiting body formation. Most
 species need 12 hours of light per day on a standard diurnal cycle.
@@ -118,8 +92,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[mushroom-cultivation]]
 - [[fruiting-conditions]]
-- [[mycelium]]
 - [[bloomfield-mushroom-formation-fruiting-body-development-cultivation]]
 - [[seasonal-mushroom-fruiting-calendar-companion-cultivation]]

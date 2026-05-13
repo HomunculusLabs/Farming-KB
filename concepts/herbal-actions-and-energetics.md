@@ -18,45 +18,7 @@ Herbal actions are the pharmacological and physiological effects that herbs prod
 
 ### Alteratives
 
-Alteratives (also called blood purifiers or depuratives) are herbs that gradually restore proper function to the body's systems of elimination and metabolism. They are traditionally used for conditions involving chronic toxicity, [[cannabis-for-skin-conditions-detailed]], lymphatic congestion, and sluggish metabolism. Common alteratives include burdock root (Arctium lappa), dandelion root (Taraxacum officinale), red clover (Trifolium pratense), cleavers (Galium aparine), nettles (Urtica dioica), and yellow dock (Rumex crispus).
-
-The mechanism of alterative action involves supporting the liver, kidneys, lymphatic system, and skin in their natural detoxification functions. Rather than directly eliminating toxins, alteratives are thought to improve the body's own capacity for waste removal and metabolic balance.
-
-### Bitters
-
-Bitters are herbs with a pronounced bitter taste that stimulate digestive function through the bitter taste reflex. When bitter compounds contact taste receptors on the tongue, they trigger a reflex response that increases salivation, gastric acid secretion, bile production, pancreatic enzyme release, and intestinal motility.
-
-Common bitters include dandelion root, gentian root (Gentiana lutea), burdock root, wormwood (Artemisia absinthium), yarrow (Achillea millefolium), and angelica (Angelica archangelica). Bitters are used for indigestion, poor appetite, sluggish digestion, bloating, and gas.
-
-The bitter taste reflex is one of the most reliable and well-documented herbal actions. Bitters are typically taken before meals in small doses (a few drops of tincture or a small cup of tea) to prime the digestive system for food intake. The term digestive bitters refers to preparations designed specifically for this purpose.
-
-### Carminatives
-
-Carminatives are herbs that relieve flatulence, gas, and intestinal spasms. They typically contain volatile oils that relax smooth muscle in the gastrointestinal tract, reduce gas production, and promote the expulsion of trapped gas.
-
-Common carminatives include peppermint (Mentha x piperita), fennel (Foeniculum vulgare), ginger (Zingiber officinale), chamomile (Matricaria recutita), anise (Pimpinella anisum), cardamom (Elettaria cardamomum), and coriander (Coriandrum sativum). Many carminatives are also aromatic and warming, making them pleasant to consume as teas.
-
-Carminatives are among the most commonly used herbs in home herbal practice and are frequently combined with bitters in digestive formulas to counteract the gripping (intestinal cramping) that bitters can sometimes cause.
-
-### Nervines
-
-Nervines are herbs that act on the nervous system to reduce tension, anxiety, and stress. They are classified as relaxing nervines (mildly calming), sedative nervines (promote sleep and deeper relaxation), and tonic nervines (strengthen and nourish the nervous system over time).
-
-Relaxing nervines include chamomile, [[comparison-lemon-balm-vs-passionflower]] (Melissa officinalis), passionflower (Passiflora incarnata), oats (Avena sativa), and skullcap (Scutellaria lateriflora). Sedative nervines include valerian (Valeriana officinalis), hops (Humulus lupulus), California poppy (Eschscholzia californica), and kava ([[plants-of-the-gods-piper-methysticum-kava]]). Nervine tonics include ashwagandha (Withania somnifera), gotu kola (Centella asiatica), and milky oat seed (Avena sativa, fresh seed preparation).
-
-Nervines are among the most widely used categories of herbs in modern Western practice, reflecting the prevalence of stress-related conditions.
-
-### Anti-inflammatories
-
-Anti-inflammatory herbs reduce inflammation through various mechanisms including inhibition of prostaglandin and leukotriene synthesis, modulation of cytokine production, and antioxidant activity. Many herbs have significant anti-inflammatory properties.
-
-Turmeric (Curcuma longa), with its active compound curcumin, is one of the most extensively studied anti-inflammatory herbs. Boswellia (Boswellia serrata) inhibits 5-lipoxygenase, reducing leukotriene-mediated inflammation. Ginger inhibits cyclooxygenase and lipoxygenase pathways. Willow bark (Salix alba) contains salicin, a precursor to aspirin.
-
-### Adaptogens
-
-Adaptogens are herbs that help the body adapt to physical, chemical, and biological stress through a non-specific, normalizing effect on body systems. They are characterized by their ability to support homeostasis regardless of the direction of the stressor (they can be both stimulating and calming depending on what the body needs).
-
-Key adaptogens include ashwagandha, holy basil (Ocimum sanctum), rhodiola (Rhodiola rosea), eleuthero (Eleutherococcus senticosus), reishi mushroom ([[stamets-reishi-ganoderma-lucidum-cultivation]]), and licorice (Glycyrrhiza glabra). Adaptogens are typically used long-term to build resilience to stress and support overall vitality.
+Alteratives (also called blood purifiers or depuratives) are herbs that gradually restore proper function to the body's systems of elimination and metabolism. They are traditionally used for conditions involving chronic toxicity, [[comparison-lemon-balm-vs-passionflower]] (Melissa officinalis), passionflower (Passiflora incarnata), oats (Avena sativa), and skullcap (Scutellaria lateriflora). Sedative nervines include valerian (Valeriana officinalis), hops (Humulus lupulus), California poppy (Eschscholzia californica), and kava ([[stamets-reishi-ganoderma-lucidum-cultivation]]), and licorice (Glycyrrhiza glabra). Adaptogens are typically used long-term to build resilience to stress and support overall vitality.
 
 ### Other Important Actions
 
@@ -88,9 +50,7 @@ Modern pharmacology has confirmed that taste receptors throughout the body (not 
 
 The practical application of herbal actions and energetics involves assessing the presenting condition (what needs to change), the constitution of the person (who is being treated), and the energetic match between the herb and the condition. A hot, inflamed condition is treated with cooling herbs, while a cold, stagnant condition is treated with warming herbs.
 
-Combining herbs with complementary actions and energetics creates balanced formulations that address multiple aspects of a condition simultaneously. See [[herbal-materia-medica]] — individual herb profiles with actions
-- [[herbal-medicine]] — overview of herbal medicine
-- [[herbal-tinctures-guide]] — tincture preparation by herb action
+Combining herbs with complementary actions and energetics creates balanced formulations that address multiple aspects of a condition simultaneously. See [[herbal-medicine]] — overview of herbal medicine
 - [[medicinal-mushroom-antioxidant-anti-inflammatory]]
 - mushroom-cytokine-production-immune-activation
 
@@ -123,8 +83,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[herbal-medicine]]
 - [[glycyrrhiza-glabra]]
-- [[doc]]
 - [[salicin]]
 - [[elettaria-cardamomum]]

@@ -11,33 +11,12 @@ updated: 2026-04-28
 sources:
   - "Leafly Strain Database." https://www.leafly.com/strains/jedi-kush
   - "AllBud Strain Information." https://www.allbud.com/marijuana-strains/hybrid/jedi-kush
-  - Smart, R. et al. (2010). "Cannabinoid and cannabis-terpene-profiles-sativa of Popular [[cannabis-microbiome-otu-abundance-vs-presence-cannabis-strains]]." Journal of Cannabis Therapeutics 10(1-4).
-  - Clarke, R.C. & Merlin, M.D. (2013). "Cannabis: Evolution and Ethnobotany." University of California Press.
-created: 2026-04-28
----
-
-# Jedi Kush
-
-## Overview
-
-**Jedi Kush** is an indica-dominant [[query-what-is-the-difference-between-indica-sativa-and-hybrid-cannabis]] strain created by crossing
-**SFV OG Kush** with **Death Star**. Bred by the California-based [[seed-company-supplier-reference]]
-**T.H. Seeds**, it has developed a dedicated following among medical patients
-and recreational consumers seeking deep physical relaxation and stress relief.
-
-The strain delivers potent sedative effects alongside a complex aroma profile
-that blends classic Kush fuel notes with sweet, earthy undertones. Its name
-references the "Jedi" lineage of OG Kush phenotypes known for their powerful
-and contemplative effects.
-
-## Lineage
-
-Jedi Kush is a cross of two well-established [[blue-city-diesel-west-coast-blueberry-nyc-diesel-hybrid-oner]] varieties:
+  - Smart, R. et al. (2010). "Cannabinoid and cannabis-terpene-profiles-sativa of Popular [[query-what-is-the-difference-between-indica-sativa-and-hybrid-cannabis]] strain created by crossing
+**SFV OG Kush** with **Death Star**. Bred by the California-based [[blue-city-diesel-west-coast-blueberry-nyc-diesel-hybrid-oner]] varieties:
 
 - **SFV OG Kush** (pollen parent): An indica-dominant phenotype of OG Kush
   originating from California's San Fernando Valley. Provides the foundational
-  Kush [[cannabis-terpene-profile]] — earthy, piney, and fuel-like.
-- **Death Star** (mother): A cross of [[sensi-star]] and Sour Diesel. Contributes
+  Kush [[sensi-star]] and Sour Diesel. Contributes
   additional potency and a subtle diesel pungency to the aroma.
 
 The genetic ratio is approximately 70% indica / 30% sativa, reflecting the
@@ -88,3 +67,84 @@ terpene expression.
 
 - **THC:** 18–24%, with some phenotypes reported up to 26%
 - **CBD:** < 0.1% (negligible)
+
+## Overview
+
+Jedi Kush represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish jedi kush
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving jedi extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Jedi Kush finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for jedi kush. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+jedi kush and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Jedi Kush has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of jedi kush into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[hindu-kush]]

@@ -1,17 +1,6 @@
 # Trichoderma Biocontrol Fungi in AACT
 
-**Source:** Elaine Ingham, *The Field Guide for [[actively-aerated-compost-tea]] Compost Tea*
-**Domain:** Biocontrol → Beneficial Fungi → Disease Suppression
-
----
-
-## Overview
-
-Trichoderma species are among the most important biocontrol fungi
-incorporated into compost tea systems. These fast-growing, opportunistic
-saprotrophs provide multiple mechanisms of disease suppression including
-mycoparasitism, antibiosis, competition for nutrients and space, and
-[[endophytic-mycorrhizal-induced-systemic-resistance]] resistance in plants. Ingham's field guide devotes
+**Source:** Elaine Ingham, *The Field Guide for [[endophytic-mycorrhizal-induced-systemic-resistance]] resistance in plants. Ingham's field guide devotes
 extensive coverage to Trichoderma biology, selection, preactivation
 methods, and incorporation into AACT brewing.
 
@@ -25,12 +14,6 @@ Sclerotinia, and Verticillium.
 
 The most commonly used Trichoderma species in biocontrol include:
 
-- **[[trichoderma-harzianum]]**: The most widely studied and commercially
-  available biocontrol species. Effective against a broad range of
-  soil-borne pathogens. Strain T-22 is the most well-known commercial
-  preparation.
-- **Trichoderma viride**: Early commercial biocontrol strain with
-  strong cellulolytic activity.
 - **[[trichoderma-koningii]]**: Effective against Rhizoctonia and
   Sclerotinia species.
 - **Trichoderma hamatum**: Good activity against Fusarium species.
@@ -38,13 +21,7 @@ The most commonly used Trichoderma species in biocontrol include:
 ## Mechanisms of Action
 
 **Mycoparasitism**: Trichoderma directly attacks pathogenic fungi. It
-detects [[query-how-do-plants-use-chemical-signals-to-defend-against-insects]] from host fungi, grows toward them, coils
-around the hyphae, and secretes cell-wall-degrading enzymes
-(chitinases, glucanases, proteases) that lyse the pathogen's cells.
-This process is highly specific and energy-intensive but devastatingly
-effective at the point of contact.
-
-**Antibiosis**: Trichoderma produces [[antifungal-secondary-metabolites-coprophilous-fungi]] metabolites:
+detects [[antifungal-secondary-metabolites-coprophilous-fungi]] metabolites:
 - Trichodermin and trichodermol (trichothecene antibiotics)
 - Harzianic acid
 - 6-Pentyl-alpha-pyrone (6-PAP, volatile antifungal)
@@ -117,8 +94,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[trichoderma-viride]]
 - [[trichoderma]]
-- [[elaine-ingham]]
 - [[dom]]
 - [[det]]

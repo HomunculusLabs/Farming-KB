@@ -6,7 +6,7 @@ type: concept
 
 # Greywater Management and Dry Toilets
 
-In [[permaculture-design]], the responsible handling of human waste and domestic wastewater is a critical concern. [[bill-mollison]] emphasises that conventional approaches to sewage and greywater are not only wasteful of water but also introduce persistent pollutants into soils and waterways. A permaculture approach seeks to close nutrient loops, minimise water use, and design systems that treat waste on-site through biological processes rather than relying on centralised, energy-intensive treatment infrastructure.
+In [[bill-mollison]] emphasises that conventional approaches to sewage and greywater are not only wasteful of water but also introduce persistent pollutants into soils and waterways. A permaculture approach seeks to close nutrient loops, minimise water use, and design systems that treat waste on-site through biological processes rather than relying on centralised, energy-intensive treatment infrastructure.
 
 ## Dry Toilets
 
@@ -42,11 +42,11 @@ Domestic greywater — water from baths, showers, sinks, and laundry — carries
 
 ### Biological Pathogens
 
-Greywater and blackwater contain faecal bacteria, viral pathogens, and worm eggs (helminths). These biological contaminants require either sufficient retention time in aerobic composting systems or careful land-application design with adequate soil depth and biological activity to ensure pathogen die-off before food crops are potentially exposed. A minimum of 30 days in a hot composting system is generally considered sufficient to destroy most pathogens, though specific time-temperature relationships vary by organism.
+Greywater and blackwater contain faecal bacteria, viral pathogens, and worm eggs (helminths). These biological contaminants require either sufficient retention time in aerobic [[composting-systems]] or careful land-application design with adequate soil depth and biological activity to ensure pathogen die-off before food crops are potentially exposed. A minimum of 30 days in a hot composting system is generally considered sufficient to destroy most pathogens, though specific time-temperature relationships vary by organism.
 
 ## Soil Organisms as Pollutant Processors
 
-The good news is that **healthy soil ecologies can deal with most pollutants**. Diverse communities of bacteria, fungi, protozoa, nematodes, and earthworms break down organic compounds, sequester heavy metals, and outcompete pathogens. Mycorrhizal fungi in particular play a role in immobilising heavy metals within their hyphal networks, preventing plant uptake. However, certain chemical thresholds must not be exceeded, as even robust soil ecosystems have limits:
+The good news is that **healthy soil ecologies can deal with most pollutants**. Diverse communities of bacteria, fungi, protozoa, nematodes, and earthworms break down organic compounds, sequester heavy metals, and outcompete pathogens. [[mycorrhizal-fungi]] in particular play a role in immobilising heavy metals within their hyphal networks, preventing plant uptake. However, certain chemical thresholds must not be exceeded, as even robust soil ecosystems have limits:
 
 - **Sodium/potassium salts** above 1,000 ppm damage both soil clay structure (causing deflocculation and loss of permeability) and plant leaf tissues (causing marginal burn and necrosis).
 - **Borates** above 0.5 ppm are toxic to many plants, particularly sensitive species and seedlings.
@@ -133,6 +133,5 @@ Mollison emphasises that **there is no blanket policy** for greywater management
 7. **Design for site-specific conditions** — soil type, climate, baseline water quality, and intended end-use all shape the appropriate greywater system.
 
 ## See Also
-- [[comparison-composting-toilets-vs-greywater-systems-detailed]]
 - [[greywater-systems-detailed]]
 - [[comparison-rainwater-vs-greywater]]

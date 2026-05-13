@@ -8,21 +8,7 @@ type: concept
 
 ## Overview
 
-The Sumerian civilization of Mesopotamia, widely regarded as the "cradle of civilization," preserves — in cuneiform clay tablets dating more than 4,000 years before the Bible — the earliest known versions of stories that would later become foundational to Judeo-Christian theology. According to the analysis in *[[mushrooms-and-mankind]]*, these tablets reveal that many biblical narratives, laws, and theological concepts are adapted from much older Sumerian sources, and that the nature of the gods described in these texts has been fundamentally misrepresented in later religious traditions.
-
-## The Anunnaki / Elohim
-
-The Sumerian clay tablets describe the **Anunnaki** (also called **Elohim** in later Hebrew tradition) as extraterrestrial beings who came to Earth from the star **Sirius**. These beings:
-
-- Genetically manipulated indigenous beings (called "beasts") to create the human race
-- Established themselves as gods over their creation
-- Possessed advanced technology that appeared as divine power to primitive humans
-- Warred among themselves, displaying jealousy, possessiveness, and desire for control
-
-The primary male figures in the Sumerian creation narrative are:
-
-- **An/Anu**: The father-god
-- **[[enki]]/Ea** (also called **Adonai**, "the Lord"): God of wisdom, compassion, fertility, and sexuality
+The Sumerian civilization of Mesopotamia, widely regarded as the "cradle of civilization," preserves — in cuneiform clay tablets dating more than 4,000 years before the Bible — the earliest known versions of stories that would later become foundational to Judeo-Christian theology. According to the analysis in *[[enki]]/Ea** (also called **Adonai**, "the Lord"): God of wisdom, compassion, fertility, and sexuality
 - **Enlil/Ilu-kur-gal** (also called **El Shaddai**, **Jehovah**, **YHWH**): A storm-god associated with vengeance, wrath, jealousy, and control
 
 ## The Two Brothers: Enki and Enlil
@@ -31,22 +17,13 @@ The archetypal conflict between Enki and Enlil forms the basis for later religio
 
 ### Enki — The Benefactor
 - **Attributes**: Compassion, wisdom, fertility, sexuality
-- **Role**: Creator of humanity (with his sister [[ninhursag]]), preserver and compatriot of humans
-- **Emblem**: The caduceus — a snake coiled around a staff, symbolizing knowledge and healing
-- **Actions**: Fed humans the fruit of the [[stropharia-cubensis-tree-of-knowledge]] against the wishes of the Anunnaki council; saved humanity from the flood sent by Enlil
+- **Role**: Creator of humanity (with his sister [[stropharia-cubensis-tree-of-knowledge]] against the wishes of the Anunnaki council; saved humanity from the flood sent by Enlil
 - **Later depiction**: Condemned as the "serpent" or "devil" in biblical tradition
 
 ### Enlil — The Oppressor
 - **Attributes**: Jealousy, control, vengeance, wrath
 - **Role**: Enforcer of human servitude, bringer of woes and doom
-- **Actions**: Attempted to deny humans the [[sumerian-annunaki-and-fruit-of-knowledge]]; sent the flood; destroyed Sodom and Gomorrah, Babylon, and the city of Ur; confounded languages at the Tower of Babel
-- **Later depiction**: Worshipped as Jehovah/YHWH in biblical tradition
-
-## The Creation of the Adama
-
-Enki and his sister **Ninhursag** performed the genetic manipulation that resulted in the **Adama** (the ancient name for the first human, from which "Adam" derives). Humanity was originally conditioned to serve the gods, but Enki desired to elevate human consciousness by feeding them the fruit of the Tree of Knowledge — an act that would "open the eyes of man and multi-dimensionalize his consciousness."
-
-When the Anunnaki council discovered what Enki had done, they condemned the act and exiled the "corrupted" humans from paradise. This narrative parallels the biblical [[allegro-garden-of-eden-and-delight]] story, but with a critical inversion: in the Sumerian original, the being who feeds humans knowledge is the benefactor, while the being who denies it is the oppressor.
+- **Actions**: Attempted to deny humans the [[allegro-garden-of-eden-and-delight]] story, but with a critical inversion: in the Sumerian original, the being who feeds humans knowledge is the benefactor, while the being who denies it is the oppressor.
 
 ## The Serpent as Bringer of Knowledge
 

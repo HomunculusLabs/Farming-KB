@@ -12,8 +12,7 @@ type: concept
 # Mushroom Watering
 
 Watering is one of the most critical aspects of mushroom
-cultivation. Too much water destroys [[james-cuthill]] emphasised that correct watering required judgment
-[[mushroom-growing-houses]]. Even leafy plants need little
+cultivation. Too much water destroys [[mushroom-growing-houses]]. Even leafy plants need little
 water when shut from bright light, and mushrooms are even
 more vulnerable without leaves.
 
@@ -28,7 +27,7 @@ Cuthill established clear timing rules:
 
 He observed that fine crops appear in fields after dry
 summers, never wet ones. This underpinned his conservative
-approach to [[cervantes-growing-medium]] during mushroom [[azurescens-outdoor-bed-preparation-woodchips]].
+approach to [[azurescens-outdoor-bed-preparation-woodchips]].
 
 ## Liquid Manure Water
 
@@ -71,7 +70,7 @@ New September beds required minimal watering. A slight hay
 covering prevented surface cracking, but had to be removed
 periodically to dry, preventing mould growth. The hay was
 replaced after drying, maintaining consistent conditions
-through the critical early weeks of mushroom-spawn
+through the critical early weeks of [[mushroom-spawn]]
 development.
 
 ## After Watering

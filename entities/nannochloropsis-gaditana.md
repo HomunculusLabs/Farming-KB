@@ -26,49 +26,11 @@ sources:
 
 The species was first isolated from coastal waters near Cádiz, Spain. Since its description, it has become a leading candidate for industrial-scale EPA production as a sustainable alternative to fish oil.
 
-Commercial cultivation of *N. gaditana* is well established, with several companies operating large-scale photobioreactor facilities in Europe, Israel, and the [[dmt-containing-plants-united-states-halpern]].
-
-## Taxonomy and Morphology
-
-**Domain:** Eukaryota — **Division:** Ochrophyta — **Class:** Eustigmatophyceae — **Order:** Eustigmatales — **Family:** Monodopsidaceae — **Genus:** *Nannochloropsis* — **Species:** *N. gaditana*
-
-Cells are small and spherical, typically 2–5 μm in diameter.
-
-They lack the complex external covering of many other marine microalgae, presenting a simple cell wall composed primarily of cellulose-like polysaccharides. This simple wall structure facilitates downstream processing for oil extraction and nutritional applications.
-
-The chloroplast is single and parietal, lacking a pyrenoid. Chlorophyll *a* is the sole chlorophyll pigment, while violaxanthin and vaucheriaxanthin serve as accessory light-harvesting pigments. This pigment composition distinguishes eustigmatophytes from other ochrophytes.
-
-Reproduction occurs through autosporulation, with each cell dividing into two or four daughter cells. No [[fungal-life-cycles-sexual-reproduction-metamorphosis]] has been observed under laboratory conditions.
+Commercial cultivation of *N. gaditana* is well established, with several companies operating large-scale photobioreactor facilities in Europe, Israel, and the [[fungal-life-cycles-sexual-reproduction-metamorphosis]] has been observed under laboratory conditions.
 
 ## Biochemical Composition
 
-*N. gaditana* accumulates lipids at 25–50% of dry weight, with a remarkably high proportion of EPA (20:5n-3). EPA typically constitutes 25–40% of total [[stable-carbon-isotope-signature-fatty-acids-mycorrhizal-carbon-tracking]], making this species one of the most efficient EPA producers known.
-
-Total protein content ranges from 30–45% of dry weight. The amino acid profile is well balanced for animal nutrition, with particularly high levels of lysine and methionine relative to terrestrial plant proteins.
-
-Carbohydrates account for 10–20% of dry biomass, stored primarily as chrysolaminarin (a beta-1,3-glucan). Small amounts of chlorophyll *a* and carotenoids are also present.
-
-The fatty acid profile is dominated by C16 and C20 polyunsaturated fatty acids. Palmitic acid (16:0) and EPA are the two most abundant fatty acids under standard growth conditions.
-
-## Cultivation
-
-*N. gaditana* is an obligate photoautotroph, unable to grow heterotrophically. It requires light, CO2, and a saline growth medium with nitrate or urea as the nitrogen source and phosphate as the phosphorus source.
-
-Optimal growth occurs at 20–25°C with salinity of 20–35 ppt. Light saturation is reached at approximately 200–400 μmol photons/m²/s, though the species tolerates higher intensities with adequate mixing and CO2 supply.
-
-Industrial cultivation typically employs tubular or flat-panel photobioreactors. Open pond cultivation is less common due to the species' susceptibility to contamination by faster-growing freshwater algae and grazing protozoa.
-
-Biomass productivity in optimized photobioreactors reaches 0.3–0.8 g/L/day.
-
-Nitrogen limitation triggers lipid accumulation, elevating total lipid content while reducing growth rate — a tradeoff central to production economics. Optimized two-stage cultivation (growth phase followed by starvation phase) has proven most effective for balancing biomass and lipid yields.
-
-## Applications
-
-**Aquaculture feed:** *N. gaditana* is extensively used as a direct feed for rotifers and copepods in marine hatcheries. Its small cell size (2–5 μm) is ideal for ingestion by early-stage larval organisms.
-
-**Omega-3 production:** EPA-rich oil extracted from *N. gaditana* biomass is marketed as a vegetarian alternative to fish oil.
-
-Products include dietary supplements, infant formula ingredients, and functional food additives. [[mushroom-cancer-clinical-trials-overview]] have demonstrated that algal EPA is bioequivalent to fish-derived EPA in raising blood omega-3 indices.
+*N. gaditana* accumulates lipids at 25–50% of dry weight, with a remarkably high proportion of EPA (20:5n-3). EPA typically constitutes 25–40% of total [[mushroom-cancer-clinical-trials-overview]] have demonstrated that algal EPA is bioequivalent to fish-derived EPA in raising blood omega-3 indices.
 
 **Biofuel:** The species' high lipid content and robust growth make it a candidate for algal biodiesel. Techno-economic analyses indicate that biofuel-only production is not yet cost-competitive, but integrated biorefinery models with EPA as the primary product show promise.
 
@@ -82,8 +44,83 @@ This improves the nutritional profile of farmed products, reducing reliance on w
 
 It often contributes to nanoplankton communities in estuarine and nearshore habitats, where nutrient inputs from upwelling or terrestrial runoff support elevated cell densities.
 
-The species can form dense blooms under conditions of high [[ph-and-nutrient-availability-garden-soils]], particularly when nitrogen and phosphorus inputs from agricultural runoff coincide with favorable light and temperature conditions.
-
-As a primary producer, *N. gaditana* contributes to marine [[c3-c4-cam-photosynthesis-plant-carbon-fixation-pathways]] and forms the base of short food chains supporting zooplankton, larval fish, and filter-feeding invertebrates in coastal ecosystems.
+The species can form dense blooms under conditions of high [[c3-c4-cam-photosynthesis-plant-carbon-fixation-pathways]] and forms the base of short food chains supporting zooplankton, larval fish, and filter-feeding invertebrates in coastal ecosystems.
 
 ## Strain Improvement
+
+## Overview
+
+Nannochloropsis Gaditana represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish nannochloropsis gaditana
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving nannochloropsis extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Nannochloropsis Gaditana finds practical application in multiple design contexts.
+[[permaculture-principles]] guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for nannochloropsis gaditana. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+nannochloropsis gaditana and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Nannochloropsis Gaditana has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of nannochloropsis gaditana into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.

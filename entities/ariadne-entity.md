@@ -12,43 +12,7 @@ ARIADNE (4-Methyl-2,5-dimethoxymethamphetamine; DMMDMA) is a psychedelic ampheta
 
 It is documented as entry #99 in PiHKAL by mdma|MDMA is an exception to this pattern, where the N-methyl compound actually has different (not necessarily reduced) activity.
 
-The general principle suggests that the primary amine is preferred at the serotonin [[tihkal-receptor-binding-serotonin]] site responsible for psychedelic effects.
-
-## Synthesis
-
-The synthesis of ARIADNE can proceed through two main routes.
-
-The first route involves direct N-methylation of dom-entity|DOM using formaldehyde and formic acid (Eschweiler-Clarke reaction) or methyl iodide.
-
-The second route starts from the ketone precursor of dom-entity|DOM (2,5-dimethoxy-4-methylphenylacetone), which undergoes reductive amination with methylamine.
-
-Both routes yield the same N-methyl product, which is isolated as the hydrochloride salt.
-
-## Pharmacological Context
-
-ARIADNE demonstrates the importance of the amine nitrogen in receptor binding.
-
-The N-methyl group adds steric bulk and changes the basicity of the amine, both of which can affect receptor interactions.
-
-The compound's reduced potency suggests that the primary amine of dom-entity|DOM forms a specific interaction (possibly a hydrogen bond) with the 5-HT2A receptor that is disrupted by methylation.
-
-Despite the reduced potency, the character of the experience remains recognizably in the DOM family.
-
-## Comparison with DOM
-
-dom-entity|DOM (STP) is one of the most potent psychedelic amphetamines, with a well-documented history including the infamous 1967 STP incident where tablets contained 10 mg instead of the intended 1 mg.
-
-ARIADNE, as the N-methyl homologue, shares DOM's general character but requires 3-5 times the dose.
-
-The reduced potency makes ARIADNE somewhat safer from an accidental overdose perspective, as the difference between an active dose and an excessive dose is larger.
-
-ARIADNE's shorter duration is also an advantage for users seeking a more manageable experience length.
-
-## Legal Status
-
-ARIADNE is likely controlled as an N-methyl homologue of dom-entity|DOM in most jurisdictions.
-
-In the [[dmt-containing-plants-united-states-halpern]], it would fall under analogue drug legislation or specific scheduling of DOM homologues.
+The general principle suggests that the primary amine is preferred at the serotonin [[dmt-containing-plants-united-states-halpern]], it would fall under analogue drug legislation or specific scheduling of DOM homologues.
 
 The compound has never been widely available outside of research settings.
 
@@ -67,7 +31,6 @@ ARIADNE should not be combined with MAOIs or other serotonergic substances.
 - dom-entity|DOM: the N-H parent compound (STP)
 - dob-entity|DOB: the 4-bromo analogue of DOM
 - mdma-entity|MDMA: an N-methyl compound with different pharmacology
-- [[j-entity]]
 - [[5-tasb-entity]]
 ## Practical Considerations
 
@@ -89,3 +52,88 @@ Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
 ## See Also
 - [[ariadne-entity-pihkal]]
+
+## Overview
+
+Ariadne Entity represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish ariadne entity
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving ariadne extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Ariadne Entity finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for ariadne entity. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+ariadne entity and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Ariadne Entity has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of ariadne entity into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[2c-g-3-entity]]
+- [[4-5-mdo-dmt-entity-tihkal]]
+- [[5-6-mdo-dipt-entity-tihkal]]
+- [[ariadne-entity-pihkal]]
+- [[ariadne-pihkal-entry-8]]

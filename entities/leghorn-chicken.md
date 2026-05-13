@@ -9,7 +9,7 @@ tags: [chicken-breed, poultry, permaculture, livestock]
 
 ## Description
 
-The Leghorn is a light chicken breed mentioned by [[bill-mollison]] in *[[permaculture]]: A Designers' Manual* as a contrasting example to heavy breeds like the [[australorp]] and [[rhode-island-red]]. Mollison specifically notes that lighter breeds such as Leghorns can easily clear a 1.2 m fence — a critical behavioural characteristic that affects fencing design and component placement in permaculture systems. The breed illustrates how intrinsic characteristics determine design decisions.
+The Leghorn is a light chicken breed mentioned by [[permaculture]]: A Designers' Manual* as a contrasting example to heavy breeds like the [[rhode-island-red]]. Mollison specifically notes that lighter breeds such as Leghorns can easily clear a 1.2 m fence — a critical behavioural characteristic that affects fencing design and component placement in permaculture systems. The breed illustrates how intrinsic characteristics determine design decisions.
 
 ## Classification
 
@@ -48,34 +48,8 @@ Mollison uses the Leghorn to illustrate the importance of matching breed charact
 1. **Fencing and containment** — Leghorns require taller fencing (or roofed enclosures) than heavy breeds, affecting infrastructure costs and design decisions. In a rotational grazing or orchard integration system, a breed that escapes containment defeats the purpose of controlled foraging
 2. **Climate suitability** — the typically white plumage of Leghorns makes them better suited to hot climates. Mollison notes that "white chickens survive extreme heat, while thickly-feathered large dark chickens survive extreme cold"
 3. **Foraging capacity** — their active temperament and light build make Leghorns excellent foragers, suitable for free-range or pasture-based systems where escape is not a concern
-4. **System integration** — in a [[permaculture-design]], Leghorns might be placed in areas where their flight ability is either managed (covered orchard runs) or is an advantage (free-range pest control in open areas)
-5. **Feed efficiency** — lower body weight means less feed consumed per dozen eggs produced, important in systems where feed must be grown on-site
-
-The Leghorn exemplifies Mollison's design principle that every characteristic of a component must be analysed and matched to the needs and constraints of the overall system. No breed is universally "best" — each has strengths that make it optimal for specific design contexts.
-
-## Connections
-
-- Mentioned alongside Rhode Island Red and Australorp as breed examples in Chapter 3
-- Used to illustrate the concept of "intrinsic" or breed characteristics in component analysis
-- Connects to the permaculture principle of matching component traits to site conditions
-- Relates to fencing design, rotational grazing, and chicken-orchard integration strategies
-- Demonstrates how outputs (eggs) and behaviours (flying) affect where a component can be placed
-
-## Practical Significance
-- Relevant to sustainable land management and ecological design
-- Applications in permaculture and regenerative agriculture
-- Connected to broader themes of resource conservation
-
-## Key Principles
-- Functions within interconnected ecological systems
-- Contributes to overall system resilience and stability
-- Understanding enables better design decisions
-
-## See Also
-- [[fukuoka-textdoc-japanese-bantam-leghorn-calorie-efficiency-chicken]]
-- [[fukuoka-mixed-grazing-pig-cow-chicken-orchard-integration]]
+4. **System integration** — in a [[fukuoka-textdoc-japanese-bantam-leghorn-calorie-efficiency-chicken]]
 - [[permaculture-chicken-raising]]
-- [[chicken-tractor-systems]]
 - [[comparison-chicken-tractor-vs-free-range]]
 
 ## Background and Overview
@@ -97,8 +71,80 @@ The Leghorn exemplifies Mollison's design principle that every characteristic of
 - Supports decision-making in land-use planning
 
 ## Related Topics
-- [[fukuoka-textdoc-japanese-bantam-leghorn-calorie-efficiency-chicken]]
 - [[permaculture-chicken-raising]]
-- [[chicken-keeping]]
 - [[fukuoka-mixed-grazing-pig-cow-chicken-orchard-integration]]
 - [[knf-chicken-house-design]]
+
+## Overview
+
+Leghorn Chicken represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish leghorn chicken
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving leghorn extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Leghorn Chicken finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for leghorn chicken. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+leghorn chicken and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Leghorn Chicken has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of leghorn chicken into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource

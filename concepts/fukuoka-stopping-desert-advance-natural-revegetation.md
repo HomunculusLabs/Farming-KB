@@ -18,23 +18,7 @@ type: concept
 
 The global decline of vegetation and the advance of deserts represents
 one of the most critical ecological crises of the modern era. Fukuoka's
-approach to [[fukuoka-desert-reclamation-projects]] differs fundamentally from conventional
-methods, emphasizing natural revegetation over engineering projects and
-addressing root causes rather than symptoms.
-
-## The Global Crisis of Desertification
-
-From TV programs on China and Korea, it is clear that the mountains in
-those countries are not covered with green as they are in Japan. The
-deserts are so far gone that no trees remain standing. In Africa, children
-and grandchildren travel far from home, going to great trouble to find
-trees to cut, cutting what still stands. This explains why areas that
-were once dense forest have turned into bleak, barren land.
-
-The case of Brazil illustrates the pattern. Japanese trading companies
-began cutting down Amazonian rain forests to grow pasture, and forests
-have given way to desert. The dense forests of Thailand and other parts
-of [[psilocybe-southeast-asia-pacific]], regarded until recently as a treasury of wood, have
+approach to [[psilocybe-southeast-asia-pacific]], regarded until recently as a treasury of wood, have
 been razed, leaving behind barren land. The global decline in vegetation
 has advanced to a degree that tree-planting campaigns are clearly not
 enough.
@@ -44,27 +28,8 @@ enough.
 Current action consists predominantly of civil engineering projects such
 as drawing water and building dams. Having people in towns and cities
 plant trees and providing loans and aid for the construction of dams and
-[[fukuoka-somalia-refugee-gardens-desert-revegetation]]
-
-- [[fukuoka-clay-pellet-desert-greening]]
-- [[fukuoka-desert-reclamation]]
-## Practical Considerations
-
-When working with Stopping the Advance of Deserts Through Natural Revegetation, several practical factors should be
-carefully considered to achieve optimal results. These include
-the specific conditions of the implementation context, available
-resources, timing requirements, and the interactions between this
-topic and other elements of the broader system. A holistic view
-that considers these interconnections produces better outcomes.
-
-Environmental conditions such as temperature, moisture, and
-seasonal patterns significantly influence results. Monitoring these
-variables and adapting practices accordingly is essential for success.
-The most effective practitioners develop keen observation skills and
-respond flexibly to changing conditions rather than following rigid
-protocols regardless of circumstances or local variation.
-
-[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
+[[fukuoka-clay-pellet-desert-greening]]
+- [[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -111,8 +76,6 @@ through generations to modern scientific approaches, the evolution continues
 to inform current best practices and research directions.
 
 ## See Also
-- [[doc]]
 - [[dom]]
-- [[soma]]
 - [[desertification]]
 - [[fukuoka-desert-revegetation-natural-farming]]

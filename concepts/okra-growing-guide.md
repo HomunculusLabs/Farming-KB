@@ -16,13 +16,13 @@ Okra (Abelmoschus esculentus) is a warm-season crop that thrives in hot weather.
 
 ## Growing Requirements
 
-Okra is a heat-loving vegetable that requires warm soil to germinate and [[stamets-cultivator-agaricus-bitorquis-warm-weather-cultivation]] to produce. It performs best in climates with long, hot summers. In marginal climates, [[query-what-is-seed-starting-and-when-should-i-start-seeds-indoors]] indoors and transplant after all danger of frost has passed. Okra is somewhat tolerant of poor soil but needs more than minimum moisture to keep bearing heavily.
+Okra is a heat-loving vegetable that requires warm soil to germinate and [[query-what-is-seed-starting-and-when-should-i-start-seeds-indoors]] indoors and transplant after all danger of frost has passed. Okra is somewhat tolerant of poor soil but needs more than minimum moisture to keep bearing heavily.
 
 ## Soil and Fertilization
 
 - Okra makes deep, penetrating roots and surface feeder roots.
 - It can survive on relatively little water but produces heavily only with adequate moisture.
-- Good candidate for periodic fertigation -- side-dress with a complete [[complete-organic-fertilizer-cof-recipe-solomon]] or [[comparison-biofertilizers-and-soil-inoculants-vs-compost-tea-guide]] during the [[savory-growing-season-and-non-growing-season-management]].
+- Good candidate for periodic fertigation -- side-dress with a complete [[comparison-biofertilizers-and-soil-inoculants-vs-compost-tea-guide]] during the [[savory-growing-season-and-non-growing-season-management]].
 - Avoid following okra with crops susceptible to root-knot nematodes, as okra can harbor them. Good preceding crop is corn.
 
 ## Planting

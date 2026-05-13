@@ -15,15 +15,7 @@ sources:
   - Caterina, M.J. et al. (1997). "The capsaicin receptor: a heat-activated ion channel in the pain pathway." Nature, 389, 816-824.
   - Szallasi, A. & Blumberg, P.M. (1999). "Vanilloid receptors: new insights enhance potential as a therapeutic target." Pain, 82(2), 109-113.
   - Rollyson, W.D. et al. (2014). "Bioavailability of capsaicin and its implications for drug delivery." Journal of Pharmacy and Pharmacology, 66(8), 1064-1073.
-  - Sharma, S.K. et al. (2013). "[[amanita-muscaria-chemistry-and-pharmacology]] of the capsaicinoid receptor TRPV1." Current Drug Targets, 14(9), 1045-1056.
-  - Hayman, M. & Kam, P.C. (2008). "Capsaicin: a review of its pharmacology and clinical applications." Anaesthesia and Intensive Care, 36(1), 68-78.
----
-
-# Capsaicin
-
-## Overview
-
-**Capsaicin** (8-methyl-N-vanillyl-6-nonenamide) is the primary pungent compound in [[query-how-to-grow-chili-peppers-from-seed-to-harvest]] (*Capsicum* species). It is an agonist of the transient receptor potential vanilloid 1 (TRPV1) channel, producing the sensation of burning pain and triggering neurogenic inflammation.
+  - Sharma, S.K. et al. (2013). "[[query-how-to-grow-chili-peppers-from-seed-to-harvest]] (*Capsicum* species). It is an agonist of the transient receptor potential vanilloid 1 (TRPV1) channel, producing the sensation of burning pain and triggering neurogenic inflammation.
 
 Beyond its role as a food irritant, capsaicin has significant [[psilocybin-therapeutic-applications]] as a topical analgesic and anti-inflammatory agent. Capsaicin and related capsaicinoids are responsible for the heat sensation measured by the Scoville scale.
 
@@ -47,38 +39,7 @@ Capsaicin is lipophilic, which allows it to penetrate skin and mucous membranes 
 
 Capsaicin is a potent agonist of TRPV1, a non-selective cation channel expressed on nociceptive C-fiber neurons:
 
-- **Initial activation** — causes influx of Ca²⁺ and Na⁺, depolarizing the neuron and generating [[chamovitz-plant-electrical-signaling-action-potentials]] (burning pain sensation)
-- **Prolonged exposure** — desensitizes and depletes substance P and CGRP from sensory nerve endings, producing analgesia
-- **Receptor internalization** — extended activation leads to endocytosis and degradation of TRPV1, providing sustained pain relief
-
-The paradoxical effect of capsaicin (initial pain followed by analgesia) underlies its therapeutic use. Repeated application progressively reduces pain sensitivity in treated areas.
-
-### Additional Mechanisms
-
-- **Substance P depletion** — reduces neurogenic inflammation and pain signaling
-- **CGRP release inhibition** — diminishes vasodilation and inflammatory mediator release
-- **NF-kB pathway modulation** — contributes to anti-inflammatory effects
-- **Apoptosis induction** — TRPV1-mediated Ca²⁺ overload can induce apoptosis in certain cancer cell lines
-
-### Pharmacokinetics
-
-- **Absorption:** Good percutaneous absorption from topical formulations. Minimal systemic absorption at therapeutic doses.
-- **Half-life:** ~24 minutes (IV); topical residence time of hours to days depending on formulation
-- **Metabolism:** Hepatic via CYP2E1 and FMO3 to 16-hydroxycapsaicin and other oxidative metabolites
-- **Excretion:** Renal (~5% unchanged); primarily excreted as metabolites
-
-## Effects
-
-### Acute Effects
-
-- Intense burning sensation on skin, mucous membranes, and in the oral cavity
-- Vasodilation, sweating, and flushing (gustatory sweating)
-- Increased salivation and gastric secretions
-- Release of endorphins (endogenous analgesic response to pain)
-
-### Therapeutic Effects
-
-- Topical analgesia [[cannabis-for-neuropathic-pain]] (postherpetic neuralgia, diabetic neuropathy)
+- **Initial activation** — causes influx of Ca²⁺ and Na⁺, depolarizing the neuron and generating [[cannabis-for-neuropathic-pain]] (postherpetic neuralgia, diabetic neuropathy)
 - Reduction of joint pain in osteoarthritis and [[blesching-cannabis-rheumatoid-arthritis]]
 - Relief of musculoskeletal pain and lower back pain
 - Pruritus reduction in psoriasis and atopic dermatitis
@@ -88,3 +49,80 @@ The paradoxical effect of capsaicin (initial pain followed by analgesia) underli
 - Local burning, stinging, and erythema at application site (expected, transient)
 - Contact dermatitis and skin irritation with prolonged use
 - Coughing and bronchospasm if inhaled
+
+## Overview
+
+Capsaicin represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish capsaicin
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving capsaicin extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Capsaicin finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for capsaicin. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+capsaicin and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Capsaicin has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of capsaicin into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.

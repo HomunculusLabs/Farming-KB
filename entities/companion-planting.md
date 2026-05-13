@@ -14,23 +14,7 @@ sources:
   - "Jeavons, J. (2012). How to Grow More Vegetables. Ten Speed Press."
   - "Hart, R. (1996). Forest Gardening. Green Books."
   - "Crawford, M. (2010). Creating a Forest Garden. Green Books."
-  - "Caroline, M. (2014). [[cervantes-companion-planting-pest-deterrent]]. Fox Chapel Publishing."
----
-
-# Companion Planting
-
-## Overview
-
-Companion planting is an agricultural and horticultural practice of growing different plant species in close proximity for mutual benefit. Rooted in indigenous farming traditions and formalized through modern agroecology research, companion planting exploits synergistic relationships between plants to improve pest management, enhance pollination, optimize [[aact-nitrogen-forms-microbial-nutrient-cycling-ingham]], and increase overall crop yields. It is a foundational technique in permaculture, [[query-what-is-biodynamic-agriculture-and-how-does-it-differ-from-organic]], and organic farming systems.
-
-## Historical Origins
-
-Companion planting has been practiced for millennia across diverse cultures:
-
-- **Three Sisters (North America)**: Corn, beans, and squash grown together by Iroquois and other indigenous peoples. Corn provides a trellis; beans fix atmospheric nitrogen; squash suppresses weeds and retains soil moisture.
-- **Milpa system (Mesoamerica)**: Maize, beans, and squash intercropped with chili peppers, tomatoes, and amaranth — a polyculture system dating back over 5,000 years.
-- **Rice-fish-duck systems (East Asia)**: Rice paddies integrated with fish and ducks for pest control and fertilization.
-- **[[gaias-garden-keyhole-beds-and-mandala-gardens]] (Java, Indonesia)**: Circular garden designs incorporating diverse companion plantings for food security.
+  - "Caroline, M. (2014). [[aact-nitrogen-forms-microbial-nutrient-cycling-ingham]], and increase overall crop yields. It is a foundational technique in permaculture, [[gaias-garden-keyhole-beds-and-mandala-gardens]] (Java, Indonesia)**: Circular garden designs incorporating diverse companion plantings for food security.
 
 Modern scientific validation of these traditional systems began in the 1970s with the work of agroecologists like Miguel Altieri and Stephen Gliessman, who demonstrated measurable yield advantages and ecological benefits of intercropping and companion planting.
 
@@ -50,13 +34,9 @@ Plants protect neighbors through multiple mechanisms:
 
 ### 2. Nutrient Sharing and Cycling
 
-- **[[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]]**: Legumes (beans, peas, clover, vetch) form [[fungi-in-the-environment-symbiotic-relationships]] with *Rhizobium* bacteria, converting atmospheric N₂ into plant-available forms. Adjacent nitrogen-hungry crops (corn, leafy greens) benefit from this biological fertilizer.
+- **[[fungi-in-the-environment-symbiotic-relationships]] with *Rhizobium* bacteria, converting atmospheric N₂ into plant-available forms. Adjacent nitrogen-hungry crops (corn, leafy greens) benefit from this biological fertilizer.
 - **Deep nutrient mining**: Deep-rooted plants (comfrey, daikon radish, chicory) access nutrients from subsoil layers and bring them to the surface through leaf decomposition.
-- **Nutrient accumulation**: [[comparison-dynamic-accumulators-vs-cover-crops]] (yarrow, nettle, dandelion) concentrate specific minerals: potassium, calcium, iron, magnesium, and silica.
-
-### 3. Physical Support and Microclimate
-
-- **Trellising**: Tall crops (corn, sunflowers, Jerusalem artichokes) provide [[comparison-silicon-vs-calcium-in-plant-defense-and-structural-support]] for climbing plants (beans, cucumbers, Malabar spinach).
+- **Nutrient accumulation**: [[comparison-silicon-vs-calcium-in-plant-defense-and-structural-support]] for climbing plants (beans, cucumbers, Malabar spinach).
 - **Shade regulation**: Tall or broadleaf plants provide shade for heat-sensitive crops (lettuce, spinach, cilantro), extending their growing season in warm climates.
 - **Wind protection**: Hedge-row species and sturdy plants create windbreaks that reduce water loss and physical damage to delicate crops.
 - **Ground cover**: Low-growing plants (sweet potato, squash, thyme) act as living mulch, suppressing weeds and reducing soil evaporation.
@@ -88,3 +68,82 @@ The most documented companion planting system:
 | **Marigold** (*Tagetes spp.*) | Root exudates repel root-knot nematodes; flowers attract pollinators |
 | **Borage** | Repels tomato hornworms; trace mineral accumulator; edible flowers |
 | **Garlic** | Repels spider mites; antifungal properties reduce blight risk |
+
+## Overview
+
+Companion Planting represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish companion planting
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving companion extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Companion Planting finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for companion planting. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+companion planting and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Companion Planting has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of companion planting into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also

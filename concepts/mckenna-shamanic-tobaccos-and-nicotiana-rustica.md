@@ -8,25 +8,17 @@ sources: [mckenna_t-food_of_the_gods.md]
 type: concept
 ---
 
-# Shamanic Tobaccos and the Loss of [[nicotiana-rustica]]
-
-McKenna's treatment of tobacco in Food of the Gods focuses on a rarely discussed dimension of the plant's history: the gap between the powerful, hallucinogenic Nicotiana rustica used by indigenous shamans and the mild commercial Nicotiana tabacum that conquered Europe.
-
-This gap represents a larger pattern in which the introduction of drugs into [[mckenna-dominator-culture-and-suppression-of-ecstasy]] involves a systematic dilution of their psychoactive power, transforming sacred plants into commodities of mere recreation.
+# Shamanic Tobaccos and the Loss of [[mckenna-dominator-culture-and-suppression-of-ecstasy]] involves a systematic dilution of their psychoactive power, transforming sacred plants into commodities of mere recreation.
 
 ## Nicotiana Rustica in Mesoamerica
 
 Tobacco smoking was widespread in North America at the time of European contact. While the habit of taking hallucinogenic DMT-containing snuffs was also prevalent in the Caribbean cultural area, there are no confirmed reports of materials other than tobacco being smoked.
 
-The high culture of the Maya that flourished until the mid-800s in Mesoamerica had an old and complex relationship with tobacco and the habit of smoking it. The tobacco of the Classical Maya was Nicotiana rustica, still in use among aboriginal populations in South America today.
+The high culture of the Maya that flourished until the mid-800s in Mesoamerica had an old and complex relationship with tobacco and the habit of smoking it. The tobacco of the Classical Maya was [[nicotiana-rustica]], still in use among aboriginal populations in South America today.
 
-This species is much more potent, chemically complex, and potentially hallucinogenic than the commercial grades of Nicotiana tabacum available today. The difference between this tobacco and cigarette tobacco is profound and not widely appreciated.
+This species is much more potent, chemically complex, and potentially hallucinogenic than the commercial grades of [[nicotiana-tabacum]] available today. The difference between this tobacco and cigarette tobacco is profound and not widely appreciated.
 
-The wild tobacco was cured and rolled into cigars which were smoked. The trancelike state that followed, partially synergized by compounds including MAO inhibitors, was central to the [[shamanism]] of the Maya. This was not casual recreation but serious spiritual practice.
-
-## Beta-Carboline Alkaloids in Tobacco
-
-Francis Robicsek has published extensively on the Mayan fascination with tobacco and its chemical complexity. [[nicotine]] is by no means the only bioactive substance in the tobacco leaf.
+The wild tobacco was cured and rolled into cigars which were smoked. The trancelike state that followed, partially synergized by compounds including MAO inhibitors, was central to the [[nicotine]] is by no means the only bioactive substance in the tobacco leaf.
 
 Recently alkaloids of the harmala group, harman and norharman, have been isolated from cured commercial tobaccos and their smoke. They constitute a chemical group of beta-carbolines, which include tetrahydroharmine etrahydroharmine, and 6-methoxyharmine, all with hallucinogenic properties.
 

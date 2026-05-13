@@ -20,33 +20,9 @@ sources:
 
 ## Overview
 
-**Ilex opaca**, commonly known as American holly, is a medium-sized evergreen tree in the family Aquifoliaceae native to the eastern and south-central [[dmt-containing-plants-united-states-halpern]]. It is the state tree of Delaware and one of the most widely recognized native [[hamilton-ornamental-trees]] in [[psilocybin-north-america-pacific-northwest]].
+**Ilex opaca**, commonly known as American holly, is a medium-sized evergreen tree in the family Aquifoliaceae native to the eastern and south-central [[hamilton-ornamental-trees]] in [[guzman-psilocybin-mushrooms-north-america]]. The wood is close-grained and white, historically used for inlay work, woodcuts, and tool handles.
 
-The species ranges from Massachusetts south to central Florida and west to eastern Texas and southeastern Missouri. American holly is valued for its spiny evergreen foliage and abundant red drupes that persist through winter.
-
-It is the species most commonly associated with Christmas holly traditions in [[guzman-psilocybin-mushrooms-north-america]]. The wood is close-grained and white, historically used for inlay work, woodcuts, and tool handles.
-
-The genus *Ilex* contains approximately 400–600 species worldwide. American holly is among the most commercially important [[growing-gourmet-north-american-reishi-species]] species in the genus.
-
-## Taxonomy and Morphology
-
-**Classification:** Kingdom Plantae → Order Aquifolales → Family Aquifoliaceae → Genus *Ilex* → Species *I. opaca* Aiton.
-
-**Authority:** William Aiton, *Hortus Kewensis* (1789).
-
-**Growth form:** Evergreen tree, typically 10–15 m tall with a dense, pyramidal crown. In forest conditions it may reach 20–25 m. Open-grown specimens develop a broader, more rounded crown.
-
-**Bark:** Light gray to grayish-white, smooth on young trees, becoming rough and wart-like with age. Inner bark is pale and distinctive.
-
-The bark of mature American holly was historically used by Indigenous peoples for various medicinal preparations and as a source of yellow dye.
-
-**Leaves:** Alternate, simple, elliptic to oblong, 5–15 cm long and 2–4 cm wide. Margins are armed with sharp, alternating spines. Leaves are leathery, dark glossy green above, yellowish-green below.
-
-**Flowers:** Dioecious, with male and female flowers on separate plants. Flowers are small, greenish-white, 4–6 mm across, in axillary clusters. Blooming occurs April–June.
-
-Fruit ripening occurs October–November, with peak display from November through February. The bright red drupes contrast sharply with the dark green foliage.
-
-[[query-how-do-i-prune-brambles-for-maximum-fruit-production]] is often biennial, with heavy crops alternating with light years. Crop failure in a single year can result from late spring frosts damaging flowers.
+The genus *Ilex* contains approximately 400–600 species worldwide. American holly is among the most commercially important [[query-how-do-i-prune-brambles-for-maximum-fruit-production]] is often biennial, with heavy crops alternating with light years. Crop failure in a single year can result from late spring frosts damaging flowers.
 
 ## Distribution and Habitat
 
@@ -87,3 +63,88 @@ Transplanting large specimens is difficult due to a coarse root system; containe
 Numerous cultivars have been selected for superior fruit set, foliage characteristics, and growth habit. Notable selections include 'Jersey Knight' (male pollinizer), 'Jersey Princess' (female, heavy fruiting), 'Merry Christmas', and 'Croonenburg'.
 
 American holly foliage and fruit are commercially harvested for holiday decorations. Sustainable harvest practices involve periodic pruning rather than destructive cutting.
+
+## Overview
+
+Ilex Opaca represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish ilex opaca
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving ilex extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Ilex Opaca finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for ilex opaca. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+ilex opaca and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Ilex Opaca has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of ilex opaca into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[ilex-aquifolium]]
+- [[ilex-guayusa]]
+- [[ilex-paraguariensis]]
+- [[ilex-verticillata]]
+- [[ilex-vomitoria]]

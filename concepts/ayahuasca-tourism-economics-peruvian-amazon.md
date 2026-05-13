@@ -36,9 +36,7 @@ Peru's legal stance on ayahuasca contrasts sharply with its aggressive drug war 
 Two primary destinations for ayahuasca tourists exist in the Ucayali region:
 
 - **Iquitos**: The larger and more established destination, accessible by air from Lima, attracting tourists for over a decade with a well-developed hospitality infrastructure including hotels, restaurants, and tour operators
-- **[[shipibo-san-francisco-ceremonial-center-ucayali]] (Shipibo town)**: Located near Yarina, accessible by taxi ride from Pucallpa. The town's entrance features an enormous sign proclaiming it the "Centro Ceremonial del Ayahuasca." Despite lacking hotel accommodations, it draws visitors specifically for its concentration of Shipibo ayahuasqueros. There are at least a couple of ayahuasqueros in almost every Shipibo family, and many practitioners are willing to host ceremonies for both other Peruvians and foreign visitors.
-
-Additional destinations include [[metzner-barquinha-umbanda-and-afro-brazilian-ayahuasca-syncretism]] churches such as the Santo Daime, which offer a more structured religious context for the experience, and premium American-led retreat operations. While four-star ayahuasca resorts may feel overly contrived to experienced seekers, tours led by established figures such as Peter Gorman are generally considered to offer high-quality, interesting experiences.
+- **[[metzner-barquinha-umbanda-and-afro-brazilian-ayahuasca-syncretism]] churches such as the Santo Daime, which offer a more structured religious context for the experience, and premium American-led retreat operations. While four-star ayahuasca resorts may feel overly contrived to experienced seekers, tours led by established figures such as Peter Gorman are generally considered to offer high-quality, interesting experiences.
 
 ## Pricing Disparity: Foreigners vs. Locals
 
@@ -61,14 +59,7 @@ The economic incentive structure creates several notable and potentially problem
 
 ## Commercial vs. Traditional Ceremony Quality
 
-The commercialization of [[metzner-amazonian-ayahuasca-ceremonies-icaros-and-healing-methods]] fundamentally affects their character and depth. Stuart observed that unless a tourist spent an extended period developing a personal relationship with a practitioner, a commercialized ayahuasca ceremony would likely be shallower than a ritual conducted solely for the benefit of the shaman's relatives and community members.
-
-In commercial settings aimed at foreign tourists, several compromises are typical:
-
-- **Conservative dosing**: Shamans typically administer mild doses to foreign visitors, deliberately erring on the side of caution rather than providing the intense visionary experiences sought by experienced entheogen users. The rationale is understandable given language barriers and inability to assess individual psychological vulnerability.
-- **Observational format**: Tourists primarily observe ritual procedures and listen to icaros (sacred healing songs) rather than receiving the personalized diagnostic and therapeutic attention that characterizes traditional community ceremonies.
-- **Communication barriers**: Linguistic and cultural misunderstandings confound meaningful therapeutic interaction even in ordinary waking consciousness, making deep personal healing work extremely challenging across cultural boundaries.
-- **Liability concerns**: Given that shamans are generally unfamiliar with Western pharmaceuticals and the potential for dangerous [[cannabis-drug-interactions-and-contraindications]] (particularly with SSRI antidepressants, MAO inhibitors, and AIDS medications), conservative approaches serve as necessary self-protection against adverse outcomes.
+The commercialization of [[cannabis-drug-interactions-and-contraindications]] (particularly with SSRI antidepressants, MAO inhibitors, and AIDS medications), conservative approaches serve as necessary self-protection against adverse outcomes.
 
 ## Practitioner Integrity Spectrum
 
@@ -86,39 +77,6 @@ Stuart's fieldwork revealed a wide spectrum of practitioner integrity among ayah
 
 ## Medical Safety Considerations
 
-Stuart documented the death of an AIDS patient during a ceremony in Bolivia. The patient was reportedly sufficiently healthy to dance at the beginning of the service, suggesting a fatal drug interaction between antiretroviral medications and the MAO-inhibiting [[turner-harmala-alkaloids-preparation-and-dosage]] in ayahuasca rather than a direct effect of the brew itself. This case underscores the critical importance of medication screening before ceremony participation.
-
-## Practical Applications
-
-The principles and techniques discussed here have wide-ranging applications
-across multiple disciplines and contexts. Practitioners and researchers
-continue to explore new ways to integrate these concepts into modern practice,
-adapting traditional knowledge to contemporary challenges and opportunities.
-
-## Key Considerations
-
-Several important factors influence the effectiveness and outcomes described
-in this topic. Understanding these considerations helps practitioners make
-informed decisions and avoid common pitfalls. Environmental conditions,
-timing, and material selection all play critical roles.
-
-## Historical Context
-
-The historical development of this subject reflects centuries of accumulated
-knowledge and practical experience. From traditional methods passed down
-through generations to modern scientific approaches, the evolution continues
-to inform current best practices and research directions.
-
-## Common Challenges
-
-Practitioners frequently encounter several challenges when working with
-these concepts. Climate variability, resource limitations, and knowledge
-gaps can all affect outcomes. Addressing these challenges requires patience,
-observation, and a willingness to adapt approaches based on results.
-
-## See Also
-- [[ayahuasca-tourism]]
-- [[ayahuasca]]
+Stuart documented the death of an AIDS patient during a ceremony in Bolivia. The patient was reportedly sufficiently healthy to dance at the beginning of the service, suggesting a fatal drug interaction between antiretroviral medications and the MAO-inhibiting [[ayahuasca-tourism]]
 - [[ayahuasca-ceremony]]
-- [[doc]]
 - [[maps]]

@@ -22,49 +22,7 @@ sources:
 
 **Pleurocybella porrigens** is a small, fan-shaped saprotrophic mushroom commonly known as the **angel wing**. It grows in dense clusters on dead conifer wood, especially fallen logs and stumps of **hemlock** and **spruce**.
 
-The species was long considered an excellent [[bloomfield-boletus-satanus-edible-mushroom-hazards]] in Japan and parts of Europe. However, in 2004, a cluster of **fatal encephalopathy cases** in Japan was linked to consumption of *P. porrigens*, prompting reevaluation of its edibility.
-
-The angel wing is characterized by its pure white, shell-shaped fruiting bodies with short or absent stipes, decurrent gills, and a habitat restricted to dead conifer wood. It fruits in autumn and early winter.
-
-## Taxonomy and Morphology
-
-**Classification:**
-
-- Kingdom: Fungi
-- Division: Basidiomycota
-- Class: Agaricomycetes
-- Order: Agaricales
-- Family: Amylocorticiaceae
-- Genus: *Pleurocybella*
-- Species: *P. porrigens* (Pers.) Singer
-
-Originally described as *Agaricus porrigens* by Christiaan Hendrik Persoon in 1796, the species has undergone several taxonomic transfers. Rolf Singer placed it in *Pleurocybella* in 1947 based on its unique combination of oyster-like morphology and amyloid spore ornamentation.
-
-**Synonyms:** *Agaricus porrigens* Pers., *Pleurotus porrigens* (Pers.) P. Kumm., *Dendrosarcus porrigens* (Pers.) Kuntze.
-
-**Cap:** 1–5 cm, shell-shaped to spatulate, often irregular and lobed. Surface smooth, white to cream-colored, sometimes with a faint silky sheen. Margin is thin, often wavy and sometimes split.
-
-**Gills:** Narrow, crowded, decurrent (running down the stipe), white, with many cross-veins (anastomosing). Gill edges are smooth and entire.
-
-**Stipe:** 0.5–2 cm long, lateral or eccentric, very short to nearly absent. White, tough, and fibrous. Often the cap appears almost sessile.
-
-**Flesh:** Thin, white, tough and rubbery when fresh, becoming brittle when dry. Odor mild or faintly farinaceous. Taste mild.
-
-**Spore print:** White.
-
-**Spores:** 5–7 × 3–4 µm, ellipsoid, smooth, amyloid. Basidia four-spored, clavate.
-
-## Distribution and Habitat
-
-*Pleurocybella porrigens* has a **boreal and temperate** distribution. It is found across Europe, Asia (especially Japan), and [[guzman-psilocybin-mushrooms-north-america]]. In North America it occurs primarily in the [[psilocybin-north-america-pacific-northwest]] and northeastern regions.
-
-It is a **saprotrophic** wood-decay fungus, growing almost exclusively on dead conifer wood. Preferred substrates include hemlock, spruce, fir, and occasionally pine. Fruitings occur in dense overlapping clusters on logs, stumps, and fallen branches.
-
-The fruiting season extends from September through January, with peak abundance in October and November. Cold temperatures and high humidity favor abundant fruiting.
-
-## Toxicity Concerns
-
-In 2004, **17 cases of acute encephalopathy** were reported in Japan following consumption of *P. porrigens*. Of these, 10 patients died. The outbreak primarily affected [[cannabis-elderly-patients]] with pre-existing **renal impairment**.
+The species was long considered an excellent [[guzman-psilocybin-mushrooms-north-america]]. In North America it occurs primarily in the [[cannabis-elderly-patients]] with pre-existing **renal impairment**.
 
 Subsequent investigation by Sasaki et al. (2011) identified an unstable amino acid, possibly **pleurocybellazine**, as a candidate toxin. The compound appears to be heat-labile and water-soluble, and its concentration varies significantly between collections.
 
@@ -78,12 +36,83 @@ Prior to the 2004 incidents, *P. porrigens* was widely regarded as a choice edib
 
 In light of the toxicity reports, many mycological authorities now recommend **avoiding consumption** altogether. Some jurisdictions have added the species to lists of mushrooms to avoid.
 
-If consumed, thorough cooking is essential. Boiling and discarding the cooking water may reduce risk, as the suspected toxin is water-soluble. However, no [[pf-tek-substrate-formula-and-jar-preparation-method]] has been demonstrated to eliminate risk entirely.
-
-## Ecological Role
-
-*P. porrigens* is a **white-rot decomposer** of conifer wood. It produces lignin-degrading enzymes including laccase and [[fungal-manganese-peroxidase-remediation]], contributing to the breakdown of woody debris in [[dighton-fungi-acidifying-pollutants-forest-ecosystems]].
-
-Its role in **[[comparison-nutrient-cycling-vs-nutrient-dense-gardening]]** is particularly important in old-growth conifer forests where hemlock and spruce are dominant. The species helps convert recalcitrant lignin into simpler [[fungal-volatile-organic-compounds-communication]] available to other soil organisms.
+If consumed, thorough cooking is essential. Boiling and discarding the cooking water may reduce risk, as the suspected toxin is water-soluble. However, no [[fungal-manganese-peroxidase-remediation]], contributing to the breakdown of woody debris in [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]]** is particularly important in old-growth conifer forests where hemlock and spruce are dominant. The species helps convert recalcitrant lignin into simpler [[fungal-volatile-organic-compounds-communication]] available to other soil organisms.
 
 The fruiting bodies serve as a food source for various invertebrates, including fungivorous beetles and springtails. Deer and small mammals occasionally browse the clusters, though the tough texture makes it a less preferred food item.
+
+## Overview
+
+Pleurocybella Porrigens represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish pleurocybella porrigens
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving pleurocybella extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Pleurocybella Porrigens finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for pleurocybella porrigens. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+pleurocybella porrigens and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Pleurocybella Porrigens has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of pleurocybella porrigens into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.

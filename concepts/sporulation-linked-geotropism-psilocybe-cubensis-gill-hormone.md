@@ -1,6 +1,6 @@
 ---
 title: Sporulation Linked Geotropism Psilocybe Cubensis Gill Hormone
-aliases: [spore geotropism connection, gill hormone geotropism, sporulation [[coprophilous-habitat-negative-geotropism-spore-dispersal-adaptation]], [[sporeless-mutant-geotropism-link-psilocybe-cubensis]], pileus reorientation mechanism]
+aliases: [spore geotropism connection, gill hormone geotropism, sporulation sporeless-mutant-geotropism-link-psilocybe-cubensis, pileus reorientation mechanism]
 tags: [mycology, tropism, geotropism, sporulation, psilocybe-cubensis, mushroom-physiology, hormonal-control, basidiocarp]
 sources:
   - tropisms-in-the-mushroom-psilocybe-cubensis.md
@@ -10,7 +10,7 @@ sources:
 
 ## Overview
 
-Badham (1982) discovered a critical link between spore production and the expression of [[negative-geotropism-in-mushroom-fruiting]] *Psilocybe cubensis*. When basidiocarps begin producing spores, the stipe undergoes a directional change — bending upward so the pileus faces horizontally with lamellae pointing downward. This tropic switch does not occur in sporeless mutants, establishing that spore production itself is necessary for the [[spore-formation-geotropic-response-psilocybe-cubensis-badham-1982]].
+Badham (1982) discovered a critical link between spore production and the expression of [[spore-formation-geotropic-response-psilocybe-cubensis-badham-1982]].
 
 ## The Two-Phase Tropic Model
 
@@ -53,7 +53,7 @@ The sporeless mutant grows normally through Phase 1, curving into the wind just 
 
 The existence of a mushroom "growth hormone" has been postulated by several researchers:
 
-- **Gruen (1963)** — Proposed endogenous growth regulation in carpophores of *Agaricus bisporus*
+- **Gruen (1963)** — Proposed endogenous growth regulation in carpophores of *[[agaricus-bisporus]]*
 - **Hagimoto (1963)** — Linked a [[mushroom-growth-hormone-decapitation-gill-diffusate-evidence-basidiomycetes]] to geotropic response in *Agaricus bisporus*
 - **Hagimoto and Konishi (1960)** — Showed that agar diffusates from the gills can partially replace the influence of the pileus
 
@@ -88,3 +88,7 @@ The chemical identity of the gill-produced tropic hormone remains unknown. Sever
 - **Indole acetic acid (IAA)** — Found in *Agaricus bisporus* fruitbodies (Konishi and Hagimoto, 1961), but no evidence suggests it regulates mushroom tropisms
 - **Gibberellin-like substances** — Detected in basidiomycete sporophores (Pegg, 1973), but functional role unclear
 - **Ethylene** — Implicated in autochemotropism of *Phycomyces* (Russo et al., 1977), a related fungus that shows similar tropic responses
+
+## See Also
+
+- [[sporeless-mutant-geotropism-link-psilocybe-cubensis]]

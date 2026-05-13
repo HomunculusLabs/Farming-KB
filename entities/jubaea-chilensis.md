@@ -23,9 +23,7 @@ sources:
 
 ## Overview
 
-Jubaea chilensis, commonly known as the Chilean wine palm or coquito palm, is the southernmost naturally occurring palm species in [[guzman-psilocybin-mushrooms-south-america]] and one of the most massive palms in the world. It is the sole species in the genus Jubaea and is endemic to a narrow coastal zone of central Chile.
-
-The species is renowned for producing the largest diameter trunk of any palm, reaching up to 1.3 meters and occasionally exceeding 1.8 meters in exceptional specimens. Mature trees can weigh over 30 metric tons, making them among the heaviest [[savory-living-organisms-as-tools]].
+Jubaea chilensis, commonly known as the Chilean wine palm or coquito palm, is the southernmost naturally occurring palm species in [[savory-living-organisms-as-tools]].
 
 Chilean wine palms are critically important for their edible coquito nuts, which resemble miniature coconuts in appearance and flavor. The sap, tapped from felled trees, is fermented to produce palm wine (miel de palma), a tradition dating back to pre-Columbian indigenous communities.
 
@@ -67,17 +65,9 @@ The habitat is characterized by a Mediterranean-type climate with hot, dry summe
 
 Soils are typically shallow, rocky, and well-drained, derived from granitic and metamorphic parent material. The species tolerates moderately acidic to neutral soil conditions.
 
-The Chilean Matorral is recognized as a [[psilocybe-genus-global-biodiversity]] hotspot, and Jubaea chilensis is one of its most iconic plant species. The palm groves support diverse assemblages of epiphytes, lianas, and understory shrubs adapted to the Mediterranean climate.
+The Chilean Matorral is recognized as a [[fukuoka-natural-farming-temperate-climates]] worldwide. Its massive stature, smooth gray trunk, and elegant pinnate fronds make it one of the most impressive palms in cultivation.
 
-## Cultivation and Uses
-
-### Ornamental Use
-
-Jubaea chilensis is highly valued as an ornamental specimen palm in Mediterranean and warm [[fukuoka-natural-farming-temperate-climates]] worldwide. Its massive stature, smooth gray trunk, and elegant pinnate fronds make it one of the most impressive palms in cultivation.
-
-The species is hardy to approximately -12°C when mature, making it suitable for cultivation in California, southern Europe, parts of Australia, and other Mediterranean [[mollison-climate-zones-permaculture-strategies]]. It is among the most cold-tolerant pinnate-leaved palms available.
-
-[[soil-temperature-plant-growth-rate-doubling-rule]] is slow, particularly in the early years. Seedlings may produce only 2-4 leaves per year and remain trunkless for 10-15 years. Trunk elongation accelerates once established, typically reaching 20-30 cm per year.
+The species is hardy to approximately -12°C when mature, making it suitable for cultivation in California, southern Europe, parts of Australia, and other Mediterranean [[soil-temperature-plant-growth-rate-doubling-rule]] is slow, particularly in the early years. Seedlings may produce only 2-4 leaves per year and remain trunkless for 10-15 years. Trunk elongation accelerates once established, typically reaching 20-30 cm per year.
 
 ### Coquito Nuts
 
@@ -85,6 +75,6 @@ The edible seeds, known as coquitos, are one of the most valued products of the 
 
 Commercial coquito production is primarily from cultivated trees and legally permitted wild collection in designated areas. The nuts are harvested from fallen fruit during the autumn months.
 
-[[fukuoka-textdoc-fallacy-infinite-nutritional-analysis]] shows coquitos are rich in fats and carbohydrates, with approximately 35-40% oil content. The oil is composed primarily of lauric, oleic, and myristic [[carbon-isotope-labelling-mycorrhizal-fatty-acids]].
+[[carbon-isotope-labelling-mycorrhizal-fatty-acids]].
 
 Coquitos are commercially available in Chilean markets and are increasingly exported as a specialty food product. Their [[ingham-aact-holding-time-shelf-life-decay]] is extended by the hard endocarp, which protects the edible endosperm from desiccation and spoilage.

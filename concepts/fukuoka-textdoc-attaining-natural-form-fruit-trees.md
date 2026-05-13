@@ -22,49 +22,19 @@ type: concept
 
 # Attaining the Natural Form of Fruit Trees
 
-Fukuoka's research into the natural forms of fruit trees represents one of his most significant practical contributions to orcharding. His discovery that most [[query-how-do-i-prune-fruit-trees-naturally]] grow in a [[comparison-central-leader-vs-open-center-fruit-tree-training]] form, contrary to the open-centered systems advocated by specialists, led him to develop methods for training trees to forms that require minimal or no pruning.
+Fukuoka's research into the natural forms of fruit trees represents one of his most significant practical contributions to orcharding. His discovery that most [[comparison-central-leader-vs-open-center-fruit-tree-training]] form, contrary to the open-centered systems advocated by specialists, led him to develop methods for training trees to forms that require minimal or no pruning.
 
 ## The Search for Natural Form
 
-The art of [[no-pruning-fruit-trees]] is the most advanced skill in orcharding, and is even said to separate the good farmer from the bad. Although Fukuoka had grown fruit trees without pruning, he found this very difficult going at first because he did not know what the natural forms of the different types of fruit trees were.
-
-The natural forms shown from time to time in journals on [[berry-and-small-fruit-growing]] are not at all what they are made out to be. These are just abandoned trees of confused shape that have been left to grow untended after having been initially pruned and otherwise cared for.
+The art of [[berry-and-small-fruit-growing]] are not at all what they are made out to be. These are just abandoned trees of confused shape that have been left to grow untended after having been initially pruned and otherwise cared for.
 
 It was relatively easy to determine that the natural form of most deciduous fruit trees is a central leader system, but determining the natural form of citrus trees, and especially the Satsuma orange, proved difficult.
 
 ## The Failure of Abandonment
 
-Fukuoka first tried applying [[natural-farming]] methods to an established grove of Satsuma orange trees with a couple of hundred trees to the acre. Trees at the time were trimmed in the shape of a wineglass and the height held to about six or seven feet.
+Fukuoka first tried applying [[query-how-do-i-prune-brambles-for-maximum-fruit-production]] in the interior portion of the trees. This experience taught him that abandoning the trees was the wrong way to approach their natural form, but heavy pruning was equally misguided.
 
-When he simply discontinued pruning, large numbers of scaffold branches and laterals grew out at once. Before he knew it, these began crisscrossing, doubling back, and growing in strange, twisted shapes. Places where the branches and leaves grew tangled became disease sites and drew insects.
-
-One dying branch caused other branches to wither and die. The confused shape of the tree resulted in irregular fruit formation. Fruit grew either too far apart or too close together and the tree produced a full crop only every other year.
-
-## The Failure of Heavy Pruning
-
-To correct these gross disorders, Fukuoka then tried the reverse: heavy pruning and thinning. He left only several rising suckers remaining. Yet four or five primary scaffold branches were still too many, with too little space left between adjoining branches.
-
-Growth at the center of the trees was poor and the inner branches gradually withered, causing a sharp drop in [[query-how-do-i-prune-brambles-for-maximum-fruit-production]] in the interior portion of the trees. This experience taught him that abandoning the trees was the wrong way to approach their natural form, but heavy pruning was equally misguided.
-
-Following the end of the war, specialists began advocating a natural open-centered system consisting of removing scaffold branches at the center while leaving several scaffolds projecting outward at angles of about 42 degrees. Fukuoka's ultimate goal, however, remained to practice [[cho-loess-powder-in-natural-farming]] without pruning at all.
-
-## Natural Forms of Various Fruit Trees
-
-Through observation of trees grown from seed and a large number of unpruned trees of various types, Fukuoka identified the following natural forms:
-
-- **Early-ripening Satsuma orange**: Low, pyramidal form
-- **Late-ripening Satsuma orange**: Tallish, cypress-like conical form
-- **Summer orange, shaddock, persimmon, chestnut, pear, apple, loquat**: Tall, cedar-like conical form
-
-All of these are basically central leader type trees. Their differences in form arise primarily from the differing number, angle, and directions of the scaffold branches that grow from the central leader. In form, they resemble forest trees such as cryptomeria, Japanese cypress, pine, and live oak.
-
-People have merely been misled by the various forms these fruit trees have taken after being disturbed by their environment and human intervention.
-
-## The Shaddock and Summer Orange as Models
-
-The shaddock and summer orange tend to have an upright central trunk and a height greater than the spread, sometimes resembling a cedar in aspect. The Satsuma orange generally has an irregularly flattened or hemispherical shape.
-
-This basic central leader type conical shape can occur in an essentially infinite number of variations depending on the type of tree and the cultivation conditions. The fact that few [[fukuoka-mandarin-orange-citrus]] trees grown in their natural form take on a central leader type form indicates that these trees have weak terminal bud dominance and tend to develop an open crown.
+Following the end of the war, specialists began advocating a natural open-centered system consisting of removing scaffold branches at the center while leaving several scaffolds projecting outward at angles of about 42 degrees. Fukuoka's ultimate goal, however, remained to practice [[fukuoka-mandarin-orange-citrus]] trees grown in their natural form take on a central leader type form indicates that these trees have weak terminal bud dominance and tend to develop an open crown.
 
 They are frutescent, having several scaffold branches extending with equal vigor that produce a confused form. While many types of trees fully retain their innate character, other trees have natural forms that are easily upset during cultivation.
 
@@ -72,9 +42,7 @@ They are frutescent, having several scaffold branches extending with equal vigor
 
 ### Step 1: Determine the Natural Form First
 
-The very first thing one must do when preparing to grow a type of fruit tree by [[cho-poultry-natural-farming-methods]] is to know the natural form for that fruit tree. For Satsuma orange trees, the scaffold branches do not grow very straight and there is great individual variation.
-
-To determine the natural form of citrus, Fukuoka looked at a cross-section of hardier and more vigorous [[query-best-citrus-varieties-for-different-climates]] than the Satsuma orange. The summer orange and the shaddock were especially useful in this regard. Both are clearly of the central leader type.
+The very first thing one must do when preparing to grow a type of fruit tree by [[query-best-citrus-varieties-for-different-climates]] than the Satsuma orange. The summer orange and the shaddock were especially useful in this regard. Both are clearly of the central leader type.
 
 ### Step 2: Begin with Proper Planting
 
@@ -117,8 +85,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[fukuoka-textdoc-natural-form-fruit-trees]]
 - [[fukuoka-argument-against-pruning-natural-form-fruit-trees]]
-- [[fukuoka-textdoc-search-natural-form-citrus-trees]]
 - [[doc]]
 - [[dom]]

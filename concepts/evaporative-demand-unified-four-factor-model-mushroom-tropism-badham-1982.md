@@ -10,11 +10,7 @@ mined: 2026-05-11
 
 ## Overview
 
-In his 1982 study of *[[anemotropism-in-psilocybe-cubensis]]* tropisms, Edmond R. Badham proposed
-that evaporative demand could serve as a unifying mechanism underlying multiple
-tropic responses in mushrooms, including anemotropism (wind response),
-phototropism (light response), and aspects of geotropism. The model identifies
-four [[duggar-mushroom-environmental-factors-temperature-moisture-light]] that collectively determine the evaporative demand
+In his 1982 study of *[[duggar-mushroom-environmental-factors-temperature-moisture-light]] that collectively determine the evaporative demand
 gradient across the stipe surface.
 
 ## The Four Factors
@@ -40,10 +36,7 @@ factors":
    become the dominant factor of evaporative demand, potentially overriding wind
    effects.
 
-4. **Temperature** — [[jadam-ambient-temperature-principle]] affects both the absolute moisture
-   capacity of air and the surface temperature of the stipe. Badham maintained
-   temperature at 24.5 ± 1.5°C using a temperature proportioner module. The
-   interaction between [[greg-green-temperature-and-humidity-control]] creates the water vapor pressure
+4. **Temperature** — [[greg-green-temperature-and-humidity-control]] creates the water vapor pressure
    deficit that drives evaporation.
 
 ## The Boundary Layer Redistribution Mechanism
@@ -103,23 +96,11 @@ gases beyond water vapor participate in the tropic signaling cascade.
 
 Several observations complicate the evaporative demand model:
 
-1. **The [[coprophilous-habitat-negative-geotropism-spore-dispersal-adaptation]] at Stage 2** appears to be regulated by a different
-   mechanism — one linked to spore production and potentially involving
-   gill-produced hormones. This tropism masks the evaporative-driven anemotropism
-   once spore formation begins.
-
-2. **The sporeless mutant** fails to show [[mushroom-negative-geotropism]] at Stage 2 but
+1. **The [[mushroom-negative-geotropism]] at Stage 2 but
    still exhibits anemotropic curvature during Stages 1-2, suggesting the two
    tropisms operate through distinct pathways.
 
-3. **Light has at least four documented roles** in acropetal cell expansion stipe elongation mushroom development stipe elongation [[bloomfield-mushroom-development-without-meristems]]
-   (Eger-Hummel, 1980), and not all of them can be explained through evaporative
-   effects alone — some involve photoreceptor-mediated developmental switches.
-
-## Comparative Context: *Phycomyces* as a Model System
-
-The zygomycete *Phycomyces blakesleeanus* has been extensively studied as a
-model for [[fungal-tropisms-and-gravitropic-responses]] provides useful comparisons:
+3. **Light has at least four documented roles** in acropetal cell expansion stipe elongation mushroom development stipe elongation [[fungal-tropisms-and-gravitropic-responses]] provides useful comparisons:
 
 - *Phycomyces* shows both anemotropism and an avoidance response (Cohen et al.,
   1975), paralleling the dual tropism phases in *P. cubensis*

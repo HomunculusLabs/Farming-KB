@@ -23,25 +23,7 @@ sources:
 
 ## Overview
 
-**Tagetes lucida** is a perennial herbaceous plant in the aster family (Asteraceae), native to Mexico and [[guzman-allen-gartz-neurotropic-fungi-central-america-caribbean]]. Known by many common names — Mexican tarragon, sweet marigold, sweet mace, yerba anís, pericón, and Texas tarragon — it has been used for centuries as a culinary herb, medicinal plant, ritual entheogen, and insect-repelling companion plant. It is a versatile species with significant applications in permaculture, traditional medicine, and ethnobotany.
-
-## Taxonomy
-
-| Rank | Classification |
-|------|---------------|
-| Kingdom | Plantae |
-| Division | Magnoliophyta |
-| Class | Magnoliopsida |
-| Order | Asterales |
-| Family | Asteraceae |
-| Genus | *Tagetes* |
-| Species | *T. lucida* |
-
-### Related Species
-
-- **Tagetes erecta** (African marigold): Larger ornamental, used in Day of the Dead celebrations
-- **Tagetes patula** ([[comparison-french-marigold-vs-mustard-biofumigation]]): Common [[comparison-companion-planting-reference-vs-jadam-monoculture-critique]] species
-- **[[tagetes-minuta]]** (Huacatay): [[chiric-caspi-brunfelsia-south-american-hallucinogen]] culinary herb [[permaculture-plants-insectary-and-pest-repellent]]
+**Tagetes lucida** is a perennial herbaceous plant in the aster family (Asteraceae), native to Mexico and [[comparison-french-marigold-vs-mustard-biofumigation]]): Common [[tagetes-minuta]]** (Huacatay): [[permaculture-plants-insectary-and-pest-repellent]]
 - **Tagetes tenuifolia** (Signet marigold): Edible flowers, compact ornamental
 
 ## Morphology
@@ -53,37 +35,88 @@ sources:
 - **Roots**: Fibrous root system with moderate taproot development
 - **Aroma**: Strongly anise-scented (from estragole), sweet and warm; leaves release fragrance when brushed or crushed
 - **Hardiness**: USDA Zones 8–11; dies back to ground in frost but returns from roots
-- **Pollinators**: Attracts butterflies, bees, and [[comparison-beneficial-insects-guide-vs-integrated-pest-management]]
-
-## Chemical Composition
-
-### Essential Oil
-
-The essential oil of *T. lucida* is complex and varies by chemotype and growing conditions:
-
-- **Estragole (methyl chavicol)**: 60–80% — primary aromatic compound; sweet anise flavor and fragrance
-- **Anethole**: 5–15% — contributes sweet anise flavor
-- **Ocimene**: 2–8% — citrus/herbal notes
-- **Eucalyptol (1,8-cineole)**: 1–5% — camphoraceous notes
-- **Limonene**: Trace amounts — citrus character
-- **Piperitone**: Trace — minty notes
-- **Methyl eugenol**: Variable presence — a compound of regulatory concern in some jurisdictions
-
-### Non-Volatile Compounds
-
-- **Flavonoids**: Quercetin, luteolin, patuletin, and their glycosides — antioxidant and anti-inflammatory activity
-- **Coumarins**: Scopoletin, umbelliferone — antimicrobial and spasmolytic properties
-- **Thiophenes**: Tagetin, 5-methoxy-2,2'-bithiophene — nematicidal and insecticidal activity
-- **Xanthophylls**: Lutein, zeaxanthin — pigments with antioxidant properties
-
-## Ethnobotanical and Ceremonial Use
-
-### Aztec and Mesoamerican Ritual
-
-- **Ritual entheogen**: *T. lucida* was used by the Aztecs (Nahuatl: *yauhtli*) in [[entheogenic-folk-religious-ceremonies]], often in combination with *[[mckenna-shamanic-tobaccos-and-nicotiana-rustica]]* (wild tobacco) to enhance psychoactive effects
-- **Violeta ceremony**: In some Mesoamerican traditions, the dried herb is prepared as a tea or smoked to induce vivid dreams, altered perception, and mild trance states
-- **Day of the Dead (Día de los Muertos)**: Used alongside other marigold species (*cempasúchil*) to honor deceased ancestors; believed to guide spirits with its fragrance
-- **Rain ceremonies**: Aztec priests used *yauhtli* in rituals dedicated to Tlaloc, the rain god
-- **Shamanic divination**: Huichol and other [[guzman-allen-gartz-indigenous-mexican-mushroom-nomenclature-sacred-names]] groups have used the herb in vision quests and healing ceremonies
+- **Pollinators**: Attracts butterflies, bees, and [[entheogenic-folk-religious-ceremonies]], often in combination with *[[guzman-allen-gartz-indigenous-mexican-mushroom-nomenclature-sacred-names]] groups have used the herb in vision quests and healing ceremonies
 
 ### Traditional Medicine
+
+## Overview
+
+Tagetes Lucida represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish tagetes lucida
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving tagetes extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Tagetes Lucida finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for tagetes lucida. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+tagetes lucida and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Tagetes Lucida has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of tagetes lucida into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[tagetes]]
+- [[tagetes-minuta]]

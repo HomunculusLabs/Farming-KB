@@ -5,14 +5,7 @@ mind, modulating not only physiological processes like pain, inflammation, and
 immunity but also the emotional states that influence health and disease.
 Drawing on the work of pharmacologist Candace Pert (author of *Molecules of
 Emotion*) and developmental cell biologist Bruce Lipton (author of *The Biology
-of Belief*), Uwe Blesching's [[blesching-cannabis-health-index-autoimmune-conditions]] presents a framework for
-understanding how specific endogenous molecules correspond to emotional
-experience—and how both directions of this relationship can be consciously
-influenced to support healing.
-
-## The Two-Way Street: Molecules and Emotions
-
-Every cell of the human body communicates via [[query-how-do-plants-use-chemical-signals-to-defend-against-insects]] (molecules) and
+of Belief*), Uwe Blesching's [[query-how-do-plants-use-chemical-signals-to-defend-against-insects]] (molecules) and
 non-physical signals (emotions, sunlight, intention). When a person encounters
 or imagines a fearful situation, an emotional signal reaches the adrenal glands,
 which instruct cellular DNA to code for adrenalin. This molecule enters the
@@ -22,52 +15,12 @@ emotion changes the body's chemistry, and changing the body's chemistry shifts
 emotional experience.
 
 The field of epigenetics demonstrates that environmental signals—including
-emotions—can initiate changes in [[oner-cannabis-phenotypes-genetic-expression]] without altering DNA
-sequence. Studies show that traumatic emotional experiences produce immediate
-biological changes that can be inherited by offspring, while chronically
-suppressed emotions exacerbate conditions such as hypertension, cardiovascular
-disease, and breast cancer. The ECS plays a central modulatory role in this
-mind-body communication network.
-
-## Molecules of Expansive Emotions
-
-Expansive emotions—those associated with openness, calm, connection, and
-well-being—correlate with a distinct set of endogenous molecules. Many of these
-molecules are produced in tissues containing [[cannabinoid-receptors-cb1-cb2]] (CB1 and/or
+emotions—can initiate changes in [[cannabinoid-receptors-cb1-cb2]] (CB1 and/or
 CB2), placing the ECS in a position to modulate their activity.
 
 **Acetylcholine** ("I remember"): Produced by neurons throughout the body (which
 contain CB1 receptors), acetylcholine is the only neurotransmitter of the
-voluntary nervous system and also operates in the [[endocannabinoid-autonomic-nervous-system-balance-blesching]]. Low
-levels are associated with insomnia, impaired creativity, and dementia. THC at
-low to medium doses can increase acetylcholine in the brain.
-
-**Anandamide** ("I am at ease"): An endogenous cannabinoid produced in cell
-membranes (which contain both CB1 and CB2), anandamide is the body's own
-version of THC. It may reduce hypertension, depression, fear, and anxiety while
-contributing to social play behavior. Exercise, meaningful social interaction,
-and meditation all naturally boost anandamide levels. It inhibits cancer cell
-movement and may prevent metastasis.
-
-**GABA** ("I am melting"): The brain's primary inhibitory neurotransmitter,
-often called the brain's own Valium. Made in brain cells from glutamate (and
-brain cells contain CB1), GABA regulates nerve cell excitability and muscle
-tone. Yoga has been shown to increase brain GABA by 27%. Low GABA is linked to
-irritability, anxiety, panic attacks, ADHD, and depression.
-
-**Oxytocin** ("I feel for you"): Produced in the hypothalamus and stored in the
-pituitary (both containing CB1), oxytocin is the "cuddle molecule" involved in
-bonding, trust, empathy, and generosity. It reduces blood pressure, cravings,
-pain, and inflammation while enhancing wound healing. The ECS is directly
-involved in oxytocin production and release; anandamide modulates oxytocin
-levels, and CB1 receptors are essential for oxytocin's pain-reducing effects.
-
-**Serotonin** ("I am happy"): Primarily made in the digestive tract (which
-contains mainly CB2 receptors), serotonin regulates mood, sleep, appetite, and
-bowel function. Positive mood increases serotonin; negative mood decreases it.
-The ECS modulates stress-related disorders partly through serotonin regulation.
-
-**[[endogenous-opioids-pain-modulation-endocannabinoid-interaction]]** ("It feels so good when the pain stops"): Produced by the
+voluntary nervous system and also operates in the [[endogenous-opioids-pain-modulation-endocannabinoid-interaction]]** ("It feels so good when the pain stops"): Produced by the
 central nervous system and pituitary (both containing CB1), these include beta-
 endorphins, enkephalins, dynorphins, endomorphins, and nociceptin. THC reduces
 pain in part by inducing release of dynorphins.
@@ -118,8 +71,80 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[endocannabinoid-system]]
 - [[doc]]
-- [[uwe-blesching]]
 - [[dom]]
 - [[serotonin]]
+
+## Overview
+
+Endocannabinoid System Emotional Molecules represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish endocannabinoid system emotional molecules
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving endocannabinoid extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Endocannabinoid System Emotional Molecules finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for endocannabinoid system emotional molecules. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+endocannabinoid system emotional molecules and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Endocannabinoid System Emotional Molecules has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of endocannabinoid system emotional molecules into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource

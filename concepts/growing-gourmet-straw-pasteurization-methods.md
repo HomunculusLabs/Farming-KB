@@ -34,28 +34,7 @@ accepting a limited number of contaminants and selectively favoring
 mushroom mycelium.
 
 Growing on straw is far less expensive than growing on sawdust.
-Many cottage growers enter the [[growing-gourmet-mushroom-dehydration-methods-equipment]] industry by first
-cultivating [[growing-gourmet-king-stropharia-cultivation]], [[growing-gourmet-button-mushroom-agaricus-cultivation]] also thrive on straw-based substrates.
-
-## The Hot Water Bath Method
-
-The first and most common method is submerged pasteurization using
-a hot water bath. Straw is first chopped into 1-4 inch lengths and
-stuffed into a wire basket. The basket is submerged in a cauldron
-of 160 degrees F (71-82 degrees C) water for 1-2 hours, heated from
-underneath by a portable propane gas burner.
-
-The straw basket is forcibly pushed down into the steaming water
-and held in place. A probe thermometer, at least 12 inches in
-length, is inserted deep into the brothing mass. The straw is
-submerged for at least one hour and no longer than two. Upon
-removing, the straw is well drained and laid out in a shallow
-layer onto cleaned surfaces to rapidly cool.
-
-An important note: after two soakings, the hot water must be
-discarded. The discolored water, often referred to as "straw tea,"
-becomes toxic to mushroom mycelium after the third soaking,
-retarding or preventing further [[brassinosteroid-psilocybe-cubensis-mycelial-growth-research]]. Interestingly,
+Many cottage growers enter the [[growing-gourmet-king-stropharia-cultivation]], [[brassinosteroid-psilocybe-cubensis-mycelial-growth-research]]. Interestingly,
 this tea is toxic to most vegetation and could be used as a natural
 herbicide.
 
@@ -67,27 +46,7 @@ straw must be moistened by spreading chopped straw over a large
 surface area and spraying with water over a two to four day period.
 The straw is turned every day to expose dry zones.
 
-One ton of [[non-sterilized-wheat-straw-oyster-cultivation]], chopped and soaked, occupies approximately
-250 cubic feet of space. The straw can be filled to a depth as
-great as 8 feet. Multiple thermometers are inserted in at least
-three locations: low (within 4-6 inches), midway, and high (within
-12-24 inches of the top surface). When steam is injected, the outer
-edges heat first, and temperature differentials must be monitored
-carefully.
-
-## The Hydrated Lime Bath Method
-
-Hydrated lime (calcium hydroxide) provides a chemical alternative
-to heat pasteurization. Two to four pounds of lime is added for
-every 50 gallons of water, creating a pH of 9.5 or higher. Chopped
-straw is immersed in this highly alkaline bath overnight. Under
-these caustic conditions, pH-sensitive microorganisms die. The
-straw is then drained and inoculated using standard methods.
-
-After three or four days of initial growth, pH slowly falls as the
-mycelium races through the straw, secreting acids and enzymes. If
-colonization is not complete within 7-10 days, competitors usually
-arise. [[cotter-oyster-mushroom-cultivation]] mycelia tolerate this alkaline environment
+One ton of [[cotter-oyster-mushroom-cultivation]] mycelia tolerate this alkaline environment
 
 ## Practical Applications
 
@@ -118,8 +77,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[straw-pasteurization-methods]]
 - [[brassinosteroid]]
-- [[mushroom-cultivation]]
 - [[mycelium]]
 - [[growing-gourmet-hot-water-pasteurization-straw]]

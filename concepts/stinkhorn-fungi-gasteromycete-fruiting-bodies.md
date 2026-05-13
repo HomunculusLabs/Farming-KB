@@ -15,16 +15,9 @@ type: concept
 
 Stinkhorn fungi and their relatives in the gasteromycete group represent some of
 the most bizarre and flamboyant organisms in the fungal kingdom. Members of the
-Basidiomycota — the same phylum that includes common [[palmer-edible-mushrooms-north-america]] —
-stinkhorns produce phallic fruiting bodies that erupt from underground eggs,
-emitting foul odors to attract flies and other insects for [[adaptive-anemotropism-spore-dispersal-optimization-mushroom-evolution]]. The
+Basidiomycota — the same phylum that includes common [[adaptive-anemotropism-spore-dispersal-optimization-mushroom-evolution]]. The
 group encompasses phallic fungi, cage fungi, puffballs, earth-stars, and bird's
-nest fungi, collectively representing what [[nicholas-money]] calls "a circus of
-mechanisms for dispersing their spores."
-
-## Phallic Fungi: Structure and Function
-
-The most notorious stinkhorn is *[[bloomfield-stinkhorns-phallus-impudicus-osmotic-fruiting]]*, the shameless penis. Its
+nest fungi, collectively representing what [[bloomfield-stinkhorns-phallus-impudicus-osmotic-fruiting]]*, the shameless penis. Its
 life cycle begins underground as a white egg, somewhat larger than a golf ball,
 attached to the soil by a branched umbilical cord of mycelium. Inside the egg,
 the tissues of the mature structure exist in prefabricated form: a hollow shaft
@@ -73,12 +66,7 @@ different names and barbecued its eggs. The detached cage, blown about on
 surrounding grass, was called "the feces of ghosts or of the stars." The
 resemblance between the cage structure and Buckminster Fuller's geodesic
 domes reflects the strength offered by lightweight polyhedral geometry —
-valuable for fungi that must conserve [[gadd-fungal-biodegradation-concrete-building-materials]].
-
-## Evolutionary Significance
-
-Small changes in the details of receptacle development account for the variety
-of mature fruiting body shapes in [[stinkhorns-and-cage-fungi]] fungi. Weakening tissue
+valuable for fungi that must conserve [[stinkhorns-and-cage-fungi]] fungi. Weakening tissue
 along four or five tracks running the length of the receptacle would cause the
 shaft to split into arms upon pressurized expansion. With additional genetic
 changes controlling coloration, a *Phallus*-type structure could transform into
@@ -94,25 +82,7 @@ exploit insect dispersal vectors.
 
 ## Gasteromycetes: The Broader Group
 
-The gasteromycetes (stomach fungi) are defined by [[light-role-spore-formation-geotropic-sensitivity-psilocybe-cubensis]] inside the
-fruiting body rather than on exposed gills. Along with stinkhorns and cage
-fungi, the group includes:
-
-- **Puffballs**: Spores are puffed into the air and carried by wind
-- **Earth-stars**: Star-shaped structures that respond to rain by exposing
-  spore sacs
-- **Bird's nest fungi**: Champagne-flute-shaped cups containing spore packets
-  (peridioles) splashed out by raindrops onto grass, then consumed by
-  herbivores and deposited in dung
-
-One remarkable gasteromycete, *Sphaerobolus*, operates as a tiny trampoline
-that shoots a black ball of spores with enough force to stick tenaciously to
-car paintwork — a fungus adapted for herbivore gut passage that accidentally
-targets human property.
-
-## Spore Dispersal Mechanisms
-
-The diversity of [[gasteromycete-spore-dispersal]] strategies reflects intense
+The gasteromycetes (stomach fungi) are defined by [[gasteromycete-spore-dispersal]] strategies reflects intense
 evolutionary pressure to solve a fundamental problem: getting reproductive
 cells from a stationary organism into new territory. Each mechanism represents
 a different solution to this challenge, adapted to specific ecological niches:
@@ -129,8 +99,7 @@ a different solution to this challenge, adapted to specific ecological niches:
   fruiting body and releases it suddenly, launching spore balls up to several
   meters
 
-In common with stinkhorns, gilled mushrooms are devices for [[geotropism-and-spore-production-in-mushrooms]]
-and dispersal, nothing more or less. The entire [[fungal-fruiting-body-biology]], for all
+In common with stinkhorns, gilled mushrooms are devices for [[fungal-fruiting-body-biology]], for all
 its apparent complexity, serves this single reproductive function. The bizarre
 forms of stinkhorns and their relatives are not ornamental extravagances but
 precisely adapted machines for ensuring reproductive success.

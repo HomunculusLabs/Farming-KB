@@ -1,6 +1,6 @@
 ---
 title: "Enzyme Inhibition"
-aliases: [[mushroom-enzyme-inhibitors-cancer-prevention-hormone-regulation]], reversible inhibition, irreversible inhibition]
+aliases: mushroom-enzyme-inhibitors-cancer-prevention-hormone-regulation, reversible inhibition, irreversible inhibition]
 tags: [biochemistry, enzymology, pharmacology, drug-discovery, toxicology]
 created: 2026-05-03
 updated: 2026-05-06
@@ -83,46 +83,7 @@ Allosteric inhibitors bind outside the active site and alter conformational ense
 do not resemble the substrate and permits cooperative behavior in multimeric enzymes.
 
 Protein inhibitors also control enzymes. Serpins regulate proteases, cyclins and CDK inhibitors regulate cell-cycle kinases, and
-many [[plant-signaling-pathways]] depend on protein- protein interactions that occlude active sites or change catalytic conformations.
-
-Reversible inhibition is especially useful for physiology because it can be rapidly tuned. Irreversible inhibition is more common
-in defense, toxicity, and pharmacology where durable suppression of a target is desired.
-
-## See Also
-- [[mushroom-enzyme-inhibitors-cancer-prevention-hormone-regulation]]
-- [[biological-nitrification-inhibition]]
-
-## Practical Applications
-
-The principles and techniques discussed here have wide-ranging applications
-across multiple disciplines and contexts. Practitioners and researchers
-continue to explore new ways to integrate these concepts into modern practice,
-adapting traditional knowledge to contemporary challenges and opportunities.
-
-## Key Considerations
-
-Several important factors influence the effectiveness and outcomes described
-in this topic. Understanding these considerations helps practitioners make
-informed decisions and avoid common pitfalls. Environmental conditions,
-timing, and material selection all play critical roles.
-
-## Historical Context
-
-The historical development of this subject reflects centuries of accumulated
-knowledge and practical experience. From traditional methods passed down
-through generations to modern scientific approaches, the evolution continues
-to inform current best practices and research directions.
-
-## Common Challenges
-
-Practitioners frequently encounter several challenges when working with
-these concepts. Climate variability, resource limitations, and knowledge
-gaps can all affect outcomes. Addressing these challenges requires patience,
-observation, and a willingness to adapt approaches based on results.
-
-## See Also
+many [[mushroom-enzyme-inhibitors-cancer-prevention-hormone-regulation]]
 - [[enzyme-harvesting-mycorrhizal-systems]]
-- [[ligninolytic-enzyme-systems-white-rot-fungi]]
 - [[cellulase-enzyme-systems-wood-rotting-fungi]]
-- [[fungal-enzyme-systems]]
 - [[ligninolytic-enzyme-production-bioremediation]]

@@ -22,18 +22,17 @@ Piripiri (Cyperus sp.) is a group of sedge plants used extensively in Amazonian 
 
 - The caballo piripiri confers great physical strength upon ingestion. It is prepared in a mixture with jagua or huito (Genipa americana), applied over the entire body, and turns the skin black for eight days.
 - Strict dietary restrictions accompany caballo piripiri use: the patient must avoid sun, salt, sweets, garlic, liquor, pig fat, sex, and socializing with sexually active people for eight days.
-- The yahuar-piripiri (blood piripiri, [[eleutherine-bulbosa]]) is used alongside the yahuar-toro (blood bull) spirit — its icaro cures malaire (illness from evil breeze) and harm from malevolent beings.
-- Piripiri is listed as a key plant used by Shipibo shamans alongside ayahuasca, toe (Brugmansia sp.), and chirik-sanango (Brunfelsia grandiflora) for [[blesching-cannabis-healing-practices-setting-intention-affirmations]].
+- The yahuar-piripiri (blood piripiri, [[blesching-cannabis-healing-practices-setting-intention-affirmations]].
 - Multiple unnamed varieties exist with distinct icaros and applications, reflecting the Amazonian practice of distinguishing plants by spiritual properties rather than Linnaean taxonomy.
 
 ## Relevance to Cultivation and Mycology
 
-Piripiri species are excellent candidates for ethnobotanical cultivation. Cyperus species are generally hardy, fast-growing, and adaptable to wet conditions. The [[kava-traditional-preparation-ceremonial-context]] method — mixing with Genipa americana for transdermal application — suggests [[cordyceps-cancer-bioactive-compounds]] capable of crossing the skin barrier. The strict dietary restrictions accompanying piripiri use (avoiding salt, garlic, alcohol, pork, and sex) parallel the dietary restrictions observed with MAO inhibitors and other pharmacologically active plants, suggesting that piripiri may contain compounds with significant drug interaction potential. For cultivation, Cyperus species can be grown from seed or division in moist, rich soil.
+Piripiri species are excellent candidates for ethnobotanical cultivation. Cyperus species are generally hardy, fast-growing, and adaptable to wet conditions. The [[cordyceps-cancer-bioactive-compounds]] capable of crossing the skin barrier. The strict dietary restrictions accompanying piripiri use (avoiding salt, garlic, alcohol, pork, and sex) parallel the dietary restrictions observed with MAO inhibitors and other pharmacologically active plants, suggesting that piripiri may contain compounds with significant drug interaction potential. For cultivation, Cyperus species can be grown from seed or division in moist, rich soil.
 
 ## Related Entities
 
 - Huito (Genipa americana) — plant mixed with piripiri
-- Chacruna ([[chacruna-psychotria-viridis]]) — fellow [[ayahuasca-additive-plants-and-dmt-synergy]]
+- Chacruna ([[ayahuasca-additive-plants-and-dmt-synergy]]
 - Toe (Brugmansia sp.) — fellow Shipibo healing plant
 - Icaro — each piripiri variety has its own icaro
 
@@ -45,21 +44,7 @@ Piripiri species are excellent candidates for ethnobotanical cultivation. Cyperu
 - This makes piripiri a good example of Indigenous functional taxonomy.
 - A plant may be grouped by what it does rather than by floral morphology.
 - Blood piripiri, horse piripiri, and other named forms indicate different powers.
-- [[eleutherine-bulbosa]] is linked to yahuar-piripiri in the existing note.
-- That link suggests overlap between botanical identity and ritual category.
-- Care is needed before assuming all piripiri references are the same species.
-
-## Preparation and Restrictions
-
-- The caballo piripiri preparation is especially strict.
-- It is mixed with huito or jagua and applied to the whole body.
-- The black staining of the skin marks the treatment period visibly.
-- Avoidance of sun, salt, sweets, garlic, alcohol, pork fat, sex, and sexual contact creates a controlled regimen.
-- Such restrictions are common in Amazonian plant diets.
-- They protect the patient, focus intention, and separate the treatment from ordinary life.
-- The restrictions also warn that the plant is considered powerful.
-- A casual use would be inappropriate in the source tradition.
-- The practice should be compared with [[ayahuasca-additive-plants-and-dmt-synergy]] because both involve plant combinations and altered effects.
+- [[ayahuasca-additive-plants-and-dmt-synergy]] because both involve plant combinations and altered effects.
 
 ## Healing and Magical Functions
 

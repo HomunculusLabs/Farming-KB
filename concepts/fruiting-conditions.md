@@ -19,8 +19,7 @@ type: concept
 
 Several designs are commonly used:
 
-- **[[mushroom-cultivation-fruiting-chambers]]**
-- [[mushroom-cultivation-basics]]
+- **[[mushroom-cultivation-basics]]
 
 ## Common Fruiting Problems
 
@@ -83,43 +82,8 @@ Proper harvest timing affects both yield and quality:
   mushrooms on the substrate depletes resources and reduces total yield
 
 ## See Also
-- [[oyster-mushroom-pinning-induction-fruiting-conditions]]
 - [[growing-gourmet-light-requirements-mushroom-fruiting]]
-- [[oyster-mushroom-fruiting-conditions]]
 - [[simple-plastic-bin-fruiting-chamber-passive-humidity-mushroom-cultivation]]
-- [[mushroom-cultivation-basics]]
-
-## Practical Applications
-
-The principles and techniques discussed here have wide-ranging applications
-across multiple disciplines and contexts. Practitioners and researchers
-continue to explore new ways to integrate these concepts into modern practice,
-adapting traditional knowledge to contemporary challenges and opportunities.
-
-## Key Considerations
-
-Several important factors influence the effectiveness and outcomes described
-in this topic. Understanding these considerations helps practitioners make
-informed decisions and avoid common pitfalls. Environmental conditions,
-timing, and material selection all play critical roles.
-
-## Historical Context
-
-The historical development of this subject reflects centuries of accumulated
-knowledge and practical experience. From traditional methods passed down
-through generations to modern scientific approaches, the evolution continues
-to inform current best practices and research directions.
-
-## Common Challenges
-
-Practitioners frequently encounter several challenges when working with
-these concepts. Climate variability, resource limitations, and knowledge
-gaps can all affect outcomes. Addressing these challenges requires patience,
-observation, and a willingness to adapt approaches based on results.
-
-## See Also
 - [[fruiting-chamber]]
-- [[fruiting-initiation]]
 - [[agaricus-bisporus]]
-- [[oyster-mushroom]]
 - [[hericium-erinaceus]]

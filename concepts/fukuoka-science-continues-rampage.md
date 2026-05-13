@@ -25,27 +25,11 @@ Fukuoka was scathing in his critique of universities, which he saw as institutio
 
 These have grown and thrived to such an extent because the world we live in has become so complex and incomprehensible. Properly speaking, the goal of education should be to create people who have no need to know anything -- sages who understand the wholeness of reality.
 
-Instead, universities break knowledge into fragments and specialties, producing experts who understand increasingly less about increasingly more. This fragmentation of knowledge mirrors the fragmentation of nature that [[fukuoka-critique-scientific-agriculture-civilization]] imposes upon the land.
-
-## Medicine as a Barometer of Collapse
-
-Fukuoka extended his critique to medicine. "The advance of the hospital is merely a barometer of the collapse of the human body." As medicine becomes more advanced and the number of hospitals increases, the human body becomes frailer.
-
-The medical system treats symptoms created by the very lifestyle and diet that modern civilization promotes. This creates a vicious cycle: bad food creates sickness, medicine treats the sickness, the patient returns to the same bad food. The solution is not better medicine but better food -- food grown naturally in [[fukuoka-critique-western-dietetics-nutritional-science]].
+Instead, universities break knowledge into fragments and specialties, producing experts who understand increasingly less about increasingly more. This fragmentation of knowledge mirrors the fragmentation of nature that [[fukuoka-critique-western-dietetics-nutritional-science]].
 
 ## The Laws of Agricultural Science Exposed
 
-Fukuoka devoted particular attention to dismantling the supposed laws upon which modern agriculture is built. He examined each foundational law from the standpoint of [[fukuoka-mu-nothingness-philosophy]], or nothingness.
-
-"Nature is an absolute void. Those who see nature as a point have gone one step astray, those who see it as a circle have gone two steps astray, and those who see breadth, matter, time, and cycles have wandered off into a world of illusion distant and divorced from true nature."
-
-Each one of these laws is nothing other than a manifestation of the great harmony and balance of nature. Each springs from a single source that draws them all together. What has misled man is that, when the same law emanates from a single source in different directions, he perceives each image as representing a different law.
-
-## Life on Earth
-
-Life on earth is a story of the birth and death of individual organisms, a cyclic history of the ascendance and fall, the thriving and failure, of communities. All matter behaves according to set principles -- whether we are talking of the cosmic universe, the world of microorganisms, or the far smaller world of molecules and atoms.
-
-All things are in constant flux while the [[fukuoka-textdoc-natural-order-food-chain-unity]] is maintained. It is man alone who disrupts this order, who acts as he pleases, who refuses to recognize the harmony that sustains all life.
+Fukuoka devoted particular attention to dismantling the supposed laws upon which modern agriculture is built. He examined each foundational law from the standpoint of [[fukuoka-textdoc-natural-order-food-chain-unity]] is maintained. It is man alone who disrupts this order, who acts as he pleases, who refuses to recognize the harmony that sustains all life.
 
 ## The Way Forward
 
@@ -53,7 +37,7 @@ Fukuoka did not advocate the abandonment of all science and technology. He advoc
 
 "Mankind has developed through the human intellect and now through that same faculty is in the process of collapsing. Yet, even at this juncture, we continue to seek salvation through the intellect. Can you not see that the only road to such salvation is by discarding the intellect?"
 
-See also: [[fukuoka-mu-nothingness-philosophy]], [[fukuoka-nature-perfect-imperfect]], [[fukuoka-critique-laws-agricultural-science]], [[fukuoka-one-straw-revolution-impact]], Fukuoka washes citrus storage boxes by the river and offers one of his most lyrical and pointed critiques of the scientific worldview, using everyday examples from farming and daily life.
+See also: [[fukuoka-nature-perfect-imperfect]], [[fukuoka-one-straw-revolution-impact]], Fukuoka washes citrus storage boxes by the river and offers one of his most lyrical and pointed critiques of the scientific worldview, using everyday examples from farming and daily life.
 
 ## Two Paths of Inquiry
 
@@ -115,8 +99,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[masanobu-fukuoka]]
 - [[doc]]
-- [[dom]]
 - [[fukuoka-critique-western-dietetics-nutritional-science]]
 - [[fukuoka-science-destroy-and-rebuild-paradox]]

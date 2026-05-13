@@ -28,7 +28,7 @@ Controlled-environment mushroom growing using enclosed chambers to manage temper
 ## Growing Environments
 
 - **Monotub** -- Modified plastic storage bin with polyfill-filtered holes for FAE; self-contained fruiting chamber. Common for cubensis and oysters. Simple, low-cost, good for beginners
-- **[[query-what-is-the-difference-between-a-monotub-and-a-shotgun-fruiting-chamber]] (SGFC)** -- Perlite-lined tub with 1/4" holes drilled on all six sides. Passive humidity via evaporation. Best for cake/grain-based grows
+- **Shotgun Fruiting Chamber (SGFC)** -- Perlite-lined tub with 1/4" holes drilled on all six sides. Passive humidity via evaporation. Best for cake/grain-based grows
 - **Martha Tent / Greenhouse** -- Enclosed plastic greenhouse with humidifier and fan on timers. Scalable, good for multiple substrates. Requires external humidification
 - **Dedicated grow room** -- Climate-controlled room with shelves, HVAC, humidification, CO2 monitoring. Commercial scale. See Stamets Ch. IV for full design specs
 
@@ -45,7 +45,7 @@ Controlled-environment mushroom growing using enclosed chambers to manage temper
 - Temperature: drop 5-10F below colonization temp triggers pinning
 - Humidity: 90-95% (critical -- pins desiccate quickly)
 - FAE: increased; CO2 below 800-1000 ppm for most species
-- Light: 12 hours on/off at 6500K daylight spectrum; blue wavelengths (370-460 nm) most effective for [[light-basidiocarp-initiation-psilocybe-cubensis-research]]
+- Light: 12 hours on/off at 6500K daylight spectrum; blue wavelengths (370-460 nm) most effective for basidiocarp initiation
 - Evaporation from substrate surface is a primary pinning trigger
 
 ### Fruiting (Cropping)
@@ -74,8 +74,8 @@ Controlled-environment mushroom growing using enclosed chambers to manage temper
 - 6500K daylight fluorescent or LED; 12 hours on/off cycle
 - Blue light (440-460 nm) most effective for fruiting initiation per Badham (1980)
 - Light intensity: 100-1000 lux sufficient; too much heat from incandescent is harmful
-- Light from above promotes upright growth ([[negative-geotropism-in-mushroom-fruiting]] stipes)
-- Light is required for spore production and [[light-role-spore-formation-geotropic-sensitivity-psilocybe-cubensis]]
+- Light from above promotes upright growth (negative geotropism in stipes)
+- Light is required for spore production and geotropic sensitivity
 
 ## Contamination Management
 
@@ -97,29 +97,5 @@ Controlled-environment mushroom growing using enclosed chambers to manage temper
 
 - [[mushroom-sterile-technique-detailed]] -- SAB/flow hood procedures, contamination prevention
 - [[mushroom-substrates]] -- Grain spawn, bulk substrates, supplementation
-- [[mushroom-species-guide]] -- Species-specific [[greg-green-temperature-and-humidity-control]] ranges
+- [[mushroom-species-guide]] -- Species-specific temperature and humidity ranges
 - [[mushroom-pests-and-diseases]] — pests and diseases
-
-## Mechanisms of Action
-
-Understanding the underlying mechanisms provides insight into how these
-systems function and interact. Multiple pathways and feedback loops are
-typically involved, creating complex but comprehensible patterns that can
-be studied and replicated in appropriate contexts.
-
-## Comparative Analysis
-
-When compared with alternative approaches, this topic reveals distinct
-advantages and limitations. Context-specific evaluation is essential for
-determining the most appropriate methodology. Different situations may
-call for different strategies, and the optimal approach often combines
-elements from multiple frameworks.
-
-## Future Directions
-
-Ongoing research and practical experimentation continue to refine our
-understanding. Emerging technologies, improved analytical methods, and
-collaborative knowledge-sharing networks are accelerating progress in
-this field. Practitioners are encouraged to stay current with new
-developments and contribute their own observations to the collective
-knowledge base.

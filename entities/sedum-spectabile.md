@@ -108,13 +108,8 @@ In traditional Chinese horticulture, Sedum spectabile has been cultivated for ce
 
 ## See Also
 
-- [[sedum-acre]]
 - [[sedum-rupestre]]
-- [[sedum-morganianum]]
 - [[echeveria-elegans]]
-- [[crassula-ovata]]
 - [[kalanchoe-blossfeldiana]]
-- [[delosperma-cooperi]]
 - [[sempervivum-tectorum]]
-- [[dudleya-farinosa]]
 - [[kalanchoe-tomentosa]]

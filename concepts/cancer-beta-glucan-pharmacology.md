@@ -15,12 +15,7 @@ tags: [pharmacology]
 
 ## Overview
 
-Beta-glucans are the primary bioactive polysaccharides responsible for the anticancer and immunomodulatory properties of medicinal mushrooms. These glucose polymers are widely distributed across fungal species and represent the most extensively studied class of mushroom-derived [[medicinal-mushrooms-biological-response-modifiers]]. Water-soluble beta-D-glucans, heteropolysaccharides, and polysaccharide-protein complexes all contribute to the pharmacological activity of medicinal mushroom extracts.
-
-## Molecular Structure and Antitumour Activity
-
-### Primary Structure
-The best-studied beta-glucans, Lentinan (from Lentinus edodes) and Schizophyllan (from [[schizophyllum-commune]]), share a common structural motif:
+Beta-glucans are the primary bioactive polysaccharides responsible for the anticancer and immunomodulatory properties of medicinal mushrooms. These glucose polymers are widely distributed across fungal species and represent the most extensively studied class of mushroom-derived [[schizophyllum-commune]]), share a common structural motif:
 - Main chain of (1-3)-linked beta-D-glucopyranosyl units
 - Beta-D-glucopyranosyl branch units linked (1-6) at intervals averaging three main chain units
 - Degree of branching (DB) approximately 0.33
@@ -44,13 +39,8 @@ The antitumour activity of (1-3)-beta-glucans is critically dependent on three-d
 ### Homoglucans (Pure Beta-Glucans)
 Water-soluble beta-D-glucans found across mushroom species:
 - Auricularia auricula-judae: (1-3)-beta-glucan
-- [[stamets-reishi-ganoderma-lucidum-cultivation]]: Fl-1a (beta-glucan), FIII-2b (hetero-beta-glucan), acidic beta-glucan
 - [[maitake-grifola-frondosa-comprehensive-profile]]: Grifolan (beta-glucan), Fa-1a-beta (acidic beta-glucan), FIII-2c (hetero-beta-glucan)
-- [[growing-gourmet-turkey-tail-trametes-versicolor-cultivation]]: Beta-glucan, Coriolan, PSK/Krestin (beta-glucan-protein)
-- Agaricus blazei: FI1-a-beta (beta-glucan), FIII2-beta (beta-glucan)
-
-### Heteropolysaccharides
-Beta-D-glucans with heterosaccharide chains of xylose, mannose, galactose, and uronic acid, extractable by salt and alkali treatments. [[ganoderma-lucidum]] contains glucuronoglucan, xyloglucan, mannanoglucan, xylomannoglucan, and other active heteroglucans and protein complexes.
+- [[ganoderma-lucidum]] contains glucuronoglucan, xyloglucan, mannanoglucan, xylomannoglucan, and other active heteroglucans and protein complexes.
 
 ### Polysaccharide-Protein Complexes (Proteoglycans)
 Polypeptide chains or small proteins to which polysaccharide chains are stably attached:
@@ -58,12 +48,7 @@ Polypeptide chains or small proteins to which polysaccharide chains are stably a
 - **PSP**: Contains at least four discrete proteoglycan molecules; polysaccharide chains are true beta-glucans with 1-4, 1-2, and 1-3 glucose linkages plus galactose, mannose, and arabinose linkages. Molecular weight ~100,000 Da, orally bioavailable
 - **ATOM** from Agaricus blazei: Glucomannan-protein complex
 - **AB-FP** from Agaricus blazei: Mannan-protein complex
-- At least 10 kinds of protein-bound polysaccharides have been isolated from [[staycare-trametes-versicolor-bioremediation-applications]], most covered by US and Japanese patents
-
-## Stability and Degradation
-
-### Post-Harvest Degradation
-Beta-glucan concentration and activity are affected by fruitbody development stage and [[vegetable-storage-conditions-by-temperature-and-humidity]]:
+- At least 10 kinds of protein-bound polysaccharides have been isolated from [[vegetable-storage-conditions-by-temperature-and-humidity]]:
 - Immunomodulating activity of L. edodes extracts decreased rapidly at 20 degrees C over 7 days
 - No decrease occurred at low temperature storage (1 and 5 degrees C)
 - Activity decrease was related to Lentinan degradation by internal beta-glucanase activity
@@ -118,8 +103,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[schizophyllan]]
 - [[grifolan]]
-- [[agaricus-blazei]]
 - [[lentinan]]
 - [[det]]

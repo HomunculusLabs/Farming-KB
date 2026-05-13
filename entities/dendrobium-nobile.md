@@ -61,19 +61,7 @@ The labellum is broadly ovate with a dark purple blotch at the base and ruffled 
 
 Roots are thin, wiry, and covered with a silvery velamen. The plant attaches firmly to tree bark and rock surfaces in its natural habitat.
 
-New canes are produced annually from the base of the plant during the spring and summer [[extending-growing-season]]. Mature canes lose their leaves in autumn but remain alive and capable of flowering for 2–3 years.
-
-Keikis (plantlets) may form on nodes of older canes, providing a natural means of vegetative reproduction. These can be removed and potted once roots develop to 2–3 cm in length.
-
-## Distribution and Habitat
-
-*Dendrobium nobile* is native to a broad region of tropical and subtropical Asia. Its range extends from the Himalayan foothills of India and Nepal through Myanmar, Thailand, Laos, and Vietnam to southern China.
-
-In China, it occurs in the southern provinces including Yunnan, Guangxi, Guizhou, and Sichuan, typically at elevations of 500–1,700 m. It grows as an epiphyte on tree trunks in humid montane forests.
-
-The species is also found in Bhutan, Bangladesh, and the Andaman Islands. Habitat preferences include mossy tree trunks in evergreen broadleaved forests, often near streams.
-
-Populations have declined significantly due to over-collection for the medicinal trade. [[strain-isolation-from-wild-specimens]] are now rare in many parts of the original range, though cultivated material is abundant.
+New canes are produced annually from the base of the plant during the spring and summer [[strain-isolation-from-wild-specimens]] are now rare in many parts of the original range, though cultivated material is abundant.
 
 Reintroduction programs using tissue-cultured seedlings have been initiated in several Chinese nature reserves. These efforts aim to restore wild populations while reducing pressure from commercial collection.
 
@@ -85,6 +73,78 @@ The IUCN Red List assessment classifies the species as Vulnerable due to ongoing
 
 *Dendrobium nobile* employs a CAM (Crassulacean Acid Metabolism) photosynthetic pathway as an adaptation to its epiphytic habit. This allows efficient water use during dry periods.
 
-Pollination in the wild is performed by [[query-how-to-attract-native-bees-and-beneficial-insects]] attracted to the floral fragrance. The species is self-incompatible, requiring cross-pollination for [[cannabis-controlled-pollination-seed-production]].
+Pollination in the wild is performed by [[cannabis-controlled-pollination-seed-production]].
 
-The species forms [[plants-without-mycorrhizal-associations]] essential for [[cannabis-seed-germination]]. Fungi in the genus *Tulasnella* and *Ceratobasidium* have been identified as symbionts.
+The species forms [[cannabis-seed-germination]]. Fungi in the genus *Tulasnella* and *Ceratobasidium* have been identified as symbionts.
+
+## Overview
+
+Dendrobium Nobile represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish dendrobium nobile
+from related concepts in [[permaculture]] and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving dendrobium extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Dendrobium Nobile finds practical application in multiple design contexts.
+[[permaculture-principles]] guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for dendrobium nobile. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+dendrobium nobile and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Dendrobium Nobile has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of dendrobium nobile into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions

@@ -19,45 +19,9 @@ sources:
 
 ## Overview
 
-[[soil-edaphic-factors-microbial-communities]], the physical and chemical properties of soil, are the primary determinants of [[edaphic-factors-microbial-community-structure]] structure across all sample compartments in cannabis cultivation. The Winston et al. (2014) study demonstrated that soil type was the strongest predictor of both [[core-endorhiza-bacterial-community-composition-cannabis]] and abundance.
+[[edaphic-factors-microbial-community-structure]] structure across all sample compartments in cannabis cultivation. The Winston et al. (2014) study demonstrated that soil type was the strongest predictor of both [[dighton-fungal-biomass-production-aquatic-ecosystems]], and community dynamics. Nitrogen-rich environments tend to favor copiotrophic organisms, particularly members of the Proteobacteria.
 
-Soil type outweighed both sample type (endorhiza, rhizosphere, bulk soil) and Cannabis cultivar in structuring the microbiome. Understanding the relative importance of individual edaphic variables is essential for managing soil health to support beneficial plant-microbe associations.
-
-## Ranked Importance of Edaphic Variables
-
-Using Mantel tests correlating soil physicochemical data with community beta diversity, the study ranked five edaphic factors by their influence on microbial community structure.
-
-### Weighted Analysis (Abundance-Sensitive)
-
-1. **Nitrogen** (r-stat: 0.465, p = 0.001) — strongest predictor
-2. **Salinity** (r-stat: 0.437, p = 0.001)
-3. **Total Organic Carbon** (r-stat: 0.330, p = 0.001)
-4. **Water Content** (r-stat: 0.281, p = 0.001)
-5. **pH** (r-stat: 0.221, p = 0.001) — weakest predictor
-
-### Unweighted Analysis (Presence/Absence)
-
-1. **Nitrogen** (r-stat: 0.630, p = 0.001)
-2. **Salinity** (r-stat: 0.620, p = 0.001)
-3. **Total Organic Carbon** (r-stat: 0.512, p = 0.001)
-4. **Water Content** (r-stat: 0.466, p = 0.001)
-5. **pH** (r-stat: 0.292, p = 0.001)
-
-The ranking remained perfectly consistent across both analyses. The higher correlation coefficients in the unweighted analysis suggest that edaphic factors primarily determine which organisms can survive in a given soil.
-
-They have a secondary but still significant effect on relative abundances once organisms are established in the community.
-
-## Nitrogen as the Dominant Factor
-
-Nitrogen was the single most important edaphic factor structuring cannabis-associated microbial communities by a substantial margin. Total nitrogen concentrations varied substantially between soil types.
-
-The Mo-Bio soil had nitrogen concentrations ranging from approximately 0.26% to 1.51% across experiments. The Orange County soil had 0.53%. The higher nitrogen content was associated with distinct community structures that clustered separately in PCoA plots along PC1 (32.06% variance explained in the unweighted analysis).
-
-Nitrogen availability directly influences microbial growth rates, [[dighton-fungal-biomass-production-aquatic-ecosystems]], and community dynamics. Nitrogen-rich environments tend to favor copiotrophic organisms, particularly members of the Proteobacteria.
-
-Nitrogen-limited environments may select for oligotrophic organisms adapted to nutrient scarcity such as Acidobacteria. The strong nitrogen signal across all compartments suggests it structures the foundational soil community, which then propagates influence through the [[dighton-fungal-dissolved-organic-carbon-production]] showed a strong and highly significant correlation with community structure (weighted r = 0.330, unweighted r = 0.512). Carbon content varied dramatically between soils, from 3.02% to 20.0%.
-
-The Orange County soil had substantially higher organic carbon than the Mo-Bio soil. Higher carbon content supports greater microbial biomass and diversity, provides energy for heterotrophic organisms, improves soil structure through [[soil-aggregate-formation-fungal-contributions]], and increases cation exchange capacity.
+Nitrogen-limited environments may select for oligotrophic organisms adapted to nutrient scarcity such as Acidobacteria. The strong nitrogen signal across all compartments suggests it structures the foundational soil community, which then propagates influence through the [[soil-aggregate-formation-fungal-contributions]], and increases cation exchange capacity.
 
 The dramatic carbon difference between soil types likely contributed to the distinct community clustering observed in PCoA analyses. Carbon-rich soils support more diverse communities, translating into a larger pool of potential endophytes available for rhizosphere and endorhiza colonization.
 
@@ -69,25 +33,11 @@ Water availability directly influences microbial activity, substrate diffusion, 
 
 ## pH: Weakest but Still Significant
 
-[[cervantes-outdoor-soil-types-clay-sand-loam]] had a far greater impact than cultivar on individual OTU dynamics. For abundance-weighted differences, 690 OTUs differed significantly between soil types compared to only 71 between cultivars.
-
-For presence/absence comparisons, 657 OTUs differed between soil types while zero showed significant presence/absence differences between cultivars. This approximately 10:1 ratio underscores that soil properties set the fundamental conditions for microbial life.
-
 [[cannabis-cultivar-effects-soil-microbiome]] represent a finer level of community tuning through abundance modulation only, not through determining which organisms are present. All cultivars draw from the same soil-derived species pool and simply adjust relative abundances differently.
 
-Cultivar effects were only detectable in the [[two-tier-selection-model]].
+Cultivar effects were only detectable in the [[edaphic-factor-ranking-nitrogen-salinity-cannabis-microbiome]]
 
-Organic matter amendments increase both carbon content and water-holding capacity, addressing two of the top three edaphic factors simultaneously. Cover cropping and green manuring can maintain nitrogen availability while adding diverse carbon sources that support microbial diversity.
-
-Regular soil testing for nitrogen, carbon, salinity, and pH is recommended to track the edaphic conditions that most strongly influence the cannabis microbiome. Targeted adjustments based on test results can shift the soil microbial community toward more beneficial compositions.
-
-## See Also
-
-- [[edaphic-factor-ranking-nitrogen-salinity-cannabis-microbiome]]
-
-- [[edaphic-factors-cannabis-endorhiza-microbiome-assembly]]
 - [[two-tier-selection-model]]
-- [[cannabis-endorhiza-microbiome]]
 - [[cannabinoid-concentration-endorhiza-microbiome-correlation-cannabis]]
 
 ## Practical Applications
@@ -119,8 +69,82 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[dom]]
 - [[det]]
-- [[soil-testing]]
 - [[cover-crop]]
 - [[cation-exchange-capacity]]
+
+## Overview
+
+Edaphic Determinants Cannabis Microbiome Community Structure represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish edaphic determinants cannabis microbiome community structure
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving edaphic extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Edaphic Determinants Cannabis Microbiome Community Structure finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for edaphic determinants cannabis microbiome community structure. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+edaphic determinants cannabis microbiome community structure and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Edaphic Determinants Cannabis Microbiome Community Structure has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of edaphic determinants cannabis microbiome community structure into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.

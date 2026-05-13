@@ -51,35 +51,17 @@ By the time the toxin kills the predator, the mushroom has
 already been consumed and digested. The toxin cannot protect
 the organism whose genes have alr...
 Anthony's Fire) in humans who consume contaminated grain. These
-compounds include [[ergot-and-lysergic-acid-history]] derivatives;
-LSD is a semisynthetic derivative of ergotamine. The ecological
-function is likely defense against herbivores.
-
-### Psilocybin
-The hallucinogenic compound psilocybin, produced by
-"[[guzman-magic-mushrooms-african-species]]"
+compounds include [[guzman-magic-mushrooms-african-species]]"
 of the genus Psilocybe and others, has been proposed to deter
 predation by causing aversive reactions in animals. Its effects
 on humans are unusually well-documented but its ecological
 function remains speculative.
 
 ### Volatile Compounds in Stinkhorns
-The stinkhorn [[bloomfield-stinkhorns-phallus-impudicus-osmotic-fruiting]]
-produces a cocktail of volatile chemicals including hydrogen
-sulfide, formaldehyde, methylmercaptan, and unique phallic
-acids. These serve a clear ecological function: attracting
-flies and slugs for spore dispersal. This is an example of a
-secondary metabolite with an unambiguous adaptive purpose.
-
-## Medical and Industrial Importance
-[[singh-ergot-alkaloid-fungal-secondary-metabolites]]
-- [[fungal-secondary-metabolites-environment]]
-- bloomfield fungal secondary metabolites
+The stinkhorn [[singh-ergot-alkaloid-fungal-secondary-metabolites]]
 - [[bloomfield-amatoxin-poisoning-mechanism]] explains how
   amatoxins cause lethal liver failure.
-- [[bloomfield-aspergillus-biology-and-aflatoxins]] provides
-  deeper detail on aflatoxin-producing Aspergillus species.
-- For food safety implications, [[aflatoxins-mycotoxins-food]]
+- [[aflatoxins-mycotoxins-food]]
   addresses contamination of stored grains and nuts.
 
 ## Antibiotics from Fungi
@@ -118,8 +100,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[doc]]
 - [[psilocybin]]
-- [[det]]
 - [[spore-dispersal]]
 - [[mycotoxins]]

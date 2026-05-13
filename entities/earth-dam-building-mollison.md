@@ -87,13 +87,9 @@ The combination of dams with Keyline design, swales, and diversion drains create
 
 ## Relationships to Other Entities
 
-- [[keyline-design]]: P.A. Yeomans' system for total farm water design
 - [[gley-pond-sealing-mollison]]: Anaerobic fermentation sealing method
-- [[bentonite-clay-sealing-mollison]]: Volcanic clay sealing method
 - [[swale]]: Complementary water infiltration structures
-- [[diversion-drain-mollison]]: Connect dams in series
 - [[check-dam-mollison]]: Smaller erosion control structures
-- [[turkeys-nest-dam-mollison]]: Elevated ring dam variant
 - [[p-a-yeomans]]: Pioneer of Keyline farm water design
 
 ## Sources

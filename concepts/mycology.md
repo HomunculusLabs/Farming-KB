@@ -44,17 +44,12 @@ and ecological roles.
 
 **Taxonomy and Systematics:** Classification of fungi based on morphological,
 molecular, and ecological criteria. DNA barcoding, particularly using the ITS
-region, has revolutionized [[pcr-methods-fungal-identification-monitoring]].
-
-**Medical Mycology:** Study of [[bloomfield-fungal-pathogens-and-parasites]] affecting humans, including
+region, has revolutionized [[bloomfield-fungal-pathogens-and-parasites]] affecting humans, including
 Candida, Aspergillus, and Cryptococcus species. Opportunistic infections in
 immunocompromised patients remain a major clinical challenge.
 
 **Plant Pathology:** Fungi are the most destructive plant pathogens, causing
-diseases like wheat rust, [[bloomfield-potato-blight-phytophthora-infestans]], and Dutch elm disease. Understanding
-fungal virulence mechanisms is critical for food security.
-
-**Industrial Mycology:** Exploitation of [[singh-fungal-metabolism-pahs]] for antibiotics
+diseases like wheat rust, [[singh-fungal-metabolism-pahs]] for antibiotics
 (penicillin), enzymes, organic acids (citric acid), and fermented foods.
 
 ## Ecological Significance
@@ -70,9 +65,6 @@ carbon.
 
 ## Modern Frontiers
 
-[[fungal-dark-taxa-environmental-dna-sequencing]] sampling has revealed that the vast majority of fungal
-diversity remains undocumented. Metagenomic studies of soil, water, and air
-samples regularly uncover entirely novel lineages. Meanwhile, fungal
 [[antifungal-secondary-metabolites-coprophilous-fungi]] continue to yield new pharmaceuticals, and mycoremediation
 (the use of fungi to degrade environmental pollutants) is emerging as a
 practical biotechnology. The interdisciplinary nature of modern mycology
@@ -80,7 +72,78 @@ connects it to fields from climate science to drug discovery.
 
 ## See Also
 
-- [[contamination-prevention-mycology]]
 - [[mycology-modern-era]]
 
 See also: [[dighton-soil-fungal-biodiversity-assessment]]
+
+## Overview
+
+Mycology represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish mycology
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving mycology extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Mycology finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for mycology. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+mycology and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Mycology has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of mycology into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions

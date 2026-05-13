@@ -26,8 +26,8 @@ The most dangerous mushroom toxins, responsible for the majority of fatal mushro
 **Chemistry:** Cyclic octapeptides (alpha-amanitin, beta-amanitin, gamma-amanitin, amanin) that inhibit RNA polymerase II, effectively halting protein synthesis in cells. Without protein synthesis, cells cannot maintain themselves and die.
 
 **Species containing amatoxins:**
-- **[[amanita-phalloides]]** (death cap): The single most dangerous mushroom. Native to Europe but now established in North America and elsewhere. Responsible for the majority of fatal mushroom poisonings.
-- **[[amanita-virosa]]** and **Amanita verna** (destroying angels): North American species containing lethal amatoxin concentrations
+- **Amanita phalloides** (death cap): The single most dangerous mushroom. Native to Europe but now established in North America and elsewhere. Responsible for the majority of fatal mushroom poisonings.
+- **Amanita virosa** and **Amanita verna** (destroying angels): North American species containing lethal amatoxin concentrations
 - **Galerina marginata** and other Galerina species: Small brown mushrooms that can be confused with [[psilocybe-genus-classification|Psilocybe]] species by recreational mushroom hunters
 - **Lepiota species** (parasol mushrooms): Some species contain amatoxins
 
@@ -45,7 +45,7 @@ The most dangerous mushroom toxins, responsible for the majority of fatal mushro
 
 **Species:**
 - **Cortinarius orellanus** (fool's webcap): The classic orellanine-containing species from Europe
-- **[[cortinarius-rubellus]]** (deadly webcap): Related species containing the same toxin
+- **Cortinarius rubellus** (deadly webcap): Related species containing the same toxin
 
 **Symptom progression:**
 - Extremely long latent period: symptoms may not appear for 3 days to 3 weeks after ingestion
@@ -87,7 +87,7 @@ The long latency period makes orellanine poisoning particularly insidious, as vi
 
 **Chemistry:** Ibotenic acid is a glutamate receptor agonist that acts as a neurotoxin. In the body, it is partially decarboxylated to muscimol, a GABA-A receptor agonist with sedative-hallucinogenic properties.
 
-**Species:** [[amanita-muscaria-guide|Amanita muscaria]] (fly agaric) and [[amanita-pantherina]] (panther cap).
+**Species:** [[amanita-muscaria-guide|Amanita muscaria]] (fly agaric) and Amanita pantherina (panther cap).
 
 **Symptoms:** Variable and unpredictable -- agitation, confusion, dizziness, visual distortions, hallucinations, drowsiness, and deep sleep. Effects typically begin 30-60 minutes after ingestion and last 4-8 hours.
 
@@ -121,7 +121,7 @@ The long latency period makes orellanine poisoning particularly insidious, as vi
 
 - **Galerina marginata** can closely resemble [[psilocybin-mushroom-identification-guide|Psilocybe cyanescens]] and other "little brown mushrooms" sought by recreational foragers
 - **Conocybe species** on lawns are both poisonous and hallucinogenic, a dangerous combination
-- **Amanita phalloides** juvenile buttons can be mistaken for [[agaricus-aurora|Agaricus]] (field mushrooms) or puffball species by inexperienced foragers
+- **Amanita phalloides** juvenile buttons can be mistaken for [[agaricus-species-guide|Agaricus]] (field mushrooms) or puffball species by inexperienced foragers
 
 ## See Also
 

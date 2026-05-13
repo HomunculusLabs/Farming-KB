@@ -11,9 +11,7 @@ sources: []
 ## Overview
 
 Kimchi and kefir are two of the world's most celebrated fermented foods, each
-with deep cultural roots and powerful probiotic benefits. [[kimchi-making]] is
-a Korean vegetable fermentation relying on lactic acid bacteria naturally
-present on cabbage and radishes. [[kefir-making]] is a Caucasian fermented
+with deep cultural roots and powerful probiotic benefits. [[kefir-making]] is a Caucasian fermented
 beverage produced by symbiotic colonies of bacteria and yeast (SCOBY) living
 in grain-like structures. Comparing them reveals key differences in substrate,
 microbiology, daily management, and culinary role.
@@ -23,31 +21,7 @@ microbiology, daily management, and culinary role.
 Kimchi is Korea's national dish, most commonly made by salting napa cabbage,
 coating it in a spicy seasoning paste (yangnyeom) with gochugaru, garlic,
 ginger, fish sauce, and radish, then fermenting it for days to months. The
-primary fermenters are [[lacto-fermentation-and-food-preservation-methods]]
-bacteria — especially Leuconostoc, Lactobacillus, and Weissella species — that
-convert vegetable sugars into lactic acid, lowering pH and preserving crunch.
-
-Kimchi is a living food that continues evolving after packing. Fresh kimchi
-is crisp and mildly tangy, ideal eaten as a banchan (side dish). Aged kimchi
-(mugeun-ji) develops deep sourness prized for stews and fried rice. Hundreds
-of regional and seasonal varieties exist, from radish kkakdugi to cucumber
-oi-sobagi, making kimchi one of the most diverse fermented food families.
-
-The process is relatively hands-off after initial preparation: salt the
-vegetables for 2-6 hours, mix the seasoning paste, pack tightly into vessels
-(onggi or glass jars), and ferment at cool room temperature for 1-5 days
-before moving to cold storage. A single batch can feed a household for weeks.
-
-## Kefir
-
-Kefir is a fermented milk or water beverage originating from the Caucasus
-Mountains. The word derives from the Turkish "keif," meaning good feeling.
-Unlike yogurt, which uses a single bacterial starter, kefir relies on a
-complex community of bacteria and yeast living in gelatinous grains. Milk
-kefir grains resemble small cauliflower florets; water kefir grains (tibicos)
-are smaller and more translucent.
-
-The [[kefir-and-water-kefir-cultivation]] process is remarkably quick — milk
+primary fermenters are [[kefir-and-water-kefir-cultivation]] process is remarkably quick — milk
 kefir ferments in 12-36 hours at room temperature, and water kefir in 24-48
 hours. Grains are reusable indefinitely with proper care, multiplying over
 time so excess can be shared or composted. The result is a tangy, slightly
@@ -87,22 +61,7 @@ and then the ferment manages itself.
 Kimchi is also ideal for gardeners with surplus cabbage or radishes. A single
 large head of napa cabbage yields a substantial jar of kimchi that lasts weeks.
 The batch nature means you can make it when produce is abundant and enjoy it
-through the off-season. See [[fermented-vegetables-guide]] for related
-vegetable fermentation approaches.
-
-## When to Choose Kefir
-
-Kefir is the better choice when you want a daily probiotic supplement in drink
-form and are willing to commit to a brief daily routine of transferring grains.
-The fast fermentation cycle (12-36 hours) means you always have fresh kefir
-available. It is particularly valuable for those seeking maximum probiotic
-diversity — kefir's 30-50 microbial strains exceed virtually any other
-fermented food or commercial supplement.
-
-Kefir also suits anyone who already consumes dairy (or wants a sugar-water
-alternative) and prefers a versatile liquid product. It can be drunk plain,
-blended into smoothies, used in baking, or strained into cheese. For those
-interested in [[wild-fermentation-vs-cultured-yeast]], kefir grains
+through the off-season. See [[wild-fermentation-vs-cultured-yeast]], kefir grains
 represent one of the oldest continuously maintained microbial communities.
 
 ## Probiotic Comparison
@@ -117,8 +76,6 @@ from the vegetables themselves. Combining both in a diet maximizes benefit.
 
 ## See Also
 
-- [[kimchi-making]] — detailed kimchi preparation guide
 - [[kefir-making]] — detailed kefir preparation guide
-- [[kombucha-brewing]] — another SCOBY-based fermented beverage
 - [[pickle-making]] — lactic acid vegetable fermentation
 - [[vinegar-making]] — acetic acid fermentation process

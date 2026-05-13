@@ -9,7 +9,7 @@ sources: []
 
 # Plant Nutrient Deficiency Guide
 
-[[hamilton-nutrient-deficiencies-and-treatment]] manifest as visual symptoms on plant leaves, stems, roots, and fruits. Learning to read these symptoms allows rapid [[pf-tek-substrate-moisture-diagnosis-and-correction]] before yield is significantly impacted. This guide covers the primary macronutrients, [[calcium-magnesium-secondary-nutrients]], and key micronutrients with their characteristic deficiency signs [[solomon-disease-identification-and-organic-remedies]].
+Nutrient deficiencies manifest as visual symptoms on plant leaves, stems, roots, and fruits. Learning to read these symptoms allows rapid diagnosis and correction before yield is significantly impacted. This guide covers the primary macronutrients, secondary nutrients, and key micronutrients with their characteristic deficiency signs and organic remedies.
 
 ## Before Diagnosing
 
@@ -63,7 +63,7 @@ Organic fixes:
 - Bat guano (high-P varieties)
 - Composted poultry manure
 - Worm castings
-- [[mycorrhizal-inoculation]] — mycorrhizae dramatically increase P availability to roots
+- Mycorrhizal inoculation — mycorrhizae dramatically increase P availability to roots
 
 ### Potassium (K) Deficiency
 
@@ -140,11 +140,11 @@ Immobile nutrient — symptoms on new growth.
 Organic fixes:
 - Elemental sulfur (also lowers pH)
 - Gypsum (calcium sulfate)
-- Epsom salt (magnesium sulfate)
-- Kelp meal
-- Compost
 
-## Micronutrients
+## See Also
 
-### Iron (Fe) Deficiency
-Immobile nutrient. Severe interveinal chlorosis on new leaves (youngest most affected), leaves may turn almost white while veins stay green, growth severely stunted. Common in alkaline soils (pH >7.0). In cannabis: new leaves turn pale yellow/white at high pH.
+- [[two-tier-selection-model-plant-microbiome-assembly]]
+- [[holzer-problem-plant-regulation]]
+- [[what-a-plant-knows-plant-hearing-acoustic-sensing]]
+- [[medicinal-plant-preparations-tinctures-salves-teas]]
+- [[rhodopsin-photopsins-animal-visual-pigments-plant-photoreceptor-parallels]]

@@ -11,21 +11,10 @@ created: 2026-05-11
 
 Bigwood and Beug (1982) conducted the first controlled study tracking how
 psilocybin and psilocin levels change across successive fruiting flushes
-(harvests) of *Psilocybe cubensis* grown under rigorously controlled culture
+(harvests) of *[[psilocybe-cubensis]]* grown under rigorously controlled culture
 conditions. Their findings revealed fundamentally different accumulation
 patterns for the two principal psychoactive alkaloids and demonstrated that
-[[dosage-unpredictability-psilocybin-subjective-experience]] is an inherent feature of this species regardless of
-growing method.
-
-## Key Finding: Opposite Trends
-
-The most striking result was that psilocybin and psilocin do not follow the
-same accumulation pattern across flushes:
-
-- **Psilocin** is generally absent in the first flush, begins appearing in the
-  second or third flush, reaches maximum concentration by the fourth flush, and
-  then begins to decline. This delayed onset suggests that psilocin is not a
-  direct precursor but rather a [[fungal-elicitors-enhanced-secondary-metabolite-production]] whose biosynthetic pathway
+[[fungal-elicitors-enhanced-secondary-metabolite-production]] whose biosynthetic pathway
   requires extended mycelial maturation.
 
 - **Psilocybin** shows no consistent upward or downward trend across flushes.
@@ -85,7 +74,7 @@ or near-absence in early flushes and peak accumulation at flush 4.
 
 ## Strain Origin
 
-The strain studied originated from a spore print collected in the Amazon basin
+The strain studied originated from a [[spore-print]] collected in the Amazon basin
 near Pucallpa, Peru (Repke et al., 1977). Mycelium was maintained as a stock
 culture on various agars. This Amazonian strain was compared against two
 additional strains from other sources (M.R. strain and Ecuadorian strain),
@@ -96,41 +85,7 @@ which showed similar patterns of psilocin absence in first flushes.
 For cultivators and consumers, these findings have direct consequences:
 
 1. **First-flush mushrooms are psilocybin-dominant** with little to no psilocin,
-   producing a qualitatively different experience than [[psilocin-emergence-in-later-flushes]].
-
-2. **Fourth-flush mushrooms have the highest psilocin content** and thus the
-   most balanced psilocybin-to-psilocin ratio, which may produce different
-   subjective effects due to psilocin's faster onset and shorter duration.
-
-3. **Total alkaloid content is unpredictable** — even under identical controlled
-   conditions, psilocybin levels varied by a factor of four across flushes,
-   making dosage estimation by weight alone unreliable.
-
-4. **The decline after flush 4** suggests that the mycelium's biosynthetic
-   capacity for psilocin peaks and then diminishes, possibly as substrate
-   nutrients become depleted.
-
-## Biosynthetic Interpretation
-
-The delayed appearance of psilocin relative to psilocybin supports the
-hypothesis that psilocybin is the primary biosynthetic product and that
-psilocin may arise through subsequent dephosphorylation. The fact that psilocin
-reaches its maximum only after several flushes of mycelial activity suggests
-that the enzymatic machinery for dephosphorylation requires extended
-development time or accumulates with mycelial age.
-
-## Limitations
-
-The study was limited to *P. cubensis* grown on rye grain. Different substrates
-(compost, wood-based) may produce different alkaloid profiles. Only three
-minicultures of one primary strain were tracked in detail, though observations
-from two additional strains supported the general pattern. The maximum number
-of flushes tracked was six, so the long-term decline of psilocin beyond this
-point remains uncharacterized.
-
-## See Also
-
-- [[bigwood-beug-miniculture-rye-grain-flush-variation-method]] — detailed
+   producing a qualitatively different experience than [[bigwood-beug-miniculture-rye-grain-flush-variation-method]] — detailed
   method description
 - psilocybin and psilocin biosynthesis in psilocybe — biosynthetic pathways
 - [[analytical-methods-psilocybin-psilocin-quantification]] — HPLC methods

@@ -64,13 +64,7 @@ It is less tolerant of sedimentation and turbidity than some congeners, which ma
 
 ## Chemistry and Bioactivity
 
-Like many fucoid algae, *Cystoseira tamariscifolia* produces a range of bioactive [[antifungal-secondary-metabolites-coprophilous-fungi]] with ecological and pharmaceutical significance.
-
-The species contains **fucoidans** — sulfated polysaccharides with documented anticoagulant, antioxidant, and antitumor activities. Fucoidan content is highest during summer months.
-
-**Phlorotannins** (polyphenolic compounds unique to brown algae) are present at 2–8% dry weight. These compounds have demonstrated antibacterial, antiviral, and anti-inflammatory properties in vitro.
-
-Other metabolites include meroditerpenoids with cytotoxic activity against several [[blesching-cannabis-apoptosis-and-cancer-cell-death]] lines. The specific profile varies geographically and seasonally.
+Like many fucoid algae, *Cystoseira tamariscifolia* produces a range of bioactive [[blesching-cannabis-apoptosis-and-cancer-cell-death]] lines. The specific profile varies geographically and seasonally.
 
 Extracts of *C. tamariscifolia* have shown algicidal properties, potentially mediating competitive interactions with other algal species on the reef.
 
@@ -80,7 +74,7 @@ Extracts of *C. tamariscifolia* have shown algicidal properties, potentially med
 
 The holdfast and frond surfaces support diverse epiphytic communities including diatoms, bryozoans, hydroids, and small crustaceans. Mobile fauna such as amphipods, isopods, and juvenile fish shelter within the canopy.
 
-The species plays an important role in coastal [[dighton-fungi-elevated-co2-global-carbon-cycling]]. [[lichens-primary-production-soil-formation-dighton]] by *Cystoseira* canopies contributes significantly to [[dighton-fungal-dissolved-organic-carbon-production]] export to deeper waters and sediments.
+The species plays an important role in coastal [[lichens-primary-production-soil-formation-dighton]] by *Cystoseira* canopies contributes significantly to [[dighton-fungal-dissolved-organic-carbon-production]] export to deeper waters and sediments.
 
 Herbivory by sea urchins (*Paracentrotus lividus*) is a major controlling factor. Overgrazing by urchin populations can eliminate *Cystoseira* canopies, leading to shifts from macroalgal-dominated to barrens-dominated states.
 

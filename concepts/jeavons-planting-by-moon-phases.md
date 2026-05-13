@@ -10,8 +10,7 @@ type: concept
 
 # Planting by Moon Phases
 
-Planting by the phases of the moon is a [[holzer-kitchen-garden-layout-and-traditional-gardening]]
-technique incorporated into the [[jeavons-grow-biointensive-method-overview]] method by Alan
+Planting by the phases of the moon is a [[jeavons-grow-biointensive-method-overview]] method by Alan
 Chadwick. While controversial among some gardeners, it is presented
 as a nuanced practice that can improve the health and quality of
 plants, especially as soil improves and gardening experience grows.
@@ -37,30 +36,7 @@ have a greater effect.
 
 ### Short-Germinating Seeds (1 to 7 days)
 
-Most [[query-how-do-i-grow-vegetables-and-herbs-in-shaded-areas]] fall into this category. Plant these seeds
-2 days before the new moon and up to 7 days after the new moon. This
-period takes advantage of significant magnetic forces and the full
-sum of nature's forces, which are greatest at the new moon, including
-gravity, light, and magnetism.
-
-### Extra-Long-Germinating Seeds (22 to 28 days)
-
-Some herbs and special varieties have very long germination periods.
-These are planted at the same time as short-germinating seeds: 2 days
-before the new moon and up to 7 days after the new moon.
-
-### Long-Germinating Seeds (8 to 21 days)
-
-Seeds that take longer to germinate are planted at the full moon and
-up to 7 days afterward. Seedlings are transplanted at the same time.
-
-## How the Lunar Forces Work
-
-### First 7 Days of the Lunar Cycle
-
-During the first 7 days after the new moon, decreasing lunar gravity
-(and the corresponding relative increase in Earth's gravity)
-stimulates [[soil-moisture-management-and-root-growth]]. At the same time, the increasing amount of
+Most [[soil-moisture-management-and-root-growth]]. At the same time, the increasing amount of
 moonlight stimulates leaf growth. This period produces balanced
 growth of both roots and leaves, making it an ideal time for
 planting short-germinating seeds.
@@ -117,8 +93,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[det]]
 - [[jeavons-multi-crop-planting]]
-- [[jeavons-companion-planting-health-nutrition]]
 - [[jeavons-companion-planting]]
 - [[mushroom-cultivation-phases]]

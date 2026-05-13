@@ -10,17 +10,10 @@ sources:
 ---
 # Natural Farming and Spirituality
 
-Masanobu Fukuoka's [[fukuoka-view-of-nature-and-human-hubris]].
-
-## Related
-
-- [[fukuoka-view-of-nature-and-human-hubris]] -- epistemology and limits of knowledge
-- [[natural-farming-food-philosophy]] -- food as spiritual practice
+Masanobu Fukuoka's [[fukuoka-view-of-nature-and-human-hubris]] -- epistemology and limits of knowledge
 - [[fukuoka-western-eastern-philosophy-agriculture]]
 
 ## See Also
-
-- [[natural-farming-faa-fertilizer]]
 
 - [[fukuoka-heart-sutra-and-illusion-of-life-death]]
 ## Practical Applications

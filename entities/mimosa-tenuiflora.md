@@ -23,7 +23,7 @@ sources:
 
 ## Overview
 
-**Mimosa tenuiflora** (syn. *[[entheogen-jurema-mimosa-hostilis-ethnobotany]]*) is a perennial shrub or small tree in the family Fabaceae (legume family), native to the Caatinga biome of northeastern Brazil and extending through [[guzman-allen-gartz-neurotropic-fungi-central-america-caribbean]] to southern Mexico. It is one of the most important entheogenic plants in the Americas, with a [[plant-science-exploring-rich-history]] of indigenous ceremonial use spanning thousands of years. The inner [[iboga-root-bark-preparation]] contains among the highest concentrations of DMT found in any plant, making it both a subject of traditional reverence and modern pharmacological interest. Beyond its psychoactive properties, *M. tenuiflora* is an ecologically vital [[pioneer-species-selection-for-permaculture-systems]] with significant applications in [[tropical-rainforest-seedling-mycorrhiza-ecological-restoration]] and permaculture.
+**Mimosa tenuiflora** (syn. *[[guzman-allen-gartz-neurotropic-fungi-central-america-caribbean]] to southern Mexico. It is one of the most important entheogenic plants in the Americas, with a [[iboga-root-bark-preparation]] contains among the highest concentrations of DMT found in any plant, making it both a subject of traditional reverence and modern pharmacological interest. Beyond its psychoactive properties, *M. tenuiflora* is an ecologically vital [[tropical-rainforest-seedling-mycorrhiza-ecological-restoration]] and permaculture.
 
 ## Taxonomy
 
@@ -40,51 +40,89 @@ sources:
 
 ### Synonyms
 
-- *[[mimosa-hostilis]]* (Benth.) J.F.Macbr. — the most widely used synonym, especially in the entheogenic community
-- *Acacia hostilis* (Benth.) Mart.
-- *Mimosa verissima* Mart.
-- *Mimosa limensis* Rizzini
+- *[[kava-traditional-preparation-ceremonial-context]] involves:
 
-### Common Names
+## Overview
 
-- **Portuguese (Brazil)**: Jurema, jurema-preta, jurema-vermelha, calumbi
-- **Spanish (Mexico)**: Tepezcohuite, tepescohuite, carbonal, cabrera
-- **English**: Jurema, black jurema, mimosa hostilis
+Mimosa Tenuiflora represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
 
-## Morphology
+## Key Characteristics
 
-- **Growth habit**: Fast-growing perennial shrub to small tree; typically 2–8 m tall, occasionally reaching 12 m
-- **Trunk**: Grayish-brown, smooth when young, becoming rough and fissured with age; 10–30 cm diameter
-- **Bark**: Outer bark dark brown, thick, and corky; inner bark (the entheogenically significant part) pinkish-red to reddish-brown, fibrous, with a characteristic sweet-woody aroma
-- **Branches**: Armed with sharp stipular spines (thorns) 3–12 mm long at branch nodes; crucial identification feature
-- **Leaves**: Bipinnately compound, 5–10 cm long; 2–4 pairs of pinnae, each with 15–30 pairs of small (3–6 mm) linear leaflets; leaves exhibit rapid **seismonastic movement** (folding in response to touch, vibration, or changes in light — the "sensitive plant" response)
-- **Flowers**: Fragrant, sessile, in dense cylindrical spikes 2–6 cm long; white to creamy-white, with numerous long stamens giving a powder-puff appearance; bloom during the dry season (September to January in Brazil)
-- **Fruit**: Flat, linear pods 4–8 cm long and 6–10 mm wide, brown at maturity; containing 3–5 seeds per pod; pods dehisce explosively when dry, dispersing seeds several meters
-- **Seeds**: Oval, brown, 3–4 mm long, hard-coated; require scarification for germination
-- **Root system**: Deep taproot (2–4 m) with extensive nitrogen-fixing rhizobial nodules; lateral roots also well-developed
+Several defining characteristics distinguish mimosa tenuiflora
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
 
-## Phytochemistry
+## Ecological Context
 
-### Tryptamine Alkaloids
+The ecological relationships involving mimosa extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
 
-The inner root bark of *M. tenuiflora* is exceptionally rich in DMT:
-- **N,N-DMT**: 0.31–1.0% in dried inner root bark (variable by population, season, and plant age)
-- **N-Methyltryptamine (NMT)**: 0.02–0.08% — a biosynthetic intermediate and mild psychoactive compound
-- **β-Carboline alkaloids**: Trace amounts of harmine and harmaline have been detected in some samples, though concentrations are generally too low for monoamine oxidase inhibition
+## Practical Applications
 
-### Other Compounds
+Mimosa Tenuiflora finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
 
-- **Tannins**: High concentrations (15–25%) of condensed tannins (proanthocyanidins) — responsible for the bark's astringent and wound-healing properties
-- **Flavonoids**: Kaempferol, quercetin, and their glycosides — antioxidant and anti-inflammatory
-- **Saponins**: Triterpenoid saponins — antimicrobial and immunomodulatory
-- **Mucilages**: Polysaccharides contributing to wound-healing and skin-protective effects
-- **Phenolic acids**: Gallic acid, ellagic acid derivatives — antioxidant
+## Management and Implementation
 
-## Ethnobotanical History
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
 
-### Jurema Ceremony (Northeastern Brazil)
+## Regional Considerations
 
-The use of *M. tenuiflora* in northeastern Brazil represents one of the oldest continuous entheogenic traditions in the Americas:
-- **Archaeological evidence**: Ceramic pipes containing DMT residues, dated to 1000 BCE, have been found in the region of Pernambuco — demonstrating over 3,000 years of documented use
-- **Indigenous peoples**: The Tupi, Pataxó, Tuxá, Fulni-ô, and other indigenous groups of the Caatinga region used jurema in shamanic ceremonies for healing, divination, and communication with spirits
-- **Vinho da Jurema (Jurema wine)**: The [[kava-traditional-preparation-ceremonial-context]] involves:
+Different geographic regions present unique challenges and
+opportunities for mimosa tenuiflora. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+mimosa tenuiflora and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Mimosa Tenuiflora has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of mimosa tenuiflora into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[entheogen-jurema-mimosa-hostilis-ethnobotany]]
+- [[mimosa]]
+- [[mimosa-hostilis]]
+- [[schultes-mimosa-jurema-dmt-brazil]]
+- [[tompkins-mimosa-pudica-sensitive-plant-experiments]]

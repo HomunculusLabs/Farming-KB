@@ -15,7 +15,7 @@ tags:
 
 ## Overview
 
-In *What a Plant Knows*, [[daniel-chamovitz]] introduces the electromagnetic spectrum as a unified framework for understanding how both plants and humans perceive light. Rather than treating [[plant-photoreception-visible-light]] as a special or isolated phenomenon, Chamovitz places it squarely within the continuum of all electromagnetic radiation — from the longest radio waves to the shortest gamma rays. This framing is essential for appreciating what plants can sense that humans cannot, and it lays the groundwork for understanding plant vision as a genuinely perceptual system.
+In *What a Plant Knows*, [[plant-photoreception-visible-light]] as a special or isolated phenomenon, Chamovitz places it squarely within the continuum of all electromagnetic radiation — from the longest radio waves to the shortest gamma rays. This framing is essential for appreciating what plants can sense that humans cannot, and it lays the groundwork for understanding plant vision as a genuinely perceptual system.
 
 ## Light as Electromagnetic Waves
 
@@ -62,14 +62,7 @@ Plants, however, possess photoreceptors (such as UVR8) that actively sense UV ra
 
 Infrared radiation has wavelengths longer than those of visible red light, extending from about 700 nanometres to 1 millimetre. In humans, infrared is experienced as heat — it warms the skin but is invisible to the eye. We sense its effects indirectly, but we cannot see infrared radiation itself.
 
-Plants detect infrared light (particularly far-red light around 730 nanometres) and use information from this part of the spectrum to sense their thermal environment and to guide growth and developmental decisions. The ratio of red to far-red light is especially important as a signal for [[phytochrome-red-far-red-ratio-shade-detection-plants]], since chlorophyll in neighbouring leaves absorbs red light but transmits and reflects far-red light.
-
-## What Plants Know About Light
-
-Chamovitz argues that plants possess a remarkably sophisticated awareness of light that goes far beyond simple detection. Plants know:
-
-- **Light intensity**: whether light is very dim (as faint as a candle), moderate (middle of the day), or declining (the sun is about to set). This informs decisions about energy allocation and growth rate.
-- **Light direction**: whether light is coming from the left, the right, or from above. This [[phototropin-blue-light-receptor-plant-directional-sensing]] drives phototropism — the ability of a plant to grow toward a light source.
+Plants detect infrared light (particularly far-red light around 730 nanometres) and use information from this part of the spectrum to sense their thermal environment and to guide growth and developmental decisions. The ratio of red to far-red light is especially important as a signal for [[phototropin-blue-light-receptor-plant-directional-sensing]] drives phototropism — the ability of a plant to grow toward a light source.
 - **Light obstruction**: whether another plant has grown above them and is blocking their access to light. This awareness enables shade-avoidance responses, where plants redirect growth to reach unobstructed light.
 - **Light duration**: how long lights have been on, which allows plants to track day length and coordinate seasonal behaviours such as flowering (photoperiodism).
 
@@ -108,39 +101,6 @@ Chamovitz's treatment of the spectrum underscores a broader theme of the book: t
 - Photoreceptors and plant vision
 - Phototropism and directional light sensing
 - Photoperiodism and seasonal responses
-- [[phototropism-and-shade-avoidance]] in plants
-- Ultraviolet radiation and plant defence
-- Phytochrome and far-red light detection
-
-## Sources
-
-- Chamovitz, Daniel. *What a Plant Knows: A Field Guide to the Senses*. Scientific American / Farrar, Straus and Giroux, 2012.
-- Source document: `grahamholmes-what-a-plant-knowsindd.md`
-
-## Practical Applications
-
-The principles and techniques discussed here have wide-ranging applications
-across multiple disciplines and contexts. Practitioners and researchers
-continue to explore new ways to integrate these concepts into modern practice,
-adapting traditional knowledge to contemporary challenges and opportunities.
-
-## Key Considerations
-
-Several important factors influence the effectiveness and outcomes described
-in this topic. Understanding these considerations helps practitioners make
-informed decisions and avoid common pitfalls. Environmental conditions,
-timing, and material selection all play critical roles.
-
-## Historical Context
-
-The historical development of this subject reflects centuries of accumulated
-knowledge and practical experience. From traditional methods passed down
-through generations to modern scientific approaches, the evolution continues
-to inform current best practices and research directions.
-
-## See Also
 - [[plant-photoreception]]
-- [[electromagnetic-spectrum-plant-light-perception]]
 - [[electromagnetic-spectrum-visible-light-plant-perception]]
-- [[doc]]
 - [[det]]

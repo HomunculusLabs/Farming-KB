@@ -11,23 +11,12 @@ sources:
 
 # Contamination Identification and Prevention
 
-Contamination is the single greatest cause of failure in [[accessible-mushroom-cultivation-for-disabilities]]. Understanding the identity, sources, and prevention of contaminants is essential for any cultivator. Stamets emphasizes that contamination exists at every stage -- from agar plates to fruiting blocks -- and that proactive prevention is far more effective than reactive treatment.
-
-## The Cardinal Rules of Contamination
-
-### Rule 1: As nitrogen supplementation increases, contamination risk increases
-Fresh hardwood sawdust needs 2-3 hours sterilization at 15 psi. The same mass supplemented with rice bran needs 4-5 hours. The more nutritional supplementation, the more contaminants can survive if sterilization is insufficient.
-
-### Rule 2: Time is the enemy at make-up
-If wetted substrate sits more than 6 hours before sterilization, legions of contaminants begin to grow. The more contaminants at make-up, the more likely some survive the sterilization cycle. Substrate must be loaded into the autoclave immediately after wetting.
-
-### Rule 3: Over-sterilization destroys substrates
-Sawdust subjected to >5 hours at 15-18 psi takes on a dark brown color, develops turpentine odors and toxic by-products, and becomes entirely inhospitable to [[antimicrobial-compounds-mushroom-mycelium]]. The window between under-sterilization and over-sterilization must be found for each system.
+Contamination is the single greatest cause of failure in [[antimicrobial-compounds-mushroom-mycelium]]. The window between under-sterilization and over-sterilization must be found for each system.
 
 ## Common Contaminants
 
 ### Green Molds (Trichoderma, Aspergillus, Penicillium)
-The most prevalent contaminants [[contamination-prevention-in-mushroom-cultivation]]. Appear as rapidly expanding green or blue-green colonies. Trichoderma is especially aggressive and can overrun a substrate in days. Often introduced via contaminated grain, poor [[cultivator-sterile-technique-and-agar-culture]], or airborne spores during inoculation.
+The most prevalent contaminants [[cultivator-sterile-technique-and-agar-culture]], or airborne spores during inoculation.
 
 ### Bacterial Contamination (Bacillus, Pseudomonas)
 Appear as slimy, foul-smelling patches. Bacillus species produce "wet spot" in grain spawn -- kernels appear slimy and stuck together. Pseudomonas causes blotch on mushroom caps (dark brown spots). Often result from insufficient sterilization or poor hygiene.
@@ -36,21 +25,7 @@ Appear as slimy, foul-smelling patches. Bacillus species produce "wet spot" in g
 Appear as creamy, smooth, raised colonies. Commonly introduced via contaminated agar work. Generally less aggressive than molds but compete for nutrients.
 
 ### Cobweb Mold (Dactylium)
-Fine, cobweb-like mycelium that can be mistaken for mushroom mycelium. Often appears during fruiting when humidity is too high and [[growing-gourmet-growing-room-ventilation-air-exchange]] is insufficient.
-
-## Contamination Sources
-
-### Airborne Spores
-The primary vector for contamination. Spores are ubiquitous indoors and outdoors. [[comparison-laminar-flow-hood-vs-fruiting-chamber]] hoods with [[growing-gourmet-hepa-filtration-laboratory-air-systems]] are the standard defense for inoculation work.
-
-### Grain and Substrate
-Raw materials carry their own load of contaminant spores and bacteria. This is why sterilization is mandatory for supplemented substrates. Pasteurization (lower temperature) is sufficient for low-supplement substrates like straw.
-
-### Personnel
-Human activity generates massive numbers of airborne particles. Clean room protocols, limited personnel access, and proper gowning (hair nets, masks, gloves) reduce this source significantly.
-
-### Water
-Standing water, condensation, and humidifiers can harbor and distribute bacteria. Use clean water for [[cotter-compost-substrate-preparation-manure-mushroom-cultivation]].
+Fine, cobweb-like mycelium that can be mistaken for mushroom mycelium. Often appears during fruiting when humidity is too high and [[comparison-laminar-flow-hood-vs-fruiting-chamber]] hoods with [[cotter-compost-substrate-preparation-manure-mushroom-cultivation]].
 
 ## Prevention Strategies
 
@@ -65,10 +40,7 @@ Standing water, condensation, and humidifiers can harbor and distribute bacteria
 - Inspect regularly (every 2-3 days)
 - Remove contaminated containers immediately
 - Maintain proper temperature (too high favors thermophilic contaminants)
-- Ensure adequate [[mushroom-cultivation-jar-lid-management-loose-fit-vacuum-gas-exchange]] through filter patches
-
-### During Fruiting
-- Maintain proper humidity (not too high -- promotes [[growing-gourmet-bacterial-blotch-disease-management]])
+- Ensure adequate [[growing-gourmet-bacterial-blotch-disease-management]])
 - Adequate fresh air exchange
 - Remove spent or rotting mushrooms promptly
 - Clean surfaces between flushes with 10% bleach or 70% alcohol
@@ -118,8 +90,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[contamination-identification]]
 - [[doc]]
-- [[hepa-filter]]
 - [[dom]]
 - [[spore]]

@@ -12,49 +12,14 @@ Anandamide (N-arachidonoylethanolamine, abbreviated AEA) is an endogenous cannab
 
 ## Discovery
 
-The discovery of anandamide in the early 1990s was a landmark event in neuroscience and pharmacology that followed directly from research into the mechanism of action of THC, the primary psychoactive component of cannabis. When scientists discovered that the brain contains specific [[cannabinoid-receptors-cb1-cb2]] (CB1 and CB2), the logical question arose: why would the human body have receptors for compounds found in a plant? The answer came with the discovery that the body produces its own cannabinoid-like molecules — endocannabinoids — that activate these same receptors. Anandamide was the first such molecule identified.
+The discovery of anandamide in the early 1990s was a landmark event in neuroscience and pharmacology that followed directly from research into the mechanism of action of THC, the primary psychoactive component of cannabis. When scientists discovered that the brain contains specific [[beta-glucan-receptor-binding]] profile is:
 
-The discovery established the existence of the endocannabinoid system (ECS) as a fundamental biological regulatory mechanism, transforming our understanding of human physiology and providing a scientific basis for the therapeutic effects of cannabis.
-
-## Chemical Properties
-
-Anandamide is an N-acylethanolamine — a fatty acid amide derived from arachidonic acid. Key chemical characteristics:
-
-- **Chemical name**: N-arachidonoylethanolamine (AEA)
-- **Structure**: An arachidonic acid chain (20 carbon atoms with four double bonds) linked to an ethanolamine group
-- **Solubility**: Lipophilic (fat-soluble), which allows it to cross cell membranes easily but also makes it difficult to transport in the aqueous environment of the bloodstream
-- **Stability**: Relatively unstable in vivo; rapidly broken down by the enzyme fatty acid amide hydrolase (FAAH), giving anandamide a short half-life and limiting its duration of action
-- **Synthesis**: Produced on demand from membrane phospholipid precursors by the enzyme N-acylphosphatidylethanolamine-phospholipase D (NAPE-PLD)
-
-## Receptor Pharmacology
-
-Anandamide functions as a "key" molecule that fits into cannabinoid receptor "locks." Its [[beta-glucan-receptor-binding]] profile is:
-
-- **CB1 receptor**: Anandamide binds as a partial agonist at CB1 receptors, producing a subset of the effects associated with THC (which is also a CB1 partial agonist). The effects include mood elevation, pain relief, and cognitive modulation, though anandamide's effects are generally milder and shorter-lasting than THC's due to rapid [[enzymatic-degradation-in-mycoremediation]].
-- **CB2 receptor**: Anandamide binds to CB2 receptors with much lower affinity than to CB1, producing limited immune-modulating effects.
-- **TRPV1 receptor**: Anandamide also activates the transient receptor potential vanilloid type 1 (TRPV1) receptor, which is involved in pain perception and temperature sensing. This dual activity at both cannabinoid and vanilloid receptors makes anandamide unique among endocannabinoids and may contribute to its complex effects on pain.
-
-## Physiological Functions
-
-Anandamide influences a wide range of physiological and psychological processes through its activation of CB1 and other receptors:
-
-### Psychological and Emotional Effects
-- **Pleasure and reward**: Anandamide enhances pleasure and contributes to the brain's reward system. It interacts with dopamine and opioid pathways to modulate feelings of satisfaction and enjoyment.
-- **Mood regulation**: Anandamide helps regulate emotional states and may protect against anxiety and depression. Low anandamide levels have been associated with increased anxiety and reduced stress resilience.
-- **Fear response**: Anandamide modulates fear extinction — the process by which learned fear responses diminish over time. This function is relevant to [[cannabis-for-anxiety-disorders]] and post-traumatic stress disorder (PTSD).
+- **CB1 receptor**: Anandamide binds as a partial agonist at CB1 receptors, producing a subset of the effects associated with THC (which is also a CB1 partial agonist). The effects include mood elevation, pain relief, and cognitive modulation, though anandamide's effects are generally milder and shorter-lasting than THC's due to rapid [[cannabis-for-anxiety-disorders]] and post-traumatic stress disorder (PTSD).
 - **Schizophrenia**: Anandamide levels may be elevated in acute schizophrenia, and the molecule may play a compensatory role in mitigating psychotic symptoms. Some researchers have proposed that enhancing anandamide signaling could be therapeutic in schizophrenia.
 
 ### Neurological Effects
 - **Neuroprotection**: Anandamide protects nerve cells from various forms of damage, including excitotoxicity, oxidative stress, and inflammation-mediated injury.
-- **[[plant-memory-and-learning]]**: Through CB1 receptor activation in the hippocampus, anandamide modulates memory formation and consolidation. The transient nature of anandamide signaling (due to rapid FAAH-mediated degradation) means its effects on memory are brief and context-dependent.
-- **Pain modulation**: Anandamide produces analgesic effects through both CB1 receptor activation (central pain pathways) and TRPV1 receptor activation (peripheral pain pathways).
-
-### Physical Effects
-- **Appetite**: Anandamide stimulates appetite through CB1 receptors in the hypothalamus, similar to THC but with less potency.
-- **Cough suppression**: Anandamide has antitussive (cough-suppressing) properties.
-- **Reproduction**: Anandamide plays critical roles in fertility and early pregnancy, including embryo implantation in the uterine wall. The tone of anandamide signaling must be precisely balanced — both too much and too little can impair fertility.
-- **Blood pressure**: Anandamide influences cardiovascular function, including blood pressure regulation, through both CB1 and non-CB1 mechanisms.
-- **Anti-cancer activity**: Research has demonstrated that anandamide can destroy numerous types of cancer cells through CB1-mediated pathways, suggesting a role for [[2-ag-endocannabinoid-signaling-blesching]] in the body's natural anti-cancer defenses.
+- **[[2-ag-endocannabinoid-signaling-blesching]] in the body's natural anti-cancer defenses.
 
 ## Regulation: Synthesis and Degradation
 
@@ -109,38 +74,7 @@ CBD (cannabidiol) indirectly influences anandamide levels by inhibiting FAAH, th
 
 ## See Also
 
-- [[endocannabinoid-system-overview]]
 - [[cannabinoid-receptors-cb1-cb2]]
-- [[thc-tetrahydrocannabinol]]
-
-## References
-
-- Blesching, U. (2015). *The Cannabis Health Index*. North Atlantic Books, Berkeley.
-
-## Practical Applications
-
-The principles and techniques discussed here have wide-ranging applications
-across multiple disciplines and contexts. Practitioners and researchers
-continue to explore new ways to integrate these concepts into modern practice,
-adapting traditional knowledge to contemporary challenges and opportunities.
-
-## Key Considerations
-
-Several important factors influence the effectiveness and outcomes described
-in this topic. Understanding these considerations helps practitioners make
-informed decisions and avoid common pitfalls. Environmental conditions,
-timing, and material selection all play critical roles.
-
-## Historical Context
-
-The historical development of this subject reflects centuries of accumulated
-knowledge and practical experience. From traditional methods passed down
-through generations to modern scientific approaches, the evolution continues
-to inform current best practices and research directions.
-
-## See Also
 - [[anandamide]]
-- [[doc]]
 - [[cannabis-health-index]]
-- [[ethanol]]
 - [[tetrahydrocannabinol]]

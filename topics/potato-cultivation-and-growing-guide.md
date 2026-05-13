@@ -1,12 +1,12 @@
 ---
 title: "Potato Cultivation and Growing Guide"
-subtitle: "Complete guide to growing potatoes from planting to harvest, covering varieties, soil preparation, pest management, and storage."
+subtitle: "Complete guide to growing potatoes from [[query-how-do-i-grow-garlic-organically-from-planting-to-harvest]], covering varieties, soil preparation, pest management, and storage."
 tags: [potato, solanum-tuberosum, root-crops, staple-crops, cultivation, nightshade]
 date: 2026-05-11
 updated: 2026-05-11
 sources:
-  - Cervantes, J. Marijuana Horticulture. Van Patten Publishing, 2006.
-  - Solomon, S. Growing Vegetables West of the Cascades. Sasquatch Books, 2007.
+  - Cervantes, J. marijuana-horticulture-cervantes-artificial-lighting-and-electricity. Van Patten Publishing, 2006.
+  - Solomon, S. [[container-growing-vegetables-herbs]] West of the Cascades. Sasquatch Books, 2007.
   - Jeavons, J. How to Grow More Vegetables. Ten Speed Press, 2012.
   - Ingham, E. Soil Biology Primer. NRCS Soil Quality Institute, 2000.
   - Lutaladio, N. & Castaldi, L. Potato: A Guide to Sustainable Production. FAO, 2009.
@@ -26,24 +26,7 @@ related_concepts:
 
 ## Overview and Importance
 
-The potato ([[solanum-tuberosum|Solanum tuberosum]]) is the world's fourth most important
-food crop after wheat, rice, and maize. Originating in the Andes
-Mountains of South America, it has become a global staple.
-
-Potatoes produce more calories per acre than any other major food
-crop. A single acre can sustain ten people for a year, making them
-critical for global food security and local self-sufficiency.
-
-The tuber's nutritional profile is remarkably complete. Potatoes
-provide high-quality protein, vitamin C, potassium, and B vitamins.
-Combined with dairy, they form a nutritionally complete diet.
-
-Over 5,000 varieties exist worldwide, though only a fraction reach
-commercial markets. Vast genetic diversity resides in the Andean
-highlands, maintained by indigenous communities for millennia.
-
-Global production exceeds 370 million tonnes annually. China leads,
-followed by India and Russia. Most potatoes are consumed [[dom|dom]] estically
+The potato ([[dom|dom]] estically
 rather than traded internationally, underscoring food sovereignty.
 
 ## Botany and Origin
@@ -53,7 +36,7 @@ tomatoes, peppers, and eggplants. The edible portion is a swollen
 underground stem called a tuber, not a root.
 
 Wild species range from the southwestern United States through
-Central America to southern Chile. The greatest diversity occurs
+[[guzman-allen-gartz-neurotropic-fungi-caribbean-central-america]] to southern Chile. The greatest diversity occurs
 around Lake Titicaca in Peru and Bolivia, where over 4,000
 landraces are still cultivated by indigenous communities.
 
@@ -64,7 +47,7 @@ from sea level to 4,500 meters altitude.
 
 The potato reached Europe in the 1570s following Spanish conquest.
 It spread slowly at first, hampered by suspicion of its nightshade
-ties, but eventually transformed European agriculture and demography,
+ties, but eventually transformed [[fukuoka-european-agriculture-observations]] and demography,
 fueling population growth through the 18th and 19th centuries.
 
 Sir Walter Raleigh and Antoine-Augustin Parmentier both played roles
@@ -95,7 +78,7 @@ flavors and colors unavailable in supermarkets.
 
 ## Climate and Site Requirements
 
-Potatoes grow best in cool temperate climates with consistent
+Potatoes grow best in [[glasshouse-growing-cool-temperate-climates]] with consistent
 moisture. Ideal temperatures range from 15-20 degrees C during the
 growing season. Tubers stop forming above 27 degrees C.
 
@@ -107,43 +90,5 @@ Potatoes tolerate a wide range of soil types but prefer loose,
 well-drained loam. Heavy clay restricts tuber expansion and
 promotes disease. Sandy soils drain well but need more irrigation.
 
-[[soil-ph]] between 5.0 and 6.0 is optimal, slightly acidic. This
-range suppresses common scab while allowing full nutrient uptake.
-Avoid liming potato beds.
-
-## Soil Preparation
-
-Deep, thorough soil preparation is the foundation of a good potato
-crop. Break up compacted layers to at least 30 cm depth to allow
-unrestricted tuber expansion.
-
-Incorporate generous amounts of compost or well-rotted manure
-before planting. Potatoes are heavy feeders that respond to organic
-matter. Aim for 5-10 cm of compost worked into the bed.
-
-Avoid fresh manure at planting time. High nitrogen promotes
-excessive foliage at the expense of tuber development. Fresh
-manure also increases risk of scab and soil-borne diseases.
-
-Crop rotation is essential for potato health. Wait at least three
-years before replanting in the same location. This breaks cycles
-of Verticillium wilt and root-knot nematodes.
-
-## Planting
-
-Purchase certified disease-free seed potatoes from reputable
-suppliers. Never plant supermarket potatoes, which may carry
-latent diseases and are often treated with sprout inhibitors.
-
-Cut seed potatoes into pieces weighing 50-75 grams, each containing
-at least two eyes. Allow cut surfaces to callus for 24-48 hours
-before planting to reduce rot risk.
-
-Plant seed pieces 10-15 cm deep, spaced 30 cm apart in rows 60-90
-cm apart. Deeper planting protects from late frost and produces
-more tubers along the buried stem.
-
-## See Also
-- [[growing-gourmet-tree-species-guide-mushroom-cultivation]]
-- [[growing-gourmet-cultivation-troubleshooting-diagnostic-guide]]
+[[growing-gourmet-tree-species-guide-mushroom-cultivation]]
 - [[garlic-cultivation-and-allium-growing-guide]]

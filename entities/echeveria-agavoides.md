@@ -109,13 +109,8 @@ This photosynthetic adaptation allows the plant to thrive in environments with e
 
 ## See Also
 
-- [[echeveria-elegans]]
 - [[echeveria-pulidonis]]
-- [[crassula-ovata]]
 - [[kalanchoe-blossfeldiana]]
-- [[aeonium-arboreum]]
 - [[haworthia-fasciata]]
-- [[sedum-rupestre]]
 - [[pachyphytum-oviferum]]
-- [[dudleya-farinosa]]
 - [[cotyledon-tomentosa]]

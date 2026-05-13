@@ -15,26 +15,7 @@ Oomycetes and other straminipiles were long classified as fungi due to their fil
 
 | Feature | True Fungi | Straminipiles |
 |---------|-----------|---------------|
-| [[staycare-degradation-of-plant-cell-wall-polymers-by-fungi]] | Chitin | Cellulose (sometimes with beta-glucans) |
-| Energy storage | Glycogen | Mycolaminarin (laminarin-like) |
-| Mitochondria | Tubular cristae | Tubular cristae |
-| Flagella | Single, posterior | Two: anterior tinsel + posterior whiplash |
-| Nuclear division | Usually within intact nuclear envelope | Centric (centrioles present) |
-| Synthesis | Ergosterol | Fucosterol (not ergosterol) |
-| Kingdom | Fungi | Chromista/Straminipila |
-
-## Classification
-
-### Peronosporomycetes (Oomycetes)
-The largest and most economically important group:
-
-**Saprolegniomycetidae:**
-- Saprolegniales (water molds): Saprolegnia, Achlya, Dictyuchus
-- Major pathogens of fish and fish eggs
-- Found in freshwater habitats worldwide
-
-**Peronosporomycetidae:**
-- Pythiales: Pythium (damping-off), Phytophthora (late blight, [[cannabis-root-rot-prevention-and-treatment]])
+| [[cannabis-root-rot-prevention-and-treatment]])
 - Peronosporales: Downy mildews (Plasmopara, Peronospora, Bremia)
 - Albuginales: White rusts (Albugo)
 - Some of the most destructive plant pathogens known
@@ -53,32 +34,98 @@ The largest and most economically important group:
 - Marine organisms; important decomposers of detritus
 - Produce unique ectoplasmic net (bothrioid) for nutrient absorption
 - Labyrinthula: Associated with seagrass wasting disease
-- Thraustochytrids: Some produce omega-3 [[stable-carbon-isotope-signature-fatty-acids-mycorrhizal-carbon-tracking]] commercially
-
-## Nomenclature Confusion
-
-Multiple names have been applied to this group over time:
-- "Oomycota" (treated as a fungal phylum)
-- "Chromista" (Cavalier-Smith's kingdom)
-- "Heterokonta" (referring to two different flagella)
-- "Straminipila" (Dick 2001; preferred in [[telluride-mushroom-festival-modern-mycological-culture]] literature)
+- Thraustochytrids: Some produce omega-3 [[telluride-mushroom-festival-modern-mycological-culture]] literature)
 
 The move away from treating these organisms as fungi has been slow and controversial, but molecular evidence is unequivocal: they are chromists, not fungi.
 
 ## Ecological Significance
 
 ### Plant Pathogens
-- **Phytophthora ramorum:** [[bloomfield-sudden-oak-death-phytophthora-species-diversity]] death; devastating forest disease
-- **Phytophthora infestans:** Potato/tomato late blight
-- **Pythium species:** Damping-off, root rot of seedlings
-- **Downy mildews:** Major diseases of grapes (Plasmopara), lettuce (Bremia), cucurbits (Pseudoperonospora)
-- **Albugo:** White rust of crucifers and other plants
-
-### Animal Pathogens
-- **Saprolegnia:** Major fish pathogen in aquaculture
-- **Aphanomyces:** Crayfish plague; devastating amphibian disease
-- See [[fungi-aquatic-animals-pathogens-parasites]]
-- [[freshwater-fungi-aquatic-hyphomycetes-ascomycetes]]
+- **Phytophthora ramorum:** [[fungi-aquatic-animals-pathogens-parasites]]
 - [[selective-agents-fungal-isolation-antibiotics-fungicides]]
-- [[fungal-decomposition-nutrient-cycling-ecosystems-dighton]]
 - [[fungal-communities-water-aquatic-ecosystems]]
+
+## Overview
+
+Straminipiles Oomycetes Fungus Like Chromists represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish straminipiles oomycetes fungus like chromists
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving straminipiles extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Straminipiles Oomycetes Fungus Like Chromists finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for straminipiles oomycetes fungus like chromists. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+straminipiles oomycetes fungus like chromists and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Straminipiles Oomycetes Fungus Like Chromists has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of straminipiles oomycetes fungus like chromists into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[biodiversity-oomycetes-straminipiles]]
+- [[bloomfield-rust-fungus-life-cycles-puccinia-haustoria-spermatia]]
+- [[cervantes-fungus-gnats]]
+- [[fungus-gnats-cannabis]]
+- [[oomycetes-water-molds]]

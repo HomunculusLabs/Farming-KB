@@ -30,60 +30,96 @@ sources:
 
 | Feature | Steam Distillation | CO₂ Extraction |
 |---------|-------------------|----------------|
-| **Mechanism** | Steam carries [[query-how-do-fungal-volatile-compounds-affect-plant-growth-and-other-microorganisms]] through condensation | Supercritical CO₂ acts as a solvent dissolving plant compounds |
-| **Temperature** | 80–100°C (at atmospheric pressure) | 31–40°C (supercritical) or 10–25°C (subcritical) |
-| **Pressure** | Atmospheric | 75–500 bar (supercritical) |
-| **Solvent used** | Water (steam) — GRAS, no residue | CO₂ — gas at room temp, fully evaporates, no residue |
-| **Yield** | 0.1–5% depending on plant | 1–10% (often higher than steam) |
-| **Selectivity** | Highly selective for volatile, water-insoluble compounds | Tunable: selective for terpenes (subcritical) or broad-spectrum (supercritical) |
-| **Aromatic profile** | Clean, classic essential oil profile; some thermolabile compounds lost | Closer to raw plant aroma; captures heavier, non-volatile compounds |
-| **Cost** | Low equipment cost ($500–$5,000 for small scale) | Very high ($20,000–$500,000+ for commercial systems) |
-| **Batch time** | 1–6 hours | 2–4 hours |
-| **Scalability** | Excellent; proven at all scales | Limited by pressure vessel size; batch only |
-| **Best for** | Lavender, peppermint, eucalyptus, rosemary, tea tree | Rose, jasmine, vanilla, ginger, hops, cannabis |
-| **Environmental impact** | Moderate energy (heating water); low chemical footprint | High energy (compression); CO₂ is recycled, no solvent waste |
-| **Organic certification** | Widely accepted | Accepted; CO₂ extraction is considered solvent-free |
-
-## How Steam Distillation Works
-
-Steam distillation has been the standard essential oil extraction method for over 1,000 years. The process relies on two physical principles: the volatility of aromatic compounds and the immiscibility of essential oils with water.
-
-### Process
-
-1. **Loading**: Plant material (flowers, leaves, stems, roots, or seeds) is placed in a distillation vessel (still) on a perforated screen above boiling water, or steam is injected directly into the biomass
-2. **Steam contact**: Live steam or direct-steam passes through the plant matrix, rupturing oil glands and carrying volatile compounds into the vapor phase
-3. **Condensation**: The vapor mixture passes through a condenser (typically a coiled copper or stainless steel tube cooled by water), condensing into a liquid mixture of essential oil and hydrosol
-4. **Separation**: The oil and hydrosol separate in a Florentine flask — essential oil floats on top (for most oils) or sinks (for clove, wintergreen, and a few others) due to density differences
-5. **Collection**: Essential oil is drawn off; hydrosol (floral water) is collected separately
-
-### Advantages
-
-- **Simplicity and accessibility**: Equipment can be built from copper pots and condenser coils; suitable for home, farm, and artisanal production
-- **No chemical solvents**: Only water and heat; produces a clean, solvent-free product
-- **Hydrosol byproduct**: The water-soluble fraction (hydrosol) contains water-soluble plant compounds (flavonoids, organic acids, trace minerals) and is a valuable co-product for cosmetics, skin care, and aromatherapy
-- **Well-characterized**: Thousands of years of use; extensive safety data, pharmacopoeial standards (USP, EP, BP), and GC-MS reference profiles exist for steam-distilled oils
-- **Preserves traditional profiles**: The aromatic profile of steam-distilled oils is the standard against which all other methods are compared; aromatherapists and perfumers often prefer this profile
-
-### Limitations
-
-- **Thermal degradation**: Temperatures of 80–100°C degrade or alter heat-sensitive compounds — alcohols oxidize, esters hydrolyze, and some sulfur compounds decompose
-- **Hydrolysis**: Water can hydrolyze esters (e.g., linalyl acetate → [[matricaria-chamomilla]]*)
+| **Mechanism** | Steam carries [[matricaria-chamomilla]]*)
 
 | Compound | Steam Distilled (%) | CO₂ Extract (%) |
 |----------|--------------------|-----------------| 
 | α-Bisabolol | 20–40 | 30–50 |
 | Chamazulene | 5–15 | 8–18 |
-| [[zingiber-officinale]]*)
+| [[comparison-vetiver-grass-vs-bamboo-for-erosion-control]]
+- [[comparison-pasteurization-vs-sterilization]]
 
-| Compound | Steam Distilled (%) | CO₂ Extract (%) |
-|----------|--------------------|-----------------|
-| Zingiberene | 25–35 | 15–25 |
-| β-Sesquiphellandrene | 10–15 | 8–12 |
-| α-Zingiberene | 5–10 | 4–8 |
-| Gingerols | 0 | 15–30 |
-| Shogaols | 0 | 5–10 |
-| 6-Gingerol | 0 | 5–8 |
+## Overview
+
+Comparison Steam Distillation Vs Co2 Extraction For Essential Oils represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish comparison steam distillation vs co2 extraction for essential oils
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving comparison extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Comparison Steam Distillation Vs Co2 Extraction For Essential Oils finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for comparison steam distillation vs co2 extraction for essential oils. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+comparison steam distillation vs co2 extraction for essential oils and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Comparison Steam Distillation Vs Co2 Extraction For Essential Oils has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of comparison steam distillation vs co2 extraction for essential oils into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
 ## See Also
 
-- [[comparison-vetiver-grass-vs-bamboo-for-erosion-control]]
-- [[comparison-pasteurization-vs-sterilization]]
+- [[comparison-annual-vs-perennial]]
+- [[comparison-cavendish-vs-east-african-highland-bananas]]
+- [[comparison-chamomile-vs-st-johns-wort]]
+- [[comparison-drip-irrigation-vs-rainwater-harvesting]]
+- [[comparison-mead-making-vs-beer-brewing]]

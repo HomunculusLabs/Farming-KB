@@ -107,14 +107,9 @@ The strain responds well to both soil and hydroponic growing media. Hydroponic s
 
 ## See Also
 
-- [[cannabis-sativa]]
 - [[cannabis-indica]]
-- [[gelato-cannabis-strain]]
 - [[runtz-cannabis]]
-- [[biscotti-cannabis-strain]]
 - [[gsc-cannabis]]
-- [[blue-dream-cannabis]]
 - [[ice-cream-cake-cannabis]]
-- [[lemon-haze-cannabis]]
 - [[afghan-kush]]
 - [[harlequin-cannabis]]

@@ -1,5 +1,5 @@
 ---
-title: Cannabis Indoor Growing Basics
+title: [[cannabis-indoor-growing-guide]] Basics
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
@@ -11,7 +11,7 @@ sources: []
 
 ## Overview
 
-Indoor [[arbuscular-mycorrhizal-fungi-cannabis-cultivation]] provides complete [[chen-maitake-growth-parameters-environmental-control]], allowing growers to optimize every variable for maximum yield, potency, and quality. Unlike [[cannabis-outdoor-growing]], indoor systems eliminate dependence on weather and seasonal constraints. This guide covers the fundamentals of setting up and managing [[query-how-to-set-up-an-indoor-cannabis-grow-room]] grow room or tent.
+Indoor [[arbuscular-mycorrhizal-fungi-cannabis-cultivation]] provides complete [[chen-maitake-growth-parameters-environmental-control]], allowing growers to optimize every variable for maximum yield, potency, and quality. Unlike [[cannabis-outdoor-growing|outdoor growing]], indoor systems eliminate dependence on weather and seasonal constraints. This guide covers the fundamentals of setting up and managing [[query-how-to-set-up-an-indoor-cannabis-grow-room]] grow room or tent.
 
 ## Grow Tent vs. Dedicated Room
 
@@ -92,7 +92,7 @@ Target ranges: Seedlings/clones 65-80%, vegetative 50-70%, early flowering 40-55
 
 ### Soil and Living Soil
 
-- [[cannabis-living-soil-guide]] provides slow-release organic nutrition
+- [[cannabis-living-soil-guide|Living soil]] provides slow-release organic nutrition
 - pH buffering capacity reduces management complexity
 - Best flavor and terpene expression (widely reported)
 - Heavier containers require strong support
@@ -103,7 +103,7 @@ Made from coconut husk fibers. Excellent water retention and drainage, pH neutra
 
 ### Hydroponics
 
-Water-based growing systems with faster growth, precise nutrient control, and higher yields in experienced hands. More complex setup; requires pH, EC/TDS, water temperature, and [[aact-dissolved-oxygen-fine-bubble-aeration-ingham]] monitoring. Systems include DWC, ebb and flow, drip, and NFT.
+Water-based growing systems with faster growth, precise nutrient control, and higher yields in experienced hands. More complex setup; requires pH, EC/TDS, water temperature, and [[aact-dissolved-oxygen-fine-bubble-aeration-ingham]] monitoring. Systems include DWC, [[ebb-and-flow]], drip, and NFT.
 
 ## Environmental Monitoring
 
@@ -111,7 +111,7 @@ Essential equipment: thermometer/hygrometer (at canopy level), pH meter (for hyd
 
 ### Space Planning
 
-[[mckenna-shamanic-identification-signs-and-training-methods]] and spacing: Natural growth 1 plant per 2-3 sq ft, LST 1 per 2 sq ft, SCROG 1 per 2-4 sq ft, SOG 4-9 per sq ft, Topping 1 per 3-4 sq ft. Check [[cannabis-regulations-by-state]] for plant count limits.
+[[mckenna-shamanic-identification-signs-and-training-methods]] and spacing: Natural growth 1 plant per 2-3 sq ft, LST 1 per 2 sq ft, SCROG 1 per 2-4 sq ft, SOG 4-9 per sq ft, Topping 1 per 3-4 sq ft. Check [[cannabis-regulations-by-state|local regulations]] for plant count limits.
 
 ## Water Quality
 

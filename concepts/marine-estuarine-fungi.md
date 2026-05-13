@@ -29,7 +29,7 @@ Approximately 1,000+ species of marine fungi have been described, but the true d
 ## Habitats
 
 ### Mangrove Ecosystems
-Mangroves are the most productive habitat for [[marine-fungal-diversity]]. Fungi colonize:
+Mangroves are the most productive habitat for marine fungal diversity. Fungi colonize:
 - **Prop roots and pneumatophores**: Large surface area for fungal colonization
 - **Submerged wood**: Driftwood and woody debris in intertidal zone
 - **Leaves**: Both attached and detrital mangrove leaves
@@ -64,9 +64,9 @@ Mangroves are the most productive habitat for [[marine-fungal-diversity]]. Fungi
 - Wood and plant debris sinking from surface provides substrate
 
 ### Coral Reefs and Marine Invertebrates
-- [[endophytic-fungi-in-agriculture]] corals, sponges, and algae
+- Endophytic fungi in corals, sponges, and algae
 - Fungal diseases of corals (e.g., aspergillosis of sea fans)
-- Symbiotic fungi in marine sponges produce [[cordyceps-cancer-bioactive-compounds]]
+- Symbiotic fungi in marine sponges produce bioactive compounds
 - Fungi associated with marine algae (endophytes and parasites)
 
 ## Major Taxonomic Groups
@@ -81,7 +81,7 @@ Mangroves are the most productive habitat for [[marine-fungal-diversity]]. Fungi
 
 **Adaptations**:
 - Ascospores often with adhesive appendages for attachment to substrata in moving water
-- Some species with forced [[bloomfield-ascospore-discharge-mechanisms-ascomycetes]]; others rely on passive release
+- Some species with forced ascospore discharge; others rely on passive release
 - Fruiting bodies (ascocarps) adapted to resist waterlogging
 
 ### Basidiomycetes
@@ -105,7 +105,7 @@ Mangroves are the most productive habitat for [[marine-fungal-diversity]]. Fungi
 ### Yeasts
 - Marine yeasts found in seawater, sediments, and on marine organisms
 - *Candida*, *Debaryomyces*, *Rhodotorula*, *Sporobolomyces* species
-- *[[aureobasidium-pullulans]]* on marine algae and wood
+- *Aureobasidium pullulans* on marine algae and wood
 - Some produce extracellular polysaccharides
 
 ## Adaptations to Marine Life
@@ -123,7 +123,7 @@ Mangroves are the most productive habitat for [[marine-fungal-diversity]]. Fungi
 - Primary decomposers of woody debris in coastal and marine environments
 - Break down mangrove leaf litter, releasing nutrients
 - Degrade chitin from crustacean exoskeletons
-- Important in carbon cycling in [[dighton-fungi-mangrove-coastal-ecosystems]]
+- Important in carbon cycling in coastal ecosystems
 
 ### Parasitism and Pathogenesis
 - Parasites of marine algae, seagrasses, and corals
@@ -140,11 +140,10 @@ Mangroves are the most productive habitat for [[marine-fungal-diversity]]. Fungi
 - Denitrification by some marine fungi
 - Degradation of marine pollutants
 
-## Collection and Study Methods
+## See Also
 
-- Collect wood, leaves, and other substrata from intertidal and subtidal zones
-- Incubate in moist chambers with seawater (not freshwater)
-- Seawater agar or cornmeal seawater agar for isolation
-- Halophytophthora baited from sediments using hemp seeds or grass blades
-- Molecular methods (DNA from seawater and sediment) revealing hidden diversity
-- KMV Agar with streptomycin for marine/clinical isolates
+- [[marine-mycelial-fungi]]
+- [[marine-fungal-diversity-ecology]]
+- [[seaweed-farming-and-marine-aquaculture]]
+- [[seaweed-and-marine-macroalgae-in-agriculture]]
+- [[marine-oomycete-zoospore-biology-encystment]]

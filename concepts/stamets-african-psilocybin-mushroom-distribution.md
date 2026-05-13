@@ -29,39 +29,22 @@ figure, wearing a mask in what may have been a sanctuary, is surrounded
 by mushroom outlines and features a beelike face that may relate to the
 preserving of mushrooms in honey. The artist lived approximately seven
 thousand years ago, during a wetter period when glacial meltwaters
-fueled the [[bloomfield-rust-fungi-life-cycles-barberry-wheat]] of many mushroom species. The intent of the
-artist is unambiguous: mushrooms were a powerful influence on the
-shamanic vision of the world.
-
-## North African Species
-
-Psilocybe mairei is the only documented psilocybin species from
-northern Algeria. It resembles the potent [[panaeolus-tropicalis]] has also been reported from central
+fueled the [[panaeolus-tropicalis]] has also been reported from central
 Africa and Cambodia, further connecting African and Asian psilocybin
 distributions.
 
 ## The Brahman Cattle Hypothesis
 
-Some researchers have proposed that [[psilocybe-natalensis]] has been reported from Natal, South Africa, at
-1500 meters elevation in January, and is undoubtedly more widely
-distributed across subtropical southern Africa. Other species found in
-southern Africa include [[psilocybin-mushroom-evolution]] and biogeography.
+Some researchers have proposed that [[psilocybin-mushroom-evolution]] and biogeography.
 The living traditions of mushroom use in Nigeria and Ivory Coast
 represent invaluable ethnopharmacological knowledge that deserves
 careful documentation before it is lost.
 
 ## See Also
 
-- [[stamets-agarikon-pox-virus-antiviral-bio-defense]]
 - [[stamets-growing-room-design]]
-- [[stamets-morel-morchella-cultivation]]
 - [[stamets-mushrooms-civilization-history-ethnomycology]]
-- [[stamets-mycelium-iconic-types-strain-identification]]
-- [[stamets-pelletized-granular-spawn-production]]
-- [[stamets-spawn-types-and-viability-home-made-commercial]]
 - [[stamets-species-sequencing-substrate-recycling-cascade-cultivation]]
-- [[stamets-spore-mass-slurry-inoculation-mycelium-transplantation]]
-- [[stamets-stump-platform-cultivation]]
 
 ## Practical Considerations
 

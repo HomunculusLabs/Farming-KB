@@ -22,34 +22,6 @@ applications, and safety considerations to help herbalists and gardeners
 understand when to choose one over the other.
 
 ## Calendula
-[[calendula-officinalis]]
-
-Calendula officinalis, commonly known as pot marigold, is an annual or 
-short-lived perennial herb in the aster family (Asteraceae). Native to 
-the Mediterranean basin, it has been cultivated for over 1,000 years for 
-its medicinal, culinary, ornamental, and dye-producing properties. The 
-bright orange and yellow ray florets contain triterpene saponins, 
-flavonoids, carotenoids, and essential oils that confer potent 
-anti-inflammatory, wound-healing, antimicrobial, and antioxidant 
-properties.
-
-Calendula's most well-established clinical application is in topical wound 
-care. It stimulates fibroblast proliferation and collagen synthesis, 
-reduces prostaglandin E₂ and leukotriene synthesis via COX-2 inhibition, 
-and demonstrates antimicrobial activity against common pathogens. It is 
-particularly effective for burns, radiation dermatitis, diaper rash, 
-and slow-healing wounds. The triterpene content, especially faradiol 
-esters, provides significant anti-inflammatory activity comparable to 
-indomethacin in animal models.
-
-In permaculture systems, calendula serves as an excellent companion plant, 
-attracting pollinators, deterring pests, and acting as a dynamic 
-accumulator of potassium, phosphorus, and trace minerals. It grows as an 
-annual in USDA Zones 2–11, preferring well-drained loam (pH 6.0–7.5) and 
-full sun, though it tolerates partial shade and moderate drought once 
-established.
-
-## St. John's Wort
 [[st-johns-wort-guide]]
 
 St. John's Wort (*Hypericum perforatum*) is a perennial herb native to 
@@ -142,8 +114,6 @@ drug interactions and side effects:
 
 ## See Also
 
-- [[coleman-greenhouse-covering-materials-comparison]]
 - [[comparison-willow-vs-poplar-for-coppice-and-bioenergy]]
-- [[human-vs-plant-photoreceptor-systems-comparison]]
 - [[comparison-amf-vs-ericoid-mycorrhiza]]
 - [[comparison-spore-print-vs-agar-culture]]

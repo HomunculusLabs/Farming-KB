@@ -10,9 +10,9 @@ sources: ["raw/papers/beneficial-indigenous-microorganisms-bionutrients.md"]
 
 **Updated:** 2026-04-24
 
-Calcium phosphate is a targeted bionutrient used in [[comparison-natural-farming-vs-permaculture]] to support plants during the critical changeover period between [[cannabis-vegetative-growth-stage]] and reproductive development. Based on the theory of Nutrioperiodism developed by Japanese horticulturist Yasushi Inoue in the 1930s, calcium phosphate addresses a specific nutritional need that occurs at a transitional stage of plant development, analogous to "[[cho-morning-sickness-and-plant-cross-over-period]]" in pregnancy. This preparation is part of the broader [[beneficial-indigenous-microorganisms-bim|indigenous microorganism]] inoculations.
+Calcium phosphate is a targeted bionutrient used in [[cannabis-vegetative-growth-stage]] and reproductive development. Based on the theory of Nutrioperiodism developed by Japanese horticulturist Yasushi Inoue in the 1930s, calcium phosphate addresses a specific nutritional need that occurs at a transitional stage of plant development, analogous to "[[beneficial-indigenous-microorganisms-bim|indigenous microorganism]] inoculations.
 
-Related preparations include [[bionutrients-lab-fermented-fruit-juice-ffj]], [[bionutrients-lab-fish-aminos]], and [[cannabis-vegetative-stage|vegetative growth]] to [[cannabis-flowering-stage|flowering]] can improve bud quality and reduce transition stress.
+Related preparations include [[bionutrients-lab-fish-aminos]], and [[cannabis-flowering-stage|flowering]] can improve bud quality and reduce transition stress.
 ## Background and Context
 
 Bionutrients Lab — Calcium Phosphate is an important subject that has garnered significant attention
@@ -118,8 +118,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[calcium-phosphate]]
 - [[bionutrients]]
-- [[dom]]
 - [[det]]
 - [[yasushi-inoue]]

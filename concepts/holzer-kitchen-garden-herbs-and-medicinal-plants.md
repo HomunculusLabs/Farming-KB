@@ -19,18 +19,10 @@ providing not only food but also medicine for the family and livestock. Sepp
 Holzer's memories of his mother's garden reveal a sophisticated understanding
 of plant placement, companion relationships, and the medicinal properties of
 common herbs. This knowledge, largely forgotten in the age of pharmaceuticals,
-represents a vital aspect of [[holzer-kitchen-garden-layout-and-traditional-gardening]] and reflects the broader [[holzer-medicinal-and-culinary-herbs-compendium]] and the broader tradition of
+represents a vital aspect of [[holzer-medicinal-and-culinary-herbs-compendium]] and the broader tradition of
 herbal plant remedies.
 ## The Pharmacy on the Doorstep
-The wide selection of [[permaculture-plants-medicinal-herbs-healing]] turned kitchen gardens into an
-indispensable source of valuable medicines for every farm. This was useful
-because doctors and midwives were often difficult to reach and also took a
-long time to arrive. In every kitchen garden there was an even mixture of
-medicinal herbs that might be needed. Every farmer had their own recipes for
-medicinal creams, tinctures, compresses, poultices, and teas.
-### Coughs and Colds
-If someone in the family fell ill, the first thing Holzer's mother did was
-go into the garden. For coughs she made a tea from mint, [[comparison-lemon-balm-vs-passionflower]], and
+The wide selection of [[comparison-lemon-balm-vs-passionflower]], and
 marsh mallow. The soothing effect of marsh mallow (Althaea officinalis) on
 sore throats, hoarseness, and dry coughs has since been scientifically
 recognised.
@@ -40,25 +32,7 @@ of injury by encouraging wounds to heal and bringing down inflammation. The
 farmers often successfully used it to treat udder inflammation in livestock.
 Calendula was also made into a tea and used to clean wounds. Beyond its
 medicinal uses, calendula secretes substances from its roots which discourage
-nematodes, making it valuable for [[cistus-incanus]]
-- achillea-millefolium
-## Practical Considerations
-
-When working with Kitchen Garden Herbs and Medicinal Plants, several practical factors should be
-carefully considered to achieve optimal results. These include
-the specific conditions of the implementation context, available
-resources, timing requirements, and the interactions between this
-topic and other elements of the broader system. A holistic view
-that considers these interconnections produces better outcomes.
-
-Environmental conditions such as temperature, moisture, and
-seasonal patterns significantly influence results. Monitoring these
-variables and adapting practices accordingly is essential for success.
-The most effective practitioners develop keen observation skills and
-respond flexibly to changing conditions rather than following rigid
-protocols regardless of circumstances or local variation.
-
-[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
+nematodes, making it valuable for [[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -111,8 +85,6 @@ through generations to modern scientific approaches, the evolution continues
 to inform current best practices and research directions.
 
 ## See Also
-- [[doc]]
 - [[herbal-plant-remedies]]
-- [[permaculture]]
 - [[holzer-medicinal-and-culinary-herbs-compendium]]
 - [[holzer-kitchen-garden-layout-and-traditional-gardening]]

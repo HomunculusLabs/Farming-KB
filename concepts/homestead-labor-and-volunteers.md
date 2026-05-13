@@ -65,7 +65,7 @@ As a homestead grows beyond what one or two people can manage, labor becomes a c
 - Often attracts travelers with diverse skills (carpentry, photography, IT)
 
 ### Differences from WWOOF
-- Less focus on [[coleman-deep-organic-farming]] specifically
+- Less focus on organic farming specifically
 - More diverse volunteer pool (international travelers)
 - Some volunteers have specialized skills (web design, construction)
 - Less structured than WWOOF
@@ -81,10 +81,10 @@ As a homestead grows beyond what one or two people can manage, labor becomes a c
 
 ### Formal Apprenticeship Programs
 - Organizations like:
-  - Rogue Farm Corps ([[psilocybin-north-america-pacific-northwest]])
+  - Rogue Farm Corps (Pacific Northwest)
   - Quivira Coalition (New Market Farmer program)
   - MOFGA (Maine Organic Farmers and Gardeners Association) journeyperson program
-  - ATTRA (National [[phosphate-accumulators-sustainable-agriculture]] Information Service) directory
+  - ATTRA (National Sustainable Agriculture Information Service) directory
 - Often include formal education, mentorship, and networking
 - Some offer stipends ($500-1,500/month)
 - Application process competitive
@@ -132,7 +132,7 @@ As a homestead grows beyond what one or two people can manage, labor becomes a c
 - Experienced farm worker: $16-22/hour
 - Farm manager: $40,000-55,000/year
 - Market sales: $15-20/hour
-- Include benefits discussion: flexibility, [[selling-farm-products-and-business]], housing (if applicable)
+- Include benefits discussion: flexibility, farm products, housing (if applicable)
 
 ## Labor Laws
 
@@ -140,11 +140,11 @@ As a homestead grows beyond what one or two people can manage, labor becomes a c
 - Fair Labor Standards Act (FLSA): minimum wage, overtime (1.5x after 40 hours/week)
 - Small farm exemption: farms with fewer than 500 man-days in any calendar quarter are exempt from FLSA minimum wage and overtime (but not from all labor laws)
 - Child labor: workers under 16 restricted from hazardous tasks (operating machinery, working with certain animals, working at heights)
-- OSHA: Occupational Safety and Health Administration applies to farms with 11+ employees (smaller farms largely exempt)
-- H-2A visa program: for hiring seasonal foreign agricultural workers (complex, expensive, but legal pathway for labor shortage)
 
-### State Requirements
-- State minimum wage may exceed federal ($7.25/hour) -- most states are $12-16/hour
-- State workers comp requirements vary
-- State unemployment insurance: required for most employers
-- State-mandated breaks and meal periods
+## See Also
+
+- [[homestead-energy-conservation]]
+- [[homestead-mushroom-business]]
+- [[homestead-winter-preparations]]
+- [[homestead-tool-maintenance]]
+- [[homestead-internet-options]]

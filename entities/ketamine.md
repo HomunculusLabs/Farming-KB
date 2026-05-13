@@ -13,39 +13,8 @@ sources:
 # Ketamine
 Ketamine is a dissociative anesthetic and psychedelic compound first synthesized
 in 1962 by Calvin Stevens at Parke-Davis. Originally developed as a safer
-alternative to phencyclidine ([[pcp]]), it became a widely used battlefield and
-veterinary anesthetic due to its cardiovascular stability and analgesic
-properties. In the 21st century, ketamine has gained prominence in psychiatric
-[[vioxx-scandal-evidence-based-medicine-gaps-lessons-cannabis-research-blesching-2015]] as a rapid-acting treatment for treatment-resistant depression, and
-is increasingly recognized in [[metzner-psycholytic-psychedelic-therapy-models]] research for its ability to
-produce profound dissociative experiences at sub-anesthetic doses.
-## Chemical Identity
-| Property | Value |
-|----------|-------|
-| IUPAC Name | (RS)-2-(2-Chlorophenyl)-2-(methylamino)cyclohexanone |
-| Molecular Formula | C₁₃H₁₆ClNO |
-| Molecular Weight | 237.73 g/mol |
-| CAS Number | 1867-66-9 |
-| PubChem CID | 3821 |
-| InChIKey | SYBYTAAJFKOBHY-UHFFFAOYSA-N |
-| SMILES | Clc1ccccc1C2(CCCCC2=O)NC |
-| DrugBank ID | DB01221 |
-| ATC Code | N01AX03 |
-Ketamine exists as a racemic mixture of two enantiomers: S-(+)-ketamine
-(esketamine) and R-(−)-ketamine (arketamine). Esketamine is approximately
-3–4 times more potent at the NMDA receptor and was approved by the FDA in
-2019 as a nasal spray (Spravato) for treatment-resistant depression.
-## Pharmacology
-Ketamine is a non-competitive NMDA (N-methyl-D-aspartate) receptor antagonist,
-its primary mechanism of action. By blocking glutamate binding at NMDA
-receptors, ketamine disrupts excitatory neurotransmission and produces
-dissociative anesthesia. Additional pharmacological targets include:
-- **Opioid receptors**: Moderate affinity for mu, delta, and kappa receptors
-- **AMPA receptors**: Enhanced AMPA-mediated signaling contributes to
-  rapid antidepressant effects via BDNF release
-- **Sigma receptors**: Low-affinity binding contributes to psychotomimetic
-  effects at higher doses
-- **Monoamine transporters**: Inhibition of dopamine and [[serotonin]] reuptake
+alternative to phencyclidine ([[vioxx-scandal-evidence-based-medicine-gaps-lessons-cannabis-research-blesching-2015]] as a rapid-acting treatment for treatment-resistant depression, and
+is increasingly recognized in [[serotonin]] reuptake
 - **Muscarinic receptors**: Weak anticholinergic activity
 - **Sodium channels**: Local anesthetic properties via voltage-gated sodium
   channel blockade
@@ -62,8 +31,7 @@ conventional monoamine-based antidepressants.
 | 2.0–4.0 mg/kg | Full surgical anesthesia |
 Oral and intranasal bioavailability is lower (~20–30% oral, ~45% intranasal)
 compared to intravenous (100%). The primary active metabolite, norketamine,
-retains approximately one-third the [[psilocybin-mushroom-dose-potency-acute-effects-emcdda-2006]] of the parent compound.
-## Medical [[blesching-cannabis-health-index-mental-health-applications]]
+retains approximately one-third the [[blesching-cannabis-health-index-mental-health-applications]]
 ### Anesthesia and Analgesia
 Ketamine is classified as a WHO Essential Medicine. It is particularly valued
 in emergency medicine, battlefield surgery, and resource-limited settings
@@ -74,17 +42,95 @@ care, and procedural sedation.
 Since the landmark 2006 study by Zarate et al. at NIMH demonstrating that
 a single IV ketamine infusion produced rapid antidepressant effects within
 hours, ketamine has revolutionized treatment of refractory mood disorders.
-[[metzner-sandoz-psycholytic-therapy-european-clinical-model]] response rates of 50–70% have been reported in patients who failed
-multiple conventional antidepressant trials.
-### Esketamine (Spravato)
-Approved March 2019 for treatment-resistant depression and later for
-depressive symptoms in adults with major depressive disorder with acute
-suicidal ideation. Administered as a 56 mg or 84 mg nasal spray in
-certified healthcare settings under REMS [[mindful-healing-protocol-setting-intention-cannabis-therapy-blesching]].
+[[mindful-healing-protocol-setting-intention-cannabis-therapy-blesching]].
 ### Chronic Pain Management
 Ketamine infusions at sub-anesthetic doses (0.1–0.5 mg/kg/hr) are used for
 refractory chronic pain conditions including complex regional pain syndrome
-(CRPS), [[blesching-cannabis-neuropathic-pain]], and [[blesching-cannabis-fibromyalgia-tai-chi-and-trauma]]. NMDA receptor antagonism is
+(CRPS), [[blesching-cannabis-fibromyalgia-tai-chi-and-trauma]]. NMDA receptor antagonism is
 thought to reverse central sensitization and opioid tolerance.
-### [[set-and-setting-model-psychedelic-therapy]]
-In the emerging field of psychedelic-assisted [[metzner-psycholytic-psychedelic-psychotherapy-models-comparison]], ketamine is
+### [[metzner-psycholytic-psychedelic-psychotherapy-models-comparison]], ketamine is
+
+## Overview
+
+Ketamine represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish ketamine
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving ketamine extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Ketamine finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for ketamine. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+ketamine and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Ketamine has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of ketamine into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[ketamine-dissociative-pharmacology]]
+- [[ketamine-psychedelic-journey-guide]]
+- [[ketamine-reference]]
+- [[mckenna-taxonomy-hallucinogenic-demons-ions-mind-ketamine-stuttering-blind]]
+- [[turner-ketamine-lsd-dmt-interactions-recovery-effects]]

@@ -43,11 +43,7 @@ Soil gaseous exchange refers to the continuous movement of gases between the atm
 
 ## Relevance to Cultivation and Mycology
 
-Gaseous exchange is critical in [[mushroom-cultivation]] at every stage. During composting, adequate aeration drives the thermophilic decomposition process while anaerobic pockets produce methane and other gases. In spawned compost, oxygen availability determines mycelial growth rate, while CO2 concentration influences fruiting body morphology: high CO2 produces elongated stems in many species. Substrate design must balance water retention (which limits gas diffusion) with aeration. Understanding how natural soils achieve gaseous exchange through biological and physical mechanisms informs the design of mushroom growing systems that maintain optimal gas ratios without energy-intensive forced-air systems.
-
-## Sources
-
-- Mollison, B. (1988). Permaculture: A Designer's Manual. [[tagari-publications]].
+Gaseous exchange is critical in [[tagari-publications]].
 
 ## Gas Exchange Processes
 
@@ -85,6 +81,5 @@ pond edges benefit from these natural oxygen-transporting root systems.
 
 ## See Also
 
-- [[query-which-cover-crops-are-best-for-breaking-hardpan-and-compacted-soil]]
 - [[query-how-do-i-use-cover-crops-to-improve-soil-health]]
 - [[query-which-drought-tolerant-legumes-are-best-for-cover-crops-and-grain]]

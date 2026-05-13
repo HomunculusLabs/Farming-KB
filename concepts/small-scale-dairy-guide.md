@@ -18,9 +18,7 @@ Small-scale dairying on the homestead provides fresh milk, cheese, butter, yogur
 - **Calcium requirements** double during lactation — provide free-choice minerals
 - **Fresh water** intake increases dramatically — a milking doe drinks 1-2 gallons/day
 - **Maintain body condition** — don't let dairy animals lose weight during peak lactation
-- **Pasture quality** directly affects milk flavor and production (see [[goat-keeping-guide]]
-- [[pasture-management]]
-- [[composting-systems]]
+- **Pasture quality** directly affects milk flavor and production (see [[pasture-management]]
 - [[sheep-health-and-production]]
 - [[fungal-single-cell-protein-production]]
 ## Practical Applications

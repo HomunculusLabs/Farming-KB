@@ -34,7 +34,7 @@ The species was named in honor of the city of Bologna by Giuseppe Moretti in 182
 
 **Classification:** Kingdom Plantae → Clade Angiosperms → Clade Eudicots → Order Asterales → Family Campanulaceae → Genus Campanula → Species C. bononiensis. The species authority is Moretti (1826).
 
-It belongs to Campanula section Medium, a group characterized by narrowly campanulate flowers and primarily Mediterranean distributions. Close relatives include [[campanula-medium]] (Canterbury bells) and [[campanula-rapunculus]].
+It belongs to Campanula section Medium, a group characterized by narrowly campanulate flowers and primarily Mediterranean distributions. Close relatives include [[campanula-rapunculus]].
 
 **Roots:** The root system consists of a slender, sometimes tuberous-thickened taproot with lateral fibrous roots. The taproot enables survival through summer drought periods common in its Mediterranean-influenced habitats.
 
@@ -50,15 +50,7 @@ The overall flower color is among the palest in the genus Campanula, sometimes a
 
 **Fruit:** The capsule is nodding, ovoid-conical, 5–7 mm long, opening by three basal pores. Seeds are ellipsoid, flattened, pale brown, approximately 0.7–1.0 mm long, and produced in moderate numbers.
 
-[[clay-pellet-seed-dispersal]] is primarily by wind, with the nodding capsule orientation facilitating seed release through the basal pores during strong gusts. Seeds have no specialized dispersal structures but are light enough for limited anemochory.
-
-## Distribution and Habitat
-
-Campanula bononiensis is native to the Apennine Peninsula, with its core range in central and northern Italy. It extends from the foothills of the Alps in Lombardy and Veneto southward through the Apennines to Abruzzo and Molise.
-
-Scattered populations occur in Slovenia, Croatia, and Bosnia-Herzegovina, primarily in karst regions with calcareous substrates. The eastern limit of the range appears to be the Dinaric Alps of western Bosnia.
-
-The species inhabits dry to mesic grasslands, rocky pastures, scrub margins, and open deciduous woodlands. It shows a strong preference for calcareous soils derived from limestone and [[dolomite]].
+[[dolomite]].
 
 Elevational range extends from near sea level in the Po Valley margins to approximately 1,400 m in the central Apennines. The species is most frequent between 300–800 m elevation in sub-Mediterranean oak woodlands.
 

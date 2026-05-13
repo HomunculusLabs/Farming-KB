@@ -10,7 +10,7 @@ sources:
 
 Updated: 2026-04-18
 
-Source: The [[green-cannabis-grow-bible-breeding-genetics-and-true-breeding]] Bible, [[integrated-pest-management]] (IPM) as the standard approach.
+Source: The [[integrated-pest-management]] (IPM) as the standard approach.
 
 ## Prevention (First Line of Defense)
 
@@ -45,8 +45,7 @@ The most effective pest management is preventing pests from entering your grow s
 
 **Treatment**:
 - **Spray with water**: A strong blast of water can dislodge mites (temporary)
-- **[[bacillus-thuringiensis]] israelensis)**: Mosquito dunks or Gnatrol added to water — kills larvae
-- **Sand layer**: Apply a thin layer of sand or [[comparison-neem-oil-cannabis-vs-diatomaceous-earth-cannabis]] on the soil surface to prevent egg-laying
+- **[[comparison-neem-oil-cannabis-vs-diatomaceous-earth-cannabis]] on the soil surface to prevent egg-laying
 
 ### Thrips
 
@@ -87,39 +86,6 @@ The most effective pest management is preventing pests from entering your grow s
 **Treatment**:
 - Yellow sticky traps
 - Neem oil or insecticidal soap
-- Encarsia formosa (parasitic wasp) as [[fukuoka-textdoc-biological-control-fallacy-pheromone-critique]]
-
-## Practical Applications
-
-The principles and techniques discussed here have wide-ranging applications
-across multiple disciplines and contexts. Practitioners and researchers
-continue to explore new ways to integrate these concepts into modern practice,
-adapting traditional knowledge to contemporary challenges and opportunities.
-
-## Key Considerations
-
-Several important factors influence the effectiveness and outcomes described
-in this topic. Understanding these considerations helps practitioners make
-informed decisions and avoid common pitfalls. Environmental conditions,
-timing, and material selection all play critical roles.
-
-## Historical Context
-
-The historical development of this subject reflects centuries of accumulated
-knowledge and practical experience. From traditional methods passed down
-through generations to modern scientific approaches, the evolution continues
-to inform current best practices and research directions.
-
-## Common Challenges
-
-Practitioners frequently encounter several challenges when working with
-these concepts. Climate variability, resource limitations, and knowledge
-gaps can all affect outcomes. Addressing these challenges requires patience,
-observation, and a willingness to adapt approaches based on results.
-
-## See Also
-- [[doc]]
-- [[neem]]
+- Encarsia formosa (parasitic wasp) as [[doc]]
 - [[comparison-beneficial-insects-guide-vs-integrated-pest-management]]
-- [[cannabis-pest-management]]
 - [[natural-farming-guide-integrated-pest-management]]

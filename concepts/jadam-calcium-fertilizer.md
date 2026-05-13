@@ -17,7 +17,7 @@ taste of produce.
 
 - Forms spindle fibers for cell walls and cell division (Ca2+)
 - Signal transmitter for hormone responses
-- Controls [[cannabis-vegetative-growth-stage]], stimulates [[knf-reproductive-growth-stage]]
+- Controls [[knf-reproductive-growth-stage]]
 - Deficiency symptoms: necrosis at tips of young leaves (fast cell division
   areas), new leaves roll downward showing malformation
 
@@ -28,7 +28,7 @@ taste of produce.
 - Egg shell powder: can be mixed with or substituted for oyster shell
 - Water: 10 parts by weight
 - Wild grass: some (optional, aids decomposition)
-- [[jadam-natural-mineral-water]] as [[jadam-nutrient-management-wetting-agent-and-calcium]]
+- [[jadam-nutrient-management-wetting-agent-and-calcium]]
 
 ### Method
 1. Prepare vinegar or wood vinegar
@@ -36,36 +36,7 @@ taste of produce.
 3. Bubbles will spill out if too much is added at once -- go slowly
 4. Ready in **1 day** (vs 3+ months for standard method)
 5. When used with JADAM wetting agent, reduces foam and improves wetting power
-6. Use through [[comparison-drip-irrigation-vs-passive-irrigation]]
-
-### Analysis (per 100 L: quick oyster shell)
-| Parameter | Value |
-|-----------|-------|
-| pH | 5.74 |
-| EC (1:5) ds/m | 14.71 |
-| P2O5 % | 3.91 |
-| K2O % | 4.38 |
-| CaO % | 7.30 |
-| MgO % | 6.97 |
-| Fe mg/kg | 32.16 |
-| Mn mg/kg | 4.105 |
-
-Note: The vinegar method extracts dramatically more minerals -- CaO jumps from
-0.021 to 7.30, and MgO from 0.003 to 6.97.
-
-## Application
-
-| Parameter | Value |
-|-----------|-------|
-| Dilution | x50 to x500 |
-| When to apply | Mid to late growth |
-| How to apply | Foliar, soil, or drip irrigation |
-| What to expect | Controls growth, increases storability, improves taste |
-
-## Key Benefits
-
-- Controls excessive vegetative growth in late season
-- Increases fruit storability and [[psilocybin-shelf-life-stability]]
+6. Use through [[psilocybin-shelf-life-stability]]
 - Improves taste and quality of produce
 - Strengthens cell walls (disease resistance)
 - Quick method provides emergency calcium when deficiency appears
@@ -79,9 +50,7 @@ Note: The vinegar method extracts dramatically more minerals -- CaO jumps from
 
 ## Related
 
-- [[jadam-chitosan-fertilizer]] -- chitosan also provides calcium
 - [[jadam-mineral-water-jmw]] -- JADAM mineral water
-- [[jadam-wild-grass-liquid-fertilizer]]
 - [[jadam-coexisting-with-wild-grass]]
 
 ## Practical Applications
@@ -113,8 +82,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[psilocybin]]
 - [[decomposition]]
-- [[jadam-calcium-phosphate-fertilizer]]
 - [[jadam-liquid-fertilizer-nutritional-perspective]]
 - [[jadam-liquid-fertilizer-philosophy]]

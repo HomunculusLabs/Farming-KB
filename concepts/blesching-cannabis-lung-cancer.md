@@ -19,8 +19,7 @@ type: concept
 ## Overview
 
 Historically, lung cancer was a rare diagnosis until it emerged as a major
-killer with the [[mckenna-caffeine-coffee-and-industrial-revolution]], the introduction of cigarettes, and
-increasing [[air-pollution-fungal-community-responses]] levels (exhaust, asbestos, coal dust, soot). Lung
+killer with the [[air-pollution-fungal-community-responses]] levels (exhaust, asbestos, coal dust, soot). Lung
 cancer is now the number-one cancer and leading fatal cancer in the world; some
 types are highly aggressive and resistant to allopathic treatments. Diagnosis
 consists of chest x-rays and biopsies, and treatment is limited to
@@ -28,12 +27,7 @@ chemotherapy, radiation, and/or surgery.
 
 Tobacco smoke and second-hand smoke are recognized as the major cause of lung
 cancer. While inhaling any burned substance is generally harmful to the lungs,
-the cannabinoid THC itself may actually help [[query-how-do-i-identify-prevent-and-treat-fusarium-wilt]] lung cancer.
-
-## Cannabis Health Index (CHI) Score
-
-- Total Studies Reviewed: 4
-- [[blesching-cannabis-prostate-cancer-chi-value-3]]: 7
+the cannabinoid THC itself may actually help [[blesching-cannabis-prostate-cancer-chi-value-3]]: 7
 
 ## Research Evidence
 
@@ -42,39 +36,7 @@ the cannabinoid THC itself may actually help [[query-how-do-i-identify-prevent-a
 As early as 1975, the U.S. government discovered that cannabis plant
 cannabinoids were able to inhibit lung cancer growth, reduce tumor size, and
 increase survival rates in animal test subjects. Specifically, THC, delta-8-
-THC, and CBN (but not CBD) retarded lung [[blesching-cannabis-apoptosis-and-cancer-cell-death]] growth, reduced tumor
-size, and increased survival rates in mice.
-
-### 2006: No Association Between Cannabis Use and Lung Cancer
-
-An international population study of 2,252 human subjects conducted in Lyon,
-France, found no association between lung cancer and long-term cannabis use.
-This is significant because it addresses the concern about whether smoking
-cannabis increases lung cancer risk.
-
-### 2008: CB1 and CB2 Signaling Pathways
-
-Studies from Rostock, Germany, and Harvard Medical School elucidated potential
-mechanisms: signaling via CB1 and CB2 receptor sites induces protection
-against lung cancer and triggers cancer-infected cells to self-destruct
-(apoptosis). The Harvard study tested lung cancer cells and confirmed they
-contain both CB1 and CB2 sites, finding significant inhibition of
-subcutaneous tumor growth and lung metastasis.
-
-### Anandamide and THC Reduce Tumor Invasiveness
-
-The Rostock study demonstrated that both anandamide (the body's own
-cannabinoid) and THC decreased tumor cell invasiveness in human lung cancer
-cells, suggesting cannabinoids may reduce metastatic potential.
-
-### Study Summary
-
-| Drug | Study Type | Key Findings | CHI |
-|------|-----------|-------------|-----|
-| THC | Animal + lab tests (mice) | 2008, Harvard: Lung cancer cells contain CB1/CB2; significant inhibition of tumor growth and metastasis | 3 |
-| Methanandamide + THC | Laboratory (human lung cancer cells) | 2008, Rostock, Germany: Decrease in tumor cell invasiveness | 1 |
-| Cannabis use survey | 2,252 human subjects | 2006, Lyon, France: No association between lung cancer and long-term cannabis use | N/A |
-| Delta-9-THC, [[delta-8-thc]], CBN, CBD | Animal (mice) + lab | 1975, Virginia Commonwealth Univ: THC and CBN retarded growth, reduced tumor size, increased survival | 3 |
+THC, and CBN (but not CBD) retarded lung [[delta-8-thc]], CBN, CBD | Animal (mice) + lab | 1975, Virginia Commonwealth Univ: THC and CBN retarded growth, reduced tumor size, increased survival | 3 |
 
 ## Strain-Specific Considerations
 
@@ -118,8 +80,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[cannabis-health-index]]
 - [[caffeine]]
-- [[anandamide]]
 - [[blesching-cannabis-prostate-cancer-cb1-cb2-receptor-targeting-research]]
 - [[blesching-cannabis-infectious-agents-cancer]]

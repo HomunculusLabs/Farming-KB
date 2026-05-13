@@ -1,7 +1,7 @@
 ---
 title: Geomycology — Fungi in Geological Processes
 source: geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in-the-environment.md
-authors: [Geoffrey M. [[gadd-fungal-species-divergence-geologic-time]], Euan P. Burford, Marina Fomina, Karrie Melville]
+authors: [Geoffrey M. gadd-fungal-species-divergence-geologic-time, Euan P. Burford, Marina Fomina, Karrie Melville]
 tags: [geomycology, biogeochemistry, mineral-cycling, fungi, geology, soil-science, weathering]
 created: 2026-05-11
 ---
@@ -21,11 +21,7 @@ Fungi occupy a unique position at the interface of biology and geology:
 
 - They are the primary decomposers of complex organic polymers (lignin,
   cellulose, chitin) in terrestrial ecosystems
-- They form [[fungi-in-the-environment-symbiotic-relationships]] with over 80% of land plants
-  (mycorrhizas)
-- Their filamentous growth habit allows them to physically penetrate
-  rock and mineral substrates
-- They produce an extraordinary range of [[fungal-extracellular-enzymes]] and
+- They form [[fungal-extracellular-enzymes]] and
   organic acids that chemically transform minerals
 - They accumulate, immobilize, and transform metals and radionuclides
 - They maintain soil structure through hyphal networks and exopolymer
@@ -33,13 +29,7 @@ Fungi occupy a unique position at the interface of biology and geology:
 
 ## The Geomycological Framework
 
-Gadd and colleagues organize [[gadd-fungal-species-divergence-geologic-time]] interactions with geological materials
-into several categories:
-
-### Mineral Solubilization
-
-Fungi dissolve minerals through:
-- **Acidolysis**: Proton excretion and [[staycare-fungal-organic-acid-production-metal-leaching]] lower pH
+Gadd and colleagues organize [[staycare-fungal-organic-acid-production-metal-leaching]] lower pH
 - **Complexolysis**: Metal-chelating metabolites (oxalate, citrate,
   siderophores) pull metals from mineral lattices
 - **Redoxolysis**: Redox reactions change metal oxidation states
@@ -51,11 +41,7 @@ trace metals) from otherwise unavailable mineral forms.
 
 Fungi don't just dissolve minerals — they create them. Fungal-induced
 mineral precipitation includes:
-- **[[fungal-calcium-oxalate-crystals]]**: The most common fungal biomineral,
-  forming as whewellite or weddellite hydrates
-- **Metal oxalates**: Insoluble precipitates of toxic metals (lead,
-  copper, uranium oxalates) used for detoxification
-- **Carbonate minerals**: Some fungi induce [[peat-calcium-carbonate-perlite-casing-psilocybe-cubensis-miniculture]] precipitation
+- **[[peat-calcium-carbonate-perlite-casing-psilocybe-cubensis-miniculture]] precipitation
   through metabolic CO2 production
 - **Iron and manganese oxides**: Oxidation products of fungal redox activity
 
@@ -139,12 +125,5 @@ Gadd and colleagues highlight several emerging areas in geomycology:
   communities, revealing far greater diversity than culture-based methods
 - **Imaging advances**: Real-time visualization of nutrient dynamics in
   mycelial networks using fluorescent probes and confocal microscopy
-- **[[davidson-mathematical-modeling-fungal-mycelia]]**: Computational models of mycelial form and
-  function, linking network architecture to ecological performance
-- **Genomics**: Understanding the genetic basis of mineral transformation
-  abilities in diverse fungal taxa
-
-## Related Concepts
-
-- [[fungal-biogeochemical-mineral-transformations]]
+- **[[fungal-biogeochemical-mineral-transformations]]
 - [[fungal-oxalate-secretion-and-mineral-dissolution]]

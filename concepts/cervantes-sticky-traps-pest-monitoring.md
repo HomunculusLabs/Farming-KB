@@ -18,11 +18,7 @@ type: concept
 # Sticky Traps and Physical Pest Monitoring for Cannabis
 
 **Source:** Marijuana Horticulture: The Indoor/Outdoor Medical Grower's Bible
--- [[jorge-cervantes]]
-
-## Yellow Sticky Traps
-
-Yellow sticky traps are used to monitor [[query-how-do-parasitoid-wasps-control-pest-populations]] as well as to
+-- [[query-how-do-parasitoid-wasps-control-pest-populations]] as well as to
 control small flying insects. Sticky traps such as Tanglefoot resins can
 be smeared on attractive yellow or red cards to simulate ripe fruit. When
 pests land on the cards, they are stuck permanently.
@@ -34,8 +30,7 @@ traps them on contact. This provides both population monitoring and
 physical control.
 
 ### Target Pests
-Yellow sticky traps help monitor and contain several key [[green-cannabis-pests-prevention]]:
-- [[cervantes-fungus-gnats]] (primary target for monitoring)
+Yellow sticky traps help monitor and contain several key [[cervantes-fungus-gnats]] (primary target for monitoring)
 - Thrips (helps control populations)
 - Winged aphids (often the first to enter a garden)
 - Whiteflies
@@ -54,11 +49,7 @@ warning of infestations.
 Smear Tanglefoot around the edges of pots, base of stems, and at the end
 of drying lines to form an impenetrable barrier-trap against mites and
 insects. This simple precaution helps keep mites isolated. However,
-resourceful [[cervantes-spider-mites-identification-control]] can spin a web above the barrier. The marauding
-mites also ride air currents created by fans from plant to plant.
-
-### What It Controls
-Helps contain [[greg-green-spider-mites-and-common-pests]] non-flying insects within bounds. The
+resourceful [[greg-green-spider-mites-and-common-pests]] non-flying insects within bounds. The
 barrier traps are particularly useful for isolating infested plants from
 healthy ones.
 
@@ -117,8 +108,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[cervantes-outdoor-vertebrate-pest-control]]
 - [[cervantes-neem-oil-organic-pest-control]]
-- [[cervantes-biological-pest-control-predators]]
 - [[cervantes-whitefly-pest-control]]
 - [[cervantes-thrips-pest-control]]

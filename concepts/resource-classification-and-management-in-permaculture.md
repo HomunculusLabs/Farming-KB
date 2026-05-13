@@ -89,7 +89,13 @@ The ethical framework for resource use in permaculture can be summarized as:
 
 ## See Also
 
-- [[permaculture-energy-cycling-and-resource-efficiency]]
 - [[permaculture-design-principles-law-of-return]]
-- [[permaculture-waste-management]]
 - [[savory-holistic-resource-management-decision-framework]]
+
+## See Also
+
+- [[permaculture-energy-cycling-and-resource-efficiency]]
+- [[permaculture-resource-categories-and-yield-dispersal]]
+- [[savory-holistic-resource-management-animal-impact]]
+- [[savory-holistic-resource-management-biological-monitoring]]
+- [[savory-holistic-resource-management-overgrazing]]

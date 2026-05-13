@@ -8,7 +8,7 @@ type: entity
 
 ## Description
 
-A spore print is the pattern created by allowing a mushroom cap to deposit its spores onto a flat surface (typically white paper) over a period of approximately 24 hours. The spore print reveals the arrangement of the gill or pore structures and, most importantly, the color of the spore mass, which is one of the most reliable characteristics used in mushroom identification and taxonomy. In the cultivated mushroom (Agaricus campestris), the spore print is brownish-black, corresponding to the color of the mature gills.
+A spore print is the pattern created by allowing a mushroom cap to deposit its spores onto a flat surface (typically white paper) over a period of approximately 24 hours. The spore print reveals the arrangement of the gill or pore structures and, most importantly, the color of the spore mass, which is one of the most reliable characteristics used in [[mushroom-identification]] and taxonomy. In the cultivated mushroom (Agaricus campestris), the spore print is brownish-black, corresponding to the color of the mature gills.
 
 ## Classification
 
@@ -85,8 +85,6 @@ Addressing these challenges requires patience and systematic observation,
 combined with willingness to adapt approaches based on results.
 
 ## See Also
-- [[comparison-spore-print-collection-vs-spore-syringe-production]]
 - [[spore-print-collection-spore-mass-inoculation]]
-- [[mushroom-spore-print-technique]]
 - [[jarrold-glass-jar-spore-print-collection-drying]]
 - [[fungal-spore-print-guide]]

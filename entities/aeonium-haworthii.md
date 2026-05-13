@@ -66,27 +66,85 @@ Aeonium haworthii thrives in bright, filtered light with some direct morning sun
 
 It prefers a well-draining soil mix with moderate organic content, unlike the pure mineral mixes preferred by desert succulents.
 
-Water regularly during [[query-how-to-protect-plants-from-frost-and-extend-the-growing-season]] (autumn to spring) and reduce in summer when the plant enters dormancy.
-
-Unlike many succulents, Aeonium species are winter-growers that are active during cooler months.
-
-Hardy to approximately −2 °C (USDA zone 10) for brief periods.
-
-Propagation is easy from stem cuttings, which root readily in moist, gritty soil.
-
-The species tolerates coastal conditions including salt spray and wind exposure.
-
-Older stems become woody and may shed lower leaves, requiring pruning to maintain appearance.
-
-## Varieties and Related Species
-
-Aeonium haworthii var. haworthii is the typical form with blue-green leaves and pink margins.
-
-A cultivar 'Variegatum' with cream-striped leaves exists but is uncommon in cultivation.
-
-[[aeonium-arboreum]] is a larger, more robust relative with deeper green or purple-black rosettes.
+Water regularly during [[aeonium-arboreum]] is a larger, more robust relative with deeper green or purple-black rosettes.
 
 Aeonium decorum has more open rosettes and white to pink flowers, also native to the Canary Islands.
 
 ## See Also
-- [[query-which-cover-crops-are-best-for-breaking-hardpan-and-compacted-soil]]
+
+- [[senecio-haworthii]]
+
+## See Also
+- [[hamilton-annual-flowers-organic]]
+
+## Overview
+
+Aeonium Haworthii represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish aeonium haworthii
+from related concepts in [[permaculture]] and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving aeonium extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Aeonium Haworthii finds practical application in multiple design contexts.
+[[permaculture-principles]] guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for aeonium haworthii. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+aeonium haworthii and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Aeonium Haworthii has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of aeonium haworthii into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions

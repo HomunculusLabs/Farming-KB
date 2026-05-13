@@ -22,7 +22,7 @@ pathways supply it to crops: biological nitrogen fixation (BNF) — carried out 
 and free-living microorganisms — and synthetic nitrogen fertilizers, predominantly
 produced via the Haber-Bosch process. The Haber-Bosch process, industrialized in the early
 20th century, enabled the global population boom but at significant ecological cost.
-Biological fixation operates at [[jadam-ambient-temperature-principle]] and pressure, powered by [[fukuoka-textdoc-three-dimensional-solar-energy-methodless-method]]
+Biological fixation operates at [[fukuoka-textdoc-three-dimensional-solar-energy-methodless-method]]
 captured through photosynthesis. Understanding the trade-offs between these two nitrogen
 sources is essential for designing regenerative and resilient food systems capable of
 feeding humanity without degrading the biosphere.
@@ -71,12 +71,9 @@ global CO₂ emissions (~450 Mt CO₂e annually), owing to fossil-fuel-derived h
 the high-temperature reaction. Including downstream manufacturing and field emissions,
 the lifecycle footprint of synthetic N is considerably larger. BNF, powered entirely by
 photosynthate, is effectively carbon-neutral and can be carbon-negative when legumes
-build soil [[hamilton-composting-and-organic-matter-management]].
-
-**[[root-exudates]], nodule turnover, and biomass incorporation. They
+build soil [[root-exudates]], nodule turnover, and biomass incorporation. They
 support diverse microbial communities, improve soil aggregation and water infiltration,
-and enhance [[mycorrhizal-networks]]. Cover-crop legumes
-([[mushroom-compost]], hairy vetch, field peas, cowpeas) add both nitrogen and substantial
+and enhance [[mushroom-compost]], hairy vetch, field peas, cowpeas) add both nitrogen and substantial
 carbon to the soil profile.
 
 ## Cost
@@ -101,23 +98,6 @@ crops, representing an opportunity cost. In systems where legumes are already ca
 - Low-input and subsistence farming where fertilizer access is limited
 - Agroforestry systems incorporating N-fixing trees (*Gliricidia, Leucaena, Acacia*)
 - Organic certification programs restricting synthetic inputs
-- [[jeavons-climate-adaptation-growing-seasons]] strategies seeking to reduce input dependency
-
-**Synthetic Fertilizer** remains necessary where:
-- Maximum short-term yield is required (intensive cereal monocultures)
-- Legume-compatible rotations are not agronomically feasible
-- Rapid nitrogen delivery is needed for early-season crop establishment
-- Soil nitrogen deficits are severe and require fast correction
-- Transitional periods while building BNF capacity in degraded soils
-
-## Summary
-
-Biological nitrogen fixation and synthetic nitrogen fertilizers represent fundamentally
-different approaches to the same agronomic challenge. BNF is energy-efficient,
-environmentally low-impact, and regenerative of soil health, but slower and lower in
-total nitrogen output. Synthetic fertilizer delivers large, immediate nitrogen doses that
-have enabled industrial-scale food production but at steep environmental and energetic
-costs. The most resilient agricultural systems combine both strategically: using BNF as
-the foundational nitrogen source in rotations and [[cover-crops]], reserving synthetic
+- [[cover-crops]], reserving synthetic
 applications for targeted supplementation when genuine deficits arise. As climate
 pressure intensifies and fossil energy costs rise, transitioning toward BNF-dominant

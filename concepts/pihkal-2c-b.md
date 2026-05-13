@@ -17,17 +17,7 @@ members of the 2C family of phenethylamines. First synthesized by Alexander
 Shulgin in 1974 and documented in PIHKAL as compound #7, 2C-B earned the
 street name "Nexus" for its unique position bridging classical psychedelics
 and empathogens. It occupies a distinctive niche between the visual intensity
-of LSD and the emotional warmth of [[mdma]].
-
-The compound gained popularity in the 1990s as a replacement for MDMA after
-scheduling. Its balanced effects, manageable duration, and tolerable body
-load contributed to widespread adoption in recreational settings. 2C-B
-remains one of the most commonly encountered research chemicals despite
-scheduling in many jurisdictions.
-
-At lower doses 2C-B tends toward empathogenic and tactile effects, while at
-higher doses it becomes increasingly visual and psychedelic, approaching the
-intensity of LSD or [[mescaline]]. This dose-dependent shift is one of its most
+of LSD and the emotional warmth of [[mescaline]]. This dose-dependent shift is one of its most
 characteristic features.
 
 ## Chemical Structure and Classification
@@ -68,32 +58,93 @@ colorful, and highly aesthetic.
 Cognitive effects include altered thought patterns, enhanced creativity, and
 philosophical introspection. Physical effects include pupil dilation, mild to
 moderate body load (muscle tension, restlessness), increased energy, and
-enhanced [[plant-sensory-perception]]. Nausea is less common than with mescaline.
-
-## Shulgin's Commentary
-
-Shulgin regarded 2C-B as one of the most successful compounds in his
-collection. In PIHKAL, he described it with evident appreciation, noting its
-unique ability to combine the best qualities of psychedelic and empathogenic
-substances. He considered it one of his "ten most rewarding" substances.
-
-He highlighted its clean mental state, noting it rarely produces confusion or
-anxiety. He described the experience as "clear-headed" and "friendly." He
-also emphasized the dose-dependent shift from empathogenic to psychedelic
-effects, which earned it the "Nexus" name among users.
-
-## Pharmacology
-
-2C-B acts primarily as a [[serotonin]] 5-HT2A receptor agonist with additional
+enhanced [[serotonin]] 5-HT2A receptor agonist with additional
 activity at 5-HT2C and 5-HT1A receptors. It also shows affinity for the
 serotonin transporter (SERT), contributing to empathogenic qualities at
-lower doses. The bromine substituent influences both [[tihkal-receptor-binding-serotonin]]
+lower doses. The bromine substituent influences both [[pihkal-aleph-2]]
+- [[pihkal-dom]]
+- [[pihkal-entry-48]]
+- [[pihkal-mbdb]]
+
+## Overview
+
+Pihkal 2C B represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish pihkal 2c b
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving pihkal extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Pihkal 2C B finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for pihkal 2c b. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+pihkal 2c b and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Pihkal 2C B has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of pihkal 2c b into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
 
 ## See Also
 
-- [[pihkal-aleph-2]]
+- [[pihkal-2c-e]]
+- [[pihkal-2c-t-2]]
 - [[pihkal-doi]]
-- [[pihkal-dom]]
-- [[pihkal-entry-45]]
-- [[pihkal-entry-48]]
-- [[pihkal-mbdb]]

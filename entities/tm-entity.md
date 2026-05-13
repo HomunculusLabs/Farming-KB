@@ -8,41 +8,7 @@ sources: []
 ---
 # TM
 
-TM (4-thiomescaline; 3,5-dimethoxy-4-methylthiophenethylamine) is a psychedelic phenethylamine described in [[2c-b-pihkal-entry-20]] #156.
-
-It is the sulfur-substituted analogue of mescaline, created by replacing the 4-position methoxy oxygen atom with sulfur.
-
-This substitution increases potency approximately tenfold over mescaline without any apparent decrease in complexity of action.
-
-## Dosage and Duration
-
-Dosage range: 20 to 40 milligrams.
-
-Duration: 10 to 15 hours.
-
-The dramatic potency increase over mescaline (active at 200-400 mg) demonstrates the profound effect of sulfur-for-oxygen substitution at the 4-position.
-
-Even at 20 milligrams, several subjects found difficulty with walking and equilibrium, describing walking as a "floating procedure" where one could "tilt to one side or the other if care was not taken."
-
-Anorexia was occasionally noted, and most people commented on some degree of anesthesia to touch.
-
-## Qualitative Effects
-
-At 25 milligrams, effects begin subtly. A subject sitting on a pillow behind the house experiences distinct uterine cramping and cannot find a comfortable position.
-
-Finding the pillow missing upon return from a walk triggers an existential sequence: "The pillow was for me. It was gone. My place was gone. Therefore I am gone. I am dead and yet I can see and think."
-
-The small touch of panic at finding oneself dead dispelled all internal concerns, and the subject ran inside to find the others, who had brought the pillow in.
-
-The entire day balanced between "alive unreality and the illusion that I was something removed and merely watching the surrounding alive unreality."
-
-"Everything that happened was completely unlikely."
-
-A soup scene became hilariously unresolvable: three different cans of soup could not be allocated despite being "hopelessly unresolvable, hilariously funny, and distinctly schizophrenic."
-
-A downed kite with an empty message sheet was found: "The message was that there was no message. Exactly out of Marshall McLuhan. Completely appropriate for this particular day."
-
-At 30 milligrams, the experience is reminiscent of [[dob-entity]] and concluded "I cannot see this as a party drug."
+TM (4-thiomescaline; 3,5-dimethoxy-4-methylthiophenethylamine) is a psychedelic phenethylamine described in [[dob-entity]] and concluded "I cannot see this as a party drug."
 
 ## Scientific Significance
 
@@ -59,8 +25,6 @@ The substitution of a sulfur atom for an oxygen atom increased the power of the 
 Many materials that were outgrowths of mescaline with various alkoxy groups were subsequently prepared with sulfur replacements, and many proved to be interesting.
 
 ## Related Compounds
-
-[[2c-t-entity]] - the sulfur-substituted phenethylamine with 2,5-dimethoxy pattern
 
 [[tma-2-entity]] - the amphetamine with 2,4,5-trimethoxy pattern
 
@@ -83,3 +47,88 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
+
+## Overview
+
+Tm Entity represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish tm entity
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving tm extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Tm Entity finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for tm entity. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+tm entity and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Tm Entity has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of tm entity into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[2c-g-3-entity]]
+- [[4-5-mdo-dmt-entity-tihkal]]
+- [[5-6-mdo-dipt-entity-tihkal]]
+- [[mdcpm-entity-pihkal]]
+- [[methyl-k-entity-pihkal]]

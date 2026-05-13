@@ -13,9 +13,7 @@ type: concept
 
 ## Overview
 
-The partnership/dominator framework is a model of human [[cultural-evolution-and-psychoactive-substances]]
-developed by Riane Eisler in *The Chalice and the Blade* (1987) and
-adopted by [[terence-mckenna]] in *Food of the Gods* (1992) to explain the
+The partnership/dominator framework is a model of human [[terence-mckenna]] in *Food of the Gods* (1992) to explain the
 historical suppression of sacred plant use and the rise of patriarchal
 civilizations. The model proposes that human societies have oscillated
 between two fundamentally different organizational patterns, and that the
@@ -44,16 +42,7 @@ Partnership societies, according to Eisler, exhibit the following features:
 ### Archaeological Evidence
 
 Eisler points to Çatal Höyük in Anatolia (7500-5700 BCE) as the
-best-preserved example of a [[mckenna-dominator-vs-partnership-society-model]] — extensive Goddess
-figurines, no fortifications, no evidence of warfare, elaborate shrines,
-and art depicting female spiritual power. It was abandoned around 6500
-BCE after fires, marking what McKenna calls "the end of the age of
-undefended cities."
-
-### Connection to Sacred Plants
-
-McKenna argues that partnership societies maintained their cohesion
-through the communal use of [[ceremonial-shamanic-use-psychoactive-mushrooms]]. The ecstatic
+best-preserved example of a [[ceremonial-shamanic-use-psychoactive-mushrooms]]. The ecstatic
 experience produced by psilocybin:
 
 - Dissolves ego boundaries, fostering empathy and social bonding
@@ -88,3 +77,73 @@ The transition from partnership to dominator is associated with:
   millennium BCE)
 - The domestication of the horse, which reinforced mobility, male
   dominance, and a social economy based on raiding
+
+## Overview
+
+[[partnership-vs-dominator-culture]] Models represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish partnership vs dominator culture models
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving partnership extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Partnership Vs Dominator Culture Models finds practical application in multiple design contexts.
+[[permaculture-principles]] guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for partnership vs dominator culture models. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+partnership vs dominator culture models and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Partnership Vs Dominator Culture Models has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of partnership vs dominator culture models into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.

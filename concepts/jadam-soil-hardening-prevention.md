@@ -11,7 +11,7 @@ sources:
 
 ## Overview
 
-Soil compaction and hardening -- the formation of an impenetrable layer ([[ultra-low-soil-compaction-and-plow-pan-solutions]]) approximately 15 cm below the soil surface -- is identified by JADAM as one of the most critical problems facing modern agriculture. This hardened layer traps chemicals, prevents root penetration, blocks water infiltration, and causes [[jadam-salt-accumulation-in-soil]]. JADAM provides both diagnosis and treatment methods for this widespread condition.
+Soil compaction and hardening -- the formation of an impenetrable layer ([[jadam-salt-accumulation-in-soil]]. JADAM provides both diagnosis and treatment methods for this widespread condition.
 
 ## Causes of Soil Hardening
 
@@ -35,43 +35,13 @@ The consequences of soil hardening cascade through the entire farming system:
 
 **Root restriction**: Crops cannot develop deep root systems. In the past, pepper plants extended roots 1.5 m into the soil and were so robust that farmers needed sickles to chop them down. Now, a small tug pulls the roots out immediately. The roots are coiled up in the nursery soil, desperate to stay.
 
-**Salt accumulation**: When [[fukuoka-rain-falls-from-ground-vegetation-rainfall-cycle]], water is trapped by the compacted soil layer. It does not flow down but stagnates at a short depth below the surface, slowly evaporates, and leaves salt behind. Repeating this process leads to salinized soil.
-
-**Water stagnation**: Both heaven and earth are blocked. The soil is not in contact with the sky. Material circulation cannot function properly.
-
-**Reduced microbial activity**: Compacted soil has reduced air and water penetration, limiting the microbial activity that is essential for [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] and [[cervantes-pest-disease-prevention-overview]].
-
-## Diagnosis: Simple Root Inspection
-
-JADAM provides a simple diagnostic method for soil compaction:
-
-1. Dig carefully around a crop and observe the root system
-2. Look for roots extending below 20 cm (8 inches)
-3. If you find no roots below 20 cm, you likely have soil compaction
-4. If your crops are suffering from diseases and yield is small, soil compaction is probably the cause
-
-A lot of hairy roots below 20 cm under the soil is a sign that there is no soil compaction. The visible crop above ground represents the invisible root condition below. In good soil, roots extend wide and deep, guaranteeing high yield and high quality.
-
-## JADAM Solutions
-
-### Minimize Heavy Machinery
-
-JADAM recommends stopping the use of heavy tractors and using light vehicles instead. If you must use tractors, take extra care so that wheels do not run over crop-growing areas. Minimize the use of chemical material.
-
-### Use JADAM Inputs
-
-JADAM inputs including [[jadam-phyllite-water-method]] help restore soil structure. Powerful root activity will ease soil compaction from below as roots push through the hardened layer.
+**Salt accumulation**: When [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] and [[jadam-phyllite-water-method]] help restore soil structure. Powerful root activity will ease soil compaction from below as roots push through the hardened layer.
 
 ### Cover Crops
 
-[[jadam-cover-crop-soil-temperature-management]]
-- [[jadam-leaf-mold-soil-method]]
-- [[jadam-ultra-low-cost-agriculture]]
-
+[[jadam-leaf-mold-soil-method]]
 - [[jadam-root-soil-assessment]]
-- [[jadam-microorganism-solution-jms]]
 - [[jadam-nature-as-teacher-philosophy]]
-- [[soil-compaction-solutions-ingham]]
 - [[jadam-root-soil-assessment]]
 ## Practical Considerations
 
@@ -121,8 +91,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[det]]
 - [[cover-crops]]
-- [[cover-crop]]
 - [[query-role-of-fungi-in-soil-aggregation-and-erosion-prevention]]
 - [[jadam-crop-disease-prevention-methods]]

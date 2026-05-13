@@ -18,43 +18,15 @@ sources:
 
 ## Overview
 
-**Celtis occidentalis**, commonly known as common hackberry, is a medium-sized deciduous tree native to a wide swath of eastern and central [[guzman-psilocybin-mushrooms-north-america]]. It belongs to the family Cannabaceae (formerly placed in Ulmaceae), making it a relative of cannabis and hops.
-
-Hackberry is recognized by its distinctive corky, warty bark and its small, sweet, date-like fruits that persist into winter. The species is remarkably adaptable, thriving in conditions ranging from floodplains to dry upland rocky ridges.
-
-The tree is valued for its toughness, [[dighton-fungal-drought-tolerance-plant-water-relations]], and importance as a wildlife food source. It is increasingly planted in urban landscapes as a street tree, particularly in the central and midwestern United States.
+**Celtis occidentalis**, commonly known as common hackberry, is a medium-sized deciduous tree native to a wide swath of eastern and central [[dighton-fungal-drought-tolerance-plant-water-relations]], and importance as a wildlife food source. It is increasingly planted in urban landscapes as a street tree, particularly in the central and midwestern United States.
 
 ## Taxonomy and Morphology
 
-**Celtis occidentalis** L. was described by Linnaeus in 1753. The genus *Celtis* contains approximately 60–70 species distributed across temperate and [[fukuoka-natural-farming-in-tropical-regions]] worldwide. Recent phylogenetic studies placed *Celtis* in Cannabaceae rather than the traditional Ulmaceae.
-
-The specific epithet *occidentalis* means "western," distinguishing it from the European *[[celtis-australis]]*. No significant taxonomic synonyms are currently in use for this species.
+**Celtis occidentalis** L. was described by Linnaeus in 1753. The genus *Celtis* contains approximately 60–70 species distributed across temperate and [[celtis-australis]]*. No significant taxonomic synonyms are currently in use for this species.
 
 Mature hackberries typically reach 12–20 meters in height with a broad, rounded crown. The trunk diameter at breast height ranges from 40 to 70 centimeters in forest-grown trees, with open-grown specimens developing shorter, broader forms.
 
-The bark is one of the most diagnostic features: gray to brown, with prominent corky ridges and warty protuberances that develop on young branches and persist on older bark. This distinctive texture distinguishes hackberry from all other [[growing-gourmet-north-american-reishi-species]] hardwoods.
-
-Leaves are alternate, simple, 5–12 cm long, with a sharply acuminate tip and serrate margins. The leaf base is conspicuously asymmetrical (unequal-sided), similar to elms, reflecting its former placement in Ulmaceae.
-
-Flowers are small, greenish, and apetalous, appearing in spring with the leaves. The species is polygamo-dioecious, with some trees bearing perfect flowers and others bearing only staminate or pistillate flowers.
-
-The fruit is a small, globose drupe 6–8 mm in diameter, ripening from green to dark purple or reddish-brown in autumn. Each fruit contains a single hard seed enclosed in a thin, sweet, date-flavored pulp. Seeds require cold stratification for germination and may remain viable in the soil for several years.
-
-The root system of hackberry is deep and widespreading, contributing to its drought tolerance. [[plants-without-mycorrhizal-associations]] with [[comparison-soil-food-web-vs-arbuscular-mycorrhizal-fungi]] fungi enhance nutrient uptake, particularly on poor soils.
-
-Branching pattern tends to be ascending and irregular, especially in open-grown trees. Young bark is smooth and gray-green, developing the characteristic corky warts within 3–5 years of branch age.
-
-## Distribution and Habitat
-
-Common hackberry ranges from southern Ontario and New England west to eastern Montana and Wyoming, south to eastern Texas, and east to northern Florida. Its range is centered on the Midwest and Great Plains.
-
-The species occupies a remarkably broad ecological amplitude, growing on floodplains, stream terraces, limestone outcrops, and dry rocky hillsides. This adaptability makes it one of the most widely distributed hardwoods in central North America.
-
-Hackberry is a common component of bottomland hardwood forests, upland oak-hickory forests, and riparian woodlands. It frequently associates with American elm, green ash, box elder, and various oak species.
-
-The species is moderately shade-tolerant in youth but becomes increasingly intolerant with age. It regenerates best in canopy gaps and disturbed sites, where it can persist as a long-lived sub-canopy tree beneath taller associates.
-
-Optimal growth occurs on moist, well-drained loams, but hackberry tolerates drought-prone, alkaline, and compacted soils better than most native hardwoods. This tolerance underlies its success in [[query-how-do-green-roofs-and-living-walls-benefit-urban-environments]].
+The bark is one of the most diagnostic features: gray to brown, with prominent corky ridges and warty protuberances that develop on young branches and persist on older bark. This distinctive texture distinguishes hackberry from all other [[plants-without-mycorrhizal-associations]] with [[query-how-do-green-roofs-and-living-walls-benefit-urban-environments]].
 
 Hackberry can survive on limestone-derived soils with pH up to 8.0, making it one of the few hardwoods that thrives on calcareous substrates in the Great Plains. This edaphic adaptability gives it a competitive advantage over more pH-sensitive associates.
 
@@ -76,14 +48,91 @@ Hackberry trees are host to the hackberry nipple gall, caused by a psyllid insec
 
 Hackberry fruits are edible to humans, with a thin, sweet pulp surrounding the hard seed. The flavor has been compared to dates or dried figs, though the small fruit size limits practical harvesting.
 
-[[halpern-sacramental-peyote-and-native-american-church]] peoples used hackberry fruits as a food source, sometimes grinding them into meal or pressing them for their sweet juice. The dried fruits were also stored for winter use among several Plains and Midwestern tribes.
-
-The wood is medium-weight, moderately hard, and pale yellow to light brown in color. It has been used for fence posts, crates, pallets, and fuel, though it is not considered a commercially important timber species.
-
-The wood bends well when steamed and has been used historically for barrel hoops, agricultural implements, and sporting goods. Its relatively rapid growth and wide availability make it a potential biomass feedstock.
-
-Hackberry wood has a similar density and working properties to elm, and it has occasionally been used as a substitute in furniture and cabinetry. The heartwood is not durable in ground contact, limiting its use for outdoor applications.
-
-In traditional medicine, hackberry bark was used by [[metzner-peyote-ceremonies-native-american-church-and-huichol-traditions]] tribes as an analgesic and for treating menstrual disorders. The Cherokee used a decoction of the bark for sore throats and venereal disease.
+[[metzner-peyote-ceremonies-native-american-church-and-huichol-traditions]] tribes as an analgesic and for treating menstrual disorders. The Cherokee used a decoction of the bark for sore throats and venereal disease.
 
 ## Cultivation
+
+## Overview
+
+Celtis Occidentalis represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish celtis occidentalis
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving celtis extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Celtis Occidentalis finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for celtis occidentalis. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+celtis occidentalis and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Celtis Occidentalis has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of celtis occidentalis into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[celtis-australis]]
+- [[celtis-laevigata]]
+- [[larix-occidentalis]]
+- [[platanus-occidentalis]]
+- [[rubus-occidentalis]]

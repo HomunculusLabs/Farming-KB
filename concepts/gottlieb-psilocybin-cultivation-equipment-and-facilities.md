@@ -22,21 +22,12 @@ simplifies the equipment list considerably.
 
 - One-quart mason jars serve as the primary cultivation vessels, filled
   halfway with broth medium (PDY -- Potato Dextrose Yeast broth).
-- Petri dishes (15 cm) for stock cultures on [[growing-gourmet-agar-media-formulas-preparation]].
-- Baby food jars (1/4 filled with agar) as a substitute for petri dishes.
-- Test tubes filled 1/3 with agar, stopped with cotton, and cooled at a
-  17-degree angle ("slants") to maximize surface area. A wooden rack can be
-  easily constructed to hold slants at this angle.
-- Baby bottles with cut rubber nipples and cotton wicks pulled through
-  (about 1/2 inch sticking out), filled 1/3 with [[agar-medium-preparation]] and kept at a
+- Petri dishes (15 cm) for stock cultures on [[agar-medium-preparation]] and kept at a
   17-degree angle. Sold in sets of 9-10 with steam sterilizers.
 
 ### Sterilization
 
-- Canning-type [[double-layer-tinfoil-jar-covering-pressure-cooker-method]] ("autoclave") for sterilizing medium
-  containers. Operated at 15-20 psi (250 degrees F) for 30 minutes.
-  Higher temperatures or longer periods caramelize dextrose/maltose sugars,
-  inhibiting growth and [[gottlieb-psilocybin-production-extraction-methods]].
+- Canning-type [[gottlieb-psilocybin-production-extraction-methods]].
 - Glassware boiled in water for 30 minutes before use.
 - Metalware flame-sterilized until glowing, then allowed to cool before
   contacting cultures or specimens.
@@ -48,14 +39,9 @@ simplifies the equipment list considerably.
   jars.
 - Pipettes or syringes for transferring spore water suspensions and mycelium
   liquid.
-- Dissecting needles (3 per cap) for pinning [[alkaloid-distribution-mushroom-caps-stems]] during tissue
-  culture excision.
-- X-acto blades (flame-sterilized) for carving outer skin and cutting inner
-  tissue from mushroom caps.
-- Q-tips and 7% iodine solution for [[challenge-organisms-nasa-microwave-surface-sterilization-testing]] of caps.
+- Dissecting needles (3 per cap) for pinning [[challenge-organisms-nasa-microwave-surface-sterilization-testing]] of caps.
 - Filter paper, Buchner funnel, and Celite for extraction filtration.
-- Flasks for extraction and [[water-activity-osmophilic-fungal-media-preparation]].
-- Saccharimeter for tracking sugar consumption and determining [[query-how-to-read-cannabis-trichomes-for-the-perfect-harvest-time]].
+- Flasks for extraction and [[query-how-to-read-cannabis-trichomes-for-the-perfect-harvest-time]].
 
 ### Sources and Costs (1976)
 
@@ -118,8 +104,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[psilocybin-cultivation]]
 - [[psilocybin]]
-- [[det]]
 - [[spore]]
 - [[mycelium]]

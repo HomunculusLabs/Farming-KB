@@ -12,14 +12,7 @@ tags:
   - immunomodulatory
   - north-america
   - wild-harvesting
-  - [[permaculture]]
-  - ethnobotany
-  - respiratory-health
-date: 2026-04-28
-updated: 2026-04-28
-sources:
-  - Moerman, D.E. (1998). "halpern-sacramental-peyote-and-native-american-church Ethnobotany." Timber Press.
-  - Foster, S. & Hobbs, C. (2002). "A [[ghouled-field-guide-historical-context]] to Western Medicinal Plants and Herbs." Houghton Mifflin.
+  - ghouled-field-guide-historical-context to Western Medicinal Plants and Herbs." Houghton Mifflin.
   - Tilford, G.L. (1997). "Edible and Medicinal Plants of the West." Mountain Press Publishing.
   - McIntyre, P. (2009). "Medicinal Plants of the Northwest." Wild Roots Botanicals.
   - Kindscher, K. (1992). "Medicinal Wild Plants of the Prairie." University Press of Kansas.
@@ -28,68 +21,93 @@ sources:
 ## Overview
 
 **Lomatium dissectum** is a perennial herbaceous plant in the carrot family
-(Apiaceae), native to western [[psilocybin-north-america-pacific-northwest]]. It is among the most
-significant medicinal plants in indigenous pharmacopoeias of the Great
-Basin and Columbia Plateau, traditionally used to treat respiratory
-infections, influenza, and pneumonia. The species gained renewed attention
-during the 1918 influenza pandemic when several Western physicians
-reported its efficacy in reducing mortality, though these observations
-remain anecdotal.
-
-Common names include **fernleaf biscuitroot**, **desert parsley**, and
-**toh-sa** (Northern Paiute). The species epithet *dissectum* refers to
-its deeply divided, fern-like leaves.
-
-## Taxonomy
-
-- **Family:** Apiaceae (Umbelliferae)
-- **Genus:** *Lomatium* DC.
-- **Species:** *L. dissectum* (Nutt.) Mathias & Constance (1942)
-
-**Basionym:** *Sium dissectum* Nutt. (1818), later transferred to
-*Lomatium*. Two varieties are recognized: var. *dissectum* (more finely
-divided leaves, darker flower color, inland distribution) and var.
-*multifidum* (coarser leaves, yellow flowers, coastal distribution).
-
-## Morphology
-
-**Growth habit:** Perennial herb, 50–150 cm tall from a large, thick
-taproot that can exceed 2 kg in mature specimens. Roots are dark
-brown externally, cream-white internally, with a distinctive aromatic
-resinous scent when cut.
-
-**Leaves:** Basal rosette, 15–40 cm long, ternately to pinnately
-compound, segments linear to lanceolate, 1–4 mm wide. Leaf stalks
-sheathing at base. Foliage dies back by mid-summer.
-
-**Inflorescence:** Compound umbel, 5–15 cm diameter, on hollow
-flowering stems. Ray umbels 8–20-flowered. Flowers minute, 3 mm,
-petals dark purple to reddish-purple (var. *dissectum*) or pale yellow
-(var. *multifidum*).
-
-**Fruit:** Schizocarp, 8–14 mm long, broadly winged, the lateral wings
-paper-thin and conspicuous. Ripe fruits tan to brown.
-
-## Distribution and Habitat
-
-L. dissectum ranges from southern British Columbia through Washington,
-Oregon, Idaho, Montana, Wyoming, Nevada, Utah, Colorado, and northern
-Arizona and New Mexico. It occupies dry, rocky slopes, sagebrush
-steppe, ponderosa pine understory, and open ridgelines at elevations
-of 300–3,000 m.
-
-The species is highly drought-tolerant, favoring well-drained sandy or
-gravelly soils in full sun to partial shade. It is a dominant component
-of several intermountain sagebrush communities.
-
-## Traditional and Medicinal Use
-
-Indigenous peoples of the western [[dmt-containing-plants-united-states-halpern]] used L. dissectum
+(Apiaceae), native to western dmt-containing-plants-united-states-halpern used L. dissectum
 extensively. The Northern Paiute, Shoshone, Washoe, and Nez Perce
 prepared the root as a decoction or poultice for respiratory ailments.
 The root was chewed raw for sore throat, boiled into tea for colds,
 
 ## See Also
-- [[dmt]]
-- [[dom]]
-- [[psilocybin]]
+- dom
+- psilocybin
+
+## Overview
+
+Lomatium Dissectum represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish lomatium dissectum
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving lomatium extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Lomatium Dissectum finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for lomatium dissectum. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+lomatium dissectum and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Lomatium Dissectum has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of lomatium dissectum into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+- [[dmt-containing-plants-united-states-halpern]]
+- [[psilocybin-containing-mushrooms-united-states]]
+- [[permaculture-energy-cycling-and-resource-efficiency]]

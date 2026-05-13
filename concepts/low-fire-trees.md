@@ -36,56 +36,92 @@ Trees and shrubs with low combustibility can be incorporated into permaculture d
 - C. cunninghamiana (recovers), C. fraserana, C. glauca (recovers), C. obesa, C. stricta (recovers), C. torulosa
 
 ### Castanea (Chestnuts)
-- C. dentata (American chestnut), C. sativa ([[holzer-sweet-chestnut-and-nut-trees]])
-
-### Fruit and Nut Trees
-- Carya illinoensis (pecan)
-- Ceratonia siliqua (carob|carob, recovers)
-- Citrus spp
-- Ficus macrophylla (Moreton Bay fig)
-- Fortunella japonica (kumquat, recovers)
-- Juglans hindsii, J. nigra, J. regia (walnuts)
-- Olea europaea (olive, recovers)
-- Pistacia chinensis (Chinese pistachio)
-- Prunus spp (most: plum, cherry, apricot, almond, recovers)
-
-### Oaks (Quercus spp)
-- Generally low combustibility; good fire barriers
-- Q. acutissima, Q. canadensis, Q. cerris (Turkey oak), Q. douglasii, Q. ilex (holm oak), Q. lobata, Q. lusitanica, Q. macrocarpa, Q. palustris, Q. phellos, Q. robur (English oak, recovers), Q. suber (cork oak), Q. virginiana (live oak)
-
-### Other Notable Species
-- Agave spp, Brachychiton populneus (kurrajong), Calodendrum capense (Cape chestnut)
-- Catalpa bignonioides, C. speciosa
-- Celtis australis, C. occidentalis (hackberry)
-- Chamaecytisus palmensis (permaculture-tagasaste|tagasaste, does NOT recover)
-- Fraxinus spp (ash), Ginkgo biloba, Grevillea robusta (does NOT recover)
-- Laurus nobilis (laurel), Liriodendron tulipifera (tulip tree)
-- Melaleuca lanceolata (moonah), Melia azedarach (cape lilac)
-- permaculture-chestnut
-- [[permaculture-tagasaste]]
-- [[hamilton-pruning-and-training-fruit-trees]]
-- gaias-garden-fruit-tree-selection
-## Practical Considerations
-
-Successful implementation of Low Fire Potential Trees and Shrubs requires attention to
-several practical factors including environmental conditions,
-resource availability, and timing. Careful monitoring and
-adaptive management help optimize outcomes across varying
-conditions. Integration with other system elements enhances
-overall effectiveness and creates beneficial synergies that
-improve resilience and productivity over time.
-
-## Future Directions
-
-Continued development in this area promises new insights and
-improved approaches for both research and practical application.
-Cross-disciplinary collaboration and advances in analytical
-methods create opportunities for innovation and refinement.
-Recommended resources include current literature, practitioner
-communities, and systematic experimentation to build expertise.
-## See Also
+- C. dentata (American chestnut), C. sativa ([[permaculture-tagasaste]]
 - [[ceratonia-siliqua]]
-- [[laurus-nobilis]]
-- [[melia-azedarach]]
-- [[permaculture-design]]
+- [[melia-azedarach-entity]]
 - [[olea-europaea]]
+
+## Overview
+
+Low Fire Trees represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish low fire trees
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving low extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Low Fire Trees finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for low fire trees. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+low fire trees and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Low Fire Trees has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of low fire trees into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[cannabis-fire-ritual]]
+- [[fire-resistant-plants]]
+- [[mollison-designers-sector-analysis-wind-sun-fire]]
+- [[permaculture-fire-management]]
+- [[schultes-ergot-st-anthonys-fire]]

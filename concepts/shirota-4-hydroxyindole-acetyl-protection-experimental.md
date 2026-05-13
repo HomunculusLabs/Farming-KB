@@ -8,23 +8,11 @@ tags: [synthesis, psilocin, psilocybin, organic-chemistry, tryptamine, shirota]
 
 ## Overview
 
-The Shirota, Hakamata, and Goda (2003) concise large-scale synthesis of [[tryptamine-chemistry-psilocin-and-psilocybin-synthesis]] begins with the commercially available starting material 4-hydroxyindole. The first step is protection of the hydroxyl group at the 4-position through acetylation, producing 4-acetylindole. This protection step is critical for the success of subsequent reactions and was selected over alternative [[permaculture-frost-protection-strategies]] for practical reasons related to scale and efficiency.
+The Shirota, Hakamata, and Goda (2003) concise large-scale synthesis of [[permaculture-frost-protection-strategies]] for practical reasons related to scale and efficiency.
 
 ## The Starting Material: 4-Hydroxyindole
 
-4-Hydroxyindole is a commercially available indole derivative that serves as the core structural scaffold for the synthesis of [[psilocin-and-psilocybin-chemistry]].
-
-The indole ring system is the fundamental structural feature shared by serotonin, psilocin, psilocybin, DMT, and other biologically important tryptamine compounds.
-
-The 4-hydroxy substituent is essential because it corresponds to the 4-hydroxy group present in both psilocin (4-hydroxy-N,N-dimethyltryptamine) and psilocybin (the 4-phosphoryloxy derivative of psilocin).
-
-Commercial sources of 4-hydroxyindole are available in multi-gram quantities, making it a practical starting material for large-scale synthesis.
-
-Shirota and colleagues obtained their starting material from Tokyo Kasei Kogyo Co., Ltd., in quantities exceeding 25 grams per bottle (greater than 185 mmol).
-
-## Protection Strategy Selection
-
-The hydroxyl group at the 4-position of the indole ring must be protected before subsequent reactions, particularly the acylation step that introduces the [[shirota-glyoxalylamide-side-chain-construction-psilocin-synthesis]].
+4-Hydroxyindole is a commercially available indole derivative that serves as the core structural scaffold for the synthesis of [[shirota-glyoxalylamide-side-chain-construction-psilocin-synthesis]].
 
 Two protection strategies were considered: acetylation and benzyl ether formation.
 
@@ -90,6 +78,5 @@ The acetyl group is stable under the conditions of the subsequent acylation and 
 
 ## See Also
 
-- [[shirota-4-acetylindole-crystallization-nmr-characterization-synthesis]]
 - [[shirota-psilocybin-phosphorylation-synthesis]]
 - [[shirota-zwitterionic-phosphate-intermediate-discovery]]

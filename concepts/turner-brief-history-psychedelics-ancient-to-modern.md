@@ -19,21 +19,13 @@ tags: [psychedelics, history, ancient, modern, counterculture, wasson, hofmann, 
 
 ## Prehistoric Origins
 
-As prehistoric humans foraged for food, they must have eaten the psychedelic plants that grow in nearly all regions of the world. Ingesting these plants produced awe-inspiring experiences, and it is quite likely that the origin of ideas about gods, heavens, hells, and life after death began with the ingestion of psychedelic plants. A neolithic human eating [[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]] or the Iboga root would have experienced a wealth of images and information flowing through a brain just beginning to develop its more complex areas.
-
-Terence McKenna's hypothesis (presented in "Food of the Gods") proposes that Homo sapiens descended from psychedelic-using hominids, with the ability of psychedelics to facilitate development of the human brain being central to the theory.
-
-## Ancient Recorded History
-
-### Vedic India
-R. Gordon Wasson made a strong argument that the inebriating Soma of the ancient Indian Rg Veda was the [[history-psychedelics-ancient]] - Ancient psychedelic use across cultures
-- [[psychedelic-safety-guidelines-turner]] - Safety considerations
+As prehistoric humans foraged for food, they must have eaten the psychedelic plants that grow in nearly all regions of the world. Ingesting these plants produced awe-inspiring experiences, and it is quite likely that the origin of ideas about gods, heavens, hells, and life after death began with the ingestion of psychedelic plants. A neolithic human eating [[history-psychedelics-ancient]] - Ancient psychedelic use across cultures
 - [[turner-further-explorations-and-future-of-psychedelics]] - Future of psychedelic use
 
 - turner brief turner brief history psychedelics ancient to modern ancient to modern
 
 ## Merged: Maria Sabina and the Mazatec Mushroom Velada
-Maria Sabina (1894-1985) was a Mazatec curandera (healer) from Huautla de Jimenez, Oaxaca, Mexico, whose [[stamets-psi-mazatec-mushroom-ceremonies-ethnobotany]] — veladas — became the focal point of the global psychedelic revolution after being publicized by [[psilocybe-bohemica-central-european]] mushrooms, reserving the largest dose for herself. - [[psychedelic-mushroom-set-and-setting]] ("one of the easier species to cultivate") made widespread production feasible - Postal delivery services eliminated the need for personal foraging The modern revival intersects with a broader resurgence of interest in wild [[bloomfield-mushroom-foraging-immigrant-poisonings-paddy-straw-confusion]]: - Mushroom conferences and forays attract increasing numbers of participants - Significant numbers of people are learning to collect and eat choice wild species - Cultivated specialty mushrooms have appeared in supermarkets - Field guides to higher fungi have flooded the English-speaking market Letcher argues that the West's embrace of magic mushrooms is historically unique: "The fact of the magic mushroom simply accords with all our expectations" — the mushroom's cultural associations with enchantment, danger, and the uncanny make it a natural fit for a culture seeking altered consciousness. - [[amanita-muscaria-guide]] - [[psychedelic-mushroom-set-and-setting]] - [[accessible-mushroom-cultivation-for-disabilities]] Legal Status --- Source: Shroom: A [[shroom-cultural-history-hippie-revolution-and-counterculture]] of the Magic Mushroom (Letcher, 2006), Chapters 1, 10 Updated: 2026-04-18
+Maria Sabina (1894-1985) was a Mazatec curandera (healer) from Huautla de Jimenez, Oaxaca, Mexico, whose [[psilocybe-bohemica-central-european]] mushrooms, reserving the largest dose for herself. - [[bloomfield-mushroom-foraging-immigrant-poisonings-paddy-straw-confusion]]: - Mushroom conferences and forays attract increasing numbers of participants - Significant numbers of people are learning to collect and eat choice wild species - Cultivated specialty mushrooms have appeared in supermarkets - Field guides to higher fungi have flooded the English-speaking market Letcher argues that the West's embrace of magic mushrooms is historically unique: "The fact of the magic mushroom simply accords with all our expectations" — the mushroom's cultural associations with enchantment, danger, and the uncanny make it a natural fit for a culture seeking altered consciousness. - [[psychedelic-mushroom-set-and-setting]] - [[shroom-cultural-history-hippie-revolution-and-counterculture]] of the Magic Mushroom (Letcher, 2006), Chapters 1, 10 Updated: 2026-04-18
 ## Practical Applications
 
 Turner Brief History Psychedelics Ancient To Modern has a range of practical applications that make it relevant to

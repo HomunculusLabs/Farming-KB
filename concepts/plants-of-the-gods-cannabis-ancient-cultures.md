@@ -46,9 +46,7 @@ culture to local religious, medical, and social practices.
 
 ## Albert Hofmann's Classification
 
-Albert Hofmann classified psychoactive drugs based on [[louis-lewin]]'s
-older arrangements, dividing them into: analgesics and euphorics
-(Opium, Coca); sedatives and tranquilizers ([[reserpine]]); hypnotics
+Albert Hofmann classified psychoactive drugs based on [[reserpine]]); hypnotics
 (Kava-kava); and hallucinogens or psychedelics (Peyote, Marijuana,
 etc.). While cannabis was grouped with hallucinogens, the authors note
 that its effects differ somewhat from classical hallucinogens, often
@@ -75,11 +73,7 @@ world.
 
 ## Sacred and Shamanic Use
 
-The book emphasizes that [[ethnobotanical-use-of-sacred-mushrooms-in-indigenous-cultures]] have considered
-hallucinogenic plants as gifts of the gods, if not the gods themselves.
-Cannabis is no exception. Its use in shamanic contexts across Eurasia
-involved communication with the spirit world, divination, and healing.
-The [[mckenna-scythian-cannabis-ritual-smoke-bath-herodotus]] steam-bath ceremony and the Hindu sadhu's use of
+The book emphasizes that [[mckenna-scythian-cannabis-ritual-smoke-bath-herodotus]] steam-bath ceremony and the Hindu sadhu's use of
 charas in devotion to Shiva exemplify this sacred dimension.
 
 Among the many definitions offered for this class of substances, the
@@ -87,3 +81,11 @@ German toxicologist Louis Lewin first used the term "phantastica," and
 while he admitted it "does not cover all that I should wish it to
 convey," the book employs the terms hallucinogen and psychotomimetic
 as the most widely understood designations.
+
+## See Also
+
+- [[water-use-efficiency-plants]]
+- [[us-native-hallucinogenic-dissociative-plants]]
+- [[query-how-to-make-lactobacillus-serum-for-plants]]
+- [[permaculture-plants-ground-covers-living-mulches]]
+- [[query-best-native-nitrogen-fixing-plants-for-permaculture-food-forests]]

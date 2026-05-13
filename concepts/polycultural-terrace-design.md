@@ -9,16 +9,7 @@ chunk_id: 171
 
 Polycultural terrace design is a foundational land-management technique in permaculture that transforms sloped terrain into productive, stable, and biodiverse growing systems. By converting hillsides into a series of level or gently graded platforms, terraces enable controlled cultivation on land that would otherwise be prone to erosion, nutrient runoff, and difficult access. When combined with polycultural planting strategies — integrating trees, annual crops, water systems, and perennial vegetation — terraces become resilient, multi-yield ecosystems that increase overall productivity while conserving soil and water resources.
 
-This concept is central to [[bill-mollison]]'s treatment of earthworks and broad-scale landscape design in *Permaculture: A Designer's Manual*, where terracing is presented as both a practical engineering solution and an ecological strategy for maximizing the productive potential of sloped land.
-
-## Benefits of Terracing
-
-Terraces offer a broad range of agronomic and ecological advantages over unmodified slopes:
-
-- **Ease of access:** Level surfaces simplify planting, weeding, harvesting, and general maintenance, reducing labor intensity on otherwise difficult terrain.
-- **Controlled irrigation:** Terraces allow water to be distributed evenly across cultivated surfaces, preventing the concentration of flow that causes erosion on steep ground.
-- **Minimal soil loss:** By breaking the slope into manageable steps, terraces dramatically reduce the velocity of runoff and keep topsoil in place.
-- **Nutrient gain from irrigation and leaf fall:** Water delivered to upper terraces percolates downward through the system, carrying dissolved nutrients to lower levels. Leaf litter from terrace-edge trees and ground covers contributes organic matter, [[building-soil]] fertility over time.
+This concept is central to [[building-soil]] fertility over time.
 
 These benefits compound over seasons, making terraced systems increasingly productive and self-sustaining as the soil profile matures. Over years of management, the terrace system becomes a self-reinforcing landscape element rather than a static earthwork.
 
@@ -85,7 +76,7 @@ The staggered path design is a critical detail — vertically aligned paths act 
 The structural and ecological stability of terraces is enhanced by planting perennials on bunds (the raised edges of terraces) and within or along terrace walls:
 
 - **Stability:** Deep-rooted perennials reinforce terrace walls and bunds, reducing the risk of slumping and collapse.
-- **Green manure:** Leguminous and nitrogen-fixing species planted on bunds provide a continuous source of organic matter and nutrients that can be cut and applied to adjacent terrace beds.
+- **[[green-manure]]:** Leguminous and nitrogen-fixing species planted on bunds provide a continuous source of organic matter and nutrients that can be cut and applied to adjacent terrace beds.
 - **Microclimate:** Bund plants shade the terrace surface, reduce evaporation, and create favorable microclimates for adjacent crops.
 
 Suitable species include comfrey, pigeon pea, Leucaena, cane grasses, and region-appropriate nitrogen-fixing shrubs. The selection of bund plants should consider root depth, growth habit, and compatibility with adjacent crops.
@@ -96,7 +87,7 @@ In arid and semi-arid areas, terrace design must integrate **water catchment and
 
 - Terrace walls and channels should be designed to capture and direct rainfall and surface runoff into storage or onto productive surfaces.
 - Swales, diversion drains, and check dams can supplement terrace systems by slowing water movement across the landscape and maximizing infiltration.
-- The goal is to retain every possible drop of precipitation within the system, using terraces as both production surfaces and water management infrastructure.
+- The goal is to retain every possible drop of precipitation within the system, using terraces as both production surfaces and [[water-management]] infrastructure.
 
 In dryland contexts, terraces function as much as water-harvesting structures as they do as growing platforms. The integration of catchment, storage, and distribution into the terrace design is essential for system viability.
 
@@ -120,6 +111,5 @@ Polycultural terrace design transforms sloped land into stable, productive, and 
 - Aquaculture in permaculture systems
 - Slope analysis and land capability assessment
 - Agroforestry design principles
-- [[terrace-design-and-construction]]
 - [[companion-planting]]
 - [[cover-crops]]

@@ -4,21 +4,20 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [history, timeline, psychedelics, academia, psychopharmacology, entheogen-research, consciousness, counterculture]
-sources:
-  - "raw/papers/shroom-a-cultural-history-of-the-magic-mushroom.md"
+sources: []
 ---
 
 # Psychedelic Research Timeline
 
 ## Overview
 
-The history of psychedelic research spans nearly a century, from early serendipitous discoveries through periods of intense scientific inquiry, political suppression, and modern renaissance. This timeline traces the key milestones that have shaped our understanding of psychedelic substances and their [[metzner-ayahuasca-therapeutic-potential]].
+The history of psychedelic research spans nearly a century, from early serendipitous discoveries through periods of intense scientific inquiry, political suppression, and modern renaissance. This timeline traces the key milestones that have shaped our understanding of psychedelic substances and their therapeutic potential.
 
 ## 1930s-1940s: Discovery and Early Exploration
 
 ### 1938 — LSD Synthesis
 
-Albert Hofmann, a chemist at Sandoz Laboratories in Basel, Switzerland, first synthesizes [[lsd-d-lysergic-acid-diethylamide]] (LSD-25) while researching ergot alkaloids as circulatory and respiratory stimulants. The compound is set aside as unremarkable.
+Albert Hofmann, a chemist at Sandoz Laboratories in Basel, Switzerland, first synthesizes lysergic acid diethylamide (LSD-25) while researching ergot alkaloids as circulatory and respiratory stimulants. The compound is set aside as unremarkable.
 
 ### 1943 — LSD's Psychoactive Effects Discovered
 
@@ -44,7 +43,7 @@ British psychiatrist Humphry Osmond suggests the term "psychedelic" (Greek: psyc
 
 ### 1956 — Psilocybin Isolated
 
-Albert Hofmann isolates [[hplc-analysis-of-psilocybin-and-psilocin]] from Psilocybe mexicana mushrooms, specimens collected by R. Gordon Wasson in Mexico. Wasson's 1957 Life magazine article "Seeking the Magic Mushroom" introduces psilocybin mushrooms to Western audiences.
+Albert Hofmann isolates psilocybin and psilocin from Psilocybe mexicana mushrooms, specimens collected by R. Gordon Wasson in Mexico. Wasson's 1957 Life magazine article "Seeking the Magic Mushroom" introduces psilocybin mushrooms to Western audiences.
 
 ### 1950s-1960s — Clinical Psychedelic Therapy Peaks
 
@@ -57,7 +56,7 @@ Over 1,000 clinical papers are published, and approximately 40,000 patients rece
 
 ### 1960 — Timothy Leary Begins Harvard Psilocybin Research
 
-Timothy Leary and Richard Alpert establish the [[leary-harvard-psilocybin-project]]. Their research with graduate students eventually leads to their dismissal from Harvard in 1963.
+Timothy Leary and Richard Alpert establish the Harvard Psilocybin Project. Their research with graduate students eventually leads to their dismissal from Harvard in 1963.
 
 ### 1962 — FDA Approves Sandoz's New Drug Application for LSD
 
@@ -75,7 +74,7 @@ President Nixon signs the Controlled Substances Act. LSD, psilocybin, mescaline,
 
 ### 1970-1985 — Research Continues Underground
 
-A small number of committed researchers continue working outside legal frameworks. Stanislav Grof develops [[metzner-holotropic-breathwork-and-grof-perinatal-matrices]] as a non-drug method for accessing non-ordinary states based on his psychedelic therapy experience.
+A small number of committed researchers continue working outside legal frameworks. Stanislav Grof develops holotropic breathwork as a non-drug method for accessing non-ordinary states based on his psychedelic therapy experience.
 
 ### 1971 — UN Convention on Psychotropic Substances
 
@@ -83,7 +82,7 @@ International scheduling restricts psychedelic research globally. Most countries
 
 ### 1985 — MDMA Scheduled
 
-Despite showing promise as an adjunct to psychotherapy, MDMA is placed in Schedule I in the US. Rick Doblin founds MAPS ([[maps-multidisciplinary-association-for-psychedelic-studies]] Psychedelic Studies) the same year, beginning the decades-long effort to reschedule MDMA for medical use.
+Despite showing promise as an adjunct to psychotherapy, MDMA is placed in Schedule I in the US. Rick Doblin founds MAPS (Multidisciplinary Association for Psychedelic Studies) the same year, beginning the decades-long effort to reschedule MDMA for medical use.
 
 ## 1990s-2000s: The Psychedelic Renaissance Begins
 
@@ -141,10 +140,10 @@ MAPS completes Phase 3 trials for MDMA-assisted therapy for PTSD. FDA advisory c
 
 ### 2025-2026 — Expanding Indications
 
-Clinical trials expand to include psilocybin for depression (COMPASS, Usona), DMT for depression (Small Pharma), ibogaine for addiction (Ambio Life Sciences), and ketamine for various indications. Psychedelic-assisted therapy training programs multiply.
+## See Also
 
-## Key Figures in Psychedelic Research
-
-| Researcher | Contribution | Era |
-|-----------|-------------|-----|
-| Albert Hofmann | LSD and psilocybin discovery | 1940s-2000s |
+- [[metzner-entheogenic-terminology-psychedelic-hallucinogenic-entheogenic]]
+- [[psychedelic-1960s-counterculture]]
+- [[psychedelic-consciousness-expansion]]
+- [[psychedelic-prohibition-and-the-war-on-consciousness]]
+- [[psychedelic-therapy-set-and-setting]]

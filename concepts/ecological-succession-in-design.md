@@ -6,7 +6,7 @@ type: concept
 
 # Ecological Succession in Design
 
-[[ecological-succession]] is the natural process by which ecosystems evolve from pioneer communities on damaged or newly formed land through a series of stages toward a mature, stable state. In [[permaculture]], succession is not merely observed — it is actively designed and accelerated, allowing designers to establish productive, self-maintaining systems in a fraction of the time natural succession would require.
+[[permaculture]], succession is not merely observed — it is actively designed and accelerated, allowing designers to establish productive, self-maintaining systems in a fraction of the time natural succession would require.
 
 ## Natural Succession
 
@@ -111,3 +111,11 @@ The success of any design ultimately depends on how it is accepted and implement
 
 ## See Also
 - [[ecological-succession-in-permaculture-design]]
+
+## See Also
+
+- [[bloomfield-fungal-fruiting-body-morphology-ecological-function]]
+- [[soil-microbial-biomass-measurement-ecological-significance]]
+- [[ecological-succession-in-permaculture-design]]
+- [[cooperative-life-systems-and-ecological-philosophy]]
+- [[self-regulation-in-ecological-systems]]

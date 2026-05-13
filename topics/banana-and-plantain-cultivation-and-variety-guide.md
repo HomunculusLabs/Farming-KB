@@ -23,13 +23,7 @@ sources:
 
 # Banana and Plantain Cultivation and Variety Guide
 
-Bananas and plantains (*Musa* spp.) are among the world's most important food crops, serving as a staple carbohydrate for over 400 million people across the tropics and subtropics. Though commonly called "trees," bananas are actually giant herbaceous plants — the world's largest herb — producing pseudostems from underground corms. Their rapid growth, high productivity, and continuous harvesting make them invaluable in [[permaculture]] systems, food forests, and tropical homesteads.
-
-## Botanical Background and Classification
-
-### The Musa Genus
-
-The genus *Musa* belongs to the family Musaceae and is native to [[psilocybe-southeast-asia-pacific]] and the Western Pacific. Wild species originated in the region stretching from India through Southeast Asia to northern Australia. The two primary wild progenitor species are:
+Bananas and plantains (*Musa* spp.) are among the world's most important food crops, serving as a staple carbohydrate for over 400 million people across the tropics and subtropics. Though commonly called "trees," bananas are actually giant herbaceous plants — the world's largest herb — producing pseudostems from underground corms. Their rapid growth, high productivity, and continuous harvesting make them invaluable in [[psilocybe-southeast-asia-pacific]] and the Western Pacific. Wild species originated in the region stretching from India through Southeast Asia to northern Australia. The two primary wild progenitor species are:
 
 -musa acuminata nata* (AA genome)** — Contributed the sweet fruit character and most edible qualities. Native to the Malay Peninsula, Indonesia, and the Philippines. Diploid forms produce small, seedy fruits, but parthenocarpic (seedless) mutants arose naturally and were selected by humans over thousands of years.
 - ***Musa balbisiana* (BB genome)** — Contributed hardiness, disease resistance, and tolerance to environmental stress. Native from eastern India through Southeast Asia. Fruits are starchy with large seeds.
@@ -54,34 +48,8 @@ Within the genome groups, important subgroups include:
 
 - **Cavendish (AAA)** — The dominant export banana worldwide. Includes 'Grand Nain,' 'Williams,' 'Dwarf Cavendish,' and 'Valery.' Susceptible to Panama disease Tropical Race 4 (TR4).
 - **Gros Michel (AAA)** — The original export banana, nearly wiped out by Panama disease Race 1 in the 1950s. Still grown where TR1 is absent.
-- **[[comparison-cavendish-vs-east-african-highland-bananas]] Highland (AAA-EAH)** — A diverse subgroup adapted to highland East Africa at 1,400–2,000 m elevation. Critical food security crop for millions.
-- **Plantain (AAB)** — The dominant cooking banana of West and Central Africa, Latin America, and the Caribbean. Includes French, False Horn, and Horn plantains.
-- **Bluggoe (ABB)** — Sturdy cooking banana tolerant of poor soils. Widely grown in Southeast Asia and the Pacific.
-- **Saba (ABB)** — Philippine cooking banana used for chips, ketchup, and flour. Very productive and wind-resistant.
-- **Silk/Apple (AAB)** — Includes 'Manzano,' 'Apple banana,' and 'Latundan.' Subacid flavor with a hint of apple/strawberry tang.
-- **Pome (AAB)** — Includes 'Prata' and 'Pacovan,' important in Brazil.
-- **Iholena and Maoli-Popo'ulu (AAB)** — Hawaiian and Pacific cooking bananas with distinctive coloration.
-
-## Climate and Environmental Requirements
-
-### Temperature
-
-Bananas require warm, consistently humid conditions:
-
-- **Optimal range:** 25–30°C (77–86°F) for vigorous growth
-- **Minimum for growth:** 15°C (59°F); growth essentially stops below this threshold
-- **Maximum tolerated:** 35–38°C (95–100°F); sustained heat above 35°C causes leaf scorch, reduced fruit set, and sunburn on exposed fruit
-- **Chilling damage:** Occurs at temperatures below 13°C (55°F) sustained for more than a few hours. Symptoms include yellowing of leaves, impaired ripening, and a dull, grayish peel discoloration
-- **Frost tolerance:** None. Even light frost kills pseudostems to the ground. The corm may survive and resprout in subtropical climates, but production is set back severely (6–12 months)
-
-### Rainfall and Irrigation
-
-- **Optimal rainfall:** 1,500–2,500 mm (60–100 inches) evenly distributed throughout the year
-- **Minimum rainfall:** ~1,200 mm (47 inches) with supplemental irrigation during dry periods
-- **Maximum:** Bananas tolerate high rainfall but are sensitive to waterlogging. Poorly drained soils lead to root rot (caused by *Cylindrocladium* spp. and *Pythium* spp.)
-- **Critical periods:** Peak water demand occurs during rapid [[cannabis-vegetative-growth-stage]], flowering, and fruit filling. Water stress during bunch development reduces finger size and causes premature ripening
-- **Irrigation methods:** [[comparison-drip-irrigation-vs-passive-irrigation]] is ideal, delivering water directly to the root zone while keeping pseudostems dry (reducing disease pressure). Overhead sprinklers work but increase humidity and disease risk
-- **Mulch:** A thick organic mulch layer (15–30 cm) is essential for moisture retention, weed suppression, and adding [[hamilton-composting-and-organic-matter-management]] as it breaks down
+- **[[cannabis-vegetative-growth-stage]], flowering, and fruit filling. Water stress during bunch development reduces finger size and causes premature ripening
+- **Irrigation methods:** [[hamilton-composting-and-organic-matter-management]] as it breaks down
 
 ### Light
 
@@ -112,9 +80,7 @@ Bananas are heavy feeders with specific soil preferences:
 
 - **Soil type:** Deep, well-drained, loamy soils are ideal. Heavy clays and pure sands are problematic
 - **pH:** 5.5–7.0 (slightly acidic to neutral). Below pH 5.0, aluminum and manganese toxicity become issues
-- **Drainage:** Critical. Standing water for more than 24–48 hours causes root death. [[raised-beds-vs-in-ground-vs-containers]] or mounds are essential in heavy soils or flat terrain
-- **Depth:** At least 60 cm (24 inches) of well-drained soil. Shallow soils over hardpan or rock restrict root development and reduce yields
-- **Organic matter:** Bananas respond strongly to organic matter. Maintain soil organic matter above 3% through mulching, compo [[green-manure-crops]] re crops
+- **Drainage:** Critical. Standing water for more than 24–48 hours causes root death. [[green-manure-crops]] re crops
 - **Salinity:** Moderately sensitive. Electrical conductivity above 1.5 dS/m begins to reduce growth and yield
 
 ## Propagation Methods
@@ -145,5 +111,4 @@ Less common but useful for rapid multiplication:
 
 - Large corms can be divided into sections, each with at least one viable bud
 ## See Also
-- [[citrus-cultivation-and-variety-guide]]
 - [[avocado-cultivation-and-variety-guide]]

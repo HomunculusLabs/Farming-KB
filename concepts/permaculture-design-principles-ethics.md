@@ -30,34 +30,11 @@ Holmgren articulated 12 design principles that translate the ethics into actiona
 
 | # | Principle | Core Idea |
 |---|-----------|-----------|
-| 1 | [[holmgren-observe-and-interact-detailed]] | Design arises from attentive engagement with place |
-| 2 | Catch and Store Energy | Harvest resources when abundant for scarce times |
-| 3 | Obtain a Yield | Every element should produce useful outputs |
-| 4 | Apply Self-Regulation and Accept Feedback | Systems must self-correct |
-| 5 | Use [[permaculture-principle-use-and-value-renewable-resources]] Resources | Favor biological, cyclical resources |
-| 6 | [[holmgren-produce-no-waste-waste-hierarchy-refuse-reduce-reuse-repair-recycle]] | Closed loops — every output is an input |
-| 7 | Design from [[permaculture-principle-design-from-patterns-to-details]] | Broad patterns before specifics |
-| 8 | [[permaculture-integrate-rather-than-segregate]] Segregate | Relationships over isolated elements |
-| 9 | Use Small and Slow Solutions | Manageable, adaptive, resilient |
-| 10 | Use [[permaculture-principle-use-and-value-diversity]] | Resilience through variety and redundancy |
+| 1 | [[permaculture-principle-use-and-value-renewable-resources]] Resources | Favor biological, cyclical resources |
+| 6 | [[permaculture-principle-design-from-patterns-to-details]] | Broad patterns before specifics |
+| 8 | [[permaculture-principle-use-and-value-diversity]] | Resilience through variety and redundancy |
 | 11 | Use Edges and Value the Marginal | Productivity at interfaces |
-| 12 | Creatively Use and [[permaculture-principle-creatively-use-and-respond-to-change]] | Flexibility and adaptation |
-
-### Principle 1: Observe and Interact
-
-Good design depends on understanding the site, its climate, soils, water flows, existing vegetation, and patterns of use. Observation precedes intervention. By spending time with a landscape before altering it, designers discover opportunities and constraints that would be invisible to a more hasty approach. This principle is also a critique of top-down, blueprint-style design that imposes predetermined forms onto diverse landscapes.
-
-### Principle 2: Catch and Store Energy
-
-Wealth is stored energy. Permaculture systems capture solar energy through photosynthesis, store water in soil and ponds, preserve harvests, and build soil organic matter as a long-term carbon and nutrient reserve. The principle applies at every scale: a household catches rainwater; a region develops renewable energy infrastructure; a civilization stores knowledge across generations.
-
-### Principle 3: Obtain a Yield
-
-Every element in a designed system should produce something useful. This principle guards against purely theoretical designs that look good on paper but fail to meet human needs. A food forest must produce food; a water system must deliver water; a house must provide shelter. The yield criterion ensures that permaculture remains grounded in practical outcomes.
-
-### Principle 4: Apply Self-Regulation and Accept Feedback
-
-Healthy ecosystems maintain stability through negative feedback loops: when a population exceeds its [[fukuoka-textdoc-land-requirements-per-diet-type-carrying-capacity]], resource depletion and increased mortality bring it back into balance. Permaculture designs incorporate similar feedback mechanisms, ensuring that systems self-correct rather than requiring constant external management. This principle also applies to human behavior: practitioners must observe the results of their interventions honestly and adjust their designs accordingly, even when evidence contradicts expectations.
+| 12 | Creatively Use and [[fukuoka-textdoc-land-requirements-per-diet-type-carrying-capacity]], resource depletion and increased mortality bring it back into balance. Permaculture designs incorporate similar feedback mechanisms, ensuring that systems self-correct rather than requiring constant external management. This principle also applies to human behavior: practitioners must observe the results of their interventions honestly and adjust their designs accordingly, even when evidence contradicts expectations.
 
 ### Principle 5: Use and Value Renewable Resources
 
@@ -73,18 +50,95 @@ Begin with the broadest patterns — watershed boundaries, sun angles, prevailin
 
 ### Principle 8: Integrate Rather Than Segregate
 
-This is perhaps the most distinctive and transformative of Holmgren's principles. In conventional design, elements are separated: houses here, farms there, [[constructed-wetland-design]] somewhere else. Permaculture integrates these elements so that the output of one becomes the input of another. Integration creates functional connections that reduce waste, increase efficiency, and generate emergent properties not present in any isolated element.
-
-### Principle 9: Use Small and Slow Solutions
-
-Small-scale, slow systems are more manageable, more adaptable to change, and more resilient to shock than large, fast ones. "Slow is sustainable; fast is fragile." This principle favors decentralized, human-scale solutions over centralized infrastructure, and gradual transitions over revolutionary ruptures.
-
-### Principle 10: Use and Value Diversity
-
-Diversity provides resilience: when one element fails, others can compensate. A polyculture is more resistant to [[mushroom-pests-and-diseases]] than a monoculture; a diverse economy is more stable than one dependent on a single industry. But diversity must be functional — every element should contribute to the system as a whole, not merely exist as decoration.
+This is perhaps the most distinctive and transformative of Holmgren's principles. In conventional design, elements are separated: houses here, farms there, [[mushroom-pests-and-diseases]] than a monoculture; a diverse economy is more stable than one dependent on a single industry. But diversity must be functional — every element should contribute to the system as a whole, not merely exist as decoration.
 
 ### Principle 11: Use Edges and Value the Marginal
 
 The edge between two ecosystems — forest and field, land and water — is typically the most productive and diverse zone. Permaculture designs maximize edge to increase productivity and habitat diversity. The principle also has a social dimension: valuing marginalized people, ideas, and approaches that conventional thinking dismisses.
 
 ### Principle 12: Creatively Use and Respond to Change
+
+## Overview
+
+Permaculture Design Principles Ethics represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish permaculture design principles ethics
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving permaculture extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Permaculture Design Principles Ethics finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for permaculture design principles ethics. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+permaculture design principles ethics and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Permaculture Design Principles Ethics has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of permaculture design principles ethics into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[eucalyptus-permaculture]]
+- [[holzer-thailand-permaculture-project]]
+- [[mollison-permaculture-design-course-curriculum]]
+- [[permaculture-designers-manual-sacred-groves]]
+- [[permaculture-japanese-raisin-tree-hovenia-dulcis]]

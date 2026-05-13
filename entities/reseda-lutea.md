@@ -44,11 +44,7 @@ Within the genus, R. lutea belongs to a group characterized by open capsules and
 
 Several subspecies have been described, varying in leaf dissection, capsule shape, and flower size. These often reflect regional adaptations across the species' broad range.
 
-Hybridization with [Reseda alba](/entities/reseda-alba) has been reported where the two species co-occur in Mediterranean habitats. The resulting hybrids show intermediate [[cannabis-leaf-morphology-and-phyllotaxy]] reduced fertility.
-
-## Distribution and Habitat
-
-Reseda lutea is native to Europe, western Asia, and North Africa. It has been introduced to [[guzman-psilocybin-mushrooms-north-america]], [[guzman-psilocybin-mushrooms-south-america]], Australia, and other temperate regions, often becoming naturalized along roadsides and in waste places.
+Hybridization with [Reseda alba](/entities/reseda-alba) has been reported where the two species co-occur in Mediterranean habitats. The resulting hybrids show intermediate [[guzman-psilocybin-mushrooms-north-america]], [[guzman-psilocybin-mushrooms-south-america]], Australia, and other temperate regions, often becoming naturalized along roadsides and in waste places.
 
 The species is strongly calcicolous, preferentially occurring on chalk, limestone, and other base-rich substrates. Typical habitats include dry grasslands, scree slopes, railway embankments, quarries, and disturbed ground.
 

@@ -16,14 +16,7 @@ type: concept
 
 # IMO Collection from Bamboo Stump and Paddy Field
 
-Dr. Cho's Korean [[comparison-natural-farming-vs-permaculture]] system describes multiple methods for
-collecting for the standard forest method.
-
-## Method 1: Bamboo Stump Collection
-
-### Rationale
-
-[[fukuoka-textdoc-bamboo-groves-wood-preserves-soil-fertility]] host diverse microbial communities within their hollow
+Dr. Cho's Korean [[fukuoka-textdoc-bamboo-groves-wood-preserves-soil-fertility]] host diverse microbial communities within their hollow
 stems. Natural sugars in bamboo sap attract a wide range of
 microorganisms. This method captures those microbes along with bamboo
 juice containing growth-promoting compounds.
@@ -68,8 +61,7 @@ on your specific climate.
 Harvested rice paddies contain unique microbial populations including
 powerful decomposers. This method specifically targets anaerobic
 microorganisms adapted to breaking down rice straw and crop residues,
-particularly Bacillus species valued for their role in [[hamilton-composting-and-organic-matter-management]]
-decomposition and [[aact-disease-suppression-mechanisms-ingham]].
+particularly Bacillus species valued for their role in [[aact-disease-suppression-mechanisms-ingham]].
 
 ### Key Microbes Collected
 
@@ -117,8 +109,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[doc]]
 - [[composting]]
-- [[bacillus-subtilis]]
 - [[permaculture]]
 - [[decomposition]]

@@ -20,18 +20,7 @@ type: concept
 ## Overview
 
 Between 2001 and 2006, six EU Member States tightened legislation on
-[[emcdda-hallucinogenic-mushrooms-emerging-trend-europe]]. The most significant and well-documented cases are
-the Netherlands (2002) and the United Kingdom (2005), both of which had
-large legal [[hallucinogenic-mushroom-online-retail-markets]] for [[emcdda-eu-legislative-timeline-hallucinogenic-mushrooms-2001-2006]] prior to prohibition.
-The experiences of these two countries provide important case studies in how
-legal restrictions affected markets, availability, and user behaviour.
-
-## Timeline of Legislative Changes
-
-The EMCDDA documented a wave of legislative action across Europe:
-
-- **July 2001**: Denmark added mushrooms and spores containing psilocin or
-  psilocybin as [[controlled-substances-act-and-psychedelic-research]].
+[[hallucinogenic-mushroom-online-retail-markets]] for [[controlled-substances-act-and-psychedelic-research]].
 - **November 2002**: Netherlands Supreme Court clarified that the Opium Act
   applied to prepared (dried, mashed, or processed) mushrooms but not to
   fresh mushrooms.
@@ -43,13 +32,7 @@ The EMCDDA documented a wave of legislative action across Europe:
   controlled substances, removing the previous "if treated or prepared"
   qualification.
 - **February 2006**: Ireland criminalised possession or sale of psilocin-
-  [[amanita-muscaria-and-ibotenic-acid-containing-fungi]] (exempt if growing uncultivated).
-
-## The Netherlands: 2002 Supreme Court Ruling
-
-### Legal Context
-
-[[tryptamine-chemistry-psilocin-and-psilocybin-synthesis]] are controlled under the 1971 UN Convention on
+  [[tryptamine-chemistry-psilocin-and-psilocybin-synthesis]] are controlled under the 1971 UN Convention on
 Psychotropic Substances and listed in Schedule I. All EU Member States
 control them accordingly. However, the application to unprocessed fresh
 mushrooms was ambiguous. The Dutch Supreme Court ruled in November 2002 that
@@ -62,9 +45,7 @@ food but not to fresh mushrooms.
 
 This ruling created a legal distinction that allowed smartshops to continue
 selling fresh mushrooms while prohibiting dried or processed products. The
-effect was to preserve the Dutch [[eu-hallucinogenic-mushroom-smartshop-market-2006]] for fresh mushrooms, which
-remained legally available until further restrictions were imposed. The Dutch
-Risk Assessment Report had previously estimated that [[guzman-magic-mushrooms-african-species]] made up
+effect was to preserve the Dutch [[guzman-magic-mushrooms-african-species]] made up
 approximately 50% of smartshop turnover, meaning the ruling preserved a
 significant commercial sector.
 
@@ -118,8 +99,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[doc]]
 - [[psilocybin]]
-- [[dom]]
 - [[psilocin]]
 - [[spore]]

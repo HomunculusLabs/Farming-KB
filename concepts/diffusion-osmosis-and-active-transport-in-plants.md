@@ -34,9 +34,7 @@ Several environmental and biological factors influence how quickly molecules dif
 
 ### Facilitated Diffusion
 
-Some molecules cannot pass through the cell membrane on their own but can cross with help from [[plant-cell-membrane-transport-proteins-channels-carriers-and-pumps]] embedded in the membrane. These proteins change shape or utilize internal electrical charges to help molecules through. This is still considered diffusion (passive) because no energy is added to the system -- the protein merely facilitates the natural movement down the concentration gradient.
-
-Ion channels and aquaporins are examples of [[plant-cell-membrane-transport-proteins]] that allow facilitated diffusion. Aquaporins are particularly important — they are water-specific channels that can dramatically increase the rate of water movement across membranes compared to simple diffusion through the lipid bilayer.
+Some molecules cannot pass through the cell membrane on their own but can cross with help from [[plant-cell-membrane-transport-proteins]] that allow facilitated diffusion. Aquaporins are particularly important — they are water-specific channels that can dramatically increase the rate of water movement across membranes compared to simple diffusion through the lipid bilayer.
 
 ## Osmosis
 
@@ -46,24 +44,11 @@ The solutes, if they can pass through the membrane, move in the opposite directi
 
 ### Turgor Pressure
 
-When water enters a plant cell by osmosis, the cell swells against its rigid [[staycare-degradation-of-plant-cell-wall-polymers-by-fungi]]. This outward pressure is called turgor pressure, and it is essential for maintaining plant structure. Without turgor pressure, cells become flaccid and the plant wilts. Turgor pressure also drives cell expansion during growth and keeps guard cells turgid so stomata can open for [[mushroom-cultivation-jar-lid-management-loose-fit-vacuum-gas-exchange]].
+When water enters a plant cell by osmosis, the cell swells against its rigid [[mushroom-cultivation-jar-lid-management-loose-fit-vacuum-gas-exchange]].
 
 ### Osmosis in Plant Roots
 
-In plant roots, water molecules are small enough (and have the right chemistry) to move through the plasmalemma via diffusion without energy input. Water enters root cells because there is usually a higher concentration of nutrients than water inside root cells. This [[fungal-fruiting-body-mechanics-osmotic-pressure]] pulls water across the root cell membranes to dilute internal concentrations.
-
-## Active Transport
-
-Root cells can move nutrient molecules against their natural concentration gradient -- from areas of lower concentration to areas of higher concentration. This is active transport, and it requires energy input from ATP.
-
-### Why Active Transport Matters
-
-Without active transport, plants could only take up nutrients that are more concentrated outside the root than inside. But plants need many nutrients even when soil concentrations are very low. Active transport allows them to:
-
-- Accumulate nutrients beyond soil concentrations
-- Selectively take up specific ions while excluding others
-- Maintain proper internal ion balances
-- Move sugars from leaves (high concentration) to roots ([[ultra-low-concentration-brassinosteroid-efficacy-hormetic-dose-response-fungi]]) through the phloem
+In plant roots, water molecules are small enough (and have the right chemistry) to move through the plasmalemma via diffusion without energy input. Water enters root cells because there is usually a higher concentration of nutrients than water inside root cells. This [[ultra-low-concentration-brassinosteroid-efficacy-hormetic-dose-response-fungi]]) through the phloem
 
 ### Ion Pumps
 
@@ -117,8 +102,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[brassinosteroid]]
 - [[xylem-and-phloem-transport-systems-in-plants]]
-- [[aquatic-plants-and-pond-ecosystems]]
 - [[greg-green-mother-plants-and-clone-maintenance]]
 - [[query-do-beans-and-peas-feed-nearby-plants-with-nitrogen]]

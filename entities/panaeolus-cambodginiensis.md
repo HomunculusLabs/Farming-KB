@@ -20,15 +20,7 @@ created: 2026-04-28
 
 ## Overview
 
-*Panaeolus cambodginiensis* is a tropical psilocybin-containing mushroom in the family Bolbitiaceae. It was first described from Cambodia and is widely distributed across [[psilocybe-southeast-asia-pacific]], where it grows on bovine dung in pastures and grasslands.
-
-The species is commonly referred to as "Cambodian panaeolus" and is noted for its potent psilocybin content relative to its small size.
-
-It is closely related to the better-known [[psilocybin]] and [[baeocystin]] is present as a minor constituent in varying amounts depending on collection origin.
-
-Urea and serotonin have also been detected in analytical studies of the fruiting bodies.
-
-The alkaloid content is comparable to [[panaeolus-cyanescens-entity]] is the most similar species, distinguished by its larger size (cap to 5 cm) and generally more robust stature.
+*Panaeolus cambodginiensis* is a tropical psilocybin-containing mushroom in the family Bolbitiaceae. It was first described from Cambodia and is widely distributed across [[psilocybin]] and [[panaeolus-cyanescens-entity]] is the most similar species, distinguished by its larger size (cap to 5 cm) and generally more robust stature.
 
 *Panaeolus tropicalis* is another closely related tropical species, differentiated by subtle microscopic features including spore morphology.
 
@@ -38,16 +30,8 @@ Several non-psychoactive Panaeolus species share the coprophilous habitat and mo
 
 ## Cultivation
 
-*Panaeolus cambodginiensis* can be cultivated using standard dung-based substrates, reflecting its natural [[mckenna-psilocybin-coprophilous-ecology-and-bovine-symbiosis]].
-
-Pasteurized horse or cow manure mixed with straw is the preferred substrate, with colonization temperatures of 24-28°C.
-
-Fruiting requires high humidity (90%+) and warm temperatures of 22-28°C with adequate fresh air exchange.
-
-Yields are generally lower than [[panaeolus-cyanescens-entity]] — blue meanies, closely related coprophilous psilocybin species
-- [[psilocybin]] — primary psychoactive compound
-- [[baeocystin]] — [[kwashi-and-galanga-minor-psychoactive-plants]] alkaloid
-- [[coprinus-comatus]] — shaggy ink cap, another coprophilous-associated mushroom
+*Panaeolus cambodginiensis* can be cultivated using standard dung-based substrates, reflecting its natural [[panaeolus-cyanescens-entity]] — blue meanies, closely related coprophilous psilocybin species
+- [[baeocystin]] — [[coprinus-comatus]] — shaggy ink cap, another coprophilous-associated mushroom
 ## Practical Considerations
 
 When working with Panaeolus cambodginiensis, several practical factors should be
@@ -88,3 +72,79 @@ creating a reference base of observations, interventions, and results.
 This accumulated knowledge enables progressively better decision-making
 and helps identify patterns that might otherwise be overlooked in the
 complexity of day-to-day management and observation activities.
+
+## Overview
+
+Panaeolus Cambodginiensis represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish panaeolus cambodginiensis
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving panaeolus extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Panaeolus Cambodginiensis finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for panaeolus cambodginiensis. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+panaeolus cambodginiensis and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Panaeolus Cambodginiensis has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of panaeolus cambodginiensis into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.

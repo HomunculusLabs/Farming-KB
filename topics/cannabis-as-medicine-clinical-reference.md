@@ -76,19 +76,7 @@ the nervous, immune, cardiovascular, and reproductive systems. Phytocannabinoids
 from cannabis mimic and modulate these endogenous pathways, offering a bridge
 between plant-based medicine and the body's own regulatory machinery.
 
-Uwe Blesching's *The [[blesching-cannabis-health-index-autoimmune-conditions]]* (CHI) synthesizes evidence from
-hundreds of peer-reviewed studies into an evidence-rating system quantifying
-therapeutic confidence across more than 100 conditions. Conditions with the
-highest CHI scores include cancer-related symptoms (CHI 100, 50 studies),
-multiple sclerosis (CHI 91, 26 studies), and inflammatory diseases broadly
-(CHI 79, 28 studies). Even conditions with more modest scores, such as
-Alzheimer's disease (CHI 10) or insomnia (CHI 5), reveal intriguing
-mechanistic data warranting further investigation. A critical theme across all
-therapeutic domains is dose precision: cannabis exhibits biphasic dose-response
-characteristics where the same cannabinoid that relieves anxiety at a moderate
-dose may provoke it at a high dose. This biphasic behavior, combined with
-significant inter-individual variability, makes personalized titration
-essential and the concept of the "[[cannabis-subjective-therapeutic-window-dosing]] window" arguably the
+Uwe Blesching's *The [[cannabis-subjective-therapeutic-window-dosing]] window" arguably the
 single most important principle in medical cannabis practice.
 
 ## Cannabinoid Pharmacology: THC, CBD, and Beyond
@@ -103,29 +91,17 @@ analgesic, antiemetic, bronchodilatory, and appetite-stimulating properties.
 Through CB2 activation in immune cells, THC modulates inflammatory signaling.
 ## See Also
 
-- [[cannabinoid-receptors-cb1-cb2]]
 - [[blesching-cannabis-anandamide]]
-- [[blesching-cannabis-cannabinoid-terpene-entourage-effect]]
 - [[blesching-cannabis-administration-methods]]
-- [[blesching-cannabis-cancer-symptoms]]
 - [[blesching-cannabis-brain-cancer-glioblastoma]]
-- [[blesching-cannabis-breast-cancer]]
 - [[blesching-cannabis-chronic-non-malignant-pain]]
-- [[cannabis-anxiety-research]]
 - [[blesching-cannabis-alzheimers-disease]]
-- [[cannabis-for-epilepsy-and-seizure-disorders]]
 - [[blesching-cannabis-cardiovascular-health]]
-- [[cannabis-anxiety-and-ptsd-treatment]]
 - [[blesching-cannabis-inflammation]]
-- [[blesching-cannabis-addiction-dependence]]
 - [[blesching-cannabis-sleep-disorders]]
-- [[cannabis-and-insomnia]]
 - [[blesching-cannabis-appetite-regulation-ghrelin-leptin]]
-- [[blesching-cannabis-health-index-dosage-guidelines-medical]]
 - [[blesching-cannabis-therapeutic-window-methodology]]
-- [[blesching-cannabis-neuroprotection]]
 - [[blesching-cannabis-immune-system-modulation]]
-- [[blesching-cannabis-multiple-sclerosis]]
 - [[blesching-cannabis-fertility-reproductive-health]]
 
 ## References
@@ -141,9 +117,6 @@ Through CB2 activation in immune cells, THC modulates inflammatory signaling.
    Neuroprotectants." U.S. Department of Health and Human Services, 2003.
 5. McPartland, J.M. et al. (2005). "Cannabimimetic effects of
    beta-caryophyllene." *Proceedings of the National Academy of Sciences*.
-6. GW Pharmaceuticals. Sativex [[psilocybin-clinical-trial-landscape-2020-2025]] data for multiple sclerosis
-   spasticity (2003-2007).
-7. FDA. Epidiolex (cannabidiol) prescribing information. Approved June 2018.
-8. Elders, J. (2004). Statement on cannabis [[cannabis-safety-profile-and-overdose-risk]].
+6. GW Pharmaceuticals. Sativex [[cannabis-safety-profile-and-overdose-risk]].
 9. San Diego dose-response study on THC and capsaicin-induced pain (2009).
 10. Farnborough Hospital study on THC/CBD and sleep (2004).

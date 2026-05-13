@@ -6,41 +6,7 @@ tags:
   - genetics
   - chromosomes
   - ploidy
-  - [[cannabis-sex-determination-floral-biology]]
-date: 2026-04-25
-updated: 2026-04-25
-sources:
-  - "raw/papers/marijuana-horticulture-cervantes.md"
-  - "raw/papers/marijuana-horticulture-cervantes.md"
-type: concept
----
-
-# Cannabis Chromosomes, Sex Determination, and Ploidy
-
-Cannabis has a defined chromosomal structure that governs inheritance,
-sex determination, and the potential for ploidy manipulation. Understanding
-the basics of cannabis chromosomes is fundamental to all breeding work.
-
-## Cannabis Chromosome Number
-
-Cannabis plants are, by nature, diploids with twenty chromosomes. The
-genetic material is coiled into long, X-shaped strands called chromosomes
-and stored in the nucleus of every cell. Each individual inherits 10
-different chromosomes from the staminate pollen parent and 10 different
-chromosomes from the seed mother or pistillate parent.
-
-The resulting individual has 20 chromosomes total: 2 copies of each of
-the 10 chromosomes, or 2 full genomes. This means there are 2 copies of
-every gene in the plant, one from the mother and one from the father.
-Each and every cell in the plant has a copy of this unique DNA complement.
-
-## Genes and Chromosome Location
-
-The genetic code is written along the length of the chromosome strands.
-Each gene has a specific location along its length, called a locus
-(plural: loci). The 2 copies of each chromosome carry the 2 alleles
-that interact to determine the expression of each trait. See
-[[cervantes-feminized-seed-production]]. This is because no Y chromosome
+  - [[cervantes-feminized-seed-production]]. This is because no Y chromosome
 exists in either parent, so no male offspring can be produced.
 
 ## Haploid, Diploid, and Polyploid States
@@ -63,8 +29,7 @@ The polyploid characteristic can be induced with an application of
 colchicine, which disrupts normal cell division. However, colchicine is
 a poison and the technique has never led to agronomic success in
 cannabis. Breeders attempting polyploidy induction have consistently
-been disappointed. See [[cannabis-genetics-and-breeding]] - [[cannabis-breeding-fundamentals]]
-- [[cervantes-ethylene-hormonal-sex-reversal]] - Sex manipulation
+been disappointed. See [[cannabis-breeding-fundamentals]]
 - [[cervantes-sex-determination-pre-flowering]] - Identifying sex
 ## Practical Considerations
 
@@ -114,8 +79,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[det]]
 - [[soma]]
-- [[colchicine]]
 - [[cervantes-sex-determination-pre-flowering]]
 - [[cervantes-ethylene-hormonal-sex-reversal]]

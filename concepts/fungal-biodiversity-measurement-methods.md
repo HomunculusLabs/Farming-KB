@@ -105,20 +105,6 @@ Each method captures a partially overlapping subset of the total fungal communit
 - **Spatial scale:** Appropriate plot size and sampling intensity depend on habitat heterogeneity
 - **Methodological standardization:** Lack of consensus protocols hampers cross-study comparisons
 - **Taxonomic resolution:** Molecular methods may resolve to species, genus, or only higher taxa depending on database completeness
-## Practical Cultivation Notes
-
-Successful cultivation depends on maintaining appropriate environmental conditions throughout the colonization and fruiting phases. Temperature, humidity, and fresh air exchange must be carefully managed to promote healthy mycelial growth and prevent contamination. Substrate selection and preparation are critical factors that directly influence yield and biological efficiency.
-
-## Safety Considerations
-
-Proper identification is essential when foraging wild specimens, as many species have toxic lookalikes. Cultivated varieties offer greater consistency and safety compared to wild-harvested material. Always follow established protocols for handling and processing, particularly when working with species that produce bioactive compounds.
-
-## See Also
-- [[am-fungal-survey-methods]]
-- [[amanita-muscaria-preparation-methods]]
-- [[amanita-preparation-methods]]
-- [[analytical-methods-psilocybin-psilocin-quantification]]
-- [[arbuscular-mycorrhizal-spore-extraction-methods]]
 
 ## See Also
 

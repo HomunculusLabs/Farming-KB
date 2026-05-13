@@ -13,113 +13,113 @@ sources: [raw/papers/shulgin-a-pihkal.md]
 
 ## Chemical Classification
 
-- Family: [[2c-i-compound-profile]] and [[2c-t-2-compound-profile|2C-T-2]] difficult for some people.
+- Family: [[2c-t-2-compound-profile|2C-T-2]] difficult for some people.
 are no particular visuals. The eyes-closed imagery is very good without being
 compelling. The decline is as gradual and gentle as the onset. I am fully
 capable of making phone calls and other normal stuff. Music is marvelous, and
 the body feels comfortable throughout."
 
 (with 14 mg) "Persistent cold feet, and an uncertain stomach when moving
-around. Brilliant color trails reminiscent of [[aleph-7-pihkal-entry-7]].
-Some observers are overwhelmed with colors and visual activity; others
-volunteer their absence. A very wide range of dosages is represented, from
-an estimated 4 or so milligrams for full effects, to something over 20
-milligrams without any loss of control. That is an unusually wide latitude
-of activity, and a rich variety of effects that might be experienced. The
-same wide range of effective dosages was also observed with the corresponding
-Tweetio.
-
-## The 2-EtO Tweetio
-
-2CT4-2ETO (2-ethoxy-5-methoxy-4-(i)-propylthiophenethylamine): There were
-practically no differences between trials at 5 mg increments within the 10
-and 25 mg range. Each produced a gentle plus-two level of effect lasting
-approximately 10 hours. A code name of "tenderness" was felt to be
-appropriate, as there was a peaceful meditative inner receptiveness and
-clarity noted, with an honest connection felt with those present. Sleep was
-not comfortable.
-
-## Nomenclature Warning
-
-2C-T-4 has been referred to as T-4. There is a potent explosive used by
-terrorists called cyclotrimethylenetrinitramine, known by the code name RDX,
-or T-4. There is also a T-4 term that refers to thyroxine, an [[cho-fish-amino-acid-preparation]] in
+around. Brilliant color trails reminiscent of [[cho-fish-amino-acid-preparation]] in
 the body. The drug 2C-T-4 is neither an explosive nor an amino acid.
 
 ## Key Characteristics
 
-- Extremely long duration (12-18 hours) makes planning essential — longer than most [[2c-b-compound-profile]] experiences
-- Unusually wide individual variation in effective dosage
-- Tendency toward extremity numbness/paresthesia at moderate doses
-- Rich visual effects for some, absent for others
-- Gentle onset and gradual decline
-- Cognitive clarity noted by multiple experimenters
-- Dark corners/mood lability possible at higher doses in some individuals, underscoring the importance of [[2c-t-2-compound-profile|2C-T-2]]: The ethylthio homologue; shorter
+- Extremely long duration (12-18 hours) makes planning essential — longer than most [[2c-t-2-compound-profile|2C-T-2]]: The ethylthio homologue; shorter
   duration (6-8 h), more predictable dosing
-- [[2c-d-pihkal-entry-23]]: The methylthio parent; much lower potency
-  (60-100 mg)
-- [[pihkal-introduction-and-methodology]] by [[ann-shulgin|Ann Shulgin]],
-Entry #41
-- [[2c-family-compounds-overview]]
-- [[tryptamine]]
+- [[pihkal-introduction-and-methodology]] by [[2c-family-compounds-overview]]
+- [[2c-t-2-pihkal-entry-40]]
 
-[[2c-t-2-pihkal-entry-40]]
+[[tryptamine]]
+- [[bis-tom-pihkal-entry-12]]
+- [[2c-c-pihkal-entry-22]]
 
-[[phenethylamine-pharmacology]]
-## Practical Considerations
+- [[2c-t-15-entity]]
+- [[2c-t-4-entity-pihkal]]
+- [[2c-t-9-entity]]
+- [[2c-t-entity-pihkal]]
 
-Successful implementation of 2C-T-4 (PIHKAL Entry #41) requires attention to
-several practical factors including environmental conditions,
-resource availability, and timing. Careful monitoring and
-adaptive management help optimize outcomes across varying
-conditions. Integration with other system elements enhances
-overall effectiveness and creates beneficial synergies that
-improve resilience and productivity over time.
+## Overview
 
-## Future Directions
+2C T 4 Pihkal Entry 41 represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
 
-Continued development in this area promises new insights and
-improved approaches for both research and practical application.
-Cross-disciplinary collaboration and advances in analytical
-methods create opportunities for innovation and refinement.
-Recommended resources include current literature, practitioner
-communities, and systematic experimentation to build expertise.
+## Key Characteristics
+
+Several defining characteristics distinguish 2c t 4 pihkal entry 41
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving 2c extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
 
 ## Practical Applications
-2C T 4 Pihkal Entry 41 has significant applications in sustainable agriculture, ecological design, and regenerative practices. Practitioners and researchers continue to explore innovative methods for implementing these concepts in diverse climates and scales of operation.
 
-## Historical Significance
-The development and understanding of 2c t 4 pihkal entry 41 has evolved considerably over recent decades, with contributions from researchers, practitioners, and indigenous knowledge systems worldwide.
+2C T 4 Pihkal Entry 41 finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
 
-## Key Considerations
-Successful implementation of 2c t 4 pihkal entry 41 requires attention to local conditions, climate adaptability, and integration with existing ecological systems. Regular monitoring and adaptive management are essential for optimal results.
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for 2c t 4 pihkal entry 41. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+2c t 4 pihkal entry 41 and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
 
 ## Historical Context
 
-The historical development of this subject reflects centuries of accumulated
-knowledge and practical experience. From traditional methods passed down
-through generations to modern scientific approaches, the evolution continues
-to inform current best practices and research directions.
+2C T 4 Pihkal Entry 41 has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
 
-## Common Challenges
+## Integration Strategies
 
-Practitioners frequently encounter several challenges when working with
-these concepts. Climate variability, resource limitations, and knowledge
-gaps can all affect outcomes. Addressing these challenges requires patience,
-observation, and a willingness to adapt approaches based on results.
+Successful integration of 2c t 4 pihkal entry 41 into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
 
 ## See Also
-- [[tryptamine]]
-- [[ann-shulgin]]
-- [[bis-tom-pihkal-entry-12]]
-- [[pihkal-entry-46]]
-- [[2c-c-pihkal-entry-22]]
 
-- [[2c-t-13-entity-pihkal]]
-- [[2c-t-15-entity]]
-- [[2c-t-15-entity-pihkal]]
-- [[2c-t-4-entity-pihkal]]
-- [[2c-t-8-entity]]
-- [[2c-t-9-entity]]
-- [[2c-t-9-entity-pihkal]]
-- [[2c-t-entity-pihkal]]
+- [[4-t-tris-entity-pihkal]]
+- [[doc-pihkal-64]]
+- [[dopr-entity-pihkal]]
+- [[methyl-dob-entity-pihkal]]
+- [[te-entity-pihkal]]

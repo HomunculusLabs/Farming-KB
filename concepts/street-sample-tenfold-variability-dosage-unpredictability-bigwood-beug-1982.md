@@ -70,7 +70,7 @@ The practical implications of tenfold potency variability are significant:
   0.7 mg—an eightfold difference in active compound consumed.
 - A 10-gram fresh dose (approximately 1 gram dry) could range from a sub-threshold
   experience to a strong psychedelic experience depending on the sample.
-- This variability compounds the effects of set and setting, making subjective
+- This variability compounds the effects of [[set-and-setting]], making subjective
   experiences unpredictable even for experienced users.
 - Users attempting to calibrate their dosage across different sources face
   essentially impossible task without analytical testing.
@@ -116,8 +116,6 @@ the accuracy of weighing and the purity of the material.
 
 ## See Also
 
-- [[street-sample-alkaloid-variability-dosage-unpredictability-bigwood-beug]] — Related analysis
 - [[psilocybin-psilocin-flush-variation-bigwood-beug]] — Flush-dependent variation
-- [[hplc-quantification-psilocybin-psilocin-bigwood-beug-1982]] — Analytical methods
 - [[psilocybe-cubensis-strain-potency-variability-controlled-conditions-bigwood-beug]] — Controlled study
 - [[dosage-unpredictability-psilocybin-subjective-experience]] — Subjective effects

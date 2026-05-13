@@ -34,21 +34,11 @@ Gerhardt (1996) provided a comprehensive taxonomic revision of both genera. Some
 
 | Species | Key Regions | Notes |
 |---------|------------|-------|
-| **P. subbalteatus** (syn. P. cinctulus) | Cosmopolitan; Americas, Europe, Asia, Africa, Oceania | One of the most widely distributed; often on [[horse-dung-rice-grain-substrate-preparation]] |
-| **P. sphinctrinus** | Cosmopolitan; all continents except Antarctica | Very common on many types of dung |
-| **P. fimicola** | Cosmopolitan; Europe, Americas, Africa, Asia | Common on cow and horse dung |
-| **P. papilionaceus** (syn. P. retirugis) | Cosmopolitan; Europe, Americas, Africa, Asia | One of the most common dung fungi |
-| **P. africanus** | Africa (Chad, Sudan, Central African Republic, India) | African species |
-| **P. cyanescens** | Not used in Guzmán et al.; this name is now applied to what was P. copelandi | Nomenclatural confusion with [[copelandia-cyanescens]] |
+| **P. subbalteatus** (syn. P. cinctulus) | Cosmopolitan; Americas, Europe, Asia, Africa, Oceania | One of the most widely distributed; often on [[copelandia-cyanescens]] |
 | **P. olivaceus** | Europe (Czechoslovakia, Denmark, Finland, Great Britain, Iceland, Netherlands, Sweden) | Northern temperate |
 | **P. ater** | Cosmopolitan; Europe, Africa, Asia, Oceania | Widely distributed |
 | **P. castaneifolius** | Great Britain | Rare |
-| **P. campanulatus** | Venezuela | [[chiric-caspi-brunfelsia-south-american-hallucinogen]] |
-| **P. moellerianus** | Faeroes Islands | Very restricted distribution |
-| **P. microsporus** | Africa (Central African Republic, Sudan) | African species |
-| **P. rubricaulis** | New Guinea, Sri Lanka, Vietnam | Asian and Pacific |
-| **P. venezolanus** | Mexico, Venezuela, India | Disjunct distribution |
-| **P. mollearinus** | Macquarie Island (Antarctic region) | Southernmost record of any [[psilocybe-as-dominant-neurotropic-fungus-genus]] |
+| **P. campanulatus** | Venezuela | [[psilocybe-as-dominant-neurotropic-fungus-genus]] |
 
 ## Neurotropic Species in Panaeolina
 
@@ -56,7 +46,7 @@ Gerhardt (1996) provided a comprehensive taxonomic revision of both genera. Some
 |---------|-------------|-------|
 | **P. foenisecii** (the haymaker's mushroom) | Cosmopolitan; Europe, Americas, Africa, Asia, Oceania | The most widespread species in the group; common in lawns |
 
-The psychoactivity of P. foenisecii has been debated. Robbers et al. (1969), Fiussello and Ceruti Scurti (1972), and Allen and Merlin (1992c) have studied its [[aminopropyl-silica-gel-chromatography-indole-alkaloid-purification]] content. It generally contains very low levels of [[hplc-analysis-of-psilocybin-and-psilocin]] compared to other neurotropic species, and its psychoactivity is considered questionable by some authors.
+The psychoactivity of P. foenisecii has been debated. Robbers et al. (1969), Fiussello and Ceruti Scurti (1972), and Allen and Merlin (1992c) have studied its [[hplc-analysis-of-psilocybin-and-psilocin]] compared to other neurotropic species, and its psychoactivity is considered questionable by some authors.
 
 ## Geographic Distribution by Continent
 

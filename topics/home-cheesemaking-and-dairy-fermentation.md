@@ -47,34 +47,7 @@ The central principle is controlled transformation. Milk contains water, fat,
 casein proteins, whey proteins, lactose, minerals, enzymes, and a microbial
 population shaped by the animal, the milking routine, and subsequent handling.
 Cheesemaking concentrates the casein and fat into curd while removing whey.
-Fermentation uses lactic [[lactic-acid-bacteria-knf]], yeasts, molds, or mixed cultures to
-acidify, flavor, thicken, preserve, or ripen milk. Butter making separates fat
-from buttermilk, while yogurt and kefir keep more of the milk volume intact.
-
-At home scale these practices range from very simple to highly technical. A
-fresh acid-set cheese may require only milk, heat, vinegar, cloth, and a pot.
-Fresh goat cheese, yogurt, and kefir add starter cultures and temperature
-control. Pressed and aged cheeses require careful curd handling, salting,
-pressing, rind management, humidity, and months of aging. The same household
-may therefore use both folk techniques and laboratory-like sanitation.
-
-The best results depend less on expensive equipment than on milk quality,
-cleanliness, and consistency. Clean milking, rapid cooling, accurate
-thermometers, non-reactive vessels, and appropriate cultures are recurring
-requirements. Homestead sources emphasize that off-flavors, weak curds, and
-spoilage usually begin before the recipe starts: with unhealthy animals,
-unclean equipment, old milk, ultra-pasteurized milk, poor chilling, or feed
-that taints the flavor.
-
-Modern home dairy work also has an ecological and economic role. Small-scale
-producers can match breeds, forage, and processing methods to local conditions,
-turn whey into animal feed or fermenting liquid, compost manure, and integrate
-dairy animals with pasture, orchard, and garden systems. Interest in probiotic
-foods, resilient household food systems, and regional food traditions has kept
-home cheesemaking and dairy fermentation relevant despite industrial dairy's
-large scale.
-## Historical background
-[[query-how-do-i-start-making-fermented-dairy-at-home]] is among the oldest forms of milk preservation. Before
+Fermentation uses lactic [[query-how-do-i-start-making-fermented-dairy-at-home]] is among the oldest forms of milk preservation. Before
 mechanical refrigeration, fresh milk spoiled quickly in warm conditions. Human
 communities learned that souring, salting, draining, pressing, drying, and
 ripening could convert a daily surplus into foods that lasted days, weeks, or
@@ -126,18 +99,10 @@ Sheep milk is lower in volume but high in solids, making it excellent for
 cheese. In household systems it is less common because specialized breeds,
 small teats, and milking equipment can make management more demanding. The
 ## See Also
-- [[cheese-making-basics]]
 - [[dairy-and-cheesemaking]]
-- [[goat-cheese-making]]
 - [[homestead-dairy-equipment]]
-- [[homestead-dairy-guide]]
-- kefir making
 - [[small-scale-dairy-guide]]
-- [[food-fermentation-guide]]
 - [[raw-milk-guide]]
-- [[goat-keeping]]
-## References
 - [[cheese-making-basics]]
-- [[dairy-and-cheesemaking]]
 - [[faires-dairy-processing-cheese-and-butter]]
 - faires-yogurt-and-sourdough-making

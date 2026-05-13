@@ -7,7 +7,7 @@ created: 2026-05-11
 
 # Energy Descent and Permaculture
 
-David Holmgren's energy descent framework positions permaculture as a design
+[[david-holmgren]]'s energy descent framework positions permaculture as a design
 response to the inevitable decline in fossil fuel availability and the
 resulting transformation of industrial society. This framework, developed
 extensively in "Permaculture: Principles & Pathways Beyond Sustainability,"
@@ -130,8 +130,6 @@ design principles can guide a creative, empowering transition rather than a
 chaotic collapse.
 
 ## See Also
-- [[energy-descent-permaculture-response]]
 - [[holmgren-energy-descent-permaculture-flower]]
-- [[permaculture-energy-descent-planning]]
 - [[holmgren-voluntary-frugality-energy-descent-prosperous-road-down]]
 - [[holmgren-transport-speed-and-energy-descent]]

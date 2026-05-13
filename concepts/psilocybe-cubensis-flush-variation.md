@@ -13,17 +13,13 @@ tags:
   - hplc
 ---
 
-# [[psilocybin]] and [[mycelium]] may rest before producing another flush. Bigwood & Beug
+# [[mycelium]] may rest before producing another flush. Bigwood & Beug
 studied up to six flushes from three independent minicultures of the **Amazon
 strain** of *Psilocybe cubensis* (originally collected in Pucallpa, Peru).
 
 The key finding was that **psilocybin and psilocin do not follow the same
 pattern** across flushes. Their accumulation dynamics are independent, suggesting
-different biosynthetic regulation or [[staycare-chlorophenol-degradation-pathways-white-rot-fungi]] for each compound.
-
-## Psilocin: Strong Flush-Dependent Pattern
-
-Psilocin exhibits a clear and reproducible [[psilocin-accumulation-pattern-across-flushes]] successive flushes:
+different biosynthetic regulation or [[psilocin-accumulation-pattern-across-flushes]] successive flushes:
 
 ### Flushes 1–2: Absent or Near-Zero
 

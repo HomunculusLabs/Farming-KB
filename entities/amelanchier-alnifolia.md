@@ -30,14 +30,8 @@ sources:
 
 **Amelanchier alnifolia**, commonly known as saskatoon berry, western serviceberry,
 or juneberry, is a deciduous shrub in the rose family (Rosaceae). Native to western
-and central [[psilocybin-north-america-pacific-northwest]], it produces purple-black berries prized for their
-nutty-sweet flavor and exceptional nutritional content.
-
-The species occupies a unique ecological niche, thriving on the prairies, parklands,
-and boreal forest margins where few other [[serviceberry-and-native-fruiting-shrubs]] succeed. It is cold-hardy
-to USDA Zone 2, making it one of the most cold-tolerant [[uncommon-specialty-fruit-crops-for-permaculture]] available.
-
-In permaculture and [[backyard-food-forest-design]], *A. alnifolia* is valued as a productive,
+and central [[serviceberry-and-native-fruiting-shrubs]] succeed. It is cold-hardy
+to USDA Zone 2, making it one of the most cold-tolerant [[backyard-food-forest-design]], *A. alnifolia* is valued as a productive,
 low-maintenance fruiting shrub that supports pollinators, provides [[hemenway-backyard-wildlife-habitat]],
 and produces nutrient-dense fruit with minimal input.
 

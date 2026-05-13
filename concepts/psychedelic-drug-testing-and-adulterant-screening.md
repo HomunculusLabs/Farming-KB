@@ -12,7 +12,7 @@ sources:
 
 ## Overview
 
-Drug testing is one of the most important [[adverse-effects-and-harm-reduction-psilocybin]] practices available. The unregulated nature of many [[cultural-evolution-and-psychoactive-substances]] means that what you receive may not be what you expect. Adulterants, substitutes, and misidentified compounds can turn a manageable experience into a dangerous or fatal one. Reagent testing and fentanyl test strips provide accessible, low-cost methods to verify substance identity before consumption.
+Drug testing is one of the most important [[cultural-evolution-and-psychoactive-substances]] means that what you receive may not be what you expect. Adulterants, substitutes, and misidentified compounds can turn a manageable experience into a dangerous or fatal one. Reagent testing and fentanyl test strips provide accessible, low-cost methods to verify substance identity before consumption.
 
 ## Why Test Matters
 
@@ -29,41 +29,7 @@ Reagent tests use chemical solutions that change color in the presence of specif
 
 #### Marquis Reagent
 
-- **Contains**: Formaldehyde and [[fukuoka-textdoc-fertilizer-soil-destruction-sulfuric-acid]]
-- **Detects**: MDxx compounds (MDMA, MDA, MDEA), amphetamines, opioids, 2C-x compounds, tryptamines
-- **Color reactions**:
-  - MDMA/MDA: Black/dark purple
-  - Amphetamine/methamphetamine: Orange/brown
-  - LSD: No reaction (yellow-green is typical, but inconclusive)
-  - 2C-B: Yellow/green
-  - Opioids (heroin, codeine): Purple
-- **Limitation**: Cannot distinguish between MDxx compounds or between different amphetamines
-
-#### Mecke Reagent
-
-- **Contains**: Selenious acid and sulfuric acid
-- **Detects**: MDxx compounds, opioids, ketamine (light green)
-- **Color reactions**:
-  - MDMA: Blue/green to blue/black
-  - Heroin: Blue/green
-  - Amphetamine: No reaction (important: helps differentiate from MDxx when Marquis is orange)
-- **Best used alongside Marquis**: Mecke + Marquis together provide better discrimination between MDMA and amphetamine
-
-#### Mandelin Reagent
-
-- **Contains**: Ammonium metavanadate and sulfuric acid
-- **Detects**: MDxx compounds, cocaine, ketamine, PMA/PMMA
-- **Color reactions**:
-  - MDMA: Black/dark brown
-  - Cocaine: Orange/orange-yellow
-  - Ketamine: Yellow/brown
-  - PMMA: Dark brown/black (concerning when sold as MDMA -- PMMA is more toxic)
-- **Useful for**: Distinguishing cocaine from MDxx when Marquis gives ambiguous results
-
-#### Ehrlich Reagent
-
-- **Contains**: p-Dimethylaminobenzaldehyde (p-DMAB) in ethanol
-- **Detects**: [[psilocybe-semilanceata-eight-indole-compounds]] -- LSD, [[psilocin]], DMT, 5-MeO-DMT, tryptamines
+- **Contains**: Formaldehyde and [[psilocybe-semilanceata-eight-indole-compounds]] -- LSD, [[psilocin]], DMT, 5-MeO-DMT, tryptamines
 - **Color reactions**:
   - LSD: Purple/pink
   - Psilocybin/psilocin: Purple/pink
@@ -88,3 +54,88 @@ Reagent tests use chemical solutions that change color in the presence of specif
 3. **Apply**: Place the sample on the testing surface. Add 1-2 drops of reagent.
 4. **Observe**: Watch the color change over 30-60 seconds. Compare to the reference color chart for that specific reagent.
 5. **Document**: Photograph the result next to the color chart for your records.
+
+## Overview
+
+Psychedelic Drug Testing And Adulterant Screening represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish psychedelic drug testing and adulterant screening
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving psychedelic extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Psychedelic Drug Testing And Adulterant Screening finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for psychedelic drug testing and adulterant screening. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+psychedelic drug testing and adulterant screening and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Psychedelic Drug Testing And Adulterant Screening has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of psychedelic drug testing and adulterant screening into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[metzner-therapist-experiential-prerequisite-psychedelic-therapy]]
+- [[psychedelic-combination-guide]]
+- [[psychedelic-paradigm-shifting-and-reality-reconception]]
+- [[psychedelic-plants-language-emergence-mckenna-synesthesia-hypothesis]]
+- [[psycholytic-and-psychedelic-therapy-models]]

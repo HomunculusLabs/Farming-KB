@@ -19,13 +19,7 @@ Conventional farming treats weeds as competitors that must be completely elimina
 - Expensive herbicide purchases
 - Soil degradation from chemical exposure
 - Loss of soil microbial diversity
-- Removal of potential [[hamilton-composting-and-organic-matter-management]] that could build soil
-
-The irony: farmers spend money killing wild grass, then spend more money buying fertilizer to replace what the wild grass would have provided for free.
-
-## Wild Grass as Fertilizer
-
-Wild grass and crops are "the same plants." Wild grass has a nutrient composition similar to crops, making it an excellent base and additional fertilizer. Wild grass JADAM [[jadam-liquid-fertilizer-nutritional-perspective]] (JLF) is the primary additional fertilizer in the JADAM system.
+- Removal of potential [[jadam-liquid-fertilizer-nutritional-perspective]] (JLF) is the primary additional fertilizer in the JADAM system.
 
 The nitrogen content of various JLF materials shows the range:
 - Wild grass: 0.01% nitrogen
@@ -38,33 +32,7 @@ The nitrogen content of various JLF materials shows the range:
 - Raw anchovy: 5.08%
 - Fish meal: 7.44%
 
-Wild grass may be lower in nitrogen than other inputs, but it provides the complete [[jadam-nutritional-balance-fertilizer]] that crops need, including trace minerals and microbial food sources.
-
-## Cover Crops as the Ideal
-
-JADAM recommends growing cover crops intentionally rather than leaving fields fallow. Cover crops:
-- Supply 100% of base fertilizer needs (if managed properly)
-- Prevent soil erosion
-- Maintain soil microbial activity between cash crops
-- Suppress problematic weeds through competition
-- Add organic matter to soil when terminated
-
-Rice bran, perilla pulp, and oil cakes are "partial body fertilizers" -- parts of a whole body. They should be limited to 1/10 of total fertilizer. Wild grass and cover crops provide whole-plant nutrition.
-
-## Practical Wild Grass Management
-
-### In Crop Rows
-Some wild grass can coexist with crops. The JADAM approach does not demand total eradication of weeds, especially in early growth stages. Selective management rather than blanket elimination saves labor and preserves soil biology.
-
-### For Making JLF
-Collect wild grass from field edges, roadsides, and fallow areas. Cut into pieces, place in container with water (10x weight), add leaf mold, and ferment for 3+ months. The resulting JLF is the main additional fertilizer throughout the growing season.
-
-### Soil Surface Management
-Leaving some plant cover on soil surface:
-- Reduces moisture evaporation
-- Moderates soil temperature
-- Prevents compaction from rain impact
-- Provides [[query-how-do-i-design-habitat-for-beneficial-insects]] microorganisms
+Wild grass may be lower in nitrogen than other inputs, but it provides the complete [[query-how-do-i-design-habitat-for-beneficial-insects]] microorganisms
 - Eventually decomposes and feeds soil
 
 ## The Complementary Relationship
@@ -74,19 +42,7 @@ Soil that is rich and biologically active naturally suppresses problematic weeds
 ## The Cost Equation
 
 Wild grass is free. The only cost to convert it into fertilizer is water and a container (essentially free). Compare this to:
-- Commercial [[complete-organic-fertilizer-cof-recipe-solomon]]: expensive, imported
-- Chemical fertilizer: expensive, soil-degrading
-- Herbicide to kill grass: expensive, then you must buy fertilizer to replace it
-
-JADAM's wild grass coexistence turns a "problem" (weeds) into a "solution" (free fertilizer).
-
-## The GC-JLF Concept
-
-Grass-Crop JADAM Liquid Fertilizer (GC-JLF) combines wild grass and crop residues in a single fermentation. This is the primary additional fertilizer in JADAM's nutritional balance approach. By using what grows naturally on and near the farm, farmers achieve complete nutritional balance without purchasing anything.
-
-## Traditional Wisdom
-
-Korean farmers for thousands of years understood the value of wild plants. They used every available organic matter. The modern practice of sterilizing fields of all non-crop plants is an imported industrial approach that destroys the [[fukuoka-natural-fertility-cycle]] cycle.
+- Commercial [[fukuoka-natural-fertility-cycle]] cycle.
 
 ## Practical Applications
 
@@ -117,8 +73,78 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[jadam-liquid-fertilizer]]
 - [[dom]]
-- [[composting]]
 - [[cover-crops]]
 - [[cover-crop]]
+
+## Overview
+
+Jadam Coexisting With Wild Grass represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish jadam coexisting with wild grass
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving jadam extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Jadam Coexisting With Wild Grass finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for jadam coexisting with wild grass. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+jadam coexisting with wild grass and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Jadam Coexisting With Wild Grass has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of jadam coexisting with wild grass into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions

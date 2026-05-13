@@ -2,9 +2,7 @@
 
 ## Overview
 
-In his 1983 Esalen lecture, Terence McKenna proposed a speculative but detailed hypothesis for the [[spore-interstellar-dispersal-hypothesis]] of fungal spores, with particular attention to Stropharia cubensis (Psilocybe cubensis).
-
-Drawing on the physical properties of basidiospores, principles of [[statistical-mechanics]], and the geological record of fungal evolution, McKenna argued that psilocybin-containing mushrooms may have originated beyond Earth and arrived through a natural process of interstellar percolation.
+In his 1983 Esalen lecture, Terence McKenna proposed a speculative but detailed hypothesis for the [[statistical-mechanics]], and the geological record of fungal evolution, McKenna argued that psilocybin-containing mushrooms may have originated beyond Earth and arrived through a natural process of interstellar percolation.
 
 This hypothesis represents a distinctive contribution to panspermia theory, one grounded in the specific biology of psychoactive fungi rather than general arguments about microbial survivability.
 
@@ -22,7 +20,7 @@ Francis Crick and Leslie Orgel proposed "directed panspermia" in 1973, suggestin
 
 McKenna's version of panspermia differs from these predecessors in its specificity.
 
-Rather than arguing for generic microbial dispersal, he focused on the physical properties of a particular organism — the spore of Stropharia cubensis — and marshaled specific evidence for its capacity to survive interstellar transit.
+Rather than arguing for generic microbial dispersal, he focused on the physical properties of a particular organism — the spore of [[stropharia-cubensis]] — and marshaled specific evidence for its capacity to survive interstellar transit.
 
 The hypothesis was not presented as established science but as a provocative possibility consistent with known data, one that challenged the assumption that psychoactive fungi are merely products of terrestrial evolution.
 
@@ -36,9 +34,7 @@ This coloration is not incidental: in the harsh radiation environment of interst
 
 Beyond their pigmentation, Stropharia cubensis spores possess one of the hardest organic casings known in biology.
 
-McKenna noted that the [[mckenna-fungal-fossil-gap-spore-electron-density-and-metal-hardness]] of the spore wall approaches that of metal, giving it extraordinary resistance to mechanical stress, desiccation, and radiation damage.
-
-This electron density is consistent with the presence of highly cross-linked melanin-like polymers in the spore wall, a feature observed in many fungal spores and known to confer [[bacillus-pumilus-radiation-resistance-surface-decontamination]].
+McKenna noted that the [[bacillus-pumilus-radiation-resistance-surface-decontamination]].
 
 The melanized cell walls of certain fungi, notably those found growing in the cooling pools of the Chernobyl nuclear reactor, have been shown to absorb ionizing radiation and convert it to chemical energy, suggesting that fungal spores may possess unexpectedly robust defenses against the radiation environment of space.
 
@@ -98,29 +94,7 @@ The question of whether a fungal spore could survive 100 million years of inters
 
 Interstellar space presents formidable challenges: temperatures near absolute zero, hard vacuum, intense ionizing radiation, and the absence of nutrients or metabolic substrates.
 
-Fungal spores are known for their exceptional longevity and resilience — viable spores have been recovered from decades-old [[herbarium-specimens-fungal-collections]] and from permafrost deposits thousands of years old — but 100 million years stretches far beyond any demonstrated survival window.
-
-McKenna acknowledged this uncertainty but noted several mitigating factors.
-
-The hard, melanized spore wall provides radiation shielding.
-
-The deep purple pigmentation absorbs UV radiation that would otherwise damage nucleic acids.
-
-At near-zero temperatures, metabolic processes effectively cease, and the rate of spontaneous molecular degradation (base hydrolysis, deamination, oxidation) drops to negligible levels.
-
-A spore in the interstellar void, protected by its casing and maintained at cryogenic temperatures by the cosmic microwave background, might persist in a state of suspended animation for far longer than any laboratory experiment has tested.
-
-## Criticism and Assessment
-
-The interstellar spore percolation theory has not been widely adopted within the scientific community.
-
-Critics note that the escape probability from a planetary atmosphere for particles of spore size is vanishingly small, that the radiation dose accumulated over 100 million years of interstellar transit would likely exceed any known DNA repair capacity, and that the absence of ancient fungal fossils is more parsimoniously explained by the poor preservation potential of fungal tissue than by an extraterrestrial origin.
-
-The hypothesis is, by McKenna's own acknowledgment, speculative and difficult to test empirically.
-
-Nevertheless, the theory remains a compelling example of the kind of boundary-pushing thinking that characterized McKenna's approach to mycology and consciousness studies.
-
-By connecting the specific biology of psychoactive fungi to fundamental questions about the origin and distribution of life in the cosmos, McKenna elevated the discussion of [[amanita-muscaria-legal-alternative-psilocybin-mushrooms-europe]] from ethnobotanical curiosity to a subject of genuine cosmological significance.
+Fungal spores are known for their exceptional longevity and resilience — viable spores have been recovered from decades-old [[amanita-muscaria-legal-alternative-psilocybin-mushrooms-europe]] from ethnobotanical curiosity to a subject of genuine cosmological significance.
 
 ## See Also
 

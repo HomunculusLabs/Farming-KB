@@ -14,28 +14,16 @@ type: concept
 
 The ceremonial and shamanic use of psychoactive mushrooms represents one of
 humanity's oldest and most profound relationships with the fungal kingdom.
-From Siberian fly [[amanita-muscaria]]) rituals to the ongoing velada
-ceremonies of the Mazatec people in Mexico, [[cattle-dispersal-psychoactive-fungi-australia]] have served as
+From Siberian fly [[cattle-dispersal-psychoactive-fungi-australia]] have served as
 sacred sacraments enabling shamans to access spiritual dimensions, heal the
 sick, and gain transcendental knowledge for their communities. The study of
 these practices, known as ethnomycology, was largely pioneered by Robert
 Gordon Wasson, whose three-decade investigation culminated in his famous 1957
-Life magazine article revealing the sacred [[gartz-wasson-mexican-mushroom-cult-rediscovery]] to the Western
-world.
-
-The ceremonial context fundamentally distinguishes shamanic mushroom use from
-recreational consumption. Within traditional cultures, mushrooms are approached
-with reverence, employed within structured ritual frameworks, and guided by
-experienced practitioners who mediate between the human and spiritual realms.
-As Powell (2011) observes, "to this day, aboriginal shamans in places like
-Amazonia and Mexico still utilise the powerful effects of indigenous
-entheogenic plants and fungi in order to fulfil their [[metzner-shamanic-healing-and-divination-paradigm]] role."
+Life magazine article revealing the sacred [[metzner-shamanic-healing-and-divination-paradigm]] role."
 
 ## Key Concepts
 
-### [[medicinal-mushrooms-biological-response-modifiers]]
-
-- [[harner-cross-cultural-patterns-shamanic-plant-use]]
+### [[harner-cross-cultural-patterns-shamanic-plant-use]]
 ## Practical Applications
 
 Ceremonial and Shamanic Use of Psychoactive Mushrooms has a range of practical applications that make it relevant to
@@ -97,8 +85,6 @@ through generations to modern scientific approaches, the evolution continues
 to inform current best practices and research directions.
 
 ## See Also
-- [[doc]]
 - [[dom]]
-- [[det]]
 - [[mazatec-people]]
 - [[amanita]]

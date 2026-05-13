@@ -20,8 +20,7 @@ type: concept
 
 # The Eleusinian Mystery and the Psychedelic Sacrament
 
-The [[eleusinian-mysteries]] were the most important religious initiation rites of ancient Greece, celebrated
-annually at Eleusis near Athens for nearly two thousand years. As [[terence-mckenna]] argues in *Food of the
+The [[terence-mckenna]] argues in *Food of the
 Gods*, these mysteries likely involved the consumption of a psychoactive sacrament, making them one of the
 longest-running psychedelic ceremonies in Western history and a crucial link between prehistoric mushroom
 cults and classical civilization.
@@ -52,11 +51,7 @@ penalty for revealing what occurred in the Telesterion was death.
 ## The Kykeon and Its Psychoactive Properties
 
 Central to the initiation rite was the consumption of the kykeon, a barley-based drink. McKenna and other
-scholars, including R. Gordon Wasson, [[albert-hofmann]], and Carl Ruck, proposed in their 1978 work *The Road to
-Eleusis* that the kykeon contained an ergot-derived psychedelic compound, most likely lysergic acid amide
-(LSA) or a related ergoline alkaloid.
-
-Ergot ([[claviceps-purpurea]]) is a fungus that infects cereal grasses, particularly barley, rye, and wheat,
+scholars, including R. Gordon Wasson, [[claviceps-purpurea]]) is a fungus that infects cereal grasses, particularly barley, rye, and wheat,
 forming dark purple or black sclerotia in place of normal grain kernels. While some strains produce dangerous
 alkaloids associated with ergotism, the dreaded "St. Anthony's Fire" of the Middle Ages, other strains contain
 psychoactive ergolines closely related to LSD. The priestly custodians of the Mysteries, the Eumolpidae and
@@ -71,7 +66,7 @@ and the barley component provides the most plausible vehicle for an ergot prepar
 
 ## The Wasson-Hofmann-Ruck Hypothesis
 
-Albert Hofmann, the Swiss chemist who discovered LSD in 1943, identified psychoactive ergoline alkaloids in
+[[albert-hofmann]], the Swiss chemist who discovered LSD in 1943, identified psychoactive ergoline alkaloids in
 the sclerotia of a specific ergot fungus ([[claviceps-paspali]]) that grows on wild grasses in the Mediterranean
 region. This finding was crucial because it demonstrated that a naturally occurring ergot species in the Greek
 environment contained compounds capable of producing psychedelic effects. The combination of Wasson's

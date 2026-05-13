@@ -2,7 +2,7 @@
 title: Advanced Grow Room Design
 created: 2026-04-26
 sources: Marijuana Horticulture (Cervantes)
-synonyms: [[cervantes-perpetual-harvest-cycle]], multi-room setup, grow room layout, light movers
+synonyms: cervantes-perpetual-harvest-cycle, multi-room setup, grow room layout, light movers
 type: concept
 tags: [cannabis, design]
 updated: 2026-04-26
@@ -42,48 +42,7 @@ Watch for: stretched or leggy plants, weak or yellowing plants, foliage burned d
 
 Using several 400 or 600-watt lamps instead of 1000-watt lamps provides better light distribution. Operating costs for three 600-watt HPS lamps are lower than for two 1000-watt HPS lamps. The 600-watt lamps produce more lumens per dollar and can be positioned closer to plants. Three point sources of light also even out distribution across the canopy.
 
-Shelves around the perimeter of the grow room can hold small plants. Adding [[coleman-greenhouse-tomato-vertical-growing]] space maximizes the total number of plants that receive quality light. Manually rotating plants regularly ensures even light exposure on all sides.
-
-## Reflective Surfaces
-
-Flat white paint contains little or no light-absorbing pigment and reflects almost all light. Matte texture provides more reflective surface than glossy finishes. Foylon reflects about 95 percent of light and heat in an evenly dispersed pattern, is durable, heat and flame resistant. Reflective Mylar provides one of the most reflective surfaces possible and is installed by simply tacking or taping to walls.
-
-## Environmental Separation
-
-Each room should have independent control of temperature, humidity, and CO2 enrichment. Flowering rooms benefit from slightly lower humidity (40-50%) than vegetative rooms (50-70%). Temperature should remain between 70-85°F (21-29°C) in all rooms, with a 10°F difference between day and night temperatures if possible.
-
-Air filtration systems should be sized independently for each room. Carbon filters in flowering rooms control odor during the most pungent phase. Ballasts should be stored in separate areas to reduce heat in the growing space.
-
-## Air Conditioning and Climate Control
-
-[[hamilton-greenhouse-heating-and-temperature-control]] is one of the most critical and challenging aspects of advanced grow room design. High-intensity discharge (HID) lighting generates enormous heat loads -- a single 1000-watt HPS lamp produces approximately 3,400 BTU of heat per hour, equivalent to a small space heater. In a flowering room with four 1000-watt lamps, the heat load exceeds 13,600 BTU per hour, requiring substantial cooling capacity to maintain the optimal 70-85°F (21-29°C) [[query-what-is-the-ideal-temperature-range-for-growing-cannabis]].
-
-### Split Systems and Mini-Splits
-
-Ductless mini-split air conditioning systems are the gold standard for grow room climate control. These systems consist of an outdoor compressor/condenser unit connected to one or more indoor air handler units via refrigerant lines. Mini-splits offer several key advantages for grow rooms:
-
-- **Precise temperature control**: Digital thermostats allow temperature setpoints accurate to within 1°F, essential for maintaining consistent growing conditions.
-- **Quiet operation**: The compressor is located outdoors, so the only indoor noise is the air handler's fan, which is far quieter than window units or portable ACs.
-- **No ductwork required**: Mini-splits deliver conditioned air directly into the grow room without the need for duct runs, simplifying installation and reducing the risk of air leaks.
-- **Multi-zone capability**: A single outdoor unit can support up to four indoor air handlers, allowing independent climate control for vegetative and flowering rooms from one system.
-- **Heating capability**: Many mini-splits include a heat pump function, providing both cooling and heating from the same unit, which is useful for maintaining temperatures during cold months.
-
-Proper sizing of the mini-split system is essential. A common rule of thumb is to provide 1 ton (12,000 BTU) of cooling capacity for every 1,000 watts of HID lighting, plus an additional allowance for ambient heat, equipment heat (ballasts, pumps), and heat from the plants themselves. Undersized units will run continuously without reaching setpoint, while oversized units will short-cycle and fail to dehumidify the air adequately.
-
-### Portable Air Conditioning Units
-
-Portable air conditioners are a lower-cost option suitable for small grow rooms or cabinet setups. These self-contained units vent hot exhaust air through a window hose or into an adjacent space. While convenient and easy to install, portable ACs have significant limitations:
-
-- **Lower efficiency**: Portable units typically have lower SEER (Seasonal Energy Efficiency Ratio) ratings than mini-splits, consuming more electricity per BTU of cooling.
-- **Noise**: The compressor is housed inside the unit, making portable ACs considerably louder than split systems.
-- **Negative pressure concerns**: Single-hose portable units exhaust room air to the outside, creating negative pressure that can pull unfiltered air (and pests, mold spores, and pathogens) into the grow room through any available crack or gap. Dual-hose models mitigate this by using one hose for intake and one for exhaust.
-- **Limited capacity**: Most portable units max out at 12,000-14,000 BTU, limiting their use to rooms with 1,000 watts of lighting or fewer.
-
-Despite these limitations, portable ACs remain popular for stealth and closet grows where permanent installation of a split system is impractical. When using portable ACs, growers should ensure that the room is well-sealed, that CO2 supplementation accounts for the air being exhausted, and that the unit's condensate drain is properly managed to prevent humidity issues.
-
-### Supplemental Dehumidification
-
-Air conditioning alone is often insufficient to control humidity in a densely planted grow room. Cannabis plants transpire heavily, releasing moisture into the air through their leaves. During the [[cannabis-flowering-stage]], when large buds are developing, transpiration rates can be extremely high, pushing relative humidity above the safe threshold of 40-50%. Dedicated dehumidifiers with built-in humidistats are typically required to supplement the AC system. The dehumidifier should be sized based on the number of plants, their growth stage, and the room's air exchange rate.
+Shelves around the perimeter of the grow room can hold small plants. Adding [[hamilton-greenhouse-heating-and-temperature-control]] is one of the most critical and challenging aspects of advanced grow room design. High-intensity discharge (HID) lighting generates enormous heat loads -- a single 1000-watt HPS lamp produces approximately 3,400 BTU of heat per hour, equivalent to a small space heater. In a flowering room with four 1000-watt lamps, the heat load exceeds 13,600 BTU per hour, requiring substantial cooling capacity to maintain the optimal 70-85°F (21-29°C) [[cannabis-flowering-stage]], when large buds are developing, transpiration rates can be extremely high, pushing relative humidity above the safe threshold of 40-50%. Dedicated dehumidifiers with built-in humidistats are typically required to supplement the AC system. The dehumidifier should be sized based on the number of plants, their growth stage, and the room's air exchange rate.
 
 ## Electrical Planning and Safety
 
@@ -118,8 +77,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[spore]]
 - [[mushroom-grow-room-design]]
-- [[cervantes-reflective-materials-grow-room-walls]]
 - [[cervantes-grow-room-security-law-enforcement]]
 - [[cervantes-indoor-grow-room-setup]]

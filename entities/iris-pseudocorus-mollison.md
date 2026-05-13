@@ -25,7 +25,7 @@ Iris pseudocorus, commonly known as yellow flag iris, is a robust perennial aqua
 
 - Yellow flag iris grows 1-1.5 m tall with erect, sword-shaped leaves and bright yellow flowers 7-10 cm across, blooming in late spring to early summer.
 - Native to Europe, western Asia, and northwest Africa; widely naturalised in temperate regions including North America and Australia.
-- Mollison lists Iris pseudocorus alongside Alisma plantago-aquatica, Mentha aquatica, Juncus effusus, Schoenoplectus lacustris, and Spartina spp. as species active in pathogen removal from polluted water.
+- Mollison lists Iris pseudocorus alongside Alisma plantago-aquatica, Mentha aquatica, [[juncus-effusus]], Schoenoplectus lacustris, and Spartina spp. as species active in pathogen removal from polluted water.
 - Following biological treatment through beds containing Iris pseudocorus and associated species, E. coli, coliform bacteria, Salmonella, and Enterococci populations drop to near zero.
 - Virus and worm eggs are also effectively eliminated.
 - The plant spreads by both seed and creeping rhizomes, forming dense colonies that stabilize banks and filter sediments.
@@ -86,8 +86,6 @@ all influence the optimal approach to implementation.
 
 ## See Also
 
-- [[iris-cristata]]
 - [[iris-ensata]]
-- [[iris-entity-pihkal]]
 - [[iris-louisiana]]
 - [[iris-pallida]]

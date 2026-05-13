@@ -9,13 +9,8 @@ created: 2026-05-09
 
 ## Overview
 
-In soil and decomposing wood, [[davidson-mathematical-modeling-fungal-mycelia]] frequently encounter each other
-while foraging for nutrients and space. These encounters trigger complex
-behaviors determining which species gains access to contested resources. Mycelial
-combat involves offensive and defensive strategies analogous to animal and plant
-competition, though mediated through the unique biology of filamentous growth.
-Understanding combat outcomes is essential for fungal [[edaphic-determinants-cannabis-microbiome-community-structure]],
-[[savory-soil-organic-matter-and-decomposition-dynamics]], and [[nutrient-cycling-in-soil]] terrestrial ecosystems.
+In soil and decomposing wood, [[edaphic-determinants-cannabis-microbiome-community-structure]],
+[[nutrient-cycling-in-soil]] terrestrial ecosystems.
 
 ## Outcomes of Mycelial Combat
 
@@ -38,8 +33,7 @@ One mycelium completely overgrows and replaces the other, gaining exclusive
 resource access. The replaced fungus is killed, its mycelium degraded. This
 decisive outcome occurs when one species possesses superior combative abilities
 including faster growth, more potent antagonistic metabolites, or more
-effective cell wall [[mycoremediation-white-rot-fungi-lignin-degradation-enzymes]]. Outcomes are influenced by inoculum
-size, arrival order (priority effects), and substrate [[coleman-winter-greens-nutritional-quality-cold-sweetening]].
+effective cell wall [[coleman-winter-greens-nutritional-quality-cold-sweetening]].
 
 ### Partial Replacement
 
@@ -72,17 +66,7 @@ both participants.
 ## Fractal Dimension and Growth Pattern Changes
 
 Combat interactions alter mycelial fractal dimension, a quantitative measure
-of space-filling [[mycelial-network-architecture]]. During exploratory growth away from
-interaction zones, mycelia exhibit higher fractal dimensions reflecting
-extensive branching foraging. At interaction zones, fractal dimension decreases
-as hyphae become denser, more polarized, and less branched, reflecting the
-shift from exploration to territorial defense. These quantifiable architectural
-changes provide powerful tools for studying combat dynamics and relating
-outcomes to underlying physiological processes.
-
-## Analogy to Lotka-Volterra Competition
-
-[[fungal-mycelial-foraging-heterogeneous-environments]] combat parallels Lotka-Volterra competition models developed
+of space-filling [[fungal-mycelial-foraging-heterogeneous-environments]] combat parallels Lotka-Volterra competition models developed
 for animals and plants. Competition occurs through interference (direct
 antagonism) and exploitation (resource depletion). Fungi compete exploitatively
 by depleting shared resources and interferentially through antibiotic production,
@@ -118,8 +102,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[dom]]
 - [[det]]
-- [[mycoremediation]]
 - [[mycelium]]
 - [[decomposition]]

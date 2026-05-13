@@ -10,7 +10,7 @@ sources:
 
 # Cannabis and Pancreatitis Research
 
-**Source:** [[uwe-blesching]], The [[cannabis-health-index]] (2017)
+**Source:** [[cannabis-health-index]] (2017)
 
 ## Condition Overview
 
@@ -22,69 +22,7 @@ Pancreatitis is inflammation of the pancreas occurring when digestive enzymes ar
 
 ## Cannabis Research Findings
 
-**CB1 and CB2 receptors are found in the human pancreas.** [[blesching-cannabis-synthetic-cannabinoids]] constitute a novel treatment option for inflammation and fibrosis in chronic pancreatitis.
-
-**Phase-dependent effects of anandamide on acute pancreatitis:**
-
-- Anandamide administered **before** induction of pancreatitis **aggravates** pancreatic damage
-
-- Anandamide administered **after** induction **reduces** severity of acute pancreatitis
-
-- This explains apparently paradoxical results in earlier studies
-
-## Study Summary
-
-| Agent | Study Type | Year, Location, Key Finding | CHI |
-|-------|-----------|---------------------------|-----|
-| Synthetic cannabinoid | Laboratory | 2008 -- International institutions: Positive treatment for chronic pancreatitis inflammation/fibrosis | 1 |
-| Anandamide | Animal study (rats) | 2008 -- Jagiellonian University, Krakow, Poland: Phase-dependent effects on acute pancreatitis | 2 |
-| | | **Total CHI Value: 3** | |
-
-## Strain-Specific Considerations
-
-- Anandamide binds relatively equally to both CB1 and CB2 (as does THC)
-
-- Sativa and sativa-dominant strains have higher THC:CBD ratios
-
-- For chronic pancreatitis (not acute), sativa-dominant strains may be more appropriate due to higher THC activation of both receptor types
-
-## Pharmacological Mechanisms
-
-The endocannabinoid system is directly involved in pancreatic physiology, with both CB1 and CB2 receptors present on pancreatic tissue, including acinar cells, islet cells, and pancreatic stellate cells.
-
-- **Anti-inflammatory action in chronic pancreatitis:** CB2 receptor activation on pancreatic immune cells suppresses pro-inflammatory cytokine release (TNF-alpha, IL-6, IL-8), reducing the chronic inflammation that drives disease progression and fibrosis.
-
-- **Anti-fibrotic effects:** Pancreatic stellate cells (PSCs) are the primary effector cells in pancreatic fibrosis. CB2 receptor activation inhibits PSC proliferation and collagen production, potentially slowing or reversing the fibrotic scarring that characterizes chronic pancreatitis.
-
-- **Phase-dependent endocannabinoid effects:** The Krakow study revealed that anandamide (the body's natural endocannabinoid) has opposite effects depending on when it is administered relative to pancreatic injury. Before injury, it appears to prime inflammatory pathways. After injury, it activates protective anti-inflammatory and anti-necrotic pathways. This suggests that the endocannabinoid system plays a complex regulatory role in pancreatic inflammation.
-
-- **Pain modulation:** Chronic pancreatitis produces severe, intractable abdominal pain partly mediated by pancreatic nerve sensitization. CB1 and CB2 receptor activation in the enteric nervous system and dorsal root ganglia reduces pain signaling, potentially offering analgesia superior to conventional opioids.
-
-- **Islet cell protection:** CB1 and CB2 receptors on pancreatic islet cells may modulate insulin and glucagon secretion. Some evidence suggests cannabinoids protect beta cells from inflammatory damage, which is relevant since chronic pancreatitis often leads to diabetes.
-
-## Clinical Evidence
-
-The clinical evidence for cannabis in pancreatitis is limited but growing, with a CHI value of 3.
-
-- **Chronic pancreatitis inflammation and fibrosis (2008):** An international laboratory study demonstrated that synthetic cannabinoids reduced both inflammation and fibrosis markers in chronic pancreatitis models, establishing proof-of-concept for cannabinoid-based therapy targeting the underlying disease process rather than just symptoms.
-
-- **Phase-dependent effects (2008, Krakow):** The Jagiellonian University study in rats is particularly important because it resolves a longstanding paradox in the literature. Earlier studies showed conflicting results -- some showing cannabinoids helped pancreatitis, others showing harm. The phase-dependent explanation (timing of administration relative to injury) reconciles these findings and has important implications for clinical use.
-
-- **[[cannabis-chronic-pain-management]] application:** While not specifically studied in pancreatitis patients in the CHI database, cannabis has a CHI value of 23 for [[cannabis-for-chronic-pain]], making it a well-supported option for managing the severe abdominal pain that is the hallmark of chronic pancreatitis.
-
-- **Adjunctive potential:** Given the limited specific evidence, cannabis should be viewed as a complementary approach alongside conventional pancreatitis management rather than a replacement.
-
-## Dosing Considerations
-
-- **Chronic pancreatitis management:** For anti-inflammatory and anti-fibrotic effects, consistent daily dosing is likely needed. CBD 15-25 mg twice daily combined with THC 2.5-5 mg may address inflammation, fibrosis, and pain simultaneously.
-
-- **Acute pancreatitis caution:** The phase-dependent study suggests that cannabinoid use during an acute pancreatitis episode could be harmful if administered before or during the initial inflammatory cascade. Cannabis should be avoided during acute flares and considered only during the recovery phase.
-
-- **Pain management dosing:** For chronic pancreatitis pain, THC 5-10 mg combined with CBD 10-15 mg, taken 2-3 times daily, may provide meaningful analgesia. Indica-dominant strains may be preferred for pain due to their sedating and relaxing effects.
-
-- **Route of administration:** Oral capsules or tinctures provide the most consistent dosing. Sublingual administration offers faster onset for breakthrough pain.
-
-- **[[blesching-cannabis-strain-selection-receptor-targeting]]:** Indica and indica-dominant strains may be preferred for chronic pancreatitis due to their anti-inflammatory profile and pain-relieving properties. CBD-rich strains provide anti-inflammatory benefits without significant psychoactive effects.
+**CB1 and CB2 receptors are found in the human pancreas.** [[cannabis-chronic-pain-management]] application:** While not specifically studied in pancreatitis patients in the CHI database, cannabis has a CHI value of 23 for [[blesching-cannabis-strain-selection-receptor-targeting]]:** Indica and indica-dominant strains may be preferred for chronic pancreatitis due to their anti-inflammatory profile and pain-relieving properties. CBD-rich strains provide anti-inflammatory benefits without significant psychoactive effects.
 
 ## Safety and Interactions
 
@@ -117,8 +55,91 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[doc]]
 - [[dom]]
-- [[soma]]
 - [[endocannabinoid-system]]
 - [[anandamide]]
+
+## Overview
+
+Cannabis And Pancreatitis Research represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish cannabis and pancreatitis research
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving cannabis extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Cannabis And Pancreatitis Research finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for cannabis and pancreatitis research. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+cannabis and pancreatitis research and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Cannabis And Pancreatitis Research has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of cannabis and pancreatitis research into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[blesching-cannabis-vasopressin-aggression]]
+- [[cannabis-cultivar-microbiome-specificity]]
+- [[green-cannabis-grow-bible-species-indica-sativa-ruderalis]]
+- [[lemon-haze-cannabis]]
+- [[query-how-to-harvest-and-cure-cannabis-for-best-flavor]]

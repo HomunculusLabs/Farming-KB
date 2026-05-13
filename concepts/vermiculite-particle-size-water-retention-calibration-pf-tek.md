@@ -8,17 +8,11 @@ tags: [pf-tek, vermiculite, substrate, water-retention, particle-size, calibrati
 
 ## Overview
 
-The PF Tek ([[pf-tek-psilocybe-fanaticus]] Technique) revolutionized amateur [[accessible-mushroom-cultivation-for-disabilities]] by using vermiculite as the primary substrate structural component rather than grain. A critical but often underappreciated aspect of the technique is the relationship between vermiculite particle size, [[pf-tek-vermiculite-type-comparison-water-holding-capacity]], and substrate hydration. This page examines the physics of vermiculite water retention, the calibration challenges posed by variable particle sizes, and the diagnostic techniques for optimizing substrate moisture content.
-
-## The Role of Vermiculite in PF Tek
-
-Vermiculite serves three [[plant-micronutrients-and-their-essential-functions]] in the PF substrate:
+The PF Tek ([[accessible-mushroom-cultivation-for-disabilities]] by using vermiculite as the primary substrate structural component rather than grain. A critical but often underappreciated aspect of the technique is the relationship between vermiculite particle size, [[plant-micronutrients-and-their-essential-functions]] in the PF substrate:
 
 1. **Water reservoir**: The exfoliated mineral absorbs and retains water within its layered structure, providing sustained moisture to the growing mycelium over the colonization and fruiting period
 2. **Aeration**: The particulate nature of vermiculite creates air spaces within the substrate, allowing gas exchange necessary for mycelial respiration
-3. **[[dry-vermiculite-contaminant-barrier-pf-tek]]**: A layer of dry vermiculite at the top of the jar acts as a filter, protecting the wet substrate from airborne contaminants while absorbing and regulating moisture transpiration and condensation
-
-The PF Tek's innovation was recognizing that when mycelium is cultured in grain alone, it turns into a dense mass with little air space. Vermiculite's structure prevents this compaction, maintaining a porous substrate that supports both healthy [[mycelial-growth-and-colonization]] efficient water management.
+3. **[[mycelial-growth-and-colonization]] efficient water management.
 
 ## Particle Size and Water Holding Capacity
 
@@ -29,11 +23,7 @@ Not all vermiculite is the same. The coarseness varies considerably among differ
 - **Fine vermiculite**: Particles averaging approximately 1 millimeter across (some larger, some smaller)
 - **Coarse vermiculite**: Particles averaging 4-5 millimeters across, with some up to 8 millimeters
 
-The coarser type holds significantly less water than the finer type. This is a straightforward consequence of surface-area-to-volume ratio: smaller particles have proportionally more surface area per unit volume, providing more interface for water absorption and retention. The exfoliated layers of finer vermiculite also create more capillary channels that hold water through [[bloomfield-buller-drop-surface-tension-spore-catapult-basidiospore-discharge]].
-
-### Regional and Brand Variability
-
-Stores typically carry only one type of vermiculite, and there are regional differences between brands. This means that cultivators in different geographic areas may have access to fundamentally different substrate materials with different water holding capacities. Fanaticus recommended shopping around to obtain both types for comparison, and [[goose-keeping-detailed]] notes on formulations to replicate the substrate recipe that produces the best fruiting results.
+The coarser type holds significantly less water than the finer type. This is a straightforward consequence of surface-area-to-volume ratio: smaller particles have proportionally more surface area per unit volume, providing more interface for water absorption and retention. The exfoliated layers of finer vermiculite also create more capillary channels that hold water through [[goose-keeping-detailed]] notes on formulations to replicate the substrate recipe that produces the best fruiting results.
 
 ## Standard PF Substrate Formulas
 
@@ -106,15 +96,4 @@ Perlite is used in the PF Tek for a different purpose — as a humidification me
 
 ## The Physics of Vermiculite Water Retention
 
-Vermiculite is an exfoliated (expanded) mica mineral that has been heated to approximately 1000°C, causing the layered [[crystal-structure-and-crystal-defects]] to expand up to 30 times its original volume. The resulting accordion-like particles contain numerous thin platelets separated by air gaps. Water is drawn into these gaps by capillary action and held by the hydrophilic silicate surfaces of the mineral platelets.
-
-The water holding capacity of vermiculite is typically 3-4 times its dry weight, but this varies with particle size. Fine vermiculite (1mm particles) has more platelets per unit volume and more total internal surface area, resulting in higher water holding capacity per unit volume. Coarse vermiculite (4-5mm particles) has fewer, thicker platelets with larger inter-platelet gaps, providing better aeration but less water retention.
-
-This physical understanding explains why the PF Tek's water formulas must be adjusted when switching between fine and coarse vermiculite, and why the standard recipes were specifically calibrated for the finer material.
-
-## References
-
-- PF Tek (Psilocybe Fanaticus). Original PF Tek documentation.
-- Fanaticus, R. (1990s). PF [[pf-tek-substrate-formula-and-jar-preparation-method]] [[boil-a-bag-mushroom-cultivation-technique]].
-- Stamets, P. (1993). Growing Gourmet and Medicinal Mushrooms.
-- Chilton, W.S. & Ott, J. (1976). Teonanacatl: a review of the literature on the Mexican [[emcdda-eu-legislative-timeline-hallucinogenic-mushrooms-2001-2006]].
+Vermiculite is an exfoliated (expanded) mica mineral that has been heated to approximately 1000°C, causing the layered [[pf-tek-substrate-formula-and-jar-preparation-method]] [[emcdda-eu-legislative-timeline-hallucinogenic-mushrooms-2001-2006]].

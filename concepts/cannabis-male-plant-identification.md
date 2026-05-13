@@ -10,7 +10,7 @@ sources:
 
 Updated: 2026-04-18
 
-Source: The [[green-cannabis-grow-bible-breeding-genetics-and-true-breeding]] Bible, [[greg-green]] (Ch. 2, 3, 7)
+Source: The [[greg-green]] (Ch. 2, 3, 7)
 
 Male cannabis plants are essential for breeding but are typically removed in sinsemilla (seedless) grows. Understanding male identification and management is critical for both scenarios.
 
@@ -81,45 +81,6 @@ When choosing which male to use:
 - Look for vigorous growth, strong stems, and resistance to pests/disease
 - Consider the traits you want in offspring (potency, yield, flavor, growth characteristics)
 - A male's genetic contribution is often underestimated — choose as carefully as you would a female
-- See [[cannabis-genetics-and-breeding]] for breeding methodology
-
-## THC in Male Plants
-
-Green notes that male plants do contain THC, though at much lower levels than females:
-
-- Male plants can be smoked but are vastly inferior to females
-
-## Practical Applications
-
-The principles and techniques discussed here have wide-ranging applications
-across multiple disciplines and contexts. Practitioners and researchers
-continue to explore new ways to integrate these concepts into modern practice,
-adapting traditional knowledge to contemporary challenges and opportunities.
-
-## Key Considerations
-
-Several important factors influence the effectiveness and outcomes described
-in this topic. Understanding these considerations helps practitioners make
-informed decisions and avoid common pitfalls. Environmental conditions,
-timing, and material selection all play critical roles.
-
-## Historical Context
-
-The historical development of this subject reflects centuries of accumulated
-knowledge and practical experience. From traditional methods passed down
-through generations to modern scientific approaches, the evolution continues
-to inform current best practices and research directions.
-
-## Common Challenges
-
-Practitioners frequently encounter several challenges when working with
-these concepts. Climate variability, resource limitations, and knowledge
-gaps can all affect outcomes. Addressing these challenges requires patience,
-observation, and a willingness to adapt approaches based on results.
-
-## See Also
-- [[det]]
-- [[cannabis-male-plant-management]]
+- See [[det]]
 - [[cannabis-plant-stress-types-and-recovery]]
-- [[green-cannabis-plant-anatomy-calyx-pistil-bud-structure]]
 - [[cannabis-plant-nutrition]]

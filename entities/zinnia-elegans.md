@@ -13,8 +13,7 @@ updated: 2026-05-10
 sources:
   - "Torres, G.A. et al. (2011). \"Cytogenetics of Zinnia elegans (Asteraceae).\" Cytogenetic and Genome Research, 133(2-4), 186-194."
   - "Faegri, K. & van der Pijl, L. (1979). The Principles of Pollination Ecology. Pergamon Press."
-  - "Brett, R. (1956). \"The [[cannabis-sex-determination-floral-biology]] of the Zinnia elegans Jacq.\" New Phytologist, 55(1), 71-77."
-  - "Tressler, D.K. (1927). \"A study of the genus Zinnia.\" Contributions from the [[dmt-containing-plants-united-states-halpern]] National Herbarium, 26, 289-376."
+  - "Brett, R. (1956). \"The dmt-containing-plants-united-states-halpern National Herbarium, 26, 289-376."
 ---
 
 # Zinnia elegans (*Zinnia elegans*)
@@ -50,13 +49,7 @@ referring to the showy inflorescences.
 Zinnia elegans is a diploid species with 2n = 24 chromosomes. Molecular
 phylogenetic analyses place the genus Zinnia within Heliantheae, closely
 related to Heliopsis and Sanvitalia. Approximately 20 species comprise the
-genus, distributed from the southwestern United States to [[guzman-psilocybin-mushrooms-south-america]].
-
-## Morphology
-
-### Growth Habit
-
-Zinnia elegans is an erect, branching annual [[herb-growing-guide]] 20–100 cm tall
+genus, distributed from the southwestern United States to [[herb-growing-guide]] 20–100 cm tall
 depending on cultivar. The stems are stout, green to purplish, and typically
 glabrous or sparsely hairy. The habit ranges from compact and bushy in dwarf
 cultivars to tall and open in large-flowered types.
@@ -87,3 +80,7 @@ Achenes are narrow, 7–12 mm long, compressed, and crowned with a persistent
 pappus of two unequal awns. Seeds are brown to gray and weigh 3–5 mg each.
 A single plant produces 500–3,000 seeds. Germination occurs in 5–7 days at
 21–26°C, with seed viability lasting 3–5 years.
+
+## See Also
+
+- [[staycare-cunninghamella-elegans-in-bioremediation]]

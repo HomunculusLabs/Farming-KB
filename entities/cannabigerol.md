@@ -31,13 +31,7 @@ resorcinol) core with a monoterpene (geranyl) moiety attached at the C-3
 position. The resorcinol ring features two phenolic hydroxyl groups at
 positions 1 and 3.
 
-CBG exists predominantly in its neutral form in fresh [[terpene-profile-chemotaxonomy]] of high-CBG varieties skews toward
-myrcene, pinene, and humulene, contributing to anti-inflammatory and
-focus-enhancing effects consistent with the entourage hypothesis.
-
-The CBG-to-CBGa ratio depends on [[cannabis-harvest-timing-visual-cues]] and [[myrcene]]
-- [[myrcene]]
-- [[myrcene]]
+CBG exists predominantly in its neutral form in fresh [[cannabis-harvest-timing-visual-cues]] and [[myrcene]]
 - [[myrcene]]
 ## Practical Considerations
 

@@ -12,17 +12,6 @@ type: concept
 
 ## Overview
 
-[[doc]] (2,5-dimethoxy-4-chloroamphetamine) is a potent psychedelic amphetamine
-documented in PIHKAL as compound #33. It is the alpha-methylated analogue of
-2C-C and a member of the DO (dimethoxyamphetamine) family. With the chlorine
-atom at the 4-position, DOC occupies an interesting middle ground in the DO
-halogen series, being less potent than DOB or DOI but significantly more
-potent than DOM.
-
-DOC has gained particular notoriety in the research chemical scene of the
-2000s and 2010s, where it was one of the more widely available DO compounds
-on the grey market. Its combination of manageable duration (relative to DOB
-and DOI), substantial potency, and a reputation for producing a "clean"
 [[leary-psychedelic-experience-bardo-mapping]] has made it one of the more frequently discussed
 members of the DO family among contemporary psychedelic enthusiasts.
 
@@ -41,27 +30,7 @@ the DO halogen/alkyl substitution series.
 
 The chlorine atom is lighter than bromine or iodine, correlating with DOC's
 intermediate potency within the DO series. The alpha-methyl group on the
-ethylamine [[shirota-glyoxalylamide-side-chain-construction-psilocin-synthesis]] is the defining feature that separates DOC from its
-phenethylamine counterpart 2C-C, conferring metabolic resistance to MAO
-and dramatically extending duration of action. The molecular weight of DOC
-is approximately 241.73 g/mol.
-
-## Dosage and Administration
-
-Shulgin's recommended oral dosage for DOC ranges from 1.5 to 3.0
-milligrams. A threshold dose is approximately 0.5 to 1.0 mg, while doses
-above 3 mg rapidly escalate into overwhelming territory. The therapeutic
-index is relatively narrow, and increments of 0.5 mg can produce
-noticeably different levels of effect.
-
-Onset typically occurs within 2 to 4 hours after oral administration,
-making DOC somewhat slower to take effect than many other psychedelics.
-Peak effects manifest at 4 to 8 hours, with the total experience lasting
-12 to 24 hours. Residual stimulation, difficulty sleeping, and subtle
-perceptual changes may persist for an additional 6 to 12 hours beyond the
-primary effects.
-
-The delayed onset is a significant [[adverse-effects-and-harm-reduction-psilocybin]] concern, as users may
+ethylamine [[adverse-effects-and-harm-reduction-psilocybin]] concern, as users may
 mistakenly believe the initial dose was insufficient and take additional
 amounts before the first dose has fully taken effect.
 
@@ -87,3 +56,88 @@ stimulant component of DOC is notably strong and can contribute to anxiety
 or restlessness, especially during the comedown phase.
 
 ## Shulgin's Commentary
+
+## Overview
+
+Pihkal Doc represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish pihkal doc
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving pihkal extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Pihkal Doc finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for pihkal doc. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+pihkal doc and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Pihkal Doc has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of pihkal doc into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[aleph-4-entity-pihkal]]
+- [[pihkal-aleph-2]]
+- [[pihkal-mescaline]]
+- [[tma-2-entity-pihkal]]
+- [[tma-3-entity-pihkal]]

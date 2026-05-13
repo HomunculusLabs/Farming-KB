@@ -91,11 +91,7 @@ Community-based conservation programs in Oaxaca have integrated Cibotium regale 
 
 ## See Also
 
-- [[cibotium-barometz]]
 - [[cibotium-chamissoi]]
-- [[cibotium-glaucum]]
 - [[cibotium-schiedei]]
-- [[cyathea-cooperi]]
 - [[cyathea-medullaris]]
-- [[dicksonia-antarctica]]
 - [[alsophila-aspera]]

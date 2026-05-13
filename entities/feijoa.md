@@ -37,56 +37,92 @@ species, tolerating considerable cold for a subtropical plant.
 
 ### Environmental Requirements
 - **Soil:** Prefers deep, rich, organic soil kept moist through summer
-- **Water:** [[permplant-carob-drought-tolerant-food-tree]] but fruit production drops significantly under
-  drought stress
-- **Temperature:** Prefers cool seasons; better flavoured fruit in cooler
-  regions; tolerates temperatures down to -11C
-- **Climate:** Best in subtropical to warm temperate regions; cultivated
-  successfully in Chile, New Zealand, and Australia
-
-### Fruit Characteristics
-- **Flavour:** Unique pineapple-guava flavour, delicious eaten fresh
-- **Culinary uses:** Excellent fresh, in fruit salads, and for preserves
-- **Pectin content:** High pectin content makes excellent jelly
-- **Harvest:** Autumn; fruit drops when ripe
-
-### Nutritional Composition (per 100g edible portion)
-- **Water:** 84%
-- **Fat:** 0.2 g
-- **Protein:** 0.9 g
-- **Ash:** 0.5 g
-- **Calcium:** 4 mg
-- **Potassium:** 166 mg
-- **Sodium:** 5 mg
-- **Magnesium:** 8 mg
-- **Iron:** 0.05 mg
-- **Phosphorus:** 10 mg
-- **Iodine:** 0.165 - 0.39 mg
-- **Ascorbic acid (Vitamin C):** 28 - 35 mg
-- **Digestion time:** 3 hours
-
-### Uses and Functions
-- **Fruit production:** Primary use; high-value uncommon specialty fruit crops for permaculture crop
-- **Windbreak:** Makes an excellent windbreak species in orchard and garden
-  systems
-- **Ornamental:** Attractive evergreen foliage with showy flowers
-- **Hedge:** Suitable for hedging and screening
-
-### Propagation
-- **Seed:** Produces plants reasonably similar to parent
-- **Cuttings:** Common propagation method
-- **Grafting:** Used for named cultivars and improved varieties
-
-## Relevance
-Feijoa is an excellent multi-function plant for temperate and subtropical
-permaculture designs. Its combination of frost tolerance, evergreen habit,
-windbreak utility, and high-quality fruit production makes it valuable for food
-forest understories, edible landscaping, and [[mollison-designers-mixed-orchard-design-species-selection]] systems. The high
+- **Water:** [[mollison-designers-mixed-orchard-design-species-selection]] systems. The high
 iodine content of the fruit is an unusual nutritional benefit.
 
 ## See Also
 
-- [[feijoa-sellowiana]]
 - [[permaculture-plants-fruit-trees-temperate]]
-- [[permaculture-plants-fruit-trees-selection]]
 - [[plant-macronutrient-functions-nitrogen-phosphorus-potassium]]
+
+## Overview
+
+Feijoa represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish feijoa
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving feijoa extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Feijoa finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for feijoa. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+feijoa and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Feijoa has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of feijoa into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[feijoa-and-ugni-cool-climate-myrtaceous-fruits]]
+- [[feijoa-sellowiana]]

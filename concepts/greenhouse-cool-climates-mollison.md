@@ -13,27 +13,7 @@ Updated: 2026-04-18
 Source: Permaculture: A Designers' Manual, Bill Mollison,
 Section 12.8 (pp. 422-423)
 ## Role of Greenhouses in Cool Climates
-The cool [[fukuoka-natural-farming-temperate-climates]] are those places where greenhouses are most
-commonly used for specialty crop or aquatic species production, for house
-heating, and for the winter production of vegetable and fruit crop. Modern
-glasshouses are becoming very sophisticated with respect to heat energy
-conservation and heat absorption, as 70-90% of the cost of crop can be that
-of artificial heating.
-## Insulation Requirements
-Insulation is essential not only for the ground below the greenhouse, usually
-as a trench 1 m or so deep provided with a panel insulation, or with straw or
-sawdust-filled plastic bags, but also for the endwalls, the poleward walls,
-and the poleward slope of the roof (all can be solid insulated walls). The
-sunward roof slope and wall can be air-insulated, either by using trapped
-bubble insulation as standard plastic sheets, by keeping air at pressure
-between double plastic walls, or by using insulated shutters at night to cover
-the glazed areas.
-## Internal Heat Sources
-Inside the greenhouse, where the whole earth floor inside the walls is
-insulated from the cold earth outside, several additional heat masses can be
-provided, most commonly as plastic or metal tanks or drums of water (some can
-be fish ponds), but also by providing active heat sources such as:
-- [[permaculture-domestic-animals]] housed below plant benches
+The cool [[permaculture-domestic-animals]] housed below plant benches
 - Compost heaps along the poleward wall
 - Hot water storages filled from solar heat collectors
 The areas below plant benches, if used to house rabbits, guinea pigs, poultry,
@@ -42,10 +22,7 @@ as will long compost boxes along the poleward wall, or external to, but below,
 the level of the greenhouse itself. Dark curtains within the greenhouse also
 act as heat (long wave) absorbers, radiating warmth back at night.
 ## Orientation and Solar Gain
-Mollison emphasises that [[coleman-greenhouse-orientation-site-selection-wind-protection-coleman]] must maximise winter solar
-gain while minimising heat loss. In cool climates, the long axis should run
-east-west so that the largest glazed area faces the equator (south in the
-northern hemisphere, north in the [[guzman-allen-gartz-africa-southern-hemisphere-underexplored-neurotropic-fungi]]). The roof angle should
+Mollison emphasises that [[guzman-allen-gartz-africa-southern-hemisphere-underexplored-neurotropic-fungi]]). The roof angle should
 approximate the latitude plus 10-15 degrees to capture low-angle winter sun
 while shedding summer heat. Deciduous shade plants trained over the exterior
 can provide automatic summer shading while allowing full winter penetration.
@@ -54,37 +31,7 @@ heat during the day and release it slowly at night, buffering temperature
 extremes. Mollison recommends placing dark-coloured water drums along the
 sunward wall where they receive direct sunlight for maximum thermal storage.
 ## Passive Solar Integration
-[[passive-solar-design]] reduces or eliminates the need for artificial heating.
-Key strategies include:
-- Rock beds beneath the growing surface for heat storage and distribution
-- Convective loops that circulate warm air through sub-floor ducts
-- Reflective surfaces (white paint, polished metal) behind plant beds to
-  redirect light to shaded lower foliage
-- Phase-change materials (paraffin wax, salt hydrates) embedded in walls for
-  high-density thermal storage in small spaces
-- Earth-sheltered north walls (in northern hemisphere) that borrow ground
-  temperature stability from the earth itself
-The combination of insulation, thermal mass, and passive solar gain can
-maintain frost-free conditions in greenhouses through winters as cold as
--20°C without supplemental heating, provided the structure is well-sealed.
-## Aquatic Systems in Cool Greenhouses
-Mollison frequently integrates aquaculture with greenhouse production. Fish
-tanks serve dual purposes as both aquatic food production systems and thermal
-mass reservoirs. The large water volume stabilises temperature fluctuations,
-while the fish produce nutrient-rich water for hydroponic plant beds.
-In cool climates, cold-water fish species such as trout or perch are preferred
-as they tolerate temperature swings better than tropical species. Duckweed
-grown on the water surface provides fish food and shade, while its rapid
-growth absorbs excess nutrients. The integration of fish, plants, and water
-creates a closed-loop system where each element supports the others.
-## Polyculture and Planting Strategies
-Greenhouse polycultures in cool climates should emphasise:
-- Succession planting to maintain continuous harvests year-round
-- Understory herbs and salad greens beneath taller fruiting crops like
-  tomatoes and peppers
-- Leguminous plants for nitrogen fixation within the enclosed system
-- Nitrogen-fixing groundcovers to maintain soil biology through winter
-- [[companion-planting-with-fungi]] aromatic herbs (basil, marigold) to deter pests
+[[companion-planting-with-fungi]] aromatic herbs (basil, marigold) to deter pests
   without chemical inputs in the enclosed environment
 ## Season Extension Techniques
 Beyond the basic greenhouse, Mollison describes several season extension
@@ -118,8 +65,85 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[bill-mollison]]
 - [[greenhouse-growing]]
-- [[season-extension-techniques]]
 - [[dom]]
 - [[det]]
+
+## Overview
+
+Greenhouse Cool Climates Mollison represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish greenhouse cool climates mollison
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving greenhouse extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Greenhouse Cool Climates Mollison finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for greenhouse cool climates mollison. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+greenhouse cool climates mollison and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Greenhouse Cool Climates Mollison has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of greenhouse cool climates mollison into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also

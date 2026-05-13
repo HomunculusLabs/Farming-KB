@@ -10,27 +10,18 @@ sources:
 ---
 # White Clover Living Mulch
 
-White clover (*Trifolium repens*) is the foundational [[natural-farming-philosophy]] system, serving simultaneously as nitrogen fixer, weed suppressor, soil builder, and [[permplant-willows-salix-erosion-control-fodder]]. In his fields, clover grows year-round beneath both rice and winter grain, forming a permanent living mulch that replaces chemical fertilizer, herbicides, and much of the labor of conventional farming.
+White clover (*Trifolium repens*) is the foundational [[permplant-willows-salix-erosion-control-fodder]]. In his fields, clover grows year-round beneath both rice and winter grain, forming a permanent living mulch that replaces chemical fertilizer, herbicides, and much of the labor of conventional farming.
 
 ## Role in the Rice/Grain Rotation
 
-The clover cycle is integral to the [[fukuoka-straw-mulch-philosophy]], clover provides effective [[fukuoka-textdoc-weed-control-with-weeds-rice-barley-clover-discovery]] without tillage or herbicides. Where the clover and weeds are not so thick, seeds can simply be tossed out directly.
+The clover cycle is integral to the [[fukuoka-textdoc-weed-control-with-weeds-rice-barley-clover-discovery]] without tillage or herbicides. Where the clover and weeds are not so thick, seeds can simply be tossed out directly.
 
 ### Soil Protection and Building
-The clover mat protects the soil surface from erosion by rain and wind. Its roots improve soil structure, and when portions die back, they add [[hamilton-composting-and-organic-matter-management]]. Over twenty-five years, Fukuoka's orchard soil — originally hard red clay "so hard you could not stick a shovel into it" — became "loose, dark coloured, and rich with earthworms and organic matter" largely due to clover and straw.
-
-### Moisture Retention
-Clover keeps the ground moist and well-aerated. During hot months, the clover layer reduces evaporation, and even in years with very little rain, the soil stayed moist below the layer of straw and green manure.
-
-### Erosion Control on Slopes
-On the hillside orchards, clover was essential for preventing erosion on what had been bare red clay. Sown mixed with alfalfa, it took several years to establish but eventually covered the hillsides, initiating a cycle of [[natural-farming-philosophy]] takes a distinctive form according to local conditions. In areas where white clover is not suitable, other legumes can fill the same role: other clover varieties, alfalfa, vetch, or lupine. The principle remains the same — a permanent leguminous ground cover that fixes nitrogen and suppresses weeds.
+The clover mat protects the soil surface from erosion by rain and wind. Its roots improve soil structure, and when portions die back, they add [[natural-farming-philosophy]] takes a distinctive form according to local conditions. In areas where white clover is not suitable, other legumes can fill the same role: other clover varieties, alfalfa, vetch, or lupine. The principle remains the same — a permanent leguminous ground cover that fixes nitrogen and suppresses weeds.
 
 ## Related
 
-- [[fukuoka-winter-grain-rice-rotation]] -- clover in the annual cycle
-- [[cover-cropping-guide]] -- broader [[fukuoka-clover-cover-cropping-soil-ecology]] context
-- [[desertification-and-vegetation-loss|soil regeneration]] methods
-- [[four-principles-of-natural-farming]] -- the principles behind living mulch
+- [[cover-cropping-guide]] -- broader [[desertification-and-vegetation-loss|soil regeneration]] methods
 - [[cover-crop-guide-detailed]]
 ## Practical Applications
 

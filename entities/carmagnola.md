@@ -21,70 +21,89 @@ sources:
 ---
 # Carmagnola
 
-**Carmagnola** is an Italian **fiber-type hemp (*Canapa sativa*)** cultivar (landrace) originating from the Piedmont region of northern Italy, specifically the area around the town of Carmagnola in the province of Turin. It is one of the most historically significant and genetically distinct European hemp varieties, valued for its dual-purpose fiber and [[symbiotic-fungi-mycorrhizal-types-and-classification]]
-
-- **Species:** *[[blesching-cannabis-sativa-indica-classification]]* L.
+**Carmagnola** is an Italian **fiber-type hemp (*Canapa sativa*)** cultivar (landrace) originating from the Piedmont region of northern Italy, specifically the area around the town of Carmagnola in the province of Turin. It is one of the most historically significant and genetically distinct European hemp varieties, valued for its dual-purpose fiber and [[blesching-cannabis-sativa-indica-classification]]* L.
 - **Subtype:** Fiber hemp (industrial hemp) — Group I (low THC)
 - **Botanical type:** Dioecious (separate male and female plants)
 - **Origin:** Piedmont, Italy
 - **Registration:** EU Common Catalogue; Italian National Register of Varieties
-- **[[thc-content-factors-cultivation-freshness-storage-degradation-blesching]]:** < 0.2% (EU compliant); typically 0.1–0.19%
-- **CBD content:** 1.0–3.5% (exceptionally high for a fiber cultivar)
-
-## Historical Background
-
-### Medieval Origins
-
-Carmagnola takes its name from the town of Carmagnola, a agricultural center in the Piedmont plain between the Po River and the Alpine foothills. Hemp cultivation in this region dates back to at least the 12th century, and the local landrace was carefully selected over centuries for fiber quality and seed yield in the specific climatic conditions of the Po Valley.
-
-The Piedmont region was one of the major hemp-producing areas in Europe from the Middle Ages through the 19th century. The "canapa di Carmagnola" was renowned across Italy and was exported throughout Europe for rope-making, sailcloth, and textile production.
-
-### 20th Century Decline and Revival
-
-- **Early 1900s:** Carmagnola remained one of Italy's principal hemp cultivars, grown extensively in the Po Valley
-- **1940s:** Italian hemp cultivation peaked during WWII due to wartime demand for fiber, with Carmagnola as a dominant variety
-- **1950s–1970s:** Synthetic fibers (nylon, polyester) and anti-cannabis legislation devastated the European hemp industry. Italian hemp acreage plummeted from ~100,000 hectares to near-zero
-- **1990s:** EU regulations permitting hemp cultivation with THC < 0.2% allowed a modest revival
-- **2000s–present:** Renewed interest in Carmagnola driven by CBD market demand and heritage crop conservation
-
-## Morphological Characteristics
-
-### Plant Architecture
-
-- **Height:** 2.5–4.0 meters (8–13 feet) under field conditions
-- **Growth habit:** Tall, slender, columnar — typical of fiber-type hemp
-- **Branching:** Sparse lateral branching, especially in female plants; concentrated near the apical meristem
-- **Stem:** Fibrous, hollow stems with a high bast fiber content; internode length 15–25 cm
-- **Root system:** Deep taproot with extensive lateral branching; drought-tolerant once established
-
-### Leaf Characteristics
-
-- **Leaf shape:** Palmately compound, typically with 5–9 leaflets (narrow-leaflet phenotype typical of sativa)
-- **Leaflet width:** Narrow to medium — intermediate between narrow fiber-type and broad drug-type
-- **Color:** Light to medium green; occasionally with slight blue-green hue
-- **Trichome density:** Moderate — higher than typical fiber cultivars, contributing to elevated CBD content
-
-### Flower Characteristics
-
-- **Inflorescence:** Loose, airy clusters typical of fiber-type hemp
-- **Pistil [[cannabis-microbiome-soil-type-composition-strain-structure]]----|---------------|
+- **[[cannabis-microbiome-soil-type-composition-strain-structure]]----|---------------|
 | Soil type | Loam to clay-loam; pH 6.0–7.5 |
 | Soil fertility | Medium-high; 80–120 kg/ha N |
-| Sowing density | 40–60 | Day-neutral [[mollison-designers-day-length-and-flowering-response]] (moderate) |
-| Harvest | August–September (Northern Hemisphere) |
+| Sowing density | 40–60 | Day-neutral [[botrytis-cinerea]]** ([[cervantes-gray-mold-botrytis-prevention]]): Moderate susceptibility during flowering in humid conditions
 
-### Yield Data
+## Overview
 
-| Product | Typical Yield Range |
-|---------|-------------------|
-| Dry stalk | 8–15 tonnes/ha |
-| Bast fiber | 2.5–5.0 tonnes/ha |
-| Seed | 0.8–1.5 tonnes/ha |
-| CBD (dry flower) | 1.0–3.5% |
-| THC (dry flower) | 0.05–0.19% |
+Carmagnola represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
 
-### Pests and Diseases
+## Key Characteristics
 
-Carmagnola shows moderate to good resistance to common hemp pathogens:
+Several defining characteristics distinguish carmagnola
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
 
-- **[[botrytis-cinerea]]** ([[cervantes-gray-mold-botrytis-prevention]]): Moderate susceptibility during flowering in humid conditions
+## Ecological Context
+
+The ecological relationships involving carmagnola extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Carmagnola finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for carmagnola. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+carmagnola and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Carmagnola has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of carmagnola into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.

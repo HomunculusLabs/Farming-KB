@@ -10,27 +10,15 @@ sources:
 
 Updated: 2026-04-18
 
-Source: The Ultimate Guide to [[comparison-natural-farming-vs-permaculture]] and [[natural-farming-sustainable-living-principles]], Nicole Faires
+Source: The Ultimate Guide to [[natural-farming-sustainable-living-principles]], Nicole Faires
 
-Effective [[comparison-silvopasture-systems-vs-pasture-management]] is the key to raising livestock on [[query-how-do-i-keep-goats-on-a-permaculture-homestead]]. A well-designed forage system can feed animals year-round, improve soil health, and dramatically reduce the farmer's labor.
+Effective [[query-how-do-i-keep-goats-on-a-permaculture-homestead]]. A well-designed forage system can feed animals year-round, improve soil health, and dramatically reduce the farmer's labor.
 
 ## The Forage System Concept
 
 ### Land Requirements
 
-In most [[fukuoka-natural-farming-temperate-climates]], 20 acres (8 hectares) is enough land to raise enough livestock to produce a small income. The quality of pasture is the determining factor — it should:
-
-- Feed animals through drought
-- Protect from storms and sun
-- Restore soil and prevent erosion
-- Provide grasses, legumes, seedpods, sprouted grain, silage, and tree leaves
-
-### The Winter Challenge
-
-Even with excellent pasture management, a food shortage in winter is inevitable through forage alone. Solutions include:
-
-- **Tree crops**: The primary solution for winter feed gaps — provide fodder when pasture is dormant
-- **Hay storage**: Stockpile hay harvested during peak [[savory-growing-season-and-non-growing-season-management]]
+In most [[savory-growing-season-and-non-growing-season-management]]
 - **Root crops**: Harvested and stored vegetables supplement winter feeding
 - **Grain**: Grown on the farm and stored for winter feeding
 - **Herd culling**: Thin the herd by selling or butchering young males before winter
@@ -39,8 +27,7 @@ Even with excellent pasture management, a food shortage in winter is inevitable 
 
 ### Timeline
 
-1. **Year 1**: Plant about 10% of the land in [[pruning-fruit-trees-and-bushes]] using the community planting method
-2. **Year 5**: Proportion should be 40% trees; introduce sheep for short [[savory-recovery-and-grazing-periods]]
+1. **Year 1**: Plant about 10% of the land in [[savory-recovery-and-grazing-periods]]
 3. **Year 5–10**: Gradually extend grazing periods as trees mature and canopy provides adequate forage
 4. **Year 10+**: Full integration of grazing animals with tree forage system
 
@@ -88,3 +75,75 @@ For 50 acres or more:
 ### Concentrated Feeds
 
 In permaculture, concentrated feeds are NOT used for weight gain during normal growth, but rather for:
+
+## Overview
+
+Pasture Management And Forage represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish pasture management and forage
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving pasture extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Pasture Management And Forage finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for pasture management and forage. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+pasture management and forage and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Pasture Management And Forage has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of pasture management and forage into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions

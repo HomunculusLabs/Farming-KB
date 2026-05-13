@@ -11,14 +11,9 @@ sources:
 
 Updated: 2026-04-18
 
-Source: The Ultimate Guide to [[comparison-natural-farming-vs-permaculture]] and [[natural-farming-sustainable-living-principles]], Nicole Faires
+Source: The Ultimate Guide to [[natural-farming-sustainable-living-principles]], Nicole Faires
 
-Masanobu Fukuoka's no-till (no-work) method of [[fukuoka-no-till-grain-production-method]] challenges conventional agriculture by growing grain and legumes together continuously without plowing, fertilizing, weeding, or using pesticides. This system produces remarkable yields with minimal energy input.
-
-## The Four Principles of Natural Farming
-
-1. **No cultivation**: Soil is aerated and loosened by natural means only — plant roots, earthworms, and microbial activity
-2. **No fertilizer**: Soil fertility is maintained through natural cycles — returning straw, clover, and [[hamilton-composting-and-organic-matter-management]] to the field
+Masanobu Fukuoka's no-till (no-work) method of [[hamilton-composting-and-organic-matter-management]] to the field
 3. **No weeding**: Weeds are questioned rather than automatically removed. If the desired plant is not harmed, why pull the weed?
 4. **No pesticides**: Natural balances and biodiversity manage pests and diseases
 

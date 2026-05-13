@@ -22,23 +22,10 @@ sources:
 
 ## Overview
 
-The peyote cactus (Lophophora williamsii) is a small, spineless cactus native to the Chihuahuan Desert, with its natural range extending from southern Texas through northeastern Mexico. Peyote has been harvested for ceremonial use by indigenous peoples for thousands of years, and the continuation of this practice is essential to the religious traditions of the [[halpern-sacramental-peyote-and-native-american-church]] Church (NAC), which has approximately 300,000 members in the United States and Canada.
-
-The ecological sustainability of peyote harvesting has become a significant conservation concern as wild populations face pressure from both legal ceremonial harvesting and illegal collection for the drug trade. Understanding the dynamics of peyote populations and the impact of harvesting is critical for ensuring the long-term viability of both the species and the religious traditions that depend on it.
-
-## Natural Distribution and Habitat
-
-Lophophora williamsii grows in a relatively restricted range within the Chihuahuan Desert biome. In the United States, it occurs primarily in Starr, Hidalgo, Webb, and Zapata counties in southern Texas, along the Rio Grande. In Mexico, its range extends through the states of Chihuahua, Coahuila, Nuevo Leon, San Luis Potosi, and Tamaulipas.
-
-The species typically grows on limestone hills and ridges, often in association with thorn scrub vegetation. It prefers well-drained calcareous soils and partial shade from peyote
-- [[metzner-peyote-ceremonies-native-american-church-and-huichol-traditions]]
+The peyote cactus ([[lophophora-williamsii]]) is a small, spineless cactus native to the Chihuahuan Desert, with its natural range extending from southern Texas through northeastern Mexico. Peyote has been harvested for ceremonial use by indigenous peoples for thousands of years, and the continuation of this practice is essential to the religious traditions of the [[metzner-peyote-ceremonies-native-american-church-and-huichol-traditions]]
 - chihuahuan desert flora
 - cactus conservation
 - ethnobotanical sustainability
-- [[harner-american-indian-peyote-rituals]]
-- peyote distributors texas
-- sacred plant conservation
-- slow growing cacti harvesting
 - [[peyote-mescaline-cactus-pharmacology]] conservation
 - texas endemic plants
 - desert plant vulnerability
@@ -87,3 +74,77 @@ and helps identify patterns that might otherwise be overlooked in the
 complexity of day-to-day management and observation activities.
 
 ## Future Directions
+
+## Overview
+
+Peyote Harvesting Sustainability represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish peyote harvesting sustainability
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving peyote extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Peyote Harvesting Sustainability finds practical application in multiple design contexts.
+[[permaculture-principles]] guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for peyote harvesting sustainability. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+peyote harvesting sustainability and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Peyote Harvesting Sustainability has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of peyote harvesting sustainability into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource

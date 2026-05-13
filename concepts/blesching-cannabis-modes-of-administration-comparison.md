@@ -1,60 +1,13 @@
 # Cannabis Modes of Administration: Pharmacokinetics and Comparison
 
 ## Source
-- **Book:** The [[blesching-cannabis-health-index-autoimmune-conditions]]: Combining the Science of [[cervantes-medical-marijuana-pharmacology]] with Mindfulness Techniques to Heal 100 Chronic Symptoms and Diseases
+- **Book:** The [[cervantes-medical-marijuana-pharmacology]] with Mindfulness Techniques to Heal 100 Chronic Symptoms and Diseases
 - **Author:** Uwe Blesching, PhD (2015)
 - **Chapter:** Chapter I — Modes of Administration
 
 ## Overview
 
-Blesching details the major routes of cannabis administration, explaining how each pathway affects onset time, duration, bioavailability, and the character of [[cervantes-terpenoid-pharmacology-therapeutic-effects]]. Understanding these [[tryptamine-vs-lsd-pharmacokinetic-differences-brain-familiarity]] is essential for patients to select the appropriate delivery method for their condition and to establish their [[blesching-cannabis-safety-profile-subjective-therapeutic-window]] window safely. This page compares all major administration routes and provides guidance for matching method to medical need.
-
-## Administration Routes
-
-Cannabis may be administered through several distinct pathways, each with unique pharmacokinetic profiles:
-
-### Inhalation (Smoking and Vaporization)
-Cannabinoids are absorbed through the alveoli of the lungs directly into the bloodstream, bypassing first-pass hepatic metabolism.
-
-**Pharmacokinetics:**
-- **Onset:** Seconds to minutes
-- **Peak effect:** 15-30 minutes
-- **Duration:** 2-4 hours
-- **Bioavailability:** 10-35% (variable due to smoking technique, inhalation depth, and individual lung physiology)
-
-**Effect characteristics:**
-- Rapid onset allows for precise, real-time dose titration
-- Effects are perceived as more "cerebral" or head-focused
-- Shorter duration requires more frequent administration for sustained relief
-- Vaporization eliminates combustion byproducts while maintaining similar pharmacokinetics
-
-**Best suited for:**
-- Acute symptom relief (pain flare, nausea, anxiety attack)
-- Patients who need immediate feedback on dosing
-- Conditions requiring rapid onset (breakthrough pain, spasms)
-- Initial therapeutic window establishment
-
-### Oral Ingestion (Edibles, Capsules, Oils)
-Cannabinoids are absorbed through the gastrointestinal tract and metabolized by the liver before entering systemic circulation (first-pass metabolism).
-
-**Pharmacokinetics:**
-- **Onset:** 30-90 minutes (up to 2 hours on a full stomach)
-- **Peak effect:** 2-4 hours
-- **Duration:** 4-8 hours (sometimes longer)
-- **Bioavailability:** 4-20% (lower than inhalation due to first-pass metabolism and variable GI absorption)
-
-**Effect characteristics:**
-- Significantly delayed onset creates risk of overconsumption
-- Hepatic conversion of THC to 11-hydroxy-THC produces more potent, longer-lasting psychoactive effects
-- Effects are perceived as more "body-centered" and sedative
-- Longer duration provides sustained relief with fewer administrations
-- Greater variability between individuals due to differences in metabolism, stomach contents, and GI transit time
-
-**Best suited for:**
-- Chronic conditions requiring sustained relief (arthritis, neuropathy, insomnia)
-- Patients who cannot or prefer not to inhale
-- Baseline maintenance dosing between inhaled rescue doses
-- Overnight [[cannabis-cancer-symptom-management]]
+Blesching details the major routes of cannabis administration, explaining how each pathway affects onset time, duration, bioavailability, and the character of [[tryptamine-vs-lsd-pharmacokinetic-differences-brain-familiarity]] is essential for patients to select the appropriate delivery method for their condition and to establish their [[cannabis-cancer-symptom-management]]
 
 ### Sublingual (Tinctures, Sprays)
 Cannabinoids are absorbed through the mucous membranes under the tongue directly into the bloodstream, partially bypassing the GI tract and liver.
@@ -118,8 +71,80 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[uwe-blesching]]
 - [[det]]
-- [[tryptamine]]
 - [[lsd]]
 - [[blesching-cannabis-modes-administration-pharmacokinetics]]
+
+## Overview
+
+Blesching Cannabis Modes Of Administration Comparison represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish blesching cannabis modes of administration comparison
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving blesching extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Blesching Cannabis Modes Of Administration Comparison finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for blesching cannabis modes of administration comparison. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+blesching cannabis modes of administration comparison and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Blesching Cannabis Modes Of Administration Comparison has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of blesching cannabis modes of administration comparison into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource

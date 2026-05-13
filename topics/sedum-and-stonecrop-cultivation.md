@@ -25,9 +25,7 @@ sources:
 
 ## Introduction
 
-The genus **Sedum** (family Crassulaceae), commonly known as **stonecrop**, comprises approximately 400–500 species of succulent flowering plants distributed across the Northern Hemisphere, with centers of diversity in Mexico, East Asia, and the Mediterranean basin. The genus name derives from the Latin *sedere* ("to sit"), referring to the way many species appear to sit upon rocks and stony ground. Stonecrops have been cultivated for centuries for their ornamental value, [[dighton-fungal-drought-tolerance-plant-water-relations]], and utility in traditional architecture, particularly in Scandinavian green roofs.
-
-Taxonomically, Sedum has undergone significant revision in recent decades. Molecular phylogenetic studies have led to the segregation of several former Sedum species into distinct genera, most notably **Hylotelephium** (upright, fall-blooming species such as S. spectabile and S. telephium) and **Phedimus** (including S. kamtschaticum and S. spurium). Despite these reclassifications, horticultural trade and common usage continue to refer to all stonecrops under the Sedum umbrella. Native ranges span alpine meadows, rocky outcrops, coastal cliffs, and semi-arid steppe environments across Europe, Asia, Africa, and [[guzman-psilocybin-mushrooms-north-america]].
+The genus **Sedum** (family Crassulaceae), commonly known as **stonecrop**, comprises approximately 400–500 species of succulent flowering plants distributed across the Northern Hemisphere, with centers of diversity in Mexico, East Asia, and the Mediterranean basin. The genus name derives from the Latin *sedere* ("to sit"), referring to the way many species appear to sit upon rocks and stony ground. Stonecrops have been cultivated for centuries for their ornamental value, [[guzman-psilocybin-mushrooms-north-america]].
 
 ## Morphology and Growth Habits
 
@@ -69,42 +67,9 @@ Sedum species exhibit remarkable morphological diversity, adapted to their varie
 
 ### Species Profiles
 
-**Sedum spurium** — Native to the Caucasus and northern Iran. Vigorous creeping ground cover with rounded, toothed leaves. Widely cultivated cultivars include 'Dragon's Blood' (red-tinged foliage, deep pink flowers), 'Tricolor' (cream and pink variegated margins), and 'Fuldaglut' (cherry-red foliage). One of the most reliable [[green-roof-and-living-walls]] species.
+**Sedum spurium** — Native to the Caucasus and northern Iran. Vigorous creeping ground cover with rounded, toothed leaves. Widely cultivated cultivars include 'Dragon's Blood' (red-tinged foliage, deep pink flowers), 'Tricolor' (cream and pink variegated margins), and 'Fuldaglut' (cherry-red foliage). One of the most reliable [[hamilton-autumn-garden-tasks]]. Notable cultivars include 'Autumn Joy', 'Brilliant', 'Meteor', and 'Matrona'.
 
-**Sedum kamtschaticum** — Native to Kamchatka, Japan, and Korea. Semi-upright habit with glossy green, toothed leaves. Excellent fall color. Cultivar 'Variegatum' features creamy-edged foliage. Important green roof species for deeper substrates.
-
-**Sedum spectabile** (Hylotelephium spectabile) — Native to China and Korea. Tall, upright clumps with broad gray-green leaves and large, flat-topped flower clusters. A cornerstone of the late-summer and [[hamilton-autumn-garden-tasks]]. Notable cultivars include 'Autumn Joy', 'Brilliant', 'Meteor', and 'Matrona'.
-
-**Sedum acre** — Native to Europe and North Africa. One of the smallest stonecrops, forming tight golden-green mats. Extremely [[drought-tolerant-planting-design]] but can become aggressive in ideal conditions. Contains alkaloids that make it mildly toxic if ingested in quantity.
-
-**Sedum album** — Widespread across Europe and North Africa. Forms dense white-flowered mats. Numerous cultivars including 'Coral Carpet' (pink new growth), 'Murale' (compact form), and variegated selections. Highly adaptable.
-
-**Sedum rupestre** (S. reflexum in some treatments) — Native to European mountain regions. Blue-gray, needle-like foliage. Cultivars include 'Angelina' (golden yellow foliage, one of the most popular ornamental sedums worldwide), and 'Blue Spruce' (silver-blue foliage).
-
-**Sedum reflexum** — Often treated as synonymous with S. rupestre or as a closely related species. Blue-green, cylindrical, reflexed leaves. Excellent for green roofs and rock gardens.
-
-**Sedum sexangulare** — Native to Europe. Distinguished by six-ranked (hexagonal) leaf arrangement visible from above. Extremely durable; often the dominant survivor on old Scandinavian sod roofs.
-
-**Sedum ternatum** — One of the few sedums native to eastern North America. Shade-tolerant woodland stonecrop with whorls of three leaves. White star-shaped flowers in spring. Valuable for native plant gardens and shaded sites.
-
-**Sedum dasyphyllum** — Native to the Mediterranean. Tiny, compact species with powdery-blue, densely packed leaves. Best suited to rock gardens and containers in well-drained conditions. Less cold-hardy than many sedums.
-
-## Cultural Requirements
-
-### Light
-
-- **Full sun** (6+ hours direct sunlight) is preferred by the vast majority of sedum species for optimal flowering, foliage color, and compact habit.
-- **Partial shade** (3–6 hours) is tolerated by many species, though growth may become lank and flowering reduced. S. ternatum and S. makinoi perform well in shade.
-- **Deep shade** is poorly tolerated by most species except S. ternatum and a few woodland natives.
-- In hot interior climates (USDA Zones 8–9), afternoon shade can prevent scorching of delicate species like S. dasyphyllum.
-
-### Soil
-
-- Well-drained soil is the single most critical requirement. Heavy clay soils must be amended with gravel, sand, or perlite.
-- **Lean, nutrient-poor soils** produce the best results. Rich soils promote floppy, soft growth and reduce winter hardiness.
-- Ideal soil composition for garden beds: sandy loam with 30–50% mineral aggregate (gravel, grit, or expanded shale).
-- **pH tolerance**: Most species adapt to a wide range (pH 5.5–8.0). Slightly acidic to neutral soils are generally optimal.
-- Green roof substrates should be engineered mineral blends with minimal organic content (typically ≤5–10% [[fukuoka-textdoc-composting-critique-futility-prepared-organic-matter]] by volume).
+**Sedum acre** — Native to Europe and North Africa. One of the smallest stonecrops, forming tight golden-green mats. Extremely [[fukuoka-textdoc-composting-critique-futility-prepared-organic-matter]] by volume).
 
 ### Water Needs
 
@@ -132,13 +97,7 @@ Sedum species exhibit remarkable morphological diversity, adapted to their varie
 ### Leaf Cuttings
 
 - Effective for many species, especially those with thick, fleshy leaves.
-- Remove individual healthy leaves and lay them on dry, well-drained [[solomon-potting-mix-and-seedling-soil-recipe]].
-- Small plantlets will form at the leaf base within 3–6 weeks.
-- Works well for S. album, S. dasyphyllum, and other small-leaved species.
-
-### Division
-
-- Best performed in [[coleman-overwintered-onions-and-early-spring-crops]] as new growth begins.
+- Remove individual healthy leaves and lay them on dry, well-drained [[coleman-overwintered-onions-and-early-spring-crops]] as new growth begins.
 - Dig clumps and separate into sections, each with roots and growing points.
 - Replant immediately at the same depth.
 - Essential for rejuvenating older, center-dying clumps of upright species like S. spectabile.

@@ -35,14 +35,7 @@ At 500 mg: "Intense and annoying visual disturbances, and complete collapse of m
 
 ### Harmaline Combined with DMT (Pharmahuasca)
 
-This is where harmaline's [[tihkal-oral-activity-mao-inhibition]] becomes transformative:
-
-| Harmaline | DMT | Result |
-|-----------|-----|--------|
-| 20 mg | 55 mg | Minimal -- 3 hours to onset, mild effects |
-| 50 mg | 60 mg | No significant effects |
-| 80 mg | 40 mg | "Quite a bit of visual activity" |
-| 100 mg | 120 mg | Full [[leary-psychedelic-experience-bardo-mapping]] at 80 minutes |
+This is where harmaline's [[leary-psychedelic-experience-bardo-mapping]] at 80 minutes |
 | 150 mg | 35 mg | "Highly effective MAO blocker" at the 35 mg DMT level |
 
 **Key finding**: 150 mg harmaline is highly effective as an MAO blocker, making as little as 35 mg DMT orally active. The effects are qualitatively different from either compound alone and can last 4+ hours.
@@ -71,8 +64,7 @@ Harmine is the other major alkaloid found in [[mckenna-food-gods-peganum-harmala
 - Natural isolate is the **dextrorotatory isomer** ([alpha]D +32 degrees)
 
 ### Importance in Ayahuasca
-Tetrahydroharmine may be an extremely important factor in [[ayahuasca-pharmacology]]:
-- Present **along with harmaline and harmine** in [[mckenna-peganum-harmala-soma-substitute-psilocybin-synergy]]
+Tetrahydroharmine may be an extremely important factor in [[mckenna-peganum-harmala-soma-substitute-psilocybin-synergy]]
 - Reported at levels **equal to those of harmine** in analyses of ayahuasca samples
 - Harmaline itself is usually present in "rather small amounts" in ayahuasca
 - Yet it remains essentially **unexplored** pharmacologically in controlled settings

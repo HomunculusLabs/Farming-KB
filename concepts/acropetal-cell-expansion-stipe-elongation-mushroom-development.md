@@ -13,7 +13,7 @@ Stipe (stem) elongation in mushrooms is primarily driven by acropetal (base-to-t
 cell expansion rather than widespread cell division. This fundamental insight,
 established through anatomical studies of *Psilocybe cubensis* and other agarics,
 has important implications for understanding how tropic responses produce curvature
-and how [[duggar-mushroom-environmental-factors-temperature-moisture-light]] modulate [[brassinosteroid-fungal-fruiting-body-morphology]].
+and how [[brassinosteroid-fungal-fruiting-body-morphology]].
 
 ## Anatomical Basis of Stipe Growth
 
@@ -54,32 +54,7 @@ The term "acropetal" refers to development proceeding from the base toward the a
   length, as individual cells or groups of cells sense and respond to environmental
   gradients.
 
-Craig and Gull (1977) investigated stipe elongation in *[[agaricus-bisporus]]* and
-confirmed that while some cell division may continue at the upper part of the stipe
-during active elongation, the dominant growth mechanism is cell expansion of
-pre-existing cells.
-
-## Connection to Tropic Curvature
-
-The acropetal cell expansion model provides a mechanical explanation for how
-directional stimuli produce stipe curvature in *Psilocybe cubensis* and related
-species:
-
-1. A directional stimulus (e.g., wind creating asymmetric evaporative demand)
-  creates a gradient across the stipe — for example, higher evaporative demand on
-  the windward side and lower demand on the leeward side.
-
-2. Cells on both sides of the stipe undergo acropetal expansion, but the rate of
-  expansion differs: cells on the leeward side (with thicker boundary layer, higher
-  humidity) expand more rapidly than cells on the windward side (with thinner
-  boundary layer, greater drying effect).
-
-3. The differential expansion rates produce a bend in the stipe toward the side
-  experiencing greater evaporative demand (i.e., into the wind), consistent with
-  Badham's (1982) observations of anemotropism.
-
-This mechanism requires that individual cells or localized cell groups can sense
-and respond independently to [[fungal-adaptations-environmental-gradients]], a property that is consistent
+Craig and Gull (1977) investigated stipe elongation in *[[fungal-adaptations-environmental-gradients]], a property that is consistent
 with the distributed nature of stipe growth.
 
 ## Cell Division at the Stipe Apex
@@ -138,12 +113,6 @@ Understanding stipe elongation has practical implications:
 - **Humidity**: High, uniform humidity minimizes asymmetric evaporative stress.
 - **Temperature**: Avoiding gradients prevents differential expansion causing
   malformed fruiting bodies.
-- **Lighting**: Necessary for fruiting initiation [[geotropism-and-spore-production-in-mushrooms]], but
-  stipe elongation effects are mediated through evaporative demand.
-
-## See Also
-
-- [[evaporative-demand-hypothesis-mushroom-tropism]] — Environmental gradient model
-- [[basidiocarp-four-stage-development-classification-psilocybe-cubensis-badham-1982]] — Staging
+- **Lighting**: Necessary for fruiting initiation [[evaporative-demand-hypothesis-mushroom-tropism]] — Environmental gradient model
 - [[anemotropism-in-psilocybe-cubensis]] — Wind-directed growth
 - [[mushroom-geotropism-spore-formation]] — Gravity response linked to sporulation

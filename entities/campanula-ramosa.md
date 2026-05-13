@@ -111,11 +111,7 @@ The species has no known traditional uses in herbal medicine or folk culture. It
 
 ## See Also
 
-- [[campanula-rotundifolia]]
 - [[campanula-carpatica]]
-- [[campanula-portenschlagiana]]
 - [[campanula-poscharskyana]]
-- [[jasione-perennis]]
 - [[lobelia-erinus]]
-- [[phyteuma-spicatum]]
 - [[campanula-persicifolia]]

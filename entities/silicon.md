@@ -22,15 +22,7 @@ sources:
 ## Overview
 Silicon is the chemical element with symbol Si and atomic number 14.
 It is a hard, brittle, blue-gray crystalline solid in its elemental form.
-Chemically it belongs to group 14 of the [[semiconductor-band-structure]] as the standard indirect-gap semiconductor.
-Its technological importance is so large that the late twentieth-century information economy is often called the Silicon Age.
-
-## Entity Type
-- Category: chemical element.
-- Symbol: Si.
-- Atomic number: 14.
-- Periodic table group: group 14.
-- Common [[crystal-structure-and-crystal-defects]]: diamond cubic.
+Chemically it belongs to group 14 of the [[crystal-structure-and-crystal-defects]]: diamond cubic.
 - Electronic class: semiconductor.
 - Band-gap character: indirect gap.
 - Wiki relevance: baseline material for semiconductor band-structure comparisons.
@@ -47,9 +39,7 @@ Electronic-grade silicon, however, requires purification far beyond ordinary min
 
 ## Discovery and Naming
 Human use of silicon compounds is prehistoric because stones, clays, and silica sands are everywhere.
-Glass containing silica was made in [[shroom-cultural-history-mushroom-in-ancient-civilizations]] long before elemental silicon was isolated.
-Antoine Lavoisier suspected that silica might contain an undiscovered element.
-Humphry Davy proposed the name silicium in the early [[mckenna-club-des-hachischins-and-nineteenth-century-literary-hashish]].
+Glass containing silica was made in [[mckenna-club-des-hachischins-and-nineteenth-century-literary-hashish]].
 Jons Jakob Berzelius is credited with preparing and characterizing relatively pure silicon in 1823.
 The English name silicon reflects its relation to silex, the Latin root for flint.
 The naming history mirrors a scientific transition from mineral craft to chemical element theory.
@@ -88,3 +78,11 @@ The same infrastructure that makes silicon cheap also makes incremental improvem
 Silicon's native oxide is a defining advantage.
 Silicon dioxide can be grown thermally with good interface quality.
 It acts as a gate dielectric, passivation layer, field oxide, and masking material.
+
+## See Also
+
+- [[silicon-plant-nutrition-beneficial-element]]
+- [[cervantes-silicon-silica-beneficial-mineral]]
+- [[mineral-nutrients-magnesium-aluminium-silicon-phosphorus]]
+- [[comparison-silicon-vs-calcium-in-plant-defense-and-structural-support]]
+- [[magnesium-aluminium-silicon-phosphorus-in-soils]]

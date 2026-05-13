@@ -21,23 +21,9 @@ Fungi play a central role in the transformation of rocks and minerals, driving p
 
 Geomycology is the study of fungal interactions with minerals and geological substrates. Rocks and minerals represent a vast reservoir of essential elements including Na, K, Mg, Ca, Mn, Mo, Fe, Co, Ni, Cu, Zn, and crucially, phosphorus. All these elements must be released into bioavailable forms through weathering — the physical, chemical, and biological breakdown of rock substrates.
 
-Fungi have been components of terrestrial microbial communities since the Ordovician period (480–460 million years ago), inhabiting deserts, metal-rich habitats, and hypersaline environments. Their filamentous growth habit, high surface-area-to-mass ratio, and ability to translocate nutrients within [[basidiomycete-phylum-guide]] occur on rock surfaces and within cracks, fissures, and pores. Fungi have been found in limestone, soapstone, marble, granite, sandstone, andesite, basalt, gneiss, dolerite, amphibolite, and quartz.
+Fungi have been components of terrestrial microbial communities since the Ordovician period (480–460 million years ago), inhabiting deserts, metal-rich habitats, and hypersaline environments. Their filamentous growth habit, high surface-area-to-mass ratio, and ability to translocate nutrients within [[fungal-ecology-decomposition-cycles]] is especially significant in forest soils where mycorrhizal fungi dominate microbial biomass.
 
-## Fungal Bioweathering in Practice
-
-Aspergillus niger and Penicillium expansum can degrade olivine, dunite, serpentine, muscovite, feldspar, spodumene, kaolin, nepheline, and basalt. Penicillium simplicissimum and Scopulariopsis brevicaulis release aluminium from aluminosilicates. Alkaline rocks are generally more susceptible to fungal attack than acidic rocks.
-
-Fungal bioweathering of basaltic outcrops in sub-polar areas is believed to be chronologically the first weathering process, preceding cryogenic weathering. Alongside bacteria, fungi contribute to weathering of silicate-bearing rocks (mica, orthoclase) and iron- and manganese-bearing minerals (biotite, olivine, pyroxene).
-
-## Metal Immobilization and Secondary Mineral Precipitation
-
-Fungi can immobilize mobile metal species through biosorption to biomass (cell walls, pigments, extracellular polysaccharides), intracellular accumulation, and extracellular precipitation. They are highly efficient bioaccumulators of Ni, Zn, Ag, Cu, Cd, and Pb, even from dilute concentrations. Metal binding occurs in both living and dead fungal biomass.
-
-The formation of secondary minerals — organic and inorganic precipitates on and within cell walls — is influenced by environmental pH and cell wall composition. Cations such as Si⁴⁺, Fe³⁺, Al³⁺, and Ca²⁺ stimulate precipitation of compounds that act as bonding agents for [[fungal-ecology-decomposition-cycles]] is especially significant in forest soils where mycorrhizal fungi dominate microbial biomass.
-
-The precipitation of carbonates, phosphates, and hydroxides by fungi increases soil aggregation and organic matter stabilization. In [[fungal-building-material-deterioration]] and infrastructure integrity.
-
-Mycorrhizal fungi are increasingly used in phytoremediation — the use of plants to clean contaminated soil — because they simultaneously enhance plant metal tolerance and alter metal speciation in the rhizosphere. Fungal [[comparison-bioremediation-strategies-vs-biostimulation-techniques]] include biopiles (contaminated soil mixed with [[cervantes-organic-amendments-chart]] and inoculated with fungi), mycofiltration (fungal mats used to filter contaminated water), and [[comparison-constructed-wetlands-vs-bioswales]] where fungal communities contribute to nutrient and pollutant transformation.
+The precipitation of carbonates, phosphates, and hydroxides by fungi increases soil aggregation and organic matter stabilization. In [[comparison-bioremediation-strategies-vs-biostimulation-techniques]] include biopiles (contaminated soil mixed with [[comparison-constructed-wetlands-vs-bioswales]] where fungal communities contribute to nutrient and pollutant transformation.
 
 ## Fungal Weathering and the Carbon Cycle
 
@@ -49,7 +35,7 @@ Fungi have been isolated from some of the most extreme environments on Earth, in
 
 ## Fungal Biomass as a Carbon Sink
 
-Fungi represent a massive but often overlooked carbon reservoir in terrestrial ecosystems. Mycelial biomass in forest soils can contain 50-70% of total soil microbial biomass, and individual [[fungal-mycelial-networks-nutrient-translocation]] of ectomycorrhizal fungi can extend for hundreds of hectares and contain tons of carbon. The carbon stored in living fungal biomass, dead hyphal residues, and fungal necromass (the organic matter left after fungal death) constitutes a significant fraction of total soil organic carbon. Fungal necromass is particularly recalcitrant to decomposition because fungal cell walls contain chitin and melanin — compounds that resist enzymatic breakdown. This means that carbon incorporated into fungal biomass tends to persist in soil longer than carbon from bacterial or plant sources, making fungal biomass management an important consideration in carbon sequestration strategies. Practices that promote fungal abundance — reduced tillage, cover cropping, [[teaming-with-fungi-mycorrhizal-inoculation-techniques]], and organic matter inputs — simultaneously improve soil health and contribute to climate change mitigation.
+Fungi represent a massive but often overlooked carbon reservoir in terrestrial ecosystems. Mycelial biomass in forest soils can contain 50-70% of total soil microbial biomass, and individual [[teaming-with-fungi-mycorrhizal-inoculation-techniques]], and organic matter inputs — simultaneously improve soil health and contribute to climate change mitigation.
 
 ## Fungal Interactions with Heavy Metals in Mining Environments
 
@@ -61,7 +47,6 @@ Rock surfaces in diverse environments are often colonized by fungal communities 
 
 ## See Also
 
-- [[fungal-biogeochemistry]]
 - [[fungal-calcium-oxalate-crystals]]
 - rock-eating-fungi-and-mineral-weathering
 ## Practical Considerations
@@ -112,8 +97,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[fungal-bioweathering]]
 - [[dom]]
-- [[det]]
 - [[mycofiltration]]
 - [[swale]]

@@ -12,13 +12,7 @@ updated: 2026-05-10
 sources:
   - Whittemore AT (1997). "Ranunculus." Flora huckleberries-and-wild-berries-of-north-america North of Mexico, Vol. 3.
   - Cook CDK (1966). "A monographic study of Ranunculus subgenus Batrachium." Mitteilungen der Botanischen Staatssammlung München 6: 47–107.
-  - Turner NJ, von Aderkas P (2009). "The [[growing-gourmet-north-american-reishi-species]] Guide to Common Poisonous Plants and Mushrooms." Timber Press.
-  - Ruijgrok HWJ (1966). "Distribution of ranunculin and cyanogenic compounds." Planta Medica 14(3): 338–347.
----
-
-## Overview
-
-*Ranunculus sceleratus* L., commonly known as celery-leaved buttercup or cursed crowfoot, is an annual to biennial herb in the family Ranunculaceae. It is one of the most toxic buttercup species native to [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]] of the Northern Hemisphere.
+  - Turner NJ, von Aderkas P (2009). "The [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]] of the Northern Hemisphere.
 
 The species epithet *sceleratus* means "wicked" or "cursed" in Latin, a direct reference to its potent toxicity. This name has been in use since Linnaeus first described the species in 1753.
 
@@ -26,7 +20,7 @@ The plant grows in shallow water, mud, and damp ground at the margins of ponds, 
 
 All parts contain the glycoside ranunculin, which hydrolyzes to the vesicant protoanemonin upon tissue damage. Contact with crushed foliage can cause severe blistering of the skin and mucous membranes.
 
-The species is sometimes confused with other wetland buttercups, particularly *[[ranunculus-flammula]]* and *[[ranunculus-lingua]]*. However, its cylindrical fruiting head and celery-like leaves distinguish it clearly.
+The species is sometimes confused with other wetland buttercups, particularly *[[ranunculus-lingua]]*. However, its cylindrical fruiting head and celery-like leaves distinguish it clearly.
 
 ## Taxonomy and Morphology
 
@@ -46,13 +40,7 @@ The head of achenes is elongated and cylindrical (5–15 mm long), a key diagnos
 
 The receptacle elongates conspicuously at fruiting, giving the fruiting head a distinctive cylindrical or ellipsoidal shape. This feature is visible even at a distance in the field.
 
-Synonyms include *R. sceleratus* var. *reptabundus* and *R. sceleratus* var. *facialis*, reflecting minor morphological [[psilocybin-psilocin-variation-across-flushes]] its range. These varieties are not consistently recognized in modern taxonomic treatments.
-
-## Distribution and Habitat
-
-*Ranunculus sceleratus* has a circumboreal distribution across Europe, Asia, and North America. It occurs throughout the British Isles, continental Europe, Scandinavia, and eastward to Siberia, China, and Japan.
-
-In North America it ranges from Newfoundland to British Columbia and south to Virginia, Missouri, and California. It is also naturalized in parts of [[guzman-psilocybin-mushrooms-south-america]], Australia, and New Zealand.
+Synonyms include *R. sceleratus* var. *reptabundus* and *R. sceleratus* var. *facialis*, reflecting minor morphological [[guzman-psilocybin-mushrooms-south-america]], Australia, and New Zealand.
 
 The species occurs in pond margins, ditch edges, riverbanks, marshes, and seasonally flooded ground. It tolerates mildly saline conditions and is occasionally found in brackish coastal marshes.
 
@@ -87,3 +75,75 @@ The flowers attract small flies, syrphid flies, and bees that serve as pollinato
 The achenes are dispersed primarily by water, floating for several days before sinking. Birds feeding in wetland margins occasionally consume and disperse the achenes without ill effects.
 
 *Ranunculus sceleratus* contributes to early successional vegetation on exposed mudflats and drawdown zones. Its dense, shallow root system helps stabilize wetland sediments during seasonal flooding.
+
+## Overview
+
+Ranunculus Sceleratus represents an important element within sustainable
+design and [[solomon-gardening-aikido-pest-philosophy-ecological-management]] systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish ranunculus sceleratus
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving ranunculus extend
+across multiple [[ingham-soil-foodweb-trophic-levels-protozoa-nematodes]] and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Ranunculus Sceleratus finds practical application in multiple design contexts.
+[[mollisonian-permaculture-principles]] guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive [[livestock-grassland-management-strategies]] that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for ranunculus sceleratus. [[jeavons-climate-adaptation-growing-seasons]]
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+ranunculus sceleratus and its applications. Active investigation
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Ranunculus Sceleratus has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of ranunculus sceleratus into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions

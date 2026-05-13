@@ -18,73 +18,108 @@ tags:
   - creative
 sources:
   - Leafly. "Jet Fuel Weed Strain Information." www.leafly.com/strains/jet-fuel
-  - AllBud. "Jet Fuel [[marijuana-strain-guide-hybrid]] Information." www.allbud.com/marijuana-strains/hybrid/jet-fuel
-  - Wikileaf. "Jet Fuel Strain Review." www.wikileaf.com/strain/jet-fuel
-  - Seedsman. "Jet Fuel by 303 Seeds." www.seedsman.com
-  - Erowid. "Cannabis Vault." www.erowid.org/plants/cannabis
----
-
-## Overview
-
-Jet Fuel, also known as Jet Fuel OG or G6, is a sativa-dominant hybrid [[blesching-cannabis-strain-selection-receptor-targeting]]
+  - AllBud. "Jet Fuel [[blesching-cannabis-strain-selection-receptor-targeting]]
 renowned for its potent cerebral effects and pungent diesel-fuel aroma. Bred by 303 Seeds
 in Colorado, it combines the energetic genetics of Aspen OG with the legendary
 High Country Diesel lineage.
 
 The strain has earned a devoted following among medical and recreational users seeking
 strong daytime stimulation without heavy sedation. Its name directly references the
-intense, fuel-like [[cannabis-terpene-profile]] that hits the senses immediately upon opening a jar.
-
-With THC levels typically ranging from 20% to 28%, Jet Fuel is considered a heavy-hitter
-best suited for experienced consumers. Its reputation places it alongside other
-diesel-family powerhouses like [[cannabis-sour-diesel]] and NYC Diesel.
+intense, fuel-like [[cannabis-sour-diesel]] and NYC Diesel.
 
 ## Strain Classification
 
 - **Type:** Sativa-dominant hybrid (approximately 70/30 sativa-indica)
 - **Lineage:** Aspen OG × High Country Diesel
 - **Breeder:** 303 Seeds, Colorado, circa 2012
-- **[[thc-content-factors-cultivation-freshness-storage-degradation-blesching]]:** 20–28%
-- **CBD content:** Low (<1%)
-
-## Aroma and Flavor Profile
-
-- **Primary aromas:** Diesel fuel, skunk, pine
-- **Secondary notes:** Citrus, earth, chemical pungency
-- **Taste:** Harsh diesel on inhale with a sweet citrus-pine exhale
-
-The aroma is immediately recognizable — an aggressive, fuel-forward scent that can
-fill a room. The diesel notes come from high concentrations of myrcene and caryophyllene,
-while limonene provides the bright citrus undertone that balances the pungency.
-
-The flavor is similarly intense, with the diesel and skunk dominating on the inhale and
-a slightly sweet, earthy finish on the exhale. Smoke is thick and expansive.
-
-## Effects and Pharmacology
-
-- **Onset:** Rapid, typically within minutes
-- **Duration:** 2–3 hours
-- **Primary effects:** Euphoria, cerebral stimulation, creative energy, focus
-- **Body effects:** Mild physical relaxation without sedation
-- **[[oner-sativa-medical-applications]]:** [[cannabis-chronic-fatigue-research]], depression, ADHD, stress, mild pain
-- **Side effects:** Dry mouth, dry eyes, anxiety at high doses, paranoia in novices
-
-Jet Fuel delivers a fast-acting, predominantly cerebral high. The onset is rapid and
-uplifting, producing a rush of euphoria and mental clarity that most users describe as
-energizing rather than anxious.
-
-The sativa-dominant profile makes it popular as a daytime strain. Users report enhanced
-focus and creative output, making it a choice for artists, writers, and professionals.
-
-At higher doses, the Aspen OG indica influence becomes more apparent, adding a gentle
-body buzz that grounds the cerebral effects. Novice users should approach with caution
-due to the high THC content.
-
-## Growing Characteristics
-
-- **[[what-a-plant-knows-photoperiodism-flowering-time-measurement]]:** 8–9 weeks indoors
+- **[[oner-sativa-medical-applications]]:** [[what-a-plant-knows-photoperiodism-flowering-time-measurement]]:** 8–9 weeks indoors
 - **Yield:** Moderate to high (400–500 g/m² indoor)
 - **Height:** Medium to tall, can stretch significantly in early flower
 - **Difficulty:** Moderate
 - **Climate:** Prefers warm, dry conditions; Colorado-adapted genetics
 - **Resistance:** Good mold resistance; moderate [[cannabis-disease-pest-resistance-breeding-clarke]]
+
+## Overview
+
+Jet Fuel represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish jet fuel
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving jet extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Jet Fuel finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for jet fuel. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+jet fuel and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Jet Fuel has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of jet fuel into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[coppice-fuel-forest]]
+- [[holmgren-fossil-fuel-pulse-and-energy-descent-cycle]]
+- [[holmgren-nuclear-and-fossil-fuel-techno-optimism]]
+- [[permaculture-on-farm-alcohol-fuel-production]]
+- [[yulara-fuel-forest]]

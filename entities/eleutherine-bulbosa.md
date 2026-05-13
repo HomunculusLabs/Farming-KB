@@ -22,68 +22,100 @@ sources:
 ## Overview
 
 **Eleutherine bulbosa** (Mill.) Urb. is a perennial herbaceous plant in the
-family Iridaceae, native to the Amazon basin and tropical [[guzman-psilocybin-mushrooms-south-america]].
-Known locally as "marupazinho" (Brazil), "ajosillo" (Peru), and "lirio
-amarillo" (Colombia), it has a long history of use in indigenous and
-traditional medicine across the Amazon region.
-
-The species is valued for its bright orange-red bulb-like corms, which
-contain a unique profile of naphthoquinone and naphthalene derivatives with
-documented antimicrobial, anti-inflammatory, and antitumor properties.
-It is gaining research attention as a source of bioactive lignans and
-quinones with pharmaceutical potential.
-
-## Taxonomy and Morphology
-
-- **Kingdom:** Plantae; **Order:** Asparagales
-- **Family:** Iridaceae; **Subfamily:** Iridoideae
-- **Genus:** Eleutherine; **Species:** *E. bulbosa* (Mill.) Urb.
-- **Synonyms:** *Sisyrinchium bulbosum* Mill., *Eleutherine plicata*
-  Herb., *Ixia bulbosa* (Mill.) Pers.
-
-The plant grows 30–60 cm tall from a cluster of bright orange to
-red, ovoid corms 1–3 cm in diameter. The corms are the primary
-medicinal part and are the most distinctive feature of the species.
-
-Leaves are linear, sword-shaped (ensiform), 20–40 cm long and
-1–2 cm wide, arranged in a fan-like basal rosette, with a
-prominent central midrib and parallel venation.
-
-The inflorescence is a terminal, branched panicle bearing numerous
-flowers 1.5–2 cm across. Flowers are white to pale pink with six
-tepals, a central style, and yellow anthers. The fruit is a
-capsule containing dark brown, winged seeds.
-
-## Distribution and Habitat
-
-Native to the Amazon basin, spanning northern Brazil, Peru, Colombia,
-Ecuador, Bolivia, and the Guianas. Also found in [[guzman-allen-gartz-neurotropic-fungi-central-america-caribbean]] and
+family Iridaceae, native to the Amazon basin and tropical [[guzman-allen-gartz-neurotropic-fungi-central-america-caribbean]] and
 the Caribbean (Trinidad and Tobago). The species has been introduced
-to tropical Africa and [[psilocybe-southeast-asia-pacific]].
-
-It grows in humid lowland [[fungal-biodiversity-tropical-forests]], along riverbanks, in
+to tropical Africa and [[fungal-biodiversity-tropical-forests]], along riverbanks, in
 forest clearings, and in disturbed sites. Elevational range: 0–800 m.
 Prefers well-drained sandy loam soils, partial to full shade, and
 annual rainfall exceeding 1,500 mm.
 
 ## Bioactive Compounds
 
-The corms contain a distinctive array of [[antifungal-secondary-metabolites-coprophilous-fungi]],
-primarily naphthoquinones and naphthalene-derived lignans:
-
-- **Eleutherin** (red naphthoquinone): The namesake compound;
-  antimicrobial and cytotoxic activity against tumor cell lines.
-- **Isoeleutherin**: Isomer of eleutherin; similar bioactivity
-  with slightly different selectivity profile.
-- **Eleutherol**: Naphthalene derivative with anti-inflammatory
-  activity via COX-2 inhibition.
-- **Eleuthero** and **elecanacin**: Phenylethylphenanthrolignans;
-  exhibit significant antifungal and antibacterial activity.
-- **Eleuthoside B**: A naphthalene glucoside with moderate
-  cytotoxicity against select [[blesching-cannabis-apoptosis-and-cancer-cell-death]] lines.
+The corms contain a distinctive array of [[blesching-cannabis-apoptosis-and-cancer-cell-death]] lines.
 
 The total naphthoquinone content of dried corms ranges from
 0.3–1.2% depending on source and processing. The orange-red
 color of fresh corms is due primarily to eleutherin concentration.
 
 ## Pharmacology and Traditional Uses
+
+## Overview
+
+Eleutherine Bulbosa represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish eleutherine bulbosa
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving eleutherine extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Eleutherine Bulbosa finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for eleutherine bulbosa. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+eleutherine bulbosa and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Eleutherine Bulbosa has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of eleutherine bulbosa into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[armillaria-bulbosa]]

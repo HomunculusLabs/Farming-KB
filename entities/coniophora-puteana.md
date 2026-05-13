@@ -16,13 +16,7 @@ sources:
 
 # Coniophora puteana
 
-**Coniophora puteana** is a basidiomycete fungus commonly known as the **cellar fungus** or **wet rot fungus**. It is one of the most economically significant wood-decay fungi in the built environment, causing a type of brown rot that can severely compromise the structural integrity of timber in buildings. Unlike its notorious relative *[[fungal-serpula-lacrymans-dry-rot-buildings]]* (the true dry rot fungus), *C. puteana* requires sustained high moisture levels to proliferate, typically above 20 to 30 percent wood moisture content.
-
-## Taxonomy and Classification
-
-- **Kingdom:** Fungi
-- **Division:** Basidiomycota
-- **Class:** [[white-rot-fungi]], brown rot fungi do not extensively degrade lignin but do cause some chemical modification, including demethoxylation
+**Coniophora puteana** is a basidiomycete fungus commonly known as the **cellar fungus** or **wet rot fungus**. It is one of the most economically significant wood-decay fungi in the built environment, causing a type of brown rot that can severely compromise the structural integrity of timber in buildings. Unlike its notorious relative *[[white-rot-fungi]], brown rot fungi do not extensively degrade lignin but do cause some chemical modification, including demethoxylation
 4. **Moisture Requirement:** The decay process requires a high wood moisture content, typically above 20 to 25 percent. Sources of moisture include plumbing leaks, rising damp, condensation, and poor ventilation
 
 ## Habitat and Distribution
@@ -46,18 +40,7 @@ sources:
 Identification of *C. puteana* decay in buildings involves:
 
 - **Visual Inspection:** Brown, cracked wood with cubical fracture pattern; thin, leathery fruiting bodies on wood surfaces; absence of extensive mycelial sheets or rhizomorphs (distinguishing from dry rot)
-- **Moisture Assessment:** Use of [[cervantes-moisture-meters-watering-technique]] to identify areas of elevated wood moisture content
-- **Laboratory Culture:** Isolation on malt extract agar; *C. puteana* produces characteristic olive-brown to dark brown colonies with aerial mycelium
-- **[[fungal-microscopic-examination-mounting-media-techniques]]:** Presence of capitate cystidia and characteristic basidiospore morphology
-- **[[biodiversity-fungal-molecular-identification-dna-barcoding]]:** PCR-based methods using species-specific primers for rapid and accurate identification from wood samples
-
-## Control and Remediation
-
-Control of *C. puteana* in buildings focuses on moisture management:
-
-- **Moisture Control:** The most important measure is identifying and eliminating the source of moisture. Without sustained high moisture, the fungus cannot grow and will eventually die
-- **Timber Replacement:** Severely decayed structural timber should be replaced with preservative-treated or naturally durable timber
-- **Chemical Treatment:** Fungicidal treatments may be applied to adjacent timber as a preventive measure, though they are not a substitute for moisture control
+- **Moisture Assessment:** Use of [[fungal-microscopic-examination-mounting-media-techniques]]:** Presence of capitate cystidia and characteristic basidiospore morphology
 - **[[eclss-environmental-control-life-support]]:** Improving ventilation, installing damp-proof courses, and maintaining heating to reduce humidity
 - **Monitoring:** Regular inspection of vulnerable areas, particularly after plumbing repairs or flood remediation
 
@@ -84,7 +67,84 @@ Control of *C. puteana* in buildings focuses on moisture management:
 
 Standardized protocols for working with *C. puteana* include:
 
-- **Culturing:** Grows well on malt extract agar (MEA, 2 to 4% malt extract) at 22 to 25°C. Optimal growth occurs at 25°C with 70 to 80% relative humidity. Colonies reach 50 to 70 mm diameter in 7 days
+- **Culturing:** Grows well on [[malt-extract-agar]] (MEA, 2 to 4% malt extract) at 22 to 25°C. Optimal growth occurs at 25°C with 70 to 80% relative humidity. Colonies reach 50 to 70 mm diameter in 7 days
 - **Wood Block Testing (EN 113):** The European standard prescriptively details inoculation of 50 x 25 x 15 mm sapwood blocks of Scots pine (*Pinus sylvestris*) with *C. puteana* on a feeder block in a culture jar. Mass loss after 12 weeks is the primary endpoint, with >20% mass loss indicating poor preservative efficacy
 - **Moisture Content Determination:** Wood moisture content is calculated gravimetrically after oven-drying at 103 ± 2°C to constant weight, following EN 13183-1
 - **Molecular Identification:** ITS rDNA sequencing provides reliable species-level identification. Species-specific PCR primers have been developed for rapid detection from wood samples without the need for culturing
+
+## Overview
+
+Coniophora Puteana represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish coniophora puteana
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving coniophora extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Coniophora Puteana finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for coniophora puteana. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+coniophora puteana and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Coniophora Puteana has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of coniophora puteana into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.

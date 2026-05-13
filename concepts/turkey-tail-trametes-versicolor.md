@@ -1,5 +1,5 @@
 ---
-title: Turkey Tail Trametes Versicolor
+title: Turkey Tail (Trametes versicolor)
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
@@ -21,7 +21,7 @@ Trametes versicolor, commonly known as turkey tail, is one of the most widesprea
 - **Order**: Polyporales
 - **Family**: Polyporaceae
 - **Genus**: Trametes
-- **Species**: T. versicolor (syn. [[coriolus-versicolor]])
+- **Species**: T. versicolor (syn. Coriolus versicolor)
 
 ### Morphology
 
@@ -37,7 +37,7 @@ Trametes versicolor, commonly known as turkey tail, is one of the most widesprea
 ### Lookalikes
 
 - **False turkey tail (Stereum ostrea)**: Similar colors and shape but lacks pores — has a smooth, sterile undersurface. More orange tones. Not known to be toxic but lacks medicinal value.
-- **[[trametes-hirsuta]]**: Similar but uniformly gray-brown, less colorful zoning
+- **Trametes hirsuta**: Similar but uniformly gray-brown, less colorful zoning
 - **Fomes fomentarius**: Hoof-shaped, much thicker flesh, different growth form
 
 ### How to Distinguish
@@ -71,7 +71,7 @@ Clinical evidence for PSK:
 
 ### Mechanisms of Action
 
-1. **Immune modulation**: PSK and PSP activate immune cells including NK cells, macrophages, dendritic cells, and T-lymphocytes. They act as [[medicinal-mushrooms-biological-response-modifiers]] (BRMs).
+1. **Immune modulation**: PSK and PSP activate immune cells including NK cells, macrophages, dendritic cells, and T-lymphocytes. They act as biological response modifiers (BRMs).
 
 2. **Dendritic cell maturation**: Turkey tail polysaccharides promote dendritic cell maturation, enhancing antigen presentation.
 
@@ -89,7 +89,7 @@ Clinical evidence for PSK:
 - **PSK**: Protein-bound beta-glucan
 - **PSP**: Polypeptide-bound polysaccharide
 - **Triterpenoids**: Anti-inflammatory compounds
-- **[[aact-tannins-terpenes-phenolic-compounds-wood-composting-ingham]]**: Antioxidant activity (quercetin, baicalein derivatives)
+- **Phenolic compounds**: Antioxidant activity (quercetin, baicalein derivatives)
 - **Fomentin**: Antibacterial compound
 
 ## Cancer Adjunct Therapy
@@ -140,11 +140,11 @@ Beta-glucans are water-soluble, while triterpenoids are alcohol-soluble. A dual 
 Commercial turkey tail products vary widely in quality:
 - Look for products that specify beta-glucan content (>30%)
 - Verify species identity (some products contain fillers or wrong species)
-- Prefer products that use both fruiting body and mycelium
-- Reputable brands: Host Defense, Fungi Perfecti, Nammex, Real Mushrooms
 
-## Precautions
+## See Also
 
-- Generally considered safe with minimal side effects (occasional mild digestive upset)
-- Consult oncologist before using alongside cancer treatment
-- May enhance immune activity — use caution with autoimmune conditions
+- [[comparison-reishi-vs-turkey-tail-medicinal-mushrooms]]
+- [[turkey-tail-mushroom-cancer-research]]
+- [[comparison-reishi-vs-lions-mane-vs-turkey-tail-medicinal-mushrooms]]
+- [[growing-gourmet-turkey-tail-trametes-versicolor-cultivation]]
+- [[turkey-tail-mushroom-cancer-research]]

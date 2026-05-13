@@ -16,56 +16,17 @@ type: concept
 
 # Lemonator
 
-Lemonator is a sativa-dominant hybrid [[blesching-cannabis-strain-selection-receptor-targeting]] bred by the Next
-Generation Seed Company of Canada. As its name suggests, this strain is
-characterized by its pronounced citrus aroma and flavor, delivered through a
-genetic lineage that includes Llimonet Haze crossed with an unidentified indica
-from British Columbia. The result is a balanced hybrid that combines Haze
-effects with a uniquely lemony terpene profile.
-
-## Genetics and Lineage
-
-Lemonator is the offspring of a Llimonet Haze sativa parent (originally from
-Spain) and an indica parent from British Columbia, Canada. This international
-genetic pairing gives the strain a diverse heritage, described as holding both
-a Canadian and an EU "passport."
-
-The Llimonet Haze parent contributes the classic Haze effects that define the
-strain's psychoactive profile: euphoria, creativity, and an uplifting cerebral
-experience. Haze genetics trace back to the seminal breeding work of the 1970s
-that combined Colombian, Mexican, Thai, and Afghan varieties. The unnamed BC
-indica parent adds structural stability, moderates the flowering time, and
-contributes to the overall yield potential.
-
-## Breeder Information
-
-The Next Generation Seed Company was founded in 1997 in Canada and has built a
-strong reputation as a reliable source of quality genetics and interesting
-hybrid plants. With over two decades in the [[cervantes-cannabis-seed-purchasing-storage]] industry, the company
+Lemonator is a sativa-dominant hybrid [[cervantes-cannabis-seed-purchasing-storage]] industry, the company
 has earned respect in their native Canada as well as expanding recognition in
-the [[dmt-containing-plants-united-states-halpern]] and Europe. Their breeding focus includes creating strains
-that perform well in northern climates while maintaining the desirable
-qualities of their genetic parentage.
-
-## Growing Characteristics
-
-Lemonator is a versatile strain suitable for both indoor and outdoor
-cultivation, though it is best suited to European or Canadian climates that do
-not experience extreme summer heat. The plant grows tall, making it a good
-candidate for [[cannabis-training-techniques-comparison]]. Key cultivation details include:
+the [[cannabis-training-techniques-comparison]]. Key cultivation details include:
 
 - **Flowering time**: 10 weeks from forced flowering
 - **Outdoor harvest**: Very beginning of October
 - **Growth pattern**: Tall, takes well to mesh training techniques
-- **Recommended methods**: ScrOG ([[cannabis-strain-guide-reference]]
-- [[cannabis-sativa]] - Overview of sativa cannabis varieties
+- **Recommended methods**: ScrOG ([[cannabis-sativa]] - Overview of sativa cannabis varieties
 - haze-strains - The Haze family of cannabis strains
 - terpenes - Aromatic compounds including citrus terpenes
-- canadian-cannabis - [[query-how-does-no-till-cannabis-cultivation-work]] in Canada
-
-## See Also
-
-- [[green-cannabis-grow-bible-strain-selection-genetics]]
+- canadian-cannabis - [[green-cannabis-grow-bible-strain-selection-genetics]]
 ## Practical Considerations
 
 Successful implementation of Lemonator requires attention to
@@ -114,8 +75,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[haze-genetics]]
 - [[dom]]
-- [[det]]
 - [[dmt]]
 - [[weighted-vs-unweighted-unifrac-cannabis-strain-microbiome]]

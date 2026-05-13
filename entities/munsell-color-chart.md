@@ -85,11 +85,13 @@ Standard soil color notation example: **10YR 4/3** means Hue 10YR, Value 4, Chro
 
 ## References
 
-- Mollison, B. (1988). *Permaculture: A Designers' Manual*. [[tagari-publications]]. Chapter 8: Soils.
-- Munsell Color Company. *Munsell Soil Color Charts*. X-Rite / GretagMacbeth.
+- Mollison, B. (1988). *Permaculture: A Designers' Manual*. [[mollison-designers-humus-building-and-soil-organic-matter]]
+- [[bill-mollison-permaculture-a-designers-manual-aquaculture-and-water-systems]]
 
 ## See Also
 
-- [[mollison-designers-humus-building-and-soil-organic-matter]]
-- [[bill-mollison-permaculture-a-designers-manual-soil-and-humus-management]]
-- [[bill-mollison-permaculture-a-designers-manual-aquaculture-and-water-systems]]
+- [[jadam-color-enhancer]]
+- [[purple-and-color-changing-cannabis-strains]]
+- [[fukuoka-textdoc-color-philosophy-food-seven-prismatic-seasonal-natural-diet]]
+- [[query-how-do-photonic-crystals-create-structural-color]]
+- [[growing-gourmet-mycelium-color-fragrance-signatures]]

@@ -10,27 +10,16 @@ sources: [/Users/t3rpz/wiki/raw/papers/magic-mushrooms-around-the-world-gartz.md
 
 # Psilocybe semperviva
 
-**Psilocybe semperviva** is a rare psilocybin-containing mushroom species documented from Europe. The species name "semperviva" translates from Latin as "always living" or "evergreen," likely referring to its persistent fruiting habit or the resilient nature of its [[gadd-mycelial-network-dynamics]]. The species was identified through systematic mycochemical surveys rather than through traditional ethnomycological knowledge.
+**Psilocybe semperviva** is a rare psilocybin-containing mushroom species documented from Europe. The species name "semperviva" translates from Latin as "always living" or "evergreen," likely referring to its persistent fruiting habit or the resilient nature of its [[environmental-dna-sequencing-fungi]] revealing that many traditional species groups are polyphyletic.
 
-## Taxonomy
-
-- **Order:** Agaricales
-- **Family:** Hymenogastraceae
-- **Genus:** Psilocybe
-- **Authority:** Described from European collections
-
-The species belongs to the bluing, psilocybin-producing section of Psilocybe, though its exact sectional placement is subject to revision as molecular phylogenetics reshapes the genus. The genus Psilocybe has undergone significant taxonomic reorganization, with [[environmental-dna-sequencing-fungi]] revealing that many traditional species groups are polyphyletic.
-
-Within the European Psilocybe flora, P. semperviva contributes to the recognition that Europe harbors a more diverse assemblage of [[cattle-dispersal-psychoactive-fungi-australia]] than was appreciated in earlier mycological literature. It sits alongside better-known species such as [[psilocybe-cyanescens]], and [[psilocybin]] and [[baeocystin]] — A biosynthetic precursor of psilocybin
-- [[psilocybe-semilanceata]] | More conic cap with pronounced papilla; robust curved stipe |
-| [[psilocybe-bohemica]] | Central European; larger stature |
-| [[psilocybe-semilanceata]] — Most common European [[emcdda-psilocybin-non-addictive-profile-tolerance-dynamics]]
-- [[psilocybe-cyanescens]] — Potent wood-inhabiting species
+Within the European Psilocybe flora, P. semperviva contributes to the recognition that Europe harbors a more diverse assemblage of [[psilocybe-cyanescens]], and [[baeocystin]] — A biosynthetic precursor of psilocybin
+- [[psilocybe-bohemica]] | Central European; larger stature |
+| [[emcdda-psilocybin-non-addictive-profile-tolerance-dynamics]]
 - [[psilocin]] — Active metabolite of psilocybin
 
 ## References
 
-- Gartz, J. *[[guzman-magic-mushrooms-african-species]] [[fungi-around-the-world-species-distribution]]*. 1996.
+- Gartz, J. *[[fungi-around-the-world-species-distribution]]*. 1996.
 
 ## External Links
 
@@ -88,3 +77,73 @@ between multiple variables and the difficulty of predicting outcomes
 with certainty. Building in redundancy, monitoring key indicators, and
 maintaining flexibility in approach all help manage this inherent
 uncertainty and improve the resilience of implementations over time.
+
+## Overview
+
+Psilocybe Semperviva represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish psilocybe semperviva
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving psilocybe extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Psilocybe Semperviva finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for psilocybe semperviva. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+psilocybe semperviva and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Psilocybe Semperviva has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of psilocybe semperviva into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.

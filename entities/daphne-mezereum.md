@@ -108,13 +108,8 @@ In modern horticulture, Daphne mezereum remains a niche plant appreciated primar
 
 ## See Also
 
-- [[edgeworthia-chrysantha]]
 - [[hamamelis-virginiana]]
-- [[mahonia-aquifolium]]
 - [[taxus-baccata]]
-- [[ligustrum-vulgare]]
 - [[jasminum-officinale]]
-- [[camellia-japonica]]
 - [[forsythia-suspensa]]
-- [[kalmia-latifolia]]
 - [[hedera-helix]]

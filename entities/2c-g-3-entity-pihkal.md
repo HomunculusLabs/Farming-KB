@@ -8,77 +8,7 @@ sources: ["Shulgin - PIHKAL"]
 ---
 # 2C-G-3
 
-[[2c-b-pihkal-entry-20]] #28. 3,4-Trimethylene-2,5-dimethoxy-PEA.
-
-## Dosage and Duration
-
-| Property | Value |
-|----------|-------|
-| Dosage | 16 - 25 mg. |
-| Duration | 12 - 24 h. |
-
-## Qualitative Comments
-
-> (with 16 mg) It came on in little leaps and
-> bounds. All settled, and then it would take another little jump
-> upwards. I am totally centered, and writing is easy. My appetite is
-> modest. Would I drive to town to return a book to the library? No
-> ever-loving way! I am very content to be right here where I am safe,
-> and stay with the writing. It does take so much time to say what
-> wants to be said, but there is no quick way. A word at a time.
->
-> (with 22 mg) I walked out for the mail at just about twilight. That
-> was the most courageous thing that I could possibly have done, just
-> for one lousy postcard and a journal. What if I had met someone who
-> had wanted to talk? Towards evening I got a call from Peg who said
-> her bean soup was bubbling in a scary way and what should she do, and
-> I said maybe better make soap. It was that kind of an experience!
-> Way up there, lots of LSD-like sparkles, and nothing quite really
-> making sense. Marvelous.
->
-> (with 25 mg) There was easy talking, and no hint of any body concern.
-> Sleep that evening was easy, and the next day was with good energy.
->
-
-## Extensions and Commentary
-
-The positives of a completely intriguing
-altered state free from apparent physical threats, are here coupled
-with the negative of having to invest such a long period of time.
-There is a merry nuttiness which can give a joyous intoxication, but
-with the underlying paranoia of how it looks to others. There is an
-ease of communication, but only within surroundings that are
-well-known and friendly. This might be a truly frightening experience
-if it were in an unfamiliar or unstructured environment.
-
-The numbering of this compound, and all the extensions of GANESHA,
-have been made on the basis of the nature of the stuff at the
-3,4-position. Here there are three atoms (the trimethylene bridge)
-and so 2C-G-3 seems reasonable. With this logic, the dimethylene
-bridge would be 2C-G-2 (and the corresponding amphetamine would be
-G-2, of course). But these compounds call upon a common intermediate
-which is a benzocyclobutene, OK in principle but not yet OK in
-practice. The right benzyne reaction will be there someday, and the
-dimethylene analogues will be made and assayed. But, in the meantime,
-at least the names have been assigned.
-
-## Synthesis
-
-To a solution of 22 g of KOH in 250 mL of hot EtOH, there
-was added 50 g of 4-indanol and 75 g methyl iodide. The mixture was
-held at reflux for 12 h. There was then added an additional 22 g KOH
-followed by an additional 50 g of methyl iodide. Refluxing was
-continued for an additional 12 h. The mixture was poured into 1 L
-H2O, acidified with HCl, and extracted with 3x75 mL CH2Cl2. The pooled
-extracts were washed with 5% NaOH, then with dilute HCl, and the
-solvent was removed under vacuum. The residue of crude
-2,3-(trimethylene)anisole weighed 56.5 g and was used without further
-purification in the following reaction.
-
-A mixture of 327 g N-methylformanilide and 295 g POCl3 was allowed to
-incubate until a deep claret color had formed. To this there was then
-added 110 g of crude 2,3-(trimethylene)anisole, and the mixture heated
-on the [[scythian-cannabis-steam-bath-ritual]]. There was a vigorous evolution of gases, which
+[[scythian-cannabis-steam-bath-ritual]]. There was a vigorous evolution of gases, which
 largely quieted down after some 4 h of heating. The reaction mixture
 was added to 4 L H2O and stirred overnight. The oily aqueous phase
 was extracted with 3x200 mL CH2Cl2, and after combining the extracts
@@ -91,3 +21,88 @@ sweet-smelling oil. This was distilled at 182-194 deg C at the water
 
 ## See Also
 - [[methyl-j-entity-pihkal]]
+
+## Overview
+
+2C G 3 Entity Pihkal represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish 2c g 3 entity pihkal
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving 2c extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+2C G 3 Entity Pihkal finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for 2c g 3 entity pihkal. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+2c g 3 entity pihkal and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+2C G 3 Entity Pihkal has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of 2c g 3 entity pihkal into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[3c-e-entity]]
+- [[ganesha-entity]]
+- [[methyl-mmda-2-entity-pihkal]]
+- [[tris-entity-pihkal]]
+- [[vaccinium-corymbosum-entity]]

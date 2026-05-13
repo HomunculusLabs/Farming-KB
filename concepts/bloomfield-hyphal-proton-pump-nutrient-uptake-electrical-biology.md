@@ -8,7 +8,7 @@ topics: [mycology, fungal-physiology, membrane-biology, proton-pumps, nutrient-u
 
 ## The Hypha as a Microscopic Battery
 
-One of the most remarkable yet underappreciated features of fungal biology is the electrical activity that powers nutrient uptake. Every living hypha maintains a voltage difference across its plasma membrane—a phenomenon that effectively turns each filamentous cell into a microscopic battery. This electrical biology, detailed extensively in Nicholas Money's *Mr. Bloomfield's Orchard*, is fundamental to understanding how fungi feed, grow, and interact with their environments.
+One of the most remarkable yet underappreciated features of fungal biology is the electrical activity that powers nutrient uptake. Every living hypha maintains a voltage difference across its plasma membrane—a phenomenon that effectively turns each filamentous cell into a microscopic battery. This electrical biology, detailed extensively in [[nicholas-money]]'s *Mr. Bloomfield's Orchard*, is fundamental to understanding how fungi feed, grow, and interact with their environments.
 
 ## Membrane Transport: The Foundation of Fungal Nutrition
 
@@ -37,21 +37,7 @@ Beyond nutrient uptake, the proton gradient powers:
 - **Secondary active transport** of other molecules
 - **pH homeostasis** in the cytoplasm
 - **Cell wall synthesis** through vesicle trafficking
-- **Signal transduction** pathways that regulate [[cytokinin-plant-growth-and-development]]
-
-## The Role of Vesicle Secretion
-
-The connection between electrical activity and growth operates through the **vesicle trafficking system**. Enzymes produced in the cytoplasm are packaged in minute spheres called vesicles that bud from the endoplasmic reticulum. These vesicles stream toward the hyphal tip along the cytoskeleton—the protein strands that Money describes as "a skeleton of protein strands that resembles a spider web in its multitude of interconnections."
-
-At the hyphal tip, vesicles fuse with the plasma membrane in a process called **exocytosis**, releasing their contents in two directions:
-1. Enzymes diffuse into the external environment to continue breaking down substrate
-2. Wall-building materials are incorporated into the expanding cell wall
-
-This fusion also adds new membrane surface area, allowing the hypha to elongate. The coordination between vesicle delivery, enzyme secretion, wall synthesis, and membrane expansion is one of the most precisely regulated processes in cell biology.
-
-## Experimental Approaches to Fungal Electrophysiology
-
-Money describes his own experimental work studying these processes: "In the 1980s, I spent two years studying a transport protein that exports charged hydrogen atoms or protons from the hypha across its plasma membrane." His research employed microelectrode techniques to measure membrane voltage, and attempted to express fungal proteins in frog eggs (Xenopus oocytes)—a common technique for characterizing [[plant-cell-membrane-transport-proteins-channels-carriers-and-pumps]].
+- **Signal transduction** pathways that regulate [[plant-cell-membrane-transport-proteins-channels-carriers-and-pumps]].
 
 The results of such electrophysiological studies have revealed that:
 - Healthy hyphae maintain membrane potentials of -100 to -200 mV (inside negative)
@@ -69,22 +55,7 @@ Turgor pressure in fungal hyphae ranges from one to ten atmospheres, depending o
 
 Money presents a characteristically provocative argument about the role of turgor in fungal growth. The conventional view, held for over a century, was that turgor pressure drives hyphal expansion—the pressurized cytoplasm pushing outward against the wall and forcing it to stretch at the growing tip.
 
-Money and his collaborator Frank Harold challenged this view with experiments showing that [[bloomfield-pythium-oomycete-water-molds]] actually grew faster when most of their internal pressure was eliminated. This was achieved by culturing colonies in high concentrations of soluble carbohydrates that disturbed their natural osmotic balance and limited water influx.
-
-Their conclusion: "there is no evidence at all that high levels of pressure are needed to cause wall growth." Rather, hyphae expand by allowing their wall polymers to slip past one another over their pressurized interior, modeling themselves around their turgid cytoplasm.
-
-The real importance of turgor, Money argues, is not in driving growth per se but in enabling hyphae to overcome physical obstacles. When fungi grow through leaf surfaces, inside logs, between toes, or into granite, the pressurized hyphal tip can push past barriers that enzymes alone cannot dissolve.
-
-## Nutrient Uptake in Plant Pathogens
-
-The principles of proton-driven nutrient uptake have particular significance for understanding fungal plant pathogens. When a pathogenic fungus invades plant tissue, it must:
-
-1. **Secrete enzymes** to break down plant cell walls (cellulases, pectinases, cutinases)
-2. **Absorb the released sugars** via proton-coupled symporters
-3. **Maintain the proton gradient** even under hostile conditions
-4. **Extract nitrogen** from proteins and nucleic acids in the host
-
-[[bloomfield-candida-albicans-yeast-hyphal-dimorphism]], a commensal yeast that can become pathogenic, demonstrates this principle. As Money notes, "Candida bathes itself in amino acids when it grows in human tissues by secreting proteinases." The absorbed amino acids are then used both as nitrogen sources and as carbon sources through deamination reactions.
+Money and his collaborator Frank Harold challenged this view with experiments showing that [[bloomfield-candida-albicans-yeast-hyphal-dimorphism]], a commensal yeast that can become pathogenic, demonstrates this principle. As Money notes, "Candida bathes itself in amino acids when it grows in human tissues by secreting proteinases." The absorbed amino acids are then used both as nitrogen sources and as carbon sources through deamination reactions.
 
 ## Biotechnological Applications
 
@@ -112,7 +83,7 @@ The targeting of vesicles to precisely the right location at the hyphal apex—w
 
 Beyond nutrient uptake, the electrical properties of fungal membranes may play a role in long-distance communication within the mycelium. Changes in membrane potential can propagate along hyphae as **action potentials** or **slow wave potentials**, potentially allowing different parts of a large mycelial network to coordinate their activities. This has been demonstrated experimentally in several fungal species, where localized stimulation at one point triggers measurable electrical responses at distant points in the same mycelium.
 
-This electrical signaling capacity adds another dimension to our understanding of fungal biology. The mycelium is not merely a network of feeding tubes—it may also function as an information-processing system, using [[tompkins-plant-electrical-signals]] to coordinate growth, [[mycelial-foraging-resource-allocation]], and defense responses across its entire extent.
+This electrical signaling capacity adds another dimension to our understanding of fungal biology. The mycelium is not merely a network of feeding tubes—it may also function as an information-processing system, using [[mycelial-foraging-resource-allocation]], and defense responses across its entire extent.
 
 ## The Hypha as an Integrated System
 

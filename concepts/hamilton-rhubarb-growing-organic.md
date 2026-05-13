@@ -39,44 +39,10 @@ you plan to force some plants for early crops.
 Rhubarb likes a soil pH of 7.0, so add lime if necessary to attain
 this level. It also prefers a well-drained soil with plenty of
 well-rotted compost or manure dug in before planting. See
-[[hamilton-liming-and-ph-management]] for guidance on adjusting
-pH. Apart from the pH requirement, rhubarb is fairly tolerant and
-is frost hardy. Plant it in a bed reserved for perennials, as it
-will remain in position for many years.
-
-## Planting
-
-Mature roots called crowns are generally planted in winter, although
-potted plants are available for year-round planting. Most people
-will not require more than two or three plants. If you wish to grow
-more, set the plants 2ft 6in (75cm) apart with 3ft (90cm) between
-rows. Cover the crowns with 1in (2.5cm) of soil. Do not plant too
-deeply, as this can reduce the vigor of the plants. Water in well
-after planting and mulch around the crowns to conserve moisture.
-
-## Maintenance
-
-Weed and water as necessary during the [[savory-growing-season-and-non-growing-season-management]]. It is not
-practical to dig in [[hamilton-composting-and-organic-matter-management]] around established rhubarb
-plants because of the risk of damaging the roots, so mulch each
-autumn instead with well-rotted compost or manure. This annual
-mulching provides all the nutrients the plants need. See
-[[hamilton-organic-pest-control]]
-for comprehensive pest and [[plant-disease-management-solomon]] strategies.
-
-## Organic Liquid Feed
-
-Rhubarb responds well to organic liquid feeds during the growing
-season. A solution made from soaking comfrey leaves in water for
-several weeks produces a potassium-rich feed ideal for promoting
-strong stem growth. Alternatively, liquid kelp or animal-manure
-fertilizer can be applied every two weeks during spring and early
-summer. See [[hamilton-concentrated-organic-fertilizer-products]]
-for prepared [[complete-organic-fertilizer-cof-recipe-solomon]] options.
-
-## Summary
-
-Rhubarb is one of the easiest and most reliable [[comparison-perennial-vegetables-vs-cover-crops]]
+[[savory-growing-season-and-non-growing-season-management]]. It is not
+practical to dig in [[hamilton-organic-pest-control]]
+for comprehensive pest and [[hamilton-concentrated-organic-fertilizer-products]]
+for prepared [[comparison-perennial-vegetables-vs-cover-crops]]
 for the organic garden. Key success factors include planting at the
 correct depth in well-drained soil at pH 7.0, annual autumn mulching
 with compost or manure, leaving the first year for establishment,
@@ -119,8 +85,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[composting]]
 - [[decomposition]]
-- [[hamilton-garlic-growing-organic]]
 - [[hamilton-organic-fruit-growing]]
 - [[hamilton-leek-growing-organic]]

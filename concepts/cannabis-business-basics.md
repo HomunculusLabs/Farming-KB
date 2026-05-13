@@ -11,26 +11,26 @@ sources: []
 
 ## Overview
 
-The legal cannabis industry represents one of the fastest-growing economic sectors in the [[dmt-containing-plants-united-states-halpern]], with annual revenues exceeding $30 billion nationally as of 2026. However, starting and operating a cannabis business involves unique challenges including federal prohibition, complex state regulations, limited access to banking, and intense competition. This guide covers the fundamentals of entering the legal cannabis market.
+The legal cannabis industry represents one of the fastest-growing economic sectors in the United States, with annual revenues exceeding $30 billion nationally as of 2026. However, starting and operating a cannabis business involves unique challenges including federal prohibition, complex state regulations, limited access to banking, and intense competition. This guide covers the fundamentals of entering the legal cannabis market.
 
 ## Business Models
 
 ### Cultivation
 
-[[query-how-do-i-use-mycorrhizal-inoculants-when-growing-cannabis]] for wholesale distribution to processors, manufacturers, and retailers.
+Growing cannabis for wholesale distribution to processors, manufacturers, and retailers.
 
 **Types:**
-- [[cannabis-sativa-indoor-cultivation-techniques]]: Highest quality, highest costs, controlled environment
+- Indoor cultivation: Highest quality, highest costs, controlled environment
 - Greenhouse cultivation: Balance of quality and cost, uses natural light supplemented with artificial
 - Outdoor cultivation: Lowest cost per pound, seasonal, weather-dependent
 - Mixed-light/greenhouse: Increasingly popular for balancing quality and economics
 
 **Key Considerations:**
 - High upfront capital requirements for equipment and facility buildout
-- Strict [[cannabis-regulations-by-state]] and compliance requirements
+- Strict [[cannabis-regulations-by-state|state licensing]] and compliance requirements
 - Environmental controls (HVAC, lighting, irrigation)
 - Security requirements (cameras, access control, vaults)
-- [[cannabis-testing-and-quality]] requirements for all harvested product
+- [[cannabis-testing-and-quality|Testing]] requirements for all harvested product
 - Staffing for cultivation, processing, and management
 
 ### Dispensary / Retail
@@ -57,7 +57,7 @@ Creating value-added cannabis products including concentrates, edibles, topicals
 
 **Types:**
 - Extraction: Producing oils, waxes, shatter, live resin, and other concentrates
-- Edibles: Infused [[lacto-fermentation-recipes]]
+- Edibles: Infused foods and beverages
 - Topicals: Balms, salves, lotions, transdermal patches
 - Tinctures: Sublingual liquid products
 - Pre-rolls: Pre-rolled joints
@@ -78,7 +78,7 @@ Businesses that support the cannabis industry without directly handling the plan
 - **Packaging:** Child-resistant packaging, branding, design
 - **Security:** Installation, monitoring, guard services
 - **Legal:** Specialized cannabis law firms
-- **Testing laboratories:** [[cannabis-testing-and-quality]]
+- **Testing laboratories:** [[cannabis-testing-and-quality|Analytical testing services]]
 - **Real estate:** Cannabis-friendly property leasing
 - **Media and marketing:** Industry publications, advertising agencies, influencers
 
@@ -134,17 +134,16 @@ Most states require seed-to-sale tracking systems that monitor cannabis from cul
 ### Packaging and Labeling
 
 - Child-resistant packaging (ASTM certified)
-- [[thc-content-factors-cultivation-freshness-storage-degradation-blesching]], serving size, government warnings
-- License number, batch number, [[cannabis-testing-and-quality]] results
+- THC content, serving size, government warnings
+- License number, batch number, [[cannabis-testing-and-quality|testing]] results
 - Strain name and type (indica/sativa/hybrid)
 
 ### Advertising Restrictions
 
-- No advertising to minors, no unverified medical claims
-- Restrictions near schools, churches, and playgrounds
-- Social media platforms often prohibit cannabis content
+## See Also
 
-## Startup Costs
-
-| Business Type | Typical Total |
-|---------------|---------------|
+- [[cannabis-cultivar-microbiome-specificity]]
+- [[weighted-vs-unweighted-unifrac-cannabis-strain-microbiome]]
+- [[cannabis-and-endometriosis]]
+- [[blesching-cannabis-immune-system-modulation]]
+- [[cannabis-seed-germination-viability-breeding-clarke]]

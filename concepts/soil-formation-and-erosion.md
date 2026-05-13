@@ -8,7 +8,7 @@ type: concept
 
 ## Overview
 
-Soil is the thin living mantle that covers the earth, described by [[bill-mollison]] as "as thin as the shine on the skin of an orange." Understanding how soils form and how they are lost is fundamental to any sustainable land management practice. The rate of soil formation versus the rate of soil loss is one of the most critical balances in agriculture and [[permaculture-design]].
+Soil is the thin living mantle that covers the earth, described by [[permaculture-design]].
 
 ## Soil Formation Processes
 
@@ -86,7 +86,7 @@ Without poorly drained, naturally deficient, leached, acidic, or alkaline sites,
 
 ### Land Restoration Potential
 
-Colin Tudge estimated that perhaps 60% of the British Isles could be given back to nature. John Jeavons estimated, based on garden productivity, that we could return perhaps 94% of land to its own purposes. While this may not be achievable in the near term, Mollison argues that we can start the process and our children can continue it, developing new forests and wilderness to explore.
+[[colin-tudge]] estimated that perhaps 60% of the British Isles could be given back to nature. [[john-jeavons]] estimated, based on garden productivity, that we could return perhaps 94% of land to its own purposes. While this may not be achievable in the near term, Mollison argues that we can start the process and our children can continue it, developing new forests and wilderness to explore.
 
 ## The Role of Life in Soil
 
@@ -107,6 +107,5 @@ Soils defy precise treatment. Their structure, permeability, organic content, ga
 
 ## See Also
 
-- [[mollison-soil-formation-rates-and-erosion-costs]]
 - [[singh-fungal-roles-in-soil-aggregate-formation]]
 - [[fungal-microaggregate-formation-and-soil-stability]]

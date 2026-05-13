@@ -71,23 +71,7 @@ Nitrogen management requires attention to drainage and soil biology:
 3. If legumes are used, ensure they are inoculated and that manganese levels are not too high.
 4. If all above is satisfactory, apply dilute urine (20 parts water : 1 part urine), ammonium sulphate in alkaline areas, legume mulches, or interplant nitrogen-fixing trees (about 48 small acacia or tagasaste trees per quarter acre).
 5. Use compost, then surface mulch.
-6. Build up worms and [[soil-life]], use dilute bird manure.
-
-**Important safety warning**: Do not over-apply nitrogen. Excess nitrates build up in green plants and can kill children or piglets with blue-baby syndrome. The goal is to relieve symptoms and establish good soil life, not to force-feed plants.
-
-For severe nitrogen deficiency with poor clover growth on peaty or coastal soils, use cobalt. If manganese is high, add lime to balance (one handful per square metre). In alkaline soils, spray cobalt at very low dilutions (1 g per 10 square metres every 10 years).
-
-### Magnesium {9}
-Check if potash levels are not too high, or add clay to sandy acid soils (most clays contain plenty of magnesium). Use dolomite for the first dressing, then limestone. Traditional remedy: Epsom salts (magnesium sulphate) were used around citrus trees. For very severe deficiency, dilute Epsom salts in water for foliar spray.
-
-### Molybdenum {10}
-Obtain sodium molybdate (about 10 g), mix well with 5 kg of sand, and apply 1/100 of this mixture per square metre every 10 years. Molybdenum is needed in extremely small quantities.
-
-### Potassium {11}
-Use wood ashes on green crops, diluted urine in early growth, then build up mulches including dried or fresh seaweeds. Additional sources include fly ash from cement works, bird manures, and comfrey. Potassium is also found in the mineral kainite (20-25% potassium) in evaporite deposits of deserts.
-
-### Phosphorus {12}
-[[phosphorus-availability]] is highly pH-dependent. The strategy is multi-pronged:
+6. Build up worms and [[phosphorus-availability]] is highly pH-dependent. The strategy is multi-pronged:
 
 1. Bring pH to 6.0-6.5 using lime in acid soils and humus in alkaline.
 2. Use bone meal, bury bones, or use tested rock phosphate free of cadmium or uranium.
@@ -118,3 +102,11 @@ Observations from pioneer weed colonisation (e.g., chicory, thistles on compacte
 ## Record-Keeping
 
 Keep a fertiliser diary for your garden and leave it for the next person. Document what has been done for the soil — this continuity is essential for long-term [[soil-health-management]].
+
+## See Also
+
+- [[gadd-mycogenic-mineral-precipitation-secondary-minerals]]
+- [[plant-mineral-deficiency-diagnosis]]
+- [[gadd-mineral-transformations-biogeochemical-cycles-fungi]]
+- [[gadd-mycorrhizal-mineral-weathering-nutrient-mobilization]]
+- [[savory-mineral-cycle-management]]

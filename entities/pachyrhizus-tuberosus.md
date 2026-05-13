@@ -16,7 +16,7 @@ sources:
   - Sørensen, M. (1996). Yam Bean: Pachyrhizus DC. Promoting the conservation and use of underutilized and neglected crops. IPGRI, Rome.
   - Zanklan, A.S. et al. (2003). "Yam bean (Pachyrhizus spp.) — a sustainable crop for the tropics." In: New Crops and New Uses, ASHS Press, 556-563.
   - Grønhaug, T.E. et al. (2005). "Yam beans (Pachyrhizus spp.) — a sustainable N₂-fixing, high-yielding root crop for the tropics." Trop. Plant Biol., 3, 47-57.
-  - Castellanos, J.Z. et al. (1997). "Nitrogen accumulation in the root and seed of Pachyrhizus erosus, P. tuberosus and P. ahipa." Field Crops Research, 52(1-2), 75-81.
+  - Castellanos, J.Z. et al. (1997). "Nitrogen accumulation in the root and seed of [[pachyrhizus-erosus]], P. tuberosus and P. ahipa." Field Crops Research, 52(1-2), 75-81.
   - Clauss, E. (2005). "Genetic resources of Pachyrhizus tuberosus (Lam.) Spreng." PhD thesis, University of Göttingen.
 created: 2026-04-28
 ---
@@ -25,7 +25,7 @@ created: 2026-04-28
 
 ## Overview
 
-Pachyrhizus tuberosus, commonly known as the Amazonian yam bean, jicama de monte, or chuín, is a perennial climbing legume in the family Fabaceae native to the Amazon basin and tropical lowlands of South America. It produces large, edible tuberous roots weighing up to 20 kg, making it one of the largest edible tubers produced by any legume species.
+Pachyrhizus tuberosus, commonly known as the Amazonian yam bean, jicama de monte, or chuín, is a perennial climbing legume in the family Fabaceae native to the Amazon basin and tropical lowlands of [[guzman-psilocybin-mushrooms-south-america]]. It produces large, edible tuberous roots weighing up to 20 kg, making it one of the largest edible tubers produced by any legume species.
 
 The species has been cultivated for millennia by indigenous peoples of the Amazon and Orinoco river basins. Despite its impressive productivity, nutritional value, and nitrogen-fixing ability, it remains largely underutilized outside its native range, representing a promising crop for tropical agroforestry and permaculture systems.
 
@@ -41,9 +41,9 @@ Flowers are borne in axillary racemes 15–30 cm long. Corollas are white to pal
 
 ## Distribution and Habitat
 
-The species is native to the Amazon and Orinoco river basins, extending from Peru, Ecuador, and Colombia through Brazil, Venezuela, and the Guianas. It is found at low elevations (0–800 m) in humid tropical forests, forest margins, and disturbed areas.
+The species is native to the Amazon and Orinoco river basins, extending from Peru, Ecuador, and Colombia through Brazil, Venezuela, and the Guianas. It is found at low elevations (0–800 m) in humid [[fungal-biodiversity-tropical-forests]], forest margins, and disturbed areas.
 
-Cultivation extends beyond the native range to other tropical regions including [[guzman-allen-gartz-neurotropic-fungi-central-america-caribbean]], the Caribbean, West Africa, [[psilocybe-southeast-asia-pacific]], and northern Australia. In some areas, it has naturalized in secondary growth forests and riverbank habitats.
+Cultivation extends beyond the native range to other [[fukuoka-natural-farming-in-tropical-regions]] including [[psilocybe-southeast-asia-pacific]], and northern Australia. In some areas, it has naturalized in secondary growth forests and riverbank habitats.
 
 P. tuberosus performs best in well-drained, fertile soils with pH 5.5–7.0 and annual rainfall of 1,500–3,000 mm. It requires full sun for optimal tuber production and is sensitive to frost and prolonged drought.
 
@@ -59,13 +59,7 @@ Protein content of the tuber (1–2%) is modest, but the seeds contain 24–30% 
 
 P. tuberosus forms effective nitrogen-fixing symbioses with Bradyrhizobium and Rhizobium strains. Nitrogen fixation rates of 100–200 kg N/ha/year have been reported, comparable to other tropical legumes. This capacity makes the species valuable as a green manure and cover crop in tropical agroforestry systems.
 
-The deep, extensive root system improves soil structure and reduces compaction. Leaf litter from the vigorous canopy contributes [[hamilton-composting-and-organic-matter-management]] to the soil surface. In intercropping systems, P. tuberosus can provide significant nitrogen inputs to companion crops while producing a harvestable tuber yield.
-
-Studies in Brazil and Peru have demonstrated that P. tuberosus intercropped with cassava, maize, or fruit trees can increase total system productivity by 30–50% compared to monocultures, while reducing the need for external nitrogen fertilizer inputs.
-
-## Cultivation
-
-Propagation is primarily by seed, though stem cuttings and tuber pieces can also be used. Seeds require scarification and pre-soaking for optimal germination, which occurs within 7–14 days at 25–30°C. [[comparison-seed-starting-indoors-vs-direct-seeding-techniques]] at 1–2 m spacing on trellises or support structures is the standard practice.
+The deep, extensive root system improves soil structure and reduces compaction. Leaf litter from the vigorous canopy contributes [[comparison-seed-starting-indoors-vs-direct-seeding-techniques]] at 1–2 m spacing on trellises or support structures is the standard practice.
 
 Tuber harvest typically occurs 8–14 months after planting, depending on cultivar and growing conditions. Yield ranges from 20 to 80 tonnes/ha fresh weight, with elite selections producing over 100 tonnes/ha under optimal conditions. The long [[savory-growing-season-and-non-growing-season-management]] limits cultivation to frost-free tropical areas.
 
@@ -83,7 +77,7 @@ Traditional Amazonian peoples use crushed seeds as fish poison (barbasco) in riv
 
 Archaeological evidence from the Amazon basin indicates that P. tuberosus has been cultivated for over 7,000 years. Carbonized tuber fragments have been recovered from pre-Columbian settlements in the Upper Amazon, suggesting the species was a staple carbohydrate source for indigenous communities long before European contact.
 
-Indigenous Amazonian peoples distinguish multiple cultivar types based on tuber shape, size, flavor, and fiber content. The Witoto, Bora, and Shipibo-Conibo peoples maintain named varieties adapted to specific soil types and flooding regimes. Traditional management includes intercropping with bitter manioc (Manihot esculenta) and peach palm (Bactris gasipaes).
+Indigenous Amazonian peoples distinguish multiple cultivar types based on tuber shape, size, flavor, and fiber content. The Witoto, Bora, and Shipibo-Conibo peoples maintain named varieties adapted to specific soil types and flooding regimes. Traditional management includes intercropping with bitter manioc ([[manihot-esculenta]]) and peach palm ([[bactris-gasipaes]]).
 
 The species was first described to European science by Humboldt and Bonpland during their 1799–1804 expedition to South America. Despite early recognition of its potential, it never achieved the international commercial success of its relative P. erosus (jícama), partly due to the longer growing season and higher fiber content.
 

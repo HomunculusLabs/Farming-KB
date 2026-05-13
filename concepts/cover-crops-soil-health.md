@@ -26,13 +26,7 @@ organic matter, and can be selected to shift the
 When soil is left bare between crops, the soil food web loses its primary
 energy source -- plant root exudates. Without exudates, the bacteria and fungi
 that depend on them die back, protozoa and nematodes lose their food source,
-and [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] shuts down. Cover crops keep the food web active by
-maintaining living roots in the soil year-round.
-
-## Legume Cover Crops (Nitrogen Fixers)
-
-Legumes form symbiotic relationships with Rhizobium bacteria that live in
-root nodules and fix atmospheric nitrogen. This is microbial [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]]
+and [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]]
 -- the bacteria convert atmospheric N2 into ammonium that the plant can use.
 Legume cover crops include:
 
@@ -56,19 +50,7 @@ They are excellent for building soil structure and preventing erosion:
   allelopathic properties help suppress weeds
 - **Oats** -- Quick-growing fall cover; winter-kills in cold climates leaving
   easy-to-manage residue
-- **Annual ryegrass** -- Fast germination; good for [[permplant-willows-salix-erosion-control-fodder]]
-- **Barley** -- Good for nutrient scavenging; adapts to many soil types
-
-## Brassica Cover Crops
-
-- **Radish** (daikon, tillage radish) -- Deep taproot breaks compacted soil
-  layers, creating channels for water and air movement
-- **Mustard** -- Biofumigant properties; releases compounds that suppress
-  soil-borne pathogens when incorporated
-
-## Broadleaf Non-Legume Cover Crops
-
-- **Buckwheat** -- Fast summer cover; attracts [[comparison-beneficial-insects-guide-vs-integrated-pest-management]]; mines
+- **Annual ryegrass** -- Fast germination; good for [[comparison-beneficial-insects-guide-vs-integrated-pest-management]]; mines
   phosphorus from soil; prefers bacterial dominance
 - **Sunflower** -- Deep taproot; good for breaking compacted layers
 
@@ -117,8 +99,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[cover-crops]]
 - [[building-soil]]
-- [[query-what-is-the-soil-food-web-and-why-does-it-matter]]
 - [[cover-crop]]
 - [[dom]]

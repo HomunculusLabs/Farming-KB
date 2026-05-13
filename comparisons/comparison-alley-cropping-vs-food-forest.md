@@ -20,25 +20,6 @@ largely self-sustaining ecosystems over decades.
 
 ## Alley Cropping
 
-[[alley-cropping]]
-
-Alley cropping plants rows of trees or shrubs at regular intervals with
-agricultural crops cultivated in the alleys between them. It originated
-from traditional tropical shifting cultivation and has been refined into
-a formal agroforestry technology applicable across temperate and tropical
-climates. Tree rows typically run north-south with alleys of 4-15 meters
-between them, depending on species, crop requirements, and machinery
-access needs.
-
-Common tree choices include nitrogen-fixing species like black walnut,
-honey locust, and various *Robinia* species in temperate zones, and
-*Gliricidia sepium* and *Leucaena leucocephala* in tropical systems.
-Inter-row crops span cereals, legumes, forages, and specialty crops.
-The system excels at maintaining conventional crop production while
-gradually integrating woody perennials into farmland.
-
-## Food Forest
-
 [[food-forest]]
 
 A food forest is a designed, multi-layered polyculture system modeled on
@@ -105,8 +86,6 @@ for eventual understory planting as the system evolves.
 
 ## See Also
 
-- [[agroforestry]]
 - [[food-forest-design-guide]]
-- [[comparison-alley-cropping-vs-silvopasture]]
 - [[forest-gardening-and-food-forests]]
 - [[silvopasture-systems]]

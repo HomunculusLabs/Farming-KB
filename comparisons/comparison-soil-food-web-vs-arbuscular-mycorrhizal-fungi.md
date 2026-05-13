@@ -20,12 +20,7 @@ system; AMF are one critically important component of it. Both frameworks are
 essential for understanding soil health, but they operate at different scales.
 
 ## Soil Food Web
-[[arbuscular-mycorrhizal-fungi]]
-
-Arbuscular mycorrhizal fungi (AMF) form the most widespread symbiosis on
-Earth, associating with 80-90% of terrestrial plant species. Belonging to
-the phylum Glomeromycota, AMF form intracellular structures called arbuscules
-within root cortical cells where [[arbuscule-isolation-and-nutrient-exchange-mechanisms]] occurs. They are essential
+[[arbuscule-isolation-and-nutrient-exchange-mechanisms]] occurs. They are essential
 for plant nutrition, soil health, and ecosystem function across virtually
 all terrestrial environments.
 
@@ -39,17 +34,7 @@ produce glomalin, a glycoprotein that binds soil particles into stable
 aggregates, improving soil structure and water-holding capacity.
 
 AMF are promoted by low to moderate soil phosphorus, minimal tillage, cover
-crops, [[hamilton-composting-and-organic-matter-management]], and diverse rotations. They are suppressed by high
-phosphorus fertilizer, conventional tillage, fallow periods, and fungicides.
-Notable non-host families include Brassicaceae (cabbage, broccoli) and
-Chenopodiaceae (spinach, beet), which do not form AM associations and
-therefore cannot benefit from this symbiotic relationship.
-
-## Key Differences
-| Aspect | Soil Food Web | Arbuscular Mycorrhizal Fungi |
-|--------|--------------|------------------------------|
-| Scope | Entire soil ecosystem | One symbiotic fungal group |
-| Focus | [[dighton-fungal-trophic-interactions-soil-food-webs]] among all organisms | Plant-fungal nutrient exchange |
+crops, [[dighton-fungal-trophic-interactions-soil-food-webs]] among all organisms | Plant-fungal nutrient exchange |
 | Organisms | Bacteria, fungi, protozoa, nematodes | Glomeromycota fungi only |
 | Plant relationship | Indirect (decomposition, cycling) | Direct symbiosis with roots |
 | Management | Build overall biology | Create conditions for colonization |
@@ -68,7 +53,7 @@ multiple stressors simultaneously rather than targeting one issue.
 ## When to Focus on AMF
 Targeted AMF management is appropriate when specific crops are known to be
 mycorrhizal-dependent (onions, garlic, tomatoes, peppers, corn, beans), when
-[[query-how-does-phosphorus-availability-change-across-soil-ph-levels]] is limiting, or when [[dighton-fungal-drought-tolerance-plant-water-relations]] is a priority.
+[[dighton-fungal-drought-tolerance-plant-water-relations]] is a priority.
 It is also valuable in no-till systems where preserving existing mycorrhizal
 networks is a primary goal and any soil disturbance would destroy years of
 network development. AMF-focused management is simpler to implement since it
@@ -87,7 +72,78 @@ specific symbiosis and the ecosystem that sustains it.
 
 ## See Also
 
-- [[comparison-rhizosphere-ecology-vs-mycorrhizal-fungi]]
 - [[comparison-biochar-vs-mycorrhiza]]
 - [[comparison-bacterial-dominant-vs-fungal-dominant-tea]]
 - comparison soil food web vs arbuscular mycorrhizal fungi
+
+## Overview
+
+Comparison Soil Food Web Vs Arbuscular Mycorrhizal Fungi represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish comparison soil food web vs arbuscular mycorrhizal fungi
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving comparison extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Comparison Soil Food Web Vs Arbuscular Mycorrhizal Fungi finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for comparison soil food web vs arbuscular mycorrhizal fungi. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+comparison soil food web vs arbuscular mycorrhizal fungi and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Comparison Soil Food Web Vs Arbuscular Mycorrhizal Fungi has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of comparison soil food web vs arbuscular mycorrhizal fungi into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions

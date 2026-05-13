@@ -9,11 +9,7 @@ sources:
 ---
 # Hamilton: Vegetative Propagation — Cuttings, Division, and Layering
 
-**Source:** Geoff Hamilton, *[[hamilton-geoffhamilton-nick-organic-gardening-companion-planting]]* (Nick Hamilton edition)
-
-**Updated:** 2026-04-21
-
-While seed is the most common method of [[geoff-hamilton-organic-techniques]] regarded vegetative propagation as one of the most satisfying aspects of organic gardening, allowing gardeners to multiply their best plants without relying on commercial nurseries that may use chemical treatments.
+**Source:** Geoff Hamilton, *[[geoff-hamilton-organic-techniques]] regarded vegetative propagation as one of the most satisfying aspects of organic gardening, allowing gardeners to multiply their best plants without relying on commercial nurseries that may use chemical treatments.
 
 ## Division
 
@@ -21,13 +17,11 @@ Division is the simplest and most effective method of propagation for perennials
 
 Plants with fleshy roots (such as hostas) are treated differently: they are best dug up for division in spring, just before growth begins, when new buds are visible. Each new piece should have at least one good bud. Cut through fleshy roots with a sharp spade or large knife and replant immediately. Small clumps can be divided by hand or trowel; larger or older clumps require prying apart with two garden forks inserted back-to-back.
 
-After dividing, replant the healthiest sections into prepared ground enriched with [[hamilton-greenhouse-management-organic]] provides an ideal environment for softwood cuttings, offering warmth and [[cervantes-humidity-control-dehumidification]]. Bottom heat from a propagator mat can significantly improve rooting success rates for many species.
+After dividing, replant the healthiest sections into prepared ground enriched with [[cervantes-humidity-control-dehumidification]]. Bottom heat from a propagator mat can significantly improve rooting success rates for many species.
 
 ## Hardwood Cuttings
 
-Hardwood cuttings are taken in fall after leaf drop, though some plants (gooseberries) can be done earlier. This method suits deciduous shrubs such as [[query-how-to-grow-black-currants-at-home]], dogwoods, mock orange, and Japanese rose. Cuttings about 8-9 inches (20-23cm) long are placed in a narrow trench lined with sharp sand, with 3 inches left above ground. They are left for one year, then planted in rows 6-9 inches apart, and transplanted to their permanent position the following year. Success rates of about 80 percent are achievable.
-
-Shade management is critical for all cuttings. Too much sun causes wilting; too little prevents feeding through leaves. Old onion nets or greenhouse [[jeavons-shade-netting-mini-greenhouses]] provide adjustable shading. The key is managing two pieces of shade: double shading on very sunny days, single on fair days, none on dull days.
+Hardwood cuttings are taken in fall after leaf drop, though some plants (gooseberries) can be done earlier. This method suits deciduous shrubs such as [[jeavons-shade-netting-mini-greenhouses]] provide adjustable shading. The key is managing two pieces of shade: double shading on very sunny days, single on fair days, none on dull days.
 
 ## Layering
 
@@ -45,19 +39,11 @@ Used for plants that root less readily: rhododendron, clematis, abelia, viburnum
 
 Suitable for climbers like clematis. The stem is alternately buried and exposed at intervals, with at least one bud between each buried section. Wound the stem by slitting underneath each buried portion. When shoots show signs of growing, the layers are separated from the parent and split into individual plants.
 
-Layering is particularly useful for [[fruit-tree-pruning-training-hamilton]], as both disciplines require an understanding of tree growth habits and cambium alignment.
-
-## Aftercare for Propagated Plants
-
-All newly propagated plants benefit from a sheltered position while they establish. A [[hamilton-organic-fertilizers-and-plant-nutrition]] once new growth is evident.
+Layering is particularly useful for [[hamilton-organic-fertilizers-and-plant-nutrition]] once new growth is evident.
 
 ## Related
 
-- [[fruit-tree-pruning-training-hamilton]]
-
 - [[hamilton-greenhouse-management-organic]]
-
-- [[cold-frame-construction]]
 
 - [[hamilton-organic-fertilizers-and-plant-nutrition]]
 ## Practical Considerations
@@ -108,8 +94,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[geoff-hamilton]]
 - [[marijuana-horticulture-cervantes-cloning-and-vegetative-propagation]]
-- [[vegetative-propagation-methods-mollison]]
 - [[organic-propagation-hamilton]]
 - [[hamilton-layering-propagation-techniques]]

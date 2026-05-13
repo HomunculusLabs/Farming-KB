@@ -51,8 +51,7 @@ Growing saprophytically, often in clusters, on stumps in the
 southeastern United States and southern Europe. Preferring hardwoods,
 especially cottonwoods, willows, poplars, maples, box elders, and
 in China on tea-oil trees. Not known outside the southeastern
-states of Mississippi, Louisiana, and Georgia in [[psilocybin-north-america-pacific-northwest]].
-Common across southern Europe and similar [[permaculture-designers-manual-climatic-zones-tropical]] of the
+states of Mississippi, Louisiana, and Georgia in [[permaculture-designers-manual-climatic-zones-tropical]] of the
 Far East.
 
 ## Mycelial Characteristics and Fragrance
@@ -66,25 +65,8 @@ not pleasant.
 
 Petri dish cultures blended via Eberbach stirrers create liquid
 inoculum, which is injected into sterilized grain. Grain spawn can
-be used for [[growing-gourmet-sawdust-spawn-production-use]] for outdoor inoculations or for direct
-inoculation into supplemented, sterilized hardwood sawdust. First
-and second generation grain spawn are standard; sawdust is
-recommended for third generation. Sawdust spawn is also used for
-inoculating slices cut into stumps.
-
-## Substrate and Cultivation
-
-### Indoor Cultivation
-Supplemented oak and alder sawdust/chips. Willow, poplar,
-cottonwood, and maple also support substantial fruitings.
-Recommended containers are polypropylene bags and trays. This
-mushroom is better grown from horizontal surfaces than vertical.
-
-### Outdoor Cultivation
-Stumps of the above-mentioned trees. [[stamets-outdoor-wood-chip-bed-mycelium-transplantation]] chip beds also
-produce well, much in the same manner as [[agaricus-bisporus-cultivation-biology]] (Agaricus brunnescens), marketing is not as difficult as
-with many "new" species. Primordia form readily on agar media,
-a notable feature that aids [[blesching-cannabis-strain-selection-receptor-targeting]].
+be used for [[stamets-outdoor-wood-chip-bed-mycelium-transplantation]] chip beds also
+produce well, much in the same manner as [[blesching-cannabis-strain-selection-receptor-targeting]].
 
 ## Flavor and Cooking
 
@@ -117,8 +99,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[agrocybe-cylindracea]]
 - [[mushroom-cultivation]]
-- [[psilocybin]]
 - [[malt-extract-agar]]
 - [[agaricus-brunnescens]]

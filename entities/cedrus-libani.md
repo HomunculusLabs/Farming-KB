@@ -37,57 +37,90 @@ populations have been severely reduced by centuries of exploitation and
 now occupy a fraction of their original range.
 
 * Cedrus libani* is classified as Vulnerable by the IUCN Red List. Remaining
-populations are fragmented and face ongoing pressure from [[dighton-fungi-climate-change-feedback]],
-grazing, and tourism.
-
-## Taxonomy and Morphology
-
-**Classification:** Plantae → Pinophyta → Pinopsida → Pinales → Pinaceae →
-*Cedrus* → *Cedrus libani* A.Rich.
-
-The genus *Cedrus* comprises four species: *C. libani*, *C. atlantica*
-(Atlas cedar), *C. brevifolia* (Cyprus cedar), and *C. deodara* (deodar
-cedar). Cedar of Lebanon is a large evergreen reaching 30–40 m with a
-trunk diameter of 1.5–2.5 meters.
-
-The crown is broadly conical when young, becoming a distinctive flat-
-topped, table-like form in maturity. Branches are stout and horizontally
-spreading, giving mature trees their characteristic tiered silhouette.
-
-Needles are borne in clusters on short spur shoots, 10–35 mm long, light
-blue-green to glaucous, and typically in whorls of 15–30. Needles persist
-for 3–6 years, longer than most other Cedrus species.
-
-Seed cones are barrel-shaped, 6–10 cm long and 4–6 cm wide, borne
-upright on short shoots. They disintegrate at maturity to release seeds.
-Seeds are 10–14 mm with a large, resinous wing.
-
-## Distribution and Habitat
-
-*Cedrus libani* is native to the mountains of Lebanon, Syria, and Turkey.
-In Lebanon, remnant populations survive in the Mount Lebanon range between
-1,200 and 1,800 meters elevation.
-
-In Turkey, the species occurs in the Taurus Mountains, forming extensive
-forests in the western Taurus. The Syrian populations in the Anti-Lebanon
-range are small and highly fragmented.
-
-The species once covered vast areas of the Levantine mountains. Deforestation
-over millennia has reduced Lebanese cedar forests to approximately 2,000
-hectares, representing less than 5% of the original extent.
-
-Cedar of Lebanon grows on well-drained calcareous and siliceous soils on
-steep mountain slopes. It is adapted to cold, snowy winters and warm, dry
-summers. Annual precipitation in its range is 700–1,500 mm, mostly as winter
-snow.
-
-The species forms pure stands at higher elevations and mixes with *Abies
-cilicica*, *Juniperus excelsa*, and *Quercus* species at lower altitudes.
-
-## Ecology and Mycorrhizal Relationships
-
-Cedar of Lebanon forms [[ectomycorrhizal-associations]] with diverse fungal
+populations are fragmented and face ongoing pressure from [[ectomycorrhizal-associations]] with diverse fungal
 taxa. Documented partners include species of *Laccaria*, *Paxillus*, and
 
 ## See Also
 - [[stinkhorn-fungi-morphology-and-ecology]]
+
+## Overview
+
+Cedrus Libani represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish cedrus libani
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving cedrus extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Cedrus Libani finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for cedrus libani. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+cedrus libani and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Cedrus Libani has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of cedrus libani into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[cedrus-atlantica]]
+- [[cedrus-deodara]]

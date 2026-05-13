@@ -14,12 +14,8 @@
     14|    14|
     15|    15|## Overview
     16|    16|
-    17|    17|2C-T-13 is a member of the 2C-T family of [[pihkal-beta-substituted-phenethylamines]], featuring a 2-methoxyethylthio group at the 4-position of the 2,5-dimethoxyphenethylamine core.
-    18|It represents a significant structural departure within the series, being the first compound in which a heteroatom (oxygen) was intentionally incorporated into the [[shirota-glyoxalylamide-side-chain-construction-psilocin-synthesis]] extending from the sulfur atom.
-    19|Synthesized and evaluated by [[alexander-shulgin]], the compound demonstrated moderate psychoactivity at doses of 25–40 mg with a relatively manageable duration of 6–8 hours.
-    20|Reports were generally positive, with pleasant visual effects and manageable body load, though gastrointestinal side effects were noted at higher doses.
-    21|    18|
-    22|    19|## [[hallucinogen-terminology-and-chemical-classification]]
+    17|    17|2C-T-13 is a member of the 2C-T family of [[shirota-glyoxalylamide-side-chain-construction-psilocin-synthesis]] extending from the sulfur atom.
+    19|Synthesized and evaluated by [[hallucinogen-terminology-and-chemical-classification]]
     23|    20|
     24|    21|2C-T-13 belongs to the 2C-T series of 2,5-dimethoxy-4-alkylthiophenethylamines.
     25|The compound features the standard 2,5-dimethoxy substitution pattern on the phenyl ring, with a sulfur atom at the 4-position bearing a 2-methoxyethyl chain (-S-CH2CH2-O-CH3).
@@ -34,18 +30,7 @@
     34|The sulfide undergoes Vilsmeier-Haack formylation using phosphorus oxychloride and N-methylformanilide to introduce the aldehyde group at the 4-position, yielding 2,5-dimethoxy-4-(2-methoxyethylthio)benzaldehyde as a pale yellow solid.
     35|A persistent fluorescent impurity was noted throughout the purification process.
     36|The benzaldehyde is condensed with nitromethane and ammonium acetate to form the beta-nitrostyrene, which crystallized as yellow electrostatic crystals with a sharp melting point.
-    37|Final reduction with lithium aluminium hydride in THF, with [[fukuoka-textdoc-fertilizer-soil-destruction-sulfuric-acid]] added to moderate the reaction, gives the free base.
-    38|The product is isolated as the hydrochloride salt from isopropanol and diethyl ether.
-    39|    26|
-    40|    27|## Dosage and Duration
-    41|    28|
-    42|    29|The active dosage range for 2C-T-13 is reported as 25–40 mg, with a duration of 6–8 hours.
-    43|This dose range is moderate within the 2C-T series, and the duration is relatively short compared to many other members.
-    44|Onset occurs within approximately 30 minutes to 1 hour, with peak effects around 1–1.5 hours.
-    45|The descent is described as gradual and pleasant, with return to baseline by approximately 7 hours.
-    46|The manageable duration makes it one of the more practical compounds in the series for controlled experimentation.
-    47|    30|
-    48|    31|## [[mdma-qualitative-effects-phenomenology]]
+    37|Final reduction with lithium aluminium hydride in THF, with [[mdma-qualitative-effects-phenomenology]]
     49|    32|
     50|    33|At 25 mg, the experience began with a brief period of noisiness lasting about an hour before stabilizing.
     51|Peak effects at approximately 1–1.5 hours included pleasant eyes-closed visuals consisting of a white field with colored geometric patterns.
@@ -74,36 +59,9 @@
     74|    41|## Pharmacological Notes
     75|    42|
     76|    43|2C-T-13 exhibits the pharmacological profile expected of a 5-HT2A agonist psychedelic phenethylamine, with a notably clean and manageable character compared to many other 2C-T compounds.
-    77|The onset is relatively rapid (30–60 minutes), consistent with good [[first-pass-metabolism-and-oral-bioavailability]].
-    78|Visual effects are present and pleasant, with both eyes-closed geometric patterning and eyes-open color enhancement.
-    79|The compound produces minimal cognitive confusion, which is a favorable attribute.
-    80|Gastrointestinal effects appear to be dose-dependent, becoming problematic at 35 mg and above.
-    81|The presence of the ether oxygen in the side chain may facilitate metabolism and contribute to the relatively short 6–8 hour duration.
-    82|The compound appears to have good synergy with 2C-T-2, as demonstrated by the successful supplementation experiment.
-    83|The moderate potency and manageable duration suggest a favorable pharmacokinetic profile.
-    84|    44|
-    85|    45|## Structure-Activity Relationships
-    86|    46|
-    87|    47|2C-T-13 is structurally significant as the first compound in the 2C-T series to incorporate a heteroatom (oxygen) into the alkyl chain extending from the sulfur atom.
-    88|Shulgin describes this as "the first try with the actual use of a different atom" in the 4-position side chain, as previous modifications had involved subtle structural variations such as unsaturated bonds or three-membered rings.
-    89|The 2-methoxyethyl group (-CH2CH2OCH3) provides an oxygen atom that can participate in hydrogen bonding, potentially altering the interaction with the receptor site compared to purely hydrocarbon chains.
-    90|The ether linkage may also affect the compound's lipophilicity and metabolic stability.
-    91|The fact that the compound retained psychoactivity with this modification validated the approach of incorporating heteroatoms into the side chain, leading Shulgin to explore the sulfur counterpart (2C-T-14) and speculate about other heteroatoms such as nitrogen, silicon, or phosphorus.
-    92|The moderate dose range (25–40 mg) and manageable duration suggest the methoxyethyl chain provides a reasonable balance between steric bulk and pharmacokinetic accessibility.
-    93|    48|
-    94|    49|## Extensions and Commentary
-    95|    50|
-    96|    51|Shulgin's commentary focuses on the novelty of incorporating a heteroatom into the side chain and the promise this approach holds for further exploration.
-    97|He notes that most previous modifications at the 4-position involved subtle structural changes, and 2C-T-13 represented a deliberate expansion of this strategy.
-    98|The sulfur counterpart, 2C-T-14 (with a 2-methylthioethylthio side chain), was immediately synthesized and advanced through several synthetic steps to the nitrostyrene stage.
-    99|The nitrostyrene intermediate was described as "garish orange-red 'Las Vegas' colored crystals," a detail that clearly amused Shulgin.
-   100|As of the time of writing, 2C-T-14's nitrostyrene was sitting on the shelf awaiting reduction to the target amine.
-   101|Shulgin predicted that 2C-T-14 would be active and probably longer-lived than the oxygen-containing 2C-T-13, a prediction based on the generally longer duration associated with sulfur-containing compounds in the series.
-   102|    52|
-   103|    53|## [[ayahuasca-tourism-practitioners-and-safety-considerations]]
+    77|The onset is relatively rapid (30–60 minutes), consistent with good [[ayahuasca-tourism-practitioners-and-safety-considerations]]
    104|    54|
-   105|    55|2C-T-13 appears to have a relatively favorable [[blesching-cannabis-safety-profile]] within the 2C-T series.
-   106|The primary [[adverse-effects-and-harm-reduction-psilocybin]] are gastrointestinal in nature, including nausea and diarrhea, which become more pronounced at doses above 35 mg.
+   105|    55|2C-T-13 appears to have a relatively favorable [[adverse-effects-and-harm-reduction-psilocybin]] are gastrointestinal in nature, including nausea and diarrhea, which become more pronounced at doses above 35 mg.
    107|The compound does not appear to produce significant cognitive confusion, anxiety, or paranoia at the doses tested.
    108|The manageable 6–8 hour duration reduces the risk of prolonged adverse experiences.
    109|No prolonged aftereffects or multi-day residuals were reported.
@@ -141,5 +99,5 @@ approximately 15 members of the 2C-T series evaluated in PiHKAL.
    114|    58|
    115|    59|- Related compounds in PiHKAL: 2C-T-2, 2C-T-14 (uncompleted), 2C-T-8
    116|    60|- See also: pihkal 2c t family for the 2C-T series overview
-   117|    61|- See also: [[shulgin-rating-scale]] for the [[tihkal-shulgin-rating-scale]] system
+   117|    61|- See also: [[tihkal-shulgin-rating-scale]] system
    118|    62|

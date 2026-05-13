@@ -6,35 +6,7 @@ type: concept
 
 # Fukuoka's Natural Diet Philosophy, Tasty Rice Critique, and Seasonal Eating
 
-Masanobu Fukuoka's philosophy of natural diet extends his [[fukuoka-road-critique-of-modern-science]] agriculture into the domain of human eating habits. He argues that the root cause of [[fukuoka-africa-agricultural-failure-deficit-farming-analysis]] lies not in technique but in humanity's fundamental misunderstanding of what diet represents. For Fukuoka, restoring a natural diet is inseparable from restoring natural farming — both require abandoning [[fukuoka-microbes-soil-health-discriminating-knowledge]] in favor of instinctive, non-discriminating awareness.
-
-## What is Diet? — Origins of Agricultural Error
-
-> "The very first step that must be taken in setting the proper course for agriculture is to reexamine what 'diet' represents."
-
-Fukuoka locates the failure of modern agriculture not in poor technology but in something far more fundamental:
-
-> "The failure of modern agriculture has its roots in abnormal dietary practices and the low level of basic awareness people have regarding diet."
-
-### Primitive Diet as Complete Diet
-
-Before civilization, primitive humans ate whatever they could find in their immediate environment. Nothing was wasted and everything served a purpose:
-
-> "Most natural products served either as food or as medicine."
-
-The earth was generous. Food was not scarce but abundant:
-
-> "The earth produced in abundance and food enough to satisfy everyone was always to be had."
-
-In this original state, diet was not a matter of choice or preference but of simple, instinctive participation in the natural world. The body knew what it needed and the environment provided it.
-
-### The Human Departure from Instinct
-
-Animals are born with an instinctive ability to distinguish edible from inedible. Humans alone have departed from this pattern:
-
-> "Man is an animal that feeds with his head rather than his mouth."
-
-Humans judge foods through [[fukuoka-nature-dissection-subjectivity-non-discriminating-knowledge]] — categorizing them as sweet, sour, bitter, hot, or tasty — feeding selectively according to impulse and fancy, producing what Fukuoka calls an "unbalanced and deficient diet." The tongue becomes the master rather than the body's deeper wisdom. This creates a self-reinforcing spiral of dissatisfaction:
+Masanobu Fukuoka's philosophy of natural diet extends his [[fukuoka-africa-agricultural-failure-deficit-farming-analysis]] lies not in technique but in humanity's fundamental misunderstanding of what diet represents. For Fukuoka, restoring a natural diet is inseparable from restoring natural farming — both require abandoning [[fukuoka-nature-dissection-subjectivity-non-discriminating-knowledge]] — categorizing them as sweet, sour, bitter, hot, or tasty — feeding selectively according to impulse and fancy, producing what Fukuoka calls an "unbalanced and deficient diet." The tongue becomes the master rather than the body's deeper wisdom. This creates a self-reinforcing spiral of dissatisfaction:
 
 > "Once man eats something sweet, food that he had felt until then to be sweet loses its appeal. Once he samples epicurean food, plainer fare becomes unacceptable."
 
@@ -46,13 +18,7 @@ Fukuoka draws a sharp contrast between the instinctive eating of animals and the
 
 > "The food that animals eat by instinct constitutes a complete diet, but man, with his reliance on discriminating knowledge, has lost sight of what a complete diet is."
 
-Science, rather than correcting this loss, has deepened it. By breaking food into component parts, [[fukuoka-critique-western-dietetics-nutritional-science]] creates an ever-expanding catalog of nutrients that obscures the wholeness of food: "a limitless array of components—starch, fat, protein, vitamins A, B, C, D, E, F..." This analytical approach leads to what Fukuoka calls "infinite fragmentation." The more we dissect food, the further we move from understanding it as a whole.
-
-Fukuoka is blunt about what science has actually accomplished:
-
-> "What primitive man ate instinctively comprised a complete diet. On the other hand, instead of leading us toward a complete diet, modern science has resulted in the discovery of a more sophisticated yet imperfect diet."
-
-Each nutritional discovery generates new questions, new supplements, new dietary fads: "These illusions invite other illusions, widening the circle of human delusion." The result is a society that knows more about the [[chemical-composition-of-hallucinogens]] food than any previous civilization, yet eats less naturally and less completely than the most primitive humans.
+Science, rather than correcting this loss, has deepened it. By breaking food into component parts, [[chemical-composition-of-hallucinogens]] food than any previous civilization, yet eats less naturally and less completely than the most primitive humans.
 
 ## The Tasty Rice Critique
 
@@ -102,9 +68,7 @@ Cultivated crops that have adapted to environments over millennia are not fundam
 
 ### The Unity of Diet and Farming
 
-For Fukuoka, the connection between [[korean-natural-farming]] natural diet is not analogical but ontological:
-
-> "Natural diet [[fukuoka-textdoc-three-stages-of-human-collapse-and-natural-farming-future]] are not separate and distinct ideas, but united intimately as one whole."
+For Fukuoka, the connection between [[fukuoka-textdoc-three-stages-of-human-collapse-and-natural-farming-future]] are not separate and distinct ideas, but united intimately as one whole."
 
 You cannot practice natural farming while eating an unnatural diet, nor can you eat naturally while supporting unnatural agriculture. The two are expressions of the same relationship — or the same failure of relationship — between humans and the natural world.
 

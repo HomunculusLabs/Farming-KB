@@ -12,17 +12,7 @@ sources:
 
 Updated: 2026-04-18
 
-Bacterial [[query-how-to-brew-a-fungal-dominant-compost-tea]] tea is an actively [[actively-aerated-compost-tea]] tea (AACT) formulation that promotes high bacterial biomass relative to [[bioremediation-fungal-biomass-biosorbent-material]]. It is used primarily for bacterial diseases, annual crop systems, and early succession soils.
-
-## When to Use Bacterial Tea
-
-Bacterial dominant tea is appropriate when:
-
-- Managing bacterial diseases such as black spot on roses
-- Growing annual vegetables, brassicas, and grasses (which prefer bacterial soils)
-- Establishing annual crops from seed
-- Early succession sites where bacterial soils are naturally dominant
-- Rapid [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] is needed for fast-growing annual plants
+Bacterial [[actively-aerated-compost-tea]] tea (AACT) formulation that promotes high bacterial biomass relative to [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] is needed for fast-growing annual plants
 - Soil is currently bacterial-dominated and needs reinforcement
 
 Bacterial teas are NOT sufficient for controlling mildew, which requires adequate fungal biomass.
@@ -46,51 +36,12 @@ Do NOT use humic acid or fish oil if you want to keep the tea bacterial-dominant
 2. Add the compost to the tea brewer basket
 3. Add bacterial foods to the water
 4. Brew for 18-24 hours with continuous aeration
-5. Maintain [[aact-dissolved-oxygen-fine-bubble-aeration-ingham]] above 6 ppm throughout the brew
-6. The tea should smell earthy and sweet, never foul or putrid
-7. Apply immediately after brewing -- do not let it sit
-
-## The Importance of Aeration
-
-Bacterial teas must remain aerobic throughout the brewing process. If dissolved oxygen drops below 5-6 ppm, facultative anaerobic bacteria begin to attack beneficial organisms. If the tea goes anaerobic (smelly), it is no longer beneficial compost tea -- it becomes "putrefying tea" and may contain harmful organisms including E. coli.
-
-The machine must be capable of maintaining adequate aeration for the amount of food added. Follow the manufacturer's maximum food recommendations.
-
-## Machine Selection
-
-Not all tea makers produce good bacterial tea. Ingham specifically warns against machines that only produce bacterial tea (like Soil Soup, which she calls "putrefying tea" when used as directed). Machines that stay aerobic and extract all organisms (bacteria, fungi, protozoa, nematodes) are preferred even when brewing for bacterial dominance, because the tea can be made bacterial-dominant through food selection while still containing the full range of beneficial organisms.
-
-Recommended affordable machines include:
-- KIS 5-gallon (simplici-tea.com) -- approximately $99
-- Alaska Giant 1-gallon ($40) and 5-gallon ($80)
-- EPM 100-gallon and 500-gallon
-
-## Application Rates
-
-- As a soil drench: 15 gallons of tea per acre, diluted in sufficient chlorine-free water
-- As a foliar spray: 5 gallons of tea per acre per month during growing season
-- For seed treatment: spray seeds with tea to promote rapid germination (5 gallons per acre)
-- For transplanting: water in transplants with compost tea
-
-## Disease Suppression
-
-Bacterial teas can protect against easy-to-deal-with fungal diseases like black spot on roses. The bacteria occupy leaf surfaces and root zones, preventing pathogen establishment through competitive exclusion. However, bacterial teas alone generally cannot protect against mildew, which requires fungal biomass in the tea.
-
-## E. coli Safety
-
-When E. coli-free compost is used and the tea remains aerobic, no amount of molasses added will cause E. coli to grow. If the compost contains low numbers of E. coli, maintaining aerobic conditions will typically reduce them to irrigation water levels (less than 3.4 per ml). The machine must be kept clean -- any dark biofilm is a breeding ground for E. coli.
-
-## See Also
-
-- [[aact-brewing-ingredients-ingham]]
-- [[aact-fungal-dominant-tea]]
+5. Maintain [[aact-brewing-ingredients-ingham]]
 - [[compost-tea-for-specific-crops]]
 
 ## Related
 
-- [[ingham-nutrient-cycling-soil-food-web]]
 - [[query-what-is-seed-starting-and-when-should-i-start-seeds-indoors]]
-- [[aact-aeration-oxygen-management-ingham]]
 - [[query-what-is-humic-acid-and-when-should-i-use-it]]
 
 ## Practical Applications
@@ -122,8 +73,78 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[dom]]
 - [[comparison-bacterial-dominant-vs-fungal-dominant-tea]]
-- [[ingham-fungal-dominant-vs-bacterial-dominant-tea]]
 - [[query-what-is-the-difference-between-fungal-dominant-and-bacterial-dominant-compost-tea]]
 - [[aact-fungal-dominant-tea]]
+
+## Overview
+
+Aact Bacterial Dominant Tea represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish aact bacterial dominant tea
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving aact extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Aact Bacterial Dominant Tea finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for aact bacterial dominant tea. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+aact bacterial dominant tea and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Aact Bacterial Dominant Tea has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of aact bacterial dominant tea into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions

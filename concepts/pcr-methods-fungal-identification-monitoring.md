@@ -10,7 +10,7 @@ sources:
 
 # Molecular PCR Methods for Fungal Identification and Monitoring
 
-Polymerase chain reaction (PCR) based methods have revolutionized [[molecular-methods-fungal-taxonomy-and-diversity]], enabling discrimination among morphologically indistinct taxa and assessment of [[biodiversity-fungal-genetic-diversity]] in natural populations. These techniques are especially valuable for fungi with few morphological markers.
+Polymerase chain reaction (PCR) based methods have revolutionized [[biodiversity-fungal-genetic-diversity]] in natural populations. These techniques are especially valuable for fungi with few morphological markers.
 
 ## Arbitrarily Primed PCR (apPCR / RAPD)
 
@@ -22,12 +22,7 @@ Short oligonucleotide primers (10-20 bp) anneal to complementary DNA sequences. 
 - For 15-16 bp primers of simple sequence repeats [e.g., (CAG)5, (GACA)4]:
   - Conspecific individuals share 80-100% of bands
   - Different species share 0-20% of bands
-- Species-specific band patterns allow unequivocal [[challenges-neurotropic-fungi-chemical-analysis-taxonomic-identification]]
-
-### Applications
-- **Taxonomic discrimination:** Colletotrichum species that lost infectivity and sporulation were identified as 5 distinct species
-- **Basidiomycete identification:** Boletus, Cantharellus, Cortinarius, Inocybe, Stropharia, Ganoderma all distinguished by apPCR patterns
-- **Genetic [[ingham-soil-food-web-diversity-assessment-dna-molecular-methods]]:** Population-level variation within species
+- Species-specific band patterns allow unequivocal [[ingham-soil-food-web-diversity-assessment-dna-molecular-methods]]:** Population-level variation within species
 
 ### Reproducibility Issues
 Major source of nonreproducibility: **thermocycler inaccuracy**
@@ -88,3 +83,11 @@ Uses two primers instead of one:
 
 1. System must identify differences among individuals and be applicable to other species
 2. Utility must be comparable to other methods
+
+## See Also
+
+- [[blesching-cannabis-administration-methods]]
+- [[sterilization-methods-comparison]]
+- [[egg-preservation-methods]]
+- [[fungal-species-estimation-methods-total-diversity]]
+- [[psilocybin-mushroom-drying-and-storage-methods]]

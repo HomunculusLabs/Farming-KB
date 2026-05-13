@@ -11,7 +11,7 @@ sources:
 
 # Ecology for Gardeners
 
-[[toby-hemenway]]'s introduction to ecological concepts that every gardener should understand. From Gaia's Garden, Chapter 2: "A Gardener's Ecology." These ecological principles form the foundation for designing self-sustaining [[fungi-in-garden-ecosystems]].
+[[fungi-in-garden-ecosystems]].
 
 ## The Core Insight
 
@@ -41,36 +41,19 @@ A garden can be designed to mimic a mature ecosystem rather than being stuck in 
 
 - Emphasizing perennials over annuals (mature ecosystems are perennial-dominated)
 - Creating multiple vegetation layers (mature ecosystems have many layers)
-- Building closed [[ozier-pdc-composting-and-nutrient-cycles]] (mature ecosystems recycle internally)
-- Fostering mutually helpful relationships among all inhabitants
-
-## Biodiversity
-
-Biodiversity in ecosystems isn't random — it is structured and functional. Key points:
-
-- **Niche diversity** matters more than species count — a diverse array of niches supports more species
-- **Structural diversity** (layers, edges, varied terrain) creates more niches
-- **[[fungal-functional-diversity-decomposition]]** (different roles: nitrogen-fixers, pest predators, mulch producers) matters more than visual diversity
+- Building closed [[fungal-functional-diversity-decomposition]]** (different roles: nitrogen-fixers, pest predators, mulch producers) matters more than visual diversity
 - More biodiversity generally means more stability and resilience, but diversity must be functional, not just numerical
 
 ## Perennials versus Annuals
 
-The [[ecological-garden-design]] imitates a mature ecosystem by emphasizing perennials rather than annuals.
-
-### Advantages of Perennials
-
-- Eliminate seed-starting, tilling, and the opportunity for weeds that tilling brings — three chores at one stroke
-- Need less water and fertilizer than annuals
-- Deep root systems tap moisture and nutrients that annuals cannot reach
-- Year-round presence provides dependable habitat for wildlife and [[comparison-beneficial-insects-guide-vs-integrated-pest-management]]
+The [[comparison-beneficial-insects-guide-vs-integrated-pest-management]]
 - No need to replant each season
 
 ### Perennial Food Plants
 
 - **Greens:** Good King Henry, perennial kale and broccoli, French sorrel
 - **Alliums:** Perennial onions, garlic chives, walking onions
-- **Root crops:** Various perennial [[growing-root-vegetables-guide]]
-- **Herbs:** Most [[holzer-medicinal-and-culinary-herbs-compendium]] are perennial
+- **Root crops:** Various perennial [[holzer-medicinal-and-culinary-herbs-compendium]] are perennial
 - **Vegetables:** Asparagus, artichokes, rhubarb
 - **Fruits and nuts:** Berries, fruit trees, nut trees
 
@@ -118,8 +101,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[dom]]
 - [[ecological-succession]]
-- [[composting]]
 - [[building-soil]]
 - [[decomposition]]

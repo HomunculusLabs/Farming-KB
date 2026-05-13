@@ -11,7 +11,7 @@ sources: []
 
 ## Overview
 
-Invasive species are non-native organisms that cause ecological, economic, or human health harm when introduced to new environments. They outcompete native species, alter ecosystem processes, degrade habitat, and cost the US economy an estimated $120+ billion annually. Invasive species management on the homestead involves identification, prevention, control, and monitoring to protect native biodiversity and ecosystem function. This connects to [[pollinator-conservation]], [[mycorestoration-overview]], and [[pollinator-conservation]] efforts.
+Invasive species are non-native organisms that cause ecological, economic, or human health harm when introduced to new environments. They outcompete native species, alter ecosystem processes, degrade habitat, and cost the US economy an estimated $120+ billion annually. Invasive species management on the homestead involves identification, prevention, control, and monitoring to protect native biodiversity and ecosystem function. This connects to [[pollinator-conservation|conservation]], [[mycorestoration-overview|restoration]], and [[pollinator-conservation]] efforts.
 
 ## Identification
 
@@ -29,7 +29,7 @@ Not all non-native species are invasive. Invasive species share certain traits:
 
 #### Forest and Woodland Invaders
 - **Japanese knotweed (Fallopia japonica)**: Bamboo-like stems; forms dense monocultures; root system can extend 30+ feet; extremely difficult to eradicate
-- **Garlic mustard (Alliaria petiolata)**: Biennial herb; produces allelopathic chemicals that kill mycorrhizal fungi; threatens forest understory
+- **Garlic mustard (Alliaria petiolata)**: Biennial herb; produces allelopathic chemicals that kill [[mycorrhizal-fungi]]; threatens forest understory
 - **Oriental bittersweet (Celastrus orbiculatus)**: Climbing vine that girdles and kills trees; displaces native bittersweet
 - **Japanese barberry (Berberis thunbergii)**: Thorny shrub that alters soil chemistry; creates favorable conditions for tick populations
 - **Burning bush (Euonymus alatus)**: Decorative shrub that escapes cultivation and forms dense thickets
@@ -42,14 +42,14 @@ Not all non-native species are invasive. Invasive species share certain traits:
 #### Grassland and Old-Field Invaders
 - **Spotted knapweed (Centaurea stoebe)**: Taprooted perennial; allelopathic; degrades rangeland and prairie habitat
 - **Leafy spurge (Euphorbia esula)**: Toxic latex; deep root system (20+ feet); extremely difficult to control
-- **Crown vetch (Coronilla varia)**: Aggressive legume; planted [[comparison-vetiver-grass-vs-bamboo-for-erosion-control]] but escapes and dominates native grasslands
+- **Crown vetch (Coronilla varia)**: Aggressive legume; planted for erosion control but escapes and dominates native grasslands
 - **Canada thistle (Cirsium arvense)**: Perennial thistle; extensive rhizome system; reduces crop yields and pasture quality
 
 #### Ornamental Escapes
 - **English ivy (Hedera helix)**: Evergreen vine that climbs trees; adds weight that can topple trees during storms; shades out forest understory
 - **Wintercreeper (Euonymus fortunei)**: Evergreen groundcover that climbs trees; forms dense mats
 - **Chinese wisteria (Wisteria sinensis)**: Aggressive vine that kills trees and shrubs by shading and girdling
-- **Butterfly bush ([[buddleja-davidii]])**: Despite attracting butterflies, it escapes and displaces native host plants
+- **Butterfly bush (Buddleja davidii)**: Despite attracting butterflies, it escapes and displaces native host plants
 
 ### Common Invasive Animals
 
@@ -133,7 +133,7 @@ Prevention is the most cost-effective strategy for invasive species management:
 - **Dispose of invasive plants properly**: Bag and landfill or burn invasive plant material; never compost invasives
 - **Monitor regularly**: Walk your property several times per year to detect new infestations early
 - **Report new detections**: Contact your state invasive species council or extension office to report new invasive species sightings
-- **Educate neighbors**: Invasive species cross [[holzer-high-beds-property-boundaries]]; community-wide awareness is essential
+- **Educate neighbors**: Invasive species cross property boundaries; community-wide awareness is essential
 
 ## Priority Setting
 

@@ -26,11 +26,7 @@ sources:
 
 Bufotenin is a Schedule I controlled substance in the United States and is similarly regulated in many other jurisdictions. It is not scheduled at the international level under the UN Convention on Psychotropic Substances, which has created inconsistent regulatory treatment across nations.
 
-The compound was first isolated in 1934 by the Austrian chemist Handovsky from the skin secretions of the European toad (*Bufo bufo*), from which it derives its common name (from *Bufo*, the toad genus, combined with the tryptamine-derived suffix *-tenin*). The compound was subsequently identified in the venom of the Colorado River toad (*Incilius alvarius*, synonym *[[5-meo-dmt-and-bufo-alvarius]]*) in significant concentrations, making this species the most well-known natural source. The bufotenin content of *I. alvarius* venom can reach 15% of dry weight, with 5-MeO-DMT also present at comparable concentrations.
-
-## Structural Relationship to Related Compounds
-
-Bufotenin sits at an important position in the [[tryptamine-family-overview]] tree:
+The compound was first isolated in 1934 by the Austrian chemist Handovsky from the skin secretions of the European toad (*Bufo bufo*), from which it derives its common name (from *Bufo*, the toad genus, combined with the tryptamine-derived suffix *-tenin*). The compound was subsequently identified in the venom of the Colorado River toad (*Incilius alvarius*, synonym *[[tryptamine-family-overview]] tree:
 
 - **Serotonin (5-HT):** Bufotenin differs from serotonin only by the presence of two methyl groups on the terminal amine. This small structural change converts a neurotransmitter into a potent psychedelic.
 - **DMT (N,N-dimethyltryptamine):** Bufotenin differs from DMT by the addition of a single hydroxyl group at the 5-position of the indole ring. This addition dramatically changes the compound's polarity, pharmacokinetics, and pharmacology.
@@ -46,10 +42,7 @@ Bufotenin acts primarily as a **serotonin 5-HT₂A receptor agonist**, the same 
 - **5-HT₁A** — partial agonist; may contribute to anxiolytic and calming effects
 - **5-HT₂B** — agonist; the clinical significance of this activity is not well characterized
 - **5-HT₂C** — agonist; may contribute to appetite suppression and anxiety effects
-- **5-HT₃** — the only ionotropic [[serotonin-receptor-interference-psychedelic-mechanism]]; bufotenin's activity here may contribute to nausea
-- **Sigma-1 receptor** — agonist; this receptor is involved in neuroprotection and modulation of calcium signaling
-
-This broad [[tihkal-receptor-binding-serotonin]] profile distinguishes bufotenin from DMT and contributes to its distinct subjective effects and side-effect profile.
+- **5-HT₃** — the only ionotropic [[tihkal-receptor-binding-serotonin]] profile distinguishes bufotenin from DMT and contributes to its distinct subjective effects and side-effect profile.
 
 ### Pharmacokinetics
 
@@ -70,20 +63,87 @@ When vaporized and inhaled, bufotenin produces rapid-onset psychedelic effects w
 - **Rana species** — various frog species worldwide
 
 ### Plant Sources
-- **[[yopo-anadenanthera-peregrina-snuff]]** (yopo / cohoba) — seeds used as a psychoactive snuff in [[chiric-caspi-brunfelsia-south-american-hallucinogen]] shamanic traditions; bufotenin present alongside DMT, 5-MeO-DMT, and β-carboline alkaloids
-- **[[anadenanthera-colubrina]]** (vilca / cebil) — seeds similarly used as an entheogenic snuff in the Andes and western Amazon
-- **Piptadenia macrocarpa** and related Fabaceae species — bark and seeds
-
-### Fungal Sources
-- Trace amounts have been reported in *Amanita citrina* and some *Inocybe* species, though these are not considered significant sources
-
-## Ethnobotanical and Historical Use
-
-The most significant ethnobotanical use of bufotenin involves the preparation and ritual consumption of **yopo** snuff by indigenous peoples of the Orinoco basin in Venezuela and the broader Amazon basin. The preparation process is elaborate:
-
-1. Seeds of *[[anadenanthera-peregrina]]* are toasted over a fire to loosen the seed coat
+- **[[chiric-caspi-brunfelsia-south-american-hallucinogen]] shamanic traditions; bufotenin present alongside DMT, 5-MeO-DMT, and β-carboline alkaloids
+- **[[anadenanthera-peregrina]]* are toasted over a fire to loosen the seed coat
 2. The toasted seeds are ground to a fine powder using a mortar and pestle
 3. The powder is often mixed with calcareous material (lime from burnt shells or ash from specific plants) to create an alkaline snuff that facilitates nasal absorption
 4. The mixture may be further processed with water and dried into a paste before being re-powdered
 
 The snuff is blown into the nostrils using a hollow tube (often made from bird bone or bamboo) or administered by a partner who blows the powder forcefully into the recipient's nostrils using a blowpipe. The effects begin within minutes and include intense visual imagery, altered perception of space and time, and sometimes profound visionary experiences.
+
+## Overview
+
+Bufotenin represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish bufotenin
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving bufotenin extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Bufotenin finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for bufotenin. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+bufotenin and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Bufotenin has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of bufotenin into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.

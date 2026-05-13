@@ -13,7 +13,7 @@ tags:
 
 ## Definition and Scope
 
-Fungicolous fungi are fungi consistently found in association with other fungi,
+[[fungicolous-fungi]] are fungi consistently found in association with other fungi,
 encompassing mycoparasites (deriving nutrition from living fungal hosts),
 commensals (benefiting without harming the host), and saprobes (colonizing dead
 or dying fungal tissue). The term "mycophilic" is sometimes used
@@ -27,7 +27,7 @@ The true diversity of fungicolous fungi has proven difficult to quantify.
 Rudakov (1978) catalogued approximately 1,700 nonlichenicolous fungicolous
 species, establishing one of the earliest comprehensive benchmarks. Hawksworth
 (1979, 1981) identified roughly 1,100 conidial (asexual) species associated
-with approximately 2,500 host species. The lichenicolous fungi — those
+with approximately 2,500 host species. The [[lichenicolous-fungi]] — those
 colonizing lichen thalli — represent an additional substantial component. Early
 surveys identified 550+ lichenicolous species, though current estimates suggest
 1,500+ as taxonomic study has intensified. Together these figures underscore
@@ -140,8 +140,6 @@ chemically inhospitable to most microorganisms, with broad implications for
 nutrient cycling and community dynamics in terrestrial ecosystems.
 
 ## See Also
-- [[biodiversity-fungicolous-mycoparasitic-fungi]]
 - [[biodiversity-of-fungi-plant-health-pathogens-biocontrol]]
-- [[biodiversity-fungi-ectomycorrhizal-diversity]]
 - [[biodiversity-lichenized-fungi-symbiosis]]
 - [[biodiversity-fungi-freshwater-aquatic-habitats]]

@@ -9,11 +9,11 @@ sources: []
 
 ## Overview
 
-Cannabis plants are susceptible to a range of fungal, bacterial, and viral diseases. Prevention through [[chen-maitake-growth-parameters-environmental-control]] and cultural practices is far more effective than treatment after infection. Most cannabis diseases thrive in specific environmental conditions — managing temperature, humidity, and airflow per [[cannabis-environment-control]] eliminates the majority of disease risk.
+Cannabis plants are susceptible to a range of fungal, bacterial, and viral diseases. Prevention through environmental control and cultural practices is far more effective than treatment after infection. Most cannabis diseases thrive in specific environmental conditions — managing temperature, humidity, and airflow per [[cannabis-environment-control]] eliminates the majority of disease risk.
 
 ## Bud Rot (Botrytis cinerea / Gray Mold)
 
-Bud rot is the most feared disease in [[arbuscular-mycorrhizal-fungi-cannabis-cultivation]]. It attacks from the inside of dense buds, making early detection difficult.
+Bud rot is the most feared disease in cannabis cultivation. It attacks from the inside of dense buds, making early detection difficult.
 
 ### Identification
 
@@ -46,7 +46,7 @@ Bud rot is the most feared disease in [[arbuscular-mycorrhizal-fungi-cannabis-cu
 - Dispose of infected material outside the grow space (do not compost)
 - Increase airflow and reduce humidity immediately
 - If more than 10-15% of the plant is affected, consider early harvest
-- Apply preventative biological sprays (Trichoderma, [[bacillus-subtilis]]) to remaining plants
+- Apply preventative biological sprays (Trichoderma, Bacillus subtilis) to remaining plants
 
 ## Powdery Mildew (Podosphaera macularis)
 
@@ -117,7 +117,7 @@ Root rot encompasses several conditions that destroy the root system, most commo
 - Repot in fresh, well-draining medium
 - Drench with beneficial microbe solution (Trichoderma, Bacillus subtilis)
 - Reduce watering frequency significantly
-- In hydroponics: add [[cervantes-hydrogen-peroxide-sterilization]] (3%, 3 ml per gallon) for emergency oxygen boost; add beneficial bacteria
+- In hydroponics: add hydrogen peroxide (3%, 3 ml per gallon) for emergency oxygen boost; add beneficial bacteria
 - Treat water with UV sterilization for ongoing prevention
 
 ## Fusarium Wilt (Fusarium oxysporum)
@@ -141,10 +141,10 @@ A soil-borne fungal pathogen that invades through roots and colonizes the vascul
 - Maintain healthy soil biology — Trichoderma species compete with Fusarium
 - Avoid over-fertilization with nitrogen (promotes susceptibility)
 
-## Damping Off
+## See Also
 
-Damping off is a condition affecting seedlings and young clones, caused by several soil-borne fungi (Pythium, Rhizoctonia, Fusarium). It causes young plants to collapse and die at or near the soil line.
-
-### Identification
-
-- Seedling stems become thin and water-soaked at the base
+- [[cannabis-cultivar-microbiome-specificity]]
+- [[weighted-vs-unweighted-unifrac-cannabis-strain-microbiome]]
+- [[cannabis-and-endometriosis]]
+- [[blesching-cannabis-immune-system-modulation]]
+- [[cannabis-seed-germination-viability-breeding-clarke]]

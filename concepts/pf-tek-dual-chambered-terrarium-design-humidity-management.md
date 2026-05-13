@@ -7,18 +7,7 @@ tags: [pf-tek, mushroom-cultivation, psilocybe-cubensis]
 
 ## The Dual Chambered Terrarium Concept
 
-The dual chambered terrarium is the central [[comparison-laminar-flow-hood-vs-fruiting-chamber]] in the PF TEK
-[[boil-a-bag-mushroom-cultivation-method]]. Designed by [[pf-tek-psilocybe-fanaticus]], it uses a standard
-10-gallon aquarium modified with a custom airtight lid and an internal spray
-shield partition. The design separates the terrarium into two functional zones:
-a primary chamber that receives the direct spray, and a secondary chamber where
-the fungus cakes reside, bathed in fine molecularized humidity.
-
-Mushrooms require extremely high humidity to fruit properly — ideally 100%
-relative humidity, meaning the maximum possible number of water molecules
-floating among the air atoms. However, directly spraying water onto the fungal
-mycelium and fruiting bodies is harmful. Water droplets from a spray bottle are
-"giant ponds of water" in relation to the fine [[fungal-mycelial-networks-nutrient-translocation]]. Direct
+The dual chambered terrarium is the central [[boil-a-bag-mushroom-cultivation-method]]. Designed by [[fungal-mycelial-networks-nutrient-translocation]]. Direct
 contact can drown the micro-world of fungal structures, inhibiting or
 contaminating growth.
 
@@ -117,12 +106,7 @@ works against humidification and introduces drying. PF explicitly warns
 against heating cables, heat pads, and heating blankets. Plant grow lights
 should be kept at a safe distance from the terrarium.
 
-[[anemotropism-in-psilocybe-cubensis]] grows well at temperatures as low as 60°F. PF reports
-seeing them grow perfectly at temperatures cooler than 60 degrees, though
-growth slows in cool conditions. At warm room temperature, they grow very
-fast. The ideal range is between 65 and the upper 80s°F. A too-hot terrarium
-will result in extensive mycelial spreading but no fruiting — the fungus
-allocates energy to [[cannabis-vegetative-growth-stage]] rather than reproduction.
+[[cannabis-vegetative-growth-stage]] rather than reproduction.
 
 ## Materials List for Terrarium Construction
 
@@ -141,6 +125,5 @@ kitchen product sprayers, as they lack the output needed for effective
 humidification of the sealed environment.
 
 ## See Also
-- [[dual-chambered-terrarium-design]]
 - [[pf-tek-dual-chambered-terrarium-spray-shield-humidity-physics]]
 - [[oss-oeric-terrarium-design-and-humidity]]

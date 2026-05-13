@@ -4,25 +4,7 @@ tags:
   - philosophy
   - evolution
   - biology
-  - [[natural-farming]]
-  - genetics
-  - fukuoka
-date: 2026-04-28
-updated: 2026-04-28
-sources:
-  - "raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md"
-  - masanobu-fukuoka-sowing-seeds-in-the-desert.md
----
-
-# Dharma Wheel Theory of Flux in All Things
-
-## Overview
-
-The **Dharma Wheel Theory of Flux in All Things** is [[masanobu-fukuoka]]'s alternative to Darwin's [[fukuoka-natural-way-of-farming-theory-of-natural-farming]] selection. Rather than seeing evolution as a linear, flat progression from simple to complex organisms over billions of years, Fukuoka proposed a three-dimensional, cyclical model where all living things were created simultaneously and exist as a unified whole, with species appearing and disappearing like islands surfacing and sinking in a sea of genetic potential.
-
-## Critique of Darwin's Theory
-
-Fukuoka raised several fundamental objections to [[fukuoka-critique-darwinian-evolution]]:
+  - [[masanobu-fukuoka]]'s alternative to Darwin's [[fukuoka-critique-darwinian-evolution]]:
 
 ### The Problem of Superiority and Inferiority
 
@@ -66,13 +48,7 @@ Fukuoka's background as a microbiologist informed his genetic theory:
 - Whether something becomes a plant or a human being is a question of whether genetic factors "surface" or "sink"
 - Only a small portion of possible genetic combinations have successfully come into being; most are lost or dormant
 
-The reason there are so few intermediary forms between species is not that they never existed. Rather, even if they were born, they died in infancy and did not come to human attention. An [[acacia]] tree produces millions of seeds, each with distinctive genetic makeup, but after ten years perhaps only one or two trees survive as descendants — yet all the others were also possible.
-
-## The Alternative Creation Story
-
-Fukuoka offered a creation narrative as an alternative to Darwin:
-
-1. The Creator rolled the seeds of every living thing into [[fukuoka-aerial-seeding-clay-pellets-desert-revegetation-technique]] and gave them to messengers to scatter randomly
+The reason there are so few intermediary forms between species is not that they never existed. Rather, even if they were born, they died in infancy and did not come to human attention. An [[fukuoka-aerial-seeding-clay-pellets-desert-revegetation-technique]] and gave them to messengers to scatter randomly
 2. Some seeds were programmed to become active soon after Earth's birth; others for water, mountains, or deserts
 3. Seeds designed to become human beings were made to come to life during later ages
 4. Millions of seeds were broadcast at one time — microorganisms, plants, and animals all appeared simultaneously
@@ -118,8 +94,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[dom]]
 - [[acacia]]
-- [[det]]
 - [[fukuoka-textdoc-dharma-wheel-civilization-collapse]]
 - [[fukuoka-problems-darwin-evolution]]

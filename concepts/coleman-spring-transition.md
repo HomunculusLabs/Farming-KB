@@ -16,24 +16,13 @@ sources:
 # Spring Transition from Winter Harvest to Summer Cropping
 
 The transition from winter harvest to summer cropping is one of the most
-critical management periods on a four-season farm. At [[coleman-four-season-farm]],
-the spring transition involves carefully coordinating the wind-down of
-[[coleman-semi-hibernating-winter-crops-harvest-extension]] with the startup of spring and summer plantings in the same
+critical management periods on a four-season farm. At [[coleman-semi-hibernating-winter-crops-harvest-extension]] with the startup of spring and summer plantings in the same
 greenhouse space.
 
 ## The Overlap Challenge
 
 Spring creates a unique management challenge because the late winter
-harvests overlap with [[coleman-overwintered-onions-and-early-spring-crops]] planting windows. The greenhouse beds
-are still occupied by mature winter crops at the exact moment when spring
-transplants need to go into the ground.
-
-Coleman manages this overlap through careful scheduling and a willingness
-to clear winter crops even when they still have some production potential.
-The priority is getting summer crops established on time rather than
-squeezing the last few harvests from winter plantings.
-
-This [[savory-holistic-resource-management-decision-framework]] reflects a core principle of the four-season
+harvests overlap with [[savory-holistic-resource-management-decision-framework]] reflects a core principle of the four-season
 system: each season's crops must be managed in service of the whole year's
 production plan, not optimized in isolation.
 
@@ -45,17 +34,7 @@ have been harvested repeatedly through the winter, the plants may be
 declining in quality anyway as day length increases and temperatures rise.
 
 For mâche and other once-over harvest crops, the remaining plants are
-simply removed when the [[harvest-window-cannabis]] closes. Any plants that have begun
-to bolt are pulled and added to the compost.
-
-The cleared beds are then prepared for the next planting cycle, which may
-involve adding compost, adjusting soil pH, and incorporating any needed
-amendments before the new transplants go in.
-
-## Bed Preparation for Spring
-
-Spring bed preparation in the greenhouse follows the same principles as
-[[azurescens-outdoor-bed-preparation-woodchips]] preparation but with the advantage of earlier access to
+simply removed when the [[azurescens-outdoor-bed-preparation-woodchips]] preparation but with the advantage of earlier access to
 workable soil. The protected environment means beds can be worked and
 planted weeks before outdoor soil conditions would allow.
 
@@ -118,8 +97,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[coleman-overwintered-onions-and-early-spring-crops]]
 - [[coleman-second-spring-august-planting-window]]
-- [[ice-house-and-spring-house]]
 - [[query-how-do-i-winterize-my-garden-and-prepare-for-spring]]
 - [[fukuoka-spring-orchard-bloom-and-aesthetic-philosophy]]

@@ -11,7 +11,7 @@ sources: []
 
 ## Overview
 
-[[autoflowering-cannabis]] strains automatically transition from vegetative growth to flowering based on age rather than light cycle. This trait comes from [[cannabis-ruderalis]], a subspecies that evolved in extreme northern latitudes with very short growing seasons. Incorporating ruderalis genetics into [[marijuana-strain-guide-sativa]] and [[marijuana-strain-guide-indica]] lines has created a category of fast-finishing, low-maintenance plants popular with both beginners and experienced growers.
+[[autoflowering-cannabis]] strains automatically transition from vegetative growth to flowering based on age rather than light cycle. This trait comes from [[cannabis-ruderalis]], a subspecies that evolved in extreme northern latitudes with very short [[jeavons-climate-adaptation-growing-seasons]]. Incorporating ruderalis genetics into [[marijuana-strain-guide-sativa|sativa]] and [[marijuana-strain-guide-indica|indica]] lines has created a category of fast-finishing, low-maintenance plants popular with both beginners and experienced growers.
 
 ## Ruderalis Genetics
 
@@ -30,7 +30,7 @@ Ruderalis was largely ignored by cannabis breeders until the early 2000s, when i
 
 ### The Joint Doctor and Lowryder
 
-The modern autoflower movement began with "The Joint Doctor," a Canadian breeder who created Lowryder in the early 2000s. Lowryder crossed ruderalis with Northern Lights #2 and William's Wonder to create the first commercially viable autoflowering strain. While Lowryder's potency was modest, it proved the concept and launched extensive [[cannabis-breeding-basics]] focused on autoflowers.
+The modern autoflower movement began with "The Joint Doctor," a Canadian breeder who created Lowryder in the early 2000s. Lowryder crossed ruderalis with Northern Lights #2 and William's Wonder to create the first commercially viable autoflowering strain. While Lowryder's potency was modest, it proved the concept and launched extensive [[cannabis-breeding-basics|breeding programs]] focused on autoflowers.
 
 ## How Autoflowering Works
 
@@ -56,7 +56,7 @@ Total grow time from seed to harvest: 8-12 weeks for most modern autoflowers, co
 
 ### Speed
 
-The most significant advantage is the compressed timeline. From seed to harvest in 8-10 weeks means more harvests per year. In [[cannabis-indoor-growing-basics]], growers can achieve 4-6 harvests annually.
+The most significant advantage is the compressed timeline. From seed to harvest in 8-10 weeks means more harvests per year. In [[cannabis-indoor-growing-basics|indoor setups]], growers can achieve 4-6 harvests annually.
 
 ### Light Schedule Flexibility
 
@@ -67,7 +67,7 @@ Autoflowers can be grown on any light schedule, including:
 - 24/0 (continuous light — some debate about plant health)
 - 12/12 (compatible with photoperiod plants in the same space)
 
-This flexibility allows autoflowers and photoperiod plants to share the same [[cannabis-indoor-growing-basics]].
+This flexibility allows autoflowers and photoperiod plants to share the same [[cannabis-indoor-growing-basics|grow space]].
 
 ### Compact Size
 
@@ -76,7 +76,7 @@ Most autoflowers stay under 3 feet tall, making them ideal for:
 - Small grow spaces and closets
 - Stealth growing
 - Balcony and patio cultivation
-- SOG (Sea of Green) setups with many small plants
+- SOG ([[sea-of-green]]) setups with many small plants
 
 ### Hardiness
 
@@ -89,7 +89,7 @@ Ruderalis genetics contribute exceptional resilience:
 
 ### Multiple Harvests
 
-In [[cannabis-outdoor-growing]], autoflowers can produce 2-3 harvests per growing season in most climates. Stagger planting every 2-3 weeks for continuous harvests.
+In [[cannabis-outdoor-growing|outdoor environments]], autoflowers can produce 2-3 harvests per growing season in most climates. Stagger planting every 2-3 weeks for continuous harvests.
 
 ## Cons of Autoflowering Strains
 

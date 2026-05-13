@@ -60,7 +60,7 @@ Brunnera macrophylla is native to the Caucasus region (Georgia, Armenia, Azerbai
 
 In its native habitat, the species grows in the partial shade of forest understory, often along stream banks and in moist, humus-rich soils. It is adapted to cold continental winters and tolerates temperatures to at least -30°C.
 
-The species has been widely planted in gardens across [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]] and has occasionally naturalized in western Europe and northeastern [[guzman-psilocybin-mushrooms-north-america]]. It is not considered invasive anywhere in its introduced range.
+The species has been widely planted in gardens across [[guzman-psilocybin-mushrooms-north-america]]. It is not considered invasive anywhere in its introduced range.
 
 Within the Caucasus, Brunnera macrophylla is part of a rich endemic flora that includes many shade-adapted perennials such as Primula, Hosta, and Epimedium species. These genera share similar ecological niches and are frequently grown together in cultivation.
 
@@ -70,20 +70,80 @@ The species is sometimes confused with Pulmonaria (lungwort), which occupies a s
 
 Brunnera macrophylla is hardy in USDA zones 3–8 and is one of the most reliable perennials for shade gardens. It prefers partial to full shade and moist, humus-rich, well-drained soil but tolerates dry shade once established.
 
-Propagation is by division in [[coleman-overwintered-onions-and-early-spring-crops]] or autumn, or by seed sown fresh in autumn. Division every 3–4 years maintains plant vigor. The species self-seeds modestly in favorable conditions but is not aggressive.
-
-Numerous cultivars have been selected for their variegated foliage, which provides season-long interest long after the spring flowers fade. The most popular include 'Jack Frost' (silver leaves with green veins, RHS AGM), 'Looking Glass' (almost entirely silver leaves), and 'Variegata' (white leaf margins).
-
-'Silver Heart' and 'Alexander's Great' are more recent introductions with larger leaves and improved heat tolerance. These selections are valued for brightening dark corners of the garden with their reflective foliage.
-
-[[jadam-pesticide-for-slugs-and-snails]] may feed on young leaves in spring, though established plants are generally resistant. [[cervantes-powdery-mildew-prevention-treatment]] can occur in very dry, stressed conditions. Deer and rabbits tend to avoid Brunnera due to its hairy foliage.
-
-In autumn, the foliage dies back to the ground and the plant overwinters as a dormant crown. New growth emerges early in spring, often before many other shade perennials have broken dormancy. This early emergence gives Brunnera a competitive advantage in the garden.
-
-The plant performs best in soils enriched with [[comparison-leaf-mold-composting-vs-hot-composting-method]] or compost. A mulch of shredded leaves in autumn helps maintain soil moisture and mimics the natural forest-floor conditions the species prefers.
+Propagation is by division in [[jadam-pesticide-for-slugs-and-snails]] may feed on young leaves in spring, though established plants are generally resistant. [[comparison-leaf-mold-composting-vs-hot-composting-method]] or compost. A mulch of shredded leaves in autumn helps maintain soil moisture and mimics the natural forest-floor conditions the species prefers.
 
 ## Ecological Role
 
-The early spring flowers of Brunnera macrophylla provide an important nectar and pollen source for emerging [[comparison-honey-bees-vs-native-solitary-bees]], hoverflies, and early bumblebee queens. The blue flower color is particularly attractive to [[comparison-native-bee-pollinators-vs-honeybees]].
+The early spring flowers of Brunnera macrophylla provide an important nectar and pollen source for emerging [[comparison-native-bee-pollinators-vs-honeybees]].
 
 Research on urban pollinator gardens has shown that Brunnera macrophylla ranks among the top shade-tolerant perennials for bee visitation rates in April and May. This makes it a valuable component of wildlife-friendly garden designs in shaded urban spaces.
+
+## Overview
+
+Brunnera Macrophylla represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish brunnera macrophylla
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving brunnera extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Brunnera Macrophylla finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for brunnera macrophylla. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+brunnera macrophylla and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Brunnera Macrophylla has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of brunnera macrophylla into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.

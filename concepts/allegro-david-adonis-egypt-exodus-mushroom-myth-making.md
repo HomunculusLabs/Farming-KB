@@ -6,7 +6,7 @@ type: concept
 
 # David as Adonis, the Egypt/Exodus Myth, and Mushroom-Based Name Word-Play
 
-[[john-allegro|John Allegro]] argues that key biblical narratives—particularly those surrounding David, Egypt, and the Exodus—are constructed from mushroom-related word-play rooted in Sumerian and related ancient Near Eastern languages, an argument developed from his broader [[allegro-main-thesis|main thesis]]. Names, titles, and entire stories become vehicles for encoding the cultic significance of the sacred fungus.
+[[allegro-main-thesis|main thesis]]. Names, titles, and entire stories become vehicles for encoding the cultic significance of the sacred fungus.
 
 ## David as Adonis
 
@@ -18,116 +18,7 @@ The name **David** means "lover/beloved" in Hebrew. The Greek **Adonis** derives
 
 The oracle attributed to David is a dense web of phallic-mushroom word-play. Each epithet Allegro retranslates as a sexual-fungal designation:
 
-- **"Son of Jesse"** — reinterpreted as a hebraized form of *\*B_ush_SA*, "erect penis." The same root appears in the Dionysiac title **Briseus** or **Breseus**, linking David directly to the Greek fertility god and related [[dionysian-cults|Dionysian cults]].
-- **"Raised on high"** (RSV) — more properly "erect phallus," describing the mushroom's stance.
-- **"Anointed"** (RSV) — literally "semen-smeared," the cultic practice of preparing the fungus.
-- **"Sweet"** (RSV, from *Na'im*) — actually "heavenly canopy," the mushroom's umbel.
-- **"The psalmist of Israel"** (RSV) — retranslated as "stretched penis of Israel," the *z-m-r* root conveying both "sing" and phallic extension.
-
-### Na'iman and the Fungal Canopy
-
-**Na'iman** derives from *\*NA_IM_AN*, "stretched across the sky"—a canopy of fungus. This connects David's title to the physical appearance of the mushroom cap as it opens and spreads, forming a "heavenly shade" over the stem.
-
-### Isaiah 17:10 — Adonis Plants and Phallic Sowing
-
-Isaiah 17:10 reads in Allegro's translation: "You plant the plants of Na'iman (Adonis), you sow the penis (*z-m-r*) of the field." The *z-m-r* root, elsewhere rendered "sing" or "psalm," here denotes the phallus—linking cultic singing (psalmody) to sexual activity designed to stimulate erection, itself mirroring the mushroom's growth and expansion.
-
-## Ezekiel's Vision of Phallus-Bearing
-
-### Ezekiel 8:17 — The Twenty-Five Men
-
-Ezekiel sees twenty-five men between the porch and the altar who "stretch out the erect phallus before them." The RSV sanitizes this as "put the branch to their nose," but Allegro reads it as a literal description of phallic display—a marked feature of **Dionysiac processionals**, where participants bore oversized phalli in ritual parade.
-
-### z-m-r and Sumerian SUR
-
-The *z-m-r* of the Ezekiel passage is a jumbled form of *m-s-r* / *m-z-r*, "stretch out," deriving from Sumerian **SUR**, "stretch out, measure a boundary." The same root surfaces in mushroom nomenclature, where the fungus is named for its erect, boundary-marking form.
-
-### Koussi Mezar — The Egyptian Gourd
-
-**Koussi Mezar**, "the Egyptian gourd," has been confused with the Squirting Cucumber (*Ecballium elaterium*). Properly understood, the name means "stretched gourd"—another mushroom designation, the "stretched" (*m-z-r*) referring to the fungus's erect posture. The confusion with the cucumber is itself a later misreading of the original fungal reference.
-
-## Mezar/Masōr = Egypt
-
-### The Dual Meaning: Mushroom and Nation
-
-The root *m-z-r* / *m-s-r* means "erect, stretched"—a mushroom name. But it is also the Hebrew word for **Egypt**, glossed as "The Territory" or "The Two Territories." The mushroom was thus known as "the Egyptian mushroom," and from this playful designation, Allegro argues, the **entire Exodus myth** was born.
-
-### The Exodus as Mushroom Narrative
-
-Because the sacred fungus bore the name "Egyptian," storytellers wove elaborate narratives about departure from and return to Egypt:
-
-- The **Holy Family flees to Egypt** (Matthew 2:13ff) — the mushroom (Jesus) goes to its namesake land.
-- **Hosea 11:1**: "Out of Egypt I called my son" — Israel as Yahweh's first-born, dwelling in Egypt, is the mushroom's mythologized journey.
-- **Exodus 4:22–23**: "Israel is my first-born son… Let my son go" — the mushroom must be released from its "Egyptian" identity.
-- **Passover** — the killing of the first-born of Egypt encodes the cultic sacrifice of the mushroom's "first-born" status.
-
-## Passover Cultic Background
-
-### The Power of the First-Born
-
-In the ancient cult, the first-born was specially favoured, its potency linked to the **power of the first menstrual blood of the virgin**. This primal generative force was considered sacred and dangerous in equal measure.
-
-### Returning the First-Born to God
-
-A widespread custom required returning the first-born to the deity to **restore the balance of nature disturbed by birth**. The Passover sacrifice—where the first-born of Egypt dies while Israel's are spared—reverses this pattern: the god claims Egypt's first-born (the mushroom's "Egyptian" offspring) while releasing Israel's.
-
-### The p-t-r Root
-
-The root **p-t-r** yields a cluster of significant terms: **Peter** (the apostle), **pitrā'** (unleavened bread eaten at Passover), "first-born," and "release." All converge on the Passover theme of releasing the first-born—the mushroom—from bondage.
-
-## Judas Iscariot as "Betrayer"
-
-### m-s-r as "Hand Over, Betray"
-
-The root *m-s-r* carries the meaning "hand over, betray" (specifically, to Gentiles). **Judas Iscariot** thus becomes the *arch-māsōr*, the "betrayer" of all time—not merely a historical figure but a linguistic encoding of the mushroom's "handing over" to the Gentile world.
-
-### Acts 12:3–4 — Herod, Peter, and Prison
-
-Herod arrests Peter during the Feast of Unleavened Bread and imprisons him. Allegro reads this as a dense word-play cluster: *mēsōr* "bonds," **Mezor** "mushroom," and *p-t-r* "Peter/patrā'" (unleavened bread). Peter—the mushroom—lies bound in prison during the very feast named after his own preparation.
-
-### "Pleasing the Jews"
-
-The phrase "pleasing the Jews" (Acts 12:3) Allegro connects to Sumerian **MASh-TAB-BA-RI**, "that which is pleasing to the Hebrews"—yet another layer of mushroom-encoded meaning.
-
-### Herod, Rhoda, and Mushroom Names
-
-- **Herod** — from Latin *ardeola* "heron," equivalent to Hebrew **'Ardila**, "mushroom."
-- **Rhoda** (the servant who opens the prison door, Acts 12:13) — the feminine form of the same mushroom name.
-
-### Acts 21:10–11 — Agabus and the Girdle
-
-The prophet Agabus binds his own feet and hands with Paul's girdle, prophesying Paul's delivery to the Gentiles. This dramatizes a word-play on *mēsōrā'* "girdle" + "betrayal" + **Mezor** "mushroom"—Paul, like the mushroom, will be handed over (betrayed) to the Gentile world.
-
-## Issachar and the Mandrake Birth Story
-
-### Genesis 30:14–18 — The Mandrake Bargain
-
-Reuben finds mandrakes in the field. Rachel bargains with Leah for them: Leah will surrender the mandrakes in exchange for Jacob's company that night. Leah "hires" Jacob with the mandrakes, and **Issachar** is born. The story encodes a cultic pattern: the mandrake (a fungus substitute) facilitates the sexual act, and the resulting child bears a mushroom name.
-
-### Issachar's True Etymology
-
-The Hebrew explanation gives Issachar as *'ish* "man" + *sakar* "hire" (Leah "hired" Jacob). Allegro rejects this as a fancied popular etymology. The actual derivation is **USh-SA** = *\*B_ush_SA*, "erect penis"—the same root behind David/Jesse and the Dionysiac title Briseus. Issachar, like David, is the mushroom personified.
-
-### The Mandrake as Mushroom
-
-The mandrake story follows a consistent pattern: the plant in question is a **mushroom surrogate**, the sexual bargaining represents **cultic mushroom use**, and the resulting child's name is a **Sumerian mushroom epithet** dressed in Hebrew folk-etymology.
-
-### Other Jacob Children — Fancied Hebrew Etymologies
-
-Allegro extends this analysis to the other sons of Jacob, arguing that their Hebrew etymologies are all secondary:
-
-- **Reuben** — fancied as *ra'ah* "see" + *'onah* "affliction"
-- **Simeon** — fancied as *shama'* "hear"
-- **Levi** — fancied as *lawah* "join"
-- **Judah** — fancied as *yadah* "praise"
-
-In each case, Allegro contends, the names are actually **Sumerian mushroom epithets** that Hebrew storytellers later reinterpreted with locally plausible etymologies.
-
-## Conclusion: Word-Play as Religious Exposition
-
-### Legitimate Exegetical Method
-
-Such stories do not necessarily indicate that people lost the real meanings of their names and narratives. In the ancient Near East, word-play was itself a **"legitimate means of religious exposition"**—a way of unpacking theological truth through the resonances and ambiguities of language, consistent with Allegro's account of [[allegro-word-play-and-secret-names-in-scripture|word-play and secret names in scripture]]. The mushroom cult encoded its secrets in the very names and stories that later generations would inherit as "history."
+- **"Son of Jesse"** — reinterpreted as a hebraized form of *\*B_ush_SA*, "erect penis." The same root appears in the Dionysiac title **Briseus** or **Breseus**, linking David directly to the Greek fertility god and related [[allegro-word-play-and-secret-names-in-scripture|word-play and secret names in scripture]]. The mushroom cult encoded its secrets in the very names and stories that later generations would inherit as "history."
 
 ### Historical Dubiety
 
@@ -140,3 +31,88 @@ The discovery that so many Jerusalem names are **"primarily Sumerian"** points t
 ---
 
 *Source: John M. Allegro, The [[sacred-mushroom-and-the-cross]]*
+
+## Overview
+
+Allegro David Adonis Egypt Exodus Mushroom Myth Making represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish allegro david adonis egypt exodus mushroom myth making
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving allegro extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Allegro David Adonis Egypt Exodus Mushroom Myth Making finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for allegro david adonis egypt exodus mushroom myth making. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+allegro david adonis egypt exodus mushroom myth making and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Allegro David Adonis Egypt Exodus Mushroom Myth Making has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of allegro david adonis egypt exodus mushroom myth making into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[allegro-david-egypt-and-the-census]]
+- [[allegro-wasson-soma-connection]]
+- [[allegro-womans-part-in-the-creative-process]]
+- [[allegro-zealots-sicarii-masada-drug-cult-revolts]]
+- [[john-allegro]]

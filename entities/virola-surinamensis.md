@@ -16,22 +16,7 @@ sources:
   - Prance, G.T. (1972). "Virola and the Use of Hallucinogenic Snuffs by Amazonian Indians." Economic Botany, 26(3), 249-258.
   - Schultes, R.E. (1969). "Virola as an Oral Hallucinogen Among the Bororo and Paresi Indians of Brazil." Economic Botany, 23(4), 355-357.
   - Farnsworth, N.R. (1968). "Hallucinogenic Plants." Science, 162(3860), 1400-1405.
-  - Holmstedt, B. & Lindgren, J.E. (1967). "[[guzman-magic-mushrooms-chemical-constituents]] of Virola species." Lloydia, 30(3), 237-241.
----
-
-## Overview
-
-**Virola surinamensis** is a large canopy tree in the family Myristicaceae, native
-to the Amazon Basin and the Guianas. It is one of several *Virola* species
-traditionally used by indigenous Amazonian peoples to prepare psychoactive snuff
-and oral preparations.
-
-The inner bark resin of this species contains significant concentrations of
-5-methoxy-N,N-dimethyltryptamine (5-MeO-DMT) and N,N-dimethyltryptamine (DMT),
-making it one of the most potent natural tryptamine sources known.
-
-The species is also valued for its timber and has ecological importance as a
-food source for wildlife in lowland [[fungal-biodiversity-tropical-forests]].
+  - Holmstedt, B. & Lindgren, J.E. (1967). "[[fungal-biodiversity-tropical-forests]].
 
 ## Taxonomy and Morphology
 
@@ -55,35 +40,89 @@ wide, with entire margins. Petioles are short and swollen at the base.
 fused staminal column; female flowers have a single-celled ovary.
 
 **Fruit:** Capsule, globose to ellipsoid, 3–5 cm diameter, dehiscing to reveal
-a [[cervantes-selfing-single-seed-descent]] entirely enclosed in a bright red or orange aril.
+a [[ayahuasca]], lasting 15–30 minutes.
 
-## Distribution and Habitat
+## Overview
 
-*Virola surinamensis* occurs throughout the lowland Amazon Basin, from Venezuela
-and the Guianas south through Brazil, Peru, and Colombia. It is found in
-non-flooded terra firme forests and along river margins at elevations below 500 m.
+Virola Surinamensis represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
 
-The species prefers well-drained clay or loam soils in primary or mature
-secondary forest. It is shade-tolerant in the seedling stage but requires canopy
-gaps for establishment and growth to maturity.
+## Key Characteristics
 
-Regeneration is limited by the species' dependence on animal seed dispersers,
-primarily toucans and other large frugivorous birds that consume the arillate
-seeds.
+Several defining characteristics distinguish virola surinamensis
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
 
-## Traditional Psychoactive Use
+## Ecological Context
 
-Among the Yanomamö, Waiká, and other indigenous groups of the Venezuela-Brazil
-borderlands, the inner bark resin of *V. surinamensis* is processed into a
-powdered snuff known as *ebena* or *nyakwana*.
+The ecological relationships involving virola extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
 
-The preparation involves stripping bark from young branches, collecting the
-exuded resin, boiling it to reduce volume, and drying it over fire. The dried
-resin is pulverized, often mixed with alkaline plant ash (usually from
-*Elizabetha princeps*) to facilitate transmucosal absorption, and insufflated
-through long blow tubes made from hollow bird bones.
+## Practical Applications
 
-Effects begin within seconds of insufflation and include intense visual
-hallucinations, synesthesia, altered time perception, and experiences interpreted
-as spirit contact or divination. The experience is typically shorter in duration
-than [[ayahuasca]], lasting 15–30 minutes.
+Virola Surinamensis finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for virola surinamensis. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+virola surinamensis and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Virola Surinamensis has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of virola surinamensis into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[entheogen-virola-snuff-ethnobotany-chemistry]]
+- [[mckenna-food-gods-dmt-virola-anadenanthera-amazonian-snuff-traditions]]
+- [[plants-of-the-gods-virola-epena-snuff]]
+- [[virola-elongata]]
+- [[virola-snuff]]

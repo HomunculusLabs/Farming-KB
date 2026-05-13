@@ -18,8 +18,7 @@ Holzer keeps old cattle breeds that are suited to outdoor, year-round living on 
 
 ### Keeping Principles
 
-- Cattle live outside year-round with access to simple [[holzer-roundwood-shelters-earth-cellars]]
-- They graze on polyculture paddocks sown with cereals, legumes, and [[permaculture-plants-root-crops-and-tubers]]
+- Cattle live outside year-round with access to simple [[permaculture-plants-root-crops-and-tubers]]
 - In winter, animals can survive on Jerusalem artichokes, kale, and turnips left in the field if snow is not too deep
 - No concentrated feed required when diverse forage is available
 - Shelters must be easily accessible for mucking out with a tractor (cattle are less clean than pigs)
@@ -47,30 +46,7 @@ These multi-purpose structures serve as cattle housing, pig shelters, and crop s
 - Build time: one day with excavator and one additional person
 
 ### Orientation
-The entrance faces east so animals wake with the rising sun. The shelter provides shade at midday in summer and [[cervantes-wind-protection-outdoor-cannabis]] in winter.
-
-## Poultry
-
-### Ducks
-- Omnivorous diet: leaves, roots, aquatic plants, grain, worms, amphibians, small fish, snails
-- Need access to open water year-round (steep-angled inflow prevents complete ice formation)
-- Twice as many nesting sites as brooding ducks needed
-- Prefer partially dark, secluded nesting places
-- Nests should be closable at the start of breeding season
-
-### Geese
-- Exclusively plant-eating; graze and fertilise small meadow areas
-- Excellent alarm system -- loud honking announces all visitors
-- Strong territorial behaviour makes them effective guard animals worldwide
-
-### Breeding Wild Poultry
-- Quail, pheasants, and even demanding native grouse (capercaillie, hazel grouse) can be bred
-- Success depends on meeting the specific habitat needs of each species
-- With enough sympathy and understanding, almost anything is possible
-
-## Stone Cellars for Storage
-
-[[sepp-holzer-earth-cellars-and-philosophy]] maintain 80-90% humidity and 8-10C temperature using only the soil's thermal mass. Key features:
+The entrance faces east so animals wake with the rising sun. The shelter provides shade at midday in summer and [[sepp-holzer-earth-cellars-and-philosophy]] maintain 80-90% humidity and 8-10C temperature using only the soil's thermal mass. Key features:
 
 - Gravel floor for drainage
 - 10m-long underground air inlet pipe (brings air to soil temperature)
@@ -80,12 +56,8 @@ The entrance faces east so animals wake with the rising sun. The shelter provide
 
 ## See Also
 
-- [[sepp-holzer-cattle-and-poultry-management]]
-
 - [[holzer-livestock-integration]]
-- [[holzer-alternative-energy]]
 - [[holzer-wild-cattle-and-old-breeds]]
-- [[holzer-poultry-keeping-ducks-geese-and-chickens]]
 - [[permaculture-multi-purpose-plants]]
 
 ## Practical Applications
@@ -117,8 +89,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[doc]]
 - [[dom]]
-- [[jerusalem-artichoke]]
 - [[permaculture]]
 - [[sepp-holzer-cattle-and-poultry-management]]

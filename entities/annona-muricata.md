@@ -14,15 +14,9 @@ sources:
   - Pinto, A.C.R. et al. (2005). "Medicinal plants of the Annonaceae." In: Medicinal and Aromatic Plants of the World, Springer.
   - Pawlus, A.D. et al. (2007). "Annonaceous acetogenins: Recent progress." Journal of Natural Products 70(2): 289-294.
   - George, V.C. et al. (2015). "Systematic review and meta-analysis of anticancer properties of *Annona muricata*." Evidence-Based Complementary and Alternative Medicine 2015: 587296.
-  - Rady, I. et al. (2018). "Graviola: A novel promising natural-derived drug that inhibits tumorigenicity and metastasis of [[blesching-cannabis-pancreatic-cancer]] cells." Oncotarget 9(71): 33568-33586.
-created: 2026-04-28
----
+  - Rady, I. et al. (2018). "Graviola: A novel promising natural-derived drug that inhibits tumorigenicity and metastasis of [[comparison-berry-growing-vs-fruit-tree-pruning]] in the family Annonaceae.
 
-## Overview
-
-**Annona muricata** L., commonly known as soursop, graviola, guanábana, or sirsak, is a tropical [[comparison-berry-growing-vs-fruit-tree-pruning]] in the family Annonaceae.
-
-It is native to the [[fukuoka-natural-farming-in-tropical-regions]] of the Americas and the Caribbean but is now cultivated pantropically for its edible fruit [[panax-ginseng]].
+It is native to the [[panax-ginseng]].
 
 The species has attracted significant research interest due to its acetogenin content, which exhibits cytotoxic activity against cancer cell lines in vitro.
 
@@ -37,11 +31,7 @@ The species has attracted significant research interest due to its acetogenin co
 - **Species:** A. muricata L.
 - **Authority:** Carl Linnaeus (1753)
 
-The genus *Annona* contains approximately 170 species of [[nitrogen-fixing-trees-and-shrubs]], several of which produce commercially important fruits.
-
-### Morphology
-
-*A. muricata* is an evergreen tree reaching 5–8 m in height under cultivation, though [[strain-isolation-from-wild-specimens]] can grow to 10 m.
+The genus *Annona* contains approximately 170 species of [[strain-isolation-from-wild-specimens]] can grow to 10 m.
 
 Leaves are oblong to elliptic, 8–16 cm long, glossy dark green above and paler beneath, with a characteristic pungent aroma when crushed.
 
@@ -53,7 +43,7 @@ The skin is green, covered with soft, curved spines. The white, fibrous pulp has
 
 ## Distribution and Cultivation
 
-The species is native to the Caribbean, [[guzman-allen-gartz-neurotropic-fungi-central-america-caribbean]], and northern [[guzman-psilocybin-mushrooms-south-america]]. It is now widely naturalized and cultivated throughout the tropics.
+The species is native to the Caribbean, [[guzman-psilocybin-mushrooms-south-america]]. It is now widely naturalized and cultivated throughout the tropics.
 
 Major producing countries include Brazil, Mexico, Peru, the Philippines, Indonesia, Vietnam, and several West African nations.
 

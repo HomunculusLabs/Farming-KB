@@ -22,15 +22,7 @@ sources:
 
 The species is widely recognized for its bright yellow star-shaped flowers and its acrid, peppery-tasting foliage. It has been used in traditional European folk medicine as a counter-irritant and topical remedy.
 
-Despite its ornamental appeal, S. acre contains toxic piperidine alkaloids that cause skin irritation and gastrointestinal distress if ingested. It is classified as an invasive species in parts [[berry-growing]] and Australia.
-
-## Taxonomy and Morphology
-
-Sedum acre was described by Carl Linnaeus in Species Plantarum (1753). The specific epithet "acre" means bitter or pungent, referring to the acrid taste of the leaves.
-
-The species belongs to the subfamily Sedoideae within Crassulaceae.
-
-Molecular phylogenetic studies place it in a clade with S. sexangulare and S. album, all sharing similar floral morphology and [[ergot-alkaloid-chemistry-history]]. No significant infraspecific taxa are currently recognized, though several cultivars exist in the horticultural trade.
+Despite its ornamental appeal, S. acre contains toxic piperidine alkaloids that cause skin irritation and gastrointestinal distress if ingested. It is classified as an invasive species in parts [[ergot-alkaloid-chemistry-history]]. No significant infraspecific taxa are currently recognized, though several cultivars exist in the horticultural trade.
 
 Plants form dense mats of creeping stems reaching 5–10 cm in height. Leaves are fleshy, cylindrical to ovoid, 4–8 mm long, arranged in alternate or whorled clusters along the stems.
 
@@ -48,31 +40,11 @@ It thrives on calcareous substrates and is frequently associated with limestone 
 
 It is commonly found in coastal cliff communities, inland limestone pavements, and old stone walls. In urban settings, it frequently appears on rooftops, between paving stones, and along railway embankments.
 
-In parts of the Great Lakes region and the [[psilocybin-north-america-pacific-northwest]], S. acre is considered invasive. It can outcompete native rock-outcrop vegetation and alter soil chemistry through its persistent leaf litter.
-
-## Cultivation
-
-Sedum acre is among the easiest succulents to grow and is widely used in rock gardens, green roofs, and groundcover plantings. It is hardy to USDA Zone 3.
-
-Propagation is readily achieved through stem cuttings, division, or seed. Cuttings root within 2–3 weeks when placed on moist, well-drained substrate in bright indirect light.
-
-Seeds are tiny and require light for germination. They are typically surface-sown on a sandy medium and kept at 15–20°C. Germination occurs within 2–4 weeks under optimal conditions.
-
-Division of established mats is the most reliable propagation method for garden use. Each division should include roots and several rooted stems to ensure rapid reestablishment.
-
-The species requires excellent drainage and tolerates nutrient-poor substrates. Overwatering or heavy clay soils promote crown rot and [[bloomfield-fungal-pathogens-and-parasites]].
+In parts of the Great Lakes region and the [[bloomfield-fungal-pathogens-and-parasites]].
 
 It performs best in full sun but tolerates partial shade. Shade conditions produce elongated, less compact growth and reduced flowering.
 
-In green roof applications, S. acre is valued for its extreme [[dighton-fungal-drought-tolerance-plant-water-relations]] and shallow root system. It requires virtually no maintenance once established.
-
-## Bioactive Compounds
-
-S. acre contains piperidine alkaloids as its primary bioactive constituents. The most notable compounds include sedridine, sedamine, and sedinone.
-
-Total alkaloid content ranges from 0.03–0.15% of dry weight depending on growing conditions and harvest timing. Concentrations peak during flowering and decline after seed set.
-
-The alkaloid profile of S. acre is distinct from other Sedum species, which typically accumulate flavonoids and phenolic acids rather than piperidine derivatives. This chemical signature aids in [[challenges-neurotropic-fungi-chemical-analysis-taxonomic-identification]].
+In green roof applications, S. acre is valued for its extreme [[challenges-neurotropic-fungi-chemical-analysis-taxonomic-identification]].
 
 These alkaloids are concentrated in the leaves and stems. They are responsible for the characteristic acrid, peppery taste and the irritating properties of the plant.
 
@@ -87,3 +59,88 @@ Poultry are relatively resistant due to their limited intake of the plant. Rabbi
 Traditional applications included topical treatment of warts, corns, and skin ulcers. These uses are not supported by modern clinical evidence and carry significant risk of chemical burns.
 
 ## Ecological Role
+
+## Overview
+
+Sedum Acre represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish sedum acre
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving sedum extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Sedum Acre finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for sedum acre. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+sedum acre and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Sedum Acre has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of sedum acre into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[comparison-sedum-vs-sempervivum]]
+- [[sedum-and-stonecrop-cultivation]]
+- [[sedum-morganianum]]
+- [[sedum-rupestre]]
+- [[sedum-spectabile]]

@@ -34,8 +34,7 @@ candy leaf, sweet leaf, or simply stevia, it is renowned for producing
 steviol glycosides — intensely sweet compounds found in its leaves that are
 200–300 times sweeter than sucrose with negligible caloric content.
 
-The plant has been used for centuries by the Guaraní peoples of [[guzman-psilocybin-mushrooms-south-america]],
-who called it *ka'a he'ẽ* ("sweet herb") and used it to sweeten [[comparison-caffeine-plants-yerba-mate-vs-guayusa-vs-yaupon-vs-tea]]
+The plant has been used for centuries by the Guaraní peoples of [[comparison-caffeine-plants-yerba-mate-vs-guayusa-vs-yaupon-vs-tea]]
 and other beverages. Today, stevia extracts are among the most commercially
 significant natural sweeteners worldwide, approved for food use in over 150
 countries.
@@ -59,10 +58,7 @@ primarily by insects.
 Native to the semi-arid highlands of eastern Paraguay (Amambay and Iguazú
 departments) and the adjacent border regions of Brazil, at elevations of
 200–600 m. It grows naturally in sandy, acidic soils (pH 4.5–6.5) with
-good drainage and thrives in [[query-how-to-grow-rare-tropical-fruits-in-marginal-and-subtropical-climates]] with moderate rainfall.
-
-Commercial cultivation now spans China (the world's largest producer), Japan,
-South Korea, Brazil, Paraguay, India, Kenya, and the [[dmt-containing-plants-united-states-halpern]]. China
+good drainage and thrives in [[dmt-containing-plants-united-states-halpern]]. China
 accounts for roughly 80% of global stevia leaf production.
 
 ## Bioactive Compounds
@@ -79,7 +75,7 @@ of steviol biosynthesized via the MEP pathway:
 - **Rebaudioside C and D** — minor glycosides contributing to overall
   sweetness complexity.
 
-Other constituents include flavonoids ([[quercetin]], [[luteolin]], [[apigenin]]
+Other constituents include flavonoids ([[luteolin]], [[apigenin]]
 glycosides), caffeic acid derivatives, and chlorophyll. The glycoside
 profile varies significantly with cultivar, growing conditions, and harvest
 timing.

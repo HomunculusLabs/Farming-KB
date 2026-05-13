@@ -24,27 +24,10 @@ Pigeon pea (pigeon pea) and cowpea (cowpea) are two of the most important tropic
 |---|---|---|
 | **Scientific name** | *Cajanus cajan* | *Vigna unguiculata* |
 | **Growth habit** | Erect woody shrub, 1–3.5 m tall | Semi-erect to trailing vine, 0.3–1.0 m tall |
-| **[[dighton-fungal-drought-tolerance-plant-water-relations]]** | Very high; survives on 400–650 mm annual rainfall | Very high; survives on 300–500 mm annual rainfall |
-| **Heat tolerance** | Excellent; optimum 25–35 °C, tolerates up to 40 °C | Excellent; optimum 25–35 °C, tolerates up to 42 °C |
-| **Soil requirements** | Well-drained sandy loams to loams; tolerates moderate salinity | Sandy to loamy soils; tolerates poor, acidic soils well |
 | **[[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]]** | 40–200 kg N/ha (varies with rhizobium strain) | 70–350 kg N/ha (varies with strain & duration) |
 | **Days to maturity** | 120–250 days (depends on type & photoperiod) | 60–120 days (short-season varieties as low as 55 days) |
 | **Seed protein content** | 20–22% | 22–27% |
-| **Uses** | Food (dhal, green peas), fodder, green manure, cover crop, hedge, windbreak | Food (dry grain, fresh pods), fodder, green manure, cover crop, [[permplant-willows-salix-erosion-control-fodder]] |
-| **Yield potential** | 600–2,500 kg/ha grain; 3–8 t/ha biomass | 300–2,000 kg/ha grain; 2–6 t/ha biomass |
-| **Pest/disease susceptibility** | Fusarium wilt, pod borer (*Helicoverpa armigera*), sterility mosaic disease | Aphids, thrips, cowpea weevil (*Callosobruchus maculatus*), bacterial blight, Fusarium wilt |
-| **Suitable climates** | Semi-arid tropics & subtropics (15–30 °N/S) | Tropical savanna, semi-arid zones; wider latitude range (0–35 °N/S) |
-| **[[comparison-companion-planting-reference-vs-jadam-monoculture-critique]]** | Cereals (sorghum, maize), millets, groundnut; acts as [[cervantes-plant-support-trellis-stakes-cages]] | Cereals (maize, sorghum), cassava, cotton; suppresses Striga in cereals |
-| **Growth cycle** | Short-day perennial (grown as annual in most systems; lives 3–5 years in perennials) | Annual (strictly determinate; completes lifecycle in one season) |
-| **Seed planting rate** | 8–15 kg/ha (row spacing 50–75 cm, 20–30 cm within row) | 15–25 kg/ha (row spacing 50–75 cm, 10–20 cm within row) |
-| **Preferred pH range** | 5.0–7.5 (tolerates slightly alkaline up to 8.0) | 5.5–7.0 (tolerates acidity down to pH 4.5) |
-
-## When to Choose Pigeon Pea
-
-Pigeon pea is the better choice when:
-
-- **Longer growing season is available** (≥4 months). Its extended growth cycle produces deep taproots (up to 2 m) that break hardpans and improve soil structure over multiple seasons.
-- **Perennial [[dighton-fungal-biomass-production-aquatic-ecosystems]]** is desired. In [[agroforestry]] and [[comparison-cowpea-vs-mung-bean]]
+| **Uses** | Food (dhal, green peas), fodder, green manure, cover crop, hedge, windbreak | Food (dry grain, fresh pods), fodder, green manure, cover crop, [[comparison-companion-planting-reference-vs-jadam-monoculture-critique]]** | Cereals (sorghum, maize), millets, groundnut; acts as [[dighton-fungal-biomass-production-aquatic-ecosystems]]** is desired. In [[comparison-cowpea-vs-mung-bean]]
 
 - [[comparison-perlite-vs-vermiculite]]
 ## Practical Considerations

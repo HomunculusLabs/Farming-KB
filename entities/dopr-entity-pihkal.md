@@ -8,74 +8,9 @@ sources: ["Shulgin - PIHKAL"]
 ---
 # DOPR
 
-[[2c-b-pihkal-entry-20]] #71. 2,5-DIMETHOXY-4-(n)-PROPYLAMPHETAMINE.
+[[ketamine]]. With them, the psychedelic effects become clouded with touches of amnesia. If DOPR shows this with it's three carbon alkyl group, thereis every reason to pay close attention as the chain becomes longer.
 
-## Chemical Name
-
-2,5-DIMETHOXY-4-(n)-PROPYLAMPHETAMINE
-
-## Dosage and Duration
-
-| Property | Value |
-|----------|-------|
-| Dosage | 2.5 - 5.0 mg. |
-| Duration | 20 - 30 h. |
-
-## Qualitative Comments
-
-> (with 2.0 mg) The onset is slower than any
-> other thing I can think of. There was nothing at all at the end of an
->
->
->
-> hour, and only a threshold a half hour later. By the middle of the
-> third hour, I was up to 1+, and that seemed to be about as high as it
-> intended to take me. Attempts to sleep at the ninth hour were not
-> successful, as there were strange patterns of not-quite logical
-> thinking going on. Stuff like: `The block events (like a baby's
-> rectangular building blocks) that were gotten, along with other
-> things, from the full octaves of the left hand in Listz's Hungarian
-> Rhapsody, events that allowed an easy recognition of the odds of
-> achieving successful re-entry from any of several erotic codes.'
-> Clearly this was not a baseline state. After six hours of successful
-> sleep, I was still off-baseline , and on into the following day. Go
-> on up with curiosity but with caution.
->
-> (with 3.6 mg) Imagery that was constructed in response to the music
-> turned out to be necessary to organize and contain it. The trio is the
-> nucleus that transforms the written to the heard, but it has created
-> its own bubble without connections to the real world, and must play on
-> and on and on to keep itself afloat and never touching the stage
-> again.
->
-> (with 5.0 mg) I am now at midnight, and still strongly +++. This is
-> certainly maximum dosage, at least for a long time. There are faint
-> intimations of nervous system scrungies. You know, the kind of thing
-> that makes you figure it's going to be a while before you'll try to
-> relax into sleeindoles material, like all the other DO's, is a heavy
-> duty psychedelic, the kind that says to you, 'Forget all that stuff
-> about screening out visuals,' and then proceeds to prove it. Sort of
-> indole-like in that way. Your body as well as your mind tells you
-> you're into it, baby, and better relax and enjoy the trip, because
-> you've left the shore way behind. When it was time for bed, I got to
-> sleep with surprising ease, and slept for only about six hours. My
-> dreams were excellent, balancing, and good humored. But the next day
-> I realized I was still carrying the DOPR in me, and that baseline was
-> definitely not there. But it was OK. No problems except for
-> sleepiness. The next evening I went to bed at unheard-of hour of 9 PM
-> and slept for 13 hours, give or take. Fascinating compound, but I
-> won't go out of my way to take it again soon.
->
-
-## Extensions and Commentary
-
-There is a thread of disconnection and of inconsistent reference that pervades most of the reports that I have received concerning the use of DOPR. The word that comes to mind is hypnogogic. There is a drifting into that place that lies between a not-quite-awake and a not-quite-asleep state seems to characterize this compound. There is no question but that it is very potent, and that it is very long-lived. But there is a nagging suggestion of the out-of-body, out-of-center character that is the hallmark of the anesthetic and delusional drugs such as [[ketamine]]. With them, the psychedelic effects become clouded with touches of amnesia. If DOPR shows this with it's three carbon alkyl group, thereis every reason to pay close attention as the chain becomes longer.
-
-There had been quite a bit of speculation in the literature that the metabolic attack on DOM was at the 4-position, and this was an oxidation process. In a moment of inspiration, I decided to explore a similar oxidation step in DOPR, since it is probably the most potent of the DO-series. Why not make the compound which would be the first step in this oxidation, the 1-hydroxypropyl analogue? This I did, by using the phthalimide derivative of 2,5-dimethoxyamphetamine (described in the synthesis of DOI) and making the propiophenone using propionic acid as both reagent and solvent, and polyphosphoric acid as the condensing agent. The ketone product (a white crystalline solid from [[methanol]]) was dissolved in warm methanol and reduced to the alcohol with sodium borohydride. This product, also a white crystalline solid, was stripped of the phthalimide blocking group with overnight refluxing with hydrazine in ethanol. The product, 2,5-dimethoxy-4-(1-hydroxypropyl)-amphetamine (hydroxy-DOPR) had a mp of 148-150 deg C from IPA. Its activity is not yet known, but there were no effects at all at trials, orally, of up to 200 micrograms.
-
-But this is all with the normal-propyl compound. There is a rich collection of misinformation and potential discovery that is associated with the isopropyl isomer. This structural isomer, 2,5-dimethoxyl-4-(i)-propylamphetamine is properly called DOIP for des-oxy-iso-propyl. It has been synthesized and explored in animals and, to a modest extent, in man. The synthesis has proceeded from 2,5-dimethoxyacetophenone by the addition of a methyl group to the carbonyl followed by reduction to the hydrocarbon. Aldehyde formation, nitropropene synthesis with nitroethane, and lithium aluminum hydride reduction are uneventful, providing the hydrochloride salt DOIP, which has a mp of 183-184 deg C as an analytical sample. Animal tests (such as rabbit hyperthermia assays), have indicated that the isopropyl compound DOIP is less potent than the propyl prototype, DOPR, by between one and two orders of magnitude. In man, a dose of four milligrams, a rousing dose of DOPR, is without any effects. At 10 milligrams, there is some disturbance but substantially no effects. I have been told that with doses in the 20 to 30 milligram range there are valid changes in mental state, but I have not been told the nature of these changes.
-
-A fascinating [[mckenna-culture-bound-et-search-italian-restaurant-red-herring]] had been drawn across all of these exacting lines by a strange visitor to this research project. An olive-faced M.D., Ph.D., passed through this confusing scene briefly, and when he left, a small supply of DOPR left with him. He promptly published in an obscure journal some animal behavioral responses which he ascribed to the isopropyl analogue, DOIP. But what he had studied could only have been DOPR since DOIP, at that time, had not yet been synthesized either by me, or by either of the other two active synthesists of that moment. It was not yet a known material. We all made it some time later, but by that time our olive-face had disappeared. There is a magnificent French phrase that applies here as nowhere else; Il a foutu le camp. Its idiomatic meaning is equivalent to our, "He took off," or "He split the scene," but the literal translation is, "He
+There had been quite a bit of speculation in the literature that the metabolic attack on DOM was at the 4-position, and this was an oxidation process. In a moment of inspiration, I decided to explore a similar oxidation step in DOPR, since it is probably the most potent of the DO-series. Why not make the compound which would be the first step in this oxidation, the 1-hydroxypropyl analogue? This I did, by using the phthalimide derivative of 2,5-dimethoxyamphetamine (described in the synthesis of DOI) and making the propiophenone using propionic acid as both reagent and solvent, and polyphosphoric acid as the condensing agent. The ketone product (a white crystalline solid from [[mckenna-culture-bound-et-search-italian-restaurant-red-herring]] had been drawn across all of these exacting lines by a strange visitor to this research project. An olive-faced M.D., Ph.D., passed through this confusing scene briefly, and when he left, a small supply of DOPR left with him. He promptly published in an obscure journal some animal behavioral responses which he ascribed to the isopropyl analogue, DOIP. But what he had studied could only have been DOPR since DOIP, at that time, had not yet been synthesized either by me, or by either of the other two active synthesists of that moment. It was not yet a known material. We all made it some time later, but by that time our olive-face had disappeared. There is a magnificent French phrase that applies here as nowhere else; Il a foutu le camp. Its idiomatic meaning is equivalent to our, "He took off," or "He split the scene," but the literal translation is, "He
 
 fucked the camp."
 
@@ -88,3 +23,88 @@ step.
 A mixture of 124 g N-methylformanilide and 140 g POCl3 was allowed to stand until there was the development of a strong red color. There was then added 60 g of the above 2,5-dimethoxypropylbenzene and the mixture was held on the [[scythian-cannabis-steam-bath-ritual]] for 2 h. The mixture was added to 2 L H2O and stirred until the excess acid chloride had completely decomposed. The mixture was extracted with 3x100 mL CH2Cl2 and, after the removal of the solvent from the combined extracts, the residue was extracted with 3x100 mL boiling hexane. Removal of the solvent gave the product 2,5-dimethoxy-4-propylbenzaldehyde as an oil, 23 g, which was characterized as its malononitrile derivative. Equal weights of the product and malononitrile in EtOH with a catalytic amount of triethylamine gave yellow crystals which, on recrystallization from toluene, had a mp of 113-114 deg C.
 
 A solution of 21.5 g of the above crude 2,5-dimethoxy-4-propylbenzaldehyde in 75 g acetic acid, was treated with 10.4 g nitroethane and 6.6 g anhydrous ammonium acetate. This was heated on the steam bath for 1.75 h, then cooled and diluted with H2O to the point of turbidity. With long standing and scratching, there finally was the deposition of crystals which were removed by filtration and sucked as dry as possible. This 23 g of crude product cake was triturated under MeOH, filtered again, and air dried to give 11 g of dull orange crystals. Recrystallization from boiling MeOH gave 1-(2,5-dimethoxy-4-(n)-propylphenyl)-2-nitropropene as fine orange crystals which weighed, after filtering, washing, and drying, 7.4 g, and which had a mp of 94-96 deg C.
+
+## Overview
+
+Dopr Entity Pihkal represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish dopr entity pihkal
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving dopr extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Dopr Entity Pihkal finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for dopr entity pihkal. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+dopr entity pihkal and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Dopr Entity Pihkal has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of dopr entity pihkal into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[3c-e-entity]]
+- [[dopr-entity]]
+- [[methyl-mmda-2-entity-pihkal]]
+- [[tris-entity-pihkal]]
+- [[vaccinium-corymbosum-entity]]

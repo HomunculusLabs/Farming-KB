@@ -12,7 +12,7 @@ sources:
 
 # Rosmarinus officinalis
 
-Rosmarinus officinalis (rosemary) is a woody, perennial evergreen herb in the family Lamiaceae, native to the Mediterranean basin. One of the most recognized and widely cultivated [[holzer-medicinal-and-culinary-herbs-compendium]] in the world, rosemary has been valued for its aromatic leaves, [[panax-ginseng]], and symbolic significance for over two millennia. The species is exceptionally drought-tolerant, long-lived (individual plants can survive 30+ years), and well-suited to permaculture systems as a permanent woody element providing year-round harvest, pollinator forage, and [[foliar-pest-deterrence-aact-mechanisms]]. Its [[permaculture-designers-manual-essential-oil-plants]], dominated by 1,8-cineole, α-pinene, and camphor, has demonstrated antimicrobial, anti-inflammatory, nootropic, and antioxidant activities. Recent research on rosmarinic acid and carnosic acid has generated significant interest in rosemary as a functional food and neuroprotective agent.
+Rosmarinus officinalis (rosemary) is a woody, perennial evergreen herb in the family Lamiaceae, native to the Mediterranean basin. One of the most recognized and widely cultivated [[panax-ginseng]], and symbolic significance for over two millennia. The species is exceptionally drought-tolerant, long-lived (individual plants can survive 30+ years), and well-suited to permaculture systems as a permanent woody element providing year-round harvest, pollinator forage, and [[permaculture-designers-manual-essential-oil-plants]], dominated by 1,8-cineole, α-pinene, and camphor, has demonstrated antimicrobial, anti-inflammatory, nootropic, and antioxidant activities. Recent research on rosmarinic acid and carnosic acid has generated significant interest in rosemary as a functional food and neuroprotective agent.
 
 ## Taxonomy and Naming
 - **Order:** Lamiales
@@ -37,47 +37,13 @@ Evergreen, leathery, linear to needle-like, 1.5–4.0 cm long and 2–5 mm wide.
 Flowers are borne in short, axillary or terminal racemes 2–6 cm long. Individual flowers are bilabiate, 10–14 mm long, with a tubular 5-toothed calyx and bilabiate corolla. The upper lip is hooded and two-lobed; the lower lip is three-lobed with the central lobe largest. Most common flower color is blue to violet-blue, but cultivars produce white, pink, and deep violet. Each flower has two long-exerted stamens. Blooming occurs primarily in spring (March–May) but can continue sporadically year-round in mild climates. Flowers are rich in nectar and highly attractive to bees.
 
 ### Root System
-Extensive branching root system with a deep taproot and widespread lateral roots. Established plants can develop roots extending 1–2 m deep and 2–3 m laterally, contributing to exceptional [[dighton-fungal-drought-tolerance-plant-water-relations]] and soil stabilization on slopes and banks.
-
-## Distribution and Habitat
-- **Native range:** Mediterranean basin — Portugal, Spain, Italy, Greece, Turkey, Levant, and North Africa (Morocco, Algeria, Tunisia, Libya).
-- **Altitude:** Sea level to 1,500 m in native range.
-- **Climate:** Hardy to USDA zones 8–10 (some cultivars to zone 7 with protection). Prefers warm, dry summers and mild, wet winters. Cannot tolerate sustained freezing below -12°C.
-- **Soil:** Well-drained, sandy or gravelly loam with pH 6.0–8.0 (alkaline preferred). Extremely sensitive to waterlogging.
-- **Light:** Full sun (6–8+ hours direct sunlight).
-- **Drought tolerance:** Very high. Established plants survive months without irrigation.
-
-## Chemistry and Active Compounds
-| Compound | Typical % Range | Notes |
-|----------|----------------|-------|
-| 1,8-Cineole | 15–40% | Oxide; expectorant, antimicrobial, nootropic |
-| α-Pinene | 10–25% | Monoterpene; bronchodilator, anti-inflammatory |
-| Camphor | 5–15% | Terpene ketone; stimulant, analgesic |
-| Camphene | 3–8% | Monoterpene; antioxidant |
-| β-Pinene | 3–10% | Monoterpene; antibacterial |
-| Borneol | 2–6% | Monoterpene alcohol; sedative, cooling |
-| Bornyl acetate | 1–3% | Ester; anti-inflammatory |
-| β-Caryophyllene | 1–5% | Sesquiterpene; CB2 receptor agonist |
-| Rosmarinic acid | 1–3% (dry weight) | Phenolic acid; potent antioxidant |
-| Carnosic acid | 1–2% (dry weight) | Diterpene phenol; neuroprotective, anticancer |
-| Carnosol | 0.3–1% (dry weight) | Diterpene phenol; anti-inflammatory |
-| [[ursolic-acid]] | Present (leaves) | Triterpene; hepatoprotective |
+Extensive branching root system with a deep taproot and widespread lateral roots. Established plants can develop roots extending 1–2 m deep and 2–3 m laterally, contributing to exceptional [[ursolic-acid]] | Present (leaves) | Triterpene; hepatoprotective |
 | Apigenin | Present (leaves) | Flavone; anxiolytic, anticancer |
 
 Three main chemotypes are recognized: (1) cineoliferum (high 1,8-cineole), (2) camphoriferum (high camphor), and (3) myrteniferum (high myrtenol, Corsica/Sardinia).
 
 ## Ethnobotanical and Cultural Significance
-Rosemary has one of the richest cultural histories of any herb. [[psychedelic-use-in-ancient-greece]], students wore rosemary garlands during exams, believing it improved memory — a belief now supported by research on 1,8-cineole's cognitive effects. In medieval Europe, rosemary was associated with fidelity and remembrance, woven into bridal bouquets and used in funeral rites. Shakespeare referenced rosemary for remembrance in Hamlet. During the Black Death, rosemary was carried in posies and burned as fumigant. Hungarian water, a medieval tonic of rosemary oil in alcohol, is one of the earliest recorded perfumed spirits. In culinary tradition, rosemary is indispensable in Mediterranean cuisine, particularly with lamb, poultry, bread, and roasted vegetables.
-
-## Medicinal Properties
-| Property | Evidence Level | Preparation |
-|----------|---------------|-------------|
-| Cognitive enhancement | Clinical RCTs (1,8-cineole) | Essential oil, tea, culinary |
-| Antimicrobial | Well-established in vitro | Essential oil, hydrosol |
-| Anti-inflammatory | Strong evidence (rosmarinic acid) | Extract, tea, topical |
-| Antioxidant | Very strong evidence (carnosic acid) | Culinary, extract |
-| Neuroprotective | Animal studies + emerging clinical | Extract, carnosic acid |
-| Hair [[brassinosteroid-growth-promotion-psilocybe-cubensis]] | Clinical evidence for androgenic alopecia | Topical rosemary oil |
+Rosemary has one of the richest cultural histories of any herb. [[brassinosteroid-growth-promotion-psilocybe-cubensis]] | Clinical evidence for androgenic alopecia | Topical rosemary oil |
 | Analgesic | Moderate evidence | Topical oil, liniment |
 | Antidiabetic | Animal and some clinical evidence | Leaf extract |
 
@@ -88,3 +54,88 @@ Rosemary has one of the richest cultural histories of any herb. [[psychedelic-us
 - **Harvest:** Leaves year-round. Highest essential oil content just before flowering.
 - **Yield:** 1,000–3,000 kg fresh herb per hectare; 10–25 kg essential oil per hectare.
 - **[[comparison-companion-planting-reference-vs-jadam-monoculture-critique]]:** Excellent for tomatoes (repels hornworm), sage, thyme, lavender, and brassicas. Deters cabbage moths, bean beetles, and carrot flies.
+
+## Overview
+
+Rosmarinus Officinalis Entity represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish rosmarinus officinalis entity
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving rosmarinus extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Rosmarinus Officinalis Entity finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for rosmarinus officinalis entity. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+rosmarinus officinalis entity and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Rosmarinus Officinalis Entity has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of rosmarinus officinalis entity into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[asparagus-officinalis]]
+- [[bistorta-officinalis]]
+- [[calendula-officinalis]]
+- [[lemon-balm-melissa-officinalis]]
+- [[veronica-officinalis]]

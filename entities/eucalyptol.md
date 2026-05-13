@@ -29,9 +29,7 @@ sources:
 ## Overview
 
 Eucalyptol, also known as 1,8-cineole, is a monoterpene cyclic ether
-found in the [[comparison-essential-oils-vs-neem-oil-vs-insecticidal-soap]] of numerous aromatic plant species. It is
-the principal component of eucalyptus oil (comprising 60–90% of
-*[[eucalyptus-globulus]]* essential oil) and occurs significantly in
+found in the [[eucalyptus-globulus]]* essential oil) and occurs significantly in
 rosemary, tea tree, bay laurel, and basil.
 
 Widely used in medicine, dentistry, and food flavoring, eucalyptol
@@ -63,13 +61,10 @@ pathways:
   reducing pro-inflammatory cytokine production. Demonstrated in both
   in vitro macrophage models and clinical asthma trials.
 - **TRPM8 modulation:** Mild agonist activity at the cold-sensing
-  TRPM8 receptor, producing a cooling sensation similar to [[menthol]]
-  but less intense.
-- **Antimicrobial:** Disrupts bacterial [[plant-cell-membrane-transport-proteins]] integrity through
+  TRPM8 receptor, producing a cooling sensation similar to [[plant-cell-membrane-transport-proteins]] integrity through
   its lipophilic properties. Active against gram-positive bacteria
   (*Streptococcus*, *Staphylococcus*), some gram-negative species,
-  and *[[bloomfield-candida-albicans-yeast-hyphal-dimorphism]]*.
-- **Mucolytic:** Reduces [[bloomfield-buller-drop-surface-tension-spore-catapult-basidiospore-discharge]] of respiratory mucus,
+  and *[[bloomfield-buller-drop-surface-tension-spore-catapult-basidiospore-discharge]] of respiratory mucus,
   facilitating expectoration and improving airway clearance.
 
 ### Clinical Applications

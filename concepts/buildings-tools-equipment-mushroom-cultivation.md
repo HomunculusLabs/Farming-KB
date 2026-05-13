@@ -13,18 +13,7 @@ type: concept
 
 # Buildings, Tools and Equipment for Mushroom Cultivation
 
-A properly set up [[query-how-do-i-start-a-small-scale-mushroom-farm-for-profit]] is essential for effective training and
-production. Whether large or small, the farm must offer all facilities
-encountered on a commercial farm to give hands-on experience to trainees.
-Buildings and equipment must be adapted for accessibility and use by
-people with disabilities while maintaining proper environmental controls
-for mushroom cultivation.
-
-## Core Building Requirements
-
-### Mushroom Houses
-
-There should be one incubation house for every three [[comparison-fruiting-body-vs-mycelium-extracts-medicinal-mushrooms]] houses,
+A properly set up [[comparison-fruiting-body-vs-mycelium-extracts-medicinal-mushrooms]] houses,
 allowing rotation of mushroom bags through the production cycle. Mushroom
 houses must account for ventilation, humidity, temperature, and light.
 Standard capacity guidelines include: 1,000 bags (2m x 3m), 2,000 bags
@@ -33,8 +22,7 @@ Standard capacity guidelines include: 1,000 bags (2m x 3m), 2,000 bags
 ### Materials for Low-Cost Houses
 
 Mushroom houses can be built very inexpensively using readily available
-materials including [[fukuoka-rice-straw-mulch-central-technique]], grass, dried leaves, bamboo, tree
-branches, [[fukuoka-old-rice-variety-testing]] and grain bags, and shade mesh. In Ubon Ratchathani
+materials including [[fukuoka-old-rice-variety-testing]] and grain bags, and shade mesh. In Ubon Ratchathani
 province, a house for 1,000 bags can be built for as little as 500 Baht
 (US$12) depending on the creativity of the constructor. Basic designs
 differ between commercial and small private farms to lower costs and make
@@ -75,17 +63,7 @@ A full training center requires several specialized buildings:
 - **Spawn bagging and inoculation building** - Approximately 7 x 11
   meters with concrete floor, roofing, storeroom (2.5 x 3m), and
   inoculation room (3 x 4m) with concrete walls.
-- **[[spawn-production]] building** - Approximately 138 square meters for
-  developing spawn under clean environment conditions.
-- **Incubation houses** - Two houses of approximately 60 square meters
-  each, holding up to 5,000 bags each.
-- **Fruiting body houses** - Six houses of approximately 60 square meters
-  each, holding up to 5,000 bags each.
-- **Multi-purpose building** - For classroom instruction, trainer's
-  office, mushroom processing, and product sales.
-- **Pasteurization chambers** - One commercial steam system and one
-  country-style system, each handling approximately 500 bags.
-- **Autoclaves** - For spawn [[sterilization]] at 121 degrees Celsius.
+- **[[sterilization]] at 121 degrees Celsius.
 - **Water retention basin** - Approximately 10 x 20 x 4 meters.
 
 ## Practical Applications
@@ -117,8 +95,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[mushroom-cultivation]]
 - [[mushroom-processing]]
-- [[ubon-ratchathani]]
 - [[mycelium]]
 - [[sterilization]]

@@ -22,7 +22,7 @@ Bioslurry reactors are classified as suspended growth bioreactors, in contrast t
 
 Laboratory-scale bioslurry reactors have been successfully applied to the treatment of explosives-contaminated soil. Ecotoxicological evaluations of bioslurry systems treating explosives-spiked soil have demonstrated significant reductions in both contaminant concentrations and toxicity. The intensive mixing and controlled conditions of bioslurry reactors make them particularly well suited for treating recalcitrant munitions constituents such as TNT (trinitrotoluene), RDX (hexahydro-1,3,5-trinitro-1,3,5-triazine), and HMX (octahydro-1,3,5,7-tetranitro-1,3,5,7-tetrazocine).
 
-White-rot fungi including [[staycare-phanerochaete-chrysosporium-in-bioremediation]] have been studied for their ability to degrade explosives in bioslurry systems. The influence of pentachlorophenol (PCP) concentration, environmental parameters, and solid substrate cultures of Lentinula edodes on contaminant biotransformation in soil bioslurry reactors has been documented. These fungi produce [[singh-ligninolytic-enzymes-fungal-bioremediation]] that can transform a wide range of recalcitrant organic compounds.
+White-rot fungi including [[singh-ligninolytic-enzymes-fungal-bioremediation]] that can transform a wide range of recalcitrant organic compounds.
 
 ## Reactor Configurations
 
@@ -38,7 +38,7 @@ Stirred tanks are the most common mycoreactors for submerged growth. Under certa
 
 ## Integration with Fungal Treatment
 
-Fungal bioslurry treatment has been investigated for recalcitrant organic pollutants that resist bacterial degradation. White-rot fungi such as Phanerochaete chrysosporium and [[growing-gourmet-turkey-tail-trametes-versicolor-cultivation]] produce extracellular ligninolytic enzymes, including lignin peroxidase and [[fungal-manganese-peroxidase-remediation]], that can oxidize a broad range of aromatic compounds including PAHs, PCBs, and chlorinated phenols.
+Fungal bioslurry treatment has been investigated for recalcitrant organic pollutants that resist bacterial degradation. White-rot fungi such as Phanerochaete chrysosporium and [[fungal-manganese-peroxidase-remediation]], that can oxidize a broad range of aromatic compounds including PAHs, PCBs, and chlorinated phenols.
 
 In bioslurry reactors, the ability to control environmental conditions is particularly important for fungal treatment. White-rot fungi typically require specific nutrient limitations (particularly nitrogen limitation) to induce ligninolytic enzyme production. Bioslurry systems allow these conditions to be precisely maintained. Temperature control ensures that fungi remain within their optimal growth range, typically 25 to 30 degrees Celsius for most white-rot species.
 
@@ -52,7 +52,7 @@ Colony patterning and collective hyphal growth are influenced by initial nutrien
 
 ## Wastewater Treatment Applications
 
-Bioslurry and related bioreactor technologies have been extensively applied to [[fungal-industrial-wastewater-treatment]] treatment. Fungal [[fungal-treatment-of-distillery-and-brewery-wastes]] and brewery wastes has been demonstrated using various reactor configurations. Aspergillus awamori has been used in jar-fermentor systems for treating Shochu distillery wastewater, where aerobic treatment was followed by anaerobic fluidized-bed bioreactor treatment for the cultural filtrate.
+Bioslurry and related bioreactor technologies have been extensively applied to [[fungal-treatment-of-distillery-and-brewery-wastes]] and brewery wastes has been demonstrated using various reactor configurations. Aspergillus awamori has been used in jar-fermentor systems for treating Shochu distillery wastewater, where aerobic treatment was followed by anaerobic fluidized-bed bioreactor treatment for the cultural filtrate.
 
 The combined aerobic-anaerobic treatment approach removed 96.5% of chemical oxygen demand from fermented molasses wastewater. The anaerobically treated wastewater was further processed through denitrification and nitrification reactors connected in series, achieving removal efficiencies of 97% for ammonium and 94% for total organic carbon. This treatment train demonstrates the versatility of bioreactor systems for complex waste streams.
 
@@ -78,45 +78,10 @@ The cost of bioslurry treatment is higher per unit volume than passive treatment
 
 mycoremediation-of-explosives
 
-[[bioaugmentation-strategies]]
-
 [[fungal-bioreactor-types]]
 
 ## Related
 
-- [[genetic-engineering-fungal-bioremediation]]
-
-## Practical Applications
-
-The principles and techniques discussed here have wide-ranging applications
-across multiple disciplines and contexts. Practitioners and researchers
-continue to explore new ways to integrate these concepts into modern practice,
-adapting traditional knowledge to contemporary challenges and opportunities.
-
-## Key Considerations
-
-Several important factors influence the effectiveness and outcomes described
-in this topic. Understanding these considerations helps practitioners make
-informed decisions and avoid common pitfalls. Environmental conditions,
-timing, and material selection all play critical roles.
-
-## Historical Context
-
-The historical development of this subject reflects centuries of accumulated
-knowledge and practical experience. From traditional methods passed down
-through generations to modern scientific approaches, the evolution continues
-to inform current best practices and research directions.
-
-## Common Challenges
-
-Practitioners frequently encounter several challenges when working with
-these concepts. Climate variability, resource limitations, and knowledge
-gaps can all affect outcomes. Addressing these challenges requires patience,
-observation, and a willingness to adapt approaches based on results.
-
-## See Also
 - [[doc]]
-- [[fusarium-solani]]
 - [[pcp]]
-- [[dom]]
 - [[det]]

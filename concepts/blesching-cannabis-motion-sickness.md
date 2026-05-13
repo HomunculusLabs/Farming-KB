@@ -27,27 +27,10 @@ estimated 7-28% of travelers experience acute motion sickness.
 ## Cannabis Health Index (CHI) Score
 
 - Total Studies Reviewed: 2
-- [[blesching-cannabis-prostate-cancer-chi-value-3]]: 4
-
-## Research Evidence
-
-### THC Prevents Motion-Induced Vomiting
-
-While numerous studies elucidate the anti-emetic properties of cannabis, a 2008
-Bradford study discovered that the cannabinoid THC specifically prevented
-motion-induced nausea and vomiting in animals (Asian house shrew, Suncus
-murinus). CBD, tested at doses of 0.5 to 40 mg/kg, did not prevent
-motion-induced vomiting in this study, suggesting that THC's CB1 receptor
-binding is the key mechanism.
-
-### Reduced CB1 Expression in Motion Sickness Sufferers
-
-A 2010 multi-institutional German study on human subjects further revealed that
-[[cannabis-cannabinoid-receptor-pharmacology]] (CB1) expression was significantly lower in subjects who
+- [[cannabis-cannabinoid-receptor-pharmacology]] (CB1) expression was significantly lower in subjects who
 suffered from motion sickness compared to those who felt fine. This indicates a
 relationship between reduced endocannabinoid activity and motion sickness.
-[[anandamide]] levels fell in subjects who got sick but rose in subjects who felt
-fine, suggesting that the [[endocannabinoid-system]] plays a natural role in
+[[endocannabinoid-system]] plays a natural role in
 preventing motion-related nausea.
 
 These discoveries represent a new possibility for treating aspects of motion
@@ -65,14 +48,7 @@ sickness, mental stress, and physical nausea and vomiting.
 The cannabinoid studies on motion sickness employed anandamide, CBD, and THC.
 Anandamide and THC bind with CB1 and CB2 relatively equally. CBD tends to
 favor CB2 expression. Sativa and sativa-dominant strains tend to contain a
-higher THC:[[cannabis-thc-cbd-ratio-guide-for-conditions]], which may be preferable given that THC demonstrated
-anti-emetic effects while CBD did not in the Bradford study.
-
-## The Endocannabinoid Connection
-
-The German study's finding that anandamide levels correlate with motion
-sickness susceptibility is particularly significant. Anandamide, the body's
-own cannabinoid, appears to play a [[fukuoka-natural-protective-forests-appendix]] role against
+higher THC:[[fukuoka-natural-protective-forests-appendix]] role against
 motion-induced nausea. When anandamide levels are low, individuals are more
 susceptible to motion sickness. This suggests that supporting the
 endocannabinoid system through cannabinoid supplementation may help prevent
@@ -117,8 +93,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[cannabis-health-index]]
 - [[doc]]
-- [[dom]]
 - [[endocannabinoid-system]]
 - [[anandamide]]

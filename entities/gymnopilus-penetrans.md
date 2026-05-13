@@ -14,14 +14,7 @@ sources: []
 
 Gymnopilus penetrans is a wood-inhabiting mushroom in the family
 Cortinariaceae (or Hymenogastraceae under some classifications)
-known to contain psilocybin and related [[tryptamine]] compounds. The
-genus Gymnopilus contains over 200 described species, and G.
-penetrans is among those documented as neurotropic in the global
-surveys conducted by Guzmán, Allen, and Gartz. This species is a
-saprotrophic wood-decomposer found growing on decaying stumps,
-logs, and fallen branches of coniferous and occasionally
-broadleaf trees. It is characterized by its orange-to-brown
-coloration, rusty-ginger [[comparison-spore-print-collection-vs-spore-syringe-production]], and a dry, scaly to
+known to contain psilocybin and related [[comparison-spore-print-collection-vs-spore-syringe-production]], and a dry, scaly to
 fibrillose cap surface. The species name "penetrans" likely
 refers to its habit of deeply penetrating the wood substrate on
 which it grows, reflecting its role as a primary or secondary
@@ -38,41 +31,6 @@ decomposer of woody material.
   recognition of Gymnopilus as a distinct genus
 - **Type locality:** Europe
 - **Notes:** Gymnopilus is distinguished by its rusty
-  [[boil-a-bag-spore-print-technique-jarrold]], absence of a cortina or well-developed
-  veil, and growth on wood. The genus includes both
-  psychoactive and non-psychoactive species
-## Description
-### Cap
-- Size: 20–60 mm diameter
-- Shape: Convex to broadly convex, sometimes becoming
-  plane or slightly depressed at the center with age
-- Surface: Dry, covered with fine fibrils or small
-  scales; often more scaly toward the center and
-  smoother at the margin
-- Color: Orange-brown to rusty-brown, sometimes with
-  a darker center; fading to a paler tan or ochre as
-  it dries
-- Margin: Often incurved when young, becoming straight
-  or slightly upturned with age; sometimes radially
-  cracked
-- Context: Thin, pale yellowish, with a slightly
-  bitter taste
-### Gills
-- Attachment: Adnate to slightly decurrent
-- Spacing: Moderately close to crowded
-- Color: Pale yellow to yellowish at first, developing
-  a rusty-orange color as spores mature
-- Edge: Often slightly irregular and fimbriate
-### Stem (Stipe)
-- Length: 30–70 mm
-- Thickness: 3–7 mm
-- Structure: Solid to hollow, equal or slightly
-  tapering toward the base
-- Surface: Dry, fibrillose to scaly, similar in color
-  to the cap or slightly paler
-- Ring: Absent or represented by a faint fibrillose
-  annular zone that quickly disappears
-- Base: Often covered with whitish to yellowish
   [[mycelium]]; may be slightly enlarged
 ### Spores and Microscopy
 | Feature | Description |
@@ -88,3 +46,88 @@ decomposer of woody material.
 | Pileipellis | Cutis of repent to ascending hyphae |
 | Clamp connections | Present |
 ## Distribution and Habitat
+
+## Overview
+
+Gymnopilus Penetrans represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish gymnopilus penetrans
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving gymnopilus extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Gymnopilus Penetrans finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for gymnopilus penetrans. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+gymnopilus penetrans and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Gymnopilus Penetrans has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of gymnopilus penetrans into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[guzman-allen-gartz-gymnopilus-pluteus-neurotropic-genera]]
+- [[gymnopilus-fulgens]]
+- [[gymnopilus-junonius]]
+- [[gymnopilus-purpuratus-profile]]
+- [[gymnopilus-validipes]]

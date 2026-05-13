@@ -13,7 +13,7 @@ type: concept
 # Photoperiod Interruption and Light Leak Stress
 
 The photoperiod -- the duration of light and dark periods -- is the
-primary signal that controls [[green-cannabis-flowering-management]]. [[jorge-cervantes]]
+primary signal that controls [[jorge-cervantes]]
 stresses that marijuana must have 12 hours of uninterrupted, total
 darkness to flower properly. Any light leak during the critical dark
 period can confuse plants, delay flowering, reduce yield, and trigger
@@ -28,31 +28,7 @@ flowers. Under a 24/0 photoperiod, pre-flowers may be less visible.
 Once pre-flowers are distinguishable as male or female, plants are
 induced to flower with a 12/12 day/night photoperiod.
 
-Indica-dominant plants will revert to [[cannabis-vegetative-growth-stage]] within three
-days if the dark period is disrupted. Sativa-dominant plants take
-four to five days to revert. Once re-vegetation begins, it takes four
-to six additional weeks to re-induce flowering -- a costly setback.
-
-## Light Leak Causes and Detection
-
-Light leaks can enter the grow space from many sources:
-
-- Cracks around doors, windows, or ventilation ducting
-- Uncovered exhaust/intake ports
-- Power indicator lights on timers, fans, or equipment
-- Light seeping through thin or torn blackout material
-- Unshielded hallway or room lighting
-
-Less than one half of one foot-candle of light will prevent cannabis
-from flowering -- that is slightly more light than reflected by a
-full moon on a clear night. Cervantes recommends going outdoors after
-dark to inspect for light leaks that may not be visible from inside
-a lit room.
-
-## Consequences of Dark Period Interruption
-
-When the 12-hour dark period is interrupted by light, plants receive
-the signal that it is daytime and should resume [[green-cannabis-vegetative-growth]].
+Indica-dominant plants will revert to [[green-cannabis-vegetative-growth]].
 The results include:
 
 - Flowering is retarded or stopped entirely
@@ -72,9 +48,7 @@ notes this prolongs flowering without increasing yield.
 
 ## The Green Light Solution
 
-The smart way to visit a [[cannabis-grow-room-setup]] during the dark period is to
-illuminate it with a green light. Marijuana does not respond to the
-green portion of the [[cannabis-light-spectrum-and-color-bands]], so a green bulb is usable at
+The smart way to visit a [[cannabis-light-spectrum-and-color-bands]], so a green bulb is usable at
 night with no ill effects on flowering. This allows growers to
 perform maintenance, check plants, and handle emergencies without
 disrupting the photoperiod.
@@ -117,8 +91,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[dom]]
 - [[det]]
-- [[green-cannabis-photoperiod-12-12-light-cycle]]
 - [[marijuana-horticulture-cervantes-cannabis-life-cycle-and-photoperiod]]
 - [[cervantes-light-movers]]

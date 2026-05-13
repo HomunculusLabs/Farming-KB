@@ -6,22 +6,11 @@ type: concept
 
 # Desert Scarps and Wadis
 
-Scarps and wadis are among the most significant and productive landscape features in arid environments. Understanding their formation, hydrology, and potential for human settlement is essential for [[permaculture-design]] in drylands.
-
-## Formation and Profile Development
-
-Desert scarp profiles develop from faulted or folded strata that were once buried beneath the rounded topography of humid landscapes. When deforestation, overgrazing, or erosion removes the vegetative cover, the characteristic angular desert scarp profile can emerge in as little as 50 years. The process follows a clear sequence:
-
-1. The original humid landscape has soft, rounded contours shaped by vegetation and soil.
-2. As vegetation is removed, a headslope develops on the upland surface.
-3. A scre slope (scree) accumulates at the cliff base.
-4. The angular profile of the desert scarp fully emerges, with a hard upper erosion surface, a near-vertical cliff face, and a lower erosion surface below.
-
-In true deserts, these profiles are less softened than in humid areas. The scarp face is typically fairly straight or only gently curved, and wadis run at near right-angles to the scarp face. Within the wadi sides, secondary valleys leave again at near right-angles to the main valley, following the pattern of parallel fault weakness and compensating joints in the rock.
+Scarps and wadis are among the most significant and productive landscape features in arid environments. Understanding their formation, hydrology, and potential for human settlement is essential for [[wadi]] sides, secondary valleys leave again at near right-angles to the main valley, following the pattern of parallel fault weakness and compensating joints in the rock.
 
 ## Geological Structure
 
-Scarps are capped by the upper erosion surface, which consists of durable materials such as ironstones, hard sandstone bands, [[ferricrete]], or [[silcrete]] crustal material. The cliffs and scarp faces are composed of softer rock, sometimes bauxitic (aluminum oxide) material. The lower erosion surface is covered with silts and sands washed out of the wadis and later distributed by winds.
+Scarps are capped by the upper erosion surface, which consists of durable materials such as ironstones, hard sandstone bands, [[silcrete]] crustal material. The cliffs and scarp faces are composed of softer rock, sometimes bauxitic (aluminum oxide) material. The lower erosion surface is covered with silts and sands washed out of the wadis and later distributed by winds.
 
 Complex box canyons (wadis ending in cliffs), mesas (isolated pieces of the main scarp), and buttes (cut-off scarp sections) create varied scarp-line configurations. Notches at the base of cliffs, formed by seepage undercutting the soft scarp material, range from tiny shelters for kangaroos to caves large enough to accommodate a six-storey house. These notches provide critical shade habitat for pigeons, owls, swallows, swifts, rodents, reptiles, and insects — shade, like water, being a critical resource in the desert.
 
@@ -66,3 +55,50 @@ Scarps and wadis represent the most complex and potentially productive dryland l
 - Desert Dune Stabilisation
 - Fold Mountains in Drylands
 - Nabatean Water Harvesting Systems
+
+## Overview
+Desert Scarps And Wadis represents an important component within sustainable
+design and ecological management systems. Understanding its role
+helps inform better integration strategies for diverse environments.
+The interactions between desert and surrounding ecological
+systems create complex feedback loops that enhance overall resilience.
+
+## Characteristics
+Key characteristics include adaptability to varying environmental
+conditions, integration potential with existing systems, and
+contribution to biodiversity and ecological function.
+Seasonal variations affect performance and management requirements.
+Regional differences necessitate site-specific approaches.
+
+## Practical Applications
+Desert Scarps And Wadis has several practical applications in sustainable systems.
+Integration with permaculture design principles enhances its utility.
+Consideration of local climate and soil conditions is essential.
+Multiple functions can be served within a single system design.
+
+## Management Considerations
+Effective management requires understanding of seasonal patterns.
+Monitoring and adaptive management improve long-term outcomes.
+Integration with other system components maximizes benefits.
+Documentation of observations supports knowledge building.
+
+## Ecological Context
+The ecological relationships involving desert
+extend across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows are all relevant factors.
+Understanding these connections enables more holistic management.
+
+## Sustainability Considerations
+Sustainable management practices are important for desert scarps and wadis.
+Biodiversity considerations should guide implementation decisions.
+Long-term ecological health depends on responsible stewardship.
+
+## Historical Significance
+Desert Scarps And Wadis has been recognized for its contributions to various fields.
+Traditional knowledge systems have long valued its properties.
+Modern research continues to validate and expand upon traditional uses.
+
+## See Also
+- [[desert-house-water-energy-conservation]]
+- [[fukuoka-desert-succession-ecology]]
+- [[gilgai-desert-swales-mollison]]

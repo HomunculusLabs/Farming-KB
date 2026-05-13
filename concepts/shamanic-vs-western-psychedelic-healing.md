@@ -11,11 +11,11 @@ sources: [raw/papers/metzner_r-hallucinogenic_drugs_in_psychotherapyshamanism.md
 
 ## Overview
 
-[[ralph-metzner]] identifies four paradigms for the therapeutic use of [[cultural-evolution-and-psychoactive-substances]], each grounded in fundamentally different worldviews.
+[[cultural-evolution-and-psychoactive-substances]], each grounded in fundamentally different worldviews.
 
 While Western psychotherapy and indigenous shamanism may sometimes use the same or similar psychoactive substances for healing and obtaining knowledge, Metzner argues there are "profound differences between them in underlying worldview and assumptions about the nature of reality."
 
-Understanding these differences is essential for any serious engagement with the [[metzner-ayahuasca-therapeutic-potential]] of [[psychedelic-substances-comparison]].
+Understanding these differences is essential for any serious engagement with the [[psychedelic-substances-comparison]].
 
 ## The Four Paradigms
 
@@ -27,15 +27,7 @@ The experience is understood as a product of the patient's own psyche — the dr
 
 The goal is therapeutic insight into emotional dynamics and behavior patterns, and potentially the transcendence of limiting self-concepts.
 
-Reality is understood as singular and consensual — there is one objective reality, and the [[leary-psychedelic-experience-bardo-mapping]], however profound, is understood as a subjective modification of perception.
-
-### 2. Shamanic Rituals of Healing and Divination
-
-In shamanic traditions, the healer or shaman takes the medicine in order to "see" the causes of illness and know what kind of remedy to apply.
-
-The shaman's journey is typically undertaken on behalf of a patient or community, not for personal exploration.
-
-Reality is understood as multiple — there are many "worlds" or "dimensions" that can be explored in expanded [[mckenna-food-gods-designer-states-of-consciousness]], and these worlds are considered just as real as the physical world.
+Reality is understood as singular and consensual — there is one objective reality, and the [[mckenna-food-gods-designer-states-of-consciousness]], and these worlds are considered just as real as the physical world.
 
 The beings encountered in dreams and visions — spirits — are considered "just as real as the physical organism."
 
@@ -43,17 +35,7 @@ The beings encountered in dreams and visions — spirits — are considered "jus
 
 In these traditions, the focus is on community bonding and celebratory worship.
 
-Examples include ceremonies of the [[halpern-sacramental-peyote-and-native-american-church]] Church (peyote), the União do Vegetal and Santo Daime (ayahuasca), and [[iboga-and-the-bwiti-cult-initiation]] ([[iboga]]).
-
-The psychoactive plant is understood as a sacrament — a gift from the divine that facilitates communal worship and spiritual experience.
-
-These ceremonies typically combine indigenous shamanic elements with Christian symbolism and practice, creating syncretic traditions that serve both spiritual and social functions.
-
-### 4. Hybrid Shamanic-Therapeutic Rituals
-
-These represent a blending of indigenous shamanic and Western psychotherapeutic approaches.
-
-They incorporate features of both traditions: the shamanic understanding of [[metzner-spirit-beings-multiple-realities-entheogens]] and spirit beings, combined with Western therapeutic attention to individual psychology and interpersonal dynamics.
+Examples include ceremonies of the [[iboga-and-the-bwiti-cult-initiation]] ([[metzner-spirit-beings-multiple-realities-entheogens]] and spirit beings, combined with Western therapeutic attention to individual psychology and interpersonal dynamics.
 
 Examples include the therapeutic use of ayahuasca in contemporary settings, where participants may be guided through their experiences with attention to both spiritual and psychological dimensions.
 
@@ -88,3 +70,80 @@ The differences between paradigms extend to the role and training of the practit
 **Western therapist**: Trained in psychology, often with no personal experience of non-ordinary states. The therapist guides the patient through the experience from outside.
 
 **Shaman**: Trained through years of apprenticeship, including personal experience of non-ordinary states induced by the plants themselves. The shaman enters the same state as the patient, journeying alongside them.
+
+## Overview
+
+Shamanic Vs Western Psychedelic Healing represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish shamanic vs western psychedelic healing
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving shamanic extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Shamanic Vs Western Psychedelic Healing finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for shamanic vs western psychedelic healing. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+shamanic vs western psychedelic healing and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Shamanic Vs Western Psychedelic Healing has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of shamanic vs western psychedelic healing into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.

@@ -1,6 +1,6 @@
 ---
 title: "Fungal Inventory Challenges and Pitfalls"
-source: "[[biodiversity-of-fungi-biodiversity-patterns-ecosystems]] (Mueller & Bills)"
+source: "biodiversity-of-fungi-biodiversity-patterns-ecosystems (Mueller & Bills)"
 tags: [mycology, biodiversity, fungal-survey, ecology, field-methods, conservation]
 created: 2026-05-09
 ---
@@ -46,21 +46,10 @@ guilds demand specialized approaches:
 **Macrofungi**: Visual searching during fruiting seasons; requires
 taxonomic expertise.
 
-**Microfungi**: [[fungal-microscopic-examination-mounting-media-techniques]]; isolation onto culture media.
-
-**Soil fungi**: [[particle-filtration-dilution-plating-microfungal-isolation]], filtration, molecular methods from
+**Microfungi**: [[particle-filtration-dilution-plating-microfungal-isolation]], filtration, molecular methods from
 soil cores.
 
-**Endophytes**: [[challenge-microorganisms-microwave-surface-sterilization]] and incubation of plant tissue.
-
-**Lichens**: Visual survey of bark and rock; chemical spot tests.
-
-**Aquatic fungi**: Baiting with hemp seeds, insect exuviae, or pollen.
-
-**Yeasts**: Enrichment culturing from sugar-rich substrates.
-
-Species recovered depend heavily on media, incubation conditions, and
-[[mushroom-storage-and-processing-methods]] chosen.
+**Endophytes**: [[mushroom-storage-and-processing-methods]] chosen.
 
 ## Culture-Dependent Limitations
 
@@ -118,8 +107,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[det]]
 - [[spore]]
-- [[lichens]]
 - [[cryptic-species]]
 - [[sterilization]]

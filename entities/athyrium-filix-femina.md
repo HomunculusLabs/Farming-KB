@@ -20,9 +20,7 @@ sources:
 
 ## Overview
 
-Athyrium filix-femina, the lady fern, is a large, graceful fern native to [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]] throughout the Northern Hemisphere and extending into montane tropical areas. It is among the most abundant and widely recognized ferns in northern forests, valued both for its ornamental qualities and its edible fiddleheads.
-
-The species exhibits considerable morphological [[psilocybin-psilocin-variation-across-flushes]] its range, resulting in numerous named varieties and cultivars. Its delicate, finely divided fronds and tolerance of a wide range of growing conditions have made it a staple of shade gardens and naturalistic landscapes worldwide.
+Athyrium filix-femina, the lady fern, is a large, graceful fern native to [[psilocybin-psilocin-variation-across-flushes]] its range, resulting in numerous named varieties and cultivars. Its delicate, finely divided fronds and tolerance of a wide range of growing conditions have made it a staple of shade gardens and naturalistic landscapes worldwide.
 
 ## Taxonomy and Morphology
 
@@ -30,7 +28,7 @@ Athyrium filix-femina belongs to the family Athyriaceae within the order Polypod
 
 The species was described by Carl Linnaeus in 1753 as Polypodium filix-femina and transferred to Athyrium by Alphonse Pyramus de Candolle in 1805. The specific epithet filix-femina (lady fern) contrasts with Dryopteris filix-mas (male fern), reflecting a traditional pairing in European botany.
 
-The species complex includes several recognized subspecies and varieties. In Europe, subsp. filix-femina is the typical form, while subsp. angustum occurs in [[psilocybin-north-america-pacific-northwest]] and subsp. cyclosorum ranges across Asia. Additional varieties are found in montane [[fukuoka-natural-farming-in-tropical-regions]].
+The species complex includes several recognized subspecies and varieties. In Europe, subsp. filix-femina is the typical form, while subsp. angustum occurs in [[fukuoka-natural-farming-in-tropical-regions]].
 
 The rhizome is ascending to shortly creeping, producing a dense crown of fronds that forms an open, vase-shaped clump. The rhizome is covered with dark-brown, lanceolate scales and produces fibrous roots.
 
@@ -48,23 +46,13 @@ The indusium of Athyrium filix-femina is characteristically hooked (uncinate) at
 
 ## Distribution and Habitat
 
-Athyrium filix-femina has a circumboreal distribution, occurring across Europe, Asia, [[guzman-psilocybin-mushrooms-north-america]], and extending into Central and South America at high elevations. In North America, its range extends from Alaska to Newfoundland, south to California, New Mexico, and [[north-carolina-mycodiversity]].
+Athyrium filix-femina has a circumboreal distribution, occurring across Europe, Asia, [[north-carolina-mycodiversity]].
 
 In Europe, the species occurs from the Mediterranean to northern Scandinavia and from the British Isles across Russia to Siberia. Asian populations range from Turkey and the Caucasus through the Himalayas to Japan and Taiwan.
 
 The lady fern is a generalist in terms of habitat, colonizing a wide range of moist, shaded environments. Common habitats include deciduous and coniferous woodlands, stream banks, swamp margins, meadows, avalanche tracks, and subalpine scrub.
 
-The species prefers moist to wet, well-drained soils rich in [[hamilton-composting-and-organic-matter-management]], with a pH range of 5.0–7.0. It tolerates full shade to partial sun but grows best in dappled shade with consistent soil moisture.
-
-Elevation ranges from near sea level to approximately 3,500 meters in the Himalayas and Andes. At high elevations, the species often grows in association with other cold-tolerant ferns and alpine herbs.
-
-The lady fern is considered an indicator of moist, nutrient-rich soils in forest ecosystems. Its presence often correlates with good soil structure, adequate moisture availability, and relatively undisturbed conditions.
-
-The species is particularly abundant in riparian zones, alluvial floodplains, and north-facing slopes where moisture accumulates. It can also colonize disturbed sites including road cuts, landslide scars, and forest clearings, often appearing within 2–3 years of disturbance.
-
-## Edibility and Culinary Use
-
-The young fiddleheads of Athyrium filix-femina are edible and have been harvested as a spring vegetable in various cultures, though they are less commercially significant than those of [[matteuccia-struthiopteris]]. Proper identification is essential to avoid confusion with toxic fern species.
+The species prefers moist to wet, well-drained soils rich in [[matteuccia-struthiopteris]]. Proper identification is essential to avoid confusion with toxic fern species.
 
 Fiddleheads are best harvested when 5–10 cm tall and still tightly coiled. They should be cleaned of any brown scales and boiled for 10–15 minutes before consumption. The flavor is mild and slightly sweet, less robust than ostrich fern fiddleheads.
 
@@ -87,3 +75,75 @@ The lady fern spreads slowly by short rhizomes, forming dense but non-invasive c
 Pests are generally uncommon, though slugs may damage emerging fronds in wet springs, and deer occasionally browse the fronds. The species is resistant to most fern diseases and is not known to be invasive in any region.
 
 The Japanese painted fern cultivar group (often classified as [[athyrium-niponicum]] var. pictum) has become one of the most popular shade garden plants worldwide. These selections feature silvery-gray fronds with burgundy midribs and provide striking color contrast in shaded plantings.
+
+## Overview
+
+Athyrium Filix Femina represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish athyrium filix femina
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving athyrium extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Athyrium Filix Femina finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for athyrium filix femina. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+athyrium filix femina and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Athyrium Filix Femina has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of athyrium filix femina into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions

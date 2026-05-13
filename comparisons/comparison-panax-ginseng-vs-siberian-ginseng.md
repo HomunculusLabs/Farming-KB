@@ -10,10 +10,10 @@ sources: []
 
 ## Overview
 
-[[panax-ginseng]] and [[eleutherococcus-senticosus]] are two of the
+[[eleutherococcus-senticosus]] are two of the
 most widely used adaptogenic herbs in the world, yet they belong to
 different genera within the Araliaceae family and produce entirely
-different bioactive compounds. Panax ginseng (Korean or Asian ginseng)
+different bioactive compounds. [[panax-ginseng]] (Korean or Asian ginseng)
 has been a cornerstone of East Asian medicine for over 2,000 years,
 while Siberian ginseng (eleuthero) rose to prominence during the
 Soviet era as a performance enhancer for athletes and cosmonauts.
@@ -23,36 +23,6 @@ comparison helps growers and herbalists choose between these two
 adaptogens based on their goals, climate, and available resources.
 
 ## Panax Ginseng
-
-[[panax-ginseng]] is a slow-growing perennial herbaceous plant native
-to the mountains of Korea, northeastern China, and the Russian Far
-East. It produces fleshy, anthropomorphically shaped roots that are
-harvested after 4 to 6 years of growth. The roots contain over 180
-ginsenosides — steroidal saponins classified into protopanaxadiol
-(PPD) and protopanaxatriol (PPT) groups. PPD ginsenosides such as
-Rb1 and Rg3 tend toward sedative, anti-inflammatory, and anti-tumor
-activities, while PPT ginsenosides like Rg1 are associated with
-stimulatory and cognitive-enhancing effects.
-
-Cultivating Panax ginseng is demanding. The plant requires 70 to 80
-percent shade, well-drained loamy soils with a pH of 5.5 to 6.5,
-consistent moisture, and cold winters for vernalization. Seeds exhibit
-deep dormancy and need 18 to 22 months of stratification before
-germination. Commercial operations invest heavily in shade structures,
-fungicide programs, and multi-year field rotations, making it one of
-the most capital-intensive medicinal herb crops. The root is processed
-into white ginseng (peeled and sun-dried) or red ginseng (steamed and
-dried), with the steaming process converting ginsenosides into rare,
-more bioactive forms like Rg3 and compound K.
-
-Clinically, Panax ginseng has the strongest evidence base among
-adaptogens, with meta-analyses supporting modest improvements in
-cognitive function, immune modulation, fatigue reduction, and glycemic
-regulation. Its traditional role as a "qi tonic" in Chinese medicine
-reflects its broad restorative reputation, though practitioners caution
-against use in individuals with "heat" or "excess" conditions.
-
-## Siberian Ginseng (Eleutherococcus)
 
 [[eleutherococcus-senticosus]] is a hardy, deciduous woody shrub
 reaching 1 to 3 meters in height, native to northeastern China, the
@@ -91,7 +61,7 @@ suited for daily long-term use.
 | **Harvest age** | 4 to 6 years | 3 to 6 years |
 | **Cold hardiness** | Zones 4 to 8 | Zones 3 to 8 |
 | **Shade need** | 70 to 80 percent shade | Full sun to partial shade |
-| **Soil pH** | 5.5 to 6.5 | Adaptable, slightly acidic |
+| **[[soil-ph]]** | 5.5 to 6.5 | Adaptable, slightly acidic |
 | **Cultivation difficulty** | High | Low |
 | **Seed stratification** | 18 to 22 months | 3 to 5 months |
 | **Processing** | White or red ginseng | Dried root, extracts |
@@ -141,7 +111,5 @@ interfere with sleep, particularly for sensitive individuals.
 
 ## See Also
 
-- [[comparison-schisandra-vs-ashwagandha-vs-rhodiola-adaptogenic-cultivation]]
 - [[schisandra-chinensis]]
-- [[rhodiola-rosea]]
 - [[comparison-schisandra-vs-ashwagandha-vs-rhodiola-adaptogenic-cultivation]]

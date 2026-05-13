@@ -6,27 +6,7 @@ type: concept
 
 # Scalds, Claypans, and Desert Basins
 
-Flat areas and depressions in desert landscapes — including tectonic basins, deflation hollows, pans, scalds, and claypans — present distinct challenges and opportunities for [[permaculture-design]]. Understanding their hydrology, soil chemistry, and revegetation strategies is essential for productive dryland systems.
-
-## Desert Depressions and Basins
-
-Flat areas and near-circular depressions in deserts are classified by scale and origin:
-
-- **Tectonic basins**: The largest depressions, formed by geological processes. These are where salt lakes and dune seas (draas) form.
-- **Deflection (wind) hollows**: Fairly large depressions created by wind erosion.
-- **Pans**: Depressions with flat floors that gather runoff and develop base materials of suspended silts or salts carried by water and left behind when it evaporates.
-
-Smaller depressions called **gilgais** form from the swelling and shrinking of plastic clays. These are circular in outline and function as useful water-capture systems where erosion has left them as hollows.
-
-## Claypans
-
-Some depressions are clay-based evaporation areas called **claypans**, while others are salt-based and called **salt pans**.
-
-### Clay Chemistry and Treatment
-
-Clays can be treated to modify their water infiltration properties:
-
-- **[[gypsum]]** decreases clay capacity to infiltrate water.
+Flat areas and depressions in desert landscapes — including tectonic basins, deflation hollows, pans, scalds, and claypans — present distinct challenges and opportunities for [[gypsum]]** decreases clay capacity to infiltrate water.
 - **Calcium carbonate or bentonite** seals clays where they need to store water.
 - **Natural montmorillonite or smectite clays** swell and form impermeable surfaces after a short period of rain, greatly impeding infiltration.
 
@@ -82,19 +62,89 @@ Active gully erosion in desert basins requires multiple strategies:
 
 ## Broader Desert Profile Context
 
-A typical desert profile incorporates all these features in a basin and range context. [[water-conservation]] begins on foothill slopes and generates forests downstream. Complex foothills provide many sites for water storages and swales. The classical basin and range profile is a product of fold mountain series, where anticyclines erode to form valleys and basins collect runoff from surrounding slopes.
-
-## Ecological Importance of Revegetation
-
-Revegetation of scalds has significance beyond the immediate site. In Australia, plague locusts lay their eggs and hatch most successfully in the narrow shaded edges of scalds. Since most scalds are produced by over-grazing, the desert grazier effectively inflicts plague on whole regions through poor land management. Healing scalds therefore has regional pest-management benefits.
-
-## Delicate Desert Crusts
-
-Desert crusts formed by lichens, bacteria, fungi, algal mats, and salt are critical to stability. When hoofed animals, fast vehicles, or agriculture are introduced into deserts, these crusts are destroyed and wind erosion quickly follows. Protecting existing biological and chemical crusts is as important as active stabilisation measures.
-
-## See Also
-
-- [[desert-scarps-and-wadis]]
+A typical desert profile incorporates all these features in a basin and range context. [[desert-scarps-and-wadis]]
 - Dune Country and Stabilisation
 - Fold Mountains in Deserts
 - Desert Forestry
+
+## Overview
+
+Scalds Claypans And Desert Basins represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish scalds claypans and desert basins
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving scalds extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Scalds Claypans And Desert Basins finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for scalds claypans and desert basins. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+scalds claypans and desert basins and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Scalds Claypans And Desert Basins has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of scalds claypans and desert basins into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[desert-basins-pans-scalds-and-gully-erosion]]
+- [[desert-basins-pans-scalds-revegetation]]

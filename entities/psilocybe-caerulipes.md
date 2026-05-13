@@ -10,7 +10,7 @@ sources: []
 
 # Psilocybe caerulipes
 
-**Psilocybe caerulipes** is a psilocybin-containing mushroom in the family Hymenogastraceae. Commonly known as the **blue-foot** or **blue-footed psilocybe**, it is named for the distinctive blue bruising that develops on the stipe base. It is one of the more widely distributed [[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]] in [[polypore-fungi-eastern-north-america]] America, though it is relatively uncommon and easily overlooked due to its small size.
+**Psilocybe caerulipes** is a psilocybin-containing mushroom in the family Hymenogastraceae. Commonly known as the **blue-foot** or **blue-footed psilocybe**, it is named for the distinctive blue bruising that develops on the stipe base. It is one of the more widely distributed [[polypore-fungi-eastern-north-america]] America, though it is relatively uncommon and easily overlooked due to its small size.
 
 ## Taxonomy and Etymology
 
@@ -34,7 +34,7 @@ It grows as a saprotroph on decaying hardwood debris, particularly on logs, stic
 
 ## Psychoactive Compounds
 
-*Psilocybe caerulipes* contains [[psilocin]] as its primary psychoactive alkaloids. Baeocystin has also been detected in some collections. The alkaloid content is generally moderate, though significant variation has been reported between collections. Potency is considered lower than that of *[[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]]* but comparable to several other woodland psilocybin species.
+*Psilocybe caerulipes* contains [[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]]* but comparable to several other woodland psilocybin species.
 
 ## Similar Species
 
@@ -51,11 +51,7 @@ Several non-psychoactive species may be confused with *P. caerulipes*:
 
 ## Legal Status
 
-Like all psilocybin-containing mushrooms, *P. caerulipes* is controlled in most jurisdictions. In the United States, it is classified as a Schedule I controlled substance under the Controlled [[controlled-substances-act-and-psychedelic-research]]. Legal status varies internationally.
-
-## Microscopic Features
-
-[[fungal-microscopic-examination-mounting-media-techniques]] of *Psilocybe caerulipes* reveals features consistent with the genus. Basidia are four-spored, clavate, measuring 14–20 × 4–6 µm. Cheilocystidia are abundant on the gill edges, forming a conspicuous sterile band, predominantly ventricose to lageniform with narrow necks, 14–28 × 4–7 µm. Pleurocystidia are absent or rare. The pileipellis is a cutis of narrow (2–4 µm), hyaline to pale brown, gelatinized hyphae. Clamp connections are absent at the basidial bases. The spore morphology — particularly the thick walls and distinct germ pore — helps distinguish *P. caerulipes* from morphologically similar non-psychoactive woodland species that lack these features.
+Like all psilocybin-containing mushrooms, *P. caerulipes* is controlled in most jurisdictions. In the United States, it is classified as a Schedule I controlled substance under the Controlled [[fungal-microscopic-examination-mounting-media-techniques]] of *Psilocybe caerulipes* reveals features consistent with the genus. Basidia are four-spored, clavate, measuring 14–20 × 4–6 µm. Cheilocystidia are abundant on the gill edges, forming a conspicuous sterile band, predominantly ventricose to lageniform with narrow necks, 14–28 × 4–7 µm. Pleurocystidia are absent or rare. The pileipellis is a cutis of narrow (2–4 µm), hyaline to pale brown, gelatinized hyphae. Clamp connections are absent at the basidial bases. The spore morphology — particularly the thick walls and distinct germ pore — helps distinguish *P. caerulipes* from morphologically similar non-psychoactive woodland species that lack these features.
 ## Identification Notes
 
 The combination of small size, woodland habitat on hardwood debris, and distinctive blue bruising at the stem base makes *P. caerulipes* identifiable with experience, though several features complicate field identification:
@@ -68,12 +64,8 @@ The farinaceous (mealy) odor and taste are helpful supporting characters, as man
 ## Chemical Profile
 
 Published analyses of *Psilocybe caerulipes* alkaloid content are limited but indicate moderate concentrations:
-- [[psilocin]]: approximately 0.05–0.25% of dry weight
-- [[psilocybe-azurescens]] and [[psilocybe-cubensis]]: The most widely cultivated psilocybin mushroom
-- [[psilocybe-caerulescens]]: Mexican species with similar bluing characteristics
-- [[psilocin]]: Active metabolite of psilocybin
-- [[psilocybe-quebecensis]]: Rare [[growing-gourmet-north-american-reishi-species]] species from similar latitudes
-- [[gymnopilus-spectabilis-entity]]: Larger psychoactive species found on wood
+- [[psilocybe-azurescens]] and [[psilocybe-caerulescens]]: Mexican species with similar bluing characteristics
+- [[psilocybe-quebecensis]]: Rare [[gymnopilus-spectabilis-entity]]: Larger psychoactive species found on wood
 ## Practical Considerations
 
 Successful implementation of Psilocybe caerulipes requires attention to

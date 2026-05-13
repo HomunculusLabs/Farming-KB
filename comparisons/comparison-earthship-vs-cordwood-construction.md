@@ -11,7 +11,7 @@ sources: []
 ## Overview
 
 Earthships and cordwood construction represent two very different approaches
-to natural building. Earthships, pioneered by Michael Reynolds in New Mexico,
+to [[natural-building]]. Earthships, pioneered by Michael Reynolds in New Mexico,
 are autonomous homes designed to function off-grid — harvesting rainwater,
 treating sewage, generating electricity, and heating themselves passively using
 tire-and-earth thermal mass walls. Cordwood construction, a centuries-old
@@ -21,30 +21,6 @@ to homesteaders seeking affordable, sustainable shelter, but they differ
 dramatically in cost, complexity, climate suitability, and self-sufficiency.
 
 ## Earthship Design
-[[earthship-design-and-biotopechtecture]]
-
-An earthship is not merely a wall system — it is a complete building
-philosophy organized around six core principles: thermal or solar heating
-and cooling, solar and wind electricity, contained sewage treatment,
-building with natural and recycled materials, water harvesting, and
-food production built into the structure itself. Walls are typically
-constructed from automobile tires packed with rammed earth, creating
-massive thermal mass that stabilizes indoor temperatures.
-
-The typical earthship is partially buried into a south-facing berm,
-with angled glass walls on the sun-facing side feeding a greenhouse
-corridor. Interior planters treat greywater through constructed wetlands
-while producing food year-round. The systems integration — rainwater
-cisterns, battery banks, botanical cells — makes an earthship function
-as a self-contained ecosystem rather than a conventional house.
-
-Earthships excel in arid and temperate climates with significant solar
-gain. They struggle in deeply shaded, extremely cold, or perpetually
-overcast locations where passive solar gain is limited. Regulatory
-hurdles are common: many jurisdictions do not recognize tire walls or
-greywater treatment systems, requiring variances or experimental permits.
-
-## Cordwood Construction
 [[cordwood-construction]]
 
 Cordwood masonry (also called stackwall) involves stacking short log
@@ -119,9 +95,6 @@ cold winters with limited sun).
 
 ## See Also
 
-- [[earthship-design-and-biotopechtecture]]
 - [[cordwood-construction]]
-- [[comparison-cob-vs-cordwood]]
 - [[comparison-earthship-vs-straw-bale-construction]]
-- [[comparison-straw-bale-vs-cordwood-construction]]
 - [[cob-construction]]

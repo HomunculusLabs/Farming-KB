@@ -26,9 +26,7 @@ sources:
 
 ## Overview
 
-Azolla caroliniana, commonly known as Carolina azolla or mosquito fern, is a small free-floating aquatic fern native to [[polypore-fungi-eastern-north-america]]. It forms a symbiotic relationship with the cyanobacterium *Anabaena azollae*, enabling it to fix atmospheric nitrogen and rapidly multiply on water surfaces.
-
-The species is widely utilized in permaculture, rice paddy agriculture, and aquaculture as a living biofertilizer, water purifier, and [[livestock-feed-formulation]] supplement. Its ability to double its biomass in 2–5 days under optimal conditions makes it one of the fastest-growing plants on Earth.
+Azolla caroliniana, commonly known as Carolina azolla or mosquito fern, is a small free-floating aquatic fern native to [[livestock-feed-formulation]] supplement. Its ability to double its biomass in 2–5 days under optimal conditions makes it one of the fastest-growing plants on Earth.
 
 A. caroliniana is one of seven recognized *Azolla* species and is distinguished by its relatively cold tolerance compared to tropical congeners like *A. pinnata* and *A. filiculoides*.
 
@@ -60,23 +58,19 @@ A. caroliniana is native to eastern North America, ranging from southern Ontario
 
 The species thrives in still or slow-moving freshwater habitats including ponds, ditches, marshes, rice paddies, and lake margins. It prefers full sun to partial shade and water temperatures between 15–30°C.
 
-Unlike its tropical relatives, *A. caroliniana* can survive winter temperatures by producing dormant sporocarps that sink to the bottom and germinate when conditions improve in spring. This cold tolerance makes it the preferred species for [[permaculture-designers-manual-temperate-climate-design]] permaculture applications.
-
-The sporocarps are bean-shaped structures containing both megaspores and microspores, which are released simultaneously during germination to initiate new colonies. Sporocarp production is triggered by shortening [[coleman-winter-day-length-and-persephone-months]] cooler temperatures in autumn.
+Unlike its tropical relatives, *A. caroliniana* can survive winter temperatures by producing dormant sporocarps that sink to the bottom and germinate when conditions improve in spring. This cold tolerance makes it the preferred species for [[coleman-winter-day-length-and-persephone-months]] cooler temperatures in autumn.
 
 The plant is sensitive to high salinity, pH extremes (optimal range 5.5–7.0), and strong water currents. It cannot tolerate deep shade, which limits its growth beneath dense canopy cover.
 
 ## Permaculture and Agricultural Applications
 
-A. caroliniana has been used as a green manure in rice paddies for centuries, particularly in East and [[psilocybe-southeast-asia-pacific]] where *Azolla* cultivation is a traditional agricultural practice. Inoculating rice paddies with *Azolla* before transplanting can supply 30–60% of the crop's nitrogen requirements.
-
-In permaculture systems, *Azolla* serves multiple functions simultaneously. As a nitrogen-fixing mulch, it can be harvested and applied directly to garden beds as a high-nitrogen green manure. Its rapid growth rate allows for repeated harvesting every 7–14 days during [[query-how-to-protect-plants-from-frost-and-extend-the-growing-season]].
+A. caroliniana has been used as a green manure in rice paddies for centuries, particularly in East and [[query-how-to-protect-plants-from-frost-and-extend-the-growing-season]].
 
 The fern's dense surface mat suppresses mosquito larvae by blocking oviposition sites, despite the common name "mosquito fern." It also reduces water evaporation from ponds and water features by up to 60%, a significant benefit in arid climate water management.
 
 In aquaculture, *Azolla* is fed to fish, ducks, and livestock as a protein-rich supplement. Its dry matter contains 25–35% crude protein, making it nutritionally comparable to alfalfa meal.
 
-**[[comparison-companion-planting-reference-vs-jadam-monoculture-critique]]** with *Azolla* in duckweed ponds creates a multi-layered aquatic system where both species compete for surface space, preventing either from becoming excessively dominant while maximizing [[dighton-fungal-biomass-production-aquatic-ecosystems]].
+**[[dighton-fungal-biomass-production-aquatic-ecosystems]].
 
 ## Bioactive Compounds
 

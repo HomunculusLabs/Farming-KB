@@ -19,36 +19,17 @@ equipment, instead relying on affordable tools that any farmer can access.
 The entire research lab can be set up for approximately 50 dollars using
 cups, dishes, and basic kitchen implements. This method enables farmers
 to test germicidal and insecticidal properties of natural substances and
-determine effective [[ingham-soil-drench-dilution-rates]] before [[knf-imo-four-soil-foundation-and-field-application]].
+determine effective [[knf-imo-four-soil-foundation-and-field-application]].
 
 ## Key Concepts
 
 ### Philosophy of Farmer-Led Research
 
-JADAM founder [[jadam-natural-pesticide-universal]]
-- Related: [[jadam-concentration-guidelines]]
+JADAM founder [[jadam-concentration-guidelines]]
 
 ## See Also
 
-- [[jadam-natural-pesticide-institute-and-research]]
-## Practical Applications
-
-JADAM Pesticide Research Cup Method has a range of practical applications that make it relevant to
-both researchers and practitioners. Understanding these applications
-requires familiarity with the underlying principles and their
-manifestation in real-world contexts. The breadth of applications
-reflects the fundamental importance of this topic across disciplines.
-
-Implementation varies based on scale, available resources, and
-specific objectives. Small-scale applications may be relatively
-straightforward, while larger implementations require more careful
-planning and coordination. Adaptation to local conditions is always
-essential for achieving optimal results regardless of scale.
-
-Documented case studies provide valuable reference points, though
-each situation presents unique combinations of opportunities and
-constraints that require context-specific solutions. The most
-successful implementations combine established [[arbuscular-mycorrhizal-inoculum-production-best-practices]] with
+- [[arbuscular-mycorrhizal-inoculum-production-best-practices]] with
 creative adaptation to local conditions and emerging challenges.
 
 ## Key Considerations
@@ -97,8 +78,6 @@ through generations to modern scientific approaches, the evolution continues
 to inform current best practices and research directions.
 
 ## See Also
-- [[doc]]
 - [[det]]
-- [[mycorrhiza]]
 - [[jadam-natural-pesticide-institute-and-research]]
 - [[jadam-foam-gun-pesticide-method]]

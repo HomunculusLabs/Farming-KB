@@ -8,13 +8,13 @@ source: general-knowledge
 
 # Cytokinin: Plant Growth and Development Hormone
 
-Cytokinins are a class of plant hormones (phytohormones) that promote cell division (cytokinesis), regulate shoot development, delay [[leaf-senescence-autumn-colour-change-active-plant-process]], and mediate nutrient signaling. They work in concert with auxin, the other major hormone controlling plant development, with the cytokinin-to-auxin ratio being a fundamental determinant of organogenesis in plant [[cervantes-tissue-culture-micropropagation]].
+Cytokinins are a class of plant hormones (phytohormones) that promote cell division (cytokinesis), regulate shoot development, delay [[cervantes-tissue-culture-micropropagation]].
 
 ## Discovery and Chemical Nature
 
 Cytokinins were first discovered in the 1950s through independent research by Folke Skoog and Carlos Miller at the University of Wisconsin. They identified a substance in herring sperm DNA that promoted cell division in tobacco pith tissue culture. This compound, named kinetin (6-furfurylaminopurine), was the first cytokinin described, though it was later found to be an artifact of DNA autoclaving and does not occur naturally in plants.
 
-Natural cytokinins are adenine derivatives with an isoprenoid or aromatic [[shirota-glyoxalylamide-side-chain-construction-psilocin-synthesis]] at the N⁶ position. The [[ascomycota-phylogeny-major-classes-lineages]] include:
+Natural cytokinins are adenine derivatives with an isoprenoid or aromatic [[ascomycota-phylogeny-major-classes-lineages]] include:
 
 - **Isoprenoid cytokinins**: The most common in plants. Trans-zeatin is the most biologically active natural cytokinin. Others include cis-zeatin, dihydrozeatin, and isopentenyladenine (iP).
 - **Aromatic cytokinins**: Less common, with benzyladenine (BAP) being the most studied. These are primarily synthetic but some occur naturally.
@@ -40,44 +40,7 @@ Cytokinin biosynthesis is localized primarily in root tips, young leaves, develo
 
 The cytokinin signaling pathway follows a bacterial two-component system (TCS), inherited from the cyanobacterial ancestor of chloroplasts. The core pathway involves three component families:
 
-1. **[[gadd-two-component-signalling-histidine-kinase-fungi]] Receptors (AHK2, AHK3, AHK4/CRE1/WOL)**: These membrane-localized receptors bind cytokinin and autophosphorylate on a conserved histidine residue. AHK4/CRE1 is primarily expressed in roots and is the major cytokinin receptor for root-to-shoot signaling. AHK2 and AHK3 are more important in shoots.
-
-2. **Histidine Phosphotransfer Proteins (AHPs)**: Cytoplasmic proteins that shuttle the phosphoryl signal from the receptor to the nucleus. Six AHPs (AHP1-6) have been identified in Arabidopsis.
-
-3. **Type-B Response Regulators (ARRs)**: Nuclear transcription factors that are activated by phosphorylation. They bind to DNA at ARR-binding motifs and activate transcription of cytokinin-responsive genes, including type-A ARRs (negative feedback regulators).
-
-The signaling cascade:
-- Cytokinin binds AHK receptor → receptor autophosphorylation → phosphotransfer to AHP → AHP translocates to nucleus → phosphorylates type-B ARR → type-B ARR activates gene transcription → type-A ARRs are induced and competitively inhibit signaling (negative feedback)
-
-## Roles in Plant Development
-
-### Cell Division and Shoot Apical Meristem
-
-Cytokinins maintain the shoot apical meristem (SAM) by promoting cell division in the central zone. Key functions include:
-
-- Upregulation of cyclin genes (particularly CYCD3) to drive G2/M transition
-- Promotion of WUSCHEL (WUS) expression, which maintains stem cell identity in the SAM
-- Interacting with CLAVATA signaling to balance stem cell proliferation and differentiation
-- Overproduction of cytokinin leads to enlarged SAMs with excess stem cells
-
-### Regulation of Apical Dominance
-
-Cytokinins are key regulators of apical dominance, working antagonistically with auxin:
-
-- Auxin produced by the shoot apex suppresses axillary bud outgrowth indirectly by maintaining low cytokinin levels in axillary buds
-- Direct application of cytokinin to axillary buds can override apical dominance and release buds from dormancy
-- The auxin-cytokinin balance determines whether a bud remains dormant or grows out
-- Decapitation (removing the shoot apex) increases cytokinin delivery to axillary buds, promoting branching
-
-### Shoot vs. Root Development
-
-The classic Skoog-Miller experiment established that the ratio of cytokinin to auxin determines the fate of callus tissue:
-
-- **High cytokinin : low auxin** → shoot formation
-- **Low cytokinin : high auxin** → root formation
-- **Intermediate ratios** → undifferentiated callus
-
-This principle underlies virtually all plant [[query-what-is-tissue-culture-and-why-does-it-matter-for-growers]] micropropagation protocols.
+1. **[[query-what-is-tissue-culture-and-why-does-it-matter-for-growers]] micropropagation protocols.
 
 ### Leaf Development and Chloroplast Biogenesis
 
@@ -118,8 +81,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[dom]]
 - [[psilocin]]
-- [[det]]
 - [[ascomycota]]
 - [[query-what-are-pgpr-and-how-do-they-promote-plant-growth]]

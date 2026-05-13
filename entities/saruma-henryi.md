@@ -44,33 +44,7 @@ Stems are erect, branching, pubescent, and covered with cordate to ovate leaves.
 
 Leaves are alternate, cordate at the base, 5–12 cm long and 4–10 cm wide, with dentate margins.
 
-The [[bloomfield-rust-germ-tube-tactile-sensing-leaf-surface-navigation]] is pubescent on both sides, giving a soft, velvety texture.
-
-Flowers are produced in the upper leaf axils from spring through early summer (April–June).
-
-The perianth consists of three pale yellow-green sepals and three smaller, rounded petals that are yellow to cream-colored.
-
-Flowers are approximately 2–3 cm in diameter, more open and showy than the tubular flowers of *Asarum*.
-
-The three-lobed calyx and presence of true petals distinguish *Saruma* from *Asarum*, which lacks petals.
-
-The fruit is a dehiscent capsule containing numerous small, compressed seeds.
-
-## Distribution and Habitat
-
-*S. henryi* is endemic to China, where it occurs in the provinces of Hubei, Sichuan, Guizhou, and Yunnan.
-
-The species is found in montane and submontane forests at elevations between 600 and 2,100 meters.
-
-Preferred habitats include shaded forest understories, rocky stream banks, damp ravines, and limestone cliff bases.
-
-It grows in humus-rich, well-drained soils with consistent moisture.
-
-The species is typically found in areas of high humidity and moderate temperatures characteristic of the cloud forests of central China.
-
-Population sizes are generally small and scattered, reflecting the species' specialized habitat requirements.
-
-The species is considered vulnerable in its native range due to habitat loss and fragmentation of [[dighton-fungi-acidifying-pollutants-forest-ecosystems]].
+The [[dighton-fungi-acidifying-pollutants-forest-ecosystems]].
 
 ## Cultivation
 
@@ -80,10 +54,84 @@ It is valued as an unusual and attractive shade perennial with long-lasting flow
 
 The plant is hardy to USDA Zone 6 (approximately -23°C) when grown in sheltered positions.
 
-It prefers partial to full shade, consistent soil moisture, and a humus-rich, well-drained [[cervantes-green-algae-growing-medium]].
+It prefers partial to full shade, consistent soil moisture, and a humus-rich, well-drained [[coleman-overwintered-onions-and-early-spring-crops]] or autumn.
 
-Propagation is primarily from seed, which requires a period of cold stratification for reliable germination.
+## Overview
 
-Seeds should be sown fresh or stored cool and moist, as they lose viability rapidly when dried.
+Saruma Henryi represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
 
-Division of established clumps can be performed in [[coleman-overwintered-onions-and-early-spring-crops]] or autumn.
+## Key Characteristics
+
+Several defining characteristics distinguish saruma henryi
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving saruma extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Saruma Henryi finds practical application in multiple design contexts.
+[[permaculture-principles]] guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for saruma henryi. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+saruma henryi and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Saruma Henryi has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of saruma henryi into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+- [[neurotropic-fungi-endemic-species-and-restricted-ranges-guzman-1998]]

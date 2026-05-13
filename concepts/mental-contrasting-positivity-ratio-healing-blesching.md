@@ -44,11 +44,7 @@ after researcher Marcial Losada.
 
 ### The Science Behind Positivity
 
-Words themselves carry measurable [[emcdda-psilocybin-cardiovascular-risks-acute-physiological-effects]]. Researchers
-at the University of Regensburg, Germany, discovered that simply
-viewing single words such as "happy" or "brutal" reduced or increased
-anxiety, respectively. Thoughtfully selected compassionate words alone
-can contribute to conflict resolution, [[vipassana-mindfulness-and-stress-reduction-healing]], and enhanced
+Words themselves carry measurable [[vipassana-mindfulness-and-stress-reduction-healing]], and enhanced
 coping mechanisms.
 
 ### Practical Application
@@ -89,8 +85,6 @@ success.
 ### Critical Caveat
 
 ## See Also
-- [[mental-contrasting-technique-for-goal-achievement]]
 - [[blesching-cannabis-emotional-intelligence-healing-framework]]
-- [[blesching-cannabis-deep-relaxation-healing]]
 - [[blesching-cannabis-bone-fracture-healing]]
 - [[forgiveness-gratitude-healing-practices-blesching]]

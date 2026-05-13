@@ -6,7 +6,7 @@ type: concept
 
 # Complexity, Connections, and Order in Permaculture
 
-[[permaculture-design]] rests on understanding how natural systems generate complexity, forge connections between elements, and produce genuine order — as distinct from the superficial tidiness humans often mistake for order. [[bill-mollison]] devotes significant attention to these themes because a designer who misunderstands complexity and order will inevitably create systems that require constant energy input and still underperform.
+[[bill-mollison]] devotes significant attention to these themes because a designer who misunderstands complexity and order will inevitably create systems that require constant energy input and still underperform.
 
 ## Complexity in Ecological Systems
 
@@ -23,25 +23,7 @@ Waddington (1977) observed that complexity in a system rises roughly as the **sq
 
 ## Connections: Designing for Essentials, Trusting the Details
 
-Every element in a [[permaculture]] system has potential connections to every other element, but we can never fully map or predict them all.
-
-### The Chicken Principle
-
-- The number of connections we can identify for any element depends entirely on the **information we have** about that element
-- A chicken connects to soil (scratching, manure), plants (pest control, seed dispersal), humans (eggs, meat), other animals (feed recycling), and microclimates (heat from the coop)
-- Yet chickens also make connections **we cannot know or design for** — hence Mollison's dictum: **"We must simply trust the chicken"**
-- The design implication: **design for essentials, then let components attend to the details** themselves
-
-### How Nature Connects
-
-- Natural connections are **not like wires or pipes** — they are functional relationships that emerge when elements are placed where their behaviors serve the system
-- A designer must understand the **functions** each element performs and place elements where those functions will benefit the whole
-- Components invariably perform **additional tasks beyond our design concepts** — the wise designer expects and welcomes this
-
-### Island Ecologies and Empty Niches
-
-- The Galápagos and similar isolated ecosystems demonstrate **species-swarm**: a small number of pioneer or survivor species differentiate into many forms when empty niches are available
-- The [[dodo]], Darwin's finches, and Galápagos tortoises all arose from this process
+Every element in a [[dodo]], Darwin's finches, and Galápagos tortoises all arose from this process
 - Unique island species often perform **functions not easily found in continental ecologies** — a reminder that local adaptation generates irreplaceable complexity
 
 ## Quality of Complexity
@@ -72,11 +54,11 @@ Mollison is blunt: in natural systems, **neatness, tidiness, uniformity, and str
 
 - **Order and harmony produce energy** for other uses — they are net-positive
 - **Disorder consumes energy** to no useful end — it is net-negative
-- A permaculture designer seeks to create systems where order is self-maintaining and generates surplus energy, rather than systems that demand energy inputs merely to sustain their structure
+- A [[permaculture]] designer seeks to create systems where order is self-maintaining and generates surplus energy, rather than systems that demand energy inputs merely to sustain their structure
 
 ## Permitted Functions vs. Forced Functions
 
-A key practical distinction in permaculture design is between what an element does naturally (permitted functions) and what we compel it to do (forced functions).
+A key practical distinction in [[permaculture-design]] is between what an element does naturally (permitted functions) and what we compel it to do (forced functions).
 
 ### Permitted Functions
 
@@ -118,7 +100,7 @@ This principle synthesizes the above themes:
 # See Also
 
 - [Yield and the System of Yields](yield-and-the-system-of-yields.md)
-- [[edge-effect]]([[edge-effect]].md)
+- [[edge-effect]].md)
 - [Guilds and Plant Communities](guilds-and-plant-communities.md)
 - [Zones and Sectors](zones-and-sectors.md)
 - [Relative Location](relative-location.md)

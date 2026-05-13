@@ -14,13 +14,13 @@ sources:
 
 The legal status of psilocybin-containing mushrooms varies dramatically across the world, ranging from complete prohibition to decriminalization to regulated medical use. This page provides a global overview as of 2026. Laws change frequently; always verify current local regulations.
 
-See [[psychedelic-mushroom-history]] for the [[ghouled-field-guide-historical-context]] of prohibition.
+See [[psychedelic-mushroom-history]] for the historical context of prohibition.
 
 ## International Framework
 
 ### UN Convention on Psychotropic Substances (1971)
 
-- [[hplc-analysis-of-psilocybin-and-psilocin]] are listed in Schedule I (most restrictive)
+- Psilocybin and psilocin are listed in Schedule I (most restrictive)
 - This convention requires signatory nations to criminalize possession, manufacture, and distribution
 - However, the convention does not specifically name "mushrooms" — only the isolated compounds
 - This legal ambiguity has been exploited in some jurisdictions (e.g., the Netherlands)
@@ -29,7 +29,7 @@ See [[psychedelic-mushroom-history]] for the [[ghouled-field-guide-historical-co
 
 ### United States
 
-- **Federal**: Psilocybin and psilocin are Schedule I under the [[controlled-substances-act-and-psychedelic-research]] (since 1968)
+- **Federal**: Psilocybin and psilocin are Schedule I under the Controlled Substances Act (since 1968)
 - **State-level reform**:
   - **Oregon**: Measure 109 (2020) legalized psilocybin-assisted therapy under regulated program; Measure 110 decriminalized personal possession
   - **Colorado**: Proposition 122 (2022) decriminalized personal use and cultivation and established a regulated therapy program
@@ -49,8 +49,8 @@ See [[psychedelic-mushroom-history]] for the [[ghouled-field-guide-historical-co
 ### Mexico
 
 - Psilocybin mushrooms (teonanacatl) are not specifically scheduled in federal law
-- Sale [[magic-mushroom-retail-markets-and-commercial-distribution-channels]] are prohibited under general drug laws
-- [[traditional-indigenous-use-sacred-fungi]] (Mazatec and other groups) is culturally tolerated
+- Sale and commercial distribution are prohibited under general drug laws
+- Traditional indigenous use (Mazatec and other groups) is culturally tolerated
 - See [[maria-sabina-and-mazatec-mushroom-ceremony]] for indigenous context
 
 ## Europe
@@ -120,7 +120,7 @@ Six EU member states tightened mushroom legislation in response to increasing pr
 | Jul 2001 | Denmark | Added "Mushrooms or spores of P. semilanceata, P. cubensis or other fungi/spores containing psilocin or psilocybin" as controlled substance |
 | Nov 2002 | Netherlands | Supreme Court ruled Opium Act applies to dried/processed mushrooms (but not fresh) |
 | Mar 2005 | Germany | Changed definition from "plant" to "organism" to include mushrooms (closing fungal loophole) |
-| May 2005 | Estonia | Clarified that cultivation [[health-risks-of-hallucinogenic-mushrooms]] is an offence |
+| May 2005 | Estonia | Clarified that cultivation of hallucinogenic mushrooms is an offence |
 | Jul 2005 | UK | Drugs Act 2005: "Fungus (of any kind) which contains psilocin or an ester of psilocin" became Class A — no longer only "if treated or prepared" |
 | Feb 2006 | Ireland | Criminalized possession/sale of "fungus of any kind containing psilocin" (exempt if growing uncultivated) |
 
@@ -140,11 +140,11 @@ Six EU member states tightened mushroom legislation in response to increasing pr
 ### Costa Rica
 
 - Not specifically scheduled; mushrooms grow naturally in the country
-- No active enforcement against personal use
-- Several retreat centers operate openly, primarily catering to international visitors
 
-## Asia and Oceania
+## See Also
 
-### Japan
-
-- Psilocybin is controlled under the Narcotics and Psychotropics Control Law
+- [[reishi-mushroom-cultivation-and-medicinal-properties]]
+- [[straw-based-mushroom-substrate-preparation]]
+- [[casing-soil-sterilization-versus-pasteurization-debate-mushroom-cultivation]]
+- [[straw-mushroom-cultivation]]
+- [[psilocybe-caerulescens-mazatec-sacred-mushroom-guzman-1998]]

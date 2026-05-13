@@ -16,15 +16,8 @@ type: concept
 
 # Water Power and Hydraulic Systems
 
-[[comparison-sepp-holzer-vs-biodynamic]] has integrated water power systems into the [[holzer-alternative-energy]]
-can be derived from the natural topography of a [[holzer-permaculture-landscape-design]]. By
-using the height difference between ponds and water gardens, Holzer creates
-clean energy while simultaneously supporting his aquaculture and irrigation
-systems.
-
-## Pelton Wheel Electricity Generation
-
-The [[holzer-water-landscapes]] that covers the farm. This
+[[holzer-alternative-energy]]
+can be derived from the natural topography of a [[holzer-water-landscapes]] that covers the farm. This
 means the ponds serve triple duty: storing water for irrigation, providing
 habitat for fish and aquatic plants, and generating electricity.
 
@@ -33,8 +26,7 @@ habitat for fish and aquatic plants, and generating electricity.
 In addition to the Pelton wheel generators, Holzer also makes use of more
 traditional ways of utilising water power. He has two mills which are driven
 by water wheels. These traditional mills can be used for grinding grain or
-other mechanical tasks, connecting water power to [[holzer-aquaculture-pond-construction]] and
-[[permaculture-farm-design-principles]]: the energy generation system is not separate from the
+other mechanical tasks, connecting water power to [[permaculture-farm-design-principles]]: the energy generation system is not separate from the
 aquaculture system, but actively supports it. Every output of one element
 becomes an input for another.
 
@@ -45,25 +37,13 @@ From the upper boundary of the farm (1,500m above sea level) to the valley
 are used for drinking water and are also used to feed the ponds and water
 gardens. These ponds are placed throughout the entire farm and most of them
 are connected. In total, a network of 60 ponds, water gardens, wetlands, and
-ditches covers the [[holzer-humus-storage-ditches]] and [[holzer-pond-construction-and-aquaculture]] design.
+ditches covers the [[holzer-pond-construction-and-aquaculture]] design.
 
 ## Contrast with Conventional Energy
 
 Holzer's water power systems contrast sharply with conventional approaches
 to farm energy supply. Rather than connecting to the grid or running diesel
-generators, he uses the natural energy available on his land. The [[sepp-holzer-method]] preference for
-simple, resilient solutions over complex, technology-dependent ones. If a
-Pelton wheel breaks, it can be repaired or replaced without specialised
-parts or technicians. The same cannot be said for modern electronic
-inverters and control systems used in conventional hydroelectric installations.
-
-## Scalability and Adaptation
-
-These water power systems can be adapted to different scales and contexts.
-Even a small height difference of a few metres can generate useful energy
-with a Pelton wheel, and hydraulic rams can work with very modest water
-flows. The key requirement is a consistent water supply, which can be ensured
-through the [[holzer-water-management-ponds-springs]] approach of creating
+generators, he uses the natural energy available on his land. The [[holzer-water-management-ponds-springs]] approach of creating
 ## Practical Considerations
 
 Successful implementation of Water Power and Hydraulic Systems requires attention to
@@ -112,8 +92,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[permaculture]]
 - [[holzer-water-landscapes-retention]]
-- [[holzer-tamera-water-landscape-project]]
 - [[holzer-extremadura-water-paradise-project]]
 - [[sepp-holzer-water-gardens-and-aquatic-plants]]

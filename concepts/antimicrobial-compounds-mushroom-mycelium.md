@@ -9,32 +9,7 @@ created: 2026-05-09
 
 ## Mycelial Exudates
 
-Living mycelium continuously secretes a range of [[antifungal-secondary-metabolites-coprophilous-fungi]]
-through its cell surface — compounds known in mycology as exudates.
-These include enzymes for breaking down organic matter and antibiotics
-for defending against microbial competitors. The mycelial cell surface
-"sweats" these compounds into the surrounding environment. Since
-mycelium has only a single cell wall protecting it from millions of
-hostile microbes per gram of soil, this chemical defense system is
-essential for survival.
-
-Mushroom mycelium resists bacterial and fungal rot until it releases
-spores, ages, and dies. After sporulation, the fruiting body becomes
-vulnerable to the very organisms its mycelium once suppressed. Each
-mushroom species may predetermine which bacterial and fungal colonies
-can colonize it after death.
-
-## Antibiotic Compounds from Mushrooms
-
-A comprehensive survey by Merck researchers in Spain (Suay et al. 2000)
-assessed antibacterial activities of 204 basidiomycete mushroom species.
-The results showed that many mushrooms selectively target specific
-bacterial species — they do not act as broad-spectrum biocides but
-rather exhibit targeted antimicrobial activity.
-
-Notable antibiotics isolated from mushrooms include:
-
-**Calvacin** from giant puffballs ([[calvatia-gigantea]]).
+Living mycelium continuously secretes a range of [[calvatia-gigantea]]).
 
 **Armillarin** from honey mushrooms (Armillaria mellea).
 
@@ -42,20 +17,11 @@ Notable antibiotics isolated from mushrooms include:
 
 **Coprinol** from inky caps (Coprinus species).
 
-**Coriolin** from turkey tail mushrooms ([[growing-gourmet-turkey-tail-trametes-versicolor-cultivation]], formerly
-[[coriolus-versicolor]]).
+**Coriolin** from turkey tail mushrooms ([[coriolus-versicolor]]).
 
 **Cortinellin** from shiitake (Lentinula edodes).
 
-**Ganomycin** from reishi ([[ganoderma-lucidum]]).
-
-**Agaricin** from agarikon (Fomitopsis officinalis).
-
-**Sparassol** from cauliflower mushrooms (Sparassis crispa).
-
-Cold-water extracts from living mycelium of the most antibacterially
-active species — oyster mushroom (Pleurotus ostreatus), birch
-polypore ([[piptoporus-betulinus]]), and agarikon (Fomitopsis officinalis)
+**Ganomycin** from reishi ([[piptoporus-betulinus]]), and agarikon (Fomitopsis officinalis)
 — demonstrated more than 99.99% inhibition of both Escherichia coli
 and Staphylococcus aureus within 48-72 hours.
 
@@ -117,8 +83,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[oyster-mushroom]]
 - [[mycelium]]
-- [[pleurotus-ostreatus]]
 - [[agarikon]]
 - [[sparassis-crispa]]

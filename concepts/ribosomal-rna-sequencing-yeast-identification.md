@@ -9,11 +9,7 @@ sources: []
 
 # Ribosomal RNA Sequencing for Yeast and Fungal Identification
 
-Ribosomal RNA (rRNA) and ribosomal DNA (rDNA) sequence comparisons have become the gold standard for [[fungal-biodiversity-assessment-methods]] phylogenetic analysis. The multi-copy nature of rDNA and its combination of conserved and variable regions make it ideal for comparisons across different taxonomic levels.
-
-## Ribosomal RNA Gene Structure
-
-The [[fungal-rdna-primers-molecular-identification]] repeat unit contains:
+Ribosomal RNA (rRNA) and ribosomal DNA (rDNA) sequence comparisons have become the gold standard for [[fungal-rdna-primers-molecular-identification]] repeat unit contains:
 - **18S (small subunit) rRNA gene:** ~1,800 nucleotides; conserved; for broad phylogenetic placement
 - **ITS1 (internal transcribed spacer 1):** Variable; useful for species-level discrimination
 - **5.8S rRNA gene:** ~160 nucleotides; contains modified nucleotides
@@ -71,10 +67,7 @@ The most widely used region for yeast identification:
 ## Major Phylogenetic Findings from rRNA/rDNA
 
 ### Ascomycetous Yeasts
-- **Yeasts form a monophyletic clade** distinct from euascomycetes ([[fungal-biosorption-of-heavy-metals-by-filamentous-fungi]])
-- **Schizosaccharomyces** is phylogenetically distant from both budding yeasts and euascomycetes (separate order: Schizosaccharomycetales)
-- **Taphrina, Protomyces, Saitoella:** Form a divergent clade basal to the yeast-euascomycete branch
-- **Eremascus:** Aligned with euascomycetes despite lacking a [[comparison-fruiting-body-vs-mycelium-extracts-medicinal-mushrooms]]
+- **Yeasts form a monophyletic clade** distinct from euascomycetes ([[comparison-fruiting-body-vs-mycelium-extracts-medicinal-mushrooms]]
 - **Ascospore morphology is a poor phylogenetic indicator**
 - **Budding vs. fission reproduction** does not define monophyletic groups
 - **Saccharomyces bayanus/pastorianus:** Partial amphidiploid from hybridization
@@ -88,3 +81,11 @@ The most widely used region for yeast identification:
 ### Limitations
 - Some sibling species pairs show unexpectedly low divergence (e.g., Williopsis saturnus varieties: 43% nuclear DNA relatedness but 0% D2 divergence)
 - Amphidiploidy can mask divergence (hybrid species retain one parent's rDNA)
+
+## See Also
+
+- [[mushroom-species-sequencing]]
+- [[16s-rrna-sequencing-cannabis-microbiome-profiling]]
+- [[environmental-dna-sequencing-fungi]]
+- [[16s-rrna-sequencing-microbiome-analysis-cannabis]]
+- [[stamets-species-sequencing-recycling-substrates]]

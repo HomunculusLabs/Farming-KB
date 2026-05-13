@@ -12,15 +12,10 @@ tags: [culture, fruit-tree, permaculture, plants, tree-crop]
 
 A curated selection of fruit-producing trees and shrubs suited to permaculture-feijoa (Acca sellowiana, syn. Feijoa sellowiana)** -- Evergreen shrub or small tree 3-6 m, frost hardy to -12 C. Native to S. Brazil, Uruguay, Paraguay, N. Argentina. Fruit eaten fresh, cooked into jams and jellies, or fermented into wine. High in vitamin C (28 mg/100g), iodine, and antioxidants. Excellent hedge plant; tolerates salt spray. Self-fertile but cross-pollination improves yield. Flowers edible, used in salads. Leaves used medicinally as antiseptic and anti-inflammatory.
 
-- **White Sapote (Casimiroa edulis)** -- Evergreen tree to 15 m, native to Mexico and [[guzman-allen-gartz-neurotropic-fungi-central-america-caribbean]]. Frost tolerant to -5 C when mature. Fruit eaten fresh or used in drinks; described as having creamy, mild banana-vanilla flavour. Three main varieties: white, yellow, and green. Fruit contains sleep-inducing compounds. Prefers well-drained soils.
+- **White Sapote (Casimiroa edulis)** -- Evergreen tree to 15 m, native to Mexico and [[permplant-carob-drought-tolerant-food-tree]] and adapted to alkaline soils. Frost hardy to -15 C. Native to Iran and N. India. Fruit high in vitamin C, potassium, and antioxidants. Rinds used for tanning leather; juice used as natural dye. Multiple functions: ornamental, fruit, boundary plant, windbreak.
 
-- **Pomegranate (Punica granatum)** -- Deciduous shrub or small tree to 6 m, extremely [[permplant-carob-drought-tolerant-food-tree]] and adapted to alkaline soils. Frost hardy to -15 C. Native to Iran and N. India. Fruit high in vitamin C, potassium, and antioxidants. Rinds used for tanning leather; juice used as natural dye. Multiple functions: ornamental, fruit, boundary plant, windbreak.
+- **[[ceratonia-siliqua]]
 
-- **[[hamilton-geoffhamilton-nick-organic-gardening-companion-planting]] for Fruit Trees
-
-[[ceratonia-siliqua]]
-
-[[fukuoka-no-pruning-philosophy-fruit-trees]]
 [[food-forest-design]] for integrating fruit trees into perennial polyculture systems.
 permaculture-feijoa for one of the most cold-hardy subtropical fruit trees.
 ## Practical Applications
@@ -91,7 +86,5 @@ is increasingly recognized as essential for sustainable outcomes.
 
 ## See Also
 
-- [[permaculture-plant-index-c-e]]
 - [[permaculture-plant-index-f-i]]
-- [[permaculture-plant-index-i-m]]
 - [[permaculture-plant-index-m-r]]

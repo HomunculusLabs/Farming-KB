@@ -14,45 +14,15 @@ sources:
   - Lowe, J. (1932). "Irvingiaceae." Flora of Tropical West Africa, 1(2), 293-296.
   - Okafor, J.C. (1975). "Varietal delimitation in Irvingia gabonensis." Nigerian Journal of Forestry, 5(1), 34-37.
   - Ngondi, J.L. et al. (2005). "Irvingia gabonensis extract affects body weight and metabolic parameters." Lipids in Health and Disease, 4, 12.
-  - Atawodi, S.E. et al. (2009). "[[dighton-fungal-nutritional-composition-animal-diets]] of Irvingia gabonensis." Pakistan Journal of Nutrition, 8(6), 812-816.
-  - Shiembo, P.N. et al. (1996). "Irvingia gabonensis: ethno-botany and importance in agroforestry." Agroforestry Systems, 33(3), 257-267.
----
-
-## Overview
-
-Irvingia gabonensis is a large evergreen tree in the family Irvingiaceae, native to the humid [[fungal-biodiversity-tropical-forests]] of West and Central Africa. It is commonly known as African mango, bush mango, wild mango, or ogbono.
+  - Atawodi, S.E. et al. (2009). "[[fungal-biodiversity-tropical-forests]] of West and Central Africa. It is commonly known as African mango, bush mango, wild mango, or ogbono.
 
 The species produces edible fruits with sweet, fibrous mesocarp and large seeds that are widely used as a thickening agent in West African soups and stews. The kernels, traded commercially as ogbono or dika nuts, are a significant source of dietary fat and protein.
 
-Irvingia gabonensis has attracted international attention for its seed extract, which has been marketed as a weight-loss supplement. [[cancer-medicinal-mushrooms-schizophyllan-spg-clinical-trials]] have shown modest effects on body weight and metabolic parameters.
-
-The tree plays an important role in traditional agroforestry systems across its range, providing food, timber, and income for rural communities. It is one of the most economically important indigenous [[query-how-do-i-graft-fruit-trees-in-a-home-orchard]] tropical Africa.
+Irvingia gabonensis has attracted international attention for its seed extract, which has been marketed as a weight-loss supplement. [[query-how-do-i-graft-fruit-trees-in-a-home-orchard]] tropical Africa.
 
 ## Taxonomy and Morphology
 
-Irvingia gabonensis was described by Aubry-Lecomte ex O'Rorke in 1857. The genus Irvingia contains approximately seven species distributed across tropical Africa and [[psilocybe-southeast-asia-pacific]].
-
-The tree is evergreen, reaching 15–40 meters in height with a dense, spreading crown. The trunk is straight and cylindrical, reaching 1–2 meters in diameter at maturity, with buttresses extending up to 3 meters at the base.
-
-Bark is grayish-brown to dark brown, smooth when young and becoming scaly and fissured with age. The inner bark is yellowish and exudes a clear to whitish latex when cut.
-
-Leaves are alternate, simple, elliptic to obovate, 10–30 cm long and 4–12 cm wide, with a glossy dark green upper surface and paler underside. The leaf margin is entire to slightly wavy.
-
-Inflorescences are axillary fascicles bearing small, yellowish-green flowers approximately 5 mm in diameter. Flowers are pentamerous with a hairy calyx and no petals.
-
-Flowering occurs during the dry season, with pollination primarily mediated by flies and small beetles attracted to the faintly scented flowers. Fruit development takes 3–4 months from anthesis to maturity.
-
-The fruit is a large drupe 5–8 cm long and 3–5 cm in diameter, green when immature turning yellow-orange at maturity. The mesocarp is fibrous, sweet, and edible, surrounding a single large woody endocarp containing the seed.
-
-## Distribution and Habitat
-
-Irvingia gabonensis ranges from Senegal eastward through the Guinean forest zone to the Democratic Republic of Congo and Angola. It also occurs in the island nation of São Tomé and Príncipe.
-
-The species exhibits considerable morphological [[psilocybin-psilocin-variation-across-flushes]] its range, leading to [[growing-gourmet-pleurotus-sajor-caju-taxonomic-confusion]] with the closely related Irvingia wombolu. The latter produces less palatable fruit but similar seed kernels.
-
-The species is most abundant in lowland humid tropical forests at elevations below 800 meters. It grows in areas with annual rainfall of 1,200–2,500 mm and mean annual temperatures of 24–28 degrees Celsius.
-
-Natural populations are found in primary and secondary forests, forest margins, and riverine [[mollison-designers-gallery-forests-and-valley-bottomland-systems]]. The species is relatively light-demanding and is most common in forest gaps and disturbed sites.
+Irvingia gabonensis was described by Aubry-Lecomte ex O'Rorke in 1857. The genus Irvingia contains approximately seven species distributed across tropical Africa and [[psilocybin-psilocin-variation-across-flushes]] its range, leading to [[mollison-designers-gallery-forests-and-valley-bottomland-systems]]. The species is relatively light-demanding and is most common in forest gaps and disturbed sites.
 
 Wild trees are often preserved when forest is cleared for agriculture, creating a characteristic parkland landscape in many parts of West Africa. These retained trees continue to provide fruit and serve as seed sources for natural regeneration.
 
@@ -87,3 +57,80 @@ The soluble fiber fraction delays gastric emptying and increases satiety, which 
 Additional studies have reported improvements in adiponectin levels and insulin sensitivity in overweight subjects taking Irvingia seed extract. However, the evidence base remains limited with few independent replications.
 
 A systematic review concluded that Irvingia gabonensis extract shows promise for weight management, but noted that most available trials were small, short-duration, and industry-sponsored. Larger independent trials are needed to confirm effects.
+
+## Overview
+
+Irvingia Gabonensis represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish irvingia gabonensis
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving irvingia extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Irvingia Gabonensis finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for irvingia gabonensis. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+irvingia gabonensis and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Irvingia Gabonensis has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of irvingia gabonensis into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.

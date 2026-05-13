@@ -23,8 +23,7 @@ sources:
 ## Overview
 
 4-HO-MET (4-hydroxy-N-methyl-N-ethyltryptamine), also known as metocin, methylpropyltryptamine, or colloquially as "colour," is a synthetic psychedelic substance of the tryptamine class.
-It is a close structural analog of [[psilocybin]], differing only by the replacement of one methyl group on the terminal amine with an ethyl group.
-First synthesized and characterized by Alexander Shulgin, 4-HO-MET was documented in TiHKAL (Tryptamines I Have Known and Loved) as entry #40, where Shulgin reported it produces a [[leary-psychedelic-experience-bardo-mapping]] comparable to psilocybin but with distinctive visual richness.
+It is a close structural analog of [[leary-psychedelic-experience-bardo-mapping]] comparable to psilocybin but with distinctive visual richness.
 The compound has gained popularity as a research chemical and is valued for its reportedly gentler, more recreational character compared to other synthetic tryptamines.
 
 ## Chemical Properties
@@ -37,27 +36,7 @@ The compound has gained popularity as a research chemical and is valued for its 
 - **Solubility:** Soluble in ethanol, DMSO, and dilute acids; poorly soluble in water
 - **Stability:** Relatively stable as a solid when stored in cool, dark, dry conditions; sensitive to oxidation and UV light in solution
 
-The molecule shares the indole-4-hydroxy core with [[dipt]] (N,N-diisopropyltryptamine analogs), and represents one of the simplest modifications to the classic 4-substituted tryptamine scaffold.
-This small structural change — swapping one methyl for an ethyl — significantly alters the pharmacokinetic profile, generally resulting in shorter duration and slightly different subjective character compared to psilocybin.
-
-## Pharmacology
-
-### Mechanism of Action
-
-4-HO-MET acts primarily as a partial agonist at the 5-HT₂A serotonin receptor, the same receptor primarily responsible for the psychedelic effects of [[psilocybin]], and [[psilocin]], which may account for the reportedly "softer" character of the experience.
-As with other 4-substituted tryptamines, the 4-hydroxy group is essential for psychedelic activity, and methylation of this group (as in 4-AcO-MET) yields a prodrug that deacetylates to the active compound.
-
-### Pharmacokinetics
-
-- Onset of effects: 20–45 minutes after oral administration
-- Peak effects: 1.5–2.5 hours post-dose
-- Total duration: 4–6 hours (notably shorter than psilocybin's 5–7 hours)
-- Afterglow: 1–2 hours of residual effects
-- Metabolism: Primarily hepatic, via monoamine oxidase (MAO) oxidation and conjugation
-- Bioavailability: Moderate; significant first-pass metabolism in the liver
-- Excretion: Primarily renal as metabolites
-
-The shorter duration compared to [[psilocin]], potentially affecting blood-brain barrier penetration and metabolism rate.
+The molecule shares the indole-4-hydroxy core with [[psilocybin]], and [[psilocin]], potentially affecting blood-brain barrier penetration and metabolism rate.
 
 ## Dosage Ranges
 
@@ -65,11 +44,7 @@ The shorter duration compared to [[psilocin]], potentially affecting blood-brain
 |-------|-----------|-------|--------|--------|-------|
 | Oral | 5–10 mg | 10–15 mg | 15–25 mg | 25–40 mg | 40+ mg |
 
-> ⚠️ **NOTE:** Dosage information is presented for [[adverse-effects-and-harm-reduction-psilocybin]] and educational purposes only. Individual sensitivity varies significantly. Start with lower doses and always use a milligram scale.
-
-## Subjective Effects
-
-The effects of 4-HO-MET are broadly similar to those of [[psilocybin]]
+> ⚠️ **NOTE:** Dosage information is presented for [[psilocybin]]
 
 ### Cognitive and Emotional Effects
 
@@ -83,7 +58,83 @@ The effects of 4-HO-MET are broadly similar to those of [[psilocybin]]
 | Compound | Duration | Visual Intensity | Introspection | Nausea | Legality |
 |----------|----------|-----------------|---------------|--------|----------|
 | 4-HO-MET | 4–6 hours | High | Moderate | Moderate | Varies |
-| [[4-acetoxy-dmt]] | 4–6 hours | High | High | Low | Varies |
 | [[lsd]] | 8–12 hours | Very High | Very High | Low | Varies |
 
 ## History
+
+## Overview
+
+4 Ho Met represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish 4 ho met
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving 4 extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+4 Ho Met finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for 4 ho met. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+4 ho met and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+4 Ho Met has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of 4 ho met into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.

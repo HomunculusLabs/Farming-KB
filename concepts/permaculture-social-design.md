@@ -9,7 +9,7 @@ sources: []
 
 # Permaculture Social Design
 
-Permaculture social design extends [[williams-pdc-ecological-design-principles]] to human social structures — governance, economics, legal frameworks, and [[ozier-pdc-stewardship-mandala-community-organization]]. The three ethics of earth care, people care, and fair share require not just ecological systems thinking but also social systems thinking. A permaculture farm with an exploitative labor practice, unjust land tenure, or extractive economic model fails the core ethics.
+Permaculture social design extends ecological design principles to human social structures — governance, economics, legal frameworks, and community organization. The three ethics of earth care, people care, and fair share require not just ecological systems thinking but also social systems thinking. A permaculture farm with an exploitative labor practice, unjust land tenure, or extractive economic model fails the core ethics.
 
 ## Legal Structures
 
@@ -72,7 +72,7 @@ Permaculture communities need governance systems that are participatory, adaptiv
 - Organized in circles (semi-autonomous teams) with defined roles and domains
 - Double-linking between circles ensures information flow
 - Regular feedback and evaluation cycles
-- Used by many permaculture communities, cooperatives, [[holmgren-community-design-and-intentional-communities]]
+- Used by many permaculture communities, cooperatives, and intentional communities
 
 ### Holacracy
 - Distributed authority through roles and circles
@@ -140,11 +140,11 @@ Cooperatives are enterprises owned and democratically controlled by their member
 2. Democratic member control
 3. Member economic participation
 4. Autonomy and independence
-5. Education, training, and information
-6. Cooperation among cooperatives
-7. Concern for community
 
-### Starting a Permaculture Cooperative
-1. Assemble a core group with shared values and vision
-2. Develop a clear purpose and business plan
-3. Choose a legal structure (cooperative corporation under state law)
+## See Also
+
+- [[dryland-permaculture-strategies]]
+- [[vines-in-desert-permaculture]]
+- [[bill-mollison-permaculture-a-designers-manual-edge-effect-and-ecotone-design]]
+- [[permaculture-principle-use-and-value-renewable-resources]]
+- [[permaculture-ethics-of-permanence]]

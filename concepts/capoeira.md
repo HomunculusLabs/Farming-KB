@@ -63,63 +63,88 @@ Enslaved Africans in Brazil came from many regions, including West Central Afric
 Their languages, cosmologies, combat games, dances, and musical forms contributed to new Afro-Brazilian practices.
 Scholars debate exact origins because written sources are often hostile, fragmentary, or produced by police and elites.
 The word capoeira may refer to brush, cleared vegetation, baskets, or urban contexts depending on etymological interpretation.
-In the [[mckenna-club-des-hachischins-and-nineteenth-century-literary-hashish]], capoeira was strongly associated with Rio de Janeiro street groups, dockworkers, freed people, and marginalized youth.
-Practitioners known as capoeiras appeared in police records, newspapers, and political conflicts.
-Some capoeiras were feared as fighters, bodyguards, gang members, or political agents.
-After Brazilian abolition in 1888, capoeira remained stigmatized by racialized policing.
-The Brazilian Penal Code of 1890 criminalized capoeira practices.
-This criminalization pushed the art into coded, hidden, or negotiated forms.
-In Salvador da Bahia, capoeira maintained strong links with Afro-Brazilian neighborhoods, music, and ritual culture.
-Mestre Pastinha became the most famous twentieth-century defender of Capoeira Angola.
-He emphasized tradition, ritual, philosophy, and the old style of play.
-Mestre Bimba created Luta Regional Baiana, later known as Capoeira Regional.
-Bimba systematized sequences, teaching methods, graduation practices, and public demonstrations.
-He helped secure official recognition by presenting capoeira as a disciplined national art rather than a criminal disorder.
-The Vargas-era search for Brazilian national identity created both opportunities and constraints for Afro-Brazilian cultural forms.
-Capoeira was gradually rebranded as folklore, sport, heritage, and symbol of Brazil.
-This legitimation did not erase racial inequality or the struggles of practitioners.
-In the late [[coleman-louis-savier-twentieth-century-maraicher]], capoeira expanded internationally through migration, tourism, workshops, performances, and cultural exchange.
+In the [[coleman-louis-savier-twentieth-century-maraicher]], capoeira expanded internationally through migration, tourism, workshops, performances, and cultural exchange.
 UNESCO recognized the capoeira roda as intangible cultural heritage in 2014.
 Globalization has created new communities while raising questions about commercialization, appropriation, lineage, and language.
 The art continues to evolve while maintaining deep respect for ancestry and oral transmission.
 Its history is not a straight path from oppression to acceptance, but an ongoing negotiation over power, memory, and belonging.
 
 ## Applications and Significance
-Capoeira develops mobility, coordination, rhythm, balance, flexibility, [[plant-gravitropism-and-spatial-awareness]].
-Its training builds both physical skill and social perception.
-Because the game is improvised, players learn to read intention under uncertainty.
+Capoeira develops mobility, coordination, rhythm, balance, flexibility, [[doc]]
+- [[det]]
+- [[hashish]]
+
+## Overview
+
+Capoeira represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish capoeira
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving capoeira extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
 
 ## Practical Applications
 
-The principles and techniques discussed here have wide-ranging applications
-across multiple disciplines and contexts. Practitioners and researchers
-continue to explore new ways to integrate these concepts into modern practice,
-adapting traditional knowledge to contemporary challenges and opportunities.
+Capoeira finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
 
-## Key Considerations
+## Management and Implementation
 
-Several important factors influence the effectiveness and outcomes described
-in this topic. Understanding these considerations helps practitioners make
-informed decisions and avoid common pitfalls. Environmental conditions,
-timing, and material selection all play critical roles.
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for capoeira. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+capoeira and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
 
 ## Historical Context
 
-The historical development of this subject reflects centuries of accumulated
-knowledge and practical experience. From traditional methods passed down
-through generations to modern scientific approaches, the evolution continues
-to inform current best practices and research directions.
+Capoeira has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
 
-## Common Challenges
+## Integration Strategies
 
-Practitioners frequently encounter several challenges when working with
-these concepts. Climate variability, resource limitations, and knowledge
-gaps can all affect outcomes. Addressing these challenges requires patience,
-observation, and a willingness to adapt approaches based on results.
+Successful integration of capoeira into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
 
-## See Also
-- [[doc]]
-- [[dom]]
-- [[det]]
-- [[gravitropism]]
-- [[hashish]]
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and

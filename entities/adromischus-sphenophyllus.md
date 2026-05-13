@@ -109,13 +109,8 @@ The species is occasionally confused with Adromischus trigynus in the nursery tr
 
 ## See Also
 
-- [[adromischus-cristatus]]
 - [[adromischus-marianiae]]
-- [[adromischus-maculatus]]
 - [[crassula-ovata]]
-- [[haworthia-fasciata]]
 - [[gasteria-verrucosa]]
-- [[cotyledon-orbiculata]]
 - [[echeveria-elegans]]
-- [[pachyphytum-oviferum]]
 - [[kalanchoe-tomentosa]]

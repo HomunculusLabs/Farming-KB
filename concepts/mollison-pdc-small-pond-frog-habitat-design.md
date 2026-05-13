@@ -19,29 +19,19 @@ type: concept
 
 ## Overview
 
-In Pamphlet IX of the [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]] Course, [[bill-mollison]] describes
+In Pamphlet IX of the [[bill-mollison]] describes
 small pond systems as essential components of zone one and zone two
 designs. Beyond their obvious role in water storage and irrigation, small
 ponds serve as critical habitat for frogs and other aquatic organisms
-that provide [[cervantes-biological-pest-control-predators]] control for the surrounding garden. Mollison
-argues that every home garden should include at least one small pond,
-positioned to maximize both its [[phytochrome-ecological-function-dusk-dawn-red-far-red-light-switch]] and its convenience
+that provide [[phytochrome-ecological-function-dusk-dawn-red-far-red-light-switch]] and its convenience
 for the gardener.
 
 ## The Pond as Pest Control Infrastructure
 
-Mollison's primary argument for including ponds [[mollison-barrier-plants-in-garden-design]] is pest
-control. Frogs are among the most effective insect predators in a garden
-ecosystem. A single frog consumes enormous quantities of slugs, beetles,
-mosquitoes, flies, and other [[duggar-mushroom-insect-pests-and-fungal-diseases]]. Mollison states that a
+Mollison's primary argument for including ponds [[duggar-mushroom-insect-pests-and-fungal-diseases]]. Mollison states that a
 well-placed pond can attract enough frogs to provide complete biological
 pest control for the surrounding garden, eliminating or drastically
-reducing the need for any chemical [[cannabis-pest-management-guide]].
-
-The key insight is that frogs need water for breeding and for maintaining
-their skin moisture. Without a permanent water body nearby, frogs cannot
-survive in a garden. By providing even a small pond, the gardener invites
-a resident frog population that works continuously to [[query-how-to-control-pests-without-chemicals]].
+reducing the need for any chemical [[query-how-to-control-pests-without-chemicals]].
 
 ## Mosquito Control Paradox
 

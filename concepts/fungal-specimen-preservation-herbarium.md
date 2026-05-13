@@ -1,42 +1,6 @@
 ---
 title: "Fungal Specimen Preservation and Herbarium Management"
-source: "[[biodiversity-of-fungi-biodiversity-patterns-ecosystems]] (Mueller, Bills & Foster, eds.), Ch. 3, pp. 24–37 — Q. Wu et al."
-tags:
-  - herbarium
-  - specimen-preservation
-  - fungal-collections
-  - museum-management
-  - molecular-sampling
-  - biodiversity-documentation
-extracted: "2026-05-11"
----
-
-# Fungal Specimen Preservation and Herbarium Management
-
-## Overview
-
-Herbaria are permanent repositories for fungal specimens, documenting species
-distributions, providing historical baselines for measuring environmental
-change, and enabling retrospective molecular analyses. Proper preservation and
-curation are essential to ensure specimens remain accessible and informative
-for research across decades or centuries. Management involves careful attention
-to collection protocols, preservation methods, storage conditions, and the
-growing demand for molecular sampling of historical material.
-
-## The Role of Herbaria
-
-Herbaria are foundational for fungal biodiversity science. They document species
-occurrence, track distribution shifts, and record changes in species
-composition. By maintaining physical voucher specimens linked to detailed
-collection data, herbaria provide the baseline for measuring impacts of climate
-change, habitat destruction, and pollution on fungal communities. Historical
-specimens enable retrospective studies impossible by other means—tracking
-emergence of new pathogenic strains or documenting genetic changes in
-populations over time.
-
-## Essential Collection Data
-
-Every [[biodiversity-of-fungi-herbarium-specimen-curation-best-practices]] must be accompanied by comprehensive metadata:
+source: "[[biodiversity-of-fungi-herbarium-specimen-curation-best-practices]] must be accompanied by comprehensive metadata:
 
 - **Locality**: Geographic location, preferably with GPS coordinates.
 - **Habitat**: Ecological context (forest type, grassland, wetland, etc.).
@@ -63,52 +27,7 @@ and degrades DNA.
 
 ### Plant Pathogens
 
-Fungal pathogens may be preserved as dried [[herbarium-specimens-fungal-collections]] of infected host
-material, cultures on agar slants, or lyophilized (freeze-dried) mycelial
-preparations. Each method has different implications for DNA preservation and
-morphological study.
-
-### Lichens
-
-Lichens are air dried and stored flat in packets or on herbarium sheets.
-Preservation must maintain both fungal and photobiont partners. Prolonged light
-exposure can degrade photobiont pigments, but lichens generally preserve well
-under standard herbarium conditions.
-
-## Air Drying vs. Chemical Fixation
-
-The preservation method directly affects molecular utility:
-
-- **Air drying** preserves DNA satisfactorily. Air-dried specimens retain
-  amplifiable DNA even after decades, suitable for PCR and sequencing.
-- **Chemical fixation** (formalin, FAA) alters DNA through cross-linking and
-  fragmentation, often rendering it unsuitable for molecular analysis.
-  Chemically fixed specimens retain morphological value but are poor DNA
-  sources.
-
-For collections intended for molecular work, air drying is strongly preferred.
-
-## Risks to Specimen Integrity
-
-Herbarium specimens face several threats:
-
-- **Mold damage**: Fungal contamination is ongoing, particularly in humid
-  climates or facilities lacking climate control. Mold destroys morphological
-  features and introduces foreign DNA contaminating molecular analyses.
-- **Foreign DNA contamination**: Multiple researcher handling and environmental
-  exposure introduce exogenous DNA onto surfaces, producing spurious molecular
-  results.
-- **Humidity control**: Humidity fluctuations accelerate degradation. Herbaria
-  must maintain stable, low-humidity environments for morphological and
-  molecular integrity.
-
-## Molecular Sampling of Herbarium Specimens
-
-Growing demand for DNA from historical specimens creates tension between
-preservation and molecular access. Seven rules govern molecular sampling:
-
-1. **Specimen-by-specimen permission**: Each specimen individually approved
-   for [[fungal-destructive-sampling-herbarium-dna-extraction]] by curatorial authority.
+Fungal pathogens may be preserved as dried [[fungal-destructive-sampling-herbarium-dna-extraction]] by curatorial authority.
 2. **Partial sampling only**: Minimum tissue necessary; complete destruction
    prohibited.
 3. **Annotate remaining specimen**: Clearly annotate tissue removed, by whom,
@@ -136,14 +55,90 @@ Herbaria manage specimen flow through several transaction types:
 
 Herbaria provide irreplaceable baseline data for measuring environmental
 change. Comparing historical records with contemporary surveys documents
-shifts in distributions, changes in [[core-endorhiza-bacterial-community-composition-cannabis]], and responses to
-anthropogenic disturbances. This temporal dimension is unique to herbarium
-collections.
-
-## Summary
-
-Proper fungal specimen preservation and herbarium management are essential for
-documenting fungal biodiversity and providing temporal baselines for
-understanding environmental change. Air drying, comprehensive metadata, careful
-molecular [[lichen-biodiversity-sampling-protocols-data-analysis]], and robust storage ensure collections remain
+shifts in distributions, changes in [[lichen-biodiversity-sampling-protocols-data-analysis]], and robust storage ensure collections remain
 valuable scientific resources for generations.
+
+## Overview
+
+Fungal Specimen Preservation Herbarium represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish fungal specimen preservation herbarium
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving fungal extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Fungal Specimen Preservation Herbarium finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for fungal specimen preservation herbarium. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+fungal specimen preservation herbarium and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Fungal Specimen Preservation Herbarium has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of fungal specimen preservation herbarium into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[fungal-salt-tolerance-and-ion-homeostasis]]
+- [[fungal-woronin-bodies-and-septal-pore-organization]]
+- [[plant-fungal-signaling-mycorrhiza]]
+- [[singh-fungal-alkane-metabolism-pathways]]
+- [[singh-scaling-fungal-remediation-lab-to-field]]

@@ -13,7 +13,7 @@ The tobacco smoked by modern consumers bears little resemblance to the powerful
 shamanic plant used by indigenous peoples of the Americas for millennia. Terence
 McKenna, in Food of the Gods, traces the transformation of tobacco from Nicotiana
 rustica — a potent, chemically complex, and potentially hallucinogenic species
-central to Maya shamanism — to Nicotiana tabacum, the milder commercial variety
+central to Maya shamanism — to [[nicotiana-tabacum]], the milder commercial variety
 that conquered Europe in the form of the cigarette. This transformation illustrates
 a broader pattern McKenna identifies: the process by which powerful psychoactive
 plants are diluted, domesticated, and commercialized as they pass through
@@ -21,17 +21,8 @@ successive cultures.
 
 ## Shamanic Tobacco: Nicotiana Rustica
 
-Tobacco smoking was widespread in [[guzman-psilocybin-mushrooms-north-america]] at the time of European contact.
-The high culture of the Maya, which flourished until the mid-800s in Mesoamerica,
-had an old and complex relationship with tobacco. The tobacco of the Classical Maya
-was [[nicotiana-rustica]], a species that is still in use among aboriginal populations
-in [[guzman-psilocybin-mushrooms-south-america]] today. This species is considerably more potent, chemically
-complex, and potentially hallucinogenic than the commercial grades of Nicotiana
-tabacum available today. The difference between the two species is profound.
-
-The wild tobacco was cured and rolled into cigars which were then smoked. The
-trancelike state that followed was partially synergized by the presence of
-compounds that included MAO (monoamine oxidase) inhibitors. These [[mao-inhibitors-and-psychedelics]]
+Tobacco smoking was widespread in [[nicotiana-rustica]], a species that is still in use among aboriginal populations
+in [[mao-inhibitors-and-psychedelics]]
 were central to the shamanism of the Maya, enhancing and prolonging the psychoactive
 effects of the tobacco alkaloids. Recently introduced antidepressants of the MAO
 inhibitor type are, in McKenna's analysis, distant synthetic relatives of these

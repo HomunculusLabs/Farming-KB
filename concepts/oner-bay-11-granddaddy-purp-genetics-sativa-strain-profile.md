@@ -7,11 +7,11 @@ type: concept
 tags: [cannabis, sativa, strain-profile, bay-11, granddaddy-purp-genetics, medical-cannabis, California]
 ---
 
-[[cannabis-strain-bay-11-medical-sativa-granddaddy-purp]]1[[chupacabra-strain-profile-sickmeds-oner]] le (Granddaddy Purp Genetics)
+[[chupacabra-strain-profile-sickmeds-oner]] le (Granddaddy Purp Genetics)
 
 ## Overview
 
-Bay 11 is a sativa-dominant strain bred by Granddaddy Purp Genetics, a Califor [[seed-company-supplier-reference]] pany best known for creating the legend [[grand-daddy-blue-dream-sativa-hybrid-strain]] addy Purp. Bay 11 represents the company's expansion beyond its signature purple strain, demonstrating that their breeding expertise extends across a broader genetic range. The strain has won awards and captured significant attenti [[psilocybin-in-the-counter-culture]] the California cannabis community for its potent medical [[bay-11-medical-sativa-granddaddy-purp-pain-relief-oner]] effects and exceptional outdoor yields.
+Bay 11 is a sativa-dominant strain bred by Granddaddy Purp Genetics, a Califor [[grand-daddy-blue-dream-sativa-hybrid-strain]] addy Purp. Bay 11 represents the company's expansion beyond its signature purple strain, demonstrating that their breeding expertise extends across a broader genetic range. The strain has won awards and captured significant attenti [[bay-11-medical-sativa-granddaddy-purp-pain-relief-oner]] effects and exceptional outdoor yields.
 
 ## Breeder Information
 
@@ -20,9 +20,7 @@ Bay 11 is a sativa-dominant strain bred by Granddaddy Purp Genetics, a Califor [
 - **Genetics**: Classified as "Unknown Sativa" (proprietary breeding)
 - **Availability**: Seeds available through Granddaddy Purp Genetics
 
-## L [[cannabis-seed-banks-and-genetics]] enetics
-
-The exact genetic lineage of Bay 11 is kept secret by Granddaddy Purp Genetics, described only as a "sativa-dominant bred from secret sources." This proprietary approach is common among commercial breeders protecting their intellectual property. Based on its growth characteristics, effects profile, and the breeder's California origins, Bay 11 likely incorporates genetics from classic West Coast sativa lines. (see [[east-coast-sour-diesel-clone-lineage-chemdawg-family-tree]]).
+## L [[east-coast-sour-diesel-clone-lineage-chemdawg-family-tree]]).
 
 ## Growth Characteristics
 

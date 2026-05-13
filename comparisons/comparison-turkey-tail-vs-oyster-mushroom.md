@@ -17,15 +17,7 @@ powerhouse with clinically validated cancer adjunct compounds (PSK and PSP),
 while oyster mushrooms are celebrated as one of the easiest culinary mushrooms
 to cultivate, with notable cholesterol-lowering and immune-supporting properties.
 
-Both species contain [[beta-glucans|beta-glucans]]
-and share overlapping immune-modulating effects, but their applications, growing
-methods, and bioactive compound profiles differ significantly. Understanding
-these distinctions helps growers and health-conscious consumers choose the right
-mushroom for their goals.
-
-## Turkey Tail
-
-[[turkey-tail-trametes-versicolor]]
+Both species contain [[turkey-tail-trametes-versicolor]]
 
 Turkey tail is a bracket polypore found on dead hardwood logs on every continent
 except Antarctica. Its fruiting bodies are thin, leathery, and display concentric
@@ -35,28 +27,7 @@ directly — it is consumed exclusively as tea, tincture, or encapsulated extrac
 
 ### Medicinal Profile
 
-Turkey tail is the most extensively researched [[medicinal-mushroom-guide-turkey-tail|medicinal mushroom]] for immune
-support and cancer adjunct therapy. Its signature compounds, PSK (polysaccharide-K)
-and PSP (polysaccharide-peptide), are approved pharmaceutical drugs in Japan and
-China respectively. PSK has been prescribed alongside chemotherapy since 1977,
-with meta-analyses showing 5-15% improvement in five-year survival rates for
-gastric, colorectal, breast, and lung cancers.
-
-Beyond cancer support, turkey tail acts as a broad-spectrum immunomodulator. It
-activates macrophages, natural killer (NK) cells, dendritic cells, and T-lymphocytes.
-Its polysaccharides function as prebiotics, promoting beneficial gut bacteria that
-produce short-chain fatty acids linked to immune regulation.
-
-### Cultivation
-
-Turkey tail can be cultivated on hardwood logs, sawdust blocks, and supplemented
-substrates, but its fruiting bodies are modest and slow-growing compared to oyster
-mushrooms. Most commercial production focuses on mycelial biomass for extract
-manufacturing rather than fruiting body harvest. Substrate selectivity is moderate
-— it prefers hardwood sawdust supplemented with bran.
-## Oyster Mushroom
-
-[[oyster-mushroom-pleurotus-ostreatus]]
+Turkey tail is the most extensively researched [[oyster-mushroom-pleurotus-ostreatus]]
 
 Oyster mushrooms are among the most widely cultivated edible mushrooms globally.
 Named for their oyster shell-shaped caps, they grow in shelf-like clusters on
@@ -67,21 +38,7 @@ and culinary uses.
 ### Medicinal and Nutritional Profile
 
 While primarily a culinary mushroom, oyster mushrooms possess significant
-medicinal properties documented in the [[medicinal-mushroom-guide-oyster|oyster medicinal guide]].
-They naturally produce lovastatin (the same active compound as the prescription
-drug Mevacor) at concentrations of 1-10 mg/g dried weight, making them one of
-the most effective natural cholesterol-lowering foods. Clinical studies show
-10-25% reductions in total cholesterol with regular consumption.
-
-Oyster mushrooms are also rich in ergothioneine (a powerful antioxidant),
-pleuran (a specific beta-glucan with immune-enhancing effects), and lectins
-with anti-tumor activity. Their nutritional profile is impressive: 15-25%
-protein by dry weight, all essential amino acids, B vitamins, and minerals
-including potassium, phosphorus, iron, and zinc.
-
-### Cultivation
-
-[[oyster-mushroom-cultivation|Oyster cultivation]] is among the easiest of all
+medicinal properties documented in the [[oyster-mushroom-cultivation|Oyster cultivation]] is among the easiest of all
 mushroom growing methods. They are aggressive colonizers that grow on an
 extraordinary range of substrates — straw, sawdust, coffee grounds, cardboard,
 agricultural waste, and even cottonseed hulls. Pasteurization (not sterilization)
@@ -127,24 +84,6 @@ integrate easily into daily meals.
 Oyster mushrooms are also the clear choice for home cultivators and small-scale
 growers. Their rapid growth, substrate flexibility, and high yields make them
 the ideal beginner mushroom. The spent substrate can be composted, used as
-animal feed, or applied in [[cotter-mycoremediation-overview|mycoremediation]] projects,
-adding a permaculture dimension to their cultivation.
-## Combined Use
-
-Turkey tail and oyster mushrooms complement each other well in a holistic health
-protocol. Oyster mushrooms provide daily dietary nutrition, cardiovascular support,
-and gentle immune stimulation through food, while turkey tail extracts deliver
-concentrated, clinically validated immune modulation as a supplement. Together
-they cover both food-based and therapeutic approaches to mushroom wellness.
-
-For cultivators, growing both species creates a diversified operation: oyster
-mushrooms generate quick revenue through fresh culinary sales, while turkey tail
-substrate blocks mature more slowly into higher-value extract products. The
-different substrate preferences also allow efficient use of available materials.
-## See Also
-
-- [[medicinal-mushroom-guide-turkey-tail]]
-- [[medicinal-mushroom-guide-oyster]]
+animal feed, or applied in [[medicinal-mushroom-guide-turkey-tail]]
 - [[oyster-mushroom-cultivation]]
-- [[turkey-tail-trametes-versicolor]]
 - [[comparison-shiitake-vs-oyster-cultivation]]

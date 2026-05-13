@@ -19,7 +19,7 @@ sources:
 
 ## Overview
 
-Grimmia pulvinata, commonly known as the cushion moss or pulvinate grimmia, is a saxicolous acrocarpous moss in the family Grimmiaceae. It is one of the most commonly encountered mosses on stone walls, roofs, and exposed rock surfaces in temperate regions worldwide.
+Grimmia pulvinata, commonly known as the cushion moss or pulvinate grimmia, is a saxicolous acrocarpous moss in the family Grimmiaceae. It is one of the most commonly encountered mosses on stone walls, roofs, and exposed rock surfaces in [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]] worldwide.
 
 The species forms distinctive hemispherical cushions that give it a characteristic pillow-like appearance. Its preference for calcareous substrates and tolerance of exposed conditions make it a ubiquitous feature of built environments and natural rock outcrops.
 
@@ -45,13 +45,13 @@ Capsules are produced frequently in response to moist conditions. The seta is sh
 
 ## Distribution and Habitat
 
-G. pulvinata has a nearly cosmopolitan distribution in temperate regions. It occurs throughout Europe, North America, East Asia, and parts of Africa, South America, and Australasia.
+G. pulvinata has a nearly [[guzman-allen-gartz-psilocybe-semilanceata-temperate-cosmopolitan-distribution]] in temperate regions. It occurs throughout Europe, [[guzman-psilocybin-mushrooms-north-america]], East Asia, and parts of Africa, South America, and Australasia.
 
-The species is less common in tropical regions but occurs at montane elevations in Southeast Asia and [[guzman-allen-gartz-neurotropic-fungi-central-america-caribbean]]. In the [[guzman-allen-gartz-africa-southern-hemisphere-underexplored-neurotropic-fungi]], populations are established in New Zealand, southeastern Australia, and southern South America.
+The species is less common [[fukuoka-natural-farming-in-tropical-regions]] but occurs at montane elevations in Southeast Asia and [[guzman-allen-gartz-africa-southern-hemisphere-underexplored-neurotropic-fungi]], populations are established in New Zealand, southeastern Australia, and southern South America.
 
 The species is strongly saxicolous, growing almost exclusively on stone substrates. It is exceptionally common on mortared brick walls, concrete structures, and roofing tiles in urban and suburban environments.
 
-Natural habitats include exposed limestone outcrops, cliff faces, boulders, and scree slopes. The species shows a strong preference for base-rich and calcareous rock types.
+[[mushroom-natural-habitats]] include exposed limestone outcrops, cliff faces, boulders, and scree slopes. The species shows a strong preference for base-rich and calcareous rock types.
 
 Elevation range extends from sea level to approximately 2,500 meters in mountainous areas. At higher elevations, it occupies exposed ridge-top rock faces and alpine boulder fields.
 
@@ -67,19 +67,11 @@ Vegetative reproduction occurs through fragmentation of cushion branches. Detach
 
 The dense cushion growth form reduces water loss through reduced surface-area-to-volume ratio. This morphological adaptation is key to the species' success on exposed, water-limited substrates.
 
-The species supports a diverse microbiome within its cushions, including cyanobacteria, algae, and fungi. These microorganisms contribute to initial soil formation through biochemical weathering of the underlying rock.
+The species supports a diverse microbiome within its cushions, including cyanobacteria, algae, and fungi. These microorganisms contribute to initial soil formation through [[fungal-biomechanical-biochemical-weathering-mechanisms-gadd]] of the underlying rock.
 
 In urban ecosystems, G. pulvinata is one of the most abundant mosses on building surfaces. Its presence on historic masonry is well-documented, though it can contribute to substrate deterioration through rhizoid penetration.
 
-Invertebrate fauna associated with G. pulvinata cushions include tardigrades, nematodes, and various microarthropods. These communities contribute to [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] within the moss microecosystem.
-
-## Physiological Adaptations
-
-The species exhibits moderate desiccation tolerance, surviving extended dry periods in a dormant state. Recovery of photosynthetic function occurs within 30–60 minutes of rehydration.
-
-The hyaline leaf awn may function as a light-scattering structure, reducing excess irradiance on exposed rock surfaces. This photoprotective role is analogous to hair points in other xerophytic moss genera.
-
-G. pulvinata shows tolerance of elevated calcium concentrations that would be toxic to many other moss species. Cellular mechanisms for calcium tolerance include vacuolar sequestration and precipitation as [[fungal-calcium-oxalate-crystals]] crystals.
+Invertebrate fauna associated with G. pulvinata cushions include tardigrades, nematodes, and various microarthropods. These communities contribute to [[fungal-calcium-oxalate-crystals]] crystals.
 
 The species can withstand extreme temperature fluctuations on exposed rock surfaces, from below freezing at night to over 50°C in direct sun. This thermotolerance is mediated by heat-shock protein expression.
 

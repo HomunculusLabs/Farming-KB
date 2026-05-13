@@ -17,11 +17,7 @@ Many women experience menstrual irregularities including absent periods (amenorr
 
 Vitex (Vitex agnus-castus), also called chasteberry or chaste tree berry, is the most important herb for menstrual cycle regulation. It works primarily on the pituitary gland, modulating the ratio of progesterone to estrogen by increasing luteinizing hormone (LH) production and decreasing follicle-stimulating hormone (FSH). This normalizing effect on the hypothalamic-pituitary-ovarian axis makes vitex effective for a wide range of menstrual irregularities.
 
-[[mushroom-cancer-clinical-trials-overview]] support vitex for premenstrual syndrome, with studies showing significant reductions in breast tenderness, mood disturbances, bloating, and headache. Vitex is most effective when taken consistently for at least three menstrual cycles. It is taken as a tincture, capsule, or standardized extract, typically in the morning on an empty stomach.
-
-Dong quai (Angelica sinensis) is the most important herb in Traditional Chinese Medicine for women's health. It is called "female ginseng" and is used to tonify the blood, regulate menstruation, and relieve menstrual pain. Dong quai has both antispasmodic and blood-moving properties. It contains coumarins and should be used cautiously with anticoagulant medications.
-
-Black cohosh (Actaea racemosa, formerly Cimicifuga racemosa) is primarily known for menopause symptoms but is also used for menstrual cramps and irregular periods. Its triterpene glycosides have antispasmodic and anti-inflammatory effects on uterine smooth muscle. Black cohosh is well-researched and has an excellent [[cannabis-safety-profile-and-overdose-risk]] when used at recommended doses for up to six months.
+[[cannabis-safety-profile-and-overdose-risk]] when used at recommended doses for up to six months.
 
 ## Pain-Relieving Herbs for Menstruation
 
@@ -43,7 +39,7 @@ Vitex is the first-line herb for PMS, particularly for symptoms related to proge
 
 St. John's Wort (Hypericum perforatum) is specifically effective for the mood-related symptoms of PMS. Clinical trials have demonstrated its efficacy for premenstrual depression and irritability. St. John's Wort should not be combined with oral contraceptives or SSRIs due to interactions.
 
-Dandelion root supports liver function and hormone metabolism. The liver is responsible for breaking down and eliminating excess hormones, and sluggish liver function can contribute to PMS symptoms. Dandelion root as a decoction or tincture supports this process. See [[herbal-medicine-safety]] page provides general [[psychedelic-safety-guidelines-turner]].
+Dandelion root supports liver function and hormone metabolism. The liver is responsible for breaking down and eliminating excess hormones, and sluggish liver function can contribute to PMS symptoms. Dandelion root as a decoction or tincture supports this process. See [[psychedelic-safety-guidelines-turner]].
 
 ## Menopause Support Herbs
 
@@ -67,9 +63,8 @@ Modern herbal contraception research has focused on neem (Azadirachta indica), w
 
 Many women's health herbs affect hormone levels and uterine tone. Herbs with emmenagogue properties should be avoided during pregnancy unless prescribed by a qualified practitioner. Herbs with estrogenic activity should be used cautiously by individuals with estrogen-sensitive conditions or hormone-dependent cancers.
 
-Always consult the [[herbal-formulation-principles]] for dosing information and [[herbal-materia-medica]] — Individual herb profiles for women's health
-- [[herbal-medicine-safety]] — [[shulgin-safety-principles-self-experimentation]] for women's health herbs
-- [[nervine-herbs-and-anxiety-relief]] — Nervine support for PMS and menopause
+Always consult the [[herbal-materia-medica]] — Individual herb profiles for women's health
+- [[shulgin-safety-principles-self-experimentation]] for women's health herbs
 - [[cardiovascular-herbs]]
 - [[medicinal-mushroom-antioxidant-anti-inflammatory]]
 ## Practical Considerations

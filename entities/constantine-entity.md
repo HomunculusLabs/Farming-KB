@@ -75,7 +75,7 @@ sacraments. This served multiple political purposes:
 - Created dependency on institutional religion for spiritual access
 - Eliminated independent spiritual practitioners (shamans, mystics) as power
   rivals
-- Enabled the "doctrine of Transubstantiation" — priests claiming to
+- Enabled the "doctrine of [[transubstantiation]]" — priests claiming to
   magically transform bread into the body of God — as a control mechanism
 - Made the population easier to govern by removing transformative consciousness-
   expanding experiences
@@ -83,10 +83,7 @@ sacraments. This served multiple political purposes:
 ### Preservation of Symbolism
 
 Despite the suppression, Constantine's compilation process inadvertently
-preserved extensive [[allegro-cross-and-mushroom-symbolism]] in the biblical texts:
-
-- Manna references (Exodus, John, Revelation)
-- Fruit of the [[stropharia-cubensis-tree-of-knowledge]]/Life
+preserved extensive [[stropharia-cubensis-tree-of-knowledge]]/Life
 - Sacramental ingestion language (body and blood)
 - Visionary experiences (Ezekiel, Revelation)
 - Parables about seeds, growth, and harvesting
@@ -104,9 +101,7 @@ Constantine's approach set a template repeated throughout history:
   (traditional plant knowledge practitioners)
 - **Central American conquest:** An estimated 20 million indigenous people
   killed, nearly exterminating Aztec/Inca/Mayan entheogenic traditions
-- **[[growing-gourmet-north-american-reishi-species]] colonization:** Similar destruction of indigenous spiritual
-  practices
-- **Modern prohibition:** The "[[cervantes-war-on-drugs-statistics]]" continues the same pattern of
+- **[[cervantes-war-on-drugs-statistics]]" continues the same pattern of
   suppressing entheogenic plant knowledge
 
 ## The Bible as Historical Document
@@ -131,20 +126,4 @@ gain. Understanding this pattern is essential for:
 
 - Recognizing why entheogenic traditions appear "hidden" in religious texts
 - Appreciating the political forces that shaped modern religious practice
-- Understanding the [[ghouled-field-guide-historical-context]] of current prohibition laws
-- Evaluating claims about religious authenticity and tradition
-
-## Key Facts
-
-- Roman Emperor 306–337 CE
-- Created unified state religion from diverse entheogenic traditions
-- Council compilation process created the Catholic Bible
-- Systematically removed but could not eliminate all mushroom symbolism
-- Established template for religious-political control that persists today
-- Political motivation: control of population through monopoly on divine access
-- The Catholic ("universal") Church was explicitly designed as "One World
-  Religion"
-
-## See Also
-
-- [[john-allegro]] — Scholar who decoded the surviving mushroom references
+- Understanding the [[john-allegro]] — Scholar who decoded the surviving mushroom references

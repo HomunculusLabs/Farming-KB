@@ -108,13 +108,8 @@ The species has also been studied as a bioindicator for heavy metal contaminatio
 
 ## See Also
 
-- [[dryopteris-filix-mas]]
 - [[dryopteris-carthusiana]]
-- [[dryopteris-marginalis]]
 - [[dryopteris-goldiana]]
-- [[dryopteris-affinis]]
 - [[athyrium-filix-femina]]
-- [[polystichum-acrostichoides]]
 - [[blechnum-spicant]]
-- [[gymnocarpium-dryopteris]]
 - [[polypodium-vulgare]]

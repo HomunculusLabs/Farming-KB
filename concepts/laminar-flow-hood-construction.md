@@ -6,17 +6,7 @@ type: concept
 
 # Laminar Flow Hood Construction
 
-A laminar flow hood is an enclosed workspace designed to maintain a sterile environment by continuously passing filtered air across the work surface. It is essential for [[cervantes-tissue-culture-micropropagation]], mycology, pharmaceutical work, and any application requiring contamination-free conditions. The device uses a combination of a pre-filter pad, a blower fan, and a HEPA (High Efficiency Particulates Air) filter to remove airborne contaminants including fungi, bacteria, and dust.
-
-## How a Laminar Flow Hood Functions
-
-The operational principle is straightforward: ambient air is drawn in by the blower and forced through a filter pad that traps large dust particles. The pre-filtered air then passes through the HEPA filter, which removes 99.9% of remaining airborne materials including microorganisms and fine particulates. The resulting sterile air flows in a laminar (non-turbulent) stream into the working area, creating a contamination-free zone.
-
-### Critical Performance Parameters
-
-Two parameters determine whether a hood functions efficiently:
-
-1. **HEPA filter efficiency** — must remove all airborne materials, classified as H14 according to EN 1822 (99.995% efficiency at most penetrating [[vermiculite-particle-size-water-retention-calibration-pf-tek]])
+A laminar flow hood is an enclosed workspace designed to maintain a sterile environment by continuously passing filtered air across the work surface. It is essential for [[vermiculite-particle-size-water-retention-calibration-pf-tek]])
 2. **Airflow velocity** — must maintain approximately 0.5 m/s in the working area; too slow and contaminants can drift in, too fast and turbulence disrupts the laminar flow
 
 ## Flow Configurations
@@ -74,17 +64,7 @@ Volumetric flow = area × velocity
 
 ### Selecting the Blower
 
-With the required airflow (335 m³/h) and pressure drop (~150 Pa for the HEPA plus ~10–20 Pa for the pre-filter), select a [[centrifugal-blower-g2e140]] whose performance curve intersects this operating point. It is advisable to choose a blower rated slightly above the calculated requirement because:
-
-1. The pre-filter adds resistance that increases over time as it collects dust
-2. HEPA filter pressure drop increases as the filter loads with particulates
-3. It is easier to restrict (damper) an oversized blower than to boost an undersized one
-
-A typical choice is a centrifugal blower such as the Ziehl-ebm G2E140-AI28-01 or equivalent.
-
-## Construction
-
-The hood body is typically built from 19 mm press board or similar sheet material. Key [[mycoremediation-bioreactor-design-considerations]]:
+With the required airflow (335 m³/h) and pressure drop (~150 Pa for the HEPA plus ~10–20 Pa for the pre-filter), select a [[mycoremediation-bioreactor-design-considerations]]:
 
 - **Top panel**: Transparent plexiglass to maximize light in the working area
 - **Sealed enclosure**: All joints must be airtight to prevent unfiltered air bypassing the HEPA filter
@@ -117,11 +97,5 @@ Proper use is critical to maintaining sterility:
 - Work slowly and deliberately to minimize air turbulence
 - Keep hands downstream of (or at the same level as) the work materials in horizontal-flow hoods
 - Replace pre-filter pads regularly (monthly under heavy use)
-- HEPA filters typically last 3–5 years depending on use and ambient [[bloomfield-stachybotrys-indoor-mold-trichothecenes-air-quality]]
-- Periodically verify airflow velocity with an anemometer
-
-## See Also
-
-- [[growing-gourmet-hepa-filtration-laboratory-air-systems]]
-- [[cultivator-sterile-technique-and-agar-culture]]
+- HEPA filters typically last 3–5 years depending on use and ambient [[growing-gourmet-hepa-filtration-laboratory-air-systems]]
 - [[mushroom-cultivation-equipment-sourcing-jarrold]]

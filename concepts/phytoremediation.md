@@ -19,9 +19,8 @@ engineering remediation methods.
 ## Mechanisms
 
 **Phytoextraction** involves the uptake and accumulation of contaminants
-into above-ground plant tissues. It is primarily used for [[fungal-biosorption-of-heavy-metals-by-filamentous-fungi]]
-(lead, cadmium, nickel, zinc, arsenic) and relies on [[mycorrhizal-fungi]] extending from plant roots dramatically increase the effective soil volume explored for contaminants and can directly degrade organic pollutants. White-rot fungi ([[pleurotus-ostreatus]]) produce lignin-degrading enzymes including [[fungal-manganese-peroxidase-remediation]], [[fungal-lignin-peroxidase-veratryl-alcohol]], and laccase that can [[query-can-fungi-break-down-plastic-pollution]] persistent organic pollutants including [[singh-fungal-biodegradation-of-polycyclic-aromatic-hydrocarbons]] hydrocarbons (PAHs), polychlorinated biphenyls (PCBs), and certain pesticides. See [[hyperaccumulator-plants]] for metal phytoextraction species
-- [[ligninolytic-enzymes-bioremediation]] for [[cotter-pet-livestock-waste-fungal-remediation-systems]]
+into above-ground plant tissues. It is primarily used for [[mycorrhizal-fungi]] extending from plant roots dramatically increase the effective soil volume explored for contaminants and can directly degrade organic pollutants. White-rot fungi ([[fungal-manganese-peroxidase-remediation]], [[query-can-fungi-break-down-plastic-pollution]] persistent organic pollutants including [[hyperaccumulator-plants]] for metal phytoextraction species
+- [[cotter-pet-livestock-waste-fungal-remediation-systems]]
 - [[mycorrhizal-fungi]] for plant-fungal partnerships
 ## Practical Applications
 

@@ -18,10 +18,7 @@ sources:
 
 ## Overview
 
-*Serpula lacrymans* is a basidiomycete fungus notorious as the causative agent of dry rot in buildings. Commonly called the dry rot fungus, it is one of the most destructive fungi environment [[mycelium]] is the primary diagnostic feature encountered in building inspections. It forms:
-
-- **White, cottony sheets** spreading over masonry, timber, and plaster
-- **Strands (rhizomorphs)**: Thick, fleshy, white to grayish cords that conduct water and nutrients over considerable distances (meters). These are the primary mechanism for moisture transport through otherwise dry [[natural-building-materials-guide]]
+*Serpula lacrymans* is a basidiomycete fungus notorious as the causative agent of dry rot in buildings. Commonly called the dry rot fungus, it is one of the most destructive fungi environment [[natural-building-materials-guide]]
 - **Fruiting bodies (sporophores)**: Plate-like or bracket-shaped, rust-colored to ochre, with wrinkled pore surfaces. Produce massive basidiospore loads that give affected rooms a characteristic reddish-brown dust
 
 ### Decay Characteristics
@@ -34,18 +31,14 @@ Causes **brown rot**, characterized by:
 
 ## Brown Rot Mechanism
 
-*S. lacrymans* employs a Fenton chemistry-based decay system rather than the extensive [[dighton-fungal-extracellular-enzyme-systems-decomposition]] suites used [[singh-fungal-degradation-endocrine-disrupting-compounds]] pcbs. The mechanism involves:
+*S. lacrymans* employs a Fenton chemistry-based decay system rather than the extensive [[singh-fungal-degradation-endocrine-disrupting-compounds]] pcbs. The mechanism involves:
 
 1. Secretion of low-molecular-weight iron-reducing compounds (e.g., oxalic acid, 2,5-dimethoxyhydroquinone)
 2. Reduction of Fe³⁺ to Fe²⁺
 3. Generation of hydroxyl radicals (•OH) via and biochemistry: Fe²⁺ + H₂O₂ → Fe³⁺ + •OH + OH⁻
 4. Hydroxyl radicals non-enzymatically cleave cellulose chains and hemicellulose
 
-This extracellular radical-based system is highly efficient at depolymerizing crystalline cellulose and allows the fungus to reach deep into wood alpha [[alpha-1-3-glucan-fungal-pathogen-cell-walls]] without requiring direct contact.
-
-## Ecological Niche
-
-Interestingly, *S. lacrymans* is rarely found in natural forest environments. It is thought to have evolved from forest-inhabiting ancestors (possibly *Serpula himantioides*) and adapted to the [[artillery-fungus-and-built-environment-fungi]]. Its natural niche may be in specific microhabitats such as high-altitude conifer forests in mountainous regions of Central Asia (the Himalayas), where its closest wild relatives are found.
+This extracellular radical-based system is highly efficient at depolymerizing crystalline cellulose and allows the fungus to reach deep into wood alpha [[artillery-fungus-and-built-environment-fungi]]. Its natural niche may be in specific microhabitats such as high-altitude conifer forests in mountainous regions of Central Asia (the Himalayas), where its closest wild relatives are found.
 
 ## Building Management
 
@@ -62,7 +55,6 @@ Modern building codes emphasize moisture control over chemical treatment, recogn
 
 ## See Also
 
-- [[serpula-himantioides]]
 - [[dry-rot-fungi-serpula-meruliporia]]
 ## Practical Considerations
 
@@ -82,3 +74,77 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
+
+## Overview
+
+Serpula Lacrymans represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish serpula lacrymans
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving serpula extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Serpula Lacrymans finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for serpula lacrymans. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+serpula lacrymans and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Serpula Lacrymans has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of serpula lacrymans into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource

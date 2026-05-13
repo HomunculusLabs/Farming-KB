@@ -45,30 +45,13 @@ and fuel.
 
 Passes steam through a sealed chamber containing the substrate. Bulk
 operations use insulated pasteurization rooms or tunnels where compost
-or [[oyster-mushroom-supplemented-sawdust-blocks]] blocks reach target temperatures throughout
-their mass. Commercial rooms are typically 50-500 square feet with steam
-pipes and perforated distribution ducts. Substrate is loaded on racks or
-pallets. Temperatures are raised to 60-65 degrees C and held for 8-12
-hours. Temperature monitoring uses multiple probes, since the coldest
-spot determines whether pasteurization is complete.
-
-### Hydrated Lime Treatment
-
-A cold pasteurization alternative for straw. Soaking straw in hydrated
-lime (calcium hydroxide) at pH 12-13 for 12-18 hours destroys most
-competitors through alkalinity rather than heat. The typical ratio is
-200-400 grams of hydrated lime per 100 liters of water. After draining,
-the straw should be inoculated within a few hours as the pH drops
-naturally. Lime pasteurization works best with wheat and [[fukuoka-rice-straw-mulch-central-technique]];
+or [[fukuoka-rice-straw-mulch-central-technique]];
 hardwood sawdust is less reliably treated due to its denser structure.
 
 ### Cold Water Fermentation
 
 Submerging substrate in cold water for 3-14 days. During anaerobic
-fermentation, lactic [[lactic-acid-bacteria-knf]] acidify the substrate to pH 4-5,
-creating conditions hostile to most competitor molds and bacteria. This
-method requires no heat or chemical input but takes significantly
-longer. It has been used traditionally in [[psilocybe-southeast-asia-pacific]] for oyster
+fermentation, lactic [[psilocybe-southeast-asia-pacific]] for oyster
 [[accessible-mushroom-cultivation-for-disabilities]] on straw.
 
 ## Temperature Targets
@@ -88,3 +71,80 @@ long enough at the coldest point. For most applications, maintaining
 
 Straw pasteurizes readily with hot water. Hardwood sawdust supplemented
 with bran or grain requires more careful treatment because the
+
+## Overview
+
+Substrate Pasteurization represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish substrate pasteurization
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving substrate extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Substrate Pasteurization finds practical application in multiple design contexts.
+[[permaculture-principles]] guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for substrate pasteurization. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+substrate pasteurization and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Substrate Pasteurization has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of substrate pasteurization into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.

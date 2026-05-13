@@ -21,9 +21,7 @@ sources:
 *Hypnum lacunosum* (Brid.) Wils., commonly known as the pitted hypnum or
 hoary hypnum, is a pleurocarpous moss in the family Hypnaceae. It forms
 extensive mats on acidic soils, rocks, and decaying wood in heathland, moorland,
-and montane habitats across [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]].
-
-The species is distinguished from the closely related [[hypnum-cupressiforme]]
+and montane habitats across [[hypnum-cupressiforme]]
 by its strongly concave, boat-shaped leaves and conspicuous pits (lacunae) on
 the stem surface between leaf insertions. These pits give the species its
 specific epithet and are visible with a hand lens.
@@ -64,9 +62,7 @@ produced moderately frequently compared to many Hypnaceae.
 ## Distribution and Habitat
 
 *H. lacunosum* is distributed across western and central Europe, the
-Mediterranean basin, and [[polypore-fungi-eastern-north-america]] America. In Europe, it is most abundant
-in oceanic regions including the British Isles, western France, and
-Scandinavian coastal areas. In [[guzman-psilocybin-mushrooms-north-america]], it occurs in the Appalachian
+Mediterranean basin, and [[guzman-psilocybin-mushrooms-north-america]], it occurs in the Appalachian
 Mountains and northeastern forests.
 
 The species is characteristic of acidic, nutrient-poor habitats. It grows on
@@ -80,7 +76,7 @@ moderately shaded woodland. It avoids calcareous substrates and enriched
 conditions.
 
 The species shows a strong association with ericaceous shrub communities,
-particularly heather (*[[calluna-vulgaris]]*) and bilberry (*[[vaccinium-myrtillus]]*).
+particularly heather (*[[vaccinium-myrtillus]]*).
 It forms an important component of the bryophyte layer in dry heath and
 wet heath vegetation types.
 

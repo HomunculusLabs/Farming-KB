@@ -26,7 +26,7 @@ sources:
 
 ## Overview
 
-Brucine is a dimethoxy derivative of [[strychnine]] and a major alkaloid constituent of *Strychnos nux-vomica* seeds, where it co-occurs with strychnine at a ratio of approximately 1:1 to 1:2. While structurally similar to strychnine and sharing the same mechanism as a competitive glycine receptor antagonist, brucine is approximately 10–30 times less potent as a convulsant. This reduced toxicity, combined with its intensely bitter taste, has made brucine a subject of interest in both traditional medicine and modern pharmacological research. Recent studies have revealed promising anti-inflammatory, analgesic, anti-angiogenic, and neuroprotective properties that distinguish brucine from its more notorious relative. Brucine is also notable as a chiral resolving agent in synthetic [[pericyclic-reactions-organic-chemistry]].
+Brucine is a dimethoxy derivative of [[pericyclic-reactions-organic-chemistry]].
 
 ## Chemical Profile
 
@@ -42,17 +42,7 @@ Brucine is a dimethoxy derivative of [[strychnine]] and a major alkaloid constit
 - **pKa**: 8.26 (protonated tertiary amine)
 - **Appearance**: White to pale yellow crystalline powder; extremely bitter taste detectable at <1 ppm
 - **UV absorption**: λmax 254 nm, 264 nm (in methanol)
-- **Structure**: Pentacyclic [[aminopropyl-silica-gel-chromatography-indole-alkaloid-purification]] identical to strychnine except for two methoxy substituents at positions 9 and 10 on ring D
-
-## Natural Sources
-
-Brucine is biosynthesized via the same pathway as strychnine, with tryptamine and secologanin as precursors and strictosidine as the key intermediate. The dimethoxylation pattern results from O-methyltransferase activity on a dihydroxy precursor late in the biosynthetic sequence.
-
-- **Strychnos nux-vomica**: The primary natural source; dried seeds contain 0.5–1.5% brucine alongside 1.0–1.5% strychnine. The ratio varies by geographic origin and harvest time.
-- **Strychnos ignatii** (Ignatius bean): Seeds contain 0.5–1.0% brucine. Used traditionally in Chinese medicine.
-- **Strychnos angustiflora**: Chinese species containing brucine in seeds and bark; used in traditional formulations.
-- **Strychnos wallichiana**: Himalayan species containing brucine among a complex alkaloid profile.
-- **Strychnos colubrina**: [[oner-southeast-asian-sativa-heritage-thai-vietnamese-cambodian]] species; bark and seeds contain brucine and related alkaloids.
+- **Structure**: Pentacyclic [[oner-southeast-asian-sativa-heritage-thai-vietnamese-cambodian]] species; bark and seeds contain brucine and related alkaloids.
 
 ## Pharmacology
 
@@ -62,11 +52,7 @@ Brucine acts as a competitive antagonist at the strychnine-sensitive glycine rec
 
 ### Anti-inflammatory and Analgesic Activity
 
-Brucine demonstrates significant anti-inflammatory and analgesic effects in multiple experimental models. It suppresses TNF-α, IL-1β, IL-6, and NF-κB signaling in activated macrophages and LPS-challenged animals. In carrageenan-induced paw edema and formalin tests, brucine produces dose-dependent anti-inflammatory and analgesic effects comparable to indomethacin at equivalent doses. The analgesic mechanism involves both peripheral COX-2 inhibition and central modulation of pain [[plant-signaling-pathways]]. Notably, brucine shows a wider [[blesching-cannabis-safety-profile-subjective-therapeutic-window]] than [[strychnine]] for these anti-inflammatory applications, as effective anti-inflammatory doses are well below convulsant thresholds.
-
-### Anti-angiogenic and Anticancer Activity
-
-Brucine has demonstrated anti-angiogenic and antiproliferative effects in several cancer models. It inhibits endothelial cell proliferation, migration, and tube formation in vitro, and suppresses tumor growth in murine xenograft models. Proposed mechanisms include inhibition of VEGF/VEGFR2 signaling, induction of apoptosis via mitochondrial pathways, and cell cycle arrest at G0/G1 phase. Brucine has shown activity against breast, lung, liver, and [[cancer-medicinal-mushrooms-psk-gastric-cancer]] cell lines, with IC₅₀ values typically in the 10–50 µM range. Importantly, brucine exhibits lower general cytotoxicity than strychnine at equivalent concentrations.
+Brucine demonstrates significant anti-inflammatory and analgesic effects in multiple experimental models. It suppresses TNF-α, IL-1β, IL-6, and NF-κB signaling in activated macrophages and LPS-challenged animals. In carrageenan-induced paw edema and formalin tests, brucine produces dose-dependent anti-inflammatory and analgesic effects comparable to indomethacin at equivalent doses. The analgesic mechanism involves both peripheral COX-2 inhibition and central modulation of pain [[blesching-cannabis-safety-profile-subjective-therapeutic-window]] than [[cancer-medicinal-mushrooms-psk-gastric-cancer]] cell lines, with IC₅₀ values typically in the 10–50 µM range. Importantly, brucine exhibits lower general cytotoxicity than strychnine at equivalent concentrations.
 
 ### Neuroprotective Effects
 
@@ -88,3 +74,77 @@ Brucine is toxic but considerably less so than strychnine, with an estimated let
 ### Traditional Medicine
 
 Brucine-containing *Strychnos* preparations have been used in Ayurvedic medicine (as "Kuchla"), traditional Chinese medicine (as "Maqianzi"), and Southeast Asian folk medicine for centuries. Traditional applications include treatment of digestive disorders, paralysis, rheumatism, and respiratory ailments. In Ayurveda, purified and detoxified *Strychnos nux-vomica* preparations are used after elaborate shodhana (purification) processes intended to reduce strychnine and brucine toxicity while retaining therapeutic activity.
+
+## Overview
+
+Brucine represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish brucine
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving brucine extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Brucine finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for brucine. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+brucine and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Brucine has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of brucine into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource

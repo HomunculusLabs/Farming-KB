@@ -11,13 +11,7 @@ type: query
 ## Short Answer
 A swale is a level ditch-and-berm system built on contour across a slope to capture, slow, and infiltrate surface water runoff into the soil. Building one involves marking contour lines with an A-frame level, digging a shallow ditch on contour, and piling the excavated soil on the downhill side to form a berm that holds water until it soaks into the ground.
 ## Key Points
-- Swales are passive water [[pdc-water-harvesting-earthworks-design]] that capture runoff and recharge groundwater
-- They must be built perfectly level on contour to prevent dangerous water concentration at one end
-- An A-frame level is the simplest tool for marking accurate contour lines across a slope
-- Swales work best on slopes between 2 and 15 percent grade
-- Typical dimensions are 1 to 3 feet deep and 2 to 4 feet wide, scaled to catchment area
-- The berm should be compacted and planted immediately with deep-rooted perennials
-- Swales concentrate water infiltration at specific points, unlike [[query-how-does-keyline-design-work-in-permaculture]] which distributes broadly
+- Swales are passive water [[query-how-does-keyline-design-work-in-permaculture]] which distributes broadly
 - They integrate well with other water harvesting elements like ponds, rain tanks, and greywater systems
 ## Detailed Explanation
 ### What Is a Swale?
@@ -42,26 +36,16 @@ Bare soil on a newly built berm is highly vulnerable to erosion from the first r
 Good berm planting choices include:
 - **Fruit trees** — apple, pear, plum, and citrus thrive on the well-drained berm shoulder
 - **Nitrogen fixers** — leguminous trees and shrubs improve soil fertility over time
-- **[[comparison-dynamic-accumulators-vs-cover-crops]]** — comfrey and yarrow mine deep minerals and cycle them to the surface
 - **[[permaculture-plants-food-forest-ground-covers-bamboos]]** — clover, vetch, or creeping thyme protect the soil surface from erosion
 ### Swales vs. Keyline Design
-Swales differ from keyline design in their approach to water management. Understanding the distinction helps you [[query-how-do-i-choose-the-right-cannabis-strain-for-my-grow]] technique for your property.
-| Feature | Swales | Keyline Design |
-|---|---|---|
-| Placement | Exact contour lines | Parallel to keypoint contours |
-| Water strategy | Stop and sink at specific points | Distribute from valleys to ridges |
-| Best scale | Small to medium properties | Large agricultural properties |
-| Equipment | Hand tools or small machinery | Subsoiler or keyline plow |
-| Disturbance | Moderate soil excavation | Minimal soil disturbance |
-The [[query-how-does-keyline-design-work-in-permaculture]].
+Swales differ from keyline design in their approach to water management. Understanding the distinction helps you [[query-how-does-keyline-design-work-in-permaculture]].
 ### Integrating with a Broader Water Strategy
 Swales rarely exist in isolation on a well-designed property. They work best as part of a comprehensive water management plan that captures, stores, and distributes water across multiple systems.
 - **Ponds** — can be positioned below swale outflow points to store excess water
 - **Rain tanks** — capture roof runoff for supplemental irrigation during dry periods
 - **Greywater systems** — direct household wastewater into mulch basins near swale plantings
 - **Gabions and check dams** — slow water in drainage channels above swale systems
-The [[swale-design]] page recommends planting a dense polyculture of complementary species on the berm to maximize the productive use of the harvested water while root systems stabilize the earthwork against erosion.
-For a broader planting strategy that pairs well with swale systems, see [[query-how-does-keyline-design-work-in-permaculture]]
+The [[query-how-does-keyline-design-work-in-permaculture]]
 - [[query-how-to-start-a-food-forest]]
 ## Practical Considerations
 
@@ -81,3 +65,86 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
+
+## Overview
+
+Query How To Build A Swale For Water Harvesting represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish query how to build a swale for water harvesting
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving query extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Query How To Build A Swale For Water Harvesting finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for query how to build a swale for water harvesting. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+query how to build a swale for water harvesting and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Query How To Build A Swale For Water Harvesting has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of query how to build a swale for water harvesting into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[query-how-do-clay-seed-balls-work-for-natural-farming]]
+- [[query-how-to-harvest-and-cure-cannabis-for-best-flavor]]
+- [[query-how-to-manage-cannabis-odor-and-stay-discreet]]

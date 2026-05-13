@@ -10,15 +10,7 @@ sources: [/Users/t3rpz/wiki/raw/papers/geoffrey-gadd-sarah-c-watkinson-paul-s-dy
 
 # Hydnum repandum
 
-*Hydnum repandum*, commonly known as the sweet tooth, hedgehog mushroom, or wood hedgehog, is an edible basidiomycete mushroom in the family *Hydnaceae*. It is one of the most distinctive and widely appreciated wild edible mushrooms in Europe and North America, easily recognized by its pale cap and the downward-pointing spines (teeth) on the hymenophore, which replace the gills found in most agaricoid mushrooms. The species forms [[ectomycorrhizal-associations]] with both coniferous and broadleaf trees.
-
-## Morphology and Identification
-
-The fruiting body of *Hydnum repandum* consists of a cap and stipe typical of agaricoid mushrooms, but with a unique spore-bearing surface composed of crowded, pendant spines rather than gills or pores. The cap measures 3–15 cm in diameter and is convex when young, becoming irregularly flattened or depressed with age. The cap surface is smooth to slightly wrinkled, pale orange to buff or cream-colored, and often develops irregular shapes as it grows through forest floor debris.
-
-The spines (also called teeth) are 2–6 mm long, decurrent (extending down the stem), creamy white when young and developing a slight ochre tint with age. They are brittle and easily dislodged when handled. The stipe is 3–8 cm tall and 1–3 cm thick, solid, cream-colored, and tapers slightly toward the base. The flesh is firm, white to cream, and has a mild, pleasantly nutty or peppery flavor and a fruity odor sometimes described as reminiscent of apricots.
-
-Spores are broadly ellipsoid, smooth, hyaline, measuring 7–9 × 6–7.5 μm, and are produced in abundance as a white [[spore-print]]. Microscopically, the basidia are four-spored and clavate, with sterigmata bearing the spores.
+*Hydnum repandum*, commonly known as the sweet tooth, hedgehog mushroom, or wood hedgehog, is an edible basidiomycete mushroom in the family *Hydnaceae*. It is one of the most distinctive and widely appreciated wild edible mushrooms in Europe and North America, easily recognized by its pale cap and the downward-pointing spines (teeth) on the hymenophore, which replace the gills found in most agaricoid mushrooms. The species forms [[spore-print]]. Microscopically, the basidia are four-spored and clavate, with sterigmata bearing the spores.
 
 ## Distribution and Habitat
 
@@ -30,9 +22,7 @@ The mushroom typically fruits from late summer through autumn (August to Novembe
 
 *Hydnum repandum* is an ectomycorrhizal fungus that forms mutualistic associations with the roots of numerous tree species. The fungal mycelium envelops root tips in a characteristic mantle and penetrates between root cortical cells to form a Hartig net, the site of nutrient exchange between the symbiotic partners. The extraradical mycelium extends far into the surrounding soil, exploring a volume of substrate that greatly exceeds the tree's own root system.
 
-As an ectomycorrhizal partner, *H. repandum* provides its host trees with mineral nutrients—particularly nitrogen, phosphorus, and micronutrients—mobilized from soil organic matter through the action of [[fungal-extracellular-enzymes]]. In return, the fungus receives carbohydrates (primarily glucose and sucrose) from the host's photosynthesis. The organism produces a range of hydrolytic and oxidative enzymes including proteases, phosphatases, and phenol oxidases that break down complex organic molecules in the soil.
-
-Research on *Hydnum* [[mycelial-networks]] has revealed that they can connect multiple individual trees, facilitating the transfer of carbon, nitrogen, and signaling compounds between trees of the same or different species. This "wood wide web" function is increasingly recognized as a critical component of forest ecosystem dynamics.
+As an ectomycorrhizal partner, *H. repandum* provides its host trees with mineral nutrients—particularly nitrogen, phosphorus, and micronutrients—mobilized from soil organic matter through the action of [[mycelial-networks]] has revealed that they can connect multiple individual trees, facilitating the transfer of carbon, nitrogen, and signaling compounds between trees of the same or different species. This "wood wide web" function is increasingly recognized as a critical component of forest ecosystem dynamics.
 
 ## Culinary Value
 
@@ -42,7 +32,7 @@ The hedgehog mushroom is often compared to the chanterelle (*Cantharellus cibari
 
 ## Medicinal Properties
 
-Recent research has revealed that *H. repandum* produces [[cordyceps-cancer-bioactive-compounds]] with potential medicinal properties. The mushroom contains polysaccharides with immunomodulatory and antitumor activity, as well as [[ingham-tannins-terpenes-phenolic-compounds]] with antioxidant properties. Extracts of *H. repandum* have demonstrated antibacterial activity against Gram-positive bacteria and anti-inflammatory effects in cell culture models.
+Recent research has revealed that *H. repandum* produces [[ingham-tannins-terpenes-phenolic-compounds]] with antioxidant properties. Extracts of *H. repandum* have demonstrated antibacterial activity against Gram-positive bacteria and anti-inflammatory effects in cell culture models.
 
 The fatty acid profile of *H. repandum* is notable for its high content of linoleic acid (an omega-6 fatty acid) and relatively low saturated fat content. The mushroom also contains significant amounts of ergosterol (a precursor to vitamin D₂), B vitamins, and minerals including potassium, phosphorus, and selenium.
 
@@ -52,7 +42,6 @@ The fatty acid profile of *H. repandum* is notable for its high content of linol
 
 ## See Also
 
-- [[cantharellus-cibarius-entity]]
 - [[laccaria-laccata]]
 - [[craterellus-tubaeformis]]
 ## Practical Considerations
@@ -88,3 +77,73 @@ Building resilience into implementations through diversity, redundancy,
 and adaptive capacity helps buffer against unpredictable events and
 conditions. This approach recognizes that some degree of uncertainty is
 inherent in working with natural systems and plans accordingly rather
+
+## Overview
+
+Hydnum Repandum represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish hydnum repandum
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving hydnum extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Hydnum Repandum finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for hydnum repandum. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+hydnum repandum and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Hydnum Repandum has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of hydnum repandum into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.

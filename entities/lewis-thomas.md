@@ -9,7 +9,7 @@ categories: [people, science, medicine, literature]
 
 ## Description
 
-Lewis Thomas (1913–1993) was an American physician, poet, etymologist, essayist, administrator, novelist, public speaker, and researcher renowned for his lyrical scientific writing. He is cited by Bill Mollison in *Permaculture: A Designers' Manual* (1988) for the observation that "the bacteria... live by collaboration, accommodation, exchange, and barter" — a quotation used to support permaculture's foundational Principle of Cooperation, which holds that cooperation rather than competition is the basis of existing life systems and future survival.
+Lewis Thomas (1913–1993) was an American physician, poet, etymologist, essayist, administrator, novelist, public speaker, and researcher renowned for his lyrical scientific writing. He is cited by Bill Mollison in *[[permaculture]]: A Designers' Manual* (1988) for the observation that "the bacteria... live by collaboration, accommodation, exchange, and barter" — a quotation used to support permaculture's foundational Principle of Cooperation, which holds that cooperation rather than competition is the basis of existing life systems and future survival.
 
 ## Classification
 
@@ -75,19 +75,6 @@ Thomas's perspective on biological cooperation directly influenced permaculture 
 ## Relevance to Cultivation and Mycology
 
 Thomas's insights on biological cooperation are directly relevant to:
-- Understanding [[mycorrhizal-networks]] as collaborative exchange systems (the "barter" Thomas describes)
-- Designing cultivation systems based on mutualistic relationships between fungi, plants, and microorganisms
-- Recognizing that healthy soil biology depends on cooperative microbial communities
-- Appreciating fungal decomposition as a collaborative process essential to nutrient cycling
-
-## Sources
-
-- Mollison, B. (1988). *Permaculture: A Designers' Manual*. Tagari Publications. p. 800.
-- Thomas, L. (1974). *The Lives of a Cell: Notes of a Biology Watcher*. Viking Press.
-
-## See Also
-
-- [[bill-mollison]]
-- [[permaculture]]
+- Understanding [[bill-mollison]]
 - [[james-lovelock]]
 - [[gaia-hypothesis]]

@@ -10,18 +10,10 @@ sources:
 
 # Fungal Formulation for In-Situ Bioremediation
 
-Successful deployment of fungi for in-situ [[staycare-fungal-agricultural-waste-conversion]] for composting applications
-
-### Mycorrhizal Inoculation
-- Seed coating with mycorrhizal spores or propagules
-- Root dip inoculation of seedlings before transplanting
-- Soil drench with spore suspensions
-- See [[fungal-bioaugmentation]]
+Successful deployment of fungi for in-situ [[fungal-bioaugmentation]]
 
 ## Related Topics
 
-- [[bioaugmentation-strategies]]
-- fungal-bioremediation
 - [[staycare-fungal-heterotrophic-leaching-biosorption]]
 ## Practical Applications
 

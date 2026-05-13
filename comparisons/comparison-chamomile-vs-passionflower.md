@@ -22,33 +22,6 @@ foundational skill for any home herbalist.
 
 ## Chamomile
 
-[[chamomile-growing-guide]]
-
-Chamomile (primarily German chamomile, Matricaria chamomilla) is a small,
-daisy-like annual herb in the Asteraceae family. It has been used for
-thousands of years across Egyptian, Greek, and European herbal traditions.
-The flowers contain apigenin, a flavonoid that binds to GABA receptors in the
-brain, producing mild sedative and anxiolytic effects. Chamomile also contains
-chamazulene and bisabolol, which give it anti-inflammatory and antimicrobial
-properties.
-
-Its strengths lie in its gentleness and versatility. Chamomile is safe for
-most people, including children at appropriate doses, and can be consumed
-daily as a tea without tolerance buildup. Beyond relaxation, it supports
-digestion (relieving gas, bloating, and spasms), reduces inflammation when
-used topically, and eases menstrual cramps through antispasmodic action.
-German chamomile is the preferred species for tea production due to higher
-essential oil content, while Roman chamomile serves better as a low-growing
-ground cover.
-
-Cultivation is straightforward: chamomile prefers full sun, tolerates poor
-sandy soil, and self-seeds prolifically. A small garden plot or even
-containers can produce a substantial flower harvest for year-round tea.
-Harvest flowers at full bloom on dry mornings and dry on screens at 95-100
-degrees F.
-
-## Passionflower
-
 [[passionflower-growing-guide]]
 
 Passionflower (Passiflora incarnata) is a vigorous perennial vine native to
@@ -122,10 +95,6 @@ passionflower) work through multiple GABAergic pathways simultaneously.
 
 ## See Also
 
-- [[comparison-passionflower-vs-tulsi]]
-
 - [[comparison-valerian-vs-chamomile]]
-- [[comparison-valerian-vs-passionflower]]
 - [[comparison-lemon-balm-vs-passionflower]]
-- [[comparison-tulsi-vs-lemon-balm]]
 - [[comparison-echinacea-vs-chamomile]]

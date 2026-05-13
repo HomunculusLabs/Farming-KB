@@ -10,7 +10,7 @@ sources: []
 
 ## Overview
 
-[[reishi-cultivation-guide]] and [[oyster-mushroom-pleurotus-ostreatus]]
+[[oyster-mushroom-pleurotus-ostreatus]]
 represent two fundamentally different approaches to mushroom growing.
 Reishi (Ganoderma lucidum) is cultivated almost exclusively for its
 medicinal compounds, yielding woody, bitter conks that are extracted
@@ -20,25 +20,6 @@ rapid growth, and unmatched substrate range. Comparing them reveals the
 spectrum between medicinal-only and dual-purpose mushroom cultivation.
 
 ## Reishi
-
-[[ganoderma-lucidum]] is a polypore bracket fungus revered in
-traditional Chinese medicine for over 2,000 years. Known as Lingzhi
-in China and Mannentake in Japan, it produces kidney-shaped conks with
-a distinctive lacquered, varnished appearance. Reishi is extremely
-woody and bitter — it is never eaten as food. Instead, its value lies
-entirely in its medicinal compounds: over 150 triterpenes (ganoderic
-acids), immune-modulating beta-glucans, and hepatoprotective proteins.
-
-Reishi cultivation demands patience and precise environmental control.
-Spawn run takes 2-3 months on supplemented hardwood sawdust blocks.
-The fruiting stage requires elevated CO2 during antler (conk) formation,
-followed by increased fresh air to develop the characteristic cap.
-Temperatures of 75-85°F during colonization and 70-80°F for fruiting
-are optimal. Growers target either conk formation (for extraction) or
-spore production (for supplements). Yields are measured in dry weight
-of medicinal biomass rather than fresh culinary pounds.
-
-## Oyster Mushroom
 
 [[growing-gourmet-oyster-cultivation]] describes oyster mushrooms as
 "by far the easiest and least expensive to grow." Pleurotus species
@@ -99,42 +80,6 @@ Oyster mushrooms are the clear choice for beginners, community
 projects, and operations focused on food production. They forgive
 environmental inconsistencies, fruit prolifically even in improvised
 chambers, and produce a highly marketable fresh product. They also
-serve double duty in [[mycoremediation-basics]] systems, degrading
-petroleum hydrocarbons, PAHs, and bacterial contamination.
-
-## Can They Be Grown Together?
-
-Reishi and oyster mushrooms occupy different environmental niches,
-making simultaneous cultivation challenging but not impossible in a
-single facility. Reishi thrives in high-CO2 conditions during antler
-formation, while oysters demand constant fresh air exchange. A shared
-incubation space works well — both species colonize at similar
-temperatures — but dedicated fruiting chambers are essential.
-
-Some integrated farms grow oysters as a primary cash crop while
-maintaining a smaller reishi operation for value-added supplements.
-The spent oyster substrate can even be re-inoculated or composted,
-while reishi blocks are processed for extraction after a single flush.
-
-## Decision Guide
-
-| Your Situation | Best Choice |
-|-------------------------------------------|-------------------|
-| First-time mushroom grower | Oyster mushroom |
-| Want fresh food for your table | Oyster mushroom |
-| Producing herbal supplements | Reishi |
-| Limited time, fast results needed | Oyster mushroom |
-| Patient, want high-value product | Reishi |
-| Using agricultural waste as substrate | Oyster mushroom |
-| Building a home apothecary | Reishi |
-| Teaching mushroom cultivation | Oyster mushroom |
-| Low budget, improvised setup | Oyster mushroom |
-| Dual-purpose farm (food + medicine) | Both (separate chambers) |
-
-## See Also
-
-- [[medicinal-mushroom-guide-reishi]]
-- [[comparison-cordyceps-vs-reishi-cultivation]]
+serve double duty in [[medicinal-mushroom-guide-reishi]]
 - [[comparison-shiitake-vs-oyster-cultivation]]
-- [[comparison-shiitake-vs-reishi-medicinal-mushrooms]]
 - [[mushroom-cultivation-basics]]

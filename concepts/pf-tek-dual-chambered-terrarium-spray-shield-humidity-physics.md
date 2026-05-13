@@ -2,13 +2,13 @@
 
 ## Overview
 
-The dual chambered terrarium is the [[fruiting-environment-parameters]] at the heart of the PF TEK [[boil-a-bag-mushroom-cultivation-method]]. Its defining feature is a slanted acrylic spray shield that partitions the interior into a primary spraying chamber and a secondary chamber where fungal cakes are housed. This design solves the fundamental challenge of providing near-100% humidity without directly wetting the delicate fungal mycelium with water droplets.
+The [[dual-chambered-terrarium]] is the [[boil-a-bag-mushroom-cultivation-method]]. Its defining feature is a slanted acrylic spray shield that partitions the interior into a primary spraying chamber and a secondary chamber where fungal cakes are housed. This design solves the fundamental challenge of providing near-100% humidity without directly wetting the delicate fungal mycelium with water droplets.
 
 ## The Physical Problem
 
 ### Water Droplets vs. Molecular Humidity
 
-Mushroom cultivation requires extremely high ambient humidity for successful fruiting. However, the fungal organism faces a critical physical constraint: its [[gadd-mycelial-network-dynamics]] consists of extremely fine hyphal threads that operate at a microscopic scale. A water droplet from a spray bottle represents what PF Tek author Robert McPherson describes as "giant ponds of water in relation to the fine [[fungal-mycelial-networks-nutrient-translocation]] of the fungal threads." When such a droplet lands directly on mycelium or developing primordia:
+Mushroom cultivation requires extremely high ambient humidity for successful fruiting. However, the fungal organism faces a critical physical constraint: its [[fungal-mycelial-networks-nutrient-translocation]] of the fungal threads." When such a droplet lands directly on mycelium or developing primordia:
 
 1. **Drowning**: The water droplet physically engulfs and suffocates the microscopic mycelial structures
 2. **Contamination**: Standing water creates an ideal breeding ground for bacterial and mold contamination

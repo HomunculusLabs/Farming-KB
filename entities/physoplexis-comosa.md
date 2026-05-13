@@ -127,13 +127,8 @@ alpine botanical gardens including the Schynige Platte Alpine Garden.
 
 ## See Also
 
-- [[phyteuma-orbiculare]]
 - [[campanula-cochlearifolia]]
-- [[campanula-barbata]]
 - [[campanula-cenisia]]
-- [[campanula-pulla]]
 - [[campanula-uncinata]]
-- [[campanula-saxatilis]]
 - [[campanula-raineri]]
-- [[campanula-morettiana]]
 - [[campanula-zoysii]]

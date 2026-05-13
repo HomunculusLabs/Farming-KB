@@ -18,16 +18,7 @@ Ketamine is a general anesthetic manufactured by Parke Davis (marketed as Ketala
 
 ## History
 
-Ketamine is used clinically as a general anesthetic, considered "gentle" and often given to children and elderly people. Its psychedelic characteristics were discovered after recipients reported "reemergence" experiences while coming out of anesthesia. Further experiments showed that a dose much smaller than the anesthetic dose produces a [[leary-psychedelic-experience-bardo-mapping]] of incredible intensity.
-
-## Dosage and Administration
-
-| Route | Dose | Effect |
-|-------|------|--------|
-| Intramuscular (IM) | 10-20 mg | Non-psychedelic, dissociative altered state |
-| Intramuscular (IM) | 50 mg | Semi-conscious halfway zone |
-| Intramuscular (IM) | 75-125 mg | Highly desirable Ketamine trip |
-| Intramuscular (IM) | ~100 mg | Standard [[psychedelic-dose-response]] (described below) |
+Ketamine is used clinically as a general anesthetic, considered "gentle" and often given to children and elderly people. Its psychedelic characteristics were discovered after recipients reported "reemergence" experiences while coming out of anesthesia. Further experiments showed that a dose much smaller than the anesthetic dose produces a [[psychedelic-dose-response]] (described below) |
 | Snorting | Small amounts | Much less intense, not comparable to IM experience |
 
 The exact dose required varies with body weight and mental state. For snorting, evaporate the liquid on a glass tray at 200 degrees F and scrape off the powder.
@@ -90,8 +81,6 @@ The Ketamine experience is difficult to bring back and reintegrate with routine 
 - Safest method: have a friend or "sitter" present
 
 ## See Also
-- [[turner-essential-psychedelics-ketamine-anaesthetic-realm]]
 - [[turner-ketamine-lsd-dmt-interactions-recovery-effects]]
-- [[turner-ketamine-realms-dissociative-consciousness]]
 - [[turner-ketamine-combinations-and-cydelikspace-navigation]]
 - [[turner-mescaline-peyote-san-pedro-experience]]

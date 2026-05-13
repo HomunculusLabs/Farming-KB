@@ -8,11 +8,7 @@ type: concept
 
 ## Overview
 
-Every medium—whether air, water, earth, stone, or abstract systems like cultures and disciplines—has distinct properties that [[query-what-are-the-different-fruit-tree-training-systems-and-which-should-i-use]]iate it from other media. Where these [[query-what-is-the-difference-between-grain-spawn-and-liquid-culture-for-mushrooms]]s meet, boundary conditions arise. These boundaries are not passive lines but active zones where events occur, resources accumulate, and life thrives. Understanding boundary conditions is fundamental to [[permaculture-design]].
-
-## Defining Boundaries
-
-A boundary is the more-or-less well-defined surface or interface where one medium transitions to another. Every [[query-what-is-the-difference-between-hot-compost-and-cold-compost]] media—whether chemical, physical, thermal, or social—creates a boundary condition. Media can be distinguished by properties such as:
+Every medium—whether air, water, earth, stone, or abstract systems like cultures and disciplines—has distinct properties that [[query-what-is-the-difference-between-grain-spawn-and-liquid-culture-for-mushrooms]]s meet, boundary conditions arise. These boundaries are not passive lines but active zones where events occur, resources accumulate, and life thrives. Understanding boundary conditions is fundamental to [[query-what-is-the-difference-between-hot-compost-and-cold-compost]] media—whether chemical, physical, thermal, or social—creates a boundary condition. Media can be distinguished by properties such as:
 
 - **Physical state**: gaseous, liquid, solid
 - **Temperature**: hot vs. cold
@@ -48,28 +44,13 @@ Boundaries are not infinitely thin lines but have fuzzy depth, constituting a **
 - Foam on water
 - Emulsions of oil and water
 - Estuarine brackish water (mix of fresh and salt)
-- The humid micro[[query-best-nut-trees-for-a-permaculture-food-forest-by-climate-zone]] at a forest edge
-
-## Living Translators
-
-Living organisms occupy every natural boundary. Trees, fish, molluscs, water striders, and countless other species have evolved to exploit the special conditions at interfaces. These organisms are **translators**—entities that convert resources from one medium into forms useful to another. The establishment of complex boundary conditions is a primary strategy for generating complex life assemblies.
-
-As Vogel (1981) observed: "Most biologists seem to have heard of the boundary layer, but they have a fuzzy notion that it is a discrete region, rather than the discrete notion that it is a fuzzy region."
-
-## Compatible and Incompatible Borders
-
-When two systems are brought into boundary contact, only limited interactions are possible:
-
-| Interaction | Effect on System A | Effect on System B |
-|---|---|---|
-| Neutral | No change (0) | No change (0) |
-| Exploitative | [[query-benefits-of-integrating-mushrooms-into-a-permaculture-system]] (+) | Harmed (-) |
+- The humid micro[[query-benefits-of-integrating-mushrooms-into-a-permaculture-system]] (+) | Harmed (-) |
 | Mutualistic | Benefits (+) | Benefits (+) |
 | Destructive | Harmed (-) | Harmed (-) |
 | Commensal | Benefits (+) | No change (0) |
 | Amensal | Harmed (-) | No change (0) |
 
-The overwhelming majority of organisms get along fine or derive mutual benefit. Very few interactions result in mutual harm. For [[permaculture]], the [[query-what-are-the-most-powerful-medicinal-mushrooms-and-what-do-they-treat]] design strategy is to **select compatible components for complex edge and surface phenomena**.
+The overwhelming majority of organisms get along fine or derive mutual benefit. Very few interactions result in mutual harm. For [[query-what-are-the-most-powerful-medicinal-mushrooms-and-what-do-they-treat]] design strategy is to **select compatible components for complex edge and surface phenomena**.
 
 ### Resolving Incompatibility
 
@@ -85,12 +66,7 @@ This has profound implications: one initial difference is enough to generate the
 
 ## Diffusion Across Boundaries
 
-Between all media, some **diffusion** occurs—a quiet [[leaf-senescence-autumn-colour-change-active-plant-process]] operating on a broad front across the entire surface of media. Diffusion is enhanced by:
-
-- Surface turbulence and wave overturn
-- Temperature differences
-- Pressure differentials
-- Chemical messenger exchange (e.g., leaf/[[root-exudates]] between plant groups)
+Between all media, some **diffusion** occurs—a quiet [[root-exudates]] between plant groups)
 
 Water acts as the "universal solvent" diffusing substances through the earth's crust, plant systems, and atmosphere. Trees dramatically increase the diffusive area: a single tree may have acres of leaf surface, and evapotranspiration can exceed bare-ground evaporation by a factor of forty or more.
 

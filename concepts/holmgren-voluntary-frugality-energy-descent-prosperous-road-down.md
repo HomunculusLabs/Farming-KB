@@ -1,6 +1,6 @@
 ---
 title: "Voluntary Frugality and the Prosperous Road Down"
-source: "[[david-holmgren]] - Permaculture: Principles & Pathways [[holmgren-beyond-sustainability]]"
+source: "holmgren-beyond-sustainability"
 topic: permaculture
 tags: [permaculture, energy-descent, voluntary-frugality, holmgren, sustainability]
 ---
@@ -10,9 +10,7 @@ tags: [permaculture, energy-descent, voluntary-frugality, holmgren, sustainabili
 ## Overview
 
 David Holmgren's concept of voluntary frugality is a cornerstone of his vision for
-[[energy-descent-action-planning]] — the deliberate transition from high-energy industrial society to a
-low-energy, sustainable culture. Unlike poverty imposed by circumstance, voluntary
-frugality is a chosen path enabling people to optimise [[mycelial-foraging-resource-allocation]] while
+[[mycelial-foraging-resource-allocation]] while
 maintaining quality of life. Holmgren frames this not as deprivation but as a
 "prosperous road down," drawing on the work of Howard and Elizabeth Odum.
 
@@ -61,27 +59,7 @@ invested in other sectors, further stimulating demand for energy and resources.
 
 Holmgren provides concrete examples: friends who reduced energy consumption
 through efficient technology now drive their energy-efficient cars further; a
-sister's savings on electricity and gas from her [[comparison-passive-solar-vs-earth-sheltered]] house funded an
-airfare to Europe. This phenomenon is well-documented in systems modelling of
-sustainable transition.
-
-If maximum power is an energy law governing self-organising systems, then the
-challenge is shifting the pattern of success from high, opportunistic yields
-from non-renewables to low, sustained yields from renewables. Creative, ethically
-driven people moving into large organisations risk co-optation — quality of
-change is traded for quantity of influence.
-
-## The Prosperous Road Down
-
-Howard and Elizabeth Odum conceptualised the transition to a declining-energy
-economy and society as "a prosperous road down," reframing energy descent from
-catastrophe to opportunity. Solutions Holmgren identifies include:
-
-1. **Wholistic learning loops**: When success in one environmental objective
-   stimulates networked, progressively more integrated low-energy alternatives,
-   rebound effects can reconfigure the economy while decreasing total resource
-   demand.
-2. **[[ethical-investment-and-earth-banking]]**: Redirecting saved resources toward regenerative
+sister's savings on electricity and gas from her [[ethical-investment-and-earth-banking]]**: Redirecting saved resources toward regenerative
    systems (local organic produce, employing neighbours, ethical investment
    funds) reduces adverse rebound effects.
 3. **Starving large-scale demand**: Large systems of intensive energy demand
@@ -117,8 +95,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[david-holmgren]]
 - [[doc]]
-- [[det]]
 - [[permaculture]]
 - [[ghb]]

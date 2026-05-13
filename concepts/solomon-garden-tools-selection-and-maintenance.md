@@ -9,12 +9,8 @@ sources:
 type: concept
 ---
 
-# [[steve-solomon]] insists that to vegetable garden successfully you only need
-a few [[garden-hand-tools-solomon]], provided they are high quality and properly sharpened.
-Garden magazines, [[solomon-garden-centers-seedling-traps]], and seed catalogs all promote the idea
-that appealing merchandise is useful and essential, but most of it is
-unnecessary. The critical tools are: a spade or combination shovel, a
-[[solomon-garden-hoe-and-cultivation-techniques]], a bow rake, and a file to sharpen the shovel and hoe.
+# [[garden-hand-tools-solomon]], provided they are high quality and properly sharpened.
+Garden magazines, [[solomon-garden-hoe-and-cultivation-techniques]], a bow rake, and a file to sharpen the shovel and hoe.
 
 ## The Three Essential Tools
 

@@ -10,9 +10,7 @@ sources:
 ---
 # Fukuoka's Health Philosophy -- Do Nothing and Return to Nature
 
-In  extends his [[fukuoka-natural-pest-balance]] in farming arise from unnatural practices, human disease arises from unnatural living
-
-- **The body knows how to heal** -- just as [[fukuoka-natural-pest-balance]], medical interventions often create new health problems
+In  extends his [[fukuoka-natural-pest-balance]], medical interventions often create new health problems
 
 Fukuoka elaborated: "Mental disharmony with nature hardens the mind, while unnatural physical care stiffens the body. By continuing to endure such conditions and failing to exercise moderation, one eventually meets up with serious illness."
 
@@ -28,11 +26,7 @@ Fukuoka was sharply critical of both Western and Japanese modern medicine, seein
 
 - Diagnostic categories create the illusion of understanding while obscuring the fundamental unity of health and environment
 
-He titled one section "[[fukuoka-ignorant-agriculture-pit-of-knowledge]], Misguided Medicine," drawing an explicit parallel between the two domains. In both cases, human knowledge -- far from solving problems -- actually creates them by interfering with self-regulating natural systems.
-
-## Oriental Medicine and the Direction of Doing Nothing
-
-Fukuoka saw traditional Oriental medicine as moving toward the principle of "doing nothing" more closely than [[fukuoka-eastern-western-medicine-healing-world-crisis]], though he felt even Oriental medicine had become too interventionist. He valued its recognition of:
+He titled one section "[[fukuoka-eastern-western-medicine-healing-world-crisis]], though he felt even Oriental medicine had become too interventionist. He valued its recognition of:
 
 - The body as an integrated system rather than a collection of parts
 
@@ -46,44 +40,17 @@ He noted that techniques such as shiatsu (finger-pressure therapy), acupuncture,
 
 ## Food as Medicine: The Natural Diet
 
-Fukuoka's health philosophy was inseparable from his [[fukuoka-natural-farming-philosophy-of-mu]] contained something that chemically grown food lacked -- not merely nutrients, but a quality of wholeness that arises from the plant's relationship with its natural environment.
+Fukuoka's health philosophy was inseparable from his [[soil-microbiology-in-natural-farming]] mirrors gut microbiology -- both are complex ecosystems disrupted by chemicals
 
-He was skeptical of nutritional science for the same reason he was skeptical of agricultural science: both reduce complex wholes to measurable components and miss the essential nature of the thing itself. The macrobiotic movement, founded in Japan by George Ohsawa and spread worldwide by Michio Kushi and others, came closer to his vision, but Fukuoka felt that even macrobiotics could become too rigid and intellectualized.
-
-The connection between [[soil-microbiology-in-natural-farming]] mirrors gut microbiology -- both are complex ecosystems disrupted by chemicals
-
-- [[fukuoka-four-principles-natural-farming]] of farming have health parallels: don't cultivate the body with excessive exercise, don't add synthetic supplements, don't suppress symptoms, don't attack disease directly
-
-He observed that the same simplifying logic that reduces farming to NPK inputs also reduces health to vitamin pills and calorie counts. In both cases, the whole is lost while the parts are measured and optimized.
-
-## The Farm as Therapy
-
-Fukuoka found that simply living on his farm had therapeutic effects. Visitors who came to stay in his orchard "put up with things" for the first day or two, "but after a week has passed they lose track of the time." After two weeks they felt they could stay for months. After three months, a year or two seemed possible.
-
-This natural therapy worked because it addressed all dimensions simultaneously: the body was exercised through farm work, the mind was quieted by the rhythm of nature, and the soul was restored through contact with living things. Fukuoka noted that "children and fools seem to know nature best of all and would appear to have the least trouble returning back to it."
-
-## The Body-Mind Unity
-
-A key theme in Fukuoka's health philosophy was the inseparability of body and mind. "When one lives in the country and one's diet and body changes, everything becomes clear of itself." Physical health and mental clarity were not separate goals but aspects of a single return to natural wholeness.
-
-He criticized sports that "insist on rigorous training to toughen the body" as a mistake. A physical education professor at Nihon University demonstrated that by making the body "perfectly limp and letting the limbs dangle," the inner organs would "exercise by themselves." This approach -- of relaxing into the body's [[powell-natural-intelligence-and-the-universal-computation]] -- was the health equivalent of do-nothing farming.
+- [[powell-natural-intelligence-and-the-universal-computation]] -- was the health equivalent of do-nothing farming.
 
 ## Spiritual Health
 
-Ultimately, Fukuoka's health philosophy was inseparable from his [[fukuoka-do-nothing-farming-and-spiritual-life]]
-
-- [[fukuoka-natural-diet-philosophy]]
-
-- [[fukuoka-nature-transcends-human-knowledge]]
+Ultimately, Fukuoka's health philosophy was inseparable from his [[fukuoka-natural-diet-philosophy]]
 
 - [[fukuoka-view-of-nature-and-human-hubris]]
 
-- [[one-straw-revolution-philosophy]] (The One Straw Revolution)
-**Updated:** 2026-04-18
-
-## The Rejection of Purpose
-
-At the heart of Fukuoka's philosophy is the radical rejection of purpose-driven action. He believed that the moment a person acts with a specific purpose in mind, they depart from nature and create problems. The concept of "mu" (nothingness or no-purpose) is central to understanding [[comparison-natural-farming-vs-permaculture]] and, by extension, a natural way of life.
+- [[comparison-natural-farming-vs-permaculture]] and, by extension, a natural way of life.
 
 When scientists conduct research with a purpose -- to increase yield, to develop a new variety, to solve a specific problem -- they inevitably create new problems that did not exist before. Each technological solution spawns a new difficulty requiring yet another solution. This endless chain of problems and solutions is the defining characteristic of modern civilization.
 
@@ -118,8 +85,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[dom]]
 - [[natural-diet]]
-- [[permaculture]]
 - [[macrobiotics]]
 - [[fukuoka-natural-diet-philosophy-spiritual-health]]

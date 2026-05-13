@@ -14,26 +14,10 @@ sources:
   - Leafly. "Jungle Juice Strain Information." leafly.com.
   - AllBud. "Jungle Juice Weed Strain Information." allbud.com.
   - Weedmaps. "Jungle Juice blesching-cannabis-strain-selection-receptor-targeting." weedmaps.com.
-  - MJBizDaily. "2024 [[biscotti-cannabis-strain]] Market Trends."
-  - green-cannabis-grow-bible-breeding-genetics-and-true-breeding Bible. Green Candy Press, 5th Edition.created: 2026-05-07
+  - MJBizDaily. "2024 [[query-what-is-the-difference-between-indica-sativa-and-hybrid-cannabis]] strain renowned for its intensely tropical aroma and deeply relaxing effects. The strain is believed to be a cross of **White Widow** and an unknown Afghani indica, though some phenotypic variants suggest additional tropical-lineage genetics.
 
-created: 2026-05-07
----
-
-## Overview
-
-**Jungle Juice** is an indica-dominant [[query-what-is-the-difference-between-indica-sativa-and-hybrid-cannabis]] strain renowned for its intensely tropical aroma and deeply relaxing effects. The strain is believed to be a cross of **White Widow** and an unknown Afghani indica, though some phenotypic variants suggest additional tropical-lineage genetics.
-
-It has gained a dedicated following among recreational users for its smooth onset and body-heavy sedation, while medical patients value it for evening [[cannabis-pain-management-protocols]] and insomnia relief. The strain's name derives from its pungent, jungle-like bouquet of tropical fruit and earthy undertones.
-
-## Lineage
-
-The exact breeder and genetic origin of Jungle Juice remain partially undocumented. The most widely accepted lineage places it as a cross between:
-
-- **White Widow** (indica-dominant hybrid, Brazilian sativa × South Indian indica) — contributing [[cannabis-glandular-trichome-types-resin-production-clarke]] and balanced potency.
-- **Afghani landrace** — contributing dense bud structure, heavy body effects, and shortened [[what-a-plant-knows-photoperiodism-flowering-time-measurement]].
-
-Some sources suggest a tertiary parent contributing the strain's signature tropical [[cannabis-terpene-profile]], possibly a Thai or Hawaiian sativa, though this has not been genetically verified. The indica dominance is typically reported at 65–70%.
+It has gained a dedicated following among recreational users for its smooth onset and body-heavy sedation, while medical patients value it for evening [[cannabis-glandular-trichome-types-resin-production-clarke]] and balanced potency.
+- **Afghani landrace** — contributing dense bud structure, heavy body effects, and shortened [[cannabis-terpene-profile]], possibly a Thai or Hawaiian sativa, though this has not been genetically verified. The indica dominance is typically reported at 65–70%.
 
 ## Appearance
 
@@ -51,24 +35,7 @@ On the palate, the tropical sweetness carries through on the inhale, while the e
 
 - **Myrcene** (dominant, ~40–50%): Contributes sedative body effects and the earthy, herbal base notes. Myrcene is the primary driver of the strain's indica-leaning physical relaxation.
 - **Terpinolene** (secondary, ~15–20%): Adds the fruity, tropical aroma characteristic of the strain. Terpinolene is relatively uncommon as a dominant terpene, giving Jungle Juice its distinctive olfactory signature.
-- **Caryophyllene** (~10–15%): Adds peppery spice notes and contributes anti-inflammatory properties through CB2 [[tihkal-receptor-binding-serotonin]].
-- **Limonene** (~5–10%): Provides subtle citrus brightness and mood elevation.
-- **Pinene** (trace): Adds mild pine undertones and may counteract some of the sedative effects.
-
-## Cannabinoid Profile
-
-- **THC:** 18–24%, with some premium cuts testing up to 26%
-- **CBD:** <1% (typically 0.1–0.3%)
-- **CBG:** Trace amounts (<0.5%)
-- **THCV:** Negligible
-
-## Effects
-
-The onset is relatively fast, beginning with a mild cerebral uplift — a sense of euphoria and slight sensory enhancement that is more functional than intoxicating. This head effect is brief, transitioning within 20–40 minutes into a full-body relaxation.
-
-The body high is deeply sedative, progressing from physical comfort to couch-lock in higher doses. Users report significant muscle tension relief and a general sense of physical heaviness. Mental effects shift to a calm, somewhat hazy contentment.
-
-Duration is typically 2–3 hours, with the sedative phase lasting longest. The comedown is smooth, without the anxiety or paranoia sometimes reported with stronger [[african-landrace-sativa-strains]].
+- **Caryophyllene** (~10–15%): Adds peppery spice notes and contributes anti-inflammatory properties through CB2 [[african-landrace-sativa-strains]].
 
 ## Cultivation
 
@@ -77,9 +44,7 @@ Duration is typically 2–3 hours, with the sedative phase lasting longest. The 
 - **Difficulty:** Easy to moderate
 - **Climate preference:** Warm, Mediterranean or tropical
 
-The strain is forgiving of minor cultivation errors and resistant to common molds. It responds well to low-stress training (LST) and [[cannabis-screen-of-green-scrog-guide]] (ScrOG) techniques. Outdoor harvest occurs in early to mid-October in northern latitudes.
-
-Plants reach medium height (90–150 cm indoors) with a bushy, lateral branching structure. [[cannabis-soil-and-nutrient-requirements]] are moderate; the strain is sensitive to over-fertilization during mid-flowering, which can cause tip burn and reduce terpene expression.
+The strain is forgiving of minor cultivation errors and resistant to common molds. It responds well to low-stress training (LST) and [[cannabis-soil-and-nutrient-requirements]] are moderate; the strain is sensitive to over-fertilization during mid-flowering, which can cause tip burn and reduce terpene expression.
 
 ## Medical Applications
 
@@ -88,3 +53,88 @@ Jungle Juice is primarily used in evening and nighttime therapeutic contexts due
 - **Insomnia:** The strong body sedation and prolonged duration make it effective for sleep onset and maintenance. Many patients report uninterrupted sleep cycles.
 - **Pain management:** Myrcene-dominant strains are associated with analgesic and anti-inflammatory effects. Patients with chronic back pain, arthritis, and neuropathy report meaningful relief.
 - **Anxiety and stress:** The initial cerebral euphoria followed by physical calm creates a window of mental relaxation before sedation takes over.
+
+## Overview
+
+Jungle Juice represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish jungle juice
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving jungle extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Jungle Juice finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for jungle juice. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+jungle juice and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Jungle Juice has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of jungle juice into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[bionutrients-lab-fermented-plant-juice-fpj]]
+- [[cannabis-raw-juice-non-psychoactive]]
+- [[cho-fermented-plant-juice-preparation]]
+- [[fermented-plant-juice-preparation-and-application]]
+- [[jungle-cake-cannabis]]

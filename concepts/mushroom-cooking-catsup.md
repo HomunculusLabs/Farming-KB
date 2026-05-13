@@ -11,11 +11,8 @@ type: concept
 
 # Mushroom Cooking and Catsup
 
-[[james-cuthill]] included practical cooking instructions in his
-1870 treatise on [[accessible-mushroom-cultivation-for-disabilities]], recognising that
-[[magic-mushroom-preparation-and-consumption-methods]] were the ultimate purpose of all
-cultivation efforts. He addressed both the cottager's wife
-with simple home [[solar-cooking-methods]] and the commercial grower
+[[accessible-mushroom-cultivation-for-disabilities]], recognising that
+[[solar-cooking-methods]] and the commercial grower
 with guidance on mushroom catsup production.
 
 ## Nutritional Value

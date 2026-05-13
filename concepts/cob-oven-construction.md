@@ -1,5 +1,5 @@
 ---
-title: Cob Oven Construction
+title: [[comparison-cob-oven-construction-vs-rocket-stove]]
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
@@ -9,7 +9,7 @@ sources: []
 
 # Cob Oven Construction
 
-[[query-how-to-build-a-cob-oven-for-outdoor-cooking]] (also called an earth oven, clay oven, or wood-fired bread oven) is an outdoor baking structure built from [[building-with-natural-materials]]: clay, sand, and straw. Cob ovens reach 700-900F and bake excellent bread, pizza, roasts, casseroles, and more. They cost very little to build, require no special skills, and can last for decades with basic maintenance. A cob oven pairs naturally with a [[rocket-stove-design]] for complementary cooking infrastructure.
+A cob oven (also called an earth oven, clay oven, or wood-fired bread oven) is an outdoor baking structure built from [[building-with-natural-materials]]: clay, sand, and straw. Cob ovens reach 700-900F and bake excellent bread, pizza, roasts, casseroles, and more. They cost very little to build, require no special skills, and can last for decades with basic maintenance. A cob oven pairs naturally with a [[rocket-stove-design]] for complementary cooking infrastructure.
 
 ## Cob Basics
 
@@ -102,7 +102,7 @@ Set a wooden form (a piece of 2x6 or similar cut to your desired door opening) i
 4. Optional: apply a lime wash (1 part lime to 3 parts water) for weather protection and a white finish.
 
 ### Step 8: Remove the Sand Form
-1. Let the entire oven dry for several days to a week (longer in humid climates)
+1. Let the entire oven dry for several days to a week (longer in [[berry-fruit-production-cool-humid-climates]])
 2. Remove the door form
 3. Reach in and scoop out the sand through the door opening
 4. Pull out the newspaper layer

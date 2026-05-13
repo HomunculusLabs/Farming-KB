@@ -9,17 +9,14 @@ sources:
 ---
 # Phytomining
 
-Phytomining (also called agromining) is an agricultural technology that uses hyperaccumulator plants to extract valuable metals from low-grade ore bodies, mineralized soils, or anthropogenically contaminated substrates. The harvested plant biomass, enriched with target metals, is then processed to recover the metal content for commercial use. Phytomining represents a novel intersection of phytoremediation and extractive metallurgy, offering a sustainable alternative to conventional mining for certain metal resources.
+Phytomining (also called agromining) is an agricultural technology that uses [[hyperaccumulator-plants]] to extract valuable metals from low-grade ore bodies, mineralized soils, or anthropogenically contaminated substrates. The harvested plant biomass, enriched with target metals, is then processed to recover the metal content for commercial use. Phytomining represents a novel intersection of phytoremediation and extractive metallurgy, offering a sustainable alternative to conventional mining for certain metal resources.
 
 ## Principles of Phytomining
 
 The concept of phytomining exploits the natural ability of certain plant species, called hyperaccumulators, to concentrate metals in their above-ground tissues at concentrations far exceeding normal plant levels. While most plants contain trace amounts of metals (typically 1 to 100 mg/kg dry weight), hyperaccumulators can concentrate specific metals to levels exceeding 1,000 mg/kg (0.1% dry weight), with some species reaching concentrations of 1% to 5% for certain metals.
 
-Phytomining operates on the same fundamental principles as phytoextraction, a mechanism of [[phytoremediation-mechanisms]] — overview of plant-based contaminant removal
-- [[heavy-metal-biosorption]] — [[staycare-fungal-biosorption-mechanisms-for-heavy-metal-removal]] for metal removal
-- [[fungal-biosorption-mechanisms]] — fungal [[fungal-heavy-metal-biosorption-and-detoxification]]
-- [[biodiversity-of-fungi-biomass-carbon-soil-structure]]
-- fungal-biodiversity-in-soil-ecosystems
+Phytomining operates on the same fundamental principles as phytoextraction, a mechanism of [[heavy-metal-biosorption]] — [[fungal-biosorption-mechanisms]] — fungal [[biodiversity-of-fungi-biomass-carbon-soil-structure]]
+- [[fungal-biodiversity]]-in-soil-ecosystems
 ## Practical Applications
 
 Phytomining has a range of practical applications that make it relevant to

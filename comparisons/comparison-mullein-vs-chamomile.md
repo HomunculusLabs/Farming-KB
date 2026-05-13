@@ -10,7 +10,7 @@ sources: []
 
 ## Overview
 
-Mullein ([[mullein]]) and chamomile ([[chamomile-growing-guide]]) are two of the
+Mullein ([[chamomile-growing-guide]]) are two of the
 most widely used medicinal herbs in Western herbalism, yet they serve
 fundamentally different purposes. Mullein is the quintessential respiratory
 remedy, prized for its ability to soothe coughs, clear congestion, and support
@@ -39,13 +39,7 @@ combined with garlic, is a traditional remedy for ear infections.
 
 Beyond medicine, mullein serves important ecological functions. Its deep
 taproot mines calcium, potassium, and magnesium from subsoil layers, making it
-a valuable [[dynamic-accumulators-overview|dynamic accumulator]] for chop-and-
-drop mulching. The tall flower spike attracts bees and other pollinators, and
-the seed heads feed finches through winter.
-
-## Chamomile
-
-[[chamomile-growing-guide]]
+a valuable [[chamomile-growing-guide]]
 
 Chamomile refers primarily to two species: German chamomile (*Matricaria
 chamomilla*), an upright annual, and Roman chamomile (*Chamaemelum nobile*), a
@@ -93,8 +87,7 @@ Its demulcent and expectorant properties make it ideal for dry, hacking coughs,
 productive coughs with thick mucus, bronchial irritation from colds or flu,
 and chronic respiratory conditions. The flower oil preparation is specifically
 indicated for ear infections, a use that chamomile does not address. Mullein
-is also the better option when you need a [[respiratory-herbs|respiratory herb]] that doubles as a soil-building plant, as its deep taproot and
-nutrient-mining capacity support [[dynamic-accumulator-chop-and-drop-mulching| chop-and-drop mulching]] strategies. In permaculture design, mullein fills the
+is also the better option when you need a [[dynamic-accumulator-chop-and-drop-mulching| chop-and-drop mulching]] strategies. In permaculture design, mullein fills the
 role of a pioneer species and soil breaker on compacted or degraded land.
 
 ## When to Choose Chamomile
@@ -121,22 +114,6 @@ Chamomile offers faster gratification. German chamomile flowers within 6-8
 weeks of sowing and blooms prolifically through the growing season. Roman
 chamomile provides year-round ground cover once established. Both are compact
 enough for raised beds, containers, and window boxes. Chamomile also serves as
-a [[pollinator-gardening|pollinator garden]] plant, attracting bees and
-beneficial insects with its daisy-like flowers.
-
-## Safety Considerations
-
-Both herbs have excellent safety profiles. Mullein leaves should be strained
-carefully from teas because the fine hairs can irritate the throat. Smoking
-mullein is not recommended due to combustion byproducts. Chamomile can trigger
-allergic reactions in individuals sensitive to ragweed or other Asteraceae
-family members, and it may interact with blood-thinning medications due to
-coumarin content.
-
-## See Also
-
-- [[respiratory-herbs]]
-- [[comparison-mullein-vs-calendula]]
+a [[respiratory-herbs]]
 - [[comparison-calendula-vs-chamomile]]
-- [[comparison-echinacea-vs-chamomile]]
 - [[comparison-valerian-vs-chamomile]]

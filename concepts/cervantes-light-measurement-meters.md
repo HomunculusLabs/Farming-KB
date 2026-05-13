@@ -18,29 +18,14 @@ type: concept
 # Light Measurement and Meters for Cannabis
 
 Understanding how to measure light is essential for optimizing cannabis
-growth indoors. [[jorge-cervantes]] explains the different measurement
-systems, their limitations, and how growers can use meters to improve
-their gardens.
-
-## Units of Light Measurement
-
-### Foot-Candles and Lux
-
-Virtually all light is measured in foot-candles, lux, or lumens.
-Foot-candles and lux measure light visible to the human eye. The human
-eye sees much less of the [[cannabis-light-spectrum-and-color-bands]] than plants "see." The eye
+growth indoors. [[cannabis-light-spectrum-and-color-bands]] than plants "see." The eye
 is most sensitive to light between 525-625 nanometers, while plants
 use a much broader range of wavelengths for photosynthesis.
 
 A foot-candle is a unit of illumination equal to the intensity of one
 candle at a distance of one foot. The lux scale is similar to that of
 the foot-candle; one foot-candle is equal to 10.76 lux. Both scales
-are useful for measuring relative [[cervantes-reflective-hoods-light-distribution]] in a garden but
-have significant limitations for horticultural purposes.
-
-### Lumens
-
-Lumens measure the total quantity of [[electromagnetic-spectrum-visible-light-plant-perception]] emitted by a
+are useful for measuring relative [[electromagnetic-spectrum-visible-light-plant-perception]] emitted by a
 source. While lumens per watt is the standard metric for comparing
 lamp efficiency, the lumen rating is weighted toward the wavelengths
 that human eyes perceive most brightly, not necessarily the
@@ -68,9 +53,7 @@ They cost approximately $30-50 and give an accurate idea of light
 distribution across a garden, even if they measure foot-candles
 rather than PAR. Use a light meter to:
 
-- Verify even light distribution from [[greenhouse-cannabis-growing]] integration
-- Check reflector effectiveness after adjusting
-  [[cervantes-light-spectrum-photomorphogenesis]] for detailed
+- Verify even light distribution from [[cervantes-light-spectrum-photomorphogenesis]] for detailed
 spectrum guidance.
 
 The Color Corrected Temperature (CCT) of a bulb is the peak Kelvin
@@ -117,8 +100,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[det]]
 - [[cervantes-moisture-meters-watering-technique]]
-- [[cervantes-light-movers]]
 - [[cervantes-light-spectrum-photomorphogenesis]]
 - [[cervantes-reflective-hoods-light-distribution]]

@@ -19,15 +19,7 @@ type: query
 
 ## Quick Answer
 
-**Ecological succession** is the natural process by which ecosystems change and develop over time — from [[savory-bare-ground-and-soil-exposure]] or disturbed land to increasingly complex, stable communities of plants, animals, and microorganisms. In farming, understanding succession lets growers work *with* nature's trajectory rather than against it, reducing inputs, building soil faster, and creating more resilient production systems. Farmers can accelerate succession to reach productive food-producing states (like food forests and perennial pastures) or arrest succession at productive intermediate stages (like annual vegetable gardens and grain fields).
-
-## What Is Ecological Succession?
-
-### The Basic Concept
-
-When bare land is left alone — whether after a volcanic eruption, a landslide, a fire, or a plowed field is abandoned — a predictable sequence of plant communities establishes itself over time. This process is called **ecological succession**, and it moves generally from simple, fast-growing, short-lived communities toward complex, diverse, long-lived ones.
-
-**Primary succession** starts on completely lifeless substrate — fresh lava, bare rock, glacial till. It begins with lichens and mosses that slowly [[query-can-fungi-break-down-plastic-pollution]] rock into soil, followed by increasingly demanding plants over centuries or millennia.
+**Ecological succession** is the natural process by which ecosystems change and develop over time — from [[query-can-fungi-break-down-plastic-pollution]] rock into soil, followed by increasingly demanding plants over centuries or millennia.
 
 **Secondary succession** starts where an existing ecosystem has been disturbed but soil and some organisms remain — abandoned farmland, logged forests, burned prairies, flood-scoured riverbanks. This is the type most relevant to farmers, as it proceeds much faster (years to decades) because soil, seed banks, and microbial communities are already present.
 
@@ -55,17 +47,11 @@ At each stage, the current occupants modify the environment in ways that make it
 
 **Shade tolerance**: Early successional plants are almost always sun-loving and fast-growing (high r-selection). They create shade that favors more shade-tolerant, slower-growing species that eventually outcompete them.
 
-**Soil building**: Pioneer plants have shallow, fibrous root systems that add [[hamilton-composting-and-organic-matter-management]] and begin developing soil structure. Later plants with deeper roots access more nutrients, cycle them to the surface through [[mycorrhizal-networks-and-forest-communication]].
+**Soil building**: Pioneer plants have shallow, fibrous root systems that add [[mycorrhizal-networks-and-forest-communication]].
 
 **Nutrient dynamics**: Early successional soils are typically high in available nitrogen (disturbance releases it) and low in organic matter. As succession progresses, more nitrogen gets locked up in living biomass and soil organic matter, and the system becomes more nitrogen-efficient.
 
-**Competition**: Each stage creates conditions that favor the next — taller plants outcompete shorter ones for light, deeper-rooted plants outcompete shallow ones for water and nutrients, and plants that tolerate lower [[ph-and-nutrient-availability-garden-soils]] outcompete those that require rich soil.
-
-## How Farmers Can Harness Succession
-
-### 1. Accelerate Succession — Jump-Start Productive Ecosystems
-
-The most powerful application of succession principles is to **skip ahead** rather than waiting decades for nature to do the work. This is the foundation of [[biological-nitrogen-fixation-agriculture]] shrubs (autumn olive, seaberry, Siberian pea shrub) that bridge the gap.
+**Competition**: Each stage creates conditions that favor the next — taller plants outcompete shorter ones for light, deeper-rooted plants outcompete shallow ones for water and nutrients, and plants that tolerate lower [[biological-nitrogen-fixation-agriculture]] shrubs (autumn olive, seaberry, Siberian pea shrub) that bridge the gap.
 5. **Uniform management**: Treating an entire farm the same eliminates the successional mosaic that creates resilience and biodiversity.
 
 ## Key Takeaways

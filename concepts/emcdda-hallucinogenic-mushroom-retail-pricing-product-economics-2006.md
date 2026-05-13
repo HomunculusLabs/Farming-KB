@@ -9,7 +9,7 @@ created: 2026-05-11
 
 ## Overview
 
-In January 2006, the EMCDDA conducted a systematic snapshot of online shops selling hallucinogenic mushroom products across Europe. Using search engines Google and AltaVista with four keyword combinations ("magic mushrooms shop," "buy magic mushrooms," "psilocybe cubensis shop," "buy psilocybe cubensis"), researchers identified 39 unique online shops. The vast majority (82%) were based in the Netherlands, with the remaining 18% located in Austria, Germany, the UK, and Poland.
+In January 2006, the EMCDDA conducted a systematic snapshot of online shops selling hallucinogenic mushroom products across Europe. Using search engines Google and AltaVista with four keyword combinations ("magic mushrooms shop," "buy magic mushrooms," "[[psilocybe-cubensis]] shop," "buy psilocybe cubensis"), researchers identified 39 unique online shops. The vast majority (82%) were based in the Netherlands, with the remaining 18% located in Austria, Germany, the UK, and Poland.
 
 ## Product Types and Price Ranges
 
@@ -20,43 +20,15 @@ The following pricing data represents the range found across identified online s
 | Product | Quantity | Price Range (EUR) |
 |---------|----------|-------------------|
 | Fresh Psilocybe cubensis (Mexican) | 30 g | 8.50–45.28 |
-| Fresh [[copelandia-cyanescens]] | 10 g | 13.00–17.50 |
-| Psilocybe mexicana (Philosopher's stones/truffles) | 15 g | 10.00–17.50 |
-
-Fresh Psilocybe cubensis varieties were the most commonly sold products by smartshops and online retailers. The cubensis varieties were cultivated specifically (mostly in the Netherlands) because they are easy to grow in terrariums and possess a low water content that allows them to stay fresh for 7–10 days.
-
-### Spawn and Cultivation Products
-
-| Product | Quantity | Price Range (EUR) |
-|---------|----------|-------------------|
-| Spawnbag (Psilocybe azurescens) | 1 bag | 24.00–25.00 |
-| Growkits | 1 kit | 25.00–100.00 |
-| Spore prints | 1 print or syringe | 9.00–28.00 |
-
-Prices for growkits and spore prints varied according to the [[emcdda-hallucinogenic-mushroom-species-classification-and-chemistry]] for which they were available. Growkits typically contained a box with colonized substrate, a bag with an air filter, and paperclips.
+| Fresh [[emcdda-hallucinogenic-mushroom-species-classification-and-chemistry]] for which they were available. Growkits typically contained a box with colonized substrate, a bag with an air filter, and paperclips.
 
 ### Free Spore Ring Europe
 
-Users could obtain a variety of strains (e.g., Psilocybe cubensis, Panaeolus cyanescens) for a price of 1 EUR per print from a non-profit making organization called the Free Spore Ring Europe (FSRE). Instructions on how to grow hallucinogenic mushrooms using a spore print and a substrate were easily found on the internet.
+Users could obtain a variety of strains (e.g., Psilocybe cubensis, Panaeolus cyanescens) for a price of 1 EUR per print from a non-profit making organization called the Free Spore Ring Europe (FSRE). Instructions on how to grow hallucinogenic mushrooms using a [[spore-print]] and a substrate were easily found on the internet.
 
 ## UK Market Economics (Pre-Prohibition)
 
-Before the UK ban in July 2005, the [[hallucinogenic-mushroom-market-in-europe]] was estimated to have a turnover of approximately £1 million (€1.46 million) per annum. The UK Treasury collected sales tax on hallucinogenic mushrooms estimated to be worth up to £175,000 (€255,421) per year. It was estimated that about 300 shops and market stalls across the UK sold hallucinogenic mushrooms until the change in legal status.
-
-According to the Mixmag 2004 readership survey, among those who had recently used hallucinogenic mushrooms, 54.6% reported purchasing their last batch from a club, shop, or stall; 16% got them from a friend; and 4.2% obtained them via the internet.
-
-## Dutch Smartshop Economics
-
-In the Netherlands, it was estimated that there were about 120–150 smartshops, concentrated primarily in Amsterdam. These shops sold legal and predominantly natural products, including magic mushrooms. According to the Dutch Risk Assessment Report (CAM, 2000), magic mushrooms made up approximately 50% of smartshop turnover.
-
-A 2001 study among a representative sample of young persons aged 12 and above in the Netherlands found that 64% of young people aged 18 and older who had used magic mushrooms in the last year purchased them in smartshops.
-
-Smartshop distribution channels included:
-- **Smartshops** — primary retail outlet for magic mushrooms
-- **Coffee shops** — some sold hallucinogenic mushrooms alongside cannabis
-- **Headshops** — drug paraphernalia shops that sometimes stocked mushrooms
-- **Grow shops** — shops for home marijuana growers that sometimes sold mushrooms
-- **"Paddo cabs"** — home delivery services for [[legal-responses-to-hallucinogenic-mushrooms-in-the-european-union]] some Dutch areas
+Before the UK ban in July 2005, the [[legal-responses-to-hallucinogenic-mushrooms-in-the-european-union]] some Dutch areas
 
 ## Online Shop Geographic Distribution
 

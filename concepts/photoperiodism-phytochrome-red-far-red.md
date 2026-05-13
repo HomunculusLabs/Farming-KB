@@ -11,7 +11,7 @@ sources: [raw/papers/grahamholmes-what-a-plant-knowsindd.md]
 
 ## Overview
 
-Photoperiodism is the physiological response of plants to the duration of light and dark periods in a 24-hour cycle. First discovered in 1918 through studies of the [[garner-allard-maryland-mammoth-tobacco-experiment]] strain, photoperiodism controls one of the most critical transitions in a plant's life cycle: the switch from vegetative growth to flowering. The molecular mechanism underlying this response is the [[phytochrome-photoreceptor]] system — a biological light-activated switch that uses red and far-red light to measure the length of uninterrupted darkness.
+Photoperiodism is the physiological response of plants to the duration of light and dark periods in a 24-hour cycle. First discovered in 1918 through studies of the [[phytochrome-photoreceptor]] system — a biological light-activated switch that uses red and far-red light to measure the length of uninterrupted darkness.
 
 ## Discovery of Photoperiodism
 
@@ -85,50 +85,5 @@ Modern molecular biology has revealed that phytochrome is not a single protein b
 
 ## Cannabis Application: The 12/12 Flowering Trigger
 
-The photoperiodism mechanism is directly exploited in commercial [[arbuscular-mycorrhizal-fungi-cannabis-cultivation]]:
-
-- Most Cannabis cultivars are **short-day plants** that flower when the dark period exceeds approximately 12 hours
-- Indoor growers maintain an 18/6 (light/dark) or 24/0 vegetative schedule to keep plants in vegetative growth
-- Switching to a 12/12 schedule triggers flowering by ensuring the dark period is long enough for Pfr to revert below the flowering threshold
-- **Light leaks** during the dark period are problematic because even brief red light exposure can convert Pr to Pfr, resetting the plant's night-length measurement and potentially causing re-vegetation or hermaphroditism
-- Far-red supplementation at the end of the light period can accelerate the Pfr→Pr conversion, potentially improving flowering consistency
-
-## Shade Avoidance and Canopy Sensing
-
-Beyond flowering, phytochrome mediates **shade avoidance responses**. When a plant is shaded by neighbors, the filtering of light through leaves preferentially removes red light (absorbed by chlorophyll for photosynthesis) while transmitting far-red. This shifts the red:far-red ratio downward, signaling to the shaded plant that it is competing for light:
-
-- Stem elongation accelerates (the plant stretches to reach light)
-- Leaf area may increase
-- Flowering may be accelerated (a strategy to reproduce before being outcompeted)
-
-This is why dense plantings can experience excessive stretching — the lower canopy perceives a low red:far-red ratio and triggers shade avoidance regardless of actual light intensity.
-
-## Manipulation in Horticulture
-
-The red-far-red phytochrome system has been harnessed across horticulture:
-
-- **Chrysanthemum production**: Growers prevent flowering throughout autumn and winter by briefly illuminating plants with red light each night, then trigger mass flowering by stopping the night interruption two weeks before market
-- **Greenhouse supplemental lighting**: LED fixtures with specific red:far-red ratios can be used to control plant architecture — higher far-red promotes stretching while higher red maintains compact growth
-- **End-of-day far-red treatments**: Applying far-red light for 15-30 minutes before lights-off accelerates the phytochrome dark reversion process and can improve rooting, reduce time to flower, and enhance overall plant quality
-- **Seed germination**: Many seeds require light (or specific light quality) to germinate, a response mediated by phytochrome — buried seeds remain dormant until soil disturbance exposes them to red light
-
-## Research Frontiers
-
-Current research on phytochrome includes:
-
-- Engineering phytochrome variants with altered spectral sensitivity for precision control of plant growth
-- Understanding how [[phytochrome-signaling-plant-light-perception]] integrates with other environmental cues (temperature, water status, [[ph-and-nutrient-availability-garden-soils]])
-- Developing smart lighting systems that dynamically adjust red:far-red ratios based on plant growth stage and canopy density
-- Investigating phytochrome's role in root development, where its functions are less well characterized than in shoots
-
-## Related Concepts
-
-- [[plant-phototropism-darwin-experiments]]
-- [[photoreceptors-in-plants-phytochrome-cryptochrome]]
-- light spectrum grow lights photosynthesis
-- photoperiod flowering cannabis indoor
-
-## See Also
-
-- Chamovitz D. (2012) "What a Plant Knows." Oneworld Publications. Chapter 1: What a Plant Sees.
-- Garner WW, Allard HA. (1920) "Effect of the Relative Length of Day and Night and Other Factors of the Environment on Growth and Reproduction in Plants." Journal of [[fukuoka-inductive-deductive-intuitive-reasoning-agricultural-research]].
+The photoperiodism mechanism is directly exploited in commercial [[phytochrome-signaling-plant-light-perception]] integrates with other environmental cues (temperature, water status, [[plant-phototropism-darwin-experiments]]
+- [[fukuoka-inductive-deductive-intuitive-reasoning-agricultural-research]].

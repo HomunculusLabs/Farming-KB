@@ -8,9 +8,7 @@ sources: [/Users/t3rpz/wiki/raw/papers/staycare-mngmt-fungi-in-bioremediation.md
 type: concept
 ---
 
-# [[mycorrhizal-fungi]] (AMF) form symbiotic associations with the
-roots of the vast majority of terrestrial plant species and play crucial
-[[dighton-fungal-roles-in-nutrient-cycling]] uptake, particularly phosphorus acquisition. In
+# [[dighton-fungal-roles-in-nutrient-cycling]] uptake, particularly phosphorus acquisition. In
 hydrocarbon-contaminated soils, AMF contribute to bioremediation
 primarily by enabling plant establishment and survival on polluted sites,
 thereby facilitating phytoremediation processes. Their role differs from
@@ -23,8 +21,7 @@ systems.
 Arbuscular mycorrhizal fungi belong to the phylum Glomeromycota and
 form obligate symbiotic relationships with plant roots. The fungal
 hyphae penetrate root cortical cells, forming highly branched arbuscules
-that serve as the primary interface for [[arbuscule-isolation-and-nutrient-exchange-mechanisms]] between the
-fungus and host plant. The extensive external [[gadd-mycelial-network-dynamics]] extends
+that serve as the primary interface for [[gadd-mycelial-network-dynamics]] extends
 far beyond the root zone, greatly expanding the soil volume explored for
 nutrient acquisition. In return for photosynthetically derived carbon
 from the host plant, the fungus provides enhanced access to soil
@@ -35,19 +32,7 @@ nutrients, particularly immobile phosphate ions.
 Hydrocarbon contamination of soil has complex effects on AMF populations
 and their function. Field studies have shown that native AMF propagules
 can survive habitat contamination by petroleum hydrocarbons. However,
-several [[blesching-cannabis-safety-adverse-effects-evidence]] have been documented:
-
-- **Reduced colonization capacity**: The incorporation of hydrocarbon-
-  containing sludges into soil reduces the capacity of native AMF
-  propagules to initiate root colonization. Recovery to levels
-  comparable to non-polluted soils is slow and begins from
-  neighbouring uncontaminated areas.
-- **Structural damage**: Pollution reduces the percentage of
-  arbuscular structures within colonized roots. Since arbuscules
-  are the primary sites for nutrient exchange between the fungal
-  endophyte and host plant, this reduction indicates impairment
-  of symbiotic function.
-- **Altered [[core-endorhiza-bacterial-community-composition-cannabis]]**: Hydrocarbon contamination can
+several [[core-endorhiza-bacterial-community-composition-cannabis]]**: Hydrocarbon contamination can
   shift the dominant AMF species, with certain taxa showing greater
   tolerance than others.
 
@@ -92,5 +77,7 @@ compounds:
 ## See Also
 
 - [[staycare-cyanide-biodegradation-by-fungi]]
-- [[staycare-fungal-degradation-of-ddt-and-organochlorine-insecticides]]
-- [[staycare-fungal-degradation-of-pcbs-and-dioxins]]
+- [[staycare-cytochrome-p450-in-fungal-biodegradation]]
+- [[staycare-fungal-bioremediation-btex-compounds]]
+- [[staycare-fungal-pesticide-pop-degradation]]
+- [[staycare-persistent-pollutant-bound-residue-formation]]

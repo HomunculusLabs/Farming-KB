@@ -3,10 +3,8 @@ title: Quantum Mechanics Fundamentals
 type: concept
 category: physics
 related:
-  - [[statistical-mechanics]]
-  - [[maxwell-equations-electromagnetism]]
-  - [[crystal-structure-and-crystal-defects]]
-  - [[laws-of-thermodynamics]]
+  - maxwell-equations-electromagnetism
+  - laws-of-thermodynamics
 tags: [physics, quantum-mechanics, wave-function, schrodinger-equation,
   hilbert-space, entanglement, uncertainty-principle, superposition,
   quantum-computing, wave-particle-duality]
@@ -90,8 +88,6 @@ methods provide upper bounds on ground-state energies.
 ## Entanglement and Bell's Theorem
 
 ## See Also
-- [[det]]
 - [[tryptamines-and-quantum-mechanics]]
-- [[fracture-mechanics-engineering-materials]]
 - [[bloomfield-rice-blast-appressorium-mechanics]]
 - [[statistical-mechanics]]

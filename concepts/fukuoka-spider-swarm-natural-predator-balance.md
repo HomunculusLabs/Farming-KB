@@ -10,21 +10,8 @@ type: concept
 created: 2026-04-28
 ---
 
-One of the most dramatic natural events [[conventional-vs-organic-vs-regenerative|conventional pest management]],
-which seeks to identify a single cause and apply a single solution.
-
-## The Ash Incident
-
-Fukuoka once thought there would be nothing wrong with putting fireplace ashes on his fields.
-Two or three days later, the field was completely bare of spiders. The ash caused the web
-strands to disintegrate. He estimated that thousands of spiders fell victim to a single handful
-of apparently harmless ash.
-
-This experience illustrated his broader principle: "Applying an insecticide is not simply a
-matter of eliminating the leafhoppers together with their natural predators. Many other
-essential dramas of nature are affected." Even organic inputs can disrupt the [[conventional-vs-organic-vs-regenerative|Green Revolution]]. The "Good Rice Movement" depended on weak, improved seed
-varieties that required chemicals and insecticides eight to ten times per [[savory-growing-season-and-non-growing-season-management]]. In a
-short time the soil was burned clean of microorganisms and [[hamilton-composting-and-organic-matter-management]]. Crops came to be
+One of the most dramatic natural events [[conventional-vs-organic-vs-regenerative|Green Revolution]]. The "Good Rice Movement" depended on weak, improved seed
+varieties that required chemicals and insecticides eight to ten times per [[hamilton-composting-and-organic-matter-management]]. Crops came to be
 dependent on nutrients added from the outside in the form of chemical fertilizer.
 
 Fukuoka estimated that abandoning chemicals would cause only about ten percent loss in the first
@@ -36,7 +23,7 @@ keeping water out of the field.
 
 ## Broader Ecological Principle
 
-The spider swarm exemplifies [[fukuoka-textdoc-attaining-natural-form-fruit-trees|orchard management]], [[fukuoka-vegetable-disease-insect-resistance]], [[fukuoka-critique-soil-cultivation]], [[fukuoka-dry-field-rice-compact-plant-theory]]
+The spider swarm exemplifies [[fukuoka-vegetable-disease-insect-resistance]], [[fukuoka-dry-field-rice-compact-plant-theory]]
 ## Practical Applications
 
 Fukuoka Spider Swarm and Natural Predator Balance has a range of practical applications that make it relevant to
@@ -97,8 +84,6 @@ through generations to modern scientific approaches, the evolution continues
 to inform current best practices and research directions.
 
 ## See Also
-- [[doc]]
 - [[det]]
-- [[composting]]
 - [[orchard-management]]
 - [[fukuoka-spider-leafhopper-natural-balance]]

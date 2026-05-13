@@ -11,15 +11,7 @@ tags: [natural-farming, plant-growth]
 
 # Seed Saving and Heirloom Varieties
 
-Seed saving is a critical skill for self-reliant farming and a core practice in permaculture. It preserves genetic diversity, reduces dependence on commercial seed suppliers, and allows farmers to select for traits adapted to their specific conditions. Seed sharing is identified as one of the foundational activities of permaculture culture, alongside organic agriculture, [[bill-mollison-permaculture-a-designers-manual-forest-gardens-and-food-forests]], and other practices that support self-reliance.
-
-## The Importance of Open-Pollinated and Heirloom Varieties
-
-Heritage varieties are central to natural farming because they breed true from seed, unlike modern hybrids. Heritage [[comparison-pruning-fruit-trees-vs-grafting-fruit-trees]] are more likely to be disease-resistant. Seed saving from hybrids is explicitly cautioned against: "You can save seed from your second crop of grain (unless you're using a hybrid)." [[heirloom-vs-hybrid-seeds-comparison]] do not produce offspring with the same characteristics as the parent plant, making them unsuitable for seed saving.
-
-## Seed Saving for Grain Crops
-
-The grain harvest process includes careful [[cannabis-seed-selection-and-strain-types]] and storage:
+Seed saving is a critical skill for self-reliant farming and a core practice in permaculture. It preserves genetic diversity, reduces dependence on commercial seed suppliers, and allows farmers to select for traits adapted to their specific conditions. Seed sharing is identified as one of the foundational activities of permaculture culture, alongside organic agriculture, [[comparison-pruning-fruit-trees-vs-grafting-fruit-trees]] are more likely to be disease-resistant. Seed saving from hybrids is explicitly cautioned against: "You can save seed from your second crop of grain (unless you're using a hybrid)." [[cannabis-seed-selection-and-strain-types]] and storage:
 
 1. Save seed from your second crop of grain (not the first, and not from hybrids)
 2. Select the best seed heads: unbroken and healthy specimens only
@@ -39,9 +31,7 @@ Dry ice method: Use 1 tablespoon of dry ice per 5 gallons of grain. Place in an 
 
 Heat method: For edible grain only (not seed grain, as heat kills viability). Spread a quarter-inch layer on a pan and heat in the oven at 140 degrees F (60 degrees C) for 30 minutes.
 
-### [[natural-farming-seed-saving]]
-- permaculture-designers-manual-seed-saving-varieties
-- [[comparison-heirloom-vegetable-varieties-vs-seed-saving-techniques]]
+### [[comparison-heirloom-vegetable-varieties-vs-seed-saving-techniques]]
 ## Practical Considerations
 
 When working with Seed Saving and Heirloom Varieties from Natural Farming, several practical factors should be

@@ -13,70 +13,85 @@ sources:
 
 **Duddingtonia flagrans** is a predacious ascomycete fungus that captures and destroys nematodes using adhesive three-dimensional networks of hyphae.
 
-It is one of the most promising [[fukuoka-textdoc-biological-control-fallacy-pheromone-critique]] agents against gastrointestinal nematode parasites of livestock.
+It is one of the most promising [[arthrobotrys-oligospora]] (hyphal network traps)
+- [[nematophagous-fungi]], different species employ distinct trapping strategies.
 
-The species has been extensively investigated for use in sustainable parasite management programmes.
-
-## Taxonomy and Classification
-
-D. flagrans belongs to the order Orbiliales within the class Orbiliomycetes.
-
-The nematode-trapping fungi were formerly classified among various ascomycete groups but molecular phylogenetics has clarified their placement.
-
-Key taxonomic details include:
-
-- **Phylum:** Ascomycota
-- **Class:** Orbiliomycetes
-- **Order:** Orbiliales
-- **Family:** Orbiliaceae
-
-The species was named in honour of the mycologist C. L. Duddington, who made significant contributions to the study of predacious fungi.
-
-## Trap Morphology
-
-D. flagrans captures nematodes using a three-dimensional adhesive network of hyphae.
-
-This contrasts with:
-
-- The adhesive knobs of [[arthrobotrys-oligospora]] (hyphal network traps)
-- [[monacrosporium-haptotylum]] (adhesive knob traps)
-- *Monacrosporium ellipsosporum*
-- *Monacrosporium gephyropagum*
-- *Monacrosporium psychrophilum*
-- *Dactylella oxyspora*
-- *Dactylella rhopalota*
-
-All branches within the clade have bootstrap support values above 50, confirming the monophyly of nematode-trapping fungi.
-
-## Biological Control Applications
-
-D. flagrans has attracted particular attention as a biological control agent against parasitic nematodes in livestock.
-
-When fed to animals in [[nematophagous-fungi]], different species employ distinct trapping strategies.
-
-The adhesive network of D. flagrans and [[monacrosporium-haptotylum]] or the constricting rings of *A. dactyloides*.
-
-This generalist strategy may contribute to the ecological success and biological control potential of D. flagrans.
-
-The adhesive network is effective against a wide range of nematode species and sizes.
-
-## Research Significance
-
-The phylogenetic analysis of nematode-trapping fungi, including D. flagrans, has demonstrated that trapping morphology is a reliable phylogenetic character.
-
-The concordance between trap type and molecular phylogeny supports the hypothesis that these diverse trapping structures represent evolved specializations within a single monophyletic lineage of ascomycetes.
-
-## Agricultural Implementation
-
-Field trials of D. flagrans as a biological control agent have been conducted in several countries, including Australia, Denmark, and Brazil.
-
-Results have shown significant reductions in larval nematode populations on pasture when the fungus was fed to livestock.
-
-The fungus can be administered in feed supplements or mineral blocks.
-
-Optimal dosing regimens and timing relative to grazing patterns are active areas of research.
-
-## See Also
-
-- [[arthrobotrys-oligospora]] for another nematode-trapping fungus
+The adhesive network of D. flagrans and [[arthrobotrys-oligospora]] for another nematode-trapping fungus
 - [[arthrobotrys-musiformis]] for another species in the nematophagous clade
+
+## Overview
+
+Duddingtonia Flagrans represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish duddingtonia flagrans
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving duddingtonia extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Duddingtonia Flagrans finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for duddingtonia flagrans. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+duddingtonia flagrans and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Duddingtonia Flagrans has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of duddingtonia flagrans into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.

@@ -27,13 +27,10 @@ sources:
 perennial herb in the family Asteraceae.
 
 Native to Europe and western Asia, it has been cultivated for
-centuries as a [[query-how-do-i-build-a-medicinal-herb-drying-rack-and-optimize-drying-conditions]] [[comparison-bean-growing-guide-vs-pepper-growing-guide]], particularly valued for respiratory
+centuries as a [[comparison-bean-growing-guide-vs-pepper-growing-guide]], particularly valued for respiratory
 conditions. Growing 1.5–2.5 m tall, it produces large leaves and
 bright yellow flower heads. Its thick aromatic root contains inulin
-(up to 44%), alantolactone, and isoalantolactone.herbal-medicine-preparation-methodsan**Introduced:** Northeastern gartz-magic-mushrooms-species-south-america, [[medicinal-mushroom-extraction-bioactive-compounds]]
-
-**Sesquiterpene lactones (1.5–3% of dry root):**
-- **Alantolactone** — major active; [[camphene]]. Warm, camphoraceous aroma.
+(up to 44%), alantolactone, and isoalantolactone.herbal-medicine-preparation-methodsan**Introduced:** Northeastern gartz-magic-mushrooms-species-south-america, [[camphene]]. Warm, camphoraceous aroma.
 
 **Other:** Phenolic acids, flavonoids (quercetin, kaempferol
 glycosides), triterpenes, mucilage, bitter principles.
@@ -48,8 +45,7 @@ EMA/HMPC as an expectorant.
 traditional antiparasitic, prebiotic from inulin.
 
 **Antimicrobial:** Broad-spectrum in vitro activity against
-Gram-positive bacteria and [[companion-planting]]:** Aromatic root may deter soil pests; planted
-at [[hamilton-vegetable-bed-preparation]] edges.
+Gram-positive bacteria and [[hamilton-vegetable-bed-preparation]] edges.
 
 ## Side Effects
 

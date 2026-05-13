@@ -40,7 +40,7 @@ as poisonous, possibly due to its psychoactive potential.
   Cheilocystidia lageniform-capitate to bluntly capitate, 40-55 x
   10-12.5 um. Pleurocystidia mucronate, clavate, 40-60 x 10-15 um.
 - **Habitat:** Widespread in British Isles, northern Europe, western
-  [[psilocybin-north-america-pacific-northwest]]. On [[microfungal-biodiversity-ecology-wood-debris-sampling]], gardens, parks, grassy woodland
+  [[microfungal-biodiversity-ecology-wood-debris-sampling]], gardens, parks, grassy woodland
   edges. Beneath conifers (Pacific NW) and aspens (SW). Under oaks
   in southern California.
 - **Chemistry:** Activity suspected but not confirmed. Beug and
@@ -66,55 +66,69 @@ species recently transferred from Stropharia to Psilocybe,
 reflecting ongoing reclassification within the psilocybin-containing
 fungi. Its spectacular appearance makes it one of the most visually
 distinctive mushrooms in its habitat. The discrepancy between
-historical "poisonous" reports and modern [[guzman-allen-gartz-conflicting-chemical-analyses-neurotropic-fungi]]
-illustrates the need for careful study of fungal biochemistry. Its
-relationship to Psilocybe caerulea and P. pseudocyanea forms an
-important species complex for understanding Stropharia-Psilocybe
-taxonomy. The species serves as a reminder that not all mushrooms
-placed in Psilocybe on morphological grounds contain psychoactive
-compounds, and that chemical verification remains essential.
+historical "poisonous" reports and modern [[psilocybe-angustispora]]
+- [[psilocybe-caeruleoannulata]]
+- [[psilocybe-cyanofibrillosa-profile]]
+- [[psilocybe-dumetorum]]
+- [[psilocybe-fanaticus]]
+- [[psilocybe-genus-taxonomy]]
+- [[psilocybe-graecia]]
+- [[psilocybe-hermescii]]
+- [[psilocybe-huautla]]
+- [[psilocybe-magnivelaris]]
+- [[psilocybe-makarorae-new-zealand-profile]]
+- [[psilocybe-moellerii]]
+- [[psilocybe-natmansii]]
+- [[psilocybe-ovoidocystidiata]]
+- [[psilocybe-plutonia]]
+- [[psilocybe-section-zapotecorum-americas-pacific-disjunction]]
+- [[psilocybe-serotina]]
+- [[psilocybe-species-europe]]
+- [[psilocybe-sylvatica]]
+- [[psilocybe-thessalonica]]
+- [[psilocybe-verrucosa]]
+- [[psilocybe-viridescens]]
 
 ## See Also
 
-- [[psilocybe-angustispora]]
+- [[psilocybe-antioquensis]]
 - [[psilocybe-atarhizomatos]]
-- [[psilocybe-caeruleoannulata]]
+- [[psilocybe-atlantis]]
+- [[psilocybe-baeocystis-profile]]
+- [[psilocybe-brasiliensis]]
+- [[psilocybe-collybioides]]
 - [[psilocybe-columbiana]]
-- [[psilocybe-cyanofibrillosa-profile]]
+- [[psilocybe-cordispora]]
+- [[psilocybe-cubensis-alkaloid-distribution]]
+- [[psilocybe-cubensis-cap-vs-stem-alkaloid-distribution]]
 - [[psilocybe-czechica]]
-- [[psilocybe-dumetorum]]
 - [[psilocybe-equestris]]
-- [[psilocybe-fanaticus]]
-- [[psilocybe-fascicata]]
-- [[psilocybe-genus-taxonomy]]
+- [[psilocybe-genus-global-distribution-and-biogeography]]
 - [[psilocybe-genus-taxonomy-and-chemistry]]
-- [[psilocybe-graecia]]
 - [[psilocybe-heckelii]]
-- [[psilocybe-hermescii]]
 - [[psilocybe-heterophyllia]]
-- [[psilocybe-huautla]]
-- [[psilocybe-kashmeriensis]]
-- [[psilocybe-magnivelaris]]
+- [[psilocybe-hochetschii]]
+- [[psilocybe-kumaenorum]]
+- [[psilocybe-linearis]]
+- [[psilocybe-liniformans]]
 - [[psilocybe-maiorchina]]
-- [[psilocybe-makarorae-new-zealand-profile]]
+- [[psilocybe-mairei]]
 - [[psilocybe-margarinalis]]
-- [[psilocybe-moellerii]]
+- [[psilocybe-martinezii]]
+- [[psilocybe-medullosa]]
 - [[psilocybe-moseri]]
-- [[psilocybe-natmansii]]
+- [[psilocybe-naematoliformis]]
 - [[psilocybe-oaxacensis]]
-- [[psilocybe-ovoidocystidiata]]
+- [[psilocybe-ovoideocystidiata]]
 - [[psilocybe-panaeoliformis]]
-- [[psilocybe-plutonia]]
 - [[psilocybe-quebecensis-profile]]
-- [[psilocybe-section-zapotecorum-americas-pacific-disjunction]]
+- [[psilocybe-rugosoannulata]]
+- [[psilocybe-section-classification]]
 - [[psilocybe-section-zapotecorum-guzman-1998]]
-- [[psilocybe-serotina]]
+- [[psilocybe-serbica-profile]]
 - [[psilocybe-silvatica-profile]]
-- [[psilocybe-species-europe]]
-- [[psilocybe-strictipes-entity]]
-- [[psilocybe-sylvatica]]
+- [[psilocybe-subcubensis-profile]]
+- [[psilocybe-tampanensis-profile]]
+- [[psilocybe-tampensis]]
 - [[psilocybe-thailandensis]]
-- [[psilocybe-thessalonica]]
 - [[psilocybe-venenata]]
-- [[psilocybe-verrucosa]]
-- [[psilocybe-viridescens]]

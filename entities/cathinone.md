@@ -22,9 +22,7 @@ sources:
 
 ## Overview
 
-Cathinone (β-keto-amphetamine) is a naturally occurring monoamine alkaloid found in the leaves of *[[catha-edulis]]* (khat), a plant cultivated for centuries in East Africa and the Arabian Peninsula.
-
-It is structurally classified as a β-ketone substituted amphetamine, making it the parent compound of the synthetic cathinone class — a large family of novel [[cultural-evolution-and-psychoactive-substances]] that includes mephedrone, methylone, and α-PVP.
+Cathinone (β-keto-amphetamine) is a naturally occurring monoamine alkaloid found in the leaves of *[[cultural-evolution-and-psychoactive-substances]] that includes mephedrone, methylone, and α-PVP.
 
 Cathinone acts primarily as a releasing agent and reuptake inhibitor of dopamine, norepinephrine, and serotonin, producing stimulant and empathogenic effects similar to amphetamine.
 
@@ -52,38 +50,85 @@ It acts primarily through reversal of monoamine transporter function at DAT, NET
 
 Compared to amphetamine, cathinone shows approximately 50% lower potency at DAT but higher serotonergic activity, contributing to a more pronounced empathogenic component in its subjective effects profile.
 
-**[[tihkal-receptor-binding-serotonin]] profile:**
-
-- DAT: Releasing agent (moderate potency)
-- NET: Releasing agent (moderate potency)
-- SERT: Releasing agent (weak to moderate)
-- 5-HT₂A: No significant affinity
-- MAO: Weak inhibition
-
-## Effects
-
-Onset occurs within 15–30 minutes when consumed orally (chewed khat leaves). Intravenous administration produces near-immediate effects.
-
-**Desired effects include** euphoria, increased alertness, enhanced sociability, mild empathogenic feelings, elevated mood, and increased energy. Effects last 1.5–3 hours, shorter than amphetamine due to faster metabolism.
-
 **[[blesching-cannabis-safety-adverse-effects-evidence]]** include tachycardia, hypertension, insomnia, anxiety, anorexia, hyperthermia, and in severe cases, paranoid psychosis with prolonged heavy use.
 
-Chronic khat use is associated with periodontal disease, [[blesching-cannabis-gastrointestinal-disorders]], cardiovascular complications, and psychiatric disturbances including depression upon cessation.
-
-## Natural Source and History
-
-Cathinone was first isolated and characterized from *Catha edulis* leaves in 1975 by the United Nations Secretariat laboratory, though the stimulant properties of khat have been known for millennia.
-
-Khat chewing has been a social and cultural practice in Ethiopia, Somalia, Yemen, and Kenya for centuries. The plant is traditionally consumed during communal gatherings, work sessions, and religious study.
-
-Fresh khat leaves contain the highest cathinone concentrations (up to 1.0% by dry weight), with degradation to cathine beginning within 48 hours of harvest. This rapid degradation drives the logistics of khat distribution — it must be consumed fresh for full effect.
-
-The synthetic cathinone class emerged in the 2000s as "designer stimulants" designed to circumvent drug scheduling laws, with compounds like mephedrone and MDPV achieving widespread recreational use before being controlled internationally.
-
-## Legal Status
-
-Cathinone is listed in Schedule I of the United Nations Convention on Psychotropic Substances (1971), placing it under international control.
-
-In the [[dmt-containing-plants-united-states-halpern]], cathinone is a Schedule I controlled substance. The Federal Analogue Act also covers many synthetic cathinone derivatives.
+Chronic khat use is associated with periodontal disease, [[dmt-containing-plants-united-states-halpern]], cathinone is a Schedule I controlled substance. The Federal Analogue Act also covers many synthetic cathinone derivatives.
 
 [[smartshop-markets-and-legal-status-of-hallucinogenic-mushrooms]] khat itself varies by country: it is legal in the UK (reclassified as Class C in 2014, previously uncontrolled), illegal in the US, Canada, and most EU member states, but remains legal and culturally accepted in Yemen, Ethiopia, Kenya, and Djibouti.
+
+## Overview
+
+Cathinone represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish cathinone
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving cathinone extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Cathinone finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for cathinone. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+cathinone and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Cathinone has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of cathinone into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.

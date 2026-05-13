@@ -18,22 +18,8 @@ organism performs. By walking through a day in the life of an
 oak, from morning rain through afternoon sun to nighttime dew,
 Hemenway reveals how deeply trees are connected to every aspect
 of the environment. This exercise in ecological thinking
-demonstrates why [[lowenfels-earthworms-soil-food-web]] is as important as
-   choosing the right plants.
-
-4. **Connections matter more than individual elements.** The
-   oak is not an isolated organism but a node in a vast network
-   of relationships. A garden designed for connections between
-   elements will be more resilient than one designed for
-   individual specimens.
-
-5. **Trees are comprehensive garden infrastructure.** A single
-   tree provides water harvesting, soil building, microclimate
-   creation, wildlife habitat, and food production all at once.
-   [[gaias-garden-multipurpose-plants]] that
-build soil, attract insects, harvest water, [[query-how-do-i-create-microclimates-in-my-garden]],
-and produce food. It means designing [[gaias-garden-multipurpose-plants]]
-- [[hemenway-guild-member-roles-and-species-selection]]
+demonstrates why [[gaias-garden-multipurpose-plants]] that
+build soil, attract insects, harvest water, [[gaias-garden-multipurpose-plants]]
 - [[mollison-designers-forest-condensation-and-micro-climate-rainfall]]
 - gaias-garden-plant-community-ecology
 ## Practical Applications
@@ -97,8 +83,6 @@ through generations to modern scientific approaches, the evolution continues
 to inform current best practices and research directions.
 
 ## See Also
-- [[toby-hemenway]]
 - [[doc]]
-- [[det]]
 - [[hemenway-apple-tree-guild-design]]
 - [[cannabis-acidobacteria-iii1-15-endorhiza-decline-two-tier-model]]

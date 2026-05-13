@@ -19,72 +19,96 @@ sources:
 
 # Canna indica
 
-**Canna indica**, commonly known as **Indian shot**, **African arrowroot**, or simply **canna lily**, is a perennial herbaceous plant in the family Cannaceae. Native to tropical and subtropical regions of the Americas, it has been widely naturalized across the tropics and warm temperate zones worldwide. Valued for its striking ornamental flowers, edible rhizomes, and utility in [[comparison-constructed-wetlands-vs-bioswales]], *C. indica* occupies a unique niche at the intersection of horticulture, food production, and ecological engineering.
-
-## Taxonomy and Etymology
-
-- **Kingdom:** Plantae
-- **Clade:** Tracheophytes
-- **Clade:** Angiosperms
-- **Clade:** Commelinids
-- **Order:** Zingiberales
-- **Family:** Cannaceae
-- **Genus:** Canna
-- **Species:** C. indica
-
-The genus name *Canna* derives from the Celtic *canna* (reed or cane), referring to the plant's tall, reed-like stems. The specific epithet *indica* reflects early botanical confusion — European specimens arrived via trade routes from the East Indies, leading Linnaeus to mistakenly attribute the species to India. The common name "Indian shot" refers to the extraordinarily hard seeds, which resemble lead shot and were historically used as substitute ammunition.
-
-## Description
-
-**Growth Habit**
-- Herbaceous perennial, 1.5–3.0 m tall in optimal conditions
-- Forms dense clumps from thick, branching rhizomes
-- Dies back to ground level in frost; regrows from rhizomes in spring
-- Rapid [[soil-temperature-plant-growth-rate-doubling-rule]]: can reach full height within a single [[savory-growing-season-and-non-growing-season-management]]
-
-### Leaves
-- Large, broad, paddle-shaped, 30–60 × 10–25 cm; alternate; green to bronze/burgundy/variegated; petioles sheathing
-
-### Flowers
-- Showy, asymmetrical, 5–10 cm long
-- Born in terminal racemes or panicles
-- Typically red, orange, or yellow; many hybrid cultivars available in pink, salmon, cream, and bicolor patterns
-- Composed of 3 petal-like stamens (staminodes) and 1 functional stamen
-- Blooming period: summer through autumn in temperate zones; year-round in tropics
-- Highly attractive to hummingbirds and butterflies as nectar sources
-
-### Fruit and Seeds
-- Capsular fruit, 1.5–3 cm, spiny or smooth exterior
-- Contains 3–25 hard, spherical black seeds, 5–10 mm diameter
-- Seed coat extremely hard and durable — viable after decades of storage
-- Seeds are ballistic: expelled explosively from the dehiscent capsule when ripe
-
-### Rhizomes
-- Thick, fleshy, tuberous, 5–15 cm long
-- Segmented with prominent nodes and bud scars
-- Exterior tan to brown; interior white, yellow, or orange depending on variety
-- Rich in starch: 20–30% by fresh weight
-
-## Distribution and Habitat
-
-Native range: southern US through [[guzman-allen-gartz-neurotropic-fungi-central-america-caribbean]] and Caribbean into northern [[guzman-psilocybin-mushrooms-south-america]]. Widely naturalized in:
-
-- Tropical Africa, South Asia, and [[psilocybe-southeast-asia-pacific]]
-- [[guzman-allen-gartz-neurotropic-fungi-hawaii-pacific-islands]], Australia (naturalized in eastern states)
-- Southern Europe (Mediterranean [[mollison-climate-zones-permaculture-strategies]])
+**Canna indica**, commonly known as **Indian shot**, **African arrowroot**, or simply **canna lily**, is a perennial herbaceous plant in the family Cannaceae. Native to tropical and subtropical regions of the Americas, it has been widely naturalized across the tropics and warm temperate zones worldwide. Valued for its striking ornamental flowers, edible rhizomes, and utility in [[soil-temperature-plant-growth-rate-doubling-rule]]: can reach full height within a single [[guzman-allen-gartz-neurotropic-fungi-central-america-caribbean]] and Caribbean into northern [[psilocybe-southeast-asia-pacific]]
+- [[mollison-climate-zones-permaculture-strategies]])
 - Subtropical regions of the Americas outside native range
 
-[[mushroom-natural-habitats]] include:
-- Riparian zones and stream banks
-- Freshwater marshes and wet meadows
-- Disturbed sites, roadsides, and abandoned fields
-- Forest edges and secondary growth
-
-## Cultivation
-
-- **Hardiness:** USDA Zones 7–11; dies back in Zone 7–8, evergreen in Zones 10–11
-- **Light:** Full sun to partial shade; best flowering in full sun
-- **Soil:** Prefers rich, moist loam; tolerates [[query-how-do-i-improve-heavy-clay-soil-in-my-garden]] and waterlogged conditions
+[[query-how-do-i-improve-heavy-clay-soil-in-my-garden]] and waterlogged conditions
 - **Water:** Thrives in consistently moist to wet soils; can grow in standing water up to 15 cm
 - **Propagation:** Division of rhizomes (most common), seeds (require scarification)
 - **Garden uses:** Borders, water gardens, containers, privacy screens, pollinator planting
+
+## Overview
+
+Canna Indica represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish canna indica
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving canna extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Canna Indica finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for canna indica. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+canna indica and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Canna Indica has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of canna indica into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[canna-edulis]]
+- [[cannabis-health-strains-sativa-indica]]
+- [[comparison-cannabis-sativa-vs-cannabis-indica]]
+- [[mangifera-indica]]
+- [[neem-azadirachta-indica-arid-zone-multipurpose-tree]]

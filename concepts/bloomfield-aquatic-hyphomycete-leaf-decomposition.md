@@ -16,9 +16,7 @@ tags:
 
 The decomposition of leaves in freshwater streams is one of the most
 consequential ecological processes on Earth, yet it is accomplished largely
-by an invisible workforce of [[aquatic-hyphomycetes-and-ingoldian-spores]]. These fungi, many of
-which produce the spectacular tetraradiate and sigmoid conidia first
-described by Cecil [[terence-ingold-mycologist]] in 1938, are the primary agents of
+by an invisible workforce of [[terence-ingold-mycologist]] in 1938, are the primary agents of
 carbon recycling in running water. Their activity transforms autumn's
 shed foliage from inert plant debris into living microbial tissue, fueling
 the aquatic food web from the bottom up.
@@ -41,48 +39,7 @@ parenchyma, secreting cellulose-degrading enzymes and other hydrolytic
 enzymes that break down the structural polysaccharides of the leaf. Hyphae
 thoroughly insinuate themselves in the decaying leaves, raising the protein
 content of the debris as dead plant material is transformed into living
-[[bioremediation-fungal-biomass-biosorbent-material]]. This conversion from low-quality (high carbon-to-nitrogen
-ratio) to high-quality (protein-rich) food is the critical step that makes
-shredded leaf material palatable and nutritious for detritivorous
-invertebrates.
-
-## Ecological Significance
-
-The microbial processing of leaves by aquatic hyphomycetes is a boon for
-tiny crustaceans, insect larvae, and other invertebrates that flourish on
-the resulting compost. Without fungal conditioning, leaf litter would
-remain largely indigestible to stream invertebrates. The fungi effectively
-pre-digest the leaves, converting recalcitrant plant polymers into fungal
-tissue that is rich in nitrogen and other essential nutrients. This places
-aquatic hyphomycetes at the base of the detrital food chain in most
-temperate streams, making them indispensable to freshwater ecosystem
-functioning.
-
-In fast-flowing creeks, the evidence of this decomposition is visible in
-the foams that froth around half-submerged branches or at the bottom of
-waterfalls. These foams are a natural phenomenon caused by chemicals
-released from decaying leaves — fatty substances with the properties of
-detergents that form bubbles when the water is churned violently. Cakes of
-foam trap and concentrate the same kinds of marvelous spores all over the
-world.
-
-## Aero-Aquatic Fungi: Specialists of Stagnant Water
-
-While Ingoldian fungi dominate in the turbulent, highly oxygenated water
-of shallow creeks, a different group called the aero-aquatics specializes
-in leaf decomposition in filthy or stagnant water. These fungi develop
-ornate spores shaped like barrels and cages that trap air bubbles. Barrel
-shapes are constructed by hyphae that grow in a tight helical path, and
-cages form when hyphae aggregate and branch repeatedly. Their air bubbles
-resemble globules of mercury when the spore is submerged, and the resulting
-buoyancy lifts the spores from their underlying mycelium, allowing them
-to drift along the surface of the water to find new substrates.
-
-## Spore Formation and Dispersal
-
-Ingoldians exit their substrate by sprouting forests of hyphae at the leaf
-surface and forming a canopy of spores. The development of the star-shaped
-or [[bloomfield-ingoldian-aquatic-fungi-tetraradiate-spores-foam]] of the fungus *Actinospora* is particularly
+[[bloomfield-ingoldian-aquatic-fungi-tetraradiate-spores-foam]] of the fungus *Actinospora* is particularly
 impressive. A hyphal apex swells to form the hub, from which four buds
 emerge and then elongate into arms. All the arms extend at the same rate
 until the huge spore spans a diameter of 0.5 millimeters — making it the

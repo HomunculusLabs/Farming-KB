@@ -14,14 +14,7 @@ sources:
 
 Evapotranspiration (ET) is the combined process of water loss from the land surface
 through two mechanisms: **soil evaporation** and **plant transpiration**. Soil
-evaporation is the [[lemon-cannabis-alchemy-direct-vaporization]] of water from the soil surface, while
-transpiration moves water through a plant from roots to leaves, where it is released
-as vapor through stomata. Together, these represent the primary pathway by which
-water returns from agricultural fields to the atmosphere.
-
-ET is the single largest consumptive use of water in most irrigated agricultural
-systems, often accounting for 80–95% of total water applied. Accurately estimating
-ET is essential for efficient [[crop-coefficients-irrigation-scheduling]], water rights management, and
+evaporation is the [[crop-coefficients-irrigation-scheduling]], water rights management, and
 sustainable agricultural water use.
 
 ## Reference Evapotranspiration (ET₀)
@@ -32,8 +25,7 @@ represents climatic demand and is computed from weather station data.
 
 The **FAO-56 Penman-Monteith equation** is the internationally accepted standard
 for calculating ET₀. It combines an energy balance component (net radiation, soil
-heat flux) with an aerodynamic component (wind speed, [[cervantes-vapor-pressure-deficit-transpiration]],
-temperature) to estimate [[evaporative-demand-gradient-stipe-elongation-mechanism-badham-1982]]. The equation requires four key inputs:
+heat flux) with an aerodynamic component (wind speed, [[evaporative-demand-gradient-stipe-elongation-mechanism-badham-1982]]. The equation requires four key inputs:
 solar radiation, air temperature, wind speed, and relative humidity. ET₀ values are
 reported in mm/day and vary widely — arid regions may see 8–12 mm/day in summer,
 while cool humid climates may drop below 2 mm/day.
@@ -56,23 +48,7 @@ climate, planting date, and management. Dual crop coefficients separate basal Kc
 and ET), humidity (lower humidity increases ET), wind speed (wind removes boundary-
 layer moisture), and solar radiation (the primary energy source driving evaporation).
 
-**Crop factors** include species, variety, [[mollison-shade-systems-and-canopy-architecture]], leaf area index,
-rooting depth, and growth stage. A full-cover alfalfa field transpires far more
-water than a sparse vegetable crop at the same location.
-
-**Soil and management factors** include soil texture, organic matter, mulch,
-residue cover, irrigation method (drip vs. flood), and soil water availability. As
-soil dries, ET declines because plants close stomata to conserve water.
-
-## Measurement Methods
-
-Several methods exist for measuring ET directly or indirectly:
-
-- **Lysimeters** — Weighable or drainage lysimeters measure actual ET by tracking
-  water balance in an isolated soil column. Most accurate but expensive.
-- **Eddy covariance** — Fast-response sensors measure vertical water vapor flux
-  above the canopy, providing continuous field-scale measurements.
-- **Bowen ratio** — Measures [[greg-green-temperature-and-humidity-control]] gradients to partition
+**Crop factors** include species, variety, [[greg-green-temperature-and-humidity-control]] gradients to partition
   available energy into sensible and latent heat fluxes.
 - **Atmometers and ET gauges** — Simple instruments simulating ET from a wet
   surface; low-cost and useful for farm-level scheduling.
@@ -118,8 +94,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[water-use-efficiency-plants]]
 - [[fukuoka-textdoc-soil-rehabilitation-timeline-orchard-cover-crop-management]]
-- [[permplant-chestnuts-castanea-nut-crop-coppice]]
 - [[solomon-buckwheat-summer-cover-crop-guide]]
 - [[fukuoka-crop-rotation-natural-farming]]

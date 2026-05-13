@@ -9,8 +9,7 @@ sources: [raw/papers/grahamholmes-what-a-plant-knowsindd.md]
 
 # Plant Photoreception and the Human Eye Analogy
 
-In "What a Plant Knows" (2012), [[daniel-chamovitz]] develops a systematic
-analogy between human photoreception and [[darwin-phototropism-experiments-plant-light-sensing]] to argue
+In "What a Plant Knows" (2012), [[darwin-phototropism-experiments-plant-light-sensing]] to argue
 that plants possess a legitimate form of **vision** — not picture-
 forming imagination but a sophisticated capacity to detect, discriminate,
 and respond to light information that meets any reasonable definition
@@ -22,21 +21,8 @@ Chamovitz begins by explaining the mechanics of human vision. The human
 retina, a layer at the back of the eyeballs roughly the size of a
 passport photo, is covered with two types of photoreceptors:
 
-- **Rods** (~125 million): sensitive to all [[electromagnetic-spectrum-visible-light-plant-perception]], enable night
-  vision and low-light perception, but do not discriminate color
-- **Cones** (~6 million): respond to different colors of light; come in
-  three varieties tuned to red, green, and blue wavelengths
-
-This gives the human eye an effective resolution equivalent to a
-130-megapixel digital camera. The major difference between rod and cone
-photoreceptors is the specific chemical they contain: **rhodopsin** in
-rods and **photopsins** in cones. These chemicals have specific
-molecular structures that enable them to absorb light of different
-wavelengths:
-
-- Rhodopsin absorbs [[chamovitz-julius-von-sachs-blue-light-phototropism]]
-- Blue photopsin absorbs [[blue-light-phototropism-red-light-photoperiodism-dual-plant-vision-system]]
-- Red photopsin absorbs [[phytochrome-red-far-red-light-switch]]
+- **Rods** (~125 million): sensitive to all [[chamovitz-julius-von-sachs-blue-light-phototropism]]
+- Blue photopsin absorbs [[phytochrome-red-far-red-light-switch]]
 - Green photopsin absorbs green light
 - Purple light is absorbed by rhodopsin, blue photopsin, and red
   photopsin (but not green photopsin)
@@ -84,8 +70,7 @@ Plants use this information in remarkably specific ways:
 
 Chamovitz describes two distinct color-sensing systems in plants:
 
-1. **Blue light system** — used for [[phototropism]] (directional
-   growth toward light). Discovered by [[julius-von-sachs-blue-light-phototropism-discovery]] in 1864, who
+1. **Blue light system** — used for [[julius-von-sachs-blue-light-phototropism-discovery]] in 1864, who
    showed that blue light is the primary color inducing phototropism
    while plants are generally "blind" to other colors for this purpose.
 
@@ -118,8 +103,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[plant-photoreception]]
 - [[det]]
-- [[phototropism]]
 - [[photoperiodism]]
 - [[phytochrome]]

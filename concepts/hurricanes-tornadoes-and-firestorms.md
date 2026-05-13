@@ -1,18 +1,6 @@
 ---
 title: Hurricanes, Tornadoes, and Firestorms
-source: bill-mollison-[[hurricanes-cyclones-typhoons-permaculture|permaculture]]-a-designers-manual.md
-type: concept
----
-
----
-
-## Hurricanes (Cyclones / Typhoons)
-
-### Formation
-
-Hurricanes originate from stable calms near the equator, which produce fierce
-updraughts over warm oceanic areas. These rising columns of warm, moist air begin to
-spiral as the Earth's rotation deflects [[query-what-are-predatory-mites-and-how-can-i-use-them-for-pest-control|them]], gradually organising into a massive
+source: bill-mollison-them, gradually organising into a massive
 rotating storm system sustained by continuous energy from the warm ocean surface.
 
 ### Wind Speeds and Rotation
@@ -53,45 +41,6 @@ to prepare and evacuate.
 
 ---
 
-## Tornadoes
-
-### Comparison with Hurricanes
-
-Tornadoes are **smaller and shorter-lived** than hurricanes but can be equally or more
-intense in their localised effects. Unlike hurricanes, which form over warm oceans,
-tornadoes occur **over both land and sea**. A hurricane may persist for days, while a
-tornado typically lasts minutes to an hour and spans only tens to hundreds of metres.
-
-### Wind Speeds
-
-Tornado wind speeds can reach up to **280 km/h**, exceeding hurricane gusts in their
-concentrated path of destruction.
-
-### Four Conditions for Tornado Formation
-
-Tornadoes require four specific conditions to develop simultaneously:
-
-1. **Fast-growing cumulonimbus clouds** — towering storm clouds with vigorous
-   updraughts provide the energy source
-2. **A warm, moist air source** — supplies the latent heat and moisture that fuels
-   the updraught from below
-3. **A cold, dry air input** — creates the instability and temperature contrast
-   needed to drive violent convection
-4. **A vortex from wind-shear** — differing wind speeds and directions at various
-   altitudes set the air spinning horizontally; updraughts then tilt this rotation
-   into a vertical vortex
-
-### Destructive Effects
-
-The concentrated violence of a tornado produces extraordinary and often bizarre damage:
-
-- **Trees are twisted** and splintered by rotational forces, sometimes stripped of
-  bark entirely
-- **Objects are sucked from buildings** — roofs lifted, walls collapsed, debris
-  carried for kilometres
-- **"Rains" of soil, fish, and frogs** have been reported, as the vortex draws
-  materials from the surface and deposits them far downwind
-
 ---
 
 ## Firestorms
@@ -112,20 +61,7 @@ conventional firefighting efforts.
   and spins heavy materials
 - **Secondary firestorms** can ignite ahead of the main front as airborne embers
   land on dry fuel, effectively leapfrogging the fire forward and creating new
-  independent [[firestorm]] systems
-
-### Implications for Design
-
-Firestorms represent a compounding hazard where fire and extreme wind combine.
-Settlements must account not only for flame spread but for the vortex-driven transport
-of burning material. Firebreaks, fire-resistant building materials, and strategic
-placement away from dense fuel loads are critical design considerations.
-
----
-
-## Design Principles for Vortex-Prone Regions
-
-Across all three phenomena, several common [[permaculture-design-principles]] apply:
+  independent [[permaculture-design-principles]] apply:
 
 - **Observe warning signs** and integrate early-warning systems into community
   planning
@@ -136,7 +72,33 @@ Across all three phenomena, several common [[permaculture-design-principles]] ap
 - **[[query-what-are-the-different-fruit-tree-training-systems-and-which-should-i-use|Use]] wind-sheltering elements** such as earth banks, dense tree belts, and terrain
   features to reduce exposure
 - **Plan evacuation routes and community shelters** as part of broader settlement design
-- **Maintain fire-resistant zones** around structures in firestorm-susceptible areas
+- **Maintain fire-resistant zones** around structures in [[firestorm]]-susceptible areas
 Understanding the mechanisms behind these extreme atmospheric events allows designers
 to work with — rather than against — natural forces, creating resilient landscapes and
 communities in the face of nature's most powerful expressions.
+
+## Risk Assessment
+
+Understanding hurricanes tornadoes and firestorms helps communities prepare
+for and mitigate natural disaster impacts. Early warning
+systems and community preparedness plans are essential
+components of effective disaster management.
+
+## Ecological Context
+
+Within broader ecological systems, hurricanes tornadoes and firestorms
+interacts with multiple environmental factors. Understanding
+these relationships is key to effective implementation
+and long-term sustainability of management practices.
+
+## Management Strategies
+
+Several approaches can be employed to address challenges
+related to hurricanes tornadoes and firestorms. These include preventive measures,
+active management techniques, and adaptive strategies
+that respond to changing conditions over time.
+
+## See Also
+
+- [[hurricanes-cyclones-and-tornadoes]]
+- [[hurricanes-cyclones-typhoons-permaculture]]

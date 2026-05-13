@@ -6,13 +6,7 @@ tags:
   - fungi
   - boletaceae
   - edible-mushroom
-  - [[mycology]]
-  - bluing-bolete
-date: 2026-04-28
-updated: 2026-04-28
-sources:
-  - "Bessette, A.E., Roody, W.C. & Bessette, A.R. (2000). growing-gourmet-north-american-reishi-species Boletes: A Color Guide to the Fleshy Pored Mushrooms. Syracuse University Press."
-  - "Orson, K.M. & Miller, O.K. (2012). \"Gyroporus and other boletes of the southeastern [[dmt-containing-plants-united-states-halpern]].\" Mycotaxon, 120, 473-488."
+  - dmt-containing-plants-united-states-halpern.\" Mycotaxon, 120, 473-488."
   - "Kuo, M. (2024). Gyroporus cyanescens. MushroomExpert.com."
   - "Binder, M. & Bresinsky, A. (2002). \"Derivation of a polymorphic lineage of Gasteromycetes from boletoid ancestors.\" Mycologia, 94(1), 85-98."
 ---
@@ -27,7 +21,7 @@ It is distinguished by its pale cap, hollow stipe, and dramatic blue staining
 when bruised or cut — a reaction caused by the unstable gyrocyanin pigment.
 
 The species is edible when thoroughly cooked and is collected across Europe
-and [[polypore-fungi-eastern-north-america]] America. Its [[field-guide-psilocybin-bluing-reaction-identification]] is among the most vivid in the
+and field-guide-psilocybin-bluing-reaction-identification is among the most vivid in the
 Boletales, rivaling that of some *Boletus* species.
 
 ## Taxonomy and Morphology
@@ -79,7 +73,7 @@ Sporada ochraceous to yellow-brown in mass.
 ## Distribution and Habitat
 
 Found across temperate Europe (especially central and southern regions) and
-eastern [[guzman-psilocybin-mushrooms-north-america]], with scattered reports from Asia.
+eastern guzman-psilocybin-mushrooms-north-america, with scattered reports from Asia.
 
 Ectomycorrhizal, forming associations primarily with broadleaf trees:
 - *Quercus* spp. (oaks) — most common associate
@@ -87,3 +81,11 @@ Ectomycorrhizal, forming associations primarily with broadleaf trees:
 - *Betula* spp. (birches)
 - *Carpinus* betulus (hornbeam)
 - *Corylus* avellana (hazel)
+
+## See Also
+
+- [[stamets-panaeolus-cyanescens-copelandia-identification-ecology]]
+- [[allen-pans-cyanescens-australia-distribution]]
+- [[copelandia-cyanescens-pantropical-distribution-and-ecology]]
+- [[azurescens-cyanescens-and-woodlovers-comparison]]
+- [[psilocybe-cyanescens-profile]]

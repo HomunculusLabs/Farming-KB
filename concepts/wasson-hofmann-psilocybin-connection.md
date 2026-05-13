@@ -10,20 +10,11 @@ sources:
 
 # The Wasson-Hofmann Psilocybin Connection
 
-The chain of events connecting [[turner-brief-history-psychedelics-ancient-to-modern]]
-- He collected mushroom specimens during these visits
-- Audio recordings and photographs documented the ceremonies
-- His 1957 Life magazine article "Seeking the [[australian-magic-mushroom-common-names]]" brought the mushrooms to worldwide attention
+The chain of events connecting [[australian-magic-mushroom-common-names]]" brought the mushrooms to worldwide attention
 
 ## Specimen Transfer to Hofmann
 
-Following his Mexican expeditions, Wasson sent specimens of the mushrooms used in the velada to the Sandoz pharmaceutical company in Basel, Switzerland. These specimens were delivered to [[albert-hofmann]], the Swiss chemist who had first synthesized LSD-25 in 1938 and discovered its psychoactive properties in 1943.
-
-## Hofmann's Identification of Psilocybin
-
-Hofmann's laboratory analysis of the Wasson specimens led to:
-- **1957**: Identification of the active principles — [[hplc-analysis-of-psilocybin-and-psilocin]] — from gordon-wasson-mushroom-discovery
-- [[psilocybe-bohemica-central-european]]
+Following his Mexican expeditions, Wasson sent specimens of the mushrooms used in the velada to the Sandoz pharmaceutical company in Basel, Switzerland. These specimens were delivered to [[hplc-analysis-of-psilocybin-and-psilocin]] — from gordon-wasson-mushroom-discovery
 - [[three-pillars-mushroom-cultivation-spawn-substrate-environment]]
 - turner-psilocybin-mushroom-experience-guide
 ## Practical Applications

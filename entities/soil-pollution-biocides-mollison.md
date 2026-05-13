@@ -30,9 +30,9 @@ Soil pollution from biocides refers to the persistent contamination of agricultu
 ## Relevance to Cultivation and Mycology
 
 - Any site selected for food production (including mushroom cultivation) should be assessed for prior chemical use -- old orchards, plantations, and industrial sites may be contaminated
-- Permaculture design recommends avoiding all biocides and instead using integrated pest management, companion planting, and biological controls
+- Permaculture design recommends avoiding all biocides and instead using [[integrated-pest-management]], companion planting, and biological controls
 - For contaminated sites, Mollison recommends non-food production (fuel forests, structural timber) for decades until remediation occurs
-- Bioremediation using fungi (mycoremediation) is a promising technique for breaking down persistent organic pollutants in contaminated soils
+- [[bioremediation-using-fungi]] (mycoremediation) is a promising technique for breaking down persistent organic pollutants in contaminated soils
 - Raised beds with imported clean soil (30 cm deep, 40%+ organic content) can allow safe gardening on lead-contaminated urban sites
 - Testing vegetables for residual toxic materials is essential when growing on land with any history of chemical use
 - Rainwater harvesting is recommended over groundwater use in areas where aquifers may be contaminated with biocide residues
@@ -79,8 +79,6 @@ all influence the optimal approach to implementation.
 
 ## See Also
 
-- [[dighton-fungal-role-soil-aggregation]]
 - [[dighton-soil-fungal-biodiversity-assessment]]
-- [[fukuoka-ancient-soil-fertility-rock-weathering]]
 - [[query-what-is-the-role-of-springtails-and-soil-arthropods-in-soil-health]]
 - [[teaming-with-microbes-mites-and-soil-arthropod-predators]]

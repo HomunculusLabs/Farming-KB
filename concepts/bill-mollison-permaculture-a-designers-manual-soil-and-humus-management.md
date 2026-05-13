@@ -7,7 +7,7 @@ updated: 2026-04-25
 sources: ["papers/bill-mollison-permaculture-a-designers-manual.md"]
 type: concept
 ---
-# Soil and Humus Management Bill Mollison considered soil the foundation of all terrestrial life and dedicated substantial attention to soil science and management in *Permaculture: A Designers' Manual*. He approached soil not as an inert growing medium but as a living ecosystem teeming with bacteria, fungi, protozoa, nematodes, arthropods, and earthworms. The goal of permaculture soil management is to build and maintain a deep, fertile, humus-rich soil that supports abundant plant and animal life. This approach connects to [[bill-mollison-permaculture-a-designers-manual-forest-gardens-and-food-forests]] and [[permaculture-design]]
+# Soil and Humus Management Bill Mollison considered soil the foundation of all terrestrial life and dedicated substantial attention to soil science and management in *Permaculture: A Designers' Manual*. He approached soil not as an inert growing medium but as a living ecosystem teeming with bacteria, fungi, protozoa, nematodes, arthropods, and earthworms. The goal of permaculture soil management is to build and maintain a deep, fertile, humus-rich soil that supports abundant plant and animal life. This approach connects to [[permaculture-design]]
 of recycling nutrients on-site and turning waste into resources.
 
 ## Mulching
@@ -17,27 +17,9 @@ Mollison was an emphatic advocate for heavy mulching, describing it as the
 simplest and most effective soil-building practice. Organic mulches such as
 straw, leaves, wood chips, and living ground covers suppress weeds, moderate
 soil temperature, retain moisture, prevent erosion, and provide habitat for
-soil organisms as they decompose into humus. [[bill-mollison-permaculture-a-designers-manual-broadacre-and-rural-design]] fertility management.
-
-## No-Till and Minimum Tillage
-
-Mollison argued strongly against excessive tillage, which destroys soil
-structure, kills beneficial fungi, releases carbon dioxide, and accelerates
-erosion. Permaculture favors no-till or minimum tillage approaches that
-maintain soil structure and biological communities. [[comparison-sheet-mulching-vs-chop-and-drop-mulching]] creates
+soil organisms as they decompose into humus. [[comparison-sheet-mulching-vs-chop-and-drop-mulching]] creates
 new garden beds without digging by layering cardboard, compost, and mulch
-directly over grass or weeds. In [[bill-mollison-permaculture-a-designers-manual-broadacre-and-rural-design]]
-systems use pasture cropping, where annual crops are direct-drilled into
-permanent perennial pastures, maintaining soil structure while producing
-grain or other crops.
-
-## Soil Rehabilitation
-
-Degraded soils require active rehabilitation before they can support productive
-systems. Mollison described techniques for rehabilitating compacted, eroded,
-salinized, and nutrient-depleted soils. Keyline plowing fractures compacted
-subsoil layers without inverting the profile, as described in
-[[bill-mollison-permaculture-a-designers-manual-animal-systems-in-permaculture]] including chickens in
+directly over grass or weeds. In [[bill-mollison-permaculture-a-designers-manual-animal-systems-in-permaculture]] including chickens in
 tractors and pigs in rotational paddocks accelerate soil recovery through
 manure deposition and mechanical soil disturbance. Bio-remediation using
 specific plants to accumulate or neutralize contaminants can address polluted
@@ -45,25 +27,13 @@ soils.
 
 ## Mycorrhizal Networks
 
-Mollison recognized the importance of [[arbuscular-mycorrhizal-fungi-biology-symbiosis]], which form symbiotic
-relationships with plant roots, extending the effective root zone and
-facilitating [[arbuscule-isolation-and-nutrient-exchange-mechanisms]] between plants. In a healthy mycorrhizal
+Mollison recognized the importance of [[arbuscule-isolation-and-nutrient-exchange-mechanisms]] between plants. In a healthy mycorrhizal
 network, trees can share nutrients and water with neighboring plants through
 underground fungal connections. These networks are disrupted by tillage,
-[[cervantes-chemical-fertilizers-guide]], and fungicides. [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]] protects and
+[[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]] protects and
 encourages mycorrhizal networks through minimal soil disturbance, diverse
 plantings, and the addition of fungal food sources such as woody mulches.
-[[bill-mollison-permaculture-a-designers-manual-guild-design-in-permaculture]] often relies on mycorrhizal connections
-between guild members for nutrient sharing.
-
-## The Soil Food Web
-
-The soil food web is the complex community of organisms that processes organic
-matter and cycles nutrients. Bacteria and fungi decompose organic material.
-Protozoa and nematodes consume bacteria and fungi, releasing plant-available
-nutrients. Microarthropods fragment organic material and stimulate fungal
-growth. Earthworms aerate soil, create channels for water infiltration, and
-produce nutrient-rich castings. [[comparison-predatory-mites-vs-ladybugs-biocontrol]] and beetles control pest
+[[comparison-predatory-mites-vs-ladybugs-biocontrol]] and beetles control pest
 populations. Mollison's approach to soil management feeds the entire food web
 rather than targeting individual nutrients, creating a self-regulating fertility
 system that becomes more productive and resilient over time.
@@ -88,7 +58,6 @@ communities, and systematic experimentation to build expertise.
 
 ## See Also
 
-- [[mollison-designers-rabbit-housing-and-manure-management]]
 - [[permaculture-woodlot-management]]
 
 ## Practical Applications
@@ -120,8 +89,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[bill-mollison]]
 - [[bill-mollison-permaculture-a-designers-manual-zone-and-sector-analysis]]
-- [[bill-mollison-permaculture-a-designers-manual-dryland-strategies-and-desert-agriculture]]
 - [[bill-mollison-permaculture-a-designers-manual-earthworking-and-earth-resources]]
 - [[bill-mollison-permaculture-a-designers-manual-water-harvesting-and-earthworks]]

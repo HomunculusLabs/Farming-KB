@@ -75,14 +75,7 @@ weeks after the last expected frost date to transplant or direct-seed
 cucurbits outdoors. Those with short growing seasons often start seeds
 indoors two to four weeks before transplanting, using biodegradable
 pots to minimize root disturbance. In regions with long, hot summers,
-[[query-what-is-succession-planting-and-how-do-i-plan-a-succession-planting-schedule]] every two to three weeks extends the harvest window
-for summer squashes and cucumbers, though this approach is less common
-for melons and winter squashes, which need a full season to mature.
-
-Full sun is non-negotiable for cucurbits. They perform best with at
-least eight hours of direct sunlight daily, though they will tolerate
-six hours in warm climates. Shaded plants produce fewer flowers, set
-less fruit, and are more susceptible to [[cervantes-powdery-mildew-prevention-treatment]]. Wind protection
+[[cervantes-powdery-mildew-prevention-treatment]]. Wind protection
 is valuable for young plants but becomes less important as vines
 mature. In extremely hot climates above 95 degrees, pollen viability
 drops and fruit set suffers; temporary shade cloth or planting where
@@ -105,17 +98,7 @@ compost or aged manure worked into the planting area several weeks
 before planting provides both nutrients and improved soil structure.
 A general recommendation is two to four inches of compost incorporated
 into the top six to eight inches of soil. For those using mineral
-amendments, a balanced [[complete-organic-fertilizer-cof-recipe-solomon]] applied at planting and
-again as a side-dress when vines begin to run provides consistent
-nutrition. Cucurbits are particularly responsive to phosphorus for
-root development and potassium for fruit quality.
-
-Nitrogen management requires some finesse. Excessive nitrogen
-produces lush vine growth at the expense of fruit set, a common
-complaint among gardeners whose zucchini plants produce enormous
-leaves but few squashes. A moderate nitrogen application at planting,
-followed by reduced nitrogen once flowers appear, strikes the right
-balance. [[comparison-foliar-feeding-vs-compost-tea-nutrients]] with liquid kelp or fish emulsion every two
+amendments, a balanced [[comparison-foliar-feeding-vs-compost-tea-nutrients]] with liquid kelp or fish emulsion every two
 weeks during the growing season supports overall plant health without
 over-stimulating vegetative growth.
 
@@ -131,12 +114,9 @@ and nutrition throughout the season.
 
 ## See Also
 
-[[companion-planting-and-polycultures]] [[integrated-pest-management-ipm]]
+[[integrated-pest-management-ipm]]
 pollinator-gardens-and-beneficial-insects
-[[seed-saving-and-plant-breeding]]
-[[composting-and-soil-biology]] [[cover-crops-and-green-manures]]
-[[permaculture-design-principles]] [[raised-bed-gardening|raised beds]]
-[[drip-irrigation-guide]] three-sisters
+[[composting-and-soil-biology]] [[permaculture-design-principles]] [[drip-irrigation-guide]] three-sisters
 
 ## References
 

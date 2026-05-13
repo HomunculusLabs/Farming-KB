@@ -38,11 +38,7 @@ The Domesday Book (1086) records extensive coppice management across England. Cu
 
 Coppice systems developed independently across continents:
 
-- **Japan**: *Satoyama* landscapes managed coppice woodland of oak, chestnut, and cedar for fuel, charcoal, and [[mushroom-cultivation-disabilities-pasteurization-methods]]
-- **Mediterranean**: Cork oak (*Quercus suber*) managed on long coppice rotations; chestnut coppice for timber and nuts
-- **Scandinavia**: Birch and hazel coppice for fuel and fencing
-- **Tropical regions**: Coppice regrowth exploited in shifting cultivation systems throughout Southeast Asia, Africa, and South America
-- **North America**: [[indigenous-song-and-pattern-navigation|indigenous-spirituality-and-freedom]] peoples managed hazel and other shrubs through periodic burning and cutting to produce straight shoots for basketry and arrows
+- **Japan**: *Satoyama* landscapes managed coppice woodland of oak, chestnut, and cedar for fuel, charcoal, and [[indigenous-song-and-pattern-navigation|indigenous-spirituality-and-freedom]] peoples managed hazel and other shrubs through periodic burning and cutting to produce straight shoots for basketry and arrows
 
 ## Ecological Principles
 
@@ -56,9 +52,8 @@ Not all tree species respond equally to cutting. The best coppicers are light-de
 
 | Category | Species | Notes |
 |----------|---------|-------|
-| **Excellent** | Sweet chestnut (*[[castanea-sativa]]*), hazel (*[[corylus-avellana]]*), willow (*Salix* spp.), ash (*Fraxinus excelsior*), field maple (*Acer campestre*) | Produce straight, vigorous regrowth over many cycles |
-| **Good** | Oak (*Quercus robur/petraea*), hornbeam (*Carpinus betulus*), alder (*[[alnus-glutinosa]]*), birch (*Betula* spp.), lime (*Tilia* spp.), elm (*Ulmus* spp.) | Reliable but may need longer rotations |
-| **Moderate** | Beech (*[[fagus-sylvatica]]*), hawthorn (*crataegus-monogyna*), blackthorn (*[[prunus-spinosa]]*), elder (*[[sambucus-nigra]]*) | Useful for specific products; shorter lifespans as coppice |
+| **Excellent** | Sweet chestnut (*[[corylus-avellana]]*), willow (*Salix* spp.), ash (*Fraxinus excelsior*), field maple (*Acer campestre*) | Produce straight, vigorous regrowth over many cycles |
+| **Good** | Oak (*Quercus robur/petraea*), hornbeam (*Carpinus betulus*), alder (*[[fagus-sylvatica]]*), hawthorn (*crataegus-monogyna*), blackthorn (*[[sambucus-nigra]]*) | Useful for specific products; shorter lifespans as coppice |
 | **Poor/Unsuitable** | Walnut (*Juglans* spp.), cherry (*Prunus avium*), most conifers | Tend to die or produce poor regrowth; avoid coppicing |
 
 ### The Stool

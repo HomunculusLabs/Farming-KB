@@ -21,21 +21,7 @@ sources:
 
 ## Overview
 
-Aconitum lycoctonum, commonly known as wolf's bane or northern wolfsbane, is a perennial herb in the family Ranunculaceae. It is native to the mountains and [[biodiversity-fungi-temperate-boreal-forests]] of Europe and northern Asia, ranging from the Pyrenees and Alps through Scandinavia to the Russian Urals and Siberia.
-
-The species produces tall, erect stems 50–150 cm bearing helmet-shaped yellow flowers in loose, branched racemes during mid to late summer. Unlike the blue-flowered Aconitum napellus, its blooms are pale sulfur-yellow to creamy white.
-
-All parts of the plant contain highly toxic diterpenoid alkaloids, particularly lycoctonine and ajacine. Despite its toxicity, the species has a documented history of use in traditional medicine and as a source of arrow poison in parts of northern Europe and Asia.
-
-The genus name Aconitum derives from the Greek "akoniton," used by Theophrastus and Dioscorides for poisonous plants. The specific epithet "lycoctonum" means "wolf-killer," referencing its historical use as a predator poison.
-
-Aconitum lycoctonum is cultivated as an ornamental for its unusual flower color and tall architectural form in moist, partially shaded garden sites. It is hardier and more shade-tolerant than many other Aconitum species.
-
-## Taxonomy and Morphology
-
-Aconitum lycoctonum was described by Linnaeus in Species Plantarum (1753). It is the type species of section Lycoctonum, a group of approximately 15 species characterized by yellow or cream flowers and zygomorphic structure.
-
-The section is genetically distinct from the blue-flowered section Aconitum and shows closer affinities to the genus Consolida in some molecular analyses. Aconitum lycoctonum is diploid (2n = 16) and shows limited intraspecific chromosomal [[psilocybin-psilocin-variation-across-flushes]] its range.
+Aconitum lycoctonum, commonly known as wolf's bane or northern wolfsbane, is a perennial herb in the family Ranunculaceae. It is native to the mountains and [[psilocybin-psilocin-variation-across-flushes]] its range.
 
 The stem is erect, glabrous to sparsely pubescent, and typically unbranched below the inflorescence. Leaves are palmately divided into 5–7 deep, narrowly lanceolate segments with sharply toothed margins.
 
@@ -55,7 +41,7 @@ In mountainous regions, it grows at elevations from 800 to 2,500 m, preferring s
 
 The species favors moist, nitrogen-rich, slightly acidic to neutral soils. It is frequently found near streams, in avalanche tracks, and in other sites with disturbed but nutrient-enriched substrates.
 
-Common associates include [[trollius-europaeus]], [[caltha-palustris]], Geranium sylvaticum, and various tall herbs in subalpine tall-herb communities. It is classified as Least Concern across its broad range.
+Common associates include [[caltha-palustris]], Geranium sylvaticum, and various tall herbs in subalpine tall-herb communities. It is classified as Least Concern across its broad range.
 
 In the Scandinavian mountains, Aconitum lycoctonum is a characteristic species of the tall-herb belt above the birch forest line. It persists in snowbed communities where late-melting snow provides reliable moisture.
 
@@ -85,6 +71,80 @@ The plant prefers deep, moist, humus-rich soil in partial shade. It tolerates fu
 
 Planting is best done in spring using container-grown plants, as the fleshy roots resent disturbance. Established clumps should not be divided frequently; allow 5–7 years between divisions.
 
-The yellow flower color is unusual in the genus and combines well with blue and purple late-summer perennials such as Aconitum napellus, Aster, and Gentiana. The tall stems may require staking in exposed sites.
+The yellow flower color is unusual in the genus and combines well with blue and purple late-summer perennials such as [[aconitum-napellus]], Aster, and Gentiana. The tall stems may require staking in exposed sites.
 
 Deadheading after flowering prevents unwanted self-seeding in the garden. Some gardeners leave a few seed heads for winter architectural interest.
+
+## Overview
+
+Aconitum Lycoctonum represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish aconitum lycoctonum
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving aconitum extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Aconitum Lycoctonum finds practical application in multiple design contexts.
+[[permaculture-principles]] guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for aconitum lycoctonum. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+aconitum lycoctonum and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Aconitum Lycoctonum has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of aconitum lycoctonum into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource

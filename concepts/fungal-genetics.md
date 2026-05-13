@@ -25,12 +25,12 @@ Fungal genetics encompasses the study of heredity, variation, and gene function 
 
 | Species | Genome Size | Genes | Chromosomes | Year Sequenced |
 |---------|------------|-------|-------------|---------------|
-| [[saccharomyces-cerevisiae]] | 12.1 Mb | ~6,275 | 16 | 1996 |
+| Saccharomyces cerevisiae | 12.1 Mb | ~6,275 | 16 | 1996 |
 | Schizosaccharomyces pombe | 13.8 Mb | ~4,929 | 3 | 2002 |
 | Aspergillus nidulans | 30.1 Mb | ~11,000 | 8 | 2003 |
 | Neurospora crassa | 40 Mb | ~10,000 | 7 | 2003 |
 | Coprinopsis cinerea | 37.5 Mb | ~13,000 | 13 | 2003 |
-| [[schizophyllum-commune]] | 38.5 Mb | ~14,000 | 11 | 2011 |
+| Schizophyllum commune | 38.5 Mb | ~14,000 | 11 | 2011 |
 
 ## Mating Types and Sexual Genetics
 
@@ -52,7 +52,7 @@ See [[fungal-sexual-reproduction]] for comprehensive coverage of mating systems.
 
 - Two unlinked loci (A and B) with multiple alleles each
 - ~25% inter-fertility among spores from a single fruiting body
-- A locus: regulates nuclear pairing and [[clamp-connection-formation-and-nuclear-migration]]
+- A locus: regulates nuclear pairing and clamp connection formation
 - B locus: regulates nuclear migration and septal dissolution
 - Example: Schizophyllum commune has hundreds of A and B alleles, creating thousands of possible mating types
 
@@ -133,18 +133,18 @@ CRISPR-Cas9 genome editing has revolutionized fungal genetics since ~2015:
 | Trichoderma spp. | Established | Improved enzyme cocktails |
 | Neurospora crassa | Established | Model for repeat-induced point mutation (RIP) |
 | Pleurotus spp. (oyster) | Emerging | Early-stage editing for cultivation traits |
-| [[agaricus-bisporus]] | Emerging | Challenging due to multinucleate cells |
-| Psilocybe spp. | Nascent | Potential for understanding [[baeocystin-and-norbaeocystin-in-psilocybin-biosynthesis]] |
+| Agaricus bisporus | Emerging | Challenging due to multinucleate cells |
+| Psilocybe spp. | Nascent | Potential for understanding psilocybin biosynthesis |
 
 ### Challenges in Mushroom-Forming Fungi
 
 - Many basidiomycetes are dikaryotic — two nuclei per cell complicates editing
 - Efficient transformation protocols are still being developed for many species
-- Some species have robust DNA repair systems that reduce editing efficiency
-- Regulatory concerns for genome-edited [[fungi-cultivated-mushrooms-pathogens-competitors]]
 
-## Epigenetics in Fungi
+## See Also
 
-- **DNA methylation**: Variable across fungal groups. Heavy in some basidiomycetes; minimal in S. cerevisiae (no detectable methylation)
-- **Repeat-Induced Point Mutation (RIP)**: A fungal-specific genome defense in Neurospora and related genera. Duplicates DNA sequences are mutated by C-to-T transitions during the sexual cycle, silencing transposons and duplicated genes
-- **Histone modifications**: H3K9 methylation, H3K27 methylation regulate gene expression
+- [[fungi-in-the-environment-fungal-ecosystems]]
+- [[fungal-amber-fossils]]
+- [[singh-fungal-pellet-formation-bioremediation]]
+- [[dark-septate-endophytes]]
+- [[fungal-pathogens-human-disease]]

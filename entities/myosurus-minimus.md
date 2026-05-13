@@ -106,13 +106,8 @@ The species has been used as a model organism in studies of plant developmental 
 
 ## See Also
 
-- [[ranunculus-acris]]
 - [[ranunculus-repens]]
-- [[ranunculus-sceleratus]]
 - [[caltha-palustris]]
-- [[anemone-nemorosa]]
 - [[trollius-europaeus]]
-- [[ranunculus-bulbosus]]
 - [[ranunculus-flammula]]
-- [[ranunculus-aquatilis]]
 - [[ficaria-verna]]

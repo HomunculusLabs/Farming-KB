@@ -29,19 +29,14 @@ sources:
 
 **Petasites hybridus**, commonly known as **butterbur**, is a perennial
 herbaceous plant in the family Asteraceae, native to Europe and parts of
-Asia. It is one of the best-documented [[permaculture]] Role
-
-- **Propagation:** Division of rhizome segments in spring or autumn;
-  [[jeavons-seed-propagation-techniques]] difficult but possible with cold stratification
+Asia. It is one of the best-documented [[jeavons-seed-propagation-techniques]] difficult but possible with cold stratification
 - **Growth:** Rapid vegetative spread via rhizome; forms large
   colonies within 2–3 years; tolerates full sun to partial shade
 - **Permaculture applications:** Excellent riparian stabilizer with
-  massive root systems; large leaves provide heavy mulch; [[mollison-designers-bee-forage-tree-planting]]
-  in [[coleman-overwintered-onions-and-early-spring-crops]] before most plants flower; however, its aggressive
+  massive root systems; large leaves provide heavy mulch; [[coleman-overwintered-onions-and-early-spring-crops]] before most plants flower; however, its aggressive
   spread requires containment (root barriers)
 ## See Also
 
-- [[inula-helenium]]
 - [[verbascum-thapsus]]
 - migraine treatments
 - herbal migraine prophylaxis

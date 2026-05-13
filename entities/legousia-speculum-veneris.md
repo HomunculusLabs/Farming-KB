@@ -42,17 +42,7 @@ Legousia speculum-veneris was formerly classified as Specularia speculum-veneris
 
 The plant is a characteristic arable weed (segetal species) of traditional Mediterranean agriculture. It has declined significantly across its range due to herbicide use and the intensification of farming practices, and is now considered threatened or endangered in several European countries.
 
-Despite its decline in the wild, Legousia speculum-veneris persists in seed banks, sometimes reappearing after decades of absence when fields are taken out of [[mollison-designers-market-garden-intensive-production-design]]. This long-lived seed bank is a key conservation asset for the species.
-
-The species was once so common in Mediterranean grain fields that it was considered a defining feature of the spring landscape. References to "Venus' looking-glass" in Mediterranean agricultural literature date back to the 16th century.
-
-## Taxonomy and Morphology
-
-Legousia speculum-veneris was first described by Carl Linnaeus as Campanula speculum-veneris in 1753. It was later transferred to Specularia and finally to Legousia by Jean-Baptiste Durande in the late 18th century.
-
-The genus Legousia is distinguished from related genera by its elongated, cylindrical capsules that dehisce by two or three terminal pores. The genus is named in honor of the French botanist René Le Gous du Fougeray.
-
-The genus comprises approximately five species distributed across the Mediterranean Basin and western Asia. L. speculum-veneris is the type species and the most widespread member. Other species include L. hybrida and L. castellana, which have more [[neurotropic-fungi-endemic-species-and-restricted-ranges-guzman-1998]] in the western Mediterranean.
+Despite its decline in the wild, Legousia speculum-veneris persists in seed banks, sometimes reappearing after decades of absence when fields are taken out of [[neurotropic-fungi-endemic-species-and-restricted-ranges-guzman-1998]] in the western Mediterranean.
 
 The plant has slender stems that are angular and often tinged reddish at the base. Lower leaves are spatulate to oblong, forming a small basal rosette that withers early. Upper leaves are lanceolate, sessile, and sparingly toothed.
 
@@ -84,6 +74,76 @@ The species is sometimes included in European wildflower seed mixtures designed 
 
 ## Ecological Role
 
-As a spring-flowering annual, Legousia speculum-veneris provides nectar and pollen for early-emerging [[comparison-honey-bees-vs-native-solitary-bees]] and hoverflies in Mediterranean agricultural landscapes. The open, flat corollas are accessible to a wide range of generalist pollinators.
+As a spring-flowering annual, Legousia speculum-veneris provides nectar and pollen for early-emerging [[fukuoka-weed-diversity-soil-nutrients]], including other declining Mediterranean annuals such as [[papaver-rhoeas]].
 
-The species is an indicator of traditional low-intensity farming. Its presence in arable fields is associated with high overall arable [[fukuoka-weed-diversity-soil-nutrients]], including other declining Mediterranean annuals such as [[agrostemma-githago]] and [[papaver-rhoeas]].
+## Overview
+
+Legousia Speculum Veneris represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish legousia speculum veneris
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving legousia extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Legousia Speculum Veneris finds practical application in multiple design contexts.
+[[permaculture-principles]] guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for legousia speculum veneris. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+legousia speculum veneris and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Legousia Speculum Veneris has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of legousia speculum veneris into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions

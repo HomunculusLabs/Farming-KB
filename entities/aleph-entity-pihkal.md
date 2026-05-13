@@ -8,65 +8,7 @@ sources: ["Shulgin - PIHKAL"]
 ---
 # ALEPH
 
-[[2c-b-pihkal-entry-20]] #3. 4-Methylthio-2,5-dimethoxy-A.
-
-## Dosage and Duration
-
-| Property | Value |
-|----------|-------|
-| Dosage | 5 - 10 mg. |
-| Duration | 6 - 8 h. |
-
-## Qualitative Comments
-
-> (with 5 mg) The initial hints of action were
-> physical Q warming of first the legs, and then a comfortable warmth
-> spread over the entire body. Intense intellectual stimulation, one
-> that inspired the scribbling of some 14 pages of handwritten notes.
-> Which is a pretty good record for an experience that is almost
-> entirely non-verbal. The afterglow was benign and rich in empathy for
-> everything. And by the sixth hour I was quite hungry.
->
-> (with 10 mg) There was a rapid shift of frame of reference that made
-> simple tasks such as reading and tuning the radio quite alien. I
-> happened to catch the eyes of Pretty Baby, the cat, at the same moment
-> she looked at me, and she turned and fled. I am able to interact with
-> people on the telephone quite well but mechanical things, such as
-> arranging flowers or alphabetizing names, are beyond me. Driving
-> would be impossible.
->
-
-## Extensions and Commentary
-
-This specific compound is probably the
-first sulfur-containing phenethylamine to have been evaluated as a
-potentially active CNS stimulant or psychedelic. It was a complete,
-
-total, absolute unknown. The first trials were made at the
-sub-microgram level, specifically at 0.25 micrograms, at 11:30 AM on
-September 3, 1975. Part of this extreme precaution was due to the
-uniqueness of a new heteroatom in a phenethylamine system. But part
-was due to the strange manic excitement that occurred at the time of
-the isolation and characterizing of the final product in the
-laboratory. Although it was certainly all placebo response, I was
-jumpy and unable to stay in the lab for more than a few minutes at a
-time. Maybe dust in the air? Maybe some skin contact with the free
-base? Now, I know there was nothing, but the possibility of
-extraordinary potency was real, and I did indeed wash everything down
-anyway. In fact, it took a total of 18 trials to work the
-experimental dosage up to as much as a single milligram. In
-retrospect, overly cautious. But retrospection, as they say, is
-cheap.
-
-The 5 milligram experiment, briefly quoted from above, is the stuff of
-Chapter 14 of this book, important in that it gives an interesting
-example of some thought processes associated with psychedelic
-intoxication, ego-inflation, and what might be thought of as bits of
-mania. As is always the case with peak experiences that happen to be
-catalyzed by drugs, this extraordinary event could not be duplicated.
-At 7 milligrams there was an uneventful +1, and some 10 milligrams was
-needed to generate a full +3 experience. The first clue of the
-erratic nature of the [[aleph-family-overview]] came from an independent assay by a
+[[aleph-family-overview]] came from an independent assay by a
 colleague of mine, one who was very familiar with such states of
 
 (Additional commentary available in source.)
@@ -88,3 +30,88 @@ was in hand 1.8 g of bright orange crystals with a mp of 137-138 deg C.
 Anal. (C12H15NO4S) C,H,N,S.
 
 A suspension of 1.4 g LAH in 10 mL anhydrous Et2O and 40 mL anhydrous
+
+## Overview
+
+Aleph Entity Pihkal represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish aleph entity pihkal
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving aleph extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Aleph Entity Pihkal finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for aleph entity pihkal. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+aleph entity pihkal and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Aleph Entity Pihkal has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of aleph entity pihkal into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[aleph-1-entity]]
+- [[aleph-2-pihkal-entry-4]]
+- [[aleph-4-entity-pihkal]]
+- [[aleph-6-entity-pihkal]]
+- [[aleph-pihkal-entry-3]]

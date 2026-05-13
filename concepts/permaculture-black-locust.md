@@ -6,19 +6,11 @@ type: concept
 tags: [permaculture, design]
 sources: []
 ---
-Updated: 2026-04-18 Black Locust (Robinia pseudoacacia) is a valuable hardwood tree prized for its rot-resistant timber, excellent firewood, and nitrogen-fixing ability. It is one of the most valuable bee forages in France and a key [[mulch-producing-plants]] from leaf fall and prunings
-
-- [[urban-permaculture-trees-water-cycling]] where branch pruning provides livestock browse.
+Updated: 2026-04-18 Black Locust (Robinia pseudoacacia) is a valuable hardwood tree prized for its rot-resistant timber, excellent firewood, and nitrogen-fixing ability. It is one of the most valuable bee forages in France and a key [[urban-permaculture-trees-water-cycling]] where branch pruning provides livestock browse.
 
 ## Beekeeping Value
 
-Black Locust is one of the premier honey plants in temperate regions. The fragrant white flowers bloom for 10-14 days in late spring, producing a light, mild, and very tasty honey that remains liquid for long periods. A single large tree can support multiple hives. See faires-permaculture-ethics-and-design-principles, Black Locust is typically placed in zones 3-4 as a [[mollison-designers-chestnut-as-multipurpose-tree-crop]]. It serves well as a windbreak component, a nitrogen-fixing nurse tree for orchards, and a source of durable timber. Its deep root system helps break up compacted subsoil layers, improving conditions for subsequent plantings.
-
-## See Also
-
-- [[permaculture-nitrogen-fixing-trees-guide]]
-
-- [[permaculture-beekeeping]]
+Black Locust is one of the premier honey plants in temperate regions. The fragrant white flowers bloom for 10-14 days in late spring, producing a light, mild, and very tasty honey that remains liquid for long periods. A single large tree can support multiple hives. See faires-permaculture-ethics-and-design-principles, Black Locust is typically placed in zones 3-4 as a [[permaculture-nitrogen-fixing-trees-guide]]
 
 - [[permaculture-forestry-systems]]
 ## Practical Applications

@@ -41,32 +41,10 @@ Huiririma is the Amazonian name for *Astrocaryum jauari*, a palm species in the 
 - **Electric eels:** Feed on fallen fruits; beat the trunk to dislodge them — a notable example of fish-palm interaction
 - **Floodplain ecology:** Forms monodominant stands in blackwater river margins
 - **Habitat:** Provides food and shelter for fish during flood season
-- **[[clay-pellet-seed-dispersal]]:** Primarily fish-mediated (ichthyochory) — one of the few palm species dispersed by fish
-- The spiny trunk deters terrestrial herbivores and climbing animals
-
-## Ethnobotanical Uses
-
-- **Protective icaro:** Sung as defense against thunder-wielding sorcerers
-- **Sorcery weapon:** Trunk spines used as virotes (magical darts) in marupa sorcery
-- **Edible fruit:** Mesocarp is edible and consumed by local peoples
-- **Construction:** Palm leaves used for thatching
-- **Fishing:** The relationship with electric eels is used as ecological knowledge for locating fish
-
-## Relevance to Cultivation and Mycology
-
-- *Astrocaryum jauari* is an ecologically important species in Amazonian floodplain ecosystems
-- The palm's interaction with electric eels demonstrates complex aquatic-terrestrial food web connections
-- As a floodplain species, it experiences periodic anaerobic conditions that select for specific root-associated [[biodiversity-fungi-soil-fungal-communities]]
+- **[[biodiversity-fungi-soil-fungal-communities]]
 - The electromagnetic properties attributed to the palm may relate to mineral uptake in waterlogged soils
 - The palm's spines have been studied for their biomechanical properties and defensive ecology
-- Fish-mediated seed dispersal (ichthyochory) connects to understanding seed passage through digestive systems where [[fungal-endophytes]] may be acquired
-
-## See Also
-
-- Marupa sorcery (animal-mediated sorcery)
-- Virote (magical dart)
-- Icaro (shamanic song)
-- [[pashaquilla-sensitiva]] (*Macrolobium acaciaefolium*)
+- Fish-mediated seed dispersal (ichthyochory) connects to understanding seed passage through digestive systems where [[pashaquilla-sensitiva]] (*Macrolobium acaciaefolium*)
 - Vegetalismo (Amazonian plant shamanism)
 
 ## Visionary Role
@@ -75,12 +53,7 @@ In Amaringo's interpretive world, huiririma is not merely a palm with useful mat
 Its icaro gives the vegetalista a way to answer atmospheric aggression, especially attacks imagined as thunder or electric force.
 The electric eel association makes the plant's power legible through ordinary ecology: a visible animal relationship becomes evidence for invisible energy.
 This is typical of Amazonian plant knowledge, where behavior, habitat, animal feeding, and visionary instruction are read together.
-The palm therefore belongs with [[icaro]] as a plant whose agency is activated through song.
-
-## Sorcery Ambivalence
-
-Huiririma illustrates the moral ambiguity of powerful plants.
-The same trunk spines that defend the palm can become virotes in [[marupa-sorcery]].
+The palm therefore belongs with [[marupa-sorcery]].
 For healers, the plant's force can protect against thunder-bearing enemies.
 For sorcerers, its sharp material form can be miniaturized and sent as a harmful dart.
 This dual use is important because vegetalismo rarely treats plant power as automatically benevolent.
@@ -90,6 +63,82 @@ Knowledge, intention, and discipline determine whether a plant becomes medicine 
 
 Ecologically, huiririma is valuable for studying flooded-forest food webs.
 Its fruits link canopy production to aquatic consumers during inundation periods.
-The fish-mediated dispersal pattern also makes the palm a useful example for comparing plant reproduction with [[fungal-spore-dispersal]].
-Culturally, the page should cross-reference [[ayahuasca-preparation-pablo-amaringo-ucayali-shamanism]] because Amaringo's visions supply the interpretive frame.
+The fish-mediated dispersal pattern also makes the palm a useful example for comparing plant reproduction with [[ayahuasca-preparation-pablo-amaringo-ucayali-shamanism]] because Amaringo's visions supply the interpretive frame.
 Future notes could distinguish local names for *Astrocaryum* palms, since similar chonta or huacrapona names may refer to different species in different regions.
+
+## Overview
+
+Huiririma represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish huiririma
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving huiririma extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Huiririma finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for huiririma. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+huiririma and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Huiririma has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of huiririma into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.

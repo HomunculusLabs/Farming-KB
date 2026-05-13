@@ -11,16 +11,8 @@ tags: [contamination, cultivation, psilocybin]
 # Gottlieb Psilocybin Cultivation Contamination Prevention
 
 Gottlieb describes contamination prevention as "the most difficult part of
-psilocybin [[accessible-mushroom-cultivation-for-disabilities]]" in his 1976 guide. He presents a
-comprehensive sanitary protocol organized into pure [[agar-culture-technique]],
-sterilization procedures, and [[mushroom-contaminant-identification-key]]. The approach is
-built around the reality that bacteria and fungal spores are pervasive in
-the environment -- floating in air, clinging to skin and clothing, and
-issuing from the mouth with every exhalation.
-
-## Pure Culture Technique
-
-The "sanitary code" [[history-of-mushroom-cultivation]]. Gottlieb stresses that
+psilocybin [[agar-culture-technique]],
+sterilization procedures, and [[history-of-mushroom-cultivation]]. Gottlieb stresses that
 extreme measures must be taken to keep contaminants out of mycelial
 cultures, which they would rapidly overrun.
 
@@ -66,11 +58,7 @@ cultures, which they would rapidly overrun.
 
 1. Fill containers no more than half full with medium.
 2. Leave lids loose enough to allow pressure escape (prevents cracking).
-3. Place in canning-type [[double-layer-tinfoil-jar-covering-pressure-cooker-method]]; seal lid.
-4. Keep stopcock open; heat on high until thick steam vents.
-5. Close stopcock; bring to 15-20 psi (250 degrees F) for 30 minutes.
-6. Do not exceed this time/temperature (sugar caramelization inhibits
-   growth and [[gottlieb-psilocybin-production-extraction-methods]]).
+3. Place in canning-type [[gottlieb-psilocybin-production-extraction-methods]]).
 7. Cool to room temperature before releasing stopcock (prevents boil-over).
 8. Discard any cracked containers.
 
@@ -118,8 +106,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[psilocybin-cultivation]]
 - [[psilocybin]]
-- [[spore]]
 - [[mycelium]]
 - [[sterilization]]

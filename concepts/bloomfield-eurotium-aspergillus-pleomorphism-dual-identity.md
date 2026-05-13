@@ -7,29 +7,7 @@
 The relationship between Eurotium and Aspergillus illustrates one of the most
 perplexing problems in mycology: a single organism known by two names because its
 sexual (teleomorphic) and asexual (anamorphic) stages were discovered and described
-independently. Eurotium produces closed spherical [[bloomfield-asterophora-and-mycoparasites-of-fruiting-bodies]] called cleistothecia
-containing sexual spores, while Aspergillus produces asexual conidia on distinctive
-stalks. The same organism cycles between these two identities in an endless loop of
-sex followed by celibacy followed by sex — a phenomenon called pleomorphism that
-was first recognized by the [[bloomfield-fungal-pleomorphy-tulasne-brothers-anamorph-teleomorph]] in the [[mckenna-club-des-hachischins-and-nineteenth-century-literary-hashish]].
-
-## The Anamorph-Teleomorph Problem
-
-Like most ascomycetes, Eurotium leads a different life in the absence of a sexual
-partner. A single ascospore germinates and produces a branched mycelium that invades
-food sources. At the surface, the fungus sends branches into the air that bulge at
-their tips and generate massive numbers of spores through asexual reproduction. These
-asexual spores, called conidia, are clones — each nucleus is an exact copy of the
-parent.
-
-When Eurotium forms conidia, mycologists refer to the fungus by a different name:
-Aspergillus. This conidial stage is the imperfect state or anamorph of Eurotium;
-Eurotium is the perfect state or teleomorph. If two Aspergillus colonies with
-compatible genetics merge, they produce the cleistothecium of Eurotium. The cycle
-is continuous: Eurotium forms Aspergillus forms Eurotium.
-
-The reason a single organism bears two names is due to an incomplete understanding of
-its [[agaricus-campestris-biology-and-life-cycle]] — the two stages look so different that they were assumed to be separate
+independently. Eurotium produces closed spherical [[bloomfield-fungal-pleomorphy-tulasne-brothers-anamorph-teleomorph]] in the [[agaricus-campestris-biology-and-life-cycle]] — the two stages look so different that they were assumed to be separate
 species when first encountered.
 
 ## Catching Aspergillus from the Sky
@@ -40,17 +18,14 @@ leave it for a day. The plate will likely sprout the conidium-producing stalks o
 Aspergillus. If the experiment fails, the fungus is certain to appear on the second or
 third attempt.
 
-This ubiquity reflects the effectiveness of the asexual [[stinkhorn-fungi-phallales-spore-dispersal-strategy]]. The
-conidia are produced in enormous numbers and are adapted for aerial transport. Once
-isolated, the culture can be maintained indefinitely by seeding fresh [[agar-medium-preparation]] with
+This ubiquity reflects the effectiveness of the asexual [[agar-medium-preparation]] with
 spores from an older plate.
 
 ## The Naming Confusion
 
 Imagine discovering a new species of Aspergillus growing on a culture plate and naming
 it Aspergillus magnificus. If two strains of this species are grown together and
-mate, they generate a sexual [[comparison-fruiting-body-vs-mycelium-extracts-medicinal-mushrooms]] — a cleistothecium. A mycologist who comes
-across these cleistothecia on a [[bloomfield-rust-germ-tube-tactile-sensing-leaf-surface-navigation]] might think they have discovered another
+mate, they generate a sexual [[bloomfield-rust-germ-tube-tactile-sensing-leaf-surface-navigation]] might think they have discovered another
 new species. Unless the conidium-producing Aspergillus stage is growing alongside the
 cleistothecia, the error is unavoidable, and the fungus gets a second name: perhaps
 Eurotium grandiosum.
@@ -118,8 +93,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[spore]]
 - [[mycelium]]
-- [[hashish]]
 - [[mycology]]
 - [[bloomfield-anamorph-telomorph-cryptococcus-filobasidiella-dual-naming]]

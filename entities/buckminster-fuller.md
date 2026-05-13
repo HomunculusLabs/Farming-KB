@@ -29,8 +29,8 @@ Richard Buckminster "Bucky" Fuller (1895–1983) was an American architect, syst
 
 1. **Design science approach:** Fuller's insistence that design (not ideology) solves problems applies to cultivation — growers achieve better results through systematic design of grow rooms, substrate formulations, and climate control than through trial-and-error alone.
 2. **Efficiency maximisation:** "So much performance per unit of resource invested" is the goal of optimised mushroom cultivation — maximum biological efficiency (BE) from minimum substrate input.
-3. **Doing more with less:** Fuller's ephemeralisation principle applies to low-tech mushroom cultivation methods that use agricultural waste products (straw, sawdust, coffee grounds) to produce high-value food and medicine.
-4. **Whole-system design:** Fuller's comprehensive design methodology parallels the permaculture design process — survey, analyse, design, implement, evaluate — applied to the entire property rather than individual elements.
+3. **Doing more with less:** Fuller's ephemeralisation principle applies to low-tech [[mushroom-cultivation-methods]] that use agricultural waste products (straw, sawdust, coffee grounds) to produce high-value food and medicine.
+4. **Whole-system design:** Fuller's comprehensive design methodology parallels the [[permaculture-design-process]] — survey, analyse, design, implement, evaluate — applied to the entire property rather than individual elements.
 5. **Geodesic efficiency:** Fuller's geometric insights inform the design of efficient grow structures (dome greenhouses, hexagonal bed layouts) that maximise growing area per unit of building material.
 
 ## References in Source
@@ -39,9 +39,7 @@ Mollison uses Fuller's quote as the epigraph for Chapter 2, setting up the argum
 
 ## See Also
 
-- [[bill-mollison]]
 - [[permaculture]]
-- [[permaculture-design-process]]
 - [[eugene-odum]]
 
 ## Overview and Definition

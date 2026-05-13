@@ -110,11 +110,7 @@ The tree is occasionally used as a rootstock for grafting other magnolias, parti
 
 ## See Also
 
-- [[magnolia-grandiflora]]
 - [[magnolia-stellata]]
-- [[liriodendron-tulipifera]]
 - [[cornus-florida]]
-- [[stewartia-pseudocamellia]]
 - [[parrotia-persica]]
-- [[davidia-involucrata]]
 - [[hamamelis-virginiana]]

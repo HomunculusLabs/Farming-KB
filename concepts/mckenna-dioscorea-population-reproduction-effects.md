@@ -15,7 +15,7 @@ type: concept
 
 The genus *Dioscorea* — commonly known as yams or sweet potatoes — provides a striking example of how plant chemistry can profoundly influence animal reproduction and population dynamics.
 
-[[ibogaine]] from *[[psilocybin]] at moderate doses triggers restlessness and sexual arousal, potentially increasing reproductive frequency.
+[[psilocybin]] at moderate doses triggers restlessness and sexual arousal, potentially increasing reproductive frequency.
 
 These effects mean that a group's choice of food plants can function as an unconscious form of population regulation and social engineering — a phenomenon McKenna saw as central to understanding the relationship between diet and cultural evolution.
 
@@ -23,17 +23,7 @@ These effects mean that a group's choice of food plants can function as an uncon
 
 The mutagenic dimension of plant chemistry adds another layer to the evolutionary story.
 
-Many plant [[antifungal-secondary-metabolites-coprophilous-fungi]] are reactive molecules capable of interacting with DNA.
-
-Molds and fungi growing on cereal grains and other foods are among the most powerful natural mutagens.
-
-A diet that includes a wide variety of plant species maximizes exposure to diverse mutagenic compounds.
-
-Increased mutation rates generate more genetic variation upon which natural selection can act.
-
-In the compressed timeframe of human evolution, this accelerated variation may have been crucial.
-
-[[dioscorea-alata]]
+Many plant [[dioscorea-alata]]
 
 - [[mckenna-diet-symbiosis-human-evolution]]
 ## Practical Applications

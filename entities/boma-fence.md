@@ -14,16 +14,12 @@ while protecting garden compounds from grazing animals. The technique is
 fundamental to dryland and tropical permaculture systems where manufactured
 fencing materials are unavailable or impractical.
 
-
-
 ## Classification
 
 - **Category**: Technique — Animal management / Barrier construction
 - **Domain**: Dryland and tropical agriculture, Livestock management
 - **Origin**: Traditional East and Southern African pastoral practice
 - **Permaculture function**: Zone design element, Animal barrier
-
-
 
 ## Key Facts
 
@@ -39,18 +35,13 @@ fencing materials are unavailable or impractical.
 - Boma manure accumulation from penned livestock creates fertile niches for
   subsequent tree planting — a key dryland orchard establishment technique.
 
-
-
 ## Recommended Species
 
 Mollison identifies four ideal boma species:
 
-1. **[[lycium-ferocissimum]]** — Dense, thorny shrub; may not need wire support.
-2. **[[acacia-tortilis]]** — Umbrella thorn; nitrogen-fixing tree with hooked thorns.
+1. **[[acacia-tortilis]]** — Umbrella thorn; nitrogen-fixing tree with hooked thorns.
 3. **Oncoba spinosa** — Snuff-box tree; thorny shrub with attractive flowers.
 4. **Euphorbia tirucalli** — Pencil cactus; toxic milky sap requires eye protection.
-
-
 
 ## Design Considerations
 
@@ -64,8 +55,6 @@ Mollison identifies four ideal boma species:
   for garden or orchard use — Mollison describes using goat and donkey pens
   to create fertile niches in granite country for almond, fig, and chestnut trees.
 
-
-
 ## Relevance to Cultivation / Mycology
 
 - **Manure-enriched soil**: Concentrated livestock manure from bomas creates
@@ -77,13 +66,85 @@ Mollison identifies four ideal boma species:
 - **Edge habitat**: Boma hedgerows create diverse edge ecotones supporting
   decomposer communities including beneficial fungi.
 
-
-
 ## References
 
 - Mollison, B. (1988). *Permaculture: A Designers' Manual*, p. 276–277, 297.
 ## See also
 
-- [[permaculture-design]]
 - [[tropical-food-system-development]]
-- [[comparison-living-fences-vs-hedgerows]]
+- [[mollison-designers-woven-fence-hedge-live-barrier]]
+- [[query-how-do-i-design-and-plant-a-living-fence]]
+
+## Overview
+
+Boma Fence represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish boma fence
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving boma extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Boma Fence finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for boma fence. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+boma fence and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Boma Fence has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of boma fence into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource

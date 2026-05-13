@@ -19,17 +19,7 @@ type: concept
 
 ## Overview
 
-Steve Solomon challenges the widely held belief that all compost is inherently good compost. Drawing on decades of experience and analytical data, he classifies compost into three distinct quality grades based on nutrient content, carbon-to-nitrogen ratio, and suitability for [[dry-gardening-unirrigated-vegetable-production-solomon]]. Most home compost, according to Solomon, falls into the low-grade category — adequate for maintaining soil humus but insufficient as a standalone fertilizer for most vegetable crops. Understanding these grades is essential for gardeners who rely on compost as their primary or sole fertility source.
-
-The quality of finished compost depends on the raw materials going into the heap, the carbon-to-nitrogen ratio of those materials, the management of the decomposition process, and the soil temperature during application (which determines how quickly nutrients become available to plants).
-
-## The Carbon-to-Nitrogen Ratio (C/N)
-
-Every decomposable material can be characterized by the ratio of carbon (carbohydrate) to nitrogen (protein) it contains, written as C:N or C/N. This ratio is the single most important predictor of compost quality and decomposition behavior.
-
-The C/N of finished soil humus is approximately 10:1. For compost to effectively feed vegetables, its C/N must approach this natural soil ratio. Materials with high C/N ratios (50:1 or higher, such as sawdust, straw, paper, and woody waste) decompose slowly and tie up soil nitrogen during the process. Materials with low C/N ratios (10:1 to 20:1, such as fresh manure, seedmeal, and kitchen scraps) decompose rapidly and release nutrients quickly.
-
-A critical misconception Solomon addresses is the belief that mixing high-C materials with low-N materials and letting them decompose somehow preserves the nitrogen. In reality, much of the nitrogen is lost to the atmosphere as ammonia gas during the high-temperature phase of decomposition. The longer and hotter the composting process, the more nitrogen escapes. This is why municipal composting operations — which rely heavily on woody waste and paper — produce material with C/N ratios around 25:1, far too high for effective [[fukuoka-semi-wild-vegetable-growing-natural-method]].
+Steve Solomon challenges the widely held belief that all compost is inherently good compost. Drawing on decades of experience and analytical data, he classifies compost into three distinct quality grades based on nutrient content, carbon-to-nitrogen ratio, and suitability for [[fukuoka-semi-wild-vegetable-growing-natural-method]].
 
 ## Low-Grade Compost
 
@@ -40,7 +30,7 @@ A critical misconception Solomon addresses is the belief that mixing high-C mate
 - **Phosphorus content**: Low
 
 ### Suitability
-Low-grade compost is barely adequate for the [[fukuoka-dutch-priest-vegetable-garden-spiritual-renewal]]. When shallowly worked into the soil at a rate of about a quarter to half inch thick (6 to 12 millimeters), it provides enough nutrition for [[complete-organic-fertilizer-cof|COF]] may still be needed for high-demand crops.
+Low-grade compost is barely adequate for the [[complete-organic-fertilizer-cof|COF]] may still be needed for high-demand crops.
 
 ### How It Is Made
 Producing high-quality compost is a highly skilled activity requiring significant work, close attention, and the ability to observe and respond to what is happening inside the heap. Solomon compares it to serious winemaking: just as homebrew can range from foul to superb depending on the skill and attention of the brewer, compost quality varies enormously based on the compost-maker's knowledge and engagement.
@@ -75,12 +65,7 @@ Solomon is particularly critical of municipal composting programs. The raw mater
 
 ## Climate Considerations
 
-The effectiveness of any grade of compost depends heavily on soil temperature. Nutrient release from [[hamilton-composting-and-organic-matter-management]] is governed by microbial activity, which approximately doubles for each 10°F (5°C) increase in soil temperature. In cool maritime climates (such as the Pacific Northwest, the UK, and Tasmania), soil may never get warm enough for even high-quality compost to release nutrients rapidly. In these conditions, concentrated nutrient sources like COF provide more reliable results, especially for medium and high-demand crops.
-
-## Related Concepts
-
-- [[building-soil-fertility-long-term]]
-- [[mulch-gardening-critique]]
+The effectiveness of any grade of compost depends heavily on soil temperature. Nutrient release from [[building-soil-fertility-long-term]]
 - [[oyster-substrate-carbon-nitrogen-ratio]]
 
 ## Practical Applications
@@ -112,8 +97,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[dom]]
 - [[det]]
-- [[composting]]
 - [[steve-solomon]]
 - [[decomposition]]

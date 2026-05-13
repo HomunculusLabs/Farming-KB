@@ -23,15 +23,15 @@ sources:
 
 # PF TEK Guide
 
-The [[pf-tek-psilocybe-fanaticus]] TEK (Technique), first published in 1992, revolutionized home [[accessible-mushroom-cultivation-for-disabilities]] by making it accessible using common kitchen supplies. PF TEK remains the most widely copied and influential beginner cultivation method. See [[pf-tek-fruiting-chamber]] for detailed [[comparison-laminar-flow-hood-vs-fruiting-chamber]] construction and [[mushroom-harvesting-potency]] for harvest/drying/potency optimization.
+The Psilocybe Fanaticus TEK (Technique), first published in 1992, revolutionized home mushroom cultivation by making it accessible using common kitchen supplies. PF TEK remains the most widely copied and influential beginner cultivation method. See [[pf-tek-fruiting-chamber]] for detailed fruiting chamber construction and [[mushroom-harvesting-potency]] for harvest/drying/potency optimization.
 
 ## History
 
-In September 1991, [[psylocybe-fanaticus]] (PF) introduced the PF magic mushroom growing kit in High Times Magazine. Initially sold as prepared kits with substrate jars, syringes, and instructions, the complete PF TEK was published in 1992, making the kits obsolete. The method was copied worldwide and spread across the internet as the "Magic Mushroom Growers Guide" Ver. 3.2 on sites like the Lycaeum and Erowid.
+In September 1991, Psylocybe Fanaticus (PF) introduced the PF magic mushroom growing kit in High Times Magazine. Initially sold as prepared kits with substrate jars, syringes, and instructions, the complete PF TEK was published in 1992, making the kits obsolete. The method was copied worldwide and spread across the internet as the "Magic Mushroom Growers Guide" Ver. 3.2 on sites like the Lycaeum and Erowid.
 
 ## Core Innovation
 
-PF TEK uses brown rice powder and vermiculite as substrate instead of grain. The key insight: when mycelium is grown in grain, it turns into a dense mass with little air space, but when grown with vermiculite, the mycelial threads stretch across space, creating a more productive culture. The method uses mass spore inoculation directly to the [[pf-tek-maximum-fruiting-substrate-formula]] rather than tissue cloning, preserving full [[biodiversity-fungal-genetic-diversity]] and avoiding senescence.
+PF TEK uses brown rice powder and vermiculite as substrate instead of grain. The key insight: when mycelium is grown in grain, it turns into a dense mass with little air space, but when grown with vermiculite, the mycelial threads stretch across space, creating a more productive culture. The method uses mass spore inoculation directly to the fruiting substrate rather than tissue cloning, preserving full genetic diversity and avoiding senescence.
 
 ## Substrate Formula (per half-pint jar)
 
@@ -140,11 +140,11 @@ See [[mushroom-harvesting-potency]] for complete details:
 ### Stage Two: Mushroom Growing
 - 10-gallon aquarium
 - Cut piece of transparent Plexiglas (~15x18 inches, 1/8 inch thick)
-- Strips of wood with connectors and screws (terrarium lid)
-- Plastic film and thumb tacks (lid covering)
-- Small wall thermometer
-- High-quality adjustable nozzle water spray bottle (critical)
-- Wire screen, plastic containers, plastic bags (drying)
-- Desiccant: Drierite, silica gel, or Damp Gone (drying)
 
-### Stage Three: Spore Printing and Syringe Making
+## See Also
+
+- [[solomon-sweet-potato-cultivation-guide]]
+- [[bionutrients-guide]]
+- [[grain-processing-and-milling-guide]]
+- [[cannabis-living-soil-guide]]
+- [[earthquake-preparedness-guide]]

@@ -5,63 +5,18 @@
 
 This topic covers fungi that produce thalli and reproductive structures
 on living plants and fruit, exclusive of roots, bark, and dead
-structures still attached to the plant. Generally, most [[endophytic-fungi-living-inside-plants]]
-on plant substrata are microfungi, with representatives in all major
-fungal classes and most orders. Many are pathogenic (cause diseases),
-many have been well studied by both mycologists and plant pathologists,
-and the majority have been collected primarily from leaves.
-
-## Types of Fungal Associations
-
-### Obligate Biotrophs
-
-Obligate biotrophs produce either intercellular or extracellular
-mycelia, often with specialized feeding structures (haustoria) that
-penetrate and extract nutrients from the host plant. They require a
-living host, are unable to live saprobically in nature, and rarely are
-cultured in vitro. Many fungi are host-specific to certain plant
-families, often making it necessary to identify the host plant to
-identify the fungus. Rusts, smuts, and [[biodiversity-rust-fungi-urediniomycetes]] fungi.
+structures still attached to the plant. Generally, most [[biodiversity-rust-fungi-urediniomycetes]] fungi.
 
 ## Ecological Importance
 
 Fungi on living plants affect the genetic diversity of their hosts by
 selecting for disease resistance. They act as natural thinning and
 diversifying agents in dense clusters of seedlings and in stands of
-young plants. [[cho-seed-and-seedling-vitality-restoration]] pathogens can select for seed dispersal
-patterns. The survival of seeds of the tropical tree Platypodium
-elegans increased with distance from an adult tree, as distantly
-dispersed seeds encountered light gaps with lower disease risk.
-
-## Powdery Mildews
-
-Powdery mildews are obligate biotrophic ascomycetes that produce
-characteristic white to grayish powdery colonies on the surfaces of
-leaves, stems, and fruits. They are among the most recognizable and
-common fungal diseases of plants worldwide. The mycelium is
-superficial, producing haustoria that penetrate the epidermal cells.
-About 100 species of powdery mildews are known, but many more are
-expected to be found, particularly in the tropics.
-
-## Foliage Fungi
-
-[[post-harvest-handling-marketing-mushrooms]] rots.
+young plants. [[post-harvest-handling-marketing-mushrooms]] rots.
 Some fungi specialize on particular flower or fruit structures. The
 diversity of fungi on flowers and fruits is poorly known in tropical
 regions and represents a significant gap in our understanding of
-[[sterilization-techniques-mushroom-cultivation]] may
-be needed to distinguish epiphytic from [[fungal-species-accumulation-rarefaction-estimators]]-estimates-biodiversity-overview and [[molecular-methods-fungal-diversity]] are increasingly used to confirm identifications
-and to detect fungi that do not produce distinctive morphological
-structures.
-
-## Estimating Species Richness
-
-The total number of fungi on living plants is poorly known but is
-certainly very large. Tropical regions are particularly undersampled.
-Some estimates suggest that we know fewer than 10% of the fungi
-associated with tropical plants. Comprehensive surveys using both
-morphological and molecular methods are needed to better document
-this diversity. See [[fungal-species-estimates-biodiversity-overview]]
+[[fungal-species-accumulation-rarefaction-estimators]]-estimates-biodiversity-overview and [[fungal-species-estimates-biodiversity-overview]]
 for broader estimates.
 ## See Also
 
@@ -114,8 +69,82 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[doc]]
 - [[det]]
-- [[mycelium]]
 - [[sterilization]]
 - [[fungi-living-plants-anthracnose-ergot-fruit-rots]]
+
+## Overview
+
+Fungi Living Plant Substrata represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish fungi living plant substrata
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving fungi extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Fungi Living Plant Substrata finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for fungi living plant substrata. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+fungi living plant substrata and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Fungi Living Plant Substrata has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of fungi living plant substrata into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.

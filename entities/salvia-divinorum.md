@@ -20,31 +20,7 @@ sources:
 
 ## Overview
 
-**Salvia divinorum** Epling & Játiva, commonly known as diviner's sage, ska María Pastora, or simply salvia, is a perennial herbaceous plant in the family Lamiaceae. It is endemic to a small region of the Sierra Mazateca in Oaxaca, Mexico, where it has been used for centuries by Mazatec shamans in divination and [[shamanic-entheogenic-healing-rituals]].
-
-S. divinorum is unique among psychedelic plants in that its primary active compound, salvinorin A, is a non-nitrogenous diterpenoid that acts as a potent and selective κ-opioid receptor (KOR) agonist. It is the most potent naturally occurring psychedelic known, with active doses in the 200–500 µg range when vaporized.
-
-## Taxonomy and Morphology
-
-- **Kingdom:** Plantae
-- **Division:** Angiospermae
-- **Class:** Magnoliopsida
-- **Order:** Lamiales
-- **Family:** Lamiaceae
-- **Subfamily:** Nepetoideae
-- **Tribe:** Mentheae
-- **Genus:** Salvia
-- **Species:** S. divinorum Epling & Játiva (1962)
-
-The species was first described scientifically by Carl Epling and Carlos Játiva in 1962, based on specimens collected by the anthropologist R. Gordon Wasson during his ethnobotanical investigations with the Mazatec.
-
-**Growth habit:** Herbaceous perennial, 0.5–1.5 m tall, with a sprawling, hollow, square (quadrangular) stems characteristic of the mint family. Stems root readily at nodes when they contact moist soil.
-
-**Leaves:** Opposite, ovate to lanceolate, 10–25 cm long and 5–12 cm wide. Dark green, rugose (wrinkled) surface with serrated margins. Petioles are 2–8 cm long.
-
-**Flowers:** White to blue-violet, arranged in whorls along terminal spikes 20–30 cm long. Corollas are two-lipped (bilabiate), approximately 2–3 cm long. Flowers are rarely produced in cultivation.
-
-**Seeds:** The plant almost never sets viable seed in cultivation, reproducing almost exclusively through [[hamilton-vegetative-propagation]]. This has led to a very narrow genetic base among cultivated clones worldwide.
+**Salvia divinorum** Epling & Játiva, commonly known as diviner's sage, ska María Pastora, or simply salvia, is a perennial herbaceous plant in the family Lamiaceae. It is endemic to a small region of the Sierra Mazateca in Oaxaca, Mexico, where it has been used for centuries by Mazatec shamans in divination and [[hamilton-vegetative-propagation]]. This has led to a very narrow genetic base among cultivated clones worldwide.
 
 ## Distribution and Habitat
 
@@ -54,31 +30,11 @@ The species grows in shaded, moist ravines and along streambanks in secondary cl
 
 Wild populations are threatened by deforestation and habitat conversion to coffee plantations and cattle pasture. The species is classified as potentially endangered in its native habitat.
 
-Genetic studies of cultivated specimens worldwide have revealed extremely low [[biodiversity-fungal-genetic-diversity]], consistent with propagation from a very small number of original clones. This narrow genetic base raises concerns about the species' vulnerability to pathogens and environmental stress.
-
-## Bioactive Compounds
-
-The psychoactivity of S. divinorum is attributed primarily to neoclerodane diterpenoids, a class of compounds unique to the Salvia genus.
-
-**Salvinorin A:** The principal active compound, comprising approximately 0.08–0.26% of dried leaf weight. It is a non-nitrogenous, non-alkaloidal diterpenoid — structurally and pharmacologically distinct from classical psychedelics (tryptamines and phenethylamines). Salvinorin A is a highly selective KOR agonist with no significant affinity for 5-HT2A, serotonin, dopamine, or other common psychoactive receptor targets. EC50 at cloned human KOR is approximately 1 nM.
-
-**Salvinorin B:** A deacetylated metabolite of salvinorin A with greatly reduced KOR affinity (approximately 10-fold less potent). It is not considered significantly psychoactive.
-
-**Salvinorin C, D, E, F:** Minor neoclerodane diterpenoids present in trace amounts. Salvinorin C shows some KOR affinity but at much lower potency than salvinorin A.
-
-**Other constituents:** The leaves contain [[comparison-essential-oils-vs-neem-oil-vs-insecticidal-soap]], flavonoids, and tannins, though these are not believed to contribute to psychoactivity.
+Genetic studies of cultivated specimens worldwide have revealed extremely low [[comparison-essential-oils-vs-neem-oil-vs-insecticidal-soap]], flavonoids, and tannins, though these are not believed to contribute to psychoactivity.
 
 ## Pharmacology
 
-Salvinorin A produces an intense but short-acting [[leary-psychedelic-experience-bardo-mapping]] mediated exclusively through κ-opioid receptor activation. This mechanism is fundamentally different from the 5-HT2A-mediated effects of classical psychedelics like psilocybin and LSD.
-
-**[[mushroom-taste-route-of-administration-and-consumption-barriers]]:** Oral/sublingual absorption of salvinorin A is poor due to rapid [[enzymatic-degradation-in-mycoremediation]] the gastrointestinal tract. The traditional Mazatec method of chewing fresh leaves maximizes sublingual absorption. Modern users typically vaporize dried leaf or concentrated salvinorin A extract for rapid pulmonary absorption.
-
-**Effects profile:** The experience is characterized by profound alterations in consciousness, including dissociation, visual hallucinations, altered sense of self, perceived contact with entities, and complete reality dissolution at higher doses. Onset is rapid (30–60 seconds when vaporized), with peak effects at 2–5 minutes and total duration of 15–45 minutes.
-
-**Pharmacokinetics:** Salvinorin A has an extremely short half-life in vivo (approximately 60–90 minutes), consistent with the brief duration of effects. It is rapidly metabolized by hepatic esterases and does not accumulate with repeated dosing.
-
-**[[metzner-ayahuasca-therapeutic-potential]]:** KOR agonism is being investigated as a potential treatment for depression, substance use disorders (particularly cocaine and opioid dependence), and neuropathic pain. Unlike many KOR agonists, salvinorin A does not produce significant sedation or respiratory depression at psychoactive doses.
+Salvinorin A produces an intense but short-acting [[mushroom-taste-route-of-administration-and-consumption-barriers]]:** Oral/sublingual absorption of salvinorin A is poor due to rapid [[metzner-ayahuasca-therapeutic-potential]]:** KOR agonism is being investigated as a potential treatment for depression, substance use disorders (particularly cocaine and opioid dependence), and neuropathic pain. Unlike many KOR agonists, salvinorin A does not produce significant sedation or respiratory depression at psychoactive doses.
 
 ## Cultivation
 
@@ -87,3 +43,88 @@ S. divinorum is propagated almost exclusively through vegetative cuttings due to
 The plant requires high humidity (60–80%), indirect light, and consistently moist but well-drained soil. It is sensitive to both drought and waterlogging. Optimal growth temperature is 18–25°C. It does not tolerate frost and must be protected below 10°C.
 
 Cultivated plants can grow rapidly under favorable conditions, producing multiple harvests per year.
+
+## Overview
+
+Salvia Divinorum represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish salvia divinorum
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving salvia extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Salvia Divinorum finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for salvia divinorum. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+salvia divinorum and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Salvia Divinorum has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of salvia divinorum into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[salvia-divinorum-and-salvinorin-a]]
+- [[salvia-divinorum-pharmacology]]
+- [[salvia-divinorum-salvinorin]]
+- [[salvia-divinorum-salvinorin-a-pharmacology]]
+- [[schultes-salvia-divinorum]]

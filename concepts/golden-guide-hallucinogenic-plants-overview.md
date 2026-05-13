@@ -26,25 +26,9 @@ The guide distinguishes hallucinogens from other psychoactives: stimulants (caff
 
 Hallucinogenic plants contain active principles from many chemical classes. The guide emphasizes that all share one property: they are **biodynamic** -- affecting normal metabolism of the animal body. Major chemical classes include:
 
-- **Indole alkaloids**: Found in [[sacred-mexican-morning-glories-ololiuqui-and-tlitliltzin]], ergot, and numerous New World plants (tryptamines, beta-carbolines, harmine, harmaline, DMT, psilocybin, ibogaine)
-- **Isoquinoline alkaloids**: Present in cactus (mescaline)
-- **Tropane alkaloids**: Characteristic of the nightshade family -- hyoscyamine, scopolamine, atropine (Datura, Belladonna, Henbane, Mandrake)
-- **Dibenzopyran cannabinoids**: Unique to Cannabis
-- **Ibotenic acid / muscimol**: The active constituents of Amanita muscaria
-
-## Geographic and Botanical Distribution
-
-Schultes organizes the survey geographically, noting that hallucinogenic plants are found worldwide but concentrated in certain regions:
-
-**New World (the richest area)**:
-- Mexico: sacred mushrooms (Psilocybe, Conocybe, Panaeolus), morning glories (Rivea corymbosa, Ipomoea violacea), Salvia divinorum, peyote (Lophophora williamsii), numerous cactus species, Datura, Calea zacatechichi
-- South America: Ayahuasca (Banisteriopsis caapi + Psychotria viridis or Diplopterys cabrerana), Virola snuffs, Anadenanthera (yopo/cohoba), Brugmansia tree daturas, Brunfelsia, Erythrina, Mimosa
-- North America: Amanita muscaria, Datura stramonium, Acorus calamus
-
-**Old World**:
-- Asia: Cannabis, Amanita muscaria, Datura metel, [[purple-ohms-argyreia-nervosa-legal-mushroom-substitutes]] (Hawaiian wood rose), [[mckenna-food-gods-peganum-harmala-soma]] (Syrian rue), [[agara-galbulimima-belgraveana-new-guinea-tree]], Gymnocranthera
+- **Indole alkaloids**: Found in [[purple-ohms-argyreia-nervosa-legal-mushroom-substitutes]] (Hawaiian wood rose), [[agara-galbulimima-belgraveana-new-guinea-tree]], Gymnocranthera
 - Africa: Tabernanthe iboga (ibogaine), Erythrina, Argyreia
-- Europe: Amanita muscaria, Atropa belladonna, Hyoscyamus niger (henbane), [[mandrake-mandragora-officinarum-in-european-folklore]] (mandrake), [[bloomfield-ergot-claviceps-purpurea-ergotism]] (ergot), Peganum harmala
+- Europe: Amanita muscaria, Atropa belladonna, Hyoscyamus niger (henbane), [[bloomfield-ergot-claviceps-purpurea-ergotism]] (ergot), Peganum harmala
 
 ## Historical Overview
 
@@ -118,8 +102,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[hallucinogenic-plants-overview]]
 - [[ayahuasca]]
-- [[doc]]
 - [[harmine]]
 - [[richard-evans-schultes]]

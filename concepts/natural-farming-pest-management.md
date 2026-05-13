@@ -15,14 +15,14 @@ Organic pest management works by building healthy ecosystems where pests are nat
 
 The foundation of natural pest management is a healthy ecosystem:
 - Healthy soil grows healthy plants that resist pests
-- Biodiversity provides [[fukuoka-natural-predator-protection]] populations
+- Biodiversity provides natural predator populations
 - No monocultures = no pest population explosions
 - Accept some pest damage — the goal is management, not eradication
 
 ## Cultural Practices
 
 ### Prevention (first line of defense)
-- **Crop rotation** breaks [[hamilton-pest-and-disease-control-organic]] cycles
+- **Crop rotation** breaks pest and disease cycles
 - **Healthy soil** with adequate nutrients produces resistant plants
 - **Proper spacing** ensures good airflow (reduces fungal diseases)
 - **Timely planting** avoids peak pest emergence windows
@@ -33,8 +33,8 @@ The foundation of natural pest management is a healthy ecosystem:
 - Nasturtiums: trap crop for aphids
 - Basil: repels tomato hornworms and flies
 - Garlic: deters aphids, cabbage maggots, and Japanese beetles
-- Borage: attracts [[hamilton-beneficial-insects-and-biological-pest-control]], repels tomato hornworm
-- Dill: attracts [[parasitic-wasps-biological-pest-control]] that control caterpillars
+- Borage: attracts beneficial insects, repels tomato hornworm
+- Dill: attracts parasitic wasps that control caterpillars
 - Calendula: attracts hoverflies and aphid-eating insects
 
 ### Trap Cropping
@@ -81,7 +81,7 @@ The foundation of natural pest management is a healthy ecosystem:
 
 ### Bacillus thuringiensis (Bt)
 - Soil bacterium that kills caterpillars when ingested
-- Safe [[query-how-do-i-design-habitat-for-beneficial-insects]], humans, and animals
+- Safe for beneficial insects, humans, and animals
 - Apply to foliage of plants being damaged by caterpillars
 - Most effective on young caterpillars
 

@@ -22,16 +22,7 @@ sources:
 
 ## Overview
 Kelp meal and rock dust are both broad-spectrum mineral amendments that
-    address [[fukuoka-textdoc-fertilizer-acidification-trace-element-deficiency]] deficiencies, but they differ fundamentally in their
-    origin, nutrient release speed, and biological activity. Kelp meal is
-    dried seaweed that provides 60 to 70 trace elements plus natural plant
-    growth hormones. Rock dusts are ground geological materials that release
-    minerals slowly through microbial weathering over years. Understanding
-    their complementary roles helps growers build complete mineral fertility
-    programs.
-
-## Kelp Meal
-[[rock-dust-minerals]]
+    address [[rock-dust-minerals]]
 
 Rock dusts are ground geological materials including basalt, granite,
     glacial dust, azomite, greensand, gypsum, langbeinite, soft rock
@@ -48,21 +39,7 @@ The remineralization theory underlying rock dust application holds that
     balance. Release rates are extremely slow, operating on a timeline of
     years as soil microbes and weak acids gradually weather the mineral
     particles. This makes rock dusts foundational for long-term soil building
-    rather than quick correction. [[ingham-compost-tea-application-rates-and-timing]] range from five to one
-    hundred pounds per one thousand square feet depending on the material and
-    purpose, and costs are low at fifteen to twenty-five dollars per
-    fifty-pound bag covering one thousand to five thousand square feet.
-
-## Key Differences
-| Aspect | Kelp Meal | Rock Dust |
-|--------|-----------|-----------|
-| Origin | Organic (dried seaweed) | Inorganic (ground geological
-    material) |
-| Trace Elements | 60 to 70 elements | Varies by type (azomite: 70+) |
-| Growth Hormones | Yes (cytokinins, auxins, gibberellins) | No |
-| Nutrient Release | Weeks to months (biological breakdown) | Years
-    (microbial weathering) |
-| Application Methods | Soil, foliar, [[jadam-seed-treatment-and-nursery-management]], compost | Soil
+    rather than quick correction. [[jadam-seed-treatment-and-nursery-management]], compost | Soil
     incorporation only |
 | Cost | High ($$$ per area) | Low ($ per area) |
 | Biological Activity | High (feeds microbes, stimulates biology) |
@@ -78,8 +55,7 @@ Choose kelp meal when rapid trace element correction is needed, when
     compost activator. Foliar applications of kelp meal tea provide the
     fastest trace element delivery, making kelp ideal for addressing
     mid-season deficiencies. Seed treatments with kelp extract improve
-    germination rates and reduce [[query-how-to-prevent-transplant-shock-when-moving-cannabis-plants]]. Kelp meal is particularly
-    valuable in container gardens and [[comparison-raised-beds-vs-hugelkultur]] where no native mineral pool
+    germination rates and reduce [[comparison-raised-beds-vs-hugelkultur]] where no native mineral pool
     exists, and in organic operations where biostimulants are preferred over
     synthetic inputs. Its hormone content makes it uniquely valuable during
     critical growth transitions like transplanting, flowering, and fruit set.
@@ -95,22 +71,80 @@ Choose rock dust for foundational, long-term soil remineralization and
     access to the mineral diversity of native subsoil. Matching the rock dust
     type to the specific deficiency (gypsum for calcium without pH change,
     soft rock phosphate for phosphorus, greensand for potassium) provides
-    targeted correction at [[jadam-ultra-low-cost-agriculture]].
-
-## Hybrid Approaches
-The most effective mineral programs use both inputs in complementary
-    roles. Rock dusts provide the foundational mineral reservoir that builds
-    soil fertility over years, while kelp meal supplies the biological
-    catalyst and hormones that accelerate microbial weathering of those
-    minerals and directly stimulate plant growth. Adding kelp meal to compost
-    piles containing rock dust creates a synergistic effect: the kelp feeds
-    the compost bacteria that begin breaking down the rock dust, producing
-    finished compost enriched with both immediately available and slowly
-    released minerals. This approach maximizes the value of expensive kelp
-    meal by using it strategically as a biological activator rather than as a
-    bulk amendment.
-
-## See Also
-
-- [[comparison-biochar-vs-biofertilizer]]
+    targeted correction at [[comparison-biochar-vs-biofertilizer]]
 - [[biofertilizers-and-soil-inoculants]]
+
+## Overview
+
+Comparison Kelp Meal Vs Rock Dust represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish comparison kelp meal vs rock dust
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving comparison extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Comparison Kelp Meal Vs Rock Dust finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for comparison kelp meal vs rock dust. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+comparison kelp meal vs rock dust and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Comparison Kelp Meal Vs Rock Dust has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of comparison kelp meal vs rock dust into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and

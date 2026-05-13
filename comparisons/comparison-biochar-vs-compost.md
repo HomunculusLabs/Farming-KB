@@ -18,25 +18,13 @@ created: 2026-05-07
 
 ### Biochar
 
-Biochar is a carbon-rich solid material produced through the pyrolysis of biomass (wood, crop residues, manure) at temperatures of 300–900°C in low-oxygen environments. Its highly porous structure provides a [[soil-microorganisms-natural-fertility]].
-
-### Compost
-
-Compost is decomposed [[hamilton-composting-and-organic-matter-management]] produced through aerobic microbial breakdown of feedstocks such as food waste, yard trimmings, and manure. It is rich in humus, macronutrients (NPK), micronutrients, and a diverse [[edaphic-factors-microbial-community-structure]]. Compost provides immediate soil fertility, improves [[soil-building-ecological-garden]], vegetable gardens, [[permplant-willows-salix-erosion-control-fodder]] |
-
-## When to Use Biochar
-
-- **Nutrient leaching is a problem:** Biochar's porous structure adsorbs nutrients, reducing runoff in sandy or highly weathered soils. [[mollison-designers-tropical-soils-and-cation-exchange-management]] capacity (CEC) can increase by 20–50% with biochar application.
-- **Long-term [[mycorrhizal-fungi-soil-carbon-sequestration-by-type]] is a goal:** Biochar locks carbon into a stable form resistant to microbial decomposition for centuries. Approximately 50% of feedstock carbon is retained in biochar after pyrolysis.
-- **Acidic soils need liming:** Alkaline biochar (pH 8–11) can substitute for or supplement lime applications, particularly useful in tropical and subtropical regions with highly weathered, acidic soils.
-- **Drought-prone or sandy soils:** Biochar's water-holding capacity significantly improves moisture availability. Studies show 15–25% yield increases in drought conditions with biochar-amended soils.
-- **Heavy metal or contaminant remediation:** Biochar can immobilize certain [[fungal-biosorption-of-heavy-metals-by-filamentous-fungi]] (Pb, Cd, Cu) and organic pollutants through surface adsorption and precipitation reactions.
+Biochar is a carbon-rich solid material produced through the pyrolysis of biomass (wood, crop residues, manure) at temperatures of 300–900°C in low-oxygen environments. Its highly porous structure provides a [[hamilton-composting-and-organic-matter-management]] produced through aerobic microbial breakdown of feedstocks such as food waste, yard trimmings, and manure. It is rich in humus, macronutrients (NPK), micronutrients, and a diverse [[soil-building-ecological-garden]], vegetable gardens, [[mollison-designers-tropical-soils-and-cation-exchange-management]] capacity (CEC) can increase by 20–50% with biochar application.
+- **Long-term [[fungal-biosorption-of-heavy-metals-by-filamentous-fungi]] (Pb, Cd, Cu) and organic pollutants through surface adsorption and precipitation reactions.
 
 ## When to Use Compost
 
 - **Immediate fertility is needed:** Compost delivers plant-available nutrients and stimulates soil biology from the first application. Nitrogen release follows a typical mineralization curve, with 10–30% available in year one.
-- **Starting or improving garden beds:** Compost is the go-to amendment for vegetable gardens, [[comparison-biochar-vs-composting-soil-amendment]]
-- [[comparison-biochar-vs-vermicomposting]]
+- **Starting or improving garden beds:** Compost is the go-to amendment for vegetable gardens, [[comparison-biochar-vs-vermicomposting]]
 ## Practical Applications
 
 Biochar vs Compost: A Comprehensive Comparison has a range of practical applications that make it relevant to

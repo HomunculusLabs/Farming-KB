@@ -13,28 +13,7 @@ type: concept
 ## Overview
 
 Built environments, including homes, offices, hospitals, schools, and industrial
-facilities, harbor distinct [[biodiversity-of-fungi-soil-fungal-communities-agriculture]] shaped by human activity, building
-materials, ventilation systems, and moisture dynamics. The indoor mycobiome has
-emerged as a significant area of fungal biodiversity research, revealing that
-human-constructed spaces support hundreds of fungal species, many of which are
-poorly characterized and some of which have direct implications for human health.
-
-## Indoor Fungal Sources
-
-The majority of indoor fungal spores originate from outdoor sources. Airborne
-spores of Cladosporium, Alternaria, Penicillium, and Aspergillus species enter
-buildings through ventilation systems, open windows, doors, and on the bodies
-and clothing of occupants. Indoor communities generally reflect regional outdoor
-fungal assemblages, filtered and concentrated by building envelopes.
-
-Construction materials including drywall, wood, insulation, ceiling tiles, and
-carpeting serve as growth substrates when moisture is available. Cellulose-rich
-materials like drywall paper and wood fiber insulation are particularly
-susceptible to colonization by Chaetomium, Stachybotrys, Trichoderma, and
-diverse xerophilic Ascomycota.
-
-Human skin, respiratory tracts, and clothing carry Malassezia, Candida, and
-other yeasts that contribute to indoor [[arbuscular-mycorrhizal-fungal-diversity-patterns-distribution]]. Occupant density and
+facilities, harbor distinct [[arbuscular-mycorrhizal-fungal-diversity-patterns-distribution]]. Occupant density and
 activity patterns influence the composition of human-derived indoor fungi.
 
 ## Common Indoor Fungi
@@ -46,46 +25,14 @@ Xerophilic species of Wallemia and Eurotium thrive in dry environments such as
 stored food products and mattress dust.
 
 Bathrooms and kitchens, with elevated humidity, harbor more hydrophilic species
-including [[aureobasidium-pullulans]], Exophiala species, and various black yeasts.
-Bedrooms and living rooms tend to be dominated by xerophilic Penicillium and
-Wallemia species that tolerate lower water activity. Basements develop unique
-assemblages influenced by soil contact and limited air exchange.
-
-## Health Implications
-
-Indoor exposure to fungal spores and fragments is a major trigger of allergic
-rhinitis, asthma, and hypersensitivity pneumonitis. [[alternaria-alternata]],
-[[cladosporium-herbarum]], and [[gadd-aspergillus-fumigatus-glucan-virulence]] are among the most clinically
+including [[alternaria-alternata]],
+[[gadd-aspergillus-fumigatus-glucan-virulence]] are among the most clinically
 significant indoor allergens. Exposure risk depends on spore concentrations,
 particle size, and individual sensitivity.
 
 Immunocompromised individuals are susceptible to invasive infections by
-[[aspergillus-fumigatus]], Aspergillus flavus, and agents of mucormycosis that may
-proliferate in hospital environments. [[stachybotrys-chartarum]] and certain
-Penicillium species produce mycotoxins on damp [[natural-building-materials-guide]]. Dampness and
-mold exposure are consistently associated with respiratory symptoms.
-
-## Building Design Factors
-
-Older buildings tend to harbor more diverse fungal communities than new
-construction, partly due to accumulated moisture damage and established microbial
-reservoirs in materials. Modern energy-efficient buildings with tight envelopes
-may trap moisture and create localized microenvironments favorable to fungal
-growth, sometimes resulting in higher concentrations of opportunistic species.
-
-Ventilation design critically shapes indoor fungal communities. Mechanically
-ventilated buildings filter outdoor air and recirculate indoor air, reducing
-outdoor spore input but potentially concentrating indoor-generated spores.
-Naturally ventilated buildings have more dynamic fungal communities that track
-outdoor seasonal patterns. HVAC system maintenance is essential for preventing
-fungal contamination of filters and ductwork.
-
-## Spatial and Temporal Patterns
-
-Indoor fungal communities fluctuate seasonally, tracking outdoor spore
-production cycles. Cladosporium peaks in summer and fall, while Penicillium and
-Aspergillus are more abundant in winter when heating systems circulate indoor
-air. [[query-how-to-grow-and-use-oca-in-temperate-climates]], the outdoor-to-indoor fungal ratio can vary by an
+[[stachybotrys-chartarum]] and certain
+Penicillium species produce mycotoxins on damp [[query-how-to-grow-and-use-oca-in-temperate-climates]], the outdoor-to-indoor fungal ratio can vary by an
 order of magnitude between summer and winter months.
 
 ## Practical Applications
@@ -117,8 +64,87 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[fungal-biodiversity]]
 - [[dom]]
-- [[det]]
 - [[aspergillus-flavus]]
 - [[mycotoxins]]
+
+## Overview
+
+Fungal Biodiversity Built Environments Indoor Mycobiome represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish fungal biodiversity built environments indoor mycobiome
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving fungal extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Fungal Biodiversity Built Environments Indoor Mycobiome finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for fungal biodiversity built environments indoor mycobiome. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+fungal biodiversity built environments indoor mycobiome and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Fungal Biodiversity Built Environments Indoor Mycobiome has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of fungal biodiversity built environments indoor mycobiome into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[fungal-salt-tolerance-and-ion-homeostasis]]

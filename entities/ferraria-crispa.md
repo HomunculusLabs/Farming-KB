@@ -108,13 +108,8 @@ Despite its exotic appearance, *F. crispa* is one of the easier *Ferraria* speci
 
 ## See Also
 
-- [[sparaxis-tricolor]]
 - [[ixia-viridiflora]]
-- [[moraea-polystachya]]
 - [[geissorhiza-radians]]
-- [[dierama-pulcherrimum]]
 - [[watsonia-borbonica]]
-- [[babiana-stricta]]
 - [[freesia-refracta]]
-- [[crocosmia-lucifer]]
 - [[iris-germanica]]

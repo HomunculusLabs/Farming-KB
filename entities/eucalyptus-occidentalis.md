@@ -22,17 +22,7 @@ Eucalyptus occidentalis, commonly known as **flat-topped yate** or **swamp yate*
 - Medium-sized tree, typically 8–20 m tall with a spreading, flat-topped crown
 - Smooth bark, grey to white, shedding in strips
 - Native to southern Western Australia, particularly the wheatbelt and goldfields
-- Exceptionally tolerant of waterlogging, salinity, and [[plants-tolerant-of-alkaline-soils]]
-- One of the most salt-tolerant eucalypt species
-- Produces moderately hard, durable timber
-- Suited to areas with 250–500 mm annual rainfall
-
-## Relevance to Cultivation and Permaculture
-
-- **Salinity management:** One of the best species for planting in saline discharge areas and salt-affected farmland (pages 95, 117, 130, 135)
-- **Timber:** Moderately durable timber used for fence posts and construction (pages 95, 117)
-- **Firewood:** Suitable firewood species (pages 95, 117)
-- **[[comparison-vetiver-grass-vs-bamboo-for-erosion-control]]:** Effective at stabilising waterlogged and eroded sites
+- Exceptionally tolerant of waterlogging, salinity, and [[comparison-vetiver-grass-vs-bamboo-for-erosion-control]]:** Effective at stabilising waterlogged and eroded sites
 - **Shelter and windbreaks:** Well-suited to shelterbelt plantings in saline and waterlogged areas
 - **Rehabilitation:** Key species for mine-site and farmland rehabilitation in Western Australia
 
@@ -43,29 +33,7 @@ Eucalyptus occidentalis, commonly known as **flat-topped yate** or **swamp yate*
 - Drought-tolerant once established
 - Suited to areas with 250–500 mm annual rainfall
 - Moderate frost tolerance
-- Fast [[soil-temperature-plant-growth-rate-doubling-rule]] in favourable conditions
-- Best propagated from seed
-
-## Notable Uses from Source
-
-- Salinity rehabilitation planting (pages 95, 117, 130, 135)
-- Fence posts and timber (pages 95, 117)
-- Firewood (pages 95, 117)
-- Shelter and windbreaks (pages 95, 130, 135)
-
-## Salinity Function
-
-Eucalyptus occidentalis is most valuable where ordinary trees fail because of salt, seasonal waterlogging, or alkaline conditions.
-
-Its ecological niche makes it a rehabilitation species rather than simply a timber tree.
-
-In saline discharge zones, tree planting can help lower water tables, stabilize soil, and restore cover.
-
-The species' tolerance does not mean it removes all management problems.
-
-It means it can survive long enough to begin changing a degraded site.
-
-This links the tree to [[halophyte-plants-and-saline-agriculture]], [[plants-tolerant-of-alkaline-soils]], and [[alkaline-soil-tolerant-plants-permaculture]].
+- Fast [[halophyte-plants-and-saline-agriculture]], [[alkaline-soil-tolerant-plants-permaculture]].
 
 ## Design Uses
 

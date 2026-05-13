@@ -22,18 +22,7 @@ The core problem: American food is produced with oil. Transported elsewhere and 
 
 - The Carter administration pressured Japan to buy American oranges and wheat
 - When Japan offered to ship surplus rice to Vietnam, the U.S. State Department protested
-- The U.S. told Japan to cease sending rice to [[psilocybe-southeast-asia-pacific]] because it would compete with American grain sales
-- A stern warning from the U.S. government sent tremors of fear through the Japanese Ministry of Agriculture
-
-Fukuoka frames this starkly: "You brandish nuclear weapons in your right hand while with your left you ship food strategically throughout the world."
-
-## The Poverty of the American Farmer
-
-Fukuoka's analysis turns conventional assumptions upside down. Despite farming enormous acreages:
-
-- American farmers live more meagerly than Japanese farmers on 2-3 acres
-- The food they grow does not receive the blessings of nature
-- Crops are processed with petroleum energy, not [[fukuoka-natural-fertility-cycle]]
+- The U.S. told Japan to cease sending rice to [[fukuoka-natural-fertility-cycle]]
 - Even water is often piped in from hundreds of miles away
 - Irrigation brings salt to the surface, gradually converting land to salt fields
 - The real reason American farmers export crops is because they are poor
@@ -42,16 +31,9 @@ He visited the United Nations and told officials: "America and its farmers are n
 
 ## Deficit Farming
 
-Fukuoka coined the term "deficit farming" to describe [[fukuoka-american-agriculture-fields-of-death]]:
-
-- [[fukuoka-textdoc-natural-livestock-farming-open-grazing]] exports all nutrients as feed, draining the land of fertility
+Fukuoka coined the term "deficit farming" to describe [[fukuoka-textdoc-natural-livestock-farming-open-grazing]] exports all nutrients as feed, draining the land of fertility
 - Monoculture depletes soil fertility in a negative cycle
-- The yield ratio ([[holmgren-biomass-fuels-and-energy-yield-ratios]] to energy input) halves every ten years
-- To harvest one calorie of food energy, farmers put two calories into the land
-- American agriculture is not raising productivity but curtailment of declines in production
-- One-third to one-half of fields are left fallow each year because soil lacks fertility
-
-See also [[fukuoka-agricultural-pollution-and-consumer-culpability]].
+- The yield ratio ([[fukuoka-agricultural-pollution-and-consumer-culpability]].
 
 ## The Seed War
 
@@ -63,8 +45,7 @@ A particularly prescient section concerns the race to develop high-yielding rice
 - Control of seed technology meant control of food supply
 - The "seed war" was a new form of the same food-as-weapon strategy
 
-Fukuoka's [[fukuoka-decentralized-self-sufficient-communities]] and [[fukuoka-critique-green-revolution]]
-- [[fukuoka-desert-reclamation]]
+Fukuoka's [[fukuoka-critique-green-revolution]]
 - [[fukuoka-european-travels-natural-farming]]
 ## Practical Considerations
 
@@ -114,8 +95,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[doc]]
 - [[fukuoka-food-strategic-weapon]]
-- [[fukuoka-food-strategic-weapon-seed-rice-geopolitics]]
 - [[fukuoka-food-strategic-weapon-seed-war-geopolitics]]
 - [[fukuoka-food-strategic-weapon-critique]]

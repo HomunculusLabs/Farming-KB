@@ -9,7 +9,7 @@ tags: [amanita-muscaria, mycology]
 
 # Amanita Muscaria Sacramental Wine Preparation
 
-The sacramental wine preparation is one of the most sophisticated [[amanita-muscaria-ambrosia-preparation]] (cold water extraction), the sacramental wine method uses concentrated fruit juices as a nutrient medium, combined with modern [[cultivator-sterile-technique-and-agar-culture]] (pasteurization) to produce a potent, alcohol-free, sulfite-free "living wine" through the gordon-wasson-mushroom-discovery cites reports of Siberian tribes who fermented Amanita muscaria with:
+The sacramental wine preparation is one of the most sophisticated [[cultivator-sterile-technique-and-agar-culture]] (pasteurization) to produce a potent, alcohol-free, sulfite-free "living wine" through the gordon-wasson-mushroom-discovery cites reports of Siberian tribes who fermented Amanita muscaria with:
 
 - Various berry or fruit juices
 - Diluted honey
@@ -23,38 +23,11 @@ The wines of the ancient Greeks and Romans had properties fundamentally differen
 
 - Had to be diluted with large quantities of water before consumption
 - Ratios ranged from one part wine to 2-50 parts water
-- Consuming large quantities of undiluted [[amanita-muscaria-ancient-wine-question]] could cause death
-- Undiluted wine was used on battle wounds as an antiseptic (per Homer's Iliad, 800 BC)
-- Modern wine is never used this way
-- Produced from very ancient times into the late Roman Era (~500 AD), then production seems to cease
-
-This wine dilution puzzle is analyzed in detail in the [[amanita-muscaria-ancient-wine-question]] page.
+- Consuming large quantities of undiluted [[amanita-muscaria-ancient-wine-question]] page.
 
 ### Biblical Connection
 
-The Gospel of John 15:1 states: "I am the true vine and my father is the husbandman." The author interprets this as referring to [[allegro-colour-and-consistency-of-the-amanita-muscaria]] -- the "true vine" that produces the sacramental wine.
-
-## The Science: Pasteurization and Pure Culture
-
-### Louis Pasteur's Contribution
-
-Louis Pasteur (1822-1895) discovered that air is full of microorganisms and their spores, which cause food spoilage and disease. His experiments with plugged glass bottles of beef broth demonstrated:
-
-1. Bottles cooked with a cotton plug remained sterile for months
-2. The cotton plug filtered air but did not seal it (unlike canning)
-3. Removing and reinserting the plug for even a few seconds caused contamination
-4. The cotton plug, sterilized by outgoing steam, became a micro-pore filter
-
-This technique is the basis of all modern pure culture methods for growing fungi, bacteria, yeasts, plant cells, and animal cells in sterile environments.
-
-### Application to Amanita Wine
-
-The author applies Pasteur's technique to Amanita muscaria wine production:
-
-- Fruit juice is pasteurized in glass bottles plugged with polyfill
-- After cooling, dried mushroom powder is added as inoculant
-- The polyfill allows oxygen exchange while filtering contaminants
-- Amanita [[mycelium]] grows in the sterile juice medium
+The Gospel of John 15:1 states: "I am the true vine and my father is the husbandman." The author interprets this as referring to [[mycelium]] grows in the sterile juice medium
 - The result is a pure culture of Amanita in fruit juice -- "living wine"
 
 ## Equipment and Materials
@@ -117,8 +90,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[amanita-muscaria]]
 - [[amanita]]
-- [[det]]
 - [[spore]]
 - [[mycelium]]

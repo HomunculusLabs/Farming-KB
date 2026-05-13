@@ -9,82 +9,100 @@ updated: 2026-04-26
 
 # Oriental Herbal Nutrient (OHN) Preparation
 
-Oriental Herbal Nutrient (OHN) is a very important input in Korean [[comparison-natural-farming-vs-permaculture]]. Made from herbs that are full of energy, OHN functions to increase plant robustness, sterilize, and keep plants warm. OHN revitalizes crops and activates their growth. It is made from popular oriental herbs such as Angelica, Licorice, Cinnamon, Garlic, and Ginger that are fermented (not boiled) to maintain their vigorous properties.
-
-## Components
-
-OHN consists of three separate preparations that are combined before use:
-
-1. **Garlic OHN** -- antibacterial, antifungal, high sulfur content
-2. **Ginger OHN** -- aids digestion, promotes circulation, warming
-3. **Cinnamon OHN** -- sterilizing, warming, improves physical constitution
-
-The original [[korean-natural-farming]] recipe also includes Chinese herbs: Angelica acutiloba, [[glycyrrhiza-uralensis]] (licorice), and Cinnamomum loureirii. These herbs share the common denominator of being good for digestion.
-
-## Cinnamon OHN
-
-### Materials
-- Cinnamon bark: 250 g
-- Rice wine or beer: 750 ml
-- Jaggery/brown sugar: equal to weight of cinnamon
-- Jar with porous paper cover
-
-### Preparation
-1. Put cinnamon bark in jar, fill with beer/rice wine to fully soak the bark (fill 2/3 of jar)
-2. Let absorb moisture for 1-2 days
-3. Add jaggery equivalent to weight of ingredients
-4. Cover with porous paper, leave for 3-5 days for fermentation
-5. Stir every morning with a stick for two weeks
-6. For long storage: pour distilled liquor into remaining 1/3 space
-7. For use within 45 days: water can be used instead of liquor
-
-## Garlic OHN
-
-### Materials
-- Freshly harvested garlic (whole bulb): 1 kg (do not wash)
-- Jaggery/brown sugar: 1 kg (1:1 ratio)
-- Jar with porous paper cover
-
-### Preparation
-1. Crush garlic including skins and roots (which contain moisture) -- do not crush too finely
-2. Put 1 kg crushed garlic in jar
-3. Add 1 kg jaggery (1:1 ratio)
-4. Mixture should fill 2/3 of jar (important for good fermentation)
-5. Cover with porous paper, leave for 4-6 days
-6. Stir gently clockwise every morning for a week
-7. Filter and keep extraction in separate jar for long-term storage
-8. If extraction is difficult, add water (use within 45 days) or liquor (for longer storage)
-
-## Ginger OHN
-
-### Materials
-- Fresh ginger (do not wash): 1 kg
-- Jaggery/brown sugar: 1 kg
-- Jar with porous paper cover
-
-### Preparation
-1. Shake soil off ginger, do not wash (crush after shaking off soil)
-2. Do not crush too finely
-3. Follow the same process as garlic OHN
-
-## Final OHN Preparation
-
-Before use, combine the three OHNs in a **1:1:1** ratio. Each OHN is made separately and stored separately, then mixed just before application.
-
-## Dilution and Application
-
-- **Basic dilution**: 1:1000 (all three OHNs mixed in 1:1:1:1000 ratio with water)
-- **Range**: 1:500 to 1:1000 depending on weather and plant condition
-- **Throughout the [[cho-nutritive-cycle-theory]]**: OHN can be used during all growth stages (early vegetative, changeover, and reproductive)
+Oriental Herbal Nutrient (OHN) is a very important input in Korean [[korean-natural-farming]] recipe also includes Chinese herbs: Angelica acutiloba, [[cho-nutritive-cycle-theory]]**: OHN can be used during all growth stages (early vegetative, changeover, and reproductive)
 
 ## Uses of OHN
 
 ### In KNF Input Preparation
 - Used for making IMO-3 and IMO-4
-- Used in [[knf-soil-treatment-solution]]
 - Used in [[jadam-seed-treatment-and-nursery-management]] solution
 
 ### Throughout All Growth Stages
 OHN is considered one of the most important NF inputs and is used throughout:
 - Nutritional growth period
 - Changeover period
+
+## Overview
+
+Natural Farming Ohn Preparation represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish natural farming ohn preparation
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving natural extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Natural Farming Ohn Preparation finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for natural farming ohn preparation. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+natural farming ohn preparation and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Natural Farming Ohn Preparation has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of natural farming ohn preparation into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[fukuoka-natural-ecosystem-food-chain-interconnection]]
+- [[fukuoka-natural-perceiving-nature-without-relativism]]
+- [[natural-dye-plants]]
+- [[natural-farming-animal-husbandry]]
+- [[natural-farming-fukuoka]]

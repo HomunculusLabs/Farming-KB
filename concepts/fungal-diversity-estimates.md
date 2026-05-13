@@ -34,21 +34,8 @@ remain undocumented.
 
 ## Molecular Revolution
 
-Environmental [[environmental-dna-metabarcoding-fungi]] has fundamentally altered our
-understanding of fungal diversity. Soil samples from forest plots
-routinely yield hundreds to thousands of operational taxonomic units,
-most unassignable to described species. The UNITE database contains
-over one million fungal ITS sequence hypotheses, vastly exceeding
-described species. Previously unknown fungal lineages are ubiquitous in
-every ecosystem examined, from tropical canopies to deep ocean
-sediments.
-
-## Geographic Gaps
-
-[[tree-canopy-fungal-sampling-techniques]] effort is extremely uneven globally. Temperate Europe
-and [[psilocybin-north-america-pacific-northwest]] have been relatively well surveyed, while the Amazon
-basin, Congo basin, and Southeast Asian archipelagos likely harbor the
-greatest proportions of undescribed species. [[comparison-endophytic-fungi-vs-mycorrhizal-fungi]] in plant
+Environmental [[tree-canopy-fungal-sampling-techniques]] effort is extremely uneven globally. Temperate Europe
+and [[comparison-endophytic-fungi-vs-mycorrhizal-fungi]] in plant
 tissues represent another vast reservoir of unknown species. Soil fungi
 in boreal and arctic regions are also poorly sampled.
 
@@ -59,23 +46,7 @@ diversity. Fungi serve as decomposers, plant mutualists, pathogens,
 parasites, and endophytes. Each functional group harbors substantial
 undocumented diversity. Endophytic fungi in plant tissues represent a
 vast reservoir of unknown species. Understanding functional diversity
-is critical because [[fungal-ecosystem-processes-overview]] depend on diverse fungal
-communities, not just species counts.
-
-## Why Most Fungi Remain Undescribed
-
-Many fungi are microscopic and produce inconspicuous or ephemeral
-fruiting structures. Cryptic species, genetically distinct lineages
-that are morphologically identical, further complicate cataloging. The
-global shortage of trained mycological taxonomists means that even
-collected specimens often go undescribed for years. The number of
-practicing fungal taxonomists has declined even as molecular evidence
-of undescribed diversity has exploded.
-
-## See Also
-
-- [[soil-mycobiome]]
-- [[cryptic-fungal-species]]
+is critical because [[soil-mycobiome]]
 - [[biodiversity-fungi-tropical-fungal-diversity]]
 
 ## Mechanisms and Processes
@@ -112,8 +83,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[doc]]
 - [[psilocybin]]
-- [[dom]]
 - [[endophytic-fungi]]
 - [[ascomycota]]

@@ -2,8 +2,7 @@
 
 ## Overview
 
-The [[bloomfield-history-of-mycology-pioneers]] is riddled with popular myths and folk tests purporting to
-distinguish [[palmer-edible-mushrooms-north-america]] from poisonous ones. From the Victorian era through
+The [[palmer-edible-mushrooms-north-america]] from poisonous ones. From the Victorian era through
 the present day, these false rules have caused countless deaths by giving foragers
 a false sense of security.
 
@@ -27,13 +26,7 @@ merely detects spoilage, not fungal alkaloids. Conversely, perfectly fresh Amani
 specimens leave silver bright while containing toxins "surer than arsenic."
 
 The French mycologist Dr. F. S. Cordier tested this with *Agaricus bulbosus* and
-numerous [[palmer-poisonous-mushrooms-deadly-species]]: "they have never blackened silver or gold." His
-verdict: whether silver turns black or remains brilliant, "the conclusion is
-equally of no value."
-
-## The Peeling Test
-
-Boston's upper classes believed a genuine [[bloomfield-boletus-satanus-edible-mushroom-hazards]] must peel easily from
+numerous [[bloomfield-boletus-satanus-edible-mushroom-hazards]] must peel easily from
 margin to center. Palmer observed this on Beacon Street and Back Bay, describing
 one gentleman who secretly tested each unfamiliar fungus by trying to peel its
 cap—carefully, so as not to wound Palmer's pride. The rule fails because many
@@ -51,15 +44,7 @@ poisonous species are solid. The rule is not general and cannot be extended safe
 The 18th-century botanist Necker proposed that cooking white onion with mushrooms
 would turn it bluish if poisonous; bulrush pith was said to turn black. Cordier
 tested both directly: "Unfortunately these assertions are not confirmed by
-experience." No vegetable indicator changes color in response to [[mushroom-toxins-and-poisoning]].
-
-## Color and Habitat Myths
-
-Multiple traditions assign danger based on appearance and location. Cordier
-cataloged and demolished each:
-
-- **Red, green, or blue caps are poisonous** — Both colors occur in edible and
-  poisonous species. [[amanita-phalloides]] is often pure white.
+experience." No vegetable indicator changes color in response to [[amanita-phalloides]] is often pure white.
 - **Mushrooms in shady woods are dangerous; meadow fungi are safe** — Deadly
   Amanitas grow in beautiful grassy places; many edibles prefer forest shade.
 - **Viscous surfaces indicate poison** — No correlation exists.
@@ -76,26 +61,17 @@ poisonous mushrooms."
 
 ## The Taste Test Myth
 
-Perhaps the most dangerous myth: that poisonous mushrooms taste bad. [[amanita-toxins-and-mushroom-poisoning]]
-are completely tasteless and odorless. Palmer documented a New Jersey family where
-children gathered and ate [[edible-wild-mushrooms-by-region]] three or four times, developing great
+Perhaps the most dangerous myth: that poisonous mushrooms taste bad. [[edible-wild-mushrooms-by-region]] three or four times, developing great
 fondness for them. On their next outing they gathered Amanitas—a four-year-old girl
 and her twelve-month-old brother died. Their unperverted appetites detected nothing.
 
 ## The Animal Test Myth
 
 People assume fungi eaten by animals are safe for humans. Palmer showed otherwise:
-pigs ate [[amanita-phalloides-death-cap]] stew without ill effects; swine resist [[allegro-amanita-muscaria-properties-and-pharmacology]];
+pigs ate [[allegro-amanita-muscaria-properties-and-pharmacology]];
 rabbits swallow fungi that would sicken humans. Conversely, a dog died in twelve
 hours from Agaricus melleus (Honey Mushroom), and a cat died in convulsions from
-[[marasmius-oreades]] (Fairy Ring Champignon)—both perfectly edible for humans.
-
-## Cross-Contamination Absorption
-
-Palmer documented a rarely discussed but critically important phenomenon: edible
-mushrooms can absorb toxic
-properties from poisonous ones stored nearby. He received a box containing both
-edible and [[ramsbottom-poisonous-fungi-identification-guide]] in contact for twelve hours. After eating only the
+[[ramsbottom-poisonous-fungi-identification-guide]] in contact for twelve hours. After eating only the
 washed edibles, he experienced violent poisoning within thirty minutes—too quickly
 for stomach digestion. He proposed mushrooms "inoculate each other, either with or
 without contact," their virus permeating harmless specimens. Even holding an

@@ -30,21 +30,7 @@ Living fences and hedgerows are linear plantings of trees, shrubs, and sometimes
 
 **Living fences** are functional barriers primarily composed of closely planted, often interwoven or pleached, living woody plants. Their primary purpose is containment — keeping livestock in and/or wildlife out. They are actively managed through pruning, weaving, and shaping to maintain density and height.
 
-**Hedgerows** are broader linear plantings that may or may not function as fences. They often include multiple layers of vegetation — trees, shrubs, and ground flora — and prioritize ecological functions such as wildlife habitat, wind protection, [[permplant-willows-salix-erosion-control-fodder]], and pollinator support. In European tradition, hedgerows historically served as field boundaries while also providing wood, forage, and botanical resources.
-
-While the terms overlap considerably, a living fence emphasizes the barrier function and is typically denser and more tightly managed, while a hedgerow is wider and more ecologically complex. Many installations blur this distinction.
-
-## Historical Context
-
-### European Hedgerow Traditions
-
-European hedgerows date back to the Bronze Age (c. 4000 BCE), with the most extensive systems developing in Britain, France, and the Low Countries. The British hedgerow network reached its peak in the 19th century, with an estimated 800,000 km of hedgerows marking parish boundaries, enclosing fields, and providing livestock barriers. Techniques like **pleaching** (interweaving living branches), **laying** (partially cutting and bending stems horizontally), and **coppicing** (cutting to ground level to encourage regrowth) were developed to create impenetrable barriers from living wood.
-
-The Enclosure Acts of the 18th and 19th centuries drove massive hedgerow planting in Britain, converting open-field systems to enclosed private land. Post-World War II agricultural intensification led to the removal of an estimated 50% of British hedgerows between 1945 and 1990, before conservation efforts reversed the trend.
-
-### Tropical Living Fences
-
-In Central and South America, living fences have been used for centuries. Common species include **Gliricidia sepium** (madre de cacao), **Bursera simaruba** (gumbo-limbo), **Erythrina spp.** (coral trees), **Jatropha curcas**, and various cacti and agaves. In Costa Rica, an estimated 90% of pastures use living fence posts, with farmers planting branch cuttings that root and sprout to form living barriers. These systems simultaneously provide fodder, shade, firewood, and [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]].
+**Hedgerows** are broader linear plantings that may or may not function as fences. They often include multiple layers of vegetation — trees, shrubs, and ground flora — and prioritize ecological functions such as wildlife habitat, wind protection, [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]].
 
 ### Asian and African Traditions
 
@@ -63,18 +49,7 @@ Living fences and hedgerows reduce wind speed on their leeward side for a distan
 - Reducing evapotranspiration and soil moisture loss
 - Protecting against wind damage to crops and fruit trees
 - Reducing heating costs for nearby structures
-- Creating sheltered conditions for [[comparison-beneficial-insects-guide-vs-integrated-pest-management]]
-- Reducing wind erosion on exposed soils
-
-Wind reduction of 40–60% is typical within the first 2–5 hedge heights downwind, with measurable effects extending 15–20 heights.
-
-### Wildlife Habitat and Corridors
-
-Hedgerows serve as critical wildlife corridors connecting fragmented habitats. Their multi-layered structure provides:
-
-- Nesting sites for songbirds, particularly species that favor edge habitat
-- Travel corridors for small mammals, amphibians, and invertebrates
-- Overwintering [[query-how-do-i-design-habitat-for-beneficial-insects]] insects and pollinators
+- Creating sheltered conditions for [[query-how-do-i-design-habitat-for-beneficial-insects]] insects and pollinators
 - Denning sites for hedgehogs, foxes, and other wildlife
 - Foraging habitat with flowers, fruits, seeds, and insect prey
 
@@ -90,24 +65,7 @@ On slopes and contours, living fences and hedgerows reduce erosion by:
 - Trapping sediment behind the plant line
 - Promoting water infiltration into the soil profile
 
-Contour-planted hedgerows are a cornerstone of [[comparison-alley-cropping-vs-silvopasture]] and sloping agricultural land technology (SALT) systems in the tropics.
-
-### Production Functions
-
-Living fences and hedgerows can produce a remarkable diversity of useful products:
-
-- **Fruit**: Berries (blackberry, raspberry, elderberry), tree fruits (apple, pear, plum, cherry), and soft fruit (gooseberry, currant)
-- **Nuts**: Hazelnut, chestnut, walnut (in wider hedgerows)
-- **Fodder**: Leaves of mulberry, moringa, leucaena, and willow are high-protein livestock feed
-- **Medicine**: Hawthorn berries (cardiovascular), elderberry flowers and berries (immune support), willow bark (salicylic acid), yew (taxol — though toxic)
-- **Craft materials**: Willow and hazel for basketry, hurdle-making, and wattle
-- **Firewood**: Coppiced hazel, ash, oak, and hawthorn provide sustainable fuel
-- **Nitrogen fixation**: Species in the Fabaceae family (black locust, honey locust, caragana, seaberry) fix atmospheric nitrogen
-- **Mulch and green manure**: Chop-and-drop pruning from living fences returns organic matter to the soil
-
-### Aesthetic and Cultural Value
-
-Hedgerows define landscape character, provide privacy screening, reduce noise pollution (absorbing 5–10 dB), and create visual structure in the landscape. They carry deep [[ethnomycology-cultural-significance-sacred-fungi]] in many regions — British hedgerows are protected heritage features, and French bocage landscapes are UNESCO-recognized cultural landscapes.
+Contour-planted hedgerows are a cornerstone of [[ethnomycology-cultural-significance-sacred-fungi]] in many regions — British hedgerows are protected heritage features, and French bocage landscapes are UNESCO-recognized cultural landscapes.
 
 ## Design Considerations
 
@@ -139,11 +97,8 @@ Species selection depends on function, climate, and management capacity. Key con
 **Nitrogen fixers** (soil improvement and fodder):
 ## See Also
 
-- [[windbreaks-hedgerows-and-shelterbelts]]
 - [[forest-gardening-and-food-forests]]
-- [[silvopasture-systems]]
 - [[agroforestry-and-alley-cropping]]
-- [[holistic-grazing-and-pasture-management]]
 - [[companion-planting-and-polycultures]]
 - [[willow-cultivation-and-uses]]
 - permaculture-zones-and-site-planning

@@ -22,22 +22,22 @@ A comprehensive list of plant species tolerant of alkaline soils, sourced from p
 - **Arbutus unedo** (Irish strawberry tree)
 - **Callitris columellaris** (Murray pine) — hardy evergreen
 - **Callitris preissii** (Rottnest Island pine) — hardy evergreen
-- **[[carpinus-betulus]]** (common hornbeam) — deciduous hedge plant
+- **Carpinus betulus** (common hornbeam) — deciduous hedge plant
 - **Casuarina cristata** (black sheoak)
 - **Casuarina cunninghamiana** (river sheoak)
 - **Casuarina humulis** — hardy evergreen, salt spray resistant
 - **Castanea spp** (chestnut)
 - **Cedrus atlantica** (Mt. Atlas cedar)
-- **[[ceratonia-siliqua]]** (carob)
-- **[[cortaderia-selloana]]** (pampas grass)
+- **Ceratonia siliqua** (carob)
+- **Cortaderia selloana** (pampas grass)
 - **Crataegus cordata** (Washington thorn) — frost hardy, scarlet berries persist into winter
-- **[[crataegus-oxyacantha]]** (English hawthorn) — honey, berries as poultry feed, hedge
+- **Crataegus oxyacantha** (English hawthorn) — honey, berries as poultry feed, hedge
 - **Derris indica** (Indian beech)
 - **Eucalyptus spp** — E. camaldulensis, E. citriodora, E. diversifolia, E. erythrocorys, E. gomphocephala, E. lansdowneana, E. leucoxylon, E. nutans, E. occidentalis (swamp yate), E. platypus, E. spathulata, E. torquata, E. woodwardii
 - **Fagus sylvatica** (common beech, European beech)
 - **Fraxinus excelsior** (European ash) — frost resistant, edible manna
 - **Fraxinus ornus** (manna ash) — frost resistant
-- **[[gleditsia-triacanthos]]** (honey locust)
+- **Gleditsia triacanthos** (honey locust)
 - **Inga edulis** (pacay, ice cream bean)
 - **Laurus nobilis** (sweet bay laurel) — culinary, medicinal, liqueur from berries
 - **Ligustrum spp**
@@ -60,7 +60,7 @@ A comprehensive list of plant species tolerant of alkaline soils, sourced from p
 - **Quercus ilex** (holm oak)
 - **Quercus robur** (English oak)
 - **Salix alba** (white willow)
-- **[[swietenia-mahagoni]]** (mahogany) — deciduous shrub
+- **Swietenia mahagoni** (mahogany) — deciduous shrub
 - **Sorbus aria** (white beam) — good for windswept coastal areas, high pollution areas
 - **Sorbus intermedia** (Swedish whitebeam)
 
@@ -140,11 +140,11 @@ A comprehensive list of plant species tolerant of alkaline soils, sourced from p
 ## Groundcovers and Grasses
 
 - **Baccaris halimifolia** (groundsel bush) — pollen in autumn
-- **Baccaris patagonica**
-- **Banksia ashbyi** — nectar in spring
-- **Clianthus formosus** (Sturt's desert pea)
-- **Colophospermum mopane** (mopane)
-- **Cornus mas** (Cornelian cherry) — deciduous tree with edible fruit
-- **Oryzopsis miliacea** (smilo, millet grass)
-- **Ribes spp**
-- **Sambucus spp** (elder) — edible fruits, flowers, roots
+
+## See Also
+
+- [[alkaline-soil-tolerant-plants-permaculture]]
+- [[plants-tolerant-of-alkaline-soils]]
+- [[acid-and-alkaline-soil-management]]
+- [[casing-soil-sterilization-versus-pasteurization-debate-mushroom-cultivation]]
+- [[comparison-no-till-vs-mulch-soil-management]]

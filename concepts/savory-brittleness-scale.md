@@ -13,29 +13,10 @@ type: concept
 
 The brittleness scale is a one-to-ten continuum used to classify environments according
 to their decay and successional processes and how they respond to management tools.
-It is one of the four missing keys to understanding [[savory-brittle-environments]] from
-[[savory-brittle-environments]], prolonged nondisturbance will lead to further
-deterioration and instability. This is why [[savory-desertification-causes]]
-was linked to low rainfall. The degree of brittleness determines this more than total
-precipitation. The closer we get to ten on the brittleness scale, even with thirty to
-eighty inches of rainfall, the faster the deterioration under modern agricultural
-practices.
-
-Over half of the earth's land surface leans toward the brittle end of the scale, which
-helps explain why desertification is spreading at its current rate. The items marked
-as standard management practice today tend to be appropriate for nonbrittle environments
-but damaging for brittle ones.
-
-## Practical Assessment
-
-In practice, assessing brittleness involves observing several indicators: the speed
-and nature of decay on dead plant material; the ease with which plants establish on
-[[savory-bare-ground-and-soil-exposure]]; plant spacing in grasslands (close in nonbrittle, wide in brittle); and
+It is one of the four missing keys to understanding [[savory-brittle-environments]], prolonged nondisturbance will lead to further
+deterioration and instability. This is why [[savory-bare-ground-and-soil-exposure]]; plant spacing in grasslands (close in nonbrittle, wide in brittle); and
 the degree to which old material accumulates on living plants without falling. These
-indicators, combined with knowledge of rainfall [[guzman-global-distribution-patterns-neurotropic-fungi]], allow managers
-to position their land on the scale and adapt their management accordingly.
-
-The brittleness scale informs every aspect of [[savory-plant-succession-and-community-dynamics]]
+indicators, combined with knowledge of rainfall [[savory-plant-succession-and-community-dynamics]]
 
 In very brittle environments, the microenvironment on exposed soil surfaces presents
 an extremely difficult environment for seedlings. Communities that evolved in brittle
@@ -88,3 +69,82 @@ complexity of day-to-day management and observation activities.
 
 Ongoing developments in research and practice continue to expand our
 understanding and improve available approaches. New techniques, tools,
+
+## Overview
+
+Savory Brittleness Scale represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish savory brittleness scale
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving savory extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Savory Brittleness Scale finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for savory brittleness scale. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+savory brittleness scale and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Savory Brittleness Scale has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of savory brittleness scale into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also

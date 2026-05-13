@@ -8,7 +8,7 @@ type: concept
 
 ## Overview
 
-[[soil-ph]] is the single most important chemical property governing nutrient availability, plant health, and microbial activity. [[permaculture]] designers must understand pH dynamics to make informed decisions about soil amendments, crop selection, and site management. This concept covers the pH scale, acid-alkaline classification of rocks and soils, nutrient availability across pH ranges, and practical amelioration strategies for different soil types and climates.
+[[permaculture]] designers must understand pH dynamics to make informed decisions about soil amendments, crop selection, and site management. This concept covers the pH scale, acid-alkaline classification of rocks and soils, nutrient availability across pH ranges, and practical amelioration strategies for different soil types and climates.
 
 ## The pH Scale
 
@@ -38,38 +38,10 @@ This classification helps predict the inherent pH tendencies of soils derived fr
 
 ### Hard vs. Soft Water
 
-- **"Hard" water** (alkaline): Contains calcium (Ca²⁺) or [[magnesium-aluminium-silicon-phosphorus-in-soils|Magnesium]] (Mg²⁺) ions. Difficult for washing because soaps and detergents are themselves alkaline and don't easily dissolve in other alkalis
-- **"Soft" water** (acid): Contains hydrogen (H⁺) ions. Lathers easily with soap, desirable for washing
-- **Seawater** is alkaline (hard)
-
-### Soap vs. Detergent Chemistry
-
-- **Soaps** (based on sodium or potassium/ash and fats) lather in soft acidic waters
-- **Detergents** (based on phosphates or sulphur) lather in hard waters
-
-The Arabic word for deserts is *al Khali* ("the salt") — reflecting the ancient recognition of the relationship between aridity and soil alkalinity.
-
-## Sources of Acids and Alkalis
-
-Acids and alkalis arise from the solution of oxides, hydroxides, sulphates, or carbonates of metals and non-metals. In water and soil water, the common constituents are:
-
-### Metals (release positive H⁺ ions):
-- Sodium, potassium, magnesium, calcium
-- Minerals: [[iron-cobalt-nickel-copper-zinc-in-soils|Iron]], zinc, aluminium, copper
+- **"Hard" water** (alkaline): Contains calcium (Ca²⁺) or [[iron-cobalt-nickel-copper-zinc-in-soils|Iron]], zinc, aluminium, copper
 
 ### Non-metals (release negative OH⁻ ions):
-- [[silicon]], sulphur, traces of phosphorus, boron, fluorine, chlorides
-- Carbon (found in organic soils)
-
-## Materials for Raising Soil pH
-
-All of the following are used to raise pH values (increase alkalinity) in soils:
-
-| Material | Composition |
-|----------|------------|
-| **Chalk** | Calcium carbonate |
-| **Limestone** | Calcium carbonate |
-| **[[gypsum]]** | Calcium sulphate |
+- [[gypsum]]** | Calcium sulphate |
 | **Magnesite** | Magnesium carbonate |
 | **Dolomite** | Calcium magnesium carbonate |
 
@@ -94,7 +66,7 @@ The availability of plant nutrients varies dramatically across the pH range. Som
 ### Less Available in Alkaline Soils (pH > 7.5):
 - Iron — deficiency causes interveinal leaf yellowing
 - Manganese — deficiency in grain crops and vegetables
-- Zinc — critical for tree establishment in deserts
+- Zinc — critical for [[tree-establishment-in-deserts]]
 - Copper — deficiency on coastal sands and basalts
 - Boron — deficiency in brassicas and beets
 

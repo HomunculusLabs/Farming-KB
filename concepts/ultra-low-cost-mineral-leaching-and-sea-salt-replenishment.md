@@ -28,16 +28,11 @@ There are two types of mineral loss:
 Taking a macro-view, minerals taken from soil through leaching eventually end
 up in the sea. To date, 83 elements have been found present in sea water. The
 mineral content of sea water is strikingly similar to that of amniotic fluid.
-The [[holmgren-mineral-balance-soil-fertility]] of blood plasma is very similar to that of plant fluid and
-sea water. Biologists claim that both fauna and flora came from the sea.
-## Sea Salt as [[ultra-low-cost-jadam-microorganism-solution-and-soil-foundation]]
+The [[ultra-low-cost-jadam-microorganism-solution-and-soil-foundation]]
 with JMS and phyllite solution.
 Sea salt provides a broad spectrum of trace minerals that match the
 requirements of plants. JADAM also recommends eating small amounts of sea salt
-for human health, and using JADAM [[jadam-nutrient-management-wetting-agent-and-calcium]] (made with sea salt) to wash
-hair, body, and dishes as part of a holistic health approach.
-## Organic Matter and Mineral Interaction
-[[maintaining-organic-matter-in-vegetable-gardens]] soil should be abundant, like leaf mold in mountains. If the
+for human health, and using JADAM [[maintaining-organic-matter-in-vegetable-gardens]] soil should be abundant, like leaf mold in mountains. If the
 soil is barren, just putting in microorganisms will not secure the nutrients
 needed for plant growth. Certain elements must be present:
 - **Organic nutrients:** Carbon (C), hydrogen (H), oxygen (O) from
@@ -47,7 +42,7 @@ needed for plant growth. Certain elements must be present:
 - **Trace elements:** Iron (Fe), manganese (Mn), molybdenum (Mo), copper (Cu),
   zinc (Zn), cobalt (Co) comprising 0.5%.
 If organic nutrients do not back up the soil, minerals become dysfunctional.
-Organic matter is broken down into humus, which turns soil into aggregate
+Organic matter is broken down into [[humus]], which turns soil into aggregate
 structure with good air permeability and water/fertilizer retaining properties.
 ## Phyllite and Loess Powder
 In addition to sea salt, JADAM uses phyllite powder and loess powder as mineral

@@ -27,7 +27,7 @@ Unlike most amphibians, axolotls retain larval features throughout their lives, 
 
 Adults typically reach 15–45 cm in total length, though captive specimens often exceed 30 cm. The species exhibits a range of color morphs, including wild-type brown, leucistic (pale pink), golden albino, and melanoid (nearly black).
 
-The axolotl is critically endangered in the wild but thrives globally in laboratory and pet populations. It serves as a primary [[canary-grass-phototropism-model-organism]] for studying limb regeneration, heart repair, and [[blesching-cannabis-spinal-cord-injuries]] recovery.
+The axolotl is critically endangered in the wild but thrives globally in laboratory and pet populations. It serves as a primary [[blesching-cannabis-spinal-cord-injuries]] recovery.
 
 The name "axolotl" derives from the Nahuatl language of the Aztecs, combining *atl* (water) and *xolotl* (dog), referencing the Aztec deity Xolotl. In Aztec mythology, Xolotl transformed into an axolotl to avoid being sacrificed.
 
@@ -67,13 +67,9 @@ Axolotls prefer slow-moving or still water with abundant aquatic vegetation. The
 
 The species is benthic, spending most of its time on the substrate. It hides among aquatic plants, debris, and mud during the day and becomes more active at night.
 
-Axolotls are opportunistic carnivores, feeding on worms, insects, small crustaceans, and small fish. In captivity, they accept a variety of prepared foods including bloodworms, earthworms, and pelleted diets.
+Axolotls are opportunistic carnivores, feeding on worms, insects, small crustaceans, and small fish. In captivity, they accept a variety of prepared foods including bloodworms, [[earthworms]], and pelleted diets.
 
-Urban expansion, water extraction, and pollution have severely degraded the Xochimilco canal system. [[mycofiltration-of-agricultural-runoff]] containing pesticides and fertilizers further reduces water quality in remaining habitat.
-
-## Regeneration and Biomedical Research
-
-Axolotls can regenerate entire limbs, [[cannabis-spinal-cord-injury-treatment]] segments, heart tissue, portions of the brain, and jaw structures without scarring. Regenerated structures are functionally and morphologically indistinguishable from originals.
+Urban expansion, water extraction, and pollution have severely degraded the Xochimilco canal system. [[cannabis-spinal-cord-injury-treatment]] segments, heart tissue, portions of the brain, and jaw structures without scarring. Regenerated structures are functionally and morphologically indistinguishable from originals.
 
 The regeneration process involves dedifferentiation of mature cells at the wound site, forming a mass of progenitor cells called a blastema. These cells proliferate and redifferentiate into the appropriate tissue types, guided by positional memory encoded in the blastema cells.
 
@@ -88,3 +84,6 @@ The species has been used in research since the 1860s, when French shipments fir
 Axolotls have contributed to fundamental discoveries in developmental biology, including the Spemann organizer concept. They remain the only tetrapod model in which limb regeneration can be studied at the molecular level in adult animals.
 
 Axolotls are unusual among tetrapods in being capable of regenerating large portions of their spinal cord. Severed spinal cords reconnect within weeks, with animals recovering locomotor function even after complete transection.
+
+## See Also
+- [[european-truffles-species-habitat-and-distribution]]

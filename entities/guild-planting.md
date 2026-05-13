@@ -27,28 +27,11 @@ sources:
 
 Guild planting is founded on several ecological principles:
 
-1. **Functional Diversity:** Each plant in the guild performs one or more distinct [[fungal-melanin-biosynthesis-ecological-functions]]. The goal is to assemble a group where every functional niche is filled, creating a self-regulating system that requires minimal external input.
+1. **Functional Diversity:** Each plant in the guild performs one or more distinct [[fungal-resource-partitioning-decomposition-sequences]]:** Plants with different root architectures, light requirements, nutrient needs, and water demands coexist without competing directly, partitioning available resources across the guild.
 
-2. **Mutualism and Facilitation:** Plants are selected for positive interactions — legumes fix nitrogen for heavy feeders, aromatic herbs repel pests, deep-rooted plants mine minerals, and ground covers suppress weeds and retain moisture.
-
-3. **Vertical Stacking:** Guilds exploit multiple canopy layers simultaneously (root zone, ground cover, herbaceous, shrub, understory tree, canopy tree), maximizing productive use of space and light.
-
-4. **[[fungal-resource-partitioning-decomposition-sequences]]:** Plants with different root architectures, light requirements, nutrient needs, and water demands coexist without competing directly, partitioning available resources across the guild.
-
-5. **Closed Nutrient Loops:** Within a well-designed guild, nutrients are cycled internally — leaf litter decomposes to feed soil organisms, nitrogen fixers supply legumes, and [[comparison-dynamic-accumulators-vs-cover-crops]] pull minerals from deep soil layers.
-
-## Guild Roles and Functions
-
-| Role | Function | Example Species |
-|------|----------|----------------|
-| **Canopy / Overstory** | Light filtration, microclimate, wind protection | Apple, pear, pecan, chestnut, mulberry |
-| **Understory / Shrub** | Mid-level production, habitat, windbreak | Currants, berries, hazelnut, seaberry |
-| **Herbaceous** | Food production, pollinator forage, mulch | Comfrey, artichoke, rhubarb, borage |
-| **Ground Cover** | Weed suppression, moisture retention, nitrogen cycling | Clover, vetch, nasturtium, creeping thyme |
-| **Root Crops** | [[flocculation-and-natural-subsoil-loosening-solomon]], nutrient mining | Daikon radish, chicory, dandelion, burdock |
+5. **Closed Nutrient Loops:** Within a well-designed guild, nutrients are cycled internally — leaf litter decomposes to feed soil organisms, nitrogen fixers supply legumes, and [[flocculation-and-natural-subsoil-loosening-solomon]], nutrient mining | Daikon radish, chicory, dandelion, burdock |
 | **Nitrogen Fixer** | Atmospheric N₂ fixation via rhizobial symbiosis | Alder, Siberian pea shrub, clover, beans, lupine |
-| **[[comparison-hyperaccumulator-vs-dynamic-accumulator]]** | Deep nutrient mining, biomass production | Comfrey, yarrow, dandelion, nettle, plantain |
-| **Insectary / Pollinator** | Attracting [[comparison-beneficial-insects-guide-vs-integrated-pest-management]], pest predator habitat | Dill, fennel, yarrow, calendula, alyssum |
+| **[[comparison-beneficial-insects-guide-vs-integrated-pest-management]], pest predator habitat | Dill, fennel, yarrow, calendula, alyssum |
 | **Pest Repellent** | Aromatic compounds that deter insect pests | Garlic, onions, marigolds, mint, tansy |
 | **Climber / Vine** | Vertical space utilization, additional production | Kiwi, grapes, hops, passionflower, beans |
 | **Fungi Support** | Mycorrhizal host plants, fungal food sources | Oaks, beech, birch, comfrey (mycorrhizal associate) |
@@ -62,10 +45,7 @@ The most widely documented guild, serving as a template for fruit tree systems:
 | Element | Species | Function |
 |---------|---------|----------|
 | **Center** | Apple (*Malus domestica*) | Primary production — fruit |
-| **Nitrogen fixer** | Siberian pea shrub (*[[caragana-arborescens]]*) or clover understory | Nitrogen supply |
-| **Dynamic accumulator** | Comfrey (*Symphytum × uplandicum* Bocking 14) | Potassium, calcium mining; mulch |
-| **Pest deterrent** | Garlic chives, daffodils (bulb ring), yarrow | Repel codling moth, apple maggot |
-| **Pollinator attractor** | Borage, dill, calendula | Bee [[mollison-designers-insectary-plants-and-beneficial-insect-habitat]] forage |
+| **Nitrogen fixer** | Siberian pea shrub (*[[mollison-designers-insectary-plants-and-beneficial-insect-habitat]] forage |
 | **Ground cover** | White clover, creeping thyme | Nitrogen fixation, weed suppression |
 | **Root zone** | Daikon radish, chicory | Subsoil compaction relief, nutrient mining |
 | **Fungal support** | Oyster mushroom inoculated on buried wood | Mycoremediation, nutrient cycling |
@@ -75,8 +55,7 @@ The most widely documented guild, serving as a template for fruit tree systems:
 
 The oldest documented polyculture guild, originating with indigenous peoples of Mesoamerica:
 
-- **Corn** (*Zea mays*): [[comparison-silicon-vs-calcium-in-plant-defense-and-structural-support]] — provides a living trellis for beans
-- **Beans** (*[[phaseolus-vulgaris]]*): Nitrogen fixation — rhizobial symbiosis supplies nitrogen to corn and squash
+- **Corn** (*Zea mays*): [[phaseolus-vulgaris]]*): Nitrogen fixation — rhizobial symbiosis supplies nitrogen to corn and squash
 - **Squash** (*Cucurbita spp.*): Ground cover — large leaves suppress weeds, retain soil moisture, and deter pests with prickly vines
 
 This guild produces a nutritionally complete protein-carbohydrate complement and has been sustained for thousands of years without external fertilizer inputs.
@@ -87,3 +66,85 @@ Black walnut (*Juglans nigra*) produces juglone, an allelopathic compound toxic 
 ### Perennial Vegetable Guild
 
 A self-maintaining guild for home-scale food production:
+
+## Overview
+
+Guild Planting represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish guild planting
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving guild extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Guild Planting finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for guild planting. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+guild planting and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Guild Planting has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of guild planting into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[comparison-apple-tree-care-vs-apple-guild-design]]
+- [[guild-design-methods]]

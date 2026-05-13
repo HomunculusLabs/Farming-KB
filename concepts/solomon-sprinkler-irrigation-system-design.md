@@ -8,14 +8,14 @@ created: 2026-05-11
 
 # Solomon's Sprinkler Irrigation System Design
 
-Steve Solomon dedicates an entire chapter of "Gardening When It Counts" to
+[[steve-solomon]] dedicates an entire chapter of "Gardening When It Counts" to
 sprinkler irrigation, providing practical guidance for designing effective
 watering systems for home vegetable gardens. His approach prioritizes
 simplicity, reliability, and water efficiency over complex automated systems.
 
 ## Why Sprinkler Irrigation?
 
-While drip irrigation has become fashionable, Solomon argues that properly
+While [[drip-irrigation]] has become fashionable, Solomon argues that properly
 designed sprinkler systems offer several advantages for vegetable gardens:
 
 - **Complete coverage**: Sprinklers water the entire soil surface, promoting
@@ -128,8 +128,6 @@ outweighed by increased disease risk.
 
 ## Related Concepts
 
-- [[solomon-irrigation-water-management]]
 - [[solomon-drip-irrigation-limitations-home-garden]]
-- [[soil-capillary-action-and-water-movement]]
 - [[solomon-drought-gardening-and-water-conservation]]
 - [[night-watering-evaporation-myths-solomon]]

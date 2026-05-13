@@ -18,9 +18,7 @@ development. While fertile basidiocarps turn their caps upward to orient
 the gills for downward spore release, sporeless mutants continue growing
 in the direction established by earlier tropic responses (wind or light)
 and never undergo the upward recurvature. This observation establishes a
-biochemical link between spore production and [[light-role-spore-formation-geotropic-sensitivity-psilocybe-cubensis]],
-suggesting that the hormone or signalling molecule responsible for
-[[coprophilous-habitat-negative-geotropism-spore-dispersal-adaptation]] is produced in the gill tissue during sporulation.
+biochemical link between spore production and [[coprophilous-habitat-negative-geotropism-spore-dispersal-adaptation]] is produced in the gill tissue during sporulation.
 
 ## The Sterile Mutant Phenotype
 
@@ -46,19 +44,7 @@ of reasoning support this interpretation. First, the timing coincidence:
 negative geotropism appears precisely when spore production begins in
 fertile basidiocarps. Second, the dependency on light: both sporulation
 and geotropic recurvature require light, and in darkness, fertile
-basidiocarps produce few spores and show reduced [[spore-formation-geotropic-response-psilocybe-cubensis-badham-1982]]. The
-light requirement for geotropism may be indirect, operating through the
-light requirement for sporulation rather than through a separate
-phototropic pathway. Third, gill-derived hormones: decapitation
-experiments in other mushroom species have shown that removal of the
-pileus (and thus the gills) eliminates geotropic response, and agar
-diffusates from gills can partially restore it. If the geotropic signal
-is produced by developing spores or spore-producing tissue, its absence
-in sporeless mutants is fully explained.
-
-## Implications for Gill-Derived Hormonal Hypothesis
-
-The gill-derived hormonal hypothesis for [[adaptive-significance-mushroom-tropisms-spore-dispersal]], proposed by
+basidiocarps produce few spores and show reduced [[adaptive-significance-mushroom-tropisms-spore-dispersal]], proposed by
 Gruen (1963) and Hagimoto (1963), suggests that the lamellae produce a
 growth-regulating substance that influences stipe elongation and curvature.
 Hagimoto and Konishi (1960) demonstrated that agar diffusates from gills
@@ -99,50 +85,6 @@ Phycomyces (Russo et al., 1975) and is produced by many fungi during
 reproductive development. Gibberellin-like compounds have been found in
 mushroom tissue but their function is unclear. The most intriguing
 possibility is that the signal is a novel compound specific to
-basidiomycete reproduction, perhaps a peptide or [[fungal-elicitors-enhanced-secondary-metabolite-production]]
-produced by the basidia during meiosis and spore maturation. Modern
-transcriptomic and metabolomic approaches applied to fertile versus
-sporeless strains could identify differentially expressed genes or
-accumulated metabolites that correspond to the onset of geotropic
-sensitivity.
-
-## Light Requirement and Photoreception
-
-Both sporulation and geotropic recurvature require light in Psilocybe
-cubensis. The light requirement for sporulation is well-documented
-across many mushroom species and is mediated by blue-light photoreceptors.
-The question is whether light acts directly on the geotropic response or
-indirectly through its role in enabling sporulation. Badham's data favours
-the indirect interpretation: if geotropism requires a sporulation-
-associated signal, and sporulation requires light, then geotropism will
-appear to require light even if the geotropic mechanism itself is not
-light-sensitive. This distinction matters for understanding the signalling
-pathway. If light acts only through sporulation, then the geotropic signal
-originates downstream of the photoreception pathway. If light acts
-directly on geotropism (perhaps by modulating the sensitivity of stipe
-cells to the geotropic signal), then multiple light-dependent pathways
-converge on the tropic response. The available data cannot definitively
-distinguish these possibilities.
-
-## Broader Significance for Fungal Developmental Biology
-
-The connection between reproduction and tropism in Psilocybe cubensis
-reflects a broader principle in fungal developmental biology: that
-differentiation events are often coupled to ensure developmental
-coherence. A mushroom that turns its cap upward before the gills are
-ready to release spores would waste the metabolic investment in
-geotropic correction. A mushroom that produces spores but never orients
-them for effective dispersal would waste the investment in reproduction.
-The coupling of these two processes through a shared biochemical signal
-ensures that cap orientation and spore production are synchronised,
-maximising reproductive fitness. This principle of coupled developmental
-modules is seen throughout fungal biology, from the coordination of
-mating pheromone production with cell fusion to the timing of
-pigmentation with sporulation.
-
-## See Also
-
-- [[mushroom-geotropism]]
-- [[psilocybe-cubensis-tropisms]]
+basidiomycete reproduction, perhaps a peptide or [[mushroom-geotropism]]
 - [[four-stage-basidiocarp-development-psilocybe-cubensis]]
 - [[anemotropism-in-fungi]]

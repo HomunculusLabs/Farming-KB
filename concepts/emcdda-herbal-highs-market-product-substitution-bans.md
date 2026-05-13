@@ -32,8 +32,7 @@ During the late 1990s, hallucinogenic mushrooms began to be commercialized by sm
 The "herbal highs" category was an umbrella under which retailers grouped diverse products:
 
 - **Hallucinogenic mushrooms**: The flagship product for many smartshops
-- **Herbal XTC**: Products containing Ephedra alkaloids, [[sida-cordifolia]], guarana, caffeine, Siberian ginseng, and kola nut, marketed as natural alternatives to ecstasy with stimulating, energizing effects
-- **[[salvia-divinorum]]**: A sprawling perennial herb from the Sierra Mazatec region of Mexico containing the extremely potent salvinorin-A, with a history of divinatory use and widely available since the mid-1990s primarily as a smoked herb
+- **Herbal XTC**: Products containing Ephedra alkaloids, [[salvia-divinorum]]**: A sprawling perennial herb from the Sierra Mazatec region of Mexico containing the extremely potent salvinorin-A, with a history of divinatory use and widely available since the mid-1990s primarily as a smoked herb
 - **Other botanical psychoactives**: Various plant-derived products promoted for their mind-altering properties
 
 This category positioning was significant because it connected magic mushrooms to a wider lifestyle and consumer identity centered on "natural" psychoactive experiences, rather than positioning them as isolated drug products.
@@ -74,52 +73,10 @@ When the UK classified hallucinogenic mushrooms as Class A controlled substances
 
 ### Amanita muscaria as Substitute
 
-The most prominent substitution was the marketing of Amanita muscaria (fly agaric) as a legal alternative to psilocybin-containing mushrooms. UK retailers such as EveryOneDoesIt.com and Allsalvia.co.uk began switching their sales to fly agaric and the closely related [[amanita-pantherina]] (panther mushroom/panther cap).
-
-This substitution raised significant public health concerns:
-
-- **Different pharmacology**: Amanita species contain muscimol, ibotenic acid, and muscarine, which are "totally different from mushrooms containing psilocybin"
-- **Substantial toxicity risks**: The active chemicals in Amanita carry "substantial toxicity risks"
-- **Deadly lookalike risk**: "Some closely related Amanita species are highly toxic and could cause fatal poisoning"
-- **Consumer confusion**: Users familiar with [[psilocybin-mushroom]] effects might not understand the different risk profile of Amanita species
+The most prominent substitution was the marketing of Amanita muscaria (fly agaric) as a legal alternative to psilocybin-containing mushrooms. UK retailers such as EveryOneDoesIt.com and Allsalvia.co.uk began switching their sales to fly agaric and the closely related [[psilocybin-mushroom]] effects might not understand the different risk profile of Amanita species
 
 ### Purple Ohms Capsules
 
-Another product increasingly marketed as a legal alternative was Purple Ohms capsules. These capsules' main ingredient was Argyreia nervosa (Hawaiian Baby Woodrose, also known as Elephant Creeper and Woolly Morning Glory), which contains [[lysergic-acid]] Amide (LSA). Purple Ohms were described as having "similar effects to LSD," positioning them as a direct substitute within the hallucinogen market rather than specifically as a mushroom replacement.
-
-### Smartshop Loophole Exploitation
-
-## Practical Applications
-
-The principles and techniques discussed here have wide-ranging applications
-across multiple disciplines and contexts. Practitioners and researchers
-continue to explore new ways to integrate these concepts into modern practice,
-adapting traditional knowledge to contemporary challenges and opportunities.
-
-## Key Considerations
-
-Several important factors influence the effectiveness and outcomes described
-in this topic. Understanding these considerations helps practitioners make
-informed decisions and avoid common pitfalls. Environmental conditions,
-timing, and material selection all play critical roles.
-
-## Historical Context
-
-The historical development of this subject reflects centuries of accumulated
-knowledge and practical experience. From traditional methods passed down
-through generations to modern scientific approaches, the evolution continues
-to inform current best practices and research directions.
-
-## Common Challenges
-
-Practitioners frequently encounter several challenges when working with
-these concepts. Climate variability, resource limitations, and knowledge
-gaps can all affect outcomes. Addressing these challenges requires patience,
-observation, and a willingness to adapt approaches based on results.
-
-## See Also
-- [[doc]]
-- [[psilocybin]]
+Another product increasingly marketed as a legal alternative was Purple Ohms capsules. These capsules' main ingredient was Argyreia nervosa (Hawaiian Baby Woodrose, also known as Elephant Creeper and Woolly Morning Glory), which contains [[doc]]
 - [[dom]]
-- [[caffeine]]
 - [[amanita-muscaria]]

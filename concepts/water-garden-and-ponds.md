@@ -9,7 +9,7 @@ sources: []
 
 # Water Gardens and Ponds
 
-Water gardens and ponds introduce [[dighton-fungal-biomass-production-aquatic-ecosystems]] into the landscape, supporting wildlife, creating tranquil focal points, and enabling the cultivation of aquatic plants and fish. They integrate [[water-management]] with [[fungal-ecology]] and [[permaculture-design]] principles.
+Water gardens and ponds introduce [[dighton-fungal-biomass-production-aquatic-ecosystems]] into the landscape, supporting wildlife, creating tranquil focal points, and enabling the cultivation of aquatic plants and fish. They integrate [[water-management]] with [[fungal-ecology|ecology]] and [[permaculture-design|design]] principles.
 
 ## Pond Construction
 
@@ -79,7 +79,7 @@ Water gardens and ponds introduce [[dighton-fungal-biomass-production-aquatic-ec
 
 **Marginal Plants (Bog Plants)**
 - Grow in shallow water at pond edges (0-6 inches of water over the crown)
-- Species: Iris (Iris versicolor, I. pseudacorus), pickerel weed, cattail, arrowhead, cardinal flower, marsh marigold, sweet flag
+- Species: Iris ([[iris-versicolor]], I. pseudacorus), pickerel weed, cattail, arrowhead, cardinal flower, marsh marigold, sweet flag
 - Plant in pots placed on the marginal shelf
 - Soften the transition between water and land
 
@@ -122,7 +122,7 @@ Water gardens and ponds introduce [[dighton-fungal-biomass-production-aquatic-ec
 ## Filtration
 
 ### Biological Filtration
-- Beneficial bacteria convert toxic ammonia (from fish waste) to nitrite, then to relatively harmless nitrate
+- [[ingham-aact-beauveria-fruit-fly-beneficial-bacteria-inoculant]] convert toxic ammonia (from fish waste) to nitrite, then to relatively harmless nitrate
 - Biofilter media: lava rock, bio-balls, ceramic rings, foam pads
 - Essential for any pond with fish
 - Bacteria colonize surfaces — never clean all filter media at once

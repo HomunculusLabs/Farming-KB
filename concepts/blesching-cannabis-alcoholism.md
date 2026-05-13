@@ -11,19 +11,7 @@ type: concept
 
 # Cannabis and Alcohol Dependence
 
-[[blesching-cannabis-neuroprotection]])
-- CBD's antioxidant and anti-inflammatory properties may protect the
-  brain during the vulnerable withdrawal period
-- Alcohol-induced liver damage involves inflammatory pathways that CBD
-  may help modulate, though this requires further study
-
-## Evidence Base (4 Studies)
-
-The four studies reviewed represent a growing but still preliminary body
-of evidence:
-
-- **Substitution surveys**: Multiple studies found that 30-50% of medical
-  cannabis patients reported substituting [[cannabis-for-alcohol-dependence]], with many
+[[cannabis-for-alcohol-dependence]], with many
   reporting decreased alcohol consumption
 - **Epidemiological data**: Population-level studies in medical cannabis
   states showed associations between cannabis availability and reduced
@@ -89,7 +77,6 @@ Blesching frames cannabis in the context of a harm reduction approach:
   abstinence, produces meaningful health benefits
 
 ## See Also
-- [[blesching-cannabis-addiction-dependence]]
 - [[blesching-cannabis-arthritis-anti-inflammatory-cbd-therapy]]
 
 ## Practical Applications
@@ -121,8 +108,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[dom]]
 - [[cannabis-and-alcoholism-research]]
-- [[blesching-cannabis-neuroprotection-neurodegenerative]]
 - [[cannabis-sativa-vs-indica-strain-profiles-therapeutic-blesching]]
 - [[blesching-cannabis-tourette-syndrome]]

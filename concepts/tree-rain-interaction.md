@@ -115,6 +115,13 @@ This closed-loop system means that the forest is largely self-sustaining in nutr
 | Long-term water supply | Steady, regulated streamflow | Flood and drought cycle |
 
 ## See Also
-- [[comparison-fruit-tree-pruning-vs-fruit-tree-grafting-guide]]
 - [[tree-rain-interception-and-throughfall]]
 - [[permplant-persimmon-diospyros-kaki-fruit-tree]]
+
+## See Also
+
+- [[nut-tree-cultivation-for-permaculture-food-forests]]
+- [[tree-effects-on-precipitation]]
+- [[fukuoka-textdoc-shelterbelt-design-environmental-tree-planting]]
+- [[fukuoka-no-prune-fruit-tree-method]]
+- [[organic-fruit-tree-care-calendar]]

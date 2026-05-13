@@ -22,17 +22,14 @@ source:
 
 ## Overview
 
-*[[allegro-amanita-muscaria-properties-and-pharmacology]]*, commonly known as the [[amanita-muscaria-fly-agaric-history-and-pharmacology]], is one of the most
+*[[amanita-muscaria-fly-agaric-history-and-pharmacology]], is one of the most
 iconic mushrooms in the world, with its bright red cap adorned with white
 warts. Unlike psilocybin-containing mushrooms, *Amanita muscaria* produces
 fundamentally different psychoactive compounds: ibotenic acid and its
 decarboxylation product muscimol. A closely related species, *Amanita
 pantherina* (panther cap), contains the same active constituents and often
 produces more potent intoxication. These mycorrhizal species associate with
-birch, pine, and spruce in temperate and [[fungal-diversity-boreal-forests-taiga]] worldwide.
-
-The pharmacology of *Amanita muscaria* is distinct from classical hallucinogens
-such as [[lsd]] or [[psilocybin-mushrooms-species-and-pharmacology]]. Rather than acting on [[psilocybin-pharmacology-and-serotonin-receptors]], its compounds interact
+birch, pine, and spruce in temperate and [[lsd]] or [[psilocybin-pharmacology-and-serotonin-receptors]], its compounds interact
 with GABAergic and glutamatergic systems. This produces an intoxication profile
 that is more deliriant, sedative, and dissociative, with prominent somatic
 effects including nausea, ataxia, and muscle twitching.
@@ -42,25 +39,7 @@ effects including nausea, ataxia, and muscle twitching.
 ### Chemistry: Ibotenic Acid and Muscimol
 
 Ibotenic acid (α-amino-3-hydroxy-5-isoxazoleacetic acid) is a potent
-excitatory [[cho-fish-amino-acid-preparation]] and conformational analogue of glutamate. It acts as an
-agonist at ionotropic glutamate receptors, particularly NMDA and metabotropic
-Group I receptors. Muscimol (5-aminomethyl-3-hydroxyisoxazole) is the
-decarboxylation product of ibotenic acid, formed spontaneously upon drying
-or heating, and is the primary psychoactive compound responsible for the
-characteristic effects of *A. muscaria* intoxication.
-
-A critical pharmacokinetic detail is that ibotenic acid does not readily
-cross the blood-brain barrier, whereas muscimol does efficiently. This
-explains why raw or improperly prepared specimens (high in ibotenic acid)
-produce more peripheral and gastrointestinal effects, while properly dried
-or heated specimens (where ibotenic acid has converted to muscimol) produce
-more central effects with fewer peripheral side effects.
-
-### The Muscarine Naming Confusion
-
-A persistent confusion stems from the name *Amanita muscaria*, suggesting
-it contains muscarine, a toxic alkaloid found in deadly species like
-*[[amanita-phalloides]]*. In reality, *A. muscaria* contains only trace,
+excitatory [[amanita-phalloides]]*. In reality, *A. muscaria* contains only trace,
 pharmacologically insignificant amounts of muscarine. The name derives
 from its traditional use as an insecticide (Latin *musca* meaning "fly").
 The intoxication is not mediated by muscarinic acetylcholine receptor
@@ -118,8 +97,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[ibotenic-acid]]
 - [[amanita-muscaria]]
-- [[amanita-muscaria-pantherina-ibotenic-acid-muscimol-pharmacology]]
 - [[amanita]]
 - [[bloomfield-fly-agaric-amanita-muscaria-muscimol-ibotenic-acid-hallucinogens]]

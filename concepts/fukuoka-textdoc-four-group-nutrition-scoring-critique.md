@@ -20,27 +20,8 @@ type: concept
 
 # Critique of the Four-Group Nutrition Scoring Method
 
-In *The Natural Way of Farming*, [[fukuoka-textdoc-nature-of-food]]
-- [[fukuoka-textdoc-four-types-of-diet-classification]]
-- [[fukuoka-textdoc-decline-quality-food]]
-## Practical Applications
-
-Critique of the Four-Group Nutrition Scoring Method has a range of practical applications that make it relevant to
-both researchers and practitioners. Understanding these applications
-requires familiarity with the underlying principles and their
-manifestation in real-world contexts. The breadth of applications
-reflects the fundamental importance of this topic across disciplines.
-
-Implementation varies based on scale, available resources, and
-specific objectives. Small-scale applications may be relatively
-straightforward, while larger implementations require more careful
-planning and coordination. Adaptation to local conditions is always
-essential for achieving optimal results regardless of scale.
-
-Documented case studies provide valuable reference points, though
-each situation presents unique combinations of opportunities and
-constraints that require context-specific solutions. The most
-successful implementations combine established [[arbuscular-mycorrhizal-inoculum-production-best-practices]] with
+In *The Natural Way of Farming*, [[fukuoka-textdoc-four-types-of-diet-classification]]
+- [[arbuscular-mycorrhizal-inoculum-production-best-practices]] with
 creative adaptation to local conditions and emerging challenges.
 
 ## Key Considerations
@@ -97,8 +78,6 @@ through generations to modern scientific approaches, the evolution continues
 to inform current best practices and research directions.
 
 ## See Also
-- [[doc]]
 - [[det]]
-- [[mycorrhiza]]
 - [[fukuoka-textdoc-four-types-diet-self-indulgence-non-discrimination]]
 - [[fukuoka-textdoc-four-types-of-diet-classification]]

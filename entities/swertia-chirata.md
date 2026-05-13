@@ -16,18 +16,7 @@ sources:
     89(4), 635-641.
   - Brahmachari, G. & Mondal, S. (2014). "The genus Swertia: A review of
     phytochemistry and pharmacology." Pharmacognosy Reviews, 8(16), 60-68.
-  - Negi, J.S. et al. (2011). "[[guzman-magic-mushrooms-chemical-constituents]] of Swertia chirata."
-    Natural Product Research, 25(4), 353-366.
-  - Kshirsagar, A. et al. (2015). "A comprehensive review on Swertia chirata."
-    Journal of Pharmacognosy and Phytochemistry, 4(1), 137-142.
----
-# Swertia chirata
-
-## Overview
-
-*swertia chirata* (syn. *S. chirayita*) is a critically endangered
-herb in Gentianaceae, renowned as one of the most valuable bitter
-tonic [[phytochrome-red-far-red-light-switch-plant-pigment]]s in traditional medicine.
+  - Negi, J.S. et al. (2011). "[[phytochrome-red-far-red-light-switch-plant-pigment]]s in traditional medicine.
 
 Commonly known as **chirayita** or **bhunimba**, it is native to the
 Himalayan region at elevations of 1,200–3,000 meters.
@@ -36,21 +25,8 @@ In Ayurveda, it is classified as *tikta rasa* (bitter) and is a primary
 ingredient in formulations for liver disorders, digestive complaints,
 and fever.
 
-Overharvesting from wild populations has driven severe [[stamets-mycorrhizal-decline-europe-acid-rain-forest-health]]s,
-and *CITES Appendix II* regulates its trade.
-
-## Taxonomy
-
-- **King [[dom]]:** Plantae
-- **Di[[blue-light-phototropism-red-light-photoperiodism-dual-plant-vision-system]]:** Angiospermae
-- **Class:** Magnoliopsida
-- **Order:** Gentianales
-- **Family:** Gentianaceae
-- **Genus:** *Swertia* L.
-- **Species:** *S. chirayita* (Roxb. ex Flem.) Karsten
-
- persists between *S. chirata*, *S. angustifolia*,
-and *S. alata*, which are often sold inter[[query-how-does-phosphorus-availability-change-across-soil-ph-levels]]ably in herbal markets.
+Overharvesting from wild populations has driven severe [[dom]]:** Plantae
+- **Di[[query-how-does-phosphorus-availability-change-across-soil-ph-levels]]ably in herbal markets.
 
 ## Morphology
 
@@ -67,29 +43,97 @@ with 3–5 prominent parallel veins. Upper leaves sessile, clasping.
 **Fruit:** Capsule, ellipsoid, 1–1.5 cm, splitting loculicidally,
 releasing numerous small, winged seeds.
 
-**[[green-cannabis-grow-bible-pre-flowering-and-sexing-plants]]:** July to October at higher elevations.
-
-## Distribution and Habitat
-
-*swertia chirata* is endemic to the Himalayan region, found across
-Nepal, Bhutan, northern India (Uttarakhand, Sikkim, Arunachal Pradesh,
-and other northeastern states), and parts of Myanmar and southern China.
-
-It occupies subalpine and temperate habitats in open [[ultra-low-cost-wild-grass-cover-cropping-and-symbiotic-weed-management]]lands, forest
+**[[ultra-low-cost-wild-grass-cover-cropping-and-symbiotic-weed-management]]lands, forest
 clearings, and rocky slopes at 1,200–3,000 meters elevation.
 
 The species prefers moist, well-drained, acidic to neutral soils with
-hi[[medicinal-mushroom-bioactive-compounds]]--bioactive-compounds(1,500–3,000 mm).
-
-## 
-
-The principal bioactive constituents are **xanthones** and **secoiridoid
-glycosides**, contributing to its intensely bitter taste and
-pharmacological activity.
-
-Key [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]]clude:
+hi[[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]]clude:
 
 ## See Also
-- [[swertia-japonica]]
 - [[swertia-diluta]]
+- [[swertia-perennis]]
+
+## Overview
+
+Swertia Chirata represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish swertia chirata
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving swertia extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Swertia Chirata finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for swertia chirata. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+swertia chirata and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Swertia Chirata has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of swertia chirata into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[swertia-bimaculata]]
+- [[swertia-chirayita]]
+- [[swertia-diluta]]
+- [[swertia-japonica]]
 - [[swertia-perennis]]

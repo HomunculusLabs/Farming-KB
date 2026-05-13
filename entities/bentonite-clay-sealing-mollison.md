@@ -89,15 +89,8 @@ all influence the optimal approach to implementation.
 
 ## See Also
 
-- [[clay-pellet-seed-broadcasting]]
 - [[fukuoka-desert-revegetation-clay-pellet-method]]
-- [[fukuoka-orchard-soil-restoration-barren-clay]]
 - [[jadam-red-clay-powder-method]]
-- [[query-how-do-clay-seed-balls-work-for-natural-farming]]
-
-## See Also
-
 - [[gley-pond-sealing-mollison]]
-- [[swale]]
 - [[keyline-design]]
 - [[p-a-yeomans]]

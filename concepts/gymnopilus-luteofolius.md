@@ -27,123 +27,123 @@ Adolf Karsten in 1879; the name derives from Greek *gymnos* (naked) and *pilus*
 *luteofolius* combines *luteus* (yellow) and *folium* (leaf), describing the
 characteristic yellow tones of the basidiocarp. Cortinariaceae also includes
 *Cortinarius* and *Galerina*, the latter of which contains several neurotropic
-species, underscoring the family's outsized role in [[gartz-conocybe-cyanopus-rare-psychoactive-mushroom]]
-chemistry.
-
-## Identification Features
-
-### Cap (Pileus)
-
-The cap ranges from 2–8 cm in diameter, broadly convex to plane or slightly
-depressed at maturity. The surface is viscid when moist, colored bright
-orange-yellow to ochre or dull brick-red at the disc. A key diagnostic
-character is the tendency of flesh and cap surface to bruise greenish-blue
-when handled or injured, strongly suggestive of psilocybin-related indole
-alkaloids. This bluing may take several minutes to develop, particularly in
-older or drier specimens.
-
-### Gills (Lamellae)
-
-The gills are adnate to slightly decurrent, pale yellow in youth, maturing to
-a distinctive rusty-brown or cinnamon color. This rusty spore color is
-characteristic of the genus and helps separate *Gymnopilus* from the dark
-purple-brown spored *Psilocybe* species. Gills are moderately close to
-crowded with interspersed lamellulae. The rusty-brown spore print is critical
-for identification; spores measure approximately 7.5–9.5 × 5–6.5 µm, broadly
-elliptical with a roughened surface.
-
-### Stem (Stipe)
-
-The stem measures 3–7 cm long and 0.5–1.2 cm thick, equal or slightly
-tapering toward the base. It is solid, fibrous, pale yellow to
-yellowish-brown, and may develop greenish-blue staining where handled. It lacks
-a distinct annulus, though a faint fibrillose partial veil remnant may appear
-in young buttons. The base is often slightly enlarged. Odor is mild or faintly
-farinaceous; taste is bitter to very bitter, characteristic of many
-*Gymnopilus* species and a deterrent to culinary use.
-
-## Habitat and Ecology
-
-*G. luteofolius* is saprotrophic, decomposing dead organic matter. It grows
-most commonly on decaying hardwood logs, stumps, and fallen branches,
-particularly oaks (*Quercus* spp.) and other broadleaf trees. Fruiting occurs
-from late summer through autumn, typically following prolonged rain. The
-species prefers partially shaded forested environments, stream banks, and
-ravines where woody debris remains persistently damp. Unlike some *Gymnopilus*
-species favoring coniferous substrates, *G. luteofolius* is most frequently
-reported from hardwood-dominated habitats.
-
-## Distribution
-
-*G. luteofolius* has been documented primarily from the United States and South
-America. In the U.S., it is most frequently reported from southeastern states
-including Florida, Georgia, Alabama, Mississippi, Louisiana, and the Carolinas.
-Scattered reports from more northerly and western locations exist but are less
-well confirmed and may reflect misidentifications. In [[guzman-psilocybin-mushrooms-south-america]], collections
+species, underscoring the family's outsized role in [[guzman-psilocybin-mushrooms-south-america]], collections
 come from Colombia, Brazil, and other tropical and subtropical regions. The
 full range remains incompletely understood; the species is likely
 under-reported due to its resemblance to other orange *Gymnopilus* species.
 
 ## Psychoactive Properties
 
-*G. luteofolius* is confirmed to contain the [[hplc-analysis-of-tryptamine-alkaloids]] psilocybin
-and psilocin, the same primary psychoactive compounds found in *Psilocybe*,
-*Panaeolus*, and *Copelandia*. Analytical studies have detected these compounds
-in both cap and stem tissues. Concentration is generally low to moderate
-relative to more potent *Psilocybe* species, though potency varies with age,
-environment, and geographic origin. The greenish-blue bluing is an enzymatic
-oxidation product of psilocin and serves as a useful field indicator. With
-approximately 15 neurotropic species worldwide, *Gymnopilus* is one of the
-most significant non-*Psilocybe* sources of naturally occurring psilocybin.
-
-## Comparison to Other Neurotropic Gymnopilus Species
-
-- **[[Gymnopilus spectabilis]]**: The most widely known neurotropic member,
+*G. luteofolius* is confirmed to contain the [[Gymnopilus spectabilis]]**: The most widely known neurotropic member,
   called the "big laughing gym." Considerably larger (caps 10–20 cm), growing
-  on hardwood stumps across [[guzman-psilocybin-mushrooms-north-america]], Europe, and Asia. Its bluing
-  reaction is more pronounced and reliable than in *G. luteofolius*.
-
-- **[[gymnopilus-purpuratus]]**: A South American species notable for its
+  on hardwood stumps across [[gymnopilus-purpuratus]]**: A South American species notable for its
   purplish to reddish cap coloration in young specimens. Reported from Chile,
   Argentina, and adjacent regions, confirmed to contain psilocybin and
   baeocystin.
 
-- **[[gymnopilus-validipes]]**: A smaller neurotropic species from North and
-  [[guzman-allen-gartz-neurotropic-fungi-caribbean-central-america]], distinguishable by its restricted range, slender stature,
+- **[[guzman-allen-gartz-neurotropic-fungi-caribbean-central-america]], distinguishable by its restricted range, slender stature,
   and differences in spore morphology and substrate preference.
 
-These species demonstrate that [[gottlieb-psilocybin-production-extraction-methods]] is not limited to a single
-evolutionary lineage within the agarics.
-
-## Role in Non-Psilocybe Neurotropic Fungi
-
-Independent acquisition of [[baeocystin-and-norbaeocystin-in-psilocybin-biosynthesis]] in genera such as
+These species demonstrate that [[baeocystin-and-norbaeocystin-in-psilocybin-biosynthesis]] in genera such as
 *Gymnopilus*, *Inocybe*, *Panaeolus*, and *Copelandia* suggests either
 convergent evolution driven by ecological selective pressures or an ancient
 horizontal gene transfer event. *Gymnopilus* is particularly notable because
 the genus is large (over 200 described species) yet only a small fraction are
 neurotropic. This patchwork distribution provides a valuable natural experiment
-for understanding the genetic and biochemical basis of [[phosphorylation-methods-psilocybin-production-comparison]].
-See [[Neurotropic Cortinariaceae]] for further discussion.
+for understanding the genetic and biochemical basis of [[Neurotropic Cortinariaceae]] for further discussion.
 
 ## Historical Documentation
 
 The species was formally described by Peck in the late 19th century from
 eastern U.S. specimens. Its psychoactive properties were not recognized until
 the mid-20th century, following R. Gordon Wasson's 1957 Mexico expedition.
-[[guzman-allen-gartz-conflicting-chemical-analyses-neurotropic-fungi]] by Jochen Gartz and Gastón Guzmán in the 1980s–1990s
-confirmed [[hplc-analysis-of-psilocybin-and-psilocin]] in *G. luteofolius*. The landmark 1998
+[[hplc-analysis-of-psilocybin-and-psilocin]] in *G. luteofolius*. The landmark 1998
 publication by Guzmán, Allen, and Gartz, *A Worldwide Geographical Distribution
 of the Neurotropic Fungi*, provided the most comprehensive cataloging of *G.
 luteofolius* alongside other neurotropic species.
 
 ## Related Concepts
 
-- [[Gymnopilus spectabilis]] — The largest and most widely distributed
-  neurotropic *Gymnopilus* species.
 - [[gymnopilus-purpuratus]] — A South American species with distinctive
   purplish cap coloration.
-- [[Neurotropic Cortinariaceae]] — Overview of psychoactive mushroom species
-  within the family Cortinariaceae.
 - [[gymnopilus-validipes]] — A smaller neurotropic *Gymnopilus* from North
   and [[guzman-allen-gartz-neurotropic-fungi-central-america-caribbean]].
+
+## Overview
+
+Gymnopilus Luteofolius represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish gymnopilus luteofolius
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving gymnopilus extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Gymnopilus Luteofolius finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for gymnopilus luteofolius. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+gymnopilus luteofolius and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Gymnopilus Luteofolius has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of gymnopilus luteofolius into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also

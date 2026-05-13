@@ -12,10 +12,7 @@ chemoreception]
 
 Plant sensory biology is the study of how plants perceive and respond to
 environmental stimuli. Daniel Chamovitz's "What a Plant Knows" (2012)
-systematically explores the [[chamovitz-gradualist-framework-plant-sensory-capabilities]] of plants across
-multiple
-modalities: sight (light perception), smell (volatile detection), touch
-(mechanoreception), hearing (vibration response), [[plant-gravitropism-spatial-orientation]]
+systematically explores the [[plant-gravitropism-spatial-orientation]]
 (gravitropism), and memory (priming and acquired responses). While
 plants
 lack nervous systems and brains, they possess sophisticated molecular
@@ -47,98 +44,12 @@ the ratio detected by phytochromes.
 
 ## What a Plant Smells
 
-Plants detect [[chamovitz-plant-scent-communication-volatile-organic-compounds]] (VOCs) released by other
-organisms.
-When a plant is attacked by herbivores, it releases volatile signals
-that
-neighboring plants detect, triggering defensive responses including the
-production of toxic compounds and protease inhibitors. This airborne
-communication system operates through receptor proteins that bind
-specific
-volatile molecules, activating downstream defense pathways involving
-jasmonic acid and salicylic acid.
-
-Perhaps the most remarkable example is ripening fruit. Apples and
-bananas
-release ethylene gas, which triggers ripening in nearby fruit. This is
-why
-placing a ripe banana in a paper bag with unripe fruit accelerates
-ripening
-— the ethylene accumulates and acts as a hormonal signal. Plants also
-use
-volatile cues to locate hosts (in parasitic plants like dodder), attract
-pollinators (through floral scents), and warn neighbors of pathogen
-attack.
-
-## What a Plant Feels
-
-Plants detect mechanical stimuli through mechanoreceptor systems. The
-most
-well-characterized response is thigmomorphogenesis — the altered growth
-pattern produced by mechanical stimulation such as wind or touch. Plants
-grown in windy environments develop shorter, thicker stems and smaller
-leaves compared to those grown in still air, enhancing structural
-stability.
-
-The Venus flytrap demonstrates the most dramatic [[thigmomorphogenesis-plant-touch-response]].
+Plants detect [[thigmomorphogenesis-plant-touch-response]].
 Its
 trap leaves snap shut when trigger hairs are touched twice within 20
 seconds. This two-trigger mechanism prevents false alarms from rain or
 debris. The molecular basis involves calcium ion channels that generate
-[[chamovitz-plant-electrical-signaling-action-potentials]] (analogous to nerve impulses) propagating through the
-trap tissue, triggering rapid cell expansion on the outer leaf surface.
-
-Roots also exhibit touch responses, growing around obstacles and sensing
-soil compaction. Root cap cells detect pressure gradients and redirect
-growth accordingly, enabling roots to navigate heterogeneous soil
-environments and locate nutrient-rich patches through chemotropic
-responses.
-
-## What a Plant Hears
-
-Whether plants can detect sound or vibration remains controversial. Some
-studies suggest plants respond to acoustic vibrations, including the
-sound
-of running water (helping roots locate moisture) and caterpillar feeding
-vibrations (triggering defensive responses). The mechanisms are not well
-understood but may involve mechanoreceptor proteins similar to those
-mediating touch responses. Research is active but findings should be
-interpreted cautiously given methodological challenges in this field.
-
-## How a Plant Knows Where It Is
-
-Plants sense gravity through statoliths — dense starch-filled organelles
-(amyloplasts) that settle to the bottom of specialized cells
-(statocytes)
-in the root cap and shoot endodermis. The position of statoliths
-triggers
-auxin redistribution, causing roots to grow downward (positive
-gravitropism)
-and shoots to grow upward (negative gravitropism). Plants also sense
-their
-own orientation through proprioception, adjusting growth based on
-mechanical
-self-sensing of stem weight and curvature.
-
-## What a Plant Remembers
-
-Plants exhibit memory without nervous systems. Priming is the enhanced
-defensive response following an initial attack — the plant "remembers"
-the
-herbivore and mounts a faster, stronger defense upon subsequent
-encounters.
-This involves epigenetic modifications (DNA methylation, histone
-modification)
-that alter gene expression persistently. Vernalization — the requirement
-for
-prolonged cold to enable flowering — is another form of plant memory
-mediated
-by epigenetic silencing of the FLC gene during winter months.
-
-## See Also
-
-- [[phototropism-plant-light-perception]]
-- [[photoperiodism-plant-flowering]]
+[[phototropism-plant-light-perception]]
 - [[plant-mechanosensation-thigmomorphogenesis-touch-response]]
 
 ## References
@@ -146,3 +57,88 @@ by epigenetic silencing of the FLC gene during winter months.
 - Chamovitz D (2012) What a Plant Knows. Oneworld Publications.
 - Braam J (2005) New Phytol 165(2): 373-389.
 - Karban R (2015) Plant Sensing and Communication. Univ of Chicago Press.
+
+## Overview
+
+Plant Sensory Biology represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish plant sensory biology
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving plant extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Plant Sensory Biology finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for plant sensory biology. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+plant sensory biology and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Plant Sensory Biology has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of plant sensory biology into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[electromagnetic-spectrum-plant-light-perception]]
+- [[lowenfels-rhizosphere-bacteria-plant-interaction]]
+- [[phytochrome-and-plant-photoperiodism]]
+- [[plant-fungal-signaling-mycorrhiza]]
+- [[plant-life-rhythms-pulsatory-growth]]

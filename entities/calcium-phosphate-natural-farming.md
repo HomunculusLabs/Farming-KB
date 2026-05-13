@@ -74,15 +74,8 @@ The principle of using eggshell-derived calcium is widely applicable beyond Kore
 Current research explores applications in bioremediation, sustainable agriculture, and ecological restoration. Academic interest continues to grow as new methodologies reveal previously unknown properties and relationships.
 
 ## See Also
-- [[korean-natural-farming-imo-collection-fermented-plant-extracts]]
 - [[beneficial-indigenous-microorganisms-natural-farming]]
-- [[query-what-is-the-difference-between-aerobic-compost-tea-and-fermented-plant-extracts]]
 - [[designer-compost-bokashi-method]]
-- [[query-how-do-fungal-volatile-compounds-affect-plant-growth-and-other-microorganisms]]
-
-## See Also
-
 - [[nutrioperiodism]]
-- [[bionutrients]]
 - [[imo-indigenous-microorganisms]]
 - [[bokashi-designer-compost]]

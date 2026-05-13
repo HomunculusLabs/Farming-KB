@@ -20,7 +20,7 @@ sources:
 
 ## Overview
 
-**Ilex vomitoria**, commonly known as yaupon, is an evergreen shrub or small tree in the family Aquifoliaceae native to the southeastern [[dmt-containing-plants-united-states-halpern]]. It is the only [[growing-gourmet-north-american-reishi-species]] plant species native to the continent that contains significant concentrations of caffeine.
+**Ilex vomitoria**, commonly known as yaupon, is an evergreen shrub or small tree in the family Aquifoliaceae native to the southeastern [[growing-gourmet-north-american-reishi-species]] plant species native to the continent that contains significant concentrations of caffeine.
 
 The species ranges from coastal Virginia south to central Florida and west to eastern Texas and southeastern Oklahoma. Yaupon is remarkably adaptable, thriving in coastal dunes, pine flatwoods, hardwood hammocks, and inland sandy soils.
 
@@ -48,25 +48,9 @@ The species epithet refers to the erroneous belief that the plant induced vomiti
 
 ## Distribution and Habitat
 
-Yaupon is native to the southeastern [[dmt-maoi-plants-united-states]], ranging from southeastern Virginia along the Atlantic and Gulf coasts to central Florida and west to eastern Texas. Isolated populations occur in Oklahoma and Arkansas.
+Yaupon is native to the southeastern [[comparison-caffeine-plants-yerba-mate-vs-guayusa-vs-yaupon-vs-tea]] (*[[ilex-guayusa]]*).
 
-The species is most abundant in the coastal plain from the Carolinas through Florida and along the Gulf Coast. It is one of the most common understory shrubs in southeastern pine forests.
-
-Yaupon is fire-adapted and increases in density with frequent prescribed burning. It forms extensive thickets in recently burned longleaf pine savannas.
-
-Yaupon grows on a wide range of soils from sand to clay loam. It is highly salt-tolerant and is a dominant species on coastal barrier islands and dune systems.
-
-It is shade-tolerant but produces denser growth and more fruit in full sun. The species resprouts vigorously after fire or cutting, a trait that historically maintained its abundance in fire-prone longleaf pine ecosystems.
-
-Yaupon provides important cover and food for wildlife. The persistent red fruits are consumed by cedar waxwings, American robins, bluebirds, and other frugivorous birds during winter months.
-
-## Chemistry and Pharmacology
-
-Yaupon leaves and young stems contain caffeine, theobromine, and theophylline in ratios similar to those found in [[comparison-caffeine-plants-yerba-mate-vs-guayusa-vs-yaupon-vs-tea]] (*[[ilex-paraguariensis]]*) and guayusa (*[[ilex-guayusa]]*).
-
-Caffeine content ranges from 0.8–1.5% dry weight, comparable to commercial tea (*[[camellia-sinensis]]*) and exceeding some yerba mate preparations. Theobromine content is approximately 0.2–0.3%.
-
-Caffeine concentrations vary with [[cannabis-harvest-timing-visual-cues]], leaf age, and processing method. Young leaves and apical shoots contain the highest concentrations.
+Caffeine content ranges from 0.8–1.5% dry weight, comparable to commercial tea (*[[cannabis-harvest-timing-visual-cues]], leaf age, and processing method. Young leaves and apical shoots contain the highest concentrations.
 
 The leaves also contain polyphenolic compounds including chlorogenic acid, rutin, and various flavonoids. These contribute antioxidant activity and are responsible for the tea's astringent flavor.
 
@@ -87,3 +71,80 @@ European settlers adopted yaupon tea during the American Revolution as a substit
 Modern yaupon tea is produced by several small-scale companies in the southeastern United States, marketing it as a sustainable, locally grown alternative to imported tea and coffee.
 
 Research interest in yaupon has increased since 2020, with studies examining its antioxidant capacity, caffeine pharmacokinetics, and potential as a commercial crop in the southeastern United States.
+
+## Overview
+
+Ilex Vomitoria represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish ilex vomitoria
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving ilex extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Ilex Vomitoria finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for ilex vomitoria. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+ilex vomitoria and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Ilex Vomitoria has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of ilex vomitoria into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.

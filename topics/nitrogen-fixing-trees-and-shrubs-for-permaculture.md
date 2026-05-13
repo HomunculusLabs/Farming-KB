@@ -79,47 +79,13 @@ A single mature black locust can fix 50–100 kg N/yr, equivalent to roughly 100
 - **Type**: Legume tree, 12–25m tall
 - **Hardiness**: Zones 4–9
 - **N-fixation**: 40–160 kg/ha/yr
-- **Uses**: Timber (rot-resistant posts), bee forage (exceptional honey), coppice wood, chop-and-drop mulch, [[comparison-vetiver-grass-vs-bamboo-for-erosion-control]]
-- **Growth rate**: Very fast (1–2m/yr in youth)
-- **Management**: Coppices and pollards vigorously; aggressive suckering — plant away from structures
-- **Cautions**: Thorny; can be invasive in some regions (check local status); toxic seeds and bark to livestock
-- **Design role**: Pioneer, nurse tree, timber, nectary
-
-#### Alder (*Alnus* spp. — A. glutinosa, A. rubra, A. incana*)
-- **Type**: Actinorhizal tree, 10–25m
-- **Hardiness**: Zones 2–7 (species-dependent)
-- **N-fixation**: 40–200 kg/ha/yr (A. rubra among the highest)
-- **Uses**: Wetland restoration, riparian buffers, windbreaks, fuelwood, [[fao-spent-mushroom-substrate-composting-recycling]]
+- **Uses**: Timber (rot-resistant posts), bee forage (exceptional honey), coppice wood, chop-and-drop mulch, [[fao-spent-mushroom-substrate-composting-recycling]]
 - **Growth rate**: Fast (1–2m/yr)
 - **Management**: Tolerates wet, anaerobic soils; coppices well; short-lived (30–60 years)
 - **Design role**: Pioneer on wet/acidic sites, riparian restoration, nurse crop
-- **Notes**: Red alder (*A. rubra*) is a [[psilocybin-north-america-pacific-northwest]] keystone pioneer; Italian alder (*A. cordata*) tolerates drier sites
-
-#### Autumn Olive / Russian Olive (*Elaeagnus umbellata*, *E. angustifolia*)
-- **Type**: Actinorhizal shrub/small tree, 3–7m
-- **Hardiness**: Zones 3–8
-- **N-fixation**: 30–100 kg/ha/yr
-- **Uses**: Edible berries (autumn olive — high lycopene), windbreaks, [[hemenway-backyard-wildlife-habitat]], erosion control
+- **Notes**: Red alder (*A. rubra*) is a [[hemenway-backyard-wildlife-habitat]], erosion control
 - **Growth rate**: Very fast, drought-tolerant
-- **Cautions**: *E. umbellata* is invasive in [[polypore-fungi-eastern-north-america]] — check local regulations before planting
-- **Design role**: Pioneer on poor/dry sites, wildlife hedgerow, berry production
-
-#### Sea Buckthorn (*Hippophae rhamnoides*)
-- **Type**: Actinorhizal shrub, 2–6m
-- **Hardiness**: Zones 3–7
-- **N-fixation**: 30–80 kg/ha/yr
-- **Uses**: Nutraceutical berries (extremely high vitamin C, carotenoids, omega-7 fatty acids), hedgerows, coastal stabilization, medicinal oil
-- **Growth rate**: Fast, suckering
-- **Management**: Dioecious — need male and female plants; thorny; aggressive suckering useful for hedges
-- **Design role**: Coastal/sandy site pioneer, berry production, living fence, windbreak
-
-#### Siberian Pea Tree (*Caragana arborescens*)
-- **Type**: Legume shrub/small tree, 3–6m
-- **Hardiness**: Zones 2–7
-- **N-fixation**: 30–60 kg/ha/yr
-- **Uses**: Edible seeds (36% protein), poultry fodder, shelterbelt, nitrogen nurse crop
-- **Growth rate**: Moderate
-- **Management**: Extremely cold- and drought-hardy; tolerates [[plants-tolerant-of-alkaline-soils]]; can be coppiced
+- **Cautions**: *E. umbellata* is invasive in [[plants-tolerant-of-alkaline-soils]]; can be coppiced
 - **Design role**: Cold-climate nitrogen fixer, poultry fodder, windbreak component
 
 #### Goumi (*Elaeagnus multiflora*)
@@ -129,22 +95,6 @@ A single mature black locust can fix 50–100 kg N/yr, equivalent to roughly 100
 - **Uses**: Sweet-tart edible berries, ornamental (fragrant flowers), chop-and-drop mulch
 - **Growth rate**: Moderate to fast
 - **Management**: Less aggressive than autumn olive; well-behaved in food forests; self-fertile
-- **Design role**: Mid-canopy N-fixer in food forests, edible understory, [[beneficial-insect-habitat]] attractant
-
-#### Mimosa / Silk Tree (*Albizia julibrissin*)
-- **Type**: Legume tree, 6–12m
-- **Hardiness**: Zones 6–10
-- **N-fixation**: 30–80 kg/ha/yr
-- **Uses**: Ornamental, shade, bee forage, chop-and-drop
-- **Growth rate**: Very fast
-- **Cautions**: Can be invasive in warm climates; short-lived (20–30 years)
-- **Design role**: Fast pioneer shade tree in warm temperate/subtropical systems
-
-#### Ceanothus spp. (California Lilac)
-- **Type**: Actinorhizal shrubs, 0.5–4m
-- **Hardiness**: Zones 5–10 (species-dependent)
-- **N-fixation**: 20–60 kg/ha/yr
-- **Uses**: Native plantings, erosion control, pollinator support, ornamental
-- **Design role**: Native N-fixer for dry western [[growing-gourmet-north-american-reishi-species]] landscapes, chaparral restoration
+- **Design role**: Mid-canopy N-fixer in food forests, edible understory, [[growing-gourmet-north-american-reishi-species]] landscapes, chaparral restoration
 
 ### Subtropical and Tropical N-Fixers

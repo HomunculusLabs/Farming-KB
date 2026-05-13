@@ -10,10 +10,7 @@ type: concept
 
 # Garden Ponds and Aquatic Plants
 
-A garden pond is a valuable asset in any [[comparison-vermicomposting-vs-composting-organic-garden]]. It provides
-drinking water for birds and small mammals, a home for many aquatic
-animals, and enables the gardener to grow a much wider range of plants.
-Frogs and toads, which are voracious predators of [[query-how-to-get-rid-of-slugs-and-snails-organically]], are
+A garden pond is a valuable asset in any [[query-how-to-get-rid-of-slugs-and-snails-organically]], are
 especially attracted to ponds and should be actively encouraged.
 
 ## Locating the Pond
@@ -68,21 +65,7 @@ These plants root at the bottom of the pond with leaves floating on the
 surface. Water lilies (Nymphaea) are the most well-known and are both
 decorative and useful for reducing algae growth. Other deep-water plants
 include water hawthorn (Aponogeton distachyum), water violet (Hottonia
-palustris), and water crowfoot ([[ranunculus-aquatilis]]).
-
-### Floating Plants
-
-Floating plants reduce the sunlight reaching the water surface, which
-helps control algae. Examples include water hyacinth (Eichornia crassipes)
-and water chestnut (Trapa natans). Add approximately one floating plant
-per square yard/metre of water surface.
-
-### Submerged Oxygenating Plants
-
-While not decorative, these are essential to pond health because they
-aerate the water. Suitable species include spiked water milfoil
-([[myriophyllum-spicatum]]), Canadian pondweed ([[elodea-canadensis]]), and curly
-pondweed ([[potamogeton-crispus]]). Plant one bunch per 2 square yards/metres
+palustris), and water crowfoot ([[myriophyllum-spicatum]]), Canadian pondweed ([[potamogeton-crispus]]). Plant one bunch per 2 square yards/metres
 of water in spring.
 
 ### Marginal Plants
@@ -118,8 +101,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[composting]]
 - [[vermicomposting]]
-- [[trapa-natans]]
 - [[hamilton-garden-fencing-and-boundaries]]
 - [[hamilton-garden-planning-and-site-assessment]]

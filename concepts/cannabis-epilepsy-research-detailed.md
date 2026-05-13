@@ -9,25 +9,7 @@ sources: [ben-lemon-cannabis-alchemy.md]
 
 # Cannabis and Epilepsy Research
 
-**Source:** The [[blesching-cannabis-health-index-autoimmune-conditions]] (Uwe Blesching, 2017)
-
-**Last Updated:** 2026-04-18
-
-## Overview
-
-Status epilepticus (SE) is a potentially life-threatening condition involving continuous seizure activity lasting longer than five minutes, or multiple seizures without regaining consciousness. It involves the brain and entire nervous system in a state of excessive nerve cell activity. Causes include nerve toxins, hypoglycemia, high fevers, trauma, tumors, metabolic imbalances, alcohol withdrawal, and hereditary diseases.
-
-## Evidence-Based Summary
-
-**CHI Value: 13 (5 studies reviewed)**
-
-### Key Findings
-
-- **CBD anticonvulsant properties (2009, University of Reading, UK):** CBD at 100 mg/kg produced significant reduction in frequency of spasms and overall mortality in mice given pentylentetrazol (a seizure-inducing chemical), confirming earlier anticonvulsant findings.
-
-- **Anandamide deficiency in epilepsy (2009, Rome, Italy):** Significantly lower anandamide levels found in epilepsy patients' cerebrospinal fluid compared to healthy controls, suggesting anandamide presence or absence may play a part in epilepsy.
-
-- **CB1 receptor redistribution (2009, Virginia Commonwealth University):** Chemically induced SE caused redistribution of [[cannabis-cannabinoid-receptor-pharmacology]] sites (CB1) in the hippocampus, suggesting a role for endocannabinoid system dysregulation during epileptogenesis.
+**Source:** The [[cannabis-cannabinoid-receptor-pharmacology]] sites (CB1) in the hippocampus, suggesting a role for endocannabinoid system dysregulation during epileptogenesis.
 
 - **CBD in pediatric patients (2005, Leiden/Rome):** 18 children with epileptic seizures who failed traditional pharmaceutical anti-seizure medications received CBD oil. All patients responded positively. "No side effects of such severity were observed as to require CBD discontinuation; in most, improvement of crises equal to or higher than 25% was obtained; in all, clear improvement of consciousness and spasticity was observed."
 
@@ -39,25 +21,9 @@ Relevant cannabinoids include CBD, anandamide, and THC. Anandamide and THC bind 
 
 ## Pharmacological Mechanisms
 
-The [[cannabis-cbd-therapeutic-profile]].
+The [[mushroom-cancer-clinical-trials-overview]] have ranged from 5 mg/kg/day to 50 mg/kg/day (Epidiolex), with most patients responding to 10-25 mg/kg/day. For a 50 kg patient, this translates to 500-1,250 mg/day of CBD -- significantly higher than typical wellness doses.
 
-The CB1 receptor redistribution observed during status epilepticus (VCU, 2009) suggests the brain attempts to mobilize its endocannabinoid defense during seizures but may become overwhelmed, providing a rationale for exogenous cannabinoid supplementation.
-
-## Clinical Evidence
-
-The CHI Value of 13 across 5 studies represents one of the stronger evidence bases in the cannabis research literature. The pediatric CBD study (2005, Leiden/Rome) is particularly notable: 18 children with treatment-resistant epilepsy all showed positive responses to CBD oil, with improvements in seizure frequency, consciousness, and spasticity. The THC pediatric study (2003, Germany) also reported positive outcomes, though the sample was small (8 patients).
-
-These findings have been substantially validated by subsequent large-scale trials. The landmark GW Pharmaceuticals trials of purified CBD (Epidiolex) demonstrated significant seizure reduction in Dravet syndrome and Lennox-Gastaut syndrome, leading to FDA approval in 2018 -- the first cannabis-derived medication approved in the US.
-
-Limitations of the CHI-reviewed studies include small sample sizes, open-label designs (no placebo control in several studies), and heterogeneous patient populations. The CBD doses used in the pediatric studies varied widely, making optimal dosing difficult to determine. Long-term safety data for pediatric cannabinoid use remains limited, though the Epidiolex trials provide reassuring short-to-medium-term safety profiles.
-
-## Dosing Considerations
-
-Epilepsy dosing is highly individualized and should be managed by experienced healthcare providers. CBD doses used in [[mushroom-cancer-clinical-trials-overview]] have ranged from 5 mg/kg/day to 50 mg/kg/day (Epidiolex), with most patients responding to 10-25 mg/kg/day. For a 50 kg patient, this translates to 500-1,250 mg/day of CBD -- significantly higher than typical wellness doses.
-
-For adjunctive use alongside standard anti-epileptic drugs (AEDs), starting doses of 5-10 mg/kg/day with gradual titration every 1-2 weeks is standard practice. CBD should be introduced slowly to monitor for [[cannabis-drug-interactions-and-contraindications]] and side effects. Blood levels of concomitant AEDs (especially clobazam, valproate) should be monitored, as CBD can alter their metabolism.
-
-Sublingual tinctures or oil preparations are the most common [[cannabis-terpene-entourage-effect-profiles]], though standardized purified CBD (Epidiolex) has the strongest clinical evidence.
+For adjunctive use alongside standard anti-epileptic drugs (AEDs), starting doses of 5-10 mg/kg/day with gradual titration every 1-2 weeks is standard practice. CBD should be introduced slowly to monitor for [[cannabis-terpene-entourage-effect-profiles]], though standardized purified CBD (Epidiolex) has the strongest clinical evidence.
 
 For pediatric patients, THC content should be minimized or eliminated. CBD-dominant preparations with THC below 0.3% are generally recommended. Some clinicians report that trace amounts of THC (1-2 mg per dose) may enhance CBD's anticonvulsant effects through synergistic mechanisms.
 
@@ -77,10 +43,7 @@ Seizure activity has been associated with religious vision and hyperreligiosity 
 
 ## See Also
 
-- [[cannabis-schizophrenia-research-detailed]]
-
 - [[cannabis-and-epilepsy]]
-- [[cannabis-health-index]]
 - [[cannabis-cannabinoid-receptor-pharmacology]]
 
 ## Practical Applications
@@ -112,8 +75,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[cannabis-and-epilepsy-research]]
 - [[cannabis-and-epilepsy]]
-- [[doc]]
 - [[uwe-blesching]]
 - [[dom]]

@@ -30,7 +30,7 @@ Nature composts in at least three ways:
 
 ## The Remarkable Root System of Cereal Rye
 
-Cereal rye (Secale cereale) exemplifies the extraordinary below-ground
+Cereal rye ([[secale-cereale]]) exemplifies the extraordinary below-ground
 productivity that makes root-based composting so significant. In good soil,
 a single rye plant grows:
 
@@ -56,7 +56,7 @@ mass remains in the soil to decompose. This provides several benefits:
 **Nutrient cycling:**
 - Deep-rooted crops mine minerals from subsoil layers
 - Upon decay, these minerals become available in the root zone
-- Root exudates feed soil microorganisms throughout the soil profile
+- [[root-exudates]] feed soil microorganisms throughout the soil profile
 
 **Carbon sequestration:**
 - Root carbon is more stable than surface-applied carbon
@@ -117,8 +117,6 @@ be more easily lost from the soil system than nutrients stabilized in humus.
 
 ## See Also
 
-- [[jeavons-compost-functions-soil-building]]
 - [[jeavons-humus-and-soil-microbiology]]
-- [[jeavons-carbon-farming]]
 - [[jeavons-double-digging-bed-preparation]]
 - [[jeavons-composting-methods]]

@@ -1,7 +1,6 @@
 ---
 title: "Greenhouse Covering Materials: A Comparative Analysis"
-author: "[[eliot-coleman]]"
-source: "The [[coleman-claytonia-winter-harvest-cultivation]] Handbook, Chelsea Green, 2009"
+author: "coleman-claytonia-winter-harvest-cultivation Handbook, Chelsea Green, 2009"
 tags:
   - winter-harvest
   - greenhouse
@@ -16,44 +15,8 @@ tags:
 ## Overview
 
 The choice of covering material is one of the most consequential decisions in
-a [[cold-house-winter-harvest-system]] system. Unlike heated greenhouses where insulation value is
-paramount, the unheated [[coleman-aphid-management-winter-greenhouse-nitrogen-flushing]] is fundamentally a "sun-run" system
-— its productivity depends on maximizing [[fukuoka-textdoc-three-dimensional-solar-energy-methodless-method]] gain during the day
-rather than on retaining heat at night. This distinction profoundly shapes
-the evaluation of every covering material. Coleman's decades of systematic
-trialing have produced clear, sometimes surprising conclusions about which
-materials work and why.
-
-## Single vs. Double-Layer Plastic Greenhouse Covering
-
-The standard commercial greenhouse covering is a single layer of polyethylene
-plastic film. In the winter harvest system, Coleman has tested both single
-and double layers extensively. A double layer, inflated with a small blower
-to maintain an air gap between the sheets, provides approximately 4°F of
-additional nighttime warmth compared to a single layer. However, this comes
-at a significant cost: the double layer reduces light transmission by roughly
-10%. In a sun-run system where every photon of winter sunlight matters, this
-tradeoff requires careful consideration.
-
-## Anti-Drip Coatings and Reflective Film Formation
-
-Many modern greenhouse plastics come with anti-drip (condensation control)
-coatings designed to prevent water from beading on the inner surface. While
-these coatings are beneficial in humid, warm greenhouses, Coleman has observed
-that in the cold winter environment, they can form thin, continuous films of
-water that are actually reflective. This unintended consequence redirects
-valuable light away from the crops below, reducing the very solar gain that
-the system depends upon. The lesson is that materials optimized for heated
-greenhouse conditions may perform poorly in unheated winter applications.
-
-## Spun-Bonded Row Covers: Lightweight vs. Heavyweight
-
-Row covers — spun-bonded polyester or polypropylene fabrics draped directly
-over the crops — form the critical inner layer of protection in Coleman's
-system. They come in a range of weights:
-
-- **Lightweight row covers** (approximately 0.5 oz/sq yd) transmit 85-90%
-  of available light while providing meaningful [[cervantes-wind-protection-outdoor-cannabis]]. This is the
+a [[coleman-aphid-management-winter-greenhouse-nitrogen-flushing]] is fundamentally a "sun-run" system
+— its productivity depends on maximizing [[cervantes-wind-protection-outdoor-cannabis]]. This is the
   material Coleman recommends for the winter harvest system. It blocks enough
   wind to prevent desiccation without significantly reducing the solar energy
   that drives the daily freeze-thaw cycle.
@@ -85,7 +48,7 @@ as a point of thoroughness but does not recommend them as a standard choice.
 Coleman conducted trials with aluminized cloth — a reflective fabric designed
 to bounce long-wave radiation back toward the crop canopy. These trials showed
 a modest 3°F improvement in nighttime temperatures. However, no corresponding
-improvement in [[microbial-terroir-endophyte-crop-quality-influence]] or [[soil-temperature-plant-growth-rate-doubling-rule]] was observed. The material also
+improvement in [[soil-temperature-plant-growth-rate-doubling-rule]] was observed. The material also
 introduced practical difficulties: it is heavier, harder to manage, and
 expensive. The conclusion was that the small thermal benefit did not translate
 
@@ -118,8 +81,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[doc]]
 - [[dom]]
-- [[coleman-cool-greenhouse-vs-cold-greenhouse-temperature-comparison]]
 - [[comparison-mycelium-materials-vs-bioplastics-pla-pha]]
 - [[oyster-mushroom-substrate-materials-worldwide-survey-comparison]]

@@ -66,20 +66,14 @@ Buds are medium to large, dense, and tightly structured with a classic indica
 morphology. The calyxes are chunky and heavily coated in trichomes, giving the
 flowers a frosted, almost sugary appearance.
 
-Colors range from deep [[trichoderma-forest-green-mold-guide]] to shades of lavender and purple,
-particularly in the later stages of flowering when exposed to cooler nighttime
-temperatures. Bright orange pistils contrast sharply against the darker foliage.
-
-Trichome coverage is exceptionally heavy, with large, bulbous glandular
-trichomes visible across all surfaces. The [[cannabis-glandular-trichome-types-resin-production-clarke]] makes Georgia Pie
+Colors range from deep [[cannabis-glandular-trichome-types-resin-production-clarke]] makes Georgia Pie
 attractive for hash and concentrate extraction.
 
 ## Aroma and Flavor
 
 The aroma is the strain's signature trait — an intensely sweet, fruity bouquet
 evocative of fresh-baked peach or cherry pie with a graham cracker crust
-undertone. Notes of ripe [[holzer-stone-fruit-varieties-and-growing]], berry, and vanilla are present on the
-[[holmgren-permaculture-front-end-design-vs-back-end-problem-solving]].
+undertone. Notes of ripe [[holmgren-permaculture-front-end-design-vs-back-end-problem-solving]].
 
 Secondary aromas include earthy, doughy, and slightly skunky undertones from the
 GSC lineage. The combination creates a complex dessert-like profile that is
@@ -87,7 +81,5 @@ immediately recognizable.
 
 On inhalation, the flavor mirrors the aroma — sweet and fruity with a creamy,
 biscuit-like finish. Exhale brings out more of the earthy, herbal notes with
-subtle peppery spice from [[limonene|limonene]]**, and
-**linalool**, with supporting contributions from **[[girl-scout-cookies]]
-- [[kush-mints]]
+subtle peppery spice from [[girl-scout-cookies]]
 - [[ice-cream-cake-cannabis]]

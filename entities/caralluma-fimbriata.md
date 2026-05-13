@@ -29,7 +29,7 @@ In rural India, Caralluma fimbriata has been used for centuries as a portable fo
 
 Phytochemical research has identified pregnane glycosides as the primary bioactive constituents, including carumbellosides and fimbriatins, which are structurally related to the appetite-suppressing compounds found in Hoodia species. Several clinical studies have investigated its potential for weight management.
 
-Caralluma fimbriata holds official recognition in India as a famine food and [[vegetable-crop-demand-classification-fertility-matching-solomon]]. It is included in the Indian Council of Medical Research database of underutilized edible plants and has received Generally Recognized as Safe status from the [[dmt-containing-plants-united-states-halpern]] Food and Drug Administration.
+Caralluma fimbriata holds official recognition in India as a famine food and [[dmt-containing-plants-united-states-halpern]] Food and Drug Administration.
 
 ## Taxonomy
 
@@ -55,25 +55,9 @@ Stem color is grayish-green to olive-green, often with a purplish or reddish tin
 
 Leaves are reduced to minute, caducous scales at the base of the teeth, quickly shed after emergence. Photosynthesis occurs primarily through the stem cortex, which contains chlorenchyma cells.
 
-The stem cortex is differentiated into an outer palisade-like layer of chlorenchyma and an inner water-storage parenchyma. This arrangement allows simultaneous photosynthesis and water storage, an efficient adaptation for [[fungal-diversity-arid-environments]].
+The stem cortex is differentiated into an outer palisade-like layer of chlorenchyma and an inner water-storage parenchyma. This arrangement allows simultaneous photosynthesis and water storage, an efficient adaptation for [[biodiversity-fungal-genetic-diversity]] and the primary source of material used in traditional food and medicine.
 
-Flowers are borne in small clusters near the stem apices on short peduncles. Individual flowers measure one to two centimeters in diameter with five reflexed corolla lobes that are dark purple to maroon, often with lighter transverse markings.
-
-The corolla center forms a shallow cup surrounding the gynostegium. Flowers emit a strong, unpleasant odor of rotting meat or feces that attracts carrion flies. The pollinarium mechanism is typical of Asclepiadoideae, with paired pollinia transferred as units.
-
-The pollinia of Caralluma fimbriata are yellow and attached to translator arms approximately four millimeters long. Fly species in the families Calliphoridae and Sarcophagidae serve as primary pollinators, with peak visitation occurring during warm, humid morning conditions.
-
-## Distribution and Habitat
-
-Caralluma fimbriata is native to peninsular India, occurring in the states of Karnataka, Tamil Nadu, Andhra Pradesh, Maharashtra, Gujarat, and Rajasthan. Disjunct populations are reported from the Deccan Plateau and the Western Ghats foothills.
-
-The species also occurs in southern Pakistan and the Arabian Peninsula, particularly in Oman and Yemen. Indian populations are generally considered the center of [[biodiversity-fungal-genetic-diversity]] and the primary source of material used in traditional food and medicine.
-
-Populations in the Arabian Peninsula show morphological divergence from Indian material, including smaller stem diameter and more [[fukuoka-ideal-rice-plant-morphology-compact-growth-high-yield]] habit. These differences may reflect distinct ecotypes adapted to the hotter, drier conditions of the Arabian Desert.
-
-Caralluma fimbriata grows in arid and semi-arid habitats including dry deciduous scrub, rocky hillsides, degraded grassland, and roadside embankments. It is tolerant of poor, shallow soils and is frequently found in disturbed habitats including field margins and grazing lands.
-
-Annual rainfall in its native range varies from three hundred to eight hundred millimeters, concentrated during the monsoon season from June to September. The species enters dormancy during the dry season, shedding flowers and reducing [[arbuscule-isolation-metabolic-activity-assays]].
+Populations in the Arabian Peninsula show morphological divergence from Indian material, including smaller stem diameter and more [[arbuscule-isolation-metabolic-activity-assays]].
 
 Caralluma fimbriata is remarkably tolerant of degraded habitats and is often one of the first succulent species to colonize disturbed ground. This ecological resilience has allowed it to persist in areas where other native vegetation has been cleared for agriculture.
 
@@ -85,6 +69,82 @@ During famine conditions, Caralluma stems served as an important emergency food 
 
 In Ayurvedic medicine, Caralluma fimbriata is classified as a tikta (bitter) and kashaya (astringent) herb. It is traditionally prescribed for diabetes, leucoderma, and as a general tonic. The plant is also used in Siddha medicine of Tamil Nadu for similar purposes.
 
-Ayurvedic practitioners recommend Caralluma fimbriata as a component of antidiabetic formulations, often combined with [[gymnema-sylvestre]] and [[tinospora-cordifolia]]. The traditional dose is five to ten grams of dried stem powder per day, divided into two administrations with meals.
+Ayurvedic practitioners recommend Caralluma fimbriata as a component of antidiabetic formulations, often combined with [[tinospora-cordifolia]]. The traditional dose is five to ten grams of dried stem powder per day, divided into two administrations with meals.
 
 The Kani and Paliyan tribal communities of southern India prepare Caralluma fimbriata as a cooked vegetable mixed with tamarind and turmeric. This preparation reduces the inherent bitterness while preserving the appetite-suppressing and blood-sugar-lowering properties.
+
+## Overview
+
+Caralluma Fimbriata represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish caralluma fimbriata
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving caralluma extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Caralluma Fimbriata finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for caralluma fimbriata. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+caralluma fimbriata and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Caralluma Fimbriata has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of caralluma fimbriata into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.

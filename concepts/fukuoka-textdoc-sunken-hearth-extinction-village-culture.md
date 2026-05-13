@@ -1,7 +1,7 @@
 ---
 title: The Sunken Hearth and the Extinction of Village Culture
 source: administrator-microsoft-word-fukuoka-textdoc.md
-author: [[masanobu-fukuoka]]
+author: masanobu-fukuoka
 tags: [natural-farming, japan, village-culture, modernization, irori, philosophy, mu, tradition, mechanization]
 date: 2026-05-11
 updated: 2026-05-11
@@ -10,7 +10,7 @@ type: concept
 
 # The Sunken Hearth and the Extinction of Village Culture
 
-Masanobu Fukuoka's account of the disappearance of traditional Japanese
+[[masanobu-fukuoka]]'s account of the disappearance of traditional Japanese
 farming village culture is one of the most poignant passages in *The
 Natural Way of Farming*. It describes not merely a technological shift but
 the extinguishing of an entire philosophical worldview — one centered on
@@ -130,11 +130,11 @@ reflection. Without shared reflection, the philosophy of Mu dissolved.
 
 ## Connections
 
-- [[fukuoka-textdoc-traditional-farmer-philosophy-mu-nothingness]] —
-  detailed treatment of Mu philosophy in the farming village
 - [[fukuoka-textdoc-postwar-farm-labor-appropriated-urban-prosperity]] —
   the economic dimension of the same transformation
-- [[fukuoka-textdoc-critique-mechanization-agriculture]] — broader
-  critique of agricultural mechanization
 - [[fukuoka-textdoc-three-stages-of-human-collapse-and-natural-farming-future]]
   — the civilizational arc from village culture to collapse
+
+## See Also
+
+- [[fukuoka-sunken-hearth-and-village-philosophy]]

@@ -25,11 +25,7 @@ sources:
 
 ## Overview
 
-The mangosteen (*[[garcinia-mangostana]]* L.) is a tropical evergreen tree native to the Malay Archipelago and the Sunda Islands. Widely regarded as one of the finest tropical fruits in the world, it is often called the "queen of fruits" in Southeast Asia — a title that complements the durian's unofficial designation as the "king of fruits." The fruit features a thick, smooth, dark purple rind enclosing segments of soft, translucent white flesh with a delicate, sweet-tart flavor that has been described as a blend of lychee, peach, and strawberry.
-
-Mangosteen belongs to the Clusiaceae (Garcinia) family and is closely related to other edible Garcinia species including the mangosteen's lesser-known relatives like the button mangosteen (*Garcinia prainiana*) and the charichuelo (*Garcinia madruno*). The tree is strictly tropical in its requirements and has proven notoriously difficult to cultivate outside its native climatic envelope, which has contributed to both its mystique and its premium pricing in international markets.
-
-Despite its reputation for difficulty, mangosteen cultivation has expanded in recent decades to parts of [[guzman-allen-gartz-neurotropic-fungi-caribbean-central-america]], northern South America, northern Australia, and limited areas of southern Florida and Hawaii. The global market for mangosteen products — particularly as a "superfruit" in juice and supplement form — has driven significant interest in commercial plantation development.
+The mangosteen (*[[guzman-allen-gartz-neurotropic-fungi-caribbean-central-america]], northern South America, northern Australia, and limited areas of southern Florida and Hawaii. The global market for mangosteen products — particularly as a "superfruit" in juice and supplement form — has driven significant interest in commercial plantation development.
 
 ## Botanical Description
 
@@ -89,12 +85,7 @@ Mangosteen thrives in full sun to partial shade. Young trees benefit from partia
 
 ### Propagation
 
-Mangosteen is almost exclusively propagated by seed, as [[hamilton-vegetative-propagation]] has historically been very difficult:
-
-- **Seed propagation**: Seeds must be planted fresh — ideally within 3–5 days of extraction from the fruit. Viability drops dramatically after 1 week. Seeds are planted 2–3 cm deep in nursery bags or beds. Germination occurs in 14–21 days under warm, moist conditions. Seedlings reach transplanting size in 1–2 years.
-- **Vegetative propagation**: Grafting, budding, and cuttings have been attempted with limited success. Recent advances in approach grafting and epicotyl grafting in Thailand and Malaysia have achieved reasonable success rates (40–70%), offering hope for clonal propagation of superior selections.
-- **Tissue culture**: Micropropagation through tissue culture has been explored but remains experimental and not commercially viable at scale.
-- **Apomictic nature**: Because mangosteen is largely apomictic, seed-grown trees are genetically identical to the parent, which somewhat reduces the urgency of developing [[vegetative-propagation-methods-mollison]].
+Mangosteen is almost exclusively propagated by seed, as [[vegetative-propagation-methods-mollison]].
 
 ### Planting
 
@@ -131,19 +122,10 @@ Mangosteen is relatively pest-resistant compared to many tropical fruits, but se
 
 **Insect Pests:**
 - **Mangosteen fruit borer** (*Curculio sp.*): Larvae bore into developing fruit, causing premature drop and internal damage. Monitor from flowering through fruit development.
-- **Leaf-eating caterpillars**: Various species can defoliate young trees. Hand-picking or biological controls ([[bacillus-thuringiensis]]) are usually sufficient.
-- **Thrips and aphids**: Can cause leaf curling and transmit viral diseases. Neem oil or insecticidal soap can provide control.
-- **Scale insects**: Occasionally attack branches and fruit. Horticultural oil is effective.
-- **Ants**: Often farm sap-sucking insects and should be controlled to reduce secondary pest pressure.
-
-**Diseases:**
-- **Gamboge disorder**: A physiological disorder causing latex-like yellow exudation on the rind and flesh. Caused by fluctuating soil moisture (especially dry periods followed by heavy rain) and boron deficiency. Maintain consistent soil moisture and apply boron supplements.
-- **Stem canker** (*Botryosphaeria* spp.): Causes cankers on branches and trunk. Remove affected branches and apply copper-based fungicides.
-- **Anthracnose** (*[[colletotrichum-gloeosporioides]]*): Affects leaves, flowers, and fruit. Promoted by high humidity and poor air circulation. Improve canopy ventilation and apply copper sprays during wet periods.
+- **Leaf-eating caterpillars**: Various species can defoliate young trees. Hand-picking or biological controls ([[colletotrichum-gloeosporioides]]*): Affects leaves, flowers, and fruit. Promoted by high humidity and poor air circulation. Improve canopy ventilation and apply copper sprays during wet periods.
 - **Root rot** (*Phytophthora* spp.): Lethal disease favored by waterlogged soils. Ensure excellent drainage and avoid over-irrigation.
 - **Thread blight** (*Corticium* spp.): Causes webbing on branches and leaf drop. Prune affected branches and improve air circulation.
 ## See Also
 
-- [[query-how-to-make-and-use-plant-based-foliar-sprays-for-pest-and-disease-prevention]]
 - [[query-how-does-cover-cropping-benefit-soil-and-when-should-i-plant-them]]
 - [[fukuoka-textdoc-fruit-tree-pest-disease-management]]

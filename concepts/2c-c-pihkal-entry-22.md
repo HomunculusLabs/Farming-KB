@@ -13,85 +13,21 @@ tags: [phenethylamine, shulgin]
 
 ## Overview
 
-2C-C is a member of the [[2c-d-pihkal-entry-23]] and 2C-I, but offers a distinctive profile characterized by sensual warmth, mild visuals, and a paradoxically sedating yet sleep-preventing quality at higher doses.
-
-## Chemical Information
-
-- Chemical name: 2,5-Dimethoxy-4-chlorophenethylamine
-- CAS: 88441-14-9
-- Molecular formula: C10H14ClNO2
-- Molecular weight: 215.68 g/mol
-- Class: 2C family phenethylamine (2,5-dimethoxy-4-substituted)
-- The chlorine analog of [[2c-d-pihkal-entry-23]], taking 1.5 to 2 hours to fully manifest. The experience is longer-lived than 2C-B with a slight metallic overtone. Effects are mild but pleasant.
+2C-C is a member of the [[2c-d-pihkal-entry-23]], taking 1.5 to 2 hours to fully manifest. The experience is longer-lived than 2C-B with a slight metallic overtone. Effects are mild but pleasant.
 
 ### 24 mg
 Produces a "moderately high and thoroughly favorable place" lasting several hours. The quality is distinctly sensual without excessive visual distraction. Users describe a warm, comfortable body state with pleasant sensory enhancement.
 
 ### 40 mg
-Significant visual effects appear. Interestingly, the compound shows less stimulation than [[2c-family-chemistry-and-sar-pihkal]] halogen series, potency decreases with decreasing atomic weight:
-
-| Compound | 4-Substituent | Potency | Exploration Level |
-|----------|--------------|---------|-------------------|
-| 2C-I | Iodine | Highest | Moderate |
-| 2C-B | Bromine | High | Extensive |
-| 2C-C | Chlorine | Moderate | Limited |
-| 2C-F | Fluorine | Lowest | Minimal |
-
-The corresponding amphetamine homologues follow the same pattern: DOI > DOB > DOC > DOF (unexplored). Chlorine is a gas and troublesome to handle (bromine is liquid, iodine is solid), which partly explains why 2C-C is less explored. Fluorine requires indirect procedures because it does not react in the usual halogen way and is dangerous to handle.
-
-### Related Unexplored Compounds
-
-- **2C-CN** (2,5-dimethoxy-4-cyanophenethylamine): Produced by treating 2C-B phthalimide with cuprous cyanide. Not evaluated in humans.
-- **2C-COOH** (2,5-dimethoxy-4-carboxyphenethylamine): Produced by hydrolysis of 2C-CN with hot strong base. Not evaluated in humans.
-
-## Synthesis Summary
-
-Two synthetic routes are described:
-
-**Route 1 (from 2C-H):** Direct chlorination of 2,5-dimethoxyphenethylamine free base in glacial acetic acid at 0 C with liquid chlorine. The chlorinated product is isolated via extraction, converted to HCl salt in IPA, yielding white crystals (mp 220-222 C).
-
-**Route 2 (from 2C-B):** 2C-B is converted to its phthalimide derivative, then treated with cuprous chloride in DMF to exchange bromine for chlorine via a Rosenmund-von Braun type reaction. The phthalimide is removed with hydrazine, and the free base distilled (bp 145-155 C at 0.05 mm/Hg) and converted to HCl salt (mp 220-221 C).
-
-## Comparison to Related Compounds
-
-- [[2c-d-pihkal-entry-23]]: 2C-D is milder still and longer-acting. Both compounds share a gentle quality, but 2C-C has more visual content.
+Significant visual effects appear. Interestingly, the compound shows less stimulation than [[2c-d-pihkal-entry-23]]: 2C-D is milder still and longer-acting. Both compounds share a gentle quality, but 2C-C has more visual content.
 - DOI: The amphetamine/iodine analog -- far more potent (1.5-3 mg), far longer-lasting, and more classically psychedelic.
 - [DOB: The amphetamine/bromine analog -- extremely potent (1-3 mg) and very long-acting (18-30 hours).
 - [DOM: The amphetamine/methyl analog -- active at 3-10 mg with 14-20 hour duration. DOM was the original "STP" that sparked the DOx family's notoriety.
 
 ## Harm Reduction Notes
 
-- Milligram-accurate scales essential. Dose range (20-50 mg) is wider than [[2c-d-pihkal-entry-23]].
-- Slow onset (1.5-2 hours) increases risk of re-dosing too early. Wait at least 2 hours before considering additional dose.
-- Despite feeling sedating, the compound prevents sleep at active doses. Plan for a full 8-hour experience.
-- IV administration (20 mg) was described as "overwhelming" -- this route is strongly discouraged outside clinical settings.
-- The [[ayahuasca-tourism-legal-status-by-country]] varies by jurisdiction.
-- See [[set-and-setting-framework]] applies to all phenethylamine psychedelics.
-
-## Practical Context
-2c C Pihkal Entry #22 Compound Profile is relevant to farming knowledge because it connects observation,
-site conditions, and management choices. Treat it as a working topic rather
-than a standalone label: the useful questions are where it appears, what
-conditions make it stronger or weaker, and how it changes decisions in the
-field.
-
-## Field Indicators
-Look for repeated patterns across seasons instead of relying on a single
-observation. Useful indicators include substrate or soil condition, moisture
-availability, disturbance history, plant or fungal associates, and the timing
-of visible changes. Recording these factors makes the page easier to connect
-to local trials and future notes.
-
-## Management Relevance
-In a production or homestead setting, the topic matters when it affects yield,
-resilience, ecological function, safety, or maintenance labor. Decisions should
-be scaled to the site: small trials, careful monitoring, and comparison against
-an untreated area are usually more reliable than immediate whole-system
-changes.
-
-## Related Topics
-- [[psychedelic-dose-response]]
-- [[deep-relaxation-and-mind-body-healing]]
+- Milligram-accurate scales essential. Dose range (20-50 mg) is wider than [[ayahuasca-tourism-legal-status-by-country]] varies by jurisdiction.
+- See [[psychedelic-dose-response]]
 - [[psychedelic-harm-reduction-philosophy]]
 
 ## Practical Applications
@@ -101,36 +37,93 @@ changes.
 The development and understanding of 2c c pihkal entry 22 has evolved considerably over recent decades, with contributions from researchers, practitioners, and indigenous knowledge systems worldwide.
 
 ## See Also
-- [[2c-t-4-pihkal-entry-41]]
 - [[2c-i-pihkal-entry-33]]
-- [[2c-e-pihkal-entry-24]]
 - [[aem-pihkal-entry-1]]
-- [[aleph-7-pihkal-entry-7]]
+- [[ayahuasca]]
+- [[dom]]
+- [[pihkal-entry-46]]
 
-## Key Considerations
+## Overview
 
-Several important factors influence the effectiveness and outcomes described
-in this topic. Understanding these considerations helps practitioners make
-informed decisions and avoid common pitfalls. Environmental conditions,
-timing, and material selection all play critical roles.
+2C C Pihkal Entry 22 represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish 2c c pihkal entry 22
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving 2c extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+2C C Pihkal Entry 22 finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for 2c c pihkal entry 22. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+2c c pihkal entry 22 and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
 
 ## Historical Context
 
-The historical development of this subject reflects centuries of accumulated
-knowledge and practical experience. From traditional methods passed down
-through generations to modern scientific approaches, the evolution continues
-to inform current best practices and research directions.
+2C C Pihkal Entry 22 has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
 
-## Common Challenges
+## Integration Strategies
 
-Practitioners frequently encounter several challenges when working with
-these concepts. Climate variability, resource limitations, and knowledge
-gaps can all affect outcomes. Addressing these challenges requires patience,
-observation, and a willingness to adapt approaches based on results.
+Successful integration of 2c c pihkal entry 22 into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
 
 ## See Also
-- [[ayahuasca]]
-- [[doc]]
-- [[dom]]
-- [[bis-tom-pihkal-entry-12]]
-- [[pihkal-entry-46]]
+
+- [[4-t-tris-entity-pihkal]]
+- [[doc-pihkal-64]]
+- [[dopr-entity-pihkal]]
+- [[methyl-dob-entity-pihkal]]
+- [[te-entity-pihkal]]

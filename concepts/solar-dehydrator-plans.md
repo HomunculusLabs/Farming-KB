@@ -1,5 +1,5 @@
 ---
-title: Solar Dehydrator Plans
+title: [[comparison-solar-dehydrator-vs-electric-dehydrator]] Plans
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
@@ -15,13 +15,13 @@ A [[query-how-to-build-and-use-a-solar-food-dehydrator]] uses the sun's energy t
 
 Solar dehydrators work on two fundamental principles:
 
-1. **Solar collection** — a dark-colored absorber plate captures solar radiation and converts it to heat
+1. **Solar collection** — a dark-colored absorber plate captures [[solar-radiation-and-plant-light-responses]] converts it to heat
 2. **Convection** — warm air rises, creating a natural draft that pulls cool air in at the bottom, passes it over the heated absorber plate, and exhausts warm moist air out the top
 
 The key design variables are:
-- **Collector area** — determines how much [[fukuoka-textdoc-three-dimensional-solar-energy-methodless-method]] is captured. Larger area = higher temperatures and faster drying.
+- **Collector area** — determines how much solar energy is captured. Larger area = higher temperatures and faster drying.
 - **Airflow path** — must be smooth and unrestricted. Any bottleneck reduces performance.
-- **Insulation** — reduces heat loss, especially on cloudy days and in [[greenhouse-cool-climates-mollison]].
+- **Insulation** — reduces heat loss, especially on cloudy days and in cool climates.
 - **Vents** — inlet at the bottom (cool air), outlet at the top (warm moist air). Adjustable vents allow [[hamilton-greenhouse-heating-and-temperature-control]].
 
 ## The Indirect Solar Dehydrator (Recommended Design)
@@ -96,7 +96,7 @@ Food is properly dried when it is leathery and pliable (fruits), brittle and cri
 
 ## Storage
 
-Condition dried foods before storage: place in jars, seal, and shake daily for 7-10 days. If condensation appears inside the jar, the food needs more drying. Once conditioned, store in airtight containers in a cool, dark place. Properly dehydrated foods keep for 6-12 months. For longer storage, use oxygen absorbers in mason jars or vacuum seal bags. See [[emergency-preparedness]] for long-term food storage strategies.
+Condition dried foods before storage: place in jars, seal, and shake daily for 7-10 days. If condensation appears inside the jar, the food needs more drying. Once conditioned, store in airtight containers in a cool, dark place. Properly dehydrated foods keep for 6-12 months. For longer storage, use oxygen absorbers in mason jars or vacuum seal bags. See [[emergency-preparedness]] for long-term food [[yield-extension-and-storage-strategies]].
 
 ## Maintenance
 
@@ -107,22 +107,3 @@ Condition dried foods before storage: place in jars, seal, and shake daily for 7
 - Clean the absorber plate annually (wipe with a damp cloth)
 
 For other off-grid cooking and heating methods, see [[rocket-stove-design]] and [[cob-oven-construction]]. For long-term storage of your dehydrated goods, refer to [[emergency-preparedness]].
-
-## Practical Considerations
-Implementation requires careful attention to local conditions,
-available resources, and the specific goals of the practitioner.
-Documenting results and adapting approaches based on observed
-outcomes leads to continuous improvement over time.
-
-## Integration Strategies
-Combining multiple approaches often yields better results than
-relying on any single technique. Consider how this topic relates
-to broader system design and look for synergies between methods
-that can amplify overall effectiveness.
-
-## See Also
-- [[comparison-solar-dehydrator-vs-electric-dehydrator]]
-- [[solar-food-dehydrator-diy]]
-- [[comparison-solar-dehydrator-vs-root-cellar]]
-- [[query-how-to-build-and-use-a-solar-food-dehydrator]]
-- [[comparison-solar-cooking-vs-solar-dehydrating]]

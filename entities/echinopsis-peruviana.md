@@ -15,18 +15,13 @@ updated: 2026-04-28
 sources:
   - Schultes, R.E. & Hofmann, A. (1980). "The Botany and Chemistry of Hallucinogens." 2nd ed. Charles C. Thomas.
   - Anderson, E.F. (2001). "The Cactus Family." Timber Press.
-  - Trout, K. (2005). "Sacred Cacti: gottlieb-psychoactive-cacti-san-pedro-and-peruvian-torch, [[trichocereus-mescaline-cacti-san-pedro-peruvian-torch]], and Other Ethnogenic Trichocereus Species." Trout's Notes.
-  - Torres, C.M. & Repke, D.B. (2006). "Anadenanthera: Visionary Plant of Ancient [[guzman-psilocybin-mushrooms-south-america]]." Haworth Press.
+  - Trout, K. (2005). "Sacred Cacti: gottlieb-psychoactive-cacti-san-pedro-and-peruvian-torch, guzman-psilocybin-mushrooms-south-america." Haworth Press.
 created: 2026-04-28
 ---
 
 ## Overview
 
-**Echinopsis peruviana** (syn. *[[trichocereus-peruvianus]]*), commonly known as the **Peruvian torch cactus**, is a fast-growing columnar cactus native to the Andean slopes of Peru, Ecuador, and Bolivia.
-
-It is one of the principal mescaline-containing cacti used traditionally in Andean medicine and ceremony, alongside the closely related *[[echinopsis-pachanoi]]* ([[gottlieb-psychoactive-cacti-san-pedro-and-peruvian-torch]]).
-
-The species has gained significant popularity in global entheogenic and horticultural communities for its purportedly higher [[gottlieb-peyote-botany-and-mescaline-content]] compared to *E. pachanoi*.
+**Echinopsis peruviana** (syn. *[[echinopsis-pachanoi]]* ([[gottlieb-peyote-botany-and-mescaline-content]] compared to *E. pachanoi*.
 
 Peruvian torch has been used for over 3,000 years in pre-Columbian Andean cultures, with archaeological evidence of its ritual use dating to the Chavín civilization (circa 900–200 BCE).
 
@@ -87,3 +82,7 @@ The primary psychoactive constituent of *E. peruviana* is mescaline, a phenethyl
 Mescaline content is concentrated in the photosynthetic green outer layer (cortical tissue) of the stem, with the white inner pith containing negligible alkaloids.
 
 Reports of significantly higher mescaline content in *E. peruviana* compared to *E. pachanoi* have been inconsistent, with some analytical studies showing substantial overlap between the two species.
+
+## See Also
+
+- [[echinopsis-peruvianus]]

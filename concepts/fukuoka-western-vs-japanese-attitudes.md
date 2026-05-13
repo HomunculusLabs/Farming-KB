@@ -10,19 +10,7 @@ sources:
 ---
 # Western vs Japanese Attitudes Toward Natural Farming
 
-One of the most striking observations in [[natural-farming-fukuoka]]'s comparison of how Western and Japanese audiences receive his message. This comparison reveals fundamental differences in cultural approaches to [[fukuoka-road-do-nothing-farming]] -- blank slates -- willing to set aside preconceptions. Fukuoka observed that Americans and Europeans who visited his farm or attended his lectures often grasped the spiritual dimension of [[fukuoka-natural-farming-philosophy-of-mu]] as a philosophical or spiritual practice rather than a purely agricultural technique
-
-- There is less cultural investment in the specific methods of Japanese rice agriculture
-
-- Westerners may find in Fukuoka's message something their own tradition has lost -- a pre-industrial, pre-Enlightenment connection to land
-
-- The countercultural movements of the 1960s and 1970s in the West created an audience already receptive to critiques of industrial civilization
-
-- Western philosophical traditions, from Thoreau's Walden to Heidegger's questioning of technology, had prepared the ground for Fukuoka's ideas
-
-## The Japanese Response
-
-In sharp contrast, Japanese audiences immediately ask practical questions: "What is natural farming? How do I do it? What are the steps?" They seek technical instructions and [[fukuoka-road-do-nothing-farming]]
+One of the most striking observations in [[fukuoka-road-do-nothing-farming]] -- blank slates -- willing to set aside preconceptions. Fukuoka observed that Americans and Europeans who visited his farm or attended his lectures often grasped the spiritual dimension of [[fukuoka-road-do-nothing-farming]]
 
 - There may be a cultural defensiveness: Japanese farmers feel they already know how to farm
 
@@ -32,23 +20,15 @@ In sharp contrast, Japanese audiences immediately ask practical questions: "What
 
 Fukuoka's dilemma illustrates a classic paradox: how do you teach people to stop seeking knowledge when the very act of teaching transmits knowledge? The Westerner who accepts "abandon knowledge" has still learned something. The Japanese who asks for method has still received an answer.
 
-Fukuoka resolved this paradox pragmatically: he provided [[fukuoka-seed-ball-methods-advanced]] as provisional tools, hoping practitioners would eventually transcend them. He noted that Westerners were more likely to use the tools and then discard them, while Japanese practitioners tended to become attached to the tools themselves.
-
-This paradox is not unique to Fukuoka. It appears in Zen Buddhism (teaching non-attachment through practices that require attachment), in Taoism (writing the [[metzner-leary-bardo-thodol-and-tao-te-ching-adaptation]] about the unspeakable Tao), and in many other traditions that point toward a reality beyond concepts using conceptual means.
+Fukuoka resolved this paradox pragmatically: he provided [[metzner-leary-bardo-thodol-and-tao-te-ching-adaptation]] about the unspeakable Tao), and in many other traditions that point toward a reality beyond concepts using conceptual means.
 
 ## Implications for Natural Farming Spread
 
-This cultural difference has practical consequences for how [[fukuoka-natural-food-philosophy]] aspects resonated differently in food cultures with different relationships to processed food
-
-- Western adaptations of natural farming (such as permaculture) often incorporated Fukuoka's principles while departing from his anti-knowledge philosophy
-
-- In developing countries, Fukuoka's ideas were sometimes received as a form of [[mollison-designers-appropriate-technology-small-scale-tools]] -- simple, low-cost, locally adaptable -- which captured some of his intent while missing the philosophical dimension
+This cultural difference has practical consequences for how [[mollison-designers-appropriate-technology-small-scale-tools]] -- simple, low-cost, locally adaptable -- which captured some of his intent while missing the philosophical dimension
 
 ## Observations from Fukuoka's Travels
 
-During his [[fukuoka-european-travels-natural-farming]], he encountered both deep understanding and persistent misunderstanding
-
-- In Africa, the [[four-principles-of-natural-farming]] farming aligned well with traditional land management practices that colonial agriculture had disrupted
+During his [[four-principles-of-natural-farming]] farming aligned well with traditional land management practices that colonial agriculture had disrupted
 
 ## The Question of Cultural Translation
 
@@ -58,25 +38,9 @@ However, the different receptions in Japan and the West suggest that cultural co
 
 ## Contemporary Relevance
 
-The East-West comparison in Fukuoka's work remains relevant as interest in [[natural-farming-vs-scientific-agriculture]] regenerative agriculture grows globally:
-
-- The tension between method-seeking and philosophy-receiving continues in how natural farming is taught online
-
-- Different cultural contexts continue to shape the interpretation and application of Fukuoka's ideas
-
-- The question of whether natural farming is a technique or a way of life remains contested
-
-- Fukuoka's observation that beginners often understand better than experts has implications for agricultural education
-
-## See Also
-
-- [[fukuoka-western-cooking-taste-numbing-japanese-food-boom]]
-
-- [[fukuoka-natural-farming-philosophy]]
+The East-West comparison in Fukuoka's work remains relevant as interest in [[fukuoka-western-cooking-taste-numbing-japanese-food-boom]]
 
 - [[fukuoka-view-of-nature-and-human-hubris]]
-
-- [[natural-farming-and-spirituality]]
 
 - [[natural-farming-methods-comparison]]
 ## Practical Considerations
@@ -118,8 +82,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[permaculture]]
 - [[regenerative-agriculture]]
-- [[natural-farming]]
 - [[fukuoka-western-commitment-and-japanese-halfheartedness]]
 - [[fukuoka-western-cooking-taste-numbing-japanese-food-boom]]

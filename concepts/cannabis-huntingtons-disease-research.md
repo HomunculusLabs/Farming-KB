@@ -10,23 +10,7 @@ sources:
 
 # Cannabis and Huntington's Disease
 
-**Source:** The [[blesching-cannabis-health-index-autoimmune-conditions]] (Uwe Blesching, 2017)
-
-**Last Updated:** 2026-04-18
-
-## Overview
-
-Huntington's disease (HD) or Huntington's chorea is a degenerative genetic disease affecting the brain and nervous system, leading to loss of muscle control and dementia. A mutated form of the Huntington gene, found significantly more in Western Europeans, is responsible for disease development. One parent with the mutation confers a 50% chance of inheritance; if both parents carry a single pair mutation, risk increases to 75%.
-
-## Evidence-Based Summary
-
-**CHI Value: 10 (5 studies reviewed)**
-
-### Key Findings
-
-- **CBD (1986):** Three HD patients unresponsive to pharmaceuticals received oral CBD. After week one, 5-15% improvement; after week two, 20-40% improvement in objective and subjective tests. Mild transient hypotension was the only adverse effect.
-
-- **Sativex/THC+CBD (2011, Madrid):** Pre-clinical evidence that Sativex acts as a neuroprotective agent capable of delaying disease progression in HD. Researchers called for urgent [[mushroom-cancer-clinical-trials-overview]].
+**Source:** The [[mushroom-cancer-clinical-trials-overview]].
 
 - **Endocannabinoid system review (2011, Madrid):** Activation of CB2 receptors leads to slower neurodegeneration in both Parkinson's and HD. Cannabinoids with antioxidant properties and CB2 activation capability are promising therapeutic agents.
 
@@ -40,9 +24,7 @@ CBD has greater affinity for CB2 receptors. THC binds relatively equally to CB1 
 
 ## Pharmacological Mechanisms
 
-Huntington's disease involves progressive degeneration of striatal medium spiny neurons, and the [[cannabis-and-neuroprotection]] research.
-
-The combination of THC and CBD (as in Sativex) may offer complementary benefits: THC activates remaining CB1 receptors to modulate motor symptoms and reduce chorea, while CBD provides neuroprotection and anti-inflammatory effects. The [[cannabis-for-parkinsons-disease]] for related neurodegenerative disease research with similar cannabinoid mechanisms.
+Huntington's disease involves progressive degeneration of striatal medium spiny neurons, and the [[cannabis-for-parkinsons-disease]] for related neurodegenerative disease research with similar cannabinoid mechanisms.
 
 ## Dosing Considerations
 
@@ -62,9 +44,8 @@ THC may exacerbate psychiatric symptoms in HD patients, particularly depression,
 
 The progressive nature of HD means that dosing needs may change as the disease advances. Early-stage patients may benefit from neuroprotective strategies, while later-stage patients may prioritize symptom management (chorea reduction, sleep improvement, appetite stimulation). Caregiver involvement in dosing decisions is essential as cognitive decline progresses.
 
-CBD's [[cannabis-safety-profile-and-overdose-risk]] is well-established in the epilepsy literature (Epidiolex trials), providing reassurance for long-term use. Common side effects include somnolence, fatigue, and gastrointestinal symptoms. See [[blesching-cannabis-huntingtons-disease]]
+CBD's [[blesching-cannabis-huntingtons-disease]]
 
-- [[cannabis-for-parkinsons-disease]]
 - [[cannabis-cbd-therapeutic-profile]]
 
 ## Merged: Cannabis For Huntingtons Disease
@@ -118,8 +99,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[cannabis-health-index]]
 - [[doc]]
-- [[uwe-blesching]]
 - [[dom]]
 - [[enzyme-inhibition]]

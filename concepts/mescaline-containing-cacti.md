@@ -12,11 +12,8 @@ tags: [ethnobotany, mescaline, cacti, peyote, hallucinogens, psychopharmacology,
 
 Mescaline (3,4,5-trimethoxyphenethylamine) is a naturally occurring
 phenethylamine hallucinogen found in several cactus species. The most
-famous source is the peyote cactus ([[lophophora-williamsii]]), which has
-been used sacramentally by [[halpern-sacramental-peyote-and-native-american-church]] peoples for thousands of years.
-Other mescaline-containing cacti, including [[trichocereus-pachanoi]] (San
-Pedro) and [[trichocereus-peruvianus]] ([[trichocereus-mescaline-cacti-san-pedro-peruvian-torch-halpern]]), are widely available
-as ornamental plants throughout the [[dmt-containing-plants-united-states-halpern]] despite their psychoactive
+famous source is the peyote cactus ([[halpern-sacramental-peyote-and-native-american-church]] peoples for thousands of years.
+Other mescaline-containing cacti, including [[trichocereus-peruvianus]] ([[dmt-containing-plants-united-states-halpern]] despite their psychoactive
 properties.
 
 ## Peyote (Lophophora williamsii)
@@ -54,10 +51,7 @@ teaspoons to considerably more.
 
 Peyote is most commonly consumed as a sacrament in the all-night ceremonies
 of the Native American Church (NAC), which has approximately 300,000 members
-in the [[dmt-maoi-plants-united-states]] and Canada. The NAC is pan-tribal and the largest faith
-of Native Americans. Members are prohibited from using all drugs and alcohol
-except peyote. Ceremonies are typically held on Saturdays and holidays in a
-tipi or traditional structure, led by a priest ("[[fukuoka-road-man-does-not-live-by-bread-alone]]") with prayer
+in the [[fukuoka-road-man-does-not-live-by-bread-alone]]") with prayer
 throughout the night. Morning prayers are followed by blessed food and a
 communal feast. Attendance averages monthly, ranging from weekly to annually.
 

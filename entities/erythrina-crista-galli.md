@@ -21,7 +21,7 @@ sources:
 
 **Erythrina crista-galli** L., commonly known as the **cockspur coral tree**, **ceibo**, or **coral tree**, is a deciduous tree in the family Fabaceae. It is the national tree and flower of Argentina and Uruguay.
 
-The species is renowned for its spectacular scarlet-red flowers, which appear in dense terminal racemes before the leaves emerge. The vibrant blooms make it one of the most recognizable [[hamilton-ornamental-trees]] in subtropical and warm [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]].
+The species is renowned for its spectacular scarlet-red flowers, which appear in dense terminal racemes before the leaves emerge. The vibrant blooms make it one of the most recognizable [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]].
 
 It belongs to a genus of approximately 130 species, many of which share the characteristic bright red, hummingbird-pollinated flowers. The genus name derives from Greek *erythros* (red).
 
@@ -58,11 +58,7 @@ Pods dehisce explosively when dry, scattering seeds several meters from the pare
 
 ## Distribution and Habitat
 
-*Erythrina crista-galli* is native to southern [[guzman-psilocybin-mushrooms-south-america]], including Argentina, Uruguay, southern Brazil, Paraguay, and Bolivia. It is one of the most cold-tolerant species in the genus.
-
-It grows along riverbanks, in seasonally flooded areas, and in disturbed habitats. It is common in the humid pampas and along the Río de la Plata basin.
-
-The species is a characteristic component of [[mollison-designers-gallery-forests-and-valley-bottomland-systems]] and riparian woodland communities. It often forms pure stands on seasonally inundated river margins.
+*Erythrina crista-galli* is native to southern [[mollison-designers-gallery-forests-and-valley-bottomland-systems]] and riparian woodland communities. It often forms pure stands on seasonally inundated river margins.
 
 The species tolerates a range of conditions from subtropical to warm temperate. It can withstand brief freezes to approximately -7°C, making it suitable for cultivation in Mediterranean climates.
 
@@ -78,12 +74,76 @@ Butterflies and bees also visit the flowers, though hummingbirds are the primary
 
 The seeds are toxic, containing alkaloids similar to those found in other *Erythrina* species. Despite this, they are dispersed by water (hydrochory) in riparian habitats.
 
-In agroforestry, the species is planted as [[query-how-do-i-design-and-plant-a-living-fence]] post, [[mollison-designers-legume-shade-tree-pasture-systems]], and windbreak. Its rapid growth and coppicing ability make it useful for [[dighton-fungal-biomass-production-aquatic-ecosystems]].
-
-## Cultivation and Uses
-
-**Propagation:** Seeds germinate readily after soaking in water for 24 hours. Hardwood cuttings (1–2 m long) are also commonly used and root easily.
-
-**[[soil-temperature-plant-growth-rate-doubling-rule]]:** Fast, with height increments of 1–2 m per year under favorable conditions. Trees flower from seed in 3–5 years.
+In agroforestry, the species is planted as [[mollison-designers-legume-shade-tree-pasture-systems]], and windbreak. Its rapid growth and coppicing ability make it useful for [[soil-temperature-plant-growth-rate-doubling-rule]]:** Fast, with height increments of 1–2 m per year under favorable conditions. Trees flower from seed in 3–5 years.
 
 **Ornamental use:** Widely planted as an ornamental tree in subtropical and warm temperate gardens, parks, and street plantings. The spectacular red flower display is its primary horticultural asset.
+
+## Overview
+
+Erythrina Crista Galli represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish erythrina crista galli
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving erythrina extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Erythrina Crista Galli finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for erythrina crista galli. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+erythrina crista galli and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Erythrina Crista Galli has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of erythrina crista galli into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.

@@ -1,7 +1,7 @@
 ---
 title: cuthill-mushroom-spawn-preparation-historical Making and Pure Culture Methods
 slug: mushroom-spawn-making-pure-culture
-source: Benjamin [[benjamin-minge-duggar-mushroom-cultivation-research]], [[duggar-mushroom-growing-history-and-methods]] (1915)
+source: Benjamin duggar-mushroom-growing-history-and-methods (1915)
 tags: [spawn, pure-culture, brick-spawn, mycelium, inoculation, mushroom-cultivation]
 ---
 
@@ -9,17 +9,7 @@ tags: [spawn, pure-culture, brick-spawn, mycelium, inoculation, mushroom-cultiva
 
 ## The Fundamental Role of Spawn
 
-Spawn is the essential inoculum of commercial [[agaricus-campestris]] had a pleasing aroma of fresh mushrooms combined with a slight degree of powdered almond scent.
-
-The mycelium should be white, vigorous, and spreading actively through the substratum.
-
-Any discoloration, off-odor, or patchy growth indicated contamination or deterioration.
-
-Commercial spawn was graded by the density and uniformity of mushroom-spawn-production, even though the specific methods and substrata have been refined over the subsequent century.
-
-## See Also
-
-- [[mushroom-compost-preparation-historical]] — Preparing beds for spawn
+Spawn is the essential inoculum of commercial [[mushroom-compost-preparation-historical]] — Preparing beds for spawn
 - [[french-flake-spawn-vs-brick-spawn]] — Detailed comparison of spawn types
 ## Practical Applications
 
@@ -88,3 +78,7 @@ more robust and productive overall systems. This integrative approach
 is increasingly recognized as essential for sustainable outcomes.
 
 Future development in this area is likely to be driven by advances
+
+## See Also
+
+- [[mushroom-spawn-making-and-pure-culture-methods]]

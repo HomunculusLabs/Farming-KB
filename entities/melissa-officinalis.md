@@ -61,7 +61,7 @@ The genus name *Melissa* derives from Greek μέλισσα (melissa), meaning "h
 
 ## Distribution and Habitat
 
-Melissa officinalis is native to the Mediterranean region, southern Europe, western Asia, and parts of North Africa. It has been widely naturalized across temperate Europe, [[psilocybin-north-america-pacific-northwest]], and parts of [[guzman-psilocybin-mushrooms-south-america]] through centuries of cultivation.
+Melissa officinalis is native to the Mediterranean region, southern Europe, western Asia, and parts of North Africa. It has been widely naturalized across temperate Europe, [[guzman-psilocybin-mushrooms-south-america]] through centuries of cultivation.
 
 The species prefers rich, moist, well-drained loamy soils with a pH of 6.0–7.5. It thrives in partial shade to full sun and is hardy to USDA zones 4–9.
 
@@ -73,17 +73,11 @@ Lemon balm is drought-tolerant once established but performs best with consisten
 
 ### Traditional Applications
 
-Melissa officinalis has a long history of use in European, Persian, and Islamic [[childrens-herbal-medicine]]:
-
-- **Greek and Roman:** Dioscorides recommended it for bites, stings, and melancholy. Paracelsus called it the "elixir of life."
-- **Persian medicine:** Used as a digestive tonic, cardiotonic, and treatment for anxiety.
-- **European medieval:** Monastic herb gardens universally included lemon balm. Used in Carmelite water and other [[honey-based-herbal-preparations]].
+Melissa officinalis has a long history of use in European, Persian, and Islamic [[honey-based-herbal-preparations]].
 - **Traditional Western herbalism:** Classified as a nervine, carminative, and mild antidepressant.
 
 ### Clinically Validated Uses
 
 **Anxiety and stress:** Multiple double-blind, placebo-controlled trials demonstrate significant anxiolytic effects. A standardized extract (80 mg/day, containing 500 µg citral) reduced anxiety scores comparable to low-dose benzodiazepines in clinical settings.
 
-**Sleep improvement:** Single-dose and repeated-dose studies show reduced insomnia severity, improved sleep latency, and increased sleep quality, particularly when combined with valerian (*[[valeriana-officinalis]]*).
-
-**Cognitive function:** A landmark 2003 [[psilocybin-clinical-trial-landscape-2020-2025]] demonstrated significant cognitive improvement in mild-to-moderate Alzheimer's disease patients after 16 weeks of Melissa extract (60 drops/day), with benefits in agitation reduction and cognitive scores.
+**Sleep improvement:** Single-dose and repeated-dose studies show reduced insomnia severity, improved sleep latency, and increased sleep quality, particularly when combined with valerian (*[[psilocybin-clinical-trial-landscape-2020-2025]] demonstrated significant cognitive improvement in mild-to-moderate Alzheimer's disease patients after 16 weeks of Melissa extract (60 drops/day), with benefits in agitation reduction and cognitive scores.

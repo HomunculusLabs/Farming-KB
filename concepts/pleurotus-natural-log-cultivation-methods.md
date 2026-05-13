@@ -1,20 +1,15 @@
 ---
 title: Pleurotus Natural comparison-mushroom-log-cultivation-vs-monotub-cultivation Methods
 created: 2026-04-28
-tags: [log-cultivation, [[oyster-mushroom]], spawn, outdoor-growing]
+tags: [log-cultivation, oyster-mushroom, spawn, outdoor-growing]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [raw/papers/unknown-oyster-mushroom-cultivation.md]
 type: concept
 ---
 
-# Pleurotus Natural [[jadam-rice-cultivation-methods]]
-
-- [[pleurotus-substrate-biological-efficiency]] data
--  [[alpine-plant-cultivation-guide]]
-## Background and Context
-
-Pleurotus Natural [[comparison-mushroom-log-cultivation-vs-monotub-cultivation]] Methods is an important subject that has garnered significant attention
+# Pleurotus Natural [[pleurotus-substrate-biological-efficiency]] data
+-  [[comparison-mushroom-log-cultivation-vs-monotub-cultivation]] Methods is an important subject that has garnered significant attention
 from researchers, practitioners, and enthusiasts alike. The topic
 sits at the intersection of multiple disciplines, drawing on insights
 from biology, ecology, chemistry, and practical experience. A thorough

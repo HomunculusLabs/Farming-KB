@@ -1,5 +1,5 @@
 ---
-title: Social Hierarchy Patterns and the Arts in Permaculture
+title: [[patterns-of-social-hierarchy]] Patterns and the Arts in Permaculture
 source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
@@ -8,7 +8,7 @@ type: concept
 
 ## Overview
 
-[[permaculture]] extends pattern understanding beyond the biological and physical realms into the structure of human societies and the role of the arts. By analyzing social hierarchies as pattern forms, and by examining how traditional art served as a functional knowledge system, Mollison reveals how pattern thinking can inform social [[urban-permaculture-community-building-social-design|design]], education, and cultural practice. This concept explores the "boat pattern" of social stratification, the role of art as sacred mnemonic, and the implications for permaculture as a design system for human settlement.
+[[urban-permaculture-community-building-social-design|design]], education, and cultural practice. This concept explores the "boat pattern" of [[patterns-of-society-and-social-stratification]], the role of [[tribal-art-as-sacred-knowledge-systems]] mnemonic, and the implications for [[permaculture]] as a design system for human settlement.
 
 ## The Boat Pattern of Social Hierarchy
 
@@ -73,7 +73,7 @@ Mollison and his students studied social structures in Tasmania from 1969 to 197
 
 The imbalanced sex ratios in these strata create a **genetic turnover or diffusion** between classes. The surplus of males at the lower resource level and surplus of females at the upper levels drives a streaming of genetic material between levels over generations. This is represented by arrows within the boat pattern showing the direction of genetic flow.
 
-### Implications for Permaculture Social Design
+### Implications for [[permaculture-social-design|Permaculture Social Design]]
 
 - **Resource distribution affects population structure**: The sex ratio differences suggest that resource access fundamentally shapes reproductive and social dynamics
 - **Middle class stability**: The middle stratum's balanced sex ratio and adequate resources create relative social stability
@@ -129,7 +129,7 @@ Educators are challenged to:
 Mollison identifies several mechanisms of cultural destruction:
 
 - **Burning and looting**: Physical destruction of art objects and records
-- **Museum storage**: Removal of sacred objects from their cultural context, trivializing them to decorations or loot — a form of "cultural genocide"
+- **Museum storage**: Removal of sacred objects from their [[ayahuasca-pharmacology-and-cultural-context]], trivializing them to decorations or loot — a form of "cultural genocide"
 - **Religious conversion**: Destruction by invading belief systems seeking secret power rather than open knowledge
 - **Ideological destruction**: Book-burning and image-breaking by the "alienated or intellectually-deprived"
 - **Secretive replacement**: Public information systems replaced by exotic, centralized, and uninformed belief systems

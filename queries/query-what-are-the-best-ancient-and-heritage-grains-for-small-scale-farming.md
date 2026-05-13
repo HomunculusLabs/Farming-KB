@@ -64,7 +64,7 @@ One of the oldest cultivated crops (domesticated ~6,000 BCE in China), foxtail m
 ### Nutritional Powerhouses
 
 **Quinoa (*Chenopodium quinoa*)**
-A pseudocereal from the Andes, quinoa is one of the most nutritionally complete plant foods — a complete protein with all nine essential amino acids, high in fiber, iron, magnesium, and zinc. Quinoa is extraordinarily adapted to harsh conditions: [[fungal-salt-tolerance-and-ion-homeostasis]], [[dighton-fungal-drought-tolerance-plant-water-relations]], frost tolerance (to -8°C), and the ability to grow at elevations above 4,000 meters. The main challenge for small-scale growers is the bitter saponin coating on the seeds, which requires post-harvest processing (washing or dry-polishing). Quinoa yields 1,000–3,000 kg/ha and commands premium prices ($3–6/lb whole grain). It grows well as a spring crop in temperate regions.
+A pseudocereal from the Andes, quinoa is one of the most nutritionally complete plant foods — a complete protein with all nine essential amino acids, high in fiber, iron, magnesium, and zinc. Quinoa is extraordinarily adapted to harsh conditions: [[dighton-fungal-drought-tolerance-plant-water-relations]], frost tolerance (to -8°C), and the ability to grow at elevations above 4,000 meters. The main challenge for small-scale growers is the bitter saponin coating on the seeds, which requires post-harvest processing (washing or dry-polishing). Quinoa yields 1,000–3,000 kg/ha and commands premium prices ($3–6/lb whole grain). It grows well as a spring crop in temperate regions.
 
 **Amaranth (*Amaranthus spp.*)**
 Another pseudocereal, amaranth was a staple of the Aztec empire and remains important in Mexico, Peru, and parts of Africa and South Asia. Amaranth seeds contain 14–16% protein with high lysine content (the limiting amino acid in most grains). The plants are C4, heat-tolerant, drought-resistant, and productive — yielding 1,000–4,000 kg/ha. Amaranth can also be grown as a leaf vegetable (the leaves are rich in iron, calcium, and vitamins A and C), giving it unique dual-purpose versatility. The seeds are tiny and require careful harvesting (shake into tarps) and winnowing.
@@ -92,52 +92,9 @@ The biggest barrier to growing heritage grains is often processing. Modern commo
 - **Dehullers**: Required for einkorn, emmer, spelt, and hulled barleys. Small-scale dehullers (e.g., Eccentric Enterprises, Macdonald) cost $500–3,000.
 - **Mills**: Stone burr mills (Mockmill, Hawos, Meadows) produce high-quality flour at 20–100 kg/hour for direct sale.
 - **Cleaners**: Clipper seed cleaners or DIY air-screen cleaners separate grain from chaff and weed seeds.
-- **Storage**: Heritage grains store best in airtight containers at cool temperatures. Metal grain bins or food-grade barrels with [[comparison-neem-oil-cannabis-vs-diatomaceous-earth-cannabis]] prevent insect damage without chemicals.
-
-### Seed Saving
-
-Most ancient and heritage grains are open-pollinated, allowing on-farm seed saving. Key principles:
-
-- **Isolation distances**: 100–500 meters between varieties of the same species to prevent cross-pollination (wind-pollinated cereals like wheat need more isolation than self-pollinated crops like oats and barley).
-- **Roguing**: Remove off-type plants before maturity to maintain varietal purity.
-- **Selection**: Save seed from the healthiest, most vigorous plants to adapt the variety to your specific conditions over generations.
-- **Drying**: Harvest at 12–14% moisture for long-term storage; dry further if needed using low heat or natural air drying.
-
-### Market Channels
-
-Heritage grains command premium prices through direct-to-consumer channels:
-
-- **Farmers markets**: Whole grain, flour, and value-added products (bread, crackers, pasta)
-- **CSAs**: Grain shares alongside vegetable shares
-- **Bakeries**: Artisan bakeries actively seek heritage grain flours and will pay $0.80–$2.00/lb for whole grain
-- **Online**: Direct sales through websites and platforms like Local Harvest
-- **Breweries and distilleries**: Heritage grains for craft beer, whiskey, and spirits
-- **Restaurants**: Chef-driven demand for unique, local, and heritage ingredients
-
-### Rotation Benefits
-
-Heritage grains improve farm systems beyond their direct value:
-
-- **Deep root systems**: Tall heritage wheats and ryes penetrate 1–2 meters, breaking compaction and cycling deep nutrients
-- **Disease breaks**: Unrelated grain species interrupt disease and pest cycles in rotation with vegetables or legumes
-- **[[hamilton-composting-and-organic-matter-management]]**: Grain straw returned to soil adds significant carbon; roots contribute even more below ground
+- **Storage**: Heritage grains store best in airtight containers at cool temperatures. Metal grain bins or food-grade barrels with [[hamilton-composting-and-organic-matter-management]]**: Grain straw returned to soil adds significant carbon; roots contribute even more below ground
 - **Nitrogen scavenging**: Winter grains like spelt and rye absorb residual nitrogen, preventing leaching
-- **[[permplant-willows-salix-erosion-control-fodder]]**: Winter grain covers protect soil from wind and water erosion during fallow periods
-
-## Quick Selection Guide
-
-| Your Situation | Best Choices |
-|---|---|
-| First-time grain grower | Spelt, heritage oats, flour corn |
-| Dry / arid climate | Sorghum, millet, teff |
-| Short growing season | Foxtail millet, buckwheat, oats |
-| Gluten-free market | Quinoa, amaranth, teff, sorghum |
-| Premium artisan flour | Einkorn, emmer, Red Fife wheat |
-| Poor / marginal soil | Sorghum, finger millet, rye |
-
-## See Also
-- [[mollison-permaculture-two-no-tillage-grain-cropping]]
-- [[query-which-grain-is-best-for-drought-tolerant-small-scale-farming]]
+- **[[mollison-permaculture-two-no-tillage-grain-cropping]]
 - [[setaria-italica]]
 - [[triticum-aestivum]]
 

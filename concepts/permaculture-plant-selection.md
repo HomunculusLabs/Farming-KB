@@ -11,8 +11,7 @@ sources: [papers/a-selection-permaculture-plants.md]
 Permaculture design relies on selecting the right plants for the right
 functions in the right places. Rather than choosing plants primarily
 for ornamental value, permaculture selects plants for their ecological
-functions: food, [[biological-nitrogen-fixation-agriculture]], insect attraction, mulch
-production, soil building, wind protection, and [[hemenway-backyard-wildlife-habitat]].
+functions: food, [[hemenway-backyard-wildlife-habitat]].
 
 ## The Function-Based Approach
 
@@ -37,12 +36,7 @@ Plants that produce edible yields for humans:
 - **Nut trees:** Walnut, pecan, hazelnut, almond, chestnut, pistachio
 - **Berry bushes:** Blueberry, raspberry, blackberry, currant,
   gooseberry, elderberry, strawberry
-- **[[comparison-perennial-vegetables-vs-cover-crops]]:** Asparagus, rhubarb, globe artichoke,
-  Good King Henry, sorrel, sea kale, walking onion
-- **Annual vegetables:** All standard garden vegetables
-- **Herbs:** Culinary and medicinal herbs
-- **Root crops:** Potato, sweet potato, carrot, parsnip, beet, turnip,
-  [[comparison-jerusalem-artichoke-vs-potato]]
+- **[[comparison-jerusalem-artichoke-vs-potato]]
 
 ### Nitrogen Fixers
 

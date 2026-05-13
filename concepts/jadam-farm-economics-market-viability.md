@@ -12,7 +12,7 @@ sources:
 
 ## Overview
 
-JADAM's ultra-low-cost agriculture (ULC) system is built on the economic principle that sustainable farming must first be economically viable. With [[fukuoka-textdoc-production-costs-not-coming-down]] of approximately 100 dollars per acre per year, JADAM demonstrates that [[coleman-deep-organic-farming-philosophy]] can be both high-quality and financially accessible, challenging the assumption that organic means expensive.
+JADAM's ultra-low-cost agriculture (ULC) system is built on the economic principle that sustainable farming must first be economically viable. With [[coleman-deep-organic-farming-philosophy]] can be both high-quality and financially accessible, challenging the assumption that organic means expensive.
 
 ## The Economic Problem of Modern Organic Farming
 
@@ -26,14 +26,7 @@ There are two ways to make profit in farming: to increase revenue or to reduce c
 
 ## The 100 Dollars Per Acre Achievement
 
-After decades of research and experiments, JADAM has not just lowered the cost marginally; it has lowered it radically to an ultra-low level. Production cost now stands at 100 dollars per acre per year. This figure represents all inputs needed for a full year of farming -- fertilizer, [[comparison-pheromone-based-pest-control-vs-beneficial-insect-biocontrol]], and soil management -- when farmers make these inputs themselves.
-
-## Self-Sufficiency in Farm Inputs
-
-The key to JADAM's economic model is that farmers make all farm inputs themselves. This includes:
-
-- [[query-how-do-i-make-jadam-natural-pesticide-jnp]] ([[jadam-natural-pesticide-institute-and-research]]) from locally available herbs
-- [[jadam-phyllite-water-method]] from inexpensive rock powder
+After decades of research and experiments, JADAM has not just lowered the cost marginally; it has lowered it radically to an ultra-low level. Production cost now stands at 100 dollars per acre per year. This figure represents all inputs needed for a full year of farming -- fertilizer, [[query-how-do-i-make-jadam-natural-pesticide-jnp]] ([[jadam-phyllite-water-method]] from inexpensive rock powder
 - Sea water or sea salt for mineral supplementation
 
 When farmers begin to make their own inputs, farming can finally declare independence from the corporations. Ultra-low-cost farming is possible only when farmers are the masters of their farming.
@@ -48,78 +41,95 @@ JADAM's economic model addresses market viability at multiple levels:
 
 **For the organic movement**: Cost-competitive organic farming can become mainstream rather than a niche market, leading to broader environmental benefits.
 
-**For scaling**: JADAM has been proven on a scale of 330 acres (Jeongho Gim's farm in [[jadam-bongha-village-proof]]), demonstrating that the economics work at commercial scale, not just for hobby farms.
-
-## The Corporate Capture Problem
-
-JADAM identifies a structural problem in modern agriculture: the degree to which the economic structure has transformed technology from something that should be for farmers into something that is entirely for business. The big farming industry sets up difficult and complicated conditions that are impossible for ordinary farmers to attain, guaranteeing robust sales of fertilizer and other inputs.
-
-Manufacturers of inputs and their sales agents continually conspire to maximize profits. If the power of the market is left unrestrained, the current high-cost, inefficient system will become so firmly established that it will never be reversed.
-
-## Any Farming Must First Be Economic
-
-Any farming system should at first be "economic" to be able to spread across the globe. JADAM's yield and quality is not less than that of conventional agriculture, but at a fraction of the cost. This is the key to its potential for global adoption.
-
-The system is not only about techniques; it is a methodology, a principle, a philosophy, or more precisely a spirit. Over 20 years of activity with nearly 60,000 registered members and workshops across many countries have validated the economic viability of the approach.
-
-## Government Policy Critique
-
-JADAM is critical of government agricultural policies that treat farmers as people in need of help. If the state sees farmers this way, it will increase spending and farmers lose their self-supporting capability. Such policy only increases the cost of farming. Taxpayers' money flows into the pockets of fertilizer, pesticide, and machine companies, still leaving farmers poor and excluded.
-
-Farmers should not rely on the state. They have the responsibility to cultivate the power to survive on their own. Risk presents opportunity; find and drink from the well within you.
-
-## See Also
-- [[jadam-liquid-fertilizer-philosophy]]
-- [[jadam-wild-grass-management]]
+**For scaling**: JADAM has been proven on a scale of 330 acres (Jeongho Gim's farm in [[jadam-liquid-fertilizer-philosophy]]
 - [[jadam-patent-free-revolution]]
-- [[jadam-ultra-low-cost-methods]]
 - [[jadam-natural-pest-control-methods]]
-- [[jadam-sese-philosophy]]
 - [[mushroom-market-and-economics]]
-- [[fukuoka-critique-modern-agriculture]]
-## Practical Considerations
+- [[doc]]
+- [[mushroom-market-and-economics]]
+- [[jadam-methods]]
 
-Successful implementation of JADAM Farm Economics and Market Viability requires attention to
-several practical factors including environmental conditions,
-resource availability, and timing. Careful monitoring and
-adaptive management help optimize outcomes across varying
-conditions. Integration with other system elements enhances
-overall effectiveness and creates beneficial synergies that
-improve resilience and productivity over time.
+## Overview
 
-## Future Directions
+Jadam Farm Economics Market Viability represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish jadam farm economics market viability
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving jadam extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
 
 ## Practical Applications
 
-The principles and techniques discussed here have wide-ranging applications
-across multiple disciplines and contexts. Practitioners and researchers
-continue to explore new ways to integrate these concepts into modern practice,
-adapting traditional knowledge to contemporary challenges and opportunities.
+Jadam Farm Economics Market Viability finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
 
-## Key Considerations
+## Management and Implementation
 
-Several important factors influence the effectiveness and outcomes described
-in this topic. Understanding these considerations helps practitioners make
-informed decisions and avoid common pitfalls. Environmental conditions,
-timing, and material selection all play critical roles.
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for jadam farm economics market viability. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+jadam farm economics market viability and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
 
 ## Historical Context
 
-The historical development of this subject reflects centuries of accumulated
-knowledge and practical experience. From traditional methods passed down
-through generations to modern scientific approaches, the evolution continues
-to inform current best practices and research directions.
+Jadam Farm Economics Market Viability has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
 
-## Common Challenges
+## Integration Strategies
 
-Practitioners frequently encounter several challenges when working with
-these concepts. Climate variability, resource limitations, and knowledge
-gaps can all affect outcomes. Addressing these challenges requires patience,
-observation, and a willingness to adapt approaches based on results.
+Successful integration of jadam farm economics market viability into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
 
 ## See Also
-- [[doc]]
-- [[emcdda-hallucinogenic-mushroom-uk-pre-prohibition-market-economics]]
-- [[mushroom-market-and-economics]]
-- [[jadam-sea-salt-use]]
-- [[jadam-methods]]
+
+- [[jadam-herb-solution-jhs]]
+- [[jadam-natural-mineral-water]]
+- [[jadam-potassium-fertilizer]]
+- [[jadam-rice-bakanae-treatment]]
+- [[jadam-soil-management-no-till-and-weed-control]]

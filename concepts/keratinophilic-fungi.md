@@ -3,13 +3,13 @@ title: Keratinophilic Fungi
 created: 2026-04-16
 updated: 2026-04-16
 type: concept
-tags: [[mycology]], fungi]
+tags: mycology, fungi]
 sources: []
 ---
 # Keratinophilic Fungi
 Keratinophilic fungi are a specialized group of fungi capable of degrading
 keratin, the structural protein found in hair, feathers, nails, horns, hooves,
-and skin. They play important [[ecological-roles-fungi-ecosystems]] in [[soil-protozoa-nutrient-cycling-and-mineralization]] include
+and skin. They play important [[soil-protozoa-nutrient-cycling-and-mineralization]] include
 clinically significant species that cause dermatophytosis in humans and
 animals.
 
@@ -23,9 +23,7 @@ characterized by:
 - Insolubility in water and most organic solvents
 - Resistance to degradation by most proteolytic enzymes
 - Abundance in terrestrial environments from vertebrate shedding and
-  [[decomposition]]
-Only a specialized subset of fungi possess the enzymatic machinery (keratinases
-and sulfite-producing pathways) required to [[query-can-fungi-break-down-plastic-pollution]] keratin. These fungi
+  [[query-can-fungi-break-down-plastic-pollution]] keratin. These fungi
 reduce disulfide bonds, enabling proteolytic degradation of the keratin
 polypeptide chain.
 
@@ -118,8 +116,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[decomposition]]
 - [[onygenales-keratinophilic-systemic-pathogenic-fungi]]
-- [[rock-penetrating-fungi]]
 - [[microbial-ecology-fungi]]
 - [[endophytic-fungi-diversity]]

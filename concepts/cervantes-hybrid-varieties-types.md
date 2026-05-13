@@ -12,8 +12,7 @@ type: concept
 
 # Hybrid Varieties and Population Types
 
-[[query-what-is-the-difference-between-indica-sativa-and-hybrid-cannabis]] varieties form the backbone of the commercial seed
-industry. [[jorge-cervantes]] provides detailed coverage of hybrid types,
+[[jorge-cervantes]] provides detailed coverage of hybrid types,
 population structures, and breeding terminology in Chapter Sixteen
 of the Marijuana Horticulture guide. Understanding the distinction
 between different hybrid types and population classifications is
@@ -25,27 +24,13 @@ selecting appropriate genetics for their cultivation goals.
 Hybrids are the product of a cross between genetically unlike
 parents. They retain their distinctive characteristics when
 reproduced asexually through cloning, but fail to reproduce these
-characters completely or reliably through [[fungal-life-cycles-sexual-reproduction-metamorphosis]]. The
-development of hybrid cultivars involves creating or selecting
-inbred lines, coupling selection with inbreeding for homozygosity,
-evaluating inbreds for [[cervantes-progeny-testing-combining-ability]] in hybrid combinations,
-and multiplying selected inbred lines for hybrid [[cervantes-seed-production-storage]].
-
-## Types of Hybrid Varieties
-
-### F1 Hybrids
-
-F1 hybrids are first-generation crosses between two unrelated,
-true-breeding parental varieties. They are unique in that plants
-grown from F1 seed are uniform in appearance and performance. The
-primary benefit of F1 seed is [[cannabis-hybrid-vigor-and-phenotypes-clarke]], or heterosis, where
+characters completely or reliably through [[cervantes-progeny-testing-combining-ability]] in hybrid combinations,
+and multiplying selected inbred lines for hybrid [[cannabis-hybrid-vigor-and-phenotypes-clarke]], or heterosis, where
 the progeny exceed the performance of both parental lines in growth
 rate, yield, and environmental tolerance. Examples include Northern
 Lights crosses and the classic Skunk number 1 lineage.
 
-F1 [[cannabis-controlled-pollination-seed-production]] provides commercial advantages for breeders.
-True-breeding parental seed can be easily reproduced by open
-pollination, but most [[spanish-cannabis-seed-companies]] release only F1 hybrids.
+F1 [[spanish-cannabis-seed-companies]] release only F1 hybrids.
 This ensures customers must return to purchase seed for each new
 planting and protects the breeder's investment by making it
 difficult for competitors to reproduce and market their work.
@@ -118,8 +103,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[det]]
 - [[cervantes-seed-population-types-ibl-hybrid]]
-- [[cervantes-hybrid-vigor-inbreeding-depression]]
 - [[cervantes-outdoor-soil-types-clay-sand-loam]]
 - [[cervantes-filial-breeding-hybrid-generations]]

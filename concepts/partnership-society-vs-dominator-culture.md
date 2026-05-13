@@ -2,7 +2,7 @@
 title: Partnership Society Vs Dominator Culture
 aliases: [dominator model, partnership model, Chalice and the Blade, Riane
   Eisler, patriarchal culture]
-source: Food of the Gods ([[terence-mckenna]])
+source: Food of the Gods (terence-mckenna)
 created: 2026-05-10
 tags: [anthropology, culture, history, gender, social-theory, civilization]
 ---
@@ -17,8 +17,7 @@ book *The Chalice and the Blade* and adopted by Terence McKenna in *Food
 of the Gods* as an organizing principle for understanding human
 history. The model proposes that two fundamentally different styles of
 social organization have competed throughout human history: **partnership
-societies**, characterized by egalitarianism, [[holmgren-gender-balance-and-sustainability]], and harmony
-with nature; and **[[partnership-vs-dominator-societies]]**, characterized by hierarchy,
+societies**, characterized by egalitarianism, [[partnership-vs-dominator-societies]]**, characterized by hierarchy,
 patriarchy, violence, and the subjugation of both nature and other
 humans.
 
@@ -39,12 +38,7 @@ characteristics:
   exploited. Eisler associates this with "Goddess worship" and the
   veneration of natural cycles.
 - **Shamanic spirituality**: Direct, experiential religious practice
-  centered on altered [[mckenna-food-gods-designer-states-of-consciousness]], visionary experience,
-  and personal connection to the sacred. Authority comes from ecstatic
-  experience, not from institutional hierarchy.
-
-Eisler used archaeological evidence from Neolithic sites in the ancient
-[[allegro-fertility-philosophy-of-the-ancient-near-east]] — particularly Çatalhöyük in Anatolia (c. 7500–5700 BCE) — to
+  centered on altered [[allegro-fertility-philosophy-of-the-ancient-near-east]] — particularly Çatalhöyük in Anatolia (c. 7500–5700 BCE) — to
 argue that partnership societies existed "over vast areas and for many
 centuries" without warfare or significant social upheaval.
 

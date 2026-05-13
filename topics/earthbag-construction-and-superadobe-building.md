@@ -19,8 +19,7 @@ related_concepts:
 # Earthbag Construction and Superadobe Building
 
 Earthbag construction is one of the most accessible, affordable, and resilient
-[[query-how-do-i-choose-a-natural-building-method-for-my-climate]] methods available today. Using nothing more than sandbags
-filled with subsoil, two strands of barbed wire, and basic [[garden-hand-tools-solomon]], builders
+[[garden-hand-tools-solomon]], builders
 can create structures that withstand earthquakes, floods, hurricanes, and fire.
 The technique requires no specialized skills, no heavy machinery, and no
 expensive materials. Fill material typically comes directly from the building
@@ -116,30 +115,11 @@ roughly 25 to 30 percent clay content, 40 to 50 percent sand, and 20 to
 
 Before starting construction, test the site soil thoroughly. Dig several
 test holes across the building site to check for consistent soil quality.
-Fill a [[sterile-spore-print-collection-glass-jar-technique]] one-third full of soil, add water, shake vigorously, and
-let settle for 24 hours. This simple sediment test reveals the proportions
-of sand, silt, and clay in your soil. If the soil is too clay-heavy, add
-sand. If too sandy, add clay or increase the barbed wire layers.
-
-Lime stabilization is an option for wet climates or where soil quality is
-marginal. Adding 5 to 10 percent [[cervantes-hydrated-lime-quicklime-ph-adjustment]] to the fill mix produces a
+Fill a [[cervantes-hydrated-lime-quicklime-ph-adjustment]] to the fill mix produces a
 chemical reaction with clay that improves water resistance and compressive
 ## See Also
 
-[[cob-building]] | [[straw-bale-construction]] | [[natural-building-techniques]]
-[[wattle-and-daub-construction]] | [[passive-solar-design]]
-[[natural-plasters-and-earthen-wall-finishes]] | [[hempcrete-and-hemp-lime-construction]]
-[[permaculture-design-principles]] | [[rainwater-harvesting-and-graywater-recycling]]
-
-## References
-
-- Hunter, Kaki and Donald Kiffmeyer. *Earthbag Building: The Tools, Tricks
-  and Techniques*. New Society Publishers, 2004.
-- Khalili, Nader. *Ceramic Houses and Earth Architecture*. Cal-Earth Press,
-  1986.
-- Kennedy, Joseph F. et al. *The Art of Natural Building*. New Society
-  Publishers, 2002.
-- Faires, Nicole. *The Ultimate Guide to [[comparison-natural-farming-vs-permaculture]] and Sustainable
+[[straw-bale-construction]] | [[wattle-and-daub-construction]] | [[natural-plasters-and-earthen-wall-finishes]] | [[permaculture-design-principles]] | [[comparison-natural-farming-vs-permaculture]] and Sustainable
   Living*. New Society Publishers, 2016.
 - Cal-Earth Institute. Superadobe and Earthbag Construction Technical
   Resources. calearth.org.

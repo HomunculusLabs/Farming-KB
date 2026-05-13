@@ -41,22 +41,7 @@ well.
 Permaculture was modeled on nature's systems to create food production that
 maintains itself indefinitely and becomes stronger over time. Holmgren and
 Mollison expanded this understanding to include architecture, business
-practices, and social norms, creating a system of [[aact-brewer-design-principles-aeration-systems-ingham]],
-terminology, and methods that could be taught to anyone.
-
-## The Three Ethics
-
-The PDC teaches three central ethics: Earth Care (all things depend upon
-the Earth; permaculture begins with caring for ecology's health solely and
-altruistically), People Care (showing compassion for all people; people are
-not expendable; a system is only as good as its service to human needs), and
-Fair Share (everyone receives enough resources; surplus beyond needs is
-abundance to be shared, including sharing the Earth's bounty back with the
-Earth itself).
-
-## The 12 Design Principles
-
-David Holmgren coined 12 [[pdc-urban-permaculture-design-principles]] that form the core
+practices, and social norms, creating a system of [[pdc-urban-permaculture-design-principles]] that form the core
 of PDC instruction. Understanding the underlying logic matters more than
 memorizing exact wording:
 
@@ -65,25 +50,98 @@ memorizing exact wording:
    limits. Without accepting feedback there can be no self-regulation, and
    without self-regulation there can be no ecological coherence.
 
-2. **[[permaculture-principle-catch-and-store-energy]] energy**: The ecology is filled with enormous potential
-   energy beyond solar, wind, and hydro. In permaculture, "energy" is a
-   statement of functionality: using any event, phenomenon, or change to
-   accomplish a goal. Chickens provide food energy but also pest control,
-   fertilizer, and soil cultivation energy.
-
-3. **Creatively use and [[permaculture-principle-creatively-use-and-respond-to-change]]**: Change is constant. Rather
-   than resisting it, [[permaculture-principle-apply-self-regulation]] work with natural processes
-   and direct them productively.
-
-4. **[[permaculture-principle-design-from-patterns-to-details]] to details**: Begin with broad patterns (water
+2. **[[permaculture-principle-creatively-use-and-respond-to-change]]**: Change is constant. Rather
+   than resisting it, [[permaculture-principle-design-from-patterns-to-details]] to details**: Begin with broad patterns (water
    flow, sun angles, wind patterns) before working on specific elements.
    The overall structure determines success more than individual components.
 
-5. **[[permaculture-principle-integrate-rather-than-segregate]] than segregate**: Place elements so they support each
-  . The more connections between elements, the more resilient the system.
-
-6. **[[holmgren-observe-and-interact-detailed]]**: Careful observation over time reveals patterns
+5. **[[holmgren-observe-and-interact-detailed]]**: Careful observation over time reveals patterns
    and relationships that inform better design decisions.
 
 7. **[[holmgren-obtain-a-yield-detailed]]**: Every element should produce something useful. A
    system that does not yield is not sustainable.
+
+## Overview
+
+Permaculture Design Course Methodology represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish permaculture design course methodology
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving permaculture extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Permaculture Design Course Methodology finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for permaculture design course methodology. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+permaculture design course methodology and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Permaculture Design Course Methodology has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of permaculture design course methodology into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[eucalyptus-permaculture]]
+- [[holzer-thailand-permaculture-project]]
+- [[mollison-permaculture-design-course-curriculum]]
+- [[permaculture-designers-manual-sacred-groves]]
+- [[permaculture-japanese-raisin-tree-hovenia-dulcis]]

@@ -22,9 +22,7 @@ sources:
 **Agaricus xanthodermus**, commonly known as the yellow-stainer, is a basidiomycete
 fungus in the family Agaricaceae. It is one of the most commonly encountered toxic
 mushrooms in the genus *Agaricus*, frequently mistaken for the edible field mushroom
-(*A. campestris*) or cultivated [[growing-gourmet-button-mushroom-agaricus-cultivation]] (*A. bisporus*).
-
-The species is responsible for the majority of [[european-mushroom-poisoning-history]] incidents involving
+(*A. campestris*) or cultivated [[european-mushroom-poisoning-history]] incidents involving
 the *Agaricus* genus, though its effects are generally gastrointestinal rather than
 life-threatening. Rapid yellowing of the flesh upon cutting is the key diagnostic
 character separating it from edible relatives.
@@ -81,7 +79,5 @@ soils containing compost, mulch, or manure. Fruiting occurs from late spring thr
 autumn, with peak abundance in summer and early fall.
 
 The species has a strong association with human-altered landscapes and is rarely
-found in old-growth forests or undisturbed [[agaricus-bisporus]]
-- [[agaricus-arvensis]]
-- [[inocybe-geophylla]]
+found in old-growth forests or undisturbed [[agaricus-arvensis]]
 - [[clitopilus-prunulus]]

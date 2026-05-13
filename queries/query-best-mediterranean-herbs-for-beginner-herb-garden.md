@@ -33,10 +33,7 @@ type: query
 created: 2026-05-03
 ---
 
-# Best Mediterranean Herbs for a Beginner [[natural-farming-guide-hugelkultur-mounded-garden-beds]]. Choose a compact variety like 'Tuscan Blue' for smaller spaces.
-
-### 2. Thyme (*Thymus vulgaris*)
-Low-growing, spreads gently, and tolerates neglect. Excellent [[fukuoka-citrus-orchard-ground-cover-cultivation]] or container specimen. Common thyme is the most versatile for cooking. Handles poor soil and full sun with ease.
+# Best Mediterranean Herbs for a Beginner [[fukuoka-citrus-orchard-ground-cover-cultivation]] or container specimen. Common thyme is the most versatile for cooking. Handles poor soil and full sun with ease.
 
 ### 3. Oregano (*Origanum vulgare*)
 Fast-growing and prolific — you'll have more than you need within months. Greek oregano offers the strongest flavor. Nearly indestructible once rooted; bounces back from over-harvesting.
@@ -71,26 +68,11 @@ Beautiful, fragrant, and deer-resistant. English lavender varieties ('Hidcote', 
 
 **Containers** are ideal for beginners because you control soil quality and drainage. Use pots at least 10–12" in diameter with drainage holes. Terracotta is preferred — it wicks moisture from the sides, reducing overwatering risk.
 
-**In-ground** works well if you have sandy or loamy soil with good drainage. [[comparison-raised-beds-vs-hugelkultur]] (6–12" tall) filled with a sandy loam mix are the best compromise.
-
-**Rule of thumb:** If you can easily squeeze water out of a handful of your garden soil, grow in containers instead.
-
-## Seasonal Care Calendar
-
-| Season | Tasks |
-|--------|-------|
-| **Spring** | Plant new herbs, prune dead wood, begin fertilizing (light, monthly), top-dress containers with compost |
-| **Summer** | Water deeply but infrequently (1–2× per week), harvest regularly, pinch basil flowers, mulch with gravel |
-| **Fall** | Reduce watering, stop fertilizing, harvest and dry surplus [[query-what-causes-root-rot-in-cannabis-and-how-to-prevent-it]] your finger 2" into soil; water only when dry.
+**In-ground** works well if you have sandy or loamy soil with good drainage. [[query-what-causes-root-rot-in-cannabis-and-how-to-prevent-it]] your finger 2" into soil; water only when dry.
 - **Poor drainage** — Standing water causes root rot within days. Always use pots with holes and well-draining soil.
 - **Not enough sun** — These herbs need 6–8 hours of direct sunlight daily. A south-facing window or patio is ideal.
 - **Over-fertilizing** — More fertilizer ≠ more flavor. Use a diluted balanced fertilizer once a month at most, or skip it entirely.
-- **Crowding plants** — Space herbs 12–18" apart in beds, or give each its own container. Good airflow prevents [[bloomfield-amphibian-decline-fungal-disease-climate-interactions]].
-- **Harvesting too late** — Harvest herbs before they flower for peak flavor (except lavender, which you grow for flowers).
-
-## Harvesting Timeline
-
-- **Basil:** Begin 3–4 weeks after transplanting. Harvest up to ⅓ of th [[query-how-to-harvest-and-cure-cannabis-for-best-flavor]] a time, every 2–3 weeks.
+- **Crowding plants** — Space herbs 12–18" apart in beds, or give each its own container. Good airflow prevents [[query-how-to-harvest-and-cure-cannabis-for-best-flavor]] a time, every 2–3 weeks.
 - **Thyme:** Snip stems anytime after the plant is 6" tall. Best flavor just before flowering.
 - **Oregano:** Harvest once stems reach 4–6". Flavor peaks when flower buds form but before they open.
 - **Rosemary:** Harvest sparingly in the first year; take sprigs as needed after establishment.

@@ -24,42 +24,9 @@ sources:
 
 ## Overview
 
-Super Skunk is an indica-dominant hybrid [[blesching-cannabis-strain-selection-receptor-targeting]] bred by Sensi Seeds in the 1990s, created by crossing Skunk #1 with an Afghani indica. It was among the first strains to combine the vigorous growth and reliability of Skunk #1 with the [[cannabis-glandular-trichome-types-resin-production-clarke]] and body stone of true Afghani genetics.
+Super Skunk is an indica-dominant hybrid [[cannabis-glandular-trichome-types-resin-production-clarke]] and body stone of true Afghani genetics.
 
-The strain won the overall Cannabis Cup in 1990, cementing its reputation as one of the most impactful hybrids in [[oner-cannabis-breeding-fundamentals]] history. It remains a cornerstone genetics for countless modern indica-dominant varieties.
-
-Super Skunk is widely regarded as one of the most pungent-smelling cannabis strains ever created, with an intensely skunky, earthy aroma that is immediately recognizable.
-
-## Strain Classification
-
-- **Type:** Indica-dominant hybrid (approximately 80% indica / 20% sativa)
-- **Lineage:** Skunk #1 × Afghani
-- **Breeder:** Sensi Seeds (Netherlands), circa 1990
-- **THC content:** 15–22%
-- **CBD content:** Low (<1%)
-
-The Afghani parent contributes dense bud structure, heavy resin production, and a deeply relaxing body effect, while Skunk #1 provides vigor, yield, and the characteristic pungent aroma.
-
-## Appearance
-
-Buds are large, dense, and chunky with a classic indica structure — tightly packed calyxes forming rounded, rock-hard colas.
-
-Coloration ranges from bright to dark green with occasional purple hues in cooler growing conditions.
-
-Trichome coverage is extremely heavy, giving buds a frosty, crystalline appearance even before full maturity.
-
-Pistils are orange to copper-colored, abundant, and often curling tightly into the resinous calyxes.
-
-The overall impression is of a premium, resin-dense flower that is sticky to the touch and releases strong aroma on minimal handling.
-
-## Aroma and Flavor Profile
-
-- **Primary aromas:** Intense skunk, pungent earth, damp soil
-- **Secondary notes:** Sweet citrus, musky undertones, hash-like spice
-- **Taste:** Earthy and skunky on the inhale, with sweet, slightly sour undertones on the exhale
-- **Smoke:** Thick and expansive, with a lingering pungent aftertaste
-
-The aroma is notoriously powerful and persistent, making [[cannabis-odor-control-and-carbon-filters]] a serious consideration for indoor growers. A single plant can fill a house with its scent during late flowering.
+The strain won the overall Cannabis Cup in 1990, cementing its reputation as one of the most impactful hybrids in [[cannabis-odor-control-and-carbon-filters]] a serious consideration for indoor growers. A single plant can fill a house with its scent during late flowering.
 
 ## Terpene Profile
 
@@ -87,3 +54,88 @@ The high is predominantly physical, starting with a pleasant cerebral uplift tha
 Beginner consumers should approach with caution due to the combination of high THC and sedative terpene profile.
 
 ## Growing Characteristics
+
+## Overview
+
+Super Skunk represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish super skunk
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving super extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Super Skunk finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for super skunk. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+super skunk and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Super Skunk has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of super skunk into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[cannabis-strain-super-lemon-haze-greenhouse-seed-co]]
+- [[cannabis-strain-temple-bodhi-seeds-super-silver-haze-oner]]
+- [[cannabis-super-cropping-technique]]
+- [[oner-temple-bodhi-seeds-super-silver-haze-williams-wonder]]
+- [[super-boof-cannabis-strain]]

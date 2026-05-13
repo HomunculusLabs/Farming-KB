@@ -1,5 +1,5 @@
 ---
-title: Root root crops growing guide Guide
+title: Root root [[salad-crops-growing-guide]] Guide
 created: 2026-04-20
 updated: 2026-04-20
 type: concept
@@ -13,15 +13,13 @@ sources:
 
 updated: 2026-04-18
 
-Most root vegetables are biennials; they store food in the swollen roots for use in the second year of the growth cycle, when the plants would normally flower and produce seed. By harvesting at the end of the first year, we benefit from this reserve of nourishment.
+Most [[growing-root-vegetables-guide]] are biennials; they store food in the swollen roots for use in the second year of the growth cycle, when the plants would normally flower and produce seed. By harvesting at the end of the first year, we benefit from this reserve of nourishment.
 
 ## Carrots (Daucus carota sativus)
 
 Carrots are not hard to grow on good soil and it is possible to get a succession throughout the year. They are an excellent source of vitamins and dietary fiber.
 
-**Varieties:** For multiple sowing, use round types like Parmex and Atlas. [[coleman-fall-bed-preparation-early-outdoor-planting]] sowings: fast-maturing varieties like Adelaide or Nantes strains. For main crop: Autumn King or Chantenay Red Cored.
-
-**Soil and Site:** Carrots do best on light soil with plenty of well-rotted [[hamilton-composting-and-organic-matter-management]]. They will not fork provided the compost or manure is well-rotted. If soil is heavy, grow in raised deep beds. Add lime to bring the pH over 6.5.
+**Varieties:** For multiple sowing, use round types like Parmex and Atlas. [[hamilton-composting-and-organic-matter-management]]. They will not fork provided the compost or manure is well-rotted. If soil is heavy, grow in raised deep beds. Add lime to bring the pH over 6.5.
 
 **Sowing:** Earliest crops are multiple sowings planted outside under cloches in mid- to late winter. Sow outside under cloches in late winter — round varieties in wide bands and long ones in rows 9in (23cm) apart. Thin long varieties when big enough to eat. Sow every three weeks in rows 12in (30cm) apart, thinning to 3in (8cm) apart.
 
@@ -31,21 +29,17 @@ Carrots are not hard to grow on good soil and it is possible to get a succession
 
 **Harvesting:** Pull early and successional sowings when still young and crisp. In mid- or late fall, pull the final sowing and store in moist peat or vermiculite. Do not leave in the ground too long or some may split, attracting slugs.
 
-**[[query-how-to-manage-pests-and-diseases-in-mushroom-cultivation]]:** Carrot fly and storage rot.
+**[[hamilton-geoffhamilton-nick-organic-gardening-companion-planting]] methods. Early varieties are desirable for superior fresh flavor. Maincrops make a wonderful cleaning crop in new gardens.
 
-## Potatoes (Solanum tuberosum)
-
-The potato justifies [[hamilton-geoffhamilton-nick-organic-gardening-companion-planting]] methods. Early varieties are desirable for superior fresh flavor. Maincrops make a wonderful cleaning crop in new gardens.
-
-**Varieties:** Always buy certified disease-free seed potatoes; select small tubers with few sprouts to avoid undue competition. Early varieties: Yukon Gold (yellow-fleshed), Irish Cobbler (early, versatile), Adirondack Red (very early, flavorful). Main crop: Red Pontiac. US seed companies supply potato eyes rather than whole tubers — pot and grow in greenhouse until planting time.
+**Varieties:** Always buy certified disease-free seed potatoes; select small tubers with few sprouts to avoid undue competition. Early varieties: Yukon Gold (yellow-fleshed), Irish Cobbler (early, versatile), Adirondack Red (very early, flavorful). Main crop: Red Pontiac. US [[spanish-cannabis-seed-companies]] supply potato eyes rather than whole tubers — pot and grow in greenhouse until planting time.
 
 **Sprouting:** Put seed potatoes in boxes or egg cartons in a light place at about 50F (10C). They will form good, short, bushy green sprouts. Never put them in a warm, dark place — this produces long, pale sprouts.
 
-**Soil and Site:** Water-retentive soil with plenty of organic matter. Do not lime the potato plot — potatoes prefer an acid soil.
+**Soil and Site:** Water-retentive soil with plenty of [[fukuoka-textdoc-composting-critique-futility-prepared-organic-matter]]. Do not lime the potato plot — potatoes prefer an acid soil.
 
 **Planting:** Earliest crops come from tubers planted through black plastic sheeting under cloches in late winter. Alternatively, plant early varieties in rows 2ft (60cm) apart, setting tubers 12in (30cm) apart and about 6in (15cm) deep. Cover rows with woven polypropylene for [[holzer-frost-protection-techniques]]. Main crop varieties: rows spaced 2ft 6in (75cm) apart, tubers about 15in (35cm) apart.
 
-**Black Plastic Method:** Lay black plastic sheeting over the area and bury/secure edges. Cut slits every 12in (30cm) in staggered rows. Plant potatoes 6in (15cm) deep with sprouts uppermost. This restricts weeds and warms the soil for frost protection.
+**Black Plastic Method:** Lay black plastic sheeting over the area and bury/secure edges. Cut slits every 12in (30cm) in staggered rows. Plant potatoes 6in (15cm) deep with sprouts uppermost. This restricts weeds and warms the soil for [[cervantes-microclimate-frost-protection]].
 
 **Earthing Up:** When shoots are 6-8in (15-20cm) tall, spread a handful of blood, fish and bone meal down each yard/meter of row. Then earth up by pulling soil from between rows up to the shoots, leaving about an inch still showing. A second earthing up can be done later. This controls weeds and ensures tubers do not push into the light.
 
@@ -75,7 +69,7 @@ Parsnips' distinctive sweet taste makes them popular winter roots. Seeds germina
 
 **Soil and Site:** Tolerant of poor conditions but best with well-rotted compost or manure. Prefer pH about 6.5. For long roots in stony soil, make holes 18in (45cm) deep and 3in (8cm) in diameter with a crowbar at 6in intervals, fill with good soil, then sow two or three seeds per hole.
 
-**Sowing:** In cold climates sow mid-spring; in warmer climates early fall. Sow two or three seeds at 6in (15cm) intervals in shallow rows 12in (30cm) apart. Always use a stale seedbed and sow a few radishes in the drill to mark rows for hoeing.
+**Sowing:** [[query-how-do-i-grow-figs-in-cold-climates]] sow mid-spring; in warmer climates early fall. Sow two or three seeds at 6in (15cm) intervals in shallow rows 12in (30cm) apart. Always use a stale seedbed and sow a few radishes in the drill to mark rows for hoeing.
 
 **Maintenance:** Keep rows weed free and water supply fairly constant to prevent root cracking.
 

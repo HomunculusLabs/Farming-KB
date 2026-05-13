@@ -16,8 +16,7 @@ value. Mushrooms are highly perishable, with respiration rates among the
 highest of any harvested crop. Proper harvesting technique and post-
 harvest handling can extend shelf life from days to weeks and preserve
 the texture, flavor, and nutritional value that make fresh mushrooms
-premium products. For [[comparison-chaga-vs-turkey-tail-medicinal-mushrooms-comprehensive]], correct handling preserves
-[[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]] that define therapeutic quality.
+premium products. For [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]] that define therapeutic quality.
 
 ## Harvest Timing
 
@@ -28,9 +27,7 @@ Key indicators of harvest maturity:
   begins to flatten from convex to plane, typically 3-5 days after
   pinning. Waiting too long results in dry, tough textures and massive
   spore release.
-- **Shiitake ([[staycare-lentinula-edodes-in-bioremediation]])**: Harvest when the cap is 70-80% open
-  with a thick, rolled margin. Gills should be white to pale pink.
-- **Button mushrooms ([[genetic-improvement-agaricus-bisporus-molecular-approaches]])**: Harvest at button stage
+- **Shiitake ([[genetic-improvement-agaricus-bisporus-molecular-approaches]])**: Harvest at button stage
   (closed veil) for premium market, or cup stage for processing.
 - **Lion mane (Hericium erinaceus)**: Harvest when spines are 0.5-1.5
   cm long, before they begin to brown from the tips downward.

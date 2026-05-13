@@ -16,15 +16,14 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - https://pfaf.org/user/Plant.aspx?LatinName=Trifolium+incarnatum
-  - SARE ([[phosphate-accumulators-sustainable-agriculture]] Research and Education). "Managing Cover Crops Profitably." 3rd ed.
-  - USDA NRCS. "Plant Guide: [[mushroom-compost]] (Trifolium incarnatum)."
+  - SARE (mushroom-compost (Trifolium incarnatum)."
   - Duke, J.A. (1981). Handbook of Legumes of World Economic Importance. Plenum Press.
   - Fukuoka, M. (1978). The One-Straw Revolution. Rodale Press.
 ---
 
 # Crimson Clover (Trifolium incarnatum)
 
-**Trifolium incarnatum**, commonly known as **crimson clover**, **Italian clover**, or **carnation clover**, is an annual herbaceous legume in the family Fabaceae. Native to the Mediterranean region of southern Europe, it has become one of the most widely used cover crops [[natural-farming-guide-cover-cropping-and-green-manures]] in temperate agriculture and permaculture systems worldwide. Prized for its rapid growth, prolific [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]], stunning crimson flower heads, and exceptional value as pollinator forage, crimson clover occupies a central role in sustainable and regenerative farming practices.
+**Trifolium incarnatum**, commonly known as **crimson clover**, **Italian clover**, or **carnation clover**, is an annual herbaceous legume in the family Fabaceae. Native to the Mediterranean region of southern Europe, it has become one of the most widely used cover crops [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]], stunning crimson flower heads, and exceptional value as pollinator forage, crimson clover occupies a central role in sustainable and regenerative farming practices.
 
 The species epithet *incarnatum* (Latin for "flesh-colored" or "blood-red") refers to the intense crimson color of the flower heads, which create striking displays when planted in mass — a feature that has also made it popular as an ornamental.
 
@@ -63,12 +62,7 @@ Individual florets are papilionaceous (typical Fabaceae pea-flower structure): b
 Taproot reaches 30–60 cm deep with extensive lateral roots in the top 20–30 cm. Nitrogen-fixing nodules form in symbiosis with *Rhizobium trifolii*. The root system combines taproot depth with lateral root density, contributing to soil improvement in both surface and subsoil layers.
 
 ### Nitrogen Fixation Capacity
-Crimson clover is among the most efficient annual [[legume-nitrogen-dynamics]] fixers:
-
-| Parameter | Value |
-|---|---|
-| Nitrogen fixed (dry weight) | 50–150 kg N/ha (45–135 lb N/acre) |
-| [[dighton-fungal-biomass-production-aquatic-ecosystems]] | 3–6 t/ha dry matter |
+Crimson clover is among the most efficient annual [[dighton-fungal-biomass-production-aquatic-ecosystems]] | 3–6 t/ha dry matter |
 | Carbon-to-nitrogen ratio (C:N) | 15:1 to 25:1 (low = rapid decomposition) |
 | Root zone nitrogen contribution | Significant; root nodules + root exudates add N to soil profile |
 
@@ -79,11 +73,11 @@ Small ovoid pods (3–5 mm) containing a single kidney-shaped, yellowish-brown s
 
 ## Distribution and Habitat
 
-Native to southern Europe (Mediterranean basin — Italy, Spain, Greece, Balkans, Turkey). Widely naturalized in [[psilocybin-north-america-pacific-northwest]] (eastern/southeastern US, Pacific Northwest, California), [[guzman-psilocybin-mushrooms-south-america]] (Argentina, Chile), Australia, New Zealand, and southern Africa. Found in grasslands, pastures, disturbed areas, and cultivated fields.
+Native to southern Europe (Mediterranean basin — Italy, Spain, Greece, Balkans, Turkey). Widely naturalized in [[guzman-psilocybin-mushrooms-south-america]] (Argentina, Chile), Australia, New Zealand, and southern Africa. Found in grasslands, pastures, disturbed areas, and cultivated fields.
 
 ## Ecological Functions
 
-Crimson clover is one of the most valuable early-season nectar and pollen sources for pollinators — honey bees produce a light, premium honey from its nectar (40–50% sugar concentration). Bumble bees, native bees, butterflies, hoverflies, and [[parasitic-wasps-biological-pest-control]] are all frequent visitors. Rapid establishment (germination in 3–7 days) provides quick ground cover for [[permplant-willows-salix-erosion-control-fodder]] on slopes, waterways, and disturbed sites. Dense growth provides cover for small mammals and ground-nesting birds; seeds are consumed by quail, dove, turkey, and songbirds.
+Crimson clover is one of the most valuable early-season nectar and pollen sources for pollinators — honey bees produce a light, premium honey from its nectar (40–50% sugar concentration). Bumble bees, native bees, butterflies, hoverflies, and [[permplant-willows-salix-erosion-control-fodder]] on slopes, waterways, and disturbed sites. Dense growth provides cover for small mammals and ground-nesting birds; seeds are consumed by quail, dove, turkey, and songbirds.
 
 ## Cultivation
 

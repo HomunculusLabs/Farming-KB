@@ -28,7 +28,7 @@ sources:
 
 ## Overview
 
-*Nasturtium officinale*, commonly known as **watercress**, is a perennial aquatic or semi-aquatic flowering plant in the family Brassicaceae (the mustard family). Native to Europe and Asia, it has become naturalized worldwide in cool, flowing freshwater habitats. Watercress is one of the oldest known leaf vegetables consumed by humans, with documented use dating back to ancient Persian, Greek, and Roman civilizations. Modern research has validated its exceptional nutrient density, ranking it as one of the most nutrient-dense foods per calorie among all fruits and vegetables (CDC ranked it #1 in 2014 among "powerhouse" fruits and vegetables). In [[permaculture-design]], watercress is valued as a high-yielding aquatic vegetable, water purifier, [[mollison-permaculture-two-arid-water-harvesting-and-erosion-control]] plant in pond and stream edge systems.
+*Nasturtium officinale*, commonly known as **watercress**, is a perennial aquatic or semi-aquatic flowering plant in the family Brassicaceae (the mustard family). Native to Europe and Asia, it has become naturalized worldwide in cool, flowing freshwater habitats. Watercress is one of the oldest known leaf vegetables consumed by humans, with documented use dating back to ancient Persian, Greek, and Roman civilizations. Modern research has validated its exceptional nutrient density, ranking it as one of the most nutrient-dense foods per calorie among all fruits and vegetables (CDC ranked it #1 in 2014 among "powerhouse" fruits and vegetables). In [[mollison-permaculture-two-arid-water-harvesting-and-erosion-control]] plant in pond and stream edge systems.
 
 ## Taxonomy and Classification
 
@@ -44,47 +44,93 @@ sources:
 
 - **Growth habit:** Perennial herb, 20–120 cm tall, growing prostrate or erect in shallow water or on saturated soils. Stems are hollow, succulent, and freely branching, rooting at the nodes when in contact with substrate. This rooting habit allows watercress to form dense floating mats that stabilize stream banks and provide habitat.
 - **Leaves:** Compound (pinnately divided), 5–20 cm long, with 3–9 broadly ovate to orbicular leaflets, each 1–5 cm wide. Terminal leaflet is largest. Leaflets are smooth-margined to slightly toothed, glossy dark green, and crisp-textured.
-- **Flowers:** Small (6–9 mm diameter), white, with four petals in a typical crucifer (cross-shaped) pattern. Borne in terminal racemes. Blooms May through October in [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]].
-- **Fruit:** Silique (capsule), 12–20 mm long, cylindrical, containing 8–12 seeds per pod. Seeds are small (0.8–1.0 mm), reddish-brown, viable for 5+ years.
-- **Roots:** Adventitious roots emerge from submerged stem nodes, forming a dense mat.
+- **Flowers:** Small (6–9 mm diameter), white, with four petals in a typical crucifer (cross-shaped) pattern. Borne in terminal racemes. Blooms May through October in [[cancer-prevention-dietary-mushroom-intake]]:** PEITC has been extensively studied for chemopreventive properties. Mechanisms include modulation of Phase I/Phase II detoxification enzymes, induction of apoptosis via caspase-3 and mitochondrial pathways, inhibition of histone deacetylase (HDAC) activity, and anti-angiogenic effects through suppression of HIF-1α and VEGF signaling. A landmark [[mushroom-immune-cell-activation-mechanisms]] function, while glucosinolate metabolites enhance macrophage activity and NK cell cytotoxicity.
 
-## Nutritional Profile (per 100 g raw, USDA data)
-
-| Property | Value |
-|---|---|
-| Calories | 11 kcal |
-| Protein | 2.3 g |
-| Carbohydrates | 1.3 g |
-| Dietary fiber | 0.5 g |
-| Fat | 0.1 g |
-| **Vitamin K** | 250 μg (312% DV) — highest natural source among common vegetables |
-| Vitamin C | 43 mg (48% DV) |
-| Vitamin A (as carotenoids) | 160 μg RAE (18% DV) |
-| Folate | 9 μg (2% DV) |
-| Calcium | 120 mg (12% DV) |
-| Iron | 0.2 mg (1% DV) |
-| Manganese | 0.2 mg (9% DV) |
-| Potassium | 330 mg (7% DV) |
-
-**Key bioactive phytochemicals:**
-
-- **Phenethyl isothiocyanate (PEITC):** The signature glucosinolate hydrolysis product, responsible for the pungent, peppery flavor. Most extensively studied compound for chemopreventive properties.
-- **Gluconasturtiin:** The primary glucosinolate (precursor to PEITC).
-- **Nasturtiin:** A unique glucosinolate also yielding PEITC upon myrosinase hydrolysis.
-- **Lutein and zeaxanthin:** Carotenoids important for eye health.
-- **Quercetin and kaempferol:** Flavonol antioxidants.
-- **α-Tocopherol:** Vitamin E with antioxidant activity.
-
-## Health Benefits and Pharmacology
-
-**[[cancer-prevention-dietary-mushroom-intake]]:** PEITC has been extensively studied for chemopreventive properties. Mechanisms include modulation of Phase I/Phase II detoxification enzymes, induction of apoptosis via caspase-3 and mitochondrial pathways, inhibition of histone deacetylase (HDAC) activity, and anti-angiogenic effects through suppression of HIF-1α and VEGF signaling. A landmark [[psilocybin-clinical-trial-landscape-2020-2025]] (Gill et al., 2007, *British Journal of Cancer*) demonstrated that a single serving (85 g) of watercress reduced lymphocyte DNA damage by 22.9% and increased blood antioxidant levels within hours of consumption.
-
-**Cardiovascular health:** Nitrates and PEITC contribute to vasodilation and reduction of platelet aggregation. Regular consumption is associated with reduced LDL cholesterol oxidation.
-
-**Bone health:** Exceptionally high vitamin K1 content supports osteocalcin carboxylation and bone mineralization. Epidemiological studies link high vitamin K intake with reduced fracture risk.
-
-**Immune function:** High vitamin C content supports [[mushroom-immune-cell-activation-mechanisms]] function, while glucosinolate metabolites enhance macrophage activity and NK cell cytotoxicity.
-
-**Eye health:** Lutein and zeaxanthin accumulate in the macula, protecting against age-related [[blesching-cannabis-age-related-macular-degeneration]] [[cryptochrome-and-blue-light-photoreception]] damage.
+**Eye health:** Lutein and zeaxanthin accumulate in the macula, protecting against age-related [[cryptochrome-and-blue-light-photoreception]] damage.
 
 ## Cultivation and Growing Conditions
+
+## Overview
+
+Nasturtium Officinale represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish nasturtium officinale
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving nasturtium extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Nasturtium Officinale finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for nasturtium officinale. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+nasturtium officinale and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Nasturtium Officinale has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of nasturtium officinale into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[comfrey-symphytum-officinale]]
+- [[cynoglossum-officinale]]
+- [[lithospermum-officinale]]
+- [[sisymbrium-officinale]]
+- [[taraxacum-officinale]]

@@ -19,8 +19,7 @@ type: concept
 ## Overview
 
 Targeted surveys conducted in dance music and clubbing settings across Europe
-revealed substantially higher prevalence of [[health-risks-and-harm-reduction-for-hallucinogenic-mushroom-use]] than
-general population or [[emcdda-hallucinogenic-mushroom-school-surveys-adolescent-use]]. These non-probability surveys, conducted
+revealed substantially higher prevalence of [[emcdda-hallucinogenic-mushroom-school-surveys-adolescent-use]]. These non-probability surveys, conducted
 in Belgium, France, Hungary, Italy, the Netherlands, and the UK, demonstrated
 that hallucinogenic mushroom use was strongly associated with nightclub and
 dance music cultures, with prevalence depending on country, city location,
@@ -42,23 +41,7 @@ prevalence estimates ranging from 9% to 55%:
 | Italy (Bologna)          | 2003 | 2,015       | Rave parade                              |
 
 The lowest prevalence (9%) was found among clubbers in Budapest, while the
-highest (55%) was reported in France. Despite differences in [[mycetozoan-survey-methods-substratum-plating]]
-and settings, the common finding across all clubbing surveys was that
-substantially higher drug prevalence estimates were found compared to general
-or school population surveys.
-
-## Comparison with General and School Populations
-
-The contrast between clubbing and general population prevalence was
-striking. In four countries where comparative data existed:
-
-- **Hungary**: Clubbers showed dramatically higher lifetime prevalence than
-  either the general population (15 to 24 year olds) or school students
-  (15 to 16 year olds).
-- **Czech Republic**: Similar pattern of significantly elevated prevalence
-  among clubbers.
-- **UK**: Clubbers had substantially higher rates than general population
-  and [[emcdda-hallucinogenic-mushroom-perceived-availability-espad-school-survey]] figures.
+highest (55%) was reported in France. Despite differences in [[emcdda-hallucinogenic-mushroom-perceived-availability-espad-school-survey]] figures.
 - **France**: The highest clubbing prevalence (55%) far exceeded general
   population estimates.
 
@@ -118,8 +101,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[det]]
 - [[emcdda-hallucinogenic-mushroom-school-surveys-adolescent-use]]
-- [[emcdda-hallucinogenic-mushroom-consequences-and-health-risks]]
 - [[emcdda-hallucinogenic-mushroom-smartshop-and-retail-outlets]]
 - [[european-hallucinogenic-mushroom-prevalence-and-trends]]

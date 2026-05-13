@@ -11,26 +11,7 @@ tags: [cannabis]
 
 # Cannabis Cloning
 
-Cloning is the asexual propagation of cannabis by taking cuttings from a [[rockwool-cannabis]] cubes, peat pellets, Oasis cubes,
-and aeroponic clone machines. Rockwool should be pre-soaked to pH 5-6 before use. The
-medium must hold adequate moisture while providing enough air for root development.
-
-## Environmental Requirements for Rooting
-
-- **Humidity:** 80-100 percent -- a humidity dome is essential
-- **Temperature:** 70-78 degrees F (21-26 degrees C); warmer than ideal encourages
-  fungal growth
-- **Light:** Low to moderate -- fluorescent or LED at reduced intensity
-- **pH:** Rooting medium pH of 5.0-6.0; clones root well in this range
-- **No fertilizer:** Do not fertilize clones or seedlings; excess nutrients delay or
-  prevent rooting
-
-## Rooting Timeline
-
-- **Days 1-5:** No visible root growth; cuttings may wilt slightly
-- **Days 5-10:** Callus formation at cut site; first white root tips emerge
-- **Days 10-14:** Roots become visible growing from the medium
-- **Days 14-21:** Root system is strong enough for transplant to [[cannabis-vegetative-growth-stage]]
+Cloning is the asexual propagation of cannabis by taking cuttings from a [[cannabis-vegetative-growth-stage]]
 
 ## Perpetual Harvest System
 
@@ -46,8 +27,7 @@ maintain than big plants in big containers.
 ## Clone vs. Seed Growth
 
 Clones grow about 25 percent slower and smaller than F1 hybrid plants grown from seed.
-F1 hybrids exhibit "[[cannabis-hybrid-vigor-and-phenotypes-clarke]]" -- a growth advantage from crossing genetically
-distinct parents. Hybrid vigor also makes plants less susceptible to [[hamilton-pest-and-disease-control-organic]]
+F1 hybrids exhibit "[[hamilton-pest-and-disease-control-organic]]
 problems. Clones lack this hybrid vigor but offer the advantage of genetic certainty.
 
 ## Clone Generations
@@ -62,56 +42,100 @@ sanitation rather than generation number.
 ## Strains and Cloning Difficulty
 
 Most Skunk and indica strains are easy to clone. Growers and sick plants cause most
-[[comparison-cannabis-clone-rooting-and-transplanting-vs-seed-germination]] problems. Weak plants that lack vigor provide slow-rooting weak clones.
-Poor growing conditions also affect clone strength. Ruderalis Indica and Ruderalis
-Skunk do not make suitable mother plants due to their auto-flowering capability.
-
-## Common Problems
-
-- **Wilting cuttings:** Usually caused by [[pf-tek-low-humidity-symptoms-and-remediation]] or damaged stems
+[[pf-tek-low-humidity-symptoms-and-remediation]] or damaged stems
 - **Rotting stems:** Overwatering, poor drainage, or fungal infection (Pythium)
 - **Slow rooting:** Low temperature, wrong pH, or old/lazy rooting hormone
 - **Algae on medium:** Too much light or moisture on the medium surface
 
 ## See Also
 
-- [[vegetative-phase-cannabis]] -- stage where clones grow after rooting
 - [[rockwool-cannabis]] -- common rooting medium
 - banisteriopsis caapi -- aeroponic cloning systems
-- [[cannabis-propagation-sexual-vs-asexual-clarke]]
-- fungal-culture-preservation-long-term-methods
+- [[doc]]
+- [[banisteriopsis-caapi]]
+- [[cannabis-cloning-guide]]
+
+## Overview
+
+Cannabis Cloning represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish cannabis cloning
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving cannabis extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
 
 ## Practical Applications
 
-The principles and techniques discussed here have wide-ranging applications
-across multiple disciplines and contexts. Practitioners and researchers
-continue to explore new ways to integrate these concepts into modern practice,
-adapting traditional knowledge to contemporary challenges and opportunities.
+Cannabis Cloning finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
 
-## Key Considerations
+## Management and Implementation
 
-Several important factors influence the effectiveness and outcomes described
-in this topic. Understanding these considerations helps practitioners make
-informed decisions and avoid common pitfalls. Environmental conditions,
-timing, and material selection all play critical roles.
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for cannabis cloning. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+cannabis cloning and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
 
 ## Historical Context
 
-The historical development of this subject reflects centuries of accumulated
-knowledge and practical experience. From traditional methods passed down
-through generations to modern scientific approaches, the evolution continues
-to inform current best practices and research directions.
+Cannabis Cloning has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
 
-## Common Challenges
+## Integration Strategies
 
-Practitioners frequently encounter several challenges when working with
-these concepts. Climate variability, resource limitations, and knowledge
-gaps can all affect outcomes. Addressing these challenges requires patience,
-observation, and a willingness to adapt approaches based on results.
+Successful integration of cannabis cloning into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
 
 ## See Also
-- [[doc]]
-- [[dom]]
-- [[banisteriopsis-caapi]]
-- [[green-cannabis-grow-bible-cloning-and-seed-propagation]]
-- [[cannabis-cloning-guide]]
+
+- [[blesching-cannabis-vasopressin-aggression]]
+- [[cannabis-cultivar-microbiome-specificity]]
+- [[green-cannabis-grow-bible-species-indica-sativa-ruderalis]]
+- [[lemon-haze-cannabis]]
+- [[query-how-to-harvest-and-cure-cannabis-for-best-flavor]]

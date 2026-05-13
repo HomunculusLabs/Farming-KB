@@ -1,6 +1,6 @@
 ---
 title: Coleman Mobile Greenhouse Rotation Design Two Three Four Plot Systems
-source: "[[eliot-coleman]] - The [[cold-house-winter-harvest-system]] Handbook"
+source: "cold-house-winter-harvest-system Handbook"
 source_path: "raw/papers/eliot-coleman-winter-harvest-handbook.md"
 topics: [coleman, winter-harvest, mobile-greenhouse, crop-rotation, double-cropping, succession-planting, greenhouse-design, intensive-cropping]
 ---
@@ -9,13 +9,7 @@ topics: [coleman, winter-harvest, mobile-greenhouse, crop-rotation, double-cropp
 
 ## Overview
 
-[[mobile-greenhouses]] enable sophisticated multi-crop rotation systems that would be impossible with static structures. By moving the protected environment across multiple plots throughout the year, a single greenhouse can service four to five distinct crop sequences annually. Coleman describes three rotation paradigms — two-plot, three-plot, and four-plot systems — each demonstrating how mobility multiplies the productive capacity of a fixed investment in greenhouse infrastructure.
-
-## The Core Principle: Progressive Crop Hardiness
-
-The foundation of all mobile greenhouse rotations is exploiting the **progressive hardiness** of different crops:
-
-- As temperatures drop in fall, the greenhouse moves from protecting tender [[coleman-greenhouse-summer-crops]] (tomatoes, cucumbers) to covering cold-hardy crops (spinach, leeks) that can withstand brief exposure when the house moves
+[[coleman-greenhouse-summer-crops]] (tomatoes, cucumbers) to covering cold-hardy crops (spinach, leeks) that can withstand brief exposure when the house moves
 - The timing of each move is determined by the point at which the next crop no longer needs (or first needs) greenhouse protection
 - This creates a relay system where the house "hands off" from one crop to the next as seasonal conditions change
 
@@ -27,21 +21,7 @@ The foundation of all mobile greenhouse rotations is exploiting the **progressiv
 - The two greenhouses are diagonally offset to prevent mutual shading
 
 ### Move Timing
-Houses are moved in the fall — as late in the season as possible to extend summer crop production while still covering [[coleman-semi-hibernating-winter-crops-harvest-extension]] before cold damage occurs.
-
-### Example Rotation
-| Plot | Summer (Under Greenhouse) | Pre-Winter (Exposed) | Winter (Under Greenhouse) |
-|------|--------------------------|---------------------|--------------------------|
-| A1 | Tomatoes | — | — |
-| A2 | — | Onions → Spinach | Spinach (house moved from A1) |
-| B1 | — | Peas → [[coleman-sweet-winter-carrots-cold-sweetening]] | [[coleman-winter-carrots]] (house moved from B2) |
-| B2 | Arugula, Pak Choi, Parsley, Flowers | — | — |
-
-### Four-Year Return Interval
-In this system, the same crop (e.g., tomatoes or carrots) does not return to the same plot more than once every four years. This provides an inherent disease break and nutrient balancing cycle.
-
-### Crop Sequencing Logic
-- **Onions before spinach**: Onions mature and are harvested early enough to allow soil preparation before the desired spinach [[coleman-winter-succession-planting-sowing-date-calculations-crop-timing]]
+Houses are moved in the fall — as late in the season as possible to extend summer crop production while still covering [[coleman-sweet-winter-carrots-cold-sweetening]] | [[coleman-winter-succession-planting-sowing-date-calculations-crop-timing]]
 - **Peas before carrots**: Peas mature and are harvested with sufficient lead time for carrot sowing under the moved house
 
 ## Three-Plot Rotation (One House, Three Moves)
@@ -82,44 +62,89 @@ The three-plot sequence exploits a natural hardiness gradient: tomatoes (frost-t
 | 11/30–3/25 | Ready for next carrots | Late Fall Lettuce | Overwinter Onions | — |
 
 ### Detailed Sequence
-1. **Winter (Nov 30 – Mar 25)**: House on Plot 1 protecting [[coleman-overwintered-onions-and-early-spring-crops]] or late-September-planted spinach
-2. **Early Spring (Mar 25 – Apr 25)**: Move to Plot 2 for April 1 sowing of carrots and beets; soil pre-warmed under closed house
-3. **Late Spring (Apr 25 – May 25)**: Move to Plot 3 for May 1 transplanting of zucchini and bush beans in alternating beds
-4. **Summer (May 25 – Jul 15)**: Move to Plot 4 for summer tomatoes
-5. **Late Summer (Jul 15 onward)**: Move back to Plot 2 for cucumber transplants (fall harvest, productive into October); after cucumbers, replace with four-week-old lettuce transplants
-6. **Fall**: New onion crop planted in Plot 3 (late August) following zucchini removal; onions remain uncovered until Thanksgiving when house moves from Plot 2's lettuce harvest to cover Plot 3's onions for winter
+1. **Winter (Nov 30 – Mar 25)**: House on Plot 1 protecting [[coleman-mobile-greenhouse-crop-rotation-design]]
+- [[coleman-mobile-greenhouse-design-and-operation]]
+- [[coleman-mobile-greenhouse-crop-rotation-soil-health]]
+
+## Overview
+
+Coleman Mobile Greenhouse Rotation Design Two Three Four Plot Systems represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish coleman mobile greenhouse rotation design two three four plot systems
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving coleman extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
 
 ## Practical Applications
 
-The principles and techniques discussed here have wide-ranging applications
-across multiple disciplines and contexts. Practitioners and researchers
-continue to explore new ways to integrate these concepts into modern practice,
-adapting traditional knowledge to contemporary challenges and opportunities.
+Coleman Mobile Greenhouse Rotation Design Two Three Four Plot Systems finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
 
-## Key Considerations
+## Management and Implementation
 
-Several important factors influence the effectiveness and outcomes described
-in this topic. Understanding these considerations helps practitioners make
-informed decisions and avoid common pitfalls. Environmental conditions,
-timing, and material selection all play critical roles.
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for coleman mobile greenhouse rotation design two three four plot systems. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+coleman mobile greenhouse rotation design two three four plot systems and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
 
 ## Historical Context
 
-The historical development of this subject reflects centuries of accumulated
-knowledge and practical experience. From traditional methods passed down
-through generations to modern scientific approaches, the evolution continues
-to inform current best practices and research directions.
+Coleman Mobile Greenhouse Rotation Design Two Three Four Plot Systems has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
 
-## Common Challenges
+## Integration Strategies
 
-Practitioners frequently encounter several challenges when working with
-these concepts. Climate variability, resource limitations, and knowledge
-gaps can all affect outcomes. Addressing these challenges requires patience,
-observation, and a willingness to adapt approaches based on results.
+Successful integration of coleman mobile greenhouse rotation design two three four plot systems into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
 
 ## See Also
-- [[coleman-mobile-greenhouse-crop-rotation-design]]
-- [[det]]
-- [[coleman-mobile-greenhouse-design-and-operation]]
-- [[coleman-greenhouse-end-wall-ventilation-design-mobile-houses]]
-- [[coleman-mobile-greenhouse-crop-rotation-soil-health]]
+
+- [[coleman-overwintered-onions-and-early-spring-crops]]
+- [[coleman-rolling-greenhouse-wheel-rail-design]]
+- [[coleman-winter-harvest-greenhouse-temperature-management]]

@@ -12,18 +12,13 @@ sources:
 
 ## Overview
 
-Fukuoka's essay on "Tasty Rice" dissects one of the most widespread delusions of modern agricultural society: the belief that distinct varieties of rice possess inherently superior taste, and that pursuing "tasty rice" through breeding, cultivation techniques, and market mechanisms is a worthwhile endeavor. This argument is a specific application of his broader [[fukuoka-natural-food-philosophy]]: taste is not an inherent property of food but a product of the relationship between the eater and the eaten. The farmer, the dealer, and the housewife all participate in creating the experience of taste, and in a deeper sense, no one creates tasty rice -- it arises from conditions that no single actor controls.
-
-One could say that it is the farmer, the rice dealer, and the housewife who create tasty rice. But in a sense, no one creates tasty rice. This paradox reflects Fukuoka's [[fukuoka-natural-diet-theory]] and toward a food system driven by delusion and commerce.
+Fukuoka's essay on "Tasty Rice" dissects one of the most widespread delusions of modern agricultural society: the belief that distinct varieties of rice possess inherently superior taste, and that pursuing "tasty rice" through breeding, cultivation techniques, and market mechanisms is a worthwhile endeavor. This argument is a specific application of his broader [[fukuoka-natural-diet-theory]] and toward a food system driven by delusion and commerce.
 
 ## See Also
 
-- [[fukuoka-natural-farming-philosophy]]
 - [[fukuoka-rice-barley-no-till-method]]
-- [[fukuoka-agricultural-pollution-and-consumer-culpability]]
 - [[fukuoka-critique-modern-agriculture]]
 
-- [[2c-d-pihkal-entry-23]]
 - [[fukuoka-road-back-to-nature-overview]]
 
 ## Practical Applications
@@ -97,8 +92,6 @@ through generations to modern scientific approaches, the evolution continues
 to inform current best practices and research directions.
 
 ## See Also
-- [[doc]]
 - [[det]]
-- [[fukuoka-tasty-rice-illusion-food-processing]]
 - [[fukuoka-textdoc-tasty-rice-delusion-food-flavor-crisis]]
 - [[fukuoka-natural-diet-tasty-rice-seasonal-eating]]

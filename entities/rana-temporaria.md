@@ -7,67 +7,11 @@ tags:
   - anura
   - raniidae
   - europe
-  - [[wetland-ecology]]
-date: 2026-05-09
-updated: 2026-05-09
-sources:
-  - Kuzmin, S.L. (1999). "The Amphibians of the Former Soviet Union." Pensoft Publishers.
-  - Gasc, J.P. et al. (1997). "Atlas of Amphibians and Reptiles in Europe." Societas Europaea Herpetologica.
-  - Beebee, T.J.C. & Griffiths, R.A. (2000). "Amphibians and Reptiles: A Natural History of the British Herpetofauna." HarperCollins.
-  - IUCN Red List (2024). "Rana temporaria." https://www.iucnredlist.org/species/58728/17805765
----
-
-## Overview
-
-**Rana temporaria**, the common frog, is a widespread amphibian found across much of Europe and northern Asia. It is one of the most recognizable and well-studied frog species in the Palearctic realm.
-
-Adults typically measure 6–9 cm in snout-vent length, with females slightly larger than males. The species exhibits considerable color variation, ranging from olive-green and brown to yellowish and reddish tones.
-
-Common frogs are semiaquatic, spending much of their active season in or near freshwater habitats. They play an important ecological role as both predators of invertebrates and prey for a variety of birds, mammals, and reptiles.
-
-The species is culturally significant across its range and serves as a [[canary-grass-phototropism-model-organism]] in developmental biology and physiology research.
+  - [[canary-grass-phototropism-model-organism]] in developmental biology and physiology research.
 
 Common frogs are among the first amphibians to breed in spring, often beginning while ice still partially covers breeding ponds. This early breeding strategy gives their tadpoles a head start before newt and dragonfly predators become active.
 
-Winter hibernation typically occurs on land, under logs, stones, or in [[dighton-fungal-decomposition-leaf-litter-dynamics]]. In northern parts of the range, frogs may hibernate underwater in the mud of pond bottoms.
-
-## Taxonomy and Morphology
-
-**Rana temporaria** Linnaeus, 1758 belongs to the family Ranidae (true frogs), order Anura.
-
-**Classification:**
-
-- Kingdom: Animalia
-- Phylum: Chordata
-- Class: Amphibia
-- Order: Anura
-- Family: Ranidae
-- Genus: Rana
-- Species: R. temporaria
-
-The common frog has a robust body with a relatively short, blunt snout. Its skin is smooth and moist, with glandular secretions that help maintain hydration.
-
-A distinctive dark patch extends from behind each eye over the eardrum (tympanum). The ventral surface is typically pale, often with mottled gray or brown markings.
-
-Hind legs are long and muscular, adapted for leaping and swimming. Webbing extends between the toes, with the webbing on the hind feet reaching the toe tips.
-
-Males develop nuptial pads (dark, keratinized thickenings) on the first digit of the forelimbs during the breeding season. These pads aid in gripping females during amplexus.
-
-The pupil is horizontally oval, a characteristic feature of the genus Rana. The iris is typically golden-brown with a darker upper portion. Coloration can change to some degree in response to environmental conditions, providing limited camouflage.
-
-## Distribution and Habitat
-
-The common frog has one of the broadest distributions of any European amphibian. Its range extends from Ireland and northern Spain eastward across Europe to western Siberia.
-
-It occurs as far north as the Arctic Circle in Scandinavia and as far south as the mountains of central Spain and the Balkans. The species is absent from most of southern Italy, southern Greece, and the Mediterranean islands.
-
-Isolated populations exist in mountainous areas of the Iberian Peninsula, where they may represent relicts from cooler climatic periods. Genetic studies suggest several distinct phylogeographic lineages across the species' range.
-
-Common frogs inhabit a wide variety of freshwater and terrestrial environments. Breeding sites include ponds, lakes, ditches, and slow-moving streams.
-
-During the non-breeding season, adults range through woodlands, meadows, gardens, and hedgerows. They require damp microhabitats to prevent desiccation.
-
-The species tolerates a broad altitudinal range, from sea level to approximately 2,500 meters in alpine regions. It is one of few amphibians that breed in temporary pools and [[hamilton-garden-ponds-and-aquatic-plants]].
+Winter hibernation typically occurs on land, under logs, stones, or in [[hamilton-garden-ponds-and-aquatic-plants]].
 
 Common frogs can tolerate moderately acidic conditions, with successful breeding documented at pH levels as low as 4.0. This tolerance allows them to exploit habitats avoided by more sensitive amphibian species.
 
@@ -88,3 +32,80 @@ In captivity, common frogs have been documented living up to 12 years, though wi
 Common frogs are preyed upon by herons, owls, grass snakes, and various mammalian predators. Their primary defense is rapid leaping, supplemented by skin secretions that are mildly distasteful.
 
 Tadpoles are primarily herbivorous, feeding on algae and aquatic vegetation. As development progresses, they become increasingly omnivorous, consuming small invertebrates and detritus.
+
+## Overview
+
+Rana Temporaria represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish rana temporaria
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving rana extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Rana Temporaria finds practical application in multiple design contexts.
+[[permaculture-principles]] guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for rana temporaria. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+rana temporaria and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Rana Temporaria has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of rana temporaria into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.

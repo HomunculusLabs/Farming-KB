@@ -8,65 +8,7 @@ sources: ["Shulgin - PIHKAL"]
 ---
 # 2-TIM
 
-[[2c-b-pihkal-entry-20]] #152. 2-THIOISOMESCALINE; 3,4-DIMETHOXY-2-.
-
-## Chemical Name
-
-2-THIOISOMESCALINE; 3,4-DIMETHOXY-2-
-
-## Dosage and Duration
-
-| Property | Value |
-|----------|-------|
-| Dosage | greater than 240 mg. |
-| Duration | unknown. |
-
-## Qualitative Comments
-
-> (with 160 mg) There was perhaps some awareness
-> in an hour or so, but in another hour there was absolutely nothing. A
-> small amount of wine in the evening was quite intoxicating.
->
-> (with 240 mg) No effects of any kind.
-
-## Extensions and Commentary
-
-The problems that might be associated with
-the making of the three amphetamines that correspond to 2-TIM, 3-TIM
-and 4-TIM might very well prove quite exciting. These would be the
-three thio analogues of TMA-3; vis,
-3,4-dimethoxy-2-methylthioamphetamine,
-2,4-dimethoxy-3-methylthioamphetamine, and
-2,3-dimethoxy-4-thioamphetamine. The first challenge would be to name
-them. Using the 2C-3C convention, they would be the 3C analogs of
-trivially named 2-carbon compounds, namely 3C-2-TIM, 3C-3-TIM and
-3C-4-TIM. Using the thio convention (the number before the T is the
-position of the sulfur atom), they would be 2-T-TMA-3, 3-T-TMA-3 and
-4-T-TMA-3. The second challenge would be their actual synthesis. The
-information gained from the separation of the 2-carbon nitrostyrenes
-and that most remarkable mixed-nitrostyrene thing that acted as a
-single pure material, would not be usable. But it is intriguing to
-speculate if there might be some parallel problems in the 3-carbon
-world. It seems almost certain that none of the compounds would be
-pharmacologically active, so the incentive would be the challenge of
-the chemistry. Some day, maybe.
-
-## Synthesis
-
-A short foreword to the synthetic portion is needed.
-First, although the required thioanisole, 2,3-dimethoxythioanisole, is
-
-now commercially available, it is of the utmost importance that it be
-free of the impurity, veratrole. I know that the material presently
-available from Aldrich Chemical Company is satisfactory, as I have had
-a hand in making it. But, if veratrole is present, there are very
-difficult separations encountered during these preparations. And
-secondly, the synthesis of 2-TIM and 4-TIM requires a separation of
-isomers. The first intermediates are common to both. They will be
-presented here, under this recipe for 2-TIM.
-
-A solution of 150 mL of 1.6 M butyllithium in hexane under N2 was
-vigorously stirred and diluted with 150 mL [[petroleum-ether]] (30-60 deg C)
+[[petroleum-ether]] (30-60 deg C)
 and then cooled with an external ice bath to 0 deg C. The addition of
 26.7 g of veratrole produced a flocculant white precipitate. Next,
 there was added a solution of 23.2 g of
@@ -90,5 +32,89 @@ analytical sample can be obtained by cooling a concentrated MeOH
 solution in dry ice, filtering the generated crystals, and washing
 
 ## See Also
-- [[3-4-dma-entity-pihkal]]
 - [[2c-h-entity-pihkal]]
+
+## Overview
+
+2 Tim Entity Pihkal represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish 2 tim entity pihkal
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving 2 extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+2 Tim Entity Pihkal finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for 2 tim entity pihkal. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+2 tim entity pihkal and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+2 Tim Entity Pihkal has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of 2 tim entity pihkal into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[2c-g-3-entity]]
+- [[4-5-mdo-dmt-entity-tihkal]]
+- [[5-6-mdo-dipt-entity-tihkal]]
+- [[mdcpm-entity-pihkal]]
+- [[methyl-k-entity-pihkal]]

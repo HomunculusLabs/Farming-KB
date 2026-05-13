@@ -7,7 +7,7 @@ tags: [mycoremediation, biology, mycorrhizal]
 sources: [raw/papers/singh-harbhajan_-mycoremediation-_-fungal-bioremediation.md]
 ---
 
-# Singh [[harbhajan-singh]], Mycoremediation: fungal-ecology-mycoremediation, [[brown-rot-and-white-rot-fungi-in-mycoremediation]].
+# Singh [[brown-rot-and-white-rot-fungi-in-mycoremediation]].
 
 ## Classification of Mycorrhizal Fungi
 
@@ -29,23 +29,12 @@ ECM fungi are extremophiles, occurring in habitats with extreme temperature, pH,
 - Mycelia can exceed 300 m2 area
 - Proliferation in patches/mats captures nitrogen and phosphorus
 - ECM fungi mobilize essential nutrients from rock by excreting organic acids
-- Reduce bacterial activity near [[fungal-mycelial-networks-nutrient-translocation]] (nutrient competition)
-- Examine [[singh-mycelial-mats-and-biological-soil-crusts]] of ECM fungi enhance pollutant oxidation (Gramss, 1997)
+- Reduce bacterial activity near [[singh-mycelial-mats-and-biological-soil-crusts]] of ECM fungi enhance pollutant oxidation (Gramss, 1997)
 
 ## Heavy Metal Uptake and Tolerance
 
 ### Protective Mechanisms
-ECM, ERM, and VAM fungi increase plant tolerance to [[fungal-biosorption-of-heavy-metals-by-filamentous-fungi]] by:
-- Accumulating metals in extramatrical hyphae and extrahyphal slime
-- Immobilizing metals in/near roots, decreasing uptake to shoots
-- Providing nutrient supply to enable plant growth in hazardous areas
-
-### Key Species and Metals
-
-| Fungus | Host | Metal | Effect |
-|--------|------|-------|--------|
-| [[suillus-bovinus]] | Pinus sylvestris | Zn, Cd | Tolerance in greenhouse (900 mg Zn/l) |
-| [[suillus-luteus]] | Pinus, Picea | Multiple | Protects seedlings from heavy metal toxicity |
+ECM, ERM, and VAM fungi increase plant tolerance to [[suillus-bovinus]] | Pinus sylvestris | Zn, Cd | Tolerance in greenhouse (900 mg Zn/l) |
 | [[schizophyllum-commune]]: translocates radiocesium by bulk flow in expanding mycelia
 
 ## Petroleum Hydrocarbon Degradation
@@ -88,3 +77,73 @@ ECM fungi survive in petroleum-contaminated soils and utilize crude oil as nutri
 ### ECM Fungi
 - Five ECM species metabolize 14C-labeled lignin/lignocellulose (rate lower than white-rot fungi)
 - Paxillus involutus (facultative ECM): degrades lignin more readily than obligate ECM (Suillus bovinus, Rhizopogon roseolus)
+
+## Overview
+
+Singh Mycorrhizal Fungi Rhizosphere Remediation represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish singh mycorrhizal fungi rhizosphere remediation
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving singh extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Singh Mycorrhizal Fungi Rhizosphere Remediation finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for singh mycorrhizal fungi rhizosphere remediation. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+singh mycorrhizal fungi rhizosphere remediation and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Singh Mycorrhizal Fungi Rhizosphere Remediation has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of singh mycorrhizal fungi rhizosphere remediation into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.

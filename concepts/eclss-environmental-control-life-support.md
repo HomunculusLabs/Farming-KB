@@ -9,26 +9,13 @@ An Environmental Control and Life Support System (ECLSS) is a critical subsystem
 ### Atmospheric Management
 - **Oxygen supply**: Generating and distributing breathable oxygen (typically 20.1–23.5% partial pressure)
 - **Carbon dioxide removal**: Scrubbing CO₂ from cabin air to maintain levels below 5.3 mmHg (0.7%)
-- **Nitrogen management**: Maintaining total cabin pressure at approximately 14.7 psi ([[vegetable-storage-conditions-by-temperature-and-humidity]] Control
-- **Cabin temperature**: Maintained at 18–27°C (64–80°F), nominally 22°C
-- **Relative humidity**: Controlled to 30–70%, nominally 40–60%
-- **Heat rejection**: Collecting and rejecting waste heat from crew, equipment, and solar radiation to the [[aseptic-specimen-transfer-space-environment-microwave-sterilizable-access-port]] via radiators
+- **Nitrogen management**: Maintaining total cabin pressure at approximately 14.7 psi ([[aseptic-specimen-transfer-space-environment-microwave-sterilizable-access-port]] via radiators
 - **Condensate management**: Collecting and processing water condensed from humid cabin air
 
 ### Water Recovery and Management
 - **Urine processing**: Converting crew urine into potable water through distillation and filtration
 - **Washwater recovery**: Processing water from hygiene activities (handwashing, showering)
-- **Condensate processing**: Recoveri [[mollison-designers-soil-water-storage-in-forest-systems]] trict potability standards
-- **Water storage**: Managing clean and waste water storage tanks
-
-### Waste Management
-- **Solid waste**: Collecting, processing, and storing solid waste (feces, food waste, trash)
-- **Liquid waste**: Processing urine and other liquid wastes for water recovery or disposal
-- **Hygiene waste**: Managing personal hygiene products and medical waste
-
-## Sterilization Challenges in ECLSS
-
-The need for reliable [[challenge-organisms-nasa-microwave-surface-sterilization-testing]] within ECLSS systems was a primary motivation for NASA's development of the [[msap-subsystem-architecture-microwave-sterilizable-access-port]] Access Po [[pf-tek-low-humidity-symptoms-and-remediation]]
+- **Condensate processing**: Recoveri [[challenge-organisms-nasa-microwave-surface-sterilization-testing]] within ECLSS systems was a primary motivation for NASA's development of the [[pf-tek-low-humidity-symptoms-and-remediation]]
 
 ### Flight Experiment Access
 - Biological experiments aboard spacecraft require sterile handling
@@ -49,38 +36,13 @@ The ISS ECLSS is the most sophisticated life support system ever operated in spa
 ### Space Shuttle
 - Less sophisticated than ISS ECLSS
 - Used lithium hydroxide canisters for CO₂ removal (consumable, not regenerative)
-- [[microbial-fuel-cells-remediation]] provided both electrical power and drinking water as a byproduct
-- Limited water recycling capability
-
-### Future Systems (Artemis, Mars Transit)
-- Planned closed-loop systems targeting 98%+ water recovery
-- Integration of biological waste processing (bioreactors)
-- In-situ resource utilization (ISRU) for lunar and Martian water extraction
-- Advanced air revitalization using solid amine sorbents
-
-## Microbial Considerations
-
-### Microbial Ecology in Spacecraft
-The closed environment of a spacecraft creates a unique microbial ecology:
-
-- **Initial microbiome**: Introduced by crew, cargo, and pre-launch contamination
-- **Selection pressure**: Microgravity, radiation, and closed conditions select for adapted organisms
-- **Virulence changes**: Some bacteria show increased virulence and antibiotic resistance in spaceflight
-- **Biofilm enhancement**: Biofilms form more readily and are often thicker in microgravity
-
-### Common Spacecraft Contaminants
-- **Bacteria**: *[[greg-green-water-quality-and-hard-water]] throughout the habitable volume
+- [[greg-green-water-quality-and-hard-water]] throughout the habitable volume
 
 ## Water Quality Standards
 
 Spacecraft drinking water must meet stringent standards equivalent to or exceeding Earth-based potable water regulations:
 
-- **Total [[dighton-fungal-dissolved-organic-carbon-production]] (TOC)**: < 500 μg/L
-- **Conductivity**: < 50 μS/cm
-- **pH**: 4.5–8.0
-- **Microbial count**: < 50 CFU/mL (total heterotrophic bacteria)
-- **Coliform bacteria**: Must be non-detectable
-- **[[fungal-biosorption-of-heavy-metals-by-filamentous-fungi]]**: Below WHO drinking water guideline levels
+- **Total [[fungal-biosorption-of-heavy-metals-by-filamentous-fungi]]**: Below WHO drinking water guideline levels
 
 Water quality is monitored continuously using onboard sensors, with periodic laboratory analysis of returned samples. The water recovery systems on the ISS consistently produce water that meets or exceeds these standards, though taste complaints from crew members are common (the water is described as "medicinal" or "iodine-tasting" due to residual biocides).
 
@@ -117,8 +79,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[det]]
 - [[sterilization]]
-- [[mushroom-growing-room-environmental-control]]
 - [[fruiting-chamber-design-and-environmental-control]]
 - [[chen-maitake-growth-parameters-environmental-control]]

@@ -69,40 +69,19 @@ the most remarkable examples of indigenous pharmacological discovery.
 N,N-dimethyltryptamine (DMT), the primary visionary compound, is orally
 ## See Also
 
-- [[ayahuasca-botany-and-preparation]] for detailed botanical
-  information and preparation methods
 - [[dmt-and-ayahuasca-history]] for historical discovery and McKenna's
   first-person accounts of ayahuasca experiences
-- [[ayahuasca-preparation-and-ceremony]] for complete ceremonial
-  structure and contemporary use contexts
 - [[ayahuasca-tourism-ethics]] for ethical considerations in ayahuasca
   tourism and practical guidance for prospective visitors
-- [[shipibo-people-and-ayahuasca-tradition]] for Shipibo
-  cosmology, icaros, kene designs, and visionary art traditions
 - [[amazonian-vegetalista-shamanism-degrees-and-hierarchy]] for the
   three degrees of mastery and the healer/sorcerer distinction
-- [[amaringo-plant-teachers-and-vegetalista-cosmology]] for plant
-  spirits, mother beings, and the cosmological worldview
-- [[dmt-containing-plants-and-maoi-combination]] for [[dimethyltryptamine-dmt-chemistry-and-pharmacology]],
-  MAOI sources, and alternative plant combinations
-- [[iboga-and-ibogaine-profile]] for the African entheogenic tradition
+- [[dmt-containing-plants-and-maoi-combination]] for [[iboga-and-ibogaine-profile]] for the African entheogenic tradition
   and ibogaine's anti-addiction properties
 -  for the unique kappa-opioid
   pharmacology and Mazatec traditional use
-- [[ketamine-compound-profile]] for NMDA antagonist mechanism and
-  FDA-approved therapeutic applications
 - [[ayahuasca-tourism-legal-status-by-country]] for detailed legal
   analysis across Peru, Brazil, Bolivia, and international frameworks
-- [[amazonian-ayahuasca-purge-and-diet-practices]] for the purge,
-  tobacco use, and dietary discipline in Amazonian healing
-- [[harm-reduction-guide]] for comprehensive [[shulgin-safety-principles-self-experimentation]]
-  applicable to all psychedelic substances
-
-## References
-
-- McKenna, Terence. *Food of the Gods: The Search for the Original Tree
-  of Knowledge*. Bantam Books, 1992. Chapters 14-15.
-- Amaringo, Pablo and Luis Eduardo Luna. *[[amaringo-ayahuasca-visions-shipibo-iconography]]: The
+- [[harm-reduction-guide]] for comprehensive [[amaringo-ayahuasca-visions-shipibo-iconography]]: The
   Religious Iconography of a Peruvian Shaman*. North Atlantic Books,
   1991.
 - Luna, Luis Eduardo. *Vegetalismo: Shamanism Among the Mestizo
@@ -111,22 +90,14 @@ N,N-dimethyltryptamine (DMT), the primary visionary compound, is orally
 - Schultes, Richard Evans and Albert Hofmann. *Plants of the Gods:
   Their Sacred, Healing, and Hallucinogenic Powers*. Healing Arts
   Press, 1992.
-- Stuart, R. "[[stuart-r-ayahuasca-tourism-cautionary-ethnography]]: A Cautionary Tale." 2002. Field
-  observations from Ucayali, Peru, supported by a MAPS research grant.
-- Metzner, Ralph (ed.). *Ayahuasca: Human Consciousness and the Spirits
-  of Nature*. Thunder's Mouth Press, 1999.
-- Halpern, J.H. "Hallucinogens and Dissociative Agents Naturally
-  Growing in the [[dmt-containing-plants-united-states-halpern]]." *Pharmacology and Therapeutics*.
+- Stuart, R. "[[dmt-containing-plants-united-states-halpern]]." *Pharmacology and Therapeutics*.
 - Shulgin, Alexander and Ann Shulgin. *TiHKAL: The Continuation*.
   Transform Press, 1997. (Iboga and ibogaine entries.)
 - Labate, Beatriz Caiuby and Clancy Cavnar (eds.). *Ayahuasca
   Shamanism in the Amazon and Beyond*. Oxford University Press, 2014.
 - Palhano-Fontes, Fernanda et al. "The Psychedelic State Induced by
   Ayahuasca Modulates the Activity and Connectivity of the Default
-  [[default-mode-network-and-ego-dissolution]]." *PLoS ONE*, 2015.
-## Hallucinogenic Drugs in Psychotherapy History
-
-# Hallucinogenic Drugs in Psychotherapy History ## Overview The use of hallucinogenic drugs in psychotherapy spans several distinct eras, paradigms, and cultural traditions. Ralph Metzner's comparative overview identifies four paradigms: (1) standard Western psychedelic psychotherapy, (2) shamanic rituals of healing and divination, (3) syncretic folk religious ceremonies, and (4) hybrid shamanic-therapeutic rituals. ## Western Paradigm: Psycholytic Therapy When LSD's mind-altering properties were first discovered, it was characterised as "psychotomimetic" and "psycholytic." The psycholytic concept became the dominant model in Europe. Neurotic patients suffering from anxiety, depression, or obsessive-compulsive disorders were given LSD in a series of sessions at gradually increasing doses, while undergoing standard analytic interactions using a Freudian perspective. The Czech psychiatrist **[[stanislav-grof]]**, working within this model, discovered that patients would relive birth and pre-birth memories -- patterns he named "perinatal matrices." ## Western Paradigm: Psychedelic Therapy More or less simultaneously, the psychedelic model became preferred in Anglo-American circles. ...
+  [[stanislav-grof]]**, working within this model, discovered that patients would relive birth and pre-birth memories -- patterns he named "perinatal matrices." ## Western Paradigm: Psychedelic Therapy More or less simultaneously, the psychedelic model became preferred in Anglo-American circles. ...
 
 ## MDA Compound Profile
 

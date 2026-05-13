@@ -22,42 +22,13 @@ type: concept
 
 ## Overview
 
-Organic nutrients, manure, [[cervantes-dolomite-lime-ph-buffering]]. In a container,
-there is little space to build the soil by mixing all kinds of neat
-composts and cervantes organic amendments chart. It is easier and safer to throw old,
-depleted soil outdoors and start new plants with fresh organic soil.
-
-Usually, growers use a mix of about 20 percent worm castings with other
-organic agents to get a strong, readily available [[cervantes-organic-mineral-amendments]]
+Organic nutrients, manure, [[cervantes-organic-mineral-amendments]]
 Collected at slaughterhouses, dried, and ground into a powder. Packed
 with fast-acting soluble nitrogen (12 to 15 percent by weight), about 1.2
-percent [[cannabis-potassium]]. This
-natural fertilizer is difficult to over-apply and is immediately available
-to plants. Even deodorized [[solomon-foliar-feeding-fish-emulsion-and-kelp]] smells like dead fish.
+percent [[solomon-foliar-feeding-fish-emulsion-and-kelp]] smells like dead fish.
 
 ### Seabird Guano
-High in nitrogen and other nutrients. [[chiric-caspi-brunfelsia-south-american-hallucinogen]] guano from the coast
-of Peru and northern Chile is considered the world's best. The Humboldt
-Current keeps rain from falling, and decomposition is minimal. Guano is
-scraped off rocks of arid sea islands. Nutrient content varies by source.
-
-### Cottonseed Meal
-Leftover by-product of oil extraction. This acidic fertilizer contains
-about 7 percent nitrogen, 2.5 percent phosphorus, and 1.5 percent potash.
-Should be combined with steamed bone meal and seaweed for a balanced
-fertilizer blend.
-
-### Alfalfa Meal
-Contains 2.5% nitrogen, 5% phosphorus, and about 2% potash. Outdoor
-growers use pelletized animal feed as a slow-release fertilizer.
-
-## Phosphorus-Rich Amendments
-
-### Bone Meal (Steamed)
-Fresh animal bones boiled or steamed under pressure to render out fats.
-Contains up to 30% phosphorus and about 1.5% nitrogen. The finer the
-grind, the faster it becomes available. Lime content helps reduce soil
-acidity. Use in conjunction with other [[hamilton-organic-fertilizers-and-plant-nutrition]] for best
+High in nitrogen and other nutrients. [[hamilton-organic-fertilizers-and-plant-nutrition]] for best
 results.
 
 ### Rock Phosphate (Hard)
@@ -75,8 +46,7 @@ few months.
 Kelp is the "cadillac" of trace minerals. Seaweed contains 60 to 70 trace
 minerals already chelated (water-soluble and mobile). Seaweed meal is
 packed with potassium, trace elements, vitamins, amino acids, and plant
-hormones. Contributes to soil life, structure, and [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]].
-Kelp meal also eases [[query-how-to-prevent-transplant-shock-when-moving-cannabis-plants]].
+hormones. Contributes to soil life, structure, and [[query-how-to-prevent-transplant-shock-when-moving-cannabis-plants]].
 
 Liquid seaweed contains N-P-K, all necessary trace elements in chelated
 form, and plant hormones. Apply diluted to soil for quick deficiency
@@ -118,8 +88,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[jorge-cervantes]]
 - [[soil-life]]
-- [[decomposition]]
 - [[cervantes-organic-mineral-amendments]]
 - [[cervantes-neem-oil-organic-pest-control]]

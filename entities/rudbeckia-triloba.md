@@ -10,7 +10,7 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Urbatsch L.E., Cox P.B. (2006). "Rudbeckia." In Flora of psilocybin-north-america-pacific-northwest Editorial Committee (ed.), Flora of North America North of Mexico, Vol. 21. Oxford University Press.
+  - Urbatsch L.E., Cox P.B. (2006). "Rudbeckia." In Flora of psilocybin-north-america-pacific-northwest Editorial Committee (ed.), Flora huckleberries-and-wild-berries-of-north-america North of Mexico, Vol. 21. Oxford University Press.
   - Barnes T.G., Swanson S.J. (2004). "Selection of native warm-season grasses for use in riparian zones." Native Plants Journal 5(1): 5–11.
   - USDA NRCS. "Rudbeckia triloba." PLANTS Database.
   - Cullina W. (2000). "The New England Wild Flower Society Guide to Growing and Propagating Wildflowers." Houghton Mifflin.
@@ -23,9 +23,9 @@ sources:
 
 **Rudbeckia triloba** L., commonly known as brown-eyed Susan or three-lobed coneflower, is a short-lived perennial herbaceous plant in the family Asteraceae. It is native to eastern and central North America, from New York and Massachusetts west to Minnesota and south to Texas and Florida.
 
-The species is distinguished from the more widely known black-eyed Susan (*Rudbeckia hirta*) by its taller stature, more numerous flower heads per plant, and distinctive three-lobed lower leaves. It typically reaches 0.9–1.5 meters in height and produces dozens of smaller flower heads (2.5–5 cm across) with warm orange-yellow rays and dark brown central cones.
+The species is distinguished from the more widely known black-eyed Susan (*[[rudbeckia-hirta]]*) by its taller stature, more numerous flower heads per plant, and distinctive three-lobed lower leaves. It typically reaches 0.9–1.5 meters in height and produces dozens of smaller flower heads (2.5–5 cm across) with warm orange-yellow rays and dark brown central cones.
 
-Brown-eyed Susan is a popular subject for native plant gardens, pollinator meadows, and ecological landscaping projects. Its extended bloom period from mid-summer to hard frost provides continuous nectar resources for butterflies, [[query-how-to-attract-native-bees-and-beneficial-insects]], and other [[comparison-beneficial-insects-guide-vs-integrated-pest-management]].
+Brown-eyed Susan is a popular subject for native plant gardens, pollinator meadows, and [[growing-gourmet-mushrooms-mycelium-mycopermaculture-ecological-landscaping]] projects. Its extended bloom period from mid-summer to hard frost provides continuous nectar resources for butterflies, [[comparison-beneficial-insects-guide-vs-integrated-pest-management]].
 
 Despite being short-lived (individual plants typically persist 2–4 years), *R. triloba* reliably self-seeds and can form persistent colonies in cultivated settings. Its adaptability to a range of soil and light conditions makes it one of the easiest native wildflowers to establish.
 
@@ -47,21 +47,13 @@ The species produces a bushy, multi-branched habit that can spread 60–90 cm in
 
 ## Distribution and Habitat
 
-The species is native to the eastern and central [[dmt-containing-plants-united-states-halpern]], from Massachusetts and New York west to Wisconsin and Minnesota, south to Oklahoma, Texas, and the Gulf Coast states. Isolated populations occur in southern Ontario, Canada.
-
-It occupies open habitats including woodland edges, savannas, thickets, stream banks, meadows, pastures, and disturbed sites such as roadsides and abandoned fields. It is tolerant of partial shade, a trait that distinguishes it from most other *Rudbeckia* species that require full sun.
-
-*R. triloba* is hardy to USDA Zone 4 (−34 °C) and tolerates a wide range of soil types including clay, loam, and sandy soils. It prefers moist, well-drained conditions but establishes readily on dry sites once the taproot-like root system develops.
-
-The species is widely planted in gardens and restorations across its range and has naturalized in scattered locations outside its native distribution, particularly in the northeastern United States and Pacific Northwest. It is not considered ecologically invasive.
-
-In ecological restoration, *R. triloba* is included in seed mixes for prairie reconstructions, riparian buffer plantings, and roadside beautification projects. Its tolerance of partial shade and [[fukuoka-ideal-rice-plant-morphology-compact-growth-high-yield]] form make it well-suited to understory plantings in open woodlands and savanna restorations.
+The species is native to the eastern and central [[fukuoka-ideal-rice-plant-morphology-compact-growth-high-yield]] form make it well-suited to understory plantings in open woodlands and savanna restorations.
 
 ## Ecology and Pollinator Value
 
 *R. triloba* is a significant nectar and pollen resource for a wide range of pollinators. The small, accessible flower heads with abundant pollen are particularly attractive to native bees including small carpenter bees (*Ceratina* spp.), sweat bees (*Lasioglossum* spp.), and leafcutter bees (*Megachile* spp.).
 
-Butterfly visitors include monarchs (*Danaus plexippus*), painted ladies (*Vanessa cardui*), various sulphurs (*Colias* spp.), and skippers (Hesperiidae). The prolonged bloom period (July–October in most areas) makes brown-eyed Susan one of the most reliable late-season nectar sources in eastern deciduous forest ecosystems.
+Butterfly visitors include monarchs (*Danaus plexippus*), painted ladies (*Vanessa cardui*), various sulphurs (*Colias* spp.), and skippers (Hesperiidae). The prolonged bloom period (July–October in most areas) makes brown-eyed Susan one of the most reliable late-season nectar sources in eastern deciduous [[dighton-fungi-acidifying-pollutants-forest-ecosystems]].
 
 Goldfinches, chickadees, and other small seed-eating birds consume the achenes in autumn. The dense, bushy growth form provides cover for ground-nesting birds and small mammals. The species serves as a minor host plant for the silvery checkerspot butterfly (*Chlosyne nycteis*).
 
@@ -77,7 +69,7 @@ The species performs best in full sun to partial shade with average, well-draine
 
 Deadheading spent flower heads can extend the bloom period but eliminates the seed source necessary for natural recruitment. For naturalizing, allow seed heads to mature and shatter in place. Self-seeded progeny will flower in the second year.
 
-In mixed perennial borders, brown-eyed Susan combines effectively with native grasses (*Panicum virgatum*, *Schizachyrium scoparium*), asters (*Symphyotrichum* spp.), and goldenrods (*Solidago* spp.). The warm orange-yellow flowers create a strong visual contrast with purple asters and blue salvias.
+In mixed perennial borders, brown-eyed Susan combines effectively with native grasses (*[[panicum-virgatum]]*, *[[schizachyrium-scoparium]]*), asters (*Symphyotrichum* spp.), and goldenrods (*Solidago* spp.). The warm orange-yellow flowers create a strong visual contrast with purple asters and blue salvias.
 
 The cultivar 'Prairie Glow' is a widely available selection noted for its deeper orange ray coloration and compact habit. Several seed strains are marketed by native plant nurseries, including strains selected for uniform height and extended bloom period.
 

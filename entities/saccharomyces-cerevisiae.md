@@ -16,12 +16,12 @@ sources:
 
 # Saccharomyces cerevisiae
 
-**Saccharomyces cerevisiae** is a species of budding yeast that is arguably the most extensively studied and commercially important single-celled eukaryote. Commonly known as **baker's yeast** or **brewer's yeast**, it has been used by humans for thousands of years in the production of bread, beer, wine, and other fermented foods and beverages. Beyond its traditional roles, *S. cerevisiae* serves as a premier model organism in molecular and cell biology, and its genome was the first eukaryotic genome to be completely sequenced.
+**Saccharomyces cerevisiae** is a species of budding yeast that is arguably the most extensively studied and commercially important single-celled eukaryote. Commonly known as **baker's yeast** or **brewer's yeast**, it has been used by humans for thousands of years in the production of bread, beer, wine, and other [[fermented-foods-and-beverages]]. Beyond its traditional roles, *S. cerevisiae* serves as a premier model organism in molecular and cell biology, and its genome was the first eukaryotic genome to be completely sequenced.
 
 ## Taxonomy and Classification
 
 - **Kingdom:** Fungi
-- **Division:** Ascomycota
+- **Division:** [[ascomycota]]
 - **Class:** Saccharomycetes
 - **Order:** Saccharomycetales
 - **Family:** Saccharomycetaceae
@@ -34,18 +34,9 @@ The genus name *Saccharomyces* derives from Greek words meaning "sugar fungus," 
 *Saccharomyces cerevisiae* is a unicellular fungus with the following characteristics:
 
 - **Cell Shape:** Ovoid to ellipsoidal, typically 5 to 10 μm in diameter
-- **Reproduction:** Reproduces asexually by budding, in which a small daughter cell emerges from the surface of the mother cell. Under nutrient limitation, it can also undergo [[fungal-life-cycles-sexual-reproduction-metamorphosis]], forming diploid cells that undergo meiosis to produce four haploid ascospores contained within an ascus
-- **[[staycare-degradation-of-plant-cell-wall-polymers-by-fungi]]:** Composed of glucans, mannoproteins, and chitin. Beta-1,3-glucan is the major structural component, while beta-1,6-glucan provides cross-linking. The cell wall also contains alpha-1,3-glucan, though this is a minor component compared to pathogenic fungi
+- **Reproduction:** Reproduces asexually by budding, in which a small daughter cell emerges from the surface of the mother cell. Under nutrient limitation, it can also undergo [[staycare-degradation-of-plant-cell-wall-polymers-by-fungi]]:** Composed of glucans, mannoproteins, and chitin. Beta-1,3-glucan is the major structural component, while beta-1,6-glucan provides cross-linking. The cell wall also contains alpha-1,3-glucan, though this is a minor component compared to pathogenic fungi
 - **Genome:** Approximately 12 Mb in size, distributed across 16 chromosomes, containing approximately 6,275 protein-coding genes. The genome is highly compact, with relatively small intergenic regions compared to higher eukaryotes
-- **Subcellular Organization:** Contains a nucleus, mitochondria, endoplasmic reticulum, Golgi apparatus, vacuoles, and peroxisomes. Unlike filamentous fungi, it does not produce [[fungal-woronin-bodies-and-septal-pore-organization]]
-
-## Historical Significance
-
-The relationship between humans and *S. cerevisiae* is one of the oldest examples of biotechnology:
-
-- **Ancient Origins:** Archaeological evidence suggests that humans were using yeast for bread and alcoholic fermentation by at least 4,000 BCE in ancient Egypt and Mesopotamia, and possibly much earlier
-- **Discovery of Microorganisms:** In the 19th century, Louis Pasteur's work on alcoholic fermentation established the role of yeast as a living organism responsible for the process, disproving the spontaneous generation theory
-- **Modern Genetics:** *S. cerevisiae* was instrumental in the development of modern genetics. George Beadle and Edward Tatum used *[[neurospora-crassa]]* to establish the one gene-one enzyme hypothesis, but *S. cerevisiae* became the dominant model for studying eukaryotic molecular biology
+- **Subcellular Organization:** Contains a nucleus, mitochondria, endoplasmic reticulum, Golgi apparatus, vacuoles, and peroxisomes. Unlike filamentous fungi, it does not produce [[neurospora-crassa]]* to establish the one gene-one enzyme hypothesis, but *S. cerevisiae* became the dominant model for studying eukaryotic molecular biology
 
 ## Metabolism and Fermentation
 

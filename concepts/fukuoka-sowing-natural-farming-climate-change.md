@@ -3,7 +3,7 @@ title: "Natural biointensive-carbon-farming Change — Fukuoka's Analysis"
 created: 2026-04-26
 updated: 2026-04-24
 sources: "masanobu-fukuoka, Sowing Seeds in the Desert (Chelsea Green, 2012)"
-wikilinks: "fukuoka-sowing-natural-farming-philosophy [[fukuoka-sowing-seed-ball-desert-revegetation]] [[fukuoka-sowing-desert-greening-worldwide-results]] [[fukuoka-sowing-clay-seed-ball-preparation]] [[fukuoka-sowing-green-philosophy-one-grain-revolution]] fukuoka-road-critique-of-modern-science"
+wikilinks: "fukuoka-sowing-natural-farming-philosophy fukuoka-sowing-desert-greening-worldwide-results fukuoka-sowing-green-philosophy-one-grain-revolution fukuoka-road-critique-of-modern-science"
 type: concept
 tags: [climate, fukuoka, natural-farming]
 ---
@@ -11,20 +11,7 @@ tags: [climate, fukuoka, natural-farming]
 # Natural Farming and Climate Change — Fukuoka's Analysis
 
 *Fukuoka's analysis of desertification, climate change, and environmental
-degradation, and [[fukuoka-why-natural-farming-blocked-in-japan]] is the only viable response.*
-
-## Desertification as a Human-Caused Crisis
-
-Fukuoka believed that most of the world's deserts were created by human activity
-based on incomplete understanding. He cited the rapid loss of vegetation across
-the globe:
-
-- Africa was largely devoid of vegetation, while just a few hundred years
-earlier it was covered by deep forests - India's vegetation had disappeared
-rapidly over forty to fifty years, now covering less than 10 percent of the
-land's surface - The Himalayas had become bald, treeless mountains in just
-twenty years - The Philippines, Thailand, Malaysia, and Indonesia saw land
-conditions deteriorate as nature-protecting [[natural-farming-methods-comparison]] were swallowed by
+degradation, and [[natural-farming-methods-comparison]] were swallowed by
 modern civilization - Tropical rain forests in Asia and Brazil were being
 deforested at rates that would make oxygen scarce
 
@@ -43,11 +30,6 @@ on the Yellow River and Narmada River — all would serve as short-term measures
 but become hundred-year mistakes. The main reason water disappears from rivers
 is that rain has stopped falling. Building dams to redirect river flow puts the
 cart before the horse.
-
-**[[comparison-drip-irrigation-vs-passive-irrigation]] and water-retaining materials.** While locally effective,
-these require materials and energy that make them questionable as long-term
-solutions. Super-absorbent resins plowed into soil in Egypt, plastic pipes in
-Mexico and Israel — all short-term expedients.
 
 **[[roger-heim-scientific-study-psilocybin]] and computer simulation.** China's massive effort to halt the
 Taklamakan Desert used satellites, airplanes, remote surveys, deep boring, soil
@@ -118,8 +100,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[natural-farming]]
 - [[doc]]
-- [[psilocybin]]
 - [[det]]
 - [[desertification]]

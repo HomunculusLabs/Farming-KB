@@ -23,7 +23,7 @@ Albizia julibrissin, commonly known as the Persian silk tree, pink silk tree, or
 
 In traditional Chinese medicine (TCM), the dried bark (Albiziae Cortex, he huan pi) and flowers (Albiziae Flos, he huan hua) have been used for centuries as sedatives, anxiolytics, and antidepressants. Modern pharmacological research has partially validated these traditional uses through the identification of saponin, flavonoid, and alkaloid constituents.
 
-The tree has become naturalized in many temperate and subtropical regions worldwide, including the southeastern [[dmt-containing-plants-united-states-halpern]], where it is both appreciated as an ornamental and regarded as an invasive species in some contexts. Its rapid growth, nitrogen-fixing capability, and [[dighton-fungal-drought-tolerance-plant-water-relations]] make it a candidate for permaculture and agroforestry applications.
+The tree has become naturalized in many temperate and subtropical regions worldwide, including the southeastern [[dighton-fungal-drought-tolerance-plant-water-relations]] make it a candidate for permaculture and agroforestry applications.
 
 The genus name honors Filippo degli Albizzi, an 18th-century Italian nobleman who introduced the species to European horticulture. The specific epithet *julibrissin* is a corruption of the Persian *gul-i-abrisham*, meaning "silk flower."
 
@@ -53,13 +53,9 @@ Several cultivars have been selected for ornamental use. 'Summer Chocolate' feat
 
 A. julibrissin is native to a broad region spanning from Iran through Central Asia to China (Zhejiang, Fujian, Guangdong provinces) and Japan. It occurs naturally in warm-temperate to subtropical deciduous forests, forest margins, and riparian corridors at elevations up to 1,500 m.
 
-The species has been widely planted as an ornamental across temperate and subtropical regions worldwide. It is naturalized in the eastern and southeastern United States from New York to Texas, in southern Europe, South Africa, eastern Australia, and parts of [[guzman-psilocybin-mushrooms-south-america]].
+The species has been widely planted as an ornamental across temperate and subtropical regions worldwide. It is naturalized in the eastern and southeastern United States from New York to Texas, in southern Europe, South Africa, eastern Australia, and parts of [[air-pollution-fungal-community-responses]] and compacted soils, contributing to its popularity as a street and garden tree.
 
-It thrives in full sun to partial shade on a wide range of well-drained soils, including sandy, loamy, and clay substrates. The tree is drought-tolerant once established and tolerates urban conditions including [[air-pollution-fungal-community-responses]] and compacted soils, contributing to its popularity as a street and garden tree.
-
-In the southeastern United States, A. julibrissin is listed as invasive in several states due to its prolific [[cervantes-seed-production-storage]], rapid growth, and ability to form dense thickets that displace native vegetation. It readily colonizes disturbed sites, roadsides, and forest edges.
-
-[[coleman-hardy-winter-vegetables-cold-tolerance-mechanisms]] is moderate, with hardiness rated to USDA Zone 6b in sheltered locations. However, young trees are susceptible to winter dieback in zones below 7, and the species performs best in regions with warm summers and mild winters.
+In the southeastern United States, A. julibrissin is listed as invasive in several states due to its prolific [[coleman-hardy-winter-vegetables-cold-tolerance-mechanisms]] is moderate, with hardiness rated to USDA Zone 6b in sheltered locations. However, young trees are susceptible to winter dieback in zones below 7, and the species performs best in regions with warm summers and mild winters.
 
 ## Bioactive Compounds
 

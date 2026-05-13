@@ -15,8 +15,7 @@ Plants lack nervous systems, yet they coordinate complex responses to environmen
 
 ### The Signal Cascade
 
-1. A receptor protein on the [[plant-cell-membrane-transport-proteins-channels-carriers-and-pumps]] detects a signal molecule
-2. The receptor triggers an internal chain reaction ([[fungal-environmental-sensing-signal-transduction-read]])
+1. A receptor protein on the [[fungal-environmental-sensing-signal-transduction-read]])
 3. Secondary messengers (often calcium ions) amplify the signal
 4. Target enzymes are activated or deactivated
 5. The cellular response occurs (gene expression changes, ion channel opening, metabolic shifts)
@@ -28,14 +27,7 @@ Hormones and signaling molecules travel through:
 - **Xylem**: Some hormones travel with the transpiration stream
 - **Apoplastic pathway**: Cell wall spaces allow short-distance diffusion
 - **Symplastic pathway**: Through plasmodesmata between adjacent cells
-- **Airborne signals**: Some signals are [[fungal-volatile-organic-compounds-communication]] compounds (VOCs) that travel through the air
-
-## Major Plant Hormones
-
-### Auxin (Indole-3-Acetic Acid, IAA)
-
-The primary plant growth hormone. Key functions:
-- **[[brassinosteroid-physiological-mechanisms-cell-elongation-division]]**: Stimulates cells to lengthen, driving growth toward light (phototropism) and against gravity (geotropism)
+- **Airborne signals**: Some signals are [[brassinosteroid-physiological-mechanisms-cell-elongation-division]]**: Stimulates cells to lengthen, driving growth toward light (phototropism) and against gravity (geotropism)
 - **Apical dominance**: Produced at shoot tips, it suppresses lateral bud growth, ensuring the main stem grows tallest
 - **Root development**: At proper concentrations, promotes root initiation and growth
 - **Vascular differentiation**: Guides the development of xylem and phloem

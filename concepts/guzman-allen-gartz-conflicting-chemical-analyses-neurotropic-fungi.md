@@ -41,14 +41,7 @@ Merlin (1992c) discussed the broader doubts regarding the psychoactive
 properties of this species, and the consensus emerging from the
 Guzmán, Allen and Gartz paper is that P. foenisecii is more likely
 a toxic fungus than a genuinely neurotropic one, which is consistent
-with the majority of [[guzman-allen-gartz-panaeoloid-fungi-taxonomy-and-distribution]].
-
-## Failures to Confirm Reported Active Compounds
-
-Stijve and Kuyper (1988) conducted a systematic investigation that
-failed to find psilocybin in several species previously reported as
-neurotropic. Their negative results included Gerronema fibula,
-[[gymnopilus-fulgens]], G. spectabilis, Hygrocybe psittacina, H.
+with the majority of [[gymnopilus-fulgens]], G. spectabilis, Hygrocybe psittacina, H.
 psittacina var. californica, Psathyrella candolleana, and
 Rickenella swartzii. Similarly, Stijve and Meijer (1993) could not
 detect psilocybin or other psilocybian compounds in Gymnopilus
@@ -64,9 +57,7 @@ to contradictory chemical results. Guzmán discovered that chemical
 studies sometimes analyzed mixtures of different species rather than
 a single taxon. In one notable case, material used by Leslie and
 Repke to isolate psilocybin contained a mixture of Panaeolus species
-and [[dark-incubation-sclerotia-production-psilocybe-mexicana-tampanensis]] together with P. coprophila, all identified
-under a single name. Psilocybe pseudobullacea was reported by
-Marcano et al. (1994) to contain [[hplc-analysis-of-psilocybin-and-psilocin]] from
+and [[hplc-analysis-of-psilocybin-and-psilocin]] from
 Venezuelan specimens, but this species does not blue and has no
 known neurotropic properties. The Venezuelan material likely
 belonged to a genuinely neurotropic species that had not yet been
@@ -78,9 +69,7 @@ lookalike species such as P. coprinifacies or P. maire.
 
 Bresinsky and Besl (1990) considered reports of hallucinogenic
 compounds in several species to be doubtful, including Stropharia
-cyanea, S. coronilla, Mycena pura, and [[amanita-gemmata]]. Samorini
-(1989) independently reached the same conclusion about Mycena pura.
-The Guzmán, Allen and Gartz paper excluded [[psilocybe-atrobrunnea]],
+cyanea, S. coronilla, Mycena pura, and [[psilocybe-atrobrunnea]],
 P. coprophila, P. pseudobullacea, and Psathyrella sepulchralis from
 the neurotropic list based on these critical reviews. Panaeolus
 antillarum was also excluded because it is frequently confused with
@@ -117,8 +106,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[neurotropic-fungi]]
 - [[guzman-allen-gartz-four-chemical-groups-neurotropic-fungi]]
-- [[guzman-allen-gartz-neurotropic-fungi-europe]]
 - [[guzman-allen-gartz-neurotropic-fungi-caribbean-central-america]]
 - [[guzman-allen-gartz-neurotropic-fungi-vegetation-types-mesophytic-cloud-forest]]

@@ -10,19 +10,11 @@ sources:
 
 # Carrot Enzyme Soil Preparation
 
-**Source:** [[knf-indigenous-microorganism-culture]] as a top soil, the carrot enzyme produces vigorous, disease-resistant seedlings. Even if the carrot enzyme soil is not prepared in a fully dedicated manner, applying carrot enzyme on top of a regular soil foundation still produces excellent results.
-
-## Role in the Nursery System
-
-The carrot enzyme soil fits within the broader KNF nursery system, which includes [[knf-indigenous-microorganism-culture]] application, [[knf-indigenous-microorganism-culture]] preparations. When IMO #4 is used as the base soil in seedling trays, applying diluted carrot enzyme as a top dressing introduces additional beneficial microorganisms and enzymes that stimulate root development. The combination produces seedlings that are notably more vigorous and disease-resistant than those grown in sterile commercial potting mixes.
-
-Master Cho emphasized that the enzyme should be applied at a dilution of approximately 1:500 (one part enzyme to five hundred parts water) for soil drenching. For [[ultra-low-cost-foliar-application-methods]] on seedlings, a more dilute solution of 1:1000 is recommended to avoid leaf burn. The timing of application is also important: apply during the early morning or late evening when temperatures are moderate and the enzyme solution will not evaporate quickly.
+**Source:** [[knf-indigenous-microorganism-culture]] application, [[ultra-low-cost-foliar-application-methods]] on seedlings, a more dilute solution of 1:1000 is recommended to avoid leaf burn. The timing of application is also important: apply during the early morning or late evening when temperatures are moderate and the enzyme solution will not evaporate quickly.
 
 ## See Also
 
-- [[knf-seed-treatment-and-soil-foundation]]
 - [[knf-vegetative-growth-stage]]
-- [[knf-imo-four-stage-cultivation]]
 - [[jadam-leaf-mold-soil-method]]
 ## Practical Applications
 
@@ -97,8 +89,6 @@ through generations to modern scientific approaches, the evolution continues
 to inform current best practices and research directions.
 
 ## See Also
-- [[doc]]
 - [[det]]
-- [[master-cho]]
 - [[knf-imo-four-soil-foundation-and-field-application]]
 - [[knf-yeast-preparation-detailed]]

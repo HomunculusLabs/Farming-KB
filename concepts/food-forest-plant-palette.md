@@ -34,7 +34,7 @@ At 7,200 feet elevation in Basalt, Colorado, Jerome Osentowski created one of No
 - **Microclimate creation**: Ponds and south-facing stone walls reflect light and moderate temperature
 - **Peach tree amid ponds**: Stored heat from water plus reflected light speeds growth in a frost-prone site
 - **Nitrogen-fixing nurse plants**: Siberian pea shrub and other N-fixers planted first to shelter fruit trees
-- **Canopy layered with diversity**: Over 100 fruit tree varieties, numerous berry species, and extensive herbaceous plantings
+- **Canopy layered with diversity**: Over 100 [[fruit-tree-varieties]], numerous berry species, and extensive herbaceous plantings
 - **Greenhouse integration**: A solar greenhouse extends the growing season and provides heat
 
 ## Case Study: Bullock Brothers' Food Forest (Orcas Island, WA)

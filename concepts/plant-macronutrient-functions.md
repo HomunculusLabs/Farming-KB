@@ -15,7 +15,7 @@ sources:
 
 ## Overview
 
-Macronutrients are the mineral elements that plants require in relatively large quantities for growth, development, and reproduction. The primary macronutrients -- nitrogen (N), phosphorus (P), and potassium (K) -- form the basis of the N-P-K fertilizer system that has dominated agriculture since Justus von Liebig's work in the mid-1800s. [[plant-secondary-macronutrients-calcium-magnesium-and-sulfur]] include calcium (Ca), magnesium (Mg), and sulfur (S).
+Macronutrients are the mineral elements that plants require in relatively large quantities for growth, development, and reproduction. The primary macronutrients -- nitrogen (N), phosphorus (P), and potassium (K) -- form the basis of the N-P-K fertilizer system that has dominated agriculture since Justus von Liebig's work in the mid-1800s. Secondary macronutrients include calcium (Ca), magnesium (Mg), and sulfur (S).
 
 ## Nitrogen (N)
 
@@ -37,20 +37,20 @@ Nitrogen is arguably the most critical nutrient for plant growth. It serves as:
 
 ### Excess
 
-- Excessive [[cannabis-vegetative-growth-stage]] at the expense of flowering and fruiting
+- Excessive vegetative growth at the expense of flowering and fruiting
 - Soft, succulent tissue susceptible to disease and pests
 - Environmental harm: nitrogen leaching contaminates groundwater and surface water
 
 ### Soil Cycling
 
-Atmospheric nitrogen (N2) is 78% of the atmosphere but unavailable to plants due to extremely strong triple covalent bonds. [[nitrogen-cycle-in-soil]] by [[arbuscular-mycorrhizal-fungi]] and nitrogen-fixing bacteria (Rhizobia, Azotobacter, Frankia) makes atmospheric nitrogen available. Today the Haber-Bosch process provides over half a billion tons of artificial nitrogen fertilizers annually, requiring 5% of the world's natural gas production.
+Atmospheric nitrogen (N2) is 78% of the atmosphere but unavailable to plants due to extremely strong triple covalent bonds. [[nitrogen-cycle-in-soil|Nitrogen fixation]] by [[arbuscular-mycorrhizal-fungi|mycorrhizal fungi]] and nitrogen-fixing bacteria (Rhizobia, Azotobacter, Frankia) makes atmospheric nitrogen available. Today the Haber-Bosch process provides over half a billion tons of artificial nitrogen fertilizers annually, requiring 5% of the world's natural gas production.
 
 ## Phosphorus (P)
 
 ### Role in Plants
 
 - **DNA and RNA component:** Essential for the genetic code and its translation
-- **Energy currency (ATP):** Phosphorus is the base of [[adenosine-triphosphate-and-cellular-energy]] (ATP). The two bonds between the three phosphorus atoms contain energy that is released when broken, powering virtually all cellular processes
+- **Energy currency (ATP):** Phosphorus is the base of adenosine triphosphate (ATP). The two bonds between the three phosphorus atoms contain energy that is released when broken, powering virtually all cellular processes
 - **Cell membrane structure:** A major component of phospholipids, making phosphorus essential to the integrity and function of all cell membranes
 - **Root and flower development:** Critical for root growth and blooming
 
@@ -64,7 +64,7 @@ Atmospheric nitrogen (N2) is 78% of the atmosphere but unavailable to plants due
 
 ### Soil Behavior
 
-Phosphorus comes from weathering of apatite rock. In soil, it is so tightly adsorbed to clay particles [[hamilton-composting-and-organic-matter-management]] that 1 acre might have only 1 pound dissolved and available to plants. This immobility means tremendous amounts are applied (22+ million tons per year globally). Approximately 95% of plants associate with mycorrhizal fungi, which provide phosphorus to plants in exchange for carbon from root exudates.
+Phosphorus comes from weathering of apatite rock. In soil, it is so tightly adsorbed to clay particles and organic matter that 1 acre might have only 1 pound dissolved and available to plants. This immobility means tremendous amounts are applied (22+ million tons per year globally). Approximately 95% of plants associate with mycorrhizal fungi, which provide phosphorus to plants in exchange for carbon from root exudates.
 
 ### Peak Phosphorus Concern
 
@@ -79,7 +79,7 @@ Potassium is unique among essential nutrients: it is not a constituent of any st
 - **Osmotic regulation:** The key solute in cell cytosol, regulating water movement into and out of cells
 - **Stomatal control:** Guard cells open and close based on potassium concentration, regulating CO2 intake and water loss
 - **Enzyme activation:** Regulates more than 60 key enzymatic reactions, speeding chemical reactions by thousands of times
-- **Starch formation:** Essential for converting sugars to starch for [[holmgren-built-environment-household-energy-storage]]
+- **Starch formation:** Essential for converting sugars to starch for energy storage
 - **Sugar transport:** Involved in the movement of sugars throughout the plant
 - **Ion balance:** Its positive charge (K+) acts as counterbalance to other charged molecules
 
@@ -140,11 +140,10 @@ Very abundant on Earth. Weathers from many minerals, most familiarly dolomite (C
 - **Electron transfer:** Cysteine is necessary for electron transfer during photosynthesis and respiration
 - **Plant defense:** Sulfur-containing compounds contribute to flavor molecules that protect plants from herbivory
 
-### Deficiency Symptoms
+## See Also
 
-- Yellowing in younger leaves (sulfur is immobile in plants -- distinguishable from nitrogen deficiency, which yellows older leaves)
-- Reduced growth
-
-### Soil Behavior
-
-Released from organic material by microbial activity and weathered from gypsum rock. Historically, acid rain provided significant sulfur; stricter [[air-pollution-fungal-community-responses]] regulations have dramatically reduced atmospheric sulfur deposition, making sulfur deficiencies more common.
+- [[two-tier-selection-model-plant-microbiome-assembly]]
+- [[holzer-problem-plant-regulation]]
+- [[what-a-plant-knows-plant-hearing-acoustic-sensing]]
+- [[medicinal-plant-preparations-tinctures-salves-teas]]
+- [[rhodopsin-photopsins-animal-visual-pigments-plant-photoreceptor-parallels]]

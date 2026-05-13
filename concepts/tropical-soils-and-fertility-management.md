@@ -1,5 +1,5 @@
 ---
-title: Tropical Soils and Fertility Management
+title: Tropical [[tropical-soils-and-fertility]] Management
 source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
@@ -8,7 +8,7 @@ type: concept
 
 > From *Permaculture: A Designers' Manual*, Chapter 10 — Bill Mollison
 
-Tropical soils present unique challenges for agriculture and land management. Unlike younger temperate soils, tropical soils are ancient and deeply weathered, resulting in nutrient profiles that demand careful, strategies differ markedly from those used in temperate zones.
+Tropical soils present unique challenges for agriculture and land management. Unlike younger [[cool-temperate-soils-and-water-conservation-mollison]], tropical soils are ancient and deeply weathered, resulting in nutrient profiles that demand careful, strategies differ markedly from those used in temperate zones.
 
 ## Nature of Tropical Soils
 
@@ -17,28 +17,6 @@ Tropical soils are old and deeply leached by high rainfall over geological times
 ### Clay Chemistry and Mineral Substitution
 
 In tropical clays, aluminium ions frequently substitute for silica in the crystal lattice. This substitution gives the clay particles a net negative charge, which has important implications for nutrient holding:
-
-- **[[cation-exchange-capacity]] (CEC)** is strongly affected by soil pH.
-- Low pH reduces CEC, meaning fewer nutrients are retained in the root zone.
-- The oxidic kaolinitic clays common in weathered volcanic areas are particularly low in CEC compared to temperate smectite clays.
-
-### The Humus Crisis on Clearance
-
-When tropical forests are cleared, the protective canopy and root systems that cycle nutrients are removed. Without this biological infrastructure:
-
-- Humic particles leach rapidly, dropping to approximately **30% of prior levels**.
-- Infertility appears quickly — often within a few seasons of clearing.
-- The exposed soil is vulnerable to erosion, compaction, and further leaching.
-
-This rapid fertility collapse is why slash-and-burn agriculture can only sustain short cropping periods before requiring long fallows.
-
-## Restoration Strategies for Leached Tropical Soils
-
-Mollison outlines a multi-pronged approach to restoring fertility on degraded tropical soils:
-
-### Humus Restoration
-
-Rebuilding soil organic matter is the first priority:
 
 - **[[green-manure-crops]]** and **perennial plants** restore the humus layer.
 - Key species include **Leucaena** and other **tree legumes**, which fix nitrogen while producing leaf litter.
@@ -50,7 +28,7 @@ Tropical soils need targeted mineral inputs:
 
 - Add **small quantities of superphosphate frequently** rather than large single applications, which would leach away.
 - Apply **fine crushed basalt**, **cement powder**, or **bamboo mulches** to supply silica and calcium — the two minerals most depleted in tropical soils.
-- After trees are established and providing shade, **increase pH with lime** to improve CEC and nutrient availability.
+- After trees are established and providing shade, **increase pH with lime** to improve CEC [[ph-and-nutrient-availability-garden-soils]].
 
 ## Special Soil Types
 
@@ -75,7 +53,7 @@ Volcanic soils are among the most fertile in the tropics:
 Deep granitic sands are among the most challenging tropical soil types:
 
 - They are open and coarse-textured.
-- They **will not retain mulch beyond one season** — organic matter oxidises and disappears rapidly.
+- They **will not retain mulch beyond one season** — [[fukuoka-textdoc-composting-critique-futility-prepared-organic-matter]] oxidises and disappears rapidly.
 - Water and nutrients drain straight through the profile.
 
 ### Broadscale Approach
@@ -100,7 +78,7 @@ Both methods effectively create an artificial soil profile that overcomes the in
 
 ## Soil Life in the Tropics
 
-Tropical soil ecosystems are driven by a different set of organisms than temperate soils. The key mesofauna — **termites, ants, and worms** — play outsized roles in nutrient cycling and soil structure.
+Tropical soil ecosystems are driven by a different set of organisms than temperate soils. The key mesofauna — **termites, ants, and worms** — play outsized roles in [[soil-protozoa-nutrient-cycling-and-mineralization]] soil structure.
 
 ### Functions of Tropical Soil Mesofauna
 
@@ -115,7 +93,7 @@ These organisms are continuously active in three critical processes:
 Termites are arguably the most important soil organisms in the tropics:
 
 - They play a **decisive role in the balance between erosion and soil replacement** — their mound-building and gallery construction continuously move soil from depth to the surface, counteracting erosion losses.
-- They influence **plant succession** — termite activity modifies soil chemistry and structure in ways that favour certain plant species over others, driving ecological succession.
+- They influence **plant succession** — termite activity modifies soil chemistry and structure in ways that favour certain plant species over others, driving [[ecological-succession]].
 - They affect **species distribution in savannah** landscapes — the pattern of termite mounds across the landscape creates a mosaic of soil conditions that determines which plants can grow where.
 
 ### Termite and Ant Mounds as Soil Refuges
@@ -133,9 +111,8 @@ Mollison emphasises that working with these soil organisms — rather than again
 | Principle | Detail |
 ||---|
 | Tropical soils are old and leached | Silica and calcium are depleted; CEC is pH-dependent |
-| Clearance causes rapid fertility loss | [[green-manure|Humus]] drops to ~30% of original levels |
-| Perennials are essential | [[nitrogen-fixing-trees-and-shrubs|Tree]] legumes rebuild humus and retain nutrients |
+| Clearance causes rapid fertility loss | [[nitrogen-fixing-trees-and-shrubs|Tree]] legumes rebuild humus and retain nutrients |
 | Mineral amendments must be frequent and targeted | Small doses of superphosphate; basalt/cement for silica and calcium |
 | Granitic sands require structural solutions | Plastic-lined trenches or log-box gardens |
-| Termites are allies, not pests | They drive [[plant-micronutrient-functions|nutrient]] cycling, succession, and [[soil-ph|soil]] building |
-| Soil pH management is critical | Lime after trees; [[mulching-guide|mulch]] on coral cays to reduce alkalinity |
+| Termites are allies, not pests | They drive [[soil-ph|soil]] building |
+| [[soil-ph-management]] is critical | Lime after trees; [[mulching-guide|mulch]] on coral cays to reduce alkalinity |

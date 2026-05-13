@@ -6,64 +6,8 @@ type: concept
 
 # Dune Country Stabilisation and Forestry
 
-Sand dunes are among the most dynamic and challenging desert landforms, yet they also represent enormous water reservoirs and, once stabilised, some of the most productive sites for desert forestry. Understanding dune types, water dynamics, and stabilisation techniques is essential for desert [[permaculture-design]].
-
-## Dune Types and Formation
-
-Depending on wind intensity, duration, streamlines and velocity, and sand supply, dunes take characteristic forms:
-
-- **Transverse dunes**: Regular ridges, the most common type
-- **Oblique dunes**: Formed at an angle to wind direction
-- **Longitudinal dunes**: Aligned with prevailing wind direction
-- **Barchans**: Crescent-shaped dunes with horns pointing downwind
-- **Sand seas (draas)**: Large-scale wave-like forms with lobed advance edges
-
-Sands occur either on pavements (isolated dunes) or as extensive dunefields (sand seas).
-
-## Dunes as Water Reservoirs
-
-Dunes function as enormous freshwater storage systems. The relationship between depth and moisture content is critical:
-
-- **Surface to a few metres**: Only about 4% water content
-- **Approximately 6 metres deep**: Damp sands encountered
-- **Approximately 40 metres deep**: Saturated sands found
-
-The mechanism is similar to coral sands of an atoll holding rain that "floats" on salt water. Dunes present a very large surface area of sand grains for water to adhere to, and rapid infiltration of rain is possible. At the edge of large dune complexes, water rushes and sedges appear at the base seepage, and even shallow lagoons form that are as much dune-fed as dune-dammed.
-
-### Tree Growth Pattern
-
-The largest trees in vegetated deserts—sometimes the only trees—stand in the dune ridges. This is apparent with dunes on harder pavement, dunes on clay with a strong base pavement, coastal dune hollows, and deflation hollows in sands. A stabilised barchan assumes an oval profile that infiltrates water and will carry adapted vegetation.
-
-Dune on pavement or salted ground is the best site for permanent plantings. The problems are how to establish those trees and stabilise the dune.
-
-## Isolated Dune Stabilisation
-
-### Planting After Rain
-
-For isolated dunes on pavement, a sequence of fast-growing crops can be planted after rains:
-1. **Fast-growing grain or oat crop**: Sorghum, millet, desert legumes such as moth bean, or yam beans
-2. **Hardy [[acacia]] seedlings**: Placed with mixed fertiliser (Acacia victoriae is particularly valued for copious leaf mulch)
-3. **Quickset trees**: Tamarisk may succeed if deeply set in or near the dune base
-
-### Success Criteria
-
-The process depends on:
-- A good rain event
-- Pest and browser control before sowing
-- Minimal protection after sowing
-- Grains flowering and straw lasting two or more years
-- Moth beans leaving seed for subsequent years
-- Small Acacias growing to effect permanent stabilisation
-- Desert yam bean pits placed in later years using accumulated leaf mulch
-
-## Extensive Dune Systems
-
-### Pelleted Seed Broadcasting
-
-For extensive dunefields, pelleted seed can be broadcast from the air to await rain. Many pellets will be buried by sand, but if heavy rain occurs, some will grow.
-
-**Pelleting process:**
-1. Mix seed, mud, fertiliser, and insect repellent (neutralised copper sulphate with lime, [[neem]] tree leaf powder, or magnesite) in a stiff mass
+Sand dunes are among the most dynamic and challenging desert landforms, yet they also represent enormous water reservoirs and, once stabilised, some of the most productive sites for desert forestry. Understanding dune types, water dynamics, and stabilisation techniques is essential for desert [[moth-bean]], or yam beans
+2. **Hardy [[neem]] tree leaf powder, or magnesite) in a stiff mass
 2. Pass through a mincer with blades removed
 3. Extrude onto a vibrating tray with slight slope covered in dry powder or dusts
 4. The extruded rolls become round pellets on the shaker tray
@@ -135,3 +79,11 @@ Once stabilised, dunes must be protected from:
 - Sand mining to windward
 
 Failure to protect stabilised dunes results in rapid reactivation and loss of the established system.
+
+## See Also
+
+- [[dune-stabilisation-and-water-storage]]
+- [[dune-forms-and-sand-uses]]
+- [[desert-dune-stabilisation-and-forestry]]
+- [[cooloola-dune-system]]
+- [[dune-country-stabilisation]]

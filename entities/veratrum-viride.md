@@ -19,8 +19,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - Mead, J.E. (1904). "Veratrum Viride (American Hellebore): A Study of Its History, Uses, and Active Principles." American Journal of Pharmacy.
-  - Gleason, H.A. & Cronquist, A. (1991). "Manual of Vascular Plants of Northeastern [[dmt-containing-plants-united-states-halpern]] and Adjacent Canada." New York Botanical Garden.
-  - Duke, J.A. (2002). "Handbook of [[permaculture-plants-medicinal-herbs-healing]]." CRC Press.
+  - Gleason, H.A. & Cronquist, A. (1991). "Manual of Vascular Plants of Northeastern permaculture-plants-medicinal-herbs-healing." CRC Press.
   - Frohne, D. & Pfänder, H.J. (2005). "Poisonous Plants: A Handbook for Doctors, Pharmacists, Toxicologists." Timber Press.
   - USDA, NRCS. "Veratrum viride." PLANTS Database. https://plants.usda.gov/
 ---
@@ -29,16 +28,7 @@ sources:
 
 **Veratrum viride**, the **American white hellebore** or **green false
 hellebore**, is a large perennial herbaceous plant in the family
-Melanthiaceae, native to moist meadows and swamps across [[psilocybin-north-america-pacific-northwest]].
-It is one of the most toxic native plants on the continent, containing
-potent steroidal alkaloids that affect sodium channels in cardiac and
-neural tissue. Despite its extreme toxicity, V. viride has a significant
-history of medicinal use — including by the Eclectic physicians of
-19th-century America — and its alkaloids have been investigated as
-prototypes for antihypertensive drugs.
-
-The plant bears a superficial resemblance to skunk cabbage (*Lysichiton
-americanus*) in [[coleman-overwintered-onions-and-early-spring-crops]], but the two are not closely related.
+Melanthiaceae, native to moist meadows and swamps across [[coleman-overwintered-onions-and-early-spring-crops]], but the two are not closely related.
 
 ## Taxonomy
 
@@ -88,3 +78,7 @@ soils, typically in partial shade to full sun. Elevation: 0–1,800 m.
 ## Toxicity and Chemistry
 
 All parts of V. viride are extremely toxic. The primary toxic
+
+## See Also
+
+- [[veratrum-album]]

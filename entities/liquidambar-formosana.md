@@ -110,11 +110,7 @@ The species is not currently considered threatened. However, habitat conversion 
 
 ## See Also
 
-- [[liquidambar-styraciflua]]
 - [[liriodendron-tulipifera]]
-- [[parrotia-persica]]
 - [[nyssa-sylvatica]]
-- [[davidia-involucrata]]
 - [[hamamelis-virginiana]]
-- [[acer-saccharum]]
 - [[styrax-obassia]]

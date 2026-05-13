@@ -19,14 +19,7 @@ type: concept
 
 The concept of evolutionary ghosts offers a powerful lens for
 understanding biological traits that seem to serve no current
-purpose. [[nicholas-money]] introduces this idea in the context of
-[[mushroom-toxins-and-poisoning]], using the Osage orange ([[maclura-pomifera]]) as a
-compelling example of an organism shaped by a relationship that
-no longer exists.
-
-## The Osage Orange and Its Missing Partner
-
-The Osage orange is a common tree in [[psilocybin-north-america-pacific-northwest]] that produces
+purpose. [[mushroom-toxins-and-poisoning]], using the Osage orange ([[psilocybin-north-america-pacific-northwest]] that produces
 pale green fruits larger than grapefruits. When ripe, these
 massive spheres splatter on the ground, yet no contemporary
 animal consumes them. Raccoons, opossums, and skunks, animals
@@ -59,17 +52,9 @@ it and moved on before any toxic effect manifests.
 
 This insight reframes our understanding of fungal chemistry.
 Compounds we experience as poisons or hallucinogens may serve
-entirely different functions within [[bloomfield-fungal-biology-and-hyphal-growth]]. They could
-target insect larvae that develop within [[comparison-fruiting-body-vs-mycelium-extracts-medicinal-mushrooms]] tissues,
+entirely different functions within [[comparison-fruiting-body-vs-mycelium-extracts-medicinal-mushrooms]] tissues,
 or they may be byproducts of other metabolic processes with no
-defensive purpose at all. Human casualties from [[european-mushroom-poisoning-history]]
-are, in Money's framing, unintended consequences of biochemical
-strategies evolved for completely different ecological contexts.
-
-## The Ghost Hypothesis in Broader Biology
-
-The ghost of evolution concept extends well beyond the Osage
-orange. The Kentucky coffee tree, the [[comparison-black-locust-vs-honey-locust]], and the
+defensive purpose at all. Human casualties from [[comparison-black-locust-vs-honey-locust]], and the
 avocado are all thought to be evolutionary anachronisms whose
 fruits were adapted for dispersal by extinct megafauna. Connie
 Barlow explored this theme extensively in her book "The Ghosts
@@ -118,8 +103,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[psilocybin]]
 - [[det]]
-- [[mycelium]]
 - [[mycology]]
 - [[bloomfield-cage-fungi-clathrus-anthurus-ileodictyon-receptacle-evolution]]

@@ -6,7 +6,7 @@ type: concept
 
 # Earth Constructs and Raised Banks
 
-Earth constructs are shaped landforms — banks, mounds, walls, ridges, ramps, and excavated features — that serve multiple functional purposes in permaculture design. Rather than treating earthworks as a single-purpose civil engineering exercise, Mollison frames them as multifunctional elements that simultaneously address shelter, water control, wind management, fire protection, noise abatement, and productive growing space.
+Earth constructs are shaped landforms — banks, mounds, walls, ridges, ramps, and excavated features — that serve multiple functional purposes in [[permaculture-design]]. Rather than treating earthworks as a single-purpose civil engineering exercise, Mollison frames them as multifunctional elements that simultaneously address shelter, water control, wind management, fire protection, noise abatement, and productive growing space.
 
 ## Compacted Earth Structures
 
@@ -72,7 +72,7 @@ The "ha ha" is a below-grade ditch with stone-facing on the inner wall. It creat
 Roads in permaculture design are not merely transport corridors but integrated productive elements:
 
 - **Heat pump pipes under bitumen**: Roads absorb solar heat; buried pipes can harvest this thermal energy via heat pump systems, providing heating for nearby buildings.
-- **Road run-off harvesting**: Graded roadsides channel rainfall into irrigation systems, wetlands, or storage ponds, turning a waste product into a productive resource.
+- **Road run-off harvesting**: Graded roadsides channel rainfall into [[irrigation-systems]], wetlands, or storage ponds, turning a waste product into a productive resource.
 - **Roadside vegetation preservation**: Roadsides are managed to preserve bunchgrasses, sagebrushes, and remnant forest patches, maintaining ecological corridors and reducing maintenance needs.
 
 ## Design Principles
@@ -93,9 +93,6 @@ Earth constructs in permaculture follow several key principles:
 
 ## Related Concepts
 
-- [[mollison-designers-swale-design-and-water-harvesting-earthworks]]
 - [[windbreak-design-and-configuration]]
-- [[permaculture-resources-classification]]
 - [[permaculture-terrace-design-slopes]]
-- [[permaculture-resources-classification]]
 - [[permaculture-resources-classification]]

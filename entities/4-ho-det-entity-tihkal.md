@@ -15,17 +15,10 @@ sources: ["raw/papers/shulgin-a-tihkal.md"]
 3-[2-(diethylamino)ethyl]-4-indolol
 - Molecular weight: 234 (free base), 276 (acetate), 314 (phosphate)
 - Class: Tryptamine, 4-hydroxy substituted, N,N-diethyl
-- Source: [[amt-entity-tihkal]] for discussion of ester conversion in the body.
-
-## Related TIHKAL Entries
-
-- [[det-entity-tihkal]] — non-hydroxylated counterpart
-- [[5-meo-mipt-entity-tihkal]] — N-methyl-N-isopropyl analogue
+- Source: [[det-entity-tihkal]] — non-hydroxylated counterpart
 - [[amt-entity-tihkal]] — 5-hydroxy isomer
 
 ## See Also
-
-- [[2-me-det-entity-tihkal]]
 
 - [[5-meo-dmt-compound-profile]] — parent structure comparison
 - [[psilocybe-cubensis]] — natural source mushrooms

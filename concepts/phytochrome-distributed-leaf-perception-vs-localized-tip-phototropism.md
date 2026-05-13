@@ -9,8 +9,7 @@ source: raw/papers/grahamholmes-what-a-plant-knowsindd.md
 
 ## Overview
 
-One of the most counterintuitive findings in [[plant-sensory-biology]],
-highlighted by [[daniel-chamovitz]] in "What a Plant Knows," is that
+One of the most counterintuitive findings in [[daniel-chamovitz]] in "What a Plant Knows," is that
 plants use **fundamentally different anatomical strategies** for two
 light-sensing tasks: directional phototropism is detected at the
 shoot tip, while photoperiodic measurement is sensed by any leaf
@@ -20,26 +19,7 @@ challenges.
 
 ## Tip-Localized Phototropism
 
-The directional [[phototropism-darwin-plant-light-response]] (phototropism) was characterized by
-Darwin and his son Francis in their classic 1880 experiments. They
-demonstrated that the "eye" for directional bending is specifically
-located at the shoot tip of seedlings.
-
-The experimental evidence was unambiguous:
-- Seedlings with intact tips bent toward lateral light
-- Seedlings with removed tips did not bend (blind to direction)
-- Seedlings with lightproof-capped tips did not bend (blind)
-- Seedlings with clear-glass-capped tips bent normally (could see)
-- Seedlings with lightproof tubes around the middle bent normally
-
-This localization makes ecological sense. The shoot tip is the
-first part of the plant to encounter unfiltered light. It grows
-upward through the soil and canopy, so it is positioned to detect
-the earliest directional light cues. Once detected, the tip sends
-a mobile signal (later identified as auxin) down the stem to
-stimulate differential cell elongation on the shaded side.
-
-[[julius-von-sachs-blue-light-phototropism-discovery]] (1864) further established that **blue light** is
+The directional [[julius-von-sachs-blue-light-phototropism-discovery]] (1864) further established that **blue light** is
 the primary wavelength inducing phototropism, mediated by phototropin
 receptors concentrated at the shoot apex.
 
@@ -58,17 +38,7 @@ The experimental evidence for distributed perception:
 - Pruning all leaves, leaving only stem and apex, renders the
   plant completely insensitive to light flashes
 - Even when the entire plant is illuminated, if no leaf
-  phytochrome detects the light, no [[mollison-designers-day-length-and-flowering-response]] occurs
-
-This means that a single leaf functions as an independent light
-sensor for photoperiodism. If the phytochrome in one leaf detects
-a red light flash during the night, it initiates a mobile signal
-that propagates throughout the plant and induces flowering.
-
-## Why Two Different Architectures?
-
-The different anatomical strategies reflect the different
-[[fungal-melanin-biosynthesis-ecological-functions]] of each system:
+  phytochrome detects the light, no [[fungal-melanin-biosynthesis-ecological-functions]] of each system:
 
 ### Phototropism: Rapid Directional Response
 
@@ -142,7 +112,5 @@ length) determines whether short-day or long-day plants flower.
 The dual-architecture model has practical implications:
 ## See Also
 
-- [[chamovitz-darwin-phototropism-experiment-canary-grass]]
 - [[chamovitz-red-far-red-phytochrome-switch-and-plant-memory]]
-- [[chamovitz-julius-von-sachs-blue-light-phototropism]]
 - [[photoperiodism-phytochrome-red-far-red]]

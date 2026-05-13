@@ -1,9 +1,5 @@
 # Compost Tea Pathogen Safety: Coliforms, E. coli, and Plant vs. Human Pathogens
-**Source:** The Field Guide I for [[elaine-ingham]] PhD
-
-## Overview
-
-A common concern about compost tea is whether it could introduce human pathogens (particularly E. coli and other coliform bacteria) onto edible crops. Elaine Ingham addresses this concern with a detailed analysis of the differences between plant surfaces and food processing environments, the biology of different coliform categories, and why [[ingham-anaerobic-vs-aerobic-compost-tea]] tea is fundamentally different from contaminated food products.
+**Source:** The Field Guide I for [[ingham-anaerobic-vs-aerobic-compost-tea]] tea is fundamentally different from contaminated food products.
 
 ## The Fundamental Distinction: Plant Surfaces vs. Sterile Foods
 
@@ -43,15 +39,13 @@ The primary safety mechanism in properly made AACT is the aerobic environment it
 
 - Human pathogens are generally facultative or obligate anaerobes — they prefer or require low-oxygen conditions
 - The beneficial aerobic bacteria and fungi in compost tea outcompete any potential pathogens for food resources
-- Aerobic conditions produce oxidative environments (through [[cervantes-hydrogen-peroxide-sterilization]] and other reactive oxygen species produced by aerobic organisms) that inhibit pathogen survival
-- Properly [[actively-aerated-compost-tea-aact-brewing]] tea has dissolved oxygen levels above 6 mg/L, which is hostile to anaerobic pathogens
+- Aerobic conditions produce oxidative environments (through [[actively-aerated-compost-tea-aact-brewing]] tea has dissolved oxygen levels above 6 mg/L, which is hostile to anaerobic pathogens
 
 ### Compost Source Quality Matters
 
 The compost used to brew tea must be properly made:
 
-- Thermophilic [[composting]] (tematures reaching 131-170°F / 55-77°C for 3+ days) kills human pathogens
-- Properly cured compost (4-6 weeks after the thermophilic phase) develops a mature aerobic [[edaphic-factors-microbial-community-structure]] that suppresses pathogen regrowth
+- Thermophilic [[edaphic-factors-microbial-community-structure]] that suppresses pathogen regrowth
 - Compost made from manure should reach thermophilic temperatures throughout the pile to ensure pathogen kill
 - Vermicompost is generally safe because earthworm gut passage kills pathogens, but the feedstock should not include fresh manure from unknown sources
 
@@ -86,39 +80,6 @@ Food safety concerns should focus on preventing INTERNAL contamination of produc
 
 ## The Anaerobic Tea Warning
 
-Ingham draws a clear distinction between aerobic [[teaming-with-microbes-compost-tea-and-inoculation]] anaerobic preparations:
-
-## Practical Applications
-
-The principles and techniques discussed here have wide-ranging applications
-across multiple disciplines and contexts. Practitioners and researchers
-continue to explore new ways to integrate these concepts into modern practice,
-adapting traditional knowledge to contemporary challenges and opportunities.
-
-## Key Considerations
-
-Several important factors influence the effectiveness and outcomes described
-in this topic. Understanding these considerations helps practitioners make
-informed decisions and avoid common pitfalls. Environmental conditions,
-timing, and material selection all play critical roles.
-
-## Historical Context
-
-The historical development of this subject reflects centuries of accumulated
-knowledge and practical experience. From traditional methods passed down
-through generations to modern scientific approaches, the evolution continues
-to inform current best practices and research directions.
-
-## Common Challenges
-
-Practitioners frequently encounter several challenges when working with
-these concepts. Climate variability, resource limitations, and knowledge
-gaps can all affect outcomes. Addressing these challenges requires patience,
-observation, and a willingness to adapt approaches based on results.
-
-## See Also
-- [[elaine-ingham]]
-- [[ingham-compost-tea-pathogen-safety-anaerobic-risk]]
+Ingham draws a clear distinction between aerobic [[elaine-ingham]]
 - [[det]]
-- [[composting]]
 - [[g-13]]

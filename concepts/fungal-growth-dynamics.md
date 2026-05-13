@@ -39,7 +39,7 @@ Branching increases the surface area for resource capture:
 
 Many fungi form cross-walls (septa) that divide hyphae into compartments:
 
-- **[[comparison-silicon-vs-calcium-in-plant-defense-and-structural-support]]**: Septa reinforce hyphal walls, especially in large-diameter hyphae
+- **Structural support**: Septa reinforce hyphal walls, especially in large-diameter hyphae
 - **Compartmentalization**: Septa can isolate damaged or infected compartments, preventing spread of cytoplasmic contamination
 - **Pore regulation**: Septal pores (simple pores in basidiomycetes, Woronin bodies in ascomycetes) can be plugged to seal off compartments
 - **Cytoplasmic streaming**: Despite septation, cytoplasm and organelles can flow between compartments through septal pores, allowing resource translocation throughout the mycelium
@@ -51,9 +51,9 @@ Many fungi form cross-walls (septa) that divide hyphae into compartments:
 Different fungal species employ distinct mycelial growth patterns to explore and exploit their environment:
 
 - **Phalangeal (dense) strategy**: Slow extension with high branching density, creating a dense front that thoroughly exploits local resources. Typical of many litter-decomposing fungi.
-- **Linear (cord-forming) strategy**: Rapid extension of individual hyphae with minimal branching, forming distinct cords or rhizomorphs. These structures efficiently translocate resources from nutrient-rich to nutrient-poor areas. Typical of many wood-inhabiting basidiomycetes (e.g., *[[phanerochaete-velutina]]*, *[[hypholoma-fasciculare]]*).
+- **Linear (cord-forming) strategy**: Rapid extension of individual hyphae with minimal branching, forming distinct cords or rhizomorphs. These structures efficiently translocate resources from nutrient-rich to nutrient-poor areas. Typical of many wood-inhabiting basidiomycetes (e.g., *Phanerochaete velutina*, *Hypholoma fasciculare*).
 - **Domain strategy**: Intermediate between phalangeal and linear; moderate extension rate with intermittent branching, creating distinct "domains" or "territories." Typical of many ectomycorrhizal fungi.
-- **Diffuse strategy**: Widely dispersed, fine hyphae with extensive branching. Typical of many [[arbuscular-mycorrhizal-fungi]].
+- **Diffuse strategy**: Widely dispersed, fine hyphae with extensive branching. Typical of many arbuscular mycorrhizal fungi.
 
 ### Rhizomorphs and Cords
 
@@ -68,9 +68,9 @@ Some fungi produce specialized, differentiated structures for long-distance reso
 Fungal hyphae of the same individual (or compatible individuals) can fuse:
 
 - **Genetic compatibility**: Anastomosis typically occurs only between hyphae of the same species and compatible mating type. Incompatible fusions trigger defense reactions (septal plugging, programmed cell death).
-- **Network formation**: Anastomosis creates a fully interconnected mycelial network, allowing cytoplasmic streaming and [[mycelial-network-resource-sharing-plants]] across the entire colony.
+- **Network formation**: Anastomosis creates a fully interconnected mycelial network, allowing cytoplasmic streaming and resource sharing across the entire colony.
 - **Colony integration**: A mycelial network can behave as a coordinated whole, with resources flowing from rich to poor regions. This integration allows fungi to grow across nutrient-poor areas by subsidizing growth from distant nutrient-rich patches.
-- **Size**: Some fungal individuals (genets) are enormous. *[[armillaria-ostoyae]]* in Oregon's Blue Mountains covers approximately 2,385 acres (965 hectares) and is estimated to be 2,400-8,650 years old, making it one of the largest and oldest living organisms.
+- **Size**: Some fungal individuals (genets) are enormous. *Armillaria ostoyae* in Oregon's Blue Mountains covers approximately 2,385 acres (965 hectares) and is estimated to be 2,400-8,650 years old, making it one of the largest and oldest living organisms.
 
 ## Resource Translocation
 

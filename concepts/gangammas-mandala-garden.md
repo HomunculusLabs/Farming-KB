@@ -4,11 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Gangamma's Mandala Garden
-
-Gangamma's Mandala is a compact, intensively-planted home garden system designed to
-feed a family of five year-round. Originating from traditional practices in Taiwan
-and the Philippines, the design was refined by [[bill-mollison]] using permaculture
+# Gangamma's Mandala [[bill-mollison]] using permaculture
 "least-path" layout principles to minimize walking distance and maximise productive
 access to every planted zone.
 
@@ -144,13 +140,10 @@ Every bed is established with sheet mulch rather than tilling. Organic matter
 decomposes in place, feeding soil life and building humus. The dish-shaped central
 circle captures water and debris, accelerating decomposition.
 
-### Scalability and Adaptation
+## See Also
 
-The core pattern — central hub, circular path, radiating beds, protective border —
-is scale-independent and adaptable to temperate climates by substituting
-climate-appropriate species while retaining the spatial logic and access design.
-## See also
-
-- [[permaculture-design]]
-- [[mandala-garden-design]]
-- [[hamilton-rock-garden-design]]
+- [[gangammas-mandala-tropical-sustenance-garden]]
+- [[gangammas-mandala-intensive-home-garden]]
+- [[gangammas-mandala-garden-design]]
+- [[mollison-gangammas-mandala-and-banana-circle-gardens]]
+- [[keyhole-garden-mandala-design]]

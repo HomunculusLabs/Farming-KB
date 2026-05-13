@@ -15,7 +15,7 @@ sources:
 
 **Updated:** 2026-04-18
 
-One of Masanobu Fukuoka's most detailed and technical arguments concerns the pruning of [[comparison-pruning-fruit-trees-vs-grafting-fruit-trees]]. Based on 30+ years of observation in his [[fukuoka-citrus-orchard-establishment-bare-hillside]], Fukuoka concluded that pruning is not only unnecessary but actively harmful -- that it destroys the natural form of trees and creates a self-perpetuating cycle of intervention. His argument is grounded in careful observation of phyllotaxy (the arrangement of leaves and branches on plants) and the growth patterns of natural versus cultivated trees.
+One of Masanobu Fukuoka's most detailed and technical arguments concerns the pruning of [[fukuoka-citrus-orchard-establishment-bare-hillside]], Fukuoka concluded that pruning is not only unnecessary but actively harmful -- that it destroys the natural form of trees and creates a self-perpetuating cycle of intervention. His argument is grounded in careful observation of phyllotaxy (the arrangement of leaves and branches on plants) and the growth patterns of natural versus cultivated trees.
 
 ## The Problem: Pruning Creates the Need for More Pruning
 
@@ -23,33 +23,7 @@ Fukuoka's central insight: "Once the pruning shears have been taken to the tree 
 
 ### The Chain Reaction
 
-1. The first pruning cut (even nipping one bud on a sapling) alters the tree's [[ingham-natural-growth-regulators-soil-microbes]] pattern
-2. Wounds from pruning cause adventitious buds to emerge in abnormal positions
-3. These superfluous branches crowd, bend, twist, and spread confusion as they grow
-4. The resulting tangled form requires further corrective pruning
-5. Each new cut creates more wounds and more abnormal growth
-6. The cycle continues for the life of the tree
-
-"Because even lightly pinching new buds on a pine seedling totally alters the shape of the emerging branches, the young tree can be trained into a garden pine or even a bonsai. But although the first pruning can make a bonsai of a pine, once a bonsai, the pine can never be restored to a full-size tree."
-
-## Evidence from Natural Forests
-
-Fukuoka points to trees in natural forests as proof that pruning is unnecessary:
-
-- **Mountain pines:** The central trunk rises straight and true, putting out branches at equal vertical spacings in a radial arrangement. One can clearly trace the chronology of branch emergence. The spacing and angle of branches are regular and orderly. Never does one branch grow too long or cross another.
-- **Cedars:** Trunks never branch or twist as long as they are not cut or harmed. Branches on right and left sides do not run up against each other or cross.
-- **Bamboo, cryptomeria, Japanese cypress, camphor, camellia, Japanese maple:** All observe the phyllotaxy and divergence specific to that species.
-
-"Not a single wasted leaf, not a single branch lacking -- that is the true form of a plant."
-
-## Phyllotaxy: The Mathematical Order of Nature
-
-Fukuoka provides detailed observations on phyllotaxy -- the fixed mathematical laws governing leaf and branch arrangement:
-
-- In a given plant, leaves always grow either alternately or oppositely
-- The direction and angle at which a leaf grows is always the same; "never is there even the slightest deviation"
-- If the angle between one leaf on a fruit tree branch and the next is 72 degrees, then all subsequent leaves will emerge at 72 degrees
-- The sixth leaf on peach, persimmon, [[fukuoka-mandarin-orange-citrus]], orange, and cherry tree branches is always located directly above the first leaf
+1. The first pruning cut (even nipping one bud on a sapling) alters the tree's [[fukuoka-mandarin-orange-citrus]], orange, and cherry tree branches is always located directly above the first leaf
 - The eleventh leaf is always directly above the sixth
 - When the distance between consecutive buds is one inch, the distance from one leaf to the next leaf directly above it is always five inches
 - Two leaves will not overlap, or two branches emerge, within any five-inch length along the branch
@@ -78,20 +52,7 @@ Pruning is done not for the tree's benefit but for the convenience of human oper
 
 - Tillage and weeding require clear space beneath trees (but if you eliminate tillage and weeding, this reason disappears)
 - Pesticide spraying requires accessible tree surfaces (but if you eliminate pesticides, this reason disappears)
-- [[cervantes-fertilizer-application-strain-feeding]] requires clear trunk access (but if you eliminate fertilizer, this reason disappears)
-- Harvesting is the only remaining reason for tree shape considerations
-
-"The ideal form of a tree is the form best suited to these various human operations and to harvesting. Thus it is not the natural form that gardeners and growers seek, but a shape artificially pruned and trained to the convenience and benefit of the grower."
-
-## Specific Tree Form Observations
-
-### Citrus Trees
-
-Fukuoka's most detailed observations concern citrus:
-
-- Scientists claim the natural form of a citrus tree is hemispherical with primary scaffold branches extending at 40-70 degrees
-- "In truth no one [[fukuoka-natural-orchard-management]]
-- [[fukuoka-one-straw-revolution-philosophy]]
+- [[fukuoka-natural-orchard-management]]
 - [[fukuoka-natural-farming-philosophy]]
 
 ## Practical Applications
@@ -123,8 +84,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[masanobu-fukuoka]]
 - [[det]]
-- [[camphor]]
 - [[fukuoka-argument-against-pruning-trees-natural-growth]]
 - [[fukuoka-argument-against-pruning-natural-form-fruit-trees]]

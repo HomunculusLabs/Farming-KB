@@ -16,20 +16,7 @@ Cannabis produces over 200 terpenes — volatile aromatic compounds responsible 
 
 ### Myrcene
 
-Myrcene (β-myrcene) is typically the most abundant terpene in cannabis, comprising 20–50% of the total [[cannabis-terpene-profile]] in many cultivars. It has a musky, earthy, herbal aroma and is also found in hops, mango, lemongrass, and thyme.
-
-**Pharmacology**:
-- Sedative and muscle relaxant properties at oral doses of 1–2 mg/kg in animal models.
-- Potentiates THC activity: myrcene is hypothesized to increase blood-brain barrier permeability, allowing more THC to reach CNS targets.
-- Anti-inflammatory: Inhibits prostaglandin E-2 (PGE-2) and COX-1/COX-2 in vitro.
-- Analgesic: Demonstrated pain-relieving effects in mouse models comparable to phenylbutazone.
-
-### Limonene
-
-Limonene is a cyclic monoterpene with a strong citrus aroma, found in citrus rinds, juniper, and peppermint. In cannabis, it is particularly associated with "sativa" chemotypes.
-
-**Pharmacology**:
-- Anxiolytic and antidepressant: Absorbed via inhalation or oral routes; activates the 5-HT1A [[serotonin-receptor-interference-psychedelic-mechanism]].
+Myrcene (β-myrcene) is typically the most abundant terpene in cannabis, comprising 20–50% of the total [[serotonin-receptor-interference-psychedelic-mechanism]].
 - Anti-inflammatory: Reduces TNF-α, IL-1β, and NF-κB signaling.
 - Gastroprotective: Protects against gastric ulcers through antioxidant and anti-inflammatory mechanisms.
 - Chemopreventive: Induces phase I and phase II liver enzymes that detoxify carcinogens.
@@ -37,13 +24,7 @@ Limonene is a cyclic monoterpene with a strong citrus aroma, found in citrus rin
 
 ### β-Caryophyllene
 
-β-Caryophyllene (BCP) is a sesquiterpene with a spicy, peppery aroma found in [[comparison-black-pepper-vs-cardamom-tropical-spice-cultivation]], cloves, cinnamon, and cannabis. It is unique among cannabis terpenes in being a selective CB2 receptor agonist.
-
-**Pharmacology**:
-- CB2 agonist: BCP selectively activates CB2 receptors (Ki ~155 nM) without CB1 activity, making it non-psychoactive.
-- Anti-inflammatory: Potent reduction of pro-inflammatory cytokines through CB2-mediated pathways.
-- Gastroprotective: Reduces gastric acid secretion and protects against NSAID-induced gastric damage.
-- Neuroprotective: CB2 activation reduces neuroinflammation in models of [[blesching-cannabis-multiple-sclerosis]] and Parkinson's disease.
+β-Caryophyllene (BCP) is a sesquiterpene with a spicy, peppery aroma found in [[blesching-cannabis-multiple-sclerosis]] and Parkinson's disease.
 
 ### Linalool
 
@@ -73,17 +54,7 @@ Terpinolene has a complex, piney, herbal, and slightly floral aroma. It is prese
 **Pharmacology**:
 - Sedative: Moderate central nervous system depressant effects.
 - Antioxidant: Potent free radical scavenger, comparable in potency to α-tocopherol.
-- Anticancer: Induces apoptosis and cell cycle arrest in certain [[blesching-cannabis-apoptosis-and-cancer-cell-death]] lines.
-- Antifungal: Activity against Candida species.
-
-### Humulene
-
-Humulene (α-caryophyllene) is a sesquiterpene with an earthy, woody aroma, abundant in hops and many cannabis varieties.
-
-**Pharmacology**:
-- Anti-inflammatory: Potent suppression of inflammatory mediators through NF-κB inhibition.
-- Appetite suppressant: Unlike many other cannabis constituents, humulene reduces food intake in animal models.
-- Antibacterial: Activity against *[[staphylococcus-aureus]]*.
+- Anticancer: Induces apoptosis and cell cycle arrest in certain [[staphylococcus-aureus]]*.
 
 ## The Entourage Effect
 
@@ -118,8 +89,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[pinene]]
 - [[det]]
-- [[mda]]
 - [[linalool]]
 - [[myrcene]]

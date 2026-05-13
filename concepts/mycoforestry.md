@@ -104,24 +104,6 @@ Stamets' key argument: "You cannot harvest 3 generations of trees from the same 
 - [[fungal-ecology]] for decomposition science
 - [[mycoremediation-techniques]] for spawn preparation
 
-## Practical Considerations
-Implementation requires careful attention to local conditions,
-available resources, and the specific goals of the practitioner.
-Documenting results and adapting approaches based on observed
-outcomes leads to continuous improvement over time.
-
-## Integration Strategies
-Combining multiple approaches often yields better results than
-relying on any single technique. Consider how this topic relates
-to broader system design and look for synergies between methods
-that can amplify overall effectiveness.
-
-## See Also
-- [[mycoforestry-applications]]
-- [[mycoforestry-principles-stamets]]
-- [[cortes-island-mycoforestry-project]]
-- [[mycoforestry-fungal-forest-restoration]]
-- [[mycoforestry-spored-oil-techniques]]
 ## Related
 
 - [[forest-ecology-basics]]

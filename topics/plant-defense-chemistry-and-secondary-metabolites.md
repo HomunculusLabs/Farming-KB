@@ -17,9 +17,7 @@ sources:
 
 Unlike animals, plants cannot flee from herbivores or pathogens. Instead, they have evolved an extraordinary arsenal of **secondary metabolites** — chemical compounds that are not directly involved in growth, development, or reproduction, but serve critical ecological functions including defense against herbivores, resistance to pathogens, competition with other plants (allelopathy), attraction of pollinators and beneficial organisms, and protection from abiotic stressors like UV radiation.
 
-These compounds are called "secondary" because they are produced from the [[primary-metabolic-precursors-to-the-shikimate-pathway]] pathways (glycolysis, the shikimate pathway, the mevalonate and methylerythritol phosphate pathways) through branching enzymatic reactions. There are estimated to be over 200,000 distinct secondary metabolites across the plant kingdom, and any given species may produce hundreds to thousands of them.
-
-For growers, understanding plant defense chemistry is essential for selecting pest-resistant varieties, designing [[comparison-companion-planting-reference-vs-jadam-monoculture-critique]] strategies, managing crop stress to optimize phytochemical production (especially in medicinal herbs), and reducing dependence on external pesticide inputs.
+These compounds are called "secondary" because they are produced from the [[comparison-companion-planting-reference-vs-jadam-monoculture-critique]] strategies, managing crop stress to optimize phytochemical production (especially in medicinal herbs), and reducing dependence on external pesticide inputs.
 
 ## Major Classes of Defense Compounds
 
@@ -30,7 +28,7 @@ Alkaloids are nitrogen-containing compounds, typically derived from amino acids.
 | Alkaloid | Source Plant | Family | Primary Function |
 |----------|-------------|--------|-----------------|
 | Nicotine | *Nicotiana tabacum* | Solanaceae | Insect neurotoxin |
-| Caffeine | *[[coffea-arabica]]*, *[[tea-cultivation-and-camellia-sinensis-processing]]* | Rubiaceae, Theaceae | Herbivore deterrent, allelopathic |
+| Caffeine | *[[tea-cultivation-and-camellia-sinensis-processing]]* | Rubiaceae, Theaceae | Herbivore deterrent, allelopathic |
 | Solanine solanum tuberosum osum* | Solanaceae | Antifungal, insect deterrent |
 | Cocaine erythroxylum coca coca* | Erythroxylaceae | Insect feeding deterrent |
 | papaver somniferum r somniferum* | Papaveraceae | Anti-herbivore, antifungal |
@@ -41,23 +39,7 @@ Alkaloids often accumulate in specific tissues — leaves, seeds, or roots — a
 
 ### Terpenoids and Terpenes
 
-Terpenoids constitute the largest class of plant [[plant-secondary-macronutrients-calcium-magnesium-and-sulfur]] calcium magnesium and sulfur metabolites, with over 40,000 known structures. They are built from isoprene (C5) units and range from volatile essential oils (monoterpenes, sesquiterpenes) to complex polymers (rubber, gutta-percha).
-
-**Monoterpenes (C10)** are volatile and contribute to the characteristic scents of many herbs. Examples include menthol (peppermint), limonene (citrus), pinene (pine), and thymol (thyme). These compounds serve multiple roles: repelling herbivores, inhibiting microbial growth, attracting pollinators, and — in some cases — signaling between plants.
-
-**Sesquiterpene lactones (C15)** are bitter-tasting compounds found predominantly in the Asteraceae family. Parthenolide (feverfew), lactucin (lettuce), and alantolactone (elecampane) deter feeding by insects and mammals. The bitter flavor of many medicinal herbs is directly attributable to sesquiterpene lactones.
-
-**Diterpenes (C20)** include compounds like giberellic acid (a growth hormone) and taxol (paclitaxel, from Pacific yew — a potent anticancer drug). Many diterpenes in conifers serve as resin components that seal wounds and deter bark beetles.
-
-**Triterpenes (C30)** include sterols, saponins (see below), and cardenolides like digoxin (foxglove). Triter azadirachta indica adirachta indica*), especially azadirachtin, are among the most widely used botanical insecticides globally.
-
-**Essential oils** are complex mixtures dominated by monoterpenes and sesquiterpenes. Their insecticidal, antifungal, and antibacterial properties have been exploited for millennia in traditional medicine and food preservation, and are the basis of many organic pest management products.
-
-### Phenolics and Phenylpropanoids
-
-Phenolics are compounds containing at least one aromatic ring with one or more hydroxyl groups. They are derived primarily from the shikimate pathway and phenylalanine.
-
-**Simple phenolics** include caffeic acid, ferulic acid, and vanillin, which have [[mycelium-running-mushroom-antimicrobial-properties-species-chart]] and contribute to plant stress responses.
+Terpenoids constitute the largest class of plant [[mycelium-running-mushroom-antimicrobial-properties-species-chart]] and contribute to plant stress responses.
 
 **Coumarins** (e.g., scopoletin, umbelliferone) are found in many plants and have antifungal, antibacterial, and anti-feeding properties. Some coumarins are allelopathic, inhibiting germination of competing species.
 

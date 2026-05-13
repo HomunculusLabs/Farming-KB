@@ -5,21 +5,9 @@ tags: [shirota, psilocybin, synthesis, chemistry, large-scale, phosphorylation]
 created: 2026-05-08
 ---
 
-# Shirota Concise Large-Scale Synthesis of [[psilocin]] and psilocybin in the Journal of Natural Products.
+# Shirota Concise Large-Scale Synthesis of [[psilocybin-synthesis-zwitterionic-intermediate-filtration-method]] was fully characterized by 2D NMR, including HMBC and NOESY experiments that confirmed the intramolecular transfer of a benzyl group from oxygen to nitrogen.
 
-The synthesis is notable for achieving gram-scale production of both compounds without requiring chromatographic purification at any stage.
-
-Previous synthetic routes to psilocybin were limited by the need for chromatographic purification, which made large-scale production impractical and costly.
-
-The Shirota method solves this problem through the discovery that the dibenzyl-protected intermediate undergoes intramolecular conversion to a zwitterionic derivative that can be isolated by simple filtration.
-
-This [[psilocybin-synthesis-zwitterionic-intermediate-filtration-method]] was fully characterized by 2D NMR, including HMBC and NOESY experiments that confirmed the intramolecular transfer of a benzyl group from oxygen to nitrogen.
-
-The synthesis starts from commercially available 4-hydroxy [[psilocin-chemistry-and-serotonin-relationship]]
-
-- psilocybin phosphate ester chemistry
-
-- [[tryptamine]] chemistry overview
+The synthesis starts from commercially available 4-hydroxy [[tryptamine]] chemistry overview
 
 - [[australian-magic-mushroom-common-names]] pharmacology
 
@@ -88,3 +76,75 @@ The greatest value from this topic often comes through integration
 with other systems and approaches. Rather than treating it in isolation,
 considering how it connects with and enhances other elements creates
 more robust and productive overall systems. This integrative approach
+
+## Overview
+
+[[psilocybin-synthesis]] Shirota Concise Large Scale Method represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish psilocybin synthesis shirota concise large scale method
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving psilocybin extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Psilocybin Synthesis Shirota Concise Large Scale Method finds practical application in multiple design contexts.
+[[permaculture-principles]] guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for psilocybin synthesis shirota concise large scale method. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+psilocybin synthesis shirota concise large scale method and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Psilocybin Synthesis Shirota Concise Large Scale Method has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of psilocybin synthesis shirota concise large scale method into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions

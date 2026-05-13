@@ -9,8 +9,7 @@ type: concept
 ---
 # Honey Locust Pod Fodder and Timber Production
 
-Honey locust ([[gleditsia-triacanthos]]) is a moderately fast-growing,
-long-lived leguminous tree native to [[polypore-fungi-eastern-north-america]]. It combines
+Honey locust ([[polypore-fungi-eastern-north-america]]. It combines
 high-quality stock fodder from its pods with valuable timber, making it
 a dual-purpose tree of exceptional value in permaculture systems.
 
@@ -61,9 +60,7 @@ Pod yield increases significantly with age:
 - At year 15: yield reaches 18 tonnes per hectare per year
 - Mature groves: 50 to 60 tonnes per hectare per year reported
 
-Pods can also serve for human food and [[permaculture-on-farm-alcohol-fuel-production]]. The
-sweet pulp can be eaten fresh, dried, ground into flour, or processed
-into [[comparison-mead-vs-kvass-fermented-beverages]]. Indigenous peoples traditionally used the
+Pods can also serve for human food and [[comparison-mead-vs-kvass-fermented-beverages]]. Indigenous peoples traditionally used the
 pulp as a sweetener before the availability of cane sugar.
 
 ## Timber Qualities
@@ -85,41 +82,6 @@ fuelwood with high energy density and relatively low ash content.
 Like many leguminous trees, honey locust forms symbiotic associations
 with rhizobial bacteria in root nodules. While its nitrogen fixation
 rates are modest compared to black locust or tagasaste, the cumulative
-effect of deep-rooted [[fungal-role-in-nitrogen-cycling]] is significant. Leaf fall
-returns nitrogen and minerals to the soil surface, benefiting
-understorey plants and pasture species.
-
-## Practical Applications
-
-The principles and techniques discussed here have wide-ranging applications
-across multiple disciplines and contexts. Practitioners and researchers
-continue to explore new ways to integrate these concepts into modern practice,
-adapting traditional knowledge to contemporary challenges and opportunities.
-
-## Key Considerations
-
-Several important factors influence the effectiveness and outcomes described
-in this topic. Understanding these considerations helps practitioners make
-informed decisions and avoid common pitfalls. Environmental conditions,
-timing, and material selection all play critical roles.
-
-## Historical Context
-
-The historical development of this subject reflects centuries of accumulated
-knowledge and practical experience. From traditional methods passed down
-through generations to modern scientific approaches, the evolution continues
-to inform current best practices and research directions.
-
-## Common Challenges
-
-Practitioners frequently encounter several challenges when working with
-these concepts. Climate variability, resource limitations, and knowledge
-gaps can all affect outcomes. Addressing these challenges requires patience,
-observation, and a willingness to adapt approaches based on results.
-
-## See Also
-- [[permaculture-design]]
-- [[det]]
+effect of deep-rooted [[permaculture-design]]
 - [[permaculture]]
-- [[permaculture-honey-locust-pod-fodder-system]]
 - [[comparison-black-locust-vs-honey-locust]]

@@ -14,33 +14,9 @@ The theory that secret societies and fraternal orders have preserved — and sup
 
 ## Historical Suppression of Entheogenic Knowledge
 
-The campaign against entheogenic practice is traced by James Arthur and others to the early consolidation of religious and political power. Shamanic leaders who possessed pharmacological knowledge — what the Greeks called *pharmakeia* — held social authority derived from their direct experiential understanding of [[weil-the-natural-mind-altered-states-normalcy]]. This independent spiritual authority posed a direct threat to institutional religion and nascent state power.
-
-The Spanish Inquisition and European witch hunts (estimated to have killed over eight million people between the 15th and 19th centuries) are cited as the most systematic campaign against entheogenic practitioners. The concurrent extermination of indigenous peoples in the Americas — including the Aztec, Inca, and Maya civilizations, with an estimated twenty million deaths — is framed by entheogenic scholars as part of the same agenda: eliminating rival sources of spiritual authority and the pharmacological knowledge that underpinned them.
-
-The translation of *pharmacopoeia* as "witchcraft" in early modern European contexts reflects this deliberate conflation of plant knowledge with demonic practice, a semantic weapon that served both religious and colonial interests.
-
-## The Eleusinian Mysteries
-
-The Eleusinian Mysteries of ancient Greece represent one of the most compelling cases for institutionalized entheogenic practice. For nearly two thousand years (approximately 1500 BCE to 392 CE), the annual initiation ceremony at Eleusis near Athens was the most important religious event in the Greek world. Initiates drank a barley-based potion called the kykeon and reportedly experienced transformative visions that abolished the fear of death. The Homeric Hymn to Demeter describes the experience in terms that strongly suggest an entheogenic encounter.
-
-The Wasson-Hofmann-Ruck hypothesis, published in 1978 as [[allegro-colour-and-consistency-of-the-amanita-muscaria]] fly agaric mushroom. He based this on linguistic analysis of Vedic texts, comparative mythology, and the mushroom's known psychoactive properties. While debated, this hypothesis remains one of the most discussed in ethnomycological scholarship.
-- **The [[entheogenic-eleusis-theory-scholarly-reception]]:** As co-author of *The [[the-road-to-eleusis-wasson-hofmann-ruck]]*, Wasson argued that the kykeon at Eleusis contained an ergot-derived entheogen.
-- **The [[fukuoka-second-genesis-theory-global-seed-scattering]]:** In *The Wondrous Mushroom* (1980), Wasson proposed that the fruit of the Tree of Knowledge in Genesis was a psychoactive mushroom, and that the serpent represented the mushroom's stem and cap — a reading that connects the biblical narrative to mushroom imagery found in pre-Columbian Mesoamerican art.
-
-Wasson's work, while controversial, established entheogenic scholarship as a legitimate field of academic inquiry and inspired subsequent researchers including Terence McKenna, Jonathan Ott, and Carl Ruck.
-
-## The Freemasonry Hypothesis
-
-James Arthur specifically identifies Freemasonry as a central institution in the preservation and concealment of entheogenic knowledge. He notes that Sir Francis Bacon, a 33rd degree Freemason, edited the King James Bible — suggesting that the most widely distributed English scripture was shaped by initiates of a secret tradition. The claim is that Masonic symbolism — including the compass and square, pillars, and architectural motifs — encodes references to entheogenic sacraments that only higher-degree initiates are permitted to understand.
-
-Arthur reports personal conversations with clergy and high-ranking initiates who, upon learning of his research into entheogenic sacraments, acknowledged awareness of the information but refused to discuss it further due to oaths of secrecy. He interprets their reactions as confirmation that entheogenic knowledge exists at the highest levels of initiatory traditions.
-
-The Masonic motto "Ordo Ab Chao" (Order Out of Chaos) is interpreted by Arthur as describing a deliberate strategy: creating social crises to justify repressive legislation, thereby consolidating institutional power while systematically eliminating rival sources of spiritual and pharmacological knowledge.
-
-## Medieval Guild Connections
-
-The transition of entheogenic knowledge from open shamanic practice to hidden guild traditions may be traced through [[solanaceous-hallucinogens-of-medieval-european-witchcraft]] craft guilds. Several features of medieval guilds are consistent with the preservation of esoteric knowledge:
+The campaign against entheogenic practice is traced by James Arthur and others to the early consolidation of religious and political power. Shamanic leaders who possessed pharmacological knowledge — what the Greeks called *pharmakeia* — held social authority derived from their direct experiential understanding of [[allegro-colour-and-consistency-of-the-amanita-muscaria]] fly agaric mushroom. He based this on linguistic analysis of Vedic texts, comparative mythology, and the mushroom's known psychoactive properties. While debated, this hypothesis remains one of the most discussed in ethnomycological scholarship.
+- **The [[the-road-to-eleusis-wasson-hofmann-ruck]]*, Wasson argued that the kykeon at Eleusis contained an ergot-derived entheogen.
+- **The [[solanaceous-hallucinogens-of-medieval-european-witchcraft]] craft guilds. Several features of medieval guilds are consistent with the preservation of esoteric knowledge:
 
 - **Guild secrecy:** Craft guilds maintained strict secrecy about their methods, techniques, and trade knowledge. Guild members took oaths binding them to silence, and revealing guild secrets could result in expulsion or worse.
 - **Herbal knowledge:** Apothecaries, herbalists, and brewers' guilds all possessed extensive knowledge of psychoactive plants. Guild control of this knowledge created a de facto monopoly on pharmacological expertise.
@@ -59,11 +35,8 @@ Several modern fraternal and initiatory organizations have been connected to ent
 
 - **The Hermetic Order of the Golden Dawn:** A late 19th-century occult society that drew on Kabbalistic, alchemical, and Hermetic traditions. Some scholars note that alchemical texts contain plant and fungal symbolism that could encode entheogenic knowledge.
 - **The Rosicrucians:** Their manifestos (published 1614-1616) describe the recovery of ancient secret knowledge. Whether this knowledge includes entheogenic pharmacology remains speculative.
-- **Indigenous preservation societies:** In Mesoamerica and South America, some indigenous communities have maintained entheogenic traditions through colonial repression by wrapping them in Catholic syncretism — the most famous example being the [[allegro-soma-mushroom-thesis]] that the Eucharist derives from ancient fertility cult sacraments involving [[cattle-dispersal-psychoactive-fungi-australia]], and to [[magic-mushroom-prohibition-history]]
-- mexican-inquisition-against-mushroom-cults
-- [[mckenna-dionysian-cults-and-suppression-of-ecstasy]]
+- **Indigenous preservation societies:** In Mesoamerica and South America, some indigenous communities have maintained entheogenic traditions through colonial repression by wrapping them in Catholic syncretism — the most famous example being the [[cattle-dispersal-psychoactive-fungi-australia]], and to [[mckenna-dionysian-cults-and-suppression-of-ecstasy]]
 - controversy-sacred-mushroom-theory
-- [[the-road-to-eleusis-wasson-hofmann-ruck]]
 - [[amanita-muscaria-guide]]
 ## Practical Considerations
 
@@ -113,8 +86,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[james-arthur]]
 - [[terence-mckenna]]
-- [[dom]]
 - [[jonathan-ott]]
 - [[soma]]

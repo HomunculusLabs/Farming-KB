@@ -13,25 +13,11 @@ sources:
 
 ## Overview
 
-**Tuber melanosporum**, commonly known as the **Périgord black truffle**, is a subterranean ascomycete fungus and one of the most prized [[fruiting-initiation]] and autumn/winter chilling for maturation.
-- **Soil:** Well-drained, calcareous (limestone-derived) soils with pH 7.5–8.3 (ideally 7.8–8.0). Prefers stony, shallow soils over bedrock. Poor in mushroom-mites-and-nematodes-in-cultivation
-  - *Carpinus betulus* (hornbeam)
-  - *Tilia* spp. (linden)
-  - *Pinus* spp. (some pines) — occasional, less productive
-  - *Ostrya carpinifolia* (hop hornbeam)
-  - *Cistus* spp. (rockrose) — reported in some regions
-
-## Cultivation (Trufficulture)
-
-### History
-[[comparison-truffle-cultivation-basics-vs-mushroom-indoor-cultivation]] dates to the early 19th century. Joseph Talon in Provence (c. 1808) first observed that oak seedlings growing near productive truffle trees could themselves produce truffles, establishing the principle of inoculated seedling planting.
+**Tuber melanosporum**, commonly known as the **Périgord black truffle**, is a subterranean ascomycete fungus and one of the most prized [[comparison-truffle-cultivation-basics-vs-mushroom-indoor-cultivation]] dates to the early 19th century. Joseph Talon in Provence (c. 1808) first observed that oak seedlings growing near productive truffle trees could themselves produce truffles, establishing the principle of inoculated seedling planting.
 
 ### Modern Trufficulture
-1. **Seedling inoculation:** Tree seedlings (oak or hazelnut) are grown in nurseries and inoculated with *T. melanosporum* spores or mycelial slurry. [[arbuscular-mycorrhizal-colonization-patterns]] is verified microscopically before planting.
-2. **[[fukuoka-citrus-orchard-establishment-bare-hillside]] (truffière):** Inoculated seedlings are planted in prepared sites with suitable soil, climate, and drainage. Typical spacing: 6–8 m apart (150–300 trees/hectare). Soil pH is corrected with lime if necessary.
-3. **[[comparison-no-till-vs-mulch-soil-management]]:** Maintaining soil pH 7.8–8.0, controlling competing fungi (especially *Tuber brumale* and *Scleroderma* spp.). "Burning" the soil (solarization or controlled burning) is a traditional practice to reduce competitors.
-   - **Pruning:** Trees are pruned to control canopy density and maintain optimal light penetration to the soil surface.
-   - **[[tuber-aestivum]]
+1. **Seedling inoculation:** Tree seedlings (oak or hazelnut) are grown in nurseries and inoculated with *T. melanosporum* spores or mycelial slurry. [[fukuoka-citrus-orchard-establishment-bare-hillside]] (truffière):** Inoculated seedlings are planted in prepared sites with suitable soil, climate, and drainage. Typical spacing: 6–8 m apart (150–300 trees/hectare). Soil pH is corrected with lime if necessary.
+3. **[[tuber-aestivum]]
 - [[tuber-magnatum]]
 ## Practical Applications
 
@@ -88,3 +74,77 @@ uncertainty and improve the resilience of implementations over time.
 
 Learning from both successes and failures is essential for continuous
 improvement. Maintaining records of observations, interventions, and
+
+## Overview
+
+Tuber Melanosporum represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish tuber melanosporum
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving tuber extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Tuber Melanosporum finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for tuber melanosporum. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+tuber melanosporum and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Tuber Melanosporum has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of tuber melanosporum into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource

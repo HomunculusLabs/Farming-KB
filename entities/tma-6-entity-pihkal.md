@@ -7,73 +7,7 @@ tags: [phenethylamines, pihkal]
 sources: ["Shulgin - PIHKAL"]
 ---
 # TMA-6
-[[2c-b-pihkal-entry-20]] #162. 2,4,6-TRIMETHOXYAMPHETAMINE.
-
-## Chemical Name
-
-2,4,6-TRIMETHOXYAMPHETAMINE
-
-## Dosage and Duration
-| Property | Value |
-|----------|-------|
-| Dosage | 25 - 50 mg. |
-| Duration | 12 - 16 h. |
-## Qualitative Comments
-> (with 25 mg) I was outside at the
-> California-Washington State football game, which was completely nutty.
-> As was I. With the crowd activity, it was impossible to separate the
-> drug's action from the environment. Later I simply sat in the car,
-> and tried to define what the effects really were. Things were
-> completely benign, there was ease with concepts, and writing was good
-> and smooth. At twelve hours, comfortably down. Maybe a plus two.
->
-> (with 35 mg) My body was tingling all over, and there were times when
-> walking was unsteady. Thinking was a little difficult, as I was quite
-> intoxicated most of the day (all of the day, now that I think that
-> over). To accomplish anything, such as toasting the toast in the
-> toaster, was difficult. And things were so funny most of the time.
-> Setting the table for supper, six hours later, proved to be hilarious.
-> I like to think of the day as a mixture of the mad hatter's tea party,
-> and a trip to the moon. We were all still intoxicated at bedtime,
-> whatever time that was. Had difficult time sleeping. If I were to
-> repeat, would go lighter in dosage, I feel.
->
-> (with 40 mg) This experiment was begun at noon of a cool rainy day.
->
->
-> Almost all of the day had to be spent indoors, without benefit of
-> sunshine, This is worth mentioning because there was, for the first
-> eight hours of the experiment, a decided feeling of inner chill which
-> might not have occurred so strongly had it been a warm day. Most, if
-> not all, of the other eight subjects also reported the same chill.
-> There was some visual sparkle which persisted throughout. At the two
-> hour point a minor but persistent stomach queasiness came on, preceded
-> by a diarrhea-like bowel movement. There was no impairment of speech,
-> but there was some halting quality to all thought processes. It was
-> easy to talk about personal matters, but there did not seem to be a
-> significant insight increase. Appetite for food was lessened. Sleep
-> was decidedly difficult after the effects of the material seemed
-> otherwise gone.
->
-> (with 40 mg) As the experience grows in intensity for the first four
-> hours, I feel a strange mixture of plateaus, exuberance, and strong
-> negative feelings, all replacing each other. I found myself inside a
-> stout, hemispherical shell, curled up in the solid part, thoroughly
-> walled off but absolute master within the shell, calling all shots,
-> making all decisions, in complete control. Moving beyond the
-> half-shell meant becoming vulnerable, which I refused to do.
-> Consequently my difficulty in hearing what other people say, becoming
-> involved in their perceptions and lives. I keep relationships
-> shallow, pull away inside my shell rather than become involved. I
-> like to be by myself. This was a great revelation; I had never seen
-> it before. This material had an enormous drive. I feel extremely
-> grateful for exposing a very deep personal problem.
->
-> (with 50 mg) My previous try at this level produced a record that
-> said, 'alteration of consciousness, but no visual, no anything,' and
-> oh my, surprise! It was very, very active, visual, colorful, etc.,
-> etc. Good talking, clear and steady control of body, despite intense
-> [[savory-energy-flow-and-solar-capture]]. Extremely funny Q great humor, wonderful laughter.
+[[savory-energy-flow-and-solar-capture]]. Extremely funny Q great humor, wonderful laughter.
 ## Extensions and Commentary
 Here is a simple and easily made compound
 that might well bid fair to be one of the most rewarding and
@@ -82,12 +16,89 @@ as its counterpart, TMA-2. This latter compound, with its
 2,4,5-trisubstitution pattern, has served as a template from which an
 immense family of very active and fascinating drugs have arisen. The
 2,5-dimethoxy aspect has been kept intact, and modifications in the
-4-position have given rise to treasures such as [[dom]], DOB, DOET, DOI,
-and the Aleph compounds. And, of course, the entire world of the
-2C-X's has exploited this same orientation.
-Here, there is the blatant, parallel call from TMA-6. It can serve,
-as the 2,4,6-counterpart, as a similar template compound. And the
-first indicators are that, in keeping the 2,6-dimethoxy aspect intact,
+4-position have given rise to treasures such as [[aleph-entity-pihkal]]
+
+## Overview
+
+Tma 6 Entity Pihkal represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish tma 6 entity pihkal
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving tma extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Tma 6 Entity Pihkal finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for tma 6 entity pihkal. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+tma 6 entity pihkal and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Tma 6 Entity Pihkal has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of tma 6 entity pihkal into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
 
 ## See Also
-- [[aleph-entity-pihkal]]
+
+- [[4-tme-entity-pihkal]]
+- [[doef-entity]]
+- [[eem-entity-pihkal]]
+- [[mdpr-entity-pihkal]]
+- [[te-entity-pihkal]]

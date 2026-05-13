@@ -12,86 +12,97 @@ date: 2026-05-09
 updated: 2026-05-09
 sources:
   - de Jong, P.C. (1976). "Flowering and cannabis-sex-expression-hermaphrodite-breeding-clarke in Acer L.: a biosystematic study." Mededelingen Landbouwhogeschool Wageningen, 76(2).
-  - Burns, R.M. & Honkala, B.H. (1990). Silvics [[berry-growing]]: [[acer-saccharum]]. USDA Forest Service Agriculture Handbook 654.
+  - Burns, R.M. & Honkala, B.H. (1990). Silvics [[acer-saccharum]]. USDA Forest Service Agriculture Handbook 654.
   - Gleason, H.A. & Cronquist, A. (1991). Manual of Vascular Plants of Northeastern United States. New York Botanical Garden.
-  - Preston, R.J. (1976). [[growing-gourmet-north-american-reishi-species]] Trees. Iowa State University Press.
----
-
-## Overview
-
-**Acer nigrum** Michx.f., commonly known as black maple, is a large deciduous tree closely related to and often considered a subspecies of sugar maple (*Acer saccharum*). It is native to the midwestern and northeastern United States.
-
-Black maple typically reaches 20–25 meters in height with a dense, rounded crown. It closely resembles sugar maple but is distinguished by its darker bark, drooping leaf edges, and three-lobed leaves with more pronounced sinuses.
-
-The species is valued for its high-quality hardwood timber and its sap, which produces syrup comparable to that of sugar maple. Some authorities treat it as *Acer saccharum* subsp. *nigrum*, reflecting the close genetic relationship.
-
-## Taxonomy and Morphology
-
-**Classification:** Kingdom Plantae → Family Sapindaceae (traditionally Aceraceae) → Genus *Acer* → Section *Acer* → Species *A. nigrum*.
-
-The species was described by André Michaux in 1803. Taxonomic treatment varies: some authors recognize it as a distinct species while others place it within *A. saccharum* as subspecies *nigrum* or variety *nigrum*.
-
-**Bark** on mature trunks is dark gray to nearly black, deeply furrowed into long, plate-like ridges. This darker bark is the primary diagnostic feature distinguishing it from sugar maple.
-
-**Leaves** are 8–15 cm long and wide, palmately 3-lobed (rarely weakly 5-lobed) with coarsely serrate margins. The three lobes are broader and more separated than those of sugar maple.
-
-A key distinguishing feature is the drooping or wavy leaf margins, caused by a slight downward curl at the edges. The upper surface is dark green; the lower surface is yellow-green and glabrous to slightly pubescent.
-
-Leaf petioles are typically longer and more slender than those of sugar maple. This contributes to the characteristically drooping appearance of the foliage, especially on mature trees.
-
-Autumn coloration is typically yellow-orange to orange-red, similar to sugar maple but sometimes less intense. Fall color develops reliably and is considered an important ornamental attribute.
-
-**Flowers** are pendulous, yellow-green, and appear in early spring before or with the leaves. They are structurally similar to sugar maple flowers, borne in long-stalked racemes.
-
-**Fruit** is a paired samara, 2–3.5 cm long, with wings spreading at approximately 60–90°. Samaras mature in early autumn and are dispersed by wind.
-
-## Distribution and Habitat
-
-Black maple occurs from western Vermont and New York westward through southern Ontario and Michigan to southeastern Minnesota, Iowa, and eastern Kansas. Southern populations extend through Missouri, Kentucky, and Tennessee.
-
-The species is most abundant in the western and southern portions of the sugar maple range, where it replaces sugar maple on drier, warmer sites. It is particularly common in the Ohio River Valley and the central Midwest.
-
-Historical land surveys from the early 19th century indicate that black maple was once more widespread in the tallgrass prairie-forest ecotone. Agricultural conversion has reduced its range in Iowa, Illinois, and western Indiana.
-
-Black maple occupies a broader ecological amplitude than sugar maple, tolerating somewhat drier and warmer conditions. It is found on upland slopes, ridges, and well-drained bottomlands.
-
-Elevation ranges from near sea level in the Great Lakes region to approximately 500 meters in the southern Appalachians. It is less common at high elevations than sugar maple.
-
-The species is a component of maple-beech-basswood and maple-oak-hickory forest types. It often occurs in mixed stands with sugar maple, with black maple dominating on warmer, drier microsites.
-
-## Ecology and Uses
-
-The seeds and buds of black maple are eaten by squirrels, chipmunks, and various songbirds. The dense canopy provides nesting habitat for forest-interior birds and significant shade for understory plant communities.
-
-Black maple seeds are an important food source for red squirrels in northern hardwood forests. Seed production follows a mast cycle with heavy crops every 3–5 years.
-
-The foliage is browsed sparingly by deer. The tree serves as a host for several moth species including the rosy maple moth (*Dryocampa rubicunda*) and the maple leafcutter (*Paraclemensia acerifoliella*).
-
-Black maple wood is hard, heavy, and fine-grained, essentially identical to sugar maple in quality and properties. It is marketed together with sugar maple as "hard maple" lumber.
-
-The Janka hardness of black maple is approximately 1180 lbf, comparable to sugar maple at 1450 lbf. Both species rank among the hardest native North American hardwoods.
-
-Primary uses include flooring, cabinetry, furniture, musical instruments, and veneer. The wood turns well and takes a high polish, making it a preferred material for fine woodworking.
-
-Sap from black maple is sweet and produces high-quality maple syrup. Yield and sugar content are comparable to sugar maple, and many commercial sugaring operations tap both species without distinction.
-
-Some maple producers consider black maple sap slightly sweeter on average, with sugar concentrations occasionally reaching 3–4%. The resulting syrup has the characteristic maple flavor profile.
-
-In [[mollison-course-coppice-forest-management]], black maple is valued for its site adaptability. It is sometimes recommended as a more heat-tolerant alternative to sugar maple for plantings in the lower Midwest.
+  - Preston, R.J. (1976). [[mollison-course-coppice-forest-management]], black maple is valued for its site adaptability. It is sometimes recommended as a more heat-tolerant alternative to sugar maple for plantings in the lower Midwest.
 
 ## Cultivation
 
-Black maple transplants readily as balled-and-burlapped or container-grown stock. It requires full sun for optimal growth and develops a strong [[comparison-central-leader-vs-open-center-fruit-tree-training]] when young.
+Black maple transplants readily as balled-and-burlapped or container-grown stock. It requires full sun for optimal growth and develops a strong [[acer-saccharum]]
+- [[ribes-nigrum]]
+- [[solanum-nigrum]]
 
-The species performs best on deep, well-drained loams but tolerates clay soils and slightly drier conditions than sugar maple. It is less tolerant of compacted urban soils than Norway maple.
+## Overview
 
-Growth rate is moderate, typically 30–45 cm per year. Black maple is slightly slower-growing than sugar maple on optimal sites but more persistent on marginal sites.
+Acer Nigrum represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
 
-It is hardy in USDA zones 4–7. Fall color is reliable and provides significant ornamental value in landscape settings.
+## Key Characteristics
+
+Several defining characteristics distinguish acer nigrum
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving acer extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Acer Nigrum finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for acer nigrum. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+acer nigrum and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Acer Nigrum has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of acer nigrum into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
 
 ## See Also
+
+- [[acer-negundo]]
+- [[acer-pensylvanicum]]
+- [[acer-rubrum]]
+- [[acer-saccharinum]]
 - [[acer-saccharum]]
-- [[dom]]
-- [[ribes-nigrum]]
-- [[asplenium-adiantum-nigrum]]
-- [[solanum-nigrum]]

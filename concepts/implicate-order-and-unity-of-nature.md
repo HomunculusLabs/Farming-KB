@@ -55,9 +55,7 @@ This philosophical foundation has direct practical consequences for design:
 
 ## See Also
 
-- [[pattern-understanding-in-permaculture]]
 - [[tribal-uses-of-patterning]]
-- [[mnemonics-of-meaning]]
 - [[flowform-water-aeration]]
 
 ## Key Principles
@@ -79,8 +77,6 @@ This philosophical foundation has direct practical consequences for design:
 - Understanding improves capacity for sustainable resource management
 
 ## Related Concepts
-- [[implicate-order-pattern-unity]]
 - [[implicate-order-and-unity-of-phenomena]]
-- [[pattern-understanding-and-implicate-order]]
 - [[fukuoka-textdoc-natural-order-food-chain-unity]]
 - [[fukuoka-god-nature-man-unity-philosophy]]

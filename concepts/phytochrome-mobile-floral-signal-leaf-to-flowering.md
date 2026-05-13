@@ -1,6 +1,6 @@
 # Phytochrome Mobile Floral Signal: From Leaf to Flowering
 
-A surprising finding in photoperiod research is that the phytochrome responsible
+A surprising finding in photoperiod research is that the [[phytochrome]] responsible
 for measuring day length is located in the leaves, not in the shoot tip. This
 contrasts with phototropism, where Darwin showed that the light-sensing "eye" is
 at the shoot apex. The discovery that leaves perceive photoperiodic signals and
@@ -62,7 +62,7 @@ leaf tissue, making the leaf the computational center for photoperiodic decision
 ## Contrast with Phototropism
 
 The contrast between phototropism and photoperiodism illustrates the modularity
-of plant sensory systems. Phototropism uses blue-light photoreceptors (phototropins)
+of [[plant-sensory-systems]]. Phototropism uses blue-light photoreceptors (phototropins)
 localized at the shoot tip to detect light direction, with the response occurring
 locally through asymmetric auxin redistribution. Photoperiodism uses red/far-red
 photoreceptors (phytochromes) distributed throughout the leaves to detect day
@@ -116,8 +116,6 @@ response to other cues such as age or temperature.
 
 ## See Also
 
-- [[phytochrome-ecological-red-far-red-dusk-dawn-signaling]]
 - [[night-interruption-photoperiodism]]
-- [[short-day-long-day-plant-flowering-classification]]
 - [[chamovitz-phytochrome-mobile-signal-leaf-to-flowering]]
 - [[darwin-five-condition-phototropism-experiment-canary-grass]]

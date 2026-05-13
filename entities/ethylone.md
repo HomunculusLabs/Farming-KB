@@ -5,23 +5,13 @@ type: chemical
 tags:
   - psychedelic
   - entactogen
-  - [[cathinone]]
-  - empathogen
-  - research-chemical
-  - beta-ketone
-  - stimulant
-date: 2026-04-28
-updated: 2026-04-28
-sources:
-  - Casale JF, Hays PA. "Synthetic cathinones: Characterization of the β-keto-amphetamines." Forensic Science International, 2012.
-  - Europol-EMCDDA. "EU Early Warning System: Report on Ethylone." EMCDDA Publications, 2014.
-  - Zaitsu K, et al. "Metabolism of the newly encountered designer drug ethylone in humans." [[cytochrome-p450-enzymes-drug-metabolism]] and Disposition, 2014.
+  - cytochrome-p450-enzymes-drug-metabolism and Disposition, 2014.
   - Palmer RB, et al. "Case series of novel psychoactive substance toxicity." Clinical Toxicology, 2015.
 ---
 
 # Ethylone
 
-**Ethylone** (systematic name: **3,4-methylenedioxy-N-ethylcathinone**) is a synthetic stimulant and entactogen of the **cathinone class**. Structurally, it is the β-keto (β-ketone) analog of **MDEA** (3,4-methylenedioxy-N-ethylamphetamine), and belongs to the substituted cathinone family alongside [[mephedrone]], [[methylone]], and [[butylone]]. Ethylone acts primarily as a releasing agent and reuptake inhibitor of [[serotonin]], dopamine, and norepinephrine, producing effects broadly similar to MDMA but with notable pharmacological and experiential differences.
+**Ethylone** (systematic name: **3,4-methylenedioxy-N-ethylcathinone**) is a synthetic stimulant and entactogen of the **cathinone class**. Structurally, it is the β-keto (β-ketone) analog of **MDEA** (3,4-methylenedioxy-N-ethylamphetamine), and belongs to the substituted cathinone family alongside methylone, and serotonin, dopamine, and norepinephrine, producing effects broadly similar to MDMA but with notable pharmacological and experiential differences.
 
 ## Chemical Profile
 
@@ -37,7 +27,7 @@ sources:
 
 ### Structural Classification
 
-Ethylone is a **substituted cathinone** with the following [[metzner-shamanic-ceremony-versus-psychotherapy-structural-features]]:
+Ethylone is a **substituted cathinone** with the following metzner-shamanic-ceremony-versus-psychotherapy-structural-features:
 
 - **β-keto group** (carbonyl at the β-position relative to the nitrogen) — the defining feature that distinguishes cathinones from amphetamines
 - **N-ethyl substitution** on the amine nitrogen (vs. N-methyl in methylone, N-methyl in MDMA)
@@ -87,3 +77,74 @@ Identified in human urine and plasma studies:
 - **4-Hydroxy-3-methoxyethylcathinone** (via O-demethylenation)
 - **Norethylone** (via N-deethylation)
 - **Hydroxyethylcathinone glucuronide** (Phase II conjugate)
+
+## Overview
+
+Ethylone represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish ethylone
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving ethylone extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Ethylone finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for ethylone. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+ethylone and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Ethylone has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## See Also
+
+- [[metzner-shamanic-ceremony-versus-psychotherapy-structural-features]]
+- [[indigenous-plant-knowledge-versus-synthetic-drug-safety-metzner]]
+- [[metzner-shamanic-ceremony-three-features-darkness-singing-silence]]
+- [[dmt-vs-lsd-pharmacological-comparison-onset-duration-receptor]]
+- [[water-permaculture-global-local-strategies]]

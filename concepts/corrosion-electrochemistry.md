@@ -21,7 +21,7 @@ This mixed-potential view explains why inhibitors, coatings, deaeration, cathodi
 
 ## Thermodynamic Driving Force
 
-Thermodynamics indicates whether a corrosion reaction is possible. Electrode potentials, chem [[powell-psilocybin-serotonin-pathways-environmental-chemistry]] vironmental chemistry shifts the balance. Chloride ions, sulfides, ammonia, [[carbon-dioxide-retention-jar-lid-mushroom-cultivation]], microbial metabolites, and high temperature can destabilize films or accelerate reactions.
+Thermodynamics indicates whether a corrosion reaction is possible. Electrode potentials, chem [[carbon-dioxide-retention-jar-lid-mushroom-cultivation]], microbial metabolites, and high temperature can destabilize films or accelerate reactions.
 
 ## Polarization and Kinetics
 
@@ -55,9 +55,7 @@ Coating only the anodic metal can be risky if holidays expose small anodic defec
 
 Passivation is the formation of a thin, adherent, protective surface film that reduces corrosion rate. Stainless steel relies on chromium-rich oxide, aluminum on aluminum oxide, and titanium on a stable titanium oxide film.
 
-A passive film is not an inert shell in a simple sense. It is a dyna challenges-neurotropic-fungi-identification-chemical-analysis face analysis, microscopy, profilometry, and [[challenges-neurotropic-fungi-chemical-analysis-taxonomic-identification]] of corrosion products help connect electrochemical data to actual damage morphology.
-
-Inspection should match the failure mode. Uniform wall loss, pits, cracks, and under-deposit corrosion require different sampling strategies and nondestructive [[soil-testing-methods-interpretation]].
+A passive film is not an inert shell in a simple sense. It is a dyna challenges-neurotropic-fungi-identification-chemical-analysis face analysis, microscopy, profilometry, and [[soil-testing-methods-interpretation]].
 
 ## Engineering Significance
 
@@ -65,14 +63,7 @@ Corrosion is an economic and safety problem as much as a chemical one. It increa
 
 Designers must consider life-cycle exposure, not just initial material strength. A strong alloy can be a poor choice if it is galvanically incompatible or prone to localized corrosion in the service environment.
 
-The best corrosion decisions combine electrochemical testing, service history, material standards, [[eclss-environmental-control-life-support]], and inspection planning.
-
-For engineering practice, the goal is rarely to eliminate corrosion absolutely. The realistic goal is to reduce rate, prevent dangerous localization, maintain inspectability, and keep risk within acceptable margins.
-
-## Electrochemical Monitoring Techniques
-
-Electrochemical monitoring provides real-time data on corrosion rate and
-mechanism without [[fungal-destructive-sampling-herbarium-dna-extraction]]. It is widely deployed on pipelines,
+The best corrosion decisions combine electrochemical testing, service history, material standards, [[fungal-destructive-sampling-herbarium-dna-extraction]]. It is widely deployed on pipelines,
 storage tanks, offshore platforms, and reinforced concrete structures.
 
 Potentiodynamic polarization scans sweep the electrode potential while
@@ -118,7 +109,5 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[psilocybin]]
 - [[dom]]
-- [[serotonin]]
 - [[radiation-resistant-fungi-and-myco-corrosion]]

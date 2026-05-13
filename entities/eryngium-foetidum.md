@@ -19,17 +19,7 @@ sources:
 ## Overview
 
 **Eryngium foetidum** is a tropical perennial herb in the family Apiaceae,
-widely cultivated and naturalized throughout the Caribbean, [[guzman-allen-gartz-neurotropic-fungi-central-america-caribbean]],
-[[guzman-psilocybin-mushrooms-south-america]], and [[psilocybe-southeast-asia-pacific]]. It is commonly known as culantro, sawtooth
-coriander, recao, Mexican coriander, and fitweed.
-
-The species is valued for its intensely aromatic leaves, which are used as a
-culinary herb with a flavor profile similar to coriander (*Coriandrum
-sativum*) but significantly more pungent and long-lasting.
-
-Unlike coriander, which bolts and loses flavor rapidly in hot weather,
-*Eryngium foetidum* thrives in tropical and subtropical conditions and
-maintains its flavor throughout the [[savory-growing-season-and-non-growing-season-management]].
+widely cultivated and naturalized throughout the Caribbean, [[guzman-psilocybin-mushrooms-south-america]], and [[savory-growing-season-and-non-growing-season-management]].
 
 In traditional medicine, the plant has been used to treat fever, headache,
 convulsions, and digestive complaints across multiple cultures.
@@ -57,34 +47,86 @@ surface is dark green and glossy, with parallel venation.
 
 The inflorescence is a cylindrical spike 5–15 cm long, bearing dense
 whorls of small greenish-white flowers. Flowering is induced by
-photoperiod, typically occurring as [[coleman-persephone-months-winter-day-length]] shortens.
-
-The fruit is a small schizocarp approximately 2 mm long, splitting into
-two mericarps at maturity. Each mericarp bears five prominent ribs with
-hooked prickles that facilitate animal dispersal.
-
-The root system is fibrous and relatively shallow, making the plant
-suitable for container cultivation.
-
-## Distribution and Habitat
-
-*Eryngium foetidum* is native to the neotropics, with a natural range
-extending from southern Mexico through [[guzman-allen-gartz-neurotropic-fungi-caribbean-central-america]] and the Caribbean to
+photoperiod, typically occurring as [[guzman-allen-gartz-neurotropic-fungi-caribbean-central-america]] and the Caribbean to
 northern South America, including the Amazon basin.
 
 The species has been widely introduced and naturalized across tropical
-Africa, South and Southeast Asia, and the [[guzman-allen-gartz-neurotropic-fungi-hawaii-pacific-islands]]. It is
-particularly abundant in Vietnamese, Thai, and Indian cuisine.
-
-It grows as a weed in disturbed areas, along roadsides, in pastures, and
-in cultivated fields. Optimal growth occurs in partial shade with regular
-moisture in well-drained, fertile soils.
-
-The plant tolerates a range of soil types from sandy loams to heavy clays
-and grows at elevations from sea level to approximately 1,500 meters. It
-is moderately drought-tolerant once established.
-
-## Chemistry and Pharmacology
-
-The [[permaculture-designers-manual-essential-oil-plants]] of *Eryngium foetidum* is dominated by
+Africa, South and Southeast Asia, and the [[permaculture-designers-manual-essential-oil-plants]] of *Eryngium foetidum* is dominated by
 (2E,6Z)-2,6-dodecadienal (also called trans-2-dodecenal), which
+
+## Overview
+
+Eryngium Foetidum represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish eryngium foetidum
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving eryngium extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Eryngium Foetidum finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for eryngium foetidum. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+eryngium foetidum and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Eryngium Foetidum has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of eryngium foetidum into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.

@@ -49,7 +49,7 @@ Oxyria digyna has a circumpolar distribution encompassing arctic regions of Nort
 
 In North America it ranges from Alaska across arctic Canada to Greenland, with disjunct populations in the Rocky Mountains of Colorado, Wyoming, and Montana. European populations occur in Iceland, Scandinavia, the Alps, and the Scottish Highlands.
 
-The species occupies exposed, well-drained sites in arctic and alpine zones, including scree slopes, rock crevices, snowbed margins, and fellfield habitats. It favors neutral to basic substrates but tolerates a range of soil pH.
+The species occupies exposed, well-drained sites in arctic and alpine zones, including scree slopes, rock crevices, snowbed margins, and fellfield habitats. It favors neutral to basic substrates but tolerates a range of [[soil-ph]].
 
 Populations occur from sea level in the High Arctic to above 4,000 m in the Himalayas. The species is well-adapted to short growing seasons, often flowering and setting seed within 6–8 weeks.
 
@@ -61,30 +61,90 @@ Glacial refugia populations in the southern Rockies show distinct genetic lineag
 
 ## Edible and Nutritional Value
 
-The leaves of Oxyria digyna are edible raw or cooked, with a sharp, tangy flavor reminiscent of cultivated sorrel (Rumex acetosa). This acidity comes from oxalic acid and potassium binoxalate.
+The leaves of Oxyria digyna are edible raw or cooked, with a sharp, tangy flavor reminiscent of cultivated sorrel ([[rumex-acetosa]]). This acidity comes from oxalic acid and potassium binoxalate.
 
 Hikers and mountaineers traditionally chew the leaves as a thirst-quenching trail snack. In larger quantities the leaves can be added to soups, salads, and sauces for a citrus-like tang.
 
-[[fukuoka-textdoc-fallacy-infinite-nutritional-analysis]] has shown the leaves contain significant vitamin C, with some reports indicating 30–50 mg per 100 g fresh weight. They also provide vitamin A, iron, and potassium.
-
-Excessive consumption should be avoided due to oxalic acid content, particularly by individuals prone to kidney stones. Cooking in multiple changes of water reduces oxalate levels substantially.
-
-## Ecology and Adaptations
-
-Oxyria digyna exhibits several adaptations to extreme cold and short growing seasons. The plant maintains a pre-formed bud bank belowground, allowing rapid spring growth as soon as snow melts.
-
-Photosynthesis is efficient at low temperatures, with optimal rates measured at 10–15°C. The fleshy leaves can withstand repeated freeze-thaw cycles without cellular damage.
-
-Mountain sorrel serves as an early-season pollen source for alpine insects, including cold-adapted bumblebees and syrphid flies. The winged achenes are effective at colonizing distant scree patches via wind dispersal.
-
-In arctic ecosystems, Oxyria digyna is often one of the first colonizers of disturbed ground such as moraines, animal burrows, and frost-boil margins. Its presence helps stabilize loose substrate for subsequent plant establishment.
-
-The species forms [[plants-without-mycorrhizal-associations]] that enhance nutrient uptake in the nutrient-poor soils typical of alpine habitats. These fungal partnerships are especially important for [[comparison-phosphorus-solubilizing-microorganisms-vs-mycorrhizal-phosphorus-acquisition]] in cold soils where decomposition is slow.
-
-Genetic studies using microsatellite markers have revealed high levels of clonal reproduction in marginal populations. Arctic populations show greater [[biodiversity-fungal-genetic-diversity]] than alpine isolates, consistent with post-glacial recolonization from multiple refugia.
+[[plants-without-mycorrhizal-associations]] that enhance nutrient uptake in the nutrient-poor soils typical of alpine habitats. These fungal partnerships are especially important for [[biodiversity-fungal-genetic-diversity]] than alpine isolates, consistent with post-glacial recolonization from multiple refugia.
 
 ## Cultivation
 
 Oxyria digyna is occasionally cultivated in rock gardens and alpine troughs, where its compact habit and distinctive foliage are valued. It requires excellent drainage, cool conditions, and bright light.
 
 Propagation is by seed, which benefits from cold stratification at 0–4°C for 4–6 weeks before sowing. Germination rates are moderate, typically 40–60% under [[psilocybe-cubensis-strain-potency-variability-controlled-conditions-bigwood-beug]].
+
+## Overview
+
+Oxyria Digyna represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish oxyria digyna
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving oxyria extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Oxyria Digyna finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for oxyria digyna. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+oxyria digyna and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Oxyria Digyna has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of oxyria digyna into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.

@@ -20,24 +20,8 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
-  - "Parker, M.A. et al. (1998). \"Bromo-DragonFLY: [[thc-acetate-synthesis-and-pharmacology]].\" Bioorganic & Medicinal Chemistry Letters 8(21): 3025-3028."
-  - "Erowid. Bromo-DragonFLY vault. erowid.org."
-  - "Nelson, M.E. et al. (2014). \"Management of DOX intoxication.\" Journal of Medical Toxicology 10(1): 51-56."
-  - "EMCDDA (2009). Risk assessment report on bromo-dragonfly."
-  - "Halberstadt, A.L. & Geyer, M.A. (2011). Neuropharmacology 61(3): 364-381."
----
-
-## Overview
-
-Bromo-DragonFLY (1-(4-bromofuro-2,5-dimethyl-4-ethylbenzyl)propan-2-amine)
-is an extremely potent synthetic psychedelic compound of the DOx
-(dimethoxyamphetamine) family. A substituted phenethylamine with a
-difuranyl ring system, it dramatically exceeds related compounds like DOI
-and DOC in both potency and duration.
-
-First synthesized by David E. Nichols at Purdue University in the late
-1990s during [[serotonin-receptor-interference-psychedelic-mechanism]] structure-activity studies, it was never
+  - "raw/papers/one-straw-revolution-[[masanobu-fukuoka]].md"
+  - "Parker, M.A. et al. (1998). \"Bromo-DragonFLY: [[serotonin-receptor-interference-psychedelic-mechanism]] structure-activity studies, it was never
 intended for human consumption. It entered the recreational market as a
 research chemical in the mid-2000s and has been associated with multiple
 deaths due to its exceptional potency, delayed onset, and prolonged
@@ -65,11 +49,7 @@ Bromo-DragonFLY acts primarily as a potent agonist at the 5-HT2A serotonin
 receptor, with significant affinity for 5-HT2B and 5-HT2C subtypes. Its
 binding affinity (Ki) at 5-HT2A is approximately 0.04 nM — roughly 100
 times more potent than DOI (Ki ≈ 4 nM) and approximately 10,000 times
-more potent than [[mescaline]].
-
-This extreme potency is attributed to the difuranyl ring system, which
-creates an extended planar aromatic structure with optimal geometry for
-[[tihkal-receptor-binding-serotonin]]. The compound also shows moderate affinity for alpha-1
+more potent than [[tihkal-receptor-binding-serotonin]]. The compound also shows moderate affinity for alpha-1
 adrenergic receptors, contributing to pronounced vasoconstrictive effects
 that are a major factor in its toxicity and the severe tissue necrosis
 observed in overdose cases.
@@ -88,3 +68,82 @@ Duration is extremely long: primary effects last 12–24 hours, with
 aftereffects persisting 12–48 additional hours. The total experience can
 span 2–3 days, with residual stimulation and perceptual distortions
 extending well beyond the primary effects. Subjective effects include
+
+## Overview
+
+Bromo Dragonfly represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish bromo dragonfly
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving bromo extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Bromo Dragonfly finds practical application in multiple design contexts.
+[[permaculture-principles]] guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for bromo dragonfly. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+bromo dragonfly and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Bromo Dragonfly has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of bromo dragonfly into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also

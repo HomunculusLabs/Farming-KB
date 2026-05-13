@@ -19,18 +19,7 @@ tags:
 aliases:
   - "Convolvulus prostratus"
   - "Convolvulus microphyllus"
-  - "[[convolvulus-pluricaulis]]"
-  - "shankhpushpi"
-  - "shankhapushpi"
-  - "morning-glory"
-date: 2026-04-28
-updated: 2026-04-28
-sources:
-  - Jain, S.K. (1991). "Dictionary of Indian Folk Medicine and Ethnobotany." Deep Publications, New Delhi.
-  - Dhingra, D. & Sharma, A. (2006). "Antidepressant-like activity of Convolvulus pluricaulis." Journal of Medicinal Food, 9(4), 554–560.
-  - Malhotra, C.L. et al. (1961). "Psychotropic effect of an indigenous drug (Convolvulus pluricaulis Choisy)." Indian Journal of Physiology and Pharmacology, 5, 91–96.
-  - Kulkarni, S.K. et al. (2008). "Convolvulus pluricaulis: An overview." Pharmacognosy Reviews, 2(4), 268–273.
-  - Nadkarni, A.K. (1976). "Indian [[herbal-materia-medica]]." Popular Prakashan, Mumbai.
+  - "herbal-materia-medica." Popular Prakashan, Mumbai.
 created: 2026-04-28
 ---
 
@@ -46,7 +35,7 @@ Shankhpushpi holds a central place in classical Ayurvedic formulations, particul
 
 Magnoliopsida → Solanales → **Convolvulaceae → *Convolvulus → *C. prostratus***
 
-The taxonomy of Shankhpushpi has been contentious, with the name applied to multiple species across different regions of India. The most commonly accepted [[dmt-botanical-sources-pharmacology]] include Convolvulus prostratus (syn. C. pluricaulis), Evolvulus alsinoides, and [[clitoria-ternatea]].
+The taxonomy of Shankhpushpi has been contentious, with the name applied to multiple species across different regions of India. The most commonly accepted clitoria-ternatea.
 
 The accepted name C. prostratus (Forssk.) Choisy reflects its prostrate growth habit. Some authorities maintain C. microphyllus and C. pluricaulis as separate species, while others treat them as synonyms within a morphologically variable complex.
 
@@ -82,8 +71,80 @@ Memory-enhancing properties are attributed to cholinergic modulation — extract
 
 Anti-inflammatory activity occurs through inhibition of COX-2 and TNF-α pathways. Antioxidant effects are mediated by flavonoid content, with significant DPPH and superoxide radical scavenging activity.
 
-The plant also demonstrates anticonvulsant, hepatoprotective, and hypolipidemic activities in preclinical studies. [[mushroom-cancer-clinical-trials-overview]] in humans have shown improvements in attention, memory, and anxiety scores with standardized extracts.
+The plant also demonstrates anticonvulsant, hepatoprotective, and hypolipidemic activities in preclinical studies. hamilton-vegetative-propagation preferred for maintaining consistent alkaloid profiles. Cuttings of 10–15 cm from healthy stock plants root readily in sandy nursery beds under mist.
 
-## Cultivation
+## Overview
 
-C. prostratus is propagated through stem cuttings and seeds, with [[hamilton-vegetative-propagation]] preferred for maintaining consistent alkaloid profiles. Cuttings of 10–15 cm from healthy stock plants root readily in sandy nursery beds under mist.
+Convolvulus Prostratus represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish convolvulus prostratus
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving convolvulus extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Convolvulus Prostratus finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for convolvulus prostratus. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+convolvulus prostratus and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Convolvulus Prostratus has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of convolvulus prostratus into broader
+systems requires careful planning and observation.
+
+## See Also
+
+- [[fukuoka-semi-wild-vegetable-growing-natural-method]]
+- [[natural-farming-guide-permaculture-design-for-small-holdings]]
+- [[animal-systems-arid-areas-permaculture]]
+- [[soil-moisture-management-and-root-growth]]
+- [[species-specific-cold-shock-fruiting-guide]]

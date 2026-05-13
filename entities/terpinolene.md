@@ -22,24 +22,12 @@ sources:
   - Tisserand, R. & Young, R. (2014). "permaculture-designers-manual-essential-oil-plants Safety." 2nd ed. Elsevier.
   - Rice, S. & Koziel, J.A. (2015). "The role of terpenes in cannabis." Journal of the American Society of Brewing Chemists 73(3): 231–240.
   - Guzmán-Gutiérrez, S.L. et al. (2012). "Antidepressant-like activity of comparison-essential-oils-vs-neem-oil-vs-insecticidal-soap." Phytomedicine 19(2): 97–107.
-  - Do, T.K.D. et al. (2015). "Chemical composition of [[comparison-essential-oils-vs-neem-oil-vs-insecticidal-soap]]." In: Essential Oils in Food Preservation. Springer.
----
-
-# Terpinolene
-
-## Overview
-
-**Terpinolene** is a monoterpene hydrocarbon (C₁₀H₁₆) found in the essential
-oils of numerous plant species. It is one of the less abundant but
-organoleptically significant terpenes in [[comparison-cannabis-sativa-vs-cannabis-indica]], contributing complex
+  - Do, T.K.D. et al. (2015). "Chemical composition of [[comparison-cannabis-sativa-vs-cannabis-indica]], contributing complex
 piney, floral, herbal, and slightly fruity aroma notes. Terpinolene occurs
 naturally in lilac, tea tree, cumin, nutmeg, and apples, and is widely used
 in the flavor and fragrance industry.
 
-Despite being classified as one of the major [[query-what-are-cannabis-terpenes-and-why-do-they-matter]], terpinolene is
-typically present at low concentrations (under 1%) in most cannabis cultivars,
-with exceptions in selectively bred "terpinolene-dominant" chemovars such as
-Golden Pineapple and [[sensi-star]].
+Despite being classified as one of the major [[sensi-star]].
 
 ## Chemical Properties
 
@@ -87,3 +75,75 @@ Terpinolene contributes a multifaceted sensory profile:
 
 Preclinical studies have identified several potentially bioactive properties
 of terpinolene, though clinical evidence remains limited:
+
+## Overview
+
+Terpinolene represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish terpinolene
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving terpinolene extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Terpinolene finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for terpinolene. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+terpinolene and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Terpinolene has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of terpinolene into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions

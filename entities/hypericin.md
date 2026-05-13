@@ -32,13 +32,8 @@ sources:
 ## Overview
 
 Hypericin is a red-colored naphthodianthrone compound found in *Hypericum*
-species, most abundantly in *[[hypericum-perforatum]]* (St. John's wort). It is
-one of the principal bioactive constituents responsible for the plant's
-antidepressant, antiviral, and photosensitizing properties.
-
-First isolated in the mid-19th century, hypericin is a [[singh-fungal-biodegradation-of-polycyclic-aromatic-hydrocarbons]]
-quinone with potent photodynamic activity. When exposed to [[electromagnetic-spectrum-visible-light-plant-perception]]
-(especially 590–660 nm wavelengths), it generates [[reactive-oxygen-species-and-oxidative-stress]]
+species, most abundantly in *[[singh-fungal-biodegradation-of-polycyclic-aromatic-hydrocarbons]]
+quinone with potent photodynamic activity. When exposed to [[reactive-oxygen-species-and-oxidative-stress]]
 (ROS) that can damage cellular membranes, proteins, and nucleic acids.
 
 This photosensitizing property underlies both its [[metzner-ayahuasca-therapeutic-potential]] in
@@ -69,10 +64,7 @@ fluorescence at approximately 590–650 nm.
 primary antidepressant compound in St. John's wort through inhibition of
 monoamine oxidase (MAO-A and MAO-B). However, subsequent research revealed
 that hypericin concentrations in standard extracts are too low for
-significant [[tihkal-oral-activity-mao-inhibition]] at therapeutic doses. The antidepressant effect
-of *H. perforatum* extracts is now attributed primarily to hyperforin and
-adhyperforin, though hypericin may contribute through modulation of
-dopamine, [[serotonin]], and GABA receptor systems.
+significant [[serotonin]], and GABA receptor systems.
 
 **Photodynamic activity:** Upon absorption of visible light, hypericin
 undergoes type I and type II photosensitization reactions. Type I involves

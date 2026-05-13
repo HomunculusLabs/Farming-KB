@@ -8,24 +8,7 @@ type: concept
 
 ## Overview
 
-Mechanical soil conditioning uses specialised implements to aerate compacted soils without inverting or destroying existing soil structure. Unlike conventional mouldboard ploughing, which turns soil over and buries surface life, conditioning preserves the soil profile while opening channels for air, water, and roots. In [[permaculture]], it serves as a one-time intervention to kickstart biological soil recovery.
-
-## The Chisel Plough (Soil Conditioner)
-
-### Design and Components
-
-A chisel plough or soil conditioner consists of:
-
-- A **rectangular steel frame** (tool bar) towed by tractor or draught animals
-- Multiple **shanks** — narrow-edge, forward-curved vertical steel bars
-- **Slip-on steel shoes** attached to the shank points
-- Optional **seed box** mounted on the frame for direct seeding
-
-Even a single implement with 5 shanks (requiring a 25-50 b.h.p. tractor) can cover substantial area. Multiple manufacturers now produce soil-loosening machines in the USA, Europe, and Australia.
-
-### The Wallace Soil Conditioner
-
-[[geoff-wallace]] developed a particularly effective soil conditioner design:
+Mechanical soil conditioning uses specialised implements to aerate compacted soils without inverting or destroying existing soil structure. Unlike conventional mouldboard ploughing, which turns soil over and buries surface life, conditioning preserves the soil profile while opening channels for air, water, and roots. In [[geoff-wallace]] developed a particularly effective soil conditioner design:
 
 1. A **circular coulter** slits the ground (soil must be neither too dry nor too wet)
 2. A **steel shoe** follows the slit, opening the ground to form an air pocket **without turning the soil over**
@@ -50,7 +33,7 @@ The immediate response is increased root penetration, seed germination, and top-
 After the initial treatment, a repeating cycle of disturbance and recovery builds soil:
 
 1. **Hard-graze or cut** the new growth — plants are shocked, losing most root mass and sealing wounds
-2. Dead roots add [[compost]] to soil; cut foliage and animal droppings feed bacteria and [[earthworms]]
+2. Dead roots add [[earthworms]]
 3. **Chisel again at 23-30 cm (9-12 inches)** on the same pattern
 4. **Graze or cut again**
 5. **Chisel again at 23-30 cm**
@@ -58,7 +41,7 @@ After the initial treatment, a repeating cycle of disturbance and recovery build
 
 Over approximately **one year**, this cycle produces:
 - Thickened pasture with weeds swamped by grasses and legumes
-- Myriad dead roots adding humus
+- Myriad dead roots adding [[humus]]
 - Thousands of subsurface tunnels from valley to ridge
 - All water flowing down into soil and out to ridges
 - Earthworms breeding in [[green-manure]]

@@ -8,7 +8,7 @@ sources: []
 ---
 # History of Plant Science
 
-The history of plant science spans from the earliest botanical observations to modern molecular biology. Key milestones include the development of plant anatomy, physiology, and microscopy -- foundations upon which all modern plant biology rests. Understanding this history provides context for current research in [[cleve-backster-plant-perception-experiments]], and [[holzer-kitchen-garden-herbs-and-medicinal-plants]]
+The history of plant science spans from the earliest botanical observations to modern molecular biology. Key milestones include the development of plant anatomy, physiology, and microscopy -- foundations upon which all modern plant biology rests. Understanding this history provides context for current research in [[holzer-kitchen-garden-herbs-and-medicinal-plants]]
 - **Public domain resources**: Many BHL holdings are in the public domain, making them freely shareable for educational purposes
 - **Connection to scientific giants**: Access to works by Grew, Hales, Darwin, Malpighi, and others allows modern scientists to feel "connected to the writers across the centuries"
 
@@ -20,20 +20,8 @@ The history of plant science spans from the earliest botanical observations to m
 | Marcello Malpighi | 1628-1694 | Anatome Plantarum; co-founder of plant anatomy |
 | Stephen Hales | 1677-1761 | Pioneer of plant physiology; water transport studies |
 | Charles Darwin | 1809-1882 | Plant movement and tropism research |
-| Francis Darwin | 1848-1925 | Co-authored [[darwin-power-of-movement-in-plants]] in Plants |
-
-## Legacy and Modern Relevance
-
-Modern plant science builds directly on these historical foundations:
-- Grew's pollen observations presaged modern palynology and plant reproductive biology
-- Hales' water transport models evolved into our understanding of the soil-plant-atmosphere continuum
-- The Darwins' tropism research led directly to the discovery of plant hormones and [[fungal-environmental-sensing-signal-transduction-read]] pathways
-- Plant anatomy remains essential for understanding [[medicinal-mushroom-guide-cordyceps]] biology
-
-## See Also
-
-- [[plant-perception]]
-- [[plant-defense-mechanisms]]
+| Francis Darwin | 1848-1925 | Co-authored [[fungal-environmental-sensing-signal-transduction-read]] pathways
+- Plant anatomy remains essential for understanding [[plant-perception]]
 - [[endophytic-fungi]]
 - shikimate-pathway-in-fungi
 ## Practical Applications
@@ -97,8 +85,6 @@ through generations to modern scientific approaches, the evolution continues
 to inform current best practices and research directions.
 
 ## See Also
-- [[doc]]
 - [[dom]]
-- [[det]]
 - [[plant-science-exploring-rich-history]]
 - [[cervantes-photosynthesis-chlorophyll-plant-science]]

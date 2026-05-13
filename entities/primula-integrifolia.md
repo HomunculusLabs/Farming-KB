@@ -33,9 +33,9 @@ Primula integrifolia was described by Carl Linnaeus in 1753. It belongs to secti
 - **Section:** Aleuritia
 - **Authority:** L. (1753)
 
-Section Aleuritia contains approximately 30 species distributed across alpine regions of the Northern Hemisphere. Primula integrifolia is one of the European representatives, along with [[primula-farinosa]] and [[primula-scandinavica]].
+Section Aleuritia contains approximately 30 species distributed across alpine regions of the Northern Hemisphere. Primula integrifolia is one of the European representatives, along with [[primula-scandinavica]].
 
-The species is closely allied to Primula farinosa but differs in its entirely smooth leaf margins and smaller overall stature. Hybrids between the two species are reported where their ranges overlap.
+The species is closely allied to [[primula-farinosa]] but differs in its entirely smooth leaf margins and smaller overall stature. Hybrids between the two species are reported where their ranges overlap.
 
 The plant forms tight, stemless rosettes 3–6 cm in diameter. Leaves are oblanceolate to spatulate, 1.5–4 cm long, with entire (smooth) margins and a distinctive white or yellowish farina coating on the undersurface.
 
@@ -57,9 +57,7 @@ In the Dolomites, Primula integrifolia grows alongside other calcicole specialis
 
 ## Ecology
 
-Primula integrifolia is a true alpine specialist adapted to short [[jeavons-climate-adaptation-growing-seasons]], intense UV radiation, and freeze-thaw cycles. Its compact cushion growth form reduces wind exposure and conserves heat.
-
-The root system is fibrous and relatively shallow, adapted to exploit nutrients in thin alpine soils. [[plants-without-mycorrhizal-associations]] are likely important for nutrient uptake in the nutrient-poor limestone substrates.
+Primula integrifolia is a true alpine specialist adapted to short [[plants-without-mycorrhizal-associations]] are likely important for nutrient uptake in the nutrient-poor limestone substrates.
 
 The species exhibits **distyly**, with flowers in two morphs (pin and thrum) that promote cross-pollination. Primary pollinators include small bees, flies, and alpine butterflies.
 
@@ -67,7 +65,7 @@ Seed dispersal is passive, with capsules releasing seeds near the parent plant. 
 
 Farina on the leaf undersurface serves as a protective coating against desiccation and UV damage. This adaptation is shared across section Aleuritia and is particularly pronounced in high-altitude species.
 
-[[query-how-to-protect-plants-from-frost-and-extend-the-growing-season]] is brief, typically lasting only 6–10 weeks between snowmelt and first frost. Plants allocate most resources to flower and seed production during this window, with [[cannabis-vegetative-growth-stage]] being secondary.
+[[cannabis-vegetative-growth-stage]] being secondary.
 
 Overwintering occurs as dormant buds at ground level, protected by the persistent leaf rosette and snow cover. Plants can tolerate temperatures below -20°C when insulated by snow.
 

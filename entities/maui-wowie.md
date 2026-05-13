@@ -20,7 +20,7 @@ sources:
 
 ## Overview
 
-Maui Wowie (also spelled Maui Waui) is a classic **sativa-dominant [[cervantes-landrace-cannabis-populations]] strain** originating from the volcanic island of Maui in Hawaii. It gained widespread fame during the 1960s and 1970s counterculture movement as one of the premier imported strains in [[psilocybin-north-america-pacific-northwest]].
+Maui Wowie (also spelled Maui Waui) is a classic **sativa-dominant [[psilocybin-north-america-pacific-northwest]].
 
 The strain is renowned for its **tropical, citrus-pine aroma** and its clear, uplifting cerebral effects that evoke the Hawaiian landscape it comes from. Original Maui Wowie plants grew tall and lanky, adapted to the island's tropical climate and rich volcanic soil.
 
@@ -28,17 +28,7 @@ True landrace Maui Wowie is increasingly rare today. Most modern versions are cr
 
 ## Lineage
 
-Maui Wowie is a **Hawaiian [[african-landrace-sativa-modern-hybrids]]**, meaning it evolved in isolation on Maui over many generations without significant crossbreeding. Its exact genetic ancestry is unknown but likely traces back to Southeast Asian sativa varieties brought to the islands.
-
-The strain belongs to the broader category of **"Maui" or "Kona" Hawaiian strains**, which share a common genetic pool adapted to the Pacific island environment. These strains are part of the equatorial sativa group characterized by long flowering times and tall stature.
-
-Modern seed offerings labeled Maui Wowie are typically hybrids that combine original Hawaiian genetics with other sativa-dominant lines. Breeders often cross it with Skunk, Haze, or other classic strains to boost yield and potency while retaining the signature tropical terpene profile.
-
-## Appearance
-
-Original Maui Wowie plants are **tall and loosely branched**, reaching heights of 2–3 meters outdoors. The internodal spacing is long, with narrow, finger-like sativa leaves.
-
-Buds are **elongated and airy**, less dense than modern [[cervantes-hybrid-varieties-types]]. They display bright green coloration with occasional orange pistils. In optimal conditions, the flowers develop a light coating of translucent trichomes rather than the heavy frost seen in contemporary high-THC cultivars.
+Maui Wowie is a **Hawaiian [[cervantes-hybrid-varieties-types]]. They display bright green coloration with occasional orange pistils. In optimal conditions, the flowers develop a light coating of translucent trichomes rather than the heavy frost seen in contemporary high-THC cultivars.
 
 The overall appearance is characteristic of a **pure or near-pure sativa landrace**: stretchy, loose structure with moderate resin production compared to modern commercial hybrids.
 

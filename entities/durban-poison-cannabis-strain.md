@@ -17,25 +17,13 @@ sources:
   - ElSohly, M.A. et al. (2016). "Changes in Cannabis Potency Over the Last Two Decades (1995-2014)." Biological Psychiatry, 79(7), 613-619.
   - Mudge, E.M. et al. (2019). "cannabis-sativa L. (Cannabaceae): A review of its traditional uses, phytochemistry, and pharmacology." Planta Medica, 85(12), 1007-1020.
   - Smart, R. et al. (2017). "The Phytochemical Diversity of Commercial Cannabis in the United States." PLoS ONE, 12(12), e0188826.
-  - Hazekamp, A. & Fischedick, J.T. (2012). "Cannabis — from cultivar to chemovar." Drug [[soil-testing-and-analysis]], 4(7-8), 660-667.
----
-
-## Overview
-
-Durban Poison is a pure sativa cannabis strain originally sourced from the port city of Durban, South Africa. It is one of the most celebrated landrace sativas in modern cannabis culture, prized for its uplifting, energizing effects, complex terpene profile, and its role as a foundational genetic building block in contemporary breeding programs.
-
-First brought to the United States in the late 1970s by cannabis enthusiast Ed Rosenthal, Durban Poison has since been stabilized and refined while retaining the core characteristics of its [[african-landrace-sativa-genetic-contributions-modern-breeding-oner]] ancestry. It remains one of the few strains widely recognized as a true or near-true landrace variety in commercial markets.
+  - Hazekamp, A. & Fischedick, J.T. (2012). "Cannabis — from cultivar to chemovar." Drug [[african-landrace-sativa-genetic-contributions-modern-breeding-oner]] ancestry. It remains one of the few strains widely recognized as a true or near-true landrace variety in commercial markets.
 
 ## Genetic Background
 
 Durban Poison is a pure or near-pure *Cannabis sativa* landrace from the KwaZulu-Natal province of South Africa. The region's subtropical climate — characterized by long warm seasons, high humidity, and abundant sunshine — selected for tall, lanky plants with extended flowering periods and vigorous growth.
 
-As a landrace, Durban Poison represents a population adapted to its specific environment over centuries of natural and human selection. Unlike most commercial strains, which are hybridized crosses of multiple lineages, [[cannabis-landrace-strains]] offer genetic purity and a stable, consistent expression of traits.
-
-Key genetic characteristics:
-
-- **Genotype:** Predominantly *Cannabis sativa* with minimal detectable *C. indica* admixture in genetic marker studies
-- **Flowering time:** 8–9 weeks indoors; late October to November in the [[guzman-allen-gartz-africa-southern-hemisphere-underexplored-neurotropic-fungi]] outdoors
+As a landrace, Durban Poison represents a population adapted to its specific environment over centuries of natural and human selection. Unlike most commercial strains, which are hybridized crosses of multiple lineages, [[guzman-allen-gartz-africa-southern-hemisphere-underexplored-neurotropic-fungi]] outdoors
 - **Plant height:** Tall, often reaching 150–200 cm outdoors; tends to stretch significantly during the early flowering phase
 - **Yield:** Moderate to high (400–500 g/m² indoors), with long, resinous buds
 - **Resistance:** Good resistance to mold and pests, likely an adaptation to the humid subtropical conditions of its native range
@@ -53,29 +41,7 @@ Durban Poison is distinguished by an exceptionally rich terpene profile dominate
 
 The distinctive aroma combines sweet anise, earthy pepper, ripe pineapple, and subtle pine notes. The flavor is often described as smooth, sweet, and slightly licorice-like, with a clean exhale.
 
-The terpinolene-dominant profile is relatively rare among commercial cannabis strains, shared with only a handful of others including Golden Pineapple and [[jack-herer]] (which itself carries Durban Poison lineage).
-
-## Cannabinoid Profile
-
-Durban Poison is a THC-dominant strain with modern commercial phenotypes typically testing between 18–25% THC. The strain is notably low in CBD (< 0.1% in most tested samples), which contributes to its pronounced psychoactive intensity.
-
-**Typical cannabinoid profile:**
-- **THC:** 18–25% (modern commercial); historical landrace samples likely contained 8–12%
-- **CBD:** < 0.1%
-- **THCV:** 0.3–0.8% — notably higher than average, contributing to the strain's stimulating, appetite-suppressing qualities
-- **CBG:** 0.1–0.3%
-
-The elevated THCV content is of particular interest. Tetrahydrocannabivarin (THCV) is a propyl homolog of THC that acts as a partial agonist at CB₁ receptors at low doses but an antagonist at higher doses. This may explain Durban Poison's reputation for clear-headed stimulation without the heavy sedation common to high-THC strains.
-
-## Effects and Medical Applications
-
-**Subjective effects (recreational):**
-- Strong cerebral stimulation with a clear, focused head high
-- Enhanced creativity and sociability
-- Uplifting, euphoric onset
-- Increased energy and motivation
-- Minimal body effects at moderate doses
-- May amplify [[plant-sensory-perception]] (visual, auditory)
+The terpinolene-dominant profile is relatively rare among commercial cannabis strains, shared with only a handful of others including Golden Pineapple and [[plant-sensory-perception]] (visual, auditory)
 - Long duration — effects typically persist 3–4 hours
 
 **Reported medical applications:**
@@ -87,3 +53,88 @@ The elevated THCV content is of particular interest. Tetrahydrocannabivarin (THC
 - **Migraine:** Some users report abortive effects when taken at migraine onset
 
 ## Cultivation Notes
+
+## Overview
+
+Durban Poison Cannabis Strain represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish durban poison cannabis strain
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving durban extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Durban Poison Cannabis Strain finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for durban poison cannabis strain. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+durban poison cannabis strain and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Durban Poison Cannabis Strain has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of durban poison cannabis strain into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[durban-poison]]
+- [[durban-poison-and-equatorial-sativas]]
+- [[early-durban-gold-1-durban-poison-hybrid-outdoor-finishing]]
+- [[oner-ogre-joint-doctor-secret-circus-durban-skunk-autoflower]]
+- [[oner-peptide-limestone-city-seeds-heavy-duty-fruity-sweet-tooth-durban-poison]]

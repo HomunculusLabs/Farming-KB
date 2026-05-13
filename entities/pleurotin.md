@@ -22,7 +22,7 @@ sources:
 ## Overview
 
 **Pleurotin** is a yellow crystalline sesquiterpene quinone antibiotic produced by the
-[[cotter-oyster-mushroom-cultivation]] *Pleurotus griseus* and related [[singh-basidiomycete-fungi-in-petroleum-hydrocarbon-cleanup]].
+[[singh-basidiomycete-fungi-in-petroleum-hydrocarbon-cleanup]].
 
 First isolated in 1948 from *Pleurotus griseus* cultures, pleurotin was among the
 earliest fungal-derived antibiotics discovered and represents a structurally unique
@@ -56,12 +56,7 @@ homeostasis.
 
 - **IC₅₀ against purified TrxR:** ~0.3–1.2 µM (species-dependent)
 - **Selectivity index:** Cancer cells show 5–15× greater sensitivity than non-malignant
-  cells, attributed to elevated [[blesching-cannabis-oxidative-stress-and-antioxidant-defense]] in tumor microenvironments
-- **Antibacterial MIC:** 2–8 µg/mL against *[[staphylococcus-aureus]]*, *[[bacillus-subtilis]]*;
-  inactive against Gram-negative organisms at concentrations up to 64 µg/mL
-
-The covalent modification of TrxR's selenocysteine residue disrupts the thioredoxin
-system, leading to accumulation of [[reactive-oxygen-species-and-oxidative-stress]] and apoptotic cell death.
+  cells, attributed to elevated [[staphylococcus-aureus]]*, *[[reactive-oxygen-species-and-oxidative-stress]] and apoptotic cell death.
 
 This mechanism overlaps with other TrxR inhibitors (e.g., auranofin) but pleurotin's
 fungal-derived scaffold offers a distinct chemical space for drug development.
@@ -74,7 +69,6 @@ illudinane skeleton, followed by oxidative tailoring enzymes.
 
 **Known producing organisms:**
 - *Pleurotus griseus* (original source, type strain)
-- *[[cancer-medicinal-mushrooms-pleurotus-ostreatus]]* (oyster mushroom, low yields)
 - *[[pleurotus-cornucopiae]]*
 - *Clitocybe* species (reported in screening programs)
 

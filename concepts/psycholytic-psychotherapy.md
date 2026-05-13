@@ -108,13 +108,8 @@ The term "psychedelic," popularized by Leary and the Harvard group, means "mind-
 
 ## See Also
 
-- [[psychedelic-psychotherapy]]
 - [[set-and-setting]]
-- [[stanislav-grof]]
 - [[timothy-leary]]
-- [[lsd]]
 - [[shamanic-healing-hallucinogenic-plants]]
-- [[mdma]]
 - [[psilocybin]]
-- [[default-mode-network-and-ego-dissolution]]
 - [[mescaline]]

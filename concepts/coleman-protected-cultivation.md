@@ -1,7 +1,7 @@
 ---
 title: Protected Cultivation — Row Covers and Low Tunnels
 created: 2026-04-26
-tags: [row-covers, low-tunnels, protected-cultivation, [[coleman-double-cover-air-inflated-trial-temperature-data|double]-covering, eliot-[[coleman-cold-greenhouse-double-layer-protection|coleman]]
+tags: [row-covers, low-tunnels, protected-cultivation, coleman
 sources: The Winter Harvest Handbook, Eliot Coleman (2009)
 type: concept
 updated: 2026-04-26
@@ -19,24 +19,7 @@ The technical foundation of Coleman's winter-harvest system is the combination o
 - The double coverage also increases relative humidity, offering additional freeze protection
 
 ### Historical Origins
-The concept of an inner layer inside an unheated greenhouse was pioneered in the 1950s by Dr. Emery Myers Emmert (1900–62) at the University of Kentucky. Emmert is acknowledged as the father of plastic greenhouses in America, and his work with row covers, [[comparison-greenhouse-vs-cold-frame]]s
-
-Coleman originally used glass cold frames as the inner layer. Trials showed:
-- Row covers provide slightly less climatic protection than cold frames
-- However, row covers are self-venting (no manual ventilation needed on sunny days), lighter, easier to place/remove, and much less expensive
-- For commercial production, the efficiency advantages of row covers decisively outweigh the slight temperature difference
-
-## Aluminized Night Curtains (Not Recommended)
-
-Trials compared row covers alone vs. row covers with aluminized cloth (which reflects 100% of long-wave radiation). The aluminized cloth averaged 3°F warmer nighttime minimums but:
-- No detectable difference in crop quality
-- Very high material cost
-- Required twice-daily spreading and removing (especially difficult when frozen to row cover beneath)
-- Not worth adding to the system
-
-The natural moisture film that condenses on floating row covers at night is nearly opaque to long-wave radiation and provides a reasonably reflective surface — effectively doing the same job as the aluminized cloth for free.
-
-## [[coleman-unheated-greenhouse-design]] — Outer layer (greenhouse) details
+The concept of an inner layer inside an unheated greenhouse was pioneered in the 1950s by Dr. Emery Myers Emmert (1900–62) at the University of Kentucky. Emmert is acknowledged as the father of plastic greenhouses in America, and his work with row covers, [[coleman-unheated-greenhouse-design]] — Outer layer (greenhouse) details
 - coleman-planting-schedules — When to apply/remove protection
 ## Practical Considerations
 
@@ -90,36 +73,8 @@ Integration with other disciplines and approaches creates synergies that
 advance the field as a whole. Cross-pollination of ideas from biology,
 
 ## See Also
-- [[doc]]
-- [[det]]
-- [[coleman-wire-wicket-row-covers-protective-cultivation]]
-- [[coleman-claytonia-winter-harvest-cultivation]]
-- [[apple-cultivation-and-variety-guide]]
-
-## Practical Applications
-
-The principles and techniques discussed here have wide-ranging applications
-across multiple disciplines and contexts. Practitioners and researchers
-continue to explore new ways to integrate these concepts into modern practice,
-adapting traditional knowledge to contemporary challenges and opportunities.
-
-## Key Considerations
-
-Several important factors influence the effectiveness and outcomes described
-in this topic. Understanding these considerations helps practitioners make
-informed decisions and avoid common pitfalls. Environmental conditions,
-timing, and material selection all play critical roles.
-
-## Historical Context
-
-The historical development of this subject reflects centuries of accumulated
-knowledge and practical experience. From traditional methods passed down
-through generations to modern scientific approaches, the evolution continues
-to inform current best practices and research directions.
-
-## See Also
-- [[doc]]
 - [[det]]
 - [[coleman-claytonia-winter-harvest-cultivation]]
-- [[coleman-wire-wicket-row-covers-protective-cultivation]]
+- [[doc]]
+- [[coleman-claytonia-winter-harvest-cultivation]]
 - [[mollison-designers-glasshouse-protected-cropping]]

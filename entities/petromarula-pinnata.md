@@ -124,13 +124,8 @@ sites on Crete. Legal protection is provided under Greek Presidential Decree
 
 ## See Also
 
-- [[campanula-saxatilis]]
 - [[campanula-fragilis]]
-- [[campanula-raineri]]
 - [[campanula-morettiana]]
-- [[campanula-zoysii]]
 - [[phyteuma-orbiculare]]
-- [[lobelia-erinus]]
 - [[trachelium-caeruleum]]
-- [[jasione-montana]]
 - [[wahlenbergia-hederacea]]

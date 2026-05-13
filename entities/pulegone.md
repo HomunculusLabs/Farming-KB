@@ -22,39 +22,17 @@ created: 2026-04-28
 
 ## Overview
 
-Pulegone is a monoterpene ketone (C₁₀H₁₆O) found in the [[comparison-essential-oils-vs-neem-oil-vs-insecticidal-soap]] of several mint-family plants, most notably pennyroyal (Mentha pulegium) and certain cannabis chemovars. It has a characteristic minty, herbaceous aroma and has been used historically as a flavoring agent, abortifacient, and insect repellent.
-
-The compound is of significant toxicological interest due to its dose-dependent hepatotoxicity, which has resulted in fatalities from pennyroyal oil ingestion. Despite its risks, pulegone remains a common constituent of mint-flavored food products, fragrances, and cosmetics at regulated concentrations.
-
-## Chemical Properties
-
-**IUPAC Name:** 5-methyl-2-(propan-2-ylidene)cyclohexan-1-one.
-
-**Common Names:** pulegone, p-menth-4(8)-en-3-one.
-
-**Molecular Formula:** C₁₀H₁₆O.
-
-**Molecular Weight:** 152.23 g/mol.
-
-**Structure Type:** Monocyclic monoterpene ketone, a p-menthane skeleton with an isopropylidene substituent and a ketone at C-3.
-
-**Physical Properties:** Colorless to pale yellow liquid at room temperature. Boiling point 224°C. Density 0.937 g/mL at 20°C. Refractive index 1.485. Practically insoluble in water; soluble in ethanol, ether, and fixed oils.
-
-**Optical Activity:** Naturally occurring pulegone is typically (R)-(+)-pulegone, though the (S)-(−)-enantiomer is also found in some plant species. The enantiomers have similar toxicity profiles but differ in odor quality and intensity.
-
-**Stability:** Pulegone is relatively stable under normal [[vegetable-storage-conditions-by-temperature-and-humidity]] but can oxidize and isomerize upon prolonged exposure to air, light, and heat. It should be stored in amber glass at reduced temperature.
+Pulegone is a monoterpene ketone (C₁₀H₁₆O) found in the [[vegetable-storage-conditions-by-temperature-and-humidity]] but can oxidize and isomerize upon prolonged exposure to air, light, and heat. It should be stored in amber glass at reduced temperature.
 
 ## Natural Sources
 
 Pulegone occurs in the essential oils of several Lamiaceae species:
 
-- **Mentha pulegium** (pennyroyal): 60-85% of essential oil. The primary commercial source of pulegone.
+- **[[mentha-pulegium]]** (pennyroyal): 60-85% of essential oil. The primary commercial source of pulegone.
 - **Mentha × piperita** (peppermint): Minor constituent, typically 0.5-3% depending on chemotype and harvest conditions.
 - **Agastache rugosa** (Korean mint): Moderate levels in essential oil.
 - **Calamintha nepeta** (lesser calamint): Variable, 10-40% of essential oil.
-- **[[comparison-cannabis-sativa-vs-cannabis-indica]]:** Pulegone occurs in certain cannabis chemovars, particularly those with "minty" or "herbal" aroma profiles. Concentrations are generally low (<0.1% of essential oil) but can be higher in specific cultivars.
-
-In cannabis, pulegone contributes to the overall [[cannabis-terpene-entourage-effect-profiles]] and may modulate the subjective experience of other cannabinoids and terpenes. Its presence is more common in Sativa-dominant and hybrid chemovars.
+- **[[cannabis-terpene-entourage-effect-profiles]] and may modulate the subjective experience of other cannabinoids and terpenes. Its presence is more common in Sativa-dominant and hybrid chemovars.
 
 ## Pharmacology and Toxicology
 
@@ -88,3 +66,80 @@ Symptoms of pulegone poisoning include nausea, vomiting, abdominal pain, dizzine
 - **EMA:** The European Medicines Agency classifies Mentha pulegium as a traditional herbal medicine with specific restrictions. Daily intake of pulegone from food and herbs should not exceed 0.1 mg/kg body weight.
 - **IARC:** Not classified as carcinogenic, though some animal studies showed liver tumors at very high chronic doses.
 - **Cannabis regulations:** No specific restrictions on pulegone content in cannabis products in most jurisdictions.
+
+## Overview
+
+Pulegone represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish pulegone
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving pulegone extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Pulegone finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for pulegone. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+pulegone and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Pulegone has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of pulegone into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.

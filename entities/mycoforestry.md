@@ -22,18 +22,13 @@ sources:
 # Mycoforestry
 
 Mycoforestry is the use of fungi to sustain forest communities. Coined and
-popularized by **Paul Stamets** in *[[woodlovers-mycelium-running-pathway-technique]]* (2005), it is a newly
-emerging science — an offshoot of ecoforestry practices emphasizing the role of
-[[cervantes-trichoderma-beneficial-fungi]] in forest health, regeneration, and sustainability. The
+popularized by **Paul Stamets** in *[[cervantes-trichoderma-beneficial-fungi]] in forest health, regeneration, and sustainability. The
 foundational principle is simple: **without fungi, there are no forests.**
 
 ## Core Philosophy
 
 Mycoforestry recognizes that fungi are the primary architects of forest
-ecosystems. [[fungal-mycelial-networks-nutrient-translocation]] permeate forest soils, connecting trees, recycling
-nutrients, filtering water, and supporting the entire food web. The practice
-seeks to work with these fungal networks rather than against them, using them
-as active partners in [[mollison-pdc-forest-management-products]] and restoration.
+ecosystems. [[mollison-pdc-forest-management-products]] and restoration.
 
 Mycoforestry aims to accomplish the following goals:
 - Preservation of native forests
@@ -57,34 +52,98 @@ Bears actively spread mushroom spores while foraging. Migrating fish carry
 marine minerals (trace phosphorus, nitrogen) into upland forests; scavenging
 animals redistribute these nutrients far from streams. In the 1940s–1960s,
 timber companies killed bears to protect lumber, not understanding that bears
-were essential to the fungal [[ozier-pdc-composting-and-nutrient-cycles]] sustaining forest health.
-
-### Decomposition and Soil Building
-Wood chips are quickly consumed by fungal mycelium, whereas whole logs
-decompose much more slowly. Stamets recommends creating a matrix by chipping
-wood into variably sized fragments, allowing mycelium to rapidly colonize
-material. [[saprophytic-fungi]] lead habitat renewal after catastrophes,
+were essential to the fungal [[saprophytic-fungi]] lead habitat renewal after catastrophes,
 supporting construction of complex life-supporting soils.
 
 ### Mycorrhizal Partnerships
 Reforestation is greatly enhanced when mycorrhizae are introduced to seeds or
-young tree roots at planting time. [[arbuscular-mycorrhizal-fungi]] extend effective root
-systems, improving water and mineral access in exchange for host
-carbohydrates. Nursery seedlings grown in pasteurized soils typically lack
-mycorrhizae — a deficiency addressable through inoculation.
-
-## The Guiding Principles of Mycoforestry
-
-1. **Use native species** of fungi in habitats needing restoration
-2. **Amplify saprophytic fungi** based on available wood substrates
-3. **Select species** known to help plant communities
-4. **Select mushroom species** that attract insects whose larvae are food for
-   fish and birds, supporting broader food webs
-5. **Select fungal species** according to interactions with bacteria and plants
-6. **Choose species that compete with disease rot fungi** (*Armillaria*,
-   *[[heterobasidion-annosum]]*) using mycorestorative saprophytes
+young tree roots at planting time. [[heterobasidion-annosum]]*) using mycorestorative saprophytes
 7. **Use spored oils** in chain saws and chippers so wood debris immediately
    contacts fungal spores, jump-starting decomposition
 8. **Retain wood debris on-site** around newly planted trees and roads
-9. **Only burn wood debris** as a last-ditch measure for [[hamilton-pest-and-disease-control-organic]]
-10. **Use [[arbuscular-mycorrhizal-spore-extraction-methods]] inoculum** when replanting forestlands
+9. **Only burn wood debris** as a last-ditch measure for [[arbuscular-mycorrhizal-spore-extraction-methods]] inoculum** when replanting forestlands
+
+## Overview
+
+Mycoforestry represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish mycoforestry
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving mycoforestry extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Mycoforestry finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for mycoforestry. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+mycoforestry and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Mycoforestry has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of mycoforestry into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[cortes-island-mycoforestry-project]]
+- [[mycoforestry-applications]]
+- [[mycoforestry-fungal-forest-restoration]]
+- [[mycoforestry-practices]]
+- [[mycoforestry-principles-stamets]]

@@ -39,7 +39,7 @@ For 1,000 people, as little as 270 square metres of settling pond (1 m deep) is 
 
 ### Biogas Production
 
-Biogas (methane + carbon dioxide + ammonia) from [[biogas-digesters-and-anaerobic-digestion-systems]] is a useful fuel for cooking or engines. The process operates best at 25-30 degrees C over a 20-day retention period. One cubic metre of methane removes about 2.89 kg of solids.
+Biogas (methane + carbon dioxide + ammonia) from anaerobic digestion is a useful fuel for cooking or engines. The process operates best at 25-30 degrees C over a 20-day retention period. One cubic metre of methane removes about 2.89 kg of solids.
 
 ### Septic Tank Enhancements
 
@@ -62,18 +62,18 @@ Where no septic tank is present, a dry toilet suffices. Manure is put under tree
 ## Community-Scale Recycling
 
 The Devonport (Auckland) model demonstrates total solid waste recycling that returns a cash benefit to households:
-- Colour-coded [[fukuoka-rice-barley-annual-calendar]] for separated waste collection
+- Colour-coded annual calendar for separated waste collection
 - Wood sorted into useful lumber, firewood, and mulch
 - All organics composted by tractor windrow system
 - Oils collected for re-sale after filtration
-- [[using-accumulators-in-compost-and-mulch]] sold; surplus used to build [[gaias-garden-creating-community-gardens]] on a "ziggurat" of clean fill
+- Compost and mulch sold; surplus used to build community gardens on a "ziggurat" of clean fill
 
 ## Greywater Systems
 
 Greywater from kitchens, bathrooms, and laundries can be routed through:
 - Mulch basins and planted filter beds
 - Reed bed treatment systems
-- Direct irrigation of [[holzer-wild-fruit-trees-and-hedges]] ornamental plantings
+- Direct irrigation of fruit trees and ornamental plantings
 
 The reduction of water used in sewage systems is itself a design goal -- dry toilets, composting systems, and greywater reuse all reduce the volume requiring treatment.
 

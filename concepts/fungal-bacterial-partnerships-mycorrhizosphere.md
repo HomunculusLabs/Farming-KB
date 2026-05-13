@@ -6,32 +6,16 @@ type: concept
 tags: [mycology, fungi]
 sources: []
 ---
-# Fungal-Bacterial Partnerships in the Mycorrhizosphere The mycorrhizosphere is the zone of soil influenced by mycorrhizal roots and their associated fungal structures. Within this zone, complex interactions between mycorrhizal-symbiosis beyond the binary plant-fungus interaction. These fungal-bacterial partnerships are fundamental to soil health, nutrient cycling, and plant protection. ## The Mycorrhizosphere Concept The traditional rhizosphere concept (the soil zone influenced by plant roots) was expanded to include fungal structures: - **Rhizosphere**: Soil zone influenced by [[mycorrhization-helper-bacteria]] (MHB)**:
-
-- Stimulate AMF [[growing-gourmet-spore-germination-strain-isolation]] and hyphal growth
+# Fungal-Bacterial Partnerships in the Mycorrhizosphere The mycorrhizosphere is the zone of soil influenced by mycorrhizal roots and their associated fungal structures. Within this zone, complex interactions between mycorrhizal-symbiosis beyond the binary plant-fungus interaction. These fungal-bacterial partnerships are fundamental to soil health, nutrient cycling, and plant protection. ## The Mycorrhizosphere Concept The traditional rhizosphere concept (the soil zone influenced by plant roots) was expanded to include fungal structures: - **Rhizosphere**: Soil zone influenced by [[growing-gourmet-spore-germination-strain-isolation]] and hyphal growth
 - Enhance mycorrhizal root colonization rates
-- Produce compounds that modify [[mycorrhizal-root-exudates-pathogen-interactions]] to favor mycorrhizal establishment
-- Key genera: Pseudomonas, Bacillus, Streptomyces, Paenibacillus
-
-**Nutrient-cycling bacteria**:
-
-- Phosphate-solubilizing bacteria increase P availability for both fungus and plant
-- Nitrogen-fixing bacteria (Azotobacter, Azospirillum) provide nitrogen that [[arbuscular-mycorrhizal-fungi-biology-symbiosis]] can access
-- Decomposer bacteria release nutrients from [[hamilton-composting-and-organic-matter-management]], expanding the resource base
-
-### Commensal Interactions
-
-- Bacteria that benefit from fungal carbon exudates without affecting fungal function
-- Many saprotrophic bacteria in the hyphosphere are passive beneficiaries
-- These bacteria still contribute to [[glomalin-and-soil-carbon]] (a glycoprotein produced by AMF) is particularly important for aggregate stability
+- Produce compounds that modify [[arbuscular-mycorrhizal-fungi-biology-symbiosis]] can access
+- Decomposer bacteria release nutrients from [[glomalin-and-soil-carbon]] (a glycoprotein produced by AMF) is particularly important for aggregate stability
 
 ### Organic Matter Decomposition
 
 The mycorrhizosphere is a hotspot for organic matter decomposition:
 
-- Fungal exudates prime the soil [[edaphic-factors-microbial-community-structure]] for decomposition
-- Bacterial (cellulases, ligninases, proteases) complement each other
-- The priming effect of [[mycoheterotrophic-plants-mycorrhizal-carbon-theft]] inputs can accelerate or decelerate decomposition depending on context
+- Fungal exudates prime the soil [[mycoheterotrophic-plants-mycorrhizal-carbon-theft]] inputs can accelerate or decelerate decomposition depending on context
 
 ### Nutrient Retention
 
@@ -72,20 +56,7 @@ bacterial volatile organic compounds can trigger induced systemic resistance
 in host plants, priming their immune defenses. These biocontrol functions
 are enhanced within the mycorrhizosphere because the fungal hyphal network
 provides a transport pathway for bacterial colonization along root systems.
-The [[rhizosphere-microbiome-selection-model]] describes how plant
-signals shape these beneficial microbial assemblages.
-
-## Future Directions
-
-Continued development in this area promises new insights and
-improved approaches for both research and practical application.
-Cross-disciplinary collaboration and advances in analytical
-methods create opportunities for innovation and refinement.
-Recommended resources include current literature, practitioner
-communities, and systematic experimentation to build expertise.
-
-## See Also
-- [[decomposition]]
+The [[decomposition]]
 
 ## Key Considerations
 
@@ -109,8 +80,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[dom]]
 - [[streptomyces]]
-- [[composting]]
 - [[mycorrhizal-networks]]
 - [[spore]]

@@ -11,10 +11,7 @@ created: 2026-05-08
 ## Overview
 
 Endorhiza bacteria are microorganisms that have colonized the
-internal tissues of plant roots. Unlike [[lowenfels-rhizosphere-bacteria-plant-interaction]]
-living in soil surrounding roots, endorhiza (endophytic) bacteria
-reside within root tissue itself, forming intimate associations
-with their host plant. In Cannabis spp., the [[proteobacteria-dominance-cannabis-endorhiza]]
+internal tissues of plant roots. Unlike [[proteobacteria-dominance-cannabis-endorhiza]]
 shows the strongest cultivar-specificity of any root-associated
 microbial compartment.
 
@@ -27,15 +24,13 @@ interior tissues, distinct from:
 - **Rhizoplane**: The root surface where bacteria attach but
   have not penetrated tissue
 
-In the [[winston-cannabis-microbiome-study-design]], endorhiza samples were
-collected by excising root tissue after [[challenge-organisms-nasa-microwave-surface-sterilization-testing]]
+In the [[challenge-organisms-nasa-microwave-surface-sterilization-testing]]
 (alcohol and sterile water rinses), ensuring only internally
 colonized bacteria were captured.
 
 ## Core Endorhiza Community
 
-Despite cultivar-specific differences, all [[actinobacteria-enrichment-cannabis-endorhiza]]
-shared a core [[core-endorhiza-bacterial-community-composition-cannabis]]:
+Despite cultivar-specific differences, all [[core-endorhiza-bacterial-community-composition-cannabis]]:
 
 ### Pseudomonas
 Widely studied plant growth-promoting rhizobacteria (PGPR) known
@@ -59,35 +54,14 @@ primarily commensal relationships in Cannabis.
 
 ### Actinomycetales
 Actinobacteria order well-known as root endophytes; many produce
-[[antimicrobial-compounds-mushroom-mycelium]] explored as biocontrol agents.
-
-### Sphingobacteriales
-Bacteroidetes order found consistently in Cannabis endorhiza,
-contributing to organic matter processing within root tissues.
-
-## Cultivar-Specific Differentiation
-
-The most striking finding is significant endorhiza cultivar-
-specificity of [[edaphic-determinants-cannabis-microbiome-community-structure]].
+[[edaphic-determinants-cannabis-microbiome-community-structure]].
 
 ### Experiment 1 Evidence
 
 Three cultivars (Burmese, Bookoo Kush, Sour Diesel) in similar
 soil showed highly significant endorhiza differences:
 - Weighted UniFrac: ADONIS R² = 0.59, p = 0.004
-- [[weighted-vs-unweighted-unifrac-cannabis-strain-microbiome]]: ADONIS R² = 0.39, p = 0.003
-
-### Experiment 2 Evidence
-
-Two cultivars (White Widow, Maui Wowie) in two distinct soils:
-soil type ADONIS R² = 0.26 (p = 0.001), strain R² = 0.27
-(p = 0.001). Both tiers operate simultaneously.
-
-### Strain-Specific Taxa
-
-- **Methylophilus**: 13% of Bookoo Kush endorhiza, 0.13% of
-  Burmese, absent from Sour Diesel (FDR: p = 0.012).
-- **[[sphingomonas-wittichii-cannabis-endorhiza-strain-specificity]]**: Prevalent in Maui Wowie, capable
+- [[sphingomonas-wittichii-cannabis-endorhiza-strain-specificity]]**: Prevalent in Maui Wowie, capable
 
 ## Practical Applications
 
@@ -118,8 +92,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[dom]]
 - [[det]]
-- [[maui-wowie]]
 - [[sour-diesel]]
 - [[mycelium]]

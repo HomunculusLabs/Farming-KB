@@ -19,65 +19,15 @@ type: concept
 
 # Edaphic Factors in Cannabis Endorhiza Microbiome Assembly
 
-The assembly of [[cannabis-rhizosphere-microbial-communities]] in and around Cannabis roots is governed by a hierarchy of factors in which [[soil-physicochemical-properties-cannabis-microbiome-assembly-winston]] (edaphic factors) are the primary determinant of overall [[core-endorhiza-bacterial-community-composition-cannabis]], while cultivar genotype fine-tunes the [[weighted-unifrac-strain-clustering-cannabis-endorhiza-community-structure]]. This two-tier model, supported by the landmark Winston et al. (2014) study, has significant implications for understanding plant-microbe interactions in this commercially and medicinally important crop.
+The assembly of [[soil-physicochemical-properties-cannabis-microbiome-assembly-winston]] (edaphic factors) are the primary determinant of overall [[weighted-unifrac-strain-clustering-cannabis-endorhiza-community-structure]]. This two-tier model, supported by the landmark Winston et al. (2014) study, has significant implications for understanding plant-microbe interactions in this commercially and medicinally important crop.
 
 ## Dominance of Soil Type Over Community Composition
 
-Across two independent experiments involving five Cannabis cultivars (Sour Diesel, Bookoo Kush, Burmese, White Widow, and Maui Wowie) grown in sandy loam soils, soil type was overwhelmingly the strongest predictor of [[edaphic-factors-microbial-community-structure]] composition. In the second experiment, which featured significant edaphic variation between two soil types (Mo-Bio soil and Orange County soil), [[weighted-vs-unweighted-unifrac-cannabis-strain-microbiome]] analysis showed soil type accounted for 32% of community variation (ADONIS: R² = 0.32, p = 0.001). When both experiments were pooled, soil type remained highly significant (ADONIS: R² = 0.196, p = 0.001 for unweighted; R² = 0.323, p = 0.001 for weighted UniFrac).
+Across two independent experiments involving five Cannabis cultivars (Sour Diesel, Bookoo Kush, Burmese, White Widow, and Maui Wowie) grown in sandy loam soils, soil type was overwhelmingly the strongest predictor of [[weighted-vs-unweighted-unifrac-cannabis-strain-microbiome]] analysis showed soil type accounted for 32% of community variation (ADONIS: R² = 0.32, p = 0.001). When both experiments were pooled, soil type remained highly significant (ADONIS: R² = 0.196, p = 0.001 for unweighted; R² = 0.323, p = 0.001 for weighted UniFrac).
 
-The number of significant OTU differences attributable to soil type was far greater than for any other factor: 690 significant OTUs by weighted ANOVA and 657 by unweighted g-test with FDR correction. This dwarfs the 51 significant OTUs for sample type and 71 for strain in weighted analysis. The overwhelming dominance of soil in determining which organisms are present underscores the importance of soil management in [[query-how-does-no-till-cannabis-cultivation-work]].
+The number of significant OTU differences attributable to soil type was far greater than for any other factor: 690 significant OTUs by weighted ANOVA and 657 by unweighted g-test with FDR correction. This dwarfs the 51 significant OTUs for sample type and 71 for strain in weighted analysis. The overwhelming dominance of soil in determining which organisms are present underscores the importance of soil management in [[cannabis-rhizosphere-endorhiza-communities]] were highly significant (weighted ADONIS: R² = 0.59, p = 0.004). The PCoA plots were particularly revealing: in unweighted analysis, PC1 (32.06% variance) was dominated by soil type, while in weighted analysis, PC1 (34.51% variance) was dominated by strain. This demonstrates that composition (who is there) is edaphically determined, while structure (how abundant each member is) is cultivar-dependent.
 
-## Soil Physical and Chemical Profiles
-
-The five soil types across both experiments shared a sandy loam texture but varied substantially in chemical properties:
-
-- **Mo-Bio soils (Experiment 1)**: pH 6.80-6.94, salinity 7.10-7.44, total nitrogen 1.30-1.51%, total organic carbon 3.31-5.00%, water content 0.101-0.178. These were relatively nitrogen-rich, moderately saline soils with low to moderate organic matter.
-- **Mo-Bio soil (Experiment 2)**: pH 6.63, salinity 5.12, total nitrogen 0.26%, total organic carbon 3.02%, water content 0.113. This soil had notably lower nitrogen than the first-experiment Mo-Bio soils.
-- **Orange County soil (Experiment 2)**: pH 6.77, salinity 1.73, total nitrogen 0.53%, total organic carbon 20.0%, water content 0.371. This soil was dramatically different, with far lower salinity, moderate nitrogen, extremely high organic carbon, and substantially higher water retention.
-
-These edaphic differences provided the variation necessary to test the two-tier selection model with statistical power. The Orange County soil, with its extraordinarily high organic carbon content (20% versus 3-5% in Mo-Bio soils), represented a fundamentally different soil environment despite the shared sandy loam texture classification.
-
-## Hierarchy of Edaphic Influences
-
-Mantel tests correlating edaphic variables with community beta-diversity revealed a consistent ranking of importance across both weighted and unweighted analyses:
-
-1. **Nitrogen** was the strongest structuring factor (weighted: r = 0.465, p = 0.001; unweighted: r = 0.630, p = 0.001). Total nitrogen concentration in the soil was the single most powerful edaphic predictor of which microbes would be present and in what abundance.
-2. **Salinity** was the second most important factor (weighted: r = 0.437; unweighted: r = 0.620). Electrical conductivity measurements showed significant variation between the two soil types in the second experiment (7.15 vs 1.73).
-3. **Total organic carbon** ranked third (weighted: r = 0.330; unweighted: r = 0.512). The Orange County soil contained dramatically more organic carbon (20.0%) than the Mo-Bio soils (3.0 to 5.0%).
-4. **Water content** was fourth (weighted: r = 0.281; unweighted: r = 0.466), with Orange County soil showing substantially higher moisture retention (0.371 vs 0.101 to 0.178).
-5. **pH** was the weakest but still highly significant factor (weighted: r = 0.221; unweighted: r = 0.292). All soils were mildly acidic (pH 6.63 to 6.94), with the relatively narrow pH range possibly limiting its discriminatory power in this dataset.
-
-A BEST (Bio-Env) analysis determined that the optimal combination of just three edaphic variables, Nitrogen, Carbon, and Water content, explained the maximum variance in community data (rho = 0.632). This parsimonious three-factor model captured the majority of edaphic influence without requiring pH or salinity.
-
-## Edaphic Effects on Alpha Diversity
-
-Edaphic factors also influenced the richness of microbial communities. The Mo-Bio soil supported higher alpha diversity in both bulk soil (chao1: mean = 5597) and rhizosphere (chao1: mean = 4859) compared to Orange County soil (bulk: chao1 = 4296; rhizosphere: chao1 = 3913). However, endorhiza diversity converged between soil types (Mo-Bio: chao1 = 3325; Orange County: chao1 = 3311), suggesting that host genotype-mediated selection imposes a ceiling on endophyte diversity regardless of soil conditions.
-
-The consistent pattern of declining alpha diversity from bulk soil to rhizosphere to endorhiza was observed across all soil types: bulk soil was richest, rhizosphere showed a slight reduction, and the endorhiza showed a dramatic drop. This filtering pattern supports the two-tier selection model in which the rhizosphere acts as a transitional zone where edaphically determined communities are progressively filtered by root exudates and host immune responses.
-
-## Cultivar Effects Within Edaphic Context
-
-While soil type determined the presence or absence of OTUs (unweighted analysis showed zero significant OTU differences between cultivars), Cannabis strain significantly structured community abundance (weighted analysis: 71 significant OTUs). This means that cultivars select for the same general groups of bacteria from the available soil pool, but modulate their relative abundances differently.
-
-In the second experiment with White Widow and Maui Wowie, strain effects on [[cannabis-rhizosphere-endorhiza-communities]] were highly significant (weighted ADONIS: R² = 0.59, p = 0.004). The PCoA plots were particularly revealing: in unweighted analysis, PC1 (32.06% variance) was dominated by soil type, while in weighted analysis, PC1 (34.51% variance) was dominated by strain. This demonstrates that composition (who is there) is edaphically determined, while structure (how abundant each member is) is cultivar-dependent.
-
-Key strain-specific OTU differences included the prevalence of Methylophilus, which comprised 13% of the Bookoo Kush endorhiza community but only 0.13% in Burmese and was entirely absent from Sour Diesel. In the second experiment, [[sphingomonas-wittichii-cannabis-endorhiza-strain-specificity]] was prevalent in Maui Wowie but not White Widow; this organism can metabolize phenazine-1-carboxylic acid and has been implicated in increased survival in soil environments.
-
-## OTU Sharing and the Two-Step Selection Model
-
-A critical test of the two-tier model involved comparing OTU overlap between endorhiza communities and their own versus foreign soils. White Widow was grown in two different soil types, and the endorhiza shared significantly more OTUs with the soil it was grown in (mean = 2934 shared OTUs) than with the other soil (mean = 2162 shared OTUs, t = -10.05, p = 1.209e-15). This confirmed that endophytic microbes are primarily recruited from the local soil pool, with cultivar-dependent selection acting as a secondary filter.
-
-## Cannabinoid-Edaphic Confound
-
-A notable finding was that THC concentration and composition were significantly correlated with endorhiza community structure (Mantel test: r = 0.863, p = 0.001). However, because THC levels were themselves strongly correlated with edaphic variables (particularly the nitrogen-rich Orange County soil producing higher THC plants), it was not possible to disentangle the direct effects of cannabinoid production on the microbiome from indirect effects mediated through soil chemistry. This confound represents an important methodological challenge for future studies.
-
-## Post-Harvest Effects on Microbiome Interpretation
-
-A comparison between the two experiments revealed an important methodological consideration. Samples in the first experiment were taken 8 weeks post-harvest, while second-experiment samples were taken from actively growing plants 2 weeks before harvest. The post-harvest samples showed dramatically higher Cellvibrio abundance (16.9% vs 0.095%), a known cellulytic bacterium, consistent with early root decay rather than genuine endophytic colonization. This finding cautions against interpreting post-harvest root microbiome data as representative of living plant associations.
-
-## Core Endorhiza Community Across Cultivars
-
-Despite significant cultivar-specific differences in OTU abundance, all Cannabis endorhiza samples maintained a core community of consistent members. This core included Pseudomonas, Cellvibrio, Oxalobacteraceae, Xanthomonadaceae, Actinomycetales, and Sphingobacteriales. With the exception of the aerobic cellulytic bacterium Cellvibrio (now understood to be a decay artifact), all prevalent core members were well-known [[endorhiza-endophytic-bacteria]], primarily within the orders Gammaproteobacteria and Alphaproteobacteria.
+Key strain-specific OTU differences included the prevalence of Methylophilus, which comprised 13% of the Bookoo Kush endorhiza community but only 0.13% in Burmese and was entirely absent from Sour Diesel. In the second experiment, [[endorhiza-endophytic-bacteria]], primarily within the orders Gammaproteobacteria and Alphaproteobacteria.
 
 This observation is consistent with patterns reported from other plant systems, where a relatively small set of generalist endophytes colonizes diverse host species. The stability of this core community across five Cannabis cultivars and three soil types suggests strong selection for these particular taxa within the root interior environment, possibly driven by their ability to metabolize root exudates, evade plant immune responses, or provide benefits to the host.
 
@@ -118,8 +68,83 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[cannabis-endorhiza-microbiome]]
 - [[endorhiza-microbiome]]
-- [[dom]]
 - [[det]]
 - [[maui-wowie]]
+
+## Overview
+
+Edaphic Factors Cannabis Endorhiza Microbiome Assembly represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish edaphic factors cannabis endorhiza microbiome assembly
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving edaphic extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Edaphic Factors Cannabis Endorhiza Microbiome Assembly finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for edaphic factors cannabis endorhiza microbiome assembly. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+edaphic factors cannabis endorhiza microbiome assembly and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Edaphic Factors Cannabis Endorhiza Microbiome Assembly has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of edaphic factors cannabis endorhiza microbiome assembly into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.

@@ -19,7 +19,7 @@ sources:
 
 ## Overview
 
-**Curcuma phaeocaulis** is a perennial herbaceous plant in the family Zingiberaceae, native to southern China and mainland Southeast Asia. It is one of the three primary species of **E Zhu** (郁金) used in Traditional Chinese Medicine, alongside *Curcuma wenyujin* and *Curcuma kwangsiensis*.
+**Curcuma phaeocaulis** is a perennial herbaceous plant in the family Zingiberaceae, native to southern China and mainland Southeast Asia. It is one of the three primary species of **E Zhu** (郁金) used in Traditional Chinese Medicine, alongside *[[curcuma-wenyujin]]* and *[[curcuma-kwangsiensis]]*.
 
 The dried rhizome is the principal medicinal organ, valued for its ability to invigorate blood circulation, alleviate pain, and resolve stagnation. Modern pharmacological studies have confirmed significant anti-inflammatory, antitumor, and hepatoprotective activities.
 
@@ -37,25 +37,11 @@ Rhizomes are ellipsoidal to irregularly shaped, 3–8 cm in diameter, with a dar
 
 ## Bioactive Compounds and Pharmacology
 
-The rhizome yields 2–5% essential oil by [[comparison-steam-distillation-vs-co2-extraction-for-essential-oils]]. Major volatile constituents include **germacrone** (15–30%), **curdione** (10–20%), **curcumol** (8–15%), **curzerene**, **furanodiene**, and **β-elemene**.
-
-Non-volatile diarylheptanoids and curcuminoids are present in lower concentrations than in *C. longa*, but contribute to the anti-inflammatory profile.
-
-### Antitumor Activity
-
-Curdione and germacrone exhibit potent cytotoxicity against multiple cancer cell lines in vitro, including HepG2 (hepatocellular carcinoma), MCF-7 (breast cancer), and A549 (lung adenocarcinoma). Germacrone induces G2/M cell cycle arrest and apoptosis through mitochondrial pathways.
-
-Curcumol, a sesquiterpenoid unique to *C. phaeocaulis* and close relatives, suppresses tumor angiogenesis by downregulating VEGF expression. In vivo xenograft studies in mice have shown significant tumor volume reduction at non-toxic doses.
-
-### Anti-inflammatory and Hepatoprotective Effects
-
-Extracts inhibit NF-κB and MAPK signaling cascades in macrophage models, reducing pro-inflammatory cytokine release (TNF-α, IL-1β, IL-6). The essential oil demonstrates hepatoprotective activity against CCl₄-induced liver injury in rats, restoring serum ALT and AST levels.
-
-Germacrone also modulates Nrf2/ARE antioxidant pathways, providing protection against [[blesching-cannabis-oxidative-stress-and-antioxidant-defense]] in hepatic tissue.
+The rhizome yields 2–5% essential oil by [[blesching-cannabis-oxidative-stress-and-antioxidant-defense]] in hepatic tissue.
 
 ### Antimicrobial Properties
 
-The essential oil shows moderate activity against Gram-positive bacteria (*Staphylococcus aureus*, *Bacillus subtilis*) and select [[bloomfield-fungal-pathogens-and-parasites]] (*[[bloomfield-candida-albicans-yeast-hyphal-dimorphism]]*). MIC values range from 125–500 μg/mL depending on the organism.
+The essential oil shows moderate activity against Gram-positive bacteria (*Staphylococcus aureus*, *Bacillus subtilis*) and select [[bloomfield-candida-albicans-yeast-hyphal-dimorphism]]*). MIC values range from 125–500 μg/mL depending on the organism.
 
 ## Traditional Medicine
 
@@ -88,3 +74,77 @@ The species favors warm, humid, shaded environments in evergreen broadleaf fores
 ## Cultivation
 
 Propagation is primarily by rhizome division. Rhizome segments with 2–3 buds are planted in spring at a spacing of 30–40 cm within rows, with 50–60 cm between rows. The crop requires partial shade (40–60% light reduction) and consistent moisture.
+
+## Overview
+
+Curcuma Phaeocaulis represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish curcuma phaeocaulis
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving curcuma extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Curcuma Phaeocaulis finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for curcuma phaeocaulis. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+curcuma phaeocaulis and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Curcuma Phaeocaulis has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of curcuma phaeocaulis into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource

@@ -13,11 +13,7 @@ type: concept
 
 ## The EMCDDA 2006 Thematic Study
 
-In 2006, the European Monitoring Centre for Drugs and Drug Addiction published a comprehensive thematic paper on [[emcdda-hallucinogenic-mushrooms-emerging-trend-europe]] as an emerging drug trend. Authored by Jennifer Hillebrand, Deborah Olszewski, and Roumen Sedefov, the study drew on data from Early Warning Systems, national Reitox reports, the ESPAD school survey, forensic science bulletins, and internet monitoring across multiple EU Member States.
-
-### Purpose and Scope
-
-The study aimed to detect, track, and understand the [[emcdda-epod-project-emerging-trend-detection-methodology]] of hallucinogenic mushroom use within the EU. It examined prevalence and patterns of use, markets and availability, dose and effects, consequences for health, and legal and prevention responses. The study was part of the broader E-POD project for developing a European system to detect emerging drug trends.
+In 2006, the European Monitoring Centre for Drugs and Drug Addiction published a comprehensive thematic paper on [[emcdda-epod-project-emerging-trend-detection-methodology]] of hallucinogenic mushroom use within the EU. It examined prevalence and patterns of use, markets and availability, dose and effects, consequences for health, and legal and prevention responses. The study was part of the broader E-POD project for developing a European system to detect emerging drug trends.
 
 ## The Return to Nature Megatrend
 
@@ -53,11 +49,7 @@ Analysis across 11 EU Member States demonstrates that school students aged 15 to
 
 ## Cultivated Versus Wild Mushrooms
 
-Hallucinogenic mushrooms grow wild in much of Europe, yet it appears that most recreationally used mushrooms are cultivated rather than picked wild. Mushrooms are sold both as fresh and dried products and for home cultivation using mushroom prints, spore bags, and growkits. The most common wild European species is [[psilocybe-cubensis|Psilocybe cubensis]] dominates the cultivated market, even though it does not grow naturally in most of Europe.
-
-## Psilocybe Cubensis Varieties Dominating the Market
-
-Of all psilocybin-containing mushrooms, the most frequently marketed are the cubensis varieties. These include Mexican, Thai, Colombian, and Amazonian varieties. Some species such as [[dark-incubation-sclerotia-production-psilocybe-mexicana-tampanensis]] and P. tampanensis form sclerotia and are sold as "truffles" or the "philosopher's stone." These products are widely available through Dutch smartshops and online retailers.
+Hallucinogenic mushrooms grow wild in much of Europe, yet it appears that most recreationally used mushrooms are cultivated rather than picked wild. Mushrooms are sold both as fresh and dried products and for home cultivation using mushroom prints, spore bags, and growkits. The most common wild European species is [[dark-incubation-sclerotia-production-psilocybe-mexicana-tampanensis]] and P. tampanensis form sclerotia and are sold as "truffles" or the "philosopher's stone." These products are widely available through Dutch smartshops and online retailers.
 
 ### Brand Names and Marketing
 
@@ -73,14 +65,8 @@ Over a quarter of those who had used hallucinogenic mushrooms in the last year e
 
 ### Psychological Barriers
 
-Bad trips involving panic reactions and psychosis-like states are commonly reported. The subjective effects are highly variable between individuals and even between episodes for the same person. Unlike ecstasy, which is purchased and consumed in social settings, mushroom trips require a degree of [[lsd-set-and-setting-framework]] that is not always compatible with club environments.
-
-## The Amanita Muscaria Shift After Legal Restrictions
-
-Since 2001, six EU Member States have tightened legislation on hallucinogenic mushrooms: Denmark (2001), Netherlands (2002), Germany, Estonia, UK (2005), and Ireland (2006). Following these legal restrictions, retailers began switching sales to alternative legal hallucinogenic mushrooms, particularly [[amanita-muscaria|Amanita muscaria]], muscimol, ibotenic acid, and [[emcdda-hallucinogenic-mushroom-cultivation-and-growkit-market]] -- growkit market details
-- [[emcdda-hallucinogenic-mushroom-smartshop-and-retail-outlets]] -- smartshop retail context
-- [[amanita-muscaria-chemistry-and-pharmacology]] -- Amanita muscaria [[psilocybin-psilocin-chemistry-and-pharmacology-emcdda]]
-- [[hallucinogenic-mushroom-legal-status-europe]] -- European legal overview
+Bad trips involving panic reactions and psychosis-like states are commonly reported. The subjective effects are highly variable between individuals and even between episodes for the same person. Unlike ecstasy, which is purchased and consumed in social settings, mushroom trips require a degree of [[amanita-muscaria|Amanita muscaria]], muscimol, ibotenic acid, and [[emcdda-hallucinogenic-mushroom-smartshop-and-retail-outlets]] -- smartshop retail context
+- [[psilocybin-psilocin-chemistry-and-pharmacology-emcdda]]
 - [[emcdda-hallucinogenic-mushroom-harm-reduction]] -- harm reduction strategies
 
 ## Practical Applications
@@ -112,8 +98,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[psilocybin]]
 - [[dom]]
-- [[psilocin]]
 - [[det]]
 - [[cocaine]]

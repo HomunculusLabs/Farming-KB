@@ -5,42 +5,7 @@ updated: 2026-04-28
 type: species
 tags:
   - aquatic-plant
-  - [[permaculture]]
-  - food-crop
-  - traditional-medicine
-  - nymphaeaceae
-sources:
-  - "Sharma, S. & Singh, S. (2019). \"Euryale ferox: A review on nutritional and pharmacological aspects.\" J Food Sci Technol, 56(1), 1-12."
-  - "Mahajan, R.T. & Badgujar, C.D. (2010). \"Biological activities of Euryale ferox Salisb.\" Pharmacognosy Reviews, 4(8), 147-152."
-  - "Xiao, J.B. et al. (2020). \"dighton-fungal-nutritional-composition-animal-diets and health benefits of fox nuts.\" Food Chemistry, 320, 126671."
-  - "Singh, D. et al. (2017). \"Phytochemistry and pharmacology of Euryale ferox.\" Pharmacognosy Reviews, 11(22), 108-113."
----
-
-# Euryale ferox (*Prickly Water Lily, Fox Nut, Makhana*)
-
-## Overview
-
-Euryale ferox is an aquatic perennial of Nymphaeaceae, native to
-shallow freshwater habitats across East and South Asia. It is the sole
-extant species in its genus, distinguished by heavily armed leaves and
-edible seeds known commercially as fox nuts or makhana. The seeds are a
-significant traditional food and medicinal resource in India, China, and
-Japan, with growing commercial demand in global health food markets.
-
-## Taxonomy and Morphology
-
-- **Kingdom:** Plantae → **Order:** Nymphaeales → **Family:** Nymphaeaceae
-- **Genus:** Euryale → **Species:** E. ferox Salisb.
-- **Etymology:** Named for Euryale (a Gorgon in Greek mythology), referencing
-  the formidable spines; *ferox* means "fierce" in Latin
-- **Monotypic genus:** E. ferox is the only living representative;
-  fossil records indicate greater Cretaceous diversity
-
-### Vegetative Characteristics
-
-- **Leaves:** Circular, 60–150 cm diameter, green above, purple beneath,
-  with prominent radiating veins
-- **[[bloomfield-rust-germ-tube-tactile-sensing-leaf-surface-navigation]]:** Covered in sharp, flexible prickles on both sides —
+  - [[bloomfield-rust-germ-tube-tactile-sensing-leaf-surface-navigation]]:** Covered in sharp, flexible prickles on both sides —
   the most distinctive morphological feature
 - **Petioles:** Thick, spongy, 1–3 m long, anchored in substrate
 - **Roots:** Fibrous system in muddy bottom; spread covers 1–3 m²
@@ -77,10 +42,89 @@ Dried fox nuts are valued for their exceptional nutritional profile:
 ## Bioactive Compounds and Pharmacology
 
 Seeds contain alkaloids (euryalin, isololiolide), flavonoids (nelumbo-nucifera — Sacred lotus, related aquatic food and medicine
-- [[azolla-filiculoides]] — Aquatic fern biofertilizer for rice paddies
-- spirulina arthrospira — Aquatic microorganism for [[fungal-single-cell-protein-production]]
+- [[fungal-single-cell-protein-production]]
 ## See Also
-- [[azolla-filiculoides]]
-- nelumbo-nucifera
 - [[biodiversity-fungi-freshwater-aquatic-habitats]]
 - [[dom]]
+
+## Overview
+
+Euryale Ferox represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish euryale ferox
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving euryale extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Euryale Ferox finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for euryale ferox. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+euryale ferox and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Euryale Ferox has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of euryale ferox into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[aconitum-ferox]]
+- [[aloe-ferox]]

@@ -39,15 +39,7 @@ recreational and therapeutic use.
 **Parent Cross:** Y-Life × Snowman
 
 - **Y-Life:**  × Cherry Pie
-- **Snowman:** [[thin-mint]]
-adds earthy, minty undertones. Approximately 50/50 indica-sativa,
-though phenotypic variation can lean slightly indica-dominant.
-
-## Appearance
-
-Buds are medium to large, densely packed with a chunky, rounded
-structure typical of Cookies-family strains. Coloration ranges from
-deep [[trichoderma-forest-green-mold-guide]] to olive, often accented by pale yellowish-green
+- **Snowman:** [[trichoderma-forest-green-mold-guide]] to olive, often accented by pale yellowish-green
 highlights and occasional purple patches under cooler conditions. A
 thick coating of milky-white trichomes gives buds a frosted, sugary
 appearance. Pistils are short, curly, and orange-amber.
@@ -66,12 +58,7 @@ pronounced fruitiness, while others lean into the dessert-like profile.
 
 ## Terpene Profile
 
-- **[[limonene]]** (~0.5–1.0%): Citrus notes, mood elevation, stress
-  relief
-- **Caryophyllene** (~0.3–0.7%): Peppery spice, anti-inflammatory
-  activity
 - **[[linalool]]** (~0.2–0.5%): Floral sweetness, anxiolytic properties
-- **[[myrcene]]** (~0.3–0.6%): Earthy, herbal base, sedative effects
 - **[[pinene]]** (~0.1–0.3%): Pine, mental clarity
 
 The terpene composition creates a distinctive creamy-sweet profile
@@ -88,3 +75,75 @@ earthy or diesel-dominant expressions.
 Cereal Milk is a high-THC, low-CBD strain. Potency varies with
 cultivation practices and [[cannabis-harvest-timing-visual-cues]]. Late-harvested specimens
 tend toward higher THC with increased sedative effects.
+
+## Overview
+
+Cereal Milk represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish cereal milk
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving cereal extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Cereal Milk finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for cereal milk. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+cereal milk and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Cereal Milk has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of cereal milk into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions

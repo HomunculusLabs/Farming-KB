@@ -9,21 +9,7 @@ sources: [raw/papers/tropisms-in-the-mushroom-psilocybe-cubensis.md]
 
 # Evaporative Demand Hypothesis for Mushroom Tropism
 
-The evaporative demand hypothesis proposes that differential water loss across the stipe surface drives directed growth (tropisms) in mushrooms. First articulated by Badham (1982) based on wind tunnel experiments with [[psilocybe-cubensis-development-stages]], the hypothesis suggests that stipe elongation is oriented toward the direction of greatest evaporative demand, with individual stipe cells responding to local moisture gradients rather than a centralized sensory system.
-
-## Core Mechanism
-
-When wind flows past a mushroom stipe, it creates a boundary layer of still air on the leeward (downwind) side that is thicker than on the windward (upwind) side. This asymmetric boundary layer means:
-
-- The windward side experiences greater evaporative demand
-- Water vapor and other gases are redistributed asymmetrically across the stipe surface
-- Cells on the windward side lose moisture faster than leeward cells
-
-This differential drying causes cells on opposite sides of the stipe to expand at different rates, producing curvature. The stipe bends toward the direction of greatest evaporative demand — in the case of wind exposure, this means the mushroom grows into the airflow (anemotropism). The mechanism is fundamentally physical: it depends on the asymmetry of the boundary layer rather than any specialized receptor system.
-
-## The Four Factors of Evaporative Demand
-
-Badham identified at least four [[duggar-mushroom-environmental-factors-temperature-moisture-light]] that influence the magnitude and direction of evaporative demand on the stipe surface. These factors interact in complex ways, and their relative importance determines which tropic response dominates in any given situation:
+The evaporative demand hypothesis proposes that differential water loss across the stipe surface drives directed growth (tropisms) in mushrooms. First articulated by Badham (1982) based on wind tunnel experiments with [[duggar-mushroom-environmental-factors-temperature-moisture-light]] that influence the magnitude and direction of evaporative demand on the stipe surface. These factors interact in complex ways, and their relative importance determines which tropic response dominates in any given situation:
 
 1. **Wind velocity** — Increases evaporative demand proportionally; higher wind speeds create steeper moisture gradients across the stipe by thinning the boundary layer on the windward side. Even low wind speeds (Badham used approximately 9 cm/sec) produce measurable curvature.
 
@@ -37,30 +23,7 @@ The interplay among these four factors determines which stimulus dominates the t
 
 ## Evidence from Wind Tunnel Experiments
 
-Badham's experiments with [[psilocybe-cubensis-development-stages]] in a controlled wind tunnel provided key evidence for the hypothesis. The wind tunnel had a working area of 43 × 30 × 20 cm with controlled humidity (94 ± 3% RH), temperature (24.5 ± 1.5°C), and light (12h photoperiod at 2685 lux from cool white fluorescent lamps):
-
-- Primordia placed in airflow grew stipes directed into the wind (anemotropism)
-- When cultures were rotated perpendicular to the wind, growth was upward (negative geotropism dominated instead)
-- Anemotropic response occurred regardless of light direction (from above or below)
-- Both fertile and sterile basidiocarps showed the anemotropic response during early development (Stages 1-2)
-- The response was present in both light and dark conditions, ruling out phototropism as the primary driver
-- When stipes were initially directed away from the wind, they still curved to grow into the airflow
-
-These observations support the evaporative demand hypothesis because the response was not light-dependent and operated regardless of the initial stipe orientation, consistent with a mechanism driven primarily by physical moisture gradients rather than photoreceptor-mediated signaling or graviception.
-
-## Comparison with Phycomyces Research
-
-The hypothesis draws important parallels with research on the zygomycete fungus Phycomyces blakesleeanus, a classic model organism for studying fungal tropisms. Phycomyces shows both anemotropism and avoidance responses that have been extensively characterized:
-
-- Johnson and Gamow (1971) demonstrated that wind and water vapor are necessary for these responses in Phycomyces, consistent with an evaporative demand mechanism operating across different fungal lineages
-- Dennison (1961) showed that Phycomyces sporangiophores respond to gravitational and centrifugal force, indicating that mechanical stimuli can also influence tropic growth
-- Russo et al. (1975) proposed that ethylene may be involved in the autochemotropism of Phycomyces, raising the possibility that gas redistribution (not just water vapor) plays a role in basidiomycete tropisms as well
-
-The similarity between Phycomyces and Psilocybe responses suggests that the evaporative demand mechanism may be widespread among fungi, representing a conserved physical principle rather than a species-specific adaptation.
-
-## Relationship to Phototropism
-
-The evaporative demand hypothesis offers a potential unified explanation for both anemotropism and [[phototropism]] in mushrooms. Rather than requiring separate sensory systems for wind and light detection, both responses could be mediated through the same underlying mechanism of differential water loss:
+Badham's experiments with [[phototropism]] in mushrooms. Rather than requiring separate sensory systems for wind and light detection, both responses could be mediated through the same underlying mechanism of differential water loss:
 
 - If light heats the illuminated portion of the stipe, it could increase local evaporation, creating a moisture gradient similar to that caused by wind
 - At very low light intensities (as in Badham's experiments, approximately 1/10 of natural field levels), the drying effect of light alone may be negligible, explaining why light direction did not influence the wind-driven response
@@ -73,12 +36,7 @@ The question of whether phototropism in mushrooms operates through evaporative d
 
 A key feature of the evaporative demand hypothesis is that it does not require a centralized sensing or signaling system. Individual stipe cells may respond autonomously to local moisture conditions through purely physical means:
 
-- Cells on the drier (windward) side may experience reduced [[bloomfield-turgor-pressure-and-hyphal-invasion]] due to water loss
-- Alternatively, altered wall extensibility on the drier side could slow expansion relative to the more hydrated leeward side
-- Cells on the more humid (leeward) side may maintain higher turgor, driving differential elongation that curves the stipe toward the evaporative demand
-- This cell-autonomous response would explain why the tropism operates even in sterile (sporeless) mutants during early development, before any gill-produced hormones could be involved
-
-This stands in contrast to the hormone-mediated [[mushroom-geotropism]] that emerges at later developmental stages (Stage 2+), which appears to involve substances produced in the gills that modify the overall tropic response.
+- Cells on the drier (windward) side may experience reduced [[mushroom-geotropism]] that emerges at later developmental stages (Stage 2+), which appears to involve substances produced in the gills that modify the overall tropic response.
 
 ## Limitations and Alternative Explanations
 
@@ -117,8 +75,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[dom]]
 - [[det]]
-- [[spore]]
 - [[phototropism]]
 - [[evaporative-demand-hypothesis-mushroom-growth]]

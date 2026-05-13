@@ -11,7 +11,7 @@ sources: []
 
 ## Overview
 
-[[plants-of-the-gods-tabernanthe-iboga]] is a perennial rainforest shrub native to Gabon, Cameroon, and the Republic of Congo in West-Central Africa. The root bark of iboga contains ibogaine — a complex indole alkaloid with unique psychoactive properties. Unlike classical psychedelics (which primarily act on [[psilocybin-pharmacology-and-serotonin-receptors]]), ibogaine acts on multiple receptor systems simultaneously, including NMDA receptors, kappa opioid receptors, and the serotonin transporter.
+[[tabernanthe-iboga|Tabernanthe iboga]] is a perennial rainforest shrub native to Gabon, Cameroon, and the Republic of Congo in West-Central Africa. The root bark of iboga contains ibogaine — a complex [[aminopropyl-silica-gel-chromatography-indole-alkaloid-purification]] with unique psychoactive properties. Unlike classical psychedelics (which primarily act on [[psilocybin-pharmacology-and-serotonin-receptors]]), ibogaine acts on multiple receptor systems simultaneously, including NMDA receptors, kappa opioid receptors, and the serotonin transporter.
 
 Iboga has been used for centuries in the Bwiti spiritual tradition of the Fang people of Gabon. In the West, ibogaine has gained attention for its reputed ability to interrupt substance addiction, particularly opioid dependence — though this application remains experimental and unapproved by major medical regulatory bodies.
 
@@ -20,7 +20,7 @@ Iboga has been used for centuries in the Bwiti spiritual tradition of the Fang p
 Bwiti is a syncretic spiritual practice that combines elements of Fang ancestral worship with Christian symbolism. Iboga is the central sacrament:
 
 - Initiation ceremonies involve consuming large doses of iboga root bark
-- The experience is understood as a death and rebirth — the initiate "dies" to their old self and is "reborn" into the Bwiti community
+- The experience is understood as a [[shamanism-death-and-rebirth]] — the initiate "dies" to their old self and is "reborn" into the Bwiti community
 - Ceremonies are conducted in a temple (mbandja) by a spiritual leader (nganga)
 - Participants see visions of ancestors and receive guidance
 - The ceremony involves drumming, singing, and dancing throughout the night

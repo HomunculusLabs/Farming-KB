@@ -13,7 +13,7 @@ Petroleum hydrocarbons are among the most widespread environmental contaminants,
 
 The bioremediation of petroleum-contaminated environments relies on the metabolic activities of hydrocarbon-degrading microorganisms, including bacteria, fungi, and yeasts, which can use various fractions of crude oil and refined petroleum products as carbon and energy sources.
 
-This topic addresses the general principles of petroleum hydrocarbon biodegradation, complementing the fungal-specific discussions in [[petroleum-hydrocarbon-fungal-biodegradation]], and [[fungal-cytochrome-p450-biodegradation]].
+This topic addresses the general principles of petroleum hydrocarbon biodegradation, complementing the fungal-specific discussions in [[fungal-cytochrome-p450-biodegradation]].
 
 Isoalkanes and cycloalkanes are generally more resistant to biodegradation than their normal alkane counterparts because of their branched or cyclic structures.
 
@@ -27,19 +27,13 @@ Aerobic degradation of BTEX compounds proceeds primarily through dioxygenase-cat
 
 Pseudomonas, Achromobacter, and Burkholderia species are among the most well-characterized BTEX-degrading bacteria.
 
-Under anaerobic conditions, BTEX compounds are degraded through fermentation, nitrate reduction, [[bioremediation-fungal-iron-reduction-chelation-metal-solubilization]], sulfate reduction, or methanogenic pathways, though these processes are generally much slower than aerobic degradation.
+Under anaerobic conditions, BTEX compounds are degraded through fermentation, nitrate reduction, [[singh-fungal-biodegradation-of-polycyclic-aromatic-hydrocarbons]] hydrocarbons (PAHs) are discussed in detail in fungal-pah-degradation-mechanisms.
 
-[[singh-fungal-biodegradation-of-polycyclic-aromatic-hydrocarbons]] hydrocarbons (PAHs) are discussed in detail in fungal-pah-degradation-mechanisms.
+Low molecular weight PAHs (two to three rings) are degraded through both [[biostimulation-techniques]] applied to petroleum-contaminated sites include land farming, bioventing, and biosparging.
 
-Low molecular weight PAHs (two to three rings) are degraded through both [[query-what-is-the-difference-between-bacterial-and-fungal-dominant-soil]] pathways, while high molecular weight PAHs (four or more rings) are degraded primarily by fungi and actinomycetes.
+Bioaugmentation involves the introduction of exogenous hydrocarbon-degrading microorganisms to supplement or enhance the indigenous [[fungal-bioremediation-mechanisms]] play an important role in petroleum biodegradation by increasing the bioavailability of hydrophobic hydrocarbons through micelle formation and reduction of interfacial tension.
 
-White-rot fungi play a particularly important role in PAH degradation through their ligninolytic enzyme system, as described in [[biostimulation-techniques]] applied to petroleum-contaminated sites include land farming, bioventing, and biosparging.
-
-Bioaugmentation involves the introduction of exogenous hydrocarbon-degrading microorganisms to supplement or enhance the indigenous [[edaphic-factors-microbial-community-structure]].
-
-[[fungal-bioremediation-mechanisms]] play an important role in petroleum biodegradation by increasing the bioavailability of hydrophobic hydrocarbons through micelle formation and reduction of interfacial tension.
-
-Fungal-bacterial coculture systems, described in mycoremediation-of-petroleum-hydrocarbons and [[mycoremediation]] for petroleum contamination includes measurement of TPH reduction, BTEX disappearance, PAH degradation, and changes in microbial [[core-endorhiza-bacterial-community-composition-cannabis]].
+Fungal-bacterial coculture systems, described in mycoremediation-of-petroleum-hydrocarbons and [[core-endorhiza-bacterial-community-composition-cannabis]].
 
 The ratio of pristane to phytane and the distribution of n-alkane chain lengths serve as diagnostic indicators of petroleum biodegradation progress.
 

@@ -13,12 +13,9 @@ type: concept
 
 ## Overview
 
-[[negative-geotropism-in-mushroom-fruiting]] mushrooms is the upward curvature of the stipe in
-response to gravity, ensuring that the pileus (cap) achieves a horizontal
-orientation optimal for [[adaptive-anemotropism-spore-dispersal-optimization-mushroom-evolution]]. Badham (1982) demonstrated in
-[[psilocybe-cubensis]] that this response emerges at Stage 2 of basidiocarp
-development and is uniquely linked to [[spore-production-geotropic-sensitivity-coupling-basidiomycete-badham-1982]], forming the second phase
-of [[psilocybe-cubensis-tropisms]] after the initial [[mushroom-anemotropism]].
+[[adaptive-anemotropism-spore-dispersal-optimization-mushroom-evolution]]. Badham (1982) demonstrated in
+[[spore-production-geotropic-sensitivity-coupling-basidiomycete-badham-1982]], forming the second phase
+of [[mushroom-anemotropism]].
 
 ## Onset and Timing
 

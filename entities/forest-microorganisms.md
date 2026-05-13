@@ -8,7 +8,7 @@ type: entity
 
 ## Description
 
-Forest microorganisms are beneficial indigenous microorganisms collected from the humus and litter layer of aged, healthy forests using a cooked-rice trapping technique. In natural farming, the deep humus layer (2 feet to 1 yard) found around old, robust forest trees represents the highest concentration of soil microbial biodiversity and fertility. These microorganisms are trapped using cooked rice as a carbohydrate attractant, then cultured through sugar/molasses fermentation to create a potent soil inoculant used in Korean Natural Farming and other natural agriculture systems.
+Forest microorganisms are [[beneficial-indigenous-microorganisms]] collected from the humus and litter layer of aged, healthy forests using a cooked-rice trapping technique. In natural farming, the deep humus layer (2 feet to 1 yard) found around old, robust forest trees represents the highest concentration of soil microbial biodiversity and fertility. These microorganisms are trapped using cooked rice as a carbohydrate attractant, then cultured through sugar/molasses fermentation to create a potent soil inoculant used in [[korean-natural-farming]] and other natural agriculture systems.
 
 ## Classification
 
@@ -89,8 +89,6 @@ Addressing these challenges requires patience and systematic observation,
 combined with willingness to adapt approaches based on results.
 
 ## See Also
-- [[forest-and-bamboo-beneficial-microorganisms]]
 - [[pdc-food-forest-design-and-forest-ecology]]
-- [[urban-permaculture-food-forest-succession]]
 - [[permaculture-food-forest-design-principles]]
 - [[mollison-designers-forest-garden-layer-canopy-understory]]

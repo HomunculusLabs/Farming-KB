@@ -24,9 +24,7 @@ Biennials grow in most soils and are valued for filling gaps in the
 ornamental border between the main seasons of perennial and annual
 display. They grow in most soils, making them versatile and easy to
 incorporate into any garden plan. Among the most popular biennials are
-sweet Williams ([[dianthus-barbatus]]) and Canterbury bells (Campanula
-medium). Wallflowers (Erysimum cheiri) provide richly scented spring
-color, while foxgloves ([[digitalis-purpurea]]) add dramatic height to
+sweet Williams ([[digitalis-purpurea]]) add dramatic height to
 the border. Forget-me-nots (Myosotis alpestris) are excellent for
 filling spaces at the front of the border with their delicate blue
 flowers.
@@ -35,41 +33,7 @@ When choosing biennials for your garden, consider how they fit into
 the overall planting scheme. Spring-flowering biennials will bloom
 until early summer, when they can be pulled up, composted, and
 replaced with clumps of summer-flowering annuals. This succession
-planting ensures continuous color throughout [[savory-growing-season-and-non-growing-season-management]].
-
-## Buying Biennials
-
-Biennials can be bought as seed or as small bedding plants in trays.
-When buying plants, check items carefully for diseased or blemished
-leaves. Make sure that you can supply the right soil and sun
-requirements in your garden before purchasing. Buying seed is more
-economical and gives a wider choice of varieties. Seed can be sown
-directly outside in early summer in a prepared seed bed.
-
-## Sowing and Planting Biennials
-
-Biennials require much the same conditions as annuals. Avoid
-fertilizer at planting time but incorporate well-rotted manure or
-compost into the soil. You will need a small area set aside as a seed
-bed and a little more for growing on the seedlings. Biennials are
-very easy to raise from seed sown outside in early summer.
-
-When the seedlings are sturdy enough to handle without damaging them,
-transplant them about 4in (10cm) apart in rows in a corner of the
-garden. Then transplant again to their final positions in early fall,
-after the summer-flowering annuals have finished. This two-stage
-transplanting process produces strong, stocky plants that will
-overwinter well and flower profusely the following spring.
-
-## Maintenance of Biennial Flowers
-
-Once biennials are planted in their final positions, they need very
-little attention through the winter months. Ensure the soil does not
-become waterlogged, as this can cause the plants to rot. In spring,
-as growth resumes, keep the area weeded and water during dry spells.
-Avoid high-nitrogen feeds which can produce lush foliage at the
-expense of flowers. A light mulch of well-rotted compost in early
-spring will help retain moisture and [[query-how-do-cover-crops-suppress-weeds]].
+planting ensures continuous color throughout [[query-how-do-cover-crops-suppress-weeds]].
 
 After flowering, pull up the spent plants and add them to the compost
 heap. Biennials that set seed can sometimes self-sow, producing
@@ -118,8 +82,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[hamilton-annual-flowers-organic]]
 - [[hamilton-perennial-flowers-organic]]
-- [[geoff-hamilton]]
 - [[organic-propagation-hamilton]]
 - [[hamilton-geoffhamilton-nick-organic-gardening-propagation-techniques]]

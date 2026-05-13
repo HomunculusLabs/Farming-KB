@@ -10,9 +10,7 @@ sources: []
 
 MDPR (N-Propyl-MDA; 3,4-Methylenedioxy-N-propylamphetamine) is an N-propyl substituted analogue of mda-entity|MDA that is notable primarily for its remarkable properties as a psychedelic primer.
 
-It is documented as entry #118 in PiHKAL by [[serotonin]] receptor subtypes.
-
-The "body window" effect suggests peripheral effects on [[psilocybin-pharmacology-and-serotonin-receptors]] outside the central nervous system.
+It is documented as entry #118 in PiHKAL by [[psilocybin-pharmacology-and-serotonin-receptors]] outside the central nervous system.
 
 ## Harm Reduction
 
@@ -28,7 +26,6 @@ MDPR has not been extensively studied for safety or toxicity at the high doses (
 
 - mda-entity|MDA: the parent compound
 - mdma-entity|MDMA: the N-methyl analogue
-- [[mem-entity]]
 - [[n-methyl-pea-entity]]
 ## Practical Applications
 

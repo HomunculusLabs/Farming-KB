@@ -11,11 +11,7 @@ type: concept
 # Organic Fertilizers
 
 The use of concentrated fertilizer is probably one of the most
-controversial areas in [[hamilton-geoffhamilton-nick-organic-gardening-companion-planting]]. Plants need a wide and varied
-range of nutrients to be present in the soil for normal healthy growth.
-All the nutrients will be added to your soil if you follow the general
-soil management techniques involving regular additions of organic
-matter. However, there are occasions when [[hamilton-concentrated-organic-fertilizer-products]]
+controversial areas in [[hamilton-concentrated-organic-fertilizer-products]]
 fertilizers are also required to supplement the soil's natural
 fertility.
 
@@ -25,14 +21,10 @@ There are several practical reasons why organic fertilizers may be
 necessary even in a well-managed organic garden:
 
 1. You may not be able to supply your soil with all the manure or
-   [[hamilton-geoffhamilton-nick-organic-gardening-organic-gardening-principles]]
-- [[hamilton-geoffhamilton-nick-organic-gardening-companion-planting]]
-
-- [[soil-food-web-nutrient-cycling]]
+   [[hamilton-geoffhamilton-nick-organic-gardening-companion-planting]]
 
 - [[hamilton-geoffhamilton-nick-organic-gardening-companion-planting]]
 
-- [[hamilton-geoffhamilton-nick-organic-gardening-soil-types-and-management]] for understanding your soil
 - [[hamilton-geoffhamilton-nick-organic-gardening-organic-gardening-principles]] for the feeding-the-soil philosophy
 ## Practical Applications
 
@@ -97,8 +89,6 @@ through generations to modern scientific approaches, the evolution continues
 to inform current best practices and research directions.
 
 ## See Also
-- [[hamilton-geoffhamilton-nick-organic-gardening-mulching-and-weed-suppression]]
 - [[hamilton-geoffhamilton-nick-organic-gardening-herb-garden]]
-- [[hamilton-geoffhamilton-nick-organic-gardening-organic-weed-control]]
 - [[hamilton-geoffhamilton-nick-organic-gardening-organic-pest-control]]
 - [[hamilton-geoffhamilton-nick-organic-gardening-companion-planting]]

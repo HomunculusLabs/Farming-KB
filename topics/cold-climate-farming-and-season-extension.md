@@ -72,9 +72,7 @@ Maine (latitude 44.33 degrees north) has demonstrated since the 1990s that
 fresh vegetables can be harvested year-round without artificial heat in
 regions most growers consider inhospitable to winter production. Coleman's
 system rests on a core insight: each layer of protection shifts the
-effective [[cannabis-growing-environment-setup]] approximately one and a half USDA hardiness
-zones warmer. A cold-hardy vegetable grown outdoors in Zone 4, when placed
-inside an [[coleman-unheated-greenhouse-design]], experiences conditions equivalent to Zone 6.
+effective [[coleman-unheated-greenhouse-design]], experiences conditions equivalent to Zone 6.
 Adding a second layer of lightweight row cover inside the greenhouse shifts
 the effective zone to approximately Zone 8. This layered arithmetic means
 that growers in the coldest parts of the continental United States can
@@ -87,8 +85,7 @@ on multiple traditions. Coleman himself acknowledges the influence of the
 nineteenth-century Parisian market gardeners, or maraichers, who achieved
 legendary productivity through intensive composting, hotbeds, and cold
 frames. Permaculture design, as codified by Bill Mollison and others,
-contributes a systems-level understanding of [[mollison-designers-microclimate-creation-frost-protection]], thermal
-mass, wind protection, and water management. The deep [[fukuoka-critique-organic-farming-ecology]]
+contributes a systems-level understanding of [[fukuoka-critique-organic-farming-ecology]]
 philosophy that Coleman advocates goes beyond mere chemical avoidance to
 pursue the optimization of every factor affecting crop quality, including
 soil biology, mineral nutrition, varietal selection, and the timing of
@@ -114,16 +111,10 @@ Perhaps most critically for winter production, day length drops below the
 ten-hour threshold that most plants require for active growth during the
 ## See Also
 
-[[cold-climate-gardening]]
-cold-climate-permaculture-guide
 [[coleman-four-season-farm]]
-[[cold-frame-construction]]
 [[cold-frame-gardening]]
-[[coleman-high-tunnel-cold-frame-design]]
 [[coleman-cold-hardy-varieties]]
-[[coleman-cool-greenhouse]]
 [[extending-growing-season]]
-[[coleman-mache-and-specialty-winter-greens]]
 [[four-season-farming-and-winter-harvest]]
 
 ## References

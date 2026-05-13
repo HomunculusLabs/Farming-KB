@@ -19,66 +19,10 @@ sources:
 
 # Ginkgo biloba
 
-**Ginkgo biloba**, commonly known as the **ginkgo tree** or **maidenhair tree**, is the only living species in the division Ginkgophyta. It is one of the oldest extant tree species on Earth, with a fossil record dating back approximately 270 million years — predating dinosaurs and surviving multiple [[fungal-roles-in-mass-extinction-recovery]] events. Beyond its botanical significance, ginkgo leaf extract is among the most widely used herbal supplements globally.
+**Ginkgo biloba**, commonly known as the **ginkgo tree** or **maidenhair tree**, is the only living species in the division Ginkgophyta. It is one of the oldest extant tree species on Earth, with a fossil record dating back approximately 270 million years — predating dinosaurs and surviving multiple [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]] worldwide:
 
-## Taxonomy
-
-- **Kingdom:** Plantae
-- **Division:** Ginkgophyta (sole extant division)
-- **Class:** Ginkgoopsida (sole extant class)
-- **Order:** Ginkgoales (sole extant order)
-- **Family:** Ginkgoaceae (sole extant family)
-- **Genus:** *Ginkgo* (sole extant genus)
-- **Species:** *G. biloba*
-
-*Ginkgo biloba* occupies a unique taxonomic position — it is the only surviving member of an ancient lineage that once included multiple genera and species. Charles Darwin himself referred to it as a "living fossil."
-
-## Botanical Description
-
-### Tree Characteristics
-
-- **Height:** 20–35 m (65–115 ft), exceptionally to 50 m
-- **Lifespan:** Extremely long-lived; individual specimens exceed 1,000 years, with some estimated at over 2,500 years
-- **Crown:** Broad, conical when young, becoming irregular and spreading with age
-- **Bark:** Gray-brown, deeply fissured, corky texture
-- **Root system:** Deep taproot when young; resistant to wind damage
-
-### Leaves
-
-- **Shape:** Unique fan-shaped (flabellate) leaf, 5–10 cm long and wide
-- **Venation:** Dichotomously branched veins radiating from the petiole — a primitive trait shared with fossil ferns
-- **Color:** Bright green in spring/summer, turning brilliant golden-yellow in autumn
-- **Lobes:** Typically divided into two lobes (hence the species name *biloba*), though some leaves have a single central lobe
-- **Arrangement:** Alternate on long shoots, clustered in spur shoots
-
-### Reproduction
-
-Ginkgo is **dioecious** — male and female reproductive structures occur on separate trees:
-
-- **Male trees:** Produce catkin-like pollen cones (strobili) in spring
-- **Female trees:** Produce ovules at the tips of stalks; when fertilized, they develop into seeds
-- **Pollination:** Wind-pollinated; motile sperm (a rare trait among seed plants)
-- **Seeds:** Nut-like, 1.5–2 cm diameter, with a fleshy, malodorous outer layer (sarcotesta) containing butyric acid and ginkgotoxin
-
-The characteristic foul odor of fallen ginkgo seeds has been variously described as resembling rancid butter, vomit, or dog feces — leading many urban plantings to specify male trees only.
-
-## Distribution and Ecology
-
-### Natural Range
-
-The species is native to a small area in the mountains of eastern China:
-
-- Zhejiang province (Tianmushan Nature Reserve)
-- Possibly southwestern Hubei and western Guizhou provinces
-
-### Cultivated Distribution
-
-Ginkgo has been widely planted as an ornamental tree across [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]] worldwide:
-
-- [[neurotropic-fungi-japan-east-asia-species-cultural-context]] (China, Japan, Korea) — thousands of years of cultivation
-- Europe — introduced circa 1730
 - [[psilocybin-north-america-pacific-northwest]] — introduced circa 1784
-- [[guzman-allen-gartz-africa-southern-hemisphere-underexplored-neurotropic-fungi]] — planted as ornamental in Australia, New Zealand, [[guzman-psilocybin-mushrooms-south-america]]
+- [[guzman-psilocybin-mushrooms-south-america]]
 
 ### Ecological Resilience
 
@@ -88,3 +32,84 @@ Ginkgo is remarkably resilient:
 - Resistant to most [[query-how-to-manage-pests-and-diseases-in-mushroom-cultivation]]
 - Survived the atomic bombing of Hiroshima — six ginkgo trees within 1–2 km of ground zero survived and regrew
 - Deeply drought-tolerant once established
+
+## Overview
+
+Ginkgo Biloba represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish ginkgo biloba
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving ginkgo extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Ginkgo Biloba finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for ginkgo biloba. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+ginkgo biloba and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Ginkgo Biloba has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of ginkgo biloba into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[comparison-ginkgo-biloba-vs-panax-ginseng]]

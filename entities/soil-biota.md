@@ -7,7 +7,7 @@ tags: [soil-science, ecology, permaculture, biology, soil-life]
 
 ## Description
 
-Soil biota refers to the complete community of living organisms inhabiting the soil: bacteria, fungi, yeasts, algae, protozoa, nematodes, mites, springtails, earthworms, arthropods, molluscs, and larger burrowing animals. In permaculture, soil biota are recognised as the primary engine of soil fertility. They decompose organic matter, cycle nutrients, build crumb structure, create colloids, regulate gas exchange, and make minerals available to plant roots. The biomass of soil organisms often vastly exceeds the visible above-ground animal biomass on the same land.
+Soil biota refers to the complete community of living organisms inhabiting the soil: bacteria, fungi, yeasts, algae, protozoa, nematodes, mites, springtails, earthworms, arthropods, molluscs, and larger burrowing animals. In permaculture, soil biota are recognised as the primary engine of soil fertility. They decompose organic matter, cycle nutrients, build [[crumb-structure]], create colloids, regulate gas exchange, and make minerals available to plant roots. The biomass of soil organisms often vastly exceeds the visible above-ground animal biomass on the same land.
 
 ## Classification
 
@@ -84,7 +84,7 @@ Based on body size (after Anderson, *New Scientist*, 6 Oct 1983):
 ### Impact of Agriculture
 - Plough cropping in Canada has reduced humus levels to 1% of original levels over much of wheat country.
 - Aeration from ploughing oxidises humus to CO2, permanently lost to atmosphere.
-- About 30% of plant energy may be lost as sugars or compounds released to soil via roots, feeding the soil food web.
+- About 30% of plant energy may be lost as sugars or compounds released to soil via roots, feeding [[the-soil-food-web]].
 - Humus at Rothamsted has a mean age of 1,400 years, deriving from forests that preceded the wheat.
 
 ### Earthworm Recycling Rates
@@ -98,9 +98,6 @@ Mollison argues that the health of the soil biota IS the health of the soil. The
 
 ## See Also
 
-- [[humus]]
 - [[soil-colloids]]
-- [[ethylene-oxygen-cycle]]
 - [[earthworms-in-soil-health]]
-- [[crumb-structure]]
 - [[mycorrhiza]]

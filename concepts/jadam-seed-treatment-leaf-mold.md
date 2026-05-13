@@ -9,54 +9,11 @@ sources:
 ---
 # JADAM Seed and Seedling Treatment with Leaf Mold
 
-Leaf mold from mountains is a reservoir of millions of different [[beneficial-indigenous-microorganisms-bim]] and their excreta -- a super nutrient-rich material that easily replaces commercial root promoters. Using it for seed and seedling treatment boosts biodiversity in the plant's immediate environment, suppresses disease outbreak, and promotes vigorous root settlement.
-
-## The Science Behind It
-
-JADAM's view is that canker and athlete's foot are essentially the same problem: a single pathogen dominating an area. Chemical pesticide cannot control canker; medicine rarely cures athlete's foot. But when you tackle them with microbial diversity, the disease-causing organisms are neutralized. This simple seed/seedling treatment promotes root settlement and [[cervantes-pest-disease-prevention-overview]] simultaneously.
+Leaf mold from mountains is a reservoir of millions of different [[cervantes-pest-disease-prevention-overview]] simultaneously.
 
 ## Leaf Mold Source
 
-Collect leaf mold from nearby mountains or forests. The darker and more decomposed, the richer in microbial life. Mountain leaf mold contains the full indigenous [[fukuoka-microbial-ecology-decomposition]] of your region -- this is far more valuable than any commercial microbial inoculant.
-
-## Seed Soaking Protocol
-
-**Purpose:** Disease prevention and germination boost before planting.
-
-**Procedure:**
-1. Prepare a large bucket or container
-2. Add approximately 3 kg of leaf mold
-3. Add water to a level that will submerge the seeds
-4. Place seeds in a porous bag (like a mesh bag or burlap sack)
-5. Submerge the bag in the leaf mold water for approximately 30 minutes
-6. Remove and plant immediately
-
-This works for all crop seeds. The leaf mold water coats the seed with millions of diverse microbes that will colonize the seed surface and the immediate soil environment, preventing any single pathogen from dominating.
-
-## Seedling Drench Protocol
-
-**Purpose:** Disease prevention and root promotion at transplanting.
-
-**For small batches:**
-1. Prepare a large bucket
-2. Add approximately 3 kg of leaf mold
-3. Add water to a level where the root portion of the seedling will be submerged
-4. Hold seedlings by the stem and dip the root ball into the solution for 1-2 minutes
-5. Ensure the roots are fully soaked
-6. Transplant immediately
-
-**For large batches:**
-1. Dig out a wide area of soil
-2. Line with plastic sheeting to create a temporary pool
-3. Fill with water
-4. Add leaf mold generously
-5. Dip multiple seedlings at once, ensuring roots are submerged for 1-2 minutes
-6. Transplant immediately after treatment
-
-## Transplant Treatment (Soil Drench)
-
-After transplanting, drench the soil around the new planting with leaf mold water to further establish microbial diversity in the root zone. This is especially important for:
-- [[comparison-berry-growing-vs-fruit-tree-pruning]] saplings (grow at least 1-2 years the JADAM way before planting)
+Collect leaf mold from nearby mountains or forests. The darker and more decomposed, the richer in microbial life. Mountain leaf mold contains the full indigenous [[comparison-berry-growing-vs-fruit-tree-pruning]] saplings (grow at least 1-2 years the JADAM way before planting)
 - Pepper, tomato, and other vegetable transplants
 - Rice seedlings before transplanting to paddy
 
@@ -87,7 +44,7 @@ If rice seedlings show disease in the seedbed:
 
 ## Root Settlement and High Yield
 
-High yield is determined at the early stage of plant growth. How well the root settles right after transplanting decides the yield. The [[ultra-low-cost-jadam-microorganism-solution-and-soil-foundation]] [[ultra-low-cost-foliar-application-methods]] -- it is a battle of numbers, and diversity + population wins.
+High yield is determined at the early stage of plant growth. How well the root settles right after transplanting decides the yield. The [[ultra-low-cost-foliar-application-methods]] -- it is a battle of numbers, and diversity + population wins.
 
 ## Practical Applications
 
@@ -118,8 +75,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[dom]]
 - [[det]]
-- [[decomposition]]
 - [[jadam-leaf-mold-soil-method]]
 - [[jadam-seed-seedling-treatment]]

@@ -43,16 +43,7 @@ related_concepts:
 # Plant Propagation Techniques
 
 Plant propagation is the deliberate creation of new plants from existing
-parent stock, encompassing both [[fungal-life-cycles-sexual-reproduction-metamorphosis]] through seeds and
-asexual reproduction through vegetative means. It is one of the oldest
-human technologies, fundamental to agriculture, horticulture, and
-ecological restoration since the dawn of civilization. Every cultivated
-crop, ornamental plant, and forest tree in existence today traces its
-lineage to propagation practices refined over millennia, from the simple
-act of saving seed to the tissue culture laboratories that now produce
-millions of cloned plantlets annually.
-
-The two fundamental approaches serve different purposes. [[cannabis-sexual-propagation-genetics]]
+parent stock, encompassing both [[cannabis-sexual-propagation-genetics]]
 using seeds generates genetic diversity through recombination, producing
 offspring that differ from their parents. This variability is the raw
 material of evolution and plant breeding, but specific traits are not
@@ -80,71 +71,14 @@ Archaeological evidence suggests seed saving began roughly 11,000 years
 ago in the Fertile Crescent, as early farmers selected and replanted
 seeds from the most productive cereal plants, gradually transforming wild
 grasses into domesticated wheat and barley. Ancient Egyptian, Chinese, and
-Greek texts all describe vegetative [[vegetative-propagation-methods-mollison]], including the
-grafting of fruit trees, which was well established in the Mediterranean
-by the time of Theophrastus in the fourth century BCE.
-
-Grafting reached high sophistication in Roman agriculture and spread along
-trade routes to Persia, India, and East Asia. [[solanaceous-hallucinogens-of-medieval-european-witchcraft]]
+Greek texts all describe vegetative [[solanaceous-hallucinogens-of-medieval-european-witchcraft]]
 monasteries preserved fruit varieties through grafting, keeping cultivars
 alive that might otherwise have been lost. The scientific understanding of
-propagation advanced dramatically in the [[coleman-louis-savier-twentieth-century-maraicher]] with the
-discovery of auxins. The identification of indole-3-butyric acid (IBA) as
-a rooting stimulant in the 1930s revolutionized cutting propagation. The
-development of plant tissue culture, building on Gottlieb Haberlandt's
-pioneering work in the early 1900s, enabled mass production of identical
-plantlets from minute tissue samples under sterile conditions.
-
-## Seed Propagation
-
-Seed propagation is the most widely practiced method of plant
-multiplication, used for the vast majority of annual vegetables, herbs,
-grains, and many perennials. Seeds are biological marvels of packaging,
-each containing an embryonic plant with a stored food supply enclosed in a
-protective coat. Their natural dormancy mechanisms can be both an
-advantage, enabling long-term storage and transport, and a challenge,
-requiring specific treatments to overcome.
-
-### Seed Quality and Selection
-
-Seed quality is perhaps the single most important factor determining
-success, yet it is routinely underestimated by home gardeners. Seed
-authority Steve Solomon, founder of Territorial Seed Company, argues that
-the seed rack at the garden center is often the worst possible source.
-Poor seed causes three types of failure: complete germination failure,
-weak emergence from seeds that sprout but lack vigor, and poor
-performance from plants that yield little at harvest.
-
-In the United States, seeds sold in packets under one pound are not
-required to display germination test results. Instead they fall under
-USDA Minimum Standard Germination: floor-level minimums of 75% for
-cabbage, 80% for lettuce, 65% for muskmelon, and just 60% for leek. A
-seed packer can sell right at these minimums, and by planting time six to
-## See Also
-
-- [[plant-propagation-methods]]
+propagation advanced dramatically in the [[plant-propagation-methods]]
 - plant propagation techniques
-- [[plant-propagation]]
 - [[grafting-fruit-trees]]
-- [[tissue-culture-cloning]]
 - [[seed-germination-techniques-solomon]]
-- [[seed-quality-and-selection-solomon]]
 - [[solomon-seed-starting-transplanting]]
-- [[seed-starting-indoors]]
 - [[seed-selection-breeding-holzer]]
-- [[seed-starting-reference]]
-
-## References
-
-1. Mollison, Bill. *Permaculture: A Designers' Manual*. Tagari
-   Publications, 1988.
-2. Solomon, Steve. *Gardening When It Counts: Growing Food in Hard
-   Times*. New Society Publishers, 2005.
-3. Holzer, Sepp. *Sepp Holzer's Permaculture: A Practical Guide to
-   Small-Scale, Integrative Farming and Gardening*. Chelsea Green, 2011.
-4. Hamilton, Geoff. *The Organic Garden Book*. Dorling Kindersley, 1993.
-5. Hartmann, Hudson T. et al. *Plant Propagation: Principles and
-   Practices*. 8th ed. Prentice Hall, 2010.
-6. Coleman, Eliot. *The Winter Harvest Handbook*. Chelsea Green, 2009.
-7. Stamets, Paul. *Growing Gourmet and [[comparison-chaga-vs-turkey-tail-medicinal-mushrooms-comprehensive]]*. 3rd ed.
+- [[comparison-chaga-vs-turkey-tail-medicinal-mushrooms-comprehensive]]*. 3rd ed.
    Ten Speed Press, 2000.

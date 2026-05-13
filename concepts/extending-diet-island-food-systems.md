@@ -4,14 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Extending Diet and Island Food Systems
-
-Small islands present unique challenges and extraordinary opportunities
-for food production. While limited land area constrains conventional
-agriculture, the rich interface between land and sea offers diverse
-nutritional pathways that permaculture design can amplify. The key to
-island food security lies not in maximizing any single crop, but in
-extending diet breadth across many species and ecological niches.
+# Extending Diet and [[tropical-island-diet-diversification-and-energy-resources|island-diet-diversification-and-resource-systems|Island]] [[ecological-niche|ecological niche]]s.
 
 ## Nutritional Challenges of Limited Island Diets
 
@@ -147,52 +140,11 @@ floating rafts support oyster and mussel culture.
 The sheltered waters of atoll lagoons are ideal for aquaculture because
 wave energy is minimal and water quality is generally high. Polyculture
 within lagoons — combining seaweed, shellfish, and fish — mimics
-natural reef ecology and produces multiple yields from the same water
-area. Lagoon mariculture requires minimal external inputs once
-established and can scale to meet community protein needs.
 
-## Island Energy Systems
-
-Islands can harness tide-flow turbines at reef outlets (approximately 1 kW/m²/s),
-biogas from organic waste, wind-electric systems, and solid fuels from coconut
-husks and coppiced legume trees. Tidal and ocean current turbines anchored with
-coral and cement can power island workshops and lighting.
-
-## Rising Sea Level Threat
-
-Atolls and low-lying islands face existential threat from rising sea levels through
-saltwater intrusion, erosion, and permanent flooding. Where persistence is possible,
-design must prioritize salt-tolerant species, elevated food production, mangrove
-buffers, and marine-based food systems. For many sites, early evacuation may be
-the best action.
-
-## Permaculture Design Principles for Islands
-
-Island permaculture follows specific intensity guidelines from
-Mollison's designers' checklist:
-
-- **Zone 1 (home garden):** 30-90 species, maximizing diversity with
-  adapted high-value foods in the most intensively managed area
-- **Zone 2 ([[food-forest]]/orchard):** 7-20 main crop species with
-  supporting understory, concentrating on high-value crops
-- **No bare soil:** every surface covered with mulch, groundcovers, or
-  living roots to prevent erosion and nutrient leaching
-
-Additional principles include maximizing tree crops and herbaceous
-perennials (banana, papaya, arrowroot, taro) and planning a multi-tier
-system integrating windbreak, forest, orchard, understory, and ground
-cover. Earth-shaping should be completed before setting out plant
-systems. Houses and villages should be designed for low-energy climate
-control, taking advantage of prevailing breezes and shade.
-
-A careful plant and animal assembly should be designed in relation to
-local culture, market opportunities, processing capacity, available
-labour, and value to the village community. The overarching principle
-is that small island food systems must be intensely diverse, closing
-nutrient loops and capturing energy from every available source —
-land, sea, and sky.
 ## See Also
 
-- [[island-diet-diversification-and-energy-resources]]
-- [[permaculture-design]]
-- [[low-island-coral-cay-strategies]]
+- [[extending-growing-season]]
+- [[extending-yields-and-cultural-impediments]]
+- [[mollison-extending-and-storing-yields]]
+- [[disappearance-natural-diet]]
+- [[fukuoka-diet-blood-thought-civilization]]

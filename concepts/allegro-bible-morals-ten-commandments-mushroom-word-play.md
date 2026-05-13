@@ -6,21 +6,7 @@ type: concept
 
 # Allegro Bible Morals and Ten Commandments as Mushroom Word-Play
 
-John Marco Allegro's controversial thesis in *[[allegro-star-of-the-morning-venus-and-the-sacred-mushroom]] and the Cross* argues that the moral and legal codes of the Hebrew Bible, including the Ten Commandments, are not straightforward ethical legislation but disguised word-play built around Sumerian mushroom names and fertility-cult terminology.
-
-This concept page summarises his analysis across four interlocking domains: the repositioning of Yahwism within [[allegro-fertility-philosophy-of-the-ancient-near-east]], the New Testament as deliberate cryptic communication, the Ten Commandments themselves as mushroom word-play, and a [[brazilian-ayahuasca-churches-santo-daime-udv-barquinha-structural-comparison]] with the Code of Hammurabi.
-
-## Yahwism Within Fertility Philosophy
-
-The prevailing scholarly view of Israelite religion as a clean break from Canaanite fertility worship is, in Allegro's reading, fundamentally mistaken. Yahwism did not develop *in opposition* to fertility philosophy but *within* it. The two were not enemies but phases of the same religious tradition.
-
-The break between them is a scholarly illusion retrojected onto ancient texts that tell a far more continuous story.
-
-The old chronological framework — the neat road from Abraham through Moses to the prophets to Jesus — lies "in ruins"; that developmental highway has "vanished." What actually existed was a far more organic evolution: from a crude phallic deity toward a sophisticated mystery religion that guarded powerful drug secrets at its core.
-
-The prophetic literature reflects an internal struggle rather than an external conflict between two separate religions. Prophets like Isaiah and his contemporaries were divided in their attitudes: some opposed the mushroom cult outright, while others produced visions strikingly reminiscent of the psychedelic effects of *Amanita muscaria*.
-
-Ezekiel's famous vision of whirling wheels studded with eyes (Ezekiel 1) reads, in Allegro's framing, as a classic [[leary-psychedelic-experience-bardo-mapping]] — the kind of visual distortion well documented in the ethnographic literature on fly-agaric intoxication.
+John Marco Allegro's controversial thesis in *[[allegro-fertility-philosophy-of-the-ancient-near-east]], the New Testament as deliberate cryptic communication, the Ten Commandments themselves as mushroom word-play, and a [[leary-psychedelic-experience-bardo-mapping]] — the kind of visual distortion well documented in the ethnographic literature on [[fly-agaric]] intoxication.
 
 The prophetic tradition thus preserves, in coded form, the experiential core of the mushroom religion even as some of its exponents argued against its outward expression.
 
@@ -106,26 +92,10 @@ The prohibition "Do not commit adultery" Allegro reads as *LIKU_R_ANTA, "using a
 
 Jesus' radical extension of this commandment — that looking lustfully at a woman constitutes adultery in the heart — works by adding TAB-BA-RI to the underlying word-play, yielding the sense "adulterous association in the mind." The inner/outer distinction in Jesus' ethics maps directly onto the surface/hidden distinction in the encoded text.
 
-The divorce vocabulary surrounding this commandment is equally dense with [[hallucinogenic-mushroom-terminology-european-languages-emcdda-2006]]: s-b-q "send away" derives from *MASh_BA(LA)G; s-p-q "join together"; and p-l-g "divide" stems from the element -BALAG-. Each term in the divorce discussion carries a dual meaning that references both the mushroom and the apparent legal subject.
-
-## Comparison with the Code of Hammurabi
-
-Allegro strengthens his case by contrasting the Ten Commandments with the far more comprehensive Code of Hammurabi. The Decalogue consists of roughly half a dozen broad principles expressed in absolute terms; Hammurabi's code is systematic, practical legislation covering property, commerce, family law, and civil disputes in detailed casuistic form with specific penalties and circumstances.
-
-Commandments such as "Do not kill" and "Do not steal" are, Allegro notes, virtually incomprehensible as standalone legislation for a Bedouin raiding culture where such activities were a way of life. They contain no qualifications, no guide to infringements, no rules for compensation, and no procedural apparatus — unlike Hammurabi, which addresses all three with precision.
-
-Where Hammurabi specifies exact penalties for specific acts under specific circumstances, the Decalogue offers only unqualified absolutes. Where Hammurabi distinguishes between social classes, intentions, and degrees of harm, the Ten Commandments make no such discriminations. The contrast is stark and, for Allegro, telling.
-
-This structural inadequacy as law supports Allegro's reading that the commandments were never intended to function primarily as legislation at all. Their purpose was not legal but encoded: each commandment wraps a mushroom name or invocation in the respectable guise of divine moral instruction.
-
-The absence of legal machinery is not primitivism but evidence that the Decalogue was never meant to serve as law in the first place.
-
-## Implications and Methodological Stakes
-
-If Allegro's philological identifications hold, the moral teachings of the Bible do not stand as the direct revelation of a transcendent ethical lawgiver but as the encoded language of a long-suppressed fertility cult whose central sacrament was a [[gartz-conocybe-cyanopus-rare-psychoactive-mushroom]]. The ethical content becomes secondary to the secret name concealed within it — a message about the sacred fungus wrapped in the guise of divine commandment.
+The divorce vocabulary surrounding this commandment is equally dense with [[gartz-conocybe-cyanopus-rare-psychoactive-mushroom]]. The ethical content becomes secondary to the secret name concealed within it — a message about the sacred fungus wrapped in the guise of divine commandment.
 
 The methodological stakes are enormous. Allegro's approach requires accepting that Sumerian roots survived in Hebrew and Aramaic vocabulary for millennia, that biblical writers deliberately constructed their texts as cryptographic puzzles, and that the entire Western tradition of biblical ethics rests on a misunderstanding of encoded mushroom terminology.
 
-Each of these premises is fiercely contested by mainstream scholarship, and *The Sacred Mushroom and the Cross* was met with near-universal rejection upon publication in 1970. Allegro was effectively expelled from the academic establishment, though he never retracted his central claims.
+Each of these premises is fiercely contested by mainstream scholarship, and *The [[sacred-mushroom-and-the-cross]]* was met with near-universal rejection upon publication in 1970. Allegro was effectively expelled from the academic establishment, though he never retracted his central claims.
 
 The entire edifice of biblical morality, on this reading, is a sustained act of cryptographic dissimulation, its surface meaning the least interesting thing about it. What generations of believers have received as the foundation of Western ethics may instead be a mushroom manual in moral disguise — the longest-running inside joke in Western civilisation, or its most deeply buried truth.

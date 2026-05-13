@@ -6,47 +6,7 @@ type: concept
 
 # The Only Future for Man: Three Stages of Collapse and the Necessity of Natural Farming
 
-[[masanobu-fukuoka]], in *The One-Straw Revolution* and related writings, presents a sweeping [[critique-of-scientific-agriculture]] civilization and its trajectory toward self-destruction. His argument is not merely agricultural but cosmological: humanity's departure from nature follows a predictable pattern of expansion, rupture, and collapse, and the only viable path forward is a return [[fukuoka-organic-to-natural-farming-transition]] — a practice that occupies an "immutable and unshakable position that transcends time and space."
-
-## Scientific Farming Has No Future
-
-Fukuoka's diagnosis begins with the futility of progressive reform within a fundamentally misguided paradigm. Each technological advance is transient, each reform provisional:
-
-> "Today's new technology will become the dated technology of tomorrow, and tomorrow's reforms will become the stale news of a later day."
-
-The political and ideological oscillations of modern civilization mirror this futility:
-
-> "What is on the right today will appear on the left tomorrow and on the right the day after."
-
-There is no steady progress toward truth — only restless cycling between positions, none of them grounded in reality. Humanity has positioned itself on the periphery of a centrifuge, straining outward against nature. Only centripetal forces — the pull of truth and nature — barely maintain the balance. The image Fukuoka invokes is vivid and unsettling:
-
-> "The moment this thread connected to the core breaks, man will fly away from truth like a whirling stone."
-
-This is not a distant possibility. The danger is immediate and localized at the very foundation of modern agriculture:
-
-> "The danger has now arrived at the doorstep of science. Scientific farming has no future."
-
-## The Wheel of Dharma Pattern
-
-Fukuoka grounds his prediction in a cosmological principle — a universal pattern of expansion and contraction that governs all phenomena. The universe does not expand indefinitely. It expands volumetrically until it reaches a critical threshold, at which point it must rupture, split, collapse, and disappear. At the point beyond this limit, the process reverses course: movement becomes centripetal rather than centrifetal, contracting and condensing inward.
-
-The cycle is eternal and self-renewing:
-
-> "What has form vaporizes at the limits of development to a void, and the void condenses into a form and reappears, in a never-ending cycle of contraction and expansion."
-
-Fukuoka names this pattern explicitly:
-
-> "I liken this pattern of development to the Wheel of Dharma or a cyclone."
-
-Civilizations, like all phenomena, follow this wheel. Humanity's current trajectory — centrifetal expansion driven by scientific ambition — has reached the outer limits of the cycle. Collapse is not an aberration but a structural inevitability.
-
-## Three Stages of Collapse
-
-Fukuoka identifies three sequential stages through which humanity's collapse will unfold:
-
-### 1. Breakdown of Human Knowledge
-
-The first stage is cognitive and spiritual. Human knowledge, as Fukuoka defines it, is not true understanding but "[[fukuoka-microbes-soil-health-discriminating-knowledge]]" — the fragmented, analytical intellect that separates subject from object, man from nature. Because humanity has no way of recognizing that its accumulated knowledge is fundamentally unknowable and mistaken, it founders ever deeper:
+[[critique-of-scientific-agriculture]] civilization and its trajectory toward self-destruction. His argument is not merely agricultural but cosmological: humanity's departure from nature follows a predictable pattern of expansion, rupture, and collapse, and the only viable path forward is a return [[fukuoka-microbes-soil-health-discriminating-knowledge]]" — the fragmented, analytical intellect that separates subject from object, man from nature. Because humanity has no way of recognizing that its accumulated knowledge is fundamentally unknowable and mistaken, it founders ever deeper:
 
 > "Human knowledge is merely discriminating knowledge. Having no way of knowing that this knowledge is really unknowable, man founders ever deeper into confusion through the collection and advancement of unknowable and mistaken knowledge."
 
@@ -96,7 +56,7 @@ Life will simplify radically:
 
 > "Man's only work then will consist of the barest of farming essential for sustaining life."
 
-Fukuoka ranks [[mycorrhizal-agricultural-practices]] by energy efficiency with characteristic directness. Farming with small machinery is more efficient than large-scale mechanized agriculture. Animal power is more efficient still. [[fukuoka-textdoc-three-stages-of-human-collapse-and-natural-farming-future]] — which requires no external inputs, no plowing, no chemicals, no machinery beyond the human body — achieves the highest energy efficiency of all.
+Fukuoka ranks [[fukuoka-textdoc-three-stages-of-human-collapse-and-natural-farming-future]] — which requires no external inputs, no plowing, no chemicals, no machinery beyond the human body — achieves the highest energy efficiency of all.
 
 This is not a regression to primitivism. Natural farming, for Fukuoka, is paradoxically the most advanced form of agriculture:
 
@@ -106,9 +66,7 @@ It occupies an "immutable and unshakable position that transcends time and space
 
 ## See Also
 
-- [[fukuoka-natural-farming]]
 - [[fukuoka-nature-dissection-subjectivity-non-discriminating-knowledge]]
-- [[fukuoka-do-nothing-farming-philosophy]]
 - [[fukuoka-one-straw-revolution-philosophy]]
 
 ## Practical Applications
@@ -140,8 +98,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[fukuoka-textdoc-three-stages-collapse-only-future]]
 - [[fukuoka-textdoc-three-stages-of-human-collapse-and-natural-farming-future]]
-- [[doc]]
 - [[natural-farming]]
 - [[mycorrhiza]]

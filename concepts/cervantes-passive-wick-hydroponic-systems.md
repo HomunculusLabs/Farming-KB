@@ -13,9 +13,7 @@ type: concept
 # Passive and Wick Hydroponic Systems for Cannabis
 
 Passive hydroponic systems rely on capillary action rather
-than pumps to transfer [[cervantes-growing-medium]] and plant
-roots. These simple, low-maintenance systems have no moving
-parts and are among the easiest [[cervantes-growing-medium]] draws moisture
+than pumps to transfer [[cervantes-growing-medium]] draws moisture
 upward from the reservoir, keeping root zones consistently
 moist. Absorbent mediums ideal for passive systems include:
 
@@ -29,31 +27,7 @@ moist. Absorbent mediums ideal for passive systems include:
 The growing medium in passive systems can stay very wet, so
 substrate selection is critical. Soggy substrates hold less
 air and can deprive roots of the oxygen needed for rapid
-[[plant-nutrient-uptake-mechanisms]].
-
-## Wick System Designs
-
-Wick systems use cloth or fibrous wicks that absorb nutrient
-solution from a reservoir below and transport it upward to
-the growing medium. Several design variations exist:
-
-- Cloth wicks extend from the reservoir through the bottom
-  of the growing container into the root zone
-- Some designs use multiple wicks per container for more
-  even moisture distribution
-- Soilless mixes heavy in coco peat can wick solution
-  directly without separate cloth wicks
-- Low-tech wick gardens can be remarkably productive despite
-  their simplicity
-
-## Advantages of Passive Systems
-
-Passive hydroponic systems offer several practical benefits:
-
-- No moving parts: seldom does anything break or
-  malfunction
-- Low initial cost compared to active
-  cervantes [[comparison-wicking-bed-vs-passive-wick-hydroponics]] hydroponic systems systems
+[[comparison-wicking-bed-vs-passive-wick-hydroponics]] hydroponic systems systems
 - Low maintenance requirements after initial setup
 - Silent operation with no pumps or timers
 - No electricity required for irrigation (though lights
@@ -64,11 +38,7 @@ Passive hydroponic systems offer several practical benefits:
 ## Dutch Passive Irrigation Method
 
 Dutch commercial growers have developed an effective passive
-irrigation technique. The floor of the [[cannabis-grow-room-setup]] is lined
-with heavy plastic or pond liner. Plants are grown in
-three-gallon (11 L) pots filled with an absorbent soilless
-mix that holds plenty of air. The garden is flooded with two
-to three inches (6-9 cm) of [[cannabis-nutrient-solution-preparation]]. Roots absorb
+irrigation technique. The floor of the [[cannabis-nutrient-solution-preparation]]. Roots absorb
 the entire solution in two to five days. No nutrient
 solution is drained off; it is completely absorbed by plants.
 This method is repeated as needed based on plant consumption.
@@ -118,8 +88,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[dom]]
 - [[marijuana-horticulture-cervantes-hydroponic-growing-systems]]
-- [[cervantes-hydroponic-systems]]
 - [[cervantes-top-feed-hydroponic-systems]]
 - [[comparison-aeroponics-guide-vs-cannabis-hydroponic-systems]]

@@ -82,12 +82,9 @@ all influence the optimal approach to implementation.
 
 ## See Also
 
-- [[gabion-and-check-dams-water-earthworks]]
 - [[gabion-dams-and-check-dams]]
 
 ## See Also
 
-- [[swale]]
 - [[swale-design-water-harvesting]]
-- [[keyline-design]]
 - [[gley-pond-sealing-mollison]]

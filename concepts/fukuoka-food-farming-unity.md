@@ -14,68 +14,28 @@ sources:
 
 ## The Unity of Food and Farming
 
-This book on [[fukuoka-natural-farming-philosophy-of-mu]], some weeding, composting or pruning may be necessary at first, but these measures should be gradually reduced each year. Ultimately, it is not the growing technique which is the most important factor, but rather the state of mind of the farmer.
-
-## Philosophical Significance
-
-The unity of food and farming is one of Fukuoka's most integrative insights. It breaks down the artificial separation between production and consumption that characterizes modern industrial society. In the conventional food system, the farmer grows what the market demands, the processor transforms it, the distributor ships it, and the consumer eats it -- with no awareness of the connection between the soil and the plate.
-
-Fukuoka insists that this separation is not merely logistical but spiritual. When food and farming are disconnected, both become distorted. The farmer, guided by economic signals rather than nutritional or ecological wisdom, grows what is profitable rather than what is wholesome. The consumer, alienated from the source of food, eats without understanding or gratitude. See [[fukuoka-food-spirit-united]].
+This book on [[fukuoka-food-spirit-united]].
 
 The inscription "Right Food, Right Action, Right Awareness" reframes the Buddhist Eightfold Path in agricultural terms. Right food is not merely vegetarian or organic; it is food that is grown in harmony with nature, harvested with gratitude, and consumed with awareness. Right action is farming that respects the integrity of the ecosystem. Right awareness is the understanding that these three are inseparable.
 
 ## Connection to Natural Farming Principles
 
-The mountain huts represent Fukuoka's vision of a complete way of life, not just a [[what-natural-farming-method-should-i-use]]. [[fukuoka-mu-economics-and-value-of-nothing-essay]]. The teaching is a raft to cross the river, not a possession to carry on your back. Once you understand the relationships between foods, seasons, and the human body, the mandala has served its purpose and should be discarded.
+The mountain huts represent Fukuoka's vision of a complete way of life, not just a [[fukuoka-mu-economics-and-value-of-nothing-essay]]. The teaching is a raft to cross the river, not a possession to carry on your back. Once you understand the relationships between foods, seasons, and the human body, the mandala has served its purpose and should be discarded.
 
 ## The Movement Not to Bring Anything About
 
 Fukuoka's call for a "movement not to bring anything about" is perhaps the most radical political statement in his work. In an age that measures progress by GDP growth, technological innovation, and the expansion of human control over nature, Fukuoka proposes that the highest form of action is inaction -- not passive resignation, but the deliberate choice to stop creating problems that then require solving.
 
-This connects directly to [[fukuoka-natural-diet-philosophy]]
-
-- [[fukuoka-food-spirit-united]]
-
-- [[fukuoka-natural-farming-philosophy]]
+This connects directly to [[fukuoka-food-spirit-united]]
 
 - [[fukuoka-spiritual-philosophy-farming]]
 
-- [[one-straw-revolution-philosophy]] (What is Human Food? section)
-**Updated:** 2026-04-18
-
-## The Unity of Food and Medicine
-
-Fukuoka observed that food and medicine are not two different things: they are the front and back of one body. Edible herbs and wild vegetables, plants growing on the mountain and in the meadow, are very high in nutritional value and are also useful as medicine. Chemically grown vegetables may be eaten for food, but they cannot be used as medicine.
-
-## The Seven Herbs of Spring
-
-When you gather and eat the seven herbs of spring (Watercress, shepherd's purse, wild turnip, cottonweed, chickweed, wild radish, and bee nettle), your spirit becomes gentle. And when you eat bracken shoots, osmund and shepherd's purse, you become calm. To calm restless, impatient feelings, shepherd's purse is the best of all.
-
-They say that if children eat shepherd's purse, willow buds or insects living in trees, this will cure violent crying tantrums, and in the old days children were often made to eat them.
-
-## Daikon: The Herb That Softens
-
-Daikon (Japanese radish) has for its ancestor the plant called nazuna (shepherd's purse), and this word nazuna is related to the word nagomu, which means to be softened. Daikon is the "herb that softens one's disposition."
-
-In Fukuoka's orchard, he planted Japanese radish (daikon) for soil restoration. Its roots penetrate deeply into the soil, adding [[hamilton-composting-and-organic-matter-management]] and opening channels for air and water circulation. The daikon that grows semi-wild on the mountainside develops a tart, slightly bitter flavour that Fukuoka believed to be that of its original wild predecessors.
+- [[hamilton-composting-and-organic-matter-management]] and opening channels for air and water circulation. The daikon that grows semi-wild on the mountainside develops a tart, slightly bitter flavour that Fukuoka believed to be that of its original wild predecessors.
 
 ## Wild Insects as Food
 
-Among [[holmgren-wild-foods-and-marginal-systems]], insects are often overlooked. During the war, Fukuoka was assigned to determine what insects in [[psilocybe-southeast-asia-pacific]] could be eaten. He was amazed to discover that almost any insect is edible:
-- Lice, ground up and eaten with [[direct-seeded-no-tillage-rice-winter-grain-succession]], are a remedy for epilepsy
-- Fleas are a medicine for frostbite
-- All insect larvae are quite edible, but they must be alive
-- Old texts describe "delicacies" prepared from maggots from the outhouse
-- The flavour of the familiar silkworm was said to be exquisite beyond compare
-- Even moths, if you shake the powder off their wings first, are very tasty
-
-So, whether from the standpoint of flavour or from the standpoint of health, many things which people consider repulsive are actually quite tasty and also good for the human body.
-
-## The Principle of Proximity
-
-The foods that are nearby are best for human beings, and things that one has to struggle to obtain turn out to be the least beneficial of all. If the farmers who live in the village eat only the foods that can be grown or gathered here, there will be no mistake.
-
-Fukuoka concluded that one ends up with the best food by eating [[cho-brown-rice-vinegar-preparation]] and unpolished barley, millet, and buckwheat, together with the seasonal plants and semi-wild vegetables. This food has flavour and is good for the body.
+Among [[psilocybe-southeast-asia-pacific]] could be eaten. He was amazed to discover that almost any insect is edible:
+- Lice, ground up and eaten with [[cho-brown-rice-vinegar-preparation]] and unpolished barley, millet, and buckwheat, together with the seasonal plants and semi-wild vegetables. This food has flavour and is good for the body.
 
 ## Vegetables Closest to Wild Ancestors
 
@@ -110,8 +70,81 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[natural-farming-principles]]
 - [[natural-farming]]
-- [[herbal-medicine]]
 - [[dom]]
 - [[det]]
+
+## Overview
+
+Fukuoka Food Farming Unity represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish fukuoka food farming unity
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving fukuoka extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Fukuoka Food Farming Unity finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for fukuoka food farming unity. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+fukuoka food farming unity and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Fukuoka Food Farming Unity has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of fukuoka food farming unity into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and

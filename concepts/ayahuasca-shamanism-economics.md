@@ -9,29 +9,9 @@ created: 2026-05-09
 
 The economics of ayahuasca shamanism in Peru reveal a complex intersection of
 traditional spiritual practice, international tourism, and significant income
-disparities. As [[stuart-r-ayahuasca-tourism-cautionary-ethnography]] has grown into a thriving industry, the
-economic relationships between foreign visitors and local practitioners have
-created both opportunities and tensions within Amazonian communities.
-
-## The Income Divide
-
-The most striking economic feature of [[ayahuasca-tourism]] is the enormous
+disparities. As [[ayahuasca-tourism]] is the enormous
 income differential between shamans who serve foreign tourists and the
-surrounding local population. One practitioner in the [[ayahuasquero-practitioner-profiles-ethics-ucayali-region]] was
-reported to earn a couple hundred dollars per month from catering to tourists
-— a substantial income by local standards — while his neighbors could not
-afford a thirty-cent taxi ride.
-
-The price gap between tourist and local ceremonies is dramatic. A shaman
-might charge approximately thirty dollars to administer ayahuasca to a foreign
-tourist, while the going rate for a Peruvian national is about two dollars.
-This fifteen-fold price differential reflects both the higher purchasing power
-of foreign visitors and the premium placed on the perceived exoticism and
-authenticity of the experience.
-
-## Commercialization of Sacred Practice
-
-The transformation of [[ayahuasca-ceremony-pharmacology-safety]] from a community and family practice
+surrounding local population. One practitioner in the [[ayahuasca-ceremony-pharmacology-safety]] from a community and family practice
 into a commercial service has fundamentally altered its character. In a
 traditional ceremony conducted solely for the benefit of the shaman's
 relatives and community, the ritual carries deep personal and social meaning.
@@ -65,14 +45,7 @@ region documented several distinct types:
 One elderly shaman, referred to as "B," hosted nightly ceremonies in a
 ceremonial hut behind his home in Yarina, near Pucallpa. His son served as
 the director of the family's religious practice and conducted workshops in
-the [[dmt-containing-plants-united-states-halpern]]. Despite his respected position, B was observed to be a
-frequent liar and a shoplifter who regularly asked for money or gifts from
-visitors. His case illustrates that spiritual reputation and personal
-integrity do not always align.
-
-### The Honest Practitioner
-
-In the Shipibo town of [[shipibo-san-francisco-ceremonial-center-ucayali]], a practitioner known as "E" was widely
+the [[shipibo-san-francisco-ceremonial-center-ucayali]], a practitioner known as "E" was widely
 regarded as an honorable man. At night, icaros could be heard coming from
 his home during private family ceremonies. He charged about ten dollars per
 tourist ceremony — less than the market rate — suggesting a practitioner
@@ -118,8 +91,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[ayahuasca]]
 - [[ayahuasca-tourism]]
-- [[shamanism]]
 - [[doc]]
 - [[icaros]]

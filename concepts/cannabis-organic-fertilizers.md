@@ -13,45 +13,18 @@ tags: [cannabis, fertilizer]
 
 ## Overview
 
-Organically grown cannabis has a sweeter taste, but implementing an organic indoor garden requires horticultural know-how. Organic fertilizers are most often defined as containing substances with a carbon molecule or a natural unaltered substance such as ground-up rocks. Indoor and outdoor crops grown in less than 90 days may not have time to wait for [[organic-nutrients-vs-synthetic-nutrients]] to be broken down.
-
-## Benefits of Organic Fertilizers
-
-- Produce a sweeter taste in harvested buds
-- More consistently available when used in combination
-- Somewhat difficult to over-apply
-- Support beneficial microbial activity in soil
-- [[query-how-do-fungi-improve-soil-structure]] and water-holding ability
+Organically grown cannabis has a sweeter taste, but implementing an organic indoor garden requires horticultural know-how. Organic fertilizers are most often defined as containing substances with a carbon molecule or a natural unaltered substance such as ground-up rocks. Indoor and outdoor crops grown in less than 90 days may not have time to wait for [[query-how-do-fungi-improve-soil-structure]] and water-holding ability
 - Organic nutrients bring out a sweet organic taste in buds
 
 ## Common Organic Fertilizer Sources
 
 ### Nitrogen Sources
 
-- **Seabird guano** -- High in nitrogen, collected from arid sea islands; [[chiric-caspi-brunfelsia-south-american-hallucinogen]] guano is considered the world's best
-- **Bat guano** -- Rich in soluble nitrogen, phosphorus, [[teaming-with-nutrients-micronutrients-and-trace-elements]]; newer deposits are high in nitrogen (can burn if over-applied); older deposits are high in phosphorus
+- **Seabird guano** -- High in nitrogen, collected from arid sea islands; [[teaming-with-nutrients-micronutrients-and-trace-elements]]; newer deposits are high in nitrogen (can burn if over-applied); older deposits are high in phosphorus
 - **Fish emulsion** -- Fast-acting soluble nitrogen source
 - **Blood meal** -- High-nitrogen organic fertilizer
 - **Hoof and horn meal** -- Slow-release nitrogen (6-15% N), apply 2-3 weeks before planting
-- **[[ingham-vermicompost-worm-castings]]** -- Excellent fertilizer/amendment; about 20% worm castings mixed with other organic agents creates a strong nitrogen base
-
-### Phosphorus Sources
-
-- **Steamed bone meal** -- Organic phosphorus source; avoid bone meal that could carry disease
-- **Rock phosphate** -- Finely ground; contains over 30% phosphate but available very slowly
-- **Colloidal phosphate** -- Natural clay phosphate deposit; yields 2% phosphate by weight initially
-- **Bat guano (older deposits)** -- High in phosphorus; excellent flowering fertilizer
-
-### Potassium Sources
-
-- **Wood ashes (soluble potash)** -- High in potassium but pH above 10; adjust pH before use
-- **Seaweed meal/kelp meal** -- Packed with potassium, trace elements, vitamins, amino acids, and plant hormones
-- **Greensand** -- Iron-potassium silicate with 5-7% potash; releases over ~4 years (too slow for indoor gardens)
-- **Potash rock** -- Up to 8% potassium; releases too slowly for indoor use
-
-### Micronutrient Sources
-
-- **Kelp/seaweed** -- Contains 60-70 [[dynamic-accumulator-plants-trace-minerals]] already chelated (water-soluble and mobile in soil)
+- **[[dynamic-accumulator-plants-trace-minerals]] already chelated (water-soluble and mobile in soil)
 - **Liquid seaweed** -- Contains nitrogen, phosphorus, potash, all trace elements in chelated form, plus plant hormones
 
 ## Organic Teas (Compost Teas)
@@ -59,22 +32,7 @@ Organically grown cannabis has a sweeter taste, but implementing an organic indo
 Compost teas contain soluble organic nutrients diluted in water plus beneficial microbes:
 
 - A quarter teaspoon of well-made compost tea holds more than a billion bacteria and at least 15 feet of fungi strands
-- Contains thousands of species of protozoa, nematodes, and [[arbuscular-mycorrhizal-fungi-biology-symbiosis]]
-- Disease-causing organisms cannot compete with beneficial bacteria and fungi
-- Beneficial bacteria break down plant residues and toxic materials
-
-### Brewing Compost Tea
-
-1. Use a 5-gallon bucket with about 1 gallon of rotted compost or manure to 4 gallons of water
-2. Stir well and let sit for several days
-3. Alternatively, put sifted compost in a nylon stocking submerged in water
-4. Stir gently several times a day to integrate oxygen
-5. If it smells foul, anaerobic bacteria are present; add fresh water and stir more
-6. Ensure compost has heated to 135F (52C) for at least 3 days to kill diseases
-
-## Hydro-Organic Growing
-
-Hydro-organic growing uses an inert soilless medium with a soluble organic [[cannabis-nutrient-solution-preparation]]. Key considerations:
+- Contains thousands of species of protozoa, nematodes, and [[cannabis-nutrient-solution-preparation]]. Key considerations:
 
 - Organic nutrients must be soluble and readily available for short cannabis crops
 - An exact balance requires constant experimentation
@@ -86,8 +44,7 @@ Hydro-organic growing uses an inert soilless medium with a soluble organic [[can
 
 ## Flushing Organic Gardens
 
-- Soluble organic fertilizers are fairly easy to flush from [[cervantes-green-algae-growing-medium]]
-- Like [[cervantes-chemical-fertilizers-guide]], organic fertilizers build to toxic levels
+- Soluble organic fertilizers are fairly easy to flush from [[cervantes-chemical-fertilizers-guide]], organic fertilizers build to toxic levels
 
 ## Practical Applications
 
@@ -118,8 +75,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[trichoderma]]
 - [[mycorrhiza]]
-- [[hamilton-geoffhamilton-nick-organic-gardening-organic-fertilizers]]
 - [[hamilton-organic-fertilizers-and-plant-nutrition]]
 - [[cannabis-chemical-fertilizers]]

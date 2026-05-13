@@ -68,15 +68,7 @@ permaculture integrates them into the broader farm ecosystem so that each
 species contributes multiple functions: fertility cycling through manure,
 pest control through foraging, vegetation management through grazing or
 rooting, and soil cultivation through scratching and trampling. This
-"[[gaias-garden-stacking-functions-detailed]]" approach means that a single flock of chickens
-simultaneously produces eggs, fertilizes garden beds, consumes insect pests,
-processes kitchen scraps, and prepares seedbeds for planting. The result is
-a system where animals reduce labor and input costs rather than simply adding
-to them.
-
-Successful small-farm livestock management requires knowledge across several
-disciplines: animal nutrition and feeding, breeding and genetics, health and
-[[cervantes-pest-disease-prevention-overview]], fencing and housing infrastructure, pasture ecology, and
+"[[cervantes-pest-disease-prevention-overview]], fencing and housing infrastructure, pasture ecology, and
 the practical skills of slaughter and meat processing. It also demands
 seasonal awareness, as the needs of animals and the productivity of pastures
 fluctuate dramatically across the year. Perhaps most importantly, it
@@ -106,20 +98,12 @@ Australorp obtain a significant portion of their diet from free-ranging,
 reducing feed costs. Ducks complement chickens by consuming slugs, snails,
 ## See Also
 
-- [[chicken-keeping-basics]]
 - [[chicken-tractor-systems]]
 - poultry-systems-in-permaculture
-- [[duck-keeping-guide-detailed]]
 - [[rabbit-husbandry-guide]]
-- [[goat-husbandry-detailed-guide]]
-- pig-husbandry-permaculture
 - [[sheep-husbandry]]
-- [[livestock-fencing-guide]]
-- livestock-feed-management
 - [[animal-manure-guide]]
-- [[animal-tractoring]]
 - [[integrated-poultry-forage-systems-zone-two]]
-- [[pasture-management]]
 - [[animal-butcher-and-processing]]
 
 ## References
@@ -130,21 +114,6 @@ reducing feed costs. Ducks complement chickens by consuming slugs, snails,
    Chapter: Animal Tractor Systems.
 3. David Holmgren, *Permaculture: Principles and Pathways Beyond
    Sustainability*: Renewable Services and Biological Solutions.
-4. Nicole Faires, *The Ultimate Guide to [[comparison-natural-farming-vs-permaculture]] and Sustainable
-   Living*: Animal Husbandry, Processing, and Integration sections.
-5. [[comparison-chicken-keeping-vs-beekeeping-basics]] Basics. LLM Wiki concept page.
-6. [[comparison-chicken-tractor-vs-free-range]] Systems. LLM Wiki concept page.
-7. Poultry Systems in Permaculture. LLM Wiki concept page.
-8. Duck Keeping Detailed Guide. LLM Wiki concept page.
-9. Rabbit Husbandry Guide. LLM Wiki concept page.
-10. Detailed Goat Husbandry Guide. LLM Wiki concept page.
-11. Pig Husbandry in Permaculture Systems. LLM Wiki concept page.
-12. Sheep Husbandry. LLM Wiki concept page.
-13. Livestock Fencing Guide. LLM Wiki concept page.
-14. Livestock Feed Management. LLM Wiki concept page.
-15. Animal Manure Guide. LLM Wiki concept page.
-16. Animal Tractoring in Permaculture. LLM Wiki concept page.
-17. Integrated Poultry Forage Systems and Zone Two Animal Design. LLM
-    Wiki concept page.
-18. [[grassland-pasture-management-mollison]]. LLM Wiki concept page.
+4. Nicole Faires, *The Ultimate Guide to [[comparison-chicken-keeping-vs-beekeeping-basics]] Basics. LLM Wiki concept page.
+6. [[grassland-pasture-management-mollison]]. LLM Wiki concept page.
 19. Animal Butcher and Processing. LLM Wiki concept page.

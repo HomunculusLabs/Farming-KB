@@ -110,13 +110,8 @@ The Belladonna Group received the Royal Horticultural Society Award of Garden Me
 
 ## See Also
 
-- [[delphinium-elatum]]
 - [[aconitum-napellus]]
-- [[ranunculus-asiaticus]]
 - [[clematis-terniflora]]
-- [[aquilegia-caerulea]]
 - [[thalictrum-delavayi]]
-- [[consolida-ajacis]]
 - [[nigella-damascena]]
-- [[eranthis-hyemalis]]
 - [[ficaria-verna]]

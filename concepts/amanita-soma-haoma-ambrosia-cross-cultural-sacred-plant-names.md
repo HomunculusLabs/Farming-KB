@@ -8,9 +8,7 @@ type: concept
 
 ## The Indo-European Sacred Plant
 
-Across the Indo-European world, a remarkable pattern recurs: many daughter cultures independently describe a divine plant conferring immortality, consumed by gods and mortals alike. From the Vedic plains of India to the mountains of Persia and the shores of Greece, the same botanical entity appears under different names yet with strikingly consistent attributes. All descriptions point to the same plant: **[[allegro-amanita-muscaria-properties-and-pharmacology]]**, the iconic red-and-white fly agaric mushroom.
-
-This plant was central to prehistoric Indo-European religion before the [[amanita-indo-european-language-family-ancient-world-view]] split approximately 3000–4000 BCE. The proto-Indo-European speakers who ranged across the Eurasian steppe shared a common religious complex built around this sacrament. When their descendants migrated outward — eastward into Iran and India, westward into Greece and Europe — each daughter culture preserved the knowledge under different names, wrapped in local mythology but describing the same essential reality.
+Across the Indo-European world, a remarkable pattern recurs: many daughter cultures independently describe a divine plant conferring immortality, consumed by gods and mortals alike. From the Vedic plains of India to the mountains of Persia and the shores of Greece, the same botanical entity appears under different names yet with strikingly consistent attributes. All descriptions point to the same plant: **[[amanita-indo-european-language-family-ancient-world-view]] split approximately 3000–4000 BCE. The proto-Indo-European speakers who ranged across the Eurasian steppe shared a common religious complex built around this sacrament. When their descendants migrated outward — eastward into Iran and India, westward into Greece and Europe — each daughter culture preserved the knowledge under different names, wrapped in local mythology but describing the same essential reality.
 
 The breadth and consistency of these accounts is extraordinary. No other candidate plant satisfies the descriptions given across all these traditions simultaneously. The cross-cultural pattern itself is among the strongest evidence for the identification.
 
@@ -45,7 +43,7 @@ Zoroastrian texts describe Haoma as:
 
 These descriptions are preserved primarily in the **Yasna**, the central liturgical text of Zoroastrianism, where Haoma is invoked alongside fire and water as a pillar of creation.
 
-Both Soma and Haoma ceremonies involved the pressing and extracting of the plant through ritual pounding — a [[pf-tek-substrate-formula-and-jar-preparation-method]] that, applied to Amanita muscaria, yields the psychoactive compounds in a form suitable for consumption while reducing toxic [[amanita-muscaria-and-ibotenic-acid-containing-fungi]] through conversion to muscimol.
+Both Soma and Haoma ceremonies involved the pressing and extracting of the plant through ritual pounding — a [[amanita-muscaria-and-ibotenic-acid-containing-fungi]] through conversion to muscimol.
 
 ## Ambrosia / Ambrose (Greek)
 
@@ -71,28 +69,13 @@ Dionysus occupies a unique position in this framework: he is **simultaneously a 
 
 Dionysus is the god of **wine, ecstasy, ritual madness, and theater**. His cult involved ecstatic rites performed by the Maenads (or Bacchantes) — female devotees who danced themselves into states of divine possession. The descriptions of their behavior — wild dancing, prophetic utterance, visions, communion with the divine — closely parallel accounts of Amanita muscaria intoxication.
 
-His mythology includes themes of **[[allegro-death-and-resurrection-in-the-mushroom-cult]]**, matching the mushroom's seasonal cycle. Dionysus is born, is torn apart, and is reborn — just as the mushroom appears after rain, is harvested and consumed, and returns with the next season. The god's dual nature — destroyer and preserver, madness and inspiration — reflects the mushroom's own capacity for both toxic delirium and transcendent vision.
-
-The name itself invites interpretation. **Dionysus** can be read etymologically as relating to "son of God" or "the divine one" in Greek — a title that, combined with the death-and-resurrection narrative, carries unmistakable parallels to later religious traditions.
-
-## Unified Identification
-
-All five names — **Soma, Haoma, Ambrosia, Nectar, and Dionysus** — describe the same plant, Amanita muscaria, preserved in different Indo-European languages across thousands of years and thousands of miles. The identification rests not on any single piece of evidence but on the convergence of multiple independent traditions:
-
-- Botanical descriptions match (color, habitat, preparation)
-- Ritual procedures match (pressing, filtering, communal consumption)
-- Theological claims match (immortality, divine communion, death-overcoming)
-- Etymological roots are consistent across languages
-
-This unified identification resolves centuries of scholarly debate about what Soma "really was." Since the 18th century, Indologists have proposed dozens of candidates — ephedra, cannabis, [[golden-guide-syrian-rue-and-maoi-plants]], various unidentified herbs — none of which satisfies all the Vedic descriptions simultaneously. Amanita muscaria satisfies them all, and the cross-cultural parallels provide external confirmation that no other candidate can offer.
+His mythology includes themes of **[[golden-guide-syrian-rue-and-maoi-plants]], various unidentified herbs — none of which satisfies all the Vedic descriptions simultaneously. Amanita muscaria satisfies them all, and the cross-cultural parallels provide external confirmation that no other candidate can offer.
 
 The cross-cultural consistency provides mutual confirmation. If Soma alone were identified with Amanita muscaria, skepticism would be reasonable. But when Ambrosia independently describes the same substance with the same attributes, and Nectar's etymology encodes the same promise, and Dionysus preserves the same ritual and mythological complex — the identification becomes stronger than any single-culture argument could ever be. The pattern is the evidence.
 
 ## See Also
 
-- [[amanita-muscaria-herb-of-immortality-soma-discovery]] — primary source analysis
 - [[amanita-indo-european-language-family-ancient-world-view]]
-- [[soma]]
 - [[shamanism-death-and-rebirth]]
 
 ## Practical Applications
@@ -124,8 +107,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[amanita-muscaria]]
 - [[amanita]]
-- [[soma]]
 - [[rig-veda]]
 - [[fly-agaric]]

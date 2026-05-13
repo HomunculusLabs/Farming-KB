@@ -10,19 +10,12 @@ type: concept
 
 # Set and Setting
 
-Set and setting is a foundational concept in [[metzner-psycholytic-psychedelic-therapy-models]] and drug
-research that describes how the psychological and environmental context of a
-[[leary-psychedelic-experience-bardo-mapping]] profoundly shapes its content, quality, and outcomes.
-First articulated by [[harm-reduction-guide]]
-- [[entheogen-culture]]
-
-- [[psychedelic-integration-practices]]
+Set and setting is a foundational concept in [[leary-psychedelic-experience-bardo-mapping]] profoundly shapes its content, quality, and outcomes.
+First articulated by [[entheogen-culture]]
 
 - [[psychedelic-mushroom-set-and-setting]]
-- [[set-and-setting-eleusinian-initiation-methodology]]
 - [[weil-psychedelic-experience-set-and-setting]]
 
-- [[hallucinogenic-drugs]]
 - [[mystical-experience]]
 ## Practical Applications
 

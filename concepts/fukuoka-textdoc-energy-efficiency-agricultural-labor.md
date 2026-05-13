@@ -19,27 +19,11 @@ type: concept
 
 # Natural Farming Energy Efficiency and Agricultural Labor
 
-Fukuoka presented a detailed analysis of the energy efficiency of different [[natural-farming-methods-comparison]], arguing that natural farming is the most productive form of agriculture when measured by the ratio of food energy produced to human labor energy invested.
-
-His analysis challenged the conventional assumption that mechanization and [[fukuoka-critique-scientific-agriculture-civilization]] increase efficiency, demonstrating instead that they represent an exponential increase in energy waste and the progressive alienation of the farmer from the land.
+Fukuoka presented a detailed analysis of the energy efficiency of different [[fukuoka-critique-scientific-agriculture-civilization]] increase efficiency, demonstrating instead that they represent an exponential increase in energy waste and the progressive alienation of the farmer from the land.
 
 ## The Five-Method Energy Comparison
 
-Fukuoka compared five methods of [[fukuoka-energy-analysis-rice-production-natural-vs-mechanized]]:
-
-natural farming, farming with the help of animals, and lightly, moderately, and heavily mechanized agriculture.
-
-Natural farming requires only one man-day of labor to recover 130 pounds of rice, or 200,000 kilocalories of food energy, from a quarter-acre of land.
-
-The energy input needed to recover this from the land is the 2,000 kilocalories required to feed one farmer for one day.
-
-Cultivation with horses or oxen requires an energy input five to ten times as great, and mechanized agriculture calls for an input of from ten to fifty times as much energy.
-
-Since the efficiency of rice production is inversely proportional to the energy input, "[[critique-of-scientific-agriculture]] requires an energy expenditure per unit of food produced up to fifty times that [[four-principles-of-natural-farming]]."
-
-## The Hermit's Diet: Empirical Evidence
-
-Fukuoka reported observations from young people living in the mud-walled huts of his [[fukuoka-citrus-orchard-establishment-bare-hillside]].
+Fukuoka compared five methods of [[critique-of-scientific-agriculture]] requires an energy expenditure per unit of food produced up to fifty times that [[fukuoka-citrus-orchard-establishment-bare-hillside]].
 
 Their minimum daily calorie requirement was approximately 1,000 calories on a "hermit's diet" of brown rice with sesame seeds and salt, and 1,500 calories on a diet of brown rice and vegetables.
 
@@ -63,7 +47,7 @@ The farmer who once worked directly with nature was transformed into an operator
 
 ## The Livestock Energy Trap
 
-Fukuoka extended his analysis to [[fukuoka-textdoc-natural-livestock-farming-open-grazing]], which he described as fundamentally flawed in terms of [[fukuoka-textdoc-natural-livestock-caloric-efficiency]].
+Fukuoka extended his analysis to [[fukuoka-textdoc-natural-livestock-caloric-efficiency]].
 
 Someone must work at least twice as hard to eat eggs and milk rather than grains and vegetables.
 
@@ -118,8 +102,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[doc]]
 - [[det]]
-- [[natural-farming]]
 - [[fukuoka-textdoc-energy-efficiency-caloric-accounting]]
 - [[fukuoka-textdoc-energy-efficiency-natural-farming]]

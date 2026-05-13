@@ -2,20 +2,12 @@
 
 ## Overview
 
-The synthesis of psilocybin from [[psilocin]] requires the introduction of a
-phosphate ester group at the 4-hydroxy position of the [[indole]] ring. This
+The synthesis of psilocybin from [[indole]] ring. This
 phosphorylation step has historically been the most challenging aspect of
 psilocybin synthesis due to difficulties in regioselectivity, purification,
 and yield. Shirota, Hakamata, and Goda (2003) identified the tetrabenzyl-
 pyrophosphate method as the most practical approach for large-scale
-synthesis, leading to the discovery of a novel [[psilocybin-phosphorylation-via-zwitterionic-intermediate]]
-that dramatically simplified the purification process.
-
-## The Phosphorylation Challenge
-
-Converting psilocin to psilocybin requires phosphorylation of the 4-hydroxy
-group while preserving the sensitive indole ring and the N,N-dimethylamine
-[[shirota-glyoxalylamide-side-chain-construction-psilocin-synthesis]]. Several phosphorylation methodologies were evaluated by the
+synthesis, leading to the discovery of a novel [[shirota-glyoxalylamide-side-chain-construction-psilocin-synthesis]]. Several phosphorylation methodologies were evaluated by the
 researchers:
 
 ### Methods That Failed

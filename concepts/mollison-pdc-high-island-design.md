@@ -2,9 +2,7 @@
 title: Mollison Pdc High Island Design
 created: 2026-04-28
 tags:
-  - [[permaculture]]
-  - islands
-  - [[watershed-management]]
+  - watershed-management
   - keyline
   - mollison-pdc
 date: 2026-04-25
@@ -15,70 +13,7 @@ sources:
 type: concept
 ---
 
-# High [[permaculture-design]]. The Ohana system followed natural
-volcanic runoff patterns and river systems, dividing land from mountain
-ridge to surrounding reef:
-
-- Land division followed ridges between valleys, controlling the entire
-  watershed from origin to sea
-- The system included the section of lagoon between shoreline and river,
-  extending over the reef
-- "It was a good division, arrived at after a whole series of
-  extinctions and reinvasions, over some thousands of years"
-
-## Keyline Terracing
-
-The Hawaiians independently invented the keyline system:
-
-- Massive stonewalls were built at the keyline, leading water from
-  upper valleys out to ridges
-- Water was taken back to valleys and out to ridges at lower levels,
-  then back again -- their taro lands
-- These keyline systems still exist; some are cyclopean, built of
-  enormous stones
-- They were forested from keyline up, with foot traffic confined to
-  ridge tops
-- Forests were taboo areas as the source of water, used carefully for
-  essential purposes
-
-## Nutrient Cycling to the Sea
-
-The Ohana system managed the complete nutrient flow from mountain to
-sea:
-
-- Where human and forest nutrients reached the sea, the area was
-  enclosed with rock wall
-- Within three days, the sea would grab all nutrients and fix them as
-  algae
-- In enclosed ponds, they raised millions of pounds of mullet
-- Back on the hillside in paddy fields, the process started again
-- "That quite stable ecology supported many thousands of people"
-
-Mollison notes this system was destroyed by missionaries, cattle, and
-disease. The whole nutrient flow now goes to sea, fish traps filled
-with earth, and production is declining rapidly.
-
-## House Siting on High Islands
-
-Oceanic islands experience tidal waves periodically (every 12-15 years).
-The PDC provides critical house-siting rules:
-
-- Valleys with no offshore reef act as funnels, accelerating tidal waves
-  -- never settle in lower valley floors
-- At the first elevation on a sub-ridge within a major valley, you are
-  safe from tidal waves (which penetrate about half mile inland)
-- The Hawaiians perched homes off the valley floor on valley sides,
-  safe from volcanic mud flows that can descend at 400 miles per hour
-- Where a fringing reef exists, a twelve-foot wave replaces a
-  hundred-foot wave -- Europeans settled dangerously close to coast
-- Coconut trees significantly decrease wave velocity up valleys
-
-## Dryland Techniques
-
-On exposed dry sites, Hawaiians used tiny rock walls in intricate
-cross-wind patterns, sometimes only ten feet apart:
-
-- Behind these walls they grew dryland crops like [[comparison-cassava-vs-taro-vs-sweet-potato-vs-yam]]
+# High [[comparison-cassava-vs-taro-vs-sweet-potato-vs-yam]]
 - A dryland fern was grown for mulch
 - These patterns are "all over the landscape" and recognizable with a
   permaculture eye
@@ -90,8 +25,91 @@ cross-wind patterns, sometimes only ten feet apart:
 Fringing coral reefs disappear opposite streams on tropical islands
 
 ## See Also
-- [[permaculture]]
 - [[mollison-designers-high-island-and-tropical-valley-design]]
-- [[mollison-pdc-low-island-design]]
 - [[mollison-pdc-small-pond-frog-habitat-design]]
 - [[mollison-pdc-design-report-methodology]]
+
+## Overview
+
+Mollison Pdc High Island Design represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish mollison pdc high island design
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving mollison extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Mollison Pdc High Island Design finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for mollison pdc high island design. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+mollison pdc high island design and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Mollison Pdc High Island Design has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of mollison pdc high island design into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[hypnodinium-mollison]]
+- [[mollison-arid-lands-aquatic-species]]
+- [[mollison-orographic-and-forest-rainfall-effects]]
+- [[mollison-spiral-patterns-in-nature-and-design]]
+- [[soil-ph-nutrient-availability-mollison]]

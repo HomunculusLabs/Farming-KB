@@ -1,51 +1,17 @@
 # Year-Round Marketing Calendar
 
-[[community-supported-agriculture-csa]] Agriculture programs are particularly well-suited
-to winter production. Coleman has developed several CSA models for the
-off-season:
-- **Extended-season CSA:** A single program that runs continuously
-  from spring through winter, with the share composition shifting to
-  reflect seasonal availability.
-- **Winter-only CSA:** A separate, shorter CSA program running from
-  November through March, focusing exclusively on [[coleman-semi-hibernating-winter-crops-harvest-extension]].
+[[coleman-semi-hibernating-winter-crops-harvest-extension]].
 - **Market-style winter shares:** Members receive a credit or
   selection card to use at winter farmers' markets or farm stands.
 
 Winter CSA shares typically consist of salad greens, cooking greens,
-[[coleman-mache-and-specialty-winter-greens]] should be priced higher
-  than summer equivalents to reflect [[fukuoka-textdoc-increased-production-not-increased-yields]] costs.
+[[fukuoka-textdoc-increased-production-not-increased-yields]] costs.
   Customers understand and accept this premium in exchange for
   freshness and local sourcing.
 - **Volume discounts for committed customers:** CSA members receive
   better per-unit pricing than occasional market buyers, rewarding
   commitment and providing stable cash flow.
-- **Restaurant pricing:** Chefs value [[coleman-winter-greens-nutritional-quality-cold-sweetening]] highly and will
-  pay premium prices for consistent supply and quality. Restaurant
-  accounts provide stable, predictable demand.
-
-## Restaurant Relationships
-
-Coleman has long maintained relationships with high-end restaurants
-that value locally grown winter produce. These relationships offer
-several advantages:
-- **Predictable demand:** Restaurants order the same items weekly,
-  making production planning more reliable.
-- **Higher price points:** Restaurant pricing typically exceeds
-  retail farmers' market prices.
-- **Willingness to try new items:** Chefs are often eager to
-  experiment with unusual winter greens like mache, minutina, and
-  claytonia that may be unfamiliar to retail customers.
-- **Consistency over volume:** Restaurants value a reliable supply
-  of moderate quantities more than occasional large volumes.
-
-Building restaurant relationships requires consistent quality,
-reliable delivery, and willingness to communicate about availability.
-Coleman recommends starting with one or two chef accounts and
-expanding as production capacity allows.
-
-## Succession for Continuous Supply
-
-The [[succession-planting]] ensures that as one planting is exhausted,
+- **Restaurant pricing:** Chefs value [[succession-planting]] ensures that as one planting is exhausted,
 another is reaching peak production.
 
 Coleman tracks the harvest life of each planting and uses this data
@@ -57,10 +23,7 @@ program.
 
 ## Farmers' Market Presence
 
-Winter farmers' markets are growing rapidly across [[psilocybin-north-america-pacific-northwest]].
-Coleman was an early advocate for extending market seasons into the
-winter months. His presence at winter markets with fresh greens and
-[[growing-root-vegetables-guide]] draws customers who would otherwise not attend.
+Winter farmers' markets are growing rapidly across [[growing-root-vegetables-guide]] draws customers who would otherwise not attend.
 
 Display is critical at winter markets. Coleman's farm presents
 winter greens in attractive bunches and mixes, often with samples
@@ -70,31 +33,9 @@ and serves as its own marketing tool.
 
 ## Building Customer Loyalty Through Education
 
-Coleman educates customers about the [[coleman-claytonia-winter-harvest-cultivation]] system through
-farm newsletters, website content, and direct conversation. When
-customers understand the technology and effort behind winter
-production — the high tunnels, [[square-foot-gardening]] due to premium pricing and reduced competition.
-This economic model makes [[small-scale-dairy-guide]] farming viable without
-off-farm income and supports investment in infrastructure like the
-
-## Practical Applications
-
-The principles outlined here find application across multiple domains including research, education, and practical implementation. Understanding the underlying mechanisms enables more effective application in real-world scenarios.
-
-## Key Considerations
-
-When applying these concepts, several factors warrant attention: environmental conditions, resource availability, and long-term sustainability goals. Success depends on careful observation and adaptive management based on feedback from the system.
-
-## Key Considerations
-
-When applying these concepts, consider regional variations, available resources, and long-term sustainability. Adaptation to local conditions and continuous learning from both successes and failures are essential for meaningful progress.
-
-## See Also
-
-- [[coleman-year-round-intensive-cropping-bed-management]]
-- [[coleman-marketing-fresh-local-philosophy]]
+Coleman educates customers about the [[square-foot-gardening]] due to premium pricing and reduced competition.
+This economic model makes [[coleman-year-round-intensive-cropping-bed-management]]
 - [[coleman-marketing-economics]]
-- [[coleman-direct-marketing-and-csa-models]]
 - [[small-farm-business-and-marketing]]
 
 ## See Also
@@ -114,8 +55,91 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[doc]]
 - [[psilocybin]]
-- [[dom]]
 - [[coleman-year-round-intensive-cropping-bed-management]]
 - [[winter-harvest-scheduling-year-round]]
+
+## Overview
+
+Coleman Year Round Marketing Calendar represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish coleman year round marketing calendar
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving coleman extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Coleman Year Round Marketing Calendar finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for coleman year round marketing calendar. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+coleman year round marketing calendar and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Coleman Year Round Marketing Calendar has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of coleman year round marketing calendar into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[coleman-overwintered-onions-and-early-spring-crops]]
+- [[coleman-rolling-greenhouse-wheel-rail-design]]
+- [[coleman-winter-harvest-greenhouse-temperature-management]]
+- [[coleman-wire-wicket-row-covers-protective-cultivation]]
+- [[eliot-coleman]]

@@ -2,7 +2,7 @@
 
 ## Overview
 
-Beeswax candles are made from the wax produced by [[comparison-honey-bees-vs-native-solitary-bees]] (Apis mellifera) to construct their honeycomb. Beeswax is one of the oldest and finest candle-making materials, prized for its clean burn, natural honey scent, long burn time, and drip resistance. Unlike paraffin (a petroleum byproduct), beeswax is a completely natural, renewable product that produces negative ions when burned, which some research suggests can help neutralize airborne pollutants, dust, and allergens. For beekeepers and homesteaders, beeswax candle making converts wax cappings and old comb from [[honey-extraction-and-processing]] into a valuable, practical product.
+Beeswax candles are made from the wax produced by [[honey-extraction-and-processing]] into a valuable, practical product.
 
 ## Properties of Beeswax
 
@@ -14,25 +14,13 @@ Beeswax has unique physical and chemical properties that make it an excellent ca
 - **Scent**: Natural beeswax has a characteristic warm honey scent. The intensity varies with wax color and source. Lighter wax has a subtler scent; darker wax has a more pronounced honey aroma
 - **Hardness**: Beeswax is relatively hard and brittle at room temperature, which contributes to excellent drip resistance and long burn times but makes it prone to cracking if bent sharply
 - **Smoke and soot**: Beeswax candles produce virtually no smoke when properly wicked. The flame is warm and slightly larger than a comparable paraffin candle
-- **Ion emission**: When burned, beeswax releases negative ions that bind to positively charged particles in the air (dust, pollen, mold spores, odors), potentially improving indoor [[cervantes-air-quality-ventilation]]. While the effect is modest compared to mechanical [[greg-green-odor-control-and-air-filtration]], it is a unique benefit of beeswax candles
+- **Ion emission**: When burned, beeswax releases negative ions that bind to positively charged particles in the air (dust, pollen, mold spores, odors), potentially improving indoor [[greg-green-odor-control-and-air-filtration]], it is a unique benefit of beeswax candles
 
 ## Sourcing Beeswax
 
 Beekeepers who extract honey produce wax cappings as a primary byproduct. These cappings are the highest-quality wax available — clean, light-colored, and aromatic. Additional wax sources include:
 
-- **Old comb**: Brood comb that has been replaced by the bees during regular [[bee-forage-hive-management-mollison]]. This wax is darker and may contain propolis and pollen residues. It produces acceptable but lower-quality candles
-- **Bur comb and brace comb**: Wax built by bees in spaces within the hive where the beekeeper does not want comb. Usually small quantities, clean, and good quality
-- **Purchased wax**: Beeswax blocks or pastilles are available from beekeeping suppliers, craft stores, and online retailers. Look for pure, unbleached beeswax. Bleached beeswax (white) has been chemically treated and may have reduced scent
-- **Quality indicators**: Good candle wax should smell of honey, be free of visible debris, and break with a clean, granular fracture. Avoid wax that smells rancid or smoky (indicates overheating during rendering)
-
-## Rendering and Cleaning Beeswax
-
-Raw wax from the hive contains honey, propolis, pollen, and debris that must be removed:
-
-1. **Melt the wax**: Place wax in a double boiler or in a container set in a water bath. Never melt wax directly over heat — beeswax is flammable and can ignite at approximately 200°C (400°F). Melt slowly at 70-80°C (158-176°F)
-2. **Strain through cheesecloth**: Pour the melted wax through fine cheesecloth or a paint strainer bag into a clean container. Multiple straining passes may be needed for very dirty wax
-3. **Water bath method**: Melt wax in a container of water. The clean wax will float to the top, and debris will sink. After cooling, the wax cake can be lifted off the water and the dirty bottom surface scraped off
-4. **Solar wax melter**: A [[comparison-passive-solar-vs-earth-sheltered]] device that uses sunlight to melt wax slowly. The melted wax flows through a filter into a collection container. This method produces the cleanest wax with the best color retention because the low temperatures avoid caramelizing honey residues
+- **Old comb**: Brood comb that has been replaced by the bees during regular [[comparison-passive-solar-vs-earth-sheltered]] device that uses sunlight to melt wax slowly. The melted wax flows through a filter into a collection container. This method produces the cleanest wax with the best color retention because the low temperatures avoid caramelizing honey residues
 5. **Re-melt and re-strain**: For very clean candle wax, repeat the melting and straining process 2-3 times. Each pass removes more impurities
 
 ## Candle Wicking for Beeswax
@@ -118,8 +106,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[candle-making]]
 - [[spore]]
-- [[silicon]]
 - [[tallow-candle-making]]
 - [[solomon-low-grade-compost-making-methods]]

@@ -1,6 +1,6 @@
 # Ayahuasca Ceremony Structure and Practice
 
-[[metzner-amazonian-ayahuasca-ceremonies-icaros-and-healing-methods]] in the [[ayahuasca-tourism-economics-peruvian-amazon]] follow a general structure that
+[[ayahuasca-tourism-economics-peruvian-amazon]] follow a general structure that
 varies depending on the tradition (Shipibo, mestizo, or other indigenous
 groups), the setting (community, tourist, or church), and the individual
 shaman's style. Despite this variation, certain elements are common across
@@ -37,39 +37,11 @@ this responsibility falls entirely on the participant.
 
 ## The Ayahuasca Brew
 
-The brew is typically prepared by boiling *[[ayahuasca-and-banisteriopsis-caapi]]* vine
-(ayahuasca) together with *[[chacruna-psychotria-viridis]]* leaves (chacruna) or
+The brew is typically prepared by boiling *[[chacruna-psychotria-viridis]]* leaves (chacruna) or
 *Diplopterys cabrerana* leaves (chaliponga) for several hours. The caapi
 vine provides harmine and harmaline (MAOIs), while the chacruna or
 chaliponga provides DMT. Some shamans add other plant ingredients such as
-toe (*[[brugmansia-suaveolens]]*) for its purgative effects or datura for
-additional visionary content.
-
-Each shaman claims a unique brewing method and insists theirs is the only
-correct preparation. In practice, the basic pharmacological components are
-consistent across traditions, though the ratios, additional ingredients, and
-brewing duration vary considerably. The brew is thick, bitter, and often
-visually dark brown or black.
-
-## Drinking the Ayahuasca
-
-The shaman serves the brew to participants one by one, typically offering
-a cup or half-cup of liquid. The first round is often the largest dose,
-with smaller refills offered later in the ceremony if needed. The taste is
-intensely bitter, and vomiting after drinking is common and considered
-therapeutic rather than problematic.
-
-In tourist ceremonies, the shaman usually starts with a conservative dose,
-erring on the side of too little rather than too much. This cautious
-approach reflects the shaman's unfamiliarity with individual tourist
-sensitivities and concerns about managing adverse reactions in a setting
-complicated by language barriers.
-
-## The Role of Icaros
-
-After participants have drunk the ayahuasca and the effects begin to
-manifest (typically 20-40 minutes after ingestion), the shaman begins
-[[metzner-shamanic-singing-icaros-rhythm-and-entrainment]]. These sacred songs are the primary vehicle of the shaman's
+toe (*[[metzner-shamanic-singing-icaros-rhythm-and-entrainment]]. These sacred songs are the primary vehicle of the shaman's
 work during the ceremony.
 
 Functions of icaros include:
@@ -117,8 +89,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[ayahuasca-ceremony]]
 - [[ayahuasca]]
-- [[harmine]]
 - [[icaros]]
 - [[icaro]]

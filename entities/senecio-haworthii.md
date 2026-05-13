@@ -109,13 +109,8 @@ It is one of the most cold-tolerant succulent Senecio species. Plants survive br
 
 ## See Also
 
-- [[senecio-articulatus]]
 - [[senecio-mandraliscae]]
-- [[crassula-ovata]]
 - [[kalanchoe-tomentosa]]
-- [[aeonium-arboreum]]
 - [[echeveria-elegans]]
-- [[cotyledon-tomentosa]]
 - [[kalanchoe-orgyalis]]
-- [[kalanchoe-blossfeldiana]]
 - [[adromischus-cristatus]]

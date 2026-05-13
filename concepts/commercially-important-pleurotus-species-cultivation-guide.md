@@ -24,16 +24,7 @@ specific conditions and target markets.
 ## Pleurotus ostreatus - The Classic Oyster
 
 *Pleurotus ostreatus* is the type species of the genus and the most widely
-cultivated oyster mushroom worldwide. It fruits in a [[query-what-is-the-ideal-temperature-range-for-growing-cannabis]] of
-10-20 degrees Celsius, making it well-suited to temperate and subtropical
-climates. Its cap colour varies from grey to white to brown depending on
-strain and growing conditions, and it typically grows in shelf-like clusters
-on dead or dying hardwood trees in nature. *P. ostreatus* has a robust,
-meaty texture and a mild, pleasant flavour that makes it popular in both
-fresh and dried markets. It is one of the most cold-tolerant oyster
-species and will fruit prolifically during winter months in temperate
-regions, providing year-round production when combined with warm-season
-species. [[stamets-biological-efficiency-yield]] on straw substrates typically ranges from
+cultivated oyster mushroom worldwide. It fruits in a [[stamets-biological-efficiency-yield]] on straw substrates typically ranges from
 50-100%, making it a reliable producer for commercial operations.
 
 ## Pleurotus pulmonarius - The Indian or Phoenix Oyster
@@ -45,10 +36,7 @@ cultivated in tropical and subtropical regions of South and Southeast
 Asia. Compared to *P. ostreatus*, it tends to have a paler cap colour,
 a finer stem, and slightly faster mycelial growth. *P. pulmonarius* is
 favoured in many developing-country cultivation programs because of its
-adaptability to a wide range of [[fungi-in-composting-and-agricultural-waste-conversion]] substrates including
-rice straw, wheat straw, and various legume residues. Its protein content
-ranges from 26-35% on a dry weight basis, making it nutritionally
-comparable to or better than many other [[fungi-cultivated-mushrooms-pathogens-competitors]].
+adaptability to a wide range of [[fungi-cultivated-mushrooms-pathogens-competitors]].
 
 ## Pleurotus sajor-caju - The Grey Oyster
 
@@ -60,18 +48,7 @@ oyster mushrooms introduced to farmers in Nepal (1984) and the
 Philippines, where it proved easy to grow on chopped straw packets and
 suitable to local climatic conditions. The species produces medium-sized,
 grey-brown fruiting bodies with a robust texture suitable for both fresh
-sale and drying. It has been widely used in [[mushroom-poverty-alleviation-developing-countries]] programs
-throughout South and Southeast Asia because of its simple cultivation
-requirements and reliable yields on locally available substrates.
-
-## Pleurotus eryngii - The King Oyster
-
-*Pleurotus eryngii*, known as the king oyster mushroom, is the largest
-species in the genus and commands premium prices in international
-markets. Its fruiting bodies can reach 15-20cm in diameter with a thick,
-meaty stem that is entirely edible, unlike the tough stems of other
-oyster species. King oysters prefer cooler temperatures (12-18 degrees
-Celsius) and are typically grown on [[oyster-mushroom-supplemented-sawdust-blocks]] substrates
+sale and drying. It has been widely used in [[oyster-mushroom-supplemented-sawdust-blocks]] substrates
 rather than straw. Their longer cultivation cycle and specific
 environmental requirements make them more challenging to grow than
 other oyster species, but the higher market value compensates for the
@@ -118,8 +95,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[pleurotus-species]]
 - [[pleurotus-cystidiosus]]
-- [[pleurotus-eryngii]]
 - [[pleurotus-ostreatus]]
 - [[pleurotus-pulmonarius]]

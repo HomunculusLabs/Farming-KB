@@ -82,13 +82,8 @@ Ixia maculata hybridizes naturally with Ixia scillaris and Ixia viridiflora wher
 
 ## See Also
 
-- [[crocus-sativus]]
 - [[iris-germanica]]
-- [[gladiolus-communis]]
 - [[freesia-refracta]]
-- [[sparaxis-tricolor]]
 - [[babiana-stricta]]
-- [[watsonia-borbonica]]
 - [[dierama-pulcherrimum]]
-- [[tigridia-pavonia]]
 - [[crocosmia-lucifer]]

@@ -17,8 +17,7 @@ sources:
 
 Fitz Hugh Ludlow (1834-1870) occupies a singular position in American literary
 history as the author of *The Hasheesh Eater* (1857), the first sustained work
-of American [[history-psychedelics-ancient]] literature. Writing decades before the
-wider European fascination with [[harner-shamanic-journey-and-altered-states]] reached American shores, Ludlow
+of American [[harner-shamanic-journey-and-altered-states]] reached American shores, Ludlow
 created a tradition of pharmo-picaresque literature that would later find
 practitioners in William S. Burroughs and Hunter S. Thompson. His work stands
 as a bridge between Romantic-era explorations of consciousness and the modern
@@ -38,8 +37,7 @@ student tea gathering, where the effects arrived without warning:
 Unlike modern cannabis consumers who predominantly smoke the plant, Ludlow and
 his nineteenth-century contemporaries consumed hashish exclusively through edible
 preparations. These confections, imported from the Middle East, included
-dawamesc -- a jellied [[lemon-cannabis-alchemy-hashish-preparation]] of Algerian origin -- and ganja
-preparations from India. This method of ingestion, as [[terence-mckenna]] noted,
+dawamesc -- a jellied [[terence-mckenna]] noted,
 turned hashish into "a powerful engine for the exploration of inner vistas of
 fantasy and awareness," producing experiences of far greater intensity than
 typically associated with smoked cannabis. The visions left no doubt among
@@ -79,12 +77,4 @@ description that would deeply influence Ludlow.
 
 Both Taylor and Ludlow followed the example of English opium habitués,
 particularly Samuel Taylor Coleridge and Thomas De Quincey, whose *Confessions
-of an English Opium-Eater* (1821) established the template for [[mckenna-de-quincey-birth-of-drug-literature]]
-in English. The American hashish writers adopted what McKenna termed the "joys
-and horrors" style, yet forged a distinctively American voice -- more
-exuberant, more democratic, and more inclined toward transcendental optimism.
-
-## The Club des Hachischins: Parisian Precedents
-
-The American hashish literary tradition was foreshadowed by the Parisian
-[[mckenna-club-des-hachischins-nineteenth-century-literary-hashish]], the famous hashish circle of the 1840s. Founded by French
+of an English Opium-Eater* (1821) established the template for [[mckenna-club-des-hachischins-nineteenth-century-literary-hashish]], the famous hashish circle of the 1840s. Founded by French

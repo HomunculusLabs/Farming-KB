@@ -23,43 +23,7 @@ Ascomycotina, order Clavicipitales. In the comprehensive checklist of
 neurotropic fungi compiled by Guzmán, Allen, and Gartz (1998), these two
 Cordyceps species are listed alongside five species of Claviceps in the
 ergot group of neurotropic fungi. The genus Cordyceps is closely related
-taxonomically to [[bloomfield-ergot-claviceps-purpurea-ergotism]], the famous ergot fungus that produces
-hallucinogenic alkaloids including ergotamine and lysergic acid amide
-(LSA).
-
-## Indigenous Names and Usage
-
-The indigenous peoples of the Nevado de Toluca region of Mexico call these
-two Cordyceps species by distinctive names:
-
-- **Cordyceps capitata** is called "hombrecitos" (little men)
-- **Cordyceps ophioglossoides** is called "mujercitas" (little women)
-
-These names reflect the anthropomorphic appearance of the fruiting bodies,
-which consist of a club-shaped stroma emerging from a subterranean host
-fungus. The pairing of male and female names suggests a complementary
-duality in their ceremonial use, paralleling similar gendered pairings
-found in other Mesoamerican entheogenic traditions.
-
-## Ceremonial Context
-
-The Cordyceps species are used in special nocturnal ceremonies in the
-center of the ceremonial room. They may be eaten either together with
-Psilocybe muliercula or consumed alone. The ceremonies are structured
-rituals with specific roles for each element:
-
-1. The Cordyceps specimens serve as one of the psychoactive elements.
-2. Psilocybe muliercula, another neurotropic species from the region,
-   may be combined with the Cordyceps.
-3. A specimen of Elaphomyces (the host genus) is placed in the center
-   of the ceremonial room as the "director" of the ceremony.
-
-## Elaphomyces: The Ceremony Director
-
-Elaphomyces species serve as the host organisms for Cordyceps capitata
-and C. ophioglossoides. Three species are documented in this role:
-
-- **[[elaphomyces-granulatus]]** Fr.
+taxonomically to [[elaphomyces-granulatus]]** Fr.
 - **Elaphomyces muricatus** Fr.
 - **Elaphomyces reticulatus** Vitt.
 
@@ -98,19 +62,7 @@ indole compounds in dried fungal specimens.
 ## Relationship to Ergot Fungi (Claviceps)
 
 The inclusion of Cordyceps species alongside Claviceps in the
-[[guzman-allen-gartz-neurotropic-fungi-classification-system]] reflects their shared taxonomic
-placement in the order Clavicipitales. The Claviceps species
-considered neurotropic include:
-
-- **Claviceps purpurea** (Fr.: Fr.) Tul. — the classic ergot
-- **Claviceps nigricans** Tul.
-- **Claviceps paspali** F. Stev. & J.G. Hall
-- **Claviceps tripsicii** F. Stev. & J.G. Hall
-
-Claviceps purpurea produces ergot alkaloids including ergotamine,
-ergocristine, and lysergic acid derivatives. These compounds are
-known to produce hallucinogenic effects, and their chemical
-relationship to LSD ([[lsd-lysergic-acid-diethylamide-experience-guide]]) is well
+[[lsd-lysergic-acid-diethylamide-experience-guide]]) is well
 established. The neurotropic properties of Cordyceps may derive
 from similar ergot-like alkaloids, though this has not been
 conclusively demonstrated due to the degradation issues noted
@@ -127,10 +79,7 @@ Psilocybe species. The Cordyceps tradition represents a distinct
 and less widely known aspect of Mesoamerican ethnomycology.
 
 ## See Also
-- [[ergot-fungi-claviceps-and-cordyceps-as-neurotropic-organisms]]
 - [[cordyceps-claviceps-sacred-neurotropic-fungi-mexico]]
-- [[cordyceps-claviceps-sacred-neurotropic-mexico-ceremonies-guzman-1998]]
-
 - [[amanita-muscaria-and-ibotenic-acid-containing-fungi]] ibotenic acid-containing fungi
 - [[traditional-indigenous-use-sacred-fungi]] of sacred fungi
 - Psilocybe muliercula and Nevado de Toluca fungi

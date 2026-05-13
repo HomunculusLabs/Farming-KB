@@ -9,7 +9,7 @@ sources: []
 
 ## Overview
 
-[[query-how-to-start-a-backyard-orchard]] brings tree fruit production to the home landscape. Even small yards can support multiple fruit trees through careful planning, appropriate rootstock selection, and smart spacing. This guide covers layout principles, spacing, pollination groups, rootstock selection, and understory planting.
+A backyard orchard brings tree fruit production to the home landscape. Even small yards can support multiple fruit trees through careful planning, appropriate rootstock selection, and smart spacing. This guide covers layout principles, spacing, pollination groups, rootstock selection, and understory planting.
 
 ## Layout Principles
 
@@ -125,26 +125,26 @@ Rootstocks determine tree size, hardiness, soil adaptation, and precocity (how q
 - Medium yard: Semi-dwarf (MM106 for apples, OHxF 333 for pears)
 - Poor soil: MM111 (apples) or Lovell (peaches)
 - Cold climate: Ensure rootstock is rated for your zone
-- [[container-growing-vegetables-herbs]]: Dwarf rootstocks only
+- Container growing: Dwarf rootstocks only
 
 ## Understory Planting
 
 The space beneath and between fruit trees can be productive if designed carefully.
 
 ### What to Plant Under Trees
-- **Spring bulbs**: Daffodils, crocus, allium — bloom before trees leaf out, [[query-how-do-cover-crops-suppress-weeds]], deter rodents
-- **Comfrey**: Deep-rooted [[comparison-hyperaccumulator-vs-dynamic-accumulator]]; chop and drop for mulch. Plant at the drip line, not near the trunk
+- **Spring bulbs**: Daffodils, crocus, allium — bloom before trees leaf out, suppress weeds, deter rodents
+- **Comfrey**: Deep-rooted dynamic accumulator; chop and drop for mulch. Plant at the drip line, not near the trunk
 - **Nitrogen-fixing ground covers**: White clover, crimson clover
 - **Herbs**: Chives, garlic, chamomile — deter pests, attract pollinators
 - **Berry bushes**: Currants, gooseberries tolerate partial shade
-- **Nasturtiums**: Pest deterrent, [[comparison-scented-geraniums-vs-edible-flowers]], ground cover
+- **Nasturtiums**: Pest deterrent, edible flowers, ground cover
 
 ### What NOT to Plant Under Trees
-- Grass — competes aggressively with tree roots for water and nutrients
-- Deep-rooted vegetables — they compete with tree roots
-- Walnut-sensitive plants near walnut trees (juglone toxicity)
-- Plants requiring full sun under large-canopy trees
 
-### Ring Mulching
-- Maintain a mulched ring 3-4 feet in radius around each tree trunk
-- Keep mulch 3-4 inches away from the trunk (prevents bark rot)
+## See Also
+
+- [[comparison-backyard-food-forest-vs-urban-permaculture]]
+- [[aquaponics]]
+- [[comparison-aquaculture-in-permaculture-vs-backyard-pond-building]]
+- [[comparison-food-forest-vs-backyard-orchard]]
+- [[query-how-to-set-up-a-backyard-pond]]

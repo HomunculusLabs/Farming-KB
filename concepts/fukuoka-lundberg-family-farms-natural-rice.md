@@ -13,25 +13,11 @@ type: concept
 # Lundberg Family Farms and Natural Rice in California
 
 Lundberg Family Farms, located near Chico, California, in the Sacramento Valley,
-represents one of the most significant case studies of [[fukuoka-four-principles-natural-farming]] to the owner, Mr. Lundberg,
-the response was enthusiastic: "This is wonderful! It is a revolution!"
-
-Following this initial meeting, Lundberg took Fukuoka's words to heart in a
-tangible way. He disposed of six of his tractors and began transitioning the
-massive operation toward [[comparison-natural-farming-vs-permaculture]] methods. This act of removing
+represents one of the most significant case studies of [[comparison-natural-farming-vs-permaculture]] methods. This act of removing
 machinery was significant: it signaled a willingness to abandon the
 mechanized, energy-intensive paradigm that characterizes
-[[fukuoka-natural-farming-weed-and-insect-philosophy]]. Lundberg's calm acceptance
-of the weeds over seven years demonstrated genuine openness to letting nature
-find its own balance.
-
-This tolerance reflected a core Fukuoka principle: that [[fukuoka-living-soil]]
-by adding [[hamilton-composting-and-organic-matter-management]] and supporting microbial activity.
-
-## Yields and Productivity
-
-Despite the apparent disorder of weedy fields, Lundberg's natural rice produced
-sixteen to eighteen bushels (960 to 1,080 pounds) per [[fukuoka-agriculture-tomorrow-quarter-acre-vision]], which is
+[[fukuoka-living-soil]]
+by adding [[fukuoka-agriculture-tomorrow-quarter-acre-vision]], which is
 approximately the average yield from conventional paddies in Japan. This result
 is particularly impressive because Lundberg achieved it using large harvesting
 equipment, whereas Japanese farmers have the advantage of managing small fields
@@ -49,24 +35,17 @@ the operation was assured.
 Lundberg also demonstrated creative approaches to marketing. He combined brown,
 black, and long-grained varieties into diverse blends, appealing to consumers
 seeking variety and nutritional complexity. He expressed a firm resolve not to
-surrender to [[fukuoka-oil-companies-international-seed-war]] or the capitalists who back them, regardless of
-difficulties encountered. This stance aligned with Fukuoka's broader critique
-of [[fukuoka-quarter-acre-farmer-do-nothing-farming]] Fukuoka
+surrender to [[fukuoka-quarter-acre-farmer-do-nothing-farming]] Fukuoka
    typically advocated. While Fukuoka's ideal remained the small family farm,
    Lundberg proved that the philosophy could influence large operations.
 
 2. **Transition pathway**: It showed a viable path from conventional to
    organic to natural farming, supporting Fukuoka's belief that
-   [[fukuoka-natural-farming-global-influence]].
-
-4. **Soil vitality**: The seven-year journey showed that [[fukuoka-america-drying-up]], with
+   [[fukuoka-america-drying-up]], with
 agricultural experts and agribusiness remaining committed to the belief that
 petroleum energy, chemicals, and irrigation could compensate for declining
 natural vitality. Against this backdrop, Lundberg's success represented a
-tangible alternative and a reason for hope that [[fukuoka-natural-upland-rice-minor-grains]]
-
-- [[no-till-rice-barley-succession]]
-- [[fukuoka-critique-organic-farming-ecology]]
+tangible alternative and a reason for hope that [[no-till-rice-barley-succession]]
 - [[fukuoka-natural-farming-in-arid-regions]]
 ## Practical Considerations
 
@@ -116,8 +95,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[fukuoka-lundberg-family-farms-natural-rice-transition]]
 - [[natural-farming]]
-- [[composting]]
 - [[permaculture]]
 - [[fukuoka-lundberg-natural-rice-california]]

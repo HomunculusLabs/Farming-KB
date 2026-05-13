@@ -41,7 +41,7 @@ Quality equipment dramatically reduces contamination rates and improves yields. 
 | Pressure cooker (23qt+) | $80–200 | Sterilize grain jars, agar media, substrates | Essential. Must reach 15 PSI. All-American 941 recommended by Oss & Oeric. |
 | Pressure canner | $100–300 | Larger batches, bags of substrate | Higher capacity than standard pressure cookers |
 | Autoclave | $500–5000+ | Lab-grade sterilization | Overkill for home growers but standard for commercial spawn |
-| Microwave (for [[challenge-microorganisms-microwave-surface-sterilization]]) | Existing | Sterilize tools, small surfaces | 2.45 GHz effective against bacteria, yeasts, molds in closed systems |
+| Microwave (for surface sterilization) | Existing | Sterilize tools, small surfaces | 2.45 GHz effective against bacteria, yeasts, molds in closed systems |
 
 **Sterilization times at 15 PSI** (PF Tek at 12 PSI):
 - 1/2 pint PF jars: 20 min (12 PSI)
@@ -86,17 +86,17 @@ Based on construction guide from Luftfilterbau. Total cost: ~€304 ($320):
 | Seedling heat mat with thermostat | $20–40 | Maintain colonization temperature | 75–80°F for most species |
 | shelving unit | $30–80 | Organization | Wire shelves allow air circulation |
 | Insulated cabinet or closet | $0–50 | Temperature stability | Existing closet works; add insulation |
-| Temperature/humidity monitor | $10–30 | [[singh-fungal-biosensors-environmental-monitoring]] | Digital with min/max recording |
+| Temperature/humidity monitor | $10–30 | Environmental monitoring | Digital with min/max recording |
 
 ### Fruiting Chambers
 
 | Item | Cost | Purpose | Notes |
 |---|---|---|---|
-| SGFC ([[query-what-is-the-difference-between-a-monotub-and-a-shotgun-fruiting-chamber]]) | $10–20 | Simple fruiting | Plastic tote with drilled holes. Passive FAE + perlite humidity. |
+| SGFC (Shotgun Fruiting Chamber) | $10–20 | Simple fruiting | Plastic tote with drilled holes. Passive FAE + perlite humidity. |
 | Monotub | $15–30 | Bulk fruiting | Modified tote with polyfill-filtered holes. Self-contained. |
 | Martha tent (greenhouse) | $60–150 | High-volume fruiting | With humidifier on timer. Best for multiple species. |
 | Humidifier (ultrasonic) | $25–60 | Martha tent humidity | Use distilled water. Connect to timer or hygrostat. |
-| Perlite | $5–15 | [[passive-humidity-fruit-chamber-polyethylene-sheeting]] in SGFC | Medium grade, 2–3 inches deep |
+| Perlite | $5–15 | Passive humidity in SGFC | Medium grade, 2–3 inches deep |
 | LED light (6500K) | $10–30 | Fruiting trigger | 12/12 schedule. Indirect, not on the cultures. |
 | Small fan | $10–20 | Fresh air exchange | Low speed, pointed away from cultures |
 
@@ -122,7 +122,7 @@ Few organisms are as sensitive to environmental fluctuations as mushrooms. Essen
 - **Max-min thermometer**: Gauge temperature fluctuations
 - **Hygrometer or sling psychrometer**: Measure humidity; calibrate hygrometers periodically with psychrometer
 - **CO2 detector**: Useful but not essential — elevated CO2 indicates need for more fresh air
-- **Moisture meter**: [[pf-tek-substrate-moisture-diagnosis-and-correction]] checking
+- **Moisture meter**: Substrate moisture checking
 - **Light meter**: Verify adequate indirect light levels
 
 ## PF TEK Specific Equipment (Fanaticus)
@@ -140,11 +140,10 @@ The original PF TEK requires no pressure cooker. Complete kit:
 
 **Jar lid prep**: Punch 4 holes in lid with nail. Rubber seal faces up (rubber side touching jar mouth). Fill with substrate, wipe rim, add dry vermiculite barrier (1/2-3/4 inch), screw lid down tight.
 
-**Boil-a-Bag method (Jarrold)**: Polypropylene autoclave bags filled with substrate, sealed, and sterilized by boiling in water for 60 minutes. Alternative to jars for those without pressure canners.
+## See Also
 
-## Indoor Growing Technique Equipment (A4 Doc)
-
-Alternative indoor setup using sealed grow bags with filter patches:
-- Polypropylene grow bags with self-healing injection port and filter patch
-- Liquid culture syringes for faster colonization
-- Heat mat with thermostat for [[hamilton-greenhouse-heating-and-temperature-control]]
+- [[reishi-mushroom-cultivation-and-medicinal-properties]]
+- [[straw-based-mushroom-substrate-preparation]]
+- [[casing-soil-sterilization-versus-pasteurization-debate-mushroom-cultivation]]
+- [[straw-mushroom-cultivation]]
+- [[psilocybe-caerulescens-mazatec-sacred-mushroom-guzman-1998]]

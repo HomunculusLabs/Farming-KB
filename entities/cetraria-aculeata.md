@@ -21,9 +21,7 @@ sources:
 
 Cetraria aculeata, commonly known as the spiny Iceland lichen or hedgehog lichen, is a fruticose lichen in the family Cetrariaceae. It forms dense, intricately branched cushions with characteristic inward-curving branches that give the thallus a spiny or hedgehog-like appearance.
 
-The species is circumpolar in distribution, occurring across Arctic tundra, [[fungal-diversity-boreal-forests-taiga]], and alpine regions of the Northern Hemisphere. It is one of the most abundant terricolous (ground-dwelling) lichens in Arctic and subarctic ecosystems.
-
-Cetraria aculeata is closely related to the well-known Iceland moss (Cetraria islandica) but is distinguished by its more intricately branched, darker thallus and different chemistry. It plays important ecological roles in tundra [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] and provides winter forage for caribou and reindeer.
+The species is circumpolar in distribution, occurring across Arctic tundra, [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] and provides winter forage for caribou and reindeer.
 
 ## Taxonomy and Morphology
 
@@ -47,7 +45,7 @@ In North America, it ranges from northern Alaska across the Canadian Arctic Arch
 
 The species is primarily terricolous, growing on well-drained sandy or gravelly soils in tundra and boreal forest. It also colonizes hummocks, stone surfaces, and occasionally rotten wood in humid microsites.
 
-Cetraria aculeata is abundant in dry to mesic tundra communities, often co-dominating with Cladonia stellaris, C. rangiferina, and Stereocaulon species. It is particularly common on raised beach ridges and patterned ground features in Arctic landscapes.
+Cetraria aculeata is abundant in dry to mesic tundra communities, often co-dominating with [[cladonia-stellaris]], C. rangiferina, and Stereocaulon species. It is particularly common on raised beach ridges and patterned ground features in Arctic landscapes.
 
 Elevational range extends from near sea level in the Arctic to approximately 2500 meters in alpine regions of temperate mountain ranges. It tolerates extreme cold, desiccation, and high light exposure.
 
@@ -59,9 +57,7 @@ The species is an important winter food source for caribou (Rangifer tarandus) a
 
 As a terricolous lichen, C. aculeata influences soil development in tundra ecosystems. The thallus traps wind-blown organic particles and mineral dust, contributing to soil organic matter accumulation and surface stabilization.
 
-The species is sensitive to overgrazing by reindeer and caribou herds. Intensive grazing reduces lichen biomass and can shift [[core-endorhiza-bacterial-community-composition-cannabis]] toward less palatable or faster-growing species. Recovery from overgrazing may take decades.
-
-Cetraria aculeata is a useful bioindicator of Arctic ecosystem health. Changes in its abundance and distribution reflect long-term shifts in climate, grazing pressure, and permafrost [[psilocybin-level-stability-across-flushes]] tundra landscapes.
+The species is sensitive to overgrazing by reindeer and caribou herds. Intensive grazing reduces lichen biomass and can shift [[psilocybin-level-stability-across-flushes]] tundra landscapes.
 
 ## Chemistry and Traditional Uses
 

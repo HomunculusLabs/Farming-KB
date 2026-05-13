@@ -9,11 +9,7 @@ type: concept
 ## Overview
 
 The Agape feast and Eucharist — the central rituals of earliest Christianity — were
-sacramental ceremonies centered on the consumption of *[[allegro-amanita-muscaria-properties-and-pharmacology]]*, the
-fly agaric mushroom. Far from the symbolic bread-and-wine communion practiced in
-modern Christianity, the original Agape was a literal consumption of a
-psychoactive sacrament that produced profound spiritual experiences, genuine
-healing, [[glossolalia-and-altered-states]] of consciousness recorded in the New Testament as
+sacramental ceremonies centered on the consumption of *[[glossolalia-and-altered-states]] of consciousness recorded in the New Testament as
 miracles.
 
 ## The Agape Feast
@@ -124,27 +120,13 @@ mycelium, maintaining living cultures that could be propagated indefinitely.
 
 This sacramental wine was **Amanita-infused**, created through the careful
 preparation of mushroom material in water — not through the fermentation of
-grape juice. The [[amanita-muscaria-preparation-methods]] were likely guarded knowledge, passed
-within trusted circles from one generation of practitioners to the next.
-
-Continuous culturing was possible through **mycelium transfer**: a small portion
-of an active culture could inoculate a fresh substrate, ensuring a permanent
-supply. This is why Jesus described himself as the "true vine" (John 15:1) —
-the reference was not to grape vines but to the [[antimicrobial-compounds-mushroom-mycelium]], the living
+grape juice. The [[antimicrobial-compounds-mushroom-mycelium]], the living
 organism that bore the fruit of the sacrament. "I am the vine; you are the
-branches" described the relationship between the original [[mazatec-mushroom-culture-and-velada]]
-the daughter cultures maintained by each Christian community.
-
-## Comparison with Other Traditions
-
-The Christian Eucharist was not unique. It belongs to a family of Indo-European
-sacramental practices, all centered on the consumption of [[ceremonial-shamanic-use-psychoactive-mushrooms]]:
+branches" described the relationship between the original [[ceremonial-shamanic-use-psychoactive-mushrooms]]:
 
 | Tradition | Sacrament | Deity/Figure |
 ## See Also
 
-- [[amanita-muscaria-herb-of-immortality-soma-discovery]]
 - [[amanita-muscaria]]
-- [[amanita-muscaria-living-bread-sacrament]]
 - [[soma]]
 - [[sacred-sacrament-mushroom-rites]]

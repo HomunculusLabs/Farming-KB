@@ -12,23 +12,14 @@ This index covers plants from the letter C through E as catalogued in *Permacult
 
 ### Cacti and Succulents
 - **Cooba** (*Acacia salicina*) — pages 21, 93, 134. Drought-hardy Australian wattle used for timber, fodder, and soil stabilization in arid landscapes.
-- **Common purslane** (*Portulaca oleracea*) — page 133. Edible ground cover with high omega-3 content; useful as a salad green and living mulch.
-- **Coral tree** (*Erythrina* spp.) — page 112. Nitrogen-fixing legume tree, excellent for fodder, living fences, and green manure.
+- **Common purslane** (*[[portulaca-oleracea]]*) — page 133. Edible ground cover with high omega-3 content; useful as a salad green and living mulch.
+- **Coral tree** (*Erythrina* spp.) — page 112. Nitrogen-fixing legume tree, excellent for fodder, living fences, and [[green-manure]].
 - **Cress** — page 114. Fast-growing salad green suitable for aquatic and terrestrial cultivation.
 
 ### Coppice and Timber Species
 - **Coppice** systems are referenced extensively throughout the text (pages 18-130). The following species are specifically noted for coppice suitability: cooba (21), crested wattle (22), various eucalypts (17-23), sheoaks (24), and poplars (86). Coppicing provides sustainable timber, fuelwood, and craft materials on short rotation cycles.
 - **Cork oak** (*Quercus suber*) — pages 82, 113. Primary source of commercial cork; slow-growing but productive over centuries. Drought tolerant once established.
-- **Common hornbeam** (*[[carpinus-betulus]]*) — page 134. European hardwood valued for hedging and traditional coppice crafts.
-- **Cricket bat willow** (*Salix alba* var. *caerulea*) — page 84. Specialized willow cultivar grown for cricket bat production in wet soils.
-
-### Conifers and Pines
-- **Coulter pine nut** (*Pinus coulteri*) — page 43. Large-coned pine producing edible nuts; native to California.
-- **Cornelian cherry** (*Cornus mas*) — page 135. Early-spring flowering shrub producing tart red fruits for preserves and cordials.
-- **Common beech** (*Fagus sylvatica*) — pages 82, 112, 135. European hardwood for timber, beech nuts for oil and food, and excellent firewood.
-
-### Condiments and Culinary Plants
-- **Coriander** — pages 118, 119. Annual herb for culinary use; companion plant [[maintaining-organic-matter-in-vegetable-gardens]].
+- **Common hornbeam** (*[[maintaining-organic-matter-in-vegetable-gardens]].
 - **Curry plants** — page 90. Various species used in traditional cooking across tropical and subtropical regions.
 - **Cowpea** (*Vigna unguiculata*) — page 116. Nitrogen-fixing legume for food, fodder, and green manure in warm climates.
 
@@ -58,19 +49,7 @@ This index covers plants from the letter C through E as catalogued in *Permacult
 ### Dates and Palms
 - **Date palm** (*Phoenix dactylifera*) — pages 106, 136. Desert-adapted palm producing edible dates; also provides building materials, fiber, and shade.
 - **Date plum** (*Diospyros lotus*) — page 60. Caucasian persimmon species with sweet fruit when fully ripe.
-- **Double coconut** (*[[lodoicea-maldivica]]*) — page 103. The largest seed in the plant kingdom; endemic to the Seychelles.
-
-### Digestive and Medicinal Uses
-- **Dandelion** (*Taraxacum officinale*) — pages 114, 115. Ubiquitous perennial with edible leaves, flowers, and roots; medicinal uses for digestion and liver support.
-- **Dill** — pages 114, 119. Culinary herb; companion plant attracting beneficial insects.
-- **Diabetes** — pages 66, 75. Several species show antidiabetic properties: bitter melon (66), jambolan/syzygium (75).
-
-### Drought-Tolerant Species
-Drought tolerance is referenced for numerous species across pages 15-137. Key drought-adapted plants include:
-- Eucalypts (*Eucalyptus* spp.) — pages 92-96
-- Wattles (*Acacia* spp.) — pages 17-23
-- Olives (*Olea europaea*) — page 60
-- Carobs (*[[carob-ceratonia-siliqua-mediterranean-leguminous-tree]]*) — page 79
+- **Double coconut** (*[[carob-ceratonia-siliqua-mediterranean-leguminous-tree]]*) — page 79
 - Pistachios (*Pistacia vera*) — page 40
 - Pines (*Pinus* spp.) — pages 42-45
 - Various saltbushes (*Atriplex* spp.) — page 128
@@ -125,13 +104,7 @@ Eucalypts are one of the most extensively covered genera in the text, referenced
 - **Eucalyptus maculata** (Spotted gum) — pages 94, 112, 116. Strong structural timber; good firewood.
 
 ### Edible Plants
-- **Edible bean** — page 28. Various legume species produce edible beans in [[nut-tree-cultivation-for-permaculture-food-forests]].
-- **Edible heart** — page 99. Several palms produce edible hearts (cabbage), including peach palm (99), acai (102), and royal palms (107).
-- **Elder** (*Sambucus nigra*) — pages 114, 137. Multi-purpose shrub: flowers for cordials and fritters, berries for wine and preserves, medicinal uses for colds and flu.
-- **Eleocharis dulcis / E. tuberosa** (Chinese water chestnut) — page 123. Aquatic sedge producing crunchy edible corms; grows in shallow water or paddy conditions.
-
-### Erosion Control
-- **Erosion control** — pages 21, 22, 23, 26, 28, 83, 84, 104, 106, 107, 130, 131, 133. Plants [[comparison-vetiver-grass-vs-bamboo-for-erosion-control]] include wattles (21-23), poplars and willows (83, 84), vetiver grass (131), various palms (104, 106, 107), and salt-tolerant species (133).
+- **Edible bean** — page 28. Various legume species produce edible beans in [[comparison-vetiver-grass-vs-bamboo-for-erosion-control]] include wattles (21-23), poplars and willows (83, 84), vetiver grass (131), various palms (104, 106, 107), and salt-tolerant species (133).
 
 ### Essential Oils
 - **Essential oils** — pages 91, 129, 136. Eucalypts (92), melaleucas/tea trees (129), lavender (136), and other aromatic plants provide essential oils for medicine, fragrance, and insect control.

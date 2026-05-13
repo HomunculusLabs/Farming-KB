@@ -1,5 +1,5 @@
 ---
-title: Ayahuasca Preparation And Ceremony
+title: Ayahuasca Preparation and Ceremony
 created: 2026-04-13
 updated: 2026-04-13
 type: concept
@@ -40,7 +40,7 @@ Ayahuasca is not a single plant but a combination of at least two:
 
 Several plants are combined with *B. caapi* to provide the visionary component:
 
-- ***[[chacruna-psychotria-viridis]]*** (Chacruna): The most common admixture, containing N,N-dimethyltryptamine (DMT) in its leaves. Used throughout the western Amazon.
+- ***Psychotria viridis*** (Chacruna): The most common admixture, containing N,N-dimethyltryptamine (DMT) in its leaves. Used throughout the western Amazon.
 - ***Diplopterys cabrerana*** (Chaliponga): Another DMT-containing plant, also used as an admixture. Contains both DMT and 5-MeO-DMT.
 - Less commonly, *Psychotria carthaginensis* or other species may be used.
 
@@ -55,14 +55,14 @@ The ayahuasca brew works because of a remarkable pharmacological synergy:
 
 ## Preparation
 
-[[kava-traditional-preparation-ceremonial-context]] is a lengthy process:
+Traditional preparation is a lengthy process:
 
 1. **Harvesting**: The *B. caapi* vine is pounded or shredded, and the leaves of the DMT plant are collected.
 2. **Cooking**: The plant materials are boiled together in a large pot, often for 12-24 hours or more, with periodic addition of water as it evaporates.
 3. **Reduction**: The liquid is strained and reduced by continued boiling until a concentrated, dark, viscous brew results.
 4. **The final product**: A bitter, dark brown to black liquid with the consistency of motor oil, described by McKenna as tasting "like the blood of some old, old thing."
 
-Some traditions add additional plants for specific purposes -- tobacco (*[[mckenna-shamanic-tobaccos-and-nicotiana-rustica]]*), *Brugmansia* (toe/borrachero), or various medicinal plants.
+Some traditions add additional plants for specific purposes -- tobacco (*Nicotiana rustica*), *Brugmansia* (toe/borrachero), or various medicinal plants.
 
 ## The Ceremony
 
@@ -101,25 +101,11 @@ Ayahuasca has spread far beyond its Amazonian origins:
 
 - **SSRI/SNRI interactions**: Combining ayahuasca's MAO inhibitors with serotonergic psychiatric medications can cause **serotonin syndrome**, a potentially life-threatening condition.
 - **Cardiovascular risk**: Ayahuasca increases heart rate and blood pressure.
-- **Psychological risk**: Individuals with personal or family history of psychosis or [[blesching-cannabis-bipolar-disorder]] may be at elevated risk.
+- **Psychological risk**: Individuals with personal or family history of psychosis or bipolar disorder may be at elevated risk.
 - See [[psychedelic-harm-reduction]] for comprehensive safety guidance.
 
 ## Related Topics
 
 - [[shamanic-use-of-psychedelics]] for cross-cultural shamanic context
 - [[psilocybin-psychological-mechanisms]] for the neuroscience of DMT and 5-HT2A agonism
-- [[entheogenic-ceremony-preparation]] for modern [[ayahuasca-ceremony-practices]]
-## Key Considerations
-
-Understanding the fundamental principles underlying this topic enables more effective practical application. Integration with related concepts strengthens overall system function and provides multiple pathways for implementation and adaptation to specific contexts.
-
-## Common Challenges
-
-Practitioners frequently encounter challenges related to resource availability, environmental variability, and knowledge gaps. Systematic approaches to problem-solving, combined with community knowledge sharing and iterative experimentation, provide effective pathways to overcoming these obstacles.
-
-## See Also
-- [[alan-shoemaker-ayahuasca-legal-peru]]
-- [[amaringo-ayahuasca-visions-shipibo-iconography]]
-- [[amazonian-ayahuasca-purge-and-diet-practices]]
-- [[ayahuasca]]
-- [[ayahuasca-additive-plants-and-dmt-synergy]]
+- [[entheogenic-ceremony-preparation]] for modern ceremony practices

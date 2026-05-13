@@ -12,12 +12,8 @@ sources:
 # Myrcene
 
 Myrcene (7-methyl-3-methylene-1,6-octadiene), also known as β-myrcene, is an
-acyclic monoterpene hydrocarbon (C₁₀H₁₆) found in the [[comparison-essential-oils-vs-neem-oil-vs-insecticidal-soap]] of
-numerous plants including cannabis ([[comparison-cannabis-sativa-vs-cannabis-indica]] L.), hops ([[humulus-lupulus]]),
-lemongrass ([[cymbopogon-citratus]]), thyme (Thymus vulgaris), bay laurel
-([[laurus-nobilis]]), and mango (Mangifera indica). It is the most abundant
-terpene in the majority of commercial cannabis cultivars, typically comprising
-30–65% of the total [[cannabis-terpene-profile]] in indica-dominant strains and serving as
+acyclic monoterpene hydrocarbon (C₁₀H₁₆) found in the [[comparison-cannabis-sativa-vs-cannabis-indica]] L.), hops ([[cymbopogon-citratus]]), thyme (Thymus vulgaris), bay laurel
+([[cannabis-terpene-profile]] in indica-dominant strains and serving as
 a key contributor to the characteristic earthy, musky, and herbal aroma.
 
 Beyond its aromatic role, myrcene is of significant pharmacological interest
@@ -73,15 +69,13 @@ Myrcene is one of the most widely distributed monoterpenes. Notable sources:
 ## Role in Cannabis
 
 Myrcene is the dominant terpene in ~60–70% of commercial cannabis cultivars:
-- **[[cannabis-terpene-entourage-effect-profiles]]:** Hypothesized to enhance THC bioavailability by
-  increasing [[plant-cell-membrane-transport-proteins-channels-carriers-and-pumps]] permeability, potentially aiding blood-brain
+- **[[plant-cell-membrane-transport-proteins-channels-carriers-and-pumps]] permeability, potentially aiding blood-brain
   barrier crossing; limited direct experimental confirmation
 - **Sedative contribution:** Strains high in myrcene (>0.5% w/w) are
   consistently associated with sedative, relaxing "couch-lock" effects;
   myrcene's own analgesic and muscle relaxant activity likely contributes
 - **Aroma:** Earthy, musky, herbal, slightly fruity ("green" or "balsamic")
-- **Strain examples:** OG Kush, [[granddaddy-purple]], Blue Dream, Hindu Kush,
-  [[cannabis-strain-mango-haze-northern-lights-skunk-haze]], 9 lb Hammer
+- **Strain examples:** OG Kush, [[cannabis-strain-mango-haze-northern-lights-skunk-haze]], 9 lb Hammer
 - **Breeding:** Selecting for high myrcene is common in sedative cultivar
   breeding; content is partly heritable but influenced by growing conditions
 

@@ -10,9 +10,7 @@ type: concept
 ---
 # Kurt Beringer, Mescaline, and the Birth of Psychedelic Psychiatry
 
-In *Food of the Gods*, [[query-what-is-light-deprivation-cannabis-growing-and-how-does-it-work]], a rival of Lewin's, became the first human being to isolate and
-ingest pure mescaline. Mescaline is a powerful visionary phenethylamine that occurs in the
-peyote cactus *[[banisteriopsis-caapi]]*, the woody liana
+In *Food of the Gods*, [[banisteriopsis-caapi]]*, the woody liana
 encountered by Richard Spruce in the Amazon nearly eighty years before. Lewin's last
 published work, *Banisteria Caapi, ein neues Rauschgift und Heilmittel* (1929), reflected
 his new fascination with the Amazonian vine.
@@ -21,11 +19,7 @@ The excitement of Lewin and his colleagues was driven by ethnographic reports of
 extraordinary power. German ethnographer Theodore Koch-Grünberg had returned from
 Amazonas with accounts of tribes using "telepathy-inducing plant drugs" to direct the
 course of their societies. In 1927, chemists E. Perrot and M. Raymond-Hamet isolated the
-active agent from *[[ayahuasca-and-banisteriopsis-caapi]]* and named it "telepathine" — a name that reveals
-the extraordinary claims being made about the vine's effects.
-
-Years later, in 1957, researchers realized that telepathine was identical to the compound
-harmaline, previously extracted from *[[peganum-harmala]]*, and the name harmine was given
+active agent from *[[peganum-harmala]]*, and the name harmine was given
 official precedence. The story of telepathine's naming and renaming encapsulates the
 tension between the extraordinary phenomenological reports of indigenous use and the
 reductionist framework of Western pharmacology.

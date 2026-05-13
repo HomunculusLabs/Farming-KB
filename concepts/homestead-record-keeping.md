@@ -15,7 +15,7 @@ Systematic record keeping transforms a homestead from a collection of guesswork 
 
 - **Yield tracking** — know which varieties, planting dates, and methods produce the most food per square foot
 - **Financial accountability** — understand true costs versus income from homestead products
-- **[[seasonal-planning]]** — refer to past years to optimize planting, harvesting, and preservation schedules
+- **Seasonal planning** — refer to past years to optimize planting, harvesting, and preservation schedules
 - **Animal health** — track vaccinations, breeding, weight gain, feed consumption, and health events
 - **Legal and tax** — support deductions, agricultural tax status, and insurance claims
 - **Improvement measurement** — compare year-over-year progress toward your goals
@@ -29,10 +29,10 @@ For each crop, record:
 - Germination rate and date
 - Spacing and location (garden bed number or map reference)
 - Fertilizer/amendment applications (type, rate, date)
-- [[hamilton-pest-and-disease-control-organic]] observations
+- Pest and disease observations
 - First harvest date
 - Total yield (weight or count)
-- Taste notes and [[ingham-compost-quality-assessment-visual-microbial-indicators]]
+- Taste notes and quality assessment
 - Storage method and shelf life
 
 A simple garden journal or spreadsheet handles this well. Include a garden map each year showing what was planted where — essential for crop rotation.
@@ -59,7 +59,7 @@ For each animal or flock, maintain:
 - Weight at purchase and periodic weigh-ins
 - Vaccination and deworming dates (product, dosage)
 - Health events (illness, injury, treatment, outcome)
-- [[haze-cannabis-lineage-and-breeding-history]] (dates, sire, litter size)
+- Breeding history (dates, sire, litter size)
 - Production records (milk yield, egg count, weight gain)
 - Butchering date and dressed weight
 - Feed consumption (type, amount, cost)
@@ -81,10 +81,10 @@ Track every dollar in and out of the homestead operation. Categories:
 - Animal feed and supplies
 - Seeds, plants, and garden supplies
 - Fertilizer, amendments, and soil inputs
-- [[coleman-small-farm-equipment-and-tools]] (with depreciation)
+- Equipment and tools (with depreciation)
 - Fuel and utilities
 - Veterinary care and medications
-- [[gadd-fungal-biodegradation-concrete-building-materials]] and repairs
+- Building materials and repairs
 - Insurance
 - Processing supplies (jars, lids, freezer bags, etc.)
 - Education and training
@@ -140,11 +140,11 @@ Maintain separate records for tax purposes:
 - Mileage log for farm-related travel
 - Income records from sales
 - Depreciation schedules for equipment
-- Agricultural exemption documentation
-- Property tax records
 
-Consult a tax professional familiar with agricultural operations. Many homestead expenses are deductible if you can demonstrate profit intent.
+## See Also
 
-## Getting Started
-
-Start simple. Do not let the ideal system prevent you from starting. A notebook and a pencil, used consistently, is infinitely better than a perfect database you never maintain. Add complexity as you identify needs. The most important habit is recording data at the time it happens, not from memory days later.
+- [[homestead-energy-conservation]]
+- [[homestead-mushroom-business]]
+- [[homestead-winter-preparations]]
+- [[homestead-tool-maintenance]]
+- [[homestead-internet-options]]

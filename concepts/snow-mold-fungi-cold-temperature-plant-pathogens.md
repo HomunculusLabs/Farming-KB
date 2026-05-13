@@ -20,10 +20,7 @@ Snow molds are low-temperature-tolerant soil-borne fungi that
 damage and kill grasses, cereals, and other plants during cold
 seasons (Lebeau and Logsdon 1958; Nelson and Sturges 1982). The
 name derives from their ability to grow at the bases of
-snow-covered plants, producing extensive [[singh-mycelial-mats-and-biological-soil-crusts]] that
-become visible soon after snow melts. Snow molds represent a
-distinct ecological category within
-[[psychrotolerant-psychrophilic-fungi-ecology]]. While true
+snow-covered plants, producing extensive [[psychrotolerant-psychrophilic-fungi-ecology]]. While true
 psychrophiles have optima below 16 degrees C and maxima at 20
 degrees C, snow molds are psychrotolerant, capable of growth
 at low temperatures but with higher temperature optima. This
@@ -32,14 +29,7 @@ generally have wider geographic distributions than strict
 psychrophiles.
 
 The study of snow mold fungi contributes to understanding of
-[[mycorrhizal-diversity-assessment]]
-interactions.
-
-## See Also
-
-- [[psychrotolerant-psychrophilic-fungi-ecology]]
-- [[fungal-parasites-living-plants-estimating-diversity]]
-- fungal-competition-respiration-decomposition
+[[psychrotolerant-psychrophilic-fungi-ecology]]
 - [[fungi-grassland-agricultural-ecosystems-dighton]]
 ## Practical Considerations
 

@@ -14,13 +14,7 @@ sources:
 # Ice Cream Cake
 
 Ice Cream Cake is a popular indica-dominant hybrid created by
-crossing Gelato #33 with [[wedding-cake]]. Developed by Seed Junky
-Genetics in Southern California, it won first place at the
-2018 Emerald Cup. Known for dessert-like aroma, deep
-relaxation, and high THC (typically 20-25%, some phenotypes
-exceeding 30%), it has become a staple in dispensaries. The
-strain exemplifies the modern "dessert cannabis" breeding
-trend prioritizing rich, sweet [[cannabis-terpene-profiles-sativa]] over raw
+crossing Gelato #33 with [[cannabis-terpene-profiles-sativa]] over raw
 potency alone.
 
 ## Lineage and Breeding
@@ -30,61 +24,98 @@ potency alone.
 - **Year:** Circa 2017-2018
 - **Award:** 1st Place, 2018 Emerald Cup
 - **Lineage:**
-  - Gelato #33 = [[thin-mint-cookies]] × [[sunset-sherbet]]
-  - Wedding Cake = [[triangle-kush]] × Animal Mints
-  - Combined heritage: Cookie family sweetness + OG
-    Kush indica depth via Triangle Kush
-- **Genetic tree:** [[girl-scout-cookies]] → Thin Mint →
+  - Gelato #33 = [[sunset-sherbet]]
+  - Wedding Cake = [[girl-scout-cookies]] → Thin Mint →
   Gelato → Ice Cream Cake; OG Kush → Triangle Kush →
   Wedding Cake → Ice Cream Cake
 
 ## Appearance
 - **Buds:** Dense, tightly packed, medium to large
   chunky calyxes
-- **Color:** Deep [[trichoderma-forest-green-mold-guide]] with purple/violet
-  undertones (enhanced by cool night temps); bright
-  orange pistils throughout
-- **Trichomes:** Extremely heavy frosty white coating;
-  snow-capped appearance
-- **Leaves:** Broad indica-type; short to medium
-  internodes
-- **Visual appeal:** Among the most photogenic modern
-  strains; purple + trichome coverage is striking
-
-## Aroma and Flavor
-- **Primary aroma:** Sweet vanilla, creamy dairy,
-  reminiscent of vanilla ice cream
-- **Secondary:** Earthy, doughy, sugary with subtle
-  lavender undertones
-- **Tertiary:** Hints of nuttiness and woody herbal
-  quality on the backend
-- **Inhalation:** Sweet, creamy, smooth with vanilla
-  bean and sugar cookie dominant
-- **Exhalation:** Earthy, doughy with lingering vanilla
-  and subtle minty finish
-- **Aftertaste:** Creamy sweetness lingers; slightly
-  cloying for some users
-- **Smoke:** Smooth, thick, not harsh despite high THC;
-  expansive in lungs
-
-## Terpene Profile
-| Terpene | Range | Notes |
-|---------|-------|-------|
-| Myrcene | 0.8-2.0% | Sedative, musky, herbal |
-| Limonene | 0.5-1.5% | Citrus lift, mood elevation |
-| Caryophyllene | 0.3-1.0% | Pepper, anti-inflammatory |
-| Linalool | 0.2-0.8% | Floral, lavender, calming |
-| Humulene | 0.1-0.5% | Earthy, appetite suppressant |
-| Beta-pinene | Trace | Pine, focus |
-
-High myrcene + linalool + caryophyllene creates the
-signature sedative profile. Limonene provides initial
-uplift before deeper physical relaxation.
-
-## Cannabinoid Profile
-- **THC:** 20-25% typical; range 18-30%+ in select
-  cultivars
-- **CBD:** Very low (<0.1%)
-- **CBG:** Trace (0.05-0.15%)
-- **[[cannabis-minor-cannabinoids]]:** CBC present; no significant
+- **Color:** Deep [[cannabis-minor-cannabinoids]]:** CBC present; no significant
   THCV
+
+## Overview
+
+Ice Cream Cake Cannabis represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish ice cream cake cannabis
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving ice extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Ice Cream Cake Cannabis finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for ice cream cake cannabis. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+ice cream cake cannabis and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Ice Cream Cake Cannabis has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of ice cream cake cannabis into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[cake-batter]]
+- [[ice-cream-bean-entity]]
+- [[ice-cream-bean-inga-species]]
+- [[oss-oeric-rice-cake-tek-methodology]]
+- [[wedding-cake]]

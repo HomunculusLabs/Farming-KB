@@ -8,8 +8,7 @@ sources: [papers/cotter-organic-mushroom-farming-mycoremediation.md]
 ---
 # Organic Farming Methods Comparison
 
-The landscape of organic and [[comparison-natural-farming-vs-permaculture]] extends far beyond certified organic standards, encompassing a spectrum of philosophies from [[comparison-biodynamic-preparations-vs-biofertilizers]] to minimal-intervention approaches inspired by traditional practices. This comparison covers six major approaches, each with distinct worldviews about humanity's role in soil and plant management. For a focused comparison of three Asian natural farming systems, see [[knf-vs-jadam-vs-em]]. Fukuoka's foundational philosophy is detailed in [[jadam-natural-pesticide-philosophy]]
-- [[fukuoka-do-nothing-farming-and-spiritual-life]]
+The landscape of organic and [[comparison-biodynamic-preparations-vs-biofertilizers]] to minimal-intervention approaches inspired by traditional practices. This comparison covers six major approaches, each with distinct worldviews about humanity's role in soil and plant management. For a focused comparison of three Asian natural farming systems, see [[jadam-natural-pesticide-philosophy]]
 - [[fukuoka-do-nothing-farming-philosophy-and-practice]]
 - [[comparison-biodynamic-farming-vs-organic-farming]]
 ## Background and Context

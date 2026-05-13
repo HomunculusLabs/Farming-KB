@@ -13,52 +13,19 @@ sources:
 
 Updated: 2026-04-19
 
-Masanobu Fukuoka places straw mulch at the foundation of his [[comparison-natural-farming-vs-permaculture]] system in *The Natural Way of Farming*, calling it the starting point of [[fukuoka-lundberg-family-farms-natural-rice-transition]] farming and "a bold and revolutionary step in rice farming."
+Masanobu Fukuoka places straw mulch at the foundation of his [[fukuoka-lundberg-family-farms-natural-rice-transition]] farming and "a bold and revolutionary step in rice farming."
 
 ## The Foundation of Natural Rice Farming
 
 "Natural rice farming began with straw." Straw mulch serves multiple critical functions simultaneously:
 
-- Promotes [[cannabis-seed-germination-methods]] by maintaining soil moisture
+- Promotes [[comparison-seed-starting-indoors-vs-direct-seeding-techniques]] impossible. Quick, careless scattering is actually better than meticulous placement because the whole system must work within narrow time windows.
 
-- Suppresses winter weeds by blocking light to the soil surface
-
-- Enriches the soil as it decomposes
-
-- Provides habitat and food for soil organisms
-
-- Protects soil from erosion and weather damage
-
-## The Timing Principle
-
-The timing of straw application is critical. Rice straw must be scattered over the field immediately after threshing. If rice straw is scattered uncut, it takes just two or three hours. The simplicity of the operation is essential — if rain falls on a plowed field before seeding, the field turns to mud making [[comparison-seed-starting-indoors-vs-direct-seeding-techniques]] impossible. Quick, careless scattering is actually better than meticulous placement because the whole system must work within narrow time windows.
-
-No matter how conscientious a farmer is in his work, each operation is part of a carefully ordered system. A sudden change in weather or even a small disruption in the work schedule can upset the timing of an operation enough to lead to a major failure. See [[fukuoka-natural-soil-fertility]] and [[straw-mulch-in-agriculture]]
-
-- [[fukuoka-soil-fertility-straw-mulch]]
+No matter how conscientious a farmer is in his work, each operation is part of a carefully ordered system. A sudden change in weather or even a small disruption in the work schedule can upset the timing of an operation enough to lead to a major failure. See [[straw-mulch-in-agriculture]]
 
 - [[fukuoka-scattering-straw-technique]]
 
-- [[fukuoka-rice-barley-step-by-step-method]]
-
-Source: Masanobu Fukuoka, *The Natural Way of Farming*, Chapter 2
-## Practical Considerations
-
-When working with Fukuoka Straw Mulch Philosophy, several practical factors should be
-carefully considered to achieve optimal results. These include
-the specific conditions of the implementation context, available
-resources, timing requirements, and the interactions between this
-topic and other elements of the broader system. A holistic view
-that considers these interconnections produces better outcomes.
-
-Environmental conditions such as temperature, moisture, and
-seasonal patterns significantly influence results. Monitoring these
-variables and adapting practices accordingly is essential for success.
-The most effective practitioners develop keen observation skills and
-respond flexibly to changing conditions rather than following rigid
-protocols regardless of circumstances or local variation.
-
-[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
+- [[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -111,8 +78,6 @@ through generations to modern scientific approaches, the evolution continues
 to inform current best practices and research directions.
 
 ## See Also
-- [[masanobu-fukuoka]]
 - [[doc]]
-- [[permaculture]]
 - [[fukuoka-soil-fertility-straw-mulch]]
 - [[fukuoka-straw-natural-farming-philosophy]]

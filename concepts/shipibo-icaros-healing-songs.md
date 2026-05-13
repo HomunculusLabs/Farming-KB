@@ -1,9 +1,9 @@
 ---
-title: Shipibo Icaros Healing Songs
+title: Shipibo Icaros — Healing Songs of the Amazon
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
-tags: [ethnobotany, culture, music, medicine, consciousness, [[shamanism]], amazon]
+tags: [ethnobotany, culture, music, medicine, consciousness, shamanism, amazon]
 sources:
 - raw/papers/amaringo-p-ayahuasca-visions.md
 ---
@@ -12,7 +12,7 @@ sources:
 
 ## Overview
 
-Icaros are sacred healing songs used by Amazonian vegetalistas (plant healers) during [[metzner-amazonian-ayahuasca-ceremonies-icaros-and-healing-methods]]. They are received directly from plant spirits during dieta (plant dieting) and serve multiple functions: calling protective spirits, directing the visionary experience, extracting illness, and defending against hostile entities. Pablo Amaringo's paintings frequently depict icaros as visible, luminous energies — ribbons, waves, or geometric patterns that radiate from the mouth of the singing vegetalista.
+Icaros are sacred healing songs used by Amazonian vegetalistas (plant healers) during ayahuasca ceremonies. They are received directly from plant spirits during dieta (plant dieting) and serve multiple functions: calling protective spirits, directing the visionary experience, extracting illness, and defending against hostile entities. Pablo Amaringo's paintings frequently depict icaros as visible, luminous energies — ribbons, waves, or geometric patterns that radiate from the mouth of the singing vegetalista.
 
 ## Nature and Origin of Icaros
 
@@ -85,7 +85,7 @@ Amaringo's paintings represent a visual translation of icaros — the patterns, 
 
 ## Modern Context
 
-Icaros have become one of the most studied aspects of [[mckenna-ayahuasca-and-amazonian-shamanism]]. They represent:
+Icaros have become one of the most studied aspects of Amazonian shamanism. They represent:
 - An oral tradition of immense complexity and specificity
 - A pharmacological component (sound/vibration affecting consciousness states)
 - A cultural bridge between Indigenous Amazonian knowledge and the modern world

@@ -26,19 +26,8 @@ to crude cannabis extracts containing equivalent THC concentrations.
 
 The entourage effect posits that cannabinoids, terpenes, and flavonoids
 interact synergistically at receptor sites, through metabolic pathways, and
-via [[plant-cell-membrane-transport-proteins-channels-carriers-and-pumps]] mechanisms. Rather than acting independently, these
-compounds modulate each other's pharmacokinetic and pharmacodynamic profiles,
-creating emergent therapeutic properties absent in isolated preparations.
-
-This stands in contrast to the single-molecule pharmaceutical paradigm that
-has dominated [[fukuoka-eastern-western-medicine-healing-world-crisis]] since the isolation of morphine from opium
-[[2c-t-7-compound-profile]] alone. THCV (tetrahydrocannabivarin) acts as a
-CB1 antagonist at low doses, potentially counteracting THC intoxication while
-augmenting its analgesic effects through CB2 modulation.
-
-## Terpene-Mediated Modulation
-
-Terpenes constitute the largest class [[antifungal-secondary-metabolites-coprophilous-fungi]] and are
+via [[fukuoka-eastern-western-medicine-healing-world-crisis]] since the isolation of morphine from opium
+[[antifungal-secondary-metabolites-coprophilous-fungi]] and are
 primary contributors to cannabis aroma. Beyond sensory properties, terpenes
 exert independent pharmacological effects and dramatically modify cannabinoid
 receptor activity:
@@ -46,38 +35,8 @@ receptor activity:
 - **Myrcene**: A monoterpene found in mango, hops, and lemongrass.
   Myrcene is a potent analgesic and muscle relaxant. It increases
   blood-brain barrier permeability, potentially allowing cannabinoids to
-  reach central [[triptolemus-eumolpus-and-the-founding-families-of-eleusis]] lack of standardized dosing paradigms for multi-component
-formulations.
-
-Critics argue that many attributed "synergistic" effects may result from
-dose-dependent pharmacology rather than true synergy, and that the placebo
-effect is difficult to control in cannabis research given its distinctive
-sensory profile.
-
-## Practical Implications
-
-Understanding these concepts enables more informed decision-making and
-better outcomes in practical applications. Cross-disciplinary knowledge
-and evidence-based approaches contribute to more robust systems.
-
-## Research Context
-
-Current research continues to expand our understanding of these topics.
-Peer-reviewed studies, field observations, and practical experience all
-contribute to a growing body of knowledge that informs best practices.
-
-## Historical Context
-
-The development of these ideas reflects decades of practical experience
-and scientific inquiry. Traditional knowledge systems, empirical observation,
-and modern research methods have all contributed to current understanding.
-
-## See Also
-
-- [[blesching-cannabis-cannabinoid-terpene-entourage-effect]]
-- [[cannabis-terpene-entourage-effect-profiles]]
+  reach central [[blesching-cannabis-cannabinoid-terpene-entourage-effect]]
 - [[cannabis-terpene-pharmacology-and-entourage-effect]]
-- [[cannabis-terpene-entourage-effect]]
 - [[cannabis-terpenes-and-the-entourage-effect]]
 
 ## Practical Considerations
@@ -93,13 +52,8 @@ to broader system design and look for synergies between methods
 that can amplify overall effectiveness.
 
 ## See Also
-- [[blesching-cannabis-cannabinoid-terpene-entourage-effect]]
 - [[cannabis-terpene-entourage-effect-profiles]]
-- [[cannabis-terpene-entourage-effect]]
 - [[cannabis-terpene-pharmacology-and-entourage-effect]]
-- [[modern-farm-lab-and-cannabinoid-terpene-biosynthesis]]
-## See Also
-
 - [[terpene-profile-chemotaxonomy]]
 - [[cannabis-endocannabinoid-system]]
 - full spectrum vs isolate extracts
@@ -122,3 +76,75 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
+
+## Overview
+
+Cannabinoid Terpene Entourage Effect represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish cannabinoid terpene entourage effect
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving cannabinoid extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Cannabinoid Terpene Entourage Effect finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for cannabinoid terpene entourage effect. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+cannabinoid terpene entourage effect and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Cannabinoid Terpene Entourage Effect has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of cannabinoid terpene entourage effect into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions

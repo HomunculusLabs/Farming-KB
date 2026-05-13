@@ -3,20 +3,20 @@ title: Biodiesel Production
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
-tags: [[homesteading]], off-grid, chemistry, processing, sustainability, energy, safety]
+tags: [homesteading, off-grid, chemistry, processing, sustainability, energy, safety]
 sources: []
 ---
 
 ## Overview
 
-Biodiesel is a renewable diesel fuel substitute made through transesterification of vegetable oil or animal fat. On a [[homestead-scale-assessment]], biodiesel can be produced from waste vegetable oil (WVO) collected from restaurants, providing fuel for diesel engines, generators, tractors, and heating equipment at a fraction of petroleum diesel cost.
+Biodiesel is a renewable diesel fuel substitute made through transesterification of vegetable oil or animal fat. On a homestead scale, biodiesel can be produced from waste vegetable oil (WVO) collected from restaurants, providing fuel for diesel engines, generators, tractors, and heating equipment at a fraction of petroleum diesel cost.
 
 ## The Chemistry of Transesterification
 
 Biodiesel production converts triglycerides (the main component of vegetable oils) into fatty acid methyl esters (FAME) — biodiesel — and glycerin as a byproduct.
 
 The reaction:
-- Vegetable oil (triglyceride) + [[methanol]] + Catalyst (sodium hydroxide or potassium hydroxide) = Biodiesel (FAME) + Glycerin
+- Vegetable oil (triglyceride) + Methanol + Catalyst (sodium hydroxide or potassium hydroxide) = Biodiesel (FAME) + Glycerin
 
 For every liter of oil, you need approximately:
 - 200ml methanol (20% by volume)
@@ -54,7 +54,7 @@ Titration determines how much catalyst is needed for your specific batch of oil.
 
 ### Titration Procedure (NaOH method)
 
-1. Dissolve 1 gram of NaOH in 1 liter of distilled water ([[isopropyl-alcohol]] solution)
+1. Dissolve 1 gram of NaOH in 1 liter of distilled water (isopropyl alcohol solution)
 2. In a separate container, mix 1ml of oil with 10ml of isopropyl alcohol
 3. Add the NaOH solution drop by drop to the oil-alcohol mixture while stirring
 4. Count the drops until the solution turns pink and stays pink for 20 seconds
@@ -140,11 +140,11 @@ After washing, biodiesel contains suspended water droplets:
 ### Other Tests
 
 - **pH test** — Biodiesel should be neutral (pH 7). High pH indicates residual catalyst
-- **Cloud point** — The temperature at which biodiesel begins to gel. Important for [[cold-climate-gardening]] use
-- **Water content** — Professional testing kits available; should be below 500ppm
 
-## Glycerin Byproduct
+## See Also
 
-Glycerin makes up about 20% of the reaction volume and has several uses:
-
-- **Soap making** — Glycerin-rich soap from biodiesel production is excellent quality. See [[soap-making-guide]]
+- [[ligninolytic-enzyme-production-bioremediation]]
+- [[staycare-fungal-organic-acid-production-metal-leaching]]
+- [[cattle-health-and-production]]
+- [[mollison-designers-chicken-tractors-egg-production]]
+- [[mushroom-market-and-production]]

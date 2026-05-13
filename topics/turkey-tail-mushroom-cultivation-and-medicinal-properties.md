@@ -84,17 +84,7 @@ Found on every continent except Antarctica. Common on dead or dying hardwood inc
 
 ## Medicinal Compounds
 
-Turkey Tail contains a complex array of [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]]. The two most studied polysaccharopeptides are:
-
-### Polysaccharide-K (PSK / Krestin)
-
-- **Molecular weight:** ~100 kDa
-- **Structure:** β-(1→4)-glucan protein complex with a peptide component
-- **Discovered:** 1965 by Japanese researcher Tetsuro Ikekawa
-- **Approved in Japan:** As an adjuvant cancer therapy since 1977
-- **Commercial name:** Krestin® (Sankyo Co.)
-
-PSK is a protein-bound polysaccharide extracted from the CM-101 strain of *T. versicolor*. It acts primarily as a [[medicinal-mushrooms-biological-response-modifiers]] modifier (BRM), enhancing immune function through multiple pathways.
+Turkey Tail contains a complex array of [[medicinal-mushrooms-biological-response-modifiers]] modifier (BRM), enhancing immune function through multiple pathways.
 
 ### Polysaccharide Peptide (PSP)
 
@@ -137,13 +127,8 @@ The most extensively studied application of Turkey Tail is as an adjuvant (compl
 - PSP has shown immunomodulatory benefits in breast cancer patients undergoing chemotherapy, improving quality of life and immune markers.
 ## Related Topics
 
-- [[oyster-mushroom-cultivation-and-species-guide]] — for comparison of cultivation techniques
 - [[shiitake-mushroom-cultivation-and-medicinal-properties]] — another major medicinal/culinary species
-- [[cordyceps-cultivation-and-medicinal-research]] — medicinal mushroom with different bioactive profile
 - [[herbal-mushroom-immune-modulators]] — broader context of immune-supporting fungi and herbs
-- [[medicinal-herb-growing-guide]] — integrating medicinal mushrooms with herb gardening
 - [[bioremediation-using-fungi]] — Turkey Tail's white-rot capabilities in environmental cleanup
-- [[herbal-medicine-making]] — [[gottlieb-peyote-extraction-and-preparation-methods]] techniques applicable to Turkey Tail
-- [[comparison-chaga-vs-turkey-tail]] — comparison with another tree-growing polypore
-- comparison-lions-mane-vs-reishi-medicinal-mushrooms — medicinal mushroom comparisons
+- [[gottlieb-peyote-extraction-and-preparation-methods]] techniques applicable to Turkey Tail
 - [[mushroom-cultivation-history]] — historical context of Turkey Tail use across cultures

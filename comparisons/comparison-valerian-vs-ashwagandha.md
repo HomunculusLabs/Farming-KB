@@ -21,42 +21,6 @@ mechanisms of action, and primary applications.
 
 ## Valerian
 
-[[valeriana-officinalis]]
-
-Valerian is a perennial flowering plant native to Europe and parts of Asia,
-with a 2,000-year history in Western herbalism. The dried root is the primary
-medicinal part, characterized by its distinctive pungent odor due to isovaleric
-acid content. Traditionally used as a sedative and sleep aid, valerian has been
-the subject of numerous clinical studies for its effects on sleep quality and
-anxiety reduction.
-
-### Key Characteristics
-
-- **Botanical Family:** Caprifoliaceae
-- **Primary Compounds:** Valepotriates, valerenic acid, isovaleric acid
-- **Mechanism:** Primarily GABAergic - modulates GABA_A receptors
-- **Cultural Origin:** European traditional medicine
-- **Harvest Part:** Dried root system
-- **Key Actions:** Sedative, anxiolytic, spasmolytic
-
-### Primary Uses
-
-Valerian excels as a sleep aid and anxiety reducer. It's particularly effective
-for conditions involving nervous excitement, sleep onset difficulties, and
-stress-related gastrointestinal complaints. The herb works best when used
-consistently over 2-4 weeks, with effects building gradually. Unlike
-pharmaceutical sedatives, valerian doesn't typically cause morning grogginess
-when used at appropriate doses.
-
-### Growing Requirements
-
-Valerian prefers moist, nutrient-rich soils in partial shade to full sun,
-naturally found in damp meadows, stream banks, and forest edges. It tolerates
-clay soils and seasonal waterlogging, making it suitable for temperate garden
-environments. Plants reach 0.5-1.5 meters in height.
-
-## Ashwagandha
-
 [[ashwagandha]]
 
 Ashwagandha, also known as Indian ginseng or winter cherry, is one of the most
@@ -134,8 +98,6 @@ promote relaxation and sleep.
 
 ## See Also
 
-- [[comparison-ashwagandha-vs-rhodiola-cultivation]]
 - [[comparison-ashwagandha-vs-tulsi]]
-- [[comparison-valerian-vs-lemon-balm]]
 - [[comparison-valerian-vs-chamomile]]
 - [[adaptogenic-herbs-guide]]

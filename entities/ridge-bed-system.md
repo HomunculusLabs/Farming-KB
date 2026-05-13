@@ -9,7 +9,7 @@ tags: [technique, cultivation, bed-construction, mushroom-growing, french-method
 
 ## Description
 
-The ridge bed system is one of the two primary bed construction methods used in mushroom cultivation, historically favored by French growers and practiced extensively in the limestone caves around Paris. Ridge beds are constructed as raised, peaked mounds of compost that maximize surface area for mushroom production in low-ceilinged growing spaces. The system is also known as the French bed method.
+The ridge bed system is one of the two primary bed construction methods used in [[mushroom-cultivation]], historically favored by French growers and practiced extensively in the limestone caves around Paris. Ridge beds are constructed as raised, peaked mounds of compost that maximize surface area for mushroom production in low-ceilinged growing spaces. The system is also known as the French bed method.
 
 ## Classification
 
@@ -68,7 +68,7 @@ Duggar emphasizes that the gentle slope from crest to floor is essential for opt
 
 ## Historical Context
 
-The ridge bed system was the dominant cultivation method in the famous mushroom caves of Paris, where low ceilings made the flat bed system impractical. The caves of Paris (carrières) were extensive underground limestone quarries that provided stable temperature and humidity conditions ideal for mushroom cultivation. The ridge bed system evolved specifically to maximize production in these constrained vertical spaces.
+The ridge bed system was the dominant cultivation method in the famous mushroom caves of Paris, where low ceilings made the [[flat-bed-system]] impractical. The caves of Paris (carrières) were extensive underground limestone quarries that provided stable temperature and humidity conditions ideal for mushroom cultivation. The ridge bed system evolved specifically to maximize production in these constrained vertical spaces.
 
 Duggar notes that in "the relatively low-roofed caves of Paris the ridge bed system alone is practised, and there it has its distinct advantages."
 
@@ -96,8 +96,6 @@ The principle of maximizing surface area through bed geometry continues to influ
 
 ## See Also
 
-- [[flat-bed-system]]
 - [[mushroom-casing]]
-- [[mushroom-compost]]
 - [[mushroom-spawn]]
 - [[mushroom-compost-fermentation]]

@@ -64,29 +64,7 @@ White clover (*Trifolium repens*) is the keystone species in Fukuoka's system. I
 - **Soil protection**: The clover mat prevents soil erosion and maintains soil structure during heavy rains
 - **Moisture retention**: The ground cover reduces evaporation from the soil surface significantly
 - **Organic matter**: When the clover is weakened by temporary flooding before rice planting, it contributes biomass to the soil
-- **Habitat**: The clover provides [[query-how-do-i-design-habitat-for-beneficial-insects]] insects including predatory spiders and ground beetles that help manage pest populations without any pesticide application
-
-The temporary flooding strategy is crucial: by flooding for just four to five days, Fukuoka suppresses the clover enough for rice seedlings to establish dominance, but the clover survives and recovers to cover the field again after the rice is harvested. This delicate timing — knowing exactly when and how long to flood — represents the kind of intuitive ecological knowledge that takes years to develop and that cannot be reduced to a simple recipe.
-
-## Soil Biology: The Hidden Workforce
-
-Fukuoka understood that the true farmers on his land were not human but microbial and faunal. In his no-till system, the soil is worked by:
-
-- **Earthworms**: Creating channels for water infiltration and root penetration
-- **Mycorrhizal fungi**: Extending root systems, facilitating nutrient exchange, and producing glomalin for soil aggregation
-- **Nitrogen-fixing bacteria**: Providing the nitrogen that conventional farmers apply as fertilizer
-- **Decomposer fungi and bacteria**: Breaking down straw and organic residues into humus
-- **Soil-dwelling arthropods**: Fragmenting organic matter and aerating the soil
-
-By eliminating tillage, these organisms are not disrupted by mechanical disturbance. Their populations and diversity increase over time, creating a self-reinforcing cycle of improving soil health. Fukuoka reported that his soil grew richer and more productive with each passing year, the opposite of the degradation trajectory seen in conventionally managed fields.
-
-## Critique of Scientific Agriculture
-
-Fukuoka's method is inseparable from his philosophical critique of modern agriculture. He argued that:
-
-- "Scientists are always saying, 'Let's try this, let's try that.' Agriculture becomes swept up in all of this fiddling around; new methods requiring additional expenditures and effort by farmers are constantly introduced."
-- Every human intervention creates the preconditions that make further intervention seem necessary: "We create situations in which, without something we never needed in the first place, we are lost."
-- Even organic farming is "just another type [[fukuoka-illusions-of-scientific-farming]]" — the trouble taken to move organic materials around, process them, and apply them produces only "local and temporal gains" that are destructive from a broader perspective.
+- **Habitat**: The clover provides [[fukuoka-illusions-of-scientific-farming]]" — the trouble taken to move organic materials around, process them, and apply them produces only "local and temporal gains" that are destructive from a broader perspective.
 - Flood a field, stir it with a plow, and the ground sets hard — the conventional practices that farmers consider essential are actually creating the very problems they then struggle to solve.
 
 ## The Quarter-Acre Farmer Vision
@@ -101,11 +79,8 @@ This vision of the quarter-acre farmer was radical in its implications. If one o
 
 Fukuoka's system can be compared with several other low-input agricultural approaches:
 
-- **[[korean-natural-farming]]**: Developed by Cho Han-kyu, uses [[beneficial-indigenous-microorganisms-bim]] and fermented plant juices
-- **[[biodynamic-agriculture-and-steiner]]**: Rudolf Steiner's system uses herbal preparations and astronomical planting calendars
-- **Permaculture**: Bill Mollison and David Holmgren's design system draws on ecological principles but typically involves more active management than Fukuoka's approach
-
-What distinguishes Fukuoka's method is its radical simplicity. Where permaculture designs elaborate polycultures [[query-what-is-the-difference-between-organic-regenerative-and-biodynamic-agriculture]] prepares nine different compost preparations, Fukuoka's system uses essentially one rotation (rice-barley-clover), one input (straw), and one management action (brief flooding). This simplicity is not a limitation but a philosophical commitment: the fewer elements in the system, the less human knowledge is imposed on nature.
+- **[[beneficial-indigenous-microorganisms-bim]] and fermented plant juices
+- **[[query-what-is-the-difference-between-organic-regenerative-and-biodynamic-agriculture]] prepares nine different compost preparations, Fukuoka's system uses essentially one rotation (rice-barley-clover), one input (straw), and one management action (brief flooding). This simplicity is not a limitation but a philosophical commitment: the fewer elements in the system, the less human knowledge is imposed on nature.
 
 ## Challenges in Replication
 
@@ -121,7 +96,5 @@ These challenges do not invalidate the principles but suggest that adapting natu
 
 ## See Also
 
-- [[fukuoka-desert-revegetation-clay-pellet-method]]
 - [[fukuoka-rice-barley-clover-succession]]
-- [[fukuoka-natural-diet-theory]]
 - [[fukuoka-vegetable-disease-insect-resistance]]

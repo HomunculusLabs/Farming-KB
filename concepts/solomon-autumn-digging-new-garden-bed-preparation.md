@@ -1,6 +1,6 @@
 ---
 title: Solomon Autumn Digging New Garden Bed Preparation
-source: Gardening When It Counts ([[steve-solomon]], 2005)
+source: Gardening When It Counts (steve-solomon, 2005)
 tags: [garden-preparation, autumn-digging, sod-removal, soil-preparation, solomon, rototiller, hand-digging, raised-beds]
 ---
 
@@ -33,9 +33,7 @@ When digging in autumn, there is always "the odd bit of grass that isn't killed.
 ### Soil Structure Benefits
 
 Autumn-dug soil has all winter to settle:
-- Freeze-thaw cycles naturally break up clods ([[query-how-do-i-grow-figs-in-cold-climates]])
-- Rain and snow work amendments deeper into the soil profile
-- Soil biology has months to begin processing incorporated [[fukuoka-textdoc-composting-critique-futility-prepared-organic-matter]]
+- Freeze-thaw cycles naturally break up clods ([[fukuoka-textdoc-composting-critique-futility-prepared-organic-matter]]
 - By spring, the bed has a finer, more workable structure than freshly dug soil
 
 ### Spring Readiness
@@ -60,14 +58,7 @@ Solomon emphasizes that digging should only occur when soil moisture is correct:
 ### Timing by Season
 
 - **Spring**: Wait until soil passes the ball test
-- **Autumn**: A few clods are acceptable—they'll [[query-can-fungi-break-down-plastic-pollution]] over winter
-- **Summer end**: Usually ideal moisture conditions
-
-## Digging vs. Rotary Cultivation
-
-### Solomon's Preference for Hand-Digging
-
-Despite having used rototillers extensively (including a seven-horsepower self-propelled model for [[coleman-seed-selection-and-variety-trials]]), Solomon ultimately prefers hand-digging:
+- **Autumn**: A few clods are acceptable—they'll [[coleman-seed-selection-and-variety-trials]]), Solomon ultimately prefers hand-digging:
 
 | Factor | Walk-Behind Tiller | Hand-Digging |
 |--------|-------------------|--------------|
@@ -91,16 +82,13 @@ Vegetables need loose soil to a depth of at least 12 inches. A 4-5 inch tilled d
 
 ## See Also
 
-- [[solomon-fruit-vegetables-growing]]
-- [[solomon-green-manure-cover-crop-techniques]]
-- [[solomon-growing-peppers-eggplant]]
-- [[solomon-organic-root-maggot-management]]
+- [[solomon-ley-farming-grass-clover-rotation-soil-restoration]]
+- [[solomon-on-root-cellaring]]
 - [[solomon-pest-management-organic]]
-- [[solomon-potassium-yield-versus-nutrition-tradeoff]]
-- [[solomon-seed-drilling-spacing-precision-sowing]]
-- [[solomon-seed-sprouting-paste-technique]]
-- [[solomon-sprinkler-irrigation-system-design]]
-- [[solomon-sweet-potato-cultivation-guide]]
+- [[solomon-root-cellaring-food-preservation]]
+- [[solomon-thinning-overseeding-stand-establishment]]
+- [[solomon-tool-care-sharpening-shovels-hoes-essential-gardening]]
 - [[solomon-variety-degradation-home-seed-trade]]
-- [[solomon-variety-trial-methodology]]
-- [[solomon-vegetable-nutrition-decline-and-soil-mineral-depletion]]
+- [[solomon-vegetable-demand-classification-soil-fertility]]
+- [[solomon-watering-and-dry-farming]]
+- [[solomon-watering-strategies-and-dry-farming-techniques]]

@@ -56,7 +56,7 @@ In the Seychelles, cinnamon leaves and branches from pollarded stumps are consid
 
 Hedgerow species provide near-continuous mulch sources:
 - **Windbreak/barrier plants:** Hibiscus, *Casuarina*, banana grass, palms, leguminous trees (*Gliricidia*, *Acacia*, *Prosopis*)
-- **Garden barrier species:** Lemongrass (*Cymbopogon citratus*) and comfrey (*Symphytum officinale*) — both prevent kikuyu grass intrusion and provide repetitive cutting for mulch
+- **Garden barrier species:** Lemongrass (*[[cymbopogon-citratus]]*) and comfrey (*[[symphytum-officinale]]*) — both prevent kikuyu grass intrusion and provide repetitive cutting for mulch
 
 **Soft herbaceous mulch plants:** Nasturtium, comfrey, marigolds, tobacco plants, mature taro tops, and other *Araceae* suppress grass and provide constant "slash" mulch.
 
@@ -72,28 +72,10 @@ Research by B.N. Okigbo and R. Lal (International Conference on Ecological Agric
 | *Pennisetum* straw | 3.3 | 1.2 | 1.4 | 14.2 |
 | Elephant grass | 3.3 | 0.9 | 1.3 | 16.6 |
 | Millet straw | 3.6 | 2.4 | 0.15 | 15.5 |
-| [[legume-nitrogen-fixation-mechanism|Legume]] wastes | 4.3 | 1.0 | 0.9 | 15.5 |
-| Sawdust | 3.7 | 0.9 | 1.9 | 20.5 |
-| Bare ground | 3.0 | 0.6 | 0.6 | 16.4 |
-
-Key findings:
-- Maize responded markedly to legume straws and waterplant (*Pistia*) [[mulching-guide|mulch]]
+| [[mulching-guide|mulch]]
 - Legumes responded well to grass and sawdust mulch
-- [[permaculture-plants-comfrey-chop-and-drop|Cassava]] benefited from both legume and grain husk wastes
-- No-tillage systems maintained or gained yields for maize
-- Every type of organic mulch increased yields
-
-## Managing Difficult Mulch Materials
-
-Some species such as hibiscus, *Lantana*, and certain grasses and hedge species tend to resprout from cuttings or seed if mulched directly. Several strategies exist:
-
-1. **Animal processing:** Route through poultry or cattle pens where seeds are removed and foliage eaten
-2. **Anaerobic digestion:** Shred for biogas plants
-3. **Solarisation:** Bag in large plastic bales exposed to sun where they "cook" to weed-free silage
-4. **[[water-wise-vegetable-gardening|Water]] rotting:** Bundle and immerse in covered water pits
-5. **Pig processing:** Pigs eliminate or eat nut-grasses, rhizomes, bulbs, and sedges that resprout from [[hot-composting-vs-vermicompost-vs-bokashi|compost]]
-
-Plastic sheet mulch has good effects on row crops — preventing rain splash, reducing [[plant-micronutrient-functions|nutrient]] leaching, and condensing groundwater at night — but it does not add [[green-manure|humus]] or improve cation capacity, and may release unwanted chemicals to the [[soil-ph|soil]].
+- [[water-wise-vegetable-gardening|Water]] rotting:** Bundle and immerse in covered water pits
+5. **Pig processing:** Pigs eliminate or eat nut-grasses, rhizomes, bulbs, and sedges that resprout from [[plant-micronutrient-functions|nutrient]] leaching, and condensing groundwater at night — but it does not add [[soil-ph|soil]].
 
 ## Application Guidelines
 
@@ -107,6 +89,4 @@ Plastic sheet mulch has good effects on row crops — preventing rain splash, re
 
 ## Building Mulch Systems Over Time
 
-Growing in exhausted or poor tropical soils requires hard work, seed, essential fertiliser resources, and a strategy of starting small and expanding at the periphery. A pioneer planting of quick-growing [[nitrogen-fixing-trees-and-shrubs|tree]] *Acacias*, bananas, legumes such as lablab, deep-rooting comfrey, and a grove of bamboo and palms will provide continuous mulch for gardens, main crops, fruit trees, and valued plants. Dense planting of nucleus areas plus mulch is the key strategy.
-
-There is absolutely no excuse for burning any organic wastes in the tropics — even large logs quickly rot under the onslaught of fungi, termites, and beetle larvae, while simultaneously providing cross-slope barriers against [[wet-dry-and-monsoon-tropical-climates|monsoon]] [[permplant-willows-salix-erosion-control-fodder|erosion]].
+Growing in exhausted or poor tropical soils requires hard work, seed, essential fertiliser resources, and a strategy of starting small and expanding at the periphery. A pioneer planting of quick-growing [[wet-dry-and-monsoon-tropical-climates|monsoon]] [[permplant-willows-salix-erosion-control-fodder|erosion]].

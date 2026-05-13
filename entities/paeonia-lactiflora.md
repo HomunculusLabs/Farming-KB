@@ -13,15 +13,7 @@ tags:
   - adaptogen
   - paeoniflorin
   - ornamental
-  - [[permaculture]]
-  - herbal-plant
-  - root-medicine
-date: 2026-04-28
-updated: 2026-04-28
-sources:
-  - He, D.Y. & Dai, J. (2011). "Pharmacological Effects of Paeonia lactiflora." Pharmacognosy Reviews, 5(10), 149-158.
-  - Zhang, L. et al. (2019). "Paeoniflorin: A Review of Its Pharmacological Effects." Phytotherapy Research, 33(6), 1482-1497.
-  - Li, S.L. et al. (2012). "Advance in Studies on [[guzman-magic-mushrooms-chemical-constituents]] and Their Bioactivities of Paeonia lactiflora." Chinese Journal of New Drugs, 21(8), 855-864.
+  - guzman-magic-mushrooms-chemical-constituents and Their Bioactivities of Paeonia lactiflora." Chinese Journal of New Drugs, 21(8), 855-864.
   - Xiao, J. et al. (2020). "A Review of the Pharmacological Effects of Paeonia lactiflora and Its Bioactive Components." Frontiers in Pharmacology, 11, 569.
   - https://pfaf.org/User/Plant.aspx?LatinName=Paeonia+lactiflora
 ---
@@ -87,9 +79,10 @@ Paeoniflorin and related compounds exhibit a wide range of validated
 bioactivities relevant to multiple therapeutic areas:
 
 - **Anti-inflammatory and immunomodulatory** — inhibits NF-κB and MAPK
-  [[plant-signaling-pathways]]; reduces TNF-α, IL-1β, and IL-6 production. Modulates
+  query-what-are-the-main-bioactive-compounds-in-medicinal-plants
+- phloem-sap-composition-and-long-distance-signaling-in-plants
 
 ## See Also
-
+- [[campanula-lactiflora]]
 - [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]]
 - [[phloem-sap-composition-and-long-distance-signaling-in-plants]]

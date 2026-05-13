@@ -10,9 +10,7 @@ tags: [farming, organic, soil-health, philosophy, coleman, sustainable-agricultu
 
 Eliot Coleman's "deep-organic" philosophy represents a fundamental
 distinction between truly biological farming and what he calls
-"[[coleman-deep-organic-vs-shallow-organic-farming]]" — practices that merely substitute approved organic
-inputs for synthetic ones without addressing the underlying biological
-systems. Developed over four decades at Four [[coleman-four-season-farm]] in Harborside,
+"[[coleman-four-season-farm]] in Harborside,
 Maine, the approach emphasizes working with nature's biological systems
 rather than attempting to override them.
 
@@ -32,15 +30,12 @@ The idea that soluble elements could substitute for a whole living system
 is, in Coleman's metaphor, "like thinking an intravenous needle could
 deliver a delicious meal." The chemical approach reduces soil to an inert
 substrate; the biological approach recognizes it as a living system where
-plants actively participate in [[biodiversity-of-fungi-decomposition-nutrient-cycling]] through [[mycorrhiza-root-exudates]]
+plants actively participate in [[mycorrhiza-root-exudates]]
 that feed specific soil organisms, which in turn make nutrients available
 in absorbable forms.
 
 This stands in contrast to "input-substitution organic" farming, which
-replaces [[teaming-with-nutrients-natural-vs-synthetic-fertilizers]] with organic ones but still treats soil as
-inert. Deep-organic farming builds soil biology so plants receive balanced
-nutrition through natural biological processes — producing measurably
-different results in crop quality, [[cannabis-disease-pest-resistance-breeding-clarke]], and long-term soil
+replaces [[cannabis-disease-pest-resistance-breeding-clarke]], and long-term soil
 health.
 
 ## Fighting for the Truth: Historical Context
@@ -118,8 +113,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[eliot-coleman]]
 - [[ghb]]
-- [[decomposition]]
 - [[mycorrhiza]]
 - [[coleman-deep-organic-farming]]

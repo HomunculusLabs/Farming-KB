@@ -17,7 +17,7 @@ type: concept
 # Fungal Calcium Signalling
 
 Calcium (Ca2+) is a critical second messenger in filamentous fungi, regulating
-numerous cellular processes including [[growing-gourmet-spore-germination-strain-isolation]], [[gadd-hyphal-tip-growth-and-branching-mechanisms]] growth and
+numerous cellular processes including [[gadd-hyphal-tip-growth-and-branching-mechanisms]] growth and
 branching, circadian clocks, and responses to environmental stimuli. The
 fungal calcium signalling toolkit is substantially more complex than that of
 budding yeast, reflecting the greater [[fungal-environmental-sensing-signal-transduction]] demands of
@@ -72,20 +72,7 @@ important ways:
 In N. crassa, calcium signalling has been demonstrated to regulate:
 
 - **Spore germination**: calcium transients are among the earliest events
-  following spore hydration and are required for the initiation of [[bloomfield-rust-germ-tube-tactile-sensing-leaf-surface-navigation]]
-  emergence.
-- **Hyphal tip growth**: localized Ca2+ gradients at the hyphal apex are
-  associated with polarized growth and vesicle trafficking to the extending
-  tip.
-- **Hyphal branching**: calcium signals coordinate the initiation of new
-  branches along existing hyphae.
-- **Circadian clocks**: calcium oscillations interact with the circadian
-  clock machinery, linking environmental timing to cellular physiology.
-
-## Integration with Other Signalling Pathways
-
-Calcium signalling does not operate in isolation but is integrated with other
-[[fungal-environmental-sensing-signal-transduction-read]] pathways in fungal cells. In N. crassa, the genome encodes
+  following spore hydration and are required for the initiation of [[fungal-environmental-sensing-signal-transduction-read]] pathways in fungal cells. In N. crassa, the genome encodes
 an expanded repertoire of signalling components:
 
 ## Practical Applications
@@ -117,8 +104,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[saccharomyces-cerevisiae]]
 - [[neurospora-crassa]]
-- [[spore]]
 - [[fungal-calcium-oxalate-crystals]]
 - [[fungal-calcium-oxalate-and-carbonate-precipitation]]

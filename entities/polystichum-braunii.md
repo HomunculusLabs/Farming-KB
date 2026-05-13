@@ -108,13 +108,8 @@ Polystichum braunii can also be confused with Dryopteris marginalis in the field
 
 ## See Also
 
-- [[polystichum-acrostichoides]]
 - [[polystichum-munitum]]
-- [[polystichum-setiferum]]
 - [[dryopteris-filix-mas]]
-- [[dryopteris-marginalis]]
 - [[athyrium-filix-femina]]
-- [[matteuccia-struthiopteris]]
 - [[cystopteris-fragilis]]
-- [[pteridium-aquilinum]]
 - [[polypodium-vulgare]]

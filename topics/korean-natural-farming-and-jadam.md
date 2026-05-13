@@ -21,9 +21,7 @@ related_concepts:
 
 Korean Natural Farming (KNF) and JADAM are two closely related but distinct 
 systems of natural agriculture that originated in South Korea in the latter 
-half of the [[coleman-louis-savier-twentieth-century-maraicher]]. Both systems share a fundamental philosophy of 
-working with nature rather than against it, using locally available materials 
-and [[beneficial-indigenous-microorganisms-bim]] to maintain soil health, plant nutrition, and 
+half of the [[beneficial-indigenous-microorganisms-bim]] to maintain soil health, plant nutrition, and 
 pest management without reliance on synthetic chemical inputs. Together, they 
 represent one of the most developed and widely practiced systems of natural 
 agriculture in East Asia, with growing influence and adoption across the 
@@ -32,36 +30,7 @@ Americas, Africa, Europe, and Southeast Asia.
 Korean Natural Farming was developed by Master Cho Han-kyu (1935 to 2019) 
 beginning in the 1960s and refined over five decades of practice and teaching. 
 Cho was a farmer and agricultural researcher who observed that conventional 
-[[knf-vs-chemical-farming-comparison]] degraded soil health and created dependency on expensive 
-external inputs. Drawing on traditional Korean farming wisdom, the work of 
-Japanese natural farming advocate Masanobu Fukuoka, and his own experiments 
-with indigenous microorganisms, Cho developed a comprehensive system of farming 
-inputs and management practices that he called Korean Natural Farming. The 
-system is built around the collection and cultivation of indigenous 
-microorganisms (IMOs) and their use in creating a suite of fermented natural 
-inputs that replace synthetic fertilizers, pesticides, and soil amendments.
-
-JADAM was founded by Cho Young-sang, the son of Master Cho Han-kyu, as a 
-further evolution and simplification of Korean Natural Farming. The name JADAM 
-is a Korean word meaning "people who resemble nature." Young-sang Cho 
-recognized that while KNF was effective, it still required the purchase of some 
-materials, such as brown sugar and specific mineral inputs, which could be a 
-barrier for very low-income farmers. He developed the JADAM system to take 
-natural farming to its logical conclusion: a farming method that requires zero 
-external purchases, using only materials that can be found on or near the farm. 
-JADAM is sometimes described as "ultra-low-cost agriculture" and has gained a 
-devoted following among smallholder farmers in Korea and around the world.
-
-## Core Philosophy
-
-The philosophical foundation of both KNF and JADAM rests on several 
-interconnected principles. The first is the primacy of indigenous 
-microorganisms. Rather than importing microbial products or laboratory-cultured 
-strains, both systems rely on microorganisms that are native to the local 
-environment. These indigenous microbes are already adapted to local soil 
-conditions, climate, and crop species, and they are believed to be more 
-effective and resilient than introduced strains. The farmer's role is to create 
-conditions that favor [[query-how-do-i-use-beneficial-indigenous-microorganisms]] microorganisms and to actively 
+[[query-how-do-i-use-beneficial-indigenous-microorganisms]] microorganisms and to actively 
 collect, cultivate, and multiply them for use as agricultural inputs.
 
 The second principle is zero external inputs. In KNF, this is approached 
@@ -86,38 +55,10 @@ cover cropping, and surface application of inputs to build soil organic matter
 and biological activity over time.
 
 The influence of Masanobu Fukuoka's philosophy of "do-nothing farming" is 
-evident in both systems. Fukuoka's four [[four-principles-of-natural-farming]] farming, which 
-include no cultivation, no chemical fertilizer, no weeding by tillage or 
-herbicides, and no dependence on chemicals, provided a philosophical framework 
-that Cho Han-kyu adapted and expanded with his specific techniques for 
-microbial cultivation and input production. However, KNF and JADAM are more 
-interventionist than Fukuoka's approach, with a much more developed toolkit of 
-specific inputs and management practices.
-
-## Indigenous Microorganisms (IMO 1 through 4)
-
-The collection and cultivation of indigenous microorganisms is the cornerstone 
-of Korean Natural Farming. The IMO process is a multi-stage protocol that 
-begins with the collection of wild microbes from the farm environment and 
-culminates in the production of a rich, biologically diverse inoculant that can 
-be applied to soil, compost, or plant surfaces.
-
-IMO 1 is the initial collection of indigenous microorganisms from a natural 
-environment. The standard method involves placing a wooden box, approximately 
-30 by 40 by 10 centimeters, filled with steamed rice, in a location with good 
-biological activity on or near the farm. Forest edges, bamboo groves, grassy 
-fields, and the base of old fruit trees are preferred collection sites. The box 
-is loosely covered to protect it from rain and animals while allowing air 
-exchange. After 5 to 7 days, depending on temperature and moisture, the rice 
-will be colonized by a diverse community of microorganisms. A successful IMO 1 
-## See Also
-
-[[cho-han-kyu-life-and-philosophy]]
-[[cho-natural-farming-inputs-overview]]
+evident in both systems. Fukuoka's four [[cho-han-kyu-life-and-philosophy]]
 [[cho-imo-collection-bamboo-stump-and-paddy-field]]
-[[four-principles-of-natural-farming]]
 [[fukuoka-four-principles-natural-farming]]
-[[jadam-all-purpose-pesticide]] [[jadam-compost-free-approach]]
+[[jadam-compost-free-approach]]
 
 ## References
 

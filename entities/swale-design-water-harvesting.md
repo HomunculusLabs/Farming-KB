@@ -15,15 +15,7 @@ updated: 2026-04-28
 sources:
   - Mollison B, Holmgren D. "Permaculture One." Transworld Publishers. 1978.
   - Yeomans PA. "Water for Every Farm." K.G. Murray Publishing. 1954.
-  - Lancaster B. "[[solomon-rainwater-harvesting-for-gardens]] Drylands and Beyond." Rainsource Press. 2006.
-  - Shepard M. "Restoration Agriculture." Acres U.S.A. 2013.
-  - https://permacultureprinciples.com/
-created: 2026-04-28
----
-
-# Swale Design and Water Harvesting Earthworks
-
-**Swales** are level trenches excavated along the contour lines of a landscape, designed to capture, slow, spread, and sink surface water runoff into the soil profile. They are one of the most foundational and widely implemented earthwork techniques in permaculture and [[regenerative-agriculture]] design. By transforming destructive erosion flows into beneficial infiltration, swales simultaneously address water scarcity, soil degradation, desertification, and food production challenges.
+  - Lancaster B. "[[regenerative-agriculture]] design. By transforming destructive erosion flows into beneficial infiltration, swales simultaneously address water scarcity, soil degradation, desertification, and food production challenges.
 
 ## Core Principles
 
@@ -65,11 +57,7 @@ A typical on-contour swale consists of the following components:
 Before designing any swale system, a thorough assessment is essential:
 - **Topography:** Map contour lines using a laser level, dumpy level, A-frame, or GPS survey. Identify keypoint, keyline, and valley positions. Slope angle determines swale spacing and design.
 - **Hydrology:** Determine average annual rainfall, rainfall intensity-duration-frequency data, watershed area above each swale, existing drainage patterns, and seasonal flow variations.
-- **Soils:** Conduct soil tests (texture, depth, permeability, infiltration rate, pH, [[fukuoka-textdoc-composting-critique-futility-prepared-organic-matter]]). Soil type is the primary determinant of swale depth and spacing:
-  - **Sandy soils (>50% sand):** Infiltration is rapid; swales can be deeper and more widely spaced. Primary risk is water passing through too quickly to benefit plants.
-  - **Loam soils:** Ideal conditions; moderate depth and spacing.
-  - **Clay soils (>30% clay):** Infiltration is slow; swales should be shallower and wider, more closely spaced, and designed to maximize surface contact time. Risk of waterlogging requires careful design.
-  - **Hardpan/impervious layers:** May require ripping or subsoiling before [[swale-construction-guide]].
+- **Soils:** Conduct soil tests (texture, depth, permeability, infiltration rate, pH, [[swale-construction-guide]].
 - **Vegetation:** Assess existing vegetation, root zones, and [[tree-canopy-fungal-sampling-techniques]] coverage.
 - **Existing infrastructure:** Map buildings, roads, utilities, and drainage infrastructure. Swales must be positioned to protect, not threaten, existing structures.
 
@@ -87,3 +75,75 @@ A common rule of thumb: **vertical spacing = 3–5 × slope percentage (in meter
 (Section truncated for length.)
 
 ## Planting Design for Swales
+
+## Overview
+
+Swale Design Water Harvesting represents an important element within sustainable
+design and [[solomon-gardening-aikido-pest-philosophy-ecological-management]] systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish swale design water harvesting
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving swale extend
+across multiple [[ingham-soil-foodweb-trophic-levels-protozoa-nematodes]] and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Swale Design Water Harvesting finds practical application in multiple design contexts.
+[[mollisonian-permaculture-principles]] guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive [[livestock-grassland-management-strategies]] that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for swale design water harvesting. [[jeavons-climate-adaptation-growing-seasons]]
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+swale design water harvesting and its applications. Active investigation
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Swale Design Water Harvesting has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of swale design water harvesting into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions

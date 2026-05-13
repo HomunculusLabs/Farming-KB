@@ -8,7 +8,7 @@ aliases: [Tryptamine Structural Family Serotonin Psilocybin DMT, 5-Hydroxytrypta
 
 # Serotonin, Psilocybin, and DMT Structural Kinship as Argument for Endogenous Brain Familiarity
 
-In his 1983 Esalen lecture on tryptamine hallucinogens and consciousness, Terence
+In his 1983 Esalen lecture on [[tryptamine-hallucinogens-and-consciousness]], Terence
 McKenna advanced a specific biochemical argument for why DMT produces its
 extraordinary effects with such rapid onset and brief duration: the structural
 kinship between DMT, psilocybin, and serotonin — the major neurotransmitter in the
@@ -119,10 +119,7 @@ structural relationships to endogenous neurochemistry.
 
 ## See Also
 
-- [[mckenna-endogenous-dmt-brain-familiarity]] — McKenna's endogenous DMT argument
 - [[mckenna-dmt-serotonin-structural-affinity-and-endogenous-presence]] — structural
   analysis
-- [[mckenna-quantum-mechanical-correlates-hallucinogenesis]] — quantum mechanical
-  argument
 - [[5-meo-dmt-compound-profile]] — pharmacological profile of a related tryptamine
 - [[4-hydroxyindole-tryptamine-synthesis-building-block]] — tryptamine chemistry

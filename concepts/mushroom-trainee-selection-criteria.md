@@ -6,11 +6,7 @@ type: concept
 
 # Mushroom Cultivation Trainee Selection Criteria
 
-Selecting the right trainees [[grass-seed-substrate-for-mushroom-cultivation]] programs targeting people with disabilities is one of the most critical steps in ensuring program success. Proper selection maximizes the impact of training resources, improves trainee outcomes, and supports long-term rehabilitation and economic self-sufficiency. This page outlines the comprehensive criteria and procedures used to identify and choose suitable candidates.
-
-## Overview
-
-[[mushroom-cultivation-training-program-design]] is not merely a vocational skill transfer — it is a process of rehabilitation and social reintegration. The selection process must therefore evaluate not only a candidate's practical suitability but also their personal circumstances, family dynamics, motivation, and the broader community environment in which they will eventually establish their enterprise.
+Selecting the right trainees [[mushroom-cultivation-training-program-design]] is not merely a vocational skill transfer — it is a process of rehabilitation and social reintegration. The selection process must therefore evaluate not only a candidate's practical suitability but also their personal circumstances, family dynamics, motivation, and the broader community environment in which they will eventually establish their enterprise.
 
 ## Selection Process
 
@@ -22,11 +18,11 @@ Candidates are identified through multiple channels. Government officials at the
 
 ### Step 2: Pre-Selection Screening
 
-During pre-selection, basic eligibility criteria are applied. The ideal age range is 20–35 years, as candidates in this group tend to have the physical stamina and long-term productivity potential needed for mushroom cultivation. The type and severity of disability are verified to ensure the training can accommodate the candidate's specific needs. Basic literacy is preferred, as it aids in understanding written instructions and record-keeping. Candidates with multiple disabilities (e.g., visual and hearing impairments combined) may face significant difficulties and require careful evaluation before acceptance.
+During pre-selection, basic eligibility criteria are applied. The ideal age range is 20–35 years, as candidates in this group tend to have the physical stamina and long-term productivity potential needed for [[mushroom-cultivation]]. The type and severity of disability are verified to ensure the training can accommodate the candidate's specific needs. Basic literacy is preferred, as it aids in understanding written instructions and record-keeping. Candidates with multiple disabilities (e.g., visual and hearing impairments combined) may face significant difficulties and require careful evaluation before acceptance.
 
 ### Step 3: Geographic Diversity
 
-When [[selecting-trainees-mushroom-cultivation]], organizers should favor geographic spread across different districts and communities. This approach serves two purposes: it encourages replication [[history-of-mushroom-cultivation]] knowledge across regions, and it helps avoid market saturation in any single area. If all trainees come from the same locality, they will compete with each other after training, reducing everyone's economic viability.
+When [[history-of-mushroom-cultivation]] knowledge across regions, and it helps avoid market saturation in any single area. If all trainees come from the same locality, they will compete with each other after training, reducing everyone's economic viability.
 
 ### Step 4: Home Interviews
 

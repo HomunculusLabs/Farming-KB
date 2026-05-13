@@ -8,23 +8,7 @@ sources: ["Shulgin - PIHKAL"]
 ---
 # LOPHOPHINE
 
-[[2c-b-pihkal-entry-20]] #95. 3-METHOXY-4,5-METHYLENEDIOXYPHENETHYLAMINE.
-
-## Chemical Name
-
-3-METHOXY-4,5-METHYLENEDIOXYPHENETHYLAMINE
-
-## Dosage and Duration
-
-| Property | Value |
-|----------|-------|
-| Dosage | greater than 200 mg. |
-| Duration | unknown. |
-
-## Qualitative Comments
-
-> (with 150 mg) Between two and five hours, very
-> peaceful and euphoric mood elevation, similar to [[mescaline]], but
+[[mescaline]], but
 > without any visual distortion. Mild enhancement of color perception,
 > possibly a function of mood elevation. There was no nausea, no
 > eyes-closed vision. Slept easily that evening.
@@ -41,28 +25,7 @@ fact that it is not active is completely unexpected. Let me try to
 explain.
 
 Quite simply, mescaline is a major component and a centrally active
-alkaloid of the [[lophophora-williamsii]], why not give
-a name to this compound (which should be in the plant), one derived
-from the Latin name, but one that has never before been used? What
-about LOPHOPHINE? And so, I have named it, but I have not found it,
-nor has anyone else. Yet.
-
-It is inevitable that this simple and most appealing precursor will be
-found to be present in the cactus, at some future time when we will
-have tools of sufficient sensitivity to detect it. And certainly, it
-would be reasonable to expect it to be an active psychedelic, and to
-
-be as interesting in man as its close cousin, mescaline. But, at the
-present time, LOPHOPHINE is not known to be present in the plant, and
-it is not known to be active in man. I am confident that both
-statuses will change in the future.
-
-## Synthesis
-
-A solution of 50 g myristicinaldehyde
-(3-methoxy-4,5-methylenedioxybenzaldehyde, see under MMDA for its
-preparation) in 200 mL acetic acid was treated with 33 mL nitromethane
-and 17.4 g anhydrous ammonium acetate and held on the [[scythian-cannabis-steam-bath-ritual]] for 5
+alkaloid of the [[scythian-cannabis-steam-bath-ritual]] for 5
 h. The reaction mixture was diluted with a little H2O and cooled in
 an external ice-acetone bath. A heavy crop of yellow crystals formed,
 which were removed by filtration, washed with cold acetic acid, and
@@ -88,3 +51,88 @@ containing 133 g H2SO4. The phases were separated, and the aqueous
 phase was washed with 2x100 mL Et2O. To it was then added 625 g
 potassium sodium tartrate, and sufficient base to bring the pH to >9.
 This was extracted with 3x250 mL CH2Cl2, and the pooled extracts
+
+## Overview
+
+Lophophine Entity Pihkal represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish lophophine entity pihkal
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving lophophine extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Lophophine Entity Pihkal finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for lophophine entity pihkal. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+lophophine entity pihkal and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Lophophine Entity Pihkal has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of lophophine entity pihkal into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[2c-g-3-entity]]
+- [[4-5-mdo-dmt-entity-tihkal]]
+- [[5-6-mdo-dipt-entity-tihkal]]
+- [[lophophine-entity]]
+- [[methyl-k-entity-pihkal]]

@@ -3,7 +3,7 @@ title: Honey Extraction and Processing
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
-tags: [[homesteading]], animal-husbandry, processing, food, equipment]
+tags: [homesteading, animal-husbandry, processing, food, equipment]
 sources: []
 ---
 
@@ -74,7 +74,7 @@ The wax capping must be removed before honey can be extracted.
 ## Extraction
 
 ### Radial Extractor
-Frames sit with the [[comparison-beekeeping-basics-vs-top-bar-hive]] pointing outward. Centrifugal force flings
+Frames sit with the top bar pointing outward. Centrifugal force flings
 honey out of both sides simultaneously. Most efficient for medium to large
 operations. Requires even frame loading.
 
@@ -140,11 +140,11 @@ high-quality beeswax.
 ### Solar Wax Melter
 A simple insulated box with a glass lid. Sun melts wax, which flows into
 a collection container. Slumgum stays behind on the screen. Excellent
-off-grid method — see [[solar-oven-cooking]] for related [[fukuoka-textdoc-three-dimensional-solar-energy-methodless-method]]
-principles.
 
-### Uses for Beeswax
-- Candles, lip balm, salves, furniture polish
-- Waxing frames (foundation coating with a wax dip tank)
-- Cheese waxing and food preservation
-- See [[bee-product-medicinal-uses]] for medicinal applications
+## See Also
+
+- [[holzer-beekeeping-and-honey-production]]
+- [[mushroom-infused-honey-preparation]]
+- [[mckenna-food-gods-mead-honey-dionysian]]
+- [[mckenna-honey-mead-dionysian-cult]]
+- [[mckenna-myth-of-glaukos-honey-preservation-mushroom]]

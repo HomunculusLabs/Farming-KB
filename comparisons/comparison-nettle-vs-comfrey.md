@@ -12,13 +12,9 @@ type: comparison
 
 ## Overview
 
-[[comparison-stinging-nettle-vs-horsetail]] (*Urtica dioica*) and comfrey (*Symphytum officinale*) are the
-two most celebrated [[nutrient-dynamic-accumulator-reference]] plants in permaculture. Both mine
+[[nutrient-dynamic-accumulator-reference]] plants in permaculture. Both mine
 minerals from deep subsoil layers, produce nutrient-rich biomass for mulch and
-fertilizer, support [[comparison-pheromone-based-pest-control-vs-beneficial-insect-biocontrol]] populations, and offer significant
-medicinal value. Yet they differ markedly in their growth habits, nutritional
-profiles, practical uses, and management requirements. Understanding these
-differences allows growers to [[query-how-do-i-choose-the-right-cannabis-strain-for-my-grow]] plant for each function, or to
+fertilizer, support [[query-how-do-i-choose-the-right-cannabis-strain-for-my-grow]] plant for each function, or to
 combine both for maximum soil-building benefit.
 
 ## Stinging Nettle
@@ -55,12 +51,6 @@ the leaves.
 | **Primary Nutrients** | Nitrogen, iron, calcium | Potassium, phosphorus, calcium |
 | **Edible Leaves** | Yes, highly nutritious | No, contains PAs |
 | **Medicinal Safety** | Generally safe internally | Topical only; PAs are hepatotoxic |
-| **[[dighton-fungal-biomass-production-aquatic-ecosystems]]** | Moderate, multiple cuts | Very high, 4 to 6 cuts per season |
-| **Insect Support** | Butterfly host plant | Bee forage (flowers) |
-| **Fiber Crop** | Yes, bast fiber for textiles | No |
-| **Spread Control** | Requires root barriers | Self-contained (sterile cultivars) |
-| **Liquid Fertilizer** | High nitrogen (leaf growth) | High potassium (fruit/flower) |
-| **Shade Tolerance** | High, grows in full shade | Moderate, prefers full sun |
 | **[[dighton-fungal-drought-tolerance-plant-water-relations]]** | Moderate | High once established |
 
 ## When to Choose Nettle
@@ -98,11 +88,7 @@ growth stages.
 
 ## See Also
 
-- [[comparison-moringa-vs-comfrey]]
 - [[comparison-chamomile-vs-nettle]]
 
-- [[comparison-comfrey-vs-aloe-vera]]
-
 - [[chop-and-drop-mulching]]
-- [[comparison-comfrey-vs-dandelion]]
 - [[comparison-dynamic-accumulators-vs-cover-crops]]

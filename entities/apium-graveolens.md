@@ -47,17 +47,9 @@ Optimal growth occurs at 15–21°C with consistent irrigation. Water stress cau
 
 Common pests include celery leaf miner (*Euleia heraclei*), carrot rust fly (*Psila rosae*), and aphids. Fusarium yellows and late blight (*Septoria apiicola*) are the most significant diseases. Resistant cultivars and crop rotation with non-Apiaceae species are primary management strategies.
 
-Celery has moderate nutrient requirements, with nitrogen being the most critical input for stalk development. Excessive nitrogen produces lush but brittle growth prone to lodging. Organic production relies on composted manures and cover cropping, with biological controls including *[[cervantes-bacillus-thuringiensis-bt-control]]* for lepidopteran pests. Hydroponic celery production is practiced commercially in controlled environments, reducing water usage by 80–90% compared to field cultivation.
+Celery has moderate nutrient requirements, with nitrogen being the most critical input for stalk development. Excessive nitrogen produces lush but brittle growth prone to lodging. Organic production relies on composted manures and cover cropping, with biological controls including *[[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]]. The essential oil (0.1–0.5% of fresh weight) is dominated by **[[limonene]]** (60–70%), with significant contributions from **beta-selinene**, **sedanolide**, and **3-n-butylphthalide** (3nB). Phenylpropanoid compounds include **apiin**, **[[apigenin]]**, and **luteolin** glycosides.
 
-## Chemistry and Pharmacology
-
-Celery contains a diverse array of [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]]. The essential oil (0.1–0.5% of fresh weight) is dominated by **limonene** (60–70%), with significant contributions from **beta-selinene**, **sedanolide**, and **3-n-butylphthalide** (3nB). Phenylpropanoid compounds include **apiin**, **apigenin**, and **luteolin** glycosides.
-
-3-n-Butylphthalide (3nB) is the most pharmacologically significant constituent. It has demonstrated vasodilatory activity, reducing blood pressure in multiple animal models and human [[mushroom-cancer-clinical-trials-overview]] at doses of 75–150 mg/day. Sedanolide and sedanonic anhydride exhibit chemopreventive activity against hepatic and colon carcinogenesis in rodent studies.
-
-The flavonoid fraction, primarily **apigenin** and **luteolin**, contributes anti-inflammatory and antioxidant effects. Apigenin inhibits NF-κB signaling and TNF-α production in vitro.
-
-Luteolin glycosides from celery demonstrate neuroprotective effects in animal models, reducing [[blesching-cannabis-oxidative-stress-and-antioxidant-defense]] markers in brain tissue. Both flavonoids show synergistic antioxidant activity with vitamin C and other polyphenols present in the plant matrix.
+3-n-Butylphthalide (3nB) is the most pharmacologically significant constituent. It has demonstrated vasodilatory activity, reducing blood pressure in multiple animal models and human [[blesching-cannabis-oxidative-stress-and-antioxidant-defense]] markers in brain tissue. Both flavonoids show synergistic antioxidant activity with vitamin C and other polyphenols present in the plant matrix.
 
 Celery seed extracts show COX-2 inhibitory activity comparable to non-steroidal anti-inflammatory drugs at standardized concentrations.
 

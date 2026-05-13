@@ -9,17 +9,7 @@ sources:
 ---
 # JADAM Soil Management Principles
 
-Conventional farming cannot solve the problem of soil compaction. You might be frustrated by this fact, but nothing can be clearer: continuing conventional agriculture and bringing back life to soil are not compatible. This is the starting premise of [[jadam-microorganism-solution-jms]], and use tiller to break them down.
-
-Nature always grows vegetation which turn into [[complete-organic-fertilizer-cof-recipe-solomon]]. It is always 100% self-sufficient. [[coleman-first-rule-nature-makes-sense]] it a rule to apply fertilizer: in autumn, on the surface, and in raw form. After autumn, winter and spring pass, compost will be fully prepared. Another merit of autumn application is that it can prevent larvae damage in spring because there is no food for them.
-
-Some say compost has to reach 75°C (167°F) to kill harmful microbes and that beneficial microbes survive. This claim is not backed by science. All [[hamilton-composting-and-organic-matter-management]] has decomposed at [[jadam-ambient-temperature-principle]] for billions of years. Is nature full of only harmful bacteria? Temperature claim is just another trap set up to scam farmers.
-
-## The Soil Foundation Method
-
-The most important technology of JADAM is "soil foundation work" — applying [[jadam-liquid-fertilizer]] before the transplanting of crop plants and the sprouting or flowering of [[comparison-pruning-fruit-trees-vs-grafting-fruit-trees]] on a regular basis through irrigation.
-
-Use a motored sprayer, sprinkler or [[comparison-drip-irrigation-vs-passive-irrigation]] to apply a mixture of:
+Conventional farming cannot solve the problem of soil compaction. You might be frustrated by this fact, but nothing can be clearer: continuing conventional agriculture and bringing back life to soil are not compatible. This is the starting premise of [[complete-organic-fertilizer-cof-recipe-solomon]]. It is always 100% self-sufficient. [[hamilton-composting-and-organic-matter-management]] has decomposed at [[jadam-liquid-fertilizer]] before the transplanting of crop plants and the sprouting or flowering of [[comparison-drip-irrigation-vs-passive-irrigation]] to apply a mixture of:
 - JMS (500 L per 1/4 acre to 8 acres)
 - Sea salt (500 g per 1/4 acre)
 - Phyllite solution (500 g per 1/4 acre)
@@ -31,9 +21,7 @@ The greatest benefit: root settlement will be very strong. Roots will be almost 
 
 What is the best organic material? Contrary to common belief, rice bran, perilla pulp and press cakes are not the best — they are leftovers (peel) after nutritional essences have been extracted. They are deficient in comprehensive nutrients. Fertilizer made from plant skin disrupts nutrient balance — this in itself is a form of soil contamination.
 
-JADAM's [[jadam-natural-pesticide-philosophy]] — detailed leaf mold collection and use
-- [[lowenfels-earthworms-soil-food-web]]
-- [[composting-systems]] — alternative composting approaches
+JADAM's [[lowenfels-earthworms-soil-food-web]]
 - [[jadam-anaerobic-fermentation-principles]] — the science behind JADAM inputs
 ## Practical Applications
 
@@ -96,8 +84,6 @@ through generations to modern scientific approaches, the evolution continues
 to inform current best practices and research directions.
 
 ## See Also
-- [[doc]]
 - [[det]]
-- [[composting]]
 - [[jadam-soil-management-no-till-and-weed-control]]
 - [[jadam-soil-management-without-tillage]]

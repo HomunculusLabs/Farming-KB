@@ -10,25 +10,11 @@ created: 2026-05-08
 
 ## Overview
 
-Amanita muscaria ([[amanita-muscaria-fly-agaric-history-and-pharmacology]]) and [[amanita-pantherina]] (panther
+Amanita muscaria ([[amanita-pantherina]] (panther
 cap) are mushrooms containing the psychoactive compounds muscimol
-and ibotenic acid. Unlike [[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]] which act on
-[[psilocybin-pharmacology-and-serotonin-receptors]], Amanita species produce intoxication through
+and ibotenic acid. Unlike [[psilocybin-pharmacology-and-serotonin-receptors]], Amanita species produce intoxication through
 GABA receptor agonism and glutamate receptor activity. These
-mushrooms grow throughout much of the [[dmt-containing-plants-united-states-halpern]] but carry
-serious misidentification risks due to proximity of deadly
-poisonous Amanita species.
-
-## Active Compounds
-
-### Muscimol
-A GABA-A receptor agonist that produces mild sedation and
-dissociative effects. Muscimol is the primary psychoactive
-constituent in properly prepared Amanita muscaria. Estimated
-active dose is approximately 6 mg.
-
-### Ibotenic Acid
-An excitatory [[cho-fish-amino-acid-preparation]] that acts as a glutamate receptor
+mushrooms grow throughout much of the [[cho-fish-amino-acid-preparation]] that acts as a glutamate receptor
 agonist, inducing agitated toxic delirium. Active dose estimated
 at 30-60 mg. Ibotenic acid is a prodrug that decarboxylates to
 form muscimol when the mushrooms are dried.
@@ -75,14 +61,7 @@ had initially ingested the mushrooms — the active compounds
 pass through largely unmetabolized (Wasson, 1979).
 
 Shamanic practices with Amanita muscaria have been noted among
-traditional peoples of the Arctic Circle and some [[halpern-sacramental-peyote-and-native-american-church]]
-tribes. The urine recycling practice allowed the psychoactive
-effects to be shared or extended without consuming additional
-mushroom material.
-
-## Misidentification Risk
-
-This is the most serious concern with [[amanita-muscaria-use-australia-nz]].
+traditional peoples of the Arctic Circle and some [[amanita-muscaria-use-australia-nz]].
 Several Amanita species grow in close proximity, and some are
 deadly poisonous:
 
@@ -118,8 +97,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[ibotenic-acid]]
 - [[amanita-muscaria]]
-- [[amanita]]
 - [[amanita-phalloides]]
 - [[bloomfield-fly-agaric-amanita-muscaria-muscimol-ibotenic-acid-hallucinogens]]

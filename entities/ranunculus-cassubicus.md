@@ -103,13 +103,8 @@ It is rarely available commercially outside specialist native plant nurseries. T
 
 ## See Also
 
-- [[ranunculus-auricomus]]
 - [[ranunculus-acris]]
-- [[ranunculus-repens]]
 - [[anemone-nemorosa]]
-- [[ranunculus-bulbosus]]
 - [[ficaria-verna]]
-- [[ranunculus-lingua]]
 - [[ranunculus-flammula]]
-- [[ranunculus-polyanthemos]]
 - [[caltha-palustris]]

@@ -4,7 +4,7 @@ created: 2026-04-28
 tags: [query, mycology, mycorrhizae, forest-ecology, plant-biology]
 date: 2026-04-25
 updated: 2026-04-25
-sources: []
+sources: [raw/papers/forest-gardening-robert-hart.md]
 type: query
 ---
 
@@ -12,7 +12,7 @@ type: query
 
 ## Short Answer
 Ectomycorrhizal fungi form symbiotic associations with the roots of approximately 2 percent of plant species,
-predominantly trees and shrubs in temperate and [[fungal-diversity-boreal-forests-taiga]]. Unlike [[comparison-soil-food-web-vs-arbuscular-mycorrhizal-fungi]] fungi that penetrate root
+predominantly trees and shrubs in temperate and [[comparison-soil-food-web-vs-arbuscular-mycorrhizal-fungi]] fungi that penetrate root
 cells, ectomycorrhizal fungi form a distinctive sheath or mantle around the root surface and a network between root
 cells called the Hartig net, facilitating extensive nutrient and carbon exchange between the fungus and its host plant.
 
@@ -27,8 +27,7 @@ German forest pathologist Robert Hartig who first described it in the 1880s. Thi
 exchange, where the fungus transfers mineral nutrients and water to the plant in return for photosynthetically derived
 carbon compounds, primarily sugars.
 
-The [[arbuscular-mycorrhizal-fungi]] comparison reveals that while arbuscular mycorrhizae are more effective at
-acquiring inorganic phosphorus from soil solution, ectomycorrhizal fungi excel at mining [[hamilton-composting-and-organic-matter-management]] for nitrogen,
+The [[hamilton-composting-and-organic-matter-management]] for nitrogen,
 giving them a competitive advantage in the nitrogen-limited soils typical of boreal and montane forests where organic
 matter accumulates in thick layers.
 
@@ -49,22 +48,14 @@ may associate with 100 or more ECM fungal species simultaneously, creating one o
 communities documented in any ecosystem. This diversity provides functional redundancy and resilience against
 environmental perturbations.
 
-Some plant families include both ECM and arbuscular mycorrhizal species. The [[arbuscular-mycorrhizal-networks]] concept extends to ECM systems as well, where mycelial connections between trees
-facilitate the transfer of carbon, water, and nutrient signals between individuals. This underground network, sometimes
-called the 'wood wide web,' allows mature trees to support shaded seedlings and buffer stressed individuals during
-drought or insect attack.
-
-ECM fungi significantly influence soil carbon dynamics and [[mycorrhizal-fungi-soil-carbon-sequestration-by-type]]. The fungal mantle and extensive
+Some plant families include both ECM and arbuscular mycorrhizal species. The [[mycorrhizal-fungi-soil-carbon-sequestration-by-type]]. The fungal mantle and extensive
 extraradical mycelium produce substantial quantities of chitin, glomalin, and other recalcitrant compounds that resist
 decomposition and contribute to stable soil organic matter pools. Forests dominated by ECM trees tend to accumulate more
 soil carbon than those dominated by arbuscular mycorrhizal or non-mycorrhizal vegetation.
 
 Many ECM fungi produce fruiting bodies that serve as critical food resources for forest wildlife. Mammals including
 deer, squirrels, chipmunks, voles, and bears consume large quantities of ECM mushrooms, dispersing spores through their
-feces and facilitating fungal colonization of new areas. The [[agricultural-mycorrhizae]] guide provides detailed protocols for producing and applying ECM
-inoculum at commercial scale.
-
-[[comparison-truffle-cultivation-basics-vs-mushroom-indoor-cultivation]] represents one of the most economically significant applications of ECM knowledge. Truffles of the
+feces and facilitating fungal colonization of new areas. The [[comparison-truffle-cultivation-basics-vs-mushroom-indoor-cultivation]] represents one of the most economically significant applications of ECM knowledge. Truffles of the
 genus Tuber form exclusive ectomycorrhizal associations with specific host trees, primarily oaks and hazelnuts. Truffle
 orchards are established by inoculating tree seedlings with truffle spores in controlled nursery conditions, then
 planting the colonized trees in carefully selected soils with appropriate pH, drainage, and mineral composition.

@@ -64,57 +64,86 @@ Altitudinal range is approximately 200–1000 m above sea level. Populations are
 
 The species is generally found on basalt-derived soils and metamorphic substrates, avoiding the acidic granite-derived soils that characterize parts of the southern Wet Tropics. Soil moisture retention appears to be a critical factor in determining local abundance.
 
-The species co-occurs with other tree ferns including [[cyathea-cooperi]], [[cyathea-brownii]], and [[cyathea-dealbata]] at certain elevations. It tends to occupy slightly cooler and wetter microsites than the more widespread Cyathea cooperi.
-
-Key populations occur in the Daintree National Park, the Bellenden Ker Range, the Atherton Tablelands margins, and the Paluma Range. The species is absent from the drier western slopes of the Great Dividing Range, indicating a strict moisture dependency.
-
-## Ecology
-
-Cyathea woollsiana plays an important structural role in the rainforest understory. Its tall trunk and spreading crown create microhabitats for epiphytic ferns, orchids, and bryophytes. The persistent dead fronds that hang below the crown provide shelter for invertebrates and small vertebrates.
-
-Reproduction is exclusively via spores, which are wind-dispersed. Gametophyte establishment requires continuously moist substrates, typically rotting logs, mossy rocks, or exposed mineral soil in sheltered microsites. Sporulation occurs year-round in the Wet Tropics but peaks during the wet season (December–March).
-
-The species is relatively slow-growing, with trunk elongation rates estimated at 5–10 cm per year under optimal conditions. Mature individuals are long-lived, with some specimens estimated at 50–100+ years based on trunk height and growth-ring analyses.
-
-The root mantle at the base of the trunk provides important substrate for epiphytic establishment. Species of Hymenophyllum (filmy ferns) and various mosses frequently colonize the persistent stipe bases along the upper trunk.
-
-Threats include habitat fragmentation from land clearing, invasive plant competition (particularly from *Lantana camara* and *Mikania micrantha*), and fire incursion into rainforest margins. Climate change poses a long-term risk through reduced cloud-base altitude and increased drought frequency.
-
-## Cultivation and Uses
-
-Cyathea woollsiana is cultivated as an ornamental specimen in tropical and subtropical gardens. Its tall, slender trunk and elegant spreading fronds make it a striking landscape feature in shaded positions.
-
-Cultivation requirements include consistently moist, well-drained, humus-rich soils with a slightly acidic pH. The species prefers dappled shade to full canopy shade and is intolerant of direct sun exposure when young.
-
-Propagation is by spore, which requires sterile sowing techniques on peat-based media under high humidity. Germination typically occurs within 4–12 weeks at temperatures of 20–25°C. Transfer to individual pots occurs at the 2–3 frond stage.
-
-Young plants are sensitive to desiccation and require consistent watering during the establishment phase, which may take 2–3 years before trunk formation begins. Fertilization with dilute seaweed extracts benefits container-grown specimens.
-
-The species has limited ethnobotanical significance. Aboriginal peoples of the Wet Tropics region used the pith of related tree fern species as an emergency food source, though specific records for Cyathea woollsiana are scarce.
-
-The fibrous root mantle surrounding the trunk base was traditionally used by some Aboriginal groups as a coarse packing material. The trunk cross-section reveals a distinctive pattern of vascular bundles that can aid in field identification when fronds are not accessible.
-
-Conservation status has not been formally assessed by the IUCN, but the species is considered uncommon within its restricted range. It is protected within several national parks including Daintree, Wooroonooran, and Paluma Range National Parks.
-
-## Conservation
-
-Cyathea woollsiana is listed as Priority Three under the Queensland Nature Conservation Act where it receives indirect protection through habitat preservation. Its total population is estimated at fewer than 10,000 mature individuals across all known sites.
-
-The Wet Tropics of Queensland World Heritage Area encompasses most of the species' known range, providing a high level of de facto protection from logging and land clearing. However, edge effects from adjacent agricultural land and infrastructure corridors continue to degrade marginal habitats.
-
-Recovery actions recommended by the Queensland Herbarium include targeted surveys to clarify the species' full distribution, long-term monitoring of key populations, and ex situ conservation through spore banking at the Australian PlantBank at Mount Annan.
-
-Climate modeling predicts a 30–50% reduction in suitable habitat by 2070 under intermediate emission scenarios, driven primarily by increased drought frequency and rising cloud-base altitudes in the Wet Tropics uplands.
-
-## See Also
-
-- [[cyathea-cooperi]]
-- [[cyathea-brownii]]
+The species co-occurs with other tree ferns including [[cyathea-brownii]], and [[cyathea-cooperi]]
 - [[cyathea-dealbata]]
-- [[cyathea-medullaris]]
 - [[dicksonia-antarctica]]
-- [[dicksonia-squarrosa]]
 - [[alsophila-aspera]]
-- [[cibotium-barometz]]
 - [[cyathea-australis]]
 - [[dicksonia-fibrosa]]
+
+## Overview
+
+Cyathea Woollsiana represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish cyathea woollsiana
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving cyathea extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Cyathea Woollsiana finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for cyathea woollsiana. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+cyathea woollsiana and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Cyathea Woollsiana has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of cyathea woollsiana into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.

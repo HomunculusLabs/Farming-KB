@@ -28,13 +28,8 @@ created: 2026-04-28
 
 ## Overview
 
-**Tahoe OG** (also known as **Tahoe OG Kush**) is a potent indica-dominant hybrid [[blesching-cannabis-strain-selection-receptor-targeting]] believed to have originated in the Lake Tahoe region of the Sierra Nevada mountains in Northern California. It is a phenotype of **[[og-kush-cannabis-entity]]**, itself a cross of **[[sfv-og]]** (San Fernando Valley OG) influence, as both strains emerged from the Southern California OG Kush pool in the early 2000s. However, the exact breeding history remains undocumented, as is common with legacy West Coast strains.
-
-The strain is genetically distinct from other regional OG phenotypes such as **[[sour-diesel]]**, and **[[og-kush-cannabis-entity]] — the parent strain from which Tahoe OG was selected
-- [[sfv-og]] — related San Fernando Valley OG phenotype
-- [[headband]] — OG Kush phenotype known for its cerebral pressure effects
+**Tahoe OG** (also known as **Tahoe OG Kush**) is a potent indica-dominant hybrid [[og-kush-cannabis-entity]]**, itself a cross of **[[sour-diesel]]**, and **[[sfv-og]] — related San Fernando Valley OG phenotype
 - [[afghan-kush]] — landrace indica ancestor in the OG Kush family tree
-- [[blue-dream]] — popular hybrid contrasting Tahoe OG's heavy indica effects
 - [[granddaddy-purple]] — classic indica with similar heavy sedative effects
 - [[jack-herer]] — sativa-dominant contrast to Tahoe OG's heavy indica profile
 ## Practical Applications

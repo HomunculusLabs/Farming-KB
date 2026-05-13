@@ -12,21 +12,7 @@ created: 2026-05-09
 
 The study by Winston et al. (2014) documented a clear gradient of decreasing microbial alpha diversity from bulk soil through the rhizosphere and into the Cannabis endorhiza.
 
-This gradient is a common pattern in plant microbiome research and reflects the increasing selectivity of the plant host as [[cannabis-endorhiza-bacterial-communities]] move from the open soil environment into root tissue.
-
-## The Diversity Gradient
-
-Alpha diversity was assessed using observed species counts and the chao1 richness estimator in the second experiment (White Widow and Maui Wowie grown in two soil types). The pattern was consistent and clear:
-
-- Bulk soil (highest): chao1 mean = 4947, SD = 717
-- Rhizosphere (intermediate): chao1 mean = 4525, SD = 542
-- Endorhiza (lowest): chao1 mean = 3321, SD = 420
-
-The reduction from bulk soil to rhizosphere is relatively modest (approximately 8.5% decrease), while the reduction from rhizosphere to endorhiza is dramatic (approximately 26.6% decrease).
-
-This steep drop at the soil-to-root interface mirrors the beta-diversity patterns showing that the biggest community restructuring occurs when bacteria colonize plant tissue.
-
-The two-step nature of this gradient — a gentle slope from bulk soil to rhizosphere, then a sharp cliff from rhizosphere to endorhiza — is consistent across multiple diversity metrics and [[darwin-five-seedling-phototropism-experimental-conditions]].
+This gradient is a common pattern in plant microbiome research and reflects the increasing selectivity of the plant host as [[darwin-five-seedling-phototropism-experimental-conditions]].
 
 ## Soil Type Effects on Alpha Diversity
 
@@ -39,7 +25,7 @@ The two soil types used in the second experiment (Mo-Bio soil and Orange County 
 
 The Mo-Bio soil consistently supported higher microbial diversity than the Orange County soil, with differences visible at both the bulk soil and rhizosphere levels.
 
-This likely reflects differences in [[cannabinoid-microbiome-correlation-confounded-edaphic-factors]] between the two soils, including total organic carbon (5.00% for Mo-Bio vs. 20.0% for Orange County), nitrogen content, and other [[soil-physicochemical-properties-cannabis-microbiome-assembly-winston]].
+This likely reflects differences in [[soil-physicochemical-properties-cannabis-microbiome-assembly-winston]].
 
 Interestingly, the Orange County soil had much higher total organic carbon yet lower diversity. This counterintuitive finding may reflect the specific quality or composition of the organic matter, or other confounding soil properties that affect microbial community assembly.
 
@@ -66,17 +52,7 @@ The decreasing diversity gradient can be understood through several ecological m
 
 The rhizosphere is a more homogeneous environment than bulk soil, with root exudates creating a nutrient-rich zone that favors certain bacterial groups over others.
 
-This represents a first level of environmental filtering. Root exudates — including sugars, amino acids, organic acids, [[plant-defense-mechanisms]] — create a chemical environment that selects for bacteria capable of utilizing these compounds.
-
-The endorhiza represents an even more selective environment, where only bacteria capable of colonizing root tissue, evading or tolerating plant immune responses, and competing for niche space within the root can persist.
-
-### Competitive Exclusion
-
-Within the root, bacterial taxa compete for limited space and resources.
-
-Many soil-adapted generalists are outcompeted by specialized endophytes that have evolved mechanisms for root colonization, such as the production of cell-wall-degrading enzymes, biofilm formation, or the ability to utilize specific root compounds.
-
-The endorhiza is a spatially constrained environment. Root tissue provides limited physical niches, and successful colonizers can exclude competitors through resource depletion, production of [[antimicrobial-compounds-mushroom-mycelium]], or physical occupation of colonization sites.
+This represents a first level of environmental filtering. Root exudates — including sugars, amino acids, organic acids, [[antimicrobial-compounds-mushroom-mycelium]], or physical occupation of colonization sites.
 
 ### Plant Immune Selection
 
@@ -117,8 +93,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[alpha-diversity-gradient-bulk-soil-cannabis-endorhiza]]
 - [[beta-diversity-distances-bulk-soil-rhizosphere-cannabis-endorhiza]]
-- [[cannabis-rhizosphere-bulk-soil-similarity-endorhiza-divergence]]
 - [[doc]]
 - [[dom]]

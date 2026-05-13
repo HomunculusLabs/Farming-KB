@@ -12,9 +12,7 @@ type: concept
 # Peroxidase-Catalyzed PAH Degradation by Fungi
 
 Enzyme treatment provides a powerful strategy for the removal of
-[[singh-fungal-biodegradation-of-polycyclic-aromatic-hydrocarbons]] hydrocarbons (PAHs) in wastewaters and soils.
-White-rot Basidiomycetes produce a complex inventory of peroxidases,
-including lignin peroxidase (LiP) and [[fungal-manganese-peroxidase-remediation]] (MnP), which
+[[fungal-manganese-peroxidase-remediation]] (MnP), which
 play central roles in PAH oxidation through one-electron transfer
 mechanisms producing reactive cation radicals.
 
@@ -72,9 +70,7 @@ degradation with 0.4% mineralization. Addition of 5 mM glutathione
 (GSH) enhanced benzo[a]pyrene mineralization to 4.0% CO2 while
 maintaining greater than 99% degradation.
 
-## [[trametes-versicolor-entity]] MnP
-
-[[growing-gourmet-turkey-tail-trametes-versicolor-cultivation]] MnP degraded 75% of phenanthrene (10 mg/l) in 11
+## [[growing-gourmet-turkey-tail-trametes-versicolor-cultivation]] MnP degraded 75% of phenanthrene (10 mg/l) in 11
 days and 100% of fluorene in 7 days (Collins and Dobson, 1996).
 P. chrysosporium MnP achieved greater than 99% degradation of fluorene
 (20 uM) through MnP-based lipid peroxidation in 7 days (Bogan et al.,

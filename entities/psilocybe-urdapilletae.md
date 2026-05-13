@@ -10,56 +10,13 @@ sources: [/Users/t3erpz/wiki/raw/papers/cultivation-of-panaeolus-cyanescens-and-
 
 # Psilocybe urdapilletae
 
-**Psilocybe urdapilletae** is a rare [[emcdda-psilocybin-non-addictive-profile-tolerance-dynamics]] in the family Hymenogastraceae, described from the highlands of Jalisco state in western Mexico. The species was named by gastón-guzmán in honor of a local guide who assisted with mycological fieldwork in the region. It is classified in Psilocybe [[psilocybe-aztecorum-section-aztecorum-alpine-neurotropic-fungi-guzman-1998]], sharing morphological and ecological characteristics with [[psilocybe-pseudoaztecorum]] of central Mexico.
-
-## Taxonomy
-
-psilocybe urdapilletae was described by Guzmán based on collections from the Sierra de Manantlán in Jalisco, western Mexico. Its placement in section Aztecorum was established on the basis of microscopic features (particularly cheilocystidia morphology and spore characteristics) and its high-elevation montane habitat. Molecular phylogenetic data for this species are limited, but available sequences place it within the broader Psilocybe clade in a position consistent with section Aztecorum membership. The species is one of the least documented members of its section, known from only a handful of collections.
-
-## Morphology
-
-The pileus measures 10–30 mm in diameter, convex to broadly convex, sometimes with a slight depression at the center with age. The surface is hygrophanous, dark brown to chestnut brown when moist, drying to a pale buff, cream, or light tan color. It is smooth and slightly viscid when wet, with a margin that may be slightly translucent-striate when fresh. The cap flesh is thin, whitish, and develops a noticeable blue to blue-green bruising when cut or handled. The [[field-guide-psilocybin-bluing-reaction-identification]] is described as moderate to strong, comparable to [[psilocybin]] and [[psilocin]], which oxidizes to blue pigments upon tissue damage. Baeocystin has been tentatively identified but not quantified. No detailed quantitative analysis of the tryptamine profile has been published for this species. Based on comparisons with better-studied section Aztecorum members, total psilocybin content is estimated at approximately 0.3–0.6% of dried weight, placing psilocybe urdapilletae in the moderate potency range. The chemical profile and observed bluing intensity suggest that psilocin accounts for a significant proportion of the total tryptamine content, consistent with the prominent blue staining characteristic of fresh collections.
+**Psilocybe urdapilletae** is a rare [[psilocybe-aztecorum-section-aztecorum-alpine-neurotropic-fungi-guzman-1998]], sharing morphological and ecological characteristics with [[field-guide-psilocybin-bluing-reaction-identification]] is described as moderate to strong, comparable to [[psilocin]], which oxidizes to blue pigments upon tissue damage. Baeocystin has been tentatively identified but not quantified. No detailed quantitative analysis of the tryptamine profile has been published for this species. Based on comparisons with better-studied section Aztecorum members, total psilocybin content is estimated at approximately 0.3–0.6% of dried weight, placing psilocybe urdapilletae in the moderate potency range. The chemical profile and observed bluing intensity suggest that psilocin accounts for a significant proportion of the total tryptamine content, consistent with the prominent blue staining characteristic of fresh collections.
 
 ## Molecular Phylogeny
 
-Molecular phylogenetic data for psilocybe urdapilletae remain limited due to the scarcity of available collections and the difficulty of obtaining fresh material from its remote high-elevation habitat. The few ITS and LSU sequences that have been deposited in public databases place the species within the broader Psilocybe clade in a position consistent with section Aztecorum membership. Preliminary phylogenetic analyses suggest that psilocybe urdapilletae is most closely related to [[psilocybe-pseudoaztecorum]], forming a Mesoamerican lineage within the section that is distinct from the [[growing-gourmet-north-american-reishi-species]] [[psilocybe-aztecorum-entity-the-mushroom-cultivator]] and [[psilocybe-aztecorum-entity-the-mushroom-cultivator]] of central Mexico is the closest morphological match, but can be separated geographically (Jalisco versus the states of Mexico, Puebla, and Tlaxcala) and by subtle differences in spore dimensions and cheilocystidia shape. [[psilocybe-weilii]] from the southeastern United States is similar in gross morphology but has a disjunct distribution and distinct molecular signature. Non-psychoactive Mycena and Marasmius species of the same forest habitats lack bluing reactions and have different spore characteristics.
-
-## Identification Notes
-
-Field identification of psilocybe urdapilletae is challenging due to its rarity, remote habitat, and similarity to other section Aztecorum species. The most reliable field characters are:
-- Moderate blue to blue-green bruising on both cap flesh and stipe when damaged
-- Hygrophanous cap that is dark brown when moist, drying to pale buff or cream
-- Fruiting in cloud forest and pine-oak woodland soils at 1,800–2,800 meters elevation
-- Slender, hollow stipe with fine appressed fibrils
-- Dark purplish brown spore print
-
-The bluing reaction is described as moderate to strong, which helps distinguish it from [[psilocybe-aztecorum-entity-the-mushroom-cultivator]] predominates. [[fungal-microscopic-examination-mounting-media-techniques]] of spore dimensions (7–9 × 4.5–6 µm) and cheilocystidia morphology is necessary for definitive identification.
-## Seasonality
-
-The species fruits during the rainy season from July through September in the Sierra de Manantlán. Peak fruiting typically coincides with the wettest months of August and September, when consistent precipitation and cloud cover maintain high humidity levels in the cloud forest habitat. The relatively short fruiting window (approximately three months) and the species' restriction to remote high-elevation sites make it particularly difficult to encounter. Successful collection requires careful timing with seasonal precipitation patterns and willingness to access rugged, remote terrain.
-## See Also
-
-- [[psilocybe-pseudoaztecorum]] — closely related species of central Mexico
-- [[psilocybin]] — primary psychoactive compound
+Molecular phylogenetic data for psilocybe urdapilletae remain limited due to the scarcity of available collections and the difficulty of obtaining fresh material from its remote high-elevation habitat. The few ITS and LSU sequences that have been deposited in public databases place the species within the broader Psilocybe clade in a position consistent with section Aztecorum membership. Preliminary phylogenetic analyses suggest that psilocybe urdapilletae is most closely related to [[growing-gourmet-north-american-reishi-species]] [[psilocybe-aztecorum-entity-the-mushroom-cultivator]] of central Mexico is the closest morphological match, but can be separated geographically (Jalisco versus the states of Mexico, Puebla, and Tlaxcala) and by subtle differences in spore dimensions and cheilocystidia shape. [[psilocybe-aztecorum-entity-the-mushroom-cultivator]] predominates. [[psilocybe-pseudoaztecorum]] — closely related species of central Mexico
 - [[baeocystin]] — secondary tryptamine alkaloid
-- [[psilocybe-zapotecorum]] — another Mexican Psilocybe of montane habitats
-## Practical Considerations
-
-When working with Psilocybe urdapilletae, several practical factors should be
-carefully considered to achieve optimal results. These include
-the specific conditions of the implementation context, available
-resources, timing requirements, and the interactions between this
-topic and other elements of the broader system. A holistic view
-that considers these interconnections produces better outcomes.
-
-Environmental conditions such as temperature, moisture, and
-seasonal patterns significantly influence results. Monitoring these
-variables and adapting practices accordingly is essential for success.
-The most effective practitioners develop keen observation skills and
-respond flexibly to changing conditions rather than following rigid
-protocols regardless of circumstances or local variation.
-
-[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
+- [[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -88,3 +45,88 @@ complexity of day-to-day management and observation activities.
 
 Ongoing developments in research and practice continue to expand our
 understanding and improve available approaches. New techniques, tools,
+
+## Overview
+
+Psilocybe Urdapilletae represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish psilocybe urdapilletae
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving psilocybe extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Psilocybe Urdapilletae finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for psilocybe urdapilletae. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+psilocybe urdapilletae and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Psilocybe Urdapilletae has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of psilocybe urdapilletae into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[psilocybe-caeruleoannulata]]
+- [[psilocybe-ovoidocystidiata]]
+- [[psilocybe-phyllogena]]
+- [[psilocybe-semilanceata-worldwide-temperate-distribution-guzman-1998]]
+- [[psilocybe-species-europe]]

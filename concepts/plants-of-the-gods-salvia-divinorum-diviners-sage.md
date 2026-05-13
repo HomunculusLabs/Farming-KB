@@ -50,32 +50,12 @@ used. They may be chewed slowly in the mouth, allowing the active
 compounds to be absorbed through the oral mucosa, or crushed and
 diluted in water to produce a drink. The plant is used by the
 Mazatec to seek answers from the spirit world, much like their
-use of Psilocybe mushrooms and [[golden-guide-morning-glory-and-ololiuqui]] seeds.
-
-It has been suggested that the narcotic Pipiltzintzintli of the
-ancient Aztecs was Salvia divinorum, but at present the plant
-seems to be used only by the Mazatec. The name Pipiltzintzintli
-appears in early colonial records describing Aztec inebriants,
-though definitive identification remains uncertain.
-
-## Chemistry: Salvinorin A
-
-The plant contains the potent compound salvinorin A, a
-diterpenoid with extraordinary psychoactive properties.
-Salvinorin A is unique among known hallucinogens in that it is
-a non-nitrogenous compound — it does not contain nitrogen, unlike
-the alkaloids (tryptamines, isoquinolines, phenylethylamines)
-that characterize most other plant hallucinogens.
-
-This unusual chemical [[coleman-first-rule-nature-makes-sense]] salvinorin A a structurally
+use of Psilocybe mushrooms and [[coleman-first-rule-nature-makes-sense]] salvinorin A a structurally
 novel psychoactive compound. It acts as a kappa-opioid receptor
 agonist, a mechanism of action distinct from the serotonin
 receptor activity of classical hallucinogens like psilocybin or
 LSD. Research into the chemistry of Salvia divinorum has revealed
-[[plants-of-the-gods-psilocybe-species-teonanacatl]] — other
-  Mazatec visionary plants, the [[mexican-sacred-mushrooms-indigenous-use-and-ethnobotany]]
-- [[plants-of-the-gods-chemical-structures-hallucinogens]] —
-  chemistry of plant hallucinogens
+[[mexican-sacred-mushrooms-indigenous-use-and-ethnobotany]]
 - [[plants-of-the-gods-hallucinogens-medicine]] — medical and
   therapeutic potential of visionary plants
 
@@ -85,7 +65,86 @@ Understanding the fundamental principles behind this topic enables better practi
 
 ## See Also
 
-- [[psychedelic-plants-human-coevolution]]
 - [[mckenna-food-gods-cannabis-culture-dreaming-weavers]]
-- [[cannabis-cloning-and-mother-plants]]
 - [[permaculture-plants-nitrogen-fixing-trees]]
+
+## Overview
+
+Plants Of The Gods Salvia Divinorum Diviners Sage represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish plants of the gods salvia divinorum diviners sage
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving plants extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Plants Of The Gods Salvia Divinorum Diviners Sage finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for plants of the gods salvia divinorum diviners sage. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+plants of the gods salvia divinorum diviners sage and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Plants Of The Gods Salvia Divinorum Diviners Sage has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of plants of the gods salvia divinorum diviners sage into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[hallucinogenic-plants-overview]]

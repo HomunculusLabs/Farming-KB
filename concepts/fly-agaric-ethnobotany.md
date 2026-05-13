@@ -10,9 +10,7 @@ tags: [agar, ethnobotany]
 
 # Fly Agaric Ethnobotany in Plants of the Gods
 
-The fly agaric ([[amanita-muscaria-cultural-history]], documenting its use
-across both hemispheres from Siberian shamanism to Mesoamerican ritual and
-[[growing-gourmet-north-american-reishi-species]] indigenous practice.
+The fly agaric ([[growing-gourmet-north-american-reishi-species]] indigenous practice.
 
 ## Siberian Shamanism and the Koryak Tradition
 
@@ -46,21 +44,15 @@ Koryak account describes poorer tribesmen waiting outside huts to collect and
 drink the urine of the wealthy who could afford fresh mushrooms.
 
 Schultes and Hofmann connect this practice to the Rig-Veda, which explicitly
-refers to urine drinking in the [[amanita-muscaria-ethnobotany]].
-
-See also: [[siberian-fly-agaric-tradition]], [[amanita-muscaria-chemistry-and-pharmacology]],
-[[amanita-muscaria-ethnobotany]] is described by Schultes and Hofmann as a
-beautiful [[duggar-mushroom-growing-history-and-methods]] in thin forests, usually under birches, firs, and
-young pines, reaching 8-9 inches in height. Three varieties exist: a
-blood-red cap with white warts ([[datura-metel-old-world-ethnobotany]] and northwestern North America); a
+refers to urine drinking in the [[siberian-fly-agaric-tradition]], [[amanita-muscaria-ethnobotany]] is described by Schultes and Hofmann as a
+beautiful [[datura-metel-old-world-ethnobotany]] and northwestern North America); a
 yellow or orange type (eastern and central North America); and a white variety
 found in Idaho. The cylindrical stem has a bulbous base with a conspicuous
 cream-white ring covered in encircling scales.
 
 See also: organized religion,
-[[amanita-preparation-methods]],
 [[fly-agaric-siberian-shamanic-practice]],
-[[wasson-brough-soma-debate]], richard [[richard-evans-schultes-updated]] updated,
+[[richard-evans-schultes-updated]] updated,
 albert hofmann
 ## Practical Considerations
 
@@ -110,8 +102,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[fly-agaric]]
 - [[doc]]
-- [[shamanism]]
 - [[soma]]
 - [[albert-hofmann]]

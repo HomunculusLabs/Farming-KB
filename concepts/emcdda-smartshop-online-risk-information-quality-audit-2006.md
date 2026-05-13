@@ -1,6 +1,6 @@
 ---
 title: Emcdda Smartshop Online Risk Information Quality Audit 2006
-source: "EMCDDA Thematic Paper — [[emcdda-eu-legislative-timeline-hallucinogenic-mushrooms-2001-2006]]: An Emerging Trend Case Study (2006)"
+source: "EMCDDA Thematic Paper — emcdda-eu-legislative-timeline-hallucinogenic-mushrooms-2001-2006: An Emerging Trend Case Study (2006)"
 tags: [emcdda, smartshop, risk-information, harm-reduction, online-shop, consumer-protection, labeling]
 created: 2026-05-11
 ---
@@ -48,19 +48,7 @@ However, these recommendations were often presented briefly without detailed con
 
 ## Information on Sought-After Effects
 
-Most sites provided information on the positive, sought-after effects [[health-risks-of-hallucinogenic-mushrooms]]. This included descriptions of visual enhancement, euphoria, altered perception, and spiritual or introspective experiences. The emphasis on positive effects served a clear commercial purpose: making the product appealing to potential buyers.
-
-## Information on Negative Side Effects
-
-The vast majority of sites excluded information on possible negative side effects. Only a minority of shops explicitly mentioned nausea and sickness, which may occur during consumption. The near-universal omission of negative effect information created a misleadingly positive picture of the mushroom experience.
-
-## What Was Consistently Absent
-
-Across the 21 shops, the following critical information was typically absent:
-
-1. **Maximum shelf life** — No information on how long fresh mushrooms remain potent or safe
-2. **Nature of possible side effects** — Beyond the minority mentioning nausea, side effects were not described
-3. **Active substance proportion** — [[hplc-analysis-of-psilocybin-and-psilocin]] content was not disclosed
+Most sites provided information on the positive, sought-after effects [[hplc-analysis-of-psilocybin-and-psilocin]] content was not disclosed
 4. **Contraindications for mental health** — Only two-thirds mentioned depression/psychosis risks
 5. **Bad trip guidance** — No information on what to do if a bad trip occurs
 6. **Interaction warnings** — Limited to general "don't mix with other drugs" statements
@@ -101,32 +89,15 @@ The systematic bias toward positive information and the omission of risk informa
 
 ## Contrast with Independent Online Information
 
-The EMCDDA noted that independent [[emcdda-internet-resources-magic-mushroom-websites]] (Erowid, Shroomery, etc.) typically provided more balanced information including trip reports describing both positive and negative experiences. These community-driven resources often included detailed dosage guidance, species identification help, and harm reduction advice that was absent from commercial retail sites.
-
-However, the extent and quality of information on these independent sites was also described as variable, and the overlap between pro-mushroom lobby groups and commercial retailers was unclear.
-
-## Regulatory Response Gap
-
-The audit findings highlighted a gap between existing consumer protection frameworks and the novel challenges posed by online psychoactive substance retail. While physical smartshops in the Netherlands were subject to some degree of local oversight, online retailers could reach consumers across the EU with minimal regulatory scrutiny. The EMCDDA audit demonstrated that voluntary self-regulation by online retailers was insufficient to ensure consumer safety.
-
-The findings contributed to the broader case for legislative action in several EU member states, as the combination of biased retail information, lack of dosage guidance, and cross-border accessibility created conditions where consumers were making decisions about star fire and sacred substances without adequate risk information.
-
-## Methodological Limitations
-
-The EMCDDA acknowledged several limitations of the audit:
-- The snapshot of 21 shops does not represent all online shops
-- Only English-language content was assessed
-- The audit was conducted at a single point in time (January 2006)
-- Website content may have changed between the audit and publication
-- Some shops may have provided additional information upon request or at checkout
-
-## See Also
-
-- [[emcdda-retailer-risk-information-quality]].md
+The EMCDDA noted that independent [[emcdda-retailer-risk-information-quality]].md
 - smartshop-product-labels-and-retailer-risk-information-hallucinogenic-mushrooms.md
-- emcdda-hallucinogenic-mushroom-harm-reduction.md
-- emcdda-hallucinogenic-mushroom-dose-effects.md
+- [[emcdda-hallucinogenic-mushroom-harm-reduction]].md
+- [[emcdda-hallucinogenic-mushroom-dose-effects]].md
 - emcdda-psilocybin-mushroom-dose-and-effects.md
 - emcdda-hallucinogenic-mushroom-health-risks.md
 - emcdda-hallucinogenic-mushroom-online-retail-shops.md
 - emcdda-hallucinogenic-mushroom-internet-information-sources.md
+
+## See Also
+
+- [[internet-mushroom-information-repositories-online-communities-emcdda-2006]]

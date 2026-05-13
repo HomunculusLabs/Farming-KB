@@ -3,7 +3,7 @@ title: Compost Container Types
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
-tags: [compost, [[composting]], equipment, construction, organic, gardening, soil-building]
+tags: [compost, composting, equipment, construction, organic, gardening, soil-building]
 sources: [raw/papers/hamilton-geoffhamilton-nick_-organic-gardening.md]
 ---
 
@@ -77,41 +77,6 @@ Use rough-sawn lumber (cheaper and looks fine). Old floorboards work well for si
 
 ## Related
 
-- [[wormery-construction]] — [[vermicomposting]] in a purpose-built box
-- [[composting-materials-alternative]] — sourcing [[duggar-stable-manure-selection-compost-materials]] beyond the garden
-- [[soil-conditioners-guide]] — [[hamilton-alternative-soil-conditioners]] for [[azurescens-outdoor-bed-preparation-woodchips]]
-
-## Practical Applications
-
-The principles and techniques discussed here have wide-ranging applications
-across multiple disciplines and contexts. Practitioners and researchers
-continue to explore new ways to integrate these concepts into modern practice,
-adapting traditional knowledge to contemporary challenges and opportunities.
-
-## Key Considerations
-
-Several important factors influence the effectiveness and outcomes described
-in this topic. Understanding these considerations helps practitioners make
-informed decisions and avoid common pitfalls. Environmental conditions,
-timing, and material selection all play critical roles.
-
-## Historical Context
-
-The historical development of this subject reflects centuries of accumulated
-knowledge and practical experience. From traditional methods passed down
-through generations to modern scientific approaches, the evolution continues
-to inform current best practices and research directions.
-
-## Common Challenges
-
-Practitioners frequently encounter several challenges when working with
-these concepts. Climate variability, resource limitations, and knowledge
-gaps can all affect outcomes. Addressing these challenges requires patience,
-observation, and a willingness to adapt approaches based on results.
-
-## See Also
-- [[composting]]
-- [[vermicomposting]]
-- [[mushroom-container-filling-techniques-cotter]]
-- [[hamilton-container-raised-bed-gardening]]
-- [[comparison-vertical-gardening-vs-container-gardening]]
+- [[wormery-construction]] — vermicomposting in a purpose-built box
+- [[composting-materials-alternative]] — sourcing compost materials beyond the garden
+- [[soil-conditioners-guide]] — alternative soil conditioners for bed preparation

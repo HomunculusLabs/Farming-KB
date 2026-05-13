@@ -8,31 +8,11 @@ sources: [/Users/t3rpz/wiki/raw/papers/growth-promoting-effect-of-a-brassinoster
 ---
 # Brassinosteroids in Fungal Cultures
 
-Brassinosteroids are a class of steroidal [[psilocybe-cubensis]] mycelial
-cultures at concentrations as low as 10⁻² ppm produced dramatic increases
-in both colonization speed and fruiting body production, suggesting these
-phytohormones may play a previously unrecognized biological role in higher
-fungi.
-
-## Background: Brassinosteroids as Phytohormones
-
-Brassinosteroids represent a relatively recently discovered group of plant
-hormones. By 1990, approximately 30 members had been identified across a wide
-variety of higher plants including angiosperms, gymnosperms, and at least one
-green alga. They are now regarded by multiple research groups as a distinct
-class of phytohormones, alongside auxins, gibberellins, cytokinins, ethylene,
-and abscisic acid.
-
-The physiological effects of brassinosteroids on plants are complex and
-involve:
-- Increased **cell elongation** through cell wall loosening
-- Enhanced **cell division** rates
-- Improved **[[fungal-lichen-stress-tolerance-and-poikilohydry]]** (drought, temperature, salinity)
+Brassinosteroids are a class of steroidal [[fungal-lichen-stress-tolerance-and-poikilohydry]]** (drought, temperature, salinity)
 - Higher **crop yields** in agricultural applications
 - Promising **anti-stress effects** under suboptimal growing conditions
 
-Despite extensive study [[22s-23s-homobrassinolide-chemistry-and-synthesis]]) on a strain of
-*[[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]]* characterized by high cultivation stability. Two
+Despite extensive study [[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]]* characterized by high cultivation stability. Two
 cultivation systems were tested with ten replicate runs each:
 
 1. **Agar system**: 6% malt agar with 5 g/L KH₂PO₄
@@ -53,18 +33,7 @@ time bottlenecks.
 The mechanism by which brassinosteroids accelerate fungal cell growth is not
 fully understood, but is hypothesized to involve similar pathways to their
 action in plant cells — likely modulation of cell wall extensibility and
-[[plant-cell-membrane-transport-proteins-channels-carriers-and-pumps]] processes that facilitate rapid hyphal extension.
-
-## Results: Fruiting Body Enhancement
-
-The effects on fruiting were equally remarkable across multiple metrics:
-
-| Metric | Control | With Brassinosteroid |
-|--------|---------|---------------------|
-| Time to first flush | 4-5 weeks | 3-3.5 weeks |
-| Mushrooms in first flush | 1-3 | 4-7 |
-| Dry mass per 10g substrate | 2.3-2.9 g | 3.4-3.9 g |
-| [[abort-suppression-brassinosteroid-incomplete-fruit-body-reduction]] bodies | Common | Almost completely suppressed |
+[[abort-suppression-brassinosteroid-incomplete-fruit-body-reduction]] bodies | Common | Almost completely suppressed |
 
 The first flush appeared approximately 1-1.5 weeks earlier in treated
 cultures. The number of fruit bodies in the first flush more than doubled,
@@ -72,8 +41,7 @@ and total dry mass increased by roughly 35-50% across five flushes.
 
 Perhaps most interestingly, the formation of **incomplete fruit bodies**
 (mushrooms that abort before reaching maturity) — a common problem in
-[[accessible-mushroom-cultivation-for-disabilities]] — was almost completely suppressed. This suggests that
-brassinosteroids may improve the efficiency of [[mycelial-network-nutrient-transport-imaging-gadd]] to
+[[mycelial-network-nutrient-transport-imaging-gadd]] to
 developing primordia.
 
 ## Morphological Changes
@@ -118,8 +86,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[brassinosteroids]]
 - [[brassinosteroid]]
-- [[psilocybe-cubensis]]
 - [[homobrassinolide]]
 - [[brassinosteroids-phytohormones-fungal-growth-promotion]]

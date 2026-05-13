@@ -8,11 +8,7 @@ type: concept
 
 ## Overview
 
-Fertiliser management and pollution control in arid lands present unique challenges that differ fundamentally from those in humid or temperate regions. In dryland systems, the relationship between soil chemistry, water availability, and biological activity is critically sensitive. Understanding mineral solubility curves, appropriate fertiliser strategies, and the dangers of chemical pollution is essential for sustainable design in desert and semi-arid environments. [[bill-mollison]] emphasises that fragile desert ecosystems require careful, minimal intervention — and that natural remedies must always be preferred over synthetic poisons.
-
-## Mineral Solubility and pH Relationships
-
-The availability of essential minerals to plants is governed by [[soil-ph]], and understanding these solubility relationships is fundamental to arid land management. Different minerals become available (or toxic) at different pH ranges:
+Fertiliser management and pollution control in arid lands present unique challenges that differ fundamentally from those in humid or temperate regions. In dryland systems, the relationship between soil chemistry, water availability, and biological activity is critically sensitive. Understanding mineral solubility curves, appropriate fertiliser strategies, and the dangers of chemical pollution is essential for sustainable design in desert and semi-arid environments. [[soil-ph]], and understanding these solubility relationships is fundamental to arid land management. Different minerals become available (or toxic) at different pH ranges:
 
 - **Iron (Fe)** is soluble in two distinct pH ranges: pH 3.0–3.5 (highly acidic) and pH 7.0–8.0 (neutral to mildly alkaline). Iron deficiency is common in arid soils that fall outside these ranges, leading to chlorosis in many tree species.
 
@@ -42,7 +38,7 @@ Shredded bark, manure, and leaf mulch combined with compost provide a balanced, 
 
 ### Pit Composting with Drip Irrigation
 
-Pit composting represents a practical integration of organic waste recycling and water-efficient agriculture in arid zones. Compost pits are filled with organic materials and connected to drip irrigation lines, which provide the moisture necessary for decomposition while simultaneously delivering nutrient-rich leachate to surrounding plant roots. This closed-loop system is particularly effective in arid areas because it conserves water, concentrates organic matter where it is most needed, and produces compost tea as a by-product that further enhances soil fertility.
+Pit composting represents a practical integration of organic waste recycling and water-efficient agriculture in arid zones. Compost pits are filled with organic materials and connected to [[drip-irrigation]] lines, which provide the moisture necessary for decomposition while simultaneously delivering nutrient-rich leachate to surrounding plant roots. This closed-loop system is particularly effective in arid areas because it conserves water, concentrates organic matter where it is most needed, and produces compost tea as a by-product that further enhances soil fertility.
 
 ## Dune Fertilisation
 
@@ -85,7 +81,7 @@ Bore (groundwater) water in arid Australia has been found to carry dangerously e
 
 ## Natural Remedies Over Poisons
 
-The overarching lesson from arid land experience is that **natural, biological solutions must replace chemical poisons** in fragile desert ecosystems. Dryland systems lack the biological capacity to absorb, transform, or neutralise synthetic chemicals. Every application of biocide represents a long-term contamination event with consequences that may not become apparent for decades. Instead of chemical interventions, permaculture design in arid lands relies on:
+The overarching lesson from arid land experience is that **natural, biological solutions must replace chemical poisons** in fragile desert ecosystems. Dryland systems lack the biological capacity to absorb, transform, or neutralise synthetic chemicals. Every application of biocide represents a long-term contamination event with consequences that may not become apparent for decades. Instead of chemical interventions, [[permaculture-design]] in arid lands relies on:
 
 - Biological pest control through habitat creation for predatory species
 - Companion planting and polyculture to reduce pest pressure naturally
@@ -131,6 +127,5 @@ Beyond nitrates, bore waters in arid regions must be tested for a range of poten
 
 ## See Also
 
-- [[dryland-strategies-and-desert-ecology]] — broader desert classification and ecology
 - [[dryland-precipitation-and-opportunistic-ecology]] — water harvesting and climate patterns
 - [[dryland-soils-and-mineral-nutrition]] — soil chemistry, pH, and nutrient availability in detail

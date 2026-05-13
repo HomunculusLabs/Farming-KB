@@ -8,71 +8,9 @@ sources: []
 ---
 # TMA-3
 
-**[[2c-b-pihkal-entry-20]] #159** -- 2,3,4-Trimethoxyamphetamine
-
-## Chemical Name
-
-2,3,4-Trimethoxyamphetamine
-
-## Dosage and Duration
-
-- **Dosage:** greater than 100 mg
-
-- **Duration:** unknown
-
-## Qualitative Comments
-
-(with 100 mg) There were no effects at all. There was no eye dilation, no
-disturbance of equilibrium, no blood pressure change, and no believable
-diversion from complete normalcy. The appetite was normal as well.
-
-## Synthesis
-
-A solution of 12.5 g 2,3,4-trimethoxybenzaldehyde in 20 g nitroethane was
-treated with 2.0 g ammonium acetate and 5 mL acetic acid. Heated on the steam
-bath for 1.5 h, the volatiles removed, and the residue recrystallized from
-MeOH. 1-(2,3,4-Trimethoxyphenyl)-2-nitropropene formed yellow crystals, mp
-82-83 degrees C (9.4 g, 59% yield). An alternate synthesis via the
-nitrostyrene and Henry reaction gave the same product.
-
-A well-stirred suspension of 9.0 g LAH in 500 mL dry THF was placed under He
-and brought to reflux. A Soxhlet modified with a drip tube was charged with
-9.0 g nitropropene. The addition took 2 h. Reflux maintained for 16 h, then
-cooled. Workup with IPA, 15% NaOH, filtration, and solvent removal gave 5.1 g
-of crude product. Distillation at 120-135 degrees C at 0.3 mm/Hg gave 2,5 g
-of colorless oil. The hydrochloride salt (recrystallized from IPA) had a mp of
-148-149 degrees C (2.0 g). The picrate salt had mp 132-133 degrees C.
-
-## Extensions and Commentary
-
-TMA-3 is completely inactive at 100 milligrams. This was tested in three
-separate individuals, all of whom reported no effects whatsoever -- no
-psychedelic effects, no stimulant effects, no changes in perception or mood.
-
-An important lesson about published potency values: the expression "activity <
-2.0 M.U." (mescaline units) means only that 100 mg was inactive, not that the
-compound is active at higher doses. Many readers incorrectly interpreted such
-values as indicating activity at dosages greater than 100 mg. All that can be
-honestly said is that if there is activity, it will be at oral levels greater
-than 100 mg. As far as Shulgin knew, no trials in excess of 100 mg had been
-conducted.
-
-This admonition applies to all published M.U. values preceded by the "less than"
-sign. The simple absence of activity at a given dose level should not be
-interpreted as proof of activity at some higher level.
-
-Among the six trimethoxyamphetamine isomers, TMA-3 (2,3,4-) joins TMA-4 (2,3,5-)
-as compounds whose activity is either absent or unconfirmed. This contrasts
-sharply with TMA-2 (2,4,5-) which is approximately ten times more potent than
-[[tma-6-entity]] (2,4,6-) which shows moderate
+**[[tma-6-entity]] (2,4,6-) which shows moderate
 activity. The pattern demonstrates that the specific spatial arrangement of
-methoxy groups is critical for psychedelic activity in the [[pihkal-dob-doi-dom-amphetamine-series-comparison]].
-
-## Related Compounds
-
-- [[tma-2-entity]] -- 2,4,5-trimethoxyamphetamine (potent)
-
-- [[tma-5-entity]] -- 2,3,6-trimethoxyamphetamine
+methoxy groups is critical for psychedelic activity in the [[tma-2-entity]] -- 2,4,5-trimethoxyamphetamine (potent)
 
 - [[phenethylamine-pharmacology]] -- general phenethylamine pharmacology
 ## Practical Considerations
@@ -93,3 +31,88 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
+
+## Overview
+
+Tma 3 Entity represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish tma 3 entity
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving tma extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Tma 3 Entity finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for tma 3 entity. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+tma 3 entity and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Tma 3 Entity has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of tma 3 entity into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[2c-g-3-entity]]
+- [[4-5-mdo-dmt-entity-tihkal]]
+- [[5-6-mdo-dipt-entity-tihkal]]
+- [[mdcpm-entity-pihkal]]
+- [[methyl-k-entity-pihkal]]

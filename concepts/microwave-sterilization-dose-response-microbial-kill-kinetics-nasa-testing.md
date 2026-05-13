@@ -2,13 +2,10 @@
 
 ## Overview
 
-The NASA [[challenge-microorganisms-microwave-surface-sterilization]] sterilization system (MSC-22484) demonstrated that
-2.45 GHz [[dry-microwave-irradiation-spore-resistance]] in the presence of trace water achieves
+The NASA [[dry-microwave-irradiation-spore-resistance]] in the presence of trace water achieves
 reliable sterilization of surfaces contaminated with mixed microbial
 populations. The kill kinetics follow a dose-response relationship dependent
-on [[microbial-kill-curve-microwave-exposure-dose-response]] duration, intensity, water availability, and the type
-and number of microorganisms present. Experimental data using a standardized
-challenge population provides quantitative parameters for [[macrofungal-sampling-protocol-design-plot-selection]].
+on [[macrofungal-sampling-protocol-design-plot-selection]].
 
 ## Dose Parameters
 

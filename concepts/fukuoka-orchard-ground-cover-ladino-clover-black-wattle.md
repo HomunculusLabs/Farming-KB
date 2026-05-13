@@ -6,19 +6,7 @@ type: concept
 
 # Fukuoka Orchard Ground Cover: Ladino Clover, Alfalfa, and Black Wattle
 
-[[masanobu-fukuoka]]'s natural farming approach relies heavily on living ground covers in orchards rather than bare soil or herbicides. Through extensive experimentation, he identified three key plants—ladino clover, alfalfa, and black wattle—that work together to build soil, suppress weeds, and support a balanced ecosystem.
-
-## Ladino Clover (Primary Cover Crop)
-
-### Selection Process
-
-Fukuoka planted seeds of roughly thirty different legumes, crucifers, and grasses in his orchard. After years of observation, he concluded that ladino clover should serve as the primary ground cover, with alfalfa, lupine, and bur clover playing secondary roles.
-
-### Six Key Features
-
-1. **Eliminates weeds**: Annual weeds are displaced within one year, biennials within two. After two to three years, "almost all garden weeds have vanished, leaving a solid field of clover."
-
-2. **Improves soil structure**: Ladino clover enhances soil quality to a depth of 16 to 18 inches through its root activity and [[biological-nitrogen-fixation-agriculture]].
+[[biological-nitrogen-fixation-agriculture]].
 
 3. **Long-lasting**: No resowing is needed for six to eight years once the stand is established.
 
@@ -74,7 +62,7 @@ Fukuoka recommends planting up to roughly ten black wattle trees per quarter-acr
 
 ### Five Core Benefits
 
-1. **Rapid deep soil improvement**: Black wattle roots penetrate and aerate deep soil layers far more aggressively than any herbaceous cover crop.
+1. **Rapid deep soil improvement**: Black wattle roots penetrate and aerate deep soil layers far more aggressively than any herbaceous [[cover-crop]].
 2. **Shelterbelt and windbreak**: Its fast growth provides wind protection for fruit trees.
 3. **Summer shade**: In warm regions, it shields soil from intense sun, protecting it from depletion and maintaining moisture.
 4. **Pest prevention**: It helps suppress orchard pests, especially mites, by supporting populations of predatory insects.
@@ -103,7 +91,7 @@ Saplings do not take well—Fukuoka recommends planting seed directly. Scatter s
 
 The black wattle grows constantly throughout the year, always sending new shoots. This continuous fresh growth attracts aphids and scales, which in turn sustain a population of ladybugs.
 
-"One important role of the black wattle then is to serve as a protective tree [[query-how-do-i-design-habitat-for-beneficial-insects]]." By providing a year-round food source for pests that feed predatory insects, the wattle ensures that [[botanical-pesticides-and-natural-pest-control]] remains active even when fruit trees are dormant.
+"One important role of the black wattle then is to serve as a protective tree [[botanical-pesticides-and-natural-pest-control]] remains active even when fruit trees are dormant.
 
 "Planting five or so of these trees per quarter-acre keeps scales and mites down to a minimum."
 
@@ -127,4 +115,4 @@ A succession of different herbs over the years enriches the soil progressively a
 
 ### Replacing Weeds with Vegetables
 
-Fukuoka also discovered that by sowing vegetable seeds of the same family as the dominant weeds, the vegetables can gradually replace the weeds. This technique exploits the ecological niche already established by the weeds, allowing cultivated crops to fill the same role without requiring soil disturbance.
+Fukuoka also discovered that by sowing vegetable seeds of the same family as the dominant weeds, the vegetables can gradually replace the weeds. This technique exploits the [[ecological-niche]] already established by the weeds, allowing cultivated crops to fill the same role without requiring soil disturbance.

@@ -13,26 +13,13 @@ tags: [cannabis, plant-growth]
 
 Proper seed storage is essential for maintaining cannabis seed viability
 over extended periods. Cervantes provides detailed guidance on optimal
-[[vegetable-storage-conditions-by-temperature-and-humidity]], common threats to seed longevity, and practical
 [[food-preservation-canning]] suitable for both home growers and commercial seed
 banks.
 
 ## Why Storage Matters
 
 A seed contains all the genetic characteristics of a plant -- its size,
-disease and [[cannabis-disease-pest-resistance-breeding-clarke]], root, stem, leaf, and flower production,
-cannabinoid levels, and many other traits. The genetic makeup of a seed
-is the single most important factor dictating plant performance.
-Seeds stored too long will germinate slowly and have a high rate of
-failure. Strong, healthy parents and proper care yield strong seeds
-that germinate well, but improper storage degrades this potential.
-
-## The Three Enemies of Seed Viability
-
-### Moisture
-
-Moisture is the primary threat to stored seeds. Seed hormones -- ABA
-([[abscisic-acid-plant-stress-hormone]]), cytokinins, and gibberellins -- are primed to respond
+disease and [[abscisic-acid-plant-stress-hormone]]), cytokinins, and gibberellins -- are primed to respond
 to moisture, which is the first signal to germinate. Preventing
 moisture from triggering germination is the core challenge of seed
 storage.
@@ -117,8 +104,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[det]]
 - [[silicon]]
-- [[oner-cannabis-seed-production-storage]]
 - [[cervantes-cannabis-seed-purchasing-storage]]
 - [[cannabis-seed-storage-and-viability]]

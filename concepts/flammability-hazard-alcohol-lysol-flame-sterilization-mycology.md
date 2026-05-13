@@ -1,6 +1,6 @@
 ---
 title: Flammability Hazard Alcohol Lysol Flame Sterilization Mycology
-aliases: [alcohol flammability [[jarrold-short-needle-vs-long-needle-mushroom-inoculation-methods]], lysol fire risk [[mycology]], flame sterilization safety hazard]
+aliases: [alcohol flammability mycology, flame sterilization safety hazard]
 tags: [mycology, safety, inoculation, flame-sterilization, laboratory-safety, contamination-prevention]
 created: 2026-05-08
 source: guid-mhtml-file-exotic-cultivation-grass-seed.md
@@ -10,37 +10,7 @@ source: guid-mhtml-file-exotic-cultivation-grass-seed.md
 
 ## Overview
 
-One of the most critical safety warnings in the Guid [[alpine-plant-cultivation-guide]] for [[accessible-mushroom-cultivation-for-disabilities]] on [[grass-seed-substrate]] concerns the extreme fire risk when combining flammable disinfectants with open flame during inoculation procedures. The guide states emphatically: "ALCOHOL AND SPRAY LYSOL ARE HIGHLY FLAMMABLE!!!" This warning addresses a common and dangerous practice in amateur mycology where surfaces are sprayed with alcohol or Lysol disinfectant and then immediately exposed to flame for needle or scalpel sterilization.
-
-## The Hazard Scenario
-
-The dangerous sequence of events typically unfolds as follows:
-
-1. A cultivator sprays the inoculation workspace, their hands, or the jar lids with isopropyl alcohol or aerosol Lysol for disinfection
-2. The flammable liquid or aerosol settles on surfaces and creates a vapor cloud in the air
-3. The cultivator then immediately passes a needle or scalpel through a flame (typically a butane lighter, alcohol lamp, or Bunsen burner) to sterilize it
-4. The flame ignites the residual alcohol vapor or aerosolized Lysol, causing a flash fire
-
-This sequence is particularly dangerous because it can happen in less than a second, giving the cultivator no time to react. The flash fire can ignite the cultivator's clothing, hair, the workspace, and any flammable materials nearby. In the confined space of a small inoculation area (often a closet, bathroom, or small room), the fire can spread rapidly.
-
-## Chemical Properties
-
-### Isopropyl Alcohol
-- **Flash point**: 12°C (53°F) — below room temperature, meaning it produces ignitable vapor at normal cultivation temperatures
-- **Autoignition temperature**: 399°C (750°F)
-- **Vapor density**: 2.07 (heavier than air — vapors settle and accumulate near the work surface)
-- **Explosive range**: 2-12% concentration in air
-- **Evaporation rate**: Fast, but not instant — significant flammable vapor persists for several seconds after application
-
-### Lysol Disinfectant Spray
-- **Original formulation**: Contains ethanol (flash point 13°C) and other flammable propellants
-- **Aerosol form**: Creates a fine mist of flammable droplets suspended in air, which can travel several feet from the point of application
-- **Propellant gases**: Many Lysol formulations use flammable hydrocarbon propellants (butane, propane) that add to the fire risk
-- **Residue**: Leaves a thin film of flammable liquid on surfaces that can ignite if exposed to flame
-
-## Why This Hazard Is Prevalent in Mycology
-
-Several factors make this combination particularly common in amateur [[mushroom-cultivation-overview]]:
+One of the most critical safety warnings in the Guid [[accessible-mushroom-cultivation-for-disabilities]] on [[mushroom-cultivation-overview]]:
 
 - **Emphasis on cleanliness** — Cultivation guides universally stress the importance of working clean and disinfecting surfaces, leading cultivators to use liberal amounts of alcohol and Lysol
 - **Flame sterilization is standard practice** — Flaming needles and scalpels before inoculation is a fundamental contamination-prevention technique
@@ -65,8 +35,7 @@ Keep the flame source as far from recently sprayed surfaces as practical. Flame 
 ### Non-Flammable Disinfectants
 Consider using non-flammable disinfectants for surface cleaning:
 - **Bleach solution** (10% sodium hypochlorite) — Effective against most contaminants, non-flammable, but corrosive to metals
-- **Quaternary ammonium compounds** (e.g., Benzalkonium chloride) — Effective, [[fukuoka-low-toxicity-pesticide-deception]], non-flammable
-- **[[cervantes-hydrogen-peroxide-sterilization]]** (3%) — Effective against many contaminants, decomposes to water and oxygen, leaves no harmful residue
+- **Quaternary ammonium compounds** (e.g., Benzalkonium chloride) — Effective, [[cervantes-hydrogen-peroxide-sterilization]]** (3%) — Effective against many contaminants, decomposes to water and oxygen, leaves no harmful residue
 
 ### Alcohol Lamp vs. Open Flame
 The Guid guide specifically recommends flaming needles and scalpels. An alcohol lamp provides a smaller, more contained flame than a butane lighter or Bunsen burner and is less likely to cause a large flash fire if it does ignite residual vapors. The flame from an alcohol lamp is also cooler, which reduces the risk of damaging the needle tip or scalpel blade through overheating.
@@ -118,8 +87,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[mycology]]
 - [[isopropyl-alcohol]]
-- [[sterilization]]
 - [[ethanol]]
 - [[pressure-cooker-sterilization-mycology]]

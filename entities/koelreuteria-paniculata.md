@@ -20,11 +20,9 @@ sources:
 
 Koelreuteria paniculata, commonly known as golden rain tree, is a medium-sized deciduous tree in the family Sapindaceae. It is native to eastern Asia, occurring in China, Korea, and Japan.
 
-The species is widely planted as an ornamental tree for its showy yellow flower panicles and distinctive inflated papery seed capsules. It is one of the few [[hamilton-ornamental-trees]] that produces yellow flowers in midsummer.
+The species is widely planted as an ornamental tree for its showy yellow flower panicles and distinctive inflated papery seed capsules. It is one of the few [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]] worldwide, including [[guzman-psilocybin-mushrooms-south-america]]. It is considered invasive in some areas due to prolific [[cannabis-controlled-pollination-seed-production]] and competitive ability.
 
-Golden rain tree has become naturalized in many [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]] worldwide, including [[polypore-fungi-eastern-north-america]], parts of Europe, and [[guzman-psilocybin-mushrooms-south-america]]. It is considered invasive in some areas due to prolific seed production and competitive ability.
-
-The species was introduced to North America in the mid-18th century and was promoted as an ornamental tree by the USDA in the early 20th century. Its popularity in urban forestry programs has contributed to its widespread naturalization.
+The species was introduced to [[guzman-psilocybin-mushrooms-north-america]] in the mid-18th century and was promoted as an ornamental tree by the USDA in the early 20th century. Its popularity in urban forestry programs has contributed to its widespread naturalization.
 
 ## Taxonomy and Morphology
 
@@ -32,7 +30,7 @@ Koelreuteria paniculata was described by the German botanist Georg Franz Hoffman
 
 The tree typically grows 8 to 12 meters tall with a broad, rounded crown. The trunk is grayish-brown and develops fissures with age, though young bark is relatively smooth.
 
-Branches are ascending and form an irregular, open crown. The growth rate is moderate, typically 30 to 60 centimeters per year in favorable conditions.
+Branches are ascending and form an irregular, open crown. The [[soil-temperature-plant-growth-rate-doubling-rule]] is moderate, typically 30 to 60 centimeters per year in favorable conditions.
 
 Leaves are alternate, bipinnately compound, 25 to 45 centimeters long. Each leaf bears 7 to 15 pinnae, each with 5 to 9 ovate leaflets 3 to 8 centimeters long.
 
@@ -52,7 +50,7 @@ The inflated capsules rattle in the wind, creating an audible and visual effect 
 
 Koelreuteria paniculata is native to mountainous regions of eastern China, Korea, and Japan. In its native range, it occurs on forest margins, along stream banks, and on rocky slopes.
 
-The species has been widely planted as an ornamental tree across temperate regions worldwide. It is common in urban landscapes, parks, and street plantings throughout much of the eastern United States and Europe.
+The species has been widely planted as an ornamental tree across temperate regions worldwide. It is common in urban landscapes, parks, and street plantings throughout much of the eastern [[dmt-containing-plants-united-states-halpern]] and Europe.
 
 Naturalized populations occur from New England south to Georgia and west to Illinois and Missouri. The tree is especially common in disturbed urban and suburban areas.
 
@@ -64,7 +62,7 @@ The tree is moderately salt-tolerant, allowing its use in coastal landscapes. It
 
 ## Cultivation and Uses
 
-Koelreuteria paniculata is one of the most widely planted ornamental trees in temperate urban landscapes. Its tolerance of poor soils, drought, and pollution makes it a versatile landscape choice.
+Koelreuteria paniculata is one of the most widely planted [[hamilton-ornamental-trees]] in temperate urban landscapes. Its tolerance of poor soils, drought, and pollution makes it a versatile landscape choice.
 
 The species grows well in full sun and is adaptable to various soil conditions. It requires minimal pruning and is relatively pest-free compared to many other ornamental trees.
 
@@ -74,11 +72,7 @@ The flowers attract bees and other pollinators during midsummer. The tree provid
 
 Young branches are flexible and have been used in basket weaving in parts of China. The wood is moderately hard and has been used for small turned objects and tool handles.
 
-In traditional Chinese medicine, the dried flowers and fruits have been used to treat eye inflammation and [[cannabis-for-skin-conditions-detailed]]. The seeds are reported to have mild antibacterial properties.
-
-## Ecology and Invasive Potential
-
-Koelreuteria paniculata is classified as invasive in several U.S. states, including [[north-carolina-mycodiversity]], Tennessee, and Virginia. It displaces native vegetation along roadsides, in old fields, and at forest margins.
+In traditional Chinese medicine, the dried flowers and fruits have been used to treat eye inflammation and [[north-carolina-mycodiversity]], Tennessee, and Virginia. It displaces native vegetation along roadsides, in old fields, and at forest margins.
 
 The species produces copious seeds that are readily dispersed by wind and water. A single mature tree can produce tens of thousands of viable seeds annually.
 

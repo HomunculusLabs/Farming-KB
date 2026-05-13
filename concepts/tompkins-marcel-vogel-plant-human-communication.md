@@ -14,24 +14,14 @@ Marcel Vogel was a research chemist at IBM in Los Gatos, California,
 whose rigorous scientific background and personal openness to
 unconventional phenomena led him to become one of the most credible
 investigators of plant-human communication. His work provided
-independent confirmation and significant extension of [[tompkins-cleve-backster-primary-perception]]'s
-controversial findings about [[plant-perception]].
+independent confirmation and significant extension of [[plant-perception]].
 
 ## Background at IBM
 
 Vogel's scientific career began with boyhood curiosity about
 bioluminescence in fireflies and glowworms. By his twenties, he had
 co-authored a book on luminescence with Chicago University's Dr. Peter
-Pringsheim. He founded Vogel Luminescence in [[shipibo-san-francisco-ceremonial-center-ucayali]], which became
-a leader in the field, developing products including the red color for
-television screens, fluorescent crayons, and black light inspection kits.
-By the mid-1950s, Vogel sold his company to join IBM, where he worked
-on magnetics, optic-electrical devices, and liquid crystal systems,
-developing patents crucial to computer information storage.
-
-## Discovery of Backster's Work
-
-The [[fukuoka-textdoc-post-season-cultivation-kochi-turning-point]] came when Vogel was asked to teach a course on
+Pringsheim. He founded Vogel Luminescence in [[fukuoka-textdoc-post-season-cultivation-kochi-turning-point]] came when Vogel was asked to teach a course on
 "creativity" for IBM engineers. A student handed him an Argosy magazine
 article about Backster's work titled "Do Plants Have Emotions?" Vogel
 initially dismissed it as charlatanism, but something about the idea
@@ -88,3 +78,11 @@ first. The second responded, but only when Vogel was paying attention
 to it. If he cut a leaf while ignoring the second plant, there was no
 response, suggesting that Vogel himself was an integral part of the
 circuitry required to monitor the phenomenon.
+
+## See Also
+
+- [[tompkins-plant-electrical-signals]]
+- [[tompkins-radionic-agriculture-pesticides]]
+- [[tompkins-pierre-paul-sauvin-plant-esp-experiments]]
+- [[tompkins-photosynthesis-biophotons]]
+- [[tompkins-electroculture-plant-growth]]

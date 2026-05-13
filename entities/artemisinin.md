@@ -25,14 +25,7 @@ sources:
 
 Artemisinin is a sesquiterpene lactone endoperoxide compound with potent
 antimalarial activity, isolated from the annual wormwood plant
-*[[artemisia-annua]]* (Asteraceae). It is the cornerstone of modern
-artemisinin-based combination therapies (ACTs), the World Health
-Organization's first-line treatment for *Plasmodium falciparum* malaria.
-
-The compound contains a unique 1,2,4-trioxane ring system featuring an
-endoperoxide bridge, which is essential for its antimalarial mechanism
-of action. This peroxide moiety reacts with intracellular iron in the
-malaria parasite, generating [[reactive-oxygen-species-and-oxidative-stress]] that kill the
+*[[reactive-oxygen-species-and-oxidative-stress]] that kill the
 organism.
 
 Artemisinin and its derivatives (artesunate, artemether, dihydroartemisinin)
@@ -50,41 +43,90 @@ earned Tu Youyou the 2015 Nobel Prize in Physiology or Medicine.
 - **Appearance:** White crystalline solid
 - **Melting point:** 156–157 °C
 - **Solubility:** Lipophilic; poorly soluble in water, soluble in
-  [[ethanol]], acetone, and ethyl acetate
-
-The endoperoxide bridge (O–O bond) is the pharmacophore responsible for
-antimalarial activity. This structural feature is rare in natural
-products and was unprecedented in pharmaceutical chemistry at the time
-of discovery. The lactone ring contributes to stability and influences
-the compound's interaction with heme iron.
-
-## Pharmacology
-
-Artemisinin acts via a "prodrug" mechanism. After uptake by the malaria
-parasite during its erythrocytic stage, the endoperoxide bridge is
-cleaved by ferrous iron (Fe²⁺) released during hemoglobin digestion,
-generating highly reactive carbon-centered free radicals.
-
-These radicals alkylate and damage multiple parasite proteins and
-membranes, leading to rapid parasite death. The mechanism explains the
-extremely fast parasite clearance times observed with artemisinin
-treatment — patients typically show clinical improvement within 24–48
-hours.
-
-**Key pharmacological features:**
-
-- **Stage-specific activity:** Most active against the ring and trophozoite
-  stages of the erythrocytic cycle; limited activity against liver-stage
-  schizonts and gametocytes.
-- **Rapid parasite clearance:** 10,000-fold reduction in parasite biomass
-  per 48-hour asexual cycle.
-- **Short half-life:** ~1 hour for artesunate IV, necessitating combination
-  with longer-acting partner drugs in ACTs.
-
-Emerging resistance in [[psilocybe-southeast-asia-pacific]], characterized by delayed parasite
+  [[psilocybe-southeast-asia-pacific]], characterized by delayed parasite
 clearance, is associated with *kelch13* gene mutations in *P. falciparum*
 and is a major public health concern.
 
 ## History
 
 Artemisinin was discovered in the early 1970s through Project 523, a
+
+## Overview
+
+Artemisinin represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish artemisinin
+from related concepts in [[permaculture]] and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving artemisinin extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Artemisinin finds practical application in multiple design contexts.
+[[permaculture-principles]] guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for artemisinin. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+artemisinin and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Artemisinin has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of artemisinin into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+- [[plant-micronutrients-and-their-essential-functions]]

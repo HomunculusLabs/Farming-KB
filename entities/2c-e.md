@@ -23,11 +23,11 @@ created: 2026-04-28
 
 2C-E (2,5-dimethoxy-4-ethylphenethylamine) is a synthetic psychedelic phenethylamine of the 2C family.
 
-It was first synthesized and characterized by [[alexander-shulgin]], who described it in detail in his 1991 book *PiHKAL* (Phenethylamines I Have Known and Loved). Shulgin assigned it the number 25 in his subjective [[shulgin-rating-scale]] and noted its potency and pronounced visual effects.
+It was first synthesized and characterized by [[shulgin-rating-scale]] and noted its potency and pronounced visual effects.
 
 The compound belongs to the 2,5-dimethoxy-4-substituted phenethylamine series, which includes several of the most potent oral psychedelics known. The 4-ethyl substitution distinguishes it structurally from the more widely known 2C-B (4-bromo) and 2C-I (4-iodo) analogues.
 
-2C-E is classified as a Schedule I controlled substance in several jurisdictions, including the [[dmt-containing-plants-united-states-halpern]], where it was placed under the [[controlled-substances-act-and-psychedelic-research]] Analogue Enforcement Act. It is also controlled under the UN Convention on Psychotropic Substances in some signatory nations.
+2C-E is classified as a Schedule I controlled substance in several jurisdictions, including the [[controlled-substances-act-and-psychedelic-research]] Analogue Enforcement Act. It is also controlled under the UN Convention on Psychotropic Substances in some signatory nations.
 
 ## Chemical Properties
 
@@ -43,7 +43,7 @@ The compound belongs to the 2,5-dimethoxy-4-substituted phenethylamine series, w
 
 The compound is a substituted phenethylamine with methoxy groups at the 2- and 5- positions of the benzene ring and an ethyl group at the 4-position. The ethyl substituent is moderately electron-donating and increases lipophilicity compared to the halogenated 2C analogues.
 
-The free base is an oily liquid at room temperature. It is most commonly encountered as a hydrochloride salt, which is a white crystalline powder soluble in water and ethanol. The hydrochloride salt has a melting point of approximately 185–190°C.
+The free base is an oily liquid at room temperature. It is most commonly encountered as a hydrochloride salt, which is a white crystalline powder soluble in water and [[ethanol]]. The hydrochloride salt has a melting point of approximately 185–190°C.
 
 2C-E is typically administered orally in doses ranging from 2–15 mg. It is active at substantially lower doses than 2C-B, reflecting the increased potency of the 4-ethyl substitution pattern.
 

@@ -20,11 +20,7 @@ sources:
 
 Dypsis decaryi, commonly known as the triangle palm, is a species of flowering plant in the family Arecaceae. It is endemic to Madagascar, where it grows in the southeastern Andohahela region near Tôlanaro (Fort Dauphin).
 
-The species is named after Raymond Decary, a French botanist and ethnographer who collected extensively in Madagascar during the early [[coleman-louis-savier-twentieth-century-maraicher]]. Its common name derives from the distinctive three-sided (triangular) cross-section of its trunk, formed by the closely spaced leaf scars.
-
-Triangle palm is widely cultivated as an ornamental specimen in tropical and subtropical landscapes worldwide. It is prized for its striking form, blue-green foliage, and adaptability to a range of growing conditions.
-
-The species is one of the most commercially traded Madagascan palms in the international horticultural market. Seeds and seedlings are readily available from specialty nurseries [[fukuoka-natural-farming-in-tropical-regions]].
+The species is named after Raymond Decary, a French botanist and ethnographer who collected extensively in Madagascar during the early [[fukuoka-natural-farming-in-tropical-regions]].
 
 International trade in wild-collected seeds has raised concerns about sustainability. Conservation organizations recommend sourcing cultivated stock to reduce pressure on wild populations.
 
@@ -38,15 +34,7 @@ The genus Dypsis is endemic to Madagascar and the Comoro Islands, comprising app
 
 The palm grows to approximately 15 meters in height, with a solitary trunk reaching 30–40 centimeters in diameter. The trunk develops its characteristic three-sided shape as the leaf bases persist and wrap around the crownshaft, creating prominent ridges.
 
-[[soil-temperature-plant-growth-rate-doubling-rule]] is moderate, with established plants producing approximately 30–60 centimeters of trunk per year under optimal conditions. Container-grown specimens grow more slowly but remain healthy for many years.
-
-Leaves are pinnate, arching, and 2.5–4 meters long, with 80–120 leaflets per side. Leaflets are dark green to bluish-green above and silvery-green beneath, each measuring 40–60 centimeters long and 2–3 centimeters wide.
-
-The crownshaft is smooth, green to gray-green, and approximately 60–90 centimeters tall. It forms a swollen base where the leaf sheaths overlap, contributing to the triangular trunk profile.
-
-Inflorescences are branched, emerging from below the crownshaft, and produce yellow-green flowers. Flowers are unisexual, with male and female flowers occurring on the same inflorescence (monoecious).
-
-Fruits are ovoid to ellipsoid, approximately 2–2.5 centimeters long, ripening from green to yellow-brown or purple-black. Each fruit contains a [[cervantes-selfing-single-seed-descent]] surrounded by a thin fibrous mesocarp.
+[[cervantes-selfing-single-seed-descent]] surrounded by a thin fibrous mesocarp.
 
 ## Distribution and Habitat
 
@@ -54,27 +42,7 @@ Dypsis decaryi is endemic to southeastern Madagascar, where it occurs in a narro
 
 The species has a highly restricted natural distribution, occurring across an estimated area of less than 5,000 square kilometers. This limited range makes it particularly vulnerable to habitat degradation.
 
-In its native range, the species is found in semi-arid to subhumid [[mollison-designers-gallery-forests-and-valley-bottomland-systems]] along riverbanks and seasonal watercourses. It also occurs on rocky hillsides and lateritic soils in areas with a pronounced dry season.
-
-The climate in its native range is tropical with marked seasonality. Annual rainfall ranges from 1,000 to 1,500 millimeters, with a warm, dry season from May to October and a wet season from November to April.
-
-Mean annual temperatures in the region are approximately 23–25°C. The species tolerates moderate wind exposure but performs best in sheltered positions within the landscape.
-
-Soils in its native habitat are typically sandy, well-drained, and nutrient-poor, derived from granite or laterite. This tolerance for low-fertility substrates contributes to its adaptability in cultivation.
-
-## Cultivation
-
-Triangle palm is well-suited to USDA hardiness zones 10–11, tolerating temperatures down to approximately −2°C for brief periods. It prefers full sun to partial shade and well-drained sandy or loamy soils.
-
-The species is notably drought-tolerant once established, making it a popular choice for xeriscaping in suitable climates. It adapts readily to cultivation in coastal gardens, poolside plantings, and container culture for patios.
-
-Propagation is primarily from seed, which germinates within one to three months under warm, moist conditions. Seedlings grow relatively quickly for a Dypsis species, producing visible trunk development within 4–6 years under favorable conditions.
-
-Fresh seeds have the highest germination rates, though properly stored seeds can remain viable for several months. Pre-soaking seeds in water for 24 hours before sowing can improve germination success.
-
-Regular watering during establishment is recommended, after which the palm requires minimal irrigation. Fertilization with a balanced palm fertilizer two to three times per year supports vigorous growth.
-
-Pests are relatively uncommon in cultivation, though scale insects and [[cervantes-spider-mites-identification-control]] may occasionally affect crownshaft and leaf undersides. [[cannabis-root-rot-prevention-and-treatment]] can develop in poorly drained soils and should be managed through proper [[coleman-greenhouse-orientation-site-selection-wind-protection-coleman]].
+In its native range, the species is found in semi-arid to subhumid [[cervantes-spider-mites-identification-control]] may occasionally affect crownshaft and leaf undersides. [[coleman-greenhouse-orientation-site-selection-wind-protection-coleman]].
 
 ## Ecology and Uses
 
@@ -87,3 +55,84 @@ The palm is listed as Endangered on the IUCN Red List due to habitat loss from a
 Conservation efforts include protection within the Andohahela National Park, which encompasses part of the species' native range. Ex situ conservation through botanical garden collections provides additional genetic safeguards.
 
 Cultivated triangle palms serve primarily ornamental purposes in landscaping. The species is widely planted in Mediterranean-climate regions, including southern California, southern Florida, parts of Australia, and South Africa.
+
+## Overview
+
+Dypsis Decaryi represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish dypsis decaryi
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving dypsis extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Dypsis Decaryi finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for dypsis decaryi. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+dypsis decaryi and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Dypsis Decaryi has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of dypsis decaryi into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[dypsis-lutescens]]

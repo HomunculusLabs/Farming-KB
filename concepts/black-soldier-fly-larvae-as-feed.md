@@ -1,5 +1,5 @@
 ---
-title: Black Soldier Fly Larvae As Feed
+title: Black Soldier Fly Larvae as Feed
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
@@ -31,7 +31,7 @@ The high calcium content (from the exoskeleton) is especially beneficial for egg
 BSF larvae contain 5-10% chitin in their exoskeleton. Chitin and its derivative chitosan have documented benefits:
 
 - Stimulates immune function in poultry and fish
-- [[medicinal-mushroom-antimicrobial-properties]] in the gut
+- Antimicrobial properties in the gut
 - May reduce need for antibiotics in livestock production
 - Improves gut microbiome diversity
 
@@ -68,7 +68,7 @@ The high fat content of BSF larvae can be a liability in feed rations — excess
 
 - Press dried larvae through a screw press or expeller
 - The resulting oil can be used as a supplemental energy source or made into biodiesel
-- Defatted meal has higher protein concentration and better [[psilocybin-storage-stability-post-harvest-degradation-mushrooms]]
+- Defatted meal has higher protein concentration and better storage stability
 
 ## Feeding Guidelines by Species
 
@@ -95,7 +95,7 @@ The high fat content of BSF larvae can be a liability in feed rations — excess
 ### Quail
 
 - Similar guidelines to chickens but at smaller scale
-- Live larvae are highly stimulating for quail and can improve [[root-foraging-behavior]]
+- Live larvae are highly stimulating for quail and can improve foraging behavior
 - See [[quail-egg-production]] for quail-specific feeding programs
 
 ## Regulations
@@ -111,22 +111,16 @@ Always check local regulations before feeding BSF-derived products to food-produ
 
 ## Integration with Composting
 
-BSF larvae are produced as a byproduct of [[black-soldier-fly-composting]]. The composting bin serves dual purpose — waste reduction and feed production. This [[solomon-insects-and-diseases-integrated-approach]] is one of the most efficient [[fungal-single-cell-protein-production]] methods available at homestead scale, converting low-value organic waste into high-value animal protein.
+BSF larvae are produced as a byproduct of [[black-soldier-fly-composting]]. The composting bin serves dual purpose — waste reduction and feed production. This integrated approach is one of the most efficient protein production methods available at homestead scale, converting low-value organic waste into high-value animal protein.
 
 ## Economic Considerations
 
 At homestead scale, BSF larvae production costs are primarily labor and bin materials. The value of waste diverted from landfill and feed costs avoided typically provides a strong return on investment. Commercial BSF meal sells for $800-1,500 per ton, making small-scale production economically competitive with soybean meal ($350-500/ton) when waste diversion value is included.
-## Key Considerations
-
-Understanding the fundamental principles underlying this topic enables more effective practical application. Integration with related concepts strengthens overall system function and provides multiple pathways for implementation and adaptation to specific contexts.
-
-## Common Challenges
-
-Practitioners frequently encounter challenges related to resource availability, environmental variability, and knowledge gaps. Systematic approaches to problem-solving, combined with community knowledge sharing and iterative experimentation, provide effective pathways to overcoming these obstacles.
 
 ## See Also
-- [[cervantes-top-feed-hydroponic-systems]]
-- [[knf-poultry-feed-preparation]]
-- [[legume-nitrogen-myth-beans-feed-corn]]
-- [[livestock-feed-formulation]]
-- [[query-do-beans-and-peas-feed-nearby-plants-with-nitrogen]]
+
+- [[comparison-mesquite-vs-black-locust-vs-carob-tree]]
+- [[comparison-black-soldier-fly-vs-vermicomposting]]
+- [[black-soldier-fly-farming-and-insect-protein]]
+- [[comparison-black-soldier-fly-composting-vs-bokashi]]
+- [[black-tuna]]

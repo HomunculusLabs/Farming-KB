@@ -59,7 +59,7 @@ Mollison organizes yield-creation strategies into four broad categories, each wi
 ### Functional Strategies
 
 - **Niche creation:** Providing a critical resource in space to enable a species or function
-- **Soil rehabilitation:** Building soil as the foundation of all biological production
+- **Soil rehabilitation:** [[building-soil]] as the foundation of all biological production
 - **Water diversion and recycling:** Maximizing water use efficiency through multiple passes
 - **Structure-landscape integration:** Buildings and infrastructure serving multiple productive functions
 - **Species selection:** Choosing low-maintenance cultivars and species suited to the specific site
@@ -104,9 +104,6 @@ Beyond the technical strategies, Mollison includes organizational approaches:
 
 ## See Also
 
-- [[resource-classification-and-management-in-permaculture]]
 - [[mollison-tessellation-and-annidation-in-design]]
-- [[mollison-open-living-systems-and-design-principles]]
 - [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]]
-- [[bill-mollison-permaculture-a-designers-manual-guild-design-in-permaculture]]
 - [[mollison-extending-and-storing-yields]]

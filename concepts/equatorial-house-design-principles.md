@@ -4,11 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Equatorial House Design Principles
-
-Designing for the equatorial tropics inverts temperate-climate assumptions. The primary
-challenge is not retaining heat but dissipating it, while managing intense rainfall,
-seasonal hunger gaps, and cyclonic storms. [[bill-mollison]]'s *Permaculture: A Designers'
+# Equatorial [[bill-mollison]]'s *Permaculture: A Designers'
 Manual* establishes a coherent design logic: orient to wind, shade everything, detach
 heat sources, and integrate the house within a productive tropical garden system.
 
@@ -144,13 +140,10 @@ quick-growing vegetables started as rains begin.
 
 ## Synthesis
 
-The equatorial house is not a building on a cleared lot — it is an **integrated system**
-where structure, vegetation, airflow, and food production work together. Cooled by wind
-and shade, protected from storms by earthworks and bamboo, fed by the surrounding
-garden, and enriched by the waste streams of its inhabitants, Mollison's principles
-treat the house as one element in a living landscape, not an object separate from it.
-## See also
+## See Also
 
-- [[permaculture-design]]
-- [[passive-cooling-tropical-subtropical-houses]]
+- [[equatorial-photoperiod-early-flowering]]
+- [[durban-poison-and-equatorial-sativas]]
 - [[equatorial-house-design-essentials]]
+- [[oner-brazilian-white-sativa-early-finishing-equatorial-genetics]]
+- [[equatorial-house-and-tropical-home-garden]]

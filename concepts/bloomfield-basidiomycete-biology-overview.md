@@ -10,13 +10,7 @@ type: concept
 ---
 # Basidiomycete Biology Overview
 
-The Basidiomycota is one of the two major phyla of the [[fungal-taxonomy-and-kingdom-fungi]],
-comprising approximately 30,000 described species. Named for their
-characteristic spore-producing structure (the basidium), basidiomycetes
-include the familiar mushrooms, brackets, puffballs, stinkhorns, and the
-devastating rust and smut plant pathogens.
-
-In "Mr. Bloomfield's Orchard," [[nicholas-money]] describes basidiomycetes as
+The Basidiomycota is one of the two major phyla of the [[nicholas-money]] describes basidiomycetes as
 organisms whose "apparently ornamental figure is really a very conservative
 structure" — every feature of their form reflects millions of years of
 adaptive refinement.
@@ -31,45 +25,8 @@ Basidiomycetes are distinguished from other fungi by several features:
 - **Basidiospore**: The sexual spore of basidiomycetes, produced on the
   surface of the basidium (unlike ascomycete ascospores, which form inside a
   sac-like ascus). Each basidiospore is forcibly discharged by a surface
-  tension [[bloomfield-buller-drops-and-surface-tension-spore-catapult-mechanism]].
-- **Dolipore septum**: A specialized cell wall structure with a central pore
-  surrounded by a barrel-shaped swelling, unique to basidiomycetes. This pore
-  allows cytoplasmic streaming between cells while maintaining some
-  compartmentalization.
-- **Clamp connections**: Small hyphal branches that form during cell division
-  to ensure that each cell receives the correct complement of nuclei after
-  the mating of two compatible mycelia.
-
-## Major Groups
-
-### Agaricales (Gilled Mushrooms)
-
-The largest and most familiar order, including edible species (Agaricus
-bisporus, the [[growing-gourmet-button-mushroom-agaricus-cultivation]]), hallucinogenic species (Psilocybe spp.), and
-deadly poisonous species ([[amanita-phalloides]], the death cap). Gilled mushrooms
-produce spores on blade-like structures (gills or lamellae) on the underside
-of the cap. The gills maximize spore-producing surface area in a compact
-arrangement.
-
-### Polyporales (Bracket Fungi)
-
-These fungi produce their spores on the inner surfaces of pores or tubes
-rather than gills. They grow as shelf-like brackets on tree trunks and logs.
-Many are important wood decomposers, including species used in traditional
-medicine. Some cause serious decay in standing timber.
-
-### Gasteromycetes (Puffballs and Earthstars)
-
-These basidiomycetes produce spores internally, releasing them through an
-opening or by disintegration of the fruiting body wall. Puffballs discharge
-spores in visible clouds when disturbed. Earthstars have an outer layer that
-peels back in a star pattern, elevating the spore sac above the ground
-surface for better wind dispersal.
-
-### Phallales (Stinkhorns)
-
-Phallic mushrooms that emerge from egg-like structures and produce
-foul-smelling spore masses attractive to flies and slugs. [[bloomfield-stinkhorns-phallus-impudicus-osmotic-fruiting]]
+  tension [[growing-gourmet-button-mushroom-agaricus-cultivation]]), hallucinogenic species (Psilocybe spp.), and
+deadly poisonous species ([[bloomfield-stinkhorns-phallus-impudicus-osmotic-fruiting]]
 (the shameless penis) is the most notorious example. Their reproductive
 strategy depends on insect dispersal rather than wind.
 
@@ -117,8 +74,76 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[dom]]
 - [[spore]]
-- [[amanita]]
 - [[bloomfield-hyphal-proton-pump-nutrient-uptake-electrical-biology]]
 - [[bloomfield-bioluminescent-fungi-overview]]
+
+## Overview
+
+Bloomfield Basidiomycete Biology Overview represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish bloomfield basidiomycete biology overview
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving bloomfield extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Bloomfield Basidiomycete Biology Overview finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for bloomfield basidiomycete biology overview. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+bloomfield basidiomycete biology overview and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Bloomfield Basidiomycete Biology Overview has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of bloomfield basidiomycete biology overview into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.

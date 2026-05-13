@@ -6,7 +6,7 @@ type: concept
 
 # Sachamama and Forest Spirits
 
-The Amazonian rainforest is inhabited by a vast hierarchy of spiritual beings that exist alongside and sometimes interpenetrate the physical world. In [[ayahuasca-preparation-pablo-amaringo-ucayali-shamanism]]'s [[amaringo-ayahuasca-visions-shipibo-iconography]], these beings range from the colossal Sachamama — a serpent so large it supports an entire ecosystem on its back — to the trickster [[chullachaki]] who guards the wild animals, and the many snake spirits that respond to the shaman's [[icaros]]. Understanding these entities is fundamental to the practice of vegetalismo.
+The Amazonian rainforest is inhabited by a vast hierarchy of spiritual beings that exist alongside and sometimes interpenetrate the physical world. In [[amaringo-ayahuasca-visions-shipibo-iconography]], these beings range from the colossal [[sachamama]] — a serpent so large it supports an entire ecosystem on its back — to the trickster [[icaros]]. Understanding these entities is fundamental to the practice of vegetalismo.
 
 ## The Sachamama (Mother of the Forest)
 
@@ -89,43 +89,7 @@ A creature that is simultaneously a paiche fish (Arapaima gigas) and a snake wit
 
 ### Mermaids with Two Tails
 
-These beings only emerge during sublime trances to cure sicknesses of the water — afflictions caused by the [[yakumama]], the yaku-caballo (water horse), the rayamama (ray mother), the dolphin, or the anguila mama (electric eel). Their dual-tailed form distinguishes them from ordinary mermaids.
-
-## The Muraya Entering the Subaquatic World
-
-The muraya is a specialized type of shaman capable of traveling to the bottom of rivers and entering the subaquatic cities. In this vision, a muraya descends to the golden city beneath the waters, guided by two mermaids.
-
-### Guardian Animals
-
-Three guardian animals escort the muraya:
-
-- **Tibemama** (Osprey, Pandion haliaetus): A fish-eating raptor of the waters
-- **Sarara** (Anhinga anhinga): The snake-bird, capable of swimming and diving
-- **Tibe negro** (Neotropic cormorant, Phalacrocorax olivaceus): Another aquatic bird
-
-### The Subaquatic City
-
-The city gate is guarded by two Yakumamas with magnetic power in their tongues, capable of capturing anyone who tries to enter by force. Within the city:
-
-- **Witches' town**: Surrounded by the great serpent purahua, accessible only through the serpent's tunnel-like mouth, equipped with radar-like defenses
-- **Extraterrestrial airport**: A landing site for spaceships from Jupiter, Ganymede, Venus, Saturn, and Mars
-- **Princesses' domain**: The Sukuacra-huarmi (princesses or nymphs) dance to the music of their icaros, coming from a distant city in the river filled with aromatic perfumed air
-
-### The Royal Palace
-
-Higher in the subaquatic world stands a great royal palace where muses dance and musicians play lutes, producing charming and emotional melodies. A queen and her court-ladies observe from Callisto, a satellite of Jupiter. A monument honors Hashi, a great juggler, beside whom stands the spirit of the papastrueno plant (Dioscorea sp.) — an Inca called Yana-huya whose plant grants the ability to summon or prevent rain.
-
-## The Huairamama's Riders
-
-Several beings ride upon the Huairamama, each representing a different aspect of spiritual power:
-
-- **First sylph**: Teaches defense in sidereal space
-- **Second sylph (queen)**: Cleverly corners enemies and delivers them to a third sylph
-- **Third sylph (yellow gown)**: Executes the captured enemies
-- **Princess**: Instructor in esoteric sciences
-- **King**: Commands goats called chusco-huacra that produce an accompanying wind
-
-Four flying objects always accompany the sylphs as guardians wherever they go, suggesting a technological or quasi-technological dimension to these [[metzner-spirit-beings-multiple-realities-entheogens]].
+These beings only emerge during sublime trances to cure sicknesses of the water — afflictions caused by the [[metzner-spirit-beings-multiple-realities-entheogens]].
 
 ## The Puma-runa and Huya-runa Snakes
 

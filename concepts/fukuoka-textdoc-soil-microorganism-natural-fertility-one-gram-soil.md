@@ -1,7 +1,7 @@
 ---
 title: Soil Microorganisms and Natural Fertility — One Gram of Soil
 source: administrator-microsoft-word-fukuoka-textdoc.md
-author: [[masanobu-fukuoka]]
+author: masanobu-fukuoka
 tags: [natural-farming, soil-microbiology, nitrogen-fixing, soil-fertility, microorganisms, no-till, green-manure, straw-mulch, desert-revegetation]
 date: 2026-05-11
 updated: 2026-05-11
@@ -10,7 +10,7 @@ type: concept
 
 # Soil Microorganisms and Natural Fertility — One Gram of Soil
 
-One of the most striking empirical claims in Masanobu Fukuoka's work is
+One of the most striking empirical claims in [[masanobu-fukuoka]]'s work is
 deceptively simple: "One gram of soil on my farm contains about 100
 million nitrogen-fixing bacteria and other soil-enriching microbes."
 This single observation encapsulates his entire argument about soil
@@ -124,10 +124,11 @@ compartments without losing the emergent properties of living soil.
 
 ## Connections
 
-- [[fukuoka-textdoc-natural-soil-management]] — broader soil management
 - [[fukuoka-textdoc-greening-deserts-plant-irrigation]] — desert
   revegetation proposals
-- [[fukuoka-textdoc-no-fertilizer-principle-natural-soil-fertility]] —
-  the case against all external amendments
 - [[fukuoka-textdoc-crops-grow-own-accord-independence-fertilizer]] —
   crops as self-sufficient organisms
+
+## See Also
+
+- [[fukuoka-textdoc-no-fertilizer-principle-natural-soil-fertility]]

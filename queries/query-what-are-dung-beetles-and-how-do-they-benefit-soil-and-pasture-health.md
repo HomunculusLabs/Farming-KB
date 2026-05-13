@@ -23,27 +23,13 @@ Dung beetles are a cosmopolitan group of beetles whose larvae and adults feed pr
 - **Aphodiinae** (aphodiine dung beetles) — also within Scarabaeidae; many species are small and dwell within dung pats
 - **Geotrupidae** (earth-boring dung beetles) — a separate family; often larger, associated with mammal dung and decaying matter
 
-Over 7,000 species have been described worldwide, occupying every continent except Antarctica. They are keystone species and [[query-how-do-trophic-cascades-work]] in grassland and pastoral ecosystems.
-
-## What are the main functional types of dung beetles?
-
-Dung beetles are classified by how they handle dung into three functional groups:
-
-| Type | Behavior | Example Species | Key Traits |
-|------|----------|----------------|------------|
-| **Tunnelers** (paracoprid) | Bury dung directly beneath or near the pat | *Onthophagus taurus*, *Copris hispanus* | Dig vertical tunnels 10–30 cm deep; most effective at nutrient incorporation |
-| **Dwellers** (endocoprid) | Live and breed within the dung pat itself | *Aphodius fimetarius*, *Euoniticellus fulvus* | Shallow processing; still aid [[mollison-designers-fish-pond-water-quality-and-aeration]] |
+Over 7,000 species have been described worldwide, occupying every continent except Antarctica. They are keystone species and [[mollison-designers-fish-pond-water-quality-and-aeration]] |
 | **Rollers** (telecoprid) | Form dung balls and roll them away to bury elsewhere | *Scarabaeus sacer* (sacred scarab), *Sisyphus rubrus* | Often pair-bonded; bury at varying distances; reduce surface dung rapidly |
 
 A healthy pasture benefits from all three types working in complementary niches.
 
-## How does dung burial improve [[query-what-are-root-exudates-and-how-do-they-shape-soil-life]]
-
-- [[soil-food-web-nutrient-cycling]]
-- [[ingham-nutrient-cycling-soil-food-web]]
-## Practical Considerations
-
-When working with What Are Dung Beetles and How Do They Benefit Soil [[permaculture-grazing-and-pasture]] Health?, several practical factors should be
+## How does dung burial improve [[soil-food-web-nutrient-cycling]]
+- [[permaculture-grazing-and-pasture]] Health?, several practical factors should be
 carefully considered to achieve optimal results. These include
 the specific conditions of the implementation context, available
 resources, timing requirements, and the interactions between this

@@ -107,13 +107,8 @@ The corms are not known to have any traditional food or medicinal uses. Their pr
 
 ## See Also
 
-- [[dierama-pulcherrimum]]
 - [[watsonia-borbonica]]
-- [[babiana-stricta]]
 - [[crocosmia-lucifer]]
-- [[freesia-refracta]]
 - [[ixia-viridiflora]]
-- [[gladiolus-communis]]
 - [[tigridia-pavonia]]
-- [[crocus-sativus]]
 - [[iris-germanica]]

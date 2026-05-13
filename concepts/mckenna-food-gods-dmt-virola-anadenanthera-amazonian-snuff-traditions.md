@@ -2,17 +2,9 @@
 title: "DMT and Amazonian Snuff Traditions: Virola and Anadenanthera"
 source: "Food of the Gods"
 source_author: "[[terence-mckenna]]"
-topics: ["DMT", "[[sananga-eye-medicine-amazonian-ethnobotany]]", "Virola", "Anadenanthera", "snuff traditions"]
----
-
-# DMT and Amazonian Snuff Traditions: Virola and Amazonian Snuff
-
-The Amazon basin harbors some of the most potent naturally occurring
-[[psychedelic-substances-comparison]] known to science, administered through snuffing
+topics: ["DMT", "[[psychedelic-substances-comparison]] known to science, administered through snuffing
 traditions that stretch back thousands of years. Among these, the bark
-resins of *Virola* species and the seeds of *[[anadenanthera-peregrina]]*
-represent the most chemically powerful and culturally significant of
-all New World hallucinogens outside the [[mexican-sacred-mushroom-traditions]].
+resins of *Virola* species and the seeds of *[[mexican-sacred-mushroom-traditions]].
 
 ## N,N-Dimethyltryptamine (DMT)
 
@@ -105,17 +97,5 @@ cultures.
 Terence McKenna considered the Amazonian snuff traditions to be among the
 most direct and powerful of all entheogenic practices. Unlike the
 mushroom cults of Mesoamerica, which were largely destroyed by the Spanish
-conquest, or [[plutarch-and-cicero-on-the-eleusinian-mysteries]] of Greece, which faded with
-Christianization, the Amazonian snuff traditions have survived in living
-practice into the present day. They represent, in McKenna's view, the
-longest unbroken tradition of psychedelic use on Earth — a direct line
-from prehistoric shamanism to contemporary indigenous practice. The
-persistence of these traditions in the face of colonial pressure, mission
-activity, and modernization testifies to their deep cultural importance
-and the power of the experiences they produce.
-
-## See Also
-
-- [[mckenna-food-gods-stoned-ape-hypothesis]]
-- [[mckenna-food-gods-set-setting-psychedelic-preparation]]
+conquest, or [[mckenna-food-gods-stoned-ape-hypothesis]]
 - [[mckenna-richard-schultes-harvard-ethnobotany-psychoactive-plants]]

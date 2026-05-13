@@ -3,7 +3,7 @@ title: Fungal fungal electronic specimen catalogues Catalogues and Databases
 created: 2026-04-21
 updated: 2026-04-21
 type: concept
-tags: [[mycology]], databases, biodiversity-informatics, taxonomy]
+tags: mycology, databases, biodiversity-informatics, taxonomy]
 sources: []
 ---
 # Fungal Electronic Specimen Catalogues and Databases
@@ -18,8 +18,7 @@ conservation efforts worldwide.
 ## Elements of Electronic Catalogues
 
 Electronic specimen databases capture the essential
-information associated with each [[fungal-specimen-collection-herbarium-management]]:
-[[challenges-neurotropic-fungi-chemical-analysis-taxonomic-identification]] (current name, basionym,
+information associated with each [[challenges-neurotropic-fungi-chemical-analysis-taxonomic-identification]] (current name, basionym,
 synonyms, identifier), collector and collection number,
 date and geographic locality (country, state/province,
 latitude/longitude, elevation), habitat and substratum
@@ -74,8 +73,7 @@ type specimens, and molecular data.
 
 ### GBIF
 
-The [[psilocybe-global-biodiversity-hotspots]] Information Facility aggregates
-[[fungal-biodiversity-data-analysis]] from thousands of institutions
+The [[fungal-biodiversity-data-analysis]] from thousands of institutions
 worldwide. Fungal specimen records from hundreds of
 herbaria are accessible through GBIF, enabling large-
 scale analyses of fungal distributions, phenology, and
@@ -84,42 +82,6 @@ of fungal occurrence records.
 
 ### UNITE
 
-The UNITE database focuses on [[biodiversity-fungal-molecular-identification-dna-barcoding]]
-of fungi, providing a curated reference library of ITS
-sequences for fungal species. Each species hypothesis
-is represented by a sequence cluster with associated
-
-## Practical Applications
-
-The principles and techniques discussed here have wide-ranging applications
-across multiple disciplines and contexts. Practitioners and researchers
-continue to explore new ways to integrate these concepts into modern practice,
-adapting traditional knowledge to contemporary challenges and opportunities.
-
-## Key Considerations
-
-Several important factors influence the effectiveness and outcomes described
-in this topic. Understanding these considerations helps practitioners make
-informed decisions and avoid common pitfalls. Environmental conditions,
-timing, and material selection all play critical roles.
-
-## Historical Context
-
-The historical development of this subject reflects centuries of accumulated
-knowledge and practical experience. From traditional methods passed down
-through generations to modern scientific approaches, the evolution continues
-to inform current best practices and research directions.
-
-## Common Challenges
-
-Practitioners frequently encounter several challenges when working with
-these concepts. Climate variability, resource limitations, and knowledge
-gaps can all affect outcomes. Addressing these challenges requires patience,
-observation, and a willingness to adapt approaches based on results.
-
-## See Also
-- [[det]]
-- [[mycology]]
+The UNITE database focuses on [[det]]
 - [[fungal-specimen-collection-herbarium-management]]
-- [[fungal-specimen-preservation-herbarium]]
 - [[fungal-specimen-preparation-preservation-herbarium-storage]]

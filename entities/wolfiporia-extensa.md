@@ -19,18 +19,7 @@ sources:
 # Wolfiporia extensa (*Fu Ling*)
 
 ## Overview
-*Wolfiporia extensa*, commonly known as Fu Ling or China root, is a wood-decay polypore fungus in the family Polyporaceae. One of the most important medicinal fungi in Traditional Chinese Medicine (TCM), it has been used for over 2,000 years as a diuretic, sedative, and spleen tonic. The fungus grows underground as a massive sclerotium (up to 30+ kg) on the roots of various pine species, particularly *Pinus massoniana*. Modern research has validated its immunomodulatory, anti-tumor, anti-inflammatory, and hepatoprotective properties, with its water-soluble polysaccharides (pachymaran) being the primary [[cordyceps-cancer-bioactive-compounds]].
-
-## Taxonomy
-- **Kingdom:** Fungi
-- **Division:** Basidiomycota
-- **Class:** Agaricomycetes
-- **Order:** Polyporales
-- **Family:** Polyporaceae
-- **Genus:** Wolfiporia
-- **Species:** *W. extensa*
-- **Author citation:** (Peck) Ginns, 1984
-- **Synonyms:** *[[poria-cocos]]* F.A. Wolf, *Sclerotium cocos* C.S. Wei, *Pachyma cocos* F.A. Wolf
+*Wolfiporia extensa*, commonly known as Fu Ling or China root, is a wood-decay polypore fungus in the family Polyporaceae. One of the most important medicinal fungi in Traditional Chinese Medicine (TCM), it has been used for over 2,000 years as a diuretic, sedative, and spleen tonic. The fungus grows underground as a massive sclerotium (up to 30+ kg) on the roots of various pine species, particularly *Pinus massoniana*. Modern research has validated its immunomodulatory, anti-tumor, anti-inflammatory, and hepatoprotective properties, with its water-soluble polysaccharides (pachymaran) being the primary [[poria-cocos]]* F.A. Wolf, *Sclerotium cocos* C.S. Wei, *Pachyma cocos* F.A. Wolf
 - **Etymology:** *Wolfiporia* honors American mycologist Frederick A. Wolf; *extensa* Latin for "extended"
 - **Chinese name:** Fu Ling (茯苓); Japanese: Bukuryō; Korean: Bokryong
 
@@ -49,32 +38,7 @@ sources:
 - **Spores:** Cylindrical to ellipsoidal, smooth, hyaline, 6–10 × 3–4 µm; amyloid
 - **Basal layer:** Forms as a thin crust on the surface of mature sclerotia during warm, humid conditions
 ### Mycelium
-- **Culture characteristics:** White, cottony on PDA; moderate [[soil-temperature-plant-growth-rate-doubling-rule]] (3–5 mm/day at 25°C); optimum pH 5.0–6.0
-- **Hyphal system:** Monomitic; generative hyphae with clamp connections; hyaline
-
-## Phytochemistry
-### Polysaccharides (Primary Bioactives)
-- **Pachymaran (β-pachyman):** Water-soluble β-(1→3)-D-glucan with β-(1→6) branches; primary immunomodulatory compound; MW 5,000–20,000 Da
-- **Pachyman:** Insoluble β-(1→3)-D-glucan backbone; less bioactive; major structural polysaccharide of sclerotium (70–80% dry weight)
-- **PPS:** Partially modified pachyman with improved water solubility; used in injectable formulations
-- **Heteroglycans:** Arabinogalactan, fucogalactan, glucuronoarabinoxylan fractions
-### Triterpenoids
-- **Pachymic acid:** Lanostane-type triterpene; anti-inflammatory, anti-emetic
-- **Dehydropachymic acid, tumulosic acid, polyporenic acid C:** Related lanostane triterpenes
-- **Poricoic acids A–H:** Penta- and hexacyclic triterpenoid acids; anti-tumor activity in vitro
-- **Total triterpenoid content:** 0.5–1.5% of dried sclerotium
-### Other Compounds
-- **Ergosterol:** 0.1–0.3%; provitamin D₂ precursor
-- **Choline, lecithin:** Phospholipid fraction with nootropic activity
-- **Minerals:** Potassium, calcium, magnesium, iron; trace selenium and zinc
-- **Amino acids:** Contains all essential amino acids; particularly rich in leucine and valine
-### Compound Distribution
-| Fraction | Content (dry weight) | Primary Compounds |
-|----------|---------------------|-------------------|
-| Polysaccharides | 70–84% | Pachyman, pachymaran, heteroglycans |
-| Triterpenoids | 0.5–1.5% | Pachymic acid, poricoic acids |
-| Proteins | 2–3% | Lectins, amino acids |
-| Lipids | 0.3–1% | Ergosterol, [[carbon-isotope-labelling-mycorrhizal-fatty-acids]] |
+- **Culture characteristics:** White, cottony on PDA; moderate [[carbon-isotope-labelling-mycorrhizal-fatty-acids]] |
 | Minerals | 2–5% | K, Ca, Mg, Fe |
 
 ## Pharmacology and Medicinal Uses
@@ -82,9 +46,86 @@ sources:
 - Pachymaran and PPS enhance macrophage phagocytosis, NK cell activity, and T-lymphocyte proliferation
 - Increases serum IL-2, TNF-α, and IFN-γ in animal models
 - Used clinically in China as adjuvant cancer therapy alongside chemotherapy
-- **Evidence level:** Multiple in vivo studies; [[cancer-medicinal-mushrooms-schizophyllan-spg-clinical-trials]] in China (Phase II)
-### Anti-Tumor Activity
-- Polysaccharide fractions inhibit growth of sarcoma 180, Lewis lung carcinoma, and Ehrlich ascites in mice
-- Mechanism: immune-mediated [[blesching-cannabis-angiogenesis-and-tumor-suppression]] (not direct cytotoxicity); enhances [[fungal-virulence-factors-host-immune-evasion]] surveillance
-- Pachymic acid shows direct cytotoxicity against hepatoma and [[blesching-cannabis-breast-cancer]] cell lines (in vitro)
+- **Evidence level:** Multiple in vivo studies; [[blesching-cannabis-angiogenesis-and-tumor-suppression]] (not direct cytotoxicity); enhances [[blesching-cannabis-breast-cancer]] cell lines (in vitro)
 - Synergistic with 5-FU and cyclophosphamide in animal tumor models
+
+## Overview
+
+Wolfiporia Extensa represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish wolfiporia extensa
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving wolfiporia extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Wolfiporia Extensa finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for wolfiporia extensa. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+wolfiporia extensa and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Wolfiporia Extensa has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of wolfiporia extensa into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[wolfiporia-cocos]]

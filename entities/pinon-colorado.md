@@ -8,7 +8,7 @@ type: entity
 
 ## Description
 
-Piñon colorado (also spelled piñón colorado) is the common Amazonian name for *Jatropha gossypifolia*, a plant in the Euphorbiaceae family. In Amazonian vegetalismo, piñon colorado is used as a defense against evil sorcerers. For effective magical use, one must select leaves that have exactly five tips, resembling a human hand. The plant is depicted in Vision 45 of [[ayahuasca-preparation-pablo-amaringo-ucayali-shamanism]]'s *[[ayahuasca-visions]]* as one of the key defensive plants used by vegetalistas who transform themselves into wolves to hide from attacking sorcerers. A related variety, piñon negro, is also used.
+Piñon colorado (also spelled piñón colorado) is the common Amazonian name for *Jatropha gossypifolia*, a plant in the Euphorbiaceae family. In Amazonian vegetalismo, piñon colorado is used as a defense against evil sorcerers. For effective magical use, one must select leaves that have exactly five tips, resembling a human hand. The plant is depicted in Vision 45 of [[ayahuasca-visions]]* as one of the key defensive plants used by vegetalistas who transform themselves into wolves to hide from attacking sorcerers. A related variety, piñon negro, is also used.
 
 ## Classification
 
@@ -41,23 +41,9 @@ Piñon colorado (also spelled piñón colorado) is the common Amazonian name for
 - **Magical defense:** Used to ward off evil sorcerers during ayahuasca sessions
 - **Medicine:** Used traditionally for digestive complaints, skin conditions, and as a purgative
 - **The leaves with exactly five lobes are selected for magical use** — a specific morphological criterion
-- Related species in *Jatropha* are used for [[biodiesel-production]] and have economic importance
-
-## Magical Application Details
-
-- The five-tipped leaf morphology resembles a human hand, which is why it is selected for defensive magic
-- Used in combination with other defensive plants as part of a comprehensive protection strategy
-- The plant is deployed when vegetalistas face direct magical attack from sorcerers
-- The protective system involves transforming into animal forms while the plants create a defensive barrier
-
-## Relevance to Cultivation and Mycology
-
-- *Jatropha gossypifolia* is a pioneer species that colonizes disturbed areas, similar to many Euphorbiaceae
-- The toxic latex contains compounds with documented antimicrobial and antifungal properties
-- As a Euphorbiaceae member, the plant produces diterpene esters and other [[cordyceps-cancer-bioactive-compounds]]
+- Related species in *Jatropha* are used for [[cordyceps-cancer-bioactive-compounds]]
 - The specific selection of five-lobed leaves for magical use demonstrates sophisticated morphological awareness
-- The plant's colonizing nature makes it ecologically relevant to soil microbial and [[air-pollution-fungal-community-responses]] development in disturbed sites
-- Jatropha species have been studied for antifungal compounds effective against plant [[cordyceps-insect-pathogenic-fungi]]
+- The plant's colonizing nature makes it ecologically relevant to soil microbial and [[cordyceps-insect-pathogenic-fungi]]
 
 ## See Also
 
@@ -79,7 +65,7 @@ This criterion shows that vegetalista plant choice may depend on visible form as
 
 The healer reads the plant's shape as a sign of its spiritual function.
 
-That makes piñon colorado especially useful for comparing with [[achiote]], [[amaringo-ayahuasca-visions-shipibo-iconography]], and [[amazonian-shamanic-battles-and-defensive-powers]].
+That makes piñon colorado especially useful for comparing with [[amaringo-ayahuasca-visions-shipibo-iconography]], and [[amazonian-shamanic-battles-and-defensive-powers]].
 
 ## Protective Complex
 

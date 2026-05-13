@@ -8,7 +8,7 @@ type: concept
 
 ## Overview
 
-Entheogenic knowledge — particularly regarding the [[amanita-muscaria]] mushroom — is identified as one of the most closely guarded secrets of [[freemasonry]] and many other secret societies throughout history. The systematic hoarding, suppression, and eventual destruction of this knowledge is presented as a primary mechanism by which religious, governmental, and corporate power structures have maintained control over humanity, replacing direct spiritual experience with dogmatic belief systems.
+Entheogenic knowledge — particularly regarding the [[freemasonry]] and many other secret societies throughout history. The systematic hoarding, suppression, and eventual destruction of this knowledge is presented as a primary mechanism by which religious, governmental, and corporate power structures have maintained control over humanity, replacing direct spiritual experience with dogmatic belief systems.
 
 ## The Nature of Secret Society Secrecy
 
@@ -39,14 +39,7 @@ This pattern is compared to Christians burning the libraries of the East — aft
 ### Historical Parallels
 
 - **Library burnings** — the destruction of the great libraries of antiquity as a model for knowledge suppression
-- **[[wilhelm-reich]]'s persecution** — imprisoned, died mysteriously, and his books confiscated and burned by the FDA in New York incinerators, described as an attempt to stamp out the resurgence of indigenous natural spirituality
-- **The Inquisition** — targeting those who possessed or promoted direct spiritual experience outside sanctioned channels
-
-## Freemasonry and Social Engineering
-
-### The King James Bible
-
-Freemasonry is identified as the secret organization most responsible for using Christianity as a tool for [[patriarchal-law-and-social-control]]. The King James version of the Bible, edited by **Sir Francis Bacon** (a 33rd degree Freemason), is described as specifically crafted to create social order through the implementation of a belief system aligned with Fascist ideologies.
+- **[[patriarchal-law-and-social-control]]. The King James version of the Bible, edited by **Sir Francis Bacon** (a 33rd degree Freemason), is described as specifically crafted to create social order through the implementation of a belief system aligned with Fascist ideologies.
 
 ### Ordo Ab Chao — Order Out of Chaos
 
@@ -69,30 +62,7 @@ The increasing preaching of "morality" by politicians is interpreted as evidence
 The control of human sexuality is identified as a foundational mechanism of social control:
 
 - "If you can control a person's sexuality you can get them to believe anything"
-- Government enforces [[anunnaki-sumerian-origins-religious-law]] through moral legislation
-- The concept of guilt associated with sex is described as "an ancient tool for control"
-- The oppressor's position: "Sex is bad, unless I say it's okay" — requiring licenses for licentious behavior
-
-### Religious Fear-Based Recruitment
-
-Religion is described as preying on those "full of guilt and fearful of death":
-
-1. **Instill fear** — create guilt about natural human drives and terror about death
-2. **Offer escape** — present the belief system as the only route to salvation
-3. **Require recruitment** — converts must bring other souls to the same master
-4. **Enforce compliance** — threats of eternal punishment for disobedience
-
-### Suppression of Dialogue
-
-The popular notion that "religion and politics are the two things you should never talk about" is identified as deliberately promoted because uncensored conversation between people allows those of different levels and fields of understanding to learn from one another. Open discussion of religion and government inevitably leads to conclusions not in the interest of authorities. True freedom of thought is described as having become "the" crime.
-
-## The Patriarchal System
-
-### Origins in Mesopotamia
-
-The dominant patriarchal system of rulership had engulfed Mesopotamian society and government by the time of its establishment. This patriarchy was transmitted through history:
-
-- **Mesopotamia** → **Egypt** → **Greece and Rome** → **Christianity** → **Islam** → **European and [[eleusinian-mysteries-psychoactive-fungi-western-civilization]]**
+- Government enforces [[eleusinian-mysteries-psychoactive-fungi-western-civilization]]**
 
 ### Characteristics of Patriarchal Control
 
@@ -132,6 +102,4 @@ The fundamental argument against all forms of mediated spirituality is that dire
 
 ## Star-Fire: The Withheld Substance
 
-The Sumerian concept of **Star-Fire** — the "gold of the gods," the "red gold," produced from the lunar essence of the goddess [[ninhursag]] — is identified as the same entheogenic substance known across cultures as Soma, Ambrosia, Scheffa-food, and Manna. When the Anunnaki withdrew from humanity after the fall of Babylon, they took this knowledge with them. The remaining priestly caste was forced to take the knowledge underground, much like the later alchemists who kept the process of "putting gold to the fire" (decarboxylation of the mushroom) a closely guarded secret.
-
-The phrase "what is it?" — repeated by the pharaoh throughout the Egyptian Book of the Dead — is the literal definition of the word "manna" in Hebrew, underscoring the universal enigmatic quality of this entheogenic substance across all [[entheogens-in-ancient-cultures]] that possessed it.
+The Sumerian concept of **Star-Fire** — the "gold of the gods," the "red gold," produced from the lunar essence of the goddess [[entheogens-in-ancient-cultures]] that possessed it.

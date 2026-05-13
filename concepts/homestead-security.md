@@ -9,7 +9,7 @@ sources: []
 
 # Homestead Security
 
-Rural and remote homesteads face unique security challenges: longer [[hallucinogenic-mushroom-telephone-helplines-and-emergency-response]] times, isolation, and valuable assets spread across open land. A comprehensive security approach combines physical barriers, surveillance, animal deterrents, and community networks. This page covers cameras, motion lighting, gates, livestock guardians, and community-based security strategies.
+Rural and remote homesteads face unique security challenges: longer emergency response times, isolation, and valuable assets spread across open land. A comprehensive security approach combines physical barriers, surveillance, animal deterrents, and community networks. This page covers cameras, motion lighting, gates, livestock guardians, and community-based security strategies.
 
 ## Layered Security Model
 
@@ -33,7 +33,7 @@ Modern IP camera systems are affordable and accessible for homesteads. Prioritiz
 - Trail/game cameras: Battery-powered, cellular, for remote locations without power
 
 **Key features for homesteads:**
-- [[blesching-cannabis-improved-night-vision]] (infrared) — minimum 100-foot range
+- Night vision (infrared) — minimum 100-foot range
 - Motion detection with push notifications to your phone
 - Local storage (NVR/DVR) or cloud recording
 - Weatherproof rating (IP66 or IP67 minimum)
@@ -91,7 +91,7 @@ The first line of physical security. Gates should match the fence in strength an
 
 - Maintain fences in good repair — gaps invite intrusion
 - Use no-climb fencing in high-security areas
-- Consider thorny hedgerow barriers ([[bloomfield-ghosts-of-evolution-osage-orange-anachronism]], blackberry, [[comparison-black-locust-vs-honey-locust]])
+- Consider thorny hedgerow barriers (osage orange, blackberry, honey locust)
 - Lock all gates, even interior gates between pasture areas
 - Keep gates closed and latched at all times
 
@@ -113,7 +113,7 @@ Dogs are the oldest and most reliable security system for a homestead. A well-tr
 - Feed separately from livestock to prevent food aggression
 - Expect 2+ years for full maturity and reliability
 
-**[[homesteading-legal-considerations]]:**
+**Legal considerations:**
 - Post "Beware of Dog" signage
 - Check local ordinances regarding dog breeds and livestock guardian dogs
 - Ensure your homeowner's or farm liability insurance covers dog-related incidents
@@ -141,10 +141,10 @@ Isolation is the homesteader's greatest vulnerability. A connected community is 
 
 ### Vehicle and Equipment Security
 
-- Keep vehicles locked, keys secured, and parked in visible areas
-- Use wheel locks, steering wheel locks, or GPS trackers on tractors and ATVs
-- Engrave equipment with your driver's license number
-- Photograph serial numbers and store records off-site
-- Chain and lock equipment in sheds when not in use
+## See Also
 
-### Firearm Safety and Self-Defense
+- [[homestead-energy-conservation]]
+- [[homestead-mushroom-business]]
+- [[homestead-winter-preparations]]
+- [[homestead-tool-maintenance]]
+- [[homestead-internet-options]]

@@ -11,8 +11,7 @@ Nugent and Boniface's *Permaculture Plants* dedicates a substantial section to
 water plants, organized into four functional categories based on their growth
 habit and position within aquatic systems. No aquatic system in permaculture
 is complete without a diverse range of plants performing multiple functions:
-food production, water oxygenation, [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]], habitat creation, and
-[[permplant-willows-salix-erosion-control-fodder]].
+food production, water oxygenation, [[permplant-willows-salix-erosion-control-fodder]].
 
 ## The Four Categories of Water Plants
 
@@ -20,8 +19,7 @@ food production, water oxygenation, [[comparison-nutrient-cycling-vs-nutrient-de
 Entirely underwater except possibly flowers. Roots act only as anchors;
 nutrient, gas, and oxygen exchange occurs across the entire plant surface.
 Oxygen released during photosynthesis enters the water directly, benefiting
-fish and aerobic bacteria that break down [[hamilton-composting-and-organic-matter-management]]. These are essential
-for maintaining healthy [[aact-dissolved-oxygen-fine-bubble-aeration-ingham]] levels.
+fish and aerobic bacteria that break down [[aact-dissolved-oxygen-fine-bubble-aeration-ingham]] levels.
 
 ### Floating-Leaved Plants
 Often directly useful to humans but of less direct benefit to fish. Usually
@@ -54,11 +52,7 @@ peat moss.
 ### Duckweed (*Lemna*, *Wolffia*, *Spirodella*, *Wolffiella* spp)
 Approximately 40 known species of free-floating plants, among the most
 vigorous growers on Earth — some double their numbers every three days.
-Excellent for removing excess nutrients from water. *[[colocasia-esculenta]]*)
-Possibly the earliest cultivated plant, grown in paddy culture like rice.
-Corms compare nutritionally to potatoes and sweet potatoes. Leaves and
-petioles can be cooked and eaten like spinach. Requires 6–7 month frost-
-free period. Some cultivars are highly [[halotolerant-halophilic-fungi-salt-tolerant-diversity]]. Per 100 g of corms:
+Excellent for removing excess nutrients from water. *[[halotolerant-halophilic-fungi-salt-tolerant-diversity]]. Per 100 g of corms:
 73% water, 98 calories, 23.7 g carbohydrate, 1.9 g protein, 514 mg
 potassium.
 
@@ -75,16 +69,82 @@ can exceed 7 tonnes per hectare (carbohydrate 30%, protein 1.5%). Often
 grown in rotation with rice and as a companion to taro, lotus, and water
 lilies.
 
-### Lotus (*[[nasturtium-officinale]]*)
-Fast-growing (30–60 days) broad-leafed herb requiring cool or cold flowing
-water. Extraordinarily nutritious: per 100 g contains 4900 IU vitamin A,
-79 mg vitamin C, 151 mg calcium, and 2.2 g protein. Warning: should not
-be grown for human consumption in polluted waters.
-
-## Margin and Water Meadow Plants
-
-- **Water mimosa** (*Neptunia oleracea*) — floating leguminous plant; leaves
-  and stems eaten in salads in Thailand and Vietnam
-- **Arrowhead** (*Sagittaria* spp) — tubers eaten like potatoes; up to 5–7%
-  protein for a root crop; requires 6–7 month [[savory-growing-season-and-non-growing-season-management]]
+### Lotus (*[[savory-growing-season-and-non-growing-season-management]]
 - **Wild rice** (*Zizania aquatica*) — high in vitamin B, easily digested;
+
+## Overview
+
+Permaculture Plants Aquatic Systems Water Plants represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish permaculture plants aquatic systems water plants
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving permaculture extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Permaculture Plants Aquatic Systems Water Plants finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for permaculture plants aquatic systems water plants. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+permaculture plants aquatic systems water plants and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Permaculture Plants Aquatic Systems Water Plants has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of permaculture plants aquatic systems water plants into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.

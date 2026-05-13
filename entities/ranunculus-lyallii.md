@@ -36,41 +36,13 @@ Unlike many alpine buttercups, Ranunculus lyallii contains only low levels of ra
 
 Ranunculus lyallii was described by Joseph Dalton Hooker in 1852 from specimens collected during early botanical surveys of the Southern Alps. The specific epithet honors David Lyall, a Scottish botanist and surgeon who collected plants in New Zealand.
 
-The species belongs to section Pseudadonis within Ranunculus, a group of [[guzman-allen-gartz-africa-southern-hemisphere-underexplored-neurotropic-fungi]] alpine buttercups with thick, leathery leaves. It is most closely related to Ranunculus insignis and Ranunculus geraniifolius, both New Zealand endemics.
-
-Plants grow 60–120 cm tall with stout, furrowed flowering stems rising from a basal rosette. The root system features a deep, fleshy taproot that can extend 30+ cm into rocky alpine soils.
-
-Leaves are broadly ovate to reniform, 10–30 cm across, with crenate to dentate margins. They display conspicuous palmate venation and a thick, leathery texture that reduces water loss in exposed alpine conditions.
-
-Flowers are solitary or in loose cymes of 2–5, each with 5–8 white petals and numerous golden stamens. Individual flower diameter ranges from 5–8 cm, making them among the largest in the genus.
-
-Achenes are flattened, 3–4 mm long, with a short, curved beak and arranged in a globose head. Each flower can produce 50–100 achenes, which disperse by wind and water across alpine scree slopes.
-
-Chromosome studies report a diploid count of 2n = 32, consistent with other members of Ranunculus section Pseudadonis. This chromosomal stability contrasts with the polyploid complexity found in many Northern Hemisphere buttercup lineages.
-
-## Distribution and Habitat
-
-Ranunculus lyallii is endemic to the South Island of New Zealand, occurring from north-west Nelson to Southland. Its core range centers on the Southern Alps, particularly in Aoraki/Mount Cook, Arthur's Pass, and Westland Tai Poutini national parks.
-
-It grows at elevations of 700–1,500 meters in montane to subalpine herbfields, tussock grasslands, and damp gullies. The species prefers moist, well-drained soils on stable scree slopes and rock outcrites with reliable winter snow cover.
-
-Populations are typically found in areas receiving 2,000–5,000 mm annual rainfall, often on schist or greywacke substrates. The largest populations occur in the Aoraki/Mount Cook region, where stable talus slopes provide ideal habitat.
-
-The plant favors sites with moderate snow lie, where snow protects it from frost desiccation during winter months. It frequently grows alongside other iconic New Zealand alpine plants such as Celmisia species and Aciphylla (speargrasses).
-
-Elevation plays a critical role in shaping population structure, with lower-elevation sites supporting denser but more herbivore-impacted stands. At upper elevations near 1,500 m, plants are smaller but suffer less browsing pressure due to reduced herbivore activity.
-
-Soil moisture is a key limiting factor; the species rarely occurs on drought-prone northerly aspects but thrives on south-facing slopes and gully floors where meltwater maintains consistent soil moisture through [[query-how-to-protect-plants-from-frost-and-extend-the-growing-season]].
+The species belongs to section Pseudadonis within Ranunculus, a group of [[query-how-to-protect-plants-from-frost-and-extend-the-growing-season]].
 
 ## Ecology
 
 The Mount Cook lily plays a significant ecological role in subalpine herbfield communities across the Southern Alps. Its large leaves create microhabitats for invertebrates and provide shelter for seedlings of other alpine species.
 
-Pollination is primarily by native insects, including [[comparison-honey-bees-vs-native-solitary-bees]] (Leioproctus species) and syrphid flies. The prominent white flowers with golden stamens are highly visible against the dark rock and tussock backdrop.
-
-The species exhibits adaptations to the harsh alpine environment including thick, leathery leaves that reduce water loss and resist frost damage. Its deep taproot anchors the plant in unstable scree and accesses moisture during dry periods.
-
-New leaves emerge in spring from the perennial rootstock after snowmelt, unfolding rapidly to capture the short [[extending-growing-season]]. The rosette dies back completely by autumn, with the rootstock remaining dormant under winter snow cover.
+Pollination is primarily by native insects, including [[extending-growing-season]]. The rosette dies back completely by autumn, with the rootstock remaining dormant under winter snow cover.
 
 Ranunculus lyallii is palatable to introduced herbivores such as deer, chamois, tahr, and hares, which have significantly reduced populations in accessible valleys. Conservation measures focus on herbivore control in key alpine reserves.
 
@@ -87,3 +59,88 @@ Propagation is by seed, which requires cold stratification for 4–6 weeks befor
 Fresh seed germinates at rates of 40–60% after stratification, but viability declines rapidly after 12 months of dry storage. Seeds sown in autumn and left outdoors over winter typically produce the strongest seedlings.
 
 The species is hardy to approximately -15°C but resents warm, humid summers and often fails in continental climates. It performs best in rock gardens or alpine houses in regions with cool, maritime conditions.
+
+## Overview
+
+Ranunculus Lyallii represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish ranunculus lyallii
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving ranunculus extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Ranunculus Lyallii finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for ranunculus lyallii. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+ranunculus lyallii and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Ranunculus Lyallii has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of ranunculus lyallii into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[ranunculus-aquatilis]]
+- [[ranunculus-arvensis]]
+- [[ranunculus-asiaticus]]
+- [[ranunculus-cassubicus]]
+- [[ranunculus-lingua]]

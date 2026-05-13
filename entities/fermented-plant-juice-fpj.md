@@ -10,7 +10,7 @@ sources: [/Users/t3rpz/wiki/raw/papers/chos-global-natural-farming.md]
 
 # Fermented Plant Juice (FPJ)
 
-**Fermented Plant Juice (FPJ)** is a core input in **Korean [[comparison-natural-farming-vs-permaculture]] (KNF)**, developed by Master Cho Han-Kyu. FPJ is a [[jadam-liquid-fertilizer-nutritional-perspective]] and biostimulant produced by extracting and fermenting the sap and cell contents of fast-growing plant shoots using brown sugar as a solvent and preservative. The preparation captures the plant's growth hormones, amino acids, enzymes, minerals, and organic acids in a bioavailable form that can be applied to crops as a foliar spray or soil drench.
+**[[fermented-plant-juice]] (FPJ)** is a core input in **Korean [[jadam-liquid-fertilizer-nutritional-perspective]] and biostimulant produced by extracting and fermenting the sap and cell contents of fast-growing plant shoots using brown sugar as a solvent and preservative. The preparation captures the plant's growth hormones, amino acids, enzymes, minerals, and organic acids in a bioavailable form that can be applied to crops as a foliar spray or soil drench.
 
 ## Principle
 
@@ -74,14 +74,7 @@ FPJ is diluted and applied in the following ways:
 - **Compost additive**: Add undiluted to compost piles to accelerate decomposition
 - **Seed treatment**: Dilute 1:500 for seed soaking before planting
 
-FPJ is typically applied during the vegetative growth phase, while other KNF inputs like [[bionutrients-lab-oriental-herbal-nutrients-ohn]] Nutrient (OHN) are preferred during flowering and fruiting stages.
-
-## Benefits
-
-Practitioners of KNF attribute the following benefits to FPJ application:
-
-- Enhanced vegetative growth and leaf development
-- Improved plant vigor and [[fungal-lichen-stress-tolerance-and-poikilohydry]]
+FPJ is typically applied during the vegetative growth phase, while other KNF inputs like [[fungal-lichen-stress-tolerance-and-poikilohydry]]
 - Earlier flowering and fruit set
 - Enhanced fruit quality, sweetness, and shelf life
 - Reduced [[hamilton-pest-and-disease-control-organic]] pressure

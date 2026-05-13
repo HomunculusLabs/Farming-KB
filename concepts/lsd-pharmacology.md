@@ -17,7 +17,7 @@ sources:
 
 # LSD Pharmacology
 
-The pharmacology of [[lsd-d-lysergic-acid-diethylamide]] (LSD): mechanism of action, receptor interactions, potency, pharmacokinetics, and effects.
+The pharmacology of [[lysergic-acid-diethylamide]] (LSD): mechanism of action, receptor interactions, potency, pharmacokinetics, and effects.
 
 ## Chemical Identity
 
@@ -71,7 +71,7 @@ LSD is one of the most potent pharmacologically active substances known:
 
 - Total duration: approximately **8-12 hours**.
 - The comedown/aftereffects can extend several additional hours.
-- LSD's long duration compared to psilocybin (4-6 hours) or DMT (15-60 minutes when smoked) is a distinguishing feature and an important factor in set and setting preparation.
+- LSD's long duration compared to psilocybin (4-6 hours) or DMT (15-60 minutes when smoked) is a distinguishing feature and an important factor in [[lsd-set-and-setting-framework]] preparation.
 
 ### Metabolism and Elimination
 

@@ -10,53 +10,7 @@ sources: [/Users/t3rpz/wiki/raw/papers/bill-mollison-permaculture-a-designers-ma
 
 Updated: 2026-04-18
 
-Spore extraction from soil is the primary method for assessing species composition and abundance of arbuscular mycorrhizal (AM) [[biodiversity-of-fungi-soil-fungal-communities-agriculture]]. Since AM fungi cannot be cultured apart from their plant hosts, spore-based methods remain essential for inventory and characterization work.
-
-## Overview
-
-AM fungi (order Glomales) produce spores ranging from 20-800 micrometers in diameter, varying in color from white to red-black. Over 80% of described species are nonsporocarpic (producing spores singly or in loose clusters rather than in organized sporocarps). Species identification relies on subcellular characters of the spore wall and flexible inner walls.
-
-## Wet-Sieving and Sucrose Density Gradient Centrifugation
-
-This is the standard procedure for extracting AM fungal spores from soil:
-
-### Equipment
-- Blender
-- Nested sieves: 500, 250, and 38 (or 45) micrometer openings
-- Swinging bucket centrifuge with 50-mL tubes
-- Sucrose solutions: 20% and 60% (w/v)
-- Glass Petri dishes (preferred over plastic)
-- Gridded filter paper
-- Buchner funnel (optional)
-- Dissecting microscope and compound microscope with differential interference contrast optics
-
-### Procedure
-1. Collect soil to predetermined depth (usually 15-20 cm), ensuring sample contains all available roots
-2. Mix sample with water in a blender for 30 seconds
-3. Pass slurry through nested sieves (500, 250, 38/45 micrometer) using water spray
-4. Examine material from 500- and 250-micrometer sieves separately for small sporocarps and large spores
-5. Centrifuge material from the 38/45-micrometer sieve in sucrose gradients:
-   - First at 20% sucrose
-   - Then at 60% sucrose
-   - Swinging bucket rotor provides optimal separation
-6. Pour supernatant from each tube into a 38/45-micrometer sieve, wash 1-2 minutes, rinse in distilled water
-7. Place in glass Petri dish for storage
-
-### Alternative: Filter Paper Method
-- Wash sievings through prewetted filter paper in a Buchner funnel under vacuum
-- Filter paper can be stored in Petri dishes for 5-7 days at 4C without obvious damage
-- Can be dried and stored longer, rewetted 24 hours before counting
-- Eliminates spore transfer steps
-
-### Spore Counting
-- Low numbers: count directly in all fields under stereomicroscope
-- High numbers: count spores from 30-40 randomly chosen grid cells, average, and multiply by total grid cells
-- Placing spores on gridded filter paper eliminates movement during counting
-
-## Critical Considerations
-
-- PVC pipe cut into 2-cm sections with nylon mesh on one end can serve as sieves of custom sizes
-- In soils with high [[hamilton-composting-and-organic-matter-management]] and microbial activity (especially tropical), most spores may be too degraded or parasitized for identification
+Spore extraction from soil is the primary method for assessing species composition and abundance of arbuscular mycorrhizal (AM) [[hamilton-composting-and-organic-matter-management]] and microbial activity (especially tropical), most spores may be too degraded or parasitized for identification
 - Spore populations are highly aggregated; appropriate sampling depth is determined by root system location
 - In sand dunes, spore abundance can be high at depths of 100 cm or more
 - Sampling only at the soil surface may miss sporulation in deeper root zones
@@ -69,16 +23,8 @@ Field sampling recovers only sporulating species. Many AM fungi colonize roots w
 ## Root Staining
 
 AM colonization of roots is confirmed by clearing and staining:
-- Trypan blue in [[bionutrients-lab-lactic-acid-bacteria-serum]] and phenol mixture (Phillips and Hayman 1970) -- traditional but phenol is hazardous
-- Safer alternative: Koske and Gemma (1989) method
-- Acid fuschin (Kormanik et al. 1980) and chlorazol black E (Brundrett et al. 1984) are alternative stains
-- Chlorazol black E produces highest contrast among fungal structures
+- Trypan blue in [[ingham-humic-acids-extraction-and-soil-function]]
 
-## See Also
-
-- [[ingham-humic-acids-extraction-and-soil-function]]
-
-- [[arbuscular-mycorrhizal-colonization-patterns]]
 - [[fungal-glomalin-and-soil-carbon]]
 
 ## Sources
@@ -87,7 +33,6 @@ AM colonization of roots is confirmed by clearing and staining:
 - Daniels, B.A. and Skipper, H.D. 1982. Methods for recovery and quantitative estimation of propagules
 - McKenney, M.C. and Lindsey, D.L. 1987. Improved method for AM spore extraction
 - Brundrett, M. et al. 1994. Practical methods in mycorrhiza research
-- [[nutrient-movement-through-soil-to-plant-roots]]
 - [[arbuscular-mycorrhizal-fungi-in-tropical-forest-restoration]]
 
 ## Practical Applications
@@ -119,8 +64,87 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[spore]]
 - [[mycorrhizal-fungi]]
-- [[dom]]
 - [[det]]
 - [[bionutrients]]
+
+## Overview
+
+Arbuscular Mycorrhizal Spore Extraction Methods represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish arbuscular mycorrhizal spore extraction methods
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving arbuscular extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Arbuscular Mycorrhizal Spore Extraction Methods finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for arbuscular mycorrhizal spore extraction methods. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+arbuscular mycorrhizal spore extraction methods and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Arbuscular Mycorrhizal Spore Extraction Methods has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of arbuscular mycorrhizal spore extraction methods into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[arbuscular-mycorrhizal-network-visualization-anastomosis]]

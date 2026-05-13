@@ -13,23 +13,9 @@ updated: 2026-04-28
 sources:
   - Bon, M. (1990). "The Mushrooms and Toadstools of Britain and North-western Europe." Hodder & Stoughton.
   - Breitenbach, J. & Kränzlin, F. (1991). "Fungi of Switzerland, Vol. 3." Verlag Mykologia, Lucerne.
-  - Phillips, R. (2006). "Mushrooms: A [[allen-australian-psilocybe-species-comprehensive-guide]] to psilocybin-mushroom-identification-guide." Pan Macmillan.
-  - Consiglio, G. et al. (2004). "Clitocybe geotropa and allies: a morphological and molecular study." Mycological Research 108(9): 1012-1020.
-  - Kalac, P. (2009). "Chemical composition and nutritional value of European species of wild falconer-growing-mushrooms-in-sheds." Nutrition Reviews 67(12): 694-705.
-created: 2026-04-28
----
+  - Phillips, R. (2006). "Mushrooms: A [[bloomfield-asterophora-and-mycoparasites-of-fruiting-bodies]] that can reach 25 cm in cap diameter.
 
-# Clitocybe geotropa
-
-## Overview
-
-**Clitocybe geotropa** (Bull.) Quél. is a large agaric fungus in the family Tricholomataceae, commonly known as the **trooping funnel** or **monk's head**.
-
-It is one of the largest members of its genus, forming conspicuous [[bloomfield-asterophora-and-mycoparasites-of-fruiting-bodies]] that can reach 25 cm in cap diameter.
-
-The species is widely distributed across temperate Europe and is generally considered an [[bloomfield-boletus-satanus-edible-mushroom-hazards]] of good quality.
-
-Trooping funnels are named for their habit of growing in dense troops or [[bloomfield-fairy-rings-armillaria-giant-fungi]], often with dozens of individuals in a single cluster.
+The species is widely distributed across temperate Europe and is generally considered an [[bloomfield-fairy-rings-armillaria-giant-fungi]], often with dozens of individuals in a single cluster.
 
 ## Taxonomy and Morphology
 
@@ -69,22 +55,93 @@ The taste is mild and nutty, becoming slightly bitter in older specimens or thos
 
 Clitocybe geotropa is widely distributed across temperate and Mediterranean Europe, from Scandinavia to the Iberian Peninsula.
 
-It also occurs in parts of North Africa, western Asia, and has been reported from [[psilocybin-north-america-pacific-northwest]] under similar names.
-
-The species fruits from late summer to early winter, typically from August through November in central Europe.
-
-Trooping funnels grow in troops or fairy rings on the ground in mixed and coniferous forests, grassy clearings, and woodland edges.
-
-The fungus shows a preference for calcareous or neutral soils and is commonly associated with oak, beech, and pine.
-
-It is an ectomycorrhizal associate of forest trees, forming [[fungi-in-the-environment-symbiotic-relationships]] with root systems.
+It also occurs in parts of North Africa, western Asia, and has been reported from [[fungi-in-the-environment-symbiotic-relationships]] with root systems.
 
 ## Nutritional and Chemical Profile
 
-The trooping funnel is a nutritious [[edible-mushroom-families-boleti-russula-lactarius-clavaria-puffballs-palmer]] with a favorable macronutrient composition.
+The trooping funnel is a nutritious [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]] have been isolated, including lectins with immunomodulatory properties.
 
-Fresh fruiting bodies are approximately 90% water, with the remaining dry matter containing 20–25% protein.
+## Overview
 
-The species contains significant amounts of potassium, phosphorus, and various B vitamins including thiamine and riboflavin.
+Clitocybe Geotropa represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
 
-Several [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]] have been isolated, including lectins with immunomodulatory properties.
+## Key Characteristics
+
+Several defining characteristics distinguish clitocybe geotropa
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving clitocybe extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Clitocybe Geotropa finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for clitocybe geotropa. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+clitocybe geotropa and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Clitocybe Geotropa has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of clitocybe geotropa into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[clitocybe-dealbata]]
+- [[clitocybe-gibba]]
+- [[clitocybe-nebularis]]
+- [[clitocybe-nuda]]
+- [[clitocybe-odora]]

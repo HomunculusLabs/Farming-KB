@@ -71,7 +71,7 @@ phospholipid membranes, it contributes to cell wall integrity and
 membrane fluidity.
 
 In secondary metabolism, phosphate levels can influence the production
-of [[cordyceps-cancer-bioactive-compounds]]. Many fungi show altered [[fungal-elicitors-enhanced-secondary-metabolite-production]]
+of [[fungal-elicitors-enhanced-secondary-metabolite-production]]
 profiles under phosphate-limiting conditions. The 5 g/L
 supplementation level in Gartz's study likely ensured phosphate was
 non-limiting, allowing the researchers to isolate brassinosteroid
@@ -107,32 +107,14 @@ limit this developmental process.
 
 Gartz's substrate design demonstrates several principles applicable to
 fungal cultivation more broadly. First, consistent supplementation of
-essential minerals like phosphate across [[darwin-five-seedling-phototropism-experimental-conditions]] is
-necessary for controlled comparisons. Second, the choice between
-simple (malt agar) and complex (dung/grain) substrates allows
-separation of direct compound effects from substrate-mediated effects.
-
-The 5 g/L KH2PO4 level represents a moderate to high supplementation
-rate. In practical mushroom cultivation, phosphate is often supplied
-indirectly through grain substrates and composted materials. Direct
-supplementation is more common in defined laboratory media where
-precise nutrient control is desired.
-
-## Cross-Kingdom Relevance
-
-The study's finding that brassinosteroids affect fungal growth, when
-the substrates contained KH2PO4, raises questions about phosphate-
-brassinosteroid interactions across kingdoms. In plant science,
-phosphate starvation responses and brassinosteroid [[plant-signaling-pathways]]
+essential minerals like phosphate across [[plant-signaling-pathways]]
 are known to interact. Whether similar cross-talk exists in fungal
 systems remains an open question that Gartz's substrate design could
 help address in future research.
 
 ## See Also
 
-- [[gartz-kh2po4-phosphate-substrate-design-psilocybe-cubensis-cultivation]]
 - [[kh2po4-phosphate-supplementation-brassinosteroid-synergy-psilocybe-cubensis]]
-- [[brassinosteroid-psilocybe-cubensis-growth-promotion-gartz-1990]]
 - [[brassinosteroid-substrate-comparison-agar-vs-dung-grain-psilocybe-cubensis]]
 
 ## References

@@ -6,8 +6,7 @@ type: concept
 
 # Mushroom Farm Record Keeping and Profitability
 
-Step 20 of the [[mushroom-cultivation-training-program-design]] emphasizes the critical importance of
-[[goose-keeping-detailed]] financial records throughout the farming process. Without accurate
+Step 20 of the [[goose-keeping-detailed]] financial records throughout the farming process. Without accurate
 record keeping, a farmer cannot know whether the operation is truly profitable or
 where improvements can be made.
 
@@ -21,76 +20,7 @@ There are three primary reasons to maintain thorough records:
 
 2. **Identify where to reduce expenses without reducing quality** — Records reveal
    which inputs are the most costly and whether cheaper alternatives exist that
-   would not compromise [[brassinosteroid-mushroom-yield-dry-mass]] or quality.
-
-3. **Determine when to expand using accumulated profits** — Accurate financial
-   records show when the farm has generated enough surplus to safely invest in
-   expansion, such as increasing batch size or building additional mushroom houses.
-
-## Expense Categories to Track
-
-Every cost associated with production should be recorded and attributed on a
-per-bag basis. The major expense categories include:
-
-- **Raw materials** — Sawdust, rice bran, gypsum, lime, magnesium sulfate (MgSO₄),
-  plastic bags, plastic necks, cotton plugs, and rubber bands.
-- **Spawn cost** — Whether purchased or produced on-site.
-- **Fuel for pasteurization** — Wood, corn cobs, or other fuel sources.
-- **Alcohol for sterilization** — Used to clean surfaces and tools during
-  inoculation.
-- **Labor costs** — Time spent on bag making, pasteurization, inoculation,
-  transport, and incubation monitoring.
-- **Mushroom house cost** — Amortized over time. A 2,000 Baht house over 2 years
-  at 3 batches/year costs approximately 0.25 Baht per bag.
-- **Pasteurization equipment** — Oil drums, tools, and related equipment (~0.03
-  Baht/bag at full production).
-- **Water and electricity** — Often free or negligible in remote rural areas.
-- **Contamination losses** — Budget approximately 5% of production.
-- **Unforeseen costs** — A small buffer for unexpected expenses.
-
-## Cost Breakdown per Bag
-
-The following breakdown comes from Annex 4, based on Mr. Satit's February 2000
-calculations:
-
-### Materials
-
-| Item | Cost (Baht) |
-|------|-------------|
-| Sawdust | 0.76 |
-| PP Bags | 0.24 |
-| Rice bran | 0.23 |
-| Gypsum | 0.06 |
-| Limestone | 0.03 |
-| Magnesium sulfate | 0.02 |
-| Spawn | 0.16 |
-| Plastic neck | 0.14 |
-| Fuel | 0.26 |
-| Cotton | 0.01 |
-| Rubber band | 0.02 |
-| Alcohol | 0.04 |
-| **Materials total** | **1.97** |
-
-### Labor and Overhead
-
-| Item | Cost (Baht) |
-|------|-------------|
-| Bag-making labor | 0.30 |
-| Other labor (pasteurization, inoculation, transport, incubation) | 0.25 |
-| Contamination 5% | 0.13 |
-| Unforeseen | 0.23 |
-| Overhead 20% | 0.58 |
-| **Total cost per bag** | **3.46** |
-
-### Pricing
-
-| Item | Amount |
-|------|--------|
-| **Sales price (20% OH + 17% profit)** | **3.95 Baht** |
-
-## Expected Income
-
-Income projections are based on data from trainees in [[ubon-ratchathani]] between
+   would not compromise [[ubon-ratchathani]] between
 February and October 2000:
 
 - **Average yield:** 250g per bag over a 3-month fruiting period
@@ -134,3 +64,87 @@ The following calculations support the per-bag material costs:
 - **Spawn:** 5 Baht/bottle. Each bottle inoculates ~30 bags = 0.16 Baht/bag.
 - **Fuel:** Corn cob 900 Baht/ton + wood 2,000 Baht/ton. Across 11,216 total bags
   = 0.259 Baht/bag.
+
+## Overview
+
+Mushroom Farm Record Keeping Profitability represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish mushroom farm record keeping profitability
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving mushroom extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Mushroom Farm Record Keeping Profitability finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for mushroom farm record keeping profitability. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+mushroom farm record keeping profitability and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Mushroom Farm Record Keeping Profitability has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of mushroom farm record keeping profitability into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[classic-mushroom-recipes-traditional-preparations]]
+- [[emcdda-european-mushroom-varieties-and-market-products]]
+- [[emcdda-hallucinogenic-mushroom-wild-foraging-and-hunting]]
+- [[mushroom-hormones-gill-directed-tropism-basidiomycete-development]]

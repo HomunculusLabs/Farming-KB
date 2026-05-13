@@ -7,7 +7,7 @@ created: 2026-05-11
 
 # Double-Layer Protection and Temperature Performance
 
-The core innovation of Eliot Coleman's winter-harvest system is the use of two layers of protection — an outer greenhouse structure and an inner lightweight row-cover fabric suspended over the crops — to create a dramatically warmer growing environment without any supplemental heat.
+The core innovation of [[eliot-coleman]]'s winter-harvest system is the use of two layers of protection — an outer greenhouse structure and an inner lightweight row-cover fabric suspended over the crops — to create a dramatically warmer growing environment without any supplemental heat.
 This passive thermal protection system is what makes cold-house winter production possible in Zone 5 Maine,
 where outdoor temperatures regularly drop to -10°F (-23°C) or lower.
 Understanding the temperature performance of each layer,
@@ -132,9 +132,6 @@ but economics were marginal.
 
 ## See Also
 
-- [[coleman-mobile-greenhouse-crop-rotation-design]]
 - [[coleman-cool-house-vs-cold-house-economics-winter-production]]
-- [[coleman-winter-harvest-greenhouse-temperature-management]]
 - [[coleman-persephone-months-winter-day-length]]
-- [[coleman-row-cover-fabric-management]]
 - [[coleman-overwintered-spinach-cold-house-production]]

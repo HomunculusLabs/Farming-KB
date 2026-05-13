@@ -1,5 +1,5 @@
 ---
-title: Soil Structure Classification and Composition
+title: [[soil-structure-classification]] and Composition
 source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
@@ -8,7 +8,7 @@ type: concept
 
 ## Overview
 
-Understanding soil structure is fundamental to [[permaculture-design]]. Soil is a complex, living material whose physical properties — particle size, [[crumb-structure]], pore space, and organic content — determine its suitability for agriculture, dam construction, and building. Mollison bridges traditional knowledge systems with modern scientific classification.
+Understanding soil structure is fundamental to [[crumb-structure]], pore space, and organic content — determine its suitability for agriculture, [[dam-construction]], and building. Mollison bridges traditional knowledge systems with modern scientific classification.
 
 ## Tribal and Traditional Soil Classifications
 
@@ -16,63 +16,16 @@ Long before modern soil science, agricultural societies developed sophisticated 
 
 ### Classification Criteria
 
-- **Colour** — indicates humus content and mineral composition
+- **Colour** — indicates [[humus]] content and mineral composition
 - **Taste** — agrees with pH measures
-- **Moisture capacity and water retention** — critical for crop selection
-- **Sand content** — affects drainage and [[query-what-are-ec-and-tds-and-how-do-i-use-them-for-cannabis-nutrient-management|nutrient]] holding
-- **General texture** — the feel and behavior of soil when worked
-- **Firmness** — resistance to penetration and compaction
-- **Structure (dry soils)** — how soil holds together when dry
-- **Wet-season structure** — how soil behaves when saturated
-- **Vegetative indicators** — health of specific crops as soil quality markers
-- **Drainage** — rate of water movement through soil
-- **Slope** — affects erosion risk and water management
-- **Elevation** — influences temperature, wind exposure, and frost risk
-- **Animal indicators** — termite mound shape and size as soil quality indicators
-- **Plant indicators** — specific plants indicating acidity, drainage, and fertility
-- **Catena** — soil types based on slope position and relationships
-- **"Hot" and "cold" soils** — relative fertility (not temperature), also indicating water retention
-- **Usage** — suitability for pigments, pottery, salt extraction from reeds
-- **Work needed for crop** — an energy-input classification
-- **Suitability for specific crops** — soils ranked for up to twelve crop types (e.g., yam soil, taro soil)
-- **Organic content** — assessed apart from colour
-
-These traditional classifications represent sophisticated assessments of soil quality that integrate multiple observable characteristics into practical decision-making frameworks.
-
-### Modern Classification vs. Traditional
-
-Modern classifications are more complex in nomenclature and physical categories, using:
-
-- **Standard colour charts** (Munsell and others)
-- **Standard comparisons** for texture and structure
-- **Standard sieves** for particle size analysis
-- **Laboratory chemical analysis** for nutrient content and pH
-
-## The Structure of Soils
-
-### Compacted vs. Uncompacted Soil
-
-Soil with sufficient plasticity (usually clay content), glue, or fibre from organic sources can be pressed or compacted into:
-
-- **Mudbricks** — sun-dried earth construction
-- **Hard pisé** — rammed earth construction
-- **Clay or stoneware** — fired ceramic materials
-
-In any of these compacted forms, soil is of little use to plants.
-
-Uncompacted soils are open, crumbly, or soft unless concreted by chemical solutes or compacted by ploughs, hooves, or traffic.
-
-### Soil Crumb Structure
-
-Crumbly soils have a definite structure — soil particles aggregate into **nodules or clumps** held together by:
-
-- **[[nutrient-movement-through-soil-to-plant-roots|Roots]]** — plant root networks bind soil particles
+- **Moisture capacity and water retention** — critical for [[coleman-crop-selection]]
+- **Sand content** — affects drainage and [[nutrient-movement-through-soil-to-plant-roots|Roots]]** — plant root networks bind soil particles
 - **Clay minerals** — electrochemical bonds between clay platelets
 - **Chemical bonds** — organic and mineral cements
 
 This fragile structure can be destroyed by ploughing or harrowing, which may powder the aggregates "as they do in a potter's ballmill." The Australian outback term "bulldust" (or "snuff" in soil science terminology) describes the powdery result of destroyed crumb structure.
 
-Dryland soils with high salt content are particularly susceptible to loss of crumb structure, only partly relieved by gypsum application.
+[[dryland-soils-and-mineral-nutrition]] with high salt content are particularly susceptible to loss of crumb structure, only partly relieved by [[gypsum]] application.
 
 ### The Thin Soil Mantle
 
@@ -120,15 +73,7 @@ A practical field method to estimate the proportion of clay, silt, sand, and coa
 | Silt | 0.02–0.05 mm |
 | Clay | < 0.002 mm |
 
-The surface area difference is dramatic: **1 gram of clay has a surface area up to 1,000 times that of 1 gram of sand**. This enormous surface area gives clay its distinctive properties — plasticity, [[cation-exchange-capacity]], and water retention.
-
-## Pore Space and Soil Crumb Structure
-
-Soil crumb structure, aided by lime (calcium), helps bond fractions together and creates **20–60% pore space**. The organic materials and gels hold the structure open in rain, allowing plant nutrients to become soluble for absorption by roots.
-
-## Soil Types and Catena
-
-Soil types change predictably across slopes in [[query-what-are-root-exudates-and-how-do-they-shape-soil-life|what]] is called a **catena** — a sequence of related soils:
+The surface area difference is dramatic: **1 gram of clay has a surface area up to 1,000 times that of 1 gram of sand**. This enormous surface area gives clay its distinctive properties — plasticity, [[query-what-are-root-exudates-and-how-do-they-shape-soil-life|what]] is called a **catena** — a sequence of related soils:
 
 - **Ridge tops** — shallow, well-drained, often acidic, skeletal soils
 - **Mid-slopes** — moderate depth, subject to erosion and leaching

@@ -23,7 +23,6 @@ achieving productive growing conditions.
 
 ## No-Till
 
-[[lowenfels-earthworms-soil-food-web]] is a fully self-sustaining system when left undisturbed.
 [[arbuscular-mycorrhizal-fungal-diversity-patterns-distribution]] networks, which can extend root surface area by
 700-1000x, take months or years to establish and are destroyed
 instantly by any mechanical disturbance. No-till preserves these
@@ -32,47 +31,14 @@ increasingly resilient plant-microbe partnerships.
 
 Earthworm populations are a critical component of no-till systems.
 An acre of good garden soil relies on 2-3 million worms to move 18
-tons of soil annually. [[fukuoka-why-tillage-destroys-soil]] worm burrows and cuts worms
-into pieces that do not regenerate whole organisms. No-till protects
-this essential soil-building workforce, allowing their populations
-to multiply and their burrow networks to create natural drainage and
-aeration channels throughout the soil profile.
-
-No-till systems also preserve soil aggregates — the crumb-like
-structures created by bacterial slime, [[chop-and-drop-mulching]] to add [[hamilton-composting-and-organic-matter-management]] without
-incorporation. [[fukuoka-weed-management-and-green-manure]] shifts from cultivation to mulch
+tons of soil annually. [[chop-and-drop-mulching]] to add [[fukuoka-weed-management-and-green-manure]] shifts from cultivation to mulch
 suppression, cover crop competition, and careful crop planning.
 
 ## Reduced Tillage
 
-[[perennial-vegetables]] where preserving long-term
 [[dighton-mycorrhizal-networks-carbon-transfer]] is critical. It excels in large-scale grain
-production following the [[green-manure-cover-crops]] can be
-surface-terminated (no-till) in established beds or lightly
-incorporated with a broadfork (reduced tillage) when faster
-decomposition is needed. Some growers use broadforking only on
-compacted areas while leaving well-structured sections completely
-## See Also
-
-- [[living-soil-cannabis]]
-- [[coleman-bed-preparation-and-minimal-tillage]]
-## Practical Considerations
-
-When working with No-Till vs Reduced Tillage, several practical factors should be
-carefully considered to achieve optimal results. These include
-the specific conditions of the implementation context, available
-resources, timing requirements, and the interactions between this
-topic and other elements of the broader system. A holistic view
-that considers these interconnections produces better outcomes.
-
-Environmental conditions such as temperature, moisture, and
-seasonal patterns significantly influence results. Monitoring these
-variables and adapting practices accordingly is essential for success.
-The most effective practitioners develop keen observation skills and
-respond flexibly to changing conditions rather than following rigid
-protocols regardless of circumstances or local variation.
-
-[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
+production following the [[living-soil-cannabis]]
+- [[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.

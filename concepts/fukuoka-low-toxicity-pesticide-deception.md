@@ -10,27 +10,9 @@ type: concept
 
 # Fukuoka on the Low Toxicity Pesticide Deception
 
-[[masanobu-fukuoka]] issued a blunt warning about the deceptive language
-surrounding modern pesticides. He argued that there is no such thing as
-a non-polluting pesticide, and that the term "low toxicity" is a dangerous
-misrepresentation that encourages complacency about chemical contamination
-of food and the environment.
-
-## The Core Assertion
-
-Fukuoka stated plainly: There is no such thing as a non-polluting
-pesticide. This simple declaration cuts through decades of chemical
-industry marketing and government reassurances about [[cervantes-contaminant-pesticide-safety]].
+[[cervantes-contaminant-pesticide-safety]].
 For Fukuoka, the very concept of a safe pesticide was an oxymoron,
-because any substance designed to kill [[savory-living-organisms-as-tools]] inevitably
-disrupts the broader web of life.
-
-## What "Low Toxicity" Really Means
-
-Farmers today are spraying so-called low-toxicity agents. "Low toxicity"
-does not mean only slightly toxic. What it really means is toxicity that
-is not immediately apparent to the human eye, toxicity that is difficult
-to discern through [[challenges-neurotropic-fungi-chemical-analysis-taxonomic-identification]], even when examined at the microbial
+because any substance designed to kill [[challenges-neurotropic-fungi-chemical-analysis-taxonomic-identification]], even when examined at the microbial
 level.
 
 The low toxicity of these pesticides provides a degree of latitude in
@@ -65,12 +47,7 @@ Fukuoka believed that humanity had entered an age of confrontation
 between science, philosophy, and religion. The pesticide question
 exemplifies this confrontation: science creates the poisons and then
 claims to study their effects, philosophy struggles to reconcile the
-results with [[permaculture-ethical-principles-holmgren]], and religion offers no guidance on
-the proper relationship between humanity and the natural world.
-
-## Natural Farming as the Alternative
-
-[[natural-farming]] eliminates the need for pesticides entirely by working
+results with [[natural-farming]] eliminates the need for pesticides entirely by working
 with nature rather than against it. In Fukuoka's method, rice, barley,
 and clover work the soil biologically. The straw and clover do more for
 the fertility of the soil than large tractors. This is a biological
@@ -84,8 +61,7 @@ beyond science.
 
 ## Organic Farming versus Natural Farming
 
-Fukuoka drew an important distinction between [[eliot-coleman]]
-natural farming. On the surface, organic farming [[fukuoka-textdoc-three-stages-of-human-collapse-and-natural-farming-future]]
+Fukuoka drew an important distinction between [[fukuoka-textdoc-three-stages-of-human-collapse-and-natural-farming-future]]
 appear similar, but consider this carefully before you decide one way
 or another. It took Fukuoka twenty to thirty years to be able to say,
 
@@ -118,8 +94,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[doc]]
 - [[permaculture]]
-- [[natural-farming]]
 - [[fukuoka-textdoc-pesticide-spider-firefly-destruction]]
 - [[ultra-low-water-softening-for-pesticide-efficacy]]

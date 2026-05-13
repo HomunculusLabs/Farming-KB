@@ -12,21 +12,9 @@ type: query
 
 ## Short Answer
 
-Black [[black-soldier-fly-composting]] larvae (Hermetia illucens) are an efficient way to convert food waste and [[hamilton-composting-and-organic-matter-management]] into nutrient-dense animal feed and compost.
+Black [[hamilton-composting-and-organic-matter-management]] into nutrient-dense animal feed and compost.
 The larvae consume large quantities of organic waste, reduce volume dramatically, and turn discarded food into protein- and fat-rich biomass.
-A [[black-soldier-fly-larvae-as-feed]] resource details the nutritional profile of harvested larvae and feeding guidelines for livestock.
-For a small homestead, the simplest system is a warm, drained bin with ramps that allow mature prepupae to self-harvest into a bucket.
-For a larger farm, black soldier fly production can become a managed feed and waste-processing enterprise.
-
-## Basic System Design
-
-Setting up a black soldier fly composting system begins with constructing or purchasing a suitable bin for your scale of operation.
-Commercial units are available, but many homesteaders build their own using plastic containers, PVC pipes, and collection ramps.
-The basic design includes a composting chamber where food waste is added, drainage for excess liquid, and a ramp that allows mature larvae to crawl upward and drop into a harvest container.
-The ramp is important because black soldier fly prepupae naturally leave the feeding mass to find a dry place to pupate.
-A well-designed bin turns that instinct into an automatic harvest mechanism.
-The larvae need warmth, ideally between 77 and 95 degrees Fahrenheit, to grow rapidly and process waste efficiently.
-Various [[composting-methods-comparison]] resource shows how black soldier fly composting compares to other methods in terms of speed, volume capacity, and nutrient retention.
+A [[composting-methods-comparison]] resource shows how black soldier fly composting compares to other methods in terms of speed, volume capacity, and nutrient retention.
 
 ## What to Feed Them
 
@@ -35,14 +23,7 @@ They handle materials that ordinary worm bins often cannot process quickly, incl
 Avoid large amounts of salt, oils, harsh chemicals, and anything contaminated with pesticides or cleaning products.
 Meat and dairy can be processed by strong colonies, but they may attract pests or create odor if the bin is undersized.
 For beginners, fruit and vegetable scraps, grain residues, coffee grounds, and garden culls are safer starting feeds.
-Some practitioners supplement the larvae diet with spent grain from brewing or [[oyster-mushroom-coffee-grounds-cultivation]], both of which are readily available in many communities.
-The nutritional quality of harvested larvae depends on the quality of the waste they are fed throughout their development cycle.
-
-## Moisture, Drainage, and Odor
-
-A black soldier fly bin should be moist but not flooded.
-The feed mass needs enough water for larvae to move and feed, but excess liquid should drain away.
-The liquid runoff from a black soldier fly bin, sometimes called soldier fly tea, is a potent [[jadam-liquid-fertilizer-nutritional-perspective]] for garden use.
+Some practitioners supplement the larvae diet with spent grain from brewing or [[jadam-liquid-fertilizer-nutritional-perspective]] for garden use.
 This liquid can be diluted and applied cautiously as a nitrogen-rich foliar feed or soil drench.
 The residual material left after the larvae have finished processing, sometimes called frass, is a dark, relatively low-odor compost that makes a useful soil amendment.
 Together, the larvae, liquid, and frass represent three valuable outputs from what would otherwise be waste material.

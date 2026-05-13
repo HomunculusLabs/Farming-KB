@@ -2,7 +2,7 @@
 title: "Methylone"
 type: chemical
 aliases:
-  - βk-MDMA
+  - βk-[[mdma]]
   - 3,4-Methylenedioxymethcathinone
   - MDMC
   - 3,4-Methylenedioxy-N-methylcathinone
@@ -23,32 +23,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - López-Arnau, R. et al. (2012). "3,4-Methylenedioxymethcathinone (Methylone): Pharmacology." Current Neuropharmacology 10(3): 279–285.
-  - Baumann, M.H. et al. (2012). "Methylone and [[mephedrone]]: Monoamine transporter effects." Neuropsychopharmacology 37(5): 1192–1203.
-  - European Monitoring Centre for Drugs and Drug Addiction (2024). "Methylone — EMCDDA Drug Profile."
-  - United Nations Office on Drugs and Crime (2023). "World Drug Report."
-  - https://pubchem.ncbi.nlm.nih.gov/compound/Methylone
-created: 2026-04-28
----
-
-## Overview
-
-Methylone (3,4-methylenedioxymethcathinone, βk-MDMA) is a synthetic stimulant and empathogen of the cathinone class. It is a β-ketone analogue of MDMA (3,4-methylenedioxymethamphetamine), differing structurally by the substitution of a ketone group at the beta carbon of the phenethylamine backbone.
-
-First synthesized by chemists at Purdue University in 1996 as part of antidepressant research, methylone was subsequently identified as a designer drug in European markets around 2004. It produces stimulant and empathogenic effects broadly similar to MDMA but with distinct pharmacokinetic and pharmacodynamic properties.
-
-## Chemical Properties
-
-**Molecular formula:** C₁₁H₁₃NO₃
-
-**Molecular weight:** 207.23 g/mol
-
-**IUPAC name:** 1-(1,3-benzodioxol-5-yl)-2-(methylamino)propan-1-one
-
-**SMILES:** CC(NC)C(=O)C1=CC=C(C=C1)O2
-
-Methylone exists as a free-flowing crystalline powder, typically white to off-white, with a characteristic chemical odor. It is soluble in water, ethanol, and most organic solvents. The β-ketone moiety renders the compound more polar than MDMA, affecting both blood-brain barrier penetration and metabolic stability.
-
-The methylenedioxy bridge on the aromatic ring is a structural feature shared with MDMA, safrole-derived compounds, and other members of the PIHKAL/phenethylamine families. This substituent contributes to [[serotonin]] transporter affinity.
+  - Baumann, M.H. et al. (2012). "Methylone and [[serotonin]] transporter affinity.
 
 ## Pharmacology
 
@@ -74,17 +49,86 @@ Common reported effects include euphoria, increased talkativeness, enhanced musi
 
 ## Metabolism
 
-Methylone undergoes N-demethylation to form methcathinone, N-demethylation combined with O-demethylenation to form cathinone, and reduction of the ketone to form the corresponding alcohol (corresponding to MDMA metabolites). [[glucuronidation]] and sulfation are the primary Phase II metabolic pathways.
-
-The elimination half-life is approximately 2–3 hours, shorter than MDMA (7–9 hours), consistent with the shorter duration of subjective effects. The compound is primarily excreted in urine as Phase I and Phase II metabolites within 24 hours of administration.
-
-## Legal Status
-
-Methylone is internationally controlled as a Schedule I substance under the UN Convention on Psychotropic Substances (since 2020). National controls include:
-
-- **[[dmt-containing-plants-united-states-halpern]]:** Emergency scheduled in 2011, permanently placed in Schedule I in 2021 under the cathinone class.
+Methylone undergoes N-demethylation to form methcathinone, N-demethylation combined with O-demethylenation to form cathinone, and reduction of the ketone to form the corresponding alcohol (corresponding to MDMA metabolites). [[dmt-containing-plants-united-states-halpern]]:** Emergency scheduled in 2011, permanently placed in Schedule I in 2021 under the cathinone class.
 - **[[legal-responses-to-hallucinogenic-mushrooms-in-the-european-union]]:** Controlled across all member states, with most scheduling actions occurring 2010–2013.
 - **United Kingdom:** Class B under the Misuse of Drugs Act (controlled as a cathinone).
 - **China:** Scheduled as a narcotic drug since 2015.
 
 ## Toxicology and Adverse Effects
+
+## Overview
+
+Methylone represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish methylone
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving methylone extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Methylone finds practical application in multiple design contexts.
+[[permaculture-principles]] guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for methylone. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+methylone and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Methylone has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of methylone into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.

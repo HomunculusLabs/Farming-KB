@@ -26,14 +26,7 @@ significant agents of material degradation.
 | Rubber | Ground waste tire rubber detoxification |
 ## Notable Examples of Fungal Polymer Degradation
 ### Polyethylene Degradation
-- [[penicillium-simplicissimum]] YK degrades polyethylene
-- Mucor rouxii and Aspergillus flavus enzymes change mechanical
-  properties of disposable polyethylene bags
-- White-rot fungi are efficient in polyethylene degradation
-- Aspergillus flavus degraded chitosan-graft polymethyl
-  methacrylate film by 45% in 25 days
-### Polyamide Degradation
-[[phanerochaete-chrysosporium]] attached to polyamide-6 fibers and
+- [[phanerochaete-chrysosporium]] attached to polyamide-6 fibers and
 reduced 50% of the polymer's molar mass after 3 months.
 ### Rubber Detoxification
 Of 15 species of white- and brown-rot fungi, Resinicium bicolor
@@ -46,31 +39,8 @@ prior to devulcanization.
 - Black fungi such as Phoma and Alternaria cause physical, chemical,
   and aesthetic damage to marble surfaces
 ### PVC Degradation
-[[aureobasidium-pullulans]] colonizes plasticized polyvinyl chloride
-within 25-40 weeks, growing on intact PVC as sole carbon source,
-secreting extracellular esterase enzymes.
-## Fungal Characteristics Enabling Biodegradation
-Several properties make fungi exceptionally capable degraders:
-ubiquity across virtually all habitats, extremotolerance of pH,
-temperature, and toxic conditions, totipotency allowing regeneration
-from spores or hyphal fragments, filamentous growth enabling
-efficient colonization of solid substrates, enzymatic versatility
-including cellulases, ligninases, peroxidases, and laccases,
-extraordinary longevity, and mycelial networks covering hectares.
-## Ecosystem Engineering Role
-Fungi are ecosystem engineers, regulating nutrient and energy flow
-through mycelial networks that may cover vast areas. Despite their
-enormous environmental impact, fungal contributions are often
-neglected by engineers, scientists, and the public.
-## Distinction: Biodegradation vs. Biodeterioration
-- Biodegradation: Intentional or beneficial breakdown of materials,
-  as in bioremediation or waste conversion
-- Biodeterioration: Unwanted or damaging breakdown of materials in
-  service, including cultural heritage and manufactured goods
-## Mechanisms of Enzymatic Polymer Degradation
-Fungal [[singh-fungal-degradation-of-synthetic-dyes-and-textile-waste]] polymers relies on both enzymatic
-and non-enzymatic mechanisms. Extracellular [[ligninolytic-enzymes]]
-including lignin peroxidase, [[fungal-manganese-peroxidase-remediation]], and laccase from
+[[singh-fungal-degradation-of-synthetic-dyes-and-textile-waste]] polymers relies on both enzymatic
+and non-enzymatic mechanisms. Extracellular [[fungal-manganese-peroxidase-remediation]], and laccase from
 white-rot fungi oxidize aromatic and phenolic compounds including
 components of synthetic polymers. Non-enzymatic degradation involves
 extracellular Fenton chemistry, where fungal-generated hydrogen
@@ -118,8 +88,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[doc]]
 - [[laccase]]
-- [[det]]
 - [[aspergillus-flavus]]
 - [[spore]]

@@ -28,11 +28,7 @@ sources:
 # Cortinarius rubellus
 
 **Cortinarius rubellus**, the deadly webcap or fools' webcap, is a basidiomycete
-fungus in the family Cortinariaceae. It is one of the most [[palmer-poisonous-mushrooms-deadly-species]] in
-Europe, containing the nephrotoxic compound orellanine, which causes irreversible
-kidney failure. The species is responsible for numerous fatal poisonings, many of
-which involve foragers who mistook it for edible *Cortinarius* or *Tricholoma*
-species. It is the primary cause of lethal [[european-mushroom-poisoning-history]] in Scandinavia
+fungus in the family Cortinariaceae. It is one of the most [[european-mushroom-poisoning-history]] in Scandinavia
 and Central Europe.
 
 ## Taxonomy
@@ -45,15 +41,7 @@ names refer to distinct species, with *C. rubellus* being the more widespread an
 commonly encountered. The species epithet *rubellus* means "reddish" in Latin,
 referring to the cap coloration. The genus *Cortinarius* is the largest agaric
 genus with over 2,000 species worldwide, many of which are difficult to identify
-without [[fungal-microscopic-examination-mounting-media-techniques]].
-
-## Description
-
-- **Cap:** 3–8 cm, conical to convex becoming broadly bell-shaped; surface smooth,
-  silky when dry, hygrophanous. Color varies from bright red-orange to brick red
-  to reddish-brown, often with a paler margin. Viscid when moist.
-- **Gills:** Adnate to slightly emarginate (notched), moderately crowded; young
-  gills covered by a whitish [[partial-veil-tropism-protection-before-spore-release]] (cortina) that leaves a fibrous ring zone
+without [[partial-veil-tropism-protection-before-spore-release]] (cortina) that leaves a fibrous ring zone
   on the stem. Color pale rust to cinnamon.
 - **Stem:** 5–12 cm × 0.5–1.5 cm, cylindrical, slightly bulbous at base; pale
   yellowish above the ring zone, colored red-orange below with fine fibrils.
@@ -68,12 +56,10 @@ without [[fungal-microscopic-examination-mounting-media-techniques]].
 
 ## Distribution and Habitat
 
-Ectomycorrhizal primarily with conifers, especially Scots pine (*[[pinus-sylvestris]]*)
-and Norway spruce (*[[picea-abies]]*), on acidic soils. Found in coniferous and mixed
+Ectomycorrhizal primarily with conifers, especially Scots pine (*[[picea-abies]]*), on acidic soils. Found in coniferous and mixed
 forests, pine plantations, and mossy forest floors across Northern and Central
 Europe, Scandinavia, the British Isles, and extending into parts of Asia. Also
-reported from western [[psilocybin-north-america-pacific-northwest]] (as *C. rubellus* or closely related taxa).
-Fruits August–November in [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]]. Often grows among moss (*Sphagnum*,
+reported from western [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]]. Often grows among moss (*Sphagnum*,
 *Pleurozium*) in damp conifer woods.
 
 ## Toxicity: Orellanine Poisoning
@@ -83,8 +69,82 @@ The deadly nature of *C. rubellus* results from the bicyclic dipeptide orellanin
 
 **Mechanism:** Orellanine is absorbed through the gastrointestinal tract and
 concentrated in the renal proximal tubule epithelial cells, where it generates
-[[reactive-oxygen-species-and-oxidative-stress]] causing lipid peroxidation and mitochondrial damage.
-The result is acute tubular necrosis.
-
-**[[bloomfield-destroying-angel-amanita-virosa-amatoxin-poisoning-clinical-course]]** follows a characteristically deceptive timeline:
+[[bloomfield-destroying-angel-amanita-virosa-amatoxin-poisoning-clinical-course]]** follows a characteristically deceptive timeline:
 - **Phase 1 (6–24 hours):** Nausea, vomiting, abdominal pain, headache,
+
+## Overview
+
+Cortinarius Rubellus represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish cortinarius rubellus
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving cortinarius extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Cortinarius Rubellus finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for cortinarius rubellus. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+cortinarius rubellus and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Cortinarius Rubellus has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of cortinarius rubellus into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.

@@ -1,6 +1,6 @@
 ---
 title: "Pharmaceutical and Synthetic Cannabinoids — Approved Medicines and Research Compounds"
-source: "The [[blesching-cannabis-health-index-autoimmune-conditions]] (Uwe Blesching)"
+source: "The blesching-cannabis-health-index-autoimmune-conditions (Uwe Blesching)"
 topics: [cannabinoids, pharmaceuticals, dronabinol, nabilone, sativex, rimonabant, CB1, CB2, research-chemicals]
 ---
 
@@ -8,52 +8,12 @@ topics: [cannabinoids, pharmaceuticals, dronabinol, nabilone, sativex, rimonaban
 
 ## Overview
 
-cannabis pharmaceutical cannabinoids synthetic research are purified or synthetic cannabinoid preparations approved for medical use. They offer precise dosing, standardized potency, and legal prescription access — but may lack the [[cannabis-terpene-entourage-effect-profiles]] of whole-plant cannabis. Research cannabinoids are synthetic compounds used primarily in laboratory settings to study the endocannabinoid system, probe receptor pharmacology, and develop new therapeutic agents.
-
-## Approved Pharmaceutical Cannabinoids
-
-### Dronabinol (Marinol)
-- **Type**: Synthetic THC (delta-9-tetrahydrocannabinol)
-- **Form**: Oral gelatin capsules
-- **Approved indications**: Anti-nausea (chemotherapy-induced), appetite stimulation (HIV/AIDS wasting syndrome)
-- **Advantages**: Precise dosing, legal prescription, consistent potency
-- **Limitations**: Slow onset (30–60 minutes), long duration, lacks CBD and other cannabinoids found in whole-plant preparations, can produce psychoactive effects at therapeutic doses
-- **Bioavailability**: Oral bioavailability is only 10–20% due to first-pass metabolism in the liver, requiring higher doses than inhaled THC
-
-### Nabilone (Cesamet)
-- **Type**: Synthetic cannabinoid (structurally distinct from THC but with similar pharmacological profile)
-- **Form**: Oral capsules
-- **Approved indications**: Anti-nausea (chemotherapy-induced, particularly for patients who have not responded to conventional anti-emetics)
-- **Advantages**: More potent than dronabinol per milligram, effective where other anti-emetics fail
-- **Limitations**: Significant psychoactive effects, long half-life may lead to accumulation
-
-### Sativex (Nabiximols)
-- **Type**: Whole-plant cannabis extract (not synthetic)
-- **Form**: Oromucosal spray (absorbed through the lining of the mouth)
-- **Composition**: Approximately 1:1 ratio of THC:CBD, plus other cannabinoids and terpenes from the whole plant
-- **Approved indications**: Spasticity in multiple sclerosis (approved in many countries), neuropathic pain in multiple sclerosis, cancer pain (in some jurisdictions)
-- **Advantages**: Provides the entourage effect of whole-plant cannabis, rapid onset through buccal absorption, patient-controlled titration with each spray
-- **Limitations**: Not approved in the [[dmt-containing-plants-united-states-halpern]] as of publication, variable absorption depending on application technique
+cannabis pharmaceutical cannabinoids synthetic research are purified or synthetic cannabinoid preparations approved for medical use. They offer precise dosing, standardized potency, and legal prescription access — but may lack the [[dmt-containing-plants-united-states-halpern]] as of publication, variable absorption depending on application technique
 
 ### Rimonabant (Acomplia) — Withdrawn
 - **Type**: Synthetic CB1 receptor antagonist/inverse agonist
 - **Form**: Oral tablet
-- **Original indication**: Weight loss, [[cannabis-metabolic-syndrome-research]] treatment
-- **Status**: **No longer available** — withdrawn from the market due to serious psychiatric side effects including depression, anxiety, and suicidal ideation
-- **Lesson**: Blocking the CB1 receptor produces psychiatric consequences, confirming that the endocannabinoid system plays a fundamental role in mood regulation and emotional homeostasis
-
-## Synthetic Cannabinoids in Research
-
-Research cannabinoids are laboratory-synthesized compounds used to probe the pharmacology of cannabinoid receptors. They are not approved for human therapeutic use but have been essential for understanding receptor function.
-
-### CB1 Agonists
-These compounds activate CB1 receptors, mimicking or exceeding THC's effects:
-
-- **CP 55,940**: Equally strong at CB1 and CB2 receptors. A classic tool compound used extensively in receptor-binding studies. One of the most potent cannabinoid agonists known, with activity exceeding THC by orders of magnitude in some assays.
-
-- **HU 210**: Primarily CB1-selective. Extremely potent synthetic cannabinoid (100–800 times more potent than THC in some measures). Originally developed at Hebrew University. Used in research to study CB1-mediated effects on pain, appetite, memory, and neuroprotection.
-
-- **HU 239 (Ajulemic acid)**: A derivative of the THC metabolite 11-OH-THC. Investigated for its anti-inflammatory properties with reduced psychoactive side effects compared to THC. Has shown promise in treating [[cannabis-chronic-pain-management]] and inflammation.
+- **Original indication**: Weight loss, [[cannabis-chronic-pain-management]] and inflammation.
 
 ### Potential CB1 Agonist
 - **WIN55,212-2**: Binds with both CB1 and CB2 receptors but is stronger at CB1. Widely used in preclinical research. Has demonstrated neuroprotective, anti-inflammatory, and analgesic properties in animal models. Not approved for human use due to safety concerns.
@@ -117,8 +77,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[doc]]
 - [[dronabinol]]
-- [[myrcene]]
 - [[tetrahydrocannabinol]]
 - [[endocannabinoid-system]]

@@ -70,20 +70,14 @@ Controlled burning creates a mosaic of age classes that maximizes both structura
 
 Heather flowers contain flavonoids (quercetin, myricetin, kaempferol derivatives), tannins, and phenolic acids.
 
-The leaves produce arbutin and [[ursolic-acid]], contributing to mild diuretic and anti-inflammatory activity.
-
-Traditional [[honey-based-herbal-preparations]] use flowering shoots in infusions for urinary complaints, rheumatism, and gout.
+The leaves produce arbutin and [[honey-based-herbal-preparations]] use flowering shoots in infusions for urinary complaints, rheumatism, and gout.
 
 Heather honey, produced from the nectar of C. vulgaris, is distinguished by its amber color, thixotropic gel-like texture, and high antioxidant content.
 
-The chemical composition includes characteristic markers such as [[abscisic-acid-plant-stress-hormone]] and kaempferol glucosides unique to Calluna nectar.
-
-## Ecology and Applications
-
-C. vulgaris is a keystone species of [[ericoid-mycorrhiza-heathland-ecosystems]], supporting over 40 species of invertebrates that are heather specialists.
+The chemical composition includes characteristic markers such as [[ericoid-mycorrhiza-heathland-ecosystems]], supporting over 40 species of invertebrates that are heather specialists.
 
 The heather beetle (Lochmaea suturalis) is the primary herbivore, with outbreaks causing extensive defoliation cycles.
 
 Heather provides nesting cover and food for red grouse (Lagopus lagopus scotica), whose diet is approximately 90% heather shoots in winter.
 
-In permaculture and [[tropical-rainforest-seedling-mycorrhiza-ecological-restoration]], heather is planted for [[permplant-willows-salix-erosion-control-fodder]] on degraded acidic soils and as a component of native [[hamilton-wildflower-meadow]] mixes.
+In permaculture and [[permplant-willows-salix-erosion-control-fodder]] on degraded acidic soils and as a component of native [[hamilton-wildflower-meadow]] mixes.

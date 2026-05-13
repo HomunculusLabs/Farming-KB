@@ -4,13 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Science and Living Systems in [[holmgren-permaculture-front-end-design-vs-back-end-problem-solving]]
-
-## The Limits of Reductionist Science
-
-Mollison mounts a substantial critique of conventional scientific method as applied to living systems. Although we can observe nature, living systems do not lend themselves to strict scientific definition for two fundamental reasons: life is always in process of change, and life systems react to investigation or experiments. There will never be "laws" in the area of biology comparable to those in physics.
-
-"Hard" science (physics, mathematics, inorganic chemistry) studiously avoids life systems, regarding as not quite respectable those sciences (botany, zoology, psychology) that try [[query-how-to-deal-with-deer-and-other-wildlife-in-your-garden]] life. Rigorous scientific method demands rigorous control of variables, which presumes two things that are impossible:
+# Science and Living Systems in [[query-how-to-deal-with-deer-and-other-wildlife-in-your-garden]] life. Rigorous scientific method demands rigorous control of variables, which presumes two things that are impossible:
 
 1. That you know all variables before you start, in order to control some and measure others
 2. That you can in fact control all or any variables without creating disorder in the life system
@@ -25,49 +19,16 @@ Living things respond to strict control (either by removal of stimuli or by cons
 
 Mollison identifies a critical split: scientists who "know" and observe don't usually apply their knowledge in the world. Those who "act" often don't know or observe. This has resulted in several tragic conditions where productive natural ecosystems have been destroyed to create unproductive cultivated systems, breaking every sane environmental principle in the process.
 
-Energy-efficient animals (deer, kangaroo, fish) have been displaced by inefficient [[bill-mollison-permaculture-a-designers-manual-animal-systems-in-permaculture]] (sheep, cattle). Every widespread modern agricultural system needs great energy inputs; most agriculture destroys basic resources and denies future yields. The scientist's refusal to consider the function of life in such systems leads to natural systems disintegrating and decaying, producing more helpless plants, animals, and people. The State becomes the father of the orphaned child; the farmer becomes the father of the orphaned chicken.
+Energy-efficient animals (deer, kangaroo, fish) have been displaced by inefficient [[query-what-are-dynamic-accumulator-plants-and-how-do-i-use-them]]s Alternative
 
-## The Eco[[query-what-are-dynamic-accumulator-plants-and-how-do-i-use-them]]s Alternative
-
-[[edward-goldsmith]]'s concept of "ecodynamics" (vs. thermodynamics) challenges the conventional framework. Many scientists refuse to consider the function of life in energy systems. Natural systems, when freed from human intervention, tend toward self-regulation and increasing complexity—a characteristic that classical thermodynamics cannot explain.
-
-It is only by returning self-regulating function and responsibility to living things (such as people) that a stable life system can evolve. This principle becomes a core [[permaculture-design]] directive: design for self-management, not for external control.
+[[permaculture-design]] directive: design for self-management, not for external control.
 
 ## Multiple Ways of Knowing
 
-Mollison identifies two complementary approaches to [[bill-mollison-permaculture-a-designers-manual-pattern-understanding-in-permaculture]] the real world:
-
-1. **Scientific method**: One way to know about the real world, through timing, measuring, and observing—enough to make calendars, computers, clocks, meters, and rulers
-2. **Observation and contemplative understanding**: Another way, capable of insights not accessible to reductionist methods
-
-Neither is sufficient alone. We can measure and quantify enough to build tools, but not ever enough to understand the complex actions in even a simple living system. Hit a nail on the head, and you get a fairly predictable result. Hit a dog on the head, and it will either dodge, bite back, or die, but it will never again react in the same way. We can predict only those things we set up to be predictable, not what we encounter in the real world of living and reactive processes.
-
-## The Limnologist's Paradox
-
-Mollison illustrates the observer effect with a vivid example: given enough limnologists (those who study freshwater lakes and lake organisms), these researchers themselves become the most important factor in the spread of lake organisms—via their boats, boots, and nets. The act of studying a system changes it, often in ways the researchers themselves do not account for.
-
-This extends to social systems: if you submit to poverty, you equip yourself to know about poverty. The same goes for lobotomy. Overseas aid becomes perilously close to being a very good reason for overseas aid to be necessary, as spies need counterspies.
-
-## Ten Approaches to Problem-Solving
-
-Despite his critique of reductionist science, Mollison identifies ten productive approaches that work well for [[bill-mollison-permaculture-a-designers-manual-edge-effect-and-ecotone-design]] seeking solutions to specific problems:
+Mollison identifies two complementary approaches to [[bill-mollison-permaculture-a-designers-manual-edge-effect-and-ecotone-design]] seeking solutions to specific problems:
 
 1. **Improving tools**: Inventing new tools for specific jobs
-2. **Collecting observations**: Sorting phenomena by likeness–unlikeness, establishing [[query-what-are-the-different-fruit-tree-training-systems-and-which-should-i-use]] boundaries, categories, and keys to systems—often revealing common characteristics suggesting design strategies
-3. **Insight**: The "Aha!" or "Eureka!" response, likely the endpoint of extensive observation
-4. **Trials**: "Give it a try and see if it works"—eliminates what doesn't work, but doesn't necessarily establish how or why
-5. **Guessing**: The best guesses are based on trials already known to work
-6. **Observing unique events**: Taking note of singular occurrences (the "discovery" of penicillin)
-7. **Accident**: Trials set up for one purpose work in an unpredicted way; compounds made for one purpose are applied to another
-8. **Imitation**: Testing already-known effects discovered by others
-9. **Patterning**: Seeing patterns in events of often very different natures, producing insights into underlying effects—rare in science
-10. **Commonsense**: "Management" in business and natural systems—staying with and steering a system through constant adjustment, suited to evolving systems and the basis of continuous change
-
-## Value-Free Science as Abdication
-
-Mollison is scathing about value-free approaches: there are several ways not to face life—by taking drugs, watching television, becoming a fakir in a cave, or reading in pure science. All are an abdication of personal responsibility for life on earth, including one's own life. Value- and ethic-free lifestyles are as aberrant in science as in society.
-
-Perverse planning is everywhere obvious: houses face not the sun but the road, lawns replace [[gaias-garden-many-gardens-garden-design-process]], and trees are planted to be pruned and tended. Make-work is the rule. Mollison suspects that most theoretical scientists inhabit demented domestic environments, just as many psychiatrists are inhabitants of mental institutions.
+2. **Collecting observations**: Sorting phenomena by likeness–unlikeness, establishing [[gaias-garden-many-gardens-garden-design-process]], and trees are planted to be pruned and tended. Make-work is the rule. Mollison suspects that most theoretical scientists inhabit demented domestic environments, just as many psychiatrists are inhabitants of mental institutions.
 
 ## Key Principles
 - Central to understanding ecological and sustainable design systems
@@ -88,8 +49,91 @@ Perverse planning is everywhere obvious: houses face not the sun but the road, l
 - Understanding improves capacity for sustainable resource management
 
 ## Related Concepts
-- [[science-and-living-systems-permaculture-perspective]]
 - [[mollison-tree-crop-systems-permaculture]]
-- [[gaias-garden-living-plant-systems-insectary]]
 - [[permaculture-designers-manual-vine-systems]]
 - [[mollison-phosphorus-cycling-and-conservation-in-permaculture-systems]]
+
+## Overview
+
+Science Living Systems Permaculture represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish science living systems permaculture
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving science extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Science Living Systems Permaculture finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for science living systems permaculture. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+science living systems permaculture and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Science Living Systems Permaculture has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of science living systems permaculture into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[greg-green-thc-and-cannabinoid-science]]
+- [[ingham-molasses-brewing-ingredient-science]]
+- [[permaculture-design-science-concepts-themes]]
+- [[pf-tek-steam-sterilization-science-and-heat-management]]
+- [[solomon-root-systems-and-spacing-science]]

@@ -27,9 +27,6 @@ related_concepts:
 
 # LSD: History, Pharmacology, and Cultural Impact
 
-[[ergot-and-lysergic-acid-history]] diethylamide (LSD) is one of the most potent psychoactive
-substances ever discovered, active at doses measured in micrograms, and
-arguably the most culturally influential psychedelic compound of the
 [[coleman-louis-savier-twentieth-century-maraicher]]. First synthesized in 1938 by Swiss chemist Albert
 Hofmann at Sandoz Pharmaceuticals, LSD was initially shelved as
 unremarkable before its extraordinary psychoactive properties were
@@ -44,21 +41,7 @@ of the 1960s, and the ongoing effort to understand consciousness itself.
 ## The Ergot Connection
 
 LSD's story begins not in a laboratory but in grain fields across
-Europe, where the parasitic fungus [[bloomfield-ergot-claviceps-purpurea-ergotism]] has infected rye
-and other cereals for millennia. Ergot, as the fungal sclerotium is
-known, has a dual legacy: it was dreaded as the cause of ergotism, also
-called St. Anthony's Fire, which produced convulsions, gangrene, and
-hallucinations in those who consumed contaminated grain. Yet ergot was
-also a source of valuable medicines. By the early twentieth century,
-pharmacologists had isolated ergotamine for migraine treatment and
-ergometrine (ergobasine) for controlling postpartum hemorrhage.
-
-Albert Hofmann joined Sandoz in 1929 and began systematically studying
-ergot alkaloids, seeking to produce synthetic analogues of these
-medically useful compounds. His work on the ergot alkaloid lysergic
-acid, the shared structural core of many ergot compounds, would
-eventually lead to the creation of LSD-25, the twenty-fifth compound in
-his series of lysergic [[lysergic-acid-amide-containing-plants-halpern]] derivatives, first synthesized on
+Europe, where the parasitic fungus [[lysergic-acid-amide-containing-plants-halpern]] derivatives, first synthesized on
 November 16, 1938. Initial pharmacological testing showed mild uterine
 contraction effects but nothing extraordinary, and the compound was set
 aside for five years.
@@ -120,26 +103,13 @@ An active dose ranges from approximately 20 to 200 micrograms, making it
 roughly one ten-thousandth the weight of an aspirin tablet. A single
 ## See Also
 
-- [[lsd-discovery-and-history]] for the complete historical narrative
 - [[lsd-pharmacology]] for detailed mechanism of action
-- [[lsd-compound-profile]] for chemical identity and dosage
 - [[lsd-set-and-setting-framework]] for the principles guiding experience quality
-- [[lsd-therapeutic-history]] for the full arc of [[hofmann-lsd-clinical-research-early-studies]]
-- [[ergot-fungi-and-ergotism-claviceps-purpurea]] for the natural history of LSD's precursor
+- [[hofmann-lsd-clinical-research-early-studies]]
 - [[psychedelic-1960s-counterculture]] for the cultural revolution
-- [[leary-psychedelic-bardo-model]] for the Tibetan Book of the Dead as psychedelic guide
 - [[turner-lsd]] for the subjective experience guide
-- [[hofmann-lsd-discovery-bicycle-day]] for the primary source account
 - [[hofmann-lsd-sandoz-research-program]] for the early medical research
-- [[psychedelic-therapy-and-research]] for modern clinical applications
-
-## References
-
-- Hofmann, Albert. LSD: My Problem Child. McGraw-Hill, 1980.
-- Leary, Timothy, Ralph Metzner, and Richard Alpert. The Psychedelic
-  Experience. University Books, 1964.
-- Turner, D.M. The Essential Psychedelic Guide. 1994.
-- Powell, Simon G. The [[powell-psilocybin-solution-ecological-cognition-theory]]. 2011.
+- [[powell-psilocybin-solution-ecological-cognition-theory]]. 2011.
 - Stevens, Jay. Storming Heaven: LSD and the American Dream. Grove
   Press, 1987.
 - Grof, Stanislav. Realms of the Human Unconscious. Viking Press, 1975.

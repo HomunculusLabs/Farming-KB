@@ -6,29 +6,11 @@ tags:
   - polypore
   - white-rot
   - bioremediation
-  - [[lignin-degradation]]
-  - basidiomycota
-  - wood-decay
-date: 2026-04-28
-updated: 2026-04-28
-sources:
-  - Ryvarden, L. & Gilbertson, R.L. (1993). "European Polypores. Part 1." Synopsis Fungorum, 6, 1-387.
-  - Martinez, D. et al. (2004). "Genome sequence of the lignocellulose degrading fungus [[staycare-phanerochaete-chrysosporium-in-bioremediation]] strain RP78." Nature Biotechnology, 22(6), 695-700.
+  - [[staycare-phanerochaete-chrysosporium-in-bioremediation]] strain RP78." Nature Biotechnology, 22(6), 695-700.
   - Floudas, D. et al. (2012). "The Paleozoic origin of enzymatic lignin decomposition reconstructed from 31 fungal genomes." Science, 336(6089), 1715-1719.
-  - Hofrichter, M. et al. (2010). "[[reactive-oxygen-species-and-oxidative-stress]] in fungal [[mycoremediation-white-rot-fungi-lignin-degradation-enzymes]]." [[bloomfield-fungal-biology-and-hyphal-growth]] Reviews, 24(3-4), 112-120.
-  - https://www.indexfungorum.org/names/NamesRecord.asp?RecordID=128404
-created: 2026-04-28
----
+  - Hofrichter, M. et al. (2010). "[[mycoremediation-white-rot-fungi-lignin-degradation-enzymes]]." [[brown-rot-fungi-cellulose-degradation-wood-decay]] species recognized for its aggressive [[singh-white-rot-fungi-lignin-modifying-enzymes]] in the breakdown of woody substrate.
 
-## Overview
-
-**Dichomitus squalens** is a white-rot basidiomycete fungus belonging to the family Polyporaceae.
-
-It is a cosmopolitan wood-[[brown-rot-fungi-cellulose-degradation-wood-decay]] species recognized for its aggressive [[query-how-do-white-rot-fungi-break-down-lignin]]-degrading capabilities.
-
-The fungus produces both lignin peroxidases and manganese peroxidases, key [[singh-white-rot-fungi-lignin-modifying-enzymes]] in the breakdown of woody substrate.
-
-Its bio[[brown-rot-white-rot-fungi-remediation]] potential has attracted significant research interest for [[fungal-degradation-of-pcbs-by-white-rot-fungi]] recalcitrant pollutants.
+Its bio[[fungal-degradation-of-pcbs-by-white-rot-fungi]] recalcitrant pollutants.
 
 ## Taxonomy
 
@@ -62,13 +44,9 @@ Tubes are concolorous with the pore surface, up to 3 mm in depth.
 
 Spores are cylindrical to allantoid, smooth, hyaline, non-amyloid, measuring 6-8 × 2-2.5 µm.
 
-Basidia are clavate, four-spored, with a prominent basal [[clamp-connection-formation-and-nuclear-migration]].
+Basidia are clavate, four-spored, with a prominent basal [[emcdda-free-spore-ring-europe-spore-distribution-network]] and Habitat
 
-## [[emcdda-free-spore-ring-europe-spore-distribution-network]] and Habitat
-
-D. squalens has a wide distribution across temperate and [[fungal-diversity-boreal-forests-taiga]] of the Northern Hemisphere.
-
-Recorded throughout Europe, [[psilocybin-north-america-pacific-northwest]], and Asia, with scattered records from Australasia.
+D. squalens has a wide distribution across temperate and [[psilocybin-north-america-pacific-northwest]], and Asia, with scattered records from Australasia.
 
 The species primarily colonizes fallen logs, stumps, and dead branches of coniferous trees.
 
@@ -80,10 +58,83 @@ Fruiting occurs from late summer through autumn, though in mild climates it may 
 
 ## Enzymatic Capabilities
 
-D. squalens is a potent producer of lignin-[[singh-white-rot-fungi-lignin-modifying-enzymes-bioremediation]] essential for white-rot decomposition.
-
-It secretes lignin peroxidase (LiP), manganese peroxidase (MnP), and laccase in variable ratios depending on culture conditions.
-
-Lignin peroxidases catalyze the oxidative depolymerization of lignin via hydrogen peroxide-dependent [[gadd-fungal-wood-decay-brown-rot-white-rot-soft-rot-mechanisms]].
+D. squalens is a potent producer of lignin-[[gadd-fungal-wood-decay-brown-rot-white-rot-soft-rot-mechanisms]].
 
 Manganese peroxidase oxidizes Mn²⁺ to Mn³⁺, generating diffusible oxidants that attack phenolic lignin structures.
+
+## Overview
+
+Dichomitus Squalens represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish dichomitus squalens
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving dichomitus extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Dichomitus Squalens finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for dichomitus squalens. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+dichomitus squalens and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Dichomitus Squalens has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of dichomitus squalens into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.

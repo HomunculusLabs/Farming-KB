@@ -23,38 +23,12 @@ plants within legally recognized church structures, these movements have made
 profoundly spiritually transforming experiences accessible to large numbers of
 people.
 
-Ralph [[metzner-syncretic-entheogenic-churches-brazil-bwiti]]-syncretic-entheogenic-churches-brazil-santo-daime-udv-barquinha|metzner suggests these movements may represent the beginnings of a broader
-cultural transformation with significant impact on contemporary society.
-
-## From Shamanic Healing to Organized Religion
-
-The syncretic metzner-syncretic-entheogenic-churches-brazil-santo-daime-udv-barquinha|metzner|entheogenic churches occupy a critical middle ground between
-traditional shamanic [[shamanic-entheogenic-healing-rituals]] and modern Western approaches. In
+Ralph shamanic-entheogenic-healing-rituals and modern Western approaches. In
 traditional shamanic contexts, metzner-syncretic-entheogenic-churches-brazil-santo-daime-udv-barquinha|metzner|entheogenic ceremonies are conducted in small
 groups of around a dozen participants, with an emphasis on individual healing
 and divination.
 
-The [[entheogenic-syncretic-churches-brazil]] maintain ceremonial use of entheogens while scaling
-participation to much larger groups and shifting the primary emphasis from
-individual healing to communal worship and celebration. The religious framework
-provides legal protection, social cohesion, and organizational stability, though
-the healing and divinatory aspects tend to recede into the background.
-
-## Social Functions of metzner-syncretic-entheogenic-churches-brazil-santo-daime-udv-barquinha|metzner|entheogenic Churches
-
-### Community Cohesion
-
-Churches provide members with a sense of belonging and social connection that may
-be difficult to find in modern urban environments. Regular ceremonies create
-shared experiences and collective memories that bind the community together.
-
-This social function is particularly important in modern societies where
-traditional community structures have weakened and many individuals experience
-profound social isolation.
-
-### Addiction Reduction
-
-Participation in the [[halpern-sacramental-peyote-and-native-american-church]] and the Brazilian hoasca churches
+The halpern-sacramental-peyote-and-native-american-church and the Brazilian hoasca churches
 tends to reduce the incidence of alcoholism and drug addiction. This therapeutic
 benefit emerges as a natural byproduct of religious practice rather than as its
 primary goal.
@@ -102,16 +76,7 @@ confessions.
 
 ### Barquinha
 
-Less well known outside Brazil, the [[barquinha-church-umbanda-orixas-ayahuasca-syncretism]] has incorporated elements
-of Umbanda, an Afro-Brazilian religious movement involving contact with deceased
-ancestors and deities known as orixas. Ceremonies involve both singing and
-dancing.
-
-## The Native American Church
-
-Native American tribes in the United States legally incorporated the Native
-American Church (NAC) as an organized religion that uses the peyote cactus as a
-sacrament. For most of the [[coleman-louis-savier-twentieth-century-maraicher]] the NAC enjoyed legal access to
+Less well known outside Brazil, the coleman-louis-savier-twentieth-century-maraicher the NAC enjoyed legal access to
 the entheogen in most Western states.
 
 NAC ceremonies follow a fairly consistent format, with a "roadman" presiding
@@ -148,3 +113,11 @@ to a global audience.
 ## Health Research Findings
 
 The research of Charles Grob, Dennis McKenna, and others has confirmed that
+
+## See Also
+
+- [[psycholytic-vs-psychedelic-therapy-historical-models-metzner]]
+- [[ralph-metzner]]
+- [[metzner-hallucinogen-etymology-alucinare-rehabilitation-and-entheogen-wasson-ott]]
+- [[metzner-william-james-radical-empiricism-multiple-consciousness]]
+- [[metzner-psychedelic-psychotherapy-clinical-history]]

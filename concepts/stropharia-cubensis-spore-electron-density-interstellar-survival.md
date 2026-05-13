@@ -9,8 +9,7 @@ source: raw/papers/mckenna_t-tryptamines_consciousness.md
 
 ## Overview
 
-In his 1983 Esalen lecture, [[terence-mckenna]] advanced the hypothesis
-that **Stropharia cubensis** ([[anemotropism-in-psilocybe-cubensis]]) may be an
+In his 1983 Esalen lecture, [[anemotropism-in-psilocybe-cubensis]]) may be an
 extraterrestrial organism whose spores are physically adapted for
 interstellar travel. Central to this argument are the remarkable
 material properties of the spore casing: deep purple coloration
@@ -53,16 +52,7 @@ Purple pigmentation would provide natural UV shielding.
 **Extreme electron density**: "The electron density approaches
 that of a metal." High electron density implies tightly packed
 molecular structure with strong intermolecular forces, which
-would contribute to mechanical durability and [[bacillus-pumilus-radiation-resistance-surface-decontamination]].
-
-**Extreme hardness**: "The casing of a spore is one of the hardest
-organic substances known." Mechanical hardness protects against
-micrometeorite impacts and the physical stresses of ejection from
-a planetary surface.
-
-## The Percolation Mechanism
-
-McKenna proposed that interstellar [[adaptive-anemotropism-spore-dispersal-optimization-mushroom-evolution]] operates through
+would contribute to mechanical durability and [[adaptive-anemotropism-spore-dispersal-optimization-mushroom-evolution]] operates through
 a process he calls "percolation":
 
 1. Spores are extremely light, allowing Brownian motion to carry
@@ -139,10 +129,6 @@ confirm extraterrestrial origin:
 
 - Fungal spores do survive extreme conditions (high heat,
   radiation, desiccation) better than most biological structures
-- Some [[query-what-is-the-difference-between-bacterial-and-fungal-dominant-soil]] spores have been shown to survive
-## See Also
-
-- mckenna interstellar spore percolation theory
-- [[mckenna-fungal-fossil-gap-spore-electron-density-and-metal-hardness]]
+- Some [[mckenna-fungal-fossil-gap-spore-electron-density-and-metal-hardness]]
 - [[mckenna-spore-brownian-motion-and-galactic-percolation]]
 - mckenna dmt black hole effect and shamanic practice

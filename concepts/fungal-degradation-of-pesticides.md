@@ -11,14 +11,7 @@ sources: []
 Pesticides and herbicides constitute a major class of environmental pollutants.
 Fungi degrade these compounds through enzymatic transformation, mineralization,
 and co-metabolism. White-rot fungi are particularly effective due to their non-
-specific [[ligninolytic-enzyme-systems-white-rot-fungi]].
-
-## Insecticide Degradation
-
-**Chlorinated insecticides:** DDT, DDD, DDE, lindane (BHC), and dieldrin
-are degraded by various fungi. White-rot fungi attack these compounds through
-LiP and MnP, generating hydroxylated and dechlorinated metabolites.
-*[[phanerochaete-chrysosporium]]* degrades DDT and lindane, though complete
+specific [[phanerochaete-chrysosporium]]* degrades DDT and lindane, though complete
 mineralization is limited.
 
 **Organophosphorus insecticides:** Malathion, parathion, chlorpyrifos, and
@@ -57,10 +50,7 @@ oxidation of sulfur-containing metabolites.
 
 ## Key Enzymatic Systems
 
-[[fungal-enzymes-in-decomposition]] pesticide degradation include **cytochrome P450
-monooxygenases** (N-dealkylation, hydroxylation, epoxidation), **esterases and
-amidases** (hydrolytic cleavage), **lignin peroxidase** (non-specific aromatic
-oxidation), **[[fungal-manganese-peroxidase-remediation]]** (Mn(III)-mediated oxidation), **laccase**
+[[fungal-manganese-peroxidase-remediation]]** (Mn(III)-mediated oxidation), **laccase**
 (phenolic oxidation), **glutathione S-transferases** (conjugation), and
 **phosphatases** (organophosphate hydrolysis).
 
@@ -68,14 +58,7 @@ oxidation), **[[fungal-manganese-peroxidase-remediation]]** (Mn(III)-mediated ox
 
 White-rot basidiomycetes, particularly *Phanerochaete chrysosporium*, *Trametes
 versicolor*, and *Bjerkandera adusta*, have received the most attention. Their
-[[ligninolytic-enzymes]] generate highly reactive radical intermediates that attack
-organic substrates non-specifically. *P. chrysosporium* degrades up to 90% of
-DDT in liquid culture within 30 days. *T. versicolor* mineralizes 40-60% of
-applied 2,4-D within 14 days.
-
-## Soil Bioremediation Strategies
-
-Field application involves: **solid [[oyster-substrate-fermentation]]** (fungal inoculum on
+[[oyster-substrate-fermentation]]** (fungal inoculum on
 lignocellulosic substrates mixed into contaminated soil), **bioaugmentation**
 (concentrated inoculum introduced into soil), **biopile systems** (soil in piles
 with nutrient amendments, aeration, moisture control), and **constructed
@@ -118,8 +101,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[laccase]]
 - [[phanerochaete-chrysosporium]]
-- [[bjerkandera-adusta]]
 - [[bioremediation-strategies]]
 - [[trichoderma]]

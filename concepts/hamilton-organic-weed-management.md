@@ -8,10 +8,7 @@ type: concept
 tags: [reference]
 ---
 
-# Organic [[geoff-hamilton]] strongly advises against chemical
-weedkillers, finding them more time-consuming and awkward to apply between
-cultivated plants than traditional organic methods. The organic approach
-uses hoeing, mulching, [[fukuoka-citrus-orchard-ground-cover-cultivation]], and careful soil preparation.
+# Organic [[fukuoka-citrus-orchard-ground-cover-cultivation]], and careful soil preparation.
 
 ## Clearing Uncultivated Ground
 
@@ -51,34 +48,11 @@ soil surface to avoid damaging shallow crop roots.
 
 ### Wheel Hoe
 A hand-pushed tool with a single wheel and cutting blade. Much quicker
-than a Dutch hoe once the soil is loosened. Adjust [[wide-row-spacing-intensive-gardening-comparison]] to suit
-the hoe width -- if rows would be too close, widen them and reduce
-in-row spacing to compensate.
-
-### Key Hoeing Principles
-- Hoe before weeds are visible on the surface, cutting off growing tips
-  while still beneath the soil
-- Never allow perennial weeds to appear above the surface and then chop
-  them up with a rotavator -- this propagates them
-- Constant vigilance: remove weeds as soon as you see them
-- Never let weeds flower or seed
-
-## Mulching
-
-Mulching covers the soil surface with a layer of material to exclude
-light and prevent weed germination. Different materials suit different
-garden areas:
-
-### Black Plastic Sheeting
-One of the most effective mulches for eradicating perennial weeds. No
-light can reach the leaves and the weeds die. Watch for weeds appearing
-at the edges and remove them. The sheeting must be anchored securely.
-Ideal for the [[fukuoka-dutch-priest-vegetable-garden-spiritual-renewal]]. Can be covered with gravel or soil for
+than a Dutch hoe once the soil is loosened. Adjust [[fukuoka-dutch-priest-vegetable-garden-spiritual-renewal]]. Can be covered with gravel or soil for
 ornamental use. Lay a seep hose underneath for watering.
 
 ### Organic Mulches
-Well-rotted manure, compost, straw, [[staycare-spent-mushroom-compost-bioremediation]] compost, and pine
-bark chippings all suppress weeds while adding [[hamilton-composting-and-organic-matter-management]] to the
+Well-rotted manure, compost, straw, [[hamilton-composting-and-organic-matter-management]] to the
 soil. Apply 2-3 inches thick in spring when the soil is moist. Pine bark
 lasts several years and looks attractive in ornamental borders.
 
@@ -118,8 +92,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[doc]]
 - [[composting]]
-- [[dandelion]]
 - [[hamilton-organic-weed-control]]
 - [[hamilton-geoffhamilton-nick-organic-gardening-mulching-and-weed-suppression]]

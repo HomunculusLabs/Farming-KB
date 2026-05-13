@@ -107,13 +107,8 @@ The species received the Royal Horticultural Society's Award of Garden Merit, co
 
 ## See Also
 
-- [[penstemon-barbatus]]
 - [[penstemon-digitalis]]
-- [[penstemon-hirsutus]]
 - [[penstemon-palmeri]]
-- [[penstemon-smallii]]
 - [[antirrhinum-majus]]
-- [[linaria-purpurea]]
 - [[digitalis-purpurea]]
-- [[verbascum-thapsus]]
 - [[veronica-officinalis]]

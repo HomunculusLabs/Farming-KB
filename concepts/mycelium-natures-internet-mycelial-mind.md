@@ -1,6 +1,6 @@
 ---
 title: Mycelium Natures Internet Mycelial Mind
-source: "[[mycelium-running-conservation-biology-and-fungi]] (Stamets)"
+source: "mycelium-running-conservation-biology-and-fungi (Stamets)"
 tags: [mycology, mycelium, fungal-ecology, mycorestoration, network-biology]
 created: 2026-05-09
 ---
@@ -12,12 +12,7 @@ created: 2026-05-09
 Mycelium is the vegetative body of fungi — a vast network of threadlike
 cells (hyphae) that branch and interweave to form continuous cellular
 membranes. These membranes course through virtually all terrestrial
-habitats, from forest floors to [[dighton-fungal-communities-grassland-soils]] to compost heaps. Paul
-Stamets describes mycelium as "Nature's Internet": an information-
-sharing network that infuses habitats with responsive, sentient
-biological tissue.
-
-Individual [[fungal-mycelial-networks-nutrient-translocation]] can spread across thousands of acres,
+habitats, from forest floors to [[fungal-mycelial-networks-nutrient-translocation]] can spread across thousands of acres,
 achieving the greatest mass of any individual organism on the planet.
 The mycelium stays in constant molecular communication with its
 environment, devising diverse enzymatic and chemical responses to
@@ -52,31 +47,12 @@ after planetary-scale destruction.
 
 ## Information Sharing and Decision Making
 
-Stamets proposes that [[fungal-pulsatile-nutrient-transport-mycelial-networks]] exhibit a form of environmental
-intelligence. The mycelium is an "exposed sentient membrane, aware and
-reacting to change." It senses and responds to chemical gradients,
-light, temperature, moisture, and the presence of other organisms.
-Resources are directed toward nutrient-rich zones, away from toxins,
-and toward potential symbiotic partners.
-
-This information processing occurs without a central nervous system.
-Instead, decision-making emerges from the distributed interactions of
-billions of hyphal tips, each responding to local conditions while
-contributing to the behavior of the whole network. This is analogous
-to neural networks in brains, where simple units (neurons) collectively
-produce complex, adaptive behavior.
-
-## Resource Distribution
-
-Mycelium moves nutrients across landscapes. Carbon fixed by trees is
-transferred through mycorrhizal mycelial networks to neighboring plants,
-including those in shade that cannot photosynthesize efficiently.
-Phosphorus and nitrogen captured from soil by [[fungal-enzymes-in-decomposition]] are
+Stamets proposes that [[fungal-enzymes-in-decomposition]] are
 transported to plant partners. Water moves through hyphal networks,
 redistributing moisture across the ecosystem.
 
 This resource-sharing function makes mycelium a keystone organism in
-terrestrial ecosystems. Without [[teaming-with-microbes-tilling-damage-to-fungal-networks]], [[aact-nitrogen-forms-microbial-nutrient-cycling-ingham]]
+terrestrial ecosystems. Without [[aact-nitrogen-forms-microbial-nutrient-cycling-ingham]]
 would slow dramatically, plant communities would be less productive,
 and soil structure would deteriorate. Every step we take on soil
 compresses these vast networks beneath our feet.
@@ -101,7 +77,7 @@ greater efficiency than human engineers, suggesting that similar
 optimization processes may operate in true fungal mycelium.
 
 ## The Wood Wide Web
-Forest ecologist Suzanne Simmonds popularized the term "Wood Wide Web"
+Forest ecologist Suzanne Simmonds popularized the term "[[wood-wide-web]]"
 to describe the mycorrhizal networks that connect trees in forests.
 These networks — which Stamets also extensively documents — allow
 mother trees to funnel carbon to their offspring, stressed trees to
@@ -116,7 +92,7 @@ The network properties of mycelium have inspired several technological
 applications. Mycelium-based composites are being developed as
 sustainable alternatives to Styrofoam packaging, leather, and building
 insulation. Companies like Ecovative Design grow mycelium on
-agricultural waste substrates to produce materials with properties
+[[agricultural-waste-substrates]] to produce materials with properties
 comparable to conventional synthetics. Mycelial mats have also been
 investigated as biological filters for water treatment, as conductive
 substrates for electronics, and as living building materials that

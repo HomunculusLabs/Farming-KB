@@ -20,11 +20,7 @@ sources:
 
 **Crataegus pinnatifida**, known as Chinese hawthorn or shanzha (山楂), is a deciduous tree or large shrub in the family Rosaceae.
 
-It is native to China, Korea, and Mongolia, where it has been cultivated for its edible fruit [[panax-ginseng]] for over two thousand years.
-
-Chinese hawthorn is one of the most commercially important hawthorn species, extensively used in traditional Chinese medicine for cardiovascular and digestive conditions.
-
-The bright red fruits are processed into a wide variety of foods, beverages, and confections throughout [[neurotropic-fungi-japan-east-asia-species-cultural-context]].
+It is native to China, Korea, and Mongolia, where it has been cultivated for its edible fruit [[neurotropic-fungi-japan-east-asia-species-cultural-context]].
 
 ## Taxonomy and Morphology
 
@@ -40,50 +36,92 @@ Branches are typically armed with stout spines 1–3 cm long, though cultivated 
 
 Leaves are alternate, broadly ovate, 5–10 cm long and 4–8 cm wide, with 3–5 pairs of irregular lobes along the margins.
 
-The upper [[bloomfield-rust-germ-tube-tactile-sensing-leaf-surface-navigation]] is dark green and glabrous; the lower surface is lighter with pubescence along the veins.
-
-Inflorescences are compound corymbs, 5–8 cm across, bearing 10–20 white flowers with five rounded petals.
-
-Each flower is 1–1.5 cm in diameter, with 20 stamens and a superior ovary composed of 2–5 carpels.
-
-Flowering occurs in April and May, preceding leaf expansion in many populations.
-
-The fruit is a pome, 1.5–2.5 cm in diameter, bright to dark red at maturity, containing 1–5 hard pyrenes (stones).
-
-Fruits ripen from September through October and often persist on branches well into autumn.
-
-## Distribution and Habitat
-
-Crataegus pinnatifida is native to northern and central China, the Korean Peninsula, and eastern Mongolia.
-
-In China, it occurs naturally in Hebei, Shandong, Henan, Shanxi, Shaanxi, Liaoning, and Jilin provinces.
-
-The species is widely cultivated throughout northern and eastern China, with major production centers in Shandong and Hebei.
-
-It grows in a variety of habitats including forest margins, hillsides, valleys, and along watercourses.
-
-Preferred conditions include well-drained loamy soils in full sun, at elevations from 100 to 1,800 meters.
-
-Chinese hawthorn is cold-hardy to approximately -25°C and tolerates a wide range of soil pH conditions.
-
-The species has been introduced to Japan, Russia, Europe, and [[psilocybin-north-america-pacific-northwest]] as an ornamental and [[comparison-berry-growing-vs-fruit-tree-pruning]].
-
-## Traditional Medicine and Pharmacology
-
-Crataegus pinnatifida is one of the most commonly used medicinal plants in traditional Chinese medicine.
-
-The dried ripe fruit (Fructus Crataegi, shanzha) is the primary plant part used therapeutically.
-
-In TCM, shanzha is classified as slightly warm in nature and sour-sweet in flavor, acting on the spleen, stomach, and liver meridians.
-
-Its primary TCM indications include promoting digestion, relieving food stagnation, activating blood circulation, and resolving blood stasis.
-
-It is specifically indicated for the digestion of meat and greasy foods, a use documented in classical texts dating to the Tang Dynasty.
-
-Modern pharmacological research has extensively validated the cardiovascular properties of Chinese hawthorn extracts.
-
-Key bioactive constituents include flavonoids (hyperoside, vitexin, rutin), triterpenic acids (oleanolic acid, [[ursolic-acid]]), and organic acids.
+The upper [[psilocybin-north-america-pacific-northwest]] as an ornamental and [[ursolic-acid]]), and organic acids.
 
 The flavonoid-rich extract demonstrates multiple [[blesching-cannabis-hypertension-cardiovascular-effects]]: positive inotropic action, coronary vasodilation, and anti-arrhythmic activity.
 
 Clinical studies have shown that hawthorn preparations improve exercise tolerance and reduce symptoms in patients with mild-to-moderate heart failure.
+
+## Overview
+
+Crataegus Pinnatifida represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish crataegus pinnatifida
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving crataegus extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Crataegus Pinnatifida finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for crataegus pinnatifida. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+crataegus pinnatifida and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Crataegus Pinnatifida has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of crataegus pinnatifida into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[crataegus-laevigata]]
+- [[crataegus-monogyna]]
+- [[crataegus-oxyacantha]]
+- [[undaria-pinnatifida]]

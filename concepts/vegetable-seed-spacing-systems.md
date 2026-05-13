@@ -38,52 +38,96 @@ This is the dominant system promoted in modern gardening literature, popularized
 - Plants compete intensely for light, water, and nutrients, producing smaller individual vegetables
 - Crowded vegetables deteriorate rapidly if not harvested promptly — there is no grace period
 - Time and effort required for intensive management often exceeds the modest yield increase over wider spacing
-- In hard times, when water, fertilizer, and [[hamilton-composting-and-organic-matter-management]] are scarce, this system fails completely
+- In hard times, when water, fertilizer, and [[stamets-growing-room-air-circulation-co2-management]] reduces disease. Plants have room to develop full-sized root systems. Compatible with mechanized cultivation (wheel hoe, tiller). Graceful — vegetables hold well in the field if harvest is delayed.
 
-### 2. Traditional Row Spacing
-
-This is the historical standard: vegetables grown in single or double rows far enough apart to walk between them. Rows are typically 24 to 48 inches apart depending on the crop, with plants spaced within the row according to the variety's mature size.
-
-**Key assumptions**: The gardener has access to a reasonable amount of land and can use a hoe and wheelbarrow between rows. Fertility is moderate, derived from animal manure and crop rotation. Irrigation may supplement rainfall but is not the primary water source.
-
-**Spacing examples**: Cabbage at 24-36 inches in the row, 36 inches between rows. Corn at 8-12 inches in the row, 36 inches between rows.
-
-**Advantages**: Simple to manage. Good [[stamets-growing-room-air-circulation-co2-management]] reduces disease. Plants have room to develop full-sized root systems. Compatible with mechanized cultivation (wheel hoe, tiller). Graceful — vegetables hold well in the field if harvest is delayed.
-
-**Disadvantages**: Uses more total land area than intensive spacing. Paths between rows consume space that does not directly produce food. Can appear "wasteful" to gardeners accustomed to [[row-gardening-vs-intensive-methods-solomon]].
-
-### 3. Wide Row Spacing
-
-An intermediate system where rows are closer together than traditional spacing (12-18 inches) and plants within the row are also more closely spaced. The row becomes a dense band rather than a single line.
-
-**Key assumptions**: Moderate fertility and water availability. The gardener is willing to harvest vegetables small and immature.
-
-**Spacing examples**: Carrots in bands 4 inches wide, 12 inches between band centers. Lettuce in bands 6 inches wide, 12 inches between band centers.
-
-**Advantages**: More efficient use of space than traditional rows while being less demanding than intensive beds. Good for crops harvested small (baby carrots, baby lettuce, scallions). Easy to manage with hand tools.
-
-**Disadvantages**: Plants still compete within the band. Less suitable for crops that need to reach full size (large cabbage, broccoli heads). Air circulation may be reduced compared to widely spaced rows.
-
-### 4. Dry Gardening Spacing (Very Wide)
-
-Solomon's preferred system for water-scarce conditions and for general resilience. Plants are spaced extremely far apart — often two to four times the distance recommended in standard gardening references. The [[solomon-wide-spacing-versus-intensive-gardening-debate]] is the key mechanism that enables [[dry-gardening-unirrigated-vegetable-production-solomon]] without irrigation.
-
-**Key assumptions**: Water is scarce or irrigation is undesirable. The gardener has sufficient land. Soil has been prepared to a good depth (at least 12 inches, preferably more). [[capillary-action-in-soils|capillary action]] draws from below can keep pace with the reduced transpiration demand, eliminating or greatly reducing the need for irrigation.
+**Disadvantages**: Uses more total land area than intensive spacing. Paths between rows consume space that does not directly produce food. Can appear "wasteful" to gardeners accustomed to [[solomon-wide-spacing-versus-intensive-gardening-debate]] is the key mechanism that enables [[capillary-action-in-soils|capillary action]] draws from below can keep pace with the reduced transpiration demand, eliminating or greatly reducing the need for irrigation.
 
 ## The Thinning Contract
 
-Solomon frames spacing as a contractual obligation between the gardener and the vegetable. When humans domesticated vegetables, an implicit agreement was formed: the plants agreed to become our food, and we agreed to protect them from competition. When seedlings are allowed to crowd each other — competing for light, water, and nutrients — the gardener has broken this contract. The vegetables cannot do their best under [[microfungal-life-strategies-ruderal-competitive-stress-tolerant]].
-
-### Thinning Procedure
-Solomon recommends progressive thinning in three to five stages:
-
-1. **Immediately after emergence**: Thin clumps to 1-inch spacing (or 1.5 inches for large seeds). Remove the weakest seedlings.
-2. **After first true leaf develops**: Remove weaker seedlings, leaving the most vigorous. Any abnormally vigorous plant is likely an inter-varietal cross (a super-hybrid) and should also be removed — it will outgrow everything but produce disappointing food.
-3. **When seedlings are established** (three true leaves and growing well): Thin to final spacing. At this point, seedlings are tough enough to withstand any remaining stress.
-
-### Thumbprint Station Method
-For small seeds of large plants (cabbage, broccoli, cauliflower, kale, celery), Solomon recommends the thumbprint method:
-
-1. Prepare the bed with [[capillary-action-in-soils]]
-- [[complete-organic-fertilizer-cof]]
+Solomon frames spacing as a contractual obligation between the gardener and the vegetable. When humans domesticated vegetables, an implicit agreement was formed: the plants agreed to become our food, and we agreed to protect them from competition. When seedlings are allowed to crowd each other — competing for light, water, and nutrients — the gardener has broken this contract. The vegetables cannot do their best under [[capillary-action-in-soils]]
 - [[seed-germination-techniques-solomon]]
+
+## Overview
+
+Vegetable Seed Spacing Systems represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish vegetable seed spacing systems
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving vegetable extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Vegetable Seed Spacing Systems finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for vegetable seed spacing systems. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+vegetable seed spacing systems and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Vegetable Seed Spacing Systems has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of vegetable seed spacing systems into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[maintaining-organic-matter-in-vegetable-gardens]]
+- [[mollison-pdc-zone-one-vegetable-bed-design]]
+- [[vegetable-crop-demand-classification-fertility-matching-solomon]]
+- [[vegetable-garden-watering-systems-spacing]]
+- [[vegetable-growing-guide]]

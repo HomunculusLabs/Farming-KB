@@ -90,18 +90,8 @@ These trees handle extreme heat, alkaline soils, and prolonged dry seasons:
 
 - **Minimum rainfall**: 500 mm (supplemental during fruiting)
 - **Yield**: 10–30 kg/tree/year
-- **Fruit**: Sweet-tart yellow-orange fruit in late winter/[[coleman-overwintered-onions-and-early-spring-crops]] (fills a seasonal gap)
-- **Why it excels**: Evergreen; flowers in autumn ([[mollison-designers-bee-forage-tree-planting]] when little else blooms); fruit ripens when other trees are bare; tolerates partial shade and a wide range of soils
-- **Food forest role**: Mid-canopy evergreen; provides structure, privacy, and [[cervantes-wind-protection-outdoor-cannabis]] year-round
-- **Cultivars**: 'Gold Nugget', 'Champagne', 'Mogi', 'Thales', 'Advance'
-
-### Persimmon (*Diospyros spp.*)
-
-- **Minimum rainfall**: 500–600 mm
-- **Yield**: 25–80 kg/tree/year
-- **Fruit**: Sweet astringent or non-astringent fruit; excellent fresh or dried; high in vitamins A and C
-- **Why it excels**: Few pest problems; beautiful fall foliage; long-lived (75+ years); fruit persists on bare branches through winter; tolerant of a wide range of soils including clay
-- **Food forest role**: Canopy tree with seasonal interest; [[dighton-fungal-decomposition-leaf-litter-dynamics]] breaks down to improve soil
+- **Fruit**: Sweet-tart yellow-orange fruit in late winter/[[mollison-designers-bee-forage-tree-planting]] when little else blooms); fruit ripens when other trees are bare; tolerates partial shade and a wide range of soils
+- **Food forest role**: Mid-canopy evergreen; provides structure, privacy, and [[dighton-fungal-decomposition-leaf-litter-dynamics]] breaks down to improve soil
 - **Species**: Asian persimmon (*D. kaki*, less cold-hardy, more fruit diversity) and American persimmon (*D. virginiana*, extremely cold-hardy, smaller fruit)
 - **Cultivars (Asian)**: 'Fuyu', 'Hachiya', 'Jiro', 'Saijo', 'Chocolate'
 
@@ -113,9 +103,7 @@ These trees handle extreme heat, alkaline soils, and prolonged dry seasons:
 
 - **Minimum rainfall**: 600–700 mm
 - **Yield**: 10–30 kg/tree/year
-- **Fruit**: Tropical-tasting fruit (banana-mango-custard) native to [[polypore-fungi-eastern-north-america]] America; the largest edible fruit native to the continent
-- **Why it excels**: Native understory tree adapted to deciduous forest conditions; tolerant of shade as a young tree; needs only modest watering once established; very few pests; supports zebra swallowtail butterfly larvae
-- **Food forest role**: Perfect understory [[comparison-berry-growing-vs-fruit-tree-pruning]] for temperate food forests; naturally grows beneath taller canopy
+- **Fruit**: Tropical-tasting fruit (banana-mango-custard) native to [[comparison-berry-growing-vs-fruit-tree-pruning]] for temperate food forests; naturally grows beneath taller canopy
 - **Cultivars**: 'Mango', 'Shenandoah', 'Wabash', 'Susquehanna', 'KSU-Atwood'
 
 ### Serviceberry / Saskatoon (*Amelanchier spp.*)
@@ -132,6 +120,5 @@ These trees handle extreme heat, alkaline soils, and prolonged dry seasons:
 - **Minimum rainfall**: 500 mm
 
 ## See Also
-- [[query-best-grain-legumes-for-a-small-homestead]]
 - [[permplant-persimmon-diospyros-kaki-fruit-tree]]
 - [[query-how-to-design-a-food-forest-guild-for-fruit-trees]]

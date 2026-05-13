@@ -16,12 +16,7 @@ The International Permaculture Conference held in August 1986 at The Evergreen
 State College in Olympia, Washington, brought together three of the most
 influential figures in alternative agriculture: Bill Mollison, Wes Jackson, and
 Masanobu Fukuoka. The event represented a historic convergence of permaculture,
-land institute ecology, and [[fukuoka-natural-farming-global-influence]] from Australia,
-presented a no-tillage system using perennial plants and trees to create
-abundant farms and resilient human communities designed after natural landscapes.
-Permaculture farms are intended to perpetuate themselves indefinitely without
-bringing in materials from outside. The system is based on organic agriculture
-and had developed a substantial following in Australia, the [[dmt-containing-plants-united-states-halpern]], and
+land institute ecology, and [[dmt-containing-plants-united-states-halpern]], and
 internationally. Mollison's approach shared significant common ground with
 Fukuoka's methods, particularly in its emphasis on no-tillage, perennial
 polyculture, and self-sustaining systems.
@@ -29,42 +24,20 @@ polyculture, and self-sustaining systems.
 ### Wes Jackson and The Land Institute
 
 Jackson, founder of The Land Institute in Salina, Kansas, aimed to develop
-[[natural-farming-methods-comparison]] using minimal [[holmgren-fossil-fuel-pulse-and-energy-descent-cycle]]. He argued that without limiting
+[[holmgren-fossil-fuel-pulse-and-energy-descent-cycle]]. He argued that without limiting
 fossil fuel use, there would be no future for agriculture. Jackson was working
 to develop native perennial grasses into food crops that would eliminate the
 need for plowing. While he fundamentally accepted the scientific approach,
 Fukuoka recognized that Jackson was searching for "the beginnings of a new
 agriculture." Jackson's work addressed the same problem of soil destruction
-that Fukuoka identified in his [[fukuoka-natural-no-plan-best-plan]], and that true
-farming arises from abandoning human knowledge entirely.
-
-## The Panel Discussion and Don Quixote Drawing
-
-On the second day, the three speakers held a panel discussion in
-question-and-answer format, debate-style. The proceedings unexpectedly
-dissolved into what Fukuoka described as "slapstick comedy." Mollison spoke
-English with a strong Australian accent, prompting Jackson to tease that he
-could not understand a word. Fukuoka had three translators who gave three
-different interpretations of everything he said. Someone in the audience joked
-they had no idea what Fukuoka was really saying, illustrating the difficulty of
-penetrating Oriental languages and expressions.
-
-The comedic climax came when Fukuoka drew his famous illustration of Don
-Quixote's donkey. On its back rode a blind Bill Mollison and a deaf Wes
-Jackson, both facing backward, with Fukuoka clinging desperately to the
-donkey's swishing tail. The three Don Quixotes, hoping to [[emcdda-return-to-nature-megatrend-mushroom-appeal]],
+that Fukuoka identified in his [[emcdda-return-to-nature-megatrend-mushroom-appeal]],
 were trying to stop the donkey from rushing toward the brink of disaster, but
 it seemed hopeless. When someone asked what would happen, Fukuoka drew
 President Reagan sitting frontward on the donkey, dangling a carrot before its
 nose. When asked what the carrot represented, someone correctly answered:
 "Money."
 
-This drawing encapsulated Fukuoka's view that [[fukuoka-natural-farming-global-influence]], demonstrating that
-Fukuoka's radical philosophy could stand alongside and even challenge the most
-prominent alternative agriculture movements in the English-speaking world. The
-event also highlighted the [[fukuoka-natural-farming-vs-organic-farming]]
-- [[fukuoka-critique-of-scientific-agriculture]]
-- UC Davis Agriculture Department Visit
+This drawing encapsulated Fukuoka's view that [[fukuoka-natural-farming-vs-organic-farming]]
 - [[fukuoka-road-three-don-quixotes]]
 ## Practical Considerations
 
@@ -114,8 +87,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[permaculture]]
 - [[masanobu-fukuoka]]
-- [[bill-mollison]]
 - [[dmt]]
 - [[fukuoka-pollution-conference-modest-solution]]

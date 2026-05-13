@@ -40,31 +40,6 @@ A bushy, creeping perennial (to 25 cm) native to South Africa. It is half-hardy 
 - **Apium prostratum** (sea celery) — Small herb of coastal headlands and dunes; resembles celery; historically used to treat scurvy; potential as a bred vegetable
 - **Armeria maritima** (sea pink) — Hardy, frost-hardy, perennial creeping shrub covering sand banks readily
 - **Batis maritima** (saltwort, beachwort) — Spreading prostrate shrub of mangrove swamps and salt marshes
-- **[[sarcocornia-quinqueflora]]** (chicken claws, beaded glasswort) — Forms extensive colonies on tidal mudflats; fleshy stems absorb pickle flavours
-- **Sesuvium portulacastrum** (sea purslane) — Fleshy-leaved shrubby herb of beaches and mudflats; leaves reported as excellent vegetable
-- **Suaeda australis** (sea blight) — Fleshy-leaved plant of saltflats and sandbanks; used as vegetable and in pickles by early settlers
-
-## Coastal Hedge Plants
-
-Hedge plants provide wind protection, privacy, and microclimate creation in coastal gardens and farms.
-
-### Carissa grandiflora, syn. C. macrocarpa (Natal Plum)
-
-A thorny plant with edible fruit, making it an effective barrier hedge that also produces food. The combination of defensive thorns and edible fruit is ideal for permaculture edge design where both security and productivity are desired.
-
-### Coccoloba uvifera (Sea Grape)
-
-A large bush or small tree (to 6 m) with scarlet-coloured foliage, native to Florida and the Caribbean. Extremely hardy, able to withstand wind and salt spray, and capable of growing with roots partly in the sea. Fairly tender to frost.
-
-**Edible:** Dioecious species producing reddish-purple to off-white fruit eaten fresh and in jellies, jams, drinks, syrups, and wines. The fruit has a salty-sweet taste, and the leaves can be boiled and eaten as a vegetable. Aboriginal peoples of the Macdonnell Ranges soaked the fruit in water and drank the liquid like sweet tea.
-
-### Other Hedge Species
-
-- **Acanthocerus floridanus** — Thorny hedge
-- **Alyxia buxifolia** — Coastal hedge plant
-- **Coprosma baueri, C. repens** (New Zealand mirror plant) — Salt-tolerant hedge
-- **Correa alba** (Cape Barren tea) — Hardy, leaves used as tea substitute
-- **Escallonia macantha** — Coastal hedge
 - **[[euphorbia-tirucalli]]** — Probably a good honey plant
 - **Griselinia littoralis** — Coastal hedge
 - **Hakea suaveolens** — Honey plant
@@ -111,7 +86,6 @@ A large tree (to 10 m), somewhat frost hardy. Commonly found growing with roots 
 - **Populus tremula** (European aspen) — Small suckering tree; withstands full sea exposure; frost hardy and salt resistant
 - **Salix caprea** (goat willow) — Coastal willow species
 - **Sapindus saponaria** (soapberry) — Small evergreen tree to 8 m; grows where salt water overflows frequently
-- **[[swietenia-mahagoni]]** (West Indian mahogany) — Evergreen to 24 m; low-lying limestone swamps near sea; frost tender
 - **[[taxodium-distichum]]** (bald cypress) — Swamp tree of the Everglades; quite frost hardy
 
 ## Coastal Shrubs
@@ -126,12 +100,6 @@ A large tree (to 10 m), somewhat frost hardy. Commonly found growing with roots 
 - **Asparagus officinalis** (asparagus)
 - **Chenopodium quinoa** (quinoa)
 - **Crithmum maritimum** (sea fennel)
-- **[[distichlis-palmeri]]** (Palmer saltgrass) — Perennial growing in tidal flats; seed traditionally harvested by Seri Indians; hybrid cultivars producing 1 tonne/ha grain; spreads by rhizomes
-- **Distichlis spicata** (salt grass) — Distinct inland and seashore ecotypes; 20,000 hectares under cultivation near Mexico City for cattle fodder
-- **Kosteletzkya virginica** (seashore mallow)
-- **Leptochloa fusca** (kallar grass) — Highly salt-tolerant perennial forage species
-- **Mesembryanthemum crystallinum** (ice plant)
-- **Pennisetum typhoides** (pearl millet)
 - **[[portulaca-oleracea]]** (common purslane)
 
 ## Permaculture Design Principles for Coastal Planting

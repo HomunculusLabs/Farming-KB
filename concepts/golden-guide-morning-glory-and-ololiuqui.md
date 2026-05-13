@@ -12,8 +12,7 @@ type: concept
 
 # Sacred Mexican Morning Glories and Ololiuqui
 
-The sacred Mexican morning glories of two species, *[[rivea-corymbosa]]* and
-*[[ipomoea-violacea]]*, provide Mexican Indians with hallucinogenic seeds. Although
+The sacred Mexican morning glories of two species, *[[ipomoea-violacea]]*, provide Mexican Indians with hallucinogenic seeds. Although
 the morning glory family (Convolvulaceae) includes some 1,700 temperate and
 tropical species and has been important as a source of medicines and many
 ornamentals, only in recent years has it been discovered that some of these
@@ -24,13 +23,7 @@ glories, yet they seem never to have been used as hallucinogens.
 ## Aztec Origins and Historical Use
 
 Shortly after the conquest of Mexico, Spanish chroniclers reported that
-[[sacred-mexican-morning-glories-ololiuqui-and-tlitliltzin]] were important divinatory hallucinogens of Aztec
-religion, magic, and medicine. Ololiuqui is a small, round, brownish seed
-from a vine called coatl-xoxouhqui ("snake plant"), with heart-shaped leaves
-and white flowers. Tlitliltzin is a black, angular seed. These were
-identified respectively as the seeds of *Rivea corymbosa* and *Ipomoea
-violacea*. Since botanical nomenclature in this family is not always clear,
-these two species are sometimes called *[[plants-of-the-gods-turbina-corymbosa-ololiuqui]]* and *Ipomoea
+[[plants-of-the-gods-turbina-corymbosa-ololiuqui]]* and *Ipomoea
 tricolor*, respectively. Whereas much was written about ololiuqui, tlitliltzin
 was merely mentioned in the ancient writings.
 
@@ -118,8 +111,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[ololiuqui]]
 - [[ipomoea-violacea]]
-- [[rivea-corymbosa]]
 - [[det]]
 - [[schultes-ololiuqui-and-morning-glory]]

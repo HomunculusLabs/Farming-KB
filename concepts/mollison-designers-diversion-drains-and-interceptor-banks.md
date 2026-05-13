@@ -77,17 +77,11 @@ the downhill wall. Key specifications include:
 In effect, interceptor banks isolate large blocks of soil
 from waterlogging and salt seepage, enabling the
 rehabilitation of previously desertified soils through
-subsequent [[mollison-designers-check-dam-types-and-landscape-placement]]
-  for water storage
-- mollison-keyline-water-conservation systems
-  for gravity-fed irrigation
-- [[mollison-earthworks-planning-and-post-earthworks-planting]]
+subsequent [[mollison-earthworks-planning-and-post-earthworks-planting]]
   planning and follow-up planting
 
 The landscape can be viewed (as though sliced into layers
 ## See Also
-- [[irrigation-systems]]
 - [[water-management]]
-- [[permaculture-design]]
 - [[mollison-designers-community-seed-banks-and-exchange]]
 - [[mollison-designers-alley-cropping-and-contour-hedgerow-systems]]

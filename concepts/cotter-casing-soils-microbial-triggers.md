@@ -13,20 +13,12 @@ type: concept
 
 ## Overview
 
-Casing soils cover colonized [[mushroom-cultivation-bulk-substrates]] (straw, compost) to stimulate
-mushrooms that benefit from a surface interface. They give primordia more time
-to form in a high-humidity environment, help them avoid drying out, and can
-provide [[cannabis-rhizosphere-microbial-communities]] needed for fruiting. Casing is applied after
+Casing soils cover colonized [[cannabis-rhizosphere-microbial-communities]] needed for fruiting. Casing is applied after
 substrate colonization is complete to reduce competition from organisms.
 
 Most wood-decomposing mushrooms (shiitakes, oysters) do not require microbial
 interactions for fruiting, so casing is generally reserved for species that grow
-on [[comparison-wood-chip-mulch-vs-leaf-mold-vs-composted-manure-soil-building]], grasses, and agricultural wastes -- primarily terrestrial
-mushrooms in the wild.
-
-## Casing Soil Composition
-
-Common materials include [[query-what-is-the-difference-between-coco-coir-and-peat-moss]], coconut coir, vermiculite, perlite, sand,
+on [[query-what-is-the-difference-between-coco-coir-and-peat-moss]], coconut coir, vermiculite, perlite, sand,
 lime, and gypsum. A high-quality casing soil has:
 
 - High water retention
@@ -68,13 +60,7 @@ to benefit include:
 
 - Agaricus spp. (white button, portabella, almond portabella)
 - Lepiota spp. (parasol)
-- Stropharia spp. ([[cotter-king-stropharia-cultivation]])
-- Clitocybe spp. (blewits)
-- Morchella spp. (morels)
-
-### The Key Discovery
-
-Agaricus growers have found that [[sterilized-casing-soil-recipe-peat-vermiculite-limestone]] (all microbes
+- Stropharia spp. ([[sterilized-casing-soil-recipe-peat-vermiculite-limestone]] (all microbes
 destroyed) results in zero yields, while pasteurized casing soil almost always
 induces fruiting. The exact mechanism is still in question but must involve
 chemical or physical aspects signaling the mycelium to devote energy to
@@ -117,8 +103,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[dom]]
 - [[mycelium]]
-- [[growing-gourmet-casing-soils-mushroom-cultivation]]
 - [[fungal-competition-survival-contaminated-soils]]
 - [[capillary-action-in-soils]]

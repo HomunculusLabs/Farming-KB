@@ -64,59 +64,7 @@ The benefits of crop rotation extend far beyond simple nutrient management.
 A well-designed rotation addresses multiple dimensions of garden and farm
 health simultaneously, creating synergistic effects that compound over time.
 
-For those interested in understanding the relationship between [[comparison-companion-planting-vs-crop-rotation]], it's important to recognize that while companion planting focuses on spatial relationships (what grows together), rotation focuses on temporal relationships (what grows when). Both approaches work together to create resilient growing systems.
-
-Pest and disease disruption is perhaps the most immediate benefit. Many
-insect pests and soil-borne diseases are host-specific, meaning they depend
-on a continuous supply of their preferred crop to complete their life cycle.
-Colorado potato beetles, cabbage root maggots, carrot rust flies, and
-tomato hornworms all overwinter near where their host crop grew the
-previous season. By moving crop families to new locations each year, the
-rotation denies these organisms the host plants they need, dramatically
-reducing populations without any chemical intervention.
-
-Nutrient balancing works because different plant families have different
-nutrient demands and contributions. Legumes such as beans, peas, and
-clover fix atmospheric nitrogen through their symbiotic relationship with
-rhizobia bacteria, enriching the soil for subsequent heavy-feeding crops
-like brassicas or corn. Leafy crops are moderate feeders that draw on the
-residual nitrogen left by legumes. Root crops like carrots and potatoes are
-relatively light feeders that break up compacted soil layers, improving
-structure for the next rotation.
-
-Soil structure improvement comes from the diverse root architectures that
-different crop families bring. Deep-rooted crops like daikon radishes,
-comfrey, and certain cover crops penetrate compacted subsoil layers,
-creating channels for water infiltration and root growth of subsequent
-crops. Fibrous-rooted grasses and grains build soil aggregation through
-their dense network of fine roots. Taprooted crops like carrots and parsnips
-explore different soil horizons than shallow-rooted lettuce or onions.
-
-## Botanical Family Groups
-
-The foundation of any rotation system is grouping crops by botanical
-family, since related plants share similar pest profiles, disease
-susceptibilities, and nutrient requirements. Crops within the same family
-should never follow each other in a rotation, and ideally should be
-separated by at least three years.
-
-The Brassicaceae family includes cabbage, broccoli, cauliflower, kale,
-Brussels sprouts, radishes, turnips, kohlrabi, and mustard greens. These
-are generally heavy nitrogen feeders susceptible to clubroot, cabbage root
-maggot, and various fungal diseases. They are typically placed in the
-rotation immediately after legumes.
-
-The Solanaceae family encompasses tomatoes, peppers, eggplants, and
-potatoes. These are also heavy feeders and are vulnerable to soil-borne
-diseases including verticillium wilt, fusarium wilt, and various nematode
-species. A four-year rotation minimum is strongly recommended for this
-family in areas where soil-borne diseases are prevalent.
-
-The Fabaceae, or legume family, includes beans, peas, lentils, fava beans,
-clover, and vetch. These are the "givers" in rotation terminology, fixing
-nitrogen through rhizobial symbiosis. Their placement at the beginning of a
-rotation cycle enriches the soil for demanding crops that follow. This process
-is enhanced by practices like [[comparison-biochar-vs-compost]] which
+For those interested in understanding the relationship between [[comparison-biochar-vs-compost]] which
 can further improve soil fertility and structure when combined with legume-based rotations.
 
 The Apiaceae family covers carrots, parsnips, celery, celeriac, dill,
@@ -132,15 +80,10 @@ through a rotation cycle.
 
 ## See Also
 
-- [[cover-crops-and-green-manures]] for detailed cover crop selection and management
 - [[composting-and-soil-biology]] for building soil organic matter between rotation phases
-- [[no-till-farming-and-conservation-agriculture]] for rotation systems that minimize soil disturbance
 - [[companion-planting-and-polycultures]] for spatial crop combinations that complement temporal rotation
-- [[integrated-pest-management-ipm]] for comprehensive pest management strategies that build on rotation
 - [[permaculture-plant-guilds]] for multi-species plant communities in permaculture design
-- [[biointensive-gardening-and-minifarming]] for John Jeavons' detailed rotation and spacing system
 - [[fukuoka-natural-farming-philosophy]] for the natural farming critique of conventional rotation
-- [[mycorrhizal-fungi]] for the fungal ecology underlying successful rotation design
 - [[season-extension-techniques-and-protected-culture]] for extending the growing season
 - [[the-soil-food-web]] for understanding the biological processes that rotation supports
 ## References

@@ -15,9 +15,7 @@ Assessing microbial diversity in soil, compost, and  is critical for understandi
 
 Ingham emphasizes that diversity is "critically important" in compost tea and soil biology. Key relationships between diversity and function include:
 
-- **[[aact-disease-suppression-mechanisms-ingham]]**: Higher total [[query-what-is-the-difference-between-bacterial-and-fungal-dominant-soil]] biomass generally correlates with greater diversity, and both are needed for reliable [[cervantes-pest-disease-prevention-overview]].
-- **Nutrient cycling**: Diverse food webs ensure multiple nutrient pathways operate simultaneously, preventing nutrient lock-up.
-- **Soil structure**: Fungal diversity drives [[soil-aggregate-formation-fungal-contributions]] through glomalin and biological glues.
+- **[[query-what-is-the-difference-between-bacterial-and-fungal-dominant-soil]] biomass generally correlates with greater diversity, and both are needed for reliable [[soil-aggregate-formation-fungal-contributions]] through glomalin and biological glues.
 - **Resilience**: Diverse communities recover faster from disturbance.
 
 Good, healthy soil and compost contain approximately **25,000 unique DNA strands per gram**, reflecting immense biological complexity.
@@ -69,23 +67,7 @@ Ingham is sharply critical of plate count methods:
 - **Species boundaries**: Debate continues about how many base-pair differences define a species. Some pathogens differ from non-pathogens by only one base pair.
 - **Plasmid DNA**: Extrachromosomal material must be accounted for to avoid overcounting.
 - **Cost**: Equipment for probe replication and fluorescent excitation costs ~$190,000.
-- **Repeatability**: Significant problems remain with [[staycare-molecular-approaches-fungal-bioremediation]].
-- **Sample timing**: Samples must arrive within 12 hours because E. coli reproduces every 20-30 minutes.
-
-### E. coli DNA Testing
-
-DNA chips offer rapid pathogen detection but are currently limited to hospital labs due to cost. Chain-of-custody requires processing within 12 hours for valid evidence.
-
-## The SFI Assessment Framework
-
-### Tier 1: Direct Microscopy (Standard)
-
-Primary workhorse assessment at 400x magnification measuring:
-
-- Total and active bacteria/fungi biomass (µg/g)
-- Protozoa (flagellates, amoebae, ciliates)
-- Nematodes (bacterial-feeding, fungal-feeding, root-feeding, predatory)
-- [[arbuscular-mycorrhizal-colonization-patterns]] percentage
+- **Repeatability**: Significant problems remain with [[arbuscular-mycorrhizal-colonization-patterns]] percentage
 
 ### Tier 2: Beneficial Organism Assays
 
@@ -118,8 +100,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[ingham-soil-food-web-assessment-methods]]
 - [[ingham-field-guide-soil-food-web-assessment]]
-- [[dom]]
 - [[det]]
 - [[soma]]

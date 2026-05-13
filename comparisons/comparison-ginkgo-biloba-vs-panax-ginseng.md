@@ -20,32 +20,6 @@ interchangeable in clinical practice.
 
 ## Ginkgo biloba
 
-[[ginkgo-biloba]]
-
-Ginkgo biloba stands as a botanical anomaly—a living fossil with no close
-living relatives, representing the sole surviving species of the division
-Ginkgophyta that has remained essentially unchanged for over 270 million years.
-This ancient gymnosperm produces leaves containing a unique complex of
-flavonoid glycosides and terpene lactones that have become one of the
-best-studied herbal formulations globally. The tree's remarkable resilience—
-demonstrated by specimens surviving the atomic bombing of Hiroshima—mirrors
-the neuroprotective and circulatory-enhancing properties that have made its
-extract a staple of cognitive health formulations.
-
-The ginkgo tree is dioecious, with male and female reproductive structures
-occurring on separate trees, and can reach heights of 20-35 meters while
-potentially living for over 2,500 years. Its distinctive fan-shaped leaves with
-dichotomous venation represent a primitive morphological trait shared with
-fossil ferns, reflecting its ancient evolutionary lineage. Modern medicinal use
-focuses almost exclusively on standardized leaf extracts (typically EGb 761),
-concentrating two primary classes of active compounds: flavonoid glycosides
-(approximately 24%) and terpene lactones including ginkgolides and bilobalide
-(approximately 6%). The primary mechanism of action involves improved cerebral
-and peripheral circulation, potent antioxidant activity, and modulation of
-neurotransmitter systems.
-
-## Panax ginseng
-
 [[panax-ginseng]]
 
 Panax ginseng, known as Korean or Asian ginseng, represents an entirely
@@ -138,8 +112,6 @@ pregnancy without professional supervision.
 
 ## See Also
 
-- [[comparison-ashwagandha-vs-rhodiola-cultivation]]
 - [[comparison-ashwagandha-vs-tulsi]]
-- [[bill-mollison-permaculture-a-designers-manual-animal-systems-in-permaculture]]
 - [[herbal-medicine-preparation-methods]]
 - [[cannabis-root-medicine-historical-modern-perspectives]]

@@ -4,20 +4,12 @@
 Ayahuasca contains monoamine oxidase inhibitors (MAOIs) that can produce dangerous or
 fatal interactions with a wide range of common pharmaceutical medications. These
 interactions represent the most serious medical risk associated with ayahuasca use, and
-they are particularly concerning in the context of [[psychotria-viridis]], which
-provides the psychedelic compound DMT). The caapi vine contains three key [[ayahuasca-ceremony-practices]] in Bolivia. The patient was sufficiently healthy to dance at the
+they are particularly concerning in the context of [[ayahuasca-ceremony-practices]] in Bolivia. The patient was sufficiently healthy to dance at the
 beginning of the ceremony but died during the session. While the exact mechanism was
 not confirmed, antiretroviral medications used to treat HIV/AIDS can have complex
 pharmacological interactions with MAOIs, potentially affecting drug metabolism through
-[[health-risks-of-hallucinogenic-mushrooms]].
+[[ayahuasca-pharmacology-maoi-interactions]]
 
-## Recommendations for Prospective Participants
-
-Anyone considering ayahuasca should take the following precautions:
-
-- Consult a physician knowledgeable about [[ayahuasca-pharmacology-maoi-interactions]]
-
-- [[ayahuasca-tourism-in-peru]]
 - [[banisteriopsis-caapi]]
 - Serotonin Syndrome
 ## Practical Applications
@@ -97,8 +89,6 @@ through generations to modern scientific approaches, the evolution continues
 to inform current best practices and research directions.
 
 ## See Also
-- [[ayahuasca]]
 - [[doc]]
-- [[det]]
 - [[dmt]]
 - [[serotonin]]

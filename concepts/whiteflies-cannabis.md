@@ -9,27 +9,12 @@ sources:
 
 # Whiteflies on Cannabis
 
-Whiteflies are small, white, moth-like insects that attack cannabis plants by sucking sap from foliage. Though less common than [[spider-mites-cannabis]]:
-
-- **Stippling**: White speckles appear on the tops of leaves as chlorophyll is destroyed
-- **Chlorophyll loss**: Loss of chlorophyll production as infestation progresses, causing leaves to yellow
-- **Vigor decline**: Overall plant vigor diminishes as sap is continuously extracted
-- **Honeydew**: Like aphids, whiteflies excrete sticky honeydew that attracts ants and encourages sooty mold growth
-- **Sooty mold**: A black fungus that grows on honeydew deposits, further reducing photosynthesis
-- **Leaf yellowing and drop**: Severely affected leaves may yellow and fall prematurely
-- **Reduced yield**: Heavy infestations during flowering can significantly reduce bud development
-
-The honeydew-sooty mold complex is particularly damaging because it creates a cascading problem: whiteflies produce honeydew, which supports sooty mold growth, which further blocks photosynthesis and weakens the plant.
-
-## Cultural and Physical Control
-
-- **Yellow [[cervantes-sticky-traps-pest-monitoring]]**: Adults are strongly attracted to the color yellow. Cover a bright yellow object with a sticky substance like Tanglefoot and place among plants. Traps work very well — when full, toss them out and replace. Place traps on the tops of pots among the plants for maximum effectiveness
+Whiteflies are small, white, moth-like insects that attack cannabis plants by sucking sap from foliage. Though less common than [[cervantes-sticky-traps-pest-monitoring]]**: Adults are strongly attracted to the color yellow. Cover a bright yellow object with a sticky substance like Tanglefoot and place among plants. Traps work very well — when full, toss them out and replace. Place traps on the tops of pots among the plants for maximum effectiveness
 - **Manual removal**: Difficult because whiteflies fly away when disturbed; vacuuming adults in early morning when they are sluggish can help
-- **Cleanliness**: Sanitation is the foundation of [[spider-mites-cannabis]] — most common [[cannabis-disease-pest-resistance-breeding-clarke]] with similar damage
+- **Cleanliness**: Sanitation is the foundation of [[cannabis-disease-pest-resistance-breeding-clarke]] with similar damage
 - aphids-cannabis|Aphids — another sap-sucking pest that produces honeydew
 - thrips-cannabis|Thrips — small flying pest with similar behavior
 - gaias-garden-host-plants-beneficial-insects — Encarsia formosa and other biocontrols
-- [[teaming-with-microbes-plant-control]]
 - [[fukuoka-vegetable-growing-natural-method]]
 ## Practical Applications
 
@@ -88,3 +73,78 @@ Learning from both successes and failures is essential for continuous
 improvement. Maintaining records of observations, interventions, and
 outcomes creates a valuable knowledge base that supports progressively
 better results with each iteration of practice and experimentation.
+
+## Overview
+
+Whiteflies Cannabis represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish whiteflies cannabis
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving whiteflies extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Whiteflies Cannabis finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for whiteflies cannabis. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+whiteflies cannabis and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Whiteflies Cannabis has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of whiteflies cannabis into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and

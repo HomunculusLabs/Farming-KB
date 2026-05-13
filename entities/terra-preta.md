@@ -23,14 +23,7 @@ created: 2026-04-28
 
 Terra preta (Portuguese for "black soil"), also known as Amazonian Dark Earth (ADE), is a class of anthropogenic soils found predominantly in the Amazon Basin.
 
-These highly fertile, carbon-rich soils were created by pre-Columbian indigenous populations through deliberate amendment of naturally poor [[mollison-designers-tropical-soils-and-cation-exchange-management]] with charcoal, organic waste, bone, and pottery sherds over periods spanning centuries to millennia.
-
-Terra preta soils are of intense scientific interest due to their exceptional fertility in a region characterized by some of the most nutrient-poor soils on Earth. They represent one of the few documented examples of large-scale, sustainable soil improvement in the humid tropics, and serve as the primary inspiration for modern [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]] principles, [[dynamic-accumulators]] integration represents a comprehensive approach to carbon-negative agriculture. Integration with [[hugelkultur]] beds for biomass recycling further enhances the [[mycorrhizal-fungi-soil-carbon-sequestration-by-type]] potential of biochar-based agricultural systems.
-
-## See Also
-
-- [[dynamic-accumulators]]
-- [[hugelkultur]]
+These highly fertile, carbon-rich soils were created by pre-Columbian indigenous populations through deliberate amendment of naturally poor [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]] principles, [[hugelkultur]] beds for biomass recycling further enhances the [[dynamic-accumulators]]
 - [[sheet-mulching]]
 - [[swale]]
 ## Practical Applications

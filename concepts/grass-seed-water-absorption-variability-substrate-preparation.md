@@ -4,24 +4,13 @@
 
 Water absorption variability is one of the most critical yet frequently underestimated challenges in grass seed-based , affecting substrate quality  consistency.
 
-Different grass seed varieties, and even different batches of the same variety, absorb water at markedly different rates, which directly impacts [[pf-tek-substrate-moisture-diagnosis-and-correction]] content and determines cultivation success or failure.
-
-Understanding and managing this variability is essential for producing consistent, high-yielding substrates across multiple grows using the standard jar-based methodology described in the  n-mushroom-cultivation-guide.
-
-The guide covers cultivation of fruitbodies and sclerotia on sterilised grass seed for species including , , [[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]], and Psilocybe subbalteatus.
+Different grass seed varieties, and even different batches of the same variety, absorb water at markedly different rates, which directly impacts [[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]], and Psilocybe subbalteatus.
 
 ## The Standard 110g/180ml Ratio as a Starting Point
 
-The exotic cultivation guid  ine ratio of 110 grams of grass seed combined with 180 millilitres of water per 720ml jar as a reliable starting point for [[cotter-compost-substrate-preparation-manure-mushroom-cultivation]].
+The exotic cultivation guid  ine ratio of 110 grams of grass seed combined with 180 millilitres of water per 720ml jar as a reliable starting point for [[query-how-to-make-agar-plates-for-mushroom-cultivation]] on sterilised grain substrates.
 
-This ratio has been validated across numerous successful grows and provides a reasonable moisture content for the most commonly used grass seed types, particularly perennial rye grass (Lolium perenne).
-
-However, it is critically important to understand that this ratio is a guideline rather than an absolute formula, and cultivators must be prepared to adjust water volumes based on the specific absorption characteristics of their seed.
-
-The guide's authors arrived at this ratio through extensive experimentation, and it represents a balanced compromise [[query-how-to-make-agar-plates-for-mushroom-cultivation]] on sterilised grain substrates.
-
-Rye grass has a well-characterised water absorption profile that is relatively consistent across different suppliers [[water-absorption-variability-grass-seed-substrate-preparation]]
-- [[grass-seed-water-absorption-and-moisture-calibration]]
+Rye grass has a well-characterised water absorption profile that is relatively consistent across different suppliers [[grass-seed-water-absorption-and-moisture-calibration]]
 - grass-seed-substrate-cultivation-psilocybe
 ## Practical Applications
 
@@ -97,8 +86,6 @@ through generations to modern scientific approaches, the evolution continues
 to inform current best practices and research directions.
 
 ## See Also
-- [[water-absorption-variability-grass-seed-substrate-preparation]]
 - [[substrate-preparation]]
-- [[grass-seed-substrate-water-absorption-variability-and-calibration]]
 - [[substrate-consistency-water-absorption-grass-seed]]
 - [[doc]]

@@ -13,17 +13,9 @@ type: concept
 # Citrus Orchard Soil Building Without Fertilizer
 
 Fukuoka's approach to restoring and maintaining soil fertility in citrus orchards
-relies entirely on natural processes: [[query-what-is-biofumigation-and-how-does-it-work]], [[coleman-mobile-greenhouse-green-manure-soil-building]] trees, and the
+relies entirely on natural processes: [[coleman-mobile-greenhouse-green-manure-soil-building]] trees, and the
 self-enriching capacity of living soil. His decades of experience demonstrated
-that [[cervantes-chemical-fertilizers-guide]] are not only unnecessary but actively harmful to the
-long-term productivity and health of orchard ecosystems.
-
-## The Problem with Depleted Orchard Soil
-
-When Fukuoka returned to his father's citrus orchard after World War II, the
-topsoil had been completely washed away, leaving only red clay. Passive efforts
-to restore the old trees through heavy fertilization, root-grafting, and blossom
-thinning would have only accelerated their decline. Planting new [[fukuoka-natural-seedlings-versus-grafted-nursery-stock]]
+that [[fukuoka-natural-seedlings-versus-grafted-nursery-stock]]
 in such depleted soil would have fared no better.
 
 His financial analysis of the orchard proved revealing: the first thirteen years
@@ -35,20 +27,14 @@ citrus crops and growing wealth, the orchard soil was being steadily depleted.
 
 ## The Ground Cover Strategy
 
-Fukuoka set out to raise [[comparison-grafting-vs-budding-fruit-trees]] that grow as the soil enriches, making
-cover [[comparison-cacao-vs-black-pepper-tropical-crop-cultivation]] the central pillar of his soil management approach. He
+Fukuoka set out to raise [[comparison-cacao-vs-black-pepper-tropical-crop-cultivation]] the central pillar of his soil management approach. He
 planted seeds of thirty legumes, crucifers, and grasses throughout the orchard.
 From observations of these trials, he concluded that a weed cover using ladino
 clover as the primary crop, with alfalfa, lupine, and bur clover as secondary
 crops, was the most effective combination.
 
 For conditioning deeper soil strata in the hard, depleted ground, he
-companion-planted fertilizer trees such as [[fukuoka-black-wattle-fertilizer-tree-method]], myrtle, and podocarpus
-alongside the fruit trees.
-
-## Ladino Clover: Properties and Management
-
-Ladino clover proved to be the ideal [[fukuoka-natural-orchard-ground-cover-system]] cover for several reasons:
+companion-planted fertilizer trees such as [[fukuoka-natural-orchard-ground-cover-system]] cover for several reasons:
 it eliminates weeds within two to three years, improves soil to a depth of
 sixteen to eighteen inches, does not need to be resown for six to eight years,
 does not compete strongly with fruit trees for moisture or nutrients, and
@@ -72,10 +58,7 @@ The black wattle tree served as Fukuoka's primary tool for deep soil
 reclamation. Five to six years after planting, an area of more than one
 hundred square yards around each tree had transformed from hard, lean soil
 into soft, porous earth. This was far more effective than blasting with
-dynamite and burying [[hamilton-composting-and-organic-matter-management]]. When cut, each tree provided up to a
-half-ton of high-quality organic material for trench composting.
-
-The black wattle also functions as a protective tree for [[comparison-beneficial-insects-guide-vs-integrated-pest-management]].
+dynamite and burying [[comparison-beneficial-insects-guide-vs-integrated-pest-management]].
 Its constant year-round growth of new shoots attracts aphids and scales, which
 in turn sustain growing populations of ladybugs. Planting five or so black
 wattles per quarter-acre keeps scales and mites to a minimum.
@@ -118,8 +101,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[fukuoka-orchard-soil-building-without-fertilizers]]
 - [[fukuoka-textdoc-vegetable-weed-family-replacement-orchard-soil-building]]
-- [[fukuoka-textdoc-citrus-orchard-soil-rehabilitation-timeline]]
 - [[doc]]
 - [[dom]]

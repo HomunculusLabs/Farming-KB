@@ -108,13 +108,8 @@ Sustainable alternatives to xaxim have been developed, including coconut fiber a
 
 ## See Also
 
-- [[dicksonia-antarctica]]
 - [[dicksonia-squarrosa]]
-- [[dicksonia-fibrosa]]
 - [[cibotium-barometz]]
-- [[cyathea-cooperi]]
 - [[cyathea-medullaris]]
-- [[blechnum-spicant]]
 - [[polystichum-acrostichoides]]
-- [[pteridium-aquilinum]]
 - [[dryopteris-filix-mas]]

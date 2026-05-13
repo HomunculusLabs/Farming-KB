@@ -11,33 +11,22 @@ type: query
 # How to Grow Potatoes Organically?
 
 ## Short Answer
-Growing potatoes organically requires attention to soil preparation, seed potato selection, proper hilling techniques, and vigilant [[plant-disease-management-solomon]] without synthetic chemicals.
-Potatoes are heavy feeders that benefit from deep, loose soil amended with plenty of [[coleman-compost-and-organic-fertility-management]] matter for optimal tuber production.
+Growing potatoes organically requires attention to soil preparation, seed potato selection, proper hilling techniques, and vigilant [[coleman-compost-and-organic-fertility-management]] matter for optimal tuber production.
 The biggest threat to organic potato production is late blight, which can be managed through resistant varieties, proper spacing, good airflow, and copper-based sprays approved for organic use.
 
 ## Detailed Explanation
 
 Potatoes are one of the most rewarding crops for home gardeners, producing a large caloric yield from relatively small garden space.
 They belong to the nightshade family (Solanaceae) and are native to the Andes Mountains of South America, where they have been cultivated for thousands of years.
-In an organic system, potato production focuses on building healthy soil, selecting disease-free seed stock, and managing [[query-how-to-manage-pests-and-diseases-in-mushroom-cultivation]] through cultural practices rather than chemical inputs.
-The [[growing-potatoes-organically]] approach emphasizes beginning with proper [[azurescens-outdoor-bed-preparation-woodchips]] months before planting.
-
-Soil preparation is the foundation of successful [[hamilton-potato-growing-organic]] in any garden setting.
+In an organic system, potato production focuses on building healthy soil, selecting disease-free seed stock, and managing [[growing-potatoes-organically]] approach emphasizes beginning with proper [[hamilton-potato-growing-organic]] in any garden setting.
 Potatoes thrive in loose, well-drained soil with a pH between 5.0 and 6.5, which is slightly more acidic than many garden vegetables prefer.
 The slightly acidic environment helps suppress certain soil-borne diseases that affect potato crops.
 Before planting, work generous amounts of finished compost or well-rotted manure into the top six to eight inches of soil.
 Potatoes are heavy feeders, particularly of potassium and phosphorus, so incorporating organic sources such as rock phosphate and greensand can significantly improve yields.
-The [[jeavons-potato-growing]], which covers spacing, bed preparation, and yield optimization techniques.
-
-Planting depth and spacing depend on the growing method you choose for your particular garden situation.
-Traditional hilling involves planting seed pieces four inches deep and mounding soil around the stems as the plants grow, eventually creating hills twelve or more inches tall.
-This hilling process protects developing tubers from sunlight exposure, which causes greening and solanine production, increases the volume of soil for tuber formation, and helps control weeds.
-Alternatively, potatoes can be grown in raised beds, containers, straw mulch, or even wire cylinders filled with straw and compost for easier harvesting.
 The [[bloomfield-potato-blight-phytophthora-infestans]] reference provides detailed identification information and organic management protocols for late blight and other potato diseases.
 
 Crop rotation is essential for preventing the buildup of soil-borne diseases and should ideally follow a four-year rotation that keeps potatoes and other nightshades out of the same ground.
-The [[query-how-do-i-grow-tomatoes-organically]] Questions
-- [[query-what-is-the-difference-between-perlite-and-vermiculite]]
+The [[query-what-is-the-difference-between-perlite-and-vermiculite]]
 ## Practical Considerations
 
 When working with How to Grow Potatoes Organically?, several practical factors should be

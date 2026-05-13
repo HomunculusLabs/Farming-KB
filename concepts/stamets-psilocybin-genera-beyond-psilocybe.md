@@ -34,9 +34,7 @@ misidentification with these genera is significant enough to warrant
 extreme caution. Many species in these genera contain amatoxins or
 
 ## See Also
-- [[hypholoma-pluteus-inocybe-conocybe-genera]]
 - [[allen-gymnopilus-and-other-psychoactive-genera]]
-- [[stamets-psylo-good-tips-great-trips]]
 - [[guzman-allen-gartz-gymnopilus-pluteus-neurotropic-genera]]
 
 ## Merged: Minor Psilocybin Genera - Conocybe and Gymnopilus

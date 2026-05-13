@@ -11,11 +11,7 @@ sources:
 
 ## Overview
 
-Anaerobic fermentation (cutting off oxygen) is the cornerstone principle of JADAM's input-making philosophy. Youngsang Cho argues that the modern [[coleman-deep-organic-farming-philosophy]] movement made a fundamental error by adopting aerobic fermentation (using air pumps) as the standard, when anaerobic processes actually preserve nutrients far better and require no machinery.
-
-## The Nutritional Perspective
-
-JADAM's key insight: farm inputs should be evaluated primarily from a nutritional perspective. Just as a mother prepares food for her child, [[cho-natural-farming-inputs-overview]] are food prepared for crops. The most important question is: how rich is the input in nutrients, and in what balance?
+Anaerobic fermentation (cutting off oxygen) is the cornerstone principle of JADAM's input-making philosophy. Youngsang Cho argues that the modern [[cho-natural-farming-inputs-overview]] are food prepared for crops. The most important question is: how rich is the input in nutrients, and in what balance?
 
 From nutritional science, the three biggest destroyers of nutrients are:
 1. Sunlight
@@ -50,29 +46,9 @@ JADAM's practical approach for solid fertilizer:
 2. Fill gunnysacks with wild grass, leaves, and sawdust as main ingredients
 3. Add food waste, livestock manure, fish waste, etc.
 4. Pile gunnysacks in about six layers on the pallet
-5. Apply generous [[jadam-making-organic-farming-inputs]] -- the broader input-making philosophy
-- [[jadam-liquid-fertilizer]] -- the [[cannabis-nutrient-solution-preparation]]
-- [[jadam-rejection-of-sugar-molasses]] and molasses -- why JADAM rejects common fermentation additives
-- [[jadam-leaf-mold-soil-method]]
+5. Apply generous [[jadam-liquid-fertilizer]] -- the [[jadam-rejection-of-sugar-molasses]] and molasses -- why JADAM rejects common fermentation additives
 - [[jadam-wild-grass-liquid-fertilizer]]
-- [[jadam-cover-crop-wild-grass-symbiosis]]
-## Practical Considerations
-
-When working with JADAM Anaerobic Fermentation, several practical factors should be
-carefully considered to achieve optimal results. These include
-the specific conditions of the implementation context, available
-resources, timing requirements, and the interactions between this
-topic and other elements of the broader system. A holistic view
-that considers these interconnections produces better outcomes.
-
-Environmental conditions such as temperature, moisture, and
-seasonal patterns significantly influence results. Monitoring these
-variables and adapting practices accordingly is essential for success.
-The most effective practitioners develop keen observation skills and
-respond flexibly to changing conditions rather than following rigid
-protocols regardless of circumstances or local variation.
-
-[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
+- [[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -111,8 +87,6 @@ through generations to modern scientific approaches, the evolution continues
 to inform current best practices and research directions.
 
 ## See Also
-- [[youngsang-cho]]
 - [[lactobacillus]]
-- [[jadam-anaerobic-fermentation-principles]]
 - [[anaerobic-rumen-fungi-biology-herbivore-digestion]]
 - [[ingham-dissolved-oxygen-anaerobic-aact-brewing-management]]

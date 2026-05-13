@@ -56,11 +56,7 @@ The species is locally common in suitable habitat but can be absent from interve
 
 Disjunct populations occur in the Olympic Mountains of Washington, isolated from the main Cascade Range populations.
 
-In the southern Rocky Mountains, it is replaced by the closely related [[gentiana-parryi]] at similar elevations.
-
-## Ecology
-
-Gentiana calycosa flowers late in [[query-how-to-protect-plants-from-frost-and-extend-the-growing-season]], providing nectar for bumblebees (Bombus spp.) when few other alpine plants are blooming.
+In the southern Rocky Mountains, it is replaced by the closely related [[query-how-to-protect-plants-from-frost-and-extend-the-growing-season]], providing nectar for bumblebees (Bombus spp.) when few other alpine plants are blooming.
 
 The deep corolla tube restricts pollination access to long-tongued bees and bee flies.
 
@@ -68,9 +64,7 @@ Seed dispersal is by wind, with small winged seeds released from capsules in ear
 
 The species functions as a moisture indicator in alpine plant communities.
 
-It commonly associates with Veronica wormskjoldii, [[pedicularis-groenlandica]], and Caltha leptosepala in wet subalpine meadows.
-
-[[plants-without-mycorrhizal-associations]] with arbuscular fungi enhance phosphorus uptake in nutrient-poor alpine soils.
+It commonly associates with Veronica wormskjoldii, [[plants-without-mycorrhizal-associations]] with arbuscular fungi enhance phosphorus uptake in nutrient-poor alpine soils.
 
 ## Cultivation
 

@@ -6,59 +6,7 @@ type: concept
 
 # Soil Structure and Classification
 
-Understanding soil structure and classification is fundamental to [[permaculture-design]]. Soils are complex, living systems whose physical properties determine their suitability for agriculture, building, water storage, and ecological function.
-
-## Tribal and Traditional Soil Classifications
-
-Long before modern soil science, tribal and traditional peoples developed sophisticated systems for classifying their soils based on practical, observable characteristics. From *The Ecologist* 14(4), 1984, these classifications considered:
-
-### Visual and Textural Properties
-- **Colour** — indicates humus content; darker soils generally have higher organic matter
-- **Sand content** — affects drainage, water retention, and workability
-- **General texture** — the overall feel and behaviour of soil (sandy, loamy, clayey)
-- **Firmness** — resistance to penetration, related to compaction and clay content
-- **Structure in dry seasons** — how soil behaves when moisture is scarce
-- **Structure in wet seasons** — how soil behaves when saturated; drainage behaviour
-- **Organic content** — assessed apart from colour, indicating fertility potential
-
-### Hydrological Properties
-- **Moisture capacity** — how much water soil can hold
-- **Water retention** — how long soil holds available water for plants
-- **Drainage** — rate at which water moves through the soil profile
-
-### Biological Indicators
-- **Vegetative indicators** — "health" of specific crops as a soil quality proxy
-- **Plant indicators** — specific plants indicating acidity, drainage, or fertility conditions
-- **Animal indicators** — termite mound shape and size as indicators of soil properties
-
-### Topographic Factors
-- **Slope** — affects erosion risk, drainage, and microclimate
-- **Elevation** — influences temperature, rainfall, and vegetation zones
-- **Catena** — soil types based on slope relationships (a sequence of soils down a hillslope)
-
-### Functional Properties
-- **"Hot" and "cold" soils** — relative fertility classifications (not temperature); can also indicate water retention characteristics
-- **Usage** — suitability for pigments, pottery, salt extraction from reeds
-- **Work needed for crop** — an energy input classification, measuring the effort required for cultivation
-- **Suitability for specific crops** — soils ranked for up to twelve crop types (e.g., "yam soil," "taro soil"), creating complex multi-dimensional classifications
-
-### Chemical Properties
-- **Taste** — agrees with modern pH measures; alkaline soils taste soapy, acidic soils sour
-
-Modern classifications are more complex in nomenclature and physical categories, using standard colour charts (Munsell and others), standard comparisons, and standard sieves — but the traditional systems encode remarkably practical knowledge.
-
-## The Structure of Soils
-
-Soil is a complex material with enough plasticity (from clay) or glue and fibre (from organic sources) that it can be pressed or compacted into mudbricks, hard pisé, or baked to clay or stoneware. In any of these compacted forms, it is of little use to plants.
-
-### Compacted vs. Uncompacted Soils
-
-Uncompacted soils are open, crumbly, or soft — unless concreted by chemical solutes or compacted by ploughs, hooves, or traffic. Crumbly soils have a definite structure: soil particles form **nodules or clumps** held together by:
-
-- Roots (living and decaying)
-- Clay minerals
-- Chemical bonds
-- Organic glues and [[fungal-hyphae]]
+Understanding soil structure and classification is fundamental to [[fungal-hyphae]]
 
 When a plough or drag harrow passes through these fragile assemblies, they may powder up — as in a potter's ballmill or on outback roads ("bulldust" in Australian terms, or "snuff" to a soil scientist). Dryland soils with high salt content are particularly susceptible to loss of crumb structure, only partly relieved by gypsum application.
 
@@ -116,6 +64,87 @@ Soil crumb structure, aided by lime (calcium), bonds the different fractions tog
 The USDA classifies soil types by particle size ratios (the soil texture triangle), plotting the percentages of sand, silt, and clay to determine textural classes such as sandy loam, clay loam, silty clay, and so on. This standardised system allows consistent communication about soil properties across regions and disciplines.
 
 ## See Also
-- [[soil-classification-and-structure]]
 - [[tribal-soil-classification-and-structure]]
 - [[mollison-tribal-soil-classifications-and-soil-structure]]
+
+## Overview
+
+Soil Structure Classification represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish soil structure classification
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving soil extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Soil Structure Classification finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for soil structure classification. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+soil structure classification and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Soil Structure Classification has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of soil structure classification into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[cool-temperate-soil-characteristics]]
+- [[jeavons-soil-ph-testing-balancing]]

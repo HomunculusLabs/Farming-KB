@@ -6,15 +6,7 @@ type: concept
 
 # Hashish Preparation and Cannabis Consumption Methods
 
-In *Cannabis Alchemy*, Ben Lemon details practical techniques for converting cannabis extracts into traditional hashish forms, potentiating raw plant material, and delivering concentrated cannabinoids through various consumption methods. These methods draw on historical practices from Morocco, Lebanon, Nepal, and India while incorporating modern [[mushroom-polysaccharide-extraction-chemistry]].
-
-## Hashish from Extracted Oil and Powdered Marijuana
-
-The foundational technique involves blending cannabis extraction oil back into powdered marijuana to produce hashish of controlled potency and texture. This process allows the alchemist to produce material ranging from mildly enhanced cannabis to extremely potent preparations rivaling the finest imported hashish.
-
-### Powdering the Marijuana
-
-The process begins by reducing dried marijuana to a fine powder using a blender or similar grinding device. The particle size must be small enough to absorb the oil evenly throughout the matrix. The quality and cannabinoid content of the [[shirota-4-hydroxyindole-acetyl-protection-psilocin-synthesis-starting-material]] matters less than with traditional methods since potency is primarily determined by the added oil.
+In *Cannabis Alchemy*, [[ben-lemon]] details practical techniques for converting cannabis extracts into traditional hashish forms, potentiating raw plant material, and delivering concentrated cannabinoids through various consumption methods. These methods draw on historical practices from Morocco, Lebanon, Nepal, and India while incorporating modern [[shirota-4-hydroxyindole-acetyl-protection-psilocin-synthesis-starting-material]] matters less than with traditional methods since potency is primarily determined by the added oil.
 
 ### Leaching Undesirable Compounds
 
@@ -60,67 +52,7 @@ For production consistency, the hashish can be pressed into molds or hydraulic p
 
 ## Potentiation of Intact Marijuana Flowers
 
-Beyond making hashish, Lemon describes a technique for increasing the potency of whole marijuana flowers without grinding them. This method preserves the visual appearance and handling characteristics of bud while dramatically increasing [[cannabinoid-concentration-endorhiza-microbiome-correlation-cannabis]].
-
-### The Cheesecloth Bag Method
-
-The process involves placing intact marijuana flowers inside a cheesecloth bag and saturating them with concentrated cannabis oil. The flowers are then allowed to absorb the oil over a period of time, effectively reconstituting them with a higher THC content than they originally contained.
-
-### Alcohol Saturation Reabsorption
-
-A refinement uses alcohol as a carrier solvent. The flowers are soaked in a solution of cannabis oil dissolved in alcohol, then the alcohol is slowly evaporated. As the alcohol evaporates, it leaves behind the oil, which is gradually absorbed into the plant tissue. This produces flowers that appear normal but contain significantly elevated cannabinoid levels. The result is particularly effective when the starting material is lower-grade cannabis.
-
-## Oral Ingestion: Oil Capsules
-
-For non-smoking consumption, cannabis oil can be prepared for oral ingestion. Lemon recommends mixing the oil with butter to improve bioavailability, since cannabinoids are lipophilic and absorb more efficiently when dissolved in dietary fat.
-
-### Capsule Preparation
-
-- The cannabis oil is blended with softened butter in a warm water bath
-- The mixture is drawn into empty gelatin capsules using a dropper or syringe
-- Capsules are refrigerated to solidify the butter and prevent leakage
-
-### Dosage Considerations
-
-Oral ingestion produces significantly different effects than inhalation:
-
-- **Onset:** 30–90 minutes (compared to seconds for smoking)
-- **Duration:** 4–8 hours (compared to 2–3 hours for smoking)
-- **Metabolism:** THC is converted to 11-hydroxy-THC in the liver, which is more psychoactive and crosses the blood-brain barrier more readily
-
-Accurate dosing requires careful measurement, as the delayed onset makes it easy to overconsume.
-
-## Smoking and Vaporization Methods
-
-### Direct Vaporization
-
-The concentrated oil can be vaporized directly without combustion, reducing exposure to pyrolytic byproducts:
-
-- **Glass oil pipe:** A specialized pipe with a heated glass element or metal screen onto which a small amount of oil is placed. Heat is applied from below, vaporizing the cannabinoids without igniting the plant material
-- **Aluminum foil method:** Oil is spotted onto aluminum foil, and heat is applied from beneath while the vapor is drawn through a tube (often called "chasing the dragon"). This technique provides direct vaporization with minimal equipment
-
-### Reefers (Oil-Impregnated Joints)
-
-Reefers are cannabis joints that have been impregnated with hashish oil. The preparation involves:
-
-1. Rolling a standard joint from marijuana
-2. Running a bead of warm cannabis oil along the length of the joint
-3. Allowing the oil to soak into the rolling paper and inner plant material
-
-When smoked, the oil creates a slow, even burn and produces a significantly more potent experience than a standard joint. The technique was popularized during the 1960s and 1970s counterculture and remains a classic method of enhancing ordinary cannabis.
-
-## Translucent Honey Oil Production
-
-Among the most refined preparations described is the production of translucent or "honey" oil — a nearly colorless, amber-tinted extract that represents the highest level of purification achievable through solvent extraction.
-
-### Activated Charcoal Filtration
-
-The key to producing honey oil is the removal of pigments, waxes, and other non-cannabinoid compounds through activated charcoal treatment:
-
-1. The crude cannabis extract is dissolved in a suitable solvent (typically alcohol or petroleum ether)
-2. The solution is passed through a column packed with activated charcoal
-3. The charcoal selectively adsorbs chlorophyll, carotenoids, and other colored impurities while allowing the cannabinoids to pass through
-4. The purified solution is collected and the solvent is evaporated under [[psilocybe-cubensis-strain-potency-variability-controlled-conditions-bigwood-beug]]
+Beyond making hashish, Lemon describes a technique for increasing the potency of whole marijuana flowers without grinding them. This method preserves the visual appearance and handling characteristics of bud while dramatically increasing [[psilocybe-cubensis-strain-potency-variability-controlled-conditions-bigwood-beug]]
 
 The resulting oil is translucent and golden-amber, with a potency that reflects nearly pure cannabinoid content. This material represents a significant step beyond standard extractions and approaches the purity of modern distillate products.
 

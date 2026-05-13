@@ -7,16 +7,13 @@ tags: [cultivation, mycology, technique]
 sources:
   - "Indoor duggar-mushroom-growing-history-and-methods Technique for the Boil-A-Bag by D H Jarrold"
 ---
-# Jarrold Boil-a-Bag [[mushroom-cultivation]] method developed by D.H. Jarrold. It uses heat-resistant plastic bags as both the [[spore-print]] to harvest.
+# Jarrold Boil-a-Bag [[spore-print]] to harvest.
 
 ## Equipment Required
 
 ### Essential Items
 - **Boil-a-Bags**: Heat-resistant plastic bags (20cm x 30cm / 8" x 12") that withstand pressure cooking and microwaving. Lakeland Plastics brand was specified
-- **[[double-layer-tinfoil-jar-covering-pressure-cooker-method]]**: For substrate sterilisation at 15 psi
-- **Syringe and needle**: Standard syringe; a long needle can be fabricated from stainless steel tubing inserted into the needle holder
-- **Spore print**: In a glass jar with metal screw lid
-- **Propyl alcohol**: For [[microwave-trace-water-surface-sterilisation-protocol]]
+- **[[microwave-trace-water-surface-sterilisation-protocol]]
 - **Spirit burner**: With methylated spirits for flame sterilisation
 - **Pyrex glass container**: For sterile water preparation
 - **Cotton wool buds**: For alcohol swabbing
@@ -26,37 +23,17 @@ sources:
 
 ## Step 1: Making the Filter Can
 
-The filter can provides [[mushroom-cultivation-jar-lid-management-loose-fit-vacuum-gas-exchange]] during colonisation while preventing contamination:
-
-1. Obtain a clean 3-4 inch round food can — open it leaving the lid attached by about 1 inch to serve as a closable lid
-2. Punch holes throughout the bottom with a hammer and nail for airflow
-3. Line the inside bottom with ~1 cm of rock wool (or loft insulation fibreglass)
-4. Fill the can with vermiculite to within 1 cm of the top (alternatively, use small pieces of rockwool instead of vermiculite)
-5. Top with a thin layer of rock wool to hold everything in place
-6. Close the lid when ready for use
-
-The filter can sits inside the open top of each bag, creating a sterile breathing pathway.
-
-## Step 2: Preparing the Straw Substrate
-
-### Straw Preparation
-1. Chop straw to 3-10 cm lengths (pre-cut straw is available from pet stores)
-2. Place straw in a large watertight container
-
-### Marmite Solution
-3. Dissolve one heaped tablespoon of Marmite ([[marmite-yeast-extract-straw-substrate]]) in boiling water
+The filter can provides [[marmite-yeast-extract-straw-substrate]]) in boiling water
 4. Add to a bucket with approximately 6 litres of additional boiling water
 5. Pour the Marmite solution over the straw and weigh the straw down
 6. Soak for 1-2 hours, checking water level and adding more boiling water if needed
 
-The [[straw-substrate-preparation-marmite-yeast-extract-soak]] serves as a nutrient supplement that helps speed [[growing-gourmet-spore-germination-strain-isolation]].
+The [[growing-gourmet-spore-germination-strain-isolation]].
 
 ### Draining and Supplementing
 7. Turn the soaked straw out into a bathtub and drain for 1 hour
 8. Spread straw evenly and squeeze out excess water by hand if too wet
-9. Sprinkle [[brown-rice-flour-substrate]] over the straw (~3-4 handfuls for 6 bags' worth) and mix in thoroughly
-
-The brown rice flour provides additional carbohydrates for [[mushroom-mycelium-growth-monitoring-colonization-cues]].
+9. Sprinkle [[mushroom-mycelium-growth-monitoring-colonization-cues]].
 
 ## Step 3: Filling the Bags
 
@@ -118,8 +95,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[straw-based-mushroom-cultivation-boil-bag-method]]
 - [[boil-a-bag-mushroom-cultivation-method]]
-- [[jarrold-pressure-cooker-sterilization-boil-bag-mushroom-cultivation]]
 - [[spore-print]]
 - [[spore]]

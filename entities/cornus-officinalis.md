@@ -33,33 +33,7 @@ Ornamental interest in *C. officinalis* has grown substantially in temperate hor
 
 **Authority:** Philipp Franz von Siebold and Joseph Gerhard Zuccarini, as published in *Flora Japonica* (1830). The species should not be confused with *Cornus mas* (European cornelian cherry), which is closely related but has a distinct phytochemical profile and distribution.
 
-The genus *Cornus* comprises approximately 60 species distributed across [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]] of the Northern Hemisphere. *C. officinalis* belongs to the subgenus *Cornus* (the cornelian cherry group), which includes *C. mas* and *C. chinensis*. Molecular phylogenetic studies support a close relationship between the East Asian and European cornelian cherry species, suggesting ancient divergence following Tertiary migration patterns.
-
-The plant grows as a deciduous shrub or small tree reaching 4–10 meters in height with a rounded to spreading crown.
-
-Bark is grayish-brown, developing longitudinal fissures with age. Branches are slender, with opposite, glossy dark green leaves 5–12 cm long and 3–6 cm wide. The leaf margin is entire or slightly wavy, with 4–6 pairs of lateral veins. Autumn foliage color is variable, ranging from yellow to reddish-purple depending on growing conditions and cultivar.
-
-Flowers appear in late winter to early spring (February–March) before leaf emergence, borne in compact umbels of 20–30 individual florets. Each flower is bright yellow, 6–8 mm in diameter, with 4 lanceolate petals and prominent stamens.
-
-The early bloom period makes *C. officinalis* one of the first flowering woody plants in temperate gardens, providing an important early nectar source for emerging pollinators. Flowers are self-fertile, though cross-pollination improves fruit set. The floral display lasts 2–3 weeks under favorable conditions.
-
-Fruits are ellipsoid drupes 12–18 mm long and 8–10 mm in diameter, ripening from green to bright red in September–October. Each fruit contains a single oblong seed. The ripe fruit has an astringent, sweet-sour taste and a distinctive aroma.
-
-Fruit set is typically high, and mature trees can produce 20–30 kg of fresh fruit annually. The fruit pulp constitutes approximately 75% of the fresh weight, with the remaining 25% being seed and skin. Sugar content of ripe fruit reaches 12–15° Brix, with a tart acidity from malic and citric acids providing balance.
-
-The bright red coloration results from anthocyanin accumulation, primarily cyanidin-3-glucoside and pelargonidin derivatives. These pigments contribute to the fruit's antioxidant capacity and have attracted interest as natural food colorants and nutraceutical ingredients.
-
-## Distribution and Habitat
-
-*Cornus officinalis* is native to the mountainous regions of central and eastern China (Shaanxi, Gansu, Sichuan, Henan, Zhejiang), as well as Japan and the Korean Peninsula. It occurs at elevations of 400–1,800 meters in mixed deciduous forests and forest margins.
-
-The species prefers well-drained, humus-rich soils with a slightly acidic pH (5.5–6.5). It is shade-tolerant in its juvenile stage but requires full sun for optimal flowering and fruit production.
-
-Annual precipitation requirements range from 600–1,200 mm. The species tolerates winter temperatures to -25°C when dormant, making it suitable for cultivation across a broad temperate range. Summer heat tolerance is moderate, with reduced growth and fruit quality above 35°C.
-
-Major commercial cultivation areas in China are concentrated in Henan, Shaanxi, and Sichuan provinces, with Henan's Nanyang region producing approximately 50% of the national supply.
-
-Intercropping with medicinal herbs such as *[[astragalus-membranaceus]]* and *[[rehmannia-glutinosa]]* is commonly practiced to maximize land use efficiency and diversify farmer income. [[fukuoka-critique-organic-certification]] programs for *C. officinalis* cultivation have expanded in recent years, with GACP-compliant production now standard for export-grade material.
+The genus *Cornus* comprises approximately 60 species distributed across [[astragalus-membranaceus]]* and *[[fukuoka-critique-organic-certification]] programs for *C. officinalis* cultivation have expanded in recent years, with GACP-compliant production now standard for export-grade material.
 
 Wild populations have been depleted by overharvesting, and most commercial material now derives from cultivated sources. The species is listed as Near Threatened on the IUCN Red List in parts of its range, with habitat loss from agricultural expansion and urbanization being the primary threats.
 
@@ -73,18 +47,99 @@ Loganin has shown hepatoprotective effects against carbon tetrachloride and acet
 
 The galloyl glucoside fraction, including 7-O-galloyl-D-sedoheptulose and cornusiide A, contributes significant antioxidant and anti-inflammatory activities.
 
-Total phenolic content ranges from 50–80 mg GAE/g dry weight. Triterpenoids such as oleanolic acid and ursolic acid provide additional hepatoprotective and anti-tumor activities. [[query-how-do-fungal-volatile-compounds-affect-plant-growth-and-other-microorganisms]] identified in the fruit include benzaldehyde, benzyl alcohol, and various fatty acid esters that contribute to the characteristic aroma.
-
-Morroniside demonstrates significant nephroprotective activity in diabetic nephropathy models by inhibiting TGF-β1/Smad signaling, reducing extracellular matrix deposition, and attenuating podocyte injury. It also exhibits anti-apoptotic effects on renal tubular epithelial cells under hyperglycemic conditions. These renal [[blesching-thc-heart-protective-mechanisms-myocardial-protection]] align with the traditional TCM use of shan zhu yu as a kidney tonic.
+Total phenolic content ranges from 50–80 mg GAE/g dry weight. Triterpenoids such as oleanolic acid and ursolic acid provide additional hepatoprotective and anti-tumor activities. [[blesching-thc-heart-protective-mechanisms-myocardial-protection]] align with the traditional TCM use of shan zhu yu as a kidney tonic.
 
 Clinical evidence, primarily from Chinese clinical trials, supports the use of *C. officinalis* extracts as adjunctive therapy for diabetic nephropathy, osteoporosis, and menstrual disorders.
 
-The fruit is a key ingredient in Liu Wei Di Huang Wan, one of the most widely prescribed TCM formulas worldwide. This six-herb formula, first recorded in the 12th century, is used for kidney yin deficiency and is one of the most studied herbal prescriptions in modern [[hofmann-lsd-clinical-research-early-studies]].
-
-Additional pharmacological activities include anti-osteoporotic effects through stimulation of osteoblast differentiation and inhibition of osteoclast formation. Morroniside has shown neuroprotective effects in models of Alzheimer's and Parkinson's disease, reducing neuronal apoptosis [[reactive-oxygen-species-and-oxidative-stress]] in hippocampal and dopaminergic neurons.
+The fruit is a key ingredient in Liu Wei Di Huang Wan, one of the most widely prescribed TCM formulas worldwide. This six-herb formula, first recorded in the 12th century, is used for kidney yin deficiency and is one of the most studied herbal prescriptions in modern [[reactive-oxygen-species-and-oxidative-stress]] in hippocampal and dopaminergic neurons.
 
 ## Cultivation and Uses
 
 Propagation is primarily by seed, requiring 4–6 months of warm stratification followed by 2–3 months of cold stratification to break dormancy.
 
-Softwood cuttings under mist propagation have success rates of 60–80%. Grafting onto *Cornus mas* rootstock is practiced for [[fukuoka-citrus-orchard-establishment-bare-hillside]], providing improved [[dighton-fungal-drought-tolerance-plant-water-relations]] and disease resistance compared to own-rooted plants.
+Softwood cuttings under mist propagation have success rates of 60–80%. Grafting onto *Cornus mas* rootstock is practiced for [[dighton-fungal-drought-tolerance-plant-water-relations]] and disease resistance compared to own-rooted plants.
+
+## Overview
+
+Cornus Officinalis represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish cornus officinalis
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving cornus extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Cornus Officinalis finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for cornus officinalis. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+cornus officinalis and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Cornus Officinalis has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of cornus officinalis into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[cornus-florida]]
+- [[cornus-kousa]]
+- [[cornus-mas]]
+- [[cornus-sericea]]
+- [[permaculture-dogwood-cornus-capitata]]

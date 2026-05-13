@@ -25,7 +25,7 @@ Gasteria verrucosa forms distichous (two-ranked) fan-shaped rosettes of tough, l
 
 The species is one of the most widely cultivated *Gasteria* species, valued for its compact size, shade tolerance, and distinctive foliage. It thrives as a houseplant in conditions that would cause most succulents to decline.
 
-The white tubercles are thought to serve multiple functions: they diffract light to reduce [[fao-solar-heating-pasteurization-mushroom-cultivation]], they create a rough surface that deters insect herbivory, and they may channel condensation toward the leaf base. Similar tuberculate surfaces have evolved independently in other [[kanna-sceletium-south-african-narcotic]] succulent genera.
+The white tubercles are thought to serve multiple functions: they diffract light to reduce [[kanna-sceletium-south-african-narcotic]] succulent genera.
 
 ## Taxonomy and Morphology
 
@@ -40,7 +40,7 @@ The white tubercles are thought to serve multiple functions: they diffract light
 - Genus: *Gasteria*
 - Species: *G. verrucosa*
 
-**Authority:** (Aiton) Duval, transferred to *Gasteria* in 1809. Basionym: *Aloe verrucosa* Aiton (1789). Sometimes treated as a variety of *Gasteria bicolor* (as *G. bicolor* var. *verrucosa*).
+**Authority:** (Aiton) Duval, transferred to *Gasteria* in 1809. Basionym: *Aloe verrucosa* Aiton (1789). Sometimes treated as a variety of *[[gasteria-bicolor]]* (as *G. bicolor* var. *verrucosa*).
 
 **Morphological characteristics:**
 - Growth form: Stemless, distichous rosette, 10–20 cm tall, 15–30 cm wide
@@ -60,11 +60,7 @@ Gasteria verrucosa is endemic to the Eastern Cape province of South Africa. Its 
 
 The species grows as a lithophyte on shaded rock faces, cliff crevices, and boulder piles. It also occurs as an epiphyte on the trunks and branches of large shrubs and small trees within the thicket. These shaded microsites protect the plants from intense direct sunlight.
 
-Rainfall in the native range is 350–550 mm annually, distributed throughout the year with slight spring and autumn peaks. The proximity to the Indian Ocean moderates temperatures, preventing the [[extreme-heat-preparedness]] or cold of the interior Karoo.
-
-Fog from the Indian Ocean provides additional moisture to cliff-dwelling populations. The species is well-adapted to these mesic microsites despite growing in a semi-arid region overall.
-
-Plants in deeply shaded cliff sites tend to have larger, darker green leaves with fewer tubercles. Those in more exposed positions develop denser tubercles and a grayish-green coloration. This habitat-driven plasticity contributes to [[growing-gourmet-pleurotus-sajor-caju-taxonomic-confusion]] within the species complex.
+Rainfall in the native range is 350–550 mm annually, distributed throughout the year with slight spring and autumn peaks. The proximity to the Indian Ocean moderates temperatures, preventing the [[growing-gourmet-pleurotus-sajor-caju-taxonomic-confusion]] within the species complex.
 
 ## Cultivation
 
@@ -81,9 +77,7 @@ The species offsets freely at the base, producing clusters of rosettes over time
 
 Unlike many succulents, Gasteria verrucosa tolerates normal household humidity and irregular watering without declining. This makes it an ideal office or houseplant for beginners. It is also resistant to most common succulent pests.
 
-Plants grown in brighter conditions develop denser white tubercles and more [[fukuoka-ideal-rice-plant-morphology-compact-growth-high-yield]]. Those in lower light become greener and more elongated but remain healthy. Avoid sudden moves from shade to full sun, which causes bleaching and sunburn.
-
-The species is notably resistant to [[cannabis-root-rot-prevention-and-treatment]] compared to other Asphodelaceae, likely due to adaptations for growing on rocks where water drains rapidly. However, prolonged waterlogging in heavy soils will still cause problems.
+Plants grown in brighter conditions develop denser white tubercles and more [[cannabis-root-rot-prevention-and-treatment]] compared to other Asphodelaceae, likely due to adaptations for growing on rocks where water drains rapidly. However, prolonged waterlogging in heavy soils will still cause problems.
 
 ## Ecological Role and Uses
 

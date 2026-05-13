@@ -4,34 +4,17 @@
 
 Desertification is the process by which fertile land becomes desert, typically
 as a result of drought, deforestation, or inappropriate agriculture. Masanobu
-Fukuoka, the Japanese [[fukuoka-textdoc-composting-critique-futility-prepared-organic-matter]] in the soil diminishes,
-reducing its water-holding capacity. Microbial communities that support plant
-life decline. Each of these changes reinforces the others in a downward spiral
-that transforms living landscape into barren wasteland.
-
-From an airplane over the American continent, Fukuoka observed that roughly
-one-third of the land east and west of the Rocky Mountains had become a
-reddish-brown wasteland. Circular irrigated farms — over 80,000 center-pivot
-sprinkler operations — appeared as small oases in an expanding desert. The
-irrigation itself accelerated the problem by drawing saline groundwater to the
-surface, where it accumulated and poisoned the soil.
-
-## Agricultural Practices as Primary Drivers
-
-Modern [[soil-fertility-building-gradient-solomon]] and initiates a negative
+Fukuoka, the Japanese [[soil-fertility-building-gradient-solomon]] and initiates a negative
 cycle that becomes a basic cause of economic failure as well as ecological
 collapse.
 
-Key observations from [[fukuoka-american-agriculture-fields-of-death]] documented by Fukuoka:
-
-- The soil has been pulverized by large tractors, and [[hamilton-composting-and-organic-matter-management]] has been
+Key observations from [[hamilton-composting-and-organic-matter-management]] has been
   consumed and exhausted. Few microbes exist in the soil, and when rainfall
   occurs, topsoil washes away at alarming rates — ten or more tons per acre
   per year on hilly, rolling farmland with no terracing or reservoirs.
 - The land lacks the fertility to produce crops continuously year after year,
   so one-third to one-half of fields are left fallow annually. From the air,
-  the land shows an alternating pattern [[sea-of-green]] and brown stripes.
-- The yield ratio ([[holmgren-biomass-fuels-and-energy-yield-ratios]] to energy input) halves every ten years.
+  the land shows an alternating pattern [[holmgren-biomass-fuels-and-energy-yield-ratios]] to energy input) halves every ten years.
   Farmers put two calories of energy into the land to harvest one calorie of
   food energy. This is not productivity improvement but rather a desperate
   effort to curtail declines in production.
@@ -54,21 +37,7 @@ societies, with their shift to modern agriculture and heavy reliance on
 petroleum-based chemicals, face the same problem of rapid land debilitation
 through different mechanisms.
 
-Fukuoka provided striking calculations of [[fukuoka-textdoc-land-requirements-per-diet-type-carrying-capacity]] for different
-diets, illustrating the direct connection between dietary choices and land
-pressure:
-
-- 200 square yards of land to support one person on grains
-- 600 square yards for someone living on potatoes
-- 1,500 square yards for a milk-based diet
-- 4,000 square yards for someone living on pork
-- 10,000 square yards for someone subsisting entirely on beef
-
-If the entire human population depended on beef, humanity would have already
-reached its growth limits. On a grain diet, the earth's carrying capacity is
-sixty times the current world population. The choice of diet has direct
-implications for land use pressure and desertification risk. The beef industry
-in the [[dmt-containing-plants-united-states-halpern]] and Europe provides clear evidence that beef production
+Fukuoka provided striking calculations of [[dmt-containing-plants-united-states-halpern]] and Europe provides clear evidence that beef production
 impoverishes the soil and denudes the earth.
 
 ## The East Coast: Hidden Soil Depletion
@@ -117,8 +86,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[desertification]]
 - [[doc]]
-- [[composting]]
 - [[dmt]]
 - [[fukuoka-sowing-desertification-countermeasures-and-modern-failures]]

@@ -8,13 +8,7 @@ type: concept
 
 ## Overview
 
-Boundary conditions \u2014 the interfaces between different media, systems, or states \u2014 are among the most productive and species-rich zones in nature. [[permaculture-design]] places special emphasis on understanding, creating, and maximizing these boundaries because they concentrate resources, create unique niches, and generate the conditions where most biological and physical events occur.
-
-## Properties of Media and Boundaries
-
-Every medium \u2014 air, water, earth, stone \u2014 has distinct physical and chemical properties: hotter, colder, more acidic, rougher, harder, more absorbent, darker. Even in abstract terms, societies divide themselves by sex, age, culture, language, belief, and discipline. All such differences create **boundary conditions** \u2014 surfaces or interfaces where media meet.
-
-[[permaculture]] itself acts as a translator between disciplines, fitting many forms of knowledge into relation with each other. It is a synthesis \u2014 and it functions at the boundaries between conventional areas of knowledge, exactly where the richest insights emerge.
+Boundary conditions \u2014 the interfaces between different media, systems, or states \u2014 are among the most productive and species-rich zones in nature. [[permaculture]] itself acts as a translator between disciplines, fitting many forms of knowledge into relation with each other. It is a synthesis \u2014 and it functions at the boundaries between conventional areas of knowledge, exactly where the richest insights emerge.
 
 Any boundary may be between media or within media. Boundaries present a place for things to happen, for events to locate. They present an opportunity to place a translatory element in a design, or to deform the surface for specific flow or translation to occur.
 
@@ -123,3 +117,11 @@ Diffusion is a quiet process operating on a broad front, analogous to but distin
 4. **Translators relieve stress** \u2014 living organisms at boundaries keep flows moving, preventing destructive accumulation.
 5. **Increase edge, increase yield** \u2014 designing differences into a system is a resource-building strategy; smoothing out differences is a deprivation of potential resources.
 6. **Stupidity is ironing out differences** \u2014 not using or valuing differences creatively is the fundamental design error.
+
+## See Also
+
+- [[boundary-conditions-in-permaculture]]
+- [[boundary-layer-redistribution-fungal-tropism]]
+- [[boundary-conditions-and-media-interfaces]]
+- [[windward-leeward-boundary-layer-redistribution-stipe-curvature-badham-1982]]
+- [[mollison-boundary-harmonics-and-edge-geometry]]

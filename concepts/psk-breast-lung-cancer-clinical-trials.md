@@ -9,10 +9,8 @@ sources: []
 
 # PSK Breast Cancer and Lung Cancer Clinical Trials
 
-PSK (Polysaccharide-K, Krestin) from [[medicinal-mushroom-guide-chaga]]
-- [[maitake-cancer-clinical-research]]
+PSK (Polysaccharide-K, Krestin) from [[maitake-cancer-clinical-research]]
 - fungal-immunology-overview
-- [[shiitake-mushroom-cultivation]]
 - [[reishi-mushroom-medicinal-research]]
 ## Background and Context
 

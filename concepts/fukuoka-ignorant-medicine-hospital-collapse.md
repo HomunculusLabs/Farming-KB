@@ -1,7 +1,7 @@
 ---
 title: Fukuoka on Medicine and the Collapse of Human Health
 created: 2026-04-28
-tags: [fukuoka, health, medicine, philosophy, [[natural-diet]], critique]
+tags: [fukuoka, health, medicine, philosophy, natural-diet, critique]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [masanobu-fukuoka-the-road-back-to-nature.md]
@@ -10,7 +10,7 @@ type: concept
 
 # Fukuoka on Medicine and the Collapse of Human Health
 
-[[masanobu-fukuoka]] extended his [[fukuoka-critique-of-scientific-agriculture]] agriculture to
+[[fukuoka-critique-of-scientific-agriculture]] agriculture to
 modern medicine, arguing that both fields operate on the same flawed
 premise: creating problems through intervention and then claiming to solve
 them. He saw the expansion of hospitals as a barometer of the collapse
@@ -25,48 +25,7 @@ they have caused. The more advanced medicine becomes, the frailer the
 human body grows. The advance of the hospital is merely a barometer of
 the collapse of the human body.
 
-Just as [[fukuoka-critique-laws-agricultural-science]] creates weak rice that requires chemical
-support, modern society creates weak bodies that require medical support.
-If you create people of poor constitution, then conduct research in
-pathology and continue to weaken the human body, the number of research
-topics will go right on increasing, spurring on the field of medicine and
-enriching the medical profession.
-
-## The Dental Metaphor
-
-Fukuoka used a striking metaphor to illustrate his point about medicine:
-Let people eat delicious foods or whatever they like. As long as there
-are dentists around, there is nothing to worry about. Since it is okay
-to let the children eat whatever sweets they wish, mothers give the
-kids lots of goodies, as much as they want. Then, when the cavities
-start showing up, she takes the kids down to see the dentist, who gives
-them fillings or even new teeth.
-
-Happy that the cavities have been fixed, she goes on giving her kids
-candy, certain that the more sweets the children get, the better off
-they will be. That is why people feel so reassured as our hospitals get
-larger and new advances are made in medicine.
-
-## The Illusion of Longer Life Spans
-
-People rejoice over longer life spans and greater happiness. All that
-has really happened is that today there are lots of senile oldsters
-and fewer young people, but for some reason everyone is celebrating
-progress in medicine and the longer life expectancy of people.
-
-The fact of the matter is that as medicine becomes more advanced and
-the number of hospitals increases, the human body becomes frailer.
-Rather than genuinely improving health, modern medicine has created
-a system where people live longer in weakened states, dependent on
-constant medical intervention.
-
-## The Root Cause: Diet and Environment
-
-For Fukuoka, the fundamental problem lies in what people eat and how
-they live. The modern diet, divorced from nature and filled with
-processed, petroleum-based foods, creates bodies that require constant
-medical attention. Just as weak rice grown in depleted soil needs
-[[cervantes-chemical-fertilizers-guide]], weak humans eating unnatural food need doctors.
+Just as [[cervantes-chemical-fertilizers-guide]], weak humans eating unnatural food need doctors.
 
 The number of doctors is increasing and hospitals are thriving too.
 Physicians think that they are curing the ill, but they are merely
@@ -118,8 +77,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[doc]]
 - [[fukuoka-ignorant-agriculture-pit-of-knowledge]]
-- [[fukuoka-eastern-western-medicine-healing-world-crisis]]
 - [[fukuoka-textdoc-three-stage-collapse-knowledge-destruction-failure]]
 - [[fukuoka-pine-environment-collapse-japan]]

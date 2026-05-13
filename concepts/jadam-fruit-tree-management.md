@@ -12,79 +12,9 @@ sources:
 
 ## Overview
 
-JADAM stone fruit tree care management combines deep [[ultra-low-cost-jadam-natural-pesticide-jnp]] system. The approach yields remarkable results -- documented cases include a single grape vine covering 900 sq m with 3,000 fruits (Deokhyeon Do's farm in Gochang) and kiwi farming with organic methods producing high yields (Chanmo Gim's farm in Goseong).
-
-## Soil Foundation for Fruit Trees
-
-### Timing
-Apply soil foundation intensively **before** active root growth begins:
-- After leaf fall in autumn (best timing)
-- Before budding/sprouting in spring
-- Repeat 3-4 times before the growing season
-
-This is the most critical moment -- high yield is determined at the early stage. How well the root settles after the foundation work directly determines the year's harvest.
-
-### Foundation Recipe (for 0.33 ha / 0.8 ac)
-
-**Soil Foundation Builder:**
-- JMS -- 500 L (132 gal)
-- [[ultra-low-cost-wild-grass-cover-cropping-and-symbiotic-weed-management]]/[[water-management]] for generous deep soaking. For open fields, also apply undiluted before rain. For trees, you can apply directly on trunks.
-
-### During Growth
-- Apply JMS with seawater/salt and phyllite solution 3-4 times per month
-- 500 L of JMS can cover 0.1 to 3.3 ha
-- Apply before rain for open fields; with generous water for greenhouses
-
-## [[tree-canopy-fungal-sampling-techniques]]
+JADAM stone fruit tree care management combines deep [[ultra-low-cost-wild-grass-cover-cropping-and-symbiotic-weed-management]]/[[tree-canopy-fungal-sampling-techniques]]
 - Tree leaves fall between rye plants and are not blown away
-- Complete nutrient recycling -- "This is a perfect [[jadam-fertilizer-program-design]]"
-- Rye has low nitrogen content, maintaining nutrient balance
-
-### Hairy Vetch
-- Fixes ~20 kg nitrogen per acre
-- Softens compacted soil
-- Reduces soil salinity
-- Boosts microbial activity
-- Suppresses diseases and nematodes
-
-### General Principle
-The best nutrient for any fruit tree is its own leaves. When leaves fall between cover crop plants, no nutrient is lost -- all is recycled back into the soil.
-
-## Crop Residue Management
-
-- Do NOT remove fallen leaves, pruned branches, or fruit residues
-- These are not disease sources but nutrient sources with perfect balance for that tree
-- Leaves contain nutrients specifically selected by the tree's roots from the soil
-- Disease-causing organisms are everywhere (one spore becomes 1 billion in 10 hours) -- eliminating residues cannot prevent them
-- Instead, maximize microbial diversity so pathogens cannot dominate
-
-## Fruit Tree Winter Pest Control (Formula #13)
-
-Developed by Chanmo Gim.
-
-**Recipe (500 L / 132 gal):**
-- JWA -- 10 L (2.6 gal)
-- JS -- 5 L (1.3 gal)
-- Fine red clay powder -- 2 kg (4.4 lb)
-- Add water to make 500 L
-
-**Application:**
-- Apply once after leaves fall
-- Apply 1-2 times between late February and budding in spring
-- For evergreen trees (do not shed leaves): reduce JWA to below 2 L
-
-**Making Fine Red Clay Powder:**
-1. Dissolve red clay in water
-2. Filter with felt
-3. Let filtered water sit for 1 hour; fine particles settle at bottom
-4. Discard upper water
-5. Dry particles in shade
-6. Slice lump in ~2 kg pieces; dissolve in water for use
-7. When spraying, keep stirring or run aerator so clay particles do not sink
-
-**Diseases/Pests Controlled:**
-- Valsa canker
-- Scale insects ([[fukuoka-textdoc-arrowhead-scale-ladybug-biological-control]], pear sucker)
+- Complete nutrient recycling -- "This is a perfect [[fukuoka-textdoc-arrowhead-scale-ladybug-biological-control]], pear sucker)
 - Moss disease
 
 ## Disease Control
@@ -118,8 +48,91 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[stone-fruit-tree-care]]
 - [[doc]]
-- [[dom]]
 - [[det]]
 - [[spore]]
+
+## Overview
+
+Jadam Fruit Tree Management represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish jadam fruit tree management
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving jadam extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Jadam Fruit Tree Management finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for jadam fruit tree management. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+jadam fruit tree management and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Jadam Fruit Tree Management has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of jadam fruit tree management into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[jadam-herb-solution-jhs]]
+- [[jadam-natural-mineral-water]]
+- [[jadam-potassium-fertilizer]]
+- [[jadam-rice-bakanae-treatment]]
+- [[jadam-soil-management-no-till-and-weed-control]]

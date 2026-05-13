@@ -31,10 +31,7 @@ The story presents remote lakes as places where the boundary between animal, spi
 - The creature kills by drawing all the blood from victims' bodies using electromagnetic waves emanating from its head.
 - In the story recounted by Amaringo, eight hunters camped near a lake.
 - One man awoke at midnight under a full moon to see the sanguijuela mama attacking a companion in his hammock.
-- The creature had the power to make everyone sleep deeply, similar to the yana-puma (black jaguar) and [[sachamama]].
-- When the survivor screamed, no one woke.
-- He fled to the forest and returned the next morning to find all his comrades dead, drained of blood.
-- Amaringo initially dismissed this as a story but became convinced of the creature's existence after seeing it in an [[ayahuasca-vision-art-and-shipibo-tradition]].
+- The creature had the power to make everyone sleep deeply, similar to the yana-puma (black jaguar) and [[amaringo-ayahuasca-visions-shipibo-iconography]].
 - The sanguijuela mama is associated with the same class of sleep-inducing predators as the yana-puma and Sachamama.
 - The story originates from Amaringo's grandfather, who lived near a brook called Quincha, a tributary of the Fanacha River.
 
@@ -54,18 +51,7 @@ The story therefore joins visionary, ecological, and forensic modes of truth.
 - The sanguijuela mama embodies the Amazonian understanding that remote waterways harbor dangerous and unknown life forms.
 - The creature's electromagnetic feeding mechanism parallels actual biological electromagnetic sensitivity in some aquatic organisms.
 - Stories of the sanguijuela mama serve as cautionary tales about camping near isolated jungle lakes, reflecting practical ecological knowledge.
-- The creature's existence in both folklore and [[amaringo-ayahuasca-visions-shipibo-iconography]] illustrates how Amazonian people validate mythological beings through visionary experience.
-- For ecological thinking, the story encodes respect for poorly known habitats and the risks of entering them casually.
-- For ethnobiology, it shows how animal categories can include spiritual powers, behavior, place, and moral warning.
-- For mycology and plant-medicine study, it belongs to the broader visionary ecology opened by ayahuasca practice.
-
-## Cultural Context
-
-The sanguijuela mama appears in Vision 22 of [[ayahuasca-preparation-pablo-amaringo-ucayali-shamanism]]'s [[ayahuasca-visions]].
-Amaringo explicitly states that he initially considered the creature mythological but was convinced of its reality through direct ayahuasca experience.
-This illustrates the role of the brew in validating traditional knowledge in Amazonian culture.
-Vision is not treated as fantasy; it is a mode of encounter with beings that may remain hidden from ordinary perception.
-The creature therefore sits at the intersection of folklore, ecology, and [[mckenna-world-made-of-language-shamanic-epistemology]].
+- The creature's existence in both folklore and [[ayahuasca-preparation-pablo-amaringo-ucayali-shamanism]]'s [[mckenna-world-made-of-language-shamanic-epistemology]].
 
 ## Interpretive Notes
 
@@ -80,3 +66,84 @@ In practical terms, the tale teaches caution around remote waters, night camps, 
 The story also functions as a map of risk, warning listeners that some lakes should not be treated as ordinary campsites.
 Its power depends on attention to place: the danger is tied to specific waters, night conditions, and inherited knowledge.
 Respecting such warnings is part of moving safely through an Amazonian landscape understood as alive and inhabited.
+
+## Overview
+
+Sanguijuela Mama represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish sanguijuela mama
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving sanguijuela extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Sanguijuela Mama finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for sanguijuela mama. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+sanguijuela mama and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Sanguijuela Mama has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of sanguijuela mama into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[mckenna-coca-mama-coca-inca-goddess-tradition]]

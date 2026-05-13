@@ -8,35 +8,7 @@ sources: [/Users/t3rpz/wiki/raw/papers/cancer-treatments-medicinal-mushrooms.md]
 ---
 # Ganoderic Acids
 
-Ganoderic acids are a family of highly oxygenated lanostane-type triterpenoids isolated from [[fruiting-conditions-mushroom-cultivation]] and mycelium, making them the most chemically diverse class of compounds in reishi.
-
-## Chemical Classification
-
-Ganoderic acids are classified as pentacyclic triterpenoids of the lanostane skeleton. They are broadly grouped into:
-
-- **Ganoderic acids** (A through Z and numerous subtypes) — the most abundant class
-- **Ganoderenic acids** — closely related derivatives
-- **Lucidenic acids** — structural variants with modified ring systems
-- **Ganoderiols** and **ganodermanondiol/triol** — hydroxylated derivatives
-- **Ganolucidic acids** — additional structural variants
-- **Ganoderals** — aldehyde-containing derivatives
-
-Many of these compounds contribute to the intensely bitter taste of reishi, particularly ganoderic acids A, C1, and J, and lucidenic acids A and D1.
-
-## Biological Activities
-
-### Anti-HIV Activity
-
-Multiple ganoderic acids demonstrate inhibitory effects against HIV:
-- Ganoderic acids α, β, B, C1, H
-- Ganoderiols A, B, F
-- Ganodermanondiol and ganodermanontriol
-- Ganolucidic acid A
-- 3β,5α-Dihydroxy-6β-methoxyergosta-7-diene
-
-### Cytotoxic and Antitumour Effects
-
-Several ganoderic acids show direct cytotoxicity against [[blesching-cannabis-apoptosis-and-cancer-cell-death]] lines:
+Ganoderic acids are a family of highly oxygenated lanostane-type triterpenoids isolated from [[blesching-cannabis-apoptosis-and-cancer-cell-death]] lines:
 - Ganoderic acids T, V, W, X, Y, Z — cytotoxic against various tumour lines
 - 3β-Hydroxy-26-oxo-5α-lanosta-8,24-dien-11-one
 - Ergosta-7,22-diene-3β,3α,9α-triol
@@ -68,8 +40,7 @@ Ganoderic acids are typically extracted from fruiting bodies or spores using org
 
 ## Therapeutic Significance
 
-Unlike the water-soluble β-glucans (which act primarily through [[cancer-immune-modulation-mechanisms]]), ganoderic acids represent a complementary therapeutic pathway in reishi — acting through direct cytotoxic, enzyme-inhibitory, and receptor-mediated mechanisms. This dual-action profile (polysaccharides + triterpenoids) likely underlies the broad-spectrum medicinal reputation of [[medicinal-mushroom-antioxidant-anti-inflammatory]]
-- [[reishi-mushroom-medicinal-research]]
+Unlike the water-soluble β-glucans (which act primarily through [[medicinal-mushroom-antioxidant-anti-inflammatory]]
 - [[reishi-ganoderma-cancer-clinical-research]]
 - medicinal-mushroom-cardiovascular-cholesterol-research
 ## Practical Considerations
@@ -120,8 +91,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[methanol]]
 - [[enzyme-inhibition]]
-- [[spore]]
 - [[ethanol]]
 - [[mycelium]]

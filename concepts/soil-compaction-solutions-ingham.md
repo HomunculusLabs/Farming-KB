@@ -12,13 +12,8 @@ sources:
 
 Updated: 2026-04-18
 
-Dr. [[mycorrhizal-networks]]**: [[soil-compaction-solutions]]
-- [[aact-fungal-dominant-tea]]
-## Merged: Soil Compaction and Drainage - Teaming with Microbes
-
-# Soil Compaction and Drainage
-
-Soil compaction is one of the greatest enemies of the [[soil-foodweb]]. When soil is compacted, the entire biological system that supports plant health breaks down.
+Dr. [[soil-compaction-solutions]]
+- [[soil-foodweb]]. When soil is compacted, the entire biological system that supports plant health breaks down.
 
 ## Effects of Compaction
 
@@ -26,13 +21,13 @@ Soil compaction is one of the greatest enemies of the [[soil-foodweb]]. When soi
 Larger organisms cannot survive in compacted soil -- they cannot move through it in search of food because transportation pathways have been destroyed. Nematodes and many of the protozoa are gone, so nutrients accumulate in fungal and bacterial biomass instead of being mineralized and available to plants.
 
 ### On Mycorrhizal Fungi
-The fragile mycorrhizal fungi associated with plant roots are literally crushed or drowned. Mycorrhizal fungi that compete with pathogenic fungi (Pythium and Rhizoctonia, which cause stem and [[cannabis-root-rot-prevention-and-treatment]]) are missing.
+The fragile [[mycorrhizal-fungi]] associated with plant roots are literally crushed or drowned. Mycorrhizal fungi that compete with pathogenic fungi (Pythium and Rhizoctonia, which cause stem and [[cannabis-root-rot-prevention-and-treatment]]) are missing.
 
 ### On Plant Roots
 Plant roots have trouble moving through compacted soil. Since they can no longer rely on mycorrhizal fungi to bring back nutrients, plants face a double whammy: they not only don't get the kind of nitrogen they prefer, but their access to water and phosphorus and other nutrients is limited.
 
 ### On Oxygen Levels
-Compaction reduces oxygen levels, and anaerobic bacteria take over. Anaerobic bacteria produce metabolic products that kill roots. The tunnels and burrows through which water flows, pulling and pushing air, disappear. The result: no mycorrhizae, no beneficial fungi, harmful elements in abundance.
+Compaction reduces oxygen levels, and anaerobic bacteria take over. Anaerobic bacteria produce metabolic products that kill roots. The tunnels and burrows through which water flows, pulling and pushing air, disappear. The result: no [[mycorrhizae]], no beneficial fungi, harmful elements in abundance.
 
 ## What Remains After Compaction
 After a while, the only soil food web organisms left in compacted soil are the bacteria and opportunistic fungi and protozoa that are so small they are able to move through even compacted soil. The food web is not in good shape and surely not full of the fungi that trees and shrubs prefer.

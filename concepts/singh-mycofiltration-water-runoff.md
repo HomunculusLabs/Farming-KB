@@ -18,8 +18,7 @@ type: concept
 
 Mycofiltration uses fungal mycelium as a biological filter medium to
 remove contaminants from water, including stormwater runoff, agricultural
-effluent, and [[fungal-industrial-wastewater-treatment]]. Harnessing the adsorptive, absorptive,
-and degradative properties of [[singh-mycelial-mats-and-biological-soil-crusts]], mycofiltration intercepts and
+effluent, and [[singh-mycelial-mats-and-biological-soil-crusts]], mycofiltration intercepts and
 treats waterborne pollutants before they reach sensitive receiving waters.
 
 ## Principles of Mycofiltration
@@ -29,8 +28,7 @@ Fungal mycelium is an exceptionally effective filtration medium:
 - **High surface-area-to-volume ratio**: Dense hyphal networks (2-10 um
   diameter) provide enormous surface area for contaminant interactions
 - **Charged cell walls**: Chitin, glucans, and glycoproteins with
-  ionizable groups bind [[singh-enzyme-production-for-industrial-bioremediation]] including
-  [[singh-fungal-biofilms-in-contaminated-environments]] trap
+  ionizable groups bind [[singh-fungal-biofilms-in-contaminated-environments]] trap
   particulates and support synergistic communities
 - **Mechanical filtration**: Mycelial density physically strains suspended
   solids
@@ -39,9 +37,7 @@ Fungal mycelium is an exceptionally effective filtration medium:
 
 ### Mycelial Mats and Barriers
 
-Dense mycelial mats grown on organic substrates (straw, [[fukuoka-textdoc-sawdust-wood-chips-orchard-soil-acidification-experiment]]) serve
-as permeable barriers: stream bank installations filtering agricultural
-runoff, swale liners treating stormwater, and [[mollison-designers-check-dam-types-and-landscape-placement]] inserts filtering
+Dense mycelial mats grown on organic substrates (straw, [[mollison-designers-check-dam-types-and-landscape-placement]] inserts filtering
 concentrated flows.
 
 ### Mycelial Sacks and Booms
@@ -54,30 +50,10 @@ deployed booms for accidental spill containment.
 
 Trench fills with mycelium-inoculated material intercept groundwater;
 permeable reactive barriers provide in situ treatment; and mycofiltration
-integrates with [[singh-fungal-bioreactor-types-configurations]] treatment trains.
-
-## Contaminants Removed by Mycofiltration
-
-### Sediments and Biological Contaminants
-
-[[fungal-mycelial-networks-nutrient-translocation]] physically trap particles while
-[[singh-fungal-biosorption-heavy-metals]] removes dissolved metals through ion exchange,
-complexation with cell wall groups, and precipitation with fungal
-metabolites. Removal efficiencies exceed 80% for copper, lead, zinc,
-cadmium, and chromium at moderate concentrations.
-
-### Petroleum Hydrocarbons
-
-Mycelial mats intercept and degrade
+integrates with [[fungal-mycelial-networks-nutrient-translocation]] physically trap particles while
 [[singh-fungal-oxidation-petroleum-enzymes]], and
-[[singh-mycorrhiza-mediated-plant-nutrient-uptake-pathways]].
 [[singh-fungal-laccase-enzymes-bioremediation]] and
-[[singh-composted-biomass-as-soil-amendment-remediation]].
-
-## Performance Assessment
-
-Effectiveness is evaluated through contaminant removal efficiency,
-hydraulic loading capacity, longevity, and [[singh-fungal-remediation-of-mining-tailings-mine-waste]], and watershed protection.
+[[singh-fungal-remediation-of-mining-tailings-mine-waste]], and watershed protection.
 
 ## Challenges and Limitations
 
@@ -90,3 +66,85 @@ hydraulic loading capacity, longevity, and [[singh-fungal-remediation-of-mining-
 ## See Also
 
 - [[singh-fungal-biosorbents-mycosorption-mechanisms]]
+
+## Overview
+
+Singh Mycofiltration Water Runoff represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish singh mycofiltration water runoff
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving singh extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Singh Mycofiltration Water Runoff finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for singh mycofiltration water runoff. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+singh mycofiltration water runoff and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Singh Mycofiltration Water Runoff has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of singh mycofiltration water runoff into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[singh-fungal-alkane-metabolism-pathways]]
+- [[singh-fungal-biodegradation-biodeterioration-materials]]

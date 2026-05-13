@@ -1,0 +1,102 @@
+---
+title: Ley Farming
+source: bill-mollison-permaculture-a-designers-manual.md
+type: entity
+tags: [technique, pasture-management, soil-fertility, rotation, legume]
+---
+
+# Ley Farming
+
+## Description
+
+Ley farming is an agricultural system where temporary grasslands (leys) of 1-4 years duration are sown to rest the soil and provide hay or green manure, alternating with periods of arable cropping. The system relies on grass-legume mixes to build soil nitrogen, humus, and crumb structure, with subsequent arable crops benefiting from the improved soil condition for 3-4 years after ley termination. Mollison describes ley farming as a traditional component of sound temperate farm landscape management.
+
+## Classification
+
+- **Category**: Agricultural system — crop-pasture rotation
+- **Duration**: 1-4 year ley phases alternating with arable cropping
+- **Climate**: Cool temperate and subtropical applications
+- **Key components**: Grass-legume mixes, nitrogen fixation, soil structure improvement
+- **Alternative names**: Ley husbandry, temporary pasture rotation
+
+## Key Facts
+
+- Leys of 1-4 years provide soil rest and nitrogen buildup through grass-legume mixes
+- Arable crops after leys show increased yields for 3-4 years from residual fertility
+- Soil nitrogen climbs from 0.11% (cropped) to 0.17% over 25 years under ley; 0.25% under permanent grassland
+- In subtropical regions, grass-legume leys of 2-4 years have been used since the 1950s
+- Grass-legume mixes are important soil stabilizers down to 450 mm (45 cm) annual rainfall
+- Leys unbalanced towards legumes may produce acidic soil conditions and livestock nutritional problems
+- Pastures kept in balance by strategic browsing or mowing
+- 25 years needed for pronounced soil improvement under permanent grasses
+
+## Relevance to Cultivation and Permaculture
+
+Ley farming addresses the fundamental tension between cropping and soil health that Mollison discusses throughout the grasslands chapter:
+
+1. **Soil nitrogen dynamics**: Cropped soils typically have nitrogen levels of 0.11%. Under ley pasture with legumes, this climbs to 0.17% over 25 years. Under permanent grassland, 0.25% nitrogen is measurable. The ley system is the bridge that allows cropping while maintaining soil nitrogen reserves.
+
+2. **Structural improvement**: Soil crumb structure, humus content, and soil nitrogen all show "slow improvement under permanent grasses." Ley farming captures part of this improvement during the grass phase, carrying it into the subsequent cropping phase.
+
+3. **Traditional farm landscape**: In a sound cool temperate farm, Mollison describes the ideal distribution: 25% in 1-4 year leys (with red clover as the legume), 15-25% permanent pasture (with white clovers), and the remaining 60% in grains, green crop, and root crop. Modern farming "rarely follows such conservative methods."
+
+4. **Subtropical adaptation**: Grass-legume leys work in the subtropics when sown in wet seasons, fertilized, and planted with scattered or hedgerow-drilled Acacia or other leguminous trees. Below 450 mm rainfall, "opportunistic barley or oats in winter hold soils while leguminous trees and woody shrub seed establishes."
+
+5. **Legume importance**: "Grasses without legumes do not noticeably improve soil reserves." The legume component is essential — historically, clover "supplied growth equivalent to 200 kg of nitrogen per hectare" and was "far better utilised by cattle" than nitrogen-fertilized grass sward.
+
+## Limitations and Pitfalls
+
+- Leys overly dominated by legumes can acidify soil and cause nutritional problems in livestock
+- Grasses alone do not build soil reserves — legume integration is mandatory
+- The nitrogen boost to subsequent arable crops diminishes after 3-4 years, requiring ley return
+- Below 450 mm rainfall, standard ley mixes fail and drought-adapted species are needed
+- The system requires patient capital — soil improvement takes decades, not seasons
+
+## Historical Context
+
+The great post-war drive to nitrogen fertilizer came from "overproduction in explosives factories, or in fact war surplus dumped on farms." This displaced the ley farming approach that had maintained soil fertility for generations. Mollison notes that fertiliser became "30% of energy use on farm but brought no such increase in return," while clover had once supplied nitrogen freely.
+
+## Modern Relevance
+
+The principles of ley farming are experiencing renewed interest as fertilizer costs rise and soil degradation from continuous cropping becomes more apparent. Organic and regenerative farming movements have rediscovered the ley as a biological alternative to synthetic nitrogen inputs.
+
+## See Also
+
+- [Strip Grazing](strip-grazing.md)
+- [[mixed-livestock-rotation]](mixed-livestock-rotation.md)
+- [Slurry Injection in Grasslands]([[slurry-injection-grassland]].md)
+- [Trifolium (Clover)](trifolium-repens.md)
+- [Medicago (Lucerne/Alfalfa)](medicago-sativa.md)
+
+## Implementation Framework
+
+Ley farming systems require careful planning of crop and pasture rotations.
+The cycle typically involves 2-4 years of pasture followed by 1-2 years of arable crops.
+Soil nitrogen fixation during the pasture phase reduces need for synthetic fertilizers.
+Root development improves soil structure and water infiltration capacity.
+
+## Economic Considerations
+
+Ley farming reduces input costs through natural fertility building and pest suppression.
+Livestock integration provides diversified income streams alongside crop production.
+Long-term soil health improvements reduce vulnerability to market fluctuations.
+Transition periods require careful financial planning and risk management.
+
+## Environmental Benefits
+
+Carbon sequestration in pasture phases contributes to climate change mitigation.
+Enhanced biodiversity supports beneficial insect populations and pollinator services.
+Reduced erosion and improved water quality result from continuous ground cover.
+Soil organic matter accumulation improves nutrient cycling and retention.
+
+## Regional Adaptations
+
+Temperate regions favor grass-clover leys with cereal or root crop phases.
+Mediterranean climates require drought-tolerant pasture species selection.
+Tropical adaptations incorporate leguminous trees and cover crop systems.
+Local knowledge and experimentation optimize rotation sequences for each context.
+
+## See Also
+- [[fukuoka-critique-of-organic-farming]]
+- [[fukuoka-road-to-natural-farming]]
+- [[natural-farming-principles]]

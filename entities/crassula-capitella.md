@@ -109,13 +109,8 @@ It is not considered invasive in any jurisdiction. The small size and specific h
 
 ## See Also
 
-- [[crassula-ovata]]
 - [[crassula-perforata]]
-- [[crassula-brevifolia]]
 - [[crassula-rupestris]]
-- [[sedum-rupestre]]
 - [[sedum-acre]]
-- [[echeveria-elegans]]
 - [[kalanchoe-blossfeldiana]]
-- [[portulacaria-afra]]
 - [[sempervivum-tectorum]]

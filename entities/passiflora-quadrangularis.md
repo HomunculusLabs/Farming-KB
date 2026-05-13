@@ -17,55 +17,13 @@ sources:
 
 ## Overview
 
-**Passiflora quadrangularis** L., commonly known as giant granadilla, barbadine, or badea, is the largest-fruited species in the genus *Passiflora*. Native to tropical [[guzman-psilocybin-mushrooms-south-america]], it produces massive edible fruits weighing 1–4 kg and is cultivated commercially for its aromatic pulp and as a rootstock for other *Passiflora* species.
-
-The species is a vigorous perennial climber with square-shaped (quadrangular) stems that give it its specific epithet. It is valued both as a food crop and in traditional medicine, where preparations of the leaves and roots are used for their sedative and anti-inflammatory properties.
-
-## Taxonomy and Morphology
-
-**Passiflora quadrangularis** L. was described by Linnaeus in 1753. It belongs to the subgenus *Passiflora*, supersection *Passiflora*, and is classified within the family Passifloraceae.
-
-The plant is a robust perennial climber with deeply four-angled (quadrangular) stems up to 15 m in length. The stem cross-section is distinctly square with ridged angles, a character unique among commonly cultivated Passiflora species.
-
-Tendrils are axillary, coiled, and robust, capable of supporting the considerable weight of mature vines and fruits. The climbing habit allows the vine to reach canopy height in forest gaps and along fence lines.
-
-Leaves are broadly ovate to cordate, 10–25 cm long and 8–20 cm wide, with entire or shallowly serrate margins. The petiole bears 2–4 conspicuous nectary glands that attract ant mutualists.
-
-Leaf color is dark green above and lighter green below, with a smooth adaxial surface. Young leaves may exhibit a reddish tinge that fades as they mature.
-
-Flowers are among the largest in the genus, measuring 8–12 cm in diameter. They have conspicuous pinkish-red sepals and petals, a prominent corona of banded filaments in white, pink, and purple, and a central androgynophore.
-
-The floral display lasts 1–2 days, with flowers opening in the morning and closing by evening. Pollination is primarily by large bees (Xylocopa spp.) and hummingbirds, though the flowers are also capable of self-pollination.
-
-Fruits are large, ovoid to oblong berries, 10–30 cm long and 8–15 cm in diameter, weighing 1–4 kg.
-
-The rind is smooth, green turning yellowish when ripe, with a thick (1–2 cm) spongy mesocarp. The inner pulp cavity contains the edible aril.
-
-The pulp is white to pale orange, sweet and aromatic, containing numerous black seeds (approximately 200–400 per fruit) embedded in a mucilaginous aril. Seed viability remains high for 6–12 months when stored dry.
-
-## Distribution and Habitat
-
-The species is native to the Neotropics, with a natural range extending from Venezuela and Colombia through Ecuador, Peru, Bolivia, and Brazil to Paraguay.
-
-It is widely cultivated throughout the tropical Americas, the Caribbean, West Africa, [[psilocybe-southeast-asia-pacific]], and northern Australia. In Australia, it has naturalized in coastal Queensland and is considered an environmental weed in some areas.
+**Passiflora quadrangularis** L., commonly known as giant granadilla, barbadine, or badea, is the largest-fruited species in the genus *Passiflora*. Native to tropical [[psilocybe-southeast-asia-pacific]], and northern Australia. In Australia, it has naturalized in coastal Queensland and is considered an environmental weed in some areas.
 
 It grows at elevations from sea level to 1,200 m in humid tropical and subtropical forests. The species prefers well-drained, fertile soils with abundant moisture and partial to full sun exposure.
 
 ## Cultivation
 
-Giant granadilla requires warm tropical or subtropical conditions with temperatures above 15°C. It is less cold-tolerant than purple passionfruit (*[[passiflora-edulis]]*), suffering damage below 5°C.
-
-Optimal rainfall is 1,500–2,500 mm distributed throughout the year. The species is sensitive to prolonged drought, which causes flower drop and reduced fruit set.
-
-Plants are propagated by seed (germination in 2–4 weeks) or more commonly by stem cuttings and layering.
-
-Softwood cuttings of 15–20 cm length with at least 2 nodes root readily under mist propagation. Cuttings produce fruit-bearing vines faster than seed-grown plants, typically within 8–12 months.
-
-A strong trellis or support system is essential due to the vine's massive weight at maturity. Wire-supported trellises at 2–2.5 m height are standard in commercial plantings.
-
-Flowering begins 12–18 months after planting. Fruit development requires 60–90 days from anthesis to maturity. Annual yields of 30–50 fruits per vine are common under good management, equivalent to 25–80 tonnes per hectare.
-
-The species is widely used as a rootstock for *P. edulis* and *P. ligularis* because of its disease resistance and vigorous root system. Grafted plants show improved tolerance to [[query-how-do-i-identify-prevent-and-treat-fusarium-wilt]] and nematodes.
+Giant granadilla requires warm tropical or subtropical conditions with temperatures above 15°C. It is less cold-tolerant than purple passionfruit (*[[query-how-do-i-identify-prevent-and-treat-fusarium-wilt]] and nematodes.
 
 ## Nutritional and Culinary Value
 
@@ -88,3 +46,88 @@ The leaves and roots contain flavonoids (vitexin, isovitexin, orientin, schaftos
 The fruit pulp contains carotenoids (beta-carotene, lycopene) and anthocyanins. Total polyphenol content of leaf extracts is comparable to that of green tea, contributing to significant antioxidant capacity.
 
 Pharmacological studies demonstrate anxiolytic, sedative, and anticonvulsant activities in animal models, primarily attributed to the flavonoid C-glycosides.
+
+## Overview
+
+Passiflora Quadrangularis represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish passiflora quadrangularis
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving passiflora extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Passiflora Quadrangularis finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for passiflora quadrangularis. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+passiflora quadrangularis and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Passiflora Quadrangularis has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of passiflora quadrangularis into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[passiflora-caerulea]]
+- [[passiflora-edulis]]
+- [[passiflora-foetida]]
+- [[passiflora-incarnata]]
+- [[passionflower-passiflora]]

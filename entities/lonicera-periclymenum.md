@@ -57,25 +57,15 @@ The species favors hedgerows, woodland edges, scrub, and open forests where ligh
 
 It thrives in partial shade to full sun on a range of soil types including loam, chalk, and sandy soils. It prefers calcareous to moderately acidic, well-drained conditions but tolerates clay if not persistently waterlogged.
 
-Several cultivated varieties have naturalized beyond their native range in [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]] worldwide, particularly in [[guzman-psilocybin-mushrooms-north-america]] and New Zealand. In the British Isles, it is a quintessential hedgerow plant deeply embedded in rural culture and folklore.
+Several cultivated varieties have naturalized beyond their native range in [[guzman-psilocybin-mushrooms-north-america]] and New Zealand. In the British Isles, it is a quintessential hedgerow plant deeply embedded in rural culture and folklore.
 
-Unlike its relative [[lonicera-japonica]], Lonicera periclymenum is not considered invasive in [[berry-growing]], though it can be vigorous in favorable sites.
+Unlike its relative [[berry-growing]], though it can be vigorous in favorable sites.
 
 ## Cultivation
 
 Common honeysuckle is hardy in USDA zones 5–9 and grows vigorously once established. It prefers a cool root zone with its top growth in sun or partial shade, mimicking its natural woodland-edge habitat.
 
-Plant against fences, trellises, or arbors in moist but well-drained soil enriched with [[fukuoka-textdoc-composting-critique-futility-prepared-organic-matter]]. Apply a thick mulch around the base in spring to keep roots cool and conserve moisture during dry summer periods.
-
-Prune after flowering by removing one-third of the oldest stems at ground level to encourage fresh basal shoots. This renovation pruning prevents the plant from becoming a tangled mass of bare, leafless stems at the base.
-
-Propagate from semi-hardwood cuttings taken in midsummer, or from seed stratified over winter at 1–5°C for 3–4 months. Cultivars are propagated vegetatively to preserve flower color and fragrance traits faithfully.
-
-Notable cultivars include 'Graham Thomas' (pale yellow flowers, prolonged bloom), 'Serotina' (late-flowering, deep purple buds, exceptional fragrance), and 'Belgica' (early Dutch honeysuckle with pink-tinged blooms).
-
-The species has earned the Royal Horticultural Society's Award of Garden Merit, confirming its reliability and gardenworthiness in UK conditions.
-
-[[container-growing-vegetables-herbs]] is possible with a large pot (at least 40 cm diameter) and regular watering through [[query-how-to-protect-plants-from-frost-and-extend-the-growing-season]]. Container-grown plants are more susceptible to [[cervantes-powdery-mildew-prevention-treatment]] due to root stress and should be monitored closely.
+Plant against fences, trellises, or arbors in moist but well-drained soil enriched with [[container-growing-vegetables-herbs]] is possible with a large pot (at least 40 cm diameter) and regular watering through [[cervantes-powdery-mildew-prevention-treatment]] due to root stress and should be monitored closely.
 
 ## Ecological Role
 

@@ -16,20 +16,12 @@ type: query
 
 Quail are small, efficient poultry that integrate beautifully into permaculture systems by producing eggs, meat, and fertilizer in a compact footprint.
 They require minimal space, feed efficiently, and mature in just six weeks, making them ideal for small properties.
-The [[comparison-chicken-keeping-vs-quail-husbandry]] page provides a detailed side-by-side comparison of both species.
-Quail require roughly one-tenth the space of chickens and can be housed in simple ground-level enclosures.
-They reach processing weight in just six weeks compared to twelve or more weeks for meat chickens.
-This rapid turnaround means you can produce multiple generations per year from a single breeding pair.
 The [[faires-pigeon-quail-and-waterfowl-systems]] page covers housing designs for small poultry operations.
 Quail are ground-dwelling birds and do not require roosting perches like chickens do.
 They can be housed in colony cages, ground pens, or tractored across garden beds for fertility cycling.
 Mobile quail tractors are simple to build and allow the birds to fertilize different garden areas sequentially.
-The [[knf-poultry-natural-farming]] page covers Korean [[comparison-natural-farming-vs-permaculture]] approaches to quail nutrition.
-The [[cho-poultry-natural-farming-methods]] page covers Cho Global Natural Farming techniques for poultry health.
-
-## Egg and Meat Production
-
-Coturnix quail are the most popular breed for both egg and meat [[mollison-pigeons-and-squab-production-in-permaculture-systems]] systems.
+The [[comparison-natural-farming-vs-permaculture]] approaches to quail nutrition.
+The [[mollison-pigeons-and-squab-production-in-permaculture-systems]] systems.
 The Coturnix japonica, also known as Japanese quail, has been domesticated for centuries and comes in several color varieties.
 The faires-rabbit-and-small-poultry-keeping page covers processing and marketing small livestock products.
 Quail meat is tender and flavorful, and the birds are easy to process at home with minimal equipment.
@@ -51,28 +43,9 @@ This closed-loop approach exemplifies the permaculture principle of every elemen
 
 ## Key Points
 - Quail are compact, efficient poultry that produce eggs and meat in a fraction of the space required by chickens
-- [[comparison-chicken-keeping-vs-quail-husbandry]] compares the advantages of quail over chickens
 - [[comparison-quail-husbandry-vs-rabbit-husbandry]] helps choose between quail and rabbits for small properties
-- [[query-how-to-start-a-backyard-chicken-flock]]
 - [[query-how-do-i-use-black-soldier-flies-for-composting-and-animal-feed]]
-- [[query-how-to-design-a-permaculture-property-from-scratch]]
-## Practical Considerations
-
-When working with How to Raise Quail in a Permaculture System?, several practical factors should be
-carefully considered to achieve optimal results. These include
-the specific conditions of the implementation context, available
-resources, timing requirements, and the interactions between this
-topic and other elements of the broader system. A holistic view
-that considers these interconnections produces better outcomes.
-
-Environmental conditions such as temperature, moisture, and
-seasonal patterns significantly influence results. Monitoring these
-variables and adapting practices accordingly is essential for success.
-The most effective practitioners develop keen observation skills and
-respond flexibly to changing conditions rather than following rigid
-protocols regardless of circumstances or local variation.
-
-[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
+- [[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.

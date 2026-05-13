@@ -8,27 +8,13 @@ type: concept
 
 ## Overview
 
-Time is one of the most critical resources in any ecological system, yet it is the resource most often ignored or mismanaged by conventional agriculture and economic systems. In [[permaculture-design]], understanding the relationship between time, yield, and [[ecological-succession]] is fundamental to creating productive, resilient systems that work with — rather than against — natural processes. As Mollison emphasizes, the health and productivity of any system depends on how well we manage the time dimension of energy flow, species assembly, and renewal.
+Time is one of the most critical resources in any ecological system, yet it is the resource most often ignored or mismanaged by conventional agriculture and economic systems. In [[ecological-succession]] is fundamental to creating productive, resilient systems that work with — rather than against — natural processes. As Mollison emphasizes, the health and productivity of any system depends on how well we manage the time dimension of energy flow, species assembly, and renewal.
 
 ## Complexity and Standing Crop
 
 ### Carlander's Finding on Species Diversity
 
-Research by [[carlander]] demonstrated a principle with far-reaching implications for ecological design: **the standing crop of fish increases with the number of species present** in a given aquatic environment. This finding reinforces a broader ecological truth — diversity is not merely an aesthetic or ethical consideration, but a measurable driver of productivity. More species mean more niches occupied, more efficient resource cycling, and ultimately greater total biomass.
-
-This principle extends well beyond aquatic systems. Wild ecosystems consistently exhibit greater complexity and higher standing crop than simple cultivated ecologies. A mature forest, a diverse grassland, or a rich wetland stores far more energy in living tissue than any monoculture plantation. The reason is straightforward: complex systems capture, transform, and retain energy across many pathways simultaneously, whereas simplified systems leak energy at every stage.
-
-## The Cost of Simplification
-
-### Replacing Rich Ecosystems with Monocultures
-
-When humans clear complex natural systems and replace them with simplified monocultures, the results are consistently catastrophic in terms of total yield. Clearing the African veld or the Australian savannah — both extraordinarily diverse and productive landscapes — and replacing them with monoculture pasture or pine plantations **decreases total yields dramatically**. The monetary returns of a single-species system may look attractive on a spreadsheet, but the actual biological productivity — measured in total biomass, soil fertility, water retention, and species supported — plummets.
-
-This is not a marginal effect; it represents an order-of-magnitude reduction in the system's capacity to sustain life. The wild systems we destroy are, in energetic terms, far more productive than what we put in their place. The apparent "efficiency" of monoculture is an illusion sustained only by massive external energy inputs — fossil fuels, fertilizers, pesticides, irrigation — that mask the system's fundamental poverty.
-
-### Managing Natural Yields vs. Economic Systems
-
-The distinction between managing natural yields and replacing them with so-called "economic" systems is central to [[permaculture]] philosophy. Natural systems already produce abundantly — they produce food, fiber, fuel, medicine, habitat, clean water, and stable climate as an integrated whole. The "economic" systems that replace them typically produce only one commodity while degrading or destroying all other yields. Mollison argues that we should be managing for total system yield, not for the simplified monetary output that conventional economics privileges.
+Research by [[permaculture]] philosophy. Natural systems already produce abundantly — they produce food, fiber, fuel, medicine, habitat, clean water, and stable climate as an integrated whole. The "economic" systems that replace them typically produce only one commodity while degrading or destroying all other yields. Mollison argues that we should be managing for total system yield, not for the simplified monetary output that conventional economics privileges.
 
 ## Energy Economics
 
@@ -44,7 +30,7 @@ Mollison's dictum is clear and uncompromising: **"Any system which wastes energy
 
 Over time, natural systems accumulate species. Ponds, hedgerows, abandoned fields, and recovering forests all demonstrate the same pattern: **species richness increases with time** as organisms arrive through natural dispersal and as niches evolve and diversify. A newly dug pond may start with only a handful of species, but within years it will support a complex web of aquatic plants, invertebrates, amphibians, fish, and birds — each occupying a specific niche created by the presence and activities of the others.
 
-Hedgerows follow the same trajectory. What begins as a simple planted windbreak gradually becomes a corridor of increasing complexity, supporting lichens, mosses, fungi, insects, birds, and small mammals. This accumulation of species is not random; it is the system organizing itself to capture and cycle energy more efficiently.
+Hedgerows follow the same trajectory. What begins as a simple planted windbreak gradually becomes a corridor of increasing complexity, supporting [[lichens]], mosses, fungi, insects, birds, and small mammals. This accumulation of species is not random; it is the system organizing itself to capture and cycle energy more efficiently.
 
 ### Dominants and Hyper-Predators
 

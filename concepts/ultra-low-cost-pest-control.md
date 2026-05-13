@@ -18,22 +18,7 @@ Modern agriculture has relied on increasingly toxic chemical pesticides, yet pes
 
 ## Why Pests Attack
 
-JADAM frames pest problems as symptoms of underlying crop weakness rather than enemies to be destroyed. [[query-how-to-manage-pests-and-diseases-in-mushroom-cultivation]] primarily attack crops that are already stressed, malnourished, or growing in unfavorable conditions. A healthy crop with balanced nutrition, strong roots, and a diverse [[edaphic-factors-microbial-community-structure]] has natural resistance that makes pesticides largely unnecessary. This is why JADAM emphasizes soil management and [[jadam-nutritional-balance-fertilizer]] as the first line of defense against pests.
-
-Key factors that weaken crops and invite pest attacks:
-- Soil compaction preventing proper root development
-- Nutritional imbalances from incorrect fertilization
-- Temperature stress from poor soil management
-- Loss of microbial diversity in soil and on leaf surfaces
-- Chemical residues from previous pesticide applications
-
-## JADAM Natural Pesticide (JNP)
-
-JADAM Natural Pesticide is a homemade, ultra-low-cost alternative to commercial pesticides. The basic formula uses only three categories of ingredients, all permitted under organic production standards:
-
-**Base ingredients:**
-- JADAM Wetting Agent (JWA) — a surfactant made from canola oil and caustic potash that ensures the pesticide coats and penetrates target surfaces
-- JADAM Indigenous [[jadam-microorganism-solution-culturing]] (JMS) — provides biological activity
+JADAM frames pest problems as symptoms of underlying crop weakness rather than enemies to be destroyed. [[edaphic-factors-microbial-community-structure]] has natural resistance that makes pesticides largely unnecessary. This is why JADAM emphasizes soil management and [[jadam-microorganism-solution-culturing]] (JMS) — provides biological activity
 - Herbal active ingredients — selected based on the target pest
 
 **Herbal ingredients for specific pests:**
@@ -73,11 +58,7 @@ JADAM's website (en.jadam.kr) contains thousands of farmer-contributed case stud
 
 Beyond sprayed pesticides, JADAM employs several physical and cultural methods:
 
-**Mulching for pest suppression:** Leaving grass cut at 5 cm height between crop rows helps stop the spread of aphids and mites. The grass creates a physical barrier and harbors [[comparison-beneficial-insects-guide-vs-integrated-pest-management]] that prey on pests.
-
-**Cover crop integration:** Growing cover crops in orchards and between rows reduces pest incidence by increasing biodiversity. A diverse plant community supports diverse insect populations, preventing any single pest species from dominating.
-
-**Soil temperature management:** Hot soil temperatures stress crops and make them susceptible to pests. JADAM's [[solomon-mulching-and-cover-cropping]] crop methods maintain moderate soil temperatures, keeping crops healthy and pest-resistant.
+**Mulching for pest suppression:** Leaving grass cut at 5 cm height between crop rows helps stop the spread of aphids and mites. The grass creates a physical barrier and harbors [[solomon-mulching-and-cover-cropping]] crop methods maintain moderate soil temperatures, keeping crops healthy and pest-resistant.
 
 **Proper spacing:** Leaving ample space between crop rows allows grass to grow without competing with crops, while providing the biodiversity benefits that suppress pest populations.
 
@@ -88,3 +69,82 @@ JADAM directly challenges the conventional practice of removing all crop residue
 ## [[integrated-pest-management]]: The JADAM Way
 
 JADAM's approach can be summarized as a form of integrated pest management that prioritizes prevention over treatment:
+
+## Overview
+
+Ultra Low Cost Pest Control represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish ultra low cost pest control
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving ultra extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Ultra Low Cost Pest Control finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for ultra low cost pest control. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+ultra low cost pest control and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Ultra Low Cost Pest Control has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of ultra low cost pest control into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also

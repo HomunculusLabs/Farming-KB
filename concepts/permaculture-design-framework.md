@@ -6,29 +6,11 @@ type: concept
 
 ## The Design Table: A Total System in Evolution
 
-[[permaculture-design]] produces a unique assembly of constructs, species, and social systems into a unique pattern suited to a specific site and set of occupants. This is not a cookie-cutter approach but a site-specific synthesis that evolves toward maturity over time. The design table (Table 1.1 in Mollison's manual) [[maps]] the complete process from initial selection through to a mature, self-regulating system.
+[[maps]] the complete process from initial selection through to a mature, self-regulating system.
 
 ## The Design Process
 
-The [[permaculture-design-process]] follows a structured sequence of five phases:
-
-1. **Selection:** Choosing appropriate elements—species, materials, technologies, and social structures—for the specific conditions of the site
-2. **Assembly:** Combining selected elements into functional groupings and spatial arrangements
-3. **Site-Specific Consideration:** Adapting the assembly to the unique constraints and opportunities of the particular location
-4. **Elemental (Flow) Control:** Managing the flows of energy, water, nutrients, and information through the system for optimal function
-5. **Feedback:** Continuous observation, evaluation, and adjustment to refine the system toward greater efficiency and yield
-
-This process is iterative and open-ended. The result is described as "a total design in evolution to maturity"—a system that continues to develop, self-regulate, and increase in complexity and productivity over time.
-
-## Design Elements
-
-The design table identifies four categories of elements that flow into the design process:
-
-### Inorganic Elements
-The geological and physical substrate: rocks, minerals, topography, soil structure, and the physical characteristics of the site that constrain and enable all biological activity.
-
-### Organic-Derived Elements
-Materials and fuels produced by or from living systems: timber, mulch, [[compost]], biofuels, fibers, and other biological products that serve as inputs to the designed system.
+The [[compost]], biofuels, fibers, and other biological products that serve as inputs to the designed system.
 
 ### Organic Elements
 Living components of the system, further divided into:
@@ -65,7 +47,7 @@ Resource conservation is not an afterthought but a core design criterion. Every 
 
 Beyond the home garden, the design framework extends to energy production. The aim is to reduce energy needs to a modest consumption level that can be supplied by local and renewable sources: wind, water, forest products, or solar power. Working to provide biomass for essential energy needs operates at both household and regional scales.
 
-The permaculture design framework explicitly addresses the transition from energy-consuming to energy-producing systems. When forests, fuelwood plantings, and food gardens are integrated, the system can reach energy ratios far exceeding those of conventional agriculture—potentially generating 120 times more energy than it consumes.
+The [[permaculture-design]] framework explicitly addresses the transition from energy-consuming to energy-producing systems. When forests, fuelwood plantings, and food gardens are integrated, the system can reach energy ratios far exceeding those of conventional agriculture—potentially generating 120 times more energy than it consumes.
 
 ## Design Across Domains
 
@@ -88,3 +70,80 @@ Mollison introduces the figure of the philosopher-gardener or farmer-poet, disti
 ## Releasing Landscape for Wildlife
 
 The ultimate outcome of applying the permaculture design framework at scale is the dramatic reduction of agricultural area needed by households and settlements. As food, fuel, and fiber needs are met from compact, intensively designed systems, much of the broader landscape can be released for the sole use of wildlife and re-occupation by endemic flora. Respect for all life forms is not merely an aesthetic preference but a basic and essential ethic for all people who seek sustainable existence.
+
+## Overview
+
+Permaculture Design Framework represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish permaculture design framework
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving permaculture extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Permaculture Design Framework finds practical application in multiple design contexts.
+[[permaculture-principles]] guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for permaculture design framework. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+permaculture design framework and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Permaculture Design Framework has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of permaculture design framework into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.

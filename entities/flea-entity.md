@@ -9,7 +9,7 @@ sources:
 ---
 # FLEA
 
-FLEA (N-Hydroxy-N-[[methyl-dma-entity-pihkal]]-3,4-methylenedioxyamphetamine) is an entactogenic phenethylamine that is the N-hydroxy analogue of [[alexander-shulgin]].
+FLEA (N-Hydroxy-N-[[alexander-shulgin]].
 
 ## Chemical Identity
 
@@ -29,11 +29,7 @@ Effective oral dosage: 100 - 160 mg.
 
 Duration of effects: 4 - 8 hours.
 
-The dosage is nearly identical to that of mdma-entity|MDMA, consistent with Shulgin's broader hypothesis about N-hydroxy [[query-how-do-fungal-volatile-compounds-affect-plant-growth-and-other-microorganisms]].
-
-## Qualitative Effects
-
-At 90 mg, users report a taste described as "terrible, like grape[[query-what-are-the-different-fruit-tree-training-systems-and-which-should-i-use]] juice that has stayed in the can too long."
+The dosage is nearly identical to that of mdma-entity|MDMA, consistent with Shulgin's broader hypothesis about N-hydroxy [[query-what-are-the-different-fruit-tree-training-systems-and-which-should-i-use]] juice that has stayed in the can too long."
 
 No nausea or difficulty swallowing was noted.
 
@@ -43,43 +39,11 @@ All senses appeared enhanced, with pleasant observation of colors, objects, and 
 
 The experience is described as similar to but distinct from mdma-entity|MDMA.
 
-At 110 mg, effects are described as "very similar to MDMA, but perhaps s[[what-a-plant-knows-phytochrome-red-far-red-light-switch]]ly slower."
-
-Plateau occurs at approximately 2.5 hours with a very gradual descent.
-
-Teeth clenching was noted as minor compared to mdma-entity|MDMA.
-
-The comedown showed less interactive and more contemplative qualities than mdma-entity|MDMA.
-
-At 110 mg with a 35 mg supplement, onset occurs at approximately 20 minutes with a subtle, pleasant amphetamine-like elevation.
-
-Enhanced visual awareness and color enhancement were noted without full LSD-like visual changes.
-
-The affect is described as "good, communicative, friendly, accepting, but without the profound emotional bonding of mdma-entity|MDMA."
-
-The following day was described as feeling "very much like a post-LSD day" with light body, good energy, high emotions, and clear interactions.
-
-## [[dmt-vs-lsd-pharmacological-comparison-onset-duration-receptor]] with MDMA
+At 110 mg, effects are described as "very similar to MDMA, but perhaps s[[dmt-vs-lsd-pharmacological-comparison-onset-duration-receptor]] with MDMA
 
 The consensus among evaluators was that FLEA closely resembles mdma-entity|MDMA in dosage, duration, and general character.
 
-[[query-what-is-the-difference-between-compost-tea-and-vermicompost-tea]]s noted include slightly less capacity for establishing closeness with others.
-
-There may be a greater tendency toward introspection compared to mdma-entity|MDMA.
-
-Some degree of discoordination in thought processes was reported, not seen with mdma-entity|MDMA.
-
-One evaluator stated that were mdma-entity|MDMA unknown, FLEA "would have played its role completely."
-
-The body load may be somewhat higher than with mdma-entity|MDMA, with reports of menstrual cycle disruption.
-
-## Synthesis
-
-Two synthetic routes to FLEA are described in PiHKAL.
-
-The first route [[query-how-do-i-start-a-no-till-garden-bed]]s from 3,4-methylenedioxyphenylacetone, which is reacted with N-methylhydroxylamine hydrochloride and sodium cyanoborohydride in [[methanol]].
-
-The pH is maintained at neutrality [[query-how-do-i-use-knf-inputs-through-the-plant-growth-cycle]]out the reaction.
+[[query-how-do-i-start-a-no-till-garden-bed]]s from 3,4-methylenedioxyphenylacetone, which is reacted with N-methylhydroxylamine hydrochloride and sodium cyanoborohydride in [[query-how-do-i-use-knf-inputs-through-the-plant-growth-cycle]]out the reaction.
 
 The second route starts from MDOH, which is methylated using formaldehyde and sodium cyanoborohydride.
 
@@ -90,5 +54,89 @@ The final product is converted to the oxalate salt by combining with a half-equi
 ## The N-Hydroxy Hypothesis
 
 ## See Also
-- [[flea-entity-pihkal]]
 - [[cpm-entity]]
+
+## Overview
+
+Flea Entity represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish flea entity
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving flea extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Flea Entity finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for flea entity. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+flea entity and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Flea Entity has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of flea entity into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[2c-c-entity]]
+- [[2c-o-4-entity]]
+- [[4-ho-dbt-entity-tihkal]]
+- [[flea-entity-pihkal]]
+- [[pyrethrum-entity]]

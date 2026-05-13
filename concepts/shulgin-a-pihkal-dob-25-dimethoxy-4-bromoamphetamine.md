@@ -1,7 +1,7 @@
 ---
 title: DOB (2,5-Dimethoxy-4-Bromoamphetamine)
 source: shulgin-a-pihkal.md
-source_author: [[alexander-shulgin]]
+source_author: alexander-shulgin
 category: phenethylamines
 tags: [dob, amphetamine, psychedelic, shulgin, 5-ht2a, potent, long-duration]
 mined: 2026-05-10
@@ -53,20 +53,7 @@ DOB's extreme potency means that dosage errors are potentially dangerous. The di
 
 ### Isomer-Specific Effects
 
-Shulgin explored both [[optical-isomers-psychedelic-phenethylamines]] separately:
-
-- **R-isomer** (1.0 mg): Smooth intoxication, fully functional but clearly ++. Comfortable at 0.5 mg.
-- **R-isomer** (1.5 mg): +++ with heavy body load. "Would not wish any higher dosage."
-- **S-isomer** (1.0 mg): Only threshold effects, very slight. Gone by hour five.
-- **S-isomer** (0.5 mg): No effects at all.
-
-The R-isomer is approximately 4x more potent than the S-isomer, consistent with all other psychedelic amphetamines studied as individual isomers (DOB, DOM, MDA).
-
-## Synthesis
-
-The synthesis is relatively straightforward, proceeding via direct electrophilic bromination:
-
-1. **[[shirota-4-hydroxyindole-acetyl-protection-psilocin-synthesis-starting-material]]**: 2,5-Dimethoxyamphetamine (2,5-DMA) free base is dissolved in glacial acetic acid.
+Shulgin explored both [[shirota-4-hydroxyindole-acetyl-protection-psilocin-synthesis-starting-material]]**: 2,5-Dimethoxyamphetamine (2,5-DMA) free base is dissolved in glacial acetic acid.
 2. **Bromination**: Elemental bromine in acetic acid is added dropwise over 5 minutes. The slightly exothermic reaction is stirred for 3 hours.
 3. **Workup**: The mixture is diluted with water, washed with ether to remove excess bromine, basified with NaOH, and extracted with dichloromethane.
 4. **Salt formation**: The free base oil is dissolved in ether and saturated with HCl gas, precipitating DOB hydrochloride as fine white crystals.
@@ -84,37 +71,16 @@ Shulgin conducted limited toxicity studies in mice prior to human exploration:
 - **125 mg/kg (ip)**: Loss of righting reflex, convulsions at 50 minutes, death at 80 minutes
 - **150 mg/kg (ip)**: Spontaneous convulsions within 10 minutes, death at 22 minutes
 
-LD50 estimated between 100-125 mg/kg in mice. With a human effective dose of ~25 μg/kg, the [[cannabis-therapeutic-index-overview]] exceeds 1000.
-
-### Human Safety Concerns
-
-Despite the high therapeutic index in animals, several factors make DOB more dangerous in practice:
-
-- **Dosage confusion**: Users have mistaken DOB for [[mdma]], leading to massive overdoses. One reported fatality involved a young woman who snorted over 9 mg thinking it was MDA.
+LD50 estimated between 100-125 mg/kg in mice. With a human effective dose of ~25 μg/kg, the [[mdma]], leading to massive overdoses. One reported fatality involved a young woman who snorted over 9 mg thinking it was MDA.
 - **Arterial vascular spasm**: Tragic overdose cases have involved arterial vascular spasm, potentially leading to amputation or death.
 - **Duration risk**: The 18-30 hour duration means overdoses cannot be "waited out" comfortably.
 - **Misidentification**: In many overdose cases attributed to DOB, the actual drug identity was never established.
 
 ### The Bromine Advantage and Risk
 
-The bromine atom that makes DOB valuable as a research tool also creates a specific risk profile. Heavy halogen substitution is associated with increased [[beta-glucan-receptor-binding]] affinity and prolonged duration, but also with potential vascular effects not seen in lighter compounds.
-
-## Radiolabelled DOB Research
-
-DOB labeled with 82Br or 77Br has been used as a radioligand for mapping 5-HT2 receptors in living human subjects using whole-body scanning. Key findings include:
-
-- **Pulmonary accumulation**: DOB accumulates preferentially in the lungs for the first few hours after administration
-- **Delayed brain uptake**: Central effects begin only after pulmonary accumulation, suggesting metabolic conversion in lung tissue
-- **Receptor mapping**: The slow onset and long duration of DOB's effects are consistent with this pharmacokinetic profile
-
-This research has implications for understanding the mechanism of all psychedelic amphetamines and their relationship to serotonergic receptor systems.
-
-## Pharmacological Significance
-
-DOB is one of the most potent 5-HT2A [[cannabinoid-receptor-agonists-antagonists-synthetic-reference-blesching]] known. It has been used extensively as a reference compound in [[tihkal-receptor-binding-serotonin]] studies and drug discrimination research. Its high affinity and selectivity for 5-HT2 receptors make it a benchmark compound in [[taar1-trace-amine-associated-receptor-psychedelic-pharmacology]].
+The bromine atom that makes DOB valuable as a research tool also creates a specific risk profile. Heavy halogen substitution is associated with increased [[cannabinoid-receptor-agonists-antagonists-synthetic-reference-blesching]] known. It has been used extensively as a reference compound in [[taar1-trace-amine-associated-receptor-psychedelic-pharmacology]].
 
 ## See Also
 
 - doi 25 dimethoxy 4 iodoamphetamine — the iodo analogue, even more potent
-- [[shulgin-dom-stp-phenethylamine-amphetamine-relationship]] 4 methyl 25 dimethoxyamphetamine — the methyl analogue
 - [[shulgin-a-pihkal-2c-b-4-bromo-25-dimethoxyphenethylamine]] — the 2-carbon (non-amphetamine) analogue

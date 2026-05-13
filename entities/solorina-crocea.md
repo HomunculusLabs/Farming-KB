@@ -22,9 +22,7 @@ sources:
 
 Solorina crocea, commonly known as the chocolate chip lichen or orange felt lichen, is a distinctive foliose lichen in the family Peltigeraceae. It is named for the bright orange apothecia that contrast sharply with its dark green to brown thallus surface, resembling chocolate chips embedded in the thallus.
 
-The species is bipolar in distribution, occurring in arctic and alpine regions of both hemispheres. In the Northern Hemisphere, it ranges across the Arctic and high mountain ranges, while [[guzman-allen-gartz-africa-southern-hemisphere-underexplored-neurotropic-fungi]] populations are found in Patagonia, New Zealand, and southeastern Australia.
-
-Solorina crocea is a bipartite lichen containing both a green algal photobiont and a cyanobacterial photobiont. This dual photobiont system enables [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]] and gives the species considerable ecological significance in nitrogen-limited arctic and alpine ecosystems.
+The species is bipolar in distribution, occurring in arctic and alpine regions of both hemispheres. In the Northern Hemisphere, it ranges across the Arctic and high mountain ranges, while [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]] and gives the species considerable ecological significance in nitrogen-limited arctic and alpine ecosystems.
 
 ## Taxonomy and Morphology
 
@@ -42,7 +40,7 @@ Rhizines are simple to sparingly branched, brown, and typically 1 to 3 millimete
 
 The most distinctive feature is the presence of large, bright orange to reddish-orange apothecia, 1 to 5 millimeters in diameter, that are immersed in the thallus surface. These fruiting bodies give the species its common name of chocolate chip lichen and are the primary field identification character.
 
-Spores are brown, ellipsoid to fusiform, muriform (multi-septate), and measure 35 to 65 by 12 to 18 micrometers. The muriform spore type and bright orange apothecia distinguish Solorina crocea from all other species in the genus.
+Spores are brown, ellipsoid to fusiform, muriform (multi-septate), and measure 35 to 65 by 12 to 18 micrometers. The muriform [[spore]] type and bright orange apothecia distinguish Solorina crocea from all other species in the genus.
 
 The muriform spore septation is one of the most distinctive cytological features of the genus Solorina, with individual spores containing 10 to 20 transverse and longitudinal septa. This complex septation pattern is relatively uncommon among lichenized ascomycetes and aids in spore identification under the microscope.
 
@@ -66,19 +64,7 @@ At high elevations, Solorina crocea often occurs in exposed, wind-scoured sites 
 
 ## Chemistry and Uses
 
-Solorina crocea contains several [[antifungal-secondary-metabolites-coprophilous-fungi]], including solorinic acid and methyl solorinate as the major compounds. These anthraquinone derivatives are responsible for the orange coloration of the apothecia and contribute to the species' UV-protective chemistry.
-
-The medulla reacts K+ yellow to red and PD+ orange, reactions that are diagnostic for the presence of solorinic acid derivatives. These spot tests are commonly used in field identification to confirm Solorina crocea and distinguish it from morphologically similar Peltigera species.
-
-The intensity of the color reactions varies with the age and moisture content of the thallus, with the strongest reactions observed in fresh, actively growing material.
-
-Traditional use of Solorina crocea is limited, though related Solorina species have been used as food by Indigenous peoples of the Arctic. The thallus has a mild flavor when leached of lichen acids and has reportedly been eaten in survival situations.
-
-In northern Scandinavia, S. saccata was historically consumed as a famine food after prolonged boiling to remove bitter lichen acids. Solorina crocea, being less common, was likely used only occasionally when more readily available lichen species were scarce.
-
-The anthraquinone pigments responsible for the orange apothecial coloration have been investigated for their potential as natural dyes. Solorinic acid produces warm orange to red-brown colors on wool when used with alum mordants, though the small size and rarity of the species limit its practical value for dyeing.
-
-The nitrogen-fixing capacity of the cyanobacterial photobiont has attracted scientific interest in the species' role in [[query-how-does-nitrogen-cycling-work-in-a-permaculture-system]]. Studies have measured nitrogen fixation rates in Solorina crocea that are comparable to those of other bipartite Peltigeraceae, with rates of 1 to 3 kilograms per hectare per year in favorable conditions.
+Solorina crocea contains several [[query-how-does-nitrogen-cycling-work-in-a-permaculture-system]]. Studies have measured nitrogen fixation rates in Solorina crocea that are comparable to those of other bipartite Peltigeraceae, with rates of 1 to 3 kilograms per hectare per year in favorable conditions.
 
 Nitrogen fixation is temperature-dependent, with optimal rates occurring between 15 and 25 degrees Celsius and declining sharply at temperatures below 5 degrees. This thermal constraint limits nitrogen input to the brief arctic and alpine growing season when temperatures are sufficient for cyanobacterial activity.
 
@@ -87,3 +73,78 @@ Nitrogen fixation is temperature-dependent, with optimal rates occurring between
 Solorina crocea plays an important role in nitrogen input to arctic and alpine ecosystems through the activity of its cyanobacterial photobiont. In nitrogen-limited tundra soils, this input can be ecologically significant, particularly during the short growing season when [[biological-nitrogen-fixation-agriculture]] demand is highest.
 
 Solorina crocea contributes to soil stabilization in arctic and alpine habitats, where its thallus helps bind loose substrate and reduces erosion. Its presence is often associated with well-developed moss-lichen mats that form a critical component of the cryptogamic ground cover in cold ecosystems.
+
+## Overview
+
+Solorina Crocea represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish solorina crocea
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving solorina extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Solorina Crocea finds practical application in multiple design contexts.
+[[permaculture-principles]] guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for solorina crocea. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+solorina crocea and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Solorina Crocea has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of solorina crocea into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and

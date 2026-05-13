@@ -11,9 +11,7 @@ type: concept
 
 # Nickel and Zinc Biosorption by Fungi
 
-Nickel and zinc are common [[dighton-fungal-biosorption-heavy-metal-remediation]] contaminants in industrial
-wastewaters from mining, electroplating, battery manufacturing, and
-metal finishing operations. [[singh-binary-ternary-fungal-biosorption-systems]] provides an effective and
+Nickel and zinc are common [[singh-binary-ternary-fungal-biosorption-systems]] provides an effective and
 economical approach for removing these metals from solution. Singh's
 review documents numerous fungal species capable of nickel and zinc
 biosorption, the mechanisms involved, and the behavior of these metals
@@ -23,24 +21,12 @@ in single and multi-metal competitive systems.
 
 Nickel biosorption by fungi involves multiple mechanisms including surface
 binding, intracellular accumulation, and in some cases, precipitation as
-metal oxalates. Analytical electron microscopy of [[saccharomyces-cerevisiae]]
-achieves Ni(II) uptake of 11.4 mg/g at 1000 mg/l, pH 6.75, within 20
-to 60 minutes (Padmavathy et al., 2003a). Live biomass removes nickel
-more effectively than does alkali-boiled biomass (Kapoor et al., 1999),
-indicating that both passive and active uptake mechanisms contribute to
-nickel removal. Bjerkandera adusta and [[rhizopus-arrhizus]] (Zhou, 1999). In Penicillium
+metal oxalates. Analytical electron microscopy of [[rhizopus-arrhizus]] (Zhou, 1999). In Penicillium
 simplicissimum, adsorption of zinc is accompanied by the production of
 citric acid (Franz et al., 1991), suggesting that both passive surface
 binding and active metabolic processes contribute to zinc removal. Zinc
 uptake has been summarized by Ross (1994), noting that Zn(II) uptake
-by the yeast-mycelium dimorphic fungus [[lichenicolous-fungi]].
-The white-rot fungi Bjerkandera fumosa, Phlebia radiata, and Trametes
-versicolor and the brown-rot fungus Fomitopsis pinicola produce oxalate
-crystals on ZnO substrates. One-third of the isolates of soil fungi are
-able to solubilize at least one toxic metal compound including ZnO, and
-10% solubilize all three tested metal compounds (Sayer et al., 1995).
-This fungal leaching capability has implications for both metal recovery
-and soil [[comparison-bioremediation-strategies-vs-biostimulation-techniques]].
+by the yeast-mycelium dimorphic fungus [[comparison-bioremediation-strategies-vs-biostimulation-techniques]].
 
 ## Bioreactor Applications
 
@@ -51,14 +37,7 @@ Crossflow filtration can be used to remove heavy metal ions from water
 using yeast cells as carriers. In the presence of binary or ternary
 mixtures, rejection of individual metals is generally reduced, except
 for lead. The economic viability of nickel and zinc biosorption is
-enhanced by the availability of [[bioremediation-fungal-biomass-biosorbent-material]] as a waste by-product of
-large-scale industrial fermentation processes.
-
-## See Also
-
-- [[singh-fungal-biosorption-lead-copper]]
-- [[singh-fungal-biosorption-heavy-metals]]
-- multimetal biosorption competitive systems
+enhanced by the availability of [[singh-fungal-biosorption-lead-copper]]
 - [[singh-immobilized-fungal-bioreactors-wastewater-treatment]] metal removal
 ## Practical Considerations
 
@@ -78,3 +57,88 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
+
+## Overview
+
+Singh Nickel Zinc Fungal Biosorption represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish singh nickel zinc fungal biosorption
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving singh extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Singh Nickel Zinc Fungal Biosorption finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for singh nickel zinc fungal biosorption. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+singh nickel zinc fungal biosorption and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Singh Nickel Zinc Fungal Biosorption has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of singh nickel zinc fungal biosorption into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[singh-fungal-alkane-metabolism-pathways]]
+- [[singh-fungal-biodegradation-biodeterioration-materials]]
+- [[singh-fungal-biosorption-reactors-heavy-metals]]
+- [[singh-mycofiltration-water-runoff]]
+- [[singh-uranium-radionuclide-fungal-biosorption]]

@@ -19,57 +19,11 @@ sources:
 
 Jasione perennis, the perennial sheep's-bit, is a low-growing evergreen subshrub in the family Campanulaceae. It forms neat cushions of narrow leaves topped with rounded heads of small blue flowers.
 
-Unlike the more widespread annual [[jasione-montana]], this species is truly perennial and forms woody basal stems. It is native to the western Mediterranean region, including Spain, Portugal, and Morocco.
-
-Jasione perennis is valued in rock gardens for its long flowering period and compact habit. The lavender-blue flower heads provide color from late spring through midsummer.
-
-The species is sometimes called the "blue cushion flower" in horticultural circles. Its neat dome shape and reliable bloom have made it a staple of alpine garden displays.
-
-Recent molecular phylogenetic studies place Jasione within the Campanulaceae subfamily Campanuloideae. The genus is most closely related to Physoplexis and Phyteuma.
-
-The species was introduced to British horticulture in the early [[coleman-louis-savier-twentieth-century-maraicher]]. It gained the Royal Horticultural Society's Award of Garden Merit in 1993.
+Unlike the more widespread annual [[coleman-louis-savier-twentieth-century-maraicher]]. It gained the Royal Horticultural Society's Award of Garden Merit in 1993.
 
 ## Taxonomy and Morphology
 
-Jasione perennis was described by Lambert & Dc. in the early [[mckenna-club-des-hachischins-and-nineteenth-century-literary-hashish]]. The genus Jasione comprises approximately 15 species, mostly native to Europe and the Mediterranean basin.
-
-The species is distinguished from Jasione montana by its perennial habit, more compact cushion form, and smaller overall stature. Hybridization between the two species is rare.
-
-Plants form dense, cushion-shaped mounds 10–20 cm tall and 15–30 cm across. Basal stems become woody with age, giving the plant a subshrubby character.
-
-Leaves are narrowly oblanceolate to spatulate, 8–20 mm long, gray-green, and slightly fleshy. They are arranged in tight rosettes along the stems.
-
-Flower heads are terminal capitula, 15–25 mm across, composed of numerous tiny florets. Individual florets are pale blue to lavender-blue, each with five narrow petals.
-
-Each floret has a short style that protrudes beyond the corolla. The involucral bracts are narrow and slightly hairy.
-
-Flowering occurs from May through July. Seeds are small, ovoid, and light brown, dispersed by wind and gravity.
-
-The chromosome number is 2n = 28. Self-incompatibility mechanisms promote outcrossing within populations.
-
-No cultivars have been formally named, though horticultural selections with darker blue flowers exist in the trade.
-
-## Distribution and Habitat
-
-Jasione perennis is native to the western Mediterranean, occurring in Spain, Portugal, southern France, and northern Morocco. It is primarily a species of coastal and subcoastal mountains.
-
-It grows on dry, stony hillsides, rock crevices, and cliff ledges at elevations from sea level to 1,500 meters. The species is strongly associated with limestone and calcareous substrates.
-
-Plants tolerate summer drought but benefit from occasional moisture. In the wild, they occupy exposed sites with excellent drainage and full sun.
-
-The Mediterranean climate of wet winters and dry summers shapes the species' growth cycle. Active growth occurs from autumn through spring, with flowering in late spring.
-
-Populations are locally common within the core range but absent from large areas of apparently suitable habitat. Microhabitat requirements limit colonization of new sites.
-
-Climate projections suggest the species' range may contract as Mediterranean droughts intensify. Northern populations in southern France are most vulnerable to warming trends.
-
-## Cultivation
-
-Jasione perennis is well established in rock-garden horticulture. It thrives in sunny, well-drained positions with neutral to alkaline soil.
-
-Plants are hardy to USDA zone 6 once established. They benefit from a gravel mulch to prevent crown moisture and reduce winter rot.
-
-In cold-winter areas, a protective evergreen bough covering prevents frost heaving. Plants resent disturbance once established and should not be moved after the first [[extending-growing-season]].
+Jasione perennis was described by Lambert & Dc. in the early [[extending-growing-season]].
 
 Propagation is by seed or semi-ripe cuttings taken in late summer. Seeds require no special treatment and germinate in 2–3 weeks at 15–20°C.
 
@@ -81,10 +35,89 @@ They combine well with other Mediterranean alpines such as aubrieta, armeria, an
 
 Plants are generally pest-free and resistant to deer and rabbit browsing. The slightly hairy foliage deters most herbivores.
 
-Occasionally aphids colonize the new growth in spring. These are easily controlled with [[comparison-essential-oils-vs-neem-oil-vs-insecticidal-soap]] or by encouraging natural predators.
+Occasionally aphids colonize the new growth in spring. These are easily controlled with [[savory-soil-organic-matter-and-decomposition-dynamics]] creates microsites for seedling establishment.
 
-## Ecological Role
+## Overview
 
-The small blue flowers attract a variety of pollinating insects, especially small bees, hoverflies, and butterflies. The capitulum structure concentrates floral resources for efficient pollinator visitation.
+Jasione Perennis represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
 
-In native habitats, Jasione perennis contributes to the diversity of Mediterranean cliff communities. Its cushion form traps [[savory-soil-organic-matter-and-decomposition-dynamics]] creates microsites for seedling establishment.
+## Key Characteristics
+
+Several defining characteristics distinguish jasione perennis
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving jasione extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Jasione Perennis finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for jasione perennis. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+jasione perennis and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Jasione Perennis has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of jasione perennis into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[bellis-perennis]]
+- [[jasione-corymbosa]]
+- [[jasione-laevis]]
+- [[jasione-montana]]
+- [[lupinus-perennis]]

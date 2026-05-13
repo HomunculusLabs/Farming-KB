@@ -30,8 +30,8 @@ Scion and rootstock must be closely related for a successful graft. Generally, s
 | Apple (Malus) | Apple, crabapple |
 | Pear (Pyrus) | Pear, quince (with interstem) |
 | Cherry (Prunus avium) | Sweet cherry |
-| Plum ([[prunus-domestica]]) | Plum, apricot (sometimes), peach (sometimes) |
-| Peach ([[prunus-persica]]) | Peach, nectarine, almond |
+| Plum (Prunus domestica) | Plum, apricot (sometimes), peach (sometimes) |
+| Peach (Prunus persica) | Peach, nectarine, almond |
 | Citrus (Citrus) | Most citrus species graft together |
 - Quince is semi-compatible with pear and is used as a dwarfing rootstock
 - Some stone fruits can cross-graft but compatibility varies by variety
@@ -59,7 +59,7 @@ The whip-and-tongue is the strongest graft for joining scions and rootstocks of 
 6. **Join the pieces**: Slide the scion tongue into the rootstock tongue so they interlock. The cambium layers must align on at least one side (preferably both).
 7. **Wrap tightly**: Begin wrapping below the graft union, working upward. Overlap each wrap by half. Cover the entire cut surface. Use parafilm or grafting tape.
 8. **Seal**: Apply grafting wax to any exposed cut surfaces. If using parafilm, the wrap alone is often sufficient.
-9. **Heal**: Keep grafted trees at 50-65°F in a humid environment (callus formation). A cold frame, [[coleman-unheated-greenhouse-design]], or refrigerator drawer works. Graft union heals in 2-4 weeks.
+9. **Heal**: Keep grafted trees at 50-65°F in a humid environment (callus formation). A cold frame, unheated greenhouse, or refrigerator drawer works. Graft union heals in 2-4 weeks.
 
 ### Best Timing
 
@@ -133,6 +133,6 @@ T-budding uses a single bud from the scion variety, inserted under the bark of t
 ## Related Topics
 
 - [[pruning-fruit-trees]] for training grafted trees
-- [[plant-propagation-methods]] for other [[cannabis-propagation-techniques]]
-- [[fruit-tree-pruning]] for [[fruit-tree-care-and-orchard-management]]
+- [[plant-propagation-methods]] for other propagation techniques
+- [[fruit-tree-pruning]] for orchard management
 - [[orchard-management]] for comprehensive fruit tree care

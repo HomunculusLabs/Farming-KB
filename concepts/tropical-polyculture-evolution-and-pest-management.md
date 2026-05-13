@@ -4,13 +4,11 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Tropical Polyculture Evolution and Pest Management
-
-Tropical polycultures represent the most species-rich and productive agricultural systems known, capable of supporting 200-400 cultivated species in a complex village situation. Their evolution from grassland or compacted soil to multi-strata food forest follows a systematic process, while [[integrated-pest-management]] replaces chemical inputs with biological relationships.
+# Tropical Polyculture Evolution and Pest [[integrated-pest-management]] replaces chemical inputs with biological relationships.
 
 ## Evolving a Polyculture from Scratch
 
-When starting a permaculture on grasslands or compacted soils, the establishment process follows a careful sequence:
+When starting a permaculture on grasslands or compacted [[tropical-soils-and-fertility-management|soils]], the establishment process follows a careful sequence:
 
 ### Phase 1: Earthworks and Water Storage
 The very first step is to thoroughly plan the site, then rip, swale, pit, or dam every area to be planted. This ensures maximum wet-season soil water storage to carry over to dry periods. The process should commence at the highest point of the property and around the house or village site.
@@ -143,50 +141,10 @@ In tropical tree crop monocultures, soil fungi and nematodes become persistent p
 
 Mulch and green manures (soil humus) buffer the effects of these and fungal pests by hosting fungal predators.
 
-## Livestock in Tropical Polyculture
+## See Also
 
-### Primary Functions
-The main function of animal species in the tropics is to recycle plant wastes and help control rampant ground cover growth. Domestic species include pigs, chickens, geese, guinea pigs, rabbits, pigeons, and milking goats, cattle, or buffalo.
-
-### Species-Specific Roles
-- **Chickens:** Control rhinoceros beetle larvae in palm groves; weed control in pineapple, ginger, and taro
-- **Guinea pigs:** Free trees from grass competition and provide manures
-- **Geese:** Control pond-edge grasses
-- **Wallaby or small grazers:** Keep forest clearings and paths open (encouraged by feeding-out bran in target areas)
-- **Pythons:** Rat and mouse control
-- **Owls:** The best rodent predator
-- **Bees:** Pollination services
-- **Pigs:** Ideal scavengers in tree crops below palms and fruit
-
-### Predator Management
-Where foxes or pythons threaten poultry, special housing and pigeons in safe elevated roosts may be necessary. Electric fences in tropical areas are often nullified by rank growth of coarse grasses. Fence lines must be planted with dense perennial ground cover of low herbaceous plants to exclude grasses, or overshaded by tree canopies.
-
-## Planning the Whole Site
-
-### For Established Polycultures
-Re-survey with attention to:
-- Main access and harvesting ways
-- Earth-shaping for rainwater harvest and specific crops
-- Sufficiency of mulch
-- Best water and irrigation strategies
-- Better village planning
-- Improved processing for market
-
-### For New Sites
-Priority steps:
-1. Assess market, future prices, processing potential, labour, legal systems, and self-reliance needs
-2. Analyse soils and necessary nutrients
-3. Plan ground layout, windbreak, access, and water
-4. Plan and carry out essential earthworks
-5. Establish nursery with selected varietal forms
-6. Commence broadscale placements with or after windbreak and nurse crop
-7. Continue with constant assessment, consultation, feedback, and innovative trials—fill niches as they evolve
-
-## Key Insight
-
-Complex polycultures work best at small scale with close human attention. The depopulated, dehumanized wasteland of modern agriculture is unable to cope with any but the most basic intercrop systems, sacrificing yield, quality, stability, and ultimately people. The garden remains the essential testing ground where we learn the value of successful extension without sacrificing large amounts of energy and capital.
-## See also
-
-- [[permaculture-design]]
-- [[agroforestry]]
-- [[polyculture-design-evolution]]
+- [[gangammas-mandala-tropical-sustenance-garden]]
+- [[tropical-forage-legumes]]
+- [[query-how-to-grow-rare-tropical-fruits-in-marginal-and-subtropical-climates]]
+- [[tropical-shiitake-cultivation-sawdust-substrate-low-cost]]
+- [[tropical-hedgerow-windbreak-systems]]

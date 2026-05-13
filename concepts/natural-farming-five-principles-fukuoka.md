@@ -14,37 +14,12 @@ type: concept
 ## Overview
 
 Masanobu Fukuoka (1913–2008) was a Japanese farmer and philosopher who developed
-a method [[four-principles-of-natural-farming]] based on five fundamental principles: **no tillage,
-no fertilizer, no pesticides, no weeding, and no pruning**. His book *The
-Natural Way of Farming: The [[microdosing-theory-and-practice]] of Green Philosophy* articulates
+a method [[microdosing-theory-and-practice]] of Green Philosophy* articulates
 a vision of agriculture that works in harmony with nature rather than against it.
 
 Fukuoka practiced his method for over fifty years on his farm in Ehime Prefecture,
 Japan, consistently achieving yields comparable to or exceeding those of
-conventional [[critique-of-scientific-agriculture]], while dramatically reducing labor inputs and
-eliminating all external inputs. His approach represents one of the most radical
-and well-documented challenges to modern industrial agriculture.
-
-## The Five Principles in Detail
-
-### 1. No Tillage
-
-Fukuoka argued that plowing the soil is both unnecessary and destructive. Plants
-in nature have always grown by direct seeding, without tillage. The soil in
-fields is naturally worked by small animals, insects, and plant roots. When
-farmers flood a field with water and stir it up with a plow, the ground sets as
-hard as plaster. This creates the conditions that make a plow useful, then
-farmers congratulate themselves on the utility of their tool — a self-perpetuating
-cycle of unnecessary intervention.
-
-No plant on the face of the earth is so weak as to germinate only in plowed
-soil. Seeds sown by nature are perfectly capable of growing without human
-mechanical disturbance. The natural structure of soil, maintained by the
-activities of earthworms and other organisms, provides an ideal growing medium.
-
-### 2. No Fertilizer
-
-[[cannabis-chemical-fertilizers]] have only been considered indispensable for the last fifty
+conventional [[cannabis-chemical-fertilizers]] have only been considered indispensable for the last fifty
 years or so. While the ancient practice of using manure and compost can speed
 crop growth, it also depletes the land from which the organic material is taken.
 In Fukuoka's view, soil enriches itself year in and year out without any human
@@ -66,8 +41,7 @@ his own hands the need for labor and toil.
 
 In Fukuoka's fields, spiders and frogs, locusts and dragonflies all coexisted.
 Whenever a large outbreak of leafhoppers occurred, spider populations multiplied
-in response. As long as natural enemies were present, a [[fukuoka-pesticide-cascade-collapse-natural-balance]] asserted
-itself. Pesticides, by contrast, kill [[hamilton-beneficial-insects-and-biological-pest-control]] alongside pests, create
+in response. As long as natural enemies were present, a [[hamilton-beneficial-insects-and-biological-pest-control]] alongside pests, create
 pollution problems, and leave crops dependent on continued chemical
 intervention.
 
@@ -123,19 +97,8 @@ artificially restore full productivity after man has hamstrung nature.
 
 Fukuoka's farming is rooted in the Buddhist philosophy of "Mu" (nothingness)
 and the idea of "do-nothing." He argued that nature cannot be truly understood
-through [[fukuoka-textdoc-nature-must-not-be-dissected-limits-scientific-analysis]] — once broken down, it dies. Those who break off a
-piece of nature lay hold of something dead, and, unaware that what they are
-examining is no longer living nature, claim to "know" and "conquer" it.
-
-The objective [[fukuoka-four-principles-of-natural-farming]] is non-action and a return to nature; it is
-centrifugal and convergent. [[fukuoka-illusions-of-scientific-farming]], by contrast, breaks away from
-nature with the expansion of human wants and desires; it is centripetal and
-divergent, doomed to ever-increasing complexity, expense, and labor.
-
-## Modern Relevance
-
-Fukuoka's principles have influenced permaculture, no-till farming, and
-[[biochar]] worldwide. His work demonstrates that high yields are
+through [[fukuoka-four-principles-of-natural-farming]] is non-action and a return to nature; it is
+centrifugal and convergent. [[biochar]] worldwide. His work demonstrates that high yields are
 compatible with minimal intervention when farming works with natural systems.
 The growing global interest in [[regenerative-agriculture]] reflects renewed
 appreciation for insights Fukuoka articulated decades before they became

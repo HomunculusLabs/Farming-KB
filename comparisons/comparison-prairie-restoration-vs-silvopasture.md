@@ -15,24 +15,11 @@ created: 2026-04-28
 
 # Prairie Restoration vs Silvopasture
 
-Both prairie restoration and [[permaculture-design]] ers, and restoration ecologists choose the approach best suited to their goals, site conditions, and economic constraints.
-
-## At a Glance
-
-| Dimension | Prairie Restoration | Silvopasture |
-|---|---|---|
-| **Primary goal** | Ecological restoration of native grassland | Integrated livestock + tree production |
-| **Vegetation structure** | Herbaceous layer dominated by native grasses and forbs | Three-layer: tree overstory + shrub/shrub layer + grass/forb understory |
-| **Tree canopy cover** | 0–5% (occasional savanna oaks, hawthorns) | 20–60% (managed canopy with pasture gaps) |
-| **Species diversity** | 150–300+ plant species in mature tallgrass prairie | 20–80 species depending on design |
-| **Establishment cost** | $500–$3,000/ha (seed, site prep, 3–5 year weed control) | $2,000–$8,000/ha (tree seedlings, protection, infrastructure) |
-| **Time to maturity** | 5–10 years for functional prairie | 15–30+ years for full canopy production |
-| **Primary productive output** | Hay, seed, ecosystem services, carbon credits | Livestock, timber, fruit/nuts, fodder |
-| **[[faires-livestock-integration-permaculture]]** | Managed grazing (rotational, prescribed) or none | Core design element; animals essential |
+Both prairie restoration and [[faires-livestock-integration-permaculture]]** | Managed grazing (rotational, prescribed) or none | Core design element; animals essential |
 | **Fire management** | Essential — prescribed burns every 2–5 years | Generally avoided (fire damages trees) |
 | **Carbon sequestration** | 0.5–2.0 t CO₂e/ha/year (belowground dominant) | 2–10 t CO₂e/ha/year (above + belowground) |
 | **Nitrogen fixation** | Native legumes: 30–80 kg N/ha/year | Legume understory + N-fixing trees: 50–150 kg N/ha/year |
-| **[[robinia-pseudoacacia]]* (black locust), *Alnus* spp. (alders), *[[pollinator-habitat]]: Supporting adjacent crop pollination services worth $100–500/ha/year
+| **[[pollinator-habitat]]: Supporting adjacent crop pollination services worth $100–500/ha/year
 
 **Economic profile:**
 - Low annual maintenance costs ($50–200/ha) once established
@@ -71,9 +58,7 @@ Silvopasture generally sequesters more total carbon due to tree biomass, but pra
 ### Choose Prairie Restoration When:
 
 - Site was historically grassland or savanna
-- Annual rainfall is 30–100 cm (temperate) or 500–1500 mm ([[bill-mollison-permaculture-a-designers-manual-tropical-grassland-rehabilitation]])
-- Soil is deep, well-drained, and not heavily compacted
-- Primary goals include [[fungal-biodiversity-conservation-status]], pollinator habitat, or water quality
+- Annual rainfall is 30–100 cm (temperate) or 500–1500 mm ([[fungal-biodiversity-conservation-status]], pollinator habitat, or water quality
 - Livestock integration is secondary or rotational only
 - Budget is limited; establishment can be phased over several years
 - Prescribed fire is feasible and permitted

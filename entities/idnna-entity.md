@@ -9,7 +9,7 @@ sources:
 ---
 # IDNNA (2,5-Dimethoxy-N,N-dimethyl-4-iodoamphetamine)
 
-IDNNA is a substituted amphetamine compound developed as a potential [[neurochemical-probes-brain-imaging-pihkal]] agent for nuclear medicine. It is the N,N-dimethyl derivative of [[doi-entity]].
+IDNNA is a substituted amphetamine compound developed as a potential [[doi-entity]].
 
 The compound was investigated primarily for its potential as a positron emission tomography (PET) brain imaging agent.
 
@@ -19,57 +19,7 @@ IDNNA showed no psychoactive activity at the doses tested in humans.
 
 At up to 2.6 mg orally, no psychedelic effects were observed.
 
-At this dose level, [[doi-entity]] using formaldehyde and sodium cyanoborohydride.
-
-The product is isolated as the oxalate salt with a melting point of 145-146 degrees C.
-
-The hydrochloride salt proved to be hygroscopic.
-
-An alternative synthesis proceeds through the intermediate 2,5-dimethoxy-4-iodophenylacetone.
-
-This ketone intermediate was prepared from 2,5-dimethoxybenzaldehyde through iodination, formylation, condensation with nitroethane, and reduction.
-
-The ketone allows reductive amination with various amines, enabling the preparation of radioactive analogues for animal testing.
-
-## Analogues and Derivatives
-
-Some fifteen close analogues of IDNNA were prepared to evaluate their brain imaging properties.
-
-A valuable intermediate was an iodinated ketone that could be used either to synthesize IDNNA or, if radio-labelled, to prepare any desired radioactive analogue in a single synthetic step.
-
-Various N-alkyl derivatives were prepared including methyl, isopropyl, cyclopropylmethyl, hexyl, dodecyl, benzyl, cyanomethyl, and 3-(dimethylaminopropyl).
-
-Dialkyl homologues were made with dimethyl (IDNNA itself), diethyl, isopropyl-methyl, and benzyl-methyl groups.
-
-None of these iodinated IDNNA analogues showed themselves to be superior to IDNNA itself in the rat model.
-
-None were tasted for psychedelic potential in man.
-
-The diethyl compound without iodine, 2,5-dimethoxy-N,N-diethylamphetamine (DEDMA), was also prepared.
-
-The beta-hydroxy derivative of DEDMA was found to be an antitussive with potency equal to codeine.
-
-## Dosage and Duration
-
-Dosage: Greater than 2.6 mg (no central effects observed).
-
-Duration: Unknown.
-
-The compound was designed to be pharmacologically inactive.
-
-## Significance
-
-IDNNA represents an important intersection between psychedelic chemistry and nuclear medicine.
-
-The development of brain imaging agents required compounds that retained the brain penetration properties of psychoactive phenethylamines while eliminating their pharmacological activity.
-
-The N,N-dimethylation proved effective in abolishing psychedelic effects while preserving brain uptake characteristics.
-
-## See Also
-
-[[dom]]
-
-[[2c-i]]
+At this dose level, [[dom]]
 
 [[mda]]
 
@@ -87,3 +37,88 @@ overall effectiveness and creates beneficial synergies that
 improve resilience and productivity over time.
 
 ## Future Directions
+
+## Overview
+
+Idnna Entity represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish idnna entity
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving idnna extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Idnna Entity finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for idnna entity. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+idnna entity and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Idnna Entity has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of idnna entity into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[2c-g-3-entity]]
+- [[4-5-mdo-dmt-entity-tihkal]]
+- [[5-6-mdo-dipt-entity-tihkal]]
+- [[idnna-entity-pihkal]]
+- [[methyl-k-entity-pihkal]]

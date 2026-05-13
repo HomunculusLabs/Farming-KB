@@ -25,7 +25,7 @@ aliases:
 sources:
   - Crane EH, Reed C (2016). "Diospyros virginiana." In: Jankovics T,
     ed., Wild Crop Relatives: Genomic and Breeding Resources. Springer.
-  - Peterson R (1977). A [[field-guide-psilocybin-bluing-reaction-identification]] to [[edible-wild-mushrooms-by-region]] Plants of Eastern
+  - Peterson R (1977). A edible-wild-mushrooms-by-region Plants of Eastern
     and Central psilocybin-north-america-pacific-northwest. Houghton Mifflin, Boston.
   - https://www.fs.usda.gov/wildflowers/plant-of-the-week/diospyros_virginiana.shtml
   - Fulbright TP (2004). "Persimmon (Diospyros virginiana) Ecology and
@@ -36,12 +36,7 @@ sources:
 ## Overview
 
 Diospyros virginiana, the American persimmon, is a deciduous tree native
-to the eastern [[dmt-containing-plants-united-states-halpern]]. It produces small, sweet fruits that are
-highly valued when fully ripe but intensely astringent when unripe due to
-high soluble tannin content.
-
-The species is a versatile component of food forests and agroforestry
-systems, valued for its [[dighton-fungal-drought-tolerance-plant-water-relations]], minimal pest pressure, wildlife
+to the eastern [[dighton-fungal-drought-tolerance-plant-water-relations]], minimal pest pressure, wildlife
 attractant properties, and high-quality timber. Native Americans utilized
 the fruit extensively, and the species remains culturally significant
 across its range.
@@ -88,3 +83,7 @@ mid-successional species.
 ## Fruit and Nutritional Profile
 
 Unripe persimmon fruit contains high concentrations of soluble tannins
+
+## See Also
+
+- [[diospyros-kaki]]

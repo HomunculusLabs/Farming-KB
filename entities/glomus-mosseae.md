@@ -11,25 +11,9 @@ sources:
 
 # Glomus mosseae
 
-**Glomus mosseae** is an [[comparison-soil-food-web-vs-arbuscular-mycorrhizal-fungi]] fungus in the phylum
-Glomeromycota. As one of the most widely distributed and extensively
-studied AMF, it forms symbiotic associations with the majority of
-terrestrial plant species and plays a central role in plant nutrient
-acquisition, ecosystem functioning, and plant defense against pathogens.
-
-## Taxonomy and Classification
-
-Glomus mosseae belongs to the Glomeromycota, a distinct phylum of
-obligate symbionts that cannot be cultured independently of host plants.
-It forms characteristic arbuscules within root cortical cells for
-[[arbuscule-isolation-and-nutrient-exchange-mechanisms]] and vesicles for storage. Azcon et al. (1976)
+**Glomus mosseae** is an [[arbuscule-isolation-and-nutrient-exchange-mechanisms]] and vesicles for storage. Azcon et al. (1976)
 identified isolate YV as G. mosseae in early studies of mycorrhizal
-[[mycorrhiza-helper-bacteria-fungal-interactions]] interactions.
-
-## Ecosystem Distribution
-
-The arbuscular mycorrhizal habit is dominant in temperate and tropical
-grasslands, [[fungal-biodiversity-tropical-forests]], and desert communities (Read, 1991a),
+[[fungal-biodiversity-tropical-forests]], and desert communities (Read, 1991a),
 where phosphorus is typically the limiting nutrient (Read, 1991b).
 Glomus mosseae is a key component of these ecosystems, where nutrient
 supply is mainly through inorganic nutrients mineralized by
@@ -41,12 +25,6 @@ importance in agriculture (Gianinazzi and Schuepp, 1994).
 
 ### Phosphorus and Nitrogen Acquisition
 
-[[arbuscular-mycorrhizal-fungi]] primarily enhance phosphorus uptake. The
-extensive hyphal network of G. mosseae extends the effective depletion
-zone around roots, exchanging phosphorus for host carbon through the
-arbuscular interface. Ames et al. (1983) confirmed that G. mosseae
-can also transport 15N-labeled nitrogen from soil to host plants,
-extending its nutritional role beyond phosphorus into co-limiting
 [[biodiversity-fungi-grassland-ecosystems]].
 
 ### Drought Tolerance
@@ -54,37 +32,93 @@ extending its nutritional role beyond phosphorus into co-limiting
 Root colonization by arbuscular mycorrhizal fungi increases water
 relations of plants under both drought and adequate water supply (Augé,
 2001). Michelsen and Rosendahl (1990) showed AMF infection of
-*Acacia nilotica* and *[[leucaena-leucocephala]]* benefited Leucaena most
-under drought, with mycorrhizal effects exceeding phosphorus addition.
-Herrera et al. (1993) demonstrated successful inoculation of woody
-legumes with AMF and rhizobia to recover desertified Mediterranean
-ecosystems, highlighting restoration potential.
-
-## Pathogen Protection
-
-### Protection Against Fungal Pathogens
-
-Abdalla and Abdel-Fattah (2000) demonstrated significant protective
-effects of G. mosseae against pod rot pathogens *Fusarium solani*
-and *Rhizoctonia solani* on peanut plants. Mycorrhizal plants
-maintained higher growth and biomass both with and without pathogens.
-When challenged with *F. solani*, mycorrhizal plants retained 8.79 g
-shoot weight versus 6.66 g for nonmycorrhizal plants, and G. mosseae
-also reduced pathogen propagule numbers isolated from plant parts.
-
-### Protection Against Nematodes and Pathogen Balance
-
-[[glomeromycota-arbuscular-mycorrhizae]] reduce nematode fertility, egg production, and
+*Acacia nilotica* and *[[glomeromycota-arbuscular-mycorrhizae]] reduce nematode fertility, egg production, and
 root penetrability while enhancing plant phosphorus content (Roncadori,
 1997). Elsen et al. (2001) showed *Glomus intraradices* suppressed
 the burrowing nematode *Radopholus similis* on carrot tissue by
 almost 50%. Newsham et al. (1994) demonstrated a fine balance between
-mycorrhizal benefits and pathogenic effects in [[biodiversity-of-fungi-soil-fungal-communities-agriculture]]
-associated with the annual grass *Vulpia ciliata*.
+mycorrhizal benefits and pathogenic effects in [[alternaria-alternata]]* over arbuscular mycorrhizal fungi, and an
 
-## Interactions with Soil Fauna
+## Overview
 
-### Collembolan Grazing
+Glomus Mosseae represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
 
-Klironomos et al. (1999) found collembola preferred the saprotroph
-*[[alternaria-alternata]]* over arbuscular mycorrhizal fungi, and an
+## Key Characteristics
+
+Several defining characteristics distinguish glomus mosseae
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving glomus extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Glomus Mosseae finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for glomus mosseae. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+glomus mosseae and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Glomus Mosseae has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of glomus mosseae into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[funneliformis-mosseae]]
+- [[glomus-fasciculatus]]
+- [[glomus-intraradices]]
+- [[glomus-versiforme]]

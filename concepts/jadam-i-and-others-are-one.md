@@ -3,85 +3,11 @@ title: JADAM I and Others Are One
 created: 2026-04-18
 updated: 2026-04-18
 type: concept
-tags: [jadam, [[natural-farming]]
-sources:
-  - "raw/papers/jadam-organic-farming-ultra-low-cost-agriculture.md"
----
-# JADAM I and Others Are One
-
-## Overview
-
-"I and others are one" is the second of JADAM's three philosophical principles. It establishes that crops, soil, and the farmer are fundamentally one interconnected system. By understanding your own body, you can understand your crops.
-
-## Core Concept
-
-The Korean expression "身土不二" means "our body and the soil are one." In English: "you are what you eat." This principle extends further:
-- My body comes from soil -- from water and food that came from the soil
-- Crops are soil too
-- Crops, soil, and I are all one
-- All life forms are the same
-- If I know myself, then I also know others
-- When I thoroughly understand one Way (Dao), I understand millions of other Ways
-
-## The Body-Soil Analogy
-
-JADAM draws direct parallels between human health and crop/soil health:
-
-### Two Causes of Human Sickness
-1. Bad food
-2. Bad blood circulation
-
-### Two Causes of Crop Sickness
-1. Bad fertilizer (equivalent to bad food)
-2. Bad circulation (equivalent to bad blood circulation)
-
-Just as humans become sick from poor diet, crops suffer from poor fertilizer. Just as humans suffer from poor circulation, crops suffer from compacted soil that blocks water and air movement.
-
-## Fertilizer as Food
-
-What makes bad food for humans?
-- Eating too much (overeating)
-- Eating an unbalanced diet (too much of certain nutrients, not enough of others)
-- Eating poisonous food
-
-What makes bad fertilizer for crops?
-- Compost from [[fukuoka-textdoc-animal-manure-human-waste-natural-cycle-heretic]] often contains antibiotics
-- [[cervantes-chemical-fertilizers-guide]] and pesticides poison the soil
-- Excessive input of nutritionally unbalanced fertilizers (like press cakes) disrupts plant metabolism
+tags: [jadam, [[fukuoka-textdoc-animal-manure-human-waste-natural-cycle-heretic]] often contains antibiotics
 - [[fungal-biosorption-of-heavy-metals-by-filamentous-fungi]] and toxins accumulate
 
 Just as overeating with unbalanced diet causes obesity and disease in humans, overfertilization with nutritionally unbalanced inputs causes problems in crops. This manifests as:
-- [[equatorial-photoperiod-early-flowering]]
-- Chilling injury
-- Frost damage
-- Water sprouts
-- Disease susceptibility
-
-## Circulation as Blood Flow
-
-In the human body:
-- Blood must circulate freely
-- Blocked circulation causes pain and disease
-- Constipation is an indicator of poor elimination
-
-In the soil:
-- Water and air must circulate freely
-- Compacted soil layer blocks both
-- This is like "soil constipation"
-- Water stagnates, salts accumulate, roots cannot penetrate
-
-## Practical Applications
-
-### Understanding Crop Problems Through Self-Understanding
-- If crops are weak, think: what is the equivalent of a weakened immune system?
-- If soil is hard, think: what is the equivalent of clogged arteries?
-- If plants overgrow with thin stems, think: what is the equivalent of excessive eating?
-
-### The Nutritional Balance Test
-Just as eating only one type of food (even a healthy one) leads to deficiency, using only one type of fertilizer (even organic) leads to nutrient imbalance. The solution is the same: a balanced, diverse diet/fertilizer.
-
-### "From the soil you demand fruits, yet you give peels!"
-This is JADAM's powerful critique of using [[jadam-rice-bran-problems]], perilla pulp, and press cakes as primary fertilizers. These are leftovers -- peels and skins. You cannot expect big fruits from feeding crops peels.
+- [[jadam-rice-bran-problems]], perilla pulp, and press cakes as primary fertilizers. These are leftovers -- peels and skins. You cannot expect big fruits from feeding crops peels.
 
 ## Philosophical Depth
 
@@ -111,8 +37,91 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[doc]]
 - [[jadam-good-and-bad-are-one]]
-- [[query-what-are-the-most-important-medicinal-mushrooms-and-how-do-i-choose-one]]
 - [[query-what-are-caffeine-plants-and-how-do-i-grow-them]]
 - [[query-what-are-cannabis-terpenes-and-why-do-they-matter]]
+
+## Overview
+
+Jadam I And Others Are One represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish jadam i and others are one
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving jadam extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Jadam I And Others Are One finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for jadam i and others are one. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+jadam i and others are one and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Jadam I And Others Are One has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of jadam i and others are one into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[jadam-herb-solution-jhs]]
+- [[jadam-natural-mineral-water]]
+- [[jadam-potassium-fertilizer]]
+- [[jadam-rice-bakanae-treatment]]
+- [[jadam-soil-management-no-till-and-weed-control]]

@@ -25,63 +25,11 @@ Melaleuca species (family Myrtaceae) are among the most valuable salt-tolerant A
 - **Melaleuca stypheloides** (prickly paperbark): A fast-growing tree reaching 6–18 meters, found in swampy coastal sites in eastern Australia. Tolerant of saline, sandy, wet, and heavy soils, and both drought and frost.
 - **Melaleuca bracteata** (white cloud tree): A small spreading evergreen tree to 7 meters, native to all mainland states except Victoria. Drought and frost tolerant, preferring heavy to medium soils.
 - **Melaleuca lanceolata** (moonah): Produces light amber honey in summer. Very hardy in coastal conditions.
-- **Melaleuca thyroides**: An evergreen shrub to 2 meters from Western Australia, frost and [[drought-tolerant-planting-design]] with good waterlogging tolerance.
-
-### Casuarina (Sheoak) Species
-
-Casuarinas are nitrogen-fixing trees well-adapted to saline conditions:
-
-- **Casuarina obesa** (swamp sheoak): Highly salt-tolerant, used in saline land reclamation.
-- **Casuarina glauca** (swamp sheoak): A companion to grey mangrove on less inundated margins; grows to 6 meters.
-- **Casuarina cristata** (black sheoak): Hardy in alkaline soils.
-
-### Acacia (Wattle) Species
-
-Many Acacia species tolerate saline and alkaline soils, making them excellent for rehabilitation and productive planting:
-
-- **Acacia ampliceps** (salt wattle): Native to northwestern Australia, highly salt-tolerant.
-- **Acacia cyclops** (coastal wattle): From southwestern coastal Australia.
-- **Acacia salicina** (cooba): From tropics to central Victoria across all mainland states.
-- **Acacia stenophylla** (river cooba): Widely distributed across mainland Australia.
-- **Acacia ligulata** (sandhill wattle): Found in all mainland states.
-- **Acacia pycnantha** (Australian golden wattle): Bark contains 40% tannin.
-
-## Important Salt-Tolerant Timber and Multi-Purpose Trees
-
-### Dalbergia sissoo (Sissoo)
-
-A fast-growing leguminous tree reaching 30 meters, sissoo adapts well to semi-arid conditions (may only reach 10–15 meters without irrigation). It grows in temperatures from below 0°C to nearly 50°C and is considered frost hardy. Rainfall range is 500–2,000 mm. It occurs on alluvial soils along riverbanks and stream beds but does not grow well on heavy clay. It produces long superficial roots that send up suckers when damaged, giving it great value in erosion control. The hard, elastic, close-grained wood is valued for furniture, veneer, boat building, and structural work. It also serves as a good firewood and charcoal source, and young branches provide fodder.
-
-### Colophospermum mopane (Mopane)
-
-A moderately tall leguminous tree to 23 meters native to central and southern Africa. Mopane grows on poor soils with bad drainage where even useful grasses fail. It withstands high summer temperatures but only mild frosts. Rainfall ranges from 125–800 mm. It generally grows in shallow compacted clay, alkaline, and badly drained soils, with best growth on rich deep alluvial soils. It has an extraordinary ability to withstand dry, saline sites. Leaves are readily eaten by stock and retain nutrient values even when fallen. The durable wood is used for bridge pylons, mine timbers, railroad ties, fence posts, and carving. It is considered the best firewood in Africa, with a specific gravity greater than 1.0, burning slowly and quietly with great heat. Trees coppice vigorously after fire, frost, or felling.
-
-## Coastal Ground Covers and Shrubs
-
-### Ground Covers
-
-- **Ambrosia hispida** (creeping ragweed): An effective sand binder.
-- **Apium prostratum** (sea celery): A small herb growing on coastal headlands and dunes throughout southern Australia. Resembles celery and was historically used to treat scurvy. Has potential for development as a vegetable.
-- **Arctostaphylos uva-ursi** (bearberry): A trailing shrub of the northern temperate region with edible red berries used for jams and teas.
-- **Arctotis stoechadifolia** (African daisy): A creeping perennial native to South Africa that builds [[maintaining-organic-matter-in-vegetable-gardens]] sand and stabilises heavy soils such as dam walls.
+- **Melaleuca thyroides**: An evergreen shrub to 2 meters from Western Australia, frost and [[maintaining-organic-matter-in-vegetable-gardens]] sand and stabilises heavy soils such as dam walls.
 - **Carpobrotus spp** (pigface): Native to southern Australia with thick fleshy triangular leaves and purplish-red fruits described as "one of Australia's tastiest fruits, tasting somewhat like salty apples." The mucilaginous juice treats midge bites and jellyfish stings.
-- **[[sarcocornia-quinqueflora]]** (chicken claws, beaded glasswort): Forms extensive colonies on tidal mudflats with succulent jointed stems.
-- **Sesuvium portulacastrum** (sea purslane): A fleshy-leaved shrubby herb whose leaves make an excellent vegetable and pickle ingredient.
+- **[[fungi-in-the-environment-symbiotic-relationships]] with nitrogen-fixing organisms:
 
-### Coastal Hedge and Shrub Species
-
-- **Carissa grandiflora** (natal plum): A thorny hedge plant with edible fruit.
-- **Coccoloba uvifera** (sea grape): A large bush or small tree to 6 meters with scarlet foliage, extremely hardy to wind and salt spray. The fruit is used in jellies, jams, drinks, and wines.
-- **Leptospermum laevigatum** (coast tea tree): Dried leaves used as tea; a good honey plant.
-- **Correa alba** (Cape Barren tea): Leaves used as a tea substitute.
-- **Hakea suaveolens**: A honey plant.
-
-## Nitrogen Fixation in Saline Environments
-
-Several salt-tolerant trees form [[fungi-in-the-environment-symbiotic-relationships]] with nitrogen-fixing organisms:
-
-- **[[elaeagnus-angustifolia]]** (Russian olive) associates with *Frankia* spp soil microbes, fixing nitrogen while tolerating temperatures to -34°C and growing right to the sea. It produces sweet yellow berries eaten fresh or processed into pies, sauces, jams, and wines.
-- **Casuarina spp** also associate with *Frankia* spp, enabling them to [[query-how-does-rock-dust-improve-soil-fertility]] in saline sites.
+- **[[query-how-does-rock-dust-improve-soil-fertility]] in saline sites.
 - **Acacia spp** and **Colophospermum mopane** are leguminous, fixing atmospheric nitrogen through rhizobial associations.
 
 ## Design Considerations
@@ -104,6 +52,90 @@ In coastal mangrove and estuarine systems, natural companion relationships exist
 
 Salt-tolerant trees and shrubs are foundational elements for expanding productive permaculture into coastal, arid, and degraded saline landscapes, transforming marginal land into functional, yielding systems.
 ## See Also
-- [[salt-tolerant-shrubs-and-trees]]
 - [[permaculture-plants-fire-resistant-trees-shrubs]]
 - [[permaculture-plants-nitrogen-fixing-trees-shrubs]]
+
+## Overview
+
+Salt Tolerant Trees And Shrubs Permaculture represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish salt tolerant trees and shrubs permaculture
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving salt extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Salt Tolerant Trees And Shrubs Permaculture finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for salt tolerant trees and shrubs permaculture. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+salt tolerant trees and shrubs permaculture and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Salt Tolerant Trees And Shrubs Permaculture has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of salt tolerant trees and shrubs permaculture into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[faires-salt-curing-and-clarified-fats]]
+- [[fungal-salt-tolerance-and-ion-homeostasis]]
+- [[query-how-do-i-prevent-and-fix-salt-buildup-in-cannabis-soil]]
+- [[salt-tolerant-plants-permaculture]]
+- [[salt-tolerant-shrubs-and-trees]]

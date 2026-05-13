@@ -10,16 +10,7 @@ sources: ["raw/papers/shulgin-a-pihkal.md"]
 
 ## Overview
 
-2C-C (PIHKAL #22) is a synthetic psychedelic phenethylamine and a member of the 2C family. The 4-chloro substituent gives 2C-C moderate potency and a relatively short, manageable duration. It is considered one of the gentler members of the 2C series, often described as producing warm, colorful visuals with less intensity than [[lsd-compound-profile]] or [[mdma-compound-profile]] their stimulant properties. The chloro substituent at the 4-position provides moderate receptor affinity. See [[phenethylamine-chemistry-basics]].
-
-## Comparison within the 2C Family
-
-2C-C is the phenethylamine analogue of [[2c-p-compound-profile]] but longer-lasting than [[2c-b-compound-profile]], it has a longer onset (1.5-2 hours vs 30-60 minutes) and slightly less intensity. Users have expressed a preference for 2C-C over 2C-B due to its gentler stimulation profile.
-
-## Detailed Effects Profile
-
-The subjective effects of 2C-C can be organised by category:
-- **Visual**: Enhanced colour saturation, pattern recognition, geometric patterning (less intense than [[lsd-compound-profile]].
+2C-C (PIHKAL #22) is a synthetic psychedelic phenethylamine and a member of the 2C family. The 4-chloro substituent gives 2C-C moderate potency and a relatively short, manageable duration. It is considered one of the gentler members of the 2C series, often described as producing warm, colorful visuals with less intensity than [[mdma-compound-profile]] their stimulant properties. The chloro substituent at the 4-position provides moderate receptor affinity. See [[2c-p-compound-profile]] but longer-lasting than [[lsd-compound-profile]].
 - **Cognitive**: Mild introspection, enhanced creative thinking, contemplative mood. The headspace is generally described as clear and lucid, with less confusion or disorientation than more potent psychedelics. Some users report a meditative quality at moderate doses.
 - **Physical**: Mild body lightness or warmth, slight tactile enhancement. Body load is notably low compared to other 2C compounds -- this is one of 2C-C's most appreciated qualities. Nausea is uncommon at moderate doses but may occur at higher doses.
 - **Emotional**: Gentle mood elevation, increased empathy, relaxed and open emotional state. Anxiety is rare at common doses, contributing to its reputation as a beginner-friendly compound.
@@ -27,42 +18,16 @@ The subjective effects of 2C-C can be organised by category:
 
 ## Pharmacology in Detail
 
-2C-C acts primarily as a serotonin 5-HT2A receptor agonist, the mechanism shared by all classical psychedelics. The 2,5-dimethoxy substitution pattern on the phenethylamine ring is critical for 5-HT2A affinity -- this pattern is conserved across the entire 2C series and the DOx series. The 4-chloro substituent provides moderate lipophilicity and receptor affinity, positioning 2C-C between the more potent 2C-B (4-bromo) and the less potent 2C-F (4-fluoro) in terms of [[tihkal-receptor-binding-serotonin]].
-
-Additional receptor interactions likely include 5-HT2C (contributing to mild appetite suppression), 5-HT1A (potentially contributing to the relaxed, anxiolytic quality), and trace affinity for adrenergic receptors. Unlike the DOx compounds (which have an alpha-methyl group), 2C-C is not a substrate for monoamine oxidase (MAO), giving it a shorter duration of action.
-
-The lack of an alpha-methyl group is pharmacologically significant. This group in the DOx series protects against MAO degradation, extending duration to 12-24 hours and adding significant stimulant character. Without it, 2C-C is metabolised relatively quickly, accounting for its 4-8 hour duration and gentle stimulation profile. See [[2c-b-compound-profile]] remains the most popular and widely available 2C compound, users seeking a gentler, more relaxing experience often prefer 2C-C. [[mdma-compound-profile]]) due to the theoretical risk of serotonin syndrome. Avoid combining with alcohol or stimulants.
-- **Health contraindications**: Individuals with a personal or family history of psychosis, severe cardiovascular conditions, or who are pregnant or breastfeeding should avoid all psychedelics including 2C-C.
-- **Hydration**: Maintain normal fluid intake. 2C-C is not typically dehydrating, but [[weil-the-natural-mind-altered-states-normalcy]] of consciousness can lead to forgetting to drink water.
+2C-C acts primarily as a serotonin 5-HT2A receptor agonist, the mechanism shared by all classical psychedelics. The 2,5-dimethoxy substitution pattern on the phenethylamine ring is critical for 5-HT2A affinity -- this pattern is conserved across the entire 2C series and the DOx series. The 4-chloro substituent provides moderate lipophilicity and receptor affinity, positioning 2C-C between the more potent 2C-B (4-bromo) and the less potent 2C-F (4-fluoro) in terms of [[2c-b-compound-profile]] remains the most popular and widely available 2C compound, users seeking a gentler, more relaxing experience often prefer 2C-C. [[weil-the-natural-mind-altered-states-normalcy]] of consciousness can lead to forgetting to drink water.
 
 ## Legal Status by Jurisdiction
 
-- **[[dmt-containing-plants-united-states-halpern]]**: Schedule I under the Federal Analog Act. 2C-C is not separately scheduled but is treated as a controlled substance analog of 2C-B.
-- **United Kingdom**: Class A under the Misuse of Drugs Act, as a phenethylamine substituted in the 2-position. Covered by the generic tryptamine/phenethylamine catch-all provisions.
-- **European Union**: Many EU member states have scheduled the 2C family under generic legislation or individual scheduling. Germany classifies it under BtMG Anlage I.
-- **Canada**: Schedule II under the Controlled Drugs and [[controlled-substances-act-and-psychedelic-research]].
+- **[[controlled-substances-act-and-psychedelic-research]].
 - **Australia**: Schedule 9 (Prohibited Substance). Australia was an early adopter of 2C family scheduling, adding many 2C compounds in the early 2000s.
 - **Netherlands**: Despite the Netherlands' permissive approach to some substances, 2C-C is listed as a Schedule I hard drug under the Opium Law.
 - **Japan**: Controlled under the Pharmaceutical Affairs Law. Japan has been particularly aggressive in scheduling novel psychoactive substances.
 
-As with all [[psychedelic-safety-and-harm-reduction]], legal status varies by jurisdiction and is subject to change. Users should verify current local laws.
-## Practical Considerations
-
-When working with 2C-C — Compound Profile, several practical factors should be
-carefully considered to achieve optimal results. These include
-the specific conditions of the implementation context, available
-resources, timing requirements, and the interactions between this
-topic and other elements of the broader system. A holistic view
-that considers these interconnections produces better outcomes.
-
-Environmental conditions such as temperature, moisture, and
-seasonal patterns significantly influence results. Monitoring these
-variables and adapting practices accordingly is essential for success.
-The most effective practitioners develop keen observation skills and
-respond flexibly to changing conditions rather than following rigid
-protocols regardless of circumstances or local variation.
-
-[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
+As with all [[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -96,29 +61,90 @@ complexity of day-to-day management and observation activities.
 The development and understanding of 2c c compound profile has evolved considerably over recent decades, with contributions from researchers, practitioners, and indigenous knowledge systems worldwide.
 
 ## See Also
-- [[doet-compound-profile]]
 - [[mdo-compound-profile]]
-- [[mescaline-compound-profile]]
 - [[2c-t-7-compound-profile]]
-- [[doi-compound-profile]]
+- [[mdma]]
+- [[dom]]
+- [[mescaline]]
 
-## Key Considerations
+## Overview
 
-Several important factors influence the effectiveness and outcomes described
-in this topic. Understanding these considerations helps practitioners make
-informed decisions and avoid common pitfalls. Environmental conditions,
-timing, and material selection all play critical roles.
+2C C Compound Profile represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish 2c c compound profile
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving 2c extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+2C C Compound Profile finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for 2c c compound profile. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+2c c compound profile and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
 
 ## Historical Context
 
-The historical development of this subject reflects centuries of accumulated
-knowledge and practical experience. From traditional methods passed down
-through generations to modern scientific approaches, the evolution continues
-to inform current best practices and research directions.
+2C C Compound Profile has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of 2c c compound profile into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
 
 ## See Also
-- [[mdma]]
-- [[doc]]
-- [[dom]]
-- [[det]]
-- [[mescaline]]
+
+- [[2c-e-compound-profile]]
+- [[dob-compound-profile]]

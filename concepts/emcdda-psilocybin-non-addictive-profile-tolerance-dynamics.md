@@ -11,10 +11,7 @@ tags: [psilocybin, addiction, tolerance, dependence, withdrawal, emcdda, pharmac
 
 The EMCDDA's 2006 thematic paper provides a clear clinical statement
 that psychological and physical dependency does not occur with
-[[emcdda-hallucinogenic-mushrooms-emerging-trend-europe]] and that there are no withdrawal symptoms.
-This pharmacological profile distinguishes psilocybin from most other
-substances of abuse and has significant implications for both clinical
-management and [[allegro-canaanite-religion-and-the-mushroom]]
+[[allegro-canaanite-religion-and-the-mushroom]]
 experience that limit its appeal as a regular drug of use. User
 accounts suggest that the experience is not viewed in a sufficiently
 favourable light to repeat it frequently. Unpredictable potency
@@ -32,33 +29,15 @@ than compelling increased consumption.
 
 ## Comparison with Controlled Substances
 
-The EMCDDA's positioning [[health-risks-of-hallucinogenic-mushrooms]] within the broader
-drug landscape reveals an interesting paradox. In nine EU countries,
-ever-in-lifetime use of hallucinogenic mushrooms among 15-16 year old
-school students was equal to or higher than lifetime use of ecstasy —
-a substance with demonstrated [[mdma-serotonergic-neurotoxicity]] at high doses
+The EMCDDA's positioning [[mdma-serotonergic-neurotoxicity]] at high doses
 and a more problematic dependence profile. Yet mushrooms have
 consistently been classified alongside or above ecstasy in legal
-penalty schedules, despite their more favourable [[cannabis-safety-profile-and-overdose-risk]] in
-terms of addiction potential, organ toxicity, and lethality.
-
-The report notes that the proportion of current users (defined as
-those who have used during the last month) among those who have ever
-used hallucinogenic mushrooms is lower than for cannabis and ecstasy.
-This metric — the ratio of current to ever users — is a useful
-indicator of addictive potential, and psilocybin scores lowest among
-the three substances.
-
-## Implications for Drug Policy
-
-The EMCDDA's findings on the non-addictive profile of hallucinogenic
-mushrooms create tension with the [[emcdda-hallucinogenic-mushroom-legal-responses]] documented in the
+penalty schedules, despite their more favourable [[emcdda-hallucinogenic-mushroom-legal-responses]] documented in the
 report. Six EU countries tightened their legislation between 2001 and
 2006, yet the pharmacological evidence suggests that the substance
 poses minimal dependence risk. The report highlights that the
 prohibition of mushrooms in the UK was followed by retailers switching
-to legal alternatives such as [[fly-agaric]]) and
-[[purple-ohms-argyreia-nervosa-legal-mushroom-substitutes]] capsules containing Hawaiian Baby Woodrose (Argyreia
+to legal alternatives such as [[purple-ohms-argyreia-nervosa-legal-mushroom-substitutes]] capsules containing Hawaiian Baby Woodrose (Argyreia
 nervosa) — products that carry their own, potentially more serious,
 health risks. This substitution effect illustrates how prohibition of
 a relatively safe substance can paradoxically increase exposure to
@@ -113,8 +92,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[emcdda-psilocybin-non-addictive-profile-tolerance]]
 - [[psilocybin]]
-- [[mdma]]
 - [[doc]]
 - [[psilocybin-psilocin-flush-dynamics-biosynthetic-timing-bigwood-beug]]

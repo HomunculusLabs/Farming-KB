@@ -13,7 +13,7 @@ type: concept
 
 # Soil Microorganisms and Natural Fertility
 
-Soil microorganisms are the foundation of natural soil fertility. Masanobu Fukuoka's farming system depends entirely on the activity of billions of bacteria, fungi, protozoa, and other microorganisms per gram of soil to maintain and build fertility without any external inputs. Understanding the role of these organisms is essential to understanding why [[cover-crop]] and the companion grain or [[comparison-pruning-fruit-trees-vs-grafting-fruit-trees]].
+Soil microorganisms are the foundation of natural soil fertility. Masanobu Fukuoka's farming system depends entirely on the activity of billions of bacteria, fungi, protozoa, and other microorganisms per gram of soil to maintain and build fertility without any external inputs. Understanding the role of these organisms is essential to understanding why [[comparison-pruning-fruit-trees-vs-grafting-fruit-trees]].
 
 ### Free-Living Nitrogen Fixers
 
@@ -23,7 +23,7 @@ Beyond the well-known legume symbiosis, free-living nitrogen-fixing bacteria in 
 
 ### The Matsutake Pine Connection
 
-Fukuoka's investigation of the red pine dieback epidemic across Japan revealed the critical importance of [[matsutake-mushroom]] ([[query-jadam-vs-korean-natural-farming]]: How the principles protect and promote soil microbial life
+Fukuoka's investigation of the red pine dieback epidemic across Japan revealed the critical importance of [[query-jadam-vs-korean-natural-farming]]: How the principles protect and promote soil microbial life
 - [[no-till-rice-winter-grain-succession]]: The farming system that maintains soil biology
 ## Practical Applications
 

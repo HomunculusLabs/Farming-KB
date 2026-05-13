@@ -8,37 +8,7 @@ sources: []
 ---
 # Cannabis Propagation Techniques
 
-Cannabis can be propagated either sexually (through seeds) or asexually (through cloning). Seeds are the result of [[cannabis-sexual-propagation-genetics]] involving recombination of genetic material from two parents. Vegetative methods such as cuttage, layerage, or division of roots are asexual and allow exact replication of the parental plant without genetic variation.
-
-## Sexual Propagation
-
-Sexual propagation requires the union of staminate pollen and pistillate ovule. Pollen and ovules are formed by reduction divisions (meiosis) in which the 10 chromosome pairs fail to replicate, producing haploid (n=10) cells. The diploid condition (2n=20) is restored upon fertilization.
-
-### Seed Selection Guidelines
-
-When selecting seeds from available material, the propagator should follow these guidelines:
-
-1. The dried seeded flower clusters are free of staminate flowers that might have caused hermaphrodite pollinations.
-2. Flowering clusters are tested for desirable traits and seeds selected from the best.
-3. Healthy, robust seeds are selected. Large, dark seeds are best; smaller, paler seeds are usually less mature and less viable.
-4. Mature seeds with dried calyxes in basal portions occur in earliest pistillate flowers and have a high chance of producing early-maturing offspring. Seeds from tips of floral clusters tend to produce later-maturing offspring.
-5. Seeds are collected from strains that best suit the locality (similar climates and latitudes).
-6. Pure strain seeds are selected from crosses between parents of the same origin.
-7. Hybrid seeds are selected from crosses between pure strain parents of different origins.
-8. Seeds from hybrid plants are avoided since they will not reliably reproduce the phenotype of either parent.
-
-### Seed Stock Grading System
-
-- Grade #1: Seed parent and pollen parent are known with no possibility of pollen contamination.
-- Grade #2: Seed parent is known but several known staminate or hermaphrodite pollen parents are involved.
-- Grade #3: Pistillate parent is known and pollen parents are unknown.
-- Grade #4: Neither parent is known, but seeds are collected from one floral cluster.
-- Grade #5: Parentage is unknown but origin is certain.
-- Grade #6: Parentage and origin are both unknown.
-
-## Asexual Propagation (Cloning)
-
-Cloning preserves genotype because only normal cell division (mitosis) occurs. Every [[spore-vs-vegetative-cell-resistance-microwave-sterilization]] in a Cannabis plant has the same genotype and a plant resulting from asexual propagation will have the same genotype as the mother plant. Cloning can preserve a genotype indefinitely. Only mutation of a gene in a vegetative cell that then divides will permanently affect the genotype.
+Cannabis can be propagated either sexually (through seeds) or asexually (through cloning). Seeds are the result of [[spore-vs-vegetative-cell-resistance-microwave-sterilization]] in a Cannabis plant has the same genotype and a plant resulting from asexual propagation will have the same genotype as the mother plant. Cloning can preserve a genotype indefinitely. Only mutation of a gene in a vegetative cell that then divides will permanently affect the genotype.
 
 ### Cuttings
 
@@ -59,14 +29,10 @@ Cuttings of relatively young vegetative limbs 10 to 45 centimeters (4 to 18 inch
 
 **Rooting Media:**
 - Vermiculite and perlite mixtures provide excellent drainage and neutral pH
-- Equal portions of medium and large grade promote greatest root growth due to increased [[stamets-growing-room-air-circulation-co2-management]]
-- Weak [[cannabis-nutrient-solution-preparation]] with micro-nutrients needed for artificial media
+- Equal portions of medium and large grade promote greatest root growth due to increased [[cannabis-nutrient-solution-preparation]] with micro-nutrients needed for artificial media
 - Oxygen enrichment of irrigation water significantly increases rooting rates
 
-**[[cervantes-rooting-hormones-cloning]]:**
-- Synthetic auxins: NAA (naphthaleneacetic acid), IBA (indolebutyric acid)
-- Auxins promote adventitious root formation; cytokinins suppress root growth
-- Mixtures of [[ingham-natural-growth-regulators-soil-microbes]] are often more effective than one alone
+**[[ingham-natural-growth-regulators-soil-microbes]] are often more effective than one alone
 - Captafol fungicide may be applied in powdered form along with growth regulators
 
 ### Layering
@@ -118,8 +84,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[det]]
 - [[indole]]
-- [[spore]]
 - [[sterilization]]
 - [[hamilton-layering-propagation-techniques]]

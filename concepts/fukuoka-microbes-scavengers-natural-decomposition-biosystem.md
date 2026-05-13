@@ -1,37 +1,15 @@
 # Fukuoka on Microbes as Scavengers: Natural Decomposition and the Biosystem
 
-**Source:** [[masanobu-fukuoka]], *The Natural Way of Farming* (1985)
-
-## Overview
-
-Fukuoka devoted significant attention to the role of microorganisms as nature's primary
-recycling agents. He argued that microbes — bacteria, fungi, [[slime-molds]], and yeasts —
+**Source:** [[slime-molds]], and yeasts —
 perform the essential work of decomposition that keeps the earth's surface clean and
 fertile, and that human attempts to improve upon or accelerate these natural processes
-through composting, [[natural-farming-microbial-inoculants]], and fermentation promoters are not only
-unnecessary but counterproductive.
-
-## The Corpse and the Four Pallbearers
-
-Fukuoka opens his discussion of microbial scavenging with a darkly humorous observation:
-farmers dread being caught loafing because they will be told, "Don't think that you can
-live all by yourself. There are days of darkness too. When you die, you'll need the
-services of four people." But in reality, disposing of a corpse requires far more than
-four people — it requires countless microbes and small animals engaged in an assembly-
-line operation of dismantling, decomposition, rotting, and fermentation.
-
-To completely return a human body to the soil, billions upon billions of microorganisms
-appear one after another, each making their final service to a human being. A person's
-cells live on in children and grandchildren, continuing to multiply, while the body
-gradually breaks down. After death, the corpse is decomposed as food by bacteria, so
-one's ultimate form may be that of a microbial cell. Since the last to offer incense
-to the departed soul are probably lactic [[lactic-acid-bacteria-knf]], a person vanishes as a sweet,
+through composting, [[lactic-acid-bacteria-knf]], a person vanishes as a sweet,
 acrid aroma through lactic fermentation.
 
 ## Cremation Versus Natural Burial
 
 Fukuoka contrasted natural burial with cremation as a critique of humanity's tendency to
-disrupt natural processes. Man, "the [[fukuoka-textdoc-man-sole-heretic-natural-order]] in the [[fukuoka-textdoc-natural-order-food-chain-unity]]," douses corpses
+disrupt natural processes. Man, "the [[fukuoka-textdoc-natural-order-food-chain-unity]]," douses corpses
 with heavy fuel oil and burns them rather than returning them to the soil. Much is made
 of sulfurous gases from crematorium chimneys, but the polluting effects on smaller
 animals and plants are greater than the effects on humans.
@@ -71,23 +49,7 @@ The broader ecosystem follows the same pattern: spiders kill rice borers and lea
 mites kill spiders, predaceous mites feed on those mites, ladybugs feed on predaceous
 mites, earwigs feed on ladybugs, centipedes eat earwig eggs, swallows feed on centipedes,
 snakes eat small birds, and kites and dogs kill snakes. Bacteria and viruses attack all
-of these in turn. The [[fukuoka-natural-ecosystem-food-chain-interconnection]] is an incredibly complex array of interdependently
-linked organisms — none live separately, none simply die and are done with.
-
-Crucially, Fukuoka insisted this must not be seen as mere competition or "the strong
-eating the weak," but as "a united family of many members that live together in a single
-harmony."
-
-## The Rice Straw Decomposition Succession
-
-Fukuoka provided a detailed account of the natural decomposition of a single piece of
-rice straw dropped onto the earth, as a demonstration of nature's composting method:
-
-1. **Insect attraction:** Straw draws flies and other insects that lay eggs, producing
-maggots and larvae.
-2. **Fungal colonization:** Rice blast, leaf blotch, and rot-causing fungi already on
-the rice leaves spread rapidly over the straw.
-3. **[[comparison-predatory-mites-vs-ladybugs-biocontrol]]:** Spider mites appear and crawl over the fungal growth.
+of these in turn. The [[comparison-predatory-mites-vs-ladybugs-biocontrol]]:** Spider mites appear and crawl over the fungal growth.
 
 ## Practical Applications
 
@@ -118,8 +80,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[decomposition]]
 - [[fukuoka-textdoc-microbes-scavengers-natural-order-biosystem]]
-- [[doc]]
 - [[det]]
 - [[composting]]

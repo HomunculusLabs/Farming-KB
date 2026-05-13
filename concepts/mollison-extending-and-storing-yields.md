@@ -8,7 +8,7 @@ type: concept
 
 ## Overview
 
-The concentration of yields into one short period is a fiscal strategy, not an environmental or subsistence one. It produces a "feast and famine" regime in both markets and fields, with consequent high storage costs, price volatility, and food insecurity. Permaculture design aims to disperse food yield over time so that many products are available in every season, and to employ storage strategies that preserve abundance for lean periods without excessive energy input.
+The concentration of yields into one short period is a fiscal strategy, not an environmental or subsistence one. It produces a "feast and famine" regime in both markets and fields, with consequent high storage costs, price volatility, and food insecurity. [[permaculture-design]] aims to disperse food yield over time so that many products are available in every season, and to employ storage strategies that preserve abundance for lean periods without excessive energy input.
 
 ## Strategies for Temporal Yield Extension
 
@@ -24,7 +24,7 @@ Increasing overall system diversity ensures continuous production because differ
 
 - **Leaf, fruit, seed, and root** are all product yields, each maturing on its own schedule. A diverse system might provide salad greens in spring, berries in summer, fruits in autumn, and root crops in winter — all from the same designed landscape.
 - **Self-storing species** such as tubers, hard seeds, fuelwood, and rhizomes can be cropped on demand, serving as living storage systems that require no processing infrastructure and don't degrade while in the ground. Jerusalem artichokes, yacon, and groundnuts can be harvested whenever needed throughout winter.
-- **Perennial systems** inherently produce across seasons, unlike annual crops that must be replanted each year. Perennial vegetables, tree fruits, nut trees, and berry bushes provide reliable annual harvests without the seasonal gap that annual cultivation creates.
+- **Perennial systems** inherently produce across seasons, unlike annual crops that must be replanted each year. [[perennial-vegetables]], tree fruits, nut trees, and berry bushes provide reliable annual harvests without the seasonal gap that annual cultivation creates.
 
 ### Preservation Techniques
 
@@ -91,9 +91,6 @@ Cultural and administrative strategies for overcoming yield impediments include:
 
 ## See Also
 
-- [[mollison-yield-theory-and-creation-strategies]]
 - [[mollison-farm-design-strategies-for-yield-increase]]
-- [[resource-classification-and-management-in-permaculture]]
 - [[bill-mollison-permaculture-a-designers-manual-water-harvesting-and-earthworks]]
-- [[mollison-designers-water-purification-and-storage-principles]]
 - [[mollison-open-living-systems-and-design-principles]]

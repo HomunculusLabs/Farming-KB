@@ -32,61 +32,8 @@ following characteristics:
 - Double-walled, ornamented basidiospores characteristic of the genus
 - Woody, tough texture — not edible in the culinary sense
 
-Ganoderma lobatum is closely related to [[ganoderma-lucidum]], the famous reishi
-or lingzhi mushroom of Asian traditional medicine. Both species contain
-polysaccharides and triterpenoids that have been studied for immunomodulatory
-and anti-inflammatory properties, though neither species is known to contain
-psilocybin, psilocin, or any other classic neurotropic compounds.
-
-## The Church at Chignahuapan
-
-The town of Chignahuapan is located in the Sierra Norte de Puebla, a mountainous
-region [[psychoactive-cacti-of-central-mexico]] with a strong indigenous heritage. The region is known
-for its rich biodiversity and its [[history-of-mushroom-cultivation]] use, both culinary and
-ceremonial. The specific church dedicated to Ganoderma lobatum was discovered
-by Guzmán et al. (1975) during fieldwork in the area.
-
-Key details of the cult and church:
-
-- The church was constructed specifically in honor of the fungus
-- Indigenous residents of the region regard the fungus as a saint
-- A specimen of Ganoderma lobatum is kept within or associated with the
-  church, decorated with a sketch depicting Christ flanked by the sun and
-  the moon
-- The iconography (Christ, sun, moon) suggests a syncretic blending of
-  pre-Hispanic indigenous cosmology with Catholic imagery introduced after
-  the Spanish conquest
-- The fungus is venerated rather than consumed
-
-## Relationship to Neurotropic Mushroom Traditions
-
-While Ganoderma lobatum itself has no documented neurotropic properties, the
-mushroom cult of Chignahuapan exists within a broader regional context where
-neurotropic species of Psilocybe are commonly found and traditionally used.
-This geographic overlap suggests several possible interpretations:
-
-1. **Symbolic veneration** — The Ganoderma may represent a proxy or symbol for
-   the sacred mushroom tradition. Indigenous peoples in this region have
-   extensive experience with psychoactive Psilocybe species, and the
-   veneration of Ganoderma lobatum may be an outward, culturally acceptable
-   expression of a deeper mushroom-centered spirituality that includes
-   neurotropic fungi.
-
-2. **Visual similarity** — The large, prominent, shelf-like fruiting bodies
-   of Ganoderma species are visually striking and long-lasting (perennial),
-   making them more suitable for permanent display and veneration than the
-   smaller, ephemeral Psilocybe mushrooms used in actual ceremonies.
-
-3. **Syncretic adaptation** — After the Spanish conquest, the open use of
-   psychoactive mushrooms was suppressed by colonial and ecclesiastical
-   authorities. The veneration of a non-psychoactive bracket fungus may
-   have been a way to preserve mushroom-centered spiritual practices while
-   avoiding persecution. The incorporation of Catholic iconography (Christ,
-   sun, moon) supports this syncretic interpretation.
-
-4. **Independent tradition** — The cult may represent a genuinely independent
-   tradition of fungal veneration, separate from the Psilocybe-centered
-   ceremonies, rooted in the [[amanita]] of fungi as a food
+Ganoderma lobatum is closely related to [[psychoactive-cacti-of-central-mexico]] with a strong indigenous heritage. The region is known
+for its rich biodiversity and its [[amanita]] of fungi as a food
    source and ecological presence in the region.
 
 ## Sun and Moon Iconography
@@ -110,7 +57,7 @@ is rich in symbolic meaning that bridges indigenous and Catholic traditions:
 The veneration of Ganoderma lobatum has parallels in the broader literature:
 
 - Thoen (1982) documented polypores used in [[entheogenic-folk-religious-ceremonies]] including
-  Polyporus tuberaster, Poria cocos, Ganoderma lucidum, and Fomes fomentarius.
+  Polyporus tuberaster, [[poria-cocos]], [[ganoderma-lucidum]], and Fomes fomentarius.
 - Oldridge et al. (1989) considered polypores containing hordenine and
   tyramine as potentially psychotropic, though they cause dizziness rather
   than true hallucinations.

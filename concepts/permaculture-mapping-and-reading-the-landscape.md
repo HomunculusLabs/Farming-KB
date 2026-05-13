@@ -1,5 +1,5 @@
 ---
-title: Permaculture Mapping And Reading The Landscape
+title: Permaculture Mapping and Reading the Landscape
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
@@ -24,7 +24,7 @@ The landscape itself tells the story of its history and current health:
 - **Vegetation types** indicate soil conditions, moisture levels, and microclimates
 - **Soil color** reveals organic matter content, drainage, and mineral composition
 - **Rock outcrops and stone placement** indicate geological history
-- **Animal trails and tracks** show movement patterns and [[permaculture-designers-manual-wildlife-corridors]]
+- **Animal trails and tracks** show movement patterns and wildlife corridors
 
 ### Slope and Aspect
 
@@ -39,7 +39,7 @@ Slope determines water movement, erosion potential, frost drainage, and access. 
 ### Contour Reading
 
 Contour lines connect points of equal elevation. Understanding contour is essential for:
-- Placing swales and [[mollison-designers-swale-design-and-water-harvesting-earthworks]] on contour
+- Placing swales and water harvesting earthworks on contour
 - Designing access roads to follow contours (minimizing grade)
 - Understanding water flow and accumulation patterns
 - Planning terraces and garden beds on level ground
@@ -49,7 +49,7 @@ Contour lines connect points of equal elevation. Understanding contour is essent
 ### Base Maps
 
 A base map records the existing conditions of a site. It should include:
-- [[holzer-high-beds-property-boundaries]]
+- Property boundaries
 - Topographic contours
 - Existing structures (buildings, fences, roads)
 - Water features (streams, springs, wetlands, existing ponds)
@@ -72,7 +72,7 @@ Sector maps overlay information about external energies and influences:
 Multiple transparent overlays can be used to analyze different factors:
 - Water flow and catchment
 - Microclimates (frost pockets, heat zones)
-- [[permaculture-access-and-circulation-design]]
+- Access and circulation
 - Zone planning (Zone 0-5 placement)
 - Soil types and conditions
 
@@ -105,20 +105,6 @@ Understanding the watershed above and below your site is critical:
 - GPS (optional, for larger properties)
 - Aerial photographs and topographic maps (USGS or equivalent)
 - Field notebook for recording observations
-## Design Integration
-
-This concept integrates effectively within broader permaculture design frameworks, contributing to system resilience and multiple ecosystem functions. When implemented as part of a holistic design, it supports the core permaculture ethics of earth care, people care, and fair share. Consider zone placement, relative location, and energy cycling principles when incorporating into landscape designs.
-
-## Economic Considerations
-
-Cost-benefit analysis should account for both immediate yields and long-term system productivity. Initial investment in infrastructure and establishment is typically offset by reduced maintenance costs and increasing outputs over time. Multiple revenue streams can be developed through value-added products, educational opportunities, and ecosystem services.
-
-## See Also
-- [[leary-psychedelic-experience-bardo-mapping]]
-- [[mollison-designers-site-analysis-mapping-observation]]
-- [[permaculture-beginners-guide-observation-and-mapping]]
-- [[permaculture-mapping-and-base-maps]]
-- [[arid-landscape-scarp-wadi-desert-settlement]]
 
 ## See Also
 

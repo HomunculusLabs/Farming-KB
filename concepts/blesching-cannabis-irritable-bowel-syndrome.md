@@ -17,15 +17,7 @@ type: concept
 # Cannabis and Irritable Bowel Syndrome (IBS)
 
 Irritable bowel syndrome (IBS) is a common gastrointestinal disorder that
-significantly impacts quality of life. According to [[cannabis-health-index-scoring-system]], IBS/[[blesching-cannabis-inflammatory-bowel-disease]] disease received a [[blesching-cannabis-prostate-cancer-chi-value-3]] of 8 from 3
-studies reviewed, with additional supporting evidence from case reports and
-pre.
-
-## Overview of IBS
-
-IBS primarily affects the gastrointestinal tract and is associated with
-inflammation. Orthodox medicine struggles to understand the causes of IBS and
-offers no cure. Possible [[emcdda-hallucinogenic-mushroom-contributing-factors-megatrends]] include:
+significantly impacts quality of life. According to [[blesching-cannabis-inflammatory-bowel-disease]] disease received a [[emcdda-hallucinogenic-mushroom-contributing-factors-megatrends]] include:
 
 - Stressful life events (mind-bowel axis)
 - Infections by yet-to-be-identified pathogens or toxins
@@ -41,39 +33,7 @@ IBS is classified according to the primary symptoms displayed:
 - **IBS-A**: Alternating diarrhea with constipation
 - **IBS-PI**: Post-infectious IBS
 
-[[cannabis-health-index]] Assessment
-
-The CHI value for IBS/IBD is 8 from 3 studies reviewed, indicating
-preliminary but promising evidence.
-
-## The Endocannabinoid System in the Gut
-
-The endocannabinoid system is widely distributed throughout the
-gastrointestinal tract, with regional variation and organ-specific actions.
-An Italian meta-analysis (2010) of pre-clinical studies found that the ECS is
-involved in regulating:
-
-- Food intake
-- Nausea and emesis
-- Gastric secretion and gastroprotection
-- GI motility
-- Ion transport
-- Visceral sensation
-- Intestinal inflammation
-- Cell proliferation in the gut
-
-## Cannabis and IBS: The Evidence
-
-### Patient Reports
-
-Case reports from cannabis-using IBS patients suggest that cannabis may be
-effective in managing symptoms, especially nausea, diarrhea, stress, cramps,
-and lack of appetite.
-
-### Pre-Clinical Research
-
-Boston researchers (2006) tested molecules that exert biological effects
-through the ECS and suggested [[metzner-ayahuasca-therapeutic-potential]] of cannabinoids on IBD.
+[[metzner-ayahuasca-therapeutic-potential]] of cannabinoids on IBD.
 
 University of Calgary researchers (2008) showed that cannabinoids reduced
 colitis in test animals, concluding that drugs targeting endocannabinoid
@@ -118,8 +78,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[ayahuasca]]
 - [[doc]]
-- [[dom]]
 - [[endocannabinoid-system]]
 - [[blesching-cannabis-tourette-syndrome]]

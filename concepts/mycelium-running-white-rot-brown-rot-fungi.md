@@ -7,20 +7,9 @@ updated: 2026-04-25
 sources: [raw/papers/unknown-mycelium-running.md]
 type: concept
 ---
-# White Rot and Brown Rot Fungi Fungi that decompose wood can be classified into two primary subgroups based on how they break down the structural components of wood: brown rot fungi and white rot fungi. The powerful enzymes secreted by these fungi to digest lignin and cellulose, the primary structural components of wood, can also break down a surprisingly wide range of toxins with chemical bonds similar to those found in wood, making them essential tools for both forest ecology and environmental remediation. ## Brown Rot Fungi Only about 7 percent of mushrooms are brown rot fungi; of those, about 70 percent are polypores. Brown rot fungi's extracellular enzymes break down the white, pulpy cellulose, leaving behind the brownish lignin (hence the name). These fungi cause checkered cubical cracking and shrinking in wood, which is commonly seen on downed conifer trees in forest ecosystems. Examples of brown rot mushrooms include the multicolored gilled polypore (Lenzites betulina), large lentinus (Lentinus ponderosus), sulphur tufts (Laetiporus sulphureus and Laetiporus conifericola), velvet polypore (Phaeolus schweinitzii), split-gill polypore ([[gloeophyllum-trabeum]]), and dry rot house
-wreckers (such as [[serpula-himantioides]]). Brown
+# White Rot and Brown Rot Fungi Fungi that decompose wood can be classified into two primary subgroups based on how they break down the structural components of wood: brown rot fungi and white rot fungi. The powerful enzymes secreted by these fungi to digest lignin and cellulose, the primary structural components of wood, can also break down a surprisingly wide range of toxins with chemical bonds similar to those found in wood, making them essential tools for both forest ecology and environmental remediation. ## Brown Rot Fungi Only about 7 percent of mushrooms are brown rot fungi; of those, about 70 percent are polypores. Brown rot fungi's extracellular enzymes break down the white, pulpy cellulose, leaving behind the brownish lignin (hence the name). These fungi cause checkered cubical cracking and shrinking in wood, which is commonly seen on downed conifer trees in forest ecosystems. Examples of brown rot mushrooms include the multicolored gilled polypore (Lenzites betulina), large lentinus (Lentinus ponderosus), sulphur tufts (Laetiporus sulphureus and Laetiporus conifericola), velvet polypore (Phaeolus schweinitzii), split-gill polypore ([[serpula-himantioides]]). Brown
 rot fungi are particularly important in conifer forest ecosystems,
-where they are among the primary agents of [[fungal-wood-decomposition-spatial-variation]].
-
-## White Rot Fungi
-
-White rot fungi, more numerous than brown rotters, produce enzymes
-that break down the recalcitrant brown fiber in wood (lignin),
-leaving the cellulose largely intact, thus giving the wood a white
-appearance. Among the more powerful white rot mushrooms are the
-[[cotter-oyster-mushroom-cultivation]] ([[grifola-frondosa]]),
-[[comparison-chaga-vs-turkey-tail-medicinal-mushrooms-comprehensive]] ([[ganoderma-lucidum]]),
-artist conk ([[phanerochaete-chrysosporium]]).
+where they are among the primary agents of [[cotter-oyster-mushroom-cultivation]] ([[comparison-chaga-vs-turkey-tail-medicinal-mushrooms-comprehensive]] ([[phanerochaete-chrysosporium]]).
 
 White rot mushrooms are mycoremediators of toxins held together by
 hydrogen-carbon bonds. Enzymes secreted by this group's mycelia
@@ -36,8 +25,7 @@ Some species of mushrooms produce both types of rot, leaving a
 mottled white and brown discoloration in the wood. This makes
 identifying rots tricky. Bear's head (Hericium abietis) causes a
 white rot in the core of a stump while the outer regions become
-brown. The clustered woodlover ([[mycelium-running-multi-kingdom-bioremediation]]
-- [[mycelium-running-mycelium-soil-building]]
+brown. The clustered woodlover ([[mycelium-running-mycelium-soil-building]]
 
 ## Lignin and Cellulose Structure
 
@@ -88,3 +76,75 @@ and some chlorinated compounds.
 
 The enzymatic capabilities of wood-decay fungi extend beyond wood to a
 remarkable range of environmental pollutants. White rot fungi have been
+
+## Overview
+
+Mycelium Running White Rot Brown Rot Fungi represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish mycelium running white rot brown rot fungi
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving mycelium extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Mycelium Running White Rot Brown Rot Fungi finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for mycelium running white rot brown rot fungi. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+mycelium running white rot brown rot fungi and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Mycelium Running White Rot Brown Rot Fungi has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of mycelium running white rot brown rot fungi into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions

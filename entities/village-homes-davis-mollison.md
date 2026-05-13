@@ -77,15 +77,8 @@ all influence the optimal approach to implementation.
 
 ## See Also
 
-- [[fukuoka-textdoc-sunken-hearth-extinction-village-culture]]
 - [[fukuoka-textdoc-village-philosophy-disappearance]]
-- [[fukuoka-village-self-sufficient-community]]
 - [[jadam-bongha-village-proof]]
-- [[mollison-village-enterprises-occupations]]
-
-## See Also
-
 - [[swale]]
-- [[swale-design-water-harvesting]]
 - [[keyline-design]]
 - [[diversion-drain-mollison]]

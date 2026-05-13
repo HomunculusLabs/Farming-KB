@@ -1,6 +1,6 @@
 ---
 title: "The Secret Life of Plants"
-subtitle: "[[tompkins-soviet-plant-research-gunar-academy|Tompkins]] and Bird's exploration of plant perception"
+subtitle: "Tompkins and Bird's exploration of plant perception"
 tags: [plant-intelligence, plant-perception, consciousness,
       bioelectricity, parapsychology, history-of-science, botany]
 date: 2026-05-12
@@ -38,34 +38,10 @@ investigation into the idea that plants possess sensory abilities,
 emotional responses, and perhaps even consciousness. The book became
 an international bestseller, translated into dozens of languages, and
 provoked fierce debate that continues to this day. It gathered
-experiments from [[jagadis-chandra-bose]] Bose's laboratory in colonial India,
-[[cleve-backster]]'s polygraph research in New York City, Soviet
+experiments from [[cleve-backster]]'s polygraph research in New York City, Soviet
 electrophysiology at the Timiryazev Academy in Moscow, and the
-mystical [[mycorrhizal-agricultural-practices]] at Findhorn in Scotland, weaving them
-into a narrative that challenged the mechanistic view of plant life.
-
-The book's reception was deeply polarized. Skeptics dismissed it as
-pseudoscience and occult fantasy, while enthusiasts embraced it as
-evidence of a profound interconnectedness between all living things.
-What makes *The Secret Life of Plants* enduringly fascinating is that
-many of its most controversial claims have been partially vindicated
-by modern plant science. Electrical signaling in plants, chemical
-communication between individuals, root intelligence, and responses
-to sound are all now established features of plant biology, even if
-the specific [[brassinosteroid-physiological-mechanisms-cell-elongation-division|Mechanisms]] differ from what [[tompkins-marcel-vogel-plant-human-communication|Tompkins]] and Bird described.
-
-## The Book and Its Authors
-
-Peter Tompkins (1916-2007) was a veteran journalist who had
-previously written *Secrets of the Great Pyramid*. His collaborator,
-Christopher Bird (1928-1996), was a former intelligence officer who
-had studied at the Goetheanum in Switzerland, the center of
-anthroposophical philosophy founded by [[rudolf-steiner]]. Bird's
-exposure to Steiner's [[biodynamic-agriculture-and-steiner]] profoundly shaped the
-book's direction.
-
-The book emerged from the cultural ferment of the late 1960s and
-early 1970s, when interest in [[fukuoka-western-eastern-philosophy-agriculture]], ecology, and
+mystical [[brassinosteroid-physiological-mechanisms-cell-elongation-division|Mechanisms]] differ from what [[rudolf-steiner]]. Bird's
+exposure to Steiner's [[fukuoka-western-eastern-philosophy-agriculture]], ecology, and
 alternative science was at its peak. Tompkins and Bird did not claim
 to be scientists. Their method was journalistic: they traveled the
 world, interviewed researchers, and synthesized findings from
@@ -142,7 +118,7 @@ more responsive.
 ## Jagadis Chandra Bose and Plant Electrophysiology
 
 The deepest historical roots of the plant perception research belong
-to Sir Jagadis Chandra Bose (1858-1937), a Bengali physicist and
+to Sir [[jagadis-chandra-bose]] (1858-1937), a Bengali physicist and
 plant physiologist whose work was decades ahead of its time. Bose
 began as a physicist who, before Marconi, successfully transmitted
 radio waves through walls in 1895. His observation that metallic

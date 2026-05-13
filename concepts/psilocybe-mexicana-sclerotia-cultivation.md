@@ -10,11 +10,7 @@ tags: [psilocybe-mexicana, sclerotia, truffles, cultivation, grass-seed, mycolog
 
 # Psilocybe Mexicana Sclerotia Cultivation
 
-*Psilocybe mexicana* is a [[gartz-conocybe-cyanopus-rare-psychoactive-mushroom]] species notable for its ability
-to produce sclerotia -- dense, hardened masses of mycelial tissue that serve as
-survival structures. These sclerotia, commonly called "magic truffles," contain
-the same psychoactive compounds as the mushrooms themselves, primarily
-[[hplc-analysis-of-psilocybin-and-psilocin]]. The species is native to Mexico and was one of the
+*Psilocybe mexicana* is a [[hplc-analysis-of-psilocybin-and-psilocin]]. The species is native to Mexico and was one of the
 first psilocybin-containing mushrooms identified by Western science.
 
 ## What Are Sclerotia
@@ -29,7 +25,7 @@ In cultivation, sclerotia form within the substrate without any need for
 casing or fruiting conditions. This makes them significantly easier to produce
 than mushrooms, as they require only colonized substrate in a jar. No humidity
 control, light cycles, or air exchange management is needed. The tradeoff is
-that [[in-vitro-sclerotia-production-timeline-psilocybe]] takes substantially longer than [[accessible-mushroom-cultivation-for-disabilities]].
+that [[accessible-mushroom-cultivation-for-disabilities]].
 
 ## Grass Seed Substrate
 
@@ -111,20 +107,5 @@ lower than from dedicated jar cultivation.
 
 ## Comparison with Mushroom Cultivation
 
-Sclerotia production offers several advantages over [[mushroom-cultivation-for-disabilities-training-program]]
-*P. mexicana*. The environmental requirements are minimal -- no fruiting
-chamber, no humidity management, no light requirements. Contamination risk is
-lower because the substrate remains sealed in jars throughout the production
-period. The process is more forgiving of timing, as the jars can sit
-undisturbed for extended periods.
-
-The primary disadvantage is the long production timeline. While mushrooms can
-be produced in 6-8 weeks from inoculation, sclerotia require approximately
-16 weeks. Additionally, total yield per jar is generally lower with sclerotia
-than with multiple flushes of mushrooms. The choice between production methods
-depends on the cultivator's priorities regarding yield, effort, and timeline.
-
-## See Also
-- [[psilocybe-sclerotia-producing-species-comparison-mexicana-tampanensis]]
-- [[psilocybe-mexicana-sclerotia-timeline-dark-incubation-flush-pattern]]
+Sclerotia production offers several advantages over [[psilocybe-sclerotia-producing-species-comparison-mexicana-tampanensis]]
 - [[sclerotia-timeline-psilocybe-tampanensis-mexicana-grass-seed-jar]]

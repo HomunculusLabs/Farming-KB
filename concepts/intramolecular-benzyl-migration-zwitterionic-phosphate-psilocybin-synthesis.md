@@ -4,14 +4,7 @@ created: 2026-05-08
 tags: [psilocybin, organic-chemistry, phosphorylation, zwitterion, benzyl-migration, NMR, shirota-synthesis, tryptamine-chemistry]
 date: 2026-05-08
 source: "Shirota, Hakamata & Goda (2003) — J. Nat. Prod. 66, 885–887"
-aliases: [zwitterionic [[zwitterionic-n-o-dibenzyl-phosphate-intermediate]], benzyl group migration psilocybin]
----
-
-# Intramolecular Benzyl Migration to Zwitterionic Phosphate in Psilocybin Synthesis
-
-## Overview
-
-During the phosphorylation of [[psilocin]] using tetrabenzylpyrophosphate and n-BuLi (Shirota route, 2003), an unexpected intramolecular rearrangement converts the expected O,O-dibenzyl phosphate derivative into a zwitterionic N,O-dibenzyl phosphate. This migration was discovered when the crude product failed to dissolve in dichloromethane, and a new spot appeared at the origin on TLC. The zwitterionic nature of the rearranged product proved to be the key to scalable, chromatography-free psilocybin synthesis, raising isolated yields from psilocin from 20–47% to greater than 72%.
+aliases: [zwitterionic [[psilocin]] using tetrabenzylpyrophosphate and n-BuLi (Shirota route, 2003), an unexpected intramolecular rearrangement converts the expected O,O-dibenzyl phosphate derivative into a zwitterionic N,O-dibenzyl phosphate. This migration was discovered when the crude product failed to dissolve in dichloromethane, and a new spot appeared at the origin on TLC. The zwitterionic nature of the rearranged product proved to be the key to scalable, chromatography-free psilocybin synthesis, raising isolated yields from psilocin from 20–47% to greater than 72%.
 
 ## Context: The Phosphorylation Step
 
@@ -21,13 +14,7 @@ The phosphorylation of psilocin (1) with tetrabenzylpyrophosphate in THF at −7
 - **Dibenzyl phosphorochloridate:** Low conversion and problematic side reactions.
 - **Tetrabenzylpyrophosphate (selected):** High conversion, stable reagent, and the unexpected zwitterion formation that dramatically simplified purification.
 
-Previous psilocybin syntheses had reported yields of just 20% (Hofmann et al., 1959) and 47% (Nichols & Frescas), both requiring either column chromatography or anion-exchange resin for the final purification step. The pyrophosphate method was selected for its reagent stability and ease of handling at [[shirota-gram-scale-chromatography-free-psilocybin-synthesis]]. The tetrabenzylpyrophosphate reagent itself can be prepared in nearly quantitative yield from dibenzyl phosphate, making the entire phosphorylation sequence operationally simple and cost-effective.
-
-## Discovery of the Rearrangement
-
-After the standard aqueous workup to remove excess reagents, the ¹H NMR spectrum of the remaining material in CDCl₃ showed complicated signals. TLC revealed an additional spot at the origin, and a whitish material was no longer soluble in CH₂Cl₂. Nichols and Frescas had previously observed a similar phenomenon, concluding that hydrolytic cleavage of one O-benzyl group rapidly occurred, yielding a zwitterionic O-monobenzyl phosphate as part of a mixture.
-
-Purification by preparative reversed-phase HPLC afforded a single compound (8), which upon full [[hmbc-noesy-nmr-analysis-zwitterionic-phosphate-intermediate-psilocybin]] revealed an unexpected structure: one benzyl group had migrated from oxygen to the nitrogen of the N,N-dimethylamino moiety, forming a quaternary ammonium ion paired with the phosphate anion. The full IUPAC-style name for this compound is {benzyl[2-(4-oxyindol-3-yl)ethyl]dimethylammonio}-4-O-benzyl phosphate.
+Previous psilocybin syntheses had reported yields of just 20% (Hofmann et al., 1959) and 47% (Nichols & Frescas), both requiring either column chromatography or anion-exchange resin for the final purification step. The pyrophosphate method was selected for its reagent stability and ease of handling at [[hmbc-noesy-nmr-analysis-zwitterionic-phosphate-intermediate-psilocybin]] revealed an unexpected structure: one benzyl group had migrated from oxygen to the nitrogen of the N,N-dimethylamino moiety, forming a quaternary ammonium ion paired with the phosphate anion. The full IUPAC-style name for this compound is {benzyl[2-(4-oxyindol-3-yl)ethyl]dimethylammonio}-4-O-benzyl phosphate.
 
 ## Structural Elucidation by NMR
 
@@ -38,16 +25,7 @@ The ¹H NMR spectrum of 8 showed signals for two distinct benzyl groups with cle
 - **N-benzyl group:** Methylene protons at δ_H 4.56 (2H, s), shifted to high field due to attachment to the positively charged nitrogen center.
 - **O-benzyl group:** Methylene protons as a characteristic AB quartet at δ_H 4.98 (1H, s) and 4.96 (1H, s), consistent with diastereotopic protons on an O-benzyl group.
 - **Aromatic region:** Two sets of benzyl aromatic signals: δ_H 7.56–7.45 (5H, m, NCH₂C₆H₅) and δ_H 7.31–7.20 (5H, m, OCH₂C₆H₅).
-- **[[shirota-glyoxalylamide-side-chain-construction-psilocin-synthesis]]:** The ethylene bridge protons appeared as broad multiplets at δ_H 3.64 (H₂-2′) and 3.47 (H₂-1′), shifted downfield relative to free psilocin due to the quaternary ammonium.
-- **N-methyl groups:** δ_H 3.08 (6H, s, NMe₂), also shifted downfield from the free amine value of ~2.9 ppm.
-
-The downfield shifts of the methylene, N,N-dimethyl, and ethylene bridge protons relative to free psilocin are diagnostic for quaternary ammonium formation.
-
-### ¹³C NMR Evidence
-
-The ¹³C NMR spectrum confirmed two distinct benzyl environments. Key observations included:
-
-- **C-4 of [[indole]]:** Appeared as a doublet due to phosphorus coupling (split signal at δ_C 147.7), consistent with direct attachment of the phosphate group to the 4-oxygen.
+- **[[indole]]:** Appeared as a doublet due to phosphorus coupling (split signal at δ_C 147.7), consistent with direct attachment of the phosphate group to the 4-oxygen.
 - **N-benzyl ipso carbon:** δ_C 139.3 (Cs/OCH₂C₆H₅) for the O-benzyl, with a separate ipso carbon for the N-benzyl group at the quaternary ammonium.
 - **Quaternary ammonium carbons:** The N-methyl carbons appeared at δ_C ~45–50 ppm, consistent with attachment to a positively charged nitrogen.
 
@@ -83,43 +61,90 @@ The conversion can be achieved simply by suspending the worked-up reaction mixtu
 
 The zwitterionic nature of compound 8 was the critical breakthrough that made gram-scale psilocybin synthesis practical without chromatographic purification. Because 8 is insoluble in CH₂Cl₂ while excess dibenzyl phosphate remains soluble, simple filtration followed by CH₂Cl₂ washing provides the pure intermediate in over 85% yield. This eliminates the need for preparative HPLC, column chromatography, or anion-exchange resin purification.
 
-The subsequent [[shirota-catalytic-hydrogenolysis-debenzylation-psilocybin]] of 8 (H₂, Pd/C, MeOH) cleaves both benzyl groups simultaneously — the O-benzyl to reveal the free phosphate and the N-benzyl to regenerate the tertiary amine — affording psilocybin (2) as a white needle crystalline powder in 87.5% yield from 8. The overall isolated yield from psilocin exceeds 72%, even at gram scale.
+The subsequent [[psilocybin-synthesis]]
+- [[psilocin]]
+- [[indole]]
 
-## Experimental Procedure for the Migration and Isolation
+## Overview
 
-The detailed experimental procedure from the original publication is as follows:
+Intramolecular Benzyl Migration Zwitterionic Phosphate Psilocybin Synthesis represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish intramolecular benzyl migration zwitterionic phosphate psilocybin synthesis
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving intramolecular extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
 
 ## Practical Applications
 
-The principles and techniques discussed here have wide-ranging applications
-across multiple disciplines and contexts. Practitioners and researchers
-continue to explore new ways to integrate these concepts into modern practice,
-adapting traditional knowledge to contemporary challenges and opportunities.
+Intramolecular Benzyl Migration Zwitterionic Phosphate Psilocybin Synthesis finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
 
-## Key Considerations
+## Management and Implementation
 
-Several important factors influence the effectiveness and outcomes described
-in this topic. Understanding these considerations helps practitioners make
-informed decisions and avoid common pitfalls. Environmental conditions,
-timing, and material selection all play critical roles.
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for intramolecular benzyl migration zwitterionic phosphate psilocybin synthesis. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+intramolecular benzyl migration zwitterionic phosphate psilocybin synthesis and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
 
 ## Historical Context
 
-The historical development of this subject reflects centuries of accumulated
-knowledge and practical experience. From traditional methods passed down
-through generations to modern scientific approaches, the evolution continues
-to inform current best practices and research directions.
+Intramolecular Benzyl Migration Zwitterionic Phosphate Psilocybin Synthesis has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
 
-## Common Challenges
+## Integration Strategies
 
-Practitioners frequently encounter several challenges when working with
-these concepts. Climate variability, resource limitations, and knowledge
-gaps can all affect outcomes. Addressing these challenges requires patience,
-observation, and a willingness to adapt approaches based on results.
+Successful integration of intramolecular benzyl migration zwitterionic phosphate psilocybin synthesis into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
 
 ## See Also
-- [[psilocybin-synthesis]]
-- [[psilocybin]]
-- [[psilocin]]
-- [[det]]
-- [[indole]]
+
+- [[clamp-connection-formation-and-nuclear-migration]]
+- [[psilocybin-phosphorylation-via-zwitterionic-intermediate]]
+- [[shirota-acetyl-versus-benzyl-protection-psilocin-synthesis-stability-forensic-standards]]
+- [[shirota-zwitterion-discovery-intramolecular-benzyl-migration-phosphorylation]]

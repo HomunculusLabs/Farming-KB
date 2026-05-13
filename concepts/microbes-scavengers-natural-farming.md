@@ -18,22 +18,7 @@ type: concept
 
 # Microbes as Scavengers in Natural Farming
 
-In [[clay-pellet-seed-balling]] composition to his critique
-of pesticides and his argument for leaving nature alone.
-
-## The Natural Order of Decomposition
-
-Fukuoka describes the earth's surface as a single community of organic
-interrelationships among animals, plants, and microorganisms. All living things belong to
-an endless food chain; all live by feeding on something and die at the hand of something
-else. Matter and energy are in constant flux, passing through continuous cycles without
-birth or death.
-
-When an animal dies, countless microbes and small animals engage in an assembly-line
-operation of dismantling, decomposition, rotting, and fermentation. Billions of
-microorganisms appear one after another, each contributing to returning the corpse to
-the soil. A person's ultimate form may be that of a microbial cell, and since the last
-to offer incense to the departed soul are probably [[bionutrients-lab-lactic-acid-bacteria-serum]], a person
+In [[bionutrients-lab-lactic-acid-bacteria-serum]], a person
 vanishes as a sweet, acrid aroma through lactic fermentation.
 
 Thanks to the microbes that dispose of remains, the earth's surface is always clean and
@@ -47,24 +32,7 @@ Plants growing on the earth are fed upon by bird and beast. Some become prey, ot
 succumb to disease or age. Their wastes and remains are broken down by microorganisms
 which proliferate and die, returning nutrients taken up once more by plants.
 
-Among the microorganisms are bacteria, fungi, [[biodiversity-of-fungi-slime-molds-protostelid-dictyostelid]], and yeasts. Predator-prey
-relationships exist within this vast group. There are fungi that wrap mycelia about
-their prey and kill it by dissolution, bacteria that secrete substances that kill fungi,
-bacteriophages that kill bacteria, and viruses that kill both. Some viruses kill other
-viruses.
-
-The struggle among animals is equally complex. There are spiders that kill rice borers
-and leafhoppers, mites that kill the spiders, predaceous mites that feed on those mites,
-ladybugs that feed on predaceous mites, earwigs that feed on ladybugs, cricket moles
-that eat earwig eggs, swallows that feed on centipedes, snakes that eat small birds,
-and kites and dogs that kill snakes. Bacteria and viruses attack all of these in turn.
-
-## Microbial Proliferation and Self-Governance
-
-The reproductive capacity of microorganisms is staggering. It takes twenty minutes to
-one hour for a single bacterium to divide. Assuming unchecked multiplication, after two
-or three days a single E. coli bacterium could leave a mass of progeny equivalent to the
-total mass of all [[savory-living-organisms-as-tools]] on earth. If self-governing mechanisms regulating one
+Among the microorganisms are bacteria, fungi, [[savory-living-organisms-as-tools]] on earth. If self-governing mechanisms regulating one
 type of bacterium were to cease for just several days, the earth would become a morass
 of bacterial remains.
 
@@ -80,11 +48,91 @@ unseen by man.
 Fukuoka details how a single piece of rice straw dropped onto the earth is decomposed:
 
 1. The straw attracts flies that lay eggs, producing maggots and larvae.
-2. [[fukuoka-textdoc-non-causality-rice-blast-disease]], leaf blotch, and rot-causing fungi spread rapidly over the straw.
-3. [[cervantes-spider-mites-identification-control]] crawl over the [[brassinosteroid-fungal-growth-promotion]].
-4. Yeasts, blue mold, bread mold, and trichoderma fungi destroy the pathogens and begin
-   decomposing the straw.
-5. Nematodes feed on the fungi, bacteria feed on nematodes, mites consume bacteria,
-   predaceous mites feed on those mites, along with spiders, [[ground-beetles-carabidae-and-biological-pest-control]], earwigs,
+2. [[cervantes-spider-mites-identification-control]] crawl over the [[ground-beetles-carabidae-and-biological-pest-control]], earwigs,
    mole crickets, and slugs.
 6. Fibrin-decomposing fungi exhaust their supply and are supplanted by lipoid- and
+
+## Overview
+
+Microbes Scavengers Natural Farming represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish microbes scavengers natural farming
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving microbes extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Microbes Scavengers Natural Farming finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for microbes scavengers natural farming. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+microbes scavengers natural farming and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Microbes Scavengers Natural Farming has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of microbes scavengers natural farming into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[teaming-with-microbes-fungi-and-mycorrhizal-relationships]]
+- [[teaming-with-microbes-overview]]
+- [[teaming-with-microbes-plant-control]]
+- [[teaming-with-microbes-soil-minerals-cation-exchange]]
+- [[teaming-with-microbes-soil-ph-and-biology]]

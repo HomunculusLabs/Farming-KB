@@ -12,11 +12,8 @@ tags: [entheogen]
 
 The morning glory family (Convolvulaceae) includes several species
 whose seeds contain psychoactive ergoline alkaloids. The most
-important entheogenic [[sacred-mexican-morning-glories-ololiuqui-and-tlitliltzin]] are [[plants-of-the-gods-turbina-corymbosa-ololiuqui]]
-(ololiuqui), Ipomoea violacea (badoh negro), and [[purple-ohms-argyreia-nervosa-legal-mushroom-substitutes]]
-(Hawaiian baby woodrose). These plants have been used for centuries
-in Mesoamerican ritual and continue to be significant in ethnobotany
-for their unique [[amanita-muscaria-cultural-history]] importance.
+important entheogenic [[plants-of-the-gods-turbina-corymbosa-ololiuqui]]
+(ololiuqui), Ipomoea violacea (badoh negro), and [[amanita-muscaria-cultural-history]] importance.
 
 ## Overview
 
@@ -25,11 +22,7 @@ documented psychoactive plant traditions in the Americas. The Aztecs
 and other Mesoamerican peoples recognized several species for their
 visionary properties. The practice persists today primarily among
 indigenous communities in Oaxaca, Mexico, where the seeds are used
-alongside other entheogens including [[salvia-divinorum]] (diviner's sage).
-
-The morning glory entheogens are distinguished by their chemistry:
-they contain ergoline alkaloids identical to those produced by the
-[[anadenanthera-entheogens]].
+alongside other entheogens including [[anadenanthera-entheogens]].
 
 ## Chemistry
 
@@ -49,7 +42,7 @@ These compounds are structurally related to LSD (lysergic acid
 diethylamide) but are considerably less potent -- LSA is
 approximately 10-20 times less potent than LSD by weight. The
 ergoline alkaloids are unique in that they occur both in the
-[[teonanacatl-history]] or [[peyote-ceremony]].
+[[peyote-ceremony]].
 
 ## Ethnobotanical Significance
 

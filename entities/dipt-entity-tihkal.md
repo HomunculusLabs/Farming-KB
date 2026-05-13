@@ -46,34 +46,7 @@ Smoked onset is rapid, with effects noted within 4-8 minutes.
 
 ## The Auditory Mechanism
 
-A physician colleague described the mechanism: "If the drug delayed only the neural response to a stimulus, pitch might have been shifted down, yet harmony between notes should have been preserved. A variable delay related to the pitch of the stimulus would produce the disharmony but would not explain the preservation of normal relationship between single tones. It seems clear that this compound affects the auditory processing centers in the brain in a complex way which deserves further [[roger-heim-scientific-study-psilocybin]]. The lack of significant toxic effects should make this compound useful for further studies."
-
-Shulgin proposed labeling with carbon-11 and using positron emission tomography to locate where the drug acts -- the auditory cortex, an association area, or perhaps only a small part of the cortical region handling musical pitch. The compound could be a tool for localizing the pitch center in the brain and a prototypic drug for structural modification.
-
-### Absolute Pitch Study
-
-A study with two subjects who had absolute pitch, employing a piano and sine-wave generator, found no meaningful relationship between the pitch of the note provided and the apparent pitch perceived, except reinforcement that the observed drop in pitch was not linear -- true distortion rather than simple pitch dropping was always observed. The plot of error for each note against elapsed time provided an almost-quantitative measurement of the drug's intensity and chronology.
-
-### MDMA Potentiation
-
-Pretreatment with relatively small amounts of MDMA (35 mg, 1.5-2.5 hours before DIPT at 55 mg) led to an exaggerated distortion, with enhanced intensity that verged on being painful.
-
-## Homologue: IPT
-
-The mono-isopropyl analogue, N-isopropyltryptamine (IPT), has been prepared via the same route. The indol-3-yl N-isopropylglyoxalylamide (mp 199-200 C) obtained in 98% yield; the amine hydrochloride (mp 245-246 C) in 60% yield. Free base distilled at 130-140 C at 0.1 mm/Hg to a very hard crystalline solid. MS (m/z): C4H10N+ 72 (100%); indolemethylene+ 131 (60%), 130 (32%); parent ion 202 (3%). No active level has yet been found in man.
-
-## Physical Properties
-
-- Free base mp: 69-74 C (from hexane, 72-74 C)
-- HCl salt mp: 192-193 C (from tryptamine route); 198-199 C (from indole route)
-- MS (m/z): C7H16N+ 114 (100%); C4H10N+ 72 (38%); indolemethylene+ 130 (18%); parent 244 (<1%)
-- IR (cm-1): 742, 791, 1009, 1133, 1162, 1198
-- HCl salt IR (cm-1): 752, 773, 935, 972, 1138, 1183
-
-## See Also
-
-- [[5-meo-dipt-entity-tihkal]] -- 5-methoxy analogue
-- [[eipt-entity-tihkal]] -- N-ethyl-N-isopropyl analogue
+A physician colleague described the mechanism: "If the drug delayed only the neural response to a stimulus, pitch might have been shifted down, yet harmony between notes should have been preserved. A variable delay related to the pitch of the stimulus would produce the disharmony but would not explain the preservation of normal relationship between single tones. It seems clear that this compound affects the auditory processing centers in the brain in a complex way which deserves further [[5-meo-dipt-entity-tihkal]] -- 5-methoxy analogue
 - [[dpt-entity-tihkal]] -- N,N-dipropyl analogue
 - [[det-entity-tihkal]] -- N,N-diethyl homologue
 ## Practical Considerations
@@ -87,3 +60,88 @@ overall effectiveness and creates beneficial synergies that
 improve resilience and productivity over time.
 
 ## Future Directions
+
+## Overview
+
+Dipt Entity Tihkal represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish dipt entity tihkal
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving dipt extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Dipt Entity Tihkal finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for dipt entity tihkal. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+dipt entity tihkal and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Dipt Entity Tihkal has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of dipt entity tihkal into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[4-5-mdo-dipt-entity-tihkal]]
+- [[4-ho-dipt]]
+- [[5-meo-dipt]]
+- [[5-meo-dipt-compound-profile]]
+- [[dipt]]

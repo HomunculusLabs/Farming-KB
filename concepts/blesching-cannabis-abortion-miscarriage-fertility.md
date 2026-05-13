@@ -16,11 +16,7 @@ type: concept
 
 # Cannabis, Abortion, Miscarriage, and Fertility
 
-The [[cannabinoid-receptors-cb1-cb2]] interactions:
-
-- Low doses may support a physiological process
-- High doses may inhibit the same process
-- The [[blesching-cannabis-therapeutic-window-dosing]] varies between individuals and conditions
+The [[blesching-cannabis-therapeutic-window-dosing]] varies between individuals and conditions
 - This explains why historical sources describe cannabis both as preventing
   miscarriage and as an abortifacient
 
@@ -45,33 +41,7 @@ to the impact of environmental substances during the first trimester.
 
 ## Caution and Future Directions
 
-Although reports exist about the [[blesching-cannabis-safety-adverse-effects-evidence]] of cannabinoids on
-pregnancies, the discovery of endocannabinoids and their receptors in the
-female reproductive organs in rodents suggests the system's role in modulating
-pregnancy. More research is needed to:
-
-- Confirm rodent findings in human subjects
-- Establish safe dosing parameters for women trying to conceive
-- Understand the full range of cannabinoid effects on implantation
-- Differentiate between THC, CBD, and other cannabinoid effects on fertility
-- Investigate the role of the ECS in male fertility
-- Examine long-term developmental effects of prenatal cannabinoid exposure
-
-## Ethical and Clinical Considerations
-
-The complex relationship between cannabis and reproductive outcomes raises
-important clinical questions:
-
-- How should healthcare providers counsel patients trying to conceive?
-- What level of cannabis use, if any, is compatible with healthy pregnancy?
-- Can targeted cannabinoid therapies be developed for fertility treatment?
-- How do individual genetic differences in ECS function affect outcomes?
-
-These questions remain largely unanswered, highlighting the need for both
-research and cautious clinical guidance.
-
-See also: [[blesching-cannabis-pregnancy]],
-[[blesching-cannabis-morning-sickness]],
+Although reports exist about the [[blesching-cannabis-pregnancy]],
 [[blesching-cannabis-menstrual-pain]]
 ## Practical Considerations
 
@@ -121,8 +91,26 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[doc]]
-- [[endocannabinoid-system]]
+
+- [[blesching-cannabis-aging]]
+- [[blesching-cannabis-anorexia-cachexia]]
+- [[blesching-cannabis-asthma-bronchodilation-thc]]
+- [[blesching-cannabis-autism]]
+- [[blesching-cannabis-colds-and-flu]]
+- [[blesching-cannabis-copd]]
+- [[blesching-cannabis-cystitis]]
+- [[blesching-cannabis-depression]]
+- [[blesching-cannabis-diabetes]]
 - [[blesching-cannabis-endometriosis-fertility-obgyn-conditions]]
-- [[blesching-cannabis-fertility-reproductive-health]]
-- [[blesching-cannabis-tourette-syndrome]]
+- [[blesching-cannabis-febrile-seizures]]
+- [[blesching-cannabis-gateway-theory-and-addiction-debate]]
+- [[blesching-cannabis-gerd]]
+- [[blesching-cannabis-gi-disorders-ibs-crohns]]
+- [[blesching-cannabis-hemorrhoids]]
+- [[blesching-cannabis-libido-enhancement]]
+- [[blesching-cannabis-melanoma]]
+- [[blesching-cannabis-neuropathies]]
+- [[blesching-cannabis-schizophrenia]]
+- [[blesching-cannabis-serotonin-endocannabinoid-system]]
+- [[blesching-cannabis-telomeres-telomerase-longevity]]
+- [[blesching-cannabis-uveitis]]

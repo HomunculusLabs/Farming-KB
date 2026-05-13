@@ -9,10 +9,7 @@ represent a narrowing of awareness while psychedelic
 and entheogenic experiences offer the opposite — a
 broadening that can address the root psychological
 conditions underlying addiction. This framework
-positions [[metzner-psycholytic-psychedelic-therapy-models]] not as a treatment
-for a disease but as a correction of a consciousness
-deficit: addiction is understood as the compulsive
-pursuit of [[weil-the-natural-mind-altered-states-normalcy]] through substances that
+positions [[weil-the-natural-mind-altered-states-normalcy]] through substances that
 ultimately contract awareness, while entheogens
 provide genuine expansion that dissolves the need
 for compulsive pursuit.
@@ -73,32 +70,11 @@ behavior, without creating the narrowing trap.
 
 The most compelling empirical evidence for this
 framework comes from the Bwiti tradition of Gabon,
-where [[iboga-root-bark-preparation]] is used in multi-day
-ceremonies that simultaneously initiate novices
-and treat addiction. The iboga experience produces
-a prolonged visionary state in which addicts report
-confronting the origins of their dependency,
-experiencing the consequences of their behavior
-from an expanded perspective, and accessing a
-sense of meaning and purpose that makes continued
-drug use feel irrelevant. This is not symptom
-management — it is a transformation of the
-consciousness that generated the symptoms.
-
-## Psychedelic Therapy for Alcoholism
-
-Early [[hofmann-lsd-clinical-research-early-studies]] on LSD-assisted
+where [[hofmann-lsd-clinical-research-early-studies]] on LSD-assisted
 
 ## See Also
 
-- [[metzner-cohen-janiger-hollywood-psychedelic-arts-research]]
-- [[metzner-ethnobotanical-generation-harner-halifax-furst-mckenna-shamanic-research]]
-- [[metzner-hallucinogen-etymology-alucinare-rehabilitation-and-entheogen-wasson-ott]]
-- [[metzner-hallucinogens-psychotherapy-shamanism-paradigms]]
-- [[metzner-harvard-psilocybin-prison-project-behavior-change]]
-- [[metzner-leary-consciousness-expansion-addiction-contraction-model]]
-- [[metzner-lsd-psychotomimetic-military-mystic-catalyst-origins]]
-- [[metzner-military-cia-lsd-psychotomimetic-weapon-research]]
+- [[metzner-entheogenic-churches-cultural-transformation-movements]]
+- [[metzner-four-paradigms-psychedelic-healing]]
+- [[metzner-lsd-military-weapon-to-mystic-catalyst]]
 - [[metzner-neoshamanic-preparation-and-integration-practices]]
-- [[metzner-san-pedro-cactus-andean-ceremony-altar-practice]]
-- [[metzner-set-and-setting-psychedelic-therapy]]

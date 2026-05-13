@@ -13,13 +13,7 @@ type: concept
 # Cho's Seed and Seedling Solution Treatment
 
 The Seed/Seedling Solution (SES) treatment is a fundamental practice in
-Dr. Cho's Korean [[comparison-natural-farming-vs-permaculture]]. It restores seed vitality through brief
-exposure to [[cho-fermented-plant-juice-preparation]]: 2 ml
--   [[knf-oriental-herbal-nutrient]]: 1 ml
--   Water: 1000 ml
-
-### Optional Additions
-
+Dr. Cho's Korean [[cho-fermented-plant-juice-preparation]]: 2 ml
 -   [[cho-water-soluble-calcium-and-potassium]]: 1 ml — when
     seedlings are overgrown and soft (calcium firms tissue).
 
@@ -39,19 +33,7 @@ activating metabolic processes and beneficial microbial colonization.
 
 ## Soil Treatment Solution (SOS)
 
-Beyond [[jadam-seed-treatment-and-nursery-management]], Cho's system includes a comprehensive field-wide
-Soil Treatment Solution applied before planting:
-
-### SOS Recipe (per acre / 0.4 hectare)
-
-| Input                              | Amount     |
-|------------------------------------|-----------|
-| IMO (solution form)                | 500 ml    |
-| FPJ                                | 500 ml    |
-| OHN                                | 500 ml    |
-| BRV                                | 500 ml    |
-| LAB                                | 300 ml    |
-| Water-soluble [[bionutrients-lab-calcium-phosphate-calamansi]]    | 300 ml    |
+Beyond [[bionutrients-lab-calcium-phosphate-calamansi]]    | 300 ml    |
 | FAA                                | 300 ml    |
 | Charcoal                           | 50 kg     |
 | Soil                               | 500 kg    |
@@ -73,23 +55,7 @@ Soil Treatment Solution applied before planting:
 
 ## Loess Powder Addition
 
-[[cho-plant-growth-stage-treatments]]. After seed
-treatment, the vegetative, cross-over, and reproductive stage treatments
-build upon this foundation.
-
-## Advantages Over Conventional Treatment
-
-1.  **No chemical residue** — All inputs natural and biodegradable.
-2.  **Brief exposure** — Prevents nutrient leaching from seeds.
-3.  **Microbial activation** — Seeds colonized by beneficial organisms.
-4.  **Diagnostic flexibility** — FAA vs. WCA addresses specific
-    seedling conditions.
-5.  **Cost-effective** — All inputs produced on-farm at minimal cost.
-
-## See Also
-
-- [[knf-seed-treatment-and-soil-foundation]]
--   [[natural-farming-guide-seed-saving-and-heirloom-varieties]]
+[[knf-seed-treatment-and-soil-foundation]]
 -   [[knf-soil-treatment-solution]]
 
 ## Practical Applications
@@ -121,8 +87,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[bionutrients]]
 - [[permaculture]]
-- [[cho-soil-treatment-and-seed-preparation]]
 - [[cho-seed-and-seedling-vitality-restoration]]
 - [[jadam-seed-seedling-treatment]]

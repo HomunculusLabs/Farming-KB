@@ -10,19 +10,11 @@ tags: [ethnobotany, salvia-divinorum, salvinorin-a, psychopharmacology, hallucin
 
 ## Overview
 
-[[salvia-divinorum]] is a perennial herb from the mint family (Lamiaceae) that
-contains the psychoactive neoclerodane diterpene salvinorin-A. It is
-pharmacologically unique among naturally occurring hallucinogens because
-salvinorin-A has no activity at [[psilocybin-pharmacology-and-serotonin-receptors]] and is instead a potent
+[[psilocybin-pharmacology-and-serotonin-receptors]] and is instead a potent
 and selective kappa-opioid receptor (KOR) agonist — the first naturally
 occurring non-nitrogenous opioid receptor agonist discovered. Traditionally
-used by the Mazatec Indians of Oaxaca, Mexico, Salvia divinorum is now
-widely grown and sold in the [[dmt-containing-plants-united-states-halpern]].
-
-## Chemical Classification
-
-Unlike virtually all other classical and atypical hallucinogens — which are
-alkaloids (nitrogen-containing [[fungal-volatile-organic-compounds-communication]]) — salvinorin-A is a
+used by the Mazatec Indians of Oaxaca, Mexico, [[salvia-divinorum]] is now
+widely grown and sold in the [[fungal-volatile-organic-compounds-communication]]) — salvinorin-A is a
 neoclerodane diterpene with no nitrogen atom in its structure. This makes
 it fundamentally different in its chemical, pharmacological, and subjective
 properties from tryptamine, phenethylamine, ergoline, and anticholinergic
@@ -49,9 +41,7 @@ context rather than recreational intoxication.
 
 ## Modern Use and Availability
 
-Salvia divinorum plants are now grown and sold in the [[dmt-maoi-plants-united-states]], often
-by individuals with no historical ceremonial connection to the plant.
-Modern [[magic-mushroom-preparation-and-consumption-methods]] include:
+Salvia divinorum plants are now grown and sold in the [[magic-mushroom-preparation-and-consumption-methods]] include:
 
 - **Smoking dried leaves**: Produces rapid onset of effects within 30–60
   seconds, with psychoactivity lasting approximately 15 minutes at doses
@@ -87,3 +77,73 @@ level. The primary risks come from the intense dissociative effects
 themselves — falls, accidents, or dangerous behavior during intoxication.
 Setting is critical: using Salvia in unsafe environments (e.g., near
 stairs, while driving) poses the greatest danger.
+
+## Overview
+
+Salvia Divinorum Pharmacology represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish salvia divinorum pharmacology
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving salvia extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Salvia Divinorum Pharmacology finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for salvia divinorum pharmacology. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+salvia divinorum pharmacology and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Salvia Divinorum Pharmacology has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of salvia divinorum pharmacology into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.

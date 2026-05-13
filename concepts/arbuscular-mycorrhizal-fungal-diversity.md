@@ -24,40 +24,7 @@ Most evidence indicates AM fungi reproduce clonally via mitospores formed in soi
 
 ### Host Range
 
-Host specificity appears minimal or absent. Over 1,000 isolates of 98 species across all genera can grow and sporulate on a single host plant (Sorghum sudanense). A single root system can accommodate colonization by up to 10 AM species simultaneously. However, host and [[duggar-mushroom-environmental-factors-temperature-moisture-light]] differentially influence colonization rates and sporulation by different species.
-
-## Taxonomic Diversity
-
-### Order Glomales
-
-AM fungi are classified in the order Glomales, divided into two suborders:
-
-- **Glomineae**: Form arbuscules and vesicles; mycorrhizal roots, detached hyphae, and spores are generally highly infective
-- **Gigasporineae**: Form arbuscules and auxiliary cells; auxiliary cells and detached hyphae are generally not infective
-
-### Genera and Species
-
-Seven genera with 163 described species:
-
-- **Glomus**: 91 species — disproportionately speciose relative to other genera
-- **Acaulospora**: 35 species — bilayered spore wall
-- **Scutellospora**: 28 species — bilayered spore wall
-- **Gigaspora**: 5 species — developmental constraints on spore wall variation
-- **Entrophospora**: 4 species — likely polyphyletic
-- **Archaeospora**: 2 species — recently delimited based on rDNA sequences
-- **Paraglomus**: 2 species — recently delimited based on rDNA sequences
-
-Spore wall properties primarily resolve species, while other traits group species into higher taxa. The low number of species is predictable given simple morphological designs, but physiological and ecological diversity among populations far exceeds taxonomic diversity.
-
-### Phylogenetic Relationships
-
-Some Acaulospora and Glomus species are more closely related to Geosiphon pyriforme (a non-mycorrhizal symbiont with cyanobacteria) than to other AM fungi. These phylogenetically ancient species were placed in new families (Archaeosporaceae, Paraglomaceae).
-
-## Ecological Roles
-
-### Nutrient Exchange
-
-AM fungi improve phosphorus acquisition by plants in low-phosphorus soils. When soil phosphorus exceeds plant requirements, the symbiosis may become inhibitory and even pathogenic. AM fungi influence Rhizobium-Bradyrhizobium associations with legumes through increased [[query-how-does-phosphorus-availability-change-across-soil-ph-levels]].
+Host specificity appears minimal or absent. Over 1,000 isolates of 98 species across all genera can grow and sporulate on a single host plant (Sorghum sudanense). A single root system can accommodate colonization by up to 10 AM species simultaneously. However, host and [[query-how-does-phosphorus-availability-change-across-soil-ph-levels]].
 
 ### Soil Structure
 
@@ -65,54 +32,100 @@ AM fungi produce glomalin — a heat-stable glycoprotein that coats hyphae and s
 
 ### Mycorrhizosphere Effects
 
-The mycorrhizosphere — soil volume influenced by AM hyphae — dramatically affects root- and soil-associated microorganisms. Mycorrhizal roots have altered exudation patterns that influence [[cultivar-endorhiza-bacterial-communities-cannabis]], [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]], and plant-pathogen interactions.
+The mycorrhizosphere — soil volume influenced by AM hyphae — dramatically affects root- and soil-associated microorganisms. Mycorrhizal roots have altered exudation patterns that influence [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]], and plant-pathogen interactions.
 
 ## Sampling and Conservation
 
-AM fungi are found in soil worldwide and have also been detected in aerial epiphytes and vegetative plant debris. The International Culture Collection of Vesicular Arbuscular Mycorrhizal Fungi (INVAM) contains almost 1,100 accessions of more than 86 species. Many areas remain unsampled, and characterization of [[biodiversity-of-fungi-soil-fungal-communities-agriculture]], life histories, and dynamics is still in early stages.
-
-## Related Topics
-
-- [[mycorrhizal-networks]] — comprehensive treatment of mycorrhizal ecology
-- [[soil-fungal-diversity]] — soil as habitat for AM fungi
-- fungal-chromogens-and-color-change
+AM fungi are found in soil worldwide and have also been detected in aerial epiphytes and vegetative plant debris. The International Culture Collection of Vesicular Arbuscular Mycorrhizal Fungi (INVAM) contains almost 1,100 accessions of more than 86 species. Many areas remain unsampled, and characterization of [[mycorrhizal-networks]] — comprehensive treatment of mycorrhizal ecology
 - [[mycorrhizal-fungi-hydrocarbon-remediation]]
 
 ## See Also
 
-- [[arbuscular-mycorrhizal-fungal-diversity-patterns-distribution]]
+- [[mycorrhizal-fungal-diversity]]
+- [[fungal-hyphae]]
+- [[dom]]
+
+## Overview
+
+Arbuscular Mycorrhizal Fungal Diversity represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish arbuscular mycorrhizal fungal diversity
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving arbuscular extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
 
 ## Practical Applications
 
-The principles and techniques discussed here have wide-ranging applications
-across multiple disciplines and contexts. Practitioners and researchers
-continue to explore new ways to integrate these concepts into modern practice,
-adapting traditional knowledge to contemporary challenges and opportunities.
+Arbuscular Mycorrhizal Fungal Diversity finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
 
-## Key Considerations
+## Management and Implementation
 
-Several important factors influence the effectiveness and outcomes described
-in this topic. Understanding these considerations helps practitioners make
-informed decisions and avoid common pitfalls. Environmental conditions,
-timing, and material selection all play critical roles.
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for arbuscular mycorrhizal fungal diversity. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+arbuscular mycorrhizal fungal diversity and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
 
 ## Historical Context
 
-The historical development of this subject reflects centuries of accumulated
-knowledge and practical experience. From traditional methods passed down
-through generations to modern scientific approaches, the evolution continues
-to inform current best practices and research directions.
+Arbuscular Mycorrhizal Fungal Diversity has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
 
-## Common Challenges
+## Integration Strategies
 
-Practitioners frequently encounter several challenges when working with
-these concepts. Climate variability, resource limitations, and knowledge
-gaps can all affect outcomes. Addressing these challenges requires patience,
-observation, and a willingness to adapt approaches based on results.
+Successful integration of arbuscular mycorrhizal fungal diversity into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
 
 ## See Also
-- [[mycorrhizal-fungal-diversity]]
-- [[arbuscular-mycorrhizal-fungi]]
-- [[fungal-hyphae]]
-- [[mycorrhizal-fungi]]
-- [[dom]]
+
+- [[arbuscular-mycorrhizal-fungi-in-tropical-forest-restoration]]
+- [[arbuscular-mycorrhizal-network-visualization-anastomosis]]
+- [[arbuscular-mycorrhizal-networks]]
+- [[arbuscular-mycorrhizal-symbiosis]]
+- [[singh-arbuscular-mycorrhizal-diversity-grassland-ecosystems]]

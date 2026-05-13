@@ -13,19 +13,8 @@ type: concept
 # Fungus Gnats in Cannabis Gardens
 
 Fungus gnats are a common pest in cannabis gardens,
-particularly in soil and soilless [[cervantes-growing-mediums-comparison]] that
-remain consistently moist. While adult gnats are merely
-a nuisance, their larvae cause significant root damage
-that can stunt growth and invite secondary infections
-from pathogenic fungi.
-
-See also: [[cervantes-fusarium-vascular-wilt-diseases]]
-See also: [[cervantes-sticky-traps-pest-monitoring]]
-
-## Biological Control
-
-The easiest and most reliable biological control for
-fungus gnats is using [[cervantes-bacillus-thuringiensis-bt-control]] var.
+particularly in soil and soilless [[cervantes-fusarium-vascular-wilt-diseases]]
+See also: [[cervantes-bacillus-thuringiensis-bt-control]] var.
 israelensis (Bti). This naturally occurring soil
 bacterium is highly specific to fly larvae and is
 completely safe for plants, humans, and beneficial
@@ -40,12 +29,7 @@ Additional biological controls include:
 - **Predatory soil mites** (Hypoaspis miles, also
   known as Stratiolaelaps scimitus) that feed on
   fungus gnat larvae in the growing medium.
-- **[[ingham-beneficial-nematodes-soil-food-web]]** (Steinernema feltiae) that
-  seek out and parasitize fungus gnat larvae in the
-  soil. These microscopic worms are effective in
-  moist conditions.
-
-See also: [[cervantes-bacillus-thuringiensis-bt-control]]
+- **[[cervantes-bacillus-thuringiensis-bt-control]]
 
 ## Chemical Sprays
 
@@ -56,12 +40,7 @@ spray options can help manage fungus gnat populations:
   larval life cycle and reduces adult emergence.
 - **Insecticidal soap** can be applied as a soil
   drench to kill larvae near the surface.
-- **[[cervantes-hydrogen-peroxide-sterilization]]** (3 percent solution diluted
-  with water) can be drenched through the medium to
-  kill larvae on contact. This also adds oxygen to the
-  root zone.
-
-See also: [[cervantes-hydrogen-peroxide-sterilization]]
+- **[[cervantes-hydrogen-peroxide-sterilization]]
 
 ## Prevention Summary
 
@@ -70,11 +49,7 @@ infestations is maintaining proper moisture levels in
 the growing medium. Overwatering creates the perfect
 environment for these pests to thrive. Combined with
 good sanitation practices, covering exposed medium,
-using yellow [[cervantes-sticky-traps-pest-monitoring]] for monitoring, and having
-Bti on hand for rapid response, growers can keep fungus
-gnat populations well under control.
-
-See also: [[cervantes-growing-medium]]
+using yellow [[cervantes-growing-medium]]
 ## Practical Considerations
 
 Successful implementation of Cervantes - Fungus Gnats in Cannabis Gardens requires attention to
@@ -123,8 +98,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[neem]]
 - [[sterilization]]
-- [[fungus-gnats-cannabis]]
 - [[query-how-to-control-fungus-gnats-organically]]
 - [[marijuana-horticulture-cervantes-hydroponic-growing-systems]]

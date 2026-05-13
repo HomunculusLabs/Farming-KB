@@ -20,53 +20,19 @@ sources: [/Users/t3rpz/wiki/raw/papers/magic-mushrooms-around-the-world-by-joche
 - **SMILES:** CN(C)CCC1=CNC2=C1C=CC=C2
 - **Solubility:** Freely soluble in organic solvents; forms water-soluble salts (DMT fumarate, DMT citrate)
 - **Melting point (freebase):** 44-46°C
-- **[[cervantes-vapor-pressure-deficit-transpiration]]:** Sufficient for vaporization at ~60-80°C
-
-DMT is a simple indole ethylamine consisting of the [[5-meo-dmt-compound-profile]], [[lsd-lysergic-acid-diethylamide-experience-guide]]). The freebase form is volatile and can be vaporized and inhaled; salt forms are water-soluble and suitable for oral or intravenous administration.
-
-## Pharmacology
-
-### Receptor Pharmacology
-
-DMT is a non-selective serotonergic agonist with the following primary receptor activities:
-
-- **5-HT₂A receptor:** Principal site of psychedelic action (Ki ≈ 200 nM); agonism at this receptor in cortical layer V pyramidal neurons produces the characteristic psychedelic effects
-- **5-HT₁A receptor:** Agonist activity (Ki ≈ 500 nM); may contribute to anxiolytic and consciousness-altering effects
-- **5-HT₂C receptor:** Moderate affinity; may modulate anxiety and perception
-- **Sigma-1 receptor:** Significant affinity (Ki ≈ 50-100 nM); intracellular chaperone receptor modulating calcium signaling and neuroprotection
-- **TAAR (Trace Amine-Associated Receptors):** DMT activates TAAR1 and TAAR2; functional significance under investigation
-- **MAO substrate:** DMT is rapidly metabolized by monoamine oxidase A (MAO-A) with a half-life of ~15 minutes when administered intravenously
-
-### Pharmacokinetics
-
-- **Oral:** Inactive without MAO inhibition (e.g., [[entheogen-jurema-mimosa-hostilis-ethnobotany]] (root bark, ~0.5-1%), [[yopo-anadenanthera-peregrina-snuff]] (seeds, with 5-MeO-DMT and [[bufotenin-entity-tihkal]])
-- The [[mckenna-tryptamine-endogenous-dmt-pineal-gland-theory]] of rodents (though human pineal DMT levels remain debated)
-
-### In the Human Body
-[[mckenna-endogenous-dmt-brain-familiarity]] biosynthesis proceeds from [[tryptamine-consciousness-theory]]:
-
-1. [[tryptamine-consciousness-theory]] (aromatic L-amino acid decarboxylase, AADC)
-2. [[psilocybin]] in this regard) is being studied for existential distress in terminal illness
-- **Neuroimaging:** fMRI and EEG studies reveal DMT-induced disruption of the [[psilocybin-default-mode-network-ego-dissolution]] network (DMN) and increased global connectivity — patterns shared with other 5-HT₂A agonists
+- **[[5-meo-dmt-compound-profile]], [[entheogen-jurema-mimosa-hostilis-ethnobotany]] (root bark, ~0.5-1%), [[bufotenin-entity-tihkal]])
+- The [[mckenna-endogenous-dmt-brain-familiarity]] biosynthesis proceeds from [[tryptamine-consciousness-theory]] (aromatic L-amino acid decarboxylase, AADC)
+2. [[psilocybin-default-mode-network-ego-dissolution]] network (DMN) and increased global connectivity — patterns shared with other 5-HT₂A agonists
 
 ### Legal Status
 - **Controlled substance:** Schedule I in the United States (since 1971); Class A in the UK; similarly controlled in most jurisdictions
-- **Ayahuasca:** Legal exemption for religious use in Brazil, Peru, and several US jurisdictions (União do Vegetal and [[metzner-brazilian-ayahuasca-churches-structural-comparison-santo-daime-udv-barquinha]] court cases)
-- **N,N-DMT containing plants:** Generally uncontrolled, though preparation constitutes manufacture of a controlled substance
+- **Ayahuasca:** Legal exemption for religious use in Brazil, Peru, and several US jurisdictions (União do Vegetal and [[tryptamine-consciousness-theory]] + 2 CH₂O + 2[H] → DMT + 2 H₂O
 
-## Chemistry and Synthesis
-
-DMT can be synthesized by several routes, the most common being the reductive amination of [[tryptamine-consciousness-theory]] + 2 CH₂O + 2[H] → DMT + 2 H₂O
-
-Extraction from plant material (notably [[tryptamine-consciousness-theory]] — the unmethylated parent compound; N-desmethyl-DMT
-- [[psilocybin]]
-- [[5-meo-dmt-compound-profile]] — 5-methoxy-N,N-dimethyltryptamine; more potent and shorter-acting than DMT
+Extraction from plant material (notably [[psilocybin]]
 - [[lsd-lysergic-acid-diethylamide-experience-guide]] — ergoline derivative sharing the dimethylamine motif; acts at the same 5-HT₂A receptor
-- [[ayahuasca-vision-art-and-shipibo-tradition]] — traditional DMT-containing brew with MAO-inhibiting β-carbolines
 - [[dmt]]
 
-- [[psilocybin]] — mushroom-derived 5-HT₂A agonist with overlapping pharmacology
-- [[ayahuasca-vision-art-and-shipibo-tradition]] — traditional Amazonian DMT preparation
+- [[amaringo-ayahuasca-visions-shipibo-iconography]] — traditional Amazonian DMT preparation
 - [[entada-rheedii]]
 ## Practical Considerations
 
@@ -86,3 +52,88 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
+
+## Overview
+
+Dimethyltryptamine represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish dimethyltryptamine
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving dimethyltryptamine extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Dimethyltryptamine finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for dimethyltryptamine. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+dimethyltryptamine and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Dimethyltryptamine has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of dimethyltryptamine into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[dimethyltryptamine-dmt-chemistry-and-pharmacology]]
+- [[dimethyltryptamine-n-oxide]]
+- [[dmt-dimethyltryptamine-experience-guide]]
+- [[dmt-nn-dimethyltryptamine]]
+- [[dmt-nn-dimethyltryptamine-comprehensive]]

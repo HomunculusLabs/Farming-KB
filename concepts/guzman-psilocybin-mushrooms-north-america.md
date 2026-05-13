@@ -33,26 +33,14 @@ and subtropical species.
 ## Canada
 
 ### Widely distributed species
-[[allegro-amanita-muscaria-properties-and-pharmacology]], A. pantherina, [[bloomfield-ergot-claviceps-purpurea-ergotism]], [[conocybe-smithii]],
-Gymnopilus aeruginosus, G. sapineus, [[guzman-panaeolina-foenisecii-psilocybin-controversy-conflicting-chemical-analyses]], Panaeolus
+[[bloomfield-ergot-claviceps-purpurea-ergotism]], [[guzman-panaeolina-foenisecii-psilocybin-controversy-conflicting-chemical-analyses]], Panaeolus
 castaneifolius, P. sphinctrinus, P. subbalteatus, Psilocybe quebecensis, P.
 semilanceata.
 
 ### British Columbia (richest Canadian province)
 British Columbia is the Canadian hotspot for neurotropic fungi:
 - **Amanita muscaria, A. pantherina**
-- **[[gartz-conocybe-cyanopus-rare-psychoactive-mushroom]]**
-- **Gymnopilus luteofolius**
-- **Psilocybe baeocystis, P. cyanofibrillosa, P. cyanescens, P. fimetaria,
-  P. pelliculosa, P. semilanceata, P. sierrae, P. silvatica, P. strictipes, P.
-  stuntzii**
-
-### Other provinces
-- **Alberta:** A. muscaria, Conocybe kuehneriana, G. luteofolius, G. sapineus,
-  G. spectabilis, Panaeolus sphinctrinus, P. subbalteatus.
-- **Ontario:** A. muscaria, Gymnopilus spectabilis, G. viridans, Panaeolina
-  foenisecii, Psilocybe caerulipes, P. silvatica.
-- **Quebec:** A. muscaria, Gymnopilus viridans, [[panaeolina-foenisecii]],
+- **[[panaeolina-foenisecii]],
   Panaeolus castaneifolius, P. subbalteatus, Psilocybe caerulipes, P.
   quebecensis (endemic), P. semilanceata.
 - **Nova Scotia:** A. muscaria, Gymnopilus spectabilis, P. semilanceata.
@@ -64,11 +52,8 @@ British Columbia is the Canadian hotspot for neurotropic fungi:
 ## United States
 
 ### Widely distributed species
-Amanita muscaria, A. pantherina, Boletus nigroviolaceus, [[claviceps-paspali]],
-C. purpurea, C. rolfesii, C. tripsaci, [[conocybe-cyanopus]], C. smithii,
-[[copelandia-cyanescens]], Cordyceps capitata, C. ophioglossoides, Gerronema
-fibula, Gymnopilus aeruginosus, G. liquiritiae, G. luteofolius, G. luteus,
-G. sapineus, G. spectabilis, G. validipes, [[hypholoma-popperianum]], Inocybe
+Amanita muscaria, A. pantherina, Boletus nigroviolaceus, [[conocybe-cyanopus]], C. smithii,
+[[hypholoma-popperianum]], Inocybe
 aeruginascens, I. corydalina, Panaeolina foenisecii, Panaeolus
 castaneifolius, P. fimicola, P. papilionaceus, P. retirugis, P.
 sphinctrinus, P. subbalteatus, Pluteus atricapillus, P. salicinus,
@@ -118,8 +103,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[psilocybin-mushrooms]]
 - [[psilocybin]]
-- [[psilocybin-mushroom]]
 - [[doc]]
 - [[salicin]]

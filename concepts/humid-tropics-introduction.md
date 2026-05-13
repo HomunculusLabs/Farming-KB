@@ -43,8 +43,6 @@ Designing for the humid tropics means accounting for serious health risks that a
 
 These hazards underscore why **hygienic disposal systems** and **clean water supply** are listed as non-negotiable design essentials for any tropical settlement.
 
-
-
 ## Climatic Zones
 
 ### 1. Wet Tropics
@@ -59,19 +57,12 @@ These hazards underscore why **hygienic disposal systems** and **clean water sup
 
 **Ecological characteristics:**
 - Extraordinary biological diversity — up to **800 tree species per km²**
-- Dense multi-[[phytochrome-ecological-function-dusk-dawn-red-far-red-light-switch|canopy]] [[nitrogen-fixing-trees-and-shrubs|forest]] structure (emergent, canopy, understory, shrub, ground layers)
-- Nutrients cycle rapidly through living biomass; the forest *is* the [[soil-ph|soil]]
-- Decomposition is fast; organic matter breaks down in days rather than months
-
-**Staple crops:**
-Plantain, banana, [[permaculture-plants-comfrey-chop-and-drop|cassava]], yams, and coconut form the foundation of traditional tropical food systems. These crops are well-adapted to the multi-storied environment and can be integrated into forest-garden designs.
+- Dense multi-[[nitrogen-fixing-trees-and-shrubs|forest]] structure (emergent, canopy, understory, shrub, ground layers)
+- Nutrients cycle rapidly through living biomass; the forest *is* the [[permaculture-plants-comfrey-chop-and-drop|cassava]], yams, and coconut form the foundation of traditional tropical food systems. These crops are well-adapted to the multi-storied environment and can be integrated into forest-garden designs.
 
 **Design essentials for wet tropics:**
 - Hygienic waste disposal systems (critical for disease prevention)
-- Reliable clean [[water-wise-vegetable-gardening|water]] supply
-- Integrated insect control (domestic foragers — chickens, ducks, guinea fowl)
-- Tree replacement of ground crops — shift from annuals to productive perennials
-- No-dig [[mulching-guide|mulch]] techniques to maintain soil cover at all times
+- Reliable clean [[mulching-guide|mulch]] techniques to maintain soil cover at all times
 - Emulation of tropical forest structure in garden design
 
 ### 2. Wet-Dry Tropics
@@ -97,46 +88,25 @@ Corn, millet, wheat, and beans — crops adapted to seasonal rainfall patterns a
 **Design essentials for wet-dry tropics:**
 - **Water storage** is paramount — tanks, dams, and swales to capture wet-season rains
 - **Hedgerows** for windbreaks, shade, and wildlife corridors
-- **Tree legumes** (Acacia, Leucaena, etc.) for [[legume-nitrogen-fixation-mechanism|nitrogen]] fixation and fodder
-- **Mulch use** to conserve soil moisture through the dry season
-- **Keyline flood control** to slow, spread, and sink runoff water across the landscape
-- **Soakage pits** to recharge groundwater and reduce [[permplant-willows-salix-erosion-control-fodder|erosion]]
+- **Tree legumes** (Acacia, Leucaena, etc.) for [[permplant-willows-salix-erosion-control-fodder|erosion]]
 
-### 3. [[wet-dry-and-monsoon-tropical-climates|Monsoon]] Tropics
-
-**Geographic examples:** Indo-Thailand region, northern Australia
-
-| Parameter | Range |
-|---|---|
-| Land area | 8–10% of world land surface |
-| Temperature (dry winter) | 13–21°C |
-| Annual rainfall | 102–1,016 cm (highly erratic) |
-
-**Ecological characteristics:**
-- Late summer onshore winds bring intense seasonal rainfall
-- Cool, dry winters create a pronounced seasonal contrast
-- Rainfall is extremely erratic — drought and flood can occur in the same year
-- Once covered by extensive tropical forests, now heavily degraded (especially in India)
-- Supports large human populations, creating intense pressure on remaining natural systems
-
-**Historical degradation:**
-India's monsoon forests have been devastated by centuries of population pressure, overgrazing, and inappropriate agriculture. The region exemplifies what happens when tropical forest systems are removed without adequate replacement — desertification, soil loss, and food insecurity follow. [[permaculture-resources-classification|Permaculture]] design in these zones must prioritize **restoration** alongside food production.
+### 3. [[permaculture-resources-classification|Permaculture]] design in these zones must prioritize **restoration** alongside food production.
 
 ---
 
 ## Key Design Principles Across All Tropical Zones
 
-1. **Mimic forest structure** — multi-storied canopies are the template for productive systems
-2. **Keep soil covered** — bare soil is the enemy; mulch and living ground covers are essential
+1. **Mimic [[mollison-wet-tropical-forest-structure-and-polyculture]]** — multi-storied canopies are the template for productive systems
+2. **Keep soil covered** — bare soil is the enemy; mulch and living [[coastal-ground-covers-hedges-permaculture]] are essential
 3. **Design for water** — whether abundance (wet tropics) or scarcity (wet-dry tropics)
 4. **Prioritize perennials** — annual crops require constant soil disturbance; perennials build soil
 5. **Integrate animals** — poultry and other foragers replace pesticides and cycle nutrients
-6. **Plan for health** — clean water, waste management, and shade are survival requirements
-7. **Respect the fragility** — tropical soils recover slowly; prevention is far easier than restoration
+6. **Plan for health** — clean water, [[community-recycling-waste-management]], and shade are survival requirements
+7. **Respect the fragility** — [[mollison-designers-pioneer-species-for-exhausted-tropical-soils]] recover slowly; prevention is far easier than restoration
 
 ## See Also
 
-- humid tropics introduction — detailed design for multi-storied garden systems
-- humid tropics introduction — swales, keyline, and storage strategies
-- humid tropics introduction — mulch, [[composting]], and [[mycorrhizal-networks]]
+- [[humid-tropics-introduction-and-climatic-types]] — detailed design for multi-storied garden systems
+- humid tropics introduction — swales, keyline, [[yield-extension-and-storage-strategies]]
+- humid tropics introduction — mulch, [[mycorrhizal-networks]]
 - humid tropics introduction — housing, sanitation, and domestic systems

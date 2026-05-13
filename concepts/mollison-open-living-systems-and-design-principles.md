@@ -83,10 +83,7 @@ The long-term energy derived from the sun is available on earth and can renew ou
 
 ## See Also
 
-- [[laws-and-principles-of-natural-systems]]
 - [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]]
-- [[bill-mollison-permaculture-a-designers-manual-ethical-foundations-in-permaculture]]
 - [[mollison-designers-biogas-digester-sewage-treatment]]
-- [[bill-mollison-permaculture-a-designers-manual-succession-and-ecological-evolution]]
 - [[resource-classification-and-management-in-permaculture]]
 - [[mollison-yield-theory-and-creation-strategies]]

@@ -1,6 +1,6 @@
 ---
 title: "trichocereus-mescaline-cacti-san-pedro-peruvian-torch-halpern: Ethnobotany, Chemistry, and Ceremonial Use"
-subtitle: "From ancient [[metzner-peyote-ceremonies-native-american-church-and-huichol-traditions]] to modern cultivation of San Pedro and the [[entheogen-trichocereus-genus-mescaline-cacti]]"
+subtitle: "From ancient entheogen-trichocereus-genus-mescaline-cacti"
 tags: [mescaline, peyote, san-pedro, cacti, ethnobotany, phenethylamine, ceremony, cultivation]
 date: 2026-04-28
 updated: 2026-04-28
@@ -105,29 +105,11 @@ see alkaloid content drop below fifty percent.
 ## Five Thousand Years of Peyote Ceremony
 
 Archaeological evidence suggests peyote use dates back at least 5,700
-years. [[challenges-neurotropic-fungi-chemical-analysis-taxonomic-identification]] of ceremonial artifacts from the Shumla caves
-in Texas detected mescaline residues on objects dating to approximately
-3780 BCE. Trans-Pecos peyote beads found in human coprolites provide
-direct archaeological evidence of consumption. The Huichol people of
-northwestern Mexico make an annual pilgrimage of hundreds of miles to
-the peyote lands in Wirikuta, a sacred desert region in San Luis Potosi,
-where they hunt for the sacred cactus in a ritual that mirrors their
-cosmological journey.
-
-When European missionaries first encountered peyote use among
-## See Also
-
-- [[mescaline-compound-profile]] for chemical identity and dosage
-- [[mescaline-reference]] for comprehensive pharmacological reference
+years. [[mescaline-compound-profile]] for chemical identity and dosage
 - [[mescaline-ethnobotany]] for Schultes and Hofmann's ethnobotanical account
-- [[peyote-ceremony-guide]] for ceremonial practice details
 - [[entheogen-trichocereus-genus-mescaline-cacti]] for the genus overview
-- [[gottlieb-peyote-botany-and-mescaline-content]] for alkaloid profiles
-- [[gottlieb-peyote-cultivation-from-seed]] for [[mushroom-growing-methods-comparison]]
-- [[gottlieb-psychoactive-cacti-san-pedro-and-peruvian-torch]] for species comparison
-- [[schultes-peyote-and-mescaline]] for the historical ethnobotany
+- [[gottlieb-peyote-cultivation-from-seed]] for [[gottlieb-psychoactive-cacti-san-pedro-and-peruvian-torch]] for species comparison
 - [[plants-of-the-gods-trichocereus-san-pedro-chemistry]] for San Pedro chemistry
-- [[harner-american-indian-peyote-rituals]] for the anthropological perspective
 - [[ethnomycology]] for conservation and legal status
 
 ## References

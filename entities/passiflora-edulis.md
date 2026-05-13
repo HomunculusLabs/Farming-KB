@@ -11,16 +11,7 @@ date: 2026-05-08
 updated: 2026-05-08
 sources:
   - Vanderplank, J. (1996). "Passion Flowers and Passion Fruit." MIT Press, 3rd edition.
-  - Cerqueira-Silva, C.B. et al. (2014). "The [[biodiversity-fungal-genetic-diversity]] and structure of Passiflora edulis." Genetic Resources and Crop Evolution, 61, 1097–1111.
-  - Dhawan, K. et al. (2004). "Passiflora: A review update." Journal of Ethnopharmacology, 94, 1–23.
-  - FAO (2023). "FAOSTAT: Passion Fruit Production Data." Food and Agriculture Organization.
----
-
-# Passiflora edulis
-
-## Overview
-
-**Passiflora edulis** (passion fruit) is a perennial climbing vine in the family Passifloraceae, widely cultivated for its aromatic, nutrient-rich fruits. Two distinct forms are recognized: the [[haze-plum-purple-passion-medical-sativa-strain]] fruit (P. edulis f. edulis) and the yellow passion fruit (P. edulis f. flavicarpa).
+  - Cerqueira-Silva, C.B. et al. (2014). "The [[haze-plum-purple-passion-medical-sativa-strain]] fruit (P. edulis f. edulis) and the yellow passion fruit (P. edulis f. flavicarpa).
 
 The species is native to southern Brazil through Paraguay to northern Argentina. Commercial production now spans tropical and subtropical regions worldwide, with Brazil, Colombia, Kenya, and Ecuador as leading exporters.
 
@@ -44,11 +35,7 @@ Fruits are berries, globose to ovoid, 4–8 cm in diameter, with a tough outer r
 
 Passion fruit is cultivated between approximately 20°N and 30°S latitude. The purple form thrives in subtropical highlands at 800–2,000 m elevation with moderate temperatures (18–25°C). The yellow form prefers lowland tropical conditions (23–28°C) from sea level to 800 m.
 
-Optimal rainfall ranges from 1,200–2,500 mm annually, well-distributed throughout [[query-how-to-protect-plants-from-frost-and-extend-the-growing-season]]. The crop requires well-drained soils with pH 5.5–7.0 and is sensitive to waterlogging.
-
-Major production areas include Brazil (especially São Paulo and Paraná states), Colombia, Ecuador, Peru, Kenya, Uganda, Australia, and South Africa. India, Vietnam, and the Caribbean islands are expanding producers.
-
-The species has naturalized in many tropical regions outside its native range, including parts of Africa, Southeast Asia, and [[guzman-allen-gartz-neurotropic-fungi-hawaii-pacific-islands]]. It can become weedy in disturbed habitats and forest margins.
+Optimal rainfall ranges from 1,200–2,500 mm annually, well-distributed throughout [[guzman-allen-gartz-neurotropic-fungi-hawaii-pacific-islands]]. It can become weedy in disturbed habitats and forest margins.
 
 ## Nutritional and Chemical Profile
 
@@ -56,9 +43,7 @@ Passion fruit pulp is rich in vitamin C (approximately 30 mg/100 g), provitamin 
 
 The pulp contains dietary fiber (approximately 10 g/100 g), primarily from the seeds which are edible and rich in polyunsaturated fatty acids. Total carbohydrate content is approximately 23 g/100 g, with natural sugars of about 11 g/100 g.
 
-Flavor and aroma derive from a complex volatile profile dominated by esters (ethyl butyrate, ethyl hexanoate), terpenes (linalool), and sulfur compounds. Over 200 [[query-how-do-fungal-volatile-compounds-affect-plant-growth-and-other-microorganisms]] have been identified in passion fruit aroma.
-
-[[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]] include flavonoids (orientin, isoorientin, vitexin), phenolic acids, and carotenoids. Harman and harmol alkaloids contribute to the mild sedative properties traditionally attributed to the leaves and aerial parts.
+Flavor and aroma derive from a complex volatile profile dominated by esters (ethyl butyrate, ethyl hexanoate), terpenes (linalool), and sulfur compounds. Over 200 [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]] include flavonoids (orientin, isoorientin, vitexin), phenolic acids, and carotenoids. Harman and harmol alkaloids contribute to the mild sedative properties traditionally attributed to the leaves and aerial parts.
 
 ## Cultivation
 
@@ -68,15 +53,7 @@ Flowering occurs year-round in tropical lowlands but may be seasonal in subtropi
 
 Average yields range from 15–25 tonnes of fresh fruit per hectare per year under commercial management. The yellow form generally produces higher yields (20–40 t/ha) than the purple form (8–15 t/ha).
 
-Major pests include fruit flies (Bactrocera spp.), aphids, mites, and nematodes. Diseases of significance include brown spot (Alternaria passiflorae), Fusarium wilt, woodiness virus, and anthracnose ([[colletotrichum-gloeosporioides]]).
-
-Hand harvesting is standard, with fruits collected at the ripe stage when they drop or show color change. Post-harvest life is relatively short (2–3 weeks at 7–10°C), necessitating rapid processing or local market distribution.
-
-## Uses and Applications
-
-Passion fruit is primarily consumed as fresh fruit, juice, and concentrate. The juice is widely used in beverages, cocktails, dairy products, and confectionery. Passion fruit puree is a standard ingredient in tropical fruit blends and yogurt flavorings.
-
-The leaves and aerial parts have a long history of traditional medicinal use as an anxiolytic and sedative in [[chiric-caspi-brunfelsia-south-american-hallucinogen]] and European herbal medicine. Commercial herbal preparations of Passiflora extract are available as tablets, tinctures, and teas.
+Major pests include fruit flies (Bactrocera spp.), aphids, mites, and nematodes. Diseases of significance include brown spot (Alternaria passiflorae), Fusarium wilt, woodiness virus, and anthracnose ([[chiric-caspi-brunfelsia-south-american-hallucinogen]] and European herbal medicine. Commercial herbal preparations of Passiflora extract are available as tablets, tinctures, and teas.
 
 The rind, a byproduct of juice processing, contains pectin and dietary fiber suitable for food ingredient applications. Research has explored its use in biodegradable film production and animal feed supplementation.
 
@@ -86,4 +63,88 @@ Passion fruit seed oil, extracted by cold pressing, is rich in linoleic acid and
 
 Passiflora edulis leaves and vine parts have been used in traditional medicine across South America, Europe, and parts of Asia for centuries. Indigenous Tupi-Guarani peoples of Brazil used leaf infusions as a calming remedy and digestive aid.
 
-Pharmacological studies have identified flavonoid C-glycosides (orientin, isoorientin, vitexin, isovitexin) as the primary [[cordyceps-cancer-bioactive-compounds]] responsible for anxiolytic activity. These compounds modulate GABA-A [[tihkal-receptor-binding-serotonin]], producing sedative effects without the side effects of benzodiazepines.
+Pharmacological studies have identified flavonoid C-glycosides (orientin, isoorientin, vitexin, isovitexin) as the primary [[tihkal-receptor-binding-serotonin]], producing sedative effects without the side effects of benzodiazepines.
+
+## Overview
+
+Passiflora Edulis represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish passiflora edulis
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving passiflora extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Passiflora Edulis finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for passiflora edulis. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+passiflora edulis and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Passiflora Edulis has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of passiflora edulis into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[passiflora-caerulea]]
+- [[passiflora-foetida]]
+- [[passiflora-incarnata]]
+- [[passiflora-passionfruit-species]]

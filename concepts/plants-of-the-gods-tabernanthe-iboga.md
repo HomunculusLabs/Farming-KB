@@ -14,18 +14,8 @@ sources:
 type: concept
 ---
 
-# [[indole]]
-alkaloid that produces profound hallucinogenic experiences
-accompanied by strong central nervous system stimulation. Iboga
-holds a position of paramount cultural and spiritual importance
-among the peoples of Gabon, the Congo, and Cameroon, where it
-serves as the central sacrament of the Bwiti religion. The plant
-has been described as a "plant of the gods" in every sense, and
-its use continues to grow psilocybe-mushroom-species-guides and [[plants-of-the-gods-psilocybe-species-teonanacatl]]
-- [[plants-of-the-gods-banisteriopsis-ayahuasca]]
-## Practical Applications
-
-[[plants-of-the-gods-tabernanthe-iboga-chemistry]] - The African Hallucinogen has a range of practical applications that make it relevant to
+# [[plants-of-the-gods-psilocybe-species-teonanacatl]]
+- [[plants-of-the-gods-tabernanthe-iboga-chemistry]] - The African Hallucinogen has a range of practical applications that make it relevant to
 both researchers and practitioners. Understanding these applications
 requires familiarity with the underlying principles and their
 manifestation in real-world contexts. The breadth of applications

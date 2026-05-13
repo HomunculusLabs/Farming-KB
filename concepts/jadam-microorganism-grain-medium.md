@@ -11,15 +11,7 @@ sources:
 
 Grains serve as an excellent medium for culturing microorganisms in JADAM.
 The JMS method uses steamed rice or other grains placed in the field to capture
-local [[beneficial-indigenous-microorganisms-bim]]. Grains provide ideal nutrition for microbial
-growth due to their starch and sugar content.
-
-## Why Grains Work
-
-Grains are rich in carbohydrates (starch) which microorganisms readily consume.
-When steamed, the starch gelatinizes, making it even more accessible. The grain
-becomes a selective medium that favors beneficial microorganisms -- particularly
-lactic [[lactic-acid-bacteria-knf]] and yeasts -- over pathogens.
+local [[lactic-acid-bacteria-knf]] and yeasts -- over pathogens.
 
 ## Grains Suitable for JMS Culture
 
@@ -57,13 +49,7 @@ lactic [[lactic-acid-bacteria-knf]] and yeasts -- over pathogens.
 - Do not add salt or seasonings
 - Rice should be slightly undercooked (al dente) -- too soft and it
   becomes anaerobic, too hard and microbes cannot access starch
-- Let cool to [[jadam-ambient-temperature-principle]] before placing in field
-
-## Field Inoculation: Capturing Local Microbes
-
-### Placement
-1. Place steamed rice in a bamboo basket or on a wooden tray
-2. Cover with [[ultra-low-cost-jadam-microorganism-solution-and-soil-foundation]]
+- Let cool to [[ultra-low-cost-jadam-microorganism-solution-and-soil-foundation]]
 
 ## Grain-to-JMS Ratios Summary
 
@@ -84,9 +70,7 @@ lactic [[lactic-acid-bacteria-knf]] and yeasts -- over pathogens.
 
 ## Related
 
-- [[jadam-customized-microorganism-medium]] -- tailoring for specific crops
 - [[beneficial-indigenous-microorganisms-bim]] -- broader IMO context
-- [[jadam-leaf-mold-soil-method]]
 - [[jadam-leaf-mold-as-ideal-soil]]
 
 ## See Also
@@ -122,8 +106,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[jadam-customized-microorganism-medium]]
 - [[jadam-microorganism-diversity-over-disinfection]]
-- [[jadam-microorganism-solution-culturing]]
 - [[ultra-low-cost-jadam-microorganism-solution-and-soil-foundation]]
 - [[jadam-microorganism-solution-jms]]

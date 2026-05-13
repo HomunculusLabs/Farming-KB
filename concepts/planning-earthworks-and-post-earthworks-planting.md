@@ -20,7 +20,7 @@ Using contour maps and site plans, determine the placement of roads, dams, house
 
 ### 2. Soil Testing
 
-Test the soil by auger holes, soil samples, and soil pits to determine its suitability for the planned earthworks. For example, a good clay soil is essential for dam construction. Seek professional advice or conduct additional research before finalizing placement decisions. Soil testing should assess:
+Test the soil by auger holes, soil samples, and soil pits to determine its suitability for the planned earthworks. For example, a good clay soil is essential for dam construction. Seek professional advice or conduct additional research before finalizing placement decisions. [[soil-testing]] should assess:
 
 - **Soil texture** — proportions of sand, silt, and clay
 - **Permeability** — how quickly water moves through the soil
@@ -128,8 +128,6 @@ Small wire netting fences with stone-weighted hay on the uphill side trap silt a
 On very steep slopes, the only recourse may be to plant pampas, bamboo, lemongrass, and root-mat pioneers, with upslope plantings of chestnut, Acacia, carob, olive, or other large species that cascade seed downslope over time. Where chisel ploughs can be used, planned chiselling and planting creates permanent and stable changes on hillsides.
 
 ## See Also
-- [[fukuoka-textdoc-weed-control-with-weeds-rice-barley-clover-discovery]]
 - [[mollison-designers-vetiver-grass-for-erosion-control]]
-- [[comparison-vetiver-grass-vs-bamboo-for-erosion-control]]
 - [[query-how-does-cover-cropping-benefit-soil-and-when-should-i-plant-them]]
 - [[permaculture-plants-legume-trees-acacia-carob-locust]]

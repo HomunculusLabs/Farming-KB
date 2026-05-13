@@ -16,14 +16,13 @@ sources:
 
 # Serpula himantioides
 
-**Serpula himantioides** (synonym *Serpula himantioides*, also spelled *S. himantioides*) is a basidiomycete fungus in the family Serpulaceae, closely related to the notorious [[fungal-serpula-lacrymans-dry-rot-buildings]] fungus *Serpula lacrymans*. It causes a type of [[comparison-brown-rot-vs-white-rot-bioremediation]] in timber, typically classified as a **wet rot** rather than true dry rot, and is encountered in building structures where persistent moisture problems exist. Although less destructive than *S. lacrymans*, it is nevertheless a significant cause of timber decay in buildings and shares many morphological and ecological characteristics with its more famous relative.
+**Serpula himantioides** (synonym *Serpula himantioides*, also spelled *S. himantioides*) is a basidiomycete fungus in the family Serpulaceae, closely related to the notorious [[comparison-brown-rot-vs-white-rot-bioremediation]] in timber, typically classified as a **wet rot** rather than true dry rot, and is encountered in building structures where persistent moisture problems exist. Although less destructive than *S. lacrymans*, it is nevertheless a significant cause of timber decay in buildings and shares many morphological and ecological characteristics with its more famous relative.
 
 ## Taxonomy and Classification
 
 - **Kingdom:** Fungi
 - **Division:** Basidiomycota
-- **Class:** [[serpula-lacrymans]]
-- [[gloeophyllum-trabeum]]
+- **Class:** [[gloeophyllum-trabeum]]
 - brown-rot-fungi
 - [[wood-decay-fungi]]
 ## Practical Applications

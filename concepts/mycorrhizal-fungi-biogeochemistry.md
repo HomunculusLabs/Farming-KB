@@ -18,16 +18,11 @@ synopsis: >-
   mobilization (especially phosphorus), and metal detoxification. They
   exude organic acids to dissolve minerals, filter toxic metals, and
   redistribute carbon and nutrients through mycelial networks,
-  fundamentally shaping soil chemistry and [[leake-mycorrhizal-carbon-sequestration-plant-community-composition]].
----
-
-# [[mycorrhizal-fungi]] Biogeochemistry
+  fundamentally shaping soil chemistry and [[mycorrhizal-fungi]] Biogeochemistry
 
 ## Overview
 
-Nearly all land plants depend on symbiotic mycorrhizal [[mollison-designers-mycorrhizal-fungi-and-soil-microbiology]] fungi. These
-associations are among the most important biological drivers of
-[[gadd-fungal-metal-transformations-biogeochemical-cycling]] in terrestrial ecosystems, influencing carbon,
+Nearly all land plants depend on symbiotic mycorrhizal [[gadd-fungal-metal-transformations-biogeochemical-cycling]] in terrestrial ecosystems, influencing carbon,
 nitrogen, phosphorus, and metal dynamics. Mycorrhizal fungi not only
 cycle major elements but can determine plant community composition.
 
@@ -55,36 +50,92 @@ The fungus is located outside the root cells of the host plant, forming:
 ### Organic Acid Exudation
 Mycorrhizal fungi excrete low-molecular-mass carboxylic acids during
 growth, including malic, succinic, gluconic, oxalic, citric, and formic
-acid. This process, termed "[[staycare-fungal-heterotrophic-leaching-biosorption]]," dissolves soil
-minerals through protonation and metal chelation.
-
-In podzol E horizons under European coniferous forests, weathering of
-hornblendes, feldspars, and granitic bedrock has been attributed to
-organic acid excretion by ectomycorrhizal hyphae. Hyphal tips produce
-micro- to millimolar concentrations of these acids at micropore
-interfaces (3–10 μm) in weatherable soil minerals.
-
-### Proton and Ligand Promoted Mobilization
-Mycorrhizal fungi engage in proton-promoted and ligand-promoted metal
-mobilization from mineral sources. This leads to:
-- Enhanced weathering of soil minerals
-- Metal cation release (Ca, K, Mg, Fe, Zn)
-- Changes in the physicochemical characteristics of the root
-  environment
-
-### Mineral-Specific Responses
-Ectomycorrhizal mycelia respond to different soil minerals by regulating
-growth and activity. Carbon allocation within mycelium is significantly
-greater when colonizing potassium feldspar patches compared to quartz
-patches, indicating active resource targeting.
-
-## Phosphorus Mobilization
-
-Phosphorus mobilization is one of the most important functions of
-mycorrhizal fungi. Key findings:
-
-- **Zinc phosphate dissolution**: The ectomycorrhizal association of
-  *[[paxillus-involutus]]* with Scots pine (*Pinus sylvestris*) dissolves zinc
+acid. This process, termed "[[paxillus-involutus]]* with Scots pine (*Pinus sylvestris*) dissolves zinc
   phosphate, acquiring phosphorus while accumulating zinc
 - **Phosphorus status dependence**: Under [[query-how-to-fix-phosphorus-deficiency-in-cannabis]], zinc-
   tolerant ectomycorrhiza mobilize the highest zinc amounts; under
+
+## Overview
+
+Mycorrhizal Fungi Biogeochemistry represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish mycorrhizal fungi biogeochemistry
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving mycorrhizal extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Mycorrhizal Fungi Biogeochemistry finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for mycorrhizal fungi biogeochemistry. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+mycorrhizal fungi biogeochemistry and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Mycorrhizal Fungi Biogeochemistry has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of mycorrhizal fungi biogeochemistry into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[dighton-leaf-litter-patch-effects-mycorrhizal-community]]
+- [[endobacteria-arbuscular-mycorrhizal-fungi]]
+- [[fukuoka-sowing-pine-forest-collapse-and-mycorrhizal-cascade]]
+- [[mycorrhizal-fungi-biome-surveys]]
+- [[stamets-mycorrhizal-mushrooms-forest-ecology-cultivation-challenges]]

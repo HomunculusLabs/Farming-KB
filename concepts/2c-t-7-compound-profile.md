@@ -10,26 +10,11 @@ sources: ["raw/papers/shulgin-a-pihkal.md"]
 
 ## Overview
 
-2C-T-7 (PIHKAL #43) is a psychedelic phenethylamine in the 2C-T series, characterized by a sulfur-containing thioether at the 4-position. Shulgin ranked 2C-T-7 "right up there near the top" of all phenethylamines for acceptability and intrinsic richness, alongside [[2c-t-2-compound-profile]]. It gained wider notoriety in the early 2000s when several deaths were associated with its use, leading to emergency scheduling in multiple countries.
-
-2C-T-7 is part of the broader [[shulgin-dosage-guidelines]].
+2C-T-7 (PIHKAL #43) is a psychedelic phenethylamine in the 2C-T series, characterized by a sulfur-containing thioether at the 4-position. Shulgin ranked 2C-T-7 "right up there near the top" of all phenethylamines for acceptability and intrinsic richness, alongside [[shulgin-dosage-guidelines]].
 
 ## Effects
 
-- Rich, integrative [[leary-psychedelic-experience-bardo-mapping]] described as combining qualities of MDMA-like warmth with mescaline-like visuals
-- "Wonderful God-space — similar to MDMA but more grounded"
-- Enhanced vocal freedom and musical expression
-- Deep emotional processing and self-reflection
-- Visuals described as having "velvety appearance and increased depth perception"
-- Periodic nausea and muscle tension (neck, shoulders, legs)
-- At higher doses: adaptable visuals that can recreate the character of other psychedelics (LSD flowing visuals, peyote earth-world)
-- Eyes-closed: Escher-like geometric patterns with chiaroscuro
-
-## Experience Reports (from PIHKAL)
-
-### At 20 mg
-
-> A wonderful day of integration and work... Visuals were great, much like [[mdma-compound-profile]] but more grounded — then always back to sadness. I felt that it really showed me where I was unfinished, but with self-loving and tolerance. Tremendous processing and letting go. Lots of singing. Vocal freedom and facility were very high.
+- Rich, integrative [[mdma-compound-profile]] but more grounded — then always back to sadness. I felt that it really showed me where I was unfinished, but with self-loving and tolerance. Tremendous processing and letting go. Lots of singing. Vocal freedom and facility were very high.
 
 This report highlights 2C-T-7's capacity for deep emotional processing combined with a productive, integrative headspace — a relatively uncommon combination among psychedelics.
 
@@ -37,34 +22,8 @@ This report highlights 2C-T-7's capacity for deep emotional processing combined 
 
 > This 2C-T-7 is good and friendly and wonderful as I remember it. I think it is going to take the place of 2C-T-2 in my heart.
 
-A striking endorsement from Shulgin, who had previously favored [[lsd-compound-profile]] flowing visuals, or into the warm earth world of Peyote, or I can stop them altogether. With closed eyes, there are Escher-like graphics with a lot of chiaroscuro, geometric patterns with oppositional play of sculptured light and dark values.
-
-The "adaptable" quality of the visuals at this dose level is unusual and suggests a uniquely flexible pharmacological profile. The ability to shift between the visual character of different classical psychedelics while retaining volitional control is a property not commonly reported with other compounds. For more on [[mdma-qualitative-effects-phenomenology]] patterns see [[2c-family-compounds-overview]]. Specifically:
-
-- **[[2c-t-2-compound-profile]]** — the compound 2C-T-7 was said to replace "in my heart"
-- **[[mescaline-compound-profile]]** — the original prototype phenethylamine psychedelic
-
-The mention of "acceptability" alongside "intrinsic richness" is significant — it suggests that 2C-T-7's effects are not only profound but also well-tolerated, with a manageable body load and a positive emotional quality.
-
-## Synthesis (from PIHKAL)
-
-Synthesized from 2,5-dimethoxythiophenol, which is alkylated with n-propylbromide to yield 2,5-dimethoxyphenyl n-propyl sulfide. This intermediate undergoes Vilsmeier-Haack formylation to the benzaldehyde, which is condensed with nitromethane to the nitrostyrene, then reduced with LAH. The product is a "spectacular white crystalline" HCl salt. For general background on phenethylamine synthesis see [[phenethylamine-receptor-pharmacology]] and [[2c-t-2-compound-profile]]) produce somewhat different effect profiles, and longer chains tend to reduce potency.
-
-## Analogues and Derivatives
-
-### 2CT7-2ETO (Tweetio Homologue)
-
-A homologue was synthesized in which the 2-methoxy group was replaced with a 2-ethoxy group, yielding 2-ethoxy-5-methoxy-4-(n)-propylthiophenethylamine (2CT7-2ETO). This compound was tested at 20 mg:
-
-- Effects were felt quickly, with eyes-closed visuals described as modest but real
-- The experience was notably short-lived, with return to baseline at approximately 5 hours
-- An uncomfortable headache persisted into the following day
-- Overall, the 2-ethoxy substitution reduced both duration and subjective quality compared to the parent compound
-
-### N-Methyl-N-Isopropyl Analogue
-
-An N-methyl-N-isopropyl analogue was also explored, though details from the published literature are limited. This represents a double substitution on the amine nitrogen, which typically shifts compounds toward stimulant character and away from classical psychedelic effects in the [[2c-t-2-compound-profile]], [[2c-p-compound-profile]]
-- [[doc-compound-profile]]
+A striking endorsement from Shulgin, who had previously favored [[mdma-qualitative-effects-phenomenology]] patterns see [[2c-t-2-compound-profile]]** — the compound 2C-T-7 was said to replace "in my heart"
+- **[[phenethylamine-receptor-pharmacology]] and [[2c-t-2-compound-profile]], [[doc-compound-profile]]
 ## Practical Considerations
 
 Successful implementation of 2C-T-7 — Compound Profile requires attention to
@@ -108,8 +67,83 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[mdma]]
 - [[doc]]
-- [[dom]]
 - [[det]]
 - [[mescaline]]
+
+## Overview
+
+2C T 7 Compound Profile represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish 2c t 7 compound profile
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving 2c extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+2C T 7 Compound Profile finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for 2c t 7 compound profile. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+2c t 7 compound profile and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+2C T 7 Compound Profile has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of 2c t 7 compound profile into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.

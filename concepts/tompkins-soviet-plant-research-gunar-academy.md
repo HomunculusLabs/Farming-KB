@@ -12,11 +12,7 @@ type: concept
 
 ## Overview
 
-In the Soviet Union, [[plant-perception]] research received official
-scientific attention through the work of Professor Ivan Isidorovich
-Gunar and his team at the Laboratory for Artificial Climate at the
-renowned Timiryazev Academy of Agricultural Sciences in Moscow. Their
-work, which ran parallel to and independent of [[tompkins-cleve-backster-primary-perception]]'s
+In the Soviet Union, [[tompkins-cleve-backster-primary-perception]]'s
 experiments in America, was brought to international attention when
 the official Communist Party newspaper *Pravda* published a major
 article on plant sentience in October 1970.
@@ -91,3 +87,11 @@ and burning, and even the very proximity of a vine to a structure to
 
 ## See Also
 - [[tompkins-pierre-paul-sauvin-plant-esp-experiments]]
+
+## See Also
+
+- [[tompkins-plant-electrical-signals]]
+- [[tompkins-radionic-agriculture-pesticides]]
+- [[tompkins-pierre-paul-sauvin-plant-esp-experiments]]
+- [[tompkins-photosynthesis-biophotons]]
+- [[tompkins-electroculture-plant-growth]]

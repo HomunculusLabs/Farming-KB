@@ -24,58 +24,7 @@ Ranunculus lingua, the greater spearwort, is a robust perennial aquatic plant in
 
 The species inhabits the margins of lakes, ponds, slow-moving rivers, ditches, and wet marshland. Its tall, erect stems bearing bright yellow flowers make it one of the most conspicuous wetland ranunculi.
 
-Unlike the more common lesser spearwort ([[ranunculus-flammula]]), R. lingua is noticeably larger in all parts and has a more restricted distribution, favoring calcareous wetlands and fen systems.
-
-The species has declined across parts of western Europe due to wetland drainage and eutrophication. It is classified as Near Threatened in several European countries.
-
-Ranunculus lingua is occasionally cultivated as a marginal aquatic plant for wildlife ponds and naturalistic water gardens.
-
-Its bright yellow flowers and upright habit make it an attractive alternative to more invasive marginal species. It provides valuable cover for aquatic wildlife while remaining manageable in garden settings.
-
-## Taxonomy
-
-- **Kingdom:** Plantae
-- **Clade:** Tracheophytes
-- **Clade:** Angiosperms
-- **Clade:** Eudicots
-- **Order:** Ranunculales
-- **Family:** Ranunculaceae
-- **Genus:** Ranunculus
-- **Species:** R. lingua
-
-Ranunculus lingua was described by Linnaeus in 1753. The specific epithet "lingua" means "tongue," referring to the tongue-shaped leaves.
-
-The species belongs to Ranunculus section Ranunculus, subsection Flammula. It is closely related to Ranunculus flammula (lesser spearwort), which occupies similar habitats but is smaller in all dimensions.
-
-Hybridization with R. flammula produces the sterile hybrid R. × levenensis, which is occasionally found where both parents co-occur. The hybrid is intermediate in size and has abortive pollen.
-
-Chromosome number is 2n = 32, consistent with most species in Ranunculus section Ranunculus.
-
-## Morphology
-
-Ranunculus lingua is a glabrous perennial with stout, erect, hollow stems 60–150 cm tall. The stems arise from a creeping rhizome system anchored in mud or shallow water.
-
-Leaves are lanceolate to narrowly ovate, 8–20 cm long and 1.5–4 cm wide, with entire or shallowly toothed margins. Lower leaves are long-petiolate while upper leaves are sessile and clasping.
-
-The leaf venation is prominent, with a strong midrib and conspicuous lateral veins. Leaves are dark green and glossy above, paler beneath.
-
-Flowers are solitary or in loose cymes of 2–5, each 2–3.5 cm in diameter with five glossy yellow petals 10–18 mm long. Sepals are spreading, 6–10 mm long, and greenish-yellow.
-
-Flowering occurs from June through August. The flowers are insect-pollinated, primarily by flies and small beetles.
-
-Individual plants may produce 10–30 flowers over a season, with seed set varying according to pollinator availability and water levels during the flowering period.
-
-The fruit is an achene cluster forming a globose head 6–10 mm in diameter. Individual achenes are 2.5–3.5 mm long, flattened, with a short curved beak 0.3–0.5 mm long.
-
-## Distribution and Habitat
-
-Ranunculus lingua has a wide but discontinuous distribution across Europe and temperate Asia. It occurs from Britain and Ireland eastward through Scandinavia, central Europe, and Russia to Siberia and northern China.
-
-The species is most abundant in northern and central Europe, particularly in the Baltic states, Finland, Sweden, and Poland. Southern populations are scattered and localized, restricted to montane wetlands.
-
-It grows in shallow standing water or saturated mud at the margins of lakes, ponds, slow rivers, drainage ditches, and fen systems. Water depth tolerance extends to 30 cm.
-
-The species favors calcareous to neutral substrates and mesotrophic to eutrophic water conditions. It is characteristic of tall-herb fen communities, often growing alongside [[phragmites-australis]], Carex elata, and [[typha-latifolia]].
+Unlike the more common lesser spearwort ([[phragmites-australis]], Carex elata, and [[typha-latifolia]].
 
 Elevational range extends from sea level to approximately 1,500 m in southern parts of its range. Mountain populations are typically found in calcareous spring-fed fens.
 
@@ -88,3 +37,88 @@ Ranunculus lingua is a competitive species in tall-herb fen vegetation, where it
 The flowers produce abundant pollen and nectar, attracting a range of insect pollinators including hoverflies, muscid flies, and small beetles. Self-compatibility ensures seed set even when pollinator visits are infrequent.
 
 Achenes are dispersed by water (hydrochory) and can remain viable after floating for several weeks. Water birds may also contribute to long-distance dispersal via external transport.
+
+## Overview
+
+Ranunculus Lingua represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish ranunculus lingua
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving ranunculus extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Ranunculus Lingua finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for ranunculus lingua. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+ranunculus lingua and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Ranunculus Lingua has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of ranunculus lingua into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[ranunculus-arvensis]]
+- [[ranunculus-bulbosus]]
+- [[ranunculus-glacialis]]
+- [[ranunculus-nivalis]]
+- [[ranunculus-repens]]

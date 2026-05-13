@@ -16,9 +16,7 @@ type: concept
 mushroom cultivation practices. However, when problems do arise, prompt
 identification and appropriate response are essential to minimize losses.
 This page covers the most common problems, their causes, and recommended
-solutions based on the FAO [[mushroom-cultivation-disabilities-training-manual-overview]] for mushroom cultivation.
-
-## [[appropriate-technology]] solutions for water purification.
+solutions based on the FAO [[appropriate-technology]] solutions for water purification.
 
 ### Bad Substrate
 Check substrate quality. Spread and remix, then repackage. Ensure all raw
@@ -61,8 +59,7 @@ Mix substrate thoroughly before bagging to ensure uniform distribution.
 Check all processes causing contamination. Separate contaminated bags
 immediately. Remix substrate separately, remake bags, and pasteurize
 for a longer time. For serious cases, stop using the area for 1 to 2
-weeks to break the contaminant [[bloomfield-fungal-life-cycle-spiral-versus-circle]]. Spray area with chemicals if
-needed. Use black-light traps or [[cervantes-sticky-traps-pest-monitoring]] to decrease insects.
+weeks to break the contaminant [[cervantes-sticky-traps-pest-monitoring]] to decrease insects.
 
 ### Mite Contamination
 Immediately separate contaminated bags and repasteurize. Continue normal

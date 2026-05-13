@@ -9,9 +9,9 @@ tags: [cannabis, horticulture, cervantes, scrog, screen-of-green, training, yiel
 
 ## Overview
 
-Screen of Green (SCROG) is an advanced cannabis training technique that
+[[screen-of-green]] (SCROG) is an advanced [[cannabis-training-techniques]] technique that
 uses a horizontal screen or net to create an even, horizontal canopy
-of bud sites. Unlike Sea of Green (SOG), which relies on many small plants
+of bud sites. Unlike [[sea-of-green]] (SOG), which relies on many small plants
 grown close together, SCROG typically uses fewer plants trained through a
 screen to maximise light penetration and yield per square foot. The technique
 is especially effective for indoor growers with limited plant counts and
@@ -22,7 +22,7 @@ medium to high-powered lighting systems.
 The fundamental principle of SCROG is to create a perfectly even canopy
 height where every bud site receives approximately equal light intensity.
 A screen of wire mesh, chicken wire, or nylon netting is suspended above
-the plants at a fixed height (typically 20-40 cm above the growing medium).
+the plants at a fixed height (typically 20-40 cm above the [[cervantes-green-algae-growing-medium]]).
 As plants grow through the screen, branches are woven back under the mesh
 to spread horizontally, filling the screen opening by opening until the
 entire screen surface is covered with growth tips.
@@ -48,7 +48,7 @@ the screen and the light source without burning the canopy.
 
 ## Vegetative Training Phase
 
-SCROG training begins during the vegetative phase when plants have
+SCROG training begins during the [[cervantes-vegetative-phase]] when plants have
 developed 4-6 nodes. The main growing tip is gently bent horizontally and
 secured under the screen. As lateral branches develop, they are similarly
 woven through the mesh openings and directed to fill empty areas of the
@@ -70,14 +70,14 @@ screen back under the mesh to maintain an even canopy.
 
 After the third week of flowering, training should cease and the plant
 should be allowed to develop buds naturally. Removing the screen at this
-point is optional; some growers leave it in place for structural support,
+point is optional; some growers leave it in place for [[comparison-silicon-vs-calcium-in-plant-defense-and-structural-support]],
 especially with heavy-yielding strains that may require staking.
 
 ## Strain Selection for SCROG
 
 SCROG works best with strains that exhibit vigorous lateral branching and
 a moderate flowering stretch. Sativa-dominant strains often perform
-exceptionally well due to their natural branching tendency and stretching
+exceptionally well due to their [[fukuoka-phyllotaxy-natural-branching-law]] tendency and stretching
 behaviour. Indica-dominant strains with tight internodes can also produce
 excellent results but may require more aggressive training to fill the
 screen. Pure indicas with minimal lateral branching are the least suitable
@@ -87,7 +87,7 @@ for SCROG.
 
 - Maximises yield per plant, making it ideal for growers with legal plant
 count limits.
-- Creates an exceptionally even canopy for uniform light distribution.
+- Creates an exceptionally even canopy for uniform [[cervantes-reflective-hoods-light-distribution]].
 - Increases the number of main cola sites, replacing one large cola with
 dozens of medium-sized colas.
 - Excellent light utilisation with minimal wasted light penetrating below
@@ -130,8 +130,6 @@ between the screen and light source help maintain airflow.
 
 ## Cross-References
 
-- Related: [[cervantes-sea-of-green-technique]]
 - Related: [[cervantes-pruning-training]]
-- Related: [[cervantes-supercropping-plant-stress-techniques]]
 - Related: [[cervantes-lighting-systems]]
 - Related: [[cervantes-grow-room-design-advanced]]

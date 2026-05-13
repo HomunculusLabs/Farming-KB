@@ -12,17 +12,11 @@ type: query
 
 ## Short Answer
 
-Maximizing terpene and resin production in cannabis requires a combination of genetic selection, environmental stress during late flowering, proper [[cannabis-light-spectrum-and-color-bands]], and careful [[cannabis-harvest-timing-visual-cues]]. UV-B light exposure, temperature stress (specifically cool nights), controlled drought stress, and harvesting when trichomes are mostly milky with some amber all contribute to peak resin and terpene production. The plant produces trichomes as a defense mechanism, so mild stress triggers greater production.
+Maximizing terpene and resin production in cannabis requires a combination of genetic selection, environmental stress during late flowering, proper [[cannabis-harvest-timing-visual-cues]]. UV-B light exposure, temperature stress (specifically cool nights), controlled drought stress, and harvesting when trichomes are mostly milky with some amber all contribute to peak resin and terpene production. The plant produces trichomes as a defense mechanism, so mild stress triggers greater production.
 
 ## The Biology of Trichomes and Resin
 
 Cannabis resin is produced in specialized glandular structures called trichomes that cover the surface of flowers, leaves, and to a lesser extent stems.
-
-The [[cannabis-resin-production-and-quality-traits-clarke]] research shows that resin production is fundamentally a defensive response. Plants evolved trichomes to protect flowers from UV radiation, herbivores, and desiccation. Understanding this evolutionary purpose is key to maximizing production.
-
-## Genetic Selection
-
-Genetics are the foundation of resin and terpene production. No amount of environmental manipulation can overcome genetics that are not predisposed to high terpene and resin output.
 
 The [[cannabis-potency-maximization]] literature recommends maintaining a wider day-to-night temperature differential during the final two to three weeks of flowering. Daytime temperatures of 75 to 80 degrees Fahrenheit combined with nighttime temperatures of 60 to 65 degrees Fahrenheit create a 15 to 20 degree swing that stimulates terpene production.
 
@@ -34,14 +28,8 @@ Controlled drought stress in the final days before harvest can boost terpene con
 
 Withholding water for 24 to 48 hours before harvest slightly dehydrates the plant, which increases the ratio of terpenes to water weight in the trichomes. This should be done carefully to avoid stressing the plant to the point of terpene degradation rather than concentration.
 
-The [[cannabis-glandular-trichome-types-resin-production-clarke]]
-- UV-B light exposure triggers defensive resin production in [[cannabis-terpene-and-aroma-chemistry-clarke]]
-- Controlled drought stress before harvest concentrates terpenes per [[clarke-marijuana-botany-cannabinoid-biosynthesis-pathway]] terpene levels
-
-## Related Questions
-
-- [[query-how-to-choose-right-grow-light-cannabis]]
-- [[query-how-do-i-maximize-terpene-and-resin-production-in-cannabis]]
+The [[cannabis-terpene-and-aroma-chemistry-clarke]]
+- Controlled drought stress before harvest concentrates terpenes per [[query-how-to-choose-right-grow-light-cannabis]]
 - [[query-how-to-manage-cannabis-odor-and-stay-discreet]]
 ## Practical Considerations
 

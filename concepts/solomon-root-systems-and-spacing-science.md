@@ -26,40 +26,10 @@ When plants are crowded, roots compete with neighboring plants and are restricte
 - Need frequent irrigation (the limited soil volume dries out quickly)
 - Need super-fertile soil (nutrients are depleted faster per unit volume)
 - Produce for a shorter period (the plant exhausts available resources)
-- Are more vulnerable to [[query-how-to-manage-pests-and-diseases-in-mushroom-cultivation]] (stress from competition)
-
-## Root System Profiles
-
-### Beet (Beta vulgaris)
-A beet root system at 110 days after sowing extends over 4 feet (120 cm) across and 7 feet (215 cm) deep. This drought-tolerant crop has a huge reservoir for moisture storage in its deeply adventitious root system, making it good at handling long-lasting dry spells. Given proper nutrition and [[solomon-wide-spacing-versus-intensive-gardening-debate]] (1 foot apart in rows 4 feet apart), beets can continue enlarging without becoming woody even after five entirely rainless months.
+- Are more vulnerable to [[solomon-wide-spacing-versus-intensive-gardening-debate]] (1 foot apart in rows 4 feet apart), beets can continue enlarging without becoming woody even after five entirely rainless months.
 
 ### Sweet Corn (Zea mays)
-At 8 weeks old, the corn root system extends far beyond the above-ground plant. Corn has a natural tendency to tiller (put up additional ear-bearing stalks) when given enough [[duggar-mushroom-growing-room-design]]. Each plant should exclusively control at least 24 square feet (2.25 square meters) for optimal production. Root depth allows corn to access deep soil moisture in drought conditions.
-
-### Tomato (Solanum lycopersicum)
-Indeterminate tomato roots can extend 3-5 feet in all directions from the base. Given wide spacing (48x48 to 60x72 inches), the root system accesses a massive soil volume, which is why widely spaced tomatoes continue producing over a much longer season than crowded plants.
-
-### Legumes (Beans and Peas)
-Legume root systems are extensive but differ from other vegetables because they host nitrogen-fixing bacteria in root nodules. The root drawings show beans and peas extending 2-3 feet in all directions. Solomon notes that peas leave the soil in "the most beautiful condition" because of their root systems.
-
-### Brassicas
-Brassica root systems vary by species but generally extend 2-3 feet deep with extensive lateral branching. Broccoli and cabbage benefit from 24-36 inch spacing between plants.
-
-### Onions
-Onion roots are surprisingly extensive for a bulb crop, extending 1.5-2 feet deep and wide. They need consistent moisture because their root system is concentrated in the upper soil layers compared to deep-rooted crops like beets.
-
-### Carrots
-Carrots develop a deep taproot that can extend 3-4 feet deep in loose soil. The edible root is just the swollen upper portion. Wide spacing allows the taproot to grow straight and deep without competition.
-
-### Potatoes
-Potato root systems extend 2-3 feet in all directions. The stolons that produce tubers develop along these root networks. Hills provide loose soil for tuber expansion but don't need to be excessively tall.
-
-## Root Comparisons and Spacing Logic
-
-Solomon provides root system drawings comparing different plants, showing that:
-- Large plants (broccoli, cabbage, tomatoes) need proportionally more space because their root systems are larger
-- Small plants (radishes, salad greens, onions) can be closer because their root systems are smaller
-- Root depth correlates with [[dighton-fungal-drought-tolerance-plant-water-relations]] -- deep-rooted crops (beets, parsnips) survive dry spells that would kill shallow-rooted crops (lettuce, radishes)
+At 8 weeks old, the corn root system extends far beyond the above-ground plant. Corn has a natural tendency to tiller (put up additional ear-bearing stalks) when given enough [[dighton-fungal-drought-tolerance-plant-water-relations]] -- deep-rooted crops (beets, parsnips) survive dry spells that would kill shallow-rooted crops (lettuce, radishes)
 - The root system of a healthy plant extends roughly 2-3 times the diameter of the above-ground plant
 
 ## How Modern Breeding Affects Roots
@@ -81,8 +51,91 @@ Solomon notes that modern breeding for compact, uniformly sized vegetables (espe
 
 ## Related
 
-- [[solomon-intensive-vs-extensive-spacing]] for specific spacing recommendations based on root systems
 - [[intensive-gardening-critique-solomon]] for soil preparation for root development
-- [[root-competition-plant-spacing-solomon]]
 - [[solomon-growing-beans-and-peas]]
 - [[solomon-root-cellaring-and-crop-storage]]
+
+## Overview
+
+Solomon Root Systems And Spacing Science represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish solomon root systems and spacing science
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving solomon extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Solomon Root Systems And Spacing Science finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for solomon root systems and spacing science. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+solomon root systems and spacing science and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Solomon Root Systems And Spacing Science has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of solomon root systems and spacing science into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[solomon-disease-identification-and-organic-remedies]]
+- [[solomon-manure-types-and-nutrient-values]]
+- [[solomon-raised-beds-and-bed-preparation]]
+- [[solomon-seed-saving-vegetable-breeding]]
+- [[solomon-soil-preparation-bed-prep]]

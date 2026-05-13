@@ -8,12 +8,8 @@ sources:
   - "raw/papers/leary-t-the-psychedelic-experience.md"
 ---
 
-# [[richard-alpert]] and [[wasson-rediscovery-of-psilocybin]] -- Wasson's discovery
-- [[shroom-prohibition]] -- Prohibition history
-
-## Source
-
-Letcher, Andy. Shroom: A [[shroom-cultural-history-hippie-revolution-and-counterculture]] of the [[australian-magic-mushroom-common-names]].
+# [[wasson-rediscovery-of-psilocybin]] -- Wasson's discovery
+- [[shroom-cultural-history-hippie-revolution-and-counterculture]] of the [[australian-magic-mushroom-common-names]].
 HarperCollins, 2006. Lines 8760-9060.
 ## Background and Context
 

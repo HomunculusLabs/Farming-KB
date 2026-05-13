@@ -4,9 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# [[soil-micronutrients-sulphur-potassium-calcium-trace-elements|Soil]] Trace Elements and Micronutrients
-
-Trace elements and micronutrients, though required in minute quantities, are essential for plant and animal health. Their availability is tightly controlled by [[soil-ph]], biological activity, and parent rock composition. Deficiency or excess of any single trace element can cascade through entire ecosystems, affecting crop yields, animal health, and human nutrition.
+# [[soil-ph]], biological activity, and parent rock composition. Deficiency or excess of any single trace element can cascade through entire ecosystems, affecting crop yields, animal health, and human nutrition.
 
 ## Sulphur (S)
 
@@ -36,19 +34,7 @@ Potassium is used in large quantities by plants and is usually plentiful in arid
 
 ### Removal Factors
 
-Not much potassium is removed by livestock, but intensive cropping of potatoes, beans, flax, and the export of hay may remove soil reserves below plant needs. Potassium is readily absorbed on [[colloids]] and is usually plentiful in clays, especially illites (but not kaolins).
-
-### Sources and Application
-
-Gardeners add **ashes, bone, natural urines, manures, or green crops** to supply heavily cropped ground. Earthworm castings commonly concentrate potash at **11 times soil levels**.
-
-### Excess Potassium Hazard
-
-Excess potash fertiliser can greatly increase soil sodium, blocking calcium uptake. **Beware of this in alkaline or dryland soils.** The antagonistic relationship between potassium and calcium uptake is a critical consideration in fertiliser management.
-
-## Calcium (Ca)
-
-Calcium is needed in all soils and is removed by sodium in drylands. Even where calcium exists in alkaline areas, sodium may suppress its uptake by plants. Sometimes [[gypsum]] is applied at 30 tonnes/ha and excess sodium removed by flushing out as sodium sulphate.
+Not much potassium is removed by livestock, but intensive cropping of potatoes, beans, flax, and the export of hay may remove soil reserves below plant needs. Potassium is readily absorbed on [[gypsum]] is applied at 30 tonnes/ha and excess sodium removed by flushing out as sodium sulphate.
 
 ### Ideal Ion Ratios
 
@@ -60,7 +46,7 @@ Key interactions:
 - Adding potassium can increase sodium
 - Sodium is antagonistic to (displaces) calcium
 - Magnesium ions should always be less than calcium ions
-- Do not add too much dolomite if clay soils already contain adequate magnesium
+- Do not add too much [[dolomite]] if clay soils already contain adequate magnesium
 
 ### Plant Functions
 
@@ -68,29 +54,7 @@ Calcium is an essential part of cell walls, enzymes, and chromosome structure. P
 
 ### Sex Ratio and Health Effects
 
-Low calcium areas produce predominantly **male** farm animals and humans (as a primary sex ratio). Lack of calcium produces skeletal and metabolic malfunction. [[calcium-phosphate]] is the chief mineral constituent of bones.
-
-Many populations have lactose intolerance and cannot obtain calcium from milk, so lime or dolomite on gardens or as tablets may be needed. Older women, in particular, suffer bone fractures from calcium loss during ageing; immobilised limbs also lose calcium. Gross calcium and vitamin D deficiency results in **rickets**.
-
-## Titanium (Ti)
-
-Titanium is not a nutrient, but in sandy soils in the presence of sunlight it acts as a catalyst to produce **ammonia for plants**, often combined with iron (TiFe). This provides ammonia at 50–100 kg/ha/year. Rain and moist soils make this available to plants — a useful natural fertilisation mechanism in desert strategies.
-
-## Chromium (Cr)
-
-Chromium is a poison to plants and animals, occurring in serpentine rock. It is used in timber preservation and must be guarded against from electrolytic and leather works, as it poisons active biological agents in sewage treatment systems.
-
-### Trace Function
-
-Some chromium occurs in all organic matter and is in fact a trace element related to **glucose tolerance** in humans, necessitating insulin if absent or in very low quantities. However, very little firm knowledge of chromium's metabolic function is available. It is easily removed or recycled at the source in industrial settings.
-
-## Manganese (Mn)
-
-Manganese is a readily available trace element on acid soils except in sands. It may cause manganese poisoning below pH 6.5. On alkaline soils, or when pH exceeds 7.5, it may be deficient in grain crops or vegetables.
-
-### Application Methods
-
-Remedies include seed soakage, [[seed-pelleting]], or foliar sprays. Even periodic flooding mobilises manganese. A typical deficiency situation occurs on poor sands heavily dressed with lime.
+Low calcium areas produce predominantly **male** farm animals and humans (as a primary sex ratio). Lack of calcium produces skeletal and metabolic malfunction. [[seed-pelleting]], or foliar sprays. Even periodic flooding mobilises manganese. A typical deficiency situation occurs on poor sands heavily dressed with lime.
 
 ### Biological Cycling
 

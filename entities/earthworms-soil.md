@@ -7,7 +7,7 @@ tags: [soil-science, biology, permaculture, soil-life, earthworms, annelids]
 
 ## Description
 
-Earthworms are among the most important macrofauna in soil ecosystems, functioning as ecosystem engineers that dramatically alter soil structure, nutrient availability, and biological activity. In permaculture, earthworms are considered a keystone indicator of soil health and a primary agent of soil regeneration. Their biomass in healthy soils can be enormous, vastly exceeding the above-ground livestock carrying capacity of the same land. Mollison presents earthworms as central to the living soil paradigm that replaces the mineral-only view of conventional soil science.
+[[earthworms]] are among the most important macrofauna in soil ecosystems, functioning as ecosystem engineers that dramatically alter soil structure, nutrient availability, and biological activity. In permaculture, earthworms are considered a keystone indicator of soil health and a primary agent of soil regeneration. Their biomass in healthy soils can be enormous, vastly exceeding the above-ground livestock carrying capacity of the same land. Mollison presents earthworms as central to the living soil paradigm that replaces the mineral-only view of conventional soil science.
 
 ## Classification
 
@@ -54,7 +54,7 @@ Earthworms are among the most important macrofauna in soil ecosystems, functioni
 ### Earthworm Casts and Contamination
 - Worm casts from contaminated pig, sheep, or domestic wastes can contain excess zinc.
 - Animals penned in galvanized areas produce excess zinc in pen wastes.
-- Kevin Handreck recommends a limit of 10% worm casts in potting mixes.
+- [[kevin-handreck]] recommends a limit of 10% worm casts in potting mixes.
 - This is particularly relevant for urban gardeners using worm farms fed with household waste.
 
 ### Interaction with Other Soil Organisms
@@ -69,11 +69,8 @@ Earthworms are perhaps the single best indicator of soil health in permaculture 
 
 ## See Also
 
-- [[soil-biota]]
 - [[humus]]
-- [[soil-colloids]]
 - [[crumb-structure]]
-- [[ethylene-oxygen-cycle]]
 - [[mulching-guide]]
 
 ## Earthworm Species

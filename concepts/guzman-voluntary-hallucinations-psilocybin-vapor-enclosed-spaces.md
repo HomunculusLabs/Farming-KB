@@ -38,36 +38,14 @@ During mycological fieldwork in Oaxaca, Mexico, Guzman collected a large quantit
 or semifermented neurotropic Psilocybe specimens with the help of local indigenous people.
 The collection included a mixture of five species:
 
-- [[psilocybe-cordispora]]
 - [[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]]
-- [[psilocybe-zapotecorum]]
-
-These mushrooms had been gathered for commercial purposes and were stored in sacks in a
-small, closed-door room of an Indian home where Guzman was attempting to sleep. The air in
-the room was described as "heavy with a strong acrid aroma of the fungi."
-
-Despite having consumed none of the mushrooms, Guzman experienced colored hallucinations
-as a result of prolonged exposure to the air in the enclosed space. Upon leaving the room
-to breathe fresh air, the hallucinations ceased immediately. Upon returning, they resumed.
-
-## Implications for Psilocybin and Psilocin Volatility
-
-This incident provides direct evidence supporting the hypothesis that psilocybin and
-psilocin are [[query-how-do-fungal-volatile-compounds-affect-plant-growth-and-other-microorganisms]] that can become airborne under certain conditions. The
+- [[query-how-do-fungal-volatile-compounds-affect-plant-growth-and-other-microorganisms]] that can become airborne under certain conditions. The
 authors state explicitly that "it seems that psilocybin and psilocin are volatiles," based
 on this observation combined with other chemical evidence.
 
 The semifermented state of the specimens may be significant. Fermentation could potentially
 increase the rate at which active compounds are released into the air, either through
-increased [[arbuscule-isolation-metabolic-activity-assays]] in the fungal tissue or through the breakdown of psilocybin
-(the phosphate ester) into psilocin (the free hydroxyl compound), which may be more
-volatile.
-
-## Corroboration from Specimen Age Studies
-
-The volatility hypothesis is further supported by chemical studies showing that the active
-compounds in neurotropic fungi degrade over time. Repke et al. (1977) demonstrated
-variations in baeocystin content according to specimen age: [[psilocybe-semilanceata]]:
+increased [[psilocybe-semilanceata]]:
 - 1869 specimen: 0.014% dry weight
 - 1954 specimen: 0.67% dry weight
 - 1976 specimen: 0.84% dry weight
@@ -77,13 +55,7 @@ dried specimens over time.
 
 ## Indigenous Knowledge of Specimen Freshness
 
-The observation corroborates [[guzman-allen-gartz-indigenous-mexican-mushroom-nomenclature-sacred-names]] knowledge about the proper handling of
-sacred mushrooms. As the authors note, "the Mexican Indians wisely say in relationship
-with the use of the sacred mushrooms, that the old dried specimens kept for more than one
-year are not good to use, and they throw them out."
-
-Guzman himself confirmed this through personal experimentation: normal doses of
-hallucinogenic fungi ([[dark-incubation-sclerotia-production-psilocybe-mexicana-tampanensis]] in one case, and P. caerulescens in another)
+The observation corroborates [[dark-incubation-sclerotia-production-psilocybe-mexicana-tampanensis]] in one case, and P. caerulescens in another)
 were "only slightly neurotropic or entirely inactive in the persons who ate them, because
 the fungi were kept dried for almost a year."
 
@@ -111,8 +83,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[psilocybin]]
 - [[gaston-guzman]]
-- [[doc]]
 - [[psilocin]]
 - [[baeocystin]]

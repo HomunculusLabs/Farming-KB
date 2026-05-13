@@ -7,16 +7,7 @@ tags: [potency, harvest, aborts, primordia, veil, timing, cultivation]
 
 # Mushroom Potency and Harvest Age
 
-The relationship between [[cannabis-harvest-timing-visual-cues]] and psychedelic potency
-is one of the most debated topics in mycological cultivation.
-This page examines the evidence and practical guidance from the
-PF TEK and related cultivation literature.
-
-## The Core Debate: Size vs. Potency
-
-Two competing hypotheses exist:
-
-1. **Constant total alkaloids**: The total amount of [[psilocin]] per mushroom is fixed early in development. As the
+The relationship between [[psilocin]] per mushroom is fixed early in development. As the
    mushroom grows, alkaloids are diluted by increased water and
    tissue mass. Therefore, smaller mushrooms are more potent by
    weight.
@@ -52,12 +43,9 @@ Harvest timing is only half the equation; proper drying preserves
 the potency achieved at harvest:
 
 - Heat degrades psilocybin and especially psilocin
-- [[mushroom-desiccant-drying-methods]] preserves maximum alkaloid content
-- Rapid drying minimizes enzymatic degradation that occurs
-  during the slow evaporation period
-- See [[mushroom-desiccant-drying-methods]] - Drying for preservation
-- [[pf-tek-jar-preparation-steam-sterilization]] - [[pf-tek-jar-preparation-steam-sterilization]]
-- [[psilocybin-metabolism-psilocin-conversion]] - [[ergot-alkaloid-chemistry-history]]
+- [[mushroom-desiccant-drying-methods]] - Drying for preservation
+- [[pf-tek-jar-preparation-steam-sterilization]]
+- [[ergot-alkaloid-chemistry-history]]
 
 ## Practical Considerations
 
@@ -89,8 +77,6 @@ communities, and systematic experimentation to build expertise.
 - Understanding these processes enables more targeted and effective interventions.
 
 ## See Also
-- [[pf-tek-mushroom-potency-harvest-timing]]
 - [[mushroom-potency-harvest-timing]]
-- [[pf-tek-mushroom-potency-and-age-relationship]]
 - [[oyster-mushroom-harvesting-post-harvest]]
 - [[oyster-mushroom-post-harvest-storage-canning-drying-pickling]]

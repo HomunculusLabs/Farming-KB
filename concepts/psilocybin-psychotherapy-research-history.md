@@ -25,7 +25,7 @@ Patients under the influence of these substances confronted long-repressed traum
 
 Following its initial isolation and discovery of its chemical structure, psilocybin quickly joined the group of hallucinogens used in psychotherapy. Several factors established psilocybin as the preferred therapeutic agent:
 
-- **Extremely [[fukuoka-low-toxicity-pesticide-deception]]** -- See [[psilocybin-toxicity-and-safety-profile]]
+- **Extremely [[psilocybin-toxicity-and-safety-profile]]
 - **Accurate dosing below 10 mg** -- Dosages below 10 mg can be measured with accuracy, and effects within this range can always be brought under control
 - **Therapeutically efficient range** -- Dosages up to 10 mg are known to be therapeutically efficient
 - **Manageable duration** -- States of consciousness induced by psilocybin last only five hours on average, compared to much longer periods with LSD

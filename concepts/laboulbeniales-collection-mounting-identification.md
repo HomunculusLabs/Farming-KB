@@ -11,25 +11,7 @@ sources: []
 
 ## Overview
 
-Laboulbeniales is a distinctive group of obligately biotrophic parasitic ascomycetes that lack a [[mycelium]]. They live on a diverse group of arthropods, primarily true insects (Hexapoda) from orders including Coleoptera, Dermaptera, Diptera, Heteroptera, Hymenoptera, Isoptera, Mallophaga, Orthoptera, and Thysanoptera. Relatively few (54) species infest mites (Acarina) and millipedes (Diplopoda). The order comprises 137 genera across four families: Ceratomycetaceae (12 genera), Herpomycetaceae (1 genus), Euceratomycetaceae (5 genera), and Laboulbeniaceae (114 genera). Eight additional genera have been described since Tavares's 1985 treatise.
-
-## Key Morphological Features
-
-All Laboulbeniales are relatively small, ranging from approximately 50 um to 1 mm in length. The thallus develops directly from a germinating ascospore. The main body (receptacle) consists of few to many cells, attached to the host by a modified basal cell (foot) from which a simple or branched haustorium develops. Haustoria usually penetrate no farther than the living cells of the host epidermis. Laboulbeniales appear not to be pathogenic and cause little, if any, damage to hosts.
-
-The receptacle bears simple or branched appendages that may be sterile or fertile. Fertile appendages produce minute, uninucleate, nonmotile spermatia. Each thallus gives rise to one or more perithecia, each with a female receptive trichogyne. Asci contain usually four acicular, two-celled ascospores. Of 137 genera, 120 are monoecious; 17 are exclusively dioecious or include dioecious species. Two species of Triceromyces represent the only known examples of trioecism in fungi.
-
-## Collection Methods
-
-[[psilocybin-mushroom-field-collection-techniques]] depends on collecting the hosts. Few thalli can be seen well in the field; success is judged only after [[fungal-microscopic-examination-mounting-media-techniques]] of insects. Appropriate equipment includes:
-
-- Forceps with broad and fine points for handling living or dead insects
-- Knife, trowel, or strong tool for stripping bark, breaking logs, digging in soil
-- Assorted plastic vials with screw caps
-- Small funnel; hand lens; 70% alcohol for preservation
-- Aspirator for capturing small terrestrial insects (constructed from a plastic bottle with two holes drilled in lid, fitted with vinyl tubing and fine-mesh cloth barrier)
-- Sifter (hardware cloth with 8, 10, or 12 squares per inch) for separating insects from ground litter and detritus
-- Berlese funnel (10-12 inch diameter funnel with hardware cloth secured one-third down, suspended over 70% [[pf-tek-ethyl-alcohol-extraction-liqueur-concentration]] preservative) for extracting arthropods from field samples
+Laboulbeniales is a distinctive group of obligately biotrophic parasitic ascomycetes that lack a [[psilocybin-mushroom-field-collection-techniques]] depends on collecting the hosts. Few thalli can be seen well in the field; success is judged only after [[pf-tek-ethyl-alcohol-extraction-liqueur-concentration]] preservative) for extracting arthropods from field samples
 - Deep, flat-bottomed insect nets for flies; small nets for aquatic insects
 - Light traps, flight-interception traps, and pitfall traps
 - Canopy fogging for specialized collecting
@@ -39,86 +21,91 @@ The receptacle bears simple or branched appendages that may be sterile or fertil
 - **Beetles (Coleoptera):** Staphylinidae harbor many genera (Corethromyces, Monoicomyces, Rhachomyces, Teratomyces); Carabidae host many Laboulbenia species
 - **Flies (Diptera):** Hosts of 100+ species of Stigmatomyces, including Ephydridae and Sphaeroceridae from mud flats at stream/lake margins
 - **Aquatic beetles:** Hydrophilidae, Dytiscidae, Haliplidae, Gyrinidae captured with small fish nets or tea strainers
-- **[[ground-beetles-carabidae-and-biological-pest-control]]:** Carabidae and Staphylinidae under stones, logs, wood fragments, and flood debris collected with sifter and aspirator
+- **[[psilocybin]]
+- [[spore]]
+- [[dipt]]
 
-### Seasonal Considerations
+## Overview
 
-In tropical/subtropical regions, collecting can be productive year-round, influenced mainly by wet vs. dry seasons. In northern/southern climes with severe winters, collecting is best in spring or early fall when insect activity peaks and infection levels may be highest. Often only a few individuals in a population carry infections, so mass collections of many hosts are essential.
+Laboulbeniales Collection Mounting Identification represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
 
-## Specimen Preparation and Mounting
+## Key Characteristics
 
-### Equipment
+Several defining characteristics distinguish laboulbeniales collection mounting identification
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
 
-1. High-quality stainless steel watchmaker's tweezers (sharpened with fine-grained grinding stone)
-2. Porcelain imbedding dishes for sorting insects in alcohol
-3. Maximov depression slides (35 mm diameter concavity, 5 mm deep)
-4. Ordinary depression slides for temporary glycerol storage
-5. Minuten insect pins (stainless steel) mounted in matchsticks for detaching parasites
-6. Microscope slides (2.5 x 7.5 cm) and 22-mm and 18-mm cover glasses (#0 or #1)
+## Ecological Context
 
-### Mounting Media
-
-- **Aqueous glycerol** (with or without cotton blue or acid fuchsin) — preferred for general morphological study due to favorable refractive properties
-- **Amann's solution** — substitute for aqueous glycerol
-- **Hoyer's medium** — used sparingly to position fungi before adding final mountant
-
-### Double-Cover Glass Method (Modified from Benjamin 1986)
-
-1. Place infected insect in plain glycerol in a large concavity slide under dissecting microscope
-2. Grasp insect with fine forceps; detach parasites carefully with a Minuten needle
-3. Mount fungi immediately or store temporarily in glycerol in a depression slide
-4. Place minute Hoyer's medium on center of 22-mm cover glass on microscope slide
-5. Place depression slide with fungus and slide with cover glass side by side on dissecting microscope stage
-6. Position fungal specimens with receptacle directed upward (thallus appears erect under compound microscope)
-7. Place lens tissue fibers adjacent to specimens to prevent flattening when second cover glass is added
-8. Center small drop of mountant on 18-mm cover glass, carefully invert over specimens
-9. Add small drop of clear glycerine to center of 18-mm cover glass
-10. Invert two-cover glass combination onto clean microscope slide, offset for label space
-11. Seal large cover glass to slide with Canada balsam or Fisher Permount 7 on opposite edges
-12. Place slides on slide warmer at approximately 40 degrees C for several days to harden sealant
-13. Label and store flat
-
-## Cultivation
-
-No member of the Laboulbeniales has been cultivated from spore to spore despite several attempts. One report exists of partial cultivation of Stigmatomyces ceratophorus on autoclaved wings of the host fly (Fannia canicularis) placed on brain-heart infusion agar fortified with typtose and overlain with horse serum; thalli grew up to a 20-celled antheridium-producing stage.
-
-## Identification
-
-Only very few specialists identify members to species; it is difficult to determine when a new species has been collected. Many keys follow Tavares's (1985) system. Host identification is an important aid. Tavares recognized 132 genera in 1985; eight additional genera have since been described (including Majewskia, Sugiyamaemyces, Cupulomyces).
-
-### Key References
+The ecological relationships involving laboulbeniales extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
 
 ## Practical Applications
 
-The principles and techniques discussed here have wide-ranging applications
-across multiple disciplines and contexts. Practitioners and researchers
-continue to explore new ways to integrate these concepts into modern practice,
-adapting traditional knowledge to contemporary challenges and opportunities.
+Laboulbeniales Collection Mounting Identification finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
 
-## Key Considerations
+## Management and Implementation
 
-Several important factors influence the effectiveness and outcomes described
-in this topic. Understanding these considerations helps practitioners make
-informed decisions and avoid common pitfalls. Environmental conditions,
-timing, and material selection all play critical roles.
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for laboulbeniales collection mounting identification. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+laboulbeniales collection mounting identification and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
 
 ## Historical Context
 
-The historical development of this subject reflects centuries of accumulated
-knowledge and practical experience. From traditional methods passed down
-through generations to modern scientific approaches, the evolution continues
-to inform current best practices and research directions.
+Laboulbeniales Collection Mounting Identification has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
 
-## Common Challenges
+## Integration Strategies
 
-Practitioners frequently encounter several challenges when working with
-these concepts. Climate variability, resource limitations, and knowledge
-gaps can all affect outcomes. Addressing these challenges requires patience,
-observation, and a willingness to adapt approaches based on results.
+Successful integration of laboulbeniales collection mounting identification into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
 
 ## See Also
-- [[psilocybin]]
-- [[det]]
-- [[spore]]
-- [[mycelium]]
-- [[dipt]]
+
+- [[cho-imo-collection-bamboo-stump-and-paddy-field]]
+- [[fungal-community-characterization-collection-effort-curves]]
+- [[jadam-leaf-mold-source-collection-and-artificial-production]]
+- [[korean-natural-farming-imo-collection-fermented-plant-extracts]]
+- [[laboulbeniales-ectoparasitic-arthropod-associated-ascomycetes]]

@@ -11,7 +11,7 @@ sources: []
 
 ## Overview
 
-[[darkness-low-light-facilitation-entheogenic-ceremonies]] are structured, intentional settings in which psychoactive plants or fungi are consumed for healing, spiritual growth, or divination. Rooted in [[sacred-mushroom-use-mexico-teonanacatl-indigenous-traditions]] from the Amazon, Mesoamerica, Africa, and elsewhere, these ceremonies have been adapted and adopted by contemporary communities worldwide. Proper preparation — physical, psychological, and logistical — is essential for safety and therapeutic benefit.
+Entheogenic ceremonies are structured, intentional settings in which psychoactive plants or fungi are consumed for healing, spiritual growth, or divination. Rooted in indigenous traditions from the Amazon, Mesoamerica, Africa, and elsewhere, these ceremonies have been adapted and adopted by contemporary communities worldwide. Proper preparation — physical, psychological, and logistical — is essential for safety and therapeutic benefit.
 
 ## Physical Preparation
 
@@ -21,7 +21,7 @@ Traditional Amazonian preparations involve dietary restrictions, often called "l
 
 Foods to avoid:
 - Pork and red meat (considered heavy and interfering with the medicine)
-- [[lacto-fermentation-recipes]] alcohol (tyramine interaction with MAOI-containing plants like ayahuasca)
+- Fermented foods and alcohol (tyramine interaction with MAOI-containing plants like ayahuasca)
 - Dairy products
 - Refined sugar and processed foods
 - Excess salt and spicy foods
@@ -54,7 +54,7 @@ Critical for safety, especially with MAOI-containing entheogens like ayahuasca:
 Essential screening items:
 
 - Cardiovascular health: blood pressure, heart conditions, arrhythmias
-- Psychiatric history: psychosis, [[blesching-cannabis-bipolar-disorder]], schizophrenia (generally contraindicated)
+- Psychiatric history: psychosis, bipolar disorder, schizophrenia (generally contraindicated)
 - Current medications and potential interactions
 - Pregnancy status (absolutely contraindicated)
 - Liver and kidney function (for ayahuasca processing)
@@ -135,16 +135,16 @@ A skilled facilitator is essential for ceremony safety. Key qualities and respon
 - Musical or ceremonial skills (icaros, prayer, chanting)
 - Clear boundaries — not a guru, healer, or authority figure
 - Trauma-informed approach
-- [[hallucinogenic-mushroom-telephone-helplines-and-emergency-response]] capability
+- Emergency response capability
 
 Red flags in facilitators:
 - Claims of special powers or divine authority
 - Sexual or romantic boundary violations (persistent problem in the ceremony community)
-- Lack of medical screening
-- Pressure to participate or take larger doses
-- Isolation of participants from outside support
-- Resistance to integration support after ceremony
 
-## Choosing a Ceremony
+## See Also
 
-Evaluation criteria for potential ceremony experiences:
+- [[metzner-entheogenic-terminology-psychedelic-hallucinogenic-entheogenic]]
+- [[the-eleusinian-mysteries-and-ancient-entheogenic-cults]]
+- [[entheogenic-plants-and-psychoactive-flora]]
+- [[soma-brew-entheogenic-admixture]]
+- [[mckenna-sect-of-the-phoenix-and-secret-entheogenic-knowledge]]

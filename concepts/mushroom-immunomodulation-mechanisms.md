@@ -8,9 +8,7 @@ sources: []
 ---
 # Mushroom Immunomodulation Mechanisms
 Mushroom-derived polysaccharides and proteoglycans act primarily as
-[[medicinal-mushrooms-biological-response-modifiers]] modifiers (BRMs), enhancing the host's immune
-defence rather than directly attacking cancer cells. This
-immunomodulatory approach is the foundation of [[medicinal-mushrooms]]
+[[medicinal-mushrooms]]
 therapy in both traditional Chinese medicine and modern clinical
 oncology.
 
@@ -23,7 +21,7 @@ first-line cellular defence:
 
 - Enhanced phagocytic activity — macrophages more aggressively engulf
   pathogens and tumour cells
-- [[fukuoka-textdoc-increased-production-not-increased-yields]] of [[reactive-oxygen-species-and-oxidative-stress]] species (ROS) and nitric
+- [[reactive-oxygen-species-and-oxidative-stress]] species (ROS) and nitric
   oxide (NO) — cytotoxic mediators
 - Secretion of pro-inflammatory cytokines: IL-1beta, IL-6, TNF-alpha
 - Upregulation of MHC class II expression — improved antigen

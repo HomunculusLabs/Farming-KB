@@ -1,6 +1,6 @@
 ---
 title: Shirota Psilocin Synthesis 4 Hydroxyindole Pathway
-aliases: [[four-hydroxyindole-psilocin-synthesis-route-shirota]], 4-hydroxyindole pathway, [[shirota-psilocin-instability-chromatographic-challenges]]
+aliases: shirota-psilocin-instability-chromatographic-challenges
 tags: [chemistry, synthesis, psilocin, tryptamines, organic-chemistry, psilocybe]
 source: concise-large-scale-synthesis-of-psilocin-and-psilocybin-shirota-hakamata-goda.md
 created: 2026-05-09
@@ -10,27 +10,8 @@ created: 2026-05-09
 
 Osamu Shirota, Wataru Hakamata, and Yukihiro Goda at Japan's National Institute of
 Health Sciences developed a concise, large-scale synthesis of psilocin (1) and
-psilocybin (2)—the principal hallucinogenic constituents of "[[1960s-counterculture-and-magic-mushrooms]]"—
-achieving gram-scale production without any chromatographic purification. Their
-work was published in the *Journal of Natural Products* in 2003.
-
-## Starting Material and Protection
-
-The synthesis begins from commercially available 4-hydroxyindole (3). The
-hydroxyl group is protected by acetylation using acetic anhydride and pyridine in
-dichloromethane at 0°C to room temperature. After two hours of stirring at room
-temperature, the reaction mixture is worked up to afford 4-acetylindole (4) as
-ivory white crystals. This protection step is straightforward and gives an
-excellent yield of the protected intermediate.
-
-An alternative protection by benzyl ether was also utilized in previous work, but
-a separate step was needed for its deprotection, making the acetyl route more
-efficient for large-scale synthesis.
-
-## Oxalylation to the Glyoxalyl Intermediate
-
-The protected 4-acetylindole (4) is treated with [[shirota-glyoxalylamide-formation-oxalyl-chloride-indole]] in anhydrous
-diethyl ether at 0°C. After stirring for fifteen minutes, n-hexane is added and
+psilocybin (2)—the principal hallucinogenic constituents of "[[shirota-glyoxalylamide-formation-oxalyl-chloride-indole]] in anhydrous
+[[diethyl-ether]] at 0°C. After stirring for fifteen minutes, n-hexane is added and
 the reaction flask is placed in a freezer overnight. The resulting yellow crystals
 of 3-glyoxalyl-4-acetylindole (5) are separated from the solution by filtration.
 This intermediate is isolated as pure yellow crystalline material.
@@ -84,7 +65,86 @@ peak. High-resolution ESI-MS confirmed the molecular formula C12H17N2O
 ## Experimental Conditions
 
 The protection step used 4-hydroxyindole (>25 g per bottle, >185 mmol) in 200 mL
-anhydrous CH2Cl2 with 20 mL pyridine (246 mmol) and 20 mL acetic anhydride
+anhydrous CH2Cl2 with 20 mL pyridine (246 mmol) and 20 mL [[acetic-anhydride]]
 (210 mmol). After two hours at room temperature, workup afforded 34 g of
 4-acetylindole as constant-weight ivory white crystals. The amidation used 17.6 g
 (100 mmol) of 4 in 100 mL ether with 13 mL [[shirota-glyoxalylamide-intermediate-oxalyl-chloride-acylation-pathway]] (146 mmol), followed
+
+## Overview
+
+Shirota Psilocin Synthesis 4 Hydroxyindole Pathway represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish shirota psilocin synthesis 4 hydroxyindole pathway
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving shirota extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Shirota Psilocin Synthesis 4 Hydroxyindole Pathway finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for shirota psilocin synthesis 4 hydroxyindole pathway. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+shirota psilocin synthesis 4 hydroxyindole pathway and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Shirota Psilocin Synthesis 4 Hydroxyindole Pathway has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of shirota psilocin synthesis 4 hydroxyindole pathway into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also

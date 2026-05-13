@@ -1,5 +1,5 @@
 ---
-title: Biochar In Agriculture
+title: Biochar in Agriculture
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
@@ -9,7 +9,7 @@ sources: []
 
 # Biochar in Agriculture
 
-Biochar is a carbon-rich, porous material produced by pyrolyzing biomass (heating in the absence of oxygen). When incorporated into soil, it can improve water retention, nutrient [[pf-tek-vermiculite-type-comparison-water-holding-capacity]], microbial habitat, and long-term carbon storage. Biochar has been used for centuries — most notably in Amazonian Terra Preta soils — and is gaining renewed attention in [[biochar]].
+Biochar is a carbon-rich, porous material produced by pyrolyzing biomass (heating in the absence of oxygen). When incorporated into soil, it can improve water retention, nutrient holding capacity, microbial habitat, and long-term carbon storage. Biochar has been used for centuries — most notably in Amazonian Terra Preta soils — and is gaining renewed attention in regenerative agriculture.
 
 ## Biochar Production
 
@@ -95,7 +95,7 @@ Never use treated wood, painted wood, plastic, or glossy paper as biochar feedst
 
 ## Charging Biochar with Nutrients
 
-Fresh biochar has an extremely high [[cation-exchange-capacity]] (CEC) but is essentially an empty sponge. If applied raw, it will adsorb nutrients from the surrounding soil, potentially creating a temporary [[cannabis-grow-nutrient-deficiency-problem-solving]] for plants. "Charging" or "activating" biochar pre-loads it with nutrients and microbial life before soil application.
+Fresh biochar has an extremely high cation exchange capacity (CEC) but is essentially an empty sponge. If applied raw, it will adsorb nutrients from the surrounding soil, potentially creating a temporary nutrient deficiency for plants. "Charging" or "activating" biochar pre-loads it with nutrients and microbial life before soil application.
 
 ### Compost Charging (Recommended)
 
@@ -140,10 +140,10 @@ Biochar's porous structure acts as a microscopic reservoir, holding water in por
 
 ### Nutrient Holding (Cation Exchange Capacity)
 
-Biochar's high surface area and negative charge attract and hold positively charged nutrients (cations): ammonium (NH4+), potassium (K+), calcium (Ca2+), and magnesium (Mg2+). This reduces leaching losses and makes nutrients available over a longer period. This complements [[organic-fertilizer-recipes]] applications by reducing the frequency needed.
+## See Also
 
-### Microbial Habitat
-
-Biochar pores provide refuge for beneficial bacteria, fungi, and protozoa. The porous structure protects microbes from predation and desiccation. Mycorrhizal fungi colonize biochar surfaces, using it as a substrate for hyphal growth [[arbuscule-isolation-and-nutrient-exchange-mechanisms]]. See microbes for more on soil biology.
-
-### pH Buffering
+- [[query-how-do-i-use-biochar-in-my-garden]]
+- [[comparison-soil-food-web-vs-biochar]]
+- [[comparison-compost-tea-vs-biochar]]
+- [[comparison-biochar-remediation-vs-phytoremediation]]
+- [[biochar-and-fungi]]

@@ -9,20 +9,14 @@ sources:
 ---
 # Water-Wise Vegetable Gardening
 
-[[steve-solomon]]'s approach from "Gardening When It Counts" focuses on [[container-growing-vegetables-herbs]] with minimal irrigation by using [[solomon-wide-spacing-versus-intensive-gardening-debate]], deep soil preparation, and drought-adapted techniques. This approach produces more nutritious food with less water and less labor than intensive [[cervantes-raised-beds-mound-planting]].
+[[container-growing-vegetables-herbs]] with minimal irrigation by using [[cervantes-raised-beds-mound-planting]].
 
 ## The Four Causes of "Drought" Damage
 
 Solomon identifies that most "drought" damage isn't actually from lack of water but from:
 1. **Sowing too thickly** — too many plants competing for limited water
 2. **Insufficient soil depth** — shallow soil can't hold enough moisture
-3. **[[cannabis-grow-nutrient-deficiency-problem-solving]]** — what looks like drought is often nutrient stress (Albrecht's insight)
-4. **Surface crusting** — capillary break prevents moisture from rising
-
-## Wide Spacing System
-
-### The Principle
-- Plants spaced much wider than conventional [[wide-row-spacing-intensive-gardening-comparison]]
+3. **[[wide-row-spacing-intensive-gardening-comparison]]
 - Individual plants get a larger soil moisture reserve
 - Less competition between plants
 - Easier to hoe between rows
@@ -37,54 +31,91 @@ Solomon identifies that most "drought" damage isn't actually from lack of water 
 | Bush beans | 6 | 12 | |
 | Pole beans | 6 (double row) | 8-12 (single) | On trellis |
 | Summer squash | 24 | 48-60 | Very greedy |
-| [[cover-crops]] | 36 | 72-96 | Needs huge area |
-| Cucumbers | 12 | 24-36 | |
-| Corn | 8-12 | 15-18 | |
-| Lettuce | 8-10 | 12-15 | |
-| Carrots | 2-3 | 3-4 | |
-| Beets | 4 | 6-8 | |
-| Brassicas | 12-18 | 24-36 | |
-
-## Soil Preparation for Water Retention
-
-### Double Digging (Once at Establishment)
-- Break hardpan to 24 inches depth
-- Allows roots to access deep moisture reserves
-- Creates a moisture reservoir below the surface
-
-### Adding Organic Matter
-- Compost and manure increase water-holding capacity
-- Each 1% increase in organic matter = ~20,000 gallons more water held per acre
-- Incorporate 2-4 inches of compost into top 6-8 inches
-
-### Capillary Connection
-- Don't break the capillary connection between surface and subsoil
-- Cultivating creates a dust mulch that breaks capillary rise (intentional in arid areas)
-- In humid areas, mulch to maintain capillary connection and reduce evaporation
-
-## Mulching
-
-### Benefits
-- Reduces evaporation by 50-70%
-- Suppresses weeds (weeds compete for water)
-- Moderates soil temperature
-- Adds organic matter as it decomposes
-
-### Materials for Water Conservation
-- Straw: Excellent moisture retention, 4-6 inch layer
-- Grass clippings: Good but apply thin layers (1-2 inches, let dry between layers)
-- Leaves: Excellent, free, breaks down to leaf mold
-- Wood chips: Long-lasting but may tie up nitrogen at surface
-
-## Drought-Tolerant Varieties
-
-### Vegetables That Tolerate Drought Well
-- **Tomatoes**: Once established, deep-rooted and drought-tolerant. Cherry tomatoes most resilient
-- **Peppers**: Deep root system, prefer slightly dry conditions
-- **Eggplant**: Heat and [[permplant-carob-drought-tolerant-food-tree]]
-- **Swiss chard**: Very [[drought-tolerant-planting-design]] once established
-- **Parsnips**: Deep taproot accesses deep moisture
-- **Okra**: Loves heat, needs little water
-- **Cowpeas/Black-eyed peas**: Extremely drought tolerant legume
-- **Amaranth**: Grain amaranth is highly [[drought-resistant-gardening-techniques]]
+| [[permplant-carob-drought-tolerant-food-tree]]
+- **Swiss chard**: Very [[drought-resistant-gardening-techniques]]
 - **Jerusalem artichokes**: Once established, virtually maintenance-free
+
+## Overview
+
+Water Wise Vegetable Gardening represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish water wise vegetable gardening
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving water extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Water Wise Vegetable Gardening finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for water wise vegetable gardening. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+water wise vegetable gardening and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Water Wise Vegetable Gardening has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of water wise vegetable gardening into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[green-cannabis-dry-sift-water-extraction]]
+- [[osmophilic-osmotolerant-fungi-low-water-activity]]
+- [[permaculture-plants-aquatic-systems-water-plants]]
+- [[permaculture-water-chestnut-guide]]
+- [[water-spreading-techniques-drylands]]

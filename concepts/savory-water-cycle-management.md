@@ -1,7 +1,7 @@
 ---
 title: Savory Water Cycle Management
 created: 2026-04-26
-aliases: [effective water cycle, water infiltration, [[permplant-willows-salix-erosion-control-fodder]], [[ozier-pdc-hydro-cycle-and-watershed-management]]
+aliases: [effective water cycle, water infiltration, ozier-pdc-hydro-cycle-and-watershed-management
 tags: [water-cycle, infiltration, erosion-control, watershed, soil-health]
 related: [savory-holistic-management-overview, savory-desertification-causes, savory-land-monitoring]
 type: concept
@@ -12,7 +12,7 @@ updated: 2026-04-26
 
 # Water Cycle Management
 
-Water cycle management is one of the four [[savory-ecosystem-foundation-blocks]] blocks in [[savory-holistic-resource-management-animal-impact]] Management. The difference between an effective and noneffective water cycle often determines whether land is productive or desertifying, whether communities thrive or collapse.
+Water cycle management is one of the four [[savory-holistic-resource-management-animal-impact]] Management. The difference between an effective and noneffective water cycle often determines whether land is productive or desertifying, whether communities thrive or collapse.
 
 ## Effective vs. Noneffective Water Cycles
 
@@ -24,7 +24,7 @@ The practical difference is enormous. In arid areas receiving fourteen inches of
 
 ## How Capping Destroys Water Cycles
 
-On bare and exposed ground, the direct impact of raindrops destroys soil crumb structure. Raindrop impact breaks down surface structure, freeing organic and lightweight material to wash away while heavier fine particles settle and **seal, or cap, the soil surface**.
+On bare and exposed ground, the direct impact of raindrops destroys soil [[crumb-structure]]. Raindrop impact breaks down surface structure, freeing organic and lightweight material to wash away while heavier fine particles settle and **seal, or cap, the soil surface**.
 
 Capping is the primary barrier to water infiltration. The comparison is simple: pour water on a bowl of wheat grains (crumb structure) versus a bowl of flour (destroyed structure). Water soaks into the grains but seals the flour surface and runs off. Some soils develop caps so hard that only a sharp object can break them.
 
@@ -35,14 +35,7 @@ Soil cover protects the surface from raindrop impact and preserves crumb structu
 1. **Erect growing plants**: Intercept rainfall so drops hit the ground with less energy
 2. **Dead, prone plant material (litter)**: Slows the flow of water across the land, allowing more time for infiltration
 
-In [[savory-holistic-resource-management-brittle-vs-nonbrittle-environments]], soil cover is seldom a problem because plants are closely spaced and dead material stays in place through biological decay. In brittle environments, old plant material falls slowly through oxidation, and wide plant spacings allow wind and water to carry litter away.
-
-## Consequences of Noneffective Water Cycles
-
-A noneffective water cycle results in a cascade of problems:
-
-- **Increased runoff and flooding**: More water runs faster, carrying more silt. Trickles form rivulets that create streams that produce damaging floods. Noneffective water cycles lead to increased frequency and severity of floods.
-- **Increased drought severity**: Decreased surface penetration and increased surface losses make below-average or poorly distributed rainfall years into droughts. Scientists often incorrectly attribute this to [[dighton-fungi-climate-change-feedback]].
+In [[dighton-fungi-climate-change-feedback]].
 - **Reduced production**: Less forage or crop production in all years, with greater instability and fluctuation.
 - **Slower plant growth**: Reduced production leads to more overgrazing pressure on remaining plants.
 - **Falling groundwater**: Springs dry up, wells lower, dams and catchments silt up.
@@ -57,7 +50,7 @@ For water to enter the soil, it must penetrate the surface. This depends on:
 
 Below the surface, porosity is increased by:
 - **Organic material**: Binds particles into larger structured pieces with bigger spaces between them
-- **Biological activity**: Insects, worms, and small mammals create channels by burrowing and tunneling. Earthworms added to cornfields in one Minnesota study increased absorption rates thirty-five-fold over six weeks.
+- **Biological activity**: Insects, worms, and small mammals create channels by burrowing and tunneling. [[earthworms]] added to cornfields in one Minnesota study increased absorption rates thirty-five-fold over six weeks.
 - **Plant roots**: Open channels for water movement deep into the soil
 
 ## Soil Aeration

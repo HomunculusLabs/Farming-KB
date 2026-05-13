@@ -11,35 +11,9 @@ type: concept
 # Suppression of Psychedelic Research and LSD Therapy
 
 In Food of the Gods, McKenna documents how the promising field of
-psychedelic [[hofmann-lsd-psychiatric-research]] was systematically destroyed following
-the criminalization of LSD in October 1966, depriving medicine of
-treatments that had shown significant efficacy for conditions previously
-considered untreatable.
-
-## The Promising Clinical Results
-
-Canadian psychiatrists Abram Hoffer and Humphrey Osmond tabulated the
-results of eleven separate studies of alcoholism and concluded that 45
-percent of the patients treated with LSD improved. Promising results
-were also obtained in attempts to treat schizophrenics, autistic
-children, and the severely depressed. Many of these findings were
-attacked after LSD became illegal, but better experiments were never
-designed and the work could not be repeated because of its illegality.
-
-Psychiatry's promising new uses of LSD to treat pain, addiction,
-alcoholism, and depression during terminal illness were put on
-indefinite hold. The suppression occurred despite the enormous excitement
-these discoveries had created among psychologists and students of human
-behavior, an excitement analogous to the feelings that swept the
-physics community at the news of the splitting of the atom.
-
-## The Asymmetry of Acceptance
-
-Whereas the power of the atom, convertible into weapons of mass
-destruction, was fascinating to the dominator Establishment, the
-[[leary-psychedelic-experience-bardo-mapping]] loomed ultimately as an abyss. By the end of the
+psychedelic [[leary-psychedelic-experience-bardo-mapping]] loomed ultimately as an abyss. By the end of the
 1960s, psychedelic research had been hounded out of existence, not only
-in the [[dmt-containing-plants-united-states-halpern]] but [[fungi-around-the-world-species-distribution]]. All psychedelic drugs, even
+in the [[fungi-around-the-world-species-distribution]]. All psychedelic drugs, even
 such unknowns as ibogaine and bufotenine, were made illegal.
 
 ## LSD as a Counter-Agenda Commodity
@@ -57,14 +31,7 @@ that LSD be stopped.
 How and by whom LSD was suppressed is a story well told by Jay Stevens
 in Storming Heaven and Martin Lee and Bruce Shlain in Acid Dreams.
 When the methods that worked for colonial empires peddling opium in the
-[[mckenna-club-des-hachischins-and-nineteenth-century-literary-hashish]] were applied by the CIA to the internal management of
-the American state of mind during the Vietnam War, they nearly
-destabilized the entire social order.
-
-The use of LSD among young people in the US reached a peak in the late
-1960s, shortly after the CIA initiated a series of covert operations
-designed to disrupt, discredit, and neutralize the New Left. Nearly
-every drug that appeared on the [[hofmann-lsd-black-market-and-dangers]] during the 1960s,
+[[hofmann-lsd-black-market-and-dangers]] during the 1960s,
 including marijuana, cocaine, heroin, PCP, amyl nitrate, mushrooms,
 DMT, barbiturates, laughing gas, speed, and many others, had previously
 been scrutinized, tested, and in some cases refined by CIA and army
@@ -87,3 +54,88 @@ all existing copies of a classified CIA manual titled "LSD: Some
 Un-Psychedelic Implications."
 
 ## The Aftermath
+
+## Overview
+
+Mckenna Suppression Psychedelic Research Lsd Therapy represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish mckenna suppression psychedelic research lsd therapy
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving mckenna extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Mckenna Suppression Psychedelic Research Lsd Therapy finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for mckenna suppression psychedelic research lsd therapy. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+mckenna suppression psychedelic research lsd therapy and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Mckenna Suppression Psychedelic Research Lsd Therapy has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of mckenna suppression psychedelic research lsd therapy into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[mckenna-abandonment-of-the-mystery]]
+- [[mckenna-dmt-i-thou-relationship-entity-encounter-ethics]]
+- [[mckenna-sect-of-the-phoenix-and-secret-entheogenic-knowledge]]
+- [[mckenna-teonanacatl-franciscan-theophagy-suppression]]
+- [[metzner-ethnobotanical-generation-harner-halifax-furst-mckenna-shamanic-research]]

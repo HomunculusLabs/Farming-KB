@@ -1,7 +1,6 @@
 ---
 title: Chamovitz Darwin Phototropism Experiment Canary Grass
-source: grahamholmes-what-a-plant-knowsindd.md ([[daniel-chamovitz]], 2012)
-topics: Darwin phototropism, canary grass, plant vision, shoot tip, [[darwin-power-of-movement-in-plants]] in Plants
+source: grahamholmes-what-a-plant-knowsindd.md (darwin-power-of-movement-in-plants in Plants
 created: 2026-05-08
 ---
 
@@ -34,15 +33,7 @@ subject — a common grass with easily observable growth responses.
 
 ### Growing Conditions
 - A pot of canary grass was grown in a **totally dark room** for
-  several days to eliminate any pre-existing [[phototropism-darwin-plant-light-response]]
-- This dark adaptation ensured that any subsequent bending response
-  was purely due to the experimental light source
-
-### The Light Source
-A very small gas lamp was placed **twelve feet (3.5 metres)** from the
-pot. The lamp was kept so dim that Darwin and his son "could not see
-the seedlings themselves, nor see a pencil line on paper." Despite
-this extremely [[darkness-low-light-facilitation-entheogenic-ceremonies]] intensity, after only **three hours** the
+  several days to eliminate any pre-existing [[darkness-low-light-facilitation-entheogenic-ceremonies]] intensity, after only **three hours** the
 plants had obviously curved towards the light.
 
 ### Key Observation
@@ -59,35 +50,7 @@ They tested five conditions:
 
 ### Seedling A: Untreated Control
 The first seedling received no treatment. It demonstrated that the
-[[darwin-five-seedling-phototropism-experimental-conditions]] (dim light, dark room) were conducive to
-phototropism. **Result: Bent towards light** — confirmed baseline.
-
-### Seedling B: Tip Removed
-The tip (apex) of the seedling was pruned off entirely before light
-exposure. **Result: No bending** — the plant went "blind."
-
-### Seedling C: Lightproof Cap on Tip
-The tip was covered with an opaque, lightproof cap that prevented
-any light from reaching the apex. **Result: No bending** — confirmed
-that the tip requires light exposure.
-
-### Seedling D: Clear Glass Cap on Tip
-The tip was covered with a transparent glass cap that allowed light
-to pass through. **Result: Bent towards light** — the plant could
-still "see" through the glass.
-
-### Seedling E: Lightproof Tube on Middle
-The middle section of the seedling (below the tip) was covered with
-a lightproof tube, while the tip remained exposed. **Result: Bent
-towards light** — blocking light from the bending region had no
-effect.
-
-## Darwin's Conclusion
-
-The experiments proved that phototropism results from a two-stage
-process:
-
-1. **[[plant-vision-and-light-perception-mechanisms]] occurs at the shoot tip** — this is the
+[[plant-vision-and-light-perception-mechanisms]] occurs at the shoot tip** — this is the
 
 ## Practical Applications
 
@@ -118,8 +81,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[daniel-chamovitz]]
 - [[phototropism]]
-- [[darwin-five-condition-phototropism-experiment-canary-grass]]
 - [[det]]
 - [[canary-grass-phototropism-model-organism]]

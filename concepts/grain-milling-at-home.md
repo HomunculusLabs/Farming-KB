@@ -3,7 +3,7 @@ title: Grain Milling at Home
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
-tags: [grain, processing, food, [[homesteading]], off-grid, storage, nutrition]
+tags: [grain, processing, food, homesteading, off-grid, storage, nutrition]
 sources: []
 ---
 
@@ -45,7 +45,7 @@ Commercial white flour removes the bran and germ entirely. Commercial whole whea
 
 Stone mills crush grain between two circular stones — one stationary, one rotating with grooves that move grain from center to edge.
 
-**Advantages:** Lower milling temperatures (preserves nutrients), broader [[vermiculite-particle-size-water-retention-calibration-pf-tek]] range, quiet, can mill oily grains and seeds.
+**Advantages:** Lower milling temperatures (preserves nutrients), broader particle size range, quiet, can mill oily grains and seeds.
 
 **Disadvantages:** Slower (1-10 cups/min depending on manual/electric), stones need periodic dressing, may leave trace stone particles.
 
@@ -122,7 +122,7 @@ The primary grain for most home millers:
 - **Corn** — For cornmeal and polenta. Steel burr or stone mill. Can be milled to various textures from coarse grits to fine cornmeal
 - **Barley** — Mild flavor, low gluten. Often mixed with wheat for bread
 - **Buckwheat** — Not a true grain (a pseudocereal). Gluten-free, strong flavor, good for pancakes and soba noodles
-- **Rice** — [[brown-rice-flour-substrate]] can be milled into flour for gluten-free baking
+- **Rice** — Brown rice can be milled into flour for gluten-free baking
 
 ## Grinding Fresh Flour: Practical Tips
 
@@ -136,14 +136,15 @@ The primary grain for most home millers:
 
 1. **Set the grind consistency** — Start coarser and adjust finer until the desired texture is achieved
 2. **Mill in batches** — Do not overload the mill. Feed grain steadily for best results
-3. **Sift if desired** — For finer pastry flour, sift fresh flour through a fine mesh sieve. The bran that remains can be used in granola or added to [[fukuoka-textdoc-plowing-ruins-soil-compaction-bread-dough-analogy]]
+3. **Sift if desired** — For finer pastry flour, sift fresh flour through a fine mesh sieve. The bran that remains can be used in granola or added to bread dough
 4. **Let flour cool** — If milling produces warm flour, let it cool to room temperature before using (warm flour ferments too quickly in sourdough)
 
 ### After Milling
 
-1. **Use immediately or store briefly** — Fresh flour is at peak nutrition within hours of milling
-2. **Short-term storage** — Room temperature in a paper bag or breathable container for 1-2 weeks
-3. **Longer storage** — Refrigerate for up to 1 month, freeze for up to 3 months
-4. **Do not store fresh flour in sealed containers at room temperature** — The oils in the germ will go rancid
+## See Also
 
-## Grain Storage
+- [[natural-farming-guide-no-till-grain-strategy]]
+- [[grain-to-grain-transfer]]
+- [[grain-processing-and-milling-guide]]
+- [[working-with-agar-grain-to-agar-transfer-techniques]]
+- [[fukuoka-winter-grain-rice-rotation]]

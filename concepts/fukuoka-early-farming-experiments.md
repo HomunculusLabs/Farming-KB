@@ -11,19 +11,7 @@ sources:
 
 # Early Farming Experiments
 
-When Masanobu Fukuoka returned to his family farm on Shikoku Island around 1938, he began a series of [[fukuoka-natural-vs-scientific-farming]] method. His [[fukuoka-vegetable-disease-insect-resistance]] and his understanding of [[fukuoka-why-tillage-destroys-soil]].
-
-## The Orchard Ecosystem
-
-Simultaneously, Fukuoka was developing his orchard into a multi-layered ecosystem. He planted a border of trees and shrubs to serve as a windbreak and [[query-how-do-i-design-habitat-for-beneficial-insects]] insects. He allowed weeds to grow freely, observing which species appeared and how they interacted with the [[comparison-pruning-fruit-trees-vs-grafting-fruit-trees]].
-
-Over time, the orchard became a self-sustaining ecosystem that produced fruit, eggs, and vegetables without any external inputs. More than twenty types of trees and several hundred kinds of weeds grew together in a complex, interdependent community.
-
-## Learning from Failure
-
-Fukuoka was not afraid of failure. Every setback was an opportunity to learn. When a crop failed, he asked not "how can I prevent this?" but "what is nature trying to tell me?" This attitude of openness to nature's feedback was the key to his success. He never forced a solution but waited for nature to reveal it.
-
-See also: [[fukuoka-personal-journey]], [[fukuoka-seed-ball-one-seed-technique]], [[fukuoka-do-nothing-farming-philosophy]]
+When Masanobu Fukuoka returned to his family farm on Shikoku Island around 1938, he began a series of [[fukuoka-vegetable-disease-insect-resistance]] and his understanding of [[query-how-do-i-design-habitat-for-beneficial-insects]] insects. He allowed weeds to grow freely, observing which species appeared and how they interacted with the [[fukuoka-personal-journey]], [[fukuoka-do-nothing-farming-philosophy]]
 ## Practical Applications
 
 Early Farming Experiments has a range of practical applications that make it relevant to
@@ -97,8 +85,6 @@ through generations to modern scientific approaches, the evolution continues
 to inform current best practices and research directions.
 
 ## See Also
-- [[masanobu-fukuoka]]
 - [[doc]]
-- [[det]]
 - [[fukuoka-mahayana-and-hinayana-natural-farming]]
 - [[fukuoka-natural-farming-philosophy-of-mu]]

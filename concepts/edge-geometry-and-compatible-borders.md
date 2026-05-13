@@ -8,48 +8,7 @@ type: concept
 
 ## Overview
 
-The geometry, harmonics, and periodicity of boundaries are among the most powerful design variables available to [[permaculture]] practitioners. By deliberately shaping edges \u2014 making them sinuous, lobular, serrate, or notched \u2014 designers can create micro-habitats, control flows, and dramatically increase productive interface between systems. Equally important is understanding how to select compatible components for placement at these edges, avoiding destructive interactions while fostering mutual benefit.
-
-## The Harmonics and Geometry of Boundaries
-
-The amplitude, configuration, and periodicity of an edge, surface, or boundary may be varied by design to achieve specific effects. Different edge geometries serve different purposes:
-
-### Sinuous Edges
-Smooth, flowing curves follow natural stream patterns and create gentle transitions between systems. They are appropriate where gradual change is desired.
-
-### Lobular Edges
-Rounded protrusions and embayments create sheltered pockets and exposed points within a single boundary. Following hill contours produces lobular edges that afford a variety of micro-habitats:
-
-- Sheltered zones (protected from wind)
-- Wetter zones (where water collects in embayments)
-- Drier zones (on exposed lobes)
-- Hotter zones (sun-facing protrusions)
-- More exposed zones (windward points)
-
-**Keyhole beds** are a practical application of lobular geometry. This pattern, common in nature, allows efficient access to garden beds while maximizing growing area. Parallel paths take up to 50% of ground area; keyhole beds reduce this to less than 30%.
-
-### Serrate (Zig-Zag) Edges
-Zig-zag fences not only stand on their own without continuous support but resist wind-throw much better than straight barriers. The serrate pattern breaks up laminar wind flow into smaller, less destructive eddies.
-
-### Notched Edges
-Indented edges create protected niches that serve as micro-refuges. Notched pond margins, for example, create still-water zones for aquatic plants and breeding amphibians alongside deeper, flowing sections.
-
-### Smoothed Edges
-Where efficient flow is desired, edges should be deliberately smoothed. Wind or hydraulic energy generation systems use smooth, even conduits to minimize turbulence losses. This is the deliberate opposite of creating turbulence in salmon streams using weirs.
-
-## Surface Manipulation
-
-Surfaces can be modified in numerous ways to achieve specific effects on boundaries:
-
-- **Pitted** \u2014 Creating small depressions for water collection or seed trapping
-- **Ridged** \u2014 Directing flow or creating windbreaks
-- **Spiralled** \u2014 Guiding flow in rotational patterns
-- **Mounded** \u2014 Creating raised micro-habitats or frost protection
-- **Tessellated** \u2014 Creating complex grid patterns of micro-zones
-- **Tassled with plants or brush** \u2014 Slowing wind and capturing moisture
-- **Paved** \u2014 Stabilizing surfaces for specific functions
-- **Sprayed to stabilize mulch** \u2014 Preventing erosion of applied organic matter
-- **Mulched** \u2014 [[building-soil]] and moderating temperature
+The geometry, harmonics, and periodicity of boundaries are among the most powerful design variables available to [[building-soil]] and moderating temperature
 - **Smoothed for water run-off** \u2014 Directing water flow to specific collection points
 
 ### Water Surface Design
@@ -58,17 +17,7 @@ Water surfaces can be partitioned or shaped to reduce wind effect, or designed t
 
 ## Edge Cropping
 
-The concept of **[[edge-cropping]]** applies edge-effect principles to agricultural production. Many crops yield much better on the crop edge than within the crop mass:
-
-- **Wheat** and **pulse grains** show markedly higher yields at field edges
-- **Trees that bear on the crown** benefit from edge exposure
-- **Mass-planted vegetable species** outperform at margins
-
-### The Edge Cropping Method
-
-The procedure for implementing edge cropping:
-
-1. **Measure the [[edge-effect]] width** \u2014 Determine how far into each crop the enhanced yield extends (e.g., 1 m for wheat, 1 m for lucerne).
+The concept of **[[edge-effect]] width** \u2014 Determine how far into each crop the enhanced yield extends (e.g., 1 m for wheat, 1 m for lucerne).
 2. **Calculate double-edge width** \u2014 The combined edge from both sides (e.g., 2 m total).
 3. **Sow in alternating strips** \u2014 Plant crops in strips matching the double-edge width.
 4. **Achieve near-total edge** \u2014 The entire field becomes edge, approximately doubling yield per unit area.
@@ -145,3 +94,11 @@ This rule connects directly to the concept of **guilds** \u2014 mutually-benefic
 4. **Insert mediators for incompatibility** \u2014 When systems conflict, place a mutually-compatible component between them.
 5. **Mosaic over monoculture** \u2014 Many small areas of difference produce better average results than uniform systems.
 6. **Differences are resources** \u2014 Designing differences into a system builds resources; smoothing differences depletes them.
+
+## See Also
+
+- [[urban-permaculture-edge-effect-microclimate]]
+- [[edge-effect-in-permaculture]]
+- [[bill-mollison-permaculture-a-designers-manual-edge-effect-and-ecotone-design]]
+- [[boundary-conditions-and-edge-effect]]
+- [[edge-cropping]]

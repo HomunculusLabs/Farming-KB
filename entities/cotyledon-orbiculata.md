@@ -109,13 +109,8 @@ Older plants develop a dense woody framework that persists for decades. Some doc
 
 ## See Also
 
-- [[cotyledon-tomentosa]]
 - [[crassula-ovata]]
-- [[kalanchoe-blossfeldiana]]
 - [[aeonium-arboreum]]
-- [[echeveria-elegans]]
 - [[haworthia-fasciata]]
-- [[portulacaria-afra]]
 - [[aloe-arborescens]]
-- [[sedum-acre]]
 - [[gasteria-verrucosa]]

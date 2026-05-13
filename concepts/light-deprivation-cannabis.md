@@ -13,9 +13,7 @@ tags: [cannabis]
 Light deprivation (also called "light dep" or blackout) is a cultivation technique used to
 induce flowering in cannabis by artificially shortening the daily light period to 12 hours.
 The method is widely employed in greenhouse and outdoor growing to control the
-[[greenhouse-cannabis-growing]]
-- Eliminates dependence on seasonal light changes
-- Allows precise control over [[cannabis-hermaphrodite-prevention-and-management]] tendencies
+[[cannabis-hermaphrodite-prevention-and-management]] tendencies
 - Heat buildup under blackout material can damage plants if not ventilated
 - Adds complexity to the growing operation
 - Automated systems can be expensive for small-scale growers
@@ -25,14 +23,7 @@ The method is widely employed in greenhouse and outdoor growing to control the
 If work must be done during the dark period, growers can illuminate the area with a green
 light. Cannabis plants do not respond to green light wavelengths, so it does not
 interrupt the flowering signal. This allows growers to tend plants during the dark period
-without disrupting the [[autoflowering-cannabis]] varieties, which
-flower based on age rather than light cycle.
-
-## Light Deprivation vs. Indoor 12/12
-
-The key difference between light deprivation and indoor [[hps-grow-lights]] or [[photoperiod-cannabis]] -- the biological basis for light deprivation
-- [[greenhouse-cannabis-growing]] -- primary setting for light dep
-- [[autoflowering-cannabis]] -- varieties unaffected by photoperiod
+without disrupting the [[hps-grow-lights]] or [[greenhouse-cannabis-growing]] -- primary setting for light dep
 - [[outdoor-cannabis-growing]] -- outdoor light dep applications
 ## Practical Applications
 

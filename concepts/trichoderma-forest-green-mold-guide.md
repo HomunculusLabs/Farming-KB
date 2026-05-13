@@ -10,23 +10,15 @@ sources:
 
 # Trichoderma Forest Green Mold Guide
 
-Trichoderma is the most common and damaging mold contaminant in [[accessible-mushroom-cultivation-for-disabilities]]. Known as the Forest Green Mold, Trichoderma species are aggressive competitors that can rapidly overtake mushroom cultures, particularly during the cropping phase when environmental conditions favor both [[pf-tek-mushroom-growth-timeline]] and mold proliferation. Understanding its identification, prevention, and control is essential for every mushroom cultivator.
+Trichoderma is the most common and damaging mold contaminant in [[pf-tek-mushroom-growth-timeline]] and mold proliferation. Understanding its identification, prevention, and control is essential for every mushroom cultivator.
 
-See mushroom-contamination-control-strategies for general prevention methods, and [[mushroom-cultivation-problems]] for a comprehensive troubleshooting reference.
-
-## Trichoderma and Spawn Running
-
-During the spawn run phase, Trichoderma is less common but potentially devastating. If the compost heats excessively during colonization and kills the grain inoculum, the dead grain becomes a nutrient source for Trichoderma. The mold colonizes the dead kernels, sporulates heavily, and then spreads to the surrounding compost. This scenario is most common when spawn run temperatures exceed the recommended range or when the compost is too dense and generates excess heat through microbial activity.
-
-Preventing this requires careful monitoring of compost temperatures during spawn running, particularly in the first few days after spawning when microbial activity is highest. If temperatures approach dangerous levels, increasing [[stamets-growing-room-air-circulation-co2-management]] or reducing the depth of the compost fill can help bring temperatures back into the safe range.
+See mushroom-contamination-control-strategies for general prevention methods, and [[stamets-growing-room-air-circulation-co2-management]] or reducing the depth of the compost fill can help bring temperatures back into the safe range.
 
 ## Relationship to Other Contaminants
 
 Trichoderma often appears alongside or following other contaminant problems. Bacterial contamination in compost creates conditions that favor Trichoderma by producing wet, nutrient-rich areas. Insect pests, particularly mushroom flies and mites, can carry Trichoderma spores from contaminated areas to clean cultures, acting as vectors for spread.
 
-For this reason, Trichoderma control should be part of an integrated approach that also addresses bacterial contamination, insect pests, and general facility hygiene. A clean [[cannabis-growing-environment-setup]] with proper [[eclss-environmental-control-life-support]] is the best defense against all contaminants simultaneously. See mushroom-contamination-control-strategies
-- [[bulk-substrate-preparation]]
-- trichoderma forest green mold guide
+For this reason, Trichoderma control should be part of an integrated approach that also addresses bacterial contamination, insect pests, and general facility hygiene. A clean [[eclss-environmental-control-life-support]] is the best defense against all contaminants simultaneously. See mushroom-contamination-control-strategies
 - [[mycelium-running-pest-control-with-fungi]]
 - [[mushroom-cultivation-pests-mites-flies]]
 ## Practical Applications

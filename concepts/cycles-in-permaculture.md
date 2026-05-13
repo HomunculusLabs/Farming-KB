@@ -6,7 +6,7 @@ type: concept
 
 # Cycles in Permaculture
 
-Cycles are fundamental organizing principles in [[permaculture-design]]. [[bill-mollison]]
+Cycles are fundamental organizing principles in [[bill-mollison]]
 describes a cycle as **"a niche in time"** — a recurring event or phenomenon that
 represents a diversion from the inevitable trend of entropy. Living systems
 capture, transform, and redirect energy and materials through repeated loops,
@@ -27,36 +27,10 @@ Mollison uses geese as a vivid illustration of a functional nutrient cycle:
 - Digestive systems process and concentrate nutrients
 - Defecation returns enriched waste to the soil surface
 - Fungi, bacteria, and grass roots work on the waste material
-- [[decomposition]] regenerates the living system, completing the loop
-
-This shows how a single animal acts as a mobile nutrient concentrator, linking
-grazing, digestion, and decomposition into one self-reinforcing cycle.
-
-### Pigeon Lofts as Phosphate Factories
-
-Mediterranean farmers historically built pigeon lofts above their fields so that
-droppings — rich in phosphate — would fall directly onto cultivated soil. This
-is a designed cycle: housing a species to harvest its metabolic waste.
-
-## Uniqueness and Diversity of Cycles
-
-No two cycles are identical. Each differs in diet, season, weather, digestion,
-and the specific microbial and fungal communities involved. Because each cycle
-is unique, the **number of cycles** in a system directly determines its
-**potential for diversity**. More cycles mean more niches, more interactions,
-and more opportunities for novelty.
-
-## Degenerative vs. Regenerative Cycles
-
-Mollison distinguishes between two fundamental tendencies:
-
-- **Degenerative cycles** — processes that simplify, deplete, or break down
-  living systems (e.g., erosion, pesticide contamination, soil exhaustion)
-- **Regenerative cycles** — processes that rebuild complexity, fertility, and
-  biological capacity (e.g., [[composting]], succession, polyculture grazing)
+- [[composting]], succession, polyculture grazing)
 
 The balance between these determines the **number of opportunities** in any
-system. **Biocides** destroy the organisms responsible for decomposition and
+system. **Biocides** destroy the organisms responsible for [[decomposition]] and
 nutrient transfer, collapsing cycling opportunity entirely.
 
 ## People and Cycles

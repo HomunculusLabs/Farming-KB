@@ -82,9 +82,8 @@ communities, and systematic experimentation to build expertise.
 
 ---
 
-Source: [[fukuoka-white-clover-cover-crop-system]]
-- [[fukuoka-barley-winter-grain-method]]
-- [[masanobu-fukuoka-natural-farming-philosophy]] rice [[fukuoka-textdoc-barley-cultivation-three-stage-no-tillage-evolution]]
+Source: [[fukuoka-barley-winter-grain-method]]
+- [[fukuoka-textdoc-barley-cultivation-three-stage-no-tillage-evolution]]
 
 ## Practical Applications
 
@@ -115,8 +114,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[doc]]
 - [[permaculture]]
-- [[fukuoka-rice-barley-cultivation-history-no-tillage-method]]
 - [[fukuoka-clover-revolution-rice-barley-wheat-cultivation]]
 - [[fukuoka-direct-seeding-rice-barley-cultivation]]

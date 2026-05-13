@@ -97,39 +97,12 @@ deforestation and monoculture forestry, which eliminate the diverse root
 systems that held water and nutrients; land consolidation and drainage,
 which removes the ponds, wetlands, and hedgerows that maintained
 hydrological balance; and industrial agriculture, which kills soil life with
-[[cervantes-chemical-fertilizers-guide]] and pesticides while depleting organic matter. The World
-Food Programme reports that up to seven million hectares of farmland are lost
-annually through erosion, salinisation, and soil drying.
-
-Case studies from Holzer's observations illustrate the pattern. Attica in
-Greece, once covered with cattle pastures and mountain forests, is now
-desert, and the same process is repeating across the Mediterranean. In
-Spain and Portugal, EU policies forced the planting of eucalyptus and pine
-monocultures for wood production, and forest fires have become regular
-disasters. In Russia, massive deforestation and peatland drainage have left
-vast areas degraded, with peat fires burning several metres deep. The
-pattern is consistent: remove vegetation, break the water cycle, and desert
-follows.
-
-## Three Categories of Arid Zone Design
-
-Bill Mollison organized arid zone permaculture strategies into three
-categories that scale from individual survival to landscape transformation.
-## See Also
-
-- arid-zone-permaculture-strategies-mollison — Mollison's arid zone
-  design strategies
-- arid-landscape-permaculture — arid landscape [[holmgren-permaculture-twelve-design-principles-framework]]
-- [[desertification-causes-reversal]] — Holzer on desertification
+[[holmgren-permaculture-twelve-design-principles-framework]]
 - [[desert-gardening]] — practical desert gardening techniques
-- [[desert-revegetation]] — Fukuoka's revegetation methodology
 - [[fukuoka-desert-greening-plant-irrigation]] — plant irrigation concept
 - dryland-permaculture-strategies — dryland design approaches
-- [[drought-gardening-strategies]] — gardening through drought conditions
 - [[keyline-design]] — keyline design principles
-- [[keyline-design-water-management]] — keyline water management
-- [[permaculture-water-harvesting-earthworks]] — water [[pdc-water-harvesting-earthworks-design]]
-- [[holistic-grazing-and-pasture-management]] — grazing to prevent
+- [[permaculture-water-harvesting-earthworks]] — water [[holistic-grazing-and-pasture-management]] — grazing to prevent
   desertification
 
 ## References

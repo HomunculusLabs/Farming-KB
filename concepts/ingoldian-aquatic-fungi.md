@@ -19,10 +19,7 @@ type: concept
 
 # Ingoldian Aquatic Fungi
 
-Ingoldian fungi (also called [[ingoldian-hyphomycetes-spore-dispersal-in-water]]) are a group of aquatic
-and semi-aquatic microfungi that produce conidia of extraordinary geometric
-complexity, including star-shaped (tetraradiate), crescent-shaped, sigmoid,
-and helically coiled spores. Named for their discoverer, Cecil [[terence-ingold-mycologist]],
+Ingoldian fungi (also called [[terence-ingold-mycologist]],
 who first described them in foam collected from a brook near his home in
 Leicester in 1938, more than 300 species have since been identified worldwide,
 generating over 1,000 scientific publications.
@@ -71,12 +68,7 @@ a second point to prevent further disturbance.
 Some Ingoldian species combine these features, producing spores that resemble
 balloon animals created by party entertainers: multiple arms, curves, and
 helices integrated into single structures. This morphological diversity
-reflects the wide range of [[biodiversity-fungi-freshwater-aquatic-habitats]] colonized by the group.
-
-## Hydrodynamic Function
-
-### Why Not Slower Sedimentation?
-The unusual shapes of [[aquatic-fungi-and-ingoldian-spores]] were initially thought to slow their
+reflects the wide range of [[aquatic-fungi-and-ingoldian-spores]] were initially thought to slow their
 descent through the water column, increasing time available for encountering a
 submerged leaf before settling into bottom sediment. However, meticulous
 experiments demonstrated that spores with microscopic arms fall through water
@@ -86,40 +78,6 @@ Water is a viscous medium for microscopic particles, slowing descent to
 millimeters per minute regardless of appendage presence. If appendages truly
 slowed sedimentation, elaborate spore shapes would be expected in terrestrial
 fungi too, where faster descent in air places an even greater premium on drag.
-But [[query-how-to-store-mushroom-spores-long-term]] and airborne conidia are always compact, confirming that
-any appendage on a microscopic spore adds unwelcome mass and speeds descent.
-
-## Practical Applications
-
-The principles and techniques discussed here have wide-ranging applications
-across multiple disciplines and contexts. Practitioners and researchers
-continue to explore new ways to integrate these concepts into modern practice,
-adapting traditional knowledge to contemporary challenges and opportunities.
-
-## Key Considerations
-
-Several important factors influence the effectiveness and outcomes described
-in this topic. Understanding these considerations helps practitioners make
-informed decisions and avoid common pitfalls. Environmental conditions,
-timing, and material selection all play critical roles.
-
-## Historical Context
-
-The historical development of this subject reflects centuries of accumulated
-knowledge and practical experience. From traditional methods passed down
-through generations to modern scientific approaches, the evolution continues
-to inform current best practices and research directions.
-
-## Common Challenges
-
-Practitioners frequently encounter several challenges when working with
-these concepts. Climate variability, resource limitations, and knowledge
-gaps can all affect outcomes. Addressing these challenges requires patience,
-observation, and a willingness to adapt approaches based on results.
-
-## See Also
-- [[det]]
-- [[spore]]
+But [[det]]
 - [[bloomfield-ingoldian-aquatic-fungi-tetraradiate-spores-foam]]
-- [[ingoldian-aquatic-fungi-and-spore-dispersal]]
 - [[bloomfield-ingoldian-aquatic-fungi-spore-dispersal]]

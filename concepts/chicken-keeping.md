@@ -9,7 +9,7 @@ sources: []
 
 # Chicken Keeping
 
-Chickens are the most accessible and productive livestock for homesteads of any size. A small flock of 4-12 hens provides a steady supply of eggs, produces valuable manure for [[composting-systems]], controls insects, and processes food waste. They integrate naturally into [[permaculture-zones-in-practice]] as a Zone 2 element and contribute to the [[integrated-homestead-annual-calendar]] through nutrient cycling, pest control, and food production.
+Chickens are the most accessible and productive livestock for homesteads of any size. A small flock of 4-12 hens provides a steady supply of eggs, produces valuable manure for [[composting-systems]], controls insects, and processes food waste. They integrate naturally into [[permaculture-zones-in-practice]] as a Zone 2 element and contribute to the integrated homestead through nutrient cycling, pest control, and food production.
 
 ## Breed Selection
 
@@ -61,14 +61,14 @@ Bred for maximum egg production (250-320 eggs/year):
 - **Roosting bars**: 8-10 inches linear space per bird, 2-4 feet off ground, 2x4 lumber flat side up
 - **Nesting boxes**: One per 3-4 hens, 12x12x12 inches minimum, 18-24 inches off ground, dark and private
 - **Ventilation**: Critical — ammonia from manure causes respiratory disease. Vents near roofline with predator-proof covers. Cold dry air is less dangerous than warm humid ammonia-laden air.
-- **[[fukuoka-natural-predator-protection]]**: Hardware cloth (1/2 inch mesh) on all openings — not chicken wire. Secure floor, walls, ceiling. Raccoons can open simple latches; use carabiner clips.
+- **Predator protection**: Hardware cloth (1/2 inch mesh) on all openings — not chicken wire. Secure floor, walls, ceiling. Raccoons can open simple latches; use carabiner clips.
 - **Floor**: Dirt or concrete. Deep litter method works well on dirt floors.
 - **Door**: Pop door (12x12 inches) with automatic opener option. Human access door for cleaning.
 
 ### Coop Types
 
 - **Stationary coop**: Permanent structure with attached run. Most common. Easier to predator-proof.
-- **[[chicken-tractor-systems]]**: Mobile coop on wheels/skids moved to fresh ground daily. Chickens fertilize and till soil. Excellent for [[no-till-gardening-method]] integration. Best for spring-fall.
+- **Chicken tractor**: Mobile coop on wheels/skids moved to fresh ground daily. Chickens fertilize and till soil. Excellent for [[no-till-gardening-method]] integration. Best for spring-fall.
 - **Coop and run**: Stationary coop with large fenced outdoor run. Cover run with wire/netting for aerial predator protection.
 
 ### Deep Litter Method
@@ -90,7 +90,7 @@ Bred for maximum egg production (250-320 eggs/year):
 
 - **Kitchen scraps**: Vegetable peels, fruit, bread, rice, pasta — up to 10% of diet. No avocado, onion, garlic, chocolate, or salty foods.
 - **Scratch grains**: Corn, wheat, oats. Treat only. Scatter to encourage foraging. Best in late afternoon for overnight energy.
-- **Protein supplements**: Mealworms, black [[black-soldier-fly-larvae-as-feed]], fish scraps. Especially valuable during molting and winter.
+- **Protein supplements**: Mealworms, black soldier fly larvae, fish scraps. Especially valuable during molting and winter.
 
 ### Water
 
@@ -118,7 +118,7 @@ Bred for maximum egg production (250-320 eggs/year):
 
 ### Common Health Issues
 
-- **Mites and lice**: External parasites causing anemia, stress, reduced production. Treat with [[query-how-to-use-diatomaceous-earth-in-the-garden]] dust bath areas, permethrin spray in coop.
+- **Mites and lice**: External parasites causing anemia, stress, reduced production. Treat with diatomaceous earth in dust bath areas, permethrin spray in coop.
 - **Respiratory disease**: Often from poor ventilation. Symptoms: sneezing, coughing, swollen eyes.
 - **Egg-bound hen**: Egg stuck in reproductive tract. Lethargy, straining, penguin walk. Warm bath and calcium may help.
 - **Crop impaction**: Blockage from long grass, string, insufficient grit. Massage crop, provide olive oil and water.

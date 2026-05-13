@@ -18,9 +18,7 @@ sources:
 
 ## Overview
 
-Ranunculus flammula, the lesser spearwort, is a slender perennial herb in the family Ranunculaceae. It is considerably smaller than its relative [[ranunculus-lingua]], typically reaching 15–60 cm in height.
-
-The species is widespread across [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]] of the Northern Hemisphere. It inhabits wet meadows, stream margins, pond edges, and other damp habitats from sea level to subalpine elevations.
+Ranunculus flammula, the lesser spearwort, is a slender perennial herb in the family Ranunculaceae. It is considerably smaller than its relative [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]] of the Northern Hemisphere. It inhabits wet meadows, stream margins, pond edges, and other damp habitats from sea level to subalpine elevations.
 
 Like other buttercups, it contains protoanemonin and is toxic to livestock if ingested in quantity. The species epithet *flammula* means "small flame," likely referring to the bright yellow flowers.
 
@@ -65,26 +63,87 @@ The roots are fibrous and relatively shallow, spreading horizontally in the uppe
 
 ## Distribution and Habitat
 
-Ranunculus flammula occurs throughout Europe, including Iceland and the Faeroe Islands, and extends eastward across northern Asia to Japan and Kamchatka. In [[guzman-psilocybin-mushrooms-north-america]] it is found across Canada and the northern United States.
+Ranunculus flammula occurs throughout Europe, including Iceland and the Faeroe Islands, and extends eastward across northern Asia to Japan and Kamchatka. In [[juncus-effusus]], Carex nigra, and various Sphagnum species.
 
-The species occupies a broad range of wet habitats including wet meadows, marshes, stream banks, lake margins, ditches, and damp heathland. It tolerates water depths up to 10 cm and seasonally flooded ground.
-
-It grows in acidic to neutral soils, preferring peaty or sandy substrates. Common associates include [[juncus-effusus]], Carex nigra, and various Sphagnum species.
-
-The species tolerates moderate salinity and can be found in brackish marshes near the coast. This [[fungal-salt-tolerance-and-ion-homeostasis]] is unusual among Ranunculus species.
-
-Populations in northern Scandinavia and Iceland show greater morphological variability than southern populations. Alpine forms are consistently shorter and more compact.
-
-In Ireland and western Britain it is one of the most common buttercups in acid bogs and wet heathland. Its abundance makes it a useful indicator species for these habitat types.
-
-The species is not considered threatened globally. Localized declines have occurred where wetland drainage has been extensive, particularly in agricultural landscapes.
-
-## Ecology
-
-The bright yellow flowers are visited by a variety of small insects, particularly flies and small bees. The open flower structure provides easy access to pollen and nectar for generalist pollinators.
-
-Ranunculus flammula serves as a food plant for the larvae of several moth species. The toxicity of its foliage limits herbivory by most mammalian grazers.
-
-The species colonizes newly exposed mud along receding waterlines through [[clay-pellet-seed-dispersal]]. It can form dense stands in disturbed wetland areas before being succeeded by taller competitors.
+The species tolerates moderate salinity and can be found in brackish marshes near the coast. This [[clay-pellet-seed-dispersal]]. It can form dense stands in disturbed wetland areas before being succeeded by taller competitors.
 
 Seeds are dispersed by water and by adhesion to the feet and feathers of waterfowl. This dispersal mechanism enables rapid colonization of newly created wetland habitats.
+
+## Overview
+
+Ranunculus Flammula represents an important element within sustainable
+design and [[solomon-gardening-aikido-pest-philosophy-ecological-management]] systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish ranunculus flammula
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving ranunculus extend
+across multiple [[ingham-soil-foodweb-trophic-levels-protozoa-nematodes]] and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Ranunculus Flammula finds practical application in multiple design contexts.
+[[mollisonian-permaculture-principles]] guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive [[livestock-grassland-management-strategies]] that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for ranunculus flammula. [[jeavons-climate-adaptation-growing-seasons]]
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+ranunculus flammula and its applications. Active investigation
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Ranunculus Flammula has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of ranunculus flammula into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also

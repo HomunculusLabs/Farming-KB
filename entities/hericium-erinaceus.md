@@ -22,7 +22,7 @@ sources:
 
 ## Overview
 
-*Hericium erinaceus*, commonly known as **Lion's Mane**, is an edible and [[gourmet-medicinal-mushroom-casing-layer-techniques]] belonging to the family Hericiaceae. Recognizable by its cascading white spines resembling a lion's mane, this basidiomycete fungus has garnered significant scientific attention for its neuroprotective and neuroregenerative properties. It is found growing on hardwood trees, particularly oak, walnut, beech, and maple, across [[guzman-psilocybin-mushrooms-north-america]], Europe, and Asia.
+*Hericium erinaceus*, commonly known as **Lion's Mane**, is an edible and [[guzman-psilocybin-mushrooms-north-america]], Europe, and Asia.
 
 ## Taxonomy
 
@@ -52,48 +52,7 @@ Erinacines (A–K) are cyathin-terpenoids produced by the mycelium. Erinacine A 
 
 ### Beta-Glucans
 
-Like many [[medicinal-mushrooms]], *H. erinaceus* contains β-(1,3)-(1,6)-D-glucans that modulate immune function through activation of macrophages, natural killer cells, and dendritic cells.
-
-## Pharmacology and Health Benefits
-
-### Cognitive Function and Neuroprotection
-
-- **NGF Stimulation**: Both hericenones and erinacines upregulate NGF gene expression, supporting neuronal survival, differentiation, and synaptic plasticity.
-- **Myelin Formation**: Animal studies demonstrate enhanced myelination of peripheral nerves following supplementation.
-- **Memory Enhancement**: Double-blind placebo-controlled trials in Japan showed significant improvement in cognitive function scores in older adults with mild cognitive impairment after 16 weeks of supplementation (3 g/day).
-- **Neurodegenerative Disease**: Preliminary research explores potential benefits in Alzheimer's and Parkinson's disease models, with reductions in amyloid-beta plaque formation observed in murine studies.
-
-### Gastrointestinal Health
-
-Traditional Chinese Medicine has used *H. erinaceus* for gastric ulcers. Modern studies confirm anti-inflammatory effects on gastric mucosa and inhibition of *Helicobacter pylori* growth in vitro.
-
-### Anti-Depressant and Anxiolytic Effects
-
-A 2019 randomized controlled trial found reduced depression and anxiety scores in overweight subjects after 8 weeks of supplementation, potentially mediated through anti-inflammatory pathways and hippocampal neurogenesis.
-
-## Cultivation
-
-### Substrate Requirements
-
-- **Primary substrates**: Hardwood sawdust (oak, beech), supplemented with wheat bran (10–20%)
-- **pH range**: 5.0–6.5
-- **Temperature**: Incubation at 20–22°C; fruiting at 15–18°C
-- **Humidity**: 85–95% during fruiting
-- **CO₂**: Below 1000 ppm for optimal spine development
-
-### Growth Cycle
-
-Colonization completes in 14–21 days. Primordia form in response to temperature drop and increased fresh air exchange. Fruiting body matures in 7–14 days from pin formation. Commercial yields average 100–150 g fresh weight per kg substrate on first flush.
-
-### Outdoor Cultivation
-
-Can be cultivated on logs (totems or plugged holes) using oak or maple. Inoculated logs fruit in 6–12 months and continue producing for 2–4 years. Preferred in shaded, humid environments.
-
-## Traditional and Ethnobotanical Use
-
-- **Traditional Chinese Medicine**: Used for centuries to support digestive health, liver function, and cognitive vitality. Known as *hóu tóu gū* (猴头菇, "monkey head mushroom").
-- **Japanese Folk Medicine**: Called *yamabushitake* (山伏茸) after the yamabushi monks whose flowing robes resemble the mushroom's spines.
-- **Native American Use**: Some tribes in the [[psilocybin-north-america-pacific-northwest]] reportedly used *Hericium* species as food and for wound healing.
+Like many [[psilocybin-north-america-pacific-northwest]] reportedly used *Hericium* species as food and for wound healing.
 
 ## Safety and Dosage
 
@@ -108,9 +67,7 @@ Wild populations face pressure from habitat loss and overharvesting. *H. erinace
 
 ## See Also
 
-- [[ganoderma-lucidum]] — Reishi mushroom, another key medicinal basidiomycete
 - [[psilocybin]] — Psychedelic compound from Psilocybe species
-- [[mycelium]] — The vegetative network of fungi
 - [[mycoremediation]] — Using fungi for environmental cleanup
 - [[herbal-medicine-making-basics]] — Class of compounds helping the body resist stressors
 
@@ -120,3 +77,73 @@ Wild populations face pressure from habitat loss and overharvesting. *H. erinace
 2. Kawagishi, H. et al. (2004). "Hericenones and erinacines: stimulators of nerve growth factor synthesis." Neurochemistry Research, 29(1), 155–160.
 3. Stamets, P. (2005). *Mycelium Running: How Mushrooms Can Help Save the World*. Ten Speed Press.
 4. Wong, J.Y. et al. (2017). "Hericium erinaceus activates brain-derived neurotrophic factor." Evidence-Based Complementary and Alternative Medicine.
+
+## Overview
+
+Hericium Erinaceus represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish hericium erinaceus
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving hericium extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Hericium Erinaceus finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for hericium erinaceus. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+hericium erinaceus and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Hericium Erinaceus has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of hericium erinaceus into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.

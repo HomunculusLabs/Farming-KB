@@ -12,18 +12,10 @@ sources:
 # Ocimum basilicum
 
 Ocimum basilicum, commonly known as sweet basil, is an aromatic annual herb
-in the mint family (Lamiaceae). Native to tropical South and [[psilocybe-southeast-asia-pacific]],
-it has been cultivated for over 5,000 years and is now one of the most widely
-grown [[holzer-medicinal-and-culinary-herbs-compendium]] worldwide. The species is central to Mediterranean,
+in the mint family (Lamiaceae). Native to tropical South and [[holzer-medicinal-and-culinary-herbs-compendium]] worldwide. The species is central to Mediterranean,
 Italian, Thai, Vietnamese, and Indian cuisines, and holds deep cultural
 significance in Hindu traditions.
-Basil is rich in volatile [[comparison-essential-oils-vs-neem-oil-vs-insecticidal-soap]] — primarily linalool, eugenol, and
-methyl chavicol — that confer its characteristic aroma and many medicinal
-properties. It has a long history in Ayurveda, Unani, and European folk
-herbalism as a digestive aid, carminative, and anti-inflammatory agent.
-Modern research has validated antioxidant, antimicrobial, and anxiolytic
-properties. The genus contains over 60 species; basil is also valued in
-[[comparison-companion-planting-reference-vs-jadam-monoculture-critique]] and permaculture systems for [[foliar-pest-deterrence-aact-mechanisms]] and
+Basil is rich in volatile [[comparison-companion-planting-reference-vs-jadam-monoculture-critique]] and permaculture systems for [[foliar-pest-deterrence-aact-mechanisms]] and
 pollinator attraction.
 
 ## Taxonomy and Naming

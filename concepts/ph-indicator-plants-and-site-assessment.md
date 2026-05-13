@@ -8,7 +8,7 @@ type: concept
 
 ## Plant pH Preferences in the Garden
 
-Understanding which plants prefer acid or alkaline conditions is essential for garden planning and site assessment. While [[soil-testing]] provides precise measurements, the plants themselves are reliable living indicators of [[soil-ph]] conditions.
+Understanding which plants prefer acid or alkaline conditions is essential for garden planning and site assessment. While [[soil-ph]] conditions.
 
 ## Alkaline-Intolerant Plants (pH 4.5-6.0)
 
@@ -20,45 +20,7 @@ These plants thrive in acidic to slightly acidic soils and will struggle or fail
 - **Endive** — Leafy salad green related to chicory
 - **Potato** — Tuber crop; more susceptible to scab disease in alkaline soils
 - **Fennel** — Aromatic herb and vegetable
-- **Tea** (*[[camellia-sinensis]]*) — Classic acid soil crop
-- **Shallot** — Allium family member preferring slightly acid conditions
-- **Coffee** — Tropical evergreen requiring acid conditions
-- **Watermelon** — Heat-loving vine crop
-- **Rhubarb** — Perennial vegetable preferring acid soil
-
-## Alkaline-Tolerant Plants (pH 7.0-8.5)
-
-These plants tolerate or prefer alkaline conditions and can be used as indicator species for higher pH soils:
-
-- **Cauliflower** — Brassica family; performs well in limed soils
-- **Cabbage** — Similar pH tolerance to cauliflower
-- **Asparagus** — Long-lived perennial; benefits from slightly alkaline conditions
-- **Green peas** — Cool-season legume
-- **Bush beans** — Warm-season legume
-- **Celery** — Requires consistent moisture and tolerates alkalinity
-- **Leek** — Allium family member tolerant of alkaline soils
-- **Beet** — Root crop that thrives in alkaline conditions
-- **Onion** — Adaptable but prefers neutral to slightly alkaline
-- **Chard** — Leaf beet; very tolerant of alkaline soils
-- **Parsnip** — Root crop preferring neutral to alkaline
-- **Spinach** — Prefers neutral to slightly alkaline conditions
-
-## Acid-Tolerant Plants
-
-These plants can grow in quite acidic soils where many others fail:
-
-- **Lupin** — Nitrogen-fixing legume; pioneer on acidic soils
-- **Rye** — Cereal grain; very acid-tolerant
-- **Oats** — Cereal grain; tolerates wide pH range including acid
-- **Lucerne (Alfalfa)** — Deep-rooted perennial forage; though it prefers neutral pH, it is often grouped with acid-tolerant plants
-- **Broccoli** — Brassica family member with reasonable acid tolerance
-- **White clover** — Nitrogen-fixing ground cover; common in acid pastures
-
-## Practical Garden Implications
-
-### Mulching Overcomes pH Limitations
-
-The most important practical insight is this: providing garden soils are mulched and a little lime is added to [[compost]], virtually all plants thrive in high-[[humus]] soils supplied with some lime at modest levels. The humus acts as a buffer, moderating pH extremes and making nutrients available across a wider range.
+- **Tea** (*[[compost]], virtually all plants thrive in high-[[humus]] soils supplied with some lime at modest levels. The humus acts as a buffer, moderating pH extremes and making nutrients available across a wider range.
 
 ### Perennial Species Need More Care
 
@@ -79,7 +41,7 @@ Beyond cultivated plants, wild species provide reliable pH indication:
 ## Complementary Site Assessment Methods
 
 ### Soil Depth Assessment
-Observe a single tree species (e.g., Acacia, Prosopis, honey locust) across a range of sites. Height and spread differences reveal areas of deeper soils where the largest specimens grow, versus shallow soils where the same species appears dwarfish.
+Observe a single tree species (e.g., [[acacia]], [[prosopis]], honey locust) across a range of sites. Height and spread differences reveal areas of deeper soils where the largest specimens grow, versus shallow soils where the same species appears dwarfish.
 
 ### Water Reserve Indicators
 Deep-rooted trees requiring reliable water (large nut trees, candlenuts) indicate water-lines not associated with valleys and often stand over springs or aquifer discharge areas. In sandy landscapes, clumps of deep-rooted shrubs and trees indicate clay bases at 1-2 m depth.

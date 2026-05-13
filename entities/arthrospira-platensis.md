@@ -17,12 +17,8 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - Habib, M.A.B. et al. (2008). "A review on culture, production and use of
-    spirulina as food for humans and feeds for [[permaculture-domestic-animals]] and fish."
-    [[query-how-do-i-start-black-soldier-fly-farming-for-composting-and-animal-feed]] Science and Technology, 151(2-4), 111-125.
-  - Soni, R.A. et al. (2017). "Microalgae in [[phosphate-accumulators-sustainable-agriculture]] and
-    aquaculture." Journal of Algal Biomass Utilization, 8(1), 31-38.
-  - Khan, Z. et al. (2005). "Role of Spirulina in the control of glycemia and
-    lipidemia in type 2 [[blesching-cannabis-diabetes-mellitus-endocannabinoid-system]]." Journal of Medicinal Food, 8(4),
+    spirulina as food for humans and feeds for query-how-do-i-start-black-soldier-fly-farming-for-composting-and-animal-feed Science and Technology, 151(2-4), 111-125.
+  - Soni, R.A. et al. (2017). "Microalgae in blesching-cannabis-diabetes-mellitus-endocannabinoid-system." Journal of Medicinal Food, 8(4),
     483-486.
   - Deng, R. & Chow, T.J. (2010). "Hypolipidemic, antioxidant, and
     antiinflammatory activities of microalgae Spirulina." Cardiovascular
@@ -89,7 +85,7 @@ latter being the dominant photosynthetic pigment.
   beta-carotene, xanthophylls
 
 ## See Also
+- [[water-quality-in-aquaculture-ponds]]
 
-- [[cervantes-iron-manganese-zinc-micronutrients]]
 - [[commercially-important-pleurotus-species-cultivation-guide]]
 - [[cho-water-soluble-calcium-and-potassium]]

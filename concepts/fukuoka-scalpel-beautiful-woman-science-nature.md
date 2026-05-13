@@ -1,7 +1,7 @@
 ---
 title: The Scalpel and the fukuoka scalpel beautiful woman science nature — Science Dissecting Nature
 source: masanobu-fukuoka-the-natural-way-of-farming-the-theory.md
-author: [[masanobu-fukuoka]]
+author: masanobu-fukuoka
 tags: [fukuoka, philosophy-of-science, reductionism, nature, scientific-method, holistic-thinking]
 ---
 
@@ -9,11 +9,8 @@ tags: [fukuoka, philosophy-of-science, reductionism, nature, scientific-method, 
 
 ## Overview
 
-In *The Natural Way of Farming: The [[microdosing-theory-and-practice]] of [[fukuoka-sowing-green-philosophy-one-grain-revolution]]*, Masanobu
-Fukuoka offers one of his most vivid metaphors for the limitations [[non-discriminating-knowledge-and-critique-of-scientific-reductionism]]:
-"All science has succeeded in doing is to peel the skin off a beautiful woman and reveal a
-bloody mass of tissue. What a miserable, wasted effort." This metaphor captures his central
-critique of the [[fukuoka-limits-scientific-method-agriculture]] as applied to nature — that analytical dissection destroys
+In *The Natural Way of Farming: The [[fukuoka-sowing-green-philosophy-one-grain-revolution]]*, Masanobu
+Fukuoka offers one of his most vivid metaphors for the limitations [[fukuoka-limits-scientific-method-agriculture]] as applied to nature — that analytical dissection destroys
 the very wholeness and beauty that it seeks to understand.
 
 ## Nature as an Indivisible Whole
@@ -24,8 +21,7 @@ cannot be divided and subdivided.
 When nature is separated into two complementary halves and these divided again into four,
 when research becomes fragmented and specialized, the unity of nature is lost.
 
-The factors determining yield in [[jadam-rice-cultivation-methods]] — sunlight, water, soil nutrients,
-temperature, microbial activity, [[query-how-do-parasitoid-wasps-control-pest-populations]] — were not originally divided and separate.
+The factors determining yield in [[query-how-do-parasitoid-wasps-control-pest-populations]] — were not originally divided and separate.
 All were joined in perfect order under a single conductor's baton and resonated together in
 exquisite harmony.
 
@@ -76,8 +72,7 @@ Even a single leaf presents infinite opportunities for study.
 
 The collection of cells forming the leaf; the nucleus harboring the mystery of life; the
 chromosomes holding the key to heredity; the question of how chlorophyll synthesizes starch
-from sunlight and [[carbon-dioxide-retention-jar-lid-mushroom-cultivation]] — these are but a few of the inexhaustible array of topics
-[[psilocybin-isolation-and-early-scientific-research]] has pursued.
+from sunlight and [[psilocybin-isolation-and-early-scientific-research]] has pursued.
 
 Each answer generates new questions. Each level of analysis reveals deeper complexity.
 
@@ -118,8 +113,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[psilocybin]]
 - [[det]]
-- [[fukuoka-science-destroyer-of-nature]]
 - [[fukuoka-textdoc-science-fragmentation-blind-men-elephant-nature]]
 - [[fukuoka-sericulture-nature-vs-science]]

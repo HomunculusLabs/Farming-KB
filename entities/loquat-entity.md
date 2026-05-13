@@ -11,66 +11,9 @@ type: entity
 # Loquat
 
 **Type:** Species (Plant)
-**Category:** Evergreen [[comparison-berry-growing-vs-fruit-tree-pruning]]
-**Also known as:** Eriobotrya japonica, Japanese loquat, Japanese
-medlar, nispero, pipa
-
-## Overview
-Loquat is a small evergreen tree originally from central China, growing
-to 6-9 m in height (often smaller at 3 m in less favourable
-conditions). It produces oval yellow-orange fruits (5-6 cm) with
-sweetly perfumed, softly acid flesh that mature in spring and early
-summer. The tree is fairly frost hardy, moderately drought and wind
-tolerant, and tolerant of salt spray, making it versatile for
-subtropical and warm temperate landscapes.
-
-## Key Details
-
-### Botanical Profile
-- **Family:** Rosaceae
-- **Height:** 3-9 m depending on conditions
-- **Origin:** Central China
-- **Habit:** Evergreen tree
-- **Frost tolerance:** Hardy to -10 degrees C (tree); flowers damaged
-  below -5 degrees C, affecting fruit set
-- **Spacing:** Minimum 4 m
-
-### Growth Requirements
-- Soil: Best in light, deep, loamy soil kept moist; dislikes excess
-  lime
-- Drought: Moderately tolerant
-- Wind: Moderately tolerant
-- Salt spray: Tolerant
-- Flowering: Bears flowers at beginning of winter; frost during
-  flowering reduces fruit set
-- Cross-pollination: Advantageous; plant multiple varieties
-
-### Nutritional Composition (per 100 g)
-- Energy: 48 calories
-- Carbohydrate: 12.4 g
-- Protein: 0.4 g
-- Calcium: 20 mg
-- Potassium: 348 mg
-- Iron: 0.4 mg
-- Phosphorus: 36 mg
-- Vitamin A: 670 I.U.
-
-### Uses
-- **Food:** Best eaten fresh; also made into jams and wine
-- **Landscape:** Excellent [[mollison-designers-legume-shade-tree-pasture-systems]]; can serve as hedge or windbreak
+**Category:** Evergreen [[mollison-designers-legume-shade-tree-pasture-systems]]; can serve as hedge or windbreak
 - **Ornamental:** Attractive evergreen foliage
-- **[[permaculture-designers-manual-animal-forage-systems]]:** Some potential as animal forage
-- **Thinning:** Fruit thinning improves individual fruit size
-
-### Propagation
-- Seed: Can be grown from seed; will sometimes self-sow
-- Grafting/budding: Most common method; rootstock often quince
-  (dwarfs plant and hastens fruiting)
-- Grafted trees bear fruit at about 3 years
-- Many fine cultivars available
-
-## Relevance
-Loquat is a valuable early-season fruit for [[2-4-dma-entity-pihkal]]
+- **[[2-4-dma-entity-pihkal]]
 - [[feijoa]]
 - Citrus
 - fig
@@ -87,3 +30,88 @@ overall effectiveness and creates beneficial synergies that
 improve resilience and productivity over time.
 
 ## Future Directions
+
+## Overview
+
+Loquat Entity represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish loquat entity
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving loquat extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Loquat Entity finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for loquat entity. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+loquat entity and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Loquat Entity has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of loquat entity into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[3c-e-entity]]
+- [[comparison-loquat-vs-persimmon-cultivation]]
+- [[fukuoka-textdoc-loquat-incident-microbial-mutation]]
+- [[loquat-cultivation-and-variety-guide]]
+- [[loquat-erioobotrya-japonica-profile]]

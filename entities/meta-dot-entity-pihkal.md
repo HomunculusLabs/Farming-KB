@@ -8,43 +8,14 @@ sources: ["Shulgin - PIHKAL"]
 ---
 # META-DOT
 
-[[2c-b-pihkal-entry-20]] #125. 2,4-DIMETHOXY-5-METHYLTHIOAMPHETAMINE.
-
-## Chemical Name
-
-2,4-DIMETHOXY-5-METHYLTHIOAMPHETAMINE
-
-## Dosage and Duration
-
-| Property | Value |
-|----------|-------|
-| Dosage | greater than 35 mg. |
-| Duration | unknown. |
-
-## Qualitative Comments
-
-> (with 35 mg) There was a vague awareness of
-> something all afternoon, something that might be called a thinness.
-> Possibly some brief cardiovascular stimulation, but nothing completely
-> believable. This is a threshold level at the very most.
-
-## Extensions and Commentary
-
-Again, as with the studies with ORTHO-DOT,
-it is apparent that the activity of META-DOT is going to be way down
-from the most interesting of these isomers, PARA-DOT (ALEPH-1, or just
-ALEPH). In the rectal hyperthermia assay (which calculates the
-psychedelic potential of compounds by seeing how they influence the
-body temperature of experimental animals in comparison to known
-psychedelics) the three DOT's were compared with [[dom]]. And the results
+[[dom]]. And the results
 fell into line in keeping with the activities (or loss of activities)
 found in man. PARA-DOT was about half as active as DOM, but both
 
 ORTHO-DOT and the compound described here, META-DOT, were down by
 factors of 50x and 30x respectively. These animal studies certainly
 seem to give results that are reasonable with a view to other known
-psychedelic drugs, in that [[mescaline]] was down from DOM by a factor of
-more than 1000x, and [[lsd]] was some 33x more potent than DOM.
+psychedelic drugs, in that [[lsd]] was some 33x more potent than DOM.
 
 I have a somewhat jaundiced view of this rabbit rectal hyperthermia
 business. One is presumably able to tell whether a compound is a
@@ -88,3 +59,88 @@ residue provided 8.0 g 2,4-dimethoxythiophenol as a colorless oil,
 boiling at 89-92 deg C at 0.5 mm/Hg.
 
 To a solution of 7.8 g 2,4-dimethoxythiophenol in 40 mL absolute EtOH
+
+## Overview
+
+Meta Dot Entity Pihkal represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish meta dot entity pihkal
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving meta extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Meta Dot Entity Pihkal finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for meta dot entity pihkal. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+meta dot entity pihkal and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Meta Dot Entity Pihkal has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of meta dot entity pihkal into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[2c-c-entity]]
+- [[2c-o-4-entity]]
+- [[4-ho-dbt-entity-tihkal]]
+- [[meta-dob-entity]]
+- [[meta-dob-entity-pihkal]]

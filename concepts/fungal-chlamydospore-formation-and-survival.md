@@ -30,44 +30,20 @@ into the developing spore. The cell wall becomes progressively thicker and more
 heavily pigmented through melanin deposition. Lipid globules, glycogen, and
 other storage compounds accumulate within the chlamydospore, providing energy
 reserves for subsequent germination. The process is triggered by environmental
-signals and regulated by complex intracellular [[plant-signaling-pathways]], including
-autoregulatory quorum-sensing compounds that coordinate formation with cell
-density and deteriorating environmental conditions.
-
-## Types of Chlamydospores
-
-Chlamydospores are produced by fungi across several major taxonomic groups. In
-the Zygomycota, chlamydospores are common [[fungal-sclerotia-and-resting-structures]] that form within
+signals and regulated by complex intracellular [[fungal-sclerotia-and-resting-structures]] that form within
 substrate or on aerial hyphae. Many Mucorales species produce chlamydospores
 as part of their survival strategy, particularly in response to nutrient
 depletion or desiccation.
 
 In the Ascomycota and Basidiomycota, chlamydospores are produced by many plant
-pathogenic and saprotrophic species. [[bloomfield-candida-albicans-yeast-hyphal-dimorphism]], an important human
-pathogenic yeast, produces chlamydospores as a morphological form associated
-with the yeast-to-hyphal transition. Its signaling pathways regulating
-chlamydospore formation are distinct from those controlling budding and hyphal
-growth, indicating a specifically regulated developmental program. Some fungi
-produce both chlamydospores and sclerotia, providing multiple layers of
-protection influenced by the nature and duration of stress encountered.
-
-## Survival Functions
-
-The primary function of chlamydospores is survival during unfavorable
-conditions. The thick, melanized cell wall provides resistance to desiccation,
-temperature extremes, UV radiation, and [[enzymatic-degradation-in-mycoremediation]] by soil
+pathogenic and saprotrophic species. [[enzymatic-degradation-in-mycoremediation]] by soil
 microorganisms. Melanin acts as a shield against UV radiation and reactive
 oxygen species, while the thick wall prevents water loss and limits diffusion
 of toxic compounds into the spore interior.
 
 Chlamydospores of many species survive in soil for years, forming persistent
 spore banks that maintain fungal populations between favorable growth periods.
-These banks represent a [[biodiversity-fungal-genetic-diversity]] reservoir responsive to environmental
-change or disturbance events such as fire, cultivation, or flooding.
-Chlamydospores also serve limited dispersal functions, being moved through soil
-by water flow, soil fauna, and root growth. In plant pathogenic fungi, soil
-chlamydospores serve as primary inoculum for root infections in subsequent
-[[jeavons-climate-adaptation-growing-seasons]]. Their persistence makes chlamydospore-producing pathogens
+These banks represent a [[jeavons-climate-adaptation-growing-seasons]]. Their persistence makes chlamydospore-producing pathogens
 difficult to control through crop rotation alone.
 
 ## Regulation of Formation
@@ -118,8 +94,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[det]]
 - [[spore]]
-- [[mycoremediation]]
 - [[ascomycota]]
 - [[fungal-microaggregate-formation-and-soil-stability]]

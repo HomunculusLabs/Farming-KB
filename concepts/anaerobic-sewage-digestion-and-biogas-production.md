@@ -104,11 +104,7 @@ In open anaerobic ponds, specialised sulphur bacteria of the genera *Thiosporall
 
 ## Self-Regulating Equilibrium
 
-A key [[permaculture]] insight: the more sludge, the more active the pond. A self-regulated equilibrium soon establishes where input balances gas output. Removing sludge actually slows or stops the process. This is a clear case of leaving well alone — active sludge becomes its own solution, generating a resource (methane) rather than remaining a problem.
-
-## Seasonal Variations
-
-- **Winter** (10–15°C): More hydrogen sulphide released (8–15 mg/L vs summer's 2–5 mg/L); more ammonia released to atmosphere; [[decomposition]] slows and sludge builds up; BOD processing drops to ~495 kg/ha/day
+A key [[decomposition]] slows and sludge builds up; BOD processing drops to ~495 kg/ha/day
 - **Summer** (18–22°C): Residues oxidised to nitrates; oxygen provided more by algae than wind; BOD processing rises to ~1,034 kg/ha/day; almost twice as much methane produced
 - **Winter heating**: Cooling water from methane-powered engines can supply essential heat to digesters via closed-loop pipes
 
@@ -118,6 +114,5 @@ After the anaerobic stage, effluent passes to facultative ponds where conditions
 
 ## See Also
 
-- [[anaerobic-digestion-biogas-production]]
 - [[anaerobic-sewage-digestion-methane]]
 - [[biogas-digesters-and-anaerobic-digestion-systems]]

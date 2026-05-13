@@ -9,72 +9,13 @@ sources:
 ---
 # Edible Aquatic Plants for Permaculture
 
-Water plants provide direct food for humans, fish, and other [[fungi-aquatic-animals-pathogens-parasites]], and oxygenate water. No aquatic system is complete without a diverse range of plants. They fall into four categories: submerged, floating-leaved, emergent, and margin plants. Aquatic systems align with [[hugelkultur-bed-construction-detailed]].
+Water plants provide direct food for humans, fish, and other [[hugelkultur-bed-construction-detailed]].
 
 ## Submerged Plants
 
-Submerged plants are valuable in fish production. Only the flowers may rise above water; roots act only as anchors. Transfer of nutrients, CO2, and oxygen takes place over the entire plant surface. Oxygen released during photosynthesis goes directly into the water, benefiting fish and aerobic bacteria that break down [[hamilton-composting-and-organic-matter-management]].
+Submerged plants are valuable in fish production. Only the flowers may rise above water; roots act only as anchors. Transfer of nutrients, CO2, and oxygen takes place over the entire plant surface. Oxygen released during photosynthesis goes directly into the water, benefiting fish and aerobic bacteria that break down [[halotolerant-halophilic-fungi-salt-tolerant-diversity]]. Propagation from small tubers and crown of main tuber.
 
-### Plankton (Algae, Bacteria, Flagellates, Diatoms)
-A reasonable balance of these organisms can be gained by introducing water from an established aquatic system such as a lake, creek, or large pond. They form the base of the aquatic food web.
-
-## Floating-Leaved Plants
-
-Often directly useful to humans but of less direct benefit to fish. Usually found only in calm waters. Some anchor to the bottom while others float freely. Their leaves shade the water surface, reducing light, heat, and oxygen below.
-
-### Azolla (Azolla spp)
-Family: AZOLLACEAE. Small perennial free-floating fern hosting *Anabaena azolla* algae in its leaves that fixes atmospheric nitrogen. Used extensively in Vietnam as a rice paddy companion for nitrogen. Feeds tilapia and other fish in paddy systems. Valuable food for pigs, poultry, and waterfowl. Controls mosquitoes and weeds by covering water surface. Dried azolla makes nitrogen-rich mulch with water-holding properties similar to peat moss. The alga has also been shown to produce hydrogen from water -- promising for solar energy storage.
-
-### Duckweed (Lemnaceae family)
-~40 perennial free-floating species among the most vigorously growing plants on the planet, some doubling every 3 days. Concentrate boron, aluminium, manganese, iron, titanium, copper, and cobalt from water. Good fodder for fish, ducks, and domestic animals.
-
-- **Wolffia arrhiza** -- smallest flowering plant on Earth. Edible to humans: 20% protein, 44% carbohydrate, 5% fat, vitamins A, B2, B6, G. Cultivated in Burma, Laos, Thailand as a vegetable. Annual yield: 265 t wet weight/ha (10.5 t dry weight). Tastes somewhat like sweet cabbage.
-- **Spirodella oligorhiza / S. polyrhiza** -- potential to produce the equivalent feed value of 60 ha soybeans in 1 ha (protein 37-45%, nitrogen 6-7%, phosphorous 1.4-3%, potassium 1.5-3%, calcium 1%, ash 8-14%, fibre 7-10%, fat 4-6%, metabolisable energy 1958 cal/kg).
-
-### Water Mimosa (Neptunia oleracea)
-Family: MIMOSACEAE. Floating leguminous plant native to Asia, Africa, and tropical America. Leaves and stems eaten in salads; seed pods cooked and eaten. Also cooked as greens. Nitrogen-fixing -- adds fertility to aquatic systems.
-
-### Indian Water Chestnut (Trapa spp)
-Family: TRAPACEAE. Perennial floating plant native to Europe, India, and eastern Asia. Grows in 0.3-1 m water depth. ~9 species from tropical to temperate. Edible spiny fruit kernels. Note: has become a pestilent weed in some areas.
-
-### Water Lilies (Nymphaea spp)
-Family: NYMPHAEACEAE. Roots in mud, leaves float on water (depths to 1.5 m). Usually found in calm waters. Roots are edible. N. alba used as pig feed in Europe. Leaves shade water surface reducing light, heat, and oxygen to water below.
-
-## Emergent Plants
-
-These plants live at the water's edge where roots and stems are below water but leaves and flowers rise above. By arranging shallows in ponds, large areas can be dedicated to emergent plants.
-
-### Kang Kong / Water Spinach (Ipomoea aquatica)
-Family: CONVOLVULACEAE. Native to southern China, India, SE Asia, Taiwan. Found in muddy streams, freshwater ponds, and marshes. Seed germinated on land for ~6 weeks before flooding. Annual yields up to 90,000 kg/ha recorded. Protein 1.9-4.6%, carbohydrate 4.3%. Good source of vitamins A, C, E, iron, and other minerals. One of the most productive leaf vegetables known (up to 60 t/ha). Does not require dewatering for animal feed. Also valued food for herbivorous fish.
-
-Young leaves and shoots boiled or stir-fried. Young tips for salads. Young stems for pickles. Cold sensitive -- usually grown as annual in cooler climates.
-
-### Water Cress (Nasturtium officinale)
-Family: BRASSICACEAE. Fast growing (30-60 days), requires cool or cold flowing water. Grows submerged, floating, or spread over mud surfaces. Usually grown in beds covered with 10 cm water.
-
-Rich nutrition per 100g: 151 mg calcium, 282 mg potassium, 4900 IU vitamin A, 79 mg vitamin C, 5390 mg sulphur. Eaten fresh in salads and sandwiches, cooked in soups and stews. Seeds made into mustard or sprouted. Many medicinal properties.
-
-Warning: do not grow for human consumption in polluted waters. Excessive or prolonged use can lead to kidney problems. Should not be taken daily, no longer than 4 weeks even with interruptions.
-
-### Lotus (Nelumbo nucifera)
-Family: NELUMBONACEAE. Herbaceous perennial to 2 m. Cultivated for seed, leaves (harvested spring), and roots/rhizomes (harvested autumn). Leaves to 1 m diameter. Native to northern Australia; some varieties suited to temperate sites. Every part useful -- one of the most culturally significant aquatic food plants across Asia.
-
-### Taro (Colocasia esculenta)
-Family: ARACEAE. Possibly the earliest cultivated plant on Earth. Grown in paddy culture like rice or on dry land under irrigation. Requires 6-7 month frost-free period. Both corm and cormel eaten -- nutrition comparable to potato and sweet potato. Leaves and petioles cooked like spinach. Must be cooked. Some cultivars highly [[halotolerant-halophilic-fungi-salt-tolerant-diversity]]. Propagation from small tubers and crown of main tuber.
-
-[[dighton-fungal-nutritional-composition-animal-diets]] of leaves per 100g: water 87.2%, energy 40 cal, carbohydrate 7.4 g, fat 0.8 g, protein 3.0 g, calcium 76 mg, iron 1.0 mg, vitamin C 31 mg.
-
-Nutritional composition of corms per 100g: water 73%, energy 98 cal, carbohydrate 23.7 g, fat 0.2 g, protein 1.9 g, calcium 28 mg, potassium 514 mg, phosphorous 61 mg.
-
-### Chinese Water Chestnut (Eleocharis dulcis)
-Family: CYPERACEAE. Perennial rush-like plant native to N. Australia, Malaysia, SE Asia, Madagascar, Fiji, and New Caledonia. Grows in 50-200 mm of water, usually in flooded fields rotated with rice. Rhizomes as nutritious as potato (30% carbohydrate, 1.5% protein). Yields exceed 7 t/ha. Can be grazed by stock. Companion to taro, lotus, and water lilies.
-
-### Arrowhead (Sagittaria spp)
-Family: ALISMATACEAE. Several species with edible tubers:
-
-- **S. latifolia**: Occurs at water's edge to 0.5 m depth. Tubers eaten by American Indians ("wapatoo"), said to be as good as potatoes.
-- **S. sagittifolia**: Native of Europe, grows to ~1.5 m, spreads throughout ponds. Walnut-sized roots harvested in autumn.
-- **S. trifolia**: Native to tropical/subtropical Asia, produces 8+ underground stems each with a corm. High in protein (5-7%) for a root crop. Requires 6-7 month [[savory-growing-season-and-non-growing-season-management]].
+[[savory-growing-season-and-non-growing-season-management]].
 
 ### Cattail / Bullrush (Typha spp)
 Family: TYPHACEAE. Narrow linear leaves, tall growing (to 2 m). Occurs throughout the world. Edible parts include:
@@ -118,8 +59,91 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[pcp]]
 - [[water-conservation]]
-- [[dom]]
 - [[det]]
 - [[nasturtium-officinale]]
+
+## Overview
+
+Edible Aquatic Plants represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish edible aquatic plants
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving edible extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Edible Aquatic Plants finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for edible aquatic plants. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+edible aquatic plants and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Edible Aquatic Plants has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of edible aquatic plants into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[edible-landscaping]]
+- [[edible-wild-mushrooms-by-region]]
+- [[guzman-chlorophyllum-molybdites-toxic-edible-paradox-yoruba-divinatory-use]]
+- [[mycorrhizal-edible-mushroom-species-overview]]
+- [[query-how-do-i-identify-the-most-common-edible-wild-mushrooms]]

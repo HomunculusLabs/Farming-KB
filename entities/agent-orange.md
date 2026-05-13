@@ -20,57 +20,12 @@ sources:
 
 ## Overview
 
-Agent Orange is a sativa-dominant hybrid [[blesching-cannabis-strain-selection-receptor-targeting]] bred by TGA Subcool
-Seeds (Subcool's The Green Avengers). It was created by crossing Orange Velvet
-Skunk with [[oner-jack-the-ripper-jacks-cleaner-space-queen]], two strains known for their potency and distinct
-[[cannabis-terpene-profiles-sativa]].
-
-The strain earned its name from its signature bright orange aroma and its
-powerful, fast-acting effects rather than any connection to the defoliant.
-It has won recognition for its exceptional citrus terpene expression and
-has become a staple among sativa enthusiasts seeking an energetic, mood-
-elevating daytime cultivar.
-
-## Lineage
-
-**Parent 1:** Orange Velvet Skunk — a Skunk lineage strain noted for its
-sweet orange aroma and balanced effects. Contributes the dominant citrus
+Agent Orange is a sativa-dominant hybrid [[oner-jack-the-ripper-jacks-cleaner-space-queen]], two strains known for their potency and distinct
 [[cannabis-terpene-profile]] and moderate indica influence.
 
 **Parent 2:** Jack the Ripper — a potent sativa-dominant hybrid bred by
 TGA Subcool, itself a cross of Space Queen and Jack's Cleaner. Contributes
-the strain's high [[thc-content-factors-cultivation-freshness-storage-degradation-blesching]], cerebral energy, and lemon notes.
-
-The approximate sativa-to-indica ratio is reported at 75:25, reflecting the
-Jack the Ripper sativa dominance tempered by the Orange Velvet backbone.
-
-## Appearance
-
-Buds are medium to large, with a loose, elongated structure typical of
-sativa-dominant varieties. The calyxes are light green with prominent
-orange pistils that become vivid copper-orange as the flowers mature.
-
-Trichome coverage is heavy, giving the flowers a frosty, crystalline
-appearance. The combination of bright orange hairs against pale green
-calyxes with a dense trichome layer creates a visually striking flower.
-Leaf coloration can develop purple hues in cooler growing conditions.
-
-## Aroma and Flavor
-
-The aroma is intensely citrus-forward, dominated by fresh orange and
-tangerine notes with an underlying sweet, skunky pungency. When ground,
-additional notes of lemon, grapefruit, and tropical fruit emerge.
-
-The flavor closely mirrors the aroma: sweet orange and tangerine on the
-inhale, with earthy, skunky undertones on the exhale. A lingering
-citrus aftertaste is characteristic. The strain is considered one of
-the most reliably orange-flavored cultivars available.
-
-## Terpene Profile
-
-**Myrcene** (dominant, ~0.8–1.2%): Contributes to the relaxing body
-effects and herbal undertone. Modulates the overall psychoactive
-experience through [[beta-caryophyllene-entourage-effects-cannabis]] with cannabinoids.
+the strain's high [[beta-caryophyllene-entourage-effects-cannabis]] with cannabinoids.
 
 **Limonene** (prominent, ~0.6–1.0%): Primary driver of the citrus aroma
 and flavor. Limonene is associated with mood elevation, stress relief,
@@ -88,3 +43,88 @@ and linalool (floral, anxiolytic).
 THC content typically ranges from 16–22%, with some phenotypes testing
 as high as 25% in optimal growing conditions. CBD content is generally
 low, below 0.1%.
+
+## Overview
+
+Agent Orange represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish agent orange
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving agent extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Agent Orange finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for agent orange. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+agent orange and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Agent Orange has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of agent orange into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[bloomfield-ghosts-of-evolution-osage-orange-anachronism]]
+- [[fukuoka-mandarin-orange-citrus]]
+- [[jadam-nutrient-management-wetting-agent-and-calcium]]
+- [[jadam-wetting-agent-jwa]]
+- [[ultra-low-jadam-wetting-agent-jwa]]

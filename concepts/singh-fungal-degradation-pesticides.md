@@ -26,43 +26,14 @@ moisture, and aeration.
 White-rot fungi such as Phanerosporum chrysosporium possess unique extracellular
 enzyme systems that enable them to degrade a wide range of recalcitrant
 xenobiotic compounds. The three major lignin-modifying enzymes are lignin
-peroxidase (LiP), [[fungal-manganese-peroxidase-remediation]] (MnP), and laccase. These enzymes have
-low substrate specificity and generate free radicals that can attack diverse
-pesticide molecules non-specifically.
-LiP oxidizes aromatic compounds with high redox potentials using veratryl
-alcohol as a redox mediator. MnP oxidizes Mn2+ to Mn3+, which then diffuses
-away from the fungal hyphae and oxidizes phenolic compounds. Laccase oxidizes
-phenolic and some non-phenolic substrates with the aid of mediator compounds.
-The combination of these enzymes gives white-rot fungi their remarkable ability
-to mineralize complex pesticides to carbon dioxide.
-## Fungal Degradation of Insecticides
-### Chlorinated Insecticides
-**DDT:** P. chrysosporium mineralizes DDT to 10% as CO2 in 30 days; other
-white-rot fungi (Pleurotus ostreatus, Phellinus weirii, Polyporus versicolor)
-achieve 5-7% mineralization. DDT degraded through co-oxidation by LiP mediator
-veratryl alcohol. Mineralization depends on carbon source; cellulose and starch
-support DDT mineralization best. Formation of DDD during initial
-non-ligninolytic phase, subsequently degraded.
-**Lindane (gamma-HCH):** P. chrysosporium mineralizes 23.4% as CO2 in 30
-days (liquid culture) and 22.8% in 60 days (soil-corncob matrix). White-rot
-fungus DSPM95 degrades 82% at 5-10 ppm within 30 days.
-**Endosulfan:** P. chrysosporium achieves greater than 95% degradation in
-C-deficient/N-deficient conditions. Trichoderma harzianum degrades 39% in
-13 days, producing endosulfan sulfate and endosulfan diol. Exogenous NADPH
-enhances endosulfan metabolism.
-### Organophosphorus Insecticides
-P. chrysosporium degrades chlorpyrifos (27.5%), fonofos (12.2%), and terbufos
-(26.6% as CO2). [[coriolus-versicolor]] degrades chlorpyrifos 36% in biobed
+peroxidase (LiP), [[coriolus-versicolor]] degrades chlorpyrifos 36% in biobed
 matrix over 42 days. These pesticides are generally more susceptible to fungal
 degradation than chlorinated insecticides due to their ester bond lability.
 ## Fungal Degradation of Herbicides
 ### Phenoxyalkanoate Compounds (2,4-D, 2,4,5-T)
 P. chrysosporium mineralizes 62% of [14C]-2,4,5-T in nitrogen-limited cultures
 (30 days). LiP and MnP are NOT required for 2,4-D mineralization (peroxidase-
-negative mutant also mineralizes). [[staycare-cunninghamella-elegans-in-bioremediation]] degrades 2,4-D 33%
-in 5 days; Rhizoctonia solani achieves 60% in 5 days.
-### Acylanilide Herbicides
-**Alachlor:** [[ceriporiopsis-subvermispora]] completely degrades alachlor in 122
+negative mutant also mineralizes). [[ceriporiopsis-subvermispora]] completely degrades alachlor in 122
 days; Cunninghamella elegans transforms 98.6% in 4 days. Fusarium solani
 degrades butachlor 70-85% producing 30+ metabolites through dechlorination,
 dehydrogenation, and multiple dealkylation reactions.
@@ -81,10 +52,94 @@ release. Trichoderma species are effective degraders of these compounds.
 Biobeds are on-farm bioremediation systems designed to retain pesticides and
 facilitate natural attenuation. Mixed substrate (straw, soil, peat) provides
 organic matter and microbial diversity. Selected white-rot fungi enhance
-degradation of pesticide residues. Coriolus versicolor, [[hypholoma-fasciculare]],
-and [[stereum-hirsutum]] effectively degrade atrazine, terbuthylazine, and diuron
+degradation of pesticide residues. Coriolus versicolor, [[stereum-hirsutum]] effectively degrade atrazine, terbuthylazine, and diuron
 in biobed matrices. Biobeds offer practical, low-cost solution for treating
 pesticide rinsate and spills at farm level.
 ## Biosensors for Pesticide Detection
 Fungal enzyme-based biosensors enable rapid pesticide monitoring.
 Acetylcholinesterase-based sensors detect organophosphorus pesticides at 0.2 ng
+
+## Overview
+
+Singh Fungal Degradation Pesticides represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish singh fungal degradation pesticides
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving singh extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Singh Fungal Degradation Pesticides finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for singh fungal degradation pesticides. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+singh fungal degradation pesticides and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Singh Fungal Degradation Pesticides has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of singh fungal degradation pesticides into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[singh-fungal-alkane-metabolism-pathways]]
+- [[singh-fungal-biodegradation-biodeterioration-materials]]
+- [[singh-fungal-biosorption-reactors-heavy-metals]]
+- [[singh-mycofiltration-water-runoff]]
+- [[singh-uranium-radionuclide-fungal-biosorption]]

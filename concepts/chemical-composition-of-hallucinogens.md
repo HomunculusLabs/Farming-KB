@@ -50,8 +50,7 @@ Tryptamines may be "simple" (unsubstituted) or carry various side-chain groups o
 | Class | Key Compounds | Plant Sources |
 |-------|--------------|---------------|
 | Simple tryptamines | DMT, 5-MeO-DMT, bufotenine | Virola, Anadenanthera, Phalaris |
-| Ergoline alkaloids | Ergine (LSA), ergonovine | [[sacred-mexican-morning-glories-ololiuqui-and-tlitliltzin]] (Rivea, Ipomoea) |
-| β-Carboline alkaloids | Harmine, harmaline, tetrahydroharmine | Banisteriopsis, [[mckenna-food-gods-peganum-harmala-soma]] |
+| Ergoline alkaloids | Ergine (LSA), ergonovine | [[mckenna-food-gods-peganum-harmala-soma]] |
 | Ibogaine alkaloids | Ibogaine, tabernanthine | Tabernanthe iboga |
 | Lysergamides | LSD (semisynthetic) | Derived from Claviceps (ergot fungus) |
 
@@ -76,21 +75,7 @@ These are poisonous plant compounds that cause what might be called secondary ha
 
 ### Essential Oil Components
 
-Some components of plant **essential oils** — the aromatic compounds responsible for characteristic odors — act as pseudohallucinogens. The most well-known example is **myristicin** from nutmeg ([[myristica-fragrans]]). Ingestion of large doses of nutmeg produces a prolonged (12–24 hour) delirious state with visual distortions, but the experience is generally considered unpleasant and physically taxing.
-
-### Dangers
-
-Many plants with pseudohallucinogenic properties are **extremely dangerous** if ingested in doses sufficient to produce hallucinations. The line between psychoactivity and toxicity is narrow, and poisoning is common. Research has not fully elucidated the mechanisms of pseudohallucinogenic activity.
-
-## Methods of Administration
-
-Hallucinogenic plants are administered through diverse methods depending on the plant material, active compounds, and cultural practices:
-
-### Oral Ingestion
-
-- **Fresh or dried plant material**: Peyote buttons, psilocybin mushrooms (teonanacatl)
-- **Beverages**: Ayahuasca/caapi (bark), San Pedro cactus tea, jurema wine, iboga root decoction
-- **Crushed seeds**: Morning glory seeds (Rivea corymbosa, [[ipomoea-tricolor]])
+Some components of plant **essential oils** — the aromatic compounds responsible for characteristic odors — act as pseudohallucinogens. The most well-known example is **myristicin** from nutmeg ([[ipomoea-tricolor]])
 - **Plant extracts/resins**: Hashish
 
 ### Smoking
@@ -99,25 +84,11 @@ Originally a New World practice (tobacco), now widely applied to cannabis. Other
 
 ### Snuffing
 
-A distinctly New World method used for **yopo** ([[anadenanthera-peregrina]]), **epena**, **sébil**, and **rapé dos indios**. Powdered plant material is blown into the nostrils through tubes.
-
-### Other Methods
-
-- **Rectal administration**: Reported for Anadenanthera preparations among some South American groups
-- **Topical application**: African custom of incising the scalp and rubbing **Pancratium** bulb juice into the wounds — a primitive analog of hypodermic injection
-- **Sublingual**: Salvia divinorum leaves (quid method)
-
-### Plant Additives (Admixtures)
-
-A hallmark of New World hallucinogen use is the addition of **subsidiary plants** to preparations to alter, enhance, or extend the primary intoxication:
-
-- **Ayahuasca**: Banisteriopsis caapi (β-carboline MAOI) + [[chacruna-psychotria-viridis]] (DMT) — the MAOI allows oral DMT activity by inhibiting gastrointestinal monoamine oxidase
+A distinctly New World method used for **yopo** ([[chacruna-psychotria-viridis]] (DMT) — the MAOI allows oral DMT activity by inhibiting gastrointestinal monoamine oxidase
 - **Brunfelsia** and **Datura** leaves are sometimes added to ayahuasca preparations, contributing their own psychoactive alkaloids
 
 ## See Also
 
-- [[hallucinogenic-plants-overview]]
 - [[cannabis-botany-and-history]]
-- [[edaphic-factors-microbial-communities]]
 - [[ayahuasca-pharmacology]]
 - [[serotonin-psilocin-structural-similarity-hallucinogenic-mechanism]]

@@ -12,10 +12,7 @@ type: concept
 
 Lentinula edodes, commonly known as the shiitake mushroom, is an edible
 white rot basidiomycete that has demonstrated significant potential as a
-bioremediation agent, particularly for the [[singh-fungal-degradation-of-chlorinated-compounds]]
-phenolic compounds. Its dual value as both a commercially cultivated
-mushroom and an effective pollutant degrader makes it uniquely attractive
-for integrated waste treatment and [[dighton-fungal-biomass-production-aquatic-ecosystems]] systems.
+bioremediation agent, particularly for the [[dighton-fungal-biomass-production-aquatic-ecosystems]] systems.
 
 ## Biological Characteristics
 
@@ -25,14 +22,12 @@ most widely cultivated edible mushrooms worldwide, with a well-established
 industrial production infrastructure based on solid-state fermentation of
 sawdust substrates. This existing cultivation technology provides a
 practical foundation for its deployment in bioremediation applications.
-The fungus produces a complement of [[white-rot-fungi]] such as [[staycare-spent-mushroom-compost-bioremediation]] from L. edodes cultivation has been
+The fungus produces a complement of [[staycare-spent-mushroom-compost-bioremediation]] from L. edodes cultivation has been
   investigated for its bioremediation potential.
 
 ## Ligninolytic Enzyme Profile
 
-L. edodes produces a characteristic set of [[singh-ligninolytic-enzymes-fungal-bioremediation]] that
-differs from the model organism P. chrysosporium. While P. chrysosporium
-is known primarily for lignin peroxidase (LiP) and [[fungal-manganese-peroxidase-remediation]]
+L. edodes produces a characteristic set of [[fungal-manganese-peroxidase-remediation]]
 (MnP), L. edodes produces laccase as a major ligninolytic enzyme along
 with MnP. The laccase of L. edodes has been shown to have broad
 substrate specificity and can oxidize a range of phenolic and
@@ -52,11 +47,8 @@ the commercial value of the mushroom may create regulatory complications
 when used on sites contaminated with toxic compounds that could
 potentially accumulate in fruiting bodies.
 
-See also: [[staycare-bjerkandera-and-pleurotus-in-pollutant-degradation]] in Pollutant Degradation,
-[[singh-fungal-laccase-enzymes-bioremediation]] in Bioremediation,
+See also: [[singh-fungal-laccase-enzymes-bioremediation]] in Bioremediation,
 and [[lentinula-edodes]]
-
-- [[lentinula-edodes]]
 ## Practical Considerations
 
 When working with Lentinula edodes in Bioremediation, several practical factors should be

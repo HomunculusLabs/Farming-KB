@@ -8,61 +8,9 @@ sources: ["Shulgin - PIHKAL"]
 ---
 # MDMC
 
-[[2c-b-pihkal-entry-20]] #110. EDMA; 3,4-ETHYLENEDIOXY-N-METHYLAMPHETAMINE.
-
-## Chemical Name
-
-EDMA; 3,4-ETHYLENEDIOXY-N-METHYLAMPHETAMINE
-
-## Dosage and Duration
-
-| Property | Value |
-|----------|-------|
-| Dosage | 200 or more mg. |
-| Duration | 3 - 5 h. |
-
-## Qualitative Comments
-
-> (with 150 mg) A flood of paresthesia at the 30
-> minute point, and then nothing. There was the development of a plus
-> one-and-a half effect over the next hour with the tendency to drift
-> into a dozing state with hypnogogic imagery. There were colored
-> letters in the periphery of my visual field. There was no appetite
-> loss nor was there any blood pressure rise. And no eye jiggle or
-> teeth clenching. I was out of the experience in 4 to 5 hours. A
-> repeat of this level a few days later gave a bare possible threshold
-> with no other effects.
->
-> (with 200 mg) There was something unmistakable at 45 minutes, with
-> hints of nystagmus. Possibly MDMA-like, with no indicators of
-> anything psychedelic. Subtle return to baseline, and there were no
-> after-effects.
->
-> (with 250 mg) Alert at 40 minutes, and to a clear ++ at an hour.
-> Slight something in the eye muscles. Dropping thirty minutes later,
-> and baseline at three hours.
->
-> (with 250 mg) I am at a bare threshold at best.
-
-## Extensions and Commentary
-
-What a strange and completely
-unsatisfactory compound! In the original run-up from low levels to
-increasing higher levels, there never was a dosage that was a minus,
-that had no effect. At every level, something was thought to be
-there, usually at a level of a single plus or thereabouts. But with
-different people, different responses. There is no way of guessing
-what an active level might be, or how consistent that level might be
-between different people, or for that matter what the responses are
-that might be expected at that level.
-
-This was yet one more effort to find an MDMA-like substitute by the
-miniscule manipulation of the MDMA molecule. Perhaps a small
-molecular change might leave the particular magic of the MDMA action
-alone, but eliminate the [[pihkal-introduction-and-methodology]]
+[[pihkal-introduction-and-methodology]]
 
 - PIHKAL (the source book)
-- [[mdal-entity-pihkal]]
 - [[mdbu-entity-pihkal]]
 ## Practical Considerations
 
@@ -82,3 +30,88 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
+
+## Overview
+
+Mdmc Entity Pihkal represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish mdmc entity pihkal
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving mdmc extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Mdmc Entity Pihkal finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for mdmc entity pihkal. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+mdmc entity pihkal and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Mdmc Entity Pihkal has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of mdmc entity pihkal into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[3c-e-entity]]
+- [[ganesha-entity]]
+- [[methyl-mmda-2-entity-pihkal]]
+- [[tris-entity-pihkal]]
+- [[vaccinium-corymbosum-entity]]

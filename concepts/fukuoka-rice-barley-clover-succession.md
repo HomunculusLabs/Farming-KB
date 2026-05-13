@@ -1,18 +1,6 @@
 ---
 title: "Fukuoka's Rice-Barley-Clover Succession: No-Tillage Direct-Seeding Method"
-source: "The Natural Way of Farming — [[masanobu-fukuoka]]"
-topics:
-  - rice-cultivation
-  - no-tillage-farming
-  - winter-grain
-  - clover-cover
-  - direct-seeding
-  - natural-farming
-  - fukuoka
-  - crop-rotation
----
-
-The core agricultural method practiced by [[masanobu-fukuoka-natural-farming-philosophy]] on his farm in Ehime Prefecture,
+source: "The Natural Way of Farming — [[masanobu-fukuoka-natural-farming-philosophy]] on his farm in Ehime Prefecture,
 Japan, is what he called "direct-seeded, no-tillage, winter grain/rice succession in a clover
 cover." This system allows for the continuous production of both a summer rice crop and a
 winter grain crop of barley or wheat on the same field without plowing, without chemical
@@ -36,19 +24,9 @@ trampling over the clover and the young, two- to three-leaf barley shoots that h
 emerged beneath the standing rice. After harvesting, the rice was left to dry for three
 days, either on the ground or on racks. Following threshing and cleaning of the dried grain,
 he immediately scattered all of the rice straw uncut over the entire field and applied
-chicken manure or decomposed [[fukuoka-textdoc-composting-critique-futility-prepared-organic-matter]] — approximately 650 to 900 pounds per quarter-
-acre. If he had some chicken droppings on hand, he scattered these over the straw. This
-completed the barley sowing for the coming year.
-
-For the rice crop, Fukuoka enclosed rice seed in [[fukuoka-aerial-seeding-clay-pellets-desert-revegetation-technique]] and scattered these over the
+chicken manure or decomposed [[fukuoka-aerial-seeding-clay-pellets-desert-revegetation-technique]] and scattered these over the
 field in mid-November or later. These pellets protected the rice seed from birds and rodents
-through the winter months. With the winter [[jeavons-grain-growing-mini-farms]] and the rice seed sown, there was
-nothing left to do until the harvesting of the winter grain. The labor of one or two people
-was more than enough to manage a quarter-acre through the winter months. Fukuoka noted that
-this period of quiet was one of the great advantages of his method over conventional rice
-cultivation, which required continuous labor throughout the year.
-
-Through the winter, the clover established a thick [[natural-ground-cover-and-straw-mulching]] the barley grew to
+through the winter months. With the winter [[natural-ground-cover-and-straw-mulching]] the barley grew to
 maturity. In the spring, a luxuriant layer of clover grew at the foot of the maturing
 barley, and beneath the clover, rice seedlings began to emerge from the clay pellets. In
 late May, the barley was ready for harvest. At this point, the rice seedlings were perhaps
@@ -66,8 +44,7 @@ levees around the field with mud and held water in the field for four to seven d
 the clover. This brief period of flooding was sufficient to suppress the clover without
 killing it, giving the rice shoots a chance to break through the cover. After this flooding,
 he surface-drained the field in order to grow as hardy plants as possible. During the first
-half of the rice [[extending-growing-season]] in June and July, Fukuoka left the field essentially
-unirrigated, growing the rice under conditions similar to upland [[fukuoka-puddling-summer-flooding-soil-death-rice-cultivation]]. In
+half of the rice [[fukuoka-puddling-summer-flooding-soil-death-rice-cultivation]]. In
 August, he ran water through the drainage ditches once every week or ten days, continuing
 to irrigate intermittently during the heading stage but making it a point not to hold water
 for more than five days at a stretch. A soil moisture level of approximately eighty percent
@@ -83,12 +60,7 @@ reported consistently harvesting close to 22 bushels of winter grain and 22 bush
 per quarter-acre, with a goal of eventually achieving 33 bushels per quarter-acre for each
 crop. Those who saw the sturdy heads of rice rising from the field marveled at the strength
 and vigor of the plants and their large yields. Fukuoka noted that no matter that there were
-insect pests present, as long as their natural enemies were also present, a [[fukuoka-pesticide-cascade-collapse-natural-balance]]
-asserted itself.
-
-The development of this method was the outcome of many years of experimentation and
-gradual refinement. Fukuoka initially tried direct-seeding rice between rows of barley, but
-abandoned this due to poor rice germination [[jadam-soil-management-no-till-and-weed-control]]. He later moved from high-ridge
+insect pests present, as long as their natural enemies were also present, a [[jadam-soil-management-no-till-and-weed-control]]. He later moved from high-ridge
 to low-ridge to level-field cultivation of barley, and from drilling to broadcasting of
 seed. The critical breakthrough came when he decided to stop tilling entirely. At a time
 when conventional wisdom held deep plowing to be necessary and indispensable for producing
@@ -99,28 +71,7 @@ reduced soil fertility, an experience that sealed his conviction in the soundnes
 method. The method was studied at agricultural testing stations throughout Japan, and
 researchers in almost every instance found no basic problem with the no-tillage succession
 cropping of rice and barley using straw mulch. Fukuoka reported these experiences in 1962
-in an article entitled "The Truth about Direct-Seeding Rice and [[fukuoka-direct-seeding-rice-barley-cultivation]]," which
-was regarded as highly singular and was praised by a high-ranking official in the Japanese
-Ministry of Agriculture and Forestry as "research in a class by itself" and "a guiding light
-for Japanese rice cultivation ten years hence."
-
-Fukuoka summarized the entire method with characteristic simplicity: if one were to say that
-all his method of farming boiled down to was the symbiosis of rice and barley or wheat in
-clover, one might be reproached for understating it. Yet he insisted that was truly all there
-was to it. Indeed, with this method he had consistently gotten better-than-average yields.
-Such being the case, he argued, the only conclusion possible is that there must be something
-drastically wrong with farming practices that require so much unnecessary labor. Scientists
-were always saying "let's try this, let's try that," and agriculture became swept up in all
-of this fiddling around. New methods requiring additional expenditures and effort by farmers
-were constantly introduced, along with new pesticides and fertilizers. Fukuoka took the
-opposite tack: he eliminated unnecessary practices, expenditures, and labor by telling
-himself, "I don't need to do this, I don't need to do that." After thirty years at it, he had
-managed to reduce his labor to essentially just sowing seed and spreading straw. Human effort
-was unnecessary because nature, not man, grew the rice and wheat.
-
-The method also demonstrated the importance of straw mulching. Fukuoka deliberately called
-composting unnecessary and proposed that all fresh rice straw be scattered over the field
-during [[fukuoka-natural-rice-barley-cultivation]] and all barley straw be spread during rice cultivation. Although
+in an article entitled "The Truth about Direct-Seeding Rice and [[fukuoka-natural-rice-barley-cultivation]] and all barley straw be spread during rice cultivation. Although
 agricultural technicians had long regarded rice straw as a source of disease and pests, and
 the burning of straw was widespread practice, Fukuoka had confirmed that rice straw left on
 the ground during the autumn decomposes entirely by the following spring, leaving no trace

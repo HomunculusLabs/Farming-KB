@@ -127,10 +127,6 @@ Example: A label showing 10-20-10 actually contains 10% N, 8.8% P, 8.3% K.
 
 ## See Also
 
-- [[mycorrhizal-carbon-phosphorus-exchange]]
+- [[mycorrhizal-carbon-sequestration-mechanisms]]
 - [[mycorrhizal-fungi-biogeochemistry]]
-- [[mycorrhizal-fungi-ecosystem-function]]
-- [[mycorrhizal-helper-bacteria-tripartite-symbioses]]
-- [[mycorrhizal-inoculum-reduction-techniques-comparative]]
-- [[mycorrhizal-siderophores]]
-- [[mycorrhizal-siderophores-iron-acquisition]]
+- [[mycorrhizal-mediation-of-plant-plant-competition]]

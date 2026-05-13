@@ -49,36 +49,13 @@ carcinogenic aromatic amines.
 ### Azo Dyes
 
 Azo dyes constitute the largest class of synthetic dyes, with more than 2,000
-different azo dyes used commercially. White-rot fungi such as [[phanerochaete-chrysosporium]] can cleave the azo bond through both enzymatic and non-enzymatic
-mechanisms. Lignin peroxidase and manganese peroxidase oxidize the dye molecule,
-while the fungal redox mediators (veratryl alcohol and Mn2+ cycles) facilitate
-indirect oxidation of azo compounds that are not direct enzyme substrates.
-
-### Anthraquinone and Triphenylmethane Dyes
-
-Anthraquinone dyes are degraded primarily through oxidation by laccases and
-peroxidases. Triphenylmethane dyes like malachite green are effectively
-decolorized by [[phanerochaete-chrysosporium]] and [[trametes-versicolor-entity]] through
-N-demethylation and ring cleavage pathways. The fungal enzyme systems can achieve
-over 90% decolorization within days of incubation.
-
-## Key Fungal Species in Dye Degradation
-
-Several fungal species have demonstrated exceptional dye-degrading capabilities
-in laboratory studies. [[phanerochaete-chrysosporium]] remains the most extensively
+different azo dyes used commercially. White-rot fungi such as [[phanerochaete-chrysosporium]] and [[phanerochaete-chrysosporium]] remains the most extensively
 studied white-rot fungus for dye decolorization, capable of degrading a broad
 spectrum of synthetic dyes through its lignin peroxidase system. This fungus
 produces enzymes under nutrient-limited (nitrogen or carbon) conditions, which
 triggers secondary metabolism and ligninolytic enzyme production.
 
-[[trametes-versicolor-entity]] (turkey tail) is another powerful dye degrader, producing
-high levels of laccase that effectively oxidize phenolic and non-phenolic dye
-compounds. Its laccase is particularly effective against anthraquinone and azo
-dyes and can be enhanced with redox mediators such as 1-hydroxybenzotriazole
-(HBT) or 2,2,6,6-tetramethylpiperidine-1-oxyl (TEMPO).
-
-Other notable species include [[bjerkandera-adusta]], [[pleurotus-ostreatus]],
-and [[ganoderma-lucidum]]. Aspergillus niger, though not a white-rot fungus,
+[[bjerkandera-adusta]], [[ganoderma-lucidum]]. Aspergillus niger, though not a white-rot fungus,
 has shown promising dye degradation through its non-specific extracellular enzyme
 systems, making it a candidate for industrial applications due to its ease of
 cultivation.
@@ -118,8 +95,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[fungal-enzyme-systems]]
 - [[laccase]]
-- [[aspergillus-niger]]
 - [[singh-fungal-degradation-of-synthetic-dyes-and-textile-waste]]
 - [[fungal-treatment-of-textile-dyes-mechanisms]]

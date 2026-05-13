@@ -9,7 +9,7 @@ sources:
 ---
 # JADAM Insect Pest Management
 
-JADAM organizes insect [[comparison-pheromone-based-pest-control-vs-beneficial-insect-biocontrol]] by feeding type and uses a tiered system of [[ultra-low-jadam-wetting-agent-jwa]] for wetting power, these control virtually all crop pests.
+JADAM organizes insect [[ultra-low-jadam-wetting-agent-jwa]] for wetting power, these control virtually all crop pests.
 
 ## Sucking Insects
 
@@ -17,15 +17,7 @@ JADAM organizes insect [[comparison-pheromone-based-pest-control-vs-beneficial-i
 
 **Standard program (Program 6, per 500L):**
 - JWA: 5L (1.3 gal)
-- [[comparison-jerusalem-artichoke-vs-potato]] JHS: 5L (1.3 gal)
-
-**Key facts:**
-- Aphids reproduce rapidly (10-15 generations/year), each female producing 50-100 offspring
-- They cluster on young shoots and undersides of leaves
-- JWA alone at 10L can kill aphids by coating bodies and blocking spiracles
-- Jerusalem artichoke JHS coats aphids completely; 3 hours after spray, all dead
-- Powdery aphids (with white body coating) are harder to control -- need thorough JWA coverage
-- Leaf-rolling aphids: control intensively from early [[cho-plant-growth-stage-treatment-protocols]] when new sprouts appear
+- [[cho-plant-growth-stage-treatment-protocols]] when new sprouts appear
 
 **Stronger:** Increase both JWA and JHS to 10L each. Add 0.5 kg fine red clay powder.
 
@@ -41,7 +33,7 @@ JADAM organizes insect [[comparison-pheromone-based-pest-control-vs-beneficial-i
 - They spin fine webbing on leaf undersides
 - JS 1-2L added to the program provides additional miticidal effect
 - Mites develop resistance to synthetics rapidly; JADAM's multi-component approach avoids this
-- [[coleman-aphid-management-winter-greenhouse-nitrogen-flushing]]: use [[ultra-low-cost-jadam-microorganism-solution-and-soil-foundation]] soil application -- increase microbial diversity and population to crowd out nematodes. Not controlled by direct pesticide application.
+- [[ultra-low-cost-jadam-microorganism-solution-and-soil-foundation]] soil application -- increase microbial diversity and population to crowd out nematodes. Not controlled by direct pesticide application.
 
 ### Soil Foundation (Program 14)
 
@@ -63,7 +55,7 @@ JADAM organizes insect [[comparison-pheromone-based-pest-control-vs-beneficial-i
 
 ## See Also
 
-- [[jadam-pest-control-recipes]] -- all 14 JADAM [[jadam-combined-pesticide-programs-jwa-js-jhs]] with full details
+- [[jadam-combined-pesticide-programs-jwa-js-jhs]] with full details
 ## Practical Considerations
 
 Successful implementation of JADAM Insect Pest Management requires attention to
@@ -112,8 +104,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[jerusalem-artichoke]]
 - [[det]]
-- [[comparison-beneficial-insects-guide-vs-integrated-pest-management]]
 - [[jadam-pest-control-with-natural-pesticides-jhs]]
 - [[solomon-pest-management-without-chemicals]]

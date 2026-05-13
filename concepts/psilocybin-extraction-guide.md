@@ -23,7 +23,7 @@ This guide covers methods for extracting and concentrating psilocybin from mushr
 - Both are tryptamines, structurally similar to DMT and serotonin
 
 ### Solubility
-- Both [[hplc-analysis-of-psilocybin-and-psilocin]] are soluble in water, ethanol, methanol, and other polar solvents
+- Both psilocybin and psilocin are soluble in water, ethanol, methanol, and other polar solvents
 - Insoluble in nonpolar solvents (naphtha, hexane, etc.)
 - This makes polar solvent extraction straightforward
 
@@ -31,9 +31,9 @@ This guide covers methods for extracting and concentrating psilocybin from mushr
 
 ### Common Cultivated Species
 - **Psilocybe cubensis** — most common cultivated species, moderate potency (0.5–1.5% psilocybin+psilocin by dry weight)
-- **[[growing-gourmet-caramel-capped-psilocybe-cyanescens-cultivation]]** ("wavy caps") — higher potency (1.0–2.5%), wood-loving species
-- **Psilocybe azurescens** — among the most potent known (up to 3.0%), native to the [[psilocybin-north-america-pacific-northwest]] coast
-- **[[guzman-allen-gartz-psilocybe-semilanceata-temperate-cosmopolitan-distribution]]** ("liberty caps") — widespread in temperate grasslands, moderate-high potency
+- **Psilocybe cyanescens** ("wavy caps") — higher potency (1.0–2.5%), wood-loving species
+- **Psilocybe azurescens** — among the most potent known (up to 3.0%), native to the Pacific Northwest coast
+- **Psilocybe semilanceata** ("liberty caps") — widespread in temperate grasslands, moderate-high potency
 
 ### Potency Variation
 Potency varies enormously based on:
@@ -66,7 +66,7 @@ The simplest extraction method using food-grade ethanol:
 9. Store in a cool, dark place — shelf life of 6–12 months
 
 ### Dosage
-The tincture concentrates the actives into a liquid form. Calculate dosage based on [[shirota-4-hydroxyindole-acetyl-protection-psilocin-synthesis-starting-material]]:
+The tincture concentrates the actives into a liquid form. Calculate dosage based on starting material:
 - If 10 g dried mushrooms extracted into 20 ml ethanol, each ml contains approximately 0.5 g equivalent
 - Standard dose of P. cubensis: 1–3.5 g dried
 - Therefore, 2–7 ml of this tincture would be a standard dose
@@ -124,7 +124,7 @@ Converting mushroom extract into purified psilocybin crystals:
 ## Potency Testing
 
 ### Reagent Testing
-- **[[ehrlich-reagent-tryptamine-detection-tlc-mycology]]**: Turns purple/violet in the presence of indole compounds (psilocybin, psilocin, DMT, LSD)
+- **Ehrlich reagent**: Turns purple/violet in the presence of indole compounds (psilocybin, psilocin, DMT, LSD)
 - **Hofmann reagent**: Similar function for tryptamines
 - Cannot distinguish between psilocybin and psilocin or quantify potency
 - Cannot detect contaminants
@@ -140,11 +140,11 @@ Converting mushroom extract into purified psilocybin crystals:
 - Dried mushrooms: store in airtight container with desiccant, in a cool dark place — potency stable for 1–2 years
 - Ethanol tincture: 6–12 months in amber glass, refrigerated
 - Psilocybin degrades with heat, light, and oxygen exposure
-- Oxidation of psilocin is what causes mushrooms to turn blue when bruised
 
-## Safety Considerations
+## See Also
 
-- Start with low doses — potency is unpredictable without testing
-- A sitter is recommended, especially at higher doses
-- Screen for SSRIs or other serotonergic medications (serotonin syndrome risk)
-- Avoid if personal or family history of psychosis or schizophrenia
+- [[psilocybin-in-human-evolution]]
+- [[psilocybin-pharmacology-5ht2a-receptor-mechanism]]
+- [[emcdda-psilocybin-non-addictive-profile-tolerance]]
+- [[guzman-panaeolina-foenisecii-psilocybin-controversy-conflicting-chemical-analyses]]
+- [[metzner-harvard-psilocybin-prison-project-behavior-change]]

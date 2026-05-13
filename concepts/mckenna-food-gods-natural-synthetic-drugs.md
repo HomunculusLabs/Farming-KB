@@ -12,16 +12,12 @@ type: concept
 
 # Natural vs Synthetic Drugs in Food of the Gods
 
-Throughout *Food of the Gods*, [[mckenna-food-gods-archaic-revival]] he advocates is
-in part a movement toward the restoration of the ancient symbiotic
-compact between humans and psychoactive plants. This does not mean a
-rejection [[fukuoka-road-critique-of-modern-science]] or pharmacology but rather a recognition
+Throughout *Food of the Gods*, [[fukuoka-road-critique-of-modern-science]] or pharmacology but rather a recognition
 that the relationship between humans and psychoactive plants is older,
 deeper, and more complex than the dominator model of drug use allows.
 
 ## See Also
 
-- [[mckenna-food-gods-partnership-dominator]]
 - [[mckenna-food-gods-designer-states-of-consciousness]]
 ## Practical Applications
 

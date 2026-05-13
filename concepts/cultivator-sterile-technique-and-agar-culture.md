@@ -9,10 +9,7 @@ sources:
   - "raw/papers/the-mushroom-cultivator-stamets.md"
 type: concept
 ---
-# Sterile Technique and Agar Culture in Mushroom Cultivation ## Overview Sterile technique is the foundational skill upon which all successful mushroom cultivation depends. The air we breathe contains vast populations of microscopic organisms including fungi, bacteria, viruses, and plant spores. These particles make sterile technique difficult unless proper precautions are taken. ## Five Primary Sources of Contamination 1. **The immediate external environment** -- airborne spores, dust, and microbial life 2. **The culture medium** -- improperly sterilized substrates harbor latent organisms 3. **The culturing equipment** -- tools, containers, and surfaces that contact media 4. **The cultivator and their clothing** -- the human body carries bacteria, mites, and [[mycelium]] itself** -- wild specimens carry associated
-   organisms that must be isolated away from
-
-Mushrooms and all [[savory-living-organisms-as-tools]] compete for available nutrients. In creating a
+# Sterile Technique and Agar Culture in Mushroom Cultivation ## Overview Sterile technique is the foundational skill upon which all successful mushroom cultivation depends. The air we breathe contains vast populations of microscopic organisms including fungi, bacteria, viruses, and plant spores. These particles make sterile technique difficult unless proper precautions are taken. ## Five Primary Sources of Contamination 1. **The immediate external environment** -- airborne spores, dust, and microbial life 2. **The culture medium** -- improperly sterilized substrates harbor latent organisms 3. **The culturing equipment** -- tools, containers, and surfaces that contact media 4. **The cultivator and their clothing** -- the human body carries bacteria, mites, and [[savory-living-organisms-as-tools]] compete for available nutrients. In creating a
 sterile environment, the cultivator seeks to give advantage to the mushroom over
 the myriad legions of other competitors.
 
@@ -43,45 +40,7 @@ inoculation chamber.
 
 The amount of cleaning needed depends on the external spore load. Winter brings
 drastically decreased spore counts while spring and summer cause remarkable increases.
-Cleaning protocol: disinfect surfaces, mop floors, wash [[stamets-growing-room-air-circulation-co2-management]] with fine mist of
-10% bleach, wait 15 minutes for particles to settle, then begin work. Contamination
-is easier to prevent than to eliminate after it occurs.
-
-## Three Levels of Contamination Control
-
-### Level 1: Aero-Disinfection
-
-Asperating sterile oil creates a cloud of viscous droplets that trap airborne
-contaminant particles. Triethylene glycol, vaporized through a heated wick, is
-finer than mineral oil and leaves little noticeable film. A German product called
-an "aero-disinfector" utilizes this principle for under $50.
-
-### Level 2: Glove Box
-
-A glovebox is an airtight chamber providing a semisterile still-air environment.
-Typically constructed of wood with a viewing window, it may have rubber gloves or
-a removable sterilizable cotton cloth front. It provides an inexpensive, easily
-cleaned area with minimal air movement for conducting transfers.
-
-### Level 3: Laminar Flow Hood
-
-HEPA (High Efficiency Particulate Air) filters screen out all particulates exceeding
-0.1-0.3 microns in diameter, smaller than spores of all fungi and practically all
-bacteria. Built into laminar flow hoods, some laboratories use entire walls or
-ceilings of HEPA filters through which pressurized air creates a positive pressure
-sterile environment.
-
-## Agar Media Formulas
-
-### PDY (Potato Dextrose Yeast) Agar
-- Filtered broth from 300g sliced potatoes boiled in 1 liter water for 1 hour
-- 10g dextrose sugar, 2g yeast (optional), 20g agar
-
-### MEA (Malt Extract Agar)
-- 20g light tan brewer's malt, 2g yeast, 20g agar
-
-### MPG (Malt Peptone Grain) Agar
-- 20g light tan malt, 5g ground [[bigwood-beug-miniculture-rye-grain-flush-variation-method]], 5g peptone, 2g yeast, 20g agar
+Cleaning protocol: disinfect surfaces, mop floors, wash [[bigwood-beug-miniculture-rye-grain-flush-variation-method]], 5g peptone, 2g yeast, 20g agar
 
 Adding ground rye grain to any media promotes growth of strandy (rhizomorphic)
 mycelium, which is preferred for its fast growth rate.
@@ -89,10 +48,7 @@ mycelium, which is preferred for its fast growth rate.
 ## pH and Sterilization
 
 Most mycelia grow well in the 5.5-7.5 pH range. Species of Psilocybe prefer
-6.0-7.0, while [[working-with-agar-pouring-plates-and-sterile-technique]]
-- stamets-spore-germination-and-tissue-culture
-## See Also
-- [[cultivator-strain-selection-and-stock-culture]]
+6.0-7.0, while [[cultivator-strain-selection-and-stock-culture]]
 
 ## Practical Applications
 
@@ -123,8 +79,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[malt-extract-agar]]
 - [[hepa-filter]]
-- [[spore]]
 - [[mushroom-cultivation]]
 - [[mycelium]]

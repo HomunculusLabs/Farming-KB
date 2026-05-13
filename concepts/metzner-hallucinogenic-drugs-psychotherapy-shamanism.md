@@ -5,16 +5,11 @@ tags: [metzner, hallucinogenic, psychotherapy, shamanism, overview, cross-cultur
 created: 2026-05-08
 ---
 
-# Metzner on Hallucinogenic Drugs in Psychotherapy and [[psilocybin]] mushrooms in Mesoamerica, peyote in North America, [[psycholytic-vs-psychedelic-therapy-models]]
-
-- [[shamanic-journey-structure-and-technique]]
+# Metzner on Hallucinogenic Drugs in Psychotherapy and [[psycholytic-vs-psychedelic-therapy-models]]
 
 - [[metzner-psycholytic-psychedelic-therapy-models]] historical overview
 
-- entheogenic use in [[sacred-mushroom-use-mexico-teonanacatl-indigenous-traditions]]
-## Background and Context
-
-Metzner on Hallucinogenic Drugs in [[hallucinogenic-drugs-in-psychotherapy-and-shamanism]] is an important subject that has garnered significant attention
+- entheogenic use in [[hallucinogenic-drugs-in-psychotherapy-and-shamanism]] is an important subject that has garnered significant attention
 from researchers, practitioners, and enthusiasts alike. The topic
 sits at the intersection of multiple disciplines, drawing on insights
 from biology, ecology, chemistry, and practical experience. A thorough

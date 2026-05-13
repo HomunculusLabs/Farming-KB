@@ -32,9 +32,7 @@ The branch below the knuckle is now angled horizontally, which redistributes aux
 
 Auxin redistribution causes lateral bud sites below the bend to grow more vigorously.
 
-The [[cannabis-plant-stress-types-and-recovery]] page details how plants redirect energy after physical stress events like this.
-
-This is fundamentally different from [[low-stress-training]], which uses gentle bending over time without causing tissue damage.
+The [[low-stress-training]], which uses gentle bending over time without causing tissue damage.
 
 ## When to Supercrop During the Grow Cycle
 
@@ -74,67 +72,20 @@ The branch tip will naturally reorient toward the light within 3-7 days.
 
 | Technique | Type | How It Works | Recovery Time |
 |-----------|------|-------------|---------------|
-| [[supercropping]] | HST | Pinch and bend stem | 3-7 days |
 | [[cannabis-topping-training]] | HST | Cut off apical tip | 5-10 days |
-| [[fimming]] | HST | Pinch top 75% off | 5-10 days |
 | [[low-stress-training]] | LST | Gentle tie-down | Ongoing |
-| [[lollipopping]] | Pruning | Remove lower branches | Immediate |
-
-The [[comparison-topping-vs-supercropping]] page covers these differences in depth.
+| [[comparison-topping-vs-supercropping]] page covers these differences in depth.
 
 Supercropping is often preferred when you want canopy control without losing any growth tips.
 
 Topping removes the apical meristem entirely, while supercropping preserves it at a new angle.
 
-The [[comparison-lollipopping-vs-supercropping]] comparison explains how these techniques complement each other in a full training regimen.
+The [[cannabis-training-techniques]] like ScrOG nets or SOG layouts.
 
-## Benefits of Supercropping
-
-The primary benefit is a more level canopy that captures light more efficiently across all branches.
-
-Secondary branches receive more light energy, producing larger colas at harvest.
-
-The reinforced knuckles create strong structural support that can hold heavy buds without trellising.
-
-Supercropping allows you to control plant height in spaces with limited vertical room.
-
-It works well in combination with [[cannabis-training-techniques]] like ScrOG nets or SOG layouts.
-
-The [[green-cannabis-topping-pruning-training]] resource includes supercropping as part of an integrated pruning strategy.
-
-Yield increases of 10-20% are commonly reported when supercropping is done correctly.
-
-The technique costs nothing and requires no special equipment beyond your fingers and some ties.
-
-## Common Mistakes and How to Avoid Them
-
-The most frequent error is bending too aggressively on the first attempt, which snaps the stem completely.
-
-Always soften the tissue by rolling first rather than trying to force an immediate fold.
-
-Another mistake is supercropping too late in the flowering cycle, which stresses the plant during bud development.
-
-Some growers forget to secure the bent branch, allowing it to spring back to its original position overnight.
-
-Avoid supercropping branches that are already pointing in the direction you want them to grow.
-
-Do not supercrop more than two branches per plant per session to limit overall stress.
-
-Plants that are already stressed from nutrient deficiencies, pests, or environmental problems should not be supercropped.
-
-## Key Points
-
-- Supercropping is a high-stress training method that pinches and bends branches to create a wider canopy
-- It triggers callose deposition at the bend point, forming a strong structural knuckle
-- Unlike [[cannabis-topping-training]], supercropping preserves the apical growth tip
+The [[cannabis-topping-training]], supercropping preserves the apical growth tip
 - The technique works best during weeks 3-5 of the vegetative stage on branches 3-5mm thick
-- Supercropping can be combined with [[low-stress-training]] and [[lollipopping]] for maximum effect
+- Supercropping can be combined with [[lollipopping]] for maximum effect
 - Always soften the stem by rolling before bending to prevent snapping
-- The [[comparison-topping-vs-supercropping]] guide helps decide which technique fits your grow style
-
-## Related Questions
-
-- [[query-what-is-the-difference-between-lst-and-hst-for-cannabis]]
-- [[query-what-is-the-difference-between-topping-and-fimming-cannabis]]
+- The [[query-what-is-the-difference-between-lst-and-hst-for-cannabis]]
 - [[query-what-is-lollipopping-cannabis-and-when-should-you-do-it]]
 - [[query-which-cannabis-training-techniques-produce-highest-yields]]

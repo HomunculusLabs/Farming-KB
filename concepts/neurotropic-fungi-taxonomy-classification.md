@@ -1,45 +1,24 @@
 # ibotenic-acid-entity and its decarboxylation product muscimol, which act on GABA receptors rather
 than serotonin receptors, producing sedative, dissociative, and ataxic effects distinct
-from the psilocybin-containing species. *[[claviceps-purpurea]]* (the classic ergot
-fungus) and related species (*C. nigricans*, *C. paspali*, *C. rolfesii*, *C. tripsicii*)
-along with two species of *Cordyceps*. These ascomycete fungi produce ergot alkaloids
-including ergotamine, ergocristine, and [[psilocybe-mexicana]]* misidentified as *P.
+from the psilocybin-containing species. *[[psilocybe-mexicana]]* misidentified as *P.
 coprophila*.
 
 The variable chemistry of fungi further complicates classification. A single species may
 be reported as containing psilocybin by some researchers and as lacking it by others.
-*[[panaeolina-foenisecii]]*, for example, has been reported both with and without psilocybin
-in different studies. The authors suggest this may reflect genuine chemical variation
-between populations, differences in analytical methodology, or ongoing
-misidentification.
-
-## The Panaeoloideous Fungi
-
-The Panaeoloideae — dung-inhabiting mushrooms including *Panaeolus*, *Copelandia*, and
-*Panaeolina* — present particular classification challenges. Many species in this group
-are commonly found growing together in [[psilocybe-cubensis-cattle-dung-substrate-introduction-americas-guzman-1998]], making field identification difficult.
+*[[psilocybe-cubensis-cattle-dung-substrate-introduction-americas-guzman-1998]], making field identification difficult.
 The authors noted that *Panaeolus antillarum*, a non-neurotropic edible species, is
 "frequently erroneously identified as *Copelandia* spp. by those people who use the
 fungi as a drug" because both present white fruit bodies and grow in the same substrate.
 
 The chemical status of many Panaeoloideous species remains uncertain. *Conocybe
-siligineoides*, reported as a [[allegro-the-sacred-mushroom-amanita-identification]] in Mexico by Heim and Wasson in 1958, has
-never been chemically analyzed despite being one of the original species identified in
-the Mexican [[stamets-psi-mazatec-mushroom-ceremonies-ethnobotany]]. It was collected only once, in 1955, and has not been
+siligineoides*, reported as a [[stamets-psi-mazatec-mushroom-ceremonies-ethnobotany]]. It was collected only once, in 1955, and has not been
 found since despite extensive fieldwork.
 
 ## Significance of the Survey
 
 This taxonomic survey established a more rigorous foundation for the study of neurotropic
 fungi by distinguishing confirmed neurotropic species from erroneously reported ones,
-organizing species by chemical group, and documenting the geographic [[guzman-global-distribution-patterns-neurotropic-fungi]]
-that suggest centers of diversity in subtropical and tropical regions. The authors'
-identification of 116 *Psilocybe* species — 39% of the world's total found in Mexico
-alone — highlighted Mesoamerica as the primary center of diversity for these fungi and
-for the indigenous cultures that use them ceremonially.
-## Practical Applications
-
-[[challenges-neurotropic-fungi-chemical-analysis-taxonomic-identification]] [[palmer-mushroom-taxonomy-classification-system]] has a range of practical applications that make it relevant to
+organizing species by chemical group, and documenting the geographic [[challenges-neurotropic-fungi-chemical-analysis-taxonomic-identification]] [[palmer-mushroom-taxonomy-classification-system]] has a range of practical applications that make it relevant to
 both researchers and practitioners. Understanding these applications
 requires familiarity with the underlying principles and their
 manifestation in real-world contexts. The breadth of applications
@@ -88,3 +67,84 @@ Technical challenges often relate to the complexity of interactions
 between multiple variables and the difficulty of predicting outcomes
 with certainty. Building in redundancy, monitoring key indicators, and
 maintaining flexibility in approach all help manage this inherent
+
+## Overview
+
+Neurotropic Fungi Taxonomy Classification represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish neurotropic fungi taxonomy classification
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving neurotropic extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Neurotropic Fungi Taxonomy Classification finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for neurotropic fungi taxonomy classification. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+neurotropic fungi taxonomy classification and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Neurotropic Fungi Taxonomy Classification has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of neurotropic fungi taxonomy classification into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[copelandia-panaeoloideae-neurotropic-fungi-taxonomy-distribution]]

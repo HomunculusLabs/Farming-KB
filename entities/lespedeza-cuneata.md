@@ -35,16 +35,13 @@ created: 2026-05-07
 **Lespedeza cuneata** (Dum. Cours.) G. Don, commonly known as Chinese
 bushclover or sericea lespedeza, is a warm-season perennial legume in the
 family Fabaceae. Native to eastern Asia, it was widely introduced across
-[[psilocybin-north-america-pacific-northwest]] and other continents for forage, [[permplant-willows-salix-erosion-control-fodder]], and soil
+[[permplant-willows-salix-erosion-control-fodder]], and soil
 stabilization.
 
 The species forms dense, semi-woody stands that fix atmospheric nitrogen
 and produce high-quality tannin-rich forage. While valued for erosion
 control on degraded land, it has become invasive in some regions,
-particularly in tallgrass [[caragana-arborescens]]
-- [[lotus-corniculatus]]
-- [[robinia-pseudoacacia]]
-- comfrey
+particularly in tallgrass [[lotus-corniculatus]]
 - [[hugelkultur]]
 - forage-systems-animals-permaculture
 ## Practical Considerations

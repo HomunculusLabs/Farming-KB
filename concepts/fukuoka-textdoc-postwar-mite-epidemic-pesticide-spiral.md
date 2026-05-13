@@ -8,7 +8,7 @@ created: 2026-04-28
   - mites
   - biological-control
   - citrus
-  - [[orchard-management]]
+  - orchard-management
 date: 2026-04-28 updated: 2026-04-28
 sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
@@ -28,20 +28,7 @@ approach was minimal, inexpensive, and successful — a baseline that would late
 pesticides.
 
 This historical baseline establishes that the mite problem was not inherent to Japanese fruit cultivation. Mites existed in orchards
-before the war, but they were kept at manageable levels by a combination of the mild lime-sulfur treatment and the [[fukuoka-natural-predator-protection]]
-populations that were not significantly affected by this relatively benign spray. The lime-sulfur mixture was itself a relatively gentle
-intervention that killed some mites directly but, more importantly, created conditions unfavorable to mite population growth without
-devastating predatory insects and mites that provided primary long-term control.
-
-## The Postwar Pesticide Revolution
-
-After the war, orchardists began applying powerful organophosphate and organochlorine pesticides, many developed originally for military
-purposes and then adapted for agriculture. The initial results were thrilling: these new chemicals destroyed virtually all insect pests.
-Growers were delighted by the apparent efficacy of these broad-spectrum killers.
-
-It was not long before farmers found that, no matter how often they sprayed, they were unable to prevent large outbreaks of mites from
-recurring. The very chemicals supposed to solve the pest problem had created a far worse one. Each new application seemed to trigger another
-outbreak, creating a vicious cycle of escalating [[solomon-root-exudates-and-allelopathy]]. The more they sprayed, the worse the mite problem became. The irony was
+before the war, but they were kept at manageable levels by a combination of the mild lime-sulfur treatment and the [[solomon-root-exudates-and-allelopathy]]. The more they sprayed, the worse the mite problem became. The irony was
 bitter: the most powerful pesticides ever devised had made the pest situation worse, not better.
 
 ## Competing Scientific Explanations
@@ -53,21 +40,7 @@ Researchers offered several explanations for recurring mite outbreaks, each lead
 - **Species shift**: A different, more resistant mite species had
   emerged to fill the vacated ecological niche.
 - **Natural enemy disappearance**: Powerful pesticides were killing
-  natural predators — [[comparison-predatory-mites-vs-ladybugs-biocontrol]], ladybugs, and other beneficial   insects — that kept mite populations in check.
-
-Rather than recognizing the fundamental problem, scientists pursued all three explanations simultaneously, developing new pesticides for each
-hypothesis. One new chemical was developed after another, but this only aggravated the problems of pest control and pesticide pollution —
-treating symptoms rather than addressing the underlying cause in an ever-widening spiral of ecological destruction.
-
-## Fukuoka's Analysis: Human Actions as Root Cause
-
-Fukuoka preferred a simpler, more fundamental observation: mite infestation at one time was not a problem, and the question of why it
-became one has a clear answer rooted in human actions, not in the mites themselves.
-
-Many types of mites exist, each emerging under different conditions. But cultivation in the total absence of mites throughout the year is
-just not possible. The realistic goal should be to hold damage to a minimum, not total extermination. The causes for recent infestations
-and extensive damage to fruit trees lie not in the mites themselves but in human actions — specifically, the introduction of broad-spectrum
-pesticides that destroyed the [[fukuoka-ecological-balance-principles]] that had naturally kept mite populations in check. The prewar stability was not an accident but
+  natural predators — [[fukuoka-ecological-balance-principles]] that had naturally kept mite populations in check. The prewar stability was not an accident but
 the product of an intact ecosystem functioning as designed.
 
 ## Mite Sensitivity to Microclimate
@@ -118,8 +91,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[fukuoka-textdoc-microclimate-mite-scale-population-dynamics]]
 - [[fukuoka-textdoc-japan-postwar-farmer-alienation-mechanization-food-policy]]
-- [[fukuoka-textdoc-botrytis-outbreak-pesticide-microbial-mutation]]
 - [[fukuoka-textdoc-postwar-japanese-agricultural-mechanization-collapse]]
 - [[fukuoka-textdoc-postwar-agricultural-policy-fall-farming]]

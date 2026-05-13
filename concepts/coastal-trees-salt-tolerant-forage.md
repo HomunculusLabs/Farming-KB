@@ -36,7 +36,7 @@ Also known as trebizond date or oleaster. A deciduous small tree to 12 m and abo
 
 **Food uses**: Yellow, sweet berries eaten fresh or made into pies, sauces, jams, jellies, sherbets, and wines. Berries provide poultry forage in late summer.
 
-**[[biodiversity-of-fungi-ecosystem-services-agriculture]]**: Good windbreak and hedge species providing bird habitat. Used [[comparison-vetiver-grass-vs-bamboo-for-erosion-control]].
+**[[comparison-vetiver-grass-vs-bamboo-for-erosion-control]].
 
 ### New Zealand Christmas Tree (*Metrosideros tomentosa*)
 A large tree (to 10 m), somewhat frost hardy. Commonly found growing with its roots dangling into the sea. Hardy to salt spray.
@@ -81,58 +81,16 @@ A highly salt-tolerant perennial forage species. Grows best on permanently wet s
 ## Additional Coastal Species Worthy of Trial
 
 - **Argan** (*Argania spinosa*) — The famous argan tree of Morocco, source of argan oil
-- **Asparagus** (*[[asparagus-officinalis]]*)
-- **Quinoa** (*Chenopodium quinoa*)
-- **Sea Fennel** (*Crithmum maritimum*)
-- **Seashore Mallow** (*Kosteletzkya virginica*)
-- **Pearl Millet** (*Pennisetum typhoides*)
-- **Common Purslane** (*[[portulaca-oleracea]]*)
+- **Asparagus** (*[[portulaca-oleracea]]*)
 - **Ice Plant** (*Mesembryanthemum crystallinum*)
 
 ## Integration Strategies for Coastal Permaculture
 
-1. **Mangrove buffers**: Use *Avicennia marina* and companion species as frontline [[query-why-are-mangroves-critical-for-climate-change-adaptation-and-coastal-protection]], with their pneumatophore root systems stabilising shorelines
-2. **Graduated plantings**: Zone from salt-tolerant pioneers (Russian olive, sea grape) to more demanding species as shelter improves
-3. **Livestock integration**: Salt-tolerant forages (Palmer saltgrass, kallar grass, Russian thistle) enable grazing on marginal saline land while plants rehabilitate soil
-4. **Nitrogen fixation**: Species like *Elaeagnus angustifolia* with *Frankia* symbiosis [[query-how-does-rock-dust-improve-soil-fertility]] in coastal sands
+1. **Mangrove buffers**: Use *Avicennia marina* and companion species as frontline [[query-how-does-rock-dust-improve-soil-fertility]] in coastal sands
 5. **Honey production**: Many coastal trees and shrubs (mangrove, tea tree, melaleuca) provide nectar flows for beekeeping
 6. **Multi-crop orchards**: Species like icaco palm and sea grape provide fruit while serving as windbreaks
 ## See Also
-- [[salt-tolerant-trees-and-shrubs-permaculture]]
 - [[salt-tolerant-shrubs-and-trees]]
-- [[permaculture-salt-tolerant-fodder-plants]]
-
-## Practical Applications
-
-The principles and techniques discussed here have wide-ranging applications
-across multiple disciplines and contexts. Practitioners and researchers
-continue to explore new ways to integrate these concepts into modern practice,
-adapting traditional knowledge to contemporary challenges and opportunities.
-
-## Key Considerations
-
-Several important factors influence the effectiveness and outcomes described
-in this topic. Understanding these considerations helps practitioners make
-informed decisions and avoid common pitfalls. Environmental conditions,
-timing, and material selection all play critical roles.
-
-## Historical Context
-
-The historical development of this subject reflects centuries of accumulated
-knowledge and practical experience. From traditional methods passed down
-through generations to modern scientific approaches, the evolution continues
-to inform current best practices and research directions.
-
-## Common Challenges
-
-Practitioners frequently encounter several challenges when working with
-these concepts. Climate variability, resource limitations, and knowledge
-gaps can all affect outcomes. Addressing these challenges requires patience,
-observation, and a willingness to adapt approaches based on results.
-
-## See Also
 - [[betula-populifolia]]
-- [[chrysobalanus-icaco]]
 - [[chenopodium-quinoa]]
-- [[distichlis-palmeri]]
 - [[nyssa-ogeche]]

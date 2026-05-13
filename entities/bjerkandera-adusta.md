@@ -27,25 +27,13 @@ sources:
 ---
 # Bjerkandera adusta
 
-**Bjerkandera adusta**, the **smoky polypore**, is a cosmopolitan [[ligninolytic-enzyme-systems-white-rot-fungi]] families — [[lignin-peroxidase-mechanism]] (LiP), and [[query-what-are-the-best-mushroom-species-for-bioremediation]], biobleaching, and [[mollison-designers-wastewater-treatment-wetlands]].
+**Bjerkandera adusta**, the **smoky polypore**, is a cosmopolitan [[lignin-peroxidase-mechanism]] (LiP), and [[mollison-designers-wastewater-treatment-wetlands]].
 
 ## Taxonomy
 
 Originally described as *Boletus adustus* by Willdenow (1787) and transferred to
 *Bjerkandera* by Karsten (1879), the genus honors Swedish botanist Clas Bjerkander.
-The epithet *adusta* means "scorched," referring to the dark [[comparison-fruiting-body-vs-mycelium-extracts-medicinal-mushrooms]]. It is
-sometimes confused with *B. fumosa*, which maintains a white pore surface that does
-not darken with bruising.
-
-## Morphology
-
-Fruiting bodies are annual to semi-perennial brackets, sessile to effused-reflexed.
-Caps measure 2–8 cm wide and 1–3 cm thick, with zonate surfaces grey to dark grey-
-brown, characteristically smoky-grey at the margin. The pore surface is white to
-pale grey initially, darkening to smoky grey with age or bruising — the key
-diagnostic feature. Pores are angular to circular, 3–5 per mm. Context is corky,
-white to cream. Spores are cylindrical to ellipsoid (4–6 x 1.5–2.5 um), smooth,
-hyaline, inamyloid, producing a white [[phanerochaete-chrysosporium]]
+The epithet *adusta* means "scorched," referring to the dark [[phanerochaete-chrysosporium]]
 
 While *P. chrysosporium* is the better-characterized model with extensive genetic
 tools, *B. adusta* has a distinctive advantage: it produces strong laccase
@@ -81,3 +69,82 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
+
+## Overview
+
+Bjerkandera Adusta represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish bjerkandera adusta
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving bjerkandera extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Bjerkandera Adusta finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for bjerkandera adusta. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+bjerkandera adusta and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Bjerkandera Adusta has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of bjerkandera adusta into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also

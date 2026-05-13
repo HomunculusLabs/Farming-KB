@@ -21,17 +21,8 @@ while veins may remain slightly green. It is corrected by applying sulfur-
 containing
 amendments like Epsom salt (magnesium sulfate), elemental sulfur, or sulfate-
 based
-fertilizers, and by ensuring proper pH in the root zone. The [[cannabis-nutrient-deficiency-guide]] and [[cannabis-nutrient-lockout-and-ph]]
-and [[cervantes-micronutrient-deficiency-chelation]] and
-[[calcium-magnesium-secondary-nutrients]] page covers [[cervantes-secondary-nutrient-deficiency]] 
-relationships and
-interactions in cannabis nutrition.
-
-For hydroponic growers, add a sulfur-containing nutrient supplement to your 
-reservoir.
-Most base nutrient formulas already contain sulfur in the form of sulfates, so a
- deficiency
-may indicate that your [[cannabis-nutrient-solution-preparation]] is too diluted or that your water 
+fertilizers, and by ensuring proper pH in the root zone. The [[cannabis-nutrient-lockout-and-ph]]
+and [[calcium-magnesium-secondary-nutrients]] page covers [[cannabis-nutrient-solution-preparation]] is too diluted or that your water 
 source is lacking.
 Check your nutrient manufacturer's guaranteed analysis to verify sulfur content.
  Potassium
@@ -40,7 +31,6 @@ be added at
 quarter to half strength to correct the deficiency without causing other 
 imbalances. The
 
-- [[query-how-to-fix-magnesium-deficiency-in-cannabis]]
 - [[query-how-to-identify-and-fix-cannabis-iron-deficiency]]
 ## Practical Considerations
 

@@ -9,7 +9,7 @@ created: 2026-05-08
 
 ## Overview
 
-A key discovery in Shirota, Hakamata, and Goda's 2003 synthesis of psilocybin was the identification of an unexpected zwitterionic N,O-dibenzyl phosphate derivative (compound 8) formed during the phosphorylation of [[psilocin]]. The structural elucidation of this compound relied on two-dimensional NMR techniques — specifically HMBC (Heteronuclear Multiple Bond Correlation) and NOESY (Nuclear Overhauser Effect Spectroscopy) — which revealed an [[shirota-zwitterion-discovery-intramolecular-benzyl-migration-phosphorylation]] migration from oxygen to nitrogen that had not been previously characterized. This page examines the NMR methodology used and the structural insights it provided.
+A key discovery in Shirota, Hakamata, and Goda's 2003 synthesis of psilocybin was the identification of an unexpected zwitterionic N,O-dibenzyl phosphate derivative (compound 8) formed during the phosphorylation of [[shirota-zwitterion-discovery-intramolecular-benzyl-migration-phosphorylation]] migration from oxygen to nitrogen that had not been previously characterized. This page examines the NMR methodology used and the structural insights it provided.
 
 ## The Discovery
 
@@ -69,16 +69,7 @@ NOESY provided supporting evidence for the zwitterionic structure by showing spa
 
 ### Mechanism
 
-The conversion of the O,O-dibenzyl phosphate (7) to the zwitterionic N,O-dibenzyl phosphate (8) represents an [[intramolecular-benzyl-migration-zwitterionic-phosphate-psilocybin-synthesis]] from oxygen to nitrogen. The likely mechanism involves:
-
-1. **Hydrolytic cleavage** — During aqueous workup, one O-benzyl group is partially hydrolyzed
-2. **Quaternary ammonium formation** — The liberated benzyl group migrates to the more nucleophilic nitrogen atom, forming a quaternary ammonium ion
-3. **Zwitterion formation** — The remaining O-benzyl phosphate carries a negative charge, while the quaternary nitrogen carries a positive charge
-4. **Precipitation** — The zwitterionic compound's low solubility in organic solvents causes it to precipitate from the reaction mixture
-
-### Why This Matters
-
-The [[psilocybin-synthesis-zwitterionic-intermediate-filtration-method]] was the key to the synthesis's success. Its insolubility in dichloromethane made it possible to isolate it by simple filtration on a large scale, avoiding the need for column chromatography:
+The conversion of the O,O-dibenzyl phosphate (7) to the zwitterionic N,O-dibenzyl phosphate (8) represents an [[psilocybin-synthesis-zwitterionic-intermediate-filtration-method]] was the key to the synthesis's success. Its insolubility in dichloromethane made it possible to isolate it by simple filtration on a large scale, avoiding the need for column chromatography:
 
 > "The zwitterionic nature of 8 made possible its large-scale isolation by filtration, in over 85% yield, since the excess remaining dibenzyl phosphate was removed by washing with CH₂Cl₂."
 
@@ -117,8 +108,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[psilocybin]]
 - [[psilocin]]
-- [[det]]
 - [[psilocybin-synthesis-zwitterionic-phosphate-intermediate-shirota-2003]]
 - [[zwitterionic-phosphate-intermediate-psilocybin-synthesis]]

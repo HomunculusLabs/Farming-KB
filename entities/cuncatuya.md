@@ -6,14 +6,7 @@ type: entity
 
 ## Description
 
-Cuncatuya is a serious and potentially fatal disease in [[amazonian-vegetalista-shamanism-degrees-and-hierarchy]] medicine, transmitted through contaminated drinking water. The illness is understood to be caused either by a sorcerer who dispatches a *mashu* (bat) to drop its *yachay* (magical phlegm) into the victim's water supply, or by a bat naturally depositing saliva into uncovered water containers. Once ingested, the disease manifests as progressive weakness leading to an inability to ingest any nutrition, ultimately causing death if untreated.
-
-The internal pathology involves parasitic worms that reproduce within the body, suck blood, and mature into tick-like organisms that open wounds in the throat, preventing the victim from eating or drinking. The disease is described in Vision 31 of [[pablo-amaringo]]'s *[[ayahuasca-visions]]*, where a woman is depicted drinking contaminated water from a jar on a grill. The vision simultaneously shows the cure in progress, with a vegetalista sucking out the disease using the magical phlegm (*mann*) from his throat, while protective guardians form a perimeter around the healing circle.
-
-## Classification
-
-- **Domain**: Shamanic disease / waterborne illness
-- **[[ayahuasca-pharmacology-and-cultural-context]]**: Amazonian vegetalismo
+Cuncatuya is a serious and potentially fatal disease in [[pablo-amaringo]]'s *[[ayahuasca-pharmacology-and-cultural-context]]**: Amazonian vegetalismo
 - **Transmission**: Water contaminated by bat phlegm or saliva; also sorcery-mediated
 - **Pathology**: Internal parasitism; blood-sucking worms that mature and wound the throat
 - **Severity**: Fatal if untreated
@@ -52,21 +45,7 @@ The sorcerer's circle includes animals that maintain and intensify cuncatuya:
 - **Shuyo** — wolf fish (*Hoplerythrinus unitaeniatus*), another phlegm-bearing fish species
 - **Ilausa-machaco** — phlegm-snake, an entity that intensifies the sorcerer's spell
 
-Plants that intensify the disease's pain include *maramara*, cacao (*[[theobroma-cacao]]*), *macambo* (*Theobroma quinquenervia*), and *huamas* (water hyacinth, *Eicchornia crassipes*). Additional threats include horned anacondas, rays, eels, and a *tinaja yachay* jar releasing two red apes that bite the victim.
-
-The vegetalista's guardians include the great princes of the kingdom of the Dunas, armed with lances, shields, swords, and magic coats of mail, riding *yura-caballos* (white horses). A large spaceship from the Kima constellation appears in the vision, bringing knowledge of meditation and levitation.
-
-## Relevance to Cultivation and Mycology
-
-- The disease description closely parallels **real parasitic infections** from contaminated water, particularly nematode or trematode infections common in tropical South America
-- The emphasis on keeping water jars covered reflects practical **water sanitation knowledge** embedded in Amazonian cultural practice
-- The animal vectors (bats, snails, leeches) correspond to known **parasite life cycle hosts** in tropical medicine
-- The plants mentioned as intensifying the disease may reflect observed **ecological relationships** between water contamination and riparian vegetation
-- Water hyacinth (*Eicchornia crassipes*) is a known **habitat modifier** in Amazonian waterways, affecting water quality and pathogen ecology
-- The cure methodology parallels traditional **phlebotomy and parasite removal** techniques found across indigenous medical systems
-- Understanding cuncatuya narratives can inform **ethnobotanical surveys** of protective plants (*pushco-yuyo*, *casha-huasca*) for antimicrobial and antiparasitic properties
-- The detailed taxonomy of fish species demonstrates sophisticated **ichthyological knowledge** among vegetalistas
-- The concept of worms maturing from blood-suckers to throat-wounding ticks mirrors actual **parasite life cycles** with multiple [[psilocybe-cubensis-developmental-stages]]
+Plants that intensify the disease's pain include *maramara*, cacao (*[[psilocybe-cubensis-developmental-stages]]
 
 ## Preventive Lesson
 
@@ -94,7 +73,7 @@ Disease microbes, sorcerer allies, and parasitic entities must be prevented from
 
 This makes cuncatuya a useful case study for comparing shamanic protection with ecological containment.
 
-It connects directly to [[amazonian-shamanic-battles-and-defensive-powers]], [[amaringo-ayahuasca-visions-shipibo-iconography]], and [[ayahuasca-preparation-pablo-amaringo-ucayali-shamanism]].
+It connects directly to [[amaringo-ayahuasca-visions-shipibo-iconography]], and [[ayahuasca-preparation-pablo-amaringo-ucayali-shamanism]].
 
 ## Ecological Reading
 

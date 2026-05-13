@@ -18,21 +18,7 @@ The mycorrhizal symbiosis is ancient, with fossil evidence suggesting it origina
 
 Several distinct types of mycorrhizal associations exist, classified by their anatomical and taxonomic characteristics.
 
-**[[proteomics-early-arbuscular-mycorrhiza-symbiosis]] (AM)** is the most common type, formed by fungi in the phylum Glomeromycota.
-AM fungi penetrate root cortical cells, forming treelike structures called arbuscules that provide the primary interface for nutrient exchange.
-They also form vesicles, lipid-filled storage structures.
-AM associations are found in the majority of herbaceous plants, many shrubs, and some tropical trees.
-The association is estimated to be over 400 million years old, potentially playing a role in the initial colonization of land by plants.
-
-**Ectomycorrhiza (ECM)** involves fungi from diverse basidiomycete and ascomycete lineages that associate primarily with woody plants in temperate and boreal forests.
-Unlike AM fungi, ECM fungi do not penetrate root cells.
-Instead, they form a dense sheath (mantle) around root tips and a network of hyphae (Hartig net) between root cortical cells.
-ECM fungi produce the familiar mushroom fruiting bodies seen on forest floors.
-Important ECM genera include Amanita, Boletus, Russula, Lactarius, and Cortinarius.
-
-**Ericoid Mycorrhiza** is formed by fungi in association with plants in the order Ericales (heaths, heathers, blueberries, rhododendrons).
-These fungi penetrate root cells and form coils within them.
-This association is particularly important for plants growing in nutrient-poor, acidic soils where [[chelation-microbial-mineral-availability-ingham]] is extremely limited.
+**[[chelation-microbial-mineral-availability-ingham]] is extremely limited.
 
 **Orchid Mycorrhiza** is essential for orchid germination and early growth.
 Orchid seeds lack endosperm and cannot germinate without fungal infection.
@@ -54,25 +40,18 @@ Mycorrhizal fungi also supply nitrogen, potassium, calcium, magnesium, and micro
 Mycorrhizae influence ecosystem function at multiple scales:
 
 - **Plant community dynamics**: Mycorrhizal networks mediate plant competition and coexistence.
-  [[common-mycorrhizal-networks]] can redistribute resources among plants of different species, potentially reducing competitive exclusion and maintaining diversity.
-- **Forest health**: ECM fungi are critical for tree health and forest regeneration.
-  Seedlings establishing near mature trees benefit from shared mycorrhizal networks that provide access to water and nutrients.
-- **Soil structure**: Mycorrhizal hyphae bind soil particles together and produce glomalin, a sticky glycoprotein that contributes to soil aggregate stability and [[mycorrhizal-carbon-sequestration]].
+  [[mycorrhizal-carbon-sequestration]].
 - **Carbon cycling**: Mycorrhizal fungi are a major sink for plant carbon.
   Recent estimates suggest that mycorrhizal pathways transfer more carbon into soil than all other soil processes combined.
 
 ## Agriculture and Horticulture
 
-In agricultural systems, mycorrhizal associations can reduce fertilizer requirements, improve [[dighton-fungal-drought-tolerance-plant-water-relations]], and enhance disease resistance.
-However, intensive agricultural practices including tillage, high phosphorus fertilization, and monoculture cropping can reduce [[arbuscular-mycorrhizal-colonization-patterns]].
-Interest in [[pgpr-mycorrhizal-inoculants-microplant-establishment]] as sustainable agricultural amendments has grown significantly.
-The [[mycorrhizal-fertilizer-reduction]] potential makes these fungi particularly valuable for organic and low-input farming systems.
+In agricultural systems, mycorrhizal associations can reduce fertilizer requirements, improve [[arbuscular-mycorrhizal-colonization-patterns]].
+Interest in [[mycorrhizal-fertilizer-reduction]] potential makes these fungi particularly valuable for organic and low-input farming systems.
 
 ## Bioremediation Applications
 
-Mycorrhizal fungi contribute to [[mycorrhizal-fungi-bioremediation]] by enhancing plant tolerance to heavy metals and organic pollutants.
-ECM fungi can sequester toxic metals in their biomass and fruiting bodies, effectively removing them from soil solution.
-[[comparison-soil-food-web-vs-arbuscular-mycorrhizal-fungi]] fungi have been shown to improve phytoremediation of petroleum-contaminated soils by supporting plant growth while degrading hydrocarbons through associated microbial communities.
+Mycorrhizal fungi contribute to [[comparison-soil-food-web-vs-arbuscular-mycorrhizal-fungi]] fungi have been shown to improve phytoremediation of petroleum-contaminated soils by supporting plant growth while degrading hydrocarbons through associated microbial communities.
 
 ## Evolution and Paleobotany
 
@@ -88,3 +67,84 @@ Climate change may significantly alter mycorrhizal function and distribution.
 Elevated atmospheric CO2 generally increases carbon allocation to mycorrhizal fungi, potentially enhancing nutrient uptake.
 However, warming temperatures and altered precipitation patterns can shift the composition of mycorrhizal communities, with unknown consequences for ecosystem productivity.
 Understanding these dynamics is critical for predicting how forests and grasslands will respond to ongoing environmental change.
+
+## Overview
+
+Mycorrhiza represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish mycorrhiza
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving mycorrhiza extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Mycorrhiza finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for mycorrhiza. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+mycorrhiza and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Mycorrhiza has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of mycorrhiza into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[fukuoka-mycorrhiza-collapse-cascade-ecosystem-failure]]

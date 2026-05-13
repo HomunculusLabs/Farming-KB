@@ -18,9 +18,7 @@ sources:
 
 ## Overview
 
-**Nepenthes ampullaria**, the flask-shaped pitcher plant, is a tropical carnivorous plant in the family Nepenthaceae. It is native to [[psilocybe-southeast-asia-pacific]] including Borneo, Sumatra, Peninsular Malaysia, Thailand, and New Guinea.
-
-Unlike most Nepenthes species, N. ampullaria is noted for its detritivorous habits. Its lower pitchers function primarily as pitfall traps for [[dighton-fungal-decomposition-leaf-litter-dynamics]] and falling debris rather than active insect capture.
+**Nepenthes ampullaria**, the flask-shaped pitcher plant, is a tropical carnivorous plant in the family Nepenthaceae. It is native to [[dighton-fungal-decomposition-leaf-litter-dynamics]] and falling debris rather than active insect capture.
 
 The species produces distinctive squat, bulbous lower pitchers with broad, flared peristomes. It is one of the most shade-tolerant Nepenthes species and often grows on the rainforest floor.
 
@@ -52,9 +50,7 @@ It grows as a terrestrial or lithophytic plant. Substrates include peat swamps, 
 
 N. ampullaria employs a unique trapping strategy that distinguishes it from most other Nepenthes. Its lower pitchers are positioned horizontally or angled upward to intercept falling leaf litter.
 
-The broad peristome is often partially submerged in accumulated rainwater and debris. Insects that enter to feed on the decomposing [[hamilton-composting-and-organic-matter-management]] frequently become trapped.
-
-The pitcher fluid is notably less viscous and less acidic than in insectivorous Nepenthes species. This adaptation supports a diverse [[edaphic-factors-microbial-community-structure]] involved in decomposition.
+The broad peristome is often partially submerged in accumulated rainwater and debris. Insects that enter to feed on the decomposing [[edaphic-factors-microbial-community-structure]] involved in [[decomposition]].
 
 Analysis of pitcher contents consistently shows that leaf litter and plant debris constitute the majority of captured material. Animal prey represents a minor fraction of total nutrient intake.
 

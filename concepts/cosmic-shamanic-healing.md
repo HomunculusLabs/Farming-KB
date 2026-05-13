@@ -1,12 +1,12 @@
 ---
-title: "Cosmic Shamanic Healing"
+title: "Cosmic [[metzner-shamanic-healing-and-divination-paradigm]]"
 source: amaringo-p-ayahuasca-visions.md
 type: concept
 ---
 
 # Cosmic Shamanic Healing
 
-In the [[amazonian-ship-aceropunta-and-visionary-cosmology]] of [[ayahuasca-preparation-pablo-amaringo-ucayali-shamanism]], healing is not confined to the physical body or even the earthly realm. Shamans routinely interact with extraterrestrial beings, travel to distant planets, receive knowledge from cosmic civilizations, and perform surgery in visionary space with the assistance of beings from other galaxies. This article explores the intersection of [[turner-essential-psychedelics-lsd-cosmic-consciousness]] and shamanic healing practice as revealed through [[amaringo-ayahuasca-visions-shipibo-iconography]].
+In the [[ayahuasca-preparation-pablo-amaringo-ucayali-shamanism]], healing is not confined to the physical body or even the earthly realm. Shamans routinely interact with extraterrestrial beings, travel to distant planets, receive knowledge from cosmic civilizations, and perform surgery in visionary space with the assistance of beings from other galaxies. This article explores the intersection of [[amaringo-ayahuasca-visions-shipibo-iconography]].
 
 ## Vision of the Planets
 
@@ -22,7 +22,7 @@ Jupiter appears with the fairy Guibori and her magic blue star. Two comets trave
 
 ### The Outer Planets
 
-Saturn, Uranus, Neptune, and Pluto appear in the center of the vision. The text notes that vegetalistas may visit all these planets "rather easily, because they are not very far away" — a statement that refers to spiritual distance rather than physical distance, emphasizing the accessibility of cosmic consciousness through [[glossolalia-and-altered-states]].
+Saturn, Uranus, Neptune, and Pluto appear in the center of the vision. The text notes that vegetalistas may visit all these planets "rather easily, because they are not very far away" — a statement that refers to spiritual distance rather than physical distance, emphasizing the accessibility of [[turner-essential-psychedelics-lsd-cosmic-consciousness]] through [[glossolalia-and-altered-states]].
 
 ### Venus
 
@@ -96,7 +96,7 @@ The terrible mannhuaira dwells on the far side of the lake with its spirit Killo
 
 ## Spiritual Heart Operation
 
-One of the most remarkable visions is a literal spiritual surgery performed on Amaringo himself in 1959 at Tamanco. Suffering from heart disease, he was given very strong ayahuasca by his father.
+One of the most remarkable visions is a literal spiritual surgery performed on Amaringo himself in 1959 at Tamanco. Suffering from [[blesching-cannabis-cardiovascular-heart-disease-evidence-review]], he was given very strong ayahuasca by his father.
 
 ### The Surgical Team
 

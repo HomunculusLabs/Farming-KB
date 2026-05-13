@@ -13,7 +13,7 @@ tags: [cannabis]
 
 ## Overview
 
-[[cervantes-cannabis-butter-cooking]] (cannabutter) is a foundational ingredient for making [[oner-cannabis-edibles-infusion-dosing]]. According to Cervantes, cannabutter is simple to make, retains about 80 percent of the cannabinoids present in the original foliage, and can be processed in large batches for storage in the refrigerator or freezer. The psychoactive cannabinoids dissolve in butter, making them available for absorption by the body when consumed orally.
+[[oner-cannabis-edibles-infusion-dosing]]. According to Cervantes, cannabutter is simple to make, retains about 80 percent of the cannabinoids present in the original foliage, and can be processed in large batches for storage in the refrigerator or freezer. The psychoactive cannabinoids dissolve in butter, making them available for absorption by the body when consumed orally.
 
 ## Scientific Basis
 
@@ -61,30 +61,11 @@ Important dosage notes:
 
 Cannabutter can be made from various cannabis materials:
 
-- Trimmed fan leaves from [[cervantes-cannabis-tinctures]] use liquor as a solvent to dissolve resin glands into a potent liquid concentrate. Tinctures offer faster onset than butter-based edibles.
-
-## Cannabis Oil Potency
-
-Well-made cannabis oil is extremely potent, often registering more than 70 percent THC. While cannabutter retains about 80 percent of original cannabinoids, more refined oil extracts can achieve even higher concentrations.
-
-## Safety Notes
-
-- Always simmer on low heat to avoid burning the butter
-- Do not exceed moderate temperatures or cannabinoids may degrade
-- The water in the recipe acts as a temperature buffer to prevent scorching
-- Label all cannabis-infused products clearly to prevent accidental consumption
-- Keep away from children and pets
-- Store in refrigerator or freezer to prevent spoilage
-
-## Reference
-
-For more complete information on [[comparison-cannabis-extraction-basics-vs-extraction-methods]], Cervantes references "The Marijuana Herbal Cookbook" by Tom Flowers (Flowers Publishing, 1995).
+- Trimmed fan leaves from [[comparison-cannabis-extraction-basics-vs-extraction-methods]], Cervantes references "The Marijuana Herbal Cookbook" by Tom Flowers (Flowers Publishing, 1995).
 
 ## See Also
 
-- [[cannabis-oil-extraction]]
 - [[cannabis-manicuring-techniques]]
-- [[cannabis-resin-production-and-quality-traits-clarke]]
 - [[cannabis-seed-selection-and-strain-types]]
 
 ## Practical Applications
@@ -116,8 +97,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[marijuana-magick-cannabis-sacred-spatial-preparation]]
 - [[cannabis-seed-scuffing-and-preparation]]
-- [[marijuana-magick-cannabis-incense-and-preparation]]
 - [[lemon-cannabis-alchemy-hashish-preparation]]
 - [[cannabis-oil-capsules-preparation]]

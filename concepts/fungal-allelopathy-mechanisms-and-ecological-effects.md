@@ -18,13 +18,7 @@ which fungi structure microbial communities in soil, wood, and leaf litter.
 ## Mechanisms of Fungal Allelopathy
 
 Fungal allelopathic interactions operate through several distinct chemical
-mechanisms. The production of [[antifungal-secondary-metabolites-coprophilous-fungi]] is one of the
-most widespread strategies, with many fungi synthesizing compounds that directly
-inhibit the growth of competing microorganisms. These antibiotics include a
-vast array of chemical classes, from simple organic acids to complex
-polyketides and nonribosomal peptides.
-
-[[chamovitz-plant-scent-communication-volatile-organic-compounds]] represent another important class of allelopathic
+mechanisms. The production of [[chamovitz-plant-scent-communication-volatile-organic-compounds]] represent another important class of allelopathic
 agents. Many fungi release VOCs that diffuse through soil and air to create
 zones of inhibition around colonies. These volatiles suppress germination of
 competitor spores, inhibit hyphal extension, and alter metabolic activity at
@@ -61,26 +55,14 @@ can lead to overgrowth of either partner and breakdown of the lichen thallus.
 
 Polyphenols and tannins produced by fungi and plants play significant roles in
 allelopathic interactions. Plant-produced polyphenols that leach into soil can
-inhibit [[fungal-decomposition-processes]], indirectly creating allelopathic effects
-mediated through the decomposer community.
-
-Pathogens induce higher levels of plant-defense chemicals, particularly
-polyphenols and tannins, in infected plant tissues. The higher content of these
-chemicals reduces leaf palatability to soil fauna and, by increasing the
-carbon-to-nitrogen ratio, reduces the ability of saprotrophic and mycorrhizal
-fungi to decompose leaf litter. With sustained high pathogen levels, this
-positive feedback could reduce soil fertility at local and regional levels.
-
-[[laccaria-bicolor]], an ectomycorrhizal fungus, produces polyphenol oxidases that
+inhibit [[laccaria-bicolor]], an ectomycorrhizal fungus, produces polyphenol oxidases that
 can modify the allelopathic properties of polyphenolic compounds in soil,
 potentially detoxifying them for the host plant or converting them to forms
 that differentially affect other soil organisms.
 
 ## Allelopathy and Mycorrhizal Interactions
 
-Research on [[rhododendron-maximum]] litter demonstrated that allelopathic compounds
-suppressed mycorrhizal colonization of native hemlock seedlings. Trees in
-rhododendron litter had significantly higher proportions of [[cenococcum-geophilum]]
+Research on [[cenococcum-geophilum]]
 mycorrhizae, suggesting selective favoring of stress-tolerant mycorrhizal
 species. This shift in mycorrhizal community composition has implications for
 plant community development, as changes in mycorrhizal partner assemblages
@@ -117,8 +99,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[dom]]
 - [[det]]
-- [[soma]]
 - [[spore]]
 - [[lichens]]

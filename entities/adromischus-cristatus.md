@@ -108,13 +108,8 @@ The species has no known conservation concerns, as its native populations occur 
 
 ## See Also
 
-- [[crassula-ovata]]
 - [[cotyledon-tomentosa]]
-- [[echeveria-elegans]]
 - [[haworthia-fasciata]]
-- [[gasteria-verrucosa]]
 - [[kalanchoe-tomentosa]]
-- [[sedum-acre]]
 - [[pachyphytum-oviferum]]
-- [[graptopetalum-paraguayense]]
 - [[aeonium-arboreum]]

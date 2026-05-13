@@ -21,37 +21,7 @@ notes, tchefau may be compared to the Greek concepts of Ambrosia and Nectar.
 - **Category:** Mythological / ritual substance
 - **Cultural origin:** Ancient Egypt (KMT / Al Khemit)
 - **Related concepts:** Celestial food, bread of Ra, divine flesh, Hu (god of taste)
-- **Ethnomycological identification:** [[allegro-amanita-muscaria-properties-and-pharmacology]] (proposed)
-
-## Key Facts
-
-- Referenced directly in the Papyrus of Ani (The Doctrine of Eternal Life).
-- Budge identifies tchefau as "the name of the food on which the gods lived," drawing
-  parallels to Ambrosia and Nectar in Greek mythology.
-- Associated with the god Hu (god of taste), who along with Saa was created from drops
-  of blood that landed on the ground when Ra cut off his phallus.
-- The tchefau food is described as "falling from the eastern horizon of heaven at the
-  word of Nut" connecting it to astronomical symbolism.
-- Paired with "Hu" in the phrase "celestial food hu and tchefau," suggesting a dual
-  nature (substance + experience of taste/consciousness).
-- The food is hidden and secret: "Let not the multitude know of it except thyself and
-  the beloved friend of thy heart. It is indeed a mystery."
-- Consumption grants eternal life, power over evil, and ability to perform every
-  transformation the soul desires.
-
-## Context in Egyptian Religion
-
-The initiate who consumes tchefau is said to:
-
-1. Come forth pure by day after death (death-rebirth experience)
-2. Perform every transformation the soul desires (out-of-body travel)
-3. See the disk of the sun (direct divine encounter)
-4. Be among the Followers of Un-Nefer (Osiris in his funerary aspect)
-5. Have no evil thing have dominion over them forever
-
-## Ethnomycological Significance
-
-The description of tchefau aligns with [[entheogenic-mushroom-species]] consumption:
+- **Ethnomycological identification:** [[entheogenic-mushroom-species]] consumption:
 
 - **Birth from blood on ground:** The myth of Hu and Saa being born from Ra's blood
   on earth parallels the growth pattern of Amanita muscaria.
@@ -60,33 +30,87 @@ The description of tchefau aligns with [[entheogenic-mushroom-species]] consumpt
   mirrors the anthropomorphic identification of the mushroom as both sustenance and
   deity found in Hinduism (Soma), Christianity (Eucharist), and Mithraism.
 - **Transformative effects:** Promised abilities are consistent with psychedelic
-  [[turner-psychedelic-combination-experience-reports]].
-
-## Cross-Cultural Parallels
-
-| Culture | Equivalent | Description |
-|---------|-----------|-------------|
-| Greek | Ambrosia / Nectar | Food of the Olympian gods |
-| Hindu | Soma / Amrita | Elixir of the gods |
-| Christian | Eucharist | Body of Christ |
-| Mithraic | Sacred Meal | Communal sacramental feast |
-| Buddhist | Amrta | Elixir of immortality |
-
-## Relevance to Cultivation and Mycology
-
-- [[ghouled-field-guide-historical-context]] for ritual use of [[amanita-muscaria-in-eastern-religions]] ancient Egypt
-- Evidence for deep antiquity of entheogenic mushroom use in religious contexts
-- Framework for understanding how mushroom knowledge was encoded mythologically
-- Comparative material for cross-cultural entheogenic studies
-
-## Sources
-
-- Arthur, J. *[[arthur-mushrooms-and-mankind-ethnomycology-and-religion]]*
+  [[ghouled-field-guide-historical-context]] for ritual use of [[arthur-mushrooms-and-mankind-ethnomycology-and-religion]]*
 - Budge, E.A. Wallis. *The Egyptian Book of the Dead* (Papyrus of Ani translation)
 
 ## See Also
-- [[mycology]]
 - [[amanita-muscaria]]
-- [[amanita]]
 - [[dom]]
 - [[doc]]
+
+## Overview
+
+Tchefau represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish tchefau
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving tchefau extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Tchefau finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for tchefau. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+tchefau and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Tchefau has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of tchefau into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.

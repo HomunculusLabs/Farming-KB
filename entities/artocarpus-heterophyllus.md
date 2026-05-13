@@ -4,10 +4,7 @@ type: species
 tags:
   - tree
   - tropical
-  - [[permaculture]]
-  - edible-fruit
-  - moraceae
-  - [[agroforestry]]
+  - agroforestry
   - largest-fruit
 date: 2026-04-28
 updated: 2026-04-28
@@ -26,7 +23,7 @@ created: 2026-04-28
 
 Individual fruits can weigh up to 55 kg and reach 90 cm in length, making it a remarkable example of botanical gigantism.
 
-Native to South and [[psilocybe-southeast-asia-pacific]], the species has become naturalized across [[fukuoka-natural-farming-in-tropical-regions]] worldwide.
+Native to South and [[fukuoka-natural-farming-in-tropical-regions]] worldwide.
 
 Every part of the tree has economic value: fruit, seeds, timber, latex, and leaves all serve distinct purposes.
 
@@ -66,11 +63,7 @@ Seeds are ellipsoid, 2-3 cm long, brown, and contain 10-15% protein with a chest
 
 Native to the Western Ghats of India and possibly the rainforests of Malaysia and Indonesia.
 
-Now widely cultivated throughout tropical Asia, Africa, the Caribbean, and Central and [[guzman-psilocybin-mushrooms-south-america]].
-
-Optimal growth occurs at elevations below 1000 meters with annual rainfall of 1500-2500 mm.
-
-The tree tolerates a wide range of [[mollison-designers-tropical-soils-and-cation-exchange-management]] but performs best in deep, well-drained alluvial or loamy soils.
+Now widely cultivated throughout tropical Asia, Africa, the Caribbean, and Central and [[mollison-designers-tropical-soils-and-cation-exchange-management]] but performs best in deep, well-drained alluvial or loamy soils.
 
 It is moderately drought-tolerant once established but is sensitive to waterlogging and frost.
 
@@ -87,3 +80,7 @@ Potassium content is notably high (448 mg/100 g), supporting cardiovascular heal
 The bulbs contain phytonutrients including carotenoids (beta-carotene, lutein), flavonoids, and isoflavones.
 
 Jackfruit seeds are nutritionally dense, containing 12-15% protein and 30-40% carbohydrates.
+
+## See Also
+
+- [[artocarpus-altilis]]

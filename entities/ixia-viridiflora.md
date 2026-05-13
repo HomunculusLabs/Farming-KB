@@ -107,13 +107,8 @@ The species was introduced to European horticulture in the late 18th century. It
 
 ## See Also
 
-- [[sparaxis-tricolor]]
 - [[dierama-pulcherrimum]]
-- [[watsonia-borbonica]]
 - [[babiana-stricta]]
-- [[freesia-refracta]]
 - [[crocosmia-lucifer]]
-- [[tigridia-pavonia]]
 - [[gladiolus-communis]]
-- [[crocus-sativus]]
 - [[iris-germanica]]

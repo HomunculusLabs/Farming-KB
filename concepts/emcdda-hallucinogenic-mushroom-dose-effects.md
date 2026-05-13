@@ -38,37 +38,14 @@ system as a 5-HT2A post-synaptic agonist or partial agonist.
 
 Beside psilocybin and psilocin, two further tryptamines, baeocystin and
 norbaeocystin, could also be present but are thought to be less active. The
-most commonly used species are [[psilocybe-semilanceata]] (liberty caps), and [[psilocybe-bohemica]]). In other
-species ([[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]]), psilocybin and psilocin could be present in up
-to 0.6% concentration. These values, however, are used for initial orientation
-only.
-
-Given that the psychoactive psilocybin doses are believed to be between 45
-micrograms/kg body weight and 315 micrograms/kg body weight (Hasler et al,
-2004), various speculative calculations could be performed to define the
-number and/or weight of mushrooms needed to obtain the desired recreational
-effects.
-
-The dose 'recommended' for recreational use is reported to be between 1 and
-3.5 to 5 grams of dried mushrooms. The dosage for fresh, wet mushrooms is
-believed to be approximately 10 times higher (10 to 50 grams). These dose
-ranges should be interpreted with caution, as it is difficult to transpose
-the maximum dose of the active substance into mushroom weight or number, as
-the concentration may vary. Furthermore, there is usually more than one active
-substance present. However, short-term tolerance may develop rapidly to both
-physical and [[hallucinogenic-mushroom-acute-psychological-effects-and-bad-trips]], and dosages may increase as a result.
+most commonly used species are [[psilocybe-bohemica]]). In other
+species ([[hallucinogenic-mushroom-acute-psychological-effects-and-bad-trips]], and dosages may increase as a result.
 
 ## Route of Administration
 
 To achieve the desired effects, users ingest (chew up and hold in mouth or
 swallow) the mushrooms raw or dried, or brewed/stewed into tea. Because
-[[emcdda-hallucinogenic-mushrooms-emerging-trend-europe]] generally do not taste good, it is 'recommended' to
-chop them into smaller pieces. Eating them mixed or cooked into food may cause
-nausea and vomiting. The mushrooms can also be dried for later use.
-
-Users' reports on the internet suggest that dried mushrooms are also being
-smoked, which is said to induce faster but milder effects. However, it is not
-clear whether smoking psilocybin and psilocin [[psilocybin-containing-mushrooms-in-us]] can produce
+[[psilocybin-containing-mushrooms-in-us]] can produce
 psychoactive effects. A report on the internet refers to literature reports
 about extract of mushrooms being intravenously injected, which results in more
 severe acute effects.
@@ -118,8 +95,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[hallucinogenic-mushroom-dose-and-effects]]
 - [[psilocybin]]
-- [[psilocin]]
 - [[baeocystin]]
 - [[indole]]

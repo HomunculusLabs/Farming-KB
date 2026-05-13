@@ -20,7 +20,7 @@ Metal biosorption involves several physicochemical mechanisms that may operate s
 
 Ion exchange is one of the primary biosorption mechanisms. Metal cations in solution exchange with light ions (typically hydrogen, sodium, potassium, or calcium) that are bound to anionic functional groups on the biomass surface. This process is reversible and depends on the relative affinity of the biomass for different ions, the concentration gradient, and pH conditions.
 
-The ion [[query-what-is-cation-exchange-capacity-and-why-does-it-matter]] of biological materials is determined by the density and accessibility of ionizable functional groups. Materials with high carboxyl group content (such as pectin-rich plant materials and alginates) tend to have high [[mollison-designers-tropical-soils-and-cation-exchange-management]] capacities for divalent metals such as copper, zinc, cadmium, and lead.
+The ion [[mollison-designers-tropical-soils-and-cation-exchange-management]] capacities for divalent metals such as copper, zinc, cadmium, and lead.
 
 ### Complexation
 
@@ -48,30 +48,9 @@ A wide range of biological materials have been investigated as biosorbents for h
 
 ### Fungal Biomass
 
-Fungi and their byproducts have received considerable attention as biosorbent materials. Fungal cell walls are complex macromolecular structures consisting primarily of chitin, chitosan, and glucans, with additional polysaccharides, proteins, lipids, and pigments such as melanin. This variety of structural components provides many different functional groups for [[chelation-and-metal-binding-in-plants]].
-
-See [[fungal-biosorption-mechanisms]] — detailed [[singh-binary-ternary-fungal-biosorption-systems]] processes
-- [[phytoremediation-mechanisms]] — plant-based contaminant removal
-- [[fungal-binary-ternary-biosorption]] — multi-metal biosorption systems
+Fungi and their byproducts have received considerable attention as biosorbent materials. Fungal cell walls are complex macromolecular structures consisting primarily of chitin, chitosan, and glucans, with additional polysaccharides, proteins, lipids, and pigments such as melanin. This variety of structural components provides many different functional groups for [[fungal-biosorption-mechanisms]] — detailed [[phytoremediation-mechanisms]] — plant-based contaminant removal
 - [[constructed-wetlands-wastewater-treatment]] — wetland-based treatment
-- [[fungal-biosorption-of-heavy-metals-by-filamentous-fungi]]
-## Practical Considerations
-
-When working with Heavy Metal Biosorption, several practical factors should be
-carefully considered to achieve optimal results. These include
-the specific conditions of the implementation context, available
-resources, timing requirements, and the interactions between this
-topic and other elements of the broader system. A holistic view
-that considers these interconnections produces better outcomes.
-
-Environmental conditions such as temperature, moisture, and
-seasonal patterns significantly influence results. Monitoring these
-variables and adapting practices accordingly is essential for success.
-The most effective practitioners develop keen observation skills and
-respond flexibly to changing conditions rather than following rigid
-protocols regardless of circumstances or local variation.
-
-[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
+- [[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -111,8 +90,6 @@ through generations to modern scientific approaches, the evolution continues
 to inform current best practices and research directions.
 
 ## See Also
-- [[det]]
 - [[phytoremediation]]
-- [[fungal-heavy-metal-biosorption-detailed]]
 - [[fungal-heavy-metal-anion-biosorption]]
 - [[fungal-heavy-metal-biosorption-and-detoxification]]

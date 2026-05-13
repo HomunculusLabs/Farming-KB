@@ -23,29 +23,7 @@ sources:
 
 ## Overview
 
-*Passiflora incarnata*, commonly known as passionflower, maypop, or wild passion vine, is a perennial climbing vine in the family Passifloraceae native to the southeastern United States, [[guzman-allen-gartz-neurotropic-fungi-central-america-caribbean]], and parts of [[guzman-psilocybin-mushrooms-south-america]]. It is one of the most extensively researched herbal anxiolytics, with a long history of use in both [[halpern-sacramental-peyote-and-native-american-church]] traditional medicine and Western phytotherapy for the treatment of anxiety, insomnia, and restlessness.
-
-The plant is named for its extraordinary flowers, which were interpreted by 16th-century Spanish missionaries as symbolic of the Passion of Christ — the ten petals and sepals representing the apostles, the corona filaments representing the crown of thorns, the five stamens the five wounds, and the three styles the three nails. This Christian symbolic interpretation is the origin of both the common name and the genus name.
-
-## Taxonomy and Botany
-
-**Kingdom:** Plantae → **Division:** Tracheophyta → **Class:** Magnoliopsida → **Order:** Malpighiales → **Family:** Passifloraceae → **Genus:** *Passiflora* → **Species:** *P. incarnata*
-
-**Synonyms:** *Passiflora incarnata* var. *incarnata*, *Granadilla incarnata*, *Passiflora brittonii*
-
-**Key morphological features:**
-
-- **Growth habit:** Vigorous herbaceous to semi-woody vine, climbing by tendrils to 3–9 meters. Dies back to the root crown in winter in temperate zones and regrows in spring.
-- **Leaves:** Alternate, palmately three-lobed (occasionally five-lobed), 6–15 cm long, finely serrate margins, deep green above and paler below. The leaves are the primary medicinal part.
-- **Flowers:** Extraordinary, complex structure, 5–8 cm in diameter. Ten white to pale lavender petals and sepals, topped by a prominent corona of purple-and-white banded filaments. Blooms from June through September.
-- **Fruit:** An ovoid berry (maypop), 5–7 cm long, green ripening to yellow-orange. The edible pulp is aromatic and mildly sweet, containing numerous dark seeds. The fruit pops audibly when crushed, giving rise to the common name "maypop."
-- **Root system:** Extensive rhizomatous root system that enables the plant to spread aggressively and survive winter dieback.
-
-The plant is a larval host for several butterfly species, most notably the Gulf fritillary (*Agraulis vanillae*) and the variegated fritillary (*Euptoieta claudia*), making it ecologically valuable in native plant gardens.
-
-## Phytochemistry
-
-The pharmacological activity of *P. incarnata* is attributed to a complex mixture of flavonoids, alkaloids, and other [[antifungal-secondary-metabolites-coprophilous-fungi]]:
+*Passiflora incarnata*, commonly known as passionflower, maypop, or wild passion vine, is a perennial climbing vine in the family Passifloraceae native to the southeastern United States, [[guzman-psilocybin-mushrooms-south-america]]. It is one of the most extensively researched herbal anxiolytics, with a long history of use in both [[antifungal-secondary-metabolites-coprophilous-fungi]]:
 
 **Flavonoids (primary active constituents):**
 - **Vitexin** (apigenin-8-C-glucoside) and **isovitexin** — the most abundant and pharmacologically significant compounds
@@ -54,37 +32,99 @@ The pharmacological activity of *P. incarnata* is attributed to a complex mixtur
 - **Apigenin** and **luteolin** (aglycone forms, present in smaller quantities)
 
 **Alkaloids:**
-- **Harman** and **harmaline** — β-carboline alkaloids also found in *[[ayahuasca-and-banisteriopsis-caapi]]*. Present in very low concentrations (< 0.01% in aerial parts) but may contribute to MAO inhibitory activity.
-- **Harmol**
-
-**Other constituents:** Include coumarin derivatives (umbelliferone, scopoletin), phytosterols, amino acids (including GABA at trace levels), and maltol. A volatile oil fraction contains various aromatic compounds.
-
-The total flavonoid content of dried aerial parts typically ranges from 2.0–3.5%, with vitexin and isovitexin accounting for approximately 60% of this fraction.
-
-## Pharmacology
-
-The primary mechanism of action involves modulation of the GABAergic system:
-
-- **GABA_A receptor modulation:** Vitexin and related flavonoids bind to the benzodiazepine site on GABA_A receptors, enhancing chloride ion conductance and producing anxiolytic and sedative effects. This interaction is significantly weaker than that of benzodiazepines (approximately 1/100th the affinity of diazepam), which explains the herb's favorable side-effect profile.
-- **Affinity for 5-HT receptors:** Some evidence suggests weak binding to 5-HT₁A and 5-HT₂C receptors, potentially contributing to antidepressant effects.
-- **[[tihkal-oral-activity-mao-inhibition]]:** The trace harman alkaloids produce mild MAO-A inhibition at high doses, though this is unlikely to be clinically significant at standard therapeutic doses.
+- **Harman** and **harmaline** — β-carboline alkaloids also found in *[[tihkal-oral-activity-mao-inhibition]]:** The trace harman alkaloids produce mild MAO-A inhibition at high doses, though this is unlikely to be clinically significant at standard therapeutic doses.
 
 ## Traditional and Historical Uses
 
-**[[metzner-peyote-ceremonies-native-american-church-and-huichol-traditions]] uses:**
-- Cherokee: Infusion of the roots and leaves used as a topical wash for boils, wounds, and earaches. The roots were also used to treat liver problems and menstrual complaints.
-- Houma and other Gulf Coast peoples: Crushed leaves applied to hemorrhoids and bruises. Root poultices used for boils and inflammations.
-- Eastern tribes generally used the plant as a blood tonic and for treating insomnia.
-
-**Eclectic medicine (19th–early 20th century):**
-- The Eclectic physicians of [[psilocybin-north-america-pacific-northwest]] widely prescribed passionflower for insomnia, nervousness, neuralgia, and "hysteria." It was included in the United States Pharmacopoeia (USP) from 1915 until 1936 and in the National Formulary until 1942.
-- The Eclectic [[herbal-materia-medica]] described the preparation as having "no narcotic properties" while producing "a calm, restful sleep."
-
-**European phytotherapy:**
-- *P. incarnata* has been an official component of the German Commission E monographs since 1985, approved for nervous restlessness and anxiety.
-- It is included in the European Medicines Agency (EMA) HMPC monograph as a traditional [[childrens-herbal-medicine]] for the temporary relief of mild symptoms of mental stress and to aid sleep.
+**[[psilocybin-north-america-pacific-northwest]] widely prescribed passionflower for insomnia, nervousness, neuralgia, and "hysteria." It was included in the United States Pharmacopoeia (USP) from 1915 until 1936 and in the National Formulary until 1942.
+- The Eclectic [[childrens-herbal-medicine]] for the temporary relief of mild symptoms of mental stress and to aid sleep.
 - The British Herbal Pharmacopoeia lists it as a sedative and anxiolytic.
 
 ## Clinical Evidence
 
 The clinical evidence base for passionflower, while not as robust as for conventional anxiolytics, includes several randomized controlled trials:
+
+## Overview
+
+Passiflora Incarnata represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish passiflora incarnata
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving passiflora extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Passiflora Incarnata finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for passiflora incarnata. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+passiflora incarnata and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Passiflora Incarnata has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of passiflora incarnata into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[passiflora-caerulea]]
+- [[passiflora-edulis]]
+- [[passiflora-foetida]]
+- [[passiflora-quadrangularis]]
+- [[passionflower-passiflora]]

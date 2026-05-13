@@ -16,7 +16,7 @@ sources:
 
 # Lysergic Acid Amide
 
-**Lysergic acid amide** (LSA), also known as **D-lysergamide** or **ergine**, is a naturally occurring ergoline alkaloid and psychedelic compound. It is found in several species of [[sacred-mexican-morning-glories-ololiuqui-and-tlitliltzin]] ([[turbina-corymbosa]]) and other Convolvulaceae, as well as in the fungal genus Claviceps (ergot fungi). LSA is a direct chemical precursor to LSD and shares a similar ergoline backbone, though it is significantly less potent and produces a qualitatively different experience.
+**Lysergic acid amide** (LSA), also known as **D-lysergamide** or **ergine**, is a naturally occurring ergoline alkaloid and psychedelic compound. It is found in several species of [[turbina-corymbosa]]) and other Convolvulaceae, as well as in the fungal genus Claviceps (ergot fungi). LSA is a direct chemical precursor to LSD and shares a similar ergoline backbone, though it is significantly less potent and produces a qualitatively different experience.
 
 ## Chemical Profile
 
@@ -48,43 +48,94 @@ LSA occurs in several plant families:
 ### Convolvulaceae (Morning Glory Family)
 - **Ipomoea tricolor** (Heavenly Blue morning glory): ~0.05% LSA in seeds
 - **Ipomoea violacea**: Similar alkaloid profile to I. tricolor
-- **[[plants-of-the-gods-turbina-corymbosa-ololiuqui]]** (Ololiuqui): ~0.02% LSA in seeds; sacred to Aztec/Mazatec peoples
 - **[[purple-ohms-argyreia-nervosa-legal-mushroom-substitutes]]** (Hawaiian Baby Woodrose): ~0.3% LSA in seeds — highest known natural concentration
 - **Rivea corymbosa**: Synonymous with T. corymbosa in older literature
 
 ### Fungal Sources
-- **[[bloomfield-ergot-claviceps-purpurea-ergotism]]** (ergot): LSA is a minor alkaloid in ergot sclerotia
-- **Claviceps paspali**: Contains LSA and related ergolines
-
-### Other Compounds Present
-Natural LSA-containing seeds rarely contain pure LSA. They typically also contain:
-- **Lysergic acid hydroxyethylamide (LSH):** More ergot-like, potentially contributing to vasoconstrictive effects
-- **Ergometrine (ergonovine):** Uterotonic alkaloid
-- **Isoergine:** Inactive stereoisomer
-- **Chanoclavine, elymoclavine:** Minor ergoline precursors
-
-## Historical and Cultural Use
-
-The use of LSA-containing seeds in Mesoamerica dates back at least to the Aztec civilization:
-- **Ololiuqui** (Turbina corymbosa seeds): One of the most important Aztec entheogens, described by Spanish chroniclers including Sahagún
-- **Tlitliltzin** (Ipomoea violacea seeds): Black-seeded morning glory used in divination and healing
-- Albert Hofmann's 1960 identification of LSA and LSH in ololiuqui seeds resolved centuries of botanical debate about the identity of the Aztec "magic seeds"
-
-The Mazatec of Oaxaca continue to use ololiuqui seeds in divinatory rituals, though this practice is less common than the use of [[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]] ([[salvia-divinorum]]).
-
-## Effects
-
-Typical effects of LSA (oral, 2–10 seeds depending on species):
-- **Onset:** 30–90 minutes
-- **Peak:** 2–5 hours
-- **Duration:** 6–10 hours
-- **Visual:** Mild color enhancement, pattern recognition, closed-eye imagery (less intense than LSD or psilocybin)
-- **Cognitive:** Dreamy, contemplative state; introspective thought patterns
-- **Physical:** Nausea (common and often significant), sedation, mydriasis, mild vasoconstriction, lethargy
-
-The experience is frequently described as more sedating and less visually spectacular than LSD or psilocybin, with a quality resembling a lucid dream.
-
-## Safety Considerations
-
-- **Nausea:** One of the most consistently reported [[blesching-cannabis-safety-adverse-effects-evidence]], attributed to LSH and other non-LSA ergolines in crude seed preparations
+- **[[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]] ([[blesching-cannabis-safety-adverse-effects-evidence]], attributed to LSH and other non-LSA ergolines in crude seed preparations
 - **Vasoconstriction:** Ergoline compounds can cause peripheral vasoconstriction; concern for prolonged or high-dose use
+
+## Overview
+
+Lysergic Acid Amide represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish lysergic acid amide
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving lysergic extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Lysergic Acid Amide finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for lysergic acid amide. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+lysergic acid amide and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Lysergic Acid Amide has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of lysergic acid amide into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[ergot-fungi-lysergic-acid-and-the-history-of-ergotism]]
+- [[lsd-lysergic-acid-diethylamide-experience-guide]]
+- [[lysergic-acid]]
+- [[lysergic-acid-amide-discovery-in-ololiuhqui]]
+- [[lysergic-acid-hydroxyethylamide]]

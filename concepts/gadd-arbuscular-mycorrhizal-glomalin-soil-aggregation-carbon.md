@@ -5,13 +5,11 @@ source_path: raw/papers/geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in-the
 tags: [glomalin, arbuscular-mycorrhiza, soil-aggregation, carbon-sequestration, soil-organic-carbon, macroaggregates, mycorrhiza, fungal-ecology, hydrophobic-protein, soil-structure]
 ---
 
-[[arbuscular-mycorrhizal-fungi]] al Glomalin, Soil Aggregation, an [[mycorrhizal-carbon-sequestration]] on
+[[mycorrhizal-carbon-sequestration]] on
 
 ## Overview
 
-Glomalin is a hydrophobic protein produced exclusively by arbuscular mycorrhizal ([[fungi-and-sustainability]] and secreted into soil. First identified by Sara Wright at the USDA in 1996, glomalin has since been recognize [[allegro-christianity-as-a-fertility-cult]] a critically important component o [[soil-organic-carbon-fractions-turnover-dynamics]] on pools and a primary driver o [[soil-aggregate-formation-fungal-contributions]] te stability. The chapter by J.R. Leake in *Fu [[psilocybin-in-the-counter-culture]] the Environment* (Gadd, Watkinson & Dyer, 2006) synthesizes current understanding of glomali [[fungal-role-in-carbon-cycling]] ling [[lowenfels-soil-structure-aggregates]] ture formation.
-
-## Chemical N [[mckenna-hellenistic-library-burning-mechanism-triumph-and-discovery-of-osiris]] covery
+Glomalin is a hydrophobic protein produced exclusively by arbuscular mycorrhizal ([[allegro-christianity-as-a-fertility-cult]] a critically important component o [[soil-aggregate-formation-fungal-contributions]] te stability. The chapter by J.R. Leake in *Fu [[fungal-role-in-carbon-cycling]] ling [[mckenna-hellenistic-library-burning-mechanism-triumph-and-discovery-of-osiris]] covery
 
 ### Identification
 
@@ -118,8 +116,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[mycorrhizal-types]]
 - [[ingham-glomalin-soil-aggregation-arbuscular-mycorrhizal-glue]]
-- [[psilocybin]]
 - [[maps]]
 - [[ericoid-mycorrhiza]]

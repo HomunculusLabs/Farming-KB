@@ -21,7 +21,7 @@ sources:
 
 ## Overview
 
-*Acalypha racemosa* is a perennial herbaceous plant in the family Euphorbiaceae, widely distributed across tropical and subtropical Africa. It is an important component of traditional pharmacopoeias across West and Central Africa, where it is used to treat a broad spectrum of ailments including [[cannabis-respiratory-conditions]], [[blesching-cannabis-gastrointestinal-disorders]], and [[blesching-cannabis-skin-diseases]]. The species is known by a variety of common names across different linguistic groups, reflecting its [[ethnomycology-cultural-significance-sacred-fungi]] in traditional medicine.
+*Acalypha racemosa* is a perennial herbaceous plant in the family Euphorbiaceae, widely distributed across tropical and subtropical Africa. It is an important component of traditional pharmacopoeias across West and Central Africa, where it is used to treat a broad spectrum of ailments including [[blesching-cannabis-gastrointestinal-disorders]], and [[ethnomycology-cultural-significance-sacred-fungi]] in traditional medicine.
 
 ## Taxonomy
 
@@ -80,11 +80,6 @@ The species is adaptable to a range of soil types but shows a preference for wel
 
 ## Phytochemistry
 
-Phytochemical screening of *A. racemosa* has revealed a diverse array of bioactive [[antifungal-secondary-metabolites-coprophilous-fungi]]:
-
-| Compound Class | Specific Compounds | Bioactivity |
-|---------------|-------------------|-------------|
-| Alkaloids | Acalyphin, acalyphine | Antimicrobial |
-| Flavonoids | [[quercetin]], [[kaempferol]], rutin | Antioxidant, anti-inflammatory |
+Phytochemical screening of *A. racemosa* has revealed a diverse array of bioactive [[quercetin]], [[kaempferol]], rutin | Antioxidant, anti-inflammatory |
 | Tannins | Gallic acid derivatives | Astringent, antidiarrheal |
 | Saponins | Triterpenoid saponins | Hemolytic, expectorant |

@@ -60,11 +60,7 @@ Campanula cochlearifolia is endemic to the mountains of central and southern Eur
 
 It grows at elevations between 1,500 and 3,200 meters, primarily on calcareous substrates. Typical habitats include limestone crevices, moraines, scree slopes, and alpine turf.
 
-The species is a calcicole, strongly associated with limestone and [[dolomite]] bedrock. It occasionally occurs on base-rich schists but is absent from acidic granite areas.
-
-In the high Alps, it is one of the most common and conspicuous alpine bellflowers. It forms extensive mats on limestone pavements, cliff faces, and stable scree at and above the treeline.
-
-The species often grows alongside other classic alpine calcicoles including [[gentiana-clusii]], Saxifraga oppositifolia, and Androsace species. These associations define the character of alpine limestone plant communities.
+The species is a calcicole, strongly associated with limestone and [[gentiana-clusii]], Saxifraga oppositifolia, and Androsace species. These associations define the character of alpine limestone plant communities.
 
 ## Cultivation
 
@@ -72,18 +68,83 @@ Campanula cochlearifolia is a popular alpine plant for rock gardens, troughs, an
 
 **Soil:** Plant in sharply drained, lime-rich soil with plenty of coarse grit. A neutral to alkaline pH is preferred. The species tolerates poor soils and performs best in lean, gritty mixes.
 
-**Light:** Full sun is ideal, with some afternoon shade in hot climates. The [[fukuoka-ideal-rice-plant-morphology-compact-growth-high-yield]] habit is maintained only in bright light. Shade causes leggy, sparse growth.
-
-**Propagation:** Division of mats in spring is straightforward, as rooted sections detach easily. Seed sown in autumn or spring germinates well without special treatment.
-
-**Watering:** Water moderately during growth, allowing the soil surface to dry between waterings. Excellent drainage is critical, as the plant is susceptible to rot in wet conditions.
-
-The species has received the Royal Horticultural Society's Award of Garden Merit. It is widely available from alpine plant nurseries and specialist growers.
-
-Campanula cochlearifolia is sometimes confused with [[campanula-rotundifolia]] (harebell), which has larger flowers and a taller, more upright habit. The dwarf, mat-forming growth of C. cochlearifolia is diagnostic.
+**Light:** Full sun is ideal, with some afternoon shade in hot climates. The [[campanula-rotundifolia]] (harebell), which has larger flowers and a taller, more upright habit. The dwarf, mat-forming growth of C. cochlearifolia is diagnostic.
 
 ## Ecological Role
 
 Campanula cochlearifolia is pollinated by small bees, flies, and other insects attracted to the nectar in the tiny bell-shaped flowers. The small flower size restricts access to smaller pollinators.
 
 The creeping mat-forming habit provides microhabitat for tiny invertebrates in alpine environments. The dense foliage creates a humid microclimate that shelters springtails and mites.
+
+## Overview
+
+Campanula Cochlearifolia represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish campanula cochlearifolia
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving campanula extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Campanula Cochlearifolia finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for campanula cochlearifolia. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+campanula cochlearifolia and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Campanula Cochlearifolia has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+## See Also
+
+- [[campanula-portenschlagiana]]
+- [[campanula-thyrsoidea]]
+- [[campanula-americana]]
+- [[campanula-unguicularis]]
+- [[campanula-versicolor]]

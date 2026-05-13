@@ -10,18 +10,9 @@ sources:
 
 Updated: 2026-04-18
 
-Source: The [[green-cannabis-grow-bible-breeding-genetics-and-true-breeding]] Bible, [[greg-green]] (Ch. 9)
+Source: The [[greg-green]] (Ch. 9)
 
-[[cannabis-sea-of-green-sog-method]] (SOG) is a growing technique that maximizes yield per unit of time and space by cultivating many small plants with short vegetative periods. The grow space becomes a dense "sea" of green bud tops.
-
-## Core Concept
-
-Instead of growing fewer large plants over a long period, SOG grows many small plants that are flowered very early. Each plant produces a single main cola. The combined yield of many small colas can equal or exceed the yield of fewer large plants, with faster turnaround time.
-
-## How SOG Works
-
-1. **Many plants**: Fill the grow space with a high number of plants (1 plant per 1–2 square feet, or even more densely)
-2. **Minimal vegetative time**: Plants are flowered after just 2–3 weeks of [[cannabis-vegetative-growth-stage]] (or when they have 4–6 nodes)
+[[cannabis-vegetative-growth-stage]] (or when they have 4–6 nodes)
 3. **Single cola focus**: Each plant develops primarily one main bud (the apical cola) with minimal side branching
 4. **Even canopy**: All plants are roughly the same height, creating a uniform canopy
 5. **Fast turnover**: Multiple harvests per year are possible due to short total cycle time
@@ -30,27 +21,7 @@ Instead of growing fewer large plants over a long period, SOG grows many small p
 
 - **Faster harvests**: Short vegetative period means faster crop cycles
 - **High yield per time**: Multiple fast harvests can produce more annually than fewer large-plant cycles
-- **Efficient use of space**: Maximizes production per [[comparison-biointensive-vs-square-foot-gardening]]
-- **Efficient use of light**: An even canopy ensures all light reaches bud sites
-- **Simplified training**: No complex training required — just grow and flip
-- **Good for indica-dominant strains**: Naturally compact plants work well in SOG
-
-## Disadvantages
-
-- **Requires many plants**: In areas where plant counts are legally limited, SOG may not be feasible
-- **From seed is problematic**: Seeds produce variable genetics — some plants will be taller/shorter than others, creating an uneven canopy. Clones are strongly recommended.
-- **Lower per-plant yield**: Each individual plant produces less than a full-size plant
-- **More containers to manage**: More plants means more watering, feeding, and monitoring
-- **Root space limited**: Smaller containers mean more frequent watering and feeding
-
-## Step-by-Step SOG Setup
-
-### 1. Choose Your Strain
-
-Select indica-dominant strains or strains known for:
-- Naturally compact structure
-- Single-cola dominance
-- [[cannabis-strain-jamaican-dream-fast-flowering-sativa]] time
+- **Efficient use of space**: Maximizes production per [[cannabis-strain-jamaican-dream-fast-flowering-sativa]] time
 - Uniform growth patterns (especially important with clones)
 
 ### 2. Prepare Containers
@@ -62,28 +33,7 @@ Select indica-dominant strains or strains known for:
 ### 3. Plant Density
 
 - **Standard density**: 1 plant per 1–2 square feet
-- **High density**: 4–9 plants per [[comparison-deep-bed-cultivation-vs-square-foot-gardening]] (using very small containers like Solo cups)
-- Spacing depends on container size, light coverage, and strain spread
-
-### 4. Vegetative Phase
-
-- Grow under 18/6 lighting
-- Duration: 2–3 weeks from clone (or 4–6 weeks from seed)
-- Do NOT top plants — you want single cola growth
-- Keep all plants at the same height
-- May need to raise shorter plants (on books or platforms) to level the canopy
-
-### 5. Switch to Flowering
-
-- Flip to 12/12 when plants have 4–6 nodes (6–12 inches tall)
-- All plants should flip at the same time for an even canopy
-- Maintain the same height-management practices during early stretch
-
-### 6. Flowering Management
-
-- Monitor for height differences and manage accordingly
-- Remove any male plants immediately if growing from seed
-- Standard flowering care: nutrients, watering, [[cervantes-sticky-traps-pest-monitoring]]
+- **High density**: 4–9 plants per [[cervantes-sticky-traps-pest-monitoring]]
 - Support bud-laden colas if they become top-heavy (use bamboo stakes or Y-supports)
 
 ## SOG vs SCROG
@@ -117,8 +67,83 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[dom]]
 - [[cannabis-sea-of-green-sog-method]]
-- [[cannabis-screen-of-green-scrog-guide]]
 - [[green-cannabis-lighting-guide]]
 - [[green-cannabis-grow-bible-sog-scrog-advanced-methods]]
+
+## Overview
+
+Cannabis Sea Of Green Sog Guide represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish cannabis sea of green sog guide
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving cannabis extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Cannabis Sea Of Green Sog Guide finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for cannabis sea of green sog guide. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+cannabis sea of green sog guide and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Cannabis Sea Of Green Sog Guide has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of cannabis sea of green sog guide into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.

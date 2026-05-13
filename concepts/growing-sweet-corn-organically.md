@@ -14,7 +14,7 @@ Homegrown sweet corn has an especially sweet flavor because it can be eaten as s
 
 ## Soil and Site
 
-Sweet corn likes plenty of sun and a soil pH of about 6.5. It is a heavy feeder and benefits from soil prepared with plenty of [[hamilton-composting-and-organic-matter-management]]. In a three-year [[comparison-crop-rotation-vs-cover-cropping]], grow sweet corn in Plot B (the legume plot).
+Sweet corn likes plenty of sun and a soil pH of about 6.5. It is a heavy feeder and benefits from soil prepared with plenty of [[comparison-crop-rotation-vs-cover-cropping]], grow sweet corn in Plot B (the legume plot).
 
 ## Varieties
 
@@ -22,43 +22,7 @@ Modern, fast-maturing varieties are easy to grow in most climates. The sweetest 
 
 ## Sowing and Planting
 
-**Under glass:** Raise plants in a heated greenhouse or on a windowsill. Sow pairs of seeds in mid-spring in 3in (8cm) pots at 65F (18C), thinning to the strongest seedling if both germinate. Harden off in a [[comparison-cold-frame-gardening-vs-container-gardening-guide]] in late spring.
-
-**Direct sowing:** Sow outside in mid-spring in furrows 2ft (60cm) apart and 6-9in (15-22cm) deep. Sow groups of 2-3 seeds every 2ft (60cm) in the bottom of the furrows, cover with 1in (2.5cm) of soil, then cover with plastic sheeting to protect against frost. The ridges of soil support the sheeting.
-
-**Planting:** Plant out greenhouse-raised seedlings in early summer in blocks with 2ft (60cm) between plants. Stagger the rows so plants are not directly opposite each other -- this gives the best chance of wind pollination.
-
-## Maintenance
-
-- Keep rows weed-free and mulch with compost, manure, or paper
-- When plants flower, they benefit from extra watering
-- No staking is normally needed in sheltered positions
-- In exposed sites, draw soil up around the base of plants for stability
-
-## Harvesting
-
-When the tassels at the top of the cobs turn brown and then black, the cobs are ready. Break the cob downward with one hand while bracing the rest of the plant with the other. For the sweetest flavor, cook and eat immediately after picking.
-
-## Pests and Diseases
-
-Sweet corn is generally trouble-free. Watch for:
-- **Birds:** May attack seedlings and ripening cobs -- net if necessary
-- **Aphids:** Can attack young plants -- encourage ladybugs and hoverflies
-- **Badgers and mice:** May take ripening cobs -- physical barriers may be needed
-
-## Growing Tips
-
-- Isolate different varieties to prevent cross-pollination reducing sweetness
-- Block planting is essential -- at least 4 rows wide for good wind pollination
-- Successional sowing every 2 weeks extends the harvest season
-- After harvest, the stalks can be chopped and composted
-- Sweet corn is a good companion for climbing beans (the beans use the stalks as support)
-
-## Feeding and Nutrition
-
-Sweet corn is a heavy feeder. Work plenty of well-rotted compost or manure into the soil before planting. During the [[savory-growing-season-and-non-growing-season-management]], a liquid feed of [[comparison-comfrey-tea-vs-compost-tea]] or animal-manure fertilizer applied every two weeks supports vigorous growth. The [[composting-systems]] or leave them in place as winter mulch. The root systems improve soil structure through their deep penetration. In the [[vegetable-growing-guide]] for general vegetable cultivation
-- [[comparison-seed-starting-indoors-vs-direct-seeding-techniques]]
-- [[fukuoka-white-clover-ground-cover]]
+**Under glass:** Raise plants in a heated greenhouse or on a windowsill. Sow pairs of seeds in mid-spring in 3in (8cm) pots at 65F (18C), thinning to the strongest seedling if both germinate. Harden off in a [[savory-growing-season-and-non-growing-season-management]], a liquid feed of [[composting-systems]] or leave them in place as winter mulch. The root systems improve soil structure through their deep penetration. In the [[comparison-seed-starting-indoors-vs-direct-seeding-techniques]]
 - [[fukuoka-white-clover-cover-crop-system]]
 
 ## Practical Considerations
@@ -109,8 +73,78 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[composting]]
 - [[growing-alliums-organically]]
-- [[growing-legumes-organically]]
 - [[growing-brassicas-organically]]
 - [[growing-tomatoes-organically]]
+
+## Overview
+
+Growing Sweet Corn Organically represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish growing sweet corn organically
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving growing extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Growing Sweet Corn Organically finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for growing sweet corn organically. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+growing sweet corn organically and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Growing Sweet Corn Organically has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of growing sweet corn organically into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions

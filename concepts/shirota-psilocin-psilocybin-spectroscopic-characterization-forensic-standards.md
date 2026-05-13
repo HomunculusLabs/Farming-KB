@@ -17,11 +17,11 @@ concepts:
 
 ## Overview
 
-The Shirota, Hakamata, and Goda (2003) synthesis of psilocin and psilocybin provides comprehensive spectroscopic data that serves as reference standards for [[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]] of these compounds in seized "[[australian-magic-mushroom-common-names]]" materials. The difficulty of isolating psilocin (due to its instability) and psilocybin (due to its high polarity) from fungal material on a gram scale makes synthetic standards essential for chromatographic methods including TLC, GC, and HPLC used in forensic laboratories worldwide.
+The Shirota, Hakamata, and Goda (2003) synthesis of psilocin and psilocybin provides comprehensive spectroscopic data that serves as reference standards for [[australian-magic-mushroom-common-names]]" materials. The difficulty of isolating psilocin (due to its instability) and psilocybin (due to its high polarity) from fungal material on a gram scale makes synthetic standards essential for chromatographic methods including TLC, GC, and HPLC used in forensic laboratories worldwide.
 
 ## Regulatory Context
 
-Since June 6, 2002, fungi containing psilocin and psilocybin have been regulated under the Narcotics and Psychotropic Control Law in Japan. The morphological and [[psilocybin-mushroom-microscopic-identification]] of [[ceremonial-shamanic-use-psychoactive-mushrooms]] is extremely difficult without expert mycological knowledge, necessitating chromatographic confirmation. This regulatory need was the primary motivation for developing reliable gram-scale syntheses of reference standards.
+Since June 6, 2002, fungi containing psilocin and psilocybin have been regulated under the Narcotics and Psychotropic Control Law in Japan. The morphological and [[ceremonial-shamanic-use-psychoactive-mushrooms]] is extremely difficult without expert mycological knowledge, necessitating chromatographic confirmation. This regulatory need was the primary motivation for developing reliable gram-scale syntheses of reference standards.
 
 ## UV-Visible Spectroscopy
 
@@ -87,3 +87,11 @@ The phosphate moiety introduces distinctive bands in the 1400-900 cm⁻¹ region
 ## Nuclear Magnetic Resonance Spectroscopy
 
 ### Psilocin ¹H NMR (CDCl₃, 400 MHz)
+
+## See Also
+
+- [[shirota-japan-2002-magic-mushroom-regulation-forensic-analysis]]
+- [[shirota-zwitterionic-phosphate-intermediate-psilocybin-synthesis]]
+- [[shirota-glyoxalylamide-formation-oxalyl-chloride-indole]]
+- [[shirota-4-acetylindole-crystallization-nmr-characterization-synthesis]]
+- [[shirota-zwitterionic-phosphate-intermediate-discovery]]

@@ -9,7 +9,7 @@ sources: []
 
 ## Overview
 
-Harvesting is the culmination of the cultivation cycle. Proper [[jadam-pesticide-spray-timing-and-technique]] directly affect yield, potency, quality, and shelf life. Mushrooms are [[savory-living-organisms-as-tools]] that continue to metabolize after being picked — they lose potency and quality with every hour they remain undried. This page covers when to harvest, how to harvest, drying methods, and long-term storage.
+Harvesting is the culmination of the cultivation cycle. Proper timing and technique directly affect yield, potency, quality, and shelf life. Mushrooms are living organisms that continue to metabolize after being picked — they lose potency and quality with every hour they remain undried. This page covers when to harvest, how to harvest, drying methods, and long-term storage.
 
 ## Harvest Timing
 
@@ -45,7 +45,7 @@ Mushrooms within a single flush do not all mature simultaneously. However, it is
 
 ### Twist and Pull (Recommended)
 
-The standard harvesting method for [[comparison-mushroom-log-cultivation-vs-monotub-cultivation]]:
+The standard harvesting method for monotub cultivation:
 
 1. Grasp the mushroom at the base of the stem, as close to the substrate as possible.
 2. Gently twist the mushroom while pulling upward.
@@ -101,7 +101,7 @@ A food dehydrator is the fastest and most reliable drying method:
 
 **Dehydrator recommendations**:
 - Nesco or Excalibur models are popular.
-- Avoid dehydrators without [[hamilton-greenhouse-heating-and-temperature-control]].
+- Avoid dehydrators without temperature control.
 - A fan in the dehydrator significantly speeds drying.
 
 ### Desiccant Chamber (Low-Tech Method)
@@ -141,9 +141,10 @@ For any drying method, fan-drying for 24-48 hours before using a dehydrator or d
 
 Psilocybin degrades through oxidation, exposure to UV light, and heat:
 
-- **Oxygen**: The primary degradation pathway. Minimize air exposure.
-- **Light**: UV light accelerates degradation. Store in opaque containers or dark locations.
-- **Heat**: Elevated temperatures accelerate chemical degradation. Store below 70F (21C).
-- **Moisture**: Residual moisture promotes [[enzymatic-degradation-in-mycoremediation]]. Ensure cracker-dry before storage.
+## See Also
 
-### Expected Shelf Life
+- [[reishi-mushroom-cultivation-and-medicinal-properties]]
+- [[straw-based-mushroom-substrate-preparation]]
+- [[casing-soil-sterilization-versus-pasteurization-debate-mushroom-cultivation]]
+- [[straw-mushroom-cultivation]]
+- [[psilocybe-caerulescens-mazatec-sacred-mushroom-guzman-1998]]

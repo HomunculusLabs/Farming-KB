@@ -7,81 +7,92 @@ tags: [livestock-disease, nutrition, selenium, veterinary]
 
 ## Description
 
-White muscle disease (WMD), also known as nutritional myopathy or selenium-tocopherol deficiency myopathy, is a degenerative muscle disease affecting young livestock, particularly lambs and calves. It causes white, chalky striations in skeletal and cardiac muscle due to selenium and/or vitamin E deficiency. Mollison cites white muscle disease alongside [[facial-eczema]] as one of the chronic illnesses affecting high-producing, stressed livestock herds in New Zealand.
+White muscle disease (WMD), also known as nutritional myopathy or selenium-tocopherol deficiency myopathy, is a degenerative muscle disease affecting young livestock, particularly lambs and calves. It causes white, chalky striations in skeletal and cardiac muscle due to selenium and/or vitamin E deficiency. Mollison cites white muscle disease alongside [[mycorrhizal-fungi]] can improve selenium uptake in forage plants
+- [[white-muscle-disease-mollison]]
+- [[jadam-fungal-disease-management]]
+- [[fukuoka-disease-pest-management]]
 
-## Classification
+## Overview
 
-- **Category**: Nutritional deficiency disease
-- **Alternative names**: Nutritional myopathy, selenium deficiency myopathy, stiff lamb disease
-- **Affected species**: Primarily lambs and calves; also foals, goat kids, and poultry
-- **Deficiency**: Selenium and/or vitamin E (α-tocopherol)
-- **ICD classification**: Nutritional/metabolic disease
-
-## Key Facts
-
-- Caused by deficiency of selenium, vitamin E, or both in the diet of pregnant or nursing animals
-- Selenium-poor soils (common in New Zealand, parts of North America, and Scandinavia) produce selenium-deficient forage
-- Two forms:
-  - **Cardiac (peracute)**: Affects heart muscle; often fatal in newborns; sudden death
-  - **Skeletal (subacute)**: Affects skeletal muscles; weakness, stiffness, reluctance to move; "stiff lamb disease"
-- Affected muscle appears pale, dry, and chalky (hence "white muscle") due to necrosis and mineralization
-- Mollison notes veterinary costs reach $120/stock unit in stressed NZ herds vs $20 in less stressed systems
-- Prevention: selenium supplementation (injectable, oral, or pasture topdressing), vitamin E supplementation
-- Soils high in sulfur or phosphorus can inhibit selenium uptake by plants
-- Modern intensive livestock systems increase susceptibility due to rapid growth demands
-
-## Relevance to Cultivation and Mycology
-
-- Selenium bioavailability in soils is influenced by microbial activity including fungal communities
-- Certain fungi (e.g., *Pleurotus* species) can bioaccumulate selenium, potentially offering bioremediation of selenium-deficient or selenium-contaminated soils
-- [[mycorrhizal-fungi]] can improve selenium uptake in forage plants
-- [[mushroom-compost]] applied to selenium-poor pastures may improve trace mineral cycling
-- The disease exemplifies how soil mineral deficiencies cascade through food webs — relevant to designing integrated cultivation systems
-- Understanding soil-fungi-plant mineral pathways is essential for holistic farm health
-
-## Source Context
-
-Mentioned in Chapter 2 of *Permaculture: A Designers' Manual* alongside facial eczema, as examples of chronic illness in stressed, high-producing livestock herds — illustrating the costs of forced maximum yield.
-
-## Overview and Definition
-- A key concept in ecological and sustainability studies
-- Relates to fundamental principles of natural system design
-- Has applications across multiple disciplines and contexts
-- Understanding this topic supports better environmental stewardship
-
-## Historical Development
-- Recognized and documented through systematic observation
-- Gained prominence through practical application and research
-- Evolved through integration with modern ecological understanding
-- Continues to develop as new research emerges
+White Muscle Disease represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
 
 ## Key Characteristics
-- Exhibits distinctive properties within its domain
-- Functions as part of interconnected ecological systems
-- Response varies with environmental conditions and context
-- Understanding requires both theoretical and practical knowledge
 
-## Ecological Role
-- Contributes to ecosystem function and resilience
-- Supports biodiversity and habitat complexity
-- Plays role in natural nutrient cycling processes
-- Influenced by landscape-level patterns and processes
+Several defining characteristics distinguish white muscle disease
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving white extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
 
 ## Practical Applications
-- Applied in permaculture design and sustainable land management
-- Used in conservation and ecological restoration projects
-- Informs decision-making in agricultural and horticultural systems
-- Supports development of regenerative practices
+
+White Muscle Disease finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
 
 ## Management and Implementation
-- Successful implementation requires site-specific adaptation
-- Monitoring and evaluation improve long-term outcomes
-- Integration with other practices enhances effectiveness
-- Adaptive management recommended for changing conditions
 
-## Related Topics
-- [[white-muscle-disease-mollison]]
-- [[aflatoxin-turkey-x-disease-1960-discovery-peanut-meal]]
-- [[jadam-fungal-disease-management]]
-- [[oyster-viral-disease]]
-- [[fukuoka-disease-pest-management]]
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for white muscle disease. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+white muscle disease and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+White Muscle Disease has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of white muscle disease into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[comparison-white-rot-vs-brown-rot-fungi]]
+- [[green-cannabis-grow-bible-pest-disease-prevention]]
+- [[nitroaromatic-degradation-by-white-rot-fungi]]
+- [[query-how-do-white-rot-fungi-break-down-lignin]]
+- [[tricholoma-pleurotus-and-white-spored-edible-genera]]

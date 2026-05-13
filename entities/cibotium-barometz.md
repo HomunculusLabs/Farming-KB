@@ -109,12 +109,8 @@ Despite CITES protection, illegal harvesting continues in parts of southern Chin
 
 ## See Also
 
-- [[dicksonia-antarctica]]
 - [[cyathea-cooperi]]
-- [[cyathea-dealbata]]
 - [[pteridium-aquilinum]]
-- [[blechnum-spicant]]
 - [[osmunda-regalis]]
-- [[adiantum-pedatum]]
 - [[polystichum-munitum]]
 - [[dryopteris-filix-mas]]

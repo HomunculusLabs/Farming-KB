@@ -6,11 +6,7 @@ type: concept
 
 # Field Observation in Permaculture Design
 
-Field observation is one of the most powerful design methodologies in [[permaculture]]. Unlike analytical methods that operate from a desk, observation-based design starts on and around the site itself. Short practice at refining field observation as a design tool will convince anyone that no complex of map overlays, library research, computer data, or remote analysis will ever supplant field observation for dependability and relevance.
-
-## Why Observation Matters
-
-Observation is not easily directed and is therefore sometimes regarded as unscientific and individualistic. However, processes and events encountered on a real site are never fully revealed by [[maps]] or other fixed data. It is from the observation of processes and events — such as heavy rain and subsequent runoff — that designers can devise strategies of "least change," saving energy and time. No static method can reveal processes or dynamic interactions.
+Field observation is one of the most powerful design methodologies in [[maps]] or other fixed data. It is from the observation of processes and events — such as heavy rain and subsequent runoff — that designers can devise strategies of "least change," saving energy and time. No static method can reveal processes or dynamic interactions.
 
 A camera, a notebook, and a good memory for events are great aids to observation. Video recorders are very useful to review processes over time.
 
@@ -84,8 +80,6 @@ Nature itself serves as the teacher through observation. The huge information st
 - Understanding improves capacity for sustainable resource management
 
 ## Related Concepts
-- [[permaculture-observation-design]]
 - [[hemenway-garden-design-process-observation-and-visioning]]
-- [[permaculture-beginners-guide-observation-and-mapping]]
 - [[permaculture-site-observation-methods]]
 - [[permaculture-guild-design-method]]

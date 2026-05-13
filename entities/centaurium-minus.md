@@ -16,11 +16,9 @@ sources:
 
 ## Overview
 
-Centaurium minus (syn. [[centaurium-umbellatum]] auct., non Gilib.), commonly called lesser centaury, is an annual herb in the Gentianaceae family. It is native to Europe and western Asia, where it grows in dry grasslands, sandy soils, and coastal dunes.
+Centaurium minus (syn. [[centaurium-erythraea]] but is generally smaller and more slender in all parts.
 
-The plant typically reaches 10–30 cm in height with erect, branched stems bearing clusters of pink to rose-purple flowers. It is closely related to [[centaurium-erythraea]] but is generally smaller and more slender in all parts.
-
-Lesser centaury has a long history of use in European herbal medicine, particularly as a bitter tonic and digestive aid. The species epithet "minus" refers to its smaller stature relative to common centaury.
+Lesser centaury has a long history of use in European [[herbal-medicine]], particularly as a bitter tonic and digestive aid. The species epithet "minus" refers to its smaller stature relative to common centaury.
 
 ## Taxonomy and Morphology
 
@@ -56,7 +54,7 @@ Populations are often scattered and localized, with plants appearing opportunist
 
 The species shows some phenotypic plasticity in response to environmental conditions. Coastal populations tend to be more prostrate and fleshy, while inland plants are more erect and slender.
 
-It has been introduced to [[polypore-fungi-eastern-north-america]], where it occurs sporadically in disturbed sites and along roadsides. The [[growing-gourmet-north-american-reishi-species]] populations are generally not considered invasive.
+It has been introduced to [[growing-gourmet-north-american-reishi-species]] populations are generally not considered invasive.
 
 In the British Isles, the species is classified as Least Concern but has declined in England due to grassland improvement and habitat fragmentation. Conservation efforts focus on maintaining traditional grazing regimes on calcareous pastures.
 
@@ -74,16 +72,78 @@ The species serves as a host plant for larvae of several moth species in the Noc
 
 Seed banking is important for population persistence. Seeds remain viable in the soil for at least 3–5 years, allowing populations to reappear after unfavorable seasons.
 
-[[plants-without-mycorrhizal-associations]] have been documented with arbuscular fungi in the Glomeromycota. These associations may improve phosphorus uptake in the nutrient-poor soils the species typically inhabits.
-
-## Cultivation
-
-Lesser centaury can be grown from seed sown in spring on the soil surface, as the tiny seeds require light for germination. A cold stratification period of 2–4 weeks may improve germination rates.
-
-The plant prefers full sun and well-drained, neutral to alkaline soils. It is tolerant of drought and poor soil conditions once established.
-
-Overwatering and fertile soils promote lush but weak growth that is susceptible to fungal pathogens. [[cervantes-powdery-mildew-prevention-treatment]] can affect plants in humid conditions.
+[[cervantes-powdery-mildew-prevention-treatment]] can affect plants in humid conditions.
 
 Self-seeding is reliable in suitable garden conditions. Plants often appear spontaneously in gravel paths and paving cracks where competition is minimal.
 
 In cultivation, plants reach flowering size in 10–14 weeks from germination. It is rarely cultivated commercially but occasionally grown in wildflower meadows and medicinal herb gardens.
+
+## Overview
+
+Centaurium Minus represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish centaurium minus
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving centaurium extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Centaurium Minus finds practical application in multiple design contexts.
+[[permaculture-principles]] guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for centaurium minus. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+centaurium minus and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Centaurium Minus has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of centaurium minus into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.

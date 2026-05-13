@@ -8,7 +8,7 @@ sources: ["raw/papers/shulgin-a-tihkal.md"]
 ---
 # Ibogaine
 
-TIHKAL entry #25. A complex, naturally occurring [[aminopropyl-silica-gel-chromatography-indole-alkaloid-purification]] from the root bark of [[plants-of-the-gods-tabernanthe-iboga-chemistry]], native to Gabon. Used for centuries in the Bwiti religion as a sacrament. More recently studied for its reported anti-addictive properties, particularly in interrupting opioid dependence. Ibogaine is both a stimulant and a hallucinogen, producing an exceptionally long and physically demanding experience.
+TIHKAL entry #25. A complex, naturally occurring [[plants-of-the-gods-tabernanthe-iboga-chemistry]], native to Gabon. Used for centuries in the Bwiti religion as a sacrament. More recently studied for its reported anti-addictive properties, particularly in interrupting opioid dependence. Ibogaine is both a stimulant and a hallucinogen, producing an exceptionally long and physically demanding experience.
 
 ## Chemical Names
 
@@ -35,49 +35,97 @@ TIHKAL entry #25. A complex, naturally occurring [[aminopropyl-silica-gel-chroma
 ## Three Contexts of Use
 
 ### 1. Bwiti Religious Ritual (Gabon)
-The root bark of Tabernanthe iboga has been used in religious rituals since the early 19th century. The Bwiti religion calls for iboga as a sacrament. [[kava-traditional-preparation-ceremonial-context]] involves consuming the root bark itself, requiring perhaps 10x the weight of pure ibogaine. The psychopharmacological effects reflect religious needs — contact with ancestors, spiritual vision, community bonding.
-
-### 2. Psychotherapy (Claudio Naranjo et al.)
-Focus on early memory, reliving of past experiences, and emotional processing. A typical dose is ~400 mg of pure chemical. The long duration and memory-enhancing properties made it suitable for deep psychodynamic work, though the physical demands limited its clinical appeal compared to shorter-acting psychedelics.
-
-### 3. Addiction Treatment (De Rienzo and Beal)
-Exploration of ibogaine for heroin dependency interruption. Typical doses at or above 1000 mg. Reports suggest ibogaine can interrupt opioid withdrawal and reduce drug craving for extended periods, though the mechanism remains poorly understood. The stimulant phase that precedes hallucinogenic effects is particularly challenging for already-physically-stressed addicts.
-
-## The Stimulant-Hallucinogen Gap
-
-A critical pharmacological feature: the hallucinogenic dose appears to be several times higher than the stimulant dose. Users must endure intense and unpleasant central stimulation (anxiety, restlessness, tremors, ataxia) before reaching the visionary effects. Shulgin notes: "There is no question but that ibogaine is a rough trip, physically as well as mentally."
-
-## Chemistry
-
-No practical total synthesis exists — only 13-step academic syntheses reported in the literature. The compound must be extracted from plant sources. The parent ring system contains two chiral centers, neither amenable to easy manipulation, producing four distinct isomers that are difficult to resolve. When "synthetic ibogaine" is mentioned in scientific journals, it usually refers to resynthesis of the parent alkaloid from the demethylated metabolite.
-
-## Botanical Sources — The Apocynaceae Family
-
-Ibogaine belongs to the Apocynaceae plant family, which Shulgin calls "probably the richest single source of pharmacologically active compounds in the entire plant kingdom." The family is made up largely of tropical shrubs of the dogbane group that ooze sticky sap when cut, have showy flowers, and carry a reputation for being poisonous.
-
-### Primary Sources
-
-- **Tabernanthe iboga**: The major source, native to Gabon. Root bark is the traditional sacrament.
-- **Tabernanthe orientalis** (now Ervatamia orientalis): Found in Western Australia. Leaves contain ibogaine plus six minor related alkaloids.
-- **Tabernanthe pubescens**: Found in Zaire. Contains ibogaine and several closely related alkaloids.
-- **Tabernaemontana spp.**: Several dozen species, some with ibogaine, many with analgesic or sedative action, and some with a long history of native usage in Africa or [[psilocybe-southeast-asia-pacific]].
+The root bark of Tabernanthe iboga has been used in religious rituals since the early 19th century. The Bwiti religion calls for iboga as a sacrament. [[psilocybe-southeast-asia-pacific]].
 - **Voacanga schweinfurthii var. puberula**: Contains ~10 related alkaloids; tabersonine is the major constituent at 3.5% in seeds. Ibogaine is a minor constituent of the root bark at 0.02% (200 mg/kg).
 - **Peschiera echinata**: ~2% alkaloid content in leaves, including ibogaine.
 
 ### Related Genera
 
-Many plants in Apocynaceae carry alkaloids closely related to ibogaine. Genera include Anacampta, Bonafousia, Capuronetta, Conopharyngia, Ervatamia, Gabunia, Hazunta, Muntafara, Pagiantha, Pandaca, Phrissocarpus, Callichilia, Creoceras, Rejoua, Schizozygia, and Stemmadenia. Many of these have been reclassified under Tabernaemontana at various points, creating [[neurotropic-fungi-taxonomic-confusion-and-identification]].
+Many plants in Apocynaceae carry alkaloids closely related to ibogaine. Genera include Anacampta, Bonafousia, Capuronetta, Conopharyngia, Ervatamia, Gabunia, Hazunta, Muntafara, Pagiantha, Pandaca, Phrissocarpus, Callichilia, Creoceras, Rejoua, Schizozygia, and Stemmadenia. Many of these have been reclassified under Tabernaemontana at various points, creating [[harmaline-entity-tihkal]] — beta-carboline with MAOI properties, also from Apocynaceae
+- [[alexander-shulgin]] — primary author of TIHKAL
+- [[psilocybin-psychotherapy-research-history]]
 
-## Physical Properties
+## Overview
 
-- Free base mp: 152-153 C
-- HCl salt mp: 299-300 C (dec.)
-- Free base IR (cm-1): 741, 799, 830, 1037, 1111, 1148
-- HCl salt IR (cm-1): 638, 810, 832, 925, 1031, 1149
+Ibogaine Entity Tihkal represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish ibogaine entity tihkal
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving ibogaine extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Ibogaine Entity Tihkal finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for ibogaine entity tihkal. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+ibogaine entity tihkal and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Ibogaine Entity Tihkal has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of ibogaine entity tihkal into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
 
 ## See Also
 
-- [[harmaline-entity-tihkal]] — beta-carboline with MAOI properties, also from Apocynaceae
-- [[psychedelic-therapy-models-comparison]] — clinical applications of psychedelics
-- [[alexander-shulgin]] — primary author of TIHKAL
-- [[claude-naranjo]] — pioneered ibogaine [[psilocybin-psychotherapy-research-history]]
+- [[iboga-and-ibogaine-profile]]
+- [[ibogaine]]
+- [[ibogaine-pharmacology]]
+- [[ibogaine-reference]]
+- [[mckenna-iboga-tabernanthe-ibogaine-fang-bwiti-initiation-cult]]

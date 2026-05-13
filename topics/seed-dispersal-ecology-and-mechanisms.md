@@ -21,7 +21,7 @@ The ecological importance of seed dispersal is difficult to overstate. Dispersal
 
 Seed dispersal also shapes large-scale biogeographic patterns. The distribution of species across landscapes, continents, and even oceanic islands is fundamentally a product of dispersal ability interacting with environmental filters. In fragmented landscapes, dispersal becomes a critical determinant of whether populations can persist, recolonize disturbed habitats, or track shifting climatic conditions.
 
-Dispersal is not a single process but a complex sequence of events: [[cervantes-seed-production-storage]], removal from the parent, transport, deposition, and post-dispersal survival. Each stage presents its own challenges and ecological filters. The study of seed dispersal thus sits at the intersection of plant ecology, animal behavior, evolutionary biology, atmospheric science, hydrology, and increasingly, [[mycelium-running-conservation-biology-and-fungi]].
+Dispersal is not a single process but a complex sequence of events: [[mycelium-running-conservation-biology-and-fungi]].
 
 ## Autochory (Self-Dispersal)
 
@@ -35,31 +35,7 @@ Classic examples include:
 
 - **Touch-me-not (*Impatiens* spp.)**: The fruit coiled valves snap apart when touched, ejecting seeds up to several meters. The genus name itself — from the Latin *impatiens*, meaning "impatient" — references this explosive tendency.
 - **Squirting cucumber (*Ecballium elaterium*)**: As the fruit ripens, internal pressure builds from accumulating mucilage. When the fruit detaches from its stalk, the pressurized liquid violently expels the seeds along with a stream of fluid, sometimes propelling seeds up to 6 meters.
-- **Witch hazel (*[[hamamelis-virginiana]]*)**: The woody capsule contracts as it dries, building tension that eventually causes the capsule to split open and shoot seeds up to 10 meters.
-
-Ballistic dispersal distances are typically limited compared to vector-mediated dispersal, but they provide reliable, weather-independent dispersal that requires no animal or wind cooperation. The energetic cost to the plant is relatively low, as the mechanism exploits tissue properties that develop as part of normal fruit maturation.
-
-### Censer Mechanism
-
-The censer mechanism (also called the "salt-shaker" mechanism) involves seeds that are gradually released from a container-like fruit as it sways in the wind or is jostled by passing animals. The fruit functions like a perforated container: small apertures allow seeds to escape one or a few at a time when the fruit is agitated.
-
-Many members of the Papaveraceae (poppies) employ this mechanism. The dried capsule has pores beneath a stigma cap; wind causes the capsule to sway, and seeds are scattered through the pores like pepper from a shaker. This passive form of autochory bridges the gap between pure self-dispersal and anemochory, as it often depends on wind to provide the agitation that triggers release.
-
-### Tumbleweeds
-
-The tumbleweed growth form — technically called a *diaspore* strategy — involves the entire above-ground portion of the plant detaching from its root system and rolling with the wind, scattering seeds as it travels. This is primarily a form of anemochory but involves a substantial autochorous component, as the plant's own structure becomes the dispersal vehicle.
-
-Tumbleweed species include *Salsola tragus* (Russian thistle), *Amaranthus albus* (tumble pigweed), and various species of *Kochia*. These plants typically have a spherical growth form, brittle attachment points at the base, and seeds that are released gradually through pores as the plant tumbles. Tumbleweeds can travel extremely long distances across open terrain, effectively colonizing vast areas with a single plant's seed output.
-
-## Anemochory (Wind Dispersal)
-
-Anemochory is the dispersal of seeds by wind and is one of the most widespread and well-studied dispersal mechanisms. Wind is an abundant, reliable, and directionally variable dispersal vector, making it effective for colonization of open habitats, disturbed areas, and islands.
-
-### Pappus and Wing Morphology
-
-Wind-dispersed seeds and fruits (collectively called *diaspores*) have evolved a remarkable diversity of morphological adaptations to increase drag, reduce terminal velocity, and extend airborne travel time. These structures fall into several functional categories:
-
-- **Pappus**: A tuft of hairs or bristles attached to the seed or fruit, characteristic of the Asteraceae (daisies, dandelions, thistles). The pappus of *[[taraxacum-officinale]]* (dandelion) consists of ~100 filaments that create a parachute-like structure capable of keeping the seed aloft for kilometers under favorable conditions. Pappus morphology varies enormously across species, from the simple bristles of some asters to the elaborate, feathery structures of *Tragopogon* (goat's beard).
+- **Witch hazel (*[[taraxacum-officinale]]* (dandelion) consists of ~100 filaments that create a parachute-like structure capable of keeping the seed aloft for kilometers under favorable conditions. Pappus morphology varies enormously across species, from the simple bristles of some asters to the elaborate, feathery structures of *Tragopogon* (goat's beard).
 - **Wings**: Thin, flattened extensions of the seed coat or fruit wall that function like the wings of a glider. Winged diaspores include the samaras of maples (*Acer* spp.), ash (*Fraxinus*), and elm (*Ulmus*), as well as the paper-thin winged seeds of conifers like *Pinus* and *Picea*. The autorotating descent of maple samaras — which generates lift from spinning motion — is one of the most efficient passive flight mechanisms known in nature.
 - **Coma**: A cottony or woolly covering of hairs, found on seeds of willow (*Salix*), poplar (*Populus*), and milkweed (*Asclepias*). The coma provides buoyancy and can carry seeds on convective air currents for many kilometers.
 
@@ -67,31 +43,7 @@ Wind-dispersed seeds and fruits (collectively called *diaspores*) have evolved a
 
 **Dust seeds** are extremely small, lightweight seeds (often under 0.5 mg) that are effectively dispersed as particulate matter in air currents. They are characteristic of orchids (*Orchidaceae*), some parasitic plants (*Balanophoraceae*), and several genera of bryophytes and ferns. Orchid seeds are among the smallest known, sometimes as light as 0.3 micrograms. Their tiny size means they have virtually no reserves and depend on forming mycorrhizal associations to germinate successfully. Dust seeds can travel enormous distances but have extremely low establishment rates.
 
-**Balloon seeds** (also called balloon diaspores) are enclosed in inflated, papery structures that act as air-filled buoyancy devices. Species such as *Carduus nutans* (musk thistle) and *[[asclepias-syriaca]]* (common milkweed) produce large, inflated follicles that break open to release seeds with attached coma fibers. The inflated structure increases the effective cross-sectional area presented to wind, enhancing drag.
-
-### Anemochory Trade-offs
-
-Wind dispersal involves fundamental trade-offs between dispersal distance and seed size. To remain airborne, diaspores must be lightweight, but lighter seeds have fewer energy reserves for germination and establishment. This creates a classic life-history trade-off: seeds optimized for long-distance dispersal tend to have low establishment success, while heavy seeds with good provisioning tend to fall close to the parent plant.
-
-The terminal velocity of a diaspore — the speed at which drag force equals gravitational force — is the key parameter determining wind dispersal potential. Species in open, windy habitats (coastal dunes, alpine ridges, disturbed fields) tend to produce diaspores with lower terminal velocities than forest understory species, reflecting adaptation to local wind regimes.
-
-Turbulent updrafts and thermals can carry small diaspores to heights of hundreds or even thousands of meters, enabling dispersal over distances of 10–100 km. However, such long-distance events are rare and stochastic, representing the tail end of a highly skewed dispersal kernel.
-
-## Hydrochory (Water Dispersal)
-
-Hydrochory is the dispersal of seeds by water. It ranges from the simple splash of raindrops moving seeds a few centimeters to oceanic currents transporting buoyant diaspores across entire ocean basins.
-
-### Rain Splash
-
-Rain splash dispersal (*ombrohydrochory*) is a localized but important mechanism in which raindrops striking the ground (or a plant surface) splash seeds short distances — typically centimeters to a few meters. This mechanism is particularly important for small-seeded species in forest understories and grasslands.
-
-Some species have specialized rain-triggered dispersal. Certain desert ephemerals produce seeds with mucilaginous coatings that become sticky when wetted by rain, adhering to soil particles and preventing further movement — effectively using rain to both disperse and anchor the seed. Others, like some *Erodium* species, use hygroscopic awns that twist in response to humidity changes, literally drilling the seed into the soil after rain-triggered release.
-
-### Floating Seeds and Riverine Dispersal
-
-Many riparian and wetland species produce buoyant seeds or fruits adapted for surface transport along rivers and streams. Buoyancy is typically achieved through air-filled cavities, fibrous or spongy fruit walls, or waxy coatings that repel water. Examples include:
-
-- **Coconut (*[[cocos-nucifera]]*)**: The classic example of hydrochory. The fibrous husk provides exceptional buoyancy, allowing coconuts to remain viable after months at sea. Coconuts can drift for thousands of kilometers and are responsible for the natural colonization of tropical Pacific and Indian Ocean islands.
+**Balloon seeds** (also called balloon diaspores) are enclosed in inflated, papery structures that act as air-filled buoyancy devices. Species such as *Carduus nutans* (musk thistle) and *[[cocos-nucifera]]*)**: The classic example of hydrochory. The fibrous husk provides exceptional buoyancy, allowing coconuts to remain viable after months at sea. Coconuts can drift for thousands of kilometers and are responsible for the natural colonization of tropical Pacific and Indian Ocean islands.
 - **Water lily (*Nymphaea* spp.)**: Seeds are enclosed in a spongy aril that provides buoyancy, allowing them to float to new shallow-water habitats.
 - **Willow (*Salix*)**: The lightweight, cottony seeds are water-repellent and can float on water surfaces for days, facilitating dispersal along river corridors.
 
@@ -99,7 +51,7 @@ Riverine hydrochory is directional, with seeds transported downstream by current
 
 ### Oceanic Drift and Mangrove Propagules
 
-Oceanic hydrochory is responsible for some of the most remarkable long-distance dispersal events in plant biology. Buoyant diaspores transported by ocean currents can cross hundreds or thousands of kilometers of open ocean. The trans-Atlantic dispersal rhizophora mangle ngle* (red mangrove) from the Americas to West Africa, and the colonization of volcanic islands in the Pacific by tropical coastal species, are documented examples.
+Oceanic hydrochory is responsible for some of the most remarkable long-distance dispersal events in plant biology. Buoyant diaspores transported by ocean currents can cross hundreds or thousands of kilometers of open ocean. The trans-Atlantic dispersal [[rhizophora-mangle]] ngle* (red mangrove) from the Americas to West Africa, and the colonization of volcanic islands in the Pacific by tropical coastal species, are documented examples.
 
 Mangrove species have evolved a unique adaptation: **viviparous propagules** that begin germinating while still attached to the parent tree. The propagule — an elongated, torpedo-shaped structure — drops from the tree and can remain viable while floating in seawater for weeks to months. The pointed tip facilitates rooting in mudflats upon reaching suitable substrate. Different mangrove species show varying degrees of vivipary and buoyancy, corresponding to their position in the intertidal zone and their specific dispersal requirements.
 

@@ -9,45 +9,11 @@ sources:
 ---
 # LOPHOPHINE
 
-**[[2c-b-pihkal-entry-20]] #95** -- 3-Methoxy-4,5-methylenedioxyphenethylamine
-
-## Chemical Name
-
-3-Methoxy-4,5-methylenedioxyphenethylamine
-
-## Dosage and Duration
-
-- **Dosage:** greater than 200 mg
-
-- **Duration:** unknown
-
-## Qualitative Effects
-
-LOPHOPHINE appears to be inactive:
-
-- At 150 mg: between two and five hours, very peaceful and euphoric mood elevation, similar to [[mmda-entity]]) via nitrostyrene formation with nitromethane and ammonium acetate in acetic acid, followed by LAH reduction over a 9-day reflux period using Soxhlet addition. The hydrochloride salt had a mp of 164-164.5 degrees C.
+**[[mmda-entity]]) via nitrostyrene formation with nitromethane and ammonium acetate in acetic acid, followed by LAH reduction over a 9-day reflux period using Soxhlet addition. The hydrochloride salt had a mp of 164-164.5 degrees C.
 
 ## Extensions and Commentary
 
-Shulgin provides an excellent argument for why LOPHOPHINE should be active, making its inactivity "completely unexpected." [[lophophora-williamsii]]). Mescaline undergoes cyclization within the plant to produce tetrahydroisoquinoline derivatives such as anhalonine and O-methylanhalonidine. There is another class of tetrahydroisoquinolines -- anhalonine, lophophorine, and peyophorine -- that are the logical cyclization products of a phenethylamine which does not exist in the cactus: 3-methoxy-4,5-methylenedioxyphenethylamine.
-
-This compound "should be there, but it is not." If it were present it would be the natural precursor to a host of bicyclic alkaloids. Shulgin named it LOPHOPHINE, derived from the Latin binomial of the plant, in anticipation of its eventual discovery. He was confident that it would someday be found in the cactus and would prove to be an active psychedelic.
-
-## Chemical Family and Botanical Context
-
-LOPHOPHINE occupies a unique position at the intersection of synthetic chemistry and ethnobotany. The name itself -- derived from Lophophora, the genus of the peyote cactus -- reflects Shulgin's conviction that this compound must exist somewhere in nature, even though it had not yet been detected.
-
-The Peyote cactus (Lophophora williamsii) contains over sixty identified alkaloids, with mescaline being the primary psychoactive constituent. The alkaloid profile of the cactus includes a complex array of tetrahydroisoquinoline (THIQ) derivatives formed through the Pictet-Spengler condensation of phenethylamines with aldehydes. The presence of anhalonine, lophophorine, and peyophorine -- all of which are THIQs derived from a 3-methoxy-4,5-methylenedioxyphenethylamine precursor -- strongly implies that this precursor should exist in the plant.
-
-The apparent absence of LOPHOPHINE from Peyote could be explained by rapid metabolic cyclization: the compound may be formed and immediately converted to its bicyclic derivatives, making it difficult to detect in standard analytical screens. Alternatively, it may be present in quantities below the detection limits of historical analyses.
-
-## Pharmacological Discussion
-
-The inactivity of LOPHOPHINE is particularly surprising given its structural similarity to known active compounds. The 3-methoxy-4,5-methylenedioxy substitution pattern differs from mescaline's 3,4,5-trimethoxy pattern by the replacement of one methoxy group with a methylenedioxy bridge -- a modification that is generally well-tolerated in psychedelic phenethylamines.
-
-The methylenedioxy group is found in numerous active compounds including MDA, MDMA, and the entire 2C-B family. Its presence at the 3,4-positions (as in MDA) reliably produces potent psychedelic and entactogenic activity. However, when shifted to the 4,5-positions (as in LOPHOPHINE), the compound loses activity, suggesting that the spatial arrangement of oxygen substituents on the aromatic ring is critical for 5-HT2A receptor activation.
-
-This positional sensitivity is a recurring theme in phenethylamine SAR. Small changes in the positions of substituents on the ring can dramatically alter or abolish activity, reflecting the precise geometric requirements of [[tihkal-receptor-binding-serotonin]].
+Shulgin provides an excellent argument for why LOPHOPHINE should be active, making its inactivity "completely unexpected." [[tihkal-receptor-binding-serotonin]].
 
 ## Comparison to Related Compounds
 
@@ -88,3 +54,88 @@ The story of LOPHOPHINE is a reminder of how much remains unknown about the chem
 - Shulgin, A. and Shulgin, A. (1991). PIHKAL: A Chemical Love Story. Transform Press.
 
 - Anderson, E.F. (1980). "Peyote: The Divine Cactus." University of Arizona Press.
+
+## Overview
+
+Lophophine Entity represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish lophophine entity
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving lophophine extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Lophophine Entity finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for lophophine entity. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+lophophine entity and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Lophophine Entity has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of lophophine entity into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[2c-c-entity]]
+- [[2c-o-4-entity]]
+- [[4-ho-dbt-entity-tihkal]]
+- [[lophophine-entity-pihkal]]
+- [[pyrethrum-entity]]

@@ -17,8 +17,6 @@ type: concept
 
 # Woven Fence Hedge Live Barrier
 
-[[comparison-living-fences-vs-hedgerows]], woven wattle hedges, and hedgerow barriers are multifunctional
-boundary and partition elements extensively discussed by Bill Mollison in the
 [[fungal-biodiversity]] in agricultural landscapes.
 
 - **Livestock exclusion:** Dense hedgerows form effective barriers against
@@ -30,13 +28,7 @@ boundary and partition elements extensively discussed by Bill Mollison in the
 
 - **Wood and craft products:** Hedgerow management through periodic
   laying or coppicing produces poles, firewood, and craft materials.
-  mollison-windbreak-design in [[pasture-management]] systems. They eliminate the ongoing cost of replacing
-wire, posts, and hardware. Some species, particularly spiny ones, are
-effectively stock-proof once established. Others may require a single strand
-of wire or electric fencing at the top or bottom to prevent livestock pushing
-through gaps.
-
-In [[comparison-rotational-grazing-vs-continuous-grazing]] systems, living fences define permanent paddock
+  mollison-windbreak-design in [[comparison-rotational-grazing-vs-continuous-grazing]] systems, living fences define permanent paddock
 boundaries while portable electric fencing provides temporary internal
 subdivisions.
 

@@ -10,7 +10,7 @@ sources:
 ---
 # Design Principle Integration in Permaculture
 
-Holmgren's eighth design principle -- "[[permaculture-principle-integrate-rather-than-segregate]] Than Segregate" -- is one of the most conceptually rich principles in the permaculture framework. It encompasses the analysis of ecological relationships, functional design strategies, industrial redesign, and the rebuilding of human community. The proverb "many hands make light work" reminds us of the intangible benefits from collective rather than solitary action as well as the synergistic nature of integrated systems in which the whole is greater than the sum of the parts. This principle connects directly to [[permaculture-farm-design-principles]], and guild-design-methodology are practical expressions of this principle -- placing plants and animals together so they support each other's needs and reduce competition.
+Holmgren's eighth design principle -- "[[permaculture-farm-design-principles]], and guild-design-methodology are practical expressions of this principle -- placing plants and animals together so they support each other's needs and reduce competition.
 
 ## Implications for Design
 
@@ -25,11 +25,7 @@ The principle of integration demands that designers:
 
 ## Integration in Modern Design Practice
 
-Contemporary [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]] builds on Holmgren's integration principle through several practical tools. [[mollison-designers-sector-analysis-wind-sun-fire]] maps the energies (sun, wind, water, wildlife, fire, noise) entering a site, allowing designers to place elements where they can intercept and use those flows productively. [[mollison-course-zone-planning-and-design]] arranges elements by frequency of use, ensuring that daily-needs elements like herbs and vegetables are close at hand while less-frequently-managed elements like timber trees are farther away. The integration matrix or element-connection diagram systematically identifies inputs, outputs, and characteristics of each element, then matches outputs of one to inputs of another — turning "waste" into resource. This analytical framework directly operationalizes the principle that integrated systems are more productive, resilient, and self-maintaining than segregated ones.
-
-## See Also
-
-- [[permaculture-earthworks-and-water-harvesting]]
+Contemporary [[mollison-designers-sector-analysis-wind-sun-fire]] maps the energies (sun, wind, water, wildlife, fire, noise) entering a site, allowing designers to place elements where they can intercept and use those flows productively. [[permaculture-earthworks-and-water-harvesting]]
 - guild-design-methodology
 - permaculture-and-community
 - holmgren-trees-nature-solar-power-plants
@@ -97,8 +93,6 @@ through generations to modern scientific approaches, the evolution continues
 to inform current best practices and research directions.
 
 ## See Also
-- [[doc]]
 - [[maps]]
-- [[det]]
 - [[permaculture]]
 - [[permaculture-principle-design-from-patterns-to-details]]

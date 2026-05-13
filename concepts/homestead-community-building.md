@@ -67,7 +67,7 @@ Seed swaps preserve genetic diversity, reduce costs, and build local adaptation.
 - Partner with the local library, community center, or farmers market for venue
 
 ### Seed Saving Basics
-- Open-pollinated (OP) [[cannabis-landrace-and-heirloom-varieties]] breed true from saved seed
+- Open-pollinated (OP) and heirloom varieties breed true from saved seed
 - Hybrid varieties do not breed true — do not save seed from hybrids unless you are experimenting
 - Some crops cross-pollinate readily (squash, corn, brassicas) — isolate or hand-pollinate for pure seed
 - Store seeds cool, dark, and dry — in paper envelopes inside a sealed container in the refrigerator
@@ -88,13 +88,13 @@ Every homesteader has skills others need. Formal and informal skill sharing buil
 - Food preservation (canning, fermentation, dehydration)
 - Animal husbandry and processing
 - Carpentry and building
-- [[mollison-rabbits-in-permaculture-design-and-soil-preparation]] [[permaculture-principles]] principles
+- Permaculture design and [[permaculture-principles]] principles
 - Herbal medicine and plant identification
 - Beekeeping
 - Welding and metalwork
 - Fruit tree pruning and grafting
 - Seed saving
-- [[query-what-are-the-best-natural-building-methods]] ([[mud-oven]], timber frame)
+- Natural building methods ([[mud-oven]], timber frame)
 
 ## Buying Clubs
 
@@ -120,10 +120,10 @@ Group purchasing power reduces costs on bulk items. Buying clubs pool orders to 
 
 Beyond direct barter, broader local food networks strengthen community food security:
 
-- **[[community-supported-agriculture-csa]] (CSA)** — subscribe to local farms for weekly produce boxes
+- **Community Supported Agriculture (CSA)** — subscribe to local farms for weekly produce boxes
 - **Farmers markets** — sell surplus and connect with other producers
 - **Food cooperatives** — member-owned grocery stores that prioritize local products
-- **[[gaias-garden-creating-community-gardens]]** — shared growing space for those without land
+- **Community gardens** — shared growing space for those without land
 - **Gleaning networks** — organized harvesting of surplus from farms and orchards for food banks
 - **Meal trains** — organized meal delivery during illness, injury, or family emergencies
 
@@ -140,10 +140,11 @@ Community living inevitably produces disagreements. Address conflicts early and 
 ## Building Community from Scratch
 
 If you are new to an area:
-- Attend local farmers markets and agricultural events
-- Join your county extension service mailing list
-- Introduce yourself to neighbors with a small gift (eggs, produce, baked goods)
-- Volunteer for community projects
-- Offer to help during busy seasons (harvest, haying, butchering)
-- Host a potluck — food brings people together
-- Be reliable — your reputation is built on follow-through
+
+## See Also
+
+- [[homestead-energy-conservation]]
+- [[homestead-mushroom-business]]
+- [[homestead-winter-preparations]]
+- [[homestead-tool-maintenance]]
+- [[homestead-internet-options]]

@@ -9,7 +9,7 @@ sources: [raw/papers/magic-mushroom-growers-guide-ot-oss-on-oeric.md]
 
 # Oss & Oeric: Terrarium Design and Humidity Control
 
-Maintaining proper environmental conditions during the fruiting stage is critical for successful [[accessible-mushroom-cultivation-for-disabilities]]. The 1976 guide by Oss & Oeric describes several approaches to creating high-humidity [[mushroom-growing-environments]] using readily available materials. The authors emphasize that humidity control is essential at every stage of cultivation, from mycelial incubation through fruiting.
+Maintaining proper environmental conditions during the fruiting stage is critical for successful [[mushroom-growing-environments]] using readily available materials. The authors emphasize that humidity control is essential at every stage of cultivation, from mycelial incubation through fruiting.
 
 ## Incubation Boxes for Mycelial Growth
 
@@ -21,7 +21,7 @@ The window allows visual monitoring of colony progress without opening the box a
 
 ## Fruiting Chambers for Cased Jars
 
-After the casing step, jars require a high-humidity environment to support [[bloomfield-mushroom-formation-fruiting-body-development-cultivation]]. The authors recommend large styrofoam coolers with windows cut into the lids and covered with clear or translucent [[passive-humidity-fruit-chamber-polyethylene-sheeting]], creating a greenhouse-like environment that maintains high relative humidity needed for sustained fruiting across multiple flushes.
+After the casing step, jars require a high-humidity environment to support [[passive-humidity-fruit-chamber-polyethylene-sheeting]], creating a greenhouse-like environment that maintains high relative humidity needed for sustained fruiting across multiple flushes.
 
 The design is intentionally simple and accessible. Styrofoam coolers were readily available, inexpensive, and provided excellent insulation against temperature fluctuations. The clear plastic window allows ambient light to reach the cultures.
 
@@ -53,12 +53,7 @@ Modern designs have improved on the original Oss & Oeric approach with automated
 
 Fresh air exchange (FAE) was underappreciated in 1976 but is now recognized as critical for proper fruitbody development. High CO2 levels produce long, stringy stems with small caps, while adequate fresh air produces compact, normally proportioned mushrooms.
 
-The [[shotgun-fruiting-chamber]] design incorporates numerous small holes on all six sides of a plastic storage container, providing continuous passive air exchange while a layer of wet perlite on the bottom maintains high humidity.
-
-## Contamination Prevention
-
-Contamination is the most common cause of failure in amateur cultivation. The
-original Oss & Oeric guide predates modern understanding of [[mushroom-contamination-vectors]],
+The [[mushroom-contamination-vectors]],
 but several principles from the guide remain valid:
 
 - **Sterile technique during inoculation**: The guide emphasizes flaming needle

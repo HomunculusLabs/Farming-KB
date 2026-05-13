@@ -19,17 +19,7 @@ type: concept
 tags: [chaga]
 ---
 
-# Chaga ([[mushroom-fruiting-body-morphology]] but rather a sterile mass of
-mycelium that slowly develops on living trees, eventually killing the host
-after many years of parasitic growth. The dark, cracked exterior resembles
-burnt charcoal, while the interior is a rusty orange-brown
-colour.
-## Historical Context
-
-The use of birch polypores in medicine dates back millennia. The
-5,300-year-old "Iceman" discovered in the Italian Alps carried a string of
-birch [[growing-gourmet-polypore-mushrooms-cultivation-overview]] ([[blesching-cannabis-immune-system-modulation]] and stimulation
-- **Antiviral**: [[trametes-versicolor-entity]] (turkey tail), Chaga is a non-edible polypore that is
+# Chaga ([[growing-gourmet-polypore-mushrooms-cultivation-overview]] ([[trametes-versicolor-entity]] (turkey tail), Chaga is a non-edible polypore that is
 used medicinally through hot water extraction. Both contain beta-glucans with
 immunomodulating and antitumour properties. However, while turkey tail has
 undergone decades of clinical trials with its PSK and PSP compounds, Chaga
@@ -53,27 +43,7 @@ completed.
 
 The broader investigation of bracket fungi and polypores suggests that many
 species, including those not yet commercially developed, may be important
-sources of new [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]]. The antimicrobial potential of bracket
-polypore extracts, combined with proven immunomodulatory effects, warrants
-further examination, particularly for applications in immune-compromised
-patients.
-## Safety and Traditional Use
-
-Chaga has a long history of safe use as a tea in traditional medicine.
-However, because Chaga contains oxalates that can be concentrated during
-extraction, and because it has not undergone formal Phase I clinical trials,
-caution is advised with concentrated extracts. No maximum tolerated dose has
-been established through formal clinical
-testing.
-## Extraction Methods and Bioavailability
-The bioactive compounds in Chaga are not equally extractable by a single
-method. Betulin and betulinic acid are alcohol-soluble triterpenes, meaning
-they are poorly extracted by hot water alone. Polysaccharides, including the
-immunomodulating beta-glucans, are water-soluble but heat-stable. Melanin,
-which provides antioxidant activity, is insoluble in both water and alcohol
-but can be extracted with alkaline solutions. This complexity means that
-different extraction methods yield different therapeutic profiles, and the
-[[kava-traditional-preparation-ceremonial-context]] method -- long simmering as a decoction or tea --
+sources of new [[kava-traditional-preparation-ceremonial-context]] method -- long simmering as a decoction or tea --
 primarily extracts water-soluble polysaccharides while leaving most
 triterpenes
 behind.
@@ -90,7 +60,7 @@ complicates comparisons between studies and between products. Consumers should
 be aware that a product extracted only with water will contain minimal betulin
 ## See Also
 
-- [[cancer-immune-modulation-mechanisms]] — [[cancer-immune-modulation-mechanisms]] mechanisms relevant to Chaga's antitumour activity
+- [[cancer-immune-modulation-mechanisms]] mechanisms relevant to Chaga's antitumour activity
 
 ## Practical Applications
 
@@ -114,8 +84,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[chaga]]
 - [[lentinan]]
-- [[kava]]
 - [[ethanol]]
 - [[mycelium]]

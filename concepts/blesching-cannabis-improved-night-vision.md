@@ -16,11 +16,7 @@ type: concept
 
 # Cannabis and Improved Night Vision
 
-An international team of researchers from the [[dmt-containing-plants-united-states-halpern]], Spain, and Morocco
-documented (2004) an improvement in night vision among Jamaican fishermen
-after ingestion of a crude tincture of herbal cannabis. Two members of this
-group also noted that Moroccan fishermen and mountain dwellers observe an
-analogous improvement after smoking kif, sifted [[comparison-cannabis-sativa-vs-cannabis-indica]] mixed with
+An international team of researchers from the [[comparison-cannabis-sativa-vs-cannabis-indica]] mixed with
 tobacco (Nicotiana rustica).
 
 To field-test these anecdotal reports, researchers devised a placebo-controlled
@@ -55,8 +51,7 @@ effect on retinal function suggests potential therapeutic applications not only
 for night vision enhancement but possibly for retinitis pigmentosa and other
 retinal degenerative conditions.
 
-The [[blesching-cannabis-age-related-macular-degeneration]] and
-[[blesching-cannabis-dosing-strategies]] for detailed guidance.
+The [[blesching-cannabis-dosing-strategies]] for detailed guidance.
 
 ## Potential Applications
 
@@ -84,41 +79,6 @@ In the Rif mountains of northern Morocco, kif (a blend of sifted Cannabis
 sativa mixed with tobacco) has been used for centuries. Fishermen reported
 that smoking kif before nighttime fishing expeditions enhanced their ability
 to navigate and spot fish in darkness. Similarly, Jamaican fishermen using
-[[query-how-to-make-cannabis-tinctures-at-home]] reported improved night vision that facilitated their work.
-
-## Broader Ophthalmological Implications
-
-## Practical Applications
-
-The principles and techniques discussed here have wide-ranging applications
-across multiple disciplines and contexts. Practitioners and researchers
-continue to explore new ways to integrate these concepts into modern practice,
-adapting traditional knowledge to contemporary challenges and opportunities.
-
-## Key Considerations
-
-Several important factors influence the effectiveness and outcomes described
-in this topic. Understanding these considerations helps practitioners make
-informed decisions and avoid common pitfalls. Environmental conditions,
-timing, and material selection all play critical roles.
-
-## Historical Context
-
-The historical development of this subject reflects centuries of accumulated
-knowledge and practical experience. From traditional methods passed down
-through generations to modern scientific approaches, the evolution continues
-to inform current best practices and research directions.
-
-## Common Challenges
-
-Practitioners frequently encounter several challenges when working with
-these concepts. Climate variability, resource limitations, and knowledge
-gaps can all affect outcomes. Addressing these challenges requires patience,
-observation, and a willingness to adapt approaches based on results.
-
-## See Also
-- [[doc]]
-- [[det]]
+[[doc]]
 - [[nicotiana-rustica]]
-- [[endocannabinoid-system]]
 - [[dmt]]

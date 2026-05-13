@@ -1,6 +1,6 @@
 ---
 title: Blesching Molecules Emotions Expansive Constricting Neurotransmitters
-source: The [[blesching-cannabis-health-index-autoimmune-conditions]] (Blesching, 2015)
+source: The blesching-cannabis-health-index-autoimmune-conditions (Blesching, 2015)
 source_path: /Users/t3rpz/wiki/raw/papers/uwe-blesching-the-cannabis-health-index.md
 tags: [neurotransmitters, emotions, endocannabinoid-system, mind-body-medicine, psychoneuroimmunology, acetylcholine, serotonin, dopamine, cortisol, blesching]
 ---
@@ -23,53 +23,12 @@ trigger neurochemical cascades; neurochemical levels shape emotional
 experience. The ECS sits at this intersection because CB1 receptors in
 the brain govern emotion, memory, and perception, while CB2 receptors in
 immune tissues link emotional states directly to immune function. The
-[[blesching-endocannabinoid-autonomic-nervous-system-adrenal-glands]]'s sympathetic (fight/flight) and parasympathetic
-(rest/digest) branches are both modulated by cannabinoids. Anandamide
-activates CB1 and CB2 simultaneously, producing coordinated changes
-across neural and immune systems — meaning emotional experiences produce
-measurable systemic physiological changes mediated through the ECS.
-
-## Molecules of Expansive Emotions
-
-### Acetylcholine — "I Remember"
-Associated with memory, learning, and attention. Supports the cognitive
-flexibility needed for neuroplasticity — the brain's ability to form new
-connections — facilitating recall and reprocessing of emotional memories
-during therapeutic sessions.
-
-### Anandamide (AEA) — "I Am at Ease"
-Named from Sanskrit *ananda* (bliss), this endogenous cannabinoid
-activates both CB1 and CB2, simultaneously changing the CNS, immune
-system, and ANS. It enhances pleasure, may mitigate acute schizophrenia,
-demonstrates anti-cancer properties, and soothes coughs — the archetype
-of expansive neurochemistry that cannabis therapeutics seeks to support.
-
-### Endogenous Opioids — "It Feels So Good When the Pain Stops"
-The body's natural opioid system interacts closely with the ECS; both
-modulate pain, reward, and emotional well-being. Clinically relevant
-because cannabis can reduce pharmaceutical opioid requirements in pain
-management.
-
-### GABA — "I Am Melting"
-The brain's primary inhibitory neurotransmitter, reducing neuronal
-excitability. Represents the dissolution of tension — the neurochemical
-experience of letting go. GABA's calming effect complements anandamide's
-bliss, creating [[blesching-cannabis-deep-relaxation-healing]] necessary for therapeutic exploration.
+[[blesching-cannabis-deep-relaxation-healing]] necessary for therapeutic exploration.
 
 ### Oxytocin — "I Feel for You"
 The "bonding hormone" facilitates trust, empathy, and emotional
 connection. Its expansive role extends to self-compassion and forgiveness
-— key elements of the CHI [[cannabis-mindful-healing-protocol-setting-intention-exploration-blesching]].
-
-### Serotonin — "I Am Happy"
-Regulates mood, sleep, appetite, and cognition. CBD engages serotonin
-receptors (5-HT1A) for calming effects, providing a direct link between
-the ECS and serotonergic mood regulation.
-
-## Molecules of Constricting Emotions
-
-### Epinephrine — "I Am Scared"
-Drives the acute [[epinephrine-stress-response-endocannabinoid-modulation-blesching]]. Chronic elevation keeps the sympathetic
+— key elements of the CHI [[epinephrine-stress-response-endocannabinoid-modulation-blesching]]. Chronic elevation keeps the sympathetic
 nervous system in overdrive, suppressing immune function and impairing
 repair and healing capacity.
 
@@ -118,8 +77,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[blesching-biology-of-emotions-expansive-constricting-neurotransmitters]]
 - [[doc]]
-- [[maps]]
 - [[dom]]
 - [[det]]

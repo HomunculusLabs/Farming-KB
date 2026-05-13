@@ -27,18 +27,13 @@ DMT is an endogenous hallucinogen present in small amounts in the human brain. W
 
 ### Natural US Sources
 
-- **[[phalaris-arundinacea]], P. tuberosa, P. aquatica** (reed canary grass): Found throughout the US in fallow fields, sidewalk cracks, and lawns. DMT content is highly variable. High-percentage strains are commercially available online. DMT can be extracted through simple juice extraction.
-
 - **[[desmanthus-illinoensis]]** (prairie bundleflower): Wide distribution across the American prairies. Root bark contains approximately 0.34% DMT by dry weight.
 
 - **Psychotria viridis**: Not native to the US but relevant as the traditional DMT source in Amazonian ayahuasca preparations, containing 0.1% to 0.66% DMT by dry weight.
 
 ### Ayahuasca and MAOI Sources
 
-DMT is orally active only when monoamine oxidase (MAO) enzymes are inhibited. Amazonian ayahuasca combines DMT from Psychotria viridis with reversible type A MAOIs (harmaline, harmine, tetrahydroharmine) from [[banisteriopsis-caapi]]. US-native MAOI sources include:
-
-- **Peganum harmala** (Syrian rue): Introduced to the western US, now found wild. Contains 2 to 4% MAOI by dry weight. The richest natural source of beta-carboline alkaloids.
-- **[[passiflora-incarnata]]** (passionflower): Grows throughout the Southeast and much of the Midwest. Contains approximately 1% MAOI. Bears edible fruit and is used in herbal preparations for sedative properties.
+DMT is orally active only when monoamine oxidase (MAO) enzymes are inhibited. Amazonian ayahuasca combines DMT from Psychotria viridis with reversible type A MAOIs (harmaline, harmine, tetrahydroharmine) from [[passiflora-incarnata]]** (passionflower): Grows throughout the Southeast and much of the Midwest. Contains approximately 1% MAOI. Bears edible fruit and is used in herbal preparations for sedative properties.
 
 Nontraditional ayahuasca-analogue brews from these American plants are documented online, though their pharmacology differs from traditional preparations.
 

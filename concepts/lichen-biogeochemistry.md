@@ -16,7 +16,7 @@ synopsis: >-
   Lichens are symbiotic associations between fungi (mycobionts) and
   photosynthetic partners (photobionts) that pioneer rock surfaces
   globally, covering ~6% of Earth's land. They drive soil formation,
-  rock weathering, [[aact-nitrogen-forms-microbial-nutrient-cycling-ingham]], and [[dighton-fungal-heavy-metal-accumulation-bioremediation]], playing
+  rock weathering, dighton-fungal-heavy-metal-accumulation-bioremediation, playing
   outsized roles in biogeochemical processes relative to their biomass.
 ---
 
@@ -24,18 +24,8 @@ synopsis: >-
 
 ## What Are Lichens?
 
-Lichens are fungi that exist in facultative or obligate symbioses with
-one or more photosynthesizing partners. The lichen [[gadd-lichen-biogeochemistry-pioneer]] symbiosis consists of:
-
-- **Mycobiont**: The fungal partner (the dominant organism, always a
-  fungus)
-- **Photobiont**: The photosynthesizing partner — either algae
-  (chlorophytes) or cyanobacteria
-
-The photobiont provides carbon through photosynthesis while the
-mycobiont offers protection from harsh environmental conditions
-(desiccation, metal toxicity, UV radiation), increases the absorptive
-area, and provides enhanced access to mineral nutrients. (see [[fungal-biogeochemistry]]).
+[[lichens]] are fungi that exist in facultative or obligate symbioses with
+one or more photosynthesizing partners. The lichen [[fungal-biogeochemistry]]).
 
 ## Global Distribution
 
@@ -64,8 +54,6 @@ Lichens play important roles in:
 
 - **Carbon cycling**: Photosynthetic carbon fixation and subsequent
   carbon release through decomposition
-- **[[fungal-role-in-nitrogen-cycling]]**: Cyanobacterial lichens fix atmospheric nitrogen,
-  making it available to ecosystems
 - **[[fukuoka-textdoc-fertilizer-acidification-trace-element-deficiency]] cycling**: Retention and distribution of essential and
   non-essential elements
 
@@ -87,3 +75,75 @@ Lichens accumulate metals from their environment, including:
   concern
 - **Radionuclides**: Lichens can bioaccumulate radioactive isotopes,
   making them useful biomonitors for [[radioactive-contamination-and-fungi]]
+
+## Overview
+
+Lichen Biogeochemistry represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish lichen biogeochemistry
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving lichen extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Lichen Biogeochemistry finds practical application in multiple design contexts.
+[[permaculture-principles]] guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for lichen biogeochemistry. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+lichen biogeochemistry and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Lichen Biogeochemistry has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of lichen biogeochemistry into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions

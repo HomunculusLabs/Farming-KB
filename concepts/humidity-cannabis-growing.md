@@ -10,7 +10,7 @@ tags: [cannabis]
 
 # Humidity in Cannabis Growing
 
-[[stamets-cultivator-humidity-management-fogging-systems]] is a critical aspect of [[query-how-does-no-till-cannabis-cultivation-work]] that directly affects plant growth, pest pressure, and disease incidence. Relative humidity (RH) is the ratio between the amount of moisture in the air and the greatest amount of moisture the air could hold at the same temperature.
+[[query-how-does-no-till-cannabis-cultivation-work]] that directly affects plant growth, pest pressure, and disease incidence. Relative humidity (RH) is the ratio between the amount of moisture in the air and the greatest amount of moisture the air could hold at the same temperature.
 
 ## Understanding Relative Humidity
 
@@ -42,31 +42,15 @@ Example: An 800 cubic foot grow room holds about 14 ounces (414 ml) of water at 
 
 ### Vegetative Stage
 - Relative humidity: 65-70%
-- Supports rapid [[cannabis-vegetative-growth-stage]]
-
-### Flowering Stage
-- Relative humidity: 55-60%
-- Lower humidity discourages diseases and pests
-- Consistent humidity promotes healthy, even growth
-
-## How Humidity Affects Plants
-
-### Transpiration
-
-Relative humidity directly affects the transpiration rate through stomata:
-
-- **High humidity**: Water evaporates slowly; stomata close, transpiration slows, growth slows
-- **[[pf-tek-low-humidity-symptoms-and-remediation]]**: Water evaporates quickly; stomata open, increasing transpiration, fluid flow, and growth
+- Supports rapid [[pf-tek-low-humidity-symptoms-and-remediation]]**: Water evaporates quickly; stomata open, increasing transpiration, fluid flow, and growth
 - **Too high (above 70%)**: Pressure outside the leaf is too high and inside too low; stomata close, growth slows
 
 Example: A 40-inch (1 m) tall plant can transpire a gallon (4 L) per day when humidity is below 50%, but only about a half-pint (0.5 L) on a cool humid day.
 
 ### Extreme Humidity Effects
 
-- Above 80%: Discourages [[query-how-do-i-prevent-and-treat-bud-rot-on-cannabis]] and root/stem rot
-- Below 60%: Reduces chances of [[heat-stress-cannabis]] — temperature management in cannabis
-- [[powdery-mildew-cannabis]] — [[bloomfield-amphibian-decline-fungal-disease-climate-interactions]] promoted by high humidity
-- [[cannabis-grow-room-setup]] — environmental design considerations
+- Above 80%: Discourages [[heat-stress-cannabis]] — temperature management in cannabis
+- [[bloomfield-amphibian-decline-fungal-disease-climate-interactions]] promoted by high humidity
 - [[cannabis-mold-and-mildew-prevention]]
 ## Practical Considerations
 
@@ -116,8 +100,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[query-what-is-the-kratky-method-for-growing-cannabis]]
 - [[cannabis-guerrilla-growing-guide]]
-- [[cannabis-growing-environment-setup]]
 - [[greenhouse-cannabis-growing]]
 - [[outdoor-cannabis-growing]]

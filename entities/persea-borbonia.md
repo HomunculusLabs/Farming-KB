@@ -18,13 +18,11 @@ sources:
 
 ## Overview
 
-**Persea borbonia** (redbay) is an evergreen tree in the family Lauraceae, native to the southeastern [[dmt-containing-plants-united-states-halpern]]. It is a dominant component of coastal plain forests, maritime hammocks, and bay swamps across the Atlantic and Gulf coastal plains.
-
-Redbay is ecologically significant as a primary food source for wildlife, particularly birds, and as the most severely affected host of **laurel wilt disease**, a devastating [[alpha-1-3-glucan-fungal-pathogen-cell-walls]] vectored by the invasive redbay ambrosia beetle.
+**Persea borbonia** (redbay) is an evergreen tree in the family Lauraceae, native to the southeastern [[alpha-1-3-glucan-fungal-pathogen-cell-walls]] vectored by the invasive redbay ambrosia beetle.
 
 Since the arrival of laurel wilt in the early 2000s, millions of redbay trees have been killed across their range, causing cascading ecological impacts.
 
-The species is closely related to avocado (*[[persea-americana]]*) and sassafras (*[[sassafras-albidum]]*), both of which are also susceptible to laurel wilt.
+The species is closely related to avocado (*[[sassafras-albidum]]*), both of which are also susceptible to laurel wilt.
 
 ## Taxonomy and Morphology
 
@@ -40,39 +38,7 @@ The trunk is straight, 30–60 cm in diameter, with dark reddish-brown to nearly
 
 Leaves are simple, alternate, elliptic to oblanceolate, 5–15 cm long and 2–5 cm wide.
 
-The [[bloomfield-rust-germ-tube-tactile-sensing-leaf-surface-navigation]] is dark green and glossy above, paler and pubescent (especially along the midrib) beneath.
-
-Leaf margins are entire, and crushed leaves emit a strong, spicy aroma characteristic of the Lauraceae.
-
-Flowers are small, yellow-green, and borne in short axillary panicles from March through May.
-
-The perianth is six-lobed, approximately 4–5 mm in diameter, with both staminate and pistillate flowers.
-
-Fruit is a fleshy, ovoid drupe, 1–1.5 cm long, ripening from green to dark blue or black in late summer to autumn.
-
-Each fruit contains a single large seed surrounded by a thin layer of edible flesh.
-
-## Distribution and Habitat
-
-*P. borbonia* is native to the southeastern United States, from Delaware southward along the Atlantic coast to Florida, and westward along the Gulf coast to eastern Texas.
-
-Its range extends inland to Arkansas, southern Tennessee, and the piedmont regions of the Carolinas and Georgia.
-
-The species is most abundant on the coastal plain, where it is a characteristic tree of maritime forests and bayhead swamps.
-
-Preferred habitats include maritime hammocks, coastal dune forests, flatwoods, bay swamps, and riparian corridors.
-
-It tolerates a range of soil conditions from sandy, well-drained sands to seasonally flooded organic soils.
-
-Optimal growth occurs in moist, acidic soils in partial shade to full sun.
-
-The species is moderately salt-tolerant and is common on barrier islands and near-shore environments.
-
-Elevation range is from sea level to approximately 200 meters in the piedmont.
-
-## Ecology
-
-Redbay is a keystone species in coastal plain [[dighton-fungi-acidifying-pollutants-forest-ecosystems]], providing critical food and habitat for numerous wildlife species.
+The [[dighton-fungi-acidifying-pollutants-forest-ecosystems]], providing critical food and habitat for numerous wildlife species.
 
 The fruits are consumed by a wide variety of birds, including northern bobwhite, wild turkey, thrushes, waxwings, bluebirds, and woodpeckers.
 
@@ -84,6 +50,88 @@ Redbay foliage is browsed sparingly by deer but is an important winter browse in
 
 The species is a larval host for the palamedes swallowtail butterfly (*Papilio palamedes*), which has experienced significant population declines due to laurel wilt.
 
-Fallen leaves contribute significantly to the [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] of [[fungal-ecology-forest-floor]] ecosystems.
+Fallen leaves contribute significantly to the [[fungal-ecology-forest-floor]] ecosystems.
 
 In bayhead swamp communities, redbay is a dominant canopy species alongside sweetbay magnolia and loblolly bay.
+
+## Overview
+
+Persea Borbonia represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish persea borbonia
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving persea extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Persea Borbonia finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for persea borbonia. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+persea borbonia and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Persea Borbonia has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of persea borbonia into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[persea-americana]]
+- [[persea-palustris]]

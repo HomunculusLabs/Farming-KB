@@ -71,19 +71,9 @@ Bird-dispersed seeds allow long-distance establishment, while rhizomatous spread
 
 In invaded Hawaiian forests, the species significantly reduces native plant diversity. Studies show 50–80% reductions in native understory cover in heavily invaded plots compared to uninvaded controls.
 
-The dense leaf canopy shades out native seedlings, while the thick rhizome mat prevents seedling establishment. Decomposing rhizome litter may alter soil chemistry and [[cannabis-rhizosphere-microbial-communities]].
+The dense leaf canopy shades out native seedlings, while the thick rhizome mat prevents seedling establishment. Decomposing rhizome litter may alter soil chemistry and [[dighton-fungal-biomass-production-aquatic-ecosystems]].
 
-Water flow in invaded riparian areas is reduced due to physical obstruction by dense rhizome mats. This can alter stream dynamics and affect [[dighton-fungal-biomass-production-aquatic-ecosystems]].
-
-In New Zealand, invasion leads to the displacement of native [[fungal-ecology-forest-floor]] species and reduced regeneration of canopy trees. Control efforts focus on manual removal and herbicide application.
-
-[[fukuoka-textdoc-biological-control-fallacy-pheromone-critique]] research has identified the ginger weevil (*Derelomus hedychi*) and a leaf roller (*Exeristes roborator*) as potential agents, but no [[fukuoka-textdoc-arrowhead-scale-ladybug-biological-control]] program has been implemented due to concerns about non-target effects.
-
-## Cultivation and Uses
-
-In its native range, Kahili ginger is used in traditional medicine. Rhizome paste is applied to wounds and skin infections, and rhizome decoctions are consumed for digestive complaints.
-
-The flowers are used in Hindu [[entheogenic-folk-religious-ceremonies]], particularly in Nepal and Bengal. Garlands of Kahili ginger flowers are offered during festivals and placed at temples.
+In New Zealand, invasion leads to the displacement of native [[fukuoka-textdoc-biological-control-fallacy-pheromone-critique]] research has identified the ginger weevil (*Derelomus hedychi*) and a leaf roller (*Exeristes roborator*) as potential agents, but no [[entheogenic-folk-religious-ceremonies]], particularly in Nepal and Bengal. Garlands of Kahili ginger flowers are offered during festivals and placed at temples.
 
 Essential oil extracted from flowers and rhizomes is used in perfumery. The fragrance is described as warm, floral, and slightly spicy with honey-like undertones.
 

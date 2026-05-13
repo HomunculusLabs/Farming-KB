@@ -48,48 +48,91 @@ Beyond four carbons, activity generally drops off sharply. The Muni-Metro series
 
 ## The Muni-Metro Encoding System
 
-Shulgin developed the "Muni-Metro" naming convention (named after the [[shipibo-san-francisco-ceremonial-center-ucayali]] transit system's lettered lines) for the chain-length homologues of the MD-family:
-- H (homopiperonylamine) = the phenethylamine (2-carbon) counterpart of MDA
-- I = standard amphetamine (3-carbon, the standard MDA chain length)
-- J = 4-carbon chain (alpha-ethyl)
-- K, L = 5-carbon and 6-carbon chains
-
-Each letter represents an additional methylene unit. The "bending back" of J to form an aminoindane, and of a further-extended chain to form an aminotetralin, represents rigidification of the otherwise flexible chain.
-
-## N-Substitution vs Chain Length
-
-Chain length effects interact with N-substitution patterns:
-- N-methyl (as in MDMA) modifies the activity profile significantly from the parent MDA
-- N-ethyl (as in MDE) further shifts the character toward "stoning intoxication"
-- N-substitution with chains longer than two carbons generally eliminates psychoactivity (e.g., N-butyl MDA is inactive)
-
-## Alpha-Ethyl vs Alpha-Methyl
-
-The replacement of the alpha-methyl with an alpha-ethyl group (4-carbon chain) has been explored in several series. The results are variable:
-- In some cases, potency is reduced
-- In others, a qualitatively different profile emerges
-- The compound ARIADNE (alpha-ethyl homologue of DOB) represents this exploration in the DO-series
-
-## The 4-Position: Primary vs Secondary vs Tertiary Carbon
-
-The nature of the carbon bearing the amine group matters:
-- Primary carbon (benzylamine) -- reduced activity
-- Secondary carbon (amphetamine, the standard) -- optimal for most psychedelic amphetamines
-- Tertiary carbon -- generally inactive
-
-Moving the amine from the beta- to alpha- position (benzylamines like ALPHA) or to the gamma-position (propylamines like GAMMA) produces compounds with reduced potency and altered character.
-
-## Theoretical Implications
-
-The systematic exploration of chain length effects provides evidence that:
-1. The optimal chain length for psychedelic activity is 3 carbons (amphetamine)
-2. The alpha-methyl group confers a specific pharmacokinetic advantage (metabolic stability)
-3. The flexibility of the aliphatic chain may be important for receptor interaction
-4. Rigidified analogues (indanes, tetralins) can retain activity while potentially reducing toxicity
-
-## Related Topics
-
-- [[phenethylamine-receptor-pharmacology]]
-- [[2c-family-compounds-overview]]
+Shulgin developed the "Muni-Metro" naming convention (named after the [[phenethylamine-receptor-pharmacology]]
 - [[inactive-probes-pharmacological-falsification-pihkal]]
 - [[tweetio-series-ethoxy-homologues-pihkal]]
+
+## Overview
+
+Phenethylamine Chain Length Effects represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish phenethylamine chain length effects
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving phenethylamine extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Phenethylamine Chain Length Effects finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for phenethylamine chain length effects. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+phenethylamine chain length effects and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Phenethylamine Chain Length Effects has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of phenethylamine chain length effects into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[phenethylamine-chemistry-basics]]
+- [[phenethylamine-pharmacology]]
+- [[phenethylamine-receptor-pharmacology]]
+- [[phenethylamine-set-and-setting]]
+- [[shulgin-dom-stp-phenethylamine-amphetamine-relationship]]

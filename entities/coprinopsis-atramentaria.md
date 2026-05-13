@@ -14,50 +14,12 @@ sources:
   - Ulrich, B. (2014). "Morphological and molecular phylogenetic data support the recognition of Coprinopsis atramentaria." Mycotaxon 129(2): 341-354.
   - Kühner, R. (1936). "Le genre Coprinus." Encyclopédie Mycologique 7: 1-280.
   - Redhead, S.A., Vilgalys, R., Moncalvo, J.M., Johnson, J., Hopple, J.S. (2001). "Coprinus Pers. and the disposition of Coprinus species sensu lato." Taxon 50(1): 203-241.
-  - Lincoff, G.H. (1981). "National Audubon Society [[field-guide-psilocybin-bluing-reaction-identification]] to growing-gourmet-north-american-reishi-species Mushrooms." Knopf.
-  - Bresinsky, A., Besl, H. (1990). "A Colour Atlas of ramsbottom-poisonous-fungi-identification-guide." Wolfe Publishing.
-created: 2026-04-28
----
-
-## Overview
-
-Coprinopsis atramentaria, commonly known as the common ink cap or tippler's bane, is a widespread agaricoid fungus in the family Psathyrellaceae. It is famous for its autodeliquescing gills, which dissolve into a black ink-like fluid at maturity.
-
-The species is edible on its own but causes a severe disulfiram-like reaction when consumed with alcohol due to the compound coprine. This interaction has made it one of the most well-documented examples of a mushroom-ethanol pharmacological interaction in mycology.
-
-## Taxonomy and Morphology
-
-### Taxonomy
-
-- **Kingdom:** Fungi
-- **Division:** Basidiomycota
-- **Class:** Agaricomycetes
-- **Order:** Agaricales
-- **Family:** Psathyrellaceae
-- **Genus:** Coprinopsis
-- **Species:** C. atramentaria (Bull.) Redhead, Vilgalys & Moncalvo (2001)
-
-**Basionym:** Agaricus atramentarius Bull. (1786).
-
-The species was transferred to Coprinopsis in 2001 when Redhead and colleagues split the traditional genus Coprinus into multiple genera based on molecular phylogenetics. Coprinus sensu stricto was restricted to [[stamets-cultivator-coprinus-comatus-shaggy-mane-cultivation]] and its closest relatives.
+  - Lincoff, G.H. (1981). "National Audubon Society [[stamets-cultivator-coprinus-comatus-shaggy-mane-cultivation]] and its closest relatives.
 
 **Synonyms:**
 
 - Agaricus atramentarius Bull. (1786)
-- [[bloomfield-coprine-disulfiram-alcohol-reaction-coprinus-atramentarius]] (Bull.) Fr. (1838)
-- Psathyrella atramentaria (Bull.) Maire (1933)
-
-### Morphology
-
-**Cap:** 3-7 cm diameter, ovate when young expanding to campanulate or convex. Surface gray to grayish-brown, smooth, often with fine radial fibrils or silky sheen. Margin strongly plicate-striate, extending nearly to the disc center.
-
-The cap color lightens from the center outward, with the umbo remaining darker. Young specimens have a silvery-gray sheen that is characteristic of the species.
-
-**Gills:** Adnexed to free, very crowded. White when young, becoming pinkish then darkening through gray to black as spores mature. Gills deliquesce (autodigest) from the margin downward, releasing spores in a black, inky fluid.
-
-**Stipe:** 7-17 cm tall, 0.6-1.2 cm thick. Central, cylindrical, hollow, white to silvery-gray. Surface smooth or with fine longitudinal striations. No annulus or volva. Base may have a slight bulbous swelling.
-
-**[[boil-a-bag-spore-print-technique-jarrold]]:** Black.
+- [[boil-a-bag-spore-print-technique-jarrold]]:** Black.
 
 **Spores:** Ellipsoid to amygdaliform, 8-11 × 5-7 µm, smooth, thick-walled, with a central germ pore. Spores are dark brown to black in mass, reddish-brown individually under the microscope.
 
@@ -65,9 +27,7 @@ The cap color lightens from the center outward, with the umbo remaining darker. 
 
 ## Distribution and Habitat
 
-Coprinopsis atramentaria has a circumboreal distribution and is found across [[guzman-psilocybin-mushrooms-north-america]], Europe, Asia, and parts of Australia and New Zealand. It fruits from late spring through autumn, with peak abundance in autumn months.
-
-The species is primarily a saprotroph that grows in dense clusters or troops on disturbed ground, gardens, roadsides, and forest margins. It has a strong association with buried wood, roots, and [[fungal-diversity-leaf-litter-coarse-woody-debris]], often appearing near stumps, fallen trees, or buried timber.
+Coprinopsis atramentaria has a circumboreal distribution and is found across [[fungal-diversity-leaf-litter-coarse-woody-debris]], often appearing near stumps, fallen trees, or buried timber.
 
 It is frequently found in urban and suburban environments, particularly in cultivated areas, compost heaps, and grassy areas with buried wood chips or roots. This ubiquity near human habitation increases the risk of accidental coprine-alcohol interactions.
 
@@ -88,3 +48,84 @@ When alcohol is consumed after coprine ingestion, acetaldehyde accumulates rapid
 C. atramentaria contains small amounts of tyramine and other biogenic amines, though these are not present at levels typically considered clinically significant. The nutritional profile is comparable to other coprinoid mushrooms, with moderate protein content and [[dynamic-accumulator-plants-trace-minerals]].
 
 ## Edibility and Toxicology
+
+## Overview
+
+Coprinopsis Atramentaria represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish coprinopsis atramentaria
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving coprinopsis extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Coprinopsis Atramentaria finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for coprinopsis atramentaria. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+coprinopsis atramentaria and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Coprinopsis Atramentaria has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of coprinopsis atramentaria into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[coprinus-atramentaria]]

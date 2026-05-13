@@ -16,29 +16,9 @@ cannabinoids and terpenes but critically on the method of administration.
 Different routes of delivery produce dramatically different pharmacokinetic
 profiles, affecting onset time, duration of effects, bioavailability, and
 the ratio of active compounds that reach systemic circulation. The
-[[cannabis-health-index]]," [[blesching-cannabis-health-index-cannabinoid-terpene-synergy]] for how
-route of delivery affects the [[cannabis-terpene-entourage-effect-profiles]]:
-
-- **Onset**: 30-120 minutes, with peak effects typically at 2-3 hours
-- **Bioavailability**: 4-20%, the lowest of all administration methods due
-  to extensive first-pass metabolism and variable absorption
-- **Duration**: 4-8 hours or longer, making this the longest-acting method
-- **Advantages**: Extended duration ideal for sustained symptom relief;
-  discrete and convenient; no lung exposure; precise dosing with
-  standardized capsules; well-suited for baseline/around-the-clock therapy
-- **Considerations**: Delayed onset increases risk of overconsumption (the
-  "I didn't feel anything so I took more" problem); 11-hydroxy-THC
-  metabolite is more psychoactive than THC itself, leading to stronger
-  subjective effects; bioavailability varies significantly based on
-  fasting state, GI health, and individual metabolism
-
-Blesching particularly recommends oral administration for conditions
-requiring sustained relief, including [[cannabis-chronic-pain-management]], spasticity, and sleep
-disorders, as explored in [[blesching-cannabis-sleep-disorders]].
-
-## Sublingual/Tinctures
-
-Sublingual administration involves placing [[query-how-to-make-cannabis-tinctures-at-home]] or extracts
+[[blesching-cannabis-health-index-cannabinoid-terpene-synergy]] for how
+route of delivery affects the [[cannabis-chronic-pain-management]], spasticity, and sleep
+disorders, as explored in [[query-how-to-make-cannabis-tinctures-at-home]] or extracts
 under the tongue for absorption through the oral mucosa:
 
 - **Onset**: 15-45 minutes, faster than oral but slower than inhalation
@@ -63,9 +43,7 @@ directly to the skin for localized effects:
   transdermal patches can achieve systemic delivery)
 - **Duration**: 2-6 hours for local effects; longer with transdermal patches
 - **Advantages**: No psychoactive effects at typical doses; ideal for
-  localized pain, inflammation, and [[cannabis-for-skin-conditions-detailed]]; can be applied as
-  needed without systemic effects; well-suited for
-  [[blesching-cannabis-rheumatoid-arthritis]] pain
+  localized pain, inflammation, and [[blesching-cannabis-rheumatoid-arthritis]] pain
 - **Considerations**: Limited to surface and near-surface tissue
   penetration; not effective for systemic conditions; efficacy depends on
   preparation quality and cannabinoid concentration
@@ -118,8 +96,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[det]]
 - [[blesching-cannabis-modes-administration-pharmacokinetics]]
-- [[blesching-cannabis-modes-of-administration-comparison]]
 - [[cannabis-health-methods-of-administration]]
 - [[cannabis-administration-methods-comparison]]

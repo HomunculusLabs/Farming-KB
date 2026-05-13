@@ -9,17 +9,10 @@ sources:
 type: concept
 ---
 
-# Cannabis [[cannabis-pre-flowering-and-sexing]]
-- [[cannabis-plant-anatomy]] for detailed morphology of cannabis
+# Cannabis [[cannabis-plant-anatomy]] for detailed morphology of cannabis
   structures
-- cannabis [[cannabis-trichome-development-cannabinoid-biosynthesis-sites]] for the biochemical pathways
-  of [[greg-green-thc-and-cannabinoid-science]] production
-- plant stress responses for how [[duggar-mushroom-environmental-factors-temperature-moisture-light]] affect
-  plant development
-
-## See Also
-
-- [[green-cannabis-flowering-management]]
+- cannabis [[greg-green-thc-and-cannabinoid-science]] production
+- plant stress responses for how [[green-cannabis-flowering-management]]
 ## Practical Applications
 
 Cannabis Flowering Cycles and Photoperiodism has a range of practical applications that make it relevant to
@@ -97,8 +90,6 @@ through generations to modern scientific approaches, the evolution continues
 to inform current best practices and research directions.
 
 ## See Also
-- [[doc]]
 - [[det]]
-- [[photoperiodism]]
 - [[comparison-autoflowering-cannabis-vs-cannabis-photoperiod-flowering-cycle]]
 - [[cannabis-flowering-stage-management]]

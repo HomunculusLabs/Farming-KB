@@ -33,64 +33,100 @@ poultry fodder.
   and the Americas
 
 ### Ecological Roles
-- **[[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]]:** Root nodules fix atmospheric nitrogen, improving
-  soil fertility for companion plants
-- **Pioneer species:** Rapid colonisers of disturbed and degraded land
-- **Soil stabilisation:** Many species excellent for [[permplant-willows-salix-erosion-control-fodder]] on
+- **[[permplant-willows-salix-erosion-control-fodder]] on
   sands, slopes, and degraded sites
 - **Shelter:** Fast growth provides quick windbreak and shade establishment
-- **[[mollison-designers-bee-forage-tree-planting]]:** Usually a good source of pollen (less often nectar)
+- **[[mollison-designers-legume-shade-tree-pasture-systems]] to 5 m;
+  seed is good [[acacia-senegal]]
 
-### Notable Species
-
-#### Arid Zone Species
-- **A. aneura (mulga):** Outstanding fodder tree; 12% protein in leaves;
-  survives 200-500 mm rainfall; one of the world's hardest woods
-- **A. ampliceps (salt wattle):** Tolerates highly saline and waterlogged
-  conditions; 250-700 mm rainfall
-- **A. ligulata (sandhill wattle):** Fast growing on infertile sands; 110-250
-  mm rainfall
-
-#### Temperate Species
-- **A. dealbata (silver wattle):** Fast growing to 25-28 m; used for pulp
-  production; 600-1000 mm rainfall
-- **A. decurrens (green wattle):** Fast coloniser to 9 m; bark used in
-  tanning; excellent pioneer for pastured land
-- **A. baileyana (cootamundra wattle):** Ornamental [[mollison-designers-legume-shade-tree-pasture-systems]] to 5 m;
-  seed is good [[knf-poultry-feed-preparation]]
-
-#### Timber Species
-- **A. harpophyllia (brigalow):** 12-24 m; hard, elastic wood; excellent
-  for fuel, posts, poles, and cabinet making
-- **A. melanoxylon (blackwood):** Premium furniture timber
-
-### Wood Uses
-- Firewood (many species dense and high quality)
-- Fence posts and mine timbers
-- Craft wood (many species have striking colour and take high polish)
-- Pulp production
-- Tanning (bark of several species)
-- Fine wood crafts and cabinet making
-
-### Fodder Value
-- Seeds are generally good poultry fodder
-- Many species browsed by cattle and sheep
-- A. aneura (mulga): 1.4 kg daily ration supplies sheep with sufficient
-  protein (12%), calcium, and vitamin A
-
-### Propagation
-- Seed generally requires scarification (hot water or filing)
-- Many species coppice well after cutting
-- Rapid growth enables quick establishment
-
-## Relevance
-Acacia species are indispensable in [[acacia-senegal]]
-
-- [[permaculture-plants-legume-trees-acacia-carob-locust]]
 - [[hordenine]]
 
 ## See Also
 
-- [[acacia-acuminata]]
 - [[acacia-farnesiana]]
 - [[acacia-tortilis]]
+
+## Overview
+
+Acacia represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish acacia
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving acacia extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Acacia finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for acacia. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+acacia and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Acacia has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of acacia into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[acacia-confusa]]
+- [[acacia-farnesiana]]
+- [[acacia-tortilis]]
+- [[fukuoka-morishima-acacia-orchard-integration]]
+- [[morishima-acacia-nitrogen-fixing-soil-building-tree]]

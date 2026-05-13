@@ -21,21 +21,7 @@ weekly, or seasonal water requirements for any crop under non-stressed condition
 
 ## The Three Kc Growth Stages
 
-Crop coefficients vary across [[query-how-to-protect-plants-from-frost-and-extend-the-growing-season]] as the canopy develops, reaches full
-cover, and senesces. FAO-56 defines four growth stages, but Kc is commonly described
-across three practical phases: **Initial stage** — from planting to ~10% ground cover,
-with low Kc values (0.15–0.50) because soil evaporation dominates; **Mid-season stage**
-— from full ground cover to senescence onset, where Kc peaks (0.95–1.30) as
-transpiration through the full canopy dominates; and **Late season stage** — from
-senescence to harvest, where Kc declines (0.60–0.90) as leaves dry and the canopy no
-longer shades the soil. A fourth transition period (crop development) bridges initial
-and mid-season stages with a linear or curvilinear increase in Kc.
-
-## FAO-56 Single vs. Dual Crop Coefficient Approach
-
-The **single crop coefficient** (Kc) combines transpiration and soil evaporation into
-one value. It is simpler and suitable when soil evaporation is minor or frequent
-irrigation keeps the surface near [[bulk-substrate-field-capacity]]. The **dual crop coefficient** splits
+Crop coefficients vary across [[bulk-substrate-field-capacity]]. The **dual crop coefficient** splits
 Kc into two components: Kc = Kcb + Ke, where Kcb is the basal crop coefficient
 representing transpiration from a dry, evaporation-free surface, and Ke is the soil
 evaporation coefficient. The dual approach is more accurate for fields where the soil
@@ -46,40 +32,9 @@ surface is frequently wetted and then dries between events.
 Kcb represents crop transpiration when the soil surface is visually dry but the root
 zone contains adequate water. Ke accounts for evaporation from the topsoil layer —
 after a wetting event, Ke can spike to 0.80–1.00, then decays exponentially as the
-soil dries. The decay rate depends on soil texture, [[evaporative-demand-gradient-stipe-elongation-mechanism-badham-1982]], and the
-evaporation layer depth (typically 0.10–0.15 m). The dual approach requires tracking
-soil moisture in the evaporation layer separately from the root zone, adding
-complexity but yielding more precise recommendations, especially for wide-row crops
-with significant exposed soil.
-
-## Typical Kc Values for Major Crops
-
-FAO-56 publishes tabulated Kc values for hundreds of crops. Representative values
-under standard sub-humid conditions (RHmin ≈ 45%, wind ≈ 2 m/s):
-
-| Crop            | Initial | Mid   | Late  |
-|----------------|---------|-------|-------|
-| Wheat          | 0.30    | 1.15  | 0.40  |
-| Corn (maize)   | 0.30    | 1.20  | 0.60  |
-| Rice           | 1.05    | 1.20  | 0.90  |
-| Cotton         | 0.35    | 1.20  | 0.70  |
-| Tomato         | 0.35    | 1.15  | 0.70  |
-| Potato         | 0.35    | 1.15  | 0.75  |
-| Alfalfa        | 0.40    | 1.20  | 1.05  |
-| Orchard (apple)| 0.45    | 0.95  | 0.70  |
-
-These values must be adjusted for local climate. Rice is unique — flooding maintains
-a saturated surface, so even initial Kc values are high.
-
-## Factors Modifying Kc
-
-Published Kc values assume standard sub-humid climate. When conditions deviate,
-adjustments are necessary. **Climate correction**: FAO-56 formulae adjust mid-season
-Kc based on minimum relative humidity and wind speed — arid, windy climates increase
-Kc by 0.05–0.20. **Planting date and cultivar**: earlier or later planting shifts
-growth stage timing relative to evaporative demand. **Crop density and [[wide-row-spacing-intensive-gardening-comparison]]**:
+soil dries. The decay rate depends on soil texture, [[wide-row-spacing-intensive-gardening-comparison]]**:
 higher populations and narrower rows accelerate canopy closure, raising Kc during
-development. **[[query-how-do-i-choose-the-right-irrigation-method-for-my-vegetable-garden]]**: [[cervantes-drip-irrigation-systems]] reduces Ke compared to sprinkler
+development. **[[cervantes-drip-irrigation-systems]] reduces Ke compared to sprinkler
 or flood. **Soil properties**: coarse sandy soils lose more water to evaporation than
 fine-textured soils after each wetting event.
 
@@ -119,8 +74,76 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[dom]]
 - [[winter-harvest-scheduling-year-round]]
-- [[shulgin-future-psychedelics-scheduling-and-regulation]]
 - [[solomon-irrigation-systems-sprinkler-design]]
 - [[solomon-drip-irrigation-limitations-home-garden]]
+
+## Overview
+
+Crop Coefficients Irrigation Scheduling represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish crop coefficients irrigation scheduling
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving crop extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Crop Coefficients Irrigation Scheduling finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for crop coefficients irrigation scheduling. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+crop coefficients irrigation scheduling and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Crop Coefficients Irrigation Scheduling has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of crop coefficients irrigation scheduling into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.

@@ -12,17 +12,7 @@ sources:
 
 Updated: 2026-04-18
 
-Laccase-mediator systems (LMS) enhance the oxidation capabilities of [[turkey-tail-trametes-versicolor]] laccase decolorization of azo and anthraquinone dyes
-- One of the first mediators applied to dye decolorization (Bourbonnais and Paice 1990)
-- Produces an HBT radical that oxidizes dyes at electrode potentials above the direct laccase oxidation limit
-- Optimal HBT concentration typically ranges from 0.1 to 5 mM depending on dye type and concentration
-
-### Natural Mediators
-
-Several naturally occurring compounds serve as effective mediators:
-
-- **Syringaldehyde**: Phenolic aldehyde from [[mycoremediation-white-rot-fungi-lignin-degradation-enzymes]]; effective for [[staycare-azo-dye-degradation-mechanisms-ligninolytic-fungi]] decolorization
-- **Acetosyringone**: Plant phenolic compound; supports efficient oxidation of [[singh-fungal-degradation-of-synthetic-dyes-and-textile-waste]]
+Laccase-mediator systems (LMS) enhance the oxidation capabilities of [[mycoremediation-white-rot-fungi-lignin-degradation-enzymes]]; effective for [[singh-fungal-degradation-of-synthetic-dyes-and-textile-waste]]
 - **Vanillin**: Aromatic aldehyde; moderate mediator efficiency
 - **2,2,6,6-Tetramethylpiperidine-1-oxyl (TEMPO)**: Stable nitroxyl radical mediator
 - **ABTS (2,2-azinobis(3-ethylbenzothiazoline-6-sulfonic acid))**: Common laboratory mediator
@@ -84,7 +74,6 @@ Whole-fungus systems generally outperform isolated enzyme systems for dye decolo
 
 - fungal-dye-decolorization-factors
 - white-rot-fungi-effluent-decolorization
-- [[singh-ligninolytic-enzymes-fungal-bioremediation]]
 - [[fungal-laccase-and-textile-dye-decolorization]]
 
 ## Practical Applications
@@ -116,8 +105,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[laccase]]
 - [[mycoremediation]]
-- [[mycelium]]
 - [[bioremediation-laccase-mediator-systems]]
 - [[fungal-laccase-mediator-systems]]

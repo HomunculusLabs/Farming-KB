@@ -38,14 +38,12 @@ Bacteria use intracellular dioxygenases and cytochrome P450 enzymes. PAH structu
 The model white-rot fungus, extensively studied for PAH degradation:
 - Mineralizes phenanthrene, pyrene, and benzo[a]pyrene in lab cultures
 - Degrades PAHs in soil supplemented with straw, hay, or wood
-- [[fungal-lignin-peroxidase-veratryl-alcohol]] (LiP) and [[fungal-manganese-peroxidase-remediation]] (MnP) are primary enzymes
+- [[fungal-manganese-peroxidase-remediation]] (MnP) are primary enzymes
 
 ### [[staycare-trametes-versicolor-bioremediation-applications]]
 - Colonized soil and degraded 3,4-dichloroaniline and benzo[a]pyrene
 - Mycelium-coated pellets removed over 80% of pentachlorophenol in 4 weeks
-- Produces all three major [[singh-ligninolytic-enzymes-fungal-bioremediation]] (LiP, MnP, laccase)
-
-### [[cotter-mycoremediation-overview]]
+- Produces all three major [[cotter-mycoremediation-overview]]
 The [[cotter-oyster-mushroom-cultivation]], superior soil colonizer:
 - Superior to P. chrysosporium and T. versicolor in soil colonization
 - Effective against pyrene and benzo[a]pyrene in sterile sand microcosms
@@ -82,45 +80,6 @@ Nutrient competition from indigenous microorganisms can suppress white-rot funga
 ## Soil Bioremediation Approaches
 
 ### Biostimulation
-Adding nutrients (N, P) and [[cervantes-organic-amendments-chart]] (straw, wood chips) to stimulate indigenous microbial activity. Often more effective than bioaugmentation alone.
-
-### Bioaugmentation
-Introducing specific fungal species via formulated inocula:
-- **Substrate carrier**: Wheat straw most effective for P. ostreatus
-- **Selective biocides**: Benomyl (115 ppm) selectively benefits white rot
-- **Inoculum density**: Higher initial inoculum improves colonization
-
-## Practical Applications
-
-The principles and techniques discussed here have wide-ranging applications
-across multiple disciplines and contexts. Practitioners and researchers
-continue to explore new ways to integrate these concepts into modern practice,
-adapting traditional knowledge to contemporary challenges and opportunities.
-
-## Key Considerations
-
-Several important factors influence the effectiveness and outcomes described
-in this topic. Understanding these considerations helps practitioners make
-informed decisions and avoid common pitfalls. Environmental conditions,
-timing, and material selection all play critical roles.
-
-## Historical Context
-
-The historical development of this subject reflects centuries of accumulated
-knowledge and practical experience. From traditional methods passed down
-through generations to modern scientific approaches, the evolution continues
-to inform current best practices and research directions.
-
-## Common Challenges
-
-Practitioners frequently encounter several challenges when working with
-these concepts. Climate variability, resource limitations, and knowledge
-gaps can all affect outcomes. Addressing these challenges requires patience,
-observation, and a willingness to adapt approaches based on results.
-
-## See Also
-- [[fungal-extracellular-enzymes]]
-- [[laccase]]
+Adding nutrients (N, P) and [[fungal-extracellular-enzymes]]
 - [[indigenous-microorganisms]]
-- [[dom]]
 - [[composting]]

@@ -124,15 +124,8 @@ Finally, systematic surveys of underexplored regions (Central Africa, Southeast 
 
 ## Related Concepts
 
-- [[gymnopilus-aeruginosus]] - cosmopolitan neurotropic Cortinariaceae
 - [[psilocybe-zapotecorum]] - type species of Section Zapotecorum
-- [[psilocybe-mexicana]] - Section Mexicanae, sacred mushroom species
 - [[psilocybe-semilanceata]] - notably absent from Mexico despite wide distribution
-- [[neurotropic-fungi-new-guinea-melanesia-indigenous-use-guzman-1998]]
-
-## See Also
-
 - [[neurotropic-fungi-chemical-groups-classification]]
-- [[neurotropic-fungi-global-biogeography]]
 - [[neurotropic-fungi-taxonomic-classification]]
 - [[neurotropic-fungi-taxonomic-misidentification-problems-guzman-1998]]

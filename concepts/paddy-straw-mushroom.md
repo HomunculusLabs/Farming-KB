@@ -9,7 +9,7 @@ sources: []
 
 # Paddy Straw Mushroom (Volvariella volvacea)
 
-The Paddy Straw Mushroom is a tropical and subtropical edible mushroom that is one of the most [[fungi-cultivated-mushrooms-pathogens-competitors]] in Southeast Asia and other warm-climate regions. Named for its traditional cultivation on rice straw, it is an important food source and cash crop in tropical agriculture systems.
+The Paddy Straw Mushroom is a tropical and subtropical edible mushroom that is one of the most cultivated mushrooms in Southeast Asia and other warm-climate regions. Named for its traditional cultivation on rice straw, it is an important food source and cash crop in tropical agriculture systems.
 
 ## Overview
 
@@ -30,7 +30,7 @@ Volvariella volvacea is a fast-growing, heat-loving mushroom that has been culti
 
 ## Critical Identification Warning
 
-Volvariella volvacea has a volva (cup-like structure at the base) and pink spores — features it shares with several deadly Amanita species, particularly [[amanita-phalloides]] (Death Cap) and Amanita virosa (Destroying Angel). While cultivated paddy straw mushrooms are safe, wild foraging is strongly discouraged:
+Volvariella volvacea has a volva (cup-like structure at the base) and pink spores — features it shares with several deadly Amanita species, particularly Amanita phalloides (Death Cap) and Amanita virosa (Destroying Angel). While cultivated paddy straw mushrooms are safe, wild foraging is strongly discouraged:
 
 - Death Cap also has a volva and white gills when young
 - Mistaken identity is fatal
@@ -48,7 +48,7 @@ Paddy straw mushroom is extremely heat-tolerant:
 - Spawn run: 5-7 days at optimal temperature
 - Pin to harvest: 4-5 days
 
-This extreme heat requirement makes it impossible to grow [[query-how-to-grow-and-use-oca-in-temperate-climates]] without heated facilities. It is ideally suited to tropical regions where other cultivated mushrooms fail.
+This extreme heat requirement makes it impossible to grow in temperate climates without heated facilities. It is ideally suited to tropical regions where other cultivated mushrooms fail.
 
 ## Substrate Preparation
 
@@ -115,7 +115,7 @@ Modern commercial production often uses cotton waste mixed with rice straw (70% 
 
 ## Yield Expectations
 
-- [[biological-efficiency]]: 10-25% (lower than most cultivated mushrooms)
+- Biological efficiency: 10-25% (lower than most cultivated mushrooms)
 - Traditional bed method: 2-5 kg fresh per 100 kg dry substrate
 - Cotton waste substrate: 5-15 kg fresh per 100 kg dry substrate
 - Multiple flushes possible but first flush dominates (70-80% of yield)
@@ -141,10 +141,10 @@ Paddy straw mushroom is extremely perishable:
 - Drying: possible but quality is inferior
 - Freezing: blanch first, then freeze for up to 3 months
 
-The cold sensitivity is a significant challenge for distribution. Refrigeration at standard [[mushroom-storage-and-processing-methods]] temperatures (35-38 F) causes chilling injury: browning, softening, and off-flavors. Ideal storage is 50-55 F — warmer than typical refrigeration.
+## See Also
 
-## Nutritional Value
-
-- Protein: 2.5-3.5g per 100g fresh (relatively high for a vegetable)
-- Good source of B vitamins (niacin, thiamin, riboflavin)
-- Contains vitamin C (unusual for mushrooms)
+- [[comparison-paddy-straw-vs-wine-cap-cultivation]]
+- [[fukuoka-textdoc-traditional-mountain-paddy-aesthetics-spiritual-wisdom]]
+- [[integrated-paddy-rice-and-tree-system]]
+- [[fukuoka-traditional-paddy-construction]]
+- [[fukuoka-textdoc-paddy-levee-construction-water-management-wisdom]]

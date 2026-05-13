@@ -3,13 +3,11 @@ title: Soil Rehabilitation
 created: 2026-04-15
 updated: 2026-04-21
 type: concept
-tags: [[permaculture]], design]
+tags: permaculture, design]
 sources: [raw/papers/bill-mollison-permaculture-a-designers-manual.md]
 ---
-# Soil Rehabilitation updated: 2026-04-18 From: [[soil-erosion-control]] - preventing further soil loss
-- permaculture-designers-manual-mulch-systems - protecting and [[building-soil]]
-- permaculture-designers-manual-swale-design-detailed - [[water-management]] for soil health
-- [[permaculture-designers-manual-fibre-plants]]
+# Soil Rehabilitation updated: 2026-04-18 From: [[building-soil]]
+- permaculture-designers-manual-[[swale-design]]-detailed - [[permaculture-designers-manual-fibre-plants]]
 ## Background and Context
 
 Soil Rehabilitation is an important subject that has garnered significant attention

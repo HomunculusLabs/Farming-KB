@@ -21,11 +21,7 @@ The model emerged from earlier observations that plant-associated microbial comm
 
 The first tier of selection occurs at the level of the bulk soil. Edaphic factors—including soil pH, nitrogen content, salinity, total organic carbon, water content, and soil texture—exert the strongest influence on determining which microbial taxa are present in the local environment. These factors structure the soil microbial community that serves as the source pool for subsequent colonization of the rhizosphere and plant interior.
 
-In the [[winston-cannabis-microbiome-study-design]], soil type was the dominant factor explaining variation in community composition across all sample types. For unweighted UniFrac analysis in the second experiment, soil type accounted for the majority of PC1 variance (32.06%), confirming that the bulk soil microbiota composition is primarily determined by abiotic soil properties rather than by the plant species or cultivar growing in it.
-
-This finding held consistently across both weighted and unweighted analyses. When all experiments were pooled, soil type remained the dominant factor (unweighted: R² = 0.196, p = 0.001; weighted: R² = 0.323, p = 0.001), far exceeding the effects of sample type and strain.
-
-Key edaphic factors ranked by influence on [[edaphic-factors-microbial-community-structure]]:
+In the [[edaphic-factors-microbial-community-structure]]:
 
 - **Nitrogen** (strongest effect, r-stat: 0.465–0.630 depending on analysis)
 - **Salinity** (r-stat: 0.437–0.620)
@@ -91,27 +87,10 @@ A critical finding was that soil type showed the strongest influence over both w
 
 Distinct cultivars harbored characteristic microbial populations, demonstrating the practical reality of genotype-dependent selection. In the first experiment, Methylophilus comprised 13% of the endorhiza community in Bookoo Kush but only 0.13% in Burmese and was entirely absent in Sour Diesel (FDR: p = 0.012). This striking difference in a single genus accounted for a significant portion of the beta-diversity between cultivars and illustrates how a cultivar's internal chemistry can dramatically favor or disfavor specific bacterial taxa.
 
-In the second experiment, [[sphingomonas-wittichii-cannabis-endorhiza-strain-specificity]] was prevalent in Maui Wowie endorhiza samples. This bacterium is notable because it can metabolize phenazine-1-carboxylic acid—a compound with antibiotic properties produced by Pseudomonas spp.—and has been implicated in increased survival in soil environments. The preferential colonization of Maui Wowie by S. wittichii may reflect differences in root exudate chemistry or defense compound profiles between the two cultivars tested.
-
-## Practical Implications
-
-Understanding this model has applications for Cannabis agriculture and beyond. Soil selection directly determines the microbial resource pool available to plants. Cultivar-specific microbial inoculants may outperform broad-spectrum products. Significant correlations between cannabinoid profiles and endorhiza community structure suggest potential for microbiome-mediated optimization of cannabinoid production, though disentangling these from edaphic variables requires further study.
-
-## Comparison with Other Plant Systems
-
-The two-tier selection model is not unique to Cannabis but has been observed across numerous plant species. Studies in [[arabidopsis-thaliana]], poplar, potato, and maize have all demonstrated that soil type is the primary determinant of rhizosphere community composition, while host genotype exerts stronger selection within root tissues. However, Cannabis presents a particularly interesting model organism because of its extensive [[fungal-elicitors-enhanced-secondary-metabolite-production]]. The presence of cannabinoids, terpenes, and other specialized compounds in root tissues may amplify the genotype-dependent selection signal, potentially making Cannabis an ideal system for studying the molecular mechanisms underlying the second tier of selection.
-
-The microbial terroir concept—borrowed from viticulture—applies directly to the first tier of the model. Just as wine grapes from different regions develop distinct flavor profiles partly due to their microbial partners, Cannabis cultivars grown in different soils may produce varying cannabinoid and terpene profiles influenced by their distinct microbial communities. This connection between soil microbiome, plant microbiome, and最终 product quality represents an exciting frontier for agricultural research.
-
-## Limitations and Future Directions
-
-The exact plant compounds responsible for genotype-dependent selection remain uncharacterized. Post-harvest sampling showed root decay effects, with Cellvibrio abundance reaching 16.9% in senesced roots versus 0.095% in actively growing plants, emphasizing the need for time-series studies across the full reproductive cycle.
-
-Additionally, the role of fungal partners—particularly [[arbuscular-mycorrhizal-fungi]]—in mediating bacterial community assembly deserves further investigation. Future work should focus on elucidating the role of cultivar on rhizosphere dynamics, identifying which aspects of host genotype produce the observed community structures, and developing targeted microbial inoculants that work synergistically with specific Cannabis cultivars.
+In the second experiment, [[arabidopsis-thaliana]], poplar, potato, and maize have all demonstrated that soil type is the primary determinant of rhizosphere community composition, while host genotype exerts stronger selection within root tissues. However, Cannabis presents a particularly interesting model organism because of its extensive [[arbuscular-mycorrhizal-fungi]]—in mediating bacterial community assembly deserves further investigation. Future work should focus on elucidating the role of cultivar on rhizosphere dynamics, identifying which aspects of host genotype produce the observed community structures, and developing targeted microbial inoculants that work synergistically with specific Cannabis cultivars.
 
 ## See Also
 
-- [[endorhiza-rhizosphere-bulk-soil-microbial-communities]]
 - [[edaphic-factors-soil-microbial-community-structure]]
 - cannabis cultivar specificity microbiome
 - rhizosphere effect root exudate microbe interactions

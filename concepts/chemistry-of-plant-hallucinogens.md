@@ -41,7 +41,7 @@ The primary non-nitrogenous hallucinogens are the **cannabinoids** from Cannabis
 The indole ring system is a fused bicyclic structure composed of a **phenyl ring** and a **pyrrole ring** (a five-membered ring containing nitrogen). This structural motif appears across a wide range of hallucinogenic compounds:
 
 - **Tryptamines** (DMT, psilocybin, bufotenin)
-- **[[morning-glory-ergoline-alkaloids-chemistry]]** (ergine/LSA, [[lsd-d-lysergic-acid-diethylamide]]/LSD)
+- **[[lsd-d-lysergic-acid-diethylamide]]/LSD)
 - **β-Carboline alkaloids** (harmine, harmaline, tetrahydroharmine)
 - **Ibogaine alkaloids** (ibogaine from Tabernanthe iboga)
 
@@ -59,17 +59,7 @@ The relationship between substitution patterns and pharmacological activity is a
 
 A critical pharmacological insight is the **structural similarity** between indole hallucinogens and **serotonin** (5-hydroxydimethyltryptamine, 5-HT), a neurohumoral transmitter present in the nervous tissue of warm-blooded animals. Serotonin plays a major role in the biochemistry of the central nervous system, influencing mood, perception, sleep, and cognition.
 
-Hallucinogenic tryptamines likely exert their effects by acting as **serotonin receptor agonists** (particularly at the 5-HT₂A receptor), mimicking or modulating the natural activity of serotonin. This [[serotonin-psilocybin-structural-relationship-hallucinogenic-mechanism]] between hallucinogenic compounds and endogenous neurohormones provides a mechanistic framework for understanding how these substances alter perception and consciousness.
-
-A parallel chemical relationship exists between **mescaline** (a phenylethylamine hallucinogen from peyote) and the neurohormone **norepinephrine** (noradrenaline), which is involved in the sympathetic nervous system's fight-or-flight response.
-
-## Other Alkaloid Classes
-
-Several other alkaloid structural classes have hallucinogenic or psychoactive properties, though these tend to produce milder or qualitatively different effects than the indoles:
-
-### Tropane Alkaloids
-
-- Found in the **nightshade family** (Solanaceae): Atropa belladonna, Hyoscyamus niger, [[mandragora-officinarum]], Datura species
+Hallucinogenic tryptamines likely exert their effects by acting as **serotonin receptor agonists** (particularly at the 5-HT₂A receptor), mimicking or modulating the natural activity of serotonin. This [[mandragora-officinarum]], Datura species
 - Principal compounds: **hyoscyamine**, **scopolamine**, **atropine**
 - These are **anticholinergic** agents — they block acetylcholine receptors
 - Effects include dry mouth, dilated pupils, tachycardia, and at higher doses, delirium with true hallucinations
@@ -108,9 +98,7 @@ Pseudohallucinogens are **not true hallucinogens** but poisonous plant compounds
 
 ## Biosynthetic Origins
 
-Most plant hallucinogens are derived from a small number of [[primary-metabolic-precursors-to-the-shikimate-pathway]]:
-
-| Hallucinogen class | [[stigmasterol-as-brassinosteroid-biosynthetic-precursor]] | Example compounds |
+Most plant hallucinogens are derived from a small number of [[stigmasterol-as-brassinosteroid-biosynthetic-precursor]] | Example compounds |
 |-------------------|----------------------|-------------------|
 | Tryptamines | Tryptophan (amino acid) | DMT, psilocybin, bufotenin |
 | Ergolines | Tryptophan → tryptamine pathway | Ergine, LSD |
@@ -140,6 +128,5 @@ The chemical complexity of hallucinogenic plants presents challenges for researc
 - Controlled studies with **pure isolated compounds** are essential for understanding individual pharmacological effects
 - Recent synthetic advances (e.g., synthesis of pure THC) have enabled precise pharmacological research previously impossible with crude preparations
 ## See Also
-- [[shamanism-and-plant-hallucinogens]]
 - [[tryptamine-hallucinogens-dmt-psilocybin-chemistry]]
 - [[mckenna-language-as-magic-shamanic-theory-linguistic-reality-plant-hallucinogens]]

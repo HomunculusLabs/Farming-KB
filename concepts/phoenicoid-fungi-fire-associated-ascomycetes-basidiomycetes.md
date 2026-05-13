@@ -3,7 +3,7 @@ title: "Phoenicoid Fungi — Fire-Associated Ascomycetes and Basidiomycetes"
 created: 2026-04-21
 updated: 2026-04-21
 type: concept
-tags: [[mycology]], fungi]
+tags: mycology, fungi]
 sources: []
 ---
 # Phoenicoid Fungi — Fire-Associated Ascomycetes and Basidiomycetes
@@ -89,6 +89,6 @@ on steam-sterilized soil in greenhouses.
 Large discomycetes and agarics common:
 
 ## See Also
-- [[fungi-forest-fire-succession-litter-dighton]]
 - [[freshwater-fungi-aquatic-hyphomycetes-ascomycetes]]
 - [[laboulbeniales-ectoparasitic-arthropod-associated-ascomycetes]]
+- [[fungi-forest-fire-succession-litter-dighton]]

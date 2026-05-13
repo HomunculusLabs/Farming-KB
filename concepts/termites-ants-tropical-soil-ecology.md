@@ -8,35 +8,7 @@ type: concept
 
 ## Overview
 
-Termites and ants are the dominant soil mesofauna of arid and humid subtropical regions. In these climates, they fulfill ecological functions analogous to those performed by earthworms in temperate zones — cycling nutrients, aerating soil, and driving the decomposition of organic matter. Understanding their role is essential for any [[permaculture-design]] operating in tropical or subtropical contexts, as these organisms fundamentally shape the soil systems upon which all productive landscapes depend.
-
-## Termites vs. Ants: Complementary Roles
-
-While termites and ants share many functional similarities as tropical soil engineers, they differ in important ways that affect their ecological contributions. Termites are generally more significant as decomposers of woody material, with specialized gut symbionts that allow them to digest cellulose and lignin. Ants, by contrast, tend to be more active as predators and soil movers, with leaf-cutter species being notable exceptions that cultivate fungal gardens on harvested vegetation.
-
-Both groups create mounds, but termite mounds tend to be more architecturally complex and longer-lasting structures. Ant mounds are typically smaller and more ephemeral, but ant colonies can achieve enormous spatial extent through extensive underground tunnel networks. In practice, most tropical and subtropical landscapes benefit from the combined activities of both groups, with their overlapping and complementary functions supporting a more diverse and resilient soil ecosystem.
-
-## Ecological Functions
-
-### Soil Building and Mineral Transport
-
-Termites and ants are prolific soil engineers. They continuously transport subsoil and rotted rock particles to the surface, effectively reversing the process of soil erosion. This upward movement of mineral material plays a decisive role in maintaining the balance between soil loss and soil replacement. Without this activity, many tropical landscapes would lose topsoil far faster than it could be regenerated through natural weathering processes.
-
-In granite-derived landscapes (such as those observed around Hyderabad, India), termite activity accelerates the release of minerals from parent rock. Their galleries and tunnels extend deep into the substrate, exposing fresh rock surfaces to moisture and microbial action. The result is a faster rate of mineralization than would occur through abiotic weathering alone.
-
-Mounds provide rich calcium and potash deposits that accumulate through this continuous transport process, creating localized zones of exceptional fertility within otherwise nutrient-poor landscapes. This concentrated nutrient wealth makes mounds highly attractive planting sites in regions where soil fertility is the primary limiting factor for agriculture.
-
-### Water Infiltration and Drainage
-
-The extensive gallery networks created by both termites and ants dramatically improve water infiltration rates. In landscapes with impermeable clay soils or compacted surfaces, these tunnels serve as preferential flow paths for rainfall, allowing water to penetrate deeply rather than running off and causing erosion.
-
-This function is especially critical in tropical areas with intense seasonal rainfall, where poor infiltration can lead to catastrophic sheet erosion and gully formation during storms. Termite galleries can extend meters below the surface, creating a three-dimensional network of drainage pathways that redistribute water throughout the soil profile.
-
-Termite and ant mounds often represent the only well-drained or elevated microsites in flat landscapes subject to flooding or waterlogging. By creating physical relief and improving internal drainage, mounds provide refugia for both plants and soil organisms during periods of excess water. The aggregate structure of mound soil promotes rapid water infiltration while maintaining adequate moisture retention — a balance difficult to achieve in many tropical clay soils.
-
-### Organic Matter Decomposition
-
-Termites are primary decomposers of woody material, coarse stems, and hard leaf mulch — materials that break down slowly through microbial action alone. In agricultural systems such as coffee, tea, and banana plantations, termites assist the initial breakdown of logs and coarse residues, making nutrients available more quickly to subsequent decomposer organisms in [[the-soil-food-web]].
+Termites and ants are the dominant soil mesofauna of arid and humid subtropical regions. In these climates, they fulfill ecological functions analogous to those performed by earthworms in temperate zones — cycling nutrients, aerating soil, and driving the decomposition of organic matter. Understanding their role is essential for any [[the-soil-food-web]].
 
 This primary breakdown step is critical in tropical systems where large volumes of coarse organic material are generated through pruning, harvesting, and natural leaf fall. Without termites, this material would persist as slow-decomposing mats that smother soil surfaces and delay nutrient cycling across the entire system.
 
@@ -63,8 +35,8 @@ This phenomenon has been observed across diverse geographic and geological setti
 Mounds serve as natural starting points for plant succession in tropical and subtropical savannahs. The documented succession sequence progresses as follows:
 
 1. **Tall grasses** — Pioneer species such as *Pennisetum* and *Eragrostis* colonize the mound surface, establishing initial ground cover and cycling nutrients through root exudation and annual biomass turnover.
-2. **Shrubs** — Woody pioneers including castor oil bean (*Ricinus communis*), *Prosopis* species, and thorny legumes establish, adding nitrogen fixation and contributing more persistent organic matter while providing shelter for subsequent colonizers.
-3. **Understory and forest** — Later successional species such as tamarind (*Tamarindus indica*), *Vitex*, *Sapium*, and various palms develop, eventually forming closed canopy forest with complex vertical structure.
+2. **Shrubs** — Woody pioneers including castor oil bean (*[[ricinus-communis]]*), *Prosopis* species, and thorny legumes establish, adding nitrogen fixation and contributing more persistent organic matter while providing shelter for subsequent colonizers.
+3. **Understory and forest** — Later successional species such as tamarind (*[[tamarindus-indica]]*), *Vitex*, *Sapium*, and various palms develop, eventually forming closed canopy forest with complex vertical structure.
 
 This sequence can be initiated or accelerated by deliberately seeding into mounds. Even low ant-heaps provide suitable sites for ground cover pioneers to establish. By working with these natural successional pathways, designers can achieve vegetation establishment with minimal external inputs and no soil disturbance.
 
@@ -125,6 +97,5 @@ In some intensively managed agricultural systems, termite damage to young seedli
 
 - Harris, D.R. (1971). Observations on the role of termites and leaf-cutter ants in forest-savanna dynamics in Uganda and South America.
 - Mollison, B. (1988). *Permaculture: A Designers' Manual*. Tagari Publications.
-- [[soil-microbiology-basics]]
 - [[soil-ph]]
 - [[fungal-biology-fundamentals]]

@@ -90,7 +90,7 @@ Low or no-tillage farming saves multiple resources simultaneously:
 
 ## Case Study: Norm Sims Farm
 
-From an interview with farmer Norm Sims (Weekly Times, 5 Jan 1983), specific savings from applied site strategies:
+From an interview with farmer [[norm-sims]] (Weekly Times, 5 Jan 1983), specific savings from applied site strategies:
 
 On land-forming: "We expect to double production over the next few years, using half the irrigation water" (four times benefit); "Salinity is reduced." In severe drought: "Pasture production has never looked better and water is available." "It took us six days to irrigate what we now do in two" and "Rather than restricting watering intervals we are restricting the area" (aiming to milk 185 cows on 24 hectares).
 
@@ -137,8 +137,6 @@ When useful animals are effectively abolished from cities, the ecological niche 
 
 ## See Also
 
-- [[permaculture-food-storage-and-preservation]]
 - [[permaculture-farm-design-principles]]
-- [[permaculture-zone-and-sector-analysis]]
 - [[mollison-tessellation-and-annidation-in-design]]
 - [[permaculture-principle-obtain-a-yield]]

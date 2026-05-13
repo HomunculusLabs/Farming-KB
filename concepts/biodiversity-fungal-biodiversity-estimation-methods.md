@@ -16,29 +16,7 @@ type: concept
 
 # Fungal Biodiversity Estimation Methods
 
-[[estimating-fungal-biodiversity-methods]] methods from limited sampling presents significant
-challenges because fungi are diverse, patchily distributed, and often
-ephemeral in their fruiting. Large numbers of species inhabit small
-areas, and studies of fungal-communities-succession without sustained,
-long-term sampling effort.
-
-## Complementarity Analysis
-
-Complementarity is an empirical measure of the degree of species
-uniqueness between different samples or sites. It is expressed as the
-proportion of total species encountered that is unique to one sample or
-the other, calculated as Cjk = Ujk/Sjk, where Cjk is the complementarity
-between samples j and k, Ujk is the number of taxa found at only one
-site, and Sjk is the total richness of both sites combined.
-
-When all species are found at both sites, complementarity equals zero;
-when no species are shared, it equals one. Sampling for richness is most
-efficient when complementarity among samples is approximately 0.5. High
-complementarity (fewer species in common) indicates that many taxa
-probably are being overlooked and sampling intensity should be increased.
-Low complementarity suggests that some samples are redundant. This
-measure has been used effectively to determine efficient sampling
-strategies for litter agarics in [[fungal-biodiversity-tropical-ecosystems]].
+[[fungal-biodiversity-tropical-ecosystems]].
 
 ## Jackknife Estimators
 
@@ -81,13 +59,7 @@ and other estimators applied to macrofungal inventory data. They found
 that none of the currently used extrapolation techniques was robust when
 applied to their data from a northwest Indiana fungal-biodiversity-inventory-design that measured diversity of both
 macrofungi and trees examined 25 studies involving 184 plots across
-[[psilocybin-north-america-pacific-northwest]], Europe, China, and Costa Rica. The analysis determined
-that although plots contained more macrofungi than trees, the
-macrofungi were neither more nor less widely distributed than tree
-species. Sampling effort had a major impact on macrofungal diversity
-discovered, but habitat type and tree diversity played larger roles in
-explaining differences between studies than sampling effort alone.
-Differences in [[lichen-biodiversity-sampling-protocols-data-analysis]] also interfered with direct comparisons
+[[lichen-biodiversity-sampling-protocols-data-analysis]] also interfered with direct comparisons
 
 ## Practical Applications
 
@@ -118,8 +90,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[fungal-biodiversity-estimation-methods]]
 - [[fungal-biodiversity-estimation]]
-- [[fungal-biodiversity]]
 - [[psilocybin]]
 - [[det]]

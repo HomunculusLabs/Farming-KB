@@ -41,16 +41,7 @@ plant, such as a geranium or fuchsia, and surround it with several
 smaller plants like petunias. Fill with more compost, then plant
 smaller plants near the edges. Allow a few trailing plants to hang
 over the edge. Take trailing plants such as lobelia (Lobelia erinus
-"Pendula"), bidens, and ground ivy ([[glechoma-hederacea]]), squeeze
-their root balls together, and push them through the liner between
-the mesh of the sides into the compost. Top off with compost, leaving
-space for watering.
-
-For a summer basket, use French marigolds (Tagetes patula), alyssum
-(Lobularia "Maritima"), and impatiens (Impatiens) near the edges.
-Vegetables are not recommended for hanging baskets, but herbs such
-as sage ([[salvia-officinalis]]), parsley ([[petroselinum-crispum]]), and
-thyme ([[thymus-vulgaris-entity]]) work well and are fairly temporary.
+"Pendula"), bidens, and ground ivy ([[salvia-officinalis]]), parsley ([[thymus-vulgaris-entity]]) work well and are fairly temporary.
 
 ## Seasonal Planting Schemes
 
@@ -64,11 +55,7 @@ For winter, and slow solutions shrubs such as variegated pieris (Pieris
 japonica "Variegata") or deep pink-flowered P. j. "Christmas Cheer"
 as the central plant. Surround with winter-flowering or foliage heathers
 (Erica carnea). Use ivies (Hedera sp.) or evergreen honeysuckle
-([[lonicera-japonica]] "Aureoreticulata") to trail over the sides.
-Alternatively, use variegated euonymus (Euonymus fortunei "Emerald
-'n' Gold" or "Emerald Gaiety"). Spring bulbs such as crocus, species
-tulips (Tulipa sp.), early irises, and anemones can be added to
-winter baskets for [[coleman-overwintered-onions-and-early-spring-crops]] color. Pansies (Viola wittrockiana)
+([[coleman-overwintered-onions-and-early-spring-crops]] color. Pansies (Viola wittrockiana)
 and forget-me-nots (Myosotis alpestris) or polyanthus (Primula
 polyantha) and primroses (Primula vulgaris) provide additional
 early color.
@@ -118,8 +105,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[lobelia-erinus]]
 - [[primula-vulgaris]]
-- [[geoff-hamilton]]
 - [[organic-propagation-hamilton]]
 - [[hamilton-geoffhamilton-nick-organic-gardening-propagation-techniques]]

@@ -33,51 +33,9 @@ Amnesia Haze's genetic background reflects Southeast Asian and Jamaican landrace
 
 The Southeast Asian parent contributes the strain's tall stature, long flowering time, and potent uplifting effects. Jamaican genetics add citrus aroma notes and additional sativa-dominant characteristics that enhance the cerebral profile.
 
-Greenhouse Seed Co. is credited with stabilizing and popularizing the cultivar in the early 2000s. The [[cervantes-breeding-program-design-goal-setting]] selected for potency, yield, and the distinctive terpene profile that distinguishes Amnesia Haze from other haze-dominant varieties.
+Greenhouse Seed Co. is credited with stabilizing and popularizing the cultivar in the early 2000s. The [[oner-hawaiian-and-tropical-sativa-strains]] genetics. Outdoor cultivation requires a Mediterranean or subtropical climate with a long growing season and harvest in late October to early November.
 
-Several phenotypic variants exist within the broader Amnesia Haze gene pool. The "Amnesia" cut circulating in European coffee shops is a distinct pheno from the original Greenhouse release, showing slightly different flowering times and terpene ratios.
-
-## Appearance
-
-Amnesia Haze plants produce medium-to-large, elongated buds with a loosely packed sativa structure. The flowers are characterized by vibrant lime-green calyxes interspersed with bright orange pistils that darken to rust as maturity approaches.
-
-Trichome coverage is heavy, giving the buds a frosty, crystalline appearance under proper lighting. The resin production is abundant, with large capitate-stalked trichomes concentrated on the calyx surfaces and surrounding sugar leaves.
-
-The leaves are long, slender, and finger-like, typical of sativa-dominant genetics. Foliage color ranges from light to medium green, with occasional purple hues developing in response to cooler nighttime temperatures during late flowering.
-
-## Aroma, Flavor, and Chemical Profile
-
-The aroma of Amnesia Haze is dominated by bright citrus notes, particularly lemon and grapefruit, underpinned by earthy, herbal undertones. A subtle spicy incense character emerges when the buds are ground, reflecting the strain's haze heritage.
-
-On the palate, the flavor mirrors the aroma with a sharp citrus forefront that transitions to earthy, woody notes on the exhale. Some phenotypes express a faintly sweet, floral aftertaste that lingers on the breath.
-
-The dominant terpenes are limonene, terpinolene, and myrcene. Limonene drives the pronounced citrus character, while terpinolene contributes floral and piney complexity. Myrcene provides the earthy base notes and modulates the overall sedative quality.
-
-Caryophyllene is present in moderate amounts, adding peppery spice and contributing potential anti-inflammatory properties. Humulene and ocimene may also be detected in smaller quantities, depending on the specific phenotype.
-
-THC content ranges from 18-25% in well-grown specimens, with some exceptional phenotypes reported above 27%. Total cannabinoid profiles typically show minor amounts of CBG and trace THCV, consistent with the strain's sativa-dominant heritage.
-
-## Effects and Medical Applications
-
-The onset of Amnesia Haze effects is rapid, typically felt within 5-10 minutes of inhalation. Initial effects include an uplifting cerebral rush characterized by euphoria, heightened sensory perception, and increased sociability.
-
-As the high progresses, a pronounced creative stimulation emerges, making the strain popular among artists, musicians, and writers. Mental energy remains sustained for 2-3 hours before gradually transitioning into a mellow, relaxed state.
-
-Medical applications center on mood disorders, including depression, anxiety, and chronic stress. The strain's energizing properties make it suitable for daytime use, particularly for patients seeking relief from fatigue without sedation.
-
-Some patients report effectiveness for attention-related conditions, though clinical evidence remains limited. The anti-inflammatory terpene profile may provide mild relief from headache and musculoskeletal discomfort.
-
-Common side effects include dry mouth and dry eyes. Higher doses may produce anxiety, paranoia, or racing thoughts, particularly in inexperienced consumers or those predisposed to THC-induced anxiety.
-
-## Cultivation
-
-Amnesia Haze has a relatively long flowering period of 10-12 weeks when grown indoors, reflecting its [[oner-hawaiian-and-tropical-sativa-strains]] genetics. Outdoor cultivation requires a Mediterranean or subtropical climate with a long growing season and harvest in late October to early November.
-
-Indoor yields range from 500-600 g/m² under optimal conditions. The plants stretch significantly during the [[green-cannabis-grow-bible-vegetative-phase-management]] and early flowering, requiring adequate vertical space. SCROG and LST techniques are commonly employed to manage height.
-
-The strain responds well to moderate nutrient levels during vegetative growth, with reduced nitrogen during mid-to-late flowering. Calmag supplementation is recommended, as the vigorous sativa growth can deplete calcium reserves.
-
-Pest resistance is moderate, with particular susceptibility to spider mites in dry indoor environments. Proper air circulation and [[stamets-cultivator-humidity-management-fogging-systems]] (45-55% RH during flowering) help prevent mold and mildew on the dense bud sites.
+Indoor yields range from 500-600 g/m² under optimal conditions. The plants stretch significantly during the [[stamets-cultivator-humidity-management-fogging-systems]] (45-55% RH during flowering) help prevent mold and mildew on the dense bud sites.
 
 ## Notable Phenotypes
 
@@ -88,3 +46,88 @@ The "Original Amnesia" phenotype is characterized by slightly shorter flowering 
 A "Caramel" variant has been identified in some European markets, expressing sweeter [[cannabis-terpene-profiles-sativa]] with reduced limonene and increased ocimene. This pheno tends to produce slightly lower THC but offers a smoother smoking experience.
 
 The "Amnesia Mac" cross, combining Amnesia Haze with MAC genetics, represents a modern breeding trend. This hybrid aims to retain Amnesia's cerebral effects while reducing flowering time and increasing bud density through indica influence.
+
+## Overview
+
+Amnesia Haze represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish amnesia haze
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving amnesia extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Amnesia Haze finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for amnesia haze. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+amnesia haze and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Amnesia Haze has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of amnesia haze into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[amnesia-haze-genetics-cultivation-potency-oner]]
+- [[cannabis-strain-y-griega-kali-mist-amnesia-hybrid]]
+- [[chemdog-amnesia-hybrid-potency-cultivation-oner]]
+- [[oner-critical-haze-amnesia-critical-mass-yield-optimization]]
+- [[oner-y-griega-kali-mist-amnesia-medical-seeds]]

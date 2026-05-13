@@ -6,22 +6,10 @@ type: concept
 
 # Amanita Muscaria: Medicinal Properties — Heart, Anxiety, Pain, and Dreams
 
-Amanita muscaria (AM) possesses a remarkable breadth of medicinal properties that span
+[[amanita-muscaria]] (AM) possesses a remarkable breadth of medicinal properties that span
 cardiovascular health, anxiety relief, pain management, and dream induction. Its
 pharmacological profile — combining antibiotic, anxiolytic, analgesic, and psychoactive
-compounds — made it one of the most valued medicines [[entheogens-in-ancient-cultures]], earning it
-the reputation of a "miracle cure" and "herb of immortality." This page explores the
-evidence and mechanisms behind these diverse therapeutic effects.
-
-## Heart Medicine
-
-Amanita muscaria's de-stressing properties and its demonstrated ability to control
-nanobacteria suggest it may function as a powerful, if underappreciated, heart medicine.
-Cardiovascular disease remains the leading cause of death worldwide, and AM addresses
-several of the underlying factors simultaneously.
-
-Several mushroom species are already renowned in both traditional and modern medicine
-as heart remedies. Reishi (*[[ganoderma-lucidum]]*) has been used in Chinese medicine for
+compounds — made it one of the most valued medicines [[ganoderma-lucidum]]*) has been used in Chinese medicine for
 centuries to strengthen the heart and calm the spirit. Shiitake (*Lentinula edodes*)
 contains compounds that help lower cholesterol and improve circulation. Cordyceps is
 known to enhance oxygen utilization and support cardiac function in traditional Tibetan
@@ -91,14 +79,7 @@ its most ancient and culturally significant uses.
 
 Ancient "seers" and prophets across many traditions may have used AM to induce
 prophetic or divinatory dreams. The mushroom's ability to produce visionary experiences
-[[glossolalia-and-altered-states]] of consciousness would have been interpreted as access to divine
-knowledge or future insight. The "dreamland" effect is simultaneously calming — reducing
-anxiety and mental noise — and consciousness-expanding, opening perceptual doors that
-ordinary waking awareness keeps closed.
-
-Siberian shamans are the most well-documented historical users of Amanita muscaria for
-these purposes. They consumed the mushroom specifically to facilitate divination, spirit
-journeys, and [[shamanic-entheogenic-healing-rituals]]. The shamanic journey, conducted in altered states induced
+[[shamanic-entheogenic-healing-rituals]]. The shamanic journey, conducted in altered states induced
 by AM, was understood as travel to other realms where knowledge, healing, and prophecy
 could be obtained — experiences mediated by the mushroom's dream-promoting properties.
 

@@ -32,10 +32,7 @@ Jergón sacha is a medicinal plant widely used in Amazonian traditional medicine
 - As an Araceae, it has similar cultivation requirements to other aroids commonly grown in tropical horticulture.
 - The plant's pharmacological properties warrant further scientific investigation for potential antivenom and antimicrobial applications.
 - Conservation of jergón sacha and related species is important for maintaining traditional snakebite treatment options in remote Amazonian areas.
-- Its doctrine-of-signatures relationship with the jergón snake represents one of the most striking examples of this principle in [[sananga-eye-medicine-amazonian-ethnobotany]].
-
-## Cultural Context
-Jergón sacha appears in Vision 27 of [[ayahuasca-preparation-pablo-amaringo-ucayali-shamanism]]'s [[amaringo-ayahuasca-visions-shipibo-iconography]], depicted alongside the jergón snake that it is used to treat. It is one of the most widely known and frequently used medicinal plants in the [[ayahuasca-tourism-economics-peruvian-amazon]], recognized across multiple indigenous and mestizo communities as a primary treatment for snakebite.
+- Its doctrine-of-signatures relationship with the jergón snake represents one of the most striking examples of this principle in [[ayahuasca-preparation-pablo-amaringo-ucayali-shamanism]]'s [[ayahuasca-tourism-economics-peruvian-amazon]], recognized across multiple indigenous and mestizo communities as a primary treatment for snakebite.
 
 ## Doctrine of Signatures
 
@@ -45,11 +42,7 @@ The mottled stem and leaf pattern resemble the body of the jergón snake, and th
 
 The plant does not merely symbolize the snake; in traditional practice it participates in a practical system for responding to snakebite risk.
 
-This is why its appearance in [[amaringo-ayahuasca-visions-shipibo-iconography]] is visually paired with the snake itself.
-
-## Preparation and Use Context
-
-Traditional uses vary by community and healer, but the plant is commonly described as a tuber or [[cannabis-root-medicine-historical-modern-perspectives]].
+This is why its appearance in [[cannabis-root-medicine-historical-modern-perspectives]].
 
 It may be prepared as a decoction, tincture, wash, or poultice depending on the condition being treated.
 
@@ -64,11 +57,7 @@ Within vegetalismo, however, its protective role also extends beyond physical ve
 - Propagated by tuber division rather than seed in many cultivated contexts.
 - Vulnerable to habitat loss where forest understory is cleared.
 - Important as both medicine and cultural memory.
-- Associated with the wider ethnobotany of [[sananga-eye-medicine-amazonian-ethnobotany]].
-
-## Relationship to Ayahuasca Practice
-
-Jergón sacha appears in the same cultural world as [[ayahuasca-preparation-pablo-amaringo-ucayali-shamanism]], where plants are teachers, allies, and diagnostic signs.
+- Associated with the wider ethnobotany of [[ayahuasca-preparation-pablo-amaringo-ucayali-shamanism]], where plants are teachers, allies, and diagnostic signs.
 
 Its protective reputation makes it relevant to ceremonies in which participants may encounter frightening visions, sorcery themes, or animal powers.
 

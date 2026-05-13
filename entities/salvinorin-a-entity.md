@@ -66,16 +66,7 @@ Salvinorin A binds to KOR with remarkable potency and selectivity. KOR activatio
 - **Dose-dependent spectrum:**
   - **Light (200–500 µg):** Mild perceptual changes, laughter, altered spatial perception
   - **Moderate (500 µg–1 mg):** Significant dissociation, vivid closed-eye imagery, altered sense of self, synesthesia-like experiences
-  - **Strong (1–2 mg+):** Complete dissociation from consensus reality, experiences of merging with objects or environments, [[psilocybin-ego-dissolution-mechanisms]], experiences of "other dimensions" or entities; amnesia for the experience is common
-- **Reversal:** Effects can be partially or fully attenuated by KOR antagonists such as naltrexone
-
-## Natural Source
-
-**Salvia divinorum** (Epling & Játiva-M.) is the sole known natural source of salvinorin A:
-- A perennial herb in the Lamiaceae (mint) family, growing to ~1 m tall
-- Endemic to a small region of the Sierra Mazateca in Oaxaca, Mexico, at elevations of 300–1800 m
-- The [[salvia-divinorum]] — Source plant of salvinorin A
-- [[ibogaine]] — Psychoactive alkaloid with anti-addictive properties via different mechanisms
+  - **Strong (1–2 mg+):** Complete dissociation from consensus reality, experiences of merging with objects or environments, [[salvia-divinorum]] — Source plant of salvinorin A
 - [[bufotenin]] — Tryptamine psychedelic with different receptor profile
 
 ## Practical Applications
@@ -89,8 +80,6 @@ Salvinorin A binds to KOR with remarkable potency and selectivity. KOR activatio
 - Impact extends to related fields and interdisciplinary applications.
 
 ## See Also
-- [[salvinorin-a-kappa-opioid-receptor-pharmacology]]
 - [[salvia-divinorum-salvinorin-a-pharmacology]]
-- [[a-o-dms-entity-tihkal]]
 - [[salvia-divinorum-and-salvinorin-a]]
 - [[salvinorin-a-pharmacology-non-nitrogenous-opioid-agonist]]

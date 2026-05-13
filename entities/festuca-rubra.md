@@ -12,19 +12,14 @@ date: 2026-05-09
 updated: 2026-05-09
 sources:
   - Darke, R. (2007). The Encyclopedia of Grasses for Livable Landscapes. Timber Press.
-  - Barkworth, M.E. et al. (2007). "Festuca L." in Flora [[berry-growing]], Vol. 24. Oxford University Press.
-  - [[psilocybe-genus-global-biodiversity]] Information Facility (GBIF). "Festuca rubra L." https://www.gbif.org/species/2706094
+  - Barkworth, M.E. et al. (2007). "Festuca L." in Flora psilocybe-genus-global-biodiversity Information Facility (GBIF). "Festuca rubra L." https://www.gbif.org/species/2706094
   - USDA NRCS. "Plant Guide: Red Fescue (Festuca rubra)." USDA Natural Resources Conservation Service.
   - Humphreys, M.W. et al. (2010). "Festuca." in Wild Crop Relatives: Genomic and Breeding Resources, C. Kole ed. Springer.
 ---
 
 ## Overview
 
-Festuca rubra is a perennial bunchgrass in the family Poaceae, commonly known as red fescue. It is one of the most widely used turf and forage grasses in [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]] worldwide.
-
-The species has a circumboreal distribution, occurring naturally across Europe, Asia, and North America. Its adaptability to a wide range of climates and soil conditions has made it commercially important.
-
-Multiple subspecies and cultivars have been developed for specific applications including lawns, golf courses, [[comparison-vetiver-grass-vs-bamboo-for-erosion-control]], and low-maintenance ground covers.
+Festuca rubra is a perennial bunchgrass in the family Poaceae, commonly known as red fescue. It is one of the most widely used turf and forage grasses in [[comparison-vetiver-grass-vs-bamboo-for-erosion-control]], and low-maintenance ground covers.
 
 ## Taxonomy and Morphology
 
@@ -54,7 +49,7 @@ In North America, it is native across Canada and the northern United States, ext
 
 The species grows in a wide range of habitats including grasslands, meadows, open woodlands, coastal dunes, and alpine tundra. Subspecies arenaria is specifically adapted to sandy coastal environments.
 
-It occurs on acidic to neutral soils and is moderately tolerant of low-fertility conditions. Soil pH preferences range from 4.5 to 7.0.
+It occurs on acidic to neutral soils and is moderately tolerant of low-fertility conditions. [[soil-ph]] preferences range from 4.5 to 7.0.
 
 Elevation ranges from near sea level to approximately 3,000 meters in Alpine and Rocky Mountain environments. Alpine populations are typically dwarfed and more compact.
 
@@ -72,7 +67,7 @@ Red fescue is an important forage species in northern temperate grasslands. It i
 
 The creeping rhizomes of some subspecies contribute to soil stabilization on slopes and coastal dunes. Subspecies arenaria is particularly valued for dune fixation.
 
-Several fungal endophytes associate with Festuca rubra, including [[epichloe-festucae]]. Endophyte-infected plants may exhibit enhanced [[dighton-fungal-drought-tolerance-plant-water-relations]] and herbivore resistance.
+Several fungal endophytes associate with Festuca rubra, including [[dighton-fungal-drought-tolerance-plant-water-relations]] and herbivore resistance.
 
 ## Cultivation
 
@@ -87,3 +82,7 @@ Mowing height for turf applications ranges from 2.5 to 7.5 centimeters. Lower mo
 Fertilizer requirements are moderate to low compared with other turf grasses. Nitrogen applications of 50 to 100 kilograms per hectare per year are generally sufficient.
 
 Drought tolerance is good to excellent, especially for endophyte-infected selections. The species maintains acceptable color during summer dormancy in warmer regions.
+
+## See Also
+
+- [[festuca-ovina]]

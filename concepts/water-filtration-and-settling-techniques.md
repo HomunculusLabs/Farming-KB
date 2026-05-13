@@ -6,7 +6,7 @@ type: concept
 
 # Water Filtration and Settling Techniques
 
-Water purification in [[permaculture]] [[bill-mollison-permaculture-a-designers-manual-aquaculture-and-water-systems|systems]] relies on a diverse suite of natural and low-energy treatment methods. Rather than depending solely on industrial chemical processes, [[permaculture-design]] leverages biological, mechanical, and ecological approaches that can be applied in series for progressively cleaner water. This page catalogues the major treatment categories and practical design details drawn from [[bill-mollison]]'s *Permaculture: A Designers' Manual*.
+Water purification in [[bill-mollison-permaculture-a-designers-manual-aquaculture-and-water-systems|systems]] relies on a diverse suite of natural and low-energy treatment methods. Rather than depending solely on industrial chemical processes, [[bill-mollison]]'s *[[permaculture]]: A Designers' Manual*.
 
 ## Overview of Water Treatment Categories
 
@@ -33,7 +33,7 @@ Aeration can be achieved through several means, each suited to different scales 
 
 ## Settling Techniques
 
-Still-water ponds and rush beds provide the simplest form of clarification. When water velocity drops below a critical threshold, suspended sediments settle under gravity. Rush beds (planted with *Juncus* or *Scirpus* species) add filtration and biological uptake on top of purely physical settling, making them a dual-purpose treatment stage.
+Still-water ponds and rush beds provide the simplest form of clarification. When water velocity drops below a critical threshold, suspended sediments settle under gravity. Rush beds (planted with *[[juncus]]* or *[[scirpus]]* species) add filtration and biological uptake on top of purely physical settling, making them a dual-purpose treatment stage.
 
 ## Sand Filters
 
@@ -146,5 +146,4 @@ Beyond lime, other coagulants include chemical additives such as common salt, fe
 - **Integrate treatment with production** — Treated water and nutrient by-products (ammonia, sludge) can fertilise crops, aquaculture, or energy systems.
 
 ## See Also
-- [[cervantes-water-quality-filtration]]
 - [[water-harvesting-techniques-comparison]]

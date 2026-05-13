@@ -27,26 +27,8 @@ Chlorosis is the abnormal yellowing of plant leaves caused by insufficient chlor
 4. **Nitrogen chlorosis**: Whole-plant yellowing from light green to yellow, older leaves dropping first. Prevalent in cold peaty soils, leached sands, and waterlogged conditions.
 5. **Iron chlorosis**: Young leaves affected first with green veins against yellow tissue. Common on alkaline soils where iron becomes unavailable despite being present.
 6. **Magnesium chlorosis**: Older leaves show interveinal yellowing first, progressing to younger leaves. Common on acid sandy soils or soils with excessive potassium.
-7. **pH connection**: [[soil-ph|soil-ph]] is the most common underlying cause — both acidic and alkaline extremes lock up different nutrients, producing characteristic chlorosis patterns.
-
-## Nutrient Mobility and Chlorosis Patterns
-
-- **Mobile nutrients** (N, P, K, Mg): Symptoms appear on older leaves first as nutrients are translocated to new growth
-- **Immobile nutrients** (Ca, B, Mn, Fe, Zn, Cu): Symptoms appear on younger leaves first as the plant cannot relocate these elements
-- **Seasonal behaviour**: Type 1 nutrients (Zn, Fe) peak in spring growth then decline; Type 2 (B, Mn, Ca) increase through the season; Type 3 (N, P, S) peak early then decline; Type 4 (K) stays steady then drops in autumn
-
-## Relevance to Cultivation and Mycology
-
-- **Soil biology indicator**: Chlorosis in a well-managed permaculture system with active soil biology is rare; its appearance suggests [[the-soil-food-web|the-soil-food-web]] including fungal networks may be compromised.
-- **Mycorrhizal connection**: [[mycorrhizal-fungi|mycorrhizal-fungi]] dramatically improve plant access to phosphorus, zinc, copper, and other nutrients whose deficiency causes chlorosis. Chlorosis may indicate mycorrhizal dysfunction.
-- **Compost remedy**: Well-made compost contains balanced micronutrients and supports the soil biology that makes minerals available to plants, addressing the root cause of chlorosis.
-- **Foliar feeding**: In severe cases, foliar sprays of dilute mineral solutions (iron sulphate, manganese sulphate, Epsom salts) can bypass soil availability problems.
-- **pH management**: Maintaining soil pH between 6.0–6.5 through appropriate liming or sulphuring prevents most nutrient lockup that causes chlorosis.
-
-## Cross-References
-
-- [[dolomite|Dolomite]] — pH correction for acid soils
-- [[gypsum|Gypsum]] — Calcium source for alkaline soils
+7. **pH connection**: [[the-soil-food-web|the-soil-food-web]] including fungal networks may be compromised.
+- **Mycorrhizal connection**: [[dolomite|Dolomite]] — pH correction for acid soils
 - [[rock-phosphate|Rock Phosphate]] — Phosphorus source less prone to lockup
 
 ## Practical Applications
@@ -62,20 +44,86 @@ and long-term management goals. Integration with broader design frameworks enhan
 both resilience and productivity of the overall system.
 
 ## See Also
-- [[soil-micronutrients-sulphur-potassium-calcium-trace-elements]]
 - [[query-how-does-phosphorus-availability-change-across-soil-ph-levels]]
-- [[leaf-senescence-autumn-colour-change-active-plant-process]]
 - [[nitrogen-transfer-through-common-mycorrhizal-networks]]
-- [[soil-phosphorus-and-mineral-nutrients]]
-
-## Soil-Plant Interactions
-
-Mineral availability in soil is governed by pH, organic matter content, cation exchange
-capacity, and microbial activity. Deficiencies manifest as characteristic visual symptoms
-that enable targeted diagnosis and remediation through appropriate amendments.
-
-## See Also
 - [[symbiotic-fungi-mycorrhizal-nitrogen-transfer-networks]]
 
 Integration of chlorosis principles with broader ecological design frameworks
 enhances the resilience and productivity of managed landscapes.
+
+## Overview
+
+Chlorosis represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish chlorosis
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving chlorosis extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Chlorosis finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for chlorosis. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+chlorosis and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Chlorosis has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of chlorosis into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.

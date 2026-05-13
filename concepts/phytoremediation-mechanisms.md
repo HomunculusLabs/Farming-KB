@@ -32,11 +32,7 @@ Research has demonstrated phytodegradation of chlorinated solvents (TCE), explos
 
 ### Rhizodegradation
 
-Rhizodegradation (also called phytostimulation) refers to the enhanced breakdown of contaminants in the root zone (rhizosphere) through the stimulation of microbial activity. Plant roots release exudates including sugars, amino acids, organic acids, and enzymes that serve as carbon and energy sources for soil microorganisms. This greatly increases microbial population density and [[arbuscule-isolation-metabolic-activity-assays]] in the rhizosphere compared to bulk soil.
-
-Rhizosphere microorganisms can be 10 to 100 times more abundant than in surrounding soil. The root exudates may also serve as analogues of target pollutants, selecting for microbial communities that possess enzymatic pathways capable of degrading structurally similar contaminants. Plasmid transfer between bacteria occurs more rapidly in the rhizosphere, facilitating the spread of catabolic genes.
-
-Studies have shown that the rhizospheres of prairie grasses, sorghum, and ryegrass significantly enhance the degradation of [[singh-fungal-biodegradation-of-polycyclic-aromatic-hydrocarbons]] hydrocarbons (PAHs) and total petroleum hydrocarbons (TPHs). A multiprocess phytoremediation system combining volatilization, photooxidation, microbial remediation, and phytoremediation proved twice as effective as landfarming and 45% more effective than phytoremediation alone for removing 16 priority PAHs.
+Rhizodegradation (also called phytostimulation) refers to the enhanced breakdown of contaminants in the root zone (rhizosphere) through the stimulation of microbial activity. Plant roots release exudates including sugars, amino acids, organic acids, and enzymes that serve as carbon and energy sources for soil microorganisms. This greatly increases microbial population density and [[singh-fungal-biodegradation-of-polycyclic-aromatic-hydrocarbons]] hydrocarbons (PAHs) and total petroleum hydrocarbons (TPHs). A multiprocess phytoremediation system combining volatilization, photooxidation, microbial remediation, and phytoremediation proved twice as effective as landfarming and 45% more effective than phytoremediation alone for removing 16 priority PAHs.
 
 ### Phytostabilization
 
@@ -54,9 +50,7 @@ While phytovolatilization can effectively remove contaminants from soil and grou
 
 Rhizofiltration is the use of plant roots to absorb, concentrate, and precipitate contaminants from water. It is particularly effective for removing heavy metals (lead, cadmium, copper, nickel, zinc, chromium) and radionuclides (uranium, cesium, strontium) from aqueous solutions.
 
-Aquatic plants and hydroponically grown terrestrial plants are employed in rhizofiltration systems. Sunflower (Helianthus annuus) plants were successfully used to remove radioactive strontium and cesium from contaminated water following the Chernobyl disaster. Water hyacinth (Eichhornia crassipes) and duckweed (Lemna species) have demonstrated efficient metal uptake in [[comparison-constructed-wetland-vs-backyard-pond]] systems.
-
-The mechanism relies on root surface adsorption (biosorption), root uptake and translocation, and root-mediated precipitation. See [[rhizofiltration]] for detailed coverage of this technique.
+Aquatic plants and hydroponically grown terrestrial plants are employed in rhizofiltration systems. Sunflower (Helianthus annuus) plants were successfully used to remove radioactive strontium and cesium from contaminated water following the Chernobyl disaster. Water hyacinth (Eichhornia crassipes) and duckweed (Lemna species) have demonstrated efficient metal uptake in [[rhizofiltration]] for detailed coverage of this technique.
 
 ## Factors Affecting Phytoremediation Effectiveness
 
@@ -68,9 +62,7 @@ The depth of root penetration determines the volume of contaminated soil that ca
 
 ## Integration with Microbial Remediation
 
-Phytoremediation rarely operates in isolation. The plant root zone creates a unique microhabitat that supports dense and diverse microbial communities. Ectomycorrhizal fungi including strains of Amanita, Leccinum, and Suillus can degrade phenanthrene, pyrene, chrysene, and benzo[a]pyrene. The [[comparison-soil-food-web-vs-arbuscular-mycorrhizal-fungi]] fungus Glomus mosseae enhances survival and growth of ryegrass in PAH-contaminated soil.
-
-Mycorrhizal associations extend the effective volume of soil explored beyond the root zone itself, through the extensive extraradical [[gadd-mycelial-network-dynamics]]. See fungal-bioremediation for more on fungal contributions to remediation.
+Phytoremediation rarely operates in isolation. The plant root zone creates a unique microhabitat that supports dense and diverse microbial communities. Ectomycorrhizal fungi including strains of Amanita, Leccinum, and Suillus can degrade phenanthrene, pyrene, chrysene, and benzo[a]pyrene. The [[gadd-mycelial-network-dynamics]]. See fungal-bioremediation for more on fungal contributions to remediation.
 
 The synergy between plants and their associated microorganisms is the basis of rhizoremediation, which leverages both plant and microbial capabilities for more comprehensive contaminant removal than either could achieve alone.
 
@@ -84,7 +76,5 @@ Despite these limitations, phytoremediation offers significant advantages includ
 
 ## See Also
 
-- [[mycoremediation]] — comparison of remediation organisms
 - [[constructed-wetlands-wastewater-treatment]] — engineered phytoremediation systems
-- [[mycorrhizal-fungi-bioremediation]] — mycorrhizal contributions to remediation
 - [[white-rot-fungi-bioremediation]] — ligninolytic fungi for organic pollutant degradation

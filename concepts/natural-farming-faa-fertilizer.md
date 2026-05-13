@@ -9,7 +9,7 @@ updated: 2026-04-26
 
 # Fish Amino Acid (FAA) Fertilizer
 
-Fish Amino Acid (FAA) is a [[jadam-liquid-fertilizer-nutritional-perspective]] made from fish that contains abundant amounts of nutrients and various types of amino acids. It is absorbed directly by crops and stimulates the activity of microorganisms. FAA is a primary nitrogen source in Korean [[comparison-natural-farming-vs-permaculture]].
+Fish Amino Acid (FAA) is a [[comparison-natural-farming-vs-permaculture]].
 
 ## What is FAA
 
@@ -43,7 +43,7 @@ Molasses can be used instead of brown sugar at a 1:3 ratio (one part molasses to
 ## Uses and Applications
 
 ### As Nitrogen Fertilizer
-FAA is rich with nitrogen and is excellent for both soil and [[ultra-low-cost-foliar-application-methods]] during the **[[cannabis-vegetative-growth-stage]] period** when used with other NF materials. Dilution: 1:1000.
+FAA is rich with nitrogen and is excellent for both soil and [[cannabis-vegetative-growth-stage]] period** when used with other NF materials. Dilution: 1:1000.
 
 ### For Leafy Vegetables
 FAA can be used continuously on leafy vegetables to:

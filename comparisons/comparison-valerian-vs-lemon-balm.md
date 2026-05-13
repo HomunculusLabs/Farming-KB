@@ -10,17 +10,12 @@ sources: []
 
 ## Overview
 
-Valerian ([[valeriana-officinalis]]) and lemon balm ([[lemon-balm-melissa-officinalis]])
+Valerian ([[lemon-balm-melissa-officinalis]])
 are two of the most widely used nervine herbs in Western herbalism, both valued for
 their calming and sleep-promoting properties. Despite overlapping applications,
 they differ significantly in their active compounds, primary effects, cultivation
 requirements, and ideal use cases. Understanding these distinctions helps
-herbalists and growers [[query-how-do-i-choose-the-right-cannabis-strain-for-my-grow]] plant for specific needs, whether that
-means better sleep, daytime anxiety relief, or garden integration.
-
-## Valerian
-
-[[valeriana-officinalis]]
+herbalists and growers [[valeriana-officinalis]]
 
 Valerian is a tall perennial (0.5--1.5 m) native to Europe and temperate Asia,
 traditionally used for over 2,000 years as a sedative and anxiolytic. Its dried
@@ -40,21 +35,13 @@ and bedtime administration.
 
 Cultivation requires stratified seed or root division, with plants preferring
 moist, nutrient-rich soils in partial shade to full sun. Root harvest occurs
-after the second [[savory-growing-season-and-non-growing-season-management]], typically in autumn, yielding 2--4 kg of dried
-root per square metre. The strong odor of the roots can be off-putting during
-processing, and the plant offers minimal ornamental or ecological value beyond
-its medicinal yield.
-
-## Lemon Balm
-
-[[lemon-balm-melissa-officinalis]]
+after the second [[lemon-balm-melissa-officinalis]]
 
 Lemon balm is a low-growing perennial (30--80 cm) in the mint family,
 native to the Mediterranean Basin and southern Europe. Unlike valerian, the
 aerial parts (leaves and flowering tops) are the primary medicinal tissue,
 harvested multiple times per season. The plant produces a pleasant lemon
-fragrance from citral-rich [[permaculture-designers-manual-essential-oil-plants]] glands, making it one of the most
-agreeable-tasting [[permaculture-plants-medicinal-herbs-healing]] for teas and culinary use.
+fragrance from citral-rich [[permaculture-plants-medicinal-herbs-healing]] for teas and culinary use.
 
 The bioactive profile differs markedly from valerian. Key compounds include
 rosmarinic acid (a potent antioxidant and antiviral), citral (anxiolytic and
@@ -113,19 +100,8 @@ planting benefits, ease of propagation, and multiple harvests per season.
 Valerian and lemon balm are among the most commonly combined herbal pairs in
 commercial sleep formulations. The typical ratio is 2:1 to 3:1 valerian to
 lemon balm, leveraging valerian's stronger sedation alongside lemon balm's
-anxiolytic and GABA-modulating properties. [[mushroom-cancer-clinical-trials-overview]] using this
-combination show improved sleep outcomes compared to either herb alone. The
-combination also improves palatability, as lemon balm's pleasant citrus flavour
-partially masks valerian's pungent root taste. For home preparation, a blended
-tincture or tea using both herbs is a practical approach for individuals who
-need both sleep support and anxiety relief.
-
-## See Also
-
-- [[comparison-valerian-vs-chamomile]]
-- [[comparison-lemon-balm-vs-passionflower]]
+anxiolytic and GABA-modulating properties. [[comparison-valerian-vs-chamomile]]
 - [[comparison-valerian-vs-passionflower]]
-- [[comparison-ashwagandha-vs-tulsi]]
 - [[herbal-medicine-making-basics]]
 
 - [[comparison-tulsi-vs-lemon-balm]]

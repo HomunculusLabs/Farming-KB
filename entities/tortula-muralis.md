@@ -32,7 +32,7 @@ Recent molecular phylogenetic analyses place T. muralis within the Syntrichia cl
 
 The gametophyte forms loose to dense turfs, 0.5–2 cm tall. Stems are erect and simple, arising from a branched protonemal system.
 
-Leaves are ovate to obovate, 2–3 mm long, with a short, bluntly pointed apex. The costa is strong and extends to near the leaf tip, but unlike Syntrichia ruralis, the leaves lack a well-developed hair point.
+Leaves are ovate to obovate, 2–3 mm long, with a short, bluntly pointed apex. The costa is strong and extends to near the leaf tip, but unlike [[syntrichia-ruralis]], the leaves lack a well-developed hair point.
 
 The leaf margins are recurved from near the base, and the lamina is constricted below the apex, giving the leaf a distinctive trumpet-shaped appearance when viewed from above.
 
@@ -48,21 +48,11 @@ This persistent capsule is the origin of several of the species' common names, i
 
 ## Distribution and Habitat
 
-T. muralis has a widespread distribution across Europe, [[psilocybin-north-america-pacific-northwest]], and temperate Asia. It has been widely introduced in the [[guzman-allen-gartz-africa-southern-hemisphere-underexplored-neurotropic-fungi]], occurring in southeastern Australia, New Zealand, and parts of South America.
+T. muralis has a widespread distribution across Europe, [[guzman-allen-gartz-africa-southern-hemisphere-underexplored-neurotropic-fungi]], occurring in southeastern Australia, New Zealand, and parts of South America.
 
 The species is considered native to Europe and western Asia but has been spread globally through human-mediated dispersal on building stone and horticultural materials. Its introduction history in the Southern Hemisphere dates to the colonial period.
 
-The species is overwhelmingly saxicolous, occurring on brick walls, concrete, mortar, limestone, and sandstone. It is among the most common mosses of [[fungal-biodiversity-built-environments-indoor-mycobiome]] worldwide.
-
-It shows a strong preference for calcareous and base-rich substrates. On acidic substrates such as granite, the species is rare and typically stunted.
-
-The species is remarkably tolerant of exposure to direct sunlight and can colonize south-facing walls in full sun. This heliophilic habit distinguishes it from many other urban mosses that prefer shaded or north-facing surfaces.
-
-The species occurs from sea level to approximately 1,500 meters in elevation. In Mediterranean climates, it enters a dormant state during summer drought and resumes growth with autumn rains.
-
-## Ecology
-
-Tortula muralis is a pioneer species on newly constructed or cleaned stone surfaces. Its rapid establishment from wind-dispersed spores allows it to colonize fresh mortar within a single [[savory-growing-season-and-non-growing-season-management]].
+The species is overwhelmingly saxicolous, occurring on brick walls, concrete, mortar, limestone, and sandstone. It is among the most common mosses of [[savory-growing-season-and-non-growing-season-management]].
 
 The persistent capsule is a key ecological adaptation, functioning as a spore bank. Spores are released gradually over months, ensuring dispersal across multiple rain events rather than a single episode.
 
@@ -87,3 +77,73 @@ Chloroplast structure is partially disassembled during drying but reconstituted 
 Respiratory metabolism resumes within minutes of rehydration, preceding the recovery of photosynthesis by 15–30 minutes. This sequential recovery pattern is consistent across populations from diverse climatic origins.
 
 ## Research Significance
+
+## Overview
+
+Tortula Muralis represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish tortula muralis
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving tortula extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Tortula Muralis finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for tortula muralis. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+tortula muralis and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Tortula Muralis has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of tortula muralis into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.

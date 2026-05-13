@@ -8,21 +8,7 @@ type: concept
 
 ## Overview
 
-[[permaculture-design]] is a system of assembling conceptual, material, and strategic components in a pattern which functions to benefit life in all its forms. It seeks to provide a sustainable and secure place for living things on earth. The methods of design are the tools through which this assembly is achieved, ranging from analytical listing to intuitive observation, from map overlay to random assembly. Understanding these methods — and when to apply each — is essential to effective permaculture practice.
-
-## What Is Design?
-
-Any design is composed of concepts, materials, techniques, and strategies, as bodies are composed of brain, bone, blood, muscles, and organs. When completed, the design functions as a whole assembly with a unified purpose. As in the body, the parts function in relation to each other.
-
-Permaculture, as a design system, attempts to integrate fabricated, natural, spatial, temporal, social, and ethical parts (components) to achieve a whole. It concentrates not on the components themselves, but on the relationships between them, and on how they function to assist each other.
-
-The same set of parts can be arranged to create a self-destructive system needing constant energy support, or an harmonious system that nourishes life. It is in the arrangement of parts that design has its being and function, and it is the adoption of a purpose that decides the direction of the design.
-
-## The Prime Directive of Functional Design
-
-> Every component of a design should function in many ways. Every essential function should be supported by many components.
-
-This dual mandate ensures both redundancy and efficiency. A chicken that provides eggs, manure, pest control, and heat serves many functions. Eggs, meat, and soil fertility are each supported by chickens, ducks, and [[composting-systems]] — many components. This principle is the foundation of resilient design.
+[[composting-systems]] — many components. This principle is the foundation of resilient design.
 
 ## Components vs. Techniques vs. Strategies
 
@@ -94,3 +80,11 @@ The most robust designs emerge from combining methods — using observation to u
 ## The Fundamental Insight
 
 The unifying insight across all design methods is that the *relationships* between components matter more than the components themselves. A chicken in a battery cage is the same organism as a chicken in an orchard, but the system outcomes are entirely different. Design is the art and science of arranging relationships for mutual benefit.
+
+## See Also
+
+- [[nut-tree-cultivation-for-permaculture-food-forests]]
+- [[stametsian-permaculture-model]]
+- [[permaculture-farm-design-principles]]
+- [[nitrogen-fixing-plants-in-permaculture]]
+- [[urban-permaculture-and-integrated-land-management]]

@@ -10,13 +10,7 @@ sources: [/Users/t3rpz/wiki/raw/papers/geoffrey-gadd-sarah-c-watkinson-paul-s-dy
 
 # Craterellus tubaeformis
 
-*Craterellus tubaeformis*, commonly known as the yellowfoot, funnel chanterelle, or winter chanterelle, is an edible basidiomycete mushroom in the family *Cantharellaceae*. It is one of the most commercially important wild-harvested mushrooms in Scandinavia, the Pacific Northwest of [[psilocybin-north-america-pacific-northwest]], and other temperate regions. The species is distinguished by its trumpet-shaped fruiting body, brown to yellow-brown cap, and yellowish stipe, and it typically fruits late in the season—often into early winter.
-
-## Taxonomy
-
-The taxonomic history of *Craterellus tubaeformis* has been complex. The species was originally described as *Agaricus tubaeformis* by Johan Peter Falck in 1783 and was later transferred to the genus *Cantharellus* as *Cantharellus tubaeformis*, a name under which it was known for most of the 20th century. Molecular phylogenetic studies in the early 2000s demonstrated that the species belongs to a distinct clade separate from the true chanterelles (*Cantharellus* sensu stricto), and it was consequently transferred to the genus *Craterellus*.
-
-A closely related European taxon, *Craterellus lutescens* (or *Cantharellus lutescens*), was historically treated as a separate species distinguished by its more uniformly yellow coloration and more deeply decurrent hymenium. However, modern molecular studies have suggested that *C. lutescens* and *C. tubaeformis* may represent a single polymorphic species, with color variation influenced by environmental conditions and host tree species. The [[growing-gourmet-north-american-reishi-species]] populations, sometimes referred to as *Craterellus neotubaeformis*, may also represent a distinct taxon.
+*Craterellus tubaeformis*, commonly known as the yellowfoot, funnel chanterelle, or winter chanterelle, is an edible basidiomycete mushroom in the family *Cantharellaceae*. It is one of the most commercially important wild-harvested mushrooms in Scandinavia, the Pacific Northwest of [[growing-gourmet-north-american-reishi-species]] populations, sometimes referred to as *Craterellus neotubaeformis*, may also represent a distinct taxon.
 
 ## Morphology and Identification
 
@@ -34,9 +28,9 @@ The mushroom is particularly abundant on moss-covered forest floors, in old-grow
 
 ## Ectomycorrhizal Function
 
-*Craterellus tubaeformis* forms ectomycorrhizal associations with the fine roots of coniferous trees, playing an important role in boreal and temperate forest [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]]. The fungal mycelium forms a mantle around root tips and develops an extensive extraradical [[gadd-mycelial-network-dynamics]] that explores the soil for mineral nutrients. The organism produces extracellular enzymes that decompose organic matter, releasing nitrogen, phosphorus, and other nutrients that are transferred to the host tree in exchange for photosynthetically derived carbohydrates.
+*Craterellus tubaeformis* forms ectomycorrhizal associations with the fine roots of coniferous trees, playing an important role in boreal and temperate forest [[gadd-mycelial-network-dynamics]] that explores the soil for mineral nutrients. The organism produces extracellular enzymes that decompose organic matter, releasing nitrogen, phosphorus, and other nutrients that are transferred to the host tree in exchange for photosynthetically derived carbohydrates.
 
-In boreal forest ecosystems, *C. tubaeformis* contributes significantly to the ectomycorrhizal community diversity and function. The species appears to be particularly effective at accessing nutrients from recalcitrant organic matter, possibly due to its ability to produce oxidative enzymes that break down complex polyphenolic compounds in coniferous litter. This nutrient acquisition capability is ecologically important in [[fungal-diversity-boreal-forests-taiga]] where low temperatures slow decomposition and [[ph-and-nutrient-availability-garden-soils]] is often a limiting factor for tree growth.
+In boreal forest ecosystems, *C. tubaeformis* contributes significantly to the ectomycorrhizal community diversity and function. The species appears to be particularly effective at accessing nutrients from recalcitrant organic matter, possibly due to its ability to produce oxidative enzymes that break down complex polyphenolic compounds in coniferous litter. This nutrient acquisition capability is ecologically important in [[ph-and-nutrient-availability-garden-soils]] is often a limiting factor for tree growth.
 
 ## Culinary and Commercial Importance
 
@@ -67,13 +61,10 @@ on scarce inputs when a simpler ecological substitute is available.
 
 ## Related Topics
 
-- [[composting-systems]]
 - [[mushroom-cultivation]]
-
 
 ## See Also
 
-- [[craterellus-cornucopioides]]
 - [[craterellus-ignicolor]]
 - [[craterellus-odoratus]]
 

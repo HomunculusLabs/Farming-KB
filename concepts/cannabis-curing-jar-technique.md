@@ -11,16 +11,6 @@ sources: []
 
 Curing is the post-drying process that transforms freshly dried cannabis into a smooth, potent, and flavorful product. While drying removes the bulk of moisture from the harvested plant material, curing allows the remaining moisture to redistribute evenly, breaks down chlorophyll and other undesirable compounds, and promotes the degradation of non-psychoactive acidic cannabinoids into their active forms. The jar curing method is the most common and effective approach.
 
-[[cannabis-decarboxylation-chemistry]]
-
-## When to Begin Curing
-
-Curing should begin when the harvested branches are sufficiently dry that a small branch snaps cleanly rather than bending. If a branch bends without breaking, additional drying time is needed. If a branch crumbles to dust, the material has been over-dried.
-
-The typical drying period before curing is two to three weeks for whole plants hung upside down. Environmental conditions during drying affect this timeline. Warmer temperatures and lower humidity accelerate drying, while cooler temperatures and higher humidity slow it.
-
-Buds that are moved to jars too wet risk developing mold. Buds that are over-dried before jarring will not benefit as much from curing because there is insufficient residual moisture to support the enzymatic and chemical processes that improve quality.
-
 [[cannabis-hashish-guide]]
 
 ## Curing Duration
@@ -33,38 +23,11 @@ Cannabis cured for eight weeks or longer can smoke extremely well but may begin 
 
 If the drying period before jarring was three weeks, this time can be subtracted from the recommended jar curing time. For example, if buds dried for three weeks before jaring, they may reach optimal quality after two to three weeks in jars rather than four to six.
 
-[[cannabis-testing-and-quality]]
-
-## Humidity Control with Two-Way Packs
-
-Two-way humidity control packs, such as Boveda packs, can simplify the curing process by maintaining a specific relative humidity within the sealed jar. Packs rated at 58-62% relative humidity are commonly recommended for cannabis curing.
-
-These packs absorb excess moisture when humidity rises above the target level and release moisture when humidity drops below it. This passive regulation reduces the risk of both mold (from excess moisture) and overdrying (from insufficient moisture).
-
-When using humidity packs, the buds should still be sufficiently dry before jarring, as the packs have a limited capacity and cannot compensate for very wet starting material. The packs are most useful for maintaining optimal conditions during the later stages of curing and for long-term storage.
-
 [[cannabis-concentrates-and-extracts]]
 
 ## Related
 
-- [[cannabis-nutrient-deficiency-and-toxicity-guide]]
-## Practical Considerations
-
-When working with Cannabis Curing Jar Technique, several practical factors should be
-carefully considered to achieve optimal results. These include
-the specific conditions of the implementation context, available
-resources, timing requirements, and the interactions between this
-topic and other elements of the broader system. A holistic view
-that considers these interconnections produces better outcomes.
-
-Environmental conditions such as temperature, moisture, and
-seasonal patterns significantly influence results. Monitoring these
-variables and adapting practices accordingly is essential for success.
-The most effective practitioners develop keen observation skills and
-respond flexibly to changing conditions rather than following rigid
-protocols regardless of circumstances or local variation.
-
-[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
+- [[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -111,8 +74,76 @@ through generations to modern scientific approaches, the evolution continues
 to inform current best practices and research directions.
 
 ## See Also
-- [[doc]]
 - [[hashish]]
-- [[decarboxylation]]
 - [[sterile-spore-print-collection-glass-jar-technique]]
 - [[cannabis-super-cropping-technique]]
+
+## Overview
+
+Cannabis Curing Jar Technique represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish cannabis curing jar technique
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving cannabis extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Cannabis Curing Jar Technique finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for cannabis curing jar technique. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+cannabis curing jar technique and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Cannabis Curing Jar Technique has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of cannabis curing jar technique into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.

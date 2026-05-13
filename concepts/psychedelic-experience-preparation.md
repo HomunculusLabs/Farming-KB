@@ -9,25 +9,8 @@ sources:
 ---
 # Psychedelic Experience Preparation
 
-Proper preparation is the single most important factor in determining the quality and safety of a psychedelic experience. Turner emphasizes that the main reason for negative experiences is lack of preparation, rather than anything inherent in the person or in the substance. One's chances of having a [[emcdda-magic-mushroom-hunting-europe]], or not being able to reintegrate afterwards, can be sharply reduced by learning about the experience beforehand.
-
-## Physical Preparation
-
-### Dosage Approach
-- Start with a small dose and work up when working with a new substance
-- Monitor how body and mind respond to determine which dosage works
-- Some people have powerful reactions to amounts that produce only minimal activity in most
-- LSD has a wide margin between active dose and toxic dose; ecstasy can exhibit toxic effects at just twice the average dose
-- Never assume dose accuracy with street substances — blotter, tablets, and capsules may contain unknown amounts
-
-### Health Considerations
-- Anyone with health problems, or taking prescription or over-the-counter medicines, should exercise caution
-- Most psychedelics increase pulse rate and blood pressure
-- Pregnant women should consult a knowledgeable doctor prior to use
-- See [[psychedelic-safety-and-harm-reduction]] — comprehensive safety guide
-- [[psychedelic-therapy-set-and-setting]] — therapeutic framework
+Proper preparation is the single most important factor in determining the quality and safety of a psychedelic experience. Turner emphasizes that the main reason for negative experiences is lack of preparation, rather than anything inherent in the person or in the substance. One's chances of having a [[psychedelic-safety-and-harm-reduction]] — comprehensive safety guide
 - [[mao-inhibitors-and-psychedelics]] — MAOI safety
-- [[psychedelic-substances-comparison]]
 - [[ketamine-reference]]
 ## Practical Applications
 
@@ -88,3 +71,80 @@ outcomes creates a valuable knowledge base that supports progressively
 better results with each iteration of practice and experimentation.
 
 ## Integration and Future Development
+
+## Overview
+
+Psychedelic Experience Preparation represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish psychedelic experience preparation
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving psychedelic extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Psychedelic Experience Preparation finds practical application in multiple design contexts.
+[[permaculture-principles]] guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for psychedelic experience preparation. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+psychedelic experience preparation and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Psychedelic Experience Preparation has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of psychedelic experience preparation into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.

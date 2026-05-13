@@ -80,10 +80,15 @@ This approach provides the benefits of terracing on steep slopes without the ero
 
 Soils and installed water inlets/outlets on terraces must permit safe and controllable irrigation. Stable bunds — either rock-walled or maintained at a 1:3 slope — form the structural backbone of the system. Long-term production from terraces depends on integrating polycultural design (wet and dry crops), stable bund structures, and adequate tree cover into a unified system.
 
+## See Also
+
+- [[terrace-earthworks-and-slope-management]]
+- [[terrace-systems-slope-management]]
 
 ## See Also
 
-- [[terrace-construction-earthworks]]
-- [[terrace-earthworks-and-slope-management]]
-- [[terrace-systems-for-slope-agriculture]]
 - [[terrace-systems-slope-management]]
+- [[fukuoka-textdoc-hillside-garden-terrace-soil-preparation]]
+- [[terrace-systems-for-slope-agriculture]]
+- [[permaculture-terrace-design-slopes]]
+- [[terrace-construction-earthworks]]

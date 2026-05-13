@@ -50,17 +50,11 @@ Seed size does not necessarily predict plant size or potency, but consistent see
 
 ## Environmental Influences on Resin Production
 
-[[duggar-mushroom-environmental-factors-temperature-moisture-light]] play a significant role in modulating both the quantity and quality of resin produced by cannabis plants. Light intensity, ultraviolet (UV) radiation exposure, temperature fluctuations, and [[ph-and-nutrient-availability-garden-soils]] all influence [[cannabis-trichome-development-cannabinoid-biosynthesis-sites]] and [[clarke-marijuana-botany-cannabinoid-biosynthesis-pathway]]. Plants grown in higher UV-B environments tend to produce denser trichome coverage and elevated THC concentrations, likely as a defensive response to radiation stress.
+[[ph-and-nutrient-availability-garden-soils]] all influence [[clarke-marijuana-botany-cannabinoid-biosynthesis-pathway]]. Plants grown in higher UV-B environments tend to produce denser trichome coverage and elevated THC concentrations, likely as a defensive response to radiation stress.
 
-Water availability during the late flowering period can also concentrate resin constituents. Moderate drought conditions before harvest may increase the ratio of resin to plant tissue, although severe stress will reduce overall yield. Careful management of irrigation timing allows growers to optimize resin density without sacrificing total biomass. See [[hps-grow-lights]].
+Water availability during the late flowering period can also concentrate resin constituents. Moderate drought conditions before harvest may increase the ratio of resin to plant tissue, although severe stress will reduce overall yield. Careful management of irrigation timing allows growers to optimize resin density without sacrificing total biomass. See [[cannabis-testing-and-quality]] standards and evolving market preferences.
 
-## Resin Extraction Methods and Breeding Implications
-
-The choice of resin extraction method can significantly influence which quality traits breeders should select for. Traditional dry-sifting methods favor strains with large, easily detached capitate-stalked trichome heads. Ice-water extraction is somewhat less selective about trichome morphology but still benefits from robust, well-formed glandular heads. Modern solvent-based extraction methods can recover resin from a wider range of trichome types and sizes, potentially broadening the genetic base suitable for commercial extract production. The [[cannabis-testing-and-quality]] standards and evolving market preferences.
-
-For growers utilizing [[cannabis-harvest-and-curing]].
-
-Long-term storage considerations are especially important for breeding programs that maintain seed stock and mother plant material. Properly vacuum-sealed and refrigerated cannabis can retain acceptable potency for one to two years, while frozen storage may extend viable resin quality even further. Breeders should consider selecting for strains that naturally resist degradation, maintaining their cannabinoid and [[cannabis-terpene-profiles-sativa]] over extended storage periods.
+For growers utilizing [[cannabis-terpene-profiles-sativa]] over extended storage periods.
 
 ## Terpene-Cannabinoid Entourage Effect
 
@@ -80,42 +74,8 @@ Breeders selecting for resin quality must therefore consider the full spectrum o
 metabolites, not just THC percentage, to produce a product with desirable therapeutic and
 recreational characteristics. The interplay between these compounds is complex and
 dose-dependent, meaning that analytical testing of cannabinoid and terpene profiles is
-essential for quality assurance, as covered in [[cannabis-chemotype-classification-cannabinoid-breeding]]. The [[screen-of-green]]
+essential for quality assurance, as covered in [[screen-of-green]]
 
-- [[cannabis-terpene-and-aroma-chemistry-clarke]] - Terpene and aroma chemistry
-- [[cannabis-chemotype-classification-cannabinoid-breeding]] - [[cannabis-chemotype-classification-cannabinoid-breeding]]
-
-## Practical Applications
-
-The principles and techniques discussed here have wide-ranging applications
-across multiple disciplines and contexts. Practitioners and researchers
-continue to explore new ways to integrate these concepts into modern practice,
-adapting traditional knowledge to contemporary challenges and opportunities.
-
-## Key Considerations
-
-Several important factors influence the effectiveness and outcomes described
-in this topic. Understanding these considerations helps practitioners make
-informed decisions and avoid common pitfalls. Environmental conditions,
-timing, and material selection all play critical roles.
-
-## Historical Context
-
-The historical development of this subject reflects centuries of accumulated
-knowledge and practical experience. From traditional methods passed down
-through generations to modern scientific approaches, the evolution continues
-to inform current best practices and research directions.
-
-## Common Challenges
-
-Practitioners frequently encounter several challenges when working with
-these concepts. Climate variability, resource limitations, and knowledge
-gaps can all affect outcomes. Addressing these challenges requires patience,
-observation, and a willingness to adapt approaches based on results.
-
-## See Also
-- [[pinene]]
-- [[det]]
+- [[cannabis-chemotype-classification-cannabinoid-breeding]] - [[pinene]]
 - [[linalool]]
-- [[myrcene]]
 - [[ocimene]]

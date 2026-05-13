@@ -18,24 +18,16 @@ type: concept
 
 ## Overview
 
-The emergence of online retail shops selling [[emcdda-hallucinogenic-mushrooms-emerging-trend-europe]]
-represented a significant development in the European drug market during the
-early 2000s. As traditional smartshops and market stalls expanded their reach
-through e-commerce, consumers gained easy access to [[cotter-mushroom-products-and-value-added-applications]] from
+The emergence of online retail shops selling [[cotter-mushroom-products-and-value-added-applications]] from
 a wide range of countries, including those where domestic sales were
 prohibited. The EMCDDA conducted a systematic survey of online shops in
 January 2006 to characterise this emerging market.
 
 ## Market Survey Methodology
 
-To assess the scope of [[smartshop-and-online-mushroom-markets]] retail, the EMCDDA conducted searches
-via Google and AltaVista in January 2006 using four English-language keyword
-combinations:
-
-- "[[1960s-counterculture-and-magic-mushrooms]] shop"
+To assess the scope of [[1960s-counterculture-and-magic-mushrooms]] shop"
 - "buy magic mushrooms"
-- "[[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]] shop"
-- "buy [[basidiocarp-four-stage-development-classification-psilocybe-cubensis-badham-1982]]"
+- "[[basidiocarp-four-stage-development-classification-psilocybe-cubensis-badham-1982]]"
 
 For each search engine and keyword, the first 300 results were analysed. The
 searches yielded millions of hits, but after filtering, a total of 39 unique
@@ -43,16 +35,7 @@ online shops selling hallucinogenic mushroom products were identified.
 
 ## Geographic Distribution
 
-The [[geographic-distribution-of-psilocybe-species]] online shops was heavily concentrated:
-
-- **Netherlands**: 82% of all identified online shops (approximately 32 out
-  of 39) were based in the Netherlands, reflecting the country's permissive
-  legal environment for fresh mushrooms at the time.
-- **Austria**: Four online shops selling growkits and spore prints.
-- **Germany**: Two identified sites.
-- **UK**: One site, linked to a Dutch online shop.
-- **Poland**: One site viewed, primarily selling cannabis products, noting
-  that [[emcdda-eu-legislative-timeline-hallucinogenic-mushrooms-2001-2006]] were not currently available.
+The [[emcdda-eu-legislative-timeline-hallucinogenic-mushrooms-2001-2006]] were not currently available.
 
 ## Customer Access Patterns
 
@@ -79,10 +62,7 @@ Online shops offered a diverse range of hallucinogenic mushroom products:
 - **Fresh mushrooms**: Including Psilocybe cubensis (Mexican) and Copelandia
   cyanescens varieties, sold in quantities typically ranging from 10 to 30
   grams.
-- **Truffles/sclerotia**: [[dark-incubation-sclerotia-production-psilocybe-mexicana-tampanensis]] sold as "Philosopher's stones,"
-  typically in 15 gram portions.
-- **Spawnbags**: Containing sterile hardwood chips inoculated with mushroom
-  mycelium (e.g., [[stamets-psi-psilocybe-azurescens-species-guide]]) for outdoor cultivation.
+- **Truffles/sclerotia**: [[stamets-psi-psilocybe-azurescens-species-guide]]) for outdoor cultivation.
 - **Growkits**: Complete cultivation kits containing colonised substrate, a
   bag with air filter, and paperclips, available for various species.
 - **Spore prints**: Created by pressing mature mushroom gills onto paper, or
@@ -117,8 +97,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[dom]]
 - [[spore-print]]
-- [[spore]]
 - [[brassinosteroid]]
 - [[mycelium]]

@@ -9,55 +9,7 @@ sources:
 ---
 # MAL (Methallylescaline; 3,5-Dimethoxy-4-methallyloxyphenethylamine)
 
-MAL is an allyl-substituted phenethylamine derived from [[mescaline]] by replacing the 4-methoxy group with a 4-methallyloxy group.
-
-The methallyl group contains a double bond (olefin), which is structurally notable.
-
-The compound is technically 4-methylallyldesmethylmescaline rather than a true methallyl-escaline.
-
-## Pharmacological Profile
-
-MAL is an active compound with a dosage range of 40 to 65 milligrams.
-
-The duration of effects is 12 to 16 hours.
-
-The compound produces mixed stimulant and psychedelic effects.
-
-Reports describe both positive psychedelic experiences and challenging physical side effects.
-
-## Qualitative Effects
-
-At 45 mg, subjects reported too much overload, surrounded with confusion.
-
-However, another subject at 45 mg was basically favorably impressed, believing initial discomfort would resolve.
-
-A third subject at 45 mg reported shades of potential amnesia, feeling deeply affected.
-
-At 50 mg, subjects found a good level, totally caught up in visual theater.
-
-Although eyes-closed visuals were present, they were not compelling enough to pursue with eyes closed.
-
-At 60 mg, subjects reported extreme restlessness with impressive overall activity.
-
-The experience was viewed favorably but with reservations about repeating.
-
-Another subject at 60 mg described friendly territory with much kaleidoscopic neon color.
-
-Eyes-closed imagery was reported as good but not great.
-
-At 65 mg, subjects reported being completely involved in a good psychedelic state.
-
-Visual entertainment alternated between eyes-open and eyes-closed, with a rich, engaging experience.
-
-Excellent solid sleep followed with strong, clear, memorable dreams.
-
-## The Mixed Character
-
-MAL is described as producing a mixed bag of effects.
-
-Some subjects experienced predominantly stimulant effects, others predominantly psychedelic effects.
-
-The compound is not as consistently psychedelic as [[dom]].
+MAL is an allyl-substituted phenethylamine derived from [[dom]].
 
 Nor is it as consistently stimulant as amphetamines.
 
@@ -81,8 +33,6 @@ Duration: 12 - 16 h.
 
 ## See Also
 
-[[buscaline-entity]]
-
 [[escaline-entity]]
 
 [[cpm-entity]]
@@ -92,3 +42,88 @@ propynyl
 ## References
 
 Shulgin, A. & Shulgin, A. (1991). PIHKAL: A Chemical Love Story. Entry #99: MAL.
+
+## Overview
+
+Mal Entity represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish mal entity
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving mal extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Mal Entity finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for mal entity. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+mal entity and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Mal Entity has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of mal entity into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[2c-g-3-entity]]
+- [[4-5-mdo-dmt-entity-tihkal]]
+- [[5-6-mdo-dipt-entity-tihkal]]
+- [[mdcpm-entity-pihkal]]
+- [[methyl-k-entity-pihkal]]

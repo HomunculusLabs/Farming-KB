@@ -6,15 +6,11 @@ type: concept
 
 # Köppen Climate Classification and Global Atmospheric Circulation
 
-The **Köppen climate classification** is the most widely used system for categorizing the world's climates based on temperature and precipitation patterns. Developed by Wladimir Köppen, it provides a foundational framework for understanding global climate zones — essential for [[permaculture-design]], agricultural planning, and ecological restoration. Minor subdivisions are specified in specialized maps and basic references beyond the broad categories described here.
-
-## Overview of the System
-
-The Köppen system divides the Earth's surface into major climate zones, each defined by characteristic temperature ranges, precipitation levels, and seasonal patterns. The system is particularly useful in permaculture because it directly informs plant species selection, [[water-management]] strategies, building design, and settlement planning. Different crops and trees thrive only within specific climate envelopes, precipitation patterns dictate storage requirements, and thermal performance of structures depends on zone characteristics.
+The **Köppen climate classification** is the most widely used system for categorizing the world's climates based on temperature and precipitation patterns. Developed by Wladimir Köppen, it provides a foundational framework for understanding global climate zones — essential for [[water-management]] strategies, building design, and settlement planning. Different crops and trees thrive only within specific climate envelopes, precipitation patterns dictate storage requirements, and thermal performance of structures depends on zone characteristics.
 
 ## Holdridge Life Zone Matrix
 
-A complementary classification to Köppen is the **Holdridge Life Zone Matrix**, which cross-references biotemperature, precipitation, and potential evapotranspiration to define ecological zones. This matrix is particularly useful because it correlates climate with vegetation structure, helping classify broad land areas dealt with in permaculture and their associated plant communities. The human cropland figure (0.5% of total) highlights how little of the Earth's surface is devoted to intensive agriculture, underscoring the importance of understanding and working with natural biome productivity:
+A complementary classification to Köppen is the **Holdridge Life Zone Matrix**, which cross-references biotemperature, precipitation, and potential evapotranspiration to define ecological zones. This matrix is particularly useful because it correlates climate with vegetation structure, helping classify broad land areas dealt with in [[permaculture]] and their associated plant communities. The human cropland figure (0.5% of total) highlights how little of the Earth's surface is devoted to intensive agriculture, underscoring the importance of understanding and working with natural biome productivity:
 
 | Biome | % Land Area | % Plant Mass |
 |-------|------------|--------------|
@@ -121,6 +117,5 @@ Beyond the annual seasonal shift and the 18.6-year lunar cycle, shorter-term cha
 Understanding climate classification is foundational to permaculture because species selection must match the climate envelope, water storage sizing depends on precipitation reliability, frost risk determines placement of sensitive plantings, and energy systems are designed around zone-specific radiation and temperature data. Rather than relying solely on climate averages, designers should research precipitation distribution (including extremes like 100-year flood records) and temperature extremes, as these define the true operating envelope for any design. The interaction of oceanic and atmospheric circulation means that even regions with similar Köppen classifications can experience very different local conditions depending on their position relative to prevailing wind belts, ocean currents, and topographic features.
 
 ## See Also
-- [[permaculture-climate-classification]]
 - [[mollison-designers-climate-classification-and-design-zones]]
 - [[vladimir-koppen-mollison]]

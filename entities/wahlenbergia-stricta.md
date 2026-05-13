@@ -13,31 +13,7 @@ sources:
   - Carolin R.C. (1992). "Wahlenbergia." In: Flora of Australia, Vol. 35. AGPS Canberra.
   - WCSP (2024). "World Checklist of Selected Plant Families." Royal Botanic Gardens, Kew.
   - Smith N.M. (2002). "Weeds of the Wet/Dry Tropics of Australia." Environment Centre NT.
-  - Richardson F.J. et al. (2006). "Weeds of the South-East." CRC [[fukuoka-natural-weed-management]].
----
-
-## Overview
-
-*Wahlenbergia stricta* is a perennial herbaceous plant native to eastern and southern Australia. It is commonly known as the Australian bluebell or tall bluebell, and is one of the most widespread species in the genus *Wahlenbergia* in Australasia.
-
-The species produces open, star-shaped blue to mauve flowers on slender, erect stems throughout spring and summer. It is a familiar sight in grasslands, woodlands, and disturbed areas across temperate and subtropical eastern Australia.
-
-*Wahlenbergia stricta* is valued in native gardens and wildflower meadows for its long flowering period and airy appearance. It naturalizes freely in suitable conditions and is an important nectar source for native bees.
-
-The species was first described by Scottish botanist Robert Brown in 1810, originally as *Campanula stricta*. It was later transferred to *Wahlenbergia* by Alphonse de Candolle in 1830.
-
-Two subspecies are recognized: subsp. *stricta* (widespread) and subsp. *insulae-part* from Lord Howe Island. The Lord Howe Island taxon is larger in all parts and may warrant specific rank.
-
-## Taxonomy and Morphology
-
-**Classification:**
-- Kingdom: Plantae
-- Family: Campanulaceae
-- Genus: *Wahlenbergia*
-- Species: *W. stricta* (R.Br.) A.DC.
-- Basionym: *Campanula stricta* R.Br.
-
-The genus *Wahlenbergia* comprises approximately 260 species distributed across the [[guzman-allen-gartz-africa-southern-hemisphere-underexplored-neurotropic-fungi]], with major centers of diversity in southern Africa and Australasia. Australian *Wahlenbergia* species are characterized by their often narrow, linear leaves and small, open corollas.
+  - Richardson F.J. et al. (2006). "Weeds of the South-East." CRC [[guzman-allen-gartz-africa-southern-hemisphere-underexplored-neurotropic-fungi]], with major centers of diversity in southern Africa and Australasia. Australian *Wahlenbergia* species are characterized by their often narrow, linear leaves and small, open corollas.
 
 The plant grows 20–60 cm tall from a thickened, often tuberous rootstock. Stems are slender, erect, branching above, and typically glabrous or sparsely hairy.
 
@@ -65,26 +41,91 @@ The species tolerates a range of soil types from sandy loams to heavy clays. It 
 
 Flowers are pollinated by a wide range of native insects, including native bees (Halictidae, Megachilidae), hoverflies (Syrphidae), and small butterflies. The open corolla allows access to generalist pollinators, contributing to the species' reproductive success.
 
-[[cannabis-controlled-pollination-seed-production]] is prolific, with individual plants producing 500–2,000 seeds per season. Seeds are dispersed by wind and water, and can persist in the soil seed bank for 2–3 years.
-
-Germination is stimulated by disturbance and light exposure. Seeds germinate readily in spring and autumn when moisture is available, with germination rates of 60–80% under optimal conditions.
-
-The species is an early colonizer of disturbed sites, often appearing in recently graded road margins and cleared areas. It persists through its soil seed bank and can re-establish quickly after fire.
-
-*Wahlenbergia stricta* is palatable to livestock but persists under moderate grazing through its rootstock and seed bank. Heavy grazing can reduce flowering and seed production.
-
-The species forms [[plants-without-mycorrhizal-associations]] with arbuscular fungi that enhance [[aact-microbial-foliar-nutrient-uptake-co2-stomata-ingham]]. These associations are particularly important in the nutrient-poor soils typical of many Australian habitats.
-
-Fire response is moderate — plants regrow from the rootstock after low-intensity fire. High-intensity fire that destroys the rootstock relies on soil-stored seed for regeneration.
-
-## Cultivation
-
-*Wahlenbergia stricta* is cultivated in native Australian gardens and wildflower meadows. It is valued for its long spring-to-autumn flowering period and tolerance of a range of conditions.
-
-Plants prefer full sun to light shade and moderately fertile, moist soil. They are adaptable to a range of soil types but perform best in well-drained loams with regular moisture.
-
-Propagation is straightforward from seed, which should be sown on the surface of a fine compost in spring. No cold stratification is required, and germination occurs within 7–14 days at 18–22 °C.
-
-Division of mature clumps is possible in autumn or [[coleman-overwintered-onions-and-early-spring-crops]]. Each division should include a portion of the thickened rootstock and several growth buds.
+[[plants-without-mycorrhizal-associations]] with arbuscular fungi that enhance [[coleman-overwintered-onions-and-early-spring-crops]]. Each division should include a portion of the thickened rootstock and several growth buds.
 
 Plants benefit from a light trim after the main flowering flush to encourage repeat blooming. In frost-free areas, flowering can continue intermittently through winter.
+
+## Overview
+
+Wahlenbergia Stricta represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish wahlenbergia stricta
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving wahlenbergia extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Wahlenbergia Stricta finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for wahlenbergia stricta. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+wahlenbergia stricta and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Wahlenbergia Stricta has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of wahlenbergia stricta into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[wahlenbergia-albomarginata]]
+- [[wahlenbergia-capensis]]
+- [[wahlenbergia-gloriosa]]
+- [[wahlenbergia-hederacea]]
+- [[wahlenbergia-marginata]]

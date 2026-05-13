@@ -24,12 +24,12 @@ summary: >
 
 ## Overview
 
-In the late 1980s, Masanobu Fukuoka spent approximately forty days traveling
+In the late 1980s, [[masanobu-fukuoka]] spent approximately forty days traveling
 across Africa. His observations, documented in Chapter 6 of *The Road Back to
 Nature* (1987), form a devastating critique of how Western agricultural science,
 colonial land management, and foreign aid programs conspired to degrade one of
 the planet's most biologically rich continents. Fukuoka came not as an expert
-consultant but as a farmer who had spent decades perfecting natural farming
+consultant but as a farmer who had spent decades perfecting [[natural-farming]]
 methods, and he saw with fresh eyes what specialists had normalized.
 
 ## Forty Days in Africa: Direct Observations
@@ -142,9 +142,7 @@ assumption that Africa's hunger is a problem of insufficient technology rather
 than a symptom of ecological and cultural disruption imposed from outside.
 ## See Also
 
-- [[natural-farming]] — Fukuoka's core philosophy and methodology
 - [[fukuoka-the-one-straw-revolution-final-chapter]] — Fukuoka's foundational work
-- [[fukuoka-deficit-farming-agricultural-energy-crisis]] — Agriculture consuming more energy than it produces
 - [[desertification-causes-reversal]] — Human-driven desertification mechanisms
 - [[agroecology]] — Modern movement echoing Fukuoka's principles
 - fukuoka africa agricultural failure deficit farming analysis — Colonial land management impact on indigenous systems

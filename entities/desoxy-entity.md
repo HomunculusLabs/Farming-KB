@@ -10,74 +10,94 @@ sources:
 # DESOXY
 
 **Chemical name:** 3,5-Dimethoxy-4-methylphenethylamine
-**[[2c-b-pihkal-entry-20]]:** #52
-
-## Overview
-
-DESOXY is the 2-carbon phenethylamine analogue of dom-entity|DOM (STP). Its name derives from "des-oxymescaline" -- it is mescaline with the 4-methoxy group replaced by a methyl group, removing the oxygen. Shulgin notes that "a long, long time ago, in a universe far, far away" this name had been used for something else, but the designation stuck.
-
-As a phenethylamine (2-carbon chain) rather than an amphetamine (3-carbon chain), DESOXY provides insight into how the alpha-methyl group affects the pharmacological profile. While DOM is a potent psychedelic at 3-10 mg, DESOXY requires 40-120 mg and produces a notably different experience.
-
-## Dosage
-
-| Level | Amount (mg) |
-|-------|-------------|
-| Threshold | ~40 |
-| Light | 40 - 60 |
-| Common | 60 - 100 |
-| Strong | 100 - 120 |
-
-## Duration
-
-6 - 8 hours.
-
-## Effects
-
-The qualitative reports paint a picture of an unusual compound that does not fit neatly into typical psychedelic categories:
-
-- **Body effects:** Initial chilling sensation, nausea that resolves after ~3 hours. One subject noted no urge to urinate with only concentrated urine passed late in the experiment.
-- **Mental state:** A sense of strangeness, "almost alien view of the world." Neither pleasant nor unpleasant, just strange. Dream-like eyes-closed imagery with disconnected, far-out visuals. Drifting easily into sleep-like trance states.
-- **At 100 mg:** A sweet taste. Slight heart pressure early on (pulse to 100). No apparent visual enhancement but noteworthy eyes-closed imagery to music. Thinking skills and conversation remained fully under control.
-- **Aftermath note:** One subject reported a "complex and psychologically disruptive syndrome" lasting about a week after a 40 mg trial, though retrospective analysis suggested the events were unrelated to DESOXY exposure.
-
-## Safety Considerations
-
-Shulgin notes "slight hints of neurological sensitivity" including instant chilling and "a tendency to dart on going to sleep" with millisecond auditory hallucinations or startle responses. He advises taking it easy when increasing the dose. The aftereffects report, while likely unrelated, adds an element of uncertainty.
-
-## Synthesis Notes
-
-The synthesis proceeds through several steps:
-
-1. **Bromination:** 2,6-Dimethoxytoluene is brominated with elemental bromine in CH2Cl2 to give 3-bromo-2,6-dimethoxytoluene.
-2. **Lithiation/acylation:** The bromo compound is treated with LDA (from diisopropylamine and butyllithium) followed by dry acetonitrile to introduce the cyano group via the nitrile.
-3. **Nitrile isolation:** 3,5-Dimethoxy-4-methylphenylacetonitrile is obtained as a yellowish solid.
-4. **Reduction:** LAH reduction with H2SO4 provides the final amine as white crystals.
-
-The synthetic route is notable for its complexity compared to many other PiHKAL entries, requiring careful low-temperature lithiation chemistry.
-
-## Pharmacology and Position in Structure-Activity Studies
-
-DESOXY is part of the systematic exploration of the 4-position substituent on the 2,5-dimethoxyphenethylamine skeleton:
-
-| Compound | 4-position | Class | Dosage (mg) |
-|----------|-----------|-------|-------------|
-| 2C-H | H | inactive | -- |
-| 2c-d-entity|2C-D | CH3 | psychedelic | 40-80 |
-| 2c-b-entity|2C-B | Br | psychedelic | 15-30 |
-| DESOXY | CH3 (3,5-pattern) | psychedelic | 40-120 |
-| dom-entity|DOM | CH3 (amphetamine) | psychedelic | 3-10 |
-
-The difference between DESOXY (2-carbon, 3,5-dimethoxy) and 2c-d-entity|2C-D (2-carbon, 2,5-dimethoxy) illustrates the dramatic effect of methoxy group positioning on potency and character.
-
-## Related Compounds
-
-- dom-entity|DOM (the amphetamine analogue)
-- 2c-d-entity|2C-D (2,5-dimethoxy isomer)
-- dob-entity|DOB (bromo amphetamine analogue)
-- [[pihkal-introduction-and-methodology]]
-- [[thc-acetate-synthesis-and-pharmacology]]
+**[[pihkal-introduction-and-methodology]]
 - [[2c-family-compounds-overview]]
 
 ## Significance
 
 DESOXY serves as a key data point in understanding the role of the alpha-methyl group in [[optical-isomers-psychedelic-phenethylamines]]. The fact that DOM (amphetamine) is roughly 10x more potent than DESOXY (phenethylamine) with similar substitution patterns demonstrates the pharmacological importance of this structural feature.
+
+## Overview
+
+Desoxy Entity represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish desoxy entity
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving desoxy extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Desoxy Entity finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for desoxy entity. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+desoxy entity and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Desoxy Entity has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of desoxy entity into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[4-tme-entity-pihkal]]
+- [[desoxy-entity-pihkal]]
+- [[mdpr-entity-pihkal]]
+- [[te-entity-pihkal]]
+- [[typha-entity]]

@@ -9,7 +9,7 @@ sources: [raw/particles/cancer-treatments-medicinal-mushrooms.md]
 
 ## Inonotus obliquus (Chaga) — Research Summary
 
-Chaga (Inonotus obliquus) is a sterile conk (sclerotium) that grows on birch trees (Betula spp.) [[query-how-do-i-grow-figs-in-cold-climates]] across the Northern Hemisphere — Siberia, Scandinavia, Canada, and northern parts of the United States and Japan. Unlike other [[cancer-medicinal-mushrooms-extraction-bioavailability]], the commercially used part is not the fruiting body but a dense mass of mycelium and wood that has been infected and transformed by the fungus over years or decades.
+Chaga (Inonotus obliquus) is a sterile conk (sclerotium) that grows on birch trees (Betula spp.) in cold climates across the Northern Hemisphere — Siberia, Scandinavia, Canada, and northern parts of the United States and Japan. Unlike other medicinal mushrooms, the commercially used part is not the fruiting body but a dense mass of mycelium and wood that has been infected and transformed by the fungus over years or decades.
 
 ### Active Compounds
 
@@ -30,7 +30,7 @@ Chaga (Inonotus obliquus) is a sterile conk (sclerotium) that grows on birch tre
 
 **Superoxide dismutase (SOD)**:
 - Chaga contains a form of SOD, one of the body's most important antioxidant enzymes
-- SOD catalyzes the conversion of superoxide radicals (damaging) to [[cervantes-hydrogen-peroxide-sterilization]] and oxygen
+- SOD catalyzes the conversion of superoxide radicals (damaging) to hydrogen peroxide and oxygen
 - Chaga SOD is one of the highest natural sources of this enzyme
 
 **Other**: polyphenols, triterpenoids (inotodiol, trametenolic acid), lanosterol, ergosterol, and various minerals
@@ -40,7 +40,7 @@ Chaga (Inonotus obliquus) is a sterile conk (sclerotium) that grows on birch tre
 **Antioxidant** (most prominent property):
 - Among the highest antioxidant activities of any natural substance, as measured by ORAC (Oxygen Radical Absorbance Capacity) and other assays
 - Melanin provides broad-spectrum free radical scavenging
-- SOD provides enzymatic [[blesching-cannabis-oxidative-stress-and-antioxidant-defense]]
+- SOD provides enzymatic antioxidant defense
 - Protects cells from oxidative stress-mediated DNA damage
 
 **Anti-tumor**:
@@ -78,7 +78,7 @@ Human clinical data is more limited than for [[turkey-tail-mushroom-cancer-resea
 Wild chaga is a slow-growing resource — the sclerotium can take 10-20 years to reach harvestable size. Overharvesting of wild chaga is a significant concern, particularly in Siberia where it has been commercially collected for centuries. Sustainable practices include:
 - Only harvesting from living birch trees (not fallen)
 - Leaving at least 30-40% of the conk to allow regrowth
-- Developing cultivated chaga production using [[cancer-medicinal-mushrooms-submerged-fermentation-production]] methods
+- Developing cultivated chaga production using submerged fermentation methods
 
 ### Traditional Use
 
@@ -87,7 +87,7 @@ Used extensively in Siberian, Russian, and Scandinavian folk medicine for centur
 ### Preparation
 
 - **Tea/decoction**: Traditional method, simmered for extended periods (hours). Extracts water-soluble components (polysaccharides, melanin).
-- **Dual extract**: Water extraction followed by [[pf-tek-alcohol-extraction-method]] captures both water-soluble (beta-glucans, melanin) and alcohol-soluble (betulin, triterpenes) components.
+- **Dual extract**: Water extraction followed by alcohol extraction captures both water-soluble (beta-glucans, melanin) and alcohol-soluble (betulin, triterpenes) components.
 - **Powder**: Dried and ground, can be added to foods or encapsulated.
 
 ## See Also
@@ -96,38 +96,3 @@ Used extensively in Siberian, Russian, and Scandinavian folk medicine for centur
 - [[reishi-mushroom-medicinal-research]]
 - [[maitake-mushroom-research]]
 - [[medicinal-mushroom-guide-chaga]]
-
-## Practical Applications
-
-The principles and techniques discussed here have wide-ranging applications
-across multiple disciplines and contexts. Practitioners and researchers
-continue to explore new ways to integrate these concepts into modern practice,
-adapting traditional knowledge to contemporary challenges and opportunities.
-
-## Key Considerations
-
-Several important factors influence the effectiveness and outcomes described
-in this topic. Understanding these considerations helps practitioners make
-informed decisions and avoid common pitfalls. Environmental conditions,
-timing, and material selection all play critical roles.
-
-## Historical Context
-
-The historical development of this subject reflects centuries of accumulated
-knowledge and practical experience. From traditional methods passed down
-through generations to modern scientific approaches, the evolution continues
-to inform current best practices and research directions.
-
-## Common Challenges
-
-Practitioners frequently encounter several challenges when working with
-these concepts. Climate variability, resource limitations, and knowledge
-gaps can all affect outcomes. Addressing these challenges requires patience,
-observation, and a willingness to adapt approaches based on results.
-
-## See Also
-- [[chaga]]
-- [[inonotus-obliquus]]
-- [[mycelium]]
-- [[ergosterol]]
-- [[sterilization]]

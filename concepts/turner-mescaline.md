@@ -15,8 +15,7 @@ updated: 2026-04-26
 ## Material
 
 Mescaline is a naturally occurring psychedelic found in several cactus species, most notably:
-- **Peyote** ([[lophophora-williamsii]])
-- **San Pedro** ([[trichocereus-pachanoi]])
+- **Peyote** ([[trichocereus-pachanoi]])
 
 Several other members of the trichocereus family also contain mescaline. Mescaline belongs to the **phenethylamine** family, making it quite distinct from the other major psychedelics (LSD, psilocybin, harmaline, DMT) which are **indoles**. Many synthetic "designer" psychedelics (ecstasy/MDMA, 2C-B) are related phenethylamines.
 
@@ -28,22 +27,12 @@ T. bridgesii, T. cuzcoensis, T. fulvinanus, T. macrogonus, T. pachanoi, **T. per
 
 ## History
 
-Peyote and San Pedro are New World psychedelics. Peyote was used throughout Mexico to as far north as Texas; San Pedro in the Andes mountain region of [[guzman-psilocybin-mushrooms-south-america]].
-
-- **Earliest San Pedro depiction**: stone tablet in Peru, **1300 B.C.**
-- **Earliest Peyote ritual objects**: **500 B.C.**
-- **Peyote introduction to U.S./Canada**: late 1800s
-- **[[halpern-sacramental-peyote-and-native-american-church]] Church founded**: 1918 (to preserve right to use Peyote)
+Peyote and San Pedro are New World psychedelics. Peyote was used throughout Mexico to as far north as Texas; San Pedro in the Andes mountain region of [[halpern-sacramental-peyote-and-native-american-church]] Church founded**: 1918 (to preserve right to use Peyote)
 - **Mescaline first extracted/isolated**: 1896 (first psychedelic compound extracted)
 - **Mescaline first synthesized**: 1919 (first psychedelic synthesized)
 - **The Doors of Perception**: 1953, Aldous Huxley brought mescaline to public attention
 
-Today, natives throughout [[psilocybin-north-america-pacific-northwest]] still perform sacred Peyote rituals. In South America, shamans continue traditional San Pedro ceremonies associated with healing, imparting/counteracting witchcraft, and supernatural/divinatory powers.
-
-## Sources
-
-### Peyote
-- Illegal for all but [[metzner-peyote-ceremonies-native-american-church-and-huichol-traditions]] members in the U.S.
+Today, natives throughout [[metzner-peyote-ceremonies-native-american-church-and-huichol-traditions]] members in the U.S.
 - Seldom seen in the underground
 - Growing shortage for Native American population (a typical 2" button may require 20 years)
 - Extremely bitter taste
@@ -88,3 +77,73 @@ Today, natives throughout [[psilocybin-north-america-pacific-northwest]] still p
 
 ### San Pedro Preparation Method
 1. Cut out spines (fairly easy on most trichocereus)
+
+## Overview
+
+Turner Mescaline represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish turner mescaline
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving turner extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Turner Mescaline finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for turner mescaline. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+turner mescaline and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Turner Mescaline has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of turner mescaline into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.

@@ -53,20 +53,7 @@ Reputed to be the best firewood in Africa. The dark wood has a specific gravity 
 
 ## Relevance to Cultivation and Permaculture
 
-Mopane is an exceptional pioneer species for harsh, degraded sites with poor drainage and saline soils in arid and semi-arid regions. Its nitrogen-fixing ability (as a legume) improves soil fertility. The coppicing habit makes it suitable for sustainable fuelwood production on a rotation basis. It is particularly valuable in silvopastoral systems where its retained leaf nutrients provide critical dry-season fodder. [[mollison-lawn-reform-and-alternatives-in-permaculture-design]], mopane serves as a windbreak, soil stabiliser, and multifunctional tree for arid African landscapes.
-
-## Cultivation Notes
-
-- Not frost-hardy in areas with heavy freezes
-- Best established where grass competition is managed
-- Suited to low-rainfall zones (125-800 mm)
-- Tolerates extreme soil conditions including compaction and salinity
-- Coppices vigorously, enabling repeated harvest cycles
-- Young trees may need protection from grazing animals
-
-## Related Species
-
-- [[dalbergia-sissoo]] (sissoo) - another leguminous tree for arid zones
+Mopane is an exceptional pioneer species for harsh, degraded sites with poor drainage and saline soils in arid and semi-arid regions. Its nitrogen-fixing ability (as a legume) improves soil fertility. The coppicing habit makes it suitable for sustainable fuelwood production on a rotation basis. It is particularly valuable in silvopastoral systems where its retained leaf nutrients provide critical dry-season fodder. [[dalbergia-sissoo]] (sissoo) - another leguminous tree for arid zones
 - Acacia spp. - nitrogen-fixing arid-zone pioneers
 - Tamarix spp. - salt-tolerant trees (with salinisation risks)
 - Colophospermum is monotypic - no other species in the genus
@@ -89,17 +76,9 @@ levels, and climate conditions typical of its ecological niche.
 
 ## Ecological Role
 
-Colophospermum Mopane plays important [[fungal-melanin-biosynthesis-ecological-functions]] including soil stabilization,
-habitat provision for wildlife, and contribution to local biodiversity.
-These [[biodiversity-of-fungi-ecosystem-services-agriculture]] make it valuable for [[tropical-rainforest-seedling-mycorrhiza-ecological-restoration]] and
-permaculture applications.
-
-## Cultivation and Uses
-
-Traditional and modern uses of Colophospermum Mopane span food production, [[comparison-vetiver-grass-vs-bamboo-for-erosion-control]],
+Colophospermum Mopane plays important [[biodiversity-of-fungi-ecosystem-services-agriculture]] make it valuable for [[comparison-vetiver-grass-vs-bamboo-for-erosion-control]],
 and ornamental horticulture. Cultivation requirements include appropriate
 soil conditions, water management, and climate considerations.
 ## See Also
-- [[coastal-permaculture-plants]]
 - [[coastal-edible-plants-permaculture]]
 - [[coastal-gardening]]

@@ -38,18 +38,7 @@ were diagnosed with breast cancer.
 ### Anandamide and Early Discoveries
 
 In 1998, researchers from Naples, Italy, discovered that the endogenous
-cannabinoid anandamide blocks human breast [[blesching-cannabis-apoptosis-and-cancer-cell-death]] growth in vitro. By 2000,
-a mechanism was identified: cannabinoids suppressed certain growth factors and
-prolactin receptors, inhibiting certain types of breast cancer cell lines.
-
-### Cannabidiol (CBD) as Anti-Cancer Agent
-
-A 2006 Italian team compared anti-tumor properties of five individual
-cannabinoids to whole cannabis extract. Cannabidiol emerged as the most potent
-anti-breast cancer substance, on par with the cannabidiol-rich whole plant
-extract. The authors wrote: "our experiments indicate that the cannabidiol
-effect is due to its capability of inducing apoptosis via elevation of
-intracellular Ca2+ and [[reactive-oxygen-species-and-oxidative-stress]]."
+cannabinoid anandamide blocks human breast [[reactive-oxygen-species-and-oxidative-stress]]."
 
 ### THC and Cell Cycle Blockade
 
@@ -62,32 +51,7 @@ cancer."
 
 ### CBD and Metastatic Breast Cancer
 
-A 2007 [[shipibo-san-francisco-ceremonial-center-ucayali]] team examined cannabinoids in aggressive, rapidly
-spreading breast cancer. Scientists reported: "CBD represents the first
-nontoxic exogenous agent that can significantly decrease Id-1 expression in
-metastatic breast cancer cells leading to the down-regulation of tumor
-aggressiveness."
-
-### Genetic Regulation
-
-Spanish researchers discovered that cannabinoids therapeutically influence a
-genetic component in breast cancer progression. Cannabinoids regulate a protein
-called transcription factor jun-D (encoded in the JUND gene), where jun-D
-activation reduces cancer cell proliferation, pointing to a new target for
-inhibiting breast cancer progression.
-
-## Study Summary
-
-| Drugs              | Study        | Key Results                                   | CHI |
-|--------------------|--------------|-----------------------------------------------|-----|
-| THC                | Lab/animal  | Reduces breast cancer cell proliferation      | 3   |
-| CBD                | Lab/animal  | First nontoxic agent decreasing aggressiveness | 3   |
-| THC                | Laboratory   | Reduces breast cancer cell proliferation       | 1   |
-| CBD, CBG, CBC      | Animal study | CBD most potent anti-breast cancer substance   | 2   |
-| Anandamide         | Laboratory   | Inhibits prolactin-responsive cancer cells     | 1   |
-| Anandamide         | Laboratory   | Blocks human breast cancer cell growth         | 1   |
-
-Total [[blesching-cannabis-prostate-cancer-chi-value-3]]: 11 (6 studies reviewed)
+A 2007 [[blesching-cannabis-prostate-cancer-chi-value-3]]: 11 (6 studies reviewed)
 
 ## Practical Applications
 
@@ -118,8 +82,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[anandamide]]
 - [[blesching-cannabis-prostate-cancer-cb1-cb2-receptor-targeting-research]]
-- [[blesching-cannabis-infectious-agents-cancer]]
 - [[blesching-cannabis-apoptosis-and-cancer-cell-death]]
 - [[blesching-cannabis-colon-cancer]]

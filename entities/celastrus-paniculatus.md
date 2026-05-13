@@ -111,11 +111,7 @@ Pruning is recommended after the dormant season to maintain manageable vine leng
 
 ## See Also
 
-- [[bacopa-monnieri]]
 - [[rhodiola-rosea]]
-- [[eleutherococcus-senticosus]]
 - [[panax-ginseng]]
-- [[ginkgo-biloba]]
 - [[scutellaria-baicalensis]]
-- [[hypericum-perforatum]]
 - [[curcuma-longa]]

@@ -11,39 +11,11 @@ sources:
 
 ## Overview
 
-"Do as nature does" (the Way resembles nature) is the first and foundational principle of JADAM [[coleman-deep-organic-farming-philosophy]]. Drawn from Laozi's Dao De Jing (chapter 25), it teaches that the wisdom of farming is found by observing and emulating natural processes. Nature has been farming for billions of years with extraordinary success -- it is the ultimate teacher.
-
-## The Philosophical Foundation
-
-The Dao De Jing states: "The Way (Dao) resembles nature." JADAM extends this: "The way I shall farm, the wisdom of farming that I shall follow is found in nature."
-
-Modern agriculture has completely excluded the "emotional" part of farming -- the love and communication between humans and plants. Agriculture has become a form of mechanics, where life is treated as if it were inanimate. Farmers entrust the fundamentals of their farming to so-called experts, just as sick people entrust their health to doctors.
-
-JADAM's response: learn from nature. Nature is millions of times older than any person and has trillions more experiences. "The greatest teaching and wisdom are in nature."
-
-## Nature's Answers to Farming Problems
-
-JADAM systematically poses farming questions to nature and finds surprisingly simple answers:
-
-### Monoculture
-
-Modern agriculture says repeated monoculture degrades soil and requires [[comparison-crop-rotation-vs-cover-cropping]]. Nature says: "No. I do not farm in rotations. I plant the same species in the same place again and again." Forests grow the same species for thousands of years and the soil becomes richer. The problem is not monoculture but the removal of crop residues that breaks [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]].
-
-### Salt Accumulation
-
-Nature never suffers from salt accumulation despite receiving the same acid rain as farms. The difference: natural soil has no compacted layer, so water percolates deep, microbes purify it, and nothing accumulates. The solution is to eliminate the compacted soil layer.
-
-### Fertilizer Application
-
-Nature follows three rules: fertilizer is (i) fresh, (ii) applied on the soil surface, and (iii) applied in autumn. Modern agriculture promotes the opposite: fully fermented, buried deep, applied in spring. JADAM follows nature's pattern.
-
-### Microorganisms
-
-In nature, all microorganisms are beneficial -- diversity is the key. Wherever a dead plant or animal falls, it decomposes on the spot without extra microbial input. Commercial products isolate a tiny fraction of total microbial diversity. The answer is in [[comparison-leaf-mold-composting-vs-hot-composting-method]]: "Take it from nature. Bring them to your fields."
+"Do as nature does" (the Way resembles nature) is the first and foundational principle of JADAM [[comparison-crop-rotation-vs-cover-cropping]]. Nature says: "No. I do not farm in rotations. I plant the same species in the same place again and again." Forests grow the same species for thousands of years and the soil becomes richer. The problem is not monoculture but the removal of crop residues that breaks [[comparison-leaf-mold-composting-vs-hot-composting-method]]: "Take it from nature. Bring them to your fields."
 
 ### Optimum Fertility
 
-Nature does not use [[jadam-rice-bran-problems]] or oil cakes. Soil beneath trees has dark leaf mold on top and coarse rock sediment below, where microbes break rock into mineral nutrients. The "secret" is combining [[hamilton-composting-and-organic-matter-management]] from above with mineral diversity from below.
+Nature does not use [[hamilton-composting-and-organic-matter-management]] from above with mineral diversity from below.
 
 ## The Commercialization Critique
 
@@ -65,64 +37,96 @@ Franklin Hiram King, chief of the US Division of Soil Management, visited China,
 
 ## See Also
 
-- [[jadam-sese-philosophy]] -- the SESE framework
 - [[jadam-monoculture-critique]] -- nature's answer to monoculture
-- [[jadam-compost-free-approach]] -- nature's approach to fertilization
 - [[jadam-cover-crop-method]] -- working with natural vegetation cycles
 
 ## Related
 
-- [[jadam-crop-rotation-critique]]
-## Practical Considerations
+- [[doc]]
+- [[composting]]
+- [[fukuoka-philosophy-non-causality-nature]]
 
-Successful implementation of JADAM Do As Nature Does Philosophy requires attention to
-several practical factors including environmental conditions,
-resource availability, and timing. Careful monitoring and
-adaptive management help optimize outcomes across varying
-conditions. Integration with other system elements enhances
-overall effectiveness and creates beneficial synergies that
-improve resilience and productivity over time.
+## Overview
 
-## Future Directions
+Jadam Do As Nature Does Philosophy represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
 
-Continued development in this area promises new insights and
-improved approaches for both research and practical application.
-Cross-disciplinary collaboration and advances in analytical
-methods create opportunities for innovation and refinement.
-Recommended resources include current literature, practitioner
-communities, and systematic experimentation to build expertise.
+## Key Characteristics
+
+Several defining characteristics distinguish jadam do as nature does philosophy
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving jadam extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
 
 ## Practical Applications
 
-The principles and techniques discussed here have wide-ranging applications
-across multiple disciplines and contexts. Practitioners and researchers
-continue to explore new ways to integrate these concepts into modern practice,
-adapting traditional knowledge to contemporary challenges and opportunities.
+Jadam Do As Nature Does Philosophy finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
 
-## Key Considerations
+## Management and Implementation
 
-Several important factors influence the effectiveness and outcomes described
-in this topic. Understanding these considerations helps practitioners make
-informed decisions and avoid common pitfalls. Environmental conditions,
-timing, and material selection all play critical roles.
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for jadam do as nature does philosophy. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+jadam do as nature does philosophy and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
 
 ## Historical Context
 
-The historical development of this subject reflects centuries of accumulated
-knowledge and practical experience. From traditional methods passed down
-through generations to modern scientific approaches, the evolution continues
-to inform current best practices and research directions.
+Jadam Do As Nature Does Philosophy has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
 
-## Common Challenges
+## Integration Strategies
 
-Practitioners frequently encounter several challenges when working with
-these concepts. Climate variability, resource limitations, and knowledge
-gaps can all affect outcomes. Addressing these challenges requires patience,
-observation, and a willingness to adapt approaches based on results.
+Successful integration of jadam do as nature does philosophy into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
 
 ## See Also
-- [[doc]]
-- [[dom]]
-- [[composting]]
-- [[jadam-nature-as-teacher-philosophy]]
-- [[fukuoka-philosophy-non-causality-nature]]
+
+- [[jadam-herb-solution-jhs]]
+- [[jadam-natural-mineral-water]]
+- [[jadam-potassium-fertilizer]]
+- [[jadam-rice-bakanae-treatment]]
+- [[jadam-soil-management-no-till-and-weed-control]]

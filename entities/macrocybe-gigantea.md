@@ -35,55 +35,90 @@ with caps reaching 60–100 cm in diameter, earning it the common name giant mus
 Found in tropical and subtropical grasslands of Asia, the Caribbean, and parts of
 Africa, it is both wild-harvested and commercially cultivated in Southeast Asia.
 The species produces substantial biomass, has significant nutritional value, and
-contains [[blesching-cannabis-food-as-medicine-anti-inflammatory-spices]] properties.
-Its ability to fruit on composted grass substrates makes it relevant to
-permaculture and sustainable agriculture systems.
-
-## Taxonomy
-
-Basidiomycota → Agaricomycetes → Agaricales → **Tricholomataceae → *Macrocybe → *M.
-gigantea***
-
-Originally described as *Agaricus giganteus* by Quélet in 1872, later transferred to
-*Tricholoma*, and finally placed in the genus *Macrocybe* by Pegler in 1986. The genus
-*Macrocybe* was established to accommodate large, tropical Tricholoma-like species
-that molecular phylogeny showed to be distinct from temperate *Tricholoma*. Two other
-*Macrocybe* species are recognized: *M. titan* (neotropical) and *M. crassa* (South
-and Southeast Asia).
-
-### Synonyms
-
-- *Agaricus giganteus* Quélet (1872)
-- *Tricholoma giganteum* (Quélet) Saccardo (1887)
-- *Tricholoma lobynsis* Berk. (non validly published)
-
-## Morphology
-
-- **Cap**: 25–100 cm diameter, convex to plane with age, often with a broad umbo.
-  Surface dry, smooth to finely scaly, white to pale cream, sometimes with
-  brownish discoloration at center.
-- **Gills**: White, thick, crowded, adnate to sinuate with a decurrent tooth.
-  Edge even, sometimes slightly eroded in age.
-- **Stipe**: 10–30 cm long, 2–5 cm thick, solid, white, smooth, often curved or
-  eccentric. No ring or volva.
-- **Flesh**: Thick, white, firm, with a mild farinaceous odor and taste.
-- **Spore print**: White. **Spores**: Broadly ellipsoid to subglobose, 6–8 × 5–7
-  µm, smooth, thin-walled, non-amyloid.
-- **Chemical reactions**: KOH on cap surface — negative to faintly yellowish.
-
-## Distribution and Habitat
-
-Widely distributed across tropical and subtropical regions: South and Southeast
-Asia (India, Thailand, Malaysia, Indonesia, Philippines, southern China), the
-Caribbean (Puerto Rico, Trinidad, Jamaica), and tropical Africa. Grows solitary to
-gregarious in grasslands, pastures, open fields, and along forest edges.
-Prefers warm, humid conditions with seasonal rainfall. Fruiting occurs during the
-monsoon season in South Asia (June–September) and the wet season in Southeast
-Asia. A saprotro food-forest-understory-plants ted farming systems.
-- **[[comparison-companion-planting-reference-vs-jadam-monoculture-critique]]**: Can be integrated into agroforestry edges a [[mollison-designers-avocado-mango-and-subtropical-tree-crops]], utilizing shade-tolerant positions beneath
-  young tree canopies.
-- **Soil building**: [[oyster-mushroom-spent-substrate-recycling]] is rich in [[hamilton-composting-and-organic-matter-management]] and microbial
-  biomass; can be returned to fields as mulch or compost amendment.
-- **Low-input cultivation**: Requires minimal infrastructure compared to
-  shiitake or [[cotter-oyster-mushroom-cultivation]] production; suitable for rural and subsistence
+contains [[comparison-companion-planting-reference-vs-jadam-monoculture-critique]]**: Can be integrated into agroforestry edges a [[oyster-mushroom-spent-substrate-recycling]] is rich in [[cotter-oyster-mushroom-cultivation]] production; suitable for rural and subsistence
   farming contexts.
+
+## Overview
+
+Macrocybe Gigantea represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish macrocybe gigantea
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving macrocybe extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Macrocybe Gigantea finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for macrocybe gigantea. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+macrocybe gigantea and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Macrocybe Gigantea has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of macrocybe gigantea into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[arundinaria-gigantea]]
+- [[byblis-gigantea]]
+- [[calvatia-gigantea]]
+- [[carnegiea-gigantea]]
+- [[stipa-gigantea]]

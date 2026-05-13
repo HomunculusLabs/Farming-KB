@@ -26,9 +26,8 @@ sources:
 Blackberry Kush is an indica-dominant cannabis strain renowned for its deep
 purple bud coloration, sweet berry aroma, and heavily sedative effects. Though
 its exact lineage remains debated, it is widely accepted as a cross between
-an Afghani indica and [[beta-caryophyllene-dietary-cannabinoid]], [[cannabis-hindu-kush-strain-description-clarke]]
+an Afghani indica and [[cannabis-hindu-kush-strain-description-clarke]]
 
-- [[granddaddy-purple]] — Fellow purple indica with overlapping effects profile
 - [[northern-lights]] — Heritage indica; similar sedative profile
 - [[myrcene]] — Dominant terpene responsible for sedative effects
 ## Practical Applications

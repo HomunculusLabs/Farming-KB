@@ -13,33 +13,17 @@ sources:
 
 **Updated:** 2026-04-18
 
-[[intercropping-systems]] were being replaced by monocultures
-- Local farmers were becoming dependent on purchased inputs they could barely afford
-
-## Africa
-
-Fukuoka visited several African countries and observed the devastating effects of both colonial agricultural policies and modern "development" approaches:
-
-- Colonial agriculture had introduced monoculture cash crops that depleted soil
-- Modern agricultural "aid" promoted [[knf-vs-chemical-farming-comparison]] without understanding local conditions
-- [[fukuoka-seed-ball-one-seed-technique]] to revegetate degraded land
-- Broadcast seed balls containing local plant species over barren areas
-- Demonstrated that vegetation could be re-established without irrigation, plowing, or chemical inputs
-- The project showed that natural [[natural-farming-principles-fukuoka]] could be applied in tropical conditions very different from Japan
+[[knf-vs-chemical-farming-comparison]] without understanding local conditions
+- [[natural-farming-principles-fukuoka]] could be applied in tropical conditions very different from Japan
 
 ## India
 
 Fukuoka's ideas resonated deeply in India:
 
-- India had a strong tradition of [[coleman-deep-organic-farming-philosophy]] and natural philosophy
-- The Green Revolution had transformed [[fukuoka-indian-agriculture-observations]] but also created dependency on chemicals
+- India had a strong tradition of [[fukuoka-indian-agriculture-observations]] but also created dependency on chemicals
 - Many Indian farmers and activists embraced Fukuoka's methods as an alternative
 - The philosophical aspects of his teaching (non-action, harmony with nature) aligned with Hindu and Buddhist concepts
-- His [[fukuoka-road-critique-of-modern-science]] agriculture spoke to farmers experiencing the failures of the Green Revolution
-
-## Desert Greening Projects
-
-Fukuoka's most ambitious international work was his desert greening program. See [[fukuoka-desert-greening-plant-irrigation]] for detailed information on his methods. Key projects included:
+- His [[fukuoka-desert-greening-plant-irrigation]] for detailed information on his methods. Key projects included:
 
 - **East Africa:** Large-scale seed ball broadcasting in semi-arid regions
 - **Middle East:** Experimental greening in desert areas
@@ -93,29 +77,8 @@ When applying these concepts, consider regional variations, available resources,
 
 ## See Also
 
-- [[fukuoka-natural-farming-global-influence]]
 - [[fukuoka-world-of-the-bushman]]
-- [[fukuoka-world-of-nothing]]
 - [[fukuoka-textdoc-happy-hill-rice-strain-world-food]]
-- [[fukuoka-second-genesis-theory-global-seed-scattering]]
-
-## Historical Context
-
-The historical development of this subject reflects centuries of accumulated
-knowledge and practical experience. From traditional methods passed down
-through generations to modern scientific approaches, the evolution continues
-to inform current best practices and research directions.
-
-## Common Challenges
-
-Practitioners frequently encounter several challenges when working with
-these concepts. Climate variability, resource limitations, and knowledge
-gaps can all affect outcomes. Addressing these challenges requires patience,
-observation, and a willingness to adapt approaches based on results.
-
-## See Also
 - [[doc]]
-- [[dom]]
 - [[det]]
-- [[bill-mollison]]
 - [[permaculture]]

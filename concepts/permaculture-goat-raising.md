@@ -7,56 +7,14 @@ tags: [permaculture, design]
 sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
-# [[permaculture-design]] system. They are kept primarily for milk and meat production.
-## Role in the System
-Goats clear the toughest unwanted vegetation and can be temporarily used by penning them or tying them with a halter, moving them from place to place. However, they can be so destructive that keeping more than one goat per family member is unnecessary. If using lactating goats to clear pasture, supplement with grain to maintain milk production.
-## Housing and Fencing
-- Fence at least 4.5 feet (1.4 meters) high
-- [[fukuoka-agriculture-tomorrow-quarter-acre-vision]] (0.1 hectare) per goat
+# [[fukuoka-agriculture-tomorrow-quarter-acre-vision]] (0.1 hectare) per goat
 - Wrap trees with chicken wire to prevent bark stripping
 - No gaps wider than 8 inches (20 cm); if goats can't see through, they won't try to escape
 - Goats can unlock standard latches with their tongue -- padlocks may be necessary
 - If a goat tries to escape, use a Y-shaped yoke temporarily
 - Housing: any sturdy three-sided shed in their pasture, or 36 square feet (3.3 square meters) per goat in a barn with clean hay bedding
 ## Feeding
-Each goat needs about 4-5 pounds (1.8-2.3 kg) of hay per day of mixed grass and legumes such as [[permaculture-composting]]|alfalfa -- about half a bale per 10 goats, twice a day. Goats on overgrown pasture will eat less hay. They also need salt and water at all times. Goats won't lick a salt block, so provide loose mineralized salt.
-Goats themselves control their own worms by eating higher leaves first and working their way down, wandering far distances over pasture. The [[fukuoka-black-wattle-fertilizer-tree-method]] of [[nightshade-plants-entheogen]], buckthorn, cowbane, dog's mercury, foxglove, greater celandine, hemlock trees, henbane, ragwort, rhododendron, rhubarb leaves, spindle, water dropwort, yew, iris, azalea, beet leaves, evergreen trees.
-## Breeding
-### Breeding Schedule
-- Start October 1st: feed breeding does a quarter pound of grain per day
-- Increase quarter pound per week until November 1st (1 pound/day total)
-- This increases chances of twins and triplets
-- Taper off grain starting December 15th for healthy older does
-- Bring grain back up February 15th (six weeks before kidding)
-- First-time breeders keep eating grain throughout
-Breed does 149 days (5 months) before you want kids. Ideal kidding: April 1st, so breed November 1st. Don't breed does under 70 pounds or younger than 2 years. One buck can service 50 does (30 are easier to handle). Does show heat by sniffing, tail-wagging toward the buck pen, and making noise.
-## Kidding
-When a doe is close to kidding, check every morning. Provide a barn floor with dry bedding. Clean the kid's nose and mouth at birth, otherwise leave her alone unless: water breaks with no progress after 2 hours, great pain with nothing after 30 minutes, or total exhaustion with nothing after 15 minutes.
-Kids should stand up right away and nurse within 15 minutes. If they can't, hold the teat in their mouth. If they still won't suck, squirt milk in their mouth and try again in 3-4 hours. Never feed a kid cold milk. Don't keep a kid away from the mother for more than 6 hours or she may reject it. Keep the family separate from the herd for 3-5 days.
-## Milking
-An average doe produces about 3 quarts of milk per day (1.5 quarts goes to kids, 1.5 for you). Stainless steel seamless equipment is best. Check for mastitis weekly: strange milk texture (flakes, lumps, strings), tumors, hard areas, or abscesses. To prevent "goaty" taste, keep a pan of baking soda full in the feed trough. Any goat eating grain should have baking soda to avoid acidosis.
-## Goat Health and Common Diseases
-Goats are generally hardy animals, but they are susceptible to several conditions that require regular monitoring and preventive care.
-Vaccination essentials:
-- CD-T vaccine (Clostridium perfringens types C and D plus tetanus): give to all goats annually; especially critical for kids
-- Pneumonia vaccine: recommended in herds with respiratory disease history or in wet, permaculture-cattle-raising
-## Practical Considerations
-
-When working with Permaculture Goat Raising, several practical factors should be
-carefully considered to achieve optimal results. These include
-the specific conditions of the implementation context, available
-resources, timing requirements, and the interactions between this
-topic and other elements of the broader system. A holistic view
-that considers these interconnections produces better outcomes.
-
-Environmental conditions such as temperature, moisture, and
-seasonal patterns significantly influence results. Monitoring these
-variables and adapting practices accordingly is essential for success.
-The most effective practitioners develop keen observation skills and
-respond flexibly to changing conditions rather than following rigid
-protocols regardless of circumstances or local variation.
-
-[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
+Each goat needs about 4-5 pounds (1.8-2.3 kg) of hay per day of mixed grass and legumes such as [[fukuoka-black-wattle-fertilizer-tree-method]] of [[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -89,3 +47,88 @@ and [[analytical-methods-psilocybin-psilocin-quantification]] offer opportunitie
 that can enhance both the effectiveness and efficiency of implementation.
 
 Integration with other disciplines and approaches creates synergies that
+
+## Overview
+
+Permaculture Goat Raising represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish permaculture goat raising
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving permaculture extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Permaculture Goat Raising finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for permaculture goat raising. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+permaculture goat raising and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Permaculture Goat Raising has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of permaculture goat raising into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[holzer-permaculture-landscape-design]]
+- [[permaculture-design-concepts-and-methods-overview]]
+- [[permaculture-design-methods-summary]]
+- [[permaculture-design-science-concepts-themes]]
+- [[permaculture-designers-manual-wildlife-corridors]]

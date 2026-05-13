@@ -10,12 +10,7 @@ sources: []
 
 ## Overview
 
-Semiconductor band structure describes the allowed and forbidden electron energies in a crystalline semiconductor. It explains why [[gallium-arsenide]], and related materials conduct better than insulators but worse than metals under ordinary conditions.
-
-The central feature is the band gap between a filled valence band and an empty or partly populated conduction band. Electrons promoted
-across the gap behave as mobile negative carriers, while the missing valence electrons behave as mobile positive holes.
-
-Band structure connects [[quantum-mechanics-fundamentals]] to device engineering. The same energy diagram that explains optical absorption also explains
+Semiconductor band structure describes the allowed and forbidden electron energies in a crystalline semiconductor. It explains why [[quantum-mechanics-fundamentals]] to device engineering. The same energy diagram that explains optical absorption also explains
 rectifying junctions, transistors, solar cells, light-emitting diodes, photodiodes, and many failure modes in integrated circuits.
 
 Unlike a simple circuit model, band structure is spatially local. Bands can bend near surfaces, junctions, gates, and charged defects, so
@@ -43,11 +38,7 @@ can then conserve momentum while emitting or absorbing a photon efficiently.
 An indirect band gap occurs when those extrema lie at different wavevectors. A phonon is needed to conserve momentum, so radiative
 recombination is much less likely even if the energy gap is appropriate.
 
-[[semiconductor-pn-junction]] Concepts
-
-- p-n junctions
-- MOSFETs
-- [[piezoelectric-materials-and-transducers]]
+[[piezoelectric-materials-and-transducers]]
 - crystallography
 - solid-state diffusion
 

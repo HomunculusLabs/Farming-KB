@@ -9,7 +9,7 @@ updated: 2026-04-26
 
 # Natural Farming Composting Methods
 
-Natural farming employs several advanced [[korean-natural-farming]] inputs and [[bokashi]]-style designer composts and IMO-enriched composts.
+Natural farming employs several advanced [[bokashi]]-style designer composts and IMO-enriched composts.
 
 ## Fermented Mixed Compost (FMC)
 
@@ -35,8 +35,7 @@ Choose a place with:
 ### Materials
 
 - IMO-4 (10% of total materials)
-- [[hamilton-composting-and-organic-matter-management]] (oil cake, fish waste, bone meal, bean oil cake, eggshells)
-- Natural [[natural-farming-inputs-cho]] (FPJ, FAA, OHN, etc.)
+- [[natural-farming-inputs-cho]] (FPJ, FAA, OHN, etc.)
 - Shovel or mixing machine
 - Jute sacks for storage
 - Powdered oyster/crab/shrimp/eggshells (excellent calcium addition)

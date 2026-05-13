@@ -33,7 +33,7 @@ Kaolin forms through the hydrolysis and hydration of felspar minerals in igneous
 - Formed by the breakdown of aluminium silicate minerals, particularly felspars
 - The carbonates released during felspar-to-kaolin conversion make soil water a stronger carbonic acid than rain alone
 - Kaolin-rich soils tend to be low in nutrients due to extensive leaching
-- Has low cation exchange capacity (CEC) compared to other clay minerals like montmorillonite
+- Has low [[cation-exchange-capacity]] (CEC) compared to other clay minerals like montmorillonite
 - Highly stable and resistant to further weathering under acidic conditions
 - Particle size is typically less than 0.002 mm
 
@@ -72,7 +72,7 @@ Kaolin forms through the hydrolysis and hydration of felspar minerals in igneous
 
 ## References
 
-- Mollison, B. (1988). *Permaculture: A Designers' Manual*. Tagari Publications. Chapter 8: Soils.
+- Mollison, B. (1988). *Permaculture: A Designers' Manual*. [[tagari-publications]]. Chapter 8: Soils.
 - Dixon, J.B. and Schulze, D.G. (2002). *Soil Mineralogy with Environmental Applications*. SSSA Book Series.
 
 ## Environmental Impact
@@ -88,9 +88,8 @@ approaches related to kaolin in different contexts. These include
 local climate conditions, available resources, and specific management goals.
 
 ## See Also
-- [[mollison-designers-tropical-soils-and-cation-exchange-management]]
-
-- kaolin
 - [[kaolin-clay-mollison]]
-- [[coleman-claytonia-winter-harvest-cultivation]]
 - [[gadd-fungal-metal-immobilization-biomineralization-oxalate-carbonate-phosphate]]
+
+## See Also
+- [[mollison-designers-tropical-soils-and-cation-exchange-management]]

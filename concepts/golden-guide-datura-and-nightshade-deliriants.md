@@ -27,11 +27,8 @@ hallucinations, often accompanied by dangerous physical effects.
 
 The several solanaceous ingredients of medieval witches' brews, henbane,
 nightshade, belladonna, and mandrake, greatly influenced European folklore.
-Belladonna (*[[datura-stramonium]]*) is an ill-scented weedy
-annual with white to purplish flowers. Probably native to [[psilocybin-north-america-pacific-northwest]], it
-now grows in temperate and subtropical regions [[fungi-around-the-world-species-distribution]]. Toloache
-(*Datura inoxia*), a coarser climbing annual native to Mexico and
-southwestern [[dmt-containing-plants-united-states-halpern]], has a long history of use. The Aztecs called it
+Belladonna (*[[psilocybin-north-america-pacific-northwest]], it
+now grows in temperate and subtropical regions [[dmt-containing-plants-united-states-halpern]], has a long history of use. The Aztecs called it
 toloatzin. The Tarahumare still add its roots, seeds, and leaves to their
 maize beer. Zunis value the plant as a narcotic, an anesthetic, and a
 poultice for treating wounds. The Luiseños use an infusion in an initiation
@@ -65,7 +62,6 @@ medicine men who employ the drug in difficult cases of disease diagnosis,
 divination, prophecy, or witchcraft.
 ## See Also
 
-- [[golden-guide-peyote-and-mescaline-cacti]]
 - [[golden-guide-morning-glory-and-ololiuqui]]
 ## Practical Considerations
 
@@ -115,8 +111,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[psilocybin]]
 - [[hyoscyamine]]
-- [[mescaline]]
 - [[scopolamine]]
 - [[atropine]]

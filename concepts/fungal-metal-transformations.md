@@ -28,38 +28,7 @@ complexes with metal cations, increasing their mobility.
 
 Approximately one-third of natural soil fungal isolates can solubilize at least
 one metal compound, and one-tenth can solubilize all tested compounds. Organic
-acids reach millimolar concentrations near plant roots and [[saccharomyces-cerevisiae]]* are widely studied as biosorbents,
-available as industrial waste products from citric acid production and brewing.
-Biosorption works with both living and dead biomass, in pelleted or free forms,
-and can be regenerated with acids, alkalis, or chelating agents. Despite
-promising laboratory results, commercial adoption remains limited due to lower
-specificity compared to ion-exchange resins.
-
-### Intracellular Sequestration
-
-Transported metals may be sequestered by metal-binding molecules or
-compartmentalized in vacuoles. **Metallothioneins** (MTs) are low-molecular-
-weight cysteine-rich proteins (6000-10,000 Da) induced by toxic metals.
-**Phytochelatins** have the general structure (gammaGlu-Cys)n-Gly where n can
-reach 11. For cadmium, two complexes exist in *Schizosaccharomyces pombe*:
-a low-molecular-weight (gammaEC)nG-Cd complex and a higher-stability complex
-containing acid-labile sulfide (CdS crystallite core with glutathione outer
-layer). The sulfide-containing complex confers greater cadmium tolerance.
-
-### Extracellular Binding
-
-Extracellular polymeric substances and polysaccharides bind significant amounts
-of potentially toxic metals, as well as adsorbing or entrapping particulate
-metal sulfides and oxides. Siderophores released into the environment also
-contribute to extracellular metal complexation.
-
-## Oxalate Production and Metal Precipitation
-
-Unlike most metal-organic acid complexes (which are mobile), fungal oxalic acid
-production immobilizes soluble metals as insoluble oxalates. *A. niger* forms
-oxalate crystals with cadmium, cobalt, copper, manganese, strontium, and zinc.
-Copper oxalate (moolooite) forms around hyphae growing on copper-treated wood
-and in [[mycorrhizal-fungi]] ameliorate metal phytotoxicity through sequestration,
+acids reach millimolar concentrations near plant roots and [[mycorrhizal-fungi]] ameliorate metal phytotoxicity through sequestration,
 reducing metal bioavailability and translocation to host plants. Some ecotypes
 (e.g., *Glomus claroideum*) show adaptive tolerance. Fungal accumulation of
 metals may increase apparent root metal concentrations if soil conditions change
@@ -76,50 +45,91 @@ of other elements including carbon and nitrogen.
 Reduction reactions are equally important. Certain fungi reduce uranium(VI) to
 less soluble uranium(IV), potentially immobilizing radioactive contamination in
 groundwater. Chromium(VI), a highly toxic and mobile environmental contaminant,
-can be reduced to chromium(III) by [[bioremediation-fungal-biomass-biosorbent-material]], which precipitates as
-chromium hydroxide and becomes far less bioavailable. These redox capabilities
-position fungi as key agents in the natural attenuation of metal-contaminated
-sites.
+can be reduced to chromium(III) by [[comparison-soil-food-web-vs-arbuscular-mycorrhizal-fungi]] fungi (AMF) and [[mycorrhizal-fungi]]
+- [[mycorrhiza]]
+- [[fungal-metal-transformations-biosorption]]
 
-## Mycorrhizal Fungi and Metal Cycling
+## Overview
 
-[[comparison-soil-food-web-vs-arbuscular-mycorrhizal-fungi]] fungi (AMF) and [[query-what-are-ectomycorrhizal-fungi-and-which-plants-do-they-associate-with]] play central roles
-in metal cycling at the soil-root interface. Their extensive hyphal networks
-explore soil volumes far beyond the root zone, absorbing and translocating both
-essential micronutrients (zinc, copper, iron) and toxic metals (cadmium, lead,
-arsenic) from soil to host plants.
+Fungal Metal Transformations represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish fungal metal transformations
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving fungal extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
 
 ## Practical Applications
 
-The principles and techniques discussed here have wide-ranging applications
-across multiple disciplines and contexts. Practitioners and researchers
-continue to explore new ways to integrate these concepts into modern practice,
-adapting traditional knowledge to contemporary challenges and opportunities.
+Fungal Metal Transformations finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
 
-## Key Considerations
+## Management and Implementation
 
-Several important factors influence the effectiveness and outcomes described
-in this topic. Understanding these considerations helps practitioners make
-informed decisions and avoid common pitfalls. Environmental conditions,
-timing, and material selection all play critical roles.
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for fungal metal transformations. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+fungal metal transformations and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
 
 ## Historical Context
 
-The historical development of this subject reflects centuries of accumulated
-knowledge and practical experience. From traditional methods passed down
-through generations to modern scientific approaches, the evolution continues
-to inform current best practices and research directions.
+Fungal Metal Transformations has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
 
-## Common Challenges
+## Integration Strategies
 
-Practitioners frequently encounter several challenges when working with
-these concepts. Climate variability, resource limitations, and knowledge
-gaps can all affect outcomes. Addressing these challenges requires patience,
-observation, and a willingness to adapt approaches based on results.
+Successful integration of fungal metal transformations into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
 
 ## See Also
-- [[mycorrhizal-fungi]]
-- [[ectomycorrhiza]]
-- [[mycorrhiza]]
-- [[gadd-fungal-metal-transformations-biogeochemical-cycling]]
-- [[fungal-metal-transformations-biosorption]]
+
+- [[biodiversity-of-fungi-molecular-pcr-fungal-diversity]]
+- [[fungal-phylogeny-classification]]
+- [[fungal-siderophore-detection-analytical-methods]]
+- [[gadd-fungal-biodegradation-concrete-building-materials]]
+- [[singh-pulp-paper-effluent-fungal-decolorization]]

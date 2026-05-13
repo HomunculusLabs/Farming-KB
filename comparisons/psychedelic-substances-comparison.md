@@ -8,62 +8,15 @@ sources: []
 ---
 # Psychedelic Substances Comparison
 
-Understanding the key differences between major psychedelic substances is essential for harm reduction, therapeutic context, and informed decision-making. This comparison covers eight widely used psychedelic and empathogenic compounds across practical dimensions relevant to both clinical and recreational settings. For detailed compound profiles, see [[psilocybin-compound-profile]], and [[psychedelic-dose-response]].
+Understanding the key differences between major psychedelic substances is essential for harm reduction, therapeutic context, and informed decision-making. This comparison covers eight widely used psychedelic and empathogenic compounds across practical dimensions relevant to both clinical and recreational settings. For detailed compound profiles, see [[psychedelic-dose-response]].
 
 These substances vary enormously in duration (5 minutes to 16 hours), route of administration, legal status, therapeutic evidence base, and intensity of experience. No single substance is "best" — the right choice depends on the individual's goals, health status, experience level, and available support structure.
 
 ## Substance Comparison Table
 
-| Substance | Class | Typical Duration | Common Dose Range | Route | Legality (US, 2026) | Therapeutic Evidence | [[cannabis-safety-profile-and-overdose-risk]] | Set/Setting Needs |
-|-----------|-------|-----------------|-------------------|-------|---------------------|---------------------|----------------|-------------------|
-| **LSD** | Tryptamine (ergoline) | 8-12 hours | 50-200 ug | Oral | Schedule I | Strong (depression, anxiety, addiction) | High physical safety; HPPD risk rare | Moderate — long duration demands prepared environment |
-| **Psilocybin** | Tryptamine | 4-6 hours | 1-5 g dried mushrooms | Oral | Schedule I (decriminalized in some jurisdictions) | Strong (depression, end-of-life anxiety, OCD) | High physical safety; nausea common | Low-moderate — shorter duration more forgiving |
-| **DMT** | Tryptamine | 5-30 minutes | 20-60 mg (vaped) | Vaporized, oral (with MAOI) | Schedule I | Emerging (depression, addiction) | High physical safety; intense psychological risk | High — rapid onset and intensity require experience |
-| **Mescaline** | Phenethylamine | 8-14 hours | 200-500 mg (pure) | Oral | Schedule I (peyote: religious exemption) | Limited [[hofmann-lsd-clinical-research-early-studies]] | Moderate — significant nausea, cardiovascular load | Moderate — long duration; ceremony context traditional |
-| **MDMA** | Empathogen/phenethylamine | 3-6 hours | 75-125 mg | Oral | Schedule I (FDA breakthrough therapy designation) | Very strong (PTSD, social anxiety) | Moderate — neurotoxicity risk with frequent use, hydration concern | Moderate — [[blesching-cannabis-therapeutic-window-dosing]] narrow; emotional openness |
-| **Ketamine** | Dissociative (NMDA antagonist) | 30-90 minutes (IV), 1-2 hours (oral) | 0.5-1 mg/kg (IV) | IV, IM, oral, intranasal | Schedule III (FDA-approved for depression) | Very strong (treatment-resistant depression, suicidality) | Moderate — bladder toxicity with chronic abuse, addiction potential | Low-moderate — clinical setting standard; shorter duration |
-| **[[golden-guide-salvia-divinorum-and-diviner-sage]]** | Dissociative (kappa-opioid) | 5-15 minutes | 200-500 ug (40x extract) | Sublingual, vaporized | Unscheduled in many US states (varies) | Minimal clinical research | Moderate — falls, confusion; low addiction potential | Very high — sudden [[psilocybin-ego-dissolution-mechanisms]] requires sitter |
-| **Ibogaine** | Tryptamine (oneirogenic) | 12-36 hours (acute), weeks (afterglow) | 10-20 mg/kg (HCl) | Oral | Schedule I in US; legal in some countries | Moderate (addiction interruption, though risky) | Low-moderate — cardiotoxicity risk (QT prolongation) can be fatal | Very high — medical screening essential; multi-day commitment |
-
-## Duration and Onset Comparison
-
-| Substance | Onset | Come-up | Peak | Comedown | Afterglow |
-|-----------|-------|----------|------|----------|-----------|
-| LSD | 30-90 min | 60-120 min | 3-5 hours | 2-4 hours | 12-48 hours |
-| Psilocybin | 20-60 min | 30-60 min | 2-3 hours | 1-2 hours | 6-24 hours |
-| DMT (vaped) | 5-30 sec | 1-3 min | 5-15 min | 15-30 min | 1-6 hours |
-| Mescaline | 45-120 min | 60-120 min | 3-5 hours | 3-6 hours | 12-48 hours |
-| MDMA | 20-60 min | 30-60 min | 2-3 hours | 1-3 hours | 1-3 days |
-| Ketamine (IV) | 1-5 min | 5-10 min | 20-40 min | 30-60 min | 1-24 hours |
-| Salvia | 10-30 sec | 1-2 min | 5-10 min | 10-30 min | Minimal |
-| Ibogaine | 30-120 min | 2-4 hours | 4-8 hours | 12-24 hours | 1-4 weeks |
-
-## Therapeutic Applications
-
-The clinical evidence base varies dramatically across substances. MDMA-assisted therapy for PTSD has reached Phase 3 trials with strong results (MAPS). Psilocybin for depression and end-of-life anxiety has shown efficacy in multiple randomized controlled trials at Johns Hopkins, Imperial College, and Usona Institute. Ketamine (esketamine/Spravato) is FDA-approved for treatment-resistant depression. LSD shows promise in microdosing and full-dose therapy for anxiety and alcoholism. Ibogaine has demonstrated addiction interruption but carries significant cardiac risk that limits clinical adoption. DMT research is accelerating with studies on depression and near-death experience modeling.
-
-## Safety Considerations
-
-All classic psychedelics (LSD, psilocybin, DMT, mescaline) share a favorable physiological safety profile — they are non-addictive with no known lethal overdose in humans. The primary risks are psychological: challenging experiences, trauma activation, and precipitation of psychotic states in predisposed individuals. MDMA carries additional risks of serotonergic neurotoxicity with heavy or frequent use, hyponatremia from excessive water intake, and dangerous drug interactions (especially with MAOIs). Ketamine has documented bladder toxicity and psychological dependence potential with chronic use. Ibogaine requires ECG screening due to risk of fatal cardiac arrhythmias. See [[salvia-divinorum]]
-- [[psychedelic-research-legal-history-united-states]]
-- hallucinogenic-mushroom-health-risks-and-harm-reduction
-## Practical Considerations
-
-When working with Psychedelic Substances Comparison, several practical factors should be
-carefully considered to achieve optimal results. These include
-the specific conditions of the implementation context, available
-resources, timing requirements, and the interactions between this
-topic and other elements of the broader system. A holistic view
-that considers these interconnections produces better outcomes.
-
-Environmental conditions such as temperature, moisture, and
-seasonal patterns significantly influence results. Monitoring these
-variables and adapting practices accordingly is essential for success.
-The most effective practitioners develop keen observation skills and
-respond flexibly to changing conditions rather than following rigid
-protocols regardless of circumstances or local variation.
-
-[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
+| Substance | Class | Typical Duration | Common Dose Range | Route | Legality (US, 2026) | Therapeutic Evidence | [[hofmann-lsd-clinical-research-early-studies]] | Moderate — significant nausea, cardiovascular load | Moderate — long duration; ceremony context traditional |
+| **MDMA** | Empathogen/phenethylamine | 3-6 hours | 75-125 mg | Oral | Schedule I (FDA breakthrough therapy designation) | Very strong (PTSD, social anxiety) | Moderate — neurotoxicity risk with frequent use, hydration concern | Moderate — [[golden-guide-salvia-divinorum-and-diviner-sage]]** | Dissociative (kappa-opioid) | 5-15 minutes | 200-500 ug (40x extract) | Sublingual, vaporized | Unscheduled in many US states (varies) | Minimal clinical research | Moderate — falls, confusion; low addiction potential | Very high — sudden [[salvia-divinorum]]
+- [[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -105,3 +58,88 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
+
+## Overview
+
+Psychedelic Substances Comparison represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish psychedelic substances comparison
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving psychedelic extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Psychedelic Substances Comparison finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for psychedelic substances comparison. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+psychedelic substances comparison and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Psychedelic Substances Comparison has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of psychedelic substances comparison into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[metzner-therapist-experiential-prerequisite-psychedelic-therapy]]
+- [[psychedelic-combination-guide]]
+- [[psychedelic-paradigm-shifting-and-reality-reconception]]
+- [[psychedelic-plants-language-emergence-mckenna-synesthesia-hypothesis]]
+- [[psycholytic-and-psychedelic-therapy-models]]

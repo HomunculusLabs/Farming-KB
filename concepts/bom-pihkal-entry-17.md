@@ -11,16 +11,7 @@ type: concept
 
 # BOM (beta-Methoxymescaline)
 
-**[[2c-b-pihkal-entry-20]] #17**
-
-## Chemical Identity
-
-- **Full name:** beta-Methoxymescaline;
-  3,4,5,beta-tetramethoxyphenethylamine
-- **Class:** Phenethylamine (beta-methoxy derivative of mescaline;
-  member of the BOX family)
-- **Molecular formula:** C12H19NO4 (free base)
-- **Hydrochloride salt:** white [[shirota-psilocybin-crystalline-product-catalytic-hydrogenolysis]],
+**[[shirota-psilocybin-crystalline-product-catalytic-hydrogenolysis]],
   mp 198.5-199.5 °C
 - **Nitroethane intermediate:** 1-methoxy-2-nitro-1-(3,4,5-
   trimethoxyphenyl)ethane, fine cream-colored crystals,
@@ -86,11 +77,7 @@ is worthwhile remains open.
 
 BOM is named following the RBO-M convention:
 - **RBO**: indicates beta-benzyl oxygen (benzyl + oxy) on the
-  [[phenethylamine-chain-length-effects]]
-- **M**: indicates derivation from mescaline (the ring substitution
-
-## See Also
-- [[bod-pihkal-entry-14]]
+  [[bod-pihkal-entry-14]]
 
 ## Practical Applications
 
@@ -121,8 +108,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[psilocybin]]
 - [[det]]
-- [[mescaline]]
 - [[bis-tom-pihkal-entry-12]]
 - [[pihkal-entry-46]]

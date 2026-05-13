@@ -108,13 +108,8 @@ The species has received increased attention from conservation organizations sin
 
 ## See Also
 
-- [[tylecodon-reticulatus]]
 - [[tylecodon-wallichii]]
-- [[tylecodon-paniculatus]]
 - [[cotyledon-orbiculata]]
-- [[adromischus-cristatus]]
 - [[crassula-perforata]]
-- [[crassula-brevifolia]]
 - [[cotyledon-tomentosa]]
-- [[adromischus-marianiae]]
 - [[dudleya-farinosa]]

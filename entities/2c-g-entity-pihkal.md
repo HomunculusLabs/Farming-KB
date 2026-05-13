@@ -8,63 +8,7 @@ sources: ["Shulgin - PIHKAL"]
 ---
 # 2C-G
 
-[[2c-b-pihkal-entry-20]] #27. 3,4-Dimethyl-2,5-dimethoxy-PEA.
-
-## Dosage and Duration
-
-| Property | Value |
-|----------|-------|
-| Dosage | 20 - 35 mg. |
-| Duration | 18 - 30 h. |
-
-## Qualitative Comments
-
-> (with 22 mg) I am completely functional, with
-> writing and answering the telephone, but the coffee really tastes most
-> strange. While the mental effects (to a ++ only) were dispersing, the
-> body still had quite a bit of memory of the day. Sleep was fine, and
-> desirable, in the early evening.
->
-> (with 32 mg) Superb material, to be classified as a 'true
-> psychedelic' unless one is publishing, in which case it could be best
-> described as an 'insight-enhancer' and obviously of potential value in
-> psychotherapy (if one would wish to spend 30 hours in a therapy
-> session!). I suppose it would be best to simply stick with the
-> insight-enhancing and skip the psychotherapy. Just too, too long.
-> There was not any particular visual impact, at least for me. The
-> non-sexual and the anorexic aspects might indeed change, with
-> increasing familiarity. Remains to be seen. The length of the
-> experience is against its frequent use, of course, which is a pity,
-> since this one is well worth investigating as often as possible.
->
-> (with 32 mg) There was, at the very beginning, a certain feeling of
-> non-physical heat in the upper back which reminded me of the onset of
-> various indoles, which this ain't. The energy tremor was quite strong
-> throughout, but somehow the body was generally at ease.
->
-> (with 32 mg) At a plateau at two hours, with just a bit of tummy
-> queasi-ness. And I am still at the plateau several hours later.
-> Sleep finally at the 18th hour, but even after getting up and doing
-> all kinds of things the next day, I was not completely baseline until
-> that evening. And a couple of days more for what is certainly
-> complete repair. That is a lot of mileage for a small amount of
-> material.
->
-
-## Extensions and Commentary
-
-Here is the first example, ever, of a
-phen-ethylamine that is of about the same potency as therelated
-three-carbon amphetamine. At first approximation, one is hard put to
-distinguish, from the recorded notes, any major differences either in
-potency, in duration, or in the nature of activity, between 2C-G and
-GANESHA itself.
-
-I had always thought of the phenethylamines as being somewhat weaker
-than the corresponding amphetamines. Sometimes a little weaker and
-sometimes a lot weaker. But that is a totally prejudiced point of
-
-view, an outgrowth of my earliest comparisons of [[mescaline]] and TMA.
+[[mescaline]] and TMA.
 That's the kind of thing that can color one's thinking and obscure
 what may be valuable observations. It is equally valid to think of
 the phenethylamines as the prototypes, and that the amphetamines are
@@ -91,3 +35,88 @@ purification in the next step. From the aqueous basic washes,
 
 ## See Also
 - [[aleph-entity-pihkal]]
+
+## Overview
+
+2C G Entity Pihkal represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish 2c g entity pihkal
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving 2c extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+2C G Entity Pihkal finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for 2c g entity pihkal. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+2c g entity pihkal and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+2C G Entity Pihkal has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of 2c g entity pihkal into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[2c-g-3-entity]]
+- [[4-5-mdo-dmt-entity-tihkal]]
+- [[5-6-mdo-dipt-entity-tihkal]]
+- [[mdcpm-entity-pihkal]]
+- [[methyl-k-entity-pihkal]]

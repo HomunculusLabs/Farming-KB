@@ -16,18 +16,14 @@ topics:
 ## Overview
 
 Space Grape is a sativa-dominant hybrid bred by the UK's Ultra Genetics, combining
-Nebula with a Grapefruit indica father to create a strain [[dikaryon-formation-mushroom-strain-genetics]] that bridges the gap between
-sativa [[dts-multi-line-sativa-hybrid-cheeze-mk-ultra-diesel-haze]] cereb [[adverse-effects-and-harm-reduction-psilocybin]] and indica fruit-forward terpenes. With THC testing at 18% and
-[[what-a-plant-knows-photoperiodism-flowering-time-measurement]] me of approximately 70 days, Space Grape is a relatively accessible
-sativa [[dts-multi-line-sativa-hybrid-cheeze-mk-ultra-diesel-haze]]-dominant variety that works well for both indoor and outdoor cultivation. The
-strain [[dikaryon-formation-mushroom-strain-genetics]] delivers a clear, soaring high with a delicious fruity berry flavor profile,
+Nebula with a Grapefruit indica father to create a strain [[dts-multi-line-sativa-hybrid-cheeze-mk-ultra-diesel-haze]] cereb [[what-a-plant-knows-photoperiodism-flowering-time-measurement]] me of approximately 70 days, Space Grape is a relatively accessible
+sativa [[dikaryon-formation-mushroom-strain-genetics]] delivers a clear, soaring high with a delicious fruity berry flavor profile,
 making it an excellent daytime smoke for social or creative use.
 
 ## Genetic Lineage
 
 - **Female parent:** Nebula — a fast-flowering sativa known for its reliable
-  performance, good yields, and starry trichome coverage (the name "Nebula"[[mckenna-epilogue-from-grasslands-to-the-starship]] s
-  to the cosmic a [[chicken-of-the-woods]] nce of the resin-covered buds). Nebula has been a staple of
+  performance, good yields, and starry trichome coverage (the name "Nebula"[[chicken-of-the-woods]] nce of the resin-covered buds). Nebula has been a staple of
   European breeding for its man [[garden-land-size-and-food-self-sufficiency-solomon]] size and consistent results.
 - **Male parent:** Grapefruit — an indica that contributes the distinctive grapefruit
   and berry flavor profile. Grapefruit is known for its citrus-cannabis terpenes and the entourage effect enes and

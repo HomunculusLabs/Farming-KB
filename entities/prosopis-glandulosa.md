@@ -16,50 +16,7 @@ sources:
   - Burkart, A. (1976). "A monograph of the genus *Prosopis* (Leguminosae subfam. Mimosoideae)." Journal of the Arnold Arboretum 57(3-4): 219-249, 450-525.
   - Pasiecznik, N.M. et al. (2001). "The Prosopis juliflora-Prosopis pallida Complex: A Monograph." HDRA, Coventry, UK.
   - Archer, S. (1995). "Herbivore mediation of grass-woody plant interactions." Tropical Grasslands 29(4): 218-235.
-  - Felker, P. (1979). "Mesquite: An all-purpose leguminous arid land tree." In: New [[fungal-endophytes-agricultural-crops]], AAAS Symposium.
-created: 2026-04-28
----
-
-## Overview
-
-**Prosopis glandulosa** Torr., commonly known as honey mesquite, is a deciduous shrub or small tree in the family Fabaceae, subfamily Caesalpinioideae.
-
-It is native to the southwestern [[dmt-containing-plants-united-states-halpern]], Mexico, and parts of [[guzman-allen-gartz-neurotropic-fungi-central-america-caribbean]], where it is a keystone species in arid and semi-arid ecosystems.
-
-Honey mesquite is valued for its nitrogen-fixing ability, [[dighton-fungal-drought-tolerance-plant-water-relations]], edible pods, and quality hardwood, making it relevant to permaculture and [[tropical-rainforest-seedling-mycorrhiza-ecological-restoration]].
-
-## Taxonomy and Morphology
-
-### Taxonomy
-
-- **Kingdom:** Plantae
-- **Order:** Fabales
-- **Family:** Fabaceae
-- **Subfamily:** Caesalpinioideae
-- **Clade:** Mimosoid clade
-- **Genus:** Prosopis L.
-- **Species:** P. glandulosa Torr.
-- **Authority:** John Torrey (1827)
-
-The species epithet *glandulosa* refers to the glandular pubescence found on new growth.
-
-Two varieties are recognized: *P. glandulosa* var. *glandulosa* (typical honey mesquite) and *P. glandulosa* var. *torreyana* (Torrey mesquite).
-
-### Morphology
-
-Honey mesquite grows as a multi-stemmed shrub 2–5 m tall or as a single-trunked tree reaching 8–12 m.
-
-The canopy is broad and spreading, often wider than the tree is tall. The bark is dark brown, rough, and furrowed on older trunks.
-
-Branches bear paired, sharp stipular spines 1–5 cm long. Leaves are bipinnately compound, 8–20 cm long, with 1–3 pairs of pinnae, each bearing 10–25 pairs of small leaflets.
-
-Flowers are creamy-white to yellowish, borne in dense cylindrical spikes 5–10 cm long. Flowering occurs in spring and may continue through summer following rains.
-
-Fruits are linear pods 10–20 cm long and 8–12 mm wide, containing 10–20 seeds embedded in a sweet, mealy pulp.
-
-## Distribution and Habitat
-
-*P. glandulosa* is native to the southern Great Plains, southwestern United States, and northern and [[psychoactive-cacti-of-central-mexico]].
+  - Felker, P. (1979). "Mesquite: An all-purpose leguminous arid land tree." In: New [[dmt-containing-plants-united-states-halpern]], Mexico, and parts of [[dighton-fungal-drought-tolerance-plant-water-relations]], edible pods, and quality hardwood, making it relevant to permaculture and [[psychoactive-cacti-of-central-mexico]].
 
 Its range extends from Kansas and Oklahoma south through Texas, New Mexico, and Arizona into central Mexico.
 
@@ -73,18 +30,97 @@ It has been widely introduced outside its native range, including in Australia, 
 
 As a legume, *P. glandulosa* forms nodules on its roots containing rhizobial bacteria capable of atmospheric nitrogen fixation.
 
-Rates of nitrogen fixation have been estimated at 20–40 kg N per hectare per year, significantly contributing to soil fertility in nitrogen-poor [[fungal-diversity-arid-environments]].
-
-Leaf litter and root turnover add [[hamilton-composting-and-organic-matter-management]] and nutrients to the soil. The canopy creates a fertility island effect, with higher nutrient concentrations and microbial activity beneath mesquite canopies compared to surrounding open areas.
+Rates of nitrogen fixation have been estimated at 20–40 kg N per hectare per year, significantly contributing to soil fertility in nitrogen-poor [[hamilton-composting-and-organic-matter-management]] and nutrients to the soil. The canopy creates a fertility island effect, with higher nutrient concentrations and microbial activity beneath mesquite canopies compared to surrounding open areas.
 
 This island-of-fertility effect supports understory vegetation and makes mesquite a valuable component of agroforestry and silvopastoral systems.
 
 ## Permaculture and Agroforestry Applications
 
-In [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]], honey mesquite serves multiple functions: nitrogen fixation, windbreak, shade, forage, food, and fuelwood.
-
-It is an excellent pioneer species for restoring degraded [[desert-and-arid-lands-permaculture]]. Its deep taproot can reach groundwater at depths of 15–50 meters, accessing moisture unavailable to shallow-rooted species.
+In [[desert-and-arid-lands-permaculture]]. Its deep taproot can reach groundwater at depths of 15–50 meters, accessing moisture unavailable to shallow-rooted species.
 
 The pods are edible and nutritious, containing 12–16% protein, 40–50% carbohydrates, and significant minerals. They can be ground into flour for breads and porridges.
 
 Mesquite flour has a sweet, nutty flavor with a low glycemic index, making it popular in specialty food markets.
+
+## Overview
+
+Prosopis Glandulosa represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish prosopis glandulosa
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving prosopis extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Prosopis Glandulosa finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for prosopis glandulosa. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+prosopis glandulosa and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Prosopis Glandulosa has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of prosopis glandulosa into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[exidia-glandulosa]]
+- [[prosopis]]
+- [[prosopis-juliflora]]

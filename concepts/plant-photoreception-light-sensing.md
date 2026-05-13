@@ -15,31 +15,12 @@ Plants possess sophisticated light-sensing capabilities that, while fundamentall
 Light is electromagnetic radiation within a specific range of wavelengths. The visible spectrum that humans perceive spans approximately 400-700 nanometers (nm), from violet/blue at the short-wavelength end to red at the long-wavelength end. However, plants detect light across a much broader range:
 
 - **Ultraviolet (UV-B, 280-320 nm)**: Detected by the UVR8 photoreceptor; triggers protective responses including flavonoid production
-- **UV-A/[[blue-light-phototropism-red-light-photoperiodism-dual-plant-vision-system]] (320-500 nm)**: Detected by phototropins and cryptochromes; controls phototropism, stomatal opening, and [[plant-circadian-rhythms]]
+- **UV-A/[[plant-circadian-rhythms]]
 - **Green light (500-600 nm)**: Can penetrate deeper into canopy; detected by cryptochromes and potentially other receptors
-- **[[far-red-light-phytochrome-antagonism-floral-regulation]] (600-700 nm)**: Detected by phytochromes; controls germination, [[shade-avoidance-syndrome]], and [[what-a-plant-knows-photoperiodism-flowering-time-measurement]]
-- **Far-red light (700-800 nm)**: Detected by phytochromes; signals proximity of neighboring vegetation
-
-Plants can detect light levels as low as moonlight and as high as full sunlight — a dynamic range far exceeding that of human vision.
-
-## Major Plant Photoreceptors
-
-Plants use several families of photoreceptor proteins to detect different aspects of light:
-
-### Phytochromes
-Phytochromes are the most extensively studied plant photoreceptors. They exist in two interconvertible forms:
-
-- **Pr (red-light absorbing form)**: The inactive form that absorbs red light (~660 nm) and converts to Pfr
-- **Pfr (far-red absorbing form)**: The biologically active form that absorbs far-red light (~730 nm) and reverts to Pr
-
-This red/far-red reversible switching allows phytochromes to act as a molecular switch that detects the ratio of red to far-red light in the environment. Under direct sunlight, the R:FR ratio is approximately 1.2. When a plant is shaded by neighboring vegetation, the ratio drops because chlorophyll in the shading leaves absorbs red light but transmits or reflects far-red light. This drop in R:FR ratio triggers shade avoidance responses — stem elongation, upward leaf movement (hyponasty), and accelerated flowering — allowing the plant to grow toward light.
-
-Phytochromes control numerous developmental processes including:
-- [[cannabis-seed-germination]] (many seeds require red light to break dormancy)
+- **[[shade-avoidance-syndrome]], and [[cannabis-seed-germination]] (many seeds require red light to break dormancy)
 - De-etiolation (the transition from dark-grown to light-grown morphology)
 - Shade avoidance and canopy position sensing
-- Photoperiodic flowering (measurement of [[coleman-persephone-months-winter-day-length]])
-- [[cervantes-vegetative-phase]] change
+- Photoperiodic flowering (measurement of [[cervantes-vegetative-phase]] change
 
 ### Phototropins
 Phototropins are blue-light receptors that control directional growth responses:
@@ -88,3 +69,82 @@ The transition from skotomorphogenesis to photomorphogenesis (de-etiolation) is 
 Plants can detect and respond to an enormous range of light intensities:
 
 - **Very low light (moonlight, ~0.1 µmol/m²/s)**: Cryptochromes and phytochromes can still detect light at these levels, influencing circadian rhythms
+
+## Overview
+
+Plant Photoreception Light Sensing represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish plant photoreception light sensing
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving plant extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Plant Photoreception Light Sensing finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for plant photoreception light sensing. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+plant photoreception light sensing and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Plant Photoreception Light Sensing has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of plant photoreception light sensing into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also

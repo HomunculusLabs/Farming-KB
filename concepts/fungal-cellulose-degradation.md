@@ -19,9 +19,7 @@ type: concept
 Cellulose is the most abundant organic polymer on Earth and the primary
 structural component of plant cell walls. The enzymatic decomposition of
 cellulose by fungi is fundamental to global carbon cycling and is a
-cornerstone of both [[mushroom-cultivation-overview]]. Understanding fungal cellulose degradation
-mechanisms is essential for improving bioremediation technologies, biofuel
-production, and [[gourmet-medicinal-mushroom-substrate-preparation]] utilization.
+cornerstone of both [[gourmet-medicinal-mushroom-substrate-preparation]] utilization.
 
 ## The Cellulase Complex
 
@@ -56,21 +54,7 @@ of cellulase occurs with as little as 1 mg/L of cellobiose or cellulose.
 Genes for exo- and endocellulases have been isolated and characterized from
 multiple fungal species, providing improved understanding of the biochemical
 mechanisms involved. This molecular understanding has enabled genetic
-engineering approaches to enhance cellulase [[singh-enzyme-production-for-industrial-bioremediation]]
-applications.
-
-## White Rot vs. Brown Rot Mechanisms
-
-A fundamental difference exists in cellulose hydrolysis between white rot
-and brown rot fungi. Brown rots produce complete breakage of amorphous
-cellulose fibrils while white rots cause progressive decay from the fibril
-surfaces. This difference reflects their distinct ecological strategies for
-accessing cellulose within the lignocellulose matrix of wood.
-
-### Brown Rot Fenton Chemistry
-
-Brown rot fungi access cellulose in wood cell walls through generation of
-hydroxyl radicals from the reaction of [[cervantes-hydrogen-peroxide-sterilization]] with iron (Fe2+) in
+engineering approaches to enhance cellulase [[cervantes-hydrogen-peroxide-sterilization]] with iron (Fe2+) in
 the Fenton reaction. This non-enzymatic mechanism allows brown rot fungi to
 depolymerize cellulose rapidly without needing to first degrade lignin,
 which they cannot do. The hydroxyl radicals are extremely reactive and cause
@@ -78,15 +62,7 @@ extensive damage to cellulose chains throughout the cell wall.
 
 Brown rot fungi probably coevolved with coniferous trees in the northern
 taiga and temperate forests. They are economically important as agents of
-timber decay in-service. [[fungal-serpula-lacrymans-dry-rot-buildings]], the dry rot fungus, is a notable
-brown rot species that has been extensively studied, though its natural
-niche remains unknown.
-
-### White Rot Enzymatic Degradation
-
-White rot fungi degrade cellulose enzymatically while simultaneously or
-sequentially degrading lignin. Their cellulase systems work in concert with
-[[singh-ligninolytic-enzymes-fungal-bioremediation]], providing access to the cellulose embedded within the
+timber decay in-service. [[singh-ligninolytic-enzymes-fungal-bioremediation]], providing access to the cellulose embedded within the
 lignin matrix. This dual capability makes white rot fungi more versatile
 
 ## Practical Applications
@@ -118,8 +94,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[doc]]
 - [[dom]]
-- [[white-rot-fungi]]
 - [[trichoderma]]
 - [[trichoderma-reesei]]

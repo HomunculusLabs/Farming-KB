@@ -29,7 +29,7 @@ Table Mountain is a prominent flat-topped mountain forming a major landmark over
 
 ## Relevance to Cultivation and Permaculture
 
-- **Proof of condensation precipitation:** Table Mountain provides quantitative evidence that fog condensation can far exceed rainfall, validating permaculture strategies that rely on tree-planting to capture atmospheric moisture rather than depending solely on rain.
+- **Proof of condensation precipitation:** Table Mountain provides quantitative evidence that fog condensation can far exceed rainfall, validating [[permaculture]] strategies that rely on tree-planting to capture atmospheric moisture rather than depending solely on rain.
 - **Topographic water harvesting:** The mountain demonstrates how landform shape determines moisture capture, informing the design of swales, keyline systems, and tree plantings on slopes that face prevailing moist winds.
 - **Vegetation as condensation surface:** The fynbos of Table Mountain shows how plant communities adapt to and enhance moisture condensation, supporting the design principle of matching vegetation to condensation-zone conditions.
 - **Coastal site design:** For permaculture sites near coastlines with mountain or hill features, the Table Mountain example shows that the primary water source may be atmospheric rather than pluvial (rain-based), fundamentally changing the design approach.
@@ -68,13 +68,83 @@ all influence the optimal approach to implementation.
 
 ## See Also
 
-- [[fukuoka-mountain-soil-restoration]]
 - [[mollison-valley-and-mountain-climate-effects]]
-- [[mountain-gardening]]
 - [[purdue-vegetable-planting-reference-table]]
 - [[table-mountain-south-africa-mollison]]
+- [[mollison-valley-and-mountain-climate-effects]]
 
-## See Also
-- [[table-mountain-south-africa-mollison]]
-- [[purdue-vegetable-planting-reference-table]]
-- [[mollison-valley-and-mountain-climate-effects]]
+## Overview
+
+Table Mountain represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish table mountain
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving table extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Table Mountain finds practical application in multiple design contexts.
+[[permaculture-principles]] guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for table mountain. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+table mountain and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Table Mountain has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of table mountain into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.

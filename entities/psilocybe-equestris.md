@@ -14,9 +14,7 @@ sources:
 Psilocybe equestris is a bluing psilocybin-containing mushroom in the
 section Semilanceatae of the genus Psilocybe. It was described from
 European collections and is closely related to the well-known liberty
-cap, [[guzman-allen-gartz-psilocybe-semilanceata-temperate-cosmopolitan-distribution]]. The species is relatively uncommon in the
-mycological literature and remains poorly understood compared to its
-more famous congeners. It produces [[hplc-analysis-of-psilocybin-and-psilocin]] as its
+cap, [[hplc-analysis-of-psilocybin-and-psilocin]] as its
 primary psychoactive constituents and bruises blue when damaged, a
 hallmark of psilocybin-containing species.
 
@@ -60,15 +58,7 @@ The stipe is 40 to 90 mm long and 1 to 2.5 mm thick, equal to
 slightly enlarged at the base. It is fibrous, hollow, and pale
 yellowish to whitish, darkening with age or where handled. The
 surface is smooth to finely pruinose near the apex. No annulus or
-[[partial-veil-tropism-protection-before-spore-release]] is present, though a faint cortina may be observed in
-very young specimens. The stipe base often has thin, whitish
-mycelial strands attached.
-
-### Microscopic Features
-
-| Feature | Description |
-|---|---|
-| [[boil-a-bag-spore-print-technique-jarrold]] | Dark purple-brown to nearly black |
+[[boil-a-bag-spore-print-technique-jarrold]] | Dark purple-brown to nearly black |
 | Spores | Ellipsoidal to subellipsoidal, 10-14 x 6-8 µm |
 | Spore wall | Thick-walled, smooth, with a distinct germ pore |
 | Basidia | 2- and 4-spored, clavate, 14-20 x 4-6 µm |

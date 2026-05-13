@@ -22,9 +22,7 @@ sources:
 
 The species is distinguished from most other monkshoods by its climbing habit, with slender stems that twine through shrubs and over low vegetation. It can reach 1–3 meters in height with support.
 
-Like all *Aconitum* species, it contains highly toxic diterpenoid alkaloids, particularly [[aconitine]] and related compounds. The plant is among the most poisonous in the Chinese flora and requires extreme caution in handling.
-
-Despite its toxicity, *Aconitum hemsleyanum* has a history of use in traditional Chinese medicine. The processed roots are used in carefully controlled formulations for [[bay-11-medical-sativa-granddaddy-purp-pain-relief-oner]] and rheumatic conditions.
+Like all *Aconitum* species, it contains highly toxic diterpenoid alkaloids, particularly [[bay-11-medical-sativa-granddaddy-purp-pain-relief-oner]] and rheumatic conditions.
 
 The species is occasionally cultivated as an ornamental climber by specialist plant collectors. Its unusual twining habit and deep blue flowers make it a conversation piece in woodland gardens.
 
@@ -50,7 +48,7 @@ The species is most closely related to *Aconitum hemsleyanum* var. *circinatum* 
 
 *Aconitum hemsleyanum* is endemic to China, occurring in the provinces of Sichuan, Hubei, Gansu, Shaanxi, Henan, and Yunnan. It grows at elevations of 1,400–3,200 meters.
 
-The species inhabits montane coniferous and mixed forests, forest margins, and scrubby slopes. It prefers cool, moist, partially shaded conditions with humus-rich, well-drained soils.
+The species inhabits montane coniferous and mixed forests, forest margins, and scrubby slopes. It prefers cool, moist, partially shaded conditions with [[humus]]-rich, well-drained soils.
 
 Plants typically grow at the edge of forests where they can climb through adjacent shrubs for support. The twining stems require physical support to achieve their full height.
 
@@ -72,18 +70,80 @@ Symptoms of poisoning include numbness of the mouth and extremities, cardiac arr
 
 The lethal dose of aconitine in humans is estimated at 2–5 mg, equivalent to approximately 1–2 grams of fresh root. There is no specific antidote for aconitine poisoning.
 
-Traditional [[mushroom-storage-and-processing-methods]] (paozhi) involve prolonged soaking and boiling to hydrolyze the toxic diester alkaloids to less toxic monoester forms. This processing reduces toxicity by up to 90% but does not eliminate all risk.
-
-Gardeners should wear gloves when handling the plant and avoid contact with broken stems or roots. All plant parts should be kept away from children and pets.
-
-## Ethnobotany
-
-In traditional Chinese medicine, processed roots of *Aconitum hemsleyanum* are used under the name *xià shān hǔ* (下山虎). The preparation is prescribed for rheumatic pain, joint inflammation, and neuralgia.
-
-The processed material is classified as "hot" and "toxic" in TCM pharmacological theory. It is used only in small, precisely measured doses and never combined with certain other herbs.
-
-Modern pharmacological studies have confirmed anti-inflammatory and analgesic properties of the processed alkaloids. Clinical applications are limited by the narrow [[cannabis-therapeutic-index-overview]] and risk of toxicity.
+Traditional [[cannabis-therapeutic-index-overview]] and risk of toxicity.
 
 Some ethnic minority groups in Sichuan and Yunnan use the plant externally as a poultice for bruises and sprains. These applications avoid the risks associated with internal consumption.
 
 Research continues into semi-synthetic derivatives of aconitine alkaloids with reduced toxicity. Several candidate compounds show promise for [[cannabis-chronic-pain-management]].
+
+## Overview
+
+Aconitum Hemsleyanum represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish aconitum hemsleyanum
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving aconitum extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Aconitum Hemsleyanum finds practical application in multiple design contexts.
+[[permaculture-principles]] guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for aconitum hemsleyanum. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+aconitum hemsleyanum and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Aconitum Hemsleyanum has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of aconitum hemsleyanum into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions

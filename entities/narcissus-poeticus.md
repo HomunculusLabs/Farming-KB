@@ -30,55 +30,7 @@ cultural associations.
 
 Narcissus poeticus is a source of bioactive Amaryllidaceae alkaloids,
 including galanthamine (used to treat Alzheimer's disease), lycorine, and
-narciclasine. The [[permaculture-designers-manual-essential-oil-plants]] extracted from its flowers has been used in
-perfumery since the Renaissance.
-
-## Taxonomy and Morphology
-
-Narcissus poeticus was described by Carl Linnaeus in 1753. The specific
-epithet poeticus refers to its association with poetry, stemming from the
-Greek myth of Narcissus.
-
-The genus Narcissus contains approximately 50-60 species distributed across
-Europe, North Africa, and western Asia. Narcissus poeticus belongs to section
-Pseudo-Narcissus, subsection Narcissus.
-
-The plant grows from a tunicate bulb, typically 3-5 cm in diameter. The bulb
-is ovoid with a dark brown tunic and produces a single leafless flowering
-stem (scape) 20-40 cm tall.
-
-Linear, basal leaves appear before or with the flowers, measuring 20-40 cm
-long and 5-10 mm wide. They are glaucous-green, slightly channelled, and
-may persist into early summer.
-
-Each flower is solitary and fragrant, approximately 4-6 cm across. The six
-perianth segments (tepals) are pure white, reflexed at maturity, and roughly
-equal in size.
-
-The corona (cup or trumpet) is small, only about one-third the length of the
-perianth segments. It is yellow with a conspicuous red-orange margin, creating
-the species' most distinctive feature.
-
-The flowers are fragrant, producing a sweet, heavy scent. This fragrance has
-made Narcissus poeticus valuable in perfumery and as a garden plant for
-centuries.
-
-## Distribution and Habitat
-
-Narcissus poeticus is native to central and southern Europe, from France and
-Switzerland eastward through Austria, Italy, the Balkans, and Greece. Its
-range extends into the Carpathian Mountains and southern Poland.
-
-The species grows in subalpine and alpine meadows, open woodland clearings,
-and damp pastures at elevations of 300-2,000 metres. It prefers moist,
-well-drained, slightly acidic soils.
-
-In its native range, Narcissus poeticus often forms extensive naturalised
-colonies in mountain meadows. These displays are a significant tourist
-attraction in regions such as the French Alps and the Jura Mountains.
-
-The plant has been widely naturalised beyond its native range, particularly
-in the British Isles, Scandinavia, and [[polypore-fungi-eastern-north-america]]. It persists
+narciclasine. The [[polypore-fungi-eastern-north-america]]. It persists
 in old gardens, cemeteries, and along roadsides.
 
 Narcissus poeticus is one of the latest-flowering daffodil species, typically
@@ -91,3 +43,84 @@ the 16th century. It remains a popular ornamental bulb, valued for its
 
 ## See Also
 - [[garden-myths-native-plants-and-invasive-species]]
+
+## Overview
+
+Narcissus Poeticus represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish narcissus poeticus
+from related concepts in [[permaculture]] and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving narcissus extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Narcissus Poeticus finds practical application in multiple design contexts.
+[[permaculture-principles]] guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for narcissus poeticus. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+narcissus poeticus and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Narcissus Poeticus has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of narcissus poeticus into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[narcissus-pseudonarcissus]]

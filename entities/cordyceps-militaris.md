@@ -12,52 +12,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
-  - Tuli, H.S., et al. (2014). "Cordycepin and its Potential [[psilocybin-therapeutic-applications]]." Advances in Pharmacological Sciences, 2014, 693749.
-  - Das, S.K., et al. (2010). "Cordyceps militaris: A Potential Candidate for Health Benefits." Journal of Pharmacy & Bioallied Sciences, 2(4), 286-293.
-  - Holliday, J., Cleaver, M. (2008). "Medicinal Value of the Caterpillar Fungi." International Journal of comparison-chaga-vs-turkey-tail-medicinal-mushrooms-comprehensive, 10(3), 245-262.
-  - Mao, X., et al. (2021). "Cordyceps militaris: A Review of Pharmacological Functions." Frontiers in Pharmacology, 12, 653822.
-  - Sung, J.M., et al. (2007). "Cordyceps spp.: A Complete Compendium." CRC Press.
----
-
-## Overview
-
-**Cordyceps militaris** (L.) Link, known as the scarlet caterpillar club or orange caterpillar fungus, is an entomopathogenic ascomycete fungus in the family Cordycipitaceae.
-
-It parasitizes lepidopteran pupae and larvae, producing bright orange to reddish club-shaped [[bloomfield-asterophora-and-mycoparasites-of-fruiting-bodies]] from the host insect. C. militaris is the most commercially viable Cordyceps species due to its ability to be cultivated on artificial substrates, unlike the more famous [[ophiocordyceps-sinensis]].
-
-The species is valued for its production of cordycepin (3′-deoxyadenosine), a bioactive nucleoside with demonstrated anti-inflammatory, anti-tumor, and immunomodulatory properties.
-
-## Taxonomy and Morphology
-
-### Classification
-
-- **Kingdom:** Fungi
-- **Division:** Ascomycota
-- **Class:** Sordariomycetes
-- **Order:** Hypocreales
-- **Family:** Cordycipitaceae
-- **Genus:** Cordyceps
-- **Species:** C. militaris (L.) Link
-
-The species epithet *militaris* (Latin: "of soldiers") refers to the club-shaped [[bloomfield-mushroom-formation-fruiting-body-development-cultivation]] resembling a [[metzner-lsd-military-weapon-to-mystic-catalyst]].
-
-### Physical Description
-
-**Stroma (fruiting body):** 2–6 cm tall, 2–6 mm diameter, cylindrical to slightly clavate. Bright orange to reddish-orange, sometimes with paler tips. Surface smooth to finely roughened.
-
-**Perithecia:** Ostiolate, embedded in the surface of the stroma, giving it a slightly bumpy texture. Perithecial necks protrude as tiny dark dots.
-
-**Host substrate:** Typically emerges from buried lepidopteran pupae or larvae. The host is often densely covered with white mycelium before stroma emergence.
-
-**Asci:** Cylindrical, 300–400 µm long, containing 8 filiform ascospores that fragment into part-spores at maturity.
-
-**Ascospores:** Filiform, hyaline, 180–350 × 0.5–1.0 µm, breaking into cylindrical segments of 5–10 µm.
-
-C. militaris is distinguished from Ophiocordyceps sinensis by its brighter orange color, smaller size, preference for lepidopteran pupae over larvae, and distribution at lower elevations.
-
-## Distribution and Habitat
-
-Cordyceps militaris has a broad distribution across temperate and subtropical regions of the Northern Hemisphere, found throughout Europe, Asia, and [[psilocybin-north-america-pacific-northwest]].
+  - Tuli, H.S., et al. (2014). "Cordycepin and its Potential [[bloomfield-asterophora-and-mycoparasites-of-fruiting-bodies]] from the host insect. C. militaris is the most commercially viable Cordyceps species due to its ability to be cultivated on artificial substrates, unlike the more famous [[bloomfield-mushroom-formation-fruiting-body-development-cultivation]] resembling a [[psilocybin-north-america-pacific-northwest]].
 
 It is most commonly encountered in forested and meadow habitats from late spring through autumn. In East Asia, it fruits from May to October, preferring humid, shaded environments with temperatures of 18–25°C.
 
@@ -88,3 +43,88 @@ Cordycepin concentrations in cultivated fruiting bodies range from 0.5–1.5% dr
 - **N6-(2-Hydroxyethyl)adenosine (HEA):** A platelet aggregation inhibitor.
 
 ## Cultivation
+
+## Overview
+
+Cordyceps Militaris represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish cordyceps militaris
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving cordyceps extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Cordyceps Militaris finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for cordyceps militaris. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+cordyceps militaris and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Cordyceps Militaris has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of cordyceps militaris into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[comparison-cordyceps-vs-lions-mane-cultivation]]
+- [[comparison-cordyceps-vs-oyster-cultivation]]
+- [[cordyceps-insect-pathogenic-fungi]]
+- [[cordyceps-militaris-cultivation]]
+- [[entomopathogenic-fungal-diversity-cordyceps-insect-pathogens]]

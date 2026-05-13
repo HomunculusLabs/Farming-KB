@@ -15,9 +15,7 @@ sources:
 
 ## Overview
 
-The Shulgin Rating Scale is a five-level system devised by Alexander Shulgin for quantifying the subjective intensity of a psychedelic drug experience. Used throughout [[tihkal-introduction-and-methodology]], the scale ranges from +/- (threshold) to ++++ (transcendental), providing a standardized vocabulary for communicating the depth of psychoactive drug effects.
-
-The scale was developed as part of Shulgin's broader [[shulgin-dosage-guidelines]] that accompany each compound entry in PiHKAL.
+The Shulgin Rating Scale is a five-level system devised by Alexander Shulgin for quantifying the subjective intensity of a psychedelic drug experience. Used throughout [[shulgin-dosage-guidelines]] that accompany each compound entry in PiHKAL.
 
 ## The Scale Levels
 
@@ -27,21 +25,9 @@ The scale was developed as part of Shulgin's broader [[shulgin-dosage-guidelines
 
 The +/- level represents the bare minimum detectable effect — a hint that something is happening, but insufficient to confirm pharmacological activity without further testing.
 
-This level is particularly important in the [[qualitative-comments-methodology-pihkal]] that Shulgin used to characterize each compound.
+This level is particularly important in the [[psychedelic-dose-response]]. For compounds with steep dose-response characteristics, this transition can occur with a very small increase in dosage. Shulgin's careful documentation of this transition for each compound was a key contribution to the field of [[psilocybin-and-mystical-experience]], which distinguishes between ordinary [[shulgin-dosage-guidelines]].
 
-### PLUS TWO (++)
-
-"Both the chronology and the nature of the action of a drug are unmistakably apparent. But you still have some choice as to whether you will accept the adventure, or rather just continue with your ordinary day's plans (if you are an experienced researcher, that is). The effects can be allowed a predominant role, or they may be repressed and made secondary to other chosen activities."
-
-The ++ level is the "museum level" — strong enough to be unmistakably psychoactive, but manageable enough that the experienced user can maintain ordinary activities. Shulgin described a commonly used term for 2C-B at this level as "museum level" — a slightly-over-threshold state allowing public activities without attracting attention.
-
-This concept of retainable agency is important in the context of [[psychedelic-dose-response]]. For compounds with steep dose-response characteristics, this transition can occur with a very small increase in dosage. Shulgin's careful documentation of this transition for each compound was a key contribution to the field of [[mckenna-consciousness-expansion-and-drug-war]] and [[psilocybin-and-mystical-experience]], which distinguishes between ordinary [[weil-the-natural-mind-altered-states-normalcy]] and genuinely transformative experiences.
-
-## Usage in PiHKAL
-
-Every compound entry in PiHKAL Part 2 includes [[shulgin-dosage-guidelines]].
-
-The scale also appears in TiHKAL (tryptamine entries) and has been widely adopted by the broader [[mckenna-suppression-psychedelic-research-lsd-therapy]] and [[adverse-effects-and-harm-reduction-psilocybin]] communities as a standard communication tool.
+The scale also appears in TiHKAL (tryptamine entries) and has been widely adopted by the broader [[adverse-effects-and-harm-reduction-psilocybin]] communities as a standard communication tool.
 
 ## Critiques and Limitations
 
@@ -53,8 +39,7 @@ The Shulgin Rating Scale has some recognized limitations:
 - Individual variation in sensitivity means the same dose can produce different scale levels in different people
 - The scale was designed for phenethylamines and tryptamines; its applicability to other classes (e.g., cannabinoids, dissociatives) is less established
 
-Despite these limitations, the scale remains the most widely recognized system for communicating [[leary-psychedelic-experience-bardo-mapping]] intensity, referenced extensively in [[shulgin-dosage-guidelines]]
-- [[qualitative-comments-methodology-pihkal]]
+Despite these limitations, the scale remains the most widely recognized system for communicating [[shulgin-dosage-guidelines]]
 - [[shulgin-safety-principles-self-experimentation]]
 - [[psychedelic-experience-stages]]
 ## Merged: Shulgin Animal Models Psychopharmacology
@@ -88,3 +73,78 @@ Shulgin illustrated this with TMA-5: "The statement that it is psychedelic has a
 A particularly colorful example involved the isopropyl isomer DOIP. An "olive-faced M.D., Ph.D." published animal behavioral responses that he attributed to DOIP. However, "what he had studied could only have been DOPR since DOIP, at that time, had not yet been synthesized either by me, or by either of the other two active synthesists of that moment." The researcher had apparently tested the wrong compound. Shulgin applied a French phrase: "Il a foutu le camp."
 
 ### Therapeutic Index Calculations
+
+## Overview
+
+Shulgin Rating Scale represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish shulgin rating scale
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving shulgin extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Shulgin Rating Scale finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for shulgin rating scale. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+shulgin rating scale and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Shulgin Rating Scale has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of shulgin rating scale into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and

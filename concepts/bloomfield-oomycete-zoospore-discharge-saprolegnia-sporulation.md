@@ -4,38 +4,10 @@
 *Nicholas P. Money — Mr. Bloomfield's Orchard (2002)*
 
 ## Summary
-[[bloomfield-pythium-oomycete-water-molds]] produce biflagellate zoospores through an exquisitely choreographed
 [[bloomfield-oomycete-zoospore-mechanics-and-sporangial-discharge]] process. In Saprolegnia, cytoplasm is cleaved into spores within
 a pressurized sporangium, the internal membrane breaks, and spores are ejected through
 a nozzle in continuous file. Money's doctoral research demonstrated that this discharge
-is driven by residual [[bloomfield-turgor-pressure-and-hyphal-invasion]] of approximately one-hundredth of one atmosphere
-— enough to propel spores despite the near-total collapse of the sporangium. Remarkably,
-the discharge can be reversed by applying osmotic agents to the surrounding medium.
-
-## Zoospore Morphology
-
-Oomycete water molds manufacture two types of zoospore with paired flagella. The
-primary zoospore has a teardrop shape, with the flagella anchored in its pointed end.
-The secondary zoospore resembles a kidney, and its flagella wave from a groove set in
-its indented side. In both cell types the flagella are oriented the same way: one
-always aimed ahead and clothed with fringes of lateral hairs called mastigonemes; the
-other smooth and pointing rearward.
-
-The posterior flagellum oscillates and creates forward thrust like the tail of a
-tadpole. The frontal flagellum's hairs reverse the direction of thrust generated when
-waves pass along its length — the hairs pull the spore through the water like the arms
-of a swimmer doing the breaststroke. The combined push from behind and pull from the
-front propels the zoospore at speeds of up to 27 body lengths per second. To compete,
-a human would need to swim faster than 160 km/h.
-
-Unlike human swimmers who can glide (our bodies have inertia), zoospores stop dead the
-instant flagellar movement ceases because they are utterly constrained by the viscosity
-of their surroundings — they live in a world dominated by viscous forces.
-
-## Sporulation Trigger
-
-The production of zoospores involves a biochemical decision by the fungus, among whose
-cues starvation is king. In the [[mckenna-club-des-hachischins-and-nineteenth-century-literary-hashish]], Georg Klebs studied the nutritional
+is driven by residual [[mckenna-club-des-hachischins-and-nineteenth-century-literary-hashish]], Georg Klebs studied the nutritional
 requirements of water molds in three papers filling 270 printed pages. The salient
 message was that spores develop when the fungus exhausts the sugars in its growth
 medium. Starvation triggers the conversion of feeding hyphae into spore-producing
@@ -118,8 +90,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[doc]]
 - [[dom]]
-- [[spore]]
 - [[hashish]]
 - [[bloomfield-oomycete-zoospore-mechanics-and-sporangial-discharge]]

@@ -41,16 +41,7 @@ includes chemotherapy, radiation, and/or surgery.
 ### Anandamide Inhibits Cancer Growth
 
 In 2000, a laboratory experiment in Naples, Italy, demonstrated that the body's
-own cannabinoid anandamide was able to inhibit growth of both [[blesching-cannabis-breast-cancer]] and
-prostate cancer cells, suggesting endocannabinoid system involvement in cancer
-regulation.
-
-### CB1 and CB2 Receptor Expression
-
-A 2004 study from Wisconsin found that prostate cancer cells contained
-significantly higher expressions of both CB1 and CB2 receptors compared to
-healthy prostate cells. This led researchers to suggest a possible novel
-approach to treating prostate cancer through [[cannabis-cannabinoid-receptor-pharmacology]] targeting.
+own cannabinoid anandamide was able to inhibit growth of both [[cannabis-cannabinoid-receptor-pharmacology]] targeting.
 
 ### CB1 in Healthy Prostate Tissue
 
@@ -76,18 +67,7 @@ Total CHI Value: 3 (3 studies reviewed)
 Prostate cancer cells contain significantly higher expressions of both CB1 and
 CB2 receptors, prompting researchers to suggest a novel approach in treatment.
 Anandamide and THC bind relatively equally with CB1 and CB2. Sativas and
-sativa-dominant strains contain a higher THC:[[cannabis-thc-cbd-ratio-guide-for-conditions]], providing increased
-similarity to the cannabinoid profile of anandamide.
-
-## Mind-Body Medicine and Prostate Health
-
-Researchers discovered a link between psychological stress and healthy prostate
-function. A study of 83 men diagnosed with benign prostatic hyperplasia (BPH)
-revealed that stress and hostility influence prostate volume and residual urine
-volume, with effects mediated via the sympathetic nervous system and
-hypothalamic-pituitary-gonadal axis.
-
-The prostate, derived from [[ancient-greek-mystery-cults-comparison]] for "protector" or "guardian,"
+sativa-dominant strains contain a higher THC:[[ancient-greek-mystery-cults-comparison]] for "protector" or "guardian,"
 
 ## Practical Applications
 
@@ -118,8 +98,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[doc]]
 - [[dom]]
-- [[endocannabinoid-system]]
 - [[anandamide]]
 - [[blesching-cannabis-prostate-cancer-cb1-cb2-receptor-targeting-research]]

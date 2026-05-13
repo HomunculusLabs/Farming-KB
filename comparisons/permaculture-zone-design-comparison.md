@@ -8,21 +8,15 @@ sources:
   - "raw/papers/sepp-holzer-practical-guide.md"
   - "raw/papers/sepp-holzer-practical-guide.md"
 ---
-# Permaculture Zone Design Comparison Permaculture zone design organizes a property into concentric areas based on frequency of human visitation and management intensity. Zone 0 is the home center, Zone 1 is the most intensively visited and managed area, and Zone 5 is wilderness. The scale of a site determines how many zones are practical and what each zone contains. This comparison examines four common scales — urban balcony, suburban backyard, rural homestead, and farm-scale — and how zone design adapts to each. For foundational principles, see [[backyard-food-forest-design]] and broader food forest principles in [[backyard-food-forest-design]].
+# Permaculture Zone Design Comparison Permaculture zone design organizes a property into concentric areas based on frequency of human visitation and management intensity. Zone 0 is the home center, Zone 1 is the most intensively visited and managed area, and Zone 5 is wilderness. The scale of a site determines how many zones are practical and what each zone contains. This comparison examines four common scales — urban balcony, suburban backyard, rural homestead, and farm-scale — and how zone design adapts to each. For foundational principles, see [[backyard-food-forest-design]].
 
 ### Rural Homestead (Zone 0-4)
 
-Zone 0-1: House with attached greenhouse, intensive [[holzer-kitchen-garden-herbs-and-medicinal-plants]], herb spiral, propagation area, tool storage.
-Zone 1: Main vegetable gardens, berry patches, dwarf fruit trees, nursery beds, seed-saving area, composting station.
-Zone 2: Full orchard (20-80 trees), chicken/duck systems, goat browsing areas, beehives, [[holzer-mushroom-logs-mycorrhizae-and-fungi-cultivation]], [[comparison-perennial-vegetables-vs-cover-crops]] (asparagus, artichokes, rhubarb).
-Zone 3: Larger tree crops (chestnuts, walnuts, pecans), cover cropped grain plots, pastured poultry, grazing areas, coppice woodlot for fuel and [[accessible-mushroom-cultivation-for-disabilities]].
+Zone 0-1: House with attached greenhouse, intensive [[holzer-mushroom-logs-mycorrhizae-and-fungi-cultivation]], [[accessible-mushroom-cultivation-for-disabilities]].
 Zone 4: Managed woodland, foraging areas, grazing edges, wildlife corridors, timber.
 Zone 5 edge: Wild areas left for observation and wildlife habitat.
 
-Water systems become substantial: swales across slopes, ponds for irrigation and aquaculture, large rainwater cisterns, [[mollison-designers-greywater-treatment-reedbeds]] wetlands. Earthworks include terraces on slopes, access roads on contour, and [[mollison-designers-diversion-drains-and-interceptor-banks]]. See [[comparison-sepp-holzer-vs-permaculture-design]]
-
-- [[gaias-garden-cover-crops-soil-building]]
-- [[urban-permaculture-swales-raised-beds]]
+Water systems become substantial: swales across slopes, ponds for irrigation and aquaculture, large rainwater cisterns, [[mollison-designers-diversion-drains-and-interceptor-banks]]. See [[gaias-garden-cover-crops-soil-building]]
 - [[urban-permaculture-food-forest-succession]]
 ## Practical Applications
 

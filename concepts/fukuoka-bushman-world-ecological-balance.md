@@ -21,13 +21,9 @@ The nature in the background of the Bushman's life is just too poor. Fukuoka wou
 
 - The area in which the Bushman lives is barren
 
-- If the Bushman really led a primitive life and were to practice [[fukuoka-ecological-balance-principles]] and [[fukuoka-world-of-the-bushman]]
-
-- [[fukuoka-nature-perfect-imperfect]]
+- If the Bushman really led a primitive life and were to practice [[fukuoka-world-of-the-bushman]]
 
 - [[fukuoka-desert-greening-projects]]
-
-- [[fukuoka-nature-is-unknowable]]
 
 - [[fukuoka-insects-create-new-rice-varieties]]
 ## Practical Applications
@@ -96,8 +92,6 @@ through generations to modern scientific approaches, the evolution continues
 to inform current best practices and research directions.
 
 ## See Also
-- [[doc]]
 - [[det]]
-- [[fukuoka-world-of-the-bushman]]
 - [[fukuoka-ecological-balance-principles]]
 - [[fukuoka-bushman-scrabbling-existence-not-natural]]

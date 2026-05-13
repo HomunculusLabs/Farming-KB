@@ -46,25 +46,13 @@ sources:
 - *Ervatamia divaricata* (L.) Burkhill — common synonym in older botanical literature
 - *Tabernaemontana coronaria* (Willd.) — synonym in some classifications
 - **'Flore Pleno'** — double-flowered cultivar, most commonly grown ornamental form
-- **'Dwarf'** — compact cultivar reaching 0.5–1 m, popular in [[cervantes-container-gardening-pot-size]]
-- Over 60 cultivars have been described, varying in flower form (single, semi-double, double), petal arrangement, and growth habit
-
-## Botanical Description
-
-*T. divaricata* is an evergreen shrub typically reaching 1.5–2.5 m in height, occasionally forming a small tree up to 5 m. The plant has a dense, rounded crown with glossy, dark green, opposite leaves 6–15 cm long and 2–5 cm wide, oblong to elliptic with a leathery texture. The most distinctive feature is the flowers: 3–5 cm in diameter, pure white, with five twisted petals arranged in a pinwheel pattern, giving the plant its common name. Flowers are borne in terminal cymes and emit a sweet, jasmine-like fragrance, particularly in the evening. The fruit is a pair of green follicles 2–5 cm long, each containing numerous seeds with a fleshy aril. All plant parts contain a milky latex that is characteristic of the Apocynaceae.
-
-## Distribution and Habitat
-
-The species is native to India, Sri Lanka, Bangladesh, Myanmar, Thailand, and southern China. It has been widely naturalized and cultivated across tropical and subtropical regions worldwide, including the Caribbean, [[guzman-allen-gartz-neurotropic-fungi-hawaii-pacific-islands]], and parts of Africa and the Americas. In its native range, it grows in moist deciduous and semi-evergreen forests, along stream banks, and in disturbed areas at low to medium elevations (0–800 m). It thrives in well-drained, fertile soils with full sun to partial shade and is tolerant of a range of soil types including clay and limestone. The plant naturalizes readily in tropical gardens and can become somewhat weedy in favorable conditions, spreading through seed dispersal ecology and mechanisms and root suckering. In Florida and Hawaii, it has escaped cultivation and is occasionally found in disturbed habitats.
+- **'Dwarf'** — compact cultivar reaching 0.5–1 m, popular in [[guzman-allen-gartz-neurotropic-fungi-hawaii-pacific-islands]], and parts of Africa and the Americas. In its native range, it grows in moist deciduous and semi-evergreen forests, along stream banks, and in disturbed areas at low to medium elevations (0–800 m). It thrives in well-drained, fertile soils with full sun to partial shade and is tolerant of a range of soil types including clay and limestone. The plant naturalizes readily in tropical gardens and can become somewhat weedy in favorable conditions, spreading through [[seed-dispersal-ecology-and-mechanisms]] and root suckering. In Florida and Hawaii, it has escaped cultivation and is occasionally found in disturbed habitats.
 
 ## Traditional Medicinal Use
 
 *T. divaricata* has been used in Ayurvedic medicine for over 2,000 years under the Sanskrit name **"tagara"** (not to be confused with *Valeriana wallichii*, also called tagara). Key traditional applications include:
 - **Pain relief:** Latex applied topically for toothache, headache, and muscular pain
 - **Wound healing:** Leaf paste and latex applied to cuts, ulcers, and skin infections
-- **[[cannabis-respiratory-conditions]]:** Leaf decoction used for coughs, bronchitis, and asthma
-- **Fever reduction:** Root bark decoction used as an antipyretic
-- **Ophthalmic use:** Leaf juice applied for eye inflammation and conjunctivitis
 - **[[blesching-cannabis-gastrointestinal-disorders]]:** Root preparations used for dysentery and abdominal pain
 - **Antidote:** Various preparations used as an antidote for snakebite and insect stings
 
@@ -83,7 +71,80 @@ The species produces a remarkably diverse alkaloid profile with over 66 alkaloid
 
 Modern research has validated several traditional uses, with pharmacological studies spanning antimicrobial, anti-inflammatory, analgesic, and anticancer activities:
 - **Analgesic and anti-inflammatory:** Coronaridine and voacangine demonstrate significant analgesic activity in rodent models (acetic acid writhing test, hot plate test), mediated through opioid and serotonergic pathways. Anti-inflammatory effects are attributed to inhibition of COX-2 and reduction of pro-inflammatory cytokines (IL-6, TNF-α).
-- **Antimicrobial:** Crude extracts and isolated alkaloids show activity against *Staphylococcus aureus*, *Escherichia coli*, *Pseudomonas aeruginosa*, and *[[candida-albicans]]*, with MIC values ranging from 32–256 µg/mL depending on the extract and organism.
-- **Anticancer potential:** Coronaridine, tabernanthine, and conodurine exhibit cytotoxic activity against multiple cancer cell lines including breast (MCF-7), lung (A549), and hepatocellular carcinoma (HepG2) lines, with IC50 values in the low micromolar range. Apoptosis induction occurs through caspase-3 activation and mitochondrial membrane depolarization.
-- **Antioxidant:** Methanolic leaf extracts show significant DPPH and ABTS radical scavenging activity, attributed to [[ingham-tannins-terpenes-phenolic-compounds]] and alkaloids. The antioxidant capacity is comparable to that of ascorbic acid at equivalent concentrations.
+- **Antimicrobial:** Crude extracts and isolated alkaloids show activity against *Staphylococcus aureus*, *Escherichia coli*, *Pseudomonas aeruginosa*, and *[[ingham-tannins-terpenes-phenolic-compounds]] and alkaloids. The antioxidant capacity is comparable to that of ascorbic acid at equivalent concentrations.
 - **Antidiabetic potential:** Recent in vitro studies have demonstrated α-glucosidase and α-amylase inhibition by root bark extracts, suggesting potential utility in managing postprandial hyperglycemia.
+
+## Overview
+
+Tabernaemontana Divaricata represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish tabernaemontana divaricata
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving tabernaemontana extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Tabernaemontana Divaricata finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for tabernaemontana divaricata. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+tabernaemontana divaricata and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Tabernaemontana Divaricata has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of tabernaemontana divaricata into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and

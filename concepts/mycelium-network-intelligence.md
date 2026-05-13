@@ -19,7 +19,7 @@ Mycelium is the vegetative body of fungi, composed of threadlike
 hyphae that form vast, interconnected networks beneath the soil
 surface. These networks function as biological communication
 systems, processing information about the environment and
-coordinating responses across the fungal organism. Paul Stamets
+coordinating responses across the fungal organism. [[paul-stamets]]
 describes mycelium as "the neurological network of nature,"
 drawing explicit parallels between fungal networks and the
 neural architecture of animal brains.
@@ -35,17 +35,7 @@ netlike cell chains. This approach allowed fungi to colonize land
 more than a billion years ago.
 
 Fossil evidence from the Rhynie Chert in Scotland reveals that
-early plants formed [[mycelium-as-network-organism]] functions
-as a "digestive cellular membrane, a fusion between a stomach
-and a brain, a nutritional and informational sharing network."
-When entering a forest after rainfall, Stamets suggests these
-interlacing mycelial membranes "awaken," acting as a collective
-fungal consciousness that emits attractants and connects
-ecosystems through scent trails.
-
-## Sensing and Environmental Response
-
-[[fungal-mycelial-networks-nutrient-translocation]] are exquisitely sensitive to environmental
+early plants formed [[fungal-mycelial-networks-nutrient-translocation]] are exquisitely sensitive to environmental
 changes. Hikers, deer, and insects walking across these
 filamentous nets leave impressions that mycelia can sense and
 respond to. The network architecture shares striking
@@ -53,11 +43,7 @@ similarities with both neural networks and the Internet, using
 branching patterns that optimize information distribution and
 resource allocation.
 
-These [[mycorrhizal-networks]], and serve as foundation species in most
-terrestrial ecosystems. The Gaia hypothesis, proposed by James
-Lovelock and Lynn Margulis, suggests the biosphere intelligently
-pilots its course to sustain life. Stamets sees mycelium as the
-living network that manifests this [[powell-natural-intelligence-and-the-universal-computation]], acting
+These [[powell-natural-intelligence-and-the-universal-computation]], acting
 as an "exposed sentient membrane, aware and responsive to changes
 in its environment."
 
@@ -88,3 +74,77 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
+
+## Overview
+
+Mycelium Network Intelligence represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish mycelium network intelligence
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving mycelium extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Mycelium Network Intelligence finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for mycelium network intelligence. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+mycelium network intelligence and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Mycelium Network Intelligence has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of mycelium network intelligence into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource

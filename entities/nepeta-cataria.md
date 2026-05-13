@@ -10,8 +10,7 @@ tags:
   - sedative
   - carminative
   - insect-repellent
-  - [[permaculture]]
-  - [[companion-planting]]
+  - companion-planting
   - nepetalactone
   - medicinal-herb
   - tea-herb
@@ -32,8 +31,7 @@ sources:
 
 Nepeta cataria, commonly known as catnip or catmint, is a hardy perennial herb in the
 Lamiaceae (mint) family. Native to Europe, Asia, and parts of Africa, it has naturalized
-widely across [[psilocybin-north-america-pacific-northwest]]. The plant is famous for its profound behavioral effects on
-domestic cats, caused by the iridoid terpenoid nepetalactone found in its [[permaculture-designers-manual-essential-oil-plants]].
+widely across [[permaculture-designers-manual-essential-oil-plants]].
 Beyond its feline appeal, catnip has a long history of human use as a medicinal tea,
 culinary herb, and garden companion plant. It is drought-tolerant, cold-hardy, and
 excellent for pollinator gardens.
@@ -54,21 +52,9 @@ excellent for pollinator gardens.
   cymes; blooms June–September
 - **Root:** Extensive fibrous root system with shallow rhizomes; can spread
   aggressively in favorable conditions
-- **Aroma:** Strong minty, pungent scent from [[comparison-essential-oils-vs-neem-oil-vs-insecticidal-soap]] concentrated in leaves
-  and stems
-
-## Key Chemical Constituents
-
-- **Nepetalactone** (4aα,7α,7aα-nepetalactone): The primary active compound, an
-  iridoid monoterpene; constitutes 70–99% of the essential oil; responsible for
-  feline attraction and insect-repellent properties
-- **Nepetalic acid:** Degradation product of nepetalactone
-- **Thymol:** Minor constituent with antimicrobial activity
-- **[[carvacrol]]:** Phenolic monoterpene with antioxidant properties
+- **Aroma:** Strong minty, pungent scent from [[carvacrol]]:** Phenolic monoterpene with antioxidant properties
 - **Caryophyllene:** Sesquiterpene with anti-inflammatory activity
-- **Citronellol, geraniol, limonene:** Minor [[query-how-do-fungal-volatile-compounds-affect-plant-growth-and-other-microorganisms]] contributing to aroma
-- **Rosalin:** Phenolic glycoside with reported mild sedative effects
-- **Flavonoids:** Including luteolin, apigenin, and [[quercetin]] derivatives
+- **Citronellol, geraniol, limonene:** Minor [[quercetin]] derivatives
 
 ## Feline Behavioral Effects
 
@@ -88,3 +74,77 @@ excellent for pollinator gardens.
   insomnia, nervous tension, and headaches
 - **Digestive:** Carminative for colic, flatulence, indigestion, and menstrual cramps;
   the tea is gentle enough for children
+
+## Overview
+
+Nepeta Cataria represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish nepeta cataria
+from related concepts in [[permaculture]] and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving nepeta extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Nepeta Cataria finds practical application in multiple design contexts.
+[[permaculture-principles]] guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for nepeta cataria. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+nepeta cataria and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Nepeta Cataria has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of nepeta cataria into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource

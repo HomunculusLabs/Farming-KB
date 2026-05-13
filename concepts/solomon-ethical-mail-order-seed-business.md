@@ -7,11 +7,7 @@ tags: [seed-business, seed-quality, mail-order-seeds, gardening, food-security, 
 aliases: [solomon-seed-business, ethical-seed-company, seed-supplier-evaluation, mail-order-seeds-guide]
 ---
 
-# The Ethical Mail-Order Seed Business — Evaluating Quality and Integrit [[gaias-garden-ecology-for-gardeners]] ers who depend on their gardens for a significant portion of their food, seed quality [[seed-quality-and-selection-solomon]] is not a casual concern [[chamovitz-gravitropism-plant-knows-where-it-is]] is critical. Poor seeds may sprout slowly, grow unevenly, fail to produce, or produce varieties that don't match their catalog descriptions. Steve Solomon, founder of Territori [[seed-company-supplier-reference]] any and author of *Gardeni [[solomon-gardening-when-it-counts-index]] It Counts*, provides a detailed framework for evaluating the integri [[cannabis-testing-and-quality]] ity of mail-ord [[spanish-cannabis-seed-companies]] ies.
-
-## Why the Mail-Order Seed Business Matters
-
-Serious food gardeners cannot rely on the limited selection of seeds available at retail garden centers and big-box stores. Retail seed racks typically carry only the most commercially popular varieties, often optimized for appearance and shipping durability rather than flavor, nutritional value, or regional adaptability. Gardeners who depend on their gardens know they can't take chances — they grow their own seedlings and source quality [[seed-quality-and-selection-solomon]] seeds by mail.
+# The Ethical Mail-Order Seed Business — Evaluating Quality and Integrit [[seed-quality-and-selection-solomon]] is not a casual concern [[seed-company-supplier-reference]] any and author of *Gardeni [[cannabis-testing-and-quality]] ity of mail-ord [[seed-quality-and-selection-solomon]] seeds by mail.
 
 Poor seeds represent a particularly insidious failure for food gardeners. Unlike ornamental gardening where a disappointing plant is merely aesthetic, a failed vegetable [[vegetable-seed-saving-and-germination]] crop means lost food production, wasted growing season, and potentially inadequate nutrition. The cost of seed is trivial compared to the cost of the land, labor, water, and time invested in growing a crop — making seed quality the single most impactful variable in garden productivity.
 

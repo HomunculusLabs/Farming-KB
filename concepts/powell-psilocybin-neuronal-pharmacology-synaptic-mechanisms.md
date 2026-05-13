@@ -10,8 +10,7 @@ type: concept
 
 # Psilocybin Neuronal Pharmacology and Synaptic Mechanisms
 
-Simon G. Powell's The [[powell-psilocybin-solution-ecological-cognition-theory]] devotes significant attention
-to the neuroscience underlying the [[leary-psychedelic-experience-bardo-mapping]]. The book
+Simon G. Powell's The [[leary-psychedelic-experience-bardo-mapping]]. The book
 provides an accessible yet detailed exploration of how psilocybin
 interacts with the brain's neuronal architecture, specifically through
 the mechanism of synaptic transmission and the serotonergic system.
@@ -90,8 +89,6 @@ original impulse is regenerated in that neuron.
 Powell emphasizes the extraordinary speed at which synaptic transmission
 
 ## See Also
-- [[psilocybin-ego-dissolution-mechanisms]]
 - [[psilocybin-psychological-mechanisms]]
-- [[psilocybin-chemistry-pharmacology]]
 - [[powell-psilocybin-set-and-setting]]
 - [[psilocybin-psilocin-chemistry-and-pharmacology-emcdda]]

@@ -10,15 +10,14 @@ tags:
   - commercialization
   - indigenous-economics
 source:
-  - "Stuart, R. '[[stuart-r-ayahuasca-tourism-cautionary-ethnography]] in [[guzman-psilocybin-mushrooms-south-america]].' MAPS Bulletin, Vol XII No 2, Summer 2002."
+  - "Stuart, R. 'guzman-psilocybin-mushrooms-south-america.' MAPS Bulletin, Vol XII No 2, Summer 2002."
 ---
 
 # Ayahuasca Ceremony Pricing: Tourist Versus Local
 
 ## Overview
 
-One of the most striking economic features of [[ayahuasca-tourism-in-peru]] Peru
-is the dramatic [[ayahuasca-ceremonial-economics-price-disparity-peru]] between foreign tourists and local
+One of the most striking economic features of ayahuasca-ceremonial-economics-price-disparity-peru between foreign tourists and local
 participants for the same ceremony. R. Stuart's 2002 reporting documents
 a consistent markup of approximately fifteen times: tourists pay roughly
 $30 USD per ceremony, while locals pay approximately $2 USD. This 15x
@@ -45,29 +44,7 @@ Stuart includes a specific economic case study: the nephew of an
 ayahuasquero who earned approximately $200 per month from tourist
 ceremonies. This is extraordinary locally. In the same community,
 neighbors could not afford a $0.30 taxi ride from Yarina to the nearby
-ceremonial town of [[shipibo-san-francisco-ceremonial-center-ucayali]]. The contrast:
-
-- Shaman's nephew: $200/month (tourism income)
-- Neighbor: cannot afford $0.30 taxi fare
-
-This encapsulates the distortion ayahuasca tourism introduces into
-indigenous economies — pockets of relative wealth within communities
-lacking basic services, generating envy, dependency, and incentives to
-participate regardless of qualifications.
-
-## Factors Behind the Differential
-
-The 15x markup reflects several converging dynamics:
-
-1. **Market segmentation**: Practitioners recognize Western tourists
-   have dramatically higher purchasing power. This parallels standard
-   international pricing — the same procedure may cost 10–50x more in
-   the US than in Peru.
-2. **Service differentiation**: Tourist ceremonies often include
-   translation, post-ceremony discussion, dietary guidance, and
-   accommodation — real additional costs beyond the local ceremony.
-3. **Risk premium**: Serving foreign tourists carries legal and
-   reputational risk, as the [[alan-shoemaker-ayahuasca-legal-peru]] case demonstrates.
+ceremonial town of alan-shoemaker-ayahuasca-legal-peru case demonstrates.
 4. **Reciprocity framing**: Some practitioners frame higher prices as
    wealth redistribution compensating for historical extraction.
 
@@ -118,8 +95,14 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
+- ayahuasca
+- doc
+- ghb
+
+## See Also
+
+- [[ayahuasca-preparation-pablo-amaringo-ucayali-shamanism]]
+- [[ayahuasca-tourism-western-seekers-and-integration]]
+- [[ayahuasca-botany-and-preparation]]
 - [[ayahuasca-ceremony]]
-- [[ayahuasca]]
-- [[ayahuasca-tourism]]
-- [[doc]]
-- [[ghb]]
+- [[harner-amazonian-ayahuasca-shamanism]]

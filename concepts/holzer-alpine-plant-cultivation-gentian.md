@@ -11,7 +11,7 @@ sources:
 
 # Holzer Alpine Plant Cultivation and Gentian Propagation
 
-[[comparison-sepp-holzer-vs-biodynamic]]'s methods for cultivating alpine plants, with detailed focus on yellow gentian ([[gentiana-lutea]]) propagation. From his Practical Guide to Small-Scale Integrative Farming and Gardening.
+[[gentiana-lutea]]) propagation. From his Practical Guide to Small-Scale Integrative Farming and Gardening.
 
 ## The Central Lesson: Observe Nature
 
@@ -50,18 +50,7 @@ The seeds get wet, warm up, and are frozen many, many times. They germinate natu
 #### Method 2: Freezer Simulation
 
 1. Place seeds in a plastic bag
-2. Mix with earth from where the parent plant grows (contains [[mycelium-running-symbiotic-fungi-relationships]])
-3. Add some water
-4. Put in freezer at -10 to -15°C for several weeks
-5. Sow the seeds
-
-### The Symbiotic Fungi Requirement
-
-When cultivating alpine plants at lower altitudes than their natural habitat:
-
-- The required symbiotic fungi are not present in the soil
-- Native soil must be introduced from near the roots of the parent plant
-- This applies to: spotted gentians ([[gentiana-punctata]]), hairy alpine rose (Rhododendron hirsutum), arnica ([[arnica-montana]]), alpine bellflowers (Campanula alpina), mountain pasque flowers (Pulsatilla montana), cowberries (Vaccinium vitis-idaea), bilberries ([[vaccinium-myrtillus]])
+2. Mix with earth from where the parent plant grows (contains [[gentiana-punctata]]), hairy alpine rose (Rhododendron hirsutum), arnica ([[vaccinium-myrtillus]])
 - When sowing in natural environments (high altitudes), native soil introduction is not necessary
 
 ### Altitude Compensation
@@ -118,8 +107,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[holzer-alpine-plant-cultivation]]
 - [[gentiana-lutea]]
-- [[det]]
 - [[mycelium]]
 - [[alpine-plant-cultivation-guide]]

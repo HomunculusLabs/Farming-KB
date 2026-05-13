@@ -46,35 +46,10 @@ aquaponics converts the metabolic waste of one into the nutritional input of
 the other, creating a closed-loop ecosystem that uses approximately ninety to
 ninety-five percent less water than conventional agriculture while producing
 both protein and vegetables. The concept is not new; versions of integrated
-fish and plant systems have been practiced in [[psilocybe-southeast-asia-pacific]] for millennia,
-but modern aquaponics has refined the biology, engineering, and design
-principles to a degree that makes these systems viable at scales ranging from
-a basement hobby setup to a commercial greenhouse operation.
-
-Backyard aquaculture, the simpler practice of raising fish in ponds on a home
-or homestead scale, has its own deep history and its own set of design
-principles. In permaculture, ponds are among the most multi-functional
-elements in a landscape: they store irrigation water, moderate microclimates,
-provide fire protection, create habitat for wildlife and [[comparison-beneficial-insects-guide-vs-integrated-pest-management]],
+fish and plant systems have been practiced in [[comparison-beneficial-insects-guide-vs-integrated-pest-management]],
 and produce food in the form of fish, aquatic plants, and waterfowl. This
 article covers both recirculating aquaponics and pond-based aquaculture, with
-particular attention to how each fits into ecological and [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]]
-frameworks.
-
-## The Nitrogen Cycle: Foundation of Every System
-
-The engine of any aquaponics system is the nitrogen cycle, the biological
-process by which toxic fish waste is converted into plant fertilizer. Fish
-excrete ammonia primarily through their gills as a byproduct of protein
-metabolism. Ammonia is highly toxic to fish even at low concentrations, and in
-a closed system it would quickly reach lethal levels without intervention. The
-solution is a community of nitrifying bacteria that colonize every available
-surface in the system: the gravel in media beds, the biofilter media in
-dedicated filters, the walls of pipes and tanks.
-
-The first group of bacteria, primarily Nitrosomonas species, oxidize ammonia
-to nitrite. Nitrite is also toxic to fish, causing a condition called
-methemoglobinemia (brown blood disease) that impairs [[hemoglobin-oxygen-transport-biochemistry]]. The
+particular attention to how each fits into ecological and [[hemoglobin-oxygen-transport-biochemistry]]. The
 second group, Nitrobacter and Nitrospira species, convert nitrite to nitrate.
 Nitrate is relatively non-toxic to fish at moderate concentrations and is the
 preferred nitrogen source for most plants. The plants absorb nitrate through
@@ -94,37 +69,11 @@ accelerate this process.
 
 Beyond the nitrifying bacteria that drive the nitrogen cycle, a healthy
 aquaponics system hosts a diverse community of heterotrophic bacteria, fungi,
-protozoa, and in many systems, earthworms. These organisms [[query-can-fungi-break-down-plastic-pollution]] solid
-fish waste (uneaten feed, feces) through mineralization, releasing phosphorus,
-potassium, calcium, magnesium, and trace elements that plants need but that
-the nitrification process alone does not provide. Media beds, with their large
-surface area and abundant organic material, support the richest microbial
-communities and are sometimes called "vermiaquaponics" systems because they
-support populations of red wiggler worms that accelerate decomposition.
-
-## System Types and Design
-
-Modern aquaponics encompasses several distinct design approaches, each with
-different strengths, limitations, and appropriate applications. Understanding
-the trade-offs between them is essential for choosing or designing a system
-that matches the grower's goals, climate, budget, and available space.
-
-Media beds, also called flood and drain or ebb and flow, are the most common
-design for home and hobby systems. Grow beds are filled with inert media,
-expanded clay pebbles (hydroton), gravel, lava rock, or expanded shale,
-through which water from the fish tank periodically floods and then drains.
-The flooding and draining cycle is typically controlled by an automatic bell
-## See Also
-
-- [[aquaponics]] for core system types and cycling
-- [[aquaponics-fish-species]] for detailed species profiles
+protozoa, and in many systems, earthworms. These organisms [[aquaponics]] for core system types and cycling
 - [[aquaponics-plant-selection]] for comprehensive crop guides
 - aquaculture-in-permaculture for permaculture integration
-- [[holzer-aquaculture-fish-farming]] for Sepp Holzer's self-sustaining ponds
-- faires-aquaculture-pond-systems for homestead [[holzer-pond-construction-and-aquaculture]]
+- [[holzer-pond-construction-and-aquaculture]]
 - faires-pond-design-and-aquaculture for pond design and stocking
-- [[backyard-pond-building]] for small-scale pond construction
-- hemenway-water-harvesting-and-pond-design for water harvesting integration
 - [[fukuoka-duck-rice-fish-polyculture]] for integrated rice-duck-fish systems
 
 ## References

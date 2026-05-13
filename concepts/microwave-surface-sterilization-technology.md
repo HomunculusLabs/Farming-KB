@@ -28,14 +28,12 @@ sterilization methods each have significant limitations:
 - **Gamma irradiation**: Requires large, expensive equipment and poses
   safety concerns
 - **Chemical disinfectants** (ethylene oxide, alcohols, quaternary amines,
-  [[cervantes-hydrogen-peroxide-sterilization]], iodine): Leave [[ingham-manure-antibiotics-chemical-residues-composting]] that can contaminate
+  [[ingham-manure-antibiotics-chemical-residues-composting]] that can contaminate
   sensitive biological systems
 - **UV irradiation**: Cannot sterilize complex surface geometries due to
   shadowing effects
 
-The NASA [[aseptic-specimen-transfer-space-environment-microwave-sterilizable-access-port]] Access Port (MSAP) was conceived as a
-solution consisting of three subsystems: an in-line valve port assembly, a
-portable [[coaxial-power-splitter-waveguide-microwave-sterilization]] chamber, and a specimen transfer assembly.
+The NASA [[coaxial-power-splitter-waveguide-microwave-sterilization]] chamber, and a specimen transfer assembly.
 
 ## How Microwave Sterilization Works
 

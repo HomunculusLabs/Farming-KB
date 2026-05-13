@@ -9,34 +9,9 @@ sources:
 ---
 # Fruit Tree Guild Roles
 
-A guild is a harmoniously interwoven group of plants and animals, often centered around one major species, that benefits humans while creating habitat. In a fruit tree guild, each member performs specific ecological roles that together create a self-maintaining, productive plant community. Understanding these roles allows gardeners to design guilds that let nature perform the tasks of fertilizing, [[comparison-pheromone-based-pest-control-vs-beneficial-insect-biocontrol]], mulching, and pollination.
-
-Indigenous people, especially those living in the tropics, have been using guilds for millennia to create sustainable landscapes. Anthropologists mistook the lush and productive home gardens that enfolded tropical houses for wild jungle, so perfectly had the inhabitants mimicked the surrounding forest. In temperate climates, the art and science of fashioning communities of useful plants is a newer but vigorous field.
-
-## The Central Element
-
-The central element is typically a food-producing tree -- most commonly an apple, but almost any fruit tree can serve as the centerpiece. The tree should be pruned to an open shape to allow light to reach the plants below. The size of the tree (standard, semi-dwarf, or dwarf) determines how many associated plants it can support.
-
-The tree's needs -- pollination, soil fertility, pest protection, mulch -- are analyzed, then other design elements are chosen that meet those needs while also offering products or services of their own. This cascading thought process builds a dense web of connections between elements.
-
-## The Seven Guild Roles
-
-### 1. Grass-Suppressing Bulbs
-
-Bulbs keep grasses from moving into the guild. Grasses are surface feeders that compete with fruit trees for nutrients, since both feed primarily near the soil surface. Bulbs are planted in a circle at the drip line (the outermost edge of the tree's canopy at full size) and should be spring-flowering and summer-dormant.
-
-**Examples**: Daffodils (which repel deer above ground and gophers below), camas, garlic chives, ramps, Egyptian onions. Many bulbs also provide food (camas, garlic) or pest repellence.
-
-### 2. Insect- and Bird-Attracting Plants
-
-Flowering plants lure pollinators for boosting fruit set and attract predatory wasps that feast on pestiferous larvae such as borers and codling moths. Flowering shrubs placed nearby (butterfly bush, fuchsia, salvia) encourage insectivorous birds to probe bark crevices for larvae and eggs.
-
-**Examples**: Dill, fennel, coriander, yarrow, bee balm, and many other faires-orchard-pruning-methods
-
-- [[backyard-food-forest-design]] -- how guilds combine into a larger food forest
-- [[permaculture-guild-design]] -- detailed guild construction methods
+A guild is a harmoniously interwoven group of plants and animals, often centered around one major species, that benefits humans while creating habitat. In a fruit tree guild, each member performs specific ecological roles that together create a self-maintaining, productive plant community. Understanding these roles allows gardeners to design guilds that let nature perform the tasks of fertilizing, [[backyard-food-forest-design]] -- how guilds combine into a larger food forest
 - [[dynamic-accumulators]] -- plants that mine nutrients from deep soil
-- [[nitrogen-fixing-trees-and-shrubs]] -- woody nitrogen fixers for [[apple-guild-design-guide]]
+- [[apple-guild-design-guide]]
 
 ## Merged: Sapodilla (Manilkara zapota)
 
@@ -44,23 +19,7 @@ Flowering plants lure pollinators for boosting fruit set and attract predatory w
 
 updated: 2026-04-18
 
-The sapodilla, also known as sapota, Santo Domingo apricot, marmalade plum, naseberry, nispero, dilly, or chiku, is a large evergreen tree native to [[guzman-allen-gartz-neurotropic-fungi-central-america-caribbean]] and southern Mexico. It produces one of the sweetest fruits in the tropics and is the original source of chicle, the natural base for chewing gum.
-
-## Botany and Growth Habit
-
-A large, slow-growing, attractively shaped evergreen tree reaching 5-18 m in height. It makes an excellent shade or windbreak species. Growth rate is moderate, with fruit production beginning at about 8 years from seed or 3-4 years from grafts or cuttings. The tree is long-lived and can produce for many decades once established.
-
-## Climate and Soil
-
-The sapodilla prefers a moist, well-drained soil with plenty of [[hamilton-composting-and-organic-matter-management]] but is adaptable to many soil types. It is [[permplant-carob-drought-tolerant-food-tree]] and reasonably tolerant of salt spray, flooding, and wind. It needs a warm climate and tolerates very high temperatures; mature trees withstand temperatures as low as -4.5C. Young trees are more frost-sensitive and may be killed by frosts.
-
-## Fruit
-
-The fruit are usually produced in pairs, resemble a quince in shape, and are russet-brown when ripe. They must be picked when fully ripe, as immature fruits contain tannin and a milky, inedible juice. The honey-coloured pulp is juicy, tender, and very sweet, with a flavour often compared to brown sugar or pear with a hint of cinnamon.
-
-The fruit can be used for jams and jelly making, and young leaves are also edible. Gross pollination is desirable, so planting more than one tree is advantageous, though not strictly essential. Minimum spacing is 6 m.
-
-[[dighton-fungal-nutritional-composition-animal-diets]] per 100g edible portion: Water 76.1%, Energy 89 calories, Carbohydrate 21.8g, Fat 1.1g, Protein 0.5g, Calcium 21mg, Potassium 193mg, Iron 0.8mg, Phosphorus 12mg, Vitamin A 60 IU, Vitamin C 14mg.
+The sapodilla, also known as sapota, Santo Domingo apricot, marmalade plum, naseberry, nispero, dilly, or chiku, is a large evergreen tree native to [[hamilton-composting-and-organic-matter-management]] but is adaptable to many soil types. It is [[dighton-fungal-nutritional-composition-animal-diets]] per 100g edible portion: Water 76.1%, Energy 89 calories, Carbohydrate 21.8g, Fat 1.1g, Protein 0.5g, Calcium 21mg, Potassium 193mg, Iron 0.8mg, Phosphorus 12mg, Vitamin A 60 IU, Vitamin C 14mg.
 
 ## Chicle Production
 
@@ -115,8 +74,76 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[dom]]
 - [[det]]
-- [[composting]]
 - [[permaculture]]
 - [[yarrow]]
+
+## Overview
+
+Fruit Tree Guild Roles represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish fruit tree guild roles
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving fruit extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Fruit Tree Guild Roles finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for fruit tree guild roles. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+fruit tree guild roles and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Fruit Tree Guild Roles has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of fruit tree guild roles into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.

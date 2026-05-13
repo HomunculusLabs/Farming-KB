@@ -8,66 +8,11 @@ sources: []
 ---
 # Cannabis Hash Making from Extracted Oil
 
-"[[lemon-cannabis-alchemy-advanced-refinement-techniques]]" by D. Gold describes several methods for converting extracted [[cervantes-hash-cannabis-oil-production]] into hashish of varying quality. These methods go beyond traditional [[neem-oil-cannabis]] of CBD to THC. Leave soxhlet basket in place to wash residual oil from the 2.25 ounces during isomerization.
-
-7. **Solvent removal**: After 45 minutes of isomerization, begin removing solvent through the solvent removal valve (approximately 15 minutes).
-
-8. **Neutralize and dry**: Open machine, neutralize, remove soxhlet basket, discard the spent 2.25 ounces of leached weed. Return reaction vessel and dry the fine powder.
-
-9. **Reconstitute**: Scrape the oily powder from the reaction vessel, transfer to a mortar, and grind with pestle. Add 2-3 grams of water and work evenly through the cannabis.
-
-### Critical Notes
-
-- The water addition is described as "very important" for taste, smell, and appearance of the final hash
-- The method was reportedly too potent when applied to Colombian material
-- Extraction time of 2 hours may not extract all oils from the soxhlet basket material; overnight soaking before soxhleting is recommended when possible
-- All alcohol should never be fully removed before neutralization -- add alcohol back if necessary before adding neutralizer
-
-## The Pittsburgh Doublewash System
-
-A correspondent from Pittsburgh developed a refinement that significantly improves the quality of iso-hash by removing water-soluble tars and waxes before extraction:
-
-### Part 1: Water Wash
-1. Boil ground cannabis in water for 1 hour to remove approximately 20% of water-soluble tars and waxes by weight
-2. Pour through a T-shirt filter, discard the tea (which contains negligible cannabinoids)
-3. Add fresh distilled water and boil for 3 more hours
-4. Filter again, discard the liquid
-5. Squeeze the weed in a wine press and dry completely
-
-### Part 2: Extraction and Isomerization
-1. Place the water-washed material in a blender with isopropyl alcohol
-2. Extract via soxhlet, then isomerize normally
-3. Keep all weed in the soxhlet basket (do not leave material floating in the bottom)
-4. After isomerization and neutralization, dump weed into the reaction mixture
-5. Pump off alcohol, wash with water to remove residual baking soda
-6. Dry the pulverized pot, return to soxhlet basket, and re-extract the isomerized oil
-7. Dump approximately 1/5 of the leached powder back into the oil, evaporate alcohol
-
-### Benefits of the Doublewash
-
-The water pre-wash removes non-psychoactive water-soluble tars and waxes that cause harsh taste, coughing, and headache. The correspondent reported:
-
-- Vastly improved taste, smell, and smoking pleasure
-- Ability to take three big hits in succession with only minor coughing
-- Product superior to imported Afghani hashish
-- Cost of approximately $40-50 per ounce from regular commercial material
-
-## Long-Term Storage: "Lifetime Stash"
-
-A correspondent described producing 8-on-1 iso-hash (8 ounces of cannabis extracted onto 1 ounce) for long-term storage. Key findings:
-
-- Iso-hash retains potency much longer than raw cannabis because the outer oils hermetically seal inner cannabinoids from air and light
-- Store in multiple layers of lightproof plastic in the bottom of a deep freezer
-- A match-head-sized piece of 8-on-1 hash was reported to be effective for an entire day when smoked in a glass oil pipe
-
-Source: raw/papers/[[cannabis-hashish-guide]]
+"[[cervantes-hash-cannabis-oil-production]] into hashish of varying quality. These methods go beyond traditional [[cannabis-hashish-guide]]
 
 ## See Also
 
-- [[cannabis-oil-vaporization-methods]]
-
 - [[2c-d-pihkal-entry-23]]
-- [[cannabis-hashish-from-extracted-oil-techniques]]
 - [[cannabis-hashish-making-methods]]
 ## Practical Considerations
 
@@ -117,8 +62,89 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[neem]]
 - [[isopropyl-alcohol]]
-- [[hashish]]
 - [[pittsburgh-doublewash]]
 - [[cannabis-hashish-from-extracted-oil-techniques]]
+
+## Overview
+
+Cannabis Hash Making From Extracted Oil represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish cannabis hash making from extracted oil
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving cannabis extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Cannabis Hash Making From Extracted Oil finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for cannabis hash making from extracted oil. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+cannabis hash making from extracted oil and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Cannabis Hash Making From Extracted Oil has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of cannabis hash making from extracted oil into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[blesching-cannabis-vasopressin-aggression]]
+- [[cannabis-cultivar-microbiome-specificity]]
+- [[green-cannabis-grow-bible-species-indica-sativa-ruderalis]]

@@ -12,58 +12,11 @@ created: 2026-04-28
 updated: 2026-04-28
 sources:
   - Andersen, S.B., et al. (2017). "Disease dynamics in a specialized parasite of ant societies." Current Biology, 27(3), 328–332.
-  - Hughes, D.P., et al. (2011). "Behavioral manipulation and [[fungal-endemism-host-specificity]] of a zombie-ant pathogen." BMC Ecology, 11, 18.
-  - Loreto, R.G., et al. (2018). "The parasite that makes ants bite." American Naturalist, 192(5), 573–583.
-  - de Bekker, C., et al. (2015). "Genomic comparison of zombie-ant fungi across species." Nature Communications, 6, 8135.
-  - Evans, H.C., et al. (2011). "Ophiocordyceps: a new genus for the 'zombie-ant' fungus." Mycotaxon, 115, 279–295.
----
+  - Hughes, D.P., et al. (2011). "Behavioral manipulation and [[oner-southeast-asian-sativa-heritage-thai-vietnamese-cambodian]] forests.
 
-## Overview
+Infection occurs when foraging ants encounter fungal spores on the [[enzymatic-degradation-in-mycoremediation]] (cutinases, proteases, chitinases).
 
-**Ophiocordyceps unilateralis** is an entomopathogenic ascomycete fungus best known for infecting ants of the tribe Camponotini (carpenter ants) and manipulating their behavior.
-
-The infected ant abandons its colony, climbs to an elevated position on vegetation, and secures itself to the underside of a leaf with a death bite to the main vein.
-
-This behavioral manipulation positions the host optimally for , creating one of the most dramatic examples of parasite-driven host behavior in nature.
-
-The species complex was reclassified from *Cordyceps unilateralis* to *Ophiocordyceps unilateralis* in 2007 by Petch and later formalized by Sung et al. (2007).
-
-## Taxonomy and Classification
-
-- **Kingdom:** Fungi
-- **Phylum:** Ascomycota
-- **Subphylum:** Pezizomycotina
-- **Class:** Sordariomycetes
-- **Order:** Hypocreales
-- **Family:** Ophiocordycipitaceae
-- **Genus:** Ophiocordyceps
-- **Species:** O. unilateralis (Berk.) Petch
-
-The *O. unilateralis* species complex comprises multiple distinct lineages, each typically host-specific to a single ant species.
-
-Molecular phylogenetics has revealed at least 15–20 cryptic species within the complex, many yet to be formally described.
-
-## Morphology
-
-The fungus produces a conspicuous stroma (food-forest-understory-plants0–25°C, matching the microclimate of the forest understory.
-
-## Host Range and Specificity
-
-Each lineage within the *O. unilateralis* complex exhibits narrow host specificity, typically infecting a single ant species.
-
-The primary hosts are carpenter ants of the genus *Camponotus*, particularly *C. leonardi* in [[oner-southeast-asian-sativa-heritage-thai-vietnamese-cambodian]] forests.
-
-Infection occurs when foraging ants encounter fungal spores on the [[fungal-ecology-forest-floor]], which attach to the ant's exoskeleton and germinate.
-
-The fungus penetrates the cuticle using a combination of mechanical pressure and [[enzymatic-degradation-in-mycoremediation]] (cutinases, proteases, chitinases).
-
-Once inside the hemocoel, the fungus proliferates as yeast-like hyphal bodies that evade the [[fungal-virulence-factors-host-immune-evasion]] system for several days.
-
-## Behavioral Manipulation Mechanism
-
-Behavioral changes manifest approximately 3–7 days post-infection, coinciding with extensive fungal colonization of the ant's central nervous system.
-
-The fungus does not invade neurons direct [[non-psilocybin-neurotropic-fungi-and-ergot-alkaloids]] and other indole-derived compounds that may contribute to neurological effects on the host.
+Once inside the hemocoel, the fungus proliferates as yeast-like hyphal bodies that evade the [[non-psilocybin-neurotropic-fungi-and-ergot-alkaloids]] and other indole-derived compounds that may contribute to neurological effects on the host.
 
 Specific fungal peptides and small-molecule effectors that interact with insect neuromodulatory pathways have been identified through transcriptomic studies.
 
@@ -73,13 +26,7 @@ Proteomic analysis has revealed upregulation of genes involved in enterotoxin pr
 
 ## Ecological Significance
 
-*O. unilateralis* serves as a density-dependent regulator of carpenter ant populations in [[fungal-biodiversity-tropical-forests]].
-
-Ant colonies have evolved several defensive behaviors, including infected ants being carried away from the colony by nestmates.
-
-Some ant species groom infected individuals to remove spores before germination, representing a behavioral immune response.
-
-The fungus creates localized infection zon [[query-how-do-parasitoid-wasps-control-pest-populations]] floor, generating "graveyards" of dead ants that can contain dozens of cadavers.
+*O. unilateralis* serves as a density-dependent regulator of carpenter ant populations in [[query-how-do-parasitoid-wasps-control-pest-populations]] floor, generating "graveyards" of dead ants that can contain dozens of cadavers.
 
 [[comparison-parasitoid-wasps-vs-chemical-pesticides]] and hyperparasitic fungi (e.g., *Tolypocladium* species) attack the *Ophiocordyceps* stroma, forming a complex multi-trophic interaction web.
 
@@ -88,3 +35,84 @@ This system has become a model for studying host-parasite coevolution and the ev
 ## Cultivation and Research
 
 Laboratory cultivation is challenging due to the obligate requirement for living ant hosts to complete the lifecycle.
+
+## Overview
+
+Ophiocordyceps Unilateralis represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish ophiocordyceps unilateralis
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving ophiocordyceps extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Ophiocordyceps Unilateralis finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for ophiocordyceps unilateralis. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+ophiocordyceps unilateralis and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Ophiocordyceps Unilateralis has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of ophiocordyceps unilateralis into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[ophiocordyceps-sinensis]]

@@ -107,13 +107,8 @@ Individual plants can live for 20–30 years in ideal conditions. Multi-headed c
 
 ## See Also
 
-- [[lithops-lesliei]]
 - [[lithops-optica]]
-- [[faucaria-tigrina]]
 - [[haworthia-cooperi]]
-- [[haworthia-retusa]]
 - [[conophytum-bilobum]]
-- [[pleiospilos-nelii]]
 - [[aeonium-arboreum]]
-- [[graptopetalum-paraguayense]]
 - [[cotyledon-orbiculata]]

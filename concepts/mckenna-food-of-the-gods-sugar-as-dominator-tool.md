@@ -1,43 +1,8 @@
 ---
 title: "Sugar as a Dominator Tool"
 source: "mckenna_t-food_of_the_gods.md"
-source_author: "[[terence-mckenna]]"
-source_title: "Food of the Gods"
-published: 1992
-tags:
-  - mckenna
-  - food-of-the-gods
-  - dominator-culture
-  - sugar
-  - addiction
-  - colonialism
-  - slavery
-  - drug-policy
-  - consciousness
-  - partnership-culture
----
-
-## Overview
-
-In Chapter 11 of *Food of the Gods*, "Complacencies of the Peignoir: Sugar,
-Coffee, Tea, and Chocolate," [[terence-mckenna]] presents sugar as a central pillar
-of what he calls [[dominator-culture-and-partnership-society]]. Unlike the psychedelic plants that shaped
-early human consciousness and supported partnership-oriented societies, sugar
-is cast as a substance that narcotizes, creates dependency, and reinforces
-hierarchical social structures. McKenna's argument positions sugar not merely as
-a food but as a drug — one uniquely suited to the maintenance of patriarchal,
-exploitative, and controlling civilizations.
-
-## Sugar as Addiction Without Insight
-
-McKenna draws a sharp distinction between the effects of sugar and those of
-psychedelic plants. Psychedelics, in his framework, expand consciousness,
-dissolve ego boundaries, and foster a sense of interconnectedness with nature
-and community. Sugar does the opposite: it narcotizes, dulls awareness, and
-creates a cycle of craving and temporary satisfaction without offering any
-genuine insight or expanded perspective.
-
-This quality makes sugar an ideal tool for [[mckenna-dissolution-of-the-dominator-culture]]. A population
+source_author: "[[terence-mckenna]] presents sugar as a central pillar
+of what he calls [[mckenna-dissolution-of-the-dominator-culture]]. A population
 addicted to sugar is a population that can be more easily managed. The
 substance provides comfort without liberation, satiety without meaning, and
 pleasure without transformation. McKenna suggests that this is precisely why
@@ -98,20 +63,7 @@ conformist.
 The sugar argument is situated within McKenna's larger thesis about two types
 of cultures: partnership cultures, which he associates with goddess worship,
 egalitarian social structures, and the use of psychedelic plants; and
-[[archaic-revival-partnership-vs-dominator-cultures]], which he associates with patriarchal hierarchy, violence,
-and the use of narcotizing or addictive substances.
-
-Psychedelics, in this framework, are drugs of partnership because they
-dissolve boundaries and foster empathy. Sugar, alcohol, and tobacco are drugs
-of domination because they reinforce control, dependency, and the status quo.
-McKenna does not present this as a simple binary but as a historical pattern
-— one in which the suppression of psychedelic use and the promotion of
-addictive substances correlate with the rise of hierarchical civilization.
-
-## Exploitation Cycles and Modern Relevance
-
-McKenna extends his analysis to describe what he sees as recurring cycles of
-exploitation. The colonial [[mckenna-madeira-sugar-plantation-origin-transatlantic-slavery]] — with its enslaved labor,
+[[mckenna-madeira-sugar-plantation-origin-transatlantic-slavery]] — with its enslaved labor,
 environmental destruction, and addictive product — is a template for later
 forms of industrial exploitation. The pattern of creating dependency and then
 profiting from that dependency is one that McKenna believes has been repeated
@@ -138,8 +90,6 @@ continue to shape contemporary patterns of consumption and inequality.
 
 ## Related Concepts
 
-- mckenna food of the gods [[psilocybin-stoned-ape-hypothesis-critique]]
-- mckenna food of the gods dominator culture
-- mckenna food of the [[mckenna-food-gods-ergot-kykeon-eleusinian]] and kykeon
+- mckenna food of the gods [[mckenna-food-gods-ergot-kykeon-eleusinian]] and kykeon
 - addiction and civilization
 - [[magic-mushroom-prohibition-and-uk-drug-policy]] and social control

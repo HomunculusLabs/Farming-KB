@@ -10,11 +10,7 @@ sources:
 # DON
 
 **Chemical name:** 2,5-Dimethoxy-4-nitroamphetamine
-**[[2c-b-pihkal-entry-20]]:** #70
-
-## Overview
-
-DON is a member of the [[alexander-shulgin]] himself; the qualitative data comes from [[chiric-caspi-brunfelsia-south-american-hallucinogen]] researchers who conducted human trials.
+**[[alexander-shulgin]] himself; the qualitative data comes from [[chiric-caspi-brunfelsia-south-american-hallucinogen]] researchers who conducted human trials.
 
 The nitro group makes DON unique among the DOx compounds in several ways -- it is strongly electron-withdrawing (unlike the electron-donating alkyl groups) and may be metabolically reduced to an amino group in vivo, potentially contributing to its pharmacological effects.
 
@@ -73,7 +69,6 @@ The nitro group's role is pharmacologically interesting. It may:
 - dom-entity|DOM (methyl, for comparison)
 - dob-entity|DOB (bromo, for comparison)
 - doi-entity|DOI (iodo, for comparison)
-- [[thc-acetate-synthesis-and-pharmacology]]
 - [[2-5-dma-entity]]
 - [[4-br-3-5-dma-entity]]
 ## Practical Considerations

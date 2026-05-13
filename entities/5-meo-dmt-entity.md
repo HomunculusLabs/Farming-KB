@@ -34,10 +34,7 @@ N-methyltransferase (TNMT).
 | Source | Tissue | Estimated Concentration | Region |
 |--------|--------|----------------------|--------|
 | Incilius alvarius (Colorado River toad) | Parotoid venom | 5–15% dried | Sonoran Desert |
-| [[virola-theiodora]] | Bark resin | 0.1–0.5% | Amazon Basin |
-| [[virola-surinamensis]] | Bark resin | 0.1–0.3% | N. [[guzman-psilocybin-mushrooms-south-america]] |
-| [[yopo-anadenanthera-peregrina-snuff]] (yopo) | Seeds | 0.01–0.05% | Caribbean/S. America |
-| [[anadenanthera-colubrina]] (vilca) | Seeds | 0.01–0.05% | South America |
+| [[virola-surinamensis]] | Bark resin | 0.1–0.3% | N. [[yopo-anadenanthera-peregrina-snuff]] (yopo) | Seeds | 0.01–0.05% | Caribbean/S. America |
 | [[phalaris-aquatica]] | Aerial parts | Trace | Worldwide |
 
 The most culturally significant source is Incilius alvarius, whose venom

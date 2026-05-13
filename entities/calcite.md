@@ -34,43 +34,7 @@ It is the primary component of limestone, which is the most widely used agricult
 
 ## Key Facts
 
-- The primary component of agricultural lime (limestone) used to raise [[soil-ph]]
-- First mineral to precipitate from evaporating seawater (alongside dolomite)
-- Dissolves in weak acids including carbonic acid in rainwater
-- Reacts vigorously with dilute hydrochloric acid (diagnostic test for identification)
-- Forms extensive cave systems (stalactites, stalagmites) through dissolution and redeposition
-- Major carbon reservoir in the global carbon cycle
-- Neutralizing value of pure calcite = 100% (the standard for comparing liming materials)
-- Calcium (from all but highly calcareous areas) is the most needed mineral in soils
-
-## Properties
-
-- **Color**: Colorless, white, or various colors from impurities
-- **Luster**: Vitreous to resinous
-- **Transparency**: Transparent to opaque
-- **Cleavage**: Perfect rhombohedral cleavage (3 directions at 75 degrees)
-- **Reaction**: Fizzes vigorously with cold dilute HCl (key diagnostic test)
-- **Solubility**: Dissolves readily in carbonic acid (CO2 dissolved in water)
-
-## Relevance to Cultivation and Permaculture
-
-### Soil pH Amendment
-- Calcite (as agricultural lime) is the standard material for raising soil pH
-- Neutralizes soil acidity by reacting with hydrogen ions in the soil solution
-- Increases availability of phosphorus, molybdenum, and other nutrients
-- Promotes healthy microbial activity in acidic soils
-- Typical application: 1-5 tonnes per hectare based on soil testing
-
-### Soil Structure
-- Calcium from calcite promotes clay flocculation and crumb structure formation
-- Improves water infiltration and root development in heavy clay soils
-- Reduces soil crusting and surface sealing
-- Creates favorable conditions for earthworms and soil biota
-- Soil crumb structure aided by lime (calcium) bonds soil fractions and creates 20-60% pore space
-
-### Nutrient Cycling
-- Provides calcium, essential for cell wall development and root growth
-- Influences [[cation-exchange-capacity]] (CEC) of soils
+- The primary component of agricultural lime (limestone) used to raise [[cation-exchange-capacity]] (CEC) of soils
 - Affects availability of other nutrients through pH modification
 - Critical for legume nodulation and nitrogen fixation effectiveness
 - Adequate calcium is prerequisite for effective biological nitrogen fixation
@@ -84,11 +48,87 @@ It is the primary component of limestone, which is the most widely used agricult
 
 ## References
 
-- Mollison, B. (1988). *Permaculture: A Designers' Manual*. Tagari Publications. Chapter 8: Soils.
+- Mollison, B. (1988). *Permaculture: A Designers' Manual*. [[tagari-publications]]. Chapter 8: Soils.
 - Leeper, G.W. (1982). *Introduction to Soil Science*. Melbourne University Press.
 
 ## See Also
 
-- [[bill-mollison-permaculture-a-designers-manual-earthworking-and-earth-resources]]
 - [[bill-mollison-permaculture-a-designers-manual-aquaculture-and-water-systems]]
 - [[mollison-designers-soil-water-storage-and-field-capacity]]
+
+## Overview
+
+Calcite represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish calcite
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving calcite extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Calcite finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for calcite. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+calcite and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Calcite has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of calcite into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.

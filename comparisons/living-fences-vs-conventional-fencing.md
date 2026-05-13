@@ -23,10 +23,8 @@ type: comparison
 
 # Living Fences vs Conventional Fencing
 
-Fencing is one of the first infrastructure decisions a homesteader or farmer faces. While conventional fencing — wire, wood, electric, vinyl — dominates modern agriculture, living fences (hedges, hedgerows, and [[query-how-do-green-roofs-and-living-walls-benefit-urban-environments]]) offer a multifunctional alternative that aligns with [[maclura-pomifera]]*) | Fast | 20–40 ft | Zones 4–9 | Thorny; rot-resistant wood; dense hedge |
-| Blackthorn (*[[gleditsia-triacanthos]]*) | Fast | 30–70 ft | Zones 3–9 | Thorny cultivars available; nitrogen-fixer; seed pods for fodder |
-| [[comparison-sea-buckthorn-vs-aronia]] (*[[agroforestry]]
-- [[caragana-arborescens]]
+Fencing is one of the first infrastructure decisions a homesteader or farmer faces. While conventional fencing — wire, wood, electric, vinyl — dominates modern agriculture, living fences (hedges, hedgerows, and [[maclura-pomifera]]*) | Fast | 20–40 ft | Zones 4–9 | Thorny; rot-resistant wood; dense hedge |
+| Blackthorn (*[[comparison-sea-buckthorn-vs-aronia]] (*[[caragana-arborescens]]
 ## Practical Applications
 
 Living Fences vs Conventional Fencing has a range of practical applications that make it relevant to

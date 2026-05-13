@@ -1,11 +1,6 @@
 # Anandamide, Exercise, and Natural Endocannabinoid Enhancement
 
-**Source:** The [[blesching-cannabis-health-index-autoimmune-conditions]] (Blesching, 2015)
-
-## Overview
-
-Anandamide (N-arachidonoylethanolamide, AEA) is an endogenous cannabinoid and
-neurotransmitter produced in human cell membranes. Called the "[[anandamide-bliss-molecule]],"
+**Source:** The [[anandamide-bliss-molecule]],"
 it is structurally similar to THC and binds at the same CB1 and CB2 receptor
 sites, producing comparable effects at appropriate concentrations. Unlike THC,
 anandamide is produced naturally by the body and can be enhanced through
@@ -33,34 +28,8 @@ production of anandamide. This may account for the way anandamide influences
 the neuropathic and antidepressant effects of exercise. The mechanism operates
 as a positive feedback loop:
 
-1. Physical exertion triggers cortisol release from [[blesching-endocannabinoid-autonomic-nervous-system-adrenal-glands]]
-2. Corticosteroids stimulate anandamide production in cell membranes
-3. Anandamide activates CB1 and CB2 receptors throughout the body
-4. The result: reduced pain perception, elevated mood, and the characteristic
-   sense of ease and well-being associated with sustained exercise
-
-## Anandamide's Therapeutic Potential
-
-### Mental Health
-Anandamide may reduce hypertension, depression, fear, and anxiety. It
-contributes to social play behavior and may be relevant in treating psychiatric
-disorders characterized by impairments in social behavior, including autism
-spectrum conditions.
-
-### Pain Management
-Both THC and [[blesching-cannabis-synthetic-cannabinoids]] reduce pain by inducing release of
-[[endogenous-opioids-pain-modulation-endocannabinoid-interaction]] (dynorphin A and B). Anandamide similarly reduces pain but
-through a potentially novel mechanism not yet fully understood — one that
-does not depend on opioid receptor activation.
-
-### Cancer
-Anandamide inhibits the movement of cancer cells and may prevent metastasis
-without negative effects to the patient's immune system. This finding suggests
-that supporting natural anandamide levels may have anti-cancer implications.
-
-### Norepinephrine Regulation
-Anandamide inhibits norepinephrine levels, contributing to stress reduction.
-This is particularly relevant for patients with [[cannabis-for-anxiety-disorders]] and PTSD,
+1. Physical exertion triggers cortisol release from [[blesching-cannabis-synthetic-cannabinoids]] reduce pain by inducing release of
+[[cannabis-for-anxiety-disorders]] and PTSD,
 where norepinephrine dysregulation is common.
 
 ## Natural Anandamide Enhancement Strategies
@@ -118,8 +87,29 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[anandamide]]
-- [[doc]]
-- [[ethanol]]
-- [[kaempferol]]
-- [[anandamide-emotional-regulation-blesching]]
+
+- [[blesching-cannabis-aging]]
+- [[blesching-cannabis-anorexia-cachexia]]
+- [[blesching-cannabis-asthma-bronchodilation-thc]]
+- [[blesching-cannabis-autism]]
+- [[blesching-cannabis-colds-and-flu]]
+- [[blesching-cannabis-copd]]
+- [[blesching-cannabis-cystitis]]
+- [[blesching-cannabis-depression]]
+- [[blesching-cannabis-diabetes]]
+- [[blesching-cannabis-endometriosis-fertility-obgyn-conditions]]
+- [[blesching-cannabis-febrile-seizures]]
+- [[blesching-cannabis-gateway-theory-and-addiction-debate]]
+- [[blesching-cannabis-gerd]]
+- [[blesching-cannabis-gi-disorders-ibs-crohns]]
+- [[blesching-cannabis-hemorrhoids]]
+- [[blesching-cannabis-libido-enhancement]]
+- [[blesching-cannabis-melanoma]]
+- [[blesching-cannabis-neuropathies]]
+- [[blesching-cannabis-schizophrenia]]
+- [[blesching-cannabis-serotonin-endocannabinoid-system]]
+- [[blesching-cannabis-telomeres-telomerase-longevity]]
+- [[blesching-cannabis-uveitis]]
+- [[blesching-caryophyllene-cb2-agonist]]
+- [[blesching-dietary-beta-caryophyllene-spice-sources-cb2-agonist]]
+- [[blesching-prime-cannabinoids-thc-cbd-anandamide-bcp]]

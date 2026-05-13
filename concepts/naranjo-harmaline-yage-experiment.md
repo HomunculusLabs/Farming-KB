@@ -9,7 +9,7 @@ sources:
 ---
 # Naranjo Harmaline Yage Experiment
 
-Claudio Naranjo's study "Psychological Aspects of the [[harner-yage-experience-themes]] in an Experimental Setting," published in [[yage-cross-cultural-experience]].
+Claudio Naranjo's study "Psychological Aspects of the [[yage-cross-cultural-experience]].
 
 ### Soul Flight and the Disembodied Self
 
@@ -45,23 +45,10 @@ Naranjo noted that the mythico-religious element "is more pervasive in the exper
 
 ## Comparison with Indigenous Experiences
 
-Naranjo noted striking parallels between the experimental subjects' experiences and those reported by indigenous [[chiric-caspi-brunfelsia-south-american-hallucinogen]] users of ayahuasca: soul flight, visions of predatory animals (especially jaguars and snakes), contact with supernatural beings, visions of distant places, and the religious quality of the experience.
-
-He suggested that the themes "invite us to regard some shamanistic conceptions more as the expression of universal experiences than in terms of acculturation to local traditions." The complex of images — the polarity of being and becoming, the battle of opposites and their reconciliation through death and destruction by fire, tigers, or devouring snakes — "is essentially religious," and "every myth presents us one particular aspect of the same experience."
-
-## Therapeutic Implications
-
-Naranjo observed that the harmaline experience had significant therapeutic effects in his psychotherapeutic practice. Several subjects reported that the experience helped them gain perspective on their personal problems and life situations. The sense of encountering a deeper self — beyond the body and the mind — provided a framework for understanding and integrating previously intractable psychological difficulties.
-
-## See Also
-
-[[beta-carboline-chemistry]]
+Naranjo noted striking parallels between the experimental subjects' experiences and those reported by indigenous [[beta-carboline-chemistry]]
 banisteriopsis caapi
-[[mescaline-derivatives-pihkal]]
 [[shamanic-use-of-psychedelics]]
-[[hallucinogens-and-shamanism-harner-anthology]] alongside ethnographic accounts from Amazonia and Mesoamerica, Naranjo's study provided a unique comparative perspective by showing that non-indigenous subjects experienced many of the same visionary themes as indigenous ayahuasca users.
-
-Naranjo was a student of Fritz Perls and a pioneer of Gestalt therapy and the Enneagram system of personality typing. His interest in harmaline grew from his conviction that psychedelic substances could accelerate psychotherapeutic processes. The harmaline study was part of a broader research program that also included investigations of ibogaine, MDMA, and other psychoactive compounds — work that placed Naranjo at the center of the [[mckenna-suppression-psychedelic-research-lsd-therapy]] community alongside figures like stanislav grof and [[mycopesticides]] admixture plant. This pharmacological approach complemented the ethnographic work documented in [[mescaline-derivatives-pihkal]] and [[psychedelic-consciousness-models]].
+[[mckenna-suppression-psychedelic-research-lsd-therapy]] community alongside figures like stanislav grof and [[mescaline-derivatives-pihkal]] and [[psychedelic-consciousness-models]].
 
 ## References and Further Reading
 
@@ -88,3 +75,75 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
+
+## Overview
+
+Naranjo Harmaline Yage Experiment represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish naranjo harmaline yage experiment
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving naranjo extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Naranjo Harmaline Yage Experiment finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for naranjo harmaline yage experiment. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+naranjo harmaline yage experiment and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Naranjo Harmaline Yage Experiment has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of naranjo harmaline yage experiment into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions

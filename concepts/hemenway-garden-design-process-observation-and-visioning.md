@@ -12,8 +12,7 @@ type: concept
 
 # Garden Design Process: Observation and Visioning
 
-[[toby-hemenway]] lays out a five-step design process for creating
-an [[soil-building-ecological-garden]]: observation, visioning, planning,
+[[soil-building-ecological-garden]]: observation, visioning, planning,
 development, and implementation. This process draws from
 hemenway-zone-and-sector-planning
 to organize elements spatially.
@@ -34,27 +33,8 @@ improvement that no amount of initial planning could predict.
 
 ## See Also
 
-- [[permaculture-mapping-and-base-maps]]
 - [[gaias-garden-many-gardens-garden-design-process]]
-- [[ecological-garden-design]]
-## Practical Applications
-
-Garden Design Process - Observation and Visioning has a range of practical applications that make it relevant to
-both researchers and practitioners. Understanding these applications
-requires familiarity with the underlying principles and their
-manifestation in real-world contexts. The breadth of applications
-reflects the fundamental importance of this topic across disciplines.
-
-Implementation varies based on scale, available resources, and
-specific objectives. Small-scale applications may be relatively
-straightforward, while larger implementations require more careful
-planning and coordination. Adaptation to local conditions is always
-essential for achieving optimal results regardless of scale.
-
-Documented case studies provide valuable reference points, though
-each situation presents unique combinations of opportunities and
-constraints that require context-specific solutions. The most
-successful implementations combine established [[arbuscular-mycorrhizal-inoculum-production-best-practices]] with
+- [[arbuscular-mycorrhizal-inoculum-production-best-practices]] with
 creative adaptation to local conditions and emerging challenges.
 
 ## Key Considerations
@@ -97,8 +77,6 @@ through generations to modern scientific approaches, the evolution continues
 to inform current best practices and research directions.
 
 ## See Also
-- [[doc]]
 - [[maps]]
-- [[det]]
 - [[permaculture]]
 - [[mycorrhiza]]

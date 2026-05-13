@@ -13,10 +13,7 @@ sources: ["raw/papers/shulgin-a-tihkal.md"]
 - Full name: 4-Hydroxy-N,N-diisopropyltryptamine
 - Synonyms: 3-[2-(diisopropylamino)ethyl]-4-indolol
 - Class: Tryptamine, 4-hydroxy substituted, N,N-diisopropyl
-- Source: [[5-meo-dipt-entity-tihkal]],
-which is known as a dramatic sex-enhancer. This substitution pattern has
-not been explored in the [[amt-entity-tihkal]] — N,N-dimethyl analogue
-- [[5-meo-mipt-entity-tihkal]] — N-methyl-N-isopropyl analogue
+- Source: [[amt-entity-tihkal]] — N,N-dimethyl analogue
 - [[tryptamine-family-overview]] — structural family context
 - [[5-meo-dmt-compound-profile]] — parent compound
 ## Practical Applications

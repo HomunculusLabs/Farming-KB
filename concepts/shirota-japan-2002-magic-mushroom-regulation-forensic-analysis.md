@@ -11,7 +11,7 @@ type: concept
 
 ## Overview
 
-On June 6, 2002, Japan enacted regulations under the Narcotics and Psychotropic Control Law prohibiting fungi containing [[psilocin-and-psilocybin-chemistry]]. This legislative change, described by Shirota, Hakamata, and Goda (2003) in their paper on the concise large-scale synthesis of psilocin and psilocybin, created an urgent need for reliable analytical methods and pure reference standards for the identification and quantification of these [[controlled-substances-act-and-psychedelic-research]] in seized mushroom samples. The regulatory context directly motivated the development of the efficient synthesis route described in their paper, which was published in the Journal of Natural Products in 2003.
+On June 6, 2002, Japan enacted regulations under the Narcotics and Psychotropic Control Law prohibiting fungi containing [[controlled-substances-act-and-psychedelic-research]] in seized mushroom samples. The regulatory context directly motivated the development of the efficient synthesis route described in their paper, which was published in the Journal of Natural Products in 2003.
 
 ## Pre-Regulation Context
 
@@ -19,10 +19,9 @@ On June 6, 2002, Japan enacted regulations under the Narcotics and Psychotropic 
 
 Prior to the 2002 regulation, the use of "magic mushrooms" (hallucinogenic fungi containing psilocin and psilocybin) had become popular among young people in Japan. Shirota et al. (2003) note several factors contributing to this popularity:
 
-- **Relative inexpensiveness**: Compared to other controlled substances, psilocybin mushrooms were relatively affordable.
+- **Relative inexpensiveness**: Compared to other controlled substances, [[psilocybin-mushrooms]] were relatively affordable.
 - **Lower awareness of guilt**: The mushrooms were perceived as natural products rather than synthetic drugs, reducing the psychological barrier to use.
-- **Legal gray area**: Prior to the 2002 regulation, the sale and possession of psilocybin-containing mushrooms existed in a legal gray area. While [[hplc-analysis-of-psilocybin-and-psilocin]] themselves were technically controlled substances, the fresh mushrooms containing these compounds were not explicitly scheduled, allowing commercial sale through shops and online retailers.
-- **Cultural factors**: Interest in natural [[cultural-evolution-and-psychoactive-substances]] aligned with broader Japanese cultural appreciation for natural products and fungi (notably including the long tradition of shiitake [[pine-disease-and-matsutake-mushroom-decline]] appreciation).
+- **Legal gray area**: Prior to the 2002 regulation, the sale and possession of psilocybin-containing mushrooms existed in a legal gray area. While [[cultural-evolution-and-psychoactive-substances]] aligned with broader Japanese cultural appreciation for natural products and fungi (notably including the long tradition of shiitake [[pine-disease-and-matsutake-mushroom-decline]] appreciation).
 
 ### Commercial Availability
 

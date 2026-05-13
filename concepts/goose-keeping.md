@@ -28,11 +28,11 @@ Geese are excellent homestead birds -- they are largely self-feeding on pasture,
 ### Choosing
 
 - Meat production: Embden, Toulouse
-- [[mollison-designers-chicken-tractors-egg-production]]: Chinese, Pilgrim
-- Weed/[[mollison-geese-grass-control-and-integrated-poultry]]: Chinese, Roman Tufted
+- Egg production: Chinese, Pilgrim
+- Weed/grass control: Chinese, Roman Tufted
 - Small homestead: Pilgrim, Roman Tufted
 - Watchdog/alert: African, Chinese
-- [[cold-climate-gardening]] hardiness: Embden, Toulouse, Pilgrim
+- Cold climate hardiness: Embden, Toulouse, Pilgrim
 
 ## Housing
 
@@ -51,7 +51,7 @@ Geese are excellent homestead birds -- they are largely self-feeding on pasture,
 
 - Geese are large and generally not preyed upon by small predators
 - 3-4 foot fencing is sufficient to contain them (they don't fly well)
-- Electric poultry netting works well for [[comparison-rotational-grazing-vs-continuous-grazing]]
+- Electric poultry netting works well for rotational grazing
 - Protect from coyotes, stray dogs, and foxes -- especially goslings
 - Night shelter recommended even for free-range birds
 
@@ -141,9 +141,10 @@ Geese are primarily grazers and can meet most of their nutritional needs from go
 - Geese lay in nests early in the morning
 - Collect eggs daily; geese are not reliable setters unless broody
 
-### Meat Production
+## See Also
 
-- Processing age: 12-16 weeks for tender meat, 20+ weeks for roasting birds
-- Dressing percentage: approximately 70-75% of live weight
-- Goose fat is highly valued for cooking (renders easily from skin and fat deposits)
-- See [[animal-harvest-and-processing]] for detailed processing
+- [[goose-keeping-detailed]]
+- [[goose-keeping-guide]]
+- [[faires-goose-management-and-integration]]
+- [[chicken-keeping-guide]]
+- [[comparison-rabbit-husbandry-vs-chicken-keeping]]

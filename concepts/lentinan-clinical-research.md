@@ -8,10 +8,7 @@ sources: []
 ---
 # Lentinan Clinical Research
 
-Lentinan is a purified β-(1→3)-D-glucan with β-(1→6) branches extracted from the fruiting bodies and mycelium of [[mushroom-polysaccharide-chemistry]] — structural chemistry of lentinan
-- [[psk-psp-polysaccharide-peptides]] — similar compounds from [[comparison-chaga-vs-turkey-tail-medicinal-mushrooms-comprehensive]]
-- [[shiitake-cultivation-guide]] — practical [[mushroom-growing-methods-comparison]]
-- [[sarcoma-180-antitumour-assay]]
+Lentinan is a purified β-(1→3)-D-glucan with β-(1→6) branches extracted from the fruiting bodies and mycelium of [[psk-psp-polysaccharide-peptides]] — similar compounds from [[shiitake-cultivation-guide]] — practical [[sarcoma-180-antitumour-assay]]
 - [[cancer-agaricus-blazei]]
 ## Background and Context
 

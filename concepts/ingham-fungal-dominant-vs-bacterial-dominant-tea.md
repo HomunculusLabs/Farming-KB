@@ -11,35 +11,11 @@ tags: [fungi]
 
 # Fungal-Dominant vs Bacterial-Dominant Compost Tea
 
-The distinction between fungal-dominant and bacterial-dominant compost teas is one of the most important concepts in AACT application. It is always a question of dominance: even in fungal tea, bacteria must be present, but the fungal component must reach minimum levels for [[aact-disease-suppression-mechanisms-ingham]].
-
-## When to Use Bacterial Tea
-
-Bacterial tea is appropriate when:
-
-- The soil is too fungal (uncommon; only about 25% of cases)
-- Targeting specific diseases preventable with bacteria alone (black spot, apple scab in favorable years, mildew in unfavorable years, Taphrina leaf curl, Fusarium/snow mold)
-- You need huge numbers and quantities of bacteria quickly
-- The tea has great bacterial numbers and diversity
-
-A bacterial tea is still "compost tea" if it contains fungi, protozoa, and nematodes from the compost. True compost tea should have the full food web.
-
-## When to Use Fungal Tea
-
-Fungal tea is needed in 75% of cases (most soils are too bacterial). Fungal tea is critical for:
-
-- Suppressing root rot diseases
-- Holding calcium, nitrogen, and phosphorus in the soil
-- Building soil structure for 30-50% water use reduction
-- Foliar [[cervantes-pest-disease-prevention-overview]] when conditions favor disease (mildew, anthracnose)
+The distinction between fungal-dominant and bacterial-dominant compost teas is one of the most important concepts in AACT application. It is always a question of dominance: even in fungal tea, bacteria must be present, but the fungal component must reach minimum levels for [[cervantes-pest-disease-prevention-overview]] when conditions favor disease (mildew, anthracnose)
 - Brown rot on cherries, Verticillium wilt, cedar apple rust
-- Scale [[mushroom-pests-insect-control-stamets]] on rhododendrons and apples
+- Scale [[bioremediation-fungal-biomass-biosorbent-material]] is the difficult part. The compost must have good fungal biomass, the machine must extract fungal hyphae intact, and oxygen must be maintained throughout brewing.
 
-## Fungal Dominance Requirements
-
-Achieving adequate [[bioremediation-fungal-biomass-biosorbent-material]] is the difficult part. The compost must have good fungal biomass, the machine must extract fungal hyphae intact, and oxygen must be maintained throughout brewing.
-
-**Critical oxygen threshold**: When [[aact-dissolved-oxygen-fine-bubble-aeration-ingham]] falls below 5.5-6 ppm, [[cervantes-trichoderma-beneficial-fungi]] are lost. This occurs repeatedly in testing. Beneficial fungi do not tolerate oxygen loss in tea, compost, or soil.
+**Critical oxygen threshold**: When [[cervantes-trichoderma-beneficial-fungi]] are lost. This occurs repeatedly in testing. Beneficial fungi do not tolerate oxygen loss in tea, compost, or soil.
 
 Tea goes anaerobic between 14-20 hours of brewing. If oxygen is not maintained, the fungal component will be lost even if bacteria survive.
 
@@ -47,25 +23,7 @@ Tea goes anaerobic between 14-20 hours of brewing. If oxygen is not maintained, 
 
 Molasses at high concentration (5%) helps fungi significantly more than bacteria. However, for pure fungal growth, neither molasses nor honey is ideal. Better choices:
 
-- **[[aact-fish-hydrolysate-marine-brewing-ingredients-ingham]]**: Enzymatically hydrolyzed, containing bone, cartilage, and scale material
-- **Humic acids**: Made by enzymatic hydrolysis of leonardite or hot water extraction
-- **Oatmeal, oat bran**: Better fungal foods than molasses
-
-Molasses is primarily a bacterial food. At 5% it helps both, but bacterial biomass remains high regardless.
-
-## Fungal Compost Requirements
-
-To build fungal compost for tea:
-
-- Add wood chips (1/8 to 1/2 inch, with about 5% up to 1 inch)
-- Include shredded paper, shredded cardboard, dried leaves
-- Add anything with a wide carbon-to-nitrogen ratio
-- Add fungal-strand material at the beginning of the composting pile
-- Target compost with 150-500+ micrograms total fungal biomass per gram dry weight
-
-## Fungal Biomass Thresholds
-
-- **Minimum for [[cervantes-damping-off-seedling-disease-prevention]]**: 2 micrograms fungal biomass in tea (below this, prevention is unreliable)
+- **[[cervantes-damping-off-seedling-disease-prevention]]**: 2 micrograms fungal biomass in tea (below this, prevention is unreliable)
 - **Good fungal compost**: 150+ micrograms, preferably 300+ micrograms total fungal biomass
 - **Active fungi in compost**: 10+ micrograms per gram dry weight
 - **High biomass tea**: Can reach 800 micrograms; this can be diluted to 2 gallons per acre instead of the standard 5
@@ -77,12 +35,7 @@ Match the fungal:bacterial ratio to the plant's requirements:
 - **Vegetables and annual crops**: Generally bacterial-dominant soils
 - **Perennials, trees, shrubs**: Generally fungal-dominant soils
 - **Foliage**: Generally needs tea as fungal as possible
-- **Foliar coverage target**: 60-70% bacteria, 2-5% fungi on [[aact-foliar-sticker-spreaders-leaf-surface-attachment-ingham]]
-- **Fungi at 5%+ of 70% total coverage**: Required for full disease protection
-
-## Hyphal Diameter as Health Indicator
-
-Literally the most beneficial species of fungi tend to have the widest diameter hyphae. Average hyphal diameter of 2.5 micrometers or greater is desired in compost. A few pathogenic species have wide hyphae, but those conditions typically also select for narrow-diameter fungi. A sick soil's [[air-pollution-fungal-community-responses]] generally lacks wide-diameter hyphae.
+- **Foliar coverage target**: 60-70% bacteria, 2-5% fungi on [[air-pollution-fungal-community-responses]] generally lacks wide-diameter hyphae.
 
 ## The Whole Food Web
 
@@ -117,8 +70,81 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[fungal-hyphae]]
 - [[dom]]
-- [[composting]]
 - [[trichoderma]]
 - [[building-soil]]
+
+## Overview
+
+Ingham Fungal Dominant Vs Bacterial Dominant Tea represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish ingham fungal dominant vs bacterial dominant tea
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving ingham extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Ingham Fungal Dominant Vs Bacterial Dominant Tea finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for ingham fungal dominant vs bacterial dominant tea. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+ingham fungal dominant vs bacterial dominant tea and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Ingham Fungal Dominant Vs Bacterial Dominant Tea has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of ingham fungal dominant vs bacterial dominant tea into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and

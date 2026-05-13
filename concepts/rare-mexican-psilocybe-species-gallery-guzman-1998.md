@@ -10,38 +10,7 @@ tags: [psilocybe, mexico, rare-species, neurotropic-fungi, guzman, endemism, bio
 
 ## Overview
 
-Mexico is the global center of [[mexico-center-neurotropic-fungal-diversity]], with 44 taxa of
-Psilocybe (39% of the world total) described from the country. While species
-like P. mexicana, P. cubensis, and P. caerulescens are well known, many
-Mexican species remain rare, poorly documented, and restricted to specific
-habitats. Guzman, Allen & Gartz (1998) documented numerous rare endemic species
-in their worldwide distribution study, many known from only one or a few
-collections. This gallery profiles several of the more notable rare species.
-
-## Psilocybe galindoi Guzman
-
-P. galindoi is a bluing neurotropic species described by Guzman from Mexico.
-It belongs to the section of Psilocybe containing species with prominent
-pleurocystidia and is found in subtropical humid forests. The species was
-documented in the Guzman, Allen & Gartz checklist as one of the many endemic
-Mexican taxa contributing to the country's extraordinary neurotropic fungal
-diversity. Like many rare Mexican Psilocybe species, P. galindoi is associated
-with mesophytic forest habitats and is known from limited collections.
-
-The holotype material was collected in Mexican mesophytic forest, a vegetation
-type that Guzman identified as the primary habitat for the majority of
-Mexico's neurotropic Psilocybe species. Of the 42 neurotropic Psilocybe
-species reported in Guzman's 1983 monograph, 34 were from mesophytic forests,
-compared to only 4 from tropical forests and 4 from coniferous forests.
-
-## Psilocybe plutonia (Berk. & Curt.) Sacc.
-
-P. plutonia is a small, dark-colored species included in the Guzman, Allen &
-Gartz checklist. It has been documented from the Caribbean and southern Mexico
-and exhibits the characteristic bluing reaction confirming its neurotropic
-status. Its distribution connects the Mexican and Caribbean neurotropic
-mycobiotas, supporting Guzman's observation that Mexico serves as a
-biogeographic convergence zone where northern and [[guzman-allen-gartz-africa-southern-hemisphere-underexplored-neurotropic-fungi]] fungal
+Mexico is the global center of [[guzman-allen-gartz-africa-southern-hemisphere-underexplored-neurotropic-fungi]] fungal
 lineages meet.
 
 ## Psilocybe angustipleurocystidiata Guzman
@@ -55,22 +24,7 @@ of the country's neurotropic fungal flora.
 
 The discovery and description of species like P. angustipleurocystidiata
 illustrates the pattern observed by Guzman that new species of neurotropic
-fungi continue to be found wherever targeted [[guzman-allen-gartz-mycological-exploration-bias-and-underexplored-regions]] occurs.
-This species was described from material collected during Guzman's extensive
-fieldwork in Mexico, where years of systematic exploration have revealed a
-level of Psilocybe diversity unmatched anywhere else in the world.
-
-## Psilocybe hoogshagenii R. Heim
-
-P. hoogshagenii is a notable Mexican species originally described by Roger
-Heim. It occurs in two recognized varieties: var. hoogshagenii and var.
-convexa. Both varieties are illustrated in the Guzman, Allen & Gartz
-publication. The species is found in subtropical habitats in Mexico and is
-one of the bluing Psilocybe species confirmed to contain psilocybin and
-related indole compounds.
-
-P. hoogshagenii is named in honor of the Dutch mycologist who contributed
-to the early scientific study of [[mexican-neurotropic-fungi-diversity]]. The existence of
+fungi continue to be found wherever targeted [[mexican-neurotropic-fungi-diversity]]. The existence of
 two recognized varieties within this species reflects the morphological
 variability that complicates the taxonomy of Psilocybe in Mexico. Guzman
 noted that taxonomic challenges in the genus are particularly acute in
@@ -129,8 +83,7 @@ altitudes.
 
 ## Biogeographic Significance
 
-The concentration of rare [[guzman-allen-gartz-australasian-endemic-psilocybe-species]] in Mexico is a key
-piece of evidence for the [[neurotropic-fungi-southern-hemisphere-origin-biogeography-guzman-1998]] hypothesis proposed
+The concentration of rare [[neurotropic-fungi-southern-hemisphere-origin-biogeography-guzman-1998]] hypothesis proposed
 by Guzman. The high diversity in Mexico, which sits at the junction of
 Nearctic and Neotropical biomes, suggests that the genus diversified
 extensively in this region before spreading northward. Many of the rare
@@ -141,6 +94,6 @@ that have not yet dispersed beyond their limited ranges.
 
 - guzman-allen-gartz-mexico-center-neurotropic-diversity
 - guzman-allen-gartz-mexico-mesophytic-forest-neurotropic-hotspot
-- mexico-center-neurotropic-fungal-biodiversity-guzman-1998
+- [[mexico-center-neurotropic-fungal-biodiversity]]-guzman-1998
 - neurotropic-fungi-southern-hemisphere-origin-hypothesis-guzman-1998
-- psilocybe-genus-global-biodiversity
+- [[psilocybe-genus-global-biodiversity]]

@@ -33,38 +33,7 @@ Toloache, Datura, Pricklyburr, Sacred Datura, Belladonna
 ## Synonyms
 
 - Datura meteloides DC. ex Dunal
-- [[datura-wrightii]] Regel
-- Datura inoxia Mill. (orthographic variant)
-
-## Description
-
-Datura innoxia is a herbaceous perennial plant reaching up to 3 ft
-(1 m) in height. The overall appearance is grayish-green due to
-the dense covering of fine, soft hairs (tomentum) on the foliage,
-stems, and calyx, giving the plant a distinctive velvety texture.
-
-The leaves are unequally ovate, with margins that are repand or
-sub-entire (wavy to nearly smooth), measuring up to 2 to 2.5 in
-(5 cm) in length. The leaves are arranged alternately along the
-stem and emit a characteristic pungent odor when crushed.
-
-The flowers are among the most striking features of the plant.
-They are erect, sweet-scented, and remarkably large, measuring
-5.5 to 9 in (14 to 23 cm) in length. The corolla is white with
-a distinct 10-pointed (or deeply lobed) margin, and the flowers
-typically open in the evening, remaining open through the night
-to be pollinated by moths.
-
-The fruit is a pendent, nearly globose capsule approximately 2 in
-(5 cm) in diameter, covered with sharp, recurved spines. When
-mature, the capsule splits open irregularly to release numerous
-kidney-shaped seeds.
-
-## Distribution
-
-Datura innoxia is native to Mexico and the southwestern United
-States, extending its range through much of the arid and
-semi-arid regions of [[psilocybin-north-america-pacific-northwest]]. The species has been widely
+- [[psilocybin-north-america-pacific-northwest]]. The species has been widely
 naturalized in other parts of the world due to its cultivation
 and the dispersal of its seeds. It commonly grows along roadsides,
 in disturbed areas, washes, and sandy plains.
@@ -75,12 +44,6 @@ Datura innoxia contains tropane alkaloids characteristic of the
 genus Datura and the broader Solanaceae family. The principal
 active compounds are:
 
-- **[[scopolamine]] (hyoscine):** A tropane alkaloid with potent
-  anticholinergic properties. Scopolamine is the primary
-  psychoactive agent in many Datura species, producing
-  deliriant effects including hallucinations, amnesia, and
-  dissociative states.
-
 - **[[hyoscyamine]]:** The levorotatory isomer of [[atropine]],
   hyoscyamine acts as a competitive antagonist of muscarinic
   acetylcholine receptors, contributing to the anticholinergic
@@ -88,3 +51,88 @@ active compounds are:
 
 - **Atropine:** The racemic mixture of hyoscyamine, atropine
   is a well-known anticholinergic alkaloid with effects on the
+
+## Overview
+
+Datura Innoxia represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish datura innoxia
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving datura extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Datura Innoxia finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for datura innoxia. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+datura innoxia and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Datura Innoxia has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of datura innoxia into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[datura-as-hallucinogen]]
+- [[datura-candida]]
+- [[datura-metel]]
+- [[datura-metel-old-world-ethnobotany]]
+- [[golden-guide-datura-and-nightshade-deliriants]]

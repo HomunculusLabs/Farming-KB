@@ -39,33 +39,9 @@ The strategy Mollison proposes is to set up an **interception net** from "source
 - **Water**: Catching and storing water from hills before it reaches the "sink" of the quiet valley lake
 - **Sunlight**: Intercepting solar energy through plants at multiple canopy levels before it reaches the soil surface and becomes heat
 - **Organic matter**: Capturing nutrients from plant and animal wastes through composting before they leach beyond the root zone
-- **Heat**: Using thermal mass, insulation, and [[passive-solar-design]] to store warmth before it dissipates to the atmosphere
+- **Heat**: Using thermal mass, insulation, and [[ilya-prigogine]] (Nobel Prize 1977) to explain why living systems can seemingly violate the second law of thermodynamics. In closed systems, entropy always increases. But in **open systems** — systems that exchange energy and material with their environment — the rules are different.
 
-If no attempt is made to store or use energy as it passes through the system, it is simply lost to entropy. The interception net is the conceptual and practical tool for preventing this loss.
-
-## Energy Efficiency in Agricultural Systems
-
-Mollison provides striking quantitative comparisons of energy efficiency across agricultural systems:
-
-- **Conventional farming**: Starts at a 10:1 energy ratio against the farmer — meaning ten units of energy are consumed (as fossil fuels in machinery, fertilizers, biocides, and transport) for every one unit of food energy produced. This is a catastrophic thermodynamic loss.
-- **Conservation farming**: Begins to reverse this ratio by reducing external inputs and capturing more on-farm energy
-- **Permaculture**: Can reach a 1:120 energy gain — one hundred twenty units of energy produced (as firewood, food, and other yields) for every one unit of energy invested. This extraordinary ratio comes from designing systems that are largely self-sustaining.
-
-These figures come from Mollison's bar-diagram analysis of farm economics, which accounts for energy across multiple dimensions:
-
-- **Energy produced on farm**: Including fuel oils from crops, petroleum calories, and solar energy captured through plants (solar energy contributes most in conservation farming/permaculture)
-- **Oil/calories as inputs**: Machinery, fuels, fertilizers, and biocides — the external energy burden
-- **Environmental accounting**: Soil loss (including humus and mineral nutrients), water use efficiency, and pollution produced
-
-The transition from conventional agriculture to permaculture represents a fundamental thermodynamic shift — from energy-consuming to energy-producing systems, from entropy acceleration to complexity building.
-
-## Open Systems and the Potential for Self-Organization
-
-Mollison draws on the work of [[ilya-prigogine]] (Nobel Prize 1977) to explain why living systems can seemingly violate the second law of thermodynamics. In closed systems, entropy always increases. But in **open systems** — systems that exchange energy and material with their environment — the rules are different.
-
-Open systems can use energy inflows to build internal order, increasing in complexity and efficiency over time. The biosphere itself is the supreme example: powered by solar energy, it has built increasingly complex and diverse living systems over billions of years. [[edward-goldsmith]]'s formulation captures this: Gaia "systematically builds up the stock of materials that it requires to move towards increasing complexity, diversity, and stability."
-
-[[permaculture-design]] works with this principle deliberately. By ensuring that systems are open to solar energy, water flow, wind, and biological inputs, and by designing to capture and cycle these energies internally, the designer creates conditions for self-organization — systems that become more productive, more diverse, and more stable over time without requiring external energy subsidies.
+Open systems can use energy inflows to build internal order, increasing in complexity and efficiency over time. The biosphere itself is the supreme example: powered by solar energy, it has built increasingly complex and diverse living systems over billions of years. [[permaculture-design]] works with this principle deliberately. By ensuring that systems are open to solar energy, water flow, wind, and biological inputs, and by designing to capture and cycle these energies internally, the designer creates conditions for self-organization — systems that become more productive, more diverse, and more stable over time without requiring external energy subsidies.
 
 ## The Law of Return as Thermodynamic Imperative
 
@@ -105,3 +81,11 @@ Each level represents an interception point in the energy net. The more levels t
 The ultimate goal of permaculture energy design is the self-managed system — one that captures, stores, and cycles enough energy to maintain itself without external inputs. Such a system approaches the thermodynamic efficiency of a mature natural ecosystem while producing useful yields for people.
 
 Achieving this requires designing for energy autonomy at every level: water that falls on the site stays on the site; nutrients harvested from the soil are returned through composting; biomass produced on-site fuels on-site energy needs; and the system's internal feedback loops maintain fertility, pest balance, and microclimate stability. The designer sets up the conditions; the system manages itself.
+
+## See Also
+
+- [[laws-return-thermodynamics-design]]
+- [[isaac-asimov-thermodynamics]]
+- [[laws-of-thermodynamics]]
+- [[holmgren-voluntary-frugality-energy-descent-prosperous-road-down]]
+- [[permaculture-energy-cycling-and-resource-efficiency]]

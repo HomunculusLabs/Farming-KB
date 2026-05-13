@@ -22,33 +22,6 @@ methods, and mechanisms of action differ significantly.
 
 ## Arnica
 
-[[arnica-montana]]
-
-Arnica montana, commonly known as mountain arnica or leopard's bane, is a
-perennial herb native to the mountainous regions of Europe. It has been used for
-centuries in traditional medicine primarily as a topical remedy for external
-trauma and inflammation.
-
-The medicinal value of arnica stems from its rich content of sesquiterpene
-lactones, particularly helenalin and its derivatives. These compounds work by
-inhibiting NF-κB transcription factor activation, which reduces the production
-of inflammatory mediators. This makes arnica particularly effective for treating
-bruises, sprains, muscle soreness, and postoperative swelling when applied
-externally.
-
-Arnica is most commonly prepared as tinctures, gels, creams, and ointments for
-topical application. Homeopathic preparations are also popular, though their
-efficacy remains controversial. The herb is rarely used internally due to its
-potential toxicity—oral consumption can cause dizziness, tremors, and cardiac
-arrhythmias.
-
-In cultivation, arnica prefers nutrient-poor acidic soils in mountain meadows and
-requires well-draining conditions. The species is critically endangered in several
-European countries due to overharvesting, leading to increased cultivation
-efforts to meet commercial demand.
-
-## Echinacea
-
 [[echinacea-purpurea]]
 
 Echinacea purpurea, known as purple coneflower, is native to eastern and central
@@ -121,8 +94,6 @@ applications and potential interactions with medications.
 
 ## See Also
 
-- [[arnica-chamissonis]]
 - [[echinacea-angustifolia]]
-- [[comparison-calendula-vs-chamomile]]
 - [[comparison-ashwagandha-vs-echinacea]]
 - [[herbal-medicine-making-basics]]

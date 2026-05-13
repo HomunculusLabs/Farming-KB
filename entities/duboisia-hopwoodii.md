@@ -81,13 +81,11 @@ leaves include:
 In addition to the leaf alkaloids, hallucinogenic tropane alkaloids
 have been discovered in the roots of Duboisia hopwoodii:
 
-- **[[hyoscyamine]]**
 - **[[scopolamine]]**
 
 These tropane alkaloids are characteristic of the Solanaceae
 family and are found in many related psychoactive plants including
-[[dighton-endophyte-alkaloid-grass-herbivore-defense]]
-- [[duboisia-hopwoodii-pituri-ethnobotany]]
+[[duboisia-hopwoodii-pituri-ethnobotany]]
 - duboisia-myoporoides
 - nicotiana-tabacum
 - [[datura-innoxia]]

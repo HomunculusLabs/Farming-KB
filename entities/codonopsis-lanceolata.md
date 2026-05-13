@@ -22,11 +22,7 @@ sources:
 
 ## Overview
 
-**Codonopsis lanceolata**, commonly known as deodeok (더덕) in Korean, is a perennial climbing herb in the Campanulaceae family. It is native to [[neurotropic-fungi-japan-east-asia-species-cultural-context]] and cultivated primarily for its edible, fleshy roots that are a traditional food in Korean cuisine.
-
-The roots have a sweet, slightly bitter flavor and are prepared in numerous dishes including salads, stir-fries, and grilled preparations. The species also has a long history of use in Korean traditional medicine as an anti-inflammatory and expectorant.
-
-It is sometimes called "poor man's ginseng" due to its [[panax-ginseng]] and superficial resemblance to ginseng roots, though the two plants are unrelated. The species is commercially cultivated in South Korea, China, and Japan.
+**Codonopsis lanceolata**, commonly known as deodeok (더덕) in Korean, is a perennial climbing herb in the Campanulaceae family. It is native to [[panax-ginseng]] and superficial resemblance to ginseng roots, though the two plants are unrelated. The species is commercially cultivated in South Korea, China, and Japan.
 
 The name "deodeok" derives from the Korean words for "mountain" and "virtue," reflecting its traditional reputation as a strengthening food. Annual production in South Korea exceeds 15,000 tonnes of fresh roots, with a market value of approximately 50 billion won.
 
@@ -55,7 +51,7 @@ The chromosome number is 2n = 16, which is the base number for the genus Codonop
 
 Codonopsis lanceolata is native to Korea, Japan, eastern China, and the Russian Far East. It grows in mountain forests, forest margins, and scrubland at elevations of 100–2,000 m.
 
-The species prefers partial shade, well-drained humus-rich soils, and cool, moist growing conditions. In the wild it is typically found climbing through shrubs and small trees on forest edges.
+The species prefers partial shade, well-drained [[humus]]-rich soils, and cool, moist growing conditions. In the wild it is typically found climbing through shrubs and small trees on forest edges.
 
 Korea is the center of both wild diversity and commercial cultivation. Major production areas include Gangwon-do and Gyeongsangbuk-do provinces, where it is grown on trellis systems in mountain fields.
 
@@ -85,6 +81,6 @@ Commercial cultivation uses seed or root segment propagation. Seeds require 60�
 
 Plants are grown on trellises or support structures in rows spaced 30–40 cm apart. The crop requires 2–3 years of growth before roots reach marketable size and quality.
 
-Optimal soil pH is 5.5–6.5 with [[fukuoka-textdoc-composting-critique-futility-prepared-organic-matter]] content above 3%. Mulching with [[fukuoka-rice-straw-mulch-central-technique]] helps maintain soil moisture and [[query-how-do-cover-crops-suppress-weeds]] during the long [[extending-growing-season]].
+Optimal [[soil-ph]] is 5.5–6.5 with [[fukuoka-rice-straw-mulch-central-technique]] helps maintain soil moisture and [[extending-growing-season]].
 
 Harvesting occurs in autumn after the aerial parts die back. Yields average 8–12 tonnes per hectare of fresh roots under standard cultivation practices.

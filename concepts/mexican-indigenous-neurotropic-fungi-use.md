@@ -2,84 +2,11 @@
 
 ## Overview
 
-Mexico is the center of [[mexico-center-neurotropic-fungal-diversity]] and the heartland of
-indigenous mushroom sacrament traditions. With 76 neurotropic species (44
-*Psilocybe*), Mexico has the richest tradition of ceremonial fungi use in
-the world. Guzmán (1997) documented more than 200 common names for these
-fungi, many in indigenous languages, reflecting their deep cultural
-significance across dozens of ethnic groups.
-
-## Nahuatl and Indigenous Names
-
-The most famous name is **teonanácatl**, meaning "divine mushroom" or "flesh
-of the gods," first reported by Sahagún (1569-1582) and later by Schultes
-(1939). This term has become indiscriminately used for any Mexican
-hallucinogenic fungi, though it originally referred to specific species.
-
-Other indigenous names documented by Guzmán include:
-
-| Name | Translation | Likely Species |
-|------|-------------|----------------|
-| apipiltzin | kid or little boy | — |
-| atkad | mayor or leader | — |
-| di nizé taaya | fungus of the genius | — |
-| shi thó | that eruptions thing | — |
-| teotlaquilnanácatl | divine fungus | — |
-
-## Spanish Common Names
-
-Indigenous peoples commonly use Spanish names when referring to sacred
-mushrooms:
-
-- **San Isidros** — named after the Spanish patron saint of agriculture;
-  commonly used for *Psilocybe cubensis*
-- **Pajaritos** — meaning "little birds"; commonly used for *Psilocybe
-  mexicana*
-- **Derrumbes** — meaning "landslides"; commonly used for *Psilocybe
-  zapotecorum*
-
-## Species and Their Ceremonial Context
-
-### Psilocybe cubensis
-
-Known as "san isidros," this species is one of the most widely used
-ceremonial mushrooms in Mexico. It grows in subtropical and tropical
-environments, often in pastures and on dung substrates. Its robust growth
-and wide distribution made it accessible to multiple indigenous groups.
-
-### Psilocybe mexicana
-
-Known as "pajaritos" (little birds), *P. mexicana* was one of the first
-species identified by Wasson and Heim in their pioneering studies of the
-1950s. It is particularly associated with the Mazatec people of Oaxaca.
-This species also forms sclerotia (truffles), known as "philosopher's
-stone" in modern commercial contexts.
-
-### Psilocybe zapotecorum
-
-Known as "derrumbes," named for its habit of appearing after landslides
-or soil disturbance. Associated with the Zapotec people of Oaxaca. This
-species grows in muddy, disturbed ground and is one of the more potent
-Mexican *Psilocybe* species.
-
-## The Mixtec Puffball Tradition
-
-The Mixtec Indians of Oaxaca used several species of puffballs
-(Gasteromycetes) as narcotic fungi in their ceremonies. Heim and Wasson
-(1962) originally reported *[[lycoperdon-mixtecorum]]* and *L. marginatum*
+Mexico is the center of [[lycoperdon-mixtecorum]]* and *L. marginatum*
 as psychoactive species used by the Mixtec.
 
 However, Ott et al. (1975) conducted a thorough investigation in the same
-locality and found that the Mixtec "[[guzman-allen-gartz-mixtec-narcotic-puffballs-ott-investigation]]" were actually a
-mixture of at least nine species of fungi containing no neurotropic
-properties:
-
-- *Vascellum pratense*
-- *V. curtisii*
-- *V. intermedium*
-- *Lycoperdon oblongiosporum*
-- *Rhizopogon* sp.
-- *[[astraeus-hygrometricus]]*
+locality and found that the Mixtec "[[astraeus-hygrometricus]]*
 - *Scleroderma verrucosum* (experimentally proven poisonous)
 - Plus others
 
@@ -91,28 +18,7 @@ tradition that had become dissociated from the original active species.
 
 A significant source of confusion involves the Mazatec Indians of Oaxaca,
 who use the name "nise" (meaning "little bird") for both *Psilocybe
-mexicana* and *[[schizophyllum-commune]]*. These species have no relationship
-with respect to their properties — *P. mexicana* is a potent
-psilocybin-containing mushroom while *S. commune* is a common edible
-fungus sold in markets in Guatemala and southeastern Mexico. This naming
-overlap has caused errors in ethnobotanical literature.
-
-## The Cult of Ganoderma lobatum
-
-One of the most unusual traditions involves a church built in Chignahuapan,
-Puebla, specifically in honor of *Ganoderma lobatum*. The Indians of the
-region regard this fungus as a saint. The church contains a specimen of
-the fungus decorated on its inner surface with an arresting sketch of Christ
-with a sun and moon on each side. There is no evidence of neurotropic
-properties for *G. lobatum* — its sacred status likely relates to the
-regional use of active *Psilocybe* species.
-
-## Trique Cordyceps and Elaphomyces Ceremonies
-
-The Trique Indians of Alta Mixteca (Oaxaca) conduct special nocturnal
-ceremonies using two species of *Cordyceps* — known as "hombrecitos"
-(little men, *C. capitata*) and "mujercitas" (little women, *C.
-ophioglossoides*). These are eaten either with *[[psilocybe-muliercula]]* or
+mexicana* and *[[psilocybe-muliercula]]* or
 alone.
 
 In the center of the ceremony room, a specimen of *Elaphomyces* (the host
@@ -134,3 +40,88 @@ fungi in the country, advancing Mexican mycology as a whole.
 Guzmán, G., Allen, J.W. & Gartz, J. (1998/2000). "A worldwide geographical
 distribution of the neurotropic fungi, an analysis and discussion." Ann. Mus.
 civ. Rovereto, Sez.: Arch., St., Sc. nat. Vol. 14: 189-280.
+
+## Overview
+
+Mexican Indigenous Neurotropic Fungi Use represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish mexican indigenous neurotropic fungi use
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving mexican extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Mexican Indigenous Neurotropic Fungi Use finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for mexican indigenous neurotropic fungi use. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+mexican indigenous neurotropic fungi use and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Mexican Indigenous Neurotropic Fungi Use has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of mexican indigenous neurotropic fungi use into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[acapulco-gold-heirloom-mexican-sativa]]
+- [[cordyceps-neurotropic-fungi-mexican-indigenous-ceremonies]]
+- [[guzman-allen-gartz-indigenous-mexican-mushroom-nomenclature-sacred-names]]
+- [[mexican-neurotropic-fungi-diversity]]
+- [[mexican-sacred-mushroom-traditions]]

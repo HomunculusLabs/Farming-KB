@@ -9,13 +9,7 @@ sources:
   - "raw/papers/bill-mollison-permaculture-design-course.md"
 ---
 # Cool Climate Settlement and House Design (Mollison) Updated: 2026-04-18 Source: Permaculture: A Designers' Manual, Bill Mollison, Section 12.5 (pp. 414-417) ## The Energy Challenge The greatest cost in house maintenance in temperate cold areas is that of space and water heating; together, these may make up 80% of all domestic energy costs. Both settlement design overall and house design in detail is a critical conservation factor in human occupation of winter-cold areas, more so than in tropical areas or in hot deserts. Not only housing, but barns, outbuildings, and livestock shelters must be solid, well-designed, and carefully assessed for thermal efficiency. ## Settlement Design Settlement site choice, and the surrounding plantings in landscape, are probably so critical as to provide for 70% of the conservation of heat energy in cool climates; actual structural techniques cope with the rest. ### Key Settlement Principles - Village or streets aligned east-west at the mid-slope (thermal belt) of a sunfacing slope, preferably with forests and high water storages above the site. - Housing closely placed or conjoined at east and west walls, and preferably of two to four stories. These factors reduce insulation costs and create a compact site. - Careful planning of accessory landscaping to provide for: - Dense windbreak polewards or uphill of the settlement, and to the east and west (a "suntrap" structure). - Dense attached vines on all sound masonry walls, or out from wooden walls, to assist insulation. - Deciduous trees to sunwards chosen to admit low winter light to all facades to the sunward aspect, especially in mid-winter. - Siting to avoid unstable soils, avalanche tracks, or flooding areas, and where possible above local frostlines. - Site to be off radioactive or radio-emitting rocks if possible. Preferably, settlements in cool areas should present a stepped aspect, so that each dwelling presents a full facade to the winter sun. ## House Design Given that settlement design is so important, house design must also be optimized. Key elements include: compact form to minimize surface area, thermal mass on sun-facing walls, insulation levels of R-30 or higher in ceilings and R-20 in walls, double or triple glazing on all windows, and vestibules or air locks at all entries. Earth-sheltered or earth-bermed construction reduces heating costs by 40-60% compared to conventional above-ground structures. Passive solar design with proper overhang ratios allows winter sun penetration while excluding summer heat.
-- [[keyline-design-water-management]]
-
-## Merged: Mollison Cool Climate Design
-
-# Mollison's Cool Climate Design
-
-Chapter 12 of Permaculture: A Designers' Manual addresses humid cool climates, defined as areas where the coldest month averages below 0 degrees Celsius (32 degrees Fahrenheit) and the warmest month averages above 10 degrees Celsius (50 degrees Fahrenheit). These mesothermal climates cover vast areas of Europe, [[psilocybin-north-america-pacific-northwest]], Asia, southern South America, and the southern half of Australia, supporting diverse agricultural and forestry systems but presenting unique design challenges.
+- [[psilocybin-north-america-pacific-northwest]], Asia, southern South America, and the southern half of Australia, supporting diverse agricultural and forestry systems but presenting unique design challenges.
 
 ## Climate Characteristics
 
@@ -47,17 +41,11 @@ Houses must be carefully constructed for winter warmth, with cellars or pit stor
 
 ## Traditional Farming Systems
 
-Cool temperate regions developed livestock shedding in winter, manure spreading on fields, hay feed stores in barns, ley crop management, intensive livestock husbandry, and root crop production for winter storage (turnip, beet, potato, carrot, parsnip). These traditional systems maintained soil fertility for centuries before modern chemical agriculture disrupted the nutrient cycles. [[permaculture-design]] in cool climates can integrate the best of these traditional practices with modern species selection and [[holmgren-permaculture-twelve-design-principles-framework]].
+Cool temperate regions developed livestock shedding in winter, manure spreading on fields, hay feed stores in barns, ley crop management, intensive livestock husbandry, and root crop production for winter storage (turnip, beet, potato, carrot, parsnip). These traditional systems maintained soil fertility for centuries before modern chemical agriculture disrupted the nutrient cycles. [[holmgren-permaculture-twelve-design-principles-framework]].
 
 ## Design Priorities
 
-Mollison identifies several priorities for cool climate design. Wind protection is paramount across coastal and upland regions. Frost avoidance determines species selection and planting sites. Soil management through [[composting]], green manures, and minimal tillage maintains the humus that cool temperate soils naturally accumulate. [[comparison-season-extension-techniques-vs-cold-frame-gardening]] through glasshouses, cold frames, and thermal mass structures extends the growing season. Winter food storage and preservation ensures year-round food security. Firewood production must be planned as a long-term [[mollison-pdc-forest-management-products]] activity.
-
-## Water Management in Cool Climates
-
-Rainfall patterns in cool humid climates demand careful water design.
-Winter precipitation often exceeds 40 inches annually but much falls as
-snow that releases slowly in spring. [[keyline-design-water-management]]
+Mollison identifies several priorities for cool climate design. Wind protection is paramount across coastal and upland regions. Frost avoidance determines species selection and planting sites. Soil management through [[comparison-season-extension-techniques-vs-cold-frame-gardening]] through glasshouses, cold frames, and thermal mass structures extends the growing season. Winter food storage and preservation ensures year-round food security. Firewood production must be planned as a long-term [[keyline-design-water-management]]
 principles apply well to glaciated landscapes — plow along contours to
 slow runoff and allow infiltration into the mineral-rich soils. High
 elevation storages above settlement sites provide gravity-fed domestic
@@ -71,9 +59,7 @@ proper guttering and storage cisterns.
 ## Energy Systems and Heating Design
 
 Mollison emphasizes that wood is the primary heating fuel for cool
-climate permaculture settlements, requiring long-term [[mollison-pdc-forest-management-products]] planning. A 5-acre mixed woodland can
-sustainably supply 3-5 cords of firewood per year indefinitely through
-coppice and selection harvesting. [[comparison-passive-solar-vs-earth-sheltered]] design reduces heating demand by 50-70% compared to
+climate permaculture settlements, requiring long-term [[comparison-passive-solar-vs-earth-sheltered]] design reduces heating demand by 50-70% compared to
 conventional construction. Rocket mass heaters provide efficient space
 heating with 80-90% less wood than traditional fireplaces. Masonry
 heaters with large thermal mass store heat from a hot, fast fire and
@@ -84,8 +70,7 @@ and straw piles.
 
 ## Integration with Broadscale Systems
 
-Mollison emphasizes that cool climate permaculture must integrate homestead gardens with broadscale farm and forest systems. The home garden provides intensive vegetable and herb production, the orchard provides fruit and nuts, the farm zone provides grains and livestock products, and the forest zone provides timber, fuel, forage, and wild foods. Each zone supports the others through [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]], pest control, and microclimate modification.
-- [[mollison-designers-cool-humid-climate-design-overview]]
+Mollison emphasizes that cool climate permaculture must integrate homestead gardens with broadscale farm and forest systems. The home garden provides intensive vegetable and herb production, the orchard provides fruit and nuts, the farm zone provides grains and livestock products, and the forest zone provides timber, fuel, forage, and wild foods. Each zone supports the others through [[mollison-designers-cool-humid-climate-design-overview]]
 
 ## Practical Applications
 
@@ -116,8 +101,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[bill-mollison]]
 - [[passive-solar-design]]
-- [[psilocybin]]
 - [[dom]]
 - [[acacia]]

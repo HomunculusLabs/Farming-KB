@@ -12,15 +12,13 @@ type: concept
 
 # Trichoderma Prevention and Treatment
 
-Trichoderma, known as Forest [[growing-gourmet-trichoderma-green-mold-management]] or simply Green Mold, is one of
-the most common and damaging contaminants in [[accessible-mushroom-cultivation-for-disabilities]].
+Trichoderma, known as Forest [[accessible-mushroom-cultivation-for-disabilities]].
 Classified under Fungi Imperfecti in the order Moniliales and family
 Moniliaceae, its name derives from the Greek "trichos" (hairy) and
 "derma" (skin). In
 
 5. Practice careful picking and dispose of dead and diseased mushrooms
-6. Control [[stamets-cultivator-pasteurization-vs-sterilization-methods]]
-   of [[mushroom-cultivator-casing-materials-buffering-agents]]
+6. Control [[mushroom-cultivator-casing-materials-buffering-agents]]
 
 ## Treatment Methods
 
@@ -30,11 +28,7 @@ surrounding soil inhibits further growth. The simplest method is covering
 the infecting colony with salt, sodium hypochlorite, or sodium
 bicarbonate (baking soda) or a solution thereof. Recognizing and treating
 the fungus in its earliest stages, before spore production, greatly
-reduces risk of satellite colonies spreading throughout the [[duggar-mushroom-growing-room-design]].
-
-Mushrooms afflicted with Trichoderma should be carefully isolated. All
-items in contact (tools, workers, etc.) should be resanitized per
-[[stamets-mushroom-disease-pathogens-contaminants]]
+reduces risk of satellite colonies spreading throughout the [[stamets-mushroom-disease-pathogens-contaminants]]
 - stamets-casing-layer-design
 - [[stamets-crop-watering-flushing-management]]
 ## Practical Applications

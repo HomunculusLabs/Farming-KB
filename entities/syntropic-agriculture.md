@@ -20,11 +20,9 @@ created: 2026-05-07
 
 ## Overview
 
-**Syntropic agriculture** is a regenerative farming methodology developed by Swiss farmer and researcher **Ernst Götsch** beginning in the 1980s. The system applies [[four-principles-of-natural-farming]] succession ecology to [[fukuoka-agricultural-production-net-energy-deduction]], mimicking the structural and functional dynamics of natural forest ecosystems.
+**Syntropic agriculture** is a regenerative farming methodology developed by Swiss farmer and researcher **Ernst Götsch** beginning in the 1980s. The system applies [[fukuoka-agricultural-production-net-energy-deduction]], mimicking the structural and functional dynamics of natural forest ecosystems.
 
-The approach is practiced primarily in Brazil, where Götsch has restored over 500 hectares of degraded farmland across diverse [[permaculture-designers-manual-climatic-zones-tropical]]. It has since gained international attention as a model for climate-resilient agriculture.
-
-Syntropic farming integrates trees, shrubs, and annual crops in stratified planting arrangements that accelerate natural succession while producing food, fiber, and timber. The methodology operates on the principle that ecosystem functions—water cycling, [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]], energy flow, and community dynamics—can be optimized through intentional species placement and management.
+The approach is practiced primarily in Brazil, where Götsch has restored over 500 hectares of degraded farmland across diverse [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]], energy flow, and community dynamics—can be optimized through intentional species placement and management.
 
 Unlike many agroforestry systems, syntropic agriculture specifically targets the economic productivity of each successional phase. Yields are designed to increase as the system matures, reaching peak productivity in the mature forest stage rather than declining after canopy closure.
 
@@ -82,7 +80,7 @@ Species are chosen from three successional categories. **Pioneers** (e.g., *Mimo
 
 **Climax species** (e.g., *Bertholletia excelsa*, *Caryocar brasiliense*, *Swietenia macrophylla*) are the long-term productive elements. These high-value timber and nut trees define the mature system and provide returns over decades.
 
-Ground cover species and herbaceous layers include beans, squash, cassava, and various green manure crops that fill the lowest strata and provide early-stage food production.
+Ground cover species and herbaceous layers include beans, squash, cassava, and various [[green-manure-crops]] that fill the lowest strata and provide early-stage food production.
 
 ## Benefits
 

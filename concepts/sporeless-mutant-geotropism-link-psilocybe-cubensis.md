@@ -10,7 +10,7 @@ created: 2026-05-09
 
 ## Overview
 
-One of the most significant findings from Edmond R. Badham's 1982 wind tunnel study of *Psilocybe cubensis* was the discovery that **sporeless (sterile) mutants fail to exhibit the negative [[spore-formation-geotropic-response-psilocybe-cubensis-badham-1982]]** that normally occurs at the onset of sporulation. This observation provides critical evidence that [[light-role-spore-formation-geotropic-sensitivity-psilocybe-cubensis]] in mushrooms is mechanistically linked to spore production, likely through a gill-derived hormonal signal.
+One of the most significant findings from Edmond R. Badham's 1982 wind tunnel study of *Psilocybe cubensis* was the discovery that **sporeless (sterile) mutants fail to exhibit the negative [[light-role-spore-formation-geotropic-sensitivity-psilocybe-cubensis]] in mushrooms is mechanistically linked to spore production, likely through a gill-derived hormonal signal.
 
 ## The Geotropic Response in Fertile Basidiocarps
 
@@ -28,7 +28,7 @@ In normal (fertile) *P. cubensis* development, the basidiocarp undergoes a drama
 
 ### Source of the Mutant
 
-Badham studied a sterile mutant derived from the same isolate used in his previous work on [[light-basidiocarp-initiation-psilocybe-cubensis-research]] (Badham, 1980). The mutant was maintained on autoclaved [[pf-tek-vermiculite-brown-rice-substrate-dry-barrier]] alongside the fertile strain under identical conditions.
+Badham studied a sterile mutant derived from the same isolate used in his previous work on [[pf-tek-vermiculite-brown-rice-substrate-dry-barrier]] alongside the fertile strain under identical conditions.
 
 ### Absence of Geotropic Recurvation
 
@@ -50,9 +50,7 @@ Importantly, the sterile mutants displayed **perfectly normal Phase 1 anemotropi
 
 ### Historical Context
 
-The existence of a "[[pf-tek-mushroom-growth-timeline]] hormone" had been postulated by multiple researchers prior to Badham's study:
-
-- **Gruen (1963)** described endogenous growth regulation in *[[genetic-improvement-agaricus-bisporus-molecular-approaches]]* carpophores.
+The existence of a "[[genetic-improvement-agaricus-bisporus-molecular-approaches]]* carpophores.
 - **Hagimoto (1963)** linked a mushroom hormone to geotropic responses in *A. bisporus*.
 - **Hagimoto and Konishi (1960)** showed that agar diffusates from gills could partially replace pileus influence.
 - **Decapitation experiments** had connected these hormones to the lamellae.

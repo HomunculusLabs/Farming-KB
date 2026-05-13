@@ -1,6 +1,6 @@
 ---
 title: "Espalier Fruit Tree Training and Design"
-subtitle: "The art and science of [[hamilton-pruning-and-training-fruit-trees]] trees into two-dimensional forms for space efficiency, yield, and beauty"
+subtitle: "The art and science of hamilton-pruning-and-training-fruit-trees trees into two-dimensional forms for space efficiency, yield, and beauty"
 tags: [espalier, fruit-trees, pruning, orchard-design, ornamental, permaculture, space-efficiency]
 date: 2026-05-08
 updated: 2026-05-08
@@ -40,14 +40,7 @@ and Pliny the Elder, and wall-trained fruit trees were a hallmark of
 medieval monastery gardens and Renaissance pleasure grounds. The
 17th-century French potager gardens at Versailles elevated espalier
 to an art form, with elaborate candelabra, palmette, and fan shapes
-lining the [[holzer-kitchen-garden-herbs-and-medicinal-plants]] walls. In these walled gardens, espalier
-served a dual purpose: the reflected heat from south-facing walls
-extended the growing season and ripened fruit that would otherwise
-fail in the cooler French climate, while the geometric precision of
-the trained forms expressed the era's obsession with imposing order
-on nature.
-
-Modern interest in espalier has surged alongside the [[holzer-urban-gardening-rubbish-hugelkultur]]
+lining the [[holzer-urban-gardening-rubbish-hugelkultur]]
 and small-space food production movements. As more people seek to
 grow their own fruit on balconies, patios, and in narrow side yards,
 espalier offers a way to fit productive fruit trees into spaces where
@@ -65,13 +58,7 @@ the most significant practical benefits is improved fruit quality.
 Because espaliered trees have their branches spread horizontally and
 evenly spaced, every part of the canopy receives abundant sunlight and
 air circulation. This uniform exposure promotes even ripening, reduces
-the incidence of fungal diseases like [[cervantes-powdery-mildew-prevention-treatment]] and apple scab,
-and allows the grower to monitor and harvest every fruit without
-ladders. The open structure also makes pruning, thinning, and pest
-management far easier than in the dense interior canopy of a standard
-tree.
-
-Espalier also enables growers to extend the range of [[holzer-stone-fruit-varieties-and-growing]]
+the incidence of fungal diseases like [[holzer-stone-fruit-varieties-and-growing]]
 beyond what their climate would normally allow. A wall-trained peach
 or fig against a south-facing brick wall in zone 6 gains the benefit
 of absorbed daytime heat released at night, effectively creating a
@@ -87,37 +74,10 @@ best candidates share several traits: flexible young branches that
 can be bent and tied without breaking, a natural tendency to produce
 fruiting spurs on older wood, tolerance of the pruning intensity
 required to maintain a flat form, and adaptability to the specific
-[[pdc-climate-and-microclimate-analysis]] where they will be grown.
-
-Apples and pears are the classic espalier subjects and the most
-widely recommended for beginners. Both species produce fruit on
-long-lived spurs that form readily on horizontal wood, they tolerate
-the rigorous summer pruning required to maintain espalier forms, and
-their branches are pliable enough for training in the first few years
-after planting. Malling 9 and Budagovsky 9 rootstocks produce trees
-compact enough for most espalier applications, while M26 is a good
-choice for larger forms or where a more vigorous tree is desired.
-
-Stone fruits including peaches, nectarines, plums, apricots, and
-cherries can also be espaliered, though they require different
-management because most produce fruit on one-year-old wood rather
-than long-lived spurs. This means the pruning strategy must
-preserve a balance of new growth and older framework branches rather
-than simply shortening everything back to spurs. Fan training is the
-most natural and successful espalier form for stone fruits, as it
-accommodates their more upright, vase-like growth habit better than
-horizontal cordons do.
-
-## See Also
-
 [[fruit-tree-pruning-and-training-systems]]
-[[fruit-tree-care-and-orchard-management]]
 [[permaculture-zone-and-sector-analysis]]
 [[permaculture-fruit-tree-guide]]
-[[permaculture-fruit-tree-guide]]
-[[fig-cultivation-and-variety-guide]]
 [[stone-fruit-cultivation-and-variety-guide]]
-[[citrus-cultivation-and-variety-guide]]
 [[microclimate-design-for-garden-and-farm]]
 [[living-fences-and-hedgerows]]
 

@@ -60,15 +60,9 @@ by the addition of 6 g of solid
 
 ## Safety Notes
 
-This compound is a research chemical with limited human data. Shulgin's dosage ranges are based on limited self-experimentation and should not be taken as established safe doses. Many PIHKAL compounds are potent psychoactive substances that may carry unknown risks. [[ayahuasca-tourism-legal-status-by-country]] varies by jurisdiction.
+This compound is a research chemical with limited human data. Shulgin's dosage ranges are based on limited self-experimentation and should not be taken as established safe doses. Many PIHKAL compounds are potent psychoactive substances that may carry unknown risks. [[bom-entity]]
 
-## See Also
-
-- [[bom-entity]]
-
-- [[bob-entity-pihkal]]
 - [[boh-entity-pihkal]]
-- [[bohd-entity-pihkal]] -- BOHD (PIHKAL #16)
 - [[4-br-3-5-dma-entity-pihkal]] -- 4-Br-3,5-DMA (PIHKAL #18)
 ## Practical Considerations
 

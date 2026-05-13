@@ -90,7 +90,7 @@ Fungi can immobilize toxic metals through several mechanisms:
 - **Precipitation**: Fungal metabolic activity can cause metal precipitation as oxalates, carbonates, or sulfides
 - **Oxalate crystal formation**: Many fungi precipitate metals as metal oxalates (e.g., calcium oxalate, copper oxalate), effectively immobilizing them
 
-See [[mycoremediation-of-heavy-metals]] for applied aspects.
+See [[mycoremediation-heavy-metals]] for applied aspects.
 
 ### Calcium and Oxalate Cycling
 
@@ -146,5 +146,5 @@ The combined mineral transformations performed by fungi have profound ecosystem-
 - [[mycorrhizal-types]] -- types of mycorrhizal associations
 - [[mycorrhizal-networks]] -- common mycorrhizal networks
 - [[soil-food-web-nutrient-cycling]] -- trophic interactions in soil
-- [[mycoremediation-of-heavy-metals]] -- fungal metal bioremediation
+- [[mycoremediation-heavy-metals]] -- fungal metal bioremediation
 - [[geoffrey-gadd]] -- geomycology researcher

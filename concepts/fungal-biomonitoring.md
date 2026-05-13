@@ -9,35 +9,8 @@ sources: []
 # Fungal Biomonitoring
 
 Fungi serve as powerful bioindicators of environmental quality and ecosystem
-health. Their sensitivity to environmental conditions, their [[dighton-fungal-roles-in-nutrient-cycling]]
-cycling, and their diverse community structures make them valuable tools for
-monitoring pollution, climate change, and habitat disturbance. Fungal
-biomonitoring encompasses approaches from traditional fruiting body surveys
-to advanced molecular techniques and stable isotope analysis.
-
-## Stable Isotope Biomonitoring
-
-Natural abundance stable isotope analysis (d13C, d15N) provides a
-non-destructive method for assessing fungal functional roles and ecosystem
-processes. These isotopes depend on small but measurable differences in
-13C:12C and 15N:14N ratios resulting from fractionations during chemical,
-physical, and biological processing. Isotope ratios are determined by isotope
-ratio mass spectroscopy and expressed relative to international reference
-standards (Taylor and Fransson, 2006).
-
-### Nitrogen Isotopes (d15N)
-
-- **d15N as a trophic indicator**: ECM fungi are consistently enriched in
-  15N compared to both host plants and saprotrophic fungi. The degree of 15N
-  enrichment correlates with fungal trophic strategy -- mycoheterotrophic
-  fungi show the highest enrichment
-- **Ecosystem [[query-how-does-nitrogen-cycling-work-in-a-permaculture-system]]**: Natural abundance of 15N in host plants is
-  closely linked to [[ectomycorrhizal-fungi]] association type (Michelsen et
-  al., 1998). It indicates the importance of ECM fungi in nitrogen cycling
-  and supplying host plants with nitrogen from organic sources
-- **Saprotrophic-mycorrhizal divide**: Fully mycoheterotrophic orchids show
-  distinct 15N and 13C enrichment compared to autotrophic plants (Trudell et
-  al., 2003), reflecting exploitation of [[dighton-mycorrhizal-networks-carbon-transfer]]
+health. Their sensitivity to environmental conditions, their [[query-how-does-nitrogen-cycling-work-in-a-permaculture-system]]**: Natural abundance of 15N in host plants is
+  closely linked to [[dighton-mycorrhizal-networks-carbon-transfer]]
 
 ### Carbon Isotopes (d13C)
 
@@ -46,48 +19,8 @@ standards (Taylor and Fransson, 2006).
   (saprotrophic). The d13C of plant material varies considerably, from
   -40 to -9 per mil
 - **Single-spore analysis**: d13C has been determined in single spores of
-  [[comparison-soil-food-web-vs-arbuscular-mycorrhizal-fungi]] fungi (Gigaspora marginata). Nakano et al. (1999)
-  showed d13C of spores decreased linearly from C4 plant to C3 plant
-  proximity
-- **Ecosystem-level assessments**: Paired d15N and d13C measurements can
-  reveal belowground food web structure, mycorrhizal vs. saprotrophic
-  dominance, and carbon residence times
-
-## Molecular Community Monitoring
-
-### DGGE/TGGE Fingerprinting
-
-Denaturing gradient gel electrophoresis (DGGE) and temperature gradient gel
-electrophoresis (TGGE) exploit differences in 18S rRNA gene sequence
-composition. These techniques have been applied to decomposing leaf litter
-at different stages of decay (Nikolcheva et al., 2003, 2005) and coniferous
-forest soils under different management regimes.
-
-### RISA and ARISA
-
-Ribosomal intergenic spacer analysis (RISA) exploits length variations within
-the ITS region of rDNA. Automated RISA (ARISA) uses fluorescently labelled
-primers for high-throughput analysis. Community complexity ranges from 30 to
-over 200 fungal peaks per profile. Gleeson et al. (2005) found ribotype
-numbers ranging from 25 on K-feldspar to 4 on quartz in granite weathering
-studies.
-
-## Lichens as Air Quality Indicators
-
-Lichens absorb nutrients and pollutants directly from the atmosphere, making
-them classic bioindicators. An estimated 6% of Earth land surface is covered
-by lichen-dominated vegetation (Haas and Purvis, 2006).
-
-- **SO2 pollution**: Lichens are highly sensitive to sulphur dioxide.
-  Epiphytic lichen surveys are standardized monitoring tools used for
-  decades to map atmospheric SO2 deposition
-- **Heavy metal deposition**: Lichens accumulate lead, copper, and
-  radionuclides (Purvis, 1996), forming metal-organic biominerals on
-  metal-rich substrates
-- **[[dighton-nitrogen-deposition-mycorrhizal-community-shifts]]**: Nitrogen pollution favors nitrophilous lichen
-  species and shifts [[core-endorhiza-bacterial-community-composition-cannabis]]
-- **Acid rain**: Combined acid deposition effects on
-  [[biodiversity-lichenized-fungi-symbiosis]] communities integrate
+  [[dighton-nitrogen-deposition-mycorrhizal-community-shifts]]**: Nitrogen pollution favors nitrophilous lichen
+  species and shifts [[biodiversity-lichenized-fungi-symbiosis]] communities integrate
 
 ## Practical Applications
 
@@ -118,8 +51,91 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[dom]]
 - [[det]]
-- [[soma]]
 - [[spore]]
 - [[lichens]]
+
+## Overview
+
+Fungal Biomonitoring represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish fungal biomonitoring
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving fungal extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Fungal Biomonitoring finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for fungal biomonitoring. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+fungal biomonitoring and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Fungal Biomonitoring has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of fungal biomonitoring into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[fungal-salt-tolerance-and-ion-homeostasis]]
+- [[fungal-woronin-bodies-and-septal-pore-organization]]
+- [[plant-fungal-signaling-mycorrhiza]]
+- [[singh-fungal-alkane-metabolism-pathways]]
+- [[singh-scaling-fungal-remediation-lab-to-field]]

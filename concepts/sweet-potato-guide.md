@@ -1,5 +1,5 @@
 ---
-title: Sweet Potato Guide
+title: Sweet Potato Growing Guide
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
@@ -9,7 +9,7 @@ sources: []
 
 # Sweet Potato Growing Guide
 
-Sweet potatoes ([[ipomoea-batatas]]) are a warm-climate perennial grown as an annual in most of the US. They produce large, calorie-dense tubers that store for months. Unlike regular potatoes ([[solanum-tuberosum]]), sweet potatoes are in the [[golden-guide-morning-glory-and-ololiuqui]] family and have very different growing requirements. This guide covers slips, soil, planting, hilling, curing, and storage.
+Sweet potatoes (Ipomoea batatas) are a warm-climate perennial grown as an annual in most of the US. They produce large, calorie-dense tubers that store for months. Unlike regular potatoes (Solanum tuberosum), sweet potatoes are in the morning glory family and have very different growing requirements. This guide covers slips, soil, planting, hilling, curing, and storage.
 
 ## Understanding Sweet Potatoes
 
@@ -24,7 +24,7 @@ Sweet potatoes ([[ipomoea-batatas]]) are a warm-climate perennial grown as an an
 |-------------|---------------|-----------|
 | Orange | Sweet, moist, classic "yam" flavor | Beauregard, Covington, Jewel, Georgia Jet |
 | White | Drier, milder, chestnut-like | O'Henry, Nancy Hall, Hayman |
-| Purple | Dense, mildly sweet, antioxidant-rich | Stokes Purple, Okinawan, [[haze-plum-purple-passion-medical-sativa-strain]] |
+| Purple | Dense, mildly sweet, antioxidant-rich | Stokes Purple, Okinawan, Purple Passion |
 | Red | Sweet, rich, moist | Centennial, Red Jewel |
 
 ### Most Recommended for Home Gardens
@@ -99,7 +99,7 @@ Sweet potatoes are more forgiving about soil than many crops, but certain condit
 ## Hilling
 
 - Unlike regular potatoes, sweet potatoes do NOT require hilling for tuber production.
-- However, light hilling or adding a thin layer of soil/sand once during [[query-how-to-protect-plants-from-frost-and-extend-the-growing-season]] can:
+- However, light hilling or adding a thin layer of soil/sand once during the growing season can:
   - Protect shallow tubers from sun exposure (green spots are bitter).
   - Improve drainage around the root zone.
   - Reduce weeding in the row.
@@ -140,11 +140,11 @@ Sweet potatoes are more forgiving about soil than many crops, but certain condit
 - Lift a test potato to check size — if they are the size you want, harvest.
 
 ### How to Harvest
-- Cut vines 2-3 inches above ground and remove.
-- Use a digging fork, starting 12-18 inches from the plant center.
-- Dig deep and wide — sweet potatoes can spread far.
-- Lift gently — sweet potatoes skin easily; bruised tubers won't store well.
-- Do NOT wash — brush off loose soil only.
-- Cure damaged or cut tubers separately (use them first).
 
-## Curing
+## See Also
+
+- [[comparison-potato-vs-sweet-potato-cultivation]]
+- [[coleman-sweet-winter-carrots-cold-sweetening]]
+- [[solomon-sweet-potato-cultivation-guide]]
+- [[oner-golden-goat-island-sweet-skunk-hawaiian-romulan]]
+- [[query-how-do-i-grow-sweet-potatoes-from-slips-to-harvest]]

@@ -1,31 +1,13 @@
 # Endocannabinoid-Dopamine Regulation in ADHD and Parkinson's Disease
 
 ## Overview
-Dopamine is a hormone and neurotransmitter primarily produced by the [[blesching-endocannabinoid-autonomic-nervous-system-adrenal-glands]]
-located on top of each kidney. It is associated with emotional [[endocannabinoid-system-emotional-molecules]] and behavioral motivation
-including reward, emotional [[endocannabinoid-system-emotional-molecules]] memory, and arousal (pleasure, love, money, and sex). The
-molecule effectively signals "Pay attention, this is worth remembering." The more
-intense, unpredictable, or novel the experience, the greater the reward and associated
-dopamine release. Dopamine is also involved in the processing of emotions [[blesching-biology-of-emotions-expansive-constricting-neurotransmitters]], making this
+Dopamine is a hormone and neurotransmitter primarily produced by the [[endocannabinoid-system-emotional-molecules]] and behavioral motivation
+including reward, emotional [[blesching-biology-of-emotions-expansive-constricting-neurotransmitters]], making this
 molecule especially relevant to patients with PTSD or autism.
 
 ## Dopamine and the Endocannabinoid System
 Dopamine modulates neurons in the substantia nigra (a portion of the mid-brain) via
-dopamine receptors and CB1 [[cannabinoid-receptors-cb1-cb2]]. The loss of dopamine-producing nerve
-cells in this portion of the brain is associated with numerous mental and neurological
-disorders such as schizophrenia, ADHD, and Parkinson's disease. The interplay between
-dopaminergic signaling and the endocannabinoid system (ECS) represents a critical
-neuromodulatory axis.
-
-## ADHD and Endocannabinoid Modulation
-Abnormal dopamine transmission in the striatum (the part of the forebrain that modulates
-the endocannabinoid system) plays a pivotal role in attention deficit hyperactivity
-disorder (ADHD). Researchers have identified CB1 receptors as novel molecular players
-in ADHD, suggesting that therapeutic strategies aimed at engaging the ECS might prove
-effective in treating this disorder.
-
-The striatum serves as a key intersection point where dopaminergic and endocannabinoid
-[[plant-signaling-pathways]] converge. Disrupted dopamine signaling in this brain region is one of
+dopamine receptors and CB1 [[plant-signaling-pathways]] converge. Disrupted dopamine signaling in this brain region is one of
 the most consistently replicated findings in ADHD neurobiology. The ECS modulates
 dopamine release through CB1 receptors located on presynaptic terminals, creating a
 feedback loop that can either amplify or dampen dopaminergic signaling depending on
@@ -46,28 +28,7 @@ targeted cannabinoid therapy may have neuroprotective implications.
 
 ## Emotional Dimensions of Dopamine
 ### Emotional Keywords
-"I am motivated" — arousal, [[blesching-cannabis-emotional-processing-expansive-constricting-emotions]], and memory.
-
-### Constricting Effects (Deficiency)
-Lack of dopamine is associated with:
-- Fatigue and lack of energy
-- Failure to finish tasks
-- Low libido and reduced sensuality
-- Burdensome emotional memory (inability to release past experiences)
-- Anhedonia (inability to experience pleasure)
-
-### Excessive Dopamine
-Too much dopamine (e.g., from pharmaceuticals such as L-dopa drugs, or drugs such as
-methamphetamine) is associated with:
-- Psychosis and hallucinations
-- Aggression and compulsive behaviors
-- Addiction and reward-seeking loops
-
-## Strategies to Boost or Balance Dopamine
-1. **Music therapy**: Listen to music that accesses and moves deep emotions.
-2. **Learn to play music**: Playing an instrument provides sustained dopaminergic
-   engagement through practice and mastery.
-3. **Dietary precursors**: The natural [[cho-fish-amino-acid-preparation]] tyrosine is a direct precursor to
+"I am motivated" — arousal, [[cho-fish-amino-acid-preparation]] tyrosine is a direct precursor to
    dopamine. Foods rich in tyrosine include almonds, bananas, avocados, eggs, and
    fermented soy products.
 4. **Meditation**: Meditation-induced changes of consciousness have been shown to
@@ -118,8 +79,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[endocannabinoid-system]]
 - [[doc]]
-- [[blesching-dopamine-motivation-adhd-ptsd-cannabinoid-modulation]]
 - [[blesching-cannabis-dopamine-endocannabinoid-system]]
 - [[blesching-cannabis-fever-temperature-regulation]]

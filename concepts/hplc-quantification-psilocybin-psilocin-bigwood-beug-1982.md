@@ -10,19 +10,14 @@ tags: [hplc, psilocybin, psilocin, analytical-chemistry, quantification, tlc, bi
 
 Bigwood and Beug's 1982 study used reversed-phase high performance liquid
 chromatography (HPLC) to quantify psilocybin and psilocin levels in
-*[[basidiocarp-four-stage-development-classification-psilocybe-cubensis-badham-1982]]* across multiple flushes, strains, and street
-samples. Their analytical methodology established a reliable, linear
-quantification system with a detection limit of approximately 0.01 μg,
-providing the foundation for their key findings about alkaloid
-variability in [[fungi-cultivated-mushrooms-pathogens-competitors]].
+*[[fungi-cultivated-mushrooms-pathogens-competitors]].
 
 ## Extraction Procedure
 
 The study followed the extraction procedure described in their previous
 paper (Beug and Bigwood, 1982), which analyzed psilocybin and psilocin
 levels across twenty species from seven genera of wild mushrooms in the
-[[psilocybin-north-america-pacific-northwest]]. The extraction involved preparing dried mushroom
-samples and isolating the [[aminopropyl-silica-gel-chromatography-indole-alkaloid-purification]] fraction for chromatographic
+[[aminopropyl-silica-gel-chromatography-indole-alkaloid-purification]] fraction for chromatographic
 analysis.
 
 ## Sample Preparation
@@ -117,8 +112,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[hplc-tlc-analysis-psilocybin-psilocin-quantification-bigwood-beug-1982]]
 - [[psilocin]]
-- [[reversed-phase-hplc-psilocybin-psilocin-quantification-bigwood-beug]]
 - [[reversed-phase-hplc-tlc-confirmation-psilocybin-psilocin-quantification-bigwood-beug]]
 - [[psilocybin]]

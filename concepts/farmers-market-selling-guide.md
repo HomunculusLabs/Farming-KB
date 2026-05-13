@@ -9,7 +9,7 @@ sources: []
 
 # Farmers Market Selling Guide
 
-Farmers markets are the primary sales channel for homestead-scale producers. They offer direct consumer access, premium pricing, and [[homestead-community-building]]. Success requires preparation, presentation, and relationship skills. This guide covers booth setup, display, pricing, licensing, and sales techniques.
+Farmers markets are the primary sales channel for homestead-scale producers. They offer direct consumer access, premium pricing, and community building. Success requires preparation, presentation, and relationship skills. This guide covers booth setup, display, pricing, licensing, and sales techniques.
 
 ## Getting Started
 
@@ -36,7 +36,7 @@ Farmers markets are the primary sales channel for homestead-scale producers. The
 - Weights and measures certification (if selling by weight)
 - Health department permit (for some products -- varies by state)
 - Liability insurance (most markets require $1-2 million aggregate)
-- [[fukuoka-critique-organic-certification]] (only if making organic claims; not required to sell at market)
+- Organic certification (only if making organic claims; not required to sell at market)
 
 ### Cottage Food Laws
 Most states allow home-produced non-potentially hazardous foods:
@@ -92,7 +92,7 @@ Check your state's cottage food law for specifics -- see homestead tax planning 
 ### The Power of Samples
 - Cut fruit for sampling with toothpicks
 - Bread slices with butter or jam
-- [[fermented-hot-sauce-guide]] with crackers
+- Hot sauce with crackers
 - Samples increase sales 20-40%
 - Have napkins, toothpicks, and a trash container
 - Check market rules on sampling (some require permits)
@@ -109,11 +109,11 @@ Check your state's cottage food law for specifics -- see homestead tax planning 
 | Item | Price Range |
 |---|---|
 | Vegetables (per lb) | $3-6 |
-| [[coleman-baby-leaf-salad-mix-composition-production]] (per bag) | $4-7 |
+| Salad mix (per bag) | $4-7 |
 | Pasture eggs (dozen) | $5-9 |
 | Grass-fed ground beef (lb) | $8-12 |
 | Grass-fed steaks (lb) | $15-25 |
-| [[query-how-to-make-sourdough-bread-at-home]] (loaf) | $6-12 |
+| Sourdough bread (loaf) | $6-12 |
 | Dried herbs (1oz) | $3-6 |
 | Hot sauce (5oz) | $7-12 |
 | Jam/jelly (8oz) | $6-9 |
@@ -140,11 +140,11 @@ Check your state's cottage food law for specifics -- see homestead tax planning 
 
 ### Educating Customers
 - Recipe cards with market purchases
-- Cooking tips and storage advice
-- Explain why your products cost more (grass-fed, organic, hand-harvested)
-- Customers who understand your methods become advocates
 
-## Sales Tips
+## See Also
 
-- Arrive early for setup (1-2 hours before market opens)
-- Stay until official close (latecomers are often buyers)
+- [[soil-food-web-management-for-farmers]]
+- [[heritage-and-landrace-crop-varieties-for-small-farmers]]
+- [[query-what-is-ecological-succession-and-how-can-farmers-use-it]]
+- [[smartshop-hallucinogenic-mushroom-market]]
+- [[mushroom-market-and-production]]

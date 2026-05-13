@@ -27,12 +27,7 @@ ten-paddock cell where two paddocks are withdrawn, only eight remain for
 grazing. Given an average recovery period of sixty days, this means
 8.5-day average grazing periods as opposed to 6.6 days if all ten paddocks
 had been grazed. The shorter grazing periods for the fully utilized cell
-would have meant greater [[savory-energy-flow-and-solar-capture]] with better livestock performance,
-better plant growth, and less pressure on the land that was grazed.
-
-## Time Reserve: The Holistic Approach
-
-Since all forage can be measured in [[savory-animal-impact-and-herd-effect]], and the forage itself becomes stale,
+would have meant greater [[savory-animal-impact-and-herd-effect]], and the forage itself becomes stale,
 excessively fibrous, and low in protein and energy.
 
 The problem continues into the dormant season as livestock move through
@@ -43,11 +38,7 @@ ground. Fire risk also increases as all the eggs rest in only two paddocks.
 
 In the dormant season, the area reserve cell has less forage in each
 grazed paddock than the time reserve cell, because the same number of
-[[savory-animal-days-and-forage-measurement]] have been taken from less land over a longer grazing period.
-The stock start off in worse condition due to longer grazing periods
-during the months of most promising gain.
-
-When the [[savory-growing-season-and-non-growing-season-management]] should begin, all eight paddocks in the area
+[[savory-growing-season-and-non-growing-season-management]] should begin, all eight paddocks in the area
 reserve cell may be grazed down to scratch. If new growth does not start,
 the reserve paddocks will carry the herd, but the animals have only one
 move and stay on fouled ground for a prolonged time without stimulation.
@@ -63,16 +54,14 @@ have frequent stimulating moves onto fresh ground.
 
 Considering that over half the time the growing season begins on schedule,
 the ungrazed paddocks may become a liability. In many environments, long-
-rested paddocks will encourage [[savory-water-cycle-management]] and [[savory-water-cycle-management]] is ineffective, most
+rested paddocks will encourage [[savory-water-cycle-management]] is ineffective, most
 years of below-average or poorly distributed rain become droughts, and the
 rainy times become flood years. Effective precipitation, which soaks in
 and becomes available to plant roots, is what truly matters.
 
 ## Planning for Drought Resilience
 
-Holistic [[savory-testing-and-management-guidelines]] and supports
-all four [[savory-recovery-and-grazing-periods]]
-- [[savory-ranch-financial-planning]]
+Holistic [[savory-recovery-and-grazing-periods]]
 - [[savory-land-monitoring]]
 ## Practical Considerations
 

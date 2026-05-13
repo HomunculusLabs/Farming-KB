@@ -106,13 +106,8 @@ Collectors value the species for its genetic distinctness and potential as a bre
 
 ## See Also
 
-- [[anemone-nemorosa]]
 - [[anemone-coronaria]]
-- [[anemone-sylvestris]]
 - [[ranunculus-asiaticus]]
-- [[eranthis-hyemalis]]
 - [[helleborus-orientalis]]
-- [[ficaria-verna]]
 - [[clematis-recta]]
-- [[nigella-damascena]]
 - [[ranunculus-bulbosus]]

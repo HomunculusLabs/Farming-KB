@@ -16,7 +16,7 @@ sources:
 
 # Blastomyces dermatitidis
 
-**Blastomyces dermatitidis** is a thermally dimorphic [[alpha-1-3-glucan-fungal-pathogen-cell-walls]] that causes blastomycosis, also known as Gilchrist's disease or [[growing-gourmet-north-american-reishi-species]] blastomycosis. It is one of the endemic dimorphic fungi, capable of existing as a mold in the environment and converting to a pathogenic yeast form at mammalian body temperature. The fungus is a significant cause of systemic mycosis in parts of North America, particularly the Mississippi and Ohio River valleys, and the Great Lakes region.
+**Blastomyces dermatitidis** is a thermally dimorphic [[growing-gourmet-north-american-reishi-species]] blastomycosis. It is one of the endemic dimorphic fungi, capable of existing as a mold in the environment and converting to a pathogenic yeast form at mammalian body temperature. The fungus is a significant cause of systemic mycosis in parts of North America, particularly the Mississippi and Ohio River valleys, and the Great Lakes region.
 
 ## Taxonomy and Classification
 
@@ -27,18 +27,10 @@ sources:
 - **Family:** Ajellomycetaceae
 - **Genus:** Blastomyces
 
-The teleomorph (sexual) state was long unknown but was eventually identified as *Ajellomyces dermatitidis*. Phylogenetic studies have confirmed that *Blastomyces* is closely related to *Histoplasma capsulatum* and *Paracoccidioides brasiliensis*, forming a monophyletic clade of dimorphic [[bloomfield-fungal-pathogens-and-parasites]] within the Onygenales.
-
-## Dimorphic Life Cycle
-
-The ability to switch between two morphological forms is central to the pathogenicity of *B. dermatitidis*:
-
-### Mold Phase (Environmental Form, 25°C)
-- **Growth:** Filamentous growth on Sabouraud dextrose [[paracoccidioides-brasiliensis]]
+The teleomorph (sexual) state was long unknown but was eventually identified as *Ajellomyces dermatitidis*. Phylogenetic studies have confirmed that *Blastomyces* is closely related to *Histoplasma capsulatum* and *Paracoccidioides brasiliensis*, forming a monophyletic clade of dimorphic [[paracoccidioides-brasiliensis]]
 - dimorphic-fungi
 - endemic-mycoses
 - fungal-pathogenesis
-- [[lepista-nuda-entity-the-mushroom-cultivator]]
 - [[pseudomonas-putida-entity-the-mushroom-cultivator]]
 ## Practical Considerations
 

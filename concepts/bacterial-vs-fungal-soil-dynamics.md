@@ -53,18 +53,7 @@ Trees require significantly higher F:B ratios:
 - Riparian trees (alder, beech, aspen, cottonwood): F:B 5:1 to 100:1 when
   mature; prefer bacterially dominated soils when young
 
-Forest soils have a [[bioremediation-fungal-biomass-biosorbent-material]] over 100 times that of bacteria. Shrubs
-generally prefer higher fungal dominance than perennials. Rhododendrons, for
-example, require very strong fungal dominance, while cotoneaster or lilac
-require less.
-
-## Why the Pattern Exists
-
-The general rule: the longer a plant lives, the more it benefits from fungal
-dominance. This is because:
-
-1. Fungi are fragile organisms that take time to grow
-2. [[arbuscular-mycorrhizal-fungi-biology-symbiosis]] need a live root to associate with; longer-lived roots
+Forest soils have a [[arbuscular-mycorrhizal-fungi-biology-symbiosis]] need a live root to associate with; longer-lived roots
    support longer fungal relationships
 3. Longer-lived plants produce litter with more lignin and cellulose, which are
    good fungal food sources
@@ -74,18 +63,11 @@ dominance. This is because:
 
 ## Human Practices That Alter the Ratio
 
-- [[compost-biology-soil-food-web-inoculation]] or fine, wet, green
-  mulches favors bacteria
-- Adding [[soil-food-web-structure]], [[root-exudates-rhizosphere]], [[soil-food-web-structure]] describes the trophic hierarchy that determines how [[query-what-is-the-difference-between-bacterial-and-fungal-dominant-soil]] channels channel energy and nutrients through decomposer food webs.
+- [[soil-food-web-structure]], [[soil-food-web-structure]] describes the trophic hierarchy that determines how [[bacterial-to-fungal-soil-succession]] explains the natural progression from bacterially dominated pioneer soils to fungally dominated mature ecosystems.
 
-[[bacterial-to-fungal-soil-succession]] explains the natural progression from bacterially dominated pioneer soils to fungally dominated mature ecosystems.
-
-[[teaming-with-microbes-soil-food-web-trophic-structure-and-succession]]
-- [[teaming-with-microbes-bacterial-vs-fungal-dominance]]
+[[teaming-with-microbes-bacterial-vs-fungal-dominance]]
 
 ## See Also
-
-- [[rhizosphere-bacterial-community-dynamics]]
 
 - [[fungal-bacterial-predators-nitrogen-acquisition-soil-ecology]]
 
@@ -118,8 +100,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[bacterial-vs-fungal-soil]]
 - [[dom]]
-- [[det]]
 - [[elaine-ingham]]
 - [[mycorrhiza]]

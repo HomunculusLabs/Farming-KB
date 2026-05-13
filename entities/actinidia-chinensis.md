@@ -45,13 +45,7 @@ Actinidia chinensis is native to eastern and central China, with a natural range
 
 The species inhabits forest margins, thickets, and stream valleys in mountainous regions at elevations of 200–2,300 meters. It is a component of broadleaf and mixed forest communities, often climbing on canopy trees in forest-edge situations.
 
-Naturalized populations have become established in parts of Japan, Korea, and the eastern [[dmt-containing-plants-united-states-halpern]]. In New Zealand, A. deliciosa (often still referred to under the A. chinensis complex) has naturalized extensively in forest margins and waste areas.
-
-Climate requirements include warm summers with adequate heat accumulation for fruit maturation (approximately 1,800–2,200 growing degree days) and mild winters. The species is cold-hardy to approximately −15 °C, though young shoots and flowers are vulnerable to late spring frosts.
-
-Optimal annual precipitation ranges from 1,200–1,800 mm evenly distributed through the [[savory-growing-season-and-non-growing-season-management]]. Drought stress during fruit development reduces fruit size and increases [[knf-calcium-deficiency-symptoms]] disorders including blossom-end rot.
-
-[[cervantes-wind-protection-outdoor-cannabis]] is critical, as the large leaves and heavy fruit load create significant wind resistance. Shelterbelts or windbreak nets are standard features of commercial kiwifruit orchards in exposed sites.
+Naturalized populations have become established in parts of Japan, Korea, and the eastern [[savory-growing-season-and-non-growing-season-management]]. Drought stress during fruit development reduces fruit size and increases [[cervantes-wind-protection-outdoor-cannabis]] is critical, as the large leaves and heavy fruit load create significant wind resistance. Shelterbelts or windbreak nets are standard features of commercial kiwifruit orchards in exposed sites.
 
 ## Cultivation
 
@@ -63,7 +57,7 @@ Pruning is performed twice annually: winter pruning to establish the framework a
 
 Major commercial cultivars include 'Hort16A' (marketed as Zespri Gold, a golden-fleshed A. chinensis selection) and 'Sungold' (a later golden cultivar). Green-fleshed cultivars including 'Hayward' (A. deliciosa) remain the most widely planted worldwide.
 
-Harvest occurs in autumn (March–May in the [[guzman-allen-gartz-africa-southern-hemisphere-underexplored-neurotropic-fungi]], October–November in the Northern Hemisphere). Fruit is picked at mature-firm stage and ripened post-harvest, as vine-ripe fruit bruises easily and has limited [[psilocybin-shelf-life-stability]].
+Harvest occurs in autumn (March–May in the [[psilocybin-shelf-life-stability]].
 
 Post-harvest storage at 0–1 °C with controlled atmosphere (2–5% CO₂, 1–2% O₂) extends shelf life to 3–6 months. Ethylene exposure accelerates softening, and fruits are highly sensitive to ethylene contamination during storage and transport.
 
@@ -77,7 +71,7 @@ The fruit is rich in vitamin K (40–50 μg/100 g), vitamin E (1.5–2.5 mg/100 
 
 Actinidin, a cysteine protease unique to Actinidia species, is the major protein in kiwifruit flesh. It constitutes 1–2% of fresh weight and is responsible for both the fruit's tenderizing properties in culinary applications and its allergenic potential in sensitive individuals.
 
-Polyphenolic compounds include flavonoids (quercetin, kaempferol, myricetin), phenolic acids, and carotenoids. Golden kiwifruit cultivars contain significantly higher levels of carotenoids (β-carotene, lutein) than green-fleshed varieties.
+Polyphenolic compounds include flavonoids ([[quercetin]], kaempferol, myricetin), phenolic acids, and carotenoids. Golden kiwifruit cultivars contain significantly higher levels of carotenoids (β-carotene, lutein) than green-fleshed varieties.
 
 ## Commercial Industry
 

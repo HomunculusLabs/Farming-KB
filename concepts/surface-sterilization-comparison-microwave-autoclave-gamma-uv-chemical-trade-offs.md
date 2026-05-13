@@ -11,20 +11,11 @@ type: concept
 
 # Surface Sterilization Comparison: Microwave vs Conventional Methods
 
-The NASA Technical Support Package MSC-22484 frames [[dipole-antenna-array-configuration-microwave-surface-sterilization]]
-sterilization as a targeted solution to the collective limitations of all
-existing [[conventional-surface-sterilization-methods-limitations-comparison]]. The document identifies five major
+The NASA Technical Support Package MSC-22484 frames [[conventional-surface-sterilization-methods-limitations-comparison]]. The document identifies five major
 conventional approaches and catalogs their specific drawbacks when applied
 to complex surface geometries and thermally sensitive systems. This
 comparison reveals why no single conventional method was adequate for the
-NASA application, and how 2.45 GHz [[dry-microwave-irradiation-spore-resistance]] occupies a unique
-niche combining penetration, thermal gentleness, residue-free operation,
-and equipment compactness.
-
-## The Problem with Conventional Methods
-
-The NASA researchers identified a fundamental challenge in accessing
-biologically sensitive systems, including [[chen-maitake-growth-parameters-environmental-control]] and Life
+NASA application, and how 2.45 GHz [[chen-maitake-growth-parameters-environmental-control]] and Life
 Support System (ECLSS) waters and flight experiments aboard spacecraft.
 The ability to aseptically remove samples and products, as well as to add
 materials to sterile or susceptible systems, was consistently compromised

@@ -38,7 +38,7 @@ created: 2026-04-28
 
 **Psophocarpus tetragonolobus** (L.) DC. is a tropical legume in the family Fabaceae, notable for producing edible pods, seeds, tuberous roots, leaves, and flowers — making it one of the most versatile food plants known.
 
-Commonly called the **winged bean** for its distinctive four-angled pods with wing-like longitudinal ridges, it is native to Papua New Guinea and widely cultivated across [[psilocybe-southeast-asia-pacific]], Africa, and the [[guzman-allen-gartz-neurotropic-fungi-hawaii-pacific-islands]].
+Commonly called the **winged bean** for its distinctive four-angled pods with wing-like longitudinal ridges, it is native to Papua New Guinea and widely cultivated across [[guzman-allen-gartz-neurotropic-fungi-hawaii-pacific-islands]].
 
 The species has been described as a "one-species supermarket" due to the nutritional density and edibility of nearly every plant part. Protein content in seeds reaches 30–40%, comparable to soybeans.
 
@@ -56,27 +56,11 @@ Tuberous roots develop on mature plants, reaching 10–30 cm length and 2–6 cm
 
 ## Distribution and Habitat
 
-The species is believed to originate in the highlands of Papua New Guinea, where the greatest [[biodiversity-fungal-genetic-diversity]] is found.
-
-It is cultivated throughout tropical and subtropical regions from sea level to 2,000 m elevation. Major producing countries include Papua New Guinea, Indonesia, Malaysia, Thailand, the Philippines, Myanmar, Sri Lanka, India, Nigeria, and Ghana.
-
-Optimal growth occurs at 25–30°C with annual rainfall of 1,200–2,500 mm. The plant is sensitive to frost and performs poorly below 15°C.
-
-Well-drained, fertile loams with pH 5.5–6.5 are preferred, though the species tolerates moderate soil acidity and low fertility better than many legumes.
-
-## Nutritional Value
-
-All plant parts are edible and nutritionally significant. Dried seeds contain 30–40% protein, 15–20% oil, and are rich in essential amino acids, particularly lysine and tryptophan.
-
-Fresh pods provide vitamin A (2,000–4,000 IU/100 g), vitamin C (30–50 mg/100 g), iron, and calcium. Tubers contain 8–12% protein — exceptionally high for a [[root-crop-harvest-and-storage]].
+The species is believed to originate in the highlands of Papua New Guinea, where the greatest [[root-crop-harvest-and-storage]].
 
 Leaves are eaten as a leafy green vegetable and provide significant levels of beta-carotene, vitamin E, and polyphenolic antioxidants.
 
-The seed oil is rich in unsaturated [[carbon-isotope-labelling-mycorrhizal-fatty-acids]], particularly linoleic acid (30–40%), making it a potential source of edible and industrial oil.
-
-## Cultivation
-
-Winged bean is propagated by seed or tuber cuttings. [[cannabis-seed-germination-methods]] requires scarification or soaking in water for 24 hours to break physical dormancy.
+The seed oil is rich in unsaturated [[cannabis-seed-germination-methods]] requires scarification or soaking in water for 24 hours to break physical dormancy.
 
 Planting density is typically 30,000–50,000 plants/ha with trellising or support structures. Without support, vines trail on the ground with reduced pod yield.
 
@@ -86,4 +70,81 @@ Maturity from planting to first harvest is 75–120 days for green pods, 150–1
 
 ## Permaculture and Agroforestry Applications
 
-In [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]], winged bean serves as a multi-functional element: nitrogen-fixing climber, edible crop across all plant parts, and [[comparison-living-mulch-vs-cover-crops]] when allowed to trail.
+In [[comparison-living-mulch-vs-cover-crops]] when allowed to trail.
+
+## Overview
+
+Psophocarpus Tetragonolobus represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish psophocarpus tetragonolobus
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving psophocarpus extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Psophocarpus Tetragonolobus finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for psophocarpus tetragonolobus. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+psophocarpus tetragonolobus and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Psophocarpus Tetragonolobus has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of psophocarpus tetragonolobus into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.

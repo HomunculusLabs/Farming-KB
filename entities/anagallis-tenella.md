@@ -51,11 +51,7 @@ Anagallis tenella is native to western and northern Europe, with a distribution 
 
 The species reaches its greatest abundance in the Atlantic fringe of Europe, particularly in Ireland, western Britain, western Norway, and the coastal regions of Brittany and northwest Spain.
 
-Disjunct populations occur in [[psilocybe-bohemica-central-european]] mountain ranges, including the Alps and the Carpathians, where the species occupies alpine and subalpine bog habitats.
-
-The plant is found in wet, acidic habitats including raised bogs, blanket bogs, bog margins, wet heathland, damp peaty grassland, and the edges of mountain streams and pools.
-
-It requires consistently moist to saturated conditions with low [[ph-and-nutrient-availability-garden-soils]]. The species is intolerant of both prolonged drought and standing water deeper than a few centimeters.
+Disjunct populations occur in [[ph-and-nutrient-availability-garden-soils]]. The species is intolerant of both prolonged drought and standing water deeper than a few centimeters.
 
 Soil preference is strongly acidic, with optimal pH in the range of 4.0–5.5. It is typically found in association with Sphagnum mosses and other acidophilous bog species.
 
@@ -67,17 +63,11 @@ The species is absent from areas with calcareous or alkaline soils. Its restrict
 
 The flowers of Anagallis tenella are visited by small bees, flies, and beetles, though pollination biology has received limited formal study. The open cup-shaped flowers provide easy access to nectar.
 
-The prostrate growth form is an adaptation to the exposed conditions of open bog habitats, where wind would damage upright stems. The rooting at nodes also provides [[hamilton-vegetative-propagation]] and colony expansion.
-
-Bog pimpernel typically flowers from June through September, with the peak flowering period in July and August. In mild oceanic climates, flowering may extend into October.
-
-The species is moderately palatable to herbivores, though [[gadd-mycelial-network-resilience-grazing-pressure]] in bog habitats is typically low. Heavy grazing can reduce populations by damaging the shallow root system.
+The prostrate growth form is an adaptation to the exposed conditions of open bog habitats, where wind would damage upright stems. The rooting at nodes also provides [[gadd-mycelial-network-resilience-grazing-pressure]] in bog habitats is typically low. Heavy grazing can reduce populations by damaging the shallow root system.
 
 Dead plant material contributes to peat formation in bog ecosystems. The fibrous stems and roots decompose slowly in the anaerobic conditions of saturated peat.
 
-The species plays a modest role [[comparison-soil-protozoa-vs-nematodes-in-nutrient-cycling]] within bog systems. Its fine root network helps stabilize the bog surface and contributes to the retention of organic matter.
-
-Anagallis tenella is commonly associated with other bog species including Sphagnum mosses, Erica tetralix, Eriophorum angustifolium, [[drosera-rotundifolia]], and Narthecium ossifragum.
+The species plays a modest role [[drosera-rotundifolia]], and Narthecium ossifragum.
 
 Seed set is typically moderate to high in favorable years, though seed viability in the soil seed bank has not been well quantified. The tiny seeds are likely dispersed by water movement across bog surfaces.
 

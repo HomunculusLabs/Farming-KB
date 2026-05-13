@@ -53,13 +53,13 @@ Key medicinal applications:
 - Venous insufficiency: Clinical evidence supports its use for chronic venous
   insufficiency, varicose veins, and spider veins. Strengthens blood vessel
   walls and improves microcirculation.
-- Anxiety [[vipassana-mindfulness-and-stress-reduction-healing]]: Mild anxiolytic effect. Traditional use as a
+- Anxiety and stress reduction: Mild anxiolytic effect. Traditional use as a
   meditation aid supports its calming properties.
 - Anti-inflammatory: Reduces systemic inflammation markers.
 - Connective tissue support: Strengthens connective tissue, cartilage, and
   joint structures.
 
-[[amanita-muscaria-preparation-methods]]:
+Preparation methods:
 - Tea: Steep 1-2 teaspoons dried herb in hot water for 10 minutes
 - Tincture: Fresh or dried herb tincture (1:2 or 1:5 in 30-50% alcohol),
   30-60 drops 2-3 times daily
@@ -93,9 +93,9 @@ habit is similar to mint -- low, creeping, and spreading.
 
 Gotu kola can be grown in bog gardens, at pond edges, in rain gardens,
 or in shallow standing water (1-2 inches). It is excellent for greywater
-areas and [[comparison-constructed-wetlands-vs-bioswales]]. In containers, use wide, shallow pots
+areas and constructed wetlands. In containers, use wide, shallow pots
 without drainage holes, kept flooded with 1/2-1 inch of water at all times.
-[[cold-greenhouse-growing]] works well in trays or beds with shade cloth (30-50%).
+Greenhouse growing works well in trays or beds with shade cloth (30-50%).
 
 ### Soil Requirements
 Gotu kola prefers rich, loamy, slightly acidic soil (pH 5.5-7.0). It
@@ -132,7 +132,7 @@ From division:
 ### Care and Maintenance
 - Never let soil dry out -- the most critical care requirement
 - Maintain standing water in bog containers
-- Fertilize lightly every 4-6 weeks with liquid [[complete-organic-fertilizer-cof]]
+- Fertilize lightly every 4-6 weeks with liquid organic fertilizer
 - Pinch back runners to control spread
 - In cold zones, bring containers indoors before first frost
 - Overwinter indoors in bright light; reduce water slightly but do not let
@@ -140,11 +140,10 @@ From division:
 
 ## Harvesting
 
-For fresh use:
-- Harvest leaves and stems at any time during the growing season
-- Pinch or cut stems just above a node; the plant will regrow
-- Traditional dose: 2-3 fresh leaves daily (eaten raw)
+## See Also
 
-For drying:
-- Harvest aerial parts during active growth
-- Cut stems several inches above the base
+- [[comparison-gotu-kola-vs-chinese-skullcap]]
+- [[hamilton-greenhouse-polytunnel-growing]]
+- [[greenhouse-growing]]
+- [[fukuoka-straw-vegetable-growing]]
+- [[holzer-fruit-growing-marginal-climates]]

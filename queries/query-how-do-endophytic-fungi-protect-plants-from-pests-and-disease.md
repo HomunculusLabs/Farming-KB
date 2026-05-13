@@ -11,17 +11,13 @@ type: query
 # How Do Endophytic Fungi Protect Plants from Pests and Disease
 
 ## Short Answer
-[[endophytic-fungi-in-grasslands|fungal endophytes in grassland systems]]
-produce ergot alkaloids, lolines, and peramine compounds that make the
-grass toxic to livestock and insect pests. This chemical defense has been
-widely exploited in agriculture, where endophyte-infected tall fescue and
-ryegrass varieties provide built-in [[cannabis-disease-pest-resistance-breeding-clarke]]. The chemistry of
+[[cannabis-disease-pest-resistance-breeding-clarke]]. The chemistry of
 these compounds is distinct from plant-produced defenses and often more
 effective because insects have not evolved resistance to fungal
 metabolites.
 
 Beyond direct chemical production, endophytes provide protection through
-immune priming. When a plant hosts endophytic fungi, its immune system
+immune priming. When a plant hosts [[endophytic-fungi]], its immune system
 operates at a heightened state of readiness without expending the energy
 cost of full activation. This
 endophytic fungi and plant health
@@ -32,24 +28,13 @@ pathogenesis-related (PR) genes more rapidly upon infection.
 Competitive exclusion is another important mechanism. Endophytes occupy
 space and consume nutrients within plant tissues, making it harder for
 pathogenic fungi and bacteria to establish infections. This is
-particularly effective against [[cervantes-fusarium-vascular-wilt-diseases]] pathogens and foliar
-diseases. The
-[[endophytic-fungi-biology-ecology-taxonomic-diversity|diversity of endophytic fungi]] means that different species provide different types and levels
-of protection. [[endophytic-fungi-in-agriculture|using endophytes in agriculture]] is an
-emerging field that seeks to harness this natural defense system as an
-alternative to chemical pesticides.
-
-Understanding the [[comparison-endophytic-fungi-vs-mycorrhizal-fungi|comparison between endophytic and mycorrhizal fungi]] reveals that these are distinct
+particularly effective against [[endophytic-fungi-biology-ecology-taxonomic-diversity|diversity of endophytic fungi]] means that different species provide different types and levels
+of protection. [[comparison-endophytic-fungi-vs-mycorrhizal-fungi|comparison between endophytic and mycorrhizal fungi]] reveals that these are distinct
 symbiotic strategies that can work together for comprehensive plant
 protection.
 
 ## Key Points
-- [[endophytic-fungi-biology-ecology-taxonomic-diversity|Endophyte diversity]]
-  provides layered defense against multiple threats simultaneously
-- endophytic-fungi-plants-hidden-symbionts
-
 - [[query-what-are-entomopathogenic-fungi-and-how-do-they-control-pests]]
-- [[query-how-do-i-use-trichoderma-for-plant-disease-prevention]]
 - [[endophytic-fungi-in-agriculture|Endophytic Fungi in Agriculture]]
 ## Practical Considerations
 

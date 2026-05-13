@@ -13,36 +13,7 @@ updated: 2026-04-28
 sources:
   - "raw/papers/marijuana-horticulture-cervantes.md"
   - Gonzales GF et al. "Maca (lepidium-meyenii-entity Walp.), a nutritious Andean crop." Natural Product Communications, 2019.
-  - Panossian A, Wikman G. "Evidence-based efficacy of [[rhodiola-rosea]] L. in stress and fatigue." Phytomedicine, 2022.
-  - Valerio LG, Gonzales GF. "Toxicological aspects of the [[chiric-caspi-brunfelsia-south-american-hallucinogen]] herbs cat's claw (uncaria-tomentosa) and maca ([[lepidium-meyenii-entity]])." Toxicology Reviews, 2005.
-  - European Medicines Agency (EMA). HMPC Monograph: Rhodiolae roseae rhizoma et radix, 2011.
-  - Quirós CF, Aliaga C. "Maca (Lepidium meyenii Walp.): an Andean crop with multiple medicinal uses." Journal of Herbs, Spices & Medicinal Plants, 2017.
----
-
-# Maca vs Rhodiola: Cultivation Comparison
-
-## At a Glance
-
-| Feature | **Maca** (*Lepidium meyenii*) | **Rhodiola** (*Rhodiola rosea*) |
-|---|---|---|
-| **Family** | Brassicaceae (mustard) | Crassulaceae (stonecrop) |
-| **Origin** | Andes, Peru/Bolivia (3,800–4,500 m) | Arctic/alpine Europe, Asia, N. America |
-| **Hardiness** | USDA Zones 3–9 (as annual) | USDA Zones 1–8 (perennial) |
-| **Lifecycle** | Biennial (grown as annual) | Perennial (lives 5+ years) |
-| **Harvest part** | Hypocotyl (root-like storage organ) | Rhizome |
-| **Days to maturity** | 210–280 days | 3–5 years to root harvest |
-| **Key actives** | Macamides, macaenes, glucosinolates | Rosavins, salidroside |
-| **Primary use** | Hormonal balance, energy, fertility | Stress adaptation, fatigue, cognition |
-| **Optimal temperature** | Cool: 5–20°C (frost-tolerant) | Cold: -15 to 18°C |
-| **Propagation** | Seed only | Seed, division, tissue culture |
-| **Soil pH** | 5.0–8.0 (very adaptable) | 5.5–7.0 (slightly acidic) |
-| **Water needs** | Low to moderate | Low (drought-tolerant) |
-
-## Growing Conditions
-
-### Climate Requirements
-
-**Maca** evolved in the puna (high-altitude Andean plateau) where intense UV radiation, wide diurnal temperature swings (-10°C nights to 15°C days), thin air, and rocky mineral soils create some of the harshest agricultural conditions on Earth. It requires at least 7–9 months of cool growing conditions and is highly sensitive to heat — temperatures above 24°C cause bolting and reduced hypocotyl development. In most [[fukuoka-natural-farming-temperate-climates]], maca must be planted in late summer or autumn, overwintered as a rosette, and harvested the following summer. It is not viable as a warm-season crop.
+  - Panossian A, Wikman G. "Evidence-based efficacy of [[chiric-caspi-brunfelsia-south-american-hallucinogen]] herbs cat's claw (uncaria-tomentosa) and maca ([[fukuoka-natural-farming-temperate-climates]], maca must be planted in late summer or autumn, overwintered as a rosette, and harvested the following summer. It is not viable as a warm-season crop.
 
 **Rhodiola** evolved in arctic and alpine environments across the Northern Hemisphere. While similarly cold-tolerant, it tolerates a wider range of summer temperatures than maca, performing well from near-freezing to approximately 25°C. It requires a dormancy period (vernalization) for optimal root development and compound accumulation. Unlike maca, rhodiola is perennial and survives freezing temperatures indefinitely, making it far easier to grow as a multi-year crop in cold climates.
 
@@ -50,16 +21,11 @@ sources:
 
 **Maca** is notably undemanding regarding soil fertility — its native soils are rocky, volcanic, and low in organic matter. It thrives in sandy, gravelly, or loamy soils and tolerates both acidic and alkaline conditions. Excess nitrogen produces excessive foliage at the expense of hypocotyl development. Good drainage is essential but maca tolerates somewhat heavier soils than rhodiola.
 
-**Rhodiola** requires sharper drainage than maca and is less tolerant of clay soils. Sandy loam, scree, or rocky soils are ideal. Like maca, it is a light feeder that performs best in mineral-rich but low-organic-matter substrates. Both species benefit from [[cervantes-organic-mineral-amendments]] (azomite, rock dust, kelp meal) over [[cannabis-organic-fertilizers]].
+**Rhodiola** requires sharper drainage than maca and is less tolerant of clay soils. Sandy loam, scree, or rocky soils are ideal. Like maca, it is a light feeder that performs best in mineral-rich but low-organic-matter substrates. Both species benefit from [[cannabis-organic-fertilizers]].
 
 ### Watering
 
-Both are drought-tolerant once established, but maca requires slightly more consistent moisture during its long growing season. Rhodiola's succulent leaves store water, giving it superior [[dighton-fungal-drought-tolerance-plant-water-relations]]. Both are killed by waterlogged soils — excellent drainage is non-negotiable for both crops.
-
-## Propagation and Lifecycle
-
-### Maca
-- **Propagation**: Seed only; no [[hamilton-vegetative-propagation]] is practical
+Both are drought-tolerant once established, but maca requires slightly more consistent moisture during its long growing season. Rhodiola's succulent leaves store water, giving it superior [[hamilton-vegetative-propagation]] is practical
 - **Seed viability**: 3–5 years when stored cool and dry
 - **Germination**: 2–3 weeks at 15–20°C; no stratification required but benefits from a brief cold period
 - **Lifecycle**: Biennial in its native habitat; grown as an annual crop (harvested at end of first growing season, approximately 8–10 months after planting)
@@ -99,10 +65,7 @@ Maca's dense spacing reflects its smaller mature size and single-season lifecycl
 ### Rhodiola
 - **Major threats**: Root rot (Pythium, Phytophthora) in poorly drained soils; Botrytis in humid conditions
 - **Advantage**: Few serious insect pests; its succulent, slightly bitter foliage deters most herbivores
-- **Risk**: [[jadam-pesticide-for-slugs-and-snails]] on young seedlings
-- **Wildlife**: Generally avoided by browsing animals
-
-Both species benefit from crop rotation and excellent drainage as primary [[cervantes-damping-off-seedling-disease-prevention]] strategies. Neither requires significant pest management interventions when grown in appropriate conditions.
+- **Risk**: [[cervantes-damping-off-seedling-disease-prevention]] strategies. Neither requires significant pest management interventions when grown in appropriate conditions.
 
 ## Harvesting and Processing
 

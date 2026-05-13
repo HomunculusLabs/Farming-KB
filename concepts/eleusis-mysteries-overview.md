@@ -9,25 +9,8 @@ tags: [reference]
 
 # Eleusinian Mysteries
 
-[[plutarch-and-cicero-on-the-eleusinian-mysteries]] were the most revered religious initiation rites of
-the [[ancient-greek-mystery-cults-comparison]] world, celebrated annually for nearly two millennia at the
-sanctuary of [[triptolemus-eumolpus-and-the-founding-families-of-eleusis]]. Initiates lived through the night in the telesterion of Eleusis and
-emerged profoundly transformed. Sophocles spoke for the initiates when he said:
-
-    Thrice happy are those of mortals, who having seen those rites
-    depart for Hades; for to them alone is granted to have a true
-    life there. For the rest, all there is evil.
-
-Aristides the Rhetor, writing in the second century CE, offered the most
-detailed surviving description of the experience. He called Eleusis "a shrine
-common to the whole earth" and "the most awesome and the most luminous" of
-divine things. He spoke of the "ineffable visions" that generations of
-initiates had beheld, describing an experience that was "new, astonishing,
-inaccessible to rational cognition."
-
-The testimonies about that night of awe-inspiring experience are unanimous.
-Those who underwent the rite were said to be never the same afterward. Yet
-until the [[coleman-louis-savier-twentieth-century-maraicher]], no one knew what justified utterances such as
+[[ancient-greek-mystery-cults-comparison]] world, celebrated annually for nearly two millennia at the
+sanctuary of [[coleman-louis-savier-twentieth-century-maraicher]], no one knew what justified utterances such as
 these, and there are many like them scattered through classical literature.
 
 ## The Pilgrimage and Ritual Sequence
@@ -40,28 +23,7 @@ experienced in some way the death of Persephone through ritual mimeses. The
 Lesser Mystery was considered a preliminary for the Greater Mystery at the
 autumn sowing in September.
 
-At last the initiates would walk the [[persephone-and-demeter-in-the-mysteries]] into the realm of the
-living. When at last they arrived at Eleusis, they danced far into the night
-beside the well where originally the mother had mourned for her lost
-Persephone.
-
-## The Central Vision
-
-Ancient writers unanimously indicate that something was seen in the great
-telesterion. The experience was a vision whereby the pilgrim became an
-epoptes, "one who sees." The hall, as reconstructed from archaeological
-remains, was totally unsuited for theatrical performances, nor do the
-epigraphically extant account books record any expenditures for actors or
-stage apparatus. What was witnessed was no play but phasmata, ghostly
-apparitions, in particular the spirit of Persephone herself, returned from
-the dead with her newborn son, conceived in the land of death.
-
-There were physical symptoms that accompanied the vision: fear and trembling
-in the limbs, vertigo, nausea, and a cold sweat. Then came the vision, a
-sight amidst an aura of brilliant light that suddenly flickered through the
-darkened chamber. Eyes had never before seen the like, and the experience
-itself was incommunicable. Even a poet could only say that he had seen the
-beginning and the [[powell-psilocybin-end-of-life-anxiety]] and known that they were one, something given
+At last the initiates would walk the [[powell-psilocybin-end-of-life-anxiety]] and known that they were one, something given
 by god. The division between earth and sky melted into a pillar of light.
 
 These are the symptomatic reactions not to a drama or ceremony, but to a
@@ -118,8 +80,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[eleusinian-mysteries]]
 - [[psilocybin]]
-- [[det]]
 - [[fungal-ecosystem-processes-overview]]
 - [[bloomfield-basidiomycete-biology-overview]]

@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Golden Oyster Mushroom ([[cotter-oyster-mushroom-cultivation]] guides, see [[shiitake-strain-classification-and-substrate-formulas]].
+# Golden Oyster Mushroom ([[shiitake-strain-classification-and-substrate-formulas]].
 
 Caps are golden to bright yellow, 2-5 cm, convex to plane at maturity,
 often depressed in the center, thin-fleshed, with decurrent gills which
@@ -38,47 +38,8 @@ a grayish brown mushroom. As strains senesce, the yellow cap color is
 lost, becoming beige, and fewer mushrooms are produced in each
 primordial cluster. Geographically, P. citrinopileatus is limited to
 Asia whereas P. cornucopiae occurs in Europe. Neither has been found
-growing wild in [[psilocybin-north-america-pacific-northwest]].
-
-## Distribution and Natural Habitat
-
-Native to the forested subtropics of China, southern Japan, and
-adjacent regions. A saprophyte of Asian hardwoods, especially oaks,
-elm, beech and poplars. This species can also grow on logs and stumps,
-especially of Ulmus and Carpinus species. Hilber (1982) reported yields
-averaging 17-22 kilograms per cubic meter of elm wood per season.
-
-## Microscopic Features
-
-Spores pale pinkish buff, 7.5-9.0 x 3.0-3.5 micrometers. Clamp
-connections present. Hyphal system dimitic.
-
-## Mycelial Characteristics
-
-Cottony, whitish mycelium, often with tufts of dense growth, sometimes
-with yellowish tones, and occasionally with underlying rhizomorphic
-strands. Primordia are yellow at first, especially from strains kept
-close to their natural origins. Mycelium dense on grain. Colonization
-of bulk substrates at first wispy, only becoming dense well after
-colonization. Casts a much finer mycelial mat than [[pleurotus-ostreatus]]
-or P. pulmonarius on [[non-sterilized-wheat-straw-oyster-cultivation]].
-
-## Fragrance Signature
-
-Grain spawn smells astringent, acrid, nutty, sometimes "fishy," with a
-scent that becomes distinctly recognizable with experience.
-
-## Cultivation Methods
-
-### Natural Method
-This species will grow on logs and stumps, especially of Ulmus and
-Carpinus species, much like P. ostreatus. Also grown on cottonseed
-hulls, sugar cane bagasse, straw and sawdust in China. In the United
-States wheat straw or hardwood sawdust are most frequently employed.
-
-### Spawn Expansion
-Grain spawn sown directly into sterilized sawdust or pasteurized
-substrates. The generation of intermediate [[growing-gourmet-sawdust-spawn-production-use]] is not
+growing wild in [[pleurotus-ostreatus]]
+or P. pulmonarius on [[growing-gourmet-sawdust-spawn-production-use]] is not
 necessary. Straw inoculated with grain spawn has substantially greater
 yields than straw inoculated with sawdust spawn.
 
@@ -117,8 +78,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[pleurotus-citrinopileatus]]
 - [[oyster-mushroom]]
-- [[psilocybin]]
 - [[spore]]
 - [[mycelium]]

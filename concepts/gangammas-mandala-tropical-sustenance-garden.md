@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Gangamma's Mandala and Tropical Sustenance Garden
+# Gangamma's Mandala and Tropical Sustenance [[gangammas-mandala-garden-design|garden|Garden]]
 
 ## Overview
 
@@ -31,23 +31,6 @@ phosphorus in tropical soils:
 
 These plants serve as biological nutrient pumps, accessing otherwise unavailable
 phosphorus in highly weathered tropical soils and cycling it through leaf fall and
-root exudates to companion plants.
-
-### Sugar and Carbohydrate Cycling
-
-Soil biology in tropical gardens thrives on carbohydrate inputs. Multiple pathways
-feed soil microorganisms:
-
-- **Sugar-pumping plants** — Species that exude excess carbohydrates from roots,
-  directly feeding soil microbial communities
-- **Insect exudates** — Leaf-sucking insects and scale insects exude sugary honeydew
-  from stems, which drips to soil and activates bacterial and fungal activity
-- **Molasses and cane/sorghum juice** — Dilute applications of molasses or freshly
-  pressed cane or sorghum sugar juices activate soil fauna, stimulating decomposition
-  and nutrient cycling
-
-### Biological Pest Control
-
 [[integrated-pest-management]] in tropical gardens relies on companion plants with
 natural insecticidal or repellent properties:
 
@@ -148,46 +131,11 @@ The first construction step establishes the biological heart of the 100m² garde
 
 1. **Mark the center** of the 100m² garden area
 2. **Describe a 2-meter circle** at the center point
-3. **Excavate to a dish shape** — 0.6 to 1 meter deep from the hollow (center) to
-   the rim (edge), creating a shallow depression
 
-### Layering and Filling
+## See Also
 
-4. **Cover the excavation** with wet paper, cardboard, or banana leaves to suppress
-   any remaining vegetation and create a moisture-retaining base
-5. **Fill with rough mulch** — Short logs, twigs, hay, rice husks, and sawdust,
-   building organic volume that will decompose over time
-6. **Add amendments** — Manure, wood ash, lime, and dolomite to balance pH and
-   supply calcium, magnesium, and phosphorus
-
-### Stone Ring and Planting
-
-7. **Bank stones** around the outside rim for structural stability and thermal mass
-8. **Plant the rim** with:
-   - 4–5 papaya trees
-   - 4 or more dwarf bananas
-   - 8–10 sweet potato plants (trailing over the rim)
-   - Yams and taro planted inside the rim (in the mulch-filled depression)
-9. **Later additions** — Beans climbing the papaya and banana stalks for vertical
-   nitrogen fixation and additional protein harvest
-
-### Functional Platform
-
-10. **Place a grid or wooden platform** over the mulch-filled central pit, creating
-    an outside shower and wash-up area. Water draining through the platform directly
-    irrigates and feeds the decomposing mulch below, completing a water-nutrient
-    cycle with zero waste.
-
-## Key Design Philosophy
-
-Gangamma's Mandala embodies the permaculture principle of "least path" — every
-element serves multiple functions, and the garden is laid out so that daily tasks
-(harvesting, watering, feeding animals, washing) require minimal movement. The
-central pit acts simultaneously as a composting system, irrigation sink, shower
-drain, and intensive food production zone, demonstrating how integration of function
-creates resilient, low-maintenance tropical food systems.
-## See also
-
-- [[tropical-food-system-development]]
-- [[permaculture-design]]
-- [[integrated-home-garden-design]]
+- [[gangammas-mandala-intensive-home-garden]]
+- [[gangammas-mandala-garden-design]]
+- [[mollison-gangammas-mandala-and-banana-circle-gardens]]
+- [[gangammas-mandala-garden]]
+- [[fukuoka-textdoc-food-mandala-yin-yang-seasonal-natural-diet]]

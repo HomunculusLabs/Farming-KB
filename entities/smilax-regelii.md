@@ -23,61 +23,8 @@ sources:
 Smilax regelii, known as Honduran sarsaparilla, is a perennial climbing vine
 in the family Smilacaceae (formerly placed in Liliaceae and Smilacaceae).
 
-The species is native to [[guzman-allen-gartz-neurotropic-fungi-central-america-caribbean]], the Caribbean, and northern South
-America, where it has been used medicinally for centuries by Indigenous peoples.
-
-Its dried rhizomes have served as the primary flavoring and medicinal component
-of traditional sarsaparilla beverages since the 15th century.
-
-The roots contain steroidal saponins, flavonoids, and phenolic acids that
-account for its documented anti-inflammatory, diaphoretic, and diuretic
-properties.
-
-## Taxonomy and Morphology
-
-**Classification:** Kingdom Plantae → Angiosperms → Monocots → Liliales →
-Smilacaceae → Smilax → S. regelii (Kunth) Killip & Morton.
-
-The genus Smilax contains approximately 300 species distributed across tropical
-and subtropical regions worldwide. S. regelii is one of the principal species
-used commercially for sarsaparilla production.
-
-The plant is a woody, climbing vine that can reach lengths of 15 meters or
-more, equipped with tendrils and recurved prickles that aid in ascending trees
-and shrubs.
-
-Leaves are alternate, broadly ovate to cordate, 8 to 20 cm long and 6 to 15 cm
-wide, with prominently veined surfaces and glabrous to pubescent undersides.
-
-The rhizome system is extensive, producing thick, fleshy, cylindrical roots
-that are reddish-brown externally and white internally, reaching 1–3 cm in
-diameter.
-
-## Distribution and Habitat
-
-S. regelii ranges from southern Mexico through [[guzman-allen-gartz-neurotropic-fungi-caribbean-central-america]] (Guatemala,
-Belize, Honduras, Nicaragua, Costa Rica, Panama) into northern [[guzman-psilocybin-mushrooms-south-america]]
-(Colombia, Venezuela, Ecuador, Peru, Brazil).
-
-It grows in tropical and subtropical forests from sea level to 1,500 meters
-elevation, typically in moist, well-drained soils along forest margins,
-riverbanks, and disturbed areas.
-
-The vine thrives in partial shade to full sun conditions and is often found
-climbing through secondary growth vegetation, exploiting forest clearings and
-edges for light.
-
-## Bioactive Compounds
-
-The principal bioactive constituents of S. regelii rhizomes are steroidal
-saponins, collectively called sarsaponins, which are glycosides of
-smilagenin, sarsasapogenin, and other steroidal sapogenins.
-
-Additional compounds include flavonoids (astilbin, quercetin, kaempferol
-derivatives), phenolic acids (caffeic acid, ferulic acid), and diterpenes.
-
-The saponin content of dried rhizomes typically ranges from 1.5% to 2.5%,
-varying with geographic origin, [[cannabis-harvest-timing-visual-cues]], [[mushroom-storage-and-processing-methods]].
+The species is native to [[guzman-allen-gartz-neurotropic-fungi-caribbean-central-america]] (Guatemala,
+Belize, Honduras, Nicaragua, Costa Rica, Panama) into northern [[cannabis-harvest-timing-visual-cues]], [[mushroom-storage-and-processing-methods]].
 
 Smilagenin and sarsasapogenin have been investigated as steroidal precursors
 in the semi-synthesis of pharmaceutical compounds including corticosteroids
@@ -87,3 +34,85 @@ and sex hormones.
 
 Indigenous peoples of Central America used S. regelii rhizomes to treat skin
 conditions, rheumatism, syphilis, and as a general tonic and blood purifier.
+
+## Overview
+
+Smilax Regelii represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish smilax regelii
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving smilax extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Smilax Regelii finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for smilax regelii. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+smilax regelii and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Smilax Regelii has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of smilax regelii into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[smilax-glabra]]
+- [[smilax-ornata]]

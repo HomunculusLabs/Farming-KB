@@ -41,7 +41,7 @@ Soil colloids are ultra-fine particles of clay, organic matter, or long-chain po
 - Each granule can absorb hundreds of times its weight in water.
 - Applied at rates of 6 kg/ha or more.
 - Used in nursery plants, row crops, new tree plantings in deserts, and transplanting.
-- Water conservation claims of up to 50% reduction in irrigation needs.
+- [[water-conservation]] claims of up to 50% reduction in irrigation needs.
 
 ### Colloids and Soil Destruction
 - **Fire** destroys the colloidal properties of surface clays. Burnt clay particles no longer form colloids and become mineral-poor.
@@ -67,9 +67,7 @@ Colloids are the living heart of soil fertility. In permaculture systems, the em
 
 ## See Also
 
-- [[humus]]
 - [[soil-ph]]
-- [[crumb-structure]]
 - [[soil-biota]]
 - [[bentonite-clay-sealing-mollison]]
 
@@ -79,3 +77,73 @@ Soil colloids include layer silicate clays (montmorillonite, kaolinite, illite),
 iron and aluminum oxides (gibbsite, goethite), and organic colloids (humic
 and fulvic acids). Each type has distinct charge properties and cation exchange
 capacity that influence nutrient availability.
+
+## Overview
+
+Soil Colloids represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish soil colloids
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving soil extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Soil Colloids finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for soil colloids. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+soil colloids and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Soil Colloids has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of soil colloids into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.

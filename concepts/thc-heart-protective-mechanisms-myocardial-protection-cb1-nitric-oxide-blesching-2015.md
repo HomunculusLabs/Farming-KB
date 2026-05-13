@@ -2,15 +2,7 @@
 title: THC Heart Protective Mechanisms, Myocardial Protection, CB1, and Nitric Oxide (Blesching 2015)
 source: raw/papers/uwe-blesching-the-cannabis-health-index.md
 author: Uwe Blesching (2015)
-topic: cardiology, [[cannabinoid-receptors-cb1-cb2]], THC, myocardial protection
-mined: 2026-05-11
----
-
-# THC Heart-Protective Mechanisms — Myocardial Protection via CB1 and Nitric Oxide
-
-## Overview
-
-In *The [[blesching-cannabis-health-index-autoimmune-conditions]]*, Blesching highlights an emerging body of
+topic: cardiology, [[blesching-cannabis-health-index-autoimmune-conditions]]*, Blesching highlights an emerging body of
 evidence that tetrahydrocannabinol (THC) may protect the heart from damage and
 mitigate injury from myocardial infarction (heart attack). Multiple distinct
 mechanisms have been identified through preclinical research, suggesting that
@@ -43,8 +35,7 @@ physiology with several cardioprotective roles:
   risk of thrombus formation in coronary arteries
 - **Anti-inflammatory**: NO suppresses neutrophil adhesion to vascular
   endothelium, limiting inflammatory damage during ischemia-reperfusion
-- **Mitochondrial protection**: NO modulates [[electron-transport-chain-mitochondrial-respiration]],
-  reducing the production of [[reactive-oxygen-species-and-oxidative-stress]] during ischemia
+- **Mitochondrial protection**: NO modulates [[reactive-oxygen-species-and-oxidative-stress]] during ischemia
 
 Blesching frames this as THC "preparing heart cells to better withstand
 hypoxia" — essentially a pharmacological preconditioning effect analogous to
@@ -62,41 +53,7 @@ contractility, and coronary vascular tone. CB1-mediated neuroprotection may:
 - Prevent maladaptive sympathetic activation that exacerbates cardiac injury
 - Maintain vagal tone, which is cardioprotective through
   acetylcholine-mediated anti-inflammatory pathways
-- Reduce central [[fungal-stress-responses]] that increase cardiac workload
-
-The brain-heart axis is increasingly recognized as critical in cardiac
-outcomes, and CB1-mediated neuroprotection may represent a systemic approach
-to cardiac care that addresses both central and peripheral injury mechanisms.
-
-## Mechanism 4: Bronchodilation and Improved Oxygenation
-
-THC causes bronchodilation (enlargement of the airways), leading to increased
-air supply to the lungs. Blesching identifies this as "a potent therapeutic
-element in heart disease" because myocardial ischemia fundamentally represents
-an imbalance between oxygen supply and demand. By improving pulmonary gas
-exchange:
-
-- Arterial oxygen saturation increases, improving oxygen delivery to the
-  ischemic myocardium
-- The work of breathing decreases, reducing the metabolic burden on a
-  failing heart
-- Bronchospasm-induced hypoxia (which can trigger cardiac events in
-  susceptible individuals) is prevented
-
-This mechanism is particularly relevant given that COPD and heart disease
-frequently coexist as comorbid conditions.
-
-## Mechanism 5: COPD Symptom Improvement
-
-Blesching cites evidence that THC causes weight gain and increases walking
-distance in chronic obstructive pulmonary disease (COPD) patients. For cardiac
-patients with concurrent COPD:
-
-- Weight gain addresses cardiac cachexia, a wasting syndrome associated with
-  chronic heart failure that independently predicts mortality
-- Increased exercise tolerance (walking distance) improves cardiovascular
-  fitness and promotes cardiac remodeling
-- [[cannabis-for-cachexia-and-appetite-stimulation]] ensures adequate caloric and protein intake for
+- Reduce central [[cannabis-for-cachexia-and-appetite-stimulation]] ensures adequate caloric and protein intake for
   cardiac tissue maintenance
 
 ## Context: Heart Disease as the Leading Cause of Death
@@ -112,24 +69,12 @@ typically target a single pathway.
 
 Several caveats apply to the current evidence base:
 
-- Most studies are preclinical (animal models), and human [[cancer-medicinal-mushrooms-schizophyllan-spg-clinical-trials]]
-  are needed to confirm these mechanisms in patients
-- THC's [[blesching-cannabis-hypertension-cardiovascular-effects]] are complex and include tachycardia
+- Most studies are preclinical (animal models), and human [[blesching-cannabis-hypertension-cardiovascular-effects]] are complex and include tachycardia
   (increased heart rate) and orthostatic hypotension, which could be
   deleterious in acute cardiac settings
 - The dose-response relationship is critical: cardioprotective doses may
   differ from psychoactive or adverse-effect doses
-- The [[mushroom-taste-route-of-administration-and-consumption-barriers]] matters — inhaled THC has different
-  pharmacokinetics and cardiovascular effects than oral or sublingual
-  formulations
-
-## Synthetic THC Pharmaceuticals
-
-Blesching notes that FDA-approved synthetic THC pharmaceuticals include
-Sativex, Dronabinol, Marinol, and Nabilone. However, with the exception of
-Sativex (a plant-derived tincture), these pharmaceuticals do not contain the
-other biologically active cannabis components that may contribute to
-[[cbd-therapeutic-effects]] through entourage mechanisms.
+- The [[cbd-therapeutic-effects]] through entourage mechanisms.
 
 ## References
 

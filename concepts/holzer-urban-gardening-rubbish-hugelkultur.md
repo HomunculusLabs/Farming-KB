@@ -16,13 +16,8 @@ type: concept
 ---
 
 # Holzer Urban Gardening and the Rubbish permaculture offers solutions for growing food even in the most
-challenging [[query-how-do-green-roofs-and-living-walls-benefit-urban-environments]]. From rooftops and balconies to rubbish tips
-and [[holzer-crater-gardens-hugelkultur]] with one key difference: the core is filled
-with collected waste materials rather than wood and [[hamilton-composting-and-organic-matter-management]]:
-
-1. Collect old clothes, paper, cardboard, half-rotten wooden boxes, and
-   kitchen waste
-2. [[query-can-fungi-break-down-plastic-pollution]] items that are too large
+challenging [[holzer-crater-gardens-hugelkultur]] with one key difference: the core is filled
+with collected waste materials rather than wood and [[query-can-fungi-break-down-plastic-pollution]] items that are too large
 3. Build up the mound maintaining a rough and loose structure
 4. Water each layer thoroughly
 5. Cover everything with soil, sand, straw, or grass
@@ -81,9 +76,7 @@ Built during a Tamera workshop from materials found at a junkyard:
 - Small holes in the geotextile receive seeds of melons, tomatoes,
   cabbages, and other vegetables
 
-Watering can be done from the top via ladder or with a small [[mollison-designers-hand-pump-and-water-lifting-devices]] from
-a container on the ground. As internal material rots and sinks, the tower is
-refilled with [[fukuoka-textdoc-composting-critique-futility-prepared-organic-matter]] from the top.
+Watering can be done from the top via ladder or with a small [[fukuoka-textdoc-composting-critique-futility-prepared-organic-matter]] from the top.
 
 ## The Permaculture Dream Mushroom
 
@@ -118,8 +111,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[hugelkultur]]
 - [[doc]]
-- [[det]]
 - [[composting]]
 - [[permaculture]]

@@ -1,13 +1,6 @@
 ---
 title: Chemical Studies Neurotropic Fungi Reliability and Challenges
-source: Guzmán, Allen & Gartz "Worldwide [[psilocybe-geographical-distribution-patterns]] of the Neurotropic Fungi" (1998)
----
-
-# Chemical Studies of Neurotropic Fungi: Reliability and Challenges
-
-## Overview
-
-The [[chemical-analysis-psilocybin-mushrooms]] of neurotropic fungi has produced a substantial body of literature since Albert Hofmann's isolation of psilocybin in 1958. However, the reliability of many published chemical studies has been seriously questioned by mycologists and chemists. Problems including species misidentification, mixed-species collections, specimen age and preservation, and the volatility of key alkaloids have introduced significant errors into the published record. Understanding these methodological challenges is essential for interpreting the chemical literature on [[non-psilocybin-neurotropic-fungi-and-ergot-alkaloids]] for designing reliable future studies. See [[challenges-neurotropic-fungi-chemical-analysis-taxonomic-identification]] for additional discussion.
+source: Guzmán, Allen & Gartz "Worldwide [[chemical-analysis-psilocybin-mushrooms]] of neurotropic fungi has produced a substantial body of literature since Albert Hofmann's isolation of psilocybin in 1958. However, the reliability of many published chemical studies has been seriously questioned by mycologists and chemists. Problems including species misidentification, mixed-species collections, specimen age and preservation, and the volatility of key alkaloids have introduced significant errors into the published record. Understanding these methodological challenges is essential for interpreting the chemical literature on [[challenges-neurotropic-fungi-chemical-analysis-taxonomic-identification]] for additional discussion.
 
 ## Species Misidentification
 
@@ -21,37 +14,7 @@ Several specific cases of misidentification have been documented in the literatu
 
 - **Psilocybe pseudobullacea**: This species has been confused with several morphologically similar lookalikes in chemical studies, leading to erroneous alkaloid reports. The subtle morphological differences between P. pseudobullacea and its close relatives make accurate identification difficult without expert taxonomic examination.
 
-- **[[psilocybe-atrobrunnea]]**: Confusion between P. atrobrunnea and other brown-spored Psilocybe species has contributed to contradictory alkaloid reports in the literature. Some studies attributed to P. atrobrunnea may have actually analyzed different species with different chemical profiles.
-
-See taxonomic confusion neurotropic fungi misidentification for a comprehensive catalog of documented misidentification cases.
-
-## Mixed-Species Collections
-
-### The Leslie and Repke Case
-
-A particularly problematic example of mixed-species analysis involves the work of Leslie and Repke, who reported the isolation of psilocybin from what was later determined to be a mixed collection containing more than one species. The chemical analysis therefore could not be reliably attributed to any single species, rendering the results taxonomically ambiguous.
-
-This case highlights a broader issue: many early chemical analyses were performed on field-collected material without adequate documentation of whether the collection was pure. When multiple species co-occur in the same habitat, which is common for dung-inhabiting and wood-inhabiting fungi, the risk of inadvertently analyzing mixed material is substantial.
-
-### Best Practices for Collection
-
-To avoid the problems associated with mixed collections, modern chemical studies should:
-
-- Collect individual fruiting bodies separately
-- Photograph and describe each specimen in detail
-- Prepare voucher specimens for each analyzed sample
-- Have voucher specimens examined by a qualified taxonomist
-- Deposit vouchers in a recognized herbarium
-
-## Age and Preservation of Specimens
-
-### Alkaloid Degradation Over Time
-
-The alkaloid content of neurotropic fungi changes significantly with the age of the specimen at the time of collection and with the method and duration of preservation after collection. This temporal degradation introduces a major source of variability in chemical analyses.
-
-### Baeocystin Degradation
-
-Baeocystin, a psilocybin analog found in many species, has been shown to degrade significantly within 20 to 60 days after collection. This means that chemical analyses conducted on [[herbarium-specimens-fungal-collections]] or dried material stored for more than two months may substantially underestimate the original baeocystin content of fresh specimens.
+- **[[herbarium-specimens-fungal-collections]] or dried material stored for more than two months may substantially underestimate the original baeocystin content of fresh specimens.
 
 ### The Ohenoja Herbarium Study
 
@@ -117,8 +80,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[neurotropic-fungi]]
 - [[doc]]
-- [[psilocybin]]
 - [[dom]]
 - [[jonathan-ott]]

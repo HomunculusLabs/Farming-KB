@@ -10,8 +10,7 @@ tags: [vegetables]
 
 # Vegetable Garden Planning and Rotation
 
-The [[comparison-vermicomposting-vs-composting-organic-garden]] must always be treated as a complete-entity. While the
-fruit and [[maintaining-organic-matter-in-vegetable-gardens]] produce edible crops, the ornamental section
+The [[maintaining-organic-matter-in-vegetable-gardens]] produce edible crops, the ornamental section
 attracts useful wildlife that helps keep them free from pests and
 diseases. The vegetable plot is where the advantages of non-chemical
 gardening are most emphasized.
@@ -24,62 +23,14 @@ year, you make better use of resources and allow the soil to replenish
 lost minerals. Divide the vegetable plot into four sections:
 
 ### Plot A (Heavily Manured)
-[[comparison-double-digging-vs-no-till]], incorporating manure in upper and lower levels, plus
-blood, fish, and bone meal. Crops: potatoes, carrots, beets, parsnips,
-onions, shallots, leeks, garlic, tomatoes, zucchini, squash, pumpkins,
-celery, eggplants, peppers, cucumbers, melons, celeriac.
-
-### Plot B (Legumes and Light Feeders)
-Single digging with blood, fish, and bone meal. Crops: peas, green beans,
-runner beans, broad beans, Lima beans, [[growing-sweet-corn-organically]], lettuce, spinach,
-chard, Swiss chard, chicory, endive, [[growing-globe-artichokes]].
-
-### Plot C (Brassicas and Lime)
-Single digging with blood, fish, and bone meal, plus lime to raise pH
-to 6.5-7.0. Crops: cauliflower, cabbages, Brussels sprouts, broccoli,
-kale, rutabagas, turnips, radishes, kohlrabi.
-
-### Plot D (Permanent Crops)
-Asparagus, globe artichokes (perennial), Jerusalem artichokes, rhubarb,
-sea kale, herbs. These do not rotate.
-
-Each year, move each group to the next plot so that two years elapse
-before any crop returns to its original site. This maintains mineral
-balance, reduces disease risk, and makes best use of [[hamilton-composting-and-organic-matter-management]].
+[[growing-sweet-corn-organically]], lettuce, spinach,
+chard, Swiss chard, chicory, endive, [[hamilton-composting-and-organic-matter-management]].
 
 ## The Deep Bed System
 
-The deep [[coleman-french-intensive-bed-method]] has been practiced for centuries. Instead of long
-rows with paths between each, crops grow in beds 4 ft (1.25 m) wide,
-with all work done from narrow paths at the sides. This effectively
-doubles the productive land area.
-
-By digging deeply, breaking up subsoil, and incorporating plenty of
-bulky [[fukuoka-textdoc-composting-critique-futility-prepared-organic-matter]], a deep root zone is produced. Roots grow downward
+The deep [[fukuoka-textdoc-composting-critique-futility-prepared-organic-matter]], a deep root zone is produced. Roots grow downward
 rather than spreading sideways, so crops can be planted much closer
-together, resulting in dramatically [[fukuoka-textdoc-increased-production-not-increased-yields]]. A 10 x 4 ft deep
-bed can produce up to four times the yield of a conventional bed.
-
-Never walk on the bed once dug, as this compacts the soil. Use a wooden
-board to spread your weight if you must reach the center. Weeding is
-easy once plants mature and cover the soil surface. Start with a stale
-seedbed and cover soil with a thick layer of compost.
-
-Crops should be planted in blocks rather than rows, in staggered lines
-forming triangular patterns. Some crops can be intercropped: for
-example, sow radishes between rows of broad beans -- harvest the
-radishes long before the beans are big enough to rob them of light.
-
-## Preparing Vegetable Beds
-
-The best way to ensure good vegetables is the best possible soil. Even
-poor soil can be substantially improved by working in organic matter.
-Before sowing, rake two handfuls of blood, fish, and bone meal per
-square yard into the top inch of soil, and cover with 2 inches of
-well-rotted garden compost.
-
-Gross feeders (tomatoes, zucchini, squashes, peppers) benefit from
-liquid kelp every two weeks during the [[savory-growing-season-and-non-growing-season-management]]. Overwintered
+together, resulting in dramatically [[savory-growing-season-and-non-growing-season-management]]. Overwintered
 crops like spring cabbage need an extra boost of dried blood in spring.
 
 ## Successional Sowing and Continuous Supply
@@ -118,8 +69,82 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[doc]]
 - [[jerusalem-artichoke]]
-- [[composting]]
 - [[vermicomposting]]
 - [[hamilton-crop-rotation-and-vegetable-planning]]
+
+## Overview
+
+Hamilton Vegetable Planning Rotation represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish hamilton vegetable planning rotation
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving hamilton extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Hamilton Vegetable Planning Rotation finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for hamilton vegetable planning rotation. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+hamilton vegetable planning rotation and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Hamilton Vegetable Planning Rotation has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of hamilton vegetable planning rotation into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.

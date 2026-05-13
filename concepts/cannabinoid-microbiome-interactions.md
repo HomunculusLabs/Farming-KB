@@ -7,7 +7,7 @@ tags: [microbiology, cannabis, cannabinoids, endorhiza, plant-secondary-metaboli
 
 # Cannabinoid-Microbiome Interactions
 
-Cannabinoid-microbiome interactions refer to the bidirectional relationships between the cannabinoid compounds produced by Cannabis plants and the bacterial communities inhabiting their root systems. Research by Winston et al. (2014) provided the first evidence that cannabinoid profiles are significantly correlated with the structure of Cannabis [[cultivar-endorhiza-bacterial-communities-cannabis]], opening a new frontier in understanding how plant [[antifungal-secondary-metabolites-coprophilous-fungi]] shape and are shaped by the root microbiome.
+Cannabinoid-microbiome interactions refer to the bidirectional relationships between the cannabinoid compounds produced by Cannabis plants and the bacterial communities inhabiting their root systems. Research by Winston et al. (2014) provided the first evidence that cannabinoid profiles are significantly correlated with the structure of Cannabis [[antifungal-secondary-metabolites-coprophilous-fungi]] shape and are shaped by the root microbiome.
 
 ## Background: Cannabinoids as Secondary Metabolites
 
@@ -17,17 +17,7 @@ Cannabinoids are a class of diverse chemical compounds produced by Cannabis that
 - **Cannabigerol (CBG)** — a precursor to both THC and CBD
 - **Cannabinol (CBN)** — a degradation product of THC
 
-Different Cannabis cultivars produce distinct ratios and concentrations of these compounds. Cultivars like Sour Diesel and Maui Wowie are associated with high THC:CBD ratios, while balanced hybrids like White Widow and Burmese have more moderate ratios. These chemical profiles are determined primarily by the plant's genetics but can be influenced by environmental conditions including soil properties, light exposure, [[ph-and-nutrient-availability-garden-soils]].
-
-## Evidence for Cannabinoid-Microbiome Correlations
-
-The Winston et al. study provided the first quantitative evidence linking cannabinoid profiles to root microbiome structure. Using Mantel tests, they found a highly significant correlation between cannabinoid composition and [[weighted-unifrac-strain-clustering-cannabis-endorhiza-community-structure]] ([[weighted-unweighted-unifrac-discrepancy-cannabis-cultivar]] r-stat: 0.863, p = 0.001).
-
-Cannabinoid data was collected from the buds of plants in the second experiment, including three White Widow plants and one Maui Wowie plant, with analysis performed at Delta-9-Technologies, LLC. The significant correlation between these above-ground cannabinoid profiles and below-ground microbial communities suggests that the plant's metabolic state is reflected throughout its associated microbiome.
-
-## The Confounding Problem: Soil vs. Cannabinoid Effects
-
-A major challenge in interpreting cannabinoid-microbiome correlations is the confounding influence of soil edaphic variables. In the Winston et al. study, higher THC composition and concentration were found predominantly in plants from one of the two soil types (Orange County soil). This means that THC variables were significantly correlated with soil edaphic variables, making it extremely difficult to disassociate the effects of cannabinoid production on the microbiome from the direct effects of [[soil-physicochemical-properties-cannabis-microbiome-assembly-winston]].
+Different Cannabis cultivars produce distinct ratios and concentrations of these compounds. Cultivars like Sour Diesel and Maui Wowie are associated with high THC:CBD ratios, while balanced hybrids like White Widow and Burmese have more moderate ratios. These chemical profiles are determined primarily by the plant's genetics but can be influenced by environmental conditions including soil properties, light exposure, [[weighted-unifrac-strain-clustering-cannabis-endorhiza-community-structure]] ([[soil-physicochemical-properties-cannabis-microbiome-assembly-winston]].
 
 This confounding arises because:
 - Soil properties directly influence both plant secondary metabolism and microbial communities
@@ -134,7 +124,6 @@ metagenomic and metabolomic profiling of field-grown plants.
 
 ## See Also
 
-- [[cannabis-endorhiza-microbiome]]
 - [[two-tier-selection-model]]
 - cannabinoid microbiome interactions
 - [[plant-defense-mechanisms]]

@@ -19,13 +19,11 @@ sources:
 
 ## Overview
 
-**Gliricidia sepium** (Jacq.) Steud., commonly known as madre de cacao, Mexican lilac, or quickstick, is a fast-growing, nitrogen-fixing leguminous tree in the family Fabaceae. Native to seasonally dry forests of [[guzman-allen-gartz-neurotropic-fungi-caribbean-central-america]] and Mexico, it is now pantropically distributed as one of the most widely used agroforestry species worldwide.
+**Gliricidia sepium** (Jacq.) Steud., commonly known as madre de cacao, Mexican lilac, or quickstick, is a fast-growing, nitrogen-fixing leguminous tree in the family Fabaceae. Native to seasonally dry forests of [[guzman-allen-gartz-neurotropic-fungi-hawaii-pacific-islands]].
 
-The tree typically reaches 10–15 m in height with an open, spreading canopy. It is valued for its rapid growth rate, ability to thrive on poor soils, and prolific production of biomass for mulch, fodder, and green manure. G. sepium has become a cornerstone species in tropical agroforestry systems across Africa, Asia, and the [[guzman-allen-gartz-neurotropic-fungi-hawaii-pacific-islands]].
+Its common name "madre de cacao" (mother of cacao) reflects its traditional use as a shade tree for cacao plantations [[comparison-beneficial-insects-guide-vs-integrated-pest-management]] systems.
 
-Its common name "madre de cacao" (mother of cacao) reflects its traditional use as a shade tree for cacao plantations [[neurotropic-fungi-in-central-america]]. The species also possesses insecticidal and rodenticidal properties, making it useful in [[comparison-beneficial-insects-guide-vs-integrated-pest-management]] systems.
-
-G. sepium ranks among the top five most widely utilized multipurpose tree legumes in the tropics, alongside [[leucaena-leucocephala]] and [[calliandra-calothyrsus]]. Its adaptability to a broad range of agroecological zones and its ease of propagation from cuttings have made it a preferred species for smallholder farming systems throughout the developing world.
+G. sepium ranks among the top five most widely utilized multipurpose tree legumes in the tropics, alongside [[calliandra-calothyrsus]]. Its adaptability to a broad range of agroecological zones and its ease of propagation from cuttings have made it a preferred species for smallholder farming systems throughout the developing world.
 
 ## Taxonomy and Morphology
 
@@ -49,9 +47,7 @@ The leaf margin is entire to slightly undulate, and the upper surface is dark gr
 
 G. sepium is native to the Pacific coast of Mexico through Central America to northern Colombia. It has been introduced and naturalized throughout the tropics, including West and East Africa, South and Southeast Asia, and the Pacific Islands.
 
-In Africa, the species was introduced in the early 20th century and is now widespread from Senegal to Kenya and south to Mozambique. In Asia, it is particularly prominent in the Philippines, Indonesia, Sri Lanka, and India, where it is used extensively in home gardens [[mollison-designers-alley-cropping-and-contour-hedgerow-systems]] systems.
-
-The species thrives in tropical [[query-how-to-grow-rare-tropical-fruits-in-marginal-and-subtropical-climates]] from sea level to approximately 1500 m elevation. It tolerates annual rainfall from 700 to 3000 mm and grows well on a range of soil types, including acidic, low-fertility, and moderately saline soils.
+In Africa, the species was introduced in the early 20th century and is now widespread from Senegal to Kenya and south to Mozambique. In Asia, it is particularly prominent in the Philippines, Indonesia, Sri Lanka, and India, where it is used extensively in home gardens [[query-how-to-grow-rare-tropical-fruits-in-marginal-and-subtropical-climates]] from sea level to approximately 1500 m elevation. It tolerates annual rainfall from 700 to 3000 mm and grows well on a range of soil types, including acidic, low-fertility, and moderately saline soils.
 
 Optimal growth occurs in well-drained, loamy soils with pH 5.5–7.5. The tree is moderately drought-tolerant once established but performs poorly under waterlogging or prolonged water stress. It is classified as a pioneer species and colonizes disturbed sites readily.
 
@@ -59,9 +55,7 @@ Frosts and freezing temperatures cause significant damage and limit cultivation 
 
 ## Cultivation and Uses
 
-**Propagation:** Primarily propagated from seed, though stem cuttings (1–2 m long, 3–5 cm diameter) root readily and are preferred for rapid establishment. Seed scarification improves germination, which typically exceeds 80% within 7–14 days. Direct seeding or [[mollison-designers-plant-nursery-seedling-production]] transplant are both effective.
-
-[[hamilton-vegetative-propagation]] from cuttings is the dominant method for live fence and hedge establishment. Cuttings planted during the early rainy season achieve rooting rates exceeding 90%. Seed storage viability is moderate, declining significantly after 12 months under ambient conditions.
+**Propagation:** Primarily propagated from seed, though stem cuttings (1–2 m long, 3–5 cm diameter) root readily and are preferred for rapid establishment. Seed scarification improves germination, which typically exceeds 80% within 7–14 days. Direct seeding or [[hamilton-vegetative-propagation]] from cuttings is the dominant method for live fence and hedge establishment. Cuttings planted during the early rainy season achieve rooting rates exceeding 90%. Seed storage viability is moderate, declining significantly after 12 months under ambient conditions.
 
 **Growth and management:** Under favorable conditions, growth rates of 3–5 m per year are common during the establishment phase. Trees respond well to coppicing and can be managed at heights of 1–3 m for regular foliage harvest. Pollarding cycles of 4–8 months produce significant biomass yields of 5–15 t DM/ha/year.
 
@@ -87,4 +81,4 @@ The primary bioactive constituents include coumarin (the namesake compound, from
 
 Gliricidin and related isoflavonoids exhibit antifungal and antibacterial activity against plant pathogens. Leaf extracts show significant molluscicidal activity against freshwater snails, relevant to schistosomiasis control programs. Research has demonstrated LC50 values against *Biomphalaria glabrata* at concentrations as low as 50 ppm for crude leaf extracts.
 
-Additional compounds isolated from various plant parts include triterpenoids (β-amyrin derivatives), sterols (β-sitosterol, stigmasterol), and phenolic acids (caffeic, ferulic, and p-coumaric acids). The diversity of [[antifungal-secondary-metabolites-coprophilous-fungi]] reflects the broad [[fungal-melanin-biosynthesis-ecological-functions]] of this species in defense, signaling, and allelopathy.
+Additional compounds isolated from various plant parts include triterpenoids (β-amyrin derivatives), sterols (β-sitosterol, stigmasterol), and phenolic acids (caffeic, ferulic, and p-coumaric acids). The diversity of [[fungal-melanin-biosynthesis-ecological-functions]] of this species in defense, signaling, and allelopathy.

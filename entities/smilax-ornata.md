@@ -35,7 +35,7 @@ sources:
 
 It is the primary botanical source of commercial sarsaparilla root, historically used as a flavoring agent in beverages and as a traditional remedy across Mesoamerica.
 
-The species is native to tropical and subtropical regions from southern Mexico through [[guzman-allen-gartz-neurotropic-fungi-central-america-caribbean]] to northern [[guzman-psilocybin-mushrooms-south-america]] and the Caribbean.
+The species is native to tropical and subtropical regions from southern Mexico through [[guzman-psilocybin-mushrooms-south-america]] and the Caribbean.
 
 ## Taxonomy and Morphology
 
@@ -71,15 +71,7 @@ It thrives in well-drained, humus-rich soils with pH 5.5–7.0 and annual rainfa
 
 Sarsaparilla root has been used medicinally in the Americas for over 500 years, with documented use by Aztec, Maya, and other Indigenous peoples.
 
-Traditional applications include treatment of [[cannabis-for-skin-conditions-detailed]] (psoriasis, eczema, ringworm), joint pain and rheumatism, and as a general tonic and blood purifier.
-
-In Mexican folk medicine, root decoctions are consumed for kidney and urinary tract disorders, and as a diaphoretic for fevers.
-
-The root contains steroidal saponins (smilagenin, sarsasapogenin, diosgenin) that served as precursors for semisynthetic steroid pharmaceutical manufacture.
-
-Commercial sarsaparilla was a major export product from Honduras and Mexico from the 16th through early 20th centuries.
-
-It was a primary ingredient in traditional [[root-beer-making]] and is still used in some soft drink formulations and herbal tonic preparations.
+Traditional applications include treatment of [[root-beer-making]] and is still used in some soft drink formulations and herbal tonic preparations.
 
 ## Chemistry and Pharmacology
 
@@ -87,4 +79,4 @@ The principal bioactive constituents are steroidal saponins, comprising 1.5–2.
 
 Major saponins include sarsasaponin, smilasaponin, and parillin, all yielding the sapogenins sarsasapogenin and smilagenin upon hydrolysis.
 
-Additional constituents include flavonoids (astilbin, [[quercetin]]), phenolic acids (caffeic, chlorogenic), and phytosterols (β-sitosterol, [[stigmasterol]]).
+Additional constituents include flavonoids (astilbin, [[stigmasterol]]).

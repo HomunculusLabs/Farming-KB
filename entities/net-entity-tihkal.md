@@ -31,10 +31,7 @@ NET is N-ethyltryptamine, a monoalkyltryptamine in which a single ethyl group is
 
 The free base spontaneously crystallizes to a white waxy solid with a melting point of 80-81 degrees Celsius. The hydrochloride salt has a melting point of 181-182 degrees Celsius (from isopropanol/ether).
 
-Mass [[shirota-psilocybin-crystal-form-spectral-data-and-analytical-characterization]] shows the C3H8N+ fragment at m/z 58 (100%), the indolemethylene+ fragments at m/z 131 and 130 (48%/33%), and the parent ion at m/z 188 (2%). Infrared spectroscopy shows characteristic absorptions at 751, 887, 940, 1021, 1051, and 1118 cm-1 for the free base, and at 750, 761, 825, 1020, 1108, and 1142 cm-1 for the hydrochloride salt.
-
-NET is documented in [[tryptamine-entity-tihkal]] - the unsubstituted parent compound
-- [[dpt-entity-tihkal]] - N,N-dipropyltryptamine, the disubstituted analogue
+Mass [[tryptamine-entity-tihkal]] - the unsubstituted parent compound
 - [[amt-entity-tihkal]] - alpha-methyltryptamine, exploring alpha-substitution
 
 ## References

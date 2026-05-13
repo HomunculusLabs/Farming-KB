@@ -22,33 +22,6 @@ herbal medicine cabinet, and ecological restoration project.
 
 ## Stinging Nettle
 
-[[stinging-nettle]]
-
-Stinging nettle is a herbaceous perennial in the Urticaceae family, native
-to Europe and Asia and widely naturalized across North America. It spreads
-aggressively through creeping rhizomes, forming dense stands that can
-stabilize soil and mine nutrients from deep subsoil layers. The plant is
-covered in hollow silica-tipped trichomes that inject histamine and
-acetylcholine on contact, producing the familiar burning rash — but once
-cooked, dried, or processed, the sting is entirely neutralized.
-
-Nettle's medicinal profile centers on its anti-inflammatory, antihistamine,
-and diuretic properties. Clinical studies support its use for allergic
-rhinitis, benign prostatic hyperplasia, and osteoarthritis. Nutritionally,
-nettle is extraordinary: dried leaves contain up to 25% protein, high
-levels of iron, calcium, magnesium, and vitamins A and C, making it one of
-the most nutrient-dense wild greens available. The young shoots are
-harvested in spring as a spinach substitute, and the seeds are rich in
-essential fatty acids.
-
-As a dynamic accumulator, nettle draws nitrogen, iron, potassium, and
-calcium from deep soil horizons. Fermented nettle tea is a potent liquid
-fertilizer comparable to compost tea. The stems also yield a bast fiber
-historically used for textiles, rope, and paper — nettle cloth predates
-linen in many European archaeological sites.
-
-## Mullein
-
 [[mullein]]
 
 Mullein is a tall biennial in the Scrophulariaceae family, easily
@@ -133,8 +106,6 @@ as weeds.
 
 ## See Also
 
-- [[comparison-mullein-vs-comfrey]]
 - [[comparison-stinging-nettle-vs-horsetail]]
-- [[comparison-stinging-nettle-vs-yarrow]]
 - [[comparison-nettle-vs-comfrey]]
 - [[comparison-mullein-vs-chamomile]]

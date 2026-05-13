@@ -1,16 +1,7 @@
 ---
 title: Vioxx Scandal and Evidence-Based Medicine Gaps — Lessons for Cannabis Research
 source: raw/papers/uwe-blesching-the-cannabis-health-index.md
-author: [[uwe-blesching]] (2015)
-topic: pharmacology, evidence-based medicine, drug safety, cannabis policy
-mined: 2026-05-11
----
-
-# Vioxx Scandal and Evidence-Based Medicine Gaps — Lessons for Cannabis Research
-
-## Overview
-
-In the introduction to *The [[blesching-cannabis-health-index-autoimmune-conditions]]*, Uwe Blesching uses the
+author: [[blesching-cannabis-health-index-autoimmune-conditions]]*, [[uwe-blesching]] uses the
 Vioxx (rofecoxib) scandal as a case study to illustrate fundamental
 weaknesses in the pharmaceutical drug approval and post-marketing surveillance
 system. This comparison frames the need for evidence-based approaches to
@@ -23,10 +14,7 @@ Vioxx (rofecoxib) was a COX-2 selective nonsteroidal anti-inflammatory drug
 (NSAID) developed by Merck & Co. and approved by the FDA in 1999:
 
 - **Initial approval**: FDA approved Vioxx for osteoarthritis and menstrual
-  pain based on [[cancer-medicinal-mushrooms-schizophyllan-spg-clinical-trials]] demonstrating it was more effective than
-  placebo and had fewer gastrointestinal side effects than traditional NSAIDs
-- **Off-label expansion**: Once on the market, physicians rapidly began
-  prescribing Vioxx [[cannabis-for-rheumatoid-arthritis]], acute pain, and other
+  pain based on [[cannabis-for-rheumatoid-arthritis]], acute pain, and other
   conditions beyond its approved indications — a common practice known as
   "off-label use"
 - **Cardiovascular risk emerges**: Post-marketing surveillance and additional
@@ -114,20 +102,7 @@ The Vioxx case study has direct relevance to the cannabis therapeutics debate:
    the absence of formal regulatory surveillance.
 
 4. **Financial conflicts distort evidence**: Vioxx's manufacturer had strong
-   financial incentives to downplay [[emcdda-psilocybin-cardiovascular-risks-acute-physiological-effects]]. The absence of a
-   single profitable patent holder for cannabis means research is less
-   susceptible to this specific type of corporate bias.
-
-5. **The Cannabis Health Index as a response**: Blesching created the CHI
-   scoring system specifically to provide an evidence-based framework for
-   evaluating cannabis therapeutics that acknowledges the quality and type
-   of available evidence, following Cochrane principles.
-
-## The 13 Evidence-Based Practice Centers
-
-Blesching notes that the U.S. Department of Health has funded 13
-evidence-based practice centers at institutions including Mayo Clinic, Duke
-University, and [[johns-hopkins-psychedelic-research]]. These centers produce systematic reviews and
+   financial incentives to downplay [[johns-hopkins-psychedelic-research]]. These centers produce systematic reviews and
 technology assessments that inform clinical guidelines and health policy. The
 growing body of cannabis research — now exceeding 15,000 entries at the
 National Library of Health — is increasingly being incorporated into this
@@ -135,7 +110,7 @@ evidence-based framework.
 
 ## References
 
-- Blesching, U. (2015). *The Cannabis Health Index*. North Atlantic Books,
+- Blesching, U. (2015). *The [[cannabis-health-index]]*. North Atlantic Books,
   Introduction.
 - Graham, D.J. (2006). COX-2 inhibitors, other NSAIDs, and cardiovascular
   risk. JAMA, 296, 1653-1656.

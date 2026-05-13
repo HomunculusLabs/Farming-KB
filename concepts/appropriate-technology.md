@@ -9,24 +9,13 @@ sources:
 ---
 # Permaculture Appropriate Technology
 
-Permaculture appropriate technology is the selection, design, and application of tools, techniques, and systems that are small-scale, decentralised, energy-efficient, locally maintainable, and environmentally benign. The concept derives from E.F. Schumacher's philosophy of Small is Beautiful and is integral to [[biogas-digester-basics]] for details. The effluent from biogas digesters is a nutrient-rich fertiliser. Biogas systems integrate waste management, energy production, and soil fertility in a single technology.
-
-## Earthworking Tools
-
-Permaculture earthworking uses a range of appropriate tools depending on the scale of the project. A-frames and bunyip levels for contour identification can be made from locally available materials at minimal cost. [[garden-hand-tools-solomon]] including mattocks, shovels, digging bars, and wheelbarrows are sufficient for small-scale swale and garden construction.
+Permaculture appropriate technology is the selection, design, and application of tools, techniques, and systems that are small-scale, decentralised, energy-efficient, locally maintainable, and environmentally benign. The concept derives from E.F. Schumacher's philosophy of Small is Beautiful and is integral to [[garden-hand-tools-solomon]] including mattocks, shovels, digging bars, and wheelbarrows are sufficient for small-scale swale and garden construction.
 
 For larger earthworks, animal-powered equipment such as horse-drawn ploughs and scoops provides effective earthmoving without fossil fuels. Small tractors with attachments including chisel ploughs, rippers, and front-end loaders extend the scale of what small teams can accomplish. Laser levels and GPS guidance improve accuracy for larger projects.
 
 ## Building Technology
 
-Appropriate building technologies include [[permaculture-design]] -- Holistic design framework integrating appropriate technology
-- permaculture-energy-storage-systems
-
-[[permaculture-energy-descent-planning]]
-
-[[permaculture-building-design]]
-
-paul stamets
+Appropriate building technologies include [[permaculture-energy-descent-planning]]
 
 [[permaculture-design]]
 ## Practical Applications
@@ -97,8 +86,6 @@ through generations to modern scientific approaches, the evolution continues
 to inform current best practices and research directions.
 
 ## See Also
-- [[doc]]
 - [[det]]
-- [[swale]]
 - [[paul-stamets]]
 - [[permaculture]]

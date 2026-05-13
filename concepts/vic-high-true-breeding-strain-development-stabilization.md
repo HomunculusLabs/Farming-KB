@@ -16,9 +16,7 @@ Vic High defines the goal of creating a true breeding strain (IBL -- Inbred Line
 
 A true breeding individual is homozygous for a particular trait -- its gene pair carries two identical alleles, so all its gametes carry the same genetic information. A true breeding strain (IBL) extends this concept to a population: all individuals in the population are homozygous for the target trait or set of traits.
 
-Vic High uses the analogy of dog breeds to illustrate the concept. A German Shepherd is recognisable as a discrete breed, yet individual dogs vary in height, width, temperament, colour, and build. They fall within an acceptable range for each trait rather than being identical. Similarly, a true breeding [[blesching-cannabis-strain-selection-receptor-targeting]] does not need zero variation -- it needs acceptable uniformity across key phenotypic traits.
-
-The breeder's task is to make all the genes in the population's [[cannabis-gene-pool-preservation-acclimatization-clarke]] code for the same trait. In a population of 50 plants with one gene pair each for flavour, there are 100 flavour genes. Making all 100 code for the same flavour is the goal. The closer the population gets, the more homozygous or true breeding it becomes.
+Vic High uses the analogy of dog breeds to illustrate the concept. A German Shepherd is recognisable as a discrete breed, yet individual dogs vary in height, width, temperament, colour, and build. They fall within an acceptable range for each trait rather than being identical. Similarly, a true breeding [[cannabis-gene-pool-preservation-acclimatization-clarke]] code for the same trait. In a population of 50 plants with one gene pair each for flavour, there are 100 flavour genes. Making all 100 code for the same flavour is the goal. The closer the population gets, the more homozygous or true breeding it becomes.
 
 ## Gene Frequency as the Measure of Progress
 
@@ -90,8 +88,6 @@ Backcrossing increases the proportion of the original parent's genes in the gene
 - Third backcross / Cubing (B3): 93.75%.
 
 ## See Also
-- [[strain-selection-development]]
 - [[cannabis-true-breeding-ibl-strains]]
-- [[green-cannabis-grow-bible-breeding-genetics-and-true-breeding]]
 - [[oner-satori-mandala-seeds-nepalese-high-thc-strain-profile]]
 - [[oner-harlequin-green-haven-genetics-high-cbd-strain-profile]]

@@ -13,15 +13,7 @@ sources:
   - "raw/papers/bill-mollison-permaculture-design-course.md"
   - Allen, O.N. & Allen, E.K. (1981). "The Leguminosae: A Source Book of Characteristics, Uses, and Nodulation." University of Wisconsin Press.
   - Isely, D. (1975). "Leguminosae of the dmt-containing-plants-united-states-halpern: II. Subfamily Caesalpinioideae." Memoirs of the New York Botanical Garden.
-  - Orwa, C. et al. (2009). "Agroforestree Database: a tree reference [[lemon-cannabis-alchemy-solvent-properties-and-selection-guide]]." World Agroforestry Centre.
-  - Little, E.L. & Wadsworth, F.H. (1964). "Common Trees of Puerto Rico and the Virgin Islands." USDA Forest Service.
----
-
-## Overview
-
-**Delonix regia**, commonly known as the **royal poinciana**, **flamboyant**, or **flame tree**, is a tropical deciduous tree in the family Fabaceae, subfamily Caesalpinioideae.
-
-Native to Madagascar, it is now widely planted throughout tropical and subtropical regions as one of the world's most spectacular [[hamilton-ornamental-trees]].
+  - Orwa, C. et al. (2009). "Agroforestree Database: a tree reference [[hamilton-ornamental-trees]].
 
 The species produces massive displays of brilliant scarlet-red flowers that blanket the canopy for weeks during the dry season.
 
@@ -59,32 +51,94 @@ Each pod contains 20–40 hard, oblong seeds approximately 1.5 cm long.
 
 The species was introduced to tropical regions worldwide beginning in the early 19th century and has become naturalized in many areas.
 
-It is extensively planted throughout the Caribbean, Central and [[guzman-psilocybin-mushrooms-south-america]], [[psilocybe-southeast-asia-pacific]], East Africa, and northern Australia.
+It is extensively planted throughout the Caribbean, Central and [[psilocybe-southeast-asia-pacific]], East Africa, and northern Australia.
 
 In its native Madagascar, it occurs in seasonally dry forest on well-drained soils at low elevations (0–500 meters).
 
-Outside its native range, it thrives in tropical [[query-how-to-grow-rare-tropical-fruits-in-marginal-and-subtropical-climates]] with annual rainfall of 700–1,800 mm.
-
-The tree is frost-sensitive and does not tolerate temperatures below 5 °C, limiting its cultivation to frost-free zones.
-
-It is considered invasive in some regions, particularly in parts of Australia, Hawaii, and the Caribbean, where it displaces native vegetation.
-
-## Cultivation
-
-Royal poinciana is propagated from seed, which requires scarification (nicking or acid treatment) to break dormancy.
-
-Seeds germinate within 1–2 weeks after scarification and planting in warm, moist conditions.
-
-The tree grows rapidly in its first 5–10 years, achieving 2–3 meters of height growth per year under favorable conditions.
-
-It prefers well-drained, sandy or loamy soils and is tolerant of saline and slightly alkaline conditions.
-
-Full sun is essential for abundant flowering; shaded trees produce significantly fewer blooms.
-
-The species develops an extensive, relatively shallow root system that can damage sidewalks and foundations if planted too close to structures.
-
-Pruning is required to develop strong structure, as young trees tend to produce multiple codominant stems.
-
-[[cervantes-seed-production-storage]] begins at 5–8 years of age, with mature trees producing thousands of pods annually.
+Outside its native range, it thrives in tropical [[cervantes-seed-production-storage]] begins at 5–8 years of age, with mature trees producing thousands of pods annually.
 
 ## Uses and Applications
+
+## Overview
+
+Delonix Regia represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish delonix regia
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving delonix extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Delonix Regia finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for delonix regia. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+delonix regia and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Delonix Regia has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of delonix regia into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[drosera-regia]]
+- [[juglans-regia]]
+- [[roystonea-regia]]
+- [[silene-regia]]

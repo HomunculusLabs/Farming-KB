@@ -15,7 +15,7 @@ Understanding these differences is critical for effective preparation.
 
 ## Key Bioactive Compounds by Species
 
-The bioactive compounds discussed below — particularly [[beta-glucans]] and various polysaccharides — are the primary therapeutic agents in [[functional-foods-medicinal-mushrooms]]. Understanding their extraction requirements is essential for maximising health benefits. See also the individual species guides: [[medicinal-mushroom-guide-reishi]], [[medicinal-mushroom-guide-shiitake]], and [[medicinal-mushroom-guide-lions-mane]].
+The bioactive compounds discussed below — particularly [[functional-foods-medicinal-mushrooms]]. Understanding their extraction requirements is essential for maximising health benefits. See also the individual species guides: [[medicinal-mushroom-guide-shiitake]], and [[medicinal-mushroom-guide-lions-mane]].
 
 ### Reishi (Ganoderma lucidum)
 - Polysaccharides: immune-stimulating beta-glucans (water-soluble)

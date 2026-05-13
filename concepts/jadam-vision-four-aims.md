@@ -9,52 +9,15 @@ sources:
 ---
 # JADAM Vision: Four Aims and the Farming Expert
 
-The opening chapter of JADAM [[coleman-deep-organic-farming-philosophy]] presents a radical vision for agriculture's future, built on four practical aims and a fundamental shift in who holds agricultural knowledge.
-
-## The Four Aims of JADAM
-
-From JADAM's perspective, a technology does not qualify as "organic" merely because it excludes chemicals. If organic farming cannot compete with conventional farming in both productivity and price, few people will choose it. The four aims are:
-
-1. **Simple** -- Principles are simple enough for any farmer to understand
-2. **Easy** -- Inputs are easy to make using locally available materials
-3. **Scientific** -- Methodology is based on scientific principles and reproducible results
-4. **Effective** -- The process is highly effective and achieves ultra-low cost
-
-Only when organic farming achieves all four aims will it replace conventional agriculture. See [[jadam-pesticide-research-cup-method]] which trains farmers to develop their own crop-specific pesticide solutions.
+The opening chapter of JADAM [[jadam-pesticide-research-cup-method]] which trains farmers to develop their own crop-specific pesticide solutions.
 
 ## Reclaiming Agricultural Independence
 
-The four aims are ultimately about reclaiming independence. When farmers can make their own inputs, understand their own soil, and control their own [[cannabis-pest-management-guide]], they are no longer subject to the economic pressures of input manufacturers. This independence is both economic and psychological -- it restores the farmer's dignity and sense of agency.
-
-The [[jadam-sese-philosophy]]
-- [[jadam-natural-farming-philosophy]]
+The four aims are ultimately about reclaiming independence. When farmers can make their own inputs, understand their own soil, and control their own [[jadam-sese-philosophy]]
 - [[jadam-post-2020-agriculture]]
-- [[jadam-bongha-village-proof]]
-## Merged: JADAM Challenges Facing Agriculture
+- [[dighton-fungi-climate-change-feedback]], desertification, soil erosion, and other environmental degradation will decrease total available arable land and reduce productivity. Cultivation of staple food crops -- rice, wheat, beans, and other grains -- will become increasingly important.
 
-# JADAM Challenges Facing Agriculture
-
-## Overview
-
-Youngsang Cho identifies several major challenges that agriculture will face in the coming decades, arguing that ultra-low-cost organic farming is the most resilient response to these converging crises. These predictions form the strategic context for JADAM's entire approach.
-
-## Global Free Trade Expansion
-
-Global free trade in agricultural products will expand, and high-cost, high-price products will not be able to compete. Farmers must compete both in price and quality. Quality should be of international standards. JADAM's primary focus is to lower cost and increase profitability for farmers with ULC.
-
-This is the fundamental economic argument: if your production cost is $100/acre/year, you can sell at any price and still profit. If your cost is thousands per acre, you are vulnerable to every market fluctuation.
-
-## Energy-Dependent Agriculture Crisis
-
-Energy-dependent systems of agriculture will fall into crisis. The cost of oil and electricity will rise, making it increasingly costly to operate tractors, vehicles, cold storage, machines, etc. JADAM strongly urges a break-away from energy-intensive agriculture.
-
-Methods of production, processing, storage, and transportation should all change drastically. The current agricultural model is built on cheap energy that will not last.
-
-## Global Food Crisis
-
-Grain prices will rise during global food crises and importation of food staples will become difficult. [[dighton-fungi-climate-change-feedback]], desertification, soil erosion, and other environmental degradation will decrease total available arable land and reduce productivity. Cultivation of staple food crops -- rice, wheat, beans, and other grains -- will become increasingly important.
-
-JADAM's response: crop residues and [[jadam-cover-crop-wild-grass-symbiosis]] as fertilizer means [[fukuoka-no-till-grain-production-method]] does not depend on expensive imported inputs. Self-sufficient farming means food security regardless of global markets.
+JADAM's response: crop residues and [[fukuoka-no-till-grain-production-method]] does not depend on expensive imported inputs. Self-sufficient farming means food security regardless of global markets.
 
 ## Rising Sea Levels
 
@@ -110,8 +73,78 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[youngsang-cho]]
 - [[desertification]]
-- [[jadam-vision-ultra-low-cost-philosophy]]
 - [[four-paradigms-of-psychedelic-use]]
 - [[four-stage-basidiocarp-development-psilocybe-cubensis]]
+
+## Overview
+
+Jadam Vision Four Aims represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish jadam vision four aims
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving jadam extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Jadam Vision Four Aims finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for jadam vision four aims. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+jadam vision four aims and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Jadam Vision Four Aims has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of jadam vision four aims into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions

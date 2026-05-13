@@ -22,21 +22,7 @@ Stamets describes mycelium as "a fusion between a stomach and a brain, a nutriti
 
 ## Cross-Species Interfacing
 
-Through cross-species interfacing, Stamets suggests we may one day communicate with these sentient cellular networks. Plants, bacteria, and fungi share molecular communication pathways. [[dighton-mycorrhizal-networks-carbon-transfer]] connect trees across forest floors, allowing nutrient and information exchange between individuals and species. [[mycorrhizal-networks-and-forest-communication]] explore these connections in detail. The fungal-chromogens-and-color-change for related [[plant-hormones-and-chemical-signaling-systems]] phenomena.
-
-## Computational Complexity
-
-Stamets proposes that mycelium operates at a level of complexity exceeding the computational powers of our most advanced supercomputers. He draws a direct comparison between the networking architecture of neurons in the brain and the branching patterns of mycelial nets. Both systems distribute information through interconnected pathways. Because these externalized neurological nets sense any impression upon them -- from footsteps to falling tree branches -- they could relay enormous amounts of data about environmental movements and threats.
-
-## Slime Mold Intelligence
-
-Stamets references research by Toshiyuki Nakagaki (2000) on Physarum polycephalum, a slime mold that consistently chooses the shortest route between two food sources in a maze, disregarding dead ends. Nakagaki placed a maze over a petri dish filled with nutrient agar, introduced nutritious oat flakes at an entrance and exit, and inoculated the entrance with Physarum culture. As it grew through the maze, it consistently chose the shortest route, rejecting dead ends and empty exits -- demonstrating what Nakagaki proposes is a form of cellular intelligence.
-
-Subsequent research extended these findings: Physarum has been shown to recreate optimal transport networks resembling the Tokyo railway system when food sources are arranged to mirror city locations. These organisms solve complex spatial optimization problems without any nervous system, suggesting that information processing can emerge from simple biological networks without centralized control. If this is true, then the neural nets of microbes and mycelia may be deeply intelligent.
-
-## Gaia Hypothesis Connection
-
-Ecotheorist James Lovelock and Lynn Margulis proposed the Gaia hypothesis, which postulated that the planet's biosphere intelligently pilots its course to sustain and breed new life. Stamets sees mycelium as the living network that manifests the [[powell-natural-intelligence-and-the-universal-computation]] imagined by Gaia theorists -- the biological substrate through which ecological coordination occurs. Mycelium steers the course of ecosystems by favoring successions of species and prepares its immediate environment for its benefit by growing ecosystems that fuel its food chains.
+Through cross-species interfacing, Stamets suggests we may one day communicate with these sentient cellular networks. Plants, bacteria, and fungi share molecular communication pathways. [[mycorrhizal-networks-and-forest-communication]] explore these connections in detail. The fungal-chromogens-and-color-change for related [[powell-natural-intelligence-and-the-universal-computation]] imagined by Gaia theorists -- the biological substrate through which ecological coordination occurs. Mycelium steers the course of ecosystems by favoring successions of species and prepares its immediate environment for its benefit by growing ecosystems that fuel its food chains.
 
 ## Evolutionary Context
 
@@ -50,13 +36,9 @@ After the Permian-Triassic mass extinction (~250 million years ago), which wiped
 
 Mycelial networks share both nutrients and information. Through cross-species interfacing, plants, bacteria, and fungi exchange molecular signals. This constant exchange governs the flow of essential nutrients cycling through the food chain. Mycelial mats cycle nutrients through ecosystems, breaking down organic matter and making elements available to plants and other organisms. Like salmon carcasses that fertilize ecosystems, mushroom carcasses are quickly consumed by other organisms, their nutrients redeposited back into the nutritional bank as plants grow and their falling leaves enter the fungal cycle of decomposition.
 
-This network intelligence underlies [[fungal-ecosystem-services]] and [[fungal-biology-fundamentals]] -- basic fungal biology
-- [[fungal-roles-in-old-growth-forests]] -- forest network examples
-- fungal-chromogens-and-color-change -- chemical signaling
+This network intelligence underlies [[fungal-biology-fundamentals]] -- basic fungal biology
 - [[mycorrhizal-networks-and-forest-communication]] -- tree communication
-- fungal-functional-diversity -- [[fungal-functional-diversity-decomposition]] overview
-- fungal-chromogens-and-color-change
-- [[fungal-ecology]]
+- fungal-functional-diversity -- [[fungal-ecology]]
 ## Practical Considerations
 
 When working with Mycelial Networks and Intelligence (Stamets), several practical factors should be
@@ -88,3 +70,80 @@ these challenges enables more proactive and effective management.
 
 Building resilience into implementations through diversity, redundancy,
 and adaptive capacity helps buffer against unpredictable events and
+
+## Overview
+
+Mycelial Networks And Intelligence represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish mycelial networks and intelligence
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving mycelial extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Mycelial Networks And Intelligence finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for mycelial networks and intelligence. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+mycelial networks and intelligence and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Mycelial Networks And Intelligence has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of mycelial networks and intelligence into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.

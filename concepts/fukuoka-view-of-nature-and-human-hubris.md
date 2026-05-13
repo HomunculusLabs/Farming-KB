@@ -10,10 +10,8 @@ sources:
 ---
 # Fukuoka View of Nature and Human Hubris
 
-Masanobu Fukuoka's philosophy of [[fukuoka-natural-farming-philosophy]] -- the practice arising from this philosophy
-- [[four-principles-of-natural-farming]] -- practical expression
-- [[fukuoka-critique-modern-agriculture]] -- [[fukuoka-road-critique-of-modern-science]] farming practices
-- [[fukuoka-natural-farming-spiritual-light]]
+Masanobu Fukuoka's philosophy of [[four-principles-of-natural-farming]] -- practical expression
+- [[fukuoka-road-critique-of-modern-science]] farming practices
 - [[fukuoka-snake-frog-war-and-peace-philosophy]]
 ## Background and Context
 
@@ -118,8 +116,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[masanobu-fukuoka]]
 - [[dom]]
-- [[det]]
 - [[fukuoka-nature-no-cause-and-effect]]
 - [[fukuoka-incomprehensibility-and-inviolability-of-nature]]

@@ -22,11 +22,7 @@ sources:
 
 ## Overview
 
-Arecoline (1,2,5,6-tetrahydro-1-methyl-3-pyridinecarboxylic acid methyl ester) is a pyridine-class alkaloid and the primary psychoactive constituent of the areca nut (*[[areca-catechu]]*), the fourth most widely used psychoactive substance in the world after [[caffeine]], [[nicotine]], and alcohol.
-
-It functions primarily as a muscarinic acetylcholine receptor agonist, producing parasympathomimetic effects including increased salivation, bronchoconstriction, and gastrointestinal stimulation, alongside central nervous system stimulation.
-
-Despite its stimulant and mild euphorigenic properties that have sustained its use for millennia across South and [[psilocybe-southeast-asia-pacific]], arecoline is classified as a Group 1 carcinogen by the IARC due to its strong association with oral submucous fibrosis and oral squamous cell carcinoma.
+Arecoline (1,2,5,6-tetrahydro-1-methyl-3-pyridinecarboxylic acid methyl ester) is a pyridine-class alkaloid and the primary psychoactive constituent of the areca nut (*[[caffeine]], [[psilocybe-southeast-asia-pacific]], arecoline is classified as a Group 1 carcinogen by the IARC due to its strong association with oral submucous fibrosis and oral squamous cell carcinoma.
 
 ## Chemical Properties
 
@@ -50,12 +46,7 @@ Despite its stimulant and mild euphorigenic properties that have sustained its u
   - EC₅₀ at M₃: ~5 µM
 - **Nicotinic acetylcholine receptors:** Partial agonist activity, contributing to stimulant effects
 - **GABA-A receptors:** Weak positive allosteric modulation at high concentrations
-- **Monoamine transporters:** Inhibits dopamine and [[serotonin]] reuptake at micromolar concentrations, contributing to its rewarding properties
-- **TAAR1 (Trace amine-associated receptor 1):** Weak agonist activity detected in vitro
-
-### Mechanism of Action
-
-The parasympathomimetic action is primarily mediated through M₁ and M₃ receptor activation in the [[blesching-endocannabinoid-autonomic-nervous-system-adrenal-glands]].
+- **Monoamine transporters:** Inhibits dopamine and [[blesching-endocannabinoid-autonomic-nervous-system-adrenal-glands]].
 
 Central stimulant effects arise from a combination of muscarinic receptor activation in the CNS and monoamine reuptake inhibition, creating a profile that users describe as a combination of nicotine-like stimulation with mild MDMA-like warmth and increased sociability.
 

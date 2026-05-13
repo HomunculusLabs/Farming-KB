@@ -4,49 +4,7 @@ created: 2026-04-26
 tags:
   - zygomycota
   - phylogeny
-  - [[fungal-taxonomy]]
-  - classification
-  - molecular-systematics
-date: 2026-04-25
-updated: 2026-04-25
-sources:
-  - ~/wiki/raw/papers/unknown-biodiversity-of-fungi.md
-type: concept
----
-
-# Zygomycota Phylogeny and Classification
-
-The Zygomycota, traditionally defined as a phylum of more than
-1000 species characterized by production of zygospores and absence
-of flagella, has been fundamentally restructured by molecular
-phylogenetic studies. Modern analyses reveal that the zygomycetes,
-as historically circumscribed, are polyphyletic. Several major
-lineages must be reassigned, and traditional family-level
-classifications within the group are largely artificial.
-
-## Polyphyly of the Traditional Zygomycota
-
-Zygomycetes comprise a monophyletic group only if the Glomales
-and perhaps Basidiobolus ranarum (Entomophthorales) are excluded.
-The genus Basidiobolus commonly occurs in the same terrestrial
-habitats with insects and amphibians. Although not flagellated,
-it has been placed within the core chytrid group in analyses
-based on rDNA evidence.
-
-In trees based on analyses of alpha- and beta-tubulin genes,
-however, Basidiobolus falls within the zygomycetes. This
-discrepancy may result from an accelerated rate of sequence
-evolution in zygomycete SSU rDNA compared to other fungi, and
-the resulting long-branch attraction in phylogenetic analyses.
-Unlike other Entomophthorales, Basidiobolus has a distinctive
-spindle-pole body with a microtubular structure reminiscent of
-centrioles, known only among chytrids in the fungi.
-
-## Monophyletic Lineages
-
-Several traditional zygomycete lineages are confirmed as
-monophyletic by molecular data:
-- **Entomophthorales**: [[bloomfield-cordyceps-insect-pathogens-behavior]] with distinctive
+  - [[bloomfield-cordyceps-insect-pathogens-behavior]] with distinctive
   forcibly discharged conidia
 - **Trichomycetes (Harpellales)**: gut commensals of
   arthropods, excluding Amoebidiales
@@ -90,5 +48,89 @@ phylogenetic hypotheses:
   Thamnidiaceae, and Pilobolaceae are polyphyletic
 
 ## See Also
+- [[fungal-phylogeny-classification]]
+
+## Overview
+
+Zygomycota Phylogeny Classification Non Monophyletic represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish zygomycota phylogeny classification non monophyletic
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving zygomycota extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Zygomycota Phylogeny Classification Non Monophyletic finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for zygomycota phylogeny classification non monophyletic. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+zygomycota phylogeny classification non monophyletic and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Zygomycota Phylogeny Classification Non Monophyletic has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of zygomycota phylogeny classification non monophyletic into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
 - [[biodiversity-of-fungi-fungal-phylogeny-kingdom-classification]]
+- [[biodiversity-zygomycota-diversity]]
+- [[chytridiomycota-phylogeny-diversity]]
+- [[fungal-kingdom-phylogeny-classification-overview]]
 - [[fungal-phylogeny-classification]]

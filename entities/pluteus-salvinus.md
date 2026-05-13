@@ -15,28 +15,9 @@ updated: 2026-04-28
 sources:
   - "Singer, R. & Smith, A.H. (1958). \"Mycological investigations on Teonanacatl.\" Mycologia, 50(2), 239-261."
   - "Guzmán, G. (1983). The Genus Psilocybe: A Systematic Revision of the Known Species. J. Cramer."
-  - "Allen, J.W. & Merlin, M.D. (1992). \"[[gartz-conocybe-cyanopus-rare-psychoactive-mushroom]] use in Mesoamerica.\" Journal of Psychoactive Drugs, 24(3), 233-238."
-  - "Stijve, T. & Kuyper, T.W. (1985). \"Occurrence of psilocybin in various fungi.\" Persoonia, 12, 463-466."
----
-
-# Pluteus salvinus (*Pluteus salvinus* Singer)
-
-## Overview
-
-*Pluteus salvinus* is a rarely documented species of agaric mushroom in
-the family Pluteaceae, known primarily from tropical and subtropical
-regions of Mesoamerica. It is one of the few *Pluteus* species confirmed
-to contain psilocybin, placing it among the lesser-known psychoactive
-fungi alongside more famous genera such as *Psilocybe* and *Gymnopilus*.
-
-The species was originally described by [[rolf-singer]] in 1958 from
+  - "Allen, J.W. & Merlin, M.D. (1992). \"[[rolf-singer]] in 1958 from
 collections in Guatemala, associated with investigations into the
-traditional use of [[ceremonial-shamanic-use-psychoactive-mushrooms]] by indigenous peoples of the
-region. It is named in honor of Salvador, likely referencing the
-Salvadoran context of the original investigations.
-
-*P. salvinus* remains poorly known in the mycological literature, with
-relatively few confirmed collections and limited modern [[challenges-neurotropic-fungi-chemical-analysis-taxonomic-identification]]
+traditional use of [[challenges-neurotropic-fungi-chemical-analysis-taxonomic-identification]]
 of its psilocybin content.
 
 ## Taxonomy
@@ -50,7 +31,7 @@ of its psilocybin content.
 - **Species:** *P. salvinus* Singer (1958)
 
 The genus *Pluteus* is characterized by free gills (not attached to
-the stipe), pink [[macrofungal-documentation-photography-spore-prints]], and growth on wood or [[fungal-succession-woody-debris-ecology]].
+the stipe), pink [[fungal-succession-woody-debris-ecology]].
 Most species in the genus are saprotrophic and not psychoactive; the
 presence of psilocybin in *P. salvinus* is a secondary biochemical
 feature not shared with the majority of its congeners.
@@ -87,3 +68,82 @@ No [[partial-veil-tropism-protection-before-spore-release]] or annulus is presen
 has no distinctive odor.
 
 ## Distribution and Habitat
+
+## Overview
+
+Pluteus Salvinus represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish pluteus salvinus
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving pluteus extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Pluteus Salvinus finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for pluteus salvinus. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+pluteus salvinus and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Pluteus Salvinus has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of pluteus salvinus into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also

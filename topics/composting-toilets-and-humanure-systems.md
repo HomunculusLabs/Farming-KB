@@ -39,13 +39,7 @@ Composting toilets and humanure systems are forms of ecological sanitation
 that collect human excreta without conventional water carriage and process it
 through controlled biological decomposition. Their central premise is that
 human excreta is not merely a disposal problem but also a concentrated stream
-of water, [[hamilton-composting-and-organic-matter-management]], nitrogen, phosphorus, potassium, trace minerals, and
-microbial life. When the material is kept out of waterways and managed with
-adequate carbon, oxygen, moisture control, heat, and time, it can be converted
-into a stable humus-like amendment.
-
-The subject spans household plumbing, public health, compost microbiology,
-[[mollison-permaculture-design-course-curriculum]], off-grid homesteading, and regulatory practice. A
+of water, [[mollison-permaculture-design-course-curriculum]], off-grid homesteading, and regulatory practice. A
 commercial composting toilet may look like a manufactured bathroom fixture
 with a fan, urine separator, drum, or remote vault. A humanure toilet may be a
 simple seat over a removable bucket, followed by outdoor thermophilic
@@ -104,14 +98,8 @@ soil fertility.
 ## Historical background and design philosophy
 The basic idea of returning human excreta to soil is ancient. Agricultural
 ## See Also
-[[composting-toilet-systems]] describes common self-contained, central, and
-urine-diverting toilet arrangements.
-
 [[composting-toilets]] summarizes the permaculture critique of flush toilets
 and the basic composting toilet categories.
-
-[[humanure-composting-systems]] gives more detail on the Jenkins method,
-carbon requirements, bin design, temperature management, and curing.
 
 [[humanure-composting]] compares composting toilet types, pathogen concerns,
 urine use, odor control, and legal considerations.
@@ -119,30 +107,17 @@ urine use, odor control, and legal considerations.
 faires-composting-toilets-and-humanure presents a homestead-scale
 waterless bucket toilet and outdoor compost pile method.
 
-[[mollison-designers-compost-toilet-humanure-systems]] connects compost
-toilets to [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]], cover materials, urine diversion, and
+[[comparison-nutrient-cycling-vs-nutrient-dense-gardening]], cover materials, urine diversion, and
 permaculture siting.
 
-[[mollison-designers-composting-toilets-and-humanure]] places humanure within
-Mollison's broader argument for closed-loop [[cool-climate-settlement-design-mollison]].
+[[cool-climate-settlement-design-mollison]].
 
 permaculture-designers-manual-composting-toilet-design compares dry
 toilets with handbasin-flush systems, biogas digesters, and wider water
 strategy.
 
 permaculture-designers-manual-greywater-systems and
-[[greywater-systems-detailed]] are useful companion topics for separating
-wash water from toilet wastes.
-## References
-Bill Mollison's permaculture design writing treats dry toilets as one option
-within integrated waste management, especially where water is scarce, sewerage
-is impractical, or nutrient cycling is a design priority.
-
-Joseph Jenkins' humanure method provides the best-known low-cost model for a
-sawdust toilet paired with outdoor thermophilic composting and long curing.
-
-The concept pages on composting toilet systems, composting toilets, humanure
-composting, and Mollison's [[bill-mollison-permaculture-a-designers-manual-animal-systems-in-permaculture]] notes supplied the taxonomy,
+[[bill-mollison-permaculture-a-designers-manual-animal-systems-in-permaculture]] notes supplied the taxonomy,
 operational cautions, and permaculture framing synthesized here.
 
 Public health standards for composting toilets vary by jurisdiction; users

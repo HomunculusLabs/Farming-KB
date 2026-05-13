@@ -9,15 +9,7 @@ sources:
 ---
 # Cannabis for Addiction Recovery
 
-Cannabis occupies a unique and sometimes controversial position in the context of addiction medicine. The [[blesching-cannabis-health-index-autoimmune-conditions]] documents evidence for cannabis as a potential tool in managing withdrawal from more harmful substances, while also acknowledging the importance of understanding cannabis's own addiction potential.
-
-## Cannabis as a Harm Reduction Tool
-
-### Opioid Substitution and Withdrawal
-
-The opioid crisis has drawn attention to cannabis as a potential harm reduction tool. Research suggests several mechanisms by which cannabis may help:
-
-- **Opioid-sparing effect**: Patients using cannabis alongside opioid medications often require lower opioid doses to achieve the same level of [[bay-11-medical-sativa-granddaddy-purp-pain-relief-oner]]
+Cannabis occupies a unique and sometimes controversial position in the context of addiction medicine. The [[bay-11-medical-sativa-granddaddy-purp-pain-relief-oner]]
 - **Withdrawal management**: Cannabinoids may ease opioid withdrawal symptoms including anxiety, insomnia, muscle aches, and gastrointestinal distress
 - **Craving reduction**: CBD has shown potential to reduce drug-seeking behavior and cravings in pre-clinical studies
 - **Reward pathway modulation**: The endocannabinoid system interacts with the dopaminergic reward system involved in addiction
@@ -40,26 +32,7 @@ Patients attempting to discontinue benzodiazepines may benefit from cannabis:
 ## Cannabis Addiction Potential
 
 ### Cannabis Use Disorder
-The [[blesching-cannabis-health-index-cannabinoid-terpene-synergy]] acknowledges that cannabis can produce dependence, though the risk profile differs from many other substances:
-
-- **Lower addiction potential**: Cannabis has a lower addiction potential than alcohol, tobacco, opioids, and benzodiazepines
-- **Mild withdrawal syndrome**: Cannabis withdrawal is generally mild compared to alcohol or opioid withdrawal, characterized by irritability, sleep disturbance, decreased appetite, and mild anxiety
-- **Estimated dependence rate**: Approximately 9% of cannabis users may develop dependence, compared to 15% for alcohol and 32% for tobacco
-- **No fatal overdose**: Unlike opioids and alcohol, cannabis does not cause fatal overdoses
-
-### Risk Factors for Problematic Use
-- Early onset of use (adolescence)
-- Daily or near-daily use
-- Use of high-THC products
-- Genetic predisposition
-- Underlying mental health conditions
-- Social environment
-
-### The Subjective Therapeutic Window
-The Cannabis Health Index emphasizes the concept of the "subjective therapeutic window" -- the dose range at which [[cbd-therapeutic-effects]] occur without [[blesching-cannabis-safety-adverse-effects-evidence]]. This window is highly individual and can shift over time:
-- Too low a dose: No therapeutic benefit
-- Within the window: Therapeutic effects achieved
-- Above the window: [[adverse-effects-and-harm-reduction-psilocybin]] including anxiety, cognitive impairment, and potential dependence
+The [[cbd-therapeutic-effects]] occur without [[adverse-effects-and-harm-reduction-psilocybin]] including anxiety, cognitive impairment, and potential dependence
 
 Understanding and respecting one's personal therapeutic window is key to preventing problematic use.
 
@@ -70,12 +43,7 @@ CBD has emerged as a particularly promising cannabinoid for addiction treatment 
 - **Anti-anxiety**: Reduces anxiety that triggers substance use
 - **Anti-craving**: May reduce cravings for multiple substances
 - **Neuroprotective**: May help repair neural damage from substance abuse
-- **[[cannabis-safety-profile-and-overdose-risk]]**: Well-tolerated with minimal side effects, making it suitable for vulnerable populations
-
-## Clinical Considerations
-
-### When Cannabis May Help
-- [[cannabis-chronic-pain-management]] patients seeking to reduce opioid use
+- **[[cannabis-chronic-pain-management]] patients seeking to reduce opioid use
 - Individuals with alcohol use disorder seeking harm reduction
 - Patients with anxiety-related substance use
 - Those with insomnia related to substance withdrawal
@@ -117,8 +85,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[cannabis-health-index]]
 - [[doc]]
-- [[psilocybin]]
 - [[endocannabinoid-system]]
 - [[cannabis-and-exercise-recovery]]

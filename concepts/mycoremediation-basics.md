@@ -30,7 +30,7 @@ Fungi are among nature's most versatile organisms in structure, metabolism, ecol
 Mycelium secretes extracellular enzymes and acids that can break down:
 - **Petroleum hydrocarbons** — PAHs, diesel, motor oil, BTEX ([[mycoremediation-of-oil-spills]])
 - **PCBs and dioxins** — persistent organic pollutants ([[mycoremediation-pcbs-and-dioxins]])
-- **Heavy metals** — lead, mercury, cadmium, copper, zinc via biosorption ([[mycoremediation-of-heavy-metals]])
+- **Heavy metals** — lead, mercury, cadmium, copper, zinc via biosorption ([[mycoremediation-heavy-metals]])
 - **PAHs** — polycyclic aromatic hydrocarbons ([[mycoremediation-pahs]])
 - **Phenols and chlorophenols** — industrial wastewater contaminants
 - **Agricultural chemicals** — pesticides, herbicides, nitrates, phosphorus
@@ -89,7 +89,7 @@ Stamets and Battelle scientists identified a fungus that metabolized **dimethyl 
 - Aspergillus niger removed 91% copper and 70% zinc from swine effluent (Price et al. 2001)
 - Fungal biosorption uses living or dead biomass; cell wall components (chitin, glucans, proteins) bind metal ions via ion exchange, complexation, and adsorption
 - Mycorrhizal fungi protect host plants from metal toxicity while accumulating metals in their tissues
-- See [[mycoremediation-of-heavy-metals]] for detailed coverage
+- See [[mycoremediation-heavy-metals]] for detailed coverage
 
 ### PAH Degradation
 - White-rot fungi degrade PAHs via cytochrome P450 and ligninolytic enzymes

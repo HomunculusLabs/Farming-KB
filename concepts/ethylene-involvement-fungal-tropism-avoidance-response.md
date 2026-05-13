@@ -100,7 +100,7 @@ organisms:
   symbioses, affecting root architecture and fungal colonization patterns.
 
 - **Edible and medicinal mushrooms**: Ethylene exposure has been shown to affect
-  fruiting body development in cultivated species, with implications for commercial
+  [[fruiting-body-development]] in cultivated species, with implications for commercial
   mushroom production.
 
 ## Biosynthetic Pathways in Fungi
@@ -137,8 +137,6 @@ in fungal tropism:
 
 ## See Also
 
-- [[anemotropism-in-psilocybe-cubensis]] — Wind-directed growth in *P. cubensis*
 - [[evaporative-demand-hypothesis-mushroom-tropism]] — Water vapor gradient model
-- [[phycomyces-anemotropism-comparison-mushroom-tropism-mechanisms]] — Comparative analysis
 - [[mushroom-hormones-gill-directed-tropism]] — Hormonal regulation from gill tissue
 - [[boundary-layer-redistribution-fungal-tropism]] — Physical basis of gas redistribution

@@ -4,96 +4,19 @@ source: a-golden-guide-to-hallucinogenic-plants.md
 type: concept
 ---
 
-# [[query-how-to-fix-phosphorus-deficiency-in-cannabis]]: Botany, Chemistry, and History
-
-Cannabis (genus *Cannabis*), known by many names including marihuana, hashish, hemp, kif, bhang, and charas, is one of humanity's oldest cultivated plants and simultaneously one of the most widespread weeds. It has served as a source of fiber, food, industrial oil, medicine, and psychoactive substance for millennia. Despite its great age and economic importance, Cannabis remains poorly understood — characterized more by what is unknown than by what is established.
-
-## Botanical Description
-
-Cannabis is a rank, weedy annual that can attain heights of 5.5 meters (18 feet). It flourishes best in disturbed, nitrogen-rich soils near human habitations, earning it the descriptor "camp follower" for its tendency to accompany human populations into new territories.
-
-### Dioecy
-
-Cannabis is normally **dioecious** — male (staminate) and female (pistillate) flowers occur on separate plants. The male plant is usually weaker and less robust than the female. Pistillate flowers grow in the leaf axils, and the intoxicating constituents are concentrated in the resin produced by glandular trichomes on the developing female flowers and adjacent leaves and stems.
-
-### Leaf Morphology
-
-Leaves are **palmately compound**, normally divided into 3–7 leaflets, occasionally up to 11–13. Individual leaflets range from 5 to 15 cm (2–6 inches) in length. The distinctive palmate leaf shape is one of the most recognizable botanical features of the plant.
-
-## Taxonomic Classification
-
-The classification of Cannabis has been disputed by botanists for centuries, with disagreements at both the family and species levels.
-
-### Family Placement
-
-Cannabis has been assigned to several families over time:
-
-- **Moraceae** (fig/mulberry family)
-- **Urticaceae** (nettle family)
-- **Cannabaceae** (hemp family) — the currently accepted placement, which also includes hops (*[[humulus-lupulus]]*)
+# [[humulus-lupulus]]*)
 
 ### Species Debate
 
 The number of species within the genus remains contested:
 
-- **Single-species view**: *Cannabis sativa* L. with many varieties or "races" resulting from human selection for fiber, oil, or narcotic content, modified by [[duggar-mushroom-environmental-factors-temperature-moisture-light]]
-- **Multi-species view**: Current research supports the recognition of additional species:
-  - *C. sativa* — tall, fiber-type plants
-  - *C. indica* — shorter, broader-leafed plants associated with higher narcotic content
-  - *C. ruderalis* — small, weedy plants from Central Asia
-
-All Cannabis is native to Central Asia. Selection for narcotic activity has been especially notable in India, where intoxicating properties held religious significance.
-
-## Historical Use
-
-### Ancient Origins
-
-The history of Cannabis use extends back thousands of years:
-
-| Period | Evidence |
-|--------|----------|
-| ~4800 years ago | Chinese tradition records use |
-| ~4000 years ago | Egyptian specimens from Thebes; plant made into a drink with opium-like effects |
-| ~3000 years ago | Scythians grew Cannabis along the Volga; threw seeds and leaves on hot stones in steam baths for intoxicating smoke |
-| ~2700 years ago | Hemp fabrics found in Turkey (late 8th century BC) |
-| ~3000 years ago | Indian medical writing (pre-1000 BC) reports therapeutic uses |
-| ~500 BC | Greek naturalist Herodotus describes [[mckenna-scythian-cannabis-ritual-smoke-bath-herodotus]] steam-bath custom |
+- **Single-species view**: *Cannabis sativa* L. with many varieties or "races" resulting from human selection for fiber, oil, or narcotic content, modified by [[mckenna-scythian-cannabis-ritual-smoke-bath-herodotus]] steam-bath custom |
 | ~AD 160 | Greek physician Galen reports narcotic effects of hemp in cakes |
 | 13th century | Organized murderers in Asia Minor rewarded with hashish; origin of "hashishin" → "assassin" |
 
 ### The Chinese Name
 
-The oldest known Chinese characters [[query-how-to-set-up-drip-irrigation-for-cannabis]] are TA MA (pronounced DA MA):
-- **TA** — literally "adult man," by extension "great" or "tall"
-- **MA** — represents a fiber plant, literally a clump of plants growing near a dwelling
-
-Together they mean "the tall fiber plant," signifying Cannabis everywhere in China.
-
-### Spread to the New World
-
-Hemp as a fiber crop was introduced by the Pilgrims to New England and by Spanish and Portuguese colonizers to their territories in the Americas. The narcotic use of Cannabis in the United States dates from the 1920s, apparently beginning in New Orleans and its vicinity.
-
-## Chemistry
-
-### Major Cannabinoids
-
-The chemistry of Cannabis is complex. A fresh plant yields mainly **cannabidiolic acids**, which are biosynthetic precursors that convert over time:
-
-```
-Cannabidiolic acid (CBDA) → Δ¹-THC (psychoactive) → CBN (inactive)
-```
-
-Key cannabinoids include:
-
-| Compound | Psychoactivity | Notes |
-|----------|---------------|-------|
-| Δ¹-Tetrahydrocannabinol (THC) | Primary psychoactive agent | The main intoxicating principle |
-| Tetrahydrocannabinol-carboxylic acid (THCA) | Non-psychoactive (precursor) | Decarboxylates to THC with heat/aging |
-| Cannabidiol (CBD) | Non-psychoactive (or mildly psychoactive) | Modifies THC effects |
-| Cannabinol (CBN) | Weakly psychoactive | Degradation product |
-| Cannabichromene (CBC) | Minor | Less studied |
-
-THC and related tetrahydrocannabinols form an oily mixture of several stereoisomers. They are **not alkaloids** — they are non-nitrogenous terpenophenolic compounds derived from [[clarke-marijuana-botany-terpene-biosynthesis-aromatic-profiles]]. The recent synthesis of pure THC has been a major advance in studying the mechanism of its physiological activity.
+The oldest known Chinese characters [[clarke-marijuana-botany-terpene-biosynthesis-aromatic-profiles]]. The recent synthesis of pure THC has been a major advance in studying the mechanism of its physiological activity.
 
 ## Methods of Use
 
@@ -113,37 +36,91 @@ Many of the most potent preparations derive from *C. indica*. In the New World, 
 
 ## Effects
 
-Cannabis effects are **highly variable** from person to person and from one plant [[cannabis-strain-trainwreck-history-genetics]] to another. This variability stems mainly from the unstable character of some cannabinoids — inactive precursors convert to active compounds and eventually to inactive degradation products at different rates depending on temperature and age.
-
-### Psychological Effects
-
-- **Euphoria**: The principal narcotic effect
-- **Altered consciousness**: Dreamy state with interrupted normal thought patterns; ideas may be plentiful but confused
-- **Sensory enhancement**: Exaggerated sound perception, hypnotic sense of rhythm, beautiful sights and music
-- **Visual/auditory hallucinations**: Occasional, especially at higher doses; bizarre adventures may seem to occur
-- **Time distortion**: Perception of time is almost invariably altered
-- **Mood volatility**: Exaltation and inner joy may alternate with depression, moodiness, uncontrollable fear, and panic
-
-### Physiological Effects
-
-- Increased pulse rate and blood pressure
-- Tremor and vertigo
-- Difficulty with muscular coordination
-- Increased tactile sensitivity
-- Pupil dilation
-
-### Dependence
-
-Cannabis is **not physically addictive**, but psychological dependence may develop with continual use. The drug's activities beyond the central nervous system are considered secondary.
-
-## Medicinal Value
-
-The medicinal use of Cannabis has been documented for millennia:
-
-- Listed in the United States Pharmacopoeia until the 1930s, valued especially for treating hysteria
-- Long history in folk medicine across multiple cultures
-- Ancient Indian names include "heavenly guide" and "soother of grief"
-- Chinese name: "liberator of sin" and "delight giver"
-- Modern research into [[psilocybin-therapeutic-applications]] continues, particularly for pain management, anti-nausea, anti-spasmodic, and anti-inflammatory uses
+Cannabis effects are **highly variable** from person to person and from one plant [[psilocybin-therapeutic-applications]] continues, particularly for pain management, anti-nausea, anti-spasmodic, and anti-inflammatory uses
 
 The chemical complexity of Cannabis — a prolific "chemical factory" — suggests potential for new medicines derived from its many active compounds.
+
+## Overview
+
+Cannabis Botany And History represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish cannabis botany and history
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving cannabis extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Cannabis Botany And History finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for cannabis botany and history. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+cannabis botany and history and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Cannabis Botany And History has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of cannabis botany and history into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[blesching-cannabis-cancer-symptoms]]
+- [[cannabis-endorhiza-shared-otu-soil-source-validation]]
+- [[cannabis-musculoskeletal-conditions]]
+- [[cannabis-oil-consumption-methods]]
+- [[green-cannabis-dry-sift-water-extraction]]

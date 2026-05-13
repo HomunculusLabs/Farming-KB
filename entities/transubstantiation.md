@@ -28,8 +28,8 @@ maintaining the ritual framework of sacramental ingestion.
 
 Before transubstantiation, the sacramental tradition across multiple religions
 involved the actual ingestion of an entheogenic substance — identified in
-ethnomycological analysis as *Amanita muscaria*. The "body of God" (Greek:
-Soma) was a real, physical substance with demonstrable pharmacological effects
+ethnomycological analysis as *[[amanita]] muscaria*. The "body of God" (Greek:
+[[soma]]) was a real, physical substance with demonstrable pharmacological effects
 that produced visionary experiences described as direct communion with the
 divine.
 
@@ -143,8 +143,6 @@ helps explain:
 
 ## See Also
 
-- [[manna-entity]] — The original substance replaced by transubstantiation
 - [[constantine-entity]] — Political architect of the compiled religion
-- [[john-allegro]] — Scholar who decoded the original mushroom references
 - [[siberian-shamanism]] — Tradition that preserved actual sacramental practice
 - [[amanita-muscaria]] — The original sacrament

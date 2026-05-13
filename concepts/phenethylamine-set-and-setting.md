@@ -115,17 +115,3 @@ See also: [[shulgin-dosage-guidelines]], [[pihkal-introduction-and-methodology]]
 ## Related
 
 - [[pihkal-qualitative-effects-themes]]
-## Key Considerations
-
-Understanding the fundamental principles underlying this topic enables more effective practical application. Integration with related concepts strengthens overall system function and provides multiple pathways for implementation and adaptation to specific contexts.
-
-## Common Challenges
-
-Practitioners frequently encounter challenges related to resource availability, environmental variability, and knowledge gaps. Systematic approaches to problem-solving, combined with community knowledge sharing and iterative experimentation, provide effective pathways to overcoming these obstacles.
-
-## See Also
-- [[phenethylamine-chain-length-effects]]
-- [[phenethylamine-chemistry-basics]]
-- [[phenethylamine-duration-and-timing]]
-- [[phenethylamine-pharmacology]]
-- [[phenethylamine-receptor-pharmacology]]

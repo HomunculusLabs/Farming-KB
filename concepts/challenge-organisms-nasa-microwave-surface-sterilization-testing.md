@@ -1,6 +1,6 @@
 ---
 title: mixed-microbial-challenge-organisms-surface-sterilization-testing in NASA microwave-surface-sterilization Testing
-aliases: [bacillus pumilus [[microwave-sterilization]], NASA sterilization test organisms, microwave microbial kill validation]
+aliases: [bacillus pumilus microwave-sterilization, NASA sterilization test organisms, microwave microbial kill validation]
 tags: [sterilization, microwave, NASA, microbiology, bacillus-pumilus, escherichia-coli, pseudomonas-cepacia, biological-indicators]
 created: 2026-05-08
 source: sterilizing-surfaces-by-irradiation-with-microwaves.md
@@ -10,23 +10,7 @@ source: sterilizing-surfaces-by-irradiation-with-microwaves.md
 
 ## Overview
 
-The NASA microwave surface sterilization study (MSC-22484) employed a carefully selected panel of three microbial challenge organisms to validate the efficacy of the [[dry-microwave-irradiation-spore-resistance]] protocol. The mixed population included *Bacillus pumilus*, *Escherichia coli*, and *Pseudomonas cepacia*, representing three distinct categories of microbial resistance: bacterial spores, gram-negative vegetative cells with high radiation sensitivity, and gram-negative vegetative cells with moderate environmental resistance. Together, these organisms span the range of resistance profiles likely to be encountered in contamination control applications.
-
-## The Three Challenge Organisms
-
-### Bacillus pumilus
-
-*Bacillus pumilus* is a gram-positive, spore-forming bacterium and the most resistant organism in the test panel. Its inclusion as a challenge organism reflects its status as a standard biological indicator in sterilization validation.
-
-**Key characteristics relevant to sterilization testing:**
-
-- **Spore formation** — Under stress conditions, *B. pumilus* produces endospores that are among the most resistant known biological structures, surviving extremes of heat, radiation, desiccation, and chemical exposure
-- **[[bacillus-pumilus-radiation-resistance-surface-decontamination]]** — *B. pumilus* spores are notably resistant to ionizing radiation (gamma rays, X-rays) and UV radiation, making them a standard challenge organism for radiation-based [[conventional-surface-sterilization-methods-limitations-comparison]]
-- **Environmental persistence** — Spores can persist in the environment for years without losing viability, making them a realistic contamination threat
-- **Spacecraft relevance** — *B. pumilus* has been isolated from spacecraft assembly clean rooms and has been detected on spacecraft surfaces, making it directly relevant to NASA's contamination control concerns
-- **Recovery and culturing** — Grows readily on standard microbiological media (nutrient agar, tryptic soy agar), facilitating post-treatment viability assessment
-
-In the [[rotational-transition-water-dipole-microwave-sterilization-physics]] study, *B. pumilus* was the last organism to be eliminated, requiring the full 13.1 W-hr exposure for complete kill. This confirmed that the protocol was effective against the most resistant organism in the panel, providing confidence that it would also eliminate less resistant contaminants.
+The NASA microwave surface sterilization study (MSC-22484) employed a carefully selected panel of three microbial challenge organisms to validate the efficacy of the [[bacillus-pumilus-radiation-resistance-surface-decontamination]]** — *B. pumilus* spores are notably resistant to ionizing radiation (gamma rays, X-rays) and UV radiation, making them a standard challenge organism for radiation-based [[rotational-transition-water-dipole-microwave-sterilization-physics]] study, *B. pumilus* was the last organism to be eliminated, requiring the full 13.1 W-hr exposure for complete kill. This confirmed that the protocol was effective against the most resistant organism in the panel, providing confidence that it would also eliminate less resistant contaminants.
 
 ### Escherichia coli
 
@@ -117,8 +101,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[microwave-surface-sterilization]]
 - [[sterilization]]
-- [[mixed-microbial-challenge-organisms-surface-sterilization-testing]]
 - [[nasa-microwave-sterilization-challenge-organisms-kill-kinetics]]
 - [[dom]]

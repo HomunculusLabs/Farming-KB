@@ -21,10 +21,7 @@ type: concept
 # Aquatic Fungi and Zoospore Biology
 Aquatic fungi represent a diverse and ecologically critical group of
 microorganisms that live and reproduce in freshwater habitats. They
-range from the spectacular [[bloomfield-pythium-oomycete-water-molds]]
-that cause devastating diseases of fish, crops, and mammals.
-The study of aquatic fungi illuminates fundamental principles of fungal
-biology, including the mechanisms of [[bloomfield-fungal-reproduction-and-chemical-communication]] systems
+range from the spectacular [[bloomfield-fungal-reproduction-and-chemical-communication]] systems
 that guide these organisms to their hosts.
 
 ## Ingoldian Hyphomycetes
@@ -35,8 +32,7 @@ dispersal by water currents: the appendages increase surface area and
 drag, improving the likelihood of settling on submerged leaves.
 As the spores flow downstream, they colonize submerged leaves and spawn
 mycelia that soften and macerate the plant tissues by secreting
-cellulose-degrading enzymes. This [[decomposition]] is a critical process
-in freshwater [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]].
+cellulose-degrading enzymes. This [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]].
 Henry Descals, an authority on Ingoldian fungi, has been working on a
 definitive monograph of the group for more than twenty years. To isolate
 spores from the surface of decaying leaves, he plucks his long
@@ -46,10 +42,8 @@ tips as perfect instruments for manipulating these microscopic jewels.
 ## Oomycete Water Molds
 
 Oomycetes (water molds) are stramenopile organisms, only distantly
-related to true fungi ([[fungal-taxonomy-and-kingdom-fungi]]), but traditionally studied by
-mycologists due to their [[bloomfields-orchard-hyphal-growth-and-invasive-biology]] form, absorptive nutrition, and
-[[spore-production-geotropic-sensitivity-coupling-basidiomycete-badham-1982]].
-Their [[alpha-1-3-glucan-fungal-pathogen-cell-walls]] contain cellulose microfibrils (staining blue with
+related to true fungi ([[bloomfields-orchard-hyphal-growth-and-invasive-biology]] form, absorptive nutrition, and
+[[alpha-1-3-glucan-fungal-pathogen-cell-walls]] contain cellulose microfibrils (staining blue with
 iodine, unlike true fungi), and their membranes lack ergosterol, making
 standard antifungal drugs ineffective against them.
 
@@ -118,8 +112,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[dom]]
 - [[spore]]
-- [[decomposition]]
 - [[ergosterol]]
 - [[fungal-zoospore-biology-and-flagellate-motility]]

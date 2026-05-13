@@ -10,8 +10,7 @@ tags: [history, mushroom-cultivation]
 
 # Mushrooms in Ancient Civilizations
 
-## From "Shroom: A Cultural History of the Magic Mushroom" by [[terence-mckenna]], appears to show a figure clutching mushrooms. However, Kat Harrison's widely circulated drawing subtly reinforced a shamanistic interpretation not clearly present in the original
-- **Gundestrup Cauldron**: Tentatively suggested to depict a psychoactive plant, possibly the [[peter-mantle-liberty-cap-chromatographic-discovery-1969]], though equally likely to be entirely decorative
+## From "Shroom: A Cultural History of the Magic Mushroom" by [[peter-mantle-liberty-cap-chromatographic-discovery-1969]], though equally likely to be entirely decorative
 - **Hildesheim Cathedral doors**: A panel that looks like a giant Liberty Cap is actually a stylised fig-tree from a coherent biblical narrative
 
 ### The Three Stages of Trance
@@ -24,12 +23,8 @@ Letcher argues that the popular narrative of an unbroken tradition of mushroom u
 
 ## Ancient China
 
-[[guzman-magic-mushrooms-african-species]] have been known about in China since at least the Chin Dynasty (265-420 CE), when Chang Hua wrote about them in his *Po-wu-chih* (Record of the Investigation of Things). But for Chang Hua and later compilers of herbals, the mushrooms that "made you laugh unceasingly" were poisons, to be avoided or treated with herbal remedies.
-
-## Related Concepts
-
-- [[shroom-cultural-history-mushroom-art-and-iconography]] — Visual representations of mushrooms across cultures
-- [[shroom-cultural-history-maria-sabina-and-mazatec-tradition]] — The living continuation of Mesoamerican [[sacred-mushroom-traditions-in-mexico]]
+[[shroom-cultural-history-mushroom-art-and-iconography]] — Visual representations of mushrooms across cultures
+- [[sacred-mushroom-traditions-in-mexico]]
 ## Practical Applications
 
 Mushrooms in Ancient Civilizations — Shroom has a range of practical applications that make it relevant to

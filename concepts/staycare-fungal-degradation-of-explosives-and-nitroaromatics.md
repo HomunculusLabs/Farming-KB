@@ -21,8 +21,7 @@ ability to transform and degrade these recalcitrant compounds.
 ## Trinitrotoluene (TNT) Degradation
 
 TNT (2,4,6-trinitrotoluene) is the most widely studied explosive
-pollutant in [[staycare-composting-as-a-fungal-bioremediation-strategy]]. Regular exposure to TNT causes liver
-damage and anaemia in workers. [[staycare-phanerochaete-chrysosporium-in-bioremediation]] degrades 30 to
+pollutant in [[staycare-phanerochaete-chrysosporium-in-bioremediation]] degrades 30 to
 50% of added TNT at concentrations below 20 mg/l in liquid culture. Higher
 concentrations inhibit degradation, with hydroxylamino-dinitrotoluene
 intermediates accumulating and inhibiting further TNT breakdown.
@@ -38,9 +37,7 @@ corresponding hydroxylamino or amino congeners. Key intermediates include
 Addition of TNT to ligninolytic cultures causes disappearance of lignin
 peroxidase (LiP) activity, though this is caused by metabolites rather
 than TNT itself. Hydroxylamino intermediates are the actual LiP inhibitors.
-[[fungal-manganese-peroxidase-remediation]] (MnP) production is also suppressed by TNT, and MnP
-may not be essential for TNT degradation in P. chrysosporium. These
-inhibition effects complicate the use [[biochemistry-of-ligninolytic-fungi-bioremediation]] for TNT
+[[biochemistry-of-ligninolytic-fungi-bioremediation]] for TNT
 bioremediation, as the very enzymes that could degrade the compound are
 suppressed during the process.
 
@@ -48,9 +45,8 @@ suppressed during the process.
 
 Phlebia radiata degrades both TNT and 2-amino-4,6-dinitrotoluenes
 (22% and 76%, respectively), suggesting potential for munitions-contaminated
-site remediation. [[cancer-medicinal-mushrooms-pleurotus-ostreatus]] and [[growing-gourmet-turkey-tail-trametes-versicolor-cultivation]] degrade TNT
-in solid-state systems. The brown rot fungus [[gloeophyllum-trabeum]]
-transforms 50 ppm TNT to below [[hplc-detection-limits-calibration-psilocybin-psilocin-bigwood-beug]] within 3 days and can grow
+site remediation. [[growing-gourmet-turkey-tail-trametes-versicolor-cultivation]] degrade TNT
+in solid-state systems. The brown rot fungus [[hplc-detection-limits-calibration-psilocybin-psilocin-bigwood-beug]] within 3 days and can grow
 with TNT concentrations exceeding 40 mg/l, showing greater tolerance than
 P. chrysosporium. Nematoloma frowardii MnP degrades amino-dinitrotoluene
 to carbon dioxide in the presence of reduced glutathione.

@@ -6,21 +6,12 @@ type: concept
 tags: [permaculture, design]
 sources: [/Users/t3rpz/wiki/raw/papers/a-guide-to-home-scale-permaculture-gaias-garden-a-guide-to-home-scale-permacultu.md]
 ---
-# Permaculture Difficult Sites Plant Guide Not all land is equally suited to cultivation. Permaculture design matches species to site conditions, including saline soils, alkaline soils, coastal exposure, and waterlogged areas. The [[nitrogen-fixing-trees-and-shrubs]] to rehabilitate degraded land before planting longer-term crops
-- Buffer between demanding crops and difficult conditions using tolerant species
-- Use salt-tolerant trees around salt scalds with trials on soil mounds within scalds
-- Plant fire retardant species as strategic barriers in fire-prone landscapes
-- See [[permaculture-plants-ground-covers-and-accumulators]] for soil stabilization on difficult sites
+# Permaculture Difficult Sites Plant Guide Not all land is equally suited to cultivation. Permaculture design matches species to site conditions, including saline soils, alkaline soils, coastal exposure, and waterlogged areas. The [[permaculture-plants-ground-covers-and-accumulators]] for soil stabilization on difficult sites
 
 ## See Also
 
-- [[permaculture-design-course-methodology]]
 - [[permaculture-fruit-tree-guide]]
 - aquatic plants and pond ecosystems
-- [[alkaline-soil-plants]]
-
-## Related
-
 - [[permaculture-salt-tolerant-fodder-plants]]
 ## Practical Applications
 

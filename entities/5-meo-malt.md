@@ -104,17 +104,10 @@ The systematic exploration of N-substituted tryptamine analogs was pioneered by 
 
 ## See Also
 
-- [[5-meo-dmt-entity]]
 - [[5-meo-dipt]]
-- [[4-aco-dmt]]
 - [[dmt-nn-dimethyltryptamine]]
-- [[mescaline]]
 - [[lsd]]
-- [[harmine]]
 - [[psilocin]]
-- [[5-meo-mipt]]
 - [[bufotenin]]
-- [[ibogaine]]
 - [[salvinorin-a-entity]]
-- [[4-ho-met]]
 - [[aeruginascin]]

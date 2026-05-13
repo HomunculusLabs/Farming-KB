@@ -11,7 +11,7 @@ sources:
 
 HOT-7 is the N-hydroxy analogue of 2c-t-7-entity|2C-T-7, a psychedelic phenethylamine.
 
-It is documented as entry #88 in PiHKAL by [[mdoh-entity-pihkal]]|N-hydroxy-MDA) was equipotent to [[mdma]]|MDMA (producing FLEA) and across the 2C-T-X series.
+It is documented as entry #88 in PiHKAL by [[mdma]]|MDMA (producing FLEA) and across the 2C-T-X series.
 
 ## Synthesis
 
@@ -55,16 +55,7 @@ The dosage (15-25 mg) requires accurate milligram measurement.
 
 Some gastrointestinal discomfort during onset has been reported.
 
-As with all optical [[optical-isomers-psychedelic-phenethylamines]] phenethylamines, HOT-7 should not be combined with MAOIs or other serotonergic substances.
-
-The compound has not been studied for long term toxicity.
-
-## Index
-
-- 2c-t-7-entity|2C-T-7: the non-hydroxylated parent compound
-- 2c-t-2-entity|2C-T-2: the 2-carbon thio analogue with N-hydroxy variant HOT-2
-- mdoh-entity|MDOH: the N-hydroxy analogue of MDA
-- [[hot-2-entity]]
+As with all optical [[hot-2-entity]]
 - [[hot-2-entity-pihkal]]
 ## Practical Considerations
 
@@ -84,3 +75,75 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
+
+## Overview
+
+Hot 7 Entity represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish hot 7 entity
+from related concepts in [[permaculture]] and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving hot extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Hot 7 Entity finds practical application in multiple design contexts.
+[[permaculture-principles]] guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for hot 7 entity. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+hot 7 entity and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Hot 7 Entity has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of hot 7 entity into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions

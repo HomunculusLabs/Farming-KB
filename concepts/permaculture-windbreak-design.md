@@ -62,7 +62,7 @@ Blizzards will kill livestock and newborn lambs, and even hardy animals can lose
 
 ### On Croplands
 
-A matrix of shelterbelt species 10-16m in height and 33-66m apart (Casuarina, poplar, Matsudana willow, trimmed eucalypt) affords [[cervantes-wind-protection-outdoor-cannabis]]. Citrus culled as damaged is 50% of crop in unsheltered areas versus 18.5% in shelterbelt systems. Cotton yields are 17.4% higher within five times the height of the shelterbelt.
+A matrix of shelterbelt species 10-16m in height and 33-66m apart (Casuarina, poplar, Matsudana willow, trimmed eucalypt) affords wind protection. Citrus culled as damaged is 50% of crop in unsheltered areas versus 18.5% in shelterbelt systems. Cotton yields are 17.4% higher within five times the height of the shelterbelt.
 
 ### On Soil Moisture
 
@@ -70,8 +70,8 @@ Windbreak increases soil moisture 4% to four times the height of the break, and 
 
 ## Shelterbelt Design Considerations
 
-Species [[cannabis-breeding-traits-selection-criteria-clarke]] include:
-- [[biological-nitrogen-fixation-agriculture]] or good mulch potential from leaves and trimmings
+Species selection criteria include:
+- Nitrogen fixation or good mulch potential from leaves and trimmings
 - Hosting of predatory insects or birds that control crop pests
 - Least moisture competition with crop
 - Excellent forage yields or concentrated foods for livestock

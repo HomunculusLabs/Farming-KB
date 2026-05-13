@@ -17,7 +17,7 @@ sources:
 
 # McKenna's Food of the Gods Thesis
 
-[[terence-mckenna]]'s central argument that psychoactive plants and fungi have fundamentally shaped the trajectory of human culture, religion, and consciousness.
+Terence McKenna's central argument that psychoactive plants and fungi have fundamentally shaped the trajectory of human culture, religion, and consciousness.
 
 ## Core Argument
 
@@ -45,11 +45,11 @@ Key elements of his argument:
 
 3. **Cultures of addiction vs. shamanic cultures**: He contrasted societies built around psychoactive plants that "dissolve boundaries and encourage community" with those built around alcohol, which he argued "reinforces hierarchy, social stratification, and male dominance."
 
-4. **The [[archaic-revival-partnership-vs-dominator-cultures]]**: McKenna saw late 20th-century interest in psychedelics, shamanism, and indigenous wisdom as a potential return to partnership values -- a "reconnection with the Archaic" that might redirect civilization away from ecological and social catastrophe.
+4. **The Archaic Revival**: McKenna saw late 20th-century interest in psychedelics, shamanism, and indigenous wisdom as a potential return to partnership values -- a "reconnection with the Archaic" that might redirect civilization away from ecological and social catastrophe.
 
 ## Shamanism and the Lost Archaic World
 
-McKenna drew extensively on his personal experiences with shamanic plant use, particularly ayahuasca in the Amazon. He described shamanism as "the archaic [[mckenna-shamanism-and-techniques-of-ecstasy]]" (quoting Mircea Eliade) and argued that shamanic plant use provides access to an "intelligent Other" -- a disincarnate intelligence present in nature:
+McKenna drew extensively on his personal experiences with shamanic plant use, particularly ayahuasca in the Amazon. He described shamanism as "the archaic techniques of ecstasy" (quoting Mircea Eliade) and argued that shamanic plant use provides access to an "intelligent Other" -- a disincarnate intelligence present in nature:
 
 > "Shamanic healers insist on the existence of an intelligent Other somewhere in a dimension nearby. The existence of an ecology of souls or a disincarnate intelligence is not something that science can be expected to grapple with and emerge with its own premises intact."
 
@@ -57,7 +57,7 @@ He argued that Western science's dismissal of shamanic experience as mere intoxi
 
 ## The Gastronomic and Cultural Connection
 
-McKenna emphasized the fundamental connection between food, consciousness, and culture: "The ways in which humans use plants, foods, and drugs cause the values of individuals and, ultimately, whole societies to shift." He argued that cultures are shaped by the [[cultural-evolution-and-psychoactive-substances]] they sanction, creating an "ambience of intoxication" that is as invisible and powerful as language.
+McKenna emphasized the fundamental connection between food, consciousness, and culture: "The ways in which humans use plants, foods, and drugs cause the values of individuals and, ultimately, whole societies to shift." He argued that cultures are shaped by the psychoactive substances they sanction, creating an "ambience of intoxication" that is as invisible and powerful as language.
 
 ## Criticism
 
@@ -70,31 +70,11 @@ McKenna's thesis has been criticized as:
 
 ## Legacy
 
-Despite these criticisms, McKenna's work has been enormously influential in popularizing the idea that psychoactive plants deserve serious consideration in understanding human [[entheogens-and-cultural-evolution]]. His concept of the "Archaic Revival" has resonated with movements toward ecological consciousness, indigenous rights, and psychedelic renaissance.
+Despite these criticisms, McKenna's work has been enormously influential in popularizing the idea that psychoactive plants deserve serious consideration in understanding human cultural evolution. His concept of the "Archaic Revival" has resonated with movements toward ecological consciousness, indigenous rights, and psychedelic renaissance.
 
 ## Related Topics
 
 - [[terence-mckenna-stoned-ape-hypothesis]] for the evolutionary component
 - [[psychedelic-plants-in-ancient-cultures]] for historical evidence
-- [[shamanic-use-of-psychedelics]] for cross-cultural [[amazonian-boa-spirits-and-water-beings-in-shamanic-practice]]
+- [[shamanic-use-of-psychedelics]] for cross-cultural shamanic practice
 - [[ayahuasca-preparation-and-ceremony]] for McKenna's Amazon experiences
-
-## Practical Applications
-
-The principles outlined here find application across multiple domains including research, education, and practical implementation. Understanding the underlying mechanisms enables more effective application in real-world scenarios.
-
-## Key Considerations
-
-When applying these concepts, consider regional variations, available resources, and long-term sustainability goals. Success depends on careful observation and adaptive management based on feedback from the system.
-
-## Key Considerations
-
-When applying these concepts, consider regional variations, available resources, and long-term sustainability. Adaptation to local conditions and continuous learning from both successes and failures support meaningful progress.
-
-## See Also
-
-- [[mckenna-food-of-the-gods-stoned-ape-hypothesis]]
-- [[mckenna-food-of-the-gods-kykeon-and-eleusinian-mysteries]]
-- [[mckenna-food-of-the-gods-dominance-culture-and-ego]]
-- [[mckenna-food-gods-wasson-revelation-magic-mushroom-discovery-mazatec]]
-- [[mckenna-food-gods-wasson-amanita-theory]]

@@ -60,68 +60,26 @@ hundreds of years, commanding prices that at their peak exceeded $50,000 to
 $100,000 per kilogram for wild-harvested specimens.
 
 Modern pharmacological research has begun to validate many of these traditional
-uses by identifying specific [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]] responsible for Cordyceps's
-effects. The most significant is cordycepin (3'-deoxyadenosine), a nucleoside
-analog unique to Cordyceps species that inhibits RNA polymerase, induces
-apoptosis in cancer cells, and modulates inflammatory pathways. Additional
-compounds including adenosine, galactomannan polysaccharides, ergosterol, and
-cordycepic acid (D-mannitol) contribute to a broad pharmacological profile
-encompassing immune modulation, antioxidant activity, cardiovascular support,
-and metabolic regulation. This multi-target approach distinguishes Cordyceps
-from single-molecule pharmaceuticals and aligns with its traditional role as a
-general restorative tonic.
-
-The practical challenge of studying and using Cordyceps has driven significant
-innovation in fungal cultivation. While wild-harvested O. sinensis remains
-uncultivable at commercial scale due to its obligate parasitic relationship with
-ghost moth larvae, the related species Cordyceps militaris has emerged as a
-commercially viable alternative. C. militaris can be reliably cultivated on
-sterilized grain substrates, produces fruiting bodies containing comparable or
-even higher concentrations of cordycepin than wild O. sinensis, and has become
-the primary source of Cordyceps-derived dietary supplements worldwide. This
-article provides a comprehensive synthesis of current knowledge on Cordyceps
-taxonomy, traditional use, bioactive chemistry, medicinal research, cultivation
-methods, and future directions.
-
-## Taxonomy and Natural History
-
-### Taxonomic Revisions
-
-The taxonomy of Cordyceps underwent a significant revision in 2007 based on
-## See Also
-
-- [[cordyceps-cultivation]]: Overview of Cordyceps taxonomy,
+uses by identifying specific [[cordyceps-cultivation]]: Overview of Cordyceps taxonomy,
   entomopathogenic life cycles, and related genera including Beauveria and
   Metarhizium
-- [[cordyceps-cancer-bioactive-compounds]]: Detailed analysis of cordycepin
-  mechanism of action, polysaccharide immunology, and anti-cancer properties
 - [[cordyceps-cultivation]]: Practical cultivation parameters, substrate
   formulations, and yield data for Cordyceps species
-- [[cordyceps-militaris-cultivation]]: Step-by-step cultivation guide for C.
-  militaris including common problems and troubleshooting
 - [[cordyceps-research-cancer]]: Cancer-specific research including
   cardiovascular support for cancer patients and clinical trial gaps
-- [[medicinal-mushroom-compound-extraction]]: Extraction protocols including
-  the Mizuno sequential fractionation method and dual extraction
 - [[medicinal-mushroom-compounds-and-health-benefits]]: Broader survey of
-  [[gourmet-medicinal-mushroom-casing-layer-techniques]] compounds including cordycepin among beta-glucans and
-  triterpenoids
-- [[medicinal-mushroom-antioxidant-anti-inflammatory]]: Comparative analysis
+  [[medicinal-mushroom-antioxidant-anti-inflammatory]]: Comparative analysis
   of antioxidant mechanisms across medicinal mushroom species
-- [[medicinal-mushroom-cancer-chemoprevention]]: Cancer prevention through
-  [[cancer-prevention-dietary-mushroom-intake]] consumption and functional food applications
+- [[cancer-prevention-dietary-mushroom-intake]] consumption and functional food applications
 - medicinal-mushroom-cardiovascular-metabolic-effects: Cardiovascular,
   cholesterol-lowering, and antidiabetic effects across mushroom species
-- [[entomopathogenic-fungal-diversity-cordyceps-insect-pathogens]]: Taxonomic
-  diversity and ecological significance of entomopathogenic fungi
 - [[medicinal-mushroom-guide-cordyceps]]: Practical consumer guide covering
   dosing, preparation methods, and product selection
 
 ## References
 
 - Mizuno, T. (1999). Cordyceps sinensis and cordycepin: Their therapeutic
-  potential. In S.T. Chang & K.W. Buswell (Eds.), [[psilocybin-mushroom-biology-chemistry]] and
-  [[cotter-mushroom-products-and-value-added-applications]].
+  potential. In S.T. Chang & K.W. Buswell (Eds.), [[cotter-mushroom-products-and-value-added-applications]].
 - Zhu, J.S., Halpern, G.M., & Jones, K. (1988a,b). The scientific
   rediscovery of an ancient Chinese herbal medicine: Cordyceps sinensis.
   Journal of Alternative and Complementary Medicine.

@@ -10,8 +10,7 @@ tags:
   - malabar-lemongrass
   - essential-oil
   - citral
-  - [[permaculture]]
-  - [[companion-planting]]
+  - companion-planting
   - pest-deterrent
   - medicinal-herb
   - culinary-herb
@@ -29,8 +28,7 @@ sources:
 
 **Cymbopogon flexuosus**, commonly known as East Indian lemongrass, Malabar
 lemongrass, or Cochin lemongrass, is a perennial aromatic grass in the family
-Poaceae. Native to South and [[psilocybe-southeast-asia-pacific]], it is cultivated worldwide for its
-[[permaculture-designers-manual-essential-oil-plants]] — one of the primary commercial sources of citral. The species is
+Poaceae. Native to South and [[permaculture-designers-manual-essential-oil-plants]] — one of the primary commercial sources of citral. The species is
 widely used in perfumery, food flavoring, traditional medicine, and permaculture
 systems for its pest-deterrent properties.
 
@@ -57,14 +55,7 @@ their oils have slightly different organoleptic profiles.
 - **Inflorescence:** Large, nodding, compound panicle, 30–60 cm long, with
   purplish racemes. Flowers rarely set viable seed in cultivation.
 - **Roots:** Dense fibrous root system extending 30–60 cm deep; effective at
-  soil stabilization and [[permplant-willows-salix-erosion-control-fodder]].
-
-## Distribution and Native Range
-
-Native to India, Sri Lanka, Myanmar, Thailand, and parts of Indochina. Naturalized
-in tropical and subtropical regions worldwide. Major cultivation occurs in India
-(the world's largest producer), Thailand, Vietnam, Brazil, China, Indonesia, and
-Madagascar. Grows at elevations up to 900 m in tropical [[query-how-to-grow-rare-tropical-fruits-in-marginal-and-subtropical-climates]].
+  soil stabilization and [[query-how-to-grow-rare-tropical-fruits-in-marginal-and-subtropical-climates]].
 Optimal growth at 25–35°C with annual rainfall of 250–330 cm. Tolerates poor,
 sandy, and lateritic soils but performs best in well-drained loams with pH 5.5–7.0.
 
@@ -76,8 +67,7 @@ The essential oil is steam-distilled from fresh or dried aerial parts, yielding
 - **Citral** (75–85%): A mixture of geranial (citral A, ~40–50%) and neral
   (citral B, ~30–40%). This is the primary aromatic and bioactive component.
 - **Myrcene** (10–20%): Monoterpene contributing to the fresh green aroma.
-- **[[geraniol]]** (2–5%): Monoterpene alcohol with floral notes.
-- **Citronellal** (1–3%), **[[linalool]]** (trace), **[[limonene]]** (trace).
+- **[[linalool]]** (trace), **[[limonene]]** (trace).
 - Minor constituents: farnesol, nerol, methyl heptenone.
 
 The citral content of *C. flexuosus* oil is typically higher than that of *C. citratus*,

@@ -9,9 +9,7 @@ created: 2026-05-08
 
 # Exteriorized Soul and Psychedelic Bar Mitzvah
 
-[[mckenna-history-shockwave-of-eschatology]]
 [[tryptamines-and-quantum-mechanics]]
-[[tryptamine-hallucinogens-and-consciousness]]
 [[mckenna-tryptamines-soul-and-extraterrestrial-hypothesis]]
 noosphere
 ## Background and Context

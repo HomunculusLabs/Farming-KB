@@ -20,31 +20,6 @@ preferences, and culinary applications differ significantly.
 
 ## Nameko
 
-[[nameko-cultivation]]
-
-Nameko is the third most cultivated mushroom in Japan after shiitake
-and enoki. It produces small amber-to-orange caps (2-5 cm) covered
-in a distinctive gelatinous, slippery coating. This viscid layer
-gives nameko its characteristic glossy appearance and unique mouthfeel
-that thickens soups and hot pots naturally without added starch.
-
-Cultivation centers on supplemented hardwood sawdust blocks using a
-base formula of 3-4 parts hardwood sawdust to 1 part wheat or rice
-bran. Blocks are sterilized at 15 psi for 60-90 minutes and
-colonized at 70-75°F (21-24°C) over 20-30 days. Fruiting requires
-cool conditions at 54-59°F (12-15°C) with very high humidity
-(90-95% RH) to develop the prized gelatinous coating. Nameko can
-also be grown on hardwood logs using methods similar to shiitake,
-with 6-12 month colonization periods and cold-water soaking to
-trigger fruiting.
-
-The flavor is mild, nutty, and slightly crunchy when cooked. Nameko
-is a staple ingredient in miso soup, nabemono (hot pot), and various
-Japanese stir-fry dishes. It is available fresh, canned, and dried
-throughout Japanese markets.
-
-## Pioppino
-
 [[growing-gourmet-black-poplar-agrocybe-cultivation]]
 
 Pioppino, also known as the Black Poplar Mushroom or yanagimatsutake
@@ -128,8 +103,6 @@ the equipment and knowledge investment needed for dual cultivation.
 
 ## See Also
 
-- [[nameko-mushroom-cultivation]]
 - [[agrocybe-aegerita-pioppino-medicinal-profile]]
-- [[comparison-oyster-vs-shiitake-cultivation]]
 - [[supplemented-sawdust-block-cultivation]]
 - [[comparison-enoki-vs-maitake-cultivation]]

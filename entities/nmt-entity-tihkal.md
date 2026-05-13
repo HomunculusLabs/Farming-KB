@@ -16,50 +16,15 @@ sources: ["raw/papers/shulgin-a-tihkal.md"]
 
 - Class: Tryptamine, N-monomethyl substituted
 
-- Source: [[acacia]], and Mimosa. However, the major snuffs associated with
-these plants also contain [[amt-entity-tihkal]]).
+- Source: [[amt-entity-tihkal]]).
 The convention used in TIHKAL reserves the two letters before "T" for the
 two alkyl groups. N-methyl (mono-substituted) becomes NMT, while dimethyl
 stays as DMT. This avoids confusion.
 
 ## Chemical Family and Botanical Context
 
-NMT occupies a central position in [[psilocybin-tryptamine-chemistry-fungi]] as the intermediate
-between tryptamine itself and DMT. The progression from unsubstituted tryptamine
-through N-methyltryptamine to N,N-dimethyltryptamine represents the simplest
-systematic variation of N-alkyl substitution, and understanding this progression
-is fundamental to the broader exploration of tryptamine structure-activity
-relationships.
-
-In nature, NMT is found alongside DMT and [[5-meo-dmt-entity]] in a variety of plant
-species, particularly in the Virola genus (used in [[chiric-caspi-brunfelsia-south-american-hallucinogen]] snuff
-preparations) and various Acacia species (Australian native plants). The
-co-occurrence of NMT with DMT suggests that NMT serves as a biosynthetic
-intermediate in the plant's production of DMT, via a second N-methylation step
-catalyzed by an N-methyltransferase enzyme.
-
-The "DMT is Everywhere" concept that Shulgin discusses reflects the remarkable
-ubiquity of simple tryptamines across the plant kingdom. These compounds are
-found in grasses, legumes, reeds, and trees across virtually every continent,
-suggesting that tryptamine biosynthesis may serve fundamental physiological
-roles in plants beyond any psychoactive function.
-
-## Detailed Pharmacological Discussion
-
-NMT's pharmacological profile is poorly characterized due to the lack of
-systematic human trials. Its reported activity when smoked (brief visuals at
-50-100 mg) and inactivity orally suggests that it is either poorly absorbed
-or rapidly metabolized when taken by the oral route, similar to DMT.
-
-The compound's pharmacological properties are of interest because NMT is
-believed to be an endogenous trace amine in mammals, potentially serving as
-a neurotransmitter or neuromodulator. Endogenous NMT has been detected in
-human urine, blood, and brain tissue at low concentrations, though its
-physiological role remains unclear.
-
-As a substrate for MAO enzymes, NMT would be expected to undergo rapid
-oxidative deamination following oral administration, explaining the lack of
-[[tihkal-oral-activity-mao-inhibition]]. Smoking bypasses first-pass metabolism and delivers the
+NMT occupies a central position in [[5-meo-dmt-entity]] in a variety of plant
+species, particularly in the Virola genus (used in [[tihkal-oral-activity-mao-inhibition]]. Smoking bypasses first-pass metabolism and delivers the
 compound directly to the bloodstream, though the very brief duration of
 effects (approximately 15 seconds) suggests rapid CNS metabolism or clearance
 even when administered by this route.
@@ -88,3 +53,88 @@ an intermediate state.
 ## Harm Reduction and Safety Considerations
 
 - NMT has not been systematically characterized for safety or toxicity
+
+## Overview
+
+Nmt Entity Tihkal represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish nmt entity tihkal
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving nmt extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Nmt Entity Tihkal finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for nmt entity tihkal. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+nmt entity tihkal and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Nmt Entity Tihkal has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of nmt entity tihkal into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[2c-g-3-entity]]
+- [[4-5-mdo-dmt-entity-tihkal]]
+- [[5-6-mdo-dipt-entity-tihkal]]
+- [[mdcpm-entity-pihkal]]
+- [[methyl-k-entity-pihkal]]

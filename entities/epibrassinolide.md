@@ -52,23 +52,14 @@ normal plant growth and reproduction. As the most active brassinosteroid,
 it produces the most pronounced effects across all known brassinosteroid-
 mediated pathways.
 
-**[[brassinosteroid-physiological-mechanisms-cell-elongation-division]] and division**: Promotes cell expansion by acidifying the
-cell wall and activating H+-ATPase proton pumps, leading to increased wall
-extensibility through activation of expansin proteins. This effect is
-synergistic with auxin and involves cross-talk between brassinosteroid and
-auxin signaling pathways at multiple levels.
-
-**Vascular differentiation**: Stimulates xylem differentiation and promotes
-vascular bundle formation through upregulation of VND transcription factors,
-critical for efficient water and [[mycelial-network-nutrient-transport-imaging-gadd]] throughout the plant.
+**[[mycelial-network-nutrient-transport-imaging-gadd]] throughout the plant.
 
 **Reproductive development**: Enhanced pollen tube growth, seed set, and
 fruit development have been documented across numerous crop species.
 Application during flowering significantly increases fruit retention and
 seed number per pod or ear.
 
-**[[fungal-lichen-stress-tolerance-and-poikilohydry]]**: Improves plant resistance to drought, salinity, heat,
-cold, and [[dighton-fungal-biosorption-heavy-metal-remediation]] stress through activation of antioxidant defense
+**[[dighton-fungal-biosorption-heavy-metal-remediation]] stress through activation of antioxidant defense
 systems including superoxide dismutase, catalase, and peroxidase enzymes.
 Also upregulates heat shock proteins and LEA proteins.
 
@@ -84,6 +75,6 @@ brassinosteroids as essential hormones.
 ## Effects on Fungal Growth
 
 The growth-promoting effects of epibrassinolide on fungi were documented by
-[[adam-vorbrodt]] in studies on [[psilocybe-cubensis]]
+[[psilocybe-cubensis]]
 mycelium on agar media. The effect was visible within the first few days of
 growth and persisted throughout the culture period.

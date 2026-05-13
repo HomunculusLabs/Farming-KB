@@ -20,7 +20,7 @@ sources:
 
 ## Overview
 
-**Nepenthes mirabilis**, the common or swamp pitcher plant, is the most widely distributed species in the genus *Nepenthes*. Its range extends from northern Australia through [[psilocybe-southeast-asia-pacific]] to southern China, making it the only species with a truly [[copelandia-cyanescens-pantropical-distribution-and-ecology]] within the family Nepenthaceae.
+**Nepenthes mirabilis**, the common or swamp pitcher plant, is the most widely distributed species in the genus *Nepenthes*. Its range extends from northern Australia through [[copelandia-cyanescens-pantropical-distribution-and-ecology]] within the family Nepenthaceae.
 
 The species produces distinctive pitcher traps formed from modified leaf tips. Lower pitchers are bulbous and rest on the ground, while upper pitchers are narrower, funnel-shaped, and climb via a coiling tendril.
 
@@ -44,9 +44,9 @@ Flowers are arranged in racemes, with male and female inflorescences on separate
 
 It grows in a remarkable variety of habitats, including coastal grasslands, peat swamps, disturbed roadside ditches, limestone outcrops, and lowland rainforest margins. Elevational range extends from sea level to approximately 1,500 m.
 
-The species is notably tolerant of disturbance and is frequently found in secondary growth, rice paddy margins, and urban wastelands. This ecological plasticity explains its extensive range compared to more habitat-specialist congeners.
+The species is notably tolerant of disturbance and is frequently found in secondary growth, [[duck-rice-paddy]] margins, and urban wastelands. This ecological plasticity explains its extensive range compared to more habitat-specialist congeners.
 
-In northern Australia, populations occur in seasonally inundated melaleuca swamps and open heathland. In Southeast Asia, the species is common along road cuts and drainage ditches where constant moisture and acidic substrates persist.
+In northern Australia, populations occur in seasonally inundated melaleuca swamps and open heathland. In [[guzman-thailand-southeast-asia-psychoactive-fungi-distribution]], the species is common along road cuts and drainage ditches where constant moisture and acidic substrates persist.
 
 ## Carnivorous Mechanism
 
@@ -62,11 +62,7 @@ Recent research has identified mutualistic relationships between *N. mirabilis* 
 
 ## Ethnobotany and Ecology
 
-**Nepenthes mirabilis** has limited recorded ethnobotanical use. In parts of Southeast Asia, the fluid from unopened pitchers has been used as a traditional remedy for eye irritation and [[cannabis-for-skin-conditions-detailed]], though this practice is not widespread.
-
-The species plays a role in its native ecosystems beyond nutrient acquisition. Pitchers serve as microhabitats for a diverse community of aquatic organisms including protozoa, rotifers, dipteran larvae, and occasionally crab spiders that ambush visiting insects.
-
-In disturbed habitats, *N. mirabilis* often acts as a pioneer species, colonizing open, nutrient-poor sites where competition from other plants is reduced. Its rapid growth and prolific [[cervantes-seed-production-storage]] facilitate this ecological strategy.
+**Nepenthes mirabilis** has limited recorded ethnobotanical use. In parts of Southeast Asia, the fluid from unopened pitchers has been used as a traditional remedy for eye irritation and [[cervantes-seed-production-storage]] facilitate this ecological strategy.
 
 The species is not currently considered threatened due to its enormous range and tolerance of human-modified landscapes. However, local populations in Southeast Asia face pressure from agricultural drainage and peatland conversion.
 
@@ -74,9 +70,9 @@ The species is not currently considered threatened due to its enormous range and
 
 **Nepenthes mirabilis** produces naphthoquinones, including plumbagin, which are also found in the Droseraceae. These compounds contribute to the antimicrobial environment within the pitcher fluid and may inhibit decomposition of captured prey.
 
-The pitcher fluid contains a suite of hydrolytic enzymes. Proteases (including aspartic and cysteine proteases) are the primary digestive agents, breaking down insect protein into absorbable amino acids and peptides.
+The pitcher fluid contains a suite of hydrolytic enzymes. Proteases (including aspartic and cysteine proteases) are the primary digestive agents, breaking down [[black-soldier-fly-farming-and-insect-protein]] into absorbable amino acids and peptides.
 
-Chitinases degrade the exoskeletal chitin of arthropod prey. Phosphatases release phosphate from organic molecules, and RNases and DNases break down nucleic acids. The enzyme cocktail varies with pitcher age and prey composition.
+Chitinases degrade the exoskeletal chitin of arthropod prey. Phosphatases release phosphate from organic molecules, and RNases and DNases [[query-can-fungi-break-down-plastic-pollution]] nucleic acids. The enzyme cocktail varies with pitcher age and prey composition.
 
 [[antifungal-secondary-metabolites-coprophilous-fungi]] identified from *N. mirabilis* include flavonoids, phenolic acids, and terpenoids. These compounds may serve defensive roles, protecting the pitcher tissue from fungal colonization and bacterial overgrowth.
 

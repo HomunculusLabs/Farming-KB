@@ -16,28 +16,10 @@ sources:
 type: concept
 ---
 
-# [[sphaerobolus-stellatus]] is a gasteromycete fungus that grows on wood mulch and
-dung, and has earned its common name, the artillery fungus, through a
-remarkable [[bloomfield-fungal-spore-discharge-and-dispersal]] mechanism. It shoots a black ball of spores
-from a [[bloomfield-asterophora-and-mycoparasites-of-fruiting-bodies]] shaped
-like tiny cups containing egg-like packets of spores. Raindrops falling
-into the cups splash the spore packets outward, and they are carried by
-animals as they pass through their digestive systems, later deposited
-in warm manure. Like bird's [[bloomfield-birds-nest-fungi-peridiole-splash-herbivore-dispersal]], [[sphaerobolus-stellatus]] begins as a small spherical
-structure, roughly the size of a pinhead, that develops on decaying
-wood or herbivore dung. Inside, ballistospore-discharge-mechanism-mushrooms mechanisms in other basidiomycetes, but
-concentrated into a single explosive event rather than the continuous
-stream of spore release seen in gilled mushrooms.
-
-## Ballistospore Discharge: A Universal Fungal Mechanism
-
-The discharge mechanism of [[sphaerobolus-stellatus]] performs an important
+# [[bloomfield-fungal-spore-discharge-and-dispersal]] mechanism. It shoots a black ball of spores
+from a [[bloomfield-birds-nest-fungi-peridiole-splash-herbivore-dispersal]], [[sphaerobolus-stellatus]] performs an important
 ecological role by dispersing spores onto vegetation where they can be
-ingested by herbivores. The [[fukuoka-textdoc-sawdust-wood-chips-orchard-soil-acidification-experiment]] tureland.
-
-In suburban and urban settings, however, the fungus has become a
-significant nuisance. Mulched flower beds provide ideal growing
-conditions, and the artillery fungus readily colonizes [[fukuoka-textdoc-sawdust-wood-chips-orchard-soil-acidification-experiment]].
+ingested by herbivores. The [[fukuoka-textdoc-sawdust-wood-chips-orchard-soil-acidification-experiment]].
 Homeowners who park cars near mulched areas may find their vehicles
 speckled with tiny black spots that are nearly impossible to remove
 without damaging the paint. The spore masses are adhesive and
@@ -45,24 +27,7 @@ water-resistant, making them exceptionally persistent once attached to
 surfaces. The problem is compounded by the fact that Sphaerobolus can
 shoot its spore masses distances of several meters, giving it an
 effective ra ballistospore-discharge-mechanism-mushrooms
-- [[bloomfield-fungal-reproduction-and-chemical-communication]]
-## Practical Considerations
-
-When working with Sphaerobolus, the Artillery Fungus, and Spore Launch, several practical factors should be
-carefully considered to achieve optimal results. These include
-the specific conditions of the implementation context, available
-resources, timing requirements, and the interactions between this
-topic and other elements of the broader system. A holistic view
-that considers these interconnections produces better outcomes.
-
-Environmental conditions such as temperature, moisture, and
-seasonal patterns significantly influence results. Monitoring these
-variables and adapting practices accordingly is essential for success.
-The most effective practitioners develop keen observation skills and
-respond flexibly to changing conditions rather than following rigid
-protocols regardless of circumstances or local variation.
-
-[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
+- [[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -111,8 +76,6 @@ through generations to modern scientific approaches, the evolution continues
 to inform current best practices and research directions.
 
 ## See Also
-- [[spore]]
 - [[doc]]
-- [[artillery-fungus-and-built-environment-fungi]]
 - [[bloomfield-buller-drops-and-surface-tension-spore-catapult-mechanism]]
 - [[bloomfield-buller-spore-velocity-stokes-law-experiments]]

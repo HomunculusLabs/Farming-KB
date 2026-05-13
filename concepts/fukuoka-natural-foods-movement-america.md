@@ -11,25 +11,13 @@ sources:
 
 # The Natural Foods Movement in America
 
-In *The Road Back to Nature*, [[fukuoka-change-come-over-westerners]].
-
-## Key Figures: Kushi and Aihara
-
-The modern macrobiotic movement was founded in Japan by George Ohsawa. Today, his students work throughout the world to spread natural diet. Fukuoka identifies the two leaders of the macrobiotics|health-through-macrobiotics movement in America:
-
-- **Michio Kushi** in Boston — coined the term "natural foods" in the 1960s to distinguish whole, unprocessed food from "health food" (vitamins and dietary supplements)
-- **Herman Aihara** in California — leader of the macrobiotic movement on the West Coast
-- It was through their good graces that Fukuoka was able to tour America in 1979
-
-## The Erewhon Story
-
-Kushi's company, Erewhon, popularized organically grown grains, beans, vegetables, fruits, seaweeds, tofu, and tempeh throughout [[psilocybin-north-america-pacific-northwest]]. Fukuoka was astonished to see natural foods like miso, soy sauce, and brown rice being exported from large plants and warehouses to the entire world.
+In *The Road Back to Nature*, [[psilocybin-north-america-pacific-northwest]]. Fukuoka was astonished to see natural foods like miso, soy sauce, and brown rice being exported from large plants and warehouses to the entire world.
 
 Kushi and his family went through times of hardship. His wife Aveline described their early struggles: "Fifteen years ago, I and three of the children were packing miso into bags for sale in a tiny room."
 
-By 1981, after natural foods spread [[fungi-around-the-world-species-distribution]], the Kushis shifted from food production to education. Claiming that conventional schools are inadequate, Kushi began working to establish an international college based on [[four-principles-of-natural-farming]] order. He established institutes in several countries teaching macrobiotic cooking, philosophy, and medicine, as well as spiritual development and the reconstruction of society in a more peaceful direction.
+By 1981, after natural foods spread [[four-principles-of-natural-farming]] order. He established institutes in several countries teaching macrobiotic cooking, philosophy, and medicine, as well as spiritual development and the reconstruction of society in a more peaceful direction.
 
-Kushi also offered Fukuoka 550 acres in Ashburnham, Massachusetts, asking him to do as he pleased with the land, which was covered with mixed woods — an opportunity Fukuoka saw for [[comparison-natural-farming-vs-permaculture]] and [[fukuoka-agricultural-pollution-and-consumer-culpability]]
+Kushi also offered Fukuoka 550 acres in Ashburnham, Massachusetts, asking him to do as he pleased with the land, which was covered with mixed woods — an opportunity Fukuoka saw for [[fukuoka-agricultural-pollution-and-consumer-culpability]]
 - Although natural foods are enjoying a boom in Japan, this "can't begin to compare with the scope of the movement in America"
 
 ## The Irony of Re-Import
@@ -59,23 +47,9 @@ He observed that European cooking, with its reliance on nutritional science, was
 
 ## Herman Aihara's Visit
 
-Herman Aihara visited Fukuoka's farm with about twenty students during a tour to study the state of natural diet in Japan. His followers were not impressed with food at a first-class Japanese restaurant. But the next morning at Fukuoka's orchard, when he served a simple gruel of brown rice with wild greens in improvised bamboo cups, eaten sitting on the [[fukuoka-natural-farming-philosophy-of-mu]] in the Milan area of Italy was especially prized, while scientifically grown rice was regarded as second-rate food.
+Herman Aihara visited Fukuoka's farm with about twenty students during a tour to study the state of natural diet in Japan. His followers were not impressed with food at a first-class Japanese restaurant. But the next morning at Fukuoka's orchard, when he served a simple gruel of brown rice with wild greens in improvised bamboo cups, eaten sitting on the [[query-how-to-grow-shiitake-mushrooms-on-logs]] on sugar maple wood, for example — they "could become even richer than the Kushis." They broke out in laughter, which Fukuoka took as evidence that Americans had not yet grasped the potential of working with nature rather than against it.
 
-## The Western Dietary Crisis
-
-Fukuoka placed the natural foods movement in the context of a deeper civilizational crisis. Up until then, Westerners had eaten almost exclusively meat and dairy products. With concern over cholesterol levels, cancer, and obesity, their physique may have improved, but "the people themselves have become odd. And that in turn has made the entire culture a bit strange."
-
-Having noticed the danger to civilization and the disruption of their own body and mind, people in the West began to have second thoughts. They realized that the illness afflicting their body and mind originated in their diet. After deliberating, the solution they hit upon was an Oriental natural diet — which was "nothing special." The traditional Japanese diet would have done just fine.
-
-## The Fukuoka Difference: Farming, Not Just Food
-
-Fukuoka distinguished his own approach from the macrobiotic movement in an important way. While Kushi and Aihara focused on diet and food distribution, Fukuoka's concern extended to how food was grown. He told the people at Erewhon that if they worked with the mixed woods on Kushi's 550 acres in Massachusetts — growing [[query-how-to-grow-shiitake-mushrooms-on-logs]] on sugar maple wood, for example — they "could become even richer than the Kushis." They broke out in laughter, which Fukuoka took as evidence that Americans had not yet grasped the potential of working with nature rather than against it.
-
-This distinction reflects Fukuoka's broader teaching that [[fukuoka-change-come-over-westerners]].
-
-See also: [[fukuoka-change-come-over-westerners]], [[fukuoka-japanese-diet-worse]], [[fukuoka-food-and-human-health]], [[fukuoka-natural-farming-global-influence]] By the time Fukuoka toured America in 1979, Ohsawa's students were working throughout the world to spread natural diet.
-## Merged: Fukuoka's Natural Food Movement Critique
-**Source:** [[fukuoka-natural-food-philosophy]] - [[fukuoka-road-back-to-nature-overview]] - [[fukuoka-road-to-natural-farming]] Ohsawa's influence spread through his disciples, particularly Michio Kushi in Boston and Herman Aihara in California.
+This distinction reflects Fukuoka's broader teaching that [[fukuoka-change-come-over-westerners]], [[fukuoka-food-and-human-health]], [[fukuoka-natural-food-philosophy]] - [[fukuoka-road-to-natural-farming]] Ohsawa's influence spread through his disciples, particularly Michio Kushi in Boston and Herman Aihara in California.
 ## Practical Considerations
 
 Successful implementation of Fukuoka — Natural Foods Movement in America requires attention to
@@ -117,8 +91,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[natural-diet]]
 - [[psilocybin]]
-- [[dom]]
 - [[permaculture]]
 - [[macrobiotics]]

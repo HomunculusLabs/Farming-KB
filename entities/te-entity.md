@@ -9,13 +9,7 @@ sources:
 ---
 # TE
 
-TE (4-Thioescaline; 3,5-Dimethoxy-4-ethylthiophenethylamine) is a psychedelic phenethylamine and the sulfur-containing analogue of [[escaline-entity]]|escaline.
-
-It is documented as entry #151 in PiHKAL by [[buscaline-entity]]|buscaline: the butoxy analogue
-- [[phenethylamine-pharmacology]]: general pharmacology
-
-## Related
-
+TE (4-Thioescaline; 3,5-Dimethoxy-4-ethylthiophenethylamine) is a psychedelic phenethylamine and the sulfur-containing analogue of [[buscaline-entity]]|buscaline: the butoxy analogue
 - [[3-te-entity]]
 ## Background and Context
 

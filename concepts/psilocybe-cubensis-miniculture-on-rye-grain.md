@@ -21,23 +21,16 @@ type: concept
 # Psilocybe Cubensis Miniculture on Rye Grain
 
 The miniculture technique developed by Bigwood and Beug (1982) is a
-compact, controlled method for cultivating [[agaricus-bisporus|Agaricus bisporus]], the common
-[[growing-gourmet-button-mushroom-agaricus-cultivation]]. Oss and Oeric (1976) refined the rye-grain approach
-specifically for psilocybin [[accessible-mushroom-cultivation-for-disabilities]] in their Psilocybin
-[[australian-magic-mushroom-common-names]] Grower's Guide. Bigwood and Beug further miniaturized
+compact, controlled method for cultivating [[growing-gourmet-button-mushroom-agaricus-cultivation]]. Oss and Oeric (1976) refined the rye-grain approach
+specifically for psilocybin [[australian-magic-mushroom-common-names]] Grower's Guide. Bigwood and Beug further miniaturized
 the method for their analytical research purposes, reducing the scale
 to half-pint jars to allow replication across many experimental
 conditions while maintaining the controlled environment necessary for
 meaningful alkaloid comparisons.
 
-Their goal was to produce sufficient [[comparison-fruiting-body-vs-mycelium-extracts-medicinal-mushrooms]] material for
-[[miniculture-rye-grain-cultivation-method-for-psilocybe-cubensis]]
-
-- [[psilocybe-cubensis-miniculture-method]] Concepts
+Their goal was to produce sufficient [[miniculture-rye-grain-cultivation-method-for-psilocybe-cubensis]]
 
 - [[grain-spawn-generation]] for grain spawn at commercial scale
-- [[cap-versus-stem-alkaloid-distribution-in-psilocybin-mushrooms]] for
-  findings from miniculture-grown specimens
 - [[mushroom-casing-layers]] for detailed casing material information
 ## Practical Considerations
 

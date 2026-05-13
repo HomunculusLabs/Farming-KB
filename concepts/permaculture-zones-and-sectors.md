@@ -1,5 +1,5 @@
 ---
-title: Permaculture Zones And Sectors
+title: Permaculture Zones and Sectors
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
@@ -9,7 +9,7 @@ sources: []
 
 # Permaculture Zones and Sectors
 
-Permaculture zones and sectors are the foundational spatial planning tools of permaculture design. Zones organize elements by frequency of human use and maintenance needs. Sectors map external energies (sun, wind, fire, water, wildlife) flowing through a site. Together they enable efficient, resilient landscape design that minimizes energy input while maximizing yield.
+[[permaculture-zones]] and sectors are the foundational spatial planning tools of permaculture design. Zones organize elements by frequency of human use and maintenance needs. Sectors map external energies (sun, wind, fire, water, wildlife) flowing through a site. Together they enable efficient, resilient landscape design that minimizes energy input while maximizing yield.
 
 ## Zone Analysis
 
@@ -33,7 +33,7 @@ Zone 0 design focuses on energy efficiency, thermal comfort, and integrating gro
 Immediately surrounding the home, visited daily. Contains high-maintenance, high-yield elements:
 
 - Annual vegetable beds
-- Salad gardens [[holzer-medicinal-and-culinary-herbs-compendium]]
+- Salad gardens and culinary herbs
 - Seedling nursery and propagation area
 - Small greenhouse or cold frame
 - Compost bins (close for kitchen scrap delivery)
@@ -51,7 +51,7 @@ Visited every few days. Lower maintenance than Zone 1 but still actively managed
 - Berry patches (raspberries, blackberries, strawberries)
 - Perennial vegetables (asparagus, rhubarb, artichokes)
 - Larger composting systems
-- [[poultry-housing-guide]] and forage areas
+- Poultry housing and forage areas
 - Pond or small water feature
 - Guild plantings around fruit trees
 - Beehives
@@ -79,7 +79,7 @@ Visited occasionally for foraging and observation. Semi-wild productive landscap
 - Foraging for wild mushrooms, nuts, berries
 - Timber and firewood production
 - Hunting and fishing zones
-- [[permaculture-designers-manual-wildlife-corridors]]
+- Wildlife corridors
 - Seed collection from wild plants
 - Minimal intervention — observe and harvest only
 

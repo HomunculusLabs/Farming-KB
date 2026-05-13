@@ -9,19 +9,17 @@ sources:
 ---
 # Organic Propagation Methods
 
-Plant propagation is the process of creating new plants from existing ones. Understanding propagation methods allows gardeners to multiply plants for free, preserve [[cannabis-landrace-and-heirloom-varieties]], and fill their gardens without purchasing [[fukuoka-natural-seedlings-versus-grafted-nursery-stock]].
+Plant propagation is the process of creating new plants from existing ones. Understanding propagation methods allows gardeners to multiply plants for free, preserve [[fukuoka-natural-seedlings-versus-grafted-nursery-stock]].
 
 ## Seed Sowing
 
 ### Direct Sowing Outdoors
-- Best for: [[growing-root-vegetables-guide]] (carrots, parsnips, radishes), peas, beans, corn, squash
-- Advantages: No [[query-how-to-prevent-transplant-shock-when-moving-cannabis-plants]], less equipment needed
+- Best for: [[query-how-to-prevent-transplant-shock-when-moving-cannabis-plants]], less equipment needed
 - Timing: After last frost for tender crops; as soon as soil is workable for hardy crops
 
 ### Indoor Sowing (Module/Tray Method)
 - Best for: tomatoes, peppers, aubergines, brassicas, leeks, onions
-- Advantages: Earlier start, [[query-how-do-i-stratify-and-scarify-seeds-for-better-germination]] conditions, protection from pests
-- Equipment: Seed trays, modules, seed compost, heat mat (optional), [[cmh-grow-lights]]
+- Advantages: Earlier start, [[cmh-grow-lights]]
 - Sowing depth: Generally 2x seed diameter; very fine seeds on surface (light needed)
 - Pricking out: When seedlings have 2 true leaves, transplant to individual modules
 
@@ -81,10 +79,5 @@ Plant propagation is the process of creating new plants from existing ones. Unde
 ### Air Layering
 - Make an upward cut in a stem, apply rooting hormone, wrap with moist sphagnum moss and plastic
 - New roots form inside the wrap
-- Best for: difficult-to-root [[nitrogen-fixing-trees-and-shrubs]] (magnolia, citrus, rubber plant)
-
-## Grafting
-
-### Purpose
-- Combine rootstock (disease-resistant, adapted to soil) with scion (desired [[old-fruit-variety-selection]])
+- Best for: difficult-to-root [[old-fruit-variety-selection]])
 - Essential for: most [[comparison-grafting-vs-budding-fruit-trees]], roses, grapes

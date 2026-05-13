@@ -108,13 +108,8 @@ The species complex provides important cover for amphibians and small fish durin
 
 ## See Also
 
-- [[iris-ensata]]
 - [[iris-versicolor]]
-- [[iris-sibirica]]
 - [[iris-germanica]]
-- [[iris-pseudacorus]]
 - [[iris-cristata]]
-- [[crocosmia-lucifer]]
 - [[tigridia-pavonia]]
-- [[iris-foetidissima]]
 - [[dierama-pulcherrimum]]

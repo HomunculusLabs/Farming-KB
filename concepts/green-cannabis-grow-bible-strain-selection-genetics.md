@@ -10,8 +10,7 @@ tags: [cannabis]
 
 # Strain Selection and Genetics
 
-Greg Green's [[green-cannabis-grow-bible-breeding-genetics-and-true-breeding]] (4th edition) provides foundational
-guidance on selecting [[cannabis-microbiome-otu-abundance-vs-presence-cannabis-strains]] based on species, genetics, and
+Greg Green's [[cannabis-microbiome-otu-abundance-vs-presence-cannabis-strains]] based on species, genetics, and
 desired effects.
 
 ## The Three Cannabis Species
@@ -53,21 +52,7 @@ The type of high is determined by species ratio:
 - Slight Indica cross = 60% body stone, 40% head high
 - Slight Sativa cross = 60% head high, 40% body stone
 
-[[cannabis-harvest-timing-visual-cues]] also influences the high. Later harvests produce more
-couch-lock; harvesting just before peak induces a cerebral high.
-
-## THC Levels vs. Quantities
-
-Green distinguishes between THC levels (genetic, fixed) and THC
-quantities (controlled by the grower through bud mass and resin
-production). A plant may have 20% THC at level 5 under poor conditions
-but 70% THC at the same genetic level 5 under optimal conditions. Seed
-bank THC claims should be treated with skepticism as breeders often
-exaggerate.
-
-## Selecting a Strain
-
-Key considerations when [[solomon-choosing-seeds-and-catalogs]]:
+[[solomon-choosing-seeds-and-catalogs]]:
 
 1. Match the strain to your grow environment (indoor vs. outdoor as
    intended by the breeder)
@@ -75,14 +60,7 @@ Key considerations when [[solomon-choosing-seeds-and-catalogs]]:
    exceed 8 feet
 3. You can shorten height through pruning but rarely double it if
    genetics limit growth to 2-3 feet
-4. Bud production equals [[cannabis-growing-environment-setup]] plus genetic makeup plus
-   node count, not plant height alone
-5. Avoid GM hemp strains engineered for zero THC -- they will not
-   produce a psychoactive effect
-
-## Choosing a Seed Bank
-
-Green recommends verifying [[cannabis-seed-banks-and-genetics]] through community review sites,
+4. Bud production equals [[cannabis-seed-banks-and-genetics]] through community review sites,
 checking that they communicate promptly, and ensuring good packaging.
 Prices range from $80-$300 for 10-16 seeds. The best source of seeds is
 a friend who has grown a strain you already enjoy.
@@ -118,8 +96,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[greg-green]]
 - [[green-cannabis-grow-bible-breeding-genetics-and-true-breeding]]
-- [[green-cannabis-grow-bible-seed-selection-and-seed-banks]]
 - [[det]]
 - [[green-cannabis-grow-bible-cloning-and-seed-propagation]]

@@ -10,14 +10,14 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - "raw/papers/psilocybin-mushrooms-of-the-world-stamets.md"
-  - [[growing-gourmet-abalone-oyster-cystidiosus-cultivation]] and comparison-chaga-vs-turkey-tail-medicinal-mushrooms-comprehensive, [[paul-stamets]], 1993, Chapter 13
+  - paul-stamets, 1993, Chapter 13
 type: concept
 created: 2026-04-28
 ---
 
 # Mushroom Culture Slant Preservation and Cryogenic Storage
 
-Every [[dikaryon-formation-mushroom-strain-genetics]] is certain to die out eventually, making the [[growing-gourmet-stamets-p-value-strain-age-system]] of each slant to know its generational age
+Every [[growing-gourmet-stamets-p-value-strain-age-system]] of each slant to know its generational age
 5. Use the oldest slants first for working cultures, preserving the youngest for archival purposes
 6. For tropical species like Volvariella, avoid standard refrigeration and use specialized warm-storage protocols
 7. Inspect stored slants visually every 3 to 6 months for signs of contamination or desiccation
@@ -25,29 +25,9 @@ Every [[dikaryon-formation-mushroom-strain-genetics]] is certain to die out even
 
 ## Related Concepts
 
-- [[growing-gourmet-stamets-p-value-strain-age-system]]
-- Grain [[mushroom-spawn-generation-limits]]
-- [[growing-gourmet-spore-germination-strain-isolation]]
-- Agar [[agar-culture-techniques-detailed]]
-- Nutrified [[growing-gourmet-agar-media-formulas-preparation]] Formulas and Preparation
-## Practical Applications
-
-Mushroom Culture Slant Preservation and Cryogenic Storage has a range of practical applications that make it relevant to
-both researchers and practitioners. Understanding these applications
-requires familiarity with the underlying principles and their
-manifestation in real-world contexts. The breadth of applications
-reflects the fundamental importance of this topic across disciplines.
-
-Implementation varies based on scale, available resources, and
-specific objectives. Small-scale applications may be relatively
-straightforward, while larger implementations require more careful
-planning and coordination. Adaptation to local conditions is always
-essential for achieving optimal results regardless of scale.
-
-Documented case studies provide valuable reference points, though
-each situation presents unique combinations of opportunities and
-constraints that require context-specific solutions. The most
-successful implementations combine established [[arbuscular-mycorrhizal-inoculum-production-best-practices]] with
+- [[mushroom-spawn-generation-limits]]
+- [[agar-culture-techniques-detailed]]
+- Nutrified [[arbuscular-mycorrhizal-inoculum-production-best-practices]] with
 creative adaptation to local conditions and emerging challenges.
 
 ## Key Considerations
@@ -96,8 +76,6 @@ through generations to modern scientific approaches, the evolution continues
 to inform current best practices and research directions.
 
 ## See Also
-- [[doc]]
 - [[det]]
-- [[spore]]
 - [[mycorrhiza]]
 - [[growing-gourmet-stock-culture-library-strain-preservation]]

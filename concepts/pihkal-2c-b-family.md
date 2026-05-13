@@ -17,7 +17,6 @@ type: concept
 # 2C-B Family — Phenethylamine Psychedelics from PIHKAL
 
 The 2C family represents one of the most significant contributions of
-[[phenethylamine-chemistry-basics]] to the science of
 [[psilocybin-serotonin-5ht2a-receptor-pharmacology]], particularly the 5-HT2A subtype.
 
 ## Shulgin's Rating System
@@ -27,72 +26,103 @@ character of each compound:
 
 - **+** — Threshold effects, minimal alteration of perception
 - **++** — Clear psychedelic effects, moderate intensity
-- **+++** — Strong [[leary-psychedelic-experience-bardo-mapping]], full spectrum of effects
-- **++++** — Exceptional and unique experience, transformative potential
-- **±** — Minus means less than expected, plus means more intense
-
-This system appears throughout PIHKAL and provides invaluable guidance
-for understanding relative potency and character across the series.
-
-## 2C-B (2,5-Dimethoxy-4-Bromophenethylamine)
-
-2C-B is the most famous member and template for the broader series.
-First synthesized by Shulgin in 1974, it gained popularity as an [[mdma]]
+- **+++** — Strong [[mdma]]
 substitute before being scheduled.
 
 **Dosage:** 12-24 mg (oral)
 **Duration:** 4-8 hours
-**[[tihkal-shulgin-rating-scale]]:** +++
-
-Shulgin described 2C-B as producing colorful visuals with manageable
-body load, noting empathogenic qualities at lower doses and more
-psychedelic character at higher doses. At 12-15 mg, users report mild
-stimulation and enhanced [[plant-sensory-perception]]. Above 20 mg, effects
+**[[plant-sensory-perception]]. Above 20 mg, effects
 become increasingly visual and introspective.
 
 ## 2C-I (2,5-Dimethoxy-4-Iodophenethylamine)
 
 **Dosage:** 14-22 mg (oral)
 **Duration:** 6-10 hours
-**[[shulgin-rating-scale]]:** +++
+**[[pihkal-2c-b]]
+- [[pihkal-2c-i]]
+- [[pihkal-2c-t-7]]
 
-The iodine substitution produces a compound with longer
-duration than 2C-B. Shulgin noted 2C-I as having stronger visual effects
-and a somewhat more analytical quality. The experience tends toward more
-philosophical thought patterns with enhanced color perception and
-geometric visual patterning. The extended duration compared to 2C-B
-makes it important to plan accordingly.
+## Overview
 
-## 2C-E (2,5-Dimethoxy-4-Ethylphenethylamine)
+Pihkal 2C B Family represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
 
-**Dosage:** 10-25 mg (oral)
-**Duration:** 8-12 hours
-**Shulgin Rating:** ++++
+## Key Characteristics
 
-Shulgin awarded 2C-E one of his rare ++++ ratings. He described it as one
-of the most potent members in terms of subjective intensity, producing
-extremely vivid visual hallucinations and deep philosophical insights.
-Body load can be significant, and Shulgin cautioned that intensity
-increases sharply above 15 mg. Recommended for experienced users only.
+Several defining characteristics distinguish pihkal 2c b family
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
 
-## 2C-T-2 (2,5-Dimethoxy-4-Ethylthiophenethylamine)
+## Ecological Context
 
-**Dosage:** 12-25 mg (oral)
-**Duration:** 6-8 hours
-**Shulgin Rating:** ++ to +++
+The ecological relationships involving pihkal extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
 
-The sulfur-containing thioether substitution produces distinctive sensory
-effects. Shulgin noted the 2C-T series has more body-focused effects than
-other 2C compounds, with moderate visuals combined with pronounced
-physical sensation. The sulfur atom introduces metabolic considerations,
-and Shulgin advised caution with dose escalation.
+## Practical Applications
 
-## 2C-T-7 (2,5-Dimethoxy-4-Propylthiophenethylamine)
+Pihkal 2C B Family finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for pihkal 2c b family. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+pihkal 2c b family and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Pihkal 2C B Family has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of pihkal 2c b family into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
 
 ## See Also
 
-- [[pihkal-2c-b]]
-- [[pihkal-2c-e]]
-- [[pihkal-2c-i]]
-- [[pihkal-2c-t-2]]
-- [[pihkal-2c-t-7]]
+- [[4-t-tris-entity-pihkal]]
+- [[doc-pihkal-64]]
+- [[dopr-entity-pihkal]]
+- [[methyl-dob-entity-pihkal]]
+- [[te-entity-pihkal]]

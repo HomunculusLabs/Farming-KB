@@ -6,14 +6,7 @@ type: concept
 tags: [permaculture, design]
 sources: [/Users/t3rpz/wiki/raw/papers/a-guide-to-home-scale-permaculture-gaias-garden-a-guide-to-home-scale-permacultu.md]
 ---
-# Permaculture Plant Propagation Guide Propagation is the foundation of establishing [[query-what-are-the-best-nut-trees-for-a-permaculture-food-forest]].
-
-## Cutting Propagation
-
-Many species grow from cuttings. Root hormone can be purchased or derived naturally from willows.
-
-### Willow Water Rooting Hormone
-Willow cuttings contain natural [[cervantes-rooting-hormones-cloning]] that surpass commercial rooting powders:
+# Permaculture Plant Propagation Guide Propagation is the foundation of establishing [[cervantes-rooting-hormones-cloning]] that surpass commercial rooting powders:
 1. Place willow cuttings in a bucket of water
 2. After ~1 week, roots develop and hormones leach into water
 3. Soak cuttings from other plants in this water overnight
@@ -74,9 +67,7 @@ Used to propagate select plant material onto hardy rootstock. Common for:
 
 ## See Also
 
-- [[permaculture-difficult-sites-plant-guide]] strategy and you know what plants you want, you can begin arranging them into communities, sometimes called guilds. These communities are a way of organizing plants around a central element based on [[comparison-companion-planting-reference-vs-jadam-monoculture-critique]] (choosing plants that grow best together) and growing tendencies. - [[garden-care-and-succession-planting]] --- Updated: 2026-04-18 Source: The Ultimate Guide to Natural Farming and Sustainable Living Plant communities develop through [[holmgren-ecological-succession-and-pulsing]] — the predictable process of community change following disturbance. No-till practices accelerate succession by maintaining soil structure and microbial communities. Compared to monocultures, well-designed polycultures offer: - **Increased yield per unit area** — species occupy different niches (root depth, light requirements, nutrient needs) - **Pest resistance** — diversity disrupts pest cycles and provides habitat for [[comparison-beneficial-insects-guide-vs-integrated-pest-management]] - **Nutrient efficiency** — deep-rooted plants access leached nutrients and bring them to the surface - **[[mollison-designers-microclimate-creation-frost-protection]]** — varying heights create wind protection, shade, and humidity zones - **Resilience** — if one crop fails, others compensate [Plant guilds are polycultures designed around a central element (usually a fruit tree). Related: [[permaculture-farm-design-principles]]
-
-For further reading, see [[permaculture-macadamia]].
+- [[comparison-companion-planting-reference-vs-jadam-monoculture-critique]] (choosing plants that grow best together) and growing tendencies. - [[holmgren-ecological-succession-and-pulsing]] — the predictable process of community change following disturbance. No-till practices accelerate succession by maintaining soil structure and microbial communities. Compared to monocultures, well-designed polycultures offer: - **Increased yield per unit area** — species occupy different niches (root depth, light requirements, nutrient needs) - **Pest resistance** — diversity disrupts pest cycles and provides habitat for [[mollison-designers-microclimate-creation-frost-protection]]** — varying heights create wind protection, shade, and humidity zones - **Resilience** — if one crop fails, others compensate [Plant guilds are polycultures designed around a central element (usually a fruit tree). Related: [[permaculture-macadamia]].
 
 ## Historical Context
 - These approaches have evolved through decades of research and practical application.

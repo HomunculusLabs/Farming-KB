@@ -33,15 +33,7 @@ The principal reason DMT must be administered parenterally is its rapid and effi
 - **Oxidation to the N-oxide**
 - **Cyclization to beta-carbolines** (with and without N-methyl groups)
 - **N-dealkylation** to N-methyltryptamine (NMT) and simple tryptamine
-- **Oxidative destruction by monoamine oxidase (MAO)** to inactive indoleacetic acid (the [[primary-metabolic-precursors-to-the-shikimate-pathway]] pathway)
-- **Biochemical conversion to N,N-dimethylkynuramine (DMK)** via indole-2-carbon removal (parallel to tryptophan-to-kynurenine pathway)
-
-## Clinical Findings
-
-Recent FDA-approved studies in New Mexico (using the fumarate salt) demonstrated:
-- **0.05 mg/Kg (approx. 4 mg i.v.)**: Indistinguishable from placebo
-- **8 mg**: Physical effects without mental effects
-- **15 mg** (threshold [[psychedelic-dose-response]]): Nearly all subjects had visual hallucinations; auditory changes were rare
+- **Oxidative destruction by monoamine oxidase (MAO)** to inactive indoleacetic acid (the [[psychedelic-dose-response]]): Nearly all subjects had visual hallucinations; auditory changes were rare
 - **30 mg**: Effects overwhelming in both speed and intensity
 
 Repeated administrations of 16 mg i.v. at half-hour intervals showed **no development of tolerance**.
@@ -57,8 +49,7 @@ As an endogenous psychotogen candidate, DMT does not produce tolerance upon repe
 ## Natural Sources
 
 DMT is extraordinarily widespread in nature:
-- **Piptadenia peregrina** and **P. macrocarpa**: Beans and pods ([[cohoba-snuff]])
-- **[[entheogen-jurema-mimosa-hostilis-ethnobotany]]**: Roots (jumera/vinho de jurema drink)
+- **Piptadenia peregrina** and **P. macrocarpa**: Beans and pods ([[entheogen-jurema-mimosa-hostilis-ethnobotany]]**: Roots (jumera/vinho de jurema drink)
 - **Phalaris** species (reed canarygrass): Pasture grasses
 - **Acacia** species: Africa and Australia
 - **Virola** species: Amazon basin snuffs (yakee, yato, parica, epena, nyakwana)

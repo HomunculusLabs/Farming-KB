@@ -15,7 +15,7 @@ sources:
 type: concept
 ---
 
-# Poultry Forage Systems in [[bill-mollison]]'s [[morus-alba]]) as equal to a double
+# Poultry Forage Systems in [[morus-alba]]) as equal to a double
 crop of grain for chicken forage, at 17% protein. The mulberry crop
 provides excellent food during bearing and beyond, because chickens
 continue eating fallen seed long after fruit is gone. Key points:
@@ -24,19 +24,7 @@ continue eating fallen seed long after fruit is gone. Key points:
   the following year
 - Two or three varieties extend the harvest season considerably
 - Mulberry can completely fill a forage area in one year from cuttings
-- The [[dmt-containing-plants-united-states-halpern]] has some of the world's best black mulberries
-
-## Seasonal Forage Strategies
-
-The PDC outlines seasonal strategies for year-round feed without grain:
-
-**Winter forage:** Hawthorn and mountain ash provide important winter
-food. During summer drought, the design shifts to greens such as
-comfrey, cleavers, and chard. Some gardeners grow more chard for their
-chickens than for themselves. "Throw-over" plants and weeds supplement
-the system.
-
-**[[comparison-jerusalem-artichoke-vs-potato]]** is recommended as poultry forage, providing
+- The [[comparison-jerusalem-artichoke-vs-potato]]** is recommended as poultry forage, providing
 tubers that chickens root up. On a half-acre, Mollison calculates
 5,000 pounds of chicken forage at higher protein value than wheat,
 keeping 40 chickens for a year. Chickens husk and thresh sheaves hung
@@ -60,27 +48,7 @@ They often die at roost, having laid the day before."
 ## The Chicken Orchard System
 
 The PDC describes an integrated chicken-orchard combining poultry with
-fruit [[holzer-sweet-chestnut-and-nut-trees]]:
-
-- Chinese chestnuts and hazelnuts planted in the range double and
-  quadruple nut yield
-- Chickens cut grass competition and eat windfall apples and other
-  fruits
-- A grain-fed animal keeps four chickens on just the grain in its
-  manure
-- The system creates stronger root systems than pasture alone
-
-The design creates a "biological funnel" and "nutrient vortex" where
-zone two animals enrich zone one gardens. Acorns from outer zones fed
-to chickens provide high-value manure and alkaline, calcium-rich nut
-husk mulch for zone one.
-
-## Pest Control Functions
-
-Chickens in forage systems provide significant pest control:
-
-- They eat encysted parasite eggs; road kill can be hung in runs to
-  produce [[black-soldier-fly-larvae-as-feed]] for chicken feed
+fruit [[black-soldier-fly-larvae-as-feed]] for chicken feed
 - Chickens with plums and cherries sharply reduce crawling and flying
   pests, including soil pests that re-emerge
 - Ducks are exceptional fly catchers and eat snails carrying fluke,
@@ -88,3 +56,88 @@ Chickens in forage systems provide significant pest control:
 - Insect-attracting plants bring [[black-soldier-fly-farming-and-insect-protein]] to the range
 
 ## Duck Integration
+
+## Overview
+
+Mollison Pdc Poultry Forage Systems represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish mollison pdc poultry forage systems
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving mollison extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Mollison Pdc Poultry Forage Systems finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for mollison pdc poultry forage systems. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+mollison pdc poultry forage systems and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Mollison Pdc Poultry Forage Systems has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of mollison pdc poultry forage systems into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[mentha-aquatica-mollison]]
+- [[mollison-designers-conifer-forestry-and-timber]]
+- [[mollison-designers-wickiup-and-quick-shelter-construction]]
+- [[mollison-orographic-and-forest-rainfall-effects]]
+- [[mollison-permaculture-design-course-curriculum]]

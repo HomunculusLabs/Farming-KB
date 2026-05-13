@@ -33,18 +33,18 @@ These conventions require signatory nations to criminalize the scheduled substan
 ## North America
 
 ### United States
-- **Psilocybin mushrooms**: Schedule I under the [[controlled-substances-act-and-psychedelic-research]]. However, several cities and states have deprioritized enforcement (see [[psychedelic-mushroom-decriminalization]])
-- **Peyote ([[lophophora-williamsii]])**: Schedule I, with a specific religious exemption for members of the [[halpern-sacramental-peyote-and-native-american-church]] under the American Indian Religious Freedom Act (1994 amendments)
+- **Psilocybin mushrooms**: Schedule I under the Controlled Substances Act. However, several cities and states have deprioritized enforcement (see [[psychedelic-mushroom-decriminalization]])
+- **Peyote (Lophophora williamsii)**: Schedule I, with a specific religious exemption for members of the Native American Church under the American Indian Religious Freedom Act (1994 amendments)
 - **San Pedro / Trichocereus cacti**: Legal to grow and possess as ornamental plants. Consumption for mescaline content is technically illegal, but enforcement against personal cultivation is virtually nonexistent
-- **Ayahuasca plants**: Banisteriopsis caapi is not explicitly scheduled. [[chacruna-psychotria-viridis]] is not scheduled. However, DMT is Schedule I, so preparations containing DMT are illegal. Religious exemptions exist for UDV (União do Vegetal) and Santo Daime under court rulings
+- **Ayahuasca plants**: Banisteriopsis caapi is not explicitly scheduled. Psychotria viridis is not scheduled. However, DMT is Schedule I, so preparations containing DMT are illegal. Religious exemptions exist for UDV (União do Vegetal) and Santo Daime under court rulings
 - **Salvia divinorum**: Not federally scheduled. Regulated at the state level — banned in many states but legal in others
 - **Amanita muscaria**: Legal — not a controlled substance at the federal level
 - **Iboga / Ibogaine**: Schedule I. Some states have specific ibogaine regulations
-- **[[mckenna-food-gods-peganum-harmala-soma]] (Syrian rue)**: Not scheduled. Seeds are legally available
+- **Peganum harmala (Syrian rue)**: Not scheduled. Seeds are legally available
 - **Spores**: Psilocybin mushroom spores are legal in most US states because they do not contain psilocybin or psilocin. Exceptions: California, Georgia, Idaho
 
 ### Canada
-- [[hplc-analysis-of-psilocybin-and-psilocin]]: Schedule III under the Controlled Drugs and Substances Act
+- Psilocybin and psilocin: Schedule III under the Controlled Drugs and Substances Act
 - Growing mushrooms is illegal
 - However, a growing number of exemptions have been granted for medical and therapeutic use
 - Alberta has been the most progressive province regarding psilocybin therapy
@@ -131,3 +131,11 @@ See [[psychedelic-mushroom-decriminalization]] for a detailed look at the US ref
 
 - [[psychedelic-mushroom-decriminalization]] — US decriminalization movement in detail
 - [[entheogen-vendors-and-sources]] — legal sourcing of plants and materials
+
+## See Also
+
+- [[psycholytic-vs-psychedelic-therapy-historical-models-metzner]]
+- [[sidney-cohen-oscar-janiger-hollywood-psychedelic-therapy-1960s]]
+- [[psychedelic-plants-in-ancient-cultures]]
+- [[archaeology-of-psychedelic-mushrooms]]
+- [[psychedelic-crisis-response-protocol]]

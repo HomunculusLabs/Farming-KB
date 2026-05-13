@@ -29,9 +29,9 @@ Psilocybin mushrooms are saprophytic fungi -- they obtain nutrients by decomposi
 The most characteristic habitat for many psilocybin species, particularly in tropical and subtropical regions:
 
 - **Primary species**: *Psilocybe cubensis* is the quintessential dung-inhabiting species, found on the dung of cattle, horses, and other herbivores across tropical and subtropical regions worldwide.
-- Other dung-associated species include *[[panaeolus-cyanescens-bali-omelette]]*, *P. subbalteatus*, and *P. coprophila*.
+- Other dung-associated species include *Panaeolus cyanescens*, *P. subbalteatus*, and *P. coprophila*.
 - Mushrooms typically fruit directly from dung pats or from soil heavily enriched with manure.
-- Seasonal availability depends on rainfall patterns; [[fukuoka-natural-farming-in-tropical-regions]], fruiting can occur year-round during wet periods.
+- Seasonal availability depends on rainfall patterns; in tropical regions, fruiting can occur year-round during wet periods.
 - McKenna noted that psilocybin mushrooms of the genus *Psilocybe* grow predominantly on the dung of ungulate herbivores, placing them in the ecological path of early hominids who hunted these animals.
 
 ### 2. Grasslands and Pastures
@@ -47,7 +47,7 @@ Temperate grassland habitats support some of the most widely distributed psilocy
 
 Urban and suburban environments support psilocybin mushrooms in landscaped areas:
 
-- **Primary species**: *Psilocybe cyanescens* ("wavy caps") has become naturalized worldwide in wood chip mulch used in landscaping, particularly in the [[psilocybin-north-america-pacific-northwest]] [[berry-growing]] and Western Europe.
+- **Primary species**: *Psilocybe cyanescens* ("wavy caps") has become naturalized worldwide in wood chip mulch used in landscaping, particularly in the Pacific Northwest of North America and Western Europe.
 - *Psilocybe allenii* and *P. ovoideocystidiata* also occur in mulched garden beds.
 - These species benefit from the nutrient-rich, moisture-retentive environment of hardwood bark mulch.
 - Fruiting typically occurs in autumn when temperatures drop and moisture increases.
@@ -75,7 +75,7 @@ Some psilocybin species are lignicolous (wood-decomposing):
 
 - **Primary species**: *Psilocybe subaeruginosa* (Australia) fruits on decaying hardwood logs and wood chips.
 - *Gymnopilus* species grow on decaying wood and tree stumps.
-- *[[gartz-pluteus-salicinus-wood-inhabiting-psilocybin]]* occurs on decaying hardwood.
+- *Pluteus salicinus* occurs on decaying hardwood.
 - Wood-inhabiting species typically require higher humidity and fruit in autumn.
 
 ### 7. Highland and Alpine Meadows
@@ -101,24 +101,6 @@ High-altitude grasslands support specialized species:
 - In grasslands, psilocybin species can be confused with various toxic *Galerina* and *Inocybe* species that share similar niches.
 - See [[psilocybin-mushroom-identification-guide]] for identification features and [[psychedelic-harm-reduction]] for safety practices.
 
-## Ecological Role
-Fungal organisms play critical roles in ecosystem functioning through
-decomposition, nutrient cycling, and symbiotic relationships with plants.
-Understanding their ecological contributions informs both cultivation
-practices and conservation efforts across diverse habitats.
-
-## Research Directions
-Current research explores applications in bioremediation, sustainable
-agriculture, and pharmaceutical development. Advances in genomic
-sequencing and cultivation techniques continue to reveal new species
-and expand our understanding of fungal biology.
-
-## See Also
-- [[psilocybin-mushroom-habitat-and-ecology]]
-- [[psilocybin-mushroom-image-guide-habitat-clues]]
-- [[mushroom-mycelial-morphology-types-identification]]
-- [[falconer-mushroom-spawn-types-and-merits]]
-- [[oyster-mushroom-spawn-types-and-quality-grain-sawdust-plug-liquid]]
 ## Related Topics
 
 - [[psilocybin-mushroom-global-distribution]] for geographic range

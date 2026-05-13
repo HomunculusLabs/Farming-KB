@@ -90,10 +90,7 @@ The fleshy taproot provides a carbohydrate reserve that allows the plant to pers
 
 ## See Also
 
-- [[adenophora-triphylla]]
 - [[campanula-rotundifolia]]
-- [[campanula-rapunculoides]]
 - [[platycodon-grandiflorus]]
-- [[codonopsis-pilosula]]
 - [[symphyandra-hofmannii]]
 - [[lobelia-cardinalis]]

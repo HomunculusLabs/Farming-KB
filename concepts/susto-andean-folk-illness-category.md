@@ -4,8 +4,7 @@ created: 2026-04-21
 updated: 2026-04-21
 type: concept
 tags:
-  - [[shamanism]]
-  - [[ayahuasca]]
+  - ayahuasca
   - ethnobotany
   - anthropology
   - herbalism
@@ -17,29 +16,9 @@ sources:
 
 ## Overview
 
-Susto is one of the most widespread folk illness categories in Latin America, particularly common throughout Peru. In the context of Peruvian mestizo [[entheogen-cimora-folk-healing-ceremony]], susto belongs to a system of culture-bound syndromes that include daño, pulsario, and mal de ojo.
+Susto is one of the most widespread folk illness categories in Latin America, particularly common throughout Peru. In the context of Peruvian mestizo [[ayahuasqueros]] (ayahuasca healers) in urban Peruvian settings like Iquitos and Belén. Understanding these syndromes is essential for understanding how ayahuasca is used therapeutically in mestizo healing contexts.
 
-These illness categories form the primary diagnostic framework used by [[ayahuasqueros]] (ayahuasca healers) in urban Peruvian settings like Iquitos and Belén. Understanding these syndromes is essential for understanding how ayahuasca is used therapeutically in mestizo healing contexts.
-
-The following descriptions are drawn from Marlene Dobkin de Rios's chapter "Curing with Ayahuasca in an Urban Slum" in [[urban-ayahuasca-iquitos-healing]].
-
-## Susto (Soul Loss / Fright)
-
-- A common illness found throughout Peru and Latin America
-
-- Profound alteration of metabolism or nervous disorder
-
-- Intense psychic trauma provoked by an emotion of fear
-
-- Symptoms include lack of appetite and lack of energy
-
-- Caused by the loss of the sick person's soul (animistic framework)
-
-- One of the most frequent types of illness treated by Peruvian folk healers
-
-- Believed that a sudden fright can cause the soul to leave the body
-
-Within the mestizo healing system documented by Dobkin de Rios, susto represents a fundamental category of illness rooted in the separation of spirit from body. The healer's task is to locate and recover the wandering soul, often through [[hallucinogens-and-shamanism-harner-anthology]].
+The following descriptions are drawn from Marlene Dobkin de Rios's chapter "Curing with Ayahuasca in an Urban Slum" in [[hallucinogens-and-shamanism-harner-anthology]].
 
 ## Daño (Sorcery / Harm)
 
@@ -88,3 +67,84 @@ Pulsario illustrates the somatic idiom of distress common in Andean folk medicin
 - Caused by the magical action of one person's glance upon another
 
 - Not necessarily with evil intentions
+
+## Overview
+
+Susto Andean Folk Illness Category represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish susto andean folk illness category
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving susto extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Susto Andean Folk Illness Category finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for susto andean folk illness category. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+susto andean folk illness category and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Susto Andean Folk Illness Category has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of susto andean folk illness category into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[lucuma-pouteria-lucmo-andean-fruit-tree]]

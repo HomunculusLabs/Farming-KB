@@ -3,7 +3,7 @@ title: Earthquake Preparedness Guide
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
-tags: [safety, [[homesteading]], construction, engineering, environment]
+tags: [safety, homesteading, construction, engineering, environment]
 sources: []
 ---
 
@@ -15,7 +15,7 @@ Earthquakes strike without warning and can cause catastrophic damage to structur
 
 Earthquakes occur along fault lines, but damaging shaking can be felt hundreds of miles from the epicenter. Risk factors include:
 
-- **Proximity to known fault lines** — USGS seismic hazard [[maps]] (earthquake.usgs.gov) show risk by region
+- **Proximity to known fault lines** — USGS seismic hazard maps (earthquake.usgs.gov) show risk by region
 - **Soil type** — Soft soils (alluvium, landfill, liquefaction-prone soils) amplify shaking significantly
 - **Building age and construction type** — Unreinforced masonry, pre-1970s homes with cripple walls, and soft-story buildings are most vulnerable
 - **Topography** — Steep slopes are prone to earthquake-triggered landslides
@@ -110,7 +110,7 @@ Earthquakes can disrupt utilities (water, gas, electricity, sewage) for days to 
 ### Food
 - Non-perishable food requiring no cooking (canned goods, dried fruit, granola, crackers)
 - Manual can opener
-- Camp stove with fuel [[query-how-to-build-a-cob-oven-for-outdoor-cooking]]
+- Camp stove with fuel for outdoor cooking
 - Comfort foods (stress management)
 
 ### Shelter and Warmth
@@ -139,11 +139,12 @@ Earthquakes can disrupt utilities (water, gas, electricity, sewage) for days to 
 ### First Aid
 - Comprehensive first aid kit (see [[homestead-first-aid-guide]])
 - Include extra trauma supplies: splints, tourniquet, hemostatic gauze
-- [[ayahuasca-interactions-with-prescription-medications]] (30-day minimum supply)
+- Prescription medications (30-day minimum supply)
 
-## During an Earthquake
+## See Also
 
-**Drop, Cover, and Hold On:**
-1. DROP to your hands and knees
-2. Take COVER under a sturdy desk or table
-3. HOLD ON until the shaking stops
+- [[wildfire-preparedness-guide]]
+- [[extreme-heat-preparedness]]
+- [[hurricane-preparedness-guide]]
+- [[williams-pdc-disaster-preparedness]]
+- [[winter-storm-preparedness]]

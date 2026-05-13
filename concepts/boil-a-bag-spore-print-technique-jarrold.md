@@ -10,7 +10,7 @@ aliases: ["spore print technique", "mushroom spore collection", "sterile spore p
 
 ## Overview
 
-The spore print technique described by D.H. Jarrold is a critical component of the complete boil-a-bag [[accessible-mushroom-cultivation-for-disabilities]] cycle. After successfully [[falconer-growing-mushrooms-in-sheds]], the cultivator must harvest spore prints to produce the inoculum for future crops. This creates a self-sustaining cultivation loop — from spore print to mycelium to mushroom and back to spore print — that eliminates the need to purchase new spores for each grow.
+The spore print technique described by D.H. Jarrold is a critical component of the complete boil-a-bag [[falconer-growing-mushrooms-in-sheds]], the cultivator must harvest spore prints to produce the inoculum for future crops. This creates a self-sustaining cultivation loop — from spore print to mycelium to mushroom and back to spore print — that eliminates the need to purchase new spores for each grow.
 
 The method emphasizes sterility throughout every step, as contamination during spore printing will carry through to the next generation of grows and potentially ruin entire batches of inoculated substrate.
 
@@ -60,7 +60,7 @@ With sterile jars prepared and safety measures in place, the actual spore print 
 
 ### Preparation
 
-1. Take the sterilized jars, tweezers, scissors, and methylated spirits burner to the [[duggar-mushroom-growing-history-and-methods]] tank ([[aquarium-humidity-chamber-mushroom-fruiting]])
+1. Take the sterilized jars, tweezers, scissors, and methylated spirits burner to the [[aquarium-humidity-chamber-mushroom-fruiting]])
 2. Ensure the working area is as clean and draft-free as possible
 3. Put on your breathing mask before opening any jars
 
@@ -83,43 +83,6 @@ With sterile jars prepared and safety measures in place, the actual spore print 
 3. Carefully place the cap **gills-down** into the sterile jar
 4. **Immediately** replace the lid — but do not tighten it all the way
 
-**Critical note:** The lid must not be tightened fully because any moisture present in the jar or on the spores needs to evaporate naturally. If the lid is sealed tight while moisture is present, the damp environment will encourage [[query-what-is-the-difference-between-bacterial-and-fungal-dominant-soil]] contamination of the spore print.
-
-## Step 4: Spore Deposition Period
-
-The spore-laden cap needs time to release its spores onto the bottom of the jar:
-
-## Practical Applications
-
-The principles and techniques discussed here have wide-ranging applications
-across multiple disciplines and contexts. Practitioners and researchers
-continue to explore new ways to integrate these concepts into modern practice,
-adapting traditional knowledge to contemporary challenges and opportunities.
-
-## Key Considerations
-
-Several important factors influence the effectiveness and outcomes described
-in this topic. Understanding these considerations helps practitioners make
-informed decisions and avoid common pitfalls. Environmental conditions,
-timing, and material selection all play critical roles.
-
-## Historical Context
-
-The historical development of this subject reflects centuries of accumulated
-knowledge and practical experience. From traditional methods passed down
-through generations to modern scientific approaches, the evolution continues
-to inform current best practices and research directions.
-
-## Common Challenges
-
-Practitioners frequently encounter several challenges when working with
-these concepts. Climate variability, resource limitations, and knowledge
-gaps can all affect outcomes. Addressing these challenges requires patience,
-observation, and a willingness to adapt approaches based on results.
-
-## See Also
-- [[spore-print-collection]]
-- [[spore-print]]
+**Critical note:** The lid must not be tightened fully because any moisture present in the jar or on the spores needs to evaporate naturally. If the lid is sealed tight while moisture is present, the damp environment will encourage [[spore-print-collection]]
 - [[spore]]
-- [[dom]]
 - [[mycelium]]

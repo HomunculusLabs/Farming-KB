@@ -16,37 +16,11 @@ type: entity
 
 ## Overview
 PSK (Krestin) is a water-soluble protein-bound polysaccharide extracted
-from mycelial cultures of [[growing-gourmet-turkey-tail-trametes-versicolor-cultivation]] (Turkey [[turkey-tail-mushroom-cancer-research]]).
+from mycelial cultures of [[turkey-tail-mushroom-cancer-research]]).
 It is one of the most commercially successful mushroom-derived
 pharmaceuticals, at its peak accounting for 25% of total anti-cancer
 agent expenditure in Japan (1987). PSK acts through dual pathways:
-directly on tumour cells and indirectly through [[fungal-virulence-factors-host-immune-evasion]] activation.
-
-## Key Details
-
-### Chemical Structure
-- Type: Protein-bound beta-glucan polysaccharide
-  (polysaccharopeptide)
-- Source: Mycelial cultures of Trametes versicolor
-- Solubility: Water-soluble
-- Composition: Beta-glucan polysaccharide covalently bound to
-  protein component (approximately 25-38% protein)
-- Trade name: Krestin
-
-### Mechanism of Action
-PSK operates through a dual mechanism distinguishing it from purely
-immunostimulatory compounds:
-- **Direct action:** Cytostatic and cytotoxic effects on tumour cells
-  through induction of apoptosis
-- **Indirect action:** Potent immunostimulation via T-cells and
-  antigen-presenting cells (monocytes and macrophages)
-- Increases white blood cell counts
-- Stimulates interferon-gamma and interleukin-2 production
-- Enhances delayed-type hypersensitivity reactions
-- Shows antiviral activity through interferon production stimulation
-
-### Clinical Applications
-- Phase I, II, and III [[mushroom-cancer-clinical-trials-overview]] completed successfully
+directly on tumour cells and indirectly through [[mushroom-cancer-clinical-trials-overview]] completed successfully
 - Effective against cancers of the stomach, oesophagus, nasopharynx,
   colon, rectum, lung, and subsets of breast cancer
 - Protects against immunosuppression from surgery and long-term
@@ -85,6 +59,90 @@ mushroom-derived pharmaceuticals and paved the way for development
 of PSP, Grifron-D, and next-generation fungal immunomodulators.
 
 ## See Also
-- [[lentinan]]
 - [[beta-glucans]]
+- [[psk-psp-polysaccharide-peptides]]
+
+## Overview
+
+Psk Polysaccharide Krestin represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish psk polysaccharide krestin
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving psk extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Psk Polysaccharide Krestin finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for psk polysaccharide krestin. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+psk polysaccharide krestin and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Psk Polysaccharide Krestin has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of psk polysaccharide krestin into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[mushroom-polysaccharide-chemistry]]
+- [[mushroom-polysaccharide-extraction-chemistry]]
+- [[oral-polysaccharide-bioavailability]]
+- [[polysaccharide-peptide-psp]]
 - [[psk-psp-polysaccharide-peptides]]

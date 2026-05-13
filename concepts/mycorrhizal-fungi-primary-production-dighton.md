@@ -11,43 +11,13 @@ sources: [raw/papers/john-dighton-fungi-in-ecosystem-processes.md]
 
 Updated: 2026-04-18
 
-Source: John Dighton, *Fungi in [[fungal-ecosystem-processes-overview]]*, Chapter 3.
-
-## Overview
-
-Approximately 95% of all vascular plants have a mycorrhizal association (Brundrett, 1991). Mycorrhizal fungi are not merely passive nutrient conduits — they actively influence plant [[edaphic-determinants-cannabis-microbiome-community-structure]], competitive interactions, stress tolerance, and ecosystem-level nutrient cycling. Vogt et al. (1982) showed that although mycorrhizal fungi represent only about 1% of total forest ecosystem biomass, they account for 14-15% of net primary production (45% in young stands, 75% in mature stands) when combined with their supporting fine root biomass.
+Source: John Dighton, *Fungi in [[edaphic-determinants-cannabis-microbiome-community-structure]], competitive interactions, stress tolerance, and ecosystem-level nutrient cycling. Vogt et al. (1982) showed that although mycorrhizal fungi represent only about 1% of total forest ecosystem biomass, they account for 14-15% of net primary production (45% in young stands, 75% in mature stands) when combined with their supporting fine root biomass.
 
 ## Mycorrhizal Types and Their Roles
 
 ### Arbuscular Mycorrhizae (AM)
 Formed mainly by zygomycete fungi, associated with herbaceous vegetation, grasses, and many crops. AM fungi are the most widespread mycorrhizal type and are particularly important in:
-- [[comparison-phosphorus-solubilizing-microorganisms-vs-mycorrhizal-phosphorus-acquisition]] from soil
-- Improving plant water relations
-- Agroecosystems where soil fauna diversity is reduced
-
-Faunal grazing on AM extraradical hyphae reduces nutrient acquisition efficiency. Warnock et al. (1982) showed strong interaction between collembolan density and host plant growth. This effect is more important in agroecosystems where high collembola densities occur without natural predators.
-
-Nematode feeding on mycorrhizal hyphae also reduces effectiveness and alters plant competitive fitness (Brussard et al., 2001).
-
-### Ectomycorrhizae (ECM)
-Associated primarily with forest trees (pine, oak, birch, spruce, etc.). ECM fungi show:
-- Greater species diversity than AM associations
-- Significant functional differences between species
-- Strong influence on plant community structure in forests
-
-Different ECM species vary dramatically in their ability to acquire nutrients. Dighton et al. (1990) showed using radiotracer phosphorus that Hebeloma-dominated zones under birch trees had phosphorus uptake rates of 134 ng P/g leaf tissue, compared to 55 for Lactarius and 52 for Laccaria.
-
-### Ericoid Mycorrhizae
-Associated with plants in the Ericaceae family (heaths, blueberries, rhododendrons). Important in:
-- Nutrient-poor, acidic soils
-- Organic nitrogen acquisition from decomposition
-- Influencing forest regeneration patterns
-
-## Biodiversity and Ecosystem Function
-
-### Diversity-Function Relationship
-Baxter and Dighton (2001) demonstrated that changes in birch seedling performance were related to the diversity *per se* of the ectomycorrhizal community rather than the actual species composition. Key findings:
-- As [[dighton-mycorrhizal-diversity-ecosystem-function]] increased, the proportional representation of each species declined but total mycorrhizal root tips per plant increased
+- [[dighton-mycorrhizal-diversity-ecosystem-function]] increased, the proportional representation of each species declined but total mycorrhizal root tips per plant increased
 - Plant shoot biomass declined with diversity but root biomass increased
 - Multiple regression showed shoot mass (R2=0.129, P=0.002), root mass (R2=0.156, P<0.001), and total phosphorus content (R2=0.179, P<0.001) were all significantly correlated with mycorrhizal diversity
 
@@ -73,10 +43,7 @@ Pankow et al. (1991) suggest the main role of mycorrhizal symbioses is not durin
 Fire maintains both plant and fungal diversity in forests. Changes in ECM species composition after fire suggest a succession of mycorrhizal fungi during forest re-establishment (Frankland, 1992, 1998; Boerner et al., 1996). Where fire damage to soil-surface organic matter is minimal, residual ECM communities on dying roots provide inoculum for the next rotation, maintaining species diversity continuity (Baar et al., 1999; Jonsson et al., 1999b).
 
 ### Drought Stress
-[[plants-without-mycorrhizal-associations]] significantly improve plant-water relations:
-- Sanchez-Diaz and Honrubia (1994): direct water flow through hyphae, improved phosphate nutrition, altered hormonal balance
-- Augé (2001) reviewed that AM colonization improved water relations under both drought and adequate moisture
-- AM inoculation of *Acacia nilotica* and *[[leucaena-leucocephala]]* benefited *Leucaena* most under drought, with mycorrhizal effect exceeding that of phosphorus addition (Michelsen and Rosendahl, 1990)
+[[leucaena-leucocephala]]* benefited *Leucaena* most under drought, with mycorrhizal effect exceeding that of phosphorus addition (Michelsen and Rosendahl, 1990)
 - Grass endophytes confer [[dighton-fungal-drought-tolerance-plant-water-relations]] through loline alkaloid production as osmoregulators (Belesky and Malinowski, 2000)
 
 ### Salinity
@@ -87,3 +54,88 @@ Leaf litter manipulations significantly alter ECM communities:
 - Complete litter removal on Scots pine forest floor increased mycorrhizal species diversity, while doubling litter reduced diversity (Baar and de Vries, 1995)
 - Pine leaf litter extracts reduced growth of *Laccaria proxima* and *Rhizopogon luteolus* (Baar et al., 1994)
 - Polyphenols catechin and epicatechin gallate differentially affected *Suillus intermedius* (stimulated) and *Amanita rubescens* (reduced) (Koide et al., 1998)
+
+## Overview
+
+Mycorrhizal Fungi Primary Production Dighton represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish mycorrhizal fungi primary production dighton
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving mycorrhizal extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Mycorrhizal Fungi Primary Production Dighton finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for mycorrhizal fungi primary production dighton. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+mycorrhizal fungi primary production dighton and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Mycorrhizal Fungi Primary Production Dighton has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of mycorrhizal fungi primary production dighton into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[dighton-leaf-litter-patch-effects-mycorrhizal-community]]
+- [[endobacteria-arbuscular-mycorrhizal-fungi]]
+- [[fukuoka-sowing-pine-forest-collapse-and-mycorrhizal-cascade]]
+- [[mycorrhizal-fungi-biome-surveys]]
+- [[stamets-mycorrhizal-mushrooms-forest-ecology-cultivation-challenges]]

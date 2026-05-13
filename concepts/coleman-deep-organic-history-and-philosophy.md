@@ -16,64 +16,9 @@ type: concept
 
 # Deep-Organic History and Philosophy
 
-The story of [[natural-farming-vs-organic-vs-conventional]] ally in 1965, the forces arrayed
-against organic methods were formidable: the U.S. Department of
-Agriculture with its scientists and enormous budget, all land-grant
-universities and agricultural schools, the extension service, every
-feed and seed store in the country, and the massive agrochemical
-industry. On the organic side were a few old-time large-scale farmers
-who had never adopted chemicals and idealistic young newcomers who
-found organic concepts aligned with their thinking about humanity,
-sustainability, and planetary welfare.
+The story of [[coleman-deep-organic-farming]],
 
-## The Barry Commoner Study
-
-In 1977, Barry Commoner's group at Washington University in Saint
-Louis published a landmark study showing that Midwestern organic
-farmers were just as successful as their chemical-using neighbors in
-side-by-side paired comparisons. This was the first major
-acknowledgment that organic farming could compete. As Coleman puts it,
-this was the equivalent of a junior high football team splitting games
-with the Steelers -- yet it received far less press than it deserved
-given the massively unequal forces on the opposing sides.
-
-USDA dismissal of organic research was persistent. When Coleman
-reported positive studies from French farmer organizations, a USDA
-contact scoffed that the USDA would not listen to French farmers.
-Dutch studies met the same dismissal. When the USDA's own positive
-Report and Recommendations on Organic Agriculture came out in 1980,
-the pattern of institutional denial had become almost comical.
-
-## Institutional Resistance
-
-At university speaking engagements, Coleman would cite research
-published in major agricultural journals supporting organic farming
-principles, only to be interrupted by faculty members who called the
-ideas ridiculous -- without having read the studies. The myth that
-organic farming could not work was so ingrained it was accepted out
-of hand by agricultural academics who were not reading the published
-literature in their own fields.
-
-Max Planck's famous quote applies: "A new scientific truth does not
-triumph by convincing its opponents and making them see the light,
-but rather because its opponents eventually die, and a new generation
-grows up that is familiar with it."
-
-## Historical Depth of Organic Ideas
-
-Organic concepts are not new. Books extolling biological farming were
-already available when Coleman started: P. H. Hainsworth's
-Agriculture: A New Approach (1954), Leonard Wickenden's Make Friends
-with Your Land (1949), and Selman Waksman's The Soil and the Microbe
-(1931). K. D. White's Roman Farming documents that compost, green
-manures, mixed farming, and [[coleman-deep-organic-farming]],
-
-See [[query-what-are-ec-and-tds-and-how-do-i-use-them-for-cannabis-nutrient-management]] for more on Query What Are Ec And Tds And How Do I Use Them For Cannabis Nutrient Management.
-See for more on Query What Are The Best Ancient And Heritage Grains For Small Scale Farming.
-
-## See Also
-
-- [[coleman-deep-organic-farming-philosophy]]
+See [[coleman-deep-organic-farming-philosophy]]
 ## Practical Considerations
 
 Successful implementation of Deep-Organic History and Philosophy requires attention to
@@ -123,7 +68,82 @@ observation, and a willingness to adapt approaches based on results.
 
 ## See Also
 - 
-- [[query-what-are-ec-and-tds-and-how-do-i-use-them-for-cannabis-nutrient-management]]
 - [[doc]]
-- [[cannabis-nutrient-management]]
 - [[ghb]]
+
+## Overview
+
+Coleman Deep Organic History And Philosophy represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish coleman deep organic history and philosophy
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving coleman extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Coleman Deep Organic History And Philosophy finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for coleman deep organic history and philosophy. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+coleman deep organic history and philosophy and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Coleman Deep Organic History And Philosophy has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of coleman deep organic history and philosophy into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.

@@ -13,7 +13,7 @@ Attracting beneficial insects is one of the most powerful strategies
 for natural pest control and pollination in the ecological garden. By
 providing food, shelter, and the right conditions, gardeners can
 recruit an army of predators, parasitoids, and pollinators that keep
-pest populations in check without chemicals. This is a core principle of [[hamilton-beneficial-insects-and-biological-pest-control]] and connects closely to [[companion-planting]] strategies.
+pest populations in check without chemicals. This is a core principle of [[companion-planting]] strategies.
 
 ## The Insect Balance
 
@@ -40,36 +40,7 @@ to extinction when conditions are bad.
 There is also a critical time lag between pest breeding and predator
 breeding. When a pest outbreak occurs and the gardener sprays
 insecticide, it kills most of both the pests and the predators. The
-fast-breeding pests re[[query-how-does-cover-cropping-benefit-soil-and-when-should-i-plant-them|cover]] within weeks, but the slow-breeding
-predators remain at critically low numbers. After a few rounds of this
-cycle, the predators are all dead and the pests are predator-free,
-putting the gardener on an expensive and toxic treadmill.
-
-## Four Types of Beneficial Insects
-
-### 1. Predatory Insects
-
-Predators come from beetles, true bugs, flies, wasps, and other
-orders. They eat prey by chewing with fierce mandibles or piercing and
-sucking body fluids. Many are generalists that eat anything they
-encounter. Both adults and larvae of species like lady beetles are
-predators. Spiders, though arachnids rather than insects, are superb
-predators; researchers found thirty times more spiders in mulched
-gardens than in unmulched ones, with far less insect damage to plants.
-
-### 2. Parasitic Insects (Parasitoids)
-
-Small wasps and flies that lay their eggs inside other insects or
-insect eggs. Most are specialists, preying on only one or a few pest
-species. Most adult parasitoids are not carnivorous and feed mainly on
-pollen and nectar, making flowers and wild vegetation near or in the
-garden critical for their survival. Many parasitic wasps are barely
-visible to the eye and most are stingless.
-
-### 3. Pollinators
-
-Without insects to fertilize flowers with pollen, humans would starve.
-The European honeybee is the best-known pollinator, but declining populations — as explored in [[pollinator-conservation]] — mean that native pollinators are
+fast-breeding pests re[[pollinator-conservation]] — mean that native pollinators are
 increasingly important. Recently they
 have fallen prey to parasitic mites and diseases that have killed up
 to 80 percent of colonies, making native and other pollinators more
@@ -118,8 +89,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[mollison-designers-insectary-plants-and-beneficial-insect-habitat]]
 - [[insectary-plants-and-beneficial-insect-habitat-design]]
-- [[hamilton-beneficial-insects-and-biological-pest-control]]
 - [[query-how-to-attract-native-bees-and-beneficial-insects]]
 - [[coleman-beneficial-insects-and-ecological-pest-control]]

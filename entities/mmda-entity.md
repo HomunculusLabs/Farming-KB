@@ -9,33 +9,10 @@ sources:
 ---
 # MMDA — 3-Methoxy-4,5-methylenedioxyamphetamine
 
-[[2c-b-pihkal-entry-20]] #132. MMDA is one of the Essential Amphetamines, derived from myristicin (a principal component of nutmeg oil). First synthesized by both Shulgin and Dr. Gordon A. Alles independently in 1962, both naming it MMDA. Alles died in 1963 before they could share their findings. MMDA is distinguished among psychedelics for its dreamlike, eyes-closed visual quality — subjects repeatedly described it as producing "brain movies."
+[[serotonin-psilocybin-structural-relationship-hallucinogenic-mechanism]]: tetraoxygenated amphetamine, one of the Essential Amphetamines alongside [[permaculture-designers-manual-essential-oil-plants]] from nutmeg is myristicin, the easiest source of MMDA. Passage of this oil through a rabbit's liver has been reported to generate MMDA. Structurally, myristicin plus ammonia yields MMDA.
 
-## Chemical Identity
-
-- Full name: 3-Methoxy-4,5-methylenedioxyamphetamine
-- PIHKAL number: #132
-- Molecular formula: C11H15NO3
-- HCl salt mp: 190-191 C
-- Picrate salt mp: 182-184 C (179-181 C after recrystallization)
-- Derived from: myristicin (3-methoxy-4,5-methylenedioxyallylbenzene)
-- [[serotonin-psilocybin-structural-relationship-hallucinogenic-mechanism]]: tetraoxygenated amphetamine, one of the Essential Amphetamines alongside [[mescaline]]. Reaches a climax with pleasant afterglow. Produces a "Sunday afternoon" feeling of luxurious layback. No color enhancement in open-eye visual scene (except greenish tinges in faces), but closed-eye hallucinations quite real in 3-D. Dreams appear first in black and white, then colors emerge (chartreuse, magenta, blue, red). Described as bringing dreams to the conscious level — a link between subconscious and conscious.
-
-At 225 mg, strange awareness of hands within 20 minutes. Acute experience of aloneness and fearfulness. Vivid school scenes more real than actual surroundings. Extreme sleepiness during the experience. Described as most like a series of easily remembered dreams.
-
-## The "Brain Movies" Compound
-
-The phrase used by several subjects in early trials, again and again, was "brain movies." The richest effects were to be had with eyes closed. MMDA appears to bring dreams to the conscious level and serves as a link between subconscious and conscious experience. This dreamlike quality distinguishes MMDA from other phenethylamines — whereas mdma produces emotional openness, MMDA is uniquely oriented toward internal, closed-eye imagery that closely resembles natural dreaming.
-
-This quality has led some researchers to suggest MMDA might have applications in dream research, psychoanalytic therapy, or as a tool for accessing subconscious material. The relative gentleness of the experience (compared to more intense psychedelics) also made it notable as a "beginner-friendly" compound.
-
-## Natural Source and Essential Amphetamine Classification
-
-MMDA may be a contributing factor to the pharmacology of nutmeg. The major [[permaculture-designers-manual-essential-oil-plants]] from nutmeg is myristicin, the easiest source of MMDA. Passage of this oil through a rabbit's liver has been reported to generate MMDA. Structurally, myristicin plus ammonia yields MMDA.
-
-Another natural source of myristicin is Oil of Parsley (also an excellent source of apiole, discussed under [[tma-entity]] (from elemicin), MMDA (from myristicin), MDA (from safrole), and others. These relationships between natural oils and synthetic amphetamines served as an early pharmacological index for [[tma-entity]] — another Essential Amphetamine derived from elemicin
+Another natural source of myristicin is Oil of Parsley (also an excellent source of apiole, discussed under [[tma-entity]] — another Essential Amphetamine derived from elemicin
 - mdma — frequently confused with MMDA due to similar initials; completely different compounds
-- [[mmda-2-compound-profile]] — the regioisomer with methoxy groups at different positions
 - [[phenethylamine-pharmacology]] — broader pharmacological context
 ## Practical Applications
 
@@ -88,3 +65,86 @@ Technical challenges often relate to the complexity of interactions
 between multiple variables and the difficulty of predicting outcomes
 with certainty. Building in redundancy, monitoring key indicators, and
 maintaining flexibility in approach all help manage this inherent
+
+## Overview
+
+Mmda Entity represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish mmda entity
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving mmda extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Mmda Entity finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for mmda entity. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+mmda entity and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Mmda Entity has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of mmda entity into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[methyl-mmda-2-entity-pihkal]]
+- [[mmda-3a-entity-pihkal]]
+- [[mmda-3b-entity-pihkal]]

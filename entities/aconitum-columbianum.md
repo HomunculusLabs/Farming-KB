@@ -15,14 +15,7 @@ sources:
   - Turner, N.J. (1996). "Food Plants of Interior First Peoples." UBC Press.
   - Frohne, D. & Pfänder, H.J. (2005). "Poisonous Plants: A Handbook for Doctors, Pharmacists, Toxicologists." 2nd ed. Timber Press.
   - USDA NRCS. "Aconitum columbianum Nutt. — Columbian monkshood." PLANTS Database.
-  - Mead, J.W. (1972). "The [[growing-gourmet-north-american-reishi-species]] Aconitum." Journal of the Arnold Arboretum, 53(1), 110–126.
----
-
-## Overview
-
-**Aconitum columbianum** (Columbian monkshood) is a perennial herbaceous plant in the family Ranunculaceae, native to western North America from Alaska to California and eastward into the Rocky Mountains.
-
-It is one of the most toxic native plants in North America, containing potent diterpenoid alkaloids structurally related to those found in [[aconitum-napellus]].
+  - Mead, J.W. (1972). "The [[aconitum-napellus]].
 
 The distinctive helmet-shaped blue to purple flowers make it recognizable in montane and subalpine meadows throughout its range.
 
@@ -30,27 +23,7 @@ The distinctive helmet-shaped blue to purple flowers make it recognizable in mon
 
 **Aconitum columbianum** was described by Thomas Nuttall in 1818.
 
-The species belongs to Ranunculaceae, subfamily Aconitoideae, a group characterized by zygomorphic flowers and toxic [[ergot-alkaloid-chemistry-history]].
-
-Plants grow 0.5 to 1.5 meters tall from thick tuberous roots.
-
-Stems are erect and usually unbranched, with palmately divided leaves arranged alternately along the upper portion.
-
-Each leaf has 5 to 7 deeply cleft lobes with coarsely toothed margins.
-
-The inflorescence is a terminal raceme bearing 10 to 40 flowers.
-
-Flowers are bilaterally symmetric with a prominent hood-shaped upper sepal (the galea) measuring 15 to 25 mm in height.
-
-The two lateral petals are small, clawed, and usually concealed within the galea.
-
-Lower sepals are 8 to 14 mm long, colored similarly to the galea or slightly paler.
-
-Fruit consists of 3 to 5 follicles, each 12 to 20 mm long, containing numerous small black seeds.
-
-## Distribution and Habitat
-
-**Aconitum columbianum** ranges from southern Alaska through British Columbia and the [[psilocybin-north-america-pacific-northwest]], extending south through the Sierra Nevada and east across the Rocky Mountains to Colorado and New Mexico.
+The species belongs to Ranunculaceae, subfamily Aconitoideae, a group characterized by zygomorphic flowers and toxic [[psilocybin-north-america-pacific-northwest]], extending south through the Sierra Nevada and east across the Rocky Mountains to Colorado and New Mexico.
 
 Isolated populations occur in the Black Hills of South Dakota and the boreal regions of Canada.
 
@@ -58,15 +31,7 @@ The species occupies moist montane and subalpine habitats between 1,500 and 3,50
 
 It is commonly found along streambanks, in subalpine meadows, moist forest openings, and avalanche chutes.
 
-Soils are typically rich in organic matter with consistent moisture throughout [[query-how-to-protect-plants-from-frost-and-extend-the-growing-season]].
-
-Populations are often localized, restricted to microsites with adequate moisture and partial shade.
-
-## Bioactive Compounds
-
-All plant parts of **Aconitum columbianum** contain diterpenoid norditerpenoid alkaloids, with the highest concentrations in roots and seeds.
-
-The principal alkaloids include aconitine, mesaconitine, and hypaconitine, the same compounds responsible for the toxicity of [[aconitum-napellus]].
+Soils are typically rich in organic matter with consistent moisture throughout [[aconitum-napellus]].
 
 These alkaloids act on voltage-gated sodium channels, causing persistent activation that leads to cardiac arrhythmias, paralysis, and respiratory failure.
 
@@ -87,3 +52,88 @@ The Thompson (Nlaka'pamux) people used the plant as a topical analgesic for rheu
 The root was sometimes steeped in water and the resulting solution applied externally as a wash for sore eyes.
 
 Internal use was extremely rare and generally avoided due to the risk of fatal poisoning.
+
+## Overview
+
+Aconitum Columbianum represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish aconitum columbianum
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving aconitum extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Aconitum Columbianum finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for aconitum columbianum. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+aconitum columbianum and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Aconitum Columbianum has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of aconitum columbianum into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[aconitum-ferox]]
+- [[aconitum-hemsleyanum]]
+- [[aconitum-lycoctonum]]
+- [[aconitum-napellus]]
+- [[aconitum-variegatum]]

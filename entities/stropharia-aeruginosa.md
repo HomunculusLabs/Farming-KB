@@ -34,55 +34,7 @@ Stropharia aeruginosa was first described as Agaricus aeruginosus by William Cur
 
 The species epithet "aeruginosa" refers to the blue-green patina characteristic of weathered copper. Several historical synonyms exist, including Agaricus cyaneus and Stropharia cyanea.
 
-Molecular phylogenetic studies have confirmed its placement within Stropharia sensu stricto, closely allied with [[stropharia-caerulea]] and Stropharia hornemannii. The genus Stropharia is characterized by a viscid cap surface, a membranous partial veil, and purple-brown spore prints.
-
-The cap measures 3–8 cm in diameter, initially convex before flattening with a low umbo. Young specimens display a vivid blue-green color, often with scattered white veil remnants on the surface.
-
-As the fruiting body matures, the cap fades to yellowish-green or ochre tones, particularly near the center. The cap surface is viscid when moist and becomes smooth when dry.
-
-Gills are adnate to slightly adnexed, pale gray when young, darkening to purple-brown at maturity. The spore print is dark purple-brown to nearly black.
-
-The stipe measures 5–10 cm long by 0.5–1.2 cm thick, white to bluish-green in color. A well-defined membranous ring is present on the upper stipe.
-
-Below the ring, the stipe surface is scaly and often tinged with the same blue-green pigment as the cap. The flesh is thin, pale, and without a distinctive odor.
-
-Spores are elliptical to oblong, smooth, measuring 7–10 × 4–5.5 μm, with a distinct germ pore. Cheilocystidia are ventricose to lageniform with elongated necks.
-
-Pleurocystidia are absent, which helps distinguish this species from some Psilocybe taxa. The pileipellis is an ixocutis of gelatinized hyphae with embedded pigment granules responsible for the blue-green coloration.
-
-## Distribution and Habitat
-
-Stropharia aeruginosa is widely distributed across temperate regions of Europe, where it is relatively common in the British Isles, Scandinavia, and central Europe. It also occurs in North America, though reports are less frequent than in Europe.
-
-The species fruits from late summer through late autumn, typically September to November in the Northern Hemisphere. It prefers damp, shaded environments with rich organic matter.
-
-It grows solitarily or in small scattered groups on soil in deciduous and mixed woodlands. It is also found along hedgerows and in mulched garden beds.
-
-Occasionally the species appears on well-decayed stumps and coarse woody debris. The fungus is strictly saprophytic and does not form mycorrhizal associations with trees.
-
-In urban environments, it frequently colonizes wood chip mulch in parks and ornamental gardens. Its appearance in cultivated landscapes makes it one of the more commonly encountered Stropharia species in suburban settings.
-
-Fruiting is stimulated by periods of sustained rainfall followed by cool temperatures. In exceptionally wet years, mass fruitings can produce dozens of sporocarps across a single woodland patch.
-
-## Toxicity
-
-Stropharia aeruginosa is generally classified as inedible and suspected to be mildly toxic. Consumption may cause nausea, vomiting, and gastrointestinal discomfort within one to three hours.
-
-The toxic principles have not been fully characterized, though researchers suggest the presence of minor gastrointestinal irritants. The blue-green pigments may also contain bioactive compounds currently under scientific investigation.
-
-Confusion with the edible and cultivated Stropharia rugosoannulata (wine cap mushroom) represents a significant risk for foragers. The wine cap is substantially larger, lacks blue-green coloration, and has a distinctive cogwheel-patterned ring.
-
-Foragers should also distinguish this species from certain blue-tinged Psilocybe species that contain psilocybin and psilocin. Stropharia aeruginosa does not bruise blue when handled and lacks psychoactive tryptamines.
-
-There are no well-documented cases of severe poisoning from this species, and its toxicity is considered mild compared to truly dangerous genera like Amanita. Nonetheless, consumption is strongly discouraged due to the unpredictable nature of individual sensitivity to fungal toxins.
-
-## Ecological Role
-
-As a saprophytic decomposer, Stropharia aeruginosa contributes to the breakdown of lignocellulosic material on the forest floor. Its mycelial networks help integrate woody debris into soil organic matter pools.
-
-The species supports woodland nutrient cycling by releasing enzymes that depolymerize complex plant polymers. This enzymatic activity makes nitrogen and other minerals bioavailable to plants and soil microorganisms.
-
-In laboratory culture, the mycelium grows rapidly on [[malt-extract-agar]] and produces a characteristic sweet odor. The species is relatively easy to culture, making it accessible for physiological and biochemical studies.
+Molecular phylogenetic studies have confirmed its placement within Stropharia sensu stricto, closely allied with [[malt-extract-agar]] and produces a characteristic sweet odor. The species is relatively easy to culture, making it accessible for physiological and biochemical studies.
 
 Like other Stropharia species, it may have potential applications in mycoremediation and mycofiltration systems. Research into its enzymatic capabilities and bioactive metabolite production remains ongoing.
 
@@ -106,9 +58,92 @@ Accurate identification requires attention to spore print color, ring characteri
 
 The species has been reported from Japan and temperate East Asia, though some Asian records may represent closely related but distinct taxa. Further molecular work is needed to clarify the global species boundaries within the Stropharia aeruginosa complex.
 
+## See Also
+
+- [[stropharia-semiglobata]]
+- [[stropharia-venenata-japanese-bluing-species]]
+
+## Overview
+
+Stropharia Aeruginosa represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish stropharia aeruginosa
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving stropharia extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Stropharia Aeruginosa finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for stropharia aeruginosa. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+stropharia aeruginosa and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Stropharia Aeruginosa has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of stropharia aeruginosa into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
 
 ## See Also
 
-- [[stropharia-hornemannii]]
-- [[stropharia-semiglobata]]
-- [[stropharia-venenata-japanese-bluing-species]]
+- [[comparison-enoki-vs-king-stropharia-cultivation]]
+- [[comparison-king-stropharia-vs-paddy-straw-mushroom]]
+- [[stamets-king-stropharia-permaculture-mycofiltration]]
+- [[stropharia-cubensis-ur-plant-mckenna]]
+- [[stropharia-rugoso-annulata]]

@@ -62,34 +62,7 @@ Prepared grain is passed through a pellet mill or extruder that compresses mille
 
 ### Sterilization
 
-Pelletized spawn requires thorough sterilization. Stamets recommends autoclaving at 15 psi (121°C) for 60–90 minutes depending on container size and load density. For larger bags or bulk containers, extending to 120 minutes ensures complete heat penetration. [[comparison-pressure-canning-vs-water-bath-canning]] at lower temperatures (e.g., boiling-water baths) is insufficient for grain-based media. Containers must cool slowly to avoid drawing unfiltered air through filters.
-
-### Inoculation
-
-Inoculation follows standard aseptic technique but benefits from the uniform medium:
-
-- **Grain-to-grain transfer.** Colonized pelletized spawn inoculates fresh substrate at a 5–10% rate by weight. Uniform particle size ensures consistent transfer rates.
-- **Liquid culture.** Pellets accept liquid culture readily; smooth surfaces allow even distribution. Gentle shaking after inoculation disperses culture across all pellets.
-- **Agar wedge.** A single wedge atop the pellet bed provides a starting point. Shaking at 30–50% colonization accelerates full colonization.
-
-## Comparison with Traditional Grain Spawn
-
-| Factor | Pelletized Spawn | Loose Grain Spawn |
-|--------|-----------------|-------------------|
-| Particle uniformity | High | Variable |
-| Aeration | Excellent | Good |
-| Clumping risk | Low | Moderate–High |
-| Production complexity | Higher (requires mill) | Lower |
-| Equipment cost | Higher | Lower |
-| Handling convenience | Excellent | Moderate |
-| Mycelial leap-off | Fast | Fast |
-| Nutritional equivalence | Comparable | Comparable |
-
-The primary tradeoff is production complexity. Pelletized spawn requires a pellet mill or extruder — a significant capital investment for small-scale cultivators. For operations already equipped for grain processing, the transition is straightforward.
-
-## Incubation Parameters
-
-Most species colonize pelletized spawn optimally at 24–27°C. *[[ganoderma-lucidum]]* prefers slightly warmer conditions (27–30°C). Full colonization typically requires 10–21 days depending on species, inoculation rate, and temperature. Uniform pellet structure often enables faster colonization than irregular grain due to more consistent mycelial leap distances. One or two shaking events at 30–50% colonization redistribute mycelium across uncolonized pellets; excessive shaking damages the network and delays consolidation.
+Pelletized spawn requires thorough sterilization. Stamets recommends autoclaving at 15 psi (121°C) for 60–90 minutes depending on container size and load density. For larger bags or bulk containers, extending to 120 minutes ensures complete heat penetration. [[ganoderma-lucidum]]* prefers slightly warmer conditions (27–30°C). Full colonization typically requires 10–21 days depending on species, inoculation rate, and temperature. Uniform pellet structure often enables faster colonization than irregular grain due to more consistent mycelial leap distances. One or two shaking events at 30–50% colonization redistribute mycelium across uncolonized pellets; excessive shaking damages the network and delays consolidation.
 
 ## Storage and Shelf Life
 
@@ -100,27 +73,9 @@ Properly sterilized and sealed pelletized spawn stores well under refrigeration 
 Pelletized spawn is broadly suitable across gourmet and medicinal species:
 
 - **Oyster mushrooms (*Pleurotus* spp.).** Excellent candidates due to aggressive colonization and broad substrate compatibility.
-- **Shiitake (*Lentinula edodes*).** Performs well, especially when transitioning to [[oyster-mushroom-supplemented-sawdust-blocks]] substrates.
-- **Lion's Mane (*[[cancer-medicinal-mushrooms-hericium-erinaceus]]*).** Benefits from even distribution of inoculation points.
+- **Shiitake (*Lentinula edodes*).** Performs well, especially when transitioning to [[cancer-medicinal-mushrooms-hericium-erinaceus]]*).** Benefits from even distribution of inoculation points.
 - **Reishi (*Ganoderma lucidum*).** Suitable, though some cultivators prefer sawdust-based spawn for wood-decomposing species.
-- **Maitake (*[[grifola-frondosa]]*).** Can be finicky; pelletized spawn offers improved consistency over variable grain.
-
-## Matching Spawn Type to Substrate
-
-- **Supplemented sawdust blocks.** Pelletized grain spawn is ideal — uniform particles mix evenly into sawdust.
-- **Log inoculation.** Sawdust or plug spawn is typically preferred; grain-based pellets risk attracting pests outdoors.
-- **Straw substrates.** Pelletized spawn distributes well through pasteurized straw with strong initial colonization.
-- **Grain-to-grain expansion.** Pelletized spawn excels here due to consistent particle size enabling rapid, predictable expansion.
-
-## Scale Considerations
-
-### Home Cultivator
-
-The equipment investment for pelleting may not be justified unless production volume is significant. Home growers achieve excellent results with loose grain spawn (rye or millet) in quart jars. However, those producing large volumes for outdoor beds or straw grows may find a desktop pellet mill worthwhile.
-
-### Commercial Production
-
-At commercial scale, pelletized spawn becomes highly attractive. Industrial pellet mills produce tonnage of uniform substrate, enabling reproducible batch consistency, automated [[mushroom-container-filling-techniques-cotter]], precise spawn rate calculations, and reduced labor per unit. Commercial spawn laboratories commonly use pelletized or granular products as their standard offering, reflecting industry consensus that uniformity and handling efficiency outweigh added equipment cost at scale.
+- **Maitake (*[[mushroom-container-filling-techniques-cotter]], precise spawn rate calculations, and reduced labor per unit. Commercial spawn laboratories commonly use pelletized or granular products as their standard offering, reflecting industry consensus that uniformity and handling efficiency outweigh added equipment cost at scale.
 
 ## Key Takeaways
 
@@ -131,6 +86,5 @@ At commercial scale, pelletized spawn becomes highly attractive. Industrial pell
 5. Commercial operations benefit most; home cultivators should weigh equipment cost against production volume.
 
 ## See Also
-- [[pelletized-granular-spawn]]
 - [[mushroom-spawn]]
 - [[mushworld-oyster-spawn-production-guide]]

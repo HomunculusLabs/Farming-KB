@@ -11,7 +11,7 @@ created: 2026-05-09
 
 ## Overview
 
-Uwe Blesching's *The [[blesching-cannabis-health-index-autoimmune-conditions]]* (2015) highlights an underappreciated area of cannabinoid research: the potential for THC to protect the heart from damage and mitigate the effects of myocardial infarction (heart attack). While cardiovascular risk is often cited as a concern with cannabis use, Blesching presents evidence for cardioprotective mechanisms that may change how acute and chronic [[blesching-cannabis-cardiovascular-heart-disease-evidence-review]] are treated in the future.
+Uwe Blesching's *The [[blesching-cannabis-cardiovascular-heart-disease-evidence-review]] are treated in the future.
 
 ## The Paradox: Risk vs. Protection
 
@@ -26,17 +26,7 @@ The conventional medical perspective on cannabis and cardiovascular health focus
 
 ### Emerging Cardioprotective Evidence
 
-Blesching presents a counter-narrative based on preclinical research showing that THC may actively protect cardiac tissue. This represents a significant [[psilocybin-as-catalyst-for-paradigm-shift]]: THC is not merely neutral or risky for the cardiovascular system, but may contain protective properties relevant to the number-one cause of death in the United States.
-
-## Identified Cardioprotective Mechanisms
-
-### 1. Reduction of Heart Attack Size
-
-Studies in murine (mouse) models have demonstrated that THC administration can reduce the size (infarct area) of experimentally induced heart attacks. This finding suggests:
-
-- **Tissue salvage:** Less cardiac muscle dies during ischemic events when THC is present
-- **Dose-dependent effect:** The protective effect appears to follow a dose-response relationship
-- **[[blesching-cannabis-safety-profile-subjective-therapeutic-window]]:** Maximum protection occurs at specific dose ranges (not simply "more is better")
+Blesching presents a counter-narrative based on preclinical research showing that THC may actively protect cardiac tissue. This represents a significant [[blesching-cannabis-safety-profile-subjective-therapeutic-window]]:** Maximum protection occurs at specific dose ranges (not simply "more is better")
 
 The reduction in infarct size is clinically significant because the extent of cardiac tissue death during a heart attack directly determines:
 
@@ -60,10 +50,7 @@ The nitric oxide pathway is particularly relevant because:
 
 ### 3. Neuroprotection via CB1 Receptors
 
-CB1 receptors are found not only in the brain but also in cardiac tissue and the [[blesching-endocannabinoid-autonomic-nervous-system-adrenal-glands]] that regulates heart function. THC's CB1 agonism provides neuroprotection that indirectly benefits cardiac function:
-
-- **Autonomic regulation:** CB1 activation modulates the sympathetic and parasympathetic inputs to the heart
-- **[[epinephrine-stress-response-endocannabinoid-modulation-blesching]] modulation:** During cardiac events, excessive sympathetic activation (adrenaline surge) increases cardiac oxygen demand — CB1 activation may attenuate this harmful response
+CB1 receptors are found not only in the brain but also in cardiac tissue and the [[epinephrine-stress-response-endocannabinoid-modulation-blesching]] modulation:** During cardiac events, excessive sympathetic activation (adrenaline surge) increases cardiac oxygen demand — CB1 activation may attenuate this harmful response
 - **Anti-arrhythmic potential:** Some evidence suggests CB1 activation may stabilize cardiac electrical activity
 
 ### 4. Bronchodilation
@@ -117,8 +104,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[thc-heart-protective-mechanisms-myocardial-protection-cb1-nitric-oxide-blesching-2015]]
 - [[uwe-blesching]]
-- [[thc-heart-protective-mechanisms-blesching]]
 - [[doc]]
 - [[psilocybin]]

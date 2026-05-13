@@ -11,13 +11,7 @@ type: concept
 
 ## Overview
 
-Nitrogen-fixing trees are foundational elements in permaculture-soil-rehabilitation. They supply nitrogen to the system through root-associated bacteria, provide fodder, timber, firewood, and habitat while improving soil conditions for companion plantings. See also permaculture nitrogen fixing trees guide and [[permaculture-black-locust]] for more detail.
-
-### Honey Locust (Gleditsia triacanthos)
-
-**Family:** CAESALPINIACEAE
-
-A moderately fast growing, long lived legume native to [[psilocybin-north-america-pacific-northwest]], requiring 425-1500 mm rainfall. Often attains 24 m height with trunk diameters of 60-90 cm. Deep root system makes it capable of withstanding drought. Tolerant of both alkaline and acid soils and also of salt. Being deciduous, it allows light through in winter months.
+Nitrogen-fixing trees are foundational elements in permaculture-soil-rehabilitation. They supply nitrogen to the system through root-associated bacteria, provide fodder, timber, firewood, and habitat while improving soil conditions for companion plantings. See also permaculture nitrogen fixing trees guide and [[psilocybin-north-america-pacific-northwest]], requiring 425-1500 mm rainfall. Often attains 24 m height with trunk diameters of 60-90 cm. Deep root system makes it capable of withstanding drought. Tolerant of both alkaline and acid soils and also of salt. Being deciduous, it allows light through in winter months.
 
 Nutritive analysis of honey locust pods: protein 14.3-16%, sugar 15.5-26.5%, carbohydrate 60.5%, fat 7.5%. Said to be superior to oats as stock feed. By year 12 a yield of 9 t/ha/yr can be expected at 36 trees/ha, 18 t/ha/yr by year 15. Mature groves have reached 50-60 t/ha/yr in selected plantings. Pods can also be used for human food and alcohol fuel production.
 
@@ -37,13 +31,7 @@ The timber has similar density and strengths to oak, ash, birch and sugar maple.
 
 **Leucaena esculenta** (Guaje) -- Large tree (18-20 m), native to highland Mexico (1000-2200 m altitude). Cold tolerant. Leaves low in mimosine. In Mexico, the Zapotec people eat the immature green bean as a vegetable -- they have a garlic flavour.
 
-**Leucaena diversifolia** -- Fast growing, native to [[guzman-allen-gartz-neurotropic-fungi-central-america-caribbean]] at altitudes to 2000 m. Low mimosine content. Good seed yield.
-
-### Albizia (Albizia spp)
-
-**Family:** MIMOSACEAE
-
-**Albizia lebbek** (Siris Tree) -- A moderately fast growing tree to 30 m, trunk diameter to 1 m, native to the Indian subcontinent. Rainfall 500-2000 mm. Good for [[permplant-willows-salix-erosion-control-fodder]] due to strong root system. Tolerant of salt spray, grows well near the sea shore. Timber resembles rosewood -- good furniture timber. Coppices fairly well, dense firewood. Foliage contains about 20% protein. Allegedly one tree can provide 27% of a cow's annual feed. Highly regarded for light coloured honey.
+**Leucaena diversifolia** -- Fast growing, native to [[permplant-willows-salix-erosion-control-fodder]] due to strong root system. Tolerant of salt spray, grows well near the sea shore. Timber resembles rosewood -- good furniture timber. Coppices fairly well, dense firewood. Foliage contains about 20% protein. Allegedly one tree can provide 27% of a cow's annual feed. Highly regarded for light coloured honey.
 
 **Albizia lophantha** (Crested Wattle) -- A small, fast growing, nitrogen fixing, semi-deciduous tree or sprawling shrub to 4-15 m. Native to coastal areas of south western Western Australia. Rainfall 650-1120 mm. Moderately frost tolerant. Fast growth makes it good for rehabilitation of sand dunes and soil stabilisation as well as shelterbelts. Cattle browse the leaves. Propagation by scarified seed.
 
@@ -51,21 +39,7 @@ The timber has similar density and strengths to oak, ash, birch and sugar maple.
 
 **Family:** MIMOSACEAE
 
-An evergreen tree native to the Neo-tropics, growing to 18 m height and 4 m spread. Has root associates which fix atmospheric nitrogen. Used as a nurse crop -- unusual to find a nurse species with an edible bean. The white sugar-rich pulp is spooned from around the seeds and eaten fresh, said to have a sweet flavour and smooth texture not unlike ice cream. Used in alley cropping in Chile, shade for [[mollison-designers-shade-grown-coffee-and-cacao-systems]], street tree. There are more than 400 Inga species and most appear to be edible.
-
-### Rosewood (Tipuana tipu)
-
-**Family:** FABACEAE/PAPILIONACEAE
-
-Also called pride of Bolivia, this fast growing tree is native to South America. Can grow to 40 m with 6 m spread, trunk to 1.6 m diameter. Nitrogen fixing. Grown as nurse crop to coffee and other crops needing shade from severe heat. In Argentina, the timber is highly prized for furniture and cabinet making -- light coloured, finely striped, takes high polish.
-
-## Non-Leguminous Nitrogen Fixers
-
-### Alders (Alnus spp)
-
-**Family:** BETULACEAE
-
-A genus of 30 species which, although not legumes, can fix up to 300 kg/ha/yr of nitrogen through root nodules formed by the bacteria Schinzia alni. Mostly deciduous and many are notable softwood timber trees. Wide spaced planting has been known to increase fodder production several fold through [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]] and shelter. Inoculation of new soils necessary to ensure nitrogen fixation.
+An evergreen tree native to the Neo-tropics, growing to 18 m height and 4 m spread. Has root associates which fix atmospheric nitrogen. Used as a nurse crop -- unusual to find a nurse species with an edible bean. The white sugar-rich pulp is spooned from around the seeds and eaten fresh, said to have a sweet flavour and smooth texture not unlike ice cream. Used in alley cropping in Chile, shade for [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]] and shelter. Inoculation of new soils necessary to ensure nitrogen fixation.
 
 **Alnus glutinosa** (Common Alder, Black Alder) -- Throughout Europe and North Africa, to 27 m. Grows along watercourses and in wet swampy lands, even flourishing in areas frequently inundated by salt or brackish water. Leaves eaten by horses, goats, cows and sheep. Wood grows harder in water, useful for waterside structures, pumps and sluices. Used for clogs, turnery, chair making, carts, spinning wheels, bowls, herring barrel staves and carving. Bark used in dyeing (red, black, yellow, cinnamon, green, pinkish-fawn colours). Medicinally: bark decoction for swellings and inflammation, inner bark boiled in vinegar for lice and skin problems. Leaves spread across floor catch fleas on their glutinous surface. Propagation by seed in spring or by cuttings.
 
@@ -87,3 +61,88 @@ Key species:
 - **Casuarina stricta** (Drooping Sheoak) -- To 9 m, tolerates frost, dry ridges, poor coastal sands, rocky ground and saline soils. Outstanding wood for turnery.
 
 ## Other Nitrogen Fixers
+
+## Overview
+
+Permaculture Nitrogen Fixing Trees Guide represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish permaculture nitrogen fixing trees guide
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving permaculture extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Permaculture Nitrogen Fixing Trees Guide finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for permaculture nitrogen fixing trees guide. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+permaculture nitrogen fixing trees guide and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Permaculture Nitrogen Fixing Trees Guide has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of permaculture nitrogen fixing trees guide into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[eucalyptus-permaculture]]
+- [[holzer-thailand-permaculture-project]]
+- [[mollison-permaculture-design-course-curriculum]]
+- [[permaculture-designers-manual-sacred-groves]]
+- [[permaculture-japanese-raisin-tree-hovenia-dulcis]]

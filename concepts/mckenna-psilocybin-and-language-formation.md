@@ -12,9 +12,7 @@ tags: [psilocybin]
 
 A core argument in [Food of the Gods is
 that psilocybin acted as the primary catalyst for the emergence of human
-language. [[psychedelic-mushroom-set-and-setting]] contends that the uniquely human capacity for
-language did not arise from purely internal evolutionary pressures but was
-synergized by the inclusion of [[mckenna-stropharia-cubensis-extraterrestrial-hypothesis-spore-dispersal]] mushrooms in the hominid diet. This argument connects to the
+language. [[mckenna-stropharia-cubensis-extraterrestrial-hypothesis-spore-dispersal]] mushrooms in the hominid diet. This argument connects to the
 broader [catalytic model of
 psychedelics in culture.
 
@@ -49,15 +47,7 @@ development remain unknown. Where psychoactive plant use was present, hominid
 nervous systems over many millennia would have been flooded by hallucinogenic
 realms of strange and alien beauty. Evolutionary necessity channels awareness
 into a narrow cul-de-sac where ordinary reality is perceived through the
-[[mckenna-huxley-mind-at-large-reducing-valve]] of the senses; the interior world of the imagination was kept
-far from ordinary consciousness.
-
-## The Epigenetic Route to Genetic Fixation
-
-Addressing the objection that external chemical enhancement should retard
-genetic development, McKenna proposes an epigenetic pathway. Psilocybin
-changed the parameters of natural selection by altering behavioral patterns.
-The augmentation of [[mckenna-roland-fischer-psilocybin-visual-acuity]], language use, and ritual activity through
+[[mckenna-roland-fischer-psilocybin-visual-acuity]], language use, and ritual activity through
 psilocybin represented new behaviors. Language use, previously only marginally
 important, suddenly became very useful in the context of new hunting and
 gathering lifestyles. Psilocybin inclusion in the diet shifted human behavior

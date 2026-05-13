@@ -78,8 +78,6 @@ The gentler comedown compared to MDMA does not eliminate the risk of serotonin s
 
 ## See Also
 
-- [[2-br-4-5-mda-entity-pihkal]]
 - [[4t-mmda-2-entity-pihkal]]
-- [[mdma-reference]] — the N-methyl parent compound, the most widely used entactogen
 - [[2c-b]] — phenethylamine with overlapping entactogenic and psychedelic effects
 - [[ethylone]]

@@ -1,14 +1,14 @@
 ---
 title: Mushroom Drying Preservation
 created: 2026-05-11
-source: PF TEK by [[pf-tek-psilocybe-fanaticus]] (1996)
+source: PF TEK by pf-tek-psilocybe-fanaticus (1996)
 tags: [drying, preservation, desiccation, mushroom-storage, potency, harvesting, PF-TEK]
-aliases: [magic mushroom drying, mushroom desiccation, preserving [[amanita-muscaria-legal-alternative-psilocybin-mushrooms-europe]], [[mushroom-storage-and-processing-methods]]
+aliases: [magic mushroom drying, mushroom desiccation, preserving mushroom-storage-and-processing-methods
 ---
 
 # Mushroom Drying and Preservation
 
-The drying and preservation of harvested mushrooms is a critical final stage in the PF TEK cultivation process. Freshly harvested mushrooms contain approximately **90% water by weight** and will begin to decompose within hours of picking if not properly preserved. Drying accomplishes three essential goals: it dramatically extends shelf life, concentrates the active compounds, and reduces weight for storage and transport. The PF TEK describes several drying methods, with **cool desiccation** using desiccant materials being the recommended approach.
+The drying and preservation of harvested mushrooms is a critical final stage in the [[pf-tek]] cultivation process. Freshly harvested mushrooms contain approximately **90% water by weight** and will begin to decompose within hours of picking if not properly preserved. Drying accomplishes three essential goals: it dramatically extends shelf life, concentrates the active compounds, and reduces weight for storage and transport. The PF TEK describes several drying methods, with **cool desiccation** using desiccant materials being the recommended approach.
 
 ## Why Dry Mushrooms
 
@@ -22,29 +22,7 @@ Fresh mushrooms deteriorate rapidly due to their high water content. Without int
 
 ### Potency Concentration
 
-Drying removes water while retaining the active alkaloids ([[hplc-analysis-of-psilocybin-and-psilocin]]). Since fresh mushrooms are approximately 90% water, drying produces a roughly **10:1 concentration** by weight:
-
-- 10 grams of fresh mushrooms yields approximately 1 gram of dried material
-- The dried material contains the same total amount of active compounds as the fresh material
-- This concentration factor must be considered when calculating dosages
-
-### Weight Reduction
-
-The practical advantages of reduced weight are significant:
-- Easier storage in smaller containers
-- Lower shipping weight for mail-order distribution
-- More compact for long-term storage
-- Reduced volume in personal stashes
-
-## Harvesting for Optimal Drying
-
-### Timing
-
-The timing of harvest affects both the quality of fresh mushrooms and the success of drying:
-
-- **Optimal harvest**: Just before or as the veil beneath the cap begins to tear
-- **Too early**: Caps are small and potency may not be fully developed
-- **Too late**: Caps are fully open, spores are dropping, and potency may begin to decline as the mushroom redirects energy toward [[geotropism-and-spore-production-in-mushrooms]]
+Drying removes water while retaining the active alkaloids ([[geotropism-and-spore-production-in-mushrooms]]
 
 ### Harvesting Technique
 
@@ -130,8 +108,6 @@ The **snap test** is the standard method for verifying that mushrooms are fully 
 
 ## See Also
 
-- [[pf-tek-cultivation-method]]
 - [[vermiculite-brown-rice-substrate]]
-- [[spore-syringe-inoculation]]
 - [[psilocybin-chemistry]]
 - mushroom potency

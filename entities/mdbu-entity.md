@@ -9,9 +9,7 @@ sources:
 ---
 # MDBU (N-Butyl-MDA; 3,4-Methylenedioxy-N-butylamphetamine)
 
-MDBU is a substituted amphetamine compound and the N-butyl derivative of [[mda]], with a four-carbon butyl chain replacing the hydrogen on the nitrogen atom.
-
-MDBU was synthesized as part of the systematic exploration of N-alkyl [[phenethylamine-chain-length-effects]] on the MDA scaffold.
+MDBU is a substituted amphetamine compound and the N-butyl derivative of [[phenethylamine-chain-length-effects]] on the MDA scaffold.
 
 ## Pharmacological Profile
 
@@ -71,11 +69,7 @@ The reaction with simple ammonia (as ammonium acetate) gives consistently poor y
 
 mdma has N-methyl and is a potent entactogen.
 
-[[mdal-entity]] has N-allyl and is inactive, and appears to antagonize LSD.
-
 [[mda]]
-
-[[mde-entity]]
 
 [[mdpr-entity]]
 

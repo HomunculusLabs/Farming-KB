@@ -16,21 +16,7 @@ type: concept
 # Soak and Strike Forcing of Log-Grown Mushrooms
 
 The "soak and strike" method is the traditional Japanese
-technique for initiating [[bloomfield-mushroom-formation-fruiting-body-development-cultivation]] on colonized
-logs. Once logs have been inoculated with sawdust or plug
-spawn and stacked in ricks for 6-12 months, they are
-initiated by heavy watering or soaking. After soaking, the
-logs are lined up in fence-like rows for fruiting.
-
-## The Basic Method
-
-After the colonization period of 6-12 months, logs are
-submerged in cold water for 12-24 hours. This soaking
-serves several purposes:
-
-1. It rehydrates the wood to optimal moisture levels
-2. The temperature shock triggers the mycelium to shift
-   from [[cannabis-vegetative-growth-stage]] to reproductive mode
+technique for initiating [[cannabis-vegetative-growth-stage]] to reproductive mode
 3. Physical shock from handling stimulates fruiting
 4. Competitor organisms may be temporarily suppressed
 
@@ -42,34 +28,14 @@ days after soaking.
 
 ## Indoor Block Soaking
 
-The same principle applies to [[cannabis-sativa-indoor-cultivation-techniques]] on
-sterilized sawdust blocks. After each flush, the blocks
-sit dormant for 7-10 days, after which they are placed
-into a soaking tank and submerged in water for 24-36
-hours. After submersion, the blocks are spaced well apart
-and placed onto open-wire shelves. These same blocks on
-solid shelves would contaminate with green molds.
-
-The first flush of Shiitake on indoor blocks is initiated
-by simply elevating humidity and watering. Subsequent
-flushes are initiated by submerging the blocks into cold
-water for 24-36 hours. The fruiting cycle usually spans no
-more than 3 months from the time of the first flush.
-
-See also: [[growing-gourmet-primordia-formation-pinning]]
+The same principle applies to [[growing-gourmet-primordia-formation-pinning]]
 
 ## Wood Ear Soaking Method
 
 For Wood Ear mushrooms (Auricularia polytricha), the most
 common technique used in Asia has been to cut logs 3 feet
 or a meter in length, 5-12 inches in diameter, in the late
-fall to [[coleman-overwintered-onions-and-early-spring-crops]]. The logs are drilled with holes and
-spawn is packed tightly into the cavities. To initiate
-mushroom formation, the logs are submerged in water for
-24 hours.
-
-See also: growing-gourmet-biological-efficiency-yield
-See also: [[shiitake-mushroom-cultivation]]
+fall to [[shiitake-mushroom-cultivation]]
 ## Practical Considerations
 
 Successful implementation of Soak and Strike Forcing of Log-Grown Mushrooms requires attention to
@@ -118,8 +84,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[auricularia-polytricha]]
 - [[mycelium]]
-- [[hamilton-potting-compost-recipes-and-growing-media]]
 - [[solomon-climate-zones-and-growing-seasons]]
 - [[query-how-to-test-and-remediate-urban-soil-for-food-growing]]

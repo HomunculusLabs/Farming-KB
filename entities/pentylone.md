@@ -18,8 +18,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - Zaitsu, K. et al. (2009). "Ring-substituted cathinones." Forensic Toxicology, 27(1), 7–16.
-  - EMCDDA (2014). "Report on the risk assessment of methylone in the framework of the Council Decision on new [[cultural-evolution-and-psychoactive-substances]]." European Monitoring Centre for Drugs and Drug Addiction.
-  - El Balkhi, S. et al. (2023). "[[shirota-psilocybin-crystal-form-spectral-data-and-analytical-characterization]] of pentylone and its metabolites." psychedelic-drug-testing-and-adulterant-screening and Analysis, 15(2), 289–302.
+  - EMCDDA (2014). "Report on the risk assessment of methylone in the framework of the Council Decision on new shirota-psilocybin-crystal-form-spectral-data-and-analytical-characterization of pentylone and its metabolites." psychedelic-drug-testing-and-adulterant-screening and Analysis, 15(2), 289–302.
   - https://pubchem.ncbi.nlm.nih.gov/compound/Pentylone
 aliases:
   - β-K-MBDB
@@ -37,44 +36,7 @@ Pentylone (β-keto-MBDB) is a synthetic substituted cathinone and novel psychoac
 
 The compound first appeared on the recreational drug market around 2010 and has since been sold under various names including "NRG-1" variants and as an adulterant or substitute for MDMA and methylone.
 
-Pentylone is classified as a controlled substance in many jurisdictions and has been linked to serious [[blesching-cannabis-safety-adverse-effects-evidence]] including hyperthermia, serotonin syndrome, and fatalities.
-
-## Chemical Properties
-
-- **Molecular formula:** C₁₃H₁₇NO₃
-- **Molecular weight:** 235.28 g/mol
-- **IUPAC name:** 1-(1,3-benzodioxol-5-yl)-2-(methylamino)pentan-1-one
-- **Chemical class:** Substituted cathinone (β-keto-phenethylamine)
-- **CAS number:** 5250-39-5
-
-The structure features a benzodioxole ring system attached to a pentanone backbone with an N-methylamino group. This β-keto cathinone scaffold is shared with methylone, butylone, ethylone, and eutylone.
-
-## Pharmacology
-
-Pentylone acts as a non-selective triple reuptake inhibitor, blocking the serotonin transporter (SERT), dopamine transporter (DAT), and norepinephrine transporter (NET) with moderate potency.
-
-In vitro studies indicate the following approximate order of transporter affinity: SERT > DAT ≈ NET, though the exact ratios vary between assay systems. This profile is similar to MDMA but with generally lower potency at each transporter.
-
-The extended pentyl chain compared to methylone reduces DAT affinity relative to SERT, potentially producing a more serotonergic (empathogenic) than dopaminergic (stimulant) effect profile, though subjective reports vary.
-
-## Effects
-
-The subjective effects of pentylone are described as a combination of mild stimulant euphoria and reduced entactogenic effects compared to MDMA. Users report increased energy, sociability, and mild sensory enhancement.
-
-The onset occurs within 30–60 minutes when taken orally, with effects lasting 3–5 hours. The experience is often described as less "deep" or emotionally connective than MDMA, with more pronounced stimulant qualities.
-
-Comedown effects include fatigue, anxiety, irritability, and depressed mood lasting 12–48 hours. Users commonly report that the experience feels "hollow" compared to traditional empathogens.
-
-## Dosage
-
-Oral dosage ranges (approximate, based on user self-reports):
-
-- **Threshold:** 50–80 mg
-- **Light:** 80–120 mg
-- **Common:** 120–160 mg
-- **Strong:** 160–200 mg
-
-Doses above 200 mg significantly increase the risk of [[adverse-effects-and-harm-reduction-psilocybin]] including tachycardia, hypertension, hyperthermia, and serotonin syndrome. Individual sensitivity varies substantially.
+Pentylone is classified as a controlled substance in many jurisdictions and has been linked to serious [[adverse-effects-and-harm-reduction-psilocybin]] including tachycardia, hypertension, hyperthermia, and serotonin syndrome. Individual sensitivity varies substantially.
 
 Insufflation produces faster onset but shorter duration and increased nasal irritation. Intravenous use is strongly discouraged due to high [[cannabis-safety-profile-and-overdose-risk]].
 
@@ -87,3 +49,83 @@ Serious risks include serotonin syndrome (especially when combined with other se
 Multiple fatalities have been associated with pentylone use, often involving polydrug combinations or dehydration. The compound has been identified in forensic toxicology casework globally.
 
 Chronic use may lead to tolerance, dependence, and persistent mood disturbances including anxiety and anhedonia.
+
+## Overview
+
+Pentylone represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish pentylone
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving pentylone extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Pentylone finds practical application in multiple design contexts.
+[[permaculture-principles]] guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for pentylone. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+pentylone and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Pentylone has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of pentylone into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+- [[turner-2cb-erotic-empathogen]]

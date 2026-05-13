@@ -17,8 +17,7 @@ a central question in plant microbiome research. Winston et al. (2014)
 provided the first comprehensive investigation of cultivar-specific effects
 on the Cannabis microbiome, studying five distinct cultivars in controlled
 field conditions. Their findings revealed that Cannabis genotype
-significantly shapes the [[cannabis-endorhiza-microbiome|endorhiza]] while
-having minimal effect on [[rhizosphere-bulk-soil-microbial-comparison|bulk soil]] communities.
+significantly shapes the [[rhizosphere-bulk-soil-microbial-comparison|bulk soil]] communities.
 
 ## Cultivars Studied
 
@@ -46,10 +45,7 @@ between cultivars using weighted UniFrac distances, while zero OTUs were
 significant in unweighted analyses.
 
 This means cultivar genotype does not determine which taxa are present or
-absent from the [[cannabis-endorhiza-microbiome|endorhiza]], but influences
-their relative abundances. All cultivars share the same pool of potential
-root colonizers drawn from soil via the first tier of the
-[[two-tier-selection-model-plant-microbiome]], but each creates a
+absent from the [[two-tier-selection-model-plant-microbiome]], but each creates a
 distinctive root environment favoring different proportions of shared taxa.
 
 ## Proteobacteria Differences Between Cultivars
@@ -58,12 +54,7 @@ The Proteobacteria phylum showed the most pronounced cultivar-specific
 abundance variation in the endorhiza (Winston et al. 2014):
 
 - **Pseudomonadales**: Pseudomonas varied significantly between cultivars.
-  As a core endorhiza component, [[otu-differential-abundance-cannabis-microbiome]] may reflect
-  cultivar-specific exudate profiles selectively promoting different strains.
-- **Burkholderiales**: Showed cultivar-dependent enrichment. This order
-  includes both beneficial and pathogenic species, with differential
-  abundance potentially influencing disease susceptibility.
-- **Sphingomonadales**: [[sphingomonas-wittichii-cannabis-endorhiza-strain-specificity]] was specifically associated
+  As a core endorhiza component, [[sphingomonas-wittichii-cannabis-endorhiza-strain-specificity]] was specifically associated
   with Maui Wowie. This species degrades aromatic compounds, and its
   enrichment may relate to Maui Wowie's distinctive metabolite profile.
 - **Rhizobiales**: Nitrogen-fixing members varied between cultivars,
@@ -83,11 +74,7 @@ Bacteroidetes also contributed to cultivar-specific community signatures:
 ## Cannabinoid Concentration Correlation
 
 A striking finding was the strong correlation between cannabinoid
-concentrations and endorhiza [[edaphic-factors-microbial-community-structure]]. Winston et al.
-(2014) reported an r-statistic of 0.863, indicating very strong
-association. Two hypotheses explain this:
-
-1. **Plant-driven**: Cultivar-specific [[cannabinoid-biosynthesis-pathway]] produces
+concentrations and endorhiza [[cannabinoid-biosynthesis-pathway]] produces
 
 ## Practical Applications
 
@@ -118,8 +105,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[cannabis-sativa]]
 - [[dom]]
-- [[det]]
 - [[maui-wowie]]
 - [[sour-diesel]]

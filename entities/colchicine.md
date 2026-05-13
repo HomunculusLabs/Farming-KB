@@ -50,36 +50,7 @@ It is listed on the WHO Essential Medicines List.
 - **Structure:** Tricyclic structure with methoxy groups at positions
   1, 2, 3, and 10; an acetamido group at position 7
 - **Appearance:** Pale yellow to yellowish-white crystalline powder
-- **Solubility:** Slightly soluble in water; freely soluble in [[ethanol]],
-  chloroform; practically insoluble in ether
-
-Colchicine is a neutral compound with a pKa of 1.65, existing
-predominantly in un-ionized form at physiological pH.
-
-It is light-sensitive and must be stored protected from light.
-
-## Pharmacology
-
-Colchicine binds to the β-subunit of **tubulin** at a site distinct
-from the vinca alkaloid binding site, preventing microtubule
-polymerization.
-
-This disruption of microtubule dynamics has several downstream effects:
-
-- **Inhibition of neutrophil chemotaxis** — prevents migration of
-  activated neutrophils to sites of inflammation, reducing the
-  intense inflammatory response characteristic of gout flares.
-- **Inhibition of inflammasome activation** — blocks NLRP3 inflammasome
-  assembly, reducing IL-1β and IL-18 production.
-- **Disruption of cellular mitosis** — at higher concentrations,
-  colchicine arrests cells in metaphase by preventing spindle
-  formation (this is the basis of its antimitotic toxicity).
-- **Inhibition of adhesion molecule expression** — reduces endothelial
-  activation and leukocyte adhesion.
-
-The net anti-inflammatory effect is specific to rapidly dividing or
-highly mobile cells, particularly neutrophils, which explains its
-selective efficacy in neutrophil-driven [[cannabis-for-inflammatory-conditions]].
+- **Solubility:** Slightly soluble in water; freely soluble in [[cannabis-for-inflammatory-conditions]].
 
 ## Medical Applications
 
@@ -91,3 +62,85 @@ effects. Also used as prophylaxis during initiation of urate-lowering
 
 ## See Also
 - [[emcdda-hallucinogenic-mushroom-acute-toxicity-medical-management]]
+
+## Overview
+
+Colchicine represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish colchicine
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving colchicine extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Colchicine finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for colchicine. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+colchicine and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Colchicine has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of colchicine into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[cannabis-polyploidy-colchicine-treatment-clarke]]
+- [[cervantes-colchicine-polyploidy-mutagenesis]]

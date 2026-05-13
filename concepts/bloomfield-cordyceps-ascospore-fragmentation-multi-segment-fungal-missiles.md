@@ -33,10 +33,7 @@ weapon of extraordinary multiplicative power.
 
 ## The Ascus as Cannon
 
-*Cordyceps* employs an explosive [[fungal-spore-discharge-mechanism]] fundamentally
-different from the surface-tension catapult used by basidiomycete
-mushrooms. The asci develop inside tiny flask-shaped chambers called
-**perithecia** that pimple the upper surface of the [[bloomfield-mushroom-formation-fruiting-body-development-cultivation]]. Each
+*Cordyceps* employs an explosive [[bloomfield-mushroom-formation-fruiting-body-development-cultivation]]. Each
 perithecium contains many asci, and each ascus contains eight
 ascospores arranged in a single file.
 
@@ -44,21 +41,7 @@ When an ascus reaches maturity, a precise sequence of events unfolds:
 
 1. The ascus elongates, pushing its tip through the ostiole (opening)
    at the center of the perithecium
-2. The ascus apex ruptures under [[bloomfield-turgor-pressure-and-hyphal-invasion]]
-3. The ascus fires its clutch of thread-shaped spores **one at a time**
-   into the air
-4. After discharging all eight spores, the spent ascus retracts into
-   the perithecium
-5. Within minutes, the next ascus protrudes and repeats the sequence
-
-This sequential firing mechanism means that a single perithecium can
-launch volley after volley of spores over an extended period, like a
-repeating cannon that reloads automatically from a belt of ammunition.
-
-## Multi-Segment Ascospores
-
-Each ascospore produced by *Cordyceps gunnii* spans approximately half
-a millimeter in length — enormous by [[bloomfield-fungal-spore-discharge-and-dispersal]] standards. Rather
+2. The ascus apex ruptures under [[bloomfield-fungal-spore-discharge-and-dispersal]] standards. Rather
 than being a simple, undivided cell, each spore is **built from 100 or
 more cellular segments** arranged end-to-end like the carriages of a
 train. These segments are held together within the intact spore, but
@@ -68,23 +51,7 @@ The fragmentation happens either in the air during flight or upon
 impact with a surface. The result is the conversion of one spore into
 100 or more individual infectious cells — each one capable of
 germinating and establishing a new infection if it lands on a suitable
-insect host. This is, as [[nicholas-money]] describes it, "a missile with
-numerous warheads."
-
-## The Multiplication Factor
-
-The sheer reproductive output of this system is staggering when the
-full multiplication is calculated:
-
-- **100+ segments per ascospore**
-- **8 ascospores per ascus**
-- **Many asci per perithecium**
-- **Hundreds to thousands of perithecia per fruiting body**
-
-A single *Cordyceps* fruiting body can therefore dispense **millions of
-infectious particles** from a single emergence event. This
-disease-causing potential is not accidental — it is the product of an
-evolutionary [[bloomfield-plant-hypersensitive-response-rust-arms-race]] between *Cordyceps* and its insect hosts that
+insect host. This is, as [[bloomfield-plant-hypersensitive-response-rust-arms-race]] between *Cordyceps* and its insect hosts that
 has been waged for hundreds of millions of years.
 
 ## *Cordyceps gunnii* — The Garden Hose Fungus
@@ -118,8 +85,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[spore]]
 - [[ascomycota]]
-- [[mycology]]
 - [[bloomfield-cordyceps-summit-disease-brain-chemistry-manipulation]]
 - [[entomopathogenic-fungal-diversity-cordyceps-insect-pathogens]]

@@ -54,9 +54,7 @@ Bioswales are designed as **conveyance features** and can handle high-intensity 
 
 ## Vegetation Requirements
 
-Constructed wetlands require emergent aquatic species tolerant of saturated or inundated conditions. Common choices include *[[phragmites-australis]]* (reed canary grass), *Scirpus* spp. (bulrushes), *Juncus* spp. (rushes), and *Iris versicolor* (blue flag iris). Plant density targets of 2–4 plants per square meter ensure adequate root-zone treatment.
-
-Bioswales use a broader palette of upland and mesic species. Native grasses (*[[echinacea-purpurea]]*, *Solidago* spp.) are preferred for [[permplant-willows-salix-erosion-control-fodder]], pollutant uptake, and [[dighton-fungal-drought-tolerance-plant-water-relations]]. Trees and shrubs may be included along swale margins for canopy interception.
+Constructed wetlands require emergent aquatic species tolerant of saturated or inundated conditions. Common choices include *[[echinacea-purpurea]]*, *Solidago* spp.) are preferred for [[dighton-fungal-drought-tolerance-plant-water-relations]]. Trees and shrubs may be included along swale margins for canopy interception.
 
 ## Maintenance and Long-Term Operation
 
@@ -119,11 +117,6 @@ Constructed wetlands and bioswales address overlapping but distinct niches in st
 
 ## Applications in Permaculture and Ecological Design
 
-Both systems integrate naturally into permaculture designs. Constructed wetlands serve as multifunctional elements—providing habitat, [[dighton-fungal-biomass-production-aquatic-ecosystems]], aesthetic value, and irrigation water recycling. They are central to [[mollison-designers-greywater-treatment-reedbeds]] systems and aquaculture integration, often paired with chinampas or floating gardens in advanced designs. Bioswales function as contour swales in earthworks design, infiltrating runoff into the landscape, recharging groundwater, and feeding adjacent food forests or garden zones. In [[query-how-does-keyline-design-work-in-permaculture]], bioswales placed along contour ridges can distribute water across broad land areas. In regenerative design frameworks, both systems contribute to closed-loop water cycles, biodiversity enhancement, and resilient site hydrology.
+Both systems integrate naturally into permaculture designs. Constructed wetlands serve as multifunctional elements—providing habitat, [[mollison-designers-greywater-treatment-reedbeds]] systems and aquaculture integration, often paired with chinampas or floating gardens in advanced designs. Bioswales function as contour swales in earthworks design, infiltrating runoff into the landscape, recharging groundwater, and feeding adjacent food forests or garden zones. In [[bioswales]]
 
-## See Also
-
-- [[bioswales]]
-
-- [[comparison-mangrove-restoration-vs-constructed-wetlands]]
 - [[mycoremediation]]

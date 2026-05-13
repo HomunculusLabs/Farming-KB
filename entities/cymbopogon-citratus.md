@@ -22,20 +22,7 @@ sources:
 
 # Cymbopogon citratus
 
-**Cymbopogon citratus** (DC.) Stapf, commonly known as **lemongrass**, **West Indian lemongrass**, **fever grass**, or **citronnelle**, is a tropical [[savory-perennial-grass-and-desertification]] in the family Poaceae. Native to Maritime [[psilocybe-southeast-asia-pacific]], it is cultivated worldwide in tropical and subtropical regions for its citrus-scented leaves, which yield essential oil rich in citral. The plant occupies a central role in [[oner-southeast-asian-sativa-heritage-thai-vietnamese-cambodian]] cuisine, traditional medicine, aromatherapy, and permaculture systems as a pest-deterrent companion plant and soil-stabilizing ground cover.
-
-## Taxonomy and Classification
-
-- **Kingdom:** Plantae
-- **Division:** Tracheophyta
-- **Class:** Liliopsida (Monocots)
-- **Order:** Poales
-- **Family:** Poaceae
-- **Subfamily:** Panicoideae
-- **Genus:** Cymbopogon
-- **Species:** C. citratus
-- **Authority:** (DC.) Stapf, 1906
-- **Note:** Frequently confused with [[cymbopogon-flexuosus]] (East Indian lemongrass), which has a similar chemistry but different morphology and native range
+**Cymbopogon citratus** (DC.) Stapf, commonly known as **lemongrass**, **West Indian lemongrass**, **fever grass**, or **citronnelle**, is a tropical [[psilocybe-southeast-asia-pacific]], it is cultivated worldwide in tropical and subtropical regions for its citrus-scented leaves, which yield essential oil rich in citral. The plant occupies a central role in [[cymbopogon-flexuosus]] (East Indian lemongrass), which has a similar chemistry but different morphology and native range
 
 ## Botanical Description
 
@@ -43,48 +30,93 @@ sources:
 - **Stems:** Cylindrical, cane-like pseudostems formed by tightly rolled leaf bases, pale green to yellowish, slightly bulbous at the base
 - **Leaves:** Long, narrow, linear-lanceolate, 60–150 cm × 1–3 cm; glaucous green; edges rough and slightly serrated; strongly aromatic when crushed
 - **Inflorescence:** Panicle, rarely produced in cultivation; flowering is uncommon outside tropical conditions
-- **Roots:** Dense fibrous root system; shallow but extensive, excellent for soil stabilization and [[permplant-willows-salix-erosion-control-fodder]] on slopes and embankments
-- **Propagation:** Primarily vegetative via division of clumps; seed viability is low in commercial cultivars
-
-## Distribution and Habitat
-
-- **Native range:** Maritime Southeast Asia — likely Malaysia, Indonesia, or the Philippines; the exact wild origin is debated
-- **Naturalized:** Widely naturalized throughout the tropics and subtropics of Africa, the Americas, South Asia, and Oceania
-- **Cultivated:** Major producers include India, Thailand, Vietnam, Brazil, Guatemala, China, Sri Lanka, and Indonesia
-- **Habitat:** Open grasslands, forest margins, disturbed sites, cultivated fields; thrives in full sun
-- **Hardiness:** USDA zones 9–11; dies back to roots below 10°C; killed by prolonged frost
-- **Soil preference:** Prefers fertile, well-drained sandy loams but tolerates a wide pH range (5.0–8.3); moderately salt-tolerant
-
-## Key Phytochemicals
-
-- **Citral (geranial + neral):** The dominant constituent at 65–85% of the essential oil; a mixture of two geometric isomers — geranial (citral A, E-isomer) and neral (citral B, Z-isomer); responsible for the characteristic lemon aroma and most pharmacological activity
-- **Myrcene:** Monoterpene present at 10–20%; contributes to anti-inflammatory and sedative effects
-- **Geraniol:** Monoterpene alcohol at 3–8%; antimicrobial and insect-repellent properties
-- **Limonene:** Present at 1–3%; adds citrus notes and has demonstrated chemopreventive activity
-- **Citronellal:** Minor component (0.5–2%); contributes to insect-repellent efficacy
-- **Flavonoids:** Including luteolin, apigenin, chlorogenic acid, and isoorientin from leaf extracts
-- **Phenolic acids:** Caffeic acid, ferulic acid, and p-coumaric acid with antioxidant activity
-
-## Traditional and Medicinal Uses
-
-- **Digestive aid:** Tea infusion used throughout Southeast Asia and Latin America for indigestion, bloating, flatulence, and stomach cramps; spasmolytic activity confirmed in animal models
-- **Fever reduction:** Known as "fever grass" in the Caribbean; traditional use for reducing fever in malaria and dengue, though it does not treat the underlying infection
-- **Anti-inflammatory:** Citral inhibits COX-2 and NF-κB pathways; used topically for arthritis, muscle pain, and headaches in traditional Thai and Brazilian medicine
-- **Antimicrobial:** Essential oil demonstrates broad-spectrum activity against Gram-positive bacteria ([[staphylococcus-aureus]], [[bacillus-subtilis]]), Gram-negative bacteria (Escherichia coli, Pseudomonas aeruginosa), and fungi ([[bloomfield-candida-albicans-yeast-hyphal-dimorphism]], [[aspergillus-niger]])
-- **Anxiolytic and sedative:** Lemongrass tea is used as a mild calming agent in traditional medicine; animal studies confirm anxiolytic effects potentially mediated by GABA-A modulation
-- **Antioxidant:** Leaf infusions and essential oil show significant free-radical scavenging activity (DPPH, ABTS assays)
-- **Antihyperlipidemic:** Animal studies demonstrate reduction in total cholesterol, LDL, and triglycerides with chronic administration of leaf extract
-- **Topical wound healing:** Traditional application of pounded leaves to wounds, burns, and skin infections; supported by antimicrobial and anti-inflammatory activity
-
-## Culinary Applications
-
-- **Southeast Asian cuisine:** Essential ingredient in Thai tom yum soup, green and red curries, Indonesian soto, and Vietnamese pho; the lower bulbous stem bases are bruised and added to broths and marinades
-- **Tea:** Fresh or dried leaves brewed as a refreshing, caffeine-free herbal tea throughout Southeast Asia, the Caribbean, and Africa
-- **Marinades:** Lemongrass pairs with galangal, garlic, chili, and fish sauce in Southeast Asian marinades for poultry, seafood, and pork
-- **Preservation:** Lemongrass oil and leaves used traditionally to preserve food due to [[mycelium-running-mushroom-antimicrobial-properties-species-chart]]
+- **Roots:** Dense fibrous root system; shallow but extensive, excellent for soil stabilization and [[staphylococcus-aureus]], [[bloomfield-candida-albicans-yeast-hyphal-dimorphism]], [[mycelium-running-mushroom-antimicrobial-properties-species-chart]]
 - **Beverage industry:** Natural flavoring agent for teas, soft drinks, and alcoholic beverages globally
 
 ## Cultivation and Permaculture Role
 
 - **Propagation:** Division of established clumps is the standard method; each division should have 3–5 tillers with intact roots; plant 30–60 cm apart
 - **Growth rate:** Fast-growing; reaches harvestable size in 3–4 months from planting
+
+## Overview
+
+Cymbopogon Citratus represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish cymbopogon citratus
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving cymbopogon extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Cymbopogon Citratus finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for cymbopogon citratus. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+cymbopogon citratus and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Cymbopogon Citratus has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of cymbopogon citratus into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[cymbopogon-flexuosus]]
+- [[cymbopogon-martinii]]
+- [[cymbopogon-winterianus]]

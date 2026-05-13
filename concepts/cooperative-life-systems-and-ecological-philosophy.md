@@ -8,17 +8,9 @@ type: concept
 
 ## Overview
 
-At the heart of permaculture philosophy lies a fundamental assertion about the nature of life: that cooperation, not competition, is the basis of existing life systems. This concept, developed by [[bill-mollison]] through decades of observation of natural ecosystems and human societies, challenges the dominant competitive paradigm of Western science and economics.
+At the heart of [[permaculture]] philosophy lies a fundamental assertion about the nature of life: that cooperation, not competition, is the basis of existing life systems. This concept, developed by [[mycorrhizal-fungi]] connect tree root systems, sharing nutrients across entire forests. Nitrogen-fixing bacteria provide essential nutrients to leguminous plants. Pollinators and flowering plants have co-evolved in relationships of mutual dependence. Even predator-prey relationships, while appearing competitive, serve cooperative functions at the ecosystem level by maintaining population balance and genetic health.
 
-## The Cooperative Basis of Life
-
-Mollison states the principle clearly:
-
-> Cooperation, not competition, is the very basis of existing life systems and of future survival.
-
-This is not merely an idealistic assertion but an observation grounded in ecological science. In natural ecosystems, species interact through complex webs of mutual benefit. [[mycorrhizal-fungi]] connect tree root systems, sharing nutrients across entire forests. Nitrogen-fixing bacteria provide essential nutrients to leguminous plants. Pollinators and flowering plants have co-evolved in relationships of mutual dependence. Even predator-prey relationships, while appearing competitive, serve cooperative functions at the ecosystem level by maintaining population balance and genetic health.
-
-Mollison cites lewis thomas (1974), who observed that "the bacteria... live by collaboration, accommodation, exchange, and barter." This microbial cooperation, occurring at the most fundamental level of life, supports the argument that cooperation is the default mode of biological organization.
+Mollison cites [[lewis-thomas]] (1974), who observed that "the bacteria... live by collaboration, accommodation, exchange, and barter." This microbial cooperation, occurring at the most fundamental level of life, supports the argument that cooperation is the default mode of biological organization.
 
 ## The Competitive Paradigm and Its Consequences
 
@@ -67,7 +59,7 @@ Mollison describes life as "the most open of open systems, able to take from the
 
 ## The Gaia Hypothesis in Permaculture
 
-Mollison draws extensively on [[james-lovelock]]'s [[gaia-hypothesis]] (1979), which proposes that the Earth functions as a self-regulating, self-constructed, and reactive system. This system creates and preserves the conditions that make life possible and actively adjusts to regulate disturbances.
+Mollison draws extensively on [[gaia-hypothesis]] (1979), which proposes that the Earth functions as a self-regulating, self-constructed, and reactive system. This system creates and preserves the conditions that make life possible and actively adjusts to regulate disturbances.
 
 The Gaia hypothesis provides a scientific framework that supports the permaculture understanding of Earth as a living system. It suggests that:
 

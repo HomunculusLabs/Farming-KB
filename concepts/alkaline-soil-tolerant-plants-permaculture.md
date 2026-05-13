@@ -6,25 +6,7 @@ type: concept
 
 # Alkaline Soil Tolerant Plants in Permaculture
 
-[[plants-tolerant-of-alkaline-soils]], characterised by high pH (typically above 7.5), present specific challenges for plant growth. Nutrients such as iron, manganese, zinc, copper, and boron become less available at high pH, causing deficiency symptoms even when those nutrients are present in the soil. Calcareous soils containing free limestone are particularly challenging. Selecting plants adapted to alkaline conditions is essential for productive permaculture in these environments, which are common in arid and semi-arid regions, limestone areas, and some coastal zones.
-
-## Understanding Alkaline Soil Challenges
-
-Key constraints in alkaline soils include:
-
-- **Iron chlorosis**: Yellowing of leaves due to iron unavailability, one of the most common deficiency symptoms.
-- **Nutrient lock-up**: Phosphorus, manganese, zinc, and copper become less soluble and available to plants.
-- **Calcareous hardpans**: Layers of calcium carbonate can restrict root penetration and water movement.
-- **High sodium**: Some alkaline soils also contain excess sodium, compounding osmotic stress.
-- **Free lime**: Active calcium carbonate in the root zone interferes with nutrient uptake.
-
-Many Australian native plants are naturally adapted to alkaline, calcareous soils, making them invaluable for permaculture systems on such sites.
-
-## Australian Native Acacias for Alkaline Soils
-
-Acacia species are among the most versatile and widely adapted plants for alkaline conditions in Australia:
-
-- **Acacia ampliceps** ([[salt-tolerant-plants-permaculture]] wattle, jila jila): Highly tolerant of saline and alkaline soils, native to northwestern Australia.
+[[salt-tolerant-plants-permaculture]] wattle, jila jila): Highly tolerant of saline and alkaline soils, native to northwestern Australia.
 - **Acacia aneura** (mulga): One of Australia's most iconic arid-zone trees, extremely drought-tolerant and adapted to calcareous soils.
 - **Acacia bivenosa** (two-veined acacia): Native to calcareous coastal and inland soils.
 - **Acacia cuspidifolia** (spine-tipped wattle): Adapted to alkaline conditions.
@@ -44,57 +26,6 @@ Acacia species are among the most versatile and widely adapted plants for alkali
 
 Many eucalypts naturally occur on alkaline and calcareous soils:
 
-- **[[eucalyptus-camaldulensis]]** (river red gum): Australia's most widely distributed eucalypt, naturally occurring on alkaline floodplain soils.
-- **Eucalyptus occidentalis** (swamp yate): Adapted to waterlogged alkaline sites in Western Australia.
-- **Eucalyptus platypus** and **Eucalyptus spathulata**: Western Australian species thriving on calcareous soils.
-- **Eucalyptus gomphocephala** (tuart): Grows on coastal limestone soils of Western Australia.
-- **Eucalyptus lansdowneana** and **Eucalyptus woodwardii**: Arid-zone species on alkaline earths.
-- **Eucalyptus torquata** (coral gum): An ornamental species adapted to alkaline conditions.
-
-## Casuarina and Allocasuarina Species
-
-- **Casuarina cristata** (black sheoak): Hardy on alkaline soils across inland Australia.
-- **Casuarina cunninghamiana** (river sheoak): Widely adapted to alkaline riverine soils.
-- **Casuarina humulis**: A prostrate species for alkaline coastal sites.
-- **Allocasuarina verticillata**: Hardy evergreen tree tolerant of alkaline conditions.
-
-## Ornamental and Useful Shrubs for Alkaline Soils
-
-### Flowering and Honey Shrubs
-
-- **Banksia spp**: Several species thrive on alkaline soils. **Banksia integrifolia** (coast banksia) provides good dark honey in autumn to winter. **Banksia marginata** (silver banksia) and **Banksia ornata** are also adapted.
-- **Grevillea spp**: **Grevillea ilicifolia** (holly grevillea), **G. leucopteris** (plume grevillea), and **G. pauciflora** provide honey and wildflowers on alkaline sites.
-- **Hakea suaveolens**: A hardy evergreen shrub providing honey and wildflowers.
-- **Callistemon viminalis** (weeping bottlebrush): A hardy evergreen tree for alkaline gardens.
-- **Calothamnus quadrifidus** (netbush): A hardy evergreen tree adapted to alkaline conditions.
-- **Melaleuca lanceolata** (western tea tree): Produces honey and pollen on alkaline coastal soils.
-- **Chamelaucium uncinatum** (Geraldton wax): A salt-tolerant evergreen shrub thriving on alkaline soils.
-
-### Mediterranean and Temperate Shrubs
-
-- **Cistus spp** (rock rose and sun rose): Evergreen shrubs producing masses of flowers on alkaline, well-drained soils.
-- **Lavandula spp** (lavender): Hardy evergreen shrubs providing essential oils, culinary, and medicinal uses. Many species prefer alkaline soils.
-- **Rosmarinus spp** (rosemary): Mediterranean herbs that prefer alkaline conditions.
-- **Juniperus communis** (juniper): Hardy evergreen shrub with berries used for flavouring, gin production, and tea. Berries have medicinal uses.
-- **Ceanothus spp**: Shrubs including *Ceanothus americanus*, used traditionally as a wash for skin cancers and as a tea substitute.
-- **Santolina spp**: Low evergreen Mediterranean shrubs with leaves used as flavouring.
-- **Forsythia spp**: Frost-resistant evergreen shrubs from China, adapted to alkaline garden soils.
-- **Caryopteris incana** (blue spirea): A deciduous shrub for alkaline borders.
-
-### Hardy Coastal and Dryland Shrubs
-
-- **Buddleia davidii** (butterfly bush): Hardy and attractive to pollinators.
-- **Calocephalus brownii** (cushionbush): A hardy evergreen shrub resistant to salt spray on alkaline coastal soils.
-- **Correa alba**: A hardy, salt-tolerant evergreen shrub whose leaves serve as a tea substitute.
-- **Correa decumbens**: Another hardy Correa species for alkaline conditions.
-- **Eremophila glabra** (tarbush), **E. longifolia** (berrigan), and **E. oppositifolia** (twin-leaf emu bush): Hardy Australian native shrubs adapted to alkaline arid soils. *Eremophila longifolia* is a traditional Aboriginal cure for colds and sores.
-- **Westringia spp**: Hardy flowering shrubs for alkaline coastal and inland sites.
-- **Pittosporum phillyreoides** (weeping pittosporum, meemeei): An evergreen shrub used in Australian Aboriginal medicine to treat cramps and pains, also providing stock feed.
-
-## Trees for Alkaline Soils
-
-### Fruit and Nut Trees
-
 - **[[carob-ceratonia-siliqua-mediterranean-leguminous-tree]]** (carob): A Mediterranean leguminous tree well-adapted to alkaline soils, producing edible pods.
 - **Phoenix dactylifera** (date palm): Thrives in alkaline desert soils.
 - **Pistacia atlantica** (Mt Atlas pistachio): Hardy on alkaline mountain soils.
@@ -107,11 +38,6 @@ Many eucalypts naturally occur on alkaline and calcareous soils:
 
 - **Quercus ilex** (holm oak): A classic Mediterranean oak thriving on alkaline soils.
 - **Quercus cerris** (Turkey oak) and **Quercus robur** (English oak): Tolerant of a range including calcareous soils.
-- **[[carpinus-betulus]]** (common hornbeam): A deciduous tree used for hedging, adapted to alkaline soils.
-- **Cedrus atlantica** (Mt Atlas cedar): A majestic conifer for alkaline well-drained sites.
-- **Populus alba** (white poplar) and **Populus canescens**: Large deciduous trees for alkaline riparian sites.
-- **Araucaria heterophylla** (Norfolk Island pine): Coastal and salt-tolerant, thriving on alkaline beach-front soils.
-- **Melia azedarach** (cape lilac, white cedar): An adaptable ornamental and timber tree.
 - **[[gleditsia-triacanthos]]** (honey locust): A nitrogen-fixing legume tree adaptable to alkaline conditions.
 
 ### Nitrogen-Fixing Trees
@@ -125,21 +51,7 @@ Many eucalypts naturally occur on alkaline and calcareous soils:
 - **Oryzopsis miliacea** (smilo, millet grass): A perennial grass for alkaline meadows.
 - **Trifolium fragiferum** (strawberry clover): A nitrogen-fixing ground cover for alkaline soils.
 - **Vinca spp** (periwinkle): Vigorous evergreen trailing shrubs providing ground cover for shade and full sun on alkaline sites.
-- **[[cortaderia-selloana]]** (pampas grass): An ornamental grass adapted to alkaline conditions.
-- **Agave spp**: One of the main food sources of Californian desert Indians; leaves are a source of sisal fibre and juice for tequila. Extremely well-adapted to alkaline desert soils.
-- **Yucca spp**: Desert plants with various species having edible fruits, flowers, leaves, and roots; fibre from leaves. Well-adapted to alkaline desert soils.
-
-## Food Crops for Alkaline Soils
-
-Several common food plants tolerate or prefer alkaline conditions:
-
-- **Asparagus officinalis**: Tolerates mildly alkaline soils.
-- **Chenopodium quinoa** (quinoa): Adapted to alkaline high-altitude soils in its native Andes.
-- **Pyracantha spp** (firethorns): Very hardy shrubs to 5 meters with berries providing poultry forage and flowers serving as bee forage.
-- **Malus spp** (apples): Tolerate mildly alkaline soils when grafted onto appropriate rootstocks.
-- **Fuchsia spp**: Ornamental with edible flowers and fruit, adaptable to alkaline garden conditions.
-
-## [[acid-and-alkaline-soil-management]] for Alkaline Sites
+- **[[acid-and-alkaline-soil-management]] for Alkaline Sites
 
 While plant selection is the primary strategy, soil management can improve conditions:
 
@@ -148,3 +60,88 @@ While plant selection is the primary strategy, soil management can improve condi
 3. **Mulching**: Organic mulches moderate soil temperature and improve moisture retention while gradually acidifying the surface layer.
 4. **Sulfur applications**: Elemental sulfur can be used to lower pH, but this is slow and requires soil microbial activity.
 5. **Avoid excessive phosphorus**: High phosphorus further reduces iron and zinc availability in alkaline soils.
+
+## Overview
+
+Alkaline Soil Tolerant Plants Permaculture represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish alkaline soil tolerant plants permaculture
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving alkaline extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Alkaline Soil Tolerant Plants Permaculture finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for alkaline soil tolerant plants permaculture. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+alkaline soil tolerant plants permaculture and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Alkaline Soil Tolerant Plants Permaculture has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of alkaline soil tolerant plants permaculture into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[acid-and-alkaline-soil-management]]
+- [[alkaline-soil-plants]]
+- [[jeavons-soil-ph-testing-balancing]]
+- [[lowenfels-tilling-no-till-soil-health]]
+- [[plants-tolerant-of-alkaline-soils]]

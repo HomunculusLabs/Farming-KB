@@ -8,28 +8,7 @@ sources: ["Shulgin - PIHKAL"]
 ---
 # BIS-TOM
 
-[[2c-b-pihkal-entry-20]] #12. 2,5-Bismethylthio-4-methyl-A.
-
-## Dosage and Duration
-
-| Property | Value |
-|----------|-------|
-| Dosage | greater than 160 mg. |
-| Duration | unknown. |
-
-## Qualitative Comments
-
-> (with 160 mg) I was vaguely aware of something
-> in the latter part of the afternoon. A suggestion of darting,
-> physically (when going to sleep), but nothing at the mental level.
-> This is as high as I will go.
->
-
-## Extensions and Commentary
-
-It is reasonable, in retrospect, to accept
-that BIS-TOM is not an active compound. The replacement of the
-2-position oxygen of [[dom]] with a sulfur atom (to give 2-TOM) dropped
+[[dom]] with a sulfur atom (to give 2-TOM) dropped
 the potency by a factor of 15x, and the replacement of the 5-position
 oxygen with a sulfur atom (to give 5-TOM) dropped the potency by a
 factor of about 10x. It would be a logical calculation that the
@@ -85,6 +64,87 @@ thermal rearrangement of the N,N-dimethylthioncarbamate. The impure
 ## Safety Notes
 
 ## See Also
-- [[aleph-entity-pihkal]]
-
 - [[bis-tom-pihkal-entry-12]]
+
+## Overview
+
+Bis Tom Entity Pihkal represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish bis tom entity pihkal
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving bis extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Bis Tom Entity Pihkal finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for bis tom entity pihkal. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+bis tom entity pihkal and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Bis Tom Entity Pihkal has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of bis tom entity pihkal into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[2c-c-entity]]
+- [[2c-o-4-entity]]
+- [[4-ho-dbt-entity-tihkal]]

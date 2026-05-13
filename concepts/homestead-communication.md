@@ -3,14 +3,13 @@ title: Homestead Communication
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
-tags: [[homesteading]], equipment, engineering, safety, community]
-sources:
-  - "raw/papers/coleman-new-organic-grower.md"
+tags: [homesteading, equipment, engineering, safety, community]
+sources: []
 ---
 
-# Homestead [[query-how-does-mycorrhizal-network-communication-work-between-plants]]
+# Homestead Communication
 
-Reliable communication is a lifeline for rural homesteaders. Remote locations often lack cellular service and high-speed internet, and during emergencies, standard communication [[query-what-is-the-wood-wide-web-and-how-do-mycorrhizal-networks-work]] can fail entirely. This page covers amateur (ham) radio, [[homestead-internet-options]] for rural areas, satellite communication, and emergency communication [[savory-land-planning-and-grazing-cell-design]].
+Reliable communication is a lifeline for rural homesteaders. Remote locations often lack cellular service and high-speed internet, and during emergencies, standard communication networks can fail entirely. This page covers amateur (ham) radio, internet options for rural areas, satellite communication, and emergency communication planning.
 
 ## Internet Options
 
@@ -29,10 +28,10 @@ Satellite is often the only viable option for remote homesteads. Technology has 
 
 **Viasat (Geostationary):**
 - 12-100 Mbps depending on plan
-- Higher latency (500-700ms) — [[holmgren-permaculture-front-end-design-vs-back-end-problem-solving]]atic for video calls and real-time applications
+- Higher latency (500-700ms) — problematic for video calls and real-time applications
 - Data caps on most plans (throttled after reaching limit)
 - Available virtually everywhere with a view of the southern sky
-- Less affected by weather than older satellite [[coleman-mobile-greenhouse-rotation-design-two-three-four-plot-systems]]
+- Less affected by weather than older satellite systems
 
 **HughesNet:**
 - 25-50 Mbps speeds
@@ -51,11 +50,11 @@ If you have cellular signal, cellular internet can be effective:
 - Data caps are the main limitation (50-100GB typical)
 - Useful as a backup or supplement to satellite
 
-**Cellular signal [[query-how-to-use-cover-crops-for-heavy-clay-soil-improvement]]:**
+**Cellular signal improvement:**
 - External directional antennas (Yagi or LPDA) pointed at nearest tower
 - Cellular signal boosters (weBoost, SureCall) — requires existing signal to amplify
 - Elevate antenna placement — higher is better (tower, mast, rooftop)
-- Check coverage [[maps]] carefully — signal strength varies significantly with terrain
+- Check coverage maps carefully — signal strength varies significantly with terrain
 
 ### Fixed Wireless (WISP)
 
@@ -72,7 +71,7 @@ If your homestead has landline phone service, DSL may be available:
 - Speeds typically 3-25 Mbps depending on distance from the telephone exchange
 - Limited by copper wire infrastructure
 - Declining availability as phone companies abandon copper networks
-- [[coleman-quick-hoops-low-cost-season-extension-structures-design]] ($30-50/month)
+- Low cost ($30-50/month)
 
 ## Amateur (Ham) Radio
 
@@ -101,7 +100,7 @@ Ham radio is the most reliable communication method during disasters. It require
 **VHF/UHF (local communication, 2-50 miles):**
 - Handheld transceiver (HT): $30-300 (Baofeng UV-5R is the budget standard)
 - Mobile radio in vehicle: $100-400
-- Base station antenna at height: dramatically [[query-how-do-i-extend-my-growing-season-with-cold-frames-and-season-extension-techniques]]s range
+- Base station antenna at height: dramatically extends range
 - GMRS radio (no license required, limited power): good for family communication
 
 **HF (long-distance, state to worldwide):**
@@ -141,10 +140,11 @@ Every homestead should have a dedicated emergency communication kit:
 - Written list of emergency contacts (physical copy)
 - Whistle for signaling
 - Signal mirror
-- Flares or signal strobe
 
-### Emergency Frequencies
+## See Also
 
-- 146.520 MHz — National simplex calling frequency (ham)
-- 446.000 MHz — National UHF simplex calling frequency (ham)
-- [[coleman-wiggle-wire-channel-greenhouse-plastic-attachment-system]] 19 (27.185 MHz) — CB emergency and trucker channel
+- [[homestead-energy-conservation]]
+- [[homestead-mushroom-business]]
+- [[homestead-winter-preparations]]
+- [[homestead-tool-maintenance]]
+- [[homestead-internet-options]]

@@ -109,7 +109,7 @@ mushrooms, many of which relate to preparation and ingestion:
 4. **Individual metabolism** — Body weight, stomach contents, enzyme
    activity, and tolerance all affect intensity and duration of effects.
 
-5. **Set and setting** — Psychological mindset and physical environment
+5. **[[set-and-setting]]** — Psychological mindset and physical environment
    profoundly shape the experience, often more than pharmacological
    variables alone.
 
@@ -124,7 +124,7 @@ mushrooms, many of which relate to preparation and ingestion:
 - Starting with a low dose and waiting 60-90 minutes before redosing helps
   avoid overwhelming experiences from delayed onset
 - Identification of species is critical, as several poisonous mushrooms
-  (e.g., Galerina marginata, which contains deadly amatoxins) resemble
+  (e.g., [[galerina-marginata]], which contains deadly amatoxins) resemble
   psilocybin-containing species in the wild
 - Users should avoid mixing hallucinogenic mushrooms with other substances,
   particularly alcohol, stimulants, and other serotonergic drugs
@@ -141,8 +141,6 @@ mushrooms, many of which relate to preparation and ingestion:
 - Wasson, V.P. & Wasson, R.G. (1957). Mushrooms, Russia and History.
 
 ## See Also
-- [[magic-mushroom-preparation-and-consumption-methods]]
 - [[smartshops-and-hallucinogenic-mushroom-retail]]
-- [[emcdda-hallucinogenic-mushroom-cultivation-and-growkit-market]]
 - [[emcdda-hallucinogenic-mushroom-spore-distribution-home-cultivation]]
 - [[emcdda-hallucinogenic-mushroom-dose-effects]]

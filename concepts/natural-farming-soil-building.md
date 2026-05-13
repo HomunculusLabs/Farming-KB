@@ -10,14 +10,8 @@ sources:
 ---
 # Natural Farming Soil Building
 
-Masanobu Fukuoka's approach to [[natural-farming-soil-management]]
-
-- [[fukuoka-ground-cover-strategy]] -- living [[fukuoka-citrus-orchard-ground-cover-cultivation]] protects soil
-- [[fukuoka-rice-and-barley-natural-farming]] -- the system that builds soil
-- [[holmgren-soil-humus-carbon-storage-rebuilding]]
+Masanobu Fukuoka's approach to [[fukuoka-ground-cover-strategy]] -- living [[fukuoka-rice-and-barley-natural-farming]] -- the system that builds soil
 - [[natural-farming-philosophy]] -- the broader philosophy
-
-- [[natural-farming-composting-methods]]
 
 - [[natural-farming-fpj-preparation]]
 

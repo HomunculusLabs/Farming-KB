@@ -20,30 +20,16 @@ choose the right method or combination of methods for their specific situation.
 ## Core Process Differences
 ### Traditional Composting (Thermophilic)
 Traditional composting is driven primarily by thermophilic (heat-loving) bacteria.
-As microbial populations rapidly break down organic matter, their [[arbuscule-isolation-metabolic-activity-assays]]
-generates heat that raises pile temperatures to 130 to 160 degrees Fahrenheit (54 to
-71 degrees Celsius). These high temperatures serve an important purpose: they kill
-weed seeds, destroy plant pathogens, and break down persistent [[fungal-volatile-organic-compounds-communication]].
+As microbial populations rapidly break down organic matter, their [[fungal-volatile-organic-compounds-communication]].
 The decomposition mechanism is largely biochemical. Successive waves of bacteria,
 actinomycetes, and fungi each specialize in breaking down different fractions of the
 organic material. Aerobic conditions must be maintained through regular turning to
 sustain the thermophilic phase. For detailed setup instructions, see the
-[[vermicomposting]] takes a completely different approach, using epigeic earthworms
-— most commonly Eisenia fetida (red wigglers) — to process organic material. Worms
-consume partially decomposed matter and pass it through their digestive tracts, where
-enzymes, gut microbes, and muscular grinding break it down further before it is
-excreted as castings.
-The process operates at mesophilic temperatures of 55 to 77 degrees Fahrenheit (13
-to 25 degrees Celsius), which is why worm bins must be protected from extreme heat
-and cold. Freezing temperatures can be lethal, and temperatures above 85 degrees
-Fahrenheit cause worms to flee or die. The underlying biology of these organisms is
-explored in [[composting-methods-comparison]].
+[[composting-methods-comparison]].
 ## Nutrient Content Comparison
 Vermicompost generally outperforms traditional compost in several measurable areas:
 - **Plant-available nutrients:** Worm castings contain higher levels of nitrate,
-  exchangeable phosphorus, and [[knf-water-soluble-potassium-detailed]]. The worm gut converts organic
-  nitrogen into ammonium and then nitrate, forms that plants can absorb immediately.
-- **[[teaming-with-microbes-humic-and-fulvic-acids]] acids:** Vermicompost is significantly richer in humic acids,
+  exchangeable phosphorus, and [[teaming-with-microbes-humic-and-fulvic-acids]] acids:** Vermicompost is significantly richer in humic acids,
   which improve soil structure, enhance nutrient retention, and increase root uptake
   efficiency. These compounds also chelate micronutrients, keeping them available in
   the soil solution for longer periods.
@@ -59,28 +45,6 @@ Vermicompost generally outperforms traditional compost in several measurable are
   finished castings. Research has shown that even small additions of vermicompost
   (5 to 10 percent by volume) can significantly improve seedling vigor and yield.
 The organisms responsible for these benefits are described in
-[[soil-foodweb]].
-## Input Materials Each Can Handle
-Traditional compost piles can handle a wide range of coarse materials including woody
-branches (when chipped), large volumes of fall leaves, grass clippings, straw, and
-cardboard. In well-managed hot piles that sustain temperatures above 131 degrees
-Fahrenheit for at least 3 days, even small amounts of meat, dairy, and diseased plant
-material can be safely composted because the high temperatures destroy pathogens.
-Vermicomposting works best with softer, pre-decomposed organic matter such as kitchen
-scraps (vegetable and fruit peels), coffee grounds and filters, shredded newspaper,
-cardboard, and aged herbivore manure. Fresh manure can generate enough heat to kill
-worms. Citrus, onions, garlic, and highly acidic or salty materials should be used
-sparingly. Material volume is limited by bin surface area since worms process from
-the surface downward, typically only 2 to 4 inches per feeding pass.
-## Space Requirements
-Traditional composting needs a larger footprint for outdoor piles or bays, typically
-at least 3 by 3 feet (approximately 1 cubic yard or 1 cubic meter) to generate and
-sustain sufficient heat for thermophilic decomposition. It is well suited to rural
-or suburban properties with yard space.
-Vermicomposting requires very little space and can be done entirely indoors. A
-standard worm bin occupies roughly 2 square feet of floor space and fits under a
-kitchen sink, in a closet, or on a balcony. This makes it ideal for apartments,
-classrooms, offices, and urban settings. Various container designs are compared in
 [[ozier-pdc-composting-and-soil-building]].
 ## Effort Level
 Traditional composting demands periodic turning, monitoring of moisture and
@@ -115,11 +79,4 @@ The fundamental distinction is that traditional composting relies on thermophili
 microbial activity to decompose organic matter at high temperatures, while
 vermicomposting uses earthworms at moderate temperatures to produce biologically
 enriched castings. Both methods recycle organic waste into valuable soil amendments,
-but vermicompost offers superior [[ph-and-nutrient-availability-garden-soils]], microbial diversity, and
-plant growth promoting properties in a compact system, whereas traditional composting
-excels at processing large volumes of diverse materials with effective pathogen
-control through heat.
-
-## See Also
-
-- [[query-what-is-the-difference-between-compost-tea-and-vermicompost-tea]]
+but vermicompost offers superior [[query-what-is-the-difference-between-compost-tea-and-vermicompost-tea]]

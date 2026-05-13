@@ -61,19 +61,7 @@ It is not considered invasive in any jurisdiction despite its self-seeding capac
 
 ## Cultivation
 
-Cerinthe major is grown as a hardy annual [[query-how-to-grow-and-use-oca-in-temperate-climates]] and performs reliably across USDA zones 3–10. Seeds are sown directly in autumn or early spring, often self-seeding freely once established.
-
-The plant prefers a sunny position in moderately fertile, well-drained soil. It is remarkably drought-tolerant once established and requires minimal supplemental watering.
-
-The cultivar 'Purpurascens' is the most commonly grown form, producing deeper purple bracts than the species type. Other cultivars include 'Kiwi Blue' with intense blue coloring and 'Yellow Crest' with golden-yellow bracts.
-
-Plants are generally pest-free and resistant to deer and rabbit browsing. Slugs may occasionally feed on young seedlings in damp conditions but rarely cause significant damage.
-
-Germination occurs at 15–20°C within 7–21 days. Seedlings transplant poorly due to a taproot system, making direct sowing preferable. Plants flower approximately 12–14 weeks from sowing and continue blooming for 6–8 weeks.
-
-Deadheading extends the bloom period but sacrifices the self-seeding that sustains naturalized colonies. In mild climates, autumn-sown plants produce larger, earlier displays than spring sowings.
-
-Plants can be propagated by softwood cuttings in late spring, though [[green-cannabis-grow-bible-cloning-and-seed-propagation]] is far more common. Cuttings root within 2–3 weeks under mist propagation at 18–20°C.
+Cerinthe major is grown as a hardy annual [[green-cannabis-grow-bible-cloning-and-seed-propagation]] is far more common. Cuttings root within 2–3 weeks under mist propagation at 18–20°C.
 
 In Mediterranean gardens, Cerinthe major pairs beautifully with silver-foliaged plants such as Artemisia and Stachys. The blue-purple bracts provide striking contrast against silvery leaf textures.
 
@@ -81,10 +69,82 @@ In Mediterranean gardens, Cerinthe major pairs beautifully with silver-foliaged 
 
 The tubular flowers are rich in nectar and attract long-tongued bees, especially bumblebees and honeybees. The pendant flower form provides shelter for pollinators during rain and wind.
 
-In its native Mediterranean range, it supports a guild of specialist [[comparison-honey-bees-vs-native-solitary-bees]] in the genus Anthophora. The nectar sugar concentration averages 35–45%, which is highly attractive to foraging bees.
+In its native Mediterranean range, it supports a guild of specialist [[gadd-mycelial-network-resilience-grazing-pressure]] and makes it reliable in gardens with heavy deer browsing.
 
-Flowering peaks in May and June when bee activity is at its highest in Mediterranean climates. A single plant can produce over 100 flowers across its blooming period.
+The foliage also provides shelter for beneficial [[comparison-beneficial-insects-guide-vs-integrated-pest-management]] strategies.
 
-The fleshy foliage is generally unpalatable to herbivores due to its waxy coating and bitter compounds. This chemical defense reduces [[gadd-mycelial-network-resilience-grazing-pressure]] and makes it reliable in gardens with heavy deer browsing.
+## Overview
 
-The foliage also provides shelter for beneficial [[ground-beetles-carabidae-and-biological-pest-control]] and spiders that prey on garden pests. This makes Cerinthe major a useful component of [[comparison-beneficial-insects-guide-vs-integrated-pest-management]] strategies.
+Cerinthe Major represents an important element within sustainable
+design and [[solomon-gardening-aikido-pest-philosophy-ecological-management]] systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish cerinthe major
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving cerinthe extend
+across multiple [[ingham-soil-foodweb-trophic-levels-protozoa-nematodes]] and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Cerinthe Major finds practical application in multiple design contexts.
+[[mollisonian-permaculture-principles]] guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive [[livestock-grassland-management-strategies]] that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for cerinthe major. [[jeavons-climate-adaptation-growing-seasons]]
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+cerinthe major and its applications. Active investigation
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Cerinthe Major has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of cerinthe major into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.

@@ -3,7 +3,7 @@
 
 ## The Central Question
 
-Fukuoka poses a deceptively simple question: if fertilizer is essential for [[how-do-i-choose-between-straw-bale-and-earthbag-construction]] mountain forests produce enormous volumes of timber year after year without any [[cervantes-fertilizer-application-strain-feeding]] whatsoever?
+Fukuoka poses a deceptively simple question: if fertilizer is essential for [[cervantes-fertilizer-application-strain-feeding]] whatsoever?
 
 Reforested cedars in favorable areas grow approximately 40 tons per quarter-acre over a 20-year period — about 2 tons of new growth annually from lumber alone. Counting branches, leaves, and roots, annual production approaches 4 tons per quarter-acre. This occurs on sites where the entire above-ground portion of the tree (trunk, branches, leaves) is periodically removed — effectively slash-and-burn agriculture on a rotation cycle.
 
@@ -69,11 +69,7 @@ At agricultural research centers, the same process is replicated in miniature: f
 
 Fukuoka characterizes this entire approach as "the poor farmer [taking] the long way around." The farmer:
 
-- Destroys the [[fukuoka-natural-fertility-cycle]] system that was already working
-- Creates the conditions of sterility that make fertilizer appear necessary
-- Then spends thirty to fifty percent of orchard operating costs purchasing the fertilizer needed to compensate for the fertility he himself destroyed
-
-The no-fertilizer principle does not say that fertilizers are totally worthless, but that "there is no need to apply [[cervantes-chemical-fertilizers-guide]]." Nature provides all the fertilizers needed through the biological processes that operate continuously in living soil.
+- Destroys the [[cervantes-chemical-fertilizers-guide]]." Nature provides all the fertilizers needed through the biological processes that operate continuously in living soil.
 
 ## The Unknowable Complexity of Soil
 
@@ -118,8 +114,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[dom]]
 - [[fukuoka-textdoc-citrus-orchard-soil-building-without-fertilizer]]
-- [[fukuoka-textdoc-natural-livestock-forest-pasture-method]]
 - [[fukuoka-textdoc-rodenticide-cycle-forest-destruction-mouse-weasel]]
 - [[fukuoka-textdoc-pine-forest-ecosystem-collapse-chain]]

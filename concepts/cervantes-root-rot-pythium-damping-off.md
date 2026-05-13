@@ -19,14 +19,7 @@ type: concept
 
 Root rot and damping-off are among the most destructive fungal
 diseases affecting cannabis at all growth stages. Jorge Cervantes
-provides detailed identification guides and [[jadam-weed-control-strategies-natural]] for
-these soil and hydroponic pathogens.
-
-## Root Rot
-
-### Identification
-
-Root [[comparison-white-rot-fungi-vs-brown-rot-fungi-biodegradation]] cause roots to turn from a healthy white to light
+provides detailed identification guides and [[comparison-white-rot-fungi-vs-brown-rot-fungi-biodegradation]] cause roots to turn from a healthy white to light
 brown. As the rot progresses, roots turn darker and darker brown.
 Leaf chlorosis is followed by wilting of the older leaves on the
 entire plant, and growth slows. When severe, rot progresses up to
@@ -36,18 +29,6 @@ when roots are deprived of oxygen and stand in un-aerated water.
 Soil pests that cut, suck, and chew roots create openings for rotting
 diseases to enter. Inspect roots with a 10X magnifying glass for
 signs of pest damage. Rotten roots that have been soaking in stagnant
-[[cannabis-nutrient-solution-preparation]] produce very slow foliage growth.
-
-### Control
-
-Cleanliness is the first line of defense. Use fresh, sterile growing
-medium and make sure calcium levels are adequate. Do not overfertilize
-with nitrogen. Keep pH above 6.5 in soil and about 6.0 in hydroponic
-mediums to lower disease occurrence. Control any insects, fungi, or
-bacteria that eat roots.
-
-Biological controls include RootShield (Trichoderma harzianum),
-Binab Bio-Fungus, Supresiv, Trichopel, and SoilGuard. See
 [[cervantes-compact-fluorescent-lighting]]
 - Keep fertilization minimal during the first couple weeks of growth
 - Germinate seeds between clean, fresh paper towels and move to soil
@@ -67,8 +48,7 @@ suppress many causes of damping-off.
 ### Chemical Control
 
 Dust seeds with Captan. Avoid benomyl fungicide soil drench because
-it kills beneficial organisms. See [[cervantes-reservoir-temperature-management]] for temperature
-control and [[cervantes-hydrogen-peroxide-sterilization]] can be used to treat
+it kills beneficial organisms. See [[cervantes-hydrogen-peroxide-sterilization]] can be used to treat
 affected reservoirs, but prevention through clean systems and proper
 temperature management is far more effective than treatment after
 infection.
@@ -120,8 +100,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[pythium-oligandrum]]
 - [[jorge-cervantes]]
-- [[det]]
 - [[trichoderma-harzianum]]
 - [[trichoderma]]

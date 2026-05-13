@@ -75,82 +75,21 @@ Adaptogens enhance mitochondrial function — the cellular "power plants" that g
 |------|---------|-----------------|----------|
 | **Ashwagandha** | *Withania somnifera* | Broad-spectrum; cortisol reduction | Anxiety, sleep, hormonal balance, stress |
 | **Rhodiola** | *Rhodiola rosea* | Mental fatigue; cognitive performance | Focus, burnout, altitude, exercise |
-| **Eleuthero** | *[[eleutherococcus-senticosus]]* | Physical endurance; immune support | Athletic performance, immune resilience |
-| **Schisandra** | *Schisandra chinensis* | Liver protection; mental clarity | Liver health, concentration, skin |
-| **Holy Basil** | *Ocimum tenuiflorum* | Calming; anti-inflammatory | Anxiety, blood sugar, everyday stress |
-| **Asian Ginseng** | *Panax ginseng* | Vitality; immune function | Fatigue, immune weakness, cognitive decline |
-
-### Tier 2: Emerging or Traditional Adaptogens
-
-| Herb | Species | Notes |
-|------|---------|-------|
-| **Maca** | *[[lepidium-meyenii-entity]]* | High-altitude Andean root; more of a tonic/nutritive than classic adaptogen; best for hormonal balance and energy |
-| **Astragalus** | *[[astragalus-membranaceus]]* | Deep immune tonic in Traditional Chinese Medicine; adaptogenic immune modulation |
-| **Reishi mushroom** | *Ganoderma lucidum* | Immunomodulatory mushroom with adaptogenic-like stress-buffering properties |
-| **Shatavari** | *Asparagus racemosus* | Ayurvedic adaptogen for female reproductive health and stress |
-| **Cordyceps** | *Ophiocordyceps sinensis* | Fungal adaptogen for energy, VO2 max, and respiratory function |
-| **Jiaogulan** | *[[gynostemma-pentaphyllum]]* | "Southern ginseng"; antioxidant, adaptogenic, contains gypenosides similar to ginsenosides |
-| **He Shou Wu** | *[[polygonum-multiflorum]]* | Traditional Chinese adaptogen for longevity and hair health |
-| **Suma** | *Pfaffia paniculata* | "Brazilian ginseng"; used for fatigue and hormonal balance |
-
-## How to Choose the Right Adaptogen
-
-The best adaptogen depends on the type of stress and the individual's constitution:
-
-**For anxiety and difficulty sleeping**: Ashwagandha (KSM-66 or Sensoril extract, 300–600 mg/day) or holy basil (tulsi tea or extract)
-
-**For burnout and mental fatigue**: Rhodiola (200–400 mg/day, standardized to 3% rosavins, taken in the morning)
-
-**For physical exhaustion and poor stamina**: Eleuthero or Asian ginseng (standardized ginsenoside extract)
-
-**For hormonal imbalance (PMS, menopause, low testosterone)**: Maca or ashwagandha
-
-**For immune vulnerability during stress**: Astragalus or eleuthero
-
-**For liver support and detoxification**: Schisandra or reishi
-
-**For high-altitude adaptation**: Rhodiola (clinically validated) or cordyceps
-
-## How to Take Adaptogens
-
-### Timing
-- **Stimulating adaptogens** (rhodiola, ginseng, eleuthero, maca): Take in the morning or early afternoon. Evening use may disrupt sleep.
-- **Calming adaptogens** (ashwagandha, holy basil, reishi): Can be taken morning or evening; some people find ashwagandha especially helpful before bed.
-
-### Cycling
-Most practitioners recommend cycling adaptogens rather than taking them continuously without breaks:
-- **Standard cycle**: 5–6 days on, 1–2 days off
-- **Extended cycle**: 3–4 weeks on, 1 week off
-- **Seasonal use**: Some adaptogens (like ashwagandha in winter or rhodiola during stressful work periods) work well used situationally rather than year-round
-
-Cycling prevents receptor downregulation and maintains the herbs' effectiveness over time.
-
-### Combination
-Adaptogens can be combined, but avoid stacking multiple stimulating adaptogens (e.g., rhodiola + ginseng + maca) as this may cause overstimulation. Common effective combinations include:
-- Ashwagandha + rhodiola (calming + energizing — balanced stress support)
-- Holy basil + ashwagandha (deep calming for anxiety)
-- Schisandra + reishi (liver + immune support during stress)
-- Eleuthero + rhodiola (athletic performance and endurance)
-
-### Forms
-- **Capsules**: Most convenient; standardized extracts ensure consistent dosing
-- **Tinctures**: Fast absorption; easy to adjust dose; good for acute use
-- **Powders**: Versatile; can be added to smoothies, teas, or food; generally less concentrated
-- **Decoctions/teas**: Traditional preparation; gentler effect; pleasant ritual for daily use
-- **Whole dried herb**: Least processed; requires longer extraction times but retains the full spectrum of compounds
-
-## Safety Considerations
-
-Adaptogens are generally safe for long-term use, but there are important caveats:
-
-**Consult a healthcare provider before using adaptogens if you**:
-- Are pregnant or breastfeeding (most adaptogens lack safety data for pregnancy)
-- Take [[ayahuasca-interactions-with-prescription-medications]] (especially thyroid medications, immunosuppressants, blood thinners, or psychiatric drugs)
+| **Eleuthero** | *[[lepidium-meyenii-entity]]* | High-altitude Andean root; more of a tonic/nutritive than classic adaptogen; best for hormonal balance and energy |
+| **Astragalus** | *[[gynostemma-pentaphyllum]]* | "Southern ginseng"; antioxidant, adaptogenic, contains gypenosides similar to ginsenosides |
+| **He Shou Wu** | *[[ayahuasca-interactions-with-prescription-medications]] (especially thyroid medications, immunosuppressants, blood thinners, or psychiatric drugs)
 - Have an autoimmune condition (some adaptogens stimulate immune function)
 - Have bipolar disorder (stimulating adaptogens may trigger manic episodes)
 
 ## See Also
 
-- [[query-what-are-the-best-ancient-and-heritage-grains-for-small-scale-farming]]
+- [[query-what-are-the-best-companion-plants-for-cannabis]]
+- [[query-what-are-the-best-fig-varieties-for-different-climates]]
+- [[query-what-are-the-best-mushroom-species-for-bioremediation]]
+- [[query-what-are-the-most-medicinal-mushrooms]]
 - [[query-what-is-agroecology-and-how-does-it-differ-from-organic-farming]]
-- [[query-what-is-korean-natural-farming-and-how-does-it-work]]
+- [[query-what-is-alley-cropping-and-when-should-i-use-it]]
+- [[query-what-is-chop-and-drop-mulching-and-why-should-i-use-it]]
+- [[query-what-is-keyline-design-and-how-does-it-work]]
+- [[query-what-is-the-role-of-fungi-in-decomposition]]
+- [[query-what-is-the-strongest-psilocybin-mushroom-species]]

@@ -22,11 +22,7 @@ created: 2026-05-07
 
 # Mycorrhizae
 
-Mycorrhizae (singular: mycorrhiza) are symbiotic associations between fungi and plant roots, found in over 80% of terrestrial plant species. The term comes from the Greek *mykes* (fungus) and *rhiza* (root). These mutualistic relationships are among the most widespread and ecologically important on Earth, forming a [[teaming-with-microbes-fungi-the-underground-network]] sometimes called the **"Wood Wide Web"** that facilitates nutrient exchange and inter-plant communication.
-
-## Types of Mycorrhizae
-
-### Arbuscular [[fungal-hyphae]] explore soil volumes far beyond the root depletion zone, accessing phosphate from organic matter and mineral surfaces. Phosphorus is transported to the plant as phosphate ions.
+Mycorrhizae (singular: mycorrhiza) are symbiotic associations between fungi and plant roots, found in over 80% of terrestrial plant species. The term comes from the Greek *mykes* (fungus) and *rhiza* (root). These mutualistic relationships are among the most widespread and ecologically important on Earth, forming a [[fungal-hyphae]] explore soil volumes far beyond the root depletion zone, accessing phosphate from organic matter and mineral surfaces. Phosphorus is transported to the plant as phosphate ions.
 - **Nitrogen**: AMF access ammonium and amino acids; ECM fungi are particularly efficient at mining organic nitrogen from soil organic matter via protease secretion.
 - **Carbon**: The host plant supplies 10–20% of its photosynthetically fixed carbon (up to 30% in some ECM associations) to the fungal partner as glucose and fructose.
 - **Micronutrients**: Copper, zinc, and other trace elements are also transported to plants via fungal hyphae.
@@ -48,27 +44,10 @@ Suzanne Simard's landmark research on Douglas-fir and paper birch forests demons
 ### Crop Productivity
 
 AMF inoculation has shown consistent yield improvements in:
-- Legumes (15–40% increase in nodulation and [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]])
-- Cereals (10–30% increase in phosphorus uptake)
-- Solanaceous crops (improved tomato and pepper fruit quality)
-- Perennial fruit crops (enhanced establishment and stress tolerance)
-
-### Soil Restoration
-
-Mycorrhizal fungi are critical in [[tropical-rainforest-seedling-mycorrhiza-ecological-restoration]]:
+- Legumes (15–40% increase in nodulation and [[tropical-rainforest-seedling-mycorrhiza-ecological-restoration]]:
 - Mine tailings reclamation: AMF improve heavy metal tolerance and soil aggregation
 - Degraded pasture recovery: Inoculation accelerates native plant recolonization
-- [[permplant-willows-salix-erosion-control-fodder]]: Extraradical hyphae and glomalin (a glycoprotein produced by AMF) bind soil particles into stable aggregates
-
-### Permaculture Design
-
-In permaculture systems, mycorrhizal health is supported through:
-- **[[coleman-bed-preparation-and-minimal-tillage]]**: Preserves hyphal networks; [[comparison-no-till-vs-conventional-tillage]] can reduce AMF colonization by 40–70%
-- **Polyculture**: Diverse plant communities maintain diverse AMF communities
-- **Cover cropping**: Living roots year-round sustain fungal populations
-- **Avoiding high-phosphorus fertilizers**: Soluble P suppresses AMF colonization by removing the plant's dependency on fungal P uptake
-- **Wood chip mulches**: Favor ECM fungi and suppresses pathogenic soil organisms
-- **Mycorrhizal inoculants**: Commercial products containing *[[rhizophagus-irregularis]]* and mixed species blends for [[solomon-fertigation-and-transplant-establishment]]
+- [[coleman-bed-preparation-and-minimal-tillage]]**: Preserves hyphal networks; [[rhizophagus-irregularis]]* and mixed species blends for [[solomon-fertigation-and-transplant-establishment]]
 
 ## Ecological Significance
 
@@ -88,3 +67,84 @@ The earliest evidence of mycorrhizal associations comes from the Ordovician (~46
 The global mycorrhizal inoculant market has grown substantially, with products targeting agriculture, horticulture, and ecological restoration. Key considerations:
 
 - **Species selection**: *Rhizophagus irregularis* (formerly *Glomus intraradices*) is the most commonly used AMF species in commercial products due to ease of cultivation and broad host compatibility
+
+## Overview
+
+Mycorrhizae represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish mycorrhizae
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving mycorrhizae extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Mycorrhizae finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for mycorrhizae. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+mycorrhizae and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Mycorrhizae has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of mycorrhizae into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[dighton-mycorrhizae-pathogen-biocontrol-interactions]]

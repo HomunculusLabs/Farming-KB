@@ -8,13 +8,7 @@ sources:
   - "raw/papers/shroom-a-cultural-history-of-the-magic-mushroom.md"
 ---
 
-# The [[wasson-rediscovery-of-psilocybin]] -- Wasson and the rediscovery
-- [[shroom-counterculture]] -- [[guzman-magic-mushrooms-african-species]] in the 1960s
-  counterculture
-
-## Source
-
-Letcher, Andy. Shroom: A [[shroom-cultural-history-hippie-revolution-and-counterculture]] of the Magic Mushroom.
+# The [[shroom-counterculture]] -- [[shroom-cultural-history-hippie-revolution-and-counterculture]] of the Magic Mushroom.
 HarperCollins, 2006. Lines 3977-5033.
 
 ## See Also

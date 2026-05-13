@@ -7,7 +7,7 @@ updated: 2026-04-28
 sources: ["/Users/t3rpz/wiki/raw/papers/unknown-biodiversity-of-fungi.md"]
 type: concept
 ---
-# Lichenized Fungi and Their Symbiotic Relationships ## Overview [[fungal-biodiversity]]. Most lichen-forming fungi belong to the [[lichen-symbiosis]]
+# Lichenized Fungi and Their Symbiotic Relationships ## Overview [[lichen-symbiosis]]
 
 The relationship between the fungal partner and the photosynthetic
 partner has been variously described by researchers. Some consider it a
@@ -68,15 +68,11 @@ species formerly placed in the Caliciales actually fall within the
 Lecanorales.
 
 Molecular phylogenetic studies indicate that lichenization occurred
-early during [[fungal-taxonomy]] and [[nephroma-arcticum]]
+early during [[nephroma-arcticum]]
 - biodiversity-fungi-plant-mutualisms
-- [[mycorrhizal-fungi]]
 - [[lichen-biology-guide]] — comprehensive lichen biology reference
-- [[lichen-ecology-environmental-sensitivity]] — ecological roles and habitat requirements
 - [[lichen-symbiosis-mechanisms-photobiont-selection]] — photobiont partner selection
-- [[fungal-taxonomy]] — fungal classification and nomenclature
-
-For further reading, see [[neurotropic-fungi-classification-and-taxonomy]].
+- [[neurotropic-fungi-classification-and-taxonomy]].
 
 ## Historical Context
 - These approaches have evolved through decades of research and practical application.
@@ -89,36 +85,8 @@ For further reading, see [[neurotropic-fungi-classification-and-taxonomy]].
 - Understanding these processes enables more targeted and effective interventions.
 
 ## See Also
-- [[biodiversity-of-fungi-chytrid-zoosporic-fungi-ecology]]
 - [[endophytic-fungi-grass-symbiosis-insect-defense-alkaloids-epichloe-neotyphodium]]
-- [[biodiversity-of-fungi-microfungi-isolation-techniques]]
 - [[lichenized-fungi-sampling]]
-- [[biodiversity-of-fungi-slime-molds-protostelid-dictyostelid]]
-
-## Practical Applications
-
-The principles and techniques discussed here have wide-ranging applications
-across multiple disciplines and contexts. Practitioners and researchers
-continue to explore new ways to integrate these concepts into modern practice,
-adapting traditional knowledge to contemporary challenges and opportunities.
-
-## Key Considerations
-
-Several important factors influence the effectiveness and outcomes described
-in this topic. Understanding these considerations helps practitioners make
-informed decisions and avoid common pitfalls. Environmental conditions,
-timing, and material selection all play critical roles.
-
-## Common Challenges
-
-Practitioners frequently encounter several challenges when working with
-these concepts. Climate variability, resource limitations, and knowledge
-gaps can all affect outcomes. Addressing these challenges requires patience,
-observation, and a willingness to adapt approaches based on results.
-
-## See Also
 - [[lichens]]
-- [[fungal-hyphae]]
 - [[ascomycota]]
-- [[mycorrhiza]]
 - [[biodiversity-of-fungi-herbarium-specimen-curation-best-practices]]

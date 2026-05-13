@@ -61,22 +61,16 @@ it. You can use rocks to line the side of the bed so that it does not erode.
 ### Step 4: Plant a Cover Crop
 The first time you use the bed, it is recommended to grow a cover crop such
 as clover. Clover fixes nitrogen and makes it available for other plants. If
-you plant it in [[coleman-overwintered-onions-and-early-spring-crops]], you will have time to plant [[growing-root-vegetables-guide]]
+you plant it in [[growing-root-vegetables-guide]]
 next: potatoes, carrots, radishes, and similar crops.
 
 ## Managing Nitrogen with Fresh Wood
 
 Using fresh wood is tempting when clearing ground. Rather than making a pile
-and waiting years for it to rot, it is nicer to bury it as [[query-how-to-build-a-raised-bed-garden]],
-since it still absorbs water and irrigates the bed. However, decomposing wood
-robs the soil of nitrogen. You must add something to [[query-can-fungi-break-down-plastic-pollution]] the wood
+and waiting years for it to rot, it is nicer to bury it as [[query-can-fungi-break-down-plastic-pollution]] the wood
 faster and add needed nitrogen. The key ingredient is urine. If you have a
 separating, you can divert household liquids to
-the [[alexander-shulgin]], with trees
-planted in between beds to take advantage of the water retention. On a
-larger scale it can also be applied to chinampa systems (the ancient
-Mesoamerican canal-and-island growing method). The beds can be positioned
-along contour lines to maximize water capture from [[teaming-with-microbes-mulch-and-soil-food-web]] organisms
+the [[teaming-with-microbes-mulch-and-soil-food-web]] organisms
 and reduces the need for external inputs.
 
 ## Connection to Forest Ecology

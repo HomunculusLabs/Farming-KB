@@ -14,20 +14,7 @@ sources:
 type: concept
 ---
 # Cannabis Breeding, Genetics, and True Breeding
-Chapter 15 of [[cannabis-hardy-weinberg-equilibrium]], test crosses, cubing, backcrossing, and the
-process of creating true-breeding strains (IBLs).
-## Simple Breeding
-### Making Seeds
-Making seeds is straightforward with healthy plants and a stable
-environment. When male pollen bursts onto female flowers, seeds develop
-inside the bud. Viable seeds are grayish; white seeds are immature.
-For storage beyond 2 years, keep seeds in a freezer.
-### Continuing a Strain Through Seeds
-To continue a purchased strain, keep only males and females from the
-same strain batch together. However, unless the strain is an IBL
-(In-Bred Line), you will lose some parental features in offspring.
-### Making a Simple Hybrid
-Cross a male from one strain with a female from another (e.g., [[big-bud]]
+Chapter 15 of [[big-bud]]
 x Skunk). Offspring will vary: some lean toward one parent, others
 toward the other. Uniform plants require more advanced breeding.
 ## Genetic Terminology
@@ -90,43 +77,8 @@ Important caveats:
   years to develop.
 
 ## See Also
-- [[green-cannabis-grow-bible-strain-selection-genetics]]
 - [[green-cannabis-grow-bible-cloning-and-seed-propagation]]
-- [[green-cannabis-grow-bible-outdoor-growing]]
 - [[green-cannabis-grow-bible-plant-training-pruning-and-yield]]
-- [[green-cannabis-grow-bible-vegetative-phase-management]]
-
-## Practical Applications
-
-The principles and techniques discussed here have wide-ranging applications
-across multiple disciplines and contexts. Practitioners and researchers
-continue to explore new ways to integrate these concepts into modern practice,
-adapting traditional knowledge to contemporary challenges and opportunities.
-
-## Key Considerations
-
-Several important factors influence the effectiveness and outcomes described
-in this topic. Understanding these considerations helps practitioners make
-informed decisions and avoid common pitfalls. Environmental conditions,
-timing, and material selection all play critical roles.
-
-## Historical Context
-
-The historical development of this subject reflects centuries of accumulated
-knowledge and practical experience. From traditional methods passed down
-through generations to modern scientific approaches, the evolution continues
-to inform current best practices and research directions.
-
-## Common Challenges
-
-Practitioners frequently encounter several challenges when working with
-these concepts. Climate variability, resource limitations, and knowledge
-gaps can all affect outcomes. Addressing these challenges requires patience,
-observation, and a willingness to adapt approaches based on results.
-
-## See Also
 - [[green-cannabis-grow-bible-cloning-and-seed-propagation]]
-- [[green-cannabis-grow-bible-hydroponics-and-the-bubbler]]
 - [[green-cannabis-grow-bible-soil-and-medium-preparation]]
-- [[green-cannabis-grow-bible-plant-training-pruning-and-yield]]
 - [[green-cannabis-grow-bible-hash-making-and-trichome-extraction]]

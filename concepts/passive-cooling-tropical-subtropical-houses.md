@@ -98,6 +98,13 @@ High humidity causes problems beyond human discomfort: salt will not pour, cloth
 The subtropical house requires a more nuanced design than either equatorial or temperate homes. For heating, it needs an insulated slab floor or trombe wall. For cooling, it needs induced or forced cross-ventilation from a cool or shaded area to an updraught area. The house must work effectively in both modes, with design elements that serve both heating and cooling functions depending on the season. Careful orientation, material selection, and integration of plant systems are essential to meeting this dual challenge.
 ## See also
 
-- [[equatorial-house-design-essentials]]
 - [[tropical-house-design-cooling-strategies]]
 - [[permaculture-design]]
+
+## See Also
+
+- [[passive-humidity-fruiting-chamber-stackable-plastic-bin-design]]
+- [[passive-solar-and-biomass-energy]]
+- [[passive-humidity-fruit-chamber-polyethylene-sheeting]]
+- [[passive-irrigation-systems]]
+- [[mollison-designers-passive-solar-building]]

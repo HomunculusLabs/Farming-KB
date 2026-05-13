@@ -44,8 +44,8 @@ to light regarding the usage of mushrooms in a particular culture or religion."
 - **R. Gordon Wasson:** Coined the term, documented Mazatec mushroom ceremonies,
   established the field's methodology
 - **John Marco Allegro:** Philologist and Dead Sea Scrolls translator who traced
-  linguistic connections between biblical texts and *Amanita muscaria*
-- **Timothy Leary:** Popularized consciousness research with psychedelic
+  linguistic connections between biblical texts and *[[amanita-muscaria]]*
+- **[[timothy-leary]]:** Popularized consciousness research with psychedelic
   substances (though more associated with synthetic compounds)
 - **Clark Heinrich:** Author of "Strange Fruit" connecting alchemy to mushroom
   symbolism
@@ -142,9 +142,6 @@ knowledge:
   for therapeutic applications
 ## See Also
 
-- [[amanita-muscaria]] — The primary subject of ethnomycological research
 - [[r-gordon-wasson]] — Founder of the field
-- [[john-allegro]] — Key philologist in the field
 - [[soma]] — Major entheogenic tradition studied by ethnomycologists
-- [[siberian-shamanism]] — Best-documented entheogenic mushroom tradition
 - [[fly-agaric]] — Common name for the central species of study

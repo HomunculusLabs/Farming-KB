@@ -8,42 +8,8 @@ sources: ["Shulgin - PIHKAL"]
 ---
 # DOAM
 
-[[2c-b-pihkal-entry-20]] #61. 2,5-DIMETHOXY-4-(n)-AMYLAMPHETAMINE.
+[[doam-entity]]
 
-## Chemical Name
-
-2,5-DIMETHOXY-4-(n)-AMYLAMPHETAMINE
-
-## Dosage and Duration
-
-| Property | Value |
-|----------|-------|
-| Dosage | greater than 10 mg. |
-| Duration | unknown. |
-
-## Qualitative Comments
-
-> (with 10 mg) There was a clear threshold that
-> in no way interfered with my day's activities. I was quite gay and
-> voluble at lunch and bubbled on into the afternoon with puns and high
-> spirits. There may have been a little motor incoordination as noted
-> in handwriting, and there was a strange tenseness during driving.
-> There were no sequelae, there was no trouble sleeping, and with this
-> potency way down from the lower homologues, I have no pressing desire
-> to take this compound to a higher dose.
->
-
-## Extensions and Commentary
-
-The actual procedure that was published for the isolation of this final amine was a different one, one that would certainly work, but which was based on the procedures tried and proven with the lower homologues. The process described above is just a bit bizarre (a sulfate salt extracting into methylene chloride) but it was the actual thing that was done. The work was started towards two additional compounds but these never got past the first "ketone and phenol" stage. p-Dimethoxybenzene was brought into reaction with n-caproic acid with polyphosphoric acid (aiming towards 2,5-dimethoxy-4-(n)-hexylamphetamine, DOHE) but this was dropped when DOAM proved to be down in potency. And the reaction between p-dimethoxybenzene and benzoyl chloride with anh. aluminum chloride went well (aiming towards 2,5-dimethoxy-4-benzylamphetamine, DOBZ). A goodly amount of the phenol (2-hydroxy-5-methoxybenzophenone) was obtained as fine yellow crystals, but this line of inquiry was also dropped.
-
-The preparation of DOAM was, as a matter of fact, the last of the homol-ogous series of compounds actually completed, which stemmed from
-
-the original discovery of DOM. The "Ten Classic Ladies" concept was mentioned under ARIADNE, and the adding of a methyl group in the place of a hydrogen atom at the 4-position-methyl led to the synthesis of Ms. HECATE and gave rise to DOET. The whole series of methyl-ethyl-propyl-butyl-amyl compounds was appealing to me, in that the potency seemed to increase initially as the chain got longer, and then it abruptly dropped off. Wouldn't it be nice, I thought, if I could interest some pharmacologist in looking at this tight set of drugs with some animal model, to see if there is some neurotransmitter activity that would show a parallel action.
-
-I learned of a curious young researcher in Washington who had an elegant procedure for measuring [[doam-entity]]
-
-- [[2c-g-4-entity-pihkal]]
 - [[2-br-4-5-mda-entity-pihkal]]
 
 - PIHKAL (Shulgin & Shulgin, 1991)
@@ -88,3 +54,88 @@ creating a reference base of observations, interventions, and results.
 This accumulated knowledge enables progressively better decision-making
 and helps identify patterns that might otherwise be overlooked in the
 complexity of day-to-day management and observation activities.
+
+## Overview
+
+Doam Entity Pihkal represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish doam entity pihkal
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving doam extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Doam Entity Pihkal finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for doam entity pihkal. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+doam entity pihkal and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Doam Entity Pihkal has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of doam entity pihkal into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[2c-c-entity]]
+- [[2c-o-4-entity]]
+- [[4-ho-dbt-entity-tihkal]]
+- [[doam-entity]]
+- [[pyrethrum-entity]]

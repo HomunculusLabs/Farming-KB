@@ -46,25 +46,9 @@ Fruit is a small, fleshy drupe, 5–8 mm in diameter, green when immature, turni
 
 ## Distribution and Invasive Biology
 
-Native range extends from southern Texas (USA) through [[guzman-allen-gartz-neurotropic-fungi-central-america-caribbean]] and the Caribbean to northern Argentina and southern Brazil, primarily in tropical lowland and premontane habitats.
+Native range extends from southern Texas (USA) through [[guzman-allen-gartz-neurotropic-fungi-hawaii-pacific-islands]]. In many regions it has become the dominant woody weed of pastures, forests, and disturbed land.
 
-L. camara has been introduced to over 60 countries across Africa, Asia, Oceania, and [[guzman-allen-gartz-neurotropic-fungi-hawaii-pacific-islands]]. In many regions it has become the dominant woody weed of pastures, forests, and disturbed land.
-
-Invasiveness is driven by multiple factors: high [[cannabis-controlled-pollination-seed-production]] (up to 12,000 seeds per plant per year), efficient bird-mediated [[clay-pellet-seed-dispersal]], [[hamilton-vegetative-propagation]] from stem fragments, and allelopathic root exudates.
-
-Allelopathic compounds (lantadenes A and B, pentacyclic triterpenoids) inhibit germination and growth of competing vegetation, allowing L. camara to form dense, species-poor monocultures.
-
-In Australia, L. camara infests over 4 million hectares of grazing land. In India, it occupies an estimated 130,000 km², with significant impacts on biodiversity and livestock productivity.
-
-## Bioactive Compounds
-
-The major toxic principles are lantadenes A and B (pentacyclic triterpenoids of the oleanane series), concentrated primarily in the leaves and unripe fruits.
-
-Lantadene A (22β-angeloyloxy-3-oxo-olean-12-en-28-oic acid) is hepatotoxic at doses of 50–100 mg/kg in livestock, causing cholestasis and hepatocellular necrosis.
-
-Other triterpenoids include lantadenes C, D, E, F, and G, as well as icterogenin, rehmannic acid, and oleanolic acid derivatives.
-
-Flavonoids include lantadene-related compounds, quercetin, kamferol, and luteolin glycosides. [[permaculture-designers-manual-essential-oil-plants]] (0.1–0.3% yield) contains β-caryophyllene, α-humulene, and 1,8-cineole as major constituents.
+Invasiveness is driven by multiple factors: high [[clay-pellet-seed-dispersal]], [[permaculture-designers-manual-essential-oil-plants]] (0.1–0.3% yield) contains β-caryophyllene, α-humulene, and 1,8-cineole as major constituents.
 
 Alkaloids have been reported in some chemotypes, including lantanine and lantanolic acid, though their pharmacological significance is less studied than the triterpenoid fraction.
 
@@ -76,7 +60,7 @@ African traditional medicine employs L. camara roots for snakebite, leaf infusio
 
 In vivo studies have confirmed anti-inflammatory activity of leaf extracts in carrageenan-induced paw edema models, with potency comparable to indomethacin at equivalent doses.
 
-Antimicrobial activity has been demonstrated against [[staphylococcus-aureus]], Escherichia coli, Pseudomonas aeruginosa, and [[bloomfield-candida-albicans-yeast-hyphal-dimorphism]], with MIC values ranging from 100–500 µg/mL.
+Antimicrobial activity has been demonstrated against [[bloomfield-candida-albicans-yeast-hyphal-dimorphism]], with MIC values ranging from 100–500 µg/mL.
 
 Antioxidant activity (DPPH IC₅₀ = 45–80 µg/mL for leaf extracts) is attributed primarily to the flavonoid and phenolic acid content. Hepatoprotective effects against CCl₄-induced liver damage have also been documented.
 
@@ -87,3 +71,80 @@ L. camara is hepatotoxic to livestock, particularly cattle, sheep, and goats. Ch
 Hepatogenous photosensitization (secondary photosensitization) occurs when liver damage impairs phylloerythrin metabolism, leading to severe sunburn-like lesions on unpigmented skin.
 
 The ripe fruits are eaten by birds without ill effect, but are toxic to humans and most mammals. Human ingestion causes vomiting, abdominal pain, and in severe cases, hepatic failure.
+
+## Overview
+
+Lantana Camara represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish lantana camara
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving lantana extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Lantana Camara finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for lantana camara. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+lantana camara and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Lantana Camara has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of lantana camara into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.

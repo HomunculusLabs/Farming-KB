@@ -109,13 +109,8 @@ Plants grown in containers may become root-bound after 2–3 years and benefit f
 
 ## See Also
 
-- [[cotyledon-tomentosa]]
 - [[cotyledon-orbiculata]]
-- [[crassula-ovata]]
 - [[crassula-perforata]]
-- [[echeveria-elegans]]
 - [[kalanchoe-tomentosa]]
-- [[tylecodon-reticulatus]]
 - [[tylecodon-paniculatus]]
-- [[adromischus-cristatus]]
 - [[dudleya-farinosa]]

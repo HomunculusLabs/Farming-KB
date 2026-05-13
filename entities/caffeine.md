@@ -65,33 +65,86 @@ Caffeine has a Ki of ~44 μM at A₁ and ~40 μM at A₂A receptors, making it a
 - **Volume of distribution:** 0.6 L/kg
 - **Plasma protein binding:** 17–36%
 - **Half-life:** 3–7 hours in healthy adults (longer in pregnancy, liver disease, or with oral contraceptives)
-- **Metabolism:** Primarily hepatic via CYP1A2 to paraxanthine (~84%), [[theobromine]] (~12%), and theophylline (~4%)
-- **Excretion:** Renal (<5% unchanged)
-
-## Effects
-
-### Subjective Effects
-
-- Increased alertness and wakefulness
-- Reduced perceived fatigue
-- Improved sustained attention and reaction time
-- Enhanced mood at moderate doses (100–200 mg)
-- Increased sociability and talkativeness
-- Anxiogenic effects at higher doses (>400 mg), particularly in caffeine-naive individuals
-
-### Physiological Effects
-
-- Increased heart rate and blood pressure (acute, transient)
-- Bronchodilation and increased respiratory rate
-- Diuresis through reduced renal sodium reabsorption
-- Increased gastric acid secretion
-- Elevated metabolic rate (thermogenesis)
-
-### Cognitive Enhancement
-
-## See Also
-- [[comparison-caffeine-plants-yerba-mate-vs-guayusa-vs-yaupon-vs-tea]]
-- [[mckenna-caffeine-coffee-and-industrial-revolution]]
+- **Metabolism:** Primarily hepatic via CYP1A2 to paraxanthine (~84%), [[comparison-caffeine-plants-yerba-mate-vs-guayusa-vs-yaupon-vs-tea]]
 - [[query-what-are-caffeine-plants-and-how-do-i-grow-them]]
 - [[mckenna-caffeine-coffee-and-industrial-revolution]]
 - caffeine
+
+## Overview
+
+Caffeine represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish caffeine
+from related concepts in [[permaculture]] and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving caffeine extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Caffeine finds practical application in multiple design contexts.
+[[permaculture-principles]] guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for caffeine. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+caffeine and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Caffeine has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of caffeine into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also

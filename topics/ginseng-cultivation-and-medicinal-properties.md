@@ -22,16 +22,7 @@ resemblance, combined with centuries of empirical observation, has
 cemented ginseng's reputation as a tonic for vitality, longevity, and
 resilience. Modern pharmacological research has partially validated
 these traditional claims, identifying a unique class of triterpene
-saponins called ginsenosides as the primary [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]]
-responsible for the plant's diverse physiological effects.
-
-The genus Panax belongs to the Araliaceae family and contains between
-eleven and eighteen species depending on taxonomic treatment, though
-only a handful are commercially significant. Panax ginseng (Asian
-ginseng), native to the mountainous forests of Korea, northeastern
-China, and the Russian Far East, is the most historically important
-species. Panax quinquefolius (American ginseng), indigenous to the
-deciduous woodlands of [[polypore-fungi-eastern-north-america]] America, has been harvested and
+saponins called ginsenosides as the primary [[polypore-fungi-eastern-north-america]] America, has been harvested and
 traded since the early eighteenth century. A third species, Panax
 notoginseng (san qi or tian qi), is primarily cultivated in Yunnan
 province of China and is valued for its hemostatic properties rather
@@ -61,31 +52,7 @@ botanical texts. Within decades, a robust export trade developed, with
 American ginseng roots shipped to China where they were prized for
 their cooling properties — in contrast to the warming nature of Asian
 ginseng in traditional Chinese medicine. Daniel Boone was among the
-early commercial harvesters, and by the late [[mckenna-club-des-hachischins-and-nineteenth-century-literary-hashish]], wild
-American ginseng had been overharvested to such an extent that the
-species was granted protection under the Convention on International
-Trade in Endangered Species (CITES) Appendix II, which it retains to
-this day.
-
-Indigenous peoples of eastern North America used American ginseng long
-before European contact. The Iroquois, Cherokee, and other nations
-employed the root for digestive ailments, respiratory complaints, and
-as a general strengthening tonic. The Ojibwe considered it a
-protective charm and harvested it ritually, seeding new plants to
-ensure future supplies — an early form of sustainable harvesting that
-modern forest farmers would do well to emulate.
-
-## Botany and Growth Habit
-
-Ginseng is a slow-growing herbaceous perennial that typically reaches
-thirty to sixty centimeters in height at maturity. The plant produces a
-single compound leaf in its first year, progressing to two, three,
-four, and eventually five leaflets per prong as it ages. Mature plants
-bear a single terminal umbel of small greenish-white flowers in early
-summer, which develop into bright red drupes containing two or three
-seeds each. The seeds exhibit pronounced morphological dormancy and
-require stratification — a sequence of warm and cold periods — before
-germination, a trait that contributes to the plant's slow [[bloomfield-fungal-life-cycle-spiral-versus-circle]]
+early commercial harvesters, and by the late [[bloomfield-fungal-life-cycle-spiral-versus-circle]]
 and makes cultivation particularly time-intensive.
 
 The root system consists of a prominent taproot that thickens and
@@ -123,11 +90,9 @@ affinity for cardiovascular and hemostatic applications.
 
 ## See Also
 
-[[medicinal-herb-growing-guide]] | [[forest-gardening-and-food-forests]]
-[[herbal-medicine-making]] | [[plant-defense-chemistry-and-secondary-metabolites]]
-[[mycorrhizal-fungi]] | vermicomposting-and-earthworm-ecology
-[[integrated-pest-management-ipm]] | [[nutrient-and-dynamic-accumulators]]
-[[botanical-pesticides-and-natural-pest-control]]
+[[forest-gardening-and-food-forests]]
+[[plant-defense-chemistry-and-secondary-metabolites]]
+[[integrated-pest-management-ipm]] | [[botanical-pesticides-and-natural-pest-control]]
 
 ## References
 

@@ -35,65 +35,8 @@ Ducks are the gentlest and most versatile poultry. They eat algae and weeds from
 
 - With adequate water, grassy yard, and forage garden: minimal extra feed needed
 - Ducks need young grass; will quickly destroy a small unvaried pasture
-- [[query-best-grain-legumes-for-a-small-homestead]]: wheat (goes well with oats)
-- Hard round fruits and vegetables must be crushed first
-- Protein sources: liquid milk, hard-boiled eggs
-- Calcium: eggshells or seashells
-- Grit: sand, small stones
-- Extra niacin needed compared to other poultry (fresh greens or peas usually sufficient)
-
-### Homemade Poultry Chick Feed
-- 30% grain: finely ground wheat, little corn, oats
-- 20% protein: fish meal, meat meal, yogurt, cottage cheese, worms, bugs, grubs
-- 50% greens: alfalfa meal, alfalfa leaves, or fresh greens (chopped lettuce)
-- Extras: wheat germ, sunflower seeds, linseed meal
-- Sand for grit
-- Ground shells: mussel, snail, oyster, or eggshells
-
-### Homemade Poultry Adult Feed
-- 30% grain: finely ground wheat, little corn, oats
-- 15% protein: fish meal, meat meal, yogurt, cottage cheese, worms, bugs, grubs
-- 55% greens: alfalfa meal, alfalfa leaves, or fresh greens
-- Extras: wheat germ, sunflower seeds, linseed meal
-- Sand for grit
-- Ground shells: mussel, snail, oyster, or eggshells
-
-## Winter Care
-
-- Throw down mulch (fallen leaves, hay) when ducks stir up earth around pond
-- Can tolerate freezing temperatures if shelter available
-- Tolerate freezing temperatures if they can retreat to three-sided shelter from wind
-
-## Breeds
-
-### Egg Breeds
-- Khaki Campbell: most popular, first domestic duck breed
-- Indian Runners: as many eggs as chickens, not good meat birds
-
-### Meat Breeds
-- Muscovy
-- Rouen
-- Pekin
-
-### Dual-Purpose Heritage Breeds
-Ancona, Appleyard, Buff, Magpie, Saxony. Saxony is probably the best for foraging and egg-laying ability.
-
-## Breeding
-
-- Social creatures -- need at least 2 ducks
-- Sexing: females have loud raspy quack, males quieter or silent; some males very protective of females
-- If motherly duck exists, let her raise own ducklings (better than humans)
-- Start laying in spring, around 6-7 months old
-- Keep laying for 3+ years
-- Always lay in morning; very scheduled
-- Let out of barn after 10 AM; lure back in evening with grain
-- Keep mother duck and ducklings separate from flock until 6-8 weeks old
-
-## See Also
 - [[cover-crop-guide-detailed]]
-- [[goat-husbandry-detailed-guide]]
 - [[goose-keeping-detailed]]
-- [[permaculture-sheet-mulch-detailed-guide]]
 - [[duck-keeping]]
 
 ## Practical Applications
@@ -125,8 +68,83 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[duck-keeping]]
 - [[dom]]
-- [[det]]
 - [[permaculture]]
 - [[comparison-chicken-keeping-vs-duck-keeping]]
+
+## Overview
+
+Duck Keeping Guide Detailed represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish duck keeping guide detailed
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving duck extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Duck Keeping Guide Detailed finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for duck keeping guide detailed. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+duck keeping guide detailed and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Duck Keeping Guide Detailed has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of duck keeping guide detailed into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.

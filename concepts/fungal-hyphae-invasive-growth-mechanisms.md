@@ -40,7 +40,7 @@ behind the advancing front.
 
 ## Tip Growth Mechanism
 
-[[gadd-spitzenkorper-vesicle-supply-centre-hyphal-tip-growth-direction]] is driven by a combination of [[bloomfield-turgor-pressure-and-hyphal-invasion]] and targeted
+[[bloomfield-turgor-pressure-and-hyphal-invasion]] and targeted
 cell wall synthesis. The fungal cell maintains a positive internal pressure
 (turgor) that pushes against the cell wall at the hyphal tip, where the wall
 is thinner and more extensible. As new wall material is deposited behind the
@@ -56,9 +56,8 @@ organizing center for tip growth.
 
 ## Invasive Growth Strategies
 
-Plant [[cordyceps-cultivation]] employ a variety of strategies to penetrate and
-colonize host tissues. Some fungi, such as the [[rice-blast-fungus-functional-genomics]]
-[[fungi-in-the-environment-rice-blast-magnaporthe-grisea]], develop specialized [[fungal-appressorium-and-infection-structures]] called appressoria.
+Plant [[rice-blast-fungus-functional-genomics]]
+[[fungal-appressorium-and-infection-structures]] called appressoria.
 These dome-shaped cells generate enormous turgor pressures, up to 80
 atmospheres, that physically force a penetration peg through the plant's
 cuticle and cell wall.
@@ -118,8 +117,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[fungal-hyphae]]
 - [[dom]]
-- [[mycelium]]
 - [[mycorrhiza]]
 - [[singh-fungal-plant-growth-promoting-mechanisms]]

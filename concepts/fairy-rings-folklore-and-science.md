@@ -12,9 +12,7 @@ Updated: 2026-04-18
 
 ## Overview
 
-Fairy rings are naturally occurring circular or arc-shaped patterns of [[pf-tek-mushroom-growth-timeline]] caused by the underground expansion of fungal mycelium from a central point. These formations have inspired centuries of folklore, superstition, and myth across European cultures, while modern mycology has revealed the fascinating biology behind their formation.
-
-Source: [[enoki-mushroom-cultivation]] (fairy ring mushroom)
+Fairy rings are naturally occurring circular or arc-shaped patterns of [[enoki-mushroom-cultivation]] (fairy ring mushroom)
 - Various Chlorophyllum and Calvatia (puffball) species
 
 The fairy ring mushroom (Marasmius oreades) is the most famous ring-forming species and is itself edible.
@@ -54,10 +52,8 @@ The fairy ring motif appears throughout European literature, from Shakespeare (s
 
 ### Underground Networks
 
-Modern mycology recognizes fairy rings as surface manifestations of vast underground [[fungal-mycelial-networks-nutrient-translocation]]. The [[wasson-mycophobia-mycophilia-theory]] — Cultural fear vs. reverence of mushrooms
-- [[witches-fungi-and-flying-ointments]] — Other supernatural associations with fungi
-- [[shakespeare-mushrooms]] — Shakespearean [[allegro-biblical-references-to-mushrooms-and-fungi]] and folk beliefs
-- [[arbuscular-mycorrhizal-networks]] — The science of fungal networks in soil
+Modern mycology recognizes fairy rings as surface manifestations of vast underground [[wasson-mycophobia-mycophilia-theory]] — Cultural fear vs. reverence of mushrooms
+- [[shakespeare-mushrooms]] — Shakespearean [[arbuscular-mycorrhizal-networks]] — The science of fungal networks in soil
 
 ## Practical Considerations
 
@@ -89,36 +85,8 @@ communities, and systematic experimentation to build expertise.
 - Understanding these processes enables more targeted and effective interventions.
 
 ## See Also
-- [[fairy-rings-and-giant-mycelia]]
 - [[fairy-rings-mycelium-ecology-soil]]
-- [[sourdough-bread-guide]]
 - [[fukuoka-science-destroy-and-rebuild-paradox]]
-- [[mushroom-folklore-and-culture]]
-
-## Practical Applications
-
-The principles and techniques discussed here have wide-ranging applications
-across multiple disciplines and contexts. Practitioners and researchers
-continue to explore new ways to integrate these concepts into modern practice,
-adapting traditional knowledge to contemporary challenges and opportunities.
-
-## Key Considerations
-
-Several important factors influence the effectiveness and outcomes described
-in this topic. Understanding these considerations helps practitioners make
-informed decisions and avoid common pitfalls. Environmental conditions,
-timing, and material selection all play critical roles.
-
-## Common Challenges
-
-Practitioners frequently encounter several challenges when working with
-these concepts. Climate variability, resource limitations, and knowledge
-gaps can all affect outcomes. Addressing these challenges requires patience,
-observation, and a willingness to adapt approaches based on results.
-
-## See Also
 - [[marasmius-oreades]]
-- [[mycelium]]
 - [[mycology]]
-- [[mycorrhiza]]
 - [[fairy-rings-and-giant-mycelia]]

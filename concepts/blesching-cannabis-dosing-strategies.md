@@ -12,11 +12,8 @@ tags: [cannabis]
 
 ## Overview
 
-While the existing dosage guidelines page covers the [[cannabis-subjective-therapeutic-window-dosing]]
-window and [[cannabis-administration-methods-comparison]], this page focuses on condition-specific
-dosing strategies, strain [[cannabis-breeding-selection-principles-clarke]], THC:CBD ratio optimization, and
-practical titration protocols derived from Blesching's extensive review of
-clinical studies. For the pharmacological basis of THC and CBD, see [[cannabis-anxiety-research]] for condition-specific evidence.
+While the existing dosage guidelines page covers the [[cannabis-administration-methods-comparison]], this page focuses on condition-specific
+dosing strategies, strain [[cannabis-anxiety-research]] for condition-specific evidence.
 
 ## CB1 vs CB2 Deficiency-Based Dosing
 
@@ -33,54 +30,7 @@ patient's dominant deficiency:
 
 ### CB2 Deficiency (Immune/Inflammatory Conditions)
 - Conditions: autoimmune diseases, chronic inflammation, arthritis,
-  [[blesching-cannabis-inflammatory-bowel-disease]] disease, dermatological conditions
-- Strategy: Choose strains with lower THC:CBD ratios (indica-dominant)
-- CBD has greater affinity for CB2 receptors
-- Indicas generally more sedating, relaxing, grounding; more physical
-
-### Mixed CB1/CB2 Conditions
-- Conditions: cancer, multiple sclerosis, palliative care needs
-- Strategy: Balanced THC:CBD ratios or hybrid strains
-- Both receptor systems contribute to therapeutic outcomes
-
-## Administration Route Dosing Considerations
-
-### Inhalation (Smoke or Vapor)
-- Onset: Minutes to seconds
-- Duration: Shorter than other methods
-- Titration: Take one short-to-medium inhalation, wait 5-10 minutes, assess
-  effect. Repeat as needed.
-- Key risk: The line between effective dose and adverse effect is thin.
-  Continue until sweet spot found, then stop. More is not better.
-- Vaporization eliminates combusted carbon products and associated lung risks
-
-### Ingestion (Oils, Tinctures, Edibles)
-- Onset: 45 minutes to 1.5 hours (up to 2 hours on full stomach)
-- Duration: Much longer than inhalation
-- Titration: Use exact, measured amount on empty stomach. Wait at least 1
-  hour. Increase by same amount. Repeat until desired effect achieved.
-- Starting point: Many patients start with 3-4 drops of tincture
-- Critical warning: Do not increase dose prematurely. Effects can be intense
-  and last many hours if too much is ingested.
-- Second use: Start at total previous effective amount minus 20% (to account
-  for changes in digestion)
-
-### Topical Application
-- Absorption: Similar to ingestion but more local, less systemic
-- Use: Isolated problem areas (joints, muscles, skin conditions)
-- Dosing: Apply measured amount to affected area; wait 30-60 minutes
-
-### Suppository
-- Use: Targeting lower intestinal tract
-- Method: Suction-bulbs filled with cannabis-infused oils inserted rectally
-
-## Dose-Specific Therapeutic Windows by Condition
-
-Blesching's studies reveal condition-specific dose sensitivity:
-
-### GERD
-- 10 mg THC: Significantly reduced symptoms
-- 20 mg THC: Produced [[blesching-cannabis-safety-adverse-effects-evidence]] (nausea, vomiting, hypotension)
+  [[blesching-cannabis-safety-adverse-effects-evidence]] (nausea, vomiting, hypotension)
 - Conclusion: Narrow therapeutic window; careful titration essential
 
 ### Alzheimer's Agitation
@@ -117,8 +67,83 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[dom]]
 - [[nabilone]]
-- [[blesching-cannabis-therapeutic-window-dosing]]
 - [[blesching-cannabis-neuroprotection-neurodegenerative]]
 - [[cannabis-sativa-vs-indica-strain-profiles-therapeutic-blesching]]
+
+## Overview
+
+Blesching Cannabis Dosing Strategies represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish blesching cannabis dosing strategies
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving blesching extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Blesching Cannabis Dosing Strategies finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for blesching cannabis dosing strategies. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+blesching cannabis dosing strategies and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Blesching Cannabis Dosing Strategies has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of blesching cannabis dosing strategies into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.

@@ -1,5 +1,5 @@
 ---
-title: Spreader Banks and Irrigation Bays
+title: [[diversion-drains-and-spreader-banks]] and Irrigation Bays
 source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
@@ -9,27 +9,7 @@ type: concept
 Spreader banks (also called spreader broads) and irrigation bays are earthwork
 systems designed to distribute surplus water efficiently across broad landscapes.
 These structures convert concentrated flow into thin, even sheet flow, serving
-both irrigation and erosion [[mollison-permaculture-two-arid-water-harvesting-and-erosion-control|control]] purposes — particularly in arid and semi-arid
-environments.
-
-## Spreader Banks (Broads)
-
-Spreader banks are earthworks that spill a thin sheet of surplus overflow water
-down broad grassy slopes. Their primary functions are irrigation and the
-prevention of channel scour and gullying in desert landscapes.
-
-### Design and Construction
-
-- Spreader banks take overflow from **swales and dams**, and can also receive
-  water from minor streams.
-- They range in length from tens to hundreds of metres.
-- The **lower side is dead level**, ensuring even water distribution across the
-  full length of the structure.
-- The lower side may be compacted earth or concreted for durability.
-- Water enters from a dam, swale, or minor stream at a single point or
-  distributed inlet, and leaves as a **thin sheet flow** running downslope.
-- **Spoil from excavation is piled uphill**, preferably formed into mounds,
-  [[query-which-cover-crops-are-best-for-breaking-hardpan-and-compacted-soil|which]] themselves can serve as useful planting zones or windbreaks.
+both irrigation and erosion [[query-which-cover-crops-are-best-for-breaking-hardpan-and-compacted-soil|which]] themselves can serve as useful planting zones or windbreaks.
 
 The key principle is converting concentrated, high-energy water flow into a
 broad, shallow, low-energy sheet that irrigates vegetation without eroding
@@ -59,13 +39,11 @@ controlled and directed.
 Using these gravity-fed systems, **one or two people can water 200–240
 hectares in a single morning**. This extraordinary labour efficiency makes
 irrigation bays one of the most productive water distribution strategies
-available in [[permaculture-design]].
+available in [[spreader-banks-and-interceptor-drains|Drains]]
 
-## Interceptor [[spreader-banks-and-interceptor-drains|Drains]]
-
-Interceptor drains were designed by **Harry Whittington of West Australia** to
+[[interceptor-drains-and-desertification-control]] were designed by **[[harry-whittington-mollison]] of West Australia** to
 address overland waterflow and waterlogging in desert soil catenas — the
-sequences of different soil types found along slopes in arid regions.
+sequences of different soil types found along slopes [[fukuoka-natural-farming-in-arid-regions]].
 
 ### Design Specifications
 
@@ -100,7 +78,7 @@ feed the spreader bank and irrigation bay systems described above.
 Effective water control requires reliable gate mechanisms:
 
 - **Fixed slide gates** are typically made of concrete and set at permanent
-  positions in head races and distribution channels.
+  positions in head races and [[magic-mushroom-retail-markets-and-commercial-distribution-channels]].
 - **Moveable slide gates** use plastic sheets weighted with chain — known
   colloquially as **"flags"** — that can be positioned or removed by hand.
   These are inexpensive, easily adjustable, and well-suited to the scale of
@@ -108,7 +86,7 @@ Effective water control requires reliable gate mechanisms:
 
 ## Wildfire Control
 
-Dams and sheet irrigation systems serve a dual purpose as **wildfire
+Dams and sheet [[irrigation-systems]] serve a dual purpose as **wildfire
 defence**. When equipped with infrared sensors and automatic spill-gates, these
 earthworks can be triggered to release water across broad areas ahead of an
 approaching fire front. The saturated vegetation and wet ground surface act as
@@ -132,7 +110,7 @@ accelerate degradation.
 
 ## Water Conservation in Sewage Systems
 
-Permaculture design addresses the enormous waste of potable water in
+[[bee-forage-systems-permaculture-design]] addresses the enormous waste of potable water in
 conventional sewage systems.
 
 ### Handbasin Flush Toilets

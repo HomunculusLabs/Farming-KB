@@ -23,33 +23,7 @@ It is native to southern and central Europe, where it grows in woodland clearing
 
 Large-flowered calamint is distinguished from related species by its relatively large, showy flowers and preference for shaded or semi-shaded habitats.
 
-The plant has been used in traditional European [[childrens-herbal-medicine]] as a digestive aid and mild sedative. It is increasingly cultivated as an ornamental garden plant for its extended flowering period.
-
-## Taxonomy and Morphology
-
-The species was originally described by Linnaeus as *Melissa grandiflora* in 1753. It was transferred to *Calamintha* by Josef August Schultes in 1818.
-
-Taxonomic treatments vary, with some authorities placing it within *Clinopodium*. The genus *Calamintha* is closely related to *Clinopodium* and *Acinos*, and molecular phylogenetic studies continue to refine these boundaries.
-
-**Key morphological features:**
-
-- **Growth habit:** Upright perennial herb, 30–60 cm tall, with a creeping rhizome.
-- **Stems:** Erect, square, pubescent, often branching in the upper portion.
-- **Leaves:** Opposite, ovate to cordate, 2–5 cm long, serrate margins, softly pubescent beneath. Strongly aromatic when crushed.
-- **Flowers:** Pink to rose-purple, bilabiate, 15–25 mm long — notably larger than those of *C. nepeta*. Arranged in loose, axillary whorls forming interrupted spikes.
-- **Fruit:** Four nutlets, brown, approximately 1.5 mm long, smooth.
-
-Flowering occurs from June through September. The plant emits a sweet, minty-balsamic fragrance from both flowers and foliage.
-
-## Distribution and Habitat
-
-Large-flowered calamint is native to Europe, with a distribution centered on the southern and central portions of the continent.
-
-Its range extends from the Iberian Peninsula and southern France through Italy, the Balkans, and into the Carpathian Mountains. It is also found in southern Switzerland and Austria.
-
-The species typically inhabits deciduous and mixed woodlands, forest edges, clearings, and rocky slopes at elevations from 200 to 1,800 meters.
-
-It prefers partial shade to dappled sunlight and moderately moist, well-drained soils with a neutral to slightly acidic pH. It is less tolerant of drought than *[[calamintha-nepeta]]*.
+The plant has been used in traditional European [[calamintha-nepeta]]*.
 
 In mountainous regions, it is a characteristic component of subalpine meadow communities and forest-edge ecotones.
 
@@ -57,17 +31,7 @@ In mountainous regions, it is a characteristic component of subalpine meadow com
 
 Large-flowered calamint is increasingly popular as a garden ornamental, valued for its long bloom period, attractive flowers, and aromatic foliage.
 
-**[[mushroom-species-cultivation-parameters]]:**
-
-- **Soil:** Well-drained, moderately fertile, pH 5.5–7.0. Tolerates clay and loamy soils.
-- **Light:** Partial shade to full sun. Performs best with morning sun and afternoon shade.
-- **Water:** Moderate moisture preferred; tolerates brief dry spells once established.
-- **Spacing:** 30–40 cm between plants.
-- **Hardiness:** USDA zones 5–9, tolerating temperatures to approximately −20°C.
-
-Propagation is by seed, division in spring, or softwood cuttings in early summer. Division every 3–4 years maintains vigor.
-
-The plant is relatively pest-free, though aphids and [[cervantes-spider-mites-identification-control]] may occasionally affect new growth. It is deer-resistant due to its aromatic foliage.
+**[[cervantes-spider-mites-identification-control]] may occasionally affect new growth. It is deer-resistant due to its aromatic foliage.
 
 Deadheading extends the flowering period. Cutting back after the first flush of bloom encourages a second flowering in autumn.
 
@@ -88,3 +52,88 @@ Tunisian and Sicilian populations show distinct chemical profiles, with piperito
 **Reported pharmacological activities:**
 
 Essential oil demonstrates significant antibacterial activity against *[[staphylococcus-aureus]]*, *Bacillus cereus*, and *Listeria monocytogenes* in vitro.
+
+## Overview
+
+Calamintha Grandiflora represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish calamintha grandiflora
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving calamintha extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Calamintha Grandiflora finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for calamintha grandiflora. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+calamintha grandiflora and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Calamintha Grandiflora has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of calamintha grandiflora into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[calamintha-nepeta]]
+- [[coreopsis-grandiflora]]
+- [[dietes-grandiflora]]
+- [[pinguicula-grandiflora]]
+- [[sesbania-grandiflora]]

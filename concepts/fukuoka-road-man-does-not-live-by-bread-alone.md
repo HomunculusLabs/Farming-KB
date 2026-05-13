@@ -27,29 +27,11 @@ it is he lives by, and no idea what to eat and what to
 depend on to live. Science, he insists, doesn't have the
 vaguest idea what real food is. It can't tell us why, how,
 and in what way man eats and should eat. It can't explain
-the true source, meaning, and goal of life. See [[fukuoka-one-straw-revolution-philosophy]] and [[fukuoka-road-all-one-has-to-do-is-live]]
+the true source, meaning, and goal of life. See [[fukuoka-road-all-one-has-to-do-is-live]]
 
 ## See Also
 
-- [[fukuoka-textdoc-road-back-to-farming-obstacles]]
-## Practical Applications
-
-Man Doesn't Live by Bread Alone has a range of practical applications that make it relevant to
-both researchers and practitioners. Understanding these applications
-requires familiarity with the underlying principles and their
-manifestation in real-world contexts. The breadth of applications
-reflects the fundamental importance of this topic across disciplines.
-
-Implementation varies based on scale, available resources, and
-specific objectives. Small-scale applications may be relatively
-straightforward, while larger implementations require more careful
-planning and coordination. Adaptation to local conditions is always
-essential for achieving optimal results regardless of scale.
-
-Documented case studies provide valuable reference points, though
-each situation presents unique combinations of opportunities and
-constraints that require context-specific solutions. The most
-successful implementations combine established [[arbuscular-mycorrhizal-inoculum-production-best-practices]] with
+- [[arbuscular-mycorrhizal-inoculum-production-best-practices]] with
 creative adaptation to local conditions and emerging challenges.
 
 ## Key Considerations
@@ -97,8 +79,6 @@ through generations to modern scientific approaches, the evolution continues
 to inform current best practices and research directions.
 
 ## See Also
-- [[doc]]
 - [[det]]
-- [[mycorrhiza]]
 - [[fukuoka-road-all-one-has-to-do-is-live]]
 - [[fukuoka-textdoc-man-sole-heretic-natural-order]]

@@ -22,13 +22,8 @@ The process begins when specialized bacteria called rhizobia colonize the root s
 These bacteria trigger the formation of nodules on the roots, which serve as tiny nitrogen-processing factories.
 Inside each nodule, the bacteria use an enzyme called nitrogenase to split atmospheric nitrogen gas (N2) into ammonium (NH4+).
 This is remarkable because most plants cannot access atmospheric nitrogen directly.
-The [[permplant-alder-alnus-nitrogen-fixing-non-legume]] page documents important non-legume fixers like alder trees.
 The [[legume-nitrogen-dynamics]] provides detailed data on how much nitrogen different legume species actually fix.
-Not all nitrogen is equal, and the timing of release matters significantly for [[comparison-companion-planting-reference-vs-jadam-monoculture-critique]].
-Some legumes fix more nitrogen during their lifecycle than others.
-The gaias-garden-nitrogen-fixers-guild-design page demonstrates how to integrate fixers into plant guilds.
-Common food forest nitrogen fixers include black locust, Siberian pea shrub, seaberry, and autumn olive.
-The [[permaculture-plants-nitrogen-fixing-trees]] resource provides a comprehensive species list for various climates.
+Not all nitrogen is equal, and the timing of release matters significantly for [[permaculture-plants-nitrogen-fixing-trees]] resource provides a comprehensive species list for various climates.
 Shrubby nitrogen fixers can serve dual purposes as windbreaks, wildlife habitat, and sources of biomass for mulch.
 When designing a food forest, nitrogen fixers should be distributed throughout each planting zone.
 Strategic placement ensures that nitrogen is being fixed in close proximity to heavy-feeding fruit trees and berry bushes.
@@ -36,39 +31,15 @@ Strategic placement ensures that nitrogen is being fixed in close proximity to h
 ## Nitrogen Fixing Trees and Timber
 
 Some nitrogen fixing trees produce valuable timber alongside their soil-building benefits.
-The [[permplant-leucaena-tropical-nitrogen-fixing-tree]] covers the tropical equivalent of black locust.
 The [[urban-permaculture-nitrogen-fixing-green-manures]] page covers using clovers, vetch, and field peas as cover crops.
-The [[permaculture-nitrogen-fixing-trees-guide]] shows how to place nitrogen fixers strategically across a property.
 The [[nitrogen-fixing-trees-and-shrubs]] resource covers both perennial and annual options for every climate zone.
-Every plant guild in a [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]] should include at least one nitrogen fixing member.
-Nitrogen fixers work best when combined with [[nutrient-dynamic-accumulator-reference]] plants and deep-rooted species in polycultures.
-The [[legume-nitrogen-fixation-mechanism]] explains the biochemical pathway that makes this symbiosis possible
-- Non-legume fixers like [[permplant-black-locust-nitrogen-fixing-timber]] produces valuable lumber while building soil fertility
-- [[nitrogen-fixing-trees-and-shrubs]] provides species selection guidance for every climate
-- Green manure cover crops fix nitrogen while protecting soil from erosion between plantings
-- Every [[query-what-is-a-permaculture-guild-and-how-do-i-design-one]] should include at least one nitrogen fixing species for long-term fertility
+Every plant guild in a [[nutrient-dynamic-accumulator-reference]] plants and deep-rooted species in polycultures.
+The [[permplant-black-locust-nitrogen-fixing-timber]] produces valuable lumber while building soil fertility
+- [[query-what-is-a-permaculture-guild-and-how-do-i-design-one]] should include at least one nitrogen fixing species for long-term fertility
 
 ## Related Questions
-- [[query-how-do-i-use-cover-crops-to-improve-soil-health]]
 - [[query-what-are-dynamic-accumulator-plants-and-how-do-i-use-them]]
-- [[query-how-to-start-a-food-forest]]
-## Practical Considerations
-
-When working with How Do Nitrogen Fixing Plants Work in Permaculture?, several practical factors should be
-carefully considered to achieve optimal results. These include
-the specific conditions of the implementation context, available
-resources, timing requirements, and the interactions between this
-topic and other elements of the broader system. A holistic view
-that considers these interconnections produces better outcomes.
-
-Environmental conditions such as temperature, moisture, and
-seasonal patterns significantly influence results. Monitoring these
-variables and adapting practices accordingly is essential for success.
-The most effective practitioners develop keen observation skills and
-respond flexibly to changing conditions rather than following rigid
-protocols regardless of circumstances or local variation.
-
-[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
+- [[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.

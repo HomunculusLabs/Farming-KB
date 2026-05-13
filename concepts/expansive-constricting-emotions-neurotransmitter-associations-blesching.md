@@ -9,7 +9,7 @@ tags: [neuroscience, emotions, neurotransmitters, endocannabinoid, psychology, m
 
 ## Overview
 
-Uwe Blesching's *The Cannabis Health Index* (2015) presents a model categorizing
+[[uwe-blesching]]'s *The [[cannabis-health-index]]* (2015) presents a model categorizing
 emotions and their associated neurochemicals into two broad groups: expansive
 emotions (linked to healing, openness, and well-being) and constricting emotions
 (linked to stress, defense, and contraction). This framework bridges the gap
@@ -139,8 +139,6 @@ might address emotional dysregulation:
 
 ## See Also
 
-- [[blesching-molecules-emotions-endocannabinoid-bridge]] — ECS bridge concept
 - [[blesching-endocannabinoid-emotion-molecules-neurochemistry]] — Full mapping
-- [[blesching-molecules-emotions-expansive-constricting-neurotransmitters]] — Detailed table
 - [[anandamide-and-the-endocannabinoid-system]] — Anandamide overview
 - [[endocannabinoid-system-stress-hormone-reduction-mechanisms-blesching]] — Stress modulation

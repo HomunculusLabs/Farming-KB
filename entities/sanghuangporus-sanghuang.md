@@ -28,13 +28,7 @@ created: 2026-04-28
 ## Overview
 
 *Sanghuangporus sanghuang* is a perennial polypore fungus in the
-family Hymenochaetaceae, native to [[neurotropic-fungi-japan-east-asia-species-cultural-context]]. It is the type species
-of the genus *Sanghuangporus*, segregated from *Phellinus* in 2016
-based on molecular phylogenetic evidence.
-
-The species is the original "Sanghuang" (桑黄) of traditional Chinese
-medicine, referenced for over 2,000 years. Its name translates as
-"mulberry yellow," reflecting its growth on [[query-how-do-i-grow-mulberry-trees]] and the
+family Hymenochaetaceae, native to [[query-how-do-i-grow-mulberry-trees]] and the
 yellow-orange pore surface.
 
 Modern pharmacology has validated several traditional applications,
@@ -58,31 +52,7 @@ bioactive constituents.
 The genus *Sanghuangporus* was erected in 2016 when multi-gene
 phylogenetic analyses revealed the Sanghuang clade was distinct from
 *Phellinus* sensu stricto. The type specimen was collected from
-mulberry (*[[morus-alba]]*) in Taiwan.
-
-Basidiocarps are perennial, hoof-shaped to effused-reflexed, 5–20 cm
-in diameter and 2–6 cm thick. The upper surface is dark brown to black
-with concentric zoning and radial cracks.
-
-The pore surface is yellow-orange to rust-brown with 4–6 round to
-angular pores per millimeter. The context is woody, fibrous, and
-distinctively yellow-brown. Basidiospores are subglobose, hyaline,
-4–5.5 × 3.5–4.5 µm.
-
-## Distribution and Habitat
-
-*S. sanghuang* occurs across East Asia including China, Japan, Korea,
-and Taiwan. It is found in subtropical to warm temperate forests at
-200–1500 meters elevation.
-
-The species predominantly colonizes mulberry (*Morus alba*) but also
-occurs on oak, chestnut, and persimmon. It fruits on standing dead
-trunks and large fallen logs. Sanghuang is slow-growing, requiring
-5–15 years to develop a harvestable basidiocarp in the wild.
-
-Overharvesting and habitat loss have caused significant population
-decline. Wild Sanghuang is now considered a threatened resource in
-several Chinese provinces, driving interest in [[fukuoka-matsutake-artificial-cultivation-attempt]].
+mulberry (*[[fukuoka-matsutake-artificial-cultivation-attempt]].
 
 ## Bioactive Compounds
 
@@ -91,11 +61,90 @@ primary fraction consists of β-glucans with (1→3) and (1→6) linkages,
 
 ## See Also
 
-- [[sanghuangporus-baumii]]
 - [[sanghuangporus-cottoneus]]
+- [[sanghuangporus-linteus]]
+- [[sanghuangporus-lonicerinus]]
+- [[sanghuangporus-villosus]]
+
+## Overview
+
+Sanghuangporus Sanghuang represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish sanghuangporus sanghuang
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving sanghuangporus extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Sanghuangporus Sanghuang finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for sanghuangporus sanghuang. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+sanghuangporus sanghuang and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Sanghuangporus Sanghuang has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of sanghuangporus sanghuang into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
 - [[sanghuangporus-ctenophorus]]
 - [[sanghuangporus-linteus]]
 - [[sanghuangporus-lonicericola]]
-- [[sanghuangporus-lonicerinus]]
-- [[sanghuangporus-vaninii]]
-- [[sanghuangporus-villosus]]

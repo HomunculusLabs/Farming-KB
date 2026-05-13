@@ -4,15 +4,14 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [entheogen, law, reform, activism, history, counterculture, psychopharmacology, entheogen-research, psychedelics, culture, community]
-sources:
-  - "raw/papers/higa-effective-microorganisms.md"
+sources: []
 ---
 
 # Psychedelic Mushroom Decriminalization
 
 ## Overview
 
-The movement to decriminalize psilocybin-containing mushrooms has been one of the most significant drug policy developments of the 21st century. Beginning with grassroots activism in the mid-2010s, the movement has achieved remarkable success at both the local and state level in the United States, with ripple effects worldwide. As of 2026, [[cap-versus-stem-alkaloid-distribution-in-psilocybin-mushrooms]] have been decriminalized in over two dozen US cities and legalized for therapeutic use in two states.
+The movement to decriminalize psilocybin-containing mushrooms has been one of the most significant drug policy developments of the 21st century. Beginning with grassroots activism in the mid-2010s, the movement has achieved remarkable success at both the local and state level in the United States, with ripple effects worldwide. As of 2026, psilocybin mushrooms have been decriminalized in over two dozen US cities and legalized for therapeutic use in two states.
 
 This page traces the history, strategy, and current status of the psychedelic mushroom decriminalization movement.
 
@@ -21,7 +20,7 @@ This page traces the history, strategy, and current status of the psychedelic mu
 Psilocybin mushrooms occupy a unique position in drug policy discussions:
 
 - They have been used sacramentally for thousands of years
-- They show remarkable [[metzner-ayahuasca-therapeutic-potential]] in clinical trials for depression, anxiety, PTSD, and addiction
+- They show remarkable therapeutic potential in clinical trials for depression, anxiety, PTSD, and addiction
 - They are non-addictive and have a very low toxicity profile
 - They are naturally occurring — not synthetic drugs
 - Their criminalization was largely a historical accident of the War on Drugs rather than evidence-based policy
@@ -66,7 +65,7 @@ Oregon became the first state to legalize psilocybin for therapeutic use:
 - **Measure 109** (passed November 2020, 55.6% of vote): Created a regulated psilocybin therapy program overseen by the Oregon Health Authority
 - Licensed service centers can administer psilocybin to clients 21+
 - Trained facilitators guide sessions (not requiring a medical diagnosis)
-- The program launched in 2023, making Oregon the first jurisdiction to offer legal, regulated [[metzner-amplifier-microscope-metaphors-psychedelic-therapy]]
+- The program launched in 2023, making Oregon the first jurisdiction to offer legal, regulated psychedelic therapy
 - Multiple service centers opened across the state
 
 - **Measure 110** (also November 2020): Broader drug decriminalization measure that also covered psilocybin (though Measure 109 superseded it for mushrooms specifically)
@@ -106,7 +105,7 @@ Colorado became the second state to legalize psilocybin:
 ### Legalization / Regulated Access
 - Creates a legal framework for the production and therapeutic administration of psilocybin
 - Establishes licensing for growers, manufacturers, facilitators, and service centers
-- Does not typically allow retail sales like [[cannabis-legalization-era]]
+- Does not typically allow retail sales like cannabis legalization
 - More complex to implement — requires regulatory infrastructure
 - This is the Oregon Measure 109 and Colorado Proposition 122 model
 
@@ -115,7 +114,7 @@ Colorado became the second state to legalize psilocybin:
 - **Decriminalize Nature**: Originated in Oakland, has supported campaigns in dozens of cities
 - **SPORE (Society for Psychedelic Outreach, Reform, and Education)**: Oregon advocacy
 - **Healing Advocacy Fund**: Supports Colorado implementation
-- **MAPS ([[maps-multidisciplinary-association-for-psychedelic-studies]] Psychedelic Studies)**: Research-focused, broader psychedelic policy
+- **MAPS (Multidisciplinary Association for Psychedelic Studies)**: Research-focused, broader psychedelic policy
 - **Flow State Microdosing**: Community microdosing advocacy
 - **Veterans groups**: Have become powerful advocates for psychedelic access, particularly for PTSD treatment
 
@@ -141,10 +140,11 @@ Colorado became the second state to legalize psilocybin:
 The US movement has inspired reform efforts worldwide:
 - **Netherlands**: Magic truffles (sclerotia) remain legally available
 - **Portugal**: All drugs decriminalized since 2001
-- **Canada**: Expanding medical exemptions for psilocybin
-- **Australia**: Rescheduled psilocybin for medical use in 2023 (restricted to psychiatrists in clinical settings)
-- **Brazil, Peru, Ecuador**: Traditional use of entheogens is legally protected
 
-## Related Topics
+## See Also
 
-- [[psychedelic-plants-legal-status]] — comprehensive legal status for all entheogens
+- [[metzner-entheogenic-terminology-psychedelic-hallucinogenic-entheogenic]]
+- [[psychedelic-1960s-counterculture]]
+- [[psychedelic-consciousness-expansion]]
+- [[psychedelic-prohibition-and-the-war-on-consciousness]]
+- [[psychedelic-therapy-set-and-setting]]

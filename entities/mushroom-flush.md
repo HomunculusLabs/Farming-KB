@@ -77,9 +77,7 @@ The flush phenomenon likely reflects:
 
 ## Related Entities
 
-- [[mushroom-casing]] — Casing layer critical for pin formation and flush initiation
 - [[mushroom-compost]] — Substrate providing nutrients for sustained flush production
-- [[agaricus-campestris]] — Species exhibiting characteristic flush patterns
 - [[flat-bed-system]] — Bed system affecting flush distribution
 - [[ridge-bed-system]] — Alternative bed system with different flush characteristics
 

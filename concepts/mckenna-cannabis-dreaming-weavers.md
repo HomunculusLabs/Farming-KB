@@ -23,9 +23,7 @@ type: concept
 Cannabis occupies a unique position in McKenna's pharmacological history. Unlike
 the vision-inducing hallucinogens of the Archaic partnership paradise, cannabis
 functions as a subtler agent of boundary dissolution, one capable of satisfying
-the innate yearning for Archaic [[mckenna-consciousness-expansion-and-drug-war]] while leaving largely
-intact the structures of ordinary society. Its history spans millennia, from
-ancient Scythian rituals to the drug wars of the [[coleman-louis-savier-twentieth-century-maraicher]].
+the innate yearning for Archaic [[coleman-louis-savier-twentieth-century-maraicher]].
 
 ## Hashish and the Scythians
 
@@ -41,12 +39,7 @@ psychoactive substance.
 
 In India, cannabis was absorbed into the religious fabric. Bhang, ganja, and
 charas became associated with the worship of Shiva. The drink bhang, made from
-[[query-what-causes-cannabis-leaves-to-curl-and-how-to-fix-it]] and milk, was considered a sacred potion. In China, cannabis had
-a long history of both fiber and psychoactive use. The Chinese character for
-cannabis, ma, is one of the oldest in the written language and combines the
-radicals for "plant" and "two," suggesting the plant's dual nature.
-
-Cannabis as a [[mckenna-cannabis-cultural-style-and-feminine-plant]] differs fundamentally from culture to culture. In
+[[mckenna-cannabis-cultural-style-and-feminine-plant]] differs fundamentally from culture to culture. In
 India it was absorbed into religion. In the Islamic world it became the
 accompaniment of poetry and contemplation. In Africa it was associated with
 labor and social bonding. Each culture found its own relationship with the plant,

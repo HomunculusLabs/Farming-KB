@@ -34,7 +34,7 @@ The spores themselves are not harmful when ingested — they pass through the di
 
 ### Why Low-Acid Foods Are Dangerous
 
-High-acid foods (fruits, pickles, jams) have a pH below 4.6, which prevents C. botulinum growth. The acid inhibits [[growing-gourmet-spore-germination-strain-isolation]] even if spores survive the canning process.
+High-acid foods (fruits, pickles, jams) have a pH below 4.6, which prevents C. botulinum growth. The acid inhibits spore germination even if spores survive the canning process.
 
 Low-acid foods (vegetables, meats, soups, beans) have a pH above 4.6. If spores survive canning, they can germinate and produce toxin in the sealed jar. This is why low-acid foods MUST be processed at 240F (at sea level) — the only reliable way to destroy C. botulinum spores.
 
@@ -42,7 +42,7 @@ Low-acid foods (vegetables, meats, soups, beans) have a pH above 4.6. If spores 
 
 - Boiling water reaches 212F at sea level — insufficient to kill spores
 - C. botulinum spores are destroyed when held at 240F for the time specified in tested recipes
-- A [[pf-tek-pressure-canner-sterilization]] is the ONLY home method that achieves 240F
+- A pressure canner is the ONLY home method that achieves 240F
 - A boiling water canner, oven canning, open-kettle canning, microwave canning, or dishwasher canning CANNOT safely process low-acid foods
 
 ## Pressure Canner vs Pressure Cooker
@@ -66,7 +66,7 @@ Some modern "multi-cookers" (Instant Pot, etc.) market canning functions, but th
 
 Dial gauges must be tested annually for accuracy:
 
-- Testing is typically available at county extension offices (free or [[coleman-quick-hoops-low-cost-season-extension-structures-design]])
+- Testing is typically available at county extension offices (free or low cost)
 - Gauges reading high are dangerous — the actual pressure is lower than indicated, potentially resulting in under-processing
 - Gauges reading low are safe but wasteful — you process at higher pressure than needed
 - Replace gauges that are off by more than 2 PSI
@@ -106,7 +106,7 @@ Processing times are determined by laboratory testing and must be followed exact
 ### What Affects Processing Time
 
 - **Food type and density** — Dense foods (pumpkin, potatoes) take longer than watery foods (broth)
-- **[[pf-tek-jar-size-importance-half-pint-reliability]]** — Quarts always require longer processing than pints
+- **Jar size** — Quarts always require longer processing than pints
 - **Packing method** — Raw pack (cold food packed raw) vs hot pack (food heated before packing) have different times
 - **Altitude** — Higher altitude requires higher pressure (see [[mason-jar-preserving-guide]] for altitude tables)
 - **Recipe source** — Only use tested recipes from USDA, Ball, or extension services
@@ -141,10 +141,10 @@ Skipping venting is one of the most dangerous errors in pressure canning. It can
 - Off odor, foaming or spurting liquid when opened
 - Mold visible on food or under lid, unexpectedly mushy or slimy texture
 
-### The 10-Minute Boil Rule
+## See Also
 
-As an extra safety margin, the USDA recommends boiling all home-canned vegetables and meats for 10 minutes before tasting. This destroys any botulinum toxin that might be present:
-
-1. Open the jar
-2. Transfer contents to a saucepan
-3. Bring to a rolling boil
+- [[pressure-cooker-sterilisation-fungal-substrate]]
+- [[pf-tek-pressure-canner-sterilization]]
+- [[hyphal-turgor-pressure-fungal-growth]]
+- [[cervantes-vapor-pressure-deficit-transpiration]]
+- [[hyphal-biology-and-turgor-pressure]]

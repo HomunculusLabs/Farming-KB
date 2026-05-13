@@ -11,7 +11,7 @@ mined: 2026-05-10
 
 ## Overview
 
-Cannabis breeding is the deliberate manipulation of [[basidiomycete-mating-systems-sexual-reproduction]] to create new populations with desired combinations of traits. The breeding chapter of Cervantes' [[marijuana-horticulture-cervantes-cannabis-life-cycle-and-photoperiod]], contributed by the breeder Chimera, explains the biological processes underlying seed formation and provides practical frameworks for designing breeding programs. While asexual propagation (cloning) maintains genetic consistency, sexual reproduction creates the genetic variation that breeders exploit to develop new and improved varieties.
+Cannabis breeding is the deliberate manipulation of [[marijuana-horticulture-cervantes-cannabis-life-cycle-and-photoperiod]], contributed by the breeder Chimera, explains the biological processes underlying seed formation and provides practical frameworks for designing breeding programs. While asexual propagation (cloning) maintains genetic consistency, sexual reproduction creates the genetic variation that breeders exploit to develop new and improved varieties.
 
 ## Reproduction in Cannabis
 
@@ -35,20 +35,7 @@ When compatible pollen lands on a receptive stigma, the pollen grain is hydrated
 
 ### Dominant and Recessive Traits
 
-Cannabis traits are governed by alleles — alternative forms of the same gene. In simple [[cannabis-chromosomes-and-mendelian-inheritance]]:
-
-- **Dominant alleles** mask the expression of recessive alleles when both are present (heterozygous condition)
-- **Recessive alleles** are only expressed when present in pairs (homozygous recessive condition)
-- **Homozygous dominant** (AA): Two copies of the dominant allele — trait always expressed
-- **Heterozygous** (Aa): One dominant, one recessive — dominant trait expressed, recessive carried hidden
-- **Homozygous recessive** (aa): Two copies of recessive allele — recessive trait expressed
-
-### Polygenic Traits
-
-Most commercially important cannabis traits are polygenic — controlled by many genes acting together:
-
-- **Yield**: Influenced by dozens of genes affecting branching, flower density, flowering time, and plant vigor
-- **Potency**: THC, CBD, and [[cannabis-terpene-profiles]] are each controlled by multiple genetic loci
+Cannabis traits are governed by alleles — alternative forms of the same gene. In simple [[cannabis-terpene-profiles]] are each controlled by multiple genetic loci
 - **Flavor and aroma**: Complex interactions between terpene synthase genes produce the enormous variety of cannabis aromas
 - **Disease resistance**: Multiple genes contribute to resistance against molds, pests, and pathogens
 
@@ -70,34 +57,7 @@ Repeated self-pollination or crossing of closely related individuals over multip
 
 - **Goal**: Create homozygous lines where desired traits breed true
 - **Method**: Self-pollinate or cross siblings for 6-8+ generations
-- **Consequences**: [[cervantes-hybrid-vigor-inbreeding-depression]] — loss of vigor, yield, and disease resistance over time
-- **Practical use**: Developing stable parental lines for hybrid seed production
-
-### Backcrossing
-
-Backcrossing is used to introduce a specific trait from a donor parent into an otherwise desirable genetic background:
-
-**Backcrossing a dominant trait (Example 1)**:
-1. Cross donor (AA, has desired dominant trait) with recurrent parent (aa, lacks it)
-2. F1 offspring are all Aa (express the trait)
-3. Backcross F1 to the recurrent parent (aa)
-4. Select offspring that express the trait (Aa), backcross again
-5. Repeat 4-6 times to recover ~99% of the recurrent parent's genetics while retaining the desired trait
-
-**Backcrossing a recessive trait (Example 2)**:
-1. Cross donor (aa) with recurrent parent (AA)
-2. F1 offspring are all Aa (do not express the recessive trait)
-3. Self the F1 or intercross siblings
-4. Select offspring that express the recessive trait (aa)
-5. Backcross selected (aa) individuals to the recurrent parent
-6. Repeat the selfing and selection step in each backcross generation
-
-### Selfing
-
-Self-pollination (selfing) forces a normally dioecious plant to breed with itself, creating a population that rapidly approaches homozygosity:
-
-- **Chemical induction**: Silver thiosulfate (STS) or colloidal silver solutions are sprayed on female plants to induce male flower development on otherwise female plants
-- **Purpose**: Create inbred lines for breeding, preserve unique genetics, or produce [[cannabis-feminized-seeds]]
+- **Consequences**: [[cannabis-feminized-seeds]]
 - **Rate**: Each generation of selfing reduces heterozygosity by approximately 50%
 - **Feminized seeds**: Selfed seeds from a female plant are all female (XX chromosomes), as no Y chromosome is involved
 
@@ -107,9 +67,7 @@ Self-pollination (selfing) forces a normally dioecious plant to breed with itsel
 
 The simplest and most common approach — selecting plants based on observable characteristics:
 
-- **Visual inspection**: Bud structure, [[cannabis-glandular-trichome-types-resin-production-clarke]], color, aroma
-- **Growth characteristics**: Plant size, branching pattern, flowering time, yield
-- **[[challenges-neurotropic-fungi-chemical-analysis-taxonomic-identification]]**: THC/CBD/terpene profiling via laboratory testing
+- **Visual inspection**: Bud structure, [[challenges-neurotropic-fungi-chemical-analysis-taxonomic-identification]]**: THC/CBD/terpene profiling via laboratory testing
 - **Testing**: Consuming small samples to evaluate subjective effects
 
 ### Progeny Testing
@@ -132,5 +90,4 @@ A basic breeding program follows these steps:
 ## See Also
 
 - cannabis life cycle and photoperiod
-- cannabis [[cannabis-grow-hydroponic-growing-systems]]
-- [[cannabis-nutrient-management]] in [[arbuscular-mycorrhizal-fungi-cannabis-cultivation]]
+- cannabis [[cannabis-nutrient-management]] in [[arbuscular-mycorrhizal-fungi-cannabis-cultivation]]

@@ -1,5 +1,5 @@
 ---
-title: gourmet-medicinal-mushroom-casing-layer-techniques Regulatory Frameworks for Cancer Products
+title: gourmet-medicinal-mushroom-casing-layer-techniques [[singh-mycoremediation-regulatory-frameworks]] for Cancer Products
 created: 2026-04-21
 updated: 2026-04-21
 type: concept
@@ -9,7 +9,7 @@ sources: []
 
 # Medicinal Mushroom Regulatory Frameworks for Cancer Products
 
-The regulatory landscape for medicinal mushroom products spans pharmaceutical drugs, dietary supplements, and functional foods, with significant differences between Japan, China, USA, and Europe. Navigating these frameworks is essential for bringing mushroom-derived cancer therapeutics and supportive care products to market, and the regulatory pathway chosen has profound implications for clinical evidence requirements, marketing claims, and commercial viability.
+The regulatory landscape for medicinal mushroom products spans pharmaceutical drugs, [[medicinal-mushroom-dietary-supplements]], and functional foods, with significant differences between Japan, China, USA, and Europe. Navigating these frameworks is essential for bringing mushroom-derived cancer therapeutics and supportive care products to market, and the regulatory pathway chosen has profound implications for clinical evidence requirements, marketing claims, and commercial viability.
 
 ## Historical Context
 
@@ -43,18 +43,10 @@ Consumer product information should include:
 - Contraindications
 - Warnings
 
-These guidelines established the principle that traditional use data could partially substitute for formal clinical trials, a framework particularly relevant for [[functional-foods-medicinal-mushrooms]] marketed as dietary supplements rather than drugs.
-
-## Japan: Pharmaceutical Approval
-
-Japan has the most advanced regulatory framework for mushroom-derived pharmaceuticals:
-
-### Approved Products
-
-- **Lentinan:** Classified as a medicine, multiple manufacturers. A β-1,3-glucan from *Lentinula edodes* (shiitake), approved as an adjunct cancer therapy. It is administered intravenously and has been used in Japanese oncology practice since the 1980s. See [[medicinal-mushroom-guide-shiitake]] for more on the source organism.
-- **Schizophyllan:** Approved for clinical use. A β-1,3/1,6-glucan from *Schizophyllum commune* with demonstrated immunomodulatory and antitumor activity.
-- **PSK (Krestin):** By 1987 accounted for >25% of total national anti-cancer agent expenditure in Japan. A protein-bound polysaccharide from *Trametes versicolor*, PSK is one of the most commercially successful mushroom-derived pharmaceuticals ever developed. Clinical evidence from [[psk-breast-lung-cancer-clinical-trials]] and [[psk-gastric-cancer-clinical-trials]] supports its use as an adjuvant therapy.
-- **Meshima:** Approved as medicine in Korea, functional food in Japan. Derived from *Phellinus linteus*, it is widely used in traditional East Asian medicine.
+These guidelines established the principle that traditional use data could partially substitute for formal clinical trials, a framework particularly relevant for [[medicinal-mushroom-guide-shiitake]] for more on the source organism.
+- **Schizophyllan:** Approved for clinical use. A β-1,3/1,6-glucan from *[[schizophyllum-commune]]* with demonstrated immunomodulatory and antitumor activity.
+- **PSK (Krestin):** By 1987 accounted for >25% of total national anti-cancer agent expenditure in Japan. A protein-bound polysaccharide from *[[growing-gourmet-turkey-tail-trametes-versicolor-cultivation]]*, PSK is one of the most commercially successful mushroom-derived pharmaceuticals ever developed. Clinical evidence from [[psk-gastric-cancer-clinical-trials]] supports its use as an adjuvant therapy.
+- **Meshima:** Approved as medicine in Korea, functional food in Japan. Derived from *[[phellinus-linteus]]*, it is widely used in traditional East Asian medicine.
 
 The Japanese system allows for approval based on a combination of traditional use, non-clinical pharmacology, and controlled clinical studies, without always requiring the large Phase III trials mandated by Western regulatory agencies.
 
@@ -62,7 +54,7 @@ The Japanese system allows for approval based on a combination of traditional us
 
 China's regulatory approach is unique in formally integrating mushroom-derived products within the traditional Chinese medicine (TCM) framework:
 
-- **Chinese Pharmacopoeia:** Multiple mushroom species are listed as official medicines, including *Ganoderma lucidum* (lingzhi/reishi), *Trametes versicolor* (yunzhi), and *Inonotus obliquus* (chaga)
+- **Chinese Pharmacopoeia:** Multiple mushroom species are listed as official medicines, including *[[ganoderma-lucidum]]* (lingzhi/reishi), *Trametes versicolor* (yunzhi), and *[[chaga-inonotus-obliquus]]* (chaga)
 - **Drug approval classes:** China has a tiered drug approval system that allows faster approval for products with strong traditional use evidence combined with modern pharmacological validation
 - **Large-scale clinical use:** Products like PSK equivalents (polysaccharopeptide, PSP) and *Ganoderma* extracts are widely prescribed in Chinese hospitals as cancer adjuvants
 - **Quality standards:** The Chinese Pharmacopoeia specifies identity, purity, and assay requirements for fungal-derived drugs

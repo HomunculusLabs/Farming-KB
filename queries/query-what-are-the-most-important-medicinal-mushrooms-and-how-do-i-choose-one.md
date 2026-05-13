@@ -19,36 +19,10 @@ The **six most evidence-backed medicinal mushrooms** each target different syste
 
 | Mushroom | Best For | Key Evidence | Beginner Friendly? |
 |---|---|---|---|
-| **Lion's Mane** (*[[hericium-erinaceus]]*) | Brain health, memory, nerve repair, focus | Moderate (human trials on cognitive function) | ★★★★★ Great-tasting culinary mushroom |
-| **Reishi** (*[[ganoderma-lucidum]]*) | Sleep, stress, immune balance, longevity | Moderate (extensive traditional use, some clinical trials) | ★★☆☆☆ Bitter, best as extract |
-| **Turkey Tail** (*[[staycare-trametes-versicolor-bioremediation-applications]]*) | Immune support, cancer adjunct, gut health | **Strong** (PSK approved cancer drug in Japan) | ★★★☆☆ Easy to take as extract |
-| **Chaga** (*[[inonotus-obliquus]]*) | Antioxidants, anti-inflammatory, anti-aging | Moderate (strong preclinical, limited human data) | ★★★★☆ Pleasant tea, but oxalate concerns |
+| **Lion's Mane** (*[[ganoderma-lucidum]]*) | Sleep, stress, immune balance, longevity | Moderate (extensive traditional use, some clinical trials) | ★★☆☆☆ Bitter, best as extract |
+| **Turkey Tail** (*[[inonotus-obliquus]]*) | Antioxidants, anti-inflammatory, anti-aging | Moderate (strong preclinical, limited human data) | ★★★★☆ Pleasant tea, but oxalate concerns |
 | **Co cordyceps militaris ps militaris*) | Energy, endurance, oxygen utilization, libido | Moderate (human trials on VO2 max and fatigue) | ★★★☆☆ Available as extract or whole |
-| **Shiitake** (*[[lentinula-edodes]]*) | Heart health, immunity, cholesterol | Moderate (well-studied culinary + medicinal) | ★★★★★ Excellent food, daily use |
-
-## How to Choose Based on Your Primary Goal
-
-### For Brain Health, Memory, and Focus → **Lion's Mane**
-
-Lion's mane is the clear winner for cognitive support. It contains two unique compounds — **hericenones** (in the fruiting body) and **erinacines** (in the mycelium) — that stimulate **nerve growth factor (NGF)** and **brain-derived neurotrophic factor (BDNF)** production in the brain. These neurotrophins promote the growth, maintenance, and repair of neurons.
-
-**What the evidence shows:**
-- A 2017 double-blind RCT in older adults with mild cognitive impairment showed significant improvements in cognitive function after 16 weeks of lion's mane supplementation (3 g/day of dried powder).
-- Animal studies demonstrate improved memory, reduced anxiety and depression-like behaviors, and enhanced nerve regeneration after nerve injury.
-- Preliminary research suggests potential benefits for peripheral neuropathy, multiple sclerosis, and Parkinson's disease (all early stage).
-
-**Practical tips:**
-- Take 500–3,000 mg/day of dual extract (or 1,000–3,000 mg of whole mushroom powder).
-- Best taken in the morning or early afternoon (not before bed — can be mildly stimulating).
-- Dual extracts that include both fruiting body and mycelium capture both hericenones and erinacines.
-- Lion's mane is also a delicious culinary mushroom — cooking fresh lion's mane provides some benefits, though extracts are more concentrated.
-
-### For Stress, Sleep, and Overall Balance → **Reishi**
-
-Reishi is known as the **"mushroom of immortality"** (灵芝, língzhī) in Traditional Chinese Medicine, where it has been used for over 2,000 years. It is classified as a superior tonic herb — one that can be taken daily for long periods without side effects.
-
-**What makes reishi special:**
-- **Triterpenes** ([[ganoderic-acids]]): Anti-inflammatory, hepatoprotective, anti-allergic, and mildly sedative. These bitter compounds calm the nervous system and improve sleep quality.
+| **Shiitake** (*[[ganoderic-acids]]): Anti-inflammatory, hepatoprotective, anti-allergic, and mildly sedative. These bitter compounds calm the nervous system and improve sleep quality.
 - **β-glucans (polysaccharides):** Immunomodulatory, supporting both underactive and overactive immune responses.
 - **Adaptogenic properties:** Helps the body manage stress by modulating cortisol and supporting adrenal function.
 - **Sleep enhancement:** Multiple studies show reishi improves sleep quality, increases total sleep time, and reduces sleep onset latency. It works by calming the nervous system rather than acting as a sedative.
@@ -97,14 +71,7 @@ Cordyceps is the go-to medicinal mushroom for physical performance and vitality.
 - Reduces perceived exertion during exercise
 - Increases ATP production in cells
 - Improves oxygen utilization efficiency
-- Supports healthy [[cannabis-for-libido-and-sexual-function]] function (traditional use extensively validated in modern studies)
-- Anti-fatigue effects in both sedentary individuals and athletes
-
-**Practical tips:**
-- Take 500–2,000 mg/day of *C. militaris* extract standardized to cordycepin.
-- Take 30–60 minutes before exercise for performance benefits, or in the morning for daily energy.
-- *C. militaris* (cultivated) is preferred over wild *C. sinensis* (expensive, often adulterated, and ecologically problematic).
-- Avoid cordyceps if you have [[cannabis-autoimmune-conditions-detailed]] or are on immunosuppressants.
+- Supports healthy [[cannabis-autoimmune-conditions-detailed]] or are on immunosuppressants.
 
 ## Combining Mushrooms: Where to Start
 
@@ -137,10 +104,9 @@ Many practitioners recommend **stacking** medicinal mushrooms for synergistic ef
 
 When buying medicinal mushroom supplements, these factors separate quality products from waste-of-money products:
 
-1. **Fruiting body vs. mycelium:** For most mushrooms (reishi, chaga, turkey tail, shiitake), **fruiting body** extracts are preferred — they contain higher and more consistent levels of [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]]. Mycelium-on-grain products are often mostly starch from the grain substrate, not [[medicinal-mushroom-compounds-and-health-benefits]]. Lion's mane is the exception where both fruiting body (hericenones) and mycelium (erinacines) have unique value.
+1. **Fruiting body vs. mycelium:** For most mushrooms (reishi, chaga, turkey tail, shiitake), **fruiting body** extracts are preferred — they contain higher and more consistent levels of [[medicinal-mushroom-compounds-and-health-benefits]]. Lion's mane is the exception where both fruiting body (hericenones) and mycelium (erinacines) have unique value.
 
 ## See Also
 
-- [[comparison-lions-mane-vs-chaga-medicinal-mushrooms]]
 - [[comparison-oyster-vs-shiitake-cultivation]]
 - [[query-what-are-the-most-powerful-medicinal-mushrooms-and-what-do-they-treat]]

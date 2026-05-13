@@ -25,66 +25,99 @@ sources:
 Datura metel is a hallucinogenic and toxic plant belonging to the nightshade
 family Solanaceae. Native to the mountainous regions of Central and South
 Asia, it has a long and well-documented history of use in Ayurvedic medicine
-and Hindu [[entheogenic-folk-religious-ceremonies]]. Its flowers are sacred to the god Shiva, and
-the plant remains one of the most important ethnomedicinal Datura species.
-
-## Taxonomy
-
-Datura metel was described by Carl Linnaeus in his original taxonomic works.
-The genus Datura belongs to the family Solanaceae, a large family that
-includes many economically important plants as well as numerous toxic and
-psychoactive species. Within Solanaceae, the tribe Datureae contains the
-genus Datura along with the closely related genus Brugmansia.
-
-Datura metel is closely related to D. stramonium (Jimsonweed) and
-D. innoxia (Downy Thornapple). All three species contain similar profiles
-of tropane alkaloids, though their relative concentrations and ethnobotanical
-significance vary. Datura metel is distinguished from its congeners by
-several morphological features, including its typically larger, more showy
-flowers and its predominantly Asian distribution.
-
-## Description
-
-Datura metel is a spreading herbaceous plant that may sometimes become
-shrubby with age, typically reaching heights of 3 to 6 feet (1 to 2 meters).
-It has an erect growth habit with spreading branches and a robust, somewhat
-woody stem at the base.
-
-The leaves are large and conspicuous, measuring 5.5 to 8.5 inches (14 to 22
-centimeters) in length and 3 to 4.5 inches (8 to 11 centimeters) in width.
-They are triangular-ovate in overall shape with sinuate margins that are
-deeply toothed or lobed, giving them a coarsely cut appearance. The leaf
-surface may be slightly pubescent, especially on the underside along the
-veins.
-
-The flowers are solitary and strikingly beautiful, borne on short pedicels
-in the axils of the leaves. The corolla is funnel-shaped and may be purple
-or white in color, often with a deeper-colored throat. The flowers are
-characteristically fragrant, especially in the evening when they open most
-fully. The fruit is a large, spiny capsule containing numerous kidney-shaped
-seeds.
-
-## Distribution and Habitat
-
-Datura metel is native probably to the mountainous regions of Pakistan or
-Afghanistan, extending westward through Central Asia. From its Central Asian
-center of origin, the species has been widely introduced and naturalized
-throughout tropical, subtropical, and warm [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]] of the world.
+and Hindu [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]] of the world.
 
 The plant grows readily in disturbed habitats, cultivated fields, waste
 grounds, and along roadsides. It prefers well-drained, nutrient-rich soils
 and full sun exposure. Its weedy adaptability has facilitated its spread far
 beyond its original range, and it is now found across much of South and
-[[psilocybe-southeast-asia-pacific]], Africa, and the Americas.
-
-## Chemical Constituents
-
-Datura metel contains tropane alkaloids, the same class of compounds found
-in other Datura species and in other members of the Solanaceae family. The
-principal active alkaloids include:
-
-- **[[scopolamine]] (hyoscine):** A major tropane alkaloid with pronounced
+[[scopolamine]] (hyoscine):** A major tropane alkaloid with pronounced
   anticholinergic activity. Scopolamine is responsible for many of the
   deliriant and amnesic effects associated with Datura intoxication.
 - **[[hyoscyamine]]:** The predominant alkaloid in many Datura species,
   hyoscyamine is a potent anticholinergic agent that causes dilation of
+
+## Overview
+
+Datura Metel represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish datura metel
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving datura extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Datura Metel finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for datura metel. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+datura metel and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Datura Metel has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of datura metel into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[datura-as-hallucinogen]]
+- [[datura-candida]]
+- [[datura-innoxia]]
+- [[datura-metel-old-world-ethnobotany]]
+- [[golden-guide-datura-and-nightshade-deliriants]]

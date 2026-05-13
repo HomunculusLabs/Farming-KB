@@ -10,13 +10,7 @@ sources:
 
 # Hofmann's Self-Experiment with Ergonovine
 
-On April 1, 1976, Albert Hofmann conducted a self-experiment to test whether ergonovine (an [[kykeon-composition-and-ergot-alkaloid-hypothesis]] and uterotonic agent used in obstetrics) possessed hallucinogenic properties. This experiment was central to validating the Wasson-Hofmann-Ruck hypothesis that the Eleusinian kykeon contained an ergot-derived hallucinogen.
-
-## Background and Motivation
-
-In July 1975, R. Gordon Wasson asked Hofmann whether Early Man in ancient Greece could have isolated an hallucinogen from ergot comparable to LSD or psilocybin. Hofmann suspected this was possible and began investigating.
-
-The key insight was that ololiuhqui (the Mesoamerican [[golden-guide-morning-glory-and-ololiuqui]] used since ancient times) contained the same alkaloids found in ergot: lysergic acid amide, lysergic acid hydroxyethylamide, and ergonovine. If ololiuhqui was hallucinogenic, and it contained ergonovine, then ergonovine itself might be hallucinogenic.
+On April 1, 1976, Albert Hofmann conducted a self-experiment to test whether ergonovine (an [[golden-guide-morning-glory-and-ololiuqui]] used since ancient times) contained the same alkaloids found in ergot: lysergic acid amide, lysergic acid hydroxyethylamide, and ergonovine. If ololiuhqui was hallucinogenic, and it contained ergonovine, then ergonovine itself might be hallucinogenic.
 
 ## Why This Had Not Been Discovered Before
 
@@ -62,17 +56,14 @@ The chemistry of ergot varies by host grass and geography. We cannot know the ex
 ## Connection to LSD Discovery
 
 Hofmann's entire ergot research program stemmed from his 1943 discovery of LSD's hallucinogenic properties. His work on ergot alkaloids included:
-- Isolation of psilocybin and psilocin from Mexican [[mexican-sacred-mushrooms-indigenous-use-and-ethnobotany]] (with Hans Tscherter)
-- [[challenges-neurotropic-fungi-chemical-analysis-taxonomic-identification]] of ololiuhqui morning glory seeds
+- Isolation of psilocybin and psilocin from Mexican [[challenges-neurotropic-fungi-chemical-analysis-taxonomic-identification]] of ololiuhqui morning glory seeds
 - Synthesis of Methergine (lysergic acid butanolamide) for obstetrics
 - Development of Hydergine for geriatric disorders
 
 The ergonovine experiment was a natural extension of decades of ergot alkaloid research.
 
-This experiment has taken on legendary status in psychedelic history, often discussed alongside Hofmann's more famous LSD-25 discovery. The ergonovine self-experiment demonstrated that even closely related ergot alkaloids could produce profoundly different psychoactive effects — ergonovine produced a gentle, pleasant inebriation compared to LSD's overwhelming intensity. Modern analytical chemistry has confirmed that ergonovine is present in the ergot sclerotia that would have been used in ancient Eleusinian ceremonies, lending support to the [[kykeon-potion-and-ergot-hypothesis-at-eleusis]] -- how this experiment supports the [[entheogenic-eleusis-theory-scholarly-reception]]
-- [[ergot-and-lysergic-acid-history]] -- full history of ergot alkaloids
+This experiment has taken on legendary status in psychedelic history, often discussed alongside Hofmann's more famous LSD-25 discovery. The ergonovine self-experiment demonstrated that even closely related ergot alkaloids could produce profoundly different psychoactive effects — ergonovine produced a gentle, pleasant inebriation compared to LSD's overwhelming intensity. Modern analytical chemistry has confirmed that ergonovine is present in the ergot sclerotia that would have been used in ancient Eleusinian ceremonies, lending support to the [[entheogenic-eleusis-theory-scholarly-reception]]
 - [[wasson-hofmann-and-ruck-the-collaborative-eleusis-theory]]
-- [[kykeon-composition-and-ergot-alkaloid-hypothesis]]
 - [[ergot-of-barley-and-wheat-alkaloid-composition]]
 ## Practical Considerations
 
@@ -122,8 +113,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[ergonovine]]
 - [[albert-hofmann]]
-- [[psilocybin]]
 - [[psilocin]]
 - [[lysergic-acid-hydroxyethylamide]]

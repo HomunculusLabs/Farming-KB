@@ -110,11 +110,7 @@ The designer must work with the inherent limitations of alkaline, saline, and sa
 
 ## See Also
 
-- [[dryland-strategies-and-desert-ecology]]
 - [[water-harvesting-and-conservation]]
-- [[soil-rehabilitation-strategies]]
 - [[mycorrhizal-networks]]
-- [[query-how-do-i-restore-saline-and-compacted-soil]]
 - [[keyline-design]]
-- [[soil-micronutrients-sulphur-potassium-calcium-trace-elements]]
 - [[foliar-feeding]]

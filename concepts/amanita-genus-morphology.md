@@ -9,28 +9,7 @@ sources:
 ---
 # Amanita Genus Morphology
 
-The genus Amanita includes both the deadliest mushrooms known and well-known edible species. Understanding its morphology — particularly the volva, ring, and spore characteristics — is essential for safe [[mushroom-contaminant-identification-key]] (Ramsbottom, 1945).
-
-## Key Characteristics
-
-The main characters of the genus are:
-
-- **White spores** — all Amanita species produce white spore prints
-- **White gills** — more or less free, with shorter intermediate gills (lamellulae)
-- **Ring (annulus)** on the stem — a membranous remnant of the partial veil
-- **Volva** (wrapper) — a universal veil that completely encloses the young fungus
-
-## The Volva: Structure Determines Appearance
-
-The behaviour and appearance of the volva — the most diagnostic feature of the genus — depends entirely on its microscopic structure. Ramsbottom (1945) described two fundamental types:
-
-### Type 1: Fibrous Volva
-
-When the volva is composed mainly of thin-branched hyphae with few rather elongated thick-walled cells, it holds together and splits to allow the passage of the expanding cap. The remains of the volva are left as a distinct cup (volval sac) at the base of the stem.
-
-- The cap is usually free from all trace of the volva
-- Occasionally in dry weather, parts may adhere to the cap surface
-- Examples: [[ramsbottom-poisonous-fungi-toxins-and-symptoms]], [[allegro-colour-and-consistency-of-the-amanita-muscaria]], [[ramsbottom-poisonous-fungi-toxins-and-symptoms]], where portions of the volva remain on the cap as irregular patches rather than distinct warts.
+The genus Amanita includes both the deadliest mushrooms known and well-known edible species. Understanding its morphology — particularly the volva, ring, and spore characteristics — is essential for safe [[ramsbottom-poisonous-fungi-toxins-and-symptoms]], [[ramsbottom-poisonous-fungi-toxins-and-symptoms]], where portions of the volva remain on the cap as irregular patches rather than distinct warts.
 
 ## Stem Base
 
@@ -45,22 +24,9 @@ In the young stage, a membranous partial veil encloses the developing gills. As 
 Not all members of the genus are harmful. Ramsbottom (1945) describes:
 
 **Deadly species** (cell-degenerating toxins):
-- [[ramsbottom-poisonous-fungi-toxins-and-symptoms]] — [[bloomfield-destroying-angel-amanita-virosa-amatoxin-poisoning-clinical-course]]
-- [[allegro-colour-and-consistency-of-the-amanita-muscaria]] — [[amanita-muscaria-fly-agaric-history-and-pharmacology]]
-- [[agaricus-aurora]] — Caesar's mushroom, much prized on the Continent but absent from Britain
-
-**Less dangerous:**
-- [[mushroom-foraging-safety-guide]]. The deadly species ([[agaricus-aurora]] species commonly sought as edibles.
-
-## See Also
-
-- [[ramsbottom-poisonous-fungi-species]]
-- [[mushroom-foraging-safety-guide]]
-- mushroom-etymology-and-nomenclature
-
-## Related
-
-- mushroom-poisoning-and-lookalikes
+- [[bloomfield-destroying-angel-amanita-virosa-amatoxin-poisoning-clinical-course]]
+- [[amanita-muscaria-fly-agaric-history-and-pharmacology]]
+- [[mushroom-foraging-safety-guide]]. The deadly species ([[ramsbottom-poisonous-fungi-species]]
 - [[mushroom-foraging-safety]]
 ## Practical Considerations
 
@@ -110,8 +76,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[amanita]]
 - [[det]]
-- [[spore-print]]
 - [[spore]]
 - [[amanita-muscaria-holy-grail-theory-detailed]]

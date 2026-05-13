@@ -48,19 +48,13 @@ The bluing reaction serves as a primary field indicator for identifying neurotro
 
 This smaller but culturally significant group contains species with ibotenic acid and muscimol as their primary active compounds. It includes only three species:
 
-- **[[allegro-amanita-muscaria-properties-and-pharmacology]]** (fly agaric), with several subspecies and varieties including ssp. muscaria, ssp. americana, ssp. flavivolvata, ssp. kamtschatica, var. alba, var. formosa, and var. persicina
-- **Amanita pantherina** (panther cap), with varieties including var. mutisquamosa, var. pantherinoides, and var. velatipes
-- **Amanita regalis**, sometimes treated as A. muscaria var. regalis
-
-These species form [[plants-without-mycorrhizal-associations]] primarily with Pinus and Betula in northern hemisphere forests. Their use as sacred fungi is well documented among Siberian peoples including the Chukchee and Koryak.
+- **[[plants-without-mycorrhizal-associations]] primarily with Pinus and Betula in northern hemisphere forests. Their use as sacred fungi is well documented among Siberian peoples including the Chukchee and Koryak.
 
 ### Group 3: Ergot Fungi (Clavicipitales)
 
 This group contains the well-known ergot alkaloid-producing fungi, encompassing both Ascomycotina genera:
 
 **Claviceps species** (5 species):
-- [[bloomfield-ergot-claviceps-purpurea-ergotism]] (the classic ergot of rye)
-- Claviceps nigricans
 - [[claviceps-paspali]] (= C. rolfesii)
 - Claviceps tripsicii
 
@@ -68,17 +62,7 @@ This group contains the well-known ergot alkaloid-producing fungi, encompassing 
 - Cordyceps capitata, found growing on Elaphomyces (deer truffle) hosts
 - Cordyceps ophioglossoides, also an Elaphomyces parasite
 
-The Cordyceps species hold particular [[ethnomycology-cultural-significance-sacred-fungi]] in Mexico, where they are used in nocturnal ceremonies by indigenous peoples of the Nevado de Toluca region. They are called "hombrecitos" (little men) and "mujercitas" (little women) and are eaten either alone or together with Psilocybe muliercula.
-
-### Group 4: Sacred Fungi Without Confirmed Chemical Studies
-
-This group encompasses species used as sacred fungi by indigenous peoples for which no reliable chemical analyses confirming psychoactive constituents have been published:
-
-- **Boletaceae**: Boletus (6 species) and Heimiella (2 species), reported as hallucinogenic in New Guinea
-- **Russulaceae**: Russula (6 species), also from New Guinea
-- **Gasteromycetes**: 6 species from Lycoperdales and Phallales in 3 genera, including puffballs used by Mixtec Indians of Oaxaca, Mexico
-
-Notable among these is [[dictyophora-indusiata]] (stinkhorn or veiled lady mushroom), used by the Chinantec Indians of Oaxaca for divination purposes. It exists in three recognized forms.
+The Cordyceps species hold particular [[dictyophora-indusiata]] (stinkhorn or veiled lady mushroom), used by the Chinantec Indians of Oaxaca for divination purposes. It exists in three recognized forms.
 
 ## Species Excluded from the Classification
 
@@ -87,39 +71,80 @@ Guzmán and colleagues carefully excluded several species that had been erroneou
 - **Psilocybe atrobrunnea** and **P. coprophila**: not true neurotropic species
 - **Psilocybe pseudobullacea**: a non-bluing species with no confirmed neurotropic properties
 - **Psathyrella sepulchralis**: was wrongly confused with P. zapotecorum
-- **[[panaeolus-antillarum-misidentification-copelandia-confusion]]**: often erroneously identified as Copelandia by recreational users; it is actually an edible white mushroom that does not turn blue
+- **[[neurotropic-fungi-classification]]
+- [[jochen-gartz]]
+- [[guzman-allen-gartz-conflicting-chemical-analyses-neurotropic-fungi]]
+
+## Overview
+
+Guzman Allen Gartz Neurotropic Fungi Classification System represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish guzman allen gartz neurotropic fungi classification system
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving guzman extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
 
 ## Practical Applications
 
-The principles and techniques discussed here have wide-ranging applications
-across multiple disciplines and contexts. Practitioners and researchers
-continue to explore new ways to integrate these concepts into modern practice,
-adapting traditional knowledge to contemporary challenges and opportunities.
+Guzman Allen Gartz Neurotropic Fungi Classification System finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
 
-## Key Considerations
+## Management and Implementation
 
-Several important factors influence the effectiveness and outcomes described
-in this topic. Understanding these considerations helps practitioners make
-informed decisions and avoid common pitfalls. Environmental conditions,
-timing, and material selection all play critical roles.
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for guzman allen gartz neurotropic fungi classification system. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+guzman allen gartz neurotropic fungi classification system and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
 
 ## Historical Context
 
-The historical development of this subject reflects centuries of accumulated
-knowledge and practical experience. From traditional methods passed down
-through generations to modern scientific approaches, the evolution continues
-to inform current best practices and research directions.
+Guzman Allen Gartz Neurotropic Fungi Classification System has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
 
-## Common Challenges
+## Integration Strategies
 
-Practitioners frequently encounter several challenges when working with
-these concepts. Climate variability, resource limitations, and knowledge
-gaps can all affect outcomes. Addressing these challenges requires patience,
-observation, and a willingness to adapt approaches based on results.
+Successful integration of guzman allen gartz neurotropic fungi classification system into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
 
-## See Also
-- [[neurotropic-fungi-classification]]
-- [[neurotropic-fungi]]
-- [[jochen-gartz]]
-- [[guzman-allen-gartz-neurotropic-fungi-europe]]
-- [[guzman-allen-gartz-conflicting-chemical-analyses-neurotropic-fungi]]
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource

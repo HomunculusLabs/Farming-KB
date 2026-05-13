@@ -6,18 +6,14 @@ type: concept
 
 # Cannabis Oil Extraction Methods
 
-An overview of solvent-based cannabis oil extraction as documented in Ben Lemon's
-*[[cannabis-alchemy-book]]* (1979), published under the pseudonym [[nicolas-flamel]]. The book
+An overview of solvent-based [[cannabis-oil-extraction]] as documented in [[ben-lemon]]'s
+*[[nicolas-flamel]]. The book
 was one of the first widely distributed practical guides to chemistry-based cannabis
 extraction, predating the modern commercial concentrate industry by decades.
 
 ## Historical Context
 
-Cannabis Alchemy was written during a time of rapidly [[purple-and-color-changing-cannabis-strains]] law. Several
-states had reduced penalties for possession, creating a semi-legal grey area for
-personal cultivation. The book's pseudonym references the legendary 14th-century
-alchemist Nicolas Flamel, known for transmuting base metals into gold -- an apt
-metaphor for converting crude plant material into purified [[cannabis-concentrates-and-extracts]].
+Cannabis Alchemy was written during a time of rapidly [[cannabis-concentrates-and-extracts]].
 
 ## Fundamental Extraction Principle
 

@@ -15,15 +15,7 @@ Plant root systems create three distinct microbial habitats: the **bulk soil** (
 
 ### Bulk Soil
 
-Bulk soil represents the background microbial community determined primarily by [[cannabinoid-microbiome-correlation-confounded-edaphic-factors]] such as pH, nitrogen, carbon, salinity, water content, and soil texture. It serves as the source pool from which rhizosphere and endorhiza communities are drawn. Bulk soil communities are the most diverse of the three compartments and show the strongest differentiation between soil types. In the Cannabis study, bulk soil communities clustered significantly differently from other sample types in both unweighted (ADONIS: R² = 0.14, p = 0.001) and weighted (ADONIS: R² = 0.29, p = 0.004) UniFrac analyses.
-
-The bulk soil harbors the full range of soil-adapted bacteria, including abundant Acidobacteria, which are characteristic of oligotrophic soil environments. The microbial diversity here reflects the complex physical and chemical properties of the soil matrix and the long-term ecological processes that have shaped the community.
-
-### Rhizosphere
-
-The rhizosphere is the narrow zone of soil directly influenced by root secretions, including exudates, mucilage, and lysates. This nutrient-rich environment selects for bacteria capable of rapid growth on labile carbon sources, creating a community that is distinct from bulk soil but retains substantial overlap. In the Cannabis study, rhizosphere samples showed mixed results for differentiation from other sample types—in the first experiment, rhizosphere samples were not significantly different from other categories (unweighted: ADONIS R² = 0.07, p = 0.07), though in the second experiment with greater edaphic variation, they did differentiate (unweighted: R² = 0.05, p = 0.04).
-
-The rhizosphere effect—the enrichment of specific microbial taxa near roots relative to bulk soil—is driven by rhizodeposition, the release of organic compounds from roots. These compounds include sugars, amino acids, organic acids, [[plant-defense-mechanisms]] that serve as carbon and energy sources for heterotrophic bacteria. The rhizosphere community represents the first filtering step as soil microbes respond to the chemical environment created by the plant.
+Bulk soil represents the background microbial community determined primarily by [[plant-defense-mechanisms]] that serve as carbon and energy sources for heterotrophic bacteria. The rhizosphere community represents the first filtering step as soil microbes respond to the chemical environment created by the plant.
 
 ### Endorhiza (Endosphere)
 
@@ -69,17 +61,7 @@ Despite cultivar-specific differences in relative abundance, all Cannabis endorh
 - **Actinomycetales** (Actinobacteria): Common endophytes known for producing antibiotics and growth-promoting compounds.
 - **Sphingobacteriales** (Bacteroidetes): Associated with plant root environments.
 
-With the exception of Cellvibrio, all prevalent core community members are well-established [[endorhiza-endophytic-bacteria]], primarily within Gammaproteobacteria and Alphaproteobacteria, consistent with observations from other plant systems including poplar and Arabidopsis.
-
-## Functional Roles of Compartment-Specific Communities
-
-### Bulk Soil Functions
-
-The bulk soil community drives nutrient cycling, organic matter decomposition, and soil structure maintenance. Microbial processes here determine the availability of nitrogen, phosphorus, and other essential nutrients that ultimately become accessible to plants through the rhizosphere.
-
-### Rhizosphere Functions
-
-[[lowenfels-rhizosphere-bacteria-plant-interaction]] provide direct benefits to plants including nitrogen fixation, phosphate solubilization, production of phytohormones (auxins, gibberellins, cytokinins), siderophore production for iron acquisition, and suppression of soil-borne pathogens through antibiotic production and competitive exclusion. The dynamic nature of rhizosphere communities responds to seasonal changes, diel temperature fluctuations, water content, pH, CO₂ concentration, and O₂ levels. These communities are highly responsive to the physiological state of the plant and shift predictably across growth stages, making the rhizosphere a temporally variable yet deterministic microbial environment.
+With the exception of Cellvibrio, all prevalent core community members are well-established [[lowenfels-rhizosphere-bacteria-plant-interaction]] provide direct benefits to plants including nitrogen fixation, phosphate solubilization, production of phytohormones (auxins, gibberellins, cytokinins), siderophore production for iron acquisition, and suppression of soil-borne pathogens through antibiotic production and competitive exclusion. The dynamic nature of rhizosphere communities responds to seasonal changes, diel temperature fluctuations, water content, pH, CO₂ concentration, and O₂ levels. These communities are highly responsive to the physiological state of the plant and shift predictably across growth stages, making the rhizosphere a temporally variable yet deterministic microbial environment.
 
 ### Endorhiza Functions
 
@@ -91,15 +73,7 @@ The Cannabis study highlighted how sampling timing can dramatically affect obser
 
 ## Methodological Approach
 
-The [[winston-cannabis-microbiome-study-design]] employed Illumina sequencing of the V4 region of the 16S rRNA gene to analyze 69 total samples across two experiments. DNA was extracted using the PowerSoil DNA Isolation Kit with a modification of heating the extraction at 65°C for 10 minutes prior to the initial vortex step. The 291 bp V4 region was amplified using Earth Microbiome Project standard protocols with 515F and 806R Golay-barcoded primers.
-
-Bioinformatic analysis was performed in QIIME 1.7.0, with quality filtering of raw Illumina data, OTU-picking against the Greengenes database (both closed and open reference methods), sequence alignment with PyNAST, phylogenetic tree construction with FastTree, and taxonomic assignment using the RDP classifier. Samples were rarified to 3,000 sequences (first experiment) or 45,000 sequences (second experiment) to enable fair comparison.
-
-Statistical analyses included ADONIS (permutational MANOVA), ANOSIM, ANOVA, redundancy analysis (RDA), Mantel tests for correlation between community structure and environmental variables, and BEST analysis for identifying the optimal subset of environmental predictors. Multiple testing correction was applied using the false discovery rate (FDR) method.
-
-## Relevance to Cannabis Agriculture
-
-Understanding the differentiation between these three microbial compartments has direct implications for Cannabis cultivation. The bulk soil serves as the reservoir from which beneficial microbes are drawn, making soil health [[soil-mineral-management-and-amendment-strategies]] foundational to building a supportive microbiome. Rhizosphere management through companion planting, organic amendments, and controlled irrigation can enhance the density and diversity of beneficial microbes near root surfaces. Targeted endophyte inoculation—introducing beneficial bacteria directly into root tissues—represents a promising but technically challenging approach for improving plant fitness, suppressing pathogens, or augmenting cannabinoid production.
+The [[soil-mineral-management-and-amendment-strategies]] foundational to building a supportive microbiome. Rhizosphere management through companion planting, organic amendments, and controlled irrigation can enhance the density and diversity of beneficial microbes near root surfaces. Targeted endophyte inoculation—introducing beneficial bacteria directly into root tissues—represents a promising but technically challenging approach for improving plant fitness, suppressing pathogens, or augmenting cannabinoid production.
 
 ## The Rhizosphere as a Dynamic Interface
 
@@ -115,14 +89,8 @@ When applying these concepts, several factors warrant attention: environmental c
 
 ## See Also
 
-- [[rhizosphere-bulk-soil-microbial-comparison]]
 - [[cannabis-rhizosphere-bulk-soil-similarity-endorhiza-divergence]]
-- [[cannabis-rhizosphere-bulk-soil-microbial-comparison]]
 - [[cannabis-alpha-diversity-gradient-bulk-soil-rhizosphere-endorhiza]]
-- [[beta-diversity-distances-bulk-soil-rhizosphere-cannabis-endorhiza]]
-
-## See Also
-
 - [[two-tier-selection-model-plant-microbiome-assembly]]
 - [[edaphic-factors-soil-microbial-community-structure]]
 - cannabis cultivar specificity microbiome

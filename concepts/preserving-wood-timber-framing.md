@@ -60,7 +60,7 @@ Raw linseed oil is a natural drying oil extracted from flax seeds. "Boiled" lins
 - Penetrates 1-2 mm into the wood surface
 
 **Pros:** All-natural, easy to apply, enhances wood grain appearance, food-safe when cured
-**Cons:** Slow drying, attracts dust during curing, can support mold growth in damp environments if not cured properly, provides no [[fukuoka-vegetable-disease-insect-resistance]] on its own
+**Cons:** Slow drying, attracts dust during curing, can support mold growth in damp environments if not cured properly, provides no insect resistance on its own
 
 ### Borate Treatments
 
@@ -68,7 +68,7 @@ Borates (disodium octaborate tetrahydrate) are water-soluble salts that provide 
 
 **Products:** Tim-bor, Bora-Care, Disodium Octaborate Tetrahydrate (DOT)
 
-**[[compost-tea-application-methods]]:**
+**Application methods:**
 - Dip treatment: Submerge wood in a 10-15% borate solution for 5-10 minutes
 - Spray treatment: Apply with a pump sprayer, saturating the wood surface
 - Diffusion: Apply to green wood — borate diffuses into the wood as it dries
@@ -117,10 +117,10 @@ Best timber framing species by region:
 - Northeast: Eastern white pine, white oak, hemlock, eastern spruce
 - Southeast: Southern yellow pine, cypress, white oak
 - Midwest: White oak, red oak, white pine, hickory
-- [[psilocybin-north-america-pacific-northwest]]: Douglas fir, western red cedar, Sitka spruce
+- Pacific Northwest: [[douglas-fir]], western red cedar, Sitka spruce
 
 ## Related Concepts
 
-- [[barn-construction-reference]] — General building and [[pdc-earthen-construction-techniques]] for [[off-grid-energy-and-homestead-infrastructure]]
+- [[barn-construction-reference]] — General building and construction techniques for homestead infrastructure
 - [[soap-making-guide]] — Woodworking and value-added homestead products
-- [[firewood-seasoning-and-storage]] — Related wood processing [[mollison-designers-water-purification-and-storage-principles]]
+- [[firewood-seasoning-and-storage]] — Related wood processing and storage principles

@@ -47,7 +47,7 @@ The photobiont is a trebouxioid green alga. The medulla is white to pale yellow 
 
 In North America, the species ranges from Alaska to California and eastward across Canada to the Atlantic provinces. It is especially abundant in the Pacific Northwest coastal forests and the Rocky Mountains.
 
-The lichen is an obligate epiphyte, growing primarily on the bark and branches of coniferous trees. Preferred hosts include *Picea sitchensis*, *Pseudotsuga menziesii*, *Abies* species, and *Pinus* species.
+The lichen is an obligate epiphyte, growing primarily on the bark and branches of coniferous trees. Preferred hosts include *[[picea-sitchensis]]*, *[[pseudotsuga-menziesii]]*, *Abies* species, and *Pinus* species.
 
 It typically occupies the mid-to-upper canopy of old-growth trees, where light availability is moderate. In younger stands, it may be found on lower branches of shade-tolerant conifers.
 
@@ -59,13 +59,11 @@ The species is relatively tolerant of air pollution compared to many other epiph
 
 *Bryoria fuscescens* plays an important role in forest canopy ecosystems. The pendulous thalli provide microhabitat for diverse invertebrate communities, including mites, nematodes, and tardigrades.
 
-The lichen intercepts atmospheric moisture and nutrients, contributing to [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] in forest canopies. Throughfall beneath Bryoria-laden branches is enriched in [[dighton-fungal-dissolved-organic-carbon-production]] nitrogen and potassium.
+The lichen intercepts atmospheric moisture and nutrients, contributing to [[dighton-fungal-dissolved-organic-carbon-production]] nitrogen and potassium.
 
 Several species of lichen-feeding moths and other insects specialize on *Bryoria*. The larvae of certain *Xystophora* species feed exclusively on *Bryoria* thalli.
 
-Birds, including warblers and thrushes, incorporate *Bryoria* strands into nest construction. The lichen's insulating properties may help regulate nest [[greg-green-temperature-and-humidity-control]].
-
-*Bryoria* species are known to accumulate heavy metals and other atmospheric contaminants. This bioaccumulation makes them useful biomonitors for [[cervantes-air-quality-ventilation]] assessment in remote forested areas.
+Birds, including warblers and thrushes, incorporate *Bryoria* strands into nest construction. The lichen's insulating properties may help regulate nest [[cervantes-air-quality-ventilation]] assessment in remote forested areas.
 
 Studies have shown that *Bryoria* can concentrate sulfur, lead, and other pollutants at levels 10–100 times higher than ambient atmospheric concentrations. This capacity has been exploited in environmental monitoring programs across Scandinavia and western Canada.
 

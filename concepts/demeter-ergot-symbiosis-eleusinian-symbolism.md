@@ -15,23 +15,7 @@ sources:
 
 ## Overview
 
-Carl Ruck's analysis of [Demeter's iconography and mythology revealed that the goddess's relationship with [ergot ([[ergot-fungus]], positioning the hallucinogenic corruption of grain as an attribute of the grain goddess herself.
-
-## Barley and Ergot as Siblings
-
-Ruck's central insight was that barley and ergot were understood as siblings in the mythological framework:
-
-- Both were Demeter's plants
-
-- They shared a "bisexual union as siblings"
-
-- Their relationship "signified an appropriate expropriation and transmutation of the Dionysian spirit to which the grain, Demeter's daughter, was lost in the nuptial embrace with earth"
-
-- "Grain and ergot together, moreover, were joined in a bisexual union as siblings, bearing at the time of the maiden's loss already the potential for her own return and for the birth of the phalloid son that would grow from her body"
-
-## The Revertive Pattern
-
-The ergot lifecycle demonstrated a visible return to wild fungal growth: when sclerotia fell to the ground, "there grew from them not grain but tiny purple mushrooms, the fruiting bodies of the ergot fungus, clearly a return to the species of the unregenerate, wild Dionysian abductor." This encoded the broader pattern of civilization threatened by reversion to wildness — and the [[mckenna-eleusinian-mystery-and-psychedelic-sacrament]] as the ritualized resolution of this tension.
+Carl Ruck's analysis of [Demeter's iconography and mythology revealed that the goddess's relationship with [ergot ([[mckenna-eleusinian-mystery-and-psychedelic-sacrament]] as the ritualized resolution of this tension.
 
 ## Demeter's Refusal of Wine
 
@@ -47,7 +31,7 @@ A papyrus fragment from Eupolis's comedy "The Demes" (shortly after the scandal 
 
 ## The Ergot Lifecycle and Eleusinian Paradox
 
-The lifecycle of [[bloomfield-ergot-claviceps-purpurea-ergotism]] provides the biological foundation for the Demeter-ergot symbiosis and the central paradox of the [[eleusinian-mysteries]]. The ergot fungus infects grain plants — particularly barley, wheat, and rye — replacing the grain kernel with a dark, purplish sclerotium (the ergot body). This sclerotium contains a complex mixture of alkaloids, including both the water-soluble psychoactive compounds (lysergic acid amide, ergonovine) and the insoluble medicinal alkaloids (ergotamine, ergocristine).
+The lifecycle of [[eleusinian-mysteries]]. The ergot fungus infects grain plants — particularly barley, wheat, and rye — replacing the grain kernel with a dark, purplish sclerotium (the ergot body). This sclerotium contains a complex mixture of alkaloids, including both the water-soluble psychoactive compounds (lysergic acid amide, ergonovine) and the insoluble medicinal alkaloids (ergotamine, ergocristine).
 
 The lifecycle of ergot mirrors the Demeter-Persephone myth with remarkable precision:
 
@@ -65,9 +49,9 @@ This biological parallel was almost certainly not coincidental. The [ergot alkal
 
 The association between grain deities and fungal symbionts is not unique to Greek culture. The [worldwide distribution of hallucinogenic plants includes several grain-fungus associations that parallel the Demeter-ergot relationship:
 
-- **Soma in Vedic India**: The identity of soma remains debated, but several scholars have proposed fungal candidates, including [[amanita-muscaria]] and various ergotized grains. The soma ritual, like the [[mckenna-food-of-the-gods-kykeon-and-eleusinian-mysteries]], involved the preparation of a sacred drink from plant material under strict ritual conditions.
+- **Soma in Vedic India**: The identity of soma remains debated, but several scholars have proposed fungal candidates, including [[mckenna-food-of-the-gods-kykeon-and-eleusinian-mysteries]], involved the preparation of a sacred drink from plant material under strict ritual conditions.
 
-- **Mesoamerican corn and ergot**: Corn (maize) in Mesoamerica was subject to ergot infection, and the [sacred [[sacred-mexican-morning-glories-ololiuqui-and-tlitliltzin]] ([[ololiuqui]]) used in Mesoamerican ritual contain the same ergoline alkaloids found in Claviceps purpurea. The pharmacological convergence between Greek and Mesoamerican grain-fungus traditions is one of the strongest arguments for the [comparative entheogenic hypothesis.
+- **Mesoamerican corn and ergot**: Corn (maize) in Mesoamerica was subject to ergot infection, and the [sacred [[ololiuqui]]) used in Mesoamerican ritual contain the same ergoline alkaloids found in Claviceps purpurea. The pharmacological convergence between Greek and Mesoamerican grain-fungus traditions is one of the strongest arguments for the [comparative entheogenic hypothesis.
 
 - **European ergotism epidemics**: The medieval epidemics of ergotism (St. Anthony's Fire) demonstrate that ergot-infested grain was a recurring feature of European agriculture, making it likely that ancient Greeks were equally familiar with its properties — both toxic and potentially psychoactive.
 
@@ -81,44 +65,86 @@ The [ergot hypothesis for the kykeon remains the most chemically specific and ph
 
 ## See Also
 
-- [[mckenna-food-gods-ergot-kykeon-eleusinian]]
 - [[demeter-and-persephone-in-eleusinian-mythology]]
 
 - [Claviceps purpurea chemistry
 
-- [Kykeon [[kykeon-potion-and-ergot-hypothesis-at-eleusis]]
+- [Kykeon [[ergot-fungus]]
+- [[spore]]
+- [[claviceps-purpurea]]
+
+## Overview
+
+Demeter Ergot Symbiosis Eleusinian Symbolism represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish demeter ergot symbiosis eleusinian symbolism
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving demeter extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
 
 ## Practical Applications
 
-The principles and techniques discussed here have wide-ranging applications
-across multiple disciplines and contexts. Practitioners and researchers
-continue to explore new ways to integrate these concepts into modern practice,
-adapting traditional knowledge to contemporary challenges and opportunities.
+Demeter Ergot Symbiosis Eleusinian Symbolism finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
 
-## Key Considerations
+## Management and Implementation
 
-Several important factors influence the effectiveness and outcomes described
-in this topic. Understanding these considerations helps practitioners make
-informed decisions and avoid common pitfalls. Environmental conditions,
-timing, and material selection all play critical roles.
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for demeter ergot symbiosis eleusinian symbolism. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+demeter ergot symbiosis eleusinian symbolism and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
 
 ## Historical Context
 
-The historical development of this subject reflects centuries of accumulated
-knowledge and practical experience. From traditional methods passed down
-through generations to modern scientific approaches, the evolution continues
-to inform current best practices and research directions.
+Demeter Ergot Symbiosis Eleusinian Symbolism has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
 
-## Common Challenges
+## Integration Strategies
 
-Practitioners frequently encounter several challenges when working with
-these concepts. Climate variability, resource limitations, and knowledge
-gaps can all affect outcomes. Addressing these challenges requires patience,
-observation, and a willingness to adapt approaches based on results.
+Successful integration of demeter ergot symbiosis eleusinian symbolism into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
 
-## See Also
-- [[ergot-fungus]]
-- [[soma]]
-- [[spore]]
-- [[ololiuqui]]
-- [[claviceps-purpurea]]
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.

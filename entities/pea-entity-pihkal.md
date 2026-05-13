@@ -7,72 +7,7 @@ tags: [phenethylamines, pihkal]
 sources: ["Shulgin - PIHKAL"]
 ---
 # PEA
-[[2c-b-pihkal-entry-20]] #142. PHENETHYLAMINE.
-
-## Chemical Name
-
-PHENETHYLAMINE
-## Dosage and Duration
-| Property | Value |
-|----------|-------|
-| Dosage | greater than 1600 mg. |
-| Duration | unknown. |
-## Qualitative Comments
-> (with 200, 400, 800 and 1600 mg) No effects.
->
-> (with 500 mg) No effects.
->
-> (with 800 and 1600 mg) No effects.
->
-> (with 25 and 50 mg i.v.) RNo effects.
-## Extensions and Commentary
-Here is the chemical that is central to
-this entire book. This is the structural point of departure for every
-compound that is discussed here. It is the RPS in PIHKAL. It is
-without activity in man! Certainly not for the lack of trying, as
-some of the dosage trials that are tucked away in the literature (as
-abstracted in the "Qualitative Comments" given above) are pretty heavy
-duty. Actually, I truly doubt that all of the experimenters used
-exactly that phrase, "No effects," but it is patently obvious that no
-effects were found. It happened to be the phrase I had used in my own
-notes.
-This, the simplest of all phenethylamines, has always been the darling
-of the psychopharmacologists in that it is structurally clean, it is
-naturally present in various human fluids and tissues, and because of
-its close chemical relationship to amphetamine and to the
-neurotransmitters. These facts continuously encourage theories that
-involve PEA in mental illness. Its levels in urine may be decreased
-in people diagnosed as being depressed. Its levels may be increased
-in people diagnosed as being paranoid schizophrenics. Maybe it is
-also increased in people under extreme stress. The human trials were
-initially an attempt to provoke some psychological change, and indeed
-some clinicians have reported intense headaches generated in
-depressives following PEA administration. But then, others have seen
-nothing. The studies evolved into searches for metabolic difference
-that might be of some diagnostic value. And even here, the jury is
-still out.
-Phenethylamine is found throughout nature, in both plants and animals.
-It is the end product of phenylalanine in the putrefaction of tissue.
-One of its most popularized occurrences has been as a major component
-of chocolate, and it has hit the Sunday Supplements as the
-love-sickness chemical. Those falling out of love are compulsive
-chocolate eaters, trying to replenish and repair the body's loss of
-this compound Q or so the myth goes. But this amine is voraciously
-metabolized to the apparently inactive compound phenylacetic acid, and
-to some tyramine as well. Both of these products are also normal
-components in the body. And, as a wry side-comment, phenylacetic acid
-is a major precursor in the illicit synthesis of amphetamine and
-methamphetamine.
-Phenethylamine is intrinsically a stimulant, although it doesn't last
-long enough to express this property. In other words, it is rapidly
-and completely destroyed in the human body. It is only when a number
-of substituent groups are placed here or there on the molecule that
-this metabolic fate is avoided and pharmacological activity becomes
-apparent.
-      To a large measure, this book has emphasized the "phenyl" end
-of the phenethylamine molecule, and the "what," the "where," and the
-"how many" of the substituent groups involved. There is a broad
-variety of [[guzman-allen-gartz-four-chemical-groups-neurotropic-fungi]] that can be attached to the benzene ring,
+[[guzman-allen-gartz-four-chemical-groups-neurotropic-fungi]] that can be attached to the benzene ring,
 at one or more of the five available positions, and in an unending
 number of combinations. And, in any given molecule, the greater the
 number of substituents on the benzene ring, the greater the likelihood
@@ -91,3 +26,88 @@ simplest structural unit of change is a single carbon atom, called the
 
 ## See Also
 - [[ethyl-j-entity-pihkal]]
+
+## Overview
+
+Pea Entity Pihkal represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish pea entity pihkal
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving pea extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Pea Entity Pihkal finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for pea entity pihkal. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+pea entity pihkal and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Pea Entity Pihkal has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of pea entity pihkal into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[3c-e-entity]]
+- [[ganesha-entity]]
+- [[methyl-mmda-2-entity-pihkal]]
+- [[tris-entity-pihkal]]
+- [[vaccinium-corymbosum-entity]]

@@ -9,9 +9,7 @@ sources:
 ---
 # Hashish Binding Pressing and Storage Techniques
 
-When producing [[cannabis-hashish-from-extracted-oil-techniques]] [[cervantes-hash-cannabis-oil-production]] (iso-hash), the oil-to-plant-material ratio determines whether the product binds together into a solid mass or remains as loose powder. "[[lemon-cannabis-alchemy-advanced-refinement-techniques]]" by D. Gold provides detailed techniques for binding, pressing, and storing iso-hash that extend beyond traditional [[cannabis-hashish-making-methods]] for traditional hashish techniques and [[cannabis-hash-making-from-extracted-oil]]
-- [[cannabis-harvest-and-curing]]
-- [[cannabis-curing-jar-technique]]
+When producing [[cervantes-hash-cannabis-oil-production]] (iso-hash), the oil-to-plant-material ratio determines whether the product binds together into a solid mass or remains as loose powder. "[[cannabis-hashish-making-methods]] for traditional hashish techniques and [[cannabis-harvest-and-curing]]
 - [[cannabis-hashish-making-methods]]
 ## Background and Context
 
@@ -118,8 +116,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[hashish]]
 - [[dom]]
-- [[det]]
 - [[cannabis-hashish-screening-and-pressing]]
 - [[chelation-and-metal-binding-in-plants]]

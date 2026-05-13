@@ -9,77 +9,10 @@ source: raw/papers/understanding-cultivar-specificity-cannabis-microbiome.md
 
 ## Overview
 
-The Winston et al. (2014) [[winston-cannabis-microbiome-study-design]] revealed a
-striking discrepancy between weighted and unweighted UniFrac distance
-metrics when assessing cultivar effects on [[cannabis-rhizosphere-microbial-communities]].
+The Winston et al. (2014) [[cannabis-rhizosphere-microbial-communities]].
 Specifically, **strain-level differentiation was detectable only with
 weighted UniFrac** when examining OTU presence/absence patterns, while
-[[unifrac-weighted-unweighted-analysis-cannabis-microbiome]] found zero significant OTU differences between
-strains. This finding has important implications for how microbiome
-studies should be designed and analyzed when investigating host
-genotype effects.
-
-## Understanding the Two Metrics
-
-**Unweighted UniFrac** measures community similarity based solely on
-the phylogenetic distances of OTUs that are present or absent
-(qualitative composition). It treats all observed lineages equally
-regardless of their abundance, making it sensitive to rare taxa
-and compositional shifts.
-
-**Weighted UniFrac** incorporates both phylogenetic distance and
-relative abundance of each lineage (quantitative composition). It
-is more sensitive to changes in dominant taxa and community
-structure even when the overall species pool remains similar.
-
-## The Strain Effect Discrepancy
-
-In the second experiment (White Widow vs Maui Wowie, two soil
-types), the analysis produced a clear pattern:
-
-### Unweighted Analysis (Composition)
-
-- Soil type: 657 significant OTUs (p < 0.05, FDR-corrected)
-- Sample type (endorhiza/rhizosphere/bulk): 11 significant OTUs
-- Strain: **0 significant OTUs**
-
-Despite finding zero strain-specific OTUs, unweighted UniFrac
-beta-diversity still showed significant strain clustering in
-endorhiza (ADONIS R² = 0.10, p = 0.001) and all samples pooled
-(ADONIS R² = 0.178, p = 0.001). This paradox occurs because
-unweighted UniFrac captures phylogenetic shifts even when
-individual OTUs don't reach significance after multiple-testing
-correction.
-
-### Weighted Analysis (Abundance)
-
-- Soil type: 690 significant OTUs
-- Sample type: 51 significant OTUs
-- Strain: **71 significant OTUs**
-
-Weighted UniFrac beta-diversity showed much stronger strain
-effects: endorhiza (ADONIS R² = 0.26, p = 0.001), rhizosphere
-(R² = 0.13, p = 0.001), and pooled samples (R² = 0.301, p = 0.001).
-
-## Interpreting the Discrepancy
-
-The absence of significant unweighted OTU differences between
-strains means that Cannabis cultivars share essentially the same
-species pool of root-associated bacteria. The 71 significant
-weighted OTU differences indicate that cultivars differ in the
-relative abundances of these shared taxa, not in which taxa are
-present.
-
-This is consistent with the two-tier selection model:
-
-1. Soil type determines which bacteria are available (composition)
-2. Host genotype fine-tunes their relative abundances (structure)
-
-The same Proteobacterial orders appear across all cultivars —
-Pseudomonadales, Burkholderiales, Sphingomonadales, Rhizobiales —
-but their proportional representation shifts based on the host
-strain. Methylophilus dominates Bookoo Kush but is absent from
-Sour Diesel, while [[sphingomonas-wittichii-cannabis-endorhiza-strain-specificity]] characterizes Maui Wowie.
+[[sphingomonas-wittichii-cannabis-endorhiza-strain-specificity]] characterizes Maui Wowie.
 
 ## The PC1 Axis Flip
 
@@ -142,7 +75,6 @@ multivariate approaches capture signals lost in per-OTU testing.
 
 ## See Also
 
-- [[cannabis-microbiome-two-tier-selection]] — Selection model
 - [[edaphic-factors-structuring-cannabis-microbiome]] — Soil effects
 - [[beta-diversity-distances-bulk-soil-rhizosphere-cannabis-endorhiza]]
 - cannabis endorhiza strain specificity post harvest persistence

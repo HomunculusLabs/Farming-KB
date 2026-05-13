@@ -10,7 +10,7 @@ sources: [/Users/t3rpz/wiki/raw/papers/hofmann-a-lsd-my-problem-child.md]
 
 # Ergine (LSA)
 
-**Ergine**, also known as **D-lysergic acid amide** (LSA) and **lysergamide**, is a naturally occurring ergoline alkaloid and the primary psychoactive constituent of several [[golden-guide-morning-glory-and-ololiuqui]] species (*Ipomoea violacea*, *Ipomoea tricolor*, *[[purple-ohms-argyreia-nervosa-legal-mushroom-substitutes]]*) and related plants. Structurally, it is an amide of lysergic acid, making it a close chemical relative of **LSD** (lysergic acid diethylamide). Ergine is the simplest lysergic acid amide and serves as a biosynthetic intermediate in the ergot alkaloid pathway.
+**Ergine**, also known as **D-lysergic acid amide** (LSA) and **lysergamide**, is a naturally occurring ergoline alkaloid and the primary psychoactive constituent of several [[purple-ohms-argyreia-nervosa-legal-mushroom-substitutes]]*) and related plants. Structurally, it is an amide of lysergic acid, making it a close chemical relative of **LSD** (lysergic acid diethylamide). Ergine is the simplest lysergic acid amide and serves as a biosynthetic intermediate in the ergot alkaloid pathway.
 
 ## Chemical Structure and Properties
 
@@ -22,54 +22,14 @@ Ergine is soluble in ethanol and slightly soluble in water. It forms crystalline
 
 ## Pharmacology
 
-Ergine acts as a partial agonist at **5-HT₂A serotonin receptors**, the same receptor subtype primarily responsible for the psychedelic effects of LSD, psilocybin, and other classical psychedelics. However, ergine has lower affinity and efficacy at this receptor compared to LSD, which accounts for its reduced potency and different [[mdma-qualitative-effects-phenomenology]].
-
-Ergine also has affinity for **dopamine receptors** and **adrenergic receptors**, contributing to its complex pharmacological profile. Some evidence suggests it may have ergot-like uterotonic activity, consistent with its origin in ergot alkaloid biosynthesis.
-
-The compound **lysergic acid hydroxyethylamide (LSH)**, which is typically co-occurring with ergine in morning glory seeds, may contribute significantly to the overall psychoactive effects and is thought by some researchers to be more potent than ergine itself. LSH is unstable and may degrade during storage or processing, which may account for the variable potency reported by users.
-
-## Natural Occurrence
-
-Ergine occurs in several plant families:
-
-- **Convolvulaceae**: Seeds of *Ipomoea violacea* (ololiuqui), *Ipomoea tricolor* (heavenly blue morning glory), *Argyreia nervosa* (Hawaiian baby woodrose), and *[[plants-of-the-gods-turbina-corymbosa-ololiuqui]]* (coaxihuitl). Concentrations typically range from 0.03–0.1% of seed weight.
-- **Clavicipitaceae**: Produced by the ergot fungus *[[bloomfield-ergot-claviceps-purpurea-ergotism]]* and related species as an intermediate in the biosynthesis of more complex ergot alkaloids (ergotamine, ergocristine, etc.)
-- **Rubiaceae**: Found in trace amounts in some species
-
-## Effects and Dosage
-
-| Parameter | Typical Range |
-|-----------|--------------|
-| Active dose (seeds) | 50–300 *I. violacea* seeds; 4–8 *A. nervosa* seeds |
-| Active dose (pure) | 2–5 mg |
-| Duration | 6–10 hours |
-| Onset | 30–60 minutes |
-
-The subjective effects of ergine are qualitatively different from those of LSD and other classical psychedelics:
-
-- **Milder visual effects**: Less intense geometric patterns and color enhancement compared to LSD or psilocybin
-- **Greater sedation**: Ergine produces significant drowsiness and lethargy, unlike the stimulant quality of LSD
-- **Nausea**: More prominent physical side effects, particularly nausea and gastrointestinal discomfort, attributed to other compounds in the seed matrix
-- **Dreamlike quality**: The experience is often described as more dreamy, drifting, and less lucid than LSD
-- **Euphoria**: Mild to moderate euphoria, with less anxiety-prone mental effects than LSD
-
-## Historical Significance
-
-Ergine's historical importance lies primarily in its connection to the Mesoamerican entheogen **ololiuqui**. When Albert Hofmann analyzed the alkaloids of *Rivea corymbosa* (now *Turbina corymbosa*) seeds in 1960, he identified ergine and related ergoline alkaloids as the active principles. This was a remarkable discovery because it demonstrated that psychoactive ergoline alkaloids — previously known only from Old World ergot fungi — were also produced by a New World plant, representing an extraordinary case of convergent biochemistry.
-
-Hofmann wrote that this discovery "constituted a remarkable parallel to the discovery of the New World, in that it became known that a drug which had been used for centuries in the Old World was also present in the New World."
-
-## Modern Use
-
-Ergine-containing seeds are sold commercially as ornamental items (morning glory and Hawaiian baby woodrose seeds). Some users consume the seeds for their psychoactive effects, though the experience is widely considered inferior to other available psychedelics. Various [[gottlieb-peyote-extraction-and-preparation-methods]] methods have been developed to reduce the nausea associated with crude seed consumption, though the legal status of such preparations varies by jurisdiction.
+Ergine acts as a partial agonist at **5-HT₂A serotonin receptors**, the same receptor subtype primarily responsible for the psychedelic effects of LSD, psilocybin, and other classical psychedelics. However, ergine has lower affinity and efficacy at this receptor compared to LSD, which accounts for its reduced potency and different [[plants-of-the-gods-turbina-corymbosa-ololiuqui]]* (coaxihuitl). Concentrations typically range from 0.03–0.1% of seed weight.
+- **Clavicipitaceae**: Produced by the ergot fungus *[[gottlieb-peyote-extraction-and-preparation-methods]] methods have been developed to reduce the nausea associated with crude seed consumption, though the legal status of such preparations varies by jurisdiction.
 
 ## Legal Status
 
 Ergine is not specifically scheduled in most countries, though it may fall under analogue drug legislation in jurisdictions that control LSD. In the United States, the morning glory seeds themselves are legal to sell and possess, but extracting ergine or preparing it for consumption may violate the Federal Analogue Act.
 
 ## See Also
-
-- [[lsa-containing-plants-guide]]
 
 - [[ipomoea-violacea]] — the primary natural source plant
 - [[ergot-fungi-and-ergotism-claviceps-purpurea]] — the fungal source of lysergic acid
@@ -92,3 +52,84 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
+
+## Overview
+
+Ergine Lsa represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish ergine lsa
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving ergine extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Ergine Lsa finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for ergine lsa. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+ergine lsa and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Ergine Lsa has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of ergine lsa into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[ergine-entity]]

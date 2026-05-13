@@ -11,7 +11,7 @@ type: comparison
 
 Ducks and rabbits are two of the most practical small livestock choices for
 the homestead, yet they serve fundamentally different roles. Ducks produce eggs
-and meat while providing [[comparison-pheromone-based-pest-control-vs-beneficial-insect-biocontrol]] and [[purdue-four-step-garden-fertilization-program]]. Rabbits are the
+and meat while providing [[purdue-four-step-garden-fertilization-program]]. Rabbits are the
 most space-efficient meat animal available, converting feed to protein with
 remarkable efficiency.
 
@@ -19,9 +19,7 @@ remarkable efficiency.
 
 **Ducks** are waterfowl kept primarily for eggs. A good laying breed like the
 Khaki Campbell produces 250-340 eggs per year of large, rich eggs that
-outperform chicken eggs in baking quality and [[psilocybin-shelf-life-stability]]. Ducks also consume
-slugs, snails, and insect pests, fertilize gardens with nitrogen-rich manure,
-and can integrate into orchards and rice paddies as part of [[comparison-beneficial-insects-guide-vs-integrated-pest-management]]
+outperform chicken eggs in baking quality and [[comparison-beneficial-insects-guide-vs-integrated-pest-management]]
 management systems.
 
 **Rabbits** are kept almost exclusively for meat. A single breeding trio (one
@@ -109,7 +107,5 @@ $200-500, monthly feed $20-35.
 
 ## See Also
 
-- [[turkey-husbandry]]
 - [[comparison-quail-husbandry-vs-rabbit-husbandry]]
-- [[duck-keeping]]
 - [[homesteading-livestock-comparison]]

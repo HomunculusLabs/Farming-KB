@@ -23,15 +23,7 @@ sources:
   - Breitenbach, J. & Kränzlin, F. (1991). "Champignons de Suisse, Tome 3." Mykologia.
   - Courtecuisse, R. & Duhem, B. (1995). "Mushrooms and Toadstools of Britain and Europe." HarperCollins.
   - Noordeloos, M.E. (2011). "Strophariaceae s.l." Fungi Europaei, Vol. 13.
-  - Begerow, D. et al. (2020). "[[arbuscular-mycorrhizal-fungal-diversity]]." MycoBank, CBS-KNAW.
-created: 2026-04-28
----
-
-## Overview
-
-*Pholiota aurivella* (Batsch) P. Kumm., commonly known as the golden scalycap or chestnut pholiota, is a saprotrophic basidiomycete fungus in the family Strophariaceae. It fruits in large caespitose clusters on dead or living hardwoods, especially oaks and beeches, during late summer and autumn.
-
-The species is valued as an [[bloomfield-boletus-satanus-edible-mushroom-hazards]] in Central and Eastern Europe, where it has a long history of collection. It is distinguished by its golden-brown, conspicuously scaly cap and stipe, its clustered growth habit, and its rusty-brown spore print.
+  - Begerow, D. et al. (2020). "[[bloomfield-boletus-satanus-edible-mushroom-hazards]] in Central and Eastern Europe, where it has a long history of collection. It is distinguished by its golden-brown, conspicuously scaly cap and stipe, its clustered growth habit, and its rusty-brown spore print.
 
 Recent molecular phylogenetic work has clarified the boundaries between *P. aurivella* and related species such as *P. adiposa*, which was formerly treated as a synonym but is now recognized as distinct.
 
@@ -55,36 +47,98 @@ Recent molecular phylogenetic work has clarified the boundaries between *P. auri
 
 ## Distribution and Habitat
 
-*P. aurivella* is widely distributed across [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]] of the Northern Hemisphere. It occurs throughout Europe from the Mediterranean to Scandinavia, across temperate Asia including Japan and Korea, and in [[polypore-fungi-eastern-north-america]] America.
+*P. aurivella* is widely distributed across [[polypore-fungi-eastern-north-america]] America.
 
 The fungus is primarily saprotrophic, decomposing dead hardwood. It frequently colonizes standing dead trunks, fallen logs, and large branches of oak (*Quercus* spp.), beech (*Fagus* spp.), elm (*Ulmus* spp.), and occasionally conifers.
 
-Fruiting occurs from August through November, with peak production in September and October following warm, wet autumns. It is most abundant in old-growth and mature deciduous forests with substantial [[fungal-diversity-leaf-litter-coarse-woody-debris]].
-
-## Edibility and Culinary Use
-
-*P. aurivella* is considered a choice edible mushroom in Central and Eastern European culinary traditions. Young specimens with firm flesh and intact caps are preferred for harvest.
-
-The flavor is mild to nutty, with a pleasant texture that holds up well to cooking. It is suitable for sautéing, braising, soups, and preservation by pickling or drying. The scaly cap cuticle is sometimes peeled before cooking to improve texture.
-
-Some foraging guides note a slight bitterness in mature specimens, which is eliminated by thorough cooking. As with all *Pholiota* species, it should be positively identified before consumption, as several species in the genus are mildly toxic or cause gastrointestinal upset.
-
-**Nutritional profile:** The species is a good source of protein, B vitamins, and minerals including potassium, phosphorus, and selenium. Dried specimens contain approximately 20–25% protein by dry weight.
-
-## Bioactive Compounds
-
-Polysaccharide fractions isolated from *P. aurivella* [[bloomfield-asterophora-and-mycoparasites-of-fruiting-bodies]] have demonstrated immunomodulatory and antioxidant activities in vitro. β-glucans extracted from the cell walls show macrophage-activating properties comparable to other edible *Pholiota* species.
+Fruiting occurs from August through November, with peak production in September and October following warm, wet autumns. It is most abundant in old-growth and mature deciduous forests with substantial [[bloomfield-asterophora-and-mycoparasites-of-fruiting-bodies]] have demonstrated immunomodulatory and antioxidant activities in vitro. β-glucans extracted from the cell walls show macrophage-activating properties comparable to other edible *Pholiota* species.
 
 The fungus also produces aurivellins, a group of polyphenolic compounds with documented free radical scavenging activity. These metabolites contribute to the antioxidant capacity observed in methanolic extracts of the fruiting body.
 
-Antimicrobial activity against *[[staphylococcus-aureus]]* and *Escherichia coli* has been reported for ethyl acetate extracts, suggesting potential for natural preservative applications.
-
-## Cultivation
-
-Cultivation of *P. aurivella* on hardwood substrates has been reported on a small scale, primarily in China and Korea. The species accepts a range of hardwood sawdust substrates supplemented with bran or rice hulls.
-
-Optimal fruiting temperatures range from 15–20°C with high humidity (85–95% RH). Colonization of [[oyster-mushroom-supplemented-sawdust-blocks]] blocks proceeds over 30–45 days, with fruiting initiated by a cold shock or reduction in temperature. [[stamets-biological-efficiency-yield]] on oak sawdust is moderate at 25–35%.
-
-The clustered growth habit and large fruiting body size make it an attractive candidate for specialty [[accessible-mushroom-cultivation-for-disabilities]], though it remains uncommon in commercial production compared to *P. nameko*.
+Antimicrobial activity against *[[oyster-mushroom-supplemented-sawdust-blocks]] blocks proceeds over 30–45 days, with fruiting initiated by a cold shock or reduction in temperature. [[accessible-mushroom-cultivation-for-disabilities]], though it remains uncommon in commercial production compared to *P. nameko*.
 
 ## Ecological Role
+
+## Overview
+
+Pholiota Aurivella represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish pholiota aurivella
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving pholiota extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Pholiota Aurivella finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for pholiota aurivella. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+pholiota aurivella and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Pholiota Aurivella has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of pholiota aurivella into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[growing-gourmet-nameko-pholiota-cultivation]]
+- [[pholiota-adiposa]]
+- [[pholiota-nameko]]
+- [[pholiota-squarrosa]]

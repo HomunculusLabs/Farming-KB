@@ -21,11 +21,9 @@ sources:
 
 ## Overview
 
-**Koeleria macrantha** (Ledeb.) Schult., commonly known as prairie junegrass or June grass, is a perennial cool-season bunchgrass native to grasslands, open woodlands, and rocky slopes across much [[berry-growing]], Europe, and Asia. It is one of the most widely distributed grasses in the Northern Hemisphere.
+**Koeleria macrantha** (Ledeb.) Schult., commonly known as prairie junegrass or June grass, is a perennial cool-season bunchgrass native to grasslands, open woodlands, and rocky slopes across much [[lichen-biology-guide]].
 
-The species typically grows 20–60 cm tall and forms dense, compact tussocks with fine, involute leaves. It produces silvery to golden panicles in late spring to early summer, lending it both ornamental appeal [[lichen-biology-guide]].
-
-Prairie junegrass is valued for its early-season forage quality, [[dighton-fungal-drought-tolerance-plant-water-relations]], and ability to persist on thin, infertile soils. It is increasingly used in native lawn alternatives, green roof installations, and [[tropical-rainforest-seedling-mycorrhiza-ecological-restoration]] projects.
+Prairie junegrass is valued for its early-season forage quality, [[tropical-rainforest-seedling-mycorrhiza-ecological-restoration]] projects.
 
 ## Taxonomy and Morphology
 

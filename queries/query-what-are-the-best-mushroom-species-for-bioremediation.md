@@ -12,22 +12,10 @@ type: query
 
 ## Short Answer
 The most effective mushroom species for bioremediation are
-[[mycoremediation]], leverages the natural
-ability of certain mushroom species to decompose and transform environmental
-pollutants. Unlike bacteria that primarily break down simple compounds, fungi
-produce a suite of extracellular enzymes including lignin peroxidases, manganese
-peroxidases, and laccases that can attack chemically complex pollutants that
-resist bacterial degradation.
-
 [[query-how-to-grow-oyster-mushrooms-at-home]] (Pleurotus ostreatus and related species) are the most widely
 used fungi for bioremediation and are often the first choice for both research
 and field applications. They are remarkably effective at breaking down petroleum
-hydrocarbons, [[singh-fungal-biodegradation-of-polycyclic-aromatic-hydrocarbons]] hydrocarbons (PAHs), and even some plastics.
-mycorrhizal-heavy-metal-uptake at mining sites,
-industrial facilities, and agricultural land treated with contaminated
-fertilizers.
-
-[[query-how-to-grow-shiitake-mushrooms-on-logs]] ([[staycare-lentinula-edodes-in-bioremediation]]) produce [[singh-ligninolytic-enzymes-fungal-bioremediation]] that are
+hydrocarbons, [[query-how-to-grow-shiitake-mushrooms-on-logs]] ([[singh-ligninolytic-enzymes-fungal-bioremediation]] that are
 effective against certain aromatic pollutants and chlorinated compounds. While
 less commonly deployed than oyster mushrooms for field remediation, shiitake has
 shown promising results in laboratory studies for degrading pentachlorophenol, a
@@ -35,16 +23,7 @@ wood preservative that contaminates soils near treated lumber sites. Their role
 in mycoremediation|mycoremediation is primarily complementary to the more
 aggressive white rot species.
 
-The [[mycoremediation-techniques]].
-
-Field applications typically involve inoculating contaminated material with
-mushroom spawn, either by mixing spawn directly into contaminated soil or by
-creating contained treatment systems like biopiles or bioreactors. The
-mycoremediation-field-applications-case-studies worldwide.
-
-## Key Points
-- [[query-how-does-mycoremediation-work-and-what-can-fungi-clean-up]]
-- [[query-difference-between-white-rot-and-brown-rot-fungi]]
+The [[query-how-does-mycoremediation-work-and-what-can-fungi-clean-up]]
 - [[fungal-remediation-decision-tree]]
 ## Practical Considerations
 

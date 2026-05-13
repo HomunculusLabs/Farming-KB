@@ -15,21 +15,7 @@ Dragon fruit (*Hylocereus* / *Selenicereus* spp.) is a climbing cactus that prod
 ## What climate do I need?
 
 - **USDA Hardiness Zones:** 9b–11 for outdoor in-ground planting.
-- **[[query-what-is-the-ideal-temperature-range-for-growing-cannabis]]:** 65–100°F (18–38°C) is ideal. Growth slows below 50°F (10°C).
-- **Frost tolerance:** None. Temperatures below 32°F (0°C) will kill or severely damage the plant. If you live below Zone 9, grow in containers and bring indoors or into a greenhouse when frost threatens.
-- **Sunlight:** 6–8 hours of direct sun daily. In extreme heat (above 100°F), partial afternoon shade helps prevent sunburn on the stems.
-
----
-
-## What kind of soil and pot should I use?
-
-Dragon fruit needs well-draining soil — sitting in soggy soil causes root rot fast.
-
-**Soil mix recipe (for containers):**
-- 40% standard potting soil
-- 30% perlite or pumice
-- 30% coarse sand or orchid bark
-- A handful of worm castings or compost (no more than 10% [[hamilton-composting-and-organic-matter-management]] total)
+- **[[hamilton-composting-and-organic-matter-management]] total)
 
 **Target soil pH:** 6.0–7.0.
 
@@ -78,15 +64,7 @@ Dragon fruit is a vining cactus and must climb. Without support, it sprawls on t
 
 ## How often do I water and fertilize?
 
-**[[cannabis-watering-schedule-and-frequency]]:**
-- **Spring/Summer (active growth):** Every 7–10 days. Let the top 2 inches of soil dry out between waterings.
-- **Fall:** Every 10–14 days as growth slows.
-- **Winter (dormant):** Every 3–4 weeks. The plant is semi-dormant; overwatering is the #1 killer in winter.
-- **Rule of thumb:** When in doubt, wait. Underwatering is easy to fix; root rot from overwatering is not.
-
-**Fertilizer schedule:**
-- **Type:** Balanced granular or [[jadam-liquid-fertilizer-nutritional-perspective]]. NPK **8-8-8** or **10-10-10** works for [[cannabis-vegetative-growth-stage]]. Switch to a bloom formula like **2-10-10** or **0-10-10** in late spring to promote flowering.
-- **Frequency:** Apply every 6–8 weeks during the [[savory-growing-season-and-non-growing-season-management]] (March–October). Stop fertilizing November–February.
+**[[jadam-liquid-fertilizer-nutritional-perspective]]. NPK **8-8-8** or **10-10-10** works for [[savory-growing-season-and-non-growing-season-management]] (March–October). Stop fertilizing November–February.
 - **Supplement:** Add a handful of compost or worm castings at the start of each growing season. Occasional foliar spray with micronutrients (calcium, magnesium) can improve fruit quality.
 
 ---
@@ -129,6 +107,5 @@ Yes, with caveats. Dragon fruit needs strong light to flower and fruit.
 
 ## See Also
 
-- [[query-how-to-grow-medicinal-herbs-at-home]]
 - [[query-how-to-grow-sprouts-and-microgreens-at-home]]
 - [[cold-climate-gardening]]

@@ -12,15 +12,9 @@ sources: "Guzmán, Allen & Gartz (1998)"
 
 Section Aztecorum of the genus Psilocybe represents a distinctive
 biogeographic group of neurotropic fungi adapted to high-elevation,
-subalpine, and alpine habitats. According to [[neurotropic-fungi-underground-trade-legislation-guzman-1998]]
-- [[southern-hemisphere-origin-hypothesis-neurotropic-fungi-guzman-1998]]
-- [[psilocybe-cubensis-cattle-dung-substrate-introduction-americas-guzman-1998]]
-
-- Psilocybe [[psilocybe-semilanceata-worldwide-temperate-distribution-guzman-1998]] [[tropical-vs-temperate-distribution-neurotropic-fungi]]
-- Mexico as a Neurotropic Fungi Diversity Hotspot
-- [[guzman-allen-gartz-africa-southern-hemisphere-underexplored-neurotropic-fungi]] Origin Hypothesis for Neurotropic Fungi
-- [[four-groups-neurotropic-fungi-global-distribution-guzman-1998]]
-- Mexico as a Northern and [[mexico-northern-southern-mycobiotic-convergence-zone-guzman-1998]] Convergence Zone
+subalpine, and alpine habitats. According to [[southern-hemisphere-origin-hypothesis-neurotropic-fungi-guzman-1998]]
+- [[psilocybe-semilanceata-worldwide-temperate-distribution-guzman-1998]] [[guzman-allen-gartz-africa-southern-hemisphere-underexplored-neurotropic-fungi]] Origin Hypothesis for Neurotropic Fungi
+- [[mexico-northern-southern-mycobiotic-convergence-zone-guzman-1998]] Convergence Zone
 ## Practical Applications
 
 Psilocybe aztecorum Section Aztecorum: Alpine Neurotropic Fungi has a range of practical applications that make it relevant to

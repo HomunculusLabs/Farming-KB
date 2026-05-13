@@ -1,14 +1,4 @@
-# [[query-how-to-store-mushroom-spores-long-term]] carbon storage in boreal and heathland ecosystems, while AM fungi contribute through soil aggregation and persistent protein deposits. Understanding these differences is critical for predicting how ecosystems will respond to climate change.
-
-## The Three Mycorrhizal Types and Carbon Cycling
-
-### Ericoid Mycorrhiza (ERM)
-
-ERM fungi associate with plants in the Ericaceae family (heaths, heathers, blueberries, cranberries, rhododendrons) and dominate in heathland and tundra ecosystems:
-
-- **Carbon allocation**: 20-40% of plant-assimilated carbon is found in ERM hair roots at peak season. Of this, approximately 50% passes to the fungi, accounting for up to 4.8% of net photosynthetic fixation
-- **Seasonal peak**: ERM carbon demand peaks in autumn, creating a time lag from peak photosynthesis. This means maximum fungal carbon flux occurs when plants are senescing
-- **[[dighton-litter-quality-fungal-decomposition-rates]]**: ERM host plants produce extremely recalcitrant litter rich in polyphenolic compounds, low-molecular-weight phenolics, and aliphatic acids that are fungistatic and fungitoxic. This litter has very high C:N ratios (often exceeding 100:1) and decomposes extremely slowly
+# [[dighton-litter-quality-fungal-decomposition-rates]]**: ERM host plants produce extremely recalcitrant litter rich in polyphenolic compounds, low-molecular-weight phenolics, and aliphatic acids that are fungistatic and fungitoxic. This litter has very high C:N ratios (often exceeding 100:1) and decomposes extremely slowly
 - **Nutrient mining**: ERM fungi can metabolize some of the most toxic phenolic compounds in their host litter, selectively mobilizing nitrogen and phosphorus while leaving the bulk of the organic carbon as recalcitrant humus
 - **Positive feedback**: By extracting N from litter without fully decomposing it, ERM fungi leave behind residues with even higher C:N ratios, further inhibiting decomposition by saprotrophs and promoting long-term carbon storage
 - **Carbon flux**: The combined respiration of roots and ERM fungi dominates soil respiratory fluxes in heathlands and tundra
@@ -17,14 +7,7 @@ ERM fungi associate with plants in the Ericaceae family (heaths, heathers, blueb
 
 EM fungi associate with most temperate and boreal forest trees (pines, spruces, oaks, beeches, birches) and are the dominant mycorrhizal type in forest ecosystems:
 
-- **Carbon allocation**: 10-30% of net photosynthate passes into EM fungi in many forest ecosystems. Given the greater productivity of [[fungal-diversity-boreal-forests-taiga]] compared to Arctic heathlands, total EM carbon inputs are much larger
-- **Biomass dominance**: EM mycelium accounts for approximately 32% of soil microbial biomass in boreal forests, based on girdling experiments. Some estimates suggest EM may represent over 70% of total soil microbial biomass
-- **External mycelium production**: 420-590 kg of external EM mycelium per hectare per year is produced in coniferous and mixed forests. Approximately 80% of EM biomass exists as extra-radical mycelium (outside the root)
-- **Soil respiration**: At least 50% of soil respiration in boreal forests is attributed to mycorrhizal mycelium plus roots. Half of dissolved organic carbon in soil solution comes from the same sources
-- **Persistent structures**: EM fungi produce robust, hydrophobic multicellular hyphal cords that persist for months. Many produce highly melanized hyphae (especially Cenococcum geophilum) that decompose very slowly
-- **High C:N ratios**: EM mycelium has C:N ratios of 18.5-21.9, unusually high for soil microbial biomass. This slow decomposition rate promotes carbon retention
-- **Chemical exudates**: EM fungi secrete oxalic and citric acids that form [[fungal-calcium-oxalate-crystals]] crystals coating hyphae and rhizomorphs. These contribute to persistent low-molecular-weight [[fungal-volatile-organic-compounds-communication]] in forest soils
-- **Defense against decomposition**: EM mycelia are better defended against fungal-feeding microarthropods than saprotrophs, due to melanin, polyphenolic compounds, and in some cases toxins that kill and predate fungivores. [[arbuscular-mycorrhizal-colonization-patterns]] reduced root decomposition rates by 30% in one study
+- **Carbon allocation**: 10-30% of net photosynthate passes into EM fungi in many forest ecosystems. Given the greater productivity of [[fungal-calcium-oxalate-crystals]] crystals coating hyphae and rhizomorphs. These contribute to persistent low-molecular-weight [[arbuscular-mycorrhizal-colonization-patterns]] reduced root decomposition rates by 30% in one study
 - **Positive feedback with nutrient competition**: EM fungi compete with saprotrophs for labile nutrient sources. Their large carbohydrate supply from host plants gives them a competitive advantage. By selectively removing nutrients from decomposing litter without fully degrading it, they increase C:N ratios of remaining residues, further inhibiting saprotroph activity
 
 ### Arbuscular Mycorrhiza (AM)
@@ -34,7 +17,7 @@ AM fungi associate with most herbaceous plants, grasses, and many tropical trees
 - **Carbon allocation**: More than 9% of net carbon fixation by grassland plants passes through AM external mycelium in summer. Including within-root mycelium, total allocation reaches 13-19% of net fixation
 - **Rapid turnover**: Up to 16% of AM mycelial carbon content can be replaced within 24 hours. This high flux rate means snapshot measurements significantly underestimate total annual carbon flow through AM fungi
 - **Biomass**: AM mycelia constitute 50% of fungal length in soil under herbaceous plants and 20-30% of total soil microbial biomass in temperate grassland
-- **Glomalin**: AM fungi secrete a unique hydrophobic protein called glomalin that accumulates in soil with a residence time of 6-42 years. Glomalin contributes up to 15% of total stable [[fukuoka-textdoc-composting-critique-futility-prepared-organic-matter]] trapped inside macroaggregates i [[query-how-do-i-extend-my-growing-season-with-cold-frames-and-season-extension-techniques]] al patterns. ERM peaks in autumn (time-lagged from peak photosynthesis). AM peaks during the growing season. Single-timepoint measurements cannot capture annual totals
+- **Glomalin**: AM fungi secrete a unique hydrophobic protein called glomalin that accumulates in soil with a residence time of 6-42 years. Glomalin contributes up to 15% of total stable [[query-how-do-i-extend-my-growing-season-with-cold-frames-and-season-extension-techniques]] al patterns. ERM peaks in autumn (time-lagged from peak photosynthesis). AM peaks during the growing season. Single-timepoint measurements cannot capture annual totals
 
 ## Ecosystem-Level Patterns
 
@@ -69,7 +52,7 @@ This mechanism effectively means that mycorrhizal fungi can "lock up" carbon by 
 The differences between mycorrhizal types have significant implications for carbon cycle modeling and climate predictions:
 
 - **Boreal carbon sinks at risk**: Boreal forests and heathlands (EM and ERM dominated) are among the world's most important carbon sinks, partly because mycorrhizal fungi actively promote carbon retention. Climate-driven changes to these ecosystems could release stored carbon
-- **Vegetation shift effects**: Converting boreal forests to AM-dominated ecosystems (through [[mycelium-running-forestry-practices-and-mushrooms]], fire regime changes, or climate-driv [[fungi-in-the-environment-fungal-endophytes-plant-communities]] lthy, photosynthetically active plant communities are the foundation of mycorrhizal carbon sequestration
+- **Vegetation shift effects**: Converting boreal forests to AM-dominated ecosystems (through [[fungi-in-the-environment-fungal-endophytes-plant-communities]] lthy, photosynthetically active plant communities are the foundation of mycorrhizal carbon sequestration
 
 ## Related Topics
 
@@ -80,7 +63,88 @@ The differences between mycorrhizal types have significant implications for carb
 
 ## See Also
 
-- [[dighton-ectomycorrhizal-hartig-net-structure-function]]
 - [[symbiotic-fungi-arbuscular-mycorrhizal-agriculture]]
-- [[mycorrhizal-networks]]
 - [[teaming-with-microbes-fungi]]
+
+## Overview
+
+Mycorrhizal Fungi Soil Carbon Sequestration By Type represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish mycorrhizal fungi soil carbon sequestration by type
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving mycorrhizal extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Mycorrhizal Fungi Soil Carbon Sequestration By Type finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for mycorrhizal fungi soil carbon sequestration by type. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+mycorrhizal fungi soil carbon sequestration by type and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Mycorrhizal Fungi Soil Carbon Sequestration By Type has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of mycorrhizal fungi soil carbon sequestration by type into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[dighton-leaf-litter-patch-effects-mycorrhizal-community]]
+- [[endobacteria-arbuscular-mycorrhizal-fungi]]
+- [[fukuoka-sowing-pine-forest-collapse-and-mycorrhizal-cascade]]

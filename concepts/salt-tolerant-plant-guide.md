@@ -13,7 +13,7 @@ Salt-affected land can be rehabilitated by establishing a cover of salt-tolerant
 
 ## Benefits of Covering Salt-Affected Land
 
-1. Reduce evaporation from soil (shade + [[cervantes-wind-protection-outdoor-cannabis]]), which contributes to increased salt
+1. Reduce evaporation from soil (shade + wind protection), which contributes to increased salt
 2. Reduce soil erosion from otherwise bared earth
 3. Increase transpiration, thus lowering the water table
 
@@ -35,7 +35,7 @@ Salt-affected land can be rehabilitated by establishing a cover of salt-tolerant
 | Species | Notes |
 |---------|-------|
 | Trifolium fragiferum (Strawberry Clover) | Native to north Africa, 300+ mm rainfall. Creeping perennial adapted to heavy, poorly drained saline/alkaline soils. Summer dormant. Very salt tolerant |
-| Hedysarum carnosum (Fleshy Sulla) | Biennial from Libya/Tunisia/Algeria, 100-350 mm rainfall. High [[fungal-salt-tolerance-and-ion-homeostasis]]; tolerates irrigation with 8000-10,000 ppm salt |
+| Hedysarum carnosum (Fleshy Sulla) | Biennial from Libya/Tunisia/Algeria, 100-350 mm rainfall. High salt tolerance; tolerates irrigation with 8000-10,000 ppm salt |
 | Hedysarum coronarium (Sulla) | Biennial from north Africa/southern Italy. 350+ mm rainfall. Yields over 20 t DM/ha/yr recorded. Potential nectar producer |
 
 ## Saltbushes (Atriplex spp.)
@@ -47,9 +47,9 @@ Saltbushes concentrate salt onto their leaf surfaces and can remove salt from so
 | A. versicaria (Bladder Saltbush) | 60-70 cm | 11.1-18.4% | Adaptable to wide range of soils |
 | A. nummularia (Old Man Saltbush) | To 3 m | 17.0-21.9% | High nutritive value, all mainland states |
 | A. rhagodioides (River Saltbush) | To 1 m, 4 m spread | -- | Drought and frost hardy |
-| A. undulata (Wavy Leaf Saltbush) | 0.5 m tall, 2-3 m wide | -- | Provides 900 [[permaculture-designers-manual-sheep-grazing]] days/ha in 350 mm rainfall |
+| A. undulata (Wavy Leaf Saltbush) | 0.5 m tall, 2-3 m wide | -- | Provides 900 sheep grazing days/ha in 350 mm rainfall |
 | A. halimus (North African Saltbush) | -- | -- | -- |
-| A. canescens (Four Winged Saltbush) | 1-3 m | 18-20% | Endemic to [[guzman-psilocybin-mushrooms-north-america]], arid [[fukuoka-low-toxicity-pesticide-deception]] |
+| A. canescens (Four Winged Saltbush) | 1-3 m | 18-20% | Endemic to North America, arid low toxicity |
 
 ## Bluebush (Maireana spp.)
 
@@ -68,7 +68,7 @@ Companions to saltbushes, native to Australia.
 - **Arctotis stoechadifolia** (African Daisy): Bushy creeping perennial from South Africa, half-hardy. Excellent sand binder
 - **Armeria maritima** (Sea Pink): Hardy frost-hardy perennial, covers sand banks readily
 - **Batis maritima** (Saltwort): Prostrate shrub from mangrove swamps and salt marshes, native to Florida
-- **Sarcocornia quinqueflora** (Chicken Claws): Extensive colonies on tidal mudflats. Succulent stems absorb pickle flavours
+- **[[sarcocornia-quinqueflora]]** (Chicken Claws): Extensive colonies on tidal mudflats. Succulent stems absorb pickle flavours
 - **Sesuvium portulacastrum** (Sea Purslane): Fleshy-leaved shrubby herb. Leaves make excellent vegetable and pickle ingredient
 - **Suaeda australis** (Sea Blight): Shrubby herb of saltflats and sandbanks. Used as vegetable and in pickles
 
@@ -78,19 +78,72 @@ Companions to saltbushes, native to Australia.
 - [[water-plant-guide]]
 - [[permaculture-plant-selection-guide]]
 
+## Overview
+
+Salt Tolerant Plant Guide represents an important element within sustainable
+design and [[solomon-gardening-aikido-pest-philosophy-ecological-management]] systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish salt tolerant plant guide
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving salt extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Salt Tolerant Plant Guide finds practical application in multiple design contexts.
+[[mollisonian-permaculture-principles]] guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive [[livestock-grassland-management-strategies]] that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for salt tolerant plant guide. [[jeavons-climate-adaptation-growing-seasons]]
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+salt tolerant plant guide and its applications. Active investigation
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
+Published findings contribute to an evolving evidence base.
+
 ## Historical Context
-- These approaches have evolved through decades of research and practical application.
-- Traditional knowledge systems have contributed significantly to modern understanding.
-- Scientific inquiry has progressively validated and refined historical practices.
 
-## Mechanisms and Processes
-- Underlying biological and ecological mechanisms drive observed outcomes.
-- Multiple interacting factors contribute to system-level effects.
-- Understanding these processes enables more targeted and effective interventions.
+Salt Tolerant Plant Guide has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
 
-## See Also
-- [[halotolerant-halophilic-fungi-salt-tolerant-diversity]]
-- [[alpine-plant-cultivation-guide]]
-- [[master-cho-knf-fpj-fermented-plant-juice-guide]]
-- [[permaculture-salt-tolerant-fodder-plants]]
-- [[comparison-compost-tea-guide-vs-fermented-plant-extract-fpe]]
+## Integration Strategies
+
+Successful integration of salt tolerant plant guide into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.

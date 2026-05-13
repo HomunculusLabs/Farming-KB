@@ -24,35 +24,12 @@ sources:
 
 ## Overview
 
-Psilocybe cyanescens, commonly known as the wavy caps mushroom or blue halos, is a potent psilocybin-containing mushroom in the family Hymenogastraceae. It is one of the most widely distributed and psychoactively powerful psilocybian mushrooms in the temperate world, noted for its distinctive wavy cap margin and intense blue bruising reaction upon handling. Originally described from Kew Gardens in England in 1910, P. cyanescens has since been documented across Europe, North America, and parts of the [[guzman-allen-gartz-africa-southern-hemisphere-underexplored-neurotropic-fungi]], largely as a result of its association with human-modified landscapes.
-
-## Taxonomy and Classification
-
-- **Kingdom:** Fungi
-- **Division:** Basidiomycota
-- **Class:** Agaricomycetes
-- **Order:** Agaricales
-- **Family:** Hymenogastraceae
-- **Genus:** Psilocybe
-- **Species:** P. cyanescens Wakef. (1910)
-
-The specific epithet "cyanescens" refers to the species' tendency to develop intense blue discoloration when bruised or damaged, caused by the oxidation of psilocin. The species was first described by Elsie Wakefield in 1910 from specimens collected on the grounds of the Royal Botanic Gardens, Kew, in London, England. It belongs to the Psilocybe cyanescens complex, which includes several closely related taxa with overlapping morphological features and psilocybin content.
-
-### Related Species
-
-- **[[psilocybe-allenii]]:** Described from the Pacific Northwest of North America, morphologically very similar; distinguished by slightly larger spores and a less pronounced wavy cap margin
-- **[[stamets-psi-psilocybe-azurescens-species-guide]]:** The most potent known psilocybian mushroom, native to the Pacific coast of the United States; larger and more robust than P. cyanescens
-psilocybe subaeruginosa nosa:** Australian species, similarly potent, found on woody debris in Eucalyptus forests
+Psilocybe cyanescens, commonly known as the wavy caps mushroom or blue halos, is a potent psilocybin-containing mushroom in the family Hymenogastraceae. It is one of the most widely distributed and psychoactively powerful psilocybian mushrooms in the temperate world, noted for its distinctive wavy cap margin and intense blue bruising reaction upon handling. Originally described from Kew Gardens in England in 1910, P. cyanescens has since been documented across Europe, North America, and parts of the [[psilocybe-allenii]]:** Described from the Pacific Northwest of North America, morphologically very similar; distinguished by slightly larger spores and a less pronounced wavy cap margin
 - **[[psilocybe-serbica]]:** European species from the Balkans, part of the same species complex
 
 ## Morphology
 
-Psilocybe cyanescens is a relatively small to medium-sized mushroom with [[metzner-three-distinctive-features-shamanic-entheogenic-ceremonies]]:
-
-- **Cap (Pileus):** 15–50 mm diameter when expanded; convex to broadly convex when young, becoming broadly umbonate to plane with age; the margin is characteristically undulate (wavy) to strongly incurved at maturity — the species' most diagnostic field character; surface smooth, viscid when moist from a separable gelatinous pellicle, hygrophanous; color ranging from caramel-brown to dark chestnut-brown when moist, fading to pale ochre or buff when dried; bruises intensely blue where handled or damaged
-- **Gills (Lamellae):** Adnexed to adnate (slightly notched or broadly attached to the stem), close to subdistant; initially pale grayish, darkening to purplish-brown with spore maturity; edges whitish and fringed; bruise blue when damaged
-- **Stem (Stipe):** 40–100 mm long × 2–4 mm thick; cylindrical, slightly enlarged at the base; covered in fine white fibrils (fibrillose) that may form a subtle cortina-like veil in young specimens; white to yellowish, bruising intensely blue-green; solid but somewhat flexible; partial veil often leaving a faint annular zone on the upper stem
-- **[[spore-print]]:** Dark purplish-brown to nearly black
+Psilocybe cyanescens is a relatively small to medium-sized mushroom with [[spore-print]]:** Dark purplish-brown to nearly black
 - **Spores:** Ellipsoid to subrhomboidal in face view, slightly inequilateral in side view, 9–12 × 6–8 µm, thick-walled, with a distinct germ pore
 - **Odor:** Farinaceous (mealy or flour-like), sometimes described as slightly radish-like
 - **Taste:** Farinaceous, mild
@@ -87,3 +64,87 @@ The species is closely associated with human-modified environments, particularly
 Fruiting typically occurs in cool, wet conditions from late September through December, with peak fruiting in October and November. Heavy rainfall followed by cool temperatures (8–12°C) triggers prolific fruiting. The species can form extensive mycelial mats in mulched areas, producing enormous fruitings of hundreds to thousands of mushrooms.
 
 ## Chemistry and Potency
+
+## Overview
+
+Psilocybe Cyanescens represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish psilocybe cyanescens
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving psilocybe extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Psilocybe Cyanescens finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for psilocybe cyanescens. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+psilocybe cyanescens and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Psilocybe Cyanescens has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of psilocybe cyanescens into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[grass-seed-cultivation-of-psilocybe-species]]
+- [[psilocybe-fascicata]]
+- [[psilocybe-plutonia]]
+- [[psilocybe-strictipes-entity]]

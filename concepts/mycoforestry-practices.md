@@ -7,61 +7,9 @@ tags: [reference]
 sources:
   - "raw/papers/mushrooms-fungi-from-around-the-world.md"
 ---
-Mycoforestry is a newly emerging science, an offshoot of ecoforestry practices with an emphasis on the role of beneficial fungi. It represents the application of mycological knowledge to [[mollison-pdc-forest-management-products]], restoration, and sustainable timber production, recognizing that fungi are essential partners in maintaining forest health, soil fertility, and ecosystem resilience.
+Mycoforestry is a newly emerging science, an offshoot of ecoforestry practices with an emphasis on the role of beneficial fungi. It represents the application of mycological knowledge to [[arbuscular-mycorrhizal-fungi-biology-symbiosis]] may be 10 to 100 times greater than the surface area of leaves in a forest. As a result, the growth of plant partners is accelerated. Plants with [[permplant-willows-salix-erosion-control-fodder]] is needed.
 
-## The Mycorrhizal Foundation
-
-Mycorrhizal mushrooms form mutually beneficial relationships with pines and other plants. In fact, most plants from grasses to Douglas firs have mycorrhizal partners. The mycelia of fungal species that form exterior sheaths around the roots of partner plants are termed ectomycorrhizal, while those that invade the interior root cells of host plants are labeled endomycorrhizal, currently preferred as vesicular arbuscular mycorrhizae (VAM).
-
-Both plant and mycorrhizae benefit from this association. Because ectomycorrhizal mycelium grows beyond the plant's roots, it brings distant nutrients and moisture to the host plant, extending the absorption zone well beyond the root structure. The mycelium dramatically increases the plant's ingestion of nutrients, nitrogenous compounds, and essential elements such as phosphorus, copper, and zinc as it decomposes surrounding debris.
-
-David Perry (1994) postulates that the surface area of [[arbuscular-mycorrhizal-fungi-biology-symbiosis]] may be 10 to 100 times greater than the surface area of leaves in a forest. As a result, the growth of plant partners is accelerated. Plants with [[arbuscular-mycorrhizal-fungal-diversity-patterns-distribution]] partners can also resist diseases far better than those without. Fungi benefit from the relationship because it gives them access to plant-secreted sugars, mostly hexoses that the fungi convert to mannitols, arabitols, and erythritols.
-
-## Nutrient Transport Between Species
-
-One of the most exciting discoveries in the field of mycology is that mycorrhizae can transport nutrients to trees of different species. One mushroom species can connect many acres of a forest in a continuous network of cells. In one experiment, researchers compared the flow of nutrients via the mycelium between three trees: a Douglas fir, a paper birch, and a western red cedar. The Douglas fir and paper birch shared the same ectomycorrhiza, while the cedar had an endomycorrhiza.
-
-The researchers covered the Douglas fir to simulate deep shade, thus lowering the tree's ability to photosynthesize sugars. In response, the mycorrhizae channeled sugars, tracked by radioactive carbon, from the root zone of the birch to the root zone of the fir. More than 9 percent of the net carbon compounds transferred to the fir originated from the birch's roots. The amount of sugar transferred was directly proportional to the amount of shading (Simard et al. 1997).
-
-The experiment showed that a common mycelial net could unite three species of trees and underscored a remarkable ability of mycorrhizal fungi: mycorrhizae can keep diverse species of trees in forests fed, particularly younger trees struggling for sunlight. The mycelium guards the forest's overall health, budgeting and multidirectionally allocating nutrients.
-
-## The Guiding Principles of Mycoforestry
-
-As with any new scientific path, guidelines help steer the course of research and the development of new implementation strategies. The guiding principles include:
-
-Use native species of fungi in the habitats needing restoration.
-
-Amplify saprophytic fungi based on available wood substrates.
-
-Select species known to help plant communities.
-
-Select mushroom species that attract insects whose larvae are food for fish and birds.
-
-Select fungal species according to their interactions with bacteria and plants.
-
-Choose species that compete with disease rot fungi such as Armillaria species and Heterobasidion annosum by using mycorestorative saprophytes like Hypholoma, Psilocybe, Trametes, Ganoderma, Sparassis, and allies.
-
-Choose species of known medicinal or culinary value if economically valuable mushrooms help tilt the balance in favor of preservation.
-
-Promote ground contact with fallen trees so they can reenter the soil food chain.
-
-Leave snags to sustain bird and insect populations.
-
-Use spored oils in chain saws, chippers, and cutting tools so that wood debris is immediately put into contact with fungal spores, speeding up decomposition.
-
-Retain wood debris on-site, and place debris around newly planted trees, along roads, or wherever [[permplant-willows-salix-erosion-control-fodder]] is needed.
-
-Only burn wood debris as a last-ditch measure for [[hamilton-pest-and-disease-control-organic]].
-
-Use mycorrhizal spore inoculum when replanting forestlands, since seedlings cultivated in pasteurized or constructed soils on tree nurseries typically lack mycorrhizae.
-
-## Matching Mycorrhizal Species with Trees
-
-Thousands of mushroom species form mycorrhizal relationships with trees, and most vascular plants, especially trees, can host diverse populations of mycorrhizae. It has been estimated that in the lifetime of an individual Douglas fir, more than 200 species of mycorrhizal fungi live symbiotically in and on its roots. Those mushroom species that mycorrhize with the largest number of host tree species have the greatest mycoforestry potential.
-
-By far the preferred mycorrhizae for trees are Rhizopogons, Pisolithus, and Glomus species. These inedible mushrooms, which resemble little puffballs, mycorrhize with about 80 percent of all trees in temperate climates. In fact, these native puffball-like mushrooms are so ubiquitous that they compete with the truffles, chanterelles, or matsutake inoculated by wishful growers.
-
-Among the notable pairings: Glomus intraradices (endomycorrhizae) partners with cedars and redwoods. Pisolithus tinctorius (ectomycorrhizae) partners with pines. Rhizopogon parksii (endomycorrhizae) partners with deciduous trees. [[growing-gourmet-mycorrhizal-gourmet-mushrooms]] mushrooms include Boletus edulis with pines, Cantharellus cibarius with oaks and firs, and Tricholoma matsutake with pines.
+Only burn wood debris as a last-ditch measure for [[growing-gourmet-mycorrhizal-gourmet-mushrooms]] mushrooms include Boletus edulis with pines, Cantharellus cibarius with oaks and firs, and Tricholoma matsutake with pines.
 
 ## The Cortes Island Mycoforestry Research Project
 
@@ -88,3 +36,88 @@ The added expense does not thrill most investment loggers, who wish to maximize 
 The current practice of burning or hauling wood debris robs biomass from the carbon cycle. Decomposition by fungi buffers carbon dioxide emission and cycles much of the gas back into the flourishing ecosystem, since carbon dioxide is heavier than air and permeates soils where plant cells absorb it as raw material for creating cellulose, lignin, carbohydrates, proteins, and sterols.
 
 ## See Also
+
+## Overview
+
+Mycoforestry Practices represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish mycoforestry practices
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving mycoforestry extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Mycoforestry Practices finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for mycoforestry practices. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+mycoforestry practices and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Mycoforestry Practices has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of mycoforestry practices into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[cortes-island-mycoforestry-project]]
+- [[mycoforestry]]
+- [[mycoforestry-applications]]
+- [[mycoforestry-forest-restoration]]
+- [[mycoforestry-fungal-forest-restoration]]

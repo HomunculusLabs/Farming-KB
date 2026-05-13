@@ -1,23 +1,8 @@
 ---
 title: Mushroom Spore Discharge Bullers Drop
 created: 2026-05-11
-tags: [[mycology]], fungi, spores, ballistospore, biophysics]
-date: 2026-05-11
-updated: 2026-05-11
-sources:
-  - /Users/t3rpz/wiki/raw/papers/mr-bloomfields-orchard---the-mysterious-world-of-mushrooms-molds-and-mycologists.md
-type: concept
----
-
-# Mushroom Spore Discharge and Buller's Drop Mechanism
-
-## Overview
-
-The mechanism by which mushrooms launch their spores from gill surfaces is one
-of the most elegant examples of biophysics in the natural world. Discovered
-through more than a century of research culminating in the work of [[bloomfield-john-webster-ballistospore-discharge-discovery]]
-and [[nicholas-money]], the process relies on the explosive coalescence of water
-droplets on the spore surface. A [[single-spore-isolation-and-monokaryon-culture]], only ten-millionths of a meter
+tags: [[bloomfield-john-webster-ballistospore-discharge-discovery]]
+and [[single-spore-isolation-and-monokaryon-culture]], only ten-millionths of a meter
 in length, is catapulted from its gill with an acceleration that would
 atomize a human being, reaching a speed equivalent to 400 miles per hour at
 human scale.
@@ -104,15 +89,7 @@ maintenance of the humid microenvironment between the gills.
 
 ## Ecological Significance
 
-The precision of the [[basidiospore-discharge-mechanism]] is ecologically critical. Spores must
-be launched with enough force to clear the gill surface but not so much that
-they strike the opposing gill. The horizontal distance between gills is
-precisely calibrated to the spore's ballistic trajectory, which depends on
-spore size, drop size, and the local humidity that governs condensation
-rates.
-
-Once beneath the cap, spores are swept away by air currents created by
-[[bloomfield-mushroom-evaporative-cooling-and-thermal-regulation]] from the mushroom surface. This combination of active
+The precision of the [[bloomfield-mushroom-evaporative-cooling-and-thermal-regulation]] from the mushroom surface. This combination of active
 ballistic launch and passive wind dispersal allows a single mushroom to
 release millions or billions of spores over its fruiting period, each one
 potentially colonizing new substrate.

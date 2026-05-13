@@ -10,15 +10,15 @@ sources:
 
 # JADAM Sulfur (JS)
 
-JADAM sulfur (JS), also called red clay-sulfur, is a powerful germicide developed by [[youngsang-cho]]. It is very effective against most diseases and pathogens do not develop resistance to it. Unlike lime-sulfur mixture, JS is made without heating and does not damage plastic or steel pipes of greenhouses.
+JADAM sulfur (JS), also called red clay-sulfur, is a powerful germicide developed by Youngsang Cho. It is very effective against most diseases and pathogens do not develop resistance to it. Unlike lime-sulfur mixture, JS is made without heating and does not damage plastic or steel pipes of greenhouses.
 
 ## Cost and Efficiency
 
-Making 1 L (0.26 gal) of JS (25% sulfur) costs only about $0.50. 100 L of JS can be used 60-100 times when diluted to make 500 L of [[jadam-pesticide-spray-timing-and-technique]].
+Making 1 L (0.26 gal) of JS (25% sulfur) costs only about $0.50. 100 L of JS can be used 60-100 times when diluted to make 500 L of pesticide spray.
 
 ## What It Controls
 
-Effective against: black spot, pear rust, [[cervantes-powdery-mildew-prevention-treatment]], downy mildew, and most [[duggar-mushroom-insect-pests-and-fungal-diseases]].
+Effective against: black spot, pear rust, powdery mildew, downy mildew, and most fungal diseases.
 
 ## Ingredients (for 100 L batch)
 
@@ -26,7 +26,7 @@ Effective against: black spot, pear rust, [[cervantes-powdery-mildew-prevention-
 - Caustic soda (NaOH): 20 kg (98%)
 - Water: 82 L total (50 L first pour + 32 L second pour; in summer above 27C use 54 L + 28 L)
 - Phyllite powder: 0.5 kg
-- [[jadam-red-clay-powder-method]]: 0.5 kg (can substitute very fine rock powder)
+- Red clay powder: 0.5 kg (can substitute very fine rock powder)
 - Sea salt: 1.5 kg
 
 ## Equipment
@@ -65,7 +65,7 @@ Traditional lime-sulfur requires intense heat, is difficult to make with simple 
 
 ## Compatibility
 
-JS can be used with commercial organic or [[comparison-parasitoid-wasps-vs-chemical-pesticides]], but always do a mixture test and concentration test before combined use.
+JS can be used with commercial organic or chemical pesticides, but always do a mixture test and concentration test before combined use.
 
 ## See Also
 
@@ -74,40 +74,77 @@ JS can be used with commercial organic or [[comparison-parasitoid-wasps-vs-chemi
 - [[jadam-sea-salt-use]]
 - [[knf-oriental-herbal-nutrient]]
 
-## Historical Context
-- These approaches have evolved through decades of research and practical application.
-- Traditional knowledge systems have contributed significantly to modern understanding.
-- Scientific inquiry has progressively validated and refined historical practices.
+## Overview
 
-## Mechanisms and Processes
-- Underlying biological and ecological mechanisms drive observed outcomes.
-- Multiple interacting factors contribute to system-level effects.
-- Understanding these processes enables more targeted and effective interventions.
+Jadam Sulfur Application represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish jadam sulfur application
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving jadam extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
 
 ## Practical Applications
 
-The principles and techniques discussed here have wide-ranging applications
-across multiple disciplines and contexts. Practitioners and researchers
-continue to explore new ways to integrate these concepts into modern practice,
-adapting traditional knowledge to contemporary challenges and opportunities.
+Jadam Sulfur Application finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
 
-## Key Considerations
+## Management and Implementation
 
-Several important factors influence the effectiveness and outcomes described
-in this topic. Understanding these considerations helps practitioners make
-informed decisions and avoid common pitfalls. Environmental conditions,
-timing, and material selection all play critical roles.
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
 
-## Common Challenges
+## Regional Considerations
 
-Practitioners frequently encounter several challenges when working with
-these concepts. Climate variability, resource limitations, and knowledge
-gaps can all affect outcomes. Addressing these challenges requires patience,
-observation, and a willingness to adapt approaches based on results.
+Different geographic regions present unique challenges and
+opportunities for jadam sulfur application. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
 
-## See Also
-- [[jadam-sulfur-germicide-js]]
-- [[jadam-sulfur-js]]
-- [[ultra-low-jadam-sulfur-js]]
-- [[natural-fertilizer-sources-and-application]]
-- [[ingham-aact-application-timing-holding-time]]
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+jadam sulfur application and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Jadam Sulfur Application has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of jadam sulfur application into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and

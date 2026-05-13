@@ -22,54 +22,18 @@ sources:
 ## Overview
 
 Lepista sordida, the lilac-legged Blewit, is an agaricoid mushroom in the
-Tricholomataceae. A close relative of the edible [[spore-print]]:** Pinkish-buff to pale salmon
-- **Spores:** Broadly ellipsoid, 5.5-7.5 × 4-5.5 μm, roughly verruculose
-- **Cheilocystidia:** Ventricose to cylindrical, 20-35 × 6-12 μm
-
-## Distribution and Habitat
-
-- **Range:** Circumboreal temperate; Europe, [[psilocybin-north-america-pacific-northwest]], Asia, Australia
+Tricholomataceae. A close relative of the edible [[psilocybin-north-america-pacific-northwest]], Asia, Australia
 - **Habitat:** Grasslands, meadows, parks, lawns, compost heaps, disturbed
   ground; notably tolerant of urban and agricultural settings
 - **Season:** Late summer to early winter (August-December N. Hemisphere)
 - **Frequency:** Common to locally abundant; fruits in flushes after rain
 
-Unlike [[agaricus-bisporus]] methods. Requires peat-based casing layer; fruits at
-12-18 °C with 85-95% humidity. Spawn colonizes grain in 10-14 days at 22-25 °C.
-Cycle: 4-6 weeks spawn to first flush. Not commercially significant but
-adaptable to compost suggests potential.
-
-## Ecological Role
-
-Primarily saprotrophic — decomposes grassland and [[solomon-compost-organic-matter]] matter. Some
-evidence of weak ectomycorrhizal capability. Contributes to [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]]
-in grassland ecosystems. Presence in urban parks indicates healthy soil
-microbial communities and moderate organic matter.
-
-## See Also
-
-- [[lepista-saeva]]
+Unlike [[solomon-compost-organic-matter]] matter. Some
+evidence of weak ectomycorrhizal capability. Contributes to [[lepista-saeva]]
 
 - clitocybe nuda entity — Wood blewit, larger and more prized edible relative
-- [[genetic-improvement-agaricus-bisporus-molecular-approaches]] — [[growing-gourmet-button-mushroom-agaricus-cultivation]]; similar compost cultivation
-- [[calocybe-gambosa]] — St. George's mushroom; grassland agaric comparison
-## Practical Considerations
-
-When working with Lepista sordida, several practical factors should be
-carefully considered to achieve optimal results. These include
-the specific conditions of the implementation context, available
-resources, timing requirements, and the interactions between this
-topic and other elements of the broader system. A holistic view
-that considers these interconnections produces better outcomes.
-
-Environmental conditions such as temperature, moisture, and
-seasonal patterns significantly influence results. Monitoring these
-variables and adapting practices accordingly is essential for success.
-The most effective practitioners develop keen observation skills and
-respond flexibly to changing conditions rather than following rigid
-protocols regardless of circumstances or local variation.
-
-[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
+- [[growing-gourmet-button-mushroom-agaricus-cultivation]]; similar compost cultivation
+- [[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -87,3 +51,87 @@ and adaptive capacity helps buffer against unpredictable events and
 conditions. This approach recognizes that some degree of uncertainty is
 inherent in working with natural systems and plans accordingly rather
 than assuming perfect predictability or control over outcomes.
+
+## Overview
+
+Lepista Sordida represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish lepista sordida
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving lepista extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Lepista Sordida finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for lepista sordida. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+lepista sordida and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Lepista Sordida has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of lepista sordida into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[lepista-nuda]]
+- [[lepista-nuda-entity-the-mushroom-cultivator]]
+- [[lepista-saeva]]
+- [[staycare-phanerochaete-sordida-in-bioremediation]]

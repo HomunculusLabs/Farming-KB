@@ -108,13 +108,8 @@ Conservation of montane grasslands is important for the genus as a whole. Severa
 
 ## See Also
 
-- [[gladiolus-cardinalis]]
 - [[gladiolus-communis]]
-- [[crocosmia-lucifer]]
 - [[dietes-grandiflora]]
-- [[freesia-refracta]]
 - [[sisyrinchium-angustifolium]]
-- [[babiana-stricta]]
 - [[watsonia-borbonica]]
-- [[iris-germanica]]
 - [[crocus-sativus]]

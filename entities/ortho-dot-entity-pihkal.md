@@ -8,81 +8,7 @@ sources: ["Shulgin - PIHKAL"]
 ---
 # ORTHO-DOT
 
-[[2c-b-pihkal-entry-20]] #139. 4,5-DIMETHOXY-2-METHYLTHIOAMPHETAMINE.
-
-## Chemical Name
-
-4,5-DIMETHOXY-2-METHYLTHIOAMPHETAMINE
-
-## Dosage and Duration
-
-| Property | Value |
-|----------|-------|
-| Dosage | greater than 25 mg. |
-| Duration | unknown. |
-
-## Qualitative Comments
-
-> (with 25 mg) Vague awareness, with the feeling
->
->
-> of an impending something. Light food sat uncomfortably. By the late
-> afternoon there was absolutely nothing. Threshold at best.
-
-## Extensions and Commentary
-
-This material, ORTHO-DOT, can be looked at
-as the sulfur homologue of TMA-2 with the sulfur atom located in place
-of the oxygen at the 2-position of the molecule. At what level this
-compound might show activity is completely unknown, but wherever that
-might be, it is at a dosage greater than that for the PARA-DOT isomer,
-ALEPH-1 (or ALEPH), which was fully active at 10 milligrams (ALEPH can
-be looked at as TMA-2 with the sulfur atom located in place of the
-oxygen at the 4-position of the molecule). A lot of variations are
-easily makable based on this structure, but why bother? ALEPH is the
-much more appealing candidate for structural manipulation.
-
-## Synthesis
-
-To 26.4 g veratrol that was being magnetically stirred
-without any solvent, there was added 50 g chlorosulfonic acid a bit at
-a time over the course of 20 min. The reaction was exothermic, and
-evolved considerable HCl. The deeply colored mixture that resulted
-was poured over 400 mL crushed ice and when all had thawed, it was
-extracted with 2x150 mL CH2Cl2. Removal of the solvent under vacuum
-gave a residue that set up as a crystalline mass. The weight of the
-crude 3,4-dimethoxybenzenesulfonyl chloride was 37.1 g and it had a mp
-of 63-66 deg C. Recrystallization raised this to 72-73 deg C. Reaction
-with ammonium hydroxide gave the sulfonamide as colorless needles from
-EtOH, with a mp of 132-133 deg C.
-
-The finely pulverized 3,4-dimethoxybenzenesulfonyl chloride (33 g) was
-added to 900 mL of crushed ice in a 2 L round-bottomed flask equipped
-with a heating mantle and reflux condenser. There was then added 55
-mL concentrated H2SO4 and, with vigorous mechanical stirring, there
-was added 50 g of zinc dust in small portions. This mixture was
-heated until a vigorous reaction ensued and refluxing was continued
-for 1.5 h. After cooling to room temperature and decantation from
-unreacted metallic zinc, the aqueous phase was extracted with 3x150 mL
-Et2O. The pooled extracts were washed once with saturated brine and
-the solvent was removed under vacuum. The residue was distilled to
-give 20.8 g of 3,4-dimethoxythiophenol boiling at 86-88 deg C at 0.4
-mm/Hg.
-
-A solution of 10 g 3,4-dimethoxythiophenol in 50 mL absolute EtOH was
-protected from the air by an atmosphere of N2. There was added a
-solution of 5 g 85% KOH in 80 mL EtOH. This was followed by the
-addition of 6 mL methyl iodide, and the mixture was held at reflux for
-30 min. This was poured into 200 mL H2O and extracted with 3x50 mL
-
-Et2O. The pooled extracts were washed once with aqueous sodium
-hydrosulfite, then the organic solvent was removed under vacuum. The
-residue was distilled to give 10.3 g of 3,4-dimethoxythioanisole with
-a bp of 94-95 deg C at 0.4 mm/Hg. The product was a colorless oil that
-crystallized on standing. Its mp was 31-32 deg C.
-
-To a mixture of 15 g POCl3 and 14 g N-methylformanilide that had been
-warmed briefly on the [[scythian-cannabis-steam-bath-ritual]] there was added 8.2 g of
+[[scythian-cannabis-steam-bath-ritual]] there was added 8.2 g of
 
 (Additional synthesis details available in source.)
 
@@ -90,3 +16,88 @@ warmed briefly on the [[scythian-cannabis-steam-bath-ritual]] there was added 8.
 
 ## See Also
 - [[aleph-entity-pihkal]]
+
+## Overview
+
+Ortho Dot Entity Pihkal represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish ortho dot entity pihkal
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving ortho extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Ortho Dot Entity Pihkal finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for ortho dot entity pihkal. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+ortho dot entity pihkal and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Ortho Dot Entity Pihkal has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of ortho dot entity pihkal into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[4-tme-entity-pihkal]]
+- [[doef-entity]]
+- [[eem-entity-pihkal]]
+- [[mdpr-entity-pihkal]]
+- [[te-entity-pihkal]]

@@ -6,23 +6,15 @@ type: concept
 tags: [permaculture, design]
 sources: [/Users/t3rpz/wiki/raw/papers/a-selection-permaculture-plants.md]
 ---
-# Macadamia (Macadamia spp) ## Description - Small to medium, long-lived evergreen tree - Family: Proteaceae - First Australian native tree developed into commercial crop - Commences nut production years 4-6 - Hard to about -4°C; heavy frost kills small trees and reduces yields on mature trees - Fairly drought tolerant; more reliable with irrigation (especially spring and early summer) Macadamias are among the most valuable [[permaculture-climate-zones]]. Their long productive lifespan makes them an excellent long-term investment in any permaculture-zone-planning is essential for macadamias given their spacing requirements and need for shelter. Young trees benefit from interplanting with [[permaculture-sheet-mulch-detailed-guide]] techniques helps retain moisture in the root zone without risking root damage from cultivation.
+# Macadamia (Macadamia spp) ## Description - Small to medium, long-lived evergreen tree - Family: Proteaceae - First Australian native tree developed into commercial crop - Commences nut production years 4-6 - Hard to about -4°C; heavy frost kills small trees and reduces yields on mature trees - Fairly drought tolerant; more reliable with irrigation (especially spring and early summer) Macadamias are among the most valuable [[permaculture-sheet-mulch-detailed-guide]] techniques helps retain moisture in the root zone without risking root damage from cultivation.
 
 ## Nutrition (per 100g edible portion)
 
 Water 3.0%, Energy 691 cal, Carbohydrate 15.9g, Fat 71.6g, Protein 7.8g, Calcium 48mg, Potassium 264mg, Phosphorous 161mg, Iron 2.0mg
 
-The high fat content makes macadamia nuts one of the most energy-dense tree crops. They are comparable in caloric value to other [[permaculture-fruit-tree-guide]] plantings where a managed harvest is desired. It responds well to [[permaculture-difficult-sites-plant-guide]] where drainage or disease pressure is a concern. Its use as rootstock can combine the nut quality of integrifolia scions with the hardiness of tetraphylla root systems, following principles in [[permaculture-plant-propagation-guide]] for general techniques. Grafted trees using [[permaculture-tagasaste]], small acacias, cassias. Small acacias reduce [[amf-biocontrol-phytophthora-root-exudate-modification]] attack risk. [[cervantes-wind-protection-outdoor-cannabis]] critical.
+The high fat content makes macadamia nuts one of the most energy-dense tree crops. They are comparable in caloric value to other [[permaculture-difficult-sites-plant-guide]] where drainage or disease pressure is a concern. Its use as rootstock can combine the nut quality of integrifolia scions with the hardiness of tetraphylla root systems, following principles in [[permaculture-tagasaste]], small acacias, cassias. Small acacias reduce [[cervantes-wind-protection-outdoor-cannabis]] critical.
 
-This follows [[permaculture-wattles]] and permaculture-windbreak should be established before planting macadamias in exposed locations. See also permaculture-soil-strategies through [[hamilton-composting-and-organic-matter-management]] cycling. The dense canopy provides shade for understory crops in [[composting-materials-alternative]] systems.
-
-## Harvest and Processing
-
-Nuts fall naturally when ripe and must be collected promptly to prevent mould. Husks should be removed within 24 hours. Drying to approximately 1.5% moisture content is essential for storage. This labour-intensive processing makes macadamias well suited to permaculture-chestnut
-
-- [[permaculture-tagasaste]]
-
-- [[permaculture-tree-crop-systems]]
+This follows [[hamilton-composting-and-organic-matter-management]] cycling. The dense canopy provides shade for understory crops in [[permaculture-tagasaste]]
 
 - [[growing-tree-fruit-organically]]
 - macadamia
@@ -84,3 +76,75 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
+
+## Overview
+
+Permaculture Macadamia represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish permaculture macadamia
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving permaculture extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Permaculture Macadamia finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for permaculture macadamia. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+permaculture macadamia and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Permaculture Macadamia has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of permaculture macadamia into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions

@@ -21,17 +21,7 @@ penetrates the host tissue, and develops into a thallus — a saclike structure 
 absorbs nutrients from the host. After a period of growth, the thallus develops exit
 ducts and releases hundreds of new zoospores, perpetuating the infection cycle.
 
-The chytrid [[chitin-chitosan-fungal-cell-wall]] contains microfibrils of chitin, the same compound that comprises
-the exoskeletons of insects and crustaceans. This biochemical similarity to animals
-reflects the deep evolutionary history of the fungi and their closer relationship to
-the animal kingdom than to plants.
-
-## Olpidium as a Viral Vector
-
-Olpidium brassicae is a root-infecting chytrid that causes relatively minor direct
-damage to its plant hosts. Its true significance lies in its role as a vector for plant
-viruses. Viral particles attach to the surface of zoospores as they swim through
-[[fungal-competition-survival-contaminated-soils]]. When the fungus infects a plant root, it transmits rod-shaped,
+The chytrid [[fungal-competition-survival-contaminated-soils]]. When the fungus infects a plant root, it transmits rod-shaped,
 RNA-carrying viruses, including the agent that causes lettuce big-vein disease.
 
 This mode of viral transmission — where a fungal vector carries virus particles on its
@@ -64,21 +54,7 @@ farmers encourage an abundance of bacteria and fungi that degrade chitin. The de
 of the chytrid resting spores is a byproduct of this radical change in soil ecology.
 
 This approach represents a form of biological control that works not by directly killing
-the pathogen but by shifting the soil [[edaphic-factors-microbial-community-structure]] in a direction that is
-unfavorable to the pathogen's survival. The chitin-amended soil becomes a hostile
-environment for chytrid spores, which are broken down by the very organisms that
-proliferate in response to the added chitin.
-
-## Rumen Chytrids and Digestive Symbiosis
-
-Anaerobic chytrids inhabit the rumen — the largest of the four stomach chambers — of
-large herbivores including cows. In the soup that churns inside a cow, chytrids
-decompose plant fiber or cellulose. By altering the chemical composition of this
-material, anaerobic chytrids facilitate the growth of other microorganisms critical to
-the digestive mechanism, including the bacteria responsible for methane production.
-
-This food processing activity parallels the ecological role of Ingoldian fungi in
-creeks, where [[bloomfield-ingoldian-aquatic-fungi-spore-dispersal]] [[query-can-fungi-break-down-plastic-pollution]] [[dighton-fungal-decomposition-leaf-litter-dynamics]] and make its nutrients available
+the pathogen but by shifting the soil [[bloomfield-ingoldian-aquatic-fungi-spore-dispersal]] [[dighton-fungal-decomposition-leaf-litter-dynamics]] and make its nutrients available
 to other organisms in the food web. In both cases, chytrids occupy a foundational
 position in a decomposition-based ecosystem, converting complex plant polymers into
 forms that other organisms can utilize.
@@ -118,8 +94,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[dom]]
 - [[spore]]
-- [[decomposition]]
 - [[bloomfield-chytrid-fungi-early-fungal-evolution]]
 - [[bloomfield-environmental-pollution-overcollection-impact-fungi]]

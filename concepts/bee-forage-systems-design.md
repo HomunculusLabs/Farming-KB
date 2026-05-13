@@ -23,12 +23,7 @@ A bee forage system is a deliberately designed assemblage of plants that provide
 ### Spring (September-November)
 - **Prunus spp**: Nectar and pollen
 - **Eucalyptus**: E. camaldulensis, E. cornuta, E. diversicolor, E. globulus, E. patens
-- **Clovers**: Up to 400 kg/ha nitrogen yield; [[mushroom-compost]] particularly high
-- **Lucerne**: Very long flowering period begins; 78-285 kg/ha/day
-- **Tagasaste**: Nectar and pollen through winter into spring
-- **Willows**: Nectar/pollen depending on sex of tree
-- **Citrus**: High honey producers
-- **[[permaculture-japanese-raisin-tree-hovenia-dulcis]] tree**: Spring honey plant
+- **Clovers**: Up to 400 kg/ha nitrogen yield; [[permaculture-japanese-raisin-tree-hovenia-dulcis]] tree**: Spring honey plant
 
 ### Summer (December-February)
 - **Eucalyptus**: E. calophylla (marri -- major WA producer), E. cornuta, E. diversifolia, E. dumosa, E. eremophila, E. ficifolia
@@ -58,67 +53,97 @@ Supplement native forest with multipurpose species that flower out of season wit
 Introduce bee forage plants directly into pasture:
 - Clovers, cowpea, lotus, lucerne, lupins
 - Tagasaste at orchard margins
-- These also serve as [[nitrogen-fixing-trees-and-shrubs]]
-
-### Orchard Understory
-Plant bee forage beneath [[comparison-pruning-fruit-trees-vs-grafting-fruit-trees]]:
+- These also serve as [[comparison-pruning-fruit-trees-vs-grafting-fruit-trees]]:
 - Tagasaste and lucerne as universal fruit tree companions
 - Garlic, chives, and herbs for additional bee attraction
-- Allow some herbs to flower (see [[edible-aquatic-plants]] at pond edges provide additional forage:
-- Water mint
-- Marsh marigold
-- Iris species
-
-## Key Honey-Producing Species
-
-- **Eucalyptus melliodora** (yellow box): Considered the best honey of all eucalypts
-- **Eucalyptus salmonophloia** (salmon gum): Choice honey
-- **Eucalyptus calophylla** (marri): Major honey producer in Western Australia
-- **Chinese tallow tree**: Major honey and pollen plant; moderately dark, exceptionally flavorful honey
-- **Leatherwood** (Eucryphia lucida): Extended nectar flow; prized honey variety
-
-## Integration Notes
-
-- Progressive [[comparison-rotational-grazing-vs-continuous-grazing]] of tagasaste maximizes its flowering period
+- Allow some herbs to flower (see [[comparison-rotational-grazing-vs-continuous-grazing]] of tagasaste maximizes its flowering period
 - Willows flower when few other plants are blooming -- critical for early-season bee support
 - Deciduous trees allow understorey bee plants to grow over winter
-- Combine bee [[free-range-poultry-forage-design-mollison]] with [[pollinator-habitat]] for habitat [[holmgren-permaculture-twelve-design-principles-framework]]
+- Combine bee [[pollinator-habitat]] for habitat [[cover-crops]]
+- [[acacia]]
+- [[chinese-tallow-tree]]
 
-## See Also
+## Overview
 
-- faires-pasture-forage-tree-systems
+Bee Forage Systems Design represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish bee forage systems design
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving bee extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
 
 ## Practical Applications
 
-The principles and techniques discussed here have wide-ranging applications
-across multiple disciplines and contexts. Practitioners and researchers
-continue to explore new ways to integrate these concepts into modern practice,
-adapting traditional knowledge to contemporary challenges and opportunities.
+Bee Forage Systems Design finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
 
-## Key Considerations
+## Management and Implementation
 
-Several important factors influence the effectiveness and outcomes described
-in this topic. Understanding these considerations helps practitioners make
-informed decisions and avoid common pitfalls. Environmental conditions,
-timing, and material selection all play critical roles.
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for bee forage systems design. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+bee forage systems design and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
 
 ## Historical Context
 
-The historical development of this subject reflects centuries of accumulated
-knowledge and practical experience. From traditional methods passed down
-through generations to modern scientific approaches, the evolution continues
-to inform current best practices and research directions.
+Bee Forage Systems Design has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
 
-## Common Challenges
+## Integration Strategies
 
-Practitioners frequently encounter several challenges when working with
-these concepts. Climate variability, resource limitations, and knowledge
-gaps can all affect outcomes. Addressing these challenges requires patience,
-observation, and a willingness to adapt approaches based on results.
+Successful integration of bee forage systems design into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
 
 ## See Also
-- [[cover-crops]]
-- [[doc]]
-- [[acacia]]
-- [[eucalyptus-melliodora]]
-- [[chinese-tallow-tree]]
+
+- [[integrated-poultry-forage-systems-zone-two]]
+- [[leucaena-alley-cropping-tropical-forage]]
+- [[permaculture-designers-manual-animal-forage-systems]]
+- [[savory-animal-days-and-forage-measurement]]
+- [[tropical-pasture-grass-forage-species]]

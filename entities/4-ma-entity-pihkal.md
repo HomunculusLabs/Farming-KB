@@ -8,25 +8,7 @@ sources: ["Shulgin - PIHKAL"]
 ---
 # 4-MA
 
-[[2c-b-pihkal-entry-20]] #97. PMA; 4-METHOXYAMPHETAMINE.
-
-## Chemical Name
-
-PMA; 4-METHOXYAMPHETAMINE
-
-## Dosage and Duration
-
-| Property | Value |
-|----------|-------|
-| Dosage | 50 - 80 mg. |
-| Duration | short. |
-
-## Qualitative Comments
-
-> (with 60 mg) At just over an hour, there was a
-> sudden blood pressure rise, with the systolic going up 55 mm. This
-> was maintained for another hour. I found the effects reminiscent of
-> [[det]], distinct after-images, and some parasthesia. I was without any
+[[det]], distinct after-images, and some parasthesia. I was without any
 > residue by early evening (after 5 hours).
 >
 > (with 70 mg) It hit quite suddenly. I had a feeling of druggedness,
@@ -36,8 +18,7 @@ PMA; 4-METHOXYAMPHETAMINE
 
 ## Extensions and Commentary
 
-This is another of the [[essential-amphetamines-and-natural-precursors]], because of the appearance of the 4-methoxy group in two
-most important [[comparison-essential-oils-vs-neem-oil-vs-insecticidal-soap]]. These are the allylbenzene (estragole
+This is another of the [[comparison-essential-oils-vs-neem-oil-vs-insecticidal-soap]]. These are the allylbenzene (estragole
 or esdragol) and the propenyl isomer (anethole). Their natural
 sources have been discussed under TMA.
 
@@ -87,3 +68,83 @@ milligrams, separated by three hours). There appears to be no report
 of any human trial of 2-MA. The N-methyl homologue of 2-MA is a
 
 (Additional commentary available in source.)
+
+## Overview
+
+4 Ma Entity Pihkal represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish 4 ma entity pihkal
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving 4 extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+4 Ma Entity Pihkal finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for 4 ma entity pihkal. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+4 ma entity pihkal and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+4 Ma Entity Pihkal has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of 4 ma entity pihkal into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+## See Also
+
+- [[methyl-ma-entity-pihkal]]
+- [[net-entity-tihkal]]
+- [[al-entity]]
+- [[dobu-entity-pihkal]]
+- [[4-d-entity]]

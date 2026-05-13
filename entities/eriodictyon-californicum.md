@@ -28,36 +28,11 @@ sources:
   - Kobsa, M. (2010). "Eriodictyon: California's Sacred Herb." Economic Botany, 64(1), 18-30.
 ---
 
-## [[plants-of-the-gods-overview-hallucinogenic-plant-use]]
-
-**Eriodictyon californicum** (Hook. & Arn.) Torr., commonly known as yerba
-santa ("sacred herb" in Spanish), is an evergreen shrub in the family
-Hydrophyllaceae (or Boraginaceae, under modern APG IV classification).
-Native to the western slopes of California and the [[psilocybin-north-america-pacific-northwest]], it
-is one of [[query-what-are-the-most-important-medicinal-mushrooms-and-how-do-i-choose-one]] plants in the pharmacopoeia of
-Native California peoples, who have used it for centuries to treat
-respiratory ailments, [[blesching-cannabis-post-surgery-wounds]], and musculoskeletal pain.
+## [[psilocybin-north-america-pacific-northwest]], it
+is one of [[blesching-cannabis-post-surgery-wounds]], and musculoskeletal pain.
 
 The plant's common name was bestowed by Spanish missionaries who observed
-its central role in Indigenous [[blesching-cannabis-healing-practices-setting-intention-affirmations]]. It entered Western
-pharmacology in the late 19th century and was listed in the US
-Pharmacopoeia from 1894 to 1960 as a respiratory remedy. Its leaves
-contain the flavanone eriodictyol, a potent expectorant and
-bronchodilator.
-
-## Taxonomy and Morphology
-
-**Taxonomy:** Plantae → Tracheophyta → Magnoliopsida → Boraginales →
-**Hydrophyllaceae → *Eriodictyon → *E. californicum***.
-
-Yerba santa is a sticky, resinous evergreen shrub, 1–3 m tall, with
-multiple ascending branches forming a dense, rounded crown. Young stems
-are covered in a whitish, felt-like tomentum; mature stems become
-glabrous and woody.
-
-Leaves are alternate, oblong-lanceolate to ovate, 5–15 cm long and 2–6 cm
-wide, with entire or s[[what-a-plant-knows-phytochrome-red-far-red-light-switch]]ly toothed margins. The upper [[bloomfield-rust-germ-tube-tactile-sensing-leaf-surface-navigation]] is
-dark green and leathery; the lower surface is densely [[soil-heritability-otu-sharing-white-widow-cross-soil-cannabis-endorhiza]]-tomentose.
+its central role in Indigenous [[what-a-plant-knows-phytochrome-red-far-red-light-switch]]ly toothed margins. The upper [[soil-heritability-otu-sharing-white-widow-cross-soil-cannabis-endorhiza]]-tomentose.
 Leaves are coated in sticky resin (primarily eriodictyol and related
 flavonoids) that gives them a characteristic balsamic aroma.
 
@@ -66,11 +41,7 @@ inflorescences). Petals are white to pale lavender, often with purple
 striping. Blooming occurs April through August. Fruit is a small, 2-chambered
 capsule containing 2–4 seeds.
 
-## [[psilocybin-vs-psilocin-distribution-cap-stem]] and Habitat
-
-Native to California (Coast Ranges, Sierra Nevada foothills, Klamath
-Mountains) and southwestern Oregon, at elevations of 150–2,000 m. It
-inhabits chaparral, mixed evergreen [[query-best-native-nitrogen-fixing-plants-for-permaculture-food-forests]], oak woodlands, and dry rocky
+## [[query-best-native-nitrogen-fixing-plants-for-permaculture-food-forests]], oak woodlands, and dry rocky
 slopes, often in post-fire succession communities.
 
 The species prefers well-drained, rocky or sandy soils in full sun to
@@ -88,3 +59,80 @@ terpenoids:
   reducing its viscosity.
 - **Hesperidin and homoeriodictyol** — flavanone glycosides that
   complement eriodictyol's bronchodilatory activity.
+
+## Overview
+
+Eriodictyon Californicum represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish eriodictyon californicum
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving eriodictyon extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Eriodictyon Californicum finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for eriodictyon californicum. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+eriodictyon californicum and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Eriodictyon Californicum has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of eriodictyon californicum into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.

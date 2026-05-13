@@ -52,25 +52,7 @@ DSEs are not a monophyletic group. Molecular phylogenetic studies have revealed 
 - **Pyronemospora** — associated with stressed and degraded habitats
 - **Exophiala** — dark-pigmented fungi found in diverse root environments
 
-The collective group has been informally referred to as the **"Phialocephala fortinii-Acephala applanata (PAC) complex"** in European literature, though this name captures only a fraction of the global DSE diversity. Ongoing metabarcoding surveys continue to reveal new DSE lineages, particularly from understudied tropical and [[guzman-allen-gartz-africa-southern-hemisphere-underexplored-neurotropic-fungi]] ecosystems.
-
-## Colonization Patterns and Anatomy
-
-### Entry and Establishment
-
-DSEs enter roots primarily through natural wounds, root hair zones, or at sites of lateral root emergence. Unlike AMF, which require appressorium-mediated penetration, DSE hyphae can penetrate root epidermal and cortical cells directly, often growing both intercellularly (between cells) and intracellularly (within cells) without forming the highly specialized interface structures seen in mycorrhizal fungi.
-
-The colonization process typically follows these stages:
-
-1. **Soil hyphal growth**: DSE hyphae grow saprotrophically in the rhizosphere, responding to root exudates and chemical signals.
-2. **Root surface colonization**: Hyphae aggregate on the root surface, forming loose hyphal mantles in some species (superficially reminiscent of ectomycorrhizae, though far less organized).
-3. **Cortical penetration**: Hyphae enter the root cortex, growing both between and within cortical cells.
-4. **Microsclerotia formation**: In many species, intracellular hyphae differentiate into dense microsclerotia, which may persist within root tissues for extended periods.
-5. **Systemic colonization**: In some cases, DSE hyphae extend beyond the root cortex into vascular tissues, though this is species-dependent and generally limited compared to vascular pathogens.
-
-### Microsclerotia: The Signature Structure
-
-Microsclerotia are among the most [[metzner-three-distinctive-features-shamanic-entheogenic-ceremonies]] of DSE colonization. These structures consist of:
+The collective group has been informally referred to as the **"Phialocephala fortinii-Acephala applanata (PAC) complex"** in European literature, though this name captures only a fraction of the global DSE diversity. Ongoing metabarcoding surveys continue to reveal new DSE lineages, particularly from understudied tropical and [[metzner-three-distinctive-features-shamanic-entheogenic-ceremonies]] of DSE colonization. These structures consist of:
 
 - **Isodiametric or slightly elongated cells** (5–15 μm diameter) packed densely together
 - **Thick, melanized cell walls** that confer resistance to desiccation, UV radiation, and microbial degradation
@@ -79,35 +61,14 @@ Microsclerotia are among the most [[metzner-three-distinctive-features-shamanic-
 
 Microsclerotia of DSEs are functionally analogous to the vesicles of AMF and the sclerotia of pathogenic fungi, but they occupy an intermediate ecological position. They serve both as survival structures and as interfaces for resource exchange with the host plant.
 
-## Functional Roles [[lichen-biology-and-ecological-significance]]
-
-### Nutrient Acquisition
-
-DSEs contribute to plant nutrition through several mechanisms, though their role is generally more modest than that of arbuscular mycorrhizal fungi:
-
-- **Phosphorus uptake**: Some DSE species can mobilize phosphorus from organic and mineral sources through the production of acid phosphatases and organic acids. However, phosphorus delivery to the host is typically less efficient than in AMF associations because DSEs lack the highly specialized arbuscule interface that facilitates rapid nutrient transfer.
-- **Nitrogen mineralization**: DSEs produce proteases and may facilitate nitrogen uptake from organic matter. In nitrogen-limited ecosystems such as arctic tundra, DSE-mediated nitrogen cycling can be particularly important.
-- **Micronutrient access**: The melanized hyphae of DSEs can chelate and transport micronutrients such as iron, zinc, and manganese. Some DSEs have been shown to accumulate heavy metals, potentially serving a detoxification role in contaminated soils.
-
-Meta-analyses of DSE inoculation experiments have shown highly variable effects on plant nutrient content, with positive effects most consistently observed under low-nutrient conditions and with specific DSE-host combinations.
-
-### Stress Tolerance and Defense
-
-This is arguably the most well-documented and ecologically significant role of DSEs:
-
-- **[[dighton-fungal-drought-tolerance-plant-water-relations]]**: DSE colonization has been shown to improve plant water status through multiple mechanisms: alteration of root hydraulic properties, production of osmoprotectants, and modulation of host stomatal conductance. In several experiments, DSE-inoculated plants maintained higher relative water content and photosynthetic rates under drought conditions.
+## Functional Roles [[dighton-fungal-drought-tolerance-plant-water-relations]]**: DSE colonization has been shown to improve plant water status through multiple mechanisms: alteration of root hydraulic properties, production of osmoprotectants, and modulation of host stomatal conductance. In several experiments, DSE-inoculated plants maintained higher relative water content and photosynthetic rates under drought conditions.
 - **Temperature extremes**: DSEs are remarkably abundant in cold environments (arctic, alpine, and Antarctic ecosystems), where they may help hosts cope with freezing stress through the production of ice-binding proteins, cryoprotectants, and thermal insulation provided by melanized hyphal mats.
 - **Heavy metal tolerance**: Certain DSE species, particularly Cadophora species, are among the dominant root-colonizing fungi in metal-contaminated soils. They can sequester metals in their melanized cell walls, reducing metal translocation to aboveground plant tissues.
-- **[[mycorrhizal-pathogen-resistance-mechanisms]]**: DSE colonization can induce systemic resistance in host plants, potentially through priming of plant defense pathways (jasmonic acid and salicylic acid signaling). Some DSEs produce antifungal compounds that inhibit soil-borne pathogens.
-- **Salinity tolerance**: In saline environments, DSEs have been shown to improve host ion homeostasis, reduce sodium accumulation in shoots, and enhance the activity of antioxidant enzymes.
-
-### Ecosystem-Level Effects
-
-Beyond individual plant interactions, DSEs influence [[fungal-ecosystem-processes-overview]]:
+- **[[fungal-ecosystem-processes-overview]]:
 
 - **Soil aggregation**: DSE hyphae contribute to soil structure through the production of extracellular polymeric substances and physical binding of soil particles, particularly in sandy or degraded soils.
 - **Decomposition and carbon cycling**: As facultative saprotrophs, DSEs can decompose organic matter in the rhizosphere, contributing to carbon mineralization and nutrient cycling. Their dual lifestyle bridges the gap between symbiotic and free-living fungal functional groups.
-- **[[mycorrhizal-effects-on-plant-community-composition]]**: By differentially benefiting certain plant species, DSEs can influence competitive outcomes and plant community structure, particularly [[fungi-in-stressful-environments]] where their effects are most pronounced.
+- **[[fungi-in-stressful-environments]] where their effects are most pronounced.
 - **Succession dynamics**: DSE colonization patterns shift during primary and secondary succession, often preceding or replacing mycorrhizal colonization in disturbed or extreme habitats.
 
 ## Distribution and Habitat Preferences

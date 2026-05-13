@@ -4,45 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Arid Soil Fertility and Mineral Management
-
-Managing soil fertility in arid and semi-arid environments requires a thorough understanding of mineral solubility, pH relationships, and careful amendment strategies. Unlike humid regions where biological activity continuously cycles nutrients, arid soils are characterised by low organic matter, limited microbial life, and mineral availability dictated almost entirely by pH chemistry. This page synthesises the key principles from Mollison's treatment of arid soil management.
-
-## Mineral Solubility and pH Relationships
-
-The availability of essential minerals in soil is governed by pH, and in arid regions where organic buffers are scarce, pH swings have dramatic effects on plant nutrition.
-
-### Iron
-
-Iron exhibits two distinct solubility peaks. At **pH 3–3.5**, iron is very soluble in the form of limonite (Fe₂O₃), which imparts a characteristic yellow colour to soils. At **pH 7–8**, iron oxide (FeO) becomes available, which is responsible for the reddened appearance of many desert landscapes. Between these ranges, iron availability drops sharply, causing deficiency symptoms in many arid-region plants.
-
-### Aluminium
-
-Aluminium solubility follows a bimodal curve. It is **very soluble at pH 4–4.5** (acidic conditions common in some arid soils) and again at **pH 9.5–10** (highly alkaline). In its soluble forms (Al₂O₃), aluminium is toxic to plant roots, making pH management critical in arid soils that can swing between acidic and alkaline extremes.
-
-### Silica
-
-Silica (SiO₂) demonstrates **increasing solubility from pH 0 to 8**, then becomes **rapidly more soluble approaching pH 10**. Silica plays an important structural role in grasses and some desert-adapted plants, and its availability is generally adequate in alkaline arid soils but may be limiting in acidic conditions.
-
-## Soil Amelioration Strategies
-
-### Sulphur Addition at Higher pH
-
-In alkaline arid soils (common in deserts with high calcium carbonate content), adding **sulphur** lowers pH and simultaneously restores the availability of **iron, magnesium, and phosphate**, all of which become locked up in alkaline conditions. Sulphur amendment is one of the most effective single interventions for improving arid soil fertility.
-
-### Calcium Input at Low pH
-
-Conversely, at **pH 3–4**, soils are dangerously acidic for most plants. In these conditions, **calcium inputs** are essential. Suitable sources include:
-
-- **Crushed lime** (agricultural limestone)
-- **Burnt lime** (quicklime, more reactive but caustic)
-- **Crushed shells** (a slower-release, sustainable option)
-
-Calcium raises pH while also improving soil structure and displacing toxic aluminium from exchange sites.
-
-### Carbonic Acid and Potash Leaching
-
-**Carbonic acid in rainfall** (formed from CO₂ dissolving in water) acts as a slow-weathering agent that removes **potash (potassium) from [[orthoclase]] feldspar** in granitic parent materials. Over geological time, this process depletes potassium reserves in granitic arid soils, contributing to widespread potassium deficiency in desert regions underlain by granite.
+# Arid Soil Fertility and [[orthoclase]] feldspar** in granitic parent materials. Over geological time, this process depletes potassium reserves in granitic arid soils, contributing to widespread potassium deficiency in desert regions underlain by granite.
 
 ## Fertiliser Use in Arid Areas
 
@@ -149,6 +111,10 @@ These thresholds underscore why industrial contamination, mining waste, and chem
 9. **Protect groundwater** — contamination causes irreversible human health damage
 ## See Also
 
-- [[soil-amelioration-and-fertilisers-in-arid-areas]]
-- [[arid-land-fertilization-and-pollution-risks]]
-- [[dryland-soils-and-mineral-nutrition]]
+## See Also
+
+- [[animal-systems-arid-areas-permaculture]]
+- [[arid-land-fertilisers-and-toxin-pollution]]
+- [[dighton-fungi-desert-arid-ecosystems]]
+- [[comparison-arid-vs-tropical-permaculture]]
+- [[mollison-arid-lands-aquatic-species]]

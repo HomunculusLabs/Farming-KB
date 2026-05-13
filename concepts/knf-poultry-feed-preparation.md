@@ -9,9 +9,7 @@ sources:
 ---
 # KNF Poultry Feed Preparation
 
-Korean [[comparison-natural-farming-vs-permaculture]] (KNF) emphasizes the use of homemade chicken feed as a cornerstone of its poultry management system.
-
-Developed by [[knf-poultry-natural-farming]].
+Korean [[knf-poultry-natural-farming]].
 
 ## Brown Rice and Bamboo Leaves for Chicks
 
@@ -37,37 +35,9 @@ One of the key insights of KNF poultry feeding is that any material except miner
 
 This opens up a wide range of locally available, low-cost feed options.
 
-Fresh [[knf-green-grass-liquid-fertilizer]] is an excellent feed source and makes up approximately one-third of the total feed for adult chickens.
+Fresh [[fermented-plant-extract-fpe]] and [[comparison-chicken-keeping-vs-quail-husbandry]] and [[knf-poultry-natural-farming]] — complete guide to KNF poultry housing and management
 
-Green grass provides essential vitamins, minerals, and roughage that commercial feeds cannot replicate.
-
-Feed can also be found directly on the housing floors of the NF poultry shed.
-
-Along with soil rich in [[fermented-plant-extract-fpe]] and [[knf-lactic-acid-bacteria-serum]] and other [[comparison-chicken-keeping-vs-quail-husbandry]] and [[knf-bone-charcoal-preparation]]
-- [[knf-poultry-natural-farming]] — complete guide to KNF poultry housing and management
-
-- [[knf-preparations]] — overview of all KNF input preparations
-
-- [[fermented-plant-extract-fpe]] — [[comparison-compost-tea-guide-vs-fermented-plant-extract-fpe]] for plant and animal use
-
-- [[fermented-mixed-compost-fmc]] — [[cho-fermented-mixed-compost-methods]] compost production
-## Practical Considerations
-
-When working with KNF Poultry Feed Preparation, several practical factors should be
-carefully considered to achieve optimal results. These include
-the specific conditions of the implementation context, available
-resources, timing requirements, and the interactions between this
-topic and other elements of the broader system. A holistic view
-that considers these interconnections produces better outcomes.
-
-Environmental conditions such as temperature, moisture, and
-seasonal patterns significantly influence results. Monitoring these
-variables and adapting practices accordingly is essential for success.
-The most effective practitioners develop keen observation skills and
-respond flexibly to changing conditions rather than following rigid
-protocols regardless of circumstances or local variation.
-
-[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
+- [[fermented-plant-extract-fpe]] — [[fermented-mixed-compost-fmc]] — [[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -111,8 +81,6 @@ through generations to modern scientific approaches, the evolution continues
 to inform current best practices and research directions.
 
 ## See Also
-- [[doc]]
 - [[permaculture]]
-- [[natural-farming]]
 - [[knf-yeast-preparation-detailed]]
 - [[knf-fpj-preparation-and-precautions]]

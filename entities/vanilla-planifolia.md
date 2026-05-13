@@ -29,62 +29,101 @@ sources:
 
 ## Overview
 
-Vanilla planifolia is a tropical climbing orchid native to Mexico and [[guzman-allen-gartz-neurotropic-fungi-central-america-caribbean]], producing the vanilla bean — the world's most commercially valuable spice after saffron.
+Vanilla planifolia is a tropical climbing orchid native to Mexico and [[guzman-allen-gartz-neurotropic-fungi-caribbean-central-america]] to the Caribbean coastlines. The species is most closely associated with the Gulf coast of Veracruz and the Papantla region.
 
-The species is the primary source of natural vanillin, the compound responsible for vanilla's characteristic flavor and aroma. It belongs to the Orchidaceae, the largest family of flowering plants, and is one of the few orchids cultivated for food production.
-
-Vanilla was first cultivated by the Totonac people of Veracruz, Mexico, and later adopted by the Aztecs who used it to flavor chocolate beverages. Spanish conquistadors introduced vanilla to Europe in the 1520s.
-
-## Taxonomy and Morphology
-
-Kingdom: Plantae — Order: Asparagales — Family: Orchidaceae — Subfamily: Vanilloideae — Genus: Vanilla — Species: V. planifolia.
-
-The accepted basionym is *Epidendrum vanilla* L., published by Linnaeus in 1759. The species was transferred to *Vanilla* by G. Jackson in 1793.
-
-**Vegetative morphology.** V. planifolia is a hemiepiphytic or terrestrial vine with fleshy, succulent stems that can reach 10–15 meters in length.
-
-The stems are green, cylindrical, and produce adventitious roots at each node that anchor the plant to supporting trees.
-
-Leaves are alternate, oblong-elliptic, 10–20 cm long and 3–8 cm wide, with a pronounced central vein. They are thick and leathery with entire margins.
-
-**Floral morphology.** Inflorescences are axillary racemes bearing 6–15 flowers each.
-
-Flowers are large (6–10 cm diameter), pale green to yellow, with a prominent labellum. Each flower opens for only 24 hours, making pollination a critical bottleneck.
-
-The column structure is typical of orchids, with a single anther containing a pollinium and a sticky viscidium.
-
-**Fruit.** The fruit is an elongated capsule (15–25 cm), commonly called a "vanilla bean."
-
-Green when immature, it turns yellow then black as it cures. Each capsule contains thousands of microscopic seeds.
-
-## Distribution and Habitat
-
-Native range extends from eastern Mexico through [[guzman-allen-gartz-neurotropic-fungi-caribbean-central-america]] to the Caribbean coastlines. The species is most closely associated with the Gulf coast of Veracruz and the Papantla region.
-
-It grows in lowland [[fungal-biodiversity-tropical-forests]] from sea level to 600 meters elevation. The plant prefers humid conditions with annual rainfall exceeding 2000 mm.
-
-V. planifolia is a shade-tolerant understory species that climbs into the canopy of supporting trees. It requires well-draining soils rich in [[hamilton-composting-and-organic-matter-management]].
+It grows in lowland [[hamilton-composting-and-organic-matter-management]].
 
 Natural populations have been significantly reduced by habitat destruction and over-collection. Wild populations are now rare in many parts of their native range.
 
 ## Cultivation
 
-[[vanilla-cultivation-and-orchid-ecology]] requires [[query-how-to-design-a-food-forest-for-a-tropical-climate]] with temperatures between 21–32°C and high humidity (80%+). The plant needs partial shade — direct sun causes leaf burn.
+[[query-how-to-design-a-food-forest-for-a-tropical-climate]] with temperatures between 21–32°C and high humidity (80%+). The plant needs partial shade — direct sun causes leaf burn.
 
-**Propagation** is primarily vegetative through stem cuttings of 60–120 cm length. Cuttings are planted at the base of support trees, typically *[[gliricidia-sepium]]* or *Inga* species.
-
-The plant takes 3–4 years to reach flowering maturity. Artificial hand-pollination (the Mélon method, developed in 1841 on Réunion Island) is required outside the native range, as the natural pollinator — the euglossine bee *Euglossa viridissima* — is absent.
-
-Each flower must be pollinated individually within its 24-hour window. A skilled worker can pollinate 1000–2000 flowers per day.
-
-**Curing** is the most labor-intensive step, taking 3–6 months. Green beans undergo killing, sweating, drying, and conditioning stages that develop the characteristic flavor compounds.
-
-## Bioactive Compounds and Chemistry
-
-Vanillin (4-hydroxy-3-methoxybenzaldehyde) is the primary flavor compound, comprising 1–2% of cured bean dry weight.
-
-Over 250 [[query-how-do-fungal-volatile-compounds-affect-plant-growth-and-other-microorganisms]] contribute to vanilla's complex aroma, including p-hydroxybenzaldehyde, p-hydroxybenzoic acid, vanillic acid, and acetaldehyde.
+**Propagation** is primarily vegetative through stem cuttings of 60–120 cm length. Cuttings are planted at the base of support trees, typically *[[query-how-do-fungal-volatile-compounds-affect-plant-growth-and-other-microorganisms]] contribute to vanilla's complex aroma, including p-hydroxybenzaldehyde, p-hydroxybenzoic acid, vanillic acid, and acetaldehyde.
 
 The curing process enzymatically converts glucosides (glucovanillin) into free vanillin. β-glucosidase activity during the sweating stage is critical for flavor development.
 
 Vanillin content varies significantly by origin and curing method. Mexican vanilla typically contains more complex flavor profiles than beans from other regions.
+
+## Overview
+
+Vanilla Planifolia represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish vanilla planifolia
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving vanilla extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Vanilla Planifolia finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for vanilla planifolia. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+vanilla planifolia and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Vanilla Planifolia has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of vanilla planifolia into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[comparison-vanilla-vs-cacao-cultivation]]
+- [[query-how-do-i-grow-vanilla-at-home]]
+- [[vanilla-cultivation-and-orchid-ecology]]

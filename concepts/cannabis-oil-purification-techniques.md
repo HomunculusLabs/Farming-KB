@@ -8,27 +8,12 @@ sources: []
 ---
 # Cannabis Oil Purification Techniques
 
-After extracting cannabis oil through [[neem-oil-cannabis]], the oil contains residual acid catalyst that must be neutralized and washed away. The standard procedure uses sodium bicarbonate (baking soda):
-
-1. Add baking soda to the isomerized oil/alcohol mixture until effervescence ceases
-2. Pump off the alcohol
-3. Add water and wash the remaining oil/powder to remove residual baking soda
-4. The baking soda wash is critical for removing harsh, alkaline taste from the final product
-5. One correspondent reported that the residual baking soda taste from insufficient washing was a significant quality problem that the Pittsburgh Doublewash method solved
-
-## Chromatographic Purification (Laboratory Scale)
-
-For producing pharmaceutical-grade cannabinoids, [[lemon-cannabis-alchemy-advanced-refinement-techniques]] references column chromatography:
+After extracting cannabis oil through [[lemon-cannabis-alchemy-advanced-refinement-techniques]] references column chromatography:
 
 - Crude CBD is chromatographed on Florisil adsorbent
 - Elution with 30% chloroform in hexane separates CBD from impurities
 - Further crystallization from 30-60 degree petroleum ether yields white prisms of pure cannabidiol
-- This level of purity is suited to conversion of CBD to THC via acid-catalyzed [[cannabis-concentrates-and-extracts]]-cannabis-alchemy.md
-
-## See Also
-
-- [[2c-d-pihkal-entry-23]]
-- [[cannabis-indoor-growing-basics]]
+- This level of purity is suited to conversion of CBD to THC via acid-catalyzed [[2c-d-pihkal-entry-23]]
 - [[knf-water-soluble-phosphoric-acid-wspa]]
 ## Practical Applications
 
@@ -96,8 +81,6 @@ through generations to modern scientific approaches, the evolution continues
 to inform current best practices and research directions.
 
 ## See Also
-- [[doc]]
 - [[det]]
-- [[petroleum-ether]]
 - [[neem]]
 - [[florisil]]

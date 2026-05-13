@@ -16,12 +16,9 @@ type: concept
 
 # San Pedro Cactus of the Four Winds
 
-The San Pedro cactus (*[[echinopsis-pachanoi]]*, syn. *[[schultes-peyote-tracks-little-deer]] for the [[growing-gourmet-north-american-reishi-species]] mescaline
-  cactus with deep ceremonial significance
-- [[schultes-ayahuasca-magic-drink-amazon]] for the Amazonian visionary
+The San Pedro cactus (*[[schultes-peyote-tracks-little-deer]] for the [[schultes-ayahuasca-magic-drink-amazon]] for the Amazonian visionary
   brew with related shamanic flight experiences
-- [[schultes-syrian-rue-seeds-civilization]] for beta-carboline chemistry
-  shared with [[schultes-ayahuasca-preparations]]
+- [[schultes-ayahuasca-preparations]]
 ## Practical Applications
 
 San Pedro Cactus of the Four Winds has a range of practical applications that make it relevant to

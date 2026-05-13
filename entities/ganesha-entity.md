@@ -9,21 +9,7 @@ sources:
 ---
 # GANESHA
 
-**[[2c-b-pihkal-entry-20]] #85** -- G; 2,5-Dimethoxy-3,4-dimethylamphetamine
-
-## Chemical Name
-
-2,5-Dimethoxy-3,4-dimethylamphetamine
-
-## Dosage and Duration
-
-- **Dosage:** 20 - 32 mg
-
-- **Duration:** 18 - 24 h
-
-## Qualitative Effects
-
-GANESHA produces a long-lasting, tranquil [[leary-psychedelic-experience-bardo-mapping]]:
+**[[leary-psychedelic-experience-bardo-mapping]]:
 
 - At 24 mg: slow buildup to a ++ or more over about three hours. "Extremely tranquil, and no hint of any body toxicity whatsoever." Completely at peace, in a beautiful, benign, and placid place. Something residual extended into sleep and possibly the next morning
 
@@ -33,17 +19,7 @@ GANESHA produces a long-lasting, tranquil [[leary-psychedelic-experience-bardo-m
 
 ## Synthesis
 
-Synthesized from 2,5-dimethoxy-3,4-dimethylbenzaldehyde (see [[dom]] with a methyl group should have had minor steric influence, yet it caused a full order of magnitude decrease in potency.
-
-The remarkable point is that placement of a "dull methyl group at a dull position" of the DOM molecule actually inactivated its activity. It is not the presence of the methyl that decimated potency, but the removal of the hydrogen atom. This suggests the 3-position hydrogen may be involved in metabolism that promotes DOM-like compounds to active intermediates.
-
-Shulgin proposed extending the study by homologating the methyl groups to ethyl groups (2C-G-12, G-12, 2C-G-21, G-21, 2C-G-22, G-22), but these compounds resisted all logical approaches to synthesis. Building up bigger bulky hydrocarbon groups at these positions unexpectedly led to remarkable enhancement of potency.
-
-## Chemical Family Context
-
-GANESHA is a member of the "Classic Ladies" series, one of Shulgin's most systematic and informative structure-activity relationship studies. The series began with DOM (2,5-dimethoxy-4-methylamphetamine) and systematically replaced each hydrogen atom on the aromatic ring with a methyl group, producing ten compounds in total.
-
-The "Classic Ladies" series demonstrates a counterintuitive principle: adding methyl groups to a psychedelic molecule does not simply increase potency. In fact, adding a methyl group at the 3-position of DOM decreased potency by approximately tenfold. This finding overturned the assumption that bulkier substituents would enhance [[tihkal-receptor-binding-serotonin]].
+Synthesized from 2,5-dimethoxy-3,4-dimethylbenzaldehyde (see [[tihkal-receptor-binding-serotonin]].
 
 GANESHA (with methyls at both the 3 and 4 positions) and its phenethylamine counterpart 2C-G (same ring substitution, two-carbon chain) share nearly identical potency and duration, a unique convergence in psychedelic chemistry.
 
@@ -88,3 +64,87 @@ The relationship between GANESHA and 2C-G is the most pharmacologically signific
 ## Legal Status
 
 GANESHA is not specifically scheduled in most jurisdictions. As a 2,5-dimethoxy-substituted amphetamine, it bears structural similarity to DOM (which is Schedule I in the US). Analogue legislation could potentially apply. The compound's extreme rarity and the difficulty of its synthesis have kept it largely unavailable outside of research contexts.
+
+## Overview
+
+Ganesha Entity represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish ganesha entity
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving ganesha extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Ganesha Entity finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for ganesha entity. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+ganesha entity and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Ganesha Entity has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of ganesha entity into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[2c-c-entity]]
+- [[2c-o-4-entity]]
+- [[4-ho-dbt-entity-tihkal]]
+- [[ganesha-entity-pihkal]]

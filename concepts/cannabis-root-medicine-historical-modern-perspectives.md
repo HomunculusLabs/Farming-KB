@@ -10,7 +10,7 @@ created: 2026-05-09
 
 ## Introduction
 
-While cannabis flowers and leaves have dominated both traditional use and modern research, the roots of the cannabis plant have a long — though often overlooked — history of medicinal use. Cannabis roots contain a distinct phytochemical profile from aerial parts, with significantly lower cannabinoid content but notable concentrations of terpenes (particularly β-caryophyllene), friedelin, pentacyclic triterpenes, alkaloids, and other [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]]. Recent pharmacological research has validated several traditional uses and uncovered new [[metzner-ayahuasca-therapeutic-potential]].
+While cannabis flowers and leaves have dominated both traditional use and modern research, the roots of the cannabis plant have a long — though often overlooked — history of medicinal use. Cannabis roots contain a distinct phytochemical profile from aerial parts, with significantly lower cannabinoid content but notable concentrations of terpenes (particularly β-caryophyllene), friedelin, pentacyclic triterpenes, alkaloids, and other [[metzner-ayahuasca-therapeutic-potential]].
 
 ## Historical Use
 
@@ -35,31 +35,15 @@ In Ayurveda, cannabis root (*bhang ki jad*) is classified differently from the a
 - **Skin conditions**: Topical application for wounds, burns, and inflammatory skin diseases
 - **Fever**: Root preparations as antipyretic agents
 
-The Ayurvedic distinction between root and aerial preparations reflects the recognition that different plant parts have different [[panax-ginseng]] — a concept now supported by phytochemical analysis.
-
-### Classical Western Herbalism
-
-European herbalists from the 16th to 19th centuries used cannabis root preparations:
-
-- **Nicholas Culpeper** (1653) recommended cannabis root decoction for joint inflammation and gout.
-- **Robert Bentley and Henry Trimen** (1880) in *Medicinal Plants* described cannabis root as an anti-inflammatory for topical application.
-- **Eclectic physicians** in 19th-century America used cannabis root tinctures as a diuretic and anti-inflammatory.
-
-### African Traditional Medicine
-
-Various African traditions employ cannabis root:
-
-- **[[kanna-sceletium-south-african-narcotic]] Sotho**: Root decoctions for stomach ailments and as an emetic
+The Ayurvedic distinction between root and aerial preparations reflects the recognition that different plant parts have different [[kanna-sceletium-south-african-narcotic]] Sotho**: Root decoctions for stomach ailments and as an emetic
 - **West African traditions**: Root bark preparations for fever and malaria
-- **[[comparison-cavendish-vs-east-african-highland-bananas]] communities**: Root infusions for [[blesching-cannabis-gastrointestinal-disorders]]
+- **[[blesching-cannabis-gastrointestinal-disorders]]
 
 ## Phytochemistry of Cannabis Roots
 
 ### Terpenes
 
-β-Caryophyllene (BCP) is the dominant [[fungal-btex-volatile-compound-degradation]] in cannabis roots, typically comprising 10–35% of the essential oil. This is significant because BCP is a selective CB2 receptor agonist — cannabis roots may exert anti-inflammatory and immunomodulatory effects through CB2 activation, even though they contain virtually no cannabinoids.
-
-Other terpenes found in roots include α-humulene, α-pinene, and caryophyllene oxide (the oxidation product of BCP). The [[cannabis-terpene-profile]] of roots is distinct from aerial parts: roots lack monoterpenes like myrcene and limonene that dominate the flower aroma.
+β-Caryophyllene (BCP) is the dominant [[cannabis-terpene-profile]] of roots is distinct from aerial parts: roots lack monoterpenes like myrcene and limonene that dominate the flower aroma.
 
 ### Triterpenes
 
@@ -74,12 +58,7 @@ Cannabis roots are rich in pentacyclic triterpenes:
 Low levels of alkaloids have been detected in cannabis roots, including:
 
 - **Choline**: A quaternary ammonium compound with various physiological roles
-- **Tryptamine derivatives**: At trace levels, distinct from the tryptamines found in [[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]]
-- **Piperidine alkaloids**: At very low concentrations
-
-### Other Compounds
-
-- **[[aact-tannins-terpenes-phenolic-compounds-wood-composting-ingham]]**: Caffeic acid derivatives and other phenolics with antioxidant activity
+- **Tryptamine derivatives**: At trace levels, distinct from the tryptamines found in [[aact-tannins-terpenes-phenolic-compounds-wood-composting-ingham]]**: Caffeic acid derivatives and other phenolics with antioxidant activity
 - **Phytosterols**: β-sitosterol, stigmasterol, and campesterol
 - **Sugars and polysaccharides**: Root extracts contain significant soluble sugars that may contribute to wound-healing properties through humectant and matrix-forming effects
 - **Minerals**: High concentrations of potassium, magnesium, and calcium
@@ -117,8 +96,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[ayahuasca]]
 - [[doc]]
-- [[psilocybin]]
 - [[pinene]]
 - [[dom]]

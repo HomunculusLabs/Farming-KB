@@ -17,15 +17,7 @@ traditional use as a psychoactive additive in ayahuasca
 preparations. The plant has been documented among indigenous
 groups in western Amazonia, particularly in Peru and Brazil,
 where it is valued for the hallucinogenic properties of its
-leaves and bark. Despite its [[ethnomycology-cultural-significance-sacred-fungi]], T. methystica
-remains relatively poorly studied compared to Diplopterys
-cabrerana (chaliponga).
-
-The genus Tetrapteris is closely related to Diplopterys, and some
-taxonomic treatments have transferred species between the two
-genera. T. methystica is one of several Malpighiaceae used as
-ayahuasca admixtures, locally known as 'chacruna' or 'oco-yaje.'
-Its psychoactive effects are attributed to [[hplc-analysis-of-tryptamine-alkaloids]],
+leaves and bark. Despite its [[hplc-analysis-of-tryptamine-alkaloids]],
 particularly N,N-DMT, making it pharmacologically similar to
 other DMT-containing admixture plants.
 
@@ -64,7 +56,6 @@ The epithet 'methystica' derives from Greek 'methystikos'
 | Species | Growth form | DMT source | Key use |
 |---------|------------|------------|---------|
 | Tetrapteris methystica | Woody vine | Leaves, bark | Ayahuasca admixture |
-| [[diplopterys-cabreraeana]] | Woody vine | Leaves | Admixture (chaliponga) |
 | [[ayahuasca-and-banisteriopsis-caapi]] | Woody vine | Bark | Ayahuasca base (MAOI) |
 | Banisteriopsis rubra | Woody vine | Bark | Ayahuasca variant |
 

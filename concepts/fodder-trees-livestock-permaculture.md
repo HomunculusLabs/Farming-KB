@@ -6,7 +6,7 @@ type: concept
 
 # Fodder Trees and Livestock Integration in Permaculture
 
-Integrating trees and livestock is a cornerstone of permaculture design, combining the productivity of animal systems with the resilience and ecological benefits of tree-based agriculture. Silvopasture—the deliberate integration of trees with livestock grazing—provides fodder, shelter, soil improvement, and diversified income streams from a single parcel of land.
+Integrating trees and livestock is a cornerstone of [[permaculture-design]], combining the productivity of animal systems with the resilience and ecological benefits of tree-based agriculture. Silvopasture—the deliberate integration of trees with livestock grazing—provides fodder, shelter, soil improvement, and diversified income streams from a single parcel of land.
 
 ## Key Fodder Trees
 
@@ -41,36 +41,7 @@ Oak acorns have historically been a major fodder source for pigs, providing high
 Several Eucalyptus species provide supplementary browse for livestock, particularly in Australia. While not as palatable as dedicated fodder trees, they offer emergency drought feed and valuable shelter. Care must be taken as some species contain oils that can be toxic in quantity.
 
 ### Alder (*Alnus spp*)
-Alder is a nitrogen-fixing tree whose foliage is browsed by cattle, sheep, and goats. It thrives in moist soils and riparian areas, making it valuable for stream-side livestock systems where it also provides [[soil-erosion-control]] water quality benefits.
-
-### Elms (*Ulmus spp*)
-Elms produce palatable foliage browsed by cattle and sheep. Their broad canopy provides excellent shade, and their deep root systems access subsoil moisture and nutrients. Elm can be incorporated into shelterbelt plantings alongside other fodder species.
-
-## Forage Plants and Browse
-
-### Herbaceous Forage
-- **Lucerne (alfalfa)**: The queen of forage crops—deep-rooted, drought-tolerant, high-protein perennial legume suitable for cattle, horses, sheep, and goats. Fixes nitrogen and improves soil structure.
-- **Cowpea** and **field pea**: Warm-season annual legumes providing high-quality forage and green manure.
-- **Comfrey**: Deep-rooted perennial with high protein and mineral content; valued as poultry and pig fodder when wilted.
-- **Clover**: White and red clover are essential components of productive pastures, fixing nitrogen and providing palatable, protein-rich forage.
-- **Lupins**: Grain and forage lupins supply protein-rich feed for ruminants and poultry.
-
-### Browse Plants
-- **Acacia species**: Many acacias provide edible pods and foliage for livestock browsing, particularly goats. They are drought-hardy and nitrogen-fixing.
-- **Cassia** species: Some cassias offer supplementary browse, though palatability varies by species.
-- **Derris indica** (Pongamia): Seeds and leaves provide fodder; the tree also yields oil-rich seeds with multiple uses.
-- **Gleditsia triacanthos**: See honey locust above—both browse foliage and pods are valuable.
-
-### Saltbush (*Atriplex* spp)
-Saltbushes are exceptional arid-zone forage plants. Old man saltbush (*Atriplex nummularia*), four-winged saltbush (*Atriplex canescens*), and river saltbush (*Atriplex amnicola*) provide protein-rich, salt-tolerant browse for sheep and cattle. They maintain nutritive value during drought and tolerate saline soils where few other forages survive.
-
-## Pasture Species
-
-Permaculture pastures combine grasses, legumes, and herbs in diverse mixtures:
-- **Puccinellia**: Salt-tolerant grass for saline and waterlogged pastures.
-- **Phalaris (reed canary grass)**: Productive cool-season grass for damp areas, palatable to cattle and sheep.
-- **Festuca and fescue**: Hard-wearing perennial grasses forming the backbone of temperate pastures.
-- **Ryegrass**: Highly productive, fast-establishing grass for intensive [[comparison-rotational-grazing-vs-continuous-grazing]].
+Alder is a nitrogen-fixing tree whose foliage is browsed by cattle, sheep, and goats. It thrives in moist soils and riparian areas, making it valuable for stream-side livestock systems where it also provides [[comparison-rotational-grazing-vs-continuous-grazing]].
 - **Pampas grass**: Provides shelter and rough grazing in extensive systems.
 - **Duckweed**: Often included in integrated water-pasture systems, doubling as aquatic forage.
 
@@ -81,22 +52,7 @@ Water-based forage systems dramatically expand livestock feed options:
 - **Water hyacinth**: Highly productive aquatic plant useful as fodder when properly managed (controls needed to prevent spread).
 - **Water chestnut (*Eleocharis dulcis*)**: Edible corms valued for human and pig food; grows in shallow ponds.
 - **Lotus**: Seeds and rhizomes provide supplementary feed; plants improve water quality.
-- **Kang kong (*[[ipomoea-aquatica]]*)**: Fast-growing aquatic vegetable suitable for poultry and pig forage.
-
-## Livestock Systems in Permaculture
-
-### Multi-Species Grazing
-Permaculture encourages multi-species livestock systems—cattle, sheep, goats, horses, deer, pigs, poultry, rabbits, ducks, geese, and even kangaroos in Australian contexts. Different species graze at different heights and select different plants, reducing parasite load and improving pasture utilisation. Goats control woody weeds, poultry follow larger livestock to break parasite cycles, and pigs till and fertilise ground.
-
-### Chicken Forage and Poultry Systems
-Poultry benefit enormously from integrated tree-forage systems. Mulberry, comfrey, tagasaste, and lucerne planted in poultry ranges provide protein-rich forage, reducing feed costs. Chickens also control insects beneath fodder trees, creating a mutually beneficial relationship. Duck forage systems can incorporate aquatic plants grown in farm ponds.
-
-### Honey Production
-Many fodder trees double as nectar sources for beekeeping. Carob, Leucaena, Tagasaste, clover, and various Acacia species provide significant nectar flows, integrating honey production into livestock-tree systems.
-
-## Multi-Functional Roles
-
-Fodder [[multipurpose-trees-in-permaculture-design]] are selected for multiple functions beyond feed production:
+- **Kang kong (*[[multipurpose-trees-in-permaculture-design]] are selected for multiple functions beyond feed production:
 - **Shade and shelter**: Trees reduce heat stress in livestock, improving productivity and welfare.
 - **Windbreaks**: Hedgerow plantings of multi-purpose species protect stock and pastures.
 - **Soil improvement**: Nitrogen-fixing fodder trees (Tagasaste, black locust, alder, Leucaena) build soil fertility while producing feed.

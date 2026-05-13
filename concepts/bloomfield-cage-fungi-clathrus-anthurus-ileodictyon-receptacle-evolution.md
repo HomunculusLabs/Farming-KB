@@ -15,12 +15,7 @@ sources:
 
 # Cage Fungi — Clathrus, Anthurus, Ileodictyon, and Receptacle Evolution
 
-Cage fungi are a remarkable group within the [[bloomfield-gasteromycetes-puffballs-earthstars]] fungi,
-related to stinkhorns but distinguished by their receptacles that unfold into
-cages, stars, arms, or vaults rather than a single erect shaft. Like stinkhorns,
-they emerge from buried eggs through osmotic pressurization — the receptacle
-absorbs water, swells, and ruptures the outer skin, carrying a foul-smelling
-[[growing-gourmet-spore-mass-inoculation-techniques]] into the air to attract insect dispersers. The diversity of mature
+Cage fungi are a remarkable group within the [[growing-gourmet-spore-mass-inoculation-techniques]] into the air to attract insect dispersers. The diversity of mature
 forms among cage fungi is extraordinary, ranging from spherical cages to
 geodesic nets, all produced from what is fundamentally the same developmental
 starting point.
@@ -32,18 +27,8 @@ these fungi. When its egg hatches, the receptacle expands into a roughly
 spherical lattice, a delicate cage of interconnected bars. The spores are
 smeared on the inner surfaces of these bars, positioned so that any insect
 crawling inside or probing the structure will inevitably contact the fetid
-spore slime. *[[clathrus-ruber]]*, the most widely known species, forms a
-vivid red-orange cage that contrasts starkly against the [[fungal-ecology-forest-floor]] or
-[[cotter-outdoor-mushroom-garden-mulch-beds]] where it typically appears. The cage structure provides an
-enormous surface area for spore exposure relative to the amount of tissue
-invested, making it an efficient dispersal device. The open geometry also
-ensures that the malodorous gleba is accessible from multiple directions,
-increasing the probability of insect contact.
-
-## Anthurus — The Starfish Arms
-
-*Anthurus* represents one of the most visually dramatic transformations in
-the [[fungal-kingdom-diversity]]. Rather than forming a closed cage, its receptacle
+spore slime. *[[fungal-ecology-forest-floor]] or
+[[fungal-kingdom-diversity]]. Rather than forming a closed cage, its receptacle
 separates into four or more bright orange arms that curl backward over the
 egg from which they emerged. The result resembles a star or, as Nicholas
 Money vividly describes, "the agonized contortions of a horribly injured
@@ -71,18 +56,6 @@ structures.
 
 *Ileodictyon*, known as the intestinal net, grows in New Zealand and
 Australia and produces what may be the most structurally sophisticated
-[[bloomfield-mushroom-formation-fruiting-body-development-cultivation]] among the cage fungi. When its egg hatches, the white cage
-expands, disengages from its papery skin entirely, and becomes a free-
-standing polyhedral net. This detached cage, smeared with spore slime, is
-then blown about by wind across surrounding grass — a dispersal mechanism
-unique among the stinkhorn relatives, which typically remain anchored to
-their egg bases.
-
-The polyhedral geometry of *Ileodictyon* caught the attention of the
-mycologist John Zerning, who noticed its striking resemblance to the
-geodesic domes designed by Buckminster Fuller. This same polyhedral form
-characterizes the carbon molecules called buckminsterfullerenes, or
-buckyballs. The convergence of hippy dwellings, molecular chemistry, and
 [[brassinosteroid-effects-on-fungal-fruiting-morphology]] bodies reflects a shared engineering principle: polyhedral
 structures offer exceptional strength-to-weight ratios and high resistance
 to compression. For a fungus that must construct its fruiting body from
@@ -118,8 +91,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[cage-fungi-clathrus-anthurus-laternea-structure-and-evolution]]
 - [[dom]]
-- [[det]]
 - [[spore]]
 - [[brassinosteroid]]

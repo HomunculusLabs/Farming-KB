@@ -15,13 +15,7 @@ type: concept
 MDA (3,4-methylenedioxyamphetamine) is a substituted amphetamine that
 occupies a unique position as both a powerful empathogen-entactogen and a
 classical psychedelic. Documented in PIHKAL as compound #105, MDA is the
-direct precursor and inspiration for [[mdma]]. Its effects blend emotional warmth
-and social connectedness with genuine psychedelic visual and cognitive effects,
-making it a truly hybrid substance.
-
-First synthesized in 1910 by Merck, MDA's psychoactive properties were not
-explored until the mid-20th century. It gained popularity in the 1960s and
-1970s as a recreational substance and was used in early [[metzner-psycholytic-psychedelic-therapy-models]]
+direct precursor and inspiration for [[metzner-psycholytic-psychedelic-therapy-models]]
 research. Shulgin's exploration of MDA ultimately led to his discovery of
 MDMA's unique properties, making MDA pivotal in modern empathogen history.
 
@@ -35,11 +29,7 @@ combination makes MDA simultaneously rewarding and demanding.
 MDA's IUPAC name is 1-(1,3-benzodioxol-5-yl)propan-2-amine. It consists of
 an amphetamine backbone with a methylenedioxy bridge connecting positions 3
 and 4 on the phenyl ring. This bridge is the defining feature of the MDxx
-family (MDA, MDMA, [[mdea]], MDBD).
-
-MDA is the N-desmethyl analogue of MDMA; removing the N-methyl group yields
-MDA. This small structural difference has significant pharmacological
-consequences, as MDA has greater [[mdma-serotonergic-neurotoxicity]] potential and
+family (MDA, MDMA, [[mdma-serotonergic-neurotoxicity]] potential and
 more pronounced psychedelic effects. MDA can also be understood as the
 alpha-methylated version of the phenethylamine backbone, though the
 substitution pattern differs from [[mescaline]].

@@ -18,48 +18,12 @@ smaller micron bags to separate increasingly refined grades of
 hashish. Cervantes profiles the method developed by Mono, who
 uses bags from several manufacturers to extract more resin
 than anybody else. More wet sieves separate more and different
-qualities of [[cannabis-resin-production-and-quality-traits-clarke]].
-
-## Theory of Multi-Bag Extraction
-
-Resin heads are different sizes, and they fall through
-different size pores in a sieve. You can separate different
-sizes of [[greg-green-trichomes-and-resin-glands]] with different size wet or dry sieves.
+qualities of [[greg-green-trichomes-and-resin-glands]] with different size wet or dry sieves.
 The 15-bag system works in two distinct phases:
 
 Phase 1: Wash and separate resin glands from marijuana
 foliage using six screens. This process washes out virtually
-all foliage and contaminants from the [[shirota-4-hydroxyindole-acetyl-protection-psilocin-synthesis-starting-material]].
-
-Phase 2: The hash-laden water remaining after passing through
-six bags is separated again by running it through eight or
-more additional bags. The resulting hash is very clean.
-
-## Equipment Setup
-
-Mono's laboratory is set up in a bathroom, with the bathtub as
-the center of attention. A shower head attached to a flexible
-hose keeps the laboratory clean throughout the process.
-
-Required equipment:
-- Bags with silkscreens from various manufacturers (15 total)
-- 5-gallon (20-25L) bucket with lid
-- Kitchen mixer with paddles (not a chopping blade)
-- Paper towels, dinner plate, plastic card
-- Large mixing spoon
-- 4.5-11 pounds (2-5 kg) of ice cubes
-- Plenty of fresh ice throughout
-
-Rigid-sided bags perform better because they retain their
-shape inside the bucket and are easier to use when only one
-person is making water hash. Make sure to have everything
-ready before starting; there is no time to look for supplies
-once the process begins.
-
-## The 15-Bag Array
-
-The bags used in the 15-bag system and their approximate
-yields from 100 grams of [[white-widow-cannabis]] leaf:
+all foliage and contaminants from the [[white-widow-cannabis]] leaf:
 
 First Run Bags:
 - 220 micron (work bag): retains bulk leaf material
@@ -120,9 +84,7 @@ observation, and a willingness to adapt approaches based on results.
 ## See Also
 
 - [[cervantes-beetle-borers-bees-wasps-loopers]]
-- [[cervantes-colchicine-polyploidy-mutagenesis]]
-- [[cervantes-rejuvenation-re-vegging]]
-- [[cervantes-screen-of-green-technique]]
+- [[cervantes-cannabis-tinctures]]
+- [[cervantes-hermaphrodism-intersexuality]]
+- [[cervantes-sea-of-green-technique]]
 - [[cervantes-sterilizing-grow-systems]]
-- [[cervantes-terpenoids-terpene-profiles]]
-- [[cervantes-volatile-solvent-extraction]]

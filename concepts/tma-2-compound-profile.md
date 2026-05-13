@@ -11,11 +11,11 @@ sources:
 
 ## Overview
 
-TMA-2 (PIHKAL #158) is one of the most significant discoveries in the history of psychedelic chemistry. The simple rearrangement of the methoxy groups of TMA (3,4,5-trimethoxyamphetamine, based on [[dom-compound-profile]], [[2c-b-compound-profile]] families.
+TMA-2 (PIHKAL #158) is one of the most significant discoveries in the history of psychedelic chemistry. The simple rearrangement of the methoxy groups of TMA (3,4,5-trimethoxyamphetamine, based on [[2c-b-compound-profile]] families.
 
 ## The Asarone Connection
 
-TMA-2's natural precursor, asarone, occurs in three isomeric forms found in [[comparison-essential-oils-vs-neem-oil-vs-insecticidal-soap]] (particularly [[sweet-flag-acorus-calamus-ethnobotany]], sweet flag):
+TMA-2's natural precursor, asarone, occurs in three isomeric forms found in [[sweet-flag-acorus-calamus-ethnobotany]], sweet flag):
 
 - **Alpha-asarone** — the trans-propenyl isomer
 - **Beta-asarone** — the cis-propenyl isomer
@@ -29,40 +29,7 @@ About twenty years before PIHKAL, alexander shulgin co-authored a review article
 
 ## Optical Isomer Studies
 
-Studies on the resolved optical isomers of TMA-2 reached assays of 6 mg on each separate isomer but were never taken higher. The R-isomer proved much more potent in rabbit assays, but human comparisons remain unknown — a gap that still exists in the pharmacological literature. See [[phenethylamine-receptor-pharmacology]] for receptor-binding context.
-
-## Radiolabeled Metabolite Studies
-
-A 14C-radiolabeled study of the racemate (5 microcuries in 40 mg) was conducted in rats with a view toward metabolite analysis. The 4-methoxyl carbon appeared as expired CO2 to the extent of about 20% — roughly four times the amount seen from either of the other two methoxyl carbon atoms. This asymmetric demethylation suggests preferential metabolic attack at the 4-position, though the project was abandoned before human metabolite studies could be completed.
-
-## Synthesis (from PIHKAL)
-
-Synthesized from 2,4,5-trimethoxybenzaldehyde via condensation with nitroethane to the nitrostyrene, followed by LAH reduction. The natural pathway begins with asarone (from Acorus calamus), which contains the 2,4,5-trimethoxyallylbenzene skeleton. See [[phenethylamine-receptor-pharmacology]], [[phenethylamine-receptor-pharmacology]].
-
-## Harm Reduction
-
-- Moderate duration (8-12 hours) — less demanding than DOx compounds
-- Generally well-tolerated with "benign" character
-- Some gastrointestinal discomfort possible at onset
-- The discovery dose history illustrates the importance of careful dose escalation
-- Related: [[mmda-compound-profile]], [[mmda-2-compound-profile]]
-## Practical Considerations
-
-When working with TMA-2 — Compound Profile, several practical factors should be
-carefully considered to achieve optimal results. These include
-the specific conditions of the implementation context, available
-resources, timing requirements, and the interactions between this
-topic and other elements of the broader system. A holistic view
-that considers these interconnections produces better outcomes.
-
-Environmental conditions such as temperature, moisture, and
-seasonal patterns significantly influence results. Monitoring these
-variables and adapting practices accordingly is essential for success.
-The most effective practitioners develop keen observation skills and
-respond flexibly to changing conditions rather than following rigid
-protocols regardless of circumstances or local variation.
-
-[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
+Studies on the resolved optical isomers of TMA-2 reached assays of 6 mg on each separate isomer but were never taken higher. The R-isomer proved much more potent in rabbit assays, but human comparisons remain unknown — a gap that still exists in the pharmacological literature. See [[phenethylamine-receptor-pharmacology]], [[mmda-compound-profile]], [[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -91,6 +58,90 @@ complexity of day-to-day management and observation activities.
 
 ## See Also
 
-- [[tma-3-entity-pihkal]]
 - [[tma-4-entity-pihkal]]
 - [[tma-entity-pihkal]]
+
+## Overview
+
+Tma 2 Compound Profile represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish tma 2 compound profile
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving tma extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Tma 2 Compound Profile finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for tma 2 compound profile. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+tma 2 compound profile and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Tma 2 Compound Profile has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of tma 2 compound profile into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[2c-e-compound-profile]]
+- [[dob-compound-profile]]
+- [[dpt-compound-profile]]
+- [[lsd-compound-profile]]
+- [[medicinal-mushroom-compound-extraction]]

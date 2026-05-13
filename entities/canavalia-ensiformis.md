@@ -24,37 +24,7 @@ sources:
 
 Canavalia ensiformis (jack bean) is a perennial climbing legume in the family Fabaceae, native to tropical Central and South America. It is widely cultivated throughout the tropics and subtropics as a cover crop, green manure, and occasionally as a food crop after appropriate processing to remove antinutritional factors.
 
-The species is valued in permaculture systems for its vigorous growth, deep root system, and high [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]] capacity. Jack bean can produce 200–400 kg N/ha/year, making it one of the most productive leguminous green manures available for tropical agroecosystems.
-
-Jack bean seeds contain the lectin concanavalin A (Con A), a protein extensively used in biochemistry and immunology research as a T-cell mitogen and glycoprotein-binding reagent. This industrial significance has driven substantial research into the species' biochemistry.
-
-## Taxonomy and Morphology
-
-- **Kingdom:** Plantae
-- **Order:** Fabales
-- **Family:** Fabaceae
-- **Subfamily:** Faboideae
-- **Genus:** Canavalia
-- **Species:** C. ensiformis (L.) DC.
-- **Synonyms:** Dolichos ensiformis L.; Canavalia gladiata auct. non (Jacq.) DC.
-
-The genus name honors the Italian naturalist Ferrante Imperato. The specific epithet *ensiformis* means "sword-shaped," referring to the flat, elongated seed pods.
-
-**Growth habit:** Vigorous annual or short-lived perennial vine, 1–3 m in length. Stems are trailing or twining, with tendrils absent (Faboideae characteristic). The plant establishes rapidly from seed, producing a dense canopy within 60–90 days.
-
-**Leaves:** Trifoliolate, with ovate to rhomboidal leaflets 8–15 cm long and 5–10 cm wide. Petioles are 5–12 cm, grooved on the upper surface. Stipules are small and caducous.
-
-**Flowers:** Papilionaceous, white to pale purple, arranged in axillary racemes 10–30 cm long. Standard petal is 2–3 cm long. Flowers are self-compatible but also cross-pollinated by large bees. Flowering begins 60–90 days after sowing.
-
-**Pods:** Linear, flat, 15–30 cm long and 2.5–3.5 cm wide, containing 8–15 seeds. Pods are green when immature, turning brown and woody at maturity. Each pod dehisces explosively when dry, dispersing seeds several meters.
-
-**Seeds:** Large, oval to oblong, 2–3 cm long, white with a conspicuous brown hilum. Seed weight is 0.8–1.2 g (100-seed weight 80–120 g). Raw seeds are toxic due to lectin and canavanine content.
-
-**Root system:** Deep taproot extending 1.5–2 m with abundant lateral roots and effective nodulation with Bradyrhizobium spp. Root mass contributes significantly to soil organic matter.
-
-## Phytochemistry
-
-Jack bean seeds contain several notable [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]] that influence both their nutritional value and industrial applications.
+The species is valued in permaculture systems for its vigorous growth, deep root system, and high [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]] that influence both their nutritional value and industrial applications.
 
 **Lectins and proteins:**
 
@@ -83,8 +53,88 @@ Trypsin inhibitors reduce protein digestibility by approximately 50% in raw seed
 
 ## Cultivation and Permaculture
 
-C. ensiformis is adapted to tropical and subtropical climates (0–1,500 m elevation) with annual rainfall of 600–2,000 mm. It tolerates acid soils (pH 4.5–6.5) better than most legumes and shows moderate [[dighton-fungal-drought-tolerance-plant-water-relations]] once established.
-
-**Establishment:** [[comparison-seed-starting-indoors-vs-direct-seeding-techniques]] at 30–50 kg/ha, 50–100 cm row spacing, or broadcast as a cover crop at 80–120 kg/ha. Scarification improves germination of the hard-coated seeds. Seed inoculation with Bradyrhizobium is recommended on first planting.
+C. ensiformis is adapted to tropical and subtropical climates (0–1,500 m elevation) with annual rainfall of 600–2,000 mm. It tolerates acid soils (pH 4.5–6.5) better than most legumes and shows moderate [[comparison-seed-starting-indoors-vs-direct-seeding-techniques]] at 30–50 kg/ha, 50–100 cm row spacing, or broadcast as a cover crop at 80–120 kg/ha. Scarification improves germination of the hard-coated seeds. Seed inoculation with Bradyrhizobium is recommended on first planting.
 
 **[[chen-maitake-growth-parameters-environmental-control]]:**
+
+## Overview
+
+Canavalia Ensiformis represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish canavalia ensiformis
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving canavalia extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Canavalia Ensiformis finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for canavalia ensiformis. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+canavalia ensiformis and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Canavalia Ensiformis has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of canavalia ensiformis into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[canavalia-gladiata]]
+- [[pteris-ensiformis]]

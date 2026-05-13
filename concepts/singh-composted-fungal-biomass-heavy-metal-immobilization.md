@@ -18,15 +18,7 @@ type: concept
 
 Composting of organic waste amended with fungal biomass creates a valuable soil
 amendment capable of immobilizing heavy metals in contaminated soils. The
-combination of [[singh-binary-ternary-fungal-biosorption-systems]] capacity with the humification processes of
-composting produces a material rich in metal-binding functional groups that
-reduce contaminant bioavailability while improving soil fertility.
-
-## Compost as a Remediation Amendment
-
-Compost derived from municipal green waste, agricultural residues, or
-industrial byproducts provides multiple benefits for metal-contaminated soils.
-The mature compost matrix contains [[teaming-with-microbes-humic-and-fulvic-acids]] acids, polysaccharides,
+combination of [[teaming-with-microbes-humic-and-fulvic-acids]] acids, polysaccharides,
 proteins, and mineral phases that collectively bind metals through various
 mechanisms including ion exchange, complexation, surface adsorption, and
 precipitation. These processes transform soluble, bioavailable metal species
@@ -42,23 +34,7 @@ alone.
 
 ## Fungal Biomass Metal Binding Mechanisms
 
-Fungal cell walls serve as the primary site for [[fungal-metal-biosorption-comparative]]. Key
-binding mechanisms include:
-
-- **Ion exchange**: Metal cations displace lighter ions (H+, Na+, K+, Ca2+)
-  bound to negatively charged functional groups on cell wall polymers.
-- **Complexation**: Metal ions form coordination complexes with nitrogen
-  (amine, amide) and oxygen (carboxyl, hydroxyl, phosphate) donor atoms on
-  chitin, chitosan, glucuronic acid, and other wall constituents.
-- **Precipitation**: Localized supersaturation of metal ions at the cell
-  surface leads to formation of insoluble metal-phosphate, metal-oxalate, or
-  metal-sulfide precipitates.
-- **Surface adsorption**: Physical adsorption to cell wall surfaces through
-  van der Waals forces and electrostatic interactions.
-
-Dead (non-viable) fungal biomass often exhibits higher biosorption capacity
-than living cells because cell lysis exposes additional intracellular binding
-sites. [[singh-mushroom-spawn-production-grain-spawn]] for mushroom
+Fungal cell walls serve as the primary site for [[singh-mushroom-spawn-production-grain-spawn]] for mushroom
 cultivation context.
 
 ## Soil Remediation Applications
@@ -70,12 +46,9 @@ applications include:
 - **Agricultural soil remediation**: Reducing metal uptake by crops on
   marginally contaminated agricultural land. Compost amendments decrease
   the bioavailable fraction of Cd, Pb, Zn, and Cu while supplying organic
-  matter and plant nutrients, supporting [[singh-fungal-roles-in-soil-aggregate-formation]], increases [[mollison-designers-tropical-soils-and-cation-exchange-management]] capacity, and improves water retention.
+  matter and plant nutrients, supporting [[mollison-designers-tropical-soils-and-cation-exchange-management]] capacity, and improves water retention.
 Compost provides slow-release nitrogen, phosphorus, potassium, and
-micronutrients that support plant establishment and [[arbuscular-mycorrhizal-colonization-patterns]].
-
-The amendment also supports [[singh-phytoremediation-mycorrhizal-assisted-plant-uptake]]
-- [[singh-mushroom-spawn-production-grain-spawn]]
+micronutrients that support plant establishment and [[singh-phytoremediation-mycorrhizal-assisted-plant-uptake]]
 - [[singh-mycorrhizal-response-under-salinity-stress]]
 
 ## Historical Context
@@ -89,8 +62,89 @@ The amendment also supports [[singh-phytoremediation-mycorrhizal-assisted-plant-
 - Understanding these processes enables more targeted and effective interventions.
 
 ## See Also
-- [[fungal-heavy-metal-biosorption-and-detoxification]]
 - [[singh-fungal-interactions-with-heavy-metals-in-soil]]
-- [[gadd-fungal-metal-immobilization-biomineralization-oxalate-carbonate-phosphate]]
 - [[dighton-fungal-heavy-metal-accumulation-bioremediation]]
 - [[singh-fungal-biosorption-heavy-metals]]
+
+## Overview
+
+Singh Composted Fungal Biomass Heavy Metal Immobilization represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish singh composted fungal biomass heavy metal immobilization
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving singh extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Singh Composted Fungal Biomass Heavy Metal Immobilization finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for singh composted fungal biomass heavy metal immobilization. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+singh composted fungal biomass heavy metal immobilization and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Singh Composted Fungal Biomass Heavy Metal Immobilization has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of singh composted fungal biomass heavy metal immobilization into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[singh-fungal-alkane-metabolism-pathways]]
+- [[singh-fungal-biodegradation-biodeterioration-materials]]
+- [[singh-fungal-biosorption-reactors-heavy-metals]]

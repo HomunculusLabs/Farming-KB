@@ -18,16 +18,12 @@ created: 2026-05-07
 
 ## Overview
 
-Slapz is a modern hybrid [[blesching-cannabis-strain-selection-receptor-targeting]] bred by Capulator, the creator of MAC (Miracle Alien Cookies). It is a cross between Runtz and MAC, combining the sweet, fruity terpene profile of Runtz with the potent, resinous production of the MAC line.
-
-The strain emerged in the early 2020s and quickly gained attention in California's competitive clone market. Its name reflects the intense, almost shocking sensory experience of its aroma and effects.
-
-Slapz is classified as a slightly indica-dominant hybrid, typically around 55–60% indica. It has become a sought-after genetic for breeders due to its vigorous growth and exceptional [[cannabis-glandular-trichome-types-resin-production-clarke]].
+Slapz is a modern hybrid [[cannabis-glandular-trichome-types-resin-production-clarke]].
 
 ## Lineage
 
 - **Female parent:** Runtz (Zkittlez × Gelato)
-- **Male parent:** MAC (Miracle Alien Cookies) (Alien Cookies × Miracle 15 × Colombian)
+- **Male parent:** MAC ([[miracle-alien-cookies]]) (Alien Cookies × Miracle 15 × Colombian)
 
 The Runtz lineage contributes sweet, candy-like terpenes and balanced hybrid effects. The MAC lineage adds potency, dense bud structure, and complex alien-cookie terpene depth.
 
@@ -51,17 +47,7 @@ Some phenotypes express more of the Runtz candy sweetness, while others lean int
 
 ## Terpene Profile
 
-Dominant terpenes typically include caryophyllene, limonene, and linalool. Caryophyllene contributes peppery, spicy notes and is also a dietary [[cannabis-cannabinoid-receptor-pharmacology]] agonist.
-
-Limonene provides the bright citrus and tropical fruit aromas, while linalool adds a floral, slightly lavender quality that softens the overall profile. Minor terpenes include myrcene, humulene, and ocimene.
-
-The total terpene content is notably high, often exceeding 3–4% in well-grown samples. This high terpene concentration contributes to the strain's reputation as an aromatic powerhouse.
-
-## Cannabinoid Profile
-
-Slapz typically tests between 22–28% THC, placing it in the high-potency category. CBD content is generally below 0.5%, consistent with modern recreational breeding priorities.
-
-Some phenotypes have tested above 30% THC, though these are exceptional and may reflect cultivation conditions as much as genetics. The high THC content pairs with significant terpene levels for strong [[beta-caryophyllene-entourage-effects-cannabis]].
+Dominant terpenes typically include caryophyllene, limonene, and linalool. Caryophyllene contributes peppery, spicy notes and is also a dietary [[beta-caryophyllene-entourage-effects-cannabis]].
 
 Minor cannabinoids including CBG and THCV may be present in trace amounts, contributing to the overall effect profile beyond what THC alone would produce.
 
@@ -88,3 +74,77 @@ Common side effects include dry mouth and dry eyes, typical of high-THC cannabis
 Anxiety and elevated heart rate can occur, especially with the more potent, gas-forward phenotypes. New users should approach this strain with caution due to its high THC content.
 
 The sedative body effects may interfere with productivity at higher doses. Starting with a small amount and waiting 15–20 minutes before re-dosing is recommended.
+
+## Overview
+
+Slapz represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish slapz
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving slapz extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Slapz finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for slapz. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+slapz and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Slapz has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of slapz into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource

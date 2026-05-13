@@ -15,8 +15,7 @@ synonyms:
   - home cannabis garden
   - backyard marijuana
   - small garden cannabis
-  - [[fukuoka-dutch-priest-vegetable-garden-spiritual-renewal]] cannabis
-  - residential [[query-what-is-light-deprivation-cannabis-growing-and-how-does-it-work]]
+  - query-what-is-light-deprivation-cannabis-growing-and-how-does-it-work
 type: concept
 ---
 
@@ -25,32 +24,7 @@ type: concept
 For growers fortunate enough to live in countries or regions that tolerate
 cannabis, backyard cultivation offers the opportunity to give plants the
 tender loving care they deserve. Cervantes describes the advantages and
-techniques for integrating cannabis into existing [[cool-climate-home-garden-mollison]] setups.
-
-## Advantages of Backyard Growing
-
-Growing cannabis in a flower and vegetable garden is ideal because you can
-care for all your plants at the same time. Benefits include:
-
-- Close proximity allows daily attention and monitoring
-- Integration with existing garden infrastructure (irrigation, composting)
-- Natural sunlight provides full-spectrum lighting at no cost
-- Larger root zone in ground soil vs. containers
-- Less need for artificial climate control
-- Lower costs compared to indoor operations
-- Ability to grow larger plants with higher yields per plant
-
-## Soil Preparation
-
-Prepare soil in the fall for spring planting:
-
-- Remove weeds and dig planting holes or garden beds
-- Turn soil over and ensure plenty of amendments (see organic growing
-  practices)
-- Always put a heavy layer of mulch on any soil that will be planted
-- A 12-inch-plus layer of mulch retains moisture and suppresses weeds
-
-Fall soil preparation allows amendments to [[query-can-fungi-break-down-plastic-pollution]] and integrate
+techniques for integrating cannabis into existing [[query-can-fungi-break-down-plastic-pollution]] and integrate
 during winter months, creating optimal growing conditions by spring.
 
 ## Garden Integration
@@ -58,17 +32,9 @@ during winter months, creating optimal growing conditions by spring.
 Cannabis can be integrated into existing gardens alongside vegetables,
 flowers, and herbs. When planted among other garden plants:
 
-- Cannabis benefits from the biodiversity of a [[query-how-to-build-healthy-garden-soil]] ecosystem
-- Companion plants can deter pests (see
-  [[cervantes-season-extension-cloches-row-covers]] protect from early and
+- Cannabis benefits from the biodiversity of a [[cervantes-season-extension-cloches-row-covers]] protect from early and
   late frost
-- [[cervantes-microclimate-frost-protection]] shields plants from cold
-  snaps
-
-## See Also
-
 - [[cervantes-raised-beds-mound-planting]]
-- [[cervantes-mulch-outdoor-moisture-conservation]]
 - [[cervantes-companion-planting-pest-deterrent]]
 ## Practical Considerations
 
@@ -118,8 +84,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[det]]
 - [[composting]]
-- [[grain-cultivation-small-scale]]
 - [[query-how-do-i-start-a-small-scale-mushroom-log-cultivation-operation]]
 - [[cervantes-sinsemilla-cultivation]]

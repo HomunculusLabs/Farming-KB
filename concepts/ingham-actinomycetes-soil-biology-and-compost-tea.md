@@ -24,25 +24,7 @@ source:
 
 Actinomycetes (now classified as Actinobacteria) are a group of
 filamentous, gram-positive bacteria that occupy a unique ecological niche
-in the soil food web, bridging the [[hemenway-mulch-makers-and-plant-functional-roles]] of true bacteria and
-fungi. In Dr. Elaine Ingham's soil food web framework, actinomycetes are
-recognized as critical decomposers, disease suppressors, and indicators of
-soil health. Their presence in compost and compost tea signals a mature,
-aerobic biological community capable of degrading complex organic materials
-and producing compounds that protect plants from disease.
-
-## What Are Actinomycetes?
-
-Actinomycetes are bacteria that grow in filamentous networks similar to fungal
-hyphae. They are prokaryotic like other bacteria, but their filamentous growth
-gives them functional characteristics similar to fungi. Their filaments (0.5-2.0
-micrometers) are narrower than fungal hyphae (2-10 micrometers) and branch at
-acute angles rather than the right-angle branching typical of many fungi.
-
-The most well-known genus is Streptomyces, which produces most naturally
-occurring antibiotics used in medicine. Other common soil genera include
-Nocardia, Micromonospora, and Thermomonospora. Collectively, actinomycetes
-comprise 10-30% of total [[soil-microbial-biomass-measurement-ecological-significance]] in temperate soils and up to 50%
+in the soil food web, bridging the [[soil-microbial-biomass-measurement-ecological-significance]] in temperate soils and up to 50%
 in some alkaline, semi-arid environments.
 
 ## Role in Decomposition
@@ -51,42 +33,14 @@ Actinomycetes are primary decomposers of the toughest organic materials. While
 most bacteria decompose simple sugars and proteins, and fungi handle cellulose
 and lignin broadly, actinomycetes specialize in late-stage decomposition:
 
-- **[[brown-rot-fungi-cellulose-degradation-wood-decay]]:** They produce cellulase enzymes that break down
-  crystalline cellulose, complementing [[dighton-fungal-decomposition-leaf-litter-dynamics]] activity.
+- **[[dighton-fungal-decomposition-leaf-litter-dynamics]] activity.
 - **Chitin decomposition:** Many produce chitinase enzymes, decomposing
   insect exoskeletons, fungal cell walls, and crustacean shells.
-- **[[lignin-degradation]]:** Some Streptomyces species [[query-how-do-white-rot-fungi-break-down-lignin]] and
-  [[ingham-tannins-terpenes-phenolic-compounds]] resistant to most other organisms.
-- **Complex polymers:** They degrade waxes, cutin, rubber, and other resistant
-  materials that accumulate during late-stage organic matter decomposition.
-
-In compost, actinomycetes become prominent during the curing phase after
-thermophilic temperatures subside. White, gray, or pale blue powdery colonies
-on compost surfaces are a positive sign of mature, biologically active compost.
-
-## The Earthy Smell: Geosmin Production
-
-The characteristic "earthy" smell of healthy soil is primarily due to
-geosmin, a [[fungal-volatile-organic-compounds-communication]] compound produced by actinomycetes (especially
+- **[[query-how-do-white-rot-fungi-break-down-lignin]] and
+  [[fungal-volatile-organic-compounds-communication]] compound produced by actinomycetes (especially
 Streptomyces species). Geosmin (C12H22O) has an extremely low detection
 threshold — humans can perceive it at concentrations as low as 5 parts per
-trillion. This is why the earthy aroma of good compost, [[query-how-to-build-healthy-garden-soil]],
-and properly made compost tea is so distinctive and recognizable.
-
-In compost tea production, a strong earthy smell is a positive indicator
-that actinomycete populations are active. Conversely, the absence of this
-earthy character, especially when combined with sour or putrid odors,
-suggests that actinomycetes and other aerobic organisms have been suppressed
-by anaerobic conditions.
-
-## Filamentous Growth and Soil Structure
-
-The filamentous growth habit of actinomycetes contributes to soil aggregation
-by physically bridging soil particles, helping bind microaggregates into larger,
-stable macroaggregates. While fungal hyphae play a larger structural role due to
-their greater diameter, actinomycete filaments contribute importantly to fine-
-scale binding. The spaces around their filaments also create protected microhabitats
-for smaller bacteria and facilitate water, air, and [[nutrient-movement-through-soil-to-plant-roots]].
+trillion. This is why the earthy aroma of good compost, [[nutrient-movement-through-soil-to-plant-roots]].
 
 ## Practical Applications
 
@@ -117,8 +71,80 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[elaine-ingham]]
 - [[query-what-is-the-soil-food-web-and-why-does-it-matter]]
-- [[streptomyces]]
 - [[det]]
 - [[fungal-hyphae]]
+
+## Overview
+
+Ingham Actinomycetes Soil Biology And Compost Tea represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish ingham actinomycetes soil biology and compost tea
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving ingham extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Ingham Actinomycetes Soil Biology And Compost Tea finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for ingham actinomycetes soil biology and compost tea. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+ingham actinomycetes soil biology and compost tea and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Ingham Actinomycetes Soil Biology And Compost Tea has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of ingham actinomycetes soil biology and compost tea into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource

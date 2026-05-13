@@ -24,29 +24,17 @@ type: concept
 
 ## Overview
 
-[[masanobu-fukuoka]] spent decades investigating the true natural form of citrus trees, sacrificing hundreds of trees in the process. His conclusion, that the natural form of the citrus tree is a [[comparison-central-leader-vs-open-center-fruit-tree-training]] type rather than the wineglass or open-centered forms advocated by horticultural science, was rejected by both specialists and farmers. The search illustrates the fundamental conflict between [[natural-farming]]'s reliance on nature's inherent wisdom and [[fukuoka-critique-scientific-agriculture-civilization]]'s reliance on human knowledge and intervention.
+[[comparison-central-leader-vs-open-center-fruit-tree-training]] type rather than the wineglass or open-centered forms advocated by horticultural science, was rejected by both specialists and farmers. The search illustrates the fundamental conflict between [[fukuoka-critique-scientific-agriculture-civilization]]'s reliance on human knowledge and intervention.
 
 ## The Problem of "Natural" Forms in Textbooks
 
 The natural forms shown in illustrations in technical books and journals all showed hemispherical shapes with several scaffold branches meandering upwards. But Fukuoka's own unpleasant experiences had taught him all too clearly that these so-called natural forms were not true natural forms at all, but the shapes of abandoned trees.
 
-A [[fukuoka-natural-tree-form-argument]] does not die of its own accord. If a tree dies when left unpruned, this is the result of some unnatural element introduced during its cultivation. This is a critical distinction that eludes most agricultural scientists.
-
-## Abandoned Forms Are Not Natural Forms
-
-The "natural" forms described in textbooks are not the forms that trees adopt when growing under truly natural conditions, but rather the forms that artificially trained trees assume when human intervention is suddenly withdrawn. The deformation caused by prior pruning creates conditions that lead to disease, dieback, and eventual death, not because the natural form is unsustainable, but because the tree was never allowed to develop its natural form in the first place.
-
-## Deciduous Trees: A Central Leader
-
-It was relatively easy to determine that the natural form of most deciduous fruit trees is a central leader system. Deciduous trees allowed to grow from seed naturally develop a strong central trunk with lateral branches arranged spirally around it, each receiving adequate sunlight and [[stamets-growing-room-air-circulation-co2-management]]. This form is stable, self-maintaining, and requires no pruning.
+A [[stamets-growing-room-air-circulation-co2-management]]. This form is stable, self-maintaining, and requires no pruning.
 
 ## The Unique Challenge of Citrus Trees
 
-However, Fukuoka had a lot of trouble determining the natural form of citrus trees, and especially the Satsuma orange. The citrus tree presented unique challenges because of its evergreen nature, its tendency to produce dense internal foliage, and the long history of [[fukuoka-matsutake-artificial-cultivation-attempt]] that had altered its genetic character through centuries of cross-breeding.
-
-## The Wineglass Experiment: First Failure
-
-Fukuoka first tried applying the methods of [[comparison-natural-farming-vs-permaculture]] to an established grove of Satsuma orange trees with a couple of hundred trees to the acre. Trees at the time were trimmed in the shape of a wineglass and the height held to about six or seven feet.
+However, Fukuoka had a lot of trouble determining the natural form of citrus trees, and especially the Satsuma orange. The citrus tree presented unique challenges because of its evergreen nature, its tendency to produce dense internal foliage, and the long history of [[comparison-natural-farming-vs-permaculture]] to an established grove of Satsuma orange trees with a couple of hundred trees to the acre. Trees at the time were trimmed in the shape of a wineglass and the height held to about six or seven feet.
 
 Because he simply discontinued pruning, letting these trees grow untended, large numbers of scaffold branches and laterals grew out at once. Before long, these began crisscrossing, doubling back, and growing in strange, twisted shapes.
 
@@ -117,8 +105,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[natural-farming]]
 - [[fukuoka-textdoc-attaining-natural-form-fruit-trees]]
-- [[fukuoka-textdoc-natural-form-fruit-trees]]
 - [[dom]]
 - [[det]]

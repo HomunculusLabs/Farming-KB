@@ -28,62 +28,95 @@ sources:
 
 It is one of the most economically important timber species in South Asia, prized for its dense, durable heartwood used in furniture, flooring, and musical instruments.
 
-The species forms symbiotic associations with rhizobia and [[comparison-soil-food-web-vs-arbuscular-mycorrhizal-fungi]] fungi, contributing significantly to soil nitrogen enrichment and making it a cornerstone species in permaculture and silvopastoral systems.
+The species forms symbiotic associations with rhizobia and [[psilocybe-southeast-asia-pacific]], East Africa, West Africa, and parts of the Americas.
 
-Sissoo is remarkably drought-hardy and tolerates a wide range of soil conditions, from sandy alluvial deposits to saline alkaline soils.
+The species thrives along riverbanks, alluvial plains, and degraded [[dighton-fungal-drought-tolerance-plant-water-relations]].
 
-## Taxonomy and Morphology
-
-- **Kingdom:** Plantae
-- **Division:** Tracheophyta
-- **Class:** Magnoliopsida
-- **Order:** Fabales
-- **Family:** Fabaceae (subfamily: Faboideae)
-- **Genus:** Dalbergia
-- **Species:** *D. sissoo* Roxb. ex DC. (1825)
-- **Common names:** Indian rosewood, shisham, sissoo, tahli, irugudu
-- **Etymology:** *sissoo* from Hindi शीशम (śīśam); *Dalbergia* honors Swedish botanist Carl Gustaf Dahlberg
-
-### Botanical Description
-
-- **Growth habit:** Medium to large deciduous tree, 15–25 m tall, trunk DBH 30–60 cm
-- **Bark:** Dark grey to brown, rough, deeply fissured with longitudinal cracks, exfoliating in thin flakes
-- **Leaves:** Alternate, pinnately compound, 10–15 cm long, 3–5 pairs of leaflets, each leaflet 3–5 × 1.5–2.5 cm, ovate to elliptic
-- **Flowers:** Papilionaceous, white to pale yellow, 5–8 mm, borne in axillary panicles; flowering March–May
-- **Fruit:** Thin, flat pod, 4–8 cm long, 1–1.5 cm wide, containing 1–4 seeds; ripening June–August
-- **Seeds:** Kidney-shaped, brown, 5–6 mm, 15,000–25,000 seeds per kg
-- **Root system:** Deep taproot (2–3 m), extensive lateral root network; rhizobial nodules on fine roots
-
-### Wood Properties
-
-- **Heartwood:** Dark brown to purplish-brown with darker streaking, distinctly demarcated from pale yellow sapwood
-- **Density:** 0.65–0.85 g/cm³ at 12% moisture content
-- **Grain:** Interlocked, fine to medium texture
-- **Durability:** Highly durable (Class 1) against decay and termites
-- **Working properties:** Excellent machining, turning, and finishing qualities; takes high polish
-
-## Distribution and Habitat
-
-Native to the foothills of the Himalayas (200–1,500 m elevation), *D. sissoo* occurs naturally across northern India, Pakistan, Nepal, and Bangladesh.
-
-It has been widely introduced throughout [[psilocybe-southeast-asia-pacific]], East Africa, West Africa, and parts of the Americas.
-
-The species thrives along riverbanks, alluvial plains, and degraded [[fukuoka-textdoc-agricultural-land-law-obstruction-return-farming]].
-
-Optimal conditions include mean annual temperatures of 23–35°C and annual rainfall of 500–2,000 mm.
-
-It tolerates drought (up to 6-month dry season), seasonal flooding, moderate salinity (EC up to 8 dS/m), and alkaline soils (pH 7–9.5).
-
-## Ecological Role and Nitrogen Fixation
-
-*D. sissoo* forms effective symbiotic relationships with rhizobia of the genus *Bradyrhizobium*, fixing an estimated 20–60 kg N/ha/year depending on site conditions.
-
-This nitrogen input significantly improves soil fertility for intercropped species, making sissoo an effective nurse tree in agroforestry systems.
-
-Arbuscular mycorrhizal associations (primarily *Glomus* spp.) enhance phosphorus uptake and [[dighton-fungal-drought-tolerance-plant-water-relations]].
-
-The tree's leaf litter contributes 3–6 tonnes of [[hamilton-composting-and-organic-matter-management]] per hectare annually, with a C:N ratio of approximately 20:1, supporting soil [[dighton-fungal-dissolved-organic-carbon-production]] accumulation.
+The tree's leaf litter contributes 3–6 tonnes of [[dighton-fungal-dissolved-organic-carbon-production]] accumulation.
 
 These combined properties make *D. sissoo* one of the most effective leguminous trees for soil rehabilitation of degraded lands.
 
 ## Permaculture and Agroforestry Applications
+
+## Overview
+
+Dalbergia Sissoo represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish dalbergia sissoo
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving dalbergia extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Dalbergia Sissoo finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for dalbergia sissoo. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+dalbergia sissoo and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Dalbergia Sissoo has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of dalbergia sissoo into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[dalbergia-nigra]]
+- [[dalbergia-sissoo-permaculture-timber-tree]]
+- [[dalbergia-sissoo-timber-tree]]

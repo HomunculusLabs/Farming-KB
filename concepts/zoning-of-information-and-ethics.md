@@ -6,66 +6,7 @@ type: concept
 
 # Zoning of Information and Ethics
 
-In [[permaculture]], zones represent more than a spatial organization of physical elements. They embody a **gradient of human dependency, information development, and ethical responsibility** — stretching from the intensively managed home garden to the wilderness where humans are merely visitors. This framework reframes the relationship between people and nature from one of dominance to one of graduated learning and humility.
-
-## Zones as a Gradient of Understanding
-
-### Zone 1: Information Developers
-
-In Zone 1 — the home garden — humans are **information developers**. We tend species selected by and dependent on mankind. All animal species tend their "home gardens," and an interdependency arises that is not greatly different from the parasite-prey dependency. Here we are teachers, actively shaping and selecting species for human use.
-
-### Zone 2: Growing Complexity
-
-In Zone 2, nature makes the situation more complex. We begin to learn from species other than our people-dependent selections. The managed ecosystem starts to incorporate natural processes and species we did not choose but that contribute to the system's health.
-
-### Outer Zones: From Dependency to Understanding
-
-As we progress outward through the zones, we can lose our person-orientation and gain real understanding of the necessity for all life forms. We do not "need" to exploit most species. In fact, we need and use only a few species of the hundreds of thousands that exist.
-
-### Wilderness: Visitors and Learners
-
-In wilderness, we are **visitors or strangers**. We have neither need nor right to interfere or dominate. We should not settle there and leave wastelands at our back. In wilderness, we may learn lessons basic to good design, but we cannot improve on the information already available there. In wilderness, we learn of our little part in the scheme of all things.
-
-## Three Fundamental Understandings
-
-1. **Everything is of use.** It is not necessarily needed by people, but it is needed by the life complex of which we are a dependent part.
-
-2. **We cannot order complex functions.** They must evolve of themselves.
-
-3. **We cannot know a fraction of what exists.** We will always be a minor part of the total information system.
-
-Thus, we are teachers only in our home gardens, and learners elsewhere. Nowhere do we create. Everything we depend on we have evolved from what is already created, and that includes ourselves.
-
-## The Ethics of Land Use
-
-### The Ethical Imperative
-
-The core ethical proposition is that **we have no right, nor any ethical justification, for clearing land or using wilderness while we tread over lawns, create erosion, and use land inefficiently.** Our responsibility is to put our house in order first. Should we do so, there will never be any need to destroy wilderness.
-
-Most farmers can become stewards of forest and wildlife, as they will have to become in any downturn in the energy economy. **Unethical energy use** is what is destroying distant resources for short-term use.
-
-### Hypocrisy of Distance
-
-The zones represent **zones of destruction, information, available energy, and human dependency**. Mollison is sharply critical of those who claim ecological awareness while exploiting distant resources:
-
-- The "ecologist" with large lawns and no food garden
-- The "environmentalist" drinking from an aluminum beer can and buying newspapers to read of destructive exploits
-
-Both occupations exploit wilderness and people. Only excessive energy (human or fuel) enables us to assert dominance over distant resources. When we speak of dominance, we really mean **destruction**.
-
-### The Role of Wilderness
-
-Thoughtful people — those who get recreation from trying to understand — need wilderness as schools need teachers. Should we lose the wilderness, or suffer it to be destroyed, we will be recycled for more appropriate life in any number of ways, some very painful and protracted.
-
-## Type 1 Error: Settlement in Wilderness
-
-The first "error" thesis states: **When we settle into wilderness, we are in conflict with so many life forms that we have to destroy them to exist.** The directive is clear: keep out of the bush. It is already in good order.
-
-This error principle establishes a fundamental design boundary — the wilderness zone is not available for human settlement, and attempting to settle there inevitably triggers a cascade of destructive interactions.
-
-## The Permaculture vs. Conventional Design Contrast
-
-Mollison presents a stark contrast between [[permaculture-design]] motivation and conventional design practices:
+In [[permaculture-design]] motivation and conventional design practices:
 
 | Aspect | Permaculture Design | Present-Day Design |
 |--------|-------------------|-------------------|
@@ -96,4 +37,89 @@ The "Bruce effect" — where rats subjected to breathing the same airstream as t
 The zoning of information and ethics extends permaculture design beyond physical placement into a philosophical framework. Zones represent a gradient from human-dominated systems (where we are teachers and information developers) to wilderness (where we are humble learners). The ethical imperative is to manage our own systems efficiently before ever touching wild systems. Type 1 errors — settling in wilderness — trigger cascading destruction. The contrast between permaculture and conventional design is ultimately a contrast between stability through dynamic local adjustment and instability through perceived individual powerlessness.
 
 ## See Also
+- [[psilocybin-consciousness-as-information-in-process]]
+
+## Overview
+
+Zoning Of Information And Ethics represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish zoning of information and ethics
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving zoning extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Zoning Of Information And Ethics finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for zoning of information and ethics. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+zoning of information and ethics and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Zoning Of Information And Ethics has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of zoning of information and ethics into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[emcdda-retailer-risk-information-quality]]
+- [[emcdda-smartshop-online-risk-information-quality-audit-2006]]
+- [[homestead-planning-and-zoning]]
+- [[mind-body-problem-vs-information-paradigm-of-consciousness]]
 - [[psilocybin-consciousness-as-information-in-process]]

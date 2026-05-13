@@ -86,17 +86,7 @@ The grader has a mid-mounted blade for even spreading. It can make long drains o
 
 ### The Scraper
 
-A large, self-filling bucket or land dredge that can both fill and empty itself to plane off or dig out large areas. All large machines can now be **laser-guided** to accurately level and grade fields at a pre-set slope. Lasers can automatically work the hydraulics to lift and drop earth. Land forming is mainly restricted to large flattish [[water-wise-vegetable-gardening|irrigation]] areas or civil works and is normally contracted out to specialists.
-
-## The Four-Way Bucket (Drott)
-
-This machine combines all four motions of **lift, dig, push, and pull**, making it a bridging and universal machine between blade and bucket types. Usually fitted to a bulldozer body, it is an excellent landscaping machine.
-
-Key characteristics:
-- Can close on loads of earth like a clamshell
-- Delicately pick up large stones
-- Shave curves in embankments
-- Fill trucks with [[soil-ph|soil]]
+A large, self-filling bucket or land dredge that can both fill and empty itself to plane off or dig out large areas. All large machines can now be **laser-guided** to accurately level and grade fields at a pre-set slope. Lasers can automatically work the hydraulics to lift and drop earth. Land forming is mainly restricted to large flattish [[soil-ph|soil]]
 - Cannot swivel the blade separately from the body (unlike some dedicated bucket machines)
 
 The **Bobcat** — a small wheeled machine — serves as an excellent finishing tool for light work or for making swales in Zones 2 and 3.
@@ -111,8 +101,12 @@ For all normal bench work, a **bulldozer** is most useful. For long flat road or
 - **Material type** — rippers needed for compacted soils, buckets for loose material
 - **Access** — light swamp machines for marsh work, draglines for distance reach
 
-The revolution of eroded and arid landscapes begins with tools and is consolidated with life forms, especially trees. Designers and architects should understand [[earthmoving-machinery]] and its capabilities, as moving earth should always serve permanent and beneficial ends.
+The revolution of eroded and arid landscapes begins with tools and is consolidated with life forms, especially trees. Designers and architects should understand [[permaculture-resources-classification]]
 
 ## See Also
 
-- [[permaculture-resources-classification]]
+- [[advanced-earthmoving-equipment]]
+- [[earthmoving-machinery-permaculture]]
+- [[earthmoving-tools-permaculture-mollison]]
+- [[earthmoving-machinery]]
+- [[jadam-soil-compaction-heavy-machinery]]

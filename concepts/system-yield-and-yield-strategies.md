@@ -6,56 +6,7 @@ type: concept
 
 # System Yield and Yield Strategies
 
-In [[permaculture]], yield is fundamentally redefined from the narrow agricultural concept of a single product per hectare. System yield encompasses the total surplus energy produced, stored, conserved, reused, or converted by a design — energy that remains after the system itself has met all its needs for growth, reproduction, and maintenance.
-
-## Types of Yield
-
-### Product Yield
-
-The sum of primary and derived products available from or surplus to the system. Some are intrinsic (pre-existing the design), while others are created through intentional design intervention.
-
-### Energy Yield
-
-The sum of conserved, stored, and generated energy surplus to the system, including both intrinsic and design-created components.
-
-### Impalpable Yield
-
-These invisible yields relate to health, nutrition, security, and a satisfactory social context and lifestyle. They are governed by values and ethics, which determine our concept of needs and set the limits of "enough." The search for impalpable yields most often drives people to seek good design or take up life on the land.
-
-## System Yield Definition
-
-> **System yield** is the sum total of surplus energy produced by, stored, conserved, reused, or converted by the design. Energy is in surplus once the system itself has available all its needs for growth, reproduction, and maintenance.
-
-Some biologists define yield more narrowly, accepting that forests, lakes, or crops have finite upper limits of surplus based on substrate conditions and available energy. Permaculture rejects this passive approach as inapplicable to active, conscious design using fertilizers, windbreaks, or selected species.
-
-Even more narrow is the agricultural economist's definition — regarding a single product (peaches per hectare) as the yield. Mollison argues that this limited definition itself may be the true constraint on yield.
-
-A true accounting of yield considers both upstream costs (energy input) and downstream costs (health impact). Product yield that creates pollution and soil mineral loss may cost more than it replaces.
-
-## The Role of Life in Yield
-
-Living things, including people, are the only effective intervening systems for capturing resources on this planet and producing yield. The sum and capacity of life forms determine total system yield and surplus.
-
-Only life and flow can yield continually. Coal and rock have finite product; they do not yield in the sense of ongoing surplus. The energy stocks of any system are the flows and lives within it. While flow can exist without life (as on the moon), on Earth life is the intervening strategy for capturing flow and producing yield. Technology depends on the continuation of life, not the opposite.
-
-## Strategies That Create Yields
-
-Permaculture organizes yield-producing strategies into several categories:
-
-### Spatial and Functional Strategies
-
-- **Niche creation** in space; provision of critical resources
-- **Soil rehabilitation and creation**
-- **Water diversion and recycling**
-- **Integration of structures and landscape**
-- **Selection of low-maintenance cultivars and species** for a particular site
-- **Investigation of other species** for usable yields
-- **Supplying key nutrients** through biological waste recycling (mulch, manure)
-- **Assembly of beneficial and cooperative guilds** of plants and animals
-
-### Pattern Strategies
-
-- **[[annidation]]**: A design strategy of nesting or stacking one thing within another, like a bowl in a bowl or a vine in a tree. Sequential annidation includes interplanting and intercropping.
+In [[annidation]]**: A design strategy of nesting or stacking one thing within another, like a bowl in a bowl or a vine in a tree. Sequential annidation includes interplanting and intercropping.
 - **Tessellation**: Forming or arranging a mosaic of parts — tessellation of cycles and successions as in browsing sequences.
 - **Innovative spatial geometry** of designs using edge and harmonics
 - **Routing of materials or energy** to their next best use
@@ -102,3 +53,88 @@ Just as yield can be increased, it can be decreased. Perverse aims of politician
 Any system or organism can accept only that quantity of a resource which it can use productively. Any resource input beyond that point throws the system into disorder — oversupply of a resource is a form of chronic pollution.
 
 Both over- and undersupply have similar effects, except that oversupply produces more grotesque results. Undersupply can be partially managed through reduced growth and wider dispersal, but oversupply causes inflated growth, crowding, and sociopathy. Ethical resource management is needed to balance the pathologies of famine and obesity.
+
+## Overview
+
+System Yield And Yield Strategies represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish system yield and yield strategies
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving system extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+System Yield And Yield Strategies finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for system yield and yield strategies. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+system yield and yield strategies and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+System Yield And Yield Strategies has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of system yield and yield strategies into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[cannabis-endocannabinoid-system]]
+- [[coleman-mobile-greenhouse-system]]
+- [[guzman-neurotropic-fungi-classification-four-groups-chemistry-system]]
+- [[mobile-greenhouse-system]]
+- [[query-how-to-design-a-chicken-tractor-system]]

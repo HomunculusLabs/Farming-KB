@@ -36,33 +36,11 @@ decay is the rate-limiting step in carbon cycling.
 
 White rot fungi, predominantly Basidiomycota, are the only organisms capable of
 substantial lignin degradation. They employ an oxidative enzymatic system
-centered on [[fungal-lignin-peroxidase-veratryl-alcohol]] (LiP), [[fungal-manganese-peroxidase-remediation]] (MnP), and laccase.
+centered on [[fungal-manganese-peroxidase-remediation]] (MnP), and laccase.
 These enzymes generate radical intermediates that nonspecifically attack lignin's
 aromatic structure, eventually mineralizing it to carbon dioxide. Lignin
-peroxidase, first characterized in [[serpula-lacrymans]] (the dry rot fungus)
-being one of the most destructive organisms in buildings.
-
-## Brown Rot Decay
-
-Brown rot fungi, also primarily Basidiomycota, represent a fundamentally
-different enzymatic strategy. Rather than deconstructing lignin, they depolymerize
-cellulose while modifying lignin into a brown, oxidized residue. Brown rot fungi
-produce a non-enzymatic [[bioremediation-fenton-chemistry-brown-rot-fungi]] system that generates hydroxyl radicals
-from [[cervantes-hydrogen-peroxide-sterilization]] and ferrous iron. These hydroxyl radicals are among the
-most powerful oxidants known and cleave cellulose chains directly.
-
-The brown rot strategy is remarkably efficient: by generating reactive oxygen
-species extracellularly, these fungi bypass the need for direct enzymatic contact
-with cellulose microfibrils. A small number of cellulose-degrading enzymes then
-complete the hydrolysis. This two-step mechanism allows brown rot fungi to
-decompose wood rapidly, which is why they are among the most destructive agents
-of structural timber.
-
-Brown rot fungi also produce oxalic acid, which lowers substrate pH and helps
-solubilize iron for the Fenton reaction. The same oxalic acid can chelate
-calcium and other metals from wood cell walls, further facilitating decay.
-Ecologically, brown rot fungi dominate coniferous forest decomposition in the
-Northern Hemisphere and are critical for [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] in boreal ecosystems.
+peroxidase, first characterized in [[bioremediation-fenton-chemistry-brown-rot-fungi]] system that generates hydroxyl radicals
+from [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] in boreal ecosystems.
 
 ## Soft Rot Decay
 
@@ -117,8 +95,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[fungal-enzyme-systems]]
 - [[doc]]
-- [[laccase]]
 - [[dom]]
 - [[det]]

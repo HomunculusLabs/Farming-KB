@@ -70,17 +70,13 @@ Its thick-walled spores are adapted to survive passage through herbivore digesti
 
 The fungus competes with other coprophilous fungi in a well-documented successional sequence on dung, typically appearing in the early to mid-successional phase.
 
-Coprophilous fungi like *S. semiglobata* contribute significantly to [[fungal-nitrogen-mineralization-pathways]] and [[mollison-phosphorus-cycling-and-conservation-in-permaculture-systems]] in pastoral ecosystems.
+Coprophilous fungi like *S. semiglobata* contribute significantly to [[mollison-phosphorus-cycling-and-conservation-in-permaculture-systems]] in pastoral ecosystems.
 
 ## Bioactive Compounds
 
 *Stropharia semiglobata* does **not** contain psilocybin, psilocin, or other tryptamine-based psychoactive compounds.
 
-It does produce hemolytic proteins and has been investigated for [[mycelium-running-mushroom-antimicrobial-properties-species-chart]] in preliminary in vitro studies.
-
-Some Strophariaceae species contain unique strophariasterol-type sterols, though these have not been specifically characterized in *S. semiglobata*.
-
-The absence of psychoactive compounds distinguishes it from the closely related *[[mckenna-stropharia-cubensis-extraterrestrial-hypothesis-spore-dispersal]]* (syn. *[[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]]*), which is a well-known psilocybin-containing species.
+It does produce hemolytic proteins and has been investigated for [[mckenna-stropharia-cubensis-extraterrestrial-hypothesis-spore-dispersal]]* (syn. *[[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]]*), which is a well-known psilocybin-containing species.
 
 ## Cultivation
 

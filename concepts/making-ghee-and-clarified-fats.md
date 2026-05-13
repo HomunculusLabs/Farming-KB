@@ -12,8 +12,7 @@ sources:
 
 Updated: 2026-04-18
 
-Ghee (clarified butter) is butter that has been rendered to remove milk solids and water, leaving pure butterfat. Ghee has a much longer [[psilocybin-shelf-life-stability]] than fresh butter -- months at room temperature -- and a higher smoke point, making it superior for cooking. It is a traditional food preservation method in South Asian and Middle Eastern cuisines and an essential skill for [[lacto-fermentation-and-food-preservation-methods]]
-- [[solar-and-electric-food-drying-methods]]
+Ghee (clarified butter) is butter that has been rendered to remove milk solids and water, leaving pure butterfat. Ghee has a much longer [[lacto-fermentation-and-food-preservation-methods]]
 - [[kitchen-composting-and-vermicomposting]]
 
 - faires-low-energy-cooking-and-food-preservation

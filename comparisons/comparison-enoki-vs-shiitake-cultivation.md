@@ -24,33 +24,6 @@ differences to help you decide which species fits your setup.
 
 ## Enoki
 
-[[enoki-cultivation-guide]]
-
-Enoki is prized for its delicate, crisp texture and mild, slightly sweet
-flavor. The cultivated form — long white stems with tiny caps — looks nothing
-like the wild amber-brown version. This transformation is achieved through
-high CO2 levels (5000-10000 ppm), near-total darkness, and cold fruiting
-temperatures between 37-46 F (3-8 C).
-
-Substrate preparation uses hardwood sawdust (70-75%) supplemented with wheat
-or rice bran (20-25%) at 63-68% moisture content. Enoki is sensitive to
-bacterial contamination, so thorough sterilization at 15 PSI for 2-3 hours
-is essential. Commercial growers typically use polypropylene bottles with
-narrow necks that create a high-CO2 micro-environment around the developing
-mushrooms.
-
-The spawn run takes 20-30 days at 68-75 F (20-24 C) in darkness. Pinning
-requires a cold shock at 37-46 F for 7-10 days with humidity at 90-95%.
-From pinning to harvest is approximately 10-14 days. The entire cycle from
-inoculation to first harvest runs about 35-55 days.
-
-Enoki is uniquely suited to winter production because it fruits at near-
-freezing temperatures when most other cultivated mushrooms cannot. This makes
-it an excellent off-season crop for growers who already have cold rooms or
-refrigerated fruiting chambers.
-
-## Shiitake
-
 [[shiitake-cultivation-guide]]
 
 Shiitake is the second most cultivated mushroom worldwide and one of the
@@ -131,8 +104,6 @@ equipment. Spawn for both species is available from the same suppliers.
 
 ## See Also
 
-- [[enoki-mushroom-cultivation]]
 - [[shiitake-cultivation-on-sawdust]]
-- [[shiitake-cultivation-log-method]]
 - [[mushroom-substrate-comparison]]
 - [[comparison-oyster-vs-shiitake-cultivation]]

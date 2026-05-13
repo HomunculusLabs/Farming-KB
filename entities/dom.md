@@ -29,7 +29,7 @@ alpha-methyl group on the ethylamine side chain. This alpha-methyl substitution 
 phenethylamine to an amphetamine, conferring dramatically increased metabolic stability, potency, and duration by
 protecting the molecule from rapid oxidative deamination by MAO enzymes. DOM is typically encountered as a white powder
 or in tablet form. The effective oral dose is remarkably low at 3–10 mg, making it approximately 20–40 times more
-potent than [[alexander-shulgin]] in 1963. In 1967, it appeared on the streets of [[shipibo-san-francisco-ceremonial-center-ucayali]]'s
+potent than [[shipibo-san-francisco-ceremonial-center-ucayali]]'s
 Haight-Ashbury district as "STP," allegedly standing for "Serenity, Tranquility, and Peace" (though the name was a
 tongue-in-cheek reference to the motor oil additive). The initial tablets, distributed by the Hells Angels, contained
 an estimated 10–20 mg — doses at the high end of the effective range, which produced overwhelming experiences
@@ -39,38 +39,13 @@ contributed to the growing backlash against street psychedelics that culminated 
 gaias-garden-flowering-tree-desert-restoration-case-study is frequently
 referenced in discussions of hallucinogenic-mushroom-health-risks-and-harm-reduction, and the ethics of novel psychoactive substance distribution.
 It illustrates the critical importance of accurate dosage information and user education — principles that remain
-central [[psychedelic-drug-testing-and-adulterant-screening]]
-
-## See Also
-
-- [[scleroderma-citrinum]]
+central [[scleroderma-citrinum]]
 - epimedium-sagittatum
-- [[gymnema-sylvestre]]
 - [[mendo-breath-entity]]
-- [[monarda-didyma]]
-- punica-granatum
 - [[morinda-citrifolia]]
 - arctostaphylos-uva-ursi
-- [[thuja-occidentalis]]
 - [[swertia-chirata]]
-- [[ethylone]]
-## Practical Considerations
-
-When working with DOM, several practical factors should be
-carefully considered to achieve optimal results. These include
-the specific conditions of the implementation context, available
-resources, timing requirements, and the interactions between this
-topic and other elements of the broader system. A holistic view
-that considers these interconnections produces better outcomes.
-
-Environmental conditions such as temperature, moisture, and
-seasonal patterns significantly influence results. Monitoring these
-variables and adapting practices accordingly is essential for success.
-The most effective practitioners develop keen observation skills and
-respond flexibly to changing conditions rather than following rigid
-protocols regardless of circumstances or local variation.
-
-[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
+- [[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -88,3 +63,80 @@ and adaptive capacity helps buffer against unpredictable events and
 conditions. This approach recognizes that some degree of uncertainty is
 inherent in working with natural systems and plans accordingly rather
 than assuming perfect predictability or control over outcomes.
+
+## Overview
+
+Dom represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish dom
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving dom extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Dom finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for dom. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+dom and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Dom has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of dom into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.

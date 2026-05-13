@@ -17,11 +17,7 @@ type: concept
 
 # Rabbit Housing and Manure Management
 
-Bill Mollison's [[vermicomposting]] and garden
-fertilization, breed rapidly, and require minimal space compared to
-larger livestock. Their [[duck-keeping-guide-detailed]] design follows
-[[vermicomposting]] every 3-6 months.
-
+Bill Mollison's [[duck-keeping-guide-detailed]] design follows
 [[comparison-deep-litter-vs-hot-composting]] systems produce compost directly in the rabbit housing,
 reducing handling and transportation. The microbial activity in the
 litter generates warmth, which is valuable in cold climates. Mollison
@@ -41,10 +37,7 @@ use. Mollison provides these characteristics:
 - **Cold-safe application:** Unlike fresh chicken or pig manure,
   rabbit manure can be applied directly to gardens without composting
   because it is relatively low in salts and pathogens and will not
-  burn plants. However, composting improves [[ph-and-nutrient-availability-garden-soils]].
-
-- **Soil food web support:** Rabbit manure supports diverse
-  [[zone-1-intensive-garden]]
+  burn plants. However, composting improves [[zone-1-intensive-garden]]
 beds at a rate of 2-5 kg per square meter annually.
 
 ## Breeding Cycle Management

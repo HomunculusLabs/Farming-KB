@@ -18,8 +18,7 @@ type: concept
 
 The potential for recycling organic wastes with fungi seems
 unlimited. Surprisingly, many mushrooms thrive on base materials
-alien to their natural habitat. Although [[douglas-fir]] and hemlock -- suitable for some species
-  ([[volvariella-volvacea]] prefer
+alien to their natural habitat. Although [[volvariella-volvacea]] prefer
    alkaline conditions (pH 7.5-8.0). Lime can be added to adjust.
 
 3. Moisture Content: Typically 60-75% moisture by weight. Too dry
@@ -37,38 +36,6 @@ separate their sawdust into identifiable piles are not recommended
 as substrate suppliers.
 
 ## Heavy Metal Contamination
-
-[[fukuoka-textdoc-sawdust-wood-chips-orchard-soil-acidification-experiment]] from county roads with little traffic are less prone to
-heavy metal contamination. This problem is largely circumvented by
-obtaining sawdust and chips from larger diameter trees. Sawmills
-and pulp chip companies provide the cleanest source. Currently,
-mushroom heavy metal concentrations are well below US government
-standards. However, analyses of Chinese mushrooms revealed the
-greatest aluminum, mercury, and lead concentrations, followed by
-Californian, with Olympic Peninsula (Washington) mushrooms the
-lowest.
-
-## Key Principle
-
-The key to successful cultivation is to match the skills of the
-cultivator with the right strain on the proper substrate under
-ideal environmental conditions. See
-growing-gourmet-supplemented-sawdust-sterilization for detailed methods.
-## Practical Considerations
-
-When working with Substrate Materials and Wood Types for Mushroom Cultivation, several practical factors should be
-carefully considered to achieve optimal results. These include
-the specific conditions of the implementation context, available
-resources, timing requirements, and the interactions between this
-topic and other elements of the broader system. A holistic view
-that considers these interconnections produces better outcomes.
-
-Environmental conditions such as temperature, moisture, and
-seasonal patterns significantly influence results. Monitoring these
-variables and adapting practices accordingly is essential for success.
-The most effective practitioners develop keen observation skills and
-respond flexibly to changing conditions rather than following rigid
-protocols regardless of circumstances or local variation.
 
 [[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
@@ -111,8 +78,6 @@ through generations to modern scientific approaches, the evolution continues
 to inform current best practices and research directions.
 
 ## See Also
-- [[doc]]
 - [[det]]
-- [[mushroom-cultivation]]
 - [[sterilization]]
 - [[growing-gourmet-wood-ear-auricularia-cultivation]]

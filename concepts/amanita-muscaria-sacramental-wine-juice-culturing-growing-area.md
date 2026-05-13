@@ -8,7 +8,7 @@ type: concept
 
 ## The Sacramental Wine Concept
 
-The sacramental wine of the Amanita muscaria tradition is a unique beverage —
+The sacramental wine of the [[amanita-muscaria]] tradition is a unique beverage —
 alcohol-free, sulfite-free, and alive with the mushroom's mycelium. Unlike
 conventional wine produced through yeast fermentation, this sacramental wine is
 created by culturing **Amanita muscaria mycelium directly in pasteurized fruit
@@ -30,18 +30,7 @@ Key principles:
 - **Living culture** — the finished wine contains actively growing mycelium,
   enabling perpetual, self-renewing sacramental practice.
 - **Active compounds** — the mycelium produces and concentrates bioactive
-  constituents ([[amanita-muscaria-and-ibotenic-acid-containing-fungi]], muscimol, and related compounds) directly within
-  the juice matrix, creating a potable form of the medicine.
-
-## Growing Area Setup
-
-Successful culturing requires a dedicated growing area that maintains stable
-environmental conditions — one of the most important foundations of reliable
-sacramental wine production.
-
-### Temperature Requirements
-
-[[query-what-is-the-ideal-temperature-range-for-growing-cannabis]] range is **55–65°F (13–18°C)**. Temperature stability is
+  constituents ([[query-what-is-the-ideal-temperature-range-for-growing-cannabis]] range is **55–65°F (13–18°C)**. Temperature stability is
 critical — the range must remain steady without fast fluctuations or wide swings.
 Rapid changes stress the mycelium and slow colonization; wide swings can halt
 growth entirely or encourage competing organisms.
@@ -56,21 +45,7 @@ growth entirely or encourage competing organisms.
   room maintains more stable temperatures than open rooms and can be sealed
   against dust and contaminants.
 - **Basement or cellar** — naturally cool underground spaces may provide the
-  right temperature range year-round without artificial [[mollison-pdc-trellis-systems-climate-control]].
-
-### Cleanliness and Preparation
-
-The growing area must be **thoroughly cleaned before first use** and maintained
-in a clean state throughout operation. Cleanliness is the single most important
-factor in preventing contamination by unwanted organisms (molds, bacteria,
-wild yeasts). Clean all surfaces with disinfectant, ensure the area is free
-from visible mold and organic debris, minimize airflow disruptions, and keep
-the area dedicated to culturing rather than other purposes.
-
-## Fruit Juice Selection
-
-The choice of fruit juice serves as the nutrient base. Any fruit juice that is
-both **sweet and acidic** should support [[mushroom-mycelium-growth-monitoring-colonization-cues]], but certain juices
+  right temperature range year-round without artificial [[mushroom-mycelium-growth-monitoring-colonization-cues]], but certain juices
 have advantages.
 
 ### Frozen Concentrate Juice (Preferred)

@@ -31,17 +31,14 @@ Endophytic fungal diversity is extraordinarily high. Surveys of tropical forest 
 
 - **Latitudinal diversity gradient**: Endophyte diversity tends to be higher in tropical regions than in temperate zones, paralleling patterns observed in many other organism groups.
 - **Host specificity**: Endophyte communities show varying degrees of host specificity. Some endophyte species appear to be host generalists with broad geographic distributions, while others are restricted to specific host species or genera.
-- **Tissue specificity**: Different plant tissues (leaves vs. stems vs. roots vs. bark) harbor distinct endophyte communities. Leaf endophytes are the most studied group, but root endophytes (including dark [[dark-septate-endophytes-root-colonizing-fungi]]) may be equally diverse and ecologically important.
-- **Vertical distribution**: In forest canopies, endophyte communities differ between canopy and understory leaves, suggesting that microenvironmental conditions influence [[core-endorhiza-bacterial-community-composition-cannabis]].
+- **Tissue specificity**: Different plant tissues (leaves vs. stems vs. roots vs. bark) harbor distinct endophyte communities. Leaf endophytes are the most studied group, but root endophytes (including dark [[core-endorhiza-bacterial-community-composition-cannabis]].
 - **Succession**: Endophyte communities change during leaf development (young expanding leaves vs. mature leaves vs. senescent leaves), with some species specialized for particular leaf age classes.
 
 ## Ecological Functions
 
 ### Herbivore Deterrence
 
-Clavicipitaceous endophytes of grasses are well known for producing alkaloid compounds (ergot alkaloids, lolines, peramine, lolitrem B) that are toxic or deterrent to mammalian herbivores and insect pests. Infected grasses show reduced herbivory, improved [[dighton-fungal-drought-tolerance-plant-water-relations]], and enhanced competitive ability compared to uninfected individuals. These defensive mutualisms have been exploited in agriculture through the deliberate inoculation of pasture grasses with beneficial endophyte strains.
-
-Non-clavicipitaceous endophytes may also produce [[antifungal-secondary-metabolites-coprophilous-fungi]] with anti-herbivore or anti-insect properties, although this defensive function is less well documented than in the clavicipitaceous system.
+Clavicipitaceous endophytes of grasses are well known for producing alkaloid compounds (ergot alkaloids, lolines, peramine, lolitrem B) that are toxic or deterrent to mammalian herbivores and insect pests. Infected grasses show reduced herbivory, improved [[antifungal-secondary-metabolites-coprophilous-fungi]] with anti-herbivore or anti-insect properties, although this defensive function is less well documented than in the clavicipitaceous system.
 
 ### Pathogen Resistance
 
@@ -49,38 +46,14 @@ Endophytes can protect their host plants against pathogenic microorganisms throu
 
 - **Resource competition**: Endophytes occupying internal plant tissues preclude colonization by potential pathogens through competitive exclusion for space and nutrients.
 - **Antibiotic production**: Many endophytes produce antimicrobial compounds that inhibit growth of bacterial and fungal pathogens.
-- **[[endophytic-mycorrhizal-induced-systemic-resistance]] resistance**: Some endophytes prime plant defense responses, making the host more resistant to subsequent pathogen attack.
-- **Physical barriers**: Dense endophytic colonization can create physical barriers that limit pathogen invasion.
-
-### Stress Tolerance
-
-Endophyte-infected plants frequently show improved tolerance to environmental stresses including drought, heat, heavy metals, and salinity. The mechanisms include altered hormone balance, enhanced antioxidant systems, osmotic adjustment, and improved water-use efficiency. In agricultural systems, endophyte-mediated stress tolerance is an active area of research for developing climate-resilient crops.
-
-### Growth Promotion
-
-Some endophytes directly enhance host plant growth through production of plant growth-promoting substances including indole-3-acetic acid (IAA), gibberellins, and cytokinins. Others improve plant nutrition by enhancing phosphate solubilization or nitrogen fixation (in endophytes harboring nitrogen-fixing bacterial endosymbionts).
-
-## Horizontal and Vertical Transmission
-
-- **Horizontal transmission**: Most non-clavicipitaceous endophytes spread between host plants through airborne spores. New leaves are colonized from spores deposited on leaf surfaces, which then penetrate through stomata, wounds, or directly through the cuticle. Horizontal transmission allows endophytes to colonize new host individuals and species, facilitating host range expansion.
-- **Vertical transmission**: Clavicipitaceous endophytes are transmitted through seeds, ensuring that offspring inherit the fungal symbiont. Vertical transmission creates strong coevolutionary dynamics between endophyte and host genotypes, as the fitness of both partners is linked. However, vertical transmission limits dispersal and host range expansion.
-
-## Research Methods
-
-Studying endophytic fungi requires specialized isolation and identification techniques:
-
-- **Surface sterilization**: Plant tissue is surface-sterilized (typically with sequential ethanol and sodium hypochlorite treatments) to eliminate epiphytic fungi before plating on artificial media.
-- **Isolation on selective media**: Tissue segments are placed on nutrient media, often supplemented with antibiotics to suppress bacterial growth. Incubation conditions and medium composition influence which endophyte species are recovered.
 - **[[biodiversity-fungal-molecular-identification-dna-barcoding]]**: DNA extraction from surface-sterilized tissue or isolated cultures, followed by PCR amplification of ribosomal DNA regions (ITS, LSU) and sequencing for species identification.
 - **Culture-independent methods**: Metagenomic approaches and high-throughput sequencing of environmental DNA directly from plant tissue can reveal endophyte diversity that is not captured by culture-based methods, including non-culturable species.
 
 ## See Also
 
-- [[dark-septate-endophytes]]
 - [[bacterial-endophytes-plant-roots]]
 
 - arthropod-associated-fungi
-- [[gadd-fungal-symbiosis-mycorrhizae]]
 - [[gadd-fungal-biodiversity-conservation]]
 
 ## Practical Applications
@@ -112,8 +85,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[fungal-ecology]]
 - [[endophytic-fungal-diversity]]
-- [[fungal-biodiversity]]
 - [[doc]]
 - [[det]]

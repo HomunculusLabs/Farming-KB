@@ -23,7 +23,7 @@ sources:
 
 ## Overview
 
-**Cocaine** (benzoylmethylecgonine) is a tropane alkaloid and powerful central nervous system stimulant derived from the leaves of *[[erythroxylum-coca]]*. It acts primarily by blocking the reuptake of dopamine, [[serotonin]], and norepinephrine, producing intense euphoria, increased energy, and local anesthesia.
+**Cocaine** (benzoylmethylecgonine) is a tropane alkaloid and powerful central nervous system stimulant derived from the leaves of *[[serotonin]], and norepinephrine, producing intense euphoria, increased energy, and local anesthesia.
 
 Cocaine is one of the most widely used illicit substances globally. It has a long history of both medicinal and recreational use dating back thousands of years in [[guzman-psilocybin-mushrooms-south-america]].
 
@@ -39,23 +39,7 @@ Cocaine is one of the most widely used illicit substances globally. It has a lon
 - **pKa:** 8.6 (tertiary amine)
 - **CAS number:** 50-36-2
 
-Cocaine is biosynthesized in *[[plants-of-the-gods-erythroxylum-coca]]* via the tropane pathway from ornithine and arginine precursors. The molecule contains a bicyclic tropane ring system esterified with benzoic acid at the 3-position and a methyl ester at the 2-position, making it both a benzoate ester and a methyl ester of ecgonine.
-
-## Pharmacology
-
-### Receptor Activity
-
-Cocaine's primary mechanism is non-competitive blockade of monoamine transporters:
-
-- **Dopamine transporter (DAT)** — high-affinity binding (Ki ~100 nM) blocks dopamine reuptake in the mesolimbic and mesocortical pathways, producing euphoria and reinforcement
-- **Serotonin transporter (SERT)** — moderate affinity (Ki ~250 nM) increases extracellular serotonin, contributing to mood elevation
-- **Norepinephrine transporter (NET)** — moderate affinity (Ki ~200 nM) increases norepinephrine, producing sympathomimetic effects
-
-Cocaine also blocks voltage-gated sodium channels, producing local anesthesia. This property was exploited medicinally before the development of synthetic local anesthetics.
-
-### Pharmacokinetics
-
-- **Absorption:** Rapid via nasal (onset 3–5 min), IV (seconds), and pulmonary/inhalation (seconds) routes. [[first-pass-metabolism-and-oral-bioavailability]] is low (~20%) due to hepatic first-pass metabolism.
+Cocaine is biosynthesized in *[[first-pass-metabolism-and-oral-bioavailability]] is low (~20%) due to hepatic first-pass metabolism.
 - **Half-life:** 0.7–1.5 hours (varies by route and individual metabolism)
 - **Volume of distribution:** 1.6–2.7 L/kg
 - **Metabolism:** Primarily hepatic via plasma and liver cholinesterases to benzoylecgonine (major inactive metabolite), ecgonine methyl ester, and norcocaine
@@ -87,3 +71,80 @@ Cocaine also blocks voltage-gated sodium channels, producing local anesthesia. T
 - Hyperthermia and rhabdomyolysis
 - Nasal septal perforation (chronic insufflation)
 - Severe psychological dependence
+
+## Overview
+
+Cocaine represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish cocaine
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving cocaine extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Cocaine finds practical application in multiple design contexts.
+[[permaculture-principles]] guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for cocaine. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+cocaine and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Cocaine has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of cocaine into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.

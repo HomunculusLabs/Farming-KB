@@ -14,11 +14,7 @@ type: query
 
 A cob oven is an earthen oven made from clay, sand, and straw that can reach temperatures over 800 degrees Fahrenheit, making it ideal for baking bread, roasting vegetables, and cooking pizzas.
 
-Building one costs under fifty dollars in materials and can be completed in a single weekend with basic [[garden-hand-tools-solomon]].
-
-## What Is Cob and Why Use It
-
-Cob is one of the oldest [[natural-building-materials-guide]] known to humanity, consisting of clay-rich subsoil mixed with sand and straw. It is fireproof, inexpensive, and can be sourced directly from your property in many regions.
+Building one costs under fifty dollars in materials and can be completed in a single weekend with basic [[natural-building-materials-guide]] known to humanity, consisting of clay-rich subsoil mixed with sand and straw. It is fireproof, inexpensive, and can be sourced directly from your property in many regions.
 
 Unlike brick ovens, cob ovens do not require mortar or fired bricks, making them accessible to anyone regardless of construction experience.
 
@@ -132,17 +128,5 @@ Rake out the coals and sweep the floor clean with a damp cloth.
 
 The oven temperature at this point is ideal for pizza, flatbreads, and quick roasting.
 
-As the oven cools over the next several hours, the dropping [[query-what-is-the-ideal-temperature-range-for-growing-cannabis]] is perfect for bread, casseroles, roasts, and eventually slow-cooked beans or dried fruits.
-
-## Key Points
-
-- Cob ovens cost under fifty dollars in materials and can be built in a weekend
-- The thermal mass of earthen walls retains heat for hours of cooking
-- Proper curing with gradual fires prevents cracking in the oven walls
-- Firebrick floors provide a durable, heat-resistant cooking surface
-- A well-built cob oven can last for decades with minimal maintenance
-## Related Pages
-
-- [[cob-building]]
-- [[cob-oven-construction]]
+As the oven cools over the next several hours, the dropping [[cob-building]]
 - [[comparison-solar-cooking-vs-cob-oven]]

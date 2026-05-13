@@ -9,7 +9,7 @@ type: concept
 tags: [culture, design, natural-farming, permaculture]
 ---
 
-# [[water-management]], soil building, and plant communities into a self-sustaining system. Originally co-created by Bill Mollison and [[permaculture-design-principles-beginners]] draws from patterns found in nature and mimics ongoing natural processes. The approach was later expanded by permaculture-ethics
+# [[permaculture-design-principles-beginners]] draws from patterns found in nature and mimics ongoing natural processes. The approach was later expanded by permaculture-ethics
 
 Three core ethics guide all design decisions:
 
@@ -22,21 +22,7 @@ Sustainable systems are circular rather than linear. Used items go back to their
 ## Design Principles
 
 1. Everything is connected to and supported by everything else
-2. Every element should serve many functions ([[fungal-functional-diversity-decomposition]])
-3. Functional design is sustainable and produces useful surplus; otherwise it creates pollution and work
-4. Maximize useful energy in the system; decrease energy waste
-5. Diversity of useful connections between elements serves people's needs
-6. Pollution causes system chaos
-7. Use only what can be returned to the soil; build cooperation into the system
-
-## Sustainable Land Goals
-
-1. The system should become self-sustaining and productive in the long term
-2. About one-third of land for human food; rest for animal space and fodder
-3. Produce more than needed; surplus can be sold or given away
-4. A single person can reasonably manage less than 25 acres; smaller is better
-5. Provide full income to workers living on-site (no commute)
-6. Process [[selling-farm-products-and-business]] on-site (cheese, bread, etc.)
+2. Every element should serve many functions ([[selling-farm-products-and-business]] on-site (cheese, bread, etc.)
 7. Beauty of design comes as a benefit of functionality
 8. Some areas remain wild and preserved in their natural state
 9. Use low-energy, simple technology
@@ -51,16 +37,10 @@ Sustainable systems are circular rather than linear. Used items go back to their
 Where you live, process food, and produce waste. Connected to the garden and greenhouse. Vines and plants can cover walls and possibly the roof.
 
 ### Zone 1: Intensive Gardens
-Immediately surrounding the house. Highly controlled, irrigated, and drained. Sheet-mulched garden beds, small pond, outbuildings (tool shed), dwarf fruit trees, low windbreak. Herbs near the kitchen door, salad beds, pathside vegetables, narrow and wide beds. The compost bin, clothesline, and outdoor kitchen are here. [[coleman-drip-irrigation-and-water-management]] cover crops. Deciduous trees on sunny sides provide summer shade but allow winter sun; evergreens on other sides protect from heat and wind.
-
-### Zone 2: Orchard and Small Livestock
-Extends beyond Zone 1 gardens. Major staple crops (grains, potatoes). Worms, rabbits, chickens, ducks, or fish. Fruit [[holzer-sweet-chestnut-and-nut-trees]], beehives, hedges, trellising. The compost heap is located here. Mulched with straw and other materials. Fenced with heavy-duty wire mesh, possibly barbed wire, electric wire, and thorny shrubs.
+Immediately surrounding the house. Highly controlled, irrigated, and drained. Sheet-mulched garden beds, small pond, outbuildings (tool shed), dwarf fruit trees, low windbreak. Herbs near the kitchen door, salad beds, pathside vegetables, narrow and wide beds. The compost bin, clothesline, and outdoor kitchen are here. [[holzer-sweet-chestnut-and-nut-trees]], beehives, hedges, trellising. The compost heap is located here. Mulched with straw and other materials. Fenced with heavy-duty wire mesh, possibly barbed wire, electric wire, and thorny shrubs.
 
 ### Zone 3: Large Orchard and Barn
-For rural/larger properties. Larger unpruned orchard, windbreak trees, goat pen, beehives. [[permaculture-plants-ground-covers-living-mulches]], animal fodder plants, firebreaks. Water stored in soil via swales, or caught with small dams and sent through ditches. The barn is here, along with cash crops and larger animals (sheep, cows).
-
-### Zone 4: Woodlot and Forage
-Long-term development through woodlot, dam, and extensive [[fukuoka-textdoc-shelterbelt-design-environmental-tree-planting]]. Windmills, large animal stock, large-scale water harvesting. Pigs work well in forest zones. No mulches used; hardy edible plants foraged from forest edges. Managed with small dams, rivers, and windmill pumps.
+For rural/larger properties. Larger unpruned orchard, windbreak trees, goat pen, beehives. [[fukuoka-textdoc-shelterbelt-design-environmental-tree-planting]]. Windmills, large animal stock, large-scale water harvesting. Pigs work well in forest zones. No mulches used; hardy edible plants foraged from forest edges. Managed with small dams, rivers, and windmill pumps.
 
 ### Zone 5: Wilderness
 Nature preserve and wildlife corridor. Can and should be placed on any property size. In urban backyards, simply a back corner left to birds and wildlife. Fence it off and leave it alone. Do not plant native species (that misses the point of Zone 5).
@@ -87,4 +67,83 @@ Building swales: Multiple swales are placed together along the slope contour. Th
 
 ## The Edge Effect
 
-The edge of a forest gets more light and nutrients than the center, making it more productive. To maximize this edge effect, permaculture uses circles, spirals, curves, vertical [[cotter-growing-space-design-fruiting-rooms]] (trellises), and zigzags. Edge types include spirals (herb spirals), lobular shapes alongside pathways, chinampas (land banks between water ditches), and [[natural-farming-guide-contour-farming-strip-cropping]] (multiple plant types in curved strips).
+The edge of a forest gets more light and nutrients than the center, making it more productive. To maximize this edge effect, permaculture uses circles, spirals, curves, vertical [[natural-farming-guide-contour-farming-strip-cropping]] (multiple plant types in curved strips).
+
+## Overview
+
+Natural Farming Guide Permaculture Design For Small Holdings represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish natural farming guide permaculture design for small holdings
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving natural extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Natural Farming Guide Permaculture Design For Small Holdings finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for natural farming guide permaculture design for small holdings. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+natural farming guide permaculture design for small holdings and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Natural Farming Guide Permaculture Design For Small Holdings has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of natural farming guide permaculture design for small holdings into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also

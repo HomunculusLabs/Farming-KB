@@ -31,23 +31,7 @@ related_concepts:
 
 Perennial vegetables are food plants that return year after year without being
 replanted each season. They include familiar crops such as asparagus, rhubarb,
-globe artichoke, sorrel, walking onions, and [[comparison-jerusalem-artichoke-vs-potato]], as well as
-many less common greens, shoots, roots, and edible stems used in ecological
-gardens.
-
-Their importance is larger than the list of species suggests. Annual vegetable
-gardening is built around disturbance: sowing, transplanting, tilling,
-weeding, harvesting, and clearing. Perennial vegetables shift the garden
-toward continuity, with living roots, standing biomass, and predictable
-harvests that begin before many annual crops are even planted.
-
-Permaculture and forest garden writers value perennial vegetables because they
-imitate mature ecosystems more closely than bare annual beds. Deep roots
-gather water and minerals, permanent cover reduces erosion, and long lived
-plants create habitat for insects, fungi, birds, and soil organisms.
-
-The category is not a rejection of tomatoes, beans, squash, or lettuce.
-Rather, it widens the [[fukuoka-dutch-priest-vegetable-garden-spiritual-renewal]] beyond the annual supermarket
+globe artichoke, sorrel, walking onions, and [[fukuoka-dutch-priest-vegetable-garden-spiritual-renewal]] beyond the annual supermarket
 imagination. A resilient household food system can include both annual
 abundance and perennial reliability.
 
@@ -114,32 +98,9 @@ The goal is not maximum fertility at any cost. Overfeeding can create lush
 weak growth, pest problems, or poor winter hardiness. The better goal is
 steady fertility matched to the crop's long term growth habit.
 
-In [[williams-pdc-ecological-design-principles]], each perennial vegetable is also habitat. Flowers feed
-pollinators, hollow stems shelter insects, dense crowns shade soil, and
-persistent foliage moderates microclimate.
-
-## Asparagus as the model long lived vegetable
-
-Asparagus is often treated as the king of perennial vegetables because a well
-made bed can produce for fifteen to twenty five years or more. It rewards
-patience with one of the earliest and most distinctive harvests of spring.
-
-The plant grows from crowns that store energy below ground. Edible spears are
-young shoots. If harvesting continues too long, the crown is weakened; if
-enough spears are allowed to become ferny foliage, the plant rebuilds reserves
-for the next year.
-
-Site preparation is decisive. Asparagus wants full sun, deep fertile soil,
-## See Also
-
-- [[perennial-vegetables]]
-- [[gaias-garden-perennial-vegetables]]
-- hemenway-perennial-vegetables
+In [[perennial-vegetables]]
 - [[growing-globe-artichokes]]
-- [[hamilton-asparagus-growing-organic]]
 - [[hamilton-rhubarb-growing-organic]]
-- [[permaculture-asparagus]]
-- permaculture-jerusalem-artichoke
 - [[solomon-growing-perennials-asparagus-rhubarb]]
 
 ## References

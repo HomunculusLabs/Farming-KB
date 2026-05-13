@@ -13,8 +13,7 @@ type: concept
 
 Dopamine is one of the most studied neurotransmitters in the brain, central
 to motivation, reward, motor control, and pleasure. In "The Cannabis Health
-Index," [[cannabis-endocannabinoid-system]] (ECS),
-showing how [[cannabinoid-receptors-cb1-cb2]] modulate dopamine release across multiple
+Index," [[cannabinoid-receptors-cb1-cb2]] modulate dopamine release across multiple
 brain regions.
 
 ## The Dopamine-Endocannabinoid Interface
@@ -31,37 +30,11 @@ This mechanism explains why cannabis produces euphoric effects: THC
 activates CB1 receptors, which indirectly stimulates dopamine release in
 mesolimbic reward circuits. However, chronic overactivation can lead to
 downregulation of both CB1 and dopamine receptors, contributing to tolerance
-and blesching [[cervantes-cannabis-tolerance-addiction-pharmacology]] dependence withdrawal.
-
-## Reward Pathways and Motivation
-
-The mesolimbic dopamine pathway, running from the VTA to the nucleus
-accumbens, is the brain's primary reward circuit. Endocannabinoids act as
-retrograde signaling molecules that modulate synaptic transmission within
-this pathway. [[anandamide]] (AEA) levels in the VTA directly influence dopamine
+and blesching [[anandamide]] (AEA) levels in the VTA directly influence dopamine
 firing rates and thus motivational states.
 
 Blesching notes that the ECS fine-tunes reward sensitivity. Too little
-[[2-ag-endocannabinoid-signaling-blesching]] may result in anhedonia (inability to feel
-pleasure), while excessive signaling -- particularly from exogenous
-cannabinoids like THC -- can dysregulate the natural reward system. This
-has profound implications for understanding both substance use disorders and
-conditions marked by motivational deficits.
-
-## ADHD and Dopamine Dysregulation
-
-Attention-deficit/hyperactivity disorder (ADHD) is characterized by
-dopamine dysregulation in the prefrontal cortex and striatum. Individuals
-with ADHD often have reduced dopamine transporter density and altered
-dopamine signaling, leading to difficulties with focus, impulse control,
-and executive function.
-
-Blesching discusses how the ECS modulates dopaminergic tone in these same
-regions. Some clinicians have explored cannabinoid therapeutics for ADHD,
-particularly CBD-rich preparations, though the evidence remains preliminary.
-The theoretical rationale centers on restoring balance to dopamine signaling
-through ECS modulation rather than directly stimulating dopamine receptors as
-conventional stimulant medications do. See also [[blesching-cannabis-parkinsons-disease]] for detailed clinical guidance.
+[[blesching-cannabis-parkinsons-disease]] for detailed clinical guidance.
 
 ## Addiction Circuitry and the ECS
 
@@ -118,8 +91,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[endocannabinoid-system]]
 - [[doc]]
-- [[det]]
 - [[al-entity]]
 - [[anandamide]]

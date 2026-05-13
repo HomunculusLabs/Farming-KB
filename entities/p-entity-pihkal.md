@@ -8,7 +8,7 @@ sources: ["Shulgin - PIHKAL"]
 ---
 # P
 
-[[2c-b-pihkal-entry-20]] #140. [[proscaline]]; 3,5-DIMETHOXY-4-(n)-PROPOXYPHENETHYLAMINE.
+[[proscaline]]; 3,5-DIMETHOXY-4-(n)-PROPOXYPHENETHYLAMINE.
 
 ## Chemical Name
 
@@ -90,5 +90,12 @@ extract) and then stripped of solvent under vacuum giving 9.0 g of a
 deep yellow oil. This was distilled at 132-142 deg C at 0.3 mm/Hg to
 
 ## See Also
-- [[methyl-j-entity-pihkal]]
 - [[5-toet-entity-pihkal]]
+
+## See Also
+
+- [[doi-entity]]
+- [[mp-entity-pihkal]]
+- [[4-ho-det-entity-tihkal]]
+- [[jealousy-cannabis-strain-entity]]
+- [[mckenna-i-thou-ethics-entity-encounter]]

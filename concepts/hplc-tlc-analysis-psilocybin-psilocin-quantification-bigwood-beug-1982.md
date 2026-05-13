@@ -10,23 +10,13 @@ tags: [analytical-chemistry, hplc, tlc, psilocybin, psilocin, bigwood-beug-1982,
 
 Bigwood and Beug (1982) employed reversed-phase high-performance liquid
 chromatography (HPLC) as the primary quantification method for psilocybin
-and psilocin [[cap-and-stem-alkaloid-distribution-in-psilocybe-cubensis-strains]] tissue, with thin-layer chromatography
-(TLC) as a qualitative confirmation technique. Their analytical protocol
-established a reliable workflow for measuring [[hplc-analysis-of-tryptamine-alkaloids]] in
+and psilocin [[hplc-analysis-of-tryptamine-alkaloids]] in
 fungal tissue that has been widely referenced in subsequent studies.
 
 ## Sample Preparation and Extraction
 
 The extraction procedure was described in the authors' companion paper
-(Beug and Bigwood, 1982) on [[psilocybin-north-america-pacific-northwest]] species:
-
-- **Harvest and preservation:** Mushrooms were immediately freeze-dried
-  after harvest, sealed in plastic, and stored at -5 C until analysis.
-  Voucher specimens were deposited at the University of Washington
-  Herbarium (WTU).
-
-- **Freeze-drying rationale:** Immediate freeze-drying preserves alkaloid
-  content by halting [[enzymatic-degradation-in-mycoremediation]]. Psilocybin is relatively
+(Beug and Bigwood, 1982) on [[enzymatic-degradation-in-mycoremediation]]. Psilocybin is relatively
   stable when dry, but psilocin is prone to oxidation. Rapid drying
   and cold storage minimize post-harvest alkaloid loss.
 
@@ -118,8 +108,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[hplc-quantification-psilocybin-psilocin-bigwood-beug-1982]]
 - [[reversed-phase-hplc-tlc-confirmation-psilocybin-psilocin-quantification-bigwood-beug]]
-- [[psilocin]]
 - [[reversed-phase-hplc-psilocybin-psilocin-quantification-bigwood-beug]]
 - [[psilocybin]]

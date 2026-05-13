@@ -27,13 +27,7 @@ The forms of logic that govern pattern formation in Nature are language-like, co
 
 **Psycho-logic:** Conscious minds are subsequently able to reflect on the intelligence governing these processes. Psychology and consciousness represent the most complex informational layer yet known.
 
-All forms of logic must derive from some original and [[consciousness-as-fundamental-property]] of Nature, a property best explained by invoking some non-human wilful intelligence, the very same intelligence that entheogens like psilocybin bring into sharp focus.
-
-## Evidence from Evolution
-
-If we imagine viewing a time-lapse film of Gaia wherein 3.5 billion years of information-gaining evolution are compressed into one intense second, then modern electronic human culture and human consciousness explodes instantaneously into existence, bursting forth out of the earth's ocean of elemental constituents.
-
-This awesome pattern of self-organisation can be no mere accident. The fine-tuning of Nature is most clearly indicated in the evolutionary process. Over billions of years, our planet has transformed itself from a lifeless mass of rock into a metabolizing [[mckenna-radio-entelechy-organic-matrix-ripping]] in which countless replicating patterns swarm about the Earth's surface, each organism an informational expression of Natural Intelligence.
+All forms of logic must derive from some original and [[mckenna-radio-entelechy-organic-matrix-ripping]] in which countless replicating patterns swarm about the Earth's surface, each organism an informational expression of Natural Intelligence.
 
 Science has failed to see the contextually directed movement of Natural Intelligence, claiming instead that evolution is essentially pointless and mindless. But this can only be a subjective inference likely drawn according to the perceived duration over which evolution works, a duration so great that the intelligence operating over such spans remains all but invisible.
 
@@ -43,13 +37,7 @@ The Natural Intelligence framework is articulated through what can be called the
 
 According to this hypothesis, we are woven into an orchestrational tide of information, interconnected throughout, whose glorious and spectacular purpose awaits us. The natural tendency of the Universe is to foster the integration of more and more information.
 
-Life and consciousness were destined to emerge out of [[powell-natural-intelligence-and-the-universal-computation]] from the start. As information comes to be organised and integrated in ever more elaborate ways, eventually all information will have been integrated and all uncertainty will have been vanquished.
-
-## Against the Null Hypothesis
-
-The null hypothesis holds that our Universe is accidental, one of an infinity, and that the earthly psilocybin experience is no more than a trap-like aberration. Under this view, the astonishing complexity of life and consciousness is mere coincidence.
-
-But as [[terence-mckenna]] pointed out, a belief in the big bang in which the entire space-time continuum sprung out of nothing represents "the limit case for credulity -- if you can believe this then you can believe anything." It is arguably more reasonable to see intelligence at work than to assert that all this "astonishingness" is without reason.
+Life and consciousness were destined to emerge out of [[terence-mckenna]] pointed out, a belief in the big bang in which the entire space-time continuum sprung out of nothing represents "the limit case for credulity -- if you can believe this then you can believe anything." It is arguably more reasonable to see intelligence at work than to assert that all this "astonishingness" is without reason.
 
 One even suspects that such a mindless interpretation of life and consciousness stems from an ego-obsessed psyche hell bent on describing itself, and solely itself, in terms of high intelligence.
 
@@ -63,15 +51,7 @@ Concerning the nature of this intelligence, three basic options present themselv
 
 3. The Universe is organism-like such that the intelligence exists throughout Nature
 
-The third option -- the Gaian/organismic model -- is most consistent with the evidence from [[pineal-gland-dmt-entheogenic-experience]], which reveals an intelligence that seems pervasively present throughout the natural world rather than located at any single point.
-
-Anyone can suggest that some sort of wilful intelligence infuses reality. Many might intuit such. But to pursue the idea so as to resolve a coherent framework with which to understand the inferred intelligence and its possible aims is another matter entirely.
-
-## The Role of Psychedelics
-
-Entheogens like psilocybin act as a living interface between the Other (Natural Intelligence) and the human mind. Through the mushroom experience, an individual can access transcendental information loaded with cultural and personal significance.
-
-Nature thus emerges as being incredibly smart as well as deadly. The [[emcdda-psilocybin-non-addictive-profile-tolerance-dynamics]] represents one of the means by which Natural Intelligence has ensured that conscious minds can come to understand their true situation within the reality process.
+The third option -- the Gaian/organismic model -- is most consistent with the evidence from [[emcdda-psilocybin-non-addictive-profile-tolerance-dynamics]] represents one of the means by which Natural Intelligence has ensured that conscious minds can come to understand their true situation within the reality process.
 
 Nature is smarter than we. The realization that entheogenic plants and fungi are part of the ecosystem inevitably affects the significance and import of the entheogenic experience. The concept of naturalness acts as an important context for the experience when it derives from a natural plant or fungus, connecting the individual to the living homeostatic systems of the Earth.
 
@@ -87,4 +67,83 @@ Those scientists who diligently propound the myth that we are mere bystanders on
 
 ### The Gaia Hypothesis
 
-The Gaia hypothesis, formulated by James Lovelock and Lynn Margulis, proposes that Earth's living and non-living components function together as a self-regulating system that maintains conditions suitable for life. This planetary homeostasis -- regulating temperature, atmospheric composition, and ocean salinity over billions of years -- resembles the kind of feedback-controlled intelligence that the Natural Intelligence framework describes at a planetary scale.
+The [[gaia-hypothesis]], formulated by [[james-lovelock]] and Lynn Margulis, proposes that Earth's living and non-living components function together as a self-regulating system that maintains conditions suitable for life. This planetary homeostasis -- regulating temperature, atmospheric composition, and ocean salinity over billions of years -- resembles the kind of feedback-controlled intelligence that the Natural Intelligence framework describes at a planetary scale.
+
+## Overview
+
+Natural Intelligence represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish natural intelligence
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving natural extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Natural Intelligence finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for natural intelligence. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+natural intelligence and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Natural Intelligence has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of natural intelligence into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also

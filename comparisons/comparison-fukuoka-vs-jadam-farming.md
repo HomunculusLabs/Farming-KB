@@ -12,26 +12,13 @@ type: comparison
 
 ## Overview
 
-Both [[jadam-farming-method]] are philosophically grounded, ultra-low-cost approaches that eliminate dependence on purchased agricultural inputs. They share a core commitment to working with nature rather than against it, yet differ profoundly in methodology, scalability, and accessibility.
-
-Fukuoka's system is a holistic philosophy expressed through minimal intervention — an ideal of farming that requires the practitioner to deeply understand their local ecosystem before intervening. JADAM, by contrast, is a practical, recipe-based toolkit designed for broad adoption, giving farmers specific, repeatable methods they can apply immediately.
-
-Both systems achieve comparable conventional yields at roughly $100 per acre annually. Both reject the premise that high yields require expensive chemical inputs. But they arrive at this conclusion from very different starting points and offer farmers very different paths forward.
-
-For farmers choosing between them, the decision often comes down to temperament and context: whether you value philosophical depth and ecological elegance (Fukuoka) or practical structure and rapid results (JADAM). The following sections [[query-can-fungi-break-down-plastic-pollution]] each system in detail.
+Both [[query-can-fungi-break-down-plastic-pollution]] each system in detail.
 
 ## Fukuoka Natural Farming
 
-Masanobu Fukuoka's "do-nothing" method, detailed in [[desertification-and-vegetation-loss|soil regeneration]] over time, elegant closed-loop design, rich philosophical framework connecting farming to worldview, no chemical residues, self-reinforcing ecosystem that improves with age.
-
-**Challenges:** Extremely difficult to adopt directly. Fukuoka himself destroyed two orchards while learning. Most visiting specialists could not replicate his results. The steep learning curve and site-specific nature make it inaccessible for most farmers seeking a reliable transition path. There is no standardized curriculum or community network to guide newcomers. Yield drops during the transition period can be severe and prolonged.
-
-## JADAM Farming
-
-[[natural-farming-fukuoka]] — detailed guide to Fukuoka's four principles and rice-barley system
-- [[query-jadam-vs-korean-natural-farming]] — how JADAM relates to [[query-jadam-vs-korean-natural-farming]] Farming
-- [[cover-cropping-guide]] — selecting and managing [[gaias-garden-cover-crops-soil-building]] across systems
-- [[ultra-low-cost-farming-overview]] — economic analysis of minimal-input agriculture strategies
+Masanobu Fukuoka's "do-nothing" method, detailed in [[natural-farming-fukuoka]] — detailed guide to Fukuoka's four principles and rice-barley system
+- [[query-jadam-vs-korean-natural-farming]] Farming
+- [[gaias-garden-cover-crops-soil-building]] across systems
 - [[soil-foodweb]] — the [[fukuoka-microbial-ecology-decomposition]] both methods ultimately depend on
 ## Practical Applications
 

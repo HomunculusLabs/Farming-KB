@@ -14,43 +14,9 @@ created: 2026-05-07
 
 ## Overview
 
-The effects [[health-risks-of-hallucinogenic-mushrooms]] depend on dose, individual sensitivity, prior experience, set (mental state), and setting (environment). The primary effects involve the central nervous system, with additional sympathomimetic effects. Subjective experiences vary greatly between individuals and even between episodes for the same person.
+The effects [[pf-tek-mushroom-potency-and-age-relationship]] depends on multiple factors:
 
-## Potency Variation
-
-[[pf-tek-mushroom-potency-and-age-relationship]] depends on multiple factors:
-
-- **Species and variety**: [[psilocybe-azurescens]] and [[psilocybe-cubensis]] contains up to 0.6% [[hplc-analysis-of-psilocybin-and-psilocin]] combined.
-- **Origin and growing conditions**: substrate composition, temperature, humidity, and light exposure all influence alkaloid profiles
-- **Age**: potency changes as mushrooms mature; younger specimens may differ from mature ones
-- **Preparation**: drying concentrates active compounds approximately 10:1 relative to fresh weight
-- **Storage**: degradation occurs over time, especially with heat, light, and moisture
-
-These variables make precise dosing extremely difficult. The presence of multiple active compounds (psilocybin, psilocin, baeocystin, norbaeocystin) further complicates dose-response predictions.
-
-## Recreational Dose Ranges
-
-### Dried Mushrooms
-
-The commonly cited recreational dose range for dried mushrooms is **1 to 5 grams**:
-
-- **Light dose** (0.5-1.5 g): subtle perceptual enhancement, mood elevation, mild visual changes
-- **Moderate dose** (1.5-3.5 g): pronounced visual distortions, altered thought patterns, introspective experiences
-- **Strong dose** (3.5-5 g): intense visual hallucinations, ego dissolution, profound cognitive shifts
-
-### Fresh Mushrooms
-
-Fresh mushrooms contain approximately 90% water, so doses are roughly **10 times higher**:
-
-- **Typical range**: 10 to 50 grams fresh weight
-
-### Psilocybin Equivalents
-
-Psychoactive doses of pure psilocybin are estimated between **45 to 315 micrograms per kilogram of body weight**. These figures are used for initial orientation only, given the variability in mushroom alkaloid content.
-
-## Tolerance
-
-Short-term tolerance to both physical and [[hallucinogenic-mushroom-acute-psychological-effects-and-bad-trips]] develops rapidly. Repeated dosing within a short period requires increasingly higher amounts to achieve similar effects. Tolerance typically dissipates after several days of abstinence, consistent with 5-HT2A receptor downregulation and recovery kinetics.
+- **Species and variety**: [[psilocybe-cubensis]] contains up to 0.6% [[hallucinogenic-mushroom-acute-psychological-effects-and-bad-trips]] develops rapidly. Repeated dosing within a short period requires increasingly higher amounts to achieve similar effects. Tolerance typically dissipates after several days of abstinence, consistent with 5-HT2A receptor downregulation and recovery kinetics.
 
 ## Routes of Administration
 
@@ -68,14 +34,7 @@ Some user reports describe smoking dried mushrooms, said to produce faster but m
 
 ### Intravenous Injection
 
-Isolated literature references exist regarding intravenous injection of mushroom extracts, which reportedly produces more severe [[psilocybin-mushroom-dosage-and-acute-effects]]. This route carries significant additional risk and is not a common practice.
-
-## Onset and Duration
-
-- **Onset**: 10 to 60 minutes after ingestion, depending on modality, physical condition, food intake, and individual metabolism
-- **Peak effects**: typically 1.5 to 3 hours post-ingestion
-- **Duration of primary effects**: 2 to 6 hours
-- **After-effects**: an additional 2 to 6 hours, commonly including difficulty sleeping, residual perceptual changes, and [[blesching-cannabis-emotional-processing-expansive-constricting-emotions]]
+Isolated literature references exist regarding intravenous injection of mushroom extracts, which reportedly produces more severe [[blesching-cannabis-emotional-processing-expansive-constricting-emotions]]
 
 The experience is most commonly described by users as "tripping."
 
@@ -118,8 +77,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[psilocybin]]
 - [[psilocin]]
-- [[baeocystin]]
 - [[norbaeocystin]]
 - [[hallucinogenic-mushroom-dose-effects-clinical]]

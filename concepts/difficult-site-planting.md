@@ -25,11 +25,11 @@ See [[salt-tolerant-plant-guide]] for full details on grasses, legumes, saltbush
 Vigorous, bushy, pine-like tree. Tolerates most soils in frost-free districts with 350+ mm rainfall. **WARNING**: Most tamarisks cause salinisation of upper soil. Extensive roots extract all soluble salts from soil, excrete salts on leaves, return them to topsoil with litter fall. Reduce crop yields for up to 50 m.
 
 ### Paperbarks (Melaleuca spp, Family: Myrtaceae)
-Many valuable for honey and [[comparison-essential-oils-vs-neem-oil-vs-insecticidal-soap]]. Notable species:
+Many valuable for honey and essential oils. Notable species:
 - **M. stypheloides** (Prickly Paperbark): Fast growing 6-18 m, swampy coastal sites. Tolerates saline, sandy, wet, heavy soils. Drought and frost tolerant.
 - **M. bracteata** (White Cloud Tree): To 7 m, spreading to 5 m. Drought and frost tolerant. Heavy to medium soils.
 - **M. lanceolata** (Moonah): Produces light amber honey in summer.
-- **M. thyroides**: Evergreen shrub to 2 m. Frost and [[drought-tolerant-planting-design]], good waterlogging tolerance.
+- **M. thyroides**: Evergreen shrub to 2 m. Frost and drought tolerant, good waterlogging tolerance.
 
 ### Casuarinas
 - C. obesa, C. glauca (Swamp Sheoak), C. cristata (Black Sheoak), and other species for saline conditions.
@@ -39,7 +39,7 @@ Many valuable for honey and [[comparison-essential-oils-vs-neem-oil-vs-insectici
 
 ### Other Salt Tolerant Trees
 - **Colophospermum mopane** (Mopane): Leguminous tree to 23 m from central/southern Africa. Grows on poor soils with bad drainage. Withstands high summer temperatures, mild frosts. Hardy, durable wood used for pylons, mine timbers, railroad ties. Considered best firewood in Africa (specific gravity > 1.0). Coppices vigorously after fire, frost, or felling.
-- **[[dalbergia-sissoo]]** (Sissoo): Fast growing leguminous tree to 30 m. [[query-what-is-the-ideal-temperature-range-for-growing-cannabis]] below 0 deg C to nearly 50 deg C. Rainfall 500-2000 mm. Grows on alluvial soils along rivers. Hardy, elastic, close-grained wood valued for furniture, veneer, boat building. Good firewood (specific gravity 0.64-0.7). Can be managed in coppice rotation.
+- **Dalbergia sissoo** (Sissoo): Fast growing leguminous tree to 30 m. Temperature range below 0 deg C to nearly 50 deg C. Rainfall 500-2000 mm. Grows on alluvial soils along rivers. Hardy, elastic, close-grained wood valued for furniture, veneer, boat building. Good firewood (specific gravity 0.64-0.7). Can be managed in coppice rotation.
 
 ## Alkaline and Calcareous Soils
 
@@ -52,10 +52,10 @@ Several species specifically tolerate alkaline conditions:
 
 ## Coastal Sites (Plants Surviving to the Ocean)
 
-See [[salt-tolerant-plant-guide]] for [[permaculture-plants-food-forest-ground-covers-bamboos]]. Trees for coastal conditions include many of the Acacia, Casuarina, Melaleuca, and Eucalyptus species listed above.
+See [[salt-tolerant-plant-guide]] for ground covers. Trees for coastal conditions include many of the Acacia, Casuarina, Melaleuca, and Eucalyptus species listed above.
 
 ## Giant Reed (Arundo donax)
-Often wrongly called bamboo, this vigorous perennial has thick underground stems. Native to the Mediterranean, colonised many damp areas in Western Australia. Survives in inundated, saline watercourses. Useful [[comparison-vetiver-grass-vs-bamboo-for-erosion-control]] and as a structural material.
+Often wrongly called bamboo, this vigorous perennial has thick underground stems. Native to the Mediterranean, colonised many damp areas in Western Australia. Survives in inundated, saline watercourses. Useful for erosion control and as a structural material.
 
 ## Related
 
@@ -64,47 +64,87 @@ Often wrongly called bamboo, this vigorous perennial has thick underground stems
 - [[permaculture-climate-zones]]
 - [[bamboo-species-guide]]
 
-## Historical Context
-- These approaches have evolved through decades of research and practical application.
-- Traditional knowledge systems have contributed significantly to modern understanding.
-- Scientific inquiry has progressively validated and refined historical practices.
+## Overview
 
-## Mechanisms and Processes
-- Underlying biological and ecological mechanisms drive observed outcomes.
-- Multiple interacting factors contribute to system-level effects.
-- Understanding these processes enables more targeted and effective interventions.
+Difficult Site Planting represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
 
-## See Also
-- [[companion-planting-guilds]]
-- [[jeavons-companion-planting]]
-- [[mollison-climate-site-analysis-permaculture]]
-- [[solomon-planting-and-transplanting-guide]]
-- [[comparison-companion-planting-vs-polyculture]]
+## Key Characteristics
+
+Several defining characteristics distinguish difficult site planting
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving difficult extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
 
 ## Practical Applications
 
-The principles and techniques discussed here have wide-ranging applications
-across multiple disciplines and contexts. Practitioners and researchers
-continue to explore new ways to integrate these concepts into modern practice,
-adapting traditional knowledge to contemporary challenges and opportunities.
+Difficult Site Planting finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
 
-## Key Considerations
+## Management and Implementation
 
-Several important factors influence the effectiveness and outcomes described
-in this topic. Understanding these considerations helps practitioners make
-informed decisions and avoid common pitfalls. Environmental conditions,
-timing, and material selection all play critical roles.
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
 
-## Common Challenges
+## Regional Considerations
 
-Practitioners frequently encounter several challenges when working with
-these concepts. Climate variability, resource limitations, and knowledge
-gaps can all affect outcomes. Addressing these challenges requires patience,
-observation, and a willingness to adapt approaches based on results.
+Different geographic regions present unique challenges and
+opportunities for difficult site planting. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+difficult site planting and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Difficult Site Planting has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of difficult site planting into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
 
 ## See Also
-- [[salicin]]
-- [[acacia]]
-- [[colophospermum-mopane]]
-- [[det]]
-- [[neem]]
+
+- [[difficult-soils-concretions-and-non-wetting]]
+- [[earthworms-and-difficult-soils]]
+- [[permaculture-difficult-sites-plant-guide]]
+- [[savannah-forestry-and-difficult-terrain-pioneering]]
+- [[solomon-difficult-vegetables-celery-cauliflower-high-demand-crops]]

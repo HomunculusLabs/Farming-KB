@@ -4,7 +4,7 @@ created: 2026-04-26
 updated: 2026-04-23
 sources:
   - "raw/papers/jadam-organic-farming-ultra-low-cost-agriculture.md"
-  - JADAM coleman-deep-organic-farming-philosophy: The Way to Ultra-Low-Cost Agriculture ([[youngsang-cho]], 2016)
+  - JADAM coleman-deep-organic-farming-philosophy: The Way to Ultra-Low-Cost Agriculture (youngsang-cho, 2016)
 type: concept
 tags: [jadam, water]
 ---
@@ -12,16 +12,9 @@ tags: [jadam, water]
 # JADAM Water-Soluble Calcium Preparation
 
 Calcium is a critical secondary macronutrient in plant nutrition,
-essential for [[chitin-chitosan-fungal-cell-wall]] structure, membrane integrity, root development,
-and disease resistance. JADAM provides methods for producing
-water-soluble calcium from common waste materials, eliminating the need
-to purchase commercial calcium supplements.
-
-## Why Calcium Matters
-
-[[knf-calcium-deficiency-symptoms]] manifests in multiple crop problems. In rice, calcium
+essential for [[knf-calcium-deficiency-symptoms]] manifests in multiple crop problems. In rice, calcium
 shortage contributes to lodging (falling over), disease susceptibility,
-and poor grain quality. In [[uncommon-specialty-fruit-crops-for-permaculture]] crops for permaculture, [[query-how-do-i-fix-calcium-deficiency-in-plants]] causes bitter
+and poor grain quality. In [[query-how-do-i-fix-calcium-deficiency-in-plants]] causes bitter
 pit, blossom end rot, and cracking. Adequate calcium strengthens cell
 walls, making plants more resistant to fungal penetration and physical
 damage.
@@ -34,15 +27,7 @@ at essentially zero cost.
 
 ## Eggshell Calcium
 
-The primary [[jadam-calcium-fertilizer]] source is chicken eggshells, which are
-composed of approximately 94% calcium carbonate. Eggshells are
-ubiquitous waste products available from households, restaurants, and
-food processing facilities at no cost.
-
-### Preparation Method
-
-1. **Collection and cleaning**: Collect eggshells and remove residual
-   membrane and [[hamilton-composting-and-organic-matter-management]]. Rinse thoroughly with water.
+The primary [[hamilton-composting-and-organic-matter-management]]. Rinse thoroughly with water.
 
 2. **Drying**: Spread cleaned eggshells in a thin layer and dry
    completely in sunlight or a warm, well-ventilated area. Complete
@@ -65,26 +50,7 @@ food processing facilities at no cost.
 ### Application
 
 Dissolved eggshell calcium is applied as a foliar spray or soil drench.
-For [[ultra-low-cost-foliar-application-methods]], the solution must be finely filtered to prevent
-sprayer clogging. Apply during active growth periods when calcium demand
-is highest.
-
-## Oyster Shell Calcium
-
-In coastal regions, oyster shells provide an abundant calcium source.
-Oyster shells are primarily calcium carbonate, similar to eggshells but
-available in much larger quantities.
-
-### Collection and Processing
-
-Oyster shells are collected from seafood restaurants, processing
-facilities, or natural shell deposits along coastlines. Processing
-follows a similar pattern to eggshell preparation:
-
-1. **Cleaning**: Remove organic residue by scrubbing and rinsing
-2. **Drying**: Sun-dry completely
-3. **Crushing**: Break shells into small pieces, then grind to powder
-4. **Roasting** (optional): [[oyster-mushroom-heat-treatment-sterilization-pasteurization-worldwide]] improves solubility
+For [[oyster-mushroom-heat-treatment-sterilization-pasteurization-worldwide]] improves solubility
 
 Oyster shells are harder than eggshells and require more energy to
 grind. Industrial crushing equipment or extended mortar-and-pestle work
@@ -118,8 +84,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[composting]]
 - [[permaculture]]
-- [[sterilization]]
 - [[cho-water-soluble-calcium-phosphate-preparation]]
 - [[water-soluble-calcium-wca]]

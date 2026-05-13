@@ -8,7 +8,7 @@ aliases: [entheogenic mushroom use, traditional mushroom ceremonies, ethnobotany
 
 # Sacred Mushrooms Ethnography
 
-The ceremonial and religious use of neurotropic fungi spans millennia and multiple continents, representing one of humanity's oldest pharmacological traditions. From the Mazatec curanderos of Oaxaca to the Chukchee shamans of Siberia, indigenous peoples have incorporated psychoactive mushrooms into their spiritual, healing, and cosmological frameworks with remarkable sophistication.
+The ceremonial and religious use of [[neurotropic-fungi]] spans millennia and multiple continents, representing one of humanity's oldest pharmacological traditions. From the Mazatec curanderos of Oaxaca to the Chukchee shamans of Siberia, indigenous peoples have incorporated psychoactive mushrooms into their spiritual, healing, and cosmological frameworks with remarkable sophistication.
 
 ## Mexico: The Center of Psilocybian Ceremony
 
@@ -114,8 +114,6 @@ This division underscores the outsized impact that ethnographic research on psyc
 
 ## See Also
 
-- [[neurotropic-fungi-taxonomy]]
 - [[psilocybe-genus-distribution]]
-- [[amanita-muscaria]]
 - [[psilocybin-chemistry]]
 - [[maria-sabina]]

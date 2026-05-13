@@ -52,7 +52,7 @@ The species is now cultivated throughout the tropics and subtropics, from 40°N 
 
 Optimal growth temperatures range from 25–30°C. The crop is sensitive to frost and waterlogging, requiring well-drained soils for proper pod development. Sandy loam soils are preferred for easier harvest.
 
-The crop requires adequate calcium in the pegging zone for proper pod filling. Gypsum (calcium sulfate) is commonly applied at early pod development to ensure adequate calcium availability without raising soil pH.
+The crop requires adequate calcium in the pegging zone for proper pod filling. Gypsum (calcium sulfate) is commonly applied at early pod development to ensure adequate calcium availability without raising [[soil-ph]].
 
 ## Chemistry and Nutrition
 
@@ -65,26 +65,86 @@ Peanuts are a significant dietary source of niacin (vitamin B3), folate, vitamin
 
 Major allergenic proteins include Ara h 1 (vicilin-type), Ara h 2 (conglutin), and Ara h 3 (glycinin), which together account for the majority of peanut allergy cases. Peanut allergy affects 1–2% of the population in Western countries.
 
-Aflatoxin contamination by *Aspergillus flavus* and *A. parasiticus* is a serious food safety concern, particularly in tropical regions with suboptimal [[psilocybin-mushroom-drying-and-storage-methods]] conditions. Regulatory limits for aflatoxins in peanuts are 4–20 ppb depending on the market.
+Aflatoxin contamination by *Aspergillus flavus* and *A. parasiticus* is a serious food safety concern, particularly in tropical regions with suboptimal [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]] through symbiosis with *Bradyrhizobium* species can provide 60–80% of the crop's nitrogen requirement, reducing fertilizer inputs. Inoculation with effective bradyrhizobial strains is practiced in many peanut-growing regions. In soils without established bradyrhizobial populations, inoculation can increase pod yield by 15–30%.
 
-## Cultivation
-
-Peanut cultivation involves planting seeds 3–5 cm deep in prepared seedbeds, typically at 10–15 cm spacing within rows 60–90 cm apart. Planting density ranges from 100,000–200,000 plants per hectare.
-
-The crop cycle is 90–150 days depending on cultivar and growing conditions. Harvest timing is critical — immature pods have low oil content, while over-mature pods may detach and remain in the soil.
-
-Harvesting involves digging plants from the soil, inverting them for field drying, and subsequently threshing to separate pods from vines. Mechanized harvesting requires careful timing to minimize pod losses.
-
-[[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]] through symbiosis with *Bradyrhizobium* species can provide 60–80% of the crop's nitrogen requirement, reducing fertilizer inputs. Inoculation with effective bradyrhizobial strains is practiced in many peanut-growing regions. In soils without established bradyrhizobial populations, inoculation can increase pod yield by 15–30%.
-
-Major pests include the tobacco thrips (*Frankliniella fusca*), lesser cornstalk borer (*Elasmopalpus lignosellus*), and various species of root-knot nematodes (*Meloidogyne* spp.). Integrated pest management strategies combine resistant cultivars with [[fukuoka-textdoc-biological-control-fallacy-pheromone-critique]] agents.
-
-Foliar diseases including early leaf spot (*Cercospora arachidicola*) and late leaf spot (*Phaeoisariopsis personata*) are the most yield-limiting factors worldwide. Fungicide application schedules are calibrated to disease pressure and weather conditions.
-
-## Ecological Role
-
-As a legume, A. hypogaea forms symbiotic relationships with nitrogen-fixing rhizobia, contributing to soil [[query-how-does-nitrogen-cycling-work-in-a-permaculture-system]]. Peanut rotations with cereals can significantly reduce nitrogen fertilizer requirements for subsequent crops.
+Major pests include the tobacco thrips (*Frankliniella fusca*), lesser cornstalk borer (*Elasmopalpus lignosellus*), and various species of root-knot nematodes (*Meloidogyne* spp.). [[integrated-pest-management]] strategies combine resistant cultivars with [[query-how-does-nitrogen-cycling-work-in-a-permaculture-system]]. Peanut rotations with cereals can significantly reduce nitrogen fertilizer requirements for subsequent crops.
 
 The extensive root system improves soil structure and reduces erosion on sandy soils. Peanut production is particularly important in conservation agriculture systems in semi-arid tropics.
 
 The crop provides habitat and forage for [[coleman-beneficial-insects-and-ecological-pest-control]] including pollinators and predatory species. Intercropping peanuts with cereals can enhance overall farmland biodiversity.
+
+## Overview
+
+Arachis Hypogaea represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish arachis hypogaea
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving arachis extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Arachis Hypogaea finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for arachis hypogaea. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+arachis hypogaea and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Arachis Hypogaea has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of arachis hypogaea into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.

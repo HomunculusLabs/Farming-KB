@@ -20,44 +20,14 @@ type: concept
 
 # Natural Livestock Farming and Open Grazing
 
-Fukuoka extends his [[fukuoka-critique-of-scientific-agriculture]] agriculture to livestock
-farming, arguing that modern confinement-based animal production is
-ecologically destructive, ethically indefensible, and ultimately less
-efficient than allowing animals to graze freely in natural environments.
-He envisions a system of integrated multi-species grazing that works
-with the natural instincts and behaviors of animals.
-
-## The Abuses of Modern Livestock Farming
-
-Although this appears efficient and the work is less physically
-demanding, the quality of these products is in every way inferior to
-beef and eggs from animals allowed to roam freely outdoors. Because
-these animals have been raised on feed packed with antibiotics,
-preservatives, flavor enhancers, hormones, and residual pesticides,
-toxins harmful to the human body accumulate in the beef and eggs.
-Livestock farming is no longer a form of agriculture practiced in
-nature. Battery chickens are machines for hatching factory-made eggs,
-while hogs and cows are factory-produced meat and milk fabricating
-machines.
-
-## Capital Displacing the Farmer
-
-The transformation of livestock farming from an agricultural practice
-to an industrial process has profound implications for the relationship
-between farmers and their animals. Regardless of whether the product is
-good or bad, one person can raise tens and hundreds of thousands of head
-efficiently with mass [[spawn-production-techniques]]. But it is capital, not men,
+Fukuoka extends his [[spawn-production-techniques]]. But it is capital, not men,
 that today raises these animals. This is no longer the farmer's domain,
 but that of commercial houses which raise livestock in large factory-
 like operations.
 
 ## Natural Grazing as the Ideal
 
-Under the precepts of [[comparison-natural-farming-vs-permaculture]], livestock farming takes the
-form of open grazing. Cattle, pigs, and chickens fattened while free to
-roam at will on the open land under the sun's rays are a precious,
-irreplaceable source of food for man. The problem lies elsewhere, in the
-prejudiced view that sees [[cho-loess-powder-in-natural-farming]] as inefficient. Is grazing,
+Under the precepts of [[cho-loess-powder-in-natural-farming]] as inefficient. Is grazing,
 which allows one person to raise hundreds of head without doing
 anything, really inefficient? Is it not, rather, the most efficient form
 of production there is?
@@ -118,8 +88,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[natural-livestock-farming]]
 - [[fukuoka-natural-livestock-farming-open-grazing]]
-- [[fukuoka-textdoc-natural-livestock-open-grazing]]
 - [[fukuoka-textdoc-factory-livestock-abuses-natural-grazing-ideal]]
 - [[fukuoka-textdoc-livestock-open-grazing-forest-pasture-method]]

@@ -31,11 +31,7 @@ sources:
 
 The molecular formula is C15H20N2O. The free base is an off-white oil that does not crystallize. The hydrochloride salt has a melting point of 164-167 degrees Celsius when recrystallized from methanol and benzene.
 
-Mass [[shirota-psilocybin-crystal-form-spectral-data-and-analytical-characterization]] shows the characteristic C5H10N+ fragment at m/z 84 (100%), the methoxyindolemethylene+ fragment at m/z 160 (4%), and the parent ion at m/z 244 (6%).
-
-This compound represents one of the heterocyclic tryptamines in which the two nitrogen alkyl groups are joined into a ring structure. The pyrrolidine ring is the five-membered version of this structural motif, making it the smallest of the cyclic amine substituents explored in the TIHKAL series.
-
-5-MeO-pyr-T is documented in [[5-meo-dmt-entity-tihkal]], including a total loss of self-identity in a nearly instantaneous rush. One subject was unconscious for approximately four hours. Upon regaining consciousness, the subject felt very nauseous and vomited repeatedly. The experience was described as having a "total loss of self-identity" with the feeling of having the "top of my head blown off." Memory of the experience was completely absent.
+Mass [[5-meo-dmt-entity-tihkal]], including a total loss of self-identity in a nearly instantaneous rush. One subject was unconscious for approximately four hours. Upon regaining consciousness, the subject felt very nauseous and vomited repeatedly. The experience was described as having a "total loss of self-identity" with the feeling of having the "top of my head blown off." Memory of the experience was completely absent.
 
 Another subject at 3 mg smoked experienced a similar pattern: an initial rush followed by unconsciousness lasting over an hour, followed by flailing, rolling, quivering, and shaking. Pupils were markedly constricted. Recovery was gradual, with nausea appearing after regaining lucidity. The subject's skin appeared abnormal for several days afterwards, suggesting possible systemic toxicity.
 
@@ -63,18 +59,9 @@ The glyoxylamide is reduced with lithium aluminum hydride in dioxane under reflu
 
 5-MeO-pyr-T is the pyrrolidine member of a series of heterocyclic 5-methoxytryptamines. The other two members are 5-MeO-pip-T (the piperidine analogue, six-membered ring) and 5-MeO-mor-T (the morpholine analogue, six-membered ring containing an oxygen atom).
 
-The unsubstituted pyrrolidine tryptamine [[4-ho-pyr-t-entity-tihkal]] are the non-methoxylated counterparts in this series. Shulgin notes that the pyrrolidine tryptamines in general have shown "rather unexpected and unencouraging descriptions."
+The unsubstituted pyrrolidine tryptamine [[blesching-cannabis-health-index-dosage-guidelines-medical]].
 
-The glyoxylamide intermediates for 5-MeO-pip-T and 5-MeO-mor-T were prepared but the final amines were never assayed due to the discouraging results with the pyrrolidine compound. The piperidine glyoxylamide has a melting point of 167-169 degrees Celsius and the morpholine glyoxylamide melts at 193-194 degrees Celsius.
-
-## Toxicity and Safety
-
-5-MeO-pyr-T presents significant safety concerns that are unusual for the tryptamine class. Reports of prolonged unconsciousness (up to four hours or more), complete amnesia for the experience period, and residual effects lasting days to potentially a week place this compound in a higher risk category than typical psychedelic tryptamines.
-
-The skin abnormalities reported by one subject lasting several days after use suggest possible systemic toxicity that is not characteristic of other tryptamines. The extreme inter-individual variability in both effects and recovery time makes it impossible to establish safe [[blesching-cannabis-health-index-dosage-guidelines-medical]].
-
-The compound should be considered potentially dangerous and should not be used without appropriate medical supervision and [[5-meo-dmt-entity-tihkal]] - the N,N-dimethyl counterpart, profoundly different profile
-- [[pyr-t-entity-tihkal]] - the unsubstituted pyrrolidine tryptamine
+The compound should be considered potentially dangerous and should not be used without appropriate medical supervision and [[pyr-t-entity-tihkal]] - the unsubstituted pyrrolidine tryptamine
 ## Practical Considerations
 
 Successful implementation of 5-MeO-pyr-T requires attention to

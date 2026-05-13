@@ -8,56 +8,7 @@ sources: ["Shulgin - PIHKAL"]
 ---
 # MMDA-2
 
-[[2c-b-pihkal-entry-20]] #133. 2-METHOXY-4,5-METHYLENEDIOXYAMPHETAMINE.
-
-## Chemical Name
-
-2-METHOXY-4,5-METHYLENEDIOXYAMPHETAMINE
-
-## Dosage and Duration
-
-| Property | Value |
-|----------|-------|
-| Dosage | 25 - 50 mg. |
-| Duration | 8 - 12 h. |
-
-## Qualitative Comments
-
-> (with 25 mg) Had some not-too-pleasant jangly
-> effects Q this is not the smoothest of drugs. Duration: onset at 1
-> 1/2 hours (dose after lunch), acute 3 to 4 hours, seconal at 11 hours
-> to stop residual effects so I could sleep. Occasionally from 5 to 10
-> hours acute abdominal distress, resembling gas pains but unable to
-> defecate. Abdominal muscles tight and hard. This occurred for about
-> 15 minutes every hour or so. Rather unpleasant.
->
-> (with 30 mg) There was the first subtle note at 45 minutes, and the
-> slow development makes the changes easy to assimilate, but difficult
-> to quantitate. My awareness is truly enhanced. Nothing is distorted,
-> so there can be no misrepresentation as a result. This would be a
-> good material to introduce someone to the slow-on slow-off type of
-> experience. It would be impossible for any person, at this level, on
-> this drug, to have a bad experience. This is very much like a slow
-> MDA, perhaps 80 milligrams of it, and fully as controllable. The
-> N-methyl of this is a must.
->
-> (with 40 mg) The chemical is primarily a visual enhancer with only an
-> extremely modest amount of visual distortion. The retinal activity
-> was of a minor and non-threatening nature. The chemical seemed to
-> facilitate empathic communication and the emotions felt strong and
-> clean. Conversation flowed easily, without inhibitions or
-> defensiveness. Anorexia accompanied experience. There was no
-> impotence. There was some restless movement which dissipated with
-> exercise (walking and playing frisbee). Next day woke feeling
-> energetic, no muscular stiffness, alert. I would repeat this
-> experience.
->
-> (with 50 mg) I was coming on within 40-60 minutes, easy and slow, but
-> the body was +3 before the mind. The mental was strange for the first
-> 2-3 hours Q I called it 'High Sierras' Q realistic, dispassionate, not
-> kind. Some dark areas are persistent. Watched last half of Circus of
-> Dr. Lao and the whole feeling changed from pornographic to erotic.
-> Delightful. Some fantasy. On [[fukuoka-textdoc-production-costs-not-coming-down]], sleep was difficult. The
+[[fukuoka-textdoc-production-costs-not-coming-down]], sleep was difficult. The
 > body feels unexpectedly depleted. Rubber legs and handwriting jerky.
 
 ## Extensions and Commentary
@@ -72,8 +23,7 @@ addition of a methoxy group. And for the non-chemist, the name itself
 property that is shared with MDA is the broad variety of opinions as
 to the quality of its action. Some like it much, and some like it not
 at all. The N-methyl homologue was indeed made, for direct evaluation
-in comparison to N-methyl MDA (which is [[methyl-mmda-2-entity-pihkal]]
-- [[qualitative-comments-methodology-pihkal]]
+in comparison to N-methyl MDA (which is [[qualitative-comments-methodology-pihkal]]
 - fungal-pellet-formation-structure
 ## Practical Considerations
 
@@ -88,3 +38,88 @@ improve resilience and productivity over time.
 ## Future Directions
 
 Continued development in this area promises new insights and
+
+## Overview
+
+Mmda 2 Entity Pihkal represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish mmda 2 entity pihkal
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving mmda extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Mmda 2 Entity Pihkal finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for mmda 2 entity pihkal. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+mmda 2 entity pihkal and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Mmda 2 Entity Pihkal has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of mmda 2 entity pihkal into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[4t-mmda-2-entity-pihkal]]
+- [[methyl-mmda-2-entity-pihkal]]
+- [[mmda-3b-entity-pihkal]]
+- [[mmda-entity]]
+- [[shulgin-a-pihkal-mmda-and-mmda-2-methoxy-methylenedioxyamphetamine]]

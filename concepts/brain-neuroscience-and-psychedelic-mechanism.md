@@ -8,7 +8,7 @@ tags: [reference]
 ---
 # Brain Neuroscience and Psychedelic Mechanism
 
-Simon G. Powell dedicates Chapter 5 of "The [[powell-psilocybin-solution-ecological-cognition-theory]]" to a detailed exploration of the neuroscience underlying [[leary-psychedelic-experience-bardo-mapping]]. Titled "The Mushroom and the Synapse," the chapter investigates the neuronal architecture of the brain to comprehend the nature and potential dynamics of consciousness, examining how psilocybin and related compounds interact with the brain's information-processing systems.
+Simon G. Powell dedicates Chapter 5 of "The [[leary-psychedelic-experience-bardo-mapping]]. Titled "The Mushroom and the Synapse," the chapter investigates the neuronal architecture of the brain to comprehend the nature and potential dynamics of consciousness, examining how psilocybin and related compounds interact with the brain's information-processing systems.
 
 ## The Neuron and the Nervous System
 
@@ -50,28 +50,9 @@ One particular serotonin receptor, the 5-HT2 type, appears to represent a common
 
 The locus coeruleus monitors the constant surge of electrochemical traffic passing through it and can detect changes in data flow, alerting other parts of the brain to novel stimuli. According to Aghajanian, both psilocybin and mescaline bind to 5-HT2 sites in the locus coeruleus and thus alter the functioning of this system, ultimately raising levels of alertness and arousal.
 
-Once again, the evidence points toward entheogens functioning by making more information available to the experiencer. The net result of psilocybin's combined effects upon the locus coeruleus and the raphe system is an increase in neuronal firing, a concurrent increase in consciousness, and the emergence of [[psilocybin-neuroscience]] — Dedicated page on psilocybin neuroscience
-- [[consciousness-and-psychedelics]] — Consciousness and psychedelic experience
-- [[information-paradigm-of-consciousness]] — Information theory of consciousness
+Once again, the evidence points toward entheogens functioning by making more information available to the experiencer. The net result of psilocybin's combined effects upon the locus coeruleus and the raphe system is an increase in neuronal firing, a concurrent increase in consciousness, and the emergence of [[consciousness-and-psychedelics]] — Consciousness and psychedelic experience
 - [[5-meo-dmt-compound-profile]] — Related tryptamine compound
-- [[psychedelic-terminology-hallucinogenic-entheogenic]]
-## Practical Considerations
-
-When working with Brain Neuroscience and Psychedelic Mechanism, several practical factors should be
-carefully considered to achieve optimal results. These include
-the specific conditions of the implementation context, available
-resources, timing requirements, and the interactions between this
-topic and other elements of the broader system. A holistic view
-that considers these interconnections produces better outcomes.
-
-Environmental conditions such as temperature, moisture, and
-seasonal patterns significantly influence results. Monitoring these
-variables and adapting practices accordingly is essential for success.
-The most effective practitioners develop keen observation skills and
-respond flexibly to changing conditions rather than following rigid
-protocols regardless of circumstances or local variation.
-
-[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
+- [[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -111,8 +92,6 @@ through generations to modern scientific approaches, the evolution continues
 to inform current best practices and research directions.
 
 ## See Also
-- [[psilocybin-neuroscience]]
 - [[psilocybin]]
-- [[det]]
 - [[mescaline]]
 - [[tryptamine]]

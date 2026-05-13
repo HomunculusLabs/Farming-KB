@@ -82,6 +82,13 @@ Understanding these vertical and lateral transport mechanisms is essential for d
 6. **Use conservative application rates** of concentrated amendments like guano and bitterns to avoid heavy metal accumulation
 
 ## See Also
-- [[primary-plant-nutrients-and-mineral-sources]]
 - [[primary-nutrients-and-mineral-sources-in-soils]]
 - [[teaming-with-nutrients-essential-plant-nutrients]]
+
+## See Also
+
+- [[plant-sensing-communication]]
+- [[phytochrome-red-far-red-light-switch-plant-pigment]]
+- [[cervantes-supercropping-plant-stress-techniques]]
+- [[ingham-brix-plant-health-indicator-limitations]]
+- [[potassium-plant-nutrition]]

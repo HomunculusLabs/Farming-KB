@@ -8,33 +8,7 @@ sources: []
 ---
 # African Truffle Species
 
-Africa harbors a diverse but poorly documented truffle flora, ranging from the desert truffles of the Sahara and Kalahari to the [[dighton-hypogeous-fungi-mammal-spore-dispersal]] of Mediterranean North Africa and the tropical forests of Central and West Africa. African truffle species have been gathered as food for millennia by indigenous peoples, though scientific documentation has lagged behind other continents.
-
-## Overview
-
-The African continent's truffle diversity reflects its enormous range of climates and ecosystems. North Africa shares truffle species with the Mediterranean basin, including both true truffles (Tuber species) and desert truffles (Terfezia and Tirmania). The Sahara and Sahel regions host desert truffle species adapted to extreme aridity. Southern Africa's Kalahari Desert has its own unique truffle species, most notably Kalaharituber pfeilii. The tropical forests of Central and West Africa likely contain many undescribed hypogeous fungal species.
-
-African truffle traditions are among the oldest in the world. Desert truffles are referenced in ancient Egyptian texts and have been gathered by Berber, Tuareg, and other North African peoples for thousands of years. In southern Africa, the San (Bushman) peoples have gathered Kalahari truffles since prehistoric times.
-
-## North African Truffle Species
-
-### Terfezia Species
-
-North Africa is a major center of diversity for the desert truffle genus Terfezia. Several species are found across Morocco, Algeria, Tunisia, Libya, and Egypt, where they associate with Helianthemum (rock rose) species in arid and semi-arid steppes and deserts.
-
-Terfezia claveryi is widely distributed across North Africa and is one of the most commonly collected species. It fruits after winter rains, typically from February through April, and is sold in local markets throughout the Maghreb.
-
-Terfezia boudieri (the black desert truffle) is also common in North African markets. It is often considered superior in flavor to T. claveryi and commands higher prices. The darker coloration and more intense aroma distinguish it from the paler T. claveryi.
-
-Terfezia leonis is found in North and East Africa, associated with Acacia species in more arid habitats than the Helianthemum-associated species.
-
-### Tirmania Species
-
-Tirmania nivea occurs in North Africa, particularly in Egypt, Libya, and Tunisia. The white desert truffle is highly prized and traditionally reserved for special occasions. In Egypt, it is known as "terfasse" and is prepared by roasting or cooking with rice.
-
-### Mediterranean Tuber Species
-
-The Mediterranean coastal regions of North Africa (particularly Morocco, Algeria, and Tunisia) host several European truffle species, including Tuber melanosporum and Tuber aestivum. Morocco has developed a small truffle [[mushroom-cultivation-industry-directory]], with T. melanosporum orchards established in the Rif Mountains and Middle Atlas regions.
+Africa harbors a diverse but poorly documented truffle flora, ranging from the desert truffles of the Sahara and Kalahari to the [[mushroom-cultivation-industry-directory]], with T. melanosporum orchards established in the Rif Mountains and Middle Atlas regions.
 
 Moroccan T. melanosporum is harvested from both wild sources and cultivated orchards, with production concentrated in the calcareous soils of the Atlas Mountains. The Moroccan truffle season runs from December through March, coinciding with the European season.
 
@@ -72,9 +46,7 @@ In many African communities, truffles serve as both food and medicine. Tradition
 
 ## Research and Conservation
 
-African truffle mycology is an emerging field with significant research needs. Many species are known only from initial descriptions, and their ecology, distribution, and conservation status are poorly understood. [[dighton-fungi-climate-change-feedback]], desertification, and land-use change threaten truffle habitats across the continent, particularly in North Africa and the Sahel where desertification is advancing rapidly.
-
-International collaboration between African mycologists and research institutions in Europe, [[psilocybin-north-america-pacific-northwest]], and Asia is essential to advance understanding of African truffle diversity and to develop conservation and sustainable use strategies. See [[fungal-diversity-deserts-arid-lands]] for [[gadd-fungal-ecology-endophytes]] in arid Africa.
+African truffle mycology is an emerging field with significant research needs. Many species are known only from initial descriptions, and their ecology, distribution, and conservation status are poorly understood. [[psilocybin-north-america-pacific-northwest]], and Asia is essential to advance understanding of African truffle diversity and to develop conservation and sustainable use strategies. See [[gadd-fungal-ecology-endophytes]] in arid Africa.
 
 ## Practical Context
 African Truffle Species is best interpreted in relation to site goals, climate
@@ -112,8 +84,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[doc]]
 - [[tuber-aestivum]]
-- [[psilocybin]]
 - [[acacia]]
 - [[det]]

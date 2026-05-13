@@ -39,39 +39,9 @@ The lower surface between the veins is pale tan to cream-colored with a sparse t
 
 Apothecia are produced on the lower surface, which is unusual among foliose lichens. They are reddish-brown, 2–5 mm in diameter, and borne on short stalks arising from the vein margins.
 
-The photobiont is the cyanobacterium *Nostoc*, housed in a distinct layer within the upper medulla. This cyanobacterial partnership enables atmospheric [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]].
+The photobiont is the cyanobacterium *Nostoc*, housed in a distinct layer within the upper medulla. This cyanobacterial partnership enables atmospheric [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] on the forest floor.
 
-Vegetative reproduction occurs through thallus fragmentation, as soredia and isidia are absent in *N. expansum*. This limits its dispersal ability compared to sorediate lichens.
-
-## Distribution and Habitat
-
-*Nephroma expansum* is distributed across Europe, Asia, and North America. In Europe, it occurs from Scandinavia southward through the mountains of central and southern Europe to the Mediterranean.
-
-In North America, the species ranges from Alaska to California and eastward across Canada to the northeastern United States. It is most abundant in the Pacific Northwest and the northern Rocky Mountains.
-
-The lichen grows as an epiphyte on the bark and trunks of large trees in humid forests. Preferred hosts include *Thuja plicata*, *Tsuga heterophylla*, *Picea sitchensis*, and *Acer* species.
-
-It strongly favors old-growth forest conditions with high canopy cover and consistent humidity. The species is typically found on mossy bark in sheltered ravines and near streams within forest interiors.
-
-Elevation ranges from near sea level to approximately 1,500 meters. It is most common in lowland to montane forests with high annual precipitation, typically exceeding 1,500 mm annually.
-
-## Ecology and Symbiosis
-
-*Nephroma expansum* fixes atmospheric nitrogen through its *Nostoc* photobiont, contributing to the nitrogen budget of forest ecosystems. The fixed nitrogen becomes available to other organisms when lichen debris decomposes.
-
-The species is slow-growing, with annual radial growth rates estimated at 1–3 mm per year. This slow growth makes it sensitive to disturbance and limits its ability to recolonize logged or fragmented habitats.
-
-The thallus provides microhabitat for diverse invertebrate communities, including mites, springtails, and nematodes. These organisms contribute to decomposition and [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] on the forest floor.
-
-*N. expansum* is moderately sensitive to air pollution, particularly sulfur dioxide and [[dighton-nitrogen-deposition-mycorrhizal-community-shifts]]. Populations have declined in parts of Europe where atmospheric quality has deteriorated.
-
-The production of apothecia on the lower surface is thought to protect spores from desiccation and UV radiation. This reproductive strategy may be an adaptation to the humid, shaded habitats the species prefers.
-
-## Traditional and Medicinal Uses
-
-*Nephroma expansum* has a documented history of use in traditional medicine across several cultures. In Nordic folk medicine, it was used as a treatment for kidney ailments, likely influenced by the kidney-like shape of the thallus.
-
-The Sámi people of northern Scandinavia reportedly used *Nephroma* species in wound healing. The lichen was applied as a poultice to cuts and skin infections, leveraging its [[mycelium-running-mushroom-antimicrobial-properties-species-chart]].
+*N. expansum* is moderately sensitive to air pollution, particularly sulfur dioxide and [[mycelium-running-mushroom-antimicrobial-properties-species-chart]].
 
 In traditional Chinese medicine, related *Nephroma* species have been used to treat coughs, fever, and inflammation. Preparations typically involve boiling the dried lichen to extract water-soluble polysaccharides.
 
@@ -88,3 +58,85 @@ Standard spot tests typically yield C+ red to orange reactions from the medulla.
 TLC analysis can reliably distinguish *N. expansum* from *N. arcticum* and *N. laevigatum* based on differences in their secondary metabolite profiles. Chemical identification is essential for accurate species determination.
 
 ## Similar Species
+
+## Overview
+
+Nephroma Expansible represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish nephroma expansible
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving nephroma extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Nephroma Expansible finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for nephroma expansible. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+nephroma expansible and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Nephroma Expansible has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of nephroma expansible into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[nephroma-arcticum]]
+- [[nephroma-laevigatum]]

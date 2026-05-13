@@ -11,7 +11,7 @@ sources:
 
 ## Overview
 
-DOC (PIHKAL #64) is a potent psychedelic amphetamine in the DOx family. The 4-chloro substituent gives DOC higher potency and a somewhat different character compared to [[lsd-compound-profile]] — a dangerous substitution given DOC's far longer duration and higher typical dose. See [[phenethylamine-chemistry-basics]] for more on halogenation methodology in this series.
+DOC (PIHKAL #64) is a potent psychedelic amphetamine in the DOx family. The 4-chloro substituent gives DOC higher potency and a somewhat different character compared to [[phenethylamine-chemistry-basics]] for more on halogenation methodology in this series.
 
 ## Dosage and Duration
 
@@ -23,10 +23,8 @@ DOC (PIHKAL #64) is a potent psychedelic amphetamine in the DOx family. The 4-ch
 | **Duration** | 12-24 hours |
 | **Onset** | 1-3 hours |
 
-DOC is notably potent at 1.5-3 mg, making it one of the more powerful DOx compounds. Its long duration (12-24 hours) means users should plan for a full day and night. When sold on blotter as "LSD," the much larger amount needed (milligrams vs. micrograms) often means the blotter is unusually thick or large. See [[dom-compound-profile]] and [[dob-compound-profile]] | Bromine | 1.0-3.0 mg | 18-30 h |
-| [[dom-compound-profile]] | Methyl | 3-10 mg | 14-20 h |
-
-The halogen series (DOC, DOB, DOI) share remarkably similar potencies, with all active in the low single-digit milligram range — roughly an order of magnitude more potent than the parent compound DOM. The differences between them are more qualitative than quantitative: DOC is described as more "archetypical" in its psychedelic character, while individual subjective reports vary. See [[phenethylamine-receptor-pharmacology]] for the pharmacological basis of these similarities.
+DOC is notably potent at 1.5-3 mg, making it one of the more powerful DOx compounds. Its long duration (12-24 hours) means users should plan for a full day and night. When sold on blotter as "LSD," the much larger amount needed (milligrams vs. micrograms) often means the blotter is unusually thick or large. See [[dob-compound-profile]] | Bromine | 1.0-3.0 mg | 18-30 h |
+| [[phenethylamine-receptor-pharmacology]] for the pharmacological basis of these similarities.
 
 ## Untasted Analogues
 
@@ -40,37 +38,11 @@ The fact that none of these nitrogen-functionalized analogues were tasted limits
 
 ## Pharmacology
 
-DOC is a potent 5-HT2A agonist with additional affinity for 5-HT2B and 5-HT2C receptors. The chloro substituent at the 4-position provides greater electronegativity compared to the methyl of DOM, contributing to increased receptor affinity and potency. See [[phenethylamine-chemistry-basics]].
-
-## Harm Reduction
-
-- Extremely potent — accurate milligram scales are essential
-- Duration of 12-24 hours requires significant time commitment
-- Often misrepresented as LSD on blotter — test kits cannot distinguish DOx from LSD
-- Do not redose — the long onset means redosing before effects are felt is dangerous
-- Start early in the day given the extended duration
-- See [[2c-family-compounds-overview]] for broader phenethylamine harm reduction context
+DOC is a potent 5-HT2A agonist with additional affinity for 5-HT2B and 5-HT2C receptors. The chloro substituent at the 4-position provides greater electronegativity compared to the methyl of DOM, contributing to increased receptor affinity and potency. See [[2c-family-compounds-overview]] for broader phenethylamine harm reduction context
 
 ## See Also
 
-- [[speciogynine]]
-## Practical Considerations
-
-When working with DOC — Compound Profile, several practical factors should be
-carefully considered to achieve optimal results. These include
-the specific conditions of the implementation context, available
-resources, timing requirements, and the interactions between this
-topic and other elements of the broader system. A holistic view
-that considers these interconnections produces better outcomes.
-
-Environmental conditions such as temperature, moisture, and
-seasonal patterns significantly influence results. Monitoring these
-variables and adapting practices accordingly is essential for success.
-The most effective practitioners develop keen observation skills and
-respond flexibly to changing conditions rather than following rigid
-protocols regardless of circumstances or local variation.
-
-[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
+- [[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -111,8 +83,6 @@ through generations to modern scientific approaches, the evolution continues
 to inform current best practices and research directions.
 
 ## See Also
-- [[doc]]
 - [[dom]]
-- [[speciogynine]]
 - [[lsd]]
 - [[dmmda-compound-profile]]

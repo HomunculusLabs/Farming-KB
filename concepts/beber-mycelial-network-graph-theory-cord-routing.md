@@ -13,10 +13,7 @@ tags: [mycelial-network, graph-theory, fungal-cords, network-analysis, nutrient-
 
 Bebber, Fricker, and colleagues developed a novel approach to
 analyzing fungal mycelial architecture using graph theory —
-translating the [[ectomycorrhizal-morphological-structures]] of corded fungal networks
-into mathematical graph representations. This framework, presented
-in *Fungi in the Environment*, enables quantitative comparison of
-fungal [[mycelial-foraging-strategies-nutrient-translocation]], assessment of network resilience, and
+translating the [[mycelial-foraging-strategies-nutrient-translocation]], assessment of network resilience, and
 modeling of nutrient transport routing across complex mycelial
 systems spanning meters of territory.
 
@@ -51,7 +48,7 @@ development over periods of days to weeks.
 As a colony grows from its resource base, nutrient translocation
 flows predominantly toward the growing margin. When new resources
 are found, redistribution back to the base can occur through
-potentially different [[the-apoplastic-symplastic-and-transcellular-transport-pathways]]. The [[mycelium-network-architecture]]
+potentially different [[mycelium-network-architecture]]
 represents a balance between efficient resource capture, tolerance
 to damage, and metabolic cost.
 
@@ -118,8 +115,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[mycelial-networks]]
 - [[mycelial-cord-network-topology-graph-theory-bebber]]
-- [[dom]]
 - [[mycelium]]
 - [[ectomycorrhiza]]

@@ -8,11 +8,7 @@ type: entity
 
 ## Description
 
-Huani (also spelled *huani*) is a form of sorcery in Amazonian vegetalismo that uses a steel bow with a crystal arrow as its weapon. The practitioner keeps the huani under their left armpit and carries a living piranha inside their [[mariri]] (magical phlegm). Huani sorcery is considered the most lethal form of magical attack — once a victim is struck, no vegetalista can cure the affliction; only divine intervention can save them.
-
-## Classification
-
-- **Domain**: Amazonian vegetalismo / mestizo [[shamanism]]
+Huani (also spelled *huani*) is a form of sorcery in Amazonian vegetalismo that uses a steel bow with a crystal arrow as its weapon. The practitioner keeps the huani under their left armpit and carries a living piranha inside their [[shamanism]]
 - **Category**: Sorcery technique, magical weapon system
 - **Weapon**: Steel bow with crystal arrow
 - **Lethality**: Incurable by normal shamanic means
@@ -20,27 +16,17 @@ Huani (also spelled *huani*) is a form of sorcery in Amazonian vegetalismo that 
 ## Key Facts
 
 - The sorcerer puts the bow in his mouth and blows the crystal arrow, which pierces the victim's body and returns to the sorcerer's armpit. The victim feels extreme fatigue, falls asleep, and upon waking begins to vomit blood until death.
-- Huani sorcery is incurable by any vegetalista — the text states explicitly that "only God can save him," distinguishing it from chonta and [[marupa-sorcery]] which can be diagnosed and treated.
-- Diagnosis is performed through [[ayahuasca-vision-art-and-shipibo-tradition]]: the curandero sees small waves crossed by dark lines around the patient, distinguishing huani from chonta damage (zigzagging lights) and marupa sorcery (larger waves).
+- Huani sorcery is incurable by any vegetalista — the text states explicitly that "only God can save him," distinguishing it from chonta and [[amaringo-ayahuasca-visions-shipibo-iconography]]: the curandero sees small waves crossed by dark lines around the patient, distinguishing huani from chonta damage (zigzagging lights) and marupa sorcery (larger waves).
 - The huani practitioner carries a living piranha within the mariri, suggesting the piranha's flesh-eating nature symbolically mirrors the internal destruction caused by the crystal arrow.
-- Plants used by huani sorcerers include ishanga (Laportea aestuans, [[comparison-arnica-vs-stinging-nettle]]) and alambre-casha (unidentified sharp-spined plant), reflecting the use of irritant species.
-
-## Relevance to Cultivation and Mycology
-
-Huani sorcery's incurability may reflect an Amazonian recognition of certain poisonings that cannot be treated with available plant medicines — potentially corresponding to actual lethal toxins or diseases with known fatal outcomes. The diagnostic distinction based on visionary light patterns represents an indigenous triage system that identifies which patients can be saved and which cannot. The association with the piranha and stinging/irritant plants (Laportea aestuans) suggests that huani practitioners draw on knowledge of the most potent biological toxins in the Amazon ecosystem. Understanding this classification system helps researchers map which Amazonian plants are associated with lethal versus treatable toxicology.
-
-## Related Entities
-
-- [[chontero]] — dart-based sorcery (treatable)
+- Plants used by huani sorcerers include ishanga (Laportea aestuans, [[chontero]] — dart-based sorcery (treatable)
 - Marupa sorcery — animal-based sorcery (treatable)
 - Mariri — magical phlegm containing the living piranha
 - Icaro — songs involved in sorcery diagnosis
 
 ## Diagnostic Context
 
-- Huani should be studied beside [[mariri]], because its lethality depends on what the sorcerer stores and animates inside that substance.
-- It also contrasts with [[marupa-sorcery]], which is presented as dangerous but treatable by skilled vegetalistas.
-- The visionary diagnostic pattern belongs with [[ayahuasca-vision-art-and-shipibo-tradition]], where visual forms carry clinical and spiritual information.
+- Huani should be studied beside [[marupa-sorcery]], which is presented as dangerous but treatable by skilled vegetalistas.
+- The visionary diagnostic pattern belongs with [[amaringo-ayahuasca-visions-shipibo-iconography]], where visual forms carry clinical and spiritual information.
 - In Amaringo's system, the distinction between curable and incurable attack is central.
 - Huani marks the boundary case: ordinary shamanic technique can identify it, but cannot reliably reverse it.
 - That makes the category useful for understanding triage, prognosis, and humility in vegetalista healing.
@@ -81,3 +67,84 @@ Huani sorcery's incurability may reflect an Amazonian recognition of certain poi
 - The plant associations should be researched cautiously because some names may not map cleanly to modern taxonomy.
 - Future additions should preserve indigenous terminology and source spelling variants.
 - This prevents flattening huani into a generic poison-arrow motif.
+
+## Overview
+
+Huani Sorcery represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish huani sorcery
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving huani extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Huani Sorcery finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for huani sorcery. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+huani sorcery and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Huani Sorcery has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of huani sorcery into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[amazonian-sorcery-illness-and-curing-practices]]

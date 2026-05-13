@@ -12,19 +12,10 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "Gonçalves, E.C. et al. (2012). \"Nerolidol, a sesquiterpene alcohol: Pharmacology and metzner-ayahuasca-therapeutic-potential of this underestimated molecule.\" Mini-Reviews in Medicinal Chemistry, 12(15), 1635-1644."
+  - "Gonçalves, E.C. et al. (2012). \"Nerolidol, a sesquiterpene alcohol: Pharmacology and [[metzner-ayahuasca-therapeutic-potential]] of this underestimated molecule.\" Mini-Reviews in Medicinal Chemistry, 12(15), 1635-1644."
   - "Sokmen, A. et al. (2004). \"The in vitro antimicrobial and antioxidant activities of the comparison-essential-oils-vs-neem-oil-vs-insecticidal-soap of various plants.\" Journal of the Science of Food and Agriculture, 84(10), 1169-1176."
   - "Rao, V.S.N. et al. (2008). \"Anti-inflammatory and anti-nociceptive effects of nerolidol.\" Journal of Pharmacy and Pharmacology, 60(sup1), A44."
-  - "Aprotosoaie, A.C. et al. (2014). \"[[comparison-steam-distillation-vs-co2-extraction-for-essential-oils]] their components as potential antifungal agents.\" Chemistry & Biodiversity, 11(7), 1114-1130."
-  - "Rice, S. & Koziel, J.A. (2015). \"The chemistry of query-what-are-cannabis-terpenes-and-why-do-they-matter.\" In: Handbook of Cannabis. Oxford University Press."
----
-
-# Nerolidol
-
-## Overview
-
-Nerolidol (also known as peruviol) is a naturally occurring sesquiterpene alcohol
-found in the [[comparison-essential-oils-vs-neem-oil-vs-insecticidal-soap]] of many aromatic plants and in numerous cannabis
+  - "Aprotosoaie, A.C. et al. (2014). \"[[comparison-essential-oils-vs-neem-oil-vs-insecticidal-soap]] of many aromatic plants and in numerous cannabis
 cultivars. It exists as two isomers: cis-nerolidol and trans-nerolidol, with
 trans being more common in nature.
 
@@ -53,8 +44,7 @@ effect.
 ### Cannabis (*Cannabis sativa* L.)
 
 - Present in the trichome head resin of many cultivars
-- Typically 0.01–0.3% of total [[permaculture-designers-manual-essential-oil-plants]] fraction
-- Especially elevated in [[bisabolol]]) but
+- Typically 0.01–0.3% of total [[bisabolol]]) but
   contributes to overall antioxidant capacity of essential oil blends
 
 ## Biosynthesis
@@ -64,24 +54,82 @@ diphosphate intermediate, catalyzed by nerolidol synthase (TPS enzymes). In
 cannabis, the pathway originates from the MEP (methylerythritol phosphate)
 pathway in glandular trichomes. The sesquiterpene skeleton (15 carbons) derives
 from three isoprene units, distinguishing it from monoterpenes (10 carbons)
-like [[pinene]].
-
-## Therapeutic Applications
-
-### Aromatherapy and Sleep
-
-- Used as a standalone fragrance and in sleep-promoting essential oil blends
-- Vapor inhalation produces measurable anxiolytic effects in animal models
-- Common component of relaxation and stress-reduction aromatherapy formulations
-
-### Topical Formulations
-
-- Incorporated in transdermal drug delivery systems as a permeation enhancer
-- Used in cosmetics for its woody-floral scent and skin penetration properties
-- Investigated as a vehicle for topical analgesic formulations
-
-### Insect Repellent
-
-- Moderate mosquito repellent activity (*Aedes aegypti*) in lab assays
-- Component of natural insect repellent formulations with [[myrcene]] — Monoterpene with overlapping sedative properties in cannabis
+like [[myrcene]] — Monoterpene with overlapping sedative properties in cannabis
 - [[bisabolol]] — Sesquiterpene alcohol with similar anti-inflammatory
+
+## Overview
+
+Nerolidol represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish nerolidol
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving nerolidol extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Nerolidol finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for nerolidol. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+nerolidol and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Nerolidol has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of nerolidol into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.

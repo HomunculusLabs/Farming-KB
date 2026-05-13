@@ -55,7 +55,7 @@ Delphinium elatum prefers cool summer conditions and struggles in hot, humid cli
 
 The species is classified as a hemicryptophyte, surviving winter as a basal bud at ground level. Spring emergence is relatively late compared to many alpine species, typically beginning in April or May.
 
-In [[guzman-psilocybin-mushrooms-north-america]], the species has naturalized in limited areas of the [[psilocybin-north-america-pacific-northwest]] and New England. These populations are generally found near old gardens or abandoned homesteads.
+In [[psilocybin-north-america-pacific-northwest]] and New England. These populations are generally found near old gardens or abandoned homesteads.
 
 Historical use of delphinium preparations as pediculicides (lice treatments) and external wound applications is documented. These uses have been superseded by safer modern alternatives.
 
@@ -63,7 +63,7 @@ Historical use of delphinium preparations as pediculicides (lice treatments) and
 
 Delphinium elatum is the foundation of the tall garden delphinium trade. The species is hardy to USDA zones 3–7 and performs best in regions with cool summers.
 
-Plants require full sun to light shade and fertile, moisture-retentive but well-drained soil. A soil pH of 6.5–7.0 is ideal. Heavy clay or waterlogged conditions lead to crown rot and plant loss.
+Plants require full sun to light shade and fertile, moisture-retentive but well-drained soil. A [[soil-ph]] of 6.5–7.0 is ideal. Heavy clay or waterlogged conditions lead to crown rot and plant loss.
 
 The Elatum Group hybrids represent the tallest garden delphiniums, reaching 1.5–2.5 m. Notable series include the Pacific Giants, Magic fountains, and New Zealand hybrids bred for improved disease resistance.
 
@@ -71,11 +71,7 @@ Staking is essential for tall cultivars, as the hollow flower stems are vulnerab
 
 Propagation is by seed, basal cuttings, or division. Seeds require darkness and cool temperatures for germination. Fresh seed germinates more reliably than stored seed.
 
-Basal cuttings taken in [[coleman-overwintered-onions-and-early-spring-crops]] root readily with bottom heat. Division is best performed in early spring before new growth exceeds 10 cm, replanting vigorous outer portions.
-
-Plants are relatively short-lived, typically persisting 3–5 years before the center of the crown deteriorates. Regular division every 3 years maintains vigor and flower quality.
-
-Delphinium elatum is susceptible to [[cervantes-powdery-mildew-prevention-treatment]], crown rot, and slugs. Good [[stamets-growing-room-air-circulation-co2-management]] and careful watering practices reduce [[bloomfield-amphibian-decline-fungal-disease-climate-interactions]] pressure significantly.
+Basal cuttings taken in [[cervantes-powdery-mildew-prevention-treatment]], crown rot, and slugs. Good [[bloomfield-amphibian-decline-fungal-disease-climate-interactions]] pressure significantly.
 
 The species hybridizes readily with other Delphinium species, which has been exploited extensively in horticultural breeding. Natural hybrids between D. elatum and D. cheilanthum have been documented in the Carpathians.
 

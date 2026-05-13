@@ -18,16 +18,7 @@ management. Cattle are the largest and most land-intensive animals commonly rais
 homestead, producing substantial quantities of meat and milk per individual animal. Goats are
 smaller, more versatile, and far better suited to smaller properties with varied terrain.
 
-Both species are ruminants and can thrive in [[comparison-rotational-grazing-vs-continuous-grazing]] systems. Running them together
-on the same pasture offers significant parasite reduction benefits through multi-species
-grazing, since each species hosts different internal parasites. The right choice depends
-entirely on your available acreage, production goals, budget constraints, and how much
-infrastructure you are prepared to invest in. Many homesteaders eventually keep both, using
-each for the tasks they excel at.
-
-## Cattle Husbandry
-
-[[goat-husbandry]] centers on raising smaller, highly adaptable ruminants suited to a wider
+Both species are ruminants and can thrive in [[goat-husbandry]] centers on raising smaller, highly adaptable ruminants suited to a wider
 range of property sizes and terrain types. The diversity of goat breeds is remarkable: dairy
 breeds include Nigerian Dwarf, Nubian, and Alpine; meat breeds include Boer and Kiko; and
 fiber breeds include Angora and Pygora. This breadth of purpose makes goats uniquely
@@ -111,10 +102,15 @@ both species will be secure.
 
 ## See Also
 
-- [[comparison-goat-husbandry-vs-sheep-husbandry]]
-
 - [[goat-husbandry]]
 - rotational grazing
 - multi species grazing
-- [[homestead-dairy-equipment]]
 - [[pasture-management]]
+
+## See Also
+
+- [[comparison-king-stropharia-vs-paddy-straw-mushroom]]
+- [[comparison-valerian-vs-passionflower]]
+- [[comparison-cob-oven-vs-rocket-stove]]
+- [[comparison-rocket-stove-vs-masonry-heater]]
+- [[comparison-biochar-vs-mycorrhiza]]

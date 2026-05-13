@@ -13,15 +13,8 @@ mined: 2026-05-11
 The human body produces at least five distinct endogenous cannabinoids
 (endocannabinoids) that serve as signaling molecules within the endocannabinoid
 system (ECS). While anandamide (AEA) and 2-AG are the most studied, Blesching's
-*[[blesching-cannabis-health-index-autoimmune-conditions]]* catalogs the full set of five identified lipid
-mediators that interact with [[cannabinoid-receptors-cb1-cb2]]. Each has unique binding
-profiles, biosynthetic pathways, and [[hemenway-mulch-makers-and-plant-functional-roles]].
-
-## The Five Endocannabinoids
-
-### 1. Anandamide (N-arachidonoylethanolamine, AEA)
-Anandamide was the first endocannabinoid discovered and is often called the
-"[[anandamide-bliss-molecule]]" (from the Sanskrit *ananda*, meaning bliss). It binds with
+*[[cannabinoid-receptors-cb1-cb2]]. Each has unique binding
+profiles, biosynthetic pathways, and [[anandamide-bliss-molecule]]" (from the Sanskrit *ananda*, meaning bliss). It binds with
 relatively equal affinity to both CB1 and CB2 receptors. Anandamide enhances
 pleasure, has been implicated in mitigating acute schizophrenia episodes,
 demonstrates anti-cancer properties, and suppresses cough reflex. It is rapidly
@@ -102,8 +95,7 @@ tissues with low CB1/CB2 density.
 Understanding the full family of endocannabinoids has practical implications
 for therapeutic strategies:
 
-- **[[blesching-cbd-faah-inhibition-anandamide-preservation-mechanism]]** (via CBD or synthetic inhibitors) boosts multiple
-  endocannabinoids simultaneously, producing broader [[cbd-therapeutic-effects]] than
+- **[[cbd-therapeutic-effects]] than
   targeting any single compound
 - **NADA's dual CB1/TRPV1 activity** makes it relevant to pain conditions
   where both cannabinoid and vanilloid pathways are involved
@@ -114,7 +106,7 @@ for therapeutic strategies:
 
 ## References
 
-- Blesching, U. (2015). *The Cannabis Health Index*. North Atlantic Books.
+- Blesching, U. (2015). *The [[cannabis-health-index]]*. North Atlantic Books.
 - Devane, W.A. et al. (1992). Isolation and structure of a brain constituent
   that binds to the cannabinoid receptor. Science, 258, 1946-1949.
 - Mechoulam, R. et al. (1995). 2-Arachidonoylglycerol, a natural endogenous

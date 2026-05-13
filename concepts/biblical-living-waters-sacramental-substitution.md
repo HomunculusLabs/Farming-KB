@@ -8,15 +8,11 @@ type: concept
 
 ## Overview
 
-The concept of "Living Waters" in biblical texts is analyzed as a reference to entheogenic substances — specifically [[ceremonial-shamanic-use-psychoactive-mushrooms]] — that were originally used in sacramental ceremonies but were subsequently replaced with inert substitutes. This analysis draws on linguistic, scriptural, and symbolic evidence to argue that the Christian Eucharist, as currently practiced, represents a substitution (placebo) for an original [[biblical-entheogenic-sacrament]].
+The concept of "Living Waters" in biblical texts is analyzed as a reference to entheogenic substances — specifically [[biblical-entheogenic-sacrament]].
 
 ## The Fountain of Living Waters
 
-In the Hebrew Bible, God declares: **"I am the Fountain of Living Waters"** (Jeremiah 2:13). Interpreted literally, this description points to something that is alive, composed primarily of water, and functioning as a fountain — a description that matches the biological characteristics of a mushroom. Mushrooms are approximately 90% water, grow rapidly (appearing to "spring forth"), and were widely regarded [[entheogens-in-ancient-cultures]] as the "waters of life."
-
-The "Waters of Life" is an ancient term linked to:
-
-- **[[soma]]** — The Vedic entheogenic sacrament
+In the Hebrew Bible, God declares: **"I am the Fountain of Living Waters"** (Jeremiah 2:13). Interpreted literally, this description points to something that is alive, composed primarily of water, and functioning as a fountain — a description that matches the biological characteristics of a mushroom. Mushrooms are approximately 90% water, grow rapidly (appearing to "spring forth"), and were widely regarded [[soma]]** — The Vedic entheogenic sacrament
 - **Amrta** — The Hindu/Buddhist nectar of immortality
 - **Haoma** — The Zoroastrian divine elixir
 - **The churning of the Milky Ocean** — A Hindu creation myth describing the production of this substance
@@ -63,14 +59,7 @@ This passage is analyzed as describing:
 1. **The first evil** — Forsaking the true "fountain of living waters" (the original entheogenic sacrament)
 2. **The second evil** — Creating "broken cisterns" that cannot hold water (substitutes that do not produce the described effects)
 
-The analogy is explicit: just as a broken light bulb is useless, a sacramental substance that fails to produce its intended effects is "broken and actually worthless." The text connects this to the concept of **[[transubstantiation]]** — the Catholic doctrine that bread and wine are literally transformed into the body and blood of Christ — arguing that this "magical act has no merit" and that Jesus's words condemning those without the real substance would apply to those accepting a placebo.
-
-## The Mushroom Cap as Halo or Aura
-
-A recurring motif in Christian art depicts enlightened figures (Jesus, saints, angels) with a glowing circle behind their heads — conventionally interpreted as a halo or aura. The text proposes this may represent the underside of a **mushroom cap**, with the gills extending outward. Supporting evidence includes:
-
-- Many artworks show the difference between those who have "tasted of the heavenly gift" and those who have not, depicted by the presence or absence of this glow
-- The glow sometimes appears red with white spots — matching [[amanita-muscaria]]'s distinctive appearance
+The analogy is explicit: just as a broken light bulb is useless, a sacramental substance that fails to produce its intended effects is "broken and actually worthless." The text connects this to the concept of **[[amanita-muscaria]]'s distinctive appearance
 - The glow represents the spiritual transformation experienced after receiving the "heavenly gift of the Holy Ghost"
 
 ## The Two Baptisms
@@ -128,8 +117,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[doc]]
 - [[soma]]
-- [[transubstantiation]]
 - [[amanita]]
 - [[biblical-sacrament-and-living-waters]]

@@ -77,14 +77,7 @@ all influence the optimal approach to implementation.
 
 ## See Also
 
-- [[anaerobic-digestion-biogas-production]]
 - [[anaerobic-rumen-fungi-biology-herbivore-digestion]]
-- [[anaerobic-sewage-digestion-and-biogas-production]]
 - [[anaerobic-sewage-digestion-methane]]
-- [[biogas-digesters-and-anaerobic-digestion-systems]]
-
-## See Also
-
 - [[biogas-digester]]
-- [[phragmites-australis]]
 - [[eichhornia-crassipes]]

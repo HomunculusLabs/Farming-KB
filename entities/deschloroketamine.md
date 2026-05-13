@@ -13,18 +13,9 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "Morris, H. & Wallach, J. (2014). \"From PCP to MXE.\" Drug Science, Policy and Law, 1, 1–17."
+  - "Morris, H. & Wallach, J. (2014). \"From [[pcp]] to MXE.\" Drug Science, Policy and Law, 1, 1–17."
   - "Wallach, J. et al. (2019). \"The pharmacology of dissociative anesthetics.\" In Pharmacology of LSD. Springer."
-  - "EMCDDA. (2024). EU Early Warning System: New [[cultural-evolution-and-psychoactive-substances]]. emcdda.europa.eu."
-  - "Cunningham, C.W. & Roth, B.L. (2016). \"Ketamine's mechanism of action.\" Current Opinion in Anaesthesiology, 29(4), 455–460."
-  - "UNODC. (2023). World Drug Report. United Nations Office on Drugs and Crime."
----
-
-# Deschloroketamine (DCK)
-
-## Overview
-
-Deschloroketamine (DCK; 2'-Oxo-PCE; α-deschloroketamine) is a dissociative anesthetic of the arylcyclohexylamine class, structurally derived from [[ketamine]] by removal of the chloro substituent on the phenyl ring.
+  - "EMCDDA. (2024). EU Early Warning System: New [[ketamine]] by removal of the chloro substituent on the phenyl ring.
 
 It functions primarily as an NMDA receptor antagonist, producing dissociative, analgesic, and hallucinogenic effects similar to ketamine but with distinct pharmacokinetic and subjective properties.
 
@@ -55,29 +46,7 @@ This modification significantly alters binding affinity, duration, and metabolic
 |--------|----------|-----------------|
 | NMDA receptor (PCP site) | Antagonist | ~0.3× ketamine |
 | Sigma-1 receptor | Agonist | Low |
-| Dopamine/[[serotonin]] transporters | Inhibition | Weak |
-
-### Mechanism of Action
-
-DCK blocks the NMDA receptor ion channel at the phencyclidine site, preventing calcium influx and disrupting glutamatergic signaling.
-This mechanism underlies both dissociative effects and rapid-acting antidepressant properties.
-The absence of the chloro group reduces lipophilicity compared to ketamine, affecting blood-brain barrier penetration and contributing to longer onset and extended duration.
-
-### Pharmacokinetics
-
-- **Onset:** 15–45 minutes (oral); 5–15 minutes (insufflated)
-- **Duration:** 2–4 hours (oral); 1–3 hours (insufflated)
-- **Peak effects:** 1–2 hours post-dose (oral); 30–60 minutes (insufflated)
-- **Metabolism:** Hepatic, via N-demethylation and hydroxylation of the cyclohexanone ring
-- **Half-life:** Estimated 2.5–4 hours (limited clinical data)
-- **Active metabolites:** Norketamine analogue and hydroxylated metabolites likely retain NMDA antagonism
-
-## Effects
-
-### Dissociative Spectrum
-
-- **Hole dose (full dissociation):** 150–250 mg oral; 75–125 mg insufflated
-- **K-hole equivalent:** Achievable with [[psilocybin-ego-dissolution-mechanisms]], out-of-body sensations, and profound sensory detachment
+| Dopamine/[[psilocybin-ego-dissolution-mechanisms]], out-of-body sensations, and profound sensory detachment
 - **Common low-dose effects:** Mood elevation, mild perceptual distortion, numbness, floating sensation
 
 ### Subjective Effects Profile
@@ -88,3 +57,80 @@ The absence of the chloro group reduces lipophilicity compared to ketamine, affe
 - **Cognitive effects:** 5/10 — Confusion, difficulty with working memory, dreamlike thought patterns
 - **Mania/euphoria:** 4/10 — Less stimulating than ketamine; more sedating overall
 - **Music enhancement:** 7/10 — Appreciably altered auditory perception
+
+## Overview
+
+Deschloroketamine represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish deschloroketamine
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving deschloroketamine extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Deschloroketamine finds practical application in multiple design contexts.
+[[permaculture-principles]] guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for deschloroketamine. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+deschloroketamine and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Deschloroketamine has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of deschloroketamine into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.

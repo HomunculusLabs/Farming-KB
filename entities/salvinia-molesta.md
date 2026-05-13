@@ -21,35 +21,9 @@ sources:
 
 **Salvinia molesta** (giant salvinia) is a free-floating aquatic fern in the family Salviniaceae. Native to southeastern Brazil, it has become one of the world's most destructive invasive aquatic plants.
 
-The species forms dense mats on water surfaces that can double in biomass within 2–3 days under optimal conditions. These mats block sunlight, deplete [[aact-dissolved-oxygen-fine-bubble-aeration-ingham]], and displace native aquatic vegetation entirely.
+The species forms dense mats on water surfaces that can double in biomass within 2–3 days under optimal conditions. These mats block sunlight, deplete [[fukuoka-textdoc-arrowhead-scale-ladybug-biological-control]] using the weevil *Cyrtobagous salviniae* has proven highly effective in tropical and subtropical regions. Successful programs have been implemented in Australia, South Africa, and the southern [[chiric-caspi-brunfelsia-south-american-hallucinogen]] species that are difficult to distinguish morphologically. Sterile collections, which represent the vast majority of field material, cannot be reliably differentiated without genetic analysis.
 
-Giant salvinia was first identified as a distinct species in 1972 by D.S. Mitchell. Prior to that, it was frequently confused with the related *Salvinia auriculata* complex.
-
-[[fukuoka-textdoc-arrowhead-scale-ladybug-biological-control]] using the weevil *Cyrtobagous salviniae* has proven highly effective in tropical and subtropical regions. Successful programs have been implemented in Australia, South Africa, and the southern [[dmt-containing-plants-united-states-halpern]].
-
-## Taxonomy and Morphology
-
-**Taxonomic classification:** Kingdom Plantae, Phylum Polypodiopsida, Class Polypodiopsida, Order Salviniales, Family Salviniaceae, Genus *Salvinia*, Species *S. molesta*. The authority is D.S. Mitchell (1972).
-
-The species belongs to the *Salvinia auriculata* complex, a group of closely related [[chiric-caspi-brunfelsia-south-american-hallucinogen]] species that are difficult to distinguish morphologically. Sterile collections, which represent the vast majority of field material, cannot be reliably differentiated without genetic analysis.
-
-All known wild populations of *S. molesta* are sterile triploids that reproduce exclusively by vegetative fragmentation. No fertile sporocarps have been observed outside of laboratory conditions, which limits [[biodiversity-fungal-genetic-diversity]] in invasive populations.
-
-Fronds occur in whorls of three: two floating leaves and one submersed leaf that functions as a root analogue. The floating leaves are oval to oblong, 1–4 cm long, with distinctive upper surfaces covered in rows of branched hairs.
-
-These hairs create a superhydrophobic surface that traps air and repels water. The resulting air layer gives the fronds their characteristic silvery-green appearance and provides buoyancy even when the plant is submerged.
-
-The submersed "root" leaf is finely dissected and brown, resembling a root system. It absorbs nutrients directly from the water column. The stem (rhizome) is horizontal, floating, and extensively branched.
-
-Under nutrient-rich conditions, the plant forms dense, multi-tiered mats that can reach 20–30 cm in thickness. Individual frond pairs are connected by the horizontal rhizome, creating an interconnected floating mat.
-
-The upper leaf surfaces are covered with hydrophobic trichomes arranged in rows. These trichomes have four branches that are joined at their tips, creating an efficient air-trapping structure studied extensively as a biomimetic model for waterproof surfaces.
-
-## Distribution and Habitat
-
-The native range of *Salvinia molesta* is restricted to southeastern Brazil, particularly the states of São Paulo, Paraná, and Santa Catarina. It occurs in slow-moving rivers, lakes, ponds, and marshes in this region.
-
-The species has been introduced to over 30 countries across tropical and subtropical regions worldwide. Major invasions have been documented in Australia, New Zealand, South Africa, India, [[psilocybe-southeast-asia-pacific]], and the southern United States.
+All known wild populations of *S. molesta* are sterile triploids that reproduce exclusively by vegetative fragmentation. No fertile sporocarps have been observed outside of laboratory conditions, which limits [[psilocybe-southeast-asia-pacific]], and the southern United States.
 
 It thrives in still or slow-moving freshwater systems with temperatures between 20–30°C. The plant is intolerant of freezing temperatures and dies back in temperate winters, though rhizome fragments can survive in mild climates.
 
@@ -61,25 +35,7 @@ Salinity tolerance is very low, which prevents establishment in brackish or estu
 
 Dense *Salvinia molesta* mats reduce light penetration to near zero beneath the canopy. This eliminates submerged aquatic vegetation and phytoplankton, disrupting the entire aquatic food web.
 
-Decomposition of the dense plant biomass consumes [[ingham-dissolved-oxygen-anaerobic-aact-brewing-management]], creating hypoxic or anoxic conditions. Fish kills are common in heavily infested water bodies, particularly during die-back events.
-
-The mats impede water flow in irrigation canals and drainage ditches, increasing flood risk and reducing water availability for agriculture. In some regions, infestations have rendered entire irrigation systems unusable.
-
-Recreational uses of water bodies are severely impacted. Boating, fishing, and swimming become impossible when mats cover the surface. The plant can also clog intake pipes and damage pumping equipment.
-
-Dispersal occurs primarily through human transport of plant fragments on boats, trailers, and fishing equipment. A single frond fragment with a node can establish a new colony, making eradication extremely difficult once established.
-
-The horticultural and aquarium trade has been a major vector for intercontinental dispersal. The plant is sometimes sold as an ornamental aquarium plant under various common names, facilitating its introduction to new regions.
-
-Regulatory measures in many countries now prohibit the sale and transport of *Salvinia molesta*. Public awareness campaigns targeting boaters and aquarium hobbyists have reduced new introductions in some areas.
-
-## Biological Control
-
-The most successful management approach is the biological control agent *Cyrtobagous salviniae*, a small weevil native to Brazil. Adult weevils feed on buds and leaves, while larvae tunnel through the rhizomes, causing the plants to sink.
-
-The weevil was first released in Australia in 1980, where it achieved near-complete control of *S. molesta* within 2–3 years. Similar success has been achieved in South Africa, Fiji, Papua New Guinea, and the southern United States.
-
-In Australia alone, the [[knf-economic-benefits]] of biological control have been estimated at tens of millions of dollars annually through restored water access, reduced management costs, and recovered recreational value.
+Decomposition of the dense plant biomass consumes [[knf-economic-benefits]] of biological control have been estimated at tens of millions of dollars annually through restored water access, reduced management costs, and recovered recreational value.
 
 Control efficacy is temperature-dependent, with optimal weevil activity at 25–30°C. In cooler climates, the weevil's life cycle slows and control may take several years to achieve. Temperatures below 15°C effectively halt weevil reproduction.
 
@@ -88,3 +44,80 @@ Chemical control using herbicides such as diquat, glyphosate, and fluridone can 
 Mechanical removal using harvesters or nets can clear surface mats but leaves behind submersed fragments that rapidly regrow. Integrated approaches combining biological control with targeted mechanical removal produce the best long-term results.
 
 ## Chemistry and Uses
+
+## Overview
+
+Salvinia Molesta represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish salvinia molesta
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving salvinia extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Salvinia Molesta finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for salvinia molesta. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+salvinia molesta and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Salvinia Molesta has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of salvinia molesta into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.

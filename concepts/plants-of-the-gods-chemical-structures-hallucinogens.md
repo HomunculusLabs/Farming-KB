@@ -21,8 +21,7 @@ type: concept
 Chemical determination of the molecular structure of the hallucinogenic
 principles in sacred plants has led to remarkable results. Almost all
 plant hallucinogens contain the element nitrogen and therefore belong
-to the large class of chemical compounds known as [[plants-of-the-gods-cannabis-ancient-cultures]] and
-[[schultes-peyote-and-mescaline]] cactus
+to the large class of chemical compounds known as [[schultes-peyote-and-mescaline]] cactus
 is the alkaloid mescaline, a compound closely related to the brain
 hormone norepinephrine (noradrenaline). Norepinephrine belongs to the
 group of physiological agents known as neurotransmitters because they
@@ -33,16 +32,10 @@ structure. Both are derivatives of phenylethylamine.
 ## Tryptamine Derivatives
 
 Psilocybin and psilocin, the active principles of Teonanacatl (the
-hallucinogenic Mexican mushrooms of the [[plants-of-the-gods-turbina-corymbosa-ololiuqui]] vine
-(*[[plants-of-the-gods-turbina-corymbosa-ololiuqui]]*) contains hallucinogenic principles that are also
+hallucinogenic Mexican mushrooms of the [[plants-of-the-gods-turbina-corymbosa-ololiuqui]]*) contains hallucinogenic principles that are also
 tryptamine derivatives. In this case, tryptamine is incorporated in a
-complex ring structure called ergoline. [[ergot-and-lysergic-acid-history]] amide and lysergic
-acid hydroxyethylamide (the two principal active constituents of
-Ololiuqui) share this ergoline structure with the neurotransmitter
-serotonin and with the [[schultes-peyote-and-mescaline]]);
+complex ring structure called ergoline. [[schultes-peyote-and-mescaline]]);
 tryptamines (psilocybin from mushrooms, DMT from
-[[plants-of-the-gods-atropa-belladonna-deadly-nightshade]]
-and other nightshades); and indole alkaloids (from
 [[plants-of-the-gods-salvia-divinorum-diviners-sage]]
 ## Practical Considerations
 

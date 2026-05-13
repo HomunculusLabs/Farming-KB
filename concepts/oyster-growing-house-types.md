@@ -10,13 +10,11 @@ type: concept
 
 # Types of Oyster Mushroom Growing Houses
 
-The mushroom growing house provides favorable conditions for [[pf-tek-mushroom-growth-timeline]]
-while protecting crops from adverse [[duggar-mushroom-environmental-factors-temperature-moisture-light]] including harsh
+The mushroom growing house provides favorable conditions for [[duggar-mushroom-environmental-factors-temperature-moisture-light]] including harsh
 weather, pests, pathogens, and pollutants. Growing houses range from simple
 open structures to sophisticated climate-controlled facilities. The choice of
 design depends on local climate, available materials, budget, and production
-scale. This page covers the major types used in [[oyster-mushroom-growing-house-types]]
-- [[mushroom-cultivation-methods]]
+scale. This page covers the major types used in [[mushroom-cultivation-methods]]
 - [[mushroom-cultivation-basics]]
 - Oyster Shelf Cultivation
 ## Practical Applications

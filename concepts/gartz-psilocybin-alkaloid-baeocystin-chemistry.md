@@ -18,7 +18,7 @@ type: concept
 
 ## Overview
 
-Jochen Gartz's *[[guzman-magic-mushrooms-african-species]] [[fungi-around-the-world-species-distribution]]* provides extensive
+Jochen Gartz's *[[fungi-around-the-world-species-distribution]]* provides extensive
 documentation of the alkaloid chemistry of psychoactive mushrooms,
 particularly the relationship between **psilocybin**, **psilocin**, and
 **baeocystin**. Understanding these compounds and their varying
@@ -33,13 +33,7 @@ The three principal indole alkaloids found in psychoactive mushrooms are:
 - **Psilocybin** (4-PO-DMT): The phosphate ester of psilocin and the
   primary psychoactive compound. It is remarkably stable as part of dried
   mushroom material. Gartz notes that psilocybin's decay rate is slowest
-  in [[psilocybe-bohemica-central-european]], even though both
-species were found to contain similar amounts of psilocybin. This led
-researchers to hypothesise that the mushrooms contain additional
-substances contributing to the overall psychotropic effect.
-
-The hypothesis is supported by the fact that considerable amounts of
-baeocystin are consistently found in [[guzman-allen-gartz-psilocybe-semilanceata-temperate-cosmopolitan-distribution]] samples. The
+  in [[guzman-allen-gartz-psilocybe-semilanceata-temperate-cosmopolitan-distribution]] samples. The
 presence of this additional psychoactive compound may explain the
 discrepancy between measured psilocybin content and experienced potency.
 
@@ -69,11 +63,7 @@ Key observations from this data:
 
 Gartz reports that dried Psilocybe semilanceata specimens contain
 0.2-0.6% psilocybin, substantially higher than Mexican species. German
-collections of the [[baeocystin]]
-
-- [[liberty-cap-psilocybe-semilanceata-history-biology]]
-- [[azurescens-cyanescens-and-woodlovers-comparison]]
-- gartz-mushroom-identification-dangers-and-tips
+collections of the [[liberty-cap-psilocybe-semilanceata-history-biology]]
 - [[psilocybin-serotonin-5ht2a-receptor-pharmacology]]
 ## Practical Considerations
 
@@ -123,8 +113,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[psilocybin]]
 - [[baeocystin]]
-- [[jochen-gartz]]
 - [[doc]]
 - [[psilocin]]

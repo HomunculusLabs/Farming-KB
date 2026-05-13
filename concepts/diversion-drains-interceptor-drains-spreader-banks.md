@@ -1,18 +1,8 @@
 ---
-title: Diversion Drains Interceptor Drains Spreader Banks
-source: bill-[[mollison-permaculture-two-arid-water-harvesting-and-erosion-control|mollison]]-permaculture-a-designers-manual.md
-type: concept
----
+title: [[diversion-drains-and-spreader-banks]] [[interceptor-drains-and-desertification-control]] [[spreader-banks-and-interceptor-drains]]
+source: bill-[[mollison-designers-diversion-drains-and-interceptor-banks|Banks]]
 
-# Diversion Drains, Interceptor Drains, and Spreader [[mollison-designers-diversion-drains-and-interceptor-banks|Banks]]
-
-These three types of [[water-management]] earthworks form the connective tissue of a comprehensive [[permaculture-water-harvesting]] system. While swales hold water and dams store it, diversion drains, interceptor drains, and spreader banks **move, control, and distribute** water across the landscape. Together, they enable the integrated management of floodwaters, irrigation, wildfire control, and [[desertification]] prevention.
-
-## Diversion Drains
-
-### Function
-
-Diversion drains are **gently sloping drains** that lead water away from valleys and streams into storages, [[irrigation-systems]], sand beds, or swales for absorption. Unlike swales, diversion drains are **built to flow** after rain — they convey water from overland flow or feeder streams to destinations where it can be stored or used.
+These three types of [[permaculture-water-harvesting]] system. While swales hold water and dams store it, diversion drains, interceptor drains, and spreader banks **move, control, and distribute** water across the landscape. Together, they enable the [[oyster-mushroom-pests-sciarid-cecid-phorid-fly-mite-integrated-management]] of floodwaters, irrigation, wildfire control, and [[irrigation-systems]], sand beds, or swales for absorption. Unlike swales, diversion drains are **built to flow** after rain — they convey water from overland flow or feeder streams to destinations where it can be stored or used.
 
 ### Design and Construction
 
@@ -64,7 +54,7 @@ Such systems remove risk for firefighters and allow forests to regenerate in sem
 
 ### Function
 
-Interceptor drains (designed by Harry Whittington of West Australia) operate in the **opposite sense to diversion drains**. They are specifically designed to **prevent overland water flow and waterlogging**, which collapses dryland valley or downslope soils in a desert soil catena.
+Interceptor drains (designed by [[harry-whittington-mollison]] of West Australia) operate in the **opposite sense to diversion drains**. They are specifically designed to **prevent overland water flow and waterlogging**, which collapses dryland valley or downslope soils in a desert soil catena.
 
 ### Key Differences from Swales and Diversion Drains
 
@@ -92,7 +82,7 @@ Where deeper sand seams carrying salty water are located, these can be **trenche
 
 ### Slope Specifications
 
-Interceptor drains are made to flow at **1:600 to 1:1500** cross-slope, providing effective water management while maintaining the structural integrity of the interception.
+Interceptor drains are made to flow at **1:600 to 1:1500** cross-slope, providing effective [[water-management]] while maintaining the structural integrity of the interception.
 
 ## Spreader Banks
 

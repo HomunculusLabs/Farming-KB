@@ -1,34 +1,18 @@
 # Guzmán Critique of Stamets World Distribution Map
 
 ## Overview
-Gastón Guzmán, the foremost authority on the taxonomy and [[distribution-of-neurotropic-fungi]] fungi,
-criticised Paul Stamets' world distribution map of [[psilocybin-mushrooms-as-alien-symbiotes]] exaggerated and
+Gastón Guzmán, the foremost authority on the taxonomy and [[psilocybin-mushrooms-as-alien-symbiotes]] exaggerated and
 inaccurate. This critique appears in the Guzmán, Allen and Gartz paper on the worldwide
 distribution of magic mushrooms and highlights the importance of specimen-based distribution
 data over speculative cartography.
 
 ## Source
-Guzmán, Allen & Gartz: "The World-Wide [[global-distribution-of-neurotropic-fungi]] Fungi" in the
-comprehensive mycological survey of global neurotropic species. The paper discusses Stamets
-(1996) and Horak (1983) in the context of biogeographical analysis.
-
-## The Stamets Map
-Paul Stamets' 1996 publication "[[cap-versus-stem-alkaloid-distribution-in-psilocybin-mushrooms]] of the World" included a world
+Guzmán, Allen & Gartz: "The World-Wide [[cap-versus-stem-alkaloid-distribution-in-psilocybin-mushrooms]] of the World" included a world
 distribution map that visually represented the global occurrence of psilocybin-containing
 mushrooms. According to Guzmán's assessment, Stamets filled the map with dots across:
 - All of the United States
 - All of Mexico
-- All of [[guzman-psilocybin-mushrooms-south-america]]
-- The central part of Africa
-- The central part of Asia
-- The south of Australia
-
-## Guzmán's Critique
-Guzmán observed that the Stamets distribution map was "inexact or somewhat exaggerated."
-The criticism rests on several grounds:
-
-### Over-Representation of Explored Regions
-[[guzman-psilocybin-mushrooms-north-america]] and European lands are more mycologically explored than those of the southern
+- All of [[guzman-psilocybin-mushrooms-north-america]] and European lands are more mycologically explored than those of the southern
 hemisphere. The dense coverage of dots on the Stamets map in these regions reflects collection
 effort rather than actual species richness or confirmed occurrence. The map gives the
 misleading impression of uniform distribution across vast areas where neurotropic species are
@@ -44,14 +28,7 @@ is not supported by specimen records.
 ### Asia Over-Representation
 Similarly, the central part of Asia was marked with dots despite limited mycological
 exploration. The relationship between certain species in Southeast Asia (e.g., P. samuiensis
-from Thailand) and [[chiric-caspi-brunfelsia-south-american-hallucinogen]]/Mesoamerican species (e.g., P. mexicana) was documented by
-Horak (1983), but this does not justify filling the entire central Asian landmass with
-distribution points.
-
-### Southern Hemisphere Under-Exploration Paradox
-The most problematic aspect of the Stamets map is that it under-represents the regions of
-actual highest diversity. Guzmán documented that the majority of neurotropic Psilocybe
-species occur in the [[biogeography-austral-hemisphere-fungi]] (59 species in South America and Mexico vs. 18 in the
+from Thailand) and [[biogeography-austral-hemisphere-fungi]] (59 species in South America and Mexico vs. 18 in the
 USA and Canada, and only 9 in Europe). South America, New Guinea, eastern Australia, and New
 Zealand present high diversity but have been poorly explored compared to Europe. The Stamets
 map paradoxically shows more dots in the northern hemisphere despite the higher species count
@@ -67,9 +44,7 @@ This distribution pattern is reflected in Psilocybe:
 - P. samuiensis (Thailand) and P. makarorae (New Zealand) are both closely related to
   P. mexicana (Mexico and Guatemala), all belonging to Section Mexicanae
 - P. aucklandii (New Zealand) is closely related to P. zapotecorum (Mexico and South America),
-  both belonging to [[psilocybe-zapotecorum-section-zapotecorum-americas-pacific-distribution-guzman-1998]]
-
-These trans-Pacific species pairs support the hypothesis of a [[psilocybe-southern-hemisphere-origin-hypothesis]] for
+  both belonging to [[psilocybe-southern-hemisphere-origin-hypothesis]] for
 neurotropic fungi, a finding that is obscured rather than illuminated by the Stamets map.
 
 ## The Actual Distribution Pattern
@@ -118,8 +93,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[paul-stamets]]
 - [[doc]]
-- [[psilocybin]]
 - [[maps]]
 - [[neurotropic-fungi]]

@@ -1,6 +1,6 @@
 ---
 title: "Soil Succession and Bacterial-to-Fungal Community Shifts"
-source: "The Field Guide I for [[actively-aerated-compost-tea]] Tea (AACT) - Dr. Elaine Ingham"
+source: "The Field Guide I for actively-aerated-compost-tea Tea (AACT) - Dr. Elaine Ingham"
 tags: [aact, succession, soil-foodweb, bacteria, fungi, ecology, plant-community, ingham]
 type: concept
 created: 2026-05-10
@@ -8,9 +8,7 @@ created: 2026-05-10
 
 # Soil Succession and Bacterial-to-Fungal Community Shifts
 
-Soil succession describes the predictable progression of soil [[cannabis-rhizosphere-microbial-communities]] from
-bacterial-dominated early stages to fungal-dominated late stages, and how these shifts
-directly determine which plant species can thrive. This concept is central to [[soil-foodweb]]
+Soil succession describes the predictable progression of soil [[soil-foodweb]]
 management and foundational to aact practice.
 
 ## Ecological Succession in Soil Microbiology
@@ -60,12 +58,7 @@ substrates, but the microbial community largely determines competitive outcomes.
 - Perennials, shrubs, trees, and climax community species
 - Slower growth, longer life cycles, deeper root systems
 - Require fungal-dominated soils with ammonium and organic N forms
-- Depend on [[mycorrhizal-networks-and-forest-communication]] slower nutrient release patterns
-
-## Shifting Plant Communities Through Soil Biology
-
-The most powerful implication of succession theory: **plant species composition can be
-shifted by altering [[ph-and-nutrient-availability-garden-soils]] through soil biology** — not by directly
+- Depend on [[ph-and-nutrient-availability-garden-soils]] through soil biology** — not by directly
 killing unwanted plants.
 
 ### Anne Kennedy's Work and the Alternative Mechanism
@@ -96,36 +89,8 @@ Aact Soil Succession Bacterial Fungal Plant Community Shifts Ingham has signific
 The development and understanding of aact soil succession bacterial fungal plant community shifts ingham has evolved considerably over recent decades, with contributions from researchers, practitioners, and indigenous knowledge systems worldwide.
 
 ## See Also
-- [[ingham-bacterial-to-fungal-succession-soil-food-web]]
 - [[ingham-bacterial-fungal-succession]]
-- [[bacterial-to-fungal-soil-succession]]
 - [[comparison-soil-food-web-vs-bacterial-vs-fungal-soil]]
-- [[ingham-aact-vineyard-fungal-dominant-mildew-elimination]]
-
-## Key Considerations
-
-Several important factors influence the effectiveness and outcomes described
-in this topic. Understanding these considerations helps practitioners make
-informed decisions and avoid common pitfalls. Environmental conditions,
-timing, and material selection all play critical roles.
-
-## Historical Context
-
-The historical development of this subject reflects centuries of accumulated
-knowledge and practical experience. From traditional methods passed down
-through generations to modern scientific approaches, the evolution continues
-to inform current best practices and research directions.
-
-## Common Challenges
-
-Practitioners frequently encounter several challenges when working with
-these concepts. Climate variability, resource limitations, and knowledge
-gaps can all affect outcomes. Addressing these challenges requires patience,
-observation, and a willingness to adapt approaches based on results.
-
-## See Also
 - [[ecological-succession]]
-- [[ingham-bacterial-to-fungal-succession-soil-food-web]]
 - [[dom]]
-- [[det]]
 - [[mycorrhizal-fungi]]

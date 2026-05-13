@@ -9,7 +9,7 @@ sources: []
 
 ## Overview
 
-Blueberries are long-lived perennial shrubs that produce delicious, antioxidant-rich fruit for decades when properly established. Their primary requirement — acidic soil — makes them unique among common garden fruits. With proper site preparation [[seed-saving-and-variety-selection]], blueberries are reliable and productive in home gardens across most [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]].
+Blueberries are long-lived perennial shrubs that produce delicious, antioxidant-rich fruit for decades when properly established. Their primary requirement — acidic soil — makes them unique among common garden fruits. With proper site preparation and variety selection, blueberries are reliable and productive in home gardens across most temperate regions.
 
 ## Soil Acidification
 
@@ -17,7 +17,7 @@ Blueberries require acidic soil with a pH of 4.5-5.5. This is their most critica
 
 ### Testing and Targeting pH
 - Test soil pH before planting — most garden soils are too alkaline (pH 6.0-7.5)
-- Target pH 4.5-5.0 for optimal growth [[root-anatomy-structure-and-nutrient-uptake]]
+- Target pH 4.5-5.0 for optimal growth and nutrient uptake
 - At higher pH, blueberries develop iron chlorosis (yellowing leaves with green veins) and fail to thrive
 - Test annually — pH tends to drift upward over time
 
@@ -40,13 +40,13 @@ Blueberries require acidic soil with a pH of 4.5-5.5. This is their most critica
   - Southern highbush have lower chill hour requirements
 
 ### Lowbush Blueberries (Vaccinium angustifolium)
-- Native to northern [[guzman-psilocybin-mushrooms-north-america]]; low spreading shrubs, 6-24 inches tall
+- Native to northern North America; low spreading shrubs, 6-24 inches tall
 - Zones 2-6; small but intensely flavored berries
 - Varieties: Top Hat (ornamental), Brunswick, Fundy
 
 ### Rabbiteye Blueberries (Vaccinium virgatum)
 - Native to southeastern US; large vigorous shrubs, 6-10+ feet tall
-- Zones 7-9; very heat and [[drought-tolerant-planting-design]], require cross-pollination
+- Zones 7-9; very heat and drought tolerant, require cross-pollination
 - Varieties: Brightwell, Premier, Tifblue, Climax, Powderblue
 
 ### Half-High Blueberries
@@ -56,14 +56,14 @@ Blueberries require acidic soil with a pH of 4.5-5.5. This is their most critica
 ## Planting
 
 ### Timing
-- Plant in [[coleman-overwintered-onions-and-early-spring-crops]] or early fall
+- Plant in early spring or early fall
 - Spring planting is most common and reliable
 - Fall planting works in mild climates where roots can establish before freezing
 
 ### Site Selection
-- Full sun (6-8+ hours) [[query-how-do-i-prune-brambles-for-maximum-fruit-production]] production
+- Full sun (6-8+ hours) for maximum fruit production
 - Afternoon shade beneficial in very hot climates (zone 8+)
-- Good [[stamets-growing-room-air-circulation-co2-management]] to reduce disease
+- Good air circulation to reduce disease
 - Avoid frost pockets (low-lying areas where cold air settles)
 - Consistent moisture access — do not plant in droughty sites without irrigation
 
@@ -72,7 +72,7 @@ Blueberries require acidic soil with a pH of 4.5-5.5. This is their most critica
 - Dig a hole 2-3 feet wide and 18-24 inches deep
 - Mix removed soil 50/50 with peat moss and/or pine bark fines
 - Add elemental sulfur per soil test recommendations
-- Create [[query-how-to-build-a-raised-bed-garden]] or mound if soil is heavy clay or poorly drained
+- Create a raised bed or mound if soil is heavy clay or poorly drained
 - Blueberries have shallow, fibrous roots — they cannot tolerate standing water
 
 ### Planting Technique
@@ -140,10 +140,11 @@ Birds are the primary pest of blueberries — they can strip a bush in a single 
 - Blueberries are sensitive to over-fertilization — use sparingly
 - Use ammonium sulfate or a fertilizer formulated for acid-loving plants (rhododendron/azalea fertilizer)
 - Avoid nitrate-based fertilizers (they raise soil pH)
-- Avoid chlorides (blueberries are chloride-sensitive)
 
-### Schedule
-- Year 1: No fertilizer at planting; first application 4-6 weeks after planting with 1 tablespoon of ammonium sulfate
-- Year 2: Apply in early spring and again in late spring — 2 tablespoons per plant per application
-- Mature plants (3+ years): Apply 1/4 to 1/2 cup of ammonium sulfate per plant in early spring, split into 2 applications (early spring and late spring)
-- Stop fertilizing by mid-summer to allow new growth to harden before winter
+## See Also
+
+- [[blue-city-diesel-west-coast-blueberry-nyc-diesel-hybrid-oner]]
+- [[blueberry-cultivation-and-variety-guide]]
+- [[blueberry-cannabis]]
+- [[hamilton-greenhouse-polytunnel-growing]]
+- [[greenhouse-growing]]

@@ -9,7 +9,7 @@ sources: []
 
 # Plant Propagation Methods
 
-Plant propagation is the process of creating new plants from existing ones. Methods fall into two broad categories: sexual propagation (from seeds) and asexual/[[hamilton-vegetative-propagation]] (from plant parts). Vegetative methods produce clones genetically identical to the parent plant, preserving desired traits. Seed propagation introduces genetic variation, which is valuable for breeding but may not preserve specific characteristics.
+Plant propagation is the process of creating new plants from existing ones. Methods fall into two broad categories: sexual propagation (from seeds) and asexual/vegetative propagation (from plant parts). Vegetative methods produce clones genetically identical to the parent plant, preserving desired traits. Seed propagation introduces genetic variation, which is valuable for breeding but may not preserve specific characteristics.
 
 ## Seed Propagation
 
@@ -29,12 +29,12 @@ Seed propagation is the most common method for annual vegetables, herbs, and man
 ### Seed Treatment Methods
 
 - **Stratification**: Cold, moist treatment to break dormancy. Place seeds in moist sand or paper towel in a plastic bag, refrigerate for 30-120 days. Common for: apples, peaches, cherries, pawpaw, many native perennials.
-- **Scarification**: Breaking or weakening the seed coat to allow water absorption. Methods: nick with a file, rub with sandpaper, soak in hot (not boiling) water for 12-24 hours. Common for: [[sacred-mexican-morning-glories-ololiuqui-and-tlitliltzin]], locust, redbud, moonflower.
+- **Scarification**: Breaking or weakening the seed coat to allow water absorption. Methods: nick with a file, rub with sandpaper, soak in hot (not boiling) water for 12-24 hours. Common for: morning glories, locust, redbud, moonflower.
 - **Soaking**: Soak seeds in water for 6-24 hours before planting to speed germination. Common for: beans, peas, corn, beets, squash.
 
 ## Cuttings
 
-Cuttings are pieces of stem, leaf, or root that are encouraged to form roots and grow into a new plant. This is one of the most widely used [[vegetative-propagation-methods-mollison]].
+Cuttings are pieces of stem, leaf, or root that are encouraged to form roots and grow into a new plant. This is one of the most widely used vegetative propagation methods.
 **Softwood Cuttings (Spring-Summer)**
 - Take from new, flexible growth that snaps when bent
 - Best for: herbs (basil, mint, rosemary, sage), geraniums, hydrangeas, fuchsia, coleus
@@ -83,7 +83,7 @@ Division is the separation of a clumping plant into smaller sections, each with 
 
 ### When to Divide
 
-- **Spring division**: As growth begins. Best for: most perennials, [[ornamental-grasses-guide]], hostas, daylilies, iris
+- **Spring division**: As growth begins. Best for: most perennials, ornamental grasses, hostas, daylilies, iris
 - **Fall division**: After flowering or foliage dieback. Best for: peonies, bearded iris, oriental poppies, bleeding heart
 
 ### Division Method
@@ -140,10 +140,10 @@ Used for plants that cannot be easily bent to ground level.
 
 Similar to simple layering but the tip of the branch is buried.
 
-1. Bend the growing tip of a branch down to the soil surface
-2. Bury the tip 4-6 inches deep
-3. The tip grows downward initially, then curves upward
-4. New shoots emerge from the buried tip
-5. Sever and transplant the following season
+## See Also
 
-**Best for**: blackberries, raspberries, trailing blackberry varieties
+- [[two-tier-selection-model-plant-microbiome-assembly]]
+- [[holzer-problem-plant-regulation]]
+- [[what-a-plant-knows-plant-hearing-acoustic-sensing]]
+- [[medicinal-plant-preparations-tinctures-salves-teas]]
+- [[rhodopsin-photopsins-animal-visual-pigments-plant-photoreceptor-parallels]]

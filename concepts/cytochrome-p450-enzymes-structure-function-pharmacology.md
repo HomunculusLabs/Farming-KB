@@ -2,7 +2,7 @@
 title: Cytochrome P450 Enzymes — Structure, Function, and Pharmacological Significance
 created: 2026-04-28
 updated: 2026-05-06
-aliases: [CYP450, cytochrome P450, CYP enzymes, [[cytochrome-p450-enzymes-drug-metabolism]] enzymes]
+aliases: [CYP450, cytochrome P450, CYP enzymes, cytochrome-p450-enzymes-drug-metabolism enzymes]
 tags: [biochemistry, pharmacology, drug-metabolism, enzymology, toxicology]
 type: concept
 sources: []
@@ -38,36 +38,10 @@ Compound I, [Fe4+=O Por*+], one of the most potent biological oxidants, capable
 of H-atom abstraction from C-H bonds (~96-100 kcal/mol).
 6. **Oxygen rebound:** Compound I abstracts H from substrate, then rebounds OH
 (Groves' mechanism, 1976) to yield hydroxylated product. Uncoupling
-(superoxide/H2O2 release) generates [[caffeine]] P1A2 metabolizes caffeine, theophylline, clozapine (~10% of drugs).
-Inducible by smoking. CYP1A1/CYP1B1 activate PAHs to carcinogens; CYP1B1 is
-overexpressed in tumors.
-
-**CYP2:** The most diverse family. CYP2C9 (warfarin, phenytoin, NSAIDs,
-losartan); CYP2C19 (omeprazole, clopidogrel, diazepam, voriconazole); CYP2D6
-(codeine, tramadol, tamoxifen, metoprolol, ~25% of drugs); CYP2E1 (ethanol,
-acetami [[morphine]]. PMs get no
+(superoxide/H2O2 release) generates [[morphine]]. PMs get no
 analgesia; UMs produce excessive morphine (pediatric fatalities). FDA boxed
 warning (2013). Tamoxifen requires CYP2D6 for endoxifen formation; PMs have
-higher [[blesching-cannabis-breast-cancer]] recurrence. Atomoxetine: PMs have 10x higher AUC. Over 30
-FDA labels contain CYP2D6 pharmacogenomic information.
-
-## CYP2C9 and CYP2C19 Variants
-
-**CYP2C9:** *2 (R144C, ~8% Caucasians) and *3 (I359L, ~6%) reduce efficiency.
-*2/*3 carriers need 30-80% lower warfarin doses with higher bleeding risk. FDA
-warfarin labeling includes pharmacogenomic guidance (with VKORC1).
-
-**CYP2C19:** *2 (loss-of-function, ~15% Caucasians, 25-30% East Asians); *17
-(gain-of-function, ~18% Caucasians). Clopidogrel requires CYP2C19 activation:
-PMs have ~30% reduced platelet inhibition and higher cardiovascular events. FDA
-boxed warning (2010). PPI dosing affected: PMs have ~4x higher omeprazole AUC.
-
-## Phase I and Phase II Metabolism
-
-Phase I introduces polar groups (-OH, -NH2, -COOH) through oxidation. CYPs
-account for ~70-80% of phase I. Phase II (UGTs, SULTs, GSTs, NATs) conjugates
-hydrophilic molecules for excretion. Phase I often creates groups needed for
-phase II (CYP hydroxylation enables UGT [[glutathione-conjugation]] detoxifies these. Overdose depletes glutathione, causing
+higher [[glutathione-conjugation]] detoxifies these. Overdose depletes glutathione, causing
 hepatic necrosis.
 
 ## Drug-Drug Interactions
@@ -118,8 +92,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[dom]]
 - [[morphine]]
-- [[det]]
 - [[caffeine]]
 - [[phase-ii-metabolism]]

@@ -33,7 +33,7 @@ The second period is characterized by early but often inaccurate scientific atte
 Schultes (1939) initially stated that the neurotropic fungi in Mexico belonged only to Panaeolus campanulatus var. sphinctrinus. This identification was later shown to be incorrect, as the mushrooms used in Mexican ceremonies were primarily species of Psilocybe. Singer (1949) followed Schultes' position and also initially misidentified some materials, including Psilocybe cubensis based on some unidentified collections from Mexico by Schultes.
 
 ### Early Confusion with Polypores and Other Fungi
-During this period, various fungi were erroneously attributed with neurotropic properties. For example, some polypores containing hordenine, N-methyltyramine, and tyramine — such as [[laetiporus-sulphureus]] and [[meripilus-giganteus]] — were considered psychotropic. These produce certain chemical reactions in the central nervous system resulting in dizziness and disorientation, but the first species is a common edible fungus in Mexico and elsewhere. Thoen (1982) commented on the use of polypores in religious ceremonies in several regions, but the neurotropic properties attributed to them were often questionable.
+During this period, various fungi were erroneously attributed with neurotropic properties. For example, some polypores containing hordenine, N-methyltyramine, and tyramine — such as [[meripilus-giganteus]] — were considered psychotropic. These produce certain chemical reactions in the central nervous system resulting in dizziness and disorientation, but the first species is a common edible fungus in Mexico and elsewhere. Thoen (1982) commented on the use of polypores in religious ceremonies in several regions, but the neurotropic properties attributed to them were often questionable.
 
 ### Cordyceps and Elaphomyces in Mexican Traditions
 Cordyceps capitata and C. ophioglossoides were found in popular markets in Mexico as sacred fungi. These species, used by indigenous peoples of the Nevado de Toluca region together with Psilocybe muliercula, are closely related taxonomically to Claviceps purpurea (ergot). However, chemical analyses by Hofmann failed to find active indole compounds, likely because the specimens had been preserved for too long before analysis.
@@ -49,13 +49,7 @@ A recurring theme in this period was the confusion between different genera of f
 The third period represents the true scientific awakening regarding neurotropic fungi, catalyzed by the work of R. Gordon Wasson and his collaborators.
 
 ### The Wasson Expedition
-Wasson and Wasson (1957) published their famous article "Seeking the Magic Mushroom" in Life magazine, bringing global attention to the use of psychoactive mushrooms in Mexico. This article introduced the English-speaking world to the concept of "magic mushrooms" and sparked widespread scientific and popular interest. Wasson, a vice president at J.P. Morgan, had become fascinated by the question of whether ancient cultures had used mushrooms in religious ceremonies — what he called "ourancestry's most startling cultural achievement." His initial visits to Mexico in the 1950s, accompanied by his wife [[valentina-pavlovna-wasson]] Wasson, led to the rediscovery of active mushroom ceremonies that had been kept secret from outsiders for centuries. The Life article, with its dramatic photographs and evocative prose, reached millions of readers and triggered a wave of scientific and popular interest in psychoactive fungi.
-
-### Heim's Mycological Research
-Roger Heim, a French mycologist at the Muséum National d'Histoire Naturelle in Paris, conducted extensive fieldwork in Mexico and was the first to scientifically identify and cultivate many of the Psilocybe species used by indigenous peoples. Heim (1956a, b, 1957a, c, 1958a, b) described new species and established the taxonomic framework for the genus Psilocybe as it relates to neurotropic fungi.
-
-### Discovery of Psilocybin
-Albert Hofmann, working at Sandoz Laboratories in Switzerland and collaborating with Heim, isolated and identified the active compounds [[hplc-analysis-of-psilocybin-and-psilocin]] from Psilocybe mexicana and other species in 1958-1959. This chemical characterization transformed the field from ethnographic curiosity to rigorous pharmacological science.
+Wasson and Wasson (1957) published their famous article "Seeking the Magic Mushroom" in Life magazine, bringing global attention to the use of psychoactive mushrooms in Mexico. This article introduced the English-speaking world to the concept of "magic mushrooms" and sparked widespread scientific and popular interest. Wasson, a vice president at J.P. Morgan, had become fascinated by the question of whether ancient cultures had used mushrooms in religious ceremonies — what he called "ourancestry's most startling cultural achievement." His initial visits to Mexico in the 1950s, accompanied by his wife [[hplc-analysis-of-psilocybin-and-psilocin]] from Psilocybe mexicana and other species in 1958-1959. This chemical characterization transformed the field from ethnographic curiosity to rigorous pharmacological science.
 
 ### Singer's Taxonomic Contributions
 Rolf Singer, working independently and sometimes collaboratively with these researchers, contributed important taxonomic work including Singer (1949, 1958, 1959, 1960a) and Singer and Smith (1958). Singer's classification of the Strophariaceae, including the placement of many Psilocybe species, remains influential.
@@ -74,20 +68,7 @@ During this period, the first informal cultivation guides began to circulate. Th
 Guzmán, Allen, and Gartz noted that this period saw a "degeneration of the traditional use of these fungi, mainly in Mexico." The influx of Western seekers, hippies, and tourists disrupted traditional mushroom ceremonies, which had been carefully regulated by indigenous shamans within specific cultural contexts. The commercialization of sacred practices led many indigenous communities to restrict or abandon their mushroom traditions.
 
 ### Legal Prohibition
-The recreational use of hallucinogenic mushrooms prompted governments of many countries to prohibit their use and commerce. In the United States, psilocybin and psilocin were placed under Schedule I of the [[controlled-substances-act-and-psychedelic-research]] Act. Similar restrictions were enacted across Europe, Australia, and elsewhere. However, underground markets and illegal trade continued to develop.
-
-### Spread of Cultivation
-During this period, the techniques for cultivating psilocybin mushrooms spread through underground publications and word of mouth. The basic principles of mushroom cultivation — substrate preparation, sterilization, inoculation, and fruiting — became accessible to amateur mycologists despite legal restrictions.
-
-## Period 5: Recapitulation and New Discoveries (1990s-Present)
-
-The current (fifth) period involves a recapitulation of knowledge, the description of new species, and more sophisticated chemical analyses.
-
-### Taxonomic Advances
-New species of neurotropic fungi continue to be described from around the world. Guzmán (1998a, 1999b) and colleagues described new species of Psilocybe from the United States, Mexico, Colombia, Puerto Rico, Spain, Thailand, and New Zealand. Gartz et al. (1995) and Stamets and Gartz (1995) discovered new species from South Africa and the United States respectively.
-
-### Chemical Re-evaluation
-Modern analytical techniques have allowed the re-evaluation of earlier chemical studies. Many earlier reports of psilocybin in various species have been found to be erroneous due to misidentification of specimens, analytical errors, or contamination. Stijve and Kuyper (1988) failed to find psilocybin in several species previously reported to contain it, and the controversy over [[guzman-panaeolina-foenisecii-psilocybin-controversy-conflicting-chemical-analyses]] illustrates the difficulty of chemical analysis in this field.
+The recreational use of hallucinogenic mushrooms prompted governments of many countries to prohibit their use and commerce. In the United States, psilocybin and psilocin were placed under Schedule I of the [[guzman-panaeolina-foenisecii-psilocybin-controversy-conflicting-chemical-analyses]] illustrates the difficulty of chemical analysis in this field.
 
 ## Practical Applications
 
@@ -118,8 +99,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[neurotropic-fungi]]
 - [[five-historical-periods-neurotropic-fungi-discovery]]
-- [[neurotropic-fungi-five-historical-periods]]
 - [[doc]]
 - [[pf-tek]]

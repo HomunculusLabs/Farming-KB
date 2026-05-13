@@ -19,8 +19,7 @@ to the negative 17 molar. This renders iron biologically unavailable unless
 organisms produce specialized solubilization systems. Most bacteria and
 fungi excrete siderophores as chelating agents that form soluble complexes
 with Fe(III) having very high formation constants, thus solubilizing ferric
-iron for microbial uptake. [[arbuscular-mycorrhizal-fungi-biology-symbiosis]] produce diverse siderophore
-structures that play critical roles in plant [[siderophore-iron-nutrition-mycorrhizal-fungi]] and soil
+iron for microbial uptake. [[siderophore-iron-nutrition-mycorrhizal-fungi]] and soil
 ecology.
 
 ## Hydroxamate Siderophores
@@ -46,8 +45,7 @@ hexapeptide structure containing three N5-hydroxyornithine residues that
 coordinate the ferric iron. The ferrichrome family is found across a broad
 taxonomic range of fungi and is particularly prominent among mycorrhizal
 ascomycetes. Ferricrocin has been identified as the main siderophore of
-the widespread ectomycorrhizal fungus [[cenococcum-geophilum]], several
-Wilcoxina species forming ectendomycorrhizae, and the [[dark-septate-endophytes]] root
+the widespread ectomycorrhizal fungus [[dark-septate-endophytes]] root
 endophyte Phialocephala fortinii.
 
 ## Coprogen and Fusarinine Families
@@ -58,8 +56,7 @@ its derivatives neocoprogen I and neocoprogen II are cyclic triester
 structures containing three N5-acyl-N5-hydroxyornithine residues. The
 fusarinine family includes fusigen (779 Da) and triacetylfusarinine C (905
 Da). These siderophores are generally more lipophilic than the ferrichromes
-and may play roles in [[fungal-siderophores-iron-acquisition-mycorrhiza]] from different soil microenvironments.
-[[dighton-ericoid-mycorrhizal-nutrient-acquisition]] fungi have been shown to produce ferricrocin or fusigen
+and may play roles in [[dighton-ericoid-mycorrhizal-nutrient-acquisition]] fungi have been shown to produce ferricrocin or fusigen
 as their main siderophores.
 
 ## Rhizoferrin: A Polycarboxylate Siderophore
@@ -70,10 +67,7 @@ Instead, rhizoferrins are citrate-containing polycarboxylate-type
 siderophores originally isolated from Zygomycetes. The rhizoferrin
 structure features two citric acid moieties linked through a diamine
 bridge, with carboxylate groups serving as the iron-coordinating ligands.
-Whether some [[arbuscular-mycorrhizal-fungi]] may produce both hydroxamate and
-polycarboxylate-type siderophores remains an open question, and represents
-an interesting area for future investigation into the metabolic versatility
-[[query-what-are-the-different-types-of-mycorrhizal-fungi]].
+Whether some [[query-what-are-the-different-types-of-mycorrhizal-fungi]].
 
 ## Siderophore Production in Mycorrhizal Fungi
 
@@ -81,45 +75,6 @@ Siderophore production by mycorrhizal fungi is stimulated by lowering the
 external concentration of ferric iron. Under some circumstances, not only
 omission of iron compounds but deferration of the nutrient medium using
 Chelex resin may be required to achieve maximum siderophore release. The
-[[cannabis-soil-and-nutrient-requirements]] of mycorrhizal fungi vary strongly, necessitating
-customized media for each species to maximize siderophore production. The
-addition of specific precursors for siderophore biosynthesis can further
-enhance production levels. Siderophore release by the extraradical mycelium
-of mycorrhizal fungi is particularly significant because this hyphal
-network extends beyond the root zone into bulk soil where iron availability
-may be most limiting.
-
-## Practical Applications
-
-The principles and techniques discussed here have wide-ranging applications
-across multiple disciplines and contexts. Practitioners and researchers
-continue to explore new ways to integrate these concepts into modern practice,
-adapting traditional knowledge to contemporary challenges and opportunities.
-
-## Key Considerations
-
-Several important factors influence the effectiveness and outcomes described
-in this topic. Understanding these considerations helps practitioners make
-informed decisions and avoid common pitfalls. Environmental conditions,
-timing, and material selection all play critical roles.
-
-## Historical Context
-
-The historical development of this subject reflects centuries of accumulated
-knowledge and practical experience. From traditional methods passed down
-through generations to modern scientific approaches, the evolution continues
-to inform current best practices and research directions.
-
-## Common Challenges
-
-Practitioners frequently encounter several challenges when working with
-these concepts. Climate variability, resource limitations, and knowledge
-gaps can all affect outcomes. Addressing these challenges requires patience,
-observation, and a willingness to adapt approaches based on results.
-
-## See Also
-- [[dom]]
-- [[mycelium]]
+[[dom]]
 - [[mycorrhizal-fungi]]
-- [[ectomycorrhiza]]
 - [[mycorrhizae]]

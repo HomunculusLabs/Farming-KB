@@ -11,8 +11,7 @@ tags: [cultivation, gardening]
 
 # Solomon Garden Hoe and Cultivation Techniques
 
-In "Gardening When It Counts," [[garden-hand-tools-solomon]] for
-low-input [[home-vegetable-garden-planning]]. Of all hoes in his collection, only one
+In "Gardening When It Counts," [[home-vegetable-garden-planning]]. Of all hoes in his collection, only one
 gets regular use -- the swanneck hoe, properly fitted and kept sharp.
 
 ## The Swanneck Hoe
@@ -74,11 +73,7 @@ The most reliable indicator is how the swanneck attaches:
    again a week later.
 4. Weeds from tubers or bulblets may need six to eight cuttings over
    six to eight weeks. But Solomon asserts no weed survives repetitive
-   leaf removal -- even horseradish or [[comfrey]] eventually succumbs.
-
-## Weeding Frequency
-
-If weeded once weekly during the [[savory-growing-season-and-non-growing-season-management]], there will never be
+   leaf removal -- even horseradish or [[savory-growing-season-and-non-growing-season-management]], there will never be
 large, resistant weeds. All are killed rapidly when small and tender.
 Solomon reports weeding 2,000 square feet (200 sq m) of beds and paths
 in about one concentrated hour, once weekly.
@@ -87,3 +82,11 @@ Spring requires the most frequent attention -- weeds grow rapidly and
 wet weather may keep you out of action, allowing weeds to reach the
 size demanding exhausting chopping rather than easy scraping. As summer
 wanes, weeding frequency decreases.
+
+## See Also
+
+- [[solomon-harvesting-techniques-and-timing]]
+- [[solomon-greenhouse-and-season-extension-basics]]
+- [[solomon-sprinkler-irrigation-vegetable-gardens]]
+- [[solomon-chemical-vs-organic-fertilizer-slow-release-trace-minerals]]
+- [[clay-soil-management-solomon]]

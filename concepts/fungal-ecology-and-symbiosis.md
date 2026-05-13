@@ -26,30 +26,10 @@ plant cell walls. While bacteria can decompose simpler organic compounds,
 fungi are uniquely capable of breaking down lignin, the most resistant of
 all plant polymers.
 
-White rot fungi (such as [[cancer-medicinal-mushrooms-pleurotus-ostreatus]], the oyster mushroom) decompose
-both cellulose and lignin, leaving behind a characteristic white, fibrous
-residue. Brown rot fungi (such as [[fungal-serpula-lacrymans-dry-rot-buildings]], the dry rot fungus)
+White rot fungi (such as [[fungal-serpula-lacrymans-dry-rot-buildings]], the dry rot fungus)
 primarily decompose cellulose, leaving behind a brown, crumbly residue of
 modified lignin. These different decomposition strategies have profound
-effects on soil formation, carbon cycling, [[ph-and-nutrient-availability-garden-soils]] in
-forest ecosystems.
-
-Without fungal decomposition, the world's forests would be buried under
-mountains of undecomposed wood and leaf litter, and the nutrients locked in
-dead organic matter would be unavailable for new plant growth. Fungal
-decomposition releases carbon dioxide, nitrogen, phosphorus, and other
-essential elements back into the ecosystem, driving the nutrient cycles that
-sustain all life.
-
-## Mycorrhizal Symbiosis
-
-Perhaps the most ecologically significant fungal symbiosis is the
-mycorrhizal association between fungi and plant roots. An estimated 80-90%
-of all plant species form mycorrhizal relationships, in which fungal hyphae
-extend from the root system into the surrounding soil, dramatically
-increasing the plant's effective root surface area.
-
-In [[ectomycorrhizal-associations]], common in forest trees, the fungus forms
+effects on soil formation, carbon cycling, [[ectomycorrhizal-associations]], common in forest trees, the fungus forms
 a sheath around the root tips and extends hyphae into the soil but does not
 penetrate the root cells. In arbuscular mycorrhizal associations, common in
 grasses and many crops, fungal hyphae penetrate root cells and form
@@ -87,8 +67,7 @@ grassland ecology, influencing which plant species dominate and how
 herbivore populations are regulated.
 
 Endophytic fungi in woody plants are less well understood but appear to
-play roles in disease resistance, stress tolerance, [[mollison-designers-fish-pond-fertiliser-and-nutrient-cycling]].
-Some endophytes produce [[cordyceps-cancer-bioactive-compounds]] with potential pharmaceutical
+play roles in disease resistance, stress tolerance, [[cordyceps-cancer-bioactive-compounds]] with potential pharmaceutical
 applications, making them a subject of active research in drug discovery.
 
 ## Fungal Parasites and Pathogens
@@ -141,6 +120,5 @@ in biotechnology and environmental remediation.
 
 ## See Also
 
-- [[fungal-fruiting-body-biology]]
 - [[ingolds-spore-dispersal-research]]
 - history of mycology

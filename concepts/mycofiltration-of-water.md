@@ -16,13 +16,13 @@ Mycofiltration uses fungal mycelium to filter and treat contaminated water. Dens
 ### Physical Filtration
 - Dense mycelial mats have enormous surface area and fine pore structure
 - Trap sediment, silt, suspended solids, and microplastics
-- [[water-infiltration-soil-hydraulic-conductivity]] allows water passage while retaining particles
+- Hydraulic conductivity allows water passage while retaining particles
 - Mycelium can filter particles as small as 0.2 micrometers under ideal conditions
 
 ### Chemical Binding
 - Fungal cell walls contain chitin, glucans, and proteins with metal-binding functional groups
 - Biosorption of heavy metals, dyes, and organic chemicals
-- Ion [[cation-exchange-capacity]] comparable to commercial ion-exchange resins
+- Ion exchange capacity comparable to commercial ion-exchange resins
 - pH-dependent binding with optimal performance at pH 4-6
 
 ### Biological Degradation
@@ -59,7 +59,7 @@ Mycofiltration uses fungal mycelium to filter and treat contaminated water. Dens
 - Can be harvested and composted after saturation
 
 ### Mushroom Grow Bags as Filters
-- Spent [[oyster-mushroom-substrate-materials-preparation]] (post-harvest) repurposed as water filters
+- Spent oyster mushroom substrate (post-harvest) repurposed as water filters
 - Rich in active mycelium and residual enzymes
 - Cost-effective use of waste material from mushroom cultivation
 - Effective for greywater treatment and stormwater polishing
@@ -76,7 +76,7 @@ Mycofiltration uses fungal mycelium to filter and treat contaminated water. Dens
 - Lead, copper, zinc, cadmium from urban runoff
 - Mining effluent treatment
 - Industrial wastewater polishing
-- See [[mycoremediation-of-heavy-metals]] for detailed mechanisms
+- See [[mycoremediation-heavy-metals]] for detailed mechanisms
 
 ### Hydrocarbons
 - Oil and grease from parking lots and roads
@@ -135,7 +135,7 @@ Mycofiltration uses fungal mycelium to filter and treat contaminated water. Dens
 
 ### Integration with Other Systems
 - Pre-treatment: sedimentation basins or rough filtration
-- Post-treatment: sand filters, UV disinfection, or [[comparison-constructed-wetlands-vs-bioswales]]
+- Post-treatment: sand filters, UV disinfection, or constructed wetlands
 - Integration with [[biochar-and-fungi]] systems for enhanced performance
 - Use in [[graywater-systems]] recycling systems as biological treatment stage
 

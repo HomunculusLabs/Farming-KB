@@ -13,26 +13,14 @@ type: concept
 
 ## Overview
 
-Alpha-1,3-glucan is a polysaccharide component of [[gadd-fungal-cell-structure]] walls
-that plays critical roles in the virulence of several major fungal
-pathogens. Unlike the more widely studied beta-1,3-glucan and chitin,
-alpha-1,3-glucan has received less attention despite its importance in
-masking pathogen-associated molecular patterns (PAMPs) from [[fungal-virulence-factors-host-immune-evasion]]
+Alpha-1,3-glucan is a polysaccharide component of [[fungal-virulence-factors-host-immune-evasion]]
 detection. Its presence, biosynthesis, and functional significance vary
 substantially among fungal species.
 
 ## Structural and Biosynthetic Basis
 
 Alpha-1,3-glucan is a linear homopolymer of glucose linked through
-alpha-1,3 glycosidic bonds. In [[aspergillus-fumigatus-population-genetics]]
-virulence is dose-dependent: complete or near-complete elimination of
-alpha-1,3-glucan results in significant attenuation of virulence in
-animal infection models.
-
-## Association with Melanin
-
-A striking association exists between alpha-1,3-glucan and melanin in
-fungal cell walls. In [[melanized-fungal-pathogens]]. The
+alpha-1,3 glycosidic bonds. In [[melanized-fungal-pathogens]]. The
 structural role of alpha-1,3-glucan in anchoring melanin in the cell
 wall represents an important link between cell wall biosynthesis and
 fungal virulence.
@@ -56,14 +44,7 @@ host cells and environmental conditions.
 
 Not all fungi produce alpha-1,3-glucan. Among the major human fungal
 pathogens, A. fumigatus and C. neoformans produce significant
-quantities, while [[blastomyces-dermatitidis]], thermally dimorphic pathogens,
-also produce alpha-1,3-glucan that contributes to virulence through
-similar immune evasion mechanisms.
-
-## Therapeutic Implications
-
-The unique presence and functional importance of alpha-1,3-glucan in
-[[bloomfield-fungal-pathogens-and-parasites]] (but not in human cells) makes it an attractive target
+quantities, while [[bloomfield-fungal-pathogens-and-parasites]] (but not in human cells) makes it an attractive target
 for novel antifungal strategies. Inhibitors of alpha-1,3-glucan
 synthase could disrupt cell wall integrity and enhance immune
 recognition. Alternatively, antibodies targeting exposed beta-glucan
@@ -72,7 +53,6 @@ immunotherapy.
 
 ## See Also
 
-- [[candida-albicans-molecular-epidemiology]]
 - [[cryptococcus-neoformans-pathogenesis]]
 - fungal cell wall composition and function
 
@@ -81,9 +61,7 @@ immunotherapy.
 - Beauvais, A. et al. (2005). Glucans in fungal cell walls.
   Medical Mycology 43(suppl 1), S15-22.
 - Reese, A. J. & Doering, T. L. (2003). Cell wall alpha-1,3-glucan
-  is required for C. [[bloomfield-cryptococcus-neoformans-capsule-melanin-brain]] association. Eukaryotic Cell
-  2, 1206-13.
-- Maubon, D. et al. (2006). Cell wall of [[gadd-aspergillus-fumigatus-glucan-virulence]].
+  is required for C. [[gadd-aspergillus-fumigatus-glucan-virulence]].
   Medical Mycology 44, S125-30.
 
 ## Practical Applications
@@ -115,8 +93,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[det]]
 - [[spore]]
-- [[mycology]]
 - [[fungal-cell-wall-composition-and-structural-organization]]
 - [[chitin-chitosan-fungal-cell-wall]]

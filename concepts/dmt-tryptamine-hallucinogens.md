@@ -13,52 +13,7 @@ serotonin, endogenous]
 Dimethyltryptamine (DMT) is a powerful psychedelic tryptamine compound
 found
 naturally in many plants and animals, including the human brain. Terence
-McKenna's 1983 essay "[[tryptamine-hallucinogens-and-consciousness]] Consciousness"
-provides
-one of the most vivid phenomenological accounts of the DMT experience,
-arguing
-that tryptamine compounds reveal dimensions of consciousness that are
-fundamental to understanding the nature of mind and reality.
-
-## Chemistry and Pharmacology
-
-DMT (N,N-dimethyltryptamine) is structurally similar to serotonin
-(5-hydroxytryptamine), the primary neurotransmitter in the human brain.
-Psilocybin is 4-phosphoryloxy-N,N-dimethyltryptamine — essentially DMT
-with a phosphate group attached. The structural similarity to serotonin
-explains why these compounds are active at serotonin receptors,
-particularly
-the 5-HT2A receptor subtype, which is the primary mediator of
-psychedelic
-effects.
-
-DMT is present in small amounts in the human brain, making it an
-endogenous
-hallucinogen. The function of endogenous DMT remains unknown, though
-theories
-include roles in dreaming, near-death experiences, and natural altered
-states
-of consciousness. Unlike LSD, which is retained in the body for extended
-periods, DMT onset is extremely rapid (15-45 seconds when smoked) and
-duration is brief (5-15 minutes), suggesting the brain is "at home" with
-this compound and has efficient metabolic pathways for processing it.
-
-## The DMT Experience
-
-McKenna describes the smoked DMT experience in detail. Onset begins in
-approximately 15 seconds with a characteristic sound ("ripping
-cellophane")
-and an ascending tone. Over about 30 seconds, one enters what he calls
-the
-"merry go raum" (from German raum, "space") — a domed, underground
-feeling
-space. The experience is intensely visual, with "immense vividness" and
-information presented "three-dimensionally and deployed
-fourth-dimensionally,
-coded as light and as evolving surfaces."
-
-Central to the DMT experience are what McKenna calls "self-transforming
-machine elves" — [[tryptamine-hyperdimensional-entities]] that appear dynamically
+McKenna's 1983 essay "[[tryptamine-hyperdimensional-entities]] that appear dynamically
 contorting, "somehow distinct from the surrounding background, which is
 itself undergoing a continuous transformation." These entities
 communicate
@@ -106,14 +61,7 @@ descriptions of a primal language in the Zohar.
 
 ## Endogenous DMT and Consciousness
 
-McKenna argues that DMT's [[mckenna-dmt-serotonin-structural-affinity-and-endogenous-presence]] in the human brain,
-combined
-with the extraordinary intensity of the experience, suggests that normal
-waking consciousness represents only one mode of brain function among
-many
-possible states. He proposes that consciousness itself may be a quantum
-mechanical phenomenon, citing the work of John Smythies and Alexander
-Shulgin on [[quantum-mechanical-correlates-hallucinogenesis-smythies-shulgin]] to hallucinogenesis — the
+McKenna argues that DMT's [[quantum-mechanical-correlates-hallucinogenesis-smythies-shulgin]] to hallucinogenesis — the
 finding
 that moving a single atom on a molecular ring can convert an inactive
 compound to a highly active one, demonstrating "dynamic linkage at the
@@ -134,14 +82,8 @@ understanding of consciousness.
 
 ## See Also
 
-- [[psilocybin-logos-consciousness]]
 - [[shamanism-tryptamine-ecologies]]
-- [[mckenna-endogenous-dmt-brain-familiarity]]
-
-## References
-
-- McKenna T (1983/1992) Tryptamine Hallucinogens and Consciousness.
-The [[archaic-revival-partnership-vs-dominator-cultures]]. HarperSanFrancisco.
+- [[archaic-revival-partnership-vs-dominator-cultures]]. HarperSanFrancisco.
 - Shulgin A, Shulgin A (1997) TIHKAL. Transform Press.
 - Smythies JR (1994) The Walls of Plato's Cave. Ashgate.
 - Strassman R (2001) DMT: The Spirit Molecule. Park Street Press.

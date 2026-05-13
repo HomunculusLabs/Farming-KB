@@ -1,7 +1,7 @@
 # Rolling Greenhouse on Wheels Design
 
-**Source:** [[eliot-coleman]], *The [[coleman-claytonia-winter-harvest-cultivation]] Handbook*
-**Domain:** [[coleman-protected-cultivation]] → [[coleman-gothic-arch-greenhouse-design-specifications]] → Mobile Structures
+**Source:** [[coleman-claytonia-winter-harvest-cultivation]] Handbook*
+**Domain:** [[coleman-gothic-arch-greenhouse-design-specifications]] → Mobile Structures
 
 ---
 
@@ -16,18 +16,7 @@ growers to move greenhouses monthly across multiple sites.
 
 The rolling design eliminates the high friction of sled-based systems
 and provides directional stability during movement. It represents the
-culmination of Coleman's experimentation with [[mobile-greenhouses]] since
-1996, incorporating lessons learned from three previous design
-iterations.
-
-## Structural Specifications
-
-The standard rolling greenhouse is 22 feet wide by 48 feet long. The
-length was chosen for three reasons: site constraints, end-wall
-ventilation (length no more than 3× width to avoid dead-air spots),
-and ease of movement.
-
-**[[cold-frame-construction]]:**
+culmination of Coleman's experimentation with [[cold-frame-construction]]:**
 - Hoops with crossbars and vertical supports (lighter than the truss
   design of earlier houses)
 - Diagonal braces at each corner for rigidity
@@ -117,8 +106,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[greenhouse-design]]
 - [[dom]]
-- [[det]]
 - [[coleman-mobile-greenhouse-design-and-operation]]
 - [[coleman-greenhouse-ventilation-design]]

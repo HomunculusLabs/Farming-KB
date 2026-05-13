@@ -18,13 +18,7 @@ sources:
 ---
 ## Overview
 
-Lava Cake is an indica-dominant [[thin-mint-cookies]] (GSC phenotype) with Grape
-Pie, combining the terpene-profile-chemotaxonomyineage phenotype)
-
-Thin Mint is one of the three original GSC phenotypes selected by
-Cookie Fam in [[shipibo-san-francisco-ceremonial-center-ucayali]]. It contributes dense [[granddaddy-purple]] × Durban Poison × WL4, Gelato,
-and kappa opioid receptor.
-- **[[limonene]]:** 0.4–0.8% — Citrus notes; mood elevation, anxiolytic.
+Lava Cake is an indica-dominant [[shipibo-san-francisco-ceremonial-center-ucayali]]. It contributes dense [[limonene]]:** 0.4–0.8% — Citrus notes; mood elevation, anxiolytic.
 - **Myrcene:** 0.5–1.2% — Earthy, musky; sedative, muscle relaxant.
 
 Secondary terpenes include linalool, pinene, and humulene in trace
@@ -40,43 +34,11 @@ characteristic sedative body effects.
 - CBG: 0.1–0.3%
 
 The low CBD content means the psychoactive effects are driven
-almost entirely by THC and the [[cannabis-terpene-entourage-effect-profiles]] of terpenes.
-
-## Effects and Medical Use
-
-**Onset:** Effects begin within 5–10 minutes of inhalation, starting
-with a gentle cerebral lift and warming sensation.
-
-**Progression:** The initial head high transitions over 20–30 minutes
-into a heavy, full-body relaxation that intensifies toward sedation.
-
-Commonly reported effects include deep physical relaxation, euphoria,
-increased appetite, and drowsiness.
-
-At higher doses, Lava Cake can produce pronounced couch-lock and is
-best reserved for evening or nighttime use.
-
-**Medical applications:**
-
-Lava Cake is commonly used for [[cannabis-chronic-pain-management]], insomnia, anxiety, stress,
+almost entirely by THC and the [[cannabis-chronic-pain-management]], insomnia, anxiety, stress,
 muscle spasms, and appetite stimulation.
 
 The sedative body high makes it particularly suited for patients with
-[[cannabis-sleep-disorders-and-insomnia]] or chronic pain conditions requiring nighttime relief.
-
-**Common side effects:** Dry mouth, dry eyes, dizziness at high doses,
-and potential paranoia in sensitive individuals.
-
-Beginners should approach with caution due to the high THC content.
-
-## Cultivation
-
-**Flowering time:** 8–9 weeks indoors.
-
-**Yield:** Moderate, approximately 300–400 g/m² indoors.
-
-**Difficulty:** Moderate. Lava Cake is relatively forgiving but
-responds well to [[cannabis-training-techniques-comparison]] (LST, SCROG) that maximize light
+[[cannabis-training-techniques-comparison]] (LST, SCROG) that maximize light
 exposure to its dense canopy.
 
 The strain expresses purple coloration more intensely when nighttime
@@ -87,3 +49,88 @@ It is moderately resistant to common molds and pests but requires
 good airflow due to its dense bud structure, which can trap moisture.
 
 It performs well in both soil and hydroponic setups.
+
+## Overview
+
+Lava Cake represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish lava cake
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving lava extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Lava Cake finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for lava cake. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+lava cake and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Lava Cake has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of lava cake into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[cake-batter]]
+- [[ice-cream-cake-cannabis]]
+- [[oss-oeric-rice-cake-tek-methodology]]
+- [[pf-tek-cake-birthing-technique]]
+- [[wedding-cake]]

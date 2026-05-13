@@ -14,37 +14,13 @@ type: concept
 
 ## Overview
 
-[[masanobu-fukuoka]] provides a detailed practical account of how
-depleted orchard soil can be rehabilitated through natural means
-over a period of decades. This process centers on the use of
-cover crops, particularly [[fukuoka-ladino-clover-ground-cover-management]], alfalfa, and the black
+[[fukuoka-ladino-clover-ground-cover-management]], alfalfa, and the black
 wattle tree, to rebuild soil structure, fertility, and
 biological activity without any chemical inputs.
 
 ## The Starting Point: Depleted Orchard Soil
 
-Fukuoka inherited a [[fukuoka-citrus-orchard-establishment-bare-hillside]] from his father and
-discovered that, despite its reputation as one of the best
-local orchards, it had not made a net profit over more than
-forty years of operation. The first thirteen years the
-orchard had been run at a loss, the next twenty years it had
-made money, and the following ten years were again in the red.
-
-While his father celebrated his profitable citrus crops, his
-sturdy trees, and his growing wealth, the orchard soil had
-become depleted. Fukuoka set out to raise fruit trees that
-grow as the soil enriches. This was one of the main reasons
-he grew cover crops.
-
-## The Cover Crop Selection Process
-
-Fukuoka planted the seeds of thirty legumes, crucifers, and
-grasses throughout his orchard. From observations of these,
-he came to the general conclusion that he should grow a weed
-cover using ladino clover as the primary crop and herbs such
-as alfalfa, lupine, and bur clover as secondary crops. To
-condition the deeper soil strata in the hard, depleted soil,
-he companion-planted fertilizer trees such as [[fukuoka-black-wattle-fertilizer-tree-method]],
+Fukuoka inherited a [[fukuoka-black-wattle-fertilizer-tree-method]],
 myrtle, and podocarpus.
 
 ## Ladino Clover: Features and Management
@@ -118,8 +94,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[cover-crop]]
 - [[fukuoka-textdoc-citrus-orchard-soil-rehabilitation-timeline]]
-- [[cover-crops]]
 - [[doc]]
 - [[dom]]

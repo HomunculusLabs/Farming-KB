@@ -1,7 +1,7 @@
 ---
 title: The First Rule of Biological Agriculture: Nature Makes Sense
 author: Eliot Coleman
-source: The [[coleman-claytonia-winter-harvest-cultivation]] Handbook
+source: The coleman-claytonia-winter-harvest-cultivation Handbook
 tags: [coleman, biological-agriculture, pest-management, philosophy, soil-health, plant-health, organic-farming, ecological-thinking]
 created: 2026-05-08
 ---
@@ -10,11 +10,7 @@ created: 2026-05-08
 
 ## Overview
 
-Eliot Coleman articulated a foundational principle for biological agriculture: **"Nature makes sense."** If something is not working in the farm system, it is the farmer's fault, not Nature's. This principle reframes [[hamilton-pest-and-disease-control-organic]] problems from enemies to be destroyed into messages to be understood, and shifts the farmer's role from warrior against nature to student of nature.
-
-## The Problem with Palliative Approaches
-
-Coleman dismissed the entire arsenal of [[comparison-pheromone-based-pest-control-vs-beneficial-insect-biocontrol]] — both chemical and organic — as fundamentally misguided:
+Eliot Coleman articulated a foundational principle for biological agriculture: **"Nature makes sense."** If something is not working in the farm system, it is the farmer's fault, not Nature's. This principle reframes [[comparison-pheromone-based-pest-control-vs-beneficial-insect-biocontrol]] — both chemical and organic — as fundamentally misguided:
 
 > "Bug picking is not the answer. It is just a temporary solution. The same goes for garlic spray, red pepper, herbal concoctions, necromancy, or whatever. Nor, obviously, are DDT, Malathion, Parathion, Tepp, Rotenone, Sevin, Lindane, Pyrethrum, or any of the thousands of unpronounceable horrors in the lexicon of the agricultural chemist."
 
@@ -56,13 +52,6 @@ Once the first rule is accepted, a whole new world of questions opens up. Colema
 **Soil readiness:**
 - Is the soil ready for that crop, or should the rotation or choice of cultural practices be changed?
 - Some crops (Brassicae) benefit from higher nitrogen; others (tomatoes) will produce all leaves and no fruit with extra nitrogen
-
-**[[hamilton-composting-and-organic-matter-management]]:**
-- How long ago were green manure or crop residues turned under? Three weeks minimum — soil bacteria need time to digest green matter and return the soil to balanced state
-- Was the compost mature? Testing kits are available; immature compost causes a wide range of problems
-
-**Crop history:**
-- What was the preceding crop? If it was a heavy feeder, more nutrients may be necessary
 
 **[[holmgren-mineral-balance-soil-fertility]]:**
 - Have you corrected mineral deficiencies indicated by soil tests? Trace elements can be the key
@@ -117,8 +106,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[eliot-coleman]]
 - [[dom]]
-- [[det]]
 - [[composting]]
 - [[dandelion]]

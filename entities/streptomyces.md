@@ -44,26 +44,21 @@ Members of the genus are best known for producing the earthy odor molecule geosm
 **Genus:** *Streptomyces*.
 The genus was formalized by Selman Waksman and Arthur Henrici in 1943 during revision of older actinomycete classifications.
 It includes many organisms once grouped loosely with *Actinomyces* because of their branching growth form.
-Unlike true fungi, streptomycetes are prokaryotes with bacterial [[plant-cell-structure-and-organelles]] and peptidoglycan-containing [[singh-fungal-interactions-with-heavy-metals-in-soil]] writing between bacteria and mycelial decomposers.
+Unlike true fungi, streptomycetes are prokaryotes with bacterial [[singh-fungal-interactions-with-heavy-metals-in-soil]] writing between bacteria and mycelial decomposers.
 
 ## Morphology
 
-Streptomycetes grow as branching hyphae that form a substrate mycelium through soil, compost, or decaying [[mollison-designers-fish-pond-fertiliser-and-nutrient-cycling]].
-Others act as mycorrhiza-helper bacteria by changing the microbial environment around roots and fungal hyphae.
-Plant-beneficial strains may inhibit damping-off fungi, root pathogens, and nematode-associated microbes through antibiotics and enzymes.
-However, the genus also contains plant pathogens.
-Species such as *Streptomyces scabiei* cause common scab of potato by producing phytotoxins such as thaxtomin.
-Other pathogenic species are associated with scab or rot diseases of potato, [[comparison-cassava-vs-taro-vs-sweet-potato-vs-yam]], beet, radish, and related crops.
+Streptomycetes grow as branching hyphae that form a substrate mycelium through soil, compost, or decaying [[comparison-cassava-vs-taro-vs-sweet-potato-vs-yam]], beet, radish, and related crops.
 For practical agriculture, the genus is therefore not simply beneficial or harmful; strain identity and crop context matter.
 
 ## Medical and pharmaceutical relevance
 
 *Streptomyces* is the most famous antibiotic-producing bacterial genus.
 Historically important drugs derived from the genus include streptomycin, tetracycline, chloramphenicol, neomycin, fosfomycin, lincomycin, daptomycin, and others.
-Streptomycin from *Streptomyces griseus* was the first effective antibiotic treatment for tuberculosis.
+Streptomycin from *[[streptomyces-griseus]]* was the first effective antibiotic treatment for tuberculosis.
 The discovery helped establish soil microorganisms as a major source of anti-infective compounds.
 Antifungal agents from streptomycetes include nystatin, amphotericin B, and natamycin.
-Avermectin from *Streptomyces avermitilis* led to ivermectin and other antiparasitic drugs.
+Avermectin from *[[streptomyces-avermitilis]]* led to ivermectin and other antiparasitic drugs.
 Clavulanic acid from *Streptomyces clavuligerus* is used with beta-lactam antibiotics to inhibit beta-lactamase resistance enzymes.
 Bleomycin from *Streptomyces verticillus* is used as an anticancer drug.
 The genus also produces immunosuppressants, enzyme inhibitors, herbicidal compounds, and many molecules with no approved drug use.
@@ -82,7 +77,7 @@ Industrial work must manage slow growth, morphological differentiation, and stra
 In compost or soil microscopy, actinomycetes are inferred from very fine branching filaments rather than identified to genus.
 On plates, *Streptomyces* colonies are often dry, tough, and powdery as spore chains mature.
 A strong earthy odor is suggestive but not diagnostic because geosmin is produced by several microbial groups.
-Genus-level confirmation generally requires culture traits plus [[biodiversity-fungal-molecular-identification-dna-barcoding]] such as 16S [[16s-rrna-sequencing-microbiome-analysis]] or genome analysis.
+Genus-level confirmation generally requires culture traits plus [[16s-rrna-sequencing-microbiome-analysis]] or genome analysis.
 Species-level identification is difficult because many taxa are closely related and chemically variable.
 
 ## Relevance to this wiki

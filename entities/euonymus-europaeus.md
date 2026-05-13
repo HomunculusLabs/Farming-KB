@@ -53,13 +53,9 @@ Genetic studies using microsatellite markers reveal moderate population differen
 
 Euonymus europaeus is native throughout most of Europe, from Ireland and Portugal east to the Caucasus and Turkey. It extends northward to southern Scandinavia and southward to the Mediterranean, though it becomes less common in the driest southern regions.
 
-It has been introduced to [[polypore-fungi-eastern-north-america]] as an ornamental and has naturalized in several states, particularly in the northeastern [[dmt-containing-plants-united-states-halpern]] and southeastern Canada. In some areas, it is considered a minor invasive species.
+It has been introduced to [[dmt-containing-plants-united-states-halpern]] and southeastern Canada. In some areas, it is considered a minor invasive species.
 
-The species is not considered invasive in most of its introduced range, in contrast to the related [Euonymus fortunei](/entities/euonymus-fortunei) which is a significant invasive concern in [[growing-gourmet-north-american-reishi-species]] forests.
-
-The species occupies woodland edges, hedgerows, scrub, and open forests, typically on calcareous to neutral soils. It tolerates partial shade well and is often found as an understory shrub in coppiced woodlands and along field boundaries.
-
-Its elevation range extends from sea level to approximately 1,400 m in the Alps and Pyrenees. At higher elevations, plants adopt a more compact, dwarf growth form in response to shorter [[jeavons-climate-adaptation-growing-seasons]] and increased exposure.
+The species is not considered invasive in most of its introduced range, in contrast to the related [Euonymus fortunei](/entities/euonymus-fortunei) which is a significant invasive concern in [[jeavons-climate-adaptation-growing-seasons]] and increased exposure.
 
 ## Toxicity
 
@@ -67,9 +63,7 @@ All parts of Euonymus europaeus are toxic if ingested, containing cardiac glycos
 
 Despite this toxicity, the bright arils are attractive to birds, who consume them without apparent harm and serve as the primary seed dispersal agents. This differential toxicity is a common feature in bird-dispersed fruits.
 
-The cardiac glycosides affect sodium-potassium ATPase in cell membranes, similar to compounds found in [[digitalis-purpurea]](/entities/digitalis-purpurea) (foxglove). However, the specific glycosides in Euonymus are less well-characterized pharmacologically than those of foxglove.
-
-Historical records document use of the fruit as an emetic and purgative in folk medicine, though such use was dangerous and is not recommended. The plant has also been used topically [[cannabis-for-skin-conditions-detailed]] in traditional practice.
+The cardiac glycosides affect sodium-potassium ATPase in cell membranes, similar to compounds found in [[cannabis-for-skin-conditions-detailed]] in traditional practice.
 
 ## Ecology
 
@@ -81,9 +75,7 @@ Birds are the primary seed dispersers, with species including blackcaps, song th
 
 Euonymus europaeus is a larval host plant for the spindle ermine moth (*Yponomeuta cagnagella*), whose caterpillars can sometimes defoliate entire shrubs in midsummer. The plants typically recover fully from such defoliation events.
 
-The species shows moderate tolerance to urban pollution and has been recorded thriving in city parks and along transport corridors. This adaptability makes it a candidate for urban greening initiatives [[query-how-to-grow-and-use-oca-in-temperate-climates]].
-
-The dense branching provides nesting sites for small birds and shelter for invertebrates during winter. Dead stems are utilized by [[comparison-honey-bees-vs-native-solitary-bees]] for nest construction.
+The species shows moderate tolerance to urban pollution and has been recorded thriving in city parks and along transport corridors. This adaptability makes it a candidate for urban greening initiatives [[comparison-honey-bees-vs-native-solitary-bees]] for nest construction.
 
 ## Cultivation and Uses
 

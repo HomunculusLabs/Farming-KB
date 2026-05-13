@@ -32,37 +32,10 @@ specific proportions:
 - **2 parts limestone (marl)** -- Raises the pH of the naturally acidic peat
   to a range more favorable for mushroom formation while less hospitable to
   competing organisms. The calcium carbonate also provides calcium ions that
-  support [[fruiting-body-development]].
-
-## Mixing and Moisture Adjustment
-
-The ingredients are first mixed thoroughly in dry form. Water is then added
-gradually while stirring continuously. The goal is to achieve maximum water
-retention without the mixture becoming muddy or waterlogged. The proper
-moisture level can be assessed by squeezing a handful -- it should hold
-together in a clump without dripping water.
-
-The amount of water needed varies depending on the initial moisture content
-of the peat, which can differ significantly between brands and storage
-conditions. If too much water is added, additional dry ingredients should
-be mixed in to correct the consistency. This iterative approach is necessary
-because peat moisture content is rarely consistent between bags.
-
-## Sterilization Debate
-
-The source document recommends sterilizing casing soil in a pressure cooker
-for one hour, contrary to some authors who advise against sterilization
-because it kills [[forest-and-bamboo-beneficial-microorganisms]]. The authors state they have had
+  support [[forest-and-bamboo-beneficial-microorganisms]]. The authors state they have had
 "only bad experiences with untreated or pasteurised casing soils."
 
-The sterilization approach prioritizes [[mushroom-contamination-control]] over microbial
-diversity in the casing layer. When casing soil is sterilized, it is placed
-in oven bags (nylon), autoclave bags (polypropylene), or jars before being
-processed. After cooling to room temperature, the sterilized casing is ready
-for immediate application.
-
-Those who advocate for pasteurization rather than full sterilization argue
-that [[ingham-aact-beauveria-fruit-fly-beneficial-bacteria-inoculant]] such as *Pseudomonas putida* in the casing layer
+The sterilization approach prioritizes [[ingham-aact-beauveria-fruit-fly-beneficial-bacteria-inoculant]] such as *Pseudomonas putida* in the casing layer
 help stimulate fruiting and suppress competitor molds. However, the source
 authors found that the risk of contamination from incompletely treated casing
 outweighed any potential benefits from microbial activity.
@@ -102,26 +75,75 @@ maintenance tasks during the fruiting phase.
 ## Fruiting Container Design
 
 The source describes simple fruiting chambers made from clear plastic bins
-covered with [[passive-humidity-fruit-chamber-polyethylene-sheeting]]. These bins are stackable and space
-efficient. Air exchange holes melted in the sides provide passive ventilation,
-optionally covered with mesh to exclude flying insects.
-
-Five cased trays fit in each bin. Evaporation from the casing surfaces
-provides sufficient humidity within the enclosed bin without the need for
-humidifiers or cool-mist devices. This simple approach demonstrates that
-elaborate environmental control systems are not strictly necessary for
-successful cultivation.
-
-## Flush Patterns
-
-Most strains produce 3 flushes when managed with standard watering, though
-proper moisture management can yield 5 or 6 flushes. *Psilocybe mexicana*
-typically produces one large initial flush followed by a smaller second flush.
-Other species mentioned tend to produce more consistent flush sizes across
-multiple harvests. The first pinheads typically appear 6-15 days after casings
-are placed in the fruiting chamber, with mushrooms maturing in 5-7 days.
-
-## See Also
-- [[casing-soil-preparation-mushroom-cultivation]]
-- [[mushroom-casing-preparation]]
+covered with [[casing-soil-preparation-mushroom-cultivation]]
 - [[mushroom-cultivator-casing-soil]]
+
+## Overview
+
+Mushroom Casing Soil Preparation represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish mushroom casing soil preparation
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving mushroom extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Mushroom Casing Soil Preparation finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for mushroom casing soil preparation. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+mushroom casing soil preparation and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Mushroom Casing Soil Preparation has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of mushroom casing soil preparation into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.

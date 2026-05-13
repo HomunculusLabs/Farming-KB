@@ -1,5 +1,5 @@
 ---
-title: Cannabis Breeding Basics
+title: [[cannabis-breeding-fundamentals]] Basics
 created: 2026-04-12
 updated: 2026-04-13
 type: concept
@@ -12,7 +12,7 @@ sources:
 
 ## Overview
 
-Cannabis breeding is the deliberate crossing of cannabis plants to combine desirable traits from parent strains into new varieties. Whether you are creating [[marijuana-strain-guide-hybrid]] strains, preserving [[marijuana-strain-guide-sativa]] or [[marijuana-strain-guide-indica]] landrace genetics, or developing unique expressions for [[cannabis-seed-banks-and-genetics]] distribution, understanding [[oner-cannabis-breeding-fundamentals]] is essential. At its core, breeding is about manipulating gene frequencies — the ratio of desired genes within a population. The higher the frequency, the more uniform and true-breeding the population becomes. A trait is considered "fixed" when its gene frequency reaches 100%.
+Cannabis breeding is the deliberate crossing of cannabis plants to combine desirable traits from parent strains into new varieties. Whether you are creating [[marijuana-strain-guide-hybrid|hybrid]] strains, preserving [[marijuana-strain-guide-sativa|sativa]] or [[marijuana-strain-guide-indica|indica]] landrace genetics, or developing unique expressions for [[cannabis-seed-banks-and-genetics|seed bank]] distribution, understanding [[oner-cannabis-breeding-fundamentals]] is essential. At its core, breeding is about manipulating gene frequencies — the ratio of desired genes within a population. The higher the frequency, the more uniform and true-breeding the population becomes. A trait is considered "fixed" when its gene frequency reaches 100%.
 
 ## Cannabis Plant Sex and Reproduction
 

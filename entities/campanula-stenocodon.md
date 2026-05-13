@@ -108,13 +108,8 @@ Genetic analysis of six populations showed moderate differentiation, suggesting 
 
 ## See Also
 
-- [[campanula-saxatilis]]
 - [[campanula-cenisia]]
-- [[campanula-barbata]]
 - [[campanula-alliariifolia]]
-- [[campanula-scheuchzeri]]
 - [[campanula-fenestrellata]]
-- [[campanula-morettiana]]
 - [[phyteuma-orbiculare]]
-- [[lobelia-erinus]]
 - [[jasione-montana]]

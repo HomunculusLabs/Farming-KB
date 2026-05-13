@@ -16,14 +16,7 @@ The following US-based websites were identified as the primary international inf
 - **Erowid**: Comprehensive psychoactive substance database with dosage information, effects, trip reports, and harm reduction guidance
 - **Lycaeum**: Early internet psychedelic information resource
 - **Mycotopia**: Mushroom cultivation-focused community
-- **Shroomery**: One of the largest [[emcdda-hallucinogenic-mushroom-cultivation-and-growkit-market]] identification communities
-- **MushroomJohn**: Specialist mushroom information site
-- **The Entheogen Review**: Publication focused on entheogenic substances
-
-These international sites typically featured:
-- Species identification guides and photo galleries
-- Dosage charts and effects descriptions
-- [[amanita-muscaria-chemistry-and-pharmacology]] information
+- **Shroomery**: One of the largest [[amanita-muscaria-chemistry-and-pharmacology]] information
 - Legal status by jurisdiction
 - User trip reports and experience sharing
 - Cultivation guides and technique discussions
@@ -31,29 +24,7 @@ These international sites typically featured:
 
 ## National and Regional Websites
 
-The EMCDDA identified dedicated websites focused on [[health-risks-and-harm-reduction-for-hallucinogenic-mushroom-use]] in specific domestic and regional contexts across Europe:
-
-| Country | Website | Focus |
-|---|---|---|
-| Denmark | Copenhagen Mushroom Link (mushroom.dk) | Local mushroom information |
-| France | Champis (champis.fr.tc) | French-language mushroom community |
-| Hungary | Daath (daath.hu) | Hungarian mushroom information |
-| Spain | Delysid (gratisweb.com/delysid) | Spanish-language resource |
-| Portugal | Enteogeneos (enteogeneos.com.sapo.pt) | Portuguese community |
-| Czech Republic | Kouzelné houbičky (drogy.jinak.cz/houbicky) | Czech mushroom identification |
-| Norway | Norshroom (norshroom.org) | Norwegian mushroom resource |
-| Spain | Planetahongo (planetahongo.tripod.com) | Spanish-language mushroom site |
-| UK | Shroommap (shroommap.tk) | UK mushroom location sharing |
-| Sweden | Svampinfo (knarkkorven.magiskamolekyler.org/svampinfo) | Swedish mushroom information |
-| Finland | Taikasieniforum (trippi.info/taikasieniforum) | Finnish mushroom forum |
-
-These sites were typically created by non-profit organisations, mushroom users, or lobby groups. They served local language communities and provided regionally relevant information about local species, seasonal availability, and national legal status.
-
-## Role in the European Mushroom Trend
-
-### Information Democratization
-
-The proliferation of internet information played a crucial role in the [[european-hallucinogenic-mushroom-prevalence-and-trends]] trend of the late 1990s and early 2000s:
+The EMCDDA identified dedicated websites focused on [[european-hallucinogenic-mushroom-prevalence-and-trends]] trend of the late 1990s and early 2000s:
 
 - **Reduced barriers to knowledge**: Users no longer needed personal connections to learn about mushroom identification, dosing, and effects
 - **Cultivation knowledge**: Detailed PF TEK and other cultivation guides became freely available, enabling home growing
@@ -64,23 +35,7 @@ The proliferation of internet information played a crucial role in the [[europea
 
 Online forums and discussion boards created virtual communities of mushroom enthusiasts:
 
-- **Location sharing**: Sites like Shroommap (UK) facilitated [[emcdda-wild-mushroom-foraging-misidentification-hazards]] by sharing known locations
-- **Cultivation support**: Communities like Mycotopia and Shroomery provided troubleshooting help for growers
-- **Market intelligence**: Users shared information about smartshop products, quality, and pricing
-- **Legal awareness**: Sites tracked changing legislation across European jurisdictions
-
-### Contribution to the "Return to Nature" Trend
-
-The EMCDDA identified interest in natural hallucinogens as related to a "return to nature" trend in drug preferences. Internet information repositories reinforced this by:
-
-- Emphasizing the natural origin of psilocybin mushrooms
-- Providing foraging guides for wild species (*P. semilanceata* in particular)
-- Creating a contrast with synthetic drugs through the "herbal highs" framing
-- Connecting mushroom use to indigenous and traditional practices
-
-## Mushroom Hunting Information Online
-
-Several [[emcdda-internet-resources-magic-mushroom-websites]] provided guidance on wild mushroom identification and foraging:
+- **Location sharing**: Sites like Shroommap (UK) facilitated [[emcdda-internet-resources-magic-mushroom-websites]] provided guidance on wild mushroom identification and foraging:
 
 - **Identification guides**: Photo galleries and taxonomic descriptions to distinguish psychoactive species from toxic lookalikes
 - **Location databases**: User-contributed maps of known mushroom habitats
@@ -118,8 +73,78 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[mushroom-cultivation]]
 - [[psilocybin-mushroom]]
-- [[mushroom-identification]]
 - [[pf-tek]]
 - [[psilocybin]]
+
+## Overview
+
+Internet Mushroom Information Repositories Online Communities Emcdda 2006 represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish internet mushroom information repositories online communities emcdda 2006
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving internet extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Internet Mushroom Information Repositories Online Communities Emcdda 2006 finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for internet mushroom information repositories online communities emcdda 2006. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+internet mushroom information repositories online communities emcdda 2006 and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Internet Mushroom Information Repositories Online Communities Emcdda 2006 has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of internet mushroom information repositories online communities emcdda 2006 into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions

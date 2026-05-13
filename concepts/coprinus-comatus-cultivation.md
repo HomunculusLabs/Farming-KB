@@ -14,33 +14,9 @@ sources:
 
 ## Overview
 
-The Shaggy Mane (*Coprinus comatus*) is one of the most recognizable and beloved [[palmer-edible-mushrooms-north-america]] in temperate regions worldwide. Known for its tall, cylindrical cap covered in ascending scales, this mushroom has a mild, excellent flavor but is limited in commercial potential by its rapid self-dissolution — a process called deliquescence, where the gills liquefy into a black, spore-laden ink within hours of maturity. Despite this challenge, Shaggy Manes adapt well to both indoor and outdoor cultivation on a variety of substrates.
+The Shaggy Mane (*Coprinus comatus*) is one of the most recognizable and beloved [[query-what-is-the-difference-between-a-casing-layer-and-a-bulk-substrate]] composed of peat moss and gypsum is highly beneficial. After the compost is fully colonized (approximately two weeks), a moist [[spawn-grain-to-grain-transfer]] can be created with ease. Hardwood mushroom-primordia-formation-triggers.
 
-## Taxonomy and Description
-
-*Coprinus comatus* (Muller: Fries) S.F. Gray is considered a taxonomically "clean" species by most mycologists, easily identified by sight with little risk of confusion with poisonous species. The cap reaches 4–10 (15) cm in height and 3–4 (5) cm in diameter, initially white with ascending scales that reveal the gills beneath as the cap expands. Gills are crowded, white at first, then pink, and finally black as spores mature. The stem is 6–12 (15) cm long, hollow, and adorned with a movable, membranous ring that separates from the cap margin as the mushroom enlarges.
-
-As the mushroom matures, the gills blacken and deliquesce from the bottom upward, transforming into a dark, spore-laden fluid that drips from the rapidly receding cap margin. Eventually, the cap dissolves entirely, leaving only the stem standing.
-
-## Natural Habitat and Distribution
-
-Shaggy Manes grow throughout temperate regions of the world, fruiting in late summer and fall. They are commonly found in lawns, meadows, around barnyards, in wood chips, and in enriched soils. Their cosmopolitan distribution and tendency to appear in disturbed ground make them accessible to foragers. The mushroom adapts readily to cultivation because it is a coprophilic species, thriving on manure-enriched substrates.
-
-## Cultivation Methods
-
-### Substrate Preparation
-
-The preferred substrate for [[query-what-is-the-difference-between-a-casing-layer-and-a-bulk-substrate]] composed of peat moss and gypsum is highly beneficial. After the compost is fully colonized (approximately two weeks), a moist [[gourmet-medicinal-mushroom-casing-layer-techniques]] is applied. Within 10 days, the cottony mycelium becomes visible reaching through the upper surface of the casing.
-
-### Spawn and Inoculation
-
-Shaggy Manes are adaptive to [[spawn-grain-to-grain-transfer]] can be created with ease. Hardwood mushroom-primordia-formation-triggers.
-
-Yields can be substantially increased if the casing layer is vigorously raked just as the mycelium begins to show on the surface. This disturbance triggers a more abundant [[growing-gourmet-primordia-formation-pinning]].
-
-### Outdoor Cultivation
-
-Shaggy Manes are an excellent choice for [[cotter-outdoor-mushroom-garden-mulch-beds]] patches and garden integration. Once established, patches can fruit for many years. The mycelium tends to wander, often fruiting meters away from the original inoculation site. Inoculation into manure-enriched soils or 4–6 inch deep beds of hardwood sawdust works well. Newly laid or fertilized lawns that are frequently watered are perfect habitats.
+Yields can be substantially increased if the casing layer is vigorously raked just as the mycelium begins to show on the surface. This disturbance triggers a more abundant [[cotter-outdoor-mushroom-garden-mulch-beds]] patches and garden integration. Once established, patches can fruit for many years. The mycelium tends to wander, often fruiting meters away from the original inoculation site. Inoculation into manure-enriched soils or 4–6 inch deep beds of hardwood sawdust works well. Newly laid or fertilized lawns that are frequently watered are perfect habitats.
 
 ## Growth Parameters
 
@@ -51,38 +27,7 @@ Shaggy Manes are an excellent choice for [[cotter-outdoor-mushroom-garden-mulch-
 - Duration: 12–14 days
 - CO2: 5,000–20,000 ppm
 - Fresh Air Exchanges: 0–1 per hour
-- [[growing-gourmet-light-requirements-mushroom-fruiting]]: n/a
-
-### Primordia Formation
-
-- Initiation Temperature: 60–70°F (16–21°C)
-- Relative Humidity: 95–100%
-- Duration: 12–15 days after casing
-- CO2: 500–1,000 ppm
-- Fresh Air Exchanges: 4–8 per hour
-- Light: 500–1,000 lux for 8 hours per day
-
-### Fruitbody Development
-
-- Temperature: 65–75°F (18–24°C)
-- Relative Humidity: 80–90%
-- Duration: 5–7 days
-- CO2: 500–1,000 ppm
-- Fresh Air Exchanges: 4–8 per hour
-
-### Cropping Cycle
-
-Two to three flushes, four to ten days apart.
-
-## Yield and Harvesting
-
-When soya flour was added at a rate giving the substrate 0.5% nitrogen content, yields approached 80% mushroom-composting
 - [[mushroom-yield-optimization]]
-- [[companion-cultivation-of-mushrooms-with-garden-vegetables]]
-- mushroom-crop-scheduling
-
-## See Also
-
 - [[coprinus-comatus]]
 
 ## Practical Applications
@@ -114,8 +59,91 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[coprinus-comatus]]
 - [[substrate-preparation]]
-- [[composting]]
 - [[spore]]
 - [[mycelium]]
+
+## Overview
+
+Coprinus Comatus Cultivation represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish coprinus comatus cultivation
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving coprinus extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Coprinus Comatus Cultivation finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for coprinus comatus cultivation. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+coprinus comatus cultivation and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Coprinus Comatus Cultivation has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of coprinus comatus cultivation into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[bloomfield-coprine-disulfiram-alcohol-reaction-coprinus-atramentarius]]
+- [[bloomfield-coprinus-ink-caps-deliquescence-coprine]]
+- [[coprinus-picaceus]]
+- [[edible-agarics-coprinus-and-lepiota-species]]
+- [[stamets-cultivator-coprinus-comatus-shaggy-mane-cultivation]]

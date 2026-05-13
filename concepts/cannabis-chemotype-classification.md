@@ -24,39 +24,9 @@ The conventional sativa/indica/hybrid system fails to predict chemical
 composition or pharmacological effects. Molecular genetics studies by
 Sawler et al. (2015) demonstrated that "indica" and "sativa" labeled
 cultivars show extensive genetic admixture and that cannabinoid and
-[[cannabis-terpene-profiles-sativa]] do not cluster according to these labels.
-Historically, "sativa" described tall, narrow-leafleted plants from
-equatorial regions, while "indica" described short, broad-leafleted
-plants from Central Asian highlands. [[african-landrace-sativa-genetic-contributions-modern-breeding-oner]] has thoroughly
+[[african-landrace-sativa-genetic-contributions-modern-breeding-oner]] has thoroughly
 disrupted these associations. A commercially labeled "indica" may share
-more genetic ancestry with [[durban-poison-and-equatorial-sativas]] than with Afghan landraces.
-The sativa/indica system persists primarily as a marketing convention
-that loosely correlates with subjective effects (energizing versus
-sedating), but these perceived differences are better explained by terpene
-profiles than by any taxonomic distinction.
-## Small's Numerical Classification System
-Ernest Small (1979) proposed a quantitative classification based on
-THC and CBD content. His system assigned numerical scores based on the
-ratio of these two major cannabinoids:
-- **Chemotype I** (drug type): THC greater than 0.3% dry weight, CBD less
-  than 0.5%. Includes both THC-dominant and balanced THC+CBD varieties.
-  These are the primary cultivars used for recreational and medical
-  psychoactive applications.
-- **Chemotype II** (intermediate): Both THC and CBD exceed 0.3%. These
-  balanced chemotypes produce moderated psychoactive effects due to CBD's
-  antagonism of THC at CB1 receptors. Historically associated with
-  Indian charas and certain Himalayan landraces.
-- **Chemotype III** (fiber type): THC less than 0.3%, CBD greater than
-  0.5%. These industrial hemp varieties are cultivated for fiber, seed,
-  and CBD extraction. The 0.3% THC threshold has been adopted by most
-  jurisdictions as the legal distinction between hemp and marijuana.
-- **Chemotype IV**: CBD-dominant, THC absent or negligible (less than
-  0.1%). Some European fiber cultivars and specific medical-use
-  cultivars fall into this category.
-- **Chemotype V**: Both THC and CBD are absent or below detectable limits.
-  Rare in modern germplasm but exists in some primitive fiber lines.
-This system has the advantage of being objectively measurable through
-standardized [[analytical-methods-psilocybin-psilocin-quantification]] (HPLC, GC-FID) and directly relevant to
+more genetic ancestry with [[analytical-methods-psilocybin-psilocin-quantification]] (HPLC, GC-FID) and directly relevant to
 the plant's pharmacological properties.
 ## Modern Multidimensional Classification
 Contemporary chemotaxonomy expands beyond the THC:CBD binary to
@@ -70,8 +40,7 @@ characterizes the aroma and modifies cannabinoid effects. Terpene
 dominance patterns provide more reliable prediction of subjective effects
 than cannabinoid ratios alone.
 **Minor constituent profile**: Flavonoids (cannaflavins A and B),
-alkylamides, and other [[antifungal-secondary-metabolites-coprophilous-fungi]] that contribute to the
-[[cannabis-terpene-entourage-effect-profiles]] but are rarely quantified in standard testing.
+alkylamides, and other [[cannabis-terpene-entourage-effect-profiles]] but are rarely quantified in standard testing.
 **Total cannabinoid content**: The aggregate concentration of all
 cannabinoids, which determines overall potency regardless of the specific
 profile.
@@ -118,8 +87,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[psilocybin]]
 - [[pinene]]
-- [[dom]]
 - [[psilocin]]
 - [[det]]

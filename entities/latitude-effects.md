@@ -8,7 +8,7 @@ type: entity
 
 ## Description
 
-Latitude effects describe the systematic variation in solar radiation, day length, temperature, and growing conditions that occur with changing distance from the equator. Mollison dedicates a full section (5.8) to latitude effects, demonstrating that high-latitude regions possess surprising agricultural advantages due to long summer days, moderate temperatures, and high photosynthetic efficiency, while tropical regions paradoxically suffer from light saturation and temperature-induced photosynthetic decline that limits productivity of non-adapted crops.
+Latitude effects describe the systematic variation in solar radiation, day length, temperature, and growing conditions that occur with changing distance from the equator. Mollison dedicates a full section (5.8) to latitude effects, demonstrating that high-latitude regions possess surprising agricultural advantages due to long summer days, moderate temperatures, and high [[photosynthetic-efficiency]], while tropical regions paradoxically suffer from light saturation and temperature-induced photosynthetic decline that limits productivity of non-adapted crops.
 
 ## Classification
 
@@ -47,7 +47,7 @@ Latitude effects describe the systematic variation in solar radiation, day lengt
 
 ## Relevance to Cultivation and Mycology
 
-- **Outdoor mushroom cultivation**: Latitude determines substrate temperature regimes, seasonal fruiting windows, and species selection. High-latitude summer conditions with long days and moderate temperatures favour species like Agaricus and field mushrooms, while tropical conditions suit Pleurotus, Volvariella, and Auricularia.
+- **[[outdoor-mushroom-cultivation]]**: Latitude determines substrate temperature regimes, seasonal fruiting windows, and species selection. High-latitude summer conditions with long days and moderate temperatures favour species like Agaricus and field mushrooms, while tropical conditions suit Pleurotus, Volvariella, and Auricularia.
 - **Shade management**: Understanding that tropical mushroom operations benefit from 50-80% shade while temperate operations may need maximum light interception for temperature moderation is essential for efficient growing structure design.
 - **CO2 enrichment**: Composting operations that generate CO2 can simultaneously fuel photosynthesis in adjacent greenhouse crops and warm mushroom growing chambers, creating integrated production systems.
 - **Tree-crop-mushroom integration**: The latitude-specific strategy of interplanting leguminous trees within crops for shade and nitrogen applies directly to designing agroforestry systems that include mushroom cultivation on logs or beds beneath the tree canopy.
@@ -79,8 +79,6 @@ Latitude effects describe the systematic variation in solar radiation, day lengt
 - Supports decision-making in land-use planning
 
 ## Related Topics
-- [[latitude-effects-on-photosynthesis-and-crop-production]]
 - [[windbreak-effects-on-soil-moisture-and-extreme-weather]]
-- [[psilocybin-mushroom-dosage-and-acute-effects]]
 - [[cannabis-endorhiza-sampling-timing-post-harvest-effects]]
 - [[blesching-dark-night-of-soul-meditation-adverse-effects-mind-body]]

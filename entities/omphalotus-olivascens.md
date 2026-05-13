@@ -15,33 +15,11 @@ sources:
   - Desjardin DE, Oliveira AG, Stevani CV. (2008). "Fungal bioluminescence: biochemistry and genetic bases." Applied Microbiology and Biotechnology, 81(6), 989-999.
   - Arora D, Burk WR. (1982). "A preliminary account of the western growing-gourmet-north-american-reishi-species Omphalotus species." Mycotaxon, 15, 309-316.
   - Methven AS, Banning JT, Alford RE. (2010). "Omphalotus olivascens." MycoBank, Fungal Nomenclator.
-  - Kuo M. (2024). "[[omphalotus-olearius]] and allies." MushroomExpert.com.
-created: 2026-04-28
----
-
-# Omphalotus olivascens
-
-Omphalotus olivascens, commonly known as the western jack-o'-lantern mushroom, is a bioluminescent basidiomycete fungus found in western [[guzman-psilocybin-mushrooms-north-america]].
+  - Kuo M. (2024). "[[guzman-psilocybin-mushrooms-north-america]].
 
 It is one of several Omphalotus species that produce a greenish glow in darkness via the enzyme luciferase oxidizing the substrate luciferin.
 
-Despite its visual similarity to the edible chanterelle ([[cantharellus-cibarius-entity]]), O. olivascens is poisonous and causes severe gastrointestinal distress upon ingestion.
-
-## Taxonomy and Morphology
-
-- **Kingdom:** Fungi
-- **Division:** Basidiomycota
-- **Class:** Agaricomycetes
-- **Order:** Agaricales
-- **Family:** Omphalotaceae
-- **Genus:** Omphalotus
-- **Species:** O. olivascens (A.H. Sm. & H.V. Sm.) O.K. Mill. (1986)
-
-**Basidiomata** are pleurotoid to centrally stipitate, 3–12 cm in diameter. The pileus surface is smooth to slightly wrinkled, ranging from olive-green to brownish-orange, often with concentric zones of color.
-
-The flesh is firm and pale yellow, darkening slowly on exposure. Gills are decurrent, narrow, and close, initially pale cream before developing orange tones with age.
-
-[[macrofungal-documentation-photography-spore-prints]] are cream to pale yellow. Basidiospores are 5.5–8 × 4–5 µm, ellipsoid, smooth, and inamyloid.
+Despite its visual similarity to the edible chanterelle ([[macrofungal-documentation-photography-spore-prints]] are cream to pale yellow. Basidiospores are 5.5–8 × 4–5 µm, ellipsoid, smooth, and inamyloid.
 
 The stipe, when present, is eccentric to lateral, 1–3 cm long and 0.5–1.5 cm thick, with a color matching the pileus.
 
@@ -55,31 +33,7 @@ The species grows saprotrophically on dead or dying hardwoods, especially oaks (
 
 It is commonly found at the base of stumps, on buried roots, and on fallen logs in mixed evergreen forests and oak woodlands.
 
-Unlike its eastern relative O. olearius, which associates with olive trees, the western species shows no strong [[fungal-endemism-host-specificity]] beyond a preference for Quercus.
-
-## Bioluminescence
-
-Omphalotus olivascens is one of approximately 100+ known bioluminescent fungal species and the most commonly encountered luminous mushroom in western North America.
-
-The green glow (peak emission ~530 nm) is produced exclusively by the gills and hymenophoral tissue, visible in complete darkness after the eyes have adapted for several minutes.
-
-The bioluminescence is mediated by a luciferin–luciferase system distinct from that of fireflies and marine organisms.
-
-The fungal luciferin is a hispidin derivative, and the reaction requires molecular oxygen, producing oxyluciferin, CO₂, and light.
-
-Light emission is continuous under favorable conditions but is not visible in daylight or under artificial lighting.
-
-The biological function of fungal bioluminescence remains debated. Hypotheses include [[aquatic-fungi-spore-dispersal-ingold]] attraction of nocturnal insects, detoxification of [[reactive-oxygen-species-and-oxidative-stress]], and a byproduct of metabolic pathways.
-
-Circadian regulation has been demonstrated in related Omphalotus species, with peak bioluminescence occurring at night.
-
-## Chemistry and Bioactive Compounds
-
-Illudin S (C₁₅H₂₀O₄, MW 264.32) and illudin M (C₁₅H₂₀O₃, MW 248.32) are the primary toxic sesquiterpenes isolated from Omphalotus species.
-
-These compounds are reactive alkylating agents that generate DNA adducts and have been investigated as leads for anticancer drug development.
-
-A semisynthetic derivative of illudin S, irofulven (6-hydroxymethylacylfulvene), reached Phase II [[mushroom-cancer-clinical-trials-overview]] for treatment of ovarian and prostate cancers.
+Unlike its eastern relative O. olearius, which associates with olive trees, the western species shows no strong [[aquatic-fungi-spore-dispersal-ingold]] attraction of nocturnal insects, detoxification of [[mushroom-cancer-clinical-trials-overview]] for treatment of ovarian and prostate cancers.
 
 The fungal luciferin structure was partially characterized in 2015 and fully elucidated in 2018 as 3-hydroxyhispidin.
 
@@ -88,3 +42,86 @@ Additional [[antifungal-secondary-metabolites-coprophilous-fungi]] include illud
 ## Toxicity
 
 Omphalotus olivascens contains illudin S and illudin M, sesquiterpene compounds responsible for its toxicity.
+
+## Overview
+
+Omphalotus Olivascens represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish omphalotus olivascens
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving omphalotus extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Omphalotus Olivascens finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for omphalotus olivascens. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+omphalotus olivascens and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Omphalotus Olivascens has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of omphalotus olivascens into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[bloomfield-bioluminescent-fungi-omphalotus-panellus-buller]]
+- [[omphalotus-illudens]]
+- [[omphalotus-olearius]]

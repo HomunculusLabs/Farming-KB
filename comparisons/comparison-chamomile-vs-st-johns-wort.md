@@ -10,7 +10,7 @@ sources: []
 
 ## Overview
 
-[[chamomile-growing-guide]] and [[st-johns-wort-guide]] are two of the most
+[[st-johns-wort-guide]] are two of the most
 widely used medicinal herbs in Western herbalism, yet they serve markedly
 different primary functions. Chamomile is the quintessential gentle nervine,
 best known for promoting relaxation, easing digestive discomfort, and
@@ -23,34 +23,8 @@ and herbalists choose the right plant for their needs and use each safely.
 
 ## Chamomile
 
-[[chamomile-growing-guide]]
-Chamomile (primarily German chamomile, Matricaria chamomilla) is an annual
-or tender perennial in the Asteraceae family. It is one of the most ancient
-medicinal plants, with recorded use dating back to Egyptian, Greek, and
-Roman civilizations. The herb contains apigenin, which binds GABA receptors
-to produce a mild sedative effect, along with chamazulene and bisabolol for
-anti-inflammatory action.
-
-Chamomile excels as a gentle, everyday remedy. Its primary applications
-include promoting sleep and relaxation, relieving digestive complaints such
-as gas and bloating, and reducing inflammation when applied topically. The
-flowers are commonly brewed as a tea, which is safe for most people
-including children at appropriate doses. German chamomile is preferred for
-tea production due to its higher essential oil content and prolific flower
-yield, while Roman chamomile serves better as a low-growing ground cover.
-
-Cultivation is straightforward. German chamomile prefers full sun and
-well-drained, sandy soil. It self-seeds readily and can produce a
-continuous harvest of flowers throughout the growing season. Flowers are
-harvested at full bloom on dry mornings and dried on screens at low heat.
-A small garden patch can supply a household with dried chamomile for a full
-year. The plant is generally safe, though individuals with ragweed allergies
-should exercise caution.
-
-## St. John's Wort
-
 [[st-johns-wort-guide]]
-St. John's Wort (Hypericum perforatum) is a hardy perennial in the
+St. John's Wort ([[hypericum-perforatum]]) is a hardy perennial in the
 Hypericaceae family, native to Europe and now naturalized across much of
 North America. Its name comes from flowering around St. John's Day (June
 24). The plant contains hypericin and hyperforin, compounds that influence
@@ -126,7 +100,5 @@ more informed, cautious application.
 
 ## See Also
 
-- [[comparison-calendula-vs-chamomile]]
 - [[comparison-valerian-vs-st-johns-wort]]
-- [[comparison-arnica-vs-st-johns-wort]]
 - [[comparison-valerian-vs-chamomile]]

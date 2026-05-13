@@ -59,7 +59,7 @@ Some tribal practitioners could even induce fibrillation in heart nerves — a p
 
 ## The Anasazi Spiral Calendar
 
-Perhaps the most striking example of pattern encoding is the **Anasazi spiral** petroglyph, inscribed on a rock surface near the top of a mesa in the desert country of the southwestern USA. The apparently simple spiral form has 19 intercepts on its "horizon" line. Three carefully balanced and shaped rock slabs serve as gnomons that cast moon-shadows or direct vertical daggers of sunlight to the points of the spiral.
+Perhaps the most striking example of pattern encoding is the **[[anasazi-spiral]]** petroglyph, inscribed on a rock surface near the top of a mesa in the desert country of the southwestern USA. The apparently simple spiral form has 19 intercepts on its "horizon" line. Three carefully balanced and shaped rock slabs serve as gnomons that cast moon-shadows or direct vertical daggers of sunlight to the points of the spiral.
 
 The 19 intersection points mark where the shadow of the moon is cast by a gnomon on the spiral, indicating the **lunar elevation or 19-year (actually 18.6-year) Metonic cycle** caused by the sway of the Earth's axis. Thus, one simple spiral simultaneously records:
 
@@ -67,7 +67,7 @@ The 19 intersection points mark where the shadow of the moon is cast by a gnomon
 - **Solar cycles** (equinoxes and solstices) for planting regulation
 - The **18.6-year cycle of drought and flood**
 
-The Anasazi culture is now extinct, and only persistent investigation by Anna Soaer (an artist with intuitive observational skills) revealed the significance of this arrangement. Scientists had often doubted the capacity of tribal peoples to pattern such long-term, complex events.
+The Anasazi culture is now extinct, and only persistent investigation by [[anna-soaer]] (an artist with intuitive observational skills) revealed the significance of this arrangement. Scientists had often doubted the capacity of tribal peoples to pattern such long-term, complex events.
 
 ## Wisdom and Revelation in Tribal Society
 
@@ -81,7 +81,5 @@ A Pitjantjatjara woman, upon seeing a small desert flower come into bloom, knew 
 
 ## See Also
 
-- [[implicate-order-and-unity-of-nature]]
 - [[mnemonics-of-meaning]]
-- [[arts-in-the-service-of-life]]
 - [[pattern-understanding-in-permaculture]]

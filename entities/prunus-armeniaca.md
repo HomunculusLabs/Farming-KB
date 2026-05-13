@@ -27,33 +27,9 @@ Global production exceeds 4 million tonnes annually, with Turkey, Uzbekistan, Ir
 
 **Prunus armeniaca** L. was described by Linnaeus in 1753. The specific epithet *armeniaca* reflects the historical belief that the species originated in Armenia, though modern botanical evidence points to a Central Asian origin.
 
-Genetic studies using SSR markers and chloroplast DNA confirm Chinese and Central Asian populations as the primary [[cannabis-gene-pool-preservation-acclimatization-clarke]], with European and North African cultivars derived from introductions along the Silk Road.
+Genetic studies using SSR markers and chloroplast DNA confirm Chinese and Central Asian populations as the primary [[coleman-overwintered-onions-and-early-spring-crops]].
 
-The tree is a medium-sized deciduous tree reaching 4–10 m in height with a spreading crown. Bark is dark gray to brown, becoming fissured with age. Branches are spreading to ascending, with short spur shoots bearing most of the fruit.
-
-The root system is predominantly fibrous and relatively shallow, extending to 1–1.5 m depth in well-drained soils. This shallow rooting makes the tree sensitive to waterlogging but also facilitates cultivation in rocky, mountainous terrain.
-
-Leaves are alternate, ovate to cordate, 5–9 cm long and 4–8 cm wide, with finely serrate margins, acuminate tips, and a rounded base. The petiole bears 2–5 nectary glands near the blade attachment.
-
-Flowers are borne singly or in pairs on short pedicels before leaf emergence in [[coleman-overwintered-onions-and-early-spring-crops]].
-
-Each flower is 20–30 mm in diameter with 5 white to pale pink petals, numerous stamens, and a single pistil. Flowering occurs 1–3 weeks before peach (*[[prunus-persica]]*) in the same location, making apricot particularly vulnerable to late spring frosts.
-
-Fruits are drupes (stone fruits), 2–5 cm in diameter, globose to ovoid, with yellow to orange skin often blushed with red.
-
-The flesh is sweet, juicy, and aromatic, enclosing a single hard, woody endocarp (stone) containing the seed (kernel). Flesh texture varies among cultivars from melting and soft to firm and crisp.
-
-## Distribution and Habitat
-
-The species is native to the mountainous regions of Central Asia, spanning the Tien Shan and Pamir-Alai ranges of Kazakhstan, Kyrgyzstan, Tajikistan, and western China (Xinjiang). Wild populations persist in these regions.
-
-It is widely cultivated across [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]] between 35° and 55° latitude, from the Mediterranean basin and Central Asia through southern Europe to the western [[dmt-containing-plants-united-states-halpern]] (California), South Africa, Australia, and Chile.
-
-Turkey is the world's largest producer, accounting for approximately 20% of global supply. The Malatya region of Turkey is particularly famous for dried apricot production, with ideal climate conditions of hot, dry summers.
-
-Apricots require a specific chilling requirement of 300–1,000 chill hours (below 7°C) to break dormancy. They are adapted to continental climates with cold winters and warm, dry summers.
-
-Spring frost during bloom is the primary climatic risk, as even brief sub-zero temperatures during flowering can destroy the entire season's crop. Windbreaks and overhead sprinkler systems are used for [[holzer-frost-protection-techniques]] in commercial orchards.
+Each flower is 20–30 mm in diameter with 5 white to pale pink petals, numerous stamens, and a single pistil. Flowering occurs 1–3 weeks before peach (*[[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]] between 35° and 55° latitude, from the Mediterranean basin and Central Asia through southern Europe to the western [[holzer-frost-protection-techniques]] in commercial orchards.
 
 ## Cultivation
 
@@ -61,30 +37,95 @@ Apricot trees prefer well-drained, deep, loamy soils with a pH of 6.0–7.5. The
 
 Trees are typically propagated by budding or grafting onto rootstocks such as *Prunus armeniaca* seedling, *P. cerasifera* (myrobalan plum), or *P. persica* (peach).
 
-The choice of rootstock affects tree vigor, [[dighton-fungal-drought-tolerance-plant-water-relations]], and disease resistance. Myrobalan plum rootstock is preferred in heavier, wetter soils, while apricot seedling rootstock is used in drier, well-drained sites.
+The choice of rootstock affects tree vigor, [[query-difference-between-white-rot-and-brown-rot-fungi]] (*Monilinia laxa*) are the most significant diseases. Brown rot is particularly damaging in humid climates, causing rapid fruit decay near harvest.
 
-Trees begin bearing fruit 3–4 years after planting and reach full production by year 7–8. Average yields range from 10–25 tonnes per hectare depending on cultivar, rootstock, and management.
-
-Major pests include the oriental fruit moth (*Grapholita molesta*), plum curculio (*Conotrachelus nenuphar*), and aphids.
-
-Bacterial canker (*Pseudomonas syringae*) [[query-difference-between-white-rot-and-brown-rot-fungi]] (*Monilinia laxa*) are the most significant diseases. Brown rot is particularly damaging in humid climates, causing rapid fruit decay near harvest.
-
-[[cannabis-harvest-timing-visual-cues]] is critical as apricots ripen rapidly and have a short window of optimal quality. Fruits are typically harvested when firm-ripe, as they continue to soften after harvest but do not develop additional sweetness off the tree.
-
-## Nutritional Value
-
-Fresh apricots provide approximately 48 kcal per 100 g, with carbohydrates (11 g/100 g) as the primary macronutrient.
-
-They are an excellent source of provitamin A carotenoids, primarily beta-carotene, providing 25–35% of the daily value per 100 g serving. The orange-red skin blush correlates with higher lycopene content.
-
-Vitamin C content ranges from 10–15 mg/100 g. The fruit also provides potassium (259 mg/100 g), dietary fiber (2 g/100 g), and moderate amounts of vitamin E, iron, and magnesium.
-
-Polyphenol content includes chlorogenic acid, catechins, and quercetin glycosides, which contribute to the antioxidant capacity measured by ORAC assays.
-
-Dried apricots are nutritionally concentrated, with approximately 241 kcal per 100 g and significantly elevated levels of potassium (1,162 mg/100 g), iron (2.7 mg/100 g), and beta-carotene.
-
-Sulfur dioxide is commonly used as a preservative in commercial dried apricots to maintain color. Unsulfured dried apricots are available but have a darker brown color and shorter [[ingham-aact-holding-time-shelf-life-decay]].
+[[ingham-aact-holding-time-shelf-life-decay]].
 
 ## Compounds and Hazards
 
 Apricot kernels contain amygdalin, a cyanogenic glycoside that hydrolyzes to release hydrogen cyanide (HCN) upon digestion. Bitter kernels contain 3–5% amygdalin, while sweet kernels contain less than 0.1%.
+
+## Overview
+
+Prunus Armeniaca represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish prunus armeniaca
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving prunus extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Prunus Armeniaca finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for prunus armeniaca. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+prunus armeniaca and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Prunus Armeniaca has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of prunus armeniaca into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[prunus-avium]]
+- [[prunus-cerasus]]
+- [[prunus-domestica]]
+- [[prunus-persica]]
+- [[prunus-serotina]]

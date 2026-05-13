@@ -51,10 +51,7 @@ effect that counteracts liming over time.
 
 Slaked lime (calcium oxide), sometimes sold as garden lime, is the
 most readily available form and lasts longer in soil than builder's
-lime. [[cervantes-hydrated-lime-quicklime-ph-adjustment]], or builder's lime, works well but must be
-replaced at least annually. Ground limestone, often known as dolomite
-lime, is the best type; it is more expensive but lasts several years
-and contains magnesium, an important [[cervantes-secondary-nutrient-deficiency]]. Calcified
+lime. [[cervantes-secondary-nutrient-deficiency]]. Calcified
 seaweed contains several plant foods as well as lime and lasts in
 soil for two to three years.
 
@@ -66,9 +63,7 @@ Never apply lime to soil that has just been manured because it will
 combine with the manure to form ammonia gas, releasing nitrogen
 into the air and wasting valuable fertility. This timing
 requirement means careful planning within your
-[[hamilton-composting-and-organic-matter-management]]
-applied by organic gardeners will usually lower the pH sufficiently.
-For very chalky soils, grow vegetables on the [[hamilton-mulching-materials-and-techniques]] all help acidify soil.
+[[hamilton-mulching-materials-and-techniques]] all help acidify soil.
 
 ## pH and Nutrient Availability
 
@@ -76,17 +71,7 @@ Soil pH affects the availability of many plant nutrients. At very
 low or very high pH values, essential nutrients become locked in
 forms that plant roots cannot absorb. This is why maintaining pH
 around 6.5 is important for most crops. See
-[[hamilton-organic-fertilizers-and-plant-nutrition]] for nutrient
-management in relation to soil acidity.
-
-## Crop-Specific pH Requirements
-
-Different crops have specific pH preferences. Brassicas need pH
-6.5 to 7.0 and benefit from liming. Potatoes prefer acid soil and
-should not be limed. Legumes tolerate a range of pH but do best
-around 6.5. Root vegetables generally need pH above 6.5 to avoid
-certain diseases. Understanding these preferences allows you to
-adjust pH in different plots according to your [[query-how-do-i-design-a-crop-rotation-plan-for-my-vegetable-garden]].
+[[query-how-do-i-design-a-crop-rotation-plan-for-my-vegetable-garden]].
 
 ## Practical Applications
 
@@ -117,8 +102,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[det]]
 - [[composting]]
-- [[hamilton-geoffhamilton-nick-organic-gardening-soil-types-and-management]]
 - [[hamilton-composting-and-organic-matter-management]]
 - [[savory-supplemental-feeding-and-winter-management]]

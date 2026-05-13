@@ -10,7 +10,7 @@ sources: []
 
 ## Overview
 
-Maitake (*Grifola frondosa*) and oyster mushrooms (*Pleurotus* spp.) represent
+Maitake (*[[grifola-frondosa]]*) and oyster mushrooms (*Pleurotus* spp.) represent
 two very different ends of the mushroom cultivation difficulty spectrum. Oyster
 mushrooms are widely considered the easiest and most forgiving species to grow,
 making them the default recommendation for beginners. Maitake, by contrast, is
@@ -19,30 +19,6 @@ control and patient attention across a longer growth cycle. Both offer excellent
 nutritional and medicinal value, but they suit very different growers.
 
 ## Oyster Mushrooms
-
-[[growing-gourmet-oyster-cultivation]]
-
-Oyster mushrooms are the workhorse of small-scale and commercial mushroom
-farming worldwide. Production surged from 169,000 metric tons in 1987 to over
-909,000 by 1990, reflecting their extraordinary adaptability. They grow on
-nearly any lignocellulosic waste — straw, sawdust, coffee grounds, cardboard,
-corn cobs, sugarcane bagasse, and more — making them ideal for recycling
-agricultural byproducts into protein-rich food.
-
-Their biological efficiency frequently exceeds 100%, meaning growers harvest
-more fresh mushroom weight than the dry substrate they started with. Spawn run
-completes in just 10-14 days at 24-29°C, and fruiting follows quickly after a
-simple drop in temperature and increase in fresh air. Oyster species tolerate
-wide ranges of CO2, humidity, and temperature, forgiving most operator errors.
-Multiple flushes are common, and total crop cycles finish in 4-6 weeks.
-
-The main challenges are their high spore loads (which require ventilation in
-enclosed spaces) and short shelf life after harvest. Several species within the
-genus offer different flavor profiles and growing parameters, including king
-oyster (*P. eryngii*), golden oyster (*P. citrinopileatus*), and the standard
-tree oyster (*P. ostreatus*).
-
-## Maitake
 
 [[grifola-frondosa-maitake]]
 
@@ -122,8 +98,6 @@ share incubation space during spawn run if temperature ranges overlap.
 
 ## See Also
 
-- [[growing-gourmet-oyster-cultivation]]
 - [[grifola-frondosa-maitake]]
-- [[comparison-shiitake-vs-oyster-cultivation]]
 - [[comparison-maitake-vs-shiitake-cultivation]]
 - [[cultivation-of-oyster-mushrooms]]

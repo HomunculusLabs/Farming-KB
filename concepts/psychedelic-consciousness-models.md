@@ -9,35 +9,7 @@ sources: ["raw/papers/the-psilocybin-solution-by-simon-g-powell.md"]
 
 # Psychedelic Consciousness Models and Information Theory
 
-The question of what consciousness is and how it relates to physical matter lies at the heart of understanding the [[leary-psychedelic-experience-bardo-mapping]].
-
-From the vantage point of psychedelic investigation, a new theoretical framework emerges: consciousness is a form of information substantiated within the brain's neuronal firing activity, and this cerebral information has a natural tendency to organize and integrate itself.
-
-This informational model of consciousness, developed through analysis of entheogenic phenomenology, offers a bridge between the physical and psychological worlds that traditional philosophy has struggled to cross for centuries.
-
-Entheogenic agents like psilocybin provide compelling evidence for the proposition that consciousness is a form of information, and that this kind of cerebral information has a tendency to organize and integrate itself.
-
-## The Mind/Body Problem
-
-The issue of understanding exactly what consciousness is -- formally known as the mind/body problem -- was first fully documented by Descartes in the 17th century.
-
-Descartes concluded there were two sorts of universal stuff: mind and matter, interacting in some mysterious ghostlike way. This dualistic "ghost in the machine" view has annoyed philosophers and scientists alike.
-
-Scientists in particular dislike talk of incorporeal entities not located in 3-dimensional space somehow being able to interact with matter. Perhaps this explains why most psychologists have until quite recently been content to ignore the issue of consciousness entirely.
-
-Consciousness defines us -- it is the very ground of our being human, the stuff which mediates all science, all reasoning, and all theories about the world. Consciousness can therefore be considered the "stuff" which mediates all science and all of our theories about the world.
-
-## The Informational Monism Alternative
-
-The alternative proposed by psychedelic investigation is "informational monism" -- the position that reality consists of one stuff only: information.
-
-Both mind and matter are particular forms of information. The nature of the entheogenic experience suggests we embrace this scenario over Cartesian dualism, since psilocybin bridges perfectly the conceptual gap between the two seemingly incompatible worlds of mind and matter.
-
-We should either side with the old Cartesian dualist belief or launch ourselves wholeheartedly into an alternative informational monism in which the reality process consists of one stuff only: information. As the nature of the entheogenic experience suggests, we should embrace the latter scenario.
-
-## Evidence from Entheogenic Action
-
-Chemistry implies chemicals and substances -- clearly "material" things -- whereas [[weil-the-natural-mind-altered-states-normalcy]] of awareness lie in the realm of the intangible mind.
+The question of what consciousness is and how it relates to physical matter lies at the heart of understanding the [[weil-the-natural-mind-altered-states-normalcy]] of awareness lie in the realm of the intangible mind.
 
 Various types of substance, particularly those with a close molecular resemblance to the brain's neurotransmitters, elicit fairly predictable and characteristic changes in consciousness. If we consider psilocybin, it bridges the conceptual gap between the two worlds perfectly.
 
@@ -49,19 +21,7 @@ Evidence that consciousness is informational comes from observing that chemicall
 
 Evidence that cerebral information has a tendency to organize itself came from examining entheogenic phenomenology and dreaming. Both processes highlight the way in which psychological information organizes itself without a deliberate effort on our part.
 
-We can find ourselves experiencing shamanic visions after ingesting entheogenic agents or likewise find ourselves experiencing elaborate dream scenarios whilst we sleep (perhaps mediated by [[mckenna-endogenous-dmt-brain-familiarity]]).
-
-The entheogenic visionary state represents an extreme manifestation of informational organization -- so much so that a third proposition suggests itself: that an intelligent Other, distinct from the ego/self, lies behind the sacred thrust of psychedelic phenomenology.
-
-Such a dissociated Other can be considered to represent an organized source of intentional information which communicates with an individual whose neuronal system is infused with entheogenic alkaloids.
-
-## The Snowflake Analogy
-
-Just as elements like carbon, hydrogen, nitrogen, and oxygen naturally organize themselves into specific stable structures like water, carbon dioxide, and amino acids, so too can information in the brain organize itself.
-
-Frozen temperature acts to elicit the structured patterns exhibited by snowflakes, whereas psilocybin acts to elicit the structured patterns of neuronal activity that come to be experienced as shamanic visions. Water molecules organize themselves according to the rules of a molecular language; neuronal firing patterns organize themselves according to the rules of a psychological language.
-
-If there are specific patterns and structures which emerge from large information-integration processes occurring within the brain, then this would explain the existence of [[powell-universal-symbology-in-entheogenic-visions]], universal dream images, and mythical archetypes found throughout all cultures and religions.
+We can find ourselves experiencing shamanic visions after ingesting entheogenic agents or likewise find ourselves experiencing elaborate dream scenarios whilst we sleep (perhaps mediated by [[powell-universal-symbology-in-entheogenic-visions]], universal dream images, and mythical archetypes found throughout all cultures and religions.
 
 ## Universal Symbology
 
@@ -88,3 +48,88 @@ The inner world becomes subject to pictographic myth, whilst the outer world rev
 This is the latent promise of the mushroom: to reveal psychological realms that can enrich our collective existence as living, breathing hominid creatures bound up within the Gaian system.
 
 ## Paradigm Shifts
+
+## Overview
+
+Psychedelic Consciousness Models represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish psychedelic consciousness models
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving psychedelic extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Psychedelic Consciousness Models finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for psychedelic consciousness models. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+psychedelic consciousness models and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Psychedelic Consciousness Models has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of psychedelic consciousness models into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[psychedelic-mushroom-pharmacology]]
+- [[psychedelic-psychotherapy-paradigms]]
+- [[psychedelic-safety-guidelines-turner]]
+- [[shamanic-vs-western-psychedelic-healing]]
+- [[turner-cydelikspace-and-psychedelic-reality]]

@@ -4,11 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Cool Temperate Forage Systems and Coppice
-
-## Overview
-
-Cool temperate climates present distinct challenges: short growing seasons, frost risk, cold winds, and limited winter forage availability. Mollison's documentation of successful cool temperate systems reveals a toolbox of strategies centered on nitrogen-fixing forage trees, coppice systems, small livestock integration, and protected growing environments that extend seasons and multiply yields.
+# Cool Temperate Forage Systems and [[cool-temperate-forage-systems-and-small-livestock|livestock]] integration, and protected growing environments that extend seasons and multiply yields.
 
 ## Tagasaste: The Premier Cool Climate Forage Tree
 
@@ -20,7 +16,7 @@ Tagasaste (*Chamaecytisus palmensis*, syn. *Cytisus proliferus*) is a fast-growi
 - Provides summer forage from coppice and short-period browsing by sheep
 - At 1-meter in-row spacing with 2-meter between rows, tagasaste provides productive browse while grasses thrive between rows (verified in DSIR trials by Doug Davies at Banks Peninsula, New Zealand)
 
-### Establishment Techniques
+### [[cool-temperate-establishment-and-pioneer-systems|Establishment]] Techniques
 
 At Canterbury Plain, New Zealand, tagasaste has been successfully drilled with turnip for future sheep forage. Seedling trees establish through the brassica crop, using the turnip as a nurse crop that provides temporary ground cover and microclimate protection during establishment.
 
@@ -144,17 +140,10 @@ At Whidbey Island, Washington, this pattern is replicated deliberately: fir stum
 
 At Kiewa, Victoria, Australia, Geoff Wallace observed free-seeded apple trees establishing in blackberry brambles — a traditional guild combination in England. Cattle demolish the brambles to reach the apples, and after the brambles are trodden down, the now-exposed apple trees prosper in their protected hole. Wallace now deliberately plants apples in brambles as a natural guild.
 
-## Key Principles for Cool Temperate Systems
+## See Also
 
-1. **Nitrogen-fixing trees are essential**: Tagasaste, autumn olive, Siberian pea shrub, and acacia provide forage, shelter, and soil fertility
-2. **Use pioneer species deliberately**: Even "weeds" like gorse serve valuable functions during succession
-3. **Coppice for multiple yields**: Willow and other coppiceable species produce food, fuel, medicine, and craft materials from the same plant
-4. **Integrate small livestock**: Rabbit and chicken tractors provide manure, pest control, and food production simultaneously
-5. **Create protected microclimates**: Herb spirals, chicken-heated greenhouses, and living windbreaks extend the effective growing season
-6. **Leverage forest edges**: Stumps, logs, and brambles create productive microsites for berries and fruit trees
-7. **Plan for winter forage**: Tagasaste, tree lucerne, and other evergreen forage species bridge the winter feed gap
-## See also
-
-- [[permaculture-design]]
-- [[homesteading-livestock-comparison]]
-- [[composting]]
+- [[solomon-cool-climate-compost-soil-temperature-nutrient-release]]
+- [[cool-climate-house-and-settlement-design]]
+- [[cool-temperate-systems-establishment]]
+- [[greenhouse-cool-climates-mollison]]
+- [[mollison-designers-cool-humid-climate-design-overview]]

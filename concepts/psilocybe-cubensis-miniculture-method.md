@@ -1,6 +1,6 @@
 ---
 title: Psilocybe Cubensis Miniculture Method
-aliases: [miniculture mushroom cultivation, half-pint jar mushroom grow, [[rye-grain-miniculture-production-parameters]]
+aliases: [miniculture mushroom cultivation, half-pint jar mushroom grow, rye-grain-miniculture-production-parameters
 tags: [mycology, cultivation, psilocybe-cubensis, miniculture, rye-grain, sterile-technique, flush-harvest]
 created: 2026-05-10
 source: variation-of-psilocybin-and-psilocin-levels-bigwood-beug.md
@@ -8,13 +8,13 @@ source: variation-of-psilocybin-and-psilocin-levels-bigwood-beug.md
 
 # Psilocybe cubensis Miniculture Method
 
-The miniculture method is a small-scale [[boil-a-bag-mushroom-cultivation-technique]] for *Psilocybe cubensis* developed by Bigwood and Beug (1982) as a controlled research platform for studying alkaloid production across [[psilocin-biosynthetic-delay-hypothesis-successive-flushes]]. Adapted from the rye-grain methods of San Antonio (1971) and Oss and Oeric (1976), the miniculture uses wide-mouth half-pint (~250 ml) jars to produce multiple flushes of mushrooms under reproducible conditions, yielding sufficient material for analytical chemistry while requiring minimal space and resources.
+The miniculture method is a small-scale [[psilocin-biosynthetic-delay-hypothesis-successive-flushes]]. Adapted from the rye-grain methods of San Antonio (1971) and Oss and Oeric (1976), the miniculture uses wide-mouth half-pint (~250 ml) jars to produce multiple flushes of mushrooms under reproducible conditions, yielding sufficient material for analytical chemistry while requiring minimal space and resources.
 
 ## Overview
 
 The miniculture is designed as a research tool rather than a production method. Its key advantages for alkaloid studies are:
 
-- **[[psilocybe-cubensis-strain-potency-variability-controlled-conditions-bigwood-beug]]**: All cultures use identical substrate composition, preparation, and [[mushroom-cultivation-environmental-parameters]]
+- **[[mushroom-cultivation-environmental-parameters]]
 - **Individual tracking**: Each jar is an independent culture unit, allowing flush-by-flush tracking of alkaloid levels
 - **Small scale**: A 250 ml jar yields an average of 2.7 g dry weight across all flushes, sufficient for HPLC analysis
 - **Multiple flushes**: Cultures continue producing mushrooms for at least 20 weeks (5+ flushes) when kept uncontaminated
@@ -24,7 +24,7 @@ The miniculture is designed as a research tool rather than a production method. 
 
 ### Substrate
 
-- **Rye grain**: 10 g per jar. Rye ([[secale-cereale]]) is preferred over other grains because its size, shape, and nutrient composition support vigorous [[mycelial-colonization]] and reliable fruiting
+- **Rye grain**: 10 g per jar. Rye ([[mycelial-colonization]] and reliable fruiting
 - **Water**: 15 ml deionized water per jar (1.5:1 water-to-grain ratio by volume)
 
 ### Casing Layer

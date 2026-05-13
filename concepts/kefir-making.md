@@ -9,7 +9,7 @@ sources: []
 
 ## What Is Kefir
 
-Kefir is a fermented milk or water beverage originating from the Caucasus Mountains. The word "kefir" comes from the Turkish "keif," meaning good feeling. Unlike yogurt, which uses a single [[comparison-wild-fermentation-vs-commercial-starter-culture]], kefir relies on a complex community of bacteria and yeast living symbiotically in grain-like structures called kefir grains.
+Kefir is a fermented milk or water beverage originating from the Caucasus Mountains. The word "kefir" comes from the Turkish "keif," meaning good feeling. Unlike yogurt, which uses a single starter culture, kefir relies on a complex community of bacteria and yeast living symbiotically in grain-like structures called kefir grains.
 
 There are two distinct types: milk kefir and water kefir. They use different grains and produce different beverages, though both are probiotic-rich fermented drinks.
 
@@ -17,7 +17,7 @@ There are two distinct types: milk kefir and water kefir. They use different gra
 
 ### Milk Kefir Grains
 
-Milk kefir grains are not actual cereal grains — they are gelatinous colonies of [[bionutrients-lab-lactic-acid-bacteria-serum]] (Lactobacillus, Lactococcus, Leuconostoc), yeasts (Kluyveromyces, Saccharomyces), and acetic acid bacteria bound together by a polysaccharide matrix called kefiran.
+Milk kefir grains are not actual cereal grains — they are gelatinous colonies of [[lactic-acid-bacteria]] ([[lactobacillus]], Lactococcus, Leuconostoc), yeasts (Kluyveromyces, Saccharomyces), and acetic acid bacteria bound together by a polysaccharide matrix called kefiran.
 
 Key characteristics:
 - Resemble small cauliflower florets, cream to white in color
@@ -33,11 +33,11 @@ Key characteristics:
 - Goat milk — produces thinner kefir with a tangier flavor
 - Sheep milk — rich, creamy result
 - Coconut milk — dairy-free option; grains may need periodic recovery in dairy milk
-- Avoid ultra-pasteurized (UHT) milk — the [[oyster-mushroom-heat-treatment-sterilization-pasteurization-worldwide]] damages proteins the grains need
+- Avoid ultra-pasteurized (UHT) milk — the heat treatment damages proteins the grains need
 
 ### Fermentation Process
 
-1. Place 1-2 tablespoons of milk kefir grains in a clean [[jarrold-glass-jar-spore-print-collection-drying]]
+1. Place 1-2 tablespoons of milk kefir grains in a clean glass jar
 2. Add 1-2 cups of milk (ratio: roughly 1 tablespoon grains per cup of milk)
 3. Cover loosely with a lid, cloth, or paper towel (not airtight — CO2 needs to escape)
 4. Ferment at room temperature (65-78F / 18-26C) for 12-36 hours
@@ -59,7 +59,7 @@ Key characteristics:
 After removing the grains, sealed second fermentation at room temperature for 4-12 hours adds carbonation and allows flavor additions:
 
 - Fruit purees (mango, strawberry, blueberry)
-- Sweeteners (honey, [[maple-syrup-production]], vanilla)
+- Sweeteners (honey, maple syrup, vanilla)
 - Spices (cinnamon, cardamom, nutmeg)
 - Cacao powder
 - Coffee
@@ -80,7 +80,7 @@ The microbe composition differs — water kefir grains contain fewer dairy-assoc
 4. Optionally add: 1/2 lemon wedge, a small piece of dried fig or raisin, or a slice of fresh ginger
 5. Cover loosely and ferment at room temperature for 24-48 hours
 6. Strain out grains and bottle the liquid
-7. Second ferment with [[bionutrients-lab-fermented-fruit-juice-ffj]], herbs, or flavors for 1-3 days for carbonation
+7. Second ferment with fruit juice, herbs, or flavors for 1-3 days for carbonation
 
 ### Sugar for Water Kefir
 

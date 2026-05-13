@@ -21,15 +21,11 @@ sources:
 
 *Crocus vernus* is a spring-flowering cormous perennial native to the mountains of southern and central Europe. It produces large, goblet-shaped flowers in shades of purple, lavender, and white, often with contrasting stripes on the outer petals.
 
-The species is the primary ancestor of the large-flowered Dutch crocuses widely sold in [[solomon-garden-centers-seedling-traps]] worldwide. Common names include spring crocus, giant crocus, and meadow crocus.
-
-It flowers in early to mid-spring (March–April in the Northern Hemisphere), emerging as one of the first colorful displays after winter. The blooms open wide in sunlight and close at night or during overcast conditions.
-
-Unlike autumn-flowering crocuses such as *[[crocus-sativus]]*, *Crocus vernus* produces flowers before or concurrent with foliage emergence. The leaves appear with or just after the flowers and persist for 6–8 weeks.
+The species is the primary ancestor of the large-flowered Dutch crocuses widely sold in [[crocus-sativus]]*, *Crocus vernus* produces flowers before or concurrent with foliage emergence. The leaves appear with or just after the flowers and persist for 6–8 weeks.
 
 The species has been cultivated since the sixteenth century and remains one of the most popular spring bulbs for naturalizing in lawns and borders. It requires minimal maintenance once established.
 
-Hybridization between *Crocus vernus* and other spring-flowering species has produced many garden cultivars. The best-known hybrids involve *Crocus flavus* and *Crocus biflorus*, expanding the available color range.
+Hybridization between *Crocus vernus* and other spring-flowering species has produced many garden cultivars. The best-known hybrids involve *[[crocus-flavus]]* and *Crocus biflorus*, expanding the available color range.
 
 ## Taxonomy and Morphology
 
@@ -61,9 +57,7 @@ Subsp. *vernus* is found in the eastern Alps and Carpathians, while subsp. *albi
 
 Plants grow at elevations of 500–2,500 meters in subalpine and alpine meadows, pastures, forest clearings, and rocky slopes. They prefer well-drained soils ranging from slightly acidic to calcareous.
 
-The species thrives in areas with cold winters, reliable snow cover, and moist spring conditions followed by dry summer dormancy. This Mediterranean-montane climate pattern drives the spring-flowering, summer-dormant [[agaricus-campestris-biology-and-life-cycle]].
-
-Naturalized populations are widespread across northern Europe, the British Isles, and [[polypore-fungi-eastern-north-america]]. Garden escapees establish readily in lawns, churchyards, and roadsides where mowing mimics natural meadow conditions.
+The species thrives in areas with cold winters, reliable snow cover, and moist spring conditions followed by dry summer dormancy. This Mediterranean-montane climate pattern drives the spring-flowering, summer-dormant [[polypore-fungi-eastern-north-america]]. Garden escapees establish readily in lawns, churchyards, and roadsides where mowing mimics natural meadow conditions.
 
 *Crocus vernus* is not considered threatened in its native range. Alpine meadow habitats face pressure from changing grazing patterns and climate warming at lower elevations.
 

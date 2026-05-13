@@ -15,38 +15,10 @@ The Modern Natural Farming Technology (MNFT) poster promotes an approach to cult
 ## Core Principles
 
 ### Everything You Need Is Already Available
-The poster repeatedly emphasises that materials for natural farming inputs are everywhere. The key realisation is that beneficial plants, [[comparison-dynamic-accumulators-vs-cover-crops]], and microbial inoculants exist in the local environment and can be harvested freely:
-
-- [[query-what-are-dynamic-accumulator-plants-and-how-do-i-use-them]] (Comfrey, Thistle, Nettle, Horsetail, Dandelion) grow wild in most regions
+The poster repeatedly emphasises that materials for natural farming inputs are everywhere. The key realisation is that beneficial plants, [[query-what-are-dynamic-accumulator-plants-and-how-do-i-use-them]] (Comfrey, Thistle, Nettle, Horsetail, Dandelion) grow wild in most regions
 - Vegetable and fruit scraps from the garden or kitchen become fermentation substrates
 - Egg shells from cooking become water-soluble calcium
-- Beneficial [[beneficial-indigenous-microorganisms-bim]] (IMO/BIM) live in the local soil
-- Brown rice and fruits available at any grocery store become the sugar base for fermentation
-
-### The Regenerative Cycle
-The poster frames natural farming as a closed-loop system:
-
-1. **Plants feed plants**: FPJ and FFJ extracts return plant nutrients to growing plants
-2. **Microbes build soil**: BIM/IMO decompose organic matter and make nutrients bioavailable
-3. **Waste becomes input**: Plant matter waste is minimised — everything that can be used, is used
-4. **Mulch and compost**: All organic material returns to the soil through mulching and composting
-5. **Spores and microbes spread**: Healthy plants and soils share their microbial communities with the surrounding environment
-
-### Foraging Over Purchasing
-The explicit instruction to "FORAGE!" positions the natural farmer as a gatherer rather than a buyer. This has several advantages:
-
-- **Zero input cost**: Beyond basic fermentation supplies (sugar, jars), all active ingredients are freely available
-- **Local adaptation**: Inputs made from local plants contain microorganisms and nutrients adapted to the local environment
-- **Biodiversity promotion**: Foraging from diverse species promotes ecological awareness and biodiversity
-- **Self-reliance**: The grower is not dependent on supply chains, shipping, or store availability
-
-## The Spectrum of Engagement
-
-The poster acknowledges that natural farming is not all-or-nothing. It describes a range of involvement:
-
-### Level 1: Dabbling
-- Some growers will simply experiment with FPJ and FFJ
-- Even small adoption of [[query-how-do-i-use-fermented-plant-extracts-in-my-garden]] improves soil biology and plant health
+- Beneficial [[query-how-do-i-use-fermented-plant-extracts-in-my-garden]] improves soil biology and plant health
 - This entry point requires minimal commitment and investment
 
 ### Level 2: Full Lifecycle Application
@@ -69,14 +41,8 @@ The input-free philosophy directly descends from Master Cho Han-Kyu's Korean Nat
 - Master Cho developed KNF in Korea in the 1960s, emphasising locally-sourced, self-produced inputs
 - The KNF community "graciously reminded us of Natural Farming" — acknowledging the debt to Korean tradition
 - Chris Trump's YouTube video series brought KNF methods to Western audiences, particularly cannabis growers
-- The poster applies these time-tested Korean [[natural-farming-principles-fukuoka]] to the specific lifecycle of cannabis
-
-## Connection to Fukuoka's Natural Farming
-
-While the poster's techniques are primarily from KNF, the underlying philosophy aligns with Masanobu Fukuoka's [[natural-farming-poster-korean-techniques-summary]] — detailed MNFT techniques and feeding schedules
-- [[fukuoka-four-principles-natural-farming]] — Fukuoka's foundational four principles
+- The poster applies these time-tested Korean [[natural-farming-poster-korean-techniques-summary]] — detailed MNFT techniques and feeding schedules
 - [[korean-natural-farming-imo-recipes]] — IMO collection as the foundation of input-free soil building
-- [[natural-farming-philosophy]] — broader natural farming philosophy
 - [[natural-farming-vs-organic-farming]] — comparison with certified organic approaches
 
 ## Practical Applications
@@ -93,8 +59,91 @@ When applying these concepts, consider regional variations, available resources,
 
 ## See Also
 
-- [[natural-farming-poster-korean-techniques-summary]]
 - [[natural-farming-poster-korean-methods-summary]]
-- [[chos-global-natural-farming-input-reduction-methods]]
 - [[what-natural-farming-method-should-i-use]]
 - [[soil-microorganisms-natural-farming]]
+
+## Overview
+
+Natural Farming Poster Input Free Farming represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish natural farming poster input free farming
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving natural extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Natural Farming Poster Input Free Farming finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for natural farming poster input free farming. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+natural farming poster input free farming and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Natural Farming Poster Input Free Farming has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of natural farming poster input free farming into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[fukuoka-textdoc-mahayana-hinayana-natural-farming-pursuit-of-nature]]
+- [[korean-natural-farming-fpj-and-ffp-recipes]]
+- [[mushroom-natural-habitats]]
+- [[natural-farming-do-nothing-agriculture]]
+- [[query-how-do-clay-seed-balls-work-for-natural-farming]]

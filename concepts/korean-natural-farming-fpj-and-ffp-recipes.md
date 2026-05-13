@@ -9,23 +9,14 @@ sources:
 ---
 # Korean Natural Farming FPJ and FFP Recipes
 
-[[bionutrients-lab-fermented-plant-juice-fpj]] (FPJ) and Fermented Fish Protein (FFP/FAA) are key Korean Natural [[natural-farming-inputs-cho]] that provide plants with bioavailable nutrients, [[gibberellins-plant-growth-hormones]], and enzymes. Both are simple to make from locally available materials.
-
-## Fermented Plant Juice (FPJ)
-
-### Purpose
-- Provides natural plant hormones (auxins, gibberellins, cytokinins)
-- Supplies sugars and amino acids for quick plant energy
-- Stimulates [[cannabis-vegetative-growth-stage]]
+[[natural-farming-inputs-cho]] that provide plants with bioavailable nutrients, [[cannabis-vegetative-growth-stage]]
 - Enhances flowering and fruiting (depends on plant used)
 
 ### Plant Selection
 - Choose fast-growing plants with abundant sap (high "chi" energy)
 - Collect before sunrise when plant sugars are highest
-- Best plants by [[cannabis-growth-stage-checklist]]:
-  - **[[coleman-overwintered-onions-and-early-spring-crops]]**: Japanese mugwort (Artemisia princeps), dropwort (Oenanthe javanica)
-  - **Summer**: Bamboo shoots, [[comparison-cassava-vs-taro-vs-sweet-potato-vs-yam]] vines, fast-growing weeds
-  - **Flowering**: Flowering branches of any plant (for [[knf-reproductive-growth-stage]] stimulation)
+- Best plants by [[coleman-overwintered-onions-and-early-spring-crops]]**: Japanese mugwort (Artemisia princeps), dropwort (Oenanthe javanica)
+  - **Summer**: Bamboo shoots, [[knf-reproductive-growth-stage]] stimulation)
   - **Fruiting**: Unripe fruit of the target crop (tomato FPJ for tomatoes)
 
 ### Method
@@ -51,30 +42,7 @@ sources:
 ## Fermented Fish Amino Acid (FFP/FAA)
 
 ### Purpose
-- Provides nitrogen and amino acids for [[green-cannabis-vegetative-growth]]
-- Excellent for crops needing a nitrogen boost
-- Faster-acting than compost nitrogen
-- Fish oil byproduct acts as insect repellent
-
-### Materials
-- Fish waste: heads, bones, entrails, whole small fish (fresh or frozen)
-- Brown sugar: 1:1 ratio with fish by weight
-- Clay jar
-
-### Method
-1. Crush fish waste to increase surface area
-2. Mix with brown sugar 1:1 by weight
-3. Pack into clay jar (fill to 2/3)
-4. The sugar draws moisture from the fish, creating a liquid extract
-5. Cover with breathable cloth
-6. Ferment for 6+ months (longer = more complete extraction)
-7. Strain the liquid for use
-
-### Storage and Use
-- Stores indefinitely at room temperature (high sugar content preserves it)
-- Dilution: 1:1000 with water (very concentrated)
-- Apply as soil drench or foliar spray
-- Best applied during [[knf-vegetative-growth-stage]]
+- Provides nitrogen and amino acids for [[knf-vegetative-growth-stage]]
 - Apply every 2-3 weeks
 - Fish oil that separates to the top can be used as insect repellent (dilute 1:1000)
 
@@ -118,8 +86,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[korean-natural-farming]]
 - [[natural-farming]]
-- [[korean-natural-farming-lab-and-ohn-recipes]]
 - [[fish-amino-acid]]
 - [[bionutrients]]

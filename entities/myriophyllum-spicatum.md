@@ -12,7 +12,7 @@ date: 2026-05-08
 updated: 2026-05-08
 sources:
   - Aiken, S.G., Newroth, P.R. & Wile, I. (1979). "The biology of Canadian weeds: Myriophyllum spicatum." Canadian Journal of Plant Science, 59(1), 201–215.
-  - Nichols, S.A. & Shaw, B.H. (1986). "Ecological life histories of the three aquatic nuisance plants, Myriophyllum spicatum, [[potamogeton-crispus]], and [[elodea-canadensis]]." Hydrobiologia, 131, 3–21.
+  - Nichols, S.A. & Shaw, B.H. (1986). "Ecological life histories of the three aquatic nuisance plants, Myriophyllum spicatum, elodea-canadensis." Hydrobiologia, 131, 3–21.
   - Smith, C.S. & Barko, J.W. (1990). "Ecology of Eurasian watermilfoil." Journal of Aquatic Plant Management, 28, 55–64.
   - Eiswerth, M.E. et al. (2000). "Economic analysis of watermilfoil control." Journal of Aquatic Plant Management, 38, 49–56.
 ---
@@ -21,9 +21,7 @@ sources:
 
 **Myriophyllum spicatum**, commonly known as Eurasian watermilfoil, is a submerged aquatic plant in the family Haloragaceae native to Europe, Asia, and North Africa.
 
-It is one of the most aggressive invasive aquatic plants in [[psilocybin-north-america-pacific-northwest]], where it was introduced in the 1940s and has since spread to most U.S. states and Canadian provinces.
-
-The species forms dense monospecific stands that displace native vegetation, impede recreation, and alter aquatic [[dighton-mycorrhizal-diversity-ecosystem-function]].
+It is one of the most aggressive invasive aquatic plants in [[dighton-mycorrhizal-diversity-ecosystem-function]].
 
 Its feathery submerged foliage and terminal emergent flower spikes make it readily identifiable in the field.
 
@@ -55,9 +53,7 @@ Flowers are small and inconspicuous, with reddish bracts and four tiny petals, a
 
 Native to Europe, temperate Asia, and North Africa, from the British Isles and Scandinavia to Japan.
 
-In [[guzman-psilocybin-mushrooms-north-america]] it was first recorded in the Chesapeake Bay area around 1942, likely introduced via ballast water or the aquarium trade.
-
-It now occurs in 45 U.S. states, most Canadian provinces, and has spread to parts of [[guzman-psilocybin-mushrooms-south-america]], Australia, and New Zealand.
+In [[guzman-psilocybin-mushrooms-south-america]], Australia, and New Zealand.
 
 The species colonizes a broad range of freshwater habitats including lakes, ponds, reservoirs, slow rivers, and irrigation canals.
 
@@ -65,11 +61,7 @@ It tolerates water depths from 0.5 to 10 meters, with optimal growth in 1–4 me
 
 Preferred substrates include fine sand, silt, and organic mud, though it can root in coarser gravels.
 
-The plant is highly tolerant of a wide [[query-what-is-the-ideal-temperature-range-for-growing-cannabis]], surviving winter dormancy under ice cover in northern latitudes.
-
-## Ecology and Interactions
-
-Eurasian watermilfoil forms dense surface canopies that shade out native submerged macrophytes and reduce [[aact-dissolved-oxygen-fine-bubble-aeration-ingham]].
+The plant is highly tolerant of a wide [[aact-dissolved-oxygen-fine-bubble-aeration-ingham]].
 
 These monospecific stands reduce habitat complexity compared to diverse native plant communities, negatively affecting fish and invertebrate diversity.
 

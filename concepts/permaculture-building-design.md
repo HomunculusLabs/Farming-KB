@@ -9,11 +9,11 @@ sources: [raw/papers/bill-mollison-permaculture-a-designers-manual.md]
 
 # Permaculture Building Design
 
-Permaculture building design treats the house as a living system interacting with its environment. Mollison emphasises that good house design is integral to [[permaculture-zone-0-house-design]] and must be planned in conjunction with the landscape, not imposed upon it.
+Permaculture building design treats the house as a living system interacting with its environment. Mollison emphasises that good house design is integral to [[permaculture-zone-0-house-design|Zone 0]] and must be planned in conjunction with the landscape, not imposed upon it.
 
 ## Thermal Mass and Insulation
 
-The interactions of thermal mass ([[coleman-soil-heat-storage-diurnal-freeze-thaw-cycle]]) and insulation (buffering for temperature extremes) plus sensible siting permit us to design efficient and safe housing over broad climatic ranges. These are the two fundamental variables in all house design.
+The interactions of thermal mass (heat storage) and insulation (buffering for temperature extremes) plus sensible siting permit us to design efficient and safe housing over broad climatic ranges. These are the two fundamental variables in all house design.
 
 - **Thermal mass**: Concrete slabs, mud brick, stone, or tiled floors in contact with the ground absorb solar heat and radiate it slowly. The floor area and earth beneath it are the critical heat stores for winter.
 - **Insulation**: Buffers temperature extremes. Edge-insulated floors (1 m deep foundation trench with 5-15 cm insulation) prevent stored earth heat escaping via surrounding soils.
@@ -38,7 +38,7 @@ The interactions of thermal mass ([[coleman-soil-heat-storage-diurnal-freeze-tha
 ## Passive Cooling Systems
 
 ### Earth Tunnels
-The ultimate cooling device: minimum 1 m deep and 20 m long, sloping downhill. Large unglazed pots, pans of wet coke, or curtains of coarse fibreglass weave drip-fed inside provide [[bloomfield-mushroom-evaporative-cooling-and-thermal-regulation]]. Cool humid air falls through the tunnel to house rooms.
+The ultimate cooling device: minimum 1 m deep and 20 m long, sloping downhill. Large unglazed pots, pans of wet coke, or curtains of coarse fibreglass weave drip-fed inside provide evaporative cooling. Cool humid air falls through the tunnel to house rooms.
 
 ### Induced Cross-Ventilation
 A black-painted sheet-metal solar chimney fitted to open from ceilings or roof ridges. As these heat up, they draw cool air into rooms from courtyards, shadehouses, or earth tunnels, creating continuous cool airflow.
@@ -50,7 +50,7 @@ A black-painted sheet-metal solar chimney fitted to open from ceilings or roof r
 
 ## The Trombe Wall
 
-A thick vertical wall of mud brick standing 0.5 m inside a room, faced with a glass window, acts as a heater long after dark. This is a retrofit option where [[comparison-passive-solar-vs-earth-sheltered]] slabs were not built into the original dwelling.
+A thick vertical wall of mud brick standing 0.5 m inside a room, faced with a glass window, acts as a heater long after dark. This is a retrofit option where passive solar slabs were not built into the original dwelling.
 
 ## Attached Structures
 
@@ -70,7 +70,7 @@ Mollison advocates local, non-toxic materials:
 - Timber (from community plantations)
 - Stone and gravel
 - Bamboo and rattan
-- [[comparison-wattle-and-daub-vs-cob-construction]]
+- Wattle and daub
 - Thatch
 - Concrete (with caution, for slabs and tanks)
 
@@ -85,7 +85,7 @@ For extreme climates, earth-sheltered or earth-bermed housing provides:
 
 ## Related Concepts
 
-- [[permaculture-zone-0-house-design]] -- Zone 0 as the centre of [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]]
+- [[permaculture-zone-0-house-design]] -- Zone 0 as the centre of permaculture design
 - [[permaculture-settlement-design]] -- community-scale building and placement
 - [[permaculture-fire-management]] -- fire-resistant construction
 - [[permaculture-temperate-design-strategies]] -- climate-specific building approaches

@@ -25,7 +25,7 @@ reducing properties.
 - Scientific name: Ocimum sanctum (syn. O. tenuiflorum)
 - Family: Lamiaceae (mint family)
 - Hardiness: USDA zones 10-11 (grown as annual in all other zones)
-- Lifecycle: Tender perennial, grown as annual [[query-how-to-grow-and-use-oca-in-temperate-climates]]
+- Lifecycle: Tender perennial, grown as annual in temperate climates
 - Height: 1-3 feet depending on variety
 - Bloom period: Summer through fall
 
@@ -37,7 +37,7 @@ Primary varieties:
 - Vana tulsi (O. gratissimum): Tall (3-4 feet), bright green leaves, strong
   camphor-like aroma. More frost-tolerant than other varieties.
 
-Note: Tulsi is distinct from culinary sweet basil ([[ocimum-basilicum]]), though
+Note: Tulsi is distinct from culinary sweet basil (Ocimum basilicum), though
 they are in the same genus. Tulsi is more medicinal, more intensely aromatic,
 and has a different flavor profile.
 
@@ -56,7 +56,7 @@ Key medicinal applications:
   Traditional use during cold and flu season; may reduce frequency and
   severity of respiratory infections.
 - Anti-inflammatory: Potent anti-inflammatory action comparable to NSAIDs
-  for mild [[cannabis-for-inflammatory-conditions]].
+  for mild inflammatory conditions.
 - Respiratory health: Traditional remedy for coughs, colds, bronchitis,
   and asthma. A warm tulsi tea is a classic home remedy for congestion.
 - Blood sugar regulation: May improve fasting blood glucose and HbA1c
@@ -71,7 +71,7 @@ Key medicinal applications:
 Traditional Ayurvedic uses include fever reduction, digestive disorders,
 headache, eye disorders, insect bites, and as a general longevity tonic.
 
-[[amanita-muscaria-preparation-methods]]:
+Preparation methods:
 - Tulsi tea: The most popular daily preparation. Steep 1-2 teaspoons dried
   leaves in hot water for 5-10 minutes. Drink 1-3 cups daily.
 - Fresh leaves: Chew 2-3 fresh leaves daily for immune support (traditional
@@ -96,7 +96,7 @@ Tulsi is a tropical plant that thrives in warm conditions:
 - Light: Full sun (6-8 hours minimum)
 - Soil: Prefers fertile, well-drained loam, pH 6.0-7.5
 - Water: Allow soil to dry slightly between waterings
-- Growing season: 90-120 days from [[query-how-to-grow-chili-peppers-from-seed-to-harvest]]
+- Growing season: 90-120 days from seed to harvest
 
 ### Starting from Seed
 
@@ -140,11 +140,10 @@ summer to root indoors.
 
 Tulsi is one of the best herbs for daily tea consumption:
 
-For fresh tea:
-1. Harvest 8-10 fresh leaves per cup
-2. Pour boiling water over leaves
-3. Cover and steep 5-7 minutes
-4. Strain and enjoy plain or with honey and lemon
+## See Also
 
-For dried tea:
-1. Harvest leafy stems before flowering for the best flavor
+- [[holy-grail-entity]]
+- [[schultes-datura-holy-flower-north-star]]
+- [[amanita-muscaria-holy-grail-theory-detailed]]
+- [[query-how-to-grow-and-use-basil-in-your-garden]]
+- [[comparison-echinacea-vs-tulsi]]

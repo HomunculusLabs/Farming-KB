@@ -80,14 +80,11 @@ Native to central and southern China (Guangdong, Guangxi, Sichuan, Guizhou,
 Yunnan), the species also grows in Japan, Korea, and Taiwan. It thrives in
 moist, well-drained soils in forest margins, valleys, and stream banks with
 partial shade to full sun, at elevations from 200 to 3,000 meters in
-subtropical to warm [[fukuoka-natural-farming-temperate-climates]] with 1,000–1,800 mm annual rainfall.
-Wild populations have declined from overharvesting; most commercial supply now
-comes from cultivation in Guangxi and Guizhou provinces.
-
-## Chemical Constituents
-
-The root contains diverse [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]]: the primary active constituent
+subtropical to warm [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]]: the primary active constituent
 is 2,3,5,4'-tetrahydroxystilbene-2-O-β-D-glucoside (THSG) at 1.5–3.0% dry
 
 ## See Also
 - [[tryptamine-family-overview]]
+
+## See Also
+- [[plants-of-the-gods-overview-hallucinogenic-plant-use]]

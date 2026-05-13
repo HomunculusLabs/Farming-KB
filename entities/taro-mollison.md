@@ -9,7 +9,7 @@ tags: [root-crop, staple-food, permaculture, tropical-agriculture, aroid]
 
 ## Description
 
-Taro is a tropical root crop mentioned by [[bill-mollison]] in *[[permaculture]]: A Designers' Manual* as one of the fail-safe subsistence crops that "hold constant value" in diverse agricultural systems. It is a starchy corm crop that has been cultivated for thousands of years across the tropics and subtropics, serving as a dietary staple for millions of people worldwide.
+Taro is a tropical root crop mentioned by [[permaculture]]: A Designers' Manual* as one of the fail-safe subsistence crops that "hold constant value" in diverse agricultural systems. It is a starchy corm crop that has been cultivated for thousands of years across the tropics and subtropics, serving as a dietary staple for millions of people worldwide.
 
 ## Classification
 
@@ -41,11 +41,7 @@ Taro is a tropical root crop mentioned by [[bill-mollison]] in *[[permaculture]]
 
 Taro is an exemplary permaculture crop for several reasons. It functions in multiple zones — from wetland edges to flood-irrigated paddies. Its broad leaves create shade that suppresses weeds and maintains soil moisture. The flooded cultivation systems support diverse aquatic ecosystems including beneficial microorganisms and fungi. Taro's role in traditional Polynesian agriculture demonstrates integrated land management where a single crop supports entire communities while maintaining ecological health.
 
-In mycological terms, taro's root zone supports diverse communities of beneficial fungi and microorganisms, particularly in flooded systems where anaerobic and aerobic zones create niches for varied fungal species. The organic matter from taro cultivation contributes to soil-building processes mediated by [[fungal-decomposition]].
-
-## Source Reference
-
-Mollison, B. (1988). *Permaculture: A Designers' Manual*. [[tagari-publications]]. Chapter 2, section on Maximum Product Yield Concept.
+In mycological terms, taro's root zone supports diverse communities of beneficial fungi and microorganisms, particularly in flooded systems where anaerobic and aerobic zones create niches for varied fungal species. The organic matter from taro cultivation contributes to soil-building processes mediated by [[tagari-publications]]. Chapter 2, section on Maximum Product Yield Concept.
 
 ## Overview and Definition
 - A key concept in ecological and sustainability studies
@@ -84,8 +80,6 @@ Mollison, B. (1988). *Permaculture: A Designers' Manual*. [[tagari-publications]
 - Adaptive management recommended for changing conditions
 
 ## Related Topics
-- [[mollison-designers-coffee-shade-growing-systems]]
 - [[mollison-designers-willow-water-and-natural-rooting-propagation]]
-- [[mollison-earthworks-planning-and-post-earthworks-planting]]
 - [[mollison-village-enterprises-occupations]]
 - [[mollison-orographic-and-forest-rainfall-effects]]

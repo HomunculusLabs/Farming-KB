@@ -10,7 +10,7 @@ sources: []
 
 ## Overview
 
-[[lions-mane-guide|Lion's Mane]] (Hericium erinaceus) and [[maitake-cultivation|Maitake]]
+[[maitake-cultivation|Maitake]]
 (Grifola frondosa) are two of the most valued medicinal mushrooms in cultivation.
 Lion's Mane is celebrated for its neuroprotective compounds and cognitive benefits,
 while Maitake is prized for its immune-modulating beta-glucans and culinary richness.
@@ -20,27 +20,6 @@ Choosing between them depends on your health goals, growing experience, and inte
 market or kitchen application.
 
 ## Lion's Mane
-
-[[hericium-erinaceus-lions-mane-cultivation|Hericium erinaceus]] produces cascading
-white spines rather than gills or pores. Its primary bioactive compounds — erinacines
-(found in mycelium) and hericenones (found in fruiting bodies) — stimulate nerve growth
-factor (NGF) synthesis in the brain. This has made Lion's Mane the subject of intense
-research for Alzheimer's disease, mild cognitive impairment, anxiety, and depression.
-It also shows anti-inflammatory, antioxidant, and gastrointestinal protective effects.
-
-Cultivation is moderately straightforward on supplemented hardwood sawdust blocks
-(75-80% sawdust, 18-22% bran). Colonization completes in 14-21 days at 70-75°F
-(21-24°C), and fruiting occurs at 60-70°F (16-21°C) with high humidity. Biological
-efficiency ranges from 75-150%, making it one of the more productive medicinal species.
-It is relatively forgiving of environmental fluctuations, suitable for intermediate
-growers moving beyond oyster mushrooms.
-
-Culinarily, Lion's Mane has a soft, lobster-like texture with a sweet, seafood-forward
-flavor. It is best pan-fried or roasted and does not dry/reconstitute as well as many
-other species. Its unique texture makes it a popular vegetarian substitute for crab
-or lobster in recipes.
-
-## Maitake
 
 [[maitake-cultivation|Grifola frondosa]], known as Hen of the Woods, forms large
 clustered rosettes of grayish-brown fan-shaped caps. A single wild specimen can reach
@@ -118,8 +97,6 @@ warmer temperatures than Maitake, allowing sequential use of the same chamber.
 
 ## See Also
 
-- [[lions-mane-guide]]
 - [[maitake-cultivation]]
-- [[maitake-d-fraction-research]]
 - [[cancer-medicinal-mushrooms-hericium-erinaceus]]
 - [[medicinal-mushrooms-reishi-and-maitake]]

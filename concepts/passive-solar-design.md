@@ -1,5 +1,5 @@
 ---
-title: Passive Solar Design
+title: [[comparison-passive-solar-vs-earth-sheltered]] Design
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
@@ -40,7 +40,7 @@ The long axis of the building should face within 15 degrees of true south (not m
 - Low-emissivity (low-E) coatings: Low-E with high solar heat gain coefficient (SHGC) on south windows
 
 **Window specifications by climate:**
-- [[query-best-kiwifruit-varieties-for-cold-climates]] (Zone 5-7): Triple-glazed, argon-filled, SHGC 0.50+
+- [[avalanche-phenomenon-cold-climates]] (Zone 5-7): Triple-glazed, argon-filled, SHGC 0.50+
 - Moderate climates (Zone 3-5): Double-glazed, argon-filled, SHGC 0.45+
 - Warm climates (Zone 1-3): Double-glazed, low SHGC 0.30 or less
 
@@ -58,7 +58,7 @@ Thermal mass stores heat from the sun during the day and releases it slowly at n
 - Concrete slab floors: R-value per inch is low, but mass is excellent
 - Stone: Granite, limestone, sandstone
 - Adobe and compressed earth block
-- [[cob-building-basics-detailed]] walls: Excellent thermal mass in [[query-how-do-i-choose-a-natural-building-method-for-my-climate]]
+- [[cob-building-basics-detailed|Cob]] walls: Excellent thermal mass in a [[natural-building]]
 - Water: The highest volumetric heat capacity of any common material
 - [[comparison-lime-plaster-vs-earthen-plaster]] over straw bale: Moderate mass
 
@@ -132,11 +132,11 @@ Even the best passive solar design fails without proper insulation and air seali
 - Prevent solar gain with properly sized overhangs
 - Deciduous trees shade east and west walls
 - Exterior shade screens block sun while allowing airflow
-- Light-colored roof reflects solar radiation
+- Light-colored roof reflects [[albedo-and-solar-radiation]]
 
 ## Design for Specific Building Types
 
-### [[tiny-house-on-wheels]]
+### [[tiny-house-on-wheels|Tiny Houses]]
 
 - Maximize south-facing windows relative to wall area
 - Heavy floor or a water-filled thermal mass container
@@ -144,7 +144,7 @@ Even the best passive solar design fails without proper insulation and air seali
 - Overhangs sized for your latitude
 - Insulation priority: Tiny houses have high surface-to-volume ratio
 
-### [[earthbag-building]]
+### [[earthbag-building|Earthbag Structures]]
 
 - Thick earth walls provide excellent thermal mass
 - Small, well-placed windows on south side

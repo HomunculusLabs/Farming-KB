@@ -17,21 +17,12 @@ type: concept
 
 # Design for Children and Education Gardens
 
-Designing [[gaias-garden-creating-community-gardens]] are powerful vehicles for
-transmitting ecological literacy. An education garden must function as both a
-productive growing system and a rich learning environment.
-
-## Principles of Children's Garden Design
-
-Children's gardens should prioritise hands-on interaction over observation.
-Every element should be accessible at child height and scale. Pathways must be
-wide enough for group movement and wheelchair access. [[comparison-raised-beds-vs-hugelkultur]] at 40 to 60
+Designing [[comparison-raised-beds-vs-hugelkultur]] at 40 to 60
 centimetres allow young children to reach the centre without stepping into the
 bed. Plantings should be dense, tactile, and responsive to encourage repeated
-engagement throughout [[soil-testing]], plant [[bloomfield-rust-fungi-life-cycles-barberry-wheat]], insect
+engagement throughout [[bloomfield-rust-fungi-life-cycles-barberry-wheat]], insect
 observation, and weather monitoring. Language through garden journals,
-observation writing, and [[mollison-designers-design-for-disaster-resilience]]
-- [[mollison-designers-snow-ice-and-winter-design-strategies]]
+observation writing, and [[mollison-designers-snow-ice-and-winter-design-strategies]]
 ## Practical Applications
 
 Design for Children and Education Gardens has a range of practical applications that make it relevant to

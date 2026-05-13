@@ -20,7 +20,7 @@ sources:
 
 ## Overview
 
-Brosimum alicastrum, commonly known as the breadnut or ramón tree, is a large evergreen tree in the family Moraceae. It is native to the neotropics, ranging from southern Mexico through [[guzman-allen-gartz-neurotropic-fungi-caribbean-central-america]] to northern [[guzman-psilocybin-mushrooms-south-america]] and the Caribbean.
+Brosimum alicastrum, commonly known as the breadnut or ramón tree, is a large evergreen tree in the family Moraceae. It is native to the neotropics, ranging from southern Mexico through [[guzman-psilocybin-mushrooms-south-america]] and the Caribbean.
 
 The species is valued for its edible seeds, which have served as a staple food for indigenous peoples for thousands of years. The seeds are nutritious, high in protein and complex carbohydrates, and can be prepared in various ways.
 
@@ -28,62 +28,87 @@ Breadnut is also an important timber species and a key component of agroforestry
 
 The genus name Brosimum derives from a Greek word meaning "edible," referring to the food value of the seeds. The specific epithet alicastrum combines Latin words for flour and chestnut, alluding to the seed's culinary properties.
 
-The species is experiencing renewed interest as a climate-resilient food crop for [[fukuoka-natural-farming-in-tropical-regions]]. Its [[dighton-fungal-drought-tolerance-plant-water-relations]], nutritional value, and compatibility with agroforestry systems make it a promising candidate for sustainable food security initiatives [[neurotropic-fungi-in-central-america]].
-
-## Taxonomy and Morphology
-
-**Taxonomy:**
-
-- Kingdom: Plantae
-- Order: Rosales
-- Family: Moraceae
-- Subfamily: Moroideae
-- Tribe: Moreae
-- Genus: Brosimum
-- Species: B. alicastrum Sw.
-
-The species was first described by Olof Swartz in 1788. Several subspecies have been recognized, with subsp. *alicastrum* occurring from Mexico to Nicaragua and subsp. *bolivarense* found in northern South America.
-
-Some authorities separate populations from the Yucatán Peninsula into subsp. *helicipoides*, which is characterized by smaller leaves and fruits. The taxonomy of the species complex remains somewhat unsettled.
-
-**Morphology:**
-
-Brosimum alicastrum is a large canopy tree typically reaching 20 to 30 meters in height, with exceptional individuals exceeding 45 meters. The trunk is straight and cylindrical, 40 to 80 centimeters in diameter at breast height, often with low buttresses at the base.
-
-The bark is gray to brown, rough and fissured, exuding a white to yellowish latex when cut. The inner bark is pinkish and fibrous. All plant parts contain characteristic milky latex typical of the Moraceae.
-
-Leaves are alternate, simple, elliptic to obovate, 8 to 25 centimeters long and 4 to 12 centimeters wide. The leaf blade is leathery in texture with entire margins and a prominent midrib. Young leaves are reddish and pubescent, becoming dark green and glabrous at maturity.
-
-The inflorescence is a globose head 1 to 2 centimeters in diameter, borne on short peduncles in the leaf axils. Male and female flowers are borne on separate heads (monoecious), with male heads more numerous than female heads.
-
-The fruit is a globose to ellipsoid drupe 2 to 4 centimeters in diameter, orange to yellow at maturity. Each fruit contains a single large seed 1.5 to 2.5 centimeters long, enclosed in a thin, sweet, orange fleshy pericarp.
-
-Fruiting occurs year-round in evergreen forests but peaks during the dry season in seasonally dry forests. This phenological pattern makes breadnut especially valuable as a food resource when other forest fruits are scarce.
-
-## Distribution and Habitat
-
-Brosimum alicastrum has a wide neotropical distribution, ranging from Veracruz and Oaxaca in southern Mexico through Belize, Guatemala, Honduras, El Salvador, Nicaragua, Costa Rica, and Panama. In South America, it occurs in Colombia, Venezuela, Ecuador, Peru, Bolivia, and the Guianas.
-
-The species is also native to the Caribbean islands, including Cuba, Jamaica, Hispaniola, Puerto Rico, and Trinidad. It has been introduced to southern Florida, where it occasionally naturalizes in tropical hardwood hammocks.
-
-Breadnut is found in a variety of tropical forest types including lowland evergreen rainforest, semi-deciduous forest, tropical dry forest, and cloud forest. It occurs from sea level to approximately 1,500 meters elevation.
-
-The species is remarkably tolerant of a range of environmental conditions. It grows on both limestone and volcanic substrates and tolerates seasonal drought periods of 3 to 5 months. It is one of the most abundant canopy trees in the Maya Forest region of the Yucatán Peninsula.
-
-Breadnut is shade-tolerant in its juvenile stage and can persist in the understory for many years before reaching the canopy. This life-history trait makes it well-suited for enrichment planting in secondary forests and agroforestry systems.
-
-## Cultivation and Uses
-
-**Food Use:**
-
-The seeds of Brosimum alicastrum have been a staple food for Maya and other Mesoamerican peoples for at least 3,000 years. Archaeological evidence from cave sites in the Yucatán Peninsula shows large quantities of breadnut seeds in pre-Columbian deposits.
-
-Seeds are prepared by boiling or roasting, after which they can be eaten directly or ground into flour for tortillas, breads, and beverages. The flavor has been described as similar to chestnut or potato, with a mild, nutty taste.
-
-The [[dighton-fungal-nutritional-composition-animal-diets]] of the seeds is impressive. They contain approximately 12 to 18 percent protein, 55 to 65 percent complex carbohydrates, 5 to 10 percent fat, and significant amounts of fiber, calcium, potassium, iron, and B vitamins.
+The species is experiencing renewed interest as a climate-resilient food crop for [[dighton-fungal-drought-tolerance-plant-water-relations]], nutritional value, and compatibility with agroforestry systems make it a promising candidate for sustainable food security initiatives [[dighton-fungal-nutritional-composition-animal-diets]] of the seeds is impressive. They contain approximately 12 to 18 percent protein, 55 to 65 percent complex carbohydrates, 5 to 10 percent fat, and significant amounts of fiber, calcium, potassium, iron, and B vitamins.
 
 The sweet, orange mesocarp surrounding the seed is also edible and has a mild, melon-like flavor. The latex exudate from the bark has been used historically as a chewing gum base.
 
 **Agroforestry and Restoration:**
 
 Breadnut is widely used in agroforestry systems throughout Central America. Its shade tolerance, rapid growth, and multiple products make it an ideal component of multi-strata agroforests and homegardens.
+
+## Overview
+
+Brosimum Alicastrum represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish brosimum alicastrum
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving brosimum extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Brosimum Alicastrum finds practical application in multiple design contexts.
+[[permaculture-principles]] guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for brosimum alicastrum. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+brosimum alicastrum and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Brosimum Alicastrum has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of brosimum alicastrum into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.

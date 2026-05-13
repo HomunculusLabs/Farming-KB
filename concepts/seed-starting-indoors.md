@@ -9,7 +9,7 @@ sources: [raw/papers/gardening-when-it-counts-steve-solomon.md]
 
 # Seed Starting Indoors
 
-How to raise your own vegetable transplants indoors, from [[steve-solomon]]'s *Gardening When It Counts*. Solomon prefers [[clay-seed-pellets-direct-seeding]] for most crops but acknowledges that raising your own seedlings is essential for tomatoes, peppers, eggplant, and other heat-loving crops in shorter-season areas.
+How to raise your own vegetable transplants indoors, from Steve Solomon's *Gardening When It Counts*. Solomon prefers direct seeding for most crops but acknowledges that raising your own seedlings is essential for tomatoes, peppers, eggplant, and other heat-loving crops in shorter-season areas.
 
 ## Why Raise Your Own
 
@@ -24,7 +24,7 @@ Garden center transplants are deeply suspect for several reasons:
 ## Container Selection
 
 Use pots that hold slightly more than a half pint (250 ml) of soil. Options include:
-- Clean [[query-fabric-pots-vs-plastic-pots-vs-air-pots-for-cannabis]] from earlier purchases
+- Clean plastic pots from earlier purchases
 - **Newspaper pots**: 3-inch-wide (8 cm) strip of newspaper rolled into a squat cylinder, filled with soil mix, held together with a rubber band and/or string. The entire pot can be planted without disturbing roots.
 
 For fast-growing cucurbits (melons, squash, cucumbers) that have delicate roots and are grown indoors for no more than one week, newspaper pots are ideal — the whole thing goes into the ground.
@@ -53,8 +53,8 @@ Use soil at the ready-to-till moisture content (as described for garden beds in 
 ### Fertilizer Strategy
 
 - **Before first true leaf**: Minimal NPK (nitrogen-phosphorus-potassium) but plenty of calcium. Excess soil nutrients encourage damping-off diseases that attack emerging seedlings.
-- **After first true leaf**: Begin fertilizing. Organic [[solomon-liquid-fertilizers-and-foliar-feeding]] are often deficient in phosphorus — look for fish emulsion that has been fortified with phosphoric acid or use a complete liquid fertilizer.
-- **[[oyster-mushroom-coffee-grounds-cultivation]]**: Worth reckoning as about half-strength chicken manure. Free espresso grounds from restaurants are an excellent amendment.
+- **After first true leaf**: Begin fertilizing. Organic liquid fertilizers are often deficient in phosphorus — look for fish emulsion that has been fortified with phosphoric acid or use a complete liquid fertilizer.
+- **Coffee grounds**: Worth reckoning as about half-strength chicken manure. Free espresso grounds from restaurants are an excellent amendment.
 
 ## Sowing Procedure
 
@@ -117,17 +117,3 @@ Solomon's transplanting technique:
 - [[soil-testing-and-analysis]] — Soil and nutrients for seed starting
 - [[vegetable-garden-guide]] — Crop-specific timing and variety recommendations
 - [[vegetable-growing-guide]]
-## Growing Conditions
-
-Optimal growth requires attention to soil type, pH, drainage, and exposure. Most species perform best in well-drained soils with appropriate organic matter content. Seasonal care routines should account for growth cycles, dormancy periods, and local climate conditions.
-
-## Ecological Relationships
-
-Plants exist within complex ecological networks involving pollinators, mycorrhizal partners, nitrogen-fixing bacteria, and herbivore populations. Understanding these relationships enables more effective cultivation and better integration into diverse growing systems.
-
-## See Also
-- [[comparison-cannabis-cloning-vs-seed-starting-indoors]]
-- [[comparison-seed-starting-indoors-vs-direct-seeding-techniques]]
-- [[comparison-seed-starting-vs-direct-seeding]]
-- [[faires-seed-starting-transplanting-guide]]
-- [[fukuoka-textdoc-starting-natural-farm-site-design]]

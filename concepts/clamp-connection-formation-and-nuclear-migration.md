@@ -2,9 +2,7 @@
 
 Clamp connections are hook-shaped hyphal outgrowths unique to many Basidiomycota
 that maintain the dikaryotic state — two genetically distinct nuclei per cell —
-throughout the vegetative [[mycelium]]. They are among the most recognizable features
-of mushroom fungi and serve as the primary morphological indicator of a fertile,
-dikaryotic mycelium capable of producing [[bloomfield-asterophora-and-mycoparasites-of-fruiting-bodies]].
+throughout the vegetative [[bloomfield-asterophora-and-mycoparasites-of-fruiting-bodies]].
 
 ## Structure and Purpose
 
@@ -69,15 +67,7 @@ Not all clamp connections are identical. Several structural variations exist:
 
 ## Microscopic Identification
 
-Clamp connections are a critical diagnostic feature in [[palmer-mushroom-taxonomy-classification-system]]:
-
-- **Detection**: Visible at 400× magnification under light microscopy. The
-  hooks appear as small arc-shaped projections at septa, often requiring
-  careful focusing through multiple planes.
-- **Staining**: Melzer's reagent or Congo red can improve visibility of septa
-  and clamp structures.
-- **Location**: Found on vegetative hyphae, rhizomorphs, and sometimes on
-  the hymenial elements (cystidia) of the [[comparison-fruiting-body-vs-mycelium-extracts-medicinal-mushrooms]].
+Clamp connections are a critical diagnostic feature in [[comparison-fruiting-body-vs-mycelium-extracts-medicinal-mushrooms]].
 - **Interpretation**: Presence of clamps confirms a dikaryotic mycelium.
   Absence does not necessarily indicate monokaryosis — some dikaryotic species
   lack clamps entirely.
@@ -118,8 +108,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[dom]]
 - [[det]]
-- [[mushroom-cultivation]]
 - [[mycelium]]
 - [[psilocybin-and-nature-connection]]

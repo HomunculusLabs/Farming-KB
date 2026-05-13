@@ -9,19 +9,8 @@ type: concept
 ---
 
 Sinsemilla, meaning without seeds in Spanish, refers to non pollinated
-female [[greg-green]]'s [[green-cannabis-grow-bible-pre-flowering-and-sexing-plants]] and
-[[re-vegging]] After Harvest
-
-When cannabis is harvested, the grower concentrates on the best parts,
-namely the top cola and the buds. The plant can be completely uprooted
-for a complete harvest, or the plant can be harvested partially and used
-again for a second flowering term. This process is called re-vegging and
-re-flowering.
-
-Re-vegging a sinsemilla plant allows a grower to get multiple harvests
-from the same genetics without maintaining a separate mother plant.
-However, the re-vegging process can be stressful on the plant and results
-may vary compared to the first [[cannabis-sativa-flowering-cycle-management]].
+female [[green-cannabis-grow-bible-pre-flowering-and-sexing-plants]] and
+[[cannabis-sativa-flowering-cycle-management]].
 
 ## Summary
 
@@ -30,12 +19,7 @@ cultivation. Non pollinated females produce more resin, higher THC
 levels, better flavor, and superior overall quality compared to seeded
 buds. Preventing pollination through careful male identification and
 removal, along with proper hygiene practices, ensures the best possible
-harvest. For breeders, [[cannabis-controlled-pollination-seed-production]] techniques allow seed
-production while preserving sinsemilla quality on selected branches.
-
-## See Also
-
-- [[greg-green-odor-control-and-air-filtration]]
+harvest. For breeders, [[greg-green-odor-control-and-air-filtration]]
 ## Practical Applications
 
 Sinsemilla and Pollination Management has a range of practical applications that make it relevant to
@@ -97,8 +81,6 @@ through generations to modern scientific approaches, the evolution continues
 to inform current best practices and research directions.
 
 ## See Also
-- [[doc]]
 - [[det]]
-- [[greg-green-mother-plants-and-clone-maintenance]]
 - [[greg-green-npk-and-nutrient-deficiency]]
 - [[greg-green-water-quality-and-hard-water]]

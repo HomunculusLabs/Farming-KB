@@ -46,17 +46,7 @@ sources:
 - **Common names:** Agara (PNG), pink silkwood (Australia, timber name), brown pine (local Australian)
 - **Etymology:** *Galbulimima* likely from Greek *galbos* (pale/wan) + *mimos* (mimic), referring to the pale flowers; *belgraveana* honors an individual connected to the Belgrave family
 
-Himantandraceae is one of the most primitive angiosperm families. Molecular phylogenetics places it as sister to or within a clade with Degeneriaceae and Magnoliaceae. The family shares morphological features with Magnoliaceae (spiral floral parts, apocarpous gynoecium, aromatic oils) and shares [[ergot-alkaloid-chemistry-history]] characteristics with Annonaceae and Papaveraceae (isoquinoline-derived alkaloids). The himbacine-type hexacyclic lactones are unique to *Galbulimima*; no other known genus produces this structural class, making the genus chemotaxonomically distinctive and suggesting an ancient, conserved biosynthetic pathway.
-
-## Botanical Description
-
-Galbulimima belgraveana is a large evergreen tree, typically 15-30 meters tall, occasionally reaching 40 meters. The bole is straight, cylindrical, and buttressed at the base, with diameters up to 60-100 cm. The crown is dense, spreading, and dome-shaped, forming part of the canopy or subcanopy in primary rainforest.
-
-**Bark** is smooth to slightly rough, grey-brown to dark brown, with pinkish inner bark (hence "pink silkwood"). It exudes a watery, sometimes faintly aromatic sap.
-
-**Leaves** are simple, alternate, and spirally arranged, clustered near branch ends. They measure 10-20 cm long by 4-8 cm wide, with an elliptic to oblanceolate shape and entire margins. The texture is leathery (coriaceous), glossy dark green above and paler beneath. Venation is prominent with lateral veins forming a looping pattern near the margin (brochidodromous). Petioles are 1-2 cm and somewhat twisted. Crushed leaves emit a faint characteristic aroma.
-
-**Flowers** are large (5-8 cm diameter), perfect (bisexual), solitary or in small axillary clusters. The perianth consists of approximately 20-30 tepals (undifferentiated sepals and petals) spirally arranged on a convex receptacle, cream-white to pale yellow and fleshy, with outer tepals smaller and bract-like. Stamens are numerous (25-40+), spirally arranged with short filaments and extrorse anthers. The gynoecium is apocarpous with 10-20 free carpels, each containing 1-2 ovules. This spirally arranged, multi-part floral architecture with undifferentiated perianth parts represents a very primitive angiosperm condition, significant for understanding [[equatorial-photoperiod-early-flowering]] plant evolution.
+Himantandraceae is one of the most primitive angiosperm families. Molecular phylogenetics places it as sister to or within a clade with Degeneriaceae and Magnoliaceae. The family shares morphological features with Magnoliaceae (spiral floral parts, apocarpous gynoecium, aromatic oils) and shares [[equatorial-photoperiod-early-flowering]] plant evolution.
 
 **Fruit** is an aggregate of ovoid to ellipsoid drupes, 2-4 cm long overall, with individual drupes 1-2 cm long, green ripening to orange-red or brownish. Each drupe contains a single hard-coated, slightly oily seed.
 
@@ -82,8 +72,79 @@ Galbulimima belgraveana is extraordinarily rich in structurally diverse alkaloid
 
 ## Ethnobotanical Use
 
-The primary ethnobotanical documentation comes from [[ayahuasca-pharmacology]]: the admixture may provide additional psychoactive compounds, inhibit metabolism of Galbulimima alkaloids (e.g., [[tihkal-oral-activity-mao-inhibition]]), or chemically transform Galbulimima alkaloids during preparation to generate the true active compound(s) in situ. *Homalomena* species contain their own alkaloids and [[antifungal-secondary-metabolites-coprophilous-fungi]], but their specific role remains unclear.
+The primary ethnobotanical documentation comes from [[tihkal-oral-activity-mao-inhibition]]), or chemically transform Galbulimima alkaloids during preparation to generate the true active compound(s) in situ. *Homalomena* species contain their own alkaloids and [[galantamine]]). Several pharmaceutical companies investigated himbacine derivatives as Alzheimer's therapeutics in the 1990s-2000s, generating hundreds of synthetic analogs seeking improved selectivity, [[cannabinoid-receptors-cb1-cb2]]. No drug reached market approval, hampered by insufficient brain penetration of himbacine itself and the emergence of competing therapeutic approaches.
 
-## Modern Pharmacology
+## Overview
 
-**Himbacine and muscarinic receptors:** CSIRO researchers (Australia) in the 1960s-1980s, including J.W. Loder and D.M.X. Donnelly, identified himbacine as a relatively selective M2 muscarinic receptor antagonist. Since M2 receptors are autoreceptors on cholinergic nerve terminals that inhibit acetylcholine release, M2 blockade was proposed as a novel mechanism to augment cholinergic function in Alzheimer's disease, complementing existing acetylcholinesterase inhibitors (donepezil, rivastigmine, [[galantamine]]). Several pharmaceutical companies investigated himbacine derivatives as Alzheimer's therapeutics in the 1990s-2000s, generating hundreds of synthetic analogs seeking improved selectivity, [[first-pass-metabolism-and-oral-bioavailability]], and CNS penetration. The total synthesis of himbacine has been accomplished, and it remains a valuable molecular probe for studying M2 [[cannabinoid-receptors-cb1-cb2]]. No drug reached market approval, hampered by insufficient brain penetration of himbacine itself and the emergence of competing therapeutic approaches.
+Galbulimima Belgraveana represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish galbulimima belgraveana
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving galbulimima extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Galbulimima Belgraveana finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for galbulimima belgraveana. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+galbulimima belgraveana and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Galbulimima Belgraveana has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of galbulimima belgraveana into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and

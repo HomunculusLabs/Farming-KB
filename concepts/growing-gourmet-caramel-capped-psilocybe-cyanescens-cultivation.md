@@ -20,8 +20,7 @@ type: concept
 ## Overview and Description
 
 First cultivated in Washington and Oregon in the late 1970s, this
-complex of species is primarily grown outdoors in [[comparison-ramial-wood-chip-mulch-vs-composted-wood-chips]] beds. Indoor
-cultivation is possible but pales in comparison to stamets [[stamets-outdoor-natural-culture-methods]]. Species in the P. cyanescens complex are not as high-yielding
+complex of species is primarily grown outdoors in [[stamets-outdoor-natural-culture-methods]]. Species in the P. cyanescens complex are not as high-yielding
 per lb of substrate as some fleshier mushrooms in the genus and hence
 have little or no commercial appeal. However, they enjoy a popular
 reputation and are sought by thousands of eager hunters every fall.
@@ -58,19 +57,7 @@ which would also envelope species of Stropharia and Hypholoma.
 
 A large constellation of species, subspecies and races revolves around
 the species concept of P. cyanescens. The type collection described by
-Wakefield from England lacks pleurocystidia. The North [[gartz-gymnopilus-purpuratus-south-american-mushroom-in-europe]]
-identified in popular field guides as P. cyanescens possesses abundant
-capitate pleurocystidia, meaning it cannot be the true P. cyanescens.
-Stamets provisionally named the Astoria, Oregon species Psilocybe
-azurescens. A third species distinguished by forking cheilocystidia is
-P. cyanofibrillosa. Several more taxa remain unpublished.
-
-## Distribution and Habitat
-
-Found throughout temperate forests of the world, including the coastal
-[[psilocybin-north-america-pacific-northwest]], northeastern [[guzman-psilocybin-mushrooms-north-america]], the British Isles,
-eastern Europe, southern Argentina, North Africa, New Zealand and
-[[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]] of Australia. Heliotropic and primarily preferring
+Wakefield from England lacks pleurocystidia. The North [[psilocybin-north-america-pacific-northwest]], northeastern [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]] of Australia. Heliotropic and primarily preferring
 deciduous woods, especially in riparian habitats, fruiting in the fall.
 Possibly a saprophyte of fir seed cones, they show particular fondness
 for decorative mulch ("beauty bark") used in landscaping around newly
@@ -117,8 +104,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[psilocybin]]
 - [[spore]]
-- [[growing-gourmet-sacred-psilocybe-permaculture]]
 - [[growing-gourmet-shaggy-mane-coprinus-cultivation]]
 - [[growing-gourmet-maitake-cultivation]]

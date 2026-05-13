@@ -23,59 +23,7 @@ related_concepts:
 ---
 # St. John's Wort Cultivation and Medicinal Uses
 
-**[[hypericum-perforatum]]**, known as St. John's Wort, is one of the most
-extensively researched medicinal herbs in modern phytotherapy, with a
-clinical evidence base rivaling many pharmaceutical antidepressants. Named
-for its traditional flowering date near the feast of St. John the Baptist
-on June 24, this perennial herb has been used in European folk medicine
-for over 2,400 years. It produces a distinctive red oil when its flowers
-are steeped in a carrier oil, a preparation that has been valued for
-topical pain relief and wound healing since the time of the ancient
-Greeks. Despite its gentle appearance in the garden, St. John's Wort
-carries a formidable pharmacological profile that demands both respect
-and informed use, particularly because of its potent interactions with
-conventional medications.
-
-## Botanical Profile
-
-| Feature | Detail |
-|---|---|
-| **Scientific name** | *Hypericum perforatum* |
-| **Family** | Hypericaceae (formerly Clusiaceae) |
-| **Common names** | St. John's Wort, Klamath weed, goatweed, rosin rose, Tipton's weed |
-| **Plant type** | Herbaceous perennial |
-| **Hardiness** | USDA Zones 3–8 |
-| **Height** | 30–120 cm (12–48 inches) |
-| **Spread** | 30–60 cm (12–24 inches), spreads by rhizomes |
-| **Flower color** | Bright yellow, 5 petals with black glandular dots |
-| **Bloom period** | June through August |
-| **Sun requirements** | Full sun to partial shade |
-| **Soil pH** | 5.5–7.0 (acidic to neutral) |
-| **Water needs** | Low to moderate; drought-tolerant once established |
-| **Lifecycle** | Emerges in spring, flowers midsummer, dies back in winter |
-
-The species epithet *perforatum* refers to the translucent oil glands
-visible as perforations when leaves are held against light. These glands
-contain hypericin and related naphthodianthrones, the compounds
-responsible for the plant's characteristic red pigment. The flowers
-produce the highest concentration of active constituents during peak
-bloom, when buds are about one-third to fully open.
-
-## History and Ethnobotany
-
-The medicinal use of St. John's Wort spans at least two and a half
-millennia. Ancient Greek physicians, including Dioscorides and
-Hippocrates, documented its use for treating wounds, burns, and nerve
-pain. The plant's association with St. John the Baptist likely stems from
-pre-Christian summer solstice traditions, when midsummer flowering herbs
-were gathered for their perceived protective and healing powers. In
-medieval Europe, the herb was hung over doorways on Midsummer's Eve to
-ward off evil spirits, a practice that reflects its deep cultural
-embedding long before any understanding of its pharmacology.
-
-### Classical and Medieval Medicine
-
-In Dioscorides' *De [[herbal-materia-medica]]* (c. 50–70 CE), *Hypericum* was
+**[[herbal-materia-medica]]* (c. 50–70 CE), *Hypericum* was
 recommended for sciatica, burns, and snake bites. Paracelsus, the
 sixteenth-century Swiss physician, wrote extensively about the plant's
 uses for melancholy and wounds, and his writings influenced centuries of
@@ -88,21 +36,7 @@ modern medicine recognizes as depression and anxiety.
 
 ## Phytochemistry and Active Compounds
 
-St. John's Wort contains a complex mixture of [[cordyceps-cancer-bioactive-compounds]] that
-act synergistically. Modern pharmacological research has identified
-several major classes of constituents, each contributing to the herb's
-medicinal effects through distinct mechanisms.
-
-### Hypericin and Pseudohypericin
-
-These naphthodianthrone compounds are the most visually distinctive
-constituents, responsible for the deep red pigment released when
-flowers are crushed or infused in oil. Concentrated in the dark glandular
-dots on leaves and petals, hypericin and pseudohypericin exhibit
-antiviral activity (particularly against enveloped viruses),
-antibacterial properties, and photosensitizing effects. Early research
-incorrectly identified hypericin as the primary antidepressant compound,
-but it remains important for [[cannabis-topical-applications]] and antiviral
+St. John's Wort contains a complex mixture of [[cannabis-topical-applications]] and antiviral
 research. Hypericin content varies significantly with harvest timing,
 drying method, and genotype, ranging from 0.05% to 0.3% of dry weight.
 
@@ -144,6 +78,5 @@ with over 5,000 patients found St. John's Wort extracts superior to
 placebo and equally effective to standard antidepressants (SSRIs and
 ## See Also
 
-- [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]]
 - [[query-what-are-the-most-powerful-medicinal-mushrooms-and-what-do-they-treat]]
 - [[turkey-tail-mushroom-cultivation-and-medicinal-properties]]

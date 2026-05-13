@@ -16,25 +16,7 @@ created: 2026-04-28
 
 # Nutrified Agar Media Formulas and Preparation for Mushroom Culture
 
-Agar media is the foundational [[grass-seed-substrate-for-mushroom-cultivation]] tissue culture. It provides the nutrients and physical structure necessary for isolating, purifying, and expanding mushroom mycelium in the laboratory. The [[falconer-mushroom-cooking-selection-and-preparation]] of agar media directly influences the rate and character of mycelial growth, making it one of the most critical skills [[contamination-prevention-in-mushroom-cultivation]].
-
-## Standard Agar Media Formulas
-
-### Malt Extract Yeast Agar (MYA)
-
-Malt Extract Yeast Agar is the standard baseline medium used for most mushroom cultivation work. It provides a balanced nutritional profile suitable for the majority of gourmet and medicinal species.
-
-### Malt Extract Yeast Peptone Agar (MYPA)
-
-MYPA is the most commonly referenced enriched medium in Stamets' work. The addition of peptone (a nitrogen-rich protein digest) enhances mycelial growth rates and is particularly useful for fast-growing species. This is the default medium for strain evaluation and comparison work.
-
-### Potato Dextrose Yeast Agar (PDYA)
-
-Potato Dextrose Yeast Agar utilizes potato extract as its base carbohydrate source. The dextrose provides readily available sugars while the yeast adds nitrogen and B vitamins. This medium is widely used in mycological laboratories and supports robust growth across most species.
-
-### Oatmeal Malt Yeast Enriched Agar (OMYA)
-
-Oatmeal-based media provides a complex carbohydrate source that more closely mimics the natural substrate of many mushroom species. The oatmeal component adds [[teaming-with-nutrients-micronutrients-and-trace-elements]] minerals not found in simpler sugar-based media. This medium is particularly favored for species that are difficult to fruit, as it can stimulate more natural mycelial behavior.
+Agar media is the foundational [[falconer-mushroom-cooking-selection-and-preparation]] of agar media directly influences the rate and character of mycelial growth, making it one of the most critical skills [[teaming-with-nutrients-micronutrients-and-trace-elements]] minerals not found in simpler sugar-based media. This medium is particularly favored for species that are difficult to fruit, as it can stimulate more natural mycelial behavior.
 
 ### Dog Food Agar (DFA)
 
@@ -46,12 +28,7 @@ This formula uses corn meal as a base carbohydrate, supplemented with yeast for 
 
 ## End-Substrate Enriched Agar
 
-A critical technique for improving strain performance is the addition of end-substrate extracts to the agar media. By introducing 1 to 3 grams of the actual [[pf-tek-maximum-fruiting-substrate-formula]] (sawdust, straw, etc.) per liter of nutrient medium, the cultivator accomplishes several important goals:
-
-- **Acclimates the mycelium to its destined fruiting habitat**, selectively activating its enzymatic systems
-- **Challenges the mycelium** to produce the specific enzymes needed for that substrate
-- **Improves downstream performance** — mycelia grown with end-substrate additions colonize fruiting substrates faster and fruit sooner
-- **Parent cells retain genetic memory** that is passed downstream through the [[fungal-mycelial-networks-nutrient-translocation]]
+A critical technique for improving strain performance is the addition of end-substrate extracts to the agar media. By introducing 1 to 3 grams of the actual [[fungal-mycelial-networks-nutrient-translocation]]
 
 Substrates high in endospores (such as manures or soils) should be treated by first boiling an aqueous concoction for at least an hour. After boiling, sugar, agar, and other supplements are added, and the media is sterilized using standard procedures.
 
@@ -118,8 +95,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[spore]]
 - [[mushroom-cultivation]]
-- [[mycelium]]
 - [[laminar-flow-hood]]
 - [[growing-gourmet-volunteer-primordia-agar-media]]

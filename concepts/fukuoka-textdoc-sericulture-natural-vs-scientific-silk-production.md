@@ -20,39 +20,15 @@ type: concept
 
 ## Overview
 
-[[natural-farming]] spread widely among growers. The discoveries came from simple observation:
-
-- Throwing entire branches of mulberry leaves onto the silkworms worked as well as picking and chopping leaves individually
-- Young silkworms thrived on this crude method just as well as fully-grown larvae
-- Silkworms proved remarkably hardy and did not require constant [[greg-green-temperature-and-humidity-control]] control
+[[greg-green-temperature-and-humidity-control]] control
 - Rearing under the eaves of houses worked well, and eventually silkworms were raised outdoors and even released into nearby trees
 
-The realization was striking: originally a creature of nature, the silkworm had thrived outdoors day and night. Only humans had feared the evening dew. Sericulture appeared to be headed decisively in the direction of [[comparison-natural-farming-vs-permaculture]].
-
-## The Collapse and Scientific Rebound
-
-The apparent return to natural methods was interrupted not by agricultural reasoning but by market forces:
-
-1. **Synthetic fiber competition**: Rapid development of synthetic fibers nearly made natural silk obsolete. Silk prices plummeted, and sericulture farms went out of business.
-2. **Consumer rediscovery**: Growing material affluence nurtured extravagant tastes. Consumers rediscovered the virtues of natural silk absent in synthetic fibers.
-3. **Price resurgence**: Silk cocoons skyrocketed in price, renewing farmer interest.
-4. **The scientific solution**: But by this time the hard-working farmer of old was gone. The industry adopted purely scientific methods moving in the opposite direction from natural farming.
-
-## Industrial Sericulture
-
-The new industrial sericulture represents the extreme end of [[fukuoka-critique-scientific-agriculture-civilization]]:
+The realization was striking: originally a creature of nature, the silkworm had thrived outdoors day and night. Only humans had feared the evening dew. Sericulture appeared to be headed decisively in the direction of [[fukuoka-critique-scientific-agriculture-civilization]]:
 
 - **Artificial feed**: Prepared from mulberry leaf powder, soybean powder, wheat powder, starch, fats, vitamins, preservatives, and sterilized components. Eventually to be replaced by totally synthetic petrochemical-based feed.
 - **Automated environment**: Fully outfitted facilities with heating, air conditioning, automatic lighting and ventilation adjustment.
 - **Conveyor systems**: Feed carried in and droppings carried out on belt conveyors.
-- **[[hamilton-pest-and-disease-control-organic]]**: Rooms hermetically sealed and disinfected with gas when disease breaks out.
-- **Full automation**: All feeding and cocoon collection operations fully automated.
-
-Natural silk, once the product of mountain forests and patient farmers, had become a factory commodity. The starting material remained mulberry leaves only temporarily; the trajectory pointed toward total synthesis from petrochemicals.
-
-## The Pattern of Non-Return
-
-Fukuoka emphasizes that sericulture did not truly return to nature even during its apparent natural phase. The two paths — natural farming and [[fukuoka-illusions-scientific-farming-centrifugal-centripetal-model]] — proceed in opposite directions:
+- **[[fukuoka-illusions-scientific-farming-centrifugal-centripetal-model]] — proceed in opposite directions:
 
 - **Natural farming** proceeds centripetally inward toward "nothingness" (Mu), compressing and freezing time and space by the elimination of human labor.
 - **Scientific farming** proceeds centrifugally outward toward "somethingness," expanding and developing through increasingly complex and diverse means.
@@ -70,7 +46,6 @@ The sericulture case study illustrates several principles applicable to all agri
 
 ## Related Concepts
 
-- [[fukuoka-critique-of-scientific-agriculture]]
 - [[fukuoka-science-continues-rampage]]
 ## Practical Considerations
 
@@ -120,8 +95,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[natural-farming]]
 - [[fukuoka-textdoc-sericulture-entanglement-natural-scientific-farming]]
-- [[dom]]
 - [[permaculture]]
 - [[fukuoka-textdoc-entanglement-natural-scientific-farming]]

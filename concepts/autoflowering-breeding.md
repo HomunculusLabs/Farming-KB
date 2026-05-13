@@ -12,9 +12,7 @@ tags: [reference]
 # Autoflowering Breeding
 
 Autoflowering breeding involves incorporating the automatic flowering
-trait from [[cervantes-cannabis-ruderalis-autoflowering]] into drug-type cannabis varieties to
-create plants that flower based on age rather than photoperiod.
-Cervantes describes the origins of [[comparison-autoflowering-cannabis-vs-cannabis-photoperiod-flowering-cycle]] and the role
+trait from [[comparison-autoflowering-cannabis-vs-cannabis-photoperiod-flowering-cycle]] and the role
 of C. ruderalis genetics in modern breeding programs.
 
 ## The Ruderalis Foundation
@@ -23,8 +21,7 @@ Cannabis ruderalis (= C. sativa var. spontanea) is the genetic source
 of the autoflowering trait. First brought to Amsterdam from Central
 Europe in the early 1980s by the Seed Bank, C. ruderalis is a short,
 weedy, scrubby plant containing very little THC. However, it possesses
-a unique and valuable characteristic: it begins the [[cannabis-sativa-flowering-cycle-management]]
-after only a few weeks of [[cannabis-vegetative-growth-stage]], regardless of photoperiod.
+a unique and valuable characteristic: it begins the [[cannabis-vegetative-growth-stage]], regardless of photoperiod.
 
 In C. ruderalis, photoperiod does not induce flowering. This automatic
 trigger is genetically distinct from the photoperiod-dependent
@@ -45,14 +42,7 @@ C. ruderalis has several distinguishing features:
 
 The original Seed Bank catalog from 1987 shows a C. ruderalis plant
 alongside a highway in Hungary. Many breeders initially hailed this
-plant as the "[[amanita-muscaria-holy-grail-theory-detailed]]" of cannabis, though pure C. ruderalis has
-little value as a drug crop.
-
-## The Breeding Challenge
-
-The primary challenge in autoflowering breeding is combining the
-automatic flowering trait of C. ruderalis with the potency, flavor,
-yield, and [[cannabis-glandular-trichome-types-resin-production-clarke]] of drug-type cannabis (C. sativa, C.
+plant as the "[[cannabis-glandular-trichome-types-resin-production-clarke]] of drug-type cannabis (C. sativa, C.
 indica, and C. afghanica). Early breeding efforts produced plants that
 were autoflowering but had unacceptably low potency. The goal is to
 introgress the autoflowering trait while preserving the desirable
@@ -118,8 +108,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[autoflowering-cannabis]]
 - [[dom]]
-- [[det]]
 - [[cannabis-ruderalis]]
 - [[amanita]]

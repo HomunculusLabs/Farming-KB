@@ -19,15 +19,14 @@ sources:
   - "[/Users/t3rpz/wiki/raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md]"
   - "Lincoff, G.H. (1981). 'National Audubon Society Field Guide to growing-gourmet-north-american-reishi-species Mushrooms.' Knopf."
   - "Arora, D. (1986). 'Mushrooms Demystified.' 2nd ed. Ten Speed Press."
-  - "Stamets, P. & Chilton, J.S. (1983). '[[coprinus-atrementarius-entity-the-mushroom-cultivator]].' Agarikon Press."
-  - "Phillips, R. (2006). 'Mushrooms: A [[allen-australian-psilocybe-species-comprehensive-guide]] to psilocybin-mushroom-identification-guide.' Macmillan."
+  - "Stamets, P. & Chilton, J.S. (1983). 'allen-australian-psilocybe-species-comprehensive-guide to psilocybin-mushroom-identification-guide.' Macmillan."
 ---
 
 # Clitocybe nuda
 
 **Wood Blewit** | **Blewit** | **Blue Foot** | **Lepiste nue**
 
-*Clitocybe nuda* (syn. *Lepista nuda*, *Tricholoma nudum*) is a widespread edible woodland mushroom prized for its attractive violet-blue coloration, distinctive aromatic fragrance, and excellent culinary quality. Found across [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]] of the Northern Hemisphere, it fruits in autumn and early winter in leaf litter, compost heaps, and conifer needle beds. Despite being one of the most visually distinctive [[palmer-edible-mushrooms-north-america]] in temperate forests, the Wood Blewit is relatively underutilized compared to more commonly foraged species. It is an excellent candidate for culinary exploration [[pig-husbandry]]. See [[lepiota-procera]] for another autumn woodland edible.
+*Clitocybe nuda* (syn. *Lepista nuda*, *Tricholoma nudum*) is a widespread edible woodland mushroom prized for its attractive violet-blue coloration, distinctive aromatic fragrance, and excellent culinary quality. Found across [[palmer-edible-mushrooms-north-america]] in temperate forests, the Wood Blewit is relatively underutilized compared to more commonly foraged species. It is an excellent candidate for culinary exploration [[lepiota-procera]] for another autumn woodland edible.
 
 ## Taxonomy and Nomenclature
 
@@ -84,7 +83,7 @@ The taxonomic history of this species has been contentious. For much of the 20th
 
 ## Distribution and Habitat
 
-- **Global range:** Widespread across temperate regions of the Northern Hemisphere — Europe, [[guzman-psilocybin-mushrooms-north-america]] (both coasts, especially the [[psilocybin-north-america-pacific-northwest]]), and parts of Asia. Also reported from Australia and New Zealand where it may be introduced.
+- **Global range:** Widespread across temperate regions of the Northern Hemisphere — Europe, [[psilocybin-north-america-pacific-northwest]]), and parts of Asia. Also reported from Australia and New Zealand where it may be introduced.
 - **Habitat:** A versatile species found in diverse environments:
   - Deciduous and mixed woodlands, particularly under oak, beech, birch, and conifers
   - Coniferous forests, especially in [[dighton-pine-needle-litter-decomposition-fungal-succession]] under pine, spruce, and fir

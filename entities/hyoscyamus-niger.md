@@ -26,10 +26,6 @@ and *H. niger* subsp. *albus* (biennial, with white flowers).
 The principal active alkaloids of henbane are tropane compounds derived from
 the amino acids ornithine and phenylalanine via the intermediate tropinone:
 
-- **[[hyoscyamine]]** — the dominant alkaloid, comprising 0.03 to 0.28% of the
-  dry plant weight; a competitive antagonist at muscarinic acetylcholine
-  receptors, producing anticholinergic effects throughout the autonomic
-  nervous system
 - **[[scopolamine]]** (hyoscine) — present in significant quantities (up to 0.07%
   in some populations), a more potently hallucinogenic tropane alkaloid due to
   its greater ability to cross the blood-brain barrier
@@ -53,40 +49,90 @@ seeds and leaves, with lower concentrations in stems and roots.
 Henbane was one of the most frequently included plants in the so-called
 witches' brews arthur-mushroom-iconography-medieval-europe. These preparations
 combined henbane with other Solanaceae species such as Atropa
-belladonna, [[datura-stramonium]] to
-produce complex mixtures reported to induce visual hallucinations and the
-sensation of flight. The ointments were typically applied topically to the
-skin, mucous membranes, or under the arms, allowing the fat-soluble tropane
-alkaloids to be absorbed transdermally and avoiding the severe gastrointestinal
-side effects of oral ingestion. The sensation of flight was likely produced by
-the combination of visual hallucinations, dissociation, and a subjective
-feeling of buoyancy caused by the alteration of proprioception.
+belladonna, [[henbane-hyoscyamus-niger-ethnobotany]]
+- [[hyoscyamus-muticus]]
 
-The plant has a long history in classical European medicine. It was known to
-the ancient Greeks and Romans, appearing in the works of Dioscorides and
-Pliny the Elder. The Greek physician Galen prescribed henbane for various
-ailments. In medieval and early modern European medicine, henbane was valued
-as a sedative, anodyne, and antispasmodic. It was a standard ingredient in
-complex pharmaceutical preparations including theriac, mithridate, and various
-plaster and poultice formulations. Henbane preparations were applied
-externally for joint and muscle pain, neuralgia, and rheumatism. The smoke
-from burning seeds was inhaled to treat toothache, asthma, and respiratory
-complaints. A cataplasm of boiled leaves was applied to inflamed and painful
-areas.
+## Overview
 
-In Germanic and Anglo-Saxon folk medicine, henbane (*Bilsenkraut* in German)
-was used in divination and prophecy. The name "henbane" may derive from
-"hen-bane," referring to its toxicity to poultry, or from a folk etymology
-relating to its use in folk rituals.
+Hyoscyamus Niger represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
 
-## Role in Witchcraft and Folklore
+## Key Characteristics
 
-The association of henbane with witchcraft is one of its most prominent
-cultural attributes. Along with belladonna, mandrake, and datura, henbane was
-considered one of the primary ingredients in the pharmacological basis of
-[[henbane-hyoscyamus-niger-ethnobotany]]
-- [[atropine]]
+Several defining characteristics distinguish hyoscyamus niger
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving hyoscyamus extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Hyoscyamus Niger finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for hyoscyamus niger. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+hyoscyamus niger and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Hyoscyamus Niger has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of hyoscyamus niger into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
 
 ## See Also
 
+- [[aspergillus-niger]]
+- [[helleborus-niger]]
+- [[henbane-hyoscyamus-niger-ethnobotany]]
 - [[hyoscyamus-muticus]]
+- [[schultes-henbane-hyoscyamus-oracle-delphi]]

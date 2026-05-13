@@ -15,32 +15,13 @@ tags:
   - plant-vision
   - plant-senses
 source:
-  - "[[what-a-plant-knows-plant-vision-and-light-perception]]"
----
-
-# Dual Plant Vision System: Blue Light Phototropism and Red Light Photoperiodism
-
-## Overview
-
-Plants do not have a single visual system but rather employ at least two distinct light-sensing pathways that serve fundamentally different purposes. As described by Daniel Chamovitz in "What a Plant Knows" (2012), plants use **blue light** primarily to determine the direction of light (phototropism) and **red light** primarily to measure the length of the dark period (photoperiodism). This dual system represents a sophisticated division of labour that allows plants to simultaneously orient their growth toward light sources and regulate their developmental timing based on seasonal day-length changes.
-
-## Blue Light: Directional Sensing and Phototropism
-
-### Discovery
-
-Julius von Sachs discovered in 1864 that blue light is the primary colour inducing phototropism in plants. Darwin and his son Francis later demonstrated (1880) that the site [[plant-photoreceptors-and-mechanism-of-light-perception]] for phototropism is at the shoot tip (coleoptile apex), not the bending region itself. Their five-condition experiment with canary grass seedlings proved that covering the tip with a lightproof cap prevented phototropic bending, while covering the middle section did not.
+  - "[[plant-photoreceptors-and-mechanism-of-light-perception]] for phototropism is at the shoot tip (coleoptile apex), not the bending region itself. Their five-condition experiment with canary grass seedlings proved that covering the tip with a lightproof cap prevented phototropic bending, while covering the middle section did not.
 
 ### Mechanism
 
 Blue light is detected by photoreceptor proteins called **phototropins**. These photoreceptors are most sensitive to wavelengths around 450 nm (blue light). When blue light strikes the phototropins at the shoot tip, a signal cascade is initiated that causes the plant to redistribute the growth hormone auxin. Auxin accumulates on the shaded side of the stem, causing cells on that side to elongate more than cells on the illuminated side, producing the characteristic bending toward light.
 
-Blue light phototropism operates on a short timescale—plants begin bending within hours of directional light exposure. It functions as a [[plant-gravitropism-spatial-orientation]] system, telling the plant which direction the strongest light is coming from so it can optimise its photosynthetic surface area.
-
-## Red Light: Day-Length Measurement and Photoperiodism
-
-### Discovery
-
-The discovery that plants use red light to measure day length emerged from research on the [[garner-allard-maryland-mammoth-tobacco-experiment]] strain. Wightman W. Garner and Harry A. Allard (1918) found that this strain flowered only when exposed to short days, establishing the concept of photoperiodism. Subsequent experiments around World War II showed that a brief flash of red light in the middle of the night could prevent short-day plants from flowering or trigger flowering in long-day plants.
+Blue light phototropism operates on a short timescale—plants begin bending within hours of directional light exposure. It functions as a [[garner-allard-maryland-mammoth-tobacco-experiment]] strain. Wightman W. Garner and Harry A. Allard (1918) found that this strain flowered only when exposed to short days, establishing the concept of photoperiodism. Subsequent experiments around World War II showed that a brief flash of red light in the middle of the night could prevent short-day plants from flowering or trigger flowering in long-day plants.
 
 ### The Red/Far-Red Switch
 
@@ -69,7 +50,7 @@ A surprising finding from photoperiodism research is that the sensory organ diff
 - **Phototropism**: The "eye" is at the shoot tip (coleoptile apex). Removing or covering the tip eliminates phototropic bending.
 - **Photoperiodism**: Any single leaf can perceive the red/far-red signal and regulate flowering for the entire plant. If all leaves are removed but the stem tip remains, the plant cannot perceive photoperiodic cues at all.
 
-This means [[plant-phototropism-and-photoperiodism]] use completely different anatomical structures for light detection, even though both ultimately regulate plant [[cytokinin-plant-growth-and-development]]. In photoperiodism, phytochrome in the leaf initiates a mobile signal (now known to include the FLOWERING LOCUS T protein, FT) that travels to the shoot apex and triggers the floral transition.
+This means [[cytokinin-plant-growth-and-development]]. In photoperiodism, phytochrome in the leaf initiates a mobile signal (now known to include the FLOWERING LOCUS T protein, FT) that travels to the shoot apex and triggers the floral transition.
 
 ## Agricultural Applications of the Dual System
 
@@ -117,8 +98,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[phototropism]]
 - [[phototropism-in-plants]]
-- [[photoperiodism]]
 - [[dom]]
 - [[det]]

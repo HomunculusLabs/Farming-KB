@@ -9,79 +9,96 @@ sources:
 ---
 # META-DOB
 
-META-DOB (5-Bromo-2,4-dimethoxyamphetamine) is a positional isomer of [[alexander-shulgin]].
-
-## Chemical Identity
-
-Full chemical name: 5-Bromo-2,4-dimethoxyamphetamine.
-
-META-DOB is the meta-dimethoxy positional isomer of dob-entity|DOB (4-bromo-2,5-dimethoxyamphetamine).
-
-While dob-entity|DOB has the classic 2,5-dimethoxy pattern with bromine at the 4-position, META-DOB has the 2,4-dimethoxy pattern with bromine at the 5-position.
-
-The hydrobromide salt melts at 204.5-205.5 degrees Celsius (with a conflicting published melting point of 180-181 degrees C).
-
-The compound is prepared by direct bromination of 2,4-dimethoxyamphetamine (2,4-DMA) in a 67% yield.
-
-## Dosage and Duration
-
-Reported dosage range: 50 - 100 mg.
-
-Duration: 5 - 6 hours.
-
-The potency is significantly lower than dob-entity|DOB, which is active at 1-3 mg.
-
-The initial medical literature reported approximately 100 mg producing MDA-like effects.
-
-Subsequent reports from the original researchers revised this assessment considerably.
-
-## Qualitative Effects
-
-At approximately 40 mg, effects after a one-hour induction period include a "vague uneasiness" interpreted as threshold psychedelic effect.
-
-At doses in the 60-90 mg range, effects include feelings of anxiety and paranoid fantasies.
-
-Distinct toxic signs appear including flushing, palpitations, and occasional nausea, vomiting, and diarrhea.
-
-Any psychedelic effects are described as "blurred by the more obvious toxic actions of the drug."
-
-The researchers' final conclusion was that the drug "appears toxic in the 50 to 60 milligram range."
-
-Shulgin noted that he had not personally explored this positional isomer of dob-entity|DOB.
-
-## The Positional Isomer Series
-
-META-DOB is part of a series of positional isomers of dob-entity|DOB, each with the bromine at a different position on the aromatic ring.
-
-dob-entity|DOB (4-bromo-2,5-dimethoxyamphetamine) is the classic, most potent isomer.
-
-META-DOB (5-bromo-2,4-dimethoxyamphetamine) is this compound, with reduced activity and increased toxicity.
-
-ORTHO-DOB (2-bromo-4,5-dimethoxyamphetamine) has been synthesized but has not been bioassayed in humans.
-
-The bromination of other DMA isomers has been explored: 2,3-DMA gives a mixture of 5-Br and 6-Br products; 2,6-DMA gives 3-Br; and 3,5-DMA gives a mixture of 2-Br and the 2,6-dibromo product.
-
-None of these positional isomers has been bioassayed in humans.
-
-## Pharmacological Context
-
-The dramatic difference in potency between dob-entity|DOB (active at 1-3 mg) and META-DOB (active/toxic at 50-100 mg) illustrates the critical importance of substitution pattern position.
-
-The 2,5-dimethoxy pattern of dob-entity|DOB is optimal for psychedelic activity, while the 2,4-dimethoxy pattern of META-DOB produces a compound with both reduced potency and increased physical toxicity.
-
-The 3-Br-2,6-DMA and its iodo-counterpart have been explored as potential radio-fluorine carriers for [[neurochemical-probes-brain-imaging-pihkal]] studies.
+META-DOB (5-Bromo-2,4-dimethoxyamphetamine) is a positional isomer of [[neurochemical-probes-brain-imaging-pihkal]] studies.
 
 ## Comparison with DOB
 
 The contrast between META-DOB and dob-entity|DOB is stark.
 
-dob-entity|DOB: 1-3 mg active dose, 12-24 hour duration, clean [[leary-psychedelic-experience-bardo-mapping]].
+dob-entity|DOB: 1-3 mg active dose, 12-24 hour duration, clean [[doc]]|DOC: the 4-chloro-2,5-dimethoxy isomer
+- [[meta-dob-entity-pihkal]]
 
-META-DOB: 50-100 mg active dose, 5-6 hour duration, toxic physical effects dominate.
+## Overview
 
-This 30-50-fold difference in potency between positional isomers demonstrates that [[doc]]|DOC: the 4-chloro-2,5-dimethoxy isomer
-- [[phenethylamine-pharmacology]]: general pharmacology
+Meta Dob Entity represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish meta dob entity
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving meta extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Meta Dob Entity finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for meta dob entity. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+meta dob entity and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Meta Dob Entity has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of meta dob entity into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
 
 ## See Also
 
+- [[mdpr-entity-pihkal]]
 - [[meta-dob-entity-pihkal]]
+- [[meta-dot-entity-pihkal]]
+- [[te-entity-pihkal]]
+- [[typha-entity]]

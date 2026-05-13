@@ -9,7 +9,7 @@ sources: []
 
 # Livestock Feed Formulation
 
-Understanding [[savory-livestock-nutrition-and-supplementation]] feed formulation allows homesteaders to
+Understanding livestock nutrition and feed formulation allows homesteaders to
 optimize animal health, reduce purchased feed costs, and make the most of
 on-farm resources. Feed represents 50-70% of the cost of livestock production,
 so even small improvements in feeding efficiency have significant economic
@@ -32,7 +32,7 @@ feeds, and practical formulation for homestead-scale operations.
 - Ruminants (cattle, sheep, goats) can use both true protein and non-protein
   nitrogen (NPN) thanks to rumen microbes.
 - Monogastrics (pigs, poultry, rabbits) require true protein with specific
-  [[cho-fish-amino-acid-preparation]] profiles.
+  amino acid profiles.
 - Deficiency: poor growth, low milk production, rough hair coat, weight loss,
   reduced fertility.
 - Excess: wasted money, increased nitrogen excretion (environmental concern).
@@ -40,7 +40,7 @@ feeds, and practical formulation for homestead-scale operations.
 ### Energy
 - Required for maintenance, movement, production, and body temperature
   regulation.
-- Measured as Total Digestible Nutrients (TDN), [[fukuoka-agricultural-production-net-energy-deduction]] (NE), or
+- Measured as Total Digestible Nutrients (TDN), Net Energy (NE), or
   Metabolizable Energy (ME).
 - Sources: carbohydrates (grains, molasses) and fats (oilseeds, animal fat).
 - Ruminants get most energy from fermentation of fiber in the rumen.
@@ -99,7 +99,7 @@ feeds, and practical formulation for homestead-scale operations.
 - **Distillers grains (DDGS):** 25-30% CP, high energy and fat. Byproduct
   of ethanol production. Good for cattle.
 - **Linseed (flaxseed) meal:** 34-36% CP. Good for ruminants. Adds omega-3
-  [[carbon-isotope-labelling-mycorrhizal-fatty-acids]].
+  fatty acids.
 
 ### Forages
 - See [[hay-and-forage-management]] for detailed forage analysis.
@@ -132,7 +132,7 @@ feeds, and practical formulation for homestead-scale operations.
 ### Mineral Supplements
 - Loose mineral formulated for species, offered free-choice.
 - Include salt (sodium chloride) — animals self-regulate salt intake.
-- Add [[dynamic-accumulator-plants-trace-minerals]] based on regional deficiencies.
+- Add trace minerals based on regional deficiencies.
 - Blocks vs. loose: loose minerals are consumed more reliably.
 
 ### Protein Blocks and Tubs
@@ -140,11 +140,10 @@ feeds, and practical formulation for homestead-scale operations.
 - Convenient, weather-resistant, good for extensive grazing systems.
 - More expensive per unit of protein than loose supplements.
 
-### Feed Additives
-- **Probiotics:** Support rumen and gut health.
-- **Prebiotics:** Feed beneficial gut microbes.
-- **Yeast culture:** Improves fiber digestion in ruminants.
-- **Apple cider vinegar:** 1-2 tbsp/gallon in water. Supports digestion
-  and immune health (anecdotal evidence).
-- **[[comparison-neem-oil-cannabis-vs-diatomaceous-earth-cannabis]]:** For parasite control (limited evidence, widely
-  used).
+## See Also
+
+- [[homesteading-livestock-comparison]]
+- [[fukuoka-textdoc-natural-livestock-forest-pasture-method]]
+- [[fukuoka-textdoc-natural-livestock-unconditional-truth]]
+- [[small-farm-livestock-management]]
+- [[knf-livestock-odorless-piggery]]

@@ -12,18 +12,7 @@ type: concept
 
 Truffles are subterranean fungi, the various species constituting a coherent
 family interesting in structure, almost unique in habitat, unequaled in flavor
-and aroma. They belong to the [[ascomycete-phylum-guide]], characterized by
-having asci, or spore sacs, in which the spores are produced. The truffles are
-among the most prized foods in the culinary traditions of southern Europe.
-
-## Historical Background
-
-It would appear that terfas, and not the now famous truffles of southern
-Europe, were the subterranean fungi known to be so highly prized by the early
-Greeks and Romans. The European truffles came into use in the courts of France
-and Italy sometime prior to the 14th century.
-
-*[[tuber-melanosporum]]*, the Perigord truffle now of world-wide fame, seems to
+and aroma. They belong to the [[tuber-melanosporum]]*, the Perigord truffle now of world-wide fame, seems to
 have made its entrance into Parisian culinary proceedings towards the close of
 the 18th century. Its superior merits were first discovered by Bruyerin-
 Champin, medical adviser to Francis the First and Henry the Second.
@@ -32,11 +21,7 @@ Champin, medical adviser to Francis the First and Henry the Second.
 
 France is practically the only country in which truffles constitute an article
 of commerce. About one-third the French product is exported. They are found in
-the temperate and warm [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]] of western southern Europe, from Italy
-westward, and from the 40th to the 48th parallel.
-
-Truffles are found in close association with the roots of certain trees,
-especially the evergreen oaks *[[quercus-ilex]]* and *Q. coccifera*, and the
+the temperate and warm [[quercus-ilex]]* and *Q. coccifera*, and the
 velvety deciduous oak *Q. sessiliflora*. The natural home of truffles is under
 the shade of the oak, and no professional truffle hunter would waste time
 looking elsewhere.
@@ -64,7 +49,7 @@ specimens exceeding one pound. The tissue is solid, showing a brown ground
 marbled with lighter veins. It is the most highly prized species and the chief
 commercial truffle of France.
 
-*[[tuber-magnatum]]* has a yellow [[abort-suppression-brassinosteroid-incomplete-fruit-body-reduction]] resembling a spherical yam, smooth
+*[[abort-suppression-brassinosteroid-incomplete-fruit-body-reduction]] resembling a spherical yam, smooth
 but irregular, with lighter internal tissue. The flavor is somewhat onion-like.
 It is highly esteemed in Italy as *fiorini* or *tartufo bianco*, particularly
 abundant in Lombardy.
@@ -118,8 +103,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[dom]]
 - [[spore]]
-- [[brassinosteroid]]
 - [[tuber-melanosporum]]
 - [[hallucinogenic-mushroom-terminology-european-languages-emcdda-2006]]

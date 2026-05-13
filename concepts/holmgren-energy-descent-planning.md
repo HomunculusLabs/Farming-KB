@@ -11,29 +11,11 @@ tags: [energy]
 
 # Holmgren Energy Descent Planning
 
-Energy descent planning is the application of [[permaculture-design-principles-and-sustainability]] to the practical challenge of adapting human systems to declining energy availability. Holmgren positions permaculture not as a lifestyle choice but as the design system for navigating the inevitable transition from fossil-fuel-powered civilisation to a low-energy future.
-
-## The Energy Descent Reality
-
-Once we accept the reality and magnitude of energy descent, we begin to ask what "sustainability" might actually mean in practice. If high-energy society cannot be sustained beyond the [[holmgren-nuclear-and-fossil-fuel-techno-optimism]] pulse, then our task shifts from sustaining the unsustainable to adapting to decline with grace and ethics. See [[holmgren-ecological-succession-and-pulsing]].
-
-## Planning from the Household Upward
-
-Holmgren emphasises bottom-up redesign processes, starting with the individual and household as drivers for change at the market, community, and cultural level. This is not withdrawal from the world but the most effective leverage point for systemic change.
-
-The [[permaculture-design]] but several are especially critical:
+Energy descent planning is the application of [[holmgren-nuclear-and-fossil-fuel-techno-optimism]] pulse, then our task shifts from sustaining the unsustainable to adapting to decline with grace and ethics. See [[permaculture-design]] but several are especially critical:
 
 ### Maximising Energy Capture and Storage
 
-During energy descent, systems that efficiently [[permaculture-principle-catch-and-store-energy]] energy become increasingly valuable. This includes holmgren-catch-and-store-energy-detailed.
-
-### Reducing Scale and Speed
-
-holmgren-permaculture-diversity-principle reduces vulnerability to disruption. Energy descent planning involves maintaining multiple pathways for meeting basic needs, rather than depending on single solutions. This includes diverse food sources, energy systems, economic networks, and social structures.
-
-### Adaptive Capacity Over Efficiency
-
-In an energy growth phase, maximising efficiency is a rational strategy. In descent, the capacity to adapt to changing conditions becomes more important than peak efficiency. This means maintaining flexibility, skills, and social capital even when they appear redundant. See [[permaculture-design]] provides the spatial organising tools for bioregional adaptation, while faires-hugelkultur-and-forest-garden-strategy and other perennial-based food systems are particularly relevant because they require minimal energy inputs once established while producing diverse yields over decades.
+During energy descent, systems that efficiently [[permaculture-design]] provides the spatial organising tools for bioregional adaptation, while faires-hugelkultur-and-forest-garden-strategy and other perennial-based food systems are particularly relevant because they require minimal energy inputs once established while producing diverse yields over decades.
 
 ## Cultural Dimensions
 
@@ -54,24 +36,7 @@ Energy descent requires economic restructuring from globalised consumer capitali
 - Rebuilding household and local economies to reduce dependence on global systems
 - Developing holmgren-suburban-edges-retrofit-design is particularly important given the vast investment already embedded in suburban development patterns.
 
-The retrofit approach connects to [[permaculture-design]] function as a transferable thinking framework applicable across all domains of life. Teaching these principles — through design courses, demonstration sites, and community projects — builds the cognitive infrastructure for adaptation that is at least as important as physical infrastructure.
-## Practical Considerations
-
-When working with Holmgren Energy Descent Planning, several practical factors should be
-carefully considered to achieve optimal results. These include
-the specific conditions of the implementation context, available
-resources, timing requirements, and the interactions between this
-topic and other elements of the broader system. A holistic view
-that considers these interconnections produces better outcomes.
-
-Environmental conditions such as temperature, moisture, and
-seasonal patterns significantly influence results. Monitoring these
-variables and adapting practices accordingly is essential for success.
-The most effective practitioners develop keen observation skills and
-respond flexibly to changing conditions rather than following rigid
-protocols regardless of circumstances or local variation.
-
-[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
+The retrofit approach connects to [[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -111,8 +76,6 @@ through generations to modern scientific approaches, the evolution continues
 to inform current best practices and research directions.
 
 ## See Also
-- [[dom]]
 - [[det]]
-- [[hugelkultur]]
 - [[permaculture]]
 - [[permaculture-energy-descent-planning]]

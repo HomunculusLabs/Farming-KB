@@ -13,11 +13,8 @@ type: concept
 
 ## Overview
 
-[[fungal-hyphae]] are threadlike filaments constituting [[fungal-mycelium-hyphae-and-the-feeding-phase]] of
-fungi. Unlike animal cells, hyphae are encased in rigid [[alpha-1-3-glucan-fungal-pathogen-cell-walls]] and
-maintain internal hydrostatic pressure (turgor) ranging from one to ten
-atmospheres. For over a century, mycologists believed turgor was the
-primary driver of hyphal extension. Research by [[nicholas-money]] and Frank
+[[fungal-mycelium-hyphae-and-the-feeding-phase]] of
+fungi. Unlike animal cells, hyphae are encased in rigid [[nicholas-money]] and Frank
 Harold has challenged this view, revealing a more nuanced picture of
 fungal growth mechanics.
 
@@ -29,7 +26,7 @@ organelles, and vesicles that stream toward the tip delivering enzymes
 and wall materials. Hyphae extend exclusively at their tips through **tip
 growth**: vesicles fuse with the plasma membrane at the apex, adding new
 surface and releasing wall-building enzymes. The extreme polarization of
-growth to the tip is one of the most [[metzner-three-distinctive-features-shamanic-entheogenic-ceremonies]] of [[bloomfield-fungal-biology-and-hyphal-growth]].
+growth to the tip is one of the most [[bloomfield-fungal-biology-and-hyphal-growth]].
 
 ## The Turgor Debate
 
@@ -43,12 +40,7 @@ this by halting growth.
 
 ### Revised Understanding
 
-Research on [[bloomfield-pythium-oomycete-water-molds]] demonstrated these organisms actually
-grew *faster* when internal pressure was eliminated by high solute
-concentrations. The revised model holds:
-
-1. **Turgor is not the growth driver** — wall expansion is driven by
-   assembly and remodeling of [[staycare-degradation-of-plant-cell-wall-polymers-by-fungi]] at the tip
+Research on [[staycare-degradation-of-plant-cell-wall-polymers-by-fungi]] at the tip
 2. **Turgor determines hyphal shape** — the pressurized cytoplasm acts
    as a mold around which the wall is modeled
 3. **Turgor enables substrate invasion** — not essential for growth in
@@ -85,41 +77,6 @@ Turgor pressure becomes critical when hyphae encounter solid barriers:
 
 ### Rock-Penetrating Fungi
 
-Some fungi grow inside granite bedrock, secreting [[citric-acid-cycle-tca-krebs-cycle]] and oxalic
-acid to dissolve minerals, pushing forward at their tips to pry apart
-rock particles. They create pathways for water percolation and ice
-
-## Practical Applications
-
-The principles and techniques discussed here have wide-ranging applications
-across multiple disciplines and contexts. Practitioners and researchers
-continue to explore new ways to integrate these concepts into modern practice,
-adapting traditional knowledge to contemporary challenges and opportunities.
-
-## Key Considerations
-
-Several important factors influence the effectiveness and outcomes described
-in this topic. Understanding these considerations helps practitioners make
-informed decisions and avoid common pitfalls. Environmental conditions,
-timing, and material selection all play critical roles.
-
-## Historical Context
-
-The historical development of this subject reflects centuries of accumulated
-knowledge and practical experience. From traditional methods passed down
-through generations to modern scientific approaches, the evolution continues
-to inform current best practices and research directions.
-
-## Common Challenges
-
-Practitioners frequently encounter several challenges when working with
-these concepts. Climate variability, resource limitations, and knowledge
-gaps can all affect outcomes. Addressing these challenges requires patience,
-observation, and a willingness to adapt approaches based on results.
-
-## See Also
-- [[mr-bloomfields-orchard-hyphal-turgor-pressure-and-fungal-growth]]
-- [[det]]
+Some fungi grow inside granite bedrock, secreting [[mr-bloomfields-orchard-hyphal-turgor-pressure-and-fungal-growth]]
 - [[mycelium]]
-- [[bloomfield-fungal-biology-and-hyphal-growth]]
 - [[hyphal-biology-and-turgor-pressure]]

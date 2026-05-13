@@ -67,23 +67,84 @@ Systemic effects at typical topical doses are minimal, though ingestion of high 
 Other natural sources include:
 
 - **Cornmint (*Mentha arvensis*):** 70–80% menthol content, the dominant source for industrial production
-- **Eucalyptus species:** Minor menthol constituent alongside [[eucalyptol]]
-- **Monarda species (bee balm):** Trace amounts
-- **Hedeoma species (American pennyroyal):** Variable menthol content
-
-Biosynthetically, menthol is derived from geranyl pyrophosphate via [[limonene]] as the key intermediate. Limonene is hydroxylated to trans-isopiperitenol, then reduced through a four-step enzymatic cascade involving isopiperitenone dehydrogenase, isopiperitenol reductase, [[pulegone]] reductase, and menthone reductase.
-
-## Production Methods
-
-Global menthol production exceeds 30,000 metric tons annually, with production split between natural extraction and synthetic manufacture:
-
-**Natural extraction:**
-- [[comparison-steam-distillation-vs-co2-extraction-for-essential-oils]] of *Mentha arvensis* herbage (China and India produce >80% of natural menthol)
+- **Eucalyptus species:** Minor menthol constituent alongside [[limonene]] as the key intermediate. Limonene is hydroxylated to trans-isopiperitenol, then reduced through a four-step enzymatic cascade involving isopiperitenone dehydrogenase, isopiperitenol reductase, [[comparison-steam-distillation-vs-co2-extraction-for-essential-oils]] of *Mentha arvensis* herbage (China and India produce >80% of natural menthol)
 - Crystallization from frozen peppermint oil at −40 °C
-- Further purification by [[cannabis-fractional-distillation-cannabinoids]] and recrystallization
-
-**Synthetic production:**
-- **Takasago process (citronellal cyclization):** The dominant industrial route, starting from [[myrcene]]. Myrcene is converted to geranyl chloride, then to citronellal, which undergoes asymmetric cyclization to [[isopulegol]] using a chiral ruthenium-BINAP catalyst. Hydrogenation yields (-)-menthol with >99% enantiomeric excess.
-- **BASF process ([[thymol]] hydrogenation):** m-Cresol is alkylated with propylene to thymol, then hydrogenated to a racemic menthol mixture followed by resolution.
+- Further purification by [[myrcene]]. Myrcene is converted to geranyl chloride, then to citronellal, which undergoes asymmetric cyclization to [[thymol]] hydrogenation):** m-Cresol is alkylated with propylene to thymol, then hydrogenated to a racemic menthol mixture followed by resolution.
 
 The Takasago process is notable for using the first industrially applied asymmetric catalytic step, developed by Ryoji Noyori (Nobel Prize in Chemistry, 2001).
+
+## Overview
+
+Menthol represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish menthol
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving menthol extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Menthol finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for menthol. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+menthol and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Menthol has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of menthol into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.

@@ -12,19 +12,7 @@ sources:
   - Bartholomew, D.P. et al. (2003). "The pineapple." In query-how-to-manage-pests-and-diseases-in-mushroom-cultivation of Pineapple, 1–63.
   - Botella, J.R. & Smith, M.K. (2008). "Pineapple." In Encyclopedia of Fruit and Nuts, 329–336.
   - Lobo, M.G. & Paull, R.E. (2017). "Pineapple." In Postharvest Biology and Technology of Tropical and Subtropical Fruits, 149–177.
-  - Xuan, T.D. et al. (2008). "[[panax-ginseng]] of pineapple." In comparison-essential-oils-vs-neem-oil-vs-insecticidal-soap and Wound Healing, 201–216.
-  - FAO. "FAOSTAT: Pineapple production data." Food and Agriculture Organization.
----
-
-## Overview
-
-**Ananas comosus**, commonly known as pineapple, is a tropical herbaceous perennial in the Bromeliaceae family native to South America. It is the most economically important bromeliad, cultivated commercially for its edible multiple fruit.
-
-The species originated in the Paraná-Paraguay River drainage between southern Brazil and Paraguay. Indigenous peoples of the region domesticated pineapple over several millennia before European contact in the late 15th century.
-
-Global production exceeds 28 million tonnes annually, with Costa Rica, the Philippines, Brazil, and Indonesia as the leading producers. The fruit is consumed fresh, canned, juiced, and dried in markets worldwide.
-
-Pineapple is notable for containing bromelain, a proteolytic enzyme complex with diverse industrial and [[psilocybin-therapeutic-applications]]. The enzyme is concentrated in the stem and fruit core.
+  - Xuan, T.D. et al. (2008). "[[psilocybin-therapeutic-applications]]. The enzyme is concentrated in the stem and fruit core.
 
 ## Taxonomy and Morphology
 
@@ -48,9 +36,7 @@ The crop performs best in well-drained sandy or loamy soils at pH 4.5–6.5, in 
 
 Natural flowering is induced by cool temperatures and short daylengths, but commercial growers apply ethephon or calcium carbide to synchronize flowering. This practice, called "forcing," allows year-round production scheduling.
 
-The crop cycle from [[query-how-do-i-grow-garlic-organically-from-planting-to-harvest]] is 18–24 months for crown planting and 12–16 months for sucker planting. A single planting typically produces two ratoon crops before replanting.
-
-Yields vary widely by cultivar and management system, ranging from 40 to 80 tonnes per hectare under commercial conditions. The MD-2 cultivar typically achieves higher yields than Smooth Cayenne in [[mollison-designers-market-garden-intensive-production-design]] systems.
+The crop cycle from [[mollison-designers-market-garden-intensive-production-design]] systems.
 
 Major pests include the pineapple mealybug (*Dysmicoccus brevipes*), which transmits pineapple wilt disease (mealybug wilt-associated virus). Nematodes (*Meloidogyne* spp.) and heart rot caused by *Phytophthora* spp. are also significant constraints.
 
@@ -66,24 +52,89 @@ Pineapple is the only commercially significant dietary source of bromelain, a mi
 
 ## Bioactive Compounds and Pharmacology
 
-Bromelain is the most studied bioactive compound in pineapple. It demonstrates anti-inflammatory activity by modulating prostaglandin and leukotriene synthesis, and has been investigated for osteoarthritis, post-surgical swelling, and upper [[cannabis-respiratory-conditions]].
+Bromelain is the most studied bioactive compound in pineapple. It demonstrates anti-inflammatory activity by modulating prostaglandin and leukotriene synthesis, and has been investigated for osteoarthritis, post-surgical swelling, and upper [[aact-tannins-terpenes-phenolic-compounds-wood-composting-ingham]] in pineapple include gallic acid, caffeic acid, ferulic acid, and various flavonoid glycosides. These contribute antioxidant capacity measured by ORAC assays, though in vivo significance remains less established.
 
-In vitro studies show bromelain inhibits platelet aggregation and exhibits fibrinolytic activity. Clinical evidence supports modest benefit for acute sinusitis and as a digestive enzyme supplement. It is approved as a post-surgical anti-inflammatory agent in Germany.
-
-[[aact-tannins-terpenes-phenolic-compounds-wood-composting-ingham]] in pineapple include gallic acid, caffeic acid, ferulic acid, and various flavonoid glycosides. These contribute antioxidant capacity measured by ORAC assays, though in vivo significance remains less established.
-
-Pineapple core and stem extracts show antimicrobial activity against *Escherichia coli*, *Staphylococcus aureus*, and *[[bloomfield-candida-albicans-yeast-hyphal-dimorphism]]* in laboratory studies. Traditional medicine uses pineapple juice for digestive complaints, wound cleansing, and throat inflammation.
-
-## Ecology and Applications
-
-Wild *Ananas* species inhabit open savannas and forest edges in tropical South America, often growing as terrestrials in well-drained, acidic soils. The genus is pollinated primarily by hummingbirds, though the cultivated form is propagated vegetatively.
-
-The CAM photosynthetic pathway allows pineapple to maintain high water-use efficiency, making it well-adapted to seasonally dry tropical environments. This physiological adaptation enables cultivation in areas where other tropical fruits require irrigation.
-
-Pineapple cultivation provides livelihoods for millions of smallholder farmers in tropical [[low-cost-mushroom-growing-house-construction-developing-countries]]. In many regions, pineapple is intercropped with banana, cassava, or legumes during the long crop establishment period.
+Pineapple core and stem extracts show antimicrobial activity against *Escherichia coli*, *Staphylococcus aureus*, and *[[low-cost-mushroom-growing-house-construction-developing-countries]]. In many regions, pineapple is intercropped with banana, cassava, or legumes during the long crop establishment period.
 
 Post-harvest processing generates substantial waste — the rind, core, and crown represent 40–60% of total fruit weight. This waste is increasingly valorized for bromelain extraction, dietary fiber production, animal feed, and bioethanol fermentation.
 
 The long fibrous leaves yield a strong, fine [[natural-dye-plants]] historically used in Philippine piña cloth. This traditional craft produces lightweight, sheer fabric used in formal garments such as the Barong Tagalog.
 
 ### Major Cultivar Groups
+
+## Overview
+
+Ananas Comosus represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish ananas comosus
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving ananas extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Ananas Comosus finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for ananas comosus. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+ananas comosus and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Ananas Comosus has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of ananas comosus into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.

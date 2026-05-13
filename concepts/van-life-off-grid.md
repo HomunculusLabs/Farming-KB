@@ -3,7 +3,7 @@ title: Van Life Off Grid
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
-tags: [off-grid, [[homesteading]], construction, design, sustainability, engineering]
+tags: [off-grid, homesteading, construction, design, sustainability, engineering]
 sources: []
 ---
 
@@ -17,7 +17,7 @@ Camper van living off-grid combines mobility with self-sufficiency. A well-built
 
 **Ford Transit**
 - Available in 150, 250, 350 configurations
-- High roof and extended length [[query-what-are-the-best-heating-options-for-an-off-grid-homestead]]
+- High roof and extended length options
 - EcoBoost gas or diesel engines
 - Good parts availability
 - Price: $30,000-55,000 new, $15,000-35,000 used
@@ -131,7 +131,7 @@ A 200W solar array with 100Ah LiFePO4 battery handles this budget comfortably in
 
 ### Greywater
 
-- 5-10 gallon greywater tank (or direct drain with [[off-grid-waste-management]] filter)
+- 5-10 gallon greywater tank (or direct drain with [[off-grid-waste-management|greywater]] filter)
 - For off-grid use: greywater can drain through a simple grease trap into a dispersal area
 - Greywater garden: direct greywater to mulch basins around plants when stationary
 
@@ -140,11 +140,11 @@ A 200W solar array with 100Ah LiFePO4 battery handles this budget comfortably in
 - Portable propane camp shower (simplest)
 - 12V immersion heater element in a tank
 - Propane instant water heater (more complex but convenient)
-- Heat water on stove and transfer to shower bag
 
-## Composting Toilet
+## See Also
 
-Essential for off-grid van living. See [[off-grid-waste-management]] for detailed comparison.
-
-**Popular Options:**
-- Nature's Head: Most proven, urine diverter, 12V vent fan
+- [[soil-biology-and-underground-life]]
+- [[agaricus-campestris-biology-and-life-cycle]]
+- [[mushroom-cultivator-life-cycle-and-spore-germination]]
+- [[molecules-of-life-in-plants]]
+- [[bloomfield-fungal-life-cycle-spiral-versus-circle]]

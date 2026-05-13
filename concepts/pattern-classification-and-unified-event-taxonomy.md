@@ -8,7 +8,7 @@ type: concept
 
 ## Overview
 
-In [[permaculture-design]] theory, all events and phenomena—whether natural, social, or conceptual—can be classified within a unified system of categories. This taxonomy, developed by [[bill-mollison]] as part of his general pattern model, provides designers with a systematic way to analyze, compare, and understand the essential characteristics of any phenomenon. By classifying events across multiple dimensions, we gain insight into their nature, stage of development, dimensionality, and spatial relationship to their environment.
+In [[bill-mollison]] as part of his general pattern model, provides designers with a systematic way to analyze, compare, and understand the essential characteristics of any phenomenon. By classifying events across multiple dimensions, we gain insight into their nature, stage of development, dimensionality, and spatial relationship to their environment.
 
 ## The Classification System
 
@@ -70,7 +70,7 @@ Using this system, any event can be given a compact annotation:
 
 ## The Purpose of Classification
 
-This classification system serves several important functions for permaculture designers:
+This classification system serves several important functions for [[permaculture]] designers:
 
 ### 1. Pattern Recognition
 
@@ -104,6 +104,5 @@ This classification system rests on the permaculture principle that all phenomen
 The system is deliberately simple—five categories with a few subcategories each—yet capable of describing the essential characteristics of any phenomenon the designer encounters.
 
 ## See Also
-- [[event-classification-and-pattern-unity]]
 - [[pattern-classification-time-and-unified-events]]
 - [[event-classification-and-time-in-pattern-models]]

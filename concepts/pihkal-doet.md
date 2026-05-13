@@ -12,34 +12,18 @@ type: concept
 
 ## Overview
 
-DOET (2,5-dimethoxy-4-ethyl[[pihkal-dob-doi-dom-amphetamine-series-comparison]]), also known as DOETH, is a
-psychedelic amphetamine documented in PIHKAL as [[shulgin-mda-compound-profile]] #35. It is a member
+DOET (2,5-dimethoxy-4-ethyl[[shulgin-mda-compound-profile]] #35. It is a member
 of the DO (dimethoxyamphetamine) family, distinguished by an ethyl group at
 the 4-position rather than the halogen atoms found in more famous DO
 compounds like DOB, DOC, and DOI.
 
-The ethyl substituent gives DOET a [[dmt-vs-lsd-pharmacological-comparison-onset-duration-receptor]] and subjective profile
-that differs meaningfully from the halogenated DO compounds. It is less
-potent and shorter-acting than DOB or DOI, and its effects are often
-described as having a warmer, more empathogenic quality. This places DOET
-in an interesting niche [[query-difference-between-white-rot-and-brown-rot-fungi]] the purely psychedelic DO compounds and the
+The ethyl substituent gives DOET a [[query-difference-between-white-rot-and-brown-rot-fungi]] the purely psychedelic DO compounds and the
 more emotion-focused members of the phenethylamine family.
 
 DOET was one of the compounds that contributed to Shulgin's broader
 understanding of how 4-position substituents influenced the character of
-[[leary-psychedelic-experience-bardo-mapping]], a theme that runs throughout PIHKAL.
-
-## Chemical Structure and Classification
-
-DOET's IUPAC name is 1-(4-ethyl-2,5-dimethoxyphenyl)propan-2-amine. It
-shares the core DO series structure of methoxy groups at positions 2 and 5
-with an ethyl group (two-carbon chain) at the 4-position. This ethyl
-substituent connects it structurally to DOM (methyl at 4-position) while
-distinguishing it from the halogenated DO compounds.
-
-The ethyl group is [[shirota-psilocin-psilocybin-large-scale-synthesis-pathway]]r and more lipophilic than the methyl group in DOM,
-contributing to [[query-what-is-the-difference-between-fungal-dominant-and-bacterial-dominant-compost-tea]]s in both potency and subjective character. The
-alpha-methyl group on the ethylamine [[shirota-glyoxalylamide-side-chain-construction-psilocin-synthesis]] provides resistance to MAO
+[[shirota-psilocin-psilocybin-large-scale-synthesis-pathway]]r and more lipophilic than the methyl group in DOM,
+contributing to [[shirota-glyoxalylamide-side-chain-construction-psilocin-synthesis]] provides resistance to MAO
 metabolism and extends duration of action relative to non-methylated
 phenethylamine analogues. DOET has a molecular weight of approximately
 237.34 g/mol.
@@ -64,19 +48,14 @@ still poses a risk of premature redosing.
 
 ## Effects Profile
 
-DOET produces a [[lsd-psychedelic-experience-guide]] that many users describe as warmer
-and more interpersonal than the halogenated DO compounds. Visual effects
-are present but tend to be less dominant than with DOB or DOI, including
-moderate geometric patterning, color enhancement, and perceptual
-sharpening. The visual character is often described as "soft" or "[[query-what-is-biodynamic-agriculture-and-how-does-it-differ-from-organic]]"
+DOET produces a [[query-what-is-biodynamic-agriculture-and-how-does-it-differ-from-organic]]"
 compared to the more intense and crystalline visuals of the bromine and
 iodine analogues.
 
 Cognitive effects include enhanced introspection, increased verbal fluency,
 and a quality of emotional openness that distinguishes DOET from many other
 DO compounds. Some users report mild empathogenic effects reminiscent of
-the MDA/[[mdma]] family, though less pronounced than with dedicated entactogens.
-The headspace is generally described as clear and [[query-what-are-predatory-mites-and-how-can-i-use-them-for-pest-control]]lable.
+the MDA/[[query-what-are-predatory-mites-and-how-can-i-use-them-for-pest-control]]lable.
 
 Physical effects include moderate stimulation, mydriasis, elevated heart
 rate, and appetite suppression. The stimulant component is present but less
@@ -88,3 +67,84 @@ relaxation during the peak, a quality relatively unusual among DO compounds.
 
 Shulgin found DOET to be a particularly interesting compound due to the
 ethyl group's influence on subjective character. In PIHKAL, he noted that
+
+## Overview
+
+Pihkal Doet represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish pihkal doet
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving pihkal extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Pihkal Doet finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for pihkal doet. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+pihkal doet and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Pihkal Doet has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of pihkal doet into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[aleph-4-entity-pihkal]]

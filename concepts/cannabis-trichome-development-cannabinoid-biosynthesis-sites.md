@@ -10,36 +10,7 @@ created: 2026-05-09
 
 ## Introduction
 
-[[cannabis-glandular-trichome-types-resin-production-clarke]] trichomes are the specialized epidermal structures responsible for synthesizing and storing the plant's valuable [[antifungal-secondary-metabolites-coprophilous-fungi]] — cannabinoids, terpenes, and flavonoids. Understanding trichome development, anatomy, and biosynthetic activity is fundamental to [[query-how-does-no-till-cannabis-cultivation-work]], breeding, and product quality control. The vast majority of cannabis's pharmacological and commercial value resides within these microscopic structures, which are concentrated primarily on the female inflorescence (flower) surfaces.
-
-## Trichome Types in Cannabis
-
-### Non-Glandular Trichomes
-
-Cannabis produces two types of non-glandular (covering) trichomes:
-
-- **Cystolithic trichomes**: Unicellular, with a distinctive bulging calcium carbonate body (cystolith) at the base. Found on leaf surfaces, particularly the abaxial (underside) surface. They provide physical defense against herbivory but produce no cannabinoids.
-- **Simple unicellular trichomes**: Straight, pointed, hair-like structures without glands. Common on stems and leaf surfaces. Their function is primarily physical protection and water regulation.
-
-### Glandular Trichomes
-
-Three types of glandular trichomes produce cannabinoids and terpenes:
-
-1. **Bulbous trichomes**: The smallest type (15–30 μm), consisting of a basal cell, a stalk cell, and a small bulbous head of 1–4 secretory cells. Present on all above-ground plant surfaces, including leaves, stems, and flowers. They produce small quantities of cannabinoids and terpenes.
-
-2. **Capitate-sessile trichomes**: Intermediate size (50–80 μm), consisting of a basal epidermal cell, a short stalk of 1–2 cells, and a globular head of secretory cells enclosed by a sheath of cuticle. Found on leaves, bracts, and bracteoles. They produce moderate amounts of cannabinoids and contribute significantly to total trichome density.
-
-3. **Capitate-stalked trichomes**: The largest and most pharmacologically important type (200–500 μm), consisting of a basal epidermal cell, a tall multicellular stalk (often 4–7 cells), and a large globular head (50–100 μm diameter) of 8–20 secretory disc cells. Exclusively abundant on the female inflorescence (flower) surfaces. They produce the highest concentrations of cannabinoids and terpenes, and their development and density are the primary determinants of flower quality.
-
-## Trichome Development
-
-### Initiation
-
-Trichome initiation begins during the [[comparison-cannabis-vegetative-stage-vs-flowering-stage]] but accelerates dramatically during the [[green-cannabis-grow-bible-flowering-phase-and-harvest]]. The process is regulated by:
-
-- **GLABROUS1 (GL1)-like transcription factors**: Homologs of the Arabidopsis trichome initiation genes regulate the spatial pattern of glandular trichome formation.
-- **Photoperiod**: The switch to short-day conditions (12/12 light/dark) that triggers flowering also upregulates trichome development genes.
-- **Hormonal regulation**: Cytokinins, gibberellins, and [[jasmonic-acid-plant-defense-signaling]] promote trichome initiation. Ethylene and abscisic acid modulate maturation.
+[[antifungal-secondary-metabolites-coprophilous-fungi]] — cannabinoids, terpenes, and flavonoids. Understanding trichome development, anatomy, and biosynthetic activity is fundamental to [[comparison-cannabis-vegetative-stage-vs-flowering-stage]] but accelerates dramatically during the [[jasmonic-acid-plant-defense-signaling]] promote trichome initiation. Ethylene and abscisic acid modulate maturation.
 
 ### Stalk Elongation and Gland Formation
 
@@ -57,18 +28,7 @@ Trichome maturation is visually assessed by color change:
 - **Cloudy/milky**: Peak cannabinoid production. The resin is accumulating rapidly and the gland is at maximum biosynthetic activity. Cloudy trichomes correspond to peak THC levels in THC-dominant cultivars.
 - **Amber/golden**: THC is beginning to degrade to CBN (cannabinol). In THC-dominant cultivars, amber trichomes indicate late harvest with more sedative effects. In CBD-dominant cultivars, amber coloration may indicate peak CBD maturity.
 
-The timing of harvest relative to trichome maturity is the single most important factor determining the psychoactive profile and [[cbd-therapeutic-effects]] of cannabis flowers.
-
-## Anatomy of the Glandular Head
-
-### Secretory Disc Cells
-
-The secretory disc cells form a convex layer beneath the cuticle. These cells are metabolically highly active, containing:
-
-- **Abundant endoplasmic reticulum**: For protein synthesis and membrane production.
-- **Numerous plastids**: Site of terpene precursor synthesis (geranyl pyrophosphate from the MEP pathway).
-- **Large nuclei**: Reflecting high transcriptional activity of biosynthetic genes.
-- **Vacuoles with [[aact-tannins-terpenes-phenolic-compounds-wood-composting-ingham]]**: Possibly involved in defense of the trichome itself.
+The timing of harvest relative to trichome maturity is the single most important factor determining the psychoactive profile and [[aact-tannins-terpenes-phenolic-compounds-wood-composting-ingham]]**: Possibly involved in defense of the trichome itself.
 
 ### Subcuticular Space
 
@@ -118,8 +78,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[pinene]]
 - [[dom]]
-- [[det]]
 - [[composting]]
 - [[linalool]]

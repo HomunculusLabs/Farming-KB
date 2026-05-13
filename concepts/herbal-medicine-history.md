@@ -15,17 +15,7 @@ The use of plants for healing is as old as humanity itself, predating written re
 
 Archaeological evidence suggests that humans have used medicinal plants for at least 60,000 years. Pollen analysis from Neanderthal burial sites in Shanidar Cave (Iraq) dating to approximately 60,000 years ago revealed the presence of several plant species known to have medicinal properties, including yarrow, marshmallow, and grape hyacinth, suggesting intentional use for healing purposes.
 
-The earliest written records of herbal medicine come from Sumerian clay tablets (approximately 5000 years ago) that list hundreds of medicinal plants including myrrh, licorice, and thyme. The Ebers Papyrus of ancient Egypt (approximately 1550 BCE) documents over 700 herbal remedies, including the use of cannabis ground in honey as a remedy for vaginal illness. Egyptian medical texts describe preparations of garlic, juniper, cannabis, aloe, and [[permaculture-castor-oil-plant]], many of which have confirmed pharmacological activity.
-
-## Chinese Herbal Medicine
-
-Traditional Chinese Medicine (TCM) represents one of the oldest and most continuously documented systems of herbal medicine. The Shennong Ben Cao Jing (Divine Farmer's Materia Medica), compiled approximately 2000 to 2500 years ago, classifies 365 medicinal substances into three categories: superior herbs (nontoxic, nourishing, suitable for long-term use), middle herbs (moderately toxic, therapeutic), and inferior herbs (toxic, used for specific conditions).
-
-This foundational text established principles of herbal combination and classification that continue to influence Chinese herbal practice today. The Ben Cao Gang Mu (Compendium of Materia Medica), compiled by Li Shizhen in 1578, documents over 1,800 medicinal substances and represents one of the most comprehensive pharmacological works of the premodern world.
-
-Chinese herbal medicine developed a sophisticated system of herbal formulation based on the concept of addressing patterns of disharmony rather than isolated symptoms. Formulas typically combine multiple herbs in hierarchical roles: chief herbs (address the primary pattern), deputy herbs (assist the chief herb or address secondary patterns), assistant herbs (moderate the properties of other herbs or treat accompanying symptoms), and envoy herbs (guide the formula to specific areas or harmonize the actions of other herbs).
-
-See [[oriental-herbal-nutrient-ohn]] for modern applications drawing on Asian herbal traditions.
+The earliest written records of herbal medicine come from Sumerian clay tablets (approximately 5000 years ago) that list hundreds of medicinal plants including myrrh, licorice, and thyme. The Ebers Papyrus of ancient Egypt (approximately 1550 BCE) documents over 700 herbal remedies, including the use of cannabis ground in honey as a remedy for vaginal illness. Egyptian medical texts describe preparations of garlic, juniper, cannabis, aloe, and [[oriental-herbal-nutrient-ohn]] for modern applications drawing on Asian herbal traditions.
 
 ## Indian Ayurvedic Medicine
 
@@ -37,15 +27,7 @@ Many Ayurvedic herbs have been extensively studied in modern research, and sever
 
 ## Greek and Roman Herbal Medicine
 
-Greek herbal medicine was formalized by Hippocrates (approximately 460 to 377 BCE), who is considered the father of [[fukuoka-eastern-western-medicine-healing-world-crisis]] and advocated for rational, observation-based treatment using diet, exercise, and herbal remedies. The Hippocratic Corpus describes hundreds of herbal treatments organized by disease category.
-
-Dioscorides, a Greek physician serving in the Roman army, compiled De Materia Medica (approximately 77 CE), a five-volume work describing over 600 medicinal plants with detailed information on identification, preparation, and therapeutic use. This work remained the standard pharmacological reference in Europe and the Middle East for over 1,500 years.
-
-Galen (129 to approximately 216 CE) systematized Greek and Roman medical knowledge and developed theories of herbal action based on the four humors and the qualities of hot, cold, dry, and moist. The Galenic system of herbal classification by temperature and moisture influenced European herbal medicine through the medieval period and into the early modern era.
-
-## Medieval European Herbalism
-
-During the European Middle Ages, monastic communities preserved and advanced herbal knowledge. Monasteries maintained physic gardens ([[query-how-do-i-build-a-medicinal-herb-drying-rack-and-optimize-drying-conditions]] gardens) and compiled herbals that documented local medicinal plants. The Benedictine order was particularly known for its herbal scholarship.
+Greek herbal medicine was formalized by Hippocrates (approximately 460 to 377 BCE), who is considered the father of [[query-how-do-i-build-a-medicinal-herb-drying-rack-and-optimize-drying-conditions]] gardens) and compiled herbals that documented local medicinal plants. The Benedictine order was particularly known for its herbal scholarship.
 
 The twelfth-century herbal of Hildegard of Bingen documents over 200 plants and their medicinal uses within a spiritual and cosmological framework. Medieval herbals such as the Book of Simples and various leechbooks (Anglo-Saxon medical texts) combined classical Greek and Roman knowledge with local folk traditions.
 
@@ -55,13 +37,7 @@ Arab-Islamic scholars preserved and expanded upon Greek and Roman medical texts 
 
 The sixteenth and seventeenth centuries saw an explosion of herbal publishing in Europe. John Gerard's The Herball (1597) and Nicholas Culpeper's The English Physician (1652) made herbal knowledge accessible to a broader audience. Culpeper's work was notable for translating Latin medical texts into English and integrating astrological correspondences with herbal practice.
 
-European colonial expansion brought contact with the herbal traditions of the Americas, Africa, Asia, and Oceania. Indigenous herbal knowledge from these regions was documented (and often appropriated) by European explorers, missionaries, and physicians. Many drugs that became mainstays of Western pharmacology originated in indigenous herbal traditions, including quinine from cinchona bark (South America), ipecac from ipecacuanha (Brazil), and curare from [[chiric-caspi-brunfelsia-south-american-hallucinogen]] vines.
-
-Paracelsus (1493 to 1541) challenged the Galenic system and introduced the concept that the dose determines toxicity ("the dose makes the poison"), shifting the theoretical basis of herbal medicine and pharmacology toward chemical understanding.
-
-## The Development of Modern Pharmacology
-
-The [[mckenna-club-des-hachischins-and-nineteenth-century-literary-hashish]] saw the isolation of active constituents from medicinal plants, beginning with morphine from opium poppy (1804), quinine from cinchona (1820), caffeine from coffee (1820), nicotine from tobacco (1828), and atropine from belladonna (1831). This process of isolating single active compounds transformed herbal medicine into modern pharmacology.
+European colonial expansion brought contact with the herbal traditions of the Americas, Africa, Asia, and Oceania. Indigenous herbal knowledge from these regions was documented (and often appropriated) by European explorers, missionaries, and physicians. Many drugs that became mainstays of Western pharmacology originated in indigenous herbal traditions, including quinine from cinchona bark (South America), ipecac from ipecacuanha (Brazil), and curare from [[mckenna-club-des-hachischins-and-nineteenth-century-literary-hashish]] saw the isolation of active constituents from medicinal plants, beginning with morphine from opium poppy (1804), quinine from cinchona (1820), caffeine from coffee (1820), nicotine from tobacco (1828), and atropine from belladonna (1831). This process of isolating single active compounds transformed herbal medicine into modern pharmacology.
 
 The development of synthetic chemistry in the late nineteenth and twentieth centuries allowed the modification of natural compounds and the creation of entirely synthetic drugs. Aspirin (acetylsalicylic acid), developed in 1897, was based on salicin from willow bark. Many modern pharmaceuticals are derived from or modeled on plant compounds, including digitalis glycosides from foxglove, vinca alkaloids from periwinkle, and taxol from Pacific yew.
 
@@ -79,10 +55,7 @@ Several foundational texts have shaped the development of herbal medicine across
 
 - **De Materia Medica (c. 77 CE):** Dioscorides' five-volume work is arguably the most influential herbal text in Western history. It catalogs approximately 600 plants with detailed descriptions of their appearance, habitat, preparation methods, and therapeutic indications. Remarkably, it remained the authoritative pharmacological reference in Europe and the Islamic world for over 1,500 years. Its systematic approach -- organizing plants by botanical characteristics rather than therapeutic properties -- represented an important advance toward empirical documentation. Many of Dioscorides' preparations (e.g., willow bark for pain, mint for digestive complaints) have been validated by modern pharmacology.
 - **Canon of Medicine (c. 1025 CE):** Avicenna's (Ibn Sina's) Al-Qanun fi al-Tibb synthesized Greek, Roman, Persian, and Indian medical knowledge into a comprehensive encyclopedic work spanning five volumes. The second volume, covering pharmacology of simple drugs, describes approximately 800 medicinal substances (mostly plants) with detailed analysis of their properties, actions, and preparations. The Canon introduced a sophisticated classification system based on the degree and quality (hot/cold, dry/moist) of each drug's action. It remained the standard medical textbook in European and Islamic universities from the twelfth through the seventeenth century and was one of the most printed medical texts of the Renaissance.
-- **Shennong Ben Cao Jing (c. 200-250 BCE):** The Divine Farmer's Materia Medica is the oldest extant Chinese herbal text and the foundation of Chinese pharmacology. It classifies 365 substances into three tiers: 120 superior herbs (tonics for long-term health maintenance, such as ginseng, licorice, and reishi mushroom), 120 middle herbs (therapeutic agents with moderate properties, such as ginger and cinnamon), and 125 inferior herbs (substances used for specific acute conditions, often with some toxicity, such as ephedra and rhubarb). This tripartite classification established the principle that medicinal substances exist on a spectrum from food-like tonics to potent therapeutic agents, a concept that continues to inform Chinese herbal practice and has influenced the development of [[kambo-frog-medicine-phyllomedusa-bicolor]]
-
-- [[herbal-materia-medica]] — individual herb profiles
-- [[ancient-cannabis-use-near-east-and-egypt]] — historical cannabis use
+- **Shennong Ben Cao Jing (c. 200-250 BCE):** The Divine Farmer's Materia Medica is the oldest extant Chinese herbal text and the foundation of Chinese pharmacology. It classifies 365 substances into three tiers: 120 superior herbs (tonics for long-term health maintenance, such as ginseng, licorice, and reishi mushroom), 120 middle herbs (therapeutic agents with moderate properties, such as ginger and cinnamon), and 125 inferior herbs (substances used for specific acute conditions, often with some toxicity, such as ephedra and rhubarb). This tripartite classification established the principle that medicinal substances exist on a spectrum from food-like tonics to potent therapeutic agents, a concept that continues to inform Chinese herbal practice and has influenced the development of [[herbal-materia-medica]] — individual herb profiles
 - [[herbal-formulation-principles]] — combining herbs effectively
 
 ## Practical Applications
@@ -114,8 +87,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[herbal-medicine]]
 - [[doc]]
-- [[salicin]]
 - [[morphine]]
 - [[det]]

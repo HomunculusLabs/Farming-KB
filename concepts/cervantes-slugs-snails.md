@@ -12,9 +12,7 @@ type: concept
 # Slugs and Snails on Cannabis
 
 Slugs and snails are soft-bodied mollusk pests that
-primarily affect [[knf-pest-control-methods]] for these common pests.
-
-See also: [[outdoor-cannabis-growing]]
+primarily affect [[outdoor-cannabis-growing]]
 
 ## Identification
 
@@ -50,11 +48,7 @@ and kill seedlings.
 ## Cultural and Physical Control
 
 Several non-chemical methods are effective for managing
-[[hamilton-slug-and-snail-control]] populations:
-
-### Barriers
-
-A thin layer of lime, [[comparison-neem-oil-cannabis-vs-diatomaceous-earth-cannabis]], or salty beach
+[[comparison-neem-oil-cannabis-vs-diatomaceous-earth-cannabis]], or salty beach
 sand two to six inches (6 to 15 cm) wide around
 individual plants, beds, or the entire garden creates an
 impassable barrier. The lime layer is not thick enough
@@ -81,44 +75,6 @@ two and dispose of the slugs.
 - **Jam traps:** A mix of fruit jam and water also
   attracts slugs effectively.
 
-See also: [[cervantes-sticky-traps-pest-monitoring]]
-
-## Poisonous Baits
-
-Poisonous baits usually contain metaldehyde as the
-active ingredient. To use bait safely:
-
-## Practical Applications
-
-The principles and techniques discussed here have wide-ranging applications
-across multiple disciplines and contexts. Practitioners and researchers
-continue to explore new ways to integrate these concepts into modern practice,
-adapting traditional knowledge to contemporary challenges and opportunities.
-
-## Key Considerations
-
-Several important factors influence the effectiveness and outcomes described
-in this topic. Understanding these considerations helps practitioners make
-informed decisions and avoid common pitfalls. Environmental conditions,
-timing, and material selection all play critical roles.
-
-## Historical Context
-
-The historical development of this subject reflects centuries of accumulated
-knowledge and practical experience. From traditional methods passed down
-through generations to modern scientific approaches, the evolution continues
-to inform current best practices and research directions.
-
-## Common Challenges
-
-Practitioners frequently encounter several challenges when working with
-these concepts. Climate variability, resource limitations, and knowledge
-gaps can all affect outcomes. Addressing these challenges requires patience,
-observation, and a willingness to adapt approaches based on results.
-
-## See Also
-- [[neem]]
-- [[query-how-to-get-rid-of-slugs-and-snails-organically]]
+See also: [[neem]]
 - [[slugs-and-snails-organic-control]]
-- [[jadam-pesticide-for-slugs-and-snails]]
 - [[marijuana-horticulture-cervantes-hydroponic-growing-systems]]

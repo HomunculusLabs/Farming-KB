@@ -50,9 +50,7 @@ The species occupies a variety of well-drained habitats including sandstone esca
 
 ## Nutritional Profile
 
-The Kakadu plum's most celebrated attribute is its extraordinary **ascorbic acid (vitamin C) content**. Reported concentrations range from 900 to 5,300 mg per 100 g fresh weight, representing 50–100 times the concentration found in oranges ([[citrus-sinensis]]).
-
-Vitamin C levels vary significantly with growing location, [[cannabis-harvest-timing-visual-cues]], and post-harvest handling. Shade-dried fruit retains approximately 40–50% of fresh vitamin C content.
+The Kakadu plum's most celebrated attribute is its extraordinary **ascorbic acid (vitamin C) content**. Reported concentrations range from 900 to 5,300 mg per 100 g fresh weight, representing 50–100 times the concentration found in oranges ([[cannabis-harvest-timing-visual-cues]], and post-harvest handling. Shade-dried fruit retains approximately 40–50% of fresh vitamin C content.
 
 Additional nutritional constituents include:
 
@@ -72,7 +70,7 @@ In vitro studies have demonstrated:
 
 - **Anti-inflammatory activity**: Ethanolic extracts inhibit COX-2 and iNOS expression in macrophage models. Ellagic acid is a key mediator of this effect.
 
-- **Antimicrobial activity**: Fruit extracts show inhibitory activity against Gram-positive bacteria ([[staphylococcus-aureus]], [[bacillus-subtilis]]) and selected foodborne pathogens.
+- **Antimicrobial activity**: Fruit extracts show inhibitory activity against Gram-positive bacteria ([[bacillus-subtilis]]) and selected foodborne pathogens.
 
 - **Anti-diabetic potential**: In vitro α-amylase and α-glucosidase inhibition has been documented, suggesting a mechanism for glycemic modulation.
 

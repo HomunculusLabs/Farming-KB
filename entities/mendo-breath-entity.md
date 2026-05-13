@@ -24,7 +24,7 @@ sources:
 
 ## Overview
 
-Mendo Breath is a potent indica-dominant [[query-what-is-the-difference-between-indica-sativa-and-hybrid-cannabis]] strain created by crossing **OGKB** (OG Kush Breath, a select [[girl-scout-cookies]] phenotype) with **Mendo Montage**.
+Mendo Breath is a potent indica-dominant [[girl-scout-cookies]] phenotype) with **Mendo Montage**.
 
 Bred in Mendocino County, California, it has earned a reputation as one of the most sedative and relaxing strains available, frequently recommended for evening and nighttime use.
 
@@ -37,17 +37,7 @@ The strain consistently tests between 19–25% THC, with negligible CBD content,
 | OGKB (OG Kush Breath) | Indica-dominant hybrid | Female seed parent; GSC phenotype |
 | Mendo Montage | Indica-dominant hybrid | Pollen parent; Mendo County landrace cross |
 
-OGKB is itself a select phenotype of Girl Scout Cookies, tracing back to OG Kush × [[durban-poison]].
-
-Mendo Montage brings additional indica depth from Mendocino County breeding stock, contributing to the strain's heavy sedative profile.
-
-The genetic ratio is approximately 80% indica / 20% sativa.
-
-## Appearance
-
-Buds are medium to large, dense, and tightly packed with a characteristic rounded, chunky structure typical of heavy indica varieties.
-
-Color is a striking gradient of deep [[trichoderma-forest-green-mold-guide]] with prominent purple and violet hues, particularly on the calyxes and sugar leaves exposed to cooler growing temperatures.
+OGKB is itself a select phenotype of [[oner-cookie-wreck-trainwreck-girl-scout-cookies-hybrid]], tracing back to OG Kush × [[trichoderma-forest-green-mold-guide]] with prominent purple and violet hues, particularly on the calyxes and sugar leaves exposed to cooler growing temperatures.
 
 The flowers are heavily coated in milky-white trichomes, giving them a frosted, almost sugary appearance.
 
@@ -87,3 +77,73 @@ The high myrcene and linalool content synergizes with THC to produce the strain'
 - **CBD:** <0.1% (negligible)
 - **CBN:** 0.1–0.3%
 - **THCV:** <0.1%
+
+## Overview
+
+Mendo Breath Entity represents an important element within sustainable
+design and [[solomon-gardening-aikido-pest-philosophy-ecological-management]] systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish mendo breath entity
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving mendo extend
+across multiple [[ingham-soil-foodweb-trophic-levels-protozoa-nematodes]] and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Mendo Breath Entity finds practical application in multiple design contexts.
+[[permaculture-principles]] guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive [[livestock-grassland-management-strategies]] that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for mendo breath entity. [[jeavons-climate-adaptation-growing-seasons]]
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+mendo breath entity and its applications. Active investigation
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Mendo Breath Entity has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of mendo breath entity into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.

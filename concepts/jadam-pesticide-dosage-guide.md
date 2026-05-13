@@ -9,16 +9,7 @@ sources:
 ---
 # JADAM Pesticide Dosage Guide
 
-All JADAM [[jadam-natural-pesticide-recipes]] are based on a standard 500L (132 gal) spray tank covering approximately 0.33 ha (0.8 ac). Actual coverage varies with plant size, spacing, and growth stage. Always use soft water (test with JWA), and always do a mixture test + concentration test before full-field application.
-
-## Core Ingredient Dosage Ranges (per 500L / 132 gal)
-
-### JADAM Wetting Agent (JWA)
-| Purpose | JWA Volume | Notes |
-|---------|-----------|-------|
-| Standard wetting | 3L (0.8 gal) | Minimum for effective coating |
-| Moderate pest/disease | 5L (1.3 gal) | Most common dosage |
-| Strong [[hamilton-beneficial-insects-and-biological-pest-control]] | 8L (1.6 gal) | For moth programs |
+All JADAM [[hamilton-beneficial-insects-and-biological-pest-control]] | 8L (1.6 gal) | For moth programs |
 | Heavy infestation | 10L (2.6 gal) | Max for routine use |
 | Emergency | 15L (4 gal) | Single use only, do not repeat |
 | Fog machine (17L tank) | 0.5L (0.13 gal) | Reduced proportionally |
@@ -30,29 +21,11 @@ Key rule: When increasing JHS, always increase JWA together. More JWA = more wet
 |---------|----------|-------|
 | Greenhouse start | 0.5L (0.13 gal) | Soft greenhouse leaves |
 | Open field start | 1L (0.26 gal) | Standard starting point |
-| Mild [[bloomfield-amphibian-decline-fungal-disease-climate-interactions]] | 1.2L (0.3 gal) | Powdery/downy mildew |
-| Canker, black spot, rust | 1.5L (0.4 gal) | Stronger germicide |
-| Rice leaf blight | 2L (0.53 gal) | Maximum for [[savory-growing-season-and-non-growing-season-management]] |
+| Mild [[savory-growing-season-and-non-growing-season-management]] |
 | Winter fruit tree spray | 5L (1.3 gal) | Dormant season only |
 | Fog machine (17L tank) | 0.1L (0.03 gal) | Reduced proportionally |
 
-Key rule: Never exceed 2.5L in [[extending-growing-season]] (concentration burn). Increase in 0.2L increments. Sensitive crops (persimmon, grape, walnut, perilla): start at 0.5L.
-
-### JADAM Herb Solution (JHS)
-| Purpose | JHS Volume | Notes |
-|---------|-----------|-------|
-| Mild pest pressure | 3L (0.8 gal) | Minimum effective dose |
-| Standard pest control | 5L (1.3 gal) | Aphid/mite program |
-| Heavy moth infestation | 15L (4 gal) | Moth program |
-| Severe/stubborn pests | 20L (5.3 gal) | Maximum dose |
-| Fog machine (17L tank) | 10L (2.6 gal) | For all JHS types |
-
-Key rule: JHS causes little concentration stress -- you can increase more freely than JS.
-
-### JADAM Microorganism Solution (JMS)
-| Purpose | JMS Volume | Notes |
-|---------|-----------|-------|
-| Standard preventive | 10L (2.6 gal) | Regular [[ultra-low-cost-foliar-application-methods]] |
+Key rule: Never exceed 2.5L in [[ultra-low-cost-foliar-application-methods]] |
 | Strong preventive | 20L (5.3 gal) | Maximum -- do not exceed |
 
 Key rule: Over 20L and microbes break down JWA, making it ineffective.
@@ -61,65 +34,92 @@ Key rule: Over 20L and microbes break down JWA, making it ineffective.
 
 | # | Target | JWA | JS | JHS | Additions |
 |---|--------|-----|----|-----|-----------|
-| 1 | [[jadam-rice-bakanae-treatment]] (seed soak) | -- | 5L | -- | 48hr cold soak |
-| 2 | Water rice weevil | 5L (in 5L) | 0.5L | -- | 3L canola oil |
-| 3 | Rice pest/disease combo | 5L | 2L | 5L JA + 5L KPFR | -- |
-| 4 | Powdery/downy mildew | 3L | 1.2L | -- | Add 5L JHS + 5L JWA for pests |
-| 5 | Canker, black spot, rust | 5L | 1.5L | -- | -- |
-| 6 | Aphid and mite | 5L | -- | 5L [[comparison-jerusalem-artichoke-vs-potato]] | +1-2L JS for disease |
-| 7 | Moth (general) | 8L | -- | 15L [[jerusalem-artichoke]] | +0.5kg red clay |
-| 8 | Planthopper, leafhopper | 10L | -- | 15L Gingko | +0.5kg red clay |
-| 9 | Stinkbug, thrips, whitefly | 10L | -- | 15L KPFR | Strongest of all |
-| 10 | Slug, snail | 3L | -- | -- | 1.5kg NaOH |
-| 11 | JMS preventive | 3L | -- | 5L JA + 5L Gingko | 20L JMS |
-| 12 | All-purpose | 6L | 1.5L | 5L JA + 10L KPFR | -- |
-| 13 | Winter fruit tree | 10L | 5L | -- | 2kg fine red clay |
-| 14 | Soil foundation | -- | -- | 20L JLF | 500L JMS + 0.5kg sea salt/0.1ha |
+| 1 | [[comparison-jerusalem-artichoke-vs-potato]] | +1-2L JS for disease |
+| 7 | Moth (general) | 8L | -- | 15L [[jerusalem-artichoke]]
+- [[field-guide-psilocybin-dosage-extraction-cultivation]]
+- [[psilocybin-potency-dosage-guide]]
 
-JA = Jerusalem artichoke; KPFR = Korean pasque flower root
+## Overview
 
-## Spray Volume and Coverage
+Jadam Pesticide Dosage Guide represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
 
-- Standard: 500L covers ~0.33 ha (0.8 ac)
-- 1 ton water per 0.03 ha (0.08 ac) for JLF application
-- Fine-particle nozzles are best (less volume needed, better coverage)
-- Spray thoroughly to fully wet the plant -- incomplete coverage = poor control
+## Key Characteristics
 
-## Application Timing
+Several defining characteristics distinguish jadam pesticide dosage guide
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
 
-- Spring/autumn: spray early morning (dew present)
+## Ecological Context
+
+The ecological relationships involving jadam extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
 
 ## Practical Applications
 
-The principles and techniques discussed here have wide-ranging applications
-across multiple disciplines and contexts. Practitioners and researchers
-continue to explore new ways to integrate these concepts into modern practice,
-adapting traditional knowledge to contemporary challenges and opportunities.
+Jadam Pesticide Dosage Guide finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
 
-## Key Considerations
+## Management and Implementation
 
-Several important factors influence the effectiveness and outcomes described
-in this topic. Understanding these considerations helps practitioners make
-informed decisions and avoid common pitfalls. Environmental conditions,
-timing, and material selection all play critical roles.
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for jadam pesticide dosage guide. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+jadam pesticide dosage guide and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
 
 ## Historical Context
 
-The historical development of this subject reflects centuries of accumulated
-knowledge and practical experience. From traditional methods passed down
-through generations to modern scientific approaches, the evolution continues
-to inform current best practices and research directions.
+Jadam Pesticide Dosage Guide has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
 
-## Common Challenges
+## Integration Strategies
 
-Practitioners frequently encounter several challenges when working with
-these concepts. Climate variability, resource limitations, and knowledge
-gaps can all affect outcomes. Addressing these challenges requires patience,
-observation, and a willingness to adapt approaches based on results.
+Successful integration of jadam pesticide dosage guide into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
 
 ## See Also
-- [[jerusalem-artichoke]]
-- [[psychedelic-mushroom-dosage-guide]]
-- [[field-guide-psilocybin-dosage-extraction-cultivation]]
-- [[psilocybin-mushroom-potency-and-dosage-guide]]
-- [[psilocybin-potency-dosage-guide]]
+
+- [[jadam-herb-solution-jhs]]
+- [[jadam-natural-mineral-water]]
+- [[jadam-potassium-fertilizer]]
+- [[jadam-rice-bakanae-treatment]]
+- [[jadam-soil-management-no-till-and-weed-control]]

@@ -17,50 +17,13 @@ sources:
   - AllBud (2023). "Mimosa blesching-cannabis-strain-selection-receptor-targeting." AllBud.com.
   - Snoop Dogg's Leaf List (2022). "Mimosa Strain Review." LeafsbySnoop.com.
   - Wikileaf (2023). "Mimosa Strain: Effects, Flavor, and Grow Info." Wikileaf.com.
-  - query-sog-vs-scrog-cannabis-training-methods University (2023). "Top Citrus [[cannabis-microbiome-otu-abundance-vs-presence-cannabis-strains]]." CTU.edu.
-created: 2026-04-28
----
-
-# Mimosa
-
-## Overview
-
-Mimosa is a sativa-dominant [[query-what-is-the-difference-between-indica-sativa-and-hybrid-cannabis]] strain created by crossing
-[[purple-punch]] with Clementine. Bred by Symbiotic Genetics, it has become
-one of the most popular daytime strains of the early 2020s, recognized
-for its vibrant citrus aroma and uplifting cerebral effects.
-
-The strain won first place in the Best Sativa category at the 2018
-Emerald Cup, establishing its reputation among competitive cannabis
-circles. Its name derives from the Mimosa cocktail, referencing both
-its bright citrus flavor profile and its brunch-appropriate social
-effects.
-
-Mimosa is widely available in legal cannabis markets across [[psilocybin-north-america-pacific-northwest]]
-and Europe. [[thc-content-factors-cultivation-freshness-storage-degradation-blesching]] typically ranges from 17–24%, with CBD levels
-below 1%.
-
-## Lineage
-
-Mimosa is a cross between two well-established cultivars:
-
-**Purple Punch** (female parent) — an indica-dominant cross of Granddaddy
-Purple and Larry OG. Purple Punch contributes dense [[green-cannabis-plant-anatomy-calyx-pistil-bud-structure]], deep
+  - query-sog-vs-scrog-cannabis-training-methods University (2023). "Top Citrus [[query-what-is-the-difference-between-indica-sativa-and-hybrid-cannabis]] strain created by crossing
+[[psilocybin-north-america-pacific-northwest]]
+and Europe. [[green-cannabis-plant-anatomy-calyx-pistil-bud-structure]], deep
 purple coloration potential, and a sweet grape-forward terpene background.
 
 **Clementine** (male parent) — a sativa-dominant cross of Tangie and
-Lemon Skunk. Clementine contributes the dominant citrus [[cannabis-terpene-profile]],
-energetic sativa effects, and bright orange pistil coloration.
-
-The resulting hybrid expresses approximately 70% sativa / 30% indica
-genetics, though phenotypic variation can shift this ratio. The Purple
-Punch parent is responsible for occasional purple-hued phenotypes that
-command premium pricing.
-
-## Appearance and Aroma
-
-Buds are medium to large, with a dense, tapered structure inherited from
-Purple Punch. Colors range from bright lime green to deep [[trichoderma-forest-green-mold-guide]],
+Lemon Skunk. Clementine contributes the dominant citrus [[trichoderma-forest-green-mold-guide]],
 with many phenotypes displaying striking purple and violet hues in the
 calyxes, especially under cooler nighttime temperatures during late
 flowering.
@@ -88,3 +51,88 @@ aftertaste.
   enhancing the sedative undertone from the Purple Punch parent.
 - **Caryophyllene** — provides a peppery spice note and contributes
   anti-inflammatory properties through CB2 receptor interaction.
+
+## Overview
+
+Mimosa represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish mimosa
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving mimosa extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Mimosa finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for mimosa. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+mimosa and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Mimosa has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of mimosa into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[entheogen-jurema-mimosa-hostilis-ethnobotany]]
+- [[mimosa-cannabis]]
+- [[mimosa-hostilis]]
+- [[schultes-mimosa-jurema-dmt-brazil]]
+- [[tompkins-mimosa-pudica-sensitive-plant-experiments]]

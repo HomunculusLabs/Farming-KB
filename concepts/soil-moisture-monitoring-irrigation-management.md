@@ -3,7 +3,7 @@ title: Soil Moisture Monitoring — Irrigation Management Sensors
 created: 2026-05-10
 updated: 2026-05-10
 type: concept
-tags: [irrigation, soil-moisture, sensors, [[water-management]]
+tags: [irrigation, soil-moisture, sensors, water-management
 sources: []
 ---
 # Soil Moisture Monitoring for Irrigation Management
@@ -12,12 +12,7 @@ sources: []
 
 Soil moisture monitoring is a cornerstone of modern irrigation management. Rather than irrigating on a fixed schedule or visual
 estimates, sensors provide real-time data on the water status within the root zone. This allows growers to apply water only when crops
-actually need it, reducing water waste, energy costs, and [[green-cannabis-soil-flushing-nutrient-leaching]] while maintaining or improving yield.
-
-Over-irrigation is one of the most common problems in agriculture worldwide. It wastes water, drives nitrogen below the root zone into
-groundwater, promotes disease pressure, and can create anaerobic conditions that damage root health. Under-irrigation stresses plants,
-reduces photosynthetic capacity, and lowers both yield and quality. Continuous monitoring provides the feedback loop needed to avoid
-both extremes and keep soil water in the optimal range throughout [[query-how-to-protect-plants-from-frost-and-extend-the-growing-season]].
+actually need it, reducing water waste, energy costs, and [[query-how-to-protect-plants-from-frost-and-extend-the-growing-season]].
 
 ## Soil Water Content vs. Soil Water Potential
 
@@ -26,10 +21,7 @@ selection and data interpretation.
 
 **Volumetric water content (VWC)** is the volume of water per unit volume of soil, expressed as a percentage or cm³/cm³. It tells you
 how much water is present but not how tightly it is held or how available it is to plant roots. VWC sensors include capacitance
-probes, TDR probes, and neutron [[cervantes-moisture-meters-watering-technique]].
-
-**Soil water potential (matric potential)** measures the energy status of water in the soil — essentially how hard a plant root must
-work to extract it. Expressed in bars, kilopascals (kPa), or centibars (cb). At [[bulk-substrate-field-capacity]] the potential is near zero; at the
+probes, TDR probes, and neutron [[bulk-substrate-field-capacity]] the potential is near zero; at the
 permanent wilting point it reaches about -15 bars (-1,500 kPa), beyond which plants cannot extract water. Tensiometers and granular
 matrix sensors measure potential directly.
 
@@ -72,7 +64,7 @@ limit use mostly to research stations.
 
 ### Gypsum Blocks and Granular Matrix Sensors
 
-Low-cost sensors measuring electrical resistance between two electrodes embedded in a porous medium (gypsum or granular fill).
+Low-cost sensors measuring electrical resistance between two electrodes embedded in a porous medium ([[gypsum]] or granular fill).
 Resistance increases as the medium dries. Inexpensive and simple but limited in accuracy and lifespan — gypsum blocks dissolve over
 time in saline soils.
 

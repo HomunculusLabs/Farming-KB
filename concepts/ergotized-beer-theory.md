@@ -19,29 +19,9 @@ sources:
 ## Overview
 
 The ergotized beer theory proposes that the kykeon — the sacred potion
-consumed during the [[mckenna-food-of-the-gods-kykeon-and-eleusinian-mysteries]] of ancient Greece — was a beer
-brewed from barley infected with [[claviceps-paspali]]*, which preferentially infects barley instead
+consumed during the [[claviceps-paspali]]*, which preferentially infects barley instead
 of rye, may contain a higher proportion of psychoactive but less toxic
-simple ergot alkaloids (similar to those in [[sacred-mexican-morning-glories-ololiuqui-and-tlitliltzin]]) and a lower
-proportion of the toxic peptide-containing ergot alkaloids.
-
-Second, macerating the ergotized grain in water would effectively
-separate the water-soluble psychoactive alkaloids from the fat-soluble
-toxic alkaloids. This simple preparation step could have been discovered
-empirically by ancient brewers.
-
-## Verification
-
-The theory remains unproven. The "acid test" would be the actual brewing
-of a superior hallucinogen from cereal grain infected with some strain of
-ergot. As of the theory's publication, no one had subjected it to this
-test. Until such an experiment is conducted, the theory remains well-
-argued speculation.
-
-## Alternative Theories
-
-If ergot played no part at Eleusis, Robert Graves's proposal that
-[[stropharia-cubensis]]* or other psilocybin-containing
+simple ergot alkaloids (similar to those in [[stropharia-cubensis]]* or other psilocybin-containing
 mushrooms may have survived from Minoan times until the final destruction
 of Eleusis in 396 A.D.
 
@@ -52,17 +32,8 @@ device.
 
 ## Legacy
 
-With the passing of Eleusis, the great river of [[mckenna-dominator-vs-partnership-society-model]],
-Goddess worship, and hallucinogenic ecstasy that had flowed for over ten
-thousand years sank into the chthonic realm of forgotten religions. The
-Christian triumph ended the glorification of nature as a supreme
-spiritual force and established dominator social models of paternalism
-and patriarchy in its place.
-## See Also
-
-- [[claviceps-purpurea]]
+With the passing of Eleusis, the great river of [[claviceps-purpurea]]
 - kykeon
-- [[lsd]]
 - [[mckenna-dominator-culture-and-suppression-of-ecstasy]]
 ## Practical Considerations
 
@@ -112,8 +83,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[psilocybin]]
 - [[dom]]
-- [[ololiuqui]]
 - [[lsd]]
 - [[mckenna-food-gods-wasson-amanita-theory]]

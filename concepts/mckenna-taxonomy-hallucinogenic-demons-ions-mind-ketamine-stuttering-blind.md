@@ -35,24 +35,7 @@ telling the truth, because the demons are of many kinds." The word "demons" is
 used in the classical Greek sense (daimon) — a guiding spirit or intermediary
 being — rather than the Christian sense of malevolent supernatural entity.
 McKenna's project is epistemological: how does one evaluate the truth claims of
-beings encountered in [[glossolalia-and-altered-states]]?
-
-## The Three Categories Ions Mind and Ketamine
-
-McKenna's three-part taxonomy can be unpacked as follows:
-
-**"Some are made of ions":** This category likely refers to entities encountered
-under the influence of compounds whose primary mechanism involves ion channel
-modulation or rapid electrochemical effects at the synaptic level. The language
-of "ions" suggests entities that feel material, physical, or electrophysiologically
-grounded — presences that have a tangible, almost electromagnetic quality to
-them. This category may encompass a broad range of hallucinogenic experiences
-where the entity feels like a perturbation in the body's own electrochemical
-field rather than a genuinely alien intelligence.
-
-**"Some of mind":** This category refers to entities that are encountered through
-the tryptamine compounds (DMT, psilocybin) and that McKenna characterizes as
-products of the Logos — "self-transforming [[dmt-machine-elves]]" that speak in language,
+beings encountered in [[dmt-machine-elves]]" that speak in language,
 convey translinguistic information, and engage in genuine dialogue with the
 experient. These entities are "made of mind" in the sense that they are cognitive
 phenomena — they operate through language, meaning, and information exchange
@@ -96,9 +79,7 @@ intentional visual presence of tryptamine entities.
 ## Presaging Modern Comparative Psychedelic Research
 
 McKenna's taxonomy, though expressed in poetic language, anticipates the modern
-[[hofmann-lsd-sandoz-research-program]] of comparative psychedelic phenomenology. The distinction
-between tryptamine and dissociative entity encounters has been confirmed by
-contemporary research using the [[mystical-experience]] Questionnaire, the
+[[mystical-experience]] Questionnaire, the
 Hallucinogen Rating Scale, and other psychometric instruments. Tryptamine
 experiences consistently rate higher on measures of mystical significance,
 entity encounter, and noetic quality, while dissociative experiences rate higher
@@ -127,12 +108,8 @@ epistemological engagement than the fragmented encounters of the dissociatives.
 
 ## See Also
 
-- [[mckenna-dmt-i-thou-relationship-entity-encounter-ethics]] — I/Thou encounter
-  ethics
-- mckenna dmt self transforming machine elves mckenna — [[tryptamine-entity-tihkal]]
+- [[tryptamine-entity-tihkal]]
   descriptions
-- [[mckenna-psychedelic-terror-and-existential-authenticity]] — evaluating
-  encounter authenticity
 - [[machine-elf-entities]] — broader entity encounter literature
 - [[glossolalia-translinguistic-objects]] — translinguistic phenomena in
   tryptamine states

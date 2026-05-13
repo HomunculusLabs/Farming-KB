@@ -23,10 +23,7 @@ Once dried, mushrooms can be stored for many months and sold in their
 natural form or powdered for soups, spice mixtures, teas, and other
 products. Some cultivators even sterilize their dried mushrooms without
 harm to prolong storage. Proper dehydration technique directly affects
-the texture, flavor retention, market value, and [[psilocybin-shelf-life-stability]] of the
-final product. This is a critical step in [[hps-grow-lights]]
-
-- [[mushroom-growing-methods-comparison]]
+the texture, flavor retention, market value, and [[hps-grow-lights]]
 
 - [[shiitake-mushroom-cultivation]]
 - growing-gourmet-flush-management-cropping-cycles

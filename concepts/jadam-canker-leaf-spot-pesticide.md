@@ -12,15 +12,7 @@ sources:
 
 ## Overview
 
-JADAM pesticide recipe #5 targets canker, black spot, pear rust, and [[oyster-brown-blotch-disease]] diseases on fruit trees and vegetables. This is a stronger formulation than recipe #4 ([[jadam-herb-solution-jhs]] for combined disease and [[comparison-pheromone-based-pest-control-vs-beneficial-insect-biocontrol]].
-
-**Developed by:** Jaun Gu, Hiseok Bak, Youngsang Cho
-
-## Recipe
-
-For 500 L (132 gal) of spray solution:
-
-- [[jadam-sulfur-js]] 1.5 L (0.4 gal)
+JADAM pesticide recipe #5 targets canker, black spot, pear rust, and [[jadam-herb-solution-jhs]] for combined disease and [[jadam-sulfur-js]] 1.5 L (0.4 gal)
 - Water to make 500 L (132 gal)
 
 ## Target Diseases
@@ -32,48 +24,12 @@ For 500 L (132 gal) of spray solution:
 - Rice leaf blight
 - White rot on mulberry
 - Brown blotch on chokeberry
-- [[cervantes-powdery-mildew-prevention-treatment]] on rose
-
-## Application Instructions
-
-### Basic Use
-- Use good water ([[jadam-microorganism-solution-jms]] to prevent disease through microbial diversity
+- [[jadam-microorganism-solution-jms]] to prevent disease through microbial diversity
 - Apply in early stage of disease outbreak for best results
 
 ### For Combined Pest + Disease Control
-- Add [[jadam-wetting-agent-jwa]] to 5 L (1.3 gal) or higher
-
-### Pepper Canker (Serious Infestation)
-- Increase JWA to 10 L (2.6 gal)
-- Increase JS to 2 L (0.53 gal)
-- Apply every 2 days for a total of 2-3 applications
-
-### Pear Rust
-- Apply around 11am on a clear day for best effectiveness
-
-## Critical Cautions
-
-- Do not use JS regularly throughout the season -- use only 2-3 times when disease problem exists
-- Do not re-use leftover JNP that contains JS
-- JS can cause concentration damage to young/soft leaves, greenhouse plants, grapes, persimmon, walnut, and perilla -- always do a concentration test first
-- When increasing JS, increase in 0.2 L (0.05 gal) increments
-- Recipe #5 is stronger than recipe #4 -- start with recipe #4 for milder fungal issues
-
-## Cost Advantage
-
-This recipe replaces expensive commercial fungicides. At JADAM-scale production, the total pesticide cost for 330 acres was approximately $7/acre per year.
-
-## Prevention Strategies
-
-Canker and leaf spot diseases are most effectively managed through
-prevention rather than treatment. Proper spacing ensures adequate
-[[stamets-growing-room-air-circulation-co2-management]] around plants, reducing the humid conditions that
-favor [[alpha-1-3-glucan-fungal-pathogen-cell-walls]] growth. Removing and destroying infected
-plant material prevents disease spread to healthy tissue. Avoiding
-overhead watering and watering early in the morning allows foliage
-to dry quickly, minimizing infection windows.
-
-[[comparison-crop-rotation-vs-cover-cropping]] breaks disease cycles by removing susceptible hosts
+- Add [[stamets-growing-room-air-circulation-co2-management]] around plants, reducing the humid conditions that
+favor [[comparison-crop-rotation-vs-cover-cropping]] breaks disease cycles by removing susceptible hosts
 from the growing area for 2-3 years. Resistant varieties, when
 available, provide the most sustainable long-term solution.
 Maintaining balanced soil nutrition through JADAM inputs
@@ -82,7 +38,6 @@ cell walls and natural defense compounds, making plants less
 susceptible to infection.
 ## See Also
 
-- [[jadam-natural-pesticide-jnp]] - JNP mixing system overview
 - [[jadam-pest-control-recipes]] - All numbered pesticide recipes
 
 ## Practical Applications
@@ -114,8 +69,82 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[youngsang-cho]]
 - [[jadam-pesticide-for-powdery-mildew]]
-- [[jadam-jms-jhs-pesticide]]
 - [[jadam-natural-pesticide-institute-and-research]]
 - [[jadam-jms-pesticide]]
+
+## Overview
+
+Jadam Canker Leaf Spot Pesticide represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish jadam canker leaf spot pesticide
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving jadam extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Jadam Canker Leaf Spot Pesticide finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for jadam canker leaf spot pesticide. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+jadam canker leaf spot pesticide and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Jadam Canker Leaf Spot Pesticide has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of jadam canker leaf spot pesticide into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.

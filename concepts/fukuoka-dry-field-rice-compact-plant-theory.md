@@ -10,21 +10,16 @@ type: concept
 created: 2026-04-28
 ---
 
-[[fukuoka-no-till-grain-production-method|direct seeding non-cultivation method]] and represents a radical departure from the assumptions of the
 [[fukuoka-no-till-grain-production-method|natural farming]] system. He had been growing rice in
 this manner for over twenty years, and the yields continued to increase and the soil became richer
 every year.
 
 ## Disease Resistance Through Growing Conditions
 
-When Fukuoka first began, his [[jadam-red-clay-powder-method]] soil was weak and unsuited for rice. Brown spot disease
-occurred frequently. As the field grew in fertility through [[cover-cropping-natural-farming|cover cropping]], brown spot disease
+When Fukuoka first began, his [[cover-cropping-natural-farming|cover cropping]], brown spot disease
 decreased and eventually disappeared entirely.
 
-The three great rice diseases, stem rot, [[bloomfield-rice-blast-appressorium-mechanics]], and bacterial leaf blight, could all but
-disappear if farmers stopped using weak improved varieties, stopped adding too much nitrogen to
-the soil, and reduced the amount of irrigation water so that strong roots could develop. Chemical
-sprays would become unnecessary. The approach connects directly to [[fukuoka-no-till-grain-production-method]], [[fukuoka-old-rice-variety-testing]], [[fukuoka-textdoc-weed-control-with-weeds-rice-barley-clover-discovery]]
+The three great rice diseases, stem rot, [[fukuoka-no-till-grain-production-method]], [[fukuoka-textdoc-weed-control-with-weeds-rice-barley-clover-discovery]]
 ## Practical Applications
 
 Fukuoka Dry Field Rice and Compact Plant Theory has a range of practical applications that make it relevant to
@@ -97,8 +92,6 @@ through generations to modern scientific approaches, the evolution continues
 to inform current best practices and research directions.
 
 ## See Also
-- [[doc]]
 - [[det]]
-- [[natural-farming]]
 - [[cover-crop]]
 - [[fukuoka-ideal-rice-plant-morphology-compact-growth-high-yield]]

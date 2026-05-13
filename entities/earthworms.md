@@ -17,40 +17,6 @@ livestock grazing the same land, yet they remain largely invisible to the casual
 
 - **Phylum:** Annelida
 - **Class:** Oligochaeta
-- **[[soil-biota]] category:** Macrofauna (2–20 mm and larger)
-- **Ecological role:** Ecosystem engineer, detritivore, soil aerator
-
-## Biomass and Activity
-
-- Productive pasture earthworm biomass: 2–65 tonnes per hectare.
-- Soil recycled by worms: 0.5–25 cm depth of soil per year (2–150 t/ha/year).
-- Semi-arid poor pasture at 3–6 sheep/ha may support 65 t/ha of earthworms underground.
-- Nitrogen turnover by earthworms exceeds that of plant litter fall.
-- Wormcasts draw alkaline bases (calcium) to the soil surface via capillary action.
-
-## Soil Biota Size Classification (Anderson, 1983)
-
-| Category | Size | Examples |
-|---|---|---|
-| Microflora/Microfauna | 1–100 nm | bacteria, fungi, nematodes, protozoa |
-| Mesofauna | 100 nm – 2 mm | mites, springtails, enchytraeid worms |
-| Macrofauna | 2–20 mm | earthworms, woodlice, centipedes, beetles |
-| Megafauna | above 20 mm | moles, rodents, wombats, rabbits |
-
-## Soil Biomass Composition (Rothamsted, UK)
-
-After 140 continuous wheat cropping cycles:
-- 50% fungi
-- 20% bacteria
-- 20% yeasts, algae, protozoans
-- 10% larger fauna (earthworms, nematodes, arthropods, molluscs)
-
-Total microbial biomass: 0.5 t/ha in the plough layer. Humus mean age: 1,400 years.
-
-## Roles in Soil Processes
-
-- **Aeration:** Burrows create channels for gas exchange, water infiltration, root penetration.
-- **Nutrient cycling:** Digest and mineralise organic matter; concentrate N, P, and other nutrients in casts.
 - **[[crumb-structure]]:** Casts and burrowing promote soil aggregation.
 - **pH modification:** Bring alkaline materials to the surface, creating vertical pH gradients.
 - **Microbial dispersal:** Carry bacteria and fungi throughout the soil profile.
@@ -91,7 +57,7 @@ Total microbial biomass: 0.5 t/ha in the plough layer. Humus mean age: 1,400 yea
 ## Relevance to Mycology
 
 - Disperse fungal spores throughout soil profile.
-- Create channels colonised by fungal hyphae.
+- Create channels colonised by [[fungal-hyphae]].
 - Increase anaerobic microsites supporting ethylene production.
 - Their casts are rich in microbial life including beneficial fungi.
 - Support the oxygen-ethylene cycle essential for nutrient availability.
@@ -105,6 +71,80 @@ Total microbial biomass: 0.5 t/ha in the plough layer. Humus mean age: 1,400 yea
 
 ## See Also
 
-- [[query-what-are-predatory-mites-and-how-can-i-use-them-for-pest-control]]
 - [[query-what-are-dung-beetles-and-how-do-they-benefit-soil-and-pasture-health]]
 - [[query-what-are-the-best-indicator-plants-for-soil-health]]
+
+## Overview
+
+Earthworms represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish earthworms
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving earthworms extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Earthworms finds practical application in multiple design contexts.
+[[permaculture-principles]] guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for earthworms. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+earthworms and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Earthworms has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of earthworms into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and

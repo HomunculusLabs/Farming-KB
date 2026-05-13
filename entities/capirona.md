@@ -6,7 +6,7 @@ type: entity
 
 ## Description
 
-Capirona (*Calycophyllum spruceanum*) is a medium to large tropical tree recognized in [[amazonian-vegetalista-shamanism-degrees-and-hierarchy]] tradition for its medicinal bark, specifically used in the treatment of diabetes. In Amaringo's Vision 40 (Ayacatuca — Bath of the Dead), pieces of capirona wood are among the medicinal tree materials laid out on the floor during a [[entheogen-cimora-folk-healing-ceremony]]. The spirits of the plants explain to the vegetalistas how these materials are to be used, conveying knowledge directly through the ayahuasca vision rather than through written or oral transmission.
+Capirona (*Calycophyllum spruceanum*) is a medium to large tropical tree recognized in [[entheogen-cimora-folk-healing-ceremony]]. The spirits of the plants explain to the vegetalistas how these materials are to be used, conveying knowledge directly through the ayahuasca vision rather than through written or oral transmission.
 
 The bark of capirona is described as being used specifically for treating diabetes, making it one of the few plants in Amaringo's extensive vision narratives explicitly associated with this metabolic condition. The tree appears alongside other important medicinal species in the Ayacatuca vision, including muena (*Endlicheria williamsii*) for snake bites, pajaro bobo (*Dendrobangia boliviana*) for diarrhea and sexual potency, and timareba (*Loetia* sp.) whose ashes are used in baths for children with poliomyelitis. This grouping demonstrates the systematic nature of plant-spirit teaching in the vegetalista tradition.
 
@@ -43,21 +43,16 @@ The bark of capirona is described as being used specifically for treating diabet
 - Flowers are small, tubular, white to cream-colored, arranged in terminal cymes
 - Fruit is a small cylindrical capsule containing numerous small winged seeds
 - A pioneer species, rapidly colonizing disturbed areas, fallows, and riverbanks throughout the Amazon
-- Common in secondary forests throughout the Amazon basin and adjacent [[fukuoka-natural-farming-in-tropical-regions]]
-- Wood is hard, dense, and durable, valued for construction, tool handles, and fuel
-- The species shows significant phenotypic [[psilocybin-psilocin-variation-across-flushes]] its wide geographic range
+- Common in secondary forests throughout the Amazon basin and adjacent [[psilocybin-psilocin-variation-across-flushes]] its wide geographic range
 
 ## Relevance to Cultivation and Mycology
 
-- The antidiabetic properties suggest the bark contains [[cordyceps-cancer-bioactive-compounds]] affecting **glucose metabolism**, potentially produced through **endophytic fungal associations**
-- As a pioneer species, it plays an important role in **forest succession** and creating conditions favorable for [[arbuscular-mycorrhizal-fungal-diversity]] establishment in degraded soils
+- The antidiabetic properties suggest the bark contains [[arbuscular-mycorrhizal-fungal-diversity]] establishment in degraded soils
 - The smooth peeling bark creates unique **microhabitats** for epiphytic fungi, lichens, and mosses on the trunk surface
 - Modern pharmacological studies have confirmed **hypoglycemic activity** in capirona bark extracts, validating traditional knowledge
 - The tree's fast growth in disturbed areas makes it valuable for **reforestation** and soil restoration involving beneficial fungi
-- [[endophytic-fungi-in-agriculture]] the bark may contribute to the tree's **[[amanita-muscaria-medicinal-properties-heart-anxiety-dreams]]** through [[fungal-elicitors-enhanced-secondary-metabolite-production]]
-- As Rubiaceae (coffee family), it may share family traits of **[[mycelial-broth-alkaloid-production]]** with antimicrobial significance
-- Sustainable bark harvesting practices are important for maintaining both tree populations and **associated [[biodiversity-fungi-soil-fungal-communities]]**
-- The tree's role in secondary forests contributes to **[[arbuscular-mycorrhizal-network-visualization-anastomosis]] development** in regenerating ecosystems
+- [[amanita-muscaria-medicinal-properties-heart-anxiety-dreams]]** through [[mycelial-broth-alkaloid-production]]** with antimicrobial significance
+- Sustainable bark harvesting practices are important for maintaining both tree populations and **associated [[arbuscular-mycorrhizal-network-visualization-anastomosis]] development** in regenerating ecosystems
 - Research into bark chemistry could yield **novel antidiabetic compounds** with potential fungal production pathways
 
 ## Research Directions
@@ -73,15 +68,83 @@ This subject has relevance across multiple disciplines and applications. Underst
 Implementation spans agricultural, ecological, and cultural contexts. The methodology draws on both traditional knowledge and modern scientific understanding.
 
 ## See Also
-- [[psilocybin-potency-variation-species-strain-growth-conditions]]
 - [[amanita-muscaria-medicinal-properties-heart-anxiety-dreams]]
-- [[arbuscular-mycorrhizal-fungi-in-tropical-forest-restoration]]
 - [[fungal-elicitors-enhanced-secondary-metabolite-production]]
-- [[arbuscular-mycorrhizal-network-visualization-anastomosis]]
-
-## See Also
 - [[amanita-muscaria-medicinal-properties-heart-anxiety-dreams]]
-- [[arbuscular-mycorrhizal-fungi-in-tropical-forest-restoration]]
 - [[psilocybin-potency-variation-species-strain-growth-conditions]]
-- [[fungal-elicitors-enhanced-secondary-metabolite-production]]
 - [[psilocybin-psilocin-variation-across-flushes]]
+
+## Overview
+
+Capirona represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish capirona
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving capirona extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Capirona finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for capirona. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+capirona and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Capirona has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of capirona into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and

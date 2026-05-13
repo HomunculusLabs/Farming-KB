@@ -23,16 +23,7 @@ Turner's personal discovery of a "magical link" between N,N-DMT and water, based
 
 ### On the Boat (Petaluma River)
 - Clear, cool May night under new moon on a boat ride
-- Pre-dosed: 250 mics LSD + ecstasy + ground [[golden-guide-syrian-rue-and-maoi-plants]] seeds (smoked, not extracted)
-- First DMT hit (~15 mg) in the boat cabin: "beautiful and enchanting visions," all menace absent
-- Second hit on deck looking out over water: "truly magical"
-- "The profound effect the water imparted to my experience was immediately obvious"
-- Patterns on water responsible for visions and the "profoundly magical and harmonious mental/emotional state"
-
-### The Revelation
-- Knowledge came not while on DMT, but during a Ketamine + 2C-B-like experience
-- An "elfin creature" whispered: "DMT is a Water Spirit plant"
-- Transmitted knowledge that [[mckenna-tryptamine-consciousness-dmt-spirit-molecule]] likes being near water, bestows peaceful visions near water, detests being away from water, and "those who use DMT removed from water will often experience its wrath"
+- Pre-dosed: 250 mics LSD + ecstasy + ground [[mckenna-tryptamine-consciousness-dmt-spirit-molecule]] likes being near water, bestows peaceful visions near water, detests being away from water, and "those who use DMT removed from water will often experience its wrath"
 
 ## Pattern Verification
 
@@ -76,7 +67,84 @@ Turner's personal discovery of a "magical link" between N,N-DMT and water, based
 
 ## See Also
 
-- [[dmt-smoking-and-administration-methods]] — DMT administration
 - [[ketamine-psychedelic-journey-guide]] — ketamine
-- [[turner-harmala-alkaloids-preparation-and-dosage]]
 - [[turner-psychedelic-combination-experience-reports]]
+
+## Overview
+
+[[turner-dmt]] Water Spirit Connection represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish turner dmt water spirit connection
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving turner extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Turner Dmt Water Spirit Connection finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for turner dmt water spirit connection. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+turner dmt water spirit connection and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Turner Dmt Water Spirit Connection has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of turner dmt water spirit connection into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also

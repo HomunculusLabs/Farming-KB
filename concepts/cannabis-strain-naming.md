@@ -23,15 +23,7 @@ Cervantes explicitly notes that "strain" is not a scientifically
 accepted botanical term, although it is widely used in the cannabis
 industry for lack of a more accurate alternative. The term is
 incorrectly applied to selections of cultivars or varieties. In the
-[[cannabis-seed-banks-and-genetics]] industry, very few seedlots could be considered true
-varieties or cultivars because they are not uniform and do not breed
-true. All plants within the population do not reproduce the defining
-characteristics.
-
-Very often, commercially sold seeds are nothing more than hybrids of
-hybrids with names, and there are no defining characteristics of the
-so-called "strain." Cervantes suggests that "family" or "group" may be
-more appropriate terms for most commercially available [[query-how-to-store-cannabis-seeds-for-long-term-viability]].
+[[query-how-to-store-cannabis-seeds-for-long-term-viability]].
 
 ## Variety and Cultivar
 
@@ -67,21 +59,7 @@ Hybrids are typically named by combining elements of their parent
 names or by assigning creative marketing names. Cervantes provides
 several examples of naming patterns:
 
-- **F1 hybrids:** Named after their cross, e.g., '[[cannabis-strain-mango-haze-northern-lights-skunk-haze]]' x
-  'Haze', 'Frostbite'.
-- **Multi-parent crosses:** 'Skunk #1' (Mexican x Colombian x Afghani)
-  reflects its three-parent composition.
-- **Double crosses:** 'Haze' is described as (Afghani x Thai) x
-  (Mexican x Colombian), incorporating four landrace origins.
-- **Descriptive names:** 'Hash Plant', 'Afghani', 'Hindu Kush',
-  'Early Pearl', 'Early Queen', '[[durban-poison]]', '[[jack-herer]]',
-  'Blueberry', '[[soil-heritability-otu-sharing-white-widow-cross-soil-cannabis-endorhiza]]', '[[oner-temple-bodhi-seeds-super-silver-haze-williams-wonder]]', 'Pure Power Plant',
-  'Big Bud', 'Northern Lights #5'.
-
-### Sequential Numbering
-
-Some breeders use sequential numbering to denote selection generations
-or specific phenotypes within a [[cervantes-breeding-program-design-goal-setting]], such as 'Northern
+- **F1 hybrids:** Named after their cross, e.g., '[[durban-poison]]', '[[soil-heritability-otu-sharing-white-widow-cross-soil-cannabis-endorhiza]]', '[[cervantes-breeding-program-design-goal-setting]], such as 'Northern
 Lights #5' indicating the fifth selected individual or generation.
 
 ### Geographic References
@@ -118,8 +96,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[hindu-kush]]
 - [[big-bud]]
-- [[northern-lights]]
 - [[durban-poison]]
 - [[weighted-vs-unweighted-unifrac-cannabis-strain-microbiome]]

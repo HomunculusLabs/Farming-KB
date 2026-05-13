@@ -67,9 +67,7 @@ Within Australian Aboriginal time-concepts, linear time is considered the least 
 
 ## Cross-References
 
-- [[bill-mollison]] — documented Pitjatjantjara knowledge during his time in Tasmania and Central Australia
 - [[anasazi-spiral]] — another example of sophisticated indigenous pattern-based knowledge encoding
-- [[anna-soaer]] — demonstrated how pattern literacy can decode traditional knowledge systems
 - [[herb-spiral]] — modern permaculture application of pattern-based design thinking
 
 ## Cultural Context
@@ -85,8 +83,6 @@ cultural narrative demonstrates how communities maintain and transmit
 ecological intelligence across generations through embodied practice.
 
 ## See Also
-- [[permaculture-ethics-of-earth-care-and-people-care]]
 - [[fukuoka-farming-for-all-creating-true-people]]
-- [[fukuoka-textdoc-rice-spiritual-soul-yamato-people]]
 - [[mazatec-people]]
 - [[permaculture-ethics-earth-care-people-care-fair-share]]

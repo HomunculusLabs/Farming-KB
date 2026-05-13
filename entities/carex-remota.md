@@ -73,9 +73,7 @@ In Mediterranean regions, the species is restricted to cooler, north-facing slop
 
 Carex remota is a characteristic species of damp woodland ground flora across its European range. It is particularly associated with ash-maple and alder woodlands on moist soils.
 
-Common associates include [[carex-sylvatica]], Deschampsia cespitosa, [[festuca-rubra]], [[ajuga-reptans]], and [[filipendula-ulmaria]]. In wetter woodlands, it may grow alongside Carex pendula and [[phragmites-australis]].
-
-The species contributes to the structural diversity of woodland [[fukuoka-rain-falls-from-ground-vegetation-rainfall-cycle]]. Its arching leaves create a soft understorey beneath tree canopies.
+Common associates include [[festuca-rubra]], [[filipendula-ulmaria]]. In wetter woodlands, it may grow alongside [[carex-pendula]] and [[fukuoka-rain-falls-from-ground-vegetation-rainfall-cycle]]. Its arching leaves create a soft understorey beneath tree canopies.
 
 Several invertebrate species are associated with Carex remota, including sedge-feeding moth larvae and saproxylic beetles that use accumulations of dead sedge material.
 

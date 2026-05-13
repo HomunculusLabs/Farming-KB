@@ -23,14 +23,7 @@ sources:
 
 ## Overview
 
-**[[spore-print]]:** Dark purplish-brown to nearly black
-- **Spores:** Ellipsoid, smooth, 10–13 × 6–8 μm, with a germ pore
-
-### Key Identification Features
-
-The combination of a burgundy cap (when young), prominent wrinkled ring, dark [[comparison-spore-print-collection-vs-spore-syringe-production]], and growth on wood chips or straw distinguishes S. rugosoannulata from similar species. The only potentially confusing lookalike is the inedible *[[mycelial-networks]] stabilize mulch layers on slopes and berms
-
-### [[query-how-to-grow-wine-cap-mushrooms]]
+**[[comparison-spore-print-collection-vs-spore-syringe-production]], and growth on wood chips or straw distinguishes S. rugosoannulata from similar species. The only potentially confusing lookalike is the inedible *[[query-how-to-grow-wine-cap-mushrooms]]
 - wine [[wine-cap-stropharia-cultivation]] cultivation
 - king-stropharia-wine-cap-cultivation
 ## Practical Applications

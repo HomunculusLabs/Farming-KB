@@ -11,9 +11,7 @@ sources:
 
 ## Overview
 
-Cannabis may be eaten raw, cooked into other foods, drunk as juice, inhaled after vaporization, smoked in a pipe, wrapped in paper and smoked, or rubbed into the skin. The method of consumption significantly affects onset time, duration of effects, bioavailability, and therapeutic appropriateness for different conditions. The [[query-how-does-foliar-feeding-work-for-cannabis]] to be absorbed through the gastrointestinal tract. The effects of consumed cannabis thus tend to be delayed, last much longer (4-8 hours), and are noticeably different compared to the effects of inhalation. Oral consumption undergoes first-pass hepatic metabolism, which converts THC to 11-hydroxy-THC -- a more potent metabolite that produces stronger psychoactive effects.
-
-Any favorite recipes can be fortified with cannabis-infused oil, or an alcohol-based tincture that supports specific needs. The oil or tincture should be added after the cooking process is completed, and at the right dose specific to the [[blesching-cannabis-therapeutic-window-dosing]].
+Cannabis may be eaten raw, cooked into other foods, drunk as juice, inhaled after vaporization, smoked in a pipe, wrapped in paper and smoked, or rubbed into the skin. The method of consumption significantly affects onset time, duration of effects, bioavailability, and therapeutic appropriateness for different conditions. The [[blesching-cannabis-therapeutic-window-dosing]].
 
 **Advantages:**
 - Longest duration of effects (4-8 hours)
@@ -32,25 +30,7 @@ Any favorite recipes can be fortified with cannabis-infused oil, or an alcohol-b
 **Best for:** Chronic conditions requiring sustained effects (pain, inflammation, sleep), appetite stimulation, conditions where prolonged coverage is needed
 
 ### Raw Cannabis Juice
-[[query-how-to-make-cannabis-tinctures-at-home]] or bought at most dispensaries. Since most products are not standardized, the titration process may need to be repeated each time a new bottle is made or purchased.
-
-Sublingual administration places cannabinoids under the tongue for absorption through the mucous membranes directly into the bloodstream, partially bypassing first-pass hepatic metabolism.
-
-**Advantages:**
-- Faster onset than oral (15-45 minutes)
-- Partially bypasses first-pass metabolism
-- Precise dropper-based dosing
-- Easy to titrate
-- Longer duration than inhalation (3-6 hours)
-- Available in both THC-dominant and CBD-dominant formulations
-
-**Disadvantages:**
-- Slower onset than inhalation
-- Less precise dosing than capsules
-- Products vary widely in concentration and quality
-- Taste may be unpleasant for some patients
-
-**Best [[cannabis-sativa]] ratios. It is approved in many countries for MS spasticity and neuropathic pain.
+[[cannabis-sativa]] ratios. It is approved in many countries for MS spasticity and neuropathic pain.
 
 ## Topical Application
 
@@ -58,40 +38,7 @@ Topical creams are used to deliver medicine to specific and isolated problem are
 
 Common topical preparations include:
 - **Balms and salves**: Oil-based preparations for localized pain and inflammation
-- **Creams and lotions**: Water-based preparations for [[cannabis-for-skin-conditions-detailed]]
-- **Oils**: Direct application to affected areas
-- **Patches**: Sustained-release topical delivery
-
-**Advantages:**
-- No psychoactive effects whatsoever
-- Targeted delivery to specific problem areas
-- Can be applied 2-3 times daily for chronic conditions
-- Full-spectrum cannabinoid and terpene delivery
-- Good for skin conditions, joint pain, muscle soreness
-
-**Disadvantages:**
-- Limited systemic absorption
-- Variable absorption rates depending on skin condition
-- May require consistent application for chronic conditions
-- Quality and consistency of commercial products vary significantly
-
-**Best for:** Dermatological conditions (psoriasis, eczema, acne), localized joint pain (arthritis), muscle soreness, post-surgical wound care, neuropathic pain in specific areas
-
-## Rectal Suppositories
-
-Some patients who want to deliver cannabinoids to the lower half of the intestinal tract use suction-bulbs filled with cannabis-infused oils inserted into the rectum similar to a suppository. This method provides direct delivery to the lower GI tract with minimal psychoactive effects.
-
-**Advantages:**
-- Direct delivery to lower GI tract
-- Minimal psychoactive effects
-- Useful for lower intestinal conditions (colitis, Crohn's)
-- Bypasses much of first-pass metabolism
-
-**Disadvantages:**
-- Less familiar and socially awkward administration method
-- Limited product availability
-- Variable absorption
-- Not well-studied in [[blesching-cannabis-health-index-autoimmune-conditions]]
+- **Creams and lotions**: Water-based preparations for [[blesching-cannabis-health-index-autoimmune-conditions]]
 
 ## Practical Applications
 
@@ -122,8 +69,82 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[dom]]
 - [[det]]
-- [[cannabis-oil-consumption-methods]]
 - [[hashish-preparation-and-cannabis-consumption]]
 - [[magic-mushroom-preparation-and-consumption-methods]]
+
+## Overview
+
+Cannabis Methods Of Consumption represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish cannabis methods of consumption
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving cannabis extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Cannabis Methods Of Consumption finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for cannabis methods of consumption. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+cannabis methods of consumption and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Cannabis Methods Of Consumption has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of cannabis methods of consumption into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.

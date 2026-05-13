@@ -13,34 +13,18 @@ type: query
 # What Is the Strongest Psilocybin Mushroom Species?
 
 ## Short Answer
-[[psilocybe-cyanescens]] at roughly 1.2%, [[psilocybe-bohemica]] at approximately 1% each, [[psilocybe-cubensis]] at approximately 0.6% average.
-Potency varies significantly based on genetics, growing conditions, and harvest
-timing for all species discussed here.
-
-## Potency Rankings by Species
-
-[[psilocybe-cyanescens]], known as "Wavy Caps" for the distinctive wavy margin
+[[psilocybe-bohemica]] at approximately 1% each, [[psilocybe-cyanescens]], known as "Wavy Caps" for the distinctive wavy margin
 of its mature cap, ranks second in potency at approximately 1.2% total
 tryptamines. Originally from the Pacific Northwest, it has become a widespread
-species in temperate regions worldwide, often found in [[comparison-ramial-wood-chip-mulch-vs-composted-wood-chips]] mulch in
-urban parks and gardens. Cyanescens is somewhat easier to cultivate than
-azurescens and is considered one of the most adaptable urban psilocybin
-mushrooms, fruiting readily on enriched wood chip beds in many climates.
-
-[[psilocybe-bohemica]], found in Central Europe, matches Liberty Caps in
+species in temperate regions worldwide, often found in [[psilocybe-bohemica]], found in Central Europe, matches Liberty Caps in
 potency at approximately 1% total tryptamines. It grows in deciduous and
-coniferous forests on [[fungal-succession-woody-debris-ecology]] and is particularly common in the Czech
-Republic and surrounding countries. [[psilocybe-cubensis]] is by far the most widely cultivated and consumed
+coniferous forests on [[psilocybe-cubensis]] is by far the most widely cultivated and consumed
 psilocybin mushroom globally, yet it has one of the lowest potencies among
 psychoactive Psilocybe species at approximately 0.6% average total
 tryptamines. However, certain cultivated strains of cubensis have been
 selected for higher potency, with some varieties reaching 1% or slightly
-above. [[psilocybe-azurescens]] is the most potent species at up to roughly 1.8%
-  total tryptamines, followed by [[psilocybe-semilanceata]] (Liberty Caps) and [[psilocybe-cubensis]] is the most widely cultivated species but has lower
-  average potency at roughly 0.6%, though selected strains may reach higher
-- Potency varies with genetics, substrate, growing conditions, [[cannabis-harvest-timing-visual-cues]]
+above. [[psilocybe-semilanceata]] (Liberty Caps) and [[cannabis-harvest-timing-visual-cues]]
   (pre-veil tear is optimal), and drying method
-- [[psilocybe-cubensis]]
 - [[psilocybin-mushroom-extraterrestrial-hypothesis]]
 ## Practical Considerations
 

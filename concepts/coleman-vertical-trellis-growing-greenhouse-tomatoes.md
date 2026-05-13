@@ -9,7 +9,6 @@
 - drop-and-lean trellis technique
 ## Related Concepts
 
-- [[coleman-greenhouse-tomato-vertical-growing]]
 - [[coleman-greenhouse-summer-crops]]
 
 ## Categories
@@ -28,8 +27,7 @@ indeterminate varieties through a "lower-and-lean" technique that keeps the top 
 of each plant in continuous production from spring through late fall.
 
 This system is central to Coleman's approach to summer crop production in unheated
-hoophouses, as detailed in *The [[coleman-claytonia-winter-harvest-cultivation]] Handbook*. It maximizes harvest per
-[[comparison-biointensive-vs-square-foot-gardening]] of greenhouse floor space and allows a single planting to produce over
+hoophouses, as detailed in *The [[comparison-biointensive-vs-square-foot-gardening]] of greenhouse floor space and allows a single planting to produce over
 many months without replanting.
 
 ## Tomatoes
@@ -49,36 +47,7 @@ and the twine unspools from above, keeping the stem upright and well-supported.
 
 All tomato plants are pruned to a single stem by removing every sucker (lateral
 shoot) that emerges from the leaf axils. This concentrates the plant's energy into
-one vertical leader, simplifies trellis management, improves [[stamets-growing-room-air-circulation-co2-management]], and
-produces larger, more uniform fruit compared to multi-stem approaches.
-
-### Fruit Cluster Management
-
-Fruit load is carefully managed to balance yield with fruit size and plant vigor:
-
-- **Beefsteak varieties**: Limited to four fruits per cluster
-- **Medium varieties**: Limited to five fruits per cluster
-- **Cherry tomatoes**: Clusters are pinched back after the first fruit in each
-  cluster ripens, redirecting energy to developing fruit
-
-### Lower-and-Lean Technique
-
-The hallmark of Coleman's system is the lower-and-lean method, which extends the
-harvest period of spring-set tomato plants through late fall:
-
-1. As the plant top reaches the 8-foot horizontal support wire, the lowest fruit is
-   harvested and all lower branches are removed from the bare section of stem.
-2. The twine is unrolled a turn or two from the spool above, and the plant top is
-   lowered approximately 12 inches.
-3. The wire frame holding the twine spool is slid horizontally along the support
-   wire, moving the plant to a new position.
-4. This process is repeated regularly as the plant continues growing upward.
-
-The result is that paired rows of tomatoes come to resemble circular dry-cleaning
-trolleys. The lower portions of the stems lie bare along the ground while the top
-8 feet of each plant remain vertical and continue producing fruit. This technique
-allows a single spring planting to remain productive for six months or more without
-the need for [[query-what-is-succession-planting-and-how-do-i-plan-a-succession-planting-schedule]].
+one vertical leader, simplifies trellis management, improves [[query-what-is-succession-planting-and-how-do-i-plan-a-succession-planting-schedule]].
 
 ## Cucumbers
 
@@ -118,8 +87,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[eliot-coleman]]
 - [[det]]
-- [[coleman-greenhouse-tomato-vertical-growing]]
 - [[query-how-do-i-grow-tomatoes-in-a-greenhouse]]
 - [[growing-tomatoes-organically]]

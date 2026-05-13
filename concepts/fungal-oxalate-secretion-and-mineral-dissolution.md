@@ -27,7 +27,7 @@ Oxalic acid is produced by fungi through several metabolic pathways:
   glyoxylate, which can be oxidized to oxalate
 - **Oxaloacetate hydrolysis**: Direct cleavage of oxaloacetate
 - **Ascorbate degradation**: Breakdown of ascorbic acid (vitamin C)
-- **Lignin degradation intermediates**: Byproduct of white-rot fungal
+- **[[lignin-degradation]] intermediates**: Byproduct of white-rot fungal
   ligninolytic activity
 
 ## Mechanisms of Mineral Dissolution
@@ -37,7 +37,7 @@ Oxalate dissolves minerals through three synergistic mechanisms:
 ### 1. Proton-Promoted Dissolution (Acidolysis)
 
 Oxalic acid provides protons that attack mineral surfaces, particularly
-carbonates and silicates. The acidic microenvironment around fungal hyphae
+carbonates and silicates. The acidic microenvironment around [[fungal-hyphae]]
 (pH 2-5, compared to bulk soil pH 5-8) creates conditions favorable for
 mineral dissolution that would not occur in the surrounding environment.
 
@@ -140,8 +140,6 @@ solubilization capacity.
 
 ## Related Concepts
 
-- [[fungal-bioweathering-and-mineral-transformations]]
 - [[fungal-rock-colonization-and-extreme-environments]]
-- [[gadd-geomycology-overview]]
 - [[fungal-biogeochemical-mineral-transformations]]
 - [[fungal-decomposition-and-biogeochemical-cycles]]

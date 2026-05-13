@@ -73,16 +73,8 @@ This subject has relevance across multiple disciplines and applications. Underst
 Implementation spans agricultural, ecological, and cultural contexts. The methodology draws on both traditional knowledge and modern scientific understanding.
 
 ## See Also
-- [[lemon-cannabis-alchemy-high-volume-extraction-method]]
 - [[query-can-you-reveg-a-cannabis-plant-after-harvest]]
-- [[cannabis-pollen-collection-storage-clarke]]
 - [[imo-collection-multi-stage-cultivation]]
-- [[cannabis-pollen-collection]]
-
-## See Also
-
 - [[cannabis-alchemy-book]]
-- [[soxhlet-extraction]]
 - [[cannabidiol-cbd]]
-- [[decarboxylation]]
 - [[pittsburgh-doublewash]]

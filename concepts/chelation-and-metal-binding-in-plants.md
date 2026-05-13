@@ -30,7 +30,7 @@ by metal-activated PCS enzymes.
 
 **Metallothioneins** are gene-encoded, cysteine-rich proteins that bind
 metals through thiolate bonds. They play roles in copper and zinc
-homeostasis, [[blesching-cannabis-oxidative-stress-and-antioxidant-defense]] protection, and heavy [[staycare-phytochelatins-and-intracellular-metal-detoxification-in-fungi]].
+homeostasis, [[staycare-phytochelatins-and-intracellular-metal-detoxification-in-fungi]].
 Unlike phytochelatins, metallothioneins are constitutively expressed at
 low levels and can be transcriptionally upregulated by metals, hormones, and
 oxidative stress. Different plant metallothionein isoforms show preferences
@@ -48,9 +48,7 @@ particularly important for nickel transport and tolerance in nickel
 hyperaccumulators, where free histidine concentrations in xylem sap can be
 orders of magnitude higher than in non-accumulating species. Nicotianamine,
 a non-protein amino acid derived from methionine, chelates iron, copper,
-and zinc for [[xylem-and-phloem-transport-systems-in-plants]] and intracellular distribution.
-
-**Phytosiderophores** are mugineic acid [[2c-family-compounds-overview]] exuded by graminaceous
+and zinc for [[2c-family-compounds-overview]] exuded by graminaceous
 (grass family) plants to acquire iron from alkaline soils. These compounds
 have extremely high affinity for Fe(III) and form soluble complexes that
 can be taken up by specific transporters (YELLOW STRIPE proteins). Some
@@ -66,9 +64,7 @@ fertilizers to maintain iron and zinc in plant-available forms. EDDS
 (ethylenediamine-N,N'-disuccinic acid) is a biodegradable alternative to
 EDTA that has gained favor in phytoremediation applications.
 
-Natural exogenous chelators include [[teaming-with-microbes-humic-and-fulvic-acids]] acids, which improve
-micronutrient availability through mild chelation. Citric acid is used as a
-soil amendment to enhance [[query-how-does-phosphorus-availability-change-across-soil-ph-levels]] and as a biodegradable
+Natural exogenous chelators include [[query-how-does-phosphorus-availability-change-across-soil-ph-levels]] and as a biodegradable
 chelator in remediation. These natural compounds generally provide lower
 but more sustainable metal mobilization compared to synthetic chelators.
 
@@ -84,41 +80,7 @@ with high specificity.
 
 ## Related Concepts
 
-- [[dynamic-nutrient-accumulators]] for nutrient-focused chelation
 - [[fungal-nutrient-cycling-mineral-transformations]] for broader nutrient flow dynamics
-- [[rhizosphere-microbiome-selection-model]] for microbial metal interactions
-
-## Practical Applications
-
-The principles and techniques discussed here have wide-ranging applications
-across multiple disciplines and contexts. Practitioners and researchers
-continue to explore new ways to integrate these concepts into modern practice,
-adapting traditional knowledge to contemporary challenges and opportunities.
-
-## Key Considerations
-
-Several important factors influence the effectiveness and outcomes described
-in this topic. Understanding these considerations helps practitioners make
-informed decisions and avoid common pitfalls. Environmental conditions,
-timing, and material selection all play critical roles.
-
-## Historical Context
-
-The historical development of this subject reflects centuries of accumulated
-knowledge and practical experience. From traditional methods passed down
-through generations to modern scientific approaches, the evolution continues
-to inform current best practices and research directions.
-
-## Common Challenges
-
-Practitioners frequently encounter several challenges when working with
-these concepts. Climate variability, resource limitations, and knowledge
-gaps can all affect outcomes. Addressing these challenges requires patience,
-observation, and a willingness to adapt approaches based on results.
-
-## See Also
 - [[det]]
-- [[phytoremediation]]
 - [[fungal-intracellular-metal-binding-molecules]]
-- [[hashish-binding-pressing-and-storage-techniques]]
 - [[bioremediation-fungal-iron-reduction-chelation-metal-solubilization]]

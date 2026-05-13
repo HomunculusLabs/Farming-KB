@@ -1,7 +1,6 @@
 # Cap vs Stem Alkaloid Distribution in Psilocybe cubensis
 
-The distribution of [[hplc-analysis-of-psilocybin-and-psilocin]] between the cap (pileus) and
-stem (stipe) of *[[psilocybe-cubensis]]* is not uniform. Research by Bigwood
+The distribution of [[psilocybe-cubensis]]* is not uniform. Research by Bigwood
 and Beug (1982) demonstrated that caps contain significantly higher
 psilocybin concentrations than stems, while psilocin shows a more complex
 tissue-specific distribution pattern that varies by strain.
@@ -19,41 +18,7 @@ much psilocybin as stems:
 | Amazon | 5.7 | 5.7 | 1.0:1 |
 
 The M.R. and Equadorian strains both showed approximately 60% more
-psilocybin in caps than stems. The [[bigwood-beug-amazon-strain-origin-pucalpa-peru]] was unusual in showing
-equal [[sandoz-psilocybin-distribution-program]] between [[cap-and-stem-alkaloid-distribution-in-psilocybe-cubensis-strains]].
-
-## Psilocin Distribution: Strain-Dependent Patterns
-
-Psilocin showed a markedly different and more strain-dependent distribution
-pattern:
-
-### M.R. Strain
-- Cap: 0 mg/g psilocin
-- Stem: 0.35 mg/g psilocin
-- Psilocin was entirely localized in stem tissue
-
-### Equadorian Strain
-- Cap: 0 mg/g psilocin
-- Stem: 0.4 mg/g psilocin
-- Same pattern as M.R.—psilocin only in stems
-
-### Amazon Strain
-- Cap: 0.1 mg/g psilocin (trace amount)
-- Stem: 0 mg/g psilocin
-- Inverted pattern—trace psilocin only in cap
-
-This strain-dependent variation suggests that the enzymatic pathways
-responsible for psilocin production and accumulation are regulated
-differently across genetic lines of *P. cubensis*.
-
-## Biosynthetic Interpretation
-
-Psilocybin (O-phosphoryl-4-hydroxy-N,N-dimethyltryptamine) is the
-phosphorylated precursor of psilocin (4-hydroxy-N,N-dimethyltryptamine).
-The conversion from psilocybin to psilocin occurs via dephosphorylation
-by phosphatase enzymes.
-
-The observed [[guzman-global-distribution-patterns-neurotropic-fungi]] suggest several possible mechanisms:
+psilocybin in caps than stems. The [[sandoz-psilocybin-distribution-program]] between [[guzman-global-distribution-patterns-neurotropic-fungi]] suggest several possible mechanisms:
 
 1. **Differential phosphatase localization**: In M.R. and Equadorian
    strains, phosphatase enzymes may be concentrated in stem tissue,
@@ -78,10 +43,7 @@ different regulatory mechanism for the psilocybin-to-psilocin conversion.
 All three strains showed nearly complete absence of psilocin in the first
 flush, regardless of tissue type. This is consistent with the broader
 finding that psilocin production is developmentally regulated and
-increases with [[psilocin-biosynthetic-delay-hypothesis-successive-flushes]] as the mycelial culture matures.
-
-The absence of psilocin in first-flush caps was consistent across all
-strains, but the [[psilocybin-cap-stem-distribution-bigwood-beug]] varied even at this early stage:
+increases with [[psilocybin-cap-stem-distribution-bigwood-beug]] varied even at this early stage:
 M.R. and Equadorian strains showed small amounts of psilocin in stems
 (0.35 and 0.4 mg/g respectively), while the Amazon strain showed none
 in either tissue.
@@ -117,8 +79,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[cap-vs-stem-alkaloid-distribution]]
 - [[psilocybe-cubensis]]
-- [[cap-vs-stem-alkaloid-distribution-psilocybe-cubensis-strains-bigwood-beug]]
 - [[psilocybe-cubensis-cap-stem-alkaloid-distribution]]
 - [[cap-stem-alkaloid-distribution-psilocybe-cubensis-strains-detailed]]

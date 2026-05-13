@@ -69,25 +69,14 @@ The oversized, reflexed lid of the upper pitcher exudes a sugary substance rich 
 
 While feeding, the tree shrew defecates into the pitcher. The fecal pellets are rich in nitrogen, which the plant absorbs as its primary nutrient source.
 
-[[fungal-stable-isotope-ecology]] analysis has confirmed that up to 100% of foliar nitrogen in *N. lowii* is derived from tree shrew excrement, making it effectively non-carnivorous in its adult stage.
-
-The pitcher morphology is precisely adapted to this interaction. The wide, flat lid acts as a feeding platform, while the inner-angled peristome directs feces into the pitcher chamber.
-
-This mutualism converges on a similar strategy found in *N. rajah*, though *N. lowii* appears more specialized and less reliant on insect capture.
-
-Lower pitchers retain more typical insect-trapping morphology and may supplement nutrition during the juvenile phase before upper pitchers develop.
-
-Birds, particularly sunbirds, have also been observed feeding on the lid exudate and may contribute to nutrient input in some populations.
-
-## Cultivation
-
-*Nepenthes lowii* is considered challenging to cultivate due to its strict highland requirements. It demands cool temperatures and high humidity.
-
-Optimal conditions mimic its montane habitat: daytime temperatures of 18–24°C, nighttime drops to 10–14°C, and humidity consistently above 80%.
-
-Many growers use ultrasonic humidifiers, [[bloomfield-mushroom-evaporative-cooling-fungal-frigidity]], or dedicated highland chambers to maintain appropriate conditions. Room-temperature cultivation is rarely successful long-term.
+[[bloomfield-mushroom-evaporative-cooling-fungal-frigidity]], or dedicated highland chambers to maintain appropriate conditions. Room-temperature cultivation is rarely successful long-term.
 
 The species requires very pure water (reverse-osmosis, distilled, or rainwater). Tap water contains minerals that accumulate in the substrate and damage roots over time.
 
 ## See Also
-- [[nepenthes-bicalcarata]]
+
+- [[nepenthes-ventricosa]]
+- [[nepenthes-thorelii]]
+- [[nepenthes-mirabilis]]
+- [[nepenthes-villosa]]
+- [[nepenthes-rajah]]

@@ -10,21 +10,15 @@ sources: []
 
 ## Short Answer
 
-Chamomile is one of the easiest medicinal herbs to grow and one of the most widely used in [[herbal-medicine]].
-
-The two main types are German chamomile ([[matricaria-chamomilla]], an annual) and Roman chamomile (a perennial), each with distinct growing requirements and medicinal profiles.
+Chamomile is one of the easiest medicinal herbs to grow and one of the most widely used in [[matricaria-chamomilla]], an annual) and Roman chamomile (a perennial), each with distinct growing requirements and medicinal profiles.
 
 You can grow chamomile from seed in almost any well-drained soil, harvest the flowers throughout the season, and use them fresh or dried for teas, tinctures, salves, and skincare.
 
 ## German vs. Roman Chamomile
 
-The [[chamomilla-recutita-entity]] is the German variety, which is an annual that readily self-seeds and produces more abundant flowers.
+The [[herbal-medicine-making-basics|chamazulene]], which gives the oil its blue color.
 
-Roman chamomile is a low-growing perennial better suited as a ground cover or lawn alternative in temperate climates.
-
-German chamomile tends to be preferred for medicinal use due to higher essential oil content, particularly [[herbal-medicine-making-basics|chamazulene]], which gives the oil its blue color.
-
-For a detailed comparison, see [[comparison-echinacea-vs-chamomile]] and [[comparison-chamomile-vs-st-johns-wort]].
+For a detailed comparison, see [[comparison-chamomile-vs-st-johns-wort]].
 
 ## Growing Conditions
 
@@ -50,43 +44,15 @@ Avoid over-fertilizing chamomile, as rich soils produce lush foliage at the expe
 
 Deadheading spent flowers encourages continuous blooming throughout the growing season.
 
-For detailed cultivation techniques, see [[chamomile-growing-guide]].
-
-## Harvesting
-
-Harvest chamomile flowers in the morning after the dew has dried but before the sun gets too hot.
-
-Pick the flowers when the petals are fully open and beginning to fold back slightly from the center.
-
-Use scissors or pinch the flower heads off, leaving the stem to encourage regrowth.
-
-German chamomile typically flowers 6-8 weeks after planting and continues producing for several months.
-
-A healthy German chamomile plant can yield multiple harvests per season, often producing until the first frost.
-
-For drying and long-term storage, see [[dried-herb-storage]].
+For detailed cultivation techniques, see [[dried-herb-storage]].
 
 ## Medicinal Uses
 
-Chamomile is classified as a [[nervine-herbs-and-anxiety-relief|nervine herb]], meaning it supports and calms the nervous system.
-
-The primary active compounds include apigenin, bisabolol, and chamazulene, which contribute to its anti-inflammatory, antispasmodic, and mild sedative effects.
-
-Chamomile tea is most commonly used for digestive discomfort, menstrual cramps, and sleep support.
-
-It also works well as a gentle [[digestive-herbs-and-bitters|digestive aid]], particularly for bloating and mild indigestion.
+Chamomile is classified as a [[digestive-herbs-and-bitters|digestive aid]], particularly for bloating and mild indigestion.
 
 Topically, chamomile-infused oil soothes skin irritation, eczema, and minor wounds.
 
-For comparison with other calming herbs, see [[comparison-valerian-vs-chamomile]].
-
-## Common Preparations
-
-**Tea** is the simplest and most popular preparation: steep 1-2 teaspoons of dried flowers in hot water for 5-10 minutes.
-
-A strong infusion can also be used as a mouthwash for gum inflammation or as a hair rinse for lightening blond hair.
-
-**Tinctures** extract both water-soluble and alcohol-soluble compounds for a more potent preparation; see [[herbal-tincture-making]] for methods.
+For comparison with other calming herbs, see [[herbal-tincture-making]] for methods.
 
 **Infused oil** is made by steeping dried flowers in a carrier oil for several weeks, then straining for use in salves or massage oils.
 
@@ -104,21 +70,15 @@ The flowers attract beneficial insects including hoverflies, parasitic wasps, an
 
 Chamomile also accumulates calcium, potassium, and sulfur, which can be returned to the soil when plants are cut back and left as mulch.
 
-It pairs well with other medicinal herbs in a dedicated [[herb-garden-design]] or [[medicinal-herb-growing]] bed.
+It pairs well with other medicinal herbs in a dedicated [[medicinal-herb-growing]] bed.
 
 ## Key Points
 
-- German chamomile ([[matricaria-chamomilla]]) is an annual; Roman chamomile is a perennial ground cover
-- Chamomile tolerates poor soil and drought once established, making it very low-maintenance
-- Harvest flowers in the morning when fully open for peak essential oil content
-- The primary medicinal actions are nervine, antispasmodic, anti-inflammatory, and carminative
-- Apigenin in chamomile binds GABA receptors, producing mild anxiolytic and sedative effects
-- [[herbal-medicine-making-basics|Preparations]] include tea, tincture, infused oil, salve, and bath soak
+- German chamomile ([[herbal-medicine-making-basics|Preparations]] include tea, tincture, infused oil, salve, and bath soak
 - Chamomile attracts beneficial insects and improves soil minerals as a companion plant
-- Compare chamomile to similar herbs via [[comparison-calendula-vs-chamomile]] or [[comparison-chamomile-vs-nettle]]
+- Compare chamomile to similar herbs via [[comparison-chamomile-vs-nettle]]
 
 ## Related Questions
 
-- [[query-how-do-i-start-a-medicinal-herb-garden]]
 - [[query-how-to-grow-medicinal-herbs-at-home]]
 - [[query-what-are-the-best-medicinal-herbs-to-grow-for-a-first-aid-garden]]

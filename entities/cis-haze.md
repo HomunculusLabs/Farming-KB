@@ -27,47 +27,9 @@ The strain carries forward the classic Haze aromatics of earthy spice and sweet 
 
 ## Lineage
 
-CIS Haze traces its genetics to the original Haze [[cervantes-breeding-program-design-goal-setting]] of the 1960s and 1970s in California. The foundational Haze cross combined Colombian, Mexican, Thai, and South Indian landrace sativas.
+CIS Haze traces its genetics to the original Haze [[green-cannabis-grow-bible-flowering-phase-and-harvest]]. Indoor flowering time averages 9–11 weeks, shorter than many classic Haze varieties that require 12+ weeks.
 
-The "CIS" designation indicates a specific selection or phenotype within this broad gene pool, likely stabilized through backcrossing to preserve desired sativa traits. Some sources place it as a sibling or cousin line to Amnesia Haze and Super Lemon Haze.
-
-The exact breeder is not definitively documented in public databases, though it circulates widely among European seed banks.
-
-## Aroma and Flavor
-
-The aroma profile of CIS Haze is dominated by sharp citrus and earthy undertones. Primary notes include lemon zest, damp soil, and a peppery spice characteristic of the Haze family.
-
-Secondary notes of incense and floral sweetness emerge on the exhale, reflecting its Thai and South Indian ancestry. The flavor mirrors the aroma, with a lingering lemon-pepper finish.
-
-The complexity of the terpene bouquet places it firmly in the "Haze" sensory category, distinguishable from Kush-dominant profiles.
-
-## Terpene and Cannabinoid Profile
-
-The dominant terpenes in CIS Haze are **terpinolene** and **myrcene**, with significant contributions from **limonene** and **caryophyllene**. Terpinolene provides the floral, piney, and slightly fruity notes.
-
-Limonene contributes the bright citrus character, while caryophyllene adds a peppery, woody backdrop. Minor terpenes may include **linalool** and **humulene**.
-
-THC content typically ranges from 18–24%, placing it in the high-potency sativa category. CBD levels are generally low, below 0.5%.
-
-Total cannabinoid content varies by grower and phenotype but consistently emphasizes psychoactive THC.
-
-## Effects
-
-Onset is relatively rapid, beginning with an uplifting cerebral rush that enhances focus and creative energy. Users frequently report heightened sensory perception and sociability.
-
-The effects are predominantly head-focused with minimal body sedation, consistent with its sativa-dominant heritage. Euphoria and mental clarity are common during the first hour.
-
-At higher doses, some users experience mild anxiety or overstimulation, a known characteristic of potent Haze-type cultivars. The functional, daytime-appropriate nature of CIS Haze makes it popular for creative work and social settings.
-
-Duration of effects typically spans 2–3 hours, with a gradual comedown.
-
-## Cultivation
-
-CIS Haze exhibits vigorous vegetative growth with significant stretch during the early [[green-cannabis-grow-bible-flowering-phase-and-harvest]]. Indoor flowering time averages 9–11 weeks, shorter than many classic Haze varieties that require 12+ weeks.
-
-Plants develop tall, branching structures with elongated sativa-style internodes. [[cannabis-training-techniques-comparison]] such as low-stress training or scrog are recommended for indoor grows to manage height.
-
-Yields are moderate to high when grown under optimal conditions. The strain responds well to moderate [[cannabis-nutrient-regimens-comparison]] and shows good resistance to common mold and pests.
+Plants develop tall, branching structures with elongated sativa-style internodes. [[cannabis-nutrient-regimens-comparison]] and shows good resistance to common mold and pests.
 
 It performs best in warm, Mediterranean-like climates when grown outdoors, with harvest typically finishing in mid to late October in the Northern Hemisphere.
 
@@ -88,3 +50,88 @@ Several distinct phenotypes of CIS Haze have been documented by cultivators. The
 A less common compact phenotype develops denser bud structure while retaining the characteristic terpene profile. This variant is sometimes described as a "CIS Haze indica-phenotype" despite its sativa genetics.
 
 Color expressions range from bright green to golden-amber at maturity, with orange pistils covering the calyxes. Some phenotypes develop subtle purple hues in cooler growing conditions.
+
+## Overview
+
+Cis Haze represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish cis haze
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving cis extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Cis Haze finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for cis haze. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+cis haze and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Cis Haze has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of cis haze into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[amnesia-haze-genetics-cultivation-potency-oner]]
+- [[cannabis-strain-temple-bodhi-seeds-super-silver-haze-oner]]
+- [[dts-multi-line-sativa-hybrid-cheeze-mk-ultra-diesel-haze]]
+- [[haze-breeding-lineage]]
+- [[haze-lineage-and-genetic-history]]

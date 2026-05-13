@@ -22,68 +22,93 @@ ceremonies.
 - **Cultural origin:** Ancient Egypt (KMT / Al Khemit)
 - **Primary association:** Osiris (god of the underworld, vegetation, moon)
 - **Secondary associations:** Isis, Set, Horus, fertility rites
-- **Ethnomycological interpretation:** Stylized [[allegro-amanita-muscaria-properties-and-pharmacology]]
-
-## Physical Description
-
-- A vertical shaft (representing a trunk or stem)
-- Four horizontal cross-bars at the top (layered caps or annular rings)
-- Often depicted with arms holding a staff or ankh
-- Sometimes shown with eyes, becoming anthropomorphic
-- Carved into temple pillars, sarcophagi, amulets, and ceremonial objects
-
-## Key Facts
-
-- Officially described as associated with the Cedars of Lebanon, though its shape
-  bears little resemblance to a cedar tree.
-- Connected to the myth of Osiris dismembered by Set into 13 pieces. Isis reassembled
-  all parts except the penis, which was never recovered.
-- Isis fashioned a replacement phallus from a living tree and impregnated herself on
-  December 21st (winter solstice).
-- Osiris lay dead for three days; Isis gave birth to Horus on December 25th — a
-  death-rebirth myth paralleling the Christian nativity narrative.
-- The Djed was used in fertility rites and rites of passage for young females.
-- The "raising of the Djed" ceremony symbolized the triumph of Osiris over death.
-
-## Connection to the Ankh
-
-The Djed and Ankh are complementary symbols potentially representing the same referent:
-
-- The Ankh symbolizes the mushroom, cross, "waters of life," and mushroom juice.
-- An artifact of "Ankh with embedded Djed" suggests shared meaning.
-- Both are shown being pushed into the mouth of initiates in temple reliefs.
-
-## Ethnomycological Interpretation
-
-- **Four stacked bars:** Represent annular remains on the mushroom stem, or stages
-  of the universal veil breaking apart.
-- **Vegetation god association:** Osiris governs plants and death-rebirth cycles.
-- **Fertility function:** Use as a phallus parallels the mushroom's phallic symbolism.
-- **Cedar association:** A. muscaria grows mycorrhizally with conifers, including
-  cedars, beneath which it physically appears.
-- **Dismemberment myth:** Parallels the mushroom being broken apart ([[adaptive-anemotropism-spore-dispersal-optimization-mushroom-evolution]]).
+- **Ethnomycological interpretation:** Stylized [[adaptive-anemotropism-spore-dispersal-optimization-mushroom-evolution]]).
 
 ## Cross-Cultural Parallels
 
 - **Hindu — Rhudra:** Red god murdered, severed penis returns yearly as mushroom
-- **Norse — Odin's horse:** Blood + earth = [[amanita]]
-- **Greek — Dionysian thyrsus:** Fennel staff with pine cone, structurally similar
-
-## Relevance to Cultivation and Mycology
-
-- Material evidence of [[pf-tek-mushroom-morphology-aborts-sporocarps]] encoded in Egyptian religious architecture
-- Demonstrates antiquity of [[allegro-cross-and-mushroom-symbolism]] in organized religion
-- Shows fungal knowledge preserved through symbolic encoding
-- Offers comparative data for cross-cultural mushroom symbolism studies
-
-## Sources
-
-- Arthur, J. *[[arthur-mushrooms-and-mankind-ethnomycology-and-religion]]*
+- **Norse — Odin's horse:** Blood + earth = [[pf-tek-mushroom-morphology-aborts-sporocarps]] encoded in Egyptian religious architecture
+- Demonstrates antiquity of [[arthur-mushrooms-and-mankind-ethnomycology-and-religion]]*
 - Budge, E.A. Wallis. *Osiris and the Egyptian Resurrection*
 
 ## See Also
-- [[mycology]]
 - [[amanita-muscaria]]
-- [[amanita]]
 - [[spore-dispersal]]
 - [[mushrooms-and-mankind]]
+
+## Overview
+
+Djed Pillar represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish djed pillar
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving djed extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Djed Pillar finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for djed pillar. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+djed pillar and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Djed Pillar has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of djed pillar into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.

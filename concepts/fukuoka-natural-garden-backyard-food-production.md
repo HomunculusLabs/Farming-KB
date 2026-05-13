@@ -25,7 +25,7 @@ summary: >
 
 ## The Natural Home Garden
 
-Masanobu Fukuoka imagined a home garden that functions as a miniature
+[[masanobu-fukuoka]] imagined a home garden that functions as a miniature
 ecosystem rather than a decorative ornament. Fruit trees form a canopy,
 vegetables and herbs fill the understory, and ground covers protect the
 soil — all arranged not by human design but by the logic of nature
@@ -87,7 +87,7 @@ alone. The lesson: design a system that needs less gardening, not more.
 Fukuoka drew a sharp distinction between gardens demanding constant
 labor and those that sustain themselves. A conventional vegetable garden
 must be planted each season, watered, weeded, fertilized, and harvested
-on strict schedule. A self-sustaining food forest is planted once and
+on strict schedule. A self-sustaining [[food-forest]] is planted once and
 largely left alone, harvest being the primary human activity. The key
 is shifting from annual monocultures to polycultures of perennials and
 self-seeding annuals. Once established, such systems become
@@ -137,8 +137,6 @@ door, arranged by ecological principle rather than geometric rows.
 
 ## See Also
 
-- [[fukuoka-natural-farming]] — Core philosophy and four principles
 - [[fukuoka-road-one-straw-revolution-continuation]] — Earlier foundational work
-- [[permaculture-zone-0-house-design]] — Zone 1 intensive garden design
 - [[food-forest-design]] — Broader polyculture systems
 - [[mollison-lawn-reform-and-alternatives-in-permaculture-design]] — Replacing turf with productive plantings

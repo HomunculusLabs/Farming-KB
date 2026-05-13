@@ -55,12 +55,7 @@ Breeds with larger body cavities and stronger digestive systems tend to perform 
 - Wire mesh flooring (½" × 1" grid) allows manure to fall through
 - Standard cage size: 30" × 30" for a single doe with litter; 24" × 24" for a buck
 - Nest boxes (12" × 10" × 10") provided a few days before kindling
-- Pros: [[hamilton-pest-and-disease-control-organic]], individual monitoring, easy breeding management
-- Cons: less natural behavior expression, higher infrastructure cost, manure must be managed
-
-**Colony Systems**
-- Rabbits live in groups in a larger enclosure (minimum 10 sq ft per rabbit)
-- [[comparison-deep-litter-vs-hot-composting]] bedding (straw, hay, wood shavings) absorbs waste
+- Pros: [[comparison-deep-litter-vs-hot-composting]] bedding (straw, hay, wood shavings) absorbs waste
 - Multiple nest boxes or burrow-like structures provided
 - Pros: more natural, less labor-intensive, built-in composting via deep litter
 - Cons: fighting (especially between bucks), cannibalism risk, harder to track parentage, disease transmission
@@ -72,8 +67,7 @@ Many permaculture systems use a hybrid: breeding does in individual hutches with
 ### Hutch Design Considerations
 
 - **Ventilation:** Critical. Ammonia buildup causes respiratory disease. Wire mesh on at least one side of the hutch; avoid solid-walled enclosures in warm climates.
-- **Weather protection:** Hutches should have a solid-roofed portion for rain and [[cervantes-wind-protection-outdoor-cannabis]]. [[query-how-do-i-grow-figs-in-cold-climates]], windbreaks and insulated nest boxes are essential. Rabbits tolerate cold better than heat — they suffer [[heat-stress-cannabis]] above 85°F (29°C).
-- **[[fukuoka-natural-predator-protection]]:** ½" hardware cloth on all openings. Raccoons, weasels, foxes, and dogs are primary predators. Elevate hutches at least 2 feet off the ground or use a secure enclosed run.
+- **Weather protection:** Hutches should have a solid-roofed portion for rain and [[query-how-do-i-grow-figs-in-cold-climates]], windbreaks and insulated nest boxes are essential. Rabbits tolerate cold better than heat — they suffer [[fukuoka-natural-predator-protection]]:** ½" hardware cloth on all openings. Raccoons, weasels, foxes, and dogs are primary predators. Elevate hutches at least 2 feet off the ground or use a secure enclosed run.
 - **Automatic watering:** Nipple drinkers on a gravity-fed or pressurized line reduce labor and improve hygiene compared to bowl waterers.
 
 ### Mobile Tractor Systems

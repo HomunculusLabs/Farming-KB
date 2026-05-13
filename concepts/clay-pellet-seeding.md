@@ -11,7 +11,7 @@ date: 2026-05-08
 updated: 2026-05-08
 sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
-  - [[masanobu-fukuoka]] (1985). "The Natural Way of Farming: The [[microdosing-theory-and-practice]] of fukuoka-sowing-green-philosophy-one-grain-revolution." Japan Publications.
+  - microdosing-theory-and-practice of fukuoka-sowing-green-philosophy-one-grain-revolution." Japan Publications.
   - Masanobu Fukuoka (1978). "The One-Straw Revolution." Rodale Press.
 ---
 
@@ -20,17 +20,12 @@ sources:
 ## Overview
 
 Clay pellet seeding is a technique developed by Masanobu Fukuoka in which
-seeds are encased in [[fukuoka-aerial-seeding-clay-pellets-desert-revegetation-technique]] for broadcasting over land without
-tilling. The clay coating protects seeds from predation by birds and
-rodents, prevents premature germination, and provides a microenvironment
-favorable to sprouting when rainfall arrives. Fukuoka proposed the method
-both for no-till [[jadam-rice-cultivation-methods]] and as a practical approach to desert
+seeds are encased in [[jadam-rice-cultivation-methods]] and as a practical approach to desert
 revegetation.
 
 ## Purpose and Principles
 
-The clay pellet serves multiple protective and [[fungal-melanin-biosynthesis-ecological-functions]]. Seeds
-enclosed in hard [[fukuoka-desert-revegetation-clay-pellets]] will not sprout until rain has fallen and
+The clay pellet serves multiple protective and [[fukuoka-desert-revegetation-clay-pellets]] will not sprout until rain has fallen and
 conditions are suitable for germination. The coating shields seeds from
 being eaten by mice and birds during the weeks or months before conditions
 become favorable.
@@ -63,25 +58,7 @@ basket or mixer. Clay powder is sprinkled over the seeds while a water
 mist is sprayed onto the mixture with an atomizer and the basket is moved
 in a swirling motion. The seeds become coated with clay and grow in size,
 producing small pellets a quarter to half inch in diameter. For large
-quantities, a [[clay-seed-pellet-production-method-concrete-mixer]] may be used.
-
-Topsoil-containing clay may be used, but if pellets crumble too early, the
-seed will be devoured by rodents. For those preferring a synthetic
-approach, seeds may be coated with styrofoam resin containing pesticides,
-though Fukuoka clearly preferred the natural clay method.
-
-## Use in No-Till Rice Cultivation
-
-On his farm in Shikoku, Fukuoka used clay pellets to enable overwintering
-of rice seed. Seeds coated with clay and scattered over the field in autumn
-survive the winter months. In spring, when conditions are right, the seeds
-germinate through the straw mulch and establish themselves amid the living
-ground cover of clover.
-
-This approach eliminates the need for raising seedlings in flooded nursery
-beds and transplanting them — the most labor-intensive steps in
-conventional rice cultivation. The pellets are simply scattered by hand
-over the [[query-what-are-the-benefits-of-straw-mulch-in-the-garden-and-how-do-i-use-it]] mid-November or later.
+quantities, a [[query-what-are-the-benefits-of-straw-mulch-in-the-garden-and-how-do-i-use-it]] mid-November or later.
 
 ## Desert Revegetation
 
@@ -118,8 +95,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[masanobu-fukuoka]]
 - [[desert-revegetation]]
-- [[clay-pellet-seeding-technique]]
 - [[clay-seed-pellet-composition-and-aerial-seeding-method]]
 - [[fukuoka-clay-pellet-aerial-seeding-method]]

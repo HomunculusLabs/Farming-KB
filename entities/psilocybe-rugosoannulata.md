@@ -22,45 +22,7 @@ sources: [/Users/t3rpz/wiki/raw/papers/bigwood-beug-variation-of-psilocybin-and-
 - **Genus:** Psilocybe
 - **Species:** P. rugosoannulata
 
-The species was described by the eminent mycologist [[rolf-singer]], who conducted extensive taxonomic work on Neotropical agarics during his career. The epithet "rugosoannulata" refers to the wrinkled or rugose annulus (ring) on the stipe, which is a distinctive macroscopic feature. It is placed within Psilocybe section Cordisporae, a group of primarily tropical species with thick-walled, heart-shaped (cordiform) spores.
-
-## Description
-
-### Cap (Pileus)
-- 2 to 5 cm in diameter
-- Convex to broadly convex, sometimes becoming plane with age
-- Brown to reddish-brown, often with a slightly paler margin
-- Hygrophanous to some degree, fading when dry
-- Surface smooth to slightly fibrillose, sometimes with a silky sheen
-- Margin sometimes appendiculate with veil remnants in young specimens
-- Umbo absent or very slight
-
-### Gills
-- Adnate to adnexed, sometimes with a slight decurrent tooth
-- Grayish to pale brown at first, becoming dark purplish-brown with maturity
-- Moderately close to close
-- 3 to 4 tiers of lamellulae (short gills) between full gills
-- Edges even and concolorous with the gill faces
-
-### Stipe (Stem)
-- 4 to 10 cm long, 2 to 5 mm thick
-- Equal or slightly thickened at the base
-- Covered with white to pallid fibrils, often with a silvery or silky sheen
-- **Distinctive annulus** present in the upper third to quarter of the stipe, rugose (wrinkled) to fibrillose in texture — this is the most reliable macroscopic diagnostic feature
-- Bruising bluish to bluish-green where damaged, particularly above the annulus
-- Base often mycelioid and covered with white rhizomorphs
-
-### Flesh
-- Moderately thick in the cap, thinner in the stipe
-- Whitish to pale brownish
-- Odor mild or slightly farinaceous
-- Taste farinaceous to mild
-
-### Spores
-- Basidiospores 9 to 12 by 6 to 7.5 µm
-- Subrhomboid to broadly ellipsoid, often with a heart-shaped (cordiform) tendency in face view
-- Thick-walled with a well-defined germ pore
-- [[spore-print]] dark purplish-brown to nearly black
+The species was described by the eminent mycologist [[spore-print]] dark purplish-brown to nearly black
 
 ### Microscopic Features
 - Cheilocystidia abundant, ventricose to lageniform with narrow necks, sometimes with a slight apical constriction
@@ -76,15 +38,92 @@ The species is found in pastures, grassy fields, and forest clearings, often gro
 
 ## Chemistry
 
-psilocybe rugosoannulata contains [[psilocin]] as its primary active compounds. While quantitative analytical data is limited due to the species' relative rarity in collections, available data suggests moderate alkaloid levels consistent with other Neotropical coprophilous Psilocybe species.
-
-Baeocystin has been detected as a minor constituent. The alkaloid profile of dung-inhabiting Psilocybe species often shows higher variability than that of wood-inhabiting species, possibly reflecting differences in substrate nutrient availability and microbial competition in the coprophilous niche. Studies of psilocybin variation across the genus have documented that environmental factors including substrate nitrogen content, temperature during fruiting, and degree of desiccation all influence final alkaloid concentrations.
-
-## Similar Species
-
-psilocybe rugosoannulata can be confused with several Neotropical Psilocybe species that share its dung-inhabiting ecology:
-
-- **[[psilocybe-hoogshagenii]]** — Has a pronounced apical appendage on the cheilocystidia and a persistent annulus, but the annulus is not rugose; typically has a more pronounced umbo
+psilocybe rugosoannulata contains [[psilocybe-hoogshagenii]]** — Has a pronounced apical appendage on the cheilocystidia and a persistent annulus, but the annulus is not rugose; typically has a more pronounced umbo
 - **[[psilocybe-wassonii]]** — Restricted to high-altitude pine forests in Mexico; distinct habitat and distribution; lacks the rugose annulus
 
 The wrinkled annulus is the most reliable macroscopic feature for distinguishing psilocybe rugosoannulata from similar species in the field.
+
+## Overview
+
+Psilocybe Rugosoannulata represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish psilocybe rugosoannulata
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving psilocybe extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Psilocybe Rugosoannulata finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for psilocybe rugosoannulata. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+psilocybe rugosoannulata and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Psilocybe Rugosoannulata has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of psilocybe rugosoannulata into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[psilocybe-caeruleoannulata]]
+- [[psilocybe-ovoidocystidiata]]
+- [[psilocybe-phyllogena]]
+- [[psilocybe-semilanceata-worldwide-temperate-distribution-guzman-1998]]
+- [[psilocybe-species-europe]]

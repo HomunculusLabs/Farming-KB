@@ -12,22 +12,8 @@ tags: [cannabis, nutrients]
 
 ## Overview
 
-Calcium is a [[cannabis-foliar-feeding]] because they translocate poorly.
-
-Toxic levels of calcium exacerbate deficiencies of cannabis-potassium|potassium, [[cannabis-manganese-nutrient]], and [[query-how-to-fix-sulfur-deficiency-in-cannabis]], forming gypsum (calcium sulfate Ca(SO4)2(H2O)) that settles as residue at the bottom of the reservoir.
-
-## Organic Sources
-
-[[cannabis-magnesium-nutrient]], [[query-how-to-identify-and-fix-cannabis-iron-deficiency]]. The nutrients become unavailable even though they are present in the growing medium.
-
-### Symptoms
-
-- Wilting foliage
-- Exacerbated deficiencies of potassium, magnesium, manganese, and iron
-- If excessive [[cho-water-soluble-calcium-and-potassium]] is applied early in life, it can stunt growth
-- In hydroponics, excess calcium precipitates with [[cannabis-magnesium-nutrient]]
-- [[cannabis-boron-nutrient]]
-- [[cannabis-nutrient-toxicity]]
+Calcium is a [[cannabis-manganese-nutrient]], and [[cannabis-magnesium-nutrient]], [[cho-water-soluble-calcium-and-potassium]] is applied early in life, it can stunt growth
+- In hydroponics, excess calcium precipitates with [[cannabis-boron-nutrient]]
 - [[cannabis-nutrient-solution-preparation]]
 ## Practical Applications
 
@@ -97,8 +83,6 @@ through generations to modern scientific approaches, the evolution continues
 to inform current best practices and research directions.
 
 ## See Also
-- [[doc]]
 - [[det]]
-- [[query-how-to-read-cannabis-plants-for-nutrient-problems]]
 - [[cannabis-nutrient-burn-and-toxicity]]
 - [[cannabis-zinc-nutrient]]

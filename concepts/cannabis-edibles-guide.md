@@ -9,11 +9,11 @@ sources: []
 
 ## Overview
 
-Cannabis edibles are food and beverage products infused with cannabinoids. They offer a smoke-free consumption method with longer-lasting effects compared to inhalation. The key challenges with edibles are proper [[decarboxylation]], accurate dosing, and understanding the significantly different onset time and duration compared to smoking.
+Cannabis edibles are food and beverage products infused with cannabinoids. They offer a smoke-free consumption method with longer-lasting effects compared to inhalation. The key challenges with edibles are proper decarboxylation, accurate dosing, and understanding the significantly different onset time and duration compared to smoking.
 
 ## Decarboxylation
 
-[[blesching-cannabis-decarboxylation-and-raw-cannabis]] contains non-intoxicating acidic cannabinoids (THCA, CBDA). Decarboxylation applies heat to convert these to their active forms (THC, CBD). This step is essential for any edible or [[cannabis-reefers-and-tincture-preparation]].
+Raw cannabis contains non-intoxicating acidic cannabinoids (THCA, CBDA). Decarboxylation applies heat to convert these to their active forms (THC, CBD). This step is essential for any edible or tincture preparation.
 
 ### Oven Method
 
@@ -83,7 +83,7 @@ Coconut oil is an excellent alternative to butter for vegan edibles and those wh
 - 1 teaspoon lecithin
 
 **Instructions**:
-1. Combine coconut oil and cannabis in a double boiler or [[mason-jar-preserving-guide]]
+1. Combine coconut oil and cannabis in a double boiler or mason jar
 2. Heat on low (160-180 F) for 2-3 hours
 3. Stir every 15-20 minutes
 4. Add lecithin in the last 30 minutes
@@ -141,9 +141,10 @@ CBD does not produce psychoactive effects at any reasonable dose:
 
 ## Common Edible Recipes
 
-### Cannabutter Cookies
+## See Also
 
-- Use cannabutter in place of regular butter in any cookie recipe
-- Standard batch of 24 cookies with 1 cup cannabutter at ~125 mg THC per cup = ~5 mg THC per cookie
-
-### Cannabis-Infused Gummies
+- [[cannabis-cultivar-microbiome-specificity]]
+- [[weighted-vs-unweighted-unifrac-cannabis-strain-microbiome]]
+- [[cannabis-and-endometriosis]]
+- [[blesching-cannabis-immune-system-modulation]]
+- [[cannabis-seed-germination-viability-breeding-clarke]]

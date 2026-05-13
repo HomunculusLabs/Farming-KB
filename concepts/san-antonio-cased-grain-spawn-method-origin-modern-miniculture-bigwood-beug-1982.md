@@ -2,18 +2,7 @@
 title: San Antonio Cased Grain Spawn Method — Origin of Modern Mini-Culture Techniques
 source: raw/papers/variation-of-psilocybin-and-psilocin-levels-bigwood-beug.md
 author: Bigwood & Beug (1982), citing San Antonio (1971)
-topic: mycology, [[bigwood-beug-cultivation-methodology]], spawn preparation
-mined: 2026-05-11
----
-
-# San Antonio Cased Grain Spawn Method — Origin of Modern Mini-Culture Techniques
-
-## Overview
-
-The rye-grain miniculture methodology used by Bigwood and Beug (1982) to study
-[[hplc-analysis-of-psilocybin-and-psilocin]] [[psilocybin-variation-across-flushes]] traces its origin to San
-Antonio's 1971 laboratory method for obtaining fruit from cased grain spawn of
-*[[agaricus-bisporus]]*. This technique was subsequently refined by Oss and Oeric
+topic: mycology, [[hplc-analysis-of-psilocybin-and-psilocin]] [[agaricus-bisporus]]*. This technique was subsequently refined by Oss and Oeric
 (1976) and adapted into the "miniculture" format by Bigwood and Beug themselves,
 establishing a foundational cultivation protocol that would influence decades of
 small-scale mushroom research.
@@ -111,7 +100,7 @@ rather than an artifact of cultivation variability.
 The San Antonio → Oss/Oeric → Bigwood/Beug lineage of grain spawn cultivation
 directly influenced modern techniques including:
 
-- **PF Tek** (Psilocybe Fanaticus Technique): Brown rice flour substrate in
+- **PF Tek** (Psilocybe Fanaticus Technique): [[brown-rice-flour-substrate]] in
   half-pint jars, essentially a simplified variant of the same approach
 - **Spawn bag culture**: Grain-based colonization in filter-patch bags
 - **Monotub cultivation**: Bulk casing over grain spawn at larger scale

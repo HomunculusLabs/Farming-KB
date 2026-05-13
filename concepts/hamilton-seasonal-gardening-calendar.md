@@ -12,25 +12,13 @@ sources:
 
 ## Overview
 
-The gardening year is divided into four main seasons, each with specific tasks across the ornamental garden, [[fukuoka-dutch-priest-vegetable-garden-spiritual-renewal]], fruit garden, and greenhouse. Regional climatic [[psilocybin-psilocin-variation-across-flushes]] the US (32 distinct regions) affects timing significantly. The calendar serves as a guide rather than a rigid rulebook; experienced gardeners adapt based on local conditions.
+The gardening year is divided into four main seasons, each with specific tasks across the ornamental garden, [[psilocybin-psilocin-variation-across-flushes]] the US (32 distinct regions) affects timing significantly. The calendar serves as a guide rather than a rigid rulebook; experienced gardeners adapt based on local conditions.
 
 ## Seasonal Framework
 
 - **Spring**: March through May — soil preparation, planting, early propagation
-- **Summer**: June through August — growth management, harvesting, [[comparison-pheromone-based-pest-control-vs-beneficial-insect-biocontrol]]
-- **Autumn**: September through November — harvest completion, soil protection, planting bare-root stock
-- **Winter**: December through February — planning, maintenance, pruning, early indoor sowing
-
-## Spring Tasks
-
-### Ornamental Garden
-- Early spring: rake lawn with spring-tine rake, begin mowing, sow/lay new lawns, feed borders with blood/fish/bone meal, lift and divide perennials, prune hybrid bush roses, finish planting bare-root deciduous trees and shrubs, start outside sowing of hardy annuals
-- Mid-spring: plant bare-root evergreens, prune shrubs flowering on one-year-old wood immediately after flowering, plant pond marsh/aquatic plants, take cuttings of overwintered half-hardy perennials, plant tubs and [[hamilton-hanging-baskets-organic]], spray roses if black spot has been a problem
-- Late spring: support tall perennials, trim ground cover after flowering, plant out half-hardy annuals after all frost danger passes, start softwood cuttings, [[query-how-do-i-identify-and-control-aphids-on-cannabis]] and caterpillars
-
-### Vegetable Garden
-- Early spring: feed spring cabbages with dried blood or [[hamilton-geoffhamilton-nick-organic-gardening-companion-planting]]
-- [[hamilton-geoffhamilton-nick-organic-gardening-greenhouse-gardening]]
+- **Summer**: June through August — growth management, harvesting, [[hamilton-hanging-baskets-organic]], spray roses if black spot has been a problem
+- Late spring: support tall perennials, trim ground cover after flowering, plant out half-hardy annuals after all frost danger passes, start softwood cuttings, [[hamilton-geoffhamilton-nick-organic-gardening-companion-planting]]
 - [[seasonal-gardening-calendar-hamilton]]
 
 - permaculture-zones-system
@@ -97,8 +85,6 @@ through generations to modern scientific approaches, the evolution continues
 to inform current best practices and research directions.
 
 ## See Also
-- [[seasonal-gardening-calendar]]
 - [[doc]]
-- [[psilocybin]]
 - [[psilocin]]
 - [[det]]

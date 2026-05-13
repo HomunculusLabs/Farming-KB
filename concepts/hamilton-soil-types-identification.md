@@ -11,56 +11,16 @@ type: concept
 
 # Soil Types and Identification in Organic Gardening
 
-[[geoff-hamilton]] regarded the soil as the basic raw material of the
-gardener's art, never to be dismissed as mere "dirt." It is far more
-than a collection of mineral particles used to anchor roots. A large
-part of its makeup is [[hamilton-composting-and-organic-matter-management]] in various stages of decay, along
+[[hamilton-composting-and-organic-matter-management]] in various stages of decay, along
 with air and water, all essential for supporting plant and animal life.
-The soil provides a home for millions of [[savory-living-organisms-as-tools]] such as soil
-fungi, algae, bacteria, insects, and worms, which work to provide the
-right conditions for healthy plant growth.
-
-It is perhaps in the treatment of soil, more than anywhere else, that
-organic gardening differs from other methods. The very first principle
-of organic gardening is to nurture and encourage this subterranean life
-so that it can support a much larger plant population than nature ever
-intended.
-
-## Soil Profile
-
-Soil is made up of three distinct layers:
-
-- **Topsoil**: Formed over years by the addition of [[fukuoka-textdoc-composting-critique-futility-prepared-organic-matter]]
+The soil provides a home for millions of [[fukuoka-textdoc-composting-critique-futility-prepared-organic-matter]]
   following the decomposition of dead plants and animals. It is
   inhabited by a wide range of living organisms, and the majority of
   feeding roots exist here. Topsoils can be improved and deepened by
   regular addition of organic matter.
 
 - **Subsoil**: Low in nutrients, generally containing few or no
-  microorganisms, and inhospitable to roots. [[comparison-double-digging-vs-no-till]] breaks up
-  subsoil and improves drainage without bringing it to the surface.
-
-- **Parent material**: The original mineral from which the soil was
-  formed, normally deep enough not to concern the gardener.
-
-## The Five Main Soil Types
-
-### Clay
-
-A heavy, cold soil which feels sticky when moist and hard and compacted
-when dry. The minute particles are less than 0.002mm in size, meaning
-clay does not drain easily and is difficult to work in wet conditions.
-However, it is possible to turn it into a very workable, fertile soil.
-Clay soils are normally well supplied with plant foods and capable of
-supporting a wide variety of plants.
-
-### Sand
-
-A dry, light soil that feels gritty between the fingers. Sand particles
-range from 0.2mm to 2mm. Sandy soil is easy to work and warms up
-quickly in spring, allowing earlier cultivation. Because it is
-free-draining, nutrients tend to be lost easily, so it needs extra
-[[savory-soil-organic-matter-and-decomposition-dynamics]] fertilizer.
+  microorganisms, and inhospitable to roots. [[savory-soil-organic-matter-and-decomposition-dynamics]] fertilizer.
 
 ### Silt
 
@@ -118,8 +78,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[doc]]
 - [[composting]]
-- [[decomposition]]
 - [[hamilton-geoffhamilton-nick-organic-gardening-soil-types-and-management]]
 - [[hamilton-useful-weeds-and-weed-identification]]

@@ -6,7 +6,7 @@ type: entity
 
 ## Description
 
-Ayahuman (*Couroupita guianensis*), commonly known as the cannonball tree, is a large tropical tree revered in [[amazonian-vegetalista-shamanism-degrees-and-hierarchy]] tradition for its powerful spiritual [[ginseng-cultivation-and-medicinal-properties]]. In Amaringo's Vision 33 (Campana Ayahuasca), the spirits of ayahuman appear with heads formed from the cannonball-like fruits of the tree and bodies composed of twisted *tingunas* (protective energy fields) of various colours. These spirits assist the vegetalista in curing gastritis and stomach ache by extracting illness through the power of their tongues.
+Ayahuman (*Couroupita guianensis*), commonly known as the cannonball tree, is a large tropical tree revered in [[ginseng-cultivation-and-medicinal-properties]]. In Amaringo's Vision 33 (Campana Ayahuasca), the spirits of ayahuman appear with heads formed from the cannonball-like fruits of the tree and bodies composed of twisted *tingunas* (protective energy fields) of various colours. These spirits assist the vegetalista in curing gastritis and stomach ache by extracting illness through the power of their tongues.
 
 The tongues of the ayahuman spirits move in coordination with the smoke blown by the healer, creating a synchronized therapeutic interaction between the vegetalista and the plant spirit. A queen accompanies the spirits, assisting the vegetalista by shaking her *schacapa* (rattle made of *Pariana* sp. leaves) over the patient. The machinruna (ape people) serve as guardian spirits of the tree, sometimes hidden in its branches. The tree's name derives from *aya* (dead person, spirit) + *huma* (head), referencing the large round fruits that resemble human skulls.
 
@@ -45,22 +45,19 @@ From the ayahuman, one can learn both medicine and sorcery, making it a dual-nat
 - Bears large round cannonball-like fruits up to 25 cm in diameter growing directly from the trunk (cauliflory)
 - Flowers are large, showy, complex with six fleshy petals in pink, red, and yellow colours
 - Fruit has a hard woody shell containing a pulpy mass of seeds
-- Native to [[fungal-biodiversity-tropical-forests]] of Central and [[guzman-psilocybin-mushrooms-south-america]]
+- Native to [[guzman-psilocybin-mushrooms-south-america]]
 - Widely planted as ornamental throughout the tropics for its spectacular appearance
 - Flowers have a modified hood covering the stamens, preventing self-pollination
 - The fruits fall from the tree and crack open on the ground, releasing a distinctive odor
 
 ## Relevance to Cultivation and Mycology
 
-- Large fruits create **unique microhabitats** for fungal colonization when they fall and decompose on the [[fungal-ecology-forest-floor]]
-- Cauliflorous fruiting pattern creates **moisture-trapping surfaces** supporting specialized [[biodiversity-fungi-soil-fungal-communities]] on the trunk
+- Large fruits create **unique microhabitats** for fungal colonization when they fall and decompose on the [[biodiversity-fungi-soil-fungal-communities]] on the trunk
 - Fruit pulp contains compounds with reported **antimicrobial activity** against various bacteria and fungi
 - Association with both healing and sorcery suggests complex **pharmacological properties** worth investigating
-- Woody fruits persist on the ground creating **decomposition microcosms** for studying tropical [[comparison-mycorrhizal-vs-saprotrophic-fungi]]
-- Spectacular flowers attract specific pollinators, and the nectar may contain **[[antifungal-secondary-metabolites-coprophilous-fungi]]** with antifungal properties
+- Woody fruits persist on the ground creating **decomposition microcosms** for studying tropical [[antifungal-secondary-metabolites-coprophilous-fungi]]** with antifungal properties
 - Bark and fruit compounds could yield **novel gastroprotective agents** through ethnobotanical research
-- Cultivation near settlements creates opportunities for studying **[[plants-without-mycorrhizal-associations]]** in managed landscapes
-- As Lecythidaceae, belongs to a family with significant **ecological importance** in Amazonian [[mollison-wet-tropical-forest-structure-and-polyculture]]
+- Cultivation near settlements creates opportunities for studying **[[mollison-wet-tropical-forest-structure-and-polyculture]]
 - The tree's spiritual significance ensures its **conservation** in areas where vegetalista traditions persist
 - The tree's large trunk surface area supports diverse **epiphytic fungal and lichen communities** in mature forests
 
@@ -77,15 +74,8 @@ This subject has relevance across multiple disciplines and applications. Underst
 Implementation spans agricultural, ecological, and cultural contexts. The methodology draws on both traditional knowledge and modern scientific understanding.
 
 ## See Also
-- [[stamets-mycorrhizal-mushrooms-forest-ecology-cultivation-challenges]]
 - [[guzman-psilocybin-mushrooms-mexico-central-america]]
-- [[arbuscular-mycorrhizal-fungi-in-tropical-forest-restoration]]
 - [[mollison-wet-tropical-forest-structure-and-polyculture]]
-- [[guzman-psilocybin-mushrooms-south-america]]
-
-## See Also
 - [[guzman-psilocybin-mushrooms-mexico-central-america]]
-- [[amazonian-vegetalista-shamanism-degrees-and-hierarchy]]
 - [[mollison-wet-tropical-forest-structure-and-polyculture]]
-- [[antifungal-secondary-metabolites-coprophilous-fungi]]
 - [[stamets-mycorrhizal-mushrooms-forest-ecology-cultivation-challenges]]

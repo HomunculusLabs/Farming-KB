@@ -22,29 +22,6 @@ tension between systemic self-sufficiency and material innovation.
 
 ## Earthship Design
 
-[[earthship-design-and-biotopechtecture]]
-
-An earthship is not merely a wall system but an integrated habitat.
-Every earthship incorporates six interconnected systems: passive solar
-heating through massive tire walls, on-site electricity generation via
-photovoltaics and wind, rainwater harvesting from metal roofs, indoor
-botanical greywater treatment cells, blackwater processing through
-outdoor constructed wetlands, and food production in interior planters.
-The structure is literally designed to "sail" through the world without
-needing municipal connections of any kind.
-
-The signature element is the tire wall — discarded automobile tires
-packed with damp earth until each weighs roughly 300 pounds, then laid
-in staggered courses. These walls provide extraordinary thermal mass,
-absorbing daytime heat and releasing it at night. Combined with a
-south-facing glass facade and bermed earth on the north side, the
-system maintains interior temperatures of 18–24°C year-round without
-mechanical heating or cooling. Reynolds built his first prototypes in
-Taos, New Mexico, facing regulatory battles that saw his architecture
-license revoked before the designs ultimately won acceptance.
-
-## Hempcrete Construction
-
 [[hempcrete-and-hemp-lime-construction]]
 
 Hempcrete takes a fundamentally different approach. Rather than building
@@ -134,9 +111,6 @@ capturing the strengths of both systems.
 
 ## See Also
 
-- [[earthship-design-and-biotopechtecture]]
 - [[hempcrete-and-hemp-lime-construction]]
-- [[comparison-cob-vs-hempcrete]]
 - [[comparison-hempcrete-vs-rammed-earth]]
-- [[cob-building]]
 - [[natural-building]]

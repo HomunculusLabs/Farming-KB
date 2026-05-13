@@ -20,14 +20,7 @@ with significant thermal mass.
 
 ## Straw Bale Construction
 
-[[cordwood-construction]]
-
-Cordwood construction (also called stackwall or cordwood masonry) lays short
-logs -- typically 16 to 24 inches long -- in beds of mortar like giant bricks.
-The log ends remain exposed on both interior and exterior faces, producing a
-distinctive polychromatic pattern that many builders consider the primary
-aesthetic appeal. The technique has European roots over a thousand years old
-and was widely used by [[growing-gourmet-north-american-reishi-species]] settlers in the 1800s.
+[[growing-gourmet-north-american-reishi-species]] settlers in the 1800s.
 
 Softwoods are preferred: cedar, pine, spruce, and larch dry faster, shrink
 less, and resist rot better than most hardwoods. Logs must be fully debarked,
@@ -36,10 +29,7 @@ before laying. The mortar bed typically includes soaked sawdust to improve
 insulation and reduce weight. Lime-based mortars offer self-healing cracks and
 better breathability than Portland cement mixes.
 
-Cordwood walls are extremely heavy (100 to 150 lbs per [[comparison-biointensive-vs-square-foot-gardening]]) and
-require a robust foundation. A 24-inch wall achieves R-24 to R-30 depending
-on insulation fill in the cavity between log ends. The mortar provides
-significant thermal mass, making cordwood walls well-suited to [[comparison-passive-solar-vs-earth-sheltered]]
+Cordwood walls are extremely heavy (100 to 150 lbs per [[comparison-passive-solar-vs-earth-sheltered]]
 design where heat storage and slow release are desirable.
 
 ## Key Differences
@@ -101,12 +91,5 @@ on sides with less solar gain). Cordwood also works well for interior
 partition walls, fireplaces, and accent features within a straw bale
 building, adding visual interest and thermal mass where needed.
 
-Another hybrid approach uses a post-and-beam [[comparison-bamboo-construction-vs-timber-frame-basics]] with a mix of straw
-bale and cordwood infill in different bays, letting the builder tailor each
-wall section to its solar orientation and functional requirements.
-
-## See Also
-
-- comparison cob vs straw bale construction
-- [[comparison-cob-vs-cordwood]]
+Another hybrid approach uses a post-and-beam [[comparison-cob-vs-cordwood]]
 - [[comparison-hempcrete-vs-straw-bale-construction]]

@@ -1,7 +1,7 @@
 ---
 title: Mushroom Spawn Production and Laboratory Techniques
 subtitle: The science and practice of creating, isolating, and scaling
-  mycelial cultures for [[accessible-mushroom-cultivation-for-disabilities]]
+  mycelial cultures for accessible-mushroom-cultivation-for-disabilities
 tags: [mycology, mushroom-cultivation, spawn, agar, sterilization,
   laboratory, mycelium, fungi]
 date: 2026-04-28
@@ -64,29 +64,7 @@ substrate preference, and yield potential.
 The laboratory techniques used in spawn production have their roots in
 classical microbiology. Agar culture, first developed in the 1880s by
 Robert Koch and Fannie Hesse, provides a solid surface for isolating and
-growing pure fungal cultures. [[boil-a-bag-pressure-sterilization-technique]], adapted from medical
-autoclaving, ensures that substrates are free from competing organisms.
-Aseptic technique, borrowed from hospital operating rooms, prevents
-contamination during every transfer and inoculation step. While commercial
-spawn laboratories use sophisticated equipment including laminar flow hoods,
-autoclaves, and clean rooms, the same fundamental principles can be applied
-at home with a pressure canner, a still air box, and careful technique.
-
-## The Biology of Mycelial Growth
-
-Mushroom mycelium is a network of branching tubular cells called hyphae,
-each typically 1 to 10 micrometers in diameter. Hyphae grow at their tips
-by extending the cell wall through the controlled addition of new cellular
-material. As the network expands, hyphae branch repeatedly, forming a dense
-mat called mycelium that colonizes the substrate. The mycelium secretes
-extracellular enzymes that break down complex organic molecules (cellulose,
-hemicellulose, lignin, chitin) into simpler compounds that can be absorbed
-through the hyphal walls. This process of external digestion is what makes
-fungi such effective decomposers and what allows them to grow through solid
-substrates like grain and wood.
-
-Two distinct growth morphologies are commonly observed when mycelium grows
-on agar plates. [[mycelium-running-rhizomorphic-mycelium-structural-strength-erosion-control]], characterized by thick, rope-like
+growing pure fungal cultures. [[mycelium-running-rhizomorphic-mycelium-structural-strength-erosion-control]], characterized by thick, rope-like
 strands of interwoven hyphae, is generally preferred by cultivators because
 it correlates with faster colonization rates, more abundant primordia
 formation, and higher mushroom yields. Tomentose mycelium, which appears as
@@ -118,28 +96,17 @@ Celsius), which allows it to be sterilized as a liquid, poured into plates
 or slants, and cooled to form a firm gel. This temperature gap between
 ## See Also
 
-- [[grain-spawn-preparation]]
-- sterile-cultivation-technique
 - [[agar-culture-and-isolation]]
-- [[strain-isolation-from-wild-specimens]]
 - [[substrate-preparation-and-pasteurization]]
-- [[sterilization-techniques-mushroom-cultivation]]
 - [[strain-selection-development]]
-- [[agar-medium-preparation]]
 - [[mushroom-cultivation-fundamentals]]
-- [[psilocybin-mushroom-cultivation-guide]]
-- troubleshooting-mushroom-contamination
 - [[biological-efficiency]]
 
 ## References
 
 - Stamets, Paul and Chilton, Jeff. The Mushroom Cultivator. Agarikon
   Press, 1983.
-- Stamets, Paul. Growing Gourmet and [[comparison-chaga-vs-turkey-tail-medicinal-mushrooms-comprehensive]]. Ten Speed Press,
-  2000.
-- Cotter, Tradd. Organic Mushroom Farming and Mycoremediation. Chelsea
-  Green Publishing, 2014.
-- Stamets, Paul. [[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]] of the World. Ten Speed Press, 1996.
+- Stamets, Paul. Growing Gourmet and [[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]] of the World. Ten Speed Press, 1996.
 - Koch, Robert. "Zur Untersuchung von pathogenen Organismen."
   Mittheilungen aus dem Kaiserlichen Gesundheitsampte, 1881.
 - Hesse, Fannie. Letter to Robert Koch, 1881. (On the use of agar-agar

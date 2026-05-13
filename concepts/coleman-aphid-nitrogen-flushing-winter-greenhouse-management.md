@@ -7,7 +7,7 @@ created: 2026-05-11
 
 # Aphid Management Through Nitrogen Flushing in Winter Greenhouses
 
-One of the most instructive pest management stories in Eliot Coleman's winter-harvest system is his solution to a persistent aphid problem that developed in the cold houses.
+One of the most instructive pest management stories in [[eliot-coleman]]'s winter-harvest system is his solution to a persistent aphid problem that developed in the cold houses.
 Rather than reaching for an approved organic pesticide,
 Coleman identified and addressed the root cause: excess soil nitrogen producing the soft,
 succulent plant tissue that aphids prefer.
@@ -65,7 +65,7 @@ The winter production cycle had inadvertently created conditions of excess nitro
 The specific mechanism that Coleman identified was insufficient irrigation during the winter months.
 During the summer,
 regular rainfall and irrigation keep soil moisture levels adequate,
-supporting the biological activity of the soil food web. The bacteria,
+supporting the biological activity of [[the-soil-food-web]]. The bacteria,
 fungi,  protozoa,
 and other soil organisms that make nutrients available to plants through biological processing require adequate moisture to remain active.
 
@@ -121,8 +121,6 @@ And it provides a framework for thinking about winter pest problems as indicator
 
 ## See Also
 
-- [[coleman-winter-spinach-dependable-cold-house-crop]]
 - [[coleman-deep-organic-shallow-organic-farming-comparison]]
-- [[coleman-double-layer-protection-temperature-performance]]
 - [[coleman-winter-harvest-greenhouse-temperature-management]]
 - [[coleman-cool-house-vs-cold-house-economics-winter-production]]

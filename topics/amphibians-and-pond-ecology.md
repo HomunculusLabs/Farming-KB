@@ -24,9 +24,7 @@ sources:
 
 ## Introduction
 
-Amphibians — frogs, toads, newts, and salamanders — are among the most ecologically significant vertebrates in freshwater and terrestrial ecosystems. As organisms that bridge aquatic and terrestrial environments, they occupy a unique niche in [[the-soil-food-web]] and [[aquatic-plants-and-pond-ecosystems]]. Their dual life cycle makes them both indicators of environmental health and powerful allies in [[beneficial-insects-and-biological-pest-control]].
-
-In [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]], amphibians serve as living pest-control systems, soil-aerating collaborators, and sensitive barometers of ecosystem integrity. This page explores their biology, ecology, and practical integration into farm and garden landscapes.
+Amphibians — frogs, toads, newts, and salamanders — are among the most ecologically significant vertebrates in freshwater and terrestrial ecosystems. As organisms that bridge aquatic and terrestrial environments, they occupy a unique niche in [[aquatic-plants-and-pond-ecosystems]]. Their dual life cycle makes them both indicators of environmental health and powerful allies in [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]], amphibians serve as living pest-control systems, soil-aerating collaborators, and sensitive barometers of ecosystem integrity. This page explores their biology, ecology, and practical integration into farm and garden landscapes.
 
 ## Classification and Diversity
 
@@ -61,8 +59,7 @@ Most amphibians undergo **metamorphosis**, transitioning through distinct life s
 
 ### Larval Stage (Tadpoles/Larvae)
 - Fully aquatic; breathe through external gills (newts) or internal gills (frogs)
-- Primarily herbivorous or detritivorous — grazing on algae, periphyton, and [[hamilton-composting-and-organic-matter-management]]
-- Tadpoles play a significant role in [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] within duckweed-and-azolla-as-livestock-feed-and-biofertilizer pond systems
+- Primarily herbivorous or detritivorous — grazing on algae, periphyton, and [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] within duckweed-and-azolla-as-livestock-feed-and-biofertilizer pond systems
 - Growth rates depend on water temperature, food availability, and population density
 
 ### Metamorphosis
@@ -83,63 +80,12 @@ Most amphibians undergo **metamorphosis**, transitioning through distinct life s
 
 A healthy amphibian pond is a complex, self-regulating ecosystem integrating several trophic levels:
 
-1. **Producers**: Algae, phytoplankton, [[aquatic-plants-and-pond-ecosystems|submerged and emergent vegetation]]
-2. **Primary Consumers**: Tadpoles, aquatic invertebrates, zooplankton
-3. **Secondary Consumers**: Adult amphibians, aquatic insects, dragonfly larvae
-4. **Tertiary Consumers**: Larger predators (herons, snakes, larger frogs)
-5. **Decomposers**: Bacteria, fungi, and detritivores breaking down organic matter
-
-### Essential Pond Features for Amphibians
-
-| Feature | Purpose | Ideal Specification |
-|---------|---------|-------------------|
-| Shallow margins | Egg-laying, tadpole warming | 0–15 cm depth, gradual slope |
-| Deep zones | Overwintering, drought refuge | 60–100 cm minimum |
-| Emergent vegetation | Egg attachment, cover | 30–50% of pond surface |
-| Submerged plants | Oxygenation, tadpole food | Multiple species, varying depth |
-| Floating vegetation | Shade, cover from predators | 20–40% coverage |
-| Terrestrial buffer | Foraging, dispersal, hibernation | 2–5 m minimum of undisturbed habitat |
-| Log/debris piles | Basking, shelter, hibernacula | Partially submerged and terrestrial |
-
-### Water Quality Requirements
-
-Amphibians are exceptionally sensitive to water chemistry due to their permeable skin:
-
-- **pH**: 6.0–8.0 (most species); some acid-tolerant species tolerate pH 4.0–5.0
-- **[[aact-dissolved-oxygen-fine-bubble-aeration-ingham]]**: Minimum 4 mg/L for tadpole survival; higher for sensitive species
+1. **Producers**: Algae, phytoplankton, [[aact-dissolved-oxygen-fine-bubble-aeration-ingham]]**: Minimum 4 mg/L for tadpole survival; higher for sensitive species
 - **Temperature**: Most temperate species breed at 10–20°C; tropical species at 22–30°C
 - **Conductivity/salinity**: Very sensitive; most species cannot tolerate elevated ion concentrations
 - **Nitrogen compounds**: Ammonia and nitrite are highly toxic at low concentrations (< 0.5 mg/L)
 
-This sensitivity makes them powerful bioindicators — see [[constructed-wetlands-and-ecological-wastewater-treatment]] for monitoring applications.
-
-## Amphibians as Bioindicators
-
-Amphibians are considered among the most reliable biological indicators of environmental health for several reasons:
-
-### Physiological Vulnerability
-- **Permeable skin**: Absorbs water, oxygen, and contaminants directly through the integument
-- **Biphasic life cycle**: Exposure to both aquatic and terrestrial pollutants
-- **Ectothermy**: Metabolic rate and development directly tied to environmental conditions
-- **Narrow physiological tolerances**: Small changes in pH, temperature, or chemistry cause stress or mortality
-
-### Population Monitoring Signals
-
-| Indicator | Healthy Population | Declining Population |
-|-----------|-------------------|---------------------|
-| Egg mass count | Stable or increasing year-over-year | Declining > 20% over 3+ years |
-| Breeding choruses | Loud, sustained nighttime calling | Reduced volume, shorter duration |
-| Tadpole survival | > 30% reach metamorphosis | < 10% reach metamorphosis |
-| Adult body condition | Robust, well-fed individuals | Emaciated, lethargic adults |
-| Species diversity | Multiple species coexisting | Single-species dominance or absence |
-| Deformity rate | < 2% limb abnormalities | > 5% deformities observed |
-
-### Global Decline Patterns
-
-Amphibians are experiencing the most severe vertebrate decline in recorded history:
-
-- Approximately **40% of species** are currently threatened with extinction (IUCN, 2024)
-- Primary drivers: habitat loss (70%), chytrid fungus *Batrachochytrium dendrobatidis* (Bd), [[dighton-fungi-climate-change-feedback]], pollution, and invasive species
+This sensitivity makes them powerful bioindicators — see [[dighton-fungi-climate-change-feedback]], pollution, and invasive species
 - Enigmatic declines — unexplained population crashes even in protected habitats — have been documented since the late 1980s
 - The [[entomopathogenic-fungi-and-biological-pest-control]] field has parallels with chytrid ecology in terms of host-pathogen dynamics
 

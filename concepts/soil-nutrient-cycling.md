@@ -9,7 +9,7 @@ sources:
 ---
 # Soil Nutrient Cycling
 
-Soil nutrient cycling is the process by which nutrients are converted from unavailable forms locked in [[hamilton-composting-and-organic-matter-management]] and mineral particles into plant-available forms through the activity of soil organisms. This is the core mechanism by which the soil food web feeds plants, as detailed in Jeff Lowenfels's "[[teaming-with-nutrients-availability-factors]]."
+Soil nutrient cycling is the process by which nutrients are converted from unavailable forms locked in [[teaming-with-nutrients-availability-factors]]."
 
 ## How Nutrients Become Available
 
@@ -21,40 +21,13 @@ In a healthy soil food web, nutrients follow a biological pathway rather than a 
 4. **Predation releases nutrients**: Protozoa eat bacteria; bacterial-feeding nematodes eat bacteria; fungal-feeding nematodes eat fungi. These predators need much more nitrogen than they consume, so they excrete the excess as ammonium (NH4+) -- a plant-available form.
 5. **Plant uptake**: Plant roots absorb the ammonium (and, after nitrification, nitrate) released by the soil food web. The nutrients were originally in organic matter or mineral particles, converted to microbial biomass, and then released in plant-available form through predation.
 
-This cycle is continuous and self-regulating. The plant "orders" nutrients by adjusting the composition of its [[mycorrhizal-root-exudates-pathogen-interactions]]. Different exudates attract different microbes, which in turn make different nutrients available.
-
-## The Nitrogen Cycle in Soil
-
-Nitrogen illustrates the nutrient cycling process most clearly.
-
-### Biological Pathway (Soil Food Web)
-1. **N fixation**: Free-living bacteria (Azotobacter) and symbiotic bacteria (Rhizobium in legume root nodules) convert atmospheric N2 into ammonium.
-2. **Immobilization**: Bacteria and fungi absorb ammonium and incorporate it into their biomass (proteins, nucleic acids). Nutrients are "immobilized" in microbial bodies.
-3. **Mineralization**: [[teaming-with-microbes-protozoa-and-nematodes]] consume bacteria and fungi, releasing excess nitrogen as ammonium (NH4+). This is called the "microbial loop."
+This cycle is continuous and self-regulating. The plant "orders" nutrients by adjusting the composition of its [[teaming-with-microbes-protozoa-and-nematodes]] consume bacteria and fungi, releasing excess nitrogen as ammonium (NH4+). This is called the "microbial loop."
 4. **Nitrification**: Nitrifying bacteria (Nitrosomonas, Nitrobacter) convert ammonium to nitrite (NO2-) and then to nitrate (NO3-), which plants can also absorb.
 5. **Plant uptake**: Roots absorb ammonium and nitrate.
 6. **Denitrification**: Under anaerobic conditions, denitrifying bacteria convert nitrate back to N2 gas, completing the cycle.
 
 ### Chemical Pathway (Synthetic Fertilizers)
-Synthetic nitrogen fertilizers ([[plant-available-nitrogen-ammonium-nitrate]], urea) bypass the biological pathway entirely:
-- Nutrients are immediately available in the root zone.
-- Plants stop producing exudates (why feed microbes when nutrients are free?).
-- Without exudates, soil biology starves.
-- Without soil biology, organic matter decomposes and is not replaced.
-- Soil becomes increasingly dependent on external inputs.
-
-## Von Liebig's Law of the Minimum
-
-Justus Von Liebig's principle states that plant growth is limited by the nutrient that is least available, regardless of how abundant other nutrients are. The classic analogy is a barrel with staves of different lengths -- water can only fill to the height of the shortest stave.
-
-This law has important implications:
-- Adding more of an already abundant nutrient does nothing if another nutrient is limiting.
-- Soil testing is essential to identify which nutrients are actually deficient.
-- The soil food web helps by making ALL nutrients available simultaneously through balanced biological activity.
-
-## Cation Exchange Capacity (CEC)
-
-CEC measures a soil's ability to hold positively charged nutrient ions (cations) on the surfaces of clay particles [[mollison-humus-and-organic-matter-in-soils]].
+Synthetic nitrogen fertilizers ([[mollison-humus-and-organic-matter-in-soils]].
 
 ### Key Cations
 - Calcium (Ca2+)
@@ -81,9 +54,89 @@ Soil pH affects nutrient availability because it determines the chemical form of
 ### Key Relationships
 - **pH 6.0-6.5**: Most nutrients are maximally available in this range.
 - **Low pH (acidic)**: Iron, manganese, and aluminum become more available (can become toxic). Phosphorus, calcium, and magnesium become less available.
-- **High pH (alkaline)**: Iron, manganese, zinc, and copper become less available. [[dynamic-accumulator-plants-calcium-and-magnesium]] become more available.
-- **pH adjustment**: Lime raises pH; sulfur lowers pH. Always test before adjusting.
+- **High pH (alkaline)**: Iron, manganese, zinc, and copper become less available. [[arbuscular-mycorrhizal-fungi-biology-symbiosis]] play a critical role [[comparison-soil-protozoa-vs-nematodes-in-nutrient-cycling]], particularly for phosphorus:
 
-## Mycorrhizal Nutrient Uptake
+## Overview
 
-[[arbuscular-mycorrhizal-fungi-biology-symbiosis]] play a critical role [[comparison-soil-protozoa-vs-nematodes-in-nutrient-cycling]], particularly for phosphorus:
+Soil Nutrient Cycling represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish soil nutrient cycling
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving soil extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Soil Nutrient Cycling finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for soil nutrient cycling. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+soil nutrient cycling and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Soil Nutrient Cycling has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of soil nutrient cycling into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[cool-temperate-soil-characteristics]]
+- [[jeavons-soil-ph-testing-balancing]]
+- [[lowenfels-tilling-no-till-soil-health]]
+- [[query-what-are-the-best-indicator-plants-for-soil-health]]
+- [[query-what-is-the-best-soil-mix-for-growing-cannabis]]

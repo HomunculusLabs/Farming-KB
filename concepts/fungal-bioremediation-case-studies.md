@@ -13,16 +13,8 @@ sources:
 The translation of laboratory-scale fungal bioremediation to field
 applications has been a central challenge in environmental mycology.
 This page documents major field trials demonstrating both promise and
-limitations of [[singh-petroleum-hydrocarbon-fungal-remediation-technologies]]. See
-[[mycoremediation-basics]] for foundational concepts and
-[[fungal-bioremediation-mechanisms]] for the underlying science.
-## The Lab-to-Field Gap
-A persistent challenge is the disparity between laboratory and field
-results. This gap is particularly pronounced for fungal bioaugmentation
-because the most effective degraders are wood-decay organisms introduced
-into soil environments where conditions differ markedly from the lab.
-- Laboratory studies use sterile conditions, optimal nutrient media,
-  controlled [[mushroom-growing-temperature-and-moisture]], and axenic cultures that
+limitations of [[mycoremediation-basics]] for foundational concepts and
+[[mushroom-growing-temperature-and-moisture]], and axenic cultures that
   maximize fungal activity without competition from other organisms.
 - Field conditions involve variable weather, non-sterile soils,
   competing microorganisms, suboptimal nutrient status, and
@@ -38,12 +30,7 @@ Pentachlorophenol was widely used as a wood preservative and has
 contaminated numerous sites worldwide. Several successful field trials
 have demonstrated fungal remediation of PCP-contaminated materials.
 - Lamar and Dietrich (1990) conducted one of the most successful
-  fungal field applications using [[phanerochaete-chrysosporium]]
-  on a grain-sawdust inoculum, achieving significant PCP
-  degradation over several months of treatment.
-- Lignocellulosic amendments including straw and corn cobs were
-  essential for fungal establishment and sustained activity,
-  providing carbon for [[ligninolytic-enzyme-systems-white-rot-fungi]]
+  fungal field applications using [[ligninolytic-enzyme-systems-white-rot-fungi]]
   production in soil environments.
 - Field trials addressing PCP in treated wood waste showed that
   fungal inoculation of wood chips from PCP-treated utility poles
@@ -56,10 +43,7 @@ PAH contamination from creosote, manufactured gas plants, and petroleum
 refining has been a major target for fungal remediation. PAHs range
 from simple two-ring to complex six-ring molecules, with degradation
 difficulty increasing with molecular weight and hydrophobicity.
-- At creosote-contaminated sites, [[staycare-phanerochaete-sordida-in-bioremediation]] inoculated
-  with wood chip carriers showed measurable reduction of three-ring
-  and four-ring PAHs, though results were more modest than predicted.
-- [[staycare-phanerochaete-chrysosporium-in-bioremediation]] soil demonstrated degradation of
+- At creosote-contaminated sites, [[staycare-phanerochaete-chrysosporium-in-bioremediation]] soil demonstrated degradation of
   pyrene and benzo[a]pyrene, confirming fungi can attack high-
   molecular-weight PAHs resistant to bacterial degradation alone.
 - At manufactured gas plant sites, Pleurotus ostreatus degraded
@@ -118,8 +102,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[fungal-bioaugmentation]]
 - [[doc]]
-- [[pcp]]
 - [[pleurotus-ostreatus]]
 - [[phanerochaete-chrysosporium]]

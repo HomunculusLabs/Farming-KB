@@ -16,7 +16,7 @@ type: concept
 
 # Fungal Metabolites of PAHs and Their Mutagenicity
 
-[[singh-fungal-metabolism-pahs]] of [[singh-fungal-biodegradation-of-polycyclic-aromatic-hydrocarbons]] hydrocarbons (PAHs) produces a
+[[singh-fungal-biodegradation-of-polycyclic-aromatic-hydrocarbons]] hydrocarbons (PAHs) produces a
 diverse array of metabolites with varying degrees of toxicity and
 mutagenicity. Understanding the metabolic pathways and the toxicological
 properties of these metabolites is critical for evaluating the safety and
@@ -43,7 +43,7 @@ troyanus, achieved up to 95% removal. Candida lipolytica detected 3- and
 200 mg/l.
 
 The relative degradation per unit biomass for three mitosporic fungi was:
-[[fusarium-solani]] (17%), and [[fusarium-oxysporum]]
+[[fusarium-oxysporum]]
 (8%). T. viride degraded 50% of benzo[a]pyrene without detectable laccase
 or peroxidase activities, suggesting a different metabolic pathway. F.
 solani can store benzo[a]pyrene in intracellular vesicles independently of

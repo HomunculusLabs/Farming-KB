@@ -8,60 +8,7 @@ type: concept
 
 ## Overview
 
-Wind is one of the most powerful forces shaping landscapes, microclimates, and agricultural productivity. While we have least control over wind compared to other elements — it cannot be stored or generated on site — we can profoundly modify its behavior through strategic design. Windbreaks and shelterbelts represent some of the most impactful design interventions available to [[permaculture]] practitioners, capable of transforming unproductive exposed sites into productive food-growing systems.
-
-## The Impact of Wind on Crops and Livestock
-
-### Wind Speed and Damage Thresholds
-
-| Beaufort Number | Speed (km/h) | Speed (mph) | Effect |
-|----------------|-------------|------------|--------|
-| 0-2 | 0-11 | 0-7 | Negligible — no damage to crops or structures |
-| 3-4 | 12-19 | 8-12 | Damage to very susceptible species; useful wind energy |
-| 5-6 | 20-38 | 13-24 | Mechanical damage to crops, some structural damage |
-| 7-12 | 39-118+ | 25-74+ | Severe structural and crop damage; windmill damage |
-
-Winds of 8 km/h are harmless to crops. At 24 km/h, production is reduced and animals lose weight. At 32-40 km/h, sheer mechanical damage to plants exceeds all other effects — plants can be uprooted, defoliated, or broken. Trees are severely wind-pruned through a combination of mechanical damage and, near coasts, salt burn and sandblast.
-
-### Wind-Transported Hazards
-
-Wind carries more than air. The most severe effects come from transported materials:
-- **Salt spray**: On coasts, salt deposits burn and kill vegetation. Only species with fibrous, waxy, or fleshy leaves survive
-- **Sand**: Desert and coastal sandblast buries fences, buildings, trees, and crops
-- **Ice**: In cold climates, ice-blast damages and deforms vegetation
-- **Sulphur and nitrogen particles**: Industrial pollution converts to acid rain, burning gardens and forests
-- **Radioactive particles**: Downwind of nuclear facilities, tests, or accident sites
-- **Spores, insects, and organisms**: Wind transports fungi, locust swarms, mosquitoes, fruit flies, and spiders across mountain and ocean barriers
-
-### Salt Burn
-
-On warm sea coasts, onshore winds carry salt that deposits on vegetation. This is often the limiting factor on species selection for coastal sites. Salt spray crystalizes on leaves and stems, burning tissue and killing many species. Even hardy plants that withstand years of normal gales can die in salty summer winds. The effect is so severe that on some coasts, salt crystalizes out in pinkish ponds mixed with volcanic earth — a visible testament to the loads carried by wind.
-
-## Wind Patterns and Predictability
-
-### Global Wind Belts
-
-Wind patterns are broadly predictable based on latitude:
-
-**Low latitudes (0-35 deg N/S):**
-- Bi-modal, seasonal wind systems
-- Southeast or northwest in the southern hemisphere
-- Southwest or northeast in the northern hemisphere
-- Trade winds dominate, with monsoon shifts creating two main seasons of winds and two short periods of relative calm
-
-**Mid latitudes (35-50 deg):**
-- Westerlies prevail in winter
-- Easterlies occur sporadically as high and low pressure systems pass
-- Cold winds blow from continental interiors in winter
-- Chilling winter winds come from the seas
-
-**High latitudes (>50 deg):**
-- Very long summer days, short or no winter daylight
-- Dramatic seasonal wind shifts
-
-### Wind Harmonics
-
-Ground winds do not blow steadily but vary as gusts and calms in predictable, locality-specific patterns. Key characteristics identified by wind researcher [[frank-bethwaite]]:
+Wind is one of the most powerful forces shaping landscapes, microclimates, and agricultural productivity. While we have least control over wind compared to other elements — it cannot be stored or generated on site — we can profoundly modify its behavior through strategic design. Windbreaks and shelterbelts represent some of the most impactful design interventions available to [[frank-bethwaite]]:
 
 - **Gust frequency**: 49-60 minute cycles are typical at mid-latitudes
 - **Gust intensity**: Gusts are typically 40% stronger than lulls
@@ -142,9 +89,17 @@ On coasts and in deserts, the windward rows of trees will be heavily wind-flagge
 **Mesh fences with fedges:**
 - Stoutly built with heavy top rail
 - Basis for fence-hedges (fedges) of thick-leaved vines
-- On coasts, may be completely mounded over with tough semi-succulents: *[[rhagodia]]*, *[[tetragonia]]*, *Carpobrotus*, *Mesembryanthemum*
+- On coasts, may be completely mounded over with tough semi-succulents: *[[tetragonia]]*, *Carpobrotus*, *Mesembryanthemum*
 
 **Rock walls:**
 - Can be mounded with scramblers or cacti
 - Some species provide bee forage, berries, or edible fruits
 - The hollow from which earth is taken for mounds can hold water or protect young plants
+
+## See Also
+
+- [[comparison-windbreak-vs-thermal-mass]]
+- [[windbreak-design-and-configurations]]
+- [[coastal-windbreak-systems-and-plant-wind-tolerance]]
+- [[mollison-designers-windbreak-configurations-for-crops-and-orchards]]
+- [[bill-mollison-permaculture-a-designers-manual-windbreak-design-and-shelter]]

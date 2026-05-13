@@ -47,7 +47,7 @@ The Huichol people of the Sierra Madre Occidental in western Mexico maintain one
 The Native American Church (NAC) is the largest organized religious body that uses peyote as a sacrament. Founded in the late 19th century, the NAC incorporates elements of Christianity with indigenous peyote traditions.
 
 ### Legal Status
-- Protected under the American Indian Religious Freedom Act (1978)
+- Protected under the [[harner-american-indian-peyote-rituals]] Religious Freedom Act (1978)
 - Affirmed by the Supreme Court in Employment Division v. Smith (1990) — which actually ruled against NAC use, leading to the Religious Freedom Restoration Act (1993)
 - The 1994 amendments to AIRFA specifically protect NAC peyote use for members of federally recognized tribes
 - Non-Native participation in NAC ceremonies is a complex and contested issue
@@ -98,7 +98,7 @@ Peyote songs are a vital component of NAC ceremony. They are:
 Peyote is under significant ecological pressure:
 
 - Wild populations have declined dramatically in Texas and Mexico
-- Poaching by non-indigenous harvesters for the [[porcini-commercial-market]] is a primary threat
+- Poaching by non-indigenous harvesters for the commercial market is a primary threat
 - The slow growth rate means populations cannot recover from overharvesting
 - Climate change is altering the Chihuahuan Desert ecosystem
 - Several organizations are working on peyote conservation and sustainable cultivation programs
@@ -115,19 +115,5 @@ Peyote is under significant ecological pressure:
 
 ## Related Topics
 
-- [[san-pedro-cactus-preparation]] — a faster-growing mescaline cactus alternative
+- [[san-pedro-cactus-preparation]] — a faster-growing [[peyote-mescaline-cactus-pharmacology]] alternative
 - [[mescaline-extraction-guide]] — laboratory [[arbuscular-mycorrhizal-spore-extraction-methods]]
-## Key Considerations
-
-Understanding the fundamental principles underlying this topic enables more effective practical application. Integration with related concepts strengthens overall system function and provides multiple pathways for implementation and adaptation to specific contexts.
-
-## Common Challenges
-
-Practitioners frequently encounter challenges related to resource availability, environmental variability, and knowledge gaps. Systematic approaches to problem-solving, combined with community knowledge sharing and iterative experimentation, provide effective pathways to overcoming these obstacles.
-
-## See Also
-- [[golden-guide-peyote-and-mescaline-cacti]]
-- [[gottlieb-peyote-botany-and-mescaline-content]]
-- [[gottlieb-peyote-cultivation-from-seed]]
-- [[gottlieb-peyote-extraction-and-preparation-methods]]
-- [[gottlieb-peyote-legal-status-and-conservation]]

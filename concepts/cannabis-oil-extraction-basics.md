@@ -4,36 +4,7 @@ source: ben-lemon-cannabis-alchemy.md
 type: concept
 ---
 
-# [[cannabis-oil-extraction]] Basics
-
-Cannabis oil extraction is the foundational process in cannabis alchemy — the art and science of separating the essential oils of the cannabis plant (containing THC, related cannabinoids, chlorophyll, and aromatic compounds) from the inert cellulose plant matter. The resulting essential oil can be consumed directly, further purified, or chemically modified to increase potency and alter the character of the psychoactive effect.
-
-## Historical Context
-
-The public attitude toward cannabis has shifted dramatically since the first edition of *Cannabis Alchemy* was published in 1979. What was once a criminalized substance associated with revolutionary symbolism has become commonplace recreational and medicinal practice for millions. The pharmaceutical industry has actively researched THC and its analogs for therapeutic applications, including treatment of glaucoma and alleviation of chemotherapy side effects. Despite this, the scientific consensus on moderate cannabis use has not found the kind of overwhelming damaging effects that exist for tobacco and alcohol. The simple fact remains: cannabis is easy to grow anywhere, and the methods for extracting and refining THC are elementary chemical techniques — making regulation inherently difficult.
-
-## Overview of the Extraction Process
-
-The basic extraction method involves six sequential steps:
-
-1. **Preparing** the cannabis material (drying and crumbling)
-2. **Pulverizing** to the finest possible powder
-3. **Refluxing** (boiling) in solvent to dissolve essential oils
-4. **Soxhleting** — washing the spent material with clean solvent to recover remaining oil
-5. **Distilling off** the solvent from the oil
-6. **Purifying** the crude oil (optional but recommended for increased potency)
-
-## Step 1: Preparing the Cannabis Material
-
-### Marijuana
-
-- Seeds are removed prior to extraction
-- Remaining material is crumbled or broken; stems are cut short with scissors
-- Material is dried thoroughly using an oven preheated to 250°F (then turned off)
-- The marijuana is placed on a cookie sheet for fifteen-minute intervals until the loose leaf and flower parts crumble easily to powder between the palms
-- This intermittent heating prevents scorching the plant material
-
-### [[hashish]]
+# [[hashish]]
 
 - Hashish is heated for several minutes in an oven or frying pan at low heat until it begins to smoke slightly
 - It is then easily crumbled by hand, or ground to a fine powder in a mortar and pestle
@@ -109,17 +80,7 @@ It is very dangerous to boil solvents directly — the fumes and liquid are high
 
 The choice of solvent significantly impacts yield, potency, safety, and the character of the final product.
 
-### M[[ethanol]] (Methyl Alcohol / Wood Alcohol)
-
-- **Boiling point**: 64°C (~190°F)
-- **Availability**: Pharmacies, industrial chemical suppliers, paint thinner (often impure)
-- **Advantages**: Common, effective, uniform evaporation temperature, does not extract many water-soluble (non-psychoactive) tars
-- **Disadvantages**: Fumes are toxic and explosive; inhalation causes body aches; continued inhalation may cause permanent damage; any residual solvent in the oil is hazardous to the consumer
-- **Verdict**: Does a fine job if used correctly, but toxicity is a significant concern
-
-### Isopropyl Rubbing Alcohol (70% isopropyl / 30% water)
-
-- **Advantages**: Widely available, inexpensive, much less toxic and explosive than [[methanol]]
+### M[[methanol]]
 - **Disadvantages**: Water content extracts many water-soluble, non-psychoactive substances; oil yield is approximately **twice** that of methanol but proportionally less potent; water-soluble tars give undesirable taste and burning qualities; water remaining after alcohol evaporation takes a long time to remove
 - **Best use**: When the oil will be re-extracted later with a more selective solvent — the quality at this stage matters little
 
@@ -136,3 +97,11 @@ The choice of solvent significantly impacts yield, potency, safety, and the char
 - **Advantages**: Much more selective than any alcohol; produces oil approximately **twice as potent by weight** as alcohol-extracted oil
 - **Disadvantages**: Highly explosive; usually only available through chemical supply companies
 - **Best use**: Not for direct extraction (too dangerous with large volumes); instead, used for **re-extraction** of alcohol-extracted oil, requiring much smaller quantities of the dangerous solvent
+
+## See Also
+
+- [[cannabis-curing-storage-post-harvest-clarke]]
+- [[cannabis-oil-purification-and-isomerization]]
+- [[cannabis-edibles-guide]]
+- [[cannabis-auto-flowering-ruderalis-sativa-indoor]]
+- [[blesching-cannabis-tuberculosis]]

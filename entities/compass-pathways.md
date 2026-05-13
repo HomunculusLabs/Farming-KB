@@ -21,15 +21,9 @@ sources:
 
 # Compass Pathways
 
-Compass Pathways (NASDAQ: CMPS) is a UK-based mental health care company focused on developing psilocybin-based therapies for treatment-resistant depression (TRD). Founded in 2016, it is the most advanced publicly traded company pursuing regulatory approval for a synthetic psilocybin formulation, known as COMP360. The company has conducted the largest randomized, controlled, multi-site psilocybin [[psilocybin-clinical-trial-landscape-2020-2025]] to date and received FDA Breakthrough Therapy Designation for its lead program.
+Compass Pathways (NASDAQ: CMPS) is a UK-based mental health care company focused on developing psilocybin-based therapies for treatment-resistant depression (TRD). Founded in 2016, it is the most advanced publicly traded company pursuing regulatory approval for a synthetic psilocybin formulation, known as COMP360. The company has conducted the largest randomized, controlled, multi-site psilocybin [[metzner-psycholytic-psychedelic-therapy-models]]. Kabir Nath serves as CEO. The company is headquartered in London, United Kingdom, with additional offices in New York City.
 
-## Founding and Leadership
-
-Compass Pathways was founded in 2016 by George Goldsmith (Chairman) and Ekaterina Malievskaia (Chief Medical Officer), a married couple who were motivated by Malievskaia’s personal experience with depression and [[metzner-psycholytic-psychedelic-therapy-models]]. Kabir Nath serves as CEO. The company is headquartered in London, United Kingdom, with additional offices in New York City.
-
-Goldsmith and Malievskaia founded the company after witnessing the limitations of conventional antidepressant treatments and the promising early results from academic researchers like [[mollison-designers-road-water-harvesting-and-integration]] sessions afterward. The approach is designed for patients who have not responded to at least two prior antidepressant treatments.
-
-The synthetic formulation distinguishes COMP360 from natural [[gartz-gymnopilus-purpuratus-south-american-mushroom-in-europe]].
+Goldsmith and Malievskaia founded the company after witnessing the limitations of conventional antidepressant treatments and the promising early results from academic researchers like [[gartz-gymnopilus-purpuratus-south-american-mushroom-in-europe]].
 - Psilocybin remains a Schedule I controlled substance in the US, though COMP360 is used under clinical trial protocols and Investigational New Drug (IND) applications.
 
 The path to FDA approval has been complicated by concerns about the suicidality signal observed in trials.
@@ -54,28 +48,97 @@ Compass has built a network of partnerships to support its clinical development 
 
 Compass Pathways has faced several controversies during its development:
 
-**Patenting psychedelics:** The company faced significant backlash from the psychedelic community for filing patents on psilocybin-related methods and formulations. Critics argued that patenting compounds derived from natural fungi was unethical and could restrict patient access. Compass defended the patents as necessary to fund large-scale [[mushroom-cancer-clinical-trials-overview]] and ensure quality control in a pharmaceutical context.
-
-**Executive compensation:** The compensation of top executives relative to the company’s pre-revenue status and declining stock price drew criticism from investors and patient advocates.
-
-**Pricing concerns:** Analysts and patient advocates have raised questions about the potential cost of COMP360 therapy, given the need for trained therapists and clinical settings, which could make it inaccessible to many patients even if approved.
-
-**Competition with non-profit research:** Some in the psychedelic community have expressed concern that for-profit development of psilocybin could undermine the work of non-profit researchers like those at the Usona Institute and academic centers, potentially redirecting research priorities toward commercially profitable indications rather than the areas of greatest unmet medical need.
-
-Despite these criticisms, Compass’s rigorous clinical trial methodology has generally been praised, and the company has made its trial data publicly available through publications and conference presentations.
-
-## Competitive Landscape
-
-Compass operates in an increasingly competitive psychedelic medicine landscape. Key competitors include Cybin Inc. (NYSE: CYBN), which is developing psilocybin and other psychedelic compounds; Mind Medicine MindMed (NASDAQ: MNMD), which is pursuing LSD-based therapies; and ATAI Life Sciences (NASDAQ: ATAI), a platform company with multiple psychedelic programs. The non-profit Usona Institute also maintains a competing [[early-paris-psilocybin-research-1960s]] program for depression.
+**Patenting psychedelics:** The company faced significant backlash from the psychedelic community for filing patents on psilocybin-related methods and formulations. Critics argued that patenting compounds derived from natural fungi was unethical and could restrict patient access. Compass defended the patents as necessary to fund large-scale [[early-paris-psilocybin-research-1960s]] program for depression.
 
 ## Current Status (2025–2026)
 
 As of 2025–2026, Compass Pathways is in a critical “prove it” moment. Phase 3 results will determine whether psilocybin therapy can achieve FDA approval as a legitimate pharmaceutical treatment for treatment-resistant depression. Financial pressures remain significant with the company operating in a challenging capital markets environment. The broader psychedelic medicine field has experienced a substantial hype-to-reality correction, with many smaller companies failing or pivoting. However, Compass remains one of the best-funded and most clinically advanced companies in the sector, with the largest body of clinical evidence supporting its lead program.
 
-If Phase 3 results are positive, Compass could submit a New Drug Application (NDA) to the FDA potentially as early as 2026, which would make COMP360 the first approved psychedelic therapy in the [[dmt-containing-plants-united-states-halpern]].
-
-## Related Entities
-
-- [[alexander-shulgin]] — psychopharmacologist who synthesized and characterized many psychedelic compounds
+If Phase 3 results are positive, Compass could submit a New Drug Application (NDA) to the FDA potentially as early as 2026, which would make COMP360 the first approved psychedelic therapy in the [[alexander-shulgin]] — psychopharmacologist who synthesized and characterized many psychedelic compounds
 - Heffter Research Institute — non-profit [[mckenna-suppression-psychedelic-research-lsd-therapy]] organization
 - Usona Institute — non-profit psilocybin research institute
+
+## Overview
+
+Compass Pathways represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish compass pathways
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving compass extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Compass Pathways finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for compass pathways. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+compass pathways and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Compass Pathways has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of compass pathways into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[chorismate-metabolism-and-branch-pathways]]
+- [[fungal-nitrogen-mineralization-pathways]]
+- [[plant-signaling-pathways]]
+- [[singh-mycorrhiza-mediated-plant-nutrient-uptake-pathways]]
+- [[staycare-chlorophenol-degradation-pathways-white-rot-fungi]]

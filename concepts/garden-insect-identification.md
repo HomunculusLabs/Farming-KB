@@ -9,7 +9,7 @@ sources: [raw/papers/gardening-when-it-counts-steve-solomon.md]
 
 # Garden Insect Identification
 
-Common garden insect pests as described in Steve Solomon's *Gardening When It Counts*, along with identification characteristics and [[cho-natural-pest-control-methods]]. Solomon emphasizes that the first response to pest problems should be to ask whether the struggling plant is simply not growing fast enough to overcome the problem — often the best cure is fertilizer, not pesticide.
+Common garden insect pests as described in [[steve-solomon]]'s *Gardening When It Counts*, along with identification characteristics and control methods. Solomon emphasizes that the first response to pest problems should be to ask whether the struggling plant is simply not growing fast enough to overcome the problem — often the best cure is fertilizer, not pesticide.
 
 ## Aphids (Aphididae family)
 
@@ -30,7 +30,7 @@ At least two distinct species attack brassicas.
 
 ## Colorado Potato Beetle (Leptinotarsa decemlineata)
 
-Found throughout most [[berry-growing]]; can almost completely defoliate a potato crop.
+Found throughout most of North America; can almost completely defoliate a potato crop.
 
 - **Identification**: Adults overwinter 12-18 inches below surface in or near the potato plot. They emerge in late spring, lay eggs on leaf undersides, and resume feeding. Both adults and larvae feed.
 - **Control**: Growing spuds on new ground reduces emergence. Straw mulching after planting provides habitat for ground predators. Row covers work for small plots. Handpick adults when they first emerge. Crop rotation is essential.
@@ -44,11 +44,11 @@ Also known as the tomato fruitworm.
 
 ## Cucumber Beetles (Striped and Spotted)
 
-[[growing-gourmet-north-american-reishi-species]] pests about a quarter inch long. Striped ones have three parallel lines; spotted ones have various patterns.
+North American pests about a quarter inch long. Striped ones have three parallel lines; spotted ones have various patterns.
 
 - **Life cycle**: Overwinter in spring, feed on seedlings and chew leaves. Favorite food is cantaloupe, then cucumbers, watermelon, and squash last.
 - **Damage**: Can transmit virus wilt disease that kills seedlings. Most damage is in spring.
-- **Control**: Sow cucurbits a few weeks later than most in your area so seedlings grow more vigorously. Plant four seeds, thin to two per spot after true leaves appear. Cover hills with floating row covers until plants begin blooming. [[comparison-free-living-vs-parasitic-nematodes]] control larvae.
+- **Control**: Sow cucurbits a few weeks later than most in your area so seedlings grow more vigorously. Plant four seeds, thin to two per spot after true leaves appear. Cover hills with floating row covers until plants begin blooming. Parasitic nematodes control larvae.
 
 ## Cutworms
 
@@ -95,13 +95,13 @@ About 5/8 inch long, dark brown or mottled, with an unpleasant odor.
 - **Damage**: Adults and larvae suck plant juice and inject a toxin causing wilt and blackened runners.
 - **Control**: Handpicking. Grow a mixed garden offering cover for beneficials, including buckwheat to harbor tachinid fly parasites. End-of-season sanitation — remove all boards, dead plant residue. Thoroughly compost all squash vegetation.
 
-## [[wireworm-control]]
+## [[wireworm-control|wireworms]]
 
 - **Control**: Solomon mentions wireworms among the numerous soil-dwelling pests controlled by parasitic nematodes, along with onion maggots, carrot weevils, cutworms, and cucumber beetle larvae. See [[leatherjacket-pest-control]].
 
 ## Solomon's Pest Management Philosophy
 
-- **Plant twice what you need**: So [[mushroom-pests-and-diseases]] can't wipe out your food supply
+- **Plant twice what you need**: So pests and diseases can't wipe out your food supply
 - **Don't sow too early**: The biggest single cause of pest trouble
 - **Fertilize, don't poison**: Often the struggling plant just needs nutrition to outgrow the problem
 - **Accept imperfection**: The American "Sanitary System" belief that food must be perfectly clean is unrealistic
@@ -112,17 +112,3 @@ About 5/8 inch long, dark brown or mottled, with an unpleasant odor.
 - [[garden-disease-identification]] — Common plant diseases
 - [[leatherjacket-pest-control]] — Wireworm-specific control methods
 - [[vegetable-garden-guide]] — Crop-specific pest information
-## Design Integration
-
-This concept integrates effectively within broader permaculture design frameworks, contributing to system resilience and multiple ecosystem functions. When implemented as part of a holistic design, it supports the core permaculture ethics of earth care, people care, and fair share. Consider zone placement, relative location, and energy cycling principles when incorporating into landscape designs.
-
-## Economic Considerations
-
-Cost-benefit analysis should account for both immediate yields and long-term system productivity. Initial investment in infrastructure and establishment is typically offset by reduced maintenance costs and increasing outputs over time. Multiple revenue streams can be developed through value-added products, educational opportunities, and ecosystem services.
-
-## See Also
-- [[allegro-the-sacred-mushroom-amanita-identification]]
-- [[amanita-poisoning-identification-antidotes-palmer]]
-- [[amanita-species-ecology-identification-mycohhizal]]
-- [[biodiversity-fungal-molecular-identification-dna-barcoding]]
-- [[bloomfield-angel-of-death-poisonous-mushroom-identification-toxinology]]

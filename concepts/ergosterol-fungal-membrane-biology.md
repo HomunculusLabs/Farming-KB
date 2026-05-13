@@ -1,45 +1,20 @@
-# [[s-adenosylmethionine]] (SAM)-dependent methyltransferases
-- **C5-C6 double bond**: Present in both ergosterol and cholesterol; the Δ⁵ position is critical for proper membrane insertion
-- **C7-C8 and C22-C23 double bonds**: These additional unsaturations are introduced by specific fungal desaturases and are absent from cholesterol. The C22-C23 double bond in particular is responsible for many of ergosterol's unique biophysical properties
-
-The three double bonds make ergosterol more rigid and planar than cholesterol, altering how it interacts with phospholipid acyl chains in the membrane bilayer. Ergosterol is essentially insoluble in water but dissolves readily in organic solvents (chloroform, ethanol, ether).
-
-## Role in Fungal Membrane Structure
-
-Ergosterol serves several essential structural and [[hemenway-mulch-makers-and-plant-functional-roles]] in fungal membranes:
+# [[hemenway-mulch-makers-and-plant-functional-roles]] in fungal membranes:
 
 ### Membrane Fluidity and Permeability
 
 Like cholesterol in animal cells, ergosterol modulates membrane fluidity through its condensing effect on phospholipid bilayers. At physiological temperatures, ergosterol:
 
 - **Orders phospholipid acyl chains** in the liquid-disordered phase, reducing membrane permeability to small molecules and ions
-- **Prevents [[phase-transitions-and-critical-phenomena]]** to the gel (solid-ordered) phase at lower temperatures, maintaining membrane function under thermal stress
-- **Creates lipid rafts**: Ergosterol-enriched microdomains analogous to cholesterol-rich rafts in animal cells, which concentrate specific membrane proteins and serve as signaling platforms
-
-The C22-C23 double bond in ergosterol makes it more effective at ordering membranes than cholesterol at equivalent concentrations, which has been demonstrated by differential scanning calorimetry and fluorescence anisotropy studies using model membranes.
-
-### Membrane Protein Function
-
-Many fungal membrane proteins require ergosterol for proper folding, trafficking, and function:
-
-- **H⁺-ATPase (Pma1)**: The primary plasma membrane proton pump essential for maintaining electrochemical gradients requires ergosterol for activity and stability
-- **Nutrient transporters**: , increased ergosterol content correlates with ethanol tolerance — a finding exploited in industrial fermentation strain development
-- **Temperature adaptation**: Psychrophilic [[soil-mycobiome]] iome assessment**: Ergosterol content correlates with total living fungal biomass (typically 5–50 μg/g soil in temperate ecosystems)
+- **Prevents [[soil-mycobiome]] iome assessment**: Ergosterol content correlates with total living fungal biomass (typically 5–50 μg/g soil in temperate ecosystems)
 - **Indoor air quality**: Ergosterol in settled dust correlates with mold exposure and is used in epidemiological studies of respiratory health
 - **Food and feed safety**: Ergosterol levels indicate fungal contamination in grains and stored products
-- **[[ingham-compost-quality-assessment-visual-microbial-indicators|Compost]] maturity**: Declining ergosterol-to-bacterial-marker ratios indicate progression from fungal-dominated to mature compost
-
-[[analytical-methods-psilocybin-psilocin-quantification]] include HPLC with UV detection (λ = 282 nm), GC-MS after saponification, and LC-MS/MS for higher sensitivity. Modern methods achieve [[hplc-detection-limits-calibration-psilocybin-psilocin-bigwood-beug]] of 0.1–1 ng/mL.
-
-## Ergosterol-Derived Vitamin D₂
-
-When exposed to ultraviolet B (UVB) radiation, ergosterol undergoes photolysis to [[ingham-pleomorphism-microbial-form-shifting-soil-conditions|form]] **ergocalciferol (vitamin D₂)**. The photolysis pathway proceeds through:
+- **[[analytical-methods-psilocybin-psilocin-quantification]] include HPLC with UV detection (λ = 282 nm), GC-MS after saponification, and LC-MS/MS for higher sensitivity. Modern methods achieve [[ingham-pleomorphism-microbial-form-shifting-soil-conditions|form]] **ergocalciferol (vitamin D₂)**. The photolysis pathway proceeds through:
 
 1. **Previtamin D₂**: UVB cleaves the B-ring (C9-C10 bond) to form previtamin D₂
 2. **Vitamin D₂**: Thermal isomerization to the more stable ergocalciferol form
 3. **Tachysterol and lumisterol**: Competing photoisomers formed at different UV wavelengths
 
-Vitamin D₂ is the primary dietary source of vitamin D for vegans and vegetarians, and is produced commercially by UV irradiation of ergosterol extracted from yeast ([[saccharomyces-cerevisiae]]) or mushroom ([[agaricus-bisporus]]) biomass. UV-exposed mushrooms can provide 100% of the daily vitamin D requirement per serving when irradiated during cultivation or post-harvest.
+Vitamin D₂ is the primary dietary source of vitamin D for vegans and vegetarians, and is produced commercially by UV irradiation of ergosterol extracted from yeast ([[agaricus-bisporus]]) biomass. UV-exposed mushrooms can provide 100% of the daily vitamin D requirement per serving when irradiated during cultivation or post-harvest.
 
 ## Industrial and Biotechnological Applications
 
@@ -65,54 +40,91 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
-knowledge, time, and ongoing attention. Realistic assessment of what
-can be sustainably maintained helps prevent overextension and ensures
-that implementations remain viable and productive over the long term.
+[[ergosterol]]
+- [[psilocybin]]
+- [[psilocin]]
 
-## Common Challenges and Solutions
+## Overview
 
-Several recurring challenges tend to arise in work related to this
-topic. These include variability in environmental conditions, the
-complexity of multi-variable interactions, and the difficulty of
-predicting outcomes with certainty in dynamic systems. Anticipating
-these challenges enables more proactive and effective management.
+Ergosterol Fungal Membrane Biology represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
 
-Building resilience into implementations through diversity, redundancy,
-and adaptive capacity helps buffer against unpredictable events and
-conditions. This approach recognizes that some degree of uncertainty is
-inherent in working with natural systems and plans accordingly rather
-than assuming perfect predictability or control over outcomes.
+## Key Characteristics
 
-Documentation and record-keeping support continuous improvement by
-creating a reference base of observations, interventions, and results.
-This accumulated knowledge enables progressively better decision-making
-and helps identify patterns that might otherwise be overlooked in the
+Several defining characteristics distinguish ergosterol fungal membrane biology
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving ergosterol extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
 
 ## Practical Applications
 
-The principles and techniques discussed here have wide-ranging applications
-across multiple disciplines and contexts. Practitioners and researchers
-continue to explore new ways to integrate these concepts into modern practice,
-adapting traditional knowledge to contemporary challenges and opportunities.
+Ergosterol Fungal Membrane Biology finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
 
-## Key Considerations
+## Management and Implementation
 
-Several important factors influence the effectiveness and outcomes described
-in this topic. Understanding these considerations helps practitioners make
-informed decisions and avoid common pitfalls. Environmental conditions,
-timing, and material selection all play critical roles.
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for ergosterol fungal membrane biology. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+ergosterol fungal membrane biology and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
 
 ## Historical Context
 
-The historical development of this subject reflects centuries of accumulated
-knowledge and practical experience. From traditional methods passed down
-through generations to modern scientific approaches, the evolution continues
-to inform current best practices and research directions.
+Ergosterol Fungal Membrane Biology has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of ergosterol fungal membrane biology into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
 
 ## See Also
+
+- [[biodiversity-of-fungi-molecular-pcr-fungal-diversity]]
+- [[bloomfield-amphotericin-b-ergosterol-targeting-antifungal-chemotherapy]]
 - [[ergosterol]]
-- [[doc]]
-- [[psilocybin]]
-- [[dom]]
-- [[psilocin]]
+- [[ergosterol-fungal-drug-target]]
+- [[fungal-phylogeny-classification]]

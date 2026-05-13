@@ -21,25 +21,15 @@ sources:
 
 **Fragaria vesca**, commonly known as the wild strawberry, woodland strawberry, or Alpine strawberry, is a perennial herbaceous plant in the family Rosaceae. It is native to the Northern Hemisphere and produces small, intensely flavored berries prized for their sweetness and aromatic complexity.
 
-The species is diploid (2n = 2x = 14) and serves as a model organism for strawberry genetics and genomics research. The *F. vesca* genome was sequenced in 2011 by the Genome Analysis Center, providing a reference for octoploid cultivated strawberry genomics.
+The species is diploid (2n = 2x = 14) and serves as a [[canary-grass-phototropism-model-organism]] for strawberry genetics and genomics research. The *F. vesca* genome was sequenced in 2011 by the Genome Analysis Center, providing a reference for octoploid cultivated strawberry genomics.
 
-Its [[fukuoka-ideal-rice-plant-morphology-compact-growth-high-yield]] habit, shade tolerance, and ornamental value have made it popular in woodland gardens and permaculture designs. The fruit is significantly smaller than cultivated strawberries (1–2 g vs. 10–30 g) but commands a premium in specialty markets for its concentrated flavor.
+Its [[psilocybin-north-america-pacific-northwest]] for millennia. Archaeological evidence from Mesolithic sites in Denmark and Sweden includes strawberry seeds, indicating early human consumption.
 
-The genus *Fragaria* contains approximately 20 species distributed across temperate regions worldwide. Diploid species like *F. vesca* are considered ancestral to the octoploid cultivated strawberry, making them critical for understanding polyploid evolution in the genus.
-
-Wild strawberries have been gathered for food and medicine across Europe, Asia, and [[psilocybin-north-america-pacific-northwest]] for millennia. Archaeological evidence from Mesolithic sites in Denmark and Sweden includes strawberry seeds, indicating early human consumption.
-
-The fruit contains ellagic acid and anthocyanins with documented antioxidant and anti-inflammatory properties. These [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]] have attracted research interest for their potential protective effects against cardiovascular disease and certain cancers, though clinical evidence remains preliminary.
-
-## Taxonomy and Morphology
-
-**Fragaria vesca** L. was described by Carl Linnaeus in 1753. The genus name derives from the Latin *fragra* (fragrance), referencing the aromatic fruit. The species epithet *vesca* means "edible" in Latin.
-
-The species is diploid with a base chromosome number of x = 7. Two subspecies are recognized: *F. vesca* subsp. *vesca* (Eurasian, with runners) and *F. vesca* subsp. *bracteata* ([[growing-gourmet-north-american-reishi-species]], often without runners). A cultivated form, *F. vesca* subsp. *semperflorens*, is runnerless and everbearing.
+The fruit contains ellagic acid and anthocyanins with documented antioxidant and anti-inflammatory properties. These [[growing-gourmet-north-american-reishi-species]], often without runners). A cultivated form, *F. vesca* subsp. *semperflorens*, is runnerless and everbearing.
 
 Plants grow 15–30 cm tall from a fibrous root system. Leaves are trifoliate with coarsely toothed, ovate leaflets 3–5 cm long. Leaf surfaces are green above and paler beneath, with silky hairs on the abaxial side. The compound leaves arise from a short, upright crown at the base of the plant.
 
-A spreading network of slender stolons connects daughter plants to the parent, facilitating vegetative colonization of surrounding areas. Each stolon node can produce roots and establish a new independent plant, allowing a single individual to cover large areas over several growing seasons. The root system is shallow but extensive, consisting of fibrous adventitious roots concentrated in the top 15 cm of soil.
+A spreading network of slender stolons connects daughter plants to the parent, facilitating vegetative colonization of surrounding areas. Each stolon node can produce roots and establish a new independent plant, allowing a single individual to cover large areas over several [[jeavons-climate-adaptation-growing-seasons]]. The root system is shallow but extensive, consisting of fibrous adventitious roots concentrated in the top 15 cm of soil.
 
 Flowers are hermaphroditic, 1–2 cm in diameter, with five white petals. Blooming occurs from April to June depending on latitude. Each flower produces 20–40 pistils on a conical receptacle, which enlarges after fertilization to form the fleshy fruit.
 
@@ -47,11 +37,11 @@ Fruit is an aggregate accessory fruit composed of achenes embedded on a swollen,
 
 ## Distribution and Habitat
 
-Wild strawberry is circumboreal in distribution, occurring across Europe, Asia, and North America. In North America, it ranges from Alaska to California and eastward across Canada to the Atlantic coast, extending south in mountainous regions to Georgia and New Mexico.
+Wild strawberry is circumboreal in distribution, occurring across Europe, Asia, and [[guzman-psilocybin-mushrooms-north-america]]. In North America, it ranges from Alaska to California and eastward across Canada to the Atlantic coast, extending south in mountainous regions to Georgia and New Mexico.
 
 The species colonizes open woods, forest margins, meadows, stream banks, and disturbed sites. It thrives in partial shade to full sun on well-drained, loamy to sandy soils with pH 5.5–7.0. Optimal growth occurs in soils rich in organic matter with moderate moisture retention.
 
-It tolerates a wide range of moisture conditions but performs best with consistent moderate moisture. Drought stress reduces fruit size and runner production, while waterlogged soils promote root rot pathogens. The species is adapted to nutrient-poor forest soils and does not require heavy fertilization.
+It tolerates a wide range of moisture conditions but performs best with consistent moderate moisture. Drought stress reduces fruit size and runner production, while waterlogged soils promote root rot pathogens. The species is adapted to nutrient-poor [[fire-effect-on-forest-soils-and-nutrient-loss]] does not require heavy fertilization.
 
 Elevation range extends from sea level to approximately 2,400 m. It is a common component of the herb layer in deciduous and mixed forests, often associated with species such as trilliums, violets, and ferns. The plant spreads vegetatively via stolons (runners), forming dense mats that can colonize disturbed areas rapidly.
 
@@ -65,7 +55,7 @@ Wild strawberries have been cultivated in Europe since at least the 14th century
 
 The modern cultivated strawberry (*Fragaria × ananassa*) was developed from hybridization of *F. virginiana* and *F. chiloensis* in the 18th century, largely replacing *F. vesca* in commercial production. However, *F. vesca* remains the preferred species for genetic research due to its small genome size (~240 Mb) and short generation time.
 
-However, *F. vesca* remains popular in niche markets and home gardens for its superior flavor. The everbearing varieties (*F. vesca* subsp. *semperflorens*) produce small fruit continuously from spring through autumn, making them valuable for edging, containers, and gourmet fruit production.
+However, *F. vesca* remains popular in niche markets and home gardens for its superior flavor. The everbearing varieties (*F. vesca* subsp. *semperflorens*) produce small fruit continuously from spring through autumn, making them valuable for edging, containers, and gourmet [[berry-fruit-production-cool-humid-climates]].
 
 Culinary applications include fresh eating, jams, preserves, liqueurs, and desserts. The fruit is richer in flavor compounds than the cultivated strawberry, with higher concentrations of methyl anthranilate and furaneol. Alpine strawberry varieties are especially prized by European pastry chefs for garnishing and flavoring.
 
@@ -85,6 +75,6 @@ Total phenolic content ranges from 200–350 mg gallic acid equivalents per 100 
 
 Olsson et al. (2004) demonstrated that wild strawberries have significantly higher total antioxidant activity than commercial *F. × ananassa* cultivars. Antioxidant capacity measured by FRAP assay showed values 2–3 times higher in wild accessions compared to cultivated varieties.
 
-The leaves also contain tannins and flavonoids with reported astringent and diuretic properties. Traditional herbal preparations use dried leaves in infusions for gastrointestinal health and as a mild mouthwash. The roots contain arbutin, a compound with urinary antiseptic activity also found in bearberry (*Arctostaphylos uva-ursi*).
+The leaves also contain tannins and flavonoids with reported astringent and diuretic properties. Traditional [[honey-based-herbal-preparations]] use dried leaves in infusions for gastrointestinal health and as a mild mouthwash. The roots contain arbutin, a compound with urinary antiseptic activity also found in bearberry (*Arctostaphylos uva-ursi*).
 
 ### Bioactive Compounds

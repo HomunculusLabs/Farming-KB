@@ -10,20 +10,18 @@ tags: [fungi, mycology, spore-dispersal, phallales, stinkhorn, phallus-impudicus
 
 ## Overview
 
-Stinkhorn fungi, belonging to the order Phallales, employ one of the most dramatic and
-olfactorily offensive spore dispersal strategies in the fungal kingdom. Rather than
+[[stinkhorn-fungi]], belonging to the order Phallales, employ one of the most dramatic and
+olfactorily offensive [[spore-dispersal]] strategies in the fungal kingdom. Rather than
 releasing spores passively into air currents like gilled mushrooms, stinkhorns produce
 a sticky, foul-smelling spore mass designed to attract insects — primarily flies and
-slugs — which then serve as unwilling vectors for [[bloomfield-fungal-reproduction-and-chemical-communication]]. This strategy
-represents a remarkable convergence of [[solomon-root-exudates-and-allelopathy]], animal behavior exploitation,
+slugs — which then serve as unwilling vectors for [[solomon-root-exudates-and-allelopathy]], animal behavior exploitation,
 and biomechanical engineering packed into a brief, spectacular display.
 
 ## The Common Stinkhorn: Phallus Impudicus
 
 The species *Phallus impudicus*, whose Latin name translates literally to "the shameless
 penis," is the archetypal stinkhorn and the most widely recognized member of the order.
-Its [[bloomfield-fungal-life-cycle-spiral-versus-circle]] begins inconspicuously enough as a semi-subterranean egg, typically two
-to five centimeters in diameter, nestled in [[dighton-fungal-decomposition-leaf-litter-dynamics]] or soil. Within this unassuming
+Its [[dighton-fungal-decomposition-leaf-litter-dynamics]] or soil. Within this unassuming
 package lies an extraordinary feat of biological preformation.
 
 ### Anatomy of the Egg

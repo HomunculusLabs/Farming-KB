@@ -9,7 +9,7 @@ tags: [technique, cultivation-process, spawning, bed-management]
 
 ## Description
 
-Mushroom bed spawning is the process of inoculating prepared compost beds with mushroom mycelium (spawn) to initiate colonization and subsequent fruiting. This is a critical step in mushroom cultivation that requires careful attention to temperature, moisture, and technique. Benjamin Minge Duggar provided detailed early 20th-century instructions for spawning that established principles still followed in modified form today.
+Mushroom bed spawning is the process of inoculating prepared compost beds with mushroom mycelium (spawn) to initiate colonization and subsequent fruiting. This is a critical step in [[mushroom-cultivation]] that requires careful attention to temperature, moisture, and technique. Benjamin Minge Duggar provided detailed early 20th-century instructions for spawning that established principles still followed in modified form today.
 
 ## Classification
 
@@ -23,7 +23,7 @@ Mushroom bed spawning is the process of inoculating prepared compost beds with m
 - Beds should be spawned only after the compost temperature falls to 65-75 degrees F (18-24 degrees C), with 65-70 degrees F being preferable when maintaining 55 degrees F during the growing period.
 - Spawning at temperatures of 85-90 degrees F (29-32 degrees C), as advised in some earlier guides, is fatal if maintained for extended periods.
 - Spawning at 50-65 degrees F is acceptable but results in slower growth; below 50 degrees F growth is very slow.
-- When using brick spawn, each brick should be broken into 9-12+ pieces (each about the size of a hen egg), with one piece per square foot of bed space.
+- When using [[brick-spawn]], each brick should be broken into 9-12+ pieces (each about the size of a hen egg), with one piece per square foot of bed space.
 - Flake spawn requires a portion about half the size of one fist per inoculation point.
 - Spawn pieces should be inserted deep enough to be covered with at least 1 inch of compost and pressed firmly.
 - An aerating passage left beside the inserted spawn piece promotes mycelial growth.
@@ -83,11 +83,8 @@ The success of spawning depends critically on the interplay between temperature 
 
 ## Related Entities
 
-- [[mushroom-compost]] — Substrate into which spawn is inserted
 - [[mushroom-casing]] — Layer applied after spawn run is established
-- [[mushroom-flush]] — Fruiting waves that follow successful spawning
 - [[flat-bed-system]] — Bed type affecting spawning layout
-- [[ridge-bed-system]] — Alternative bed type with different spawning considerations
 - [[agaricus-campestris]] — Primary species spawned using these techniques
 
 ## References

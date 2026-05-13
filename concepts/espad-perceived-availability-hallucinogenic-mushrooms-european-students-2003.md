@@ -24,34 +24,7 @@ The European School Survey Project on Alcohol and other Drugs (ESPAD) 2003 surve
 
 ## Perceived Availability Rates (ESPAD 2003)
 
-The ESPAD school surveys reported that rates of 15–16 year old students perceiving hallucinogenic mushrooms as "very" or "fairly easy" to obtain ranged from **4% to 28%** across surveyed countries. This wide range reflects significant national differences in market development, legal status, and [[weil-cultural-attitudes-toward-altered-states]] psychoactive mushrooms.
-
-### Low Availability Countries (Under 10%)
-
-Countries reporting less than 10% of students perceiving easy access:
-
-- **Cyprus** — Among the lowest availability rates, consistent with zero reported lifetime prevalence
-- **Finland** — Low availability despite relatively permissive Nordic attitudes toward some substances
-- **Greece** — Low availability in Southern Europe
-- **Hungary** — Despite high clubbing prevalence (Budapest data), general student population reported low access
-- **Latvia** — Low availability in the Baltic region
-- **Lithuania** — Low availability in the Baltic region
-- **Romania** — Low availability in Eastern Europe, consistent with very low prevalence
-- **Turkey** — Low availability, consistent with conservative drug policy environment
-
-### High Availability Countries (Over 20%)
-
-Countries reporting more than 20% of students perceiving easy access:
-
-- **Czech Republic** — High availability consistent with the highest lifetime prevalence rates (8%) and the only country where mushroom use equaled or exceeded that of cannabis in some age groups
-- **Ireland** — High availability, consistent with reports of wild mushroom consumption in regions like Kilkenny where mushrooms were described as "popular when in season"
-- **Italy** — High availability in Southern Europe
-- **Poland** — High availability, consistent with qualitative reports of young people (aged 15–19) actively hunting for wild *Psilocybe semilanceata* in southern Poland
-- **United Kingdom** — High availability, consistent with the extensive UK market of approximately 300 shops and market stalls selling mushrooms prior to the July 2005 ban
-
-### The Netherlands Paradox
-
-The Netherlands presented a notable paradox: despite the absence of legal sanctions controlling supply (mushrooms were legally sold in 120–150 smartshops nationwide), only **16%** of school students reported easy access [[legal-responses-to-hallucinogenic-mushrooms-in-the-european-union]]. This counterintuitive finding may reflect several factors:
+The ESPAD school surveys reported that rates of 15–16 year old students perceiving hallucinogenic mushrooms as "very" or "fairly easy" to obtain ranged from **4% to 28%** across surveyed countries. This wide range reflects significant national differences in market development, legal status, and [[legal-responses-to-hallucinogenic-mushrooms-in-the-european-union]]. This counterintuitive finding may reflect several factors:
 
 1. Smartshop location concentration in Amsterdam and tourist areas, with less penetration into residential neighborhoods where students live
 2. Smartshop age verification practices that may have restricted youth access
@@ -101,7 +74,7 @@ Norway reported a distinctive subculture described as a "music milieu characteri
 
 ### Wild Foraging Availability
 
-Three EU Member States reported active [[emcdda-wild-mushroom-foraging-misidentification-hazards]] ([[emcdda-european-magic-mushroom-hunting-wild-foraging-practices]]):
+Three EU Member States reported active [[emcdda-european-magic-mushroom-hunting-wild-foraging-practices]]):
 
 - **Poland**: Young persons aged 15–19 in southern Poland actively hunted for wild *P. semilanceata*, observed by local shepherds
 - **Ireland**: Kilkenny region — mushrooms described as "popular when in season," indicating seasonal availability tied to natural fruiting cycles
@@ -128,17 +101,6 @@ The EMCDDA report documented the emergence of extensive internet-based informati
 - **Erowid** — US-based, the most comprehensive psychoactive substance information vault
 - **Lycaeum** — Early online psychoactive plant database
 - **Mycotopia** — Mushroom cultivation community
-- **Shroomery** — Dedicated [[magic-mushroom-cultivation-history]] and identification resource
-- **MushroomJohn** — John W. Allen's mushroom photography and information site
-- **The Entheogen Review** — Periodical covering psychoactive plants and fungi
-
-### Country-Specific Resources
-
-Dedicated national websites were identified in numerous European countries: Copenhagen Mushroom Link (Denmark), Champis (France), Daath (Hungary), Delysid and Planetahongo (Spain), Enteogeneos (Portugal), Kouzelné houbičky (Czech Republic), Norshroom (Norway), Shroommap (UK), Svampinfo (Sweden), and Taikasieniforum (Finland). These sites typically displayed effects information, dosages, chemistry, classification, legal status, trip reports, and often photo galleries and cultivation advice. Many included community features such as discussion forums and events listings, creating a pan-European online knowledge network that transcended national borders and legal restrictions.
-
-## See Also
-
-- [[emcdda-clubbing-survey-prevalence-data-polydrug-use-patterns-mushrooms]]
-- [[emcdda-mixmag-survey-magic-mushroom-prevalence-trends-2000-2005]]
+- **Shroomery** — Dedicated [[emcdda-clubbing-survey-prevalence-data-polydrug-use-patterns-mushrooms]]
 - [[emcdda-hallucinogenic-mushroom-wild-foraging-and-hunting]]
 - [[emcdda-hallucinogenic-mushroom-internet-shop-market-snapshot-2006]]

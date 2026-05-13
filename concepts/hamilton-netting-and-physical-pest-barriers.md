@@ -22,7 +22,7 @@ years.
 Birds are a tremendous asset in the garden as pest controllers, but they
 also cause significant damage. They attack the fattening buds of fruit,
 especially blackcurrants, and target brassicas during winter when little
-else is available. Crocus buds, [[coleman-overwintered-onions-and-early-spring-crops]] bulbs, and new [[disposable-tray-casing-method-grass-seed-substrate]] are
+else is available. Crocus buds, [[disposable-tray-casing-method-grass-seed-substrate]] are
 all highly vulnerable.
 
 ### Fruit Cages
@@ -39,20 +39,7 @@ If a full fruit cage is not practical, protect individual rows of
 vulnerable crops. Place a row of small wire hoops along the beds of low
 plants and drape nets over the top. For taller crops like peas, support
 the net on stakes so it sits higher than the plants, preventing damage
-when removing the net. For strawberries and [[holzer-soft-fruit-bushes-and-berries]], simply drape
-netting over the row and anchor the edges with bricks.
-
-### Black Cotton Thread
-
-An effective trick for protecting individual plants like crocuses is to
-push small sticks into the ground around the buds and loop black cotton
-thread over them. Birds cannot see the thread and panic when they touch
-it, flying off without taking the bud. This method is invisible and
-unobtrusive in the ornamental garden.
-
-### Floating Cloches
-
-New [[grass-seed-as-mushroom-substrate]] is extremely vulnerable to bird attack. Cover seeded areas
+when removing the net. For strawberries and [[grass-seed-as-mushroom-substrate]] is extremely vulnerable to bird attack. Cover seeded areas
 with perforated plastic sold as "floating cloches." This not only keeps
 birds away but encourages germination by warming the soil, providing a
 dual benefit. Scarecrows provide limited, short-term effectiveness, as
@@ -118,8 +105,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[hamilton-beneficial-insects-and-biological-pest-control]]
 - [[hamilton-pest-and-disease-control-organic]]
-- [[hamilton-digging-and-cultivation]]
 - [[hamilton-useful-weeds-and-weed-identification]]
 - [[hamilton-pruning-and-training-fruit-trees]]

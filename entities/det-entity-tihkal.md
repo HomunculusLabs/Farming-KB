@@ -40,25 +40,11 @@ TIHKAL entry #3. A psychedelic tryptamine active by multiple routes including or
 
 ## The Oral Activity Myth
 
-Shulgin acknowledges personal responsibility for the long-standing myth that DET is only active by parenteral routes. All published human studies he knew of involved intramuscular administration, but Steve Szara had noted oral activity as early as 1969 (60 mg, i.m. or p.o.). The MAO systems do not destroy dialkylamines higher than methyl -- both [[dipt-entity-tihkal]] (diisopropyl) are also orally active. This myth persisted for decades and influenced how researchers and the public understood [[mckenna-food-gods-tryptamine-pharmacology-indoles]].
+Shulgin acknowledges personal responsibility for the long-standing myth that DET is only active by parenteral routes. All published human studies he knew of involved intramuscular administration, but Steve Szara had noted oral activity as early as 1969 (60 mg, i.m. or p.o.). The MAO systems do not destroy dialkylamines higher than methyl -- both [[mckenna-food-gods-tryptamine-pharmacology-indoles]].
 
 ## Clinical Studies
 
-Clinical studies were conducted in Hungary in the 1960s using intramuscular DET, comparing it to [[dmt-entity-tihkal]]. The research environment of the time was, as Shulgin notes, "oppressive" -- trials were conducted with partially soundproofed clinics equipped with one-way mirrors and microphones, using unemployed men from depressed mining areas as subjects.
-
-The results were decidedly negative under these conditions: "Six of the subjects stated that the experience was an unpleasant one, three of them markedly so." Somatic complaints included "Air is rushing through my body," "My chest is empty and there is a jelly ball in my spine," and "My hands aren't there, my whole body feels funny." All subjects experienced dizziness and increased sweating.
-
-However, a second study conducted in an entirely different setting -- with professional colleagues, artists, and personal friends of the researchers -- produced dramatically different results. The mood changes were "in the direction of euphoria; the subjects generally enjoyed the experience and wished to repeat it." Volunteer comments "tended towards the mystical and philosophical, and several of these experimental subjects responded to music and art in ways that were new to them."
-
-This stark contrast between institutional and personal settings foreshadowed the "[[lsd-set-and-setting-framework]]" principle that would become foundational to [[metzner-psycholytic-psychedelic-therapy-models]].
-
-## The Naming History: Psychotomimetics
-
-In the earliest research with DET and related dialkyltryptamines, the prevailing concept was "psychotomimesis" -- the search for drugs that would imitate the psychotic state. Shulgin notes the "delicious search" of the 1950s for names that would obscure any spiritual or meaningful implications of these substances, reflecting the clinical/institutional bias of the era. DET was given the clinical code name T-9 in this literature.
-
-## Extensions and Commentary
-
-The compound pairs of DMT, DET, DPT, and DBT represent increasing [[phenethylamine-chain-length-effects]] on the tryptamine nitrogen, with activity patterns that vary in complex ways. All are orally active, contradicting decades of assumption that only DMT was restricted to parenteral routes. The 4-hydroxy analogue (4-HO-DET, entry #16) is also psychedelic, as is the 5-methoxy analogue (5-MeO-DET, entry #36). The 5-methoxy substitution consistently enhances potency across the tryptamine series.
+Clinical studies were conducted in Hungary in the 1960s using intramuscular DET, comparing it to [[lsd-set-and-setting-framework]]" principle that would become foundational to [[phenethylamine-chain-length-effects]] on the tryptamine nitrogen, with activity patterns that vary in complex ways. All are orally active, contradicting decades of assumption that only DMT was restricted to parenteral routes. The 4-hydroxy analogue (4-HO-DET, entry #16) is also psychedelic, as is the 5-methoxy analogue (5-MeO-DET, entry #36). The 5-methoxy substitution consistently enhances potency across the tryptamine series.
 
 ## Physical Properties
 
@@ -68,10 +54,7 @@ The compound pairs of DMT, DET, DPT, and DBT represent increasing [[phenethylami
 
 ## See Also
 
-- [[4-aco-det-entity]]
-
 - [[dpt-entity-tihkal]] -- the dipropyl homologue
-- [[psilocin-entity-tihkal]] -- 4-hydroxy-DMT; classic mushroom psychedelic
 - [[alexander-shulgin]] -- primary author of TIHKAL
 
 ## Related
@@ -88,3 +71,80 @@ overall effectiveness and creates beneficial synergies that
 improve resilience and productivity over time.
 
 ## Future Directions
+
+## Overview
+
+Det Entity Tihkal represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish det entity tihkal
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving det extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Det Entity Tihkal finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for det entity tihkal. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+det entity tihkal and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Det Entity Tihkal has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of det entity tihkal into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.

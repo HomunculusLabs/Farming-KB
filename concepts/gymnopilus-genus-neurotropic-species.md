@@ -17,27 +17,13 @@ type: concept
 
 # Gymnopilus Genus Neurotropic Species
 
-**Gymnopilus** (family Cortinariaceae) is a genus of [[spalting-pigments-wood-inhabiting-fungi-chemistry]], commonly known as "big laughing gym" or "spectacular rustgill." Among its approximately 200 described species, **14 contain psilocybin and related indole alkaloids**, making it the second most species rich genus [[distribution-of-neurotropic-fungi]] after Psilocybe. The genus is easily recognized in the field by its rusty orange spore print, growth on wood, and the large, often spectacular fruiting bodies of certain species.
+**Gymnopilus** (family Cortinariaceae) is a genus of [[distribution-of-neurotropic-fungi]] after Psilocybe. The genus is easily recognized in the field by its rusty orange spore print, growth on wood, and the large, often spectacular fruiting bodies of certain species.
 
 ## Taxonomic Background
 
-Gymnopilus was treated systematically by Hesler (1969) for [[psilocybin-north-america-pacific-northwest]] and by Singer (1986) in his worldwide Agaricales monograph. For Mexico, Guzmán Dávalos (1993) and Guzmán Dávalos and Guzmán (1995) published detailed treatments. The genus is closely related to Cortinarius and Galerina within the Cortinariaceae.
-
-## Neurotropic Species
-
-Only a minority of Gymnopilus species are neurotropic. The confirmed and suspected neurotropic species include:
-
-### Confirmed Neurotropic Species (containing psilocybin/psilocin/baeocystin)
-
-| Species | First Confirmed By | Notable Distribution |
-|---------|-------------------|---------------------|
-| **G. spectabilis** (syn. G. junonius) | Hongo, 1959; Hatfield et al., 1978 | Cosmopolitan, one of the most widespread |
-| **G. aeruginosus** | Stuntz & Isaacs, 1962 | Pacific Northwest (USA), Japan |
-| **G. purpuratus** | Singer, 1969; Gartz, 1989c | [[guzman-psilocybin-mushrooms-south-america]] (Chile, Argentina), introduced in Europe |
+Gymnopilus was treated systematically by Hesler (1969) for [[guzman-psilocybin-mushrooms-south-america]] (Chile, Argentina), introduced in Europe |
 | **G. luteofolius** | Hesler, 1969 | Pacific Northwest (USA) |
-| **G. liquiritiae** | Hongo, 1959; Samorini, 1989 | Europe, Japan, [[guzman-psilocybin-mushrooms-north-america]] |
-| **G. sapineus** | Hesler, 1969 | North America, Japan, India |
-| **G. validipes** | Hatfield, Valdes & Smith, 1977 | [[polypore-fungi-eastern-north-america]] America |
+| **G. liquiritiae** | Hongo, 1959; Samorini, 1989 | Europe, Japan, [[polypore-fungi-eastern-north-america]] America |
 | **G. viridans** | Ammirati et al., 1985 | Pacific Northwest (USA) |
 | **G. brandlei** | Hesler, 1969 | North America |
 | **G. lateritius** | Guzmán Dávalos & Guzmán, 1995 | Mexico |
@@ -55,39 +41,7 @@ The indole alkaloids detected in Gymnopilus species include:
 
 - **Psilocybin**: Present in G. spectabilis, G. purpuratus, G. aeruginosus, G. validipes, G. viridans, G. luteofolius
 - **Psilocin**: Detected in most neurotropic species, often in lower quantities than psilocybin
-- **Baeocystin**: Found in G. purpuratus along with [[hplc-analysis-of-psilocybin-and-psilocin]] (Gartz & Müller, 1989)
-- **Aeruginascin**: Detected in G. purpuratus (Gartz, 1989c)
-
-## Geographic Distribution of Neurotropic Gymnopilus
-
-### North America
-
-**Pacific Northwest (USA)** has the highest diversity, with at least 8 neurotropic species reported from Washington state alone:
-- G. aeruginosus, G. brandlei, G. luteofolius, G. liquiritiae, G. sapineus, G. spectabilis, G. viridans
-
-**Eastern North America**:
-- G. spectabilis (widespread in the Appalachians and eastern seaboard)
-- G. liquiritiae, G. sapineus (reported from Vermont, Wyoming)
-- G. validipes (eastern US)
-- G. subpurpuratus (reported from some southeastern states)
-
-### Mexico
-
-Mexico has several species:
-- G. lateritius, G. liquiritiae, G. sapineus, G. spectabilis, G. subpurpuratus
-
-### South America
-
-Chile and Argentina are notable for:
-- G. purpuratus: Common in southern Chile and Argentina; considered one of the most potent Gymnopilus species
-- G. spectabilis: Also found in both countries
-- G. sapineus: Reported from Argentina
-
-### Europe
-
-Multiple species have been reported across Europe:
-- G. spectabilis: Germany, Great Britain, Norway, Spain, Switzerland, Greece
-- G. purpuratus: Originally [[chiric-caspi-brunfelsia-south-american-hallucinogen]], introduced in Europe (Germany, Great Britain, Netherlands)
+- **Baeocystin**: Found in G. purpuratus along with [[chiric-caspi-brunfelsia-south-american-hallucinogen]], introduced in Europe (Germany, Great Britain, Netherlands)
 
 ## Practical Applications
 
@@ -118,8 +72,78 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[psilocybin]]
 - [[psilocin]]
-- [[det]]
 - [[baeocystin]]
 - [[spore-print]]
+
+## Overview
+
+Gymnopilus Genus Neurotropic Species represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish gymnopilus genus neurotropic species
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving gymnopilus extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Gymnopilus Genus Neurotropic Species finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for gymnopilus genus neurotropic species. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+gymnopilus genus neurotropic species and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Gymnopilus Genus Neurotropic Species has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of gymnopilus genus neurotropic species into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions

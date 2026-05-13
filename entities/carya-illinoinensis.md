@@ -9,34 +9,8 @@ tags:
   - plants
   - juglandaceae
   - nut-tree
-  - [[permaculture]]
   - [[agroforestry]]
-  - [[food-forest]]
-  - native-american
-  - north-american
-  - timber
-  - polyculture
-  - nitrogen-fixing-associates
-date: 2026-04-28
-updated: 2026-04-28
-sources:
-  - Grauke, L.J. (2023). "Carya illinoinensis." USDA ARS National Clonal
-    Germplasm Repository.
-  - Wood, B.W. et al. (2009). "Pecan: Overview." Horticultural Reviews,
-    38, 245–311. Wiley-Blackwell.
-  - Sparks, D. (2005). "Pecan Cultivar Recommendations for the Southeastern
-    US." University of Georgia Extension.
-  - Mabberley, D.J. (2017). "Mabberley's Plant-Book." 4th ed. Cambridge
-    University Press.
-  - Powell, M. et al. (2018). "Agroforestry potential of pecan in the
-    southern US." Agroforestry Systems, 92(5), 1361–1374.
-created: 2026-05-07
----
-
-## Overview
-
-**Carya illinoinensis** (pecan) is a large deciduous tree in the family
-**Juglandaceae**, native to the southern [[dmt-containing-plants-united-states-halpern]] and northern Mexico.
+  - [[dmt-containing-plants-united-states-halpern]] and northern Mexico.
 It is the most commercially important hickory species, cultivated
 primarily for its edible nuts, which are rich in monounsaturated fats,
 antioxidants, and minerals.
@@ -57,7 +31,7 @@ described. The common name "pecan" derives from the Algonquin word
 *paccan*, meaning a nut requiring a stone to crack.
 
 The genus *Carya* contains approximately 17–19 species of hickories
-native to [[psilocybin-north-america-pacific-northwest]] and [[neurotropic-fungi-japan-east-asia-species-cultural-context]]. *C. illinoinensis* is the only
+native to [[neurotropic-fungi-japan-east-asia-species-cultural-context]]. *C. illinoinensis* is the only
 commercially cultivated species on a large scale.
 
 ## Morphology
@@ -91,7 +65,86 @@ Natural habitat is bottomland hardwood forests, river floodplains, and
 
 ## See Also
 
-- [[carya-cathayensis]]
 - [[carya-cordiformis]]
-- [[carya-glabra]]
 - [[carya-laciniosa]]
+
+## Overview
+
+Carya Illinoinensis represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish carya illinoinensis
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving carya extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Carya Illinoinensis finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for carya illinoinensis. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+carya illinoinensis and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Carya Illinoinensis has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of carya illinoinensis into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[carya-cathayensis]]

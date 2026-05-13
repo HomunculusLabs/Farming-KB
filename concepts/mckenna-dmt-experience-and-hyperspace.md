@@ -16,7 +16,7 @@ type: concept
 
 ## The Tryptamine Continuum
 
-[[terence-mckenna]] proposed that [[mckenna-tryptamine-hallucinogens-and-consciousness]] exist on a
+[[mckenna-tryptamine-hallucinogens-and-consciousness]] exist on a
 continuum of experience, with psilocybin at one end and DMT at the
 other. Psilocybin provides a gentler, more extended journey through
 altered states -- a six-hour immersion in visionary landscapes. DMT,
@@ -26,24 +26,12 @@ alien dimension.
 The continuum suggests these substances are not producing random
 hallucinations but rather tuning consciousness to specific frequency
 bands of reality ordinarily inaccessible. This connects to the broader
-[[tryptamine-hypercontinuum]] -- all tryptamine experiences exist on a
-single spectrum of intensity, with DMT at the extreme end where
-ordinary reality completely dissolves.
-
-## Onset and Phenomenology
-
-When DMT is smoked, onset is remarkably rapid -- approximately 15 to
-45 seconds. There is no gradual transition. The world simply dissolves
-and is replaced by an entirely different order of existence. McKenna
-described this as a "black hole" effect -- total [[mckenna-dmt-black-hole-effect-epistemic-isolation]]
+[[mckenna-dmt-black-hole-effect-epistemic-isolation]]
 where no memory of the previous world remains.
 
 The experience is characterized by:
 - **Immediate breakthrough**: DMT's onset is virtually instantaneous
-- **[[dmt-phenomenology-and-hyperspace-geometry]]**: The visual field is replaced by impossibly
-  complex, self-transforming geometric forms
-- **Entity contact**: Many users report encounters with
-  [[tryptamine-hyperdimensional-entities]] possessing apparent intelligence
+- **[[tryptamine-hyperdimensional-entities]] possessing apparent intelligence
 - **Ineffability**: The experience resists language and is absent
   from art history
 
@@ -52,10 +40,7 @@ The experience is characterized by:
 McKenna's concept of hyperspace refers to the apparently non-physical
 dimension accessed through DMT. In McKenna's view, this is a genuine
 ontological domain -- a place that exists independently of the
-experiencer. The [[dmt-hyperspace-experience]] consistently produces
-reports of vast interior spaces that feel more real than ordinary
-reality, communication with entities through modalities beyond language,
-a sense of returning to a forgotten home ("[[mckenna-paradise-regained-dmt-hyperspace]]"), and
+experiencer. The [[mckenna-paradise-regained-dmt-hyperspace]]"), and
 the Logos -- a transcendental organizing principle underlying reality.
 
 ## The Logos and Translinguistic Matter
@@ -88,3 +73,78 @@ DMT is naturally present in the human body, detected in blood, urine,
 and cerebrospinal fluid. Research by Rick Strassman proposed that DMT
 may be synthesized in the pineal gland and released during
 extraordinary states including near-death experiences, mystical states,
+
+## Overview
+
+Mckenna Dmt Experience And Hyperspace represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish mckenna dmt experience and hyperspace
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving mckenna extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Mckenna Dmt Experience And Hyperspace finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for mckenna dmt experience and hyperspace. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+mckenna dmt experience and hyperspace and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Mckenna Dmt Experience And Hyperspace has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of mckenna dmt experience and hyperspace into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and

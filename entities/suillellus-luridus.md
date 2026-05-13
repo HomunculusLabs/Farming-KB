@@ -7,13 +7,7 @@ tags:
   - bolete
   - suillellus
   - boletaceae
-  - [[mycology]]
-  - edible-cooked
-  - toxic-raw
-  - ectomycorrhizal
-  - europe
-  - north-america
-  - [[mushroom-identification]]
+  - mushroom-identification
   - foraging
   - temperate
   - blueing-reaction
@@ -31,7 +25,7 @@ sources:
 
 Suillellus luridus (formerly Boletus luridus), commonly known as the lurid
 bolete, is a basidiomycete fungus in the family Boletaceae. It is a widely
-distributed [[ectomycorrhizal-mushroom-fruiting-ecology]] found across Europe, [[psilocybin-north-america-pacific-northwest]], and
+distributed [[psilocybin-north-america-pacific-northwest]], and
 parts of Asia. The species is notable for its striking red-to-orange pore
 surface and reticulate stipe, but requires careful preparation — it is mildly
 toxic when raw and can cause gastrointestinal distress if consumed undercooked
@@ -67,15 +61,7 @@ is a valued culinary mushroom.
   a fine red reticulum (net pattern) over a yellow ground color; solid, firm.
 - **Flesh:** Pale yellow, turning vivid blue when cut or bruised; red just
   beneath the pileipellis (cap skin).
-- **[[comparison-spore-print-collection-vs-spore-syringe-production]]:** Olive-brown to olive-green.
-- **Spores:** 11–15 × 5–6 µm, fusiform to ellipsoid, smooth.
-- **Odor:** Mild, pleasant, not distinctive.
-- **Taste:** Mild, slightly acidic.
-
-## Distribution and Habitat
-
-- Widely distributed across temperate Europe from Scandinavia to the
-  Mediterranean; also recorded in [[polypore-fungi-eastern-north-america]] America (rare) and parts of
+- **[[polypore-fungi-eastern-north-america]] America (rare) and parts of
   Asia (China, Korea, Japan).
 - Ectomycorrhizal, forming associations primarily with broadleaf trees: oak
   (*Quercus*), beech (*Fagus*), hornbeam (*Carpinus*), birch (*Betula*), and
@@ -88,3 +74,51 @@ is a valued culinary mushroom.
   forests.
 
 ## Edibility and Toxicity
+
+## Overview
+
+Suillellus Luridus represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish suillellus luridus
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving suillellus extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Suillellus Luridus finds practical application in multiple design contexts.
+[[permaculture-principles]] guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for suillellus luridus. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## See Also
+
+- [[polypore-fungi-eastern-north-america]]
+- [[psilocybin-north-america-pacific-northwest]]
+- [[phosphorus-cycling-mycorrhizal-solubilization-organic-p-turnover]]

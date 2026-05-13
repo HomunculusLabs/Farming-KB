@@ -45,13 +45,7 @@ Reproduction involves alternation between a macroscopic leafy gametophyte (the v
 
 The species occupies the mid to upper intertidal zone, typically 0–1 meter above mean low water. It is one of the most desiccation-tolerant intertidal algae, surviving up to 90% water loss during low tide exposure.
 
-Preferred substrates include smooth rocks, boulders, and artificial structures in sheltered to semi-exposed locations. It often co-occurs with other intertidal algae including *[[palmaria-palmata]]* and *Fucus* species.
-
-Seasonal growth patterns vary geographically. In northern populations, the thallus is most abundant in winter and spring, dying back during summer. Southern populations may persist year-round with reduced biomass in warmer months.
-
-## Nutrition and Bioactive Compounds
-
-*Porphyra* species are among the most nutritious seaweeds, and *P. umbilicalis* is no exception. Protein content ranges from 25–45% of dry weight, the highest among commonly consumed macroalgae, with a favorable essential [[cho-fish-amino-acid-preparation]] profile.
+Preferred substrates include smooth rocks, boulders, and artificial structures in sheltered to semi-exposed locations. It often co-occurs with other intertidal algae including *[[cho-fish-amino-acid-preparation]] profile.
 
 The species is rich in B vitamins, particularly B12, B6, and folate. It also contains significant amounts of vitamin A (as beta-carotene), vitamin C, and vitamin E. These concentrations make it a valuable dietary supplement.
 
@@ -61,7 +55,7 @@ Phycoerythrin, the red pigment-protein complex, is a major bioactive compound wi
 
 Sulfated polysaccharides called porphyrans exhibit immunomodulatory, antiviral, and antitumor activities in preclinical studies. These compounds are structurally distinct from the fucoidans and carrageenans found in brown and red algae.
 
-The lipid fraction is rich in polyunsaturated [[stable-carbon-isotope-signature-fatty-acids-mycorrhizal-carbon-tracking]], particularly eicosapentaenoic acid (EPA), comprising 30–50% of total [[carbon-isotope-labelling-mycorrhizal-fatty-acids]]. This makes *P. umbilicalis* a significant plant-based source of omega-3 fatty acids.
+The lipid fraction is rich in polyunsaturated [[carbon-isotope-labelling-mycorrhizal-fatty-acids]]. This makes *P. umbilicalis* a significant plant-based source of omega-3 fatty acids.
 
 ## Aquaculture and Harvesting
 
@@ -71,20 +65,86 @@ Commercial cultivation has been developed primarily for Asian *Porphyra* and *Py
 
 The conchocelis phase can be cultivated on mollusk shells in nursery tanks, then induced to release conchospores for seeding nets. This technique, pioneered in Japan for nori cultivation, has been adapted for Atlantic species.
 
-Aquaculture interest in *P. umbilicalis* is growing due to its nutritional value and the expanding market for [[functional-foods-medicinal-mushrooms]]. Land-based tank systems using LED lighting [[hamilton-greenhouse-heating-and-temperature-control]] have shown promising results.
+Aquaculture interest in *P. umbilicalis* is growing due to its nutritional value and the expanding market for [[hamilton-greenhouse-heating-and-temperature-control]] have shown promising results.
 
 ## Culinary Use
 
-Laverbread (*bara lawr*) is the most famous [[duggar-mushroom-culinary-preparation-and-cooking]] of *P. umbilicalis*. In this Welsh tradition, harvested laver is boiled for several hours, then minced into a dark green-black paste. It is typically rolled in oatmeal and fried, often served with bacon and cockles at breakfast.
-
-In Ireland, laver is consumed similarly and is sometimes called *slake*. It is eaten on its own, mixed with mashed potatoes, or served as a side dish with seafood.
-
-Dried laver sheets are used as wrappers in some Western fusion cuisines, analogous to Japanese nori sheets. They can be crumbled as a seasoning or rehydrated for salads and soups.
-
-The flavor is mild and earthy with pronounced umami notes, reflecting its high free [[fish-amino-acid]] content. When properly prepared, the texture is soft and slightly gelatinous.
+Laverbread (*bara lawr*) is the most famous [[fish-amino-acid]] content. When properly prepared, the texture is soft and slightly gelatinous.
 
 Modern commercial products include dried laver flakes, laver seasoning blends, and frozen prepared laverbread. The market is expanding beyond traditional Welsh and Irish consumers as interest in seaweed-based foods grows.
 
 ## Ecological Significance
 
 *Porphyra umbilicalis* plays an important role in intertidal food webs. The thin thallus is grazed by numerous herbivorous invertebrates including limpets, periwinkles, and amphipods. It is also consumed by some intertidal fish species.
+
+## Overview
+
+Porphyra Umbilicalis represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish porphyra umbilicalis
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving porphyra extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Porphyra Umbilicalis finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for porphyra umbilicalis. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+porphyra umbilicalis and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Porphyra Umbilicalis has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of porphyra umbilicalis into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions

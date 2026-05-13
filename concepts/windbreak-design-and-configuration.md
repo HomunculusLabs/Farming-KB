@@ -1,12 +1,8 @@
 ---
-title: Windbreak Design and Configuration
-source: [[bill-mollison-permaculture-a-designers-manual-broadacre-and-rural-design]]
-type: concept
----
+title: [[windbreak-design-and-configurations]] Configuration
+source: [[comparison-windbreak-design-vs-species-selection|Windbreak]] Design and Configuration
 
-# [[comparison-windbreak-design-vs-species-selection|Windbreak]] Design and Configuration
-
-Windbreaks are a fundamental element in [[permaculture-design]], providing [[bill-mollison-permaculture-a-designers-manual-windbreak-design-and-shelter|shelter]] for crops,
+Windbreaks are a fundamental element in [[bill-mollison-permaculture-a-designers-manual-windbreak-design-and-shelter|shelter]] for crops,
 livestock, and soil by modifying wind flow across a site. Their effectiveness depends
 primarily on two critical factors: **height** and **density (permeability)**. Properly
 designed windbreaks can dramatically increase crop yields, conserve soil and water, and
@@ -33,7 +29,7 @@ create microclimates that extend the productive capacity of a landscape.
 
 ## Frost Pockets
 
-Windbreak configurations can inadvertently create **frost pockets** in sheltered hollows.
+[[mollison-designers-windbreak-configurations-for-crops-and-orchards]] can inadvertently create **frost pockets** in sheltered hollows.
 Cold air drains downhill under gravity, collecting in low-lying areas behind windbelts
 where it pools and causes frost damage. Designers must account for cold air drainage
 patterns and avoid placing frost-sensitive crops in these depressions. Where unavoidable,
@@ -50,7 +46,7 @@ A tall, dense windbreak with a bare trunk below the canopy, allowing air flow ne
 level while blocking wind at higher elevations. Suitable for general wind protection
 without impeding low-level drainage or access.
 
-- **Example species:** Cupressus, Pinus, Casuarina
+- **Example species:** Cupressus, Pinus, [[casuarina]]
 
 ### Configuration B — Alternate Zig-Zag Permeable Planting
 
@@ -84,32 +80,13 @@ litter to soil organic matter.
 ### Configuration E2 — Complete Crown Cover
 
 Interplanted fruit trees combined with leguminous shelter trees forming a continuous
-crown cover. The leguminous component provides nitrogen fixation and wind shelter while
+crown cover. The leguminous component provides [[legume-nitrogen-fixation-and-green-manure]] wind shelter while
 fruit trees produce a food yield, creating a multi-functional protective and productive
 planting.
 
 ## Windbreaks Integrated with Crops
 
-Windbreaks are integral to productive agricultural [[holzer-raised-bed-windbreak-systems|systems]]. Many tree crops perform
-significantly better within windbreak-protected zones:
-
-- **Citrus** — reduced fruit drop and improved quality
-- **Avocado** — reduced branch breakage and flower loss
-- **Macadamia** — protection from wind-induced nut drop
-- **Chestnuts** — improved pollination and nut set
-
-Reduced wind stress limits physical damage, desiccation, and flower loss, leading to
-higher and more reliable yields.
-
-## Soil Conservation Benefits
-
-Windbreaks play a major role in **soil conservation** by reducing wind erosion:
-
-- Within **10 times the windbreak height**, blown sand is reduced to **1/1000th** of
-  its unprotected level.
-- This makes windbreaks essential on sandy soils, coastal dunes, arid rangelands, and
-  any site prone to wind-driven erosion.
-- By stabilizing the soil surface, windbreaks preserve topsoil and the [[soil-biota]]
+Windbreaks are integral to productive agricultural [[soil-biota]]
   that depend on it.
 
 ## Water Conservation Benefits
@@ -134,13 +111,13 @@ The shelter effect of windbreaks produces substantial, well-documented yield imp
 | Wheat | 30% |
 | Lettuce | 7–18% |
 
-These figures underscore the economic justification for windbreak establishment. The
-returns in increased production frequently outweigh the costs of planting and
+These figures underscore the economic justification for [[windbreak-establishment-and-benefits]]. The
+returns in [[fukuoka-textdoc-increased-production-not-increased-yields]] frequently outweigh the costs of planting and
 maintaining the windbreak itself.
 
 ## Spiral Windbreak Pattern for Garden Vegetables
 
-For **garden-scale** vegetable production, a **spiral windbreak pattern** provides
+For **garden-scale** [[coleman-french-historical-winter-vegetable-production]], a **spiral windbreak pattern** provides
 shelter from multiple wind directions while creating a range of microclimates within a
 compact area. The spiral form allows diverse vegetable species with differing wind and
 exposure tolerances to be grown in close proximity, each finding its preferred position

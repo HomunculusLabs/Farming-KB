@@ -8,7 +8,7 @@ created: 2026-05-11
 
 # Solomon's Variety Trial Methodology
 
-Steve Solomon developed his variety trial methodology during his years running
+[[steve-solomon]] developed his variety trial methodology during his years running
 Territorial Seed Company (1979-1986). He argues that honest seed businesses
 cannot simply sell whatever varieties "Someone Else" recommends — they must
 test numerous varieties themselves and decide what to offer based on actual
@@ -137,8 +137,6 @@ microclimate, soil, and growing practices.
 
 ## Related Concepts
 
-- [[seed-quality-and-selection-solomon]]
 - [[solomon-seed-saving-fundamentals]]
-- [[variety-trials-seed-company-quality-solomon]]
 - [[row-gardening-vs-intensive-methods-solomon]]
 - [[solomon-wide-spacing-versus-intensive-gardening-debate]]

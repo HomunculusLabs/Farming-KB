@@ -2,22 +2,7 @@
 title: "Cynara scolymus"
 created: 2026-04-28
 type: species
-tags: [species, plant, herbal, [[permaculture]], medicinal, edible, hepatoprotective]
-date: 2026-04-28
-updated: 2026-04-28
-sources:
-  - "General botanical and pharmacological knowledge"
----
-# Cynara scolymus
-## Globe Artichoke
-Thistle-like perennial plant in the Asteraceae family, native to the
-Mediterranean basin and widely cultivated for its edible immature flower
-heads (globes). Globe artichoke is among the oldest cultivated vegetables,
-prized since antiquity for both culinary and medicinal applications. Beyond
-its value as a gourmet vegetable, artichoke leaf extract is one of the
-best-documented herbal hepatoprotective and choleretic agents, with
-clinically validated benefits for lipid metabolism, digestive function,
-and liver health. The plant is also an excellent [[silybum-marianum]] (milk thistle), another Asteraceae member renowned for hepatoprotective properties.
+tags: [species, plant, herbal, [[silybum-marianum]] (milk thistle), another Asteraceae member renowned for hepatoprotective properties.
 ## Taxonomy and Naming
 - **Kingdom:** Plantae
 - **Order:** Asterales
@@ -26,37 +11,7 @@ and liver health. The plant is also an excellent [[silybum-marianum]] (milk this
 - **Species:** C. scolymus L.
 - **Authority:** Carl Linnaeus, 1753
 - **Common names:** Globe artichoke, French artichoke, green artichoke
-- **Synonyms:** [[cynara-cardunculus]] var. scolymus (L.) Fiori;
-  Cynara cardunculus subsp. scolymus (L.) Hayek
-- **Note:** Taxonomically, globe artichoke is often treated as a
-  cultivar group of C. cardunculus (cardoon), with which it is fully
-  interfertile. The two differ primarily in the spinelessness and
-  fleshiness of the flower bracts.
-## Description
-### Growth Habit and Morphology
-- **Habit:** Robust herbaceous perennial, 0.8–1.8 m tall; dies back
-  to crown in winter in cooler climates
-- **Lifespan:** 5–10 years as a productive perennial; declining yield
-  after year 3–4 in commercial settings
-- **Stem:** Thick, ribbed, 1–2 m tall, bearing large pinnatifid leaves
-- **Leaves:** Large, silvery-gray-green, deeply lobed, 50–100 cm long;
-  upper surface glabrous, lower surface covered in white tomentose
-  hairs giving the characteristic silvery appearance
-- **Capitulum:** Ovoid to globose, 8–15 cm diameter; composed of
-  numerous overlapping bracts (phyllaries) — the edible portion is
-  the fleshy base of the inner bracts and the receptacle (heart)
-- **Roots:** Deep taproot system with extensive lateral roots; capable
-  of penetrating 1.5–2 m depth
-### Flowering
-Purple-blue florets emerge from mature capitula if left unharvested.
-Flowers are highly attractive to bees and butterflies. Post-harvest,
-the plant produces side shoots (offsets) from the base that become
-the following year's crop.
-## Distribution and Habitat
-- **Native range:** Mediterranean region, likely derived from wild
-  C. cardunculus in southern Italy, Sicily, and North Africa
-- **Cultivation:** Mediterranean Europe (Italy, Spain, France leading
-  producers), California, [[guzman-psilocybin-mushrooms-south-america]] (Peru, Argentina), North Africa,
+- **Synonyms:** [[guzman-psilocybin-mushrooms-south-america]] (Peru, Argentina), North Africa,
   and parts of Asia
 - **Habitat preference:** Full sun, deep fertile well-drained soils;
   tolerant of slightly alkaline pH (6.5–8.0); sensitive to waterlogging;
@@ -88,3 +43,88 @@ the following year's crop.
 - **Dietary fiber:** High in the edible globe (5–10 g/100 g fresh weight)
 ## Pharmacology and Therapeutic Applications
 ### Hepatoprotective Effects
+
+## Overview
+
+Cynara Scolymus Entity represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish cynara scolymus entity
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving cynara extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Cynara Scolymus Entity finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for cynara scolymus entity. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+cynara scolymus entity and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Cynara Scolymus Entity has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of cynara scolymus entity into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[2c-g-3-entity]]
+- [[4-5-mdo-dmt-entity-tihkal]]
+- [[5-6-mdo-dipt-entity-tihkal]]
+- [[cynara-cardunculus]]
+- [[methyl-k-entity-pihkal]]

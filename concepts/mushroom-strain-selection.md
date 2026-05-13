@@ -4,18 +4,17 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [mushrooms, fungi, cultivation, species, potency, species-profiles, psychopharmacology, genetics]
-sources:
-  - "raw/papers/terence-mckenna-food-of-the-gods.md"
+sources: []
 ---
 
 ## Overview
 
-"Strain" in the context of [[gartz-kh2po4-phosphate-substrate-design-psilocybe-cubensis-cultivation]] refers to a selectively propagated variety with distinct visual and growth characteristics. Unlike botanical strains, mushroom strains are not genetically distinct subspecies — all P. cubensis strains can interbreed and are the same species. The differences between strains are analogous to dog breeds: the same species with varying traits selected for by cultivators. Choosing the right strain depends on your goals: yield, potency, ease of cultivation, visual appeal, or personal preference.
+"Strain" in the context of [[psilocybe-cubensis-cultivation]] refers to a selectively propagated variety with distinct visual and growth characteristics. Unlike botanical strains, mushroom strains are not genetically distinct subspecies — all P. [[cap-and-stem-alkaloid-distribution-in-psilocybe-cubensis-strains]] can interbreed and are the same species. The differences between strains are analogous to dog breeds: the same species with varying traits selected for by cultivators. Choosing the right strain depends on your goals: yield, potency, ease of cultivation, visual appeal, or personal preference.
 
 ## Important Terminology
 
 - **Variety**: The more accurate botanical term for what cultivators call "strains."
-- **Isolate**: A specific genetic individual isolated from [[mushroom-spore-syringe-preparation]] genetics. True isolates are genetically unique and produce consistent results.
+- **Isolate**: A specific genetic individual isolated from [[mushroom-spore-syringe-preparation|spore]] genetics. True isolates are genetically unique and produce consistent results.
 - **Multi-spore (MS)**: Inoculation from spores containing many different genetic individuals. Results vary between grows.
 - **Clone**: Tissue culture taken directly from a fruiting body. Genetically identical to the parent mushroom.
 
@@ -131,7 +130,7 @@ Penis Envy (and its variants), McKennaii, and Albino Penis Envy are consistently
 
 ### For Maximum Yield
 
-B+, Amazonian, and Golden Teacher produce the most consistent yields. Proper cultivation technique matters far more than strain selection for yield.
+B+, Amazonian, and Golden Teacher produce the most consistent yields. Proper [[boil-a-bag-mushroom-cultivation-technique]] matters far more than strain selection for yield.
 
 ### For Speed
 
@@ -148,3 +147,4 @@ It is important to understand that strain selection is less important than genet
 ## Related Topics
 
 - [[mushroom-agar-work]] — isolating and selecting the best genetics within a strain
+- [[psilocybin-mushroom-cultivation]] — cultivation overview for applying strain knowledge

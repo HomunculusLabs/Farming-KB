@@ -8,26 +8,7 @@ sources: ["Shulgin - PIHKAL"]
 ---
 # TMPEA
 
-[[2c-b-pihkal-entry-20]] #168. 2,4,5-TRIMETHOXYPHENETHYLAMINE.
-
-## Chemical Name
-
-2,4,5-TRIMETHOXYPHENETHYLAMINE
-
-## Dosage and Duration
-
-| Property | Value |
-|----------|-------|
-| Dosage | greater than 300 mg. |
-| Duration | unknown. |
-
-## Qualitative Comments
-
-> (with less than 300 mg) Since it was not easy,
-> however, to judge the extent of a 'Rausch'-action from experiments on
-> animals, some injections of beta-2,4,5-trimethoxyphenethylamine were
-> administered to the author, and finally a control test was carried out
-> with an equal quantity of [[mescaline]]. The action of both these
+[[mescaline]]. The action of both these
 > substances in these experiments agreed only to a limited extent with
 > the effects described for mescaline by, for example, Beringer. It
 >
@@ -90,4 +71,9 @@ TMPEA are known to be stripped off through the normal metabolic
 processes that occur in the liver. There are many fascinating
 
 ## See Also
-- [[methyl-j-entity-pihkal]]
+
+- [[methyl-ma-entity-pihkal]]
+- [[net-entity-tihkal]]
+- [[al-entity]]
+- [[dobu-entity-pihkal]]
+- [[4-d-entity]]

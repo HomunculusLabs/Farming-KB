@@ -58,11 +58,7 @@ to nearly black when mature.
 ## Distribution
 
 Anadenanthera peregrina is native to the Orinoco basin of Venezuela
-and extends across northern [[guzman-psilocybin-mushrooms-south-america]]. Its range includes
-Colombia, the Guianas, northern Brazil, and portions of the Amazon
-basin. The species occurs both naturally in wild populations and
-in situations suggesting deliberate cultivation by indigenous peoples.
-It favors open grasslands, [[mollison-designers-gallery-forests-and-valley-bottomland-systems]], and disturbed areas.
+and extends across northern [[mollison-designers-gallery-forests-and-valley-bottomland-systems]], and disturbed areas.
 
 ## Chemistry
 
@@ -76,8 +72,7 @@ class of indole alkaloids. The principal open-chained tryptamines are:
 - **Bufotenine (5-hydroxy-DMT):** A tryptamine derivative also found
   in the skin secretions of toads of the genus Bufo, from which its
   name is derived. Bufotenine contributes significantly to the
-  psychoactive effects of [[harmala-alkaloids]] found in [[ayahuasca-preparation-and-ceremony]]
-- [[anadenanthera-colubrina]]
+  psychoactive effects of [[ayahuasca-preparation-and-ceremony]]
 - [[anadenanthera-colubrina]]
 - Virola
 - DMT

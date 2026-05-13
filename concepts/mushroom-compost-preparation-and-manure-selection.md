@@ -8,7 +8,7 @@ type: concept
 
 ## Overview
 
-The preparation of a suitable compost is arguably the most critical and technically demanding aspect of commercial [[mushroom-cultivation]]. There is no known substitute for stable manure as a compost for commercial mushroom production. Wherever *[[agaricus-campestris]]* and related species are cultivated, fermented stable manure serves as the nutrient substratum. The best results are obtained only when the manure is hauled fresh from the stables and permitted to undergo a carefully controlled fermentation process.
+The preparation of a suitable compost is arguably the most critical and technically demanding aspect of commercial [[agaricus-campestris]]* and related species are cultivated, fermented stable manure serves as the nutrient substratum. The best results are obtained only when the manure is hauled fresh from the stables and permitted to undergo a carefully controlled fermentation process.
 
 ## The Essential Role of Stable Manure
 
@@ -100,3 +100,11 @@ The experienced grower learns to assess manure quality through several indicator
 The emphasis on compost quality throughout the mushroom growing literature reflects a fundamental truth: no amount of skill in spawn selection, environmental control, or crop management can compensate for poor compost. The compost is the nutritional and physical foundation upon which the entire crop is built, and the care invested in its preparation is repaid directly in yield, quality, and consistency of production.
 
 The inability to substitute other materials for stable manure remains one of the defining constraints of mushroom cultivation, linking the industry directly to the availability of horse stables and the agricultural practices that produce suitable manure.
+
+## See Also
+
+- [[telluride-mushroom-festival-modern-mycological-culture]]
+- [[shroom-cultural-history-mushroom-in-ancient-civilizations]]
+- [[bloomfield-mushroom-foraging-immigrant-poisonings-paddy-straw-confusion]]
+- [[mckenna-mushroom-teonanacatl-franciscan-theophagy-and-oaxaca-survival]]
+- [[mushroom-poisoning-guide]]

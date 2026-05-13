@@ -3,7 +3,7 @@ title: Animal Butcher and Processing
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
-tags: [animal-husbandry, [[homesteading]], livestock, byproducts, processing, preservation]
+tags: [animal-husbandry, homesteading, livestock, byproducts, processing, preservation]
 sources: []
 ---
 # Animal Butcher and Processing
@@ -140,10 +140,11 @@ sheep, goats, pigs, and cattle).
 
 ### Basic Cuts (Beef/Lamb/Goat/Pork)
 - **Primal cuts:** Chuck, rib, loin, round, flank, brisket, plate (beef).
-  Shoulder, rack, loin, leg, shank (lamb/goat). Shoulder, loin, belly,
-  leg, ham (pork).
-- **Sub-primal cuts:** Break primals into roasts, steaks, chops, stew meat,
+
 ## See Also
-- [[animal-harvest-and-processing]]
-- [[grain-processing-and-milling-guide]]
-- [[live-resin-processing]]
+
+- [[permaculture-animal-integration]]
+- [[mollison-designers-domestic-animal-integration-design]]
+- [[savory-animal-impact-and-herd-effect]]
+- [[animal-face]]
+- [[permaculture-designers-manual-animal-forage-systems]]

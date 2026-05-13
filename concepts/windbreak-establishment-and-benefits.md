@@ -1,12 +1,6 @@
 ---
 title: Windbreak Establishment and Benefits
-source: [[bill-mollison-permaculture-a-designers-manual-forest-gardens-and-food-forests|bill]]-mollison-permaculture-a-designers-manual.md
-type: concept
----
-
-# Windbreak Establishment and Benefits
-
-Windbreaks are among the most critical design elements in [[permaculture]], particularly on exposed sites. The chill factor — the removal of heat from surfaces and evaporation of fluids — creates cool to cold climates in the tropics at lower altitudes than adiabatic or altitude factors would indicate. This chill factor retards plant growth and lowers the efficiency of solar devices and insulation. In cyclonic or hurricane areas, catastrophic winds may become the overriding design consideration around which all other factors must be arranged.
+source: [[permaculture]], particularly on exposed sites. The chill factor — the removal of heat from surfaces and evaporation of fluids — creates cool to cold climates in the tropics at lower altitudes than adiabatic or altitude factors would indicate. This chill factor retards plant growth and lowers the efficiency of solar devices and insulation. In cyclonic or hurricane areas, catastrophic winds may become the overriding design consideration around which all other factors must be arranged.
 
 ## Windbreak Design Strategy
 
@@ -24,47 +18,7 @@ Windbreaks are among the most critical design elements in [[permaculture]], part
 - **Anchoring by stones or mulch** to stabilize young plants against windthrow
 - **Species with 40–60% penetrability** in the front line or as dominants — some wind must pass through rather than being forced over the top, which would create damaging turbulence on the lee side
 
-## [[windbreak-design-establishment-methods|Methods]] of Establishing Windbreaks
-
-### Plastic Bag Protection
-
-Individual open-ended plastic bags around stakes are a common and effective establishment method. The bag acts as a miniature greenhouse, reducing wind stress and transpiration while providing a warm, humid microclimate for the young plant to establish its root system.
-
-### Earth Mounds and Banks
-
-Earth mounds or side-cast earth banks of greater length than the tree line provide immediate wind protection. The hollow from which earth is taken to make the mound can serve a dual purpose:
-
-- Holding water as a small reservoir
-- Providing protection to young plants in the excavated area
-
-Earth mounds can be more easily streamlined than fence-based barriers and are less sensitive to windthrow.
-
-### Brush and Wire Fences
-
-Brush fences, wire-mesh fences, or staked fences with approximately 40% wind penetrability provide good temporary protection while permanent windbreak species establish. The key is allowing enough wind through to prevent damaging eddies while still reducing velocity.
-
-### Tussock Grass
-
-Tough unmown grass to windward, even if already present on site, provides effective low-level wind protection and can be used in combination with all other methods. In windy areas, tussock grasses create their own microclimate of still air at ground level.
-
-### Tyre Walls
-
-Tyre walls are sometimes feasible and create great warmth inside the tyres (due to solar absorption by the black rubber). They are scarcely aesthetic unless very regularly arranged and planted, but have several advantages:
-
-- They are cheap and readily available
-- They can be removed once effective tree windbreaks are established
-- They provide thermal mass for frost protection
-
-Tyre walls can be mounded with scramblers or cacti, some of which provide bee forage, berries, or edible fruits.
-
-### Trellis and Wall Barriers
-
-Substantial trellis provides more immediate wind protection than establishing trees from seed. Design considerations include:
-
-- **Sinuous (curved) shape** for brick or mud-brick walls to resist wind forces
-- **Zig-zag pattern** for timber walls
-- **Rock walls** can be mounded with tough semi-succulents such as *Rhagodia*, *Tetragonia*, *Carpobrotus*, or *Mesembryanthemum*
-- Must withstand persistent and severe forces until [[bill-mollison-permaculture-a-designers-manual-windbreak-design-and-shelter|shelter]] grows on either side
+## [[bill-mollison-permaculture-a-designers-manual-windbreak-design-and-shelter|shelter]] grows on either side
 
 ### Mesh Fence "Fedges"
 
@@ -111,7 +65,7 @@ Less severe but economically significant effects include:
 - Australia attributes **20% of all lamb losses** to wind chill factors
 - Cattle fed winter rations on exposed sites eat **16% less** food, wasting expensive feed
 
-In the tropics and subtropics, ridge plantings of pines or *Casuarina* with a wind gap left below the crowns afford both shade and an induced breeze that discourages flies and mosquitoes. Such ridges are also rich mulch sources for lower slopes.
+In the tropics and subtropics, ridge plantings of pines or *[[casuarina]]* with a wind gap left below the crowns afford both shade and an induced breeze that discourages flies and mosquitoes. Such ridges are also rich mulch sources for lower slopes.
 
 ### 3. Civil Construction and Infrastructure
 
@@ -145,6 +99,6 @@ On coasts, removal of mangroves and coastal dune vegetation results in sudden ac
 
 Windbreak species can be chosen to provide:
 
-- Excellent **crop mulch** (*Prosopis*, *Acacia*, *Erythrina*, *Melia*, *Canna*)
+- Excellent **crop mulch** (*[[prosopis]]*, *Acacia*, *Erythrina*, *Melia*, *Canna*)
 - **Fodder** (all the foregoing species plus *Leucaena*, fig, *Pennisetum*)
 - **Nitrogen fixation** and phosphatic fertiliser recycling

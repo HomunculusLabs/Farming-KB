@@ -2,10 +2,7 @@
 # Psilocybe mexicana
 
 *Psilocybe mexicana* holds a unique and central place in the history of psychedelic science as the species from which
-[[psilocybin-mushrooms]] to Western awareness and launched the modern
-era of nutrient-storage-cycling-terrestrial-ecosystems organs. Sclerotia (commonly called "truffles" or "philosopher's
-stones" in commercial contexts) can reach 1–2 cm in diameter and contain significant concentrations of psilocybin and
-psilocin, often comparable to or exceeding the concentrations found in the fruiting bodies. [[growing-gourmet-sclerotia-formation-biology-mushrooms]] is an
+[[growing-gourmet-sclerotia-formation-biology-mushrooms]] is an
 adaptation to environmental stress, allowing the organism to survive periods of unfavorable conditions (drought,
 temperature extremes) in a dormant, resistant state. When conditions improve, the sclerotia can resume growth or
 produce fruiting bodies. This survival strategy is shared with relatively few other *Psilocybe* species, most notably
@@ -25,7 +22,7 @@ closely tied to the onset of summer rains.
 
 *P. mexicana* contains psilocybin at concentrations of 0.25–0.60% and psilocin at 0.15–0.45% by dry weight in
 fruiting bodies. Sclerotia contain comparable alkaloid levels, with some analyses reporting 0.3–0.7% total
-tryptamines. [[grass-seed-cultivation-of-psilocybe-mushrooms]] or [[maria-sabina]] (1888–1985), the Mazatec
+tryptamines. [[maria-sabina]] (1888–1985), the Mazatec
 curandera whose velada ceremonies became famous after Wasson's 1955 visit. Sabina used *P. mexicana* along with *P.
 caerulescens* and possibly other species in her healing rituals, which involved all-night ceremonies incorporating
 chanting, prayer, and the consumption of fresh mushrooms. The global attention that followed Wasson's *Life* magazine
@@ -36,25 +33,7 @@ depicting mushroom deities. The Mazatec, Mixtec, Nahuatl, and other indigenous p
 mexicana* and related species continuously for divination, healing, and communal ritual for at least several centuries.
 The isolation of psilocybin from this species in 1958 was a watershed moment in the history of psychopharmacology,
 opening the door to decades of research into the neuroscience and therapeutic potential of classical psychedelics.
-Modern [[mushroom-cancer-clinical-trials-overview]] using synthetic psilocybin are, in a very direct sense, working with the chemical legacy of *P.
-mexicana* and the indigenous traditions that preserved its use for centuries.
-## Practical Considerations
-
-When working with Psilocybe Mexicana, several practical factors should be
-carefully considered to achieve optimal results. These include
-the specific conditions of the implementation context, available
-resources, timing requirements, and the interactions between this
-topic and other elements of the broader system. A holistic view
-that considers these interconnections produces better outcomes.
-
-Environmental conditions such as temperature, moisture, and
-seasonal patterns significantly influence results. Monitoring these
-variables and adapting practices accordingly is essential for success.
-The most effective practitioners develop keen observation skills and
-respond flexibly to changing conditions rather than following rigid
-protocols regardless of circumstances or local variation.
-
-[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
+Modern [[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -88,3 +67,84 @@ that can enhance both the effectiveness and efficiency of implementation.
 
 Integration with other disciplines and approaches creates synergies that
 advance the field as a whole. Cross-pollination of ideas from biology,
+
+## Overview
+
+Psilocybe Mexicana represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish psilocybe mexicana
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving psilocybe extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Psilocybe Mexicana finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for psilocybe mexicana. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+psilocybe mexicana and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Psilocybe Mexicana has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of psilocybe mexicana into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[grass-seed-cultivation-of-psilocybe-species]]

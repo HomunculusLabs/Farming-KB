@@ -8,26 +8,9 @@ sources: [/Users/t3rpz/wiki/raw/papers/unknown-mycelium-running.md]
 type: concept
 ---
 
-# [[mycelial-networks]] exhibit several distinct topological patterns depending on
-species and environment:
-
-- **Foraging networks** (e.g., *Physarum*, *Phanerochaete*): Radial
-  structures with thick transport cords connecting exploration fronts. These
-  balance exploration (extensive thin hyphae) with exploitation (dense
-  transport highways).
-- **Rhizomorphic networks**: Organized into differentiated cord-like
-  structures with specialized vascular hyphae for long-distance transport.
-- **Diffuse networks**: Uniform distribution of hyphae without obvious
-  differentiation, common in decomposer fungi.
-
-Research on *[[mycelial-networks]]
+# [[mycelial-networks]]
 maintain connectivity while maximizing resource capture through a combination
-of [[gadd-hyphal-tip-growth-and-branching-mechanisms]], branching, and fusion (anastomosis). The networks show
-remarkable resilience, reconnecting around damaged areas.
-
-## Transport Mechanisms
-
-[[fungal-mycelial-networks-nutrient-translocation]] move resources through two primary mechanisms:
+of [[fungal-mycelial-networks-nutrient-translocation]] move resources through two primary mechanisms:
 
 1. **Cytoplasmic streaming**: Bulk flow of cytoplasm carrying organelles,
    nutrients, and signaling molecules along hyphae. Driven by motor proteins
@@ -80,7 +63,7 @@ and high connectivity even after random edge removal.
 
 Network optimization theory provides a framework for understanding mycelial
 architecture. Research by Dan Bebber and colleagues at Oxford University
-applied [[mycelial-network-graph-theory-analysis]] to digitized images of [[phanerochaete-velutina]]* growing across soil and [[comparison-ramial-wood-chip-mulch-vs-composted-wood-chips]] substrates.
+applied [[phanerochaete-velutina]]* growing across soil and [[comparison-ramial-wood-chip-mulch-vs-composted-wood-chips]] substrates.
 They found that fungal networks minimize the total length of connections
 while maintaining multiple redundant pathways between resource nodes, an
 optimization problem analogous to the minimum spanning tree with redundancy
@@ -88,3 +71,80 @@ constraints. This cost-benefit tradeoff between building and maintaining
 network material versus ensuring connectivity produces networks that
 approximate solutions found by human engineers designing transportation
 and communication networks. The networks also demonstrate "graceful
+
+## Overview
+
+Mycelium Network Architecture represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish mycelium network architecture
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving mycelium extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Mycelium Network Architecture finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for mycelium network architecture. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+mycelium network architecture and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Mycelium Network Architecture has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of mycelium network architecture into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.

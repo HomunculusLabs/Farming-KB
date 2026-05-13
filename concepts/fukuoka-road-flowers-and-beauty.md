@@ -13,39 +13,12 @@ type: concept
 # Flowers and Beauty in European Civilization
 
 While traveling through the European countryside, masanobu-fukuoka|Fukuoka
-was struck by the beauty and cleanliness [[allegro-colour-and-consistency-of-the-amanita-muscaria]] wild flowers. The flowers by the roadside in
-Switzerland and Austria had such splendidly large petals
-that they looked more like cultivated flowers than wild
-flowers. He suspected these were either the native stock of
-beautiful flowers or even the wild variants of artificially
-bred flowers.
-
-Lovely meadows stretched out like fields of alpine flowers.
-But once he had gotten accustomed to the sight, something
-seemed lacking. He had a hunch this might be connected with
-the fact that he saw few plants which resembled wild grasses.
-Perhaps the cultivation of flowers had wiped out the native
-grasses and resulted in a simplified vegetative cover.
-
-## Weekend [[triptolemus-eumolpus-and-the-founding-families-of-eleusis]] loving
+was struck by the beauty and cleanliness [[triptolemus-eumolpus-and-the-founding-families-of-eleusis]] loving
 care they lavish on them is something very special.
 
 ## Two Ways of Enjoying Nature
 
-[[allegro-plants-and-drugs-in-the-ancient-world]] Orient. Rather than
-nature, what they really seem to be enjoying is people in a
-natural setting. The Japanese carouse in self-oblivion under
-the cherry blossoms in spring, but Westerners don't step out
-of themselves and blend freely with nature. They are always
-in full possession of the self.
-
-Fukuoka pointed out that the nature in the West is beautiful
-and quiet, but that quiet differs from the tranquility of
-Japan. It does not give rise to the sad, lonely Japanese
-ambience of wabi-sabi. He wondered whether the spirit and
-mystery of Mother Nature that frees us from our sense of
-self does not exist in the forests and flower gardens of the
-West created by egoistic man. See [[fukuoka-european-civilization-standstill]].
+[[fukuoka-european-civilization-standstill]].
 
 ## The Corruption of Ikebana
 
@@ -118,8 +91,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[amanita]]
 - [[fukuoka-road-churches-and-god]]
-- [[fukuoka-road-farming-for-kings-and-clergy]]
 - [[query-how-do-i-grow-and-use-edible-flowers-in-my-garden]]
 - [[fukuoka-mahayana-and-hinayana-natural-farming]]

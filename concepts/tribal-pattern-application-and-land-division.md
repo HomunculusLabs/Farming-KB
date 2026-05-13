@@ -137,6 +137,13 @@ Many dances and chants evolved directly from work and travel movements, embeddin
 6. **Rectilinear patterns are cultural, not natural**: They can be replaced by patterns that serve ecological and human needs
 
 ## See Also
-- [[pattern-applications-and-tribal-pattern-knowledge]]
 - [[tribal-pattern-navigation-and-knowledge]]
 - [[tribal-pattern-knowledge-and-song-navigation]]
+
+## See Also
+
+- [[tribal-pattern-knowledge]]
+- [[tribal-pattern-knowledge-systems]]
+- [[tribal-pattern-knowledge-and-traditional-encoding]]
+- [[social-hierarchy-and-tribal-art]]
+- [[tribal-art-as-sacred-knowledge-systems]]

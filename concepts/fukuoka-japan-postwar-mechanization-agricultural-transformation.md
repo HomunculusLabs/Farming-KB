@@ -1,13 +1,13 @@
 ---
 title: "Fukuoka Japan Postwar Mechanization Agricultural Transformation"
-source: The Natural Way of Farming - [[masanobu-fukuoka]]
+source: The Natural Way of Farming - masanobu-fukuoka
 tags: [fukuoka, natural-farming, japan, mechanization, postwar, agricultural-policy, industrialization, rural-depopulation]
 created: 2026-05-11
 ---
 
 # Japan's Postwar Mechanization: The Agricultural Transformation That Fueled Industrialization
 
-Masanobu Fukuoka provides a farmer's-eye view of Japan's postwar economic
+[[masanobu-fukuoka]] provides a farmer's-eye view of Japan's postwar economic
 miracle—one that reveals the agricultural roots of industrialization and the
 devastating cost paid by the farming population that made it possible.
 
@@ -30,29 +30,7 @@ and placed at the service of urban civilization."
 ## The Motorized Transport-Tiller: The Turning Point
 
 "The first step was the arrival of the motorized transport-tiller in the
-farming village, a major turning point in [[fukuoka-breakdown-japanese-agriculture]]." This single
-machine set in motion a chain of changes that would transform not just
-farming but all of Japanese society.
-
-The transport-tiller was "rapidly followed by three-wheeled vehicles and
-trucks. Before long, ropeways, monorails, and paved roads stretched to the
-furthest corners of the village, all of which completely altered the farmer's
-notions of time and space." The physical infrastructure of modernization
-penetrated every corner of rural Japan.
-
-## From Labor-Intensive to Capital-Intensive Farming
-
-With the transport-tiller came a fundamental shift in the nature of
-agricultural work: "With this wave of change from labor-intensive to
-capital-intensive farming came the replacement of the horse-drawn plow with
-tillers, and later, tractors."
-
-The escalation was relentless and rapid. "Methods of pesticide and fertilizer
-application underwent major revisions, with motorized hand sprayers being
-abandoned in favor of helicopter spraying." What had once been careful,
-hand-applied treatments became industrial-scale aerial operations. "Needless
-to say, traditional farming with draft animals was abandoned and replaced
-with methods involving the heavy application of [[cannabis-chemical-fertilizers]] and
+farming village, a major turning point in [[cannabis-chemical-fertilizers]] and
 pesticides."
 
 ## The Dual Engine of Industrial Growth
@@ -86,9 +64,7 @@ direction to be taken by Japanese agriculture. But instead of serving as a
 foundation for farmers, it established controls over the farmer and passed
 the reins of control to the financial community."
 
-The law marked the point at which [[fukuoka-textdoc-postwar-agricultural-policy-fall-farming]] shifted from
-supporting farmers to managing their decline. "The general public started
-thinking that [[fukuoka-textdoc-agricultural-land-law-obstruction-return-farming]] could be put to better use in industry and
+The law marked the point at which [[fukuoka-textdoc-agricultural-land-law-obstruction-return-farming]] could be put to better use in industry and
 housing than for food production; city dwellers even began to see farmers,
 who were reluctant to part with their land, as selfish monopolizers of land."
 Taxes as high as those on housing land were levied on farmland.
@@ -118,3 +94,7 @@ farmer who was the foundation of Japan's economic miracle has become its
 casualty—displaced from the land, dependent on chemical inputs he cannot
 afford, and unable to speak up because the nation believes the farmland
 reduction policy serves the consumer.
+
+## See Also
+
+- [[fukuoka-japan-postwar-agricultural-transformation-mechanization-trap]]

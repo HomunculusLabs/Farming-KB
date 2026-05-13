@@ -18,11 +18,7 @@ sources:
 
 ## Overview
 
-Swazi Gold is a pure sativa [[cervantes-landrace-cannabis-populations]] strain originating from the mountainous regions of Swaziland (now Eswatini) in southern Africa.
-
-The strain is considered one of the foundational African landraces and has contributed genetics to numerous modern hybrid cultivars.
-
-It is renowned for its tall stature, vigorous growth, long flowering period, and potent cerebral effects characteristic of [[durban-poison-and-equatorial-sativas]].
+Swazi Gold is a pure sativa [[durban-poison-and-equatorial-sativas]].
 
 Swazi Gold has been cultivated by local farmers for generations and represents an important genetic reservoir for breeding programs.
 
@@ -32,13 +28,7 @@ Swazi Gold is a pure landrace with no documented hybridization in its native ran
 
 It belongs to the narrow-leaflet drug-type (NLDT) chemotype associated with tropical and subtropical African cannabis populations.
 
-Genetic analysis places it within the southern African cannabis [[cannabis-gene-pool-preservation-acclimatization-clarke]], distinct from both South Asian and Central Asian lineages.
-
-The strain has been used as a parent in crosses with Asian and Afghan varieties to create hybrids with improved flowering times.
-
-Notable descendants include various "Swazi" crosses and [[cannabis-strain-king-congo-african-sativa]] hybrids developed by Dutch [[spanish-cannabis-seed-companies]] in the 1990s and 2000s.
-
-Its genetics have also contributed to breeding programs in Thailand, Jamaica, and Brazil through [[fukuoka-oil-companies-international-seed-war]] exchange.
+Genetic analysis places it within the southern African cannabis [[cannabis-strain-king-congo-african-sativa]] hybrids developed by Dutch [[fukuoka-oil-companies-international-seed-war]] exchange.
 
 ## Appearance
 
@@ -68,9 +58,7 @@ The plant structure is典型热带型，带有细长的节间和大叶指状叶�
 
 ## Terpene and Cannabinoid Profile
 
-主导萜烯包括myrcene（甜/泥土底调）、[[terpinolene]]（果香/花香复合调）和caryophyllene（辛辣/胡椒味）。
-
-次要萜烯包括limonene（柑橘）、[[pinene]]（松树）和linalool（花香）。
+主导萜烯包括myrcene（甜/泥土底调）、[[pinene]]（松树）和linalool（花香）。
 
 THC含量在经典的未选择种群中通常在12–18%之间，但经过选育的系可以达到20%以上。
 
@@ -87,3 +75,75 @@ Swazi Gold需要漫长的开花时间，室内需要12–14周，室外则需要
 由于体型较大，它在温暖的温带或亚热带户外环境中表现最佳，可提供高产，通常每株可产300-500克。
 
 室内种植者通常会使用scrOG训练或早期 topping 以控制其伸展。
+
+## Overview
+
+Swazi Gold represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish swazi gold
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving swazi extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Swazi Gold finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for swazi gold. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+swazi gold and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Swazi Gold has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of swazi gold into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions

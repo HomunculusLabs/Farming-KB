@@ -46,9 +46,9 @@ These spirals are deflected by drag and the Coriolis force, shifting wind direct
 
 On sea-facing coasts, the warmer land surface creates quiet inshore airflows toward evening. Where humid air flows over rapidly cooling surfaces of leaves, condensation occurs — greatly aided by colonies of **Pseudomonas bacteria** which serve as nuclei for frost crystals and water droplets.
 
-Condensation drip can reach **80–86% of total precipitation** on upland slopes of islands or sea coasts, producing the dense rainforests of Tasmania, Chile, Hawaii, Washington/Oregon, and Scandinavia. A single giant Til tree (*Ocotea foetens*) may present **16 hectares of laminate leaf surface** to sea air, with ~100 such trees per surface hectare — enormously magnifying the available condensation surface.
+Condensation drip can reach **80–86% of total precipitation** on upland slopes of islands or sea coasts, producing the dense rainforests of Tasmania, Chile, Hawaii, Washington/Oregon, and Scandinavia. A single giant Til tree (*[[ocotea-foetens]]*) may present **16 hectares of laminate leaf surface** to sea air, with ~100 such trees per surface hectare — enormously magnifying the available condensation surface.
 
-The taller the trees (redwoods, white pines), the larger the volume of moist air intercepted and the greater the precipitation. Evergreens work year-round, but even deciduous trees catch moisture in winter. On Table Mountain (South Africa) and Lanai (Hawaii), fog drip has been measured at **130–330 cm**, exceeding rainfall.
+The taller the trees (redwoods, white pines), the larger the volume of moist air intercepted and the greater the precipitation. Evergreens work year-round, but even deciduous trees catch moisture in winter. On [[table-mountain]] (South Africa) and Lanai (Hawaii), fog drip has been measured at **130–330 cm**, exceeding rainfall.
 
 ## The Fragility of Condensation Systems
 
@@ -69,9 +69,7 @@ water, and atmosphere enables designers to create more resilient and productive
 landscapes that work with natural processes rather than opposing them.
 
 ## See Also
-- [[pdc-food-forest-design-and-forest-ecology]]
 - [[forest-water-cycling-and-precipitation]]
-- [[mollison-orographic-and-forest-rainfall-effects]]
 - [[forest-rehumidification-and-snow-meltwater-effects]]
 - [[tree-effects-on-precipitation]]
 

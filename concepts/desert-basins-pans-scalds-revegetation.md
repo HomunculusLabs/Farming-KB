@@ -6,94 +6,8 @@ type: concept
 
 # Desert Basins, Pans, Scalds, and Revegetation
 
-The flat and depressed areas of desert landscapes—basins, pans, and scalds—present unique challenges and opportunities for [[water-management]] and ecological restoration. These features result from tectonic processes, wind deflation, erosion, and the accumulation of salts and fine sediments over geological time.
-
-## Classification of Desert Depressions
-
-### Tectonic Basins
-
-Large flat areas or near-circular depressions formed by tectonic processes. It is in these great tectonic depressions that salt lakes and dune seas (draas) form. Smaller depressions gather run-off and develop typical base materials of suspended silts or salts carried by water and left when water evaporates.
-
-### Deflection (Wind) Hollows
-
-Fairly large depressions created by wind action. These form where consistent winds erode and remove surface material, creating hollows that can accumulate water during rare rain events.
-
-### Pans
-
-Depressions with flat floors are called pans. They come in several types:
-
-- **Claypans**: Clay-based evaporation areas
-- **Salt pans**: Salt-based evaporation areas
-- **Gilgais**: Small depressions resulting from the swelling and shrinking of plastic clays, circular in outline and useful as water-capture systems where erosion has left them as hollows
-
-## Claypan Management
-
-### Clay Properties
-
-Clays can be treated to modify their water-handling properties:
-- **[[gypsum]]**: Decreases clay capacity to infiltrate water (useful where run-off collection is desired)
-- **Sodium carbonate or bentonite**: Seals clays where they need to store water
-- **Natural montmorillonite or illite clays**: Swell and form impermeable surfaces after a short period of rain, greatly impeding infiltration
-
-### Ecological Role of Claypans
-
-Claypans rarely overflow but receive silty waters from clay soils. After pooling for a period, clay settles out and water evaporates. They provide critical seasonal habitat:
-
-- **Wet phase**: Tall canegrass (*Eragrostis australasica*) grows; duck and waterfowl nest
-- **Drying phase**: Marsupials and rodents take refuge as swamps dry out
-- **Aboriginal management**: These swamp areas were frequently burnt in autumn or as canegrass dried out, but regenerated in wet periods
-
-### Spiral Earth-Casting for Claypans
-
-Circular or spiral banks can be made on large claypans for seeding and water capture. Spiral earth-casting and ridges sown at their apex are successfully used to seed claypans where conventional approaches fail.
-
-## Scalds
-
-### Definition and Formation
-
-A scald is a bare clay-pan area where a duplex soil (originally light sandy loams over a sharply-defined transition area with deep clay below) has lost its upper soil layer. Unlike claypans, scalds have flow into and out of the area rather than being enclosed depressions.
-
-### Solonetic Soils
-
-The clays remaining in scalds are often solonetic (with a high content of sodium ions). As a result, the clays tend to "melt" when first wetted in rain, effectively sealing the surface of the clay base and preventing infiltration. The wet crust so formed is almost impermeable—the same effect is used deliberately to seal clays for leading run-off water to tanks.
-
-### Bank-and-Soak Revegetation Strategy
-
-The key technique for scald rehabilitation uses graded banks:
-
-1. Grade a bank up to **10-15 cm high**, with the cut on the lower side
-2. Water backs up a considerable distance behind the bank
-3. Let this distance be **one-third** of the total area to be treated
-4. Allow two-thirds of bare soil as run-off collection area
-5. Seed pre-sown on this surface will germinate
-6. The low bank eventually "melts" flat
-7. The next one-third can then be treated as a successional strategy
-
-**Critical caution**: If banks are made too high or too solid, the plants will drown. Over 2-3 years, a complete vegetative cover can be re-established.
-
-### Ridge-and-Swale Approach
-
-Lay ridges side-cast "uphill" to aid infiltration and vegetative cover. As clay banks level out, new banks enable plantings to establish. This graduated approach allows progressive treatment of large scalded areas.
-
-## Desert Soils
-
-### Colour and Composition
-
-Soils in older deserts usually show some yellow or reddish colour from a complex of iron oxides. Areas may vary in composition from free sands to heavy, compacted, or cracking clays. Cracking clays become notoriously sticky if wet, preventing all vehicle movement.
-
-### Distribution by Landform
-
-| Landform | Typical Soil |
-|----------|-------------|
-| Flats and evaporation pans | Heavy clays |
-| Dune swales | Softer clay-loams |
-| Foothills | Clay-loams |
-| Scarp upper surfaces | Thin, rocky soils |
-| Wadi floors | Deep sands, gravels, and silts |
-
-## Basin and Range Topography
-
-Basin and range topography is the classical profile in fold mountain series. [[water-conservation]] begins on foothill slopes and forests are generated downstream.
+The flat and depressed areas of desert landscapes—basins, pans, and scalds—present unique challenges and opportunities for [[gypsum]]**: Decreases clay capacity to infiltrate water (useful where run-off collection is desired)
+- **Sodium carbonate or [[water-conservation]] begins on foothill slopes and forests are generated downstream.
 
 ### Two Types
 
@@ -119,3 +33,88 @@ Large gullies need multiple strategies working together:
 ## Ecological Interconnections
 
 Revegetation of scalds has regional ecological significance. In Australia, plague locusts lay their eggs and hatch most successfully in the narrow shaded edges of scalds. Most scalds are produced by over-grazing, so the desert grazier inflicts plague on whole regions through poor land management. This feedback loop between grazing pressure, soil degradation, and pest outbreaks underscores the importance of maintaining vegetative cover in arid landscapes.
+
+## Overview
+
+Desert Basins Pans Scalds Revegetation represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish desert basins pans scalds revegetation
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving desert extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Desert Basins Pans Scalds Revegetation finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for desert basins pans scalds revegetation. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+desert basins pans scalds revegetation and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Desert Basins Pans Scalds Revegetation has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of desert basins pans scalds revegetation into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[desert-precipitation-and-opportunistic-response]]
+- [[desert-precipitation-patterns-and-opportunistic-ecology]]
+- [[desert-temperature-and-soils]]
+- [[fukuoka-sowing-seed-ball-desert-revegetation]]
+- [[natural-farming-desert-reclamation]]

@@ -31,27 +31,7 @@ Sow seeds in trays in mid-spring, spacing about 1in (2.5cm) apart. Raise inside 
 
 ## Greenhouse Cultivation
 
-Sow from midwinter onward depending on available heat. For [[coleman-cold-greenhouse-double-layer-protection]] planting, sow in late winter at 70F (21C). Transplant to individual 3in pots as soon as seedlings can be handled. Grow on at 50-55F (10-12C), spacing progressively to produce short, bushy plants. Plant in border soil or growing bags 12in (30cm) apart in mid-spring.
-
-If planting in the border, use a root-rot resistant variety. Flood the border with water about two weeks before planting to flush out excess mineral salts, then dig in compost or manure and apply one handful of blood, fish, and bone meal per plant.
-
-Water plants in initially, then leave them to search for water to encourage extensive root growth. Water again after about a week. Each plant needs an average of about 2pts (1 liter) per day; cherry tomatoes need about 3pts (1.5 liters) per week to retain sweetness.
-
-## Maintenance
-
-- **Upright types:** Tie to 4ft (1.2m) poles regularly. Pinch off tops when they have made 3 clusters of fruit (4 in warm climates). Remove sideshoots from each leaf joint while still small.
-- **Bush types:** No staking or side-shooting needed, but cover soil underneath with straw or bark to raise fruit off the ground.
-- **Feeding:** Liquid kelp or animal-manure fertilizer at two-week intervals from midsummer to early fall. Greenhouse plants need feeding every time you water after about 8 weeks.
-- **Pollination:** When greenhouse plants flower, spray with water once daily to provide humid conditions favoring good pollination. Hose down daily and shake supporting wires to move pollen around.
-- When plants reach the top of the greenhouse, pinch off growing points.
-
-## Harvesting
-
-Pick as soon as fruits are ripe for the sweetest flavor and to encourage further production. For outdoor bush types at end of season, lay plants flat on straw and cover with cloches to ripen remaining green fruit.
-
-## Pests and Diseases
-
-Tomatoes may be affected by whitefly, aphids, leaf mold, red spider mites, potato blight, and virus diseases. In the greenhouse, also watch for blight, [[cervantes-damping-off-seedling-disease-prevention]], and virus diseases. For virus diseases, there is no cure -- dig up and burn all affected plants. Consider growing in growing bags the following year or using plants grafted onto resistant KNVF rootstock.
+Sow from midwinter onward depending on available heat. For [[cervantes-damping-off-seedling-disease-prevention]], and virus diseases. For virus diseases, there is no cure -- dig up and burn all affected plants. Consider growing in growing bags the following year or using plants grafted onto resistant KNVF rootstock.
 
 ## Training and Support
 
@@ -76,54 +56,95 @@ Water tomatoes consistently to prevent blossom end rot and fruit splitting. Fluc
 - **Leaf mold:** Caused by poor ventilation and high humidity. Improve air flow, remove affected leaves
 - **Red spider mite:** Favoured by hot, dry conditions. Increase humidity by damping down
 - **Potato blight:** Can affect outdoor tomatoes (same pathogen). Remove and destroy affected plants immediately
-- **Blossom end rot:** Black patches at the flower end of fruit, caused by [[knf-calcium-deficiency-symptoms]] often triggered by irregular watering
-- **Virus diseases:** Characterized by mottled or curled leaves. Remove affected plants; [[query-how-do-i-identify-and-control-aphids-on-cannabis]] which spread viruses
+- **Blossom end rot:** Black patches at the flower end of fruit, caused by [[query-how-do-i-identify-and-control-aphids-on-cannabis]] which spread viruses
 
 ## Extending the Season
 
-For outdoor bush varieties, protect plants with cloches at the end of the [[savory-growing-season-and-non-growing-season-management]] to help ripen green fruit. Lay upright varieties flat on straw and cover with cloches. At the end of the season, green tomatoes can be ripened indoors by placing them in a paper bag with a banana (ethylene gas accelerates ripening), or made into green tomato chutney.
-
-## Feeding Schedule
-
-- Start feeding about eight weeks after planting in the greenhouse
-- Use liquid kelp or animal-manure fertilizer every time you water (greenhouse) or every two weeks (outdoor)
-- [[comparison-comfrey-tea-vs-compost-tea]] is an excellent high-potash organic feed for tomatoes — see [[organic-vegetable-growing-calendar]]
-- [[composting-systems]]
-- [[vegetable-growing-guide]] for general vegetable cultivation
+For outdoor bush varieties, protect plants with cloches at the end of the [[comparison-comfrey-tea-vs-compost-tea]] is an excellent high-potash organic feed for tomatoes — see [[composting-systems]]
 - [[hamilton-geoffhamilton-nick-organic-gardening-companion-planting]] for pest reduction strategies
-- [[organic-vegetable-garden-rotation-deep-beds]]
+- [[det]]
+- [[growing-alliums-organically]]
+- [[growing-brassicas-organically]]
+
+## Overview
+
+Growing Tomatoes Organically represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish growing tomatoes organically
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving growing extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
 
 ## Practical Applications
 
-The principles and techniques discussed here have wide-ranging applications
-across multiple disciplines and contexts. Practitioners and researchers
-continue to explore new ways to integrate these concepts into modern practice,
-adapting traditional knowledge to contemporary challenges and opportunities.
+Growing Tomatoes Organically finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
 
-## Key Considerations
+## Management and Implementation
 
-Several important factors influence the effectiveness and outcomes described
-in this topic. Understanding these considerations helps practitioners make
-informed decisions and avoid common pitfalls. Environmental conditions,
-timing, and material selection all play critical roles.
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for growing tomatoes organically. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+growing tomatoes organically and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
 
 ## Historical Context
 
-The historical development of this subject reflects centuries of accumulated
-knowledge and practical experience. From traditional methods passed down
-through generations to modern scientific approaches, the evolution continues
-to inform current best practices and research directions.
+Growing Tomatoes Organically has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
 
-## Common Challenges
+## Integration Strategies
 
-Practitioners frequently encounter several challenges when working with
-these concepts. Climate variability, resource limitations, and knowledge
-gaps can all affect outcomes. Addressing these challenges requires patience,
-observation, and a willingness to adapt approaches based on results.
+Successful integration of growing tomatoes organically into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
 
 ## See Also
-- [[det]]
-- [[composting]]
-- [[growing-alliums-organically]]
-- [[growing-legumes-organically]]
-- [[growing-brassicas-organically]]
+
+- [[comparison-tomato-vs-pepper-growing]]
+- [[growing-gourmet-mushroom-harvesting-marketing-guide]]
+- [[growing-gourmet-plug-spawn-production]]

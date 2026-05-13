@@ -3,14 +3,7 @@ title: Chisel Plough Soil Conditioning Mollison
 created: 2026-04-21
 updated: 2026-04-21
 type: concept
-tags: [[permaculture]], design, soil, no-till]
-sources:
-  - "raw/papers/bill-mollison-permaculture-design-course.md"
-  - "raw/papers/bill-mollison-permaculture-design-course.md"
----
-# Chisel Plough and Soil Conditioning (Mollison)
-Updated: 2026-04-18
-Source: Permaculture: A Designers' Manual, [[bill-mollison]],
+tags: [[bill-mollison]],
 Section 8.18 (pp. 218-222)
 
 ## The Problem of Compacted Soils
@@ -39,37 +32,7 @@ ground up to form an air pocket without turning the soil over. Seed
 can be dropped in thin furrows, and beans or corn seeded in this way
 grow through the existing grass. No fertiliser or top-dressing is
 needed, only the beneficial effect of entrapped air beneath the
-earth, and the follow-up work of [[soil-life]] and plant roots on the
-re-opened soil.
-
-## The Soil Rehabilitation Sequence
-At the end of winter, or in autumn after some rain, when the soil
-will carry a tractor, a chisel plough is pulled 5-10 cm (2-4 inches)
-deep over the area, either on contour parallels or on low slopes,
-starting in the high valley bottoms and driving slightly downhill to
-the ridges.
-
-### First Treatment (5-10 cm depth)
-Unless there are absolutely no legumes or grasses already growing, no
-extra seed is applied. The response is increased penetration of roots,
-germination of seed, and a top-growth of pasture. This new growth is
-then hard-grazed, or cut and left to lie. The plants, shocked, lose
-most of their root mass and seal their wounds. The dead roots add
-compost to the soil, as does the cut foliage or animal droppings,
-giving food to the soil bacteria and earthworms, and softening the
-surface.
-
-### Second Treatment (23-30 cm depth)
-As soon as the grazing or cutting is finished, chisel again at 23-30
-cm (9-12 inches), on the same pattern as before. Graze or cut again,
-chisel again at 23-30 cm. Graze or cut.
-
-### Results After One Year
-During this process, often a matter of a one-year cycle, the pasture
-thickens, weeds are swamped with grasses and legumes, myriad roots
-have died and added humus, and thousands of subsurface tunnels lead
-from valley to ridge, so that all water flows down into the soil and
-out to the ridges. Earthworms breed in the [[coleman-summer-fallow-green-manure-greenhouse]], bacteria
+earth, and the follow-up work of [[coleman-summer-fallow-green-manure-greenhouse]], bacteria
 multiply, and both add manures and tunnels to the soil. A 23 cm (9
 inch) blanket of aerated and living soil covers the earth. The
 composted soil is, in essence, an enormous sponge which retains air
@@ -118,8 +81,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[permaculture]]
 - [[soil-conditioning-chisel-plow-biological-methods]]
-- [[bill-mollison-permaculture-a-designers-manual-soil-and-humus-management]]
 - [[mollison-soil-formation-rates-and-erosion-costs]]
 - [[mollison-designers-charcoal-production-biochar-soil-amendment]]

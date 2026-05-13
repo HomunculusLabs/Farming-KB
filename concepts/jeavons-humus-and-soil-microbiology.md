@@ -1,7 +1,7 @@
 ---
 title: Humus and Soil Microbiology
 created: 2026-04-28
-tags: [biointensive, [[composting]], humus, soil-biology, microorganisms, nutrient-cycling]
+tags: [biointensive, composting, humus, soil-biology, microorganisms, nutrient-cycling]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/jeavons-john-how-to-grow-more-vegetables.md]
@@ -11,8 +11,7 @@ type: concept
 # Humus and Soil Microbiology
 
 Humus is the most reliable plant food and the foundation of
-[[decomposition]] of org anic-matter. It represents the stable end
-product of [[jeavons-composting-methods]] and planting activities.
+[[jeavons-composting-methods]] and planting activities.
 
 ## Humus and Soil Fertility
 
@@ -28,25 +27,7 @@ nutrients with plant roots, but humus can hold a far greater amount.
 
 ## See Also
 
-- [[tompkins-soil-health-humus-connection]]
-## Practical Applications
-
-Humus and Soil Microbiology has a range of practical applications that make it relevant to
-both researchers and practitioners. Understanding these applications
-requires familiarity with the underlying principles and their
-manifestation in real-world contexts. The breadth of applications
-reflects the fundamental importance of this topic across disciplines.
-
-Implementation varies based on scale, available resources, and
-specific objectives. Small-scale applications may be relatively
-straightforward, while larger implementations require more careful
-planning and coordination. Adaptation to local conditions is always
-essential for achieving optimal results regardless of scale.
-
-Documented case studies provide valuable reference points, though
-each situation presents unique combinations of opportunities and
-constraints that require context-specific solutions. The most
-successful implementations combine established [[arbuscular-mycorrhizal-inoculum-production-best-practices]] with
+- [[arbuscular-mycorrhizal-inoculum-production-best-practices]] with
 creative adaptation to local conditions and emerging challenges.
 
 ## Key Considerations
@@ -97,8 +78,6 @@ through generations to modern scientific approaches, the evolution continues
 to inform current best practices and research directions.
 
 ## See Also
-- [[doc]]
 - [[det]]
-- [[composting]]
 - [[decomposition]]
 - [[mycorrhiza]]

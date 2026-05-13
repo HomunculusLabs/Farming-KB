@@ -21,11 +21,9 @@ sources:
 
 Anchusa azurea, commonly called Italian bugloss or garden anchusa, is a herbaceous perennial in the family Boraginaceae. It is prized for its intense gentian-blue flowers and coarse, hairy foliage that forms an upright clump reaching 90–150 cm in height.
 
-The species is native to the Mediterranean region and southeastern Europe, where it grows in dry meadows and rocky slopes. It has been cultivated as an ornamental since at least the 16th century and has naturalized in parts of western Europe and [[guzman-psilocybin-mushrooms-north-america]].
+The species is native to the Mediterranean region and southeastern Europe, where it grows in dry meadows and rocky slopes. It has been cultivated as an ornamental since at least the 16th century and has naturalized in parts of western Europe and [[childrens-herbal-medicine]] as an anti-inflammatory and demulcent.
 
-Like many Boraginaceae, Anchusa azurea contains pyrrolizidine alkaloids that render all parts of the plant potentially toxic if ingested in large quantities. Despite this, it has a history of use in traditional [[childrens-herbal-medicine]] as an anti-inflammatory and demulcent.
-
-The species is sometimes confused with Anchusa officinalis (common bugloss), which has smaller flowers and a more sprawling habit. Anchusa azurea can be distinguished by its taller stature and larger, more intensely blue corollas.
+The species is sometimes confused with [[anchusa-officinalis]] (common bugloss), which has smaller flowers and a more sprawling habit. Anchusa azurea can be distinguished by its taller stature and larger, more intensely blue corollas.
 
 ## Taxonomy and Morphology
 
@@ -58,7 +56,7 @@ Anchusa azurea is native to the northern Mediterranean basin, with a range exten
 
 The species favors dry, well-drained calcareous soils in full sun. Typical habitats include rocky hillsides, open woodland margins, roadsides, and disturbed ground. It tolerates drought well once established but dislikes waterlogged conditions.
 
-As a garden escape, Anchusa azurea has naturalized in parts of the United Kingdom, the [[psilocybin-north-america-pacific-northwest]] [[berry-growing]], and southern Australia. It is not considered invasive in any jurisdiction but can persist in waste areas and along fence lines.
+As a garden escape, Anchusa azurea has naturalized in parts of the United Kingdom, the [[berry-growing]], and southern Australia. It is not considered invasive in any jurisdiction but can persist in waste areas and along fence lines.
 
 Within its native range, Anchusa azurea populations are generally stable, though habitat loss from agricultural intensification has reduced some lowland occurrences. The species benefits from traditional grazing regimes that maintain open grassland habitat.
 
@@ -72,9 +70,7 @@ Plants can be propagated by seed sown in spring or by root cuttings taken in lat
 
 The main cultivar is 'Loddon Royalist', which won the RHS Award of Garden Merit. It produces deeper violet-blue flowers on compact plants reaching 90 cm. Other selections include 'Dropmore' and 'Opal', offering shades from sky-blue to violet.
 
-Plants are relatively short-lived perennials, often declining after 3–4 years. They benefit from being allowed to self-seed, as volunteer seedlings tend to be vigorous. [[jadam-pesticide-for-slugs-and-snails]] may damage young growth in spring.
-
-Anchusa azurea is susceptible to [[cervantes-powdery-mildew-prevention-treatment]] in humid conditions and crown rot in poorly drained soils. Good air circulation and sharp drainage are the most effective preventative measures.
+Plants are relatively short-lived perennials, often declining after 3–4 years. They benefit from being allowed to self-seed, as volunteer seedlings tend to be vigorous. [[cervantes-powdery-mildew-prevention-treatment]] in humid conditions and crown rot in poorly drained soils. Good air circulation and sharp drainage are the most effective preventative measures.
 
 Anchusa azurea is deer-resistant due to its bristly foliage, making it a useful choice for rural gardens. It is also reported to be rabbit-resistant, though very hungry animals may sample young shoots in spring.
 

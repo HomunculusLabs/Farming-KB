@@ -3,9 +3,7 @@ title: "Drought-Proofing Strategies for Farms and Landscapes"
 created: 2026-04-26
 tags:
   - permaculture
-  - [[water-management]]
-  - drought-resilience
-  - [[keyline-design]]
+  - keyline-design
   - landscape-planning
 date: 2026-04-25
 updated: 2026-04-25
@@ -18,9 +16,7 @@ type: concept
 # Drought-Proofing Strategies for Farms and Landscapes
 
 Mollison emphasizes that few farmers have invested in "drought-proofing"
-their land by creating gravity-fed [[irrigation-systems]] such as Keyline
-systems. This page covers the comprehensive strategies for making
-landscapes resilient to extended dry periods through [[water-conservation]],
+their land by creating gravity-fed [[water-conservation]],
 biological storage, and earthworks.
 
 ## The Water Crisis and Drought
@@ -43,22 +39,8 @@ availability.
 
 P.A. Yeomans' "Keyline" system provides drought-proofing for farms by
 using gravity-fed water distribution across the landscape. The Keyline
-plan, written in 1954, is the pioneering modern text on [[holzer-permaculture-landscape-design]]
-for water conservation and gravity-fed flow irrigation. It also involves
-patterning, [[fukuoka-textdoc-shelterbelt-design-environmental-tree-planting]], soil treatment, and fencing alignment, making
+plan, written in 1954, is the pioneering modern text on [[fukuoka-textdoc-shelterbelt-design-environmental-tree-planting]], soil treatment, and fencing alignment, making
 it the first book on functional landscape design in modern times.
-
-[[query-how-does-keyline-design-work-in-permaculture]] is covered in detail in mollison-keyline-soil-conditioning-humid-water.
-
-## Earthworks for Infiltration
-
-Cheap broadscale earthwork systems and many minor forms of earthworks
-can aid the infiltration of overland water flow. Pitting, swales, and
-water spreading are the main aids to getting fresh water to deeper
-storages for long-term use, and also to increase base flow. Diversion
-of surface flow to sand basins, dune fields, swamps, and soakage beds
-in earth-bermed fields all ensure resident water reserves for crops and
-trees.
 
 [[mollison-designers-diversion-drains-and-interceptor-banks]] and their associated valves, slides, cross-walls,
 intakes, and irrigation systems enable effective water harvesting,
@@ -88,3 +70,80 @@ proliferation of life forms where no "free" water otherwise exists. On
 atolls and arid islands of free-draining sands, the biological reserves
 are the main water reserves. Plants such as cactus, palms, and agaves
 have specific tissues or organs to store water.
+
+## Overview
+
+Mollison Drought Proofing Strategies represents an important element within sustainable
+design and [[solomon-gardening-aikido-pest-philosophy-ecological-management]] systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish mollison drought proofing strategies
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving mollison extend
+across multiple [[ingham-soil-foodweb-trophic-levels-protozoa-nematodes]] and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Mollison Drought Proofing Strategies finds practical application in multiple design contexts.
+[[mollisonian-permaculture-principles]] guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive [[livestock-grassland-management-strategies]] that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for mollison drought proofing strategies. [[jeavons-climate-adaptation-growing-seasons]]
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+mollison drought proofing strategies and its applications. Active investigation
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Mollison Drought Proofing Strategies has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of mollison drought proofing strategies into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.

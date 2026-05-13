@@ -29,14 +29,11 @@ sources:
 | Herb | Hardiness Zone | Difficulty | Time to Harvest | Anxiolytic Strength |
 |------|---------------|------------|-----------------|-------------------|
 | **Chamomile** (*Matricaria recutita*) | 2–9 | Easy | 6–8 weeks from seed | Mild–moderate |
-| **Lemon balm** (*[[melissa-officinalis]]*) | 4–9 | Easy | 4–6 weeks from transplant | Mild–moderate |
-| **Lavender** (*[[lavandula-angustifolia]]*) | 5–9 | Easy–moderate | Year 2 for full yield | Moderate |
-| **Passionflower** (*[[passiflora-incarnata]]*) | 6–10 | Moderate | Year 2 for full yield | Moderate–strong |
-| **Ashwagandha** (*[[withania-somnifera]]*) | 8–11 (annual elsewhere) | Moderate | 120–180 days | Moderate–strong |
+| **Lemon balm** (*[[lavandula-angustifolia]]*) | 5–9 | Easy–moderate | Year 2 for full yield | Moderate |
+| **Passionflower** (*[[withania-somnifera]]*) | 8–11 (annual elsewhere) | Moderate | 120–180 days | Moderate–strong |
 | **Kava** (*Piper methysticum*) | 11+ only | Difficult | 3–5 years | Strong |
 | **Holy basil / Tulsi** (*Ocimum tenuiflorum*) | 10–11 (annual elsewhere) | Easy | 6–8 weeks | Mild–moderate |
-| **Valerian** (*[[valeriana-officinalis]]*) | 4–9 | Easy | Year 2 for roots | Moderate–strong (sedative) |
-| **California poppy** (*[[eschscholzia-californica]]*) | 6–10 | Easy | 8–12 weeks from seed | Moderate |
+| **Valerian** (*[[eschscholzia-californica]]*) | 6–10 | Easy | 8–12 weeks from seed | Moderate |
 
 ## Tier 1: Easy-to-Grow, Gentle Anxiolytics
 
@@ -95,53 +92,5 @@ sources:
 
 **Growing tips**: Vigorous perennial vine — provide a trellis. Full sun to partial shade. Dies back in winter in zones 6–7; evergreen in zones 9–10. Harvest aerial parts during growing season. Some varieties produce edible fruit (maypops).
 
-**Preparation**: Tea from dried aerial parts (0.5–2 g per cup, steep 10–15 min). Tincture (1:5, 25% ethanol) at 0.5–2 mL, 3× daily. Often combined with [[valerian-growing-guide|valerian]] for sleep.
-
-### Ashwagandha
-
-**Why grow it**: The premier adaptogen. Reduces cortisol by up to 30% in studies, improves stress resilience, and has significant anxiolytic effects. Withanolides are the primary actives.
-
-**Growing tips**: Grown as an annual outside zones 8–11; needs 120–180 frost-free days. Start seeds indoors. Drought-tolerant once established. Harvest roots in autumn before first frost. Wash, split, and dry at low heat (40°C).
-
-**Preparation**: Dried root powder (300–600 mg standardized extract, 2× daily). Traditional milk decoction: simmer 1 tsp powder in milk with ghee and honey.
-
-## Tier 3: High Effort or Specialized
-
-### Kava
-
-**Why grow it**: The strongest herbal anxiolytic available. Kava produces a unique state of calm alertness through GABA modulation and is supported by extensive clinical evidence for generalized anxiety disorder.
-
-**Growing constraints**: Requires tropical conditions (zones 11+), high humidity, consistent warmth (never below 15°C), and 3–5 years to mature. Not practical for most home growers outside tropical climates. Indoor/ greenhouse cultivation is possible but demanding.
-
-**For most home growers**: Purchase dried noble kava root from reputable vendors rather than attempting cultivation. See Kava Kava — Cultivation, Ethnobotany, and Chemistry for detailed growing information.
-
-### Valerian
-
-**Why grow it**: Potent sedative and anxiolytic; valerenic acid binds GABA_A receptors. Better for anxiety that interferes with sleep than for daytime anxiety (it can be sedating).
-
-**Growing tips**:
-- Cold-hardy perennial (zones 4–9)
-- Full sun to partial shade; moist rich soil
-- Harvest roots in autumn of year 2 (year 1 roots are too small)
-- Note: flowers attract cats; plant accordingly
-- Valerian self-seeds aggressively — deadhead to prevent spread
-
-**Preparation**: Tincture preferred over tea (the tea has a notoriously strong odor). Tincture (1:5, 60% ethanol) at 2–4 mL before bed. Capsules of dried root (300–600 mg) are odor-free.
-
-## Building an Anti-Anxiety Herb Garden
-
-**Beginner (any zone)**: Chamomile (5–10 plants, direct sow), lemon balm (1–2 in pots), tulsi (3–5, start indoors), California poppy (10–20, direct sow).
-
-**Advanced (zones 6–9)**: Add lavender (3–5 along borders), passionflower (1–2 on trellis), valerian (2–3, contain spread), ashwagandha (5–10 if 120+ frost-free days).
-
-**Daily tea blend**: Equal parts dried chamomile, lemon balm, tulsi, and lavender. Steep 2 tsp in 250 mL hot water for 10 min. For stronger anxiety, add passionflower (1 part). For sleep, replace tulsi with valerian root.
-
-## Safety Notes
-
-- **Start low and go slow** — even herbs can interact with medications
-- **Consult a healthcare provider** before combining anxiolytic herbs with pharmaceuticals, especially SSRIs, benzodiazepines, or blood pressure medications
-- **Passionflower and valerian** can enhance sedative effects of other substances
-- **Ashwagandha** may affect thyroid function — monitor if you have thyroid conditions
-## See Also
-- [[query-what-are-the-best-ways-to-increase-soil-organic-matter-quickly]]
+**Preparation**: Tea from dried aerial parts (0.5–2 g per cup, steep 10–15 min). Tincture (1:5, 25% ethanol) at 0.5–2 mL, 3× daily. Often combined with [[query-what-are-the-best-ways-to-increase-soil-organic-matter-quickly]]
 - [[query-how-do-i-extend-my-growing-season-with-cold-frames-and-season-extension-techniques]]

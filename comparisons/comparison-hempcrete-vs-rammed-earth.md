@@ -21,31 +21,6 @@ requirements, material availability, and project goals.
 
 ## Hempcrete
 
-[[hempcrete-and-hemp-lime-construction]]
-
-Hempcrete (technically "hemp-lime") is made from the woody core of the
-hemp stalk (hurd or shiv) mixed with a lime-based binder and water. It is
-not a structural material — it serves as insulation and infill around a
-timber frame or other load-bearing system. The material is approximately
-one-seventh the density of conventional concrete, making it an excellent
-thermal and acoustic insulator.
-
-The lime binder carbonates over decades, gradually absorbing atmospheric
-CO₂ and hardening the material. Combined with the carbon sequestered
-during hemp growth, hempcrete is one of the few building materials that
-can genuinely claim to be carbon-negative over its lifecycle. Hemp grows
-to harvestable maturity in 100-120 days, and a single hectare can produce
-enough hurd for a modest house.
-
-Hempcrete walls are highly vapor-permeable, regulating indoor humidity
-naturally. They resist mold, pests, and fire without chemical treatments.
-The material is typically cast in place around formwork or sprayed onto
-walls, though prefabricated hempcrete blocks are also available. Curing
-requires careful moisture management, and the walls must be protected from
-driving rain during construction.
-
-## Rammed Earth
-
 [[rammed-earth]]
 
 Rammed earth construction compacts damp earth — a mixture of clay, sand,
@@ -123,28 +98,6 @@ Rammed earth suits projects where aesthetics matter. The exposed natural
 strata and warm earth tones create walls of striking beauty that need no
 plaster or paint. For permaculture-designed buildings where walls are
 integrated with passive solar strategies, earth-sheltered design, or
-[[comparison-passive-solar-vs-earth-sheltered]] approaches, rammed earth's
-thermal mass is a natural complement.
-## Combined Approaches
-
-Some designers combine both materials to exploit their complementary
-thermal properties. A rammed earth core provides structural walls and
-thermal mass, while hempcrete is applied as external insulation to boost
-thermal resistance. This hybrid captures the mass-and-insulation synergy
-that building science favours: mass inside the insulation envelope
-regulates temperature, while the insulation layer reduces heat loss.
-This combination is most effective in cold climates where pure rammed
-earth would lose too much heat. The vapour-permeability of both materials
-means the assembly breathes naturally, avoiding moisture trapping.
-
-Another approach uses rammed earth for ground-floor walls (exploiting
-thermal mass where it is most effective) and hempcrete for upper storeys
-where lighter walls reduce structural demands.
-
-## See Also
-
-- [[hempcrete-and-hemp-lime-construction]]
-- [[rammed-earth]]
+[[hempcrete-and-hemp-lime-construction]]
 - [[comparison-cob-vs-hempcrete]]
-- [[comparison-straw-bale-vs-rammed-earth]]
 - [[natural-building-materials-guide]]

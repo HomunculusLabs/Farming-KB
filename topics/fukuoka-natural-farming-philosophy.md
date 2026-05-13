@@ -26,9 +26,7 @@ modern farming. Through decades of careful observation and experimentation on hi
 family farm on the island of Shikoku, Fukuoka developed a method he called
 "natural farming" or "do-nothing farming," a system that produces rice and
 barley yields comparable to conventional agriculture while requiring no
-tillage, no [[cervantes-chemical-fertilizers-guide]], no weeding, and no pesticides or herbicides.
-His work represents one of the most thorough and philosophically grounded
-challenges to industrial agriculture in the [[coleman-louis-savier-twentieth-century-maraicher]].
+tillage, no [[coleman-louis-savier-twentieth-century-maraicher]].
 
 Fukuoka's philosophy extends far beyond agricultural technique. At its core is
 a profound critique of the human tendency to separate itself from nature and
@@ -57,29 +55,10 @@ in southern Japan. He grew up in a farming family and trained as a plant
 pathologist and microbiologist at Gifu Prefectural Agricultural College. After
 ## See Also
 
-[[four-principles-of-natural-farming]] - The four principles in detail
 [[clay-seed-balls-tsuchi-dango]] - Seed ball technique and applications
-[[fukuoka-no-tillage-direct-seeding-history]] - History of Fukuoka's no-till
 [[fukuoka-direct-seeded-no-tillage-rice-barley-method]] - The rice-barley system
-[[fukuoka-soil-self-improvement-without-tillage]] - Soil improvement without
-tillage
 [[fukuoka-why-tillage-destroys-soil]] - Fukuoka on tillage damage
-[[cover-cropping-natural-farming]] - Cover crops in natural farming
-permaculture-two-design-principles - Related permaculture design principles
-
-## References
-
-- Fukuoka, Masanobu. "The One-Straw Revolution: An Introduction to Natural
-  Farming." Rodale Press, 1978. (Originally published in Japanese, 1975)
-- Fukuoka, Masanobu. "The Natural Way of Farming: The Theory and Practice of
-  Green Philosophy." Japan Publications, 1985.
-- Fukuoka, Masanobu. "Sowing Seeds in the Desert: Natural Farming, Global
-  Restoration, and Ultimate Food Security." Chelsea Green Publishing, 2012.
-- Fukuoka, Masanobu. "The Road Back to Nature: Regaining the Paradise Lost."
-  Japan Publications, 1987.
-## Four Principles Of Natural Farming Fukuoka
-
-# Four Principles of Natural Farming The four principles of natural farming are a set of foundational precepts formulated by Japanese farmer and philosopher Masanobu Fukuoka (1913-2008) as the basis of his "do-nothing" agricultural method. First articulated in his 1976 work *Shizen Noho* (*The Natural Way of Farming: The Theory and Practice of Green Philosophy*), the principles represent a radical departure from both conventional scientific agriculture and mainstream [[organic-farming-methods-comparison]]. The four principles are: **no cultivation** (no tillage), **no fertilizer**, **no weeding**, and **no pesticides**. Together, they constitute an integrated philosophy in which farming proceeds by eliminating human intervention rather than by adding techniques or inputs. Fukuoka spent over forty years refining and demonstrating these principles on his farm on the island of Shikoku, Japan, achieving yields comparable to or exceeding those of scientifically managed farms while drastically reducing labor, costs, and environmental impact. ...
+[[organic-farming-methods-comparison]]. The four principles are: **no cultivation** (no tillage), **no fertilizer**, **no weeding**, and **no pesticides**. Together, they constitute an integrated philosophy in which farming proceeds by eliminating human intervention rather than by adding techniques or inputs. Fukuoka spent over forty years refining and demonstrating these principles on his farm on the island of Shikoku, Japan, achieving yields comparable to or exceeding those of scientifically managed farms while drastically reducing labor, costs, and environmental impact. ...
 
 ## Fukuoka Greening Deserts
 
@@ -87,7 +66,7 @@ permaculture-two-design-principles - Related permaculture design principles
 
 ## Fukuoka Natural Diet Principles
 
-# Fukuoka Natural Diet Principles [[masanobu-fukuoka]] extended his natural farming philosophy — as detailed in [[fukuoka-one-straw-revolution-philosophy]] — to encompass diet and human health. For Fukuoka, the relationship between farming and diet was inseparable: if one is to eat a diet that is closely connected to the soil, one cannot remain a mere observer of the natural world. His dietary principles challenge modern industrial food systems and propose a framework for eating that is as radically simple as his farming methods. Food, for Fukuoka, was not merely nutrition but a medium through which humans maintain their connection to nature and place. The act of eating is the most direct and frequent point of contact between human beings and the natural world, occurring three or more times daily throughout an entire lifetime. ...
+# Fukuoka Natural Diet Principles [[fukuoka-one-straw-revolution-philosophy]] — to encompass diet and human health. For Fukuoka, the relationship between farming and diet was inseparable: if one is to eat a diet that is closely connected to the soil, one cannot remain a mere observer of the natural world. His dietary principles challenge modern industrial food systems and propose a framework for eating that is as radically simple as his farming methods. Food, for Fukuoka, was not merely nutrition but a medium through which humans maintain their connection to nature and place. The act of eating is the most direct and frequent point of contact between human beings and the natural world, occurring three or more times daily throughout an entire lifetime. ...
 
 ## Fukuoka Natural Orchard Ground Cover
 
@@ -143,7 +122,7 @@ permaculture-two-design-principles - Related permaculture design principles
 
 ## Fukuoka Textdoc Straw Mulching Rice Barley Cropping
 
---- title: Straw Mulching in Natural Rice Barley Cropping tags: - fukuoka - natural-farming - straw-mulch - rice - barley - no-tillage - direct-seeding - weed-control - soil-enrichment - organic-matter - clover-revolution date: 2026-04-28 updated: 2026-04-28 sources: - administrator-microsoft-word-fukuoka-textdoc.md --- # Straw Mulching in Natural Rice Barley Cropping The scattering of uncut rice and barley straw over the field surface is the cornerstone practice of Fukuoka's natural rice-barley succession cropping system. What appears crude and backward to the scientific eye is, in Fukuoka's view, "quite a bold and revolutionary step in rice farming." The practice simultaneously promotes seed germination, suppresses winter weeds, enriches the soil, and eliminates the need for composting — making it the single operation that most clearly distinguishes natural farming from both [[jadam-conventional-and-organic-pesticide-integration]] agriculture. ## The Conventional Wisdom Against Fresh Straw At the time Fukuoka began experimenting, no farmer spread fresh straw on his paddy fields. Agricultural experts strictly forbade the practice, fearing that rice straw left on the paddy would harbor and spread [[stamets-mushroom-disease-pathogens-contaminants]]. The agricultural technician had always regarded rice straw as nothing but a source of rice diseases and pests. ...
+--- title: Straw Mulching in Natural Rice Barley Cropping tags: - fukuoka - natural-farming - straw-mulch - rice - barley - no-tillage - direct-seeding - weed-control - soil-enrichment - organic-matter - clover-revolution date: 2026-04-28 updated: 2026-04-28 sources: - administrator-microsoft-word-fukuoka-textdoc.md --- # Straw Mulching in Natural Rice Barley Cropping The scattering of uncut rice and barley straw over the field surface is the cornerstone practice of Fukuoka's natural rice-barley succession cropping system. What appears crude and backward to the scientific eye is, in Fukuoka's view, "quite a bold and revolutionary step in rice farming." The practice simultaneously promotes seed germination, suppresses winter weeds, enriches the soil, and eliminates the need for composting — making it the single operation that most clearly distinguishes natural farming from both [[stamets-mushroom-disease-pathogens-contaminants]]. The agricultural technician had always regarded rice straw as nothing but a source of rice diseases and pests. ...
 
 ## Fukuoka Textdoc Sword Fighting Analogy Three Ways Farming
 

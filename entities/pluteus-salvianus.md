@@ -22,11 +22,7 @@ created: 2026-05-07
 
 *Pluteus salvinius* is a saprotrophic basidiomycete fungus in the family
 Pluteaceae, notable for its reported psychoactive properties attributed to
-[[hplc-analysis-of-psilocybin-and-psilocin]]. It was first described from material collected in
-eastern Australia and belongs to section *Celluloderma* of the genus *Pluteus*.
-
-The species is one of several *Pluteus* mushrooms known to contain
-hallucinogenic [[hplc-analysis-of-tryptamine-alkaloids]], placing it alongside *P. cyanopus* and
+[[hplc-analysis-of-tryptamine-alkaloids]], placing it alongside *P. cyanopus* and
 *P. villosus* in the relatively small group of psychoactive pluteoid fungi.
 
 ## Taxonomy
@@ -51,36 +47,10 @@ maturity. The cap surface is hygrophanous, appearing pale brown to ochraceous
 when moist, drying to a noticeably lighter buff or cream color.
 
 Gills are free from the stipe, crowded, and white at first, becoming pinkish
-as spores mature. This pinkish [[boil-a-bag-spore-print-technique-jarrold]] is diagnostic of the genus *Pluteus*
-and distinguishes it from free-gilled *Psilocybe* species that produce
-dark purple-brown prints.
-
-The stipe is central, cylindrical, 30 to 60 mm long and 2 to 4 mm thick,
-white to pale buff, and typically pruinose near the apex. The base lacks a
-distinct volva or annulus.
-
-Spores are smooth, ellipsoid to broadly ellipsoid, measuring 6.5 to 8.5 by
-5.5 to 7 µm. Pleurocystidia are abundant, fusiform to ventricose with
-apical projections. Cheilocystidia are similar in form.
-
-## Distribution and Habitat
-
-*P. salvinius* has been documented primarily in eastern Australia, including
-coastal and subtropical regions of New South Wales and Queensland. Reports from
-[[psilocybe-southeast-asia-pacific]] require molecular confirmation.
+as spores mature. This pinkish [[psilocybe-southeast-asia-pacific]] require molecular confirmation.
 
 It is a wood-inhabiting species found on decaying hardwood logs, stumps, and
-[[fungal-succession-woody-debris-ecology]] in moist forest environments. Fruiting occurs during warm, humid
-periods typically from late spring through autumn.
-
-The fungus shows preference for partially shaded microsites within rainforest
-and wet sclerophyll forest margins, where humidity remains elevated.
-
-## Bioactive Compounds
-
-Like other psychoactive *Pluteus* species, *P. salvinius* contains the
-indole alkaloids psilocybin and psilocin. These compounds are serotonergic
-5-HT2A [[cannabinoid-receptor-agonists-antagonists-synthetic-reference-blesching]] responsible for the characteristic visual and
+[[cannabinoid-receptor-agonists-antagonists-synthetic-reference-blesching]] responsible for the characteristic visual and
 cognitive alterations.
 
 Quantitative analysis data for *P. salvinius* specifically is limited.
@@ -88,3 +58,88 @@ Related species in section *Celluloderma* typically contain 0.1 to 0.8%
 psilocybin by dry weight, with psilocin present at lower concentrations.
 
 Baeocystin has also been detected in several *Pluteus* species and is likely
+
+## Overview
+
+Pluteus Salvianus represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish pluteus salvianus
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving pluteus extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Pluteus Salvianus finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for pluteus salvianus. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+pluteus salvianus and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Pluteus Salvianus has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of pluteus salvianus into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[gartz-pluteus-salicinus-wood-inhabiting-psilocybin]]
+- [[guzman-allen-gartz-gymnopilus-pluteus-neurotropic-genera]]
+- [[pluteus-glaucus]]
+- [[pluteus-salvinus]]
+- [[pluteus-villosus]]

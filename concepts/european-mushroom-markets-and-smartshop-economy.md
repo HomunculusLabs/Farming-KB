@@ -1,22 +1,6 @@
 ---
 title: European Mushroom Markets And Smartshop Economy
-source: [[emcdda-hallucinogenic-mushrooms-emerging-trend-europe]] Paper
-tags:
-  - mycology
-  - economics
-  - emcdda
-  - smartshops
-  - psilocybin
-  - market-analysis
-  - europe
-  - drug-policy
----
-
-# European Mushroom Markets and Smartshop Economy
-
-## Overview
-
-The European market for [[emcdda-eu-legislative-timeline-hallucinogenic-mushrooms-2001-2006]] evolved from an informal
+source: [[emcdda-eu-legislative-timeline-hallucinogenic-mushrooms-2001-2006]] evolved from an informal
 underground activity into a structured retail economy spanning physical shops,
 delivery services, and online commerce. The EMCDDA documented the rapid
 expansion and subsequent regulatory challenges of this market through the
@@ -48,24 +32,7 @@ achieved in the Netherlands.
 
 Beyond dedicated smartshops, hallucinogenic mushrooms and related products
 were also sold through headshops (cannabis paraphernalia) and growshops
-([[gottlieb-psilocybin-cultivation-equipment-and-facilities]]). This multi-channel distribution expanded market
-reach and normalized access to psychoactive fungi.
-
-## United Kingdom Market
-
-The UK developed a substantial mushroom retail market prior to the 2005 ban.
-An estimated 300 shops and market stalls sold fresh mushrooms, generating
-approximately £1 million in annual turnover with an estimated £175,000 in
-tax revenue. The ban fundamentally disrupted this market, though online and
-underground sales continued afterward.
-
-## Online Internet Shops
-
-The proliferation of internet shops represented a major expansion of the
-mushroom market across Europe. Online retailers reached customers in
-countries where physical retail was restricted, creating a borderless
-commercial environment difficult for national regulators to control. Websites
-marketed [[query-how-can-i-grow-mushrooms-alongside-garden-vegetables]] other "herbal highs" with detailed user guides
+([[query-how-can-i-grow-mushrooms-alongside-garden-vegetables]] other "herbal highs" with detailed user guides
 and dosage information.
 
 ## Brand Names and User Terminology
@@ -118,8 +85,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[doc]]
 - [[psilocybin]]
-- [[dom]]
 - [[det]]
 - [[smartshops]]

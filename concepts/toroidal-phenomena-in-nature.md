@@ -8,54 +8,12 @@ type: concept
 
 ## Overview
 
-Toroidal phenomena — the rolling doughnut-shaped forms called tori — are among the most widespread and fundamental patterns in nature. Implicit in core [[bill-mollison-permaculture-a-designers-manual-edge-effect-and-ecotone-design]] design models and visible in phenomena ranging from atomic explosions to the nutrient cycling of trees, tori represent closed three-dimensional vortices that organize energy and material flow. Understanding toroidal forms gives designers insight into how [[query-what-are-the-different-fruit-tree-training-systems-and-which-should-i-use]] close their loops, how energy accumulates and dissipates, [[query-what-are-root-exudates-and-how-do-they-shape-soil-life]] biological and physical processes maintain their cycling integrity.
-
-## The Torus as a Universal Form
-
-A torus is generated when flow curves back on itself, creating a self-contained circulating system. It can arise from:
-- **Discontinuous or explosive flow** — such as the initial detonation of an atomic explosion
-- **Pulses in flow** — such as the rhythmic thermal updrafts that power soaring birds
-- **Continuous cycling** — such as the nutrient cycle of a tree, where crown-drip carries nutrients to the ground and roots return them via the stem
-
-Photographic stills of atomic explosions reveal violently rotating tori crowning the ascending column of smoke and debris. Atmospheric thermals over deserts on hot afternoons generate toroidal forms greatly appreciated by soaring birds and glider pilots, who ride the inner (ascending) circle of these doughnuts of hot air.
-
-## Manifestations Across Scales
-
-### Biological Tori
-
-- **Tree nutrient cycles**: Around any tree stem, a slow-cycling torus of nutrients circulates — falling as crown-drip and leaf litter, decomposing in the soil, and being taken up again by roots.
-- **DNA structure**: DNA is portrayed as encircling an imaginary torus, with its helical form winding around this fundamental shape.
-- **Sea snail egg masses**: Some marine organisms produce physical toroidal structures, such as the egg masses of certain sea snails.
-- **Cellular processes**: Many life forms produce tori as part of their reproductive or metabolic strategies.
-
-### Physical and Cosmic Tori
-
-- **Smoke rings and exhaust puffs**: Deliberately blown smoke rings or diesel exhaust puffs are familiar examples of toroidal flow.
-- **Black holes**: A closed toroidal form found in black holes shows accretion of matter causing gaseous ejection at the poles.
-- **Auroras**: The earth gathers the violent energy of ionized particles that form the auroras, visible as polar tori in satellite images. Even the long curtains of the auroras seen from the ground contain vertical spiral columns.
-- **Robinson Congruence**: A complex toroidal form portraying the [[fukuoka-transcending-time-space-no-plan-best-plan]]-time structure of a massless particle such as a proton, representing annidated (nested) tori.
+Toroidal phenomena — the rolling doughnut-shaped forms called tori — are among the most widespread and fundamental patterns in nature. Implicit in core [[query-what-are-the-different-fruit-tree-training-systems-and-which-should-i-use]] close their loops, how energy accumulates and dissipates, [[fukuoka-transcending-time-space-no-plan-best-plan]]-time structure of a massless particle such as a proton, representing annidated (nested) tori.
 - **O-rings and tires**: Human technology relies on the torus of rubber to inflate tires and seal circular hatches.
 
 ## The Torus as a Special Case
 
-A torus is a special or truncated case of the Overbeck jet (a broader flow phenomenon [[bill-mollison-permaculture-a-designers-manual-pattern-understanding-in-permaculture]]'s pattern language). In the same way that a foetus is a truncated "tree," a torus can be seen as a tree-form closed back on itself. It represents the endpoint of flow that has curved completely around to reconnect with its origin, creating a self-sustaining cycle.
-
-### The Möbius Strip
-
-A Möbius strip — a one-sided twisted toroid often portrayed by M.C. Escher in his art — enables crossing an edge without lifting your pencil. This topological curiosity, related to the torus family, demonstrates how twisted surfaces can create single continuous surfaces from what appear to be two-sided forms, with implications for understanding connectedness in natural systems.
-
-## Closed Spherical Models: Accretion and Expulsion
-
-### Planetary and Cosmic Bodies
-
-Although trees (including tree roots) may approach spherical form, the best examples of closed models are found in spherical bodies in space. These bodies deflect light, dust, and gas towards them, and may capture materials. In their early formation, they may have had dense cores that assembled their share of galactic materials, and around these cores a torus of matter at low or high speed rotation can form.
-
-As matter accumulates, bodies can respond by:
-1. **Becoming more dense** — to a limit of 10^9 g/cm³
-2. **Swelling or expanding** — producing shatter effects
-3. **Ejecting material at the poles**
-
-Any combination of these responses depends on the state of the matter attached or attracted to the core. For pulsars, the ejection is radio waves; for black holes, high-speed gas plumes; for trees, expansion and transpiration (not localized to the axis of [[query-what-are-phytohormones-and-how-do-they-affect-plant-growth]]).
+A torus is a special or truncated case of the Overbeck jet (a broader flow phenomenon [[query-what-are-phytohormones-and-how-do-they-affect-plant-growth]]).
 
 ### Polar Asymmetry
 
@@ -85,10 +43,7 @@ If hills wear down, the antepenultimate surfaces produce their lateral, two-dime
 
 Understanding toroidal phenomena informs several permaculture design strategies:
 
-1. **Closing nutrient loops**: Design systems where outputs become [[query-how-do-i-use-knf-inputs-through-the-plant-growth-cycle]] — the torus is the model for closed-cycle design.
-2. **Thermal mass and convection**: Use the principle of atmospheric thermal tori to design passive ventilation and cooling systems.
-3. **Polar ejection in composting**: Design compost systems with specific orientation to optimize gas exchange and heat dissipation.
-4. **Multi-scaled cycling**: Recognize that toroidal cycles operate at all scales — from the molecular to the planetary — and [[query-how-do-i-design-a-duck-pond-system-for-permaculture]]ccordingly.
+1. **Closing nutrient loops**: Design systems where outputs become [[query-how-do-i-design-a-duck-pond-system-for-permaculture]]ccordingly.
 
 The torus teaches us that nature's most stable and efficient systems are those that fold back on themselves, creating continuous cycles of accumulation and release without external input.
 
@@ -97,3 +52,88 @@ The torus teaches us that nature's most stable and efficient systems are those t
 - New Scientist, 4 April 1985, pp. 12–16 — models of spherical bodies and toroidal accretion.
 - Vogel, S. (1981). *Life in Moving Fluids* — biological adaptations to flow environments.
 - Bohm, D. (1980). *Wholeness and the Implicate Order* — the philosophical framework underlying interconnected pattern phenomena.
+
+## Overview
+
+Toroidal Phenomena In Nature represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish toroidal phenomena in nature
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving toroidal extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Toroidal Phenomena In Nature finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for toroidal phenomena in nature. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+toroidal phenomena in nature and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Toroidal Phenomena In Nature has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of toroidal phenomena in nature into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[implicate-order-and-unity-of-phenomena]]
+- [[mckenna-radio-entelechy-dmt-onset-acoustic-phenomena]]
+- [[phase-transitions-and-critical-phenomena]]
+- [[toroidal-phenomena-and-spherical-accretion]]
+- [[toroidal-phenomena-and-spherical-accretion-models]]

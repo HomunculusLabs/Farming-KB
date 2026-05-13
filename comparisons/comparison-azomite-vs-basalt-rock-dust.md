@@ -19,32 +19,6 @@ the right amendment for their specific soil conditions and crop needs.
 
 ## Azomite
 
-[[azomite-mineral-amendment]]
-
-Azomite is a hydrated sodium calcium aluminosilicate mined from a single
-volcanic ash deposit near Nephi, Utah. Formed when volcanic ash settled
-in an ancient inland sea roughly 30 million years ago, it contains over
-70 minerals and rare earth elements. This exceptionally broad elemental
-spectrum distinguishes Azomite from most single-source rock dusts. The
-product has been commercially available since the 1940s and carries OMRI
-approval for certified organic production.
-
-Its mineral profile is dominated by silicon (30-35%), aluminum (8-12%),
-calcium (4-6%), and iron (2-4%), with notable sodium content (1-3%) that
-is higher than most basalt products. Azomite also contains rare earth
-elements such as lanthanum, cerium, and neodymium — trace constituents
-not commonly found in other agricultural rock dusts. These rare earth
-elements may play subtle roles in plant enzyme function and microbial
-activity, though research is still emerging.
-
-Azomite is typically applied at 0.5-1 kg per 10 square meters in
-vegetable gardens, or 0.5-2 kg per fruit tree spread within the drip
-line. It is available in micronized, granulated, and pelletized forms
-to suit different application methods, from foliar spraying to broad-acre
-spreading.
-
-## Basalt Rock Dust
-
 [[basalt-rock-dust-agriculture]]
 
 Basalt rock dust is ground from basalt, the most common extrusive igneous
@@ -133,8 +107,6 @@ the benefits of both without overloading any single mineral pathway.
 
 ## See Also
 
-- [[rock-dust-minerals]]
 - [[rock-dust-soil-remineralization]]
-- [[rock-dusts-and-soil-remineralization]]
 - [[kelp-meal-fertilizer]]
 - [[jadam-natural-mineral-leaching-and-replenishment]]

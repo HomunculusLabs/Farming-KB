@@ -11,67 +11,10 @@ type: entity
 # Psilocybe fimetaria
 
 **Type:** Species (Fungus)
-**Category:** Basidiomycota, [[psilocybin-mushroom]] that
-favors [[falconer-horse-manure-varieties]] and rich grassland soils. Named for its dung
-habitat (fimetaria = "of dung"), it is known from [[psilocybin-north-america-pacific-northwest]],
-Europe, and Chile, often fruiting in large rings during autumn. The
-species bears a fairly persistent, superior membranous annulus and
-bruisies bluish when injured, distinguishing it from similar
-Psilocybe species. A close relative, P. subfimetaria, tends not to be
-sharply papillate and has smaller spores.
-
-## Key Details
-- **Cap:** 0.5-2.5 (3.6) cm broad. Conic to convex, subcampanulate,
-  expanding to broadly convex with sharp papilla. Smooth to
-  translucent-striate near margin, viscid from thick separable
-  gelatinous pellicle. Pale reddish brown to honey to ochraceous,
-  hygrophanous, fading to yellowish olive or buff. Flesh whitish,
-  bruising bluish.
-- **Gills:** Adnate, sometimes sinuate or uncinate. Whitish clay at
-  first, eventually dark purplish brown at maturity, whitish edges.
-- **Stem:** 20-65 (90) mm long by 1-3 (4) mm thick. Equal to slightly
-  swollen at base. Whitish at first, soon reddish brown or honey
-  colored, sometimes grayish bluish green tones. Whitish fibrillose
-  patches to fairly persistent superior membranous annulus from
-  thickly cortinate partial veil.
-- **Spores:** Dark purplish brown in deposit, subellipsoid to ellipsoid,
-  9.5-14 (16) x 6.5-8.5 (9.5) um. Basidia 4-spored. Pleurocystidia
-  absent. Cheilocystidia 20-32 x 4-8 um, ventricose-fusiform.
-- **Habitat:** Solitary to gregarious on horse manure, grassy areas,
-  or rich soils. Often fruits in large rings. Canada (BC, New
-  Brunswick), Pacific NW (WA, OR, ID), Chile, Britain, Europe
-  (Finland, Norway, Czech Republic). Generally October-November.
-- **Chemistry:** Moderately active. Psilocybin present, bluing
-  reaction upon injury confirms activity.
-
-## Distribution and Ecology
-Psilocybe fimetaria has a wide geographic distribution spanning
-North America (Canada: BC and New Brunswick; Pacific NW: WA, OR, ID),
-Europe (Britain, Finland, Norway, Czech Republic), and South America
-(Chile). It typically fruits from October through November in the
-Northern Hemisphere, though Chilean collections have been made in
-August. The species often fruits in large rings ([[bloomfield-fairy-rings-armillaria-giant-fungi]]), a
-pattern indicating extensive underground [[psilocybe-semilanceata]]
-- [[psilocybe-southeast-asia-pacific]]
-- [[psilocybe-southeast-asia-pacific]]
-- psilocybe serbica
-## Practical Considerations
-
-When working with psilocybe fimetaria, several practical factors should be
-carefully considered to achieve optimal results. These include
-the specific conditions of the implementation context, available
-resources, timing requirements, and the interactions between this
-topic and other elements of the broader system. A holistic view
-that considers these interconnections produces better outcomes.
-
-Environmental conditions such as temperature, moisture, and
-seasonal patterns significantly influence results. Monitoring these
-variables and adapting practices accordingly is essential for success.
-The most effective practitioners develop keen observation skills and
-respond flexibly to changing conditions rather than following rigid
-protocols regardless of circumstances or local variation.
-
-[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
+**Category:** Basidiomycota, [[falconer-horse-manure-varieties]] and rich grassland soils. Named for its dung
+habitat (fimetaria = "of dung"), it is known from [[bloomfield-fairy-rings-armillaria-giant-fungi]]), a
+pattern indicating extensive underground [[psilocybe-southeast-asia-pacific]]
+- [[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -88,3 +31,88 @@ Building resilience into implementations through diversity, redundancy,
 and adaptive capacity helps buffer against unpredictable events and
 conditions. This approach recognizes that some degree of uncertainty is
 inherent in working with natural systems and plans accordingly rather
+
+## Overview
+
+Psilocybe Fimetaria represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish psilocybe fimetaria
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving psilocybe extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Psilocybe Fimetaria finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for psilocybe fimetaria. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+psilocybe fimetaria and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Psilocybe Fimetaria has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of psilocybe fimetaria into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[psilocybe-caeruleoannulata]]
+- [[psilocybe-ovoidocystidiata]]
+- [[psilocybe-phyllogena]]
+- [[psilocybe-semilanceata-worldwide-temperate-distribution-guzman-1998]]
+- [[psilocybe-species-europe]]

@@ -16,16 +16,12 @@ sources:
 # Mushroom Processing and Preservation Techniques
 
 Because mushrooms are highly perishable, strategies for conservation and processing are
-essential for any mushroom farming enterprise. The FAO [[mushroom-cultivation-disabilities-training-manual-overview]] describes several
-processing techniques suitable for small-scale rural operations, including drying,
-fermentation, pickling, and sweet preparation. These techniques add value to mushrooms and
-extend their marketable [[psilocybin-shelf-life-stability]] far beyond that of fresh produce.
+essential for any mushroom farming enterprise. The FAO [[psilocybin-shelf-life-stability]] far beyond that of fresh produce.
 
 ## The Need for Processing
 
 Mushrooms cannot keep for long and must be sold quickly following
-[[mushroom-cultivation-basics]]
-- [[mushroom-cultivation-fruiting-chambers]]
+[[mushroom-cultivation-fruiting-chambers]]
 - [[mushroom-genetics-strain-selection]]
 ## Practical Applications
 

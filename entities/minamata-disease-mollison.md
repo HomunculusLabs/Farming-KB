@@ -76,14 +76,8 @@ all influence the optimal approach to implementation.
 
 ## See Also
 
-- [[bloomfield-apple-orchard-fungal-disease-devastation]]
 - [[cannabis-disease-pest-resistance-breeding-clarke]]
-- [[cannabis-for-parkinsons-disease]]
 - [[compost-tea-disease-suppression]]
-- [[white-muscle-disease]]
-
-## See Also
 - [[white-muscle-disease-mollison]]
 
-- [[bill-mollison]]
 - [[biogas-digester]]

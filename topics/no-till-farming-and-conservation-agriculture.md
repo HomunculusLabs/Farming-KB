@@ -52,31 +52,7 @@ roots possessed tiny mouths that consumed soil particles.
 
 Believing that finer soil particles would be easier for roots to ingest, he
 developed a horse-drawn hoe to break up the earth. His writings later caught
-the attention of [[tompkins-george-washington-carver-plant-alchemy]] and Thomas Jefferson, who encouraged their
-fellow Americans to adopt intensive soil breaking. The end result is that most
-gardeners and farmers around the world still turn over their soil at least
-annually, even though we now know that plant roots absorb dissolved mineral
-ions through osmosis and active transport, not by ingesting soil particles.
-The cultural practice of annual tillage persisted long after its theoretical
-justification was disproven, sustained by the short-term appearance of
-productivity that freshly tilled soil provides.
-
-## The Ecological Cost of Tillage
-
-The damage caused by habitual tillage operates on several levels
-simultaneously, affecting physical structure, biological communities, and
-chemical processes in the soil. Mechanically inverting the soil destroys the
-network of fungal hyphae that extends through it, severing the mycorrhizal
-connections between plants and the nutrient-mining infrastructure those fungi
-provide. Earthworm tunnels, which serve as natural drainage channels and
-aeration pathways, are collapsed and fragmented. The pores between soil
-aggregates, which allow water infiltration and gas exchange, are obliterated.
-
-While freshly tilled soil appears fluffy and workable, this condition is
-transient. The first rainfall or irrigation event begins a compaction cycle
-that spirals downward with each subsequent watering. The soil food web, the
-complex community of bacteria, fungi, protozoa, nematodes, microarthropods, and
-larger organisms that drives [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]], is severely disrupted each time
+the attention of [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]], is severely disrupted each time
 the soil is turned. Populations of beneficial organisms are reduced, their
 habitat is destroyed, and the ecological relationships that drive healthy soil
 function are set back.
@@ -88,23 +64,7 @@ a biological system rather than an inert substrate. In undisturbed soils,
 fungal hyphae form extensive networks that connect plant roots to distant
 nutrient sources, particularly phosphorus and micronutrients that are otherwise
 inaccessible. Mycorrhizal fungi extend the effective root zone of their host
-plants by orders of magnitude and serve as conduits for [[plant-hormones-and-chemical-signaling-systems]]
-between plants while contributing to the formation and stabilization of soil
-aggregates, the crumb-like structures that give healthy soil its desirable
-texture, water-holding capacity, and resistance to erosion.
-
-When soil is tilled, these hyphal networks are physically severed. The fungal
-biomass that took months or years to establish is destroyed in minutes.
-Because fungi are slower-growing than bacteria, and because tillage creates
-conditions that favor bacterial dominance by exposing buried organic matter to
-oxygen, repeated tillage shifts the soil microbiome progressively away from
-fungal dominance and toward bacterial dominance. In natural ecosystems such as
-forests and prairies, fungal biomass typically equals or exceeds bacterial
-biomass. In intensively tilled agricultural soils, the ratio is often inverted,
-with consequences for soil structure, nutrient cycling efficiency, and the
-capacity to support diverse plant communities.
-
-John Dighton, in his work on fungi in [[fungal-ecosystem-processes-overview]], described the three
+plants by orders of magnitude and serve as conduits for [[fungal-ecosystem-processes-overview]], described the three
 primary roles that fungi play in soil: as pathogens detrimental to plant
 growth, as mycorrhizae that help plants obtain nutrients and provide defense,
 and as endophytes that improve plant nutrition and defend against herbivory.
@@ -126,24 +86,6 @@ conditions that favor both root growth and microbial activity.
 ## Fukuoka's Natural Farming as No-Till Prototype
 
 Masanobu Fukuoka, the Japanese farmer and philosopher whose work became one of
-the most influential arguments against tillage in the [[coleman-louis-savier-twentieth-century-maraicher]],
-observed the dynamics of soil damage firsthand over decades of experimentation
-on his farm in Shikoku. His fields had not been plowed or turned in over
-thirty years, yet he consistently harvested close to twenty-two bushels of
-rice and twenty-two bushels of winter grain per quarter-acre, yields that met
-or exceeded those of neighboring conventional farms. His method, which he
-described as "do-nothing farming," relied on broadcasting clover and winter
-grain among ripening rice heads before the autumn harvest, scattering rice
-straw uncut over the field after threshing, and encasing rice seeds in small
-clay pellets that were broadcast over the mulch layer before winter.
-
-White clover served as a permanent living mulch, fixing atmospheric nitrogen,
-suppressing weeds through competition, and maintaining soil moisture. Rice
-straw, scattered uncut over the field after harvest, provided a carbon-rich
-surface mulch that decomposed slowly, feeding soil organisms and protecting the
-## See Also
-
-- [[mollison-designers-community-garden-design-urban-permaculture]]
-- [[bill-mollison-permaculture-a-designers-manual-aquaculture-and-water-systems]]
+the most influential arguments against tillage in the [[mollison-designers-community-garden-design-urban-permaculture]]
 - [[bill-mollison-permaculture-a-designers-manual-forest-gardens-and-food-forests]]
 - [[mollison-phosphorus-cycling-and-conservation-in-permaculture-systems]]

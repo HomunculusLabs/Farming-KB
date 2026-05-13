@@ -9,51 +9,7 @@ type: concept
 Elements from the periodic table play critical roles in soil health, plant nutrition, and
 ecological balance. Understanding these elements through a permaculture lens — their
 sources, cycles, interactions, and toxicity thresholds — is fundamental to designing
-productive and resilient systems. The following covers key elements from [[bill-mollison]]'s
-*Permaculture: A Designers' Manual*.
-
-## Hydrogen (H)
-
-Hydrogen is a mobile, highly reactive gas underpinning critical soil and biological
-processes. Its ionic form (H⁺) is the primary determinant of soil pH, balanced against
-the OH⁻ radical. Combined with oxygen it forms water; with carbon it produces methane
-(CH₄) through anaerobic decomposition in compacted or boggy soils.
-
-A sulphurous smell is a reliable indicator of wet-season waterlogging and anaerobic
-conditions, signalling the need for drainage or aeration. Certain plants — algae and
-rushes — transpire hydrogen and can break down halogenated hydrocarbons found in
-pesticides, offering biological remediation of contaminated soils.
-
-**Design notes:** Monitor for sulphurous odours as anaerobic indicators. Use wetland
-plants in filtration and remediation zones. Manage compaction to prevent methane-
-producing anaerobic zones.
-
-## Lithium (Li)
-
-Lithium is the lightest metal and occurs naturally in plant and animal tissues. In
-medicine, it moderates nerve impulse transmission in hyperactive individuals. While not
-a primary plant nutrient, its presence in biological tissues suggests subtle ecological
-roles not yet fully understood within permaculture design.
-
-## Boron (B)
-
-Boron is a trace element essential to brassicas and beets, playing a critical role in
-sugar transport, pollen formation, and cell wall structure. Application rates are
-precise: borax at approximately 160 g/ha on beet and brassica crops. The ideal soil
-concentration is 0.75 ppm; levels above 1.0 ppm become toxic. Dry years increase
-toxicity risk, especially on marine-sediment-derived soils. Boron-containing detergents
-can also contribute to problematic accumulation in soils and waterways.
-
-**Design notes:** Apply boron judiciously — the sufficiency-toxicity margin is narrow.
-Be cautious in dry years and on marine-derived soils. Minimise boron pollution by
-avoiding boron-laden detergents in greywater systems irrigating food crops.
-
-## Carbon (C)
-
-Carbon is the fundamental building block of life, forming hydrocarbons with hydrogen
-and oxygen. In permaculture soils, carbon is added as humus, compost, and mulch. It
-constitutes approximately 58% of organic matter, mostly in colloidal form providing soil
-structure, water retention, and [[cation-exchange-capacity]].
+productive and resilient systems. The following covers key elements from [[cation-exchange-capacity]].
 
 Maintaining 10–20% humus ensures good soil structure. Above 50% humus, heavy metal
 uptake by plants is significantly inhibited — useful in contaminated landscapes. Below
@@ -93,7 +49,7 @@ creating harmful anaerobic conditions.
 
 Deep loose soils are particularly important for walnuts, oranges, chestnuts, and
 potatoes. Large soil pores — critical for root penetration, water infiltration, and gas
-exchange — are achieved only through soil life and perennial crop root systems.
+exchange — are achieved only through [[soil-life]] and perennial crop root systems.
 
 **Design notes:** Maintain 12–30% air-filled pore space via biological and mechanical
 aeration. Use deep-rooted perennials and earthworms as primary aeration tools. Design
@@ -129,6 +85,5 @@ reduce heavy metal intake from marginally contaminated produce.
 
 ## See Also
 
-- [[bill-mollison-permaculture-a-designers-manual-soil-and-humus-management]]
 - [[mollison-designers-humus-building-and-soil-organic-matter]]
 - [[bill-mollison-permaculture-a-designers-manual-edge-effect-and-ecotone-design]]

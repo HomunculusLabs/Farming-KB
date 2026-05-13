@@ -1,7 +1,7 @@
 ---
 title: Fukuoka Food Strategic Weapon Seed Rice Geopolitics
 source: administrator-microsoft-word-fukuoka-textdoc.md
-author: [[masanobu-fukuoka]]
+author: masanobu-fukuoka
 topics: [food-security, geopolitics, seed-sovereignty, natural-farming, agricultural-policy]
 ---
 
@@ -46,57 +46,7 @@ dynamic by making formerly self-sufficient populations dependent on
 external inputs they cannot produce themselves.
 
 This dependency, Fukuoka warned, is not accidental but designed.
-The [[fukuoka-critique-agricultural-development]] model exported by wealthy nations to the
-developing world typically requires farmers to purchase seeds,
-fertilizers, and pesticides from multinational corporations.
-Once traditional seed-saving practices are abandoned and local
-agricultural knowledge is lost, farmers become permanently locked into a
-cycle of external dependency.
-Fukuoka saw this as a form of agricultural imperialism more insidious
-than military conquest because it appears as benevolent assistance.
-
-## Natural Farming as Political Resistance
-
-For Fukuoka, natural farming was not merely an agricultural technique
-but a form of political resistance against the weaponization of food.
-By saving their own seed, building their own soil fertility through
-natural processes, and refusing dependence on external inputs, farmers
-could reclaim food sovereignty.
-His method required no purchased inputs whatsoever — only seeds, which
-could be saved from year to year, and the natural processes of
-decomposition, [[biological-nitrogen-fixation-agriculture]], and [[biological-pest-control-balance]].
-
-The quarter-acre farming model Fukuoka advocated was explicitly designed
-to demonstrate that food self-sufficiency was possible on a very small
-scale.
-He believed that if individuals and communities could produce their own
-food without external inputs, the geopolitical leverage of food-exporting
-nations and agribusiness corporations would be dramatically weakened.
-
-## The Specter of Food Scarcity
-
-Fukuoka was deeply concerned about the global trajectory of food
-production.
-He argued that modern agriculture, despite its apparent productivity,
-was actually a net energy sink when all inputs were accounted for:
-petroleum for tractors and fertilizer production, energy for irrigation
-and processing, and the embedded energy of chemical inputs.
-When these costs were subtracted from gross production, the net caloric
-output of modern agriculture was often negative.
-
-This deficit, Fukuoka warned, was masked by cheap petroleum.
-When fossil fuel costs rose or supplies declined, the fragility of the
-industrial food system would become apparent, and nations that had
-abandoned local food production in favor of imported food would face
-catastrophic shortages.
-He saw the transformation of agriculture from an energy-producing to an
-energy-consuming system as the most dangerous trend in human
-civilization.
-
-## Critique of the Green Revolution
-
-Fukuoka was a vocal critic of the Green Revolution, the mid-twentieth
-century movement to increase [[fukuoka-sowing-agricultural-production-as-net-energy-deduction]] through high-yield
+The [[biological-nitrogen-fixation-agriculture]], and [[fukuoka-sowing-agricultural-production-as-net-energy-deduction]] through high-yield
 varieties, irrigation, and chemical inputs.
 While the Green Revolution did increase gross production in the short
 term, Fukuoka argued that it accomplished this by converting
@@ -136,7 +86,5 @@ populations.
 
 ## See Also
 
-- [[fukuoka-bread-dough-analogy-tillage-soil-compaction]]
 - [[fukuoka-happy-hill-rice-strain]]
-- [[fukuoka-farming-for-all-quarter-acre-vision]]
 - [[fukuoka-energy-productivity-natural-vs-mechanized-farming]]

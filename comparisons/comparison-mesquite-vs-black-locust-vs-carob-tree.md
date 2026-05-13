@@ -21,14 +21,7 @@ Three versatile nitrogen-fixing trees, each dominating a different climate zone.
 
 ## Quick-Reference Comparison
 
-| Feature | Mesquite (*Prosopis glandulosa*) | [[comparison-black-locust-vs-honey-locust]] (*Robinia pseudoacacia*) | Carob (*Ceratonia siliqua*) |
-|---------|----------------------------------|---------------------------------------|---------------------------|
-| **Climate** | Arid/semi-arid (USDA 6–11) | Temperate (USDA 3–9) | Mediterranean (USDA 9–11) |
-| **Mature height** | 6–12 m | 12–20 m | 5–10 m |
-| **Growth rate** | Moderate | Very fast | Slow |
-| **N fixation (kg/ha/yr)** | 20–60 | 30–150 | 15–40 |
-| **First harvest** | 3–5 yrs (pods) | 5–8 yrs (timber) | 5–7 yrs (pods) |
-| **[[dighton-fungal-drought-tolerance-plant-water-relations]]** | ★★★★★ | ★★★ | ★★★★ |
+| Feature | Mesquite (*[[prosopis-glandulosa]]*) | [[dighton-fungal-drought-tolerance-plant-water-relations]]** | ★★★★★ | ★★★ | ★★★★ |
 | **Cold tolerance** | ★★ (to -20°C) | ★★★★★ (to -35°C) | ★★ (to -7°C) |
 | **Invasive potential** | Very high (*P. juliflora*) | High (root suckers) | Low |
 | **Edible product** | Pods (flour, molasses) | Flowers (tea); seeds toxic | Pods (chocolate substitute) |
@@ -43,12 +36,7 @@ Three versatile nitrogen-fixing trees, each dominating a different climate zone.
 Thrives in the harshest conditions: alkaline soils, extreme heat, prolonged drought. Deep taproot (50+ meters documented) accesses groundwater unavailable to other plants. Prefers full sun, well-drained soils, 150–500 mm annual rainfall. Tolerates saline soils and pH up to 9.0. Poorly suited to humid tropics or waterlogged sites.
 
 ### Black Locust
-Best performer in temperate climates with cold winters. Prefers 600–1200 mm annual rainfall on deep, well-drained loams. Not drought-tolerant in truly arid regions. Shade-intolerant when young. Extremely cold-hardy (-35°C). Naturalized across Europe, Asia, and [[psilocybin-north-america-pacific-northwest]].
-
-### Carob
-Mediterranean specialist: hot dry summers, mild wet winters. Requires 250–500 mm annual rainfall once established. Tolerates coastal conditions, salt spray, and calcareous soils. Cannot survive below -7°C. Long taproot makes it drought-resistant but slow to establish.
-
-**Winner by zone**: Mesquite for [[mollison-arid-lands-aquatic-species]]; Black locust for cold climates; Carob for Mediterranean zones.
+Best performer in temperate climates with cold winters. Prefers 600–1200 mm annual rainfall on deep, well-drained loams. Not drought-tolerant in truly arid regions. Shade-intolerant when young. Extremely cold-hardy (-35°C). Naturalized across Europe, Asia, and [[mollison-arid-lands-aquatic-species]]; Black locust for cold climates; Carob for Mediterranean zones.
 
 ---
 
@@ -134,14 +122,11 @@ Hard but rarely used commercially. Not a primary reason to grow carob.
 | Maximum nitrogen for intercropping | **Black Locust** (temperate) / **Mesquite** (arid) |
 | Highest food yield per tree | **Carob** |
 | Livestock in arid rangeland | **Mesquite** (pod drop) |
-| Food forest in USDA zones 5–7 | **Black Locust** (canopy N-fixer) |
+| [[food-forest]] in USDA zones 5–7 | **Black Locust** (canopy N-fixer) |
 | Coastal Mediterranean food forest | **Carob** (mid-canopy) |
 
 ---
 ## See Also
 
-- [[comparison-black-locust-vs-honey-locust]]
-
 - [[ceratonia-siliqua]]
-- [[permaculture-plants-nitrogen-fixing-trees|Legume Trees and Nitrogen-Fixing Permaculture Species]]
 - [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer|Nitrogen-Fixing Bacteria and Biological Nitrogen Fixation]]

@@ -24,22 +24,8 @@ Santiago. He trained in psychiatry and became interested in
 existential and humanistic approaches to therapy.
 
 He received a Guggenheim Fellowship in 1963 to study at Harvard
-University. There he encountered the work of [[stanislav-grof]] and
-began exploring altered states of consciousness through psychedelics.
-
-## Psychedelic Research
-
-In the mid-1960s, Naranjo joined the research team at the
-University of Chile's psychiatric clinic. He conducted studies with
-MDA, ibogaine, and other psychedelics as adjuncts to psychotherapy.
-
-He collaborated with [[humphry-osmond]] and corresponded with
-[[timothy-leary]]. Unlike Leary's counter-cultural advocacy,
-Naranjo maintained a clinical orientation throughout his career.
-
-Naranjo's MDA research explored its empathogenic properties for
-facilitating emotional disclosure in therapy. This work predated
-the later therapeutic interest in [[mdma]] by nearly two decades.
+University. There he encountered the work of [[humphry-osmond]] and corresponded with
+[[mdma]] by nearly two decades.
 
 His ibogaine studies examined its potential for interrupting opioid
 dependence. He documented cases where a single session reduced
@@ -99,23 +85,9 @@ practice.
 Naranjo bridged clinical psychiatry, psychedelic research, and
 contemplative spirituality in a way few others achieved. His
 psychedelic therapy protocols influenced later researchers
-including [[roland-griffiths]] and contemporary clinical trial
-designs.
-
-His Enneagram teaching shaped the modern understanding of
-personality typing used in therapy, coaching, and organizational
-development. He resisted the polarization between scientific and
-spiritual approaches to consciousness.
-
-## See Also
-
-- [[stanislav-grof]]
-- [[timothy-leary]]
+including [[stanislav-grof]]
 - [[albert-hofmann]]
-- [[alexander-shulgin]]
 - [[humphry-osmond]]
-- [[roland-griffiths]]
 - [[ralph-metzner]]
-- [[mdma]]
 - [[ibogaine]]
 - [[psychedelic-microdosing]]

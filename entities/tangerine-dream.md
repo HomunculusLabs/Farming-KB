@@ -30,41 +30,16 @@ sources:
 
 ## Overview
 
-Tangerine Dream is a sativa-dominant [[query-what-is-the-difference-between-indica-sativa-and-hybrid-cannabis]] strain renowned for
-its vivid citrus aroma and well-balanced effects. Originally bred by
-Barney's Farm in Amsterdam, it is a cross of G13, Afghani, and Neville's
-A5 Haze. The strain won the 2010 High Times Cannabis Cup in the
-Bio category, establishing its reputation as a premium connoisseur
-variety.
-
-With [[thc-content-factors-cultivation-freshness-storage-degradation-blesching]] typically ranging from 18–25% and low CBD levels
+Tangerine Dream is a sativa-dominant [[thc-content-factors-cultivation-freshness-storage-degradation-blesching]] typically ranging from 18–25% and low CBD levels
 (usually below 0.5%), Tangerine Dream delivers an uplifting cerebral
 high that transitions into gentle body relaxation. Its pronounced
 tangerine and orange aroma, attributed to high limonene content, makes it
-one of the most recognizable citrus-scented [[cannabis-microbiome-otu-abundance-vs-presence-cannabis-strains]] available.
-
-## Lineage
-
-Tangerine Dream is a three-way cross combining distinct genetic
-backgrounds:
-
-- **G13** — A legendary indica-dominant clone rumored to originate from
-  a U.S. government [[hofmann-lsd-sandoz-research-program]], contributing potency and resin
+one of the most recognizable citrus-scented [[hofmann-lsd-sandoz-research-program]], contributing potency and resin
   production.
 - **Afghani** — A pure indica landrace from Afghanistan, providing dense
   bud structure, sedative body effects, and hash-making qualities.
 - **Neville's A5 Haze** — A sativa-dominant haze selection from Neville
-  Schoenmakers, contributing the citrus [[cannabis-terpene-profile]], cerebral
-  stimulation, and extended flowering time.
-
-The resulting genetic ratio is approximately 65% sativa / 35% indica,
-though phenotypic variation can shift this balance. Some phenotypes lean
-more heavily sativa, with taller stature and more energetic effects.
-
-## Appearance and Aroma
-
-Buds are medium to large, dense, and elongated, with a structure that
-reflects both indica and [[cannabis-landrace-sativa-heritage-varieties]]. Colors range from bright green
+  Schoenmakers, contributing the citrus [[cannabis-landrace-sativa-heritage-varieties]]. Colors range from bright green
 to yellowish-green, often with orange pistils that complement the
 tangerine theme. Trichome coverage is heavy, giving flowers a frosted,
 resinous appearance.
@@ -88,3 +63,88 @@ The dominant terpenes in Tangerine Dream are:
 - **Myrcene** — earthy, musky notes; enhances sedative effects and
   promotes relaxation; most abundant terpene in cannabis overall.
 - **Caryophyllene** — peppery, spicy notes; binds to CB2 receptors;
+
+## Overview
+
+Tangerine Dream represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish tangerine dream
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving tangerine extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Tangerine Dream finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for tangerine dream. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+tangerine dream and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Tangerine Dream has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of tangerine dream into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[blue-dream]]
+- [[blue-dream-cannabis]]
+- [[calea-zacatechichi-dream-herb-ethnobotany]]
+- [[grand-daddy-blue-dream-sativa-hybrid-strain]]
+- [[oner-jamaican-dream-and-jamaican-lions]]

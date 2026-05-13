@@ -23,57 +23,9 @@ sources:
 
 # Agroforestry
 
-**Agroforestry** is an integrated land-use management system in which **trees and shrubs are deliberately combined with agricultural crops and/or livestock** on the same parcel of land. Unlike conventional monoculture farming, agroforestry creates structurally complex, multi-strata systems that mimic natural ecosystems while simultaneously producing food, fiber, fuel, and timber. The practice is recognized as one of the most effective strategies for climate change mitigation, [[fungal-biodiversity-conservation-status]], and sustainable rural livelihoods.
-
-Agroforestry occupies the conceptual and practical space between **forestry** and **agriculture**, drawing on ecological principles to design productive systems that are both economically viable and environmentally regenerative. It is a cornerstone practice within permaculture design and is promoted by the United Nations Food and Agriculture Organization (FAO) as a critical pathway toward the Sustainable Development Goals.
-
-## Core Principles
-
-### 1. Intentional Integration
-Trees and crops/livestock are deliberately combined for specific purposes — ecological, economic, or social. Unlike random tree planting on farmland, agroforestry involves careful species selection and spatial arrangement.
-
-### 2. Structural Diversity
-Agroforestry systems feature **vertical stratification** (multiple canopy layers), increasing the total photosynthetic capture per unit area. This structural complexity creates diverse microhabitats and ecological niches.
-
-### 3. Functional Interactions
-The components of the system interact beneficially:
-
-- **Light sharing:** Shade-tolerant crops grow beneath taller trees
-- **Nutrient cycling:** Deep-rooted trees access subsoil nutrients and bring them to the surface through leaf litter
-- **Microclimate modification:** Trees moderate temperature extremes, reduce wind speed, and increase humidity
-- **Pest regulation:** Diverse habitats support natural predators and disrupt pest lifecycles
-- **Soil protection:** Tree roots and canopy reduce erosion, improve infiltration, and maintain soil structure
-
-### 4. Temporal Staggering
-Multiple products are available at different times of the year, providing continuous yields rather than single harvest windows. This reduces economic risk and improves food security.
-
-## Agroforestry Systems and Practices
-
-### Alley Cropping (Hedgerow Intercropping)
-
-Rows of trees or shrubs are planted at regular intervals with agricultural crops cultivated in the alleys between them.
-
-- **Common tree species:** *[[leucaena-leucocephala]]*, *Gliricidia sepium*, *[[robinia-pseudoacacia]]*, *Tagasaste* (*[[chamaecytisus-palmensis]]*)
+**Agroforestry** is an integrated land-use management system in which **trees and shrubs are deliberately combined with agricultural crops and/or livestock** on the same parcel of land. Unlike conventional monoculture farming, agroforestry creates structurally complex, multi-strata systems that mimic natural ecosystems while simultaneously producing food, fiber, fuel, and timber. The practice is recognized as one of the most effective strategies for climate change mitigation, [[leucaena-leucocephala]]*, *Gliricidia sepium*, *[[chamaecytisus-palmensis]]*)
 - **Crops:** Maize, wheat, beans, vegetables, forages
-- **Benefits:** [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]] (leguminous trees), biomass mulch, wind protection, microclimate improvement
-- **Spacing:** Typically 4–10 meters between tree rows, with crops in 2–8 meter alleys
-- **Management:** Periodic tree coppicing to control shade and produce mulch/green manure
-
-### Silvopasture
-
-Trees and livestock are combined on pasture or rangeland, with trees providing shade, shelter, and supplemental forage.
-
-- **Common tree species:** *Quercus* spp. (oak savannas), *Juglans regia* (walnut), *[[gleditsia-triacanthos]]* (honey locust), *[[paulownia-tomentosa]]*
-- **Livestock:** Cattle, sheep, goats, poultry, pigs
-- **Benefits:** Heat stress reduction (tree shade can lower ground temperature by 5–15°C), extended grazing season, diversified income from timber/fruit, improved animal welfare
-- **Animal performance:** Studies show 10–20% improvement in weight gain in silvopastoral systems versus open pasture
-- **Considerations:** Tree protection from livestock damage (fencing, trunk guards), species selection for non-toxicity to livestock
-
-### Forest Farming
-
-High-value specialty crops are cultivated beneath a managed forest canopy. The forest overstory is thinned or modified to create optimal growing conditions for understory crops.
-
-- **Specialty crops:** Ginseng (*Panax quinquefolius*), goldenseal (*Hydrastis canadensis*), shiitake mushrooms (*Lentinula edodes*), ramps (*Allium tricoccum*), pawpaw (*[[asimina-triloba]]*), elderberry (*Sambucus nigra*)
+- **Benefits:** [[gleditsia-triacanthos]]* (honey locust), *[[asimina-triloba]]*), elderberry (*Sambucus nigra*)
 - **Overstory management:** Selective thinning to 40–70% canopy closure, depending on crop light requirements
 - **Economic model:** High value per acre ($5,000–50,000+/acre for ginseng) but requires multi-year investment
 - **Harvest timeline:** Forest farming often requires 3–10 years before first harvest
@@ -88,3 +40,86 @@ Trees, shrubs, and grasses are planted along waterways to protect water quality 
 - **Regulatory role:** Riparian buffers are often incentivized or required by agricultural conservation programs
 
 ### Windbreaks and Shelterbelts
+
+## Overview
+
+Agroforestry represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish agroforestry
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving agroforestry extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Agroforestry finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for agroforestry. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+agroforestry and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Agroforestry has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of agroforestry into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- agroforestry
+- [[nitrogen-fixing-trees-in-agroforestry]]
+- [[query-what-is-agroforestry-and-how-can-i-start]]

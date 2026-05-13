@@ -14,16 +14,13 @@ type: concept
 A fundamental difference exists between holism as it applies to management and the
 long-hallowed procedures of scientific research. Modern science, which Savory calls
 reductionist, seeks by controlling all variables to reduce phenomena to a simple form
-for study. By contrast, [[savory-recovery-and-grazing-periods]] between
-defoliations. That knowledge plus twenty years of trial and error application led to
-the development of the biological planning used in [[savory-holistic-resource-management-animal-impact]] Management.
+for study. By contrast, [[savory-holistic-resource-management-animal-impact]] Management.
 
 ## Research Gaps and Needs
 
 In both farming and ranching, the HRM model indicates countless important but far less
 grandiose research challenges. Biological planning frequently calls for information about
-[[savory-weak-link-analysis]] in
-pest [[bloomfield-rust-fungi-life-cycles-barberry-wheat]] rather than merely attacking symptoms.
+[[bloomfield-rust-fungi-life-cycles-barberry-wheat]] rather than merely attacking symptoms.
 
 ## The Danger of Technological Nonsolutions
 
@@ -34,8 +31,7 @@ been responsible for the dismal failure to reverse the spread of deserts or the 
 of the agricultural base in both developed and undeveloped countries.
 
 We spend billions annually on actions that compress the successional spring while
-chasing objectives that small advances in [[savory-holistic-goal-definition]]
-and the [[savory-testing-and-management-guidelines]] provide the framework within which
+chasing objectives that small advances in [[savory-testing-and-management-guidelines]] provide the framework within which
 reductionist findings can be appropriately evaluated and applied.
 ## Practical Applications
 

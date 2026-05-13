@@ -81,19 +81,11 @@ Biogas technology plays an important role in climate change mitigation by addres
 ## Key Points
 
 - Biogas is a renewable energy source produced through anaerobic digestion of organic matter, primarily consisting of methane and carbon dioxide.
-- The [[biogas-digester-basics]] concept page explains the fundamental principles of biogas production and system components.
-- Small-scale biogas systems convert farm waste, food scraps, and manure into clean energy while producing nutrient-rich fertilizer as a byproduct.
-- [[animal-manure-guide]] provides detailed information about using animal waste as feedstock for biogas production and composting systems.
+- The [[animal-manure-guide]] provides detailed information about using animal waste as feedstock for biogas production and composting systems.
 - Different digester types include fixed dome, floating drum, and balloon systems, each suited for specific conditions and applications.
-- [[black-soldier-fly-composting]] demonstrates another approach to organic waste management that can complement biogas systems through waste preprocessing.
 - [[biointensive-composting]] offers insights into managing organic waste that may not be suitable for biogas digestion but can be processed through other methods.
 - Maintaining optimal temperature (35-40°C for mesophilic digestion) and proper feedstock ratios is crucial for efficient biogas production.
 - Safety considerations include proper ventilation, leak detection, and explosion prevention due to the flammable nature of methane gas.
-- [[biomass-compost-greenhouse-heating-systems]] shows how biogas can be integrated with other renewable systems for comprehensive energy solutions.
-
-## Related Questions
-
 - [[query-what-is-biochar-and-how-should-i-use-it-in-my-garden]]
-- [[query-how-to-make-your-own-organic-fertilizer-at-home]]
 - [[query-what-is-the-best-way-to-rotate-crops-in-a-vegetable-garden]]
 - [[query-how-to-use-companion-planting-in-your-garden]]

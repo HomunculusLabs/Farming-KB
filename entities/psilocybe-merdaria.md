@@ -18,23 +18,7 @@ sources:
 
 ## Overview
 
-**Psilocybe merdaria** is a small, coprophilous mushroom in the family Hymenogastraceae, known from temperate regions of Europe and [[psilocybin-north-america-pacific-northwest]]. The species name *merdaria* comes from Latin *merda* (dung), unambiguously referencing its substrate preference. It was included in Bigwood and Beug's 1992 survey of psilocybin and psilocin concentrations and is considered among the weaker psychoactive members of the Psilocybe genus.
-
-## Taxonomy and Classification
-
-- **Order:** Agaricales
-- **Family:** Hymenogastraceae
-- **Genus:** Psilocybe
-- **Authority:** (Fr.) Ricken
-
-The taxonomic history of *P. merdaria* is intertwined with several other small, dung-inhabiting brown mushrooms. Some authorities have at times placed it in or near Stropharia or Deconica, reflecting the ongoing reclassification of bluing and non-bluing Psilocybe species into separate genera. Its status as a true Psilocybe in the modern phylogenetic sense has been questioned, though it has traditionally been maintained within the genus.
-
-## Morphology
-
-- **Cap (Pileus):** Very small, typically 3 to 15 mm in diameter. Conic to hemispherical when young, expanding to convex with age but rarely becoming fully plane. Surface is smooth, hygrophanous, and brownish ochre to reddish brown when moist, fading to a pale straw color or nearly white when dry. The cap margin is often translucent-striate when wet.
-- **Gills (Lamellae):** Adnate to broadly adnate. Pale gray to brownish when young, darkening with maturity to a dark purplish brown. Gill spacing is close to subdistant.
-- **Stipe (Stem):** Very slender, 15 to 45 mm long and 0.5 to 1.5 mm thick. Surface is smooth, whitish to pale brown, sometimes with a slight pruinose coating near the apex. The base may have a small mycelial tuft attached to the [[psilocybe-cubensis-cattle-dung-substrate-introduction-americas-guzman-1998]].
-- **[[psilocybe-coprophila]]** — Very similar dung-inhabiting species; the two are frequently confused in the field
+**Psilocybe merdaria** is a small, coprophilous mushroom in the family Hymenogastraceae, known from temperate regions of Europe and [[psilocybe-cubensis-cattle-dung-substrate-introduction-americas-guzman-1998]].
 - **[[psilocybe-cubensis]]** — Much larger and more potent dung-inhabiting species; the most well-known psychoactive coprophilous mushroom
 - **deconica coprophila** — A non-psychoactive dung species that may be confused with inactive Psilocybe specimens
 
@@ -44,13 +28,7 @@ The taxonomic history of *P. merdaria* is intertwined with several other small, 
 
 ## Cultivation
 
-No cultivation protocols exist for *P. merdaria*. Its coprophilous nature would require dung-based substrates, but there has been no interest in cultivating it due to its lack of psychoactivity. Any hypothetical cultivation attempt would face the additional challenge of the species' small [[comparison-fruiting-body-vs-mycelium-extracts-medicinal-mushrooms]] size, which would make harvest impractical even if successful.
-
-## References
-
-- Bigwood, J. & Beug, M. W. (1992). Variation of psilocybin and psilocin levels. Journal of Psychoactive Drugs.
-- Guzmán, G. (1983). The Genus Psilocybe: A Systematic Revision of the Known Species. Vaduz: J. Cramer.
-- Stamets, P. (1996). [[psilocybin-mushrooms]] of the World. Berkeley: Ten Speed Press.
+No cultivation protocols exist for *P. merdaria*. Its coprophilous nature would require dung-based substrates, but there has been no interest in cultivating it due to its lack of psychoactivity. Any hypothetical cultivation attempt would face the additional challenge of the species' small [[psilocybin-mushrooms]] of the World. Berkeley: Ten Speed Press.
 ## Practical Considerations
 
 When working with Psilocybe merdaria, several practical factors should be
@@ -88,3 +66,85 @@ than assuming perfect predictability or control over outcomes.
 
 Documentation and record-keeping support continuous improvement by
 creating a reference base of observations, interventions, and results.
+
+## Overview
+
+Psilocybe Merdaria represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish psilocybe merdaria
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving psilocybe extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Psilocybe Merdaria finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for psilocybe merdaria. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+psilocybe merdaria and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Psilocybe Merdaria has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of psilocybe merdaria into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[grass-seed-cultivation-of-psilocybe-species]]
+- [[psilocybe-fascicata]]

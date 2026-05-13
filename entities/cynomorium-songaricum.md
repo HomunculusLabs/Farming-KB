@@ -7,13 +7,7 @@ tags:
   - parasitic-plants
   - tcm
   - traditional-medicine
-  - [[herbal-medicine]]
-  - desert-plants
-date: 2026-04-28
-updated: 2026-04-28
-sources:
-  - Chinese Pharmacopoeia Commission (2020). "Pharmacopoeia of the People's Republic of China."
-  - Ma, C. et al. (2014). "[[guzman-magic-mushrooms-chemical-constituents]] of Cynomorium songaricum." Chemistry & Biodiversity, 11(1), 75-84.
+  - guzman-magic-mushrooms-chemical-constituents of Cynomorium songaricum." Chemistry & Biodiversity, 11(1), 75-84.
   - Wang, J. et al. (2012). "Pharmacological effects of Cynomorium songaricum." Journal of Ethnopharmacology, 142(3), 776-781.
   - Lu, Y. et al. (2009). "Antioxidant activities of Cynomorium songaricum extracts." Food Chemistry, 112(4), 908-912.
 created: 2026-04-28
@@ -30,8 +24,7 @@ The species is entirely parasitic on the roots of desert shrubs, primarily
 species of Nitraria (Nitrariaceae). It produces no chlorophyll and is visible
 above ground only during its flowering and fruiting period.
 
-C. songaricum occupies a unique [[ecological-niche]] in arid and semi-arid
-environments of Central and [[neurotropic-fungi-japan-east-asia-species-cultural-context]], where it has been used medicinally for
+C. songaricum occupies a unique neurotropic-fungi-japan-east-asia-species-cultural-context, where it has been used medicinally for
 over 1,200 years.
 
 ## Taxonomy
@@ -90,4 +83,9 @@ songaricum may also parasitize Tamarix and other desert shrubs.
 
 ## See Also
 
+- guzman-central-america-neurotropic-fungi-species-distribution
+
+## See Also
 - [[guzman-central-america-neurotropic-fungi-species-distribution]]
+- [[neurotropic-fungi-japan-east-asia-species-cultural-context]]
+- [[guzman-neurotropic-fungi-genus-diversity-overview]]

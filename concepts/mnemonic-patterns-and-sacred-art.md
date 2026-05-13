@@ -86,13 +86,15 @@ It is a challenge to educators to revive the meaningful geometries, songs, and d
 
 ## Applied Art: The Flowform Example
 
-Some modern sculptural forms serve both aesthetic and functional purposes. The **[[flowform]]** systems of the Virbella Institute, Emerson College, Kent, UK, are modelled on older Roman water cascades and serve both an aesthetic and a water-oxygenation function, assisting water purification. This represents a small step toward applied art as patterning in everyday use.
-
-## Key References
-
-- Matthiessen, P. (1980). *The Snow Leopard*. Picador.
-- [[virbela-institute]], Emerson College, Forest Row, East Sussex, UK (Flowform designs and research).
+Some modern sculptural forms serve both aesthetic and functional purposes. The **[[virbela-institute]], Emerson College, Forest Row, East Sussex, UK (Flowform designs and research).
 
 ## See Also
-- [[tessellation-annidation-patterns]]
 - [[hallucinogenic-mushroom-prevalence-use-patterns-europe]]
+
+## See Also
+
+- [[psilocybe-semilanceata-transcontinental-distribution-patterns]]
+- [[harner-cross-cultural-patterns-shamanic-plant-use]]
+- [[mckenna-prehistoric-imagination-and-consciousness-patterns]]
+- [[species-specific-flush-patterns-psilocybe-panaeolus-grass-seed]]
+- [[climatic-zones-and-global-weather-patterns]]

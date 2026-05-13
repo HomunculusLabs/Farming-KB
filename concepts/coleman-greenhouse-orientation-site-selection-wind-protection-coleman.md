@@ -1,22 +1,6 @@
 # Greenhouse Orientation and Site Selection for Winter Harvest
 
-**Source:** [[eliot-coleman]], *The Winter Harvest Handbook* (2009)
-
----
-
-## East-West Axis Alignment
-
-Coleman's winter-harvest greenhouses at Four Season Farm in coastal Maine are aligned on an east-west axis. This orientation is specifically chosen to maximize solar gain during the winter months when the sun tracks low across the southern sky. An east-west oriented hoop house presents its long south-facing side perpendicular to the low winter sun, capturing the maximum possible solar radiation during the short daylight hours from November through February.
-
-The rationale is straightforward: in winter, the sun angle is low (roughly 20-25 degrees above the horizon at Coleman's 44th parallel latitude). A greenhouse oriented with its ridge running east-west allows sunlight to strike the entire south-facing sidewall directly, penetrating deep into the growing space. By contrast, a north-south orientation would result in the low-angle sun primarily striking the east or west end walls, illuminating only a narrow strip of the interior at any given time.
-
-Coleman notes that this orientation consideration is particularly important for unheated winter production because every bit of passive solar warmth matters. The greenhouse relies entirely on the thermal mass of the soil and the minimal heat retention of the double-layer covering system (outer plastic plus inner row cover), so maximizing incoming solar energy during the limited daylight window is essential.
-
----
-
-## Latitude and Winter Sunlight Availability
-
-Coleman devotes significant attention to dispelling the misconception that [[coleman-french-historical-winter-vegetable-production]] requires Mediterranean climates. His farm in Harborside, Maine, sits on the 44th parallel of latitude—the same parallel as Avignon, France, and Genoa, Italy. Portland, Maine, shares its latitude with St. Tropez on the French Riviera. New York City aligns with Naples, Italy, and Washington, D.C., with Majorca and Corfu.
+**Source:** [[coleman-french-historical-winter-vegetable-production]] requires Mediterranean climates. His farm in Harborside, Maine, sits on the 44th parallel of latitude—the same parallel as Avignon, France, and Genoa, Italy. Portland, Maine, shares its latitude with St. Tropez on the French Riviera. New York City aligns with Naples, Italy, and Washington, D.C., with Majorca and Corfu.
 
 This latitude comparison is critical because day length, not temperature, determines the primary constraint on winter plant growth. All locations on the same parallel experience identical day lengths and identical potential solar energy. The milder temperatures of southern Europe are attributable to the Gulf Stream, not to more sunlight. In fact, many parts of the continental United States receive far more winter sunshine than western Europe, where winter vegetable production has a long tradition dating back centuries.
 
@@ -47,23 +31,7 @@ British greenhouse researcher W. J. C. Lawrence confirmed this threshold from hi
 
 Coleman identifies wind as the primary threat to winter crops—more significant than absolute temperature. The desiccating effect of cold, dry winter winds causes far more damage to exposed vegetation than freezing temperatures alone. The protected microclimate of the greenhouse system is successful principally because it shields crops from wind, with temperature protection being a secondary benefit.
 
-Historical precedents support this principle. The nineteenth-century Parisian maraichers (intensive market gardeners) surrounded their gardens with 6-foot-high walls, with south-facing walls providing warm microclimates. Louis Savier's farm near Paris, which Coleman visited in 1974, maintained this walled-garden tradition. Gardens shielded from cold winter winds by thick evergreen hedges, or snuggled against the sunny side of rock walls to capture stored solar heat, represent age-old approaches to creating protected [[mushroom-growing-environments]].
-
-For site selection of new winter-harvest operations, Coleman's principles suggest:
-
-- Choose sites with natural windbreaks on the north and northwest sides
-- South-facing slopes provide superior drainage and passive solar gain
-- Avoid frost pockets and low-lying areas where cold air accumulates
-- Consider prevailing winter wind direction when positioning structures
-- Evergreen hedgerows or constructed windbreaks can dramatically improve performance
-
----
-
-## Protected Cultivation: The Double-Layer System
-
-The core technical innovation of Coleman's system is the combination of an outer greenhouse layer and an inner row-cover layer, creating what he calls a "twice-tempered climate." The outer layer is a standard UV-resistant plastic covering on a gothic-style hoop house. The inner layer is lightweight floating row cover material supported by wire wickets approximately 12 inches (30 cm) above the soil surface.
-
-This double coverage provides multiple [[blesching-thc-heart-protective-mechanisms-myocardial-protection]] beyond simple insulation. The inner layer increases relative humidity within the crop zone, which offers additional protection against freezing damage. At night, moisture condenses on the floating row covers, forming a film that is nearly opaque to long-wave radiation and acts as a reflective surface, trapping heat that would otherwise radiate away through the covers.
+Historical precedents support this principle. The nineteenth-century Parisian maraichers (intensive market gardeners) surrounded their gardens with 6-foot-high walls, with south-facing walls providing warm microclimates. Louis Savier's farm near Paris, which Coleman visited in 1974, maintained this walled-garden tradition. Gardens shielded from cold winter winds by thick evergreen hedges, or snuggled against the sunny side of rock walls to capture stored solar heat, represent age-old approaches to creating protected [[blesching-thc-heart-protective-mechanisms-myocardial-protection]] beyond simple insulation. The inner layer increases relative humidity within the crop zone, which offers additional protection against freezing damage. At night, moisture condenses on the floating row covers, forming a film that is nearly opaque to long-wave radiation and acts as a reflective surface, trapping heat that would otherwise radiate away through the covers.
 
 The system achieves remarkable temperature moderation. When outdoor temperatures drop to -15 degrees Fahrenheit (-26 degrees Celsius), the temperature under the inner layer of the cold house drops only to 15 to 18 degrees Fahrenheit (-10 to -8 degrees Celsius) on average. Cold-hardy vegetables can survive temperatures down to 10 degrees Fahrenheit (-12 degrees Celsius) or lower as long as they are protected from wind and the additional stresses of outdoor exposure.
 
@@ -73,9 +41,7 @@ The system achieves remarkable temperature moderation. When outdoor temperatures
 
 In Coleman's unheated system, the soil itself serves as the heat-storage medium, just as it functions in the natural world. This is a deliberate rejection of the complicated heat-storage systems associated with 1970s-era solar greenhouse designs, which used water or stone ballast with pumps and fans, plus buried perimeter insulation.
 
-The simplicity of soil-based thermal storage is central to Coleman's low-input philosophy. During daylight hours, the dark, compost-rich soil absorbs solar radiation through the [[coleman-greenhouse-covering-materials-comparison]]. At night, that stored heat slowly radiates upward, moderating air temperatures around the plants. The inner row-cover layer helps retain this radiated heat by reflecting long-wave radiation back toward the soil surface.
-
-This approach requires healthy, well-managed soil with high organic matter content. Dark, humus-rich soils absorb more solar energy than light-colored or sandy soils. Coleman's deep-organic approach—generous compost applications, cover cropping, and minimal soil disturbance—serves the dual purpose of [[building-soil-fertility-long-term]] and maximizing the soil's capacity to absorb and retain solar heat.
+The simplicity of soil-based thermal storage is central to Coleman's low-input philosophy. During daylight hours, the dark, compost-rich soil absorbs solar radiation through the [[building-soil-fertility-long-term]] and maximizing the soil's capacity to absorb and retain solar heat.
 
 ---
 
@@ -118,8 +84,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[greenhouse-design]]
 - [[det]]
-- [[cover-crop]]
 - [[coleman-cold-house-wind-protection-microclimate]]
 - [[coleman-double-layer-protection-greenhouse-row-cover]]

@@ -21,11 +21,9 @@ sources:
 
 # Purple Punch
 
-**Purple Punch** is an indica-dominant hybrid [[blesching-cannabis-strain-selection-receptor-targeting]] created by crossing **Granddaddy Purple** (also known as Grand Daddy Purps or GDP) with **Larry OG**.
-First bred by Supernova Gardens in the [[shipibo-san-francisco-ceremonial-center-ucayali]] Bay Area, it has become one of the most popular and commercially successful cannabis strains of the late 2010s and 2020s.
+**Purple Punch** is an indica-dominant hybrid [[shipibo-san-francisco-ceremonial-center-ucayali]] Bay Area, it has become one of the most popular and commercially successful cannabis strains of the late 2010s and 2020s.
 Renowned for its striking purple coloration, sweet dessert-like aroma, and deeply relaxing effects, Purple Punch has earned a reputation as a premier "nighttime" strain.
-Its genetic lineage connects two legendary California cannabis pillars — the colorful, fruity [[granddaddy-purple]] defined the purple cannabis aesthetic, while Larry OG represents the pinnacle of Southern California's OG Kush lineage.
-This combination yields a plant with the visual appeal and fruit-forward character of GDP combined with the potency and [[cannabis-glandular-trichome-types-resin-production-clarke]] of the OG family.
+Its genetic lineage connects two legendary California cannabis pillars — the colorful, fruity [[cannabis-glandular-trichome-types-resin-production-clarke]] of the OG family.
 
 ## Appearance
 

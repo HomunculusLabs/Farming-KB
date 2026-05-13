@@ -1,5 +1,5 @@
 ---
-title: Jadam Pest Control Recipes
+title: JADAM Pest Control Recipes
 created: 2026-04-13
 updated: 2026-04-13
 type: concept
@@ -9,7 +9,7 @@ sources: [raw/papers/jadam-organic-farming-ultra-low-cost-agriculture.md]
 
 # JADAM Pest Control Recipes
 
-JADAM pest control relies on simple, on-farm preparations that are inexpensive, non-toxic, and effective. The foundation is the [[jadam-wetting-agent-jwa]] (JWA), combined with plant extracts and biological agents.
+JADAM pest control relies on simple, on-farm preparations that are inexpensive, non-toxic, and effective. The foundation is the JADAM Wetting Agent (JWA), combined with plant extracts and biological agents.
 
 ## JADAM Wetting Agent (JWA) — The Foundation
 
@@ -66,9 +66,9 @@ JADAM pest control relies on simple, on-farm preparations that are inexpensive, 
 4. Spray on affected plants
 
 ### Effective Against
-- [[cervantes-powdery-mildew-prevention-treatment]]
+- Powdery mildew
 - Rust
-- [[cervantes-downy-mildew-fungal-blight]]
+- Downy mildew
 - Mites
 
 ## JADAM Sea Water (JSW) — Micronutrient Supplement
@@ -86,41 +86,6 @@ JADAM pest control relies on simple, on-farm preparations that are inexpensive, 
 - Always test on a few leaves first before full application
 
 ## Related
-- [[jadam-natural-farming-philosophy]] — for [[jadam-philosophy-and-youngsang-chos-farming-revolution]]
-- [[natural-farming-pest-management]] — for broader natural [[query-what-is-biofumigation-and-how-does-it-work]]
+- [[jadam-natural-farming-philosophy]] — for JADAM philosophy
+- [[natural-farming-pest-management]] — for broader natural pest management
 - [[companion-planting-deterrents]] — for prevention-based pest control
-
-## Practical Applications
-
-The principles and techniques discussed here have wide-ranging applications
-across multiple disciplines and contexts. Practitioners and researchers
-continue to explore new ways to integrate these concepts into modern practice,
-adapting traditional knowledge to contemporary challenges and opportunities.
-
-## Key Considerations
-
-Several important factors influence the effectiveness and outcomes described
-in this topic. Understanding these considerations helps practitioners make
-informed decisions and avoid common pitfalls. Environmental conditions,
-timing, and material selection all play critical roles.
-
-## Historical Context
-
-The historical development of this subject reflects centuries of accumulated
-knowledge and practical experience. From traditional methods passed down
-through generations to modern scientific approaches, the evolution continues
-to inform current best practices and research directions.
-
-## Common Challenges
-
-Practitioners frequently encounter several challenges when working with
-these concepts. Climate variability, resource limitations, and knowledge
-gaps can all affect outcomes. Addressing these challenges requires patience,
-observation, and a willingness to adapt approaches based on results.
-
-## See Also
-- [[det]]
-- [[neem]]
-- [[jadam-pest-control-with-natural-pesticides-jhs]]
-- [[jadam-fruit-tree-winter-pest-control]]
-- [[jadam-natural-pest-control-methods]]

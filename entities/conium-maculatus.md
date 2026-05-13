@@ -21,56 +21,15 @@ sources:
 
 ## Overview
 
-Conium maculatus (poison hemlock) is a highly toxic herbaceous biennial in the family Apiaceae, native to Europe and North Africa but now naturalized across [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]] worldwide. It is the plant used to execute the Greek philosopher Socrates in 399 BCE.
+Conium maculatus (poison hemlock) is a highly toxic herbaceous biennial in the family Apiaceae, native to Europe and North Africa but now naturalized across [[equatorial-photoperiod-early-flowering]] and declines as seeds mature. γ-Coniceine is the [[cho-fish-amino-acid-preparation]]. This pathway is relatively unusual among plant alkaloid biosynthetic routes. The biosynthetic conversion of lysine to γ-coniceine via cadaverine represents the committed step in piperidine alkaloid biosynthesis.
 
-All parts of the plant contain piperidine alkaloids, principally coniine, which acts as a non-depolarizing neuromuscular blocker causing fatal respiratory paralysis. Despite its extreme toxicity, C. maculatus has a long history of medicinal use in small doses for antispasmodic and analgesic purposes.
-
-The species is easily confused with edible Apiaceae relatives such as wild carrot and parsley, making accurate identification critical for foragers.
-
-## Taxonomy and Morphology
-
-- **Kingdom:** Plantae
-- **Order:** Apiales
-- **Family:** Apiaceae
-- **Genus:** Conium
-- **Species:** C. maculatus L.
-- **Synonyms:** Conium officinale W.D.J. Koch; Cicuta virosa auct. non L.
-
-The genus name derives from the Greek *kōneion* ("hemlock" or "cone-shaped"), referring to the plant's toxicity. The specific epithet *maculatus* means "spotted," referring to the characteristic purple-red blotches on the stem.
-
-**Growth habit:** Biennial, forming a low rosette in the first year and bolting to 1.5–2.5 m in the second. The taproot is fleshy and parsnip-like.
-
-**Stem:** Hollow, glabrous, prominently purple-spotted at nodes and internodes, 1–3 cm in diameter at maturity. The absence of hairs distinguishes it from some rough-stemmed Apiaceae.
-
-**Leaves:** Triangular, 2–4 pinnate, 30–60 cm long, with finely divided laciniate leaflets. Leaf sheaths clasp the stem. The foliage has a distinct mousy or rank odor when crushed.
-
-**Flowers:** White umbels in compound inflorescences, 2–5 cm diameter, with 12–20 rays. Bracts and bracteoles are present but inconspicuous. Flowers May–August.
-
-**Fruit:** Ovoid schizocarp, 2.5–3.5 mm long, ribbed, green turning brown at maturity. Each mericarp bears five prominent ridges with oil ducts (vittae) in the furrows.
-
-## Phytochemistry
-
-The principal bioactive constituents are piperidine alkaloids concentrated primarily in the seeds and unripe fruits, with lower levels in leaves, stems, and roots.
-
-| Compound | Concentration Range | Activity |
-|----------|-------------------|----------|
-| Coniine | 0.5–1.5% (seeds) | Neuromuscular blocker |
-| γ-Coniceine | 0.3–0.8% (seeds) | Precursor, more toxic |
-| N-Methylconiine | 0.05–0.2% | Neuromuscular blocker |
-| Conhydrine | Trace | Reduced activity |
-| Pseudoconhydrine | Trace | Reduced activity |
-
-Total alkaloid content is highest during [[equatorial-photoperiod-early-flowering]] and declines as seeds mature. γ-Coniceine is the [[stigmasterol-as-brassinosteroid-biosynthetic-precursor]] to coniine and is significantly more toxic on a weight basis, though it is present in lower absolute quantities.
-
-The alkaloids are synthesized via a polyketide pathway using lysine as the starting [[cho-fish-amino-acid-preparation]]. This pathway is relatively unusual among plant alkaloid biosynthetic routes. The biosynthetic conversion of lysine to γ-coniceine via cadaverine represents the committed step in piperidine alkaloid biosynthesis.
-
-[[duggar-mushroom-environmental-factors-temperature-moisture-light]] significantly influence [[mycelial-broth-alkaloid-production]]. Drought stress, high nitrogen soils, and elevated temperatures all correlate with increased coniine concentrations. Plants grown in shaded conditions produce lower alkaloid levels than those in full sun.
+[[mycelial-broth-alkaloid-production]]. Drought stress, high nitrogen soils, and elevated temperatures all correlate with increased coniine concentrations. Plants grown in shaded conditions produce lower alkaloid levels than those in full sun.
 
 The volatility of coniine at room temperature contributes to the plant's characteristic unpleasant odor when fresh foliage is handled. This property was historically noted as a warning sign to foragers, though the odor is not always detectable at low concentrations.
 
 ## Distribution and Habitat
 
-C. maculatus is native to temperate Europe, the Mediterranean basin, and North Africa. It has been widely introduced and naturalized in [[psilocybin-north-america-pacific-northwest]], [[guzman-psilocybin-mushrooms-south-america]], southern Africa, Australia, and New Zealand.
+C. maculatus is native to temperate Europe, the Mediterranean basin, and North Africa. It has been widely introduced and naturalized in [[guzman-psilocybin-mushrooms-south-america]], southern Africa, Australia, and New Zealand.
 
 The species thrives in disturbed, nutrient-rich soils and is commonly found along roadsides, ditch banks, fence lines, river margins, and the edges of cultivated fields. It tolerates partial shade but prefers full sun and moist conditions.
 
@@ -87,3 +46,85 @@ Unlike curariform agents, coniine also possesses some central nervous system act
 **Toxic dose:** The lethal dose of coniine in humans is estimated at 150–300 mg for adults, corresponding to approximately 6–8 fresh leaves or a smaller quantity of seeds. Children are susceptible at proportionally lower doses.
 
 **Symptom progression:**
+
+## Overview
+
+Conium Maculatus represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish conium maculatus
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving conium extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Conium Maculatus finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for conium maculatus. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+conium maculatus and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Conium Maculatus has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of conium maculatus into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[adromischus-maculatus]]
+- [[conium-maculatum]]

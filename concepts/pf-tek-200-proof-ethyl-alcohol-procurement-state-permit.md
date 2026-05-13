@@ -1,6 +1,6 @@
 ---
 title: "PF TEK 200-Proof Ethyl Alcohol Procurement and State Permit Process"
-source: "Fanaticus PF TEK — [[pf-tek-psilocybe-fanaticus]] (PF)"
+source: "Fanaticus PF TEK — pf-tek-psilocybe-fanaticus (PF)"
 tags: [pf-tek, extraction, ethyl-alcohol, 200-proof, anhydrous, procurement, permit, solvent]
 created: 2026-05-11
 ---
@@ -9,25 +9,7 @@ created: 2026-05-11
 
 ## Overview
 
-The PF TEK [[psilocybin-methyl-alcohol-extraction-technique]] requires pure 200-proof anhydrous ethyl alcohol (100% pure ethyl alcohol with no water content). This solvent is used to extract psilocybin from dried mushroom material to produce a concentrated psilocybin liqueur. The procurement of 200-proof ethyl alcohol in the United States involves navigating state-level liquor regulations, which may require a permit depending on the state of residence.
-
-## Why 200-Proof Over 190-Proof
-
-PF specifies 200-proof (anhydrous, zero water content) as preferred for several reasons:
-- **No water contamination**: 200-proof contains no water, which means no residual moisture during evaporation
-- **Cleaner extraction**: Pure ethanol extracts alkaloids more efficiently without water competition
-- **Better concentration**: When evaporated down, there is no water left diluting the final product
-- **Superior preservation**: Alcohol without water content preserves the extract more effectively
-
-190-proof (95% ethyl alcohol, 5% water) is acceptable but suboptimal. The 5% residual water is described as "a negative, especially when evaporated down," as it remains in the final concentrated product.
-
-## Locating 200-Proof Ethyl Alcohol
-
-### Primary Source: Well-Stocked Liquor Stores
-
-The recommended approach is to call a well-stocked liquor store and ask if they carry 200-proof anhydrous ethyl alcohol. Full-service liquor stores supply hospitals and laboratories with 200-proof anhydrous ethyl alcohol in the United States, so established retailers often have supply relationships.
-
-If the local store does not stock it, the salespeople will typically know where to get it, as they are familiar with the [[emcdda-free-spore-ring-europe-spore-distribution-network]] for laboratory and hospital alcohol supplies.
+The [[pf-tek]] [[emcdda-free-spore-ring-europe-spore-distribution-network]] for laboratory and hospital alcohol supplies.
 
 ### The State Liquor Board Permit Process
 
@@ -48,13 +30,7 @@ This description positions the use within legitimate, recognized applications th
 
 ### PF's Perspective on Regulations
 
-PF describes the poison warnings on alcohol bottles and the permit requirements as "bureaucratic nonsense" that results in the state collecting revenue from the sale. The characterization reflects the tension between [[medicinal-mushroom-cancer-regulatory-frameworks]] designed to prevent beverage alcohol tax evasion and the legitimate scientific/craft use of pure ethanol.
-
-## Full Extraction Supply List
-
-PF provides a complete materials list for the alcohol extraction procedure:
-
-- **Shrooms** — quality [[anemotropism-in-psilocybe-cubensis]], harvested before caps open, cool-dried with desiccant
+PF describes the poison warnings on alcohol bottles and the permit requirements as "bureaucratic nonsense" that results in the state collecting revenue from the sale. The characterization reflects the tension between [[anemotropism-in-psilocybe-cubensis]], harvested before caps open, cool-dried with desiccant
 - **200-proof ethyl alcohol** — the extraction solvent
 - **Drinking glass** — with spoon, knife, etc. for handling
 - **Funnel** — for transferring liquids
@@ -124,5 +100,5 @@ Using mature, sporulating, or improperly dried mushrooms will produce a weaker e
 - pf-tek-ethyl-alcohol-extraction-liqueur-concentration.md
 - pf-tek-ethyl-alcohol-extraction-psilocybin-liqueur.md
 - pf-tek-cool-desiccation-drying-mushrooms.md
-- psilocybin-methyl-alcohol-extraction-technique.md
+- [[psilocybin-methyl-alcohol-extraction-technique]].md
 - pf-tek-desiccant-types-sourcing-cool-drying-technique.md

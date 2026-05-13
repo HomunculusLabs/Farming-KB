@@ -25,42 +25,15 @@ sources:
 
 ## Overview
 
-Cap Junky is a potent indica-dominant hybrid [[blesching-cannabis-strain-selection-receptor-targeting]] created by crossing
-**Capulator's MAC ([[miracle-alien-cookies]])** with **Alien Cookies BX1**. Bred by
+Cap Junky is a potent indica-dominant hybrid [[miracle-alien-cookies]])** with **Alien Cookies BX1**. Bred by
 Seed Junky Genetics in collaboration with Compound Genetics, it was released in
 the early 2020s and rapidly became one of the most sought-after exotic strains
-in the [[growing-gourmet-north-american-reishi-species]] market.
-
-The strain is renowned for its staggering potency — consistently testing between
-30–36% THC — combined with an extraordinarily pungent, fuel-forward aroma profile
-that has become the benchmark for the "gas" category in modern [[oner-cannabis-breeding-fundamentals]].
+in the [[oner-cannabis-breeding-fundamentals]].
 
 ## Lineage
 
 - **Female parent:** MAC (Miracle Alien Cookies) — *Alien Cookies × (Colombian × Starfighter)*
-  Bred by Capulator, MAC contributed the strain's dense [[green-cannabis-plant-anatomy-calyx-pistil-bud-structure]], frosty
-  trichome coverage, and complex cookie-gas terpene base.
-- **Male parent:** Alien Cookies BX1 — a backcross of Alien Cookies reinforcing
-  the sharp, chemical, and doughy aroma characteristics of the Alien lineage.
-- **Genetic ratio:** Approximately 60% indica / 40% sativa.
-
-The combination of two Alien Cookies-descended parents gives Cap Junky a remarkably
-uniform terpene expression and potent cannabinoid profile, as the lineage doubles
-down on the same genetic foundation.
-
-## Appearance and Aroma
-
-### Appearance
-
-Cap Junky produces medium-to-large, densely packed flowers with a chunky,
-irregular structure. Buds display deep olive-green to purple-tinged coloring
-with vivid orange pistils interwoven throughout. The defining visual feature is
-an exceptionally thick coating of milky-white trichomes that gives the flowers
-a frosted, nearly white appearance at maturity.
-
-### Aroma and Flavor
-
-- **Primary notes:** [[jet-fuel]], rubber, burnt rubber, chemical cleaner
+  Bred by Capulator, MAC contributed the strain's dense [[jet-fuel]], rubber, burnt rubber, chemical cleaner
 - **Secondary notes:** Doughy cookie, earthy musk, sour citrus peel
 - **Aftertaste:** Lingering acrid gas with a faintly sweet cookie undertone
 
@@ -81,10 +54,82 @@ diesel-dominant inhale with a smoother cookie-dough exhale.
 
 - **THC:** 30–36% (exceptionally high; some phenotypes test above 37%)
 - **CBD:** <0.1% (negligible)
-- **[[cannabis-minor-cannabinoids]]:** Trace THCV, CBC, CBG detected in most lab analyses
-
-## Effects
-
-Cap Junky delivers fast-acting, intensely powerful effects consistent with its
-high [[thc-content-factors-cultivation-freshness-storage-degradation-blesching]]. The onset is cerebral and euphoric, characterized by a rush of
+- **[[thc-content-factors-cultivation-freshness-storage-degradation-blesching]]. The onset is cerebral and euphoric, characterized by a rush of
 heady intoxication that can feel almost disorienting at first. Within 15–30 minutes,
+
+## Overview
+
+Cap Junky represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish cap junky
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving cap extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Cap Junky finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for cap junky. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+cap junky and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Cap Junky has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of cap junky into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.

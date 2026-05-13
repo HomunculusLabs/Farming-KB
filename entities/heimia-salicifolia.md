@@ -36,13 +36,7 @@ The plant has a woody base with multiple branching stems. The bark is smooth and
 
 ## Distribution
 
-H. salicifolia ranges from southern [[guzman-psilocybin-mushrooms-north-america]] to Argentina and the West Indies, with its most significant traditional use documented in the Mexican highlands. It is commonly found growing along stream banks, in moist ravines, and in disturbed areas throughout its range. The plant is relatively adaptable and can tolerate a range of soil conditions, though it prefers consistently moist environments.
-
-## Ethnobotanical Uses
-
-### Mexican Highland Preparation
-
-In the Mexican highlands, the leaves of H. salicifolia are slightly wilted, crushed in water, and the preparation is then allowed to ferment into an intoxicating drink. The fermentation process is considered essential to activating the psychoactive properties. [[kava-traditional-preparation-ceremonial-context]] methods vary between communities, with some adding sweeteners or other herbs to the fermented beverage.
+H. salicifolia ranges from southern [[kava-traditional-preparation-ceremonial-context]] methods vary between communities, with some adding sweeteners or other herbs to the fermented beverage.
 
 ### Effects
 
@@ -88,6 +82,10 @@ The traditional fermentation step may convert inactive alkaloid precursors into 
 The earliest reliable documentation of Sinicuichi use comes from the work of Mexican ethnobotanist Blas Pablo Reko in the early 20th century.  Schultes later provided more detailed ethnobotanical accounts of its preparation and use among indigenous communities in the Mexican highlands. The plant has received relatively little scientific attention compared to more famous Mexican hallucinogens, and much of what is known about its effects comes from ethnographic reports rather than controlled clinical studies.
 
 ## Safety Considerations
+
+## See Also
+
+- [[capuli-cherry-prunus-salicifolia-andean-fruit-tree]]
 
 ## See Also
 - [[sinicuichi-heimia-salicifolia-auditory-hallucinogen]]

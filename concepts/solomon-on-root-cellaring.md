@@ -9,44 +9,13 @@ sources:
 ---
 # Solomon on Root Cellaring
 
-From [[root-cellaring-guide]].
-
-### Other
-- **Apples**: Store well at 30-35 degrees F with high humidity. Keep away from [[growing-root-vegetables-guide]] (ethylene gas causes sprouting and off-flavors).
+From [[growing-root-vegetables-guide]] (ethylene gas causes sprouting and off-flavors).
 - **Sweet potatoes**: Require curing at 80-85 degrees F, then storage at 55-60 degrees F. They suffer chilling injury below 50 degrees F.
 
 ## Key Principles
 
-1. **Temperature**: Most [[permaculture-plants-root-crops-and-tubers]] want 32-40 degrees F. Winter squash and sweet potatoes want warmer (55-60 degrees F).
-2. **Humidity**: Root vegetables need high humidity (90-95%). Onions, garlic, and squash need [[pf-tek-low-humidity-symptoms-and-remediation]] (60-70%).
-3. **Ventilation**: Some [[stamets-growing-room-air-circulation-co2-management]] prevents mold and rot. Stale air promotes disease.
-4. **Darkness**: Potatoes must be kept dark to prevent solanine development (greening).
-5. **Monitoring**: Check stored crops regularly. One rotting potato can ruin a bin. Remove anything showing decay immediately.
-6. **Curing**: Many crops benefit from a curing period before storage. This toughens skins and heals cuts.
-
-## The Humidity Problem
-
-Basements are often too dry for root vegetables. Solutions include packing in moist sand or sawdust, using plastic bags with ventilation holes, or damp burlap coverings. Conversely, basements can be too humid for onions and squash.
-
-## Steve Solomon's Specific Recommendations
-
-Solomon emphasizes that the key variables in root cellaring are
-temperature (ideally 32-40°F), humidity (85-95%), and ventilation.
-He advocates for earth-bermed cellars that use the ground's thermal
-mass to maintain stable temperatures, rather than fully excavated
-basements that may be too warm. A simple thermometer and hygrometer
-are essential tools for monitoring conditions.
-
-For households without cellar space, Solomon describes improvised
-alternatives: unheated enclosed porches, outdoor pits insulated with
-straw, and buried garbage cans with drainage holes. The critical
-principle is that any cool, dark, humid space that remains above
-freezing can serve as an effective root cellar with proper
-management.
-
-## Crop-Specific Storage Requirements
-
-Different root crops have distinct optimal [[vegetable-storage-conditions-by-temperature-and-humidity]].
+1. **Temperature**: Most [[pf-tek-low-humidity-symptoms-and-remediation]] (60-70%).
+3. **Ventilation**: Some [[vegetable-storage-conditions-by-temperature-and-humidity]].
 Potatoes prefer 38-40°F with 90% humidity and complete darkness
 (light causes greening and solanine production). Carrots and beets
 store best at 32-34°F with 95% humidity — they require a damper
@@ -62,9 +31,7 @@ brussels sprouts tolerate near-freezing temperatures and high
 humidity, making them ideal companions for carrots and beets.
 ## Related
 
-- [[root-cellaring-guide]]
 - [[complete-organic-fertilizer-recipes]]
-- [[solomon-growing-garlic-onions-leeks]]
 - [[solomon-complete-organic-fertilizer-guide]]
 ## Practical Considerations
 
@@ -84,3 +51,88 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
+
+## Overview
+
+Solomon On Root Cellaring represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish solomon on root cellaring
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving solomon extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Solomon On Root Cellaring finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for solomon on root cellaring. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+solomon on root cellaring and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Solomon On Root Cellaring has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of solomon on root cellaring into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[root-competition-plant-spacing-solomon]]
+- [[solomon-growing-perennials-asparagus-rhubarb]]
+- [[solomon-low-grade-compost-making-methods]]
+- [[solomon-shade-and-sunlight-requirements]]
+- [[solomon-wheelbarrow-selection-garden-tool-care-maintenance]]

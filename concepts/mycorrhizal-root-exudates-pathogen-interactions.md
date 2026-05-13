@@ -18,13 +18,9 @@ type: concept
 
 ## Overview
 
-[[arbuscular-mycorrhizal-colonization-patterns]] significantly alters the composition of root
-exudates, with implications for interactions with soil-borne pathogens.
-Changes in exudate chemistry affect the behavior of pathogen
-propagules, including zoospore chemotaxis, [[growing-gourmet-spore-germination-strain-isolation]], and
+[[growing-gourmet-spore-germination-strain-isolation]], and
 hyphal growth. Research using in vitro bi-compartmental systems and
-PCR-DGGE [[rhizosphere-fungal-community-analysis-rrna-rdna]] has revealed complex relationships between
-[[singh-mycorrhizal-exudates-root-exudate-interactions]], pathogen dynamics, and rhizosphere microbial
+PCR-DGGE [[singh-mycorrhizal-exudates-root-exudate-interactions]], pathogen dynamics, and rhizosphere microbial
 communities that do not always translate directly from simplified
 laboratory assays to more complex soil environments.
 

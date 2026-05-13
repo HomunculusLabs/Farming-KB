@@ -64,55 +64,15 @@ Botanical pesticides are pest management materials derived from plants,
 including oils, extracts, powders, fermented preparations, and volatile
 repellents. In organic farming and gardening they are usually considered part of
 natural pest control, a broader field that also includes soil health, sanitation,
-mechanical barriers, traps, [[comparison-beneficial-insects-guide-vs-integrated-pest-management]], trap crops, resistant varieties,
-and microbial or fungal biocontrol agents. Their value lies not only in their
-natural origin but in how narrowly and intelligently they can be integrated into
-a living agroecosystem.
-
-The topic bridges several traditions. [[hamilton-geoffhamilton-nick-organic-gardening-companion-planting]] sources emphasize daily
-observation, hand removal, clean cultivation, [[comparison-companion-planting-reference-vs-jadam-monoculture-critique]], and the
-maintenance of a diverse predator community. Permaculture sources frame pest
-management as a design problem, asking how plant diversity, edge, habitat,
-water, animals, and trap crops can keep herbivores below damaging levels.
-Korean Natural Farming and JADAM add farm-made inputs, fermented attractants,
-herbal extracts, soaps, wetting agents, sulfur, and microbial solutions that can
-be prepared at low cost from local materials.
-
-Modern horticultural examples, especially cannabis and greenhouse vegetable
-production, show both the usefulness and the limits of botanical controls.
-Neem, pyrethrum, insecticidal soap, hot pepper, garlic, citrus oils, and
-diatomaceous earth can suppress aphids, mites, whiteflies, thrips, fungus
-gnats, caterpillars, and other pests. Yet many of these materials also injure
-beneficial insects, irritate workers, alter flavor near harvest, or fail when
-applied at the wrong time, pH, humidity, or coverage.
-
-Natural pest control therefore is not a rejection of intervention. It is a
-hierarchy of interventions. The grower first prevents pest outbreaks by growing
-healthy plants in biologically active soil, minimizing stress, rotating crops,
-maintaining clean growing spaces, and attracting natural enemies. Direct sprays
-or dusts are then used when monitoring shows that pest numbers are rising faster
-than the ecosystem can contain them. This approach is commonly described as
-integrated pest management, or IPM.
-
-## Definition and scope
-
-## See Also
-
-- [[cho-natural-pest-control-methods]]
-- [[knf-pest-control-methods]]
+mechanical barriers, traps, [[hamilton-geoffhamilton-nick-organic-gardening-companion-planting]] sources emphasize daily
+observation, hand removal, clean cultivation, [[cho-natural-pest-control-methods]]
 - [[knf-pest-control-and-soap-water]]
-- [[jadam-natural-pest-control-methods]]
 - [[jadam-pest-control-recipes]]
-- [[jadam-herbal-pest-control]]
 - [[cervantes-neem-oil-organic-pest-control]]
-- [[neem-oil-cannabis]]
 - [[cervantes-pyrethrum-pyrethroid-insecticides]]
-- [[diatomaceous-earth-cannabis]]
 - [[hamilton-beneficial-insects-and-biological-pest-control]]
 - mollison-designers-trap-crops-biological-pest-control
-- [[insectary-plants-for-pest-control]]
 - [[jeavons-natural-pest-control]]
-- [[coleman-beneficial-insects-and-ecological-pest-control]]
 - [[cotter-natural-pest-control-disease-management]]
 
 ## References
@@ -122,12 +82,7 @@ summarized in Cho concept pages on natural pest control, aromatic insect
 attractants, fluorescent insect attractants, and soap water.
 
 Cho, Youngsang. JADAM Organic Farming: The Way to Ultra-Low-Cost Agriculture.
-JADAM material summarized in concept pages on JADAM [[jadam-natural-pesticide-institute-and-research]], wetting
-agent, herb solution, sulfur, and pest control recipes.
-
-Cervantes, Jorge. Marijuana Horticulture: The Indoor/Outdoor Medical Grower's
-Bible. Cannabis pest management material summarized in concept pages on neem,
-pyrethrum, whiteflies, diatomaceous earth, and [[fukuoka-textdoc-biological-control-fallacy-pheromone-critique]].
+JADAM material summarized in concept pages on JADAM [[fukuoka-textdoc-biological-control-fallacy-pheromone-critique]].
 
 Hamilton, Geoff, and Nick Hamilton. Organic Gardening. Organic gardening
 material summarized in concept pages on organic pest control, beneficial

@@ -8,7 +8,7 @@ aliases: [Photoperiodic Eye in Leaves, Leaf vs Tip Light Perception, Chamovitz P
 
 # The Photoperiodic Eye Is in the Leaves, Not the Tip: Contradicting the Darwin Phototropism Model
 
-One of the most surprising findings in plant sensory biology, highlighted by
+One of the most surprising findings in [[plant-sensory-biology]], highlighted by
 Chamovitz in "What a Plant Knows," is that the location of light perception for
 photoperiodism (day-length measurement for flowering) is fundamentally different
 from the location of light perception for phototropism (directional bending
@@ -35,7 +35,7 @@ of phototropism that the 'eye' of a plant is in its tip while the response to
 the light occurs in the stem. So we might conclude, then, that the 'eye' for
 photoperiodism is also in the tip of the plant." This conclusion, however, is
 wrong — and its falsification reveals something fundamental about the
-organization of plant sensory systems.
+organization of [[plant-sensory-systems]].
 
 ## The Leaf Illumination Experiment
 
@@ -129,12 +129,8 @@ from that light, and the generation of adaptive behavioral responses.
 
 ## See Also
 
-- [[darwins-five-condition-phototropism-experiment-plant-vision]] — the
-  phototropism model
 - [[chamovitz-red-far-red-phytochrome-switch-and-plant-memory]] — phytochrome
   mechanism
-- [[human-retina-photoreceptors-vs-plant-light-perception]] — plant vs. human
-  vision comparison
 - [[night-interruption-photoperiodism-commercial-floral-manipulation]] —
   photoperiodism applications
 - [[chamovitz-plant-senses-overview]] — all plant senses

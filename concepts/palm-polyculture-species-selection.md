@@ -20,75 +20,7 @@ The zoning sequence, working outward from the village center, runs:
 
 1. Village garden and trellis/roof crop/greens (100–150 species)
 2. Fuel-wood integrated with dwarf palm
-3. Palms within crop and [[avenue-cropping]]
-4. Productive trees within palms
-5. Animal forage and free range
-6. Forest and tree reserves
-
-This gradient reflects both diminishing management intensity and shifting functional needs as distance from the household increases. The village garden represents the most intensively managed zone, while the outer reserves require the least intervention. Each zone feeds into the next, creating a cascading system of yields and services that reduces waste and maximizes total productivity across the landscape.
-
-## Criteria for Species Selection
-
-Mollison provides seven explicit criteria governing species choice in palm polycultures. These serve as a filtering framework—every candidate species should be evaluated against each criterion before inclusion:
-
-1. **Soil suitability:** Species must be matched to site conditions using a mosaic approach based on drainage and nutrient status. No single species suits every soil type within a given site, and micro-topographic variation should drive species placement across the landscape.
-2. **Local acceptability:** Selected species should be locally acceptable or very similar to established local types. Unfamiliar species face adoption barriers, may be neglected by farmers, and carry the risk of becoming weeds if abandoned.
-3. **Processing potential:** Species with wide potential for processing are strongly preferred. Coconuts, for example, have hundreds of documented uses—food, oil, fiber, fuel, construction material, and more. Multi-use species justify their space in the system many times over.
-4. **Non-rampant growth:** Species that do not become invasive or overly competitive must be chosen. Rampant species can overrun companion crops, disrupt canopy structure, and destabilize the polyculture. This is especially important in tropical systems where growth rates are high.
-5. **Information availability:** Good varietal information, assured yield data, or low management input requirements reduce risk. Where knowledge is lacking, species should be trialed on a small scale before widescale planting.
-6. **Compatibility:** Species must be compatible with one another in terms of root zone, canopy architecture, nutrient demands, and phenology. Allelopathic interactions, shading conflicts, and root competition must all be considered.
-7. **Essential utility:** Species should serve present and future essential uses, not merely ornamental or marginal functions. Long-term value justifies the space and management investment over the decades-long lifespan of a palm polyculture.
-
-These criteria operate as a filtering sequence. A species that fails on any single criterion—particularly rampant growth or soil incompatibility—should be excluded regardless of its strengths elsewhere.
-
-## Varietal Selection
-
-For coconuts and many other palm species, there are dozens of varieties that have been developed for specific sites, soils, microclimates, or end uses. Varietal selection is not a one-time decision but an ongoing design process that must account for both current conditions and future needs:
-
-- **Dwarf varieties** are ideal for village surrounds, particularly in windy areas where tall palms pose hazards to structures and people. Their shorter stature also facilitates harvesting without specialized climbing equipment, making them accessible to smallholders.
-- **Tall varieties** produce higher yields over a longer productive life and are better suited to plantation-scale systems where climbing equipment and skilled labor are available. They cast less shade at ground level during early growth, allowing a longer window for intercropping.
-- **Pest resistance** and **soil type compatibility** must directly influence cultivar selection. A variety that thrives on sandy coastal soils may fail entirely on inland clay, and a variety susceptible to local pests will require prohibitive management inputs.
-- **End-use suitability** matters: some varieties produce better oil, others better copra, and still others are preferred for fresh consumption or toddy production. The intended product stream should drive varietal choice.
-
-Where no plantation history exists for a region, Mollison recommends building a small arboretum of many varieties. This living collection serves as a trial ground, a genetic resource bank, and a demonstration site for local farmers evaluating which varieties perform best under their specific conditions.
-
-## Natural Genetic Variation and Culling
-
-A unique challenge in palm polyculture is that almost all coconuts must be seed-grown—vegetative propagation is not commercially feasible for most palm species. This means every tree is genetically distinct, and significant variation in all crop characteristics must be expected. Mollison quantifies this variation based on field observation:
-
-- Approximately one in twenty trees will show very different characteristics from the parent population.
-- Of these variant trees, roughly one-third will exhibit favorable traits—improved yield, disease resistance, drought tolerance, or superior fruit quality.
-- The remaining two-thirds will be inferior in some meaningful way that reduces their contribution to the system.
-
-This genetic reality demands a deliberate culling strategy implemented over the full lifespan of the planting:
-
-| Phase | Timeframe | Action |
-|-------|-----------|--------|
-| Initial assessment | Years 1–7 | Cull 2–4% of planted trees (remove clearly inferior or diseased individuals) |
-| Secondary assessment | Years 7–14 | Cull an additional 2–4% (remove underperformers once production patterns are established) |
-| Long-term renewal | Years 14–60 | Final culling as part of an ongoing replant and renewal process |
-
-To accommodate these losses, **initial over-planting** is essential. Planting at 105–110% of the target density ensures that culling removes the worst performers without creating gaps that invite weed invasion or reduce system productivity. The culling process itself becomes a form of directed selection, gradually improving the genetic quality of the stand over decades of management.
-
-## Species Suited to Co-Processing
-
-One of the most sophisticated aspects of palm polyculture design is the selection of companion species that share processing infrastructure or feed into common product streams. Co-processing species reduce capital costs, spread labor demands, and increase overall system resilience by diversifying output.
-
-### Ethanol and Biogas Fuel Systems
-
-In palm crops designated for ethanol or biogas fuel production, companion species are chosen for their complementary fermentation or digestion characteristics:
-
-- **Cane sugar** provides high-sugar juice for direct fermentation into ethanol.
-- **Century plant (Agave)** yields fermentable sugars with minimal water input, making it suitable for seasonally dry sites where cane sugar would struggle.
-- **Beet** and **sorghum** round out the feedstock profile, extending the processing window across seasons and soil types.
-
-These species can be processed through the same fermentation and distillation equipment used for palm sap, maximizing infrastructure utilization and spreading labor demands across the calendar year.
-
-### Oil Production Systems
-
-Oil palm polycultures benefit from interplanting with other oil-bearing species that can share pressing and refining equipment:
-
-- **Mustards** (*[[brassica-juncea]]*, *B. campestris*), **sunflower** (*Helianthus annuus*), and **rapeseed** (*Brassica napus*) provide supplementary oilseed crops that can be pressed using the same infrastructure.
+3. Palms within crop and [[brassica-juncea]]*, *B. campestris*), **sunflower** (*Helianthus annuus*), and **rapeseed** (*Brassica napus*) provide supplementary oilseed crops that can be pressed using the same infrastructure.
 - These companion crops also serve as beneficial understory plants, improving pollination through their flowers, providing ground cover that suppresses weeds, and diversifying income streams across different harvest periods.
 
 ### Wetland Systems
@@ -115,12 +47,90 @@ The emphasis on over-planting and long-term culling reflects a realistic accepta
 
 ## See Also
 
-- [[mollison-wet-tropical-forest-structure-and-polyculture]] — the cross-sectional model that palm polycultures imitate
-- Zoning In Permaculture Design — the broader zoning framework from village to wilderness
-- Coconut Varieties — detailed varietal descriptions and selection guides
-- Co Processing And Integrated Production — design patterns for shared infrastructure
-- Genetic Selection And Culling Strategies — broader permaculture approaches to plant improvement
-## See Also
-
 - [[tropical-pioneering-grassland-rehabilitation]]
 - [[permaculture-design]]
+
+## Overview
+
+Palm Polyculture Species Selection represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish palm polyculture species selection
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving palm extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Palm Polyculture Species Selection finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for palm polyculture species selection. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+palm polyculture species selection and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Palm Polyculture Species Selection has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of palm polyculture species selection into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[doum-palm]]
+- [[mollison-coconut-palm-polyculture-systems]]
+- [[palm-clump-planting-patterns]]
+- [[palm-planting-patterns-and-mulch-systems]]
+- [[palm-species-in-permaculture]]

@@ -14,16 +14,8 @@ sources:
 
 ## Overview
 
-One of the most important pharmacological findings documented in PiHKAL concerns the activity of optical isomers (enantiomers) of psychedelic amphetamines. The pattern of stereoselectivity reveals fundamental information about [[tihkal-receptor-binding-serotonin]] mechanisms and distinguishes different pharmacological classes.
-
-## The General Pattern: R > S for Psychedelics
-
-For virtually all classic psychedelic amphetamines, the "R" isomer is more potent than the "S" isomer, and the racemic mixture (50:50 combination) shows intermediate potency. This pattern was consistently observed across:
-
-- [[dob-compound-profile]] -- R-isomer active at 1 mg; S-isomer showed "no effects at all" at 0.5 mg and only "very slight" effects at 1 mg
-- [[phenethylamine-receptor-pharmacology]]
+One of the most important pharmacological findings documented in PiHKAL concerns the activity of optical isomers (enantiomers) of psychedelic amphetamines. The pattern of stereoselectivity reveals fundamental information about [[dob-compound-profile]] -- R-isomer active at 1 mg; S-isomer showed "no effects at all" at 0.5 mg and only "very slight" effects at 1 mg
 - [[ayahuasca-preparation-and-ceremony]]
-- [[shulgin-safety-principles-self-experimentation]]
 - [[phenethylamine-synthesis-safety]]
 ## Practical Applications
 

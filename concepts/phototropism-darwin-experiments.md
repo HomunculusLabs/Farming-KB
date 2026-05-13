@@ -9,20 +9,14 @@ created: 2026-05-09
 
 In 1880, Charles Darwin and his son Francis published a landmark finding
 in plant biology: they demonstrated that plants possess a form of sight.
-Their experiments on [[phototropism]] — the tendency of plants to grow
-toward light — revealed that plants can detect the direction of light
-and coordinate a physical response, even though they lack anything
-resembling an eye or a brain. These experiments, described in Darwin's
-final book *The [[darwin-power-of-movement-in-plants]] in Plants*, remain among the most
+Their experiments on [[darwin-power-of-movement-in-plants]] in Plants*, remain among the most
 elegant and influential in the history of botany.
 
 ## The Background: Phototropism and Blue Light
 
 Almost all plants bend toward lateral light. This everyday observation
 — houseplants bowing toward a window, seedlings arching toward the sun
-— is called phototropism. But in the [[mckenna-club-des-hachischins-and-nineteenth-century-literary-hashish]], nobody
-understood how plants accomplished this feat. A key clue came in 1864,
-when [[chamovitz-julius-von-sachs-blue-light-phototropism]] Sachs, a contemporary of Darwin's, discovered that blue
+— is called phototropism. But in the [[chamovitz-julius-von-sachs-blue-light-phototropism]] Sachs, a contemporary of Darwin's, discovered that blue
 light is the primary colour that induces phototropism. Plants, Sachs
 found, are generally blind to other colours when it comes to bending
 toward light. This was the first hint that plants differentiate between

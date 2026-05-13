@@ -1,50 +1,6 @@
 ---
 title: Psychedelic Phenethylamines and PIHKAL
-subtitle: The chemistry, pharmacology, and [[shroom-cultural-history-hippie-revolution-and-counterculture]] of synthetic phenethylamine
-  psychedelics and Alexander Shulgin's landmark book.
-tags:
-  - phenethylamines
-  - pihkal
-  - alexander-shulgin
-  - psychedelic-chemistry
-  - 2c-family
-  - harm-reduction
-  - pharmacology
-  - research-chemicals
-date: 2026-05-01
-updated: 2026-05-01
-sources:
-  - "Shulgin, Alexander & Ann. PIHKAL: A Chemical Love Story (1991)"
-  - "Shulgin, Alexander & Ann. TIHKAL: The Continuation (1997)"
-  - "Turner, Hamilton. The Essential Psychedelic Guide"
-related_concepts:
-  - 2c-b-psychedelic-empathogen-guide
-  - 2c-family-compounds-overview
-  - 2c-family-chemistry-and-sar-pihkal
-  - 2c-b-compound-profile
-  - 2c-i-compound-profile
-  - 2c-e-compound-profile
-  - 2c-d-compound-profile
-  - 2c-p-compound-profile
-  - tma-2-compound-profile
-  - aleph-family-overview
-  - 2c-t-2-compound-profile
-  - 2c-t-7-compound-profile
-  - 2c-t-pihkal-entry-39
-  - turner-essential-psychedelics-lsd-cosmic-consciousness
-  - turner-psilocybin
----
-
-# Psychedelic Phenethylamines and PIHKAL
-
-Psychedelic phenethylamines constitute one of the two great chemical families of
-classical psychedelic substances, alongside the tryptamines. Built upon a
-phenethylamine backbone, a structure consisting of a six-membered benzene ring
-attached to a two-carbon ethylamine chain, these compounds produce profound
-alterations in consciousness including visual hallucinations, emotional
-amplification, and shifts in cognitive processing. The family's most famous
-natural member is mescaline, the active alkaloid of the peyote cactus and
-[[gottlieb-psychoactive-cacti-san-pedro-and-peruvian-torch]], which has been used in Indigenous ceremonial contexts for thousands
+subtitle: The chemistry, pharmacology, and [[gottlieb-psychoactive-cacti-san-pedro-and-peruvian-torch]], which has been used in Indigenous ceremonial contexts for thousands
 of years. But the phenethylamine landscape extends far beyond this single
 natural compound: through the work of chemists over the past century, hundreds
 of synthetic variants have been created, each with subtly different properties,
@@ -70,12 +26,7 @@ A Chemical Love Story, published in 1991, which documented 179 phenethylamine
 compounds along with their synthesis procedures, dosages, and qualitative
 effects as reported by Shulgin and a circle of trusted volunteers. PIHKAL
 stands as arguably the most extensive first-person exploration of psychedelic
-chemistry ever published, and its influence on subsequent research, [[mckenna-modest-proposal-drug-policy-reform]],
-and underground pharmacology has been incalculable.
-
-This article provides a comprehensive overview of psychedelic phenethylamines
-and the PIHKAL project, covering the chemistry, pharmacology, key compound
-families, [[adverse-effects-and-harm-reduction-psilocybin]] considerations, cultural impact, and modern research
+chemistry ever published, and its influence on subsequent research, [[adverse-effects-and-harm-reduction-psilocybin]] considerations, cultural impact, and modern research
 directions. It draws primarily from PIHKAL itself, its companion volume TIHKAL,
 and Hamilton Turner's Essential Psychedelic Guide, which offers valuable
 comparative perspectives on the subjective effects of these compounds.
@@ -123,19 +74,12 @@ compounds. The book was followed in 1997 by TIHKAL ("Tryptamines I Have Known
 and Loved"), which applied the same format to the tryptamine family.
 ## See Also
 
-[[2c-b-psychedelic-empathogen-guide]]
 [[2c-family-compounds-overview]]
-[[2c-family-chemistry-and-sar-pihkal]]
 [[2c-b-compound-profile]]
-[[2c-i-compound-profile]]
 [[2c-e-compound-profile]]
-[[2c-d-compound-profile]]
 [[2c-p-compound-profile]]
-[[tma-2-compound-profile]]
 [[aleph-family-overview]]
-[[2c-t-2-compound-profile]]
 [[2c-t-7-compound-profile]]
-[[2c-t-pihkal-entry-39]]
 [[turner-essential-psychedelics-lsd-cosmic-consciousness]]
 [[turner-psilocybin]]
 

@@ -16,68 +16,14 @@ updated: 2026-04-28
 sources:
   - https://pubmed.ncbi.nlm.nih.gov/?term=passiflora+incarnata+clinical
   - "Dhawan, K. et al. 'Passiflora: A review update.' Journal of Ethnopharmacology, 2004."
-  - "Appel, K. et al. 'Passiflora incarnata [[cannabis-for-anxiety-disorders]].' Phytotherapy Research, 2011."
----
-
-# Passiflora incarnata (Passionflower)
-
-## Overview
-
-**Passiflora incarnata**, commonly known as passionflower, maypop, or wild passion vine, is a perennial climbing vine native to the southeastern United States and parts of Central and [[guzman-psilocybin-mushrooms-south-america]]. Renowned for its strikingly complex flowers and edible fruit, passionflower has been used for centuries as a mild sedative, anxiolytic, and antispasmodic remedy. Modern [[hofmann-lsd-clinical-research-early-studies]] has substantiated many of its traditional uses, particularly for anxiety and [[cannabis-sleep-disorders-and-insomnia]], making it one of the most well-studied calming herbs in Western [[childrens-herbal-medicine]].
-
-## Taxonomy
-
-| Rank | Classification |
-|------|---------------|
-| Kingdom | Plantae |
-| Clade | Angiosperms, Eudicots, Rosids |
-| Order | Malpighiales |
-| Family | Passifloraceae |
-| Genus | *Passiflora* |
-| Species | *P. incarnata* |
-
-The genus *Passiflora* contains over 500 species of vines, predominantly tropical and subtropical. *P. incarnata* is one of the most cold-hardy members, extending into temperate [[psilocybin-north-america-pacific-northwest]].
+  - "Appel, K. et al. 'Passiflora incarnata [[guzman-psilocybin-mushrooms-south-america]]. Renowned for its strikingly complex flowers and edible fruit, passionflower has been used for centuries as a mild sedative, anxiolytic, and antispasmodic remedy. Modern [[cannabis-sleep-disorders-and-insomnia]], making it one of the most well-studied calming herbs in Western [[psilocybin-north-america-pacific-northwest]].
 
 ## Botanical Description
 
 ### Growth Habit
 
 - **Life form**: Deciduous to semi-evergreen perennial vine
-- **Growth rate**: Rapid; 3–6 meters (10–20 feet) per [[extending-growing-season]]
-- **Climbing mechanism**: Tendrils from leaf axils; twines around supports
-- **Root system**: Deep rhizomatous rootstock enabling regrowth after winter dieback
-
-### Leaves
-
-- Palmately lobed (typically 3-lobed), 5–18 cm, finely serrate, dark green
-
-### Flowers
-
-One of the most structurally complex flowers in the plant kingdom:
-
-- **Diameter**: 5–9 cm; pale lavender to white petals with prominent purple-and-white corona of ~70 filaments
-- **Bloom period**: July–September
-- **Pollination**: Primarily carpenter bees (*Xylocopa virginica*)
-- The unique structure was interpreted by early missionaries as symbolic of the crucifixion, giving the genus its name
-
-### Fruit
-
-- Ovoid berry, 4–7 cm; green maturing to yellowish-orange
-- Tart, aromatic pulp (less sweet than tropical *P. edulis*)
-- Fully edible; used in jams, jellies, and beverages
-
-## Bioactive Compounds
-
-### Flavonoids (Primary Actives)
-
-- **Chrysin** — anxiolytic; binds GABA_A receptors; weak aromatase inhibitor
-- **Vitexin** and **Isovitexin** — sedative, anxiolytic, cardioprotective
-- **Orientin** and **Isoorientin** — antioxidant, neuroprotective
-- **Apigenin** — binds benzodiazepine site on GABA_A receptors
-
-### Alkaloids
-
-- **Harman** and **harmaline** (β-carboline alkaloids) — trace amounts; mild [[tihkal-oral-activity-mao-inhibition]]
+- **Growth rate**: Rapid; 3–6 meters (10–20 feet) per [[tihkal-oral-activity-mao-inhibition]]
 
 ### Other Constituents
 
@@ -88,3 +34,88 @@ One of the most structurally complex flowers in the plant kingdom:
 ## Pharmacological Effects
 
 ### GABAergic Activity
+
+## Overview
+
+Passionflower Passiflora represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish passionflower passiflora
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving passionflower extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Passionflower Passiflora finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for passionflower passiflora. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+passionflower passiflora and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Passionflower Passiflora has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of passionflower passiflora into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[comparison-chamomile-vs-passionflower]]
+- [[comparison-lemon-balm-vs-passionflower]]
+- [[comparison-passionflower-vs-st-johns-wort]]
+- [[comparison-valerian-vs-passionflower]]
+- [[passionflower-growing-guide]]

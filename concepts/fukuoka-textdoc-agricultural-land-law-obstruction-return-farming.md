@@ -1,20 +1,7 @@
 ---
 title: Fukuoka Textdoc Agricultural Land Law Obstruction Return Farming
 created: 2026-04-28
-tags: [fukuoka, [[natural-farming]], land-policy, agricultural-law, farming-for-all, quarter-acre-farming]
-date: 2026-04-28
-updated: 2026-04-28
-sources:
-  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
-  - raw/papers/administrator-microsoft-word-fukuoka-textdoc.md
-type: concept
----
-
-# Agricultural Land Law as Obstruction to Return Farming
-
-## Overview
-
-[[masanobu-fukuoka]] identifies the legal framework surrounding
+tags: [fukuoka, [[masanobu-fukuoka]] identifies the legal framework surrounding
 land ownership and use as the primary structural obstacle
 preventing people from returning to farming. Japan's
 Agricultural Land Law, originally enacted to protect tenant
@@ -90,43 +77,8 @@ there is no category of land that anyone can freely work.
 Not one square yard of land that goes by the name of
 
 ## See Also
-- [[fukuoka-textdoc-farmland-law-obstruction-return-farming]]
 - [[fukuoka-textdoc-farming-all-land-law-obstacles]]
-- [[fukuoka-textdoc-ideal-rice-morphology-high-yield-natural-farming]]
 - [[fukuoka-textdoc-sericulture-entanglement-natural-scientific-farming]]
-- [[fukuoka-textdoc-three-types-farming-comparison-yields]]
-
-## Practical Applications
-
-The principles and techniques discussed here have wide-ranging applications
-across multiple disciplines and contexts. Practitioners and researchers
-continue to explore new ways to integrate these concepts into modern practice,
-adapting traditional knowledge to contemporary challenges and opportunities.
-
-## Key Considerations
-
-Several important factors influence the effectiveness and outcomes described
-in this topic. Understanding these considerations helps practitioners make
-informed decisions and avoid common pitfalls. Environmental conditions,
-timing, and material selection all play critical roles.
-
-## Historical Context
-
-The historical development of this subject reflects centuries of accumulated
-knowledge and practical experience. From traditional methods passed down
-through generations to modern scientific approaches, the evolution continues
-to inform current best practices and research directions.
-
-## Common Challenges
-
-Practitioners frequently encounter several challenges when working with
-these concepts. Climate variability, resource limitations, and knowledge
-gaps can all affect outcomes. Addressing these challenges requires patience,
-observation, and a willingness to adapt approaches based on results.
-
-## See Also
 - [[fukuoka-textdoc-farmland-law-obstruction-return-farming]]
-- [[fukuoka-textdoc-farming-all-land-law-obstacles]]
 - [[doc]]
-- [[fukuoka-textdoc-postwar-agricultural-policy-fall-farming]]
 - [[fukuoka-dharmic-law-all-things-return-to-one]]

@@ -10,24 +10,13 @@ type: comparison
 
 # Ferrocement vs Cob Construction
 
-Both ferrocement and cob are affordable, low-tech [[urban-water-catchment-cistern-thermal-mass]]) |
-| **Monolithic behavior** | Excellent—shell acts as one unit | Excellent—no joints or cold bridges |
-| **Seismic resistance** | Good (flexible mesh distributes stress) | Poor to moderate (brittle in earthquakes) |
-| **Span capability** | Can vault and dome without formwork | Limited to small openings, timber lintels |
-
-Ferrocement's thin-shell [[coleman-first-rule-nature-makes-sense]] it ideal for curved forms—domes, vaults, cisterns, and boats—where it exploits its tensile capacity across large spans. A ferrocement dome can span several meters without internal support. Cob excels in compressive loads, making it natural for thick load-bearing walls in single-story structures, but it cannot span openings without timber or stone lintels.
+Both ferrocement and cob are affordable, low-tech [[coleman-first-rule-nature-makes-sense]] it ideal for curved forms—domes, vaults, cisterns, and boats—where it exploits its tensile capacity across large spans. A ferrocement dome can span several meters without internal support. Cob excels in compressive loads, making it natural for thick load-bearing walls in single-story structures, but it cannot span openings without timber or stone lintels.
 
 ## Climate Performance
 
 **Thermal mass vs. insulation:** Cob's enormous thermal mass moderates indoor temperatures in climates with large diurnal swings—hot days and cool nights. It absorbs heat during the day and releases it at night, creating a self-regulating thermal flywheel. However, it provides almost no insulation (R-0.25 per inch), so in sustained cold climates it performs poorly without external insulation. In temperate or desert climates, cob walls create comfortable interiors with minimal heating or cooling.
 
-Ferrocement is essentially a thin concrete shell with minimal thermal mass. Without insulation backing, it conducts heat readily and can overheat in sun or feel cold in winter. Builders typically pair ferrocement shells with insulation ([[comparison-hempcrete-vs-straw-bale-construction]], EPS, or natural fibers such as hempcrete or sheep wool) on one or both sides. In tropical climates, ferrocement's thin mass allows rapid cooling at night.
-
-**Moisture resistance:** Ferrocement is waterproof when properly cured and finished—a major advantage for wet climates, water tanks, and below-grade applications. A well-made ferrocement surface is essentially impermeable to liquid water. Cob is highly vulnerable to moisture; rising damp, roof leaks, or prolonged rain exposure cause erosion and structural degradation. Cob buildings require wide roof overhangs (minimum 60 cm), raised stone foundations, and breathable lime or earthen plasters. Sitework drainage is essential.
-
-## Construction Process
-
-**Ferrocement** requires procuring cement, steel mesh, [[cob-building]] (20–30 m²) typically takes a full building season (3–5 months) with a crew of 3–5 working steadily. No curing period beyond natural drying is required, and walls can be trimmed and sculpted while still plastic.
+Ferrocement is essentially a thin concrete shell with minimal thermal mass. Without insulation backing, it conducts heat readily and can overheat in sun or feel cold in winter. Builders typically pair ferrocement shells with insulation ([[cob-building]] (20–30 m²) typically takes a full building season (3–5 months) with a crew of 3–5 working steadily. No curing period beyond natural drying is required, and walls can be trimmed and sculpted while still plastic.
 
 ## Cost Comparison
 
@@ -68,11 +57,7 @@ Many natural builders combine both materials creatively. A common pattern uses c
 
 Properly built ferrocement can last 50–100+ years with minimal maintenance. The main risk is corrosion of the steel reinforcement if the mortar cover is too thin or cracks allow moisture penetration. Using galvanized mesh and maintaining adequate cement cover (minimum 1.5 cm over all reinforcement) mitigates this. Hairline cracks that develop over time can be patched with a cement slurry.
 
-Cob buildings that are kept dry can last centuries—many cob structures in Devon (UK) and Yemen are 300–500 years old and still inhabited. Maintenance involves periodic re-plastering (every 10–20 years) and vigilant protection from water intrusion at foundations and roof lines. One of cob's greatest advantages is reparability: damaged or eroded sections can be repaired by mixing new cob [[cob-construction]], and most jurisdictions classify it under "alternative materials" requiring special review. Builders typically need to demonstrate compliance through structural calculations, laboratory compression testing of cob samples, or precedent from permitted cob buildings in similar conditions. Some regions (notably parts of Oregon, New Mexico, and the UK) have more established pathways for cob permitting.
-
-## Skill Development and Community
-
-**Cob** has a strong tradition of community workshops and [[mollison-designers-dam-construction-and-water-storage]] and housing.
+Cob buildings that are kept dry can last centuries—many cob structures in Devon (UK) and Yemen are 300–500 years old and still inhabited. Maintenance involves periodic re-plastering (every 10–20 years) and vigilant protection from water intrusion at foundations and roof lines. One of cob's greatest advantages is reparability: damaged or eroded sections can be repaired by mixing new cob [[mollison-designers-dam-construction-and-water-storage]] and housing.
 
 ## Summary
 

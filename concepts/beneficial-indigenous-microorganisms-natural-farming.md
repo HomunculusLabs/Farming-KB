@@ -7,36 +7,7 @@ type: concept
 # Bokashi in Natural Farming
 
 Beneficial Indigenous Microorganisms (BIM) are naturally occurring microorganisms
-harvested from local environments and cultured for use in [[phosphate-accumulators-sustainable-agriculture]].
-Popularized in the Philippines by Gil A. Carandang of Herbana Farms, the practice
-draws on Dr. [[han-kyu-cho]]'s [[korean-natural-farming]] (KNF). BIM represent a core
-principle: that farmers can produce all necessary inputs on-farm using local
-materials, achieving self-reliance and reducing dependence on purchased chemical
-fertilizers and pesticides.
-
-## Philosophy of Korean Natural Farming
-
-Dr. Han Kyu Cho's philosophy centers on farmer autonomy and ecological harmony.
-In Korean Natural Farming, every input is derived from materials found on or near
-the farm. Rather than importing commercial biological products, practitioners
-learn to identify, collect, and multiply the microorganisms already present in
-their immediate environment. This eliminates input costs, fosters understanding
-of local ecology, and ensures microbial cultures are adapted to regional soil and
-climatic conditions. The system emphasizes working with nature's existing
-processes rather than substituting synthetic analogues.
-
-## Living Soil and Soil Fertility
-
-Central to the BIM approach is the understanding that healthy soil is living
-soil. Fertility depends not merely on mineral content but on vast communities of
-bacteria, fungi, actinomycetes, and other microorganisms that cycle nutrients,
-decompose organic matter, fix atmospheric nitrogen, and form symbiotic
-relationships with plant roots. Conventional agriculture's reliance on synthetic
-fertilizers often degrades this biological foundation. BIM practices aim to
-restore and maintain the soil microbiome, recognizing microorganisms as the
-essential engine of soil health and crop health.
-
-## [[lactic-acid-bacteria]] (Lacto Bacilli)
+harvested from local environments and cultured for use in [[han-kyu-cho]]'s [[lactic-acid-bacteria]] (Lacto Bacilli)
 
 Lactic acid bacteria are the primary workhorse microorganism in the BIM toolkit.
 These Gram-positive bacteria produce lactic acid as a metabolic byproduct,
@@ -91,39 +62,7 @@ Bamboo stands are targeted because bamboo roots exude sugary compounds supportin
 a distinct microbial community. The same cooked-rice bait method is used, placing
 rice at the base of bamboo clumps or within bamboo litter. The resulting culture
 is rich in cellulolytic organisms capable of breaking down tough plant fibers,
-making it useful for [[hamilton-composting-and-organic-matter-management]] matter decomposition.
-
-## Plant-Specific Microorganisms
-
-Microorganisms can be trapped from specific crop plants by placing cooked rice
-near the target plant's root zone or leaf surfaces. The rice attracts microbes
-naturally associated with that species, including epiphytic and rhizosphere
-organisms. These plant-specific cultures, when reapplied to the same crop,
-reinforce beneficial microbial associations and enhance plant vigor and disease
-resistance through competitive exclusion of pathogens.
-
-## Rhizobium Nitrogen-Fixing Bacteria
-
-Rhizobium bacteria form symbiotic nodules on leguminous roots, fixing atmospheric
-nitrogen into plant-available forms. A simple culture method involves digging up
-legumes (mung bean, soybean, or wild species), selecting roots with pink or red
-nodules indicating active fixation, and crushing nodules into a sugar-water
-solution. This crude inoculant is applied to seeds at planting or used as a
-soil drench, reducing or eliminating synthetic nitrogen fertilizer needs.
-
-## BIM Recipe Formulation
-
-The standard BIM formula combines cultures in a 50:50 ratio of lacto bacilli
-serum and other cultured microorganisms (typically a blend of forest, bamboo, and
-plant-specific cultures). This mixture is diluted with water and applied as a
-soil drench, foliar spray, or compost inoculant. The lacto bacilli component
-provides immediate pathogen suppression and odor control, while the diverse
-microbial component contributes nutrient cycling, decomposition, and plant growth
-promotion.
-
-## Bionutrients as Microbial Food
-
-Bionutrients, also called [[bionutrients-fermented-plant-extracts]] (FPE), serve as food for
+making it useful for [[bionutrients-fermented-plant-extracts]] (FPE), serve as food for
 beneficial microorganisms. They are prepared by fermenting fast-growing plants
 (often weeds such as purslane, mugwort, or taro leaves) with crude sugar or
 molasses. The resulting liquid contains sugars, amino acids, minerals, and growth

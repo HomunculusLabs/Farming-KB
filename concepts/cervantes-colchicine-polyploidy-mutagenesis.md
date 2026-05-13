@@ -18,15 +18,7 @@ type: concept
 # Colchicine, Polyploidy, and Mutagenesis in Cannabis
 
 Colchicine, polyploidy, and mutagenesis represent advanced and
-controversial techniques in [[oner-cannabis-breeding-fundamentals]]. While theoretically
-interesting, Cervantes strongly cautions against their practical use,
-noting that these methods have never produced agronomically superior
-cannabis and carry significant health risks.
-
-## Colchicine
-
-Colchicine is an alkaloid prepared from the dried corns and seeds of
-[[colchicum-autumnale]], the autumn crocus that also produces saffron. The
+controversial techniques in [[colchicum-autumnale]], the autumn crocus that also produces saffron. The
 pale, yellow powder is water soluble. Colchicine is a very dangerous,
 poisonous compound that can be used to induce polyploid mutations in
 cannabis.
@@ -89,43 +81,8 @@ chromosome, and when copies of this chromosome are inherited by future
 generations, a new or "novel" phenotype can appear.
 
 ## See Also
-- [[cannabis-polyploidy-colchicine-treatment-clarke]]
 - [[colchicine]]
-- [[cervantes-nutrient-mobility-deficiency-diagnosis]]
 - [[cervantes-dominance-recessive-traits-alleles]]
-- [[cervantes-ventilation-fan-carbon-filter-setup]]
-
-## Practical Applications
-
-The principles and techniques discussed here have wide-ranging applications
-across multiple disciplines and contexts. Practitioners and researchers
-continue to explore new ways to integrate these concepts into modern practice,
-adapting traditional knowledge to contemporary challenges and opportunities.
-
-## Key Considerations
-
-Several important factors influence the effectiveness and outcomes described
-in this topic. Understanding these considerations helps practitioners make
-informed decisions and avoid common pitfalls. Environmental conditions,
-timing, and material selection all play critical roles.
-
-## Historical Context
-
-The historical development of this subject reflects centuries of accumulated
-knowledge and practical experience. From traditional methods passed down
-through generations to modern scientific approaches, the evolution continues
-to inform current best practices and research directions.
-
-## Common Challenges
-
-Practitioners frequently encounter several challenges when working with
-these concepts. Climate variability, resource limitations, and knowledge
-gaps can all affect outcomes. Addressing these challenges requires patience,
-observation, and a willingness to adapt approaches based on results.
-
-## See Also
 - [[colchicine]]
-- [[dom]]
 - [[cannabis-polyploidy-colchicine-treatment-clarke]]
-- [[marijuana-horticulture-cervantes-hydroponic-growing-systems]]
 - [[cervantes-high-pressure-sodium-lighting]]

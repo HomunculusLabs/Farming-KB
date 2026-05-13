@@ -9,7 +9,7 @@ sources:
 ---
 # Fungal Pathogens and Parasites
 ## Overview
-Fungi cause devastating diseases in plants, animals, and humans. From the [[bloomfield-potato-blight-phytophthora-infestans]] that triggered the Irish famine to the brain-infecting Cryptococcus that kills immunocompromised patients, fungal pathogens have shaped human history and continue to pose serious medical and agricultural challenges. [[cryptococcus-neoformans]]
+Fungi cause devastating diseases in plants, animals, and humans. From the [[cryptococcus-neoformans]]
 A yeast that causes cryptococcal meningitis, primarily in immunocompromised patients:
 ### Biology
 - Found worldwide in soil and pigeon droppings
@@ -59,24 +59,13 @@ An oomycete (water mold) pathogen affecting mammals:
 - Mycelium becomes thoroughly embedded in the warm, protein-rich environment
 ### Treatment Challenges
 - Pythium lacks ergosterol in its membranes, so standard antifungal drugs are ineffective
-- Iodine (used since 1842) may interfere with cellulose-based [[staycare-degradation-of-plant-cell-wall-polymers-by-fungi]] synthesis
-- Vaccines developed by Leonel Mendoza at Michigan State University have shown promise
-- Often requires radical surgical debridement
-### Ecology
-- May grow as a soil saprobe, but has not been isolated from anywhere other than mammalian tissues
-- Likely an ancient pathogen — may have consumed prehistoric animal flesh for hundreds of millions of years
-- Related oomycetes found in skin lesions on turtles and reptiles
-## Histoplasmosis (Histoplasma capsulatum)
-- Also called [[histoplasma-capsulatum-ohio-valley-disease-dimorphic-fungus]] disease
+- Iodine (used since 1842) may interfere with cellulose-based [[histoplasma-capsulatum-ohio-valley-disease-dimorphic-fungus]] disease
 - Sexual stage: Ajellomyces (discovered by Kwon-Chung)
 - Associated with bird droppings and starling roosts
 - Most people exposed without symptoms; fungus becomes encapsulated in calcified lung nodules
 - In immunocompromised patients, can spread from lungs to any tissue in the body
 - Most Ohioans carry the dormant fungus in their lungs
-## Ergotism ([[ergot-fungus]], a pathogen of rye:
-### Toxins
-- **Ergotamine**: causes powerful vasoconstriction, leading to gangrene of extremities — patients lose nails, then hands or feet
-- **Isoergine ([[ergot-and-lysergic-acid-history]] amide)**: a less potent relative of LSD, causes terrifying hallucinations
+## Ergotism ([[ergot-and-lysergic-acid-history]] amide)**: a less potent relative of LSD, causes terrifying hallucinations
 - Both toxins survive baking
 ### Historical Impact
 - Caused by consuming rye bread contaminated with ergot sclerotia (dark, finger-like structures replacing grain kernels)
@@ -118,8 +107,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[spore]]
 - [[mycelium]]
-- [[histoplasma-capsulatum]]
 - [[ergotamine]]
 - [[lsd]]

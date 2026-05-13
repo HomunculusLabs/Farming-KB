@@ -107,13 +107,8 @@ The species is included in the Swiss Red List as "Near Threatened" (NT) at the n
 
 ## See Also
 
-- [[campanula-rotundifolia]]
 - [[campanula-cochlearifolia]]
-- [[campanula-barbata]]
 - [[campanula-cenisia]]
-- [[campanula-pulla]]
 - [[campanula-raineri]]
-- [[campanula-zoysii]]
 - [[campanula-morettiana]]
-- [[campanula-waldsteiniana]]
 - [[campanula-saxatilis]]

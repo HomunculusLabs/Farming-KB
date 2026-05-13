@@ -7,13 +7,13 @@ created: 2026-05-11
 
 # Louis Savier and the Modernization of French Intensive Market Gardening
 
-The story of Louis Savier represents a critical bridge between the 19th-century Parisian maraîcher tradition and modern organic market gardening. When Eliot Coleman visited Savier's farm outside Paris in the 1970s and 1980s, he found a living embodiment of intensive vegetable production techniques that had evolved from the legendary Parisian market gardens of 1850-1900 while incorporating 20th-century innovations. Savier's operation demonstrates both the enduring principles and the practical evolution of French intensive gardening.
+The story of Louis Savier represents a critical bridge between the 19th-century Parisian maraîcher tradition and modern organic market gardening. When [[eliot-coleman]] visited Savier's farm outside Paris in the 1970s and 1980s, he found a living embodiment of intensive vegetable production techniques that had evolved from the legendary Parisian market gardens of 1850-1900 while incorporating 20th-century innovations. Savier's operation demonstrates both the enduring principles and the practical evolution of French intensive gardening.
 
 ## The Parisian Maraîcher Legacy
 
 The Parisian market gardening system (la culture maraîchère) that reached its peak between 1850 and 1900 was one of the most productive and sophisticated vegetable production systems ever devised. Operating on one to two acre plots within the city limits of Paris, these growers (maraîchers) produced four to eight harvests per year from the same ground — an astonishing level of productivity achieved through:
 
-- Intensive interplanting and succession planting
+- Intensive interplanting and [[succession-planting]]
 - Heavy use of composted horse manure from city stables
 - Protected cultivation using cold frames and glass cloches
 - Year-round production using manure-heated hotbeds
@@ -114,9 +114,6 @@ Savier's progression from organic to biodynamic practices represents an interest
 
 ## See Also
 
-- [[coleman-french-maraicher-parisian-intensive-market-gardening]]
 - [[coleman-parisian-maraicher-system]]
-- [[coleman-french-maraicher-horse-manure-hotbed-system]]
 - [[coleman-french-intensive-bed-method]]
-- [[coleman-willow-basket-hotte-manure-transport]]
 - [[parisian-market-gardening]]

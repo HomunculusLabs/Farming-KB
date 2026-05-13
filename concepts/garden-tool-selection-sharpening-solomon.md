@@ -1,6 +1,6 @@
 ---
 title: Garden Tool Selection and Sharpening - Solomon
-source: [[steve-solomon]], Gardening When It Counts (2005)
+source: steve-solomon, Gardening When It Counts (2005)
 tags: [gardening-tools, sharpening, shovel, hoe, combination-shovel, spade, tool-maintenance, hand-tools]
 ---
 
@@ -9,15 +9,7 @@ tags: [gardening-tools, sharpening, shovel, hoe, combination-shovel, spade, tool
 ## Overview
 
 Steve Solomon's *Gardening When It Counts* dedicates significant
-attention to the proper [[solomon-garden-tools-selection-and-maintenance]] of hand gardening
-tools. His core argument: most gardeners struggle unnecessarily with
-digging and weeding because they use dull, poor-quality tools. A sharp
-tool transforms hard manual labor into manageable work, while a proper
-shovel eliminates the need for a power tiller entirely.
-
-## The Three Essential Tools
-
-To handle a garden up to a [[fukuoka-agriculture-tomorrow-quarter-acre-vision]] (1,000 square meters), Solomon
+attention to the proper [[fukuoka-agriculture-tomorrow-quarter-acre-vision]] (1,000 square meters), Solomon
 recommends only three essential tools:
 
 1. **A new combination shovel** (also called a combination spade)
@@ -63,17 +55,7 @@ serious digging work.
 
 ## Selecting Quality Tools
 
-Solomon offers these criteria for [[hamilton-choosing-garden-tools]] tools:
-
-- **Buy from landscaper suppliers or nursery supply catalogs**, not
-  discount stores. Tradespeople who use tools all day cannot afford
-  to break one every other day.
-- **Handle attachment**: Must be solid and secure
-- **Weight and balance**: Should feel light yet strong
-- **Steel quality**: The slower a file cuts the metal, the better the
-  steel. Soft metal that files quickly will dull rapidly.
-- **Blade top**: On shovels/spades, should be rolled over to cushion foot
-- **Professional [[emcdda-brand-names-user-terms-smartshop-marketing]]** are the most reliable quality indicator
+Solomon offers these criteria for [[emcdda-brand-names-user-terms-smartshop-marketing]]** are the most reliable quality indicator
 
 Tool steel involves inherent compromise: harder steel holds an edge
 longer but is more brittle. Garden implements need intermediate-grade
@@ -117,8 +99,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[steve-solomon]]
 - [[solomon-wheelbarrow-selection-garden-tool-care-maintenance]]
-- [[solomon-tool-care-sharpening-shovels-hoes-essential-gardening]]
 - [[home-garden-tool-selection-and-care]]
 - [[solomon-garden-tools-selection-and-maintenance]]

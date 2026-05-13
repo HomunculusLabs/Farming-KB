@@ -10,33 +10,17 @@ tags:
   - strain-selection
   - mycology
   - grass-seed-method
-source: "Grass [[grass-seed-cultivation-of-psilocybe-mushrooms]] Guide — fruiting-conditions|[[fruiting-conditions]] by Species"
+source: "Grass fruiting-conditions by Species"
 ---
 
 # Cold Shock and Strain-Specific Fruiting Requirements
 
 ## Overview
 
-Cold shock is a [[cold-shock-fruiting-trigger-species-specificity-psilocybe-panaeolus]] technique in which cased, fully colonized trays
-are placed in a refrigerator for an extended period (typically overnight) before
-being introduced to fruiting conditions. The sudden temperature drop simulates
-the seasonal onset of autumn, signaling the mycelium to shift from vegetative
-growth to reproductive fruiting body production. However, cold shock is **not
-universally beneficial** — its necessity and effectiveness depend heavily on the
-species and strain being cultivated.
-
-## The Overnight Fridge Protocol
-
-When cold shock is required, the procedure is straightforward:
-
-1. **Confirm full colonization** — The [[brassinosteroid-dung-grain-substrate-fruiting-enhancement]] must be completely
+Cold shock is a [[brassinosteroid-dung-grain-substrate-fruiting-enhancement]] must be completely
    colonized, and the casing layer should show visible mycelial penetration
-   (a whitish network on the [[abort-dead-pinhead-cleanup-casing-surface-hygiene]]).
-2. **Place trays in the refrigerator** — Set the fridge to a standard household
-   temperature (approximately 2–4 °C).
-3. **Duration** — Leave the trays overnight, roughly 12–16 hours.
-4. **Transfer to [[fruiting-chamber]]** — Move trays directly from the fridge into
-   the [[fruiting-environment-parameters]] (clear plastic bins with [[passive-humidity-fruit-chamber-polyethylene-sheeting]]
+   (a whitish network on the [[fruiting-chamber]]** — Move trays directly from the fridge into
+   the [[passive-humidity-fruit-chamber-polyethylene-sheeting]]
    covers).
 5. **Resume normal misting** — Begin the standard daily misting schedule.
 
@@ -54,8 +38,7 @@ irregular flushes often respond well to the temperature trigger.
 
 - Delayed or absent pinning under standard conditions.
 - Low pin count or uneven distribution across the casing surface.
-- Tendency to produce thick, dense [[singh-mycelial-mats-and-biological-soil-crusts]] on the casing without
-  transitioning to [[growing-gourmet-primordia-formation-pinning]].
+- Tendency to produce thick, dense [[growing-gourmet-primordia-formation-pinning]].
 - Often associated with wild-collected or less-domesticated genetic lines.
 
 For these strains, cold shock serves as a reliable initiation signal that can
@@ -81,11 +64,7 @@ to standard fruiting conditions without the need for temperature manipulation.
 
 ### Panaeolus subbalteatus
 
-P. subbalteatus (also known as [[panaeolus-cinctulus]]) is a coprophilous species
-that fruits in warm conditions. Cold shock is unnecessary and may be
-counterproductive for this species.
-
-### [[psilocybe-cubensis]] — Ecuador Strain
+P. subbalteatus (also known as [[psilocybe-cubensis]] — Ecuador Strain
 
 The Ecuador strain of P. cubensis is specifically called out as an **easy
 
@@ -118,8 +97,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[fruiting-conditions]]
 - [[dom]]
-- [[panaeolus-subbalteatus]]
 - [[psilocybe-mexicana]]
 - [[brassinosteroid]]

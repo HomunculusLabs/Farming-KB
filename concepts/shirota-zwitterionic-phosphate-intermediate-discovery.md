@@ -1,6 +1,6 @@
 ---
 title: Shirota Zwitterionic Phosphate Intermediate Discovery
-aliases: [zwitterion intermediate, N,O-dibenzyl phosphate, [[intramolecular-benzyl-migration-zwitterionic-phosphate-psilocybin-synthesis]]
+aliases: [zwitterion intermediate, N,O-dibenzyl phosphate, intramolecular-benzyl-migration-zwitterionic-phosphate-psilocybin-synthesis
 tags: [chemistry, synthesis, psilocybin, phosphorylation, NMR, organic-chemistry]
 source: concise-large-scale-synthesis-of-psilocin-and-psilocybin-shirota-hakamata-goda.md
 created: 2026-05-09
@@ -9,15 +9,12 @@ created: 2026-05-09
 # Zwitterionic Phosphate Intermediate Discovery
 
 One of the most significant findings in Shirota, Hakamata, and Goda's 2003
-synthesis of [[psilocybin]] was the accidental discovery of a zwitterionic
-N,O-dibenzyl phosphate derivative (compound 8) formed during the phosphorylation
-of psilocin. This intermediate, which arises from an intramolecular O-to-N benzyl
-group migration, enabled practical gram-scale [[gottlieb-psilocybin-production-extraction-methods]] by simple
+synthesis of [[gottlieb-psilocybin-production-extraction-methods]] by simple
 filtration.
 
 ## The Phosphorylation Reaction
 
-For the synthesis of psilocybin (2) from psilocin (1), several phosphorylation
+For the synthesis of [[psilocybin]] (2) from [[psilocin]] (1), several phosphorylation
 methodologies were applied. Most did not consume the starting psilocin. The
 phosphoryl iodide method (using tribenzyl phosphite, I2, and DMAP) and the
 pyrophosphate method (using tetrabenzylpyrophosphate and n-BuLi) both appeared

@@ -1,5 +1,5 @@
 ---
-title: Fungal Pest Control
+title: Fungal Pest Control — Using Mushrooms Against Insects
 created: 2026-04-11
 updated: 2026-04-12
 type: concept
@@ -10,7 +10,7 @@ sources:
 
 # Fungal Pest Control
 
-Using entomopathogenic (insect-killing) fungi as nontoxic alternatives to [[comparison-parasitoid-wasps-vs-chemical-pesticides]]. Part of the [[mycorestoration-overview]] framework.
+Using entomopathogenic (insect-killing) fungi as nontoxic alternatives to chemical pesticides. Part of the [[mycorestoration-overview]] framework.
 
 ## Core Species
 
@@ -54,7 +54,7 @@ Using entomopathogenic (insect-killing) fungi as nontoxic alternatives to [[comp
 | Target specificity | Often broad, kills beneficials | Can be species-specific |
 | Application safety | Requires PPE, restricted areas | Generally safe, no reentry periods |
 | Soil/water contamination | Significant | None; fungi are natural soil organisms |
-| Cost | Variable, often subsidized | Low — can be cultured on [[agricultural-waste-recycling]] |
+| Cost | Variable, often subsidized | Low — can be cultured on agricultural waste |
 
 ## Fire Ant Control
 
@@ -66,14 +66,14 @@ Similar social-disruption strategy used against fire ants:
 
 ## Integration with Gardens
 
-- **[[cervantes-companion-planting-pest-deterrent]]** with insect-attractive plants near mycelial beds draws pests into fungal traps
+- **Companion planting** with insect-attractive plants near mycelial beds draws pests into fungal traps
 - **Sawdust spawn** placed at the base of vulnerable plants creates a protective mycelial zone
 - **Spore sprays** can be applied to foliage using standard garden sprayers
 - Works synergistically with [[garden-mushroom-growing]] — same beds can produce food mushrooms AND control pests
 
 ## Limitations
 
-- Effectiveness varies with [[greg-green-temperature-and-humidity-control]] — fungi need moisture to sporulate
+- Effectiveness varies with temperature and humidity — fungi need moisture to sporulate
 - UV light degrades spores — shade or evening application recommended
 - Not instantaneous — requires days to weeks for full effect
 - Some insect species have grooming behaviors that remove spores
@@ -82,40 +82,5 @@ Similar social-disruption strategy used against fire ants:
 ## See Also
 
 - [[mycorestoration-overview]] for the broader framework
-- [[garden-mushroom-growing]] for combining [[jadam-pest-control-with-natural-pesticides-jhs]] food production
+- [[garden-mushroom-growing]] for combining pest control with food production
 - [[fungal-ecology]] for how fungi interact with insect populations in nature
-
-## Practical Applications
-
-The principles and techniques discussed here have wide-ranging applications
-across multiple disciplines and contexts. Practitioners and researchers
-continue to explore new ways to integrate these concepts into modern practice,
-adapting traditional knowledge to contemporary challenges and opportunities.
-
-## Key Considerations
-
-Several important factors influence the effectiveness and outcomes described
-in this topic. Understanding these considerations helps practitioners make
-informed decisions and avoid common pitfalls. Environmental conditions,
-timing, and material selection all play critical roles.
-
-## Historical Context
-
-The historical development of this subject reflects centuries of accumulated
-knowledge and practical experience. From traditional methods passed down
-through generations to modern scientific approaches, the evolution continues
-to inform current best practices and research directions.
-
-## Common Challenges
-
-Practitioners frequently encounter several challenges when working with
-these concepts. Climate variability, resource limitations, and knowledge
-gaps can all affect outcomes. Addressing these challenges requires patience,
-observation, and a willingness to adapt approaches based on results.
-
-## See Also
-- [[fungal-biopesticides]]
-- [[det]]
-- [[spore]]
-- [[beauveria-bassiana]]
-- [[metarhizium]]

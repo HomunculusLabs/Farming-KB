@@ -1,12 +1,6 @@
 # Hyphal Biology and Mycelial Architecture
 
-The hypha is the fundamental structural unit of [[brassinosteroid-fungal-growth-promotion]] and
-colonization. These thread-like filaments, typically just a few
-micrometers in diameter, extend through soil, wood, decaying organic
-matter, and living tissue, forming the dense networks known as mycelia
-that constitute the vegetative body of most fungi. Understanding hyphal
-biology is essential to understanding how fungi interact with their
-environments, decompose [[fukuoka-textdoc-composting-critique-futility-prepared-organic-matter]], cause disease, and construct
+The hypha is the fundamental structural unit of [[fukuoka-textdoc-composting-critique-futility-prepared-organic-matter]], cause disease, and construct
 some of the largest organisms on Earth.
 
 ## Eukaryotic Cell Structure
@@ -14,12 +8,7 @@ some of the largest organisms on Earth.
 Fungal hyphae are eukaryotic cells, sharing the fundamental cellular
 architecture of plants and animals. Each hyphal cell contains a
 membrane-bound nucleus (or multiple nuclei), ribosomes for protein
-synthesis, endoplasmic reticulum for [[protein-folding-and-misfolding-diseases-biochemistry]] transport,
-mitochondria for aerobic respiration, and a cytoskeleton of
-microtubules and actin filaments that provides structural organization
-and facilitates intracellular transport. The plasma membrane regulates
-the movement of materials in and out of the cell, while the distinctive
-[[chitin-chitosan-fungal-cell-wall]] — composed primarily of chitin, glucans, and
+synthesis, endoplasmic reticulum for [[chitin-chitosan-fungal-cell-wall]] — composed primarily of chitin, glucans, and
 glycoproteins — provides rigidity and protection from osmotic lysis.
 
 ## Tip Growth Mechanism
@@ -80,13 +69,7 @@ substrate is encountered, the mycelium can concentrate biomass and
 enzymatic activity at that location. When nutrients are depleted, the
 network can reorganize itself, abandoning unproductive regions and
 redirecting resources toward more promising areas. This remarkable
-plasticity allows fungi to thrive in highly [[fungal-mycelial-foraging-heterogeneous-environments]].
-
-## Armillaria: The Largest Organism on Earth
-
-The most dramatic demonstration of mycelial scale is provided by
-*Armillaria* species, the honey mushrooms. In the Malheur National
-Forest of Oregon, a single individual of *[[armillaria-ostoyae]]* covers
+plasticity allows fungi to thrive in highly [[armillaria-ostoyae]]* covers
 more than 2,200 acres, making it the largest known organism on Earth by
 
 ## Practical Applications
@@ -118,8 +101,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[mycelial-networks]]
 - [[doc]]
-- [[composting]]
 - [[brassinosteroid]]
 - [[fungal-hyphae]]

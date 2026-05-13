@@ -45,49 +45,13 @@ Ripening times given are averages for altitude ~1,000m. At higher altitudes, rip
 
 ## Pears and Stone Fruits
 
-Holzer also recommends several pear and stone fruit varieties for high-altitude cultivation. These are often overlooked by conventional growers but perform well with proper [[fukuoka-creating-natural-farm-site-selection-establishment]]:
-
-- **Conference pear** -- reliable and frost-hardy, good for fresh eating and canning
-
-- **Williams Christ pear** -- produces well at altitude when sheltered; excellent for bottling and preserving
-
-- **Hauszwetschge (Italian prune)** -- extremely undemanding, thrives even on poor soils, excellent for drying and distilling
-
-- **Wangenheimer Zwetschge** -- late-ripening damson plum, very frost-resistant, excellent for preserves
-
-- **Montmorency sour cherry** -- productive at high altitudes, good for preserves and juice
-
-- **Hedelfinger sweet cherry** -- requires good drainage and [[cervantes-wind-protection-outdoor-cannabis]] but rewards with excellent fruit
+Holzer also recommends several pear and stone fruit varieties for high-altitude cultivation. These are often overlooked by conventional growers but perform well with proper [[cervantes-wind-protection-outdoor-cannabis]] but rewards with excellent fruit
 
 These stone fruits benefit from the same microclimate strategies used for apples, particularly wind protection from natural-farm-permaculture-ethics-principles of creative response and working with nature's patterns rather than accepting conventional boundaries. Holzer's success at altitude demonstrates that expert recommendations are often based on industrial monoculture assumptions that do not account for the microclimate management possible in diverse, carefully designed systems.
 
 ## Site Preparation and Planting
 
-Successful high-altitude [[holzer-fruit-growing-marginal-climates]] depends on proper site preparation. Following holzer-fruit-tree-planting-method, faires-orchard-design-and-intercropping
-
-## Related
-
-- [[holzer-stone-fruit-varieties-and-growing]]
-- [[holzer-green-manure-and-soil-building-plants]]
-## Practical Considerations
-
-Successful implementation of Holzer Recommended Old Fruit Varieties requires attention to
-several practical factors including environmental conditions,
-resource availability, and timing. Careful monitoring and
-adaptive management help optimize outcomes across varying
-conditions. Integration with other system elements enhances
-overall effectiveness and creates beneficial synergies that
-improve resilience and productivity over time.
-
-## Future Directions
-
-Continued development in this area promises new insights and
-improved approaches for both research and practical application.
-Cross-disciplinary collaboration and advances in analytical
-methods create opportunities for innovation and refinement.
-Recommended resources include current literature, practitioner
-communities, and systematic experimentation to build expertise.
-## See Also
+Successful high-altitude [[holzer-stone-fruit-varieties-and-growing]]
 - [[holzer-old-varieties-and-seed-saving]]
 
 ## Practical Applications
@@ -119,8 +83,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[permaculture]]
 - [[sepp-holzer-fruit-tree-varieties]]
-- [[holzer-stone-fruit-varieties-and-growing]]
 - [[holzer-seed-autonomy-preserving-old-varieties]]
 - [[holzer-old-varieties-and-seed-saving]]

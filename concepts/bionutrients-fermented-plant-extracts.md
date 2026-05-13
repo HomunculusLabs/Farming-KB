@@ -1,16 +1,14 @@
 ---
-title: Bionutrients and Fermented Plant Extracts
+title: Bionutrients and [[korean-natural-farming-imo-collection-fermented-plant-extracts]]
 source: bahay-kubo-indigenous-microorganisms_.md
 type: concept
 ---
 
-# Bionutrients and [[fermented-plant-extract]]s
-
-Bionutrients are naturally derived plant and animal-based preparations used in natural farming to supply essential macro- and micronutrients, growth hormones, and beneficial microorganisms to crops and livestock. Unlike synthetic fertilizers, bionutrients are produced through simple fermentation processes using locally available materials—making them accessible, affordable, and ecologically sustainable. They form a core pillar of [[korean-natural-farming]] (KNF) and Philippine natural farming traditions.
+# Bionutrients and [[korean-natural-farming]] (KNF) and Philippine natural farming traditions.
 
 ## Fermentation vs. Simple Extraction
 
-A critical distinction in natural farming is between **fermented extracts** and **simple teas or infusions**. A tea or infusion involves steeping plant material in water to draw out water-soluble compounds; this is passive and extracts only a fraction of the available nutrients. Fermentation, by contrast, is an active biological process where microorganisms break down plant or animal tissues over several days to weeks, releasing a far broader spectrum of active compounds—including amino acids, enzymes, organic acids, and growth hormones—that would otherwise remain locked inside cellular structures. Fermented extracts are significantly more potent, stable, and bioavailable than simple teas.
+A critical distinction [[cho-loess-powder-in-natural-farming]] is between **fermented extracts** and **simple teas or infusions**. A tea or infusion involves steeping plant material in water to draw out water-soluble compounds; this is passive and extracts only a fraction of the available nutrients. Fermentation, by contrast, is an active biological process where microorganisms break down plant or animal tissues over several days to weeks, releasing a far broader spectrum of active compounds—including amino acids, enzymes, organic acids, and growth hormones—that would otherwise remain locked inside cellular structures. Fermented extracts are significantly more potent, stable, and bioavailable than simple teas.
 
 ## General Fermentation Formula
 
@@ -18,7 +16,7 @@ The universal baseline formula for producing fermented plant or animal extracts 
 
 ## Papaya Fermented Extract
 
-Papaya is a versatile material for producing fermented plant extract. The procedure is as follows:
+Papaya is a versatile material for producing [[fermented-plant-extract]]. The procedure is as follows:
 
 1. **Harvest** ripe or near-ripe papaya fruit.
 2. **Chop thin**—slice the papaya into small, thin pieces to maximize surface area for extraction. Do **not wash or peel** the fruit; the skin and any surface microorganisms contribute to the fermentation process.
@@ -45,17 +43,10 @@ The **BSP fermented extract** is one of the most important preparations for supp
 
 For experimentation in other regions, substitutes such as **comfrey, squash, and carrot** can be used in place of the traditional BSP combination. The guiding principle is to ferment materials that are rich in potassium and natural growth hormones.
 
-## [[fish-amino-acid]] — Nitrogen Source
-
-**Fish Amino Acid (FAA)** is a primary nitrogen source in natural farming. The fundamental rule is straightforward: **the higher the protein content of the raw material, the higher the nitrogen yield** when fermented. Fish scraps—heads, bones, entrails, and offal—are extremely protein-dense and produce a potent nitrogen-rich extract.
-
-**Procedure:**
-1. Combine fish scraps with crude sugar or **molasses** at the standard 1:3 ratio.
-2. Molasses is strongly preferred over sugar because it significantly reduces the characteristic fishy odor and adds trace minerals.
-3. Adding **[[lactic-acid-bacteria]] (LAB)** during fermentation further suppresses foul odors and accelerates the breakdown of proteins into amino acids.
+## [[lactic-acid-bacteria]] (LAB)** during fermentation further suppresses foul odors and accelerates the breakdown of proteins into amino acids.
 4. Ferment for 2–4 weeks, then strain. The resulting liquid is a concentrated fish amino acid solution.
 
-FAA is used as a foliar spray or soil drench to supply rapidly available nitrogen during the vegetative growth stage. It is analogous to commercially available fish emulsion but produced on-farm at minimal cost.
+FAA is used as a foliar spray or soil drench to supply rapidly available nitrogen during the [[knf-vegetative-growth-stage]]. It is analogous to commercially available fish emulsion but produced on-farm at minimal cost.
 
 ## Calcium Phosphate — Nutrioperiodism and the Changeover Period
 
@@ -82,7 +73,7 @@ Proper timing of calcium phosphate application during this narrow window improve
 
 **Ginger-garlic extract** serves as a broad-spectrum natural antibiotic and fungicide for both plants and animals. Garlic's high **sulfur content** gives it potent antifungal properties, while ginger contributes additional antimicrobial and medicinal compounds.
 
-The original Korean natural farming recipe incorporates Chinese herbs (*Angelica acutiloba, Glycyrrhiza uralensis, Cinnamomum loureirii*) valued for their digestive benefits, but a simplified version uses only equal parts ginger and garlic:
+The original [[korean-natural-farming-and-jadam]] recipe incorporates Chinese herbs (*Angelica acutiloba, [[glycyrrhiza-uralensis]], Cinnamomum loureirii*) valued for their digestive benefits, but a simplified version uses only equal parts ginger and garlic:
 
 1. **Chop** ginger and garlic into small pieces.
 2. **Soak** in **beer or wine** for 12 hours (overnight) to begin extracting active compounds.
@@ -116,7 +107,7 @@ This hierarchy directly affects **dilution rates**. For example, fermented grain
 | Coco Peat | 20 kg |
 | Chicken Manure | 30 kg |
 | Charcoal Dust | 20 kg |
-| BIM (Beneficial Indigenous Microorganisms) | 1 liter |
+| BIM ([[beneficial-indigenous-microorganisms-lacto-bacilli]]) | 1 liter |
 | Molasses | 1 kg |
 | Bionutrient (custom blend) | 1 liter |
 

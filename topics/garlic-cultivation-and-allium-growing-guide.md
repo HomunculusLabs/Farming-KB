@@ -1,6 +1,6 @@
 ---
 title: "Garlic Cultivation and garlic cultivation and allium growing guide Guide"
-subtitle: "Comprehensive guide to [[solomon-growing-garlic-onions-leeks]], onions, leeks, shallots, and chives"
+subtitle: "Comprehensive guide to solomon-growing-garlic-onions-leeks, onions, leeks, shallots, and chives"
 tags: [garlic, alliums, onions, leeks, shallots, vegetable-cultivation]
 date: 2026-04-28
 updated: 2026-04-28
@@ -62,14 +62,7 @@ can help deter certain insect pests.
 All allium crops share fundamental soil preferences. They need an open,
 sunny position with well-drained soil and a pH between 6.0 and 7.0. If
 the soil is acidic, adding lime to raise the pH above 6.5 improves
-[[ph-and-nutrient-availability-garden-soils]]. Heavy, waterlogged soils promote rot in all allium
-crops, so raised beds or sandy loams are ideal. Incorporating 2 to 3
-inches of well-rotted compost or aged manure before planting provides
-both nutrients and improved soil structure.
-
-A critical caveat for onions: avoid applying fresh manure directly before
-planting. High nitrogen from fresh manure promotes thick necks and poor
-storage quality. [[comparison-wood-chip-mulch-vs-leaf-mold-vs-composted-manure-soil-building]] or well-rotted compost applied the
+[[comparison-wood-chip-mulch-vs-leaf-mold-vs-composted-manure-soil-building]] or well-rotted compost applied the
 previous season is preferable. For garlic, moderate fertility is
 sufficient; excessive nitrogen encourages leafy growth at the expense of
 bulb development.
@@ -131,19 +124,13 @@ in zones 5 to 6, and November to December in zones 7 to 8.
 
 ## See Also
 
-- [[garlic-growing-guide]]
 - [[onion-growing-guide]]
-- [[alliums-growing-guide]]
 - [[comparison-hardneck-vs-softneck-garlic]]
-- [[comparison-garlic-vs-onion-growing]]
 - [[solomon-growing-garlic-onions-leeks]]
-- [[hamilton-bulb-vegetables-onion-family-organic]]
 - [[hamilton-leek-growing-organic]]
-- [[coleman-leek-deep-planting-technique]]
 - [[growing-alliums-organically]]
 
 ## References
 
-- Coleman, Eliot. *The [[coleman-claytonia-winter-harvest-cultivation]] Handbook*. Chelsea Green, 2009.
-- Hamilton, Geoff. *[[hamilton-geoffhamilton-nick-organic-gardening-companion-planting]]*. BBC Books, 1990.
+- Coleman, Eliot. *The [[hamilton-geoffhamilton-nick-organic-gardening-companion-planting]]*. BBC Books, 1990.
 - Solomon, Steve. *Gardening When It Counts*. New Society Publishers, 2005.

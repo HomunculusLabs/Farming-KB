@@ -1,6 +1,6 @@
 ---
 title: Oyster Mushroom Spawning Methods Worldwide Comparison
-source: "MushWorld - [[oyster-mushroom-cultivation]] (Mushrooms Handbook Vol. 1)"
+source: "MushWorld - oyster-mushroom-cultivation (Mushrooms Handbook Vol. 1)"
 topic: mushroom-cultivation
 tags: [oyster-mushroom, spawning, inoculation, spawn-rate, worldwide, cultivation]
 ---
@@ -9,9 +9,7 @@ tags: [oyster-mushroom, spawning, inoculation, spawn-rate, worldwide, cultivatio
 
 ## Overview
 
-Spawning (inoculation) introduces mushroom [[oyster-mushroom-substrate-materials-worldwide-survey-comparison]] mycelia into prepared substrate. The
-process varies significantly by country in terms of spawning rate, technique,
-sterility protocols, and timing. This concept documents spawning methods [[mushroom-inoculation-methods-spore-syringe-mycelium-syringe-agar-squares-comparison]] from six
+Spawning (inoculation) introduces mushroom [[mushroom-inoculation-methods-spore-syringe-mycelium-syringe-agar-squares-comparison]] from six
 countries as described in the MushWorld handbook, providing practical guidance
 for growers selecting or adapting approaches.
 
@@ -23,12 +21,7 @@ cultivators or commercial spawn providers. The standard inoculation protocol is:
 1. Clean and disinfect the work surface, inoculation room, and gloves with 70%
    alcohol solution. (Some growers dilute methanol with water — this should be
    avoided as prolonged use may cause brain and eye injury.)
-2. A spoonful of spawn is put into [[oil-drum-sterilizer-mushroom-substrate-bags]] as quickly as possible for
-   secure sterile operation.
-3. The general spawning rate is about 2–2.5% of the dry weight of substrate.
-
-Speed is critical: the longer the substrate bags are open, the greater the
-[[fungicide-treated-seed-contamination-risk-mushroom-substrate]]. Some growers work in pairs — one opening and holding bags,
+2. A spoonful of spawn is put into [[fungicide-treated-seed-contamination-risk-mushroom-substrate]]. Some growers work in pairs — one opening and holding bags,
 the other dispensing spawn — to minimise exposure time.
 
 ## Country-Specific Methods

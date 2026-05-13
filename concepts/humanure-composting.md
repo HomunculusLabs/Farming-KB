@@ -68,7 +68,7 @@ Ratio: aim for 1 part humanure to 3+ parts cover material by volume.
 ## Composting Process
 
 1. **Collection**: deposit in bucket/bin, cover with carbon material after every use
-2. **Transfer**: empty bins to outdoor [[mushroom-cultivator-compost-pile-management]] (minimum 4x4x4 ft for thermophilic activity)
+2. **Transfer**: empty bins to outdoor compost pile (minimum 4x4x4 ft for thermophilic activity)
 3. **Build**: alternate layers — humanure + carbon cover + kitchen scraps + straw/leaves
 4. **Thermophilic phase**: pile should reach 120-160°F within days. C:N ratio 25-35:1. Moisture like a wrung-out sponge. Maintain for months.
 5. **Curing**: after heating subsides, let sit **1-2 years**. Cover to shed rain.
@@ -91,7 +91,7 @@ Target C:N ratio: 25-35:1. Humanure is ~5-10:1, cover materials 100-400:1. Layer
 
 Laws vary widely by jurisdiction. In the US, no federal regulation — it's state/local:
 
-- **Permissive states** (few restrictions): Colorado, Oregon, Washington, Vermont, Maine allow composting [[mollison-designers-composting-toilets-and-humanure]] with minimal permitting
+- **Permissive states** (few restrictions): Colorado, Oregon, Washington, Vermont, Maine allow composting toilets and humanure with minimal permitting
 - **Restrictive states**: some require NSF/ANSI 41 certified systems or prohibit use on food crops
 - **Building codes**: many jurisdictions accept composting toilets under IRC Appendix Q or as alternative systems via variance
 - **International**: Sweden and parts of Scandinavia are permissive; many EU countries require approved systems; Australia has state-level variation
@@ -123,7 +123,7 @@ Graywater (sink, shower, laundry — NOT blackwater/toilet) can irrigate landsca
 
 - **Simplest**: laundry-to-landscape (L2L) — diverter valve, 1" poly tubing, mulch basins
 - **Moderate**: branched drain system — gravity-fed to multiple mulch basins
-- **Advanced**: [[comparison-constructed-wetland-vs-backyard-pond]] — gravel/plant filter for indoor reuse or discharge
+- **Advanced**: constructed wetland — gravel/plant filter for indoor reuse or discharge
 - **Soap selection**: use biodegradable, low-phosphate, no bleach/borax
 - **Legal**: many states allow L2L without permit (CA, AZ, NM, TX, others)
 - Integration with [[homestead-water-systems]]
@@ -141,7 +141,7 @@ Odor only occurs when aerobic conditions fail:
 
 ## Related Pages
 
-- [[composting-systems]] — [[comparison-bokashi-vs-hot-composting-method]], vermicompost, bokashi methods
-- [[soil-food-web-nutrient-cycling]] — microbial breakdown of [[fukuoka-textdoc-composting-critique-futility-prepared-organic-matter]]
+- [[composting-systems]] — hot composting, vermicompost, bokashi methods
+- [[soil-food-web-nutrient-cycling]] — microbial breakdown of organic matter
 - [[homestead-water-systems]] — greywater, composting toilets, water sourcing
 - [[homesteading-legal-considerations]] — zoning, permits, building codes

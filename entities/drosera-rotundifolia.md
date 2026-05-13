@@ -22,13 +22,7 @@ sources:
 
 **Drosera rotundifolia**, the common sundew, is a perennial carnivorous plant in the family Droseraceae.
 
-It is the most widely distributed sundew species, found across circumboreal regions of [[psilocybin-north-america-pacific-northwest]], Europe, and Asia.
-
-The species is named for its round, spoon-shaped leaf blades covered in glandular tentacles that secrete sticky mucilage.
-
-Insects are attracted to the glistening droplets, become trapped, and are slowly digested by proteolytic enzymes.
-
-Drosera rotundifolia has a centuries-long history of medicinal use, particularly in European [[childrens-herbal-medicine]] for respiratory complaints.
+It is the most widely distributed sundew species, found across circumboreal regions of [[childrens-herbal-medicine]] for respiratory complaints.
 
 ## Taxonomy and Morphology
 
@@ -56,9 +50,7 @@ Flowering occurs June through August. Each flower produces a capsule with numero
 
 ## Distribution and Habitat
 
-Drosera rotundifolia has a circumboreal distribution, occurring across northern Europe, northern Asia, and northern [[guzman-psilocybin-mushrooms-north-america]].
-
-In North America, it ranges from Alaska across Canada to the northeastern [[dmt-containing-plants-united-states-halpern]] and the Great Lakes region.
+Drosera rotundifolia has a circumboreal distribution, occurring across northern Europe, northern Asia, and northern [[dmt-containing-plants-united-states-halpern]] and the Great Lakes region.
 
 Disjunct populations exist in the Appalachian Mountains and in mountainous areas of the western [[dmt-maoi-plants-united-states]].
 

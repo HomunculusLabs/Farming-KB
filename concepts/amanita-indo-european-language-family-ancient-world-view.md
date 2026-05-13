@@ -1,5 +1,5 @@
 ---
-title: Amanita, the Indo-European Language Family, and Ancient World View
+title: Amanita, the Indo-European Language Family, and [[allegro-plants-and-drugs-in-the-ancient-world]] View
 source: amanita-muscaria-herb-of-immortality.md
 type: concept
 ---
@@ -9,7 +9,7 @@ type: concept
 ## The Discovery of the Indo-European Language Family
 
 The realization that many of the world's major languages descend from a single common
-ancestor is one of the great intellectual breakthroughs of the modern era. In 1786,
+ancestor is one of the great intellectual breakthroughs of the [[mycology-modern-era]]. In 1786,
 Sir William Jones, a British judge and scholar stationed in Calcutta, proposed that
 Sanskrit, Latin, Greek, Persian, Gothic, and Celtic all shared a common ancestor
 language — a language that had since vanished but whose fingerprints remained embedded
@@ -17,16 +17,12 @@ in the vocabularies and grammars of its descendants.
 
 Jones observed striking similarities in verb roots, noun declensions, and core
 vocabulary across these languages. His insight was revolutionary: these languages were
-not merely related in a loose sense, but were branches of a single family tree whose
+not merely related in a loose sense, but were branches of a single [[east-coast-sour-diesel-clone-lineage-chemdawg-family-tree]] whose
 trunk had existed in prehistory, long before any written records. The relationships
 were too systematic and too pervasive to be explained by borrowing or coincidence.
 
 Language scholars quickly discovered that Sanskrit and ancient Persian were closely
 related to Latin and Greek. This finding electrified the scholarly world of the early
-[[mckenna-club-des-hachischins-and-nineteenth-century-literary-hashish]] and gave birth to the systematic study of the Indo-European
-language family — a discipline that continues to this day and has profoundly shaped
-our understanding of human prehistory. Comparative philology provided the first
-reliable method for probing deep into the human past, predating archaeology as a
 [[bloomfield-history-of-mycology-scientific-discipline]].
 
 The implications of this discovery extend far beyond linguistics. Presently, one-half
@@ -41,19 +37,7 @@ peoples who carried these languages across continents over thousands of years.
 The Indo-European family tree is divided into several major branches, each reflecting
 the historical migrations and divergences of the peoples who spoke them:
 
-**Indo-Iranian** — The ancient languages most relevant to the [[amanita-muscaria-herb-of-immortality-soma-discovery]]
-inquiry. Sanskrit is the liturgical language of Hinduism and the language of the Rig
-Veda, where Soma is celebrated in over a thousand hymns. Avestan is the language of
-the Zoroastrian scriptures, the Avesta, where Haoma occupies a parallel position.
-Modern descendants include Hindi, Urdu, Bengali, Persian, Pashto, and Kurdish. Both
-the Indic (Indo-Aryan) and Iranian sub-branches preserved memories of the sacred
-plant, though their ritual traditions developed in different directions.
-
-**Greek** — The language of classical antiquity, philosophy, and science. Greek is the
-language of the texts describing Ambrosia, Nectar, and Dionysus — all central to the
-sacred plant inquiry. The Iliad, the Odyssey, and the Homeric Hymns all reference
-divine food and drink conferring immortality or extraordinary powers upon those who
-consumed it. The continuity of the Greek [[mckenna-fitz-hugh-ludlow-american-hashish-literary-tradition]] from Homer to the
+**Indo-Iranian** — The ancient languages most relevant to the [[mckenna-fitz-hugh-ludlow-american-hashish-literary-tradition]] from Homer to the
 present is unmatched in the Indo-European family.
 
 **Italic** — Latin, the language of Rome, the Roman Empire, and later the Western
@@ -73,7 +57,7 @@ Old English poetry also contains references to divine or magical beverages.
 languages survive today primarily in the British Isles and Brittany. Irish (Gaelic),
 Welsh, Scottish Gaelic, Breton, Manx, and Cornish are the living representatives,
 while Gaulish and Celtiberian are extinct. The Gaulish druids were reported by Roman
-authors to have extensive knowledge of sacred plants and herbal preparations, and
+authors to have extensive knowledge of sacred plants and [[honey-based-herbal-preparations]], and
 some scholars see possible connections to the broader Indo-European sacred plant
 tradition.
 

@@ -108,13 +108,8 @@ Invasive species such as Australian acacias alter fire regimes and soil nitrogen
 
 ## See Also
 
-- [[gladiolus-cardinalis]]
 - [[gladiolus-communis]]
-- [[crocosmia-lucifer]]
 - [[dietes-grandiflora]]
-- [[freesia-refracta]]
 - [[sisyrinchium-angustifolium]]
-- [[babiana-stricta]]
 - [[iris-germanica]]
-- [[crocus-sativus]]
 - [[tigridia-pavonia]]

@@ -28,15 +28,10 @@ octopus stinkhorn, is a striking saprotrophic basidiomycete in the
 family Clathraceae, order Phallales.
 
 Native to Australasia and southern Africa, it has become widely
-naturalized across Europe and [[psilocybin-north-america-pacific-northwest]]. The mature [[comparison-fruiting-body-vs-mycelium-extracts-medicinal-mushrooms]]
+naturalized across Europe and [[comparison-fruiting-body-vs-mycelium-extracts-medicinal-mushrooms]]
 erupts from a gelatinous egg into 4–8 bright red arms coated in dark
 olive-green gleba, producing a strong carrion odor that attracts
-flies for [[spore-print]] not obtainable by conventional
-methods due to the deliquescent gleba.
-
-**Odor:** Strong putrid carrion-like smell at maturity, similar to
-rotting meat. Attracts Diptera (Sarcophagidae, Muscidae,
-Calliphoridae) as primary [[aquatic-fungi-spore-dispersal-ingold]] vectors.
+flies for [[aquatic-fungi-spore-dispersal-ingold]] vectors.
 
 ## Distribution and Habitat
 
@@ -54,8 +49,7 @@ Fruiting occurs August–November (Northern Hemisphere) at 15–22°C.
 
 ## Ecology and Dispersal
 
-Obligate saprotroph decomposing woody [[hamilton-composting-and-organic-matter-management]], contributing
-to [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] in forest and garden ecosystems.
+Obligate saprotroph decomposing woody [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] in forest and garden ecosystems.
 
 Spore dispersal is entomochorous — the foul-smelling gleba attracts
 carrion-feeding flies. Flies land on the gleba, spores adhere to

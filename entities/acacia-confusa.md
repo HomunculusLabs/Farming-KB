@@ -13,77 +13,105 @@ sources:
   - Ott, J. (1994). "Ayahuasca Analogues: Pangaean Entheogens." Natural Product Reports.
   - Joubran, J. et al. (2003). "Determination of N,N-dimethyltryptamine in Acacia confusa." Journal of Forensic Sciences, 48(5).
   - Ratsch, C. (2005). "The Encyclopedia of Psychoactive Plants." Park Street Press.
-  - W.H. Hocking (1993). "Acacia confusa Merr.: A [[mollison-designers-chestnut-as-multipurpose-tree-crop]]." Economic Botany, 47(4).
----
-
-## Overview
-
-Acacia confusa (synonym: Acacia richii auct.) is a perennial tree in the family Fabaceae, native to [[psilocybe-southeast-asia-pacific]] and the [[guzman-allen-gartz-neurotropic-fungi-hawaii-pacific-islands]]. It is commonly known as Formosa acacia, Formosan koa, or rainbow shower tree.
-
-The species has gained recognition in ethnobotanical circles for its significant concentrations of N,N-dimethyltryptamine (DMT) in both bark and leaf tissue. It grows rapidly as a pioneer species, reaching 15 meters in height with a spreading canopy.
-
-Acacia confusa is one of the most accessible DMT-containing plants worldwide due to its wide distribution and high alkaloid yields. Its bark has become a primary material in ayahuasca analogue preparations across multiple continents.
-
-The species also holds substantial economic value as a timber, fuel, and soil-improvement tree throughout tropical Asia. Its dual significance as both an industrial resource and an ethnobotanical specimen makes it a notably versatile species.
-
-## Taxonomy and Description
-
-Acacia confusa belongs to the subfamily Mimosoideae within Fabaceae. It was first described by Elmer Drew Merrill in 1910 based on specimens collected in Taiwan (then Formosa), which gives the species its common name.
-
-The tree features bipinnate leaves that transition to phyllodes (flattened leaf stalks) as it matures. Young foliage displays delicate feathery fronds while mature trees bear broad, sickle-shaped phyllodes measuring 6–12 cm in length.
-
-Bark is dark gray to brown, becoming deeply furrowed with age, and produces a distinctive golden gum exudate when wounded. The trunk may reach 40–60 cm diameter at breast height in mature specimens.
-
-Flowers appear as globular golden-yellow heads approximately 5–8 mm in diameter, arranged in terminal or axillary racemes. Flowering occurs primarily from spring through early summer, producing abundant nectar that attracts bees and butterflies.
-
-Fruit consists of flattened, linear pods 5–10 cm long that twist upon drying. Each pod contains 4–8 dark brown, ovate seeds approximately 4–5 mm in length, dispersed by wind and water.
-
-The root system is extensive and features nitrogen-fixing nodules characteristic of leguminous plants. These nodules host symbiotic Rhizobium bacteria that convert atmospheric nitrogen into forms usable by the tree and surrounding vegetation.
-
-Acacia confusa is closely related to the Hawaiian koa tree (Acacia koa) and shares many morphological characteristics. The two species can be distinguished by phyllode shape, flower head arrangement, and alkaloid profile differences.
-
-The genus Acacia underwent a major taxonomic revision in 2011, splitting the traditional Acacia into multiple genera. Acacia confusa retains its placement in Acacia sensu stricto, the Australian and Pacific clade.
-
-## Alkaloid Profile and Chemistry
-
-Acacia confusa is notable among Acacia species for its high alkaloid content, particularly in the root bark and stem bark. Root bark consistently yields the highest concentrations, typically ranging from 0.5% to 1.5% DMT by dry weight.
-
-Stem bark contains slightly lower concentrations at 0.3% to 1.0% DMT, alongside N-methyltryptamine (NMT) as a significant secondary alkaloid. Leaf material contains trace amounts of DMT, generally below 0.1%, making bark the preferred harvest tissue.
-
-The alkaloid profile also includes beta-carbolines such as tetrahydroharman and related compounds in lower concentrations. These beta-carbolines function as mild monoamine oxidase inhibitors (MAOIs), potentially contributing to [[first-pass-metabolism-and-oral-bioavailability]] of DMT.
+  - W.H. Hocking (1993). "Acacia confusa Merr.: A [[psilocybe-southeast-asia-pacific]] and the [[first-pass-metabolism-and-oral-bioavailability]] of DMT.
 
 Tannin content is exceptionally high in the bark, reaching 20–30% by dry weight. This has historically made Acacia confusa bark valuable for leather tanning and dye production across its native range.
 
-[[challenges-neurotropic-fungi-chemical-analysis-taxonomic-identification]] has identified additional minor alkaloids including tryptamine, N-methyltryptamine, and trace amounts of 5-methoxy-N,N-dimethyltryptamine (5-MeO-DMT). The complete alkaloid profile varies seasonally and geographically.
-
-Extraction of DMT from Acacia confusa bark typically employs acid-base techniques. The high tannin content complicates extraction and requires defatting steps to produce clean alkaloid fractions.
-
-The ratio of DMT to NMT in bark tissue varies between individual trees and collection sites. Environmental stress factors including drought and herbivory appear to influence total [[mycelial-broth-alkaloid-production]].
+[[mycelial-broth-alkaloid-production]].
 
 ## Distribution and Habitat
 
 Acacia confusa is native to Taiwan, the Philippines, and parts of Indonesia, where it thrives in subtropical and tropical lowland forests. It has been widely planted throughout the Pacific basin including Hawaii, where it has naturalized extensively.
 
-The species is a vigorous pioneer that colonizes disturbed sites, roadsides, and abandoned [[fukuoka-textdoc-agricultural-land-law-obstruction-return-farming]]. It tolerates poor soils, drought, and salt spray, making it an effective erosion-control planting on steep slopes and coastal areas.
-
-In Taiwan, Acacia confusa is one of the most common broadleaf trees below 800 meters elevation. It forms dense, nearly monospecific stands that shade out understory vegetation and alter forest successional trajectories.
-
-The tree has been introduced to parts of Africa, India, and the Caribbean for agroforestry purposes. In some introduction zones it has shown invasive tendencies, outcompeting native vegetation through rapid growth and prolific seed production.
-
-Acacia confusa typically grows at elevations from sea level to 1500 meters in its native range. Annual rainfall requirements range from 1000 to 3000 mm, though established trees tolerate extended dry seasons.
-
-The species demonstrates moderate frost tolerance once established, recovering from brief exposure to temperatures as low as -2°C. Seedlings are more cold-sensitive and require protection during their first two years.
-
-## Traditional and Modern Uses
-
-In Taiwanese traditional medicine, Acacia confusa bark has been used as an astringent, anti-inflammatory agent, and wound-healing preparation. The high tannin content lends itself to treating diarrhea, [[cannabis-for-skin-conditions-detailed]], and oral infections.
+The species is a vigorous pioneer that colonizes disturbed sites, roadsides, and abandoned [[cannabis-for-skin-conditions-detailed]], and oral infections.
 
 Aboriginal communities in Taiwan and the Philippines have historically used the wood for construction, fuel, and crafting tools. The bark yields a durable black dye used in textile production and traditional tattoo ink.
 
-Modern ethnobotanical interest centers on the DMT content, which has made Acacia confusa a subject of ayahuasca analogue experimentation. Combined with a beta-carboline-rich plant such as [[ayahuasca-and-banisteriopsis-caapi]], the bark can produce effects similar to traditional [[schultes-ayahuasca-preparations]].
+Modern ethnobotanical interest centers on the DMT content, which has made Acacia confusa a subject of ayahuasca analogue experimentation. Combined with a beta-carboline-rich plant such as [[schultes-ayahuasca-preparations]].
 
-The species also serves as a source of pulpwood, charcoal, [[faires-beekeeping-and-honey-production]] in agroforestry systems throughout Southeast Asia. Its nitrogen-fixing capability improves soil fertility, making it a valuable companion tree in intercropping arrangements.
+The species also serves as a source of pulpwood, charcoal, [[medicinal-mushroom-antimicrobial-properties]] of bark extracts has shown promising activity against several pathogenic bacteria. These findings support the traditional use of bark preparations for wound care and infection management.
 
-The wood is hard and dense, suitable for furniture, flooring, and woodturning projects. Finished Acacia confusa timber exhibits an attractive grain pattern with colors ranging from light golden brown to deep reddish brown.
+## Overview
 
-Research into [[medicinal-mushroom-antimicrobial-properties]] of bark extracts has shown promising activity against several pathogenic bacteria. These findings support the traditional use of bark preparations for wound care and infection management.
+Acacia Confusa represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish acacia confusa
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving acacia extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Acacia Confusa finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for acacia confusa. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+acacia confusa and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Acacia Confusa has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of acacia confusa into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[acacia-acuminata]]
+- [[acacia-mearnsii]]
+- [[acacia-melanoxylon]]
+- [[acacia-senegal]]
+- [[permaculture-plants-legume-trees-acacia-carob-locust]]

@@ -10,13 +10,7 @@ sources:
 
 # Cannabis and ADD/ADHD Research
 
-**Source:** Uwe Blesching, The [[blesching-cannabis-health-index-autoimmune-conditions]] (2017)
-
-## Condition Overview
-
-ADHD is characterized by inattention, poor concentration, distractibility, hyperactivity, poor impulse control, and poor peer relationships. CDC estimates 1 in 10 US children (ages 3-17) diagnosed; boys 3x more likely than girls. 5% of US adults diagnosed with ADD.
-
-**Standard treatment:** psychoactive drugs increasing dopamine/norepinephrine (Adderall, Ritalin, Strattera, Desoxyn/methamphetamine). [[blesching-cannabis-safety-adverse-effects-evidence]]: appetite loss, insomnia, tics, psychotic episodes, cardiovascular problems.
+**Source:** Uwe Blesching, The [[blesching-cannabis-safety-adverse-effects-evidence]]: appetite loss, insomnia, tics, psychotic episodes, cardiovascular problems.
 
 **Alternative hypothesis:** nutrition deficiency, junk food, environmental toxins (lead, organophosphates), epigenetics, social conditions.
 
@@ -45,14 +39,7 @@ ADHD is characterized by inattention, poor concentration, distractibility, hyper
 | CBD (3mg/kg) + clozapine | Animal (rats) | 2012 -- Monash U, Melbourne: Normalized social behavior, reduced hyperactivity | 2 |
 | CB1 cannabinoids | Animal (mice) | 2011 -- Rome: CB1 receptors as novel molecular players in ADHD | 2 |
 | FAAH inhibitor URB597 | Animal (mice) | 2009 -- Bordeaux: ECS influences impulse behavior and novelty-seeking | 2 |
-| Cannabis/Dronabinol | Human case study | 2008 -- Heidelberg U: [[blesching-cannabis-improved-night-vision]] ADHD symptoms | 3 |
-| | | **Total CHI Value: 15** | |
-
-## Strain-Specific Considerations
-
-- Both CB1- and CB2-based mechanisms involved in modulating ADHD symptoms
-
-- Both sativa and indica strains may offer [[metzner-ayahuasca-therapeutic-potential]]
+| Cannabis/Dronabinol | Human case study | 2008 -- Heidelberg U: [[metzner-ayahuasca-therapeutic-potential]]
 
 - Dosage critical -- too much can worsen inattention
 
@@ -60,17 +47,11 @@ ADHD is characterized by inattention, poor concentration, distractibility, hyper
 
 The endocannabinoid system modulates the same neurotransmitter systems implicated in ADHD pathology -- dopamine, norepinephrine, serotonin, GABA, and glutamate -- but through fundamentally different mechanisms than conventional stimulant medications.
 
-- **[[endocannabinoid-dopamine-regulation-adhd-parkinsons-blesching]] via CB1:** CB1 receptors on GABAergic interneurons in the prefrontal cortex and striatum modulate dopamine release. Unlike stimulants that directly increase dopamine (risking [[cannabis-tolerance-and-dependence]]), cannabinoids fine-tune the dopaminergic system through indirect modulation, providing a more balanced effect on attention and motivation.
+- **[[cannabis-tolerance-and-dependence]]), cannabinoids fine-tune the dopaminergic system through indirect modulation, providing a more balanced effect on attention and motivation.
 
 - **Prefrontal cortex optimization:** The prefrontal cortex (PFC) is the brain region most implicated in ADHD, responsible for executive function, impulse control, and sustained attention. CB1 receptors in the PFC modulate the balance between cortical excitation (glutamate) and inhibition (GABA), potentially restoring the regulatory balance that is disrupted in ADHD.
 
-- **FAAH inhibition and endocannabinoid tone:** The 2009 Bordeaux study using FAAH inhibitor URB597 showed that increasing endogenous anandamide levels improves impulse control and reduces novelty-seeking behavior. This suggests that some ADHD symptoms may reflect an endocannabinoid deficiency state that can be corrected by enhancing natural [[2-ag-endocannabinoid-signaling-blesching]].
-
-- **CBD's role in hyperactivity:** The 2012 Melbourne study demonstrated that CBD (3 mg/kg) specifically reduced hyperactivity and normalized social behavior in an animal model, though it did not improve attention span. This suggests CBD may be most useful for the hyperactive-impulsive subtype of ADHD.
-
-- **[[chrysanthemum-coronarium]] modulation:** Many ADHD patients experience sleep disturbance. The endocannabinoid system regulates [[plant-circadian-rhythms]] through CB1 receptors in the suprachiasmatic nucleus. Improved sleep from cannabis may indirectly improve daytime attention and cognitive function.
-
-- **[[mycelial-metabolite-excretion-stress-response-grain-jar-cultivation-guide]] normalization:** ADHD is associated with dysregulated stress responses. CBD modulates the HPA axis through 5-HT1A receptor activation, reducing cortisol reactivity and improving stress resilience.
+- **FAAH inhibition and endocannabinoid tone:** The 2009 Bordeaux study using FAAH inhibitor URB597 showed that increasing endogenous anandamide levels improves impulse control and reduces novelty-seeking behavior. This suggests that some ADHD symptoms may reflect an endocannabinoid deficiency state that can be corrected by enhancing natural [[chrysanthemum-coronarium]] modulation:** Many ADHD patients experience sleep disturbance. The endocannabinoid system regulates [[mycelial-metabolite-excretion-stress-response-grain-jar-cultivation-guide]] normalization:** ADHD is associated with dysregulated stress responses. CBD modulates the HPA axis through 5-HT1A receptor activation, reducing cortisol reactivity and improving stress resilience.
 
 ## Clinical Evidence
 
@@ -117,8 +98,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[ayahuasca]]
 - [[doc]]
-- [[uwe-blesching]]
 - [[dronabinol]]
 - [[endocannabinoid-system]]

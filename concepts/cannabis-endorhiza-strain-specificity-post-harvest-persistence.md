@@ -36,39 +36,9 @@ from 6 plants with triplicate measurements.
 The critical difference was sampling timing. Experiment 1 sampled
 long after above-ground biomass removal with no metabolic input
 from the living plant. Experiment 2 sampled actively growing,
-flowering plants at peak [[arbuscule-isolation-metabolic-activity-assays]].
-
-## Unexpected Cultivar Signal in Decaying Roots
-
-Despite the 8-week post-harvest interval, endorhiza communities
-showed significant strain-level differentiation:
-
-- [[weighted-unifrac-strain-clustering-cannabis-endorhiza-community-structure]] endorhiza strain clustering: ADONIS R² = 0.59,
+flowering plants at peak [[weighted-unifrac-strain-clustering-cannabis-endorhiza-community-structure]] endorhiza strain clustering: ADONIS R² = 0.59,
   p = 0.004
-- [[weighted-unweighted-unifrac-discrepancy-cannabis-cultivar]] endorhiza strain clustering: ADONIS R² = 0.39,
-  p = 0.003
-
-These are remarkably strong given the confounding factor of tissue
-decay and absent plant metabolites. The key differentiating taxon
-was Methylophilus, showing extreme abundance variation:
-
-- 13% of endorhiza in Bookoo Kush
-- 0.13% in Burmese
-- Absent entirely in Sour Diesel
-
-This differential explained a significant portion of the strain
-effect (FDR-corrected p = 0.012), suggesting Methylophilus as a
-reliable cultivar biomarker even from degraded tissue.
-
-## Evidence of Root Decay
-
-The researchers identified a significant confound by comparing
-Cellvibrio abundances between experiments:
-
-- Experiment 1 (post-harvest): 16.9% ± 13.0%
-- Experiment 2 (active growth): 0.095% ± 2.7%
-
-Cellvibrio is a known [[cellvibrio-aerobic-cellulytic-endorhiza-cannabis]] bacterium. Its enrichment
+- [[cellvibrio-aerobic-cellulytic-endorhiza-cannabis]] bacterium. Its enrichment
 indicates active root decomposition during Experiment 1 sampling.
 This decay artifact explains several differences: rhizosphere
 effects were absent (no root exudation), alpha diversity was
@@ -85,8 +55,7 @@ with distinct lignin, cellulose, hemicellulose, and suberin
 compositions. These polymers decompose at different rates and
 selectively favor different decomposer communities.
 
-**Residual [[antifungal-secondary-metabolites-coprophilous-fungi]]**: Cannabinoids and terpenes
-embedded in root tissue have [[medicinal-mushroom-antimicrobial-properties]] that could
+**Residual [[medicinal-mushroom-antimicrobial-properties]] that could
 continue exerting selective pressure during decomposition.
 
 **Pre-established endophyte biofilms**: Communities established
@@ -130,7 +99,5 @@ actively shaped communities through exudation and immune modulation.
 
 ## See Also
 
-- [[cannabis-core-endorhiza-microbiome]]
 - [[methylophilus-cannabis-endorhiza-strain-specificity]]
-- [[cellvibrio-post-harvest-root-decay-cannabis]]
 - [[cannabis-microbiome-two-tier-selection]]

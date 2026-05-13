@@ -33,11 +33,7 @@ edges, giving it a characteristic "saw-tooth" appearance.
 The species is widely distributed across temperate and subtropical regions
 on dead hardwood. It has attracted research interest for its lignin-degrading
 enzymes and immunomodulatory polysaccharides, though it is less commercially
-cultivated than close relatives like *[[lentinula-edodes]]*.
-
-## Taxonomy and Morphology
-
-**Classification:** [[fungal-taxonomy-and-kingdom-fungi]] → Phylum Basidiomycota → Class Agaricomycetes
+cultivated than close relatives like *[[fungal-taxonomy-and-kingdom-fungi]] → Phylum Basidiomycota → Class Agaricomycetes
 → Order Polyporales → Family Polyporaceae → Genus *Lentinus* → *L. tigrinus*.
 
 The species was originally described as *Agaricus tigrinus* by Bulliard in
@@ -61,8 +57,7 @@ elliptical, smooth, inamyloid, non-dextrinoid.
 
 ## Distribution and Habitat
 
-*L. tigrinus* has a broad [[four-groups-neurotropic-fungi-global-distribution-guzman-1998]] across Europe, Asia, North
-America, and parts of Africa and [[guzman-psilocybin-mushrooms-south-america]]. It fruits from late spring
+*L. tigrinus* has a broad [[guzman-psilocybin-mushrooms-south-america]]. It fruits from late spring
 through autumn in temperate zones, and year-round in subtropical regions.
 
 The species is primarily saprotrophic, decomposing dead wood of broadleaf
@@ -83,8 +78,5 @@ to commercially cultivated relatives. The flavor is mild and slightly nutty.
 Cultivation on supplemented hardwood sawdust is feasible using standard
 shiitake (*L. edodes*) parameters: substrate at 60–65% moisture, spawn run
 at 22–25°C, and fruiting triggered by temperature drop to 15–18°C with high
-humidity (90–95%). [[stamets-biological-efficiency-yield]] is moderate at 40–60%.
-
-Research interest in cultivation focuses on its [[fungal-extracellular-enzyme-production]] potential
-rather than food value. Laccase and [[fungal-manganese-peroxidase-remediation]] yields are
-competitive with *[[growing-gourmet-turkey-tail-trametes-versicolor-cultivation]]* and *[[cancer-medicinal-mushrooms-pleurotus-ostreatus]]*.
+humidity (90–95%). [[fungal-extracellular-enzyme-production]] potential
+rather than food value. Laccase and [[growing-gourmet-turkey-tail-trametes-versicolor-cultivation]]* and *[[cancer-medicinal-mushrooms-pleurotus-ostreatus]]*.

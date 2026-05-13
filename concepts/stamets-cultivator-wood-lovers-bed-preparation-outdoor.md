@@ -12,14 +12,11 @@ type: concept
 
 # Outdoor Wood Chip Bed Preparation for Wood-Loving Mushrooms
 
-Outdoor [[comparison-deep-bed-cultivation-vs-square-foot-gardening]] using wood chips is a [[fukuoka-matsutake-natural-culture-medium-microbiological-innovation]] method
+Outdoor [[fukuoka-matsutake-natural-culture-medium-microbiological-innovation]] method
 well-suited to home cultivators seeking seasonal mushroom harvests. For
 hundreds of years, growers have made up outdoor beds and enjoyed
 harvesting seasonal crops. Most mushrooms now grown commercially were
-originally grown using these natural [[agar-culture-techniques-detailed]]. This approach
-extends the [[stamets-king-stropharia-permaculture-mycofiltration]], [[growing-gourmet-caramel-capped-psilocybe-cyanescens-cultivation]], and various Pleurotus species.
-The [[stamets-outdoor-natural-culture-methods]]
-- [[stamets-cultivator-log-cultivation-shiitake-hericium]]
+originally grown using these natural [[stamets-king-stropharia-permaculture-mycofiltration]], [[stamets-outdoor-natural-culture-methods]]
 - [[stamets-species-sequencing-recycling-substrates]]
 ## Practical Applications
 

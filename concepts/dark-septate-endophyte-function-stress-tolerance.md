@@ -108,13 +108,8 @@ Proteomic analyses have identified fungal-secreted effector proteins that may mo
 
 ## See Also
 
-- [[dark-septate-endophytes]]
 - [[piriformospora-indica]]
-- [[arbuscular-mycorrhizal-fungi]]
 - [[endophytic-fungi]]
-- [[mycorrhizal-carbon-sequestration]]
 - [[fungal-ecology-forest-floor]]
-- [[mycorrhizal-carbon-cycle]]
 - [[arbuscular-mycorrhizal-symbiosis]]
-- [[mycelium-network-architecture]]
 - [[fungal-enzyme-systems]]

@@ -9,19 +9,7 @@ sources:
 ---
 # Kykeon Composition and Ergot Alkaloid Hypothesis
 
-The kykeon was the sacred potion consumed during the culminating rites of the [[mckenna-food-of-the-gods-kykeon-and-eleusinian-mysteries]]. Its preparation is described in the Homeric Hymn to Demeter: Demeter declined wine and instead requested a drink of meal (barley groats) mixed with water and soft mint (plektron). This simple recipe has been the subject of intense scholarly debate since Wasson, Hofmann, and Ruck proposed that it contained psychoactive ergot alkaloids.
-
-## The Textual Description
-
-In the Homeric Hymn to Demeter (lines 206-211), Demeter is offered sweet wine but refuses, stating it is "not lawful for her to drink red wine." Instead she instructs:
-
-> Mix meal and water with soft mint and give it to me to drink.
-
-The scholiast on Lucian confirms that kykeon was barley meal mixed with water, while a scholiast on the Odyssey adds that mint (minthe) was also included. The word kykeon itself derives from the Greek kykao, meaning "to stir, mix, or shake."
-
-## Ergot: Biology and Chemistry
-
-Ergot is the English name for the sclerotium of *[[bloomfield-ergot-claviceps-purpurea-ergotism]]*, a parasitic fungus on rye, barley, wheat, and other cereals and wild grasses. It appears as dark purple-brown protrusions from the ears of grain. Other species of the genus *Claviceps* (C. paspali, C. nigricans, C. glabra) parasitise many species and varieties of wild grasses.
+The kykeon was the sacred potion consumed during the culminating rites of the [[bloomfield-ergot-claviceps-purpurea-ergotism]]*, a parasitic fungus on rye, barley, wheat, and other cereals and wild grasses. It appears as dark purple-brown protrusions from the ears of grain. Other species of the genus *Claviceps* (C. paspali, C. nigricans, C. glabra) parasitise many species and varieties of wild grasses.
 
 Ergot is not of uniform chemical composition. It occurs in "biological" or "chemical" races, differing mainly in their alkaloidal constituents. In Switzerland alone, three varieties exist: one containing mainly ergotamine, one with ergototoxine-group alkaloids, and one with no alkaloids at all. Furthermore, ergot growing on different hosts (wheat, barley, millet, various wild grasses) shows wide variations in alkaloidal makeup.
 
@@ -68,10 +56,7 @@ Raw ergot contains toxic ergopeptine alkaloids that cause ergotism (St. Anthony'
 - **Mint as an antidote**: The addition of pennyroyal mint (*Mentha pulegium*) may not have been merely for flavor. Pennyroyal has emetic and antispasmodic properties that could counteract gastrointestinal distress, similar to how ololiuhqui seeds in Mexico were traditionally served with a plant companion (coapatzle).
 
 ### The Blechon and Weed
-The kykeon preparation used two plants -- fragrant blechon (mint) and barley from which the rust-infested weed had been removed. Both blechon and the weed were associated with primitivism and the ways of life before the institutions of society. The barley's potential as food depended upon keeping at bay the reddening corruption that would draw it back to its worthless avatar. This careful selection process parallels the meticulous preparation of sacred mushrooms in Mesoamerican rites, where the [preparation of [[metzner-variations-traditional-entheogenic-ceremonies-peyote-huichol-san-pedro-mazatec-amazonian-bwiti]] demanded equally precise botanical knowledge and ritual attention.
-
-### Dosage Control
-The experience at Eleusis was carefully managed, with the hierophant controlling when the kykeon was prepared and distributed. The priestly families maintained strict quality control over grain grown in the Rarian plain, analogous to how [[guzman-allen-gartz-indigenous-mexican-mushroom-nomenclature-sacred-names]] curanderos maintain precise knowledge of dosage, side effects, and plant preparation for sacred mushrooms.
+The kykeon preparation used two plants -- fragrant blechon (mint) and barley from which the rust-infested weed had been removed. Both blechon and the weed were associated with primitivism and the ways of life before the institutions of society. The barley's potential as food depended upon keeping at bay the reddening corruption that would draw it back to its worthless avatar. This careful selection process parallels the meticulous preparation of sacred mushrooms in Mesoamerican rites, where the [preparation of [[guzman-allen-gartz-indigenous-mexican-mushroom-nomenclature-sacred-names]] curanderos maintain precise knowledge of dosage, side effects, and plant preparation for sacred mushrooms.
 
 ## Comparative Evidence
 
@@ -81,12 +66,9 @@ In Mexico, those who will take the mushrooms know they must refrain from drinkin
 
 ## Ergot's Pharmacological History
 
-Ergot was first mentioned as a remedy by Adam Lonitzer in 1582, used by midwives to precipitate childbirth. Ergotamine was isolated by A. Stoll in 1918. Hofmann prepared ergonovine in 1937 from lysergic acid, and in 1943 discovered the hallucinogenic properties of LSD-25 -- the most potent psychedelic known. The water-soluble ergonovine is particularly relevant to the kykeon hypothesis: Dudley and Moir discovered in 1932 that water-soluble extracts of ergot elicited strong uterotonic activity, leading to the isolation of ergonovine simultaneously in four laboratories. This water-solubility is key to the kykeon hypothesis, as it explains how an aqueous barley-water infusion could have delivered psychoactive alkaloids without the need for advanced extraction techniques. See [[sacred-marriage-hieros-gamos-in-greek-religion]]
-- [[wasson-hofmann-ruck-theory]]
-- [[demeter-and-persephone-in-eleusinian-mythology]]
+Ergot was first mentioned as a remedy by Adam Lonitzer in 1582, used by midwives to precipitate childbirth. Ergotamine was isolated by A. Stoll in 1918. Hofmann prepared ergonovine in 1937 from lysergic acid, and in 1943 discovered the hallucinogenic properties of LSD-25 -- the most potent psychedelic known. The water-soluble ergonovine is particularly relevant to the kykeon hypothesis: Dudley and Moir discovered in 1932 that water-soluble extracts of ergot elicited strong uterotonic activity, leading to the isolation of ergonovine simultaneously in four laboratories. This water-solubility is key to the kykeon hypothesis, as it explains how an aqueous barley-water infusion could have delivered psychoactive alkaloids without the need for advanced extraction techniques. See [[wasson-hofmann-ruck-theory]]
 - [[ergot-and-lysergic-acid-history]]
 - gordon-wasson
-- [[psychedelic-mushroom-pharmacology]]
 - [[entheogenic-ceremony-preparation]]
 
 ## Practical Applications
@@ -118,8 +100,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[psilocybin]]
 - [[det]]
-- [[albert-hofmann]]
 - [[lysergic-acid-hydroxyethylamide]]
 - [[ololiuqui]]

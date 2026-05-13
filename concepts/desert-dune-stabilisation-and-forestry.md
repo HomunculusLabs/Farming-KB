@@ -8,27 +8,7 @@ type: concept
 
 ## Overview
 
-Dune country represents both one of the most challenging and most rewarding environments for desert [[permaculture]]. Sands occur on pavements or as dunefields (sand seas), taking characteristic forms depending on wind intensity, duration, streamlines and velocity, and the supply of sand downwind. Dunes function as enormous freshwater reservoirs, and when properly stabilised, they support productive tree systems.
-
-## Dune Types
-
-Depending on wind and sand supply conditions, dunes form several characteristic shapes:
-
-- **Transverse dunes**: Regular ridges perpendicular to prevailing wind
-- **Oblique dunes**: Angled between transverse and longitudinal orientations
-- **Longitudinal dunes**: Aligned with the wind direction
-- **Barchans**: Crescent-shaped dunes with horns pointing downwind
-- **Sand seas (draas)**: Large-scale dune complexes with curiously wave-like, rough-sea forms with lobed advance edges
-- **Isolated dunes**: Dunes on pavement surfaces, more manageable for stabilisation
-
-## Dunes as Water Reservoirs
-
-A critical insight for desert design is that dunes function as large water tanks. In deep sands:
-
-- The surface to a few metres may have only **4% water**
-- At about **6 metres** depth, damp sands are found
-- At **40 metres**, saturated sands occur
-- Some dune fields with [[humus]] and dust particles will support quite dense vegetation (**50% cover**)
+Dune country represents both one of the most challenging and most rewarding environments for desert [[humus]] and dust particles will support quite dense vegetation (**50% cover**)
 - Others are almost sterile and lack basic plant nutrients
 
 Any traveller in vegetated deserts will notice that the largest trees (sometimes the only trees) stand in the dune ridges. This is true of dunes on harder pavement, dunes on clay with a strong base pavement, coastal dune hollows, and deflation hollows in sands. Dunes represent a reservoir of freshwater, much as the coral sands of an atoll hold rain which "floats" on salt water — the enormous surface area of sand grains allows water to adhere and rapid infiltration of rain is possible.
@@ -39,8 +19,8 @@ At the edge of large dune complexes, water rushes and sedges appear at the base 
 
 Dunes on pavement (isolated dunes) can be planted after rains with:
 
-1. A fast-growing grain or oat crop (sorghum, millet, some desert legumes such as moth bean) or yam beans
-2. A set of hardy Acacia seedlings, preferably with a mixed fertiliser
+1. A fast-growing grain or oat crop (sorghum, millet, some desert legumes such as [[moth-bean]]) or yam beans
+2. A set of hardy [[acacia]] seedlings, preferably with a mixed fertiliser
 
 If all goes well:
 - The grains flower and the straw lasts for two or more years
@@ -131,6 +111,5 @@ As a travelling barchan dune stabilises, it assumes an oval profile. Sand drift 
 Side-cast banks halt flow down dune swales. The hatched areas will grow trees in parallel dune series. Swales so chosen must have a slope down — these side-cast banks "uphill" aid infiltration and vegetative cover.
 ## See Also
 
-- [[desert-gardening]]
 - [[dryland-strategies-and-desert-ecology]]
 - [[dryland-building-and-settlement]]

@@ -48,7 +48,7 @@ Complete species descriptions from [[john-ramsbottom]]'s 1945 "Poisonous Fungi" 
 
 **Habitat**: Woods, especially beech. Summer and early autumn. Despite the name (verna = spring), rarely appears in spring.
 
-**Notes**: J. Bauhin called it *Fungus stultorum* -- "the fungus of fools," presumably because in its young stage it was mistaken for A. caesarea. Rare in Britain. Just as poisonous as A. phalloides but more dangerous because being white, it is more readily mistaken for [[palmer-edible-mushrooms-north-america]].
+**Notes**: J. Bauhin called it *Fungus stultorum* -- "the fungus of fools," presumably because in its young stage it was mistaken for A. caesarea. Rare in Britain. Just as poisonous as A. phalloides but more dangerous because being white, it is more readily mistaken for edible mushrooms.
 
 ## AMANITA VIROSA -- Destroying Angel
 
@@ -90,7 +90,7 @@ Complete species descriptions from [[john-ramsbottom]]'s 1945 "Poisonous Fungi" 
 
 **Toxins**: Muscarine (small amounts, NOT matching actual symptoms), mycetoatropine/muscaridine (atropine-like CNS effects), choline (large amounts, probably causes GI symptoms). Poison resides principally in skin of the cap; considerable variation in amount.
 
-**Ethnobotanical use**: Koryak tribes of northeast Siberia eat it for "excessive emotion." [[siberian-fly-agaric-shamanism-urine-recycling]] prolongs effects. Price in barren Steppes: 3-4 reindeer for a single specimen. Vikings said to eat it before battle ("berserk"). The name refers to Albertus Magnus (13th century) observation that the fungus broken up in milk kills flies.
+**Ethnobotanical use**: Koryak tribes of northeast Siberia eat it for "excessive emotion." Urine recycling prolongs effects. Price in barren Steppes: 3-4 reindeer for a single specimen. Vikings said to eat it before battle ("berserk"). The name refers to Albertus Magnus (13th century) observation that the fungus broken up in milk kills flies.
 
 **Homeopathic use**: Agaricus (Aga), formerly one of the antipsorics.
 
@@ -120,7 +120,7 @@ Complete species descriptions from [[john-ramsbottom]]'s 1945 "Poisonous Fungi" 
 
 **Habitat**: Amongst grass, autumn. Rare in Britain.
 
-**Poisoning**: Mild [[amanita-phalloides]]-type symptoms. Much less dangerous than the Amanitas.
+**Poisoning**: Mild Amanita phalloides-type symptoms. Much less dangerous than the Amanitas.
 
 ## LACTARIUS TORMINOSUS -- Woolly Milk Cap
 
@@ -140,10 +140,10 @@ Complete species descriptions from [[john-ramsbottom]]'s 1945 "Poisonous Fungi" 
 
 **Gills**: Shining white, more or less free, somewhat crowded.
 
-**Stem**: 3" tall, 1" wide. Rigid, white or pink-tinged.
+## See Also
 
-**Flesh**: Firm, white, pink under cap skin. Very acrid taste after a few seconds (persistent). Pleasant smell.
-
-**Habitat**: Woods, summer and autumn.
-
-**Notes**: Acrid substance dispersed in cooking, but best avoided.
+- [[ramsbottom-poisonous-fungi-identification-guide]]
+- [[ramsbottom-poisonous-fungi-toxins-and-symptoms]]
+- [[savory-locoweed-and-poisonous-plant-management]]
+- [[bloomfield-angel-of-death-poisonous-mushroom-identification-toxinology]]
+- [[growing-gourmet-poisonous-mushroom-lookalikes]]

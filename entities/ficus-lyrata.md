@@ -22,68 +22,100 @@ sources:
 
 **Ficus lyrata** is a species of flowering plant in the mulberry family, Moraceae, native to tropical lowland forests of West Africa. It is commonly known as the fiddle-leaf fig, referencing the large, violin-shaped leaves that are the plant's most distinctive feature.
 
-The species has become one of the most popular interior ornamental plants worldwide since the early 2010s. Its bold, sculptural foliage and tolerance of indoor conditions have made it a staple of contemporary [[coleman-greenhouse-interior-design-and-management]].
-
-Social media platforms have significantly amplified the popularity of Ficus lyrata as a houseplant. Images of fiddle-leaf figs in interior settings are among the most-shared plant photographs on platforms such as Instagram and Pinterest.
-
-The global horticultural trade in Ficus lyrata has expanded rapidly to meet demand. Large-scale nurseries in Florida, [[psilocybe-southeast-asia-pacific]], and the Netherlands produce millions of plants annually for distribution to [[hallucinogenic-mushroom-online-retail-markets]] worldwide.
-
-In its native habitat, Ficus lyrata grows as a large evergreen tree reaching 12–15 meters in height. In cultivation as a houseplant, it is typically maintained at 1–3 meters through pruning and container restriction.
-
-Ficus lyrata belongs to the same genus as the edible fig ([[ficus-carica]]) and shares the characteristic mutualistic relationship with fig wasps that is central to the [[clarke-marijuana-botany-sex-determination-reproductive-biology]] of the genus.
-
-## Taxonomy
-
-- **Kingdom:** Plantae
-- **Order:** Rosales
-- **Family:** Moraceae
-- **Genus:** Ficus
-- **Subgenus:** Ficus (section Ficus)
-- **Species:** F. lyrata
-- **Authority:** Warb. (1894)
-
-The specific epithet "lyrata" refers to the lyre-like shape of the leaves. The species was first described by the German botanist Otto Warburg from collections made in Cameroon.
-
-The genus Ficus is one of the largest genera of flowering plants, with approximately 750 species distributed across tropical and subtropical regions worldwide. Ficus lyrata belongs to subgenus Ficus, which contains many of the commercially important species.
-
-Phylogenetic studies place Ficus lyrata in a clade with other West African fig species including Ficus platypoda and Ficus umbellata. The species is not known to hybridize with other fig species in nature or in cultivation.
-
-## Morphology
-
-**Leaves** are large, leathery, and prominently veined, reaching 25–45 cm in length and 15–25 cm in width. The leaf shape is variable but typically broadest near the middle with a narrowed apex, resembling a violin or lyre.
-
-The upper [[aact-foliar-sticker-spreaders-leaf-surface-attachment-ingham]] is dark glossy green with a prominent midrib and widely spaced lateral veins. The underside is paler green with slightly raised venation. Leaf margins are entire and slightly undulate.
+The species has become one of the most popular interior ornamental plants worldwide since the early 2010s. Its bold, sculptural foliage and tolerance of indoor conditions have made it a staple of contemporary [[psilocybe-southeast-asia-pacific]], and the Netherlands produce millions of plants annually for distribution to [[ficus-carica]]) and shares the characteristic mutualistic relationship with fig wasps that is central to the [[aact-foliar-sticker-spreaders-leaf-surface-attachment-ingham]] is dark glossy green with a prominent midrib and widely spaced lateral veins. The underside is paler green with slightly raised venation. Leaf margins are entire and slightly undulate.
 
 New leaves emerge tightly rolled in a reddish sheath and gradually unfurl to their full size. Young leaves are thinner and more tender than mature foliage, with a lighter green coloration that darkens over several weeks.
 
 **Bark** is smooth and pale gray on young branches, becoming rougher and darker with age. The trunk develops a characteristic fluted or buttressed form in mature trees.
 
-**Fig syconia** are small, spherical structures approximately 2–3 cm in diameter, green turning yellowish when ripe. They grow in pairs in the leaf axils along the branches, though flowering and fruiting are rare in [[cannabis-sativa-indoor-cultivation-techniques]].
-
-The syconium is actually an inverted inflorescence, with hundreds of tiny flowers lining the inner surface of the enclosed structure. This unique reproductive morphology is shared by all members of the genus Ficus and is central to the fig-wasp mutualism.
-
-## Distribution and Habitat
-
-Ficus lyrata is native to the tropical lowland forests of West Africa, from Sierra Leone east through Liberia, Ivory Coast, Ghana, Nigeria, Cameroon, and into Gabon and the Republic of Congo. It occurs at elevations from sea level to approximately 500 meters.
-
-The species grows as a canopy tree in primary and secondary tropical rainforests. It is particularly common in disturbed forest edges, riparian corridors, and gaps in the canopy where increased light penetration favors its growth.
-
-In its native range, Ficus lyrata is classified as a hemiepiphyte, sometimes beginning life as an epiphyte on host trees before sending roots to the ground. However, it more commonly establishes as a terrestrial tree from seed deposited by birds or bats.
-
-The species is not currently listed as threatened by the IUCN, though habitat loss from deforestation and agricultural expansion has reduced its natural range in some areas. Selective logging of fig trees can disrupt forest-wide pollinator and frugivore networks.
-
-## Cultivation
-
-Ficus lyrata requires bright, indirect light for optimal growth and leaf development. Direct afternoon sun causes leaf burn and bleaching, while insufficient light leads to leaf drop and leggy growth.
-
-The species is sensitive to environmental changes, particularly drafts, temperature fluctuations, and changes in light conditions. Leaf drop is the most common problem reported by indoor growers and typically results from relocation, overwatering, or inconsistent watering schedules.
-
-Well-draining [[solomon-potting-mix-and-seedling-soil-recipe]] with added perlite and bark provides the aeration that Ficus lyrata requires. Watering should be thorough when the top several centimeters of soil are dry, allowing excess water to drain completely from the container.
+**Fig syconia** are small, spherical structures approximately 2–3 cm in diameter, green turning yellowish when ripe. They grow in pairs in the leaf axils along the branches, though flowering and fruiting are rare in [[solomon-potting-mix-and-seedling-soil-recipe]] with added perlite and bark provides the aeration that Ficus lyrata requires. Watering should be thorough when the top several centimeters of soil are dry, allowing excess water to drain completely from the container.
 
 Pruning is essential to maintain a desirable shape and encourage branching. Pruning cuts should be made just above a node, and the plant responds well to shaping in spring before the main growth period.
 
-Fertilization with a balanced [[comfrey-tea-liquid-fertilizer]] every two to four weeks during [[query-how-to-protect-plants-from-frost-and-extend-the-growing-season]] supports healthy foliage development. Over-fertilization causes [[query-how-do-i-prevent-and-fix-salt-buildup-in-cannabis-soil]] the soil, manifesting as brown leaf tip burn.
-
-Common pests affecting indoor Ficus lyrata include mealybugs, scale insects, [[cervantes-spider-mites-identification-control]], and thrips. The sap contains latex that can be irritating to skin, and the plant should be handled with care during pruning and repotting.
+Fertilization with a balanced [[query-how-to-protect-plants-from-frost-and-extend-the-growing-season]] supports healthy foliage development. Over-fertilization causes [[cervantes-spider-mites-identification-control]], and thrips. The sap contains latex that can be irritating to skin, and the plant should be handled with care during pruning and repotting.
 
 Propagation from stem cuttings is possible but can be challenging for home growers. Cuttings require bottom heat, high humidity, and rooting hormone for reliable results. Air layering is generally more successful and produces larger plants more quickly.
+
+## Overview
+
+Ficus Lyrata represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish ficus lyrata
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving ficus extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Ficus Lyrata finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for ficus lyrata. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+ficus lyrata and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Ficus Lyrata has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of ficus lyrata into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[ficus-carica]]
+- [[ficus-religiosa]]
+- [[opuntia-ficus-indica]]
+- [[permplant-fig-ficus-carica-fruit-tree]]

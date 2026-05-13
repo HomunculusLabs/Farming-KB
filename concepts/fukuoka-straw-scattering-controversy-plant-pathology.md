@@ -1,39 +1,16 @@
 ---
 title: Fukuoka Straw Scattering Controversy Plant Pathology
-aliases: [[fukuoka-rice-straw-mulch-central-technique]] debate, [[fukuoka-straw-mulch-fertility-cycle]] pathology, composting straw Hokkaido]
+aliases: fukuoka-straw-mulch-fertility-cycle pathology, composting straw Hokkaido]
 tags: [natural-farming, straw-mulch, soil-health, plant-pathology, fukuoka]
 source: masanobu-fukuoka-the-road-back-to-nature.md
 ---
 
 # The Straw Scattering Controversy
 
-One of the most telling episodes in [[masanobu-fukuoka]]'s career illustrates
-the enormous resistance that [[comparison-natural-farming-vs-permaculture]] faces from the agricultural
+One of the most telling episodes in [[comparison-natural-farming-vs-permaculture]] faces from the agricultural
 establishment. The debate over whether rice straw should be returned to
 the fields or burned consumed decades of Fukuoka's life and revealed
-the deep institutional barriers to adopting simpler [[natural-farming-methods-comparison]].
-
-## The Official Doctrine: Burn the Straw
-
-Before the war, agricultural authorities in Hokkaido instructed all
-farmers to burn their rice straw because of pathogens remaining on it.
-Everyone thought that straw was crawling with disease. The authorities
-saw scattering rice straw back onto the fields as tantamount to sowing
-the seeds of blast and sclerotium disease.
-
-Farmers were instructed to either burn the straw or bring it home and
-convert it into compost. Incentive money was even handed out for
-composting. Every month a competition was held, with judges from the
-local agricultural testing station. A hundred pounds of straw brought in
-from the fields and converted to compost weighs two hundred pounds —
-meaning farmers had to haul heavy loads, turn hot steaming compost with
-a pitchfork in tiny sheds, and perform what Fukuoka describes as
-"hellish work."
-
-## Fukuoka's Contrary Evidence
-
-Fukuoka, who was himself a plant pathologist by training, attempted to
-isolate the agents of [[fukuoka-textdoc-non-causality-rice-blast-disease]] and other infectious pathogens
+the deep institutional barriers to adopting simpler [[fukuoka-textdoc-non-causality-rice-blast-disease]] and other infectious pathogens
 from fallen leaves in his fields. He never succeeded. His reasoning was
 straightforward: if he, who was skilled at isolating pathogens, could
 not find them, the pathogens must be dead. If the pathogens were dead,
@@ -70,8 +47,7 @@ on the field."
 
 ## The Fragmentation Problem
 
-Fukuoka identifies the [[fukuoka-pine-rot-root-cause]] of this delay as the fragmentation
-of [[fukuoka-critique-laws-agricultural-science]] into specialized disciplines. There was once a
+Fukuoka identifies the [[fukuoka-critique-laws-agricultural-science]] into specialized disciplines. There was once a
 time when one individual considered everything — pathology, the plants,
 the soil, and fertilizers. But by Fukuoka's era, research had broken
 into narrow specialties that rarely communicated.
@@ -117,8 +93,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[doc]]
 - [[det]]
-- [[composting]]
 - [[permaculture]]
 - [[fukuoka-straw-scattering-testing-station-resistance]]

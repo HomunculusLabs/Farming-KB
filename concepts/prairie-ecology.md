@@ -11,14 +11,14 @@ sources: []
 
 ## Overview
 
-Prairies are grassland ecosystems dominated by native grasses and forbs (non-woody flowering plants) with scattered trees absent or limited by fire and drought. Once covering vast portions of North America, tallgrass, mixed-grass, and shortgrass prairies are among the most endangered ecosystems on Earth. Understanding prairie ecology is essential for [[pollinator-conservation]], [[pasture-management]] management, and integrating native plantings into homestead design.
+Prairies are grassland ecosystems dominated by native grasses and forbs (non-woody flowering plants) with scattered trees absent or limited by fire and drought. Once covering vast portions of North America, tallgrass, mixed-grass, and shortgrass prairies are among the most endangered ecosystems on Earth. Understanding prairie ecology is essential for [[pollinator-conservation|conservation]], [[pasture-management|pasture]] management, and integrating native plantings into homestead design.
 
 ## Prairie Types
 
 ### Tallgrass Prairie
 Found in areas with 30-40+ inches of annual precipitation:
 
-- Dominated by big bluestem ([[andropogon-gerardii]]), little bluestem, indiangrass, and switchgrass
+- Dominated by big bluestem (Andropogon gerardii), little bluestem, indiangrass, and switchgrass
 - Heights of 5-8 feet in peak season
 - Most biodiverse prairie type; can support 300+ plant species per acre
 - Historically maintained by frequent fire (every 1-5 years) and grazing
@@ -105,8 +105,8 @@ Active during summer months; use the C4 photosynthetic pathway for high water-us
 Active during spring and fall; use the C3 photosynthetic pathway:
 
 - Canada wild rye (Elymus canadensis): Early-successional, provides quick cover
-- Prairie dropseed ([[sporobolus-heterolepis]]): Finest-textured native grass, fragrant seed heads
-- June grass ([[koeleria-macrantha]]): Compact, drought-tolerant, early-season
+- Prairie dropseed (Sporobolus heterolepis): Finest-textured native grass, fragrant seed heads
+- June grass (Koeleria macrantha): Compact, drought-tolerant, early-season
 - Western wheatgrass (Pascopyrum smithii): Rhizomatous, excellent for erosion control
 
 ## Native Forbs
@@ -122,12 +122,12 @@ Nitrogen-fixing forbs enrich prairie soil:
 ### Pollinator Forbs
 Critical nectar and pollen sources:
 
-- Butterfly milkweed ([[asclepias-tuberosa]]): Monarch butterfly nectar source
+- Butterfly milkweed (Asclepias tuberosa): Monarch butterfly nectar source
 - Prairie blazing star (Liatris pycnostachya): Butterfly magnet, blooms mid-late summer
 - Purple coneflower (Echinacea purpurea): Pollinator resource, medicinal
 - Black-eyed Susan (Rudbeckia hirta): Biennial, quick to establish
 - Golden Alexander (Zizia aurea): Early-season pollinator resource
-- Wild bergamot ([[monarda-fistulosa]]): Long bloom period, mint family
+- Wild bergamot (Monarda fistulosa): Long bloom period, mint family
 
 See [[pollinator-conservation]] for detailed pollinator habitat guidance.
 
@@ -137,14 +137,14 @@ Important for migrating butterflies and seed-eating birds:
 - Asters (Symphyotrichum spp.): Late-fall bloom, critical for migrating monarchs
 - Goldenrods (Solidago spp.): Major fall nectar source; does NOT cause allergies
 - Joe-pye weed (Eutrochium purpureum): Tall, showy, butterfly favorite
-- Sneezeweed ([[helenium-autumnale]]): Late-summer to fall bloom
+- Sneezeweed (Helenium autumnale): Late-summer to fall bloom
 
 ## Prairie Wildlife
 
-### Grassland Birds
-Prairie birds are among the most rapidly declining bird groups in North America:
+## See Also
 
-- Greater prairie chicken (threatened): Requires large, unfragmented blocks of grassland
-- Bobolink: Nests in tall grass; neotropical migrant
-- Eastern meadowlark: Territory requires 6+ acres of grassland
-- Grasshopper sparrow: Specialist of dry, open prairie
+- [[prairie-dog-ecology]]
+- [[comparison-prairie-restoration-vs-silvopasture]]
+- [[fungal-succession-woody-debris-ecology]]
+- [[earthworm-ecology]]
+- [[fukuoka-no-weeding-principle-weed-ecology-utility]]

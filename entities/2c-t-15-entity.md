@@ -11,13 +11,10 @@ sources:
 
 2C-T-15 is a psychedelic phenethylamine belonging to the 2C-T family, featuring a tert-butylthio group at the 4-position of the aromatic ring.
 
-It is documented as entry #54 in PiHKAL by [[2c-t-2]] — thioethyl homolog, significantly more potent
-- [[2c-t-pihkal-entry-39]] — the parent compound, 2C-T
+It is documented as entry #54 in PiHKAL by [[2c-t-pihkal-entry-39]] — the parent compound, 2C-T
 
 ## Related Topics
-- [[psychedelic-plants-chemical-guide]]
 - [[2c-t-pihkal-entry-39]]
-- [[dmmda-entity]]
 - [[dmmda-2-entity-pihkal]]
 
 ## Notes for Further Development
@@ -88,3 +85,11 @@ with other systems and approaches. Rather than treating it in isolation,
 considering how it connects with and enhances other elements creates
 more robust and productive overall systems. This integrative approach
 is increasingly recognized as essential for sustainable outcomes.
+
+## See Also
+
+- [[doi-entity]]
+- [[mp-entity-pihkal]]
+- [[4-ho-det-entity-tihkal]]
+- [[jealousy-cannabis-strain-entity]]
+- [[mckenna-i-thou-ethics-entity-encounter]]

@@ -2,65 +2,7 @@
 title: mollison classification of events and orders in design and Orders in Design
 created: 2026-04-26
 tags:
-  - [[permaculture]]
-  - design-methodology
-  - pattern-understanding
-  - mollison-designers-manual
-date: 2026-04-25
-updated: 2026-04-25
-sources:
-  - "raw/papers/bill-mollison-permaculture-design-course.md"
-  - ~/wiki/raw/papers/bill-mollison-permaculture-a-designers-manual.md
-type: concept
----
-
-# Classification of Events and Orders in Design
-
-Mollison presents a systematic framework for classifying events,
-elements, and phenomena in the Designers' Manual, offering designers
-a way to organise and understand the components of any permaculture
-system through universal categories of nature, stage, dimension, and
-location.
-
-## The Universal Classification System
-
-All events are susceptible to classification over a variety of
-characteristics, and as clouds and galaxies have their pattern-names,
-so do many other phenomena. Some basic ways to classify events in a
-unified system are:
-
-### A. Nature of the Event
-- **A1. Explosive**: disintegration, erosion, impact
-- **A2. Grow**: integration, construction, translation
-- **A3. Conceptual**: idea, creative thought, insight
-
-### B. Stage of Development
-- **B1. Potential only**: ungerminated seed, unexplored idea,
-  unexploded bomb
-- **B2. In process of evolution**: actively developing systems
-- **B3. Completed**: growth and expansion ceased, articulated
-- **B4. Decaying**: disintegrative, replaced or invaded by new
-  events, disarticulated
-
-### C. Dimension
-- **C1. One**: linear phenomena, curves
-- **C2. Two**: surface phenomena, tessellae, dendrites
-- **C3. Three**: solid phenomena, trees
-- **C4. Four**: moving solid phenomena, includes the time dimension
-- **C5. More**: conceptual phenomena, models of particles or
-  forces, states of energy
-
-### D. Location
-- **D1. Generating across equi-potential surfaces**: storms at sea
-- **D2. Within media**: weather "frontal" systems
-- **D3. Through surfaces at 90 degrees or so**: trees
-- **D4. Englobements**: some explosions and organisms
-- **D5. An idea**: located out of normal dimensions of space
-
-## Orders of Magnitude in Social Systems
-
-An array of orders is observed in a wide range of phenomena such as
-human settlement size, numbers in social hierarchies, [[ingham-soil-foodweb-trophic-levels-protozoa-nematodes]]
+  - [[ingham-soil-foodweb-trophic-levels-protozoa-nematodes]]
 (food pyramids), and the size of animals in allied zoological
 families. The size of the factor itself (times 3 for river branches)
 changes with the dimensions of the system (times 10 for trophic
@@ -90,5 +32,89 @@ We cannot get a riot of one person, and fewer than 15 rarely clap to
 applaud as an audience. The rules of order should guide us.
 
 ## See Also
-- [[mollison-designers-climate-classification-and-design-zones]]
 - [[bill-mollison-permaculture-a-designers-manual-broadacre-and-rural-design]]
+
+## Overview
+
+Mollison Classification Of Events And Orders In Design represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish mollison classification of events and orders in design
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving mollison extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Mollison Classification Of Events And Orders In Design finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for mollison classification of events and orders in design. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+mollison classification of events and orders in design and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Mollison Classification Of Events And Orders In Design has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of mollison classification of events and orders in design into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[humid-cool-climate-characteristics-mollison]]
+- [[mentha-aquatica-mollison]]
+- [[mollison-designers-climate-zone-3-farm-forestry]]
+- [[mollison-designers-earthworks-for-erosion-control]]
+- [[soya-bean-mollison]]

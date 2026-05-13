@@ -32,12 +32,7 @@ Vries: "I keep it in my head."
 
 His methodology, often branded as wizardry or even charlatanry by
 jealous competitors, rested on an extraordinary sensitivity to plants.
-In 1901, Burbank told the [[shipibo-san-francisco-ceremonial-center-ucayali]] Floral Congress: "The secret
-of improved plant breeding, apart from scientific knowledge, is love."
-
-## Early Success with the Burbank Potato
-
-While still in Massachusetts, Burbank happened upon a [[clay-pellet-seed-ball-method-for-desert-revegetation]] in his
+In 1901, Burbank told the [[clay-pellet-seed-ball-method-for-desert-revegetation]] in his
 patch of potatoes -- a vegetable which almost never sets seed. Knowing
 that potato seeds would not reproduce the exact qualities of the parent
 plant but would instead yield something new, Burbank recognized an
@@ -90,8 +85,6 @@ In his book The Harvest of the Years, Burbank wrote about the
 intelligence he perceived in plants: "Plants are like people in many
 
 ## See Also
-- [[luther-burbank-plant-breeding-methods]]
 - [[fukuoka-textdoc-intuitive-reasoning-vs-inductive-experimentation]]
-- [[fukuoka-inductive-deductive-intuitive-reasoning-agricultural-research]]
 - [[fukuoka-textdoc-intuitive-reasoning-beyond-induction-deduction]]
 - [[tompkins-cleve-backster-primary-perception]]

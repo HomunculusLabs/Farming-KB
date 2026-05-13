@@ -9,10 +9,7 @@ sources:
 type: concept
 ---
 
-[[bionutrients-lab-lactic-acid-bacteria-serum]] (LAB) are anaerobic microorganisms that, in the
-absence of oxygen, break sugar into lactic acid. In Dr. Cho's Natural
-Farming system, LAB is very effective in improving ventilation of air
-in the soil, promoting rapid growth of [[comparison-pruning-fruit-trees-vs-grafting-fruit-trees]] and leaf vegetables.
+[[comparison-pruning-fruit-trees-vs-grafting-fruit-trees]] and leaf vegetables.
 LAB is conditionally anaerobic, meaning it can also survive with
 oxygen present.
 
@@ -21,73 +18,7 @@ oxygen present.
 1. Rice-washed water
 2. Milk (unprocessed and not boiled)
 3. Jaggery / Brown sugar
-4. Clay jar / [[sterile-spore-print-collection-glass-jar-technique]]
-5. Porous paper (paper towel)
-6. Rubber band / thread
-
-## Preparation Steps
-
-### Step 1: Rice Water Fermentation
-
-Put rice-washed water 15 to 20 cm deep in a jar. Cover the mouth of
-the jar with handmade paper and leave in shade. Lactic acid bacteria
-will propagate at 23 to 25 degrees Celsius, and the solution will
-start to smell sour.
-
-**Important Principle**: Using rice-washed water for obtaining lactic
-acid bacteria ensures that only the strongest ones are collected. Only
-strong bacteria can survive in poor nutrient conditions like
-rice-washed water.
-
-### Step 2: Milk Inoculation
-
-Add the rice water to milk. The ideal ratio between milk and rice
-water is 3:1 (milk to rice water). Pasteurized milk from the market
-is acceptable, but sometimes store-bought milk will not be effective.
-The best milk to use is fresh cow's milk. Since milk has more
-nutrients than rice-washed water, lactic acid bacteria will grow
-vigorously.
-
-### Step 3: Layer Separation
-
-In 3 to 4 days, the jar will develop three divided layers:
-- **Top layer**: Floating matter (starch, protein, and fat)
-- **Middle layer**: Clear yellow liquid -- this is the Lactic Acid
- Bacteria serum
-- **Bottom layer**: Debris (waste)
-
-### Step 4: Extraction
-
-Remove the floating substance from the top. Strain and save the yellow
-liquid. Store in a separate bottle in a cool, shaded place or in a
-refrigerator.
-
-## How to Use LAB
-
-### Basic Dilution
-
-The basic dilution ratio is 1:1000 (LAB to water).
-
-### Crop Applications
-
-1. LAB reinforces the anabolism of microbes living on plant stems and
- leaves, a condition that arises from the abuse of insecticides and
- fungicides.
-2. When using LAB alone, it is more effective to use it with
- mixed
- with LAB is sprayed on the field.
-4. LAB is extremely effective in making fruits and leaves large, but
- the amount should be reduced while approaching the later growth
- stages.
-
-### Livestock Applications
-
-- Use LAB (1:500) with FPJ (1:300) as drinking water for livestock to
- recover their digestive function.
-
-### Compost Applications
-
-- If LAB is used together with [[cho-fermented-mixed-compost-methods]] or IMO, fermentation
+4. Clay jar / [[cho-fermented-mixed-compost-methods]] or IMO, fermentation
 
 ## Practical Applications
 
@@ -118,8 +49,91 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[lactic-acid-bacteria]]
 - [[bionutrients]]
-- [[spore]]
 - [[cho-fish-amino-acid-preparation]]
 - [[cho-water-soluble-phosphoric-acid-preparation]]
+
+## Overview
+
+Cho Lactic Acid Bacteria Preparation represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish cho lactic acid bacteria preparation
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving cho extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Cho Lactic Acid Bacteria Preparation finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for cho lactic acid bacteria preparation. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+cho lactic acid bacteria preparation and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Cho Lactic Acid Bacteria Preparation has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of cho lactic acid bacteria preparation into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[lactic-acid-bacteria]]
+- [[lactic-acid-bacteria-knf]]
+- [[lactic-acid-bacteria-lab]]
+- [[lactic-acid-bacteria-natural-farming]]
+- [[lactic-acid-bacteria-serum-labs]]

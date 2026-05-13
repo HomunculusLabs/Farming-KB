@@ -11,18 +11,7 @@ type: concept
 # Cannabis Breeding Selection Principles
 
 Selection is the first and most important step in the breeding of any
-plant. The work of the great breeder and plant wizard [[tompkins-luther-burbank-intuitive-breeding]]
-stands as a beacon to breeders of exotic strains. His success in
-improving hundreds of flower, fruit, and vegetable crops was the result
-of his meticulous selection of parents from hundreds of thousands of
-seedlings and adults from the world over.
-
-## Burbank's Core Principle
-
-"First, one must get clearly in mind the kind of plant he wants, then
-breed and select to that end, always choosing through a series of years
-the plants which are approaching nearest the ideal, and rejecting all
-others." ([[luther-burbank-plant-breeding-methods]], in James, 1964)
+plant. The work of the great breeder and plant wizard [[luther-burbank-plant-breeding-methods]], in James, 1964)
 
 Proper selection of prospective parents is only possible if the breeder
 is familiar with the variable characteristics of Cannabis that may be
@@ -45,9 +34,7 @@ pollinations by early-flowering or overlooked staminate plants and by
 hermaphrodite pistillate plants. Many of these random pollen-parents may
 be undesirable for breeding since they may pass on tendencies toward
 premature maturation, retarded maturation, or hermaphrodism. The
-collected [[heirloom-vs-hybrid-seeds-comparison]] produce, on the average, larger and more
-desirable offspring than the first season. This condition is called
-[[cannabis-hybrid-vigor-and-phenotypes-clarke]] and results from the hybrid crossing of two diverse gene
+collected [[cannabis-hybrid-vigor-and-phenotypes-clarke]] and results from the hybrid crossing of two diverse gene
 pools.
 
 ## Hybrid Vigor and Its Pitfalls
@@ -62,29 +49,7 @@ characteristics in the F2 offspring.
 
 Hybrid vigor may also mask inferior qualities due to abnormally rapid
 growth. During the second season, random pollinations again account for
-a few seeds. By the third season the [[cannabis-gene-pool-preservation-acclimatization-clarke]] is tending toward
-early-maturing plants that are acclimatized to their new conditions
-instead of the drug-producing conditions of their native environment.
-
-These acclimatized members of the third crop have a higher chance of
-maturing viable seeds than the parental types, and random pollinations
-will again increase the numbers of acclimatized individuals, thereby
-increasing the chance that undesirable characteristics associated with
-acclimatization will be transmitted to the next F2 generation. This
-effect is compounded from generation to generation and finally results
-in a fully acclimatized weed strain of little drug value.
-
-## Controlling Pollination
-
-Random pollinations do not allow the control needed to reject undesirable
-parents. Any staminate plant that survives detection and roguing
-(removal from the population), or any stray staminate branch on a
-pistillate hermaphrodite may become a pollen parent for the next
-generation.
-
-Pollination must be controlled so that only the pollen- and
-seed-parents that have been carefully selected for favorable traits will
-give rise to the [[next-generation-sequencing-hidden-fungal-diversity]]. By selecting against unfavorable
+a few seeds. By the third season the [[next-generation-sequencing-hidden-fungal-diversity]]. By selecting against unfavorable
 traits while selecting for favorable ones, the unconscious breeding of
 poor strains is avoided.
 
@@ -117,8 +82,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[dom]]
 - [[det]]
-- [[cannabis-breeding-traits-selection-criteria-clarke]]
 - [[cannabis-breeding-techniques-acclimatization-trait-fixing-clarke]]
 - [[cannabis-sex-expression-hermaphrodite-breeding-clarke]]

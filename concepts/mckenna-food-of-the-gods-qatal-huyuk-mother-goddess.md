@@ -23,7 +23,7 @@ Qatal Huyuk (Çatalhöyük) was a major Neolithic settlement on the Anatolian
 plateau in modern Turkey, dating to approximately 6500 BCE. Excavated
 primarily by James Mellaart, it stands as one of the earliest known urban
 centers and represents a critical chapter in humanity's transition from
-hunter-gathering to agriculture. Terence McKenna, in *Food of the Gods*
+hunter-gathering to agriculture. [[terence-mckenna]], in *Food of the Gods*
 (Chapter 6: "The High Plains of Eden"), presents Qatal Huyuk as the last
 great flowering of the partnership model of society — a civilization built
 around the worship of a Mother Goddess and sustained by psychedelic
@@ -92,8 +92,7 @@ the psychoactive mushroom — likely growing in the dung of these same
 cattle — was the secret animating force behind the culture's spiritual
 life. Built-in "recliners" found in some shrines suggest curing or
 midwifery practices conducted in a shamanic style, where the mushroom
-served as the principal tool for entering altered [[mckenna-food-gods-designer-states-of-consciousness]]
-and facilitating [[shamanic-entheogenic-healing-rituals]].
+served as the principal tool for entering altered [[shamanic-entheogenic-healing-rituals]].
 
 ## The Dominator Invasion
 
@@ -102,22 +101,7 @@ McKenna describes its destruction as the work of Indo-European invaders
 who arrived on horseback with wheeled vehicles, bringing what he calls the
 dominator style of social organization. This patriarchal, hierarchical
 model was fundamentally incompatible with the goddess-worshipping,
-psychedelic-eating [[dominator-culture-and-partnership-society]]. The orgiastic psychedelic religion
-was anathema to the dominator worldview, which prized order, control, and
-the suppression of ecstatic experience. McKenna frames this clash as one
-of the defining catastrophes of human history: the trampling of the last
-great partnership civilization and the erasure of its spiritual and
-artistic achievements from the historical record.
-
-## Significance in McKenna's Argument
-
-Qatal Huyuk occupies a central place in McKenna's broader thesis about
-the role of [[cultural-evolution-and-psychoactive-substances]] in human [[entheogens-and-cultural-evolution]]. It
-represents the moment when the partnership model — sustained by the
-visionary mushroom — reached its highest expression in settled urban life.
-Its destruction marks the point at which dominator culture seized
-permanent control, driving the psychedelic goddess religion underground
-and setting the trajectory of [[eleusinian-mysteries-psychoactive-fungi-western-civilization]] toward hierarchy,
+psychedelic-eating [[cultural-evolution-and-psychoactive-substances]] in human [[eleusinian-mysteries-psychoactive-fungi-western-civilization]] toward hierarchy,
 conquest, and the suppression of ecstatic religious experience. For
 McKenna, recovering the story of Qatal Huyuk is essential to
 understanding what was lost — and what might yet be regained.

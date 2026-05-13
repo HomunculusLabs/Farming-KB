@@ -12,18 +12,11 @@ sources:
 
 ## Overview
 
-Crop rotation is a fundamental practice in [[hamilton-geoffhamilton-nick-organic-gardening-companion-planting]] that prevents soil exhaustion, breaks [[hamilton-pest-and-disease-control-organic]] cycles, and maintains soil fertility. The organic garden requires careful planning of what to grow where and when, considering the nutritional demands of different crop families and their relationship to previous plantings.
+Crop rotation is a fundamental practice in [[hamilton-pest-and-disease-control-organic]] cycles, and maintains soil fertility. The organic garden requires careful planning of what to grow where and when, considering the nutritional demands of different crop families and their relationship to previous plantings.
 
 ## Principles of Crop Rotation
 
-The basis of rotation is to avoid growing the same family of vegetables on the same piece of ground in successive years. Different plant families have different nutritional requirements and are susceptible to different [[query-how-to-manage-pests-and-diseases-in-mushroom-cultivation]]. By rotating crops, soil nutrients are used more evenly and pathogen populations are disrupted.
-
-## Main Crop Families
-
-### Brassicas (Cabbage Family)
-- Cabbage, broccoli, cauliflower, kale, Brussels sprouts, kohlrabi, turnips, swedes, radishes
-- High nitrogen feeders
-- Follow legumes in rotation (which [[query-how-to-fix-nitrogen-toxicity-in-cannabis]])
+The basis of rotation is to avoid growing the same family of vegetables on the same piece of ground in successive years. Different plant families have different nutritional requirements and are susceptible to different [[query-how-to-fix-nitrogen-toxicity-in-cannabis]])
 - Common pests: cabbage root fly, cabbage white butterfly, club root
 - Protect with carpet pads around transplants, bird netting, and crop covers
 
@@ -35,58 +28,9 @@ The basis of rotation is to avoid growing the same family of vegetables on the s
 
 ### Root Vegetables
 - Potatoes, carrots, parsnips, beets, Jerusalem artichokes, salsify, scorzonera, celeriac
-- Potatoes: heavy feeders, earth up main crop twice during [[savory-growing-season-and-non-growing-season-management]], spray against blight at two-week intervals, burn foliage if blight present, dig and store in autumn
-- Carrots: erect fly barriers around rows, sow successional crops, store in ground or lift before ground freezes
-- Parsnips and Hamburg parsley: dig up and store a few before ground freezes for winter use
+- Potatoes: heavy feeders, earth up main crop twice during [[hamilton-three-year-crop-rotation]] Concepts
 
-### Alliums (Onion Family)
-- Onions, shallots, garlic, leeks
-- Plant shallots and garlic in early spring
-- Leeks: sow in stale seedbed, transplant when pencil-thick, earth up in autumn
-- Draw soil away from onions in midsummer to speed ripening
-- Lift and store main crop onions in autumn
-
-## Rotation Sequence
-
-A typical four-year rotation:
-
-1. **Year 1 — Legumes**: Peas and beans fix nitrogen, enriching the soil
-2. **Year 2 — Brassicas**: Heavy nitrogen feeders benefit from legume-enriched soil
-3. **Year 3 — Root vegetables**: Lower nutrient demands; some follow brassicas well
-4. **Year 4 — Onions and miscellaneous**: Light feeders, good for cleaning the ground
-
-## Successional Sowing
-
-Many crops benefit from being sown in batches every few weeks rather than all at once. This extends the harvest period and prevents gluts:
-
-- Lettuce: sow quick-maturing varieties in late summer for a late crop
-- Radishes, carrots, turnips: late sowings in midsummer for autumn harvest
-- Peas: early, mid, and maincrop varieties
-- Beans: successionally from spring through early summer
-- Chard: sow in midsummer
-
-## Stale Seedbed Technique
-
-Used for crops like leeks, Brussels sprouts, and cabbages:
-1. Prepare the seedbed weeks in advance
-2. Allow weed seeds to germinate
-3. Hoe off or lightly cultivate to destroy weed seedlings
-4. Sow or transplant the crop into the clean bed
-
-## Planning Considerations
-
-### Seasonal Timing
-- Early crops: plant under cloches or in greenhouse (peas, beets, green beans, shallots, garlic, potatoes)
-- Main crops: sow outside after frost danger (sweet corn, tomatoes, beans, zucchini)
-- Late/overwintering crops: sow in late summer/autumn (spring cabbages, broad beans, winter lettuce)
-- Forcing crops: chicory, sea kale, rhubarb can be forced in warmth during winter
-
-### Soil Preparation by Crop
-- Heavy feeders (potatoes, brassicas, tomatoes): need generous manure/compost and additional [[hamilton-three-year-crop-rotation]] Concepts
-
-- [[nitrogen-fixing-trees-and-shrubs]]
 - [[soil-building-permaculture]]
-- [[hamilton-vegetative-propagation]]
 - [[nutrient-movement-through-soil-to-plant-roots]]
 
 ## Practical Applications
@@ -118,8 +62,89 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[jerusalem-artichoke]]
 - [[permaculture]]
-- [[crop-rotation-and-ley-farming]]
 - [[solomon-crop-rotation-and-garden-planning]]
 - [[hamilton-vegetable-planning-rotation]]
+
+## Overview
+
+Hamilton Crop Rotation And Vegetable Planning represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish hamilton crop rotation and vegetable planning
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving hamilton extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Hamilton Crop Rotation And Vegetable Planning finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for hamilton crop rotation and vegetable planning. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+hamilton crop rotation and vegetable planning and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Hamilton Crop Rotation And Vegetable Planning has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of hamilton crop rotation and vegetable planning into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[hamilton-cottage-garden-design]]
+- [[hamilton-garden-ponds-and-aquatic-plants]]
+- [[hamilton-pruning-and-training-fruit-trees]]

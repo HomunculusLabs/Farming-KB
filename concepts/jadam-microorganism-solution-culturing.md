@@ -10,9 +10,7 @@ type: concept
 # JADAM Microorganism Solution and Culturing Methods
 ## Overview
 JADAM Microorganism Solution (JMS) is the cornerstone input of JADAM
-[[coleman-deep-organic-farming-philosophy]], a Korean ultra-low-cost agricultural system developed
-by Young-sang Cho. JMS is produced by culturing [[lactic-acid-bacteria]], yeast, actinobacteria, [[knf-hay-bacillus-disease-control]], and Bacillus natto,
-all of which are [[ingham-anaerobic-organisms-role-soil]] that benefit farming when applied
+[[lactic-acid-bacteria]], yeast, actinobacteria, [[ingham-anaerobic-organisms-role-soil]] that benefit farming when applied
 to soil or plant surfaces.
 The JADAM approach to microbial cultivation fundamentally rejects the
 use of air pumps and forced aeration. Cho argues that since the microbes
@@ -28,49 +26,7 @@ possesses the microorganisms best adapted to local conditions. By
 collecting and culturing these indigenous microbes, farmers restore the
 soil biological diversity that chemical agriculture has destroyed. JMS
 application transforms soil structure, suppresses pathogens, raises
-soil temperature, and increases [[ph-and-nutrient-availability-garden-soils]] through the action
-of a thriving microbial ecosystem.
-## Key Concepts
-### Indigenous Microorganism Collection
-Microorganisms are collected from leaf mold - the decomposing leaf
-litter found on the farm or in nearby undisturbed areas. This method
-was originally developed by Hankyu Cho and refined by JADAM to make it
-easier and more effective. The key principle is that locally adapted
-microorganisms are already present in the farm ecosystem and simply
-need to be multiplied. Collection requires no special equipment beyond a
-container and leaf mold material.
-### Potato Medium Preparation
-Potatoes serve as the primary nutrient medium for culturing
-microorganisms. They are cooked until soft, then kneaded inside a cotton
-bag to extract starch into water. This starchy water provides an
-accessible carbon source that diverse microbes can readily metabolize.
-The medium must be prepared fresh and used immediately for optimal
-microbial proliferation. Alternative media include mixed grains (brown
-rice 7 parts, other grains 3 parts), which provide even richer nutrition
-for microbial growth.
-### Fermentation Without Aeration
-JMS production is strictly anaerobic. The container is covered tightly
-without any air pump. During fermentation, carbon dioxide produced by
-microbial activity creates internal pressure, and bubbles form on the
-surface. When the solution reaches peak-bubble period - vigorous
-bubbling across the entire surface with a clear disc forming - it is
-ready for use. This typically takes 24-72 hours depending on
-temperature. The peak-bubble period indicates maximum microbial
-population density.
-### Temperature Management
-Optimal fermentation occurs at 25 degrees Celsius (77 degrees
-Fahrenheit). Below 18 degrees Celsius (64.4 degrees Fahrenheit),
-heating and insulation are required. In winter, the container should be
-wrapped tightly with insulation on all sides, bottom, and top. A 3kW
-heater serves 500 liters of solution. If culturing cold-adapted
-microbes, fermentation at 20 degrees Celsius encourages propagation
-of microbes that survive sub-zero temperatures.
-### Soil Application Protocol
-For greenhouses without rainwater, JMS is applied with irrigation water,
-fully wetting the soil each time. For open fields, JMS should be applied
-before rain so that microbes reach deep soil layers with rainwater
-penetration. During the entire growth period, JMS is applied to soil
-every watering, supplemented with [[ultra-low-cost-foliar-application-methods]]. This consistent
+soil temperature, and increases [[ultra-low-cost-foliar-application-methods]]. This consistent
 application regime completely transforms soil biology, solving problems
 of nematodes, wilt disease, and virus diseases that are notoriously
 difficult to cure through conventional means.
@@ -78,8 +34,7 @@ difficult to cure through conventional means.
 JMS can be sprayed on leaves and branches to maintain microbial
 diversity on plant surfaces, preventing any single pathogen from
 dominating. For foliar application, the solution must be thoroughly
-filtered through fabric (finer than a net) and mixed with [[jadam-microorganism-solution-jms]]
-- [[ultra-low-cost-jadam-microorganism-solution-and-soil-foundation]]
+filtered through fabric (finer than a net) and mixed with [[ultra-low-cost-jadam-microorganism-solution-and-soil-foundation]]
 
 ## Practical Applications
 
@@ -110,8 +65,85 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[dom]]
 - [[ultra-low-cost-jadam-microorganism-solution-and-soil-foundation]]
-- [[jadam-microorganism-solution-jms]]
 - [[jadam-herb-solution-jhs]]
 - [[ultra-low-jadam-herb-solution-jhs]]
+
+## Overview
+
+Jadam Microorganism Solution Culturing represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish jadam microorganism solution culturing
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving jadam extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Jadam Microorganism Solution Culturing finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for jadam microorganism solution culturing. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+jadam microorganism solution culturing and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Jadam Microorganism Solution Culturing has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of jadam microorganism solution culturing into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also

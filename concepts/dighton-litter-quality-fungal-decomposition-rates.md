@@ -17,31 +17,16 @@ type: concept
 # Litter Quality Controls on Fungal Decomposition Rates
 
 The chemical composition of plant litter is a primary determinant of
-decomposition rates and the pattern of [[air-pollution-fungal-community-responses]] development during
-decay. Litter quality parameters including carbon:[[oyster-substrate-carbon-nitrogen-ratio]], lignin
+decomposition rates and the pattern of [[oyster-substrate-carbon-nitrogen-ratio]], lignin
 content, polyphenol concentrations, and the ratio of lignin plus polyphenol to
 nitrogen together predict how rapidly nutrients will be mineralized from
-[[savory-soil-organic-matter-and-decomposition-dynamics]] which fungal species will dominate the decomposer community.
-
-## Key Litter Quality Parameters
-
-The rate at which a resource is decomposed depends on its chemical composition
-(Heal and Dighton, 1985; Heal et al., 1997), [[soil-edaphic-factors-microbial-communities]] (available
+[[soil-edaphic-factors-microbial-communities]] (available
 moisture and temperature), and colonization by appropriate saprotrophic
 organisms (Cooke and Rayner, 1984). The input of different types of plant
 litters varies with ecosystem type (Dickinson and Pugh, 1974; Cadish and
 Giller, 1997).
 
-The general consensus is that the carbon:nitrogen and lignin:[[ingham-carbon-nitrogen-ratios-compost-tea]]
-can be used as determinants of the resistance of resources to decomposition
-and ultimate mineralization of nutrients (Melillo et al., 1982). Where the
-C:N or lignin:N ratios are high, decomposition rates are reduced compared to
-resources containing lower ratios.
-
-## The Lignin Plus Polyphenol to Nitrogen Ratio
-
-Van Lauwe et al. (1997) demonstrated that decomposition rates (mass loss) and
-[[fungal-nitrogen-mineralization-pathways]] rates are most strongly correlated with the (lignin
+The general consensus is that the carbon:nitrogen and lignin:[[fungal-nitrogen-mineralization-pathways]] rates are most strongly correlated with the (lignin
 plus polyphenol):N ratio. Their regression analysis showed:
 
 - C:N ratio: correlation of 0.74 with mass loss, 0.61 with N mineralization
@@ -118,8 +103,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[fungal-decomposition]]
 - [[decomposition]]
-- [[dom]]
 - [[det]]
 - [[dighton-pine-needle-litter-decomposition-fungal-succession]]

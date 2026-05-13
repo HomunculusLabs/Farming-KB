@@ -1,5 +1,5 @@
 ---
-title: Four Factors of Evaporative Demand in Mushroom Tropism
+title: Four Factors of [[evaporative-demand-and-fungal-growth]] in [[evaporative-demand-hypothesis-mushroom-tropism]]
 source: tropisms-in-the-mushroom-psilocybe-cubensis.md (Badham 1982)
 created: 2026-05-11
 tags: [mycology, evaporative-demand, tropism, wind, humidity, light, temperature, psilocybe-cubensis, boundary-layer]
@@ -10,8 +10,8 @@ tags: [mycology, evaporative-demand, tropism, wind, humidity, light, temperature
 ## Overview
 
 Badham (1982) proposed that the primary mechanism driving stipe curvature in
-*Psilocybe cubensis* is differential evaporative demand across the stipe surface.
-This evaporative demand is a function of four interacting environmental factors:
+*[[psilocybe-cubensis]]* is differential evaporative demand across the stipe surface.
+This evaporative demand is a function of four interacting [[duggar-mushroom-environmental-factors-temperature-moisture-light]]:
 wind, humidity, light, and temperature. The combined effect of these factors
 determines the rate of water loss from the stipe surface, which in turn modulates
 cell expansion rates and produces directional growth.
@@ -42,7 +42,7 @@ and demonstrated that this was sufficient to direct stipe growth.
 
 ### 2. Humidity
 
-Relative humidity directly determines the vapor pressure gradient between the
+Relative humidity directly determines the [[cervantes-vapor-pressure-deficit-transpiration]] gradient between the
 stipe surface and the surrounding air:
 
 - At high humidity (near saturation), the vapor pressure gradient is small,
@@ -70,7 +70,7 @@ Light influences evaporative demand through two potential mechanisms:
 - **Hormonal trigger**: Light may trigger hormonal responses that modulate
   cell wall extensibility or growth rate independently of the purely physical
   effects of evaporative demand. In *P. cubensis*, light is necessary for
-  basidiocarp initiation and spore production, suggesting at least two distinct
+  [[light-basidiocarp-initiation-psilocybe-cubensis-research]] and [[spore]] production, suggesting at least two distinct
   light-sensitive pathways.
 
 Badham noted that the light flux density in his experiments was approximately
@@ -125,7 +125,7 @@ asymmetric around the stipe:
 The model draws support from *Phycomyces blakesleeanus* work:
 
 - Johnson and Gamow (1971) demonstrated wind and water vapor necessity for
-  the avoidance response in *Phycomyces*.
+  the [[ethylene-involvement-fungal-tropism-avoidance-response]] in *Phycomyces*.
 - The sporangiophore bends away from objects, consistent with boundary layer
   redistribution.
 - Ethylene involvement in *Phycomyces* suggests additional volatile signals
@@ -133,8 +133,6 @@ The model draws support from *Phycomyces blakesleeanus* work:
 
 ## See Also
 
-- [[evaporative-demand-hypothesis-mushroom-tropism]] — Full hypothesis overview
 - [[boundary-layer-redistribution-fungal-tropism]] — Boundary layer physics
-- [[anemotropism-in-psilocybe-cubensis]] — Wind-directed growth
 - [[windward-leeward-boundary-layer-redistribution-stipe-curvature-badham-1982]] — Asymmetric flow
 - [[closed-circuit-wind-tunnel-design-mushroom-tropism-badham-1982]] — Experimental apparatus

@@ -94,6 +94,13 @@ Successful cool temperate establishment follows these principles:
 5. **Design for succession:** Plan for pioneer species to be replaced by productive climax species over time.
 ## See also
 
-- [[permaculture-design]]
 - [[cool-climate-home-garden-mollison]]
 - [[composting]]
+
+## See Also
+
+- [[pf-tek-time-scale-harvesting-cool-desiccation]]
+- [[cool-climate-home-garden-mollison]]
+- [[mollison-designers-apple-guild-and-cool-climate-fruit-guilds]]
+- [[glasshouse-heat-management-cool-climates-mollison]]
+- [[coleman-cool-house-vs-cold-house-economics-winter-production]]

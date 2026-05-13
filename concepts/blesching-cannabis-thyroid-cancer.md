@@ -58,18 +58,7 @@ menses.
 ## Cannabis Health Index (CHI) Score
 
 - Total Studies Reviewed: 2
-- [[blesching-cannabis-prostate-cancer-chi-value-3]]: 3
-
-## Research Evidence
-
-### CBD Inhibits Thyroid Cancer Cells
-
-In 2006, Italian scientists from Pozzuoli examined the effects of isolated
-cannabinoids and cannabis extracts on thyroid cancer cell lines implanted in
-rodents. Of the five natural compounds tested (cannabidiol, cannabigerol,
-cannabichromene, cannabidiol acid, and THC acid), scientists discovered
-cannabidiol (CBD) and cannabidiol-acid (CBD-A) to be the most potent
-inhibitors of thyroid cancer cells. [[interpreting-soil-test-results]] also revealed that while
+- [[interpreting-soil-test-results]] also revealed that while
 cannabinoids are toxic to cancer cells, they exert less potent effects on
 normal cells.
 
@@ -78,8 +67,7 @@ normal cells.
 A 2010 laboratory study from Naples, Italy, confirmed initial findings when
 researchers exposed cancerous thyroid cells to an analog of anandamide
 (Met-F-AEA). The exposure inhibited cancer cell growth and led to increased
-apoptosis ([[blesching-cannabis-apoptosis-and-cancer-cell-death]]). Scientists also discovered elevated levels of
-[[cannabis-cannabinoid-receptor-pharmacology]] 1 (CB1) expression, suggesting the toxic effect to mutated
+apoptosis ([[cannabis-cannabinoid-receptor-pharmacology]] 1 (CB1) expression, suggesting the toxic effect to mutated
 cells likely occurred through CB1 receptor interaction.
 
 ## Strain-Specific Considerations
@@ -87,39 +75,6 @@ cells likely occurred through CB1 receptor interaction.
 Scientists tested six cannabinoids against thyroid cancer cells. Significant
 among them were anandamide (binds relatively equally to CB1 and CB2), CBD, and
 CBD-acid (greater affinity for CB2 than CB1). Indica or indica-heavy hybrids
-tend to have a lower THC:[[cannabis-thc-cbd-ratio-guide-for-conditions]], increasing the probability of enhanced CB2
-
-## Practical Applications
-
-The principles and techniques discussed here have wide-ranging applications
-across multiple disciplines and contexts. Practitioners and researchers
-continue to explore new ways to integrate these concepts into modern practice,
-adapting traditional knowledge to contemporary challenges and opportunities.
-
-## Key Considerations
-
-Several important factors influence the effectiveness and outcomes described
-in this topic. Understanding these considerations helps practitioners make
-informed decisions and avoid common pitfalls. Environmental conditions,
-timing, and material selection all play critical roles.
-
-## Historical Context
-
-The historical development of this subject reflects centuries of accumulated
-knowledge and practical experience. From traditional methods passed down
-through generations to modern scientific approaches, the evolution continues
-to inform current best practices and research directions.
-
-## Common Challenges
-
-Practitioners frequently encounter several challenges when working with
-these concepts. Climate variability, resource limitations, and knowledge
-gaps can all affect outcomes. Addressing these challenges requires patience,
-observation, and a willingness to adapt approaches based on results.
-
-## See Also
-- [[cannabis-health-index]]
-- [[doc]]
+tend to have a lower THC:[[cannabis-health-index]]
 - [[cannabigerol]]
-- [[anandamide]]
 - [[blesching-cannabis-thyroid-cancer-endocannabinoid-endocrine-system]]

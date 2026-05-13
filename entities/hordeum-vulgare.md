@@ -36,35 +36,11 @@ The species is highly adaptable, tolerating poorer soils and drier conditions th
 
 **Species:** H. vulgare L.
 
-Wild barley (H. vulgare subsp. spontaneum) is the progenitor of domesticated forms. The key domestication trait is the non-shattering rachis, which prevents [[clay-pellet-seed-dispersal]] at maturity.
+Wild barley (H. vulgare subsp. spontaneum) is the progenitor of domesticated forms. The key domestication trait is the non-shattering rachis, which prevents [[savory-growing-season-and-non-growing-season-management]] among major cereals, maturing in 60–90 days in spring-sown varieties.
 
-The inflorescence is a spike (ear) with alternating sessile spikelets attached directly to the rachis. Each spikelet contains a single floret with three anthers.
+Spring barley is sown in [[comparison-cannabis-vegetative-stage-vs-flowering-stage]], providing earlier maturity and typically higher yields.
 
-Two main row types exist: two-row barley (H. vulgare subsp. distichon) with fertile central spikelets only, and six-row barley (subsp. vulgare) with all three spikelets fertile. Six-row types produce more grain per spike.
-
-The grain (caryopsis) is covered by lemma and palea that may adhere tightly (hulled barley) or fall free (naked or hull-less barley). Hulled types dominate malting barley production.
-
-Plants grow 60–120 cm tall with flat leaf blades and a hollow culm. Barley is self-pollinating, with outcrossing rates typically below 1%.
-
-## Cultivation
-
-Barley is a cool-season crop adapted to a wide range of climates, from subarctic to subtropical. It has the shortest [[savory-growing-season-and-non-growing-season-management]] among major cereals, maturing in 60–90 days in spring-sown varieties.
-
-Spring barley is sown in [[coleman-overwintered-onions-and-early-spring-crops]] and harvested in late summer. Winter barley is sown in autumn and overwinters in [[comparison-cannabis-vegetative-stage-vs-flowering-stage]], providing earlier maturity and typically higher yields.
-
-Optimal growing temperatures are 12–25 °C during [[query-how-to-protect-plants-from-frost-and-extend-the-growing-season]]. The crop is more drought-tolerant than wheat due to earlier maturity and deeper rooting in some cultivars.
-
-Seed rate varies from 80 to 350 seeds per square meter depending on row type and target plant population. Six-row varieties require higher seeding rates than two-row types.
-
-Major diseases include [[cervantes-powdery-mildew-prevention-treatment]] ([[blumeria-graminis]] f. sp. hordei), leaf rust (Puccinia hordei), and net blotch (Pyrenophora teres). Fungicide applications and resistant cultivars are primary management tools.
-
-Russia, Germany, France, and Ukraine are the world's leading barley producers. Global production exceeds 140 million tonnes annually.
-
-## Nutritional Value
-
-Whole barley grain contains approximately 12–13% protein, 2–3% fat, and 60–65% carbohydrates. It is a significant source of dietary fiber, particularly beta-glucan.
-
-Beta-glucan, a soluble fiber concentrated in the endosperm cell walls, comprises 3–7% of grain dry weight. This polysaccharode has demonstrated cholesterol-lowering and glycemic-regulating effects in [[mushroom-cancer-clinical-trials-overview]].
+Optimal growing temperatures are 12–25 °C during [[cervantes-powdery-mildew-prevention-treatment]] ([[mushroom-cancer-clinical-trials-overview]].
 
 Barley provides B vitamins (thiamin, niacin, pyridoxine) and minerals including selenium, iron, zinc, and magnesium. Hulled barley retains more nutritional value than pearl barley.
 
@@ -76,9 +52,7 @@ The protein quality of barley is limited by relatively low lysine content. High-
 
 Malted barley is the backbone of the brewing industry. During malting, controlled germination activates amylase enzymes that convert starch to fermentable sugars during mashing.
 
-Barley contains [[aact-tannins-terpenes-phenolic-compounds-wood-composting-ingham]] including ferulic acid, p-coumaric acid, and catechins. These contribute antioxidant capacity and may influence beer flavor stability during storage.
-
-Hordenine, a phenethylamine alkaloid found in barley malt, has mild adrenergic activity. It occurs at low concentrations and contributes minimally to the [[emcdda-psilocybin-cardiovascular-risks-acute-physiological-effects]] of beer.
+Barley contains [[emcdda-psilocybin-cardiovascular-risks-acute-physiological-effects]] of beer.
 
 Barley straw extracts have been investigated as natural herbicides due to allelopathic compounds released during decomposition. These inhibit algal and weed growth in aquatic systems.
 
@@ -87,3 +61,88 @@ Barley grass (young barley shoots) is marketed as a nutritional supplement rich 
 ## Ecological Role and Applications
 
 Barley serves as a break crop in cereal rotations, interrupting disease and pest cycles that build up in continuous wheat production. Its early maturity allows timely establishment of following crops.
+
+## Overview
+
+Hordeum Vulgare represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish hordeum vulgare
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving hordeum extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Hordeum Vulgare finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for hordeum vulgare. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+hordeum vulgare and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Hordeum Vulgare has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of hordeum vulgare into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[clinopodium-vulgare]]
+- [[hordeum-jubatum]]
+- [[hordeum-maritimum]]
+- [[ligustrum-vulgare]]
+- [[limonium-vulgare]]

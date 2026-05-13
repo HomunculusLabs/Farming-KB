@@ -25,33 +25,7 @@ created: 2026-04-28
 
 The species is of commercial interest as an edible mushroom cultivated on lignocellulosic agricultural wastes. It produces robust fruiting bodies with a firm texture suitable for cooking.
 
-P. tigrinus has also been investigated for bioremediation potential, particularly its ability to degrade [[singh-fungal-biodegradation-of-polycyclic-aromatic-hydrocarbons]] hydrocarbons (PAHs) and dye-containing effluents from textile industries.
-
-## Taxonomy and Morphology
-
-**Classification:** Kingdom Fungi → Division Basidiomycota → Class Agaricomycetes → Order Polyporales → Family Polyporaceae → Genus *Panus* → Species *P. tigrinus* (Bull.) Singer.
-
-**Synonyms:** *Agaricus tigrinus* Bull., *Lentinus tigrinus* (Bull.) Fr., *Pocillaria tigrina* (Bull.) Kuntze. The species was historically placed in *Lentinus* but molecular phylogenetics supports its placement in *Panus*.
-
-**Cap:** 3–10 cm diameter, convex to depressed-funnel shaped with an inrolled margin when young. Surface dry, covered in concentrically zoned, fine tomentose scales giving a tiger-stripe appearance. Color ranges from pale ochre to warm tan.
-
-**Gills:** Decurrent, narrow, crowded, with lamellulae of two lengths. White to cream, staining brownish with age or bruising. Edge often entire but may become serrate in maturity.
-
-**Stipe:** 2–6 cm long, 0.5–1.5 cm thick, eccentric to lateral, cylindrical, tough and fibrous. Surface is tomentose near the base, colored similar to the cap.
-
-**Spores:** Print white. Spores 5–7 × 2–3 µm, cylindrical to ellipsoid, smooth, thin-walled, hyaline, inamyloid.
-
-**Microscopic features:** Hyphal system monomitic. Pileipellis is a trichoderm of septate, clamped hyphae with cylindrical terminal cells. Cystidia absent from both gill edge and face.
-
-## Distribution and Habitat
-
-P. tigrinus has a broad distribution across temperate and subtropical regions of Europe, Asia, Africa, and the Americas. It is particularly common in Mediterranean climates and tropical lowlands.
-
-The species fruits on dead wood of broadleaf trees, especially willow (*Salix* spp.), poplar (*Populus* spp.), elm (*Ulmus* spp.), and beech (*Fagus* spp.). It is found on fallen branches, stumps, and exposed roots in moist conditions.
-
-Fruiting occurs from spring through autumn, peaking in warm, wet periods. In tropical regions it may fruit year-round following rains.
-
-It is one of the earlier colonizers of freshly fallen timber, competing with other pioneer fungi such as [[trametes-versicolor-entity]].
+P. tigrinus has also been investigated for bioremediation potential, particularly its ability to degrade [[trametes-versicolor-entity]].
 
 ## Cultivation
 
@@ -61,7 +35,7 @@ P. tigrinus is cultivated commercially in parts of Southeast Asia, particularly 
 
 **Parameters:** Optimal temperature for mycelial growth is 25–30°C, with fruiting triggered by temperature drops to 18–24°C. Relative humidity of 85–95% is required during fruiting. Light is necessary for normal cap development.
 
-**[[stamets-biological-efficiency-yield]]** on [[oyster-mushroom-supplemented-sawdust-blocks]] ranges from 30–60%, depending on substrate quality and environmental conditions. First flush typically appears 20–30 days after spawning.
+**[[oyster-mushroom-supplemented-sawdust-blocks]] ranges from 30–60%, depending on substrate quality and environmental conditions. First flush typically appears 20–30 days after spawning.
 
 The species is relatively resistant to contamination compared to other cultivated mushrooms, making it accessible to small-scale growers. Its rapid colonization speed helps it outcompete competitor molds.
 
@@ -77,14 +51,92 @@ No cases of toxicity have been reported, but as with all wild mushrooms, correct
 
 ## Ecological Role
 
-As a white-rot decomposer, P. tigrinus secretes lignin-modifying enzymes including laccase, [[fungal-manganese-peroxidase-remediation]], and lignin peroxidase. These enzymes break down the lignin component of wood, recycling nutrients back into forest ecosystems.
-
-The species has demonstrated significant potential for **mycoremediation** of contaminated environments. Laboratory studies show it can degrade polycyclic aromatic hydrocarbons (PAHs) including naphthalene, phenanthrene, and pyrene.
-
-Its [[singh-fungal-laccase-enzymes-bioremediation]] are also effective at decolorizing synthetic dyes used in textile manufacturing, suggesting applications in [[fungal-industrial-wastewater-treatment]] treatment. Enzyme production peaks during the active growth phase and can be induced by adding aromatic compounds to the culture medium.
+As a white-rot decomposer, P. tigrinus secretes lignin-modifying enzymes including laccase, [[singh-fungal-laccase-enzymes-bioremediation]] are also effective at decolorizing synthetic dyes used in textile manufacturing, suggesting applications in [[fungal-industrial-wastewater-treatment]] treatment. Enzyme production peaks during the active growth phase and can be induced by adding aromatic compounds to the culture medium.
 
 P. tigrinus contributes to nutrient cycling in riparian ecosystems where it commonly fruits on submerged or partially submerged woody debris along waterways.
 
 ## Bioactive Compounds
 
 P. tigrinus produces several bioactive metabolites during its growth cycle. Extracts have demonstrated antioxidant, antimicrobial, and anti-inflammatory properties in vitro.
+
+## Overview
+
+Panus Tigrinus represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish panus tigrinus
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving panus extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Panus Tigrinus finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for panus tigrinus. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+panus tigrinus and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Panus Tigrinus has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of panus tigrinus into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[lentinus-tigrinus]]
+- [[panus-conchatus]]

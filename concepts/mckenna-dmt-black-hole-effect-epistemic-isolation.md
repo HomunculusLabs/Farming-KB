@@ -9,11 +9,8 @@ tags: [mckenna, dmt, black-hole, epistemology, communication, tryptamine, ineffa
 
 ## Overview
 
-One of [[mckenna-dmt-experience-and-hyperspace]] — the phenomenology of DMT
-  experience
-- [[mckenna-translinguistic-matter-and-exteriorized-soul]] — McKenna's broader
-  theory of [[mckenna-translinguistic-matter-and-exteriorized-soul]]
-- [[mckenna-tryptamine-hallucinogens-and-consciousness]] — source lecture
+One of [[mckenna-translinguistic-matter-and-exteriorized-soul]] — McKenna's broader
+  theory of [[mckenna-tryptamine-hallucinogens-and-consciousness]] — source lecture
 ## Background and Context
 
 DMT Black Hole Effect and Epistemic Isolation is an important subject that has garnered significant attention

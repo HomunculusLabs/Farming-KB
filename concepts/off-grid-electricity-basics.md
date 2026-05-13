@@ -1,9 +1,9 @@
 ---
-title: Off Grid Electricity Basics
+title: Off-Grid Electricity Basics
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
-tags: [[homesteading]], engineering, equipment, sustainability]
+tags: [homesteading, engineering, equipment, sustainability]
 sources: []
 ---
 
@@ -22,7 +22,7 @@ The first step in system design is calculating daily energy consumption. Every a
 - Refrigerator (ENERGY STAR): 150-400 watts (runs ~30% of the time)
 - Well pump (1/2 HP): 800-1200 watts (runs 1-2 hours/day)
 - Chest freezer: 100-200 watts (runs ~30% of the time)
-- [[cervantes-washing-machine-hash]]: 400-800 watts
+- Washing machine: 400-800 watts
 - Microwave: 600-1200 watts
 - Phone charger: 5-10 watts
 - Internet router: 10-20 watts
@@ -61,7 +61,7 @@ This means approximately six 330W panels or eight 250W panels.
 
 ### Panel Types
 
-- Monocrystalline: Highest efficiency (18-22%), best performance per [[comparison-biointensive-vs-square-foot-gardening]], most expensive
+- Monocrystalline: Highest efficiency (18-22%), best performance per square foot, most expensive
 - Polycrystalline: Moderate efficiency (15-18%), good value
 - Thin-film: Lowest efficiency, flexible, best for curved surfaces or mobile applications
 
@@ -74,7 +74,7 @@ This means approximately six 330W panels or eight 250W panels.
 
 ## Batteries
 
-Batteries store [[fukuoka-textdoc-three-dimensional-solar-energy-methodless-method]] for use when the sun is not shining. Battery capacity is measured in amp-hours (Ah) at a specific voltage.
+Batteries store solar energy for use when the sun is not shining. Battery capacity is measured in amp-hours (Ah) at a specific voltage.
 
 ### Battery Sizing
 
@@ -140,10 +140,11 @@ A basic 2-4 kW off-grid system:
 - Solar panels (2 kW): $1500-3000
 - Lithium battery bank (10 kWh): $3000-5000
 - MPPT charge controller: $200-600
-- Inverter (3000W pure sine): $500-1500
-- Wiring, fuses, mounting: $500-1500
-- **Total: $5700-$11,600**
 
-Lead-acid systems cost less upfront ($3000-6000) but require battery replacement every 3-7 years.
+## See Also
 
-## Conservation First
+- [[van-life-off-grid]]
+- [[query-what-are-the-best-heating-options-for-an-off-grid-homestead]]
+- [[off-grid-energy-and-homestead-infrastructure]]
+- [[cotter-off-grid-mushroom-cultivation]]
+- [[off-grid-waste-management]]

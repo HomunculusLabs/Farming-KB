@@ -13,24 +13,10 @@ sources:
   - Jalas, J. (1971). "Notes on Thymus L. (Lamiaceae) in Europe." Annales Botanici Fennici, 8, 254-301.
   - Stahl-Biskup, E. & Saez, F. (2002). "Thyme: The Genus Thymus." Taylor & Francis.
   - Tutin, T.G. et al. (1972). "Flora Europaea, Vol. 3." Cambridge University Press.
-  - Morales, R. (2002). "The history, [[cannabis-botany-and-taxonomy]] of the genus Thymus." In Thyme, 1-43.
----
-
-## Overview
-
-**Thymus serpyllum**, commonly known as wild thyme, creeping thyme, or
-mother-of-thyme, is a low-growing, woody-based perennial in the family
-Lamiaceae. It is native to Europe and northern Africa, forming dense mats of
-aromatic foliage in dry, sunny habitats.
-
-Wild thyme is closely related to common thyme (*[[thymus-vulgaris-entity]]*) but is
+  - Morales, R. (2002). "The history, [[thymus-vulgaris-entity]]*) but is
 distinguished by its prostrate growth habit, smaller leaves, and lower-growing
 stature. It has been valued for centuries as a culinary herb, medicinal plant,
-and ornamental [[fukuoka-citrus-orchard-ground-cover-cultivation]].
-
-The species is one of the most important nectar sources for wild bees in
-European grasslands and heathlands. Its [[permaculture-designers-manual-essential-oil-plants]], rich in [[thymol]] and
-[[carvacrol]], has documented antimicrobial and antiseptic properties.
+and ornamental [[permaculture-designers-manual-essential-oil-plants]], rich in [[carvacrol]], has documented antimicrobial and antiseptic properties.
 
 ## Taxonomy and Morphology
 
@@ -88,3 +74,77 @@ stews, and marinades. Dried leaves retain their flavor well and are used in
 herb blends, stuffings, and meat dishes.
 
 Wild thyme is a traditional component of the French *herbes de Provence*
+
+## Overview
+
+Thymus Serpyllum represents an important element within sustainable
+design and [[solomon-gardening-aikido-pest-philosophy-ecological-management]] systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish thymus serpyllum
+from related concepts in [[permaculture]] and [[gaias-garden-ecological-design-process-checklist]].
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving thymus extend
+across multiple [[ingham-soil-foodweb-trophic-levels-protozoa-nematodes]] and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Thymus Serpyllum finds practical application in multiple design contexts.
+[[permaculture-principles]] guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive [[livestock-grassland-management-strategies]] that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for thymus serpyllum. [[jeavons-climate-adaptation-growing-seasons]]
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+thymus serpyllum and its applications. Active investigation
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Thymus Serpyllum has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of thymus serpyllum into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource

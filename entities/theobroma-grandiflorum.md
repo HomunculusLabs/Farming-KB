@@ -13,12 +13,7 @@ sources:
   - Alves, R.E. et al. (2004). "Cupuaçu: Theobroma grandiflorum." In: Exotic Fruits and Nuts of the New World, CABI Publishing.
   - Venturieri, G.C. (1993). "Cupuaçu: um fruteiro alternativo para a Amazônia." EMBRAPA-CPATU, Belém.
   - Rogez, H. (2000). "Açaí and Cupuaçu: Composition, Nutritional and Functional Properties." Lavoisier Publishing.
-  - Sousa, A.G. et al. (2011). "Theobroma grandiflorum (cupuaçu): a fruit from the Amazon with [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]]." Food Research International, 44(7), 2072–2078.
----
-
-## Overview
-
-**Theobroma grandiflorum**, commonly known as cupuaçu, is a tropical [[comparison-berry-growing-vs-fruit-tree-pruning]] native to the Amazon basin.
+  - Sousa, A.G. et al. (2011). "Theobroma grandiflorum (cupuaçu): a fruit from the Amazon with [[comparison-berry-growing-vs-fruit-tree-pruning]] native to the Amazon basin.
 
 It is closely related to cacao and belongs to the same genus within the family Malvaceae.
 
@@ -65,11 +60,7 @@ Cupuaçu is native to the eastern and southern Amazon basin, occurring naturally
 
 Its range extends into the Guianas, Peru, Colombia, and parts of Bolivia.
 
-The species grows in lowland [[tropical-rainforest-seedling-mycorrhiza-ecological-restoration]] at elevations below 400 meters.
-
-It thrives in humid conditions with annual rainfall of 1,500–3,000 mm and average temperatures of 24–28°C.
-
-The tree is shade-tolerant in its [[cervantes-seedling-care-early-growth]] stages but produces better fruit yields under partial canopy opening.
+The species grows in lowland [[cervantes-seedling-care-early-growth]] stages but produces better fruit yields under partial canopy opening.
 
 Natural populations are found along riverbanks and in seasonally flooded forest areas.
 

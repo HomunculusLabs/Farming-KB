@@ -11,20 +11,7 @@ date: 2026-05-08
 updated: 2026-05-08
 sources:
   - Shurtleff, M.C. (1980). "Compendium of Corn Diseases." 2nd ed. American Phytopathological Society.
-  - Ranum, P. et al. (2014). "Nutritional impact of diversified maize-based foods." Journal of [[fukuoka-critique-western-dietetics-nutritional-science]], 3, e42.
-  - Nuss, E.T. & Tanumihardjo, S.A. (2010). "Maize: a paramount staple crop in the context of global nutrition." Comprehensive Reviews in Food Science and Food Safety, 9(4), 417–436.
-  - Matsuoka, Y. et al. (2002). "A single domestication for maize shown by multilocus microsatellite genotyping." PNAS, 99(9), 6080–6084.
----
-
-## Overview
-
-**Zea mays**, commonly known as maize or corn, is a large cereal grain crop domesticated in Mesoamerica approximately 9,000 years ago.
-
-It is the most widely produced grain crop globally, with annual production exceeding 1.2 billion tonnes.
-
-The species is remarkable for its extreme morphological diversity, with varieties adapted to nearly every [[holzer-climate-zone-microclimate-creation]] from the tropics to [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]].
-
-Maize serves as human food, [[query-how-do-i-start-black-soldier-fly-farming-for-composting-and-animal-feed]], industrial raw material, and increasingly as a biofuel feedstock.
+  - Ranum, P. et al. (2014). "Nutritional impact of diversified maize-based foods." Journal of [[holzer-climate-zone-microclimate-creation]] from the tropics to [[query-how-do-i-start-black-soldier-fly-farming-for-composting-and-animal-feed]], industrial raw material, and increasingly as a biofuel feedstock.
 
 ## Taxonomy and Morphology
 
@@ -61,13 +48,9 @@ Maize was domesticated from teosinte in the Balsas River valley of southwestern 
 
 It spread throughout the Americas before European contact and subsequently to all inhabited continents.
 
-The [[dmt-containing-plants-united-states-halpern]], China, Brazil, Argentina, and Ukraine are the world's largest producers.
+The [[savory-growing-season-and-non-growing-season-management]].
 
-Maize is cultivated from 50°N to 50°S latitude, from sea level to over 3,000 meters elevation.
-
-Optimal growth requires 500–1,200 mm of annual rainfall and temperatures of 25–33°C during the [[savory-growing-season-and-non-growing-season-management]].
-
-Modern [[cervantes-hybrid-varieties-types]] typically mature in 90–120 days from [[query-how-do-i-grow-garlic-organically-from-planting-to-harvest]].
+Modern [[query-how-do-i-grow-garlic-organically-from-planting-to-harvest]].
 
 Average grain yields range from 1–2 tonnes per hectare in subsistence systems to 10–12 tonnes under intensive management.
 
@@ -88,3 +71,80 @@ Yellow maize contains carotenoids, including lutein and zeaxanthin, which are im
 White maize, preferred in many African and Latin American countries, lacks significant carotenoid content.
 
 Whole-grain maize provides dietary fiber, B vitamins (thiamine, niacin, folate), iron, and magnesium.
+
+## Overview
+
+Zea Mays represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish zea mays
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving zea extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Zea Mays finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for zea mays. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+zea mays and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Zea Mays has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of zea mays into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.

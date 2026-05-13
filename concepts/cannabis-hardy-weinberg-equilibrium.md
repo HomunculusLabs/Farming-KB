@@ -9,22 +9,11 @@ sources: []
 
 Updated: 2026-04-18
 
-Hardy-Weinberg Equilibrium is the principle that in a large, randomly mating population, allele frequencies remain constant from generation to generation unless disrupted by specific forces. Understanding this is essential for [[oner-cannabis-breeding-fundamentals]] and strain stabilization.
+Hardy-Weinberg Equilibrium is the principle that in a large, randomly mating population, allele frequencies remain constant from generation to generation unless disrupted by specific forces. Understanding this is essential for [[cannabis-gene-pool-preservation-acclimatization-clarke]] maintains a constant ratio of alleles. If 80% carry allele S and 20% carry allele s, this ratio persists across generations — assuming no outside forces act on the population.
 
-## Basic Principle
-
-In a stable population, the [[cannabis-gene-pool-preservation-acclimatization-clarke]] maintains a constant ratio of alleles. If 80% carry allele S and 20% carry allele s, this ratio persists across generations — assuming no outside forces act on the population.
-
-The mathematical formula p² + 2pq + q² = 1 describes the expected genotype frequencies, where p is the frequency of the dominant allele and q is the frequency of the recessive allele. For cannabis breeders, this formula allows prediction of offspring trait ratios when parental genotypes are known, forming the mathematical foundation of [[cannabis-true-breeding-ibl-strains]] with multiple locked-down traits require many generations and very large populations to achieve.
-
-## See Also
-
-- [[cannabis-true-breeding-ibl-strains]]
-
-- [[cannabis-breeding-basics]]
+The mathematical formula p² + 2pq + q² = 1 describes the expected genotype frequencies, where p is the frequency of the dominant allele and q is the frequency of the recessive allele. For cannabis breeders, this formula allows prediction of offspring trait ratios when parental genotypes are known, forming the mathematical foundation of [[cannabis-true-breeding-ibl-strains]]
 
 - [[cannabis-seed-selection-and-strain-types]]
-- [[first-time-grower-common-mistakes]]
 - [[cannabis-hybrid-vigor-and-phenotypes-clarke]]
 ## Practical Applications
 
@@ -97,8 +86,6 @@ through generations to modern scientific approaches, the evolution continues
 to inform current best practices and research directions.
 
 ## See Also
-- [[doc]]
 - [[dom]]
-- [[det]]
 - [[fukuoka-mutual-cancellation-natural-equilibrium]]
 - [[singh-fungal-biosorption-isotherms-equilibrium-models]]

@@ -10,15 +10,10 @@ sources:
 ---
 # Legume and Fruit Vegetable Harvest
 
-Detailed [[cannabis-harvest-timing-visual-cues]] and storage instructions for legumes and
-[[hamilton-fruit-vegetables-organic]], based on Purdue Extension guidelines. Covers beans,
+Detailed [[hamilton-fruit-vegetables-organic]], based on Purdue Extension guidelines. Covers beans,
 peas, okra, peppers, tomatoes, cucumbers, and eggplant.
 
-Related: [[vegetable-garden-guide]],
-[[vegetable-garden-harvest]] — Comprehensive [[vegetable-harvest-and-storage-guide]]
-  for all vegetables
-- [[cole-crop-harvest-and-storage]] — Cole [[cole-crop-harvest-and-storage]]
-- [[vegetable-garden-guide]] — Comprehensive [[home-vegetable-garden-planning]]
+Related: [[vegetable-garden-harvest]] — Comprehensive [[cole-crop-harvest-and-storage]] — Cole [[vegetable-garden-guide]] — Comprehensive [[home-vegetable-garden-planning]]
   reference
 ## Practical Applications
 

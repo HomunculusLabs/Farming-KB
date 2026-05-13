@@ -10,15 +10,7 @@ sources:
 ---
 # Bacterial vs Fungal Compost Teas
 
-Elaine Ingham distinguishes between bacterial-dominant and fungal-dominant compost teas based on which organism group predominates. The choice between them depends on the plant being grown, the disease pressure present, and the current soil biology. It is always a question of dominance — even fungal tea contains bacteria, but fungi must reach a minimum threshold to achieve [[aact-disease-suppression-mechanisms-ingham]].
-
-## Bacterial Dominance
-
-Bacterial teas are appropriate when:
-- Growing early successional plants (weeds, brassicas, lettuce)
-- Combating specific diseases like black spot on roses
-- Soil already has adequate fungal biomass
-- Rapid [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] of simple sugars is needed
+Elaine Ingham distinguishes between bacterial-dominant and fungal-dominant compost teas based on which organism group predominates. The choice between them depends on the plant being grown, the disease pressure present, and the current soil biology. It is always a question of dominance — even fungal tea contains bacteria, but fungi must reach a minimum threshold to achieve [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] of simple sugars is needed
 
 Simple sugars (molasses, honey) are bacterial foods. Honey specifically helps bacteria, not fungi. As bacteria grow using excess simple carbon, they sequester nitrogen, phosphorus, sulfur and other nutrients, outcompeting other organisms for these resources.
 
@@ -46,32 +38,7 @@ Getting adequate fungal biomass is the difficult challenge in compost tea produc
 3. Fungi must survive in the tea
 4. Fungi must arrive intact on leaf surfaces or soil
 
-Any time [[aact-dissolved-oxygen-fine-bubble-aeration-ingham]] falls below 5.5–6 ppm, beneficial fungi are lost. This threshold has been demonstrated repeatedly in testing. Good-guy fungi do not tolerate oxygen depletion in tea, compost, or soil.
-
-### Fungal Tea Recipe
-
-For a 500-gallon brew:
-- **Fungal compost**: 150+ µg fungal biomass, 10+ µg active fungi, plus good bacteria, protozoa and nematode numbers
-- **Molasses**: 0.5–2.5 gallons (0.1–0.5% of water volume), varies seasonally — less in summer, more in spring
-- **Kelp**: 0.5 lb (provides surface area for fungal growth)
-- **Rock dust**: If needed for plant nutrients (amount depends on plant requirements)
-- **Humic acid or fish hydrolysate**: ~0.1% of volume; increase to improve fungal component
-
-## Fungal Foods
-
-Materials specifically geared toward fungi include:
-- Fish hydrolysate containing enzymatically hydrolyzed bone, cartilage and scale
-- Humic acids from enzymatic hydrolysis of leonardite or hot water extraction
-- Cornmeal, corn bran, wheat bran (protein meals)
-- Oatmeal
-- Lignite (very complex fungal food — only after fungal enzymes begin breaking it down)
-
-Molasses at low amounts helps bacteria, but at 5% concentration it helps fungi significantly more than bacteria (though enormous bacterial biomass still results). Neither molasses nor honey are appropriate when trying to grow only fungi.
-
-## The Fungal:Bacterial Ratio
-
-The correct ratio depends on the plant:
-- Early successional plants (annual vegetables, weeds): 1:1 or lower ([[comparison-bacterial-dominant-vs-fungal-dominant-tea]])
+Any time [[comparison-bacterial-dominant-vs-fungal-dominant-tea]])
 - Mid-successional (grasses, row crops): 2:1 to 5:1
 - Late successional (trees, shrubs, conifers): 10:1 to 100:1 (fungal dominant)
 
@@ -79,14 +46,8 @@ Tillage causes bacteria to bloom and burns off organic residues rapidly, leading
 
 ## True Compost Tea
 
-A true compost tea should contain all organism groups present in good compost: bacteria, fungi, protozoa, and nematodes. If a tea machine only extracts bacteria, it is technically bacterial tea, not full compost tea. Ingham established minimum organism levels at Soil Foodweb Inc. (SFI) that consistently correlate with [[cervantes-pest-disease-prevention-overview]] when met or exceeded.
-
-## See Also
-
-- [[chamovitz-circadian-rhythm-internal-clock-plants]]
-- [[compost-tea-aact]]
+A true compost tea should contain all organism groups present in good compost: bacteria, fungi, protozoa, and nematodes. If a tea machine only extracts bacteria, it is technically bacterial tea, not full compost tea. Ingham established minimum organism levels at Soil Foodweb Inc. (SFI) that consistently correlate with [[chamovitz-circadian-rhythm-internal-clock-plants]]
 - [[nutrient-cycling-in-soil]]
-- [[ingham-field-guide-overview]]
 - [[humic-acids-soil-biology-ingham]]
 
 ## Practical Applications
@@ -118,8 +79,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[fungal-hyphae]]
 - [[soil-foodweb]]
-- [[dom]]
 - [[elaine-ingham]]
 - [[building-soil]]

@@ -69,12 +69,7 @@ Pairs well with mangroves and other halophytes in a saline food production syste
 - Harvest young, tender stems for best eating quality
 - Remove woody central core before pickling
 - Cannot be grown in freshwater or non-saline conditions
-- Suitable for constructed saline wetlands [[mangrove-ecosystems-and-coastal-restoration]] projects
-
-## Related Species
-
-- Sarcocornia stricta (English glasswort) - preferred for pickling
-- [[salicornia-europaea]] (common glasswort, marsh samphire) - widely harvested in Europe
+- Suitable for constructed saline wetlands [[salicornia-europaea]] (common glasswort, marsh samphire) - widely harvested in Europe
 - Suaeda australis (sea blight) - companion halophyte on Australian salt flats
 - Sesuvium portulacastrum (sea purslane) - fleshy coastal companion plant
 
@@ -96,17 +91,9 @@ levels, and climate conditions typical of its ecological niche.
 
 ## Ecological Role
 
-Sarcocornia Quinqueflora plays important [[fungal-melanin-biosynthesis-ecological-functions]] including soil stabilization,
-habitat provision for wildlife, and contribution to local biodiversity.
-These [[biodiversity-of-fungi-ecosystem-services-agriculture]] make it valuable for [[tropical-rainforest-seedling-mycorrhiza-ecological-restoration]] and
-permaculture applications.
-
-## Cultivation and Uses
-
-Traditional and modern uses of Sarcocornia Quinqueflora span food production, [[comparison-vetiver-grass-vs-bamboo-for-erosion-control]],
+Sarcocornia Quinqueflora plays important [[biodiversity-of-fungi-ecosystem-services-agriculture]] make it valuable for [[comparison-vetiver-grass-vs-bamboo-for-erosion-control]],
 and ornamental horticulture. Cultivation requirements include appropriate
 soil conditions, water management, and climate considerations.
 ## See Also
-- [[coastal-permaculture-plants]]
 - [[coastal-edible-plants-permaculture]]
 - [[coastal-gardening]]

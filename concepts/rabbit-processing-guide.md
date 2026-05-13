@@ -3,7 +3,7 @@ title: Rabbit Processing Guide
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
-tags: [animal-husbandry, livestock, processing, food, [[homesteading]], safety, workflow]
+tags: [animal-husbandry, livestock, processing, food, homesteading, safety, workflow]
 sources: []
 ---
 
@@ -29,7 +29,7 @@ On-farm rabbit processing provides a direct source of lean, high-quality meat an
 -  **Bucket** — For offal and blood.
 -  **Hose with spray nozzle** — For rinsing the carcass.
 -  **Cooler with ice** — For rapid chilling of processed carcasses.
--  **Cutting board** — Dedicated to [[faires-meat-processing-curing-and-smoking]], sanitized before and after use.
+-  **Cutting board** — Dedicated to meat processing, sanitized before and after use.
 -  **Plastic wrap or vacuum bags** — For packaging.
 
 ### Sanitation
@@ -139,11 +139,12 @@ Rabbit meat is exceptionally lean and nutritious:
 
 ## Regulations
 
-In the [[dmt-containing-plants-united-states-halpern]], the USDA exempts rabbit processing from federal inspection if:
-- The producer raises and processes the rabbits on their own farm
-- Sales are direct to the end consumer (no retail, restaurant, or wholesale)
-- The producer does not process rabbits from other farms
+In the United States, the USDA exempts rabbit processing from federal inspection if:
 
-Some states have additional requirements. Check local regulations before selling processed rabbit meat. For a more permanent processing setup, see [[home-butcher-shop-setup]].
+## See Also
 
-## Waste Utilization
+- [[comparison-duck-keeping-vs-rabbit-husbandry]]
+- [[mollison-designers-rabbit-housing-and-manure-management]]
+- [[rabbit-husbandry-guide]]
+- [[fukuoka-textdoc-fox-rabbit-grass-energy-cascade-caloric-waste-luxury-foods]]
+- [[rabbit-husbandry-basics]]

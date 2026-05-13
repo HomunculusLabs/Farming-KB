@@ -1,6 +1,6 @@
 ---
 
-title: Jadam Pesticide For Slugs And Snails
+title: JADAM Pesticide for Slugs and Snails
 created: 2026-04-11
 updated: 2026-04-12
 type: concept
@@ -30,9 +30,9 @@ JADAM's slug/snail control uses [[jadam-wetting-agent-jwa]] combined with sodium
 - Water: to 500L (132 gal)
 
 **With insect control** (slugs + aphids/mites/moths):
-- JWA: 3L + NaOH 1.5kg + JHS 5L ([[comparison-jerusalem-artichoke-vs-potato]])
+- JWA: 3L + NaOH 1.5kg + JHS 5L (Jerusalem artichoke)
 
-**With [[hamilton-pest-and-disease-control-organic]]**:
+**With disease control**:
 - JWA: 3L + NaOH 1.5kg + JS 1-2L
 
 ## Preparation Steps
@@ -73,10 +73,10 @@ Integrate with JNP for best results:
 - **Remove hiding places**: clear debris, reduce thick mulch in problem areas
 - **Beer traps**: shallow dishes of beer attract and drown slugs (supplementary)
 - **Copper barriers**: copper tape around beds deters slugs (they get electric shock)
-- **[[comparison-neem-oil-cannabis-vs-diatomaceous-earth-cannabis]]**: sharp particles damage slug soft bodies (supplementary)
+- **Diatomaceous earth**: sharp particles damage slug soft bodies (supplementary)
 - **Hand-picking**: early morning or evening patrols, drop in soapy water
 - **Reduce moisture**: improve drainage, avoid overhead watering at night
-- **Encourage predators**: [[ground-beetles-carabidae-and-biological-pest-control]], ducks, frogs, toads
+- **Encourage predators**: ground beetles, ducks, frogs, toads
 
 ## Pests Controlled
 
@@ -96,38 +96,3 @@ Sodium hydroxide can be added to any JNP formulation for increased pesticidal st
 - [[jadam-natural-pesticide-jnp]] -- complete formulation reference
 - [[jadam-pesticide-for-aphids-and-mites]] -- if slugs + aphids are both present
 - [[jadam-herb-solution-jhs]] -- for adding insect control to slug treatment
-
-## Practical Applications
-
-The principles and techniques discussed here have wide-ranging applications
-across multiple disciplines and contexts. Practitioners and researchers
-continue to explore new ways to integrate these concepts into modern practice,
-adapting traditional knowledge to contemporary challenges and opportunities.
-
-## Key Considerations
-
-Several important factors influence the effectiveness and outcomes described
-in this topic. Understanding these considerations helps practitioners make
-informed decisions and avoid common pitfalls. Environmental conditions,
-timing, and material selection all play critical roles.
-
-## Historical Context
-
-The historical development of this subject reflects centuries of accumulated
-knowledge and practical experience. From traditional methods passed down
-through generations to modern scientific approaches, the evolution continues
-to inform current best practices and research directions.
-
-## Common Challenges
-
-Practitioners frequently encounter several challenges when working with
-these concepts. Climate variability, resource limitations, and knowledge
-gaps can all affect outcomes. Addressing these challenges requires patience,
-observation, and a willingness to adapt approaches based on results.
-
-## See Also
-- [[det]]
-- [[youngsang-cho]]
-- [[neem]]
-- [[jadam-pesticide-for-aphids-and-mites]]
-- [[jadam-pesticide-for-powdery-mildew]]

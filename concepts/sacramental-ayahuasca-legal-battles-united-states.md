@@ -22,7 +22,6 @@ containing the Schedule I compound N,N-dimethyltryptamine (DMT).
 
 Ayahuasca is a psychoactive brew traditionally used by indigenous peoples of the
 Amazon Basin for spiritual and medicinal purposes spanning thousands of years.
-[[chiric-caspi-brunfelsia-south-american-hallucinogen]] powdered snuffs are usually prepared from the seeds of
 [[yopo-anadenanthera-peregrina-snuff]] or the bark of Virola species trees, but ayahuasca
 represents the most common South American ethnomedicine containing DMT.
 
@@ -55,16 +54,7 @@ years before their legal battles reached American courts.
 ## Origins of the Brazilian Ayahuasca Churches
 
 In the 20th century, new syncretic religions emerged in Brazil that blended
-elements of Christianity with traditional [[harner-amazonian-ayahuasca-preparation-methods]] practices. The two
-largest, the Santo Daime and the UDV, were both founded by rubber tappers
-working in the Amazon during the 1950s who came into contact with indigenous or
-mestizo ayahuasca practitioners.
-
-Each founder reported a significant vision instructing them to organize a church
-using the brew as the principal sacrament. Members come from all walks of life
-in both urban and rural environments in Brazil. Each church has by now several
-thousand members in Brazil, and two of the churches have significant satellite
-centers in [[psilocybin-north-america-pacific-northwest]] and Europe. The churches are officially recognized and
+elements of Christianity with traditional [[psilocybin-north-america-pacific-northwest]] and Europe. The churches are officially recognized and
 the use of ayahuasca is legal in Brazil within that framework.
 
 ## The Santo Daime and State-Level Recognition

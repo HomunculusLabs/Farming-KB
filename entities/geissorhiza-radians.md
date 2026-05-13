@@ -108,13 +108,8 @@ Conservation efforts include seed collection from remaining wild populations for
 
 ## See Also
 
-- [[sparaxis-tricolor]]
 - [[ixia-viridiflora]]
-- [[moraea-polystachya]]
 - [[dierama-pulcherrimum]]
-- [[watsonia-borbonica]]
 - [[babiana-stricta]]
-- [[freesia-refracta]]
 - [[crocosmia-lucifer]]
-- [[iris-germanica]]
 - [[crocus-sativus]]

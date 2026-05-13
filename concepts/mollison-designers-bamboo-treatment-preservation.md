@@ -17,10 +17,8 @@ type: concept
 
 # Bamboo Treatment and Preservation
 
-[[permaculture-design]], bamboo serves multiple functions beyond building:
-windbreaks, [[permplant-willows-salix-erosion-control-fodder]], animal fodder, edible shoots, water pipe,
-handicrafts, and [[comparison-biochar-production-guide-vs-biochar-soil-amendment]]. Mollison advocates integrating bamboo
-clumps into [[mollison-designers-lime-and-cement-natural-building]]
+[[permplant-willows-salix-erosion-control-fodder]], animal fodder, edible shoots, water pipe,
+handicrafts, and [[mollison-designers-lime-and-cement-natural-building]]
 and [[mollison-designers-earth-rammed-tire-construction]].
 ## Practical Applications
 

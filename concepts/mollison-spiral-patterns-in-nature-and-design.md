@@ -71,12 +71,7 @@ The cycling spirals can be found in biological clocks, such as those
 which govern the 24-hour metabolism of flowers and fruit-flies,
 stimulated by oxygen or light pulses. Within a specific organism,
 specific pulsers exist; the 24-hour rhythm (circadian) of birds is
-controlled by the [[mckenna-tryptamine-endogenous-dmt-pineal-gland-theory]] which secretes a regular nocturnal
-pulse of the hormone melatonin. The changing levels of melatonin
-trigger the annual cycles of breeding and nest-building in birds.
-
-Visual perception of light changes and day lengths regulate the
-production of melatonin in the [[pineal-gland-dmt-entheogenic-experience]]. Even small pieces of the
+controlled by the [[pineal-gland-dmt-entheogenic-experience]]. Even small pieces of the
 gland in isolation will respond to light, and can be disrupted by
 flashes of light (as in lightning) at night. Thus, discharge phenomena
 such as lightning disrupt or trigger initiatory reactions in life
@@ -91,3 +86,11 @@ increase absorption, or spiral cilia to convey mucus and food or
 
 ## See Also
 - [[mollison-designers-herb-spiral-design-construction]]
+
+## See Also
+
+- [[mollison-designers-termite-and-ant-mound-niche-gardening]]
+- [[mollison-designers-contour-surveying-a-frame-bunyip-level]]
+- [[humus-soil-amendment-mollison]]
+- [[minamata-disease-mollison]]
+- [[mollison-drought-proofing-strategies]]

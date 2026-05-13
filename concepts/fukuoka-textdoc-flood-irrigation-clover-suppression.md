@@ -27,15 +27,15 @@ The technique replaces an entire suite of conventional inputs — herbicides, ti
 
 ## The Role of Clover in the System
 
-Clover is not a weed in Fukuoka's system — it is a foundational, intentionally managed component of the entire agricultural cycle. He broadcasts clover seed over the ripening heads of rice in autumn, alongside winter grain seed, so that by the time the rice is harvested the clover is already establishing itself in the stubble. Through winter and into spring, the clover grows into a dense, luxuriant mat that performs several essential functions:
+Clover is not a weed in Fukuoka's system — it is a foundational, intentionally managed component of the entire agricultural cycle. He broadcasts clover seed over the ripening heads of rice in autumn, alongside winter grain seed, so that by the time the rice is harvested the clover is already establishing itself in the stubble. Through winter and into spring, the clover grows into a dense, luxuriant mat that performs several [[plant-micronutrients-and-their-essential-functions]]:
 
-- **Nitrogen fixation**: As a legume, clover forms symbiotic relationships with rhizobia bacteria in its root nodules, converting atmospheric nitrogen into plant-available forms. This eliminates the need for synthetic nitrogen fertilizers entirely.
+- **Nitrogen fixation**: As a legume, clover forms [[fungi-in-the-environment-symbiotic-relationships]] with rhizobia bacteria in its root nodules, converting atmospheric nitrogen into plant-available forms. This eliminates the need for synthetic nitrogen fertilizers entirely.
 
 - **Weed suppression**: The dense ground cover shades out competing weeds, preventing them from germinating and establishing. Over successive seasons, this reduces the weed seed bank in the soil until weed pressure becomes negligible.
 
 - **Soil protection**: The living mulch prevents erosion from both wind and rain, maintains soil moisture through evaporation suppression, and preserves soil structure by shielding the surface from direct rainfall impact.
 
-- **Organic matter contribution**: When clover dies back partially — from natural senescence, trampling during harvest, or the temporary flood — it contributes organic material to the soil surface, feeding the soil microbial community.
+- **Organic matter contribution**: When clover dies back partially — from natural senescence, trampling during harvest, or the temporary flood — it contributes organic material to the soil surface, feeding the [[edaphic-factors-soil-microbial-community-structure]].
 
 - **Microclimate moderation**: The clover mat buffers soil temperature extremes, keeping the root zone of germinating seeds cooler in late spring and warmer in early autumn, extending the viable growing window.
 
@@ -103,7 +103,7 @@ The flood technique achieves what chemical herbicides attempt — suppression of
 
 - **No chemical residues**: The clover remains alive and uncontaminated, with no herbicide residues accumulating in the soil, water table, or harvested grain.
 
-- **No soil damage**: Herbicides can harm beneficial soil microbial communities including mycorrhizal fungi; flooding is a natural disturbance that soil life tolerates well.
+- **No soil damage**: Herbicides can harm beneficial [[endorhiza-rhizosphere-bulk-soil-microbial-communities]] including mycorrhizal fungi; flooding is a natural disturbance that soil life tolerates well.
 
 - **No resistance development**: Clover cannot evolve resistance to being submerged in water, unlike the growing problem of herbicide-resistant weeds in conventional agriculture.
 
@@ -115,9 +115,6 @@ The flood technique achieves what chemical herbicides attempt — suppression of
 
 ## See Also
 
-- [[fukuoka-no-till-rice-barley-clover-succession]] — The complete rice-barley-clover succession method
-- [[fukuoka-clay-pellet-aerial-seeding-method]] — Clay pellet preparation and direct seeding technique
-- [[fukuoka-textdoc-postwar-agricultural-policy-fall-farming]] — Role of scattered straw as soil protection and moisture retention
+- [[fukuoka-clay-pellet-aerial-seeding-method]] — Clay pellet preparation [[fukuoka-seed-balls-and-direct-seeding]] technique
 - [[fukuoka-cover-crop-lifespan-clover-decline-weed-reemergence]] — Clover as permanent living mulch and nitrogen fixer
-- [[fukuoka-winter-grain-rice-rotation]] — Overview of the annual succession cropping cycle
-- [[fukuoka-natural-farming-four-principles]] — Philosophical foundation of minimal intervention farming
+- [[fukuoka-natural-farming-four-principles]] — [[fukuoka-spiritual-philosophical-foundation]] of minimal intervention farming

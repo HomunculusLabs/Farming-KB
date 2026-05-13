@@ -44,13 +44,7 @@ The life cycle lacks a free-living microscopic phase — fertilization occurs di
 
 ## Distribution and Habitat
 
-Bladder wrack is distributed throughout the North Atlantic, from the White Sea and Arctic Norway to Portugal in Europe, and from Labrador to North Carolina in [[psilocybin-north-america-pacific-northwest]]. It also occurs in the Baltic Sea, where it is the dominant canopy-forming fucoid.
-
-The species occupies the mid-intertidal zone on rocky shores, typically growing at mean tide level to mean low water. It is less tolerant of desiccation than the higher-shore species *Fucus spiralis* but more tolerant than the lower-shore *Fucus serratus*.
-
-Bladder wrack thrives on stable, moderately wave-exposed shores with firm rock substrates. It is absent from highly exposed headlands and very sheltered muddy habitats.
-
-Populations in the Baltic Sea exhibit unique adaptations to low salinity, including reduced bladder formation and thinner thalli. These brackish-water populations represent the most inland [[hamilton-kelp-and-seaweed-in-organic-gardening]] in the world.
+Bladder wrack is distributed throughout the North Atlantic, from the White Sea and Arctic Norway to Portugal in Europe, and from Labrador to North Carolina in [[hamilton-kelp-and-seaweed-in-organic-gardening]] in the world.
 
 ## Chemistry and Bioactive Compounds
 
@@ -70,11 +64,9 @@ Bladder wrack forms the dominant canopy in mid-intertidal communities throughout
 
 The species supports a diverse epifaunal community including snails, barnacles, mussels, amphipods, and isopods. Over 100 animal species have been recorded living on or within bladder wrack beds.
 
-Bladder wrack contributes significantly to coastal primary productivity, with net production rates of 1–3 g carbon per m² per day during peak [[savory-growing-season-and-non-growing-season-management]]. Detritus from senescing fronds supports benthic food webs.
+Bladder wrack contributes significantly to coastal primary productivity, with net production rates of 1–3 g carbon per m² per day during peak [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]], absorbing dissolved nitrogen and phosphorus from the water column. Its seasonal growth dynamics are strongly influenced by [[ph-and-nutrient-availability-garden-soils]] and photoperiod.
 
-The species plays a role in coastal [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]], absorbing dissolved nitrogen and phosphorus from the water column. Its seasonal growth dynamics are strongly influenced by [[ph-and-nutrient-availability-garden-soils]] and photoperiod.
-
-Climate-driven shifts in species distribution have been documented, with bladder wrack retreating from southern portions of its range as water temperatures increase. Competition with invasive *Undaria pinnatifida* further threatens populations in some areas.
+Climate-driven shifts in species distribution have been documented, with bladder wrack retreating from southern portions of its range as water temperatures increase. Competition with invasive *[[undaria-pinnatifida]]* further threatens populations in some areas.
 
 ## Uses and Applications
 

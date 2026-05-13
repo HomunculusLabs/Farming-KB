@@ -9,15 +9,10 @@ tags: [fukuoka, natural-farming, fish-farming, aquaculture, pelagic-disease, pol
 
 ## Overview
 
-In *The Natural Way of Farming*, [[masanobu-fukuoka]] extends his [[fukuoka-road-critique-of-modern-science]] agriculture
+In *The Natural Way of Farming*, [[fukuoka-road-critique-of-modern-science]] agriculture
 to include fishing and aquaculture. He describes how pelagic diseases in Japan's Inland Sea,
 caused by pollution from fish farming centers, are treated with large doses of chemicals — a
-destructive cycle mirroring the [[fukuoka-textdoc-postwar-mite-epidemic-pesticide-spiral]] in agriculture. The sardine shortage caused
-by feed demands for farmed yellowtail illustrates the irrationality of modern food production.
-
-## Pollution of the Seas
-
-Modern fishing practices are as destructive as [[fukuoka-critique-modern-agriculture]].
+destructive cycle mirroring the [[fukuoka-critique-modern-agriculture]].
 
 We have polluted and killed seas that were once fertile fishing grounds.
 
@@ -45,34 +40,7 @@ with the dangers posed to the entire marine ecosystem.
 Microorganisms, plankton, and smaller species are all impacted, creating cascading effects
 throughout the food chain.
 
-This perfectly parallels agriculture's [[jadam-universal-pesticide-approach]]: each intervention creates new
-problems requiring further intervention.
-
-## The Sardine Shortage Paradox
-
-A rise in demand for sardines as feed for yellowtail (a valued farmed fish) resulted in
-an acute sardine shortage.
-
-For a brief period, sardines — once cheap and abundant — became a luxury item.
-
-Small fish that could feed people directly are used as feed to produce expensive fish for
-wealthy consumers, becoming scarce enough to become luxury items themselves.
-
-The energy conversion is enormously wasteful: many pounds of sardines produce a single pound
-of farmed yellowtail.
-
-## Protecting Natural Reproduction
-
-Fukuoka argued that protecting seas where fish can still be caught by hand should be a clear
-priority over developing superior methods for catching fish.
-
-Research on breeding technology for shrimp, sea bream, and eels would not increase the total
-number of fish in the sea.
-
-Such misguided thinking undermines the fishing industry and will someday spell doom for the
-oceans of the world.
-
-The solution is not more technology but less intervention: allowing [[fungal-biodiversity-marine-ecosystems-coastal-deep-sea]] to
+This perfectly parallels agriculture's [[fungal-biodiversity-marine-ecosystems-coastal-deep-sea]] to
 recover their natural productivity by removing industrial fishing and aquaculture pressures.
 
 ## The Fragility of Nature
@@ -117,8 +85,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[doc]]
 - [[knf-vs-chemical-farming-comparison]]
-- [[fukuoka-textdoc-non-causality-rice-blast-disease]]
 - [[fukuoka-fruit-tree-disease-pest-control-natural-predators]]
 - [[fukuoka-textdoc-vegetable-disease-pest-resistance-classification]]

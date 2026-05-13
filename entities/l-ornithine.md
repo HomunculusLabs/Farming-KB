@@ -29,14 +29,7 @@ tags: [profile]
 ## Overview
 
 L-ornithine is a non-proteinogenic alpha-amino acid.
-It is a central recyclable carrier in the mammalian [[urea-cycle-biochemistry]].
-The compound is not one of the twenty standard amino acids used by ribosomes.
-Its main biochemical importance comes from nitrogen disposal and arginine metabolism.
-Ornithine accepts a carbamoyl group to become citrulline.
-Later in the same pathway, arginase regenerates ornithine from arginine.
-That regeneration is why the pathway is also called the ornithine cycle.
-Ornithine connects ammonia detoxification, amino acid catabolism, and liver function.
-It is especially relevant to [[l-citrulline]] is produced directly from ornithine in the urea cycle.
+It is a central recyclable carrier in the mammalian [[l-citrulline]] is produced directly from ornithine in the urea cycle.
 carbamoyl phosphate donates the carbamoyl group to ornithine.
 arginine is hydrolyzed to regenerate ornithine and release urea.
 putrescine is formed from ornithine by decarboxylation.
@@ -46,8 +39,6 @@ urea is the excreted nitrogen product produced after ornithine is regenerated.
 
 ## See Also
 
-- [[knf-fish-amino-acid]]
-- hyperammonemia
 - [[enzyme-inhibition]]
 ## Practical Considerations
 

@@ -1,5 +1,5 @@
 ---
-title: Off Grid Waste Management
+title: Off-Grid [[community-recycling-waste-management]]
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
@@ -52,7 +52,7 @@ For sites that fail conventional percolation tests:
 
 ## Composting Toilets
 
-Composting toilets treat human waste through aerobic decomposition, converting it into compost without water. They are the most practical off-grid toilet solution.
+[[composting-toilets]] treat human waste through aerobic decomposition, converting it into compost without water. They are the most practical off-grid toilet solution.
 
 ### Self-Contained Units
 
@@ -67,7 +67,7 @@ All components in one unit — toilet and composting chamber together.
 **Pros:**
 - Easy installation — no plumbing required
 - No water consumption
-- Can be used in [[tiny-house-on-wheels]], [[van-life-off-grid]], and [[skoolie-bus-conversion]]
+- Can be used in [[tiny-house-on-wheels|tiny houses]], [[van-life-off-grid|vans]], and [[skoolie-bus-conversion|buses]]
 - Low odor when properly maintained
 - Produces usable compost
 
@@ -105,8 +105,8 @@ The Humanure system, developed by Joseph Jenkins, is a DIY composting toilet app
 
 1. Use a 5-gallon bucket with a toilet seat lid as the toilet
 2. After each use, add a handful of sawdust, peat moss, or other carbon material
-3. When the bucket is full, empty it into an outdoor compost bin
-4. The compost bin is managed like any other compost pile, maintaining proper carbon-nitrogen balance
+3. When the bucket is full, empty it into an outdoor [[query-how-do-i-start-a-worm-compost-bin-for-my-garden]]
+4. The compost bin is managed like any other [[mushroom-cultivator-compost-pile-management]], maintaining proper carbon-nitrogen balance
 5. After 1-2 years of composting, the material is safe to use on ornamental plants (not food crops)
 6. NEVER use fresh compost on food crops — complete thermophilic composting is essential for pathogen kill
 
@@ -124,7 +124,7 @@ The Humanure system, developed by Joseph Jenkins, is a DIY composting toilet app
 
 - Maintain thermophilic temperatures (120F+) for at least 3 days
 - Let finished compost age for 6-12 months before use
-- Use only on ornamental plants, fruit trees, or buried in food gardens
+- Use only on ornamental plants, [[comparison-grafting-vs-budding-fruit-trees]], or buried in food gardens
 - Hand washing is essential after handling
 - Local regulations vary — some prohibit [[humanure-composting]]
 

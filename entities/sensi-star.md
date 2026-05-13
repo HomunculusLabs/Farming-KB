@@ -11,13 +11,7 @@ updated: 2026-04-28
 sources:
   - cannabis-strain-super-lemon-haze-greenhouse-seed-co. (2000s). Sensi Star strain documentation.
   - Leafly Strain Database. "Sensi Star." leafly.com.
-  - AllBud. "Sensi Star [[marijuana-strain-guide-hybrid]] Information." allbud.com.
-created: 2026-04-28
----
-
-## Overview
-
-Sensi Star is an indica-dominant [[blesching-cannabis-strain-selection-receptor-targeting]] originally bred by Paradise Seeds in the Netherlands.
+  - AllBud. "Sensi Star [[blesching-cannabis-strain-selection-receptor-targeting]] originally bred by Paradise Seeds in the Netherlands.
 
 It won the High Times Cannabis Cup in 1999, establishing its reputation among elite legacy varieties.
 
@@ -33,7 +27,7 @@ The breeder, Paradise Seeds, has not released the exact parent cross publicly.
 
 Genetic analysis suggests a roughly 90:10 indica-to-sativa ratio.
 
-Afghani heritage contributes the strain's dense [[green-cannabis-plant-anatomy-calyx-pistil-bud-structure]], [[cannabis-glandular-trichome-types-resin-production-clarke]], and relaxing effects.
+Afghani heritage contributes the strain's dense [[cannabis-glandular-trichome-types-resin-production-clarke]], and relaxing effects.
 
 ## Appearance
 
@@ -57,11 +51,7 @@ On combustion, the flavor is smooth with earthy, hash-like qualities.
 
 Citrus and pepper notes emerge on the exhale, with a lingering herbal aftertaste.
 
-The [[cannabis-terpene-profile]] is dominated by myrcene, caryophyllene, and limonene.
-
-## Cannabinoid Profile
-
-[[thc-content-factors-cultivation-freshness-storage-degradation-blesching]] typically ranges from 18% to 23%, placing it in the high-potency category.
+The [[thc-content-factors-cultivation-freshness-storage-degradation-blesching]] typically ranges from 18% to 23%, placing it in the high-potency category.
 
 CBD levels are generally low, usually below 0.5%.
 
@@ -73,7 +63,7 @@ The high myrcene content contributes to the strain's sedative character.
 
 The onset is relatively fast, beginning with a cerebral euphoria that transitions to deep body relaxation.
 
-Users report significant stress relief, [[cannabis-pain-management-protocols]], [[cannabis-for-cachexia-and-appetite-stimulation]].
+Users report significant stress relief, [[cannabis-for-cachexia-and-appetite-stimulation]].
 
 The sedative effects intensify over time, making it popular as an evening or bedtime strain.
 

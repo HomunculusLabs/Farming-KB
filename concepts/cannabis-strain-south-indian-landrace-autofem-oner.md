@@ -15,7 +15,7 @@ tags:
 
 The South Indian strain reviewed by The Rev is a pure landrace from India,
 stabilized by AutoFem Seeds, a Spanish seed company best known for their
-autoflowering cannabis varieties. This particular strain is described as a
+[[autoflowering-cannabis]] varieties. This particular strain is described as a
 non-commercial offering from AutoFem's genetic pool — not promoted as part of
 their main catalog but preserved and made available because of its genetic
 significance. The Rev notes that while this South Indian landrace has been used
@@ -128,8 +128,6 @@ matter of botanical interest but of maintaining a living connection to the
 genetic foundations upon which modern cannabis culture has been built.
 
 ## See Also
-- [[cannabis-strain-swazi-landrace-south-african-sativa-oner]]
 - [[cannabis-strain-hawaiian-wave-tropical-sativa-landrace-oner]]
-- [[cannabis-strain-temple-bodhi-seeds-super-silver-haze-oner]]
 - [[cannabis-strain-sweet-pink-grapefruit-alpine-seeds-oner]]
 - [[cannabis-strain-colombian-gold-landrace-sativa]]

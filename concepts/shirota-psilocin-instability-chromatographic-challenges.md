@@ -10,21 +10,15 @@ created: 2026-05-08
 
 ## Overview
 
-A persistent practical problem in the forensic analysis of [[guzman-magic-mushrooms-african-species]] is
-the chemical instability of psilocin, the primary psychoactive compound
-produced when psilocybin is metabolized. Shirota, Hakamata, and Goda (2003)
-noted that "it is difficult to isolate 1 and 2 from the mushroom on a gram
-scale for use as pure [[shirota-forensic-standard-compounds-magic-mushroom-identification]] because 1 easily decomposes and 2
+A persistent practical problem in the forensic analysis of [[shirota-forensic-standard-compounds-magic-mushroom-identification]] because 1 easily decomposes and 2
 has a high polarity." These dual challenges—psilocin's instability and
 psilocybin's polarity—have shaped the development of analytical methods for
-magic [[shirota-japan-narcotics-regulation-magic-mushrooms-2002]]
-- [[psilocin-synthesis-4-hydroxyindole-to-psilocin]]
+magic [[psilocin-synthesis-4-hydroxyindole-to-psilocin]]
 
 ## References
 
 - Shirota, O., Hakamata, W., & Goda, Y. (2003). Concise large-scale
-  synthesis of [[tryptamine-chemistry-psilocin-and-psilocybin-synthesis]]. *J. Nat. Prod.*, 66, 885-887.
-- Beug, M.W. & Bigwood, J. (1981). Quantitative [[hplc-analysis-of-psilocybin-and-psilocin]].
+  synthesis of [[hplc-analysis-of-psilocybin-and-psilocin]].
   *J. Chromatogr.*, 207, 379-385.
 - Bogusz, M.J. (2000). Liquid chromatographic method for psilocin.
   *J. Chromatogr. B*, 748, 3-19.

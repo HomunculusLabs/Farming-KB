@@ -19,9 +19,7 @@ sources:
 
 ## Overview
 
-**Liatris spicata**, commonly known as dense blazing star or marsh blazing star, is a perennial herbaceous plant in the family Asteraceae. It is native to [[polypore-fungi-eastern-north-america]] America, occurring from Ontario and New York south to Florida and west to Wisconsin and Texas.
-
-The species is among the most popular native wildflowers for cultivation, valued for its tall, showy spikes of purple flower heads that bloom from the top downward. It is a premier butterfly and bee plant, ranking highly in pollinator preference surveys across multiple eastern [[growing-gourmet-north-american-reishi-species]] studies.
+**Liatris spicata**, commonly known as dense blazing star or marsh blazing star, is a perennial herbaceous plant in the family Asteraceae. It is native to [[growing-gourmet-north-american-reishi-species]] studies.
 
 ## Taxonomy and Morphology
 
@@ -31,9 +29,9 @@ Plants grow 60–120 cm tall from a rounded corm. Stems are erect, unbranched or
 
 The inflorescence is a dense, elongated terminal spike 15–40 cm long. Individual flower heads are 8–13 mm across, composed of 5–8 disc florets with vivid purple to rose-pink corollas. Flowers open from the apex downward, providing a long bloom period.
 
-Corms are 1–3 cm in diameter, fleshy, and produce offsets for vegetative propagation. The root-crown structure distinguishes *L. spicata* from other *Liatris* species that grow from tuberous roots or fibrous root systems.
+Corms are 1–3 cm in diameter, fleshy, and produce offsets for [[hamilton-vegetative-propagation]]. The root-crown structure distinguishes *L. spicata* from other *Liatris* species that grow from tuberous roots or fibrous root systems.
 
-The chromosome number is 2n = 30. Natural hybridization occurs between *L. spicata* and other *Liatris* species where ranges overlap, particularly with *L. pycnostachya* in the central United States. These hybrids can complicate field identification in areas of sympatry.
+The chromosome number is 2n = 30. Natural hybridization occurs between *L. spicata* and other *Liatris* species where ranges overlap, particularly with *L. pycnostachya* in the central United States. These hybrids can complicate [[amanita-muscaria-physical-description-field-identification]] in areas of sympatry.
 
 A white-flowered form occurs naturally at low frequency and has been selected into the 'Floristan White' cultivar. Natural populations show some variation in flower color intensity, spike density, and plant height across the geographic range.
 
@@ -55,15 +53,13 @@ The species has naturalized outside its native range in parts of Europe, where i
 
 The corms contain inulin-type fructans as the primary carbohydrate storage compound. Inulin from *Liatris* species has been investigated as a potential prebiotic fiber source, though commercial extraction has not been developed.
 
-Unlike many Asteraceae species, *L. spicata* does not contain significant quantities of pyrrolizidine alkaloids or other toxic [[antifungal-secondary-metabolites-coprophilous-fungi]]. The foliage and corms are not considered toxic to livestock or humans.
+Unlike many Asteraceae species, *L. spicata* does not contain significant quantities of pyrrolizidine alkaloids or other toxic [[permaculture-designers-manual-essential-oil-plants]] profile has not been thoroughly characterized, and the species is not used commercially for essential oil production.
 
-Limited phytochemical screening has identified trace amounts of coumarins and phenolic acids in the aerial parts. The [[permaculture-designers-manual-essential-oil-plants]] profile has not been thoroughly characterized, and the species is not used commercially for essential oil production.
-
-The genus *Liatris* has received relatively little phytochemical investigation compared to other Asteraceae genera. Further research may reveal additional bioactive compounds, particularly in the corm tissue where secondary metabolite concentrations tend to be highest.
+The genus *Liatris* has received relatively little phytochemical investigation compared to other Asteraceae genera. Further research may reveal additional bioactive compounds, particularly in the corm tissue where [[fungal-elicitors-enhanced-secondary-metabolite-production]] concentrations tend to be highest.
 
 ## Ethnobotanical Use
 
-Indigenous peoples of eastern North America used the corms of *L. spicata* and related *Liatris* species as both food and medicine. The Cherokee chewed the roots for sore throats and applied root poultices to snake bites.
+Indigenous peoples of [[polypore-fungi-eastern-north-america]] used the corms of *L. spicata* and related *Liatris* species as both food and medicine. The Cherokee chewed the roots for sore throats and applied root poultices to snake bites.
 
 The corms are edible when cooked, with a flavor described as similar to potatoes or turnips. They were collected by several tribes as a supplemental food source, particularly in autumn and winter when other carbohydrate sources were scarce.
 
@@ -75,7 +71,7 @@ Eclectic physicians in the 19th century listed *L. spicata* root as a diuretic a
 
 *L. spicata* is one of the most important native nectar sources for butterflies in eastern North America. Monarch butterflies feed extensively on blazing star nectar during their late-summer southward migration. The flowers also attract a wide range of native bees, skippers, and hummingbirds.
 
-The flower spikes provide vertical structure in meadow and prairie plantings. This architectural quality makes the species valuable in designed landscapes, where it provides both visual interest and ecological function in pollinator gardens and restoration projects.
+The flower spikes provide vertical structure in meadow and prairie plantings. This architectural quality makes the species valuable in designed landscapes, where it provides both visual interest and [[bloomfield-fungal-fruiting-body-morphology-ecological-function]] in pollinator gardens and restoration projects.
 
 Several specialized native bee species visit *Liatris* flowers, including mining bees (*Andrena* spp.) and sweat bees (*Lasioglossum* spp.). The top-down flowering pattern ensures a prolonged nectar supply over 4–6 weeks, supporting pollinators through late summer.
 
@@ -85,6 +81,6 @@ The dense flower spikes provide landing platforms for large-bodied butterflies t
 
 ## Cultivation
 
-Dense blazing star is one of the most widely cultivated native North American perennials. It is propagated commercially from seed, corm divisions, and [[comparison-seed-saving-techniques-vs-tissue-culture-cloning]]. Seed germination requires no stratification and occurs readily at 20–25°C with light exposure.
+Dense blazing star is one of the most widely cultivated native [[north-american-dmt-containing-plants-phalaris-desmanthus-peganum]] perennials. It is propagated commercially from seed, corm divisions, and [[comparison-seed-saving-techniques-vs-tissue-culture-cloning]]. Seed germination requires no stratification and occurs readily at 20–25°C with light exposure.
 
 Corms are planted 5–8 cm deep in spring or fall, spaced 15–30 cm apart. Plants typically flower in the second or third year from seed but may bloom in the first year from large corm divisions. Established clumps can be divided every 3–4 years.

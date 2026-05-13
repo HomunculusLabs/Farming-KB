@@ -21,26 +21,14 @@ sources:
 ## Overview
 Gallium arsenide is a binary III-V compound semiconductor with the formula GaAs.
 It is made from gallium and arsenic in a one-to-one atomic ratio.
-Its [[crystal-structure-and-crystal-defects]] is zinc blende, the same tetrahedral framework used by many III-V compounds.
-The material is important because it has a direct band gap rather than the indirect gap of silicon.
-That direct gap lets electrons and holes recombine efficiently by emitting photons.
-For this reason GaAs is a standard material for infrared LEDs, laser diodes, and high-speed optoelectronics.
-It also appears in microwave electronics where high electron mobility and high saturated velocity matter.
-In this wiki it connects directly to [[silicon]].
+Its [[silicon]].
 
 ## Physical and Electronic Identity
 GaAs is not simply doped silicon with a different impurity package.
 It is a distinct compound whose bonding, lattice constant, and band extrema differ from elemental group-IV semiconductors.
 The zinc blende lattice gives each gallium atom four nearest arsenic neighbors.
 Each arsenic atom likewise has four nearest gallium neighbors.
-This tetrahedral coordination produces a [[semiconductor-band-structure]] with a direct optical transition near the Brillouin-zone center.
-The direct transition is the key fact behind many GaAs light-emitting uses.
-The wider band gap also affects leakage, temperature behavior, and device voltage limits.
-Electron mobility in high-quality GaAs is substantially higher than in silicon.
-That mobility is one reason GaAs devices historically mattered for microwave and millimeter-wave circuits.
-
-## Historical Notes
-Gallium arsenide was synthesized and studied in the early [[coleman-louis-savier-twentieth-century-maraicher]].
+This tetrahedral coordination produces a [[coleman-louis-savier-twentieth-century-maraicher]].
 Victor Goldschmidt is associated with early synthesis work in 1926.
 Heinrich Welker and Siemens-Schuckert patents helped establish III-V compounds as semiconductors in the early 1950s.
 Commercial monocrystal production began in the 1950s.
@@ -89,6 +77,5 @@ GaAs wafers are also more expensive and often more fragile.
 Thus GaAs complements silicon rather than replacing it across the electronics industry.
 
 ## Band-Structure Relevance
-In [[silicon]] -- the dominant indirect-gap semiconductor used for mainstream integrated circuits.
-- [[singh-selenium-arsenic-biotransformation-fungi]]
+In [[singh-selenium-arsenic-biotransformation-fungi]]
 - [[singh-composted-fungal-biomass-heavy-metal-immobilization]]

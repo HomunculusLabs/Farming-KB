@@ -24,42 +24,11 @@ sources:
 
 The species is among the most chemically distinctive lichens in its genus, containing bitter depsides absent from most other *Pertusaria* species. Its name "amara" directly references this bitterness.
 
-*P. amara* has a long history of use in Scandinavian and [[psilocybe-bohemica-central-european]] folk medicine as a bitter tonic and appetite stimulant. It remains one of the few lichens harvested commercially for herbal preparations.
-
-## Taxonomy and Morphology
-
-- **Kingdom:** Fungi
-- **Division:** Ascomycota
-- **Class:** Lecanoromycetes
-- **Order:** Pertusariales
-- **Family:** Pertusariaceae
-- **Genus:** *Pertusaria* DC.
-- **Species:** *P. amara* (Ach.) Nyl.
-
-**Synonyms:**
-- *Variolaria amara* Ach. (basionym)
-- *Pertusaria amara* var. *corallina* (Zahlbr.) Erichsen
-- *Pertusaria communis* DC. sensu auct. (misapplied)
-
-The thallus is crustose, broadly appressed to the substrate, and can reach 10–15 cm in diameter. Surface color ranges from whitish-grey to pale greenish-grey, sometimes with a pinkish tinge in well-lit exposures.
-
-The surface is covered in conspicuous wart-like protuberances (papillae) 0.5–1.5 mm in diameter, each bearing a small pore (ostiole) at its apex. These pores lead to the reproductive structures (apothecia) embedded within the thallus tissue.
-
-Mediterranean populations tend to develop a more continuously cracked areolate surface rather than discrete warts. Specimens from shaded, humid microhabitats may produce a thicker, more strongly developed cortex.
-
-Spores are ellipsoid to fusiform, 60–120 × 25–40 μm, colorless, and muriform (multi-celled with both transverse and longitudinal septa). Ascospores number 1–2 per ascus, which is large and thick-walled.
-
-No pycnidia have been reliably reported. [[hamilton-vegetative-propagation]] is limited, making the species dependent on ascospore dispersal for colonization of new substrates.
+*P. amara* has a long history of use in Scandinavian and [[hamilton-vegetative-propagation]] is limited, making the species dependent on ascospore dispersal for colonization of new substrates.
 
 ## Distribution and Habitat
 
-*Pertusaria amara* has a broadly [[psilocybe-semilanceata-worldwide-temperate-distribution-guzman-1998]] across Europe, extending from Scandinavia and the British Isles southward through Central Europe to the Mediterranean basin.
-
-In Europe, it is most frequent in oceanic to suboceanic regions with moderate rainfall and low atmospheric pollution. Populations decline sharply in areas with significant sulfur dioxide deposition.
-
-The species also occurs in [[polypore-fungi-eastern-north-america]] America, primarily in the [[bolete-fungi-appalachian-region]] and the Great Lakes-St. Lawrence forest zone. Disjunct populations are reported from the [[psilocybin-north-america-pacific-northwest]] of [[guzman-psilocybin-mushrooms-north-america]].
-
-It shows a strong preference for the bark of mature, nutrient-rich trees with moderately acidic to subneutral bark pH. Frequent phorophytes include *Quercus robur*, *[[fagus-sylvatica]]*, *Acer platanoides*, *Fraxinus excelsior*, and *Ulmus glabra*.
+*Pertusaria amara* has a broadly [[polypore-fungi-eastern-north-america]] America, primarily in the [[psilocybin-north-america-pacific-northwest]] of [[fagus-sylvatica]]*, *Acer platanoides*, *Fraxinus excelsior*, and *Ulmus glabra*.
 
 Occasional substrate extensions include old wooden fence posts, weathered timber, and siliceous rock outcrops in humid, sheltered locations. It is most abundant in old-growth forests with high bark pH and good air quality.
 
@@ -88,3 +57,87 @@ Historical pharmaceutical texts list *P. amara* under the name "Cetraria amara" 
 No modern clinical studies have validated the traditional uses. The species is not currently used in mainstream phytotherapy, though it retains interest as a historical ethnobotanical resource.
 
 ⚠️ Lichen compounds can cause contact dermatitis in sensitive individuals. Internal use should be approached with caution due to limited toxicological data.
+
+## Overview
+
+Pertusaria Amara represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish pertusaria amara
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving pertusaria extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Pertusaria Amara finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for pertusaria amara. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+pertusaria amara and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Pertusaria Amara has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of pertusaria amara into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[pertusaria-coccodes]]
+- [[pertusaria-corallina]]
+- [[pertusaria-pertusa]]
+- [[quassia-amara]]

@@ -16,16 +16,7 @@ Seed starting is the process of germinating seeds in a controlled
 environment before transplanting them into the garden. Most gardeners
 begin indoor seed starting 6 to 8 weeks before their region's last
 expected frost date, though this varies by crop. Using proper techniques
-from [[seed-quality-and-selection-solomon]] guide can help you evaluate seed sources and choose varieties
-suited to your conditions.
-
-The core principle of indoor seed starting is providing seeds with the
-three things they need to germinate: consistent moisture, appropriate
-temperature, and the right light conditions once they emerge. Different
-seeds have different requirements — some need light to germinate while
-others require darkness, and optimal germination temperatures range from
-65°F for cool-season crops to 85°F or higher for heat-loving species.
-Understanding [[seasonal-gardening-calendar]] tailored to your growing zone is an
+from [[seasonal-gardening-calendar]] tailored to your growing zone is an
 invaluable planning tool for getting these dates right.
 
 Most warm-season crops like tomatoes, peppers, and eggplants need 6 to 8
@@ -33,19 +24,11 @@ weeks indoors before transplanting. Fast-growing crops like cucumbers,
 melons, and squash only need 3 to 4 weeks. Cool-season crops such as
 broccoli, cabbage, and kale can be started 4 to 6 weeks before the last
 frost, and many of them can also be direct-seeded outdoors as soon as the
-soil can be worked. Checking your [[seed-starting-indoors]] system with adjustable height lighting ensures
-seedlings get the intensity they need without stretching toward a distant
-window.
-
-Seed starting media should be lightweight, sterile, and well-draining.
-Commercial seed-starting mixes based on peat or coconut coir with perlite
-or vermiculite are the standard choice. Avoid using garden soil, which
-can harbor damping-off pathogens and is too heavy for delicate seedling
-roots. The principles in [[solomon-seed-starting-transplanting]]
+soil can be worked. Checking your [[solomon-seed-starting-transplanting]]
 technique during this phase dramatically improves survival rates.
 
 For gardeners who want to extend their season without indoor lighting
-equipment, [[season-extension-techniques]] like [[solomon-row-covers-and-season-extension]], low
+equipment, [[solomon-row-covers-and-season-extension]], low
 tunnels, and cloches can further push the boundaries of your growing
 season. These tools allow you to start seeds outdoors earlier in spring
 and protect them later into fall, reducing your reliance on indoor space
@@ -53,11 +36,8 @@ and equipment. Combined with strategic indoor seed starting, season
 extension can add weeks or even months to your productive growing period.
 
 The same fundamental seed-starting principles apply to cannabis
-cultivation. Understanding [[seasonal-gardening-calendar]]
-- Provide consistent moisture, bottom heat, and adequate light using the
-  setup guidelines in [[cold-frame-gardening]] and
-  [[query-how-to-germinate-cannabis-seeds]]
-- [[query-how-do-i-extend-my-growing-season-with-cold-frames-and-season-extension-techniques]]
+cultivation. Understanding [[cold-frame-gardening]] and
+  [[query-how-do-i-extend-my-growing-season-with-cold-frames-and-season-extension-techniques]]
 ## Practical Considerations
 
 When working with What Is Seed Starting and When Should I Start Seeds Indoors?, several practical factors should be

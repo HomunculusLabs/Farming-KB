@@ -21,7 +21,7 @@ sources:
 
 ## Overview
 
-Jack Herer is one of the most legendary and influential [[cannabis-microbiome-otu-abundance-vs-presence-cannabis-strains]] in modern history. Named after the renowned cannabis activist and author of *The Emperor Wears No Clothes*, this sativa-dominant hybrid has been a staple in dispensaries worldwide since its creation in the Netherlands in the 1990s. It is celebrated for its clear-headed, creative, and uplifting effects, as well as its complex [[cannabis-terpene-profile]] featuring prominent pine and spice notes.
+Jack Herer is one of the most legendary and influential [[cannabis-terpene-profile]] featuring prominent pine and spice notes.
 
 ## Lineage and Genetics
 
@@ -36,23 +36,7 @@ Jack Herer is one of the most legendary and influential [[cannabis-microbiome-ot
 
 Jack Herer is a three-way cross of prestigious genetics:
 
-1. **Haze:** A classic [[cannabis-sativa-landrace-strains]] cross (Mexican × Colombian × Thai × South Indian). Contributes the cerebral, uplifting effects and extended [[what-a-plant-knows-photoperiodism-flowering-time-measurement]]. Haze is one of the most important genetic pillars in [[oner-cannabis-breeding-fundamentals]] history.
-
-2. **[[cannabis-strain-mango-haze-northern-lights-skunk-haze]] #5:** An iconic pure indica originally from Afghanistan. Provides structural backbone, [[cannabis-glandular-trichome-types-resin-production-clarke]], and a grounding body element to balance Haze's racing cerebral effects. Northern Lights #5 is widely regarded as one of the most influential indicas ever bred.
-
-3. **Shiva Skunk:** A potent indica-dominant cross of Skunk #1 and Northern Lights. Adds additional resin coverage, pest resistance, and a pungent, earthy aroma that rounds out the terpene profile.
-
-This combination was revolutionary for its time — it captured the prized cerebral qualities of Haze while significantly reducing the notoriously long flowering time and low yield that made pure Haze difficult for commercial cultivation.
-
-## Cannabinoid Profile
-
-### THC Content
-
-- **Typical range:** 18–24% THC
-- **Peak tested:** Up to 30% THC in premium phenotype selections
-- **CBD content:** Typically < 0.1–0.3% CBD (not considered a high-CBD strain)
-
-The THC potency varies significantly depending on growing conditions, phenotype, [[cannabis-harvest-timing-visual-cues]], and testing methodology. Modern commercial selections tend to test higher than original Dutch versions.
+1. **Haze:** A classic [[what-a-plant-knows-photoperiodism-flowering-time-measurement]]. Haze is one of the most important genetic pillars in [[cannabis-strain-mango-haze-northern-lights-skunk-haze]] #5:** An iconic pure indica originally from Afghanistan. Provides structural backbone, [[cannabis-harvest-timing-visual-cues]], and testing methodology. Modern commercial selections tend to test higher than original Dutch versions.
 
 ### Minor Cannabinoids
 
@@ -88,3 +72,79 @@ The overall sensory experience is often described as "forest fresh" or "Christma
 ### Onset and Duration
 
 - **Onset:** Rapid, typically within 2–5 minutes when smoked or vaporized
+
+## Overview
+
+Jack Herer Cannabis Strain represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish jack herer cannabis strain
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving jack extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Jack Herer Cannabis Strain finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for jack herer cannabis strain. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+jack herer cannabis strain and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Jack Herer Cannabis Strain has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of jack herer cannabis strain into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.

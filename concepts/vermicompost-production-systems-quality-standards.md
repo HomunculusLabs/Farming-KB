@@ -11,7 +11,7 @@ aliases: [vermicomposting-guide, worm-bin-production, vermicast-production, comm
 
 ## Overview
 
-Vermicomposting is the mesophilic, aerobic process of using epigeic earthworms to transform organic waste into a stable, nutrient-rich soil amendment called vermicompost (also vermicast or worm castings). The process combines the digestive action of earthworms with the [[arbuscule-isolation-metabolic-activity-assays]] of the diverse [[cannabis-rhizosphere-microbial-communities]] in the worm gut and the surrounding substrate. Vermicompost differs from traditional thermophilic composting in temperature regime, processing time, microbial ecology, and the resulting product characteristics.
+[[vermicomposting]] is the mesophilic, aerobic process of using epigeic earthworms to transform organic waste into a stable, nutrient-rich soil amendment called vermicompost (also vermicast or worm castings). The process combines the digestive action of earthworms with the [[cannabis-rhizosphere-microbial-communities]] in the worm gut and the surrounding substrate. Vermicompost differs from traditional thermophilic composting in temperature regime, processing time, microbial ecology, and the resulting product characteristics.
 
 ## Earthworm Species for Vermicomposting
 
@@ -24,8 +24,7 @@ Only epigeic (surface-dwelling, litter-feeding) earthworms are suitable for verm
 - **Eudrilus eugeniae** (African nightcrawler): Larger tropical species with high processing rates. Optimal temperature: 25-30°C. Less cold-tolerant than Eisenia species. Prone to migration and escape in unsuitable conditions.
 
 ### Species Selection Considerations
-- [[fukuoka-natural-farming-temperate-climates]]: E. fetida or E. andrei (most cold-tolerant and widely adapted).
-- Tropical/[[query-how-to-grow-rare-tropical-fruits-in-marginal-and-subtropical-climates]]: P. excavatus or E. eugeniae (faster processing at higher temperatures).
+- [[query-how-to-grow-rare-tropical-fruits-in-marginal-and-subtropical-climates]]: P. excavatus or E. eugeniae (faster processing at higher temperatures).
 - Mixed species systems: E. fetida + P. excavatus can provide complementary temperature responses, with Eisenia dominating in cooler periods and Perionyx in warmer periods.
 
 ## Pre-Processing Feedstock

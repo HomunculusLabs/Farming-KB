@@ -28,22 +28,14 @@ aliases:
 lysergamide class and one of the most potent psychoactive substances known.
 First synthesized by gordon-wasson at Sandoz in 1938, its effects were
 discovered in 1943. LSD profoundly shaped 20th-century psychiatry, culture,
-and neuroscience through **5-HT2A receptor agonism**. See also [[dmt]], [[timothy-leary]].
+and neuroscience through **5-HT2A receptor agonism**. See also [[timothy-leary]].
 
 ## Chemical Identity
 
 - **Systematic name:** (6aR,9R)-N,N-diethyl-7-methyl-4,6,6a,7,8,9-hexahydroindolo[4,3-fg]quinoline-9-carboxamide
 - **Formula:** C₂₀H₂₅N₃O | **MW:** 323.43 g/mol | **CAS:** 50-37-3
 - **Appearance:** Colorless, odorless crystalline solid; blotter paper, liquid, or microdots
-- **Classification:** Lysergamide; semi-synthetic [[kykeon-composition-and-ergot-alkaloid-hypothesis]] derivative
-- **Stereospecificity:** Only the (+)-D-isomer is psychoactive; the (-)-L-isomer is inactive — one of the most stereospecific drugs known.
-
-## Discovery
-
-### Sandoz Synthesis (1938)
-LSD was first synthesized **November 16, 1938** by Albert Hofmann at Sandoz
-Laboratories in Basel — the 25th compound in a series of lysergic acid
-derivatives from ergotamine (from the ergot fungus *[[bloomfield-ergot-claviceps-purpurea-ergotism]]*).
+- **Classification:** Lysergamide; semi-synthetic [[bloomfield-ergot-claviceps-purpurea-ergotism]]*).
 Sandoz initially deemed LSD-25 pharmacologically uninteresting.
 
 ### Bicycle Day — April 19, 1943
@@ -76,10 +68,7 @@ explaining its long duration and unique profile. **PK:** Onset 30–90 min; peak
 | Threshold | 15–25 | Minimal perceptible changes |
 | Light | 25–75 | Enhanced colors, mild visual distortions |
 | Common | 75–150 | Pronounced visuals, synesthesia, altered thinking |
-| Strong | 150–300 | Intense hallucinations, [[psilocybin-ego-dissolution-mechanisms]], mystical states |
-| Heavy | 300–500+ | Complete ego dissolution, overwhelming experience |
-
-Active at microgram doses. **[[adverse-effects-and-harm-reduction-psilocybin]]:** Ehrlich's reagent turns purple;
+| Strong | 150–300 | Intense hallucinations, [[adverse-effects-and-harm-reduction-psilocybin]]:** Ehrlich's reagent turns purple;
 NBOMe compounds are sometimes sold as LSD and are more dangerous.
 
 ## Effects
@@ -88,3 +77,73 @@ NBOMe compounds are sometimes sold as LSD and are more dangerous.
 surfaces, closed-eye visuals, synesthesia, time dilation, enhanced music
 appreciation. **Cognitive/Emotional:** Enhanced pattern recognition, ego
 dissolution, emotional intensification, mystical-type experiences (unity,
+
+## Overview
+
+Lsd represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish lsd
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving lsd extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Lsd finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for lsd. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+lsd and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Lsd has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of lsd into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.

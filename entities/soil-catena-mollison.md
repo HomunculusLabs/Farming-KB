@@ -78,15 +78,8 @@ all influence the optimal approach to implementation.
 
 ## See Also
 
-- [[dighton-fungal-role-soil-aggregation]]
 - [[dighton-soil-fungal-biodiversity-assessment]]
-- [[fukuoka-ancient-soil-fertility-rock-weathering]]
 - [[query-what-is-the-role-of-springtails-and-soil-arthropods-in-soil-health]]
-- [[teaming-with-microbes-mites-and-soil-arthropod-predators]]
-
-## See Also
-
 - [[keyline-design]] - Water and soil management system based on landscape position
-- [[swale]] - Water harvesting earthwork placed along contour lines
 - [[soil-water-storage-mollison]] - Soil water and nutrient management
 - [[earth-dam-building-mollison]] - Dam siting based on soil and slope analysis

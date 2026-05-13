@@ -22,7 +22,7 @@ sources:
 
 Phoenix dactylifera, the date palm, is a tall, evergreen palm in the family Arecaceae cultivated for its sweet edible fruit. It is one of the oldest cultivated fruit trees, with archaeological evidence of cultivation spanning at least 7,000 years in the Middle East.
 
-Global date production exceeds 9 million tonnes annually, with Egypt, Saudi Arabia, Iran, and Algeria accounting for the majority of output. The fruit is a staple food in arid regions and holds profound cultural and religious significance across the Islamic world.
+Global date production exceeds 9 million tonnes annually, with Egypt, Saudi Arabia, Iran, and Algeria accounting for the majority of output. The fruit is a staple food [[fukuoka-natural-farming-in-arid-regions]] and holds profound cultural and religious significance across the Islamic world.
 
 Dates are among the most calorie-dense fruits, making them a critical energy source in desert environments where few other crops can survive. The fruit can be stored for extended periods without refrigeration, a property that historically made it essential for trade caravans and nomadic populations.
 
@@ -46,15 +46,11 @@ The palm thrives in hot, arid climates with summer temperatures exceeding 40°C 
 
 Commercial cultivation extends from North Africa and the Middle East through Central Asia to southern Pakistan and northwestern India. Smaller industries exist in the southwestern United States, Mexico, Australia, and South Africa.
 
-The palm performs best at elevations below 1,200 meters and requires bright, direct sunlight for optimal fruit production. [[cervantes-wind-protection-outdoor-cannabis]] is important during the early years of establishment, though mature palms are highly wind-resistant.
-
-## Cultivation
-
-Date palms are propagated primarily through offshoots that arise at the base of the trunk, which preserve the exact genetic characteristics of the mother plant. [[jeavons-seed-propagation-techniques]] is used only in breeding programs due to variable offspring quality.
+The palm performs best at elevations below 1,200 meters and requires bright, direct sunlight for optimal [[berry-fruit-production-cool-humid-climates]]. [[jeavons-seed-propagation-techniques]] is used only in breeding programs due to variable offspring quality.
 
 Palms require 4–8 years from planting to first harvest, with full commercial production reached at 10–15 years. Productive trees can bear fruit for 60–100 years under favorable conditions.
 
-Irrigation is essential throughout the [[savory-growing-season-and-non-growing-season-management]], with mature trees consuming 150–300 liters of water per day during the hottest months. [[comparison-drip-irrigation-vs-passive-irrigation]] has largely replaced traditional flood irrigation in modern commercial orchards.
+Irrigation is essential throughout the [[comparison-drip-irrigation-vs-passive-irrigation]] has largely replaced traditional [[fukuoka-textdoc-flood-irrigation-clover-suppression]] in modern commercial orchards.
 
 The most labor-intensive phase is pollination, which requires hand-transfer of male pollen to female inflorescences. Mechanical pollination using mixed pollen powder and air blowers has partially automated this process in large-scale operations.
 
@@ -70,9 +66,9 @@ Fresh dates provide approximately 282 kcal per 100 g, primarily from carbohydrat
 
 Key micronutrients include potassium (696 mg per 100 g), magnesium (54 mg), and vitamin B6 (0.249 mg). Dates are notably rich in dietary fiber (8 g per 100 g), with both soluble and insoluble fractions.
 
-Phenolic compounds in dates include phenolic acids (gallic, protocatechuic, caffeic, and ferulic acids), flavonoids (luteolin, quercetin, and apigenin derivatives), and anthocyanins in red-fleshed varieties. These compounds contribute significant antioxidant capacity.
+[[aact-tannins-terpenes-phenolic-compounds-wood-composting-ingham]] in dates include phenolic acids (gallic, protocatechuic, caffeic, and ferulic acids), flavonoids (luteolin, quercetin, and apigenin derivatives), and anthocyanins in red-fleshed varieties. These compounds contribute significant antioxidant capacity.
 
-Selenium content in dates is relatively high among fruits, supporting thyroid function and antioxidant defense. The fruit also contains measurable amounts of boron, copper, manganese, and zinc.
+Selenium content in dates is relatively high among fruits, supporting thyroid function [[blesching-cannabis-oxidative-stress-and-antioxidant-defense]]. The fruit also contains measurable amounts of boron, copper, manganese, and zinc.
 
 Recent clinical studies have investigated dates for potential health benefits including improved labor outcomes when consumed during late pregnancy, blood sugar regulation due to their low glycemic impact, and prebiotic effects supporting gut microbiome health.
 
@@ -82,8 +78,4 @@ Date palm cultivation originated in Mesopotamia around 4000 BCE, making it among
 
 The palm is mentioned over 20 times in the Quran, where it is described as a symbol of God's bounty. Breaking the Ramadan fast with dates follows the prophetic tradition of the Prophet Muhammad.
 
-In ancient Egyptian religion, the date palm represented the god Huh, one of the four primordial deities. Palm fronds were used in religious ceremonies and as a symbol of triumph in Roman and [[allegro-dead-sea-scrolls-and-early-christian-sects]] traditions.
-
-The palm is the national tree of Saudi Arabia and Iraq, and its silhouette appears on currency, flags, and official seals across the region. Phoenix dactylifera wood and leaf fossils have been found dating back 50 million years, indicating the genus is far older than human cultivation.
-
-Traditional oasis agriculture centers on date palms, which provide shade, [[natural-building-materials-guide]], and food while creating microclimates that support understory crops such as wheat, alfalfa, and citrus beneath the canopy.
+In ancient Egyptian religion, the date palm represented the god Huh, one of the four primordial deities. Palm fronds were used in [[entheogenic-folk-religious-ceremonies]] and as a symbol of triumph in Roman and [[natural-building-materials-guide]], and food while creating microclimates that support understory crops such as wheat, alfalfa, and citrus beneath the canopy.

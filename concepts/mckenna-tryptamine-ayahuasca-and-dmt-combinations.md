@@ -10,27 +10,21 @@ tags: [ayahuasca, dmt, tryptamine]
 
 # Ayahuasca and DMT Combinations
 
-McKenna introduces ayahuasca in "[[mckenna-tryptamine-hallucinogens-and-consciousness]] and Consciousness" (Esalen lecture, December 1983; published in The [[mckenna-archaic-revival-four-part-structure-paradise-paradise-lost-hell-regained]], 1992) as one of three key tryptophan-derived hallucinogens, alongside smoked DMT and psilocybin. He defines it with precise pharmacological language as "a combination of dimethyltryptamine and a monoamine oxidase inhibitor that is taken orally." This description identifies ayahuasca as the aboriginal technological solution to DMT's otherwise oral inactivity -- a pharmacological innovation achieved through millennia of indigenous empirical investigation.
+McKenna introduces ayahuasca in "[[mckenna-archaic-revival-four-part-structure-paradise-paradise-lost-hell-regained]], 1992) as one of three key tryptophan-derived hallucinogens, alongside smoked DMT and psilocybin. He defines it with precise pharmacological language as "a combination of dimethyltryptamine and a monoamine oxidase inhibitor that is taken orally." This description identifies ayahuasca as the aboriginal technological solution to DMT's otherwise oral inactivity -- a pharmacological innovation achieved through millennia of indigenous empirical investigation.
 
 ## Pharmacological Innovation
 
-DMT is not orally active on its own because monoamine oxidase (MAO) enzymes in the gut rapidly break it down before it can reach the bloodstream. The addition of a monoamine oxidase inhibitor (typically from Banisteriopsis caapi vine) to the DMT-containing plant (typically Psychotria viridis or Diplopterys cabrerana) creates a bioavailable oral preparation. McKenna calls this "a hybrid drug that is in aboriginal use in the rain forests of South America."
+DMT is not orally active on its own because monoamine oxidase (MAO) enzymes in the gut rapidly break it down before it can reach the bloodstream. The addition of a monoamine oxidase inhibitor (typically from [[banisteriopsis-caapi]] vine) to the DMT-containing plant (typically Psychotria viridis or Diplopterys cabrerana) creates a bioavailable oral preparation. McKenna calls this "a hybrid drug that is in aboriginal use in the rain forests of South America."
 
 This pharmacological insight represents what McKenna characterizes throughout the essay as indigenous empirical knowledge accumulated over millennia. The discovery that specific vine preparations can render DMT orally active is presented as evidence of the sophistication of shamanic plant chemistry. McKenna's broader argument is that indigenous peoples arrived at this combination through careful empirical observation -- what he calls shamanism as "primarily techniques, not ritual" -- rather than through theoretical speculation.
 
-The [[harner-amazonian-ayahuasca-preparation-methods]] demonstrates the principle that underlies McKenna's entire epistemological argument: that direct experiential investigation, conducted systematically over generations, can produce pharmacological knowledge rivaling or exceeding that of modern laboratory science. The indigenous discovery that [[turner-harmala-alkaloids-preparation-and-dosage]] inhibit MAO, allowing DMT to reach the brain when taken orally, is a finding of extraordinary sophistication that was achieved without any of the tools of modern biochemistry.
+The [[turner-harmala-alkaloids-preparation-and-dosage]] inhibit MAO, allowing DMT to reach the brain when taken orally, is a finding of extraordinary sophistication that was achieved without any of the tools of modern biochemistry.
 
 ## Amazonian Shamanic Context
 
 McKenna provides a direct narrative of encountering ayahuasca practice in the Amazon. When he asked informants to demonstrate their shamanic abilities, they responded with characteristic directness: "Let's take our machetes and hike out here half a mile and get some vine and boil it up and we will show you what we can show you." This deceptively simple statement encapsulates McKenna's empiricist philosophy: "What it comes down to for me is 'What can you show me?'"
 
-He notes that DMT has been used in the Amazon "for millennia, but by cultures quite primitive -- usually nomadic hunter-gatherers." This context is significant for McKenna's argument because it establishes the antiquity and cross-cultural accessibility of tryptamine experiences. The Amazonian DMT tradition represents the oldest continuous tryptamine practice he identifies, predating the [[gartz-wasson-mexican-mushroom-cult-rediscovery]] cults that were destroyed by Spanish conquest.
-
-McKenna describes the Amazonian societies in unromantic terms: "People die in these societies that I'm talking about all the time and for all kinds of reasons. Death is really much more among them than it is in our society." This blunt acknowledgment grounds his discussion in material reality and prevents the romanticization that often accompanies Western accounts of indigenous plant medicine.
-
-## Ayahuasca Within the Tryptamine Family
-
-McKenna groups ayahuasca with smoked DMT and [[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]] as substances that share what he calls the "tryptamine hypercontinuum" -- a shared phenomenological space characterized by:
+He notes that DMT has been used in the Amazon "for millennia, but by cultures quite primitive -- usually nomadic hunter-gatherers." This context is significant for McKenna's argument because it establishes the antiquity and cross-cultural accessibility of tryptamine experiences. The Amazonian DMT tradition represents the oldest continuous tryptamine practice he identifies, predating the [[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]] as substances that share what he calls the "tryptamine hypercontinuum" -- a shared phenomenological space characterized by:
 
 - Confrontation with what appears to be alien intelligence
 - Translinguistic information complexes that cannot be translated into ordinary language

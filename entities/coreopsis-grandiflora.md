@@ -21,11 +21,7 @@ sources:
 
 **Coreopsis grandiflora** (large-flowered tickseed, Atlantic coreopsis) is a clump-forming perennial herb in the family Asteraceae.
 
-It is native to central and [[polypore-fungi-eastern-north-america]] America and is among the most widely cultivated Coreopsis species in horticulture.
-
-The species produces abundant bright golden-yellow flower heads with notched ray florets throughout the summer months.
-
-Its long bloom period, [[dighton-fungal-drought-tolerance-plant-water-relations]], and ease of cultivation have made it a standard component of perennial borders and meadow plantings.
+It is native to central and [[dighton-fungal-drought-tolerance-plant-water-relations]], and ease of cultivation have made it a standard component of perennial borders and meadow plantings.
 
 ## Taxonomy and Morphology
 
@@ -51,15 +47,7 @@ Achenes are flat, dark brown, winged, and approximately 3–4 mm long.
 
 The native range extends from Ontario and Minnesota south to Missouri, Arkansas, and Georgia.
 
-It is most common in prairies, open woodlands, glades, and roadsides of the central [[dmt-containing-plants-united-states-halpern]].
-
-Populations are concentrated in the Ozark region, the tallgrass prairie, and the Ohio River Valley.
-
-The species prefers well-drained soils in full sun but tolerates partial shade and poor, rocky substrates.
-
-It is hardy in USDA zones 4–9 and shows good heat tolerance in southern regions.
-
-Naturalized occurrences have been recorded in parts of Europe and northeastern [[guzman-psilocybin-mushrooms-north-america]] beyond its historical range.
+It is most common in prairies, open woodlands, glades, and roadsides of the central [[guzman-psilocybin-mushrooms-north-america]] beyond its historical range.
 
 ## Cultivation
 
@@ -85,6 +73,78 @@ Its compact form and reliable bloom make it suitable for borders, containers, ma
 
 ## Ecological Role
 
-The flowers provide nectar and pollen for a wide range of pollinators, including [[query-how-to-attract-native-bees-and-beneficial-insects]], [[comparison-honey-bees-vs-native-solitary-bees]], butterflies, and syrphid flies.
+The flowers provide nectar and pollen for a wide range of pollinators, including [[comparison-honey-bees-vs-native-solitary-bees]], butterflies, and syrphid flies.
 
 Long-tongued bees such as bumble bees (*Bombus* spp.) are especially effective pollinators of Coreopsis species.
+
+## Overview
+
+Coreopsis Grandiflora represents an important element within sustainable
+design and [[solomon-gardening-aikido-pest-philosophy-ecological-management]] systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish coreopsis grandiflora
+from related concepts in permaculture and [[gaias-garden-ecological-design-process-checklist]].
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving coreopsis extend
+across multiple [[ingham-soil-foodweb-trophic-levels-protozoa-nematodes]] and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Coreopsis Grandiflora finds practical application in multiple design contexts.
+[[permaculture-principles]] guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive [[livestock-grassland-management-strategies]] that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for coreopsis grandiflora. [[jeavons-climate-adaptation-growing-seasons]]
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+coreopsis grandiflora and its applications. Active investigation
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Coreopsis Grandiflora has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of coreopsis grandiflora into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions

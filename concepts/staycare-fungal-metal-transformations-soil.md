@@ -10,15 +10,14 @@ sources:
 
 # Fungal Metal Transformations in Soil
 
-Fungi are fundamental decomposer organisms and plant symbionts ([[aspergillus-niger-in-fungal-bioleaching]] can solubilize pyromorphite (Pb5(PO4)3Cl), a stable lead mineral, forming biogenic lead oxalate dihydrate -- first observed in [[singh-fungal-transformation-metals-metalloids]] of pyromorphite
+Fungi are fundamental decomposer organisms and plant symbionts ([[singh-fungal-transformation-metals-metalloids]] of pyromorphite
 - Fungi can translocate caesium, zinc, and cadmium, concentrating metals in mycelium and fruiting bodies
 - The fungal soil component can immobilize total Chernobyl radiocaesium fallout in upland grasslands, though grazing animals may transfer radiocaesium through the food chain
 
 ## Metal Immobilization
 
 ### Physicochemical Mechanisms (Biosorption)
-[[gadd-fungal-cell-structure]] walls contain chitin, chitosan, glucans, polysaccharides, proteins, lipids, and melanin, providing many functional groups (amino, carboxyl, phosphate, sulfhydryl) for [[chelation-and-metal-binding-in-plants]]. See also [[mucormycosis-zygomycete-infections]], [[heavy-metal-biosorption]]
-- [[mycorrhiza]]
+[[chelation-and-metal-binding-in-plants]]. See also [[heavy-metal-biosorption]]
 - [[mycoremediation]]
 ## Practical Applications
 

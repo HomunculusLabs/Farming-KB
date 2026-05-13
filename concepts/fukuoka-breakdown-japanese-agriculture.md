@@ -53,9 +53,7 @@ In losing this knowledge, farmers lost not just a skill set but an entire way of
 
 No country has experienced such a sudden and dramatic transformation as Japan following World War II. The country rose rapidly from the ruins of war to become a major economic power. As this was going on, its farming and fishing populations -- the seedbed of the Japanese people -- fell from fifty percent of the overall population at the end of the war to less than twenty percent today.
 
-The first step was the arrival of the motorized transport-tiller in the farming village, a major turning point in Japanese agriculture. With this wave of change from labor-intensive to capital-intensive farming came the replacement of the horse-drawn plow with tillers, and later, tractors. Methods of pesticide and [[cervantes-fertilizer-application-strain-feeding]] underwent major revisions, with motorized hand sprayers being abandoned in favor of helicopter spraying.
-
-The rapid mechanization of agriculture lit the fires for the revival and precipitous growth of the machine industry, while the adoption of pesticides, [[cervantes-chemical-fertilizers-guide]], and petroleum-based farming materials laid the foundation for development of the chemical industry.
+The first step was the arrival of the motorized transport-tiller in the farming village, a major turning point in Japanese agriculture. With this wave of change from labor-intensive to capital-intensive farming came the replacement of the horse-drawn plow with tillers, and later, tractors. Methods of pesticide and [[cervantes-chemical-fertilizers-guide]], and petroleum-based farming materials laid the foundation for development of the chemical industry.
 
 The transformation was not merely technological but economic and psychological. Farmers who had once been self-sufficient producers became consumers of manufactured inputs -- seeds, fertilizers, pesticides, machinery, and fuel.
 
@@ -65,23 +63,13 @@ Each purchase bound them more tightly to the industrial economy and further from
 
 The farmer may have thought at first that modern developments would make his job easier. Well, it freed him from the land and now he works harder than ever at other jobs, wearing away his body and mind. The chain saw was developed because someone decided that a tree had to be cut faster. Rather than making things easier for the farmer, the mechanized transplantation of rice has sent him running off to find other work.
 
-This paradox is at the heart of Fukuoka's critique: every labor-saving device in agriculture has, in practice, increased total labor while degrading the quality of both the work and its products. See [[natural-farming-vs-organic-farming]] for how even organic agriculture can fall into similar traps.
-
-## The Ecological Cost
-
-Beyond the economic and cultural losses, the breakdown of Japanese agriculture has carried enormous ecological consequences. Soil that was maintained for generations through careful management of [[hamilton-composting-and-organic-matter-management]] has been compacted, chemically degraded, and stripped of its biological diversity.
+This paradox is at the heart of Fukuoka's critique: every labor-saving device in agriculture has, in practice, increased total labor while degrading the quality of both the work and its products. See [[hamilton-composting-and-organic-matter-management]] has been compacted, chemically degraded, and stripped of its biological diversity.
 
 Rivers that once ran clear from mountain forests now carry sediment and agricultural runoff. The insect populations that once pollinated crops and controlled pests naturally have been decimated by broad-spectrum pesticides.
 
 Fukuoka saw these changes not as inevitable progress but as a preventable tragedy -- the result of abandoning a way of working with nature that had sustained Japanese civilization for over a thousand years.
 
-The recovery of [[ozier-pdc-composting-and-soil-building]] methods represent partial steps back toward the wholeness that was lost, but Fukuoka would argue that the deeper recovery must be philosophical and spiritual, not merely technical.
-
-The true cost of modern agriculture cannot be measured in yen per kilogram of rice. It must be measured in the loss of soil depth, the extinction of local varieties, the contamination of groundwater, and the severing of the bond between people and the land that feeds them.
-
-This severing is perhaps the most profound and least appreciated consequence of agricultural modernization. When people no longer know the land that feeds them -- when food arrives from anonymous sources through anonymous supply chains -- something essential is lost from human experience. The recovery of that connection is not merely an agricultural project but a cultural and spiritual one.
-
-Fukuoka's vision of [[fukuoka-japan-postwar-agriculture]] | [[fukuoka-natural-farming-philosophy]] | [[natural-farming-philosophy]]
+The recovery of [[fukuoka-japan-postwar-agriculture]] | [[natural-farming-philosophy]]
 
 ## Key Points
 
@@ -118,8 +106,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[masanobu-fukuoka]]
 - [[doc]]
-- [[dom]]
 - [[composting]]
 - [[fukuoka-japanese-agriculture-breakdown-policy-critique]]

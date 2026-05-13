@@ -8,29 +8,17 @@ sources: [/Users/t3rpz/wiki/raw/papers/harner-j-hallucinogens-and-shamanism.md]
 ---
 # Hallucinogens and Shamanism — Harner Anthology
 
-The 1973 Oxford University Press anthology edited by Michael J. Harner, which brought together groundbreaking ethnographic research on the role of psychoactive plants in [[shamanic-use-of-psychedelics]], hallucinogens and hallucinogens and shamanism harner anthology anthology, hallucinogens in [[harner-european-witchcraft-hallucinogens]], common themes in [[chiric-caspi-brunfelsia-south-american-hallucinogen]] yagé experiences
-
-## Related
-
-- [[amazonian-plant-teachers-doctores]] is central to Amazonian vegetalismo traditions, where different plants are understood to teach different things: some teach healing, others teach singing, and still others teach about the [[fukuoka-pine-forest-ecosystem-collapse-cascade-matsutake]] or the spirit world. The [[psychedelic-therapy-mechanisms]] and shamanic [[shamanic-entheogenic-healing-rituals]] share the use of psychoactive substances and the centrality of an experienced guide, the underlying paradigms differ profoundly. Related: [[psychedelic-therapy-shamanism-comparison]], [[psychedelic-terminology-hallucinogenic-entheogenic]]
-## Merged: Jivaro Shamanism and Natem Ayahuasca
-The shamanic system of the Jivaro (Shuar, Achuar, Huambisa, and Aguaruna) peoples of the Ecuadorian and Peruvian Amazon, centering on the use of natem — their name for the [[shamanic-use-of-psychedelics]], [[ayahuasca-vision-art-and-shipibo-tradition]] [[ayahuasca-preparation-and-ceremony]] [[campa-ayahuasca-ceremony]] hallucinogens and shamanism harner anthology hallucinogens and shamanism harner anthology [[beta-carboline-chemistry]] [[beta-carboline-chemistry]] [[mckenna-food-of-the-gods-thesis]] The tobacco of the Classical Maya and Amazonian peoples was Nicotiana rustica, which is still in use among aboriginal populations in South America today.
+The 1973 Oxford University Press anthology edited by Michael J. Harner, which brought together groundbreaking ethnographic research on the role of psychoactive plants in [[harner-european-witchcraft-hallucinogens]], common themes in [[amazonian-plant-teachers-doctores]] is central to Amazonian vegetalismo traditions, where different plants are understood to teach different things: some teach healing, others teach singing, and still others teach about the [[psychedelic-therapy-mechanisms]] and shamanic [[psychedelic-therapy-shamanism-comparison]], [[shamanic-use-of-psychedelics]], [[ayahuasca-preparation-and-ceremony]] [[beta-carboline-chemistry]] [[mckenna-food-of-the-gods-thesis]] The tobacco of the Classical Maya and Amazonian peoples was Nicotiana rustica, which is still in use among aboriginal populations in South America today.
 ## Merged: Amazonian Medicinal Plant Pharmacology
-The pharmacology of Amazonian medicinal plants represents one of the most complex and sophisticated areas of ethnopharmacology. The Amazon Basin's extraordinary biodiversity has given rise to a vast pharmacopoeia developed by indigenous peoples over thousands of years, much of which is only now being investigated by modern science. [[beta-carboline-chemistry]] [[5-meo-dmt-compound-profile]] [[cashinahua-banisteriopsis-use]] hallucinogens and shamanism harner anthology hallucinogens and shamanism harner anthology [[mao-inhibitors-and-psychedelics]] - hallucinogens and shamanism harner anthology The active compounds range from well-characterized alkaloids to complex mixtures whose synergistic effects remain poorly understood.
+The pharmacology of Amazonian medicinal plants represents one of the most complex and sophisticated areas of ethnopharmacology. The Amazon Basin's extraordinary biodiversity has given rise to a vast pharmacopoeia developed by indigenous peoples over thousands of years, much of which is only now being investigated by modern science. [[5-meo-dmt-compound-profile]] [[mao-inhibitors-and-psychedelics]] - hallucinogens and shamanism harner anthology The active compounds range from well-characterized alkaloids to complex mixtures whose synergistic effects remain poorly understood.
 ## Merged: Amazonian Ethnobotany
-Amazonian ethnobotany encompasses the vast body of traditional plant knowledge developed by indigenous peoples of the Amazon Basin over millennia. This knowledge system integrates medicinal, ritual, dietary, and material uses of plants into a coherent worldview in which the boundary between the natural and supernatural is porous, and plants are understood as active participants in human affairs. [[beta-carboline-chemistry]] [[campa-ayahuasca-ceremony]] [[amazonian-medicinal-plants-reference]] [[5-meo-dmt-compound-profile]] - hallucinogens and shamanism harner anthology The Amazon Basin is home to an estimated 80,000 plant species, of which only a fraction have been scientifically studied.
+Amazonian ethnobotany encompasses the vast body of traditional plant knowledge developed by indigenous peoples of the Amazon Basin over millennia. This knowledge system integrates medicinal, ritual, dietary, and material uses of plants into a coherent worldview in which the boundary between the natural and supernatural is porous, and plants are understood as active participants in human affairs. [[campa-ayahuasca-ceremony]] [[5-meo-dmt-compound-profile]] - hallucinogens and shamanism harner anthology The Amazon Basin is home to an estimated 80,000 plant species, of which only a fraction have been scientifically studied.
 ## Merged: Michael Harner
-American anthropologist (1929-2018), founder of the Foundation for Shamanic Studies, and editor of the seminal anthology "Hallucinogens and Shamanism" (1973). Michael Harner was an anthropologist who conducted fieldwork among the Jivaro (Shuar) people of the Ecuadorian Amazon and later became one of the most influential figures in the modern neo-shamanic movement. Harner's work forced a serious academic reckoning with the centrality of psychoactive plants in shamanic practice worldwide, and his anthology became a foundational text for the emerging field of [[amazonian-plant-teachers-doctores]] tradition. - gordon-wasson-mushroom-discovery — Wasson's [[gartz-wasson-mexican-mushroom-cult-rediscovery]] discoveries that complement Harner's Amazonian work - [[entheogen-culture]] — Broader context of psychoactive substances in spiritual practice - [[amazonian-plant-teachers-doctores]] — Amazonian teacher plant traditions
+American anthropologist (1929-2018), founder of the Foundation for Shamanic Studies, and editor of the seminal anthology "Hallucinogens and Shamanism" (1973). Michael Harner was an anthropologist who conducted fieldwork among the Jivaro (Shuar) people of the Ecuadorian Amazon and later became one of the most influential figures in the modern neo-shamanic movement. Harner's work forced a serious academic reckoning with the centrality of psychoactive plants in shamanic practice worldwide, and his anthology became a foundational text for the emerging field of [[gartz-wasson-mexican-mushroom-cult-rediscovery]] discoveries that complement Harner's Amazonian work - [[amazonian-plant-teachers-doctores]] — Amazonian teacher plant traditions
 
 ## See Also
 
-- [[harner-sharanahua-visions-and-cures]]
-
 - [[harner-ayahuasca-shamanism-amazon]]
-- [[harner-hallucinogens-european-witchcraft]]
-
-- ethnomycology
-- ethnomycology
 - [[harner-shamanic-journey-and-altered-states]]
 - ethnomycology
 ## Practical Applications
@@ -97,8 +85,6 @@ through generations to modern scientific approaches, the evolution continues
 to inform current best practices and research directions.
 
 ## See Also
-- [[michael-harner]]
 - [[shamanism]]
-- [[ayahuasca]]
 - [[doc]]
 - [[det]]

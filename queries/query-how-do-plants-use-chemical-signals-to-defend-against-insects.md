@@ -21,37 +21,7 @@ Plants produce **volatile organic compounds (VOCs)** — airborne chemicals rele
 
 ## What Are Plant Volatile Organic Compounds?
 
-Plant VOCs are small, airborne molecules that evaporate easily at ambient temperatures. Plants emit over 1,700 known [[query-how-do-fungal-volatile-compounds-affect-plant-growth-and-other-microorganisms]], which fall into several chemical families:
-
-- **Terpenoids** (monoterpenes, sesquiterpenes): Pinene, limonene, linalool, β-caryophyllene — give pine, citrus, and many herbs their characteristic scents.
-- **Green leaf volatiles (GLVs):** Hexenal, hexenol, hexenyl acetate — the "cut grass" smell released instantly when leaf tissue is damaged.
-- **Phenylpropanoids and benzenoids:** Methyl salicylate (wintergreen scent), eugenol (clove), benzaldehyde (almond) — involved in defense signaling.
-- **Amino acid derivatives:** Indole — released during herbivore attack and synergizes with terpenoids.
-- **Sulfur compounds:** Isothiocyanates (mustard/cabbage family), allicin (garlic) — potent antimicrobial and anti-herbivore agents.
-
-These compounds are not waste products — they are intentionally produced signals with specific ecological functions.
-
-## How Does a Plant Detect It's Being Eaten?
-
-A critical distinction separates herbivore damage from mechanical injury (like wind or hail). Plants detect herbivores through **elicitors** in insect saliva:
-
-1. **Fatty acid-amino acid conjugates (FACs):** The best-studied elicitors. When a caterpillar chews a leaf, its saliva introduces FACs like **volicitin** into the wound. The plant perceives these as a "this is a living herbivore, not random damage" alarm signal.
-2. **Enzymes:** β-glucosidase and other enzymes in insect oral secretions trigger plant defense responses.
-3. **Inceptins:** Protein fragments from plant ATP synthase that have been partially digested by caterpillar gut enzymes — essentially the plant detecting that its own proteins are being processed by an insect digestive system.
-
-Once detected, a rapid signaling cascade is triggered:
-- Calcium ions flood into cells → MAP kinase enzymes activate → **jasmonic acid** (JA) hormone production surges → defense genes switch on → volatile biosynthesis ramps up within 2–6 hours.
-
-## What Are the Three Defense Strategies?
-
-### Strategy 1: Direct Defense (Toxins and Repellents)
-
-Some VOCs directly harm or repel the herbivore:
-
-- **(E)-2-hexenal** (a green leaf volatile) is toxic to fungal spores and some insect larvae.
-- **Monoterpenes** like pinene and limonene in conifer resin can trap and poison bark beetles.
-- **Nicotine** is a volatile neurotoxin that deters feeding by many insects.
-- **Isothiocyanates** in mustard family plants are pungent compounds that repel most herbivores and have [[mycelium-running-mushroom-antimicrobial-properties-species-chart]].
+Plant VOCs are small, airborne molecules that evaporate easily at ambient temperatures. Plants emit over 1,700 known [[mycelium-running-mushroom-antimicrobial-properties-species-chart]].
 
 These are constitutive (always present at baseline levels) but are dramatically upregulated upon attack.
 
@@ -114,17 +84,7 @@ Synthetic copies of insect sex pheromones can be deployed to disrupt mating:
 
 Emerging technology allows growers to use volatile compounds to prime crop defenses:
 
-- **Methyl jasmonate sprays** can prime tomatoes, grapes, and other crops for enhanced resistance against [[query-how-to-manage-pests-and-diseases-in-mushroom-cultivation]].
-- **β-caryophyllene soil drenches** have shown promise for priming maize root defenses.
-- **Plant "vaccine" concept:** Treating seeds or seedlings with defense-triggering volatiles before transplanting can provide weeks of enhanced resistance.
-
-## Does This Replace Conventional Pest Control?
-
-Not entirely, but it's a powerful component of **integrated pest management (IPM)**:
-
-- VOC-based strategies work **best preventively** — they prime defenses and maintain predator populations before pest outbreaks occur.
-- For **severe infestations**, they may need to be combined with selective insecticides (spinosad, Bt, neem) or targeted biological control releases.
-- The most effective programs **combine all three levels**: VOC-mediated defense priming, pheromone-based mating disruption, and biological control with [[coleman-beneficial-insects-and-ecological-pest-control]].
+- **Methyl jasmonate sprays** can prime tomatoes, grapes, and other crops for enhanced resistance against [[coleman-beneficial-insects-and-ecological-pest-control]].
 
 ## Key Facts to Remember
 
@@ -140,8 +100,6 @@ Not entirely, but it's a powerful component of **integrated pest management (IPM
 | Volatile with dual above/below-ground role | β-Caryophyllene (attracts nematodes to roots) |
 ## See Also
 
-- [[query-how-do-plants-defend-themselves-chemically]]
-
 - [[plant-olfaction-chemical-sensing]] — comprehensive topic page on VOCs
-- [[plant-cellulose-and-carbohydrate-chemistry]] — broader plant [[plant-defense-mechanisms]]
+- [[plant-defense-mechanisms]]
 - [[hamilton-beneficial-insects-and-biological-pest-control]] — another indirect defense pathway

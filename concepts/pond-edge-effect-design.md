@@ -1,0 +1,83 @@
+---
+title: Pond Edge Effect Design
+source: bill-mollison-permaculture-a-designers-manual.md
+type: concept
+---
+
+# Pond Edge Effect Design
+
+Pond shape has a profound influence on productivity in aquaculture systems. The principle of [[edge-effect]]—the increased biological activity and habitat diversity that occurs at boundaries between ecosystems—is central to [[permaculture]] pond design. By maximizing the ratio of shoreline to surface area, designers can dramatically increase the natural food available to fish and other aquatic organisms.
+
+## Shape and Productivity
+
+When comparing ponds of equal area and volume, the differences in productivity are striking. Mollison illustrates this with three pond configurations:
+
+- **Pond A (circular)**: Minimal edge for its area, relatively self-contained and inflexible
+- **Pond B (rectangular)**: Easily partitioned, intermediate edge ratio
+- **Pond C (long and narrow)**: Maximizes edge, easily compartmentalized, and extremely flexible
+
+Pond C can provide up to **5 times** the natural food of a circular pond A, and **2.6 times** that of rectangular pond B. The vegetation growing around the pond edge provides food, shelter, and habitat for organisms that feed omnivorous fish. When pondside vegetation extends 0.5 m over the water, it affects only 25 m² of a circular pond but spans the entire width of a narrow pond—benefiting the fish by a factor of 3 or more.
+
+## Partitioning for Polyculture
+
+Narrow ponds are far easier to partition using simple 1 m² sieves or screens. In a circular pond, a single partition yields only 1 m of bank in the new enclosure. In contrast, rectangular and linear ponds can accommodate multiple partitions, each creating distinct habitats for different species and life stages. Partitions serve several purposes:
+
+- Separating year classes of fish
+- Isolating predatory species from forage species
+- Creating anaerobic zones for specific food cultures
+- Managing water quality gradients
+
+## Integrated Edge Plantings
+
+The most productive pond designs integrate edge plantings with aquatic systems. Mollison describes a 2-hectare field with a 1-hectare pond where:
+
+- **Tamarack** grows near the water, providing acid mulch
+- **Blueberries** thrive between tamaracks and pond edge, arching over the water 1–2 m from the edge
+- **Grape hybrids** climb through the conifers above the blueberries
+- **Rainbow trout** feed at the lake edge on fallen blueberries (knocked down by birds) and insects attracted to the plants
+- **Blackbird manure** from birds visiting the blueberries stimulates phytoplankton blooms appreciated by trout
+
+This multi-strata design around the pond margin creates multiple food chains converging on the fish, dramatically increasing yields without external feed inputs.
+
+## Circular vs. Linear Ponds
+
+Circular ponds are most appropriate for **intensive fish rearing** with pumped water flow. Jets set at an angle both aerate and induce current. These tanks typically have central drainage systems to facilitate harvest. Heat-welded or rivet-silicone tanks of clear plastic or fibreglass offer multiple advantages: dense algal food production, heat storage, fish rearing, and eventual hydroponic or terrestrial nutrient sourcing for plants.
+
+However, in earth-constructed ponds, the circular configuration offers the **least edge for area**—the opposite of what is desirable for extensive, low-input systems. Most existing earth ponds are rectangular (to aid netting for harvest) and are typically built without shallows or bays for forage, often lacking drainage. In these simplified or factory systems, pumping, food supply, and water quality maintenance become the major production costs.
+
+Linear ponds fit easily on slopes, can be stepped and stacked as troughs, and are simpler to build on steepening terrain. While they may lose more water on leaky sites than circular ponds, this is not a factor on well-sealed clay sites, and sealing with plastic liners is straightforward. Shaded narrow ponds actually lose less water to evaporation.
+
+## Complex Single-Pond Designs
+
+Rather than building separate ponds, a single pond can be subdivided using screens, gravel beds, or boulder mounds to create multiple micro-environments. This approach offers:
+
+- **16+ possible environments** in a single water body
+- Acid and alkaline zones for different species
+- Graded gravel or boulder screens that serve as complex edges and refuges
+- One-way screens enabling trophic cascade systems (minnows → sunfish → bass)
+
+The boulders themselves become habitat for aquatic invertebrates. Pond margins can be planted with weedy, woody, mown, or flowering plants, each contributing different life forms that fall or grow into the water. Insects can be attracted using light, colour, scent, or sound to increase the food available to fish.
+
+## Key Design Principles
+
+1. **Maximize edge-to-area ratio** for extensive systems; use circular tanks only for intensive flow-through rearing
+2. **Integrate multi-strata plantings** around pond margins to create self-feeding food chains
+3. **Partition ponds** to separate species, life stages, and water quality zones
+4. **Use linear configurations** on slopes for ease of construction and stacking
+5. **Create complex internal habitats** with screens, boulders, and depth variation within single ponds
+6. **Design before digging**—the yield persists for years, while excavation is a single event
+## See Also
+- [[bill-mollison-permaculture-a-designers-manual-edge-effect-and-ecotone-design]]
+
+## Design Parameters
+Proper pond design requires careful assessment of site conditions
+including topography, soil type, water availability, and local climate.
+Edge effects maximize biological productivity through diverse microclimates.
+
+## Construction Considerations
+Key factors include soil compaction, sealing methods, overflow design,
+and integration with broader [[water-management]] strategies.
+
+## Ecological Benefits
+Well-designed ponds support diverse aquatic and terrestrial ecosystems,
+provide habitat for beneficial organisms, and enhance site productivity.

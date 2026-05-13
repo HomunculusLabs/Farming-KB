@@ -1,7 +1,7 @@
 ---
 title: Solomon Complete Organic Fertilizer Cof Recipe
 source: gardening-when-it-counts-steve-solomon.md
-source_author: [[steve-solomon]]
+source_author: steve-solomon
 tags: [fertilizer, organic, COF, complete-fertilizer, soil-fertility, steve-solomon, gardening]
 ---
 
@@ -10,15 +10,11 @@ tags: [fertilizer, organic, COF, complete-fertilizer, soil-fertility, steve-solo
 ## Overview
 
 Steve Solomon's Complete Organic Fertilizer (COF) is a custom organic fertilizer blend
-designed to provide balanced plant nutrition for [[maintaining-organic-matter-in-vegetable-gardens]]. Developed through
-decades of gardening experience and [[seed-company-supplier-reference]] [[coleman-seed-selection-and-variety-trials]], COF addresses the
-nutritional gaps left by manure and compost alone. Solomon considers COF far superior to
-relying solely on [[fukuoka-textdoc-composting-critique-futility-prepared-organic-matter]] for crop nutrition.
+designed to provide balanced plant nutrition for [[seed-company-supplier-reference]] [[fukuoka-textdoc-composting-critique-futility-prepared-organic-matter]] for crop nutrition.
 
 ## The Problem with Manure and Compost Alone
 
-Many [[soil-food-web-and-building-living-soil]] rely primarily on manure and compost for soil fertility. While
-these materials [[query-how-do-fungi-improve-soil-structure]] and feed soil microbes, they often fail to provide
+Many [[query-how-do-fungi-improve-soil-structure]] and feed soil microbes, they often fail to provide
 adequate mineral nutrition for demanding vegetable crops. Manure, particularly the sacked
 steer manure commonly sold at supermarkets, may contain semi-decomposed sawdust and usually
 has little fertilizing value. Chicken manure is far better but can be overused. Compost,

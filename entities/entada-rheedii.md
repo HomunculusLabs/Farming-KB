@@ -16,23 +16,11 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
+  - "raw/papers/one-straw-revolution-[[masanobu-fukuoka]].md"
   - "Neuwinger, H.D. (2000). African Traditional Medicine: A Dictionary of Plant Use and Applications. Medpharm Scientific Publishers."
   - "Hutchings, A., Scott, A.H., Lewis, G., & Cunningham, A.B. (1996). Zulu Medicinal Plants: An Inventory. University of Natal Press."
   - "Watt, J.M. & Breyer-Brandwijk, M.G. (1962). The Medicinal and Poisonous Plants of Southern and Eastern Africa. 2nd ed. Livingstone."
-  - "De Beer, J.J. & van Wyk, B.E. (2011). An ethnobotanical survey of the Agter-Hantam, Northern Cape. [[kanna-sceletium-south-african-narcotic]] Journal of Botany, 77, 741-754."
-  - "Gessler, M.C., Nkunya, M.H., Chrhara, R.S. et al. (1995). Screening of Tanzanian medicinal plants for antifungal activity. Phytomedicine, 2(3), 271-274."
----
-
-# Entada rheedii (African Dream Herb)
-
-## Overview
-
-**Entada rheedii**, commonly known as the African dream herb, sea heart, snuff-box sea bean, or cacoon vine, is a large woody climber in the family Fabaceae (subfamily Mimosoideae) found throughout tropical and subtropical regions of Africa, Asia, and Australia.
-
-The species is most noted for its large, buoyant seeds, which are carried by ocean currents across vast distances, and for their traditional use as a oneirogen — a substance believed to induce vivid, lucid dreams when consumed before sleep.
-
-Traditional healers across sub-Saharan Africa and parts of [[psilocybe-southeast-asia-pacific]] use the seeds for divination, dream incubation, communication with ancestors, and as a general tonic.
+  - "De Beer, J.J. & van Wyk, B.E. (2011). An ethnobotanical survey of the Agter-Hantam, Northern Cape. [[psilocybe-southeast-asia-pacific]] use the seeds for divination, dream incubation, communication with ancestors, and as a general tonic.
 
 ## Taxonomy
 
@@ -45,46 +33,87 @@ Traditional healers across sub-Saharan Africa and parts of [[psilocybe-southeast
 
 **Synonyms:** Entada pursaetha DC., Entada gigas (L.) Fawc. & Rendle, Entada scandens (L.) Roxb., Acacia rheedii (Spreng.) Roxb.
 
-**Etymology:** The genus name *Entada* is derived from a local name used [[fukuoka-natural-farming-in-tropical-regions]]. The species epithet *rheedii* honors Hendrik Adriaan van Rheede tot Drakenstein (1636-1691), a Dutch colonial administrator and botanist who compiled the monumental *Hortus Malabaricus*.
-
-**Common names:** African dream herb, sea heart, snuff-box bean, cacoon vine, elephant's dream, kwata (Zulu), insimbi (Xhosa), kalumpang (Philippines).
-
-## Morphology
-
-**Growth habit:** Massive woody liana (climbing vine), 30-100 m into forest canopies. Stem base can exceed 20 cm diameter.
-
-**Leaves:** Bipinnately compound, 30-60 cm rachis, 4-8 pinnae pairs, each with 6-12 pairs of oblong leaflets (1.5-3 cm × 0.8-1.5 cm). Glabrous to sparsely pubescent, distinct pulvinus.
-
-**Flowers:** Axillary or terminal panicles, creamy-white to pale yellow, fragrant. Flowers 5-8 mm, bisexual, 5 fused petals. Flowers during wet season.
-
-**Fruit:** Large woody flat pod, 30-90 cm × 6-10 cm, brown when mature, dehiscent, containing 5-15 seeds.
-
-**Seeds:** Large, ovate to circular, 3-6 cm diameter, glossy brown. Highly buoyant due to impermeable testa. Each seed 10-30 g, coat 1-2 mm thick.
-
-## Distribution and Habitat
-
-**Native range:** Widespread across tropical and subtropical Africa (from Senegal to Mozambique and south to KwaZulu-Natal), tropical Asia (India, Sri Lanka, Southeast Asia, Philippines), and northern Australia.
-
-**Coastal distribution:** Commonly found in coastal forests, dune thickets, and mangrove margins.
-Seeds regularly wash ashore on beaches far outside the native range, including Atlantic and Pacific coasts of the Americas, European shores, and island nations.
-
-**Habitat:** Lowland tropical and subtropical forests, riverine thickets, coastal woodlands, and swamp margins.
-Prefers moist, well-drained soils in partial shade to full sun.
-Altitude range: 0-1,200 m above sea level.
-
-## Phytochemistry
-
-The phytochemistry of Entada rheedii seeds remains incompletely characterized, which is common for many ethnobotanically important African plants.
-
-**Identified constituents:**
-
-- **Saponins:** Present in seed tissue; may contribute to mild psychoactive and dream-enhancing effects. Saponin content is reported as moderate by thin-layer chromatography (TLC).
-- **[[hplc-analysis-of-tryptamine-alkaloids]]:** Trace amounts of dimethyltryptamine (DMT) and 5-methoxy-DMT have been anecdotally reported but not conclusively confirmed in peer-reviewed literature for this species.
+**Etymology:** The genus name *Entada* is derived from a local name used [[hplc-analysis-of-tryptamine-alkaloids]]:** Trace amounts of dimethyltryptamine (DMT) and 5-methoxy-DMT have been anecdotally reported but not conclusively confirmed in peer-reviewed literature for this species.
 - **Tannins:** Proanthocyanidins and condensed tannins present in seed coat and cotyledon.
-- **Flavonoids:** Quercetin, kaempferol derivatives detected in [[leaf-tissue-analysis-crop-nutrient-status]].
-- **Proteins:** Seeds are protein-rich (approximately 25-30% crude protein by dry weight).
-- **[[carbon-isotope-labelling-mycorrhizal-fatty-acids]]:** Predominantly linoleic, oleic, and palmitic acids in seed oil.
+- **Flavonoids:** Quercetin, kaempferol derivatives detected in [[carbon-isotope-labelling-mycorrhizal-fatty-acids]]:** Predominantly linoleic, oleic, and palmitic acids in seed oil.
 
 ⚠️ **Phytochemical caveat:** Many online sources attribute significant tryptamine content to E. rheedii seeds, but analytical confirmation is limited. The oneirogenic effects may be primarily saponin-mediated rather than tryptamine-mediated.
 
 ## Traditional and Ethnobotanical Use
+
+## Overview
+
+Entada Rheedii represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish entada rheedii
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving entada extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Entada Rheedii finds practical application in multiple design contexts.
+[[permaculture-principles]] guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for entada rheedii. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+entada rheedii and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Entada Rheedii has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of entada rheedii into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.

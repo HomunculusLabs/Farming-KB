@@ -27,67 +27,19 @@ to bacteria, serve as important longer-term nutrient reservoirs in ecosystems.
 
 Fungal hyphae colonizing decomposing resources incorporate new carbon and
 mineral nutrients into the advancing hyphal front and into more proximal
-biomass by translocation. While the [[fungal-mycelium-hyphae-and-the-feeding-phase]] is alive and active, much
-of this material remains bound to structural components or in the cytoplasm.
-Upon death of more proximal parts of the mycelium, materials may be
-retranslocated from dying to living components or released into the environment
-via decomposition and mineralization processes.
-
-The duration of the immobilization phase depends upon the turnover time of the
-organism. In comparison with bacteria, which have turnover times of hours or
-days, some higher fungi may have hyphal turnover times of weeks or years.
-This makes fungi important long-term accumulators of materials, thereby
-effecting temporal changes in the availability of nutrients in the environment.
-
-## Magnitude of Fungal Immobilization
-
-Fungal immobilization of nutrients can be considerable. Stark (1972) showed
-that hyphae had 193-272% greater nitrogen content and 104-223% greater
-phosphorus content than the [[dighton-pine-needle-litter-decomposition-fungal-succession]] on which they were found. Fogel
-and Hunt (1983) demonstrated the importance of [[bioremediation-fungal-biomass-biosorbent-material]] in a temperate
-Douglas fir [[fukuoka-pine-forest-ecosystem-collapse-cascade-matsutake]], where fungi represented approximately 2% of the
+biomass by translocation. While the [[dighton-pine-needle-litter-decomposition-fungal-succession]] on which they were found. Fogel
+and Hunt (1983) demonstrated the importance of [[fukuoka-pine-forest-ecosystem-collapse-cascade-matsutake]], where fungi represented approximately 2% of the
 total standing stock of organic matter. For all nutrients except calcium,
 roots and mycorrhizae contained greater stocks than the forest floor fungi.
 
-Clinton et al. (1999) measured [[solomon-manure-quality-variable-nutrient-content-horse-steer-chicken]] of fungal fruit bodies in a
-Nothofagus forest and showed that all elements other than calcium were more
-concentrated in fungal tissue than in forest floor material. Nitrogen in
-forest floor mushrooms reached 35 mg per kg compared to 8.7 mg per kg in the
-underlying substrate, and phosphorus was 4 mg per kg compared to 1.0 mg per
-kg.
-
-## The C:N Ratio and Net Mineralization
-
-Where the C:nutrient ratio of a resource is very high, as in wood, the model
-of Swift et al. (1979) proposes initial immobilization and import of free
-nutrient into organic form (fungal thallus) during the initial stages of
-decomposition. Net mineralization occurs only when the [[fungal-resource-partitioning-decomposition-sequences]]
+Clinton et al. (1999) measured [[fungal-resource-partitioning-decomposition-sequences]]
 C:nutrient content is equivalent to that of the fungus (approximately 15:1 for
 P and 6:1 for N). Until this point, the decomposer community competes with
 plants for available nutrients.
 
 ## Immobilization in Tropical Forest Ecosystems
 
-Lodge (1993) discussed the role of fungi in [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] in tropical forest
-ecosystems, which have large nutrient capital in plant biomass but are
-frequently limited by nutrient supply from soil. Much of this limitation is
-caused by phosphorus binding to aluminum and iron oxides. Fungal biomass in
-these soils contains a large reservoir of nutrients that can be slowly
-released. The phosphorus concentration in fungal tissues can reach 5-36 mg per
-g, and the phosphorus content of leaf litter can increase 10-fold due to
-immobilization by fungi.
-
-Fungi were shown to immobilize 22.2% of leaf litter phosphorus and 10.5% of
-soil extractable phosphorus in wet tropical systems. Lodge attributed the
-effects of fungi to immobilization of nutrient elements at times when there
-could be maximal loss due to leaching, making fungi important controls on
-nutrient retention and release.
-
-## Nutrient Translocation and Extended Immobilization
-
-Many basidiomycetes form rhizomorphs and are associated with decomposing wood.
-These fungi have the ability to translocate nutrients from decomposed leaf
-litter to freshly fallen leaf litter to improve [[fungal-decomposition-resource-quality-determinants]] and enhance
+Lodge (1993) discussed the role of fungi in [[fungal-decomposition-resource-quality-determinants]] and enhance
 
 ## Practical Applications
 
@@ -118,8 +70,81 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[fungal-hyphae]]
 - [[det]]
-- [[douglas-fir]]
 - [[mycelium]]
 - [[decomposition]]
+
+## Overview
+
+Dighton Fungal Nutrient Immobilization Turnover represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish dighton fungal nutrient immobilization turnover
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving dighton extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Dighton Fungal Nutrient Immobilization Turnover finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for dighton fungal nutrient immobilization turnover. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+dighton fungal nutrient immobilization turnover and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Dighton Fungal Nutrient Immobilization Turnover has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of dighton fungal nutrient immobilization turnover into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and

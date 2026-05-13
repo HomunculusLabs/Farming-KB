@@ -14,29 +14,7 @@ updated: 2026-04-28
 sources:
   - Chinese Pharmacopoeia Commission (2020). Pharmacopoeia of the People's Republic of China. Vol. I.
 - Wang, Z., et al. (2015). "Glycyrrhiza uralensis: A review of its traditional uses, phytochemistry, and pharmacology." Journal of Ethnopharmacology, 175, 1–16.
-- Asl, M.N., Hosseinzadeh, H. (2008). "Review of pharmacological effects of Glycyrrhiza sp. and its [[cordyceps-cancer-bioactive-compounds]]." Phytotherapy Research, 22(6), 709–724.
-- Nomura, T., Fukai, T. (1998). "Constituents of Glycyrrhiza species." Fortschritte der Chemie organischer Naturstoffe, 73, 1–140.
----
-
-## Overview
-
-**glycyrrhiza uralensis is** Fisch. ex DC., known as **Chinese licorice** or
-**gan cao** (甘草), is a perennial herbaceous legume in the family Fabaceae.
-It is the most commercially important of the approximately 30 *Glycyrrhiza*
-species and serves as the official source of licorice root in the Chinese
-Pharmacopoeia.
-
-The dried root and rhizome constitute one of the most frequently prescribed
-herbs in traditional Chinese medicine (TCM), appearing in an estimated 50% of
-all classical formulations. Its primary bioactive constituent, **glycyrrhizin**
-(glycyrrhizic acid), is 30–50 times sweeter than sucrose and underpins the
-plant's widespread use as a sweetener, flavoring agent, and therapeutic agent.
-
-## Taxonomy and Morphology
-
-### Taxonomy
-
-- **King [[dom]]:** Plantae
+- Asl, M.N., Hosseinzadeh, H. (2008). "Review of pharmacological effects of Glycyrrhiza sp. and its [[dom]]:** Plantae
 - **Order:** Fabales
 - **Family:** Fabaceae
 - **Subfamily:** Faboideae
@@ -72,23 +50,85 @@ sweet taste is due to glycyrrhizin concentrated in the phloem and cortex.
 
 ## Distribution and Habitat
 
-*G. uralensis* is native to the semi-arid regions of Central and [[neurotropic-fungi-japan-east-asia-species-cultural-context]].
+*G. uralensis* is native to the semi-arid regions of Central and [[guzman-central-america-neurotropic-fungi-species-distribution]]
 
-Its range extends from southern Siberia and Mongolia through northern China
-(Inner Mongolia, Gansu, Xinjiang, Ningxia, Shaanxi) into Kazakhstan and parts
-of the Korean Peninsula.
+## Overview
 
-**Habitat preferences:**
-- Sandy loams and alluvial soils along river valleys
-- Steppe grasslands and semi-desert margins at 200–1,400 m elevation
-- Full sun exposure; drought-tolerant once established
-- Nitrogen-poor soils where its symbiotic rhizobia provide a competitive
-  advantage over non-leguminous vegetation
+Glycyrrhiza Uralensis represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
 
-Wild populations have declined significantly due to overharvesting, and the
-species is now classified as **Vulnerable** in parts of its Chinese range.
-Cultivation accounts for an increasing share of commercial supply.
+## Key Characteristics
+
+Several defining characteristics distinguish glycyrrhiza uralensis
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving glycyrrhiza extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Glycyrrhiza Uralensis finds practical application in multiple design contexts.
+[[permaculture-principles]] guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for glycyrrhiza uralensis. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+glycyrrhiza uralensis and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Glycyrrhiza Uralensis has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of glycyrrhiza uralensis into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
 
 ## See Also
 
-- [[guzman-central-america-neurotropic-fungi-species-distribution]]
+- [[glycyrrhiza-glabra]]

@@ -8,31 +8,10 @@ sources: [/Users/t3rpz/wiki/raw/papers/singh-harbhajan_-mycoremediation-_-fungal
 ---
 # Bioaugmentation Strategies
 
-Bioaugmentation is a bioremediation strategy that involves the controlled addition of specific microorganisms to contaminated environments to enhance the degradation, transformation, or immobilization of pollutants. The introduced organisms augment (supplement) the metabolic capabilities of the indigenous [[edaphic-factors-microbial-community-structure]], providing catabolic pathways or enzymatic activities that may be absent or insufficient in the native population.
+Bioaugmentation is a bioremediation strategy that involves the controlled addition of specific microorganisms to contaminated environments to enhance the degradation, transformation, or immobilization of pollutants. The introduced organisms augment (supplement) the metabolic capabilities of the indigenous [[fungal-bioaugmentation-inoculation]] for more on formulation and [[cervantes-organic-amendments-chart]]. The composting environment provides elevated temperatures (40 to 65 degrees Celsius), adequate moisture, and nutrient-rich conditions that support vigorous microbial activity.
 
-Bioaugmentation differs from [[fungal-bioaugmentation-inoculation]] for more on formulation and [[formulation-and-delivery-of-fungal-inocula]] inocula for bioaugmentation.
-
-## Ex Situ Bioaugmentation
-
-Many of the challenges of in situ bioaugmentation can be overcome by using ex situ (off-site) treatment systems where environmental conditions are controlled. Bioreactors, biofilters, bioslurry reactors, and composting systems provide controlled environments where introduced organisms can function under optimal conditions.
-
-Compost bioreactors are among the most promising ex situ systems for hazardous soil treatment. Composting stimulates the growth of diverse consortia of bacteria and fungi through the addition of [[cervantes-organic-amendments-chart]]. The composting environment provides elevated temperatures (40 to 65 degrees Celsius), adequate moisture, and nutrient-rich conditions that support vigorous microbial activity.
-
-The white-rot fungus [[staycare-phanerochaete-chrysosporium-in-bioremediation]] removed approximately 45% of initial benzo[a]pyrene in a compost bioreactor system. When compost bioaugmentation was combined with fungal inoculation, removal efficiencies reached 62.8% for fungal-amended and 65.6% for unamended systems, with [[fungal-bound-residue-formation]] formation being the primary removal mechanism.
-
-## Monitoring and Evaluation
-
-Monitoring bioaugmentation effectiveness requires tracking both the survival and activity of introduced organisms and the reduction in contaminant concentrations over time. Molecular techniques including quantitative PCR, DNA fingerprinting, and metagenomic analysis can detect and quantify introduced strains and their functional genes in complex environmental samples.
-
-Bioaugmentation should be considered when site characterization indicates that indigenous microbial populations lack the metabolic capacity for the target contaminants, when biostimulation alone has failed to achieve remediation objectives, or when rapid remediation is required and can be achieved through the introduction of highly efficient degraders.
-
-## See Also
-
-- [[fungal-bioaugmentation-inoculation]] — fungal inoculation for bioaugmentation
-- [[mycoremediation]] — comparison of remediation organisms
-- fungal-enzyme-systems-in-bioremediation — enzyme-based remediation
+The white-rot fungus [[staycare-phanerochaete-chrysosporium-in-bioremediation]] removed approximately 45% of initial benzo[a]pyrene in a compost bioreactor system. When compost bioaugmentation was combined with fungal inoculation, removal efficiencies reached 62.8% for fungal-amended and 65.6% for unamended systems, with [[fungal-bioaugmentation-inoculation]] — fungal inoculation for bioaugmentation
 - [[constructed-wetlands-wastewater-treatment]]
-- [[chlorinated-solvent-bioremediation]]
 - [[petroleum-hydrocarbon-bioremediation]]
 ## Practical Applications
 
@@ -97,8 +76,6 @@ through generations to modern scientific approaches, the evolution continues
 to inform current best practices and research directions.
 
 ## See Also
-- [[bioslurry-reactors]]
 - [[doc]]
-- [[det]]
 - [[composting]]
 - [[mycoremediation]]

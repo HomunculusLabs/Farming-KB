@@ -51,10 +51,7 @@ related_concepts:
 
 # Psilocybin Mushroom Cultivation Guide
 
-Growing [[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]] is a fascinating intersection of mycology,
-microbiology, and patience. Unlike growing plants, mushroom cultivation works
-with an entirely different kingdom of life — fungi — requiring sterile
-technique, [[fukuoka-microbial-ecology-decomposition]], and specific environmental conditions to trigger
+Growing [[fukuoka-microbial-ecology-decomposition]], and specific environmental conditions to trigger
 fruiting. The most commonly cultivated species is Psilocybe cubensis, the
 easiest to obtain and cultivate, most disease-resistant, and among the most
 potent. Adam Gottlieb's 1976 guide described it as the primary recommended
@@ -90,28 +87,7 @@ Approximately 40 Conocybe species, 20 Panaeolus species, 40 Psilocybe species,
 and 9 Stropharia species are known to contain psilocybin. However, P. cubensis
 is overwhelmingly the preferred species for home cultivation due to its
 forgiving nature, fast colonization speed, and substantial yields. The species
-has been known by several taxonomic names, including [[mckenna-stropharia-cubensis-extraterrestrial-hypothesis-spore-dispersal]] and
-Psilocybe cubensis var. cyanescens.
-
-Within P. cubensis, dozens of named varieties circulate — Golden Teacher, B+,
-Ecuador, Thai, Cambodian, Amazonian, Penis Envy, and many others. These are
-isolated subpopulations selected for particular characteristics, not distinct
-taxonomic varieties. Strain degradation occurs through continuous reinoculation
-(senescence); mitigation involves alternating culture media and always
-selecting the most vigorous mycelia.
-
-Other species catalogued by Gottlieb include Copelandia cyanescens (optimum
-80°F), P. caerulescens (very long 55–85 day incubation), P. baeocystis
-(described as "most visually hallucinogenic"), and P. mexicana (the species
-from which Hofmann first isolated psilocybin). Most are significantly more
-challenging to cultivate than P. cubensis and are recommended only for
-experienced growers.
-
-An important safety consideration: spore exchange networks carry risks of
-misidentification and even malicious substitution of toxic species. Gottlieb
-strongly advises verifying species identity through proper mycological keys
-(he recommends R. Shaffer's "Keys to Genera of Higher Fungi") before
-consuming any [[fungi-cultivated-mushrooms-pathogens-competitors]]. Spore possession is legal in many
+has been known by several taxonomic names, including [[fungi-cultivated-mushrooms-pathogens-competitors]]. Spore possession is legal in many
 jurisdictions since spores do not contain controlled substances, but
 cultivation is illegal in most countries.
 
@@ -122,20 +98,11 @@ cultivation is illegal in most countries.
 Agar culture is the foundation of successful mushroom cultivation. While it
 ## See Also
 
-- [[mushroom-cultivation-fundamentals]] — Core principles of fungal biology
-  and cultivation
 - [[agar-culture-technique]] — Detailed agar media recipes and procedures
-- [[grain-spawn-preparation]] — Grain types, preparation, and inoculation
-  methods
 - [[bulk-substrate-preparation]] — Substrate recipes, pasteurization, and
   supplementation
-- fruiting-chamber-design — Chamber types, [[eclss-environmental-control-life-support]], and
-  commercial room design
-- [[monotub-cultivation]] — The monotub method in detail
-- [[psychedelic-mushrooms-species-and-identification]] — Species profiles,
-  habitats, and identification
-- [[mushroom-contamination-prevention]] — [[cultivator-sterile-technique-and-agar-culture]] and facility design
-- [[psychedelic-therapy-and-research]] — Clinical applications of psilocybin
+- fruiting-chamber-design — Chamber types, [[monotub-cultivation]] — The monotub method in detail
+- [[mushroom-contamination-prevention]] — [[psychedelic-therapy-and-research]] — Clinical applications of psilocybin
 
 ## References
 

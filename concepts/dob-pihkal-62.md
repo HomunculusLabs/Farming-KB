@@ -11,115 +11,93 @@ tags: [phenethylamine, psychedelic, amphetamine, research-chemical, dox-family]
 
 ## Overview
 
-DOB (2,5-dimethoxy-4-bromoamphetamine) is a potent [[psychedelic-microdosing]] with significant stimulant properties due to its amphetamine backbone. It is among the most potent compounds in the entire PIHKAL collection and has been the subject of both pharmacological research and significant harm-reduction concerns due to its potential for dangerous overdose when misrepresented as other substances.
-
-## Chemical Identity
-
-- **Chemical name:** 2,5-Dimethoxy-4-bromoamphetamine
-- **Molecular formula:** C11H16BrNO2
-- **[[2c-b-pihkal-entry-20]]:** #62
+DOB (2,5-dimethoxy-4-bromoamphetamine) is a potent [[2c-b-pihkal-entry-20]]:** #62
 - **Family:** DOx (2,5-dimethoxy-4-substituted amphetamines)
-- **[[ayahuasca-tourism-legal-status-by-country]]:** Schedule I (US) / Class A (UK) / Controlled in most jurisdictions
+- **[[ayahuasca]]
+- [[pihkal-dob]]
+- [[pihkal-dob-doi-dom-amphetamine-series-comparison]]
 
-## Synthesis (Summary)
+## Overview
 
-DOB is synthesized by the bromination of 2,5-dimethoxyamphetamine (2,5-DMA). Elemental bromine dissolved in glacial acetic acid is added to a solution of 2,5-DMA free base in acetic acid. After stirring for 3 hours, the reaction mixture is worked up through aqueous washing, basification with NaOH, and extraction with dichloromethane. The product is converted to the hydrochloride salt and recrystallized from isopropanol (mp 207-208 degrees C). Proton NMR confirms bromination at the 4-position.
+Dob Pihkal 62 represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
 
-## History and Context
+## Key Characteristics
 
-DOB was first prepared by Shulgin in 1967 and its unprecedented high potency was published in 1971. Shortly after, two additional papers appeared independently -- one describing DOB made via a different route with high activity in rats, and another describing DOB alongside closely related brominated amphetamines and their effects in humans.
+Several defining characteristics distinguish dob pihkal 62
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
 
-The alpha-ethyl homologue of DOB is mentioned under the entry for ARIADNE (PIHKAL #8). Positionally rearranged isomers are discussed under META-DOB.
+## Ecological Context
 
-## Dosage and Duration
-
-| Parameter | Range |
-|-----------|-------|
-| **Threshold** | ~0.4 mg |
-| **Light dose** | 0.5 - 1.0 mg |
-| **Common dose** | 1.0 - 2.0 mg |
-| **Strong dose** | 2.0 - 3.0 mg |
-| **Duration** | 18 - 30 hours |
-| **Onset** | 2 - 4 hours |
-
-**Isomer potency:** The R-isomer is the active enantiomer. 0.5 mg of the R-isomer produces effects comparable to the racemic mixture at higher doses. The S-isomer is largely inactive (1.0 mg produces only threshold effects).
-
-## Qualitative Commentary (from PIHKAL)
-
-**0.4 mg:** Distinct enhancement of visual perception with strengthening of colors. Clean, cold feeling of wind on the skin. Enriched emotional affect, comfortable and good feeling. Easy sleeping with colorful and important dreams.
-
-**2.0 mg:** Continuous tremor at the physical level, and an incredible Moebius strip representation of reality at the intellectual level. Ability to enter personal problems easily and exit when chosen. Brief lapses of attention and fugue states persisting into the next day.
-
-**2.8 mg:** Severe cramp with near-fainting response despite no actual pain. Flashes of depersonalization. Rings around the moon with prismatic colors. Long-lasting after-images. Still at plus-one at 14 hours.
-
-**3.0 mg (racemate):** Described as "a complex, but a very good day" -- functional and rewarding. Shulgin called it "gorgeous stuff" and expressed regret at having waited nine years to explore it.
-
-**0.5 mg R-isomer:** Smooth intoxication, completely functional but clearly plus-two. Would not choose to drive. Quick dropping to plus-one at the fifth hour with residual stimulation the following morning.
-
-**1.0 mg R-isomer:** Absolute +++ by the fourth hour. Less introspection than 2.0 mg racemate but rewarding. Fitful sleep at 18 hours with bizarre dreams. Residual hunger for altered spaces the next day.
-
-**1.5 mg R-isomer:** +++ but vaguely irrational with heavy body load. Would not wish any higher dosage. Symptoms still present at 18 hours.
-
-**1.0 mg S-isomer:** Only threshold warmth at a couple hours in, effects very slight, gone by the fifth hour.
-
-## Effects
-
-### Visual and Perceptual
-- Significant enhancement of visual perception with strengthened colors
-- Prismatic halos around light sources (rings around the moon)
-- Long-lasting after-images following viewing of points of light
-- Moebius-strip-like alterations of reality perception at higher doses
-
-### Cognitive and Emotional
-- Enriched emotional affect with comfortable, good feelings
-- Ability to enter into and exit from personal problem-solving at will
-- Complex intellectual stimulation described as "continuous tremor at the intellectual level"
-- Occasional depersonalization at higher doses
-
-### Physical
-- Clean, cold feeling on the skin
-- Noticeable body load at higher doses
-- Physical tremor at moderate-to-high doses
-- Persistent stimulation lasting well beyond the primary experience
-
-### At Higher Doses (2.8-3.0 mg)
-- Severe cramping (at 2.8 mg)
-- Near-fainting responses without actual pain
-- Flash depersonalization
-- Fugue states persisting into the following day
-- Residual plus-one effects at 14+ hours
+The ecological relationships involving dob extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
 
 ## Practical Applications
 
-The principles and techniques discussed here have wide-ranging applications
-across multiple disciplines and contexts. Practitioners and researchers
-continue to explore new ways to integrate these concepts into modern practice,
-adapting traditional knowledge to contemporary challenges and opportunities.
+Dob Pihkal 62 finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
 
-## Key Considerations
+## Management and Implementation
 
-Several important factors influence the effectiveness and outcomes described
-in this topic. Understanding these considerations helps practitioners make
-informed decisions and avoid common pitfalls. Environmental conditions,
-timing, and material selection all play critical roles.
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for dob pihkal 62. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+dob pihkal 62 and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
 
 ## Historical Context
 
-The historical development of this subject reflects centuries of accumulated
-knowledge and practical experience. From traditional methods passed down
-through generations to modern scientific approaches, the evolution continues
-to inform current best practices and research directions.
+Dob Pihkal 62 has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
 
-## Common Challenges
+## Integration Strategies
 
-Practitioners frequently encounter several challenges when working with
-these concepts. Climate variability, resource limitations, and knowledge
-gaps can all affect outcomes. Addressing these challenges requires patience,
-observation, and a willingness to adapt approaches based on results.
+Successful integration of dob pihkal 62 into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
 
 ## See Also
-- [[ayahuasca]]
-- [[methyl-dob-entity-pihkal]]
-- [[pihkal-dob]]
-- [[meta-dob-entity-pihkal]]
-- [[pihkal-dob-doi-dom-amphetamine-series-comparison]]
+
+- [[3-t-tris-entity-pihkal]]
+- [[aleph-7-pihkal-entry-7]]
+- [[dme-entity-pihkal]]
+- [[eem-entity-pihkal]]
+- [[mmda-2-entity-pihkal]]

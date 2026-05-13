@@ -8,9 +8,9 @@ sources: ["Shulgin - PIHKAL"]
 ---
 # 2C-T-17 (NIMITZ)
 
-[[psychedelic-compounds-reference]] (along with 2C-G-5) to have a potential optically active center on the side of the ring away from the nitrogen atom. One of the oldest and best studied variants of the [[optical-isomers-psychedelic-phenethylamines]] from that which has been reported with the racemic? There certainly is for the first step, since the butyl alcohols rather than the butyl bromides must be used, and this first step must go by inversion, and it cannot be allowed any racemization (loss of the optical purity of the chiral center).
+[[optical-isomers-psychedelic-phenethylamines]] from that which has been reported with the racemic? There certainly is for the first step, since the butyl alcohols rather than the butyl bromides must be used, and this first step must go by inversion, and it cannot be allowed any racemization (loss of the optical purity of the chiral center).
 
-The synthesis of 2C-T-17 "R" required starting with the "S" isomer of secondary butanol. The "S" 2-butanol in petroleum ether gave the lithium salt with butyllithium which was treated with tosyl chloride (freshly crystallized from naphtha, hexane washed, used in toluene solution) and the solvent was removed. The addition of 2,5-dimethoxythiophenol, anhydrous potassium carbonate, and DMF produced "S"-2,5-dimethoxyphenyl s-butyl sulfide. The conversion to "R"-2,5-dimethoxy-4-(s-butyl-thio)benzaldehyde (which melted at 78-79 deg C compared to 86-87 deg C for the racemic counterpart) and its conversion in turn to the nitrostyrene, "S"-2,5-dimethoxy-4-(s)-butylthio-beta-nitrostyrene which melted at 70-71 deg C compared to 68-69 deg C for the racemic counterpart, followed the specific recipes above. The preparation of the intermediates to 2C-T-17 "S" follows the above precisely, but starting with "R" 2-butanol instead. And it is at these nitrostyrene stages that this project stands at the moment.
+The synthesis of 2C-T-17 "R" required starting with the "S" isomer of secondary butanol. The "S" 2-butanol in [[petroleum-ether]] gave the lithium salt with butyllithium which was treated with tosyl chloride (freshly crystallized from naphtha, hexane washed, used in toluene solution) and the solvent was removed. The addition of 2,5-dimethoxythiophenol, anhydrous potassium carbonate, and DMF produced "S"-2,5-dimethoxyphenyl s-butyl sulfide. The conversion to "R"-2,5-dimethoxy-4-(s-butyl-thio)benzaldehyde (which melted at 78-79 deg C compared to 86-87 deg C for the racemic counterpart) and its conversion in turn to the nitrostyrene, "S"-2,5-dimethoxy-4-(s)-butylthio-beta-nitrostyrene which melted at 70-71 deg C compared to 68-69 deg C for the racemic counterpart, followed the specific recipes above. The preparation of the intermediates to 2C-T-17 "S" follows the above precisely, but starting with "R" 2-butanol instead. And it is at these nitrostyrene stages that this project stands at the moment.
 
 It would be fascinating if one of the two optically active 2C-T-17's carried all of the central activity, and the other, none of it. What is more likely is that the spectrum of effects will be teased apart, with one isomer responsible for some of them and the other isomer responsible for the others. Then, again, maybe the south end of the receptor site in the brain is totally symmetric, and the two optical antipodes will be indistinguishable.
 
@@ -18,21 +18,7 @@ An incidental bit of trivia -- yet another bit of evidence that we are all total
 
 ## Synthesis
 
-To a solution of 2.6 g of KOH pellets in 50 mL hot MeOH, there was added a mixture of 6.8 g 2,5-dimethoxythiophenol (see under 2C-T-2 for its preparation) and 5.8 g (s)-butyl bromide. The reaction was exothermic, with the deposition of white solids. This was heated on the [[scythian-cannabis-steam-bath-ritual]] for a few h, the solvent removed under vacuum, and the resulting solids dissolved in 250 mL H2O. Additional aqueous NaOH was added to bring universal pH paper to a full blue color. This was extracted with 3x40 mL CH2Cl2, the extracts pooled, and the solvent removed under vacuum. The residue was 2,5-dimethoxyphenyl (s)-butyl sulfide which was a pale yellow oil, weighing 10.12 g. It was
-
-sufficiently pure for use in the next reaction without a distillation step.
-
-A mixture of 15.1 g POCl3 and 14.1 g N-methylformanilide was heated for 10 min on the steam bath. To this claret-colored solution was added 9.4 g of 2,5-dimethoxyphenyl (s)-butyl sulfide, and the mixture heated for 35 min on the steam bath. This was then added to 200 mL of well-stirred warm H2O (pre-heated to 55 deg C) and the stirring continued until the oily phase had completely solidified (about 15 min). These light brown solids were removed by filtration, and washed with additional H2O. After sucking as dry as possible, these solids (12.14 g wet) were ground under an equal weight of MeOH which produced a yellowish crystalline solid with a mp of 76-81 deg C. Recrystallization of a 0.4 g sample from an equal weight of boiling MeOH provided 0.27 g of 2,5-dimethoxy-4-(s-butylthio)benzaldehyde as a pale cream-colored crystalline material with a mp of 86-87 deg C.
-
-To a solution of 8.0 g of the crude 2,5-dimethoxy-4-(s-butylthio)benzaldehyde in 40 g of nitromethane there was added 0.38 g of anhydrous ammonium acetate, and the mixture was heated on the steam bath for 1 h. The reddish colored solution was decanted from some insoluble tan material and the excess nitromethane removed under vacuum. The heavy red oil that remained was diluted with an equal volume of boiling MeOH, and allowed to return to room temperature. The orange-colored crystals that slowly formed were removed by filtration and, after air drying, weighted 6.24 g. This was again recrystallized from an equal volume of MeOH, yielding 2,5-dimethoxy-4-(s-butylthio)-beta-nitrostyrene as yellow, somewhat beady crystals that weighed (when dry) 3.50 g and which had a mp of 62-65 deg C. A small portion of this fraction was crystallized yet again from MeOH to provide an analytical sample that was yellow-orange in color, and had an mp of 68-69 deg C. Anal. (C13H17NO4S) C,H.
-
-A solution of LAH (120 mL of a 1 M solution in THF) was cooled, under He, to 0 deg C with an external ice bath. With good stirring there was added 3.3 mL 100% H2SO4 dropwise, to minimize charring. This was followed by the addition of 8.83 g 2,5-dimethoxy-4-(s-butylthio)-beta-nitrostyrene in 80 mL anhydrous THF dropwise over the course of 2 h. After a few min further stirring, the temperatu...
-
-(Additional synthesis details available in source.)
-
-## Safety Notes
-
-2C-T-17 is a research chemical documented in PIHKAL. Dosage data [[2c-o-4-entity-pihkal]]
+To a solution of 2.6 g of KOH pellets in 50 mL hot MeOH, there was added a mixture of 6.8 g 2,5-dimethoxythiophenol (see under 2C-T-2 for its preparation) and 5.8 g (s)-butyl bromide. The reaction was exothermic, with the deposition of white solids. This was heated on the [[2c-o-4-entity-pihkal]]
 - [[2-br-4-5-mda-entity-pihkal]]
 
 - PIHKAL (Shulgin & Shulgin, 1991)
@@ -88,3 +74,77 @@ Technical challenges often relate to the complexity of interactions
 between multiple variables and the difficulty of predicting outcomes
 with certainty. Building in redundancy, monitoring key indicators, and
 maintaining flexibility in approach all help manage this inherent
+
+## Overview
+
+2C T 17 Entity Pihkal represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish 2c t 17 entity pihkal
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving 2c extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+2C T 17 Entity Pihkal finds practical application in multiple design contexts.
+[[permaculture-principles]] guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for 2c t 17 entity pihkal. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+2c t 17 entity pihkal and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+2C T 17 Entity Pihkal has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of 2c t 17 entity pihkal into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource

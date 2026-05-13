@@ -1,5 +1,5 @@
 ---
-title: Companion Planting Deterrents
+title: Companion Planting as Pest Deterrent
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
@@ -21,7 +21,7 @@ Many companion planting recommendations are based on folklore, but some have bee
 
 **French Marigolds (Tagetes) and Cabbage White Butterfly:** The cabbage white butterfly is attracted to its host plant by smell and can be fooled by planting highly aromatic French marigolds between rows of cabbages. Scientifically controlled trials confirm a reduction in attack.
 
-**French Marigolds and Eelworm/Nematode Control:** French marigolds secrete a substance from their roots that reduces eelworm (soil pest) attack on potatoes. [[psilocybin-isolation-and-early-scientific-research]] has confirmed this root secretion mechanism. Many gardeners also report similar results.
+**French Marigolds and Eelworm/Nematode Control:** French marigolds secrete a substance from their roots that reduces eelworm (soil pest) attack on potatoes. Scientific research has confirmed this root secretion mechanism. Many gardeners also report similar results.
 
 **French Marigolds and Couch Grass:** Said to help kill weeds, particularly couch grass (Agropyron repens), though not yet confirmed by the author's testing.
 
@@ -47,11 +47,11 @@ Hoverflies are the most valuable pest predators in the garden. They exist in dif
 - Marigolds (Tagetes and Calendula)
 - Poppies (Papaver sp.)
 - Nasturtiums (Tropaeolum)
-- Phacelia ([[phacelia-tanacetifolia]])
+- Phacelia (Phacelia tanacetifolia)
 
 ## Encouraging Other Pest Predators
 
-- **Ladybugs, lacewings, [[parasitic-wasps-biological-pest-control]]** (feed on aphids, caterpillars, and other soft-bodied pests): Encourage by providing a varied collection of plant life
+- **Ladybugs, lacewings, parasitic wasps** (feed on aphids, caterpillars, and other soft-bodied pests): Encourage by providing a varied collection of plant life
 - **Visual camouflage:** Some pests are attracted to host plants by sight. Mixing ornamental plants and vegetables in borders can camouflage the host plants
 - **Weed-infested plots** suffer less pest damage than clean ones (but yields are lower due to competition for light, nutrients, and water)
 
@@ -62,50 +62,89 @@ Beyond pest deterrence, French marigolds are reported to help suppress certain w
 ## Related
 
 - [[green-manure-crops-detailed]] — Phacelia as a green manure that also attracts hoverflies
-- [[clubroot-disease-management]] — [[cotter-natural-pest-control-disease-management]] for brassicas
-- [[leatherjacket-pest-control]] — direct [[cho-natural-pest-control-methods]] for soil pests
+- [[clubroot-disease-management]] — disease management for brassicas
+- [[leatherjacket-pest-control]] — direct pest control methods for soil pests
 
-## Historical Context
-- These approaches have evolved through decades of research and practical application.
-- Traditional knowledge systems have contributed significantly to modern understanding.
-- Scientific inquiry has progressively validated and refined historical practices.
+## Overview
 
-## Mechanisms and Processes
-- Underlying biological and ecological mechanisms drive observed outcomes.
-- Multiple interacting factors contribute to system-level effects.
-- Understanding these processes enables more targeted and effective interventions.
+Companion Planting Deterrents represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
 
-## See Also
-- [[companion-planting-guilds]]
-- [[jeavons-companion-planting]]
-- [[comparison-companion-planting-vs-polyculture]]
-- [[comparison-companion-planting-vs-green-manure]]
-- [[comparison-companion-planting-vs-intercropping]]
+## Key Characteristics
+
+Several defining characteristics distinguish companion planting deterrents
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving companion extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
 
 ## Practical Applications
 
-The principles and techniques discussed here have wide-ranging applications
-across multiple disciplines and contexts. Practitioners and researchers
-continue to explore new ways to integrate these concepts into modern practice,
-adapting traditional knowledge to contemporary challenges and opportunities.
+Companion Planting Deterrents finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
 
-## Key Considerations
+## Management and Implementation
 
-Several important factors influence the effectiveness and outcomes described
-in this topic. Understanding these considerations helps practitioners make
-informed decisions and avoid common pitfalls. Environmental conditions,
-timing, and material selection all play critical roles.
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
 
-## Common Challenges
+## Regional Considerations
 
-Practitioners frequently encounter several challenges when working with
-these concepts. Climate variability, resource limitations, and knowledge
-gaps can all affect outcomes. Addressing these challenges requires patience,
-observation, and a willingness to adapt approaches based on results.
+Different geographic regions present unique challenges and
+opportunities for companion planting deterrents. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+companion planting deterrents and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Companion Planting Deterrents has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of companion planting deterrents into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
 
 ## See Also
+
+- [[cervantes-companion-planting-pest-deterrent]]
 - [[companion-planting]]
-- [[psilocybin]]
-- [[det]]
-- [[comparison-companion-planting-vs-intercropping]]
-- [[comparison-companion-planting-vs-crop-rotation]]
+- [[companion-planting]]
+- [[query-how-to-use-companion-planting-in-your-garden]]

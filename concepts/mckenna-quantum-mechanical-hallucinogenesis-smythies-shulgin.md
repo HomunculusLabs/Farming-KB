@@ -2,21 +2,7 @@
 
 ## Overview
 
-In his 1983 Esalen lecture "Tryptamine [[tryptamine-hallucinogens-and-consciousness]]," Terence McKenna advanced the argument that quantum mechanical phenomena underlie the process of hallucinogenesis — the generation of hallucinatory experience by psychoactive molecules.
-
-Drawing on the structure-activity relationship research of chemists including John Smythies and Alexander Shulgin, McKenna contended that the extreme sensitivity of subjective experience to minute molecular perturbations constitutes evidence for a direct, formative linkage between quantum mechanically described matter and conscious mind.
-
-This position places psychedelic pharmacology at the center of one of the most profound unsolved problems in science: the relationship between physical matter and subjective experience.
-
-The argument challenges the reductive assumption that consciousness can be fully explained by classical neuroscience, and suggests instead that the quantum mechanical properties of psychoactive molecules are directly relevant to the nature of conscious awareness itself.
-
-## The Structure-Activity Relationship Argument
-
-The core empirical observation underlying McKenna's argument is deceptively simple.
-
-In the tryptamine and phenethylamine families, researchers including John Smythies and Alexander Shulgin demonstrated that moving a single atom on a molecular ring of an otherwise inactive compound can render it powerfully hallucinogenic.
-
-The difference between a molecule that produces no subjective effect at all and one that entirely transforms consciousness may be as small as the migration of a methyl group, the substitution of a hydroxyl for a hydrogen atom, or the [[shulgin-gamma-dom-positional-isomerism]] of a halogen substituent on a benzene ring.
+In his 1983 Esalen lecture "[[tryptamine]] [[shulgin-gamma-dom-positional-isomerism]] of a halogen substituent on a benzene ring.
 
 Shulgin's systematic exploration of phenethylamines and tryptamines, documented in PiHKAL and TiHKAL, provided exhaustive evidence for this phenomenon.
 
@@ -28,31 +14,11 @@ McKenna described this as "perfect proof of the dynamic linkage at the formative
 
 The reasoning proceeds as follows: if consciousness were an emergent property of classical neural computation alone, one might expect a more graded, less discontinuous relationship between molecular structure and subjective experience.
 
-Instead, what is observed is a relationship that suggests the quantum mechanical properties of the molecule itself — its electron distribution, its conformational dynamics, its interaction with [[beta-glucan-receptor-binding]] sites at the quantum level — are directly interfacing with the substrate of consciousness.
-
-The discontinuous, threshold-like nature of the structure-activity relationship — where tiny molecular changes produce dramatic experiential differences — mirrors the behavior of quantum mechanical systems, where discrete energy states and probabilistic transitions produce similarly non-gradual effects.
-
-## John Smythies and the Neurochemical Bridge
-
-John Smythies, a British neuropsychiatrist and researcher at the University of Alberta, made significant contributions to the neurochemistry of schizophrenia [[glossolalia-and-altered-states]] of consciousness.
+Instead, what is observed is a relationship that suggests the quantum mechanical properties of the molecule itself — its electron distribution, its conformational dynamics, its interaction with [[glossolalia-and-altered-states]] of consciousness.
 
 His work on the transmethylation hypothesis of schizophrenia proposed that endogenous hallucinogens, produced through aberrant methyltransferase activity, could be responsible for psychotic symptoms.
 
-This research program, which sought to identify a chemical basis for naturally occurring hallucinatory states, directly informed McKenna's thinking about the relationship between molecular [[quantum-mechanics-fundamentals]] and consciousness.
-
-Smythies argued that the hallucinogenic experience produced by exogenous compounds like LSD, psilocybin, and mescaline was pharmacologically isomorphic to endogenous psychotic states, suggesting a common neurochemical mechanism.
-
-This position implied that the brain's ordinary chemistry already contained the capacity to generate profoundly altered states of consciousness, and that the difference between ordinary waking awareness and visionary experience might be a matter of subtle shifts in neurochemical concentrations or molecular configurations — shifts operating at the quantum mechanical level.
-
-Smythies's broader work on the neurochemistry of consciousness also explored the possible role of endogenous psychoactive compounds in ordinary dreaming, further bridging the gap between pharmacologically induced and naturally occurring altered states.
-
-## The Quantum Mechanical Dimension
-
-McKenna's invocation of quantum mechanics in the context of hallucinogenesis was not merely rhetorical.
-
-He argued that the relationship between molecular structure and subjective experience operates at a scale where classical descriptions of matter become inadequate.
-
-The binding of a psychoactive molecule to a [[serotonin-receptor-interference-psychedelic-mechanism]], the conformational change that follows, the cascade of intracellular signaling events — all of these involve quantum mechanical phenomena at their most fundamental level.
+This research program, which sought to identify a chemical basis for naturally occurring hallucinatory states, directly informed McKenna's thinking about the relationship between molecular [[serotonin-receptor-interference-psychedelic-mechanism]], the conformational change that follows, the cascade of intracellular signaling events — all of these involve quantum mechanical phenomena at their most fundamental level.
 
 Electron cloud interactions, orbital overlap, hydrogen bonding, van der Waals forces: these are inherently quantum mechanical processes, and it is through these processes that the molecule interfaces with the neural substrate of consciousness.
 

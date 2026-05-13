@@ -88,16 +88,8 @@ all influence the optimal approach to implementation.
 
 ## See Also
 
-- [[holzer-pivoting-monk-pond-drainage]]
 - [[permaculture-pond-construction]]
-- [[pond-and-aquaculture]]
 - [[query-what-is-a-gley-pond-and-how-does-it-work]]
-- [[sepp-holzer-pond-construction]]
-
-## See Also
-
 - [[swale]]
-- [[swale-design-water-harvesting]]
 - [[keyline-design]]
-- [[p-a-yeomans]]
 - [[bentonite-clay-sealing-mollison]]

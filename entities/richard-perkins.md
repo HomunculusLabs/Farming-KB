@@ -26,52 +26,8 @@ sources:
 
 ## Overview
 
-**Richard Perkins** is a British-born regenerative agriculture educator, farmer, author, and consultant, best known as the founder of **Ridgedale Permaculture** — a pioneering small-scale regenerative farm and education center established in Sweden in 2014. Perkins is widely recognized for his practical, systems-based approach to profitable small-scale farming, which integrates permaculture design, no-till market gardening, [[savory-holistic-management-overview]], pasture-based livestock, and agroforestry into a cohesive whole-farm planning framework. His work is particularly influential among smallholders, aspiring farmers, and homesteaders seeking to create ecologically regenerative and economically viable farm enterprises on modest land areas (typically 2–20 hectares).
-
-Perkins' book *Making Small Farms Work* (2015) and his extensive online educational content — including detailed farm walk videos, design case studies, and farm planning courses — have made him one of the most accessible and followed voices in the European regenerative agriculture movement. His emphasis on farm profitability, financial planning, and enterprise stacking distinguishes his work from much of the permaculture literature, which has historically been criticized for neglecting economic viability.
-
-## Biography
-
-### Early Career
-
-Perkins began his career in the construction industry in the United Kingdom before transitioning to permaculture and sustainable land management in the mid-2000s. He completed a Permaculture Design Certificate (PDC) and subsequently spent several years working as a permaculture design consultant on projects in the UK, Spain, and other European countries. His early consultancy work exposed him to the challenges facing small-scale landholders — particularly the difficulty of generating adequate income from ecologically managed smallholdings — which became a central theme of his later work.
-
-### Ridgedale Permaculture (2014–2022)
-
-In 2014, Perkins and his family relocated to Sweden to establish Ridgedale Permaculture on a 10-hectare former agricultural property near the village of Ödeshög in Östergötland County. The site — a degraded, conventionally managed farm with compacted soils, low biodiversity, and limited water retention — provided an ideal demonstration canvas for regenerative restoration. Perkins designed and implemented a comprehensive whole-farm system on the property over the following years, demonstrating that significant ecological recovery and profitable farm enterprises could be achieved simultaneously on a small scale.
-
-Key features of the Ridgedale farm system included:
-
-- **No-till market garden:** A 0.5-hectare intensive [[dry-gardening-unirrigated-vegetable-production-solomon]] area using permanent beds, occultation (solarization with silage tarps), compost mulching, and minimal soil disturbance to grow high-value vegetables, salad greens, and herbs for direct sale to local customers
-- **Pastured poultry:** Egg-laying hens in mobile coops following a [[comparison-rotational-grazing-vs-continuous-grazing]] pattern through the market garden and pasture areas, contributing fertility through manure deposition and pest control through insect consumption
-- **Holistic grazing:** Cattle and/or sheep managed according to Holistic Management principles, with high-density, short-duration grazing rotations designed to stimulate grass growth, cycle nutrients, and build soil carbon
-- **Agroforestry:** Integrated tree systems including shelterbelts, silvopasture, and food forest elements providing multiple yields (timber, fruit, fodder, biodiversity habitat)
-- **Water management:** Keyline-influenced water retention systems, including swales, ponds, and strategic tree planting to slow, spread, and sink surface water across the property
-- **On-farm composting:** Large-scale compost production using animal manures, crop residues, and carbon sources to close nutrient loops and build soil organic matter
-
-### International Education and Consulting
-
-From the Ridgedale base, Perkins developed an extensive educational program including:
-
-- **On-farm workshops and internships:** Hands-on training programs attracting participants from across Europe and beyond, covering market gardening, holistic management, farm design, and enterprise planning
-- **The Regenerative Agriculture Farm Profit Program:** A comprehensive online course covering the business and design aspects of starting and running a profitable regenerative small farm. The course includes modules on whole-farm design, enterprise selection, financial planning, marketing, and production systems.
-- **Consultancy services:** Farm design and business planning consultancy for clients across Europe, with particular focus on helping new farmers develop viable enterprise plans before committing capital to land and infrastructure
-- **Online content creation:** A prolific YouTube channel featuring farm walks, design analyses, and practical tutorials that has accumulated a substantial following among the international regenerative agriculture community
-
-### Current Work
-
-In 2022, Perkins relocated from Sweden, transitioning Ridgedale Permaculture into a new phase. He continues to operate as an independent educator, consultant, and content creator, focusing on farm-scale regenerative design, business planning for regenerative enterprises, and the development of open-source educational resources for the regenerative agriculture community.
-
-## Key Contributions
-
-### Making Small Farms Work
-
-Perkins' self-published book *Making Small Farms Work* (2015) is one of the most practical guides available for planning and managing a profitable small-scale regenerative farm. The book covers:
-
-- Whole-farm design methodology adapted from permaculture and Keyline Design principles
-- Market garden planning and production using no-till permanent bed systems
-- Enterprise analysis and financial planning for small farm businesses
-- [[faires-livestock-integration-permaculture]] in small-scale systems
+**Richard Perkins** is a British-born regenerative agriculture educator, farmer, author, and consultant, best known as the founder of **Ridgedale Permaculture** — a pioneering small-scale regenerative farm and education center established in Sweden in 2014. Perkins is widely recognized for his practical, systems-based approach to profitable small-scale farming, which integrates permaculture design, no-till market gardening, [[dry-gardening-unirrigated-vegetable-production-solomon]] area using permanent beds, occultation (solarization with silage tarps), compost mulching, and minimal soil disturbance to grow high-value vegetables, salad greens, and herbs for direct sale to local customers
+- **Pastured poultry:** Egg-laying hens in mobile coops following a [[faires-livestock-integration-permaculture]] in small-scale systems
 - Case studies from the Ridgedale [[holzer-lebenshilfe-permaculture-project-for-disabled-people]]
 - Appendices with crop planning templates, enterprise budgets, and design checklists
 
@@ -87,3 +43,88 @@ Perkins has been a prominent advocate for no-till market gardening methods in Eu
 - **Economic documentation:** Publishing detailed financial records from the Ridgedale operation, providing rare transparent data on the profitability of small-scale regenerative farming
 
 ### Farm Planning Framework
+
+## Overview
+
+Richard Perkins represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish richard perkins
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving richard extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Richard Perkins finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for richard perkins. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+richard perkins and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Richard Perkins has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of richard perkins into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[mckenna-richard-schultes-harvard-ethnobotany-psychoactive-plants]]
+- [[richard-alpert]]
+- [[richard-evans-schultes]]
+- [[richard-evans-schultes-updated]]
+- [[richard-gottlieb]]

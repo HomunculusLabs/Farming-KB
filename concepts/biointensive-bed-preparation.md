@@ -10,11 +10,8 @@ sources:
 # biointensive bed preparation (Double-Digging)
 
 Double-digging is the foundational soil preparation technique in the
-[[biointensive-close-plant-spacing]]
-- Incorporates [[biointensive-composting]]|compost, soil
-structure typically improves markedly within one [[savory-growing-season-and-non-growing-season-management]]. Within 3-5
-years of consistent GB practice, soil becomes remarkably friable and rich in
-[[hamilton-composting-and-organic-matter-management]], requiring less intensive
+[[biointensive-composting]]|compost, soil
+structure typically improves markedly within one [[hamilton-composting-and-organic-matter-management]], requiring less intensive
 cultivation.
 ## Common Mistakes and Pitfalls
 Several errors are commonly made by gardeners new to double-digging. Walking
@@ -53,16 +50,7 @@ excessive.
 Rocky or shallow soils over bedrock may not allow a full 24-inch
 depth. In
 these cases, the practical approach is to dig as deep as possible while
-avoiding hitting the subsoil layer that would damage tools. [[comparison-raised-beds-vs-hugelkultur]] built
-on top of shallow soil can effectively increase the root zone depth without
-excavation. In areas with hardpan (a dense, compacted layer below the
-topsoil), the broadfork is particularly useful for breaking through without
-major
-excavation.
-## Double-Digging and Soil Biology
-A key consideration often overlooked in discussions of double-digging is itsfungal-hyphaeil microbial communities. The initial doubjohn-jeavonstably
-disrupts [[fungal-hyphae]] and mycorrhizal connections. This is why [[john-jeavons]] recommends
-double-digging primarily for new beds and transitioning to [[jeavons-surface-cultivation-technique]]
+avoiding hitting the subsoil layer that would damage tools. [[fungal-hyphae]] and mycorrhizal connections. This is why [[jeavons-surface-cultivation-technique]]
 with a U-bar or broadfork for maintenance after the first year. The
 reduced-disturbance approach preserves the microbial networks that develop in
 established
@@ -118,8 +106,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[composting]]
 - [[hugelkultur]]
-- [[mycorrhiza]]
 - [[outdoor-woodlover-bed-preparation]]
 - [[coleman-bed-preparation-and-minimal-tillage]]

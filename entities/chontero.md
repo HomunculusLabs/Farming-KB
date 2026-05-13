@@ -23,32 +23,15 @@ A chontero is a type of sorcerer in Amazonian vegetalismo who specializes in inf
 - If the body has not been treated, the victim may experience great pain without knowing the cause and may even die.
 - A curandero can diagnose chontero sorcery by observing zigzagging lights surrounding the patient during ayahuasca diagnosis.
 - The chontero is typically a Shipibo shaman in Amaringo's depiction.
-- Chontero sorcery is one of three main types of dark sorcery described by Amaringo, alongside [[marupa-sorcery]] and [[huani-sorcery]].
+- Chontero sorcery is one of three main types of dark sorcery described by Amaringo, alongside [[huani-sorcery]].
 - Plants used by chonteros include: marañara (unidentified), tungara tree (unidentified), cocona-sacha (unidentified), siuca-huito (*Solanum kioniotrichum*), and alambre-casha (unidentified).
 
 ## Relevance to Cultivation and Mycology
 - Understanding the chontero tradition helps contextualize the defensive aspects of Amazonian plant medicine, where many plants serve protective functions against sorcery.
 - The dart materials (thorns, fangs, quills) reflect detailed knowledge of the natural history of Amazonian organisms.
-- The diagnostic method (observing zigzagging lights in [[ayahuasca-vision-art-and-shipibo-tradition]]) represents a form of spiritual diagnosis that guides treatment selection.
+- The diagnostic method (observing zigzagging lights in [[ayahuasca-preparation-pablo-amaringo-ucayali-shamanism]]'s [[amazonian-shamanic-battles-and-defensive-powers]].
 
-## Cultural Context
-The chontero appears in Vision 12 of [[ayahuasca-preparation-pablo-amaringo-ucayali-shamanism]]'s [[amaringo-ayahuasca-visions-shipibo-iconography]] (Three Types of Sorcerers). The concept of magical dart sorcery is widespread across Amazonian cultures and is one of the most commonly reported forms of illness-causing sorcery in anthropological literature on the region.
-
-## Diagnostic Pattern
-
-The chontero is important because the harm is hidden inside an apparently ordinary illness.
-
-A victim may feel pain without seeing a wound, because the dart is spiritual rather than grossly physical.
-
-Ayahuasca diagnosis reveals the attack as zigzagging lights around the patient.
-
-Those lights function as a visual signature of dart movement and sorcery trajectory.
-
-A trained curandero must identify not only that the patient is ill, but what kind of sorcerer has acted.
-
-This makes chontero diagnosis part of the broader defensive system in [[amazonian-shamanic-battles-and-defensive-powers]].
-
-It also connects the entity to [[ayahuasca-preparation-pablo-amaringo-ucayali-shamanism]] and [[shamanic-powers-and-mariris]].
+It also connects the entity to [[shamanic-powers-and-mariris]].
 
 ## Materials of the Dart
 
@@ -84,7 +67,7 @@ They create the conditions under which an attack becomes diagnosable and curable
 
 ## Relationship to Other Sorceries
 
-Chontero sorcery differs from [[marupa-sorcery]] and [[huani-sorcery]] by its emphasis on darts.
+Chontero sorcery differs from [[huani-sorcery]] by its emphasis on darts.
 
 The three sorcerer types form a practical taxonomy of harm.
 

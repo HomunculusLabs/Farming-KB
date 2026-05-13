@@ -98,6 +98,13 @@ The convergence of ancient belief systems on core truths about natural patterns 
 - **Accessible, shared understanding** is more robust than specialized, centralized knowledge
 
 ## See Also
-- [[mnemonics-of-meaning]]
 - [[buddhist-mnemonics-and-universal-pattern-beliefs]]
 - [[mnemonics-of-meaning-and-sacred-pattern]]
+
+## See Also
+
+- [[mnemonics-of-meaning]]
+- [[mnemonics-of-meaning-and-sacred-pattern]]
+- [[buddhist-mnemonics-and-universal-pattern-beliefs]]
+- [[tribal-pattern-encoding-and-mnemonics]]
+- [[powell-natural-intelligence-and-the-universal-computation]]

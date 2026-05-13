@@ -1,7 +1,7 @@
 ---
 title: Fukuoka Pruning Cascade Self Perpetuating Cycle
 created: 2026-04-28
-tags: [fukuoka, pruning, fruit-trees, orcharding, [[natural-farming]], intervention]
+tags: [fukuoka, pruning, fruit-trees, orcharding, natural-farming, intervention]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/administrator-microsoft-word-fukuoka-textdoc.md]
@@ -70,30 +70,8 @@ annual cycle of corrective pruning that never ends.
 ## Sapling Damage at Transplant
 
 The cascade often begins before the tree is even
-established in the orchard. A [[comparison-berry-growing-vs-fruit-tree-pruning]] sapling is first
-dug up and the roots trimmed, then the stem is cut back
-to a length of one or two feet and the sapling planted.
-This first pruning operation alone robs the tree of its
-natural form. The sapling begins to put out buds and
-suckers in a complex and confused manner that requires
-the fruit grower to be always at the ready with his
-pruning shears. From the very first day in the ground,
-the tree is already on the cascade.
-
-## Reversing the Cascade
-
-Fukuoka's approach to reversing the cascade is radical.
-Rather than attempting to correct an already deformed tree
-through increasingly complex pruning, he advocates starting
-over with the natural form as the model for the basic tree
-shape. If you draw a mental picture of the natural form of
-a tree and make every effort to protect the tree from the
-
-## See Also
-- [[fukuoka-textdoc-pruning-self-perpetuating-human-error]]
-- [[fukuoka-argument-against-pruning-trees-natural-growth]]
+established in the orchard. A [[fukuoka-textdoc-pruning-self-perpetuating-human-error]]
 - [[fukuoka-orchard-without-pruning]]
-- [[fukuoka-no-pruning-philosophy-fruit-trees]]
 - [[fukuoka-argument-against-pruning]]
 
 ## Practical Applications
@@ -125,8 +103,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[doc]]
 - [[det]]
-- [[fukuoka-textdoc-pruning-self-perpetuating-human-error]]
 - [[fukuoka-ecosystem-cascade-pine-beetle-nematode-bamboo]]
 - [[fukuoka-pine-forest-ecosystem-collapse-cascade-matsutake]]

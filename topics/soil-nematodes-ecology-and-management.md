@@ -1,6 +1,6 @@
 ---
 title: "Soil Nematodes — Ecology and Management"
-subtitle: "The hidden world of roundworms that drive [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] and challenge agriculture"
+subtitle: "The hidden world of roundworms that drive comparison-nutrient-cycling-vs-nutrient-dense-gardening and challenge agriculture"
 tags: [nematodes, soil-ecology, soil-food-web, pest-management, nutrient-cycling, biological-control]
 date: 2026-05-08
 updated: 2026-05-08
@@ -42,37 +42,7 @@ Scaled up, agricultural soils can harbor billions of these microscopic
 roundworms per acre. They occupy every trophic level of the soil food
 web: some graze on bacteria, others pierce fungal hyphae, a few hunt
 their fellow nematodes, and a minority parasitize plant roots. Their
-collective [[arbuscule-isolation-metabolic-activity-assays]] releases vast quantities of plant-
-available nitrogen, phosphorus, and other nutrients that would
-otherwise remain locked inside microbial cells. Without nematodes and
-their protozoan counterparts, the soil food web's nutrient delivery
-system would grind to a halt.
-
-This article explores nematode biology, their roles in ecosystem
-function, the serious agricultural damage caused by plant-parasitic
-species, and the integrated management strategies that harness the
-soil food web to keep pest populations in check.
-
-## Nematode Biology and Classification
-
-Nematodes, from the Greek word *nema* meaning "thread," are
-nonsegmented, blind roundworms belonging to the phylum Nematoda.
-They are among the most abundant multicellular organisms on the
-planet, second only to arthropods in total species count. Over 20,000
-species have been formally described, but scientists estimate the
-true number may reach one million or more. Their size ranges from
-0.1 millimeters to over 8 meters (in the case of the whale parasite
-Placentonema gigantissima), but soil-dwelling species typically
-measure 0.5 to 2 millimeters in length and about 50 micrometers in
-diameter.
-
-Their body plan is elegantly simple: a cylindrical tube within a tube,
-with a cuticle-covered exterior, longitudinal muscles, and a complete
-digestive tract running from mouth to anus. Most soil nematodes are
-transparent or whitish, making them difficult to see without a
-microscope. Despite their simplicity, they have colonized virtually
-every habitat on Earth, from deep ocean trenches and hot springs to
-Antarctic soils and [[arbuscular-mycorrhizal-fungi-in-tropical-forest-restoration]] canopies.
+collective [[arbuscular-mycorrhizal-fungi-in-tropical-forest-restoration]] canopies.
 
 The mouthparts of nematodes are the key feature used to classify
 their feeding ecology. Bacterial-feeding nematodes possess a hollow
@@ -109,14 +79,9 @@ underlying food web structure. Soils dominated by fungal feeding
 nematodes tend to be more mature, less disturbed, and associated
 ## See Also
 
-[[the-soil-food-web]] | [[trichoderma-and-biocontrol-fungi]] |
-[[fungal-spore-biology-and-dispersal-mechanisms]] |
-vermicomposting-and-earthworm-ecology |
+[[trichoderma-and-biocontrol-fungi]] |
 [[integrated-pest-management-ipm]] |
-[[compost-tea-and-biological-extracts]] |
-[[mycorrhizal-fungi]] | [[nitrogen-cycle-in-agriculture-and-ecosystems]] |
-[[soil-structure-and-aggregate-ecology]] |
-[[chitin-and-chitosan-in-agriculture]] |
+[[mycorrhizal-fungi]] | [[soil-structure-and-aggregate-ecology]] |
 [[mushroom-contamination-identification-and-troubleshooting]]
 
 ## References

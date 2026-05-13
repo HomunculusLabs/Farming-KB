@@ -18,13 +18,7 @@ sources:
 
 ## Overview
 
-**Centrolobium paraense** is a Neotropical [[dalbergia-sissoo-permaculture-timber-tree]] in the family Fabaceae, subfamily Faboideae, commonly known as **araribá** or **pau-rainha** in Brazil. It is renowned for producing a dense, durable hardwood with a striking yellow-orange heartwood that darkens to reddish-brown with age.
-
-The species reaches heights of 25–35 meters in natural forest settings, with a straight cylindrical bole up to 18 meters. It is valued both as a commercial timber species and as an ornamental street tree in tropical urban landscapes.
-
-In open-grown conditions the crown is broad and spreading, providing ample shade. The tree's showy yellow flowers make it attractive for avenue plantings in cities such as Manaus and Belém.
-
-Araribá is distributed across the Amazon Basin and surrounding regions, from eastern Peru and western Brazil through the Guianas. It plays a notable ecological role as a nitrogen-fixing legume in primary and secondary [[fungal-biodiversity-tropical-forests]].
+**Centrolobium paraense** is a Neotropical [[fungal-biodiversity-tropical-forests]].
 
 Natural populations have declined due to selective logging, as the species is targeted for its premium heartwood. It is listed as near-threatened in several Brazilian state red lists, though not yet on the IUCN global Red List.
 
@@ -57,23 +51,7 @@ C. paraense occurs naturally across the Brazilian Amazon, extending into eastern
 
 Specimens have been recorded from Acre, Amazonas, Pará, and Rondônia states in Brazil, with disjunct populations in the upper Orinoco basin of Venezuela. Populations are generally scattered at low densities rather than forming pure stands.
 
-The species grows in both terra firme (non-flooded) and seasonally flooded lowland [[tropical-rainforest-seedling-mycorrhiza-ecological-restoration]]. It is most common in well-drained clay or sandy-loam soils of primary forest, but also colonizes disturbed sites and secondary growth.
-
-Mean annual rainfall in its native range is 1,500–3,000 mm with a pronounced dry season of 3–5 months. It is intolerant of frost and sustained temperatures below 10°C.
-
-The species shows moderate tolerance to seasonal waterlogging, found along river margins and in várzea forest edges. However, optimal growth occurs on well-aerated upland soils with good internal drainage.
-
-Soil pH preferences range from slightly acidic to neutral (5.5–7.0). It is absent from highly leached white-sand soils (campinas) and from permanently waterlogged igapó forest.
-
-## Wood Properties and Uses
-
-Araribá heartwood is dense (0.75–0.90 g/cm³ at 12% moisture), with a fine to medium texture and interlocked grain. The wood is moderately difficult to work but turns, glues, and finishes well.
-
-Mechanical properties include a modulus of rupture of approximately 90–110 MPa and a Janka hardness of 7,500–9,500 N. These values place araribá among the stronger Neotropical hardwoods, suitable for load-bearing applications.
-
-Heartwood color ranges from bright yellow-orange when freshly cut to deep reddish-brown after exposure. This distinctive coloration makes it popular for decorative veneers, fine furniture, and luxury flooring.
-
-The timber has excellent natural durability, rated as resistant to decay and insect attack. It is used structurally for bridges, railway sleepers, and heavy construction [[fukuoka-natural-farming-in-tropical-regions]].
+The species grows in both terra firme (non-flooded) and seasonally flooded lowland [[fukuoka-natural-farming-in-tropical-regions]].
 
 The wood is also valued for musical instruments, particularly guitar backs and sides, owing to its tonal resonance. It is sometimes marketed internationally as "Brazilian tulipwood," though this name is more properly applied to unrelated Dalbergia species.
 
@@ -88,3 +66,80 @@ Germination rates of 70–85% are achievable with freshly collected, scarified s
 Plantations are established at spacings of 3 × 3 to 5 × 5 meters. Growth in managed plantations is moderate, with mean annual increment of 1.5–3.0 cm in diameter under favorable conditions.
 
 Rotation lengths in plantation forestry range from 25 to 40 years for [[honey-locust-pod-fodder-timber-production]]. Thinning is recommended at 8–10 years to reduce competition and promote straight bole development.
+
+## Overview
+
+Centrolobium Paraense represents an important element within sustainable
+design and [[solomon-gardening-aikido-pest-philosophy-ecological-management]] systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish centrolobium paraense
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving centrolobium extend
+across multiple [[ingham-soil-foodweb-trophic-levels-protozoa-nematodes]] and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Centrolobium Paraense finds practical application in multiple design contexts.
+[[mollisonian-permaculture-principles]] guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive [[livestock-grassland-management-strategies]] that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for centrolobium paraense. [[jeavons-climate-adaptation-growing-seasons]]
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+centrolobium paraense and its applications. Active investigation
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Centrolobium Paraense has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of centrolobium paraense into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.

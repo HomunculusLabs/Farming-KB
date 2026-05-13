@@ -2,19 +2,13 @@
 
 ---
 created: 2026-05-08
-source: fanaticus-pf-tek-psilocybe-fanaticus.md
+source: fanaticus-[[pf-tek-psilocybe-fanaticus]].md
 tags: [pf-tek, vermiculite, substrate, water-holding-capacity, cultivation, mushroom-growing, horticultural-media]
 ---
 
 ## Overview
 
-The type of vermiculite used in the PF TEK [[pf-tek-measurement-calibration-and-substrate-formula-precision]] significantly affects water holding capacity and overall substrate performance. [[pf-tek-psilocybe-fanaticus-cultivation-method]] explicitly addressed vermiculite selection in the PF TEK instructions, noting that vermiculite particle size varies considerably between brands and that the coarser type holds less water than the finer type. This variation is critical because the PF TEK substrate relies on vermiculite as both the structural base and the primary water reservoir for [[brassinosteroid-psilocybe-cubensis-mycelial-growth-research]].
-
-## The Role of Vermiculite in PF TEK
-
-### Why Vermiculite Is Essential
-
-Vermiculite is described by PF as the "magic ingredient" of the PF TEK and its "secret." The substrate formula is fundamentally a [[cho-brown-rice-vinegar-preparation]] method improved by using vermiculite as a base and adding pulverized brown rice on top. The vermiculite serves several critical functions:
+The type of vermiculite used in the PF TEK [[pf-tek-psilocybe-fanaticus-cultivation-method]] explicitly addressed vermiculite selection in the PF TEK instructions, noting that vermiculite particle size varies considerably between brands and that the coarser type holds less water than the finer type. This variation is critical because the PF TEK substrate relies on vermiculite as both the structural base and the primary water reservoir for [[cho-brown-rice-vinegar-preparation]] method improved by using vermiculite as a base and adding pulverized brown rice on top. The vermiculite serves several critical functions:
 
 1. **Air space creation:** When mycelium is cultured in just grain, it turns into a dense mass with little air space. Vermiculite creates air gaps that allow mycelial threads to stretch across space rather than compacting
 2. **Water reservoir:** The expanded mineral structure of vermiculite absorbs and retains water, providing consistent moisture to the growing mycelium
@@ -31,7 +25,7 @@ Fine vermiculite is recommended over the coarser type because it holds more wate
 - **Average particle size:** Approximately 1 millimeter across (some larger, some smaller)
 - **Water holding capacity:** Higher than coarse vermiculite
 - **Air space:** Still adequate for mycelial growth despite finer particle size
-- **Suitability:** Ideal for the standard PF TEK substrate formula
+- **Suitability:** Ideal for the standard [[pf-tek-substrate-formula]]
 
 ### Coarse Vermiculite (Not Recommended)
 

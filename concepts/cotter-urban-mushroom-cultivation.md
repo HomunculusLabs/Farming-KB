@@ -12,15 +12,8 @@ type: concept
 # Urban Mushroom Cultivation
 
 Mushrooms can be cultivated in tight urban spaces with minimal infrastructure.
-From closets and spare bathrooms to rooftops, balconies, [[gaias-garden-creating-community-gardens]], and
-repurposed shipping containers, creative use of available space enables
-substantial production. [[query-how-to-grow-oyster-mushrooms-at-home]] are the primary species for small-space
-cultivation due to their aggressive growth, low [[growing-gourmet-light-requirements-mushroom-fruiting]], and
-adaptability to diverse substrates.
-
-## Indoor Small-Space Cultivation
-
-The most efficient mushrooms for indoor small-space fruiting are [[cultivation-of-oyster-mushrooms]]
+From closets and spare bathrooms to rooftops, balconies, [[query-how-to-grow-oyster-mushrooms-at-home]] are the primary species for small-space
+cultivation due to their aggressive growth, low [[cultivation-of-oyster-mushrooms]]
 (Pleurotus spp.). As many as thirty 5-pound bags of inoculated substrate,
 enough to produce 8 to 10 pounds of oyster mushrooms per week, can be housed on
 a five-tiered rack placed near a window. This setup takes approximately 6 square
@@ -56,24 +49,12 @@ for growing greens and vegetables on sunny balconies and rooftops.
 
 Outdoor cultivation on rooftops and balconies benefits from fresh air, natural
 humidity, and abundant vacant square footage. Use reflective shade cloth in the
-80 to 90 percent range during summer months or year-round in [[fukuoka-natural-farming-tropical-climates]]
-to lower temperatures and prevent sun damage to developing mushrooms. Tightly
-woven shade cloth doubles as insect netting against fungus gnats. Construct a
-simple pole structure with shade cloth draped over the top and sides, with
-overlapping flaps serving as entry points.
-
-Mushrooms integrate into hybrid rooftop systems combining vegetables and fungi in
-a circular nutrient flow. Use dried plant matter as [[gourmet-medicinal-mushroom-substrate-preparation]], then
-cycle [[staycare-spent-mushroom-compost-bioremediation]] compost back into vegetable beds. Choose seasonal oyster
-strains matching your climate: phoenix, warm blue, golden, and pink oysters for
-warmer months; elm, brown, cold blue, and white for cooler months. Overproduce
-during [[query-how-to-protect-plants-from-frost-and-extend-the-growing-season]] and dry excess mushrooms for off-season use.
+80 to 90 percent range during summer months or year-round in [[gourmet-medicinal-mushroom-substrate-preparation]], then
+cycle [[query-how-to-protect-plants-from-frost-and-extend-the-growing-season]] and dry excess mushrooms for off-season use.
 
 ## Community Gardens and Public Spaces
 
-Mushrooms complement [[fukuoka-textdoc-semi-wild-vegetable-cultivation]] in community gardens beautifully.
-Tall, sun-loving vegetable plants create shade where mushrooms thrive, while
-mycelia unlock soil nutrients and encourage [[teaming-with-microbes-fungi-and-mycorrhizal-relationships]]. King
+Mushrooms complement [[teaming-with-microbes-fungi-and-mycorrhizal-relationships]]. King
 stropharia grows well in hardwood chip mulch and pathways, while blewits and
 almond portabellas thrive in manure-based composts. Log cultivation is one of
 the easiest methods for incorporating mushrooms into community gardens, requiring
@@ -117,8 +98,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[mushroom-cultivation]]
 - [[oyster-mushroom]]
-- [[doc]]
 - [[mycorrhiza]]
 - [[oyster-mushrooms]]

@@ -61,9 +61,7 @@ design and sustainable land management methodologies.
 
 ## See Also
 - ekman spiral mollison
-- [[mollison-designers-herb-spiral-design-construction]]
 - [[mollison-spiral-patterns-in-nature-and-design]]
-- [[mollison-designers-domestic-herb-spiral-and-kitchen-garden]]
 - [[von-karman-trails-and-ekman-spirals]]
 
 ## Historical Context
@@ -87,3 +85,11 @@ for designing regenerative human settlements and agricultural systems.
 These ideas continue to influence ecological design education worldwide.
 
 ## Related Concepts
+
+## See Also
+
+- [[von-karman-trails-and-ekman-spirals]]
+- [[fibonacci-spiral]]
+- [[mollison-designers-herb-spiral-design-construction]]
+- [[herb-spiral]]
+- [[anasazi-spiral-calendar-and-pattern-timekeeping]]

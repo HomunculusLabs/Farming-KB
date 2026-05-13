@@ -3,7 +3,7 @@ title: Savory Ranch Financial Planning
 created: 2026-04-26
 aliases: [holistic financial planning, gross margin analysis, wealth generation, ranch economics]
 tags: [financial-planning, ranch-economics, gross-margin, wealth-generation, holistic-management]
-related: [[savory-holistic-decision-making]], savory-holistic-management-overview, [[savory-livestock-grazing-planning]]
+related: savory-livestock-grazing-planning
 type: concept
 sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
@@ -13,14 +13,7 @@ updated: 2026-04-26
 
 # Ranch Financial Planning in Holistic Management
 
-Financial planning in [[savory-holistic-resource-management-animal-impact]] Management extends far beyond conventional accounting. It integrates economic analysis with ecological and social considerations, ensuring that profitability arises from genuinely sustainable practices rather than from mining the resource base.
-
-## The Triple Bottom Line
-
-HRM requires that every financial decision be tested against three criteria simultaneously:
-
-1. **Economic soundness**: Does the action or investment produce a genuine return?
-2. **Ecological sustainability**: Does it maintain or improve the four [[savory-ecosystem-foundation-blocks]] blocks?
+Financial planning in [[savory-ecosystem-foundation-blocks]] blocks?
 3. **Social and cultural acceptability**: Does it support the quality of life goals of all people involved?
 
 This triple bottom line is not optional. A practice that is profitable but damages the land, or one that preserves the land but bankrupts the family, fails the holistic test. The three-part goal—quality of life, forms of production, and future landscape—provides the framework for evaluating all financial decisions.
@@ -70,7 +63,7 @@ The financial planning process tests whether the production strategy relies on s
 - Will profit depend on suppressing symptoms rather than addressing causes?
 - Do inputs pass all testing guidelines AND represent the best marginal reaction for reinvesting wealth?
 
-The fundamental principle: [[fukuoka-textdoc-three-dimensional-solar-energy-methodless-method]] converted through green plants is our most fundamental and sustainable basis of wealth. [[fukuoka-critique-modern-agriculture]] consumes about 9.8 calories of petrochemical energy to produce one calorie of food energy—a ratio that cannot continue indefinitely.
+The fundamental principle: [[fukuoka-critique-modern-agriculture]] consumes about 9.8 calories of petrochemical energy to produce one calorie of food energy—a ratio that cannot continue indefinitely.
 
 ## Annual Financial Planning Procedure
 

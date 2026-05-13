@@ -35,41 +35,7 @@ The species epithet *mangle* derives from the Taino word for the tree, adopted i
 
 Red mangrove is an evergreen tree reaching 10–20 meters in height under optimal conditions. Mature trees develop a spreading canopy with leathery, elliptical leaves 5–15 cm long.
 
-The leaves are opposite, simple, entire, and dark green on the upper surface with small salt-excreting glands on the underside. Leaf drop averages 2–3 leaves per cm² of canopy per month, contributing significant [[hamilton-composting-and-organic-matter-management]] to the detrital food web.
-
-**Prop roots** are the diagnostic feature — thick, reddish-brown aerial roots that arch outward from the lower trunk before entering the substrate. A single mature tree may produce dozens of prop roots, creating a dense root labyrinth that supports diverse epifaunal communities.
-
-Flowers are small, yellowish, and bisexual, appearing in pairs on short stalks. The fruit is a distinctive elongated, conical propagule 15–30 cm long that germinates while still attached to the parent tree (vivipary).
-
-## Distribution and Habitat
-
-Red mangrove occupies intertidal zones from the upper limit of spring tides down to the subtidal fringe. It is the most seaward mangrove species in most Atlantic communities, colonizing mudflats, sand bars, reef flats, and stabilized coral rubble.
-
-Its native range extends along the Atlantic coast of the Americas from Bermuda and Florida through the Gulf of Mexico, Caribbean, and Central and South America to southern Brazil. On the Pacific side, it occurs from Baja California to Ecuador and the Galápagos Islands.
-
-In West Africa, the species ranges from Senegal to Angola, including the Gulf of Guinea islands. Isolated populations exist on Pacific islands where it has been introduced or naturally dispersed.
-
-Red mangrove tolerates salinities from near-freshwater to full seawater (35 ppt). Growth is optimal at 10–25 ppt and temperatures above 20°C. It is sensitive to frost, which limits its poleward range.
-
-## Ecology and Environmental Role
-
-Red mangrove is a keystone species of coastal tropical ecosystems. Its prop root complex provides structural habitat for oysters, barnacles, sponges, tunicates, and juvenile fish. Studies have documented over 200 species of fish utilizing mangrove root systems as nursery grounds.
-
-The species contributes significantly to coastal [[mycorrhizal-fungi-soil-carbon-sequestration-by-type]]. Mangrove soils store an average of 1,023 Mg C ha⁻¹, roughly three to five times more than terrestrial forests on a per-area basis. This "blue carbon" makes mangrove conservation a priority for [[dighton-fungi-climate-change-feedback]] mitigation.
-
-Prop roots dissipate wave energy, reducing erosion and protecting shorelines during storms. Studies estimate that a 100-meter-wide mangrove belt can reduce wave height by 66%, providing billions of dollars in avoided flood damage annually.
-
-Leaf litter from *R. mangle* fuels detrital food webs. Decomposing leaves support microbial communities, crabs, snails, and filter feeders. This productivity subsidy extends to adjacent seagrass beds and coral reefs.
-
-Red mangrove forests provide nesting habitat for numerous bird species, including herons, egrets, ibises, and kingfishers. The canopy also supports epiphytic orchids, bromeliads, and lianas in humid tropical regions.
-
-## Uses and Applications
-
-Red mangrove wood is dense, durable, and resistant to marine borers, making it historically valuable for pilings, boat construction, railroad ties, and fencing. The bark contains 15–27% tannins and was a major source of dye and leather tanning material in the colonial Americas.
-
-In traditional medicine, bark extracts have been used to treat diarrhea, dysentery, fever, and wounds. The astringent properties are attributed to polyphenolic compounds including catechins, proanthocyanidins, and gallotannins.
-
-Modern applications include [[comparison-mangrove-restoration-vs-constructed-wetlands]] for coastal defense and carbon credit projects. Red mangrove is the primary species used in mangrove plantation programs due to its rapid establishment from propagules and broad environmental tolerance.
+The leaves are opposite, simple, entire, and dark green on the upper surface with small salt-excreting glands on the underside. Leaf drop averages 2–3 leaves per cm² of canopy per month, contributing significant [[mycorrhizal-fungi-soil-carbon-sequestration-by-type]]. Mangrove soils store an average of 1,023 Mg C ha⁻¹, roughly three to five times more than terrestrial forests on a per-area basis. This "blue carbon" makes mangrove conservation a priority for [[comparison-mangrove-restoration-vs-constructed-wetlands]] for coastal defense and carbon credit projects. Red mangrove is the primary species used in mangrove plantation programs due to its rapid establishment from propagules and broad environmental tolerance.
 
 The species is planted for aquaculture pond stabilization and as a biological filter in integrated mangrove-aquaculture systems. Prop root microhabitats support edible oyster and crab populations that provide supplementary livelihoods for coastal communities.
 
@@ -81,12 +47,83 @@ Optimal planting conditions include sheltered sites with minimal wave exposure, 
 
 Propagation from seeds in nurseries is also practiced. Seeds germinate in 7–14 days under humid conditions and produce transplantable seedlings within 4–6 months. Nursery-grown seedlings allow better control of planting density and species composition.
 
-Major restoration initiatives include the Mangrove Capital of Africa project in Senegal, the "Mangrove for the Future" program across [[psilocybe-southeast-asia-pacific]], and large-scale replanting efforts in Vietnam, Thailand, and Bangladesh following cyclone damage.
-
-## See Also
-
-- [[spartina-alterniflora]]
-- [[arundo-donax]]
+Major restoration initiatives include the Mangrove Capital of Africa project in Senegal, the "Mangrove for the Future" program across [[spartina-alterniflora]]
 - [[portulaca-oleracea]]
-- [[ulva-lactuca]]
 - [[palmaria-palmata]]
+
+## Overview
+
+Rhizophora Mangle represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish rhizophora mangle
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving rhizophora extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Rhizophora Mangle finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for rhizophora mangle. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+rhizophora mangle and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Rhizophora Mangle has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of rhizophora mangle into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.

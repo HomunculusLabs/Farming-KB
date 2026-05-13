@@ -12,7 +12,7 @@ tags: [cannabis, nutrients, toxic]
 
 ## Overview
 
-Nutrient toxicity occurs when any essential element is present in excess, causing [[blesching-cannabis-safety-adverse-effects-evidence]] on [[cannabis-growth-stage-checklist]]. Toxic conditions can be as damaging as deficiencies and are often more difficult to diagnose because excess of one nutrient typically causes a deficiency of another. Overfertilization is one of the biggest problems for indoor growers.
+Nutrient toxicity occurs when any essential element is present in excess, causing [[cannabis-growth-stage-checklist]]. Toxic conditions can be as damaging as deficiencies and are often more difficult to diagnose because excess of one nutrient typically causes a deficiency of another. Overfertilization is one of the biggest problems for indoor growers.
 
 ## General Principles
 
@@ -43,9 +43,7 @@ Nutrient toxicity occurs when any essential element is present in excess, causin
 
 ### Potassium Toxicity
 
-- Difficult to diagnose; mixed with other [[cannabis-grow-nutrient-deficiency-problem-solving]] symptoms
-- Impairs absorption of magnesium, manganese, and sometimes zinc and iron
-- Look for secondary [[knf-calcium-deficiency-symptoms]] of these nutrients
+- Difficult to diagnose; mixed with other [[knf-calcium-deficiency-symptoms]] of these nutrients
 
 ## Secondary Nutrient Toxicities
 
@@ -53,30 +51,7 @@ Nutrient toxicity occurs when any essential element is present in excess, causin
 
 - Rare and difficult to discern with the naked eye
 - Conflicts with other fertilizer ions, usually calcium
-- More common in [[hydroponic-nutrient-management]] solutions
-- Can inhibit calcium uptake
-
-### Calcium Toxicity
-
-- Difficult to see in foliage; causes wilting
-- Exacerbates deficiencies of potassium, magnesium, manganese, and iron
-- Excess early in life can stunt growth
-- In hydroponics, precipitates with sulfur forming gypsum (calcium sulfate)
-
-### Sulfur Toxicity
-
-- No problems at low EC; problematic at high EC
-- Blocks uptake of other nutrients when plants take up more sulfur
-- Smaller plant development and uniformly smaller, dark-green foliage
-- Leaf tips and margins discolor and burn when severe
-
-## Micronutrient Toxicities
-
-### Zinc Toxicity -- Extremely Dangerous
-
-- Severely toxic plants die quickly
-- Excess zinc interferes with iron function
-- Causes [[query-how-to-identify-and-fix-cannabis-iron-deficiency]] symptoms
+- More common in [[query-how-to-identify-and-fix-cannabis-iron-deficiency]] symptoms
 
 ### Copper Toxicity -- Extremely Dangerous
 
@@ -117,8 +92,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[cannabis-nutrient-burn-and-toxicity]]
 - [[cannabis-nutrient-deficiency-and-toxicity-guide]]
-- [[query-how-to-read-cannabis-plants-for-nutrient-problems]]
 - [[cannabis-zinc-nutrient]]
 - [[cannabis-manganese-nutrient]]

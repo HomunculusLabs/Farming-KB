@@ -18,9 +18,7 @@ sources:
 
 ## Overview
 
-**Gaultheria shallon** is an evergreen shrub in the family Ericaceae, commonly known as salal, shallon, or gaultheria. It is native to western [[psilocybin-north-america-pacific-northwest]], occurring from coastal southern Alaska to central California, primarily in the Pacific coastal forests.
-
-Salal is one of the most abundant and ecologically important understory shrubs in Pacific Northwest coniferous forests. It forms extensive dense mats that dominate the forest floor, influencing succession dynamics, fire behavior, and [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]].
+**Gaultheria shallon** is an evergreen shrub in the family Ericaceae, commonly known as salal, shallon, or gaultheria. It is native to western [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]].
 
 The species produces edible dark purple berries that have been a significant food source for indigenous peoples for thousands of years. Commercial harvest of salal foliage for the floral industry is a multimillion-dollar enterprise in the Pacific Northwest.
 
@@ -52,7 +50,7 @@ Gaultheria shallon is native to western North America, ranging from Baranof Isla
 
 In the Cascades and Coast Ranges, the species extends inland to approximately 200 km from the coast. Isolated populations occur in the Idaho panhandle and western Montana. Elevational range is sea level to approximately 1,200 meters.
 
-The species is characteristic of the understory of coniferous forests dominated by Douglas-fir (*Pseudotsuga menziesii*), western hemlock (*Tsuga heterophylla*), western redcedar (*Thuja plicata*), and Sitka spruce (*Picea sitchensis*).
+The species is characteristic of the understory of coniferous forests dominated by [[douglas-fir]] (*Pseudotsuga menziesii*), western hemlock (*Tsuga heterophylla*), western redcedar (*Thuja plicata*), and Sitka spruce (*Picea sitchensis*).
 
 It also thrives in coastal scrub, sand dune communities, peat bogs, and forest openings. Optimal growth occurs in partial shade on well-drained to moist acidic soils (pH 4.0–6.0) with high organic matter content.
 
@@ -70,9 +68,7 @@ Mammalian consumers include black bears, Roosevelt elk, black-tailed deer, racco
 
 The evergreen foliage provides year-round cover for ground-nesting birds and small mammals. Dense salal thickets create favorable microclimates with higher humidity and moderated temperature extremes.
 
-Pollinators include bumblebees, honeybees, and [[comparison-honey-bees-vs-native-solitary-bees]] bees. The flowers produce moderate nectar volumes and are visited consistently during the spring bloom period when few other understory plants are flowering.
-
-[[dighton-ericoid-mycorrhizal-nutrient-acquisition]] associations facilitate nutrient uptake from the acidic forest floor. The slow-decomposing leaf litter creates a thick organic horizon that influences soil chemistry and microbial [[core-endorhiza-bacterial-community-composition-cannabis]].
+Pollinators include bumblebees, honeybees, and [[dighton-ericoid-mycorrhizal-nutrient-acquisition]] associations facilitate nutrient uptake from the acidic forest floor. The slow-decomposing leaf litter creates a thick organic horizon that influences soil chemistry and microbial [[core-endorhiza-bacterial-community-composition-cannabis]].
 
 ## Edibility and Uses
 

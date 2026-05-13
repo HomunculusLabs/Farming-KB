@@ -36,37 +36,7 @@ The inflorescence is a terminal head (capitulum) 3–5 cm wide, surrounded by le
 
 A. macrocephala is endemic to China, occurring in Zhejiang, Anhui, Hubei, Hunan, Jiangxi, Fujian, and Sichuan provinces. It grows on mountain slopes, forest edges, grassy hillsides, and cultivated fields at elevations of 500–1,800 m.
 
-The plant prefers a cool, moist climate with well-drained, humus-rich soils. Wild populations have declined significantly due to over-harvesting, and most commercial supply now comes from cultivated sources. Zhejiang Province is the [[lichens-primary-production-soil-formation-dighton]] region.
-
-Cultivation typically requires 2–3 years before rhizomes reach harvestable size. Major cultivation areas include Pan'an County (Zhejiang), Yingshan County (Hubei), and Yuexi County (Anhui). Propagation is primarily by rhizome division.
-
-## Chemistry and Pharmacology
-
-The rhizome contains a complex mixture of sesquiterpenes, sesquiterpene lactones, polysaccharides, and polyacetylenes. Principal sesquiterpenes include atractylenolide I, II, and III, which are considered the major bioactive markers.
-
-Atractylenolide I is the most extensively studied compound, demonstrating anti-inflammatory activity through inhibition of NF-κB and MAPK signaling pathways. Atractylenolide III shows immunomodulatory effects, enhancing macrophage phagocytosis and cytokine production.
-
-Atractylon, another sesquiterpene, exhibits hepatoprotective and anti-ulcer activities. A polysaccharide fraction (AMP) has demonstrated significant immunostimulatory effects, increasing spleen and thymus indices in animal models.
-
-The [[permaculture-designers-manual-essential-oil-plants]] contains β-eudesmol, atractylon, and hinesol as major constituents. These [[query-how-do-fungal-volatile-compounds-affect-plant-growth-and-other-microorganisms]] contribute to the aromatic properties of the herb and have documented antibacterial activity against gastrointestinal pathogens.
-
-Modern pharmacological studies confirm gastroprotective effects including increased gastric mucus secretion, inhibition of gastric acid, and promotion of mucosal healing. Anti-tumor activity has been reported for atractylenolide III in multiple cancer cell lines.
-
-## Traditional Chinese Medicine
-
-In TCM, *Bai Zhu* (白术) is classified as sweet, bitter, and warm. It enters the spleen and stomach meridians. Its primary functions are tonifying qi, strengthening the spleen, drying dampness, promoting diuresis, and stabilizing the fetus.
-
-It is a key ingredient in numerous classical formulas. *Si Jun Zi Tang* (Four Gentlemen Decoction) uses Bai Zhu as one of four herbs to tonify spleen qi. *Shen Ling Bai Zhu San* combines Bai Zhu with Poria and other herbs for chronic diarrhea and digestive weakness.
-
-The herb is frequently combined with *Fu Ling* (Poria) for dampness-related conditions, and with *Huang Qi* (Astragalus) for qi deficiency. In pregnancy-related applications, it is combined with *Sang Ji Sheng* to prevent miscarriage.
-
-Typical daily dosage is 6–12 g of dried rhizome in decoction. The herb is often dry-fried or stir-baked with wheat bran to enhance its tonifying properties. Overdose may cause dry mouth, constipation, or abdominal distension.
-
-## Cultivation
-
-Cultivated A. macrocephala is typically planted in spring from rhizome segments (tubers), spaced 25–30 cm apart in rows 40–50 cm apart. The plant requires partial shade during the seedling stage and full sun during rhizome development.
-
-Key management practices include careful drainage (waterlogging causes root rot), regular weeding, and top-dressing with [[hamilton-organic-fertilizers-and-plant-nutrition]]. Disease pressures include rhizome rot (Fusarium spp.), rust (Puccinia spp.), and [[cervantes-powdery-mildew-prevention-treatment]].
+The plant prefers a cool, moist climate with well-drained, [[humus]]-rich soils. Wild populations have declined significantly due to over-harvesting, and most commercial supply now comes from cultivated sources. Zhejiang Province is the [[permaculture-designers-manual-essential-oil-plants]] contains β-eudesmol, atractylon, and hinesol as major constituents. These [[hamilton-organic-fertilizers-and-plant-nutrition]]. Disease pressures include rhizome rot (Fusarium spp.), rust (Puccinia spp.), and [[cervantes-powdery-mildew-prevention-treatment]].
 
 Harvesting occurs 2–3 years after planting when the aerial parts senesce in late autumn. Rhizomes are washed, sliced, and dried in the sun or by artificial heat. Processing methods (raw, stir-fried, bran-fried, soil-fried) produce different therapeutic properties.
 
@@ -87,3 +57,80 @@ Charred Bai Zhu (Bai Zhu Tan) is prepared by stir-frying until the surface black
 ## Related Species
 
 Atractylodes lancea (Cang Zhu, 苍术) is the closest relative and most commonly confused species. Its rhizome is used for drying dampness and dispelling wind-cold, but lacks the spleen-tonifying properties of Bai Zhu.
+
+## Overview
+
+Attractylodes Macrocephala represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish attractylodes macrocephala
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving attractylodes extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Attractylodes Macrocephala finds practical application in multiple design contexts.
+[[permaculture-principles]] guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for attractylodes macrocephala. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+attractylodes macrocephala and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Attractylodes Macrocephala has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of attractylodes macrocephala into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.

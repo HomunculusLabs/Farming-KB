@@ -1,7 +1,7 @@
 ---
 title: Palmer Toadstool Poisoning Cases
 created: 2026-04-28
-tags: [mushroom-poisoning, [[amanita]], toxicology, case-reports, palmer]
+tags: [mushroom-poisoning, amanita, toxicology, case-reports, palmer]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/julius-auboineau-palmer-about-mushrooms.md]
@@ -13,9 +13,7 @@ type: concept
 Julius A. Palmer maintained a careful record of poisoning cases
 throughout his years of study, corresponding with physicians across
 America and Europe. These cases, published in medical journals, provided
-crucial evidence for his theories about [[amanita-genus-morphology]] (under which head the French included
-the Amanita vernus, phalloides, and mappa). Beyond vertigo in one case,
-no ill [[hallucinogenic-mushroom-dose-effects-clinical|effects]] were felt until three and eight o'clock the following
+crucial evidence for his theories about [[hallucinogenic-mushroom-dose-effects-clinical|effects]] were felt until three and eight o'clock the following
 morning, respectively. One patient even slept calmly after the vertigo
 passed. Once attacked, however, the usual symptoms followed, and both
 were dead within three days. The physician tried coffee, tea, antimony,
@@ -90,8 +88,6 @@ beautiful toadstools growing under chestnut trees and gathered them
 for supper. Mrs. F. cooked three pints, stewing them in milk with
 
 ## See Also
-- [[amanita]]
 - [[doc]]
-- [[det]]
 - [[ghb]]
 - [[palmer-mushroom-vs-toadstool-terminology]]

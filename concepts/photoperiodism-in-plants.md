@@ -7,25 +7,9 @@ tags: [botany, photoperiodism, phytochrome, plant-physiology, flowering]
 
 # Photoperiodism in Plants
 
-Photoperiodism is the physiological response of plants to the relative lengths of light and dark periods. It is one of the most important environmental cues governing plant development, particularly the transition from vegetative growth to flowering. The [[maryland-mammoth-tobacco-and-the-discovery-of-photoperiodism]] transformed agriculture by enabling farmers to
-control when crops flower and produce seed through manipulation of light
-exposure. The term was coined by Garner and Allard themselves, combining the
-Greek words "photo" (light) and "period" (duration) to describe this
-fundamental biological timing mechanism.
+Photoperiodism is the physiological response of plants to the relative lengths of light and dark periods. It is one of the most important environmental cues governing plant development, particularly the transition from vegetative growth to flowering. The [[mollison-designers-day-length-and-flowering-response]] to day length:
 
-## Historical Discovery: Maryland Mammoth
-
-The phenomenon of photoperiodism was discovered through the study of a remarkable tobacco strain called Maryland Mammoth. In 1906, farmers in southern Maryland noticed a new tobacco variety that never seemed to stop growing. It could reach 4.5 meters in height, produce nearly 100 leaves, and would only stop growing when the frosts set in. While this vigorous growth seemed beneficial, the plant rarely flowered, making it impossible to harvest seed for the next year's crop.
-
-In 1918, Wightman W. Garner and Harry A. Allard at the US Department of Agriculture set out to determine why Maryland Mammoth didn't know when to stop making leaves and start making flowers. They planted the tobacco in pots and left one group outside in the fields while moving another group into a dark shed every afternoon. Simply limiting the amount of light the plants received was enough to cause Maryland Mammoth to stop growing and start flowering.
-
-The implications were profound: if Maryland Mammoth was exposed to the long days of summer, it continued vegetative growth. But when it experienced artificially shorter days, it flowered. This discovery — that plants measure day length to regulate their life cycle — opened an entirely new field of plant physiology.
-
-## Classification by Day Length Response
-
-Following the discovery of photoperiodism, plants were classified into several categories based on their [[mollison-designers-day-length-and-flowering-response]] to day length:
-
-**Short-day plants** flower only when the length of the uninterrupted dark period exceeds a critical threshold. These typically flower in late summer or autumn as days shorten. Examples include chrysanthemums, soybeans, poinsettias, and cannabis (most photoperiod-sensitive varieties). In [[arbuscular-mycorrhizal-fungi-cannabis-cultivation]], short-day [[blesching-cannabinoid-pharmacology]] is the standard method for inducing flowering — typically by switching from 18/6 or 24/0 light/dark to 12/12.
+**Short-day plants** flower only when the length of the uninterrupted dark period exceeds a critical threshold. These typically flower in late summer or autumn as days shorten. Examples include chrysanthemums, soybeans, poinsettias, and cannabis (most photoperiod-sensitive varieties). In [[blesching-cannabinoid-pharmacology]] is the standard method for inducing flowering — typically by switching from 18/6 or 24/0 light/dark to 12/12.
 
 **Long-day plants** require a minimum period of daylight to flower and typically bloom in spring or early summer. Examples include irises, barley, spinach, and lettuce. These plants will not flower during the short days of winter even if temperatures are favorable.
 
@@ -92,30 +76,7 @@ The practical applications of photoperiodism research have been transformative
 for agriculture and horticulture:
 
 - **Controlled flowering:** Greenhouse growers can precisely time flowering
-  for market demand by manipulating day length with [[marijuana-horticulture-cervantes-artificial-lighting-and-electricity]]
-  blackout curtains. Chrysanthemums, poinsettias, and many ornamental species
-  are grown using these techniques to ensure peak bloom for specific holidays
-
-- **Geographic adaptation:** Understanding photoperiod requirements allows
-  breeders to develop varieties adapted to specific latitudes and growing
-  seasons. A variety bred for 45°N latitude may fail to flower properly at
-  30°N due to different day length patterns
-
-- **Seasonal scheduling:** Farmers can plan multiple harvests per year by
-  selecting varieties with complementary photoperiod requirements, maximizing
-  land use efficiency
-
-- **Indoor cultivation:** The entire indoor Cannabis industry relies on
-  photoperiod manipulation, using 18/6 vegetative lighting and 12/12
-  flowering lighting as standard protocols. This approach allows year-round
-  production independent of seasonal variation
-
-- **Molecular breeding:** The cloning of photoperiod pathway genes has enabled
-  the development of cultivars with altered photoperiod sensitivity, including
-  day-neutral varieties of traditionally photoperiod-sensitive crops
-
-The molecular era has also revealed that photoperiodism integrates with other
-[[plant-signaling-pathways]], including the circadian clock, temperature sensing (through
+  for market demand by manipulating day length with [[plant-signaling-pathways]], including the circadian clock, temperature sensing (through
 vernalization), and hormone signaling (particularly gibberellins). This
 integration allows plants to make sophisticated developmental decisions based
 on the convergence of multiple environmental cues, ensuring that flowering
@@ -123,7 +84,6 @@ occurs under optimal conditions for reproductive success.
 
 ## See Also
 
-- [[plant-phototropism]]
 - [[phytochrome]]
 - [[chrysanthemum-coronarium]]
 - photoperiodism in plants

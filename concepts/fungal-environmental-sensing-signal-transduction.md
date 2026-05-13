@@ -14,21 +14,15 @@ Filamentous fungi have evolved sophisticated systems for detecting and
 responding to environmental signals. Because they are both non-motile
 and heterotrophic, fungi must rapidly sense and adapt to the
 heterogeneous microenvironments through which their hyphae grow. This
-sensing capacity underpins all aspects of [[fungal-mycelial-foraging-heterogeneous-environments]] and
-[[symbiotic-fungi-endophytic-fungi-in-plants]] and fungal-quorum-sensing-autoregulation mechanisms.
+sensing capacity underpins all aspects of [[symbiotic-fungi-endophytic-fungi-in-plants]] and fungal-quorum-sensing-autoregulation mechanisms.
 
 ## Autoregulatory Signals
 
 Autoregulators are the least understood class of fungal signals but play
 critical roles in colony organization. During germination, some act as
 self-inhibitors while others influence germ-tube emergence patterns.
-[[gadd-colony-morphogenesis-hyphal-growth]] is regulated by signals causing hyphal avoidance at
-the colony periphery, centrifugal growth away from the colony centre,
-and hyphal homing for fusion. Some autoregulators function as quorum
-sensors regulating yeast-hyphal dimorphism, [[fungal-chlamydospore-formation-and-survival]],
-and conidial fusion. [[bloomfield-fungal-sex-pheromones-mating-communication]] including trisporic acid in
-Mucorales and peptide pheromones in ascomycetes and basidiomycetes
-regulate [[fungal-life-cycles-sexual-reproduction-metamorphosis]].
+[[fungal-chlamydospore-formation-and-survival]],
+and conidial fusion. [[fungal-life-cycles-sexual-reproduction-metamorphosis]].
 
 ## Signal Transduction Machinery
 
@@ -45,26 +39,6 @@ networks in fungi rival those of higher eukaryotes in their
 complexity and integration capacity.
 
 ## See Also
-
-[[hyphal-growth-kinetics]] describes the biomechanics underlying hyphal tip growth.
-- fungal-quorum-sensing-autoregulation
-- fungal environmental sensing signal transduction
-
-## Practical Considerations
-
-When working with Environmental Sensing and Signal Transduction in Filamentous Fungi, several practical factors should be
-carefully considered to achieve optimal results. These include
-the specific conditions of the implementation context, available
-resources, timing requirements, and the interactions between this
-topic and other elements of the broader system. A holistic view
-that considers these interconnections produces better outcomes.
-
-Environmental conditions such as temperature, moisture, and
-seasonal patterns significantly influence results. Monitoring these
-variables and adapting practices accordingly is essential for success.
-The most effective practitioners develop keen observation skills and
-respond flexibly to changing conditions rather than following rigid
-protocols regardless of circumstances or local variation.
 
 [[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
@@ -111,8 +85,6 @@ through generations to modern scientific approaches, the evolution continues
 to inform current best practices and research directions.
 
 ## See Also
-- [[fungal-environmental-sensing-signal-transduction-read]]
 - [[doc]]
-- [[saccharomyces-cerevisiae]]
 - [[det]]
 - [[neurospora-crassa]]

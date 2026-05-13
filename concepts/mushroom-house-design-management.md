@@ -17,56 +17,10 @@ Proper mushroom house design and ongoing management are crucial for
 successful cultivation. The mushroom house must maintain appropriate
 environmental conditions including humidity, temperature, light, and
 ventilation. Management practices directly impact yield, quality, and
-[[cervantes-pest-disease-prevention-overview]]. This page covers house preparation, bag opening
-procedures, and daily maintenance routines.
+[[fukuoka-rice-straw-mulch-central-technique]], grass,
+leaves, bamboo, tree branches, [[comparison-fruiting-body-vs-mycelium-extracts-medicinal-mushrooms]] house and opened according to mushroom type:
 
-## House Capacity and Sizing
-
-Mushroom houses should be sized according to production goals:
-
-- **1,000 bags** - approximately 2m x 3m
-- **2,000 bags** - approximately 3m x 4m
-- **3,000 bags** - approximately 4m x 5m
-- **4,000 bags** - approximately 5m x 6m
-
-## Low-Cost Construction Materials
-
-Mushroom houses can be built for as little as 500 Baht (US$12) using
-readily available materials. Suitable materials include [[fukuoka-rice-straw-mulch-central-technique]], grass,
-leaves, bamboo, tree branches, [[fukuoka-old-rice-variety-testing]] bags, and shade mesh. Roofs can
-use old rice bags with dried leaves for insulation. Branches serve as
-structural supports. These designs make mushroom farming accessible to
-resource-limited farmers while maintaining adequate growing conditions.
-
-## Incubation Phase Management
-
-After inoculation, bags are transferred to the incubation house where
-mycelium grows throughout the substrate. During incubation, moisture,
-light, temperature, and ventilation must be monitored constantly.
-Incubation time differs according to mushroom type and climatic conditions,
-typically taking 10 to 15 days for full mycelium coverage.
-
-Key incubation management tasks include:
-- Checking bags individually for mycelium growth progress and contamination.
-- Monitoring temperature (ideally 25 to 35 degrees Celsius).
-- Ensuring adequate ventilation to prevent carbon dioxide buildup.
-- Maintaining proper hygiene in the incubation area.
-- Observing and collecting data to draw conclusions on growth patterns.
-
-Contaminated bags should be separated immediately. Options include
-repasteurization, removing plastic for substrate reuse, or fermenting
-substrate as compost for gardening.
-
-## Opening Bags for Fruiting
-
-When mycelium has fully colonized the substrate, bags are moved to the
-[[comparison-fruiting-body-vs-mycelium-extracts-medicinal-mushrooms]] house and opened according to mushroom type:
-
-- **[[query-how-to-grow-oyster-mushrooms-at-home]] (Pleurotus ostreatus)** - Simply remove cotton plugs.
-- **Lentinus species (Hed Lom, Hed Khon Khao)** - Cut plastic bags at the
-  shoulder using a knife or cutter.
-- **Ear mushrooms ([[buildings-tools-equipment-mushroom-cultivation]]
-- [[mushroom-cultivation-troubleshooting]]
+- **[[buildings-tools-equipment-mushroom-cultivation]]
 - [[post-harvest-handling-marketing-mushrooms]]
 ## Practical Considerations
 
@@ -86,3 +40,88 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
+
+## Overview
+
+Mushroom House Design Management represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish mushroom house design management
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving mushroom extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Mushroom House Design Management finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for mushroom house design management. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+mushroom house design management and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Mushroom House Design Management has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of mushroom house design management into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[casing-soil-mushroom-cultivation]]
+- [[field-guide-psilocybin-mushroom-hunting-methodology]]
+- [[mushroom-geotropism-and-spore-formation]]
+- [[psychedelic-mushroom-pharmacology]]
+- [[shirota-japan-2002-magic-mushroom-regulation-forensic-analysis]]

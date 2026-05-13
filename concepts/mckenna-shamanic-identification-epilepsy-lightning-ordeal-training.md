@@ -14,16 +14,7 @@ tags:
   - training
   - calling
 created: 2026-05-11
-source: "McKenna, T. — Tryptamine [[tryptamine-hallucinogens-and-consciousness]]"
----
-
-# Shamanic Identification — Epilepsy, Lightning, and Ordeal Training
-
-In his lectures on tryptamine hallucinogens and consciousness, Terence McKenna developed a sustained argument about how shamans are identified across cultures and the training they undergo after being called. His analysis reveals a striking cross-cultural pattern: the shamanic vocation is consistently signalled by experiences that dissolve the boundaries of ordinary reality, often arriving uninvited and overwhelming the individual.
-
-## The Cross-Cultural Pattern
-
-McKenna observed that across widely separated [[ethnobotanical-use-of-sacred-mushrooms-in-indigenous-cultures]], shamans are identified through remarkably similar markers: **epilepsy-like seizures, being struck by lightning, near-death illness, and periods of madness.** These are not random. As McKenna put it, *"All of these are forms of boundary dissolution."* Each represents a moment when ordinary categories of self and world, mind and body, life and death, momentarily collapse. The shamanic calling often comes through the involuntary dissolution of ordinary reality — the ego's defenses overwhelmed, the person thrust into contact with what McKenna described as *"a form of information that comes from another dimension."* The boundary that dissolves is not merely psychological; it is the boundary between dimensions of being. The person encounters genuinely novel information — patterns, visions, and knowledge they could not have generated from their existing repertoire. Boundary dissolution is the common thread running through all shamanic callings.
+source: "McKenna, T. — Tryptamine [[ethnobotanical-use-of-sacred-mushrooms-in-indigenous-cultures]], shamans are identified through remarkably similar markers: **epilepsy-like seizures, being struck by lightning, near-death illness, and periods of madness.** These are not random. As McKenna put it, *"All of these are forms of boundary dissolution."* Each represents a moment when ordinary categories of self and world, mind and body, life and death, momentarily collapse. The shamanic calling often comes through the involuntary dissolution of ordinary reality — the ego's defenses overwhelmed, the person thrust into contact with what McKenna described as *"a form of information that comes from another dimension."* The boundary that dissolves is not merely psychological; it is the boundary between dimensions of being. The person encounters genuinely novel information — patterns, visions, and knowledge they could not have generated from their existing repertoire. Boundary dissolution is the common thread running through all shamanic callings.
 
 ## Epilepsy as Shamanic Marker
 
@@ -31,41 +22,7 @@ In many indigenous cultures, epilepsy is recognized as a sign of shamanic potent
 
 ## Lightning Strike Survivors
 
-In several [[sacred-mushroom-use-mexico-teonanacatl-indigenous-traditions]], surviving a lightning strike is a classic pathway to shamanhood. Lightning is understood as direct spiritual power — a bolt from the sky that transforms rather than destroys. The survivor is marked as someone touched by forces beyond ordinary comprehension. This reflects the shamanic worldview in miniature: the most dangerous natural forces are also the most transformative. What the culture fears most becomes the instrument of initiation. The lightning-strike shaman bears visible scars that serve as a permanent reminder to the community of the power they carry.
-
-## Near-Death Illness as Initiation
-
-Perhaps the most universal calling pattern is the near-death illness. McKenna emphasized: *"The illness IS the initiation."* The sickness is not a preliminary event followed by a separate ritual. The illness itself — fever, delirium, proximity to death — is the transformative experience. During such illnesses, individuals report visions, encounters with spirit beings, journeys to other worlds, and the reception of healing knowledge. These are not side effects; they are the illness's essential content. The person returns from death's brink fundamentally changed, carrying gifts they did not possess before.
-
-Van Gennep's classic model of rites of passage — separation, liminality, reintegration — maps directly onto the shamanic illness. The illness separates the person from ordinary social life. The crisis itself is the liminal phase: betwixt and between, neither alive nor dead, neither sick nor well. Reintegration occurs when the person emerges with a new identity — that of a shaman. What distinguishes shamanic illness from ordinary illness is precisely this arc: it carries the person through a complete passage rather than merely afflicting them. The community's recognition of this pattern is what transforms a disease into a calling.
-
-## Periods of Madness
-
-Periods of madness — what Western psychiatry classifies as psychotic episodes — are also recognized signs of shamanic potential. The mind breaks through its ordinary patterns, producing chaos and terror. Within a shamanic framework, this breakdown is understood as a *breakthrough*: the ego's structures are dismantled so a larger consciousness can emerge. A person experiencing psychotic symptoms in an indigenous community may be recognized as a potential shaman and guided through their crisis. The same person in a Western clinical setting is likely to be diagnosed, medicated, and institutionalized. The critical variable is not the experience itself but the presence or absence of a cultural framework capable of receiving it — a mentor who recognizes the pattern, a community willing to hold space for the crisis, and a body of knowledge that gives the experience meaning and direction.
-
-## The Training That Follows
-
-For McKenna, the calling is only the beginning. What distinguishes a shaman from someone who merely has a breakdown is the training: *"The presence of a shaman who has been through this and can talk you through it."* The shamanic apprenticeship is the **structured integration of unstructured experience**. The initiate has been overwhelmed by an experience beyond language and category. Training provides narrative framing through myths, technical skills for entering and exiting altered states at will, ethical grounding for using acquired power responsibly, and a defined community role. The calling is involuntary; the training is a deliberate, sustained practice that transforms chaos into competence.
-
-## Psychedelic Plants in Training
-
-Psychedelic plants play a central role in shamanic training across cultures. Once identified through their ordeal, initiates may be introduced to visionary plants as part of apprenticeship. These plants serve as tools for revisiting the boundary-dissolving experience in a controlled, intentional setting — transforming an overwhelming crisis into navigable terrain. For McKenna, psychedelic plants are not adjuncts to shamanic practice but its central technology, providing direct, repeatable access to the transdimensional information first encountered during the calling.
-
-The Amazonian *ayahuasca* complex is perhaps the most developed example. The brew combines DMT-containing plants with a monoamine oxidase inhibitor, allowing oral activity of a compound otherwise only active when smoked or injected. The complexity of this pharmacological combination — discovered by peoples without access to modern chemistry — is frequently cited as evidence for the reality of the transdimensional information source McKenna described: the knowledge of how to combine these plants could not have arrived through ordinary trial and error. Similarly, Siberian shamans use *Amanita muscaria*, African traditions use *Tabernanthe iboga*, and Mesoamerican traditions use *Psilocybe* mushrooms — each culture independently arriving at a technology for dissolving the boundary between ordinary and non-ordinary reality.
-
-## The Shamanic Attitude Toward Transformation
-
-McKenna encapsulated the shamanic attitude: *"You have to be willing to die in the most literal sense."* The shamanic path demands willingness to undergo the complete dissolution of identity as a lived, embodied experience. Every journey into the other world carries the possibility of not returning. This is not masochism but recognition that genuine transformation requires the death of the old self — the price of authentic engagement with forces larger than the ego.
-
-The willingness McKenna describes is not passive acceptance but an active, cultivated capacity. Shamans train to approach the ordeal without flinching, to remain present at the boundary of annihilation and to bring back what they find there. This is what separates the shaman from the ordinary person who merely endures a crisis: the shaman goes to meet the experience on its own terms, with intention and training, rather than being swept away by it. The training does not make the experience safe — it makes the practitioner capable of bearing what the experience reveals.
-
-## The Shamanic Personality Type
-
-McKenna identified *"the shamanic personality type"* — people drawn to boundary exploration even before their formal calling. These individuals tend to be sensitive, introspective, and prone to unusual experiences from an early age, often marginal within their communities. This is a predisposition, a temperamental orientation toward liminal spaces where ordinary categories break down. In cultures that recognize this orientation, such individuals are nurtured. In cultures that do not, they are pathologized. The predisposition alone does not make a shaman — it creates the openness, but the calling and the training must follow to complete the transformation.
-
-## Western Psychiatry vs. Indigenous Recognition
-
-McKenna's analysis leads to an inescapable conclusion: Western psychiatry and indigenous shamanic traditions deal with the same raw phenomena — extreme altered states, boundary dissolution, transpersonal encounters — but interpret them fundamentally differently. Western psychiatry tends to **pathologize** these experiences, classifying them as disorders and normalizing the individual. Indigenous traditions tend to **recognize** them as callings, providing training for integration and channeling them into socially valuable roles. McKenna acknowledged that some people genuinely need clinical intervention but insisted that pathologizing *all* such experiences represents a profound cultural amnesia about their transformative potential. The same experience that produces a shaman in one culture produces a psychiatric patient in another — a finding with urgent implications for how modern societies understand altered [[mckenna-food-gods-designer-states-of-consciousness]].
+In several [[mckenna-food-gods-designer-states-of-consciousness]].
 
 ## Cross-Cultural Examples
 
@@ -118,3 +75,75 @@ McKenna's analysis raises questions that modern psychology has barely begun to a
 - Krippner, Stanley. *"[[metzner-shamanic-healing-and-divination-paradigm]] Ritual Drama: Health, Medicine, and the Theater."* ReVision 15(1), 1992.
 - Walsh, Roger. *"Shamanic Spirituality: An Overview."* Alternative Therapies in Health and Medicine 4(3), 1998.
 - Metzner, Ralph. *The Unfolding Self: Varieties of Transformative Experience*. Celestial Arts, 1998.
+
+## Overview
+
+Mckenna Shamanic Identification Epilepsy Lightning Ordeal Training represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish mckenna shamanic identification epilepsy lightning ordeal training
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving mckenna extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Mckenna Shamanic Identification Epilepsy Lightning Ordeal Training finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for mckenna shamanic identification epilepsy lightning ordeal training. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+mckenna shamanic identification epilepsy lightning ordeal training and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Mckenna Shamanic Identification Epilepsy Lightning Ordeal Training has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of mckenna shamanic identification epilepsy lightning ordeal training into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions

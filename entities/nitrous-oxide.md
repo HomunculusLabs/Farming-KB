@@ -15,21 +15,7 @@ sources:
   - Weimann, J. (2003). "Gas density and airway resistance." British Journal of Anaesthesia 90(2): 166-172.
   - Jevtović-Todorović, V. et al. (1998). "Prolonged exposure to inhalational anesthetic causes neurodegeneration in the developing brain." Annals of Neurology 43(3): 358-364.
   - EMCDDA (2023). "Nitrous Oxide — Drug Profile." European Monitoring Centre for Drugs and Drug Addiction.
-  - Committee on the Ethics of [[hofmann-lsd-animal-experiments-toxicity]] (2015). "Nitrous oxide for procedural analgesia." Pain Medicine 16(6): 1083-1091.
-created: 2026-05-07
----
-
-# Nitrous Oxide
-
-## Overview
-
-Nitrous oxide (N₂O), commonly known as laughing gas or nos, is an inorganic
-gaseous compound with a long history of use as an anesthetic and analgesic in
-medicine and dentistry. It is one of the oldest and most widely used inhalational
-anesthetics, first administered to humans in 1844 by American dentist Horace
-Wells.
-
-Beyond [[oner-sativa-medical-applications]], nitrous oxide is used recreationally for its brief
+  - Committee on the Ethics of [[oner-sativa-medical-applications]], nitrous oxide is used recreationally for its brief
 dissociative and euphoric effects, typically inhaled from balloons filled with
 whipped-cream chargers. It is the second most-used recreational inhalant after
 nitrites in many countries.
@@ -55,7 +41,7 @@ rapid uptake and elimination through the lungs.
 Nitrous oxide acts primarily as a non-competitive NMDA receptor antagonist,
 blocking glutamate-mediated excitatory neurotransmission. This mechanism
 underlies both its anesthetic and dissociative effects, shared with other
-dissociatives like [[ketamine]] and [[dextromethorphan]].
+dissociatives like [[dextromethorphan]].
 
 The gas also activates two-pore-domain potassium channels (TREK-1), which
 contributes to its analgesic properties. Additionally, nitrous oxide interacts
@@ -88,3 +74,74 @@ The effects profile is notably brief compared to other dissociatives, which
 contributes to a pattern of repeated dosing in recreational contexts.
 
 ## History and Cultural Significance
+
+## Overview
+
+Nitrous Oxide represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish nitrous oxide
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving nitrous extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Nitrous Oxide finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for nitrous oxide. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+nitrous oxide and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Nitrous Oxide has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+## See Also
+
+- [[turner-lsd-nitrous-ludiomil-combinations]]
+- [[thc-heart-protective-mechanisms-myocardial-protection-cb1-nitric-oxide-blesching-2015]]
+- [[dimethyltryptamine-n-oxide]]

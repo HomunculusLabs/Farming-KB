@@ -20,43 +20,14 @@ both concepts is essential for managing soil biology intentionally, whether you 
 broad healthy ecosystem or targeting specific crop types.
 
 ## Soil Food Web
-[[bacterial-vs-fungal-soil]]
-
-The bacterial vs fungal soil concept focuses specifically on the relative abundance of bacteria and
-fungi in the soil, often expressed as the fungal-to-bacterial (F:B) ratio. This ratio is
-significant because different types of plants have evolved to thrive in soils dominated by
-different microbial communities. Annual crops, vegetables, and most weeds generally prefer
-bacterial-dominated soils, while perennials, shrubs, and trees prefer fungal-dominated soils.
-
-Bacterial-dominated soils tend to have rapid [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]], which benefits fast-growing annual
+[[comparison-nutrient-cycling-vs-nutrient-dense-gardening]], which benefits fast-growing annual
 plants that need available nitrogen quickly. These soils are typically found in disturbed
 environments, tilled fields, and early successional ecosystems. Fungal-dominated soils cycle
-nutrients more slowly through [[dighton-fungal-decomposition-leaf-litter-dynamics]] of tougher organic materials like lignin and
-cellulose, providing a steady, slow release of nutrients that suits woody perennials and mature
-ecosystems.
-
-Management practices directly influence the F:B ratio. Tilling the soil, adding [[jeavons-green-manures-cover-crops]],
+nutrients more slowly through [[jeavons-green-manures-cover-crops]],
 and applying simple composts tend to favor bacteria. Adding woody mulches, avoiding tillage, and
 using fungal-rich composts or inoculants shift the balance toward fungi. Understanding this
 dynamic allows growers to actively manage their soil microbiome in alignment with the crops they
-intend to grow, whether that is a [[fukuoka-dutch-priest-vegetable-garden-spiritual-renewal]], a pasture, or an orchard.
-
-Typical F:B ratio targets vary by system. Disturbed agricultural soils may have ratios of 0.1:1
-to 1:1 (bacterial dominated), while old-growth forests can reach ratios of 10:1 to 100:1
-(fungal dominated). Most vegetable gardens target 0.5:1 to 1:1, pastures around 1:1 to 5:1, and
-orchards or woodlands above 5:1. These targets provide practical benchmarks for growers to work
-toward as they adjust their management practices.
-
-## Key Differences
-| Aspect | Soil Food Web | Bacterial vs Fungal Soil |
-|--------|---------------|--------------------------|
-| Scope | Full ecosystem with all trophic levels | Primarily the F:B ratio |
-| Focus | Interconnected community dynamics | Two microbial groups and their balance |
-| Complexity | High; accounts for many organism groups | Moderate; focused comparison |
-| Best For | Building overall soil health and resilience | Matching soil biology to crop type |
-| Measurement | Microscope counts of all organism groups | F:B ratio from lab or microscope analysis |
-| Drawbacks | Can be overwhelming for beginners | Oversimplifies by ignoring other trophic levels |
-| Primary Tools | Compost, [[comparison-biofertilizers-and-soil-inoculants-vs-compost-tea-guide]], biological assessments | Mulch type, tillage decisions, inoculants |
+intend to grow, whether that is a [[comparison-biofertilizers-and-soil-inoculants-vs-compost-tea-guide]], biological assessments | Mulch type, tillage decisions, inoculants |
 | Historical Roots | Soil ecology research, Ingham framework | succession ecology, soil microbiology |
 
 ## When to Choose the Soil Food Web Approach
@@ -102,7 +73,77 @@ the simplicity of the ratio framework and the comprehensiveness of the full ecol
 
 ## See Also
 
-- [[comparison-soil-food-web-vs-arbuscular-mycorrhizal-fungi]]
 - [[bacterial-vs-fungal-soil]]
-- [[composting-organic-garden]]
 - [[comparison-no-till-vs-conventional-tillage]]
+
+## Overview
+
+Comparison Soil Food Web Vs Bacterial Vs Fungal Soil represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish comparison soil food web vs bacterial vs fungal soil
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving comparison extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Comparison Soil Food Web Vs Bacterial Vs Fungal Soil finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for comparison soil food web vs bacterial vs fungal soil. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+comparison soil food web vs bacterial vs fungal soil and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Comparison Soil Food Web Vs Bacterial Vs Fungal Soil has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of comparison soil food web vs bacterial vs fungal soil into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions

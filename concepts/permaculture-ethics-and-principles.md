@@ -81,9 +81,3 @@ In practice, designers often run through a checklist: Does this element serve mu
 - [[permaculture-site-analysis]] — observation and pattern mapping
 - [[permaculture-guild-design]] — applying integration and diversity principles
 - [[permaculture-climate-adaptation]] — designing for resilience and change
-
-- [[permaculture-ethics-and-permanent-agriculture]]
-- [[permaculture-ethics-and-rules-of-use]]
-- [[permaculture-ethics-earth-care-people-care-fair-share]]
-- [[permaculture-ethics-of-earth-care-and-people-care]]
-- [[permaculture-ethics-of-permanence]]

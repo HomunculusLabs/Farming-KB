@@ -10,42 +10,7 @@ sources:
 # ALEPH-4
 
 **Chemical name:** 2,5-Dimethoxy-4-(i)-propylthioamphetamine
-**[[2c-b-pihkal-entry-20]]:** #5
-
-## Overview
-
-ALEPH-4 is a member of the [[alexander-shulgin]], it demonstrates the pattern of increasing [[phenethylamine-chain-length-effects]] on the sulfur atom within the ALEPH/2C-T series.
-
-The compound was one of the ALEPH series that was actually completed and evaluated (along with ALEPH, ALEPH-2, ALEPH-6, and ALEPH-7), while ALEPH-3 and ALEPH-5 remained unfinished at the synthesis stage.
-
-## Dosage
-
-| Level | Amount (mg) |
-|-------|-------------|
-| Threshold | ~7 |
-| Light | 7 - 8 |
-| Common | 8 - 10 |
-| Strong | 10 - 12 |
-
-## Duration
-
-12 - 20 hours. One of the longest-acting compounds in the ALEPH family, potentially exceeding even aleph-2-entity|ALEPH-2 in duration.
-
-## Effects
-
-The qualitative reports reveal a compound with both positive and challenging characteristics:
-
-- **Initial phase:** Effects may begin negatively with tension and depression, but develop into positive experiences as the compound takes hold. One report describes simultaneous development in both negative and positive directions -- physical discomfort alongside rapture in the act of breathing.
-- **Visual phenomena:** Reports of striking visual beauty, particularly natural settings. At 7 mg, the sky was described as "never seen so beautiful." Visual effects intensify over time.
-- **Physical effects:** Reports of physical discomfort, difficulty breathing, muscular weakness. At 12 mg, a period of suffocating claustrophobia occurred requiring removal of clothing and isolation -- described as a "scary" 20-minute episode before resolution.
-- **Cognitive effects:** Described as "one of the most profound and deep learning experiences" by one subject, despite physical challenges.
-- **Residual effects:** Barely any sleep after a full night; tired upon awakening. The experience was felt to continue for days.
-
-## Safety Concerns
-
-Shulgin notes "hints and suggestions of complexities" including sensory confusion, threatening interpretive aspects, and "an underlying suggestion of body toxicity." At 12 mg, a disturbing episode of claustrophobia and panic occurred that resolved spontaneously but was frightening. Shulgin states: "I know of no experiment that exceeded 12 milligrams and I would not be able to predict what might come forth at higher dosages. I personally choose not to try them."
-
-The combination of very long duration (up to 20 hours) and unpredictable [[hallucinogenic-mushroom-acute-psychological-effects-and-bad-trips]] makes ALEPH-4 a compound that demands extensive preparation and a completely free schedule. The subject at 12 mg noted that "if I couldn't have escaped" during the claustrophobic episode, the outcome could have been much worse.
+**[[alexander-shulgin]], it demonstrates the pattern of increasing [[hallucinogenic-mushroom-acute-psychological-effects-and-bad-trips]] makes ALEPH-4 a compound that demands extensive preparation and a completely free schedule. The subject at 12 mg noted that "if I couldn't have escaped" during the claustrophobic episode, the outcome could have been much worse.
 
 ## Synthesis Notes
 
@@ -53,15 +18,7 @@ Synthesized from 2,5-dimethoxy-4-((i)-propylthio)benzaldehyde (see 2c-t-4-entity
 
 ## Pharmacology
 
-As a thio-substituted amphetamine, ALEPH-4 likely acts as a [[mckenna-tryptamine-research-legal-status]]: not every planned compound can be completed, and research priorities shift as more promising directions emerge. The discovery of dom-entity|DOM's remarkable potency during this period was one such redirecting event.
-
-## Related Compounds
-
-- aleph-1-entity|ALEPH (methylthio)
-- aleph-2-entity|ALEPH-2 (ethylthio)
-- 2c-t-4-entity|2C-T-4 (the phenethylamine analogue)
-- [[phenethylamine-duration-and-timing]]
-- [[aleph-1-entity]]
+As a thio-substituted amphetamine, ALEPH-4 likely acts as a [[phenethylamine-duration-and-timing]]
 - [[aleph-1-entity]]
 ## Practical Considerations
 
@@ -81,3 +38,88 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
+
+## Overview
+
+Aleph 4 Entity represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish aleph 4 entity
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving aleph extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Aleph 4 Entity finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for aleph 4 entity. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+aleph 4 entity and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Aleph 4 Entity has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of aleph 4 entity into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[aleph-2-entity]]
+- [[aleph-2-entity-pihkal]]
+- [[aleph-7-entity]]
+- [[aleph-7-entity-pihkal]]
+- [[aleph-compound-profile]]

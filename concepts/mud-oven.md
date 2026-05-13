@@ -1,5 +1,5 @@
 ---
-title: Mud Oven
+title: Mud Oven Construction
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
@@ -9,7 +9,7 @@ sources: [raw/papers/the-ultimate-guide-to-natural-farming-and-sustainable-livin
 
 # Mud Oven Construction
 
-A mud oven (also called cob oven, earth oven, or clay oven) is a wood-fired baking oven built from [[building-with-natural-materials]] -- clay, sand, straw, and stone. It costs very little to build, reaches high temperatures for bread and pizza, and retains heat for hours of baking or slow cooking. Drawn from [[nicole-faires]]' comprehensive manual.
+A mud oven (also called cob oven, earth oven, or clay oven) is a wood-fired baking oven built from natural materials -- clay, sand, straw, and stone. It costs very little to build, reaches high temperatures for bread and pizza, and retains heat for hours of baking or slow cooking. Drawn from [[nicole-faires]]' comprehensive manual.
 
 ## How It Works
 
@@ -24,8 +24,8 @@ A mud oven (also called cob oven, earth oven, or clay oven) is a wood-fired baki
 
 | Material | Quantity | Purpose |
 |----------|----------|---------|
-| Clay soil | 150-200 lbs (test for clay content) | Primary [[bamboo-as-building-material]] |
-| Sharp sand | 200-300 lbs | [[comparison-windbreak-vs-thermal-mass]], prevents cracking |
+| Clay soil | 150-200 lbs (test for clay content) | Primary building material |
+| Sharp sand | 200-300 lbs | Thermal mass, prevents cracking |
 | Straw | 1-2 bales | Fiber reinforcement (tensile strength) |
 | Firebricks | 25-35 (for hearth floor) | Oven floor (cooking surface) |
 | Gravel/crushed rock | 2-3 cubic feet | Insulation base |
@@ -56,7 +56,7 @@ Not all soil has enough clay. Test by:
 ### Step 1: Foundation and Base
 
 1. Choose a level site protected from rain (under a roof overhang or build a shelter later)
-2. [[query-how-to-build-a-raised-bed-garden]] platform: concrete blocks, stone, or urbanite (reclaimed concrete chunks)
+2. Build a raised platform: concrete blocks, stone, or urbanite (reclaimed concrete chunks)
 3. Platform should be 48-52 inches in diameter (for a 22-24 inch interior oven)
 4. Height: 36-40 inches (comfortable working height)
 5. Top the platform with a level bed of sand or gravel
@@ -115,7 +115,7 @@ Not all soil has enough clay. Test by:
 1. Mix a final coat of clay + sand (no straw) for a smooth finish
 2. Apply 1-2 inches over the insulation layer
 3. Smooth with wet hands or a trowel
-4. Optionally, add a [[comparison-lime-plaster-vs-earthen-plaster]] finish for weather resistance
+4. Optionally, add a lime plaster finish for weather resistance
 
 ### Step 9: Door
 
@@ -140,11 +140,11 @@ This is critical -- do not skip or rush.
 4. Increase fire size gradually over 5-7 days
 5. If you see steam or hear crackling, the oven is still drying -- reduce heat
 6. After a week of graduated fires, the oven is ready for full use
-7. Rushing this step causes cracks
 
-## Repairing Cracks
+## See Also
 
-- Small hairline cracks are normal and seal themselves during the next firing
-- Larger cracks: mix a small batch of clay slip (clay + water) and push it into the crack
-- Major cracking: usually caused by insufficient curing or wrong clay-to-sand ratio
-- Structural cracks: may need to rebuild the affected section
+- [[earth-oven-and-cob-oven-construction]]
+- [[comparison-solar-cooking-vs-cob-oven]]
+- [[query-how-to-build-a-cob-oven-for-outdoor-cooking]]
+- [[cob-oven-construction]]
+- [[solar-oven-cooking]]

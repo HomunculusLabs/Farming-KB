@@ -8,19 +8,7 @@ type: concept
 
 ## Overview
 
-Indigenous and tribal peoples worldwide have developed sophisticated pattern-based systems for encoding, transmitting, and applying complex knowledge about navigation, ecology, genealogy, and time. Far from being "primitive," these systems rival or exceed modern alphanumeric methods in their information density, memorability, and functional integration with daily life. In [[permaculture]], understanding these traditional pattern systems offers valuable design insights and challenges our over-reliance on written language and numerical data.
-
-## Pattern as Literature
-
-Mollison emphasizes that tribal peoples should not be called "illiterate" when their patterns, songs, and dances constitute a valid literature and accurate recording system. The abandonment of pattern learning in favor of number and alphabetical symbols represents, in his view, a "gross error" because:
-
-- **Simple patterns link many phenomena**: Learning one significant pattern is like learning an underlying principle applicable to many specific situations
-- **Patterns are more memorable than prose**: People can remember hundreds of songs, postures, and chants but little of prose and even less of tabulated data
-- **Patterns encode holistically**: A single geometric design can simultaneously convey ecological, navigational, genealogical, and ceremonial information
-
-## Polynesian Navigation Charts
-
-Polynesians navigated the vast Pacific Ocean using pattern [[maps]] made of sticks, flexed strips, cowries, and song cycles. These maps lacked scale, cartographic detail, and trigonometric measures — yet sufficed to locate 200–2,000 island specks across millions of square kilometers of ocean.
+Indigenous and tribal peoples worldwide have developed sophisticated pattern-based systems for encoding, transmitting, and applying complex knowledge about navigation, ecology, genealogy, and time. Far from being "primitive," these systems rival or exceed modern alphanumeric methods in their information density, memorability, and functional integration with daily life. In [[maps]] made of sticks, flexed strips, cowries, and song cycles. These maps lacked scale, cartographic detail, and trigonometric measures — yet sufficed to locate 200–2,000 island specks across millions of square kilometers of ocean.
 
 ### How Pattern Maps Worked
 
@@ -106,44 +94,12 @@ These abilities represent a practical form of "pulser" pattern understanding —
 
 ## The Anasazi Spiral Calendar
 
-Perhaps the most striking example of pattern encoding is the [[anasazi-spiral]] petroglyph in the desert southwest USA. This apparently simple spiral form, inscribed on a rock surface near the top of a mesa, functions as a **long-term astronomical calendar**:
+Perhaps the most striking example of pattern encoding is the [[tribal-pattern-knowledge-systems]]
 
-### How It Works
-
-- Three carefully balanced rock slabs serve as gnomons
-- The slabs cast moon-shadows or direct vertical daggers of sunlight to specific points on the spiral
-- The 19 points at which the spiral intersects the horizontal axis correspond to the 18.6-year lunar cycle caused by the sway of Earth's axis
-- The same arrangement marks solstices and equinoxes via sunlight daggers
-
-### What It Records
-
-- **Lunar cycles**: The 18.6-year lunar standstill cycle
-- **Solar cycles**: Solstices and equinoxes for seasonal regulation
-- **Planting times**: Agricultural calendar based on astronomical observations
-- **Ceremony timing**: Scheduling of ceremonial events
-- **Drought and flood prediction**: The 18.6-year cycle correlates with drought/flood cycles
-
-One simple spiral thus encodes information that "would take a small library to encode" in Western alphanumeric systems. Scientists have often doubted tribal peoples' capacity for such sophisticated long-term pattern recording — but wherever tribes remain intact, equally complex pattern-meanings survive.
-
-## Phenomenological Time
-
-Aboriginal Australian cultures evolved multiple time concepts, of which linear clock-time is the least important:
-
-- **Phenomenological (phenological) time**: Time as given by life-phenomena — flowers, birds, weather
-- **Example**: An old Pitjantjatjara woman observed a small desert flower coming into bloom and stated that dingoes in distant ranges were now rearing pups, making it time to travel to collect them
-- **Long-interval signals**: Some phenological signals occur only every 100–500 years (like bamboo flowering), yet when they do, specific actions and ceremonies are triggered
-
-## Wisdom by Revelation, Not Age
-
-In tribal society, wisdom is measured not by years lived but by **degree of revelation**:
-
-- Those who understand and embody advanced knowledge are the most intuitive
-- Such knowledge is almost invariably based on pattern understanding
-- Wisdom is independent of sex or age — one is "aged" by degree of revelation
-- There are "some very unrevealed elders in the world"
-
-## Implications for Permaculture
-
-### Reintegrating Pattern Education
 ## See Also
+
+- [[tribal-pattern-knowledge]]
 - [[tribal-pattern-knowledge-systems]]
+- [[tribal-pattern-application-and-land-division]]
+- [[tribal-pattern-knowledge-and-traditional-encoding]]
+- [[social-hierarchy-and-tribal-art]]

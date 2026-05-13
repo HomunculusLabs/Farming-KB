@@ -12,7 +12,7 @@ sources:
 
 Updated: 2026-04-18
 
-[[steve-solomon]] takes a nuanced position on transplanting. While he generally favors direct-seeding for its simplicity and resilience, he recognizes that certain crops benefit from transplanting and provides detailed techniques for minimizing [[query-how-to-prevent-transplant-shock-when-moving-cannabis-plants]] in a low-input garden context.
+[[query-how-to-prevent-transplant-shock-when-moving-cannabis-plants]] in a low-input garden context.
 
 ## Direct-Seeding vs. Transplanting
 
@@ -21,12 +21,7 @@ Solomon's general preference is for direct-seeding because:
 - Direct-seeded plants develop undisturbed root systems from the start.
 - Transplanting destroys the taproot and converts the plant into more of a surface feeder.
 - Direct-seeded crops endure rainless spells better than transplanted ones.
-- Greenhouse-grown seedlings are always lush and succulent, making them more vulnerable to pests and [[query-how-do-i-prevent-and-manage-transplant-shock-in-garden-plants]].
-- The extra work of raising transplants may not be justified for most vegetables.
-
-However, certain crops genuinely benefit from transplanting:
-
-- Crops with long [[jeavons-climate-adaptation-growing-seasons]] in short-season climates.
+- Greenhouse-grown seedlings are always lush and succulent, making them more vulnerable to pests and [[jeavons-climate-adaptation-growing-seasons]] in short-season climates.
 - Crops with expensive seed where every seed counts.
 - Celery, which grows extremely slowly from seed (10+ weeks to transplantable size).
 - Crops where you need precise spacing and uniform maturity.
@@ -66,12 +61,7 @@ This approach avoids the "lush and succulent" problem of greenhouse-grown seedli
 
 ## Timing of Transplanting
 
-The timing of transplanting is critical and interacts with the broader [[seasonal-gardening-calendar-hamilton]]:
-
-- Transplant brassicas when they have 3-4 true leaves.
-- Transplant celery after about 10 weeks in the nursery bed.
-- Time the celery transplant for when the earliest apple trees are blooming -- before it gets too hot.
-- In hot-summer climates, celery is an autumn/[[coleman-sunlight-and-winter-crop-growth-rates]]; sow seeds after summer heat breaks.
+The timing of transplanting is critical and interacts with the broader [[coleman-sunlight-and-winter-crop-growth-rates]]; sow seeds after summer heat breaks.
 
 ## Succession Planting Strategy
 

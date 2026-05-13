@@ -6,7 +6,7 @@ type: concept
 
 # Integrated House-Garden System Elements
 
-The total design for a [[permaculture]] house and garden integrates every element — structure, water, waste, food production, animal systems, and energy — into a single functioning ecosystem. Based on designs from Brazil (by Margrit Kennedy and [[bill-mollison]]) and adapted for tropical and subtropical conditions, the system demonstrates how a climatically appropriate house of local brick and tiles can amortize in 4–7 years if a productive garden is developed alongside it.
+The total design for a [[bill-mollison]]) and adapted for tropical and subtropical conditions, the system demonstrates how a climatically appropriate house of local brick and tiles can amortize in 4–7 years if a productive garden is developed alongside it.
 
 ## The House Structure
 
@@ -47,7 +47,7 @@ Banana circles receive water from the hand basin and kitchen sink and are mulche
 
 ### C: Greywater Treatment Area
 
-The "dry" water patch contains no direct food plants and no root crops. Only vigorous, damp-tolerant, manure-tolerant green forage crops grow here — comfrey, banna grass, lemongrass, and legumes. These are regularly cut and removed to animal pens as green feed or to garden beds and potato boxes. The area is sunken and surrounded by a bank growing pigeon pea, papaya, banana, or all of these combined.
+The "dry" water patch contains no direct food plants and no root crops. Only vigorous, damp-tolerant, manure-tolerant green forage crops grow here — [[comfrey]], [[banna-grass]], lemongrass, and legumes. These are regularly cut and removed to animal pens as green feed or to garden beds and potato boxes. The area is sunken and surrounded by a bank growing pigeon pea, papaya, banana, or all of these combined.
 
 ### D and D*: Avenue Crops
 
@@ -88,6 +88,5 @@ Two fenced animal runs (Y1, Y2) are alternated — while one is rested it can be
 Carefully selected trees overshade the house roof — some may even be placed inside the house with holes in the roof allowing the trunk through. These trees provide light crown shade, fruits that fall or can be harvested from the roof, and can be tough spreading legumes (Prosopis) yielding livestock food crops. Additional trees produce staple fruits — avocado (on mounds 1 m high and 5 m across in wet areas), citrus, nut trees, and oil palm. Soft ground-cover below (nasturtium, soft legumes, comfrey) is sometimes slashed as mulch for trees or fed to livestock.
 ## See also
 
-- [[permaculture-design]]
 - [[integrated-home-garden-design]]
 - [[equatorial-house-design-essentials]]

@@ -7,20 +7,14 @@ created: 2026-05-08
 
 # Coaxial Power Splitter and Waveguide System in Microwave Sterilization
 
-The microwave transmission system in the NASA [[challenge-organisms-nasa-microwave-surface-sterilization-testing]] apparatus
-(MSC-22484) employs a waveguide and coaxial power splitting architecture to
-distribute 2.45 GHz microwave energy from a single magnetron source to multiple
-dipole antennas positioned around the target surface. This transmission chain
-is critical for achieving uniform surface coverage and the specified exposure
-rate of 3.6 W per square centimeter required for complete [[microbial-kill-curve-microwave-exposure-dose-response]].
+The microwave transmission system in the NASA [[microbial-kill-curve-microwave-exposure-dose-response]].
 
 ## System Overview
 
 The complete microwave transmission chain consists of the following stages,
 each performing a specific impedance-matching and energy-distribution function:
 
-1. [[magnetron-oscillator-microwave-sterilization]] generates the 2.45 GHz signal
-2. Waveguide-coaxial adapter transitions energy into [[rectangular-waveguide-dipole-antenna-microwave-surface-sterilization]]
+1. [[rectangular-waveguide-dipole-antenna-microwave-surface-sterilization]]
 3. Rectangular waveguide carries energy with minimal loss to the splitting
    point
 4. Coaxial power splitter divides the signal into multiple paths
@@ -62,14 +56,7 @@ the adapter and the power splitter. Key characteristics include:
   coaxial cables of equivalent size, important for sterilization applications
   requiring sustained high-power exposure
 - **Directional control**: The waveguide directs energy precisely toward the
-  power splitter and [[dipole-antenna-array-configuration-microwave-surface-sterilization]]
-- **Rigid construction**: Unlike flexible coaxial cables, waveguides maintain
-  precise geometry and impedance characteristics
-
-## Coaxial Power Splitter
-
-The coaxial power splitter divides the single microwave input into multiple
-output paths that feed individual dipole antennas. [[mycoremediation-bioreactor-design-considerations]] for
+  power splitter and [[mycoremediation-bioreactor-design-considerations]] for
 the power splitter include:
 
 - **Split ratio**: The power should be divided as evenly as possible among the
@@ -118,8 +105,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[microwave-sterilization]]
 - [[sterilization]]
-- [[dom]]
 - [[mycoremediation]]
 - [[microwave-sterilization-system-hardware-architecture-power-waveguide-antenna]]

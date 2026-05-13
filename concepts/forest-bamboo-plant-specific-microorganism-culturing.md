@@ -8,7 +8,7 @@ type: concept
 
 ## Overview
 
-Beneficial [[indigenous-microorganisms]] (BIM) are naturally occurring microbes that can be trapped, cultured, and applied to enhance soil fertility, plant health, animal nutrition, and waste decomposition. While [[lactic-acid-bacteria]] (LAB) serve as the foundational microorganism in BIM formulations, a diverse community of other beneficial microbes — including photosynthetic bacteria, yeasts, actinomycetes, and fermenting fungi — can be sourced from local environments. This page covers the practical techniques for collecting and culturing these supplementary microorganisms from forests, bamboo groves, specific target plants, and legume root nodules, along with the BIM formulation recipe and best practices for storage and application.
+Beneficial [[lactic-acid-bacteria]] (LAB) serve as the foundational microorganism in BIM formulations, a diverse community of other beneficial microbes — including photosynthetic bacteria, yeasts, actinomycetes, and fermenting fungi — can be sourced from local environments. This page covers the practical techniques for collecting and culturing these supplementary microorganisms from forests, bamboo groves, specific target plants, and legume root nodules, along with the BIM formulation recipe and best practices for storage and application.
 
 ## Lactic Acid Bacteria — The Foundation
 
@@ -33,19 +33,7 @@ The core technique for trapping forest microorganisms uses cooked rice as a carb
 1. **Prepare the container** — Use a flat container with a lid (e.g., a plastic lunch box). Add approximately one inch of cooked rice, leaving ample air space inside. A larger surface area of rice increases the trapping capacity.
 2. **Protect from animals** — Cover the container with metal netting or equivalent to prevent rats and other animals from digging it up once buried.
 3. **Bury in humus** — Bury the container in the deep litter and humus layer around the selected tree. The rice acts as a food source that attracts local microorganisms.
-4. **Wait for colonization** — After 2–10 days (depending on [[jadam-ambient-temperature-principle]]), unearth the container. The cooked rice will show visible contamination — white and other colored molds — indicating successful microbial colonization.
-5. **Culture with crude sugar/molasses** — Add 1/3 the amount of crude sugar or molasses to the infected cooked rice. After one week, the mixture will become sticky and liquidy.
-6. **Store for later use** — Add an equal amount of crude sugar or molasses to arrest microbial activity. Store in a cool area.
-
-### Alternative Forest Collection Method
-
-A simpler variation involves directly collecting forest litter, humus, or leaf molds and spreading them sparingly on top of cooked rice in a container. The same culturing procedure with crude sugar or molasses is then followed. This method bypasses the burial step while still capturing forest-derived microbial diversity.
-
-## Bamboo Microorganisms
-
-### Why Bamboo?
-
-Bamboo plants attract particularly powerful beneficial microorganisms. This is attributed to the sugary [[root-exudates]] that bamboo roots release into the surrounding soil. These sugary substances act as natural chemo-attractants, drawing in and supporting a robust community of beneficial microbes. In traditional Eastern agricultural practice, bamboo groves have long been recognized as reservoirs of potent microorganisms.
+4. **Wait for colonization** — After 2–10 days (depending on [[root-exudates]] that bamboo roots release into the surrounding soil. These sugary substances act as natural chemo-attractants, drawing in and supporting a robust community of beneficial microbes. In traditional Eastern agricultural practice, bamboo groves have long been recognized as reservoirs of potent microorganisms.
 
 ### Collection Technique
 
@@ -92,9 +80,7 @@ Rhizobium is one of the most important nitrogen-fixing bacteria in agriculture. 
 
 ### The 50/50 Rule
 
-The standard Beneficial [[knf-indigenous-microorganism-culture]] (BIM) formulation follows a consistent ratio:
-
-- **50% Lactic Acid Bacteria (LAB)** — The pure cultured LAB serum serves as the dominant component, providing enzymatic activity, [[amanita-muscaria-antibiotic-properties-nanobacteria-fungal-medicine]], and rapid nutrient breakdown
+The standard Beneficial [[amanita-muscaria-antibiotic-properties-nanobacteria-fungal-medicine]], and rapid nutrient breakdown
 - **50% Other Cultured Microorganisms** — A diverse blend of forest, bamboo, and plant-specific microorganisms
 
 ### Example Blend
@@ -134,14 +120,6 @@ The principle is simple: **the more diverse the microbial community, the better*
 
 While carbohydrates and sugars are the primary food sources used during culturing, beneficial microorganisms require a broader nutrient profile for maximum effectiveness in the field. To enhance the efficacy of BIM applications, the following bionutrient supplements are mixed in:
 
-- **[[bionutrients-fermented-plant-extracts]] (FPE)** — made from fermented plant and fruit juices, providing a range of phytonutrients, enzymes, and growth-promoting compounds
-- **Fermented Fruit Juices (FFJ)** — concentrated sources of fruit-derived sugars, organic acids, and micronutrients
-- **Ginger-Garlic Nutrients** — natural antimicrobial and immune-boosting supplements that complement the [[ingham-aact-beauveria-fruit-fly-beneficial-bacteria-inoculant]]
+- **[[ingham-aact-beauveria-fruit-fly-beneficial-bacteria-inoculant]]
 - **Brown Rice Vinegar** — provides acetic acid and trace minerals, supporting microbial metabolism and soil pH balance
-- **[[fish-amino-acid]] (FAA)** — a rich source of nitrogen and amino acids that feeds both the microorganisms and the plants they support
-
-By combining BIM with these bionutrients, the microbial inoculant becomes significantly more effective — the diverse food sources support a wider range of microbial species and sustain their activity longer after application to soil, plant surfaces, or compost.
-
-## Summary
-
-The culturing of forest, bamboo, and plant-specific microorganisms represents an accessible, low-cost approach to building locally adapted [[microbial-inoculants-and-biological-soil-amendments]]. By combining these diverse microbes with purified lactic acid bacteria at a 50/50 ratio and enriching with bionutrients, farmers can create powerful BIM formulations that improve soil health, plant growth, animal nutrition, and waste decomposition without reliance on commercial imported products. The key principles are sourcing from healthy, biodiverse local environments; using cooked rice as a universal trapping medium; preserving cultures with crude sugar or molasses; and always applying with non-chlorinated water at a 1:20 dilution.
+- **[[microbial-inoculants-and-biological-soil-amendments]]. By combining these diverse microbes with purified lactic acid bacteria at a 50/50 ratio and enriching with bionutrients, farmers can create powerful BIM formulations that improve soil health, plant growth, animal nutrition, and waste decomposition without reliance on commercial imported products. The key principles are sourcing from healthy, biodiverse local environments; using cooked rice as a universal trapping medium; preserving cultures with crude sugar or molasses; and always applying with non-chlorinated water at a 1:20 dilution.

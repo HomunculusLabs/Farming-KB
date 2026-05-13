@@ -26,7 +26,7 @@ type: comparison
 
 # Tempeh vs Tofu
 
-Tempeh and tofu are the two most important whole-soybean foods in global cuisine, but they are fundamentally different products made by completely different processes. Tofu is a coagulated soy milk curd — essentially the soy equivalent of cheese. Tempeh is a [[knf-water-soluble-phosphoric-acid-detailed]] proteins, sugars, minerals), concentrating the insolubl [[fungal-enzymes-in-environmental-bioremediation]].
+Tempeh and tofu are the two most important whole-soybean foods in global cuisine, but they are fundamentally different products made by completely different processes. Tofu is a coagulated soy milk curd — essentially the soy equivalent of cheese. Tempeh is a [[fungal-enzymes-in-environmental-bioremediation]].
 
 ## Nutritional Comparison
 
@@ -81,37 +81,7 @@ Tempeh and tofu are the two most important whole-soybean foods in global cuisine
 - **Frying**: Develops a deep golden-brown crust; best when sliced thin or crumbled to increase surface area
 - **Steaming**: Traditional Indonesian preparation — steaming before frying softens the texture
 - **Marinating**: Benefits from longer marinades (30 min+); acidic marinades penetrate better
-- **Distinctive flavor**: Nutty, earthy, mushroom-like umami from [[singh-fungal-metabolism-pahs]]; more assertive than tofu
-- **Crumbling**: Crumbled tempeh sautéed with soy sauce, smoked paprika, and garlic makes an excellent ground meat substitute
-
-## Storage and Shelf Life
-
-| Factor | Tofu | Tempeh |
-|--------|------|--------|
-| **Fresh (unopened)** | Refrigerated, 2–3 weeks | Refrigerated, 5–7 days |
-| **Fresh (opened)** | Submerge in water, change daily; 3–5 days | Wrap tightly; 3–5 days |
-| **Frozen** | 3 months; texture becomes spongy/chewy (desirable for some dishes) | 3 months; minimal texture change |
-| **Pasteurized** | N/A (already pasteurized during production) | 2–3 weeks refrigerated |
-
-## Environmental Considerations
-
-Both tofu and tempeh have favorable environmental profiles compared to animal proteins:
-
-- **Water footprint**: Tofu production uses less water per gram of protein than [[fukuoka-textdoc-agricultural-land-law-obstruction-return-farming]] can be made with kitchen basics — pot, colander, plastic bags — plus a source of warmth.
-- **Land use**: Both are highly efficient users of [[fukuoka-textdoc-agricultural-land-law-obstruction-return-farming]] compared to animal proteins, producing 10–20× more protein per hectare than beef.
-
-## Which to Choose?
-
-| Situation | Better Choice | Why |
-|-----------|--------------|-----|
-| Low-calorie protein | Tofu | ~76 kcal/100g vs ~192 kcal/100g |
-| High-protein meal | Tempeh | ~19g/100g vs ~8g/100g |
-| Fiber intake | Tempeh | 5.5g/100g vs 0.3g/100g |
-| Calcium needs | Tofu (gypsum-set) | Up to 350mg/100g |
-| Iron needs | Tempeh | 2.7mg/100g with better bioavailability |
-| Delicate soups and desserts | Tofu (silken/soft) | Custard-like texture |
-## See Also
-
-- [[comparison-perlite-vs-vermiculite]]
+- **Distinctive flavor**: Nutty, earthy, mushroom-like umami from [[fukuoka-textdoc-agricultural-land-law-obstruction-return-farming]] can be made with kitchen basics — pot, colander, plastic bags — plus a source of warmth.
+- **Land use**: Both are highly efficient users of [[comparison-perlite-vs-vermiculite]]
 
 - [[comparison-tempeh-vs-miso]]

@@ -14,8 +14,7 @@ sources:
   - Zhou LW, et al. (2016). "Sanghuangporus gen. nov. (Hymenochaetaceae) accommodates a core group of 'Sanghuang' mushrooms." Mycoscience, 57(6), 431-440.
   - Wu F, et al. (2019). "Phylogeny and diversity of Sanghuangporus species associated with Morus." Mycologia, 111(5), 823-837.
   - Chen Q, et al. (2020). "Anti-tumor polysaccharides from Sanghuangporus species: A review." International Journal of Biological Macromolecules, 164, 4251-4262.
-  - Shen J, et al. (2017). "Medicinal values of [[sanghuangporus-sanghuang]]: A review." Journal of Ethnopharmacology, 196, 97-108.
-  - Dai YC, et al. (2015). "Wood-inhabiting fungi in China." [[arbuscular-mycorrhizal-fungal-diversity]], 73, 1-10.
+  - Shen J, et al. (2017). "Medicinal values of arbuscular-mycorrhizal-fungal-diversity, 73, 1-10.
 created: 2026-04-28
 ---
 
@@ -41,49 +40,105 @@ The specific epithet *ctenophorus* derives from the Greek *ktenos* (comb) and *p
 
 ## Morphology
 
-**Basidiocarp:** Perennial, sessile to effused-reflexed, woody-corky when dry. Individual [[bloomfield-asterophora-and-mycoparasites-of-fruiting-bodies]] reach 4–12 cm wide, 2–5 cm thick, and 1–3 cm projecting from the substrate surface.
-
-**Upper surface:** Concentrically zonate, rust-brown to dark brown or nearly black. Surface is coarsely tomentose when young, becoming glabrous and cracked with age. Margin is blunt and rounded.
-
-**Pore surface:** Brown to cinnamon-brown, with circular to angular pores numbering 4–6 per mm. Tubes are stratified, 1–3 mm between layers, totaling up to 5 mm in thickness.
-
-**Context:** Corky, duplex. Upper layer is golden-brown, 1–2 mm thick. Lower layer is darker brown and fibrous.
-
-**Spores:** Subglobose to broadly ellipsoid, 3.5–5 × 3–4 μm, hyaline, thin-walled, smooth, IKI-negative.
-
-**Setal hyphae:** Present in the context and tubes, dark brown, thick-walled, with a sharply pointed or occasionally branched apex. These are a diagnostic feature of the Hymenochaetaceae.
-
-## Distribution and Habitat
-
-S. ctenophorus is known from **southern China** (Hainan, Guangxi, Yunnan, Guangdong provinces) and has been tentatively recorded from northern **Vietnam** and **Thailand**. It occurs in tropical and subtropical monsoon forests at elevations of 200–1,200 m.
-
-The species is a **white rot** fungus, causing a selective delignification of host wood. It fruits almost exclusively on living or recently dead standing trunks and fallen logs of broadleaf trees, particularly species in the families **Fagaceae** (Castanopsis, Lithocarpus) and **Moraceae** (Morus, Artocarpus).
-
-Collections are strongly seasonal, with fruiting bodies most commonly encountered during the warm, humid months from May to October.
-
-## Chemistry and Bioactivity
-
-As a member of the Sanghuangporus clade, S. ctenophorus produces a profile of bioactive metabolites characteristic of the sanghuang group. The principal classes of [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]] include:
+**Basidiocarp:** Perennial, sessile to effused-reflexed, woody-corky when dry. Individual [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]] include:
 
 **Polysaccharides:** β-D-glucans with immunomodulatory properties. Water-soluble polysaccharide fractions from related Sanghuangporus species demonstrate significant anti-tumor activity in murine sarcoma 180 and Lewis lung carcinoma models through macrophage activation and NK cell enhancement.
 
 **Polyphenols and hispidin derivatives:** These compounds exhibit strong antioxidant activity, scavenging DPPH and hydroxyl radicals with IC50 values comparable to ascorbic acid.
 
-**Triterpenoids:** Lanostane-type triterpenes with documented anti-inflammatory activity. Inonotusol and related compounds inhibit NF-κB [[plant-signaling-pathways]].
-
-Specific pharmacological activities reported for Sanghuangporus species include:
-
-- Anti-tumor activity through immune potentiation and direct cytotoxicity
-- Hepatoprotective effects against carbon tetrachloride–induced liver injury
-- Anti-diabetic activity via α-glucosidase inhibition and glycemic regulation
-- Antimicrobial activity against [[staphylococcus-aureus]] and Escherichia coli
+**Triterpenoids:** Lanostane-type triterpenes with documented anti-inflammatory activity. Inonotusol and related compounds inhibit NF-κB [[staphylococcus-aureus]] and Escherichia coli
 
 Note: Most published pharmacological data pertains to the better-studied S. sanghuang and S. linteus; S. ctenophorus-specific bioassays remain limited.
 
 ## Cultivation
 
-[[fukuoka-matsutake-artificial-cultivation-attempt]] of S. ctenophorus remains in early research stages. Like other Sanghuangporus species, it is a slow colonizer with exacting substrate requirements. [[psychedelic-therapy-current-research]] has focused on two approaches.
+[[psychedelic-therapy-current-research]] has focused on two approaches.
 
 **Solid-substrate cultivation** uses supplemented hardwood sawdust (oak, beech, or Castanopsis) blended with wheat bran at 10–20% by weight. Substrates are sterilized at 121°C for 90 minutes and inoculated with grain spawn. Colonization at 25–28°C requires 60–90 days.
 
 Fruiting induction involves cold shock (4–6°C for 48–72 hours), followed by transfer to a high-humidity (>85%) [[gottlieb-psilocybin-cultivation-fruiting-chamber-design]] at 22–25°C with diffuse light. First fruiting bodies may appear 2–4 weeks after induction, but yields and consistency remain variable.
+
+## Overview
+
+Sanghuangporus Ctenophorus represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish sanghuangporus ctenophorus
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving sanghuangporus extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Sanghuangporus Ctenophorus finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for sanghuangporus ctenophorus. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+sanghuangporus ctenophorus and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Sanghuangporus Ctenophorus has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of sanghuangporus ctenophorus into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[sanghuangporus-linteus]]
+- [[sanghuangporus-lonicericola]]
+- [[sanghuangporus-sanghuang]]
+- [[sanghuangporus-vaninii]]
+- [[sanghuangporus-villosus]]

@@ -1,16 +1,15 @@
 ---
-title: Underground Greenhouse Walipini
+title: Underground Greenhouse (Walipini)
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [season-extension, construction, permaculture, sustainability, homesteading, energy]
-sources:
-  - "raw/papers/coleman-new-organic-grower.md"
+sources: []
 ---
 
 # Underground Greenhouse (Walipini)
 
-A walipini (from the Aymara word for "place of warmth") is an underground or earth-sheltered greenhouse that uses the earth's [[comparison-windbreak-vs-thermal-mass]] to maintain stable growing temperatures year-round. By digging the growing area into the ground and covering it with a glazed roof, the walipini harnesses [[mollison-designers-passive-solar-heating-building-design]] combined with geothermal insulation to grow food through winter in climates that would otherwise be too cold for outdoor production.
+A walipini (from the Aymara word for "place of warmth") is an underground or earth-sheltered greenhouse that uses the earth's thermal mass to maintain stable growing temperatures year-round. By digging the growing area into the ground and covering it with a glazed roof, the walipini harnesses passive solar heating combined with geothermal insulation to grow food through winter in climates that would otherwise be too cold for outdoor production.
 
 ## How It Works
 
@@ -22,7 +21,7 @@ The earth below the frost line maintains a constant temperature of approximately
 
 ### 2. Passive Solar Heating
 
-A south-facing (in the Northern Hemisphere) angled roof covered with glazing captures low-angle winter sunlight. The sunlight enters, warms the interior air and soil, and the heat is absorbed by the earth floor and back wall (thermal mass). At night, this stored heat radiates back into the [[cotter-growing-space-design-fruiting-rooms]].
+A south-facing (in the Northern Hemisphere) angled roof covered with glazing captures low-angle winter sunlight. The sunlight enters, warms the interior air and soil, and the heat is absorbed by the earth floor and back wall (thermal mass). At night, this stored heat radiates back into the growing space.
 
 ### 3. Thermal Mass
 
@@ -38,7 +37,7 @@ The earth walls, floor, and any additional thermal mass (water barrels, stone wa
 
 ### Orientation
 
-- **Face south:** The long axis of the walipini should run east-west, with the glazed roof facing due south (in the Northern Hemisphere) for maximum winter [[savory-energy-flow-and-solar-capture]]
+- **Face south:** The long axis of the walipini should run east-west, with the glazed roof facing due south (in the Northern Hemisphere) for maximum winter solar capture
 - **Slope the roof:** The glazing should be angled at approximately your latitude plus 10-15 degrees. For example, at 40° latitude, angle the roof at 50-55° to capture low winter sun while shedding summer sun.
 - **Avoid shading:** Position away from buildings, trees, and hills that block southern exposure, especially in winter when the sun is low
 
@@ -48,7 +47,7 @@ The earth walls, floor, and any additional thermal mass (water barrels, stone wa
 - **Above-grade height:** 4-6 feet at the front (south) wall, increasing to 8-10 feet at the back (north) wall
 - **Total height:** 10-16 feet at the back wall
 - **Width:** 10-20 feet. Wider is more stable but harder to span with the roof glazing.
-- **Length:** 20-60+ feet. Longer walipinis provide more growing space and better [[stamets-growing-room-air-circulation-co2-management]].
+- **Length:** 20-60+ feet. Longer walipinis provide more growing space and better air circulation.
 
 ### The Roof Angle
 
@@ -101,7 +100,7 @@ Water is the enemy of underground structures. Install drainage before building a
 
 ### 4. Build the Walls
 
-- **Back wall (north):** Build from stone, concrete block, rammed earth, or poured concrete. This wall should be thick and massive for [[coleman-soil-heat-mass-passive-thermal-storage]].
+- **Back wall (north):** Build from stone, concrete block, rammed earth, or poured concrete. This wall should be thick and massive for thermal storage.
 - **Side walls:** Continue the excavation walls with retained earth, stone, or concrete block. These should also be massive.
 - **Front wall (south):** Build from concrete block, stone, or timber. This wall is low and supports the glazing.
 - **Waterproofing:** Apply waterproof coating or membrane to the outside of all below-grade walls.
@@ -124,8 +123,8 @@ Water is the enemy of underground structures. Install drainage before building a
 
 ### Inside the Walipini
 
-- **Humidity:** Underground greenhouses tend to have high humidity due to evaporation from the earth floor. Provide adequate ventilation to [[query-how-do-i-prevent-mold-and-mildew-in-my-cannabis-grow]] fungal issues.
-- **Watering:** The earth floor can provide some moisture to plant roots from below, but supplemental watering is usually needed. Use [[cervantes-drip-irrigation-systems]] or water by hand.
+- **Humidity:** Underground greenhouses tend to have high humidity due to evaporation from the earth floor. Provide adequate ventilation to prevent mold and fungal issues.
+- **Watering:** The earth floor can provide some moisture to plant roots from below, but supplemental watering is usually needed. Use drip irrigation or water by hand.
 - **Condensation:** Condensation will form on the glazing. Direct it to drainage channels so it doesn't drip on plants.
 
 ### Outside Drainage
@@ -141,10 +140,11 @@ Water is the enemy of underground structures. Install drainage before building a
 - **Leafy greens:** Spinach, kale, lettuce, chard, Asian greens, arugula, mustard
 - **Root crops:** Carrots, beets, radishes, turnips, parsnips
 - **Alliums:** Garlic, onions, leeks, scallions
-- **Herbs:** Parsley, cilantro, chives, mint, rosemary (if warm enough)
 
-### Summer Management
+## See Also
 
-- **Ventilation:** Open all vents and doors. Consider removing sections of glazing.
-- **Shade cloth:** 50-70% shade cloth over the glazing reduces heat load
-- **[[coleman-crop-selection]]:** Switch to heat-loving crops (tomatoes, peppers, cucumbers) or use the walipini as a propagation area
+- [[magic-mushrooms-british-underground]]
+- [[neurotropic-fungi-underground-trade-legislation-guzman-1998]]
+- [[underground-earth-sheltered-housing]]
+- [[guzman-allen-gartz-recreational-use-degeneration-underground-neurotropic-fungi-trade]]
+- [[oss-oeric-history-and-impact-underground-classic]]

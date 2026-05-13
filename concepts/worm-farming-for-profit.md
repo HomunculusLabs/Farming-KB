@@ -9,7 +9,7 @@ sources: []
 
 # Worm Farming for Profit
 
-Vermicomposting -- raising earthworms to process organic waste into nutrient-rich castings -- can become a profitable homestead business. Worm castings (vermicast) are among the finest [[cannabis-organic-fertilizers]] available, and the worms themselves have multiple markets.
+[[vermicomposting]] -- raising [[earthworms]] to process organic waste into nutrient-rich castings -- can become a profitable homestead business. Worm castings (vermicast) are among the finest organic fertilizers available, and the worms themselves have multiple markets.
 
 ## Getting Started
 
@@ -24,7 +24,7 @@ Begin with 1-2 pounds of worms (roughly 1,000 worms per pound) for a small bin. 
 ### Bin Systems
 - Flow-through bins: continuous harvesting without disturbing worms. Best for scaling.
 - Stackable tray systems (Worm Factory): compact, good for beginners, easy to manage.
-- Windrows: long piles on the ground for large-scale outdoor operations. Requires [[mollison-pdc-trellis-systems-climate-control]] in extreme weather.
+- Windrows: long piles on the ground for large-scale outdoor operations. Requires climate control in extreme weather.
 - In-ground pits: buried bins that provide natural insulation. Excellent in mild climates.
 
 ## Feedstock Management
@@ -34,7 +34,7 @@ Worms eat most organic matter but have preferences:
 - Preferred: fruit and vegetable scraps, coffee grounds, crushed eggshells, aged manure (horse, cow, rabbit -- not fresh)
 - Acceptable: shredded newspaper, cardboard, leaves, garden waste
 - Avoid: meat, dairy, oily foods, citrus (in excess), spicy foods, pet waste (disease risk)
-- Toxic: anything treated with pesticides, herbicides, or [[cannabis-chemical-fertilizers]]
+- Toxic: anything treated with pesticides, herbicides, or chemical fertilizers
 
 Feed in thin layers (1-2 inches) rather than burying deep. Overfeeding causes anaerobic conditions and foul odors. If the bin smells bad, stop feeding until the worms catch up. Maintain a carbon-to-nitrogen ratio of roughly 30:1 using bedding materials.
 
@@ -52,7 +52,7 @@ Dedicated worm facility with flow-through systems or windrows. Process waste on 
 ## Products and Revenue Streams
 
 ### Worm Castings
-The primary product. Retail price: $15-40 per cubic foot bag. Wholesale: $200-600 per cubic yard. Castings contain humic acids, beneficial microbes, [[gibberellins-plant-growth-hormones]], and balanced NPK (roughly 1-1-1). They [[query-how-do-fungi-improve-soil-structure]], water retention, and disease resistance.
+The primary product. Retail price: $15-40 per cubic foot bag. Wholesale: $200-600 per cubic yard. Castings contain humic acids, beneficial microbes, plant growth hormones, and balanced NPK (roughly 1-1-1). They improve soil structure, water retention, and disease resistance.
 
 Premium markets: organic farmers, cannabis growers, greenhouse operations, high-end garden centers, golf courses, vineyards.
 
@@ -90,7 +90,7 @@ Operating costs are minimal -- worms are low-maintenance once established. Labor
 
 ## Regulations
 
-Check local ordinances before scaling. Some areas regulate worm farming as agriculture, which may affect zoning, water use, and waste processing permits. Selling fertilizers may require state labeling compliance. [[fukuoka-critique-organic-certification]] is possible for castings if input materials are certified organic.
+Check local ordinances before scaling. Some areas regulate worm farming as agriculture, which may affect zoning, water use, and waste processing permits. Selling fertilizers may require state labeling compliance. Organic certification is possible for castings if input materials are certified organic.
 
 ## Related Concepts
 

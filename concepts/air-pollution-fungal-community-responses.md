@@ -23,34 +23,13 @@ Fungi, particularly lichenized species and wood-inhabiting macrofungi,
 have proven to be sensitive indicators of air quality, providing
 valuable tools for environmental monitoring and conservation assessment.
 
-## [[basidiomycete-phylum-guide]] have been documented in
-  Scandinavian studies (Heinrich and Wojewoda 1976; Gulden et al.
-  1992; Fellner 1993; Carreiro et al. 2000)
-- Changes in species composition and diversity have been correlated
-  with proximity to pollution sources
-- Ectomycorrhizal fungi may be particularly sensitive because they
-  depend on host tree health, which can be compromised by pollution
-- [[mycorrhizal-fungi]] may decline in nitrogen-enriched environments
+## [[mycorrhizal-fungi]] may decline in nitrogen-enriched environments
   as their mutualistic function becomes less critical to host plants
 - Nitrogen-loving (nitrophilous) saprobic species may increase in
   abundance
-- Changes in fungal [[core-endorhiza-bacterial-community-composition-cannabis]] can cascade through
-  [[fungal-ecosystem-processes-overview]], affecting decomposition rates and nutrient
+- Changes in fungal [[fungal-ecosystem-processes-overview]], affecting decomposition rates and nutrient
   cycling
-- The interaction between [[dighton-nitrogen-deposition-mycorrhizal-community-shifts]] and other pollutants
-  (acidification, heavy metals) may produce synergistic effects
-
-## Acidification Effects
-
-Soil and water acidification from atmospheric deposition affects
-fungal communities through multiple pathways:
-
-- Direct effects of low pH on fungal growth and sporulation
-- Indirect effects through changes in substrate chemistry and host
-  plant physiology
-- Mobilization of toxic aluminum and heavy metals in acidified soils
-- Changes in competitive interactions among fungal species
-- Effects on [[fungal-ecology]].
+- The interaction between [[fungal-ecology]].
 
 ## Monitoring Fungal Responses to Pollution
 
@@ -118,8 +97,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[doc]]
 - [[det]]
-- [[mycorrhizal-fungi]]
 - [[ectomycorrhizal-fungi]]
 - [[ectomycorrhiza]]

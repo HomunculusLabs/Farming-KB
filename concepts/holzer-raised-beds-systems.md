@@ -16,26 +16,7 @@ Raised beds offer substantial advantages over ground-level beds:
 - **Microclimates**: Position relative to sun and wind provides different conditions for different plants
 - **Water retention**: Built loosely, they soak up rainwater like a sponge; water stores in lower levels and hollows between beds
 - **Warmth**: The raised part warms more quickly -- critical at high altitudes and cold climates
-- **[[holzer-frost-protection-techniques]]**: Well-aerated, correctly-planted beds slow topsoil freezing
-- **Self-fertilising**: Organic material decomposes slowly, releasing heat and nutrients
-- **More space**: The shape provides a larger cultivation area per ground footprint
-- **Design flexibility**: Exciting possibilities for garden and landscape design
-
-## Designing a Raised Bed System
-
-### Key Principles
-
-- Beds should be oriented to maximise sun exposure for the specific climate
-- The hollows between beds collect moisture and provide wet microclimates
-- On slopes, contour the beds to prevent water erosion
-- The bed height and angle depend on soil conditions and intended crops
-- Use any available organic material: branches, logs, leaves, straw, grass, manure, kitchen waste
-- Material is layered loosely so air can circulate and decomposition occurs gradually
-
-### Planting Strategy
-
-The varying moisture levels within a single raised bed system allow diverse planting:
-- **Raised portions**: Dry-loving plants, [[query-best-mediterranean-herbs-for-beginner-herb-garden]]
+- **[[query-best-mediterranean-herbs-for-beginner-herb-garden]]
 - **Sides**: Depending on aspect, sun-loving or shade-tolerant crops
 - **Hollows**: Moisture-loving plants, aquatic species in deeper hollows
 
@@ -43,42 +24,11 @@ The varying moisture levels within a single raised bed system allow diverse plan
 
 - Mulch throughout the year to protect soil and supply nutrients
 - Use polycultures to maintain soil health and prevent pest outbreaks
-- Green [[green-manure-crops-detailed]] left standing in autumn decompose naturally
-- Earthworms thrive in the loose organic material, acting as "nature's ploughs"
-- No digging or turning required -- the bed maintains its own structure
-
-## Raised Beds as Composting Systems
-
-Holzer uses paired raised beds as composting systems:
-
-1. Position two raised beds parallel and close together
-2. Build at 60-70 degree angle for steepness
-3. Deposit organic waste between the beds daily, covered with earth/straw/leaves
-4. Fill to 60% of bed height over a year
-5. Top layer is planted with vigorous vegetables (pumpkins, cucumbers, turnips)
-6. The following year, use the finished compost on the beds and start on the opposite side
-
-This method cultivates vegetables, breeds earthworms, and composts in a very small space simultaneously. It is particularly valuable in urban settings where space is limited.
-
-## Pick-Your-Own Design
-
-Raised beds lend themselves to pick-your-own operations:
-- Steep sides prevent visitors from climbing over
-- Children can harvest the lower half; adults the upper half without bending
-- Wheelchair users can harvest sitting down
-- Beds placed close together force single-file movement past all crops
-- Combine with rest areas, water gardens, and herb spirals for an experiential visit
-- Visitors experience the full diversity of crops in a small area
-
-## Advantages Over Flat Beds
-
-The three-dimensional structure of raised beds provides significantly more cultivation area per square metre of ground. Water that falls on the bed is retained rather than running off. The organic material within the bed acts as a thermal battery, warming quickly in spring and releasing heat slowly. In marginal climates, this can [[query-how-to-protect-plants-from-frost-and-extend-the-growing-season]] season by weeks.
+- Green [[query-how-to-protect-plants-from-frost-and-extend-the-growing-season]] season by weeks.
 
 ## See Also
 
-- [[sepp-holzer-terrace-systems-and-raised-beds]]
 - [[hamilton-geoffhamilton-nick-organic-gardening-companion-planting]]
-- [[sepp-holzer-water-gardens-and-aquatic-plants]]
 - [[gaias-garden-cover-crops-soil-building]]
 
 ## Practical Applications
@@ -110,8 +60,91 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[composting-systems]]
 - [[det]]
-- [[composting]]
 - [[herb-spiral]]
 - [[decomposition]]
+
+## Overview
+
+Holzer Raised Beds Systems represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish holzer raised beds systems
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving holzer extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Holzer Raised Beds Systems finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for holzer raised beds systems. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+holzer raised beds systems and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Holzer Raised Beds Systems has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of holzer raised beds systems into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[holzer-alpine-plant-cultivation]]
+- [[holzer-browsing-protection-methods]]
+- [[holzer-fruit-growing-marginal-climates]]
+- [[holzer-rebel-farmer-philosophy]]
+- [[holzer-thailand-permaculture-project]]

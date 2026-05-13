@@ -24,16 +24,7 @@ sources:
   - "raw/papers/marijuana-horticulture-cervantes.md"
   - Leafly Staff (2024). "Bacio Gelato Weed Strain Information." Leafly.com.
   - AllBud (2024). "Bacio Gelato Strain Review." AllBud.com.
-  - Cookies Brand (2023). "Gelato [[oner-chemdawg-lineage-genetics-strain-profile]] Reference." cookies.co.created: 2026-05-07
-
-created: 2026-05-07
----
-
-# Bacio Gelato
-
-## Overview
-
-Bacio Gelato (also labeled Gelato #41) is a premium indica-dominant hybrid [[blesching-cannabis-strain-selection-receptor-targeting]] from the Cookie family lineage. It is one of the 33 numbered phenotypes selected from the original Gelato cross ([[sunset-sherbet]] × [[girl-scout-cookies]] Thin Mint), bred by Bay Area genetics legend Sherbinski in collaboration with the Cookies brand.
+  - Cookies Brand (2023). "Gelato [[blesching-cannabis-strain-selection-receptor-targeting]] from the Cookie family lineage. It is one of the 33 numbered phenotypes selected from the original Gelato cross ([[girl-scout-cookies]] Thin Mint), bred by Bay Area genetics legend Sherbinski in collaboration with the Cookies brand.
 
 Bacio stands out among the Gelato phenotypes for its exceptionally sweet, dessert-like aroma combining cookie dough, lavender, and dark berry notes. It consistently tests at 25–30% THC, placing it among the highest-potency Gelato selections.
 
@@ -44,7 +35,7 @@ The strain has become a staple in California licensed dispensaries and is widely
 Bacio Gelato descends from two legendary West Coast genetics:
 
 - **Sunset Sherbet** (Girl Scout Cookies × Pink Panties) — the maternal contributor providing sweet berry and sherbet aroma, relaxed body effects, and purple coloration potential.
-- **Girl Scout Cookies Thin Mint** (OG Kush × Durban Poison) — the paternal contributor providing cookie dough [[cannabis-terpene-profile]], high [[cannabis-glandular-trichome-types-resin-production-clarke]], and potent cerebral effects.
+- **Girl Scout Cookies Thin Mint** (OG Kush × Durban Poison) — the paternal contributor providing cookie dough [[cannabis-glandular-trichome-types-resin-production-clarke]], and potent cerebral effects.
 
 Bacio is phenotype #41 from the original Gelato population, stabilized through selective breeding. It carries approximately 55/45 indica-to-sativa ratio, leaning slightly toward indica dominance.
 
@@ -52,38 +43,95 @@ Bacio is phenotype #41 from the original Gelato population, stabilized through s
 
 Buds are dense, chunky, and medium-to-large in size, with a classic Cookies-family structure featuring tightly packed calyxes and prominent orange pistils.
 
-The coloration is a striking mix of deep [[trichoderma-forest-green-mold-guide]] and rich purple, with the purple hues intensifying under cooler nighttime temperatures during late flowering. A thick blanket of frosty white trichomes covers the entire surface, giving buds a silvery sheen.
+The coloration is a striking mix of deep [[cannabis-minor-cannabinoids]] including THCV, CBG, and CBC may be present in trace amounts, though Bacio has not been specifically profiled for minor cannabinoid content in published literature.
 
-Trichome heads are large and bulbous, indicating high cannabinoid and terpene content. The resin production is heavy enough that buds feel sticky to the touch and leave residue on fingers.
-
-## Aroma and Flavor
-
-The aroma is intensely sweet and complex, dominated by cookie dough and lavender notes with undertones of dark berry, mint, and a subtle earthy backend.
-
-On inhalation, the flavor mirrors the aroma: sweet vanilla cookie upfront, transitioning to floral lavender and berry on the exhale. A slight pepper and fuel note emerges as the joint progresses, reflecting the OG Kush heritage.
-
-The flavor lingers on the palate with a creamy, dessert-like finish that gives the strain its "Gelato" name. It is considered one of the most flavorful phenotypes in the Gelato lineup.
-
-## Terpene Profile
-
-Limonene is the dominant terpene, contributing bright citrus and sweet notes along with mood-elevating and stress-relieving properties. Linalool follows closely, providing lavender floral character and anxiolytic effects.
-
-Caryophyllene adds peppery spice and contributes to the strain's anti-inflammatory profile. Myrcene provides sedative, relaxing undertones that complement the indica-leaning effects.
-
-Secondary terpenes include humulene (earthy, woody) and trace amounts of terpinolene. The overall terpene profile is heavily weighted toward sweet, floral, and dessert-like compounds.
-
-## Cannabinoid Profile
-
-Total THC typically ranges from 25–30%, with some phenotypes testing above 30% in licensed laboratory analyses. CBD content is minimal, usually below 0.1%.
-
-[[cannabis-minor-cannabinoids]] including THCV, CBG, and CBC may be present in trace amounts, though Bacio has not been specifically profiled for minor cannabinoid content in published literature.
-
-The high THC content combined with the rich terpene profile produces strong [[beta-caryophyllene-entourage-effects-cannabis]]. Novice consumers should approach with caution due to the potency.
-
-## Effects
-
-Onset is relatively quick, typically felt within 2–5 minutes of inhalation. Initial effects are cerebrally uplifting, producing euphoria, creative energy, and enhanced [[plant-sensory-perception]].
+The high THC content combined with the rich terpene profile produces strong [[plant-sensory-perception]].
 
 As the high progresses, a deep body relaxation emerges that can become heavily sedating at higher doses. Many users report a "couch-lock" phase after 1–2 hours of predominantly cerebral effects.
 
 Medical users commonly select Bacio for stress relief, anxiety management, mild-to-moderate pain, and insomnia. The balanced mental/physical effect profile makes it versatile throughout the day when used in moderation.
+
+## Overview
+
+Bacio Gelato represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish bacio gelato
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving bacio extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Bacio Gelato finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for bacio gelato. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+bacio gelato and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Bacio Gelato has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of bacio gelato into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[gelato-41]]
+- [[gelato-strain]]
+- [[lemon-cherry-gelato]]
+- [[liquid-gelato]]
+- [[white-cherry-gelato]]

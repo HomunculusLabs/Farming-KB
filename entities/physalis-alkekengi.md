@@ -21,49 +21,11 @@ sources:
 
 Physalis alkekengi, commonly known as Chinese lantern, bladder cherry, or Japanese lantern, is a perennial herbaceous plant in the family Solanaceae. It is widely recognized for its inflated, bright orange-red calyx that encloses the berry.
 
-The species is native to temperate Eurasia, ranging from Europe through Central Asia to Japan. It has been introduced widely as an ornamental and has naturalized in parts of [[psilocybin-north-america-pacific-northwest]].
-
-The dried calyx (jin deng long in Chinese, chōsen-asagao in Japanese) is a traditional medicinal material used across East Asian and European herbal systems. The berry is edible when fully ripe but unripe fruit and calyx contain solanine-related alkaloids.
-
-## Taxonomy and Morphology
-
-**Classification:** Plantae → Solanaceae → Solanoideae → Physaleae → Physalis → P. alkekengi.
-
-**Authority:** Carl Linnaeus (1753). The infraspecific taxon P. alkekengi var. franchetii (Mast.) Makino is sometimes recognized for the East Asian form with larger calyces and is the primary medicinal variety.
-
-**Growth habit:** Perennial herb, 40–90 cm tall, from a creeping rhizome system. Stems are erect, simple or sparingly branched, and glabrous to sparsely pubescent.
-
-**Leaves:** Alternate, ovate to lanceolate, 4–10 cm long and 2–5 cm wide. Margins are entire or shallowly sinuate. Petioles are 1–3 cm with the upper leaves often sessile.
-
-**Flowers:** Solitary, nodding, in leaf axils. Calyx is campanulate, 5–8 mm, with five triangular lobes. Corolla is pale yellow to white, 10–15 mm in diameter, with five fused petals and brownish anthers.
-
-**Fruit:** A globose berry, 10–15 mm in diameter, orange-red when ripe, enclosed by the accrescent calyx. The calyx expands dramatically after flowering to form the characteristic lantern structure, reaching 3–5 cm in length.
-
-The calyx turns from green to vivid scarlet-orange in autumn, providing the ornamental value for which the species is cultivated. It persists well after leaf senescence.
-
-**Rhizome:** Horizontal, fleshy, creeping, with numerous buds. The rhizome enables vegetative spread and allows the plant to persist through cold winters in temperate climates.
-
-## Distribution and Habitat
-
-The native range extends from southern and central Europe (France, Italy, Balkans) through Turkey, the Caucasus, and Central Asia to China, Korea, and Japan. It grows at elevations from sea level to 2,500 m.
-
-The species colonizes open woodlands, forest margins, grassy slopes, riverbanks, and disturbed ground. It tolerates a wide range of soil types but prefers well-drained loams with moderate fertility.
-
-It is hardy to USDA Zone 3 (−40 °C), making it one of the most cold-tolerant Physalis species. In colder parts of its range, aerial growth dies back completely in winter and regenerates from the rhizome in spring.
-
-Naturalized populations occur in [[polypore-fungi-eastern-north-america]] America, where the species was introduced as an ornamental. It is considered invasive in some areas due to aggressive rhizomatous spread.
+The species is native to temperate Eurasia, ranging from Europe through Central Asia to Japan. It has been introduced widely as an ornamental and has naturalized in parts of [[polypore-fungi-eastern-north-america]] America, where the species was introduced as an ornamental. It is considered invasive in some areas due to aggressive rhizomatous spread.
 
 ## Cultivation
 
-Propagation is primarily by rhizome division in [[coleman-overwintered-onions-and-early-spring-crops]] or by seed. Seeds require cold stratification (4 °C, 4–6 weeks) and germinate in 2–4 weeks at 20 °C.
-
-Plants prefer full sun to partial shade and are tolerant of poor soils. The species is drought-tolerant once established but produces larger fruit and calyces with regular watering.
-
-The ornamental form is grown for its dried calyxes, which are harvested when fully colored in early autumn. Stems with intact calyxes are air-dried upside-down and retain their color for months.
-
-Medicinal root harvest occurs in autumn of the third or fourth year. Roots are washed, sliced, and dried at temperatures below 50 °C to preserve labile withanolide compounds.
-
-The species is relatively pest-free but can be affected by aphids, flea beetles, and Verticillium wilt. [[cannabis-root-rot-prevention-and-treatment]] in poorly drained soils is the most common cause of plant loss.
+Propagation is primarily by rhizome division in [[cannabis-root-rot-prevention-and-treatment]] in poorly drained soils is the most common cause of plant loss.
 
 ## Chemistry and Pharmacology
 
@@ -88,3 +50,85 @@ In Japan, the dried calyx is a symbol of late autumn and is featured in seasonal
 In European folk medicine, the fruit was used as a diuretic and treatment for kidney stones. The calyx was applied topically for gout and rheumatic pain, though these uses lack clinical validation.
 
 ## Ecological Interactions
+
+## Overview
+
+Physalis Alkekengi represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish physalis alkekengi
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving physalis extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Physalis Alkekengi finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for physalis alkekengi. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+physalis alkekengi and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Physalis Alkekengi has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of physalis alkekengi into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[physalis-peruviana]]
+- [[physalis-pruinosa]]

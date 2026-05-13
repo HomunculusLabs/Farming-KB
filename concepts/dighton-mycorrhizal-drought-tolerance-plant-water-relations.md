@@ -1,46 +1,18 @@
 Source: john dighton fungi in ecosystem processes
 
-[[plants-without-mycorrhizal-associations]] significantly improve plant drought tolerance and
-water relations through multiple complementary mechanisms including direct
-water transport via fungal hyphae, enhanced phosphorus nutrition, and altered
-hormonal balance, with important implications for ecosystem resilience under
-increasing climate stress.
-
-## Mechanisms of Mycorrhizal Drought Tolerance
-
-In addition to improving plant nutrition, [[mycorrhizae]] associations have a
+[[mycorrhizae]] associations have a
 significant impact on plant water relations and can help alleviate drought
 stress (Sánchez-Díaz and Honrubia, 1994). This benefit arises from three
 principal and potentially interacting mechanisms:
 
 1. **Direct water flow through fungal hyphae**: The extensive extraradical hyphal
-   network of [[mycorrhizae]] can explore soil volumes beyond the root depletion
-   zone. Fungal hyphae (2-10 μm diameter) can penetrate smaller soil pores than
-   root hairs (100-500 μm), accessing water films unavailable to plant roots.
-
-2. **Improvement in plant phosphate nutrition**: Enhanced phosphorus uptake by
-   [[mycorrhizae]] improves root [[water-infiltration-soil-hydraulic-conductivity]] and stomatal regulation.
-   Better P nutrition supports ATP-dependent processes including aquaporin
-   operation that maintains cellular water balance during deficit.
-
-3. **Altered hormonal balance**: [[mycorrhizae]] colonization modifies plant
+   network of [[mycorrhizae]] improves root [[mycorrhizae]] colonization modifies plant
    hormone production, particularly abscisic acid (ABA) levels that regulate
    stomatal closure and drought-responsive gene expression.
 
 Fitter (1985) suggested that because of the observed lack of consistent
-nutritional benefit of [[mycorrhizae]] in natural ecosystems, other benefits such
-as drought tolerance may be the primary rationale for the existence of
-[[mycorrhizae]] in many plant communities. This shifts understanding of the
-evolutionary significance of [[arbuscular-mycorrhizal-symbiosis]] from purely nutritional to
-encompassing stress tolerance functions.
-
-## Augé's Review of Arbuscular Mycorrhizae and Drought
-
-Augé (2001) conducted a comprehensive review of arbuscular mycorrhiza
-colonization in relation to drought stress. Root colonization by arbuscular mycorrhiza fungi increased water relations of plants under both drought
-conditions and during periods of adequate water supply.
-
-This indicates that [[mycorrhizae]] provide a baseline improvement in plant water
+nutritional benefit of [[mycorrhizae]] in many plant communities. This shifts understanding of the
+evolutionary significance of [[mycorrhizae]] provide a baseline improvement in plant water
 status that becomes especially valuable during drought events. The extraradical
 hyphal network operates continuously, improving soil exploration regardless of
 soil moisture status. This constitutive improvement means mycorrhizal plants may
@@ -50,14 +22,9 @@ providing a buffer against water stress onset.
 ## Studies with Acacia and Leucaena
 
 The effect of arbuscular mycorrhiza infection on the tropical trees *Acacia
-nilotica* and *[[leucaena-leucocephala]]* was investigated by Michelsen and
-Rosendahl (1990). arbuscular mycorrhiza infection benefited *Leucaena* most
-under droughty conditions.
-
-Phosphorus addition improved growth of both species, and [[mycorrhizae]]
+nilotica* and *[[mycorrhizae]]
 mirrored the effect of adding P. Critically, however, the effect of
-[[mycorrhizae]] was greater than P addition alone in *Leucaena* under drought
-stress. This demonstrates that drought tolerance conferred by [[mycorrhizae]]
+[[mycorrhizae]]
 extends beyond improved phosphorus nutrition, pointing to direct hyphal water
 transport as a significant contributor to drought amelioration.
 
@@ -83,39 +50,14 @@ in *Lolium perenne* for drought tolerance; growth under both droughty and
 normal conditions was lower with the endophyte present. This highlights
 the complexity of plant-fungal interactions and suggests that endophyte
 effects depend on host-endophyte genotype, drought severity, and interacting
-factors such as [[ph-and-nutrient-availability-garden-soils]] and temperature.
-
-The influence of fungi on drought tolerance extends beyond endophyte
-species. Inoculation of *Gmelina arborea* seedlings with the saprotrophic
-fungus *Chaetomium bostrychoides* increased both seed germination and tolerance
-to desiccating conditions (Osonubi et al., 1990). Seed-inoculated plants showed
-dramatically greater biomass after drought: shoot biomass of 9.36 g (droughted)
-versus 5.89 g (undroughted), and root biomass of 4.47 g versus 2.65 g,
-suggesting pre-drought inoculation primed plants for improved recovery.
-
-## Salinity Effects on Mycorrhizal Development
-
-Where irrigation plays a significant part in agroecosystem management, water
-evaporation often leaves localized increases in soil salinity. Juniper and
-Abbott (1993) demonstrated that increased soil salinity can reduce
-germination of arbuscular mycorrhiza spores and reduce extraradical hyphal
-growth. Plants in saline soils thus have a reduced mycorrhizal component,
-probably detrimental to their growth and survival.
-
-The impact of salinity on [[arbuscular-mycorrhizal-colonization-patterns]] is, however, a matter
+factors such as [[arbuscular-mycorrhizal-colonization-patterns]] is, however, a matter
 of degree. Some tolerance of arbuscular mycorrhiza to salinity has been
 observed (Sengupta and Chaudhuri, 1990), although reductions in development occur
 with increasing salinity (Semones and Young, 1995; Baker et al., 1995;
 Johnson-Green et al., 2001).
 
 Johnson-Green et al. (2001) suggest that although mycorrhizal function is
-reduced in highly saline soils, [[mycorrhizae]] could still benefit the
-revegetation of salt-degraded soils. This has important practical implications
-for restoration ecology and rehabilitation of saline agricultural lands.
-
-## Implications for Ecosystem Resilience
-
-The capacity of [[mycorrhizae]] and other fungal symbionts to improve plant
+reduced in highly saline soils, [[mycorrhizae]] and other fungal symbionts to improve plant
 drought tolerance and water relations has significant implications for
 ecosystem resilience under climate change. As drought events become more frequent
 and severe, the mycorrhizal component may become increasingly critical for
@@ -132,3 +74,76 @@ function underscore the importance of maintaining healthy mycorrhizal communitie
 Managing for mycorrhizal health may help mitigate both water stress and salt
 stress simultaneously, offering a biological approach to improving ecosystem
 resilience under increasingly variable water availability.
+
+## Overview
+
+Dighton Mycorrhizal Drought Tolerance Plant Water Relations represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish dighton mycorrhizal drought tolerance plant water relations
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving dighton extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Dighton Mycorrhizal Drought Tolerance Plant Water Relations finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for dighton mycorrhizal drought tolerance plant water relations. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+dighton mycorrhizal drought tolerance plant water relations and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Dighton Mycorrhizal Drought Tolerance Plant Water Relations has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+## See Also
+
+- [[dighton-mycorrhizal-phosphatase-phosphorus-acquisition]]
+- [[dighton-fungal-decomposition-nutrient-cycling]]
+- [[lichens-primary-production-soil-formation-dighton]]
+- [[dighton-ectomycorrhizal-hartig-net-structure-function]]
+- [[dighton-fungal-succession-resource-decomposition]]

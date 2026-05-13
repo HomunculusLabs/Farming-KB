@@ -9,19 +9,7 @@ sources:
 ---
 # 2-TOM (5-Methoxy-4-methyl-2-methylthioamphetamine)
 
-2-TOM is a methylthio-substituted amphetamine and the sulfur analogue of [[dom]] (STP), with the 2-methoxy oxygen replaced by sulfur.
-
-The compound retains the characteristic 4-methyl group and 5-methoxy group of DOM.
-
-The "TOM" nomenclature indicates the positions of the methyl, oxygen, and methylthio groups.
-
-## Pharmacological Profile
-
-2-TOM is an active psychedelic compound with a dosage range of 60 to 100 milligrams.
-
-The duration of effects is 8 to 10 hours.
-
-This represents a significant loss of potency compared to [[dom]] (STP, 2,5-dimethoxy-4-methylamphetamine) is one of the most potent psychedelic amphetamines, active at 3-10 mg.
+2-TOM is a methylthio-substituted amphetamine and the sulfur analogue of [[dom]] (STP, 2,5-dimethoxy-4-methylamphetamine) is one of the most potent psychedelic amphetamines, active at 3-10 mg.
 
 2-TOM replaces the 2-methoxy group with a 2-methylthio group, resulting in a 15-fold loss of potency.
 
@@ -31,20 +19,9 @@ The duration is also somewhat shorter than DOM.
 
 Despite the potency difference, the experience may be worth the effort for experienced researchers.
 
-Unlike [[dom]]
+Unlike [[tomso-entity]]
 
-[[tomso-entity]]
-
-[[doi-entity]]
-
-2-toet
-
-## References
-
-Shulgin, A. & Shulgin, A. (1991). PIHKAL: A Chemical Love Story. Entry #171: 2-TOM.
-## Practical Considerations
-
-When working with 2 [[2-tom-entity-pihkal]], several practical factors should be
+[[2-tom-entity-pihkal]], several practical factors should be
 carefully considered to achieve optimal results. These include
 the specific conditions of the implementation context, available
 resources, timing requirements, and the interactions between this
@@ -88,3 +65,86 @@ complexity of day-to-day management and observation activities.
 Ongoing developments in research and practice continue to expand our
 understanding and improve available approaches. New techniques, tools,
 and analytical methods offer opportunities for refinement and innovation
+
+## Overview
+
+2 Tom Entity represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish 2 tom entity
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving 2 extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+2 Tom Entity finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for 2 tom entity. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+2 tom entity and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+2 Tom Entity has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of 2 tom entity into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[2c-c-entity]]
+- [[2c-o-4-entity]]
+- [[4-ho-dbt-entity-tihkal]]

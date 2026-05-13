@@ -13,25 +13,7 @@ tags: [entheogen]
 The genus Anadenanthera comprises several species of leguminous trees
 whose seeds have been used as psychoactive snuffs and smoked
 preparations for thousands of years across South America and the
-Caribbean. The most significant species are [[anadenanthera-colubrina]] (source of
-cebil and villca). These plants represent one of the most ancient and
-culturally significant entheogenic traditions in the Americas, with
-archaeological evidence of use extending back over 4,500 years.
-
-## Taxonomy and Distribution
-
-Anadenanthera belongs to the family Fabaceae (legume family), a large
-and economically important plant family that also includes beans,
-peas, and [[yopo-snuff]] and [[yopo-snuff]] for
-detailed coverage.
-
-### Cohoba (A. peregrina in the Caribbean)
-
-The indigenous peoples of the West Indies, particularly the Taíno,
-used cohoba snuff in religious ceremonies prior to European contact.
-The practice was among the first entheogenic traditions observed by
-Europeans in the Americas, documented from the very first voyage of
-Columbus in 1492. See [[virola-snuff]].
+Caribbean. The most significant species are [[yopo-snuff]] and [[virola-snuff]].
 
 ## Cultural Impact on Art
 
@@ -48,27 +30,7 @@ transformed human figures.
 
 Some Mataco Indians who have converted to Christianity have come to
 identify cebil with the biblical Tree of Knowledge, but they do not
-see it as a "[[tree-of-knowledge-and-forbidden-fruit-theory]]"; rather, they view it as the fruit of a
-holy tree used by shamans for healing. This syncretic interpretation
-illustrates the resilience of indigenous entheogenic traditions in
-the face of cultural change.
-## Practical Considerations
-
-When working with Anadenanthera Entheogens, several practical factors should be
-carefully considered to achieve optimal results. These include
-the specific conditions of the implementation context, available
-resources, timing requirements, and the interactions between this
-topic and other elements of the broader system. A holistic view
-that considers these interconnections produces better outcomes.
-
-Environmental conditions such as temperature, moisture, and
-seasonal patterns significantly influence results. Monitoring these
-variables and adapting practices accordingly is essential for success.
-The most effective practitioners develop keen observation skills and
-respond flexibly to changing conditions rather than following rigid
-protocols regardless of circumstances or local variation.
-
-[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
+see it as a "[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -111,8 +73,78 @@ through generations to modern scientific approaches, the evolution continues
 to inform current best practices and research directions.
 
 ## See Also
-- [[doc]]
 - [[det]]
-- [[cohoba-snuff]]
 - [[entheogens-and-cultural-evolution]]
 - [[entheogens-in-ancient-cultures]]
+
+## Overview
+
+Anadenanthera Entheogens represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish anadenanthera entheogens
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving anadenanthera extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Anadenanthera Entheogens finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for anadenanthera entheogens. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+anadenanthera entheogens and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Anadenanthera Entheogens has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of anadenanthera entheogens into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions

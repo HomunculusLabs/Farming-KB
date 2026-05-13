@@ -18,41 +18,11 @@ type: concept
 
 # Solomon's Wide-Spacing Versus Intensive Gardening Debate
 
-In his 2005 book *Gardening When It Counts: Growing Food in Hard Times*, Steve Solomon mounts a comprehensive challenge to the intensive raised-bed orthodoxy that has dominated [[hamilton-geoffhamilton-nick-organic-gardening-companion-planting]] since the 1970s. Drawing on decades of personal experience, empirical trial plots, and historical precedent, Solomon argues that close-spacing and intensive bed methods are fundamentally unsustainable for anyone preparing for economic disruption, petroleum scarcity, or water shortage. He advocates instead for wide-spacing row gardening on larger plots — a model he considers genuinely resilient and reproducible without external supply chains.
-
-## From Intensive Advocate to Dissident
-
-Solomon's critique carries unusual weight because he was once a leading proponent of the very methods he later rejected. In 1979 he founded Territorial Seed Company, which he ran until selling it in 1986. During those years he was deeply immersed in the John Jeavons-style [[root-competition-plant-spacing-solomon|root competition and plant spacing]] for Solomon's detailed analysis of how close spacing undermines root development and overall plant health, and why the theoretical models of intensive advocates fail to account for below-ground competition.
+In his 2005 book *Gardening When It Counts: Growing Food in Hard Times*, Steve Solomon mounts a comprehensive challenge to the intensive raised-bed orthodoxy that has dominated [[root-competition-plant-spacing-solomon|root competition and plant spacing]] for Solomon's detailed analysis of how close spacing undermines root development and overall plant health, and why the theoretical models of intensive advocates fail to account for below-ground competition.
 
 ## The Jeavons Versus Solomon Divide
 
-The disagreement between John Jeavons and Steve Solomon represents one of the most significant fault lines in organic gardening thought. Jeavons, founder of Ecology Action and author of *How to Grow More Vegetables*, argues that maximizing yield per square foot through intensive spacing is essential because it minimizes the land area required to feed a person. His [[jeavons-grow-biointensive-method-overview]] aims to grow a complete diet in as little as 4,000 square feet.
-
-Solomon counters that this goal, while theoretically appealing, ignores the real-world costs of achieving those yields. The biointensive method requires enormous labor in bed preparation and compost production, and it demands levels of soil fertility that cannot be sustained without off-site inputs. Solomon's wide-spacing approach requires roughly 5,000 to 10,000 square feet per person but achieves those yields with a fraction of the labor and input costs. For gardeners with access to sufficient land, Solomon considers his approach overwhelmingly more practical.
-
-## The Unsustainable Economics of Intensive Beds
-
-Solomon's most damning argument targets the sheer input requirements of intensive raised-bed systems. Establishing such beds demands approximately 20 to 25 cubic yards of high-quality compost in the first year alone, followed by 10 to 15 cubic yards annually to maintain fertility as organic matter decomposes and is harvested out. This is an enormous volume of organic matter that few home gardeners can realistically produce from their own land.
-
-Most intensive gardeners are effectively importing fertility from elsewhere — through purchased compost, manure, bagged soil amendments, or the labor-intensive composting of off-site materials like leaves and grass clippings collected from the broader community. The hidden costs in fuel, packaging, and transportation are substantial but rarely acknowledged by intensive gardening advocates.
-
-When petroleum becomes expensive or scarce, the entire logistics chain supporting these inputs becomes precarious. Trucking in compost, manufacturing and distributing agricultural lime, rock phosphate, and seed meals, and operating the equipment needed to produce them all depend on cheap fuel. Even the tools and materials used to build raised beds — lumber, hardware cloth, irrigation components — carry embedded petroleum costs. Solomon argues that any gardening method reliant on large external inputs fails the fundamental test of self-sufficiency and will become untenable under the conditions his book anticipates.
-
-## Complete Organic Fertilizer as a Middle Path
-
-Rather than abandon fertility management entirely, Solomon developed his [[composting-science-solomon|composting science]] for Solomon's detailed comparison of COF against compost-centric approaches, including the nutrient analysis that demonstrates COF's superiority for row-crop [[dry-gardening-unirrigated-vegetable-production-solomon]].
-
-## Dry Gardening Without Irrigation
-
-Before writing *Gardening When It Counts*, Solomon authored *Waterwise Vegetables*, documenting his research into dry gardening in the Cascadia bioregion of the Pacific Northwest. He demonstrated that by spacing plants far enough apart, their root zones do not overlap and each individual plant can access residual soil moisture that accumulates during the winter rainy season. This eliminates the need for supplemental irrigation entirely — a critical advantage when municipal water infrastructure fails or becomes prohibitively expensive, or when drought restricts water availability.
-
-The connection between wide spacing and drought resilience is central to Solomon's argument. Intensive beds with closely spaced plants create a continuous, overlapping moisture demand that cannot be met without regular, reliable irrigation. This makes intensive systems doubly vulnerable during hard times: they require both imported fertility inputs and consistent water delivery.
-
-The wide-spacing model, by contrast, decouples food production from water infrastructure almost entirely in appropriate climates. Solomon's dry gardening research showed that many common vegetables — including tomatoes, peppers, squash, and beans — can produce acceptable yields without any irrigation at all when properly spaced. This finding has profound implications for gardeners in water-scarce regions and for anyone anticipating restrictions on water use during droughts or infrastructure failures.
-
-## Ley Rotation and Long-Term Soil Health
-
-Solomon advocates a ley rotation system as the foundation of sustainable, low-input soil management. In this approach, a portion of the garden is taken out of vegetable production each year and planted to a grass and clover mix for three to five years. The deep-rooted grasses and nitrogen-fixing clovers restore soil organic matter, improve soil structure through root penetration and subsequent decomposition, break [[hamilton-pest-and-disease-control-organic]] cycles by removing host plants, and rebuild the soil microbiome far more effectively than any amount of surface-applied compost.
+The disagreement between John Jeavons and Steve Solomon represents one of the most significant fault lines in organic gardening thought. Jeavons, founder of Ecology Action and author of *How to Grow More Vegetables*, argues that maximizing yield per square foot through intensive spacing is essential because it minimizes the land area required to feed a person. His [[composting-science-solomon|composting science]] for Solomon's detailed comparison of COF against compost-centric approaches, including the nutrient analysis that demonstrates COF's superiority for row-crop [[hamilton-pest-and-disease-control-organic]] cycles by removing host plants, and rebuild the soil microbiome far more effectively than any amount of surface-applied compost.
 
 After the fallow period, the sod is converted back to vegetable production and another section of the garden enters the rotation. This system requires sufficient total garden area — typically at least 2,700 square feet per household — but it produces genuine self-renewing fertility without imported inputs. The ley rotation is the historical method that preceded modern composting, and Solomon considers it far more effective for maintaining long-term soil health than attempting to manufacture fertility through compost piles.
 
@@ -64,22 +34,100 @@ Solomon's wide-spacing approach has direct implications for garden tool selectio
 
 The emphasis on simple hand tools is itself a resilience strategy. Power tillers require fuel, maintenance, and replacement parts — all of which become scarce during hard times. A well-made digging fork, hoe, and rake can last a lifetime with minimal care and can maintain a large garden plot efficiently when plants are arranged in widely spaced rows.
 
-See [[seed-quality-and-selection-solomon|seed quality and selection]] for Solomon's approach to choosing and breeding vegetables for resilience under low-input conditions, including his recommendations for open-pollinated varieties over hybrids.
-
-## Implications for Hard Times
-
-Solomon's ultimate argument is pragmatic rather than ideological. He does not claim that [[row-gardening-vs-intensive-methods-solomon]] never work — they can produce impressive yields under optimal conditions with abundant inputs and reliable irrigation. His point is that they are fundamentally fragile. When conditions deteriorate, whether through economic collapse, fuel shortages, prolonged drought, or supply chain disruption, the intensive gardener is exposed in ways that the wide-spacing row gardener is not.
+See [[row-gardening-vs-intensive-methods-solomon]] never work — they can produce impressive yields under optimal conditions with abundant inputs and reliable irrigation. His point is that they are fundamentally fragile. When conditions deteriorate, whether through economic collapse, fuel shortages, prolonged drought, or supply chain disruption, the intensive gardener is exposed in ways that the wide-spacing row gardener is not.
 
 The wide-spacing model trades theoretical maximum yield per square foot for robustness, lower input requirements, and the ability to produce food without irrigation or imported fertility. It requires more total land area, but it requires far less labor per unit of food produced and far fewer external dependencies. For gardeners preparing for genuine uncertainty, Solomon argues, this trade-off is not merely reasonable — it is essential.
 
 ## A Potato Case Study
 
-Solomon's [[intensive-gardening-critique-solomon|Intensive Gardening Critique]]
-- [[complete-organic-fertilizer-recipes|Complete Organic Fertilizer Recipes]]
-- [[potato-growing-guide-solomon|Potato Growing Guide]]
+Solomon's [[complete-organic-fertilizer-recipes|Complete Organic Fertilizer Recipes]]
 - [[garden-hand-tools-solomon|Garden Hand Tools]]
 
 ## See Also
 
-- [[wide-spacing-dry-gardening-low-irrigation-solomon]]
 - [[wide-row-spacing-intensive-gardening-comparison]]
+
+## Overview
+
+Solomon Wide Spacing Versus Intensive Gardening Debate represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish solomon wide spacing versus intensive gardening debate
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving solomon extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Solomon Wide Spacing Versus Intensive Gardening Debate finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for solomon wide spacing versus intensive gardening debate. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+solomon wide spacing versus intensive gardening debate and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Solomon Wide Spacing Versus Intensive Gardening Debate has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of solomon wide spacing versus intensive gardening debate into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[root-competition-plant-spacing-solomon]]
+- [[solomon-growing-perennials-asparagus-rhubarb]]
+- [[solomon-low-grade-compost-making-methods]]
+- [[solomon-shade-and-sunlight-requirements]]
+- [[solomon-wheelbarrow-selection-garden-tool-care-maintenance]]

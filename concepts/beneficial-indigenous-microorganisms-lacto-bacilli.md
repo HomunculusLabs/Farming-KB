@@ -8,7 +8,7 @@ type: concept
 
 ## Overview
 
-Beneficial Indigenous Microorganisms (BIM) are locally occurring microorganisms that are cultured and applied in natural farming systems to improve soil health, plant vitality, animal welfare, and waste decomposition. Rather than purchasing commercially produced microbial inoculants, the natural farming approach empowers farmers to collect, culture, and multiply microorganisms already present in their local environment. This philosophy of self-reliance is central to the work of **Gil A. Carandang** of **Herbana Farms** in Burol, Calamba City, Laguna, Philippines, and is rooted in the teachings of his mentor, **Dr. [[han-kyu-cho]]** of the [[korean-natural-farming]] Association.
+Beneficial Indigenous Microorganisms (BIM) are locally occurring microorganisms that are cultured and applied in natural farming systems to improve soil health, plant vitality, animal welfare, and waste decomposition. Rather than purchasing commercially produced microbial inoculants, the natural farming approach empowers farmers to collect, culture, and multiply microorganisms already present in their local environment. This philosophy of self-reliance is central to the work of **Gil A. Carandang** of **Herbana Farms** in Burol, Calamba City, Laguna, Philippines, and is rooted in the teachings of his mentor, **Dr. [[korean-natural-farming]] Association.
 
 ## The Philosophy: Farming Self-Reliance
 
@@ -22,21 +22,7 @@ Beneficial Indigenous Microorganisms (BIM) are naturally occurring microorganism
 
 The term "indigenous" is critical: these are not imported or exotic strains but microorganisms already adapted to the local climate, soil, and ecological conditions. By culturing locally sourced microbes, farmers ensure that the organisms they apply are already suited to thrive in their specific environment.
 
-BIMs are used alongside **bionutrients** — fermented extracts from local plants, herbs, and weeds that serve as food for the [[forest-and-bamboo-beneficial-microorganisms]], encouraging their proliferation and activity in the soil and on plant surfaces.
-
-## Gil Carandang and Herbana Farms
-
-Gil A. Carandang developed and disseminated practical methods for culturing BIMs in the Philippines and internationally. At Herbana Farms, he demonstrated natural farming techniques including:
-
-- **Odor-free free-range poultry**: Chicken housing used a deep litter system (one yard deep) of soil, compost, and sawdust sprayed with BIMs and bionutrients. Chickens naturally aerated the substrate through scratching. Lactic acid bacteria in the BIM arrested foul odors and detoxified waste. Over time, the litter became rich organic fertilizer — completing the nutrient cycle with zero waste.
-- **Healthy vegetables**: Garden beds inoculated with BIMs and sprayed with bionutrients from local herbs showed minimal pests and nil plant diseases.
-- **Workshops and farmer empowerment**: Carandang conducted seminar-workshops across the Philippines, teaching small farmers to generate their own organic inputs and reclaim self-reliance.
-
-His work also extended internationally. At the UC Santa Cruz Farm and Garden, he helped apprentices raise free-range chickens without vaccines or antibiotics, fed only once daily, using BIM technology. He also shared these methods at ecological farming conferences in the United States, including collaboration with ATTRA.
-
-## Dr. Han Kyu Cho and Korean Natural Farming
-
-The Korean Natural Farming (KNF) system, developed by Dr. Han Kyu Cho, is the foundational influence on Carandang's approach. KNF emphasizes using locally available materials to culture beneficial microorganisms and produce [[bionutrients-fermented-plant-extracts]] for use as fertilizers, pest controls, and soil amendments. The system is built on principles of:
+BIMs are used alongside **bionutrients** — fermented extracts from local plants, herbs, and weeds that serve as food for the [[bionutrients-fermented-plant-extracts]] for use as fertilizers, pest controls, and soil amendments. The system is built on principles of:
 
 - **Self-reliance**: Farmers produce all necessary inputs from local materials
 - **Microbial farming**: Microorganisms and enzymes are the primary agents of soil fertility
@@ -67,48 +53,7 @@ Lactic acid bacteria are also applied in aquaculture settings, where they help m
 
 ### Plant Spraying
 
-When sprayed directly onto plants, lactic acid bacteria colonize leaf surfaces and increase the activity of phyllosphere bacteria. These bacteria process organic matter (such as dust) on leaf surfaces, making nutrients directly available to the plant. Spraying BIMs has been observed to improve plant vigor, reduce pest pressure, and suppress [[plant-viral-and-bacterial-diseases]]. Carandang reported success with orchids, salad greens, and stressed seedlings showing signs of damping off.
-
-## Collection Method: Harvesting Indigenous Microorganisms
-
-The process of collecting indigenous microorganisms begins with a simple and accessible method using **rice wash**:
-
-1. **Rice wash collection**: Wash rice grains in water and collect the milky rinse water. This starchy water attracts indigenous microorganisms from the local environment, particularly lactic acid bacteria that are naturally present on rice and in the surrounding air and soil.
-
-2. **Initial fermentation**: The rice wash is left to stand, allowing indigenous microorganisms to multiply. Over time, the microbial population in the wash increases as the bacteria feed on the starches.
-
-This initial collection captures the diverse microbial community present in the local environment, providing the raw material from which specific beneficial organisms can be isolated and multiplied.
-
-## Milk Saturation Technique for Pure Culture
-
-To isolate and concentrate lactic acid bacteria from the mixed microbial culture collected in the rice wash, the **milk saturation technique** is employed:
-
-1. The fermented rice wash (containing a mixed population of microorganisms) is combined with milk.
-2. Lactic acid bacteria selectively thrive in the milk medium, fermenting the lactose and producing lactic acid.
-3. As lactic acid concentration increases, the milk proteins coagulate and separate, forming curds. The lactic acid bacteria remain predominantly in the liquid serum portion.
-4. The curds are removed (they can be used as feed or compost), leaving behind a concentrated lactic acid bacteria serum.
-
-This technique exploits the selective advantage that lactic acid bacteria have in milk, effectively purifying the culture from the initial mixed population. The result is a potent, concentrated serum rich in lacto bacilli.
-
-## Storage with Crude Sugar or Molasses
-
-Once the pure lactic acid bacteria serum is obtained, it must be preserved for storage and later use. This is accomplished by mixing the serum with **crude sugar or molasses**:
-
-- The sugar acts as a food source for the bacteria, keeping them alive during storage
-- It also reduces the water activity in the mixture, inhibiting the growth of undesirable organisms
-- The high sugar concentration effectively preserves the culture at room temperature for extended periods
-- This preserved serum can be stored and used as a concentrated starter for various applications
-
-The combination of lactic acid bacteria serum and sugar/molasses creates a stable, shelf-ready inoculant that farmers can prepare in bulk and draw from as needed.
-
-## Dilution Ratios and Application
-
-The standard **dilution ratio** for applying lactic acid bacteria serum is **1:20** — one part serum to twenty parts water. This dilution makes the concentrated culture suitable for:
-
-- Spraying onto compost piles to control odors and accelerate decomposition
-- Spraying onto animal bedding in piggery and poultry systems
-- Foliar spraying onto plants to boost phyllosphere microbial activity
-- Soil drenching to inoculate the soil with [[ingham-aact-beauveria-fruit-fly-beneficial-bacteria-inoculant]]
+When sprayed directly onto plants, lactic acid bacteria colonize leaf surfaces and increase the activity of phyllosphere bacteria. These bacteria process organic matter (such as dust) on leaf surfaces, making nutrients directly available to the plant. Spraying BIMs has been observed to improve plant vigor, reduce pest pressure, and suppress [[ingham-aact-beauveria-fruit-fly-beneficial-bacteria-inoculant]]
 - Water treatment in aquaculture systems
 
 The 1:20 ratio provides enough microbial density to be effective while making the concentrated serum economical to use across multiple applications on the farm.

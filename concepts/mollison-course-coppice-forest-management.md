@@ -10,11 +10,10 @@ type: concept
 ---
 # Coppice and Forest Management Systems
 
-Forest [[keyline-design]] involves a holistic approach to
-harvesting and maintaining [[dighton-fungi-acidifying-pollutants-forest-ecosystems]] for multiple yields. The
+Forest [[dighton-fungi-acidifying-pollutants-forest-ecosystems]] for multiple yields. The
 forest is not just a source of timber; it is a complex system that
 provides forage, habitat, water regulation, climate moderation, and
-numerous other functions simultaneously. This approach connects to broader [[agroforestry]] practices and [[backyard-food-forest-design]].
+numerous other functions simultaneously. This approach connects to broader [[backyard-food-forest-design]].
 
 ## The Value of Pole Timber
 
@@ -41,16 +40,7 @@ above cow level, but to coppice for basketry, you can start below
 ground level. What you use is striped willow. You bury it in a good
 wet site as billets in rows. It shoots up and you coppice it again.
 
-Consider a [[fukuoka-agriculture-tomorrow-quarter-acre-vision]] of that sort of coppice, something the cows
-will really rip into. You just have it ready so you can turn your
-cattle in and take them out, watching the amount of damage done. In
-some extensive cattle areas, if you have five or six acres of that sort
-of fodder locked up, it would carry you right through droughts.
-
-## Two Methods of Forest Cutting
-
-There are two ways to cut your forest. One is to continually fell the
-largest [[query-best-nut-trees-for-a-permaculture-food-forest-by-climate-zone]]. When they come up to a certain diameter, you cut them.
+Consider a [[query-best-nut-trees-for-a-permaculture-food-forest-by-climate-zone]]. When they come up to a certain diameter, you cut them.
 That gives you a continual production of round timbers in that forest.
 The other way to manage the forest is to cut out all the small and
 weak trees. The first method is a continual-product pole forest. The

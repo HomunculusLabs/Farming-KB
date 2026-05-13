@@ -36,39 +36,11 @@ Artichokes are perennial in mild climates (USDA zones 7-11) but can be grown as 
 
 - Start from seed or offsets (suckers from established plants).
 - Space plants 3-4 feet (90-120 cm) apart in all directions.
-- Need rich, fertile soil with abundant [[hamilton-composting-and-organic-matter-management]].
-- Regular moisture is essential -- artichokes are not drought-tolerant despite being perennials.
-- Mulch heavily to retain moisture and keep soil cool.
-
-## Harvest
-
-- Harvest buds when they are tight and firm, before the bracts begin to open.
-- Cut the stem 1-2 inches below the bud.
-- The central bud matures first; side buds will follow.
-- Size does not determine quality -- smaller buds are often more tender.
-
-## Overwintering
-
-In cold climates, cut plants back to ground level after frost and mulch heavily with straw or leaves. In very cold areas, digging and storing roots like dahlias may be necessary. Some gardeners grow them as annuals from seed, started early indoors.
-
-## Pest and Disease Issues
-
-When artichokes fail, the cause is almost always poor soil conditions rather than pest or disease pressure. However, aphids can colonize the buds, and slugs may damage young leaves. Solomon's principle applies: if your artichokes are constantly troubled by pests, reconsider whether your soil is suitable for them.
-
-## Propagation Methods
-
-There are two primary ways to propagate globe artichokes, each with distinct advantages:
-
-**[[jeavons-seed-propagation-techniques]]:** Growing from seed allows access to a wider range of varieties and avoids transferring soil-borne diseases from established plants. However, seed-grown plants show considerable genetic variation, and not all will produce high-quality buds. Open-pollinated varieties like 'Green Globe' produce about 70% plants meeting [[aact-compost-quality-standards-ingham]]. Start seeds indoors in February under protection, sowing 1/4 inch deep. Germination takes 10-21 days at 20-25°C. Transplant to individual pots when seedlings have two true leaves. For annual production in cold climates (zone 6 and below), vernalization is required: expose young plants (8-10 weeks old) to temperatures below 10°C for 2-4 weeks to trigger the flowering response. Without this cold treatment, plants may not produce buds in their first year.
-
-**Vegetative propagation (offsets/suckers):** This is the preferred method for maintaining named varieties and ensuring uniform bud quality. In early spring, select vigorous suckers (offsets) with 2-3 visible leaf buds and attached root sections from the base of established plants. Cut them away with a sharp knife, taking care to include some root material. Dust cut surfaces with sulfur to prevent fungal infection. Plant offsets directly into prepared beds at the same depth they were growing. Offset-grown plants are genetically identical to the parent and typically produce harvestable buds in the same growing season, unlike seed-grown plants which may need a full season of [[cannabis-vegetative-growth-stage]] before flowering.
+- Need rich, fertile soil with abundant [[jeavons-seed-propagation-techniques]]:** Growing from seed allows access to a wider range of varieties and avoids transferring soil-borne diseases from established plants. However, seed-grown plants show considerable genetic variation, and not all will produce high-quality buds. Open-pollinated varieties like 'Green Globe' produce about 70% plants meeting [[cannabis-vegetative-growth-stage]] before flowering.
 
 ## Nutrition and Watering
 
-Artichokes are among the heaviest feeders in the [[fukuoka-dutch-priest-vegetable-garden-spiritual-renewal]]. Their large, deeply lobed leaves require abundant nitrogen and consistent moisture:
-- Apply 4-6 inches of well-rotted compost or aged manure before planting, worked deeply into the top 12 inches of soil
-- Top-dress with compost in spring and again in midsummer for perennial plantings
-- A balanced [[complete-organic-fertilizer-cof-recipe-solomon]] (e.g., 5-5-5) applied at planting and again monthly during the growing season supports continuous bud production
+Artichokes are among the heaviest feeders in the [[complete-organic-fertilizer-cof-recipe-solomon]] (e.g., 5-5-5) applied at planting and again monthly during the growing season supports continuous bud production
 - Artichokes have shallow root systems despite their large above-ground size, making them vulnerable to drought stress. Water deeply 2-3 times per week during dry spells, providing 1-2 inches of water per week total
 - Mulch with 4-6 inches of organic material to conserve moisture and suppress weeds; avoid placing mulch directly against the crown to prevent rot
 
@@ -117,8 +89,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[det]]
 - [[composting]]
-- [[steve-solomon]]
 - [[cynara-cardunculus]]
 - [[companion-planting]]

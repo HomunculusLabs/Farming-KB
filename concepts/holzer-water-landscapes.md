@@ -11,31 +11,14 @@ sources:
 
 ## Water as Central Element
 
-Water is the most important resource in [[holzer-rebel-farmer-philosophy]]. On the Krameterhof, a network of 60 ponds, water gardens, wetlands, and ditches spans the farm from 1,500m to 1,100m elevation. Most are connected, with water used for multiple purposes as it flows downhill through the cascade system.
-
-## Functions of Waterscapes
-
-### Ecological Functions
-- Provide habitat for amphibians (toads, frogs), snakes, and [[comparison-beneficial-insects-guide-vs-integrated-pest-management]]
+Water is the most important resource in [[comparison-beneficial-insects-guide-vs-integrated-pest-management]]
 - Toads are key predators of the dreaded Spanish slug (*Arion vulgaris*)
 - Balance temperature fluctuations on nearby hillsides by reflecting sunlight and releasing stored heat
 - Increase soil moisture levels through evaporation
 - Create beneficial microclimates for heat-loving plants on adjacent slopes
 
 ### Production Functions
-- [[knf-fish-farming-integration]]: brown trout, arctic char, carp, tench, pike, wels catfish, zander, koi carp, and forage fish
-- Crayfish (*Astacus astacus*) and swan mussels (*Anodonta cygnea*)
-- Aquatic plants cultivated up to 1,500m: white water lily, yellow water lily, bulrushes, sweet flag, water soldier, mare's tail, arrowhead, yellow iris
-
-### Energy Functions
-- Two small Pelton wheel generators powered by 100m height difference
-- Hydraulic ram pumps drinking water without external energy (1:10 flow ratio, up to 15 bars pressure)
-- Water wheels drive two mills
-- All systems release cool, oxygen-rich water back into fish ponds
-
-## Building Ponds -- The Vibration Method
-
-Holzer's method is fundamentally different from conventional [[holzer-pond-construction-and-aquaculture]]:
+- [[holzer-pond-construction-and-aquaculture]]:
 
 ### Site Assessment
 - Survey soil conditions, topography, and existing water
@@ -77,9 +60,7 @@ On the Krameterhof, natural streams are left to find their own course. Where str
 
 ## See Also
 
-- [[permaculture-pond-construction]]
 - [[climate-and-microclimate-management]]
-- [[sepp-holzer-water-gardens-and-aquatic-plants]]
 - [[holzer-pond-construction-and-aquaculture]]
 
 ## Practical Applications
@@ -111,8 +92,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[water-management]]
 - [[permaculture]]
-- [[holzer-water-landscapes-retention]]
 - [[holzer-tamera-water-landscape-project]]
 - [[holzer-extremadura-water-paradise-project]]

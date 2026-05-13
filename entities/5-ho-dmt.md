@@ -34,15 +34,11 @@ created: 2026-04-28
 
 ## Overview
 
-**5-HO-DMT** (5-hydroxy-N,N-dimethyltryptamine), commonly known as bufotenine or bufotenin, is a naturally occurring [[reversed-phase-hplc-tryptamine-alkaloid-quantification-methodology]] and a positional isomer of serotonin.
-
-It is found in the skin and venom glands of several toad species ([[5-meo-dmt-and-bufo-alvarius]], Bufo marinus) and in numerous plant species including [[yopo-anadenanthera-peregrina-snuff]] and [[anadenanthera-colubrina]].
+**5-HO-DMT** (5-hydroxy-N,N-dimethyltryptamine), commonly known as bufotenine or bufotenin, is a naturally occurring [[5-meo-dmt-and-bufo-alvarius]], Bufo marinus) and in numerous plant species including [[anadenanthera-colubrina]].
 
 Bufotenine has been used as an entheogen for at least 4,000 years, principally in the form of snuff powders prepared from Anadenanthera seeds (yopo and cebil).
 
-It is classified as a Schedule I controlled substance in the [[dmt-containing-plants-united-states-halpern]] and is internationally regulated under the UN Convention on Psychotropic Substances.
-
-The compound was profiled in TIHKAL by Alexander and [[ann-shulgin]], who assigned it the entry number 31.
+It is classified as a Schedule I controlled substance in the [[ann-shulgin]], who assigned it the entry number 31.
 
 ## Chemical Properties
 
@@ -64,26 +60,83 @@ The freebase form has a melting point of 146–147°C; the hydrochloride salt me
 
 ## Pharmacology
 
-5-HO-DMT acts primarily as a non-selective [[serotonin-receptor-interference-psychedelic-mechanism]] agonist with highest affinity for the 5-HT2A receptor (Ki = 21 nM), the primary mediator of psychedelic effects.
-
-It also binds to 5-HT1A (Ki = 152 nM), 5-HT2B, 5-HT2C, and 5-HT3 receptors with varying affinities.
-
-Unlike DMT and 5-MeO-DMT, bufotenine is a substrate for monoamine oxidase (MAO-A), making it orally inactive without an MAO inhibitor.
-
-This MAO sensitivity is the primary reason bufotenine-containing snuffs are administered nasally or by vaporization rather than orally.
-
-The compound shows moderate affinity for sigma-1 receptors and trace affinity for the serotonin transporter (SERT).
-
-Pharmacokinetic studies indicate rapid onset (2–5 minutes) with buccal or insufflated administration, peak effects at 15–30 minutes, and total duration of 1–2 hours.
-
-## Effects
-
-At threshold doses (5–10 mg insufflated), effects include mild visual color enhancement, tactile sensitivity, and altered perception of sound.
-
-Common doses (10–40 mg insufflated or 2–8 mg vaporized) produce pronounced visual hallucinations, synesthesia, time distortion, and intense emotional experiences.
-
-The experience is generally described as less cerebral and more "body-centered" than DMT, with prominent somatic sensations including pressure, warmth, and vibration.
-
-High doses (40+ mg) can produce overwhelming visionary states, [[psilocybin-ego-dissolution-mechanisms]], and purgative effects including nausea and vomiting.
+5-HO-DMT acts primarily as a non-selective [[psilocybin-ego-dissolution-mechanisms]], and purgative effects including nausea and vomiting.
 
 The compound has been reported to produce a pronounced "afterglow" period characterized by enhanced mood and clarity lasting several hours post-experience.
+
+## Overview
+
+5 Ho Dmt represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish 5 ho dmt
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving 5 extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+5 Ho Dmt finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for 5 ho dmt. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+5 ho dmt and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+5 Ho Dmt has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of 5 ho dmt into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.

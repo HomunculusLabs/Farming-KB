@@ -107,13 +107,8 @@ The species is excellent for naturalizing in rough grass and beneath deciduous t
 
 ## See Also
 
-- [[crocus-sativus]]
 - [[crocus-chrysanthus]]
-- [[crocus-vernus]]
 - [[crocus-tommasinianus]]
-- [[crocus-speciosus]]
 - [[iris-reticulata]]
-- [[colchicum-autumnale]]
 - [[geissorhiza-radians]]
-- [[freesia-refracta]]
 - [[moraea-polystachya]]

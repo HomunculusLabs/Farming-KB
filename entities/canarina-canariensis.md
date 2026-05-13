@@ -116,13 +116,8 @@ the Jardín Botánico Canario Viera y Clavijo on Gran Canaria.
 
 ## See Also
 
-- [[campanula-rotundifolia]]
 - [[lobelia-cardinalis]]
-- [[platycodon-grandiflorus]]
 - [[trachelium-caeruleum]]
-- [[phyteuma-orbiculare]]
 - [[adenophora-triphylla]]
-- [[codonopsis-pilosula]]
 - [[jasione-montana]]
-- [[campanula-medium]]
 - [[symphyandra-cretica]]

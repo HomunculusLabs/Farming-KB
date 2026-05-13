@@ -12,23 +12,7 @@ sources:
 
 Informational monism is the philosophical position that reality consists of one fundamental substance only: information.
 
-This framework, derived from analysis of entheogenic (psychedelic) experiences, proposes that both mind and matter are particular forms of information, resolving the centuries-old mind/[[mind-body-problem-vs-information-paradigm-of-consciousness]] that has plagued philosophy since Descartes.
-
-Rather than positing two fundamentally different kinds of stuff -- mental stuff and physical stuff -- informational monism asserts that atoms, molecules, muscles, and thoughts can all be described in purely informational terms. The mind and body could then be seen as consisting of essentially the same kind of substance.
-
-## The Cartesian Problem
-
-The 17th century philosopher Descartes formalized the mind/body dilemma: there are two sorts of universal stuff (mind and matter) that interact in some mysterious ghostlike way. This dualistic view has been persistently problematic.
-
-Scientists dislike talk of incorporeal entities not located in 3-dimensional space somehow interacting with matter. Psychologists largely ignored consciousness for decades because it seemed intractable. Yet consciousness defines us -- it is the very ground of our being human, the stuff which mediates all science, all reasoning, and all theories about the world.
-
-The issue confronting us -- that of understanding exactly what consciousness is -- is a decidedly hoary beast, covered in thorns and about as amenable to close analysis as the wind on a very blustery day.
-
-## The Bridge: Psychedelic Chemistry
-
-The key insight from psychedelic investigation is that chemistry and consciousness, taken together, directly address the boundary between the physical and the psychological.
-
-Chemistry implies chemicals and substances -- clearly "material" things -- whereas [[weil-the-natural-mind-altered-states-normalcy]] of awareness lie in the realm of the intangible mind. Substances like psilocybin, which have a close molecular resemblance to the brain's neurotransmitters, elicit predictable and characteristic changes in consciousness.
+This framework, derived from analysis of entheogenic (psychedelic) experiences, proposes that both mind and matter are particular forms of information, resolving the centuries-old mind/[[weil-the-natural-mind-altered-states-normalcy]] of awareness lie in the realm of the intangible mind. Substances like psilocybin, which have a close molecular resemblance to the brain's neurotransmitters, elicit predictable and characteristic changes in consciousness.
 
 Psilocybin therefore bridges the conceptual gap between the two seemingly incompatible worlds of mind and matter. The more we understand how psilocybin works, the closer we get to understanding the bridge linking mind to matter.
 
@@ -56,37 +40,7 @@ Entheogenic phenomenology provides the most compelling evidence for informationa
 
 Since states of neuronal firing are states of information (what else could they be?), and these altered states correspond to profoundly different states of consciousness, we can observe a direct mapping between information patterns and conscious experience.
 
-The fact that entheogenic visions are loaded with powerful and often [[powell-universal-symbology-in-entheogenic-visions]] suggests there are pre-determined ways in which large amounts of neuronal information can be organized and brought together -- that is, integrated.
-
-## The Snowflake Principle
-
-This is an important idea: just as elements like carbon, hydrogen, nitrogen, and oxygen will naturally organize themselves into specific stable structures like water and amino acids, so too can information in the brain organize itself into specific structured patterns.
-
-Just as large amounts of microscopic water molecules can organize themselves still further into stable macroscopic patterned structures like snowflakes, so too can more and more elaborate forms emerge from the patterning processes occurring in the psychedelically influenced brain.
-
-Frozen temperature acts to elicit the structured patterns exhibited by snowflakes, whereas psilocybin acts to elicit the structured patterns of neuronal activity that come to be experienced as shamanic visions. Water molecules organize themselves according to the rules of a molecular language; neuronal firing patterns organize themselves according to the rules of a psychological language.
-
-## Implications
-
-If informational monism is correct, then the mind/body problem dissolves: mind and body are both informational patterns. The "hard problem of consciousness" becomes a question about the nature of information itself.
-
-Psychedelic experiences represent legitimate explorations of informational reality, not mere brain malfunction. The distinction between "physical" and "mental" is one of degree and organization, not of substance.
-
-New conceptual perspectives gained through psychedelics can be as valid as those gained through scientific instruments. Entheogens are powerful tools with which to forge a new set of conceptions about the reality process.
-
-## Against the Null Hypothesis
-
-The competing view holds that our Universe is accidental, one of an infinity, and that the psilocybin experience is no more than a trap-like aberration distracting us from more pressing concerns. Under this view, pension schemes and the amassing of property make good sense in a purely temporary way.
-
-Informational monism, by contrast, suggests that reality is meaningful and that consciousness plays a functional role in the cosmic process -- a position supported by the profound and revelatory nature of entheogenic experience.
-
-## Relationship to Physics
-
-The idea that information is fundamental is not unique to psychedelic philosophy. Leading physicists including John Wheeler ("It from bit") and David Bohm have proposed that information may be more fundamental than matter or energy.
-
-The informational monism of psychedelic philosophy converges with developments in theoretical physics, suggesting that a complete understanding of reality requires understanding the nature of information itself. We can boldly refer to this reasoning as being but one corollary of the fantastic hypothesis that views reality as a meaningful and intelligent system.
-
-See also: [[natural-intelligence]], [[ketamine-psychedelic-journey-guide]], [[natural-intelligence]]
+The fact that entheogenic visions are loaded with powerful and often [[natural-intelligence]], [[natural-intelligence]]
 
 ## Practical Applications
 
@@ -117,6 +71,80 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[psilocybin]]
 - [[det]]
 - [[ketamine]]
+
+## Overview
+
+Informational Monism represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish informational monism
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving informational extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Informational Monism finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for informational monism. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+informational monism and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Informational Monism has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of informational monism into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and

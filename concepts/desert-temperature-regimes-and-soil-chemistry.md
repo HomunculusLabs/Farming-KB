@@ -117,36 +117,18 @@ Salt problems in desert soils can be addressed through flushing with fresh water
 humus levels, ponding water with algae to encourage biological remediation, ionic or
 distillation treatments, and selecting salt-tolerant crops. Notably, free-draining sands can
 be irrigated with water containing salt levels up to 1500 ppm — much higher than the
-tolerance levels for spray [[irrigation-systems]].
-
-## Toxic Minerals and pH Extremes
-
-At very low or very high pH values, minerals such as aluminium, boron, sodium, and manganese
-become available in toxic over-supply. Humus is the primary buffer that moderates mineral
-uptake and protects plants from these extremes. Aluminium damages root systems in acid soils,
-while high manganese levels cause stunting and yellowing of foliage.
-
-Concentrations as low as 0.5 ppm of copper or 10 ppm of lead or zinc can stop root growth
-completely. Bore waters in desert regions must be tested for fluorine, sodium, and
-radioactive elements. Where children consume water and garden leaf products, nitrates must be
-rigorously tested. Nitrate fertiliser should be applied at minimal levels unless mulch or
-high organic content (20%+ humus) is present to buffer its effects.
-
-## Phosphorus in Arid Soils
-
-Phosphorus is a complex nutrient essential for plant growth and enzymatic function. In arid
-environments, it presents particular challenges because it becomes insoluble in acid soils
-(combining with iron and aluminium) and forms insoluble calcium compounds in calcareous soils.
-It is therefore deficient in most desert soils, except where humus has accumulated, in forest
-pockets, or in pond silt deposits.
-
-Manure from seed-eating birds is notably high in phosphate and represents a valuable local
-source. [[mycorrhizal-inoculation]] is essential in arid systems — acacias, eucalypts, legumes,
+tolerance levels for spray [[mycorrhizal-inoculation]] is essential in arid systems — acacias, eucalypts, legumes,
 pines, Casuarinas, and garden crops all benefit from root-associated fungi that enable
 phosphate accumulation from otherwise unavailable soil reserves. When applying phosphates, it
 is best to use small quantities placed close to the crop to maximise uptake efficiency.
 ## See Also
 
 - [[dryland-strategies-desertification]]
-- [[arid-soil-fertility-and-mineral-management]]
-- [[desert-gardening]]
+
+## See Also
+
+- [[desert-dams-rockholes-evaporation]]
+- [[desert-mulches-and-drought-strategies]]
+- [[desert-precipitation-and-opportunistic-response]]
+- [[fukuoka-stopping-desert-advance-natural-revegetation]]
+- [[desert-revegetation-natural-farming]]

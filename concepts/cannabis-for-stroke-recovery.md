@@ -10,44 +10,18 @@ sources:
 ---
 # Cannabis for Stroke Recovery
 
-Stroke (cerebrovascular accident, CVA) is a medical emergency in which blood flow to part of the brain is interrupted, causing brain [[blesching-cannabis-apoptosis-and-cancer-cell-death]]. The first hour following symptom onset is critical. Cannabis research has revealed significant neuroprotective properties of cannabinoids relevant to both stroke prevention and recovery.
-
-## Evidence-Based Confidence Level
-
-- **Total Studies Reviewed:** 3
-- **[[blesching-cannabis-prostate-cancer-chi-value-3]]:** 8
+Stroke (cerebrovascular accident, CVA) is a medical emergency in which blood flow to part of the brain is interrupted, causing brain [[blesching-cannabis-prostate-cancer-chi-value-3]]:** 8
 
 ## Types of Stroke
 
 - **Ischemic stroke:** Blockage of blood flow to the brain (most common)
 - **Hemorrhagic stroke:** Rupture of blood vessels in the brain
-- Both involve [[blesching-cannabis-oxidative-stress-and-antioxidant-defense]], inflammation, and neuronal death
-
-## U.S. Government Patent on Cannabinoid Neuroprotection
-
-The 2003 U.S. patent (US 6,630,507) specifically cites stroke among conditions where cannabinoids have neuroprotective application: "Cannabinoids have particular application as neuroprotectants, for example in limiting neurological damage following ischemic insults, such as stroke and trauma."
-
-## Cannabis and Stroke Research
-
-### THC Neuroprotection Before Stroke (Fukuoka, Japan, 2007)
-
-Researchers examined THC's effects on stroke in animal models:
-- THC treatment administered prior to stroke reduced the resulting infarction (brain tissue death)
-- Infarction reduction was measurable at intervals up to 3 days after the stroke
-- 24 hours after induced stroke, THC significantly increased CB1 receptor expression in the striatum and cortex (but not the hypothalamus)
-- THC prevents stroke damage through a mechanism of reducing body temperature independent of the hypothalamus
-
-### CBD Neuroprotection Before and After Stroke (Fukuoka, Japan, 2007)
-
-Perhaps the most promising finding: CBD treatment administered both before AND after stroke produced potent and long-lasting neuroprotection. Key advantages of CBD:
-
-- Works through an "anti-inflammatory CB(1) receptor-independent mechanism"
-- This means CBD may provide neuroprotection through pathways distinct from known [[cannabinoid-receptors-cb1-cb2]]
+- Both involve [[cannabinoid-receptors-cb1-cb2]]
 - Scientists concluded: "Cannabidiol will have a palliative action and open new therapeutic possibilities for treating cerebrovascular disorders"
 
 ### Novel Temperature Regulation Discovery
 
-The Japanese research team discovered a new mechanism of body [[hamilton-greenhouse-heating-and-temperature-control]]. THC prevents stroke damage by producing lower body temperature through a pathway independent of the hypothalamus, which was previously assumed to be solely responsible for temperature regulation. This represents a significant advance in understanding [[cannabinoid-receptors-cb1-cb2]].
+The Japanese research team discovered a new mechanism of body [[cannabinoid-receptors-cb1-cb2]].
 
 ## Proposed Clinical Applications
 
@@ -118,8 +92,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[cannabis-and-exercise-recovery]]
 - [[cannabis-plant-stress-types-and-recovery]]
-- [[cannabis-addiction-recovery]]
 - [[cannabis-for-viral-infections]]
 - [[query-how-to-choose-the-right-pot-size-for-cannabis]]

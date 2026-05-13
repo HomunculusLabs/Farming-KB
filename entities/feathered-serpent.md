@@ -10,7 +10,7 @@ The Feathered Serpent is a cosmopolitan mythological symbol found across multipl
 ancient cultures worldwide, representing a being that combines the characteristics
 of a serpent (earth-bound, shedding skin) and a bird (sky-bound, feathered). In
 ethnomycological analysis, the Feathered Serpent directly encodes the
-transformational life cycle of the *Amanita muscaria* mushroom, from its egg
+transformational life cycle of the *[[amanita-muscaria]]* mushroom, from its egg
 state through its snake-like emergence to its final feathered (gilled) form.
 
 ## Classification
@@ -143,8 +143,6 @@ These symbols represent different aspects of the same organism, viewed from
 different cultural perspectives.
 ## See Also
 
-- [[amanita-muscaria]] — The mushroom encoded in the symbol
 - [[osiris-entity]] — Egyptian deity with related transformation symbolism
-- [[holy-grail-entity]] — Another shape-based mushroom symbol
 - [[soma]] — Hindu entheogen with Naga associations
 - [[siberian-shamanism]] — Living tradition with similar transformation themes

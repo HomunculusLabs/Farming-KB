@@ -13,35 +13,8 @@ type: concept
 22S,23S-homobrassinolide is a synthetic brassinosteroid prepared from the
 plant sterol stigmasterol. It was the specific compound used in the landmark
 Gartz, Adam, and Vorbrodt (1990) study demonstrating that brassinosteroids
-promote [[brassinosteroid-fungal-growth-promotion]]. Understanding its chemical structure and origin is
-essential for replicating the study and exploring brassinosteroid applications
-in mycology.
-
-## Chemical Classification
-
-Brassinosteroids are a class of polyhydroxylated steroidal lactones that
-function as [[gibberellins-plant-growth-hormones]]. By 1990, approximately 30 members had been
-identified across angiosperms, gymnosperms, and [[cervantes-green-algae-growing-medium]]. Homobrassinolide
-belongs to the subgroup of brassinosteroids with an extended side chain
-(homologated at C-24), distinguishing it from the parent compound brassinolide
-by an additional methylene group in the side chain.
-
-The stereochemistry at positions 22 and 23 is critical for biological activity.
-The 22S,23S configuration used in the Gartz study represents the natural
-stereochemistry found in biologically active brassinosteroids isolated from
-plants. Synthetic analogs with different stereochemistry at these positions
-typically show reduced or absent biological activity.
-
-## Structure of 22S,23S-Homobrassinolide
-
-The compound features the characteristic brassinosteroid skeleton: a
-5-alpha-cholestane core with hydroxyl groups at C-2, C-3, and C-22/C-23,
-and a lactone ring bridging C-22 and C-26 (or C-28 in homologated forms). The
-"homobrassinolide" designation indicates the presence of an ethyl rather than
-a methyl group at C-24 in the side chain, corresponding to the stigmasterol
-precursor.
-
-Key [[metzner-shamanic-ceremony-versus-psychotherapy-structural-features]] contributing to biological activity include the
+promote [[gibberellins-plant-growth-hormones]]. By 1990, approximately 30 members had been
+identified across angiosperms, gymnosperms, and [[metzner-shamanic-ceremony-versus-psychotherapy-structural-features]] contributing to biological activity include the
 A-ring cis-diol (2-alpha,3-alpha configuration), the side-chain vicinal diol
 (22R,23R or the 22S,23S epimer), and the lactone moiety. Each of these
 structural elements is believed to interact with a specific receptor site,
@@ -52,21 +25,7 @@ and modification of any element typically diminishes hormonal activity.
 The synthesis of 22S,23S-homobrassinolide from stigmasterol was described
 by Adam and Marquardt (1986) in Phytochemistry (Vol. 25, p. 1787). Stigmasterol
 is an abundant plant sterol found in soybean, calabar bean, and various
-vegetable oils, making it an economical [[shirota-4-hydroxyindole-acetyl-protection-psilocin-synthesis-starting-material]].
-
-The synthetic route from stigmasterol involves several key transformations:
-oxidation of the side chain to introduce oxygen functionality, selective
-protection and deprotection of hydroxyl groups, stereocontrolled introduction
-of the 22S,23S-diol configuration, and final lactonization to form the
-brassinosteroid lactone ring. The overall synthesis requires multiple steps
-and careful stereochemical control, reflecting the structural complexity of
-these molecules.
-
-The availability of this synthetic route was crucial for the Gartz et al.
-study, as natural brassinosteroids occur in plants at extremely low
-concentrations (nanograms to micrograms per kilogram of tissue), making
-isolation impractical for experimental use. Synthetic homobrassinolide
-provided sufficient material for the controlled [[holzer-mushroom-cultivation-experiments]].
+vegetable oils, making it an economical [[holzer-mushroom-cultivation-experiments]].
 
 ## Potency and Concentration
 
@@ -77,9 +36,7 @@ physiology, brassinosteroids are active at nanomolar to picomolar
 concentrations, making them among the most potent naturally occurring
 growth substances known.
 
-This extreme potency has important implications for [[brassinosteroids-in-fungal-cultivation]]
-applications. Even trace amounts of brassinosteroid contamination could
-potentially affect [[brassinosteroids-phytohormones-fungal-growth-promotion]], and conversely, very small quantities of
+This extreme potency has important implications for [[brassinosteroids-phytohormones-fungal-growth-promotion]], and conversely, very small quantities of
 synthetic brassinosteroid could treat large volumes of substrate. The cost
 effectiveness of brassinosteroid application would depend primarily on the
 synthetic cost of the compound rather than the quantity needed.
@@ -118,8 +75,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[brassinosteroid]]
 - [[homobrassinolide]]
-- [[psilocin]]
 - [[indole]]
 - [[stigmasterol]]

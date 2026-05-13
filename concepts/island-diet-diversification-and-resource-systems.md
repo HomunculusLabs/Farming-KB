@@ -8,15 +8,7 @@ type: concept
 
 ## Overview
 
-Small island systems present unique challenges and opportunities for food production and resource management. In [[permaculture-design]], islands are treated as intensive, closed-system models where every element must serve multiple functions. Bill Mollison emphasizes that island diets can be dramatically expanded beyond the typical staples of coconut, breadfruit, taro, and fish through deliberate diversification of tree crops, animal systems, and marine resources. This page explores the strategies for achieving nutritional security and self-reliance on small islands.
-
-## Extending the Island Diet Through Tree Fruit Diversity
-
-The standard island diet, while reliable, is often nutritionally narrow. Permaculture design on islands calls for a deliberate expansion of the fruit and nut palette through the introduction of a wide range of tree and vine species.
-
-### Primary Diversification Species
-
-- **Guava (*Psidium guajava*)**: A hardy, fast-bearing tree that thrives in coastal and sandy soils. Guava provides excellent vitamin C content and can be processed into preserves, juices, and dried products for storage. It serves as a pioneer species in [[food-forest-establishment]].
+Small island systems present unique challenges and opportunities for food production and resource management. In [[food-forest-establishment]].
 
 - **Citrus species**: Oranges, lemons, limes, grapefruits, and mandarins are well-suited to tropical and subtropical islands. Citrus trees provide year-round fruiting when multiple varieties are planted, creating a continuous harvest calendar. They also serve as windbreaks when planted on island perimeters.
 
@@ -27,7 +19,7 @@ The standard island diet, while reliable, is often nutritionally narrow. Permacu
 Beyond the major fruit species, Mollison advocates for establishing polycultures of minor fruits and nuts that collectively provide a diverse and resilient food supply. These include:
 
 - **Pandanus** (screw pine) for its nutrient-rich fruit segments
-- **Sea almond** (*Terminalia catappa*) for edible nuts and shade
+- **Sea almond** (*[[terminalia-catappa]]*) for edible nuts and shade
 - **Canistel** and **sapodilla** for sweet, calorie-dense fruits
 - **Cashew** for both nuts and the cashew apple fruit
 - **Breadfruit varieties** — expanding beyond a single cultivar to multiple types that fruit at different seasons
@@ -137,6 +129,5 @@ Climate change and rising sea levels pose existential threats to low-lying islan
 7. Protect and utilize endemic species as functional elements
 ## See Also
 
-- [[island-diet-diversification-and-energy-resources]]
 - [[tropical-island-diet-diversification-and-energy-resources]]
 - [[low-island-coral-cay-strategies]]

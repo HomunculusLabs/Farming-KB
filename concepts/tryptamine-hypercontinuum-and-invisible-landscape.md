@@ -9,11 +9,7 @@ created: 2026-05-08
 
 ## Overview
 
-[[terence-mckenna]] proposed that the tryptamine compounds provide access to what he called "a hyperdimensional continuum"—a space of extraordinary informational density that exists alongside but is ordinarily invisible to ordinary waking consciousness.
-
-This invisible landscape, as he described it, is not metaphorical but phenomenologically real: it presents itself to the experiencer as an actual place with its own geography, inhabitants, and physical laws.
-
-The concept draws on McKenna's extensive personal experience with DMT, [[psilocybin]], and other tryptamines, as well as on the reports of indigenous shamans and independent Western researchers.
+[[psilocybin]], and other tryptamines, as well as on the reports of indigenous shamans and independent Western researchers.
 
 The hypercontinuum is perhaps McKenna's most radical ontological claim: that there exist dimensions of reality accessible through chemistry that are as real and as informationally rich as the physical world.
 
@@ -31,9 +27,7 @@ At medium doses, the experiencer begins to access what McKenna calls "the other"
 
 At high doses, particularly with DMT, the experiencer is fully immersed in the hypercontinuum, encountering entities, spaces, and informational content that have no analogue in ordinary experience.
 
-The continuum is not linear but multidimensional: different tryptamines and different combinations of [[set-and-setting]] can produce qualitatively different spaces within the same general range.
-
-The [[psilocybin-mushroom]] experience, the [[ayahuasca]] experience, and the smoked [[extraterrestrial-contact-and-dmt-experience]] are described as accessing different regions of the same underlying continuum.
+The continuum is not linear but multidimensional: different tryptamines and different combinations of [[psilocybin-mushroom]] experience, the [[extraterrestrial-contact-and-dmt-experience]] are described as accessing different regions of the same underlying continuum.
 
 ## The Physics of the Other
 
@@ -53,11 +47,7 @@ This internal consistency is one of the strongest arguments against reducing the
 
 Perhaps the most remarkable feature of the tryptamine hypercontinuum is the presence of what appear to be independent intelligent entities.
 
-McKenna describes these entities as "self-transforming [[dmt-machine-elves]]"—beings that appear to be constructed from syntactic or linguistic material rather than biological tissue.
-
-The entities exhibit purposeful behavior: they appear to communicate, to teach, and to manipulate the phenomenological environment in ways that suggest intelligence and agency.
-
-The [[dmt-entity-encounters-and-the-logos]] are not fleeting glimpses but sustained interactions lasting minutes in subjective time, during which information is exchanged.
+McKenna describes these entities as "self-transforming [[dmt-entity-encounters-and-the-logos]] are not fleeting glimpses but sustained interactions lasting minutes in subjective time, during which information is exchanged.
 
 The entities are described as "trailing veils of proto-Gothic cathedrals" and as emitting "sounds like these little machines" that McKenna interprets as a form of language.
 

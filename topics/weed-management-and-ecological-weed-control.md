@@ -45,7 +45,7 @@ soil health, nutrient cycling, and ecosystem recovery, then manage them
 through competition, timing, and biological processes rather than
 chemical force.
 
-The philosophical divide on weeds runs deep. Masanobu Fukuoka, the
+The philosophical divide on weeds runs deep. [[masanobu-fukuoka]], the
 Japanese farmer and philosopher, argued that the very concept of a
 "weed" is a human invention. In nature, bushes and shrubs grow at the
 foot of large trees, grasses spread among the shrubs, and mosses
@@ -56,21 +56,7 @@ as a "crop" and regard all others as enemies. This insight, developed
 over forty years of observation in his citrus orchards, forms the
 foundation of the no-weeding approach to farming.
 
-Modern organic and [[biochar-in-regenerative-agriculture]] occupies a middle ground.
-While few practitioners go as far as Fukuoka in abandoning weeding
-entirely, the ecological school shares his fundamental insight: that
-weed management should work with natural processes rather than against
-them. Eliot Coleman, Steve Solomon, Geoff Hamilton, and Elaine Ingham
-each developed practical systems for managing weeds without synthetic
-chemicals, drawing on principles of soil biology, competitive planting,
-and careful timing. The Korean JADAM system, founded by Young-sang Cho,
-takes a similar approach, reframing wild grass as a partner rather than
-an enemy and demonstrating that coexistence with weeds improves soil
-health over time.
-
-This article synthesizes these diverse perspectives into a
-comprehensive guide to ecological weed management. It covers what weeds
-are and why they appear, the [[fungal-melanin-biosynthesis-ecological-functions]] they perform,
+Modern organic and [[fungal-melanin-biosynthesis-ecological-functions]] they perform,
 practical management techniques ranging from no-weeding philosophies to
 mechanical and biological controls, and strategies for transitioning
 from conventional to ecological approaches. The emphasis throughout is
@@ -102,36 +88,6 @@ management question entirely. Instead of asking "how do I kill these
 weeds," the ecological gardener asks "what conditions are causing these
 weeds to appear, and how can I change those conditions?" This shift in
 framing leads to fundamentally different and often more effective
-[[weed-management-strategies]].
-
-## Ecological Functions of Weeds
-
-Weeds perform a range of essential ecological functions that
-conventional agriculture fails to recognize. Fukuoka identified several
-critical roles. The deep penetration of grass and weed roots into the
-earth loosens compacted soil far more effectively than mechanical
-tilling. Roots of grasses and green manure crops work the soil to
-depths of twelve to fifteen inches or more, compared to the four to
-eight inches achieved by a plow. When roots die, they leave channels for
-air and water infiltration, adding humus and allowing soil microbes to
-proliferate.
-
-Without ground cover, rainwater washes away topsoil each year. Even on
-gently sloping land, soil loss ranges from several tons to over a
-hundred tons per year. In twenty to thirty years without plant cover,
-the topsoil washes entirely away, reducing fertility to near zero. Weeds
-and grasses are absolutely essential for maintaining the organic,
-living character of soil. Their roots prevent erosion, and their
-decomposition feeds the that sustain soil
-fertility.
-
-Deep-rooted weeds like dandelion, dock, and thistle mine minerals
-from subsoil layers, bringing calcium, magnesium, and trace elements to
-the surface where they become available to shallower-rooted crop
-plants. This natural nutrient pumping reduces or eliminates the need for
-fertilizer amendments. Weeds also serve as living mulch, protecting the
-soil surface from rain splash erosion, wind erosion, and thermal
-extremes. During hot weather, the weed canopy reduces soil surface
 [[mushroom-growing-temperature-and-moisture]] loss through evaporation.
 
 Weeds provide habitat for predatory insects that control crop pests.

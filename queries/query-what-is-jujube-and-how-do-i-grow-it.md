@@ -1,7 +1,7 @@
 ---
 title: What Is Jujube (Chinese Date) and How Do I Grow It?
 created: 2026-04-28
-tags: [jujube, chinese-date, ziziphus-jujuba, [[comparison-fruit-tree-pruning-vs-fruit-tree-grafting-guide|fruit]-trees, orchard, [[query-how-to-design-a-food-forest-guild-for-fruit-trees|query]]
+tags: [jujube, chinese-date, ziziphus-jujuba, query
 date: 2026-04-28
 updated: 2026-04-28
 sources:
@@ -18,7 +18,7 @@ in temperate and subtropical orchards.
 
 ## What Is Jujube?
 
-Jujube (*Ziziphus jujuba*), commonly known as the Chinese date, is a deciduous tree
+Jujube (*[[ziziphus-jujuba]]*), commonly known as the Chinese date, is a deciduous tree
 in the buckthorn family Rhamnaceae. It has been cultivated in China for over
 4,000 years, making it one of the oldest domesticated fruit species. The tree
 typically reaches 15–30 feet at maturity and features glossy green leaves with a
@@ -83,31 +83,5 @@ Jujube is one of the most versatile fruit trees in the kitchen:
 - **Tea** — Dried jujubes are a staple ingredient in herbal teas.
 - **Candy and snacks** — Candied jujube (bing tang hong zao) is a popular Chinese
   confection.
-- **Medicine** — In [[container-gardening-techniques|container culture]], especially
-dwarf and semi-dwarf varieties. A 15–25 gallon container provides adequate root space.
-Use a well-draining potting mix and water regularly since containers dry faster than
-ground soil. Container-grown jujubes may fruit slightly earlier than field-planted
-trees. Overwinter containers in a protected location in the coldest parts of zone 5.
-Varieties like Honey Jar and Sugarcane are good compact choices for patio growing.
-
-## How Does Jujube Fit Into a Permaculture Food Forest?
-
-Jujube is an outstanding addition to any permaculture design:
-
-- **Drought resilience** — Produces reliable fruit with minimal irrigation once
-  established, ideal for dryland or xeriscaped systems.
-- **Nurse tree** — Thorny young growth protects sensitive understory plantings from
-  browsing animals.
-- **Bee forage** — Small, fragrant flowers provide late-season nectar for
-  permaculture principles.
-- **Multi-functional** — Hard wood useful for tool handles; leaves are edible and
-  used medicinally for livestock.
-
----
-
-## See Also
-
-- jujube-ziziphus-spp
-- [[permaculture-design]]
-- [[ziziphus-jujuba]]
+- **Medicine** — In [[permaculture-design]]
 - [[permaculture-principles]]

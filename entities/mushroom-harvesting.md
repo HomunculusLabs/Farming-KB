@@ -9,60 +9,7 @@ tags: [mycology, cultivation, harvesting, post-harvest, yield]
 
 ## Description
 
-Mushroom harvesting is the process of collecting mature or maturing mushrooms from colonized substrate bags or beds at the optimal stage for market quality, flavor, and shelf life. Harvesting technique and timing directly affect product quality, market price, and total yield from each substrate bag. In the FAO [[mushroom-cultivation-disabilities-nine-week-training-program]], harvesting is emphasized as a daily activity that requires attention to timing, gentleness, and consistency.
-
-## Classification
-
-- **Category**: Post-production cultivation step
-- **Type**: Manual crop collection
-- **Frequency**: At least twice daily (morning and evening)
-- **Yield**: 250-500 grams total per substrate bag over its productive life
-- **Timing**: Critical for quality, shelf life, and market value
-
-## Harvesting Guidelines
-
-### Timing
-- Harvest at least **twice a day** to ensure mushrooms are collected young and healthy
-- Morning harvest is typically the largest flush
-- Evening harvest captures mushrooms that developed during the day
-- Over-mature mushrooms lose quality, flavor, and shelf life rapidly
-
-### Stage of Harvest
-- **Oyster mushrooms**: Harvest when the cap edges begin to flatten but before they curl upward; the cluster should be tight and compact
-- **Straw mushrooms**: Harvest at the "egg" or "button" stage before the volva breaks and the cap opens — this commands the highest market price
-- **Ear mushrooms**: Harvest when the fruiting body is full and pliable but before it becomes tough
-
-### Technique
-1. Grasp the mushroom cluster at the base where it attaches to the substrate
-2. Twist gently while pulling upward to remove the entire cluster with its base
-3. Avoid leaving stem fragments in the bag, which can rot and attract pests
-4. Handle mushrooms gently to avoid bruising, which causes dark spots and reduces market value
-5. Place harvested mushrooms directly into clean collection containers
-6. Avoid stacking or compressing mushrooms during collection
-
-### Post-Harvest Handling
-- Sort mushrooms by size and quality immediately after harvest
-- Remove any debris or substrate material attached to the base
-- Trim stems if necessary for the target market
-- Keep harvested mushrooms cool and shaded — heat accelerates deterioration
-- Process or sell within hours of harvest at tropical temperatures
-
-## Yield Expectations
-
-Based on the FAO manual data:
-
-| Mushroom Type | Yield per Bag | Productive Period |
-|--------------|--------------|-------------------|
-| Oyster mushroom | 250-500g | 2-3 months |
-| Straw mushroom | Bed-based system | 10-14 day cycle |
-| Ear mushroom | 200-400g | 2-3 months |
-
-Multiple flushes occur from each bag, with the first flush typically being the largest. Quality and yield decline with each successive flush.
-
-## Key Facts
-
-- Harvesting at the right time results in sweeter, more delicious mushrooms with longer shelf life
-- Mushrooms harvested too late become tough, lose flavor, and release spores that can contaminate the [[cannabis-growing-environment-setup]]
+Mushroom harvesting is the process of collecting mature or maturing mushrooms from colonized substrate bags or beds at the optimal stage for market quality, flavor, and shelf life. Harvesting technique and timing directly affect product quality, market price, and total yield from each substrate bag. In the FAO [[cannabis-growing-environment-setup]]
 - The harvest schedule must be maintained 7 days a week — mushrooms do not wait for weekends
 - Proper harvesting technique encourages the next flush to develop
 - Each flush cycle takes 5-7 days for oyster mushrooms under good conditions
@@ -70,13 +17,92 @@ Multiple flushes occur from each bag, with the first flush typically being the l
 
 ## Relevance to Cultivation and Mycology
 
-Harvesting represents the payoff of all the preparation and management work [[contamination-prevention-in-mushroom-cultivation]]. The FAO manual emphasizes that harvesting quality directly determines market success. For people with disabilities, harvesting is one of the most accessible tasks — it requires careful observation and gentle handling rather than strength. The repetitive daily nature of harvesting provides regular income and routine, which supports the business development goals of the training program.
-
-The manual notes that selling fresh mushrooms daily generates regular cash flow, which is one of the key advantages of mushroom farming over annual crops. This daily income stream is particularly important for people with disabilities who may have limited alternative income sources.
-
-## See Also
-
-- [[oil-drum-sterilizer-mushroom-substrate-bags]]
+Harvesting represents the payoff of all the preparation and management work [[oil-drum-sterilizer-mushroom-substrate-bags]]
 - Mushroom Packaging
 - Mushroom Marketing
 - [[mushroom-processing]]
+
+## Overview
+
+Mushroom Harvesting represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish mushroom harvesting
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving mushroom extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Mushroom Harvesting finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for mushroom harvesting. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+mushroom harvesting and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Mushroom Harvesting has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of mushroom harvesting into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[evaporative-demand-four-factors-mushroom-tropism]]
+- [[falconer-mushroom-cellar-management]]
+- [[mushroom-biology-nutrition-health-properties]]
+- [[mushroom-rhizomorphic-vs-cottony]]
+- [[mushroom-tissue-culture]]

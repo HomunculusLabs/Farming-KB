@@ -11,12 +11,7 @@ sources:
 # French Maraîcher Manure System and Compost Quality
 
 The 19th-century Parisian maraîchers (market gardeners) built the
-world's most productive [[urban-agriculture-and-rooftop-farming]] system on a foundation of
-horse manure — using it simultaneously as heat source, soil
-amendment, and the cornerstone of their organic philosophy.
-
-Eliot Coleman documented this system as historical inspiration for
-modern winter [[water-harvesting-techniques-comparison]].
+world's most productive [[water-harvesting-techniques-comparison]].
 
 ## Manure as Heat Engine
 
@@ -36,25 +31,12 @@ load of manure brought onto the site.
 ## Composted Horse Manure as Supreme Amendment
 
 Coleman states unequivocally that compost made from a mixture of
-horse manure and straw is "the best of all for [[fukuoka-natural-vegetable-growing]]."
-
-The French maraîchers strongly agreed with this assessment.
-
-Many growers of the era expressed the opinion that composted horse
-manure was the only suitable manure for [[dry-gardening-unirrigated-vegetable-production-solomon]] — a
+horse manure and straw is "the best of all for [[dry-gardening-unirrigated-vegetable-production-solomon]] — a
 remarkable consensus given the variety of fertility sources available.
 
 The horse manure and straw mixture provided both carbon (from straw
 bedding) and nitrogen (from urine and manure), creating ideal
-conditions for thermophilic [[composting]].
-
-## Gressent's 1870 Defense of Compost
-
-In 1870, Vincent Gressent wrote in Le potager moderne, an
-instruction manual for Parisian growers, a passage that could
-serve as a manifesto for modern organic agriculture:
-
-"For vegetable growing [[cervantes-chemical-fertilizers-guide]] don't do all that one
+conditions for thermophilic [[cervantes-chemical-fertilizers-guide]] don't do all that one
 wants; they stimulate the plant and produce quantity, but to the
 detriment of quality."
 
@@ -62,16 +44,7 @@ Gressent connected compost use directly to pest resistance:
 "In principle, insect pests only attack weak, sickly plant
 specimens lacking proper nutrition."
 
-He pointed to the [[parisian-market-gardening]] gardens as proof — where
-"copious compost use and rational crop rotations" eliminated
-pest problems entirely.
-
-This observation anticipated by nearly a century the modern
-understanding of plant immunity and soil health.
-
-## Hottes — The Basket Backpack System
-
-The physical logistics of [[solomon-manure-handling-and-cof-ingredients]] required special
+He pointed to the [[solomon-manure-handling-and-cof-ingredients]] required special
 equipment due to the garden's extreme space efficiency.
 
 Access paths were only 10 inches wide — too narrow for
@@ -117,8 +90,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[eliot-coleman]]
 - [[coleman-french-maraicher-horse-manure-hotbed-system]]
-- [[doc]]
 - [[det]]
 - [[composting]]

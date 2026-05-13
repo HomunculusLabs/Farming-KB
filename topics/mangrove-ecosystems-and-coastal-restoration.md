@@ -26,9 +26,7 @@ sources:
 
 ## Introduction
 
-Mangroves are a diverse group of [[salt-tolerant-fodder-species]] trees and shrubs that occupy the intertidal zone of tropical and subtropical coastlines. Found in over 120 countries and territories, they form some of the most productive and ecologically significant ecosystems on Earth. Spanning approximately 150,000 km² globally (down from an estimated 200,000 km² historically), mangrove forests provide critical [[biodiversity-of-fungi-ecosystem-services-agriculture]] including coastal protection, [[mycorrhizal-fungi-soil-carbon-sequestration-by-type]], fisheries nursery habitat, water filtration, and livelihood support for an estimated 120 million people worldwide.
-
-The intersection of [[dighton-fungi-climate-change-feedback]], coastal development, and aquaculture expansion has made mangrove loss one of the most pressing conservation challenges of the 21st century. This page examines mangrove biology, ecology, threats, restoration science, and their integration with permaculture and agroforestry systems.
+Mangroves are a diverse group of [[biodiversity-of-fungi-ecosystem-services-agriculture]] including coastal protection, [[dighton-fungi-climate-change-feedback]], coastal development, and aquaculture expansion has made mangrove loss one of the most pressing conservation challenges of the 21st century. This page examines mangrove biology, ecology, threats, restoration science, and their integration with permaculture and agroforestry systems.
 
 ## Mangrove Biology and Species Diversity
 
@@ -79,71 +77,9 @@ Zonation is not rigid—overlap and gradation are common, and the pattern varies
 
 ### Primary Productivity
 
-Mangrove forests are among the most productive ecosystems on Earth, with net primary productivity (NPP) ranging from 4 to 28 tonnes of dry matter per hectare per year. [[leaf-litter-microfungal-diversity-tropical-temperate]] production alone contributes 5–12 t/ha/yr, forming the base of complex detrital food webs. Only 5–10% of leaf litter is consumed directly by herbivores; the remainder enters the detritus pathway, decomposed by bacteria, fungi, and microfauna.
-
-### Food Webs and Fisheries
-
-Mangroves function as critical nursery habitat for an extraordinary diversity of marine and brackish species:
-
-- **Fish** — Over 1,000 fish species have been recorded in mangrove habitats, including commercially important snappers, groupers, mullets, rabbitfish, and milkfish
-- **Crustaceans** — Mangroves are the primary nursery for penaeid shrimp (the basis of a global industry worth $50+ billion annually), mangrove crabs (*Scylla* spp.), and fiddler crabs (*Uca* spp.)
-- **Mollusks** — Oysters, mussels, and gastropods colonize mangrove roots and substrate surfaces
-- **Fauna** — Proboscis monkeys, fishing cats, monitor lizards, crocodiles, and numerous bird species depend on mangrove habitat
-
-Studies across Southeast Asia, East Africa, and the Americas have demonstrated strong positive correlations between mangrove area and nearby fisheries catches. In the Gulf of California, fisheries landings decline by approximately 7.7% for every 1% loss of mangrove area within a 10 km radius.
-
-### Carbon Sequestration: The Blue Carbon Engine
-
-Mangroves are among the most carbon-dense ecosystems on the planet. Their exceptional [[holmgren-soil-humus-carbon-storage-rebuilding]] derives from three factors:
+Mangrove forests are among the most productive ecosystems on Earth, with net primary productivity (NPP) ranging from 4 to 28 tonnes of dry matter per hectare per year. [[holmgren-soil-humus-carbon-storage-rebuilding]] derives from three factors:
 
 1. **High primary productivity** — Rapid biomass accumulation above and below ground
-2. **Anaerobic soil conditions** — Waterlogged, low-oxygen substrates dramatically slow [[hamilton-composting-and-organic-matter-management]] decomposition, leading to deep, carbon-rich soil profiles
-3. **Below-ground allocation** — Mangroves invest heavily in root biomass, with below-ground carbon storage often exceeding above-ground by 2–5×
-
-**Carbon storage data:**
-- Mean ecosystem carbon stock: **1,023 Mg C/ha** (range 490–1,500+), compared to 150–250 Mg C/ha for most terrestrial tropical forests
-- Below-ground soil carbon (top 1 m): 500–1,000 Mg C/ha
-- Carbon burial rates: 1.0–6.8 Mg C/ha/yr (mean ~2.4), significantly exceeding salt marshes and seagrass beds
-- Above-ground biomass: 50–300 Mg C/ha depending on species, age, and growing conditions
-
-When mangroves are cleared or degraded, these accumulated soil carbon stores are rapidly released as CO₂, making mangrove deforestation a disproportionately large source of greenhouse gas emissions.
-
-### Storm Surge and Coastal Protection
-
-Mangroves provide critical natural coastal defense through multiple mechanisms:
-
-- **Wave attenuation** — Mangrove forests reduce wave height by 20–80% per 100 m of forest width, depending on tree density, height, and species
-- **Storm surge reduction** — Coastal modeling studies indicate mangroves can reduce storm surge heights by 40–66 cm per km of forest width
-- **Shoreline stabilization** — Dense root networks bind sediments and reduce erosion rates by 50–90% compared to unvegetated coastlines
-- **Flood attenuation** — Mangrove wetlands store and slowly release floodwaters, reducing peak flows by an estimated 20–40%
-
-A 2020 global analysis estimated that mangroves prevent an average of $65 billion in annual flood damages globally, protecting over 18 million people.
-
-### Water Filtration
-
-Mangrove soils and root systems function as natural water treatment systems:
-- **Nutrient removal** — Denitrification in anaerobic soils removes 40–90% of nitrogen inputs
-- **Sediment trapping** — Mangrove forests trap 80–95% of suspended sediments from riverine and tidal sources
-- **Pollutant sequestration** — Heavy metals and persistent organic pollutants are adsorbed to fine-grained mangrove sediments
-- **Pathogen reduction** — UV exposure in shallow water and microbial activity reduce pathogen concentrations
-
-## Threats to Mangrove Ecosystems
-
-### Global Loss Rates
-
-Historical mangrove loss has been severe:
-- Global extent declined from an estimated 196,000 km² in 1980 to approximately 150,000 km² by 2020
-- Annual loss rate peaked at 1.0–2.0% during the 1980s–2000s, declining to approximately 0.11% per year in the 2010s
-- An estimated 35% of the world's mangroves have been lost since 1980
-- Southeast Asia has experienced the greatest losses (~30% since 1980), driven primarily by aquaculture
-
-### Primary Drivers of Loss
-
-**Aquaculture and Shrimp Farming.** Conversion to shrimp ponds has been the single largest driver of mangrove loss, particularly in Thailand, Vietnam, Indonesia, Ecuador, and Bangladesh. Between 1980 and 2000, an estimated 1.0–1.5 million hectares of mangroves were converted to aquaculture-ponds-and-integrated-fish-systems globally. Most shrimp pond operations are short-lived (3–8 years) before disease, soil acidification, and pond abandonment render them unproductive.
-## See Also
-
-- [[query-why-are-mangroves-critical-for-climate-change-adaptation-and-coastal-protection]]
-- [[growing-gourmet-global-environmental-shift-loss-fungal-diversity]]
+2. **Anaerobic soil conditions** — Waterlogged, low-oxygen substrates dramatically slow [[query-why-are-mangroves-critical-for-climate-change-adaptation-and-coastal-protection]]
 - [[tropical-vs-temperate-fungal-diversity]]
-- [[endophytic-fungi-biology-ecology-taxonomic-diversity]]
 - [[microfungal-species-diversity-large-areas]]

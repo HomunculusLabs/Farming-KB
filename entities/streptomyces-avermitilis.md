@@ -33,11 +33,9 @@ sources:
 
 ## Overview
 
-[[mycelium]] + aerial hyphae bearing [[three-pillars-mushroom-cultivation-spawn-substrate-environment]]
+[[three-pillars-mushroom-cultivation-spawn-substrate-environment]]
 
 ## See Also
-
-- [[streptomyces-griseus]]
 
 - [[actinomycetes-soil-biology]]
 ## Practical Considerations

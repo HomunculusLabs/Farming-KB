@@ -11,7 +11,7 @@ sources: []
 
 ## Overview
 
-The history of psychedelic mushroom use spans millennia, from indigenous ceremonial practices in Mesoamerica to their role in modern psychopharmacology and counter-culture movements. This history reflects shifting [[weil-cultural-attitudes-toward-altered-states]] consciousness-altering substances, scientific inquiry, and the politics of prohibition and resurgence.
+The history of psychedelic mushroom use spans millennia, from indigenous ceremonial practices in Mesoamerica to their role in modern psychopharmacology and counter-culture movements. This history reflects shifting cultural attitudes toward consciousness-altering substances, scientific inquiry, and the politics of prohibition and resurgence.
 
 ## Indigenous and Pre-Columbian Use
 
@@ -26,7 +26,7 @@ Archaeological evidence suggests that psilocybin mushrooms have been used ceremo
 
 ### The "Divine Mushroom" — Teonanacatl
 
-Indigenous Mesoamerican cultures referred to [[psilocybin-mushrooms-as-alien-symbiotes]] **teonanacatl** (Nahuatl: "flesh of the gods" or "god's flesh"), a term that reflects their sacred status. These mushrooms were not used recreationally but as sacramental tools for:
+Indigenous Mesoamerican cultures referred to psilocybin mushrooms as **teonanacatl** (Nahuatl: "flesh of the gods" or "god's flesh"), a term that reflects their sacred status. These mushrooms were not used recreationally but as sacramental tools for:
 
 - Divination and prophecy
 - Healing ceremonies
@@ -46,11 +46,11 @@ Spanish colonizers in the 16th century actively suppressed indigenous mushroom u
 
 ### R. Gordon Wasson
 
-Robert Gordon Wasson (1898-1986), a vice president of J.P. Morgan, became fascinated by the cultural divide between mycophilic (mushroom-loving) and mycophobic (mushroom-fearing) societies. With his wife [[valentina-pavlovna-wasson]], he traveled to Mexico in the early 1950s to investigate indigenous mushroom practices.
+Robert Gordon Wasson (1898-1986), a vice president of J.P. Morgan, became fascinated by the cultural divide between mycophilic (mushroom-loving) and mycophobic (mushroom-fearing) societies. With his wife Valentina Pavlovna Wasson, he traveled to Mexico in the early 1950s to investigate indigenous mushroom practices.
 
 ### The 1955 Velada
 
-On June 29-30, 1955, Wasson participated in a **velada** (night ceremony) led by Mazatec curandera **Maria Sabina** (1888-1985) in Huautla de Jimenez, Oaxaca. This made Wasson and his photographer companion Allan Richardson the first known non-indigenous people to participate in a [[maria-sabina-and-mazatec-mushroom-ceremony]].
+On June 29-30, 1955, Wasson participated in a **velada** (night ceremony) led by Mazatec curandera **Maria Sabina** (1888-1985) in Huautla de Jimenez, Oaxaca. This made Wasson and his photographer companion Allan Richardson the first known non-indigenous people to participate in a Mazatec mushroom ceremony.
 
 ### Life Magazine Article (1957)
 
@@ -73,7 +73,7 @@ In 1960, Timothy Leary, a clinical psychologist at Harvard University, obtained 
 ### Key Experiments
 
 - **Concord Prison Experiment (1961-1963)**: Administered psilocybin to inmates at Concord State Prison in Massachusetts, aiming to reduce recidivism. Initial results appeared promising — follow-up studies found lower recidivism rates among participants, though methodological limitations were significant
-- **Marsh Chapel Experiment (1962, "Good Friday Experiment")**: Walter Pahnke administered psilocybin to theology students during a Good Friday service, measuring mystical experience. Results suggested that psilocybin could reliably induce genuine [[psilocybin-mystical-experiences-personality-change]]
+- **Marsh Chapel Experiment (1962, "Good Friday Experiment")**: Walter Pahnke administered psilocybin to theology students during a Good Friday service, measuring mystical experience. Results suggested that psilocybin could reliably induce genuine mystical experiences
 - **Self-experimentation**: Both Leary and Alpert conducted extensive self-experiments that profoundly shifted their personal philosophies
 
 ### Dismissal from Harvard
@@ -93,7 +93,7 @@ Psilocybin mushrooms became a significant element of the 1960s counter-culture, 
 ### Legal Prohibition
 
 - **1968 UN Convention on Psychotropic Substances**: Classified psilocybin as a Schedule I substance internationally
-- **US [[controlled-substances-act-and-psychedelic-research]] (1970)**: Placed psilocybin in Schedule I — high potential for abuse, no accepted medical use, lack of safety
+- **US Controlled Substances Act (1970)**: Placed psilocybin in Schedule I — high potential for abuse, no accepted medical use, lack of safety
 - **UK Misuse of Drugs Act (1971)**: Classified psilocybin as a Class A drug
 - **Global prohibition**: Most countries followed suit, effectively ending legitimate research for decades
 
@@ -133,3 +133,11 @@ Psilocybin mushrooms have experienced a dramatic cultural rehabilitation:
 - Academic conferences and training programs for psychedelic therapists
 
 See [[psychedelic-mushroom-taxonomy]] for the scientific classification of these fungi and [[psilocybin-clinical-trials]] for current research status.
+
+## See Also
+
+- [[psycholytic-vs-psychedelic-therapy-historical-models-metzner]]
+- [[sidney-cohen-oscar-janiger-hollywood-psychedelic-therapy-1960s]]
+- [[psychedelic-plants-in-ancient-cultures]]
+- [[archaeology-of-psychedelic-mushrooms]]
+- [[psychedelic-crisis-response-protocol]]

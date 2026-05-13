@@ -9,8 +9,7 @@ sources: []
 # Valentina Pavlovna Wasson
 
 Valentina Pavlovna Guercken Wasson (1901-1958) was a Russian-born paediatrician and
-ethnomycologist who, together with her husband [[amanita-muscaria-chemistry-and-pharmacology]] and
-[[amanita-muscaria-fly-agaric-history-and-pharmacology]].
+ethnomycologist who, together with her husband [[amanita-muscaria-fly-agaric-history-and-pharmacology]].
 
 Her role in the foundational research of ethnomycology has sometimes been
 underestimated. It was her cultural knowledge and mycophilic sensibility that
@@ -20,8 +19,7 @@ might never have developed.
 
 The Wassons' collaborative work laid the groundwork for all subsequent investigations
 into the role of psychoactive mushrooms in human culture, including the eventual
-rediscovery of [[falconer-mushroom-cultivation-history]] - The broader history of human-mushroom relations
-- [[psychedelic-mushroom-art-and-iconography]] - Cultural representations of mushrooms
+rediscovery of [[psychedelic-mushroom-art-and-iconography]] - Cultural representations of mushrooms
 - [[wasson-hofmann-psilocybin-connection]]
 ## Practical Applications
 

@@ -8,22 +8,7 @@ sources: ["raw/papers/shulgin-a-tihkal.md"]
 ---
 # Harmaline (3,4-Dihydroharmine)
 
-TIHKAL entry #13. A beta-carboline alkaloid and potent monoamine oxidase inhibitor (MAOI) found in [[mckenna-food-gods-peganum-harmala-soma]] ([[golden-guide-syrian-rue-and-maoi-plants]]) and Banisteriopsis caapi (ayahuasca). Harmaline is both psychoactive in its own right and pharmacologically significant as an enzyme inhibitor that enables [[tihkal-oral-activity-mao-inhibition]] of otherwise inactive tryptamines like DMT.
-
-## Chemical Names
-
-- beta-Carboline, 3,4-dihydro-7-methoxy-1-methyl
-- 3,4-Dihydro-7-methoxy-1-methyl-beta-carboline
-- 3,4-Dihydroharmine
-- 7-Methoxyharmalan
-- Harmadine (historical synonym — see history below)
-
-## Dosage
-
-| Route | Dose Range |
-|-------|-----------|
-| Oral (pure harmaline) | 150–300 mg |
-| Oral (P. harmala seeds) | 3–5 g ground seeds (equivalent to ~250–500 mg [[turner-harmala-alkaloids-preparation-and-dosage]]) |
+TIHKAL entry #13. A beta-carboline alkaloid and potent monoamine oxidase inhibitor (MAOI) found in [[golden-guide-syrian-rue-and-maoi-plants]]) and Banisteriopsis caapi (ayahuasca). Harmaline is both psychoactive in its own right and pharmacologically significant as an enzyme inhibitor that enables [[turner-harmala-alkaloids-preparation-and-dosage]]) |
 
 ## Duration
 
@@ -52,35 +37,90 @@ TIHKAL entry #13. A beta-carboline alkaloid and potent monoamine oxidase inhibit
 - **20 mg harmaline + 55 mg DMT**: Minimal — slight hypnogogic abstractions after 3 hours, adrenergic push.
 - **50 mg harmaline + 60 mg DMT [20 min]**: No effects noted.
 - **80 mg harmaline + 40 mg DMT [60 min]**: Quite a bit of visual activity, subtle onset, quick drop-off.
-- **100 mg harmaline + 120 mg DMT [10 min]**: Full [[leary-psychedelic-experience-bardo-mapping]] at 80 minutes. Colorful infinitely-repeated patterns like a kaleidoscope. No loss of identity. Music became "another world." Effects receded at 2.5 hours. Concentration impaired for 30 hours post-experience.
+- **100 mg harmaline + 120 mg DMT [10 min]**: Full [[dmt-entity-tihkal]] — primary tryptamine potentiated by harmaline inhibition
+- [[harm-reduction-guide]] — dietary restrictions required with MAOIs
 
-## The Harmadine Confusion
+## Overview
 
-An alkaloid from Peganum harmala was once reported with a melting point 18 C too high, assumed to be an isomer, and named "harmadine." This was resolved when it was observed that on an open melting point block, harmaline had mp 242-244 C (with sublimation at 189 C) and harmadine had mp 241-243 C (sublimation at 178 C). In a capillary tube, both melted at 256-257 C. Harmadine is now a synonym for harmaline.
+Harmaline Entity Tihkal represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
 
-## MAOI Mechanism and Common Misconceptions
+## Key Characteristics
 
-Shulgin emphasizes that harmaline is NOT merely an inert MAOI facilitator. Common internet advice to "take some harmaline or Syrian Rue seeds along with shrooms" embodies several myths:
+Several defining characteristics distinguish harmaline entity tihkal
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
 
-1. The MAOI is not without action — it has its own psychoactive spectrum
-2. Peganum harmala seeds contain harmine as well as harmaline and other alkaloids
-3. The two plant materials produce very different experiences
+## Ecological Context
 
-As a prescription antidepressant mechanism, MAO inhibition is well-established. Harmaline's effects range from intoxication and thought-clouding to vivid closed-eye hallucinations, with consistent nausea and motor impairment at higher doses.
+The ecological relationships involving harmaline extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
 
-## Role in Ayahuasca
+## Practical Applications
 
-Harmaline is the critical pharmacological component that enables ayahuasca to be orally active — the beta-carboline-containing Banisteriopsis caapi vine inhibits MAO sufficiently to prevent destruction of the DMT from companion plants. However, B. caapi contains much more harmine than harmaline, and the combined alkaloid profile of the vine differs significantly from either pure compound alone.
+Harmaline Entity Tihkal finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
 
-## Physical Properties
+## Management and Implementation
 
-- Free base mp: 242-244 C (open block); 256 C (capillary)
-- HCl dihydrate IR fingerprint (cm-1): 820, 841, 992, 1022, 1073, 1137
-- MS (m/z): parent ion 213 (100%); 214 (89%)
-- MS of 1-hydroxymethyl intermediate: parent ion 213, 214 (100%, 89%); 198 (29%); 201 (23%); 170 (22%)
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for harmaline entity tihkal. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+harmaline entity tihkal and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Harmaline Entity Tihkal has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of harmaline entity tihkal into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
 
 ## See Also
 
-- [[dmt-entity-tihkal]] — primary tryptamine potentiated by harmaline inhibition
-- [[banisteriopsis-caapi]] — the ayahuasca vine containing harmala alkaloids
-- [[harm-reduction-guide]] — dietary restrictions required with MAOIs
+- [[2c-g-3-entity]]
+- [[4-5-mdo-dmt-entity-tihkal]]
+- [[5-6-mdo-dipt-entity-tihkal]]
+- [[harmaline]]
+- [[naranjo-harmaline-yage-experiment]]

@@ -10,26 +10,7 @@ sources: [papers/john-dighton-fungi-in-ecosystem-processes.md]
 
 Mycorrhizal fungi are among the most important biological agents of mineral
 weathering in terrestrial ecosystems. Through their ability to exude organic
-acids, produce siderophores, and deploy [[fungal-extracellular-enzymes]] at the soil-root
-interface, mycorrhizal fungi significantly enhance the release of essential
-nutrients from mineral sources, driving plant nutrition and soil development.
-
-## Ectomycorrhizal Weathering of Soil Minerals
-
-Ectomycorrhizal (ECM) fungi dissolve soil weatherable calcium-bearing minerals
-through proton- and ligand-promoted mechanisms (Callot et al., 1985; Lapeyrie
-et al., 1990, 1991). ECM hyphal tips produce micro- to millimolar
-concentrations of low-molecular-mass carboxylic acids including malic, succinic,
-gluconic, and oxalic acids. In podzol E horizons under European coniferous
-forests, the weathering of hornblendes, feldspars, and granitic bedrock has
-been attributed to organic acid excretion by ectomycorrhizal hyphae.
-
-ECM hyphal tips are associated with micropores (3-10 micrometers) in
-weatherable soil minerals, where they create localized zones of mineral
-dissolution (van Breemen et al., 2000; Smits et al., 2005). The ECM fungus
-Piloderma extracted K and/or Mg from biotite, microcline, and chlorite to
-satisfy nutritional requirements and precipitated mycogenic calcium oxalate
-crystals on hyphae (Glowa et al., 2003). [[suillus-granulatus]] and Paxillus
+acids, produce siderophores, and deploy [[suillus-granulatus]] and Paxillus
 involutus released elements from apatite and wood ash (K, Ca, Ti, Mn, Pb) and
 accumulated them preferentially in rhizomorphs (Wallander et al., 2003).
 
@@ -53,14 +34,7 @@ which nutrients are most available to plants in a given soil environment.
 The regulation of organic acid exudation is tightly linked to plant carbon
 supply and nutrient demand. When plants are deficient in phosphorus or
 micronutrients, they allocate more photosynthate to mycorrhizal partners,
-which respond by increasing [[staycare-fungal-organic-acid-production-metal-leaching]]. This feedback loop
-ensures that mineral weathering effort is directed toward the nutrients
-most limiting to plant growth.
-
-## Resource-Specific Hyphal Responses
-
-ECM mycelia respond to the presence of different soil minerals by regulating
-growth, [[arbuscular-mycorrhizal-colonization-patterns]], carbon allocation, and substrate acidification.
+which respond by increasing [[arbuscular-mycorrhizal-colonization-patterns]], carbon allocation, and substrate acidification.
 Rosling et al. (2004a, 2004b) demonstrated that [[hebeloma-crustuliniforme]]/Pinus
 sylvestris ectomycorrhizas responded to the presence of specific minerals by
 adjusting hyphal growth direction and intensity. When minerals containing
@@ -88,3 +62,88 @@ altering water movement and gas exchange in soil.
 AM fungal hyphae can access phosphorus from slightly soluble mineral sources
 including rock phosphate and apatite. The mechanism involves both organic
 acid production and phosphatase enzyme secretion at the hyphal tip. Although
+
+## Overview
+
+Mycorrhizal Mineral Weathering Nutrient Acquisition represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish mycorrhizal mineral weathering nutrient acquisition
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving mycorrhizal extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Mycorrhizal Mineral Weathering Nutrient Acquisition finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for mycorrhizal mineral weathering nutrient acquisition. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+mycorrhizal mineral weathering nutrient acquisition and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Mycorrhizal Mineral Weathering Nutrient Acquisition has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of mycorrhizal mineral weathering nutrient acquisition into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[dighton-leaf-litter-patch-effects-mycorrhizal-community]]
+- [[endobacteria-arbuscular-mycorrhizal-fungi]]
+- [[fukuoka-sowing-pine-forest-collapse-and-mycorrhizal-cascade]]
+- [[mycorrhizal-fungi-biome-surveys]]
+- [[stamets-mycorrhizal-mushrooms-forest-ecology-cultivation-challenges]]

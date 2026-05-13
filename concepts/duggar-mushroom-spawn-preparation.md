@@ -26,13 +26,7 @@ From the earliest records regarding mushroom culture, the grower depended upon a
 
 ## The Chance Method
 
-The maker of spawn whose source was the pasture proceeded by finding a [[brassinosteroid-natural-occurrence-plant-kingdoms]] of mushrooms in a favorable locality, removing the sod, preparing small trenches filled with good quality stable manure, and returning the sod. Into the manure of these trenches the spawn would grow and spread vigorously in an interval of some weeks. This material was then available for spawn-making or mushroom growing.
-
-Virgin spawn was used either: (1) directly to inoculate the mushroom beds, or (2) more frequently to spawn compost intended to yield a large amount of crop spawn. Experience shows that continuous transfer of spawn from bed to bed results in a complete "running-out" or deterioration of the spawn if persisted in for about three years. No transfer should be made from a bed which has begun to bear mushrooms vigorously.
-
-## The Tissue Culture Method (Pure Culture)
-
-The writer ascertained that fragments of [[falconer-growing-mushrooms-in-sheds]], obtained under aseptic conditions, may be made the starting point for pure cultures of spawn. A small piece of the inner tissue of a fresh mushroom will, when placed on any suitable sterile nutrient medium, promptly develop a mycelium, thus yielding a culture of the spawn. This method was originated by the writer while at the Bureau of Plant Industry, U.S. Department of Agriculture, in 1902.
+The maker of spawn whose source was the pasture proceeded by finding a [[falconer-growing-mushrooms-in-sheds]], obtained under aseptic conditions, may be made the starting point for pure cultures of spawn. A small piece of the inner tissue of a fresh mushroom will, when placed on any suitable sterile nutrient medium, promptly develop a mycelium, thus yielding a culture of the spawn. This method was originated by the writer while at the Bureau of Plant Industry, U.S. Department of Agriculture, in 1902.
 
 ### Making Pure Cultures
 
@@ -60,9 +54,7 @@ Hand moulds may be made of iron or a strong oak frame lined with steel plates. T
 2. The compost may be used in a moist but not puddled condition, compressed into the brick with some force using a mallet.
 
 ### Inoculation, Growth and Drying
-Two [[spawn-production]]
-
-Modern commercial spawn production has advanced considerably since Duggar's era, though many of his fundamental principles remain valid. Today's spawn laboratories use laminar flow hoods and [[cultivator-sterile-technique-and-agar-culture]] borrowed from medical microbiology to maintain aseptic conditions during inoculation. The most common spawn substrates include sterilized grain (rye, millet, or wheat), [[oyster-mushroom-supplemented-sawdust-blocks]], and specialized plug spawn for log inoculation. Grain spawn remains the standard for most cultivation due to its high surface area and rapid colonization rates. Pure [[agar-culture-techniques-detailed]] developed from Duggar's tissue culture method are now used universally, with genetic selection allowing strain improvement for yield, disease resistance, and fruiting characteristics.
+Two [[cultivator-sterile-technique-and-agar-culture]] borrowed from medical microbiology to maintain aseptic conditions during inoculation. The most common spawn substrates include sterilized grain (rye, millet, or wheat), [[agar-culture-techniques-detailed]] developed from Duggar's tissue culture method are now used universally, with genetic selection allowing strain improvement for yield, disease resistance, and fruiting characteristics.
 
 ## Storage Conditions and Shelf Life
 
@@ -74,9 +66,8 @@ Before committing to large-scale cultivation, growers should test spawn viabilit
 
 ## Duggar's Specific Spawn Recommendations
 
-Duggar recommended different spawn types for different mushroom species and growing conditions. For the common mushroom (*[[pleurotus-ostreatus]]*), Duggar noted that sawdust spawn worked well and could be prepared by the grower from locally available hardwood sawdust. For shiitake (*[[duggar-mushroom-spawn-preparation-techniques]] Concepts
+Duggar recommended different spawn types for different mushroom species and growing conditions. For the common mushroom (*[[duggar-mushroom-spawn-preparation-techniques]] Concepts
 
-- [[substrate-preparation-mushroom-growing]] - Preparing the compost beds
 - [[duggar-mushroom-common-varieties]] - Varieties suited to different spawn types
 
 ## Practical Applications
@@ -93,29 +84,8 @@ When applying these concepts, consider regional variations, available resources,
 
 ## See Also
 
-- [[duggar-mushroom-spawn-preparation-techniques]]
 - [[oyster-mushroom-spawn-preparation]]
-- [[mushroom-spawn-preparation]]
 - [[mushroom-spawn-history-and-methods-duggar]]
-- [[mushroom-spawn-grain-preparation-inoculation]]
-
-## Historical Context
-
-The historical development of this subject reflects centuries of accumulated
-knowledge and practical experience. From traditional methods passed down
-through generations to modern scientific approaches, the evolution continues
-to inform current best practices and research directions.
-
-## Common Challenges
-
-Practitioners frequently encounter several challenges when working with
-these concepts. Climate variability, resource limitations, and knowledge
-gaps can all affect outcomes. Addressing these challenges requires patience,
-observation, and a willingness to adapt approaches based on results.
-
-## See Also
 - [[mushroom-spawn-preparation]]
-- [[spawn-preparation]]
 - [[mushroom-cultivation]]
-- [[substrate-preparation]]
 - [[spawn-production]]

@@ -1,7 +1,7 @@
 ---
 title: "Fukuoka's Bread-Dough Analogy: How Plowing Destroys Soil Structure"
 source: administrator-microsoft-word-fukuoka-textdoc.md
-author: [[masanobu-fukuoka]]
+author: masanobu-fukuoka
 topics: [soil-science, tillage, natural-farming, soil-compaction]
 ---
 
@@ -78,36 +78,13 @@ Fukuoka connected this directly to global desertification.
 Fourth, the soil microbiome is severely disrupted.
 Fukuoka counted 100 million nitrogen-fixing bacteria per gram on his
 farm.
-Tillage severs [[mycelial-networks-and-intelligence]] exposes microorganisms to lethal
-desiccation.
-
-Fifth, tillage initiates a dependency spiral.
-Depleted soil requires fertilizer, which disrupts ecosystems further,
-creating [[hamilton-pest-and-disease-control-organic]] problems requiring still more intervention.
+Tillage severs [[hamilton-pest-and-disease-control-organic]] problems requiring still more intervention.
 Each fix begets the need for the next.
 
 ## The No-Tillage Rice-Barley Succession
 
 Fukuoka proved productive agriculture possible without tillage.
-His "direct-seeded, no-tillage, winter grain/rice [[direct-seeded-no-tillage-rice-barley-succession-in-clover]]
-cover" produced 22 bushels per quarter-acre consistently.
-
-The procedure: broadcast clover and winter grain over ripening rice;
-harvest rice while treading on young grain shoots; scatter rice straw
-as mulch; form clay pellets with seed rice and scatter before New Year;
-flood briefly in late May to suppress clover; harvest winter grain and
-scatter its straw; leave the field until rice harvest.
-
-Straw mulch protected soil from rain and sun, retained moisture,
-suppressed weeds, and fed soil microbes as it decomposed.
-Clover fixed nitrogen, prevented erosion, and outcompeted weeds.
-Plant roots themselves — not tools — cultivated the soil through
-persistent channel networks.
-
-## Philosophical Foundation
-
-For Fukuoka, the bread-dough analogy was a philosophical statement.
-Plowing represented the archetypal error [[critique-of-scientific-agriculture]]:
+His "direct-seeded, no-tillage, winter grain/rice [[critique-of-scientific-agriculture]]:
 the belief that nature requires human improvement.
 His principle: human knowledge applied to nature almost invariably
 makes things worse.
@@ -118,14 +95,6 @@ humility before natural complexity.
 
 ## Modern Relevance
 
-Fukuoka's critique anticipated [[no-till-farming-principles]] by decades.
-Research confirms no-till farming reduces erosion 60-90%, improves water
-infiltration 200-400%, and substantially reduces costs — validating his
-argument that less soil disturbance means better performance.
-
-## See Also
-
-- [[fukuoka-why-tillage-destroys-soil]]
-- [[fukuoka-straw-mulch-system]]
+Fukuoka's critique anticipated [[fukuoka-why-tillage-destroys-soil]]
 - [[fukuoka-clover-rice-barley-succession]]
 - [[fukuoka-living-soil]]

@@ -16,16 +16,11 @@ Echinacea is celebrated as an immune stimulant taken at the first sign of
 illness, while yarrow is a versatile first-aid herb known for wound care,
 fever reduction, and digestive support. Both belong to the Asteraceae
 family and share overlapping pollinator-attracting qualities in the
-garden, making them natural companions in [[query-how-do-i-build-a-medicinal-herb-drying-rack-and-optimize-drying-conditions]] garden.
-Understanding their distinct strengths helps herbalists and gardeners
-[[query-how-do-i-choose-the-right-cannabis-strain-for-my-grow]] plant for each situation.
+garden, making them natural companions in [[query-how-do-i-choose-the-right-cannabis-strain-for-my-grow]] plant for each situation.
 
 ## Echinacea
 
-[[echinacea-purpurea]]
-
-Echinacea, commonly called purple coneflower, is native to the prairies
-and open woodlands of central and [[polypore-fungi-eastern-north-america]] America. Three species
+[[polypore-fungi-eastern-north-america]] America. Three species
 are used medicinally: E. purpurea (most widely cultivated), E.
 angustifolia (considered most potent by many herbalists), and E. pallida.
 The plant produces distinctive spiny central cones surrounded by pink-
@@ -44,11 +39,7 @@ alkylamide compounds.
 Echinacea is best used in short, intensive courses of 5 to 10 days at
 high frequency rather than as a daily preventative. Long-term continuous
 use may diminish its effectiveness. It is generally considered safe,
-though people with [[cannabis-autoimmune-conditions-detailed]] should exercise caution.
-
-## Yarrow
-
-[[yarrow-achillea-millefolium]]
+though people with [[yarrow-achillea-millefolium]]
 
 Yarrow (Achillea millefolium) is a rhizomatous perennial native to
 temperate regions of Europe, Asia, and North America. Its finely
@@ -85,31 +76,7 @@ other plants struggle.
 | Growth habit | Upright clump, 2-4 ft tall | Spreading rhizomes, 1-3 ft tall |
 | Soil preference | Well-drained, moderately fertile | Tolerates poor, dry, compacted soils |
 | Companion value | Pollinator attractor | Pollinator attractor and pest predator |
-| [[dighton-fungal-drought-tolerance-plant-water-relations]] | High once established | Extremely high |
-| Propagation | Seed (stratification needed), division | Seed, division, rhizome cuttings |
-| Safety note | Caution with autoimmune conditions | Avoid during pregnancy |
-
-## When to Choose Echinacea
-
-Echinacea is the go-to herb when immune support is the priority. Keep a
-tincture on hand for the first scratchy throat or body ache that signals
-an approaching cold or flu. The most effective strategy is high-frequency
-dosing (every 2-3 hours) beginning within 24 hours of symptom onset and
-continuing for 5 to 10 days. Echinacea also has topical applications for
-wounds, insect bites, and skin infections, though its systemic immune
-effects are better documented. Choose E. angustifolia root tincture for
-maximum potency, or E. purpurea for easier cultivation and broader
-availability of aerial parts.
-
-## When to Choose Yarrow
-
-Yarrow is the better choice for everyday first aid and multi-system
-support. Its hemostatic properties make it indispensable for stopping
-bleeding from cuts, scrapes, and nosebleeds in the field. For fevers,
-yarrow tea (often combined with elderflower and peppermint) promotes
-sweating and helps break a fever naturally. Its bitter digestive action
-relieves gas, bloating, and menstrual cramping. Yarrow is also the
-clear winner for permaculture and [[comparison-companion-planting-reference-vs-jadam-monoculture-critique]] applications,
+| [[comparison-companion-planting-reference-vs-jadam-monoculture-critique]] applications,
 offering pest-control services and nutrient accumulation that echinacea
 does not provide. Its extreme drought tolerance makes it a reliable
 garden resident even in challenging conditions.
@@ -127,7 +94,5 @@ attracts predatory insects and accumulates soil nutrients.
 
 ## See Also
 
-- [[comparison-arnica-vs-calendula]]
 - [[comparison-elderberry-vs-echinacea]]
-- [[comparison-stinging-nettle-vs-yarrow]]
 - [[comparison-calendula-vs-chamomile]]

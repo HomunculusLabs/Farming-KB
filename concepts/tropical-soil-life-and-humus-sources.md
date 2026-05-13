@@ -6,7 +6,7 @@ type: concept
 
 # Tropical Soil Life and Humus Sources
 
-[[soil-life]]—particularly termites and ants—plays a foundational role in tropical ecosystem development, while a diverse array of organic materials provides [[humus]] for building and maintaining tropical soils. Both topics are explored in depth in Chapter 10 of *Permaculture: A Designers' Manual*.
+[[humus]] for building and maintaining tropical soils. Both topics are explored in depth in Chapter 10 of *[[permaculture]]: A Designers' Manual*.
 
 ## Termites and Ants as Ecosystem Engineers
 
@@ -96,6 +96,5 @@ The overarching principle is that tropical soil fertility depends on continuous 
 
 ## See Also
 
-- [[soil-microbiology-basics]]
 - [[green-manure]]
 - [[mulching-guide]]

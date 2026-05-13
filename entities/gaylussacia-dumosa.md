@@ -53,9 +53,9 @@ The species is strongly associated with sandy, acidic soils in open to semi-open
 
 Elevation ranges from sea level to approximately 900 meters in the southern Appalachians. It is most abundant in the Coastal Plain, where it frequently dominates the low-shrub layer of fire-maintained pine ecosystems.
 
-Soil pH preference is strongly acidic (3.5–5.0), with optimal growth in sandy, well-drained to moderately moist substrates. The species tolerates drought conditions better than most *Vaccinium* species due to its leathery, xeromorphic foliage.
+[[soil-ph]] preference is strongly acidic (3.5–5.0), with optimal growth in sandy, well-drained to moderately moist substrates. The species tolerates drought conditions better than most *Vaccinium* species due to its leathery, xeromorphic foliage.
 
-Soil organic matter content is typically low (1–3%) in the sandy habitats where *G. dumosa* excels. The species' [[dighton-ericoid-mycorrhizal-nutrient-acquisition]] associations compensate for low [[ph-and-nutrient-availability-garden-soils]] by enhancing uptake of nitrogen and phosphorus from organic matter decomposition.
+Soil organic matter content is typically low (1–3%) in the sandy habitats where *G. dumosa* excels. The species' [[ph-and-nutrient-availability-garden-soils]] by enhancing uptake of nitrogen and phosphorus from organic matter decomposition.
 
 ## Ecology
 
@@ -65,13 +65,13 @@ Birds consume the berries and disperse the bony nutlets. The resinous foliage pr
 
 The rhizomatous growth habit enables *G. dumosa* to colonize disturbed sandy sites rapidly after fire or mechanical disturbance. Prescribed burning in pine barrens stimulates vigorous resprouting and can increase stem density.
 
-In longleaf pine (*Pinus palustris*) savannas, *G. dumosa* is a characteristic member of the shrub layer, occurring alongside *Vaccinium* spp., *Ilex glabra*, *Lyonia lucida*, and *Zenobia pulverulenta*.
+In longleaf pine (*[[pinus-palustris]]*) savannas, *G. dumosa* is a characteristic member of the shrub layer, occurring alongside *Vaccinium* spp., *Ilex glabra*, *Lyonia lucida*, and *Zenobia pulverulenta*.
 
 The species serves as a larval host for several moths in the Gelechiidae and Noctuidae families, though specific associations remain poorly documented. The resinous foliage likely provides some chemical defense against generalist herbivores.
 
 The evergreen foliage provides year-round cover for ground-dwelling wildlife, including amphibians, reptiles, and small mammals. The dense low canopy creates favorable microhabitats with higher humidity and moderated temperatures.
 
-[[mycorrhizal-fungi-soil-carbon-sequestration-by-type]] studies in Coastal Plain pine ecosystems have shown that the *Gaylussacia*-dominated shrub layer contributes measurably to belowground [[holmgren-soil-humus-carbon-storage-rebuilding]] through persistent rhizome biomass and slow-decomposing leaf litter.
+[[holmgren-soil-humus-carbon-storage-rebuilding]] through persistent rhizome biomass and slow-decomposing leaf litter.
 
 ## Edibility and Uses
 

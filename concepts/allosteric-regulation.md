@@ -62,15 +62,9 @@ The morpheein model adds another possibility: proteins can dissociate, change sh
 
 Allosteric regulation is a central mechanism of metabolic feedback control. A pathway end product may inhibit the first committed enzyme, preventing wasteful accumulation when the product is abundant.
 
-Adenine nucleotides often report and [[adenosine-triphosphate-and-cellular-energy]] state: ATP signals energy sufficiency, while AMP or ADP signals energy stress. Phosphofructokinase in glycolysis integrates ATP, AMP, citrate, and fructose-2,6-bisphosphate to tune [[fungal-respiration-carbon-flux]].
+Adenine nucleotides often report and [[fungal-respiration-carbon-flux]].
 
-Aspartate transcarbamoylase integrates pyrimidine demand through allosteric effects of CTP and ATP. These examples show why allostery is not a decorative property but a core [[design-principle-integration]] of biochemical networks.
-
-It lets one enzyme serve as a computational node that weighs substrate availability, energy status, and downstream demand.
-
-## Receptors and Pharmacology
-
-In [[serotonin]] 5ht2a, allosteric modulators bind outside the endogenous ligand site and modify receptor response. A positive allosteric modulator increases the potency, affinity, efficacy, or signaling duration of an endogenous agonist.
+Aspartate transcarbamoylase integrates pyrimidine demand through allosteric effects of CTP and ATP. These examples show why allostery is not a decorative property but a core [[serotonin]] 5ht2a, allosteric modulators bind outside the endogenous ligand site and modify receptor response. A positive allosteric modulator increases the potency, affinity, efficacy, or signaling duration of an endogenous agonist.
 
 A negative allosteric modulator decreases response without necessarily displacing the endogenous ligand. A silent allosteric modulator occupies an allosteric site but has little direct effect until it blocks another modulator.
 
@@ -117,8 +111,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[dom]]
 - [[serotonin]]
-- [[blesching-cannabis-fever-temperature-regulation]]
 - [[anandamide-emotional-regulation-blesching]]
 - [[fukuoka-textdoc-soil-self-regulation-failure-lime-correction]]

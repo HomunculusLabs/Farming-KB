@@ -1,7 +1,7 @@
 ---
 title: Microwave vs Traditional Sterilization
 wikitarget: microwave-vs-traditional-sterilization
-aliases: [[methods-of-surface-sterilization-comparison]], [[comparison-of-surface-sterilization-methods]], decontamination methods]
+aliases: comparison-of-surface-sterilization-methods, decontamination methods]
 created: 2026-05-11
 source: sterilizing-surfaces-by-irradiation-with-microwaves.md
 tags: [sterilization, microwaves, autoclave, UV, gamma-irradiation, comparison]
@@ -15,7 +15,7 @@ laboratory science, food processing, and aerospace applications. Multiple
 methods exist, each with distinct advantages and limitations. Microwave
 sterilization, developed through NASA research (MSC-22484), offers a novel
 alternative that addresses several shortcomings of traditional approaches,
-particularly for surface sterilization of complex or thermally sensitive
+particularly for [[challenge-microorganisms-microwave-surface-sterilization]] of complex or thermally sensitive
 systems.
 
 ## Traditional Sterilization Methods
@@ -48,7 +48,7 @@ systems. High capital and operating costs.
 ### Ultraviolet (UV) Irradiation
 UV-C light (254 nm) damages microbial DNA, preventing replication.
 
-**Advantages**: No heat generation, no chemical residues, relatively
+**Advantages**: No heat generation, no [[ingham-manure-antibiotics-chemical-residues-composting]], relatively
 inexpensive equipment, rapid treatment
 
 **Limitations**: Very limited penetration — only sterilizes directly exposed
@@ -60,12 +60,9 @@ prolonged exposure. Requires line-of-sight access to all surfaces.
 Various chemicals used for surface sterilization:
 
 - **Ethylene oxide (EtO)**: Gas sterilant effective at low temperatures
-- **Alcohols** (ethanol, isopropanol): Rapid vegetative cell kill
+- **Alcohols** (ethanol, isopropanol): Rapid [[spore-vs-vegetative-cell-resistance-microwave-sterilization]] kill
 - **Quaternary amines**: General surface disinfectants
-- **[[cervantes-hydrogen-peroxide-sterilization]]**: Oxidizing agent (liquid, vapor, or plasma)
-- **Elemental iodine**: Broad-spectrum antiseptic
-
-**Advantages**: Reach [[surface-sterilization-methods-comparison-complex-geometries-thermal-chemical-residue]] (especially gases), some work at
+- **[[surface-sterilization-methods-comparison-complex-geometries-thermal-chemical-residue]] (especially gases), some work at
 room temperature, well-characterized efficacy
 
 **Limitations**: Chemical residues contaminate sensitive systems. EtO is
@@ -78,11 +75,10 @@ compatibility must be verified. Some organisms show resistance.
 
 1. **Minimal thermal impact**: Unlike autoclaving, microwave sterilization
    adds minimal energy to the system. The small amount of water used
-   (9 μL/cm²) flashes locally to steam, producing microbial kill without
+   (9 μL/cm²) flashes locally to steam, producing [[microbial-kill-curve-microwave-exposure-dose-response]] without
    significantly heating the surrounding material
 
 2. **Penetration through non-metallic materials**: Microwaves can penetrate
-   [[microwave-penetration-elastomeric-materials]] and other dielectric substances, enabling
    [[microwave-sterilization-of-enclosed-systems]] systems and complex geometries that cannot be
    reached by UV light or disassembled for autoclaving
 
@@ -122,7 +118,7 @@ compatibility must be verified. Some organisms show resistance.
 ## Applications Where Microwave Excels
 
 The NASA development was motivated by the need to sterilize mating surfaces
-of biologically sensitive systems (Environmental Control and Life Support
+of biologically sensitive systems ([[chen-maitake-growth-parameters-environmental-control]] and [[eclss-environmental-control-life-support]]
 Systems — ECLSS) without thermal damage or chemical contamination. Other
 potential applications include:
 
@@ -136,7 +132,6 @@ potential applications include:
 
 ## See Also
 
-- [[microwave-surface-sterilization]]
 - [[microwave-sterilizable-access-port]]
 
 ## References

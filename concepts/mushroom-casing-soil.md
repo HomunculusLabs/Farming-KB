@@ -15,19 +15,8 @@ fruiting. The casing layer serves as a water reservoir, maintains high
 humidity at the substrate surface, and provides the physical and chemical
 cues that trigger the transition from vegetative mycelial growth to
 reproductive fruit body formation. Proper casing preparation and management
-is one of the most important skills [[contamination-prevention-in-mushroom-cultivation]].
-
-## Purpose and Function
-
-The casing layer serves several critical functions:
-
-1. **Water reservoir**: Holds moisture that slowly releases to developing
-   mushrooms and the underlying mycelium, maintaining consistent hydration
-   without waterlogging the substrate
-2. **Humidity maintenance**: The moist casing surface creates a high-humidity
-   microclimate essential for pin formation ([[chen-maitake-primordia-initiation-fruiting]])
-3. **[[holzer-climate-zone-microclimate-creation]]**: Temperature gradients between the substrate and
-   casing surface, combined with [[bloomfield-mushroom-evaporative-cooling-and-thermal-regulation]], create conditions that
+is one of the most important skills [[chen-maitake-primordia-initiation-fruiting]])
+3. **[[bloomfield-mushroom-evaporative-cooling-and-thermal-regulation]], create conditions that
    trigger fruiting
 4. **Physical support**: Provides a surface for pin formation and structural
    support for developing mushrooms
@@ -50,10 +39,7 @@ The GUID cultivation method uses the following recipe:
 
 - **10 parts peat**: The primary component; provides water retention and
   structure. Peat moss (Sphagnum) is preferred for its excellent water-
-  [[pf-tek-vermiculite-type-comparison-water-holding-capacity]] and slightly acidic pH
-- **5 parts vermiculite**: Expanded mica that improves aeration, drainage,
-  and water retention. Prevents the casing from compacting
-- **2 parts limestone (marl)**: [[peat-calcium-carbonate-perlite-casing-psilocybe-cubensis-miniculture]] buffer that adjusts and
+  [[peat-calcium-carbonate-perlite-casing-psilocybe-cubensis-miniculture]] buffer that adjusts and
   stabilizes pH. Most mushrooms prefer a slightly alkaline casing (pH 7-7.5)
   even when the substrate itself is slightly acidic
 
@@ -136,7 +122,6 @@ Casing moisture is critical throughout the fruiting cycle:
 
 ## See Also
 
-- [[grass-seed-substrate]]
 - [[mushroom-fruiting-chambers]]
 - [[sclerotia-formation]]
 

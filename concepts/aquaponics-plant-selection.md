@@ -50,10 +50,10 @@ The fish stocking density determines [[ph-and-nutrient-availability-garden-soils
 -  **Medium nutrient systems** (3-5 kg fish per 1000L): Leafy greens plus peppers, cucumbers, beans, peas.
 -  **High nutrient systems** (5+ kg fish per 1000L): Tomatoes, fruiting vegetables, heavy feeders. Requires tilapia or catfish at higher stocking densities.
 
-Most nutrients are provided by fish waste converted through [[query-how-does-the-nitrogen-cycle-work-in-a-garden]]. However, aquaponics systems commonly run low in:
+Most nutrients are provided by fish waste converted through the nitrogen cycle. However, aquaponics systems commonly run low in:
 
 -  **Potassium** — Deficiency shows as yellowing leaf edges and poor fruit set. Supplement with potassium hydroxide (also raises pH) or kelp extract.
--  **Calcium** — Blossom end rot in tomatoes indicates [[knf-calcium-deficiency-symptoms]]. Add calcium hydroxide or calcium carbonate.
+-  **Calcium** — Blossom end rot in tomatoes indicates [[knf-calcium-deficiency-symptoms]]. Add calcium hydroxide or [[peat-calcium-carbonate-perlite-casing-psilocybe-cubensis-miniculture]].
 -  **Iron** — Yellowing between leaf veins (interveinal chlorosis) indicates iron deficiency. Chelated iron (DTPA or EDTA) at 2-5 mg/L is the standard supplement.
 -  **Phosphorus** — Usually adequate from fish feed, but can be low in heavily planted systems. Rock phosphate is not soluble enough for direct application; use phosphoric acid (also lowers pH) if needed.
 
@@ -87,48 +87,13 @@ Most nutrients are provided by fish waste converted through [[query-how-does-the
 
 ## Common Problems
 
--  **[[cannabis-grow-nutrient-deficiency-problem-solving]]** — Yellowing leaves, stunted growth, poor fruit set. Test water for iron, potassium, and calcium first. Supplement as needed.
--  **Pythium (root rot)** — Brown, slimy roots in warm water. Improve aeration, lower water temperature if possible, and ensure adequate biological filtration. Beneficial bacteria in healthy systems suppress pythium.
--  **Pest insects** — Aphids, whiteflies, and spider mites can move in quickly. Use neem oil, insecticidal soap, or introduce [[hamilton-beneficial-insects-and-biological-pest-control]] (ladybugs, lacewings).
+-  **Nutrient deficiency** — Yellowing leaves, stunted growth, poor fruit set. Test water for iron, potassium, and calcium first. Supplement as needed.
+-  **Pythium (root rot)** — Brown, slimy roots in warm water. Improve aeration, lower water temperature if possible, and ensure adequate biological filtration. [[ingham-aact-beauveria-fruit-fly-beneficial-bacteria-inoculant]] in healthy systems suppress pythium.
+-  **Pest insects** — Aphids, whiteflies, and spider mites can move in quickly. Use neem oil, insecticidal soap, or introduce [[beneficial-insects-and-biological-pest-control]] (ladybugs, lacewings).
 -  **pH drift** — Nitrification produces acid, lowering pH over time. Monitor weekly and adjust with potassium carbonate or calcium carbonate as needed.
 
 ## Seasonal Planning
 
 In outdoor aquaponics, plant selection should follow seasonal temperature patterns. Pair cool-loving plants (lettuce, kale, spinach) with cold-water fish (trout) in cooler months. Switch to warm-loving plants (tomatoes, basil, peppers) with warm-water fish (tilapia) in summer. This seasonal rotation maximizes year-round production.
 
-See [[aquaponics-fish-species]] for matching fish to your climate and plant goals. Water management from [[rainwater-harvesting-systems]] can supplement system top-off water during dry periods. For [[jeavons-natural-pest-control]] in outdoor aquaponics, [[black-soldier-fly-composting]] systems can attract beneficial insects to the growing area.
-
-## Practical Applications
-
-The principles and techniques discussed here have wide-ranging applications
-across multiple disciplines and contexts. Practitioners and researchers
-continue to explore new ways to integrate these concepts into modern practice,
-adapting traditional knowledge to contemporary challenges and opportunities.
-
-## Key Considerations
-
-Several important factors influence the effectiveness and outcomes described
-in this topic. Understanding these considerations helps practitioners make
-informed decisions and avoid common pitfalls. Environmental conditions,
-timing, and material selection all play critical roles.
-
-## Historical Context
-
-The historical development of this subject reflects centuries of accumulated
-knowledge and practical experience. From traditional methods passed down
-through generations to modern scientific approaches, the evolution continues
-to inform current best practices and research directions.
-
-## Common Challenges
-
-Practitioners frequently encounter several challenges when working with
-these concepts. Climate variability, resource limitations, and knowledge
-gaps can all affect outcomes. Addressing these challenges requires patience,
-observation, and a willingness to adapt approaches based on results.
-
-## See Also
-- [[aquaponics]]
-- [[det]]
-- [[composting]]
-- [[seasonal-planning]]
-- [[neem]]
+See [[aquaponics-fish-species]] for matching fish to your climate and plant goals. Water management from [[rainwater-harvesting-systems]] can supplement system top-off water during dry periods. For [[botanical-pesticides-and-natural-pest-control]] in outdoor aquaponics, [[black-soldier-fly-composting]] systems can attract beneficial insects to the growing area.

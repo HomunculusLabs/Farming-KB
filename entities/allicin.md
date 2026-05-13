@@ -30,9 +30,7 @@ sources:
 # Allicin
 
 Allicin (diallyl thiosulfinate) is an organosulfur compound responsible for the characteristic pungent aroma
-and many of the bioactive properties of freshly crushed garlic (*[[bacillus-subtilis]]*, MRSA at
-  MIC values of 8–32 µg/mL), Gram-negative bacteria (*Escherichia coli*, *Pseudomonas aeruginosa*,
-  *Helicobacter pylori*), fungi (*[[cryptococcus-neoformans]]*), and parasites
+and many of the bioactive properties of freshly crushed garlic (*[[cryptococcus-neoformans]]*), and parasites
   (*Giardia lamblia*, *Entamoeba histolytica*)
 - Demonstrates synergistic antimicrobial effects with conventional antibiotics, partially reversing
   methicillin resistance in MRSA by disrupting efflux pump function
@@ -58,7 +56,7 @@ and many of the bioactive properties of freshly crushed garlic (*[[bacillus-subt
 - Stimulates macrophage activity, NK cell cytotoxicity, and T-lymphocyte proliferation
 - Low concentrations stimulate pro-inflammatory cytokines (TNF-α, IL-1β) while higher doses suppress
   excessive inflammation via NF-κB modulation
-- Aged [[ginger-garlic-extract-bionutrient]] reduced cold/flu incidence by 58–63% in [[mushroom-cancer-clinical-trials-overview]]
+- Aged [[mushroom-cancer-clinical-trials-overview]]
 
 ## Pharmacokinetics
 
@@ -81,10 +79,6 @@ approximately 4–10 hours depending on the metabolite.
 ## Agricultural and Permaculture Applications
 
 Garlic serves as a multifunctional companion plant in permaculture and organic agriculture:
-- **[[foliar-pest-deterrence-aact-mechanisms]]:** [[query-how-to-make-and-use-plant-based-foliar-sprays-for-pest-and-disease-prevention]] repel aphids, cabbage loopers, [[cervantes-spider-mites-identification-control]], and Japanese beetles;
-  effective as broad-spectrum insecticide at 1–2% extract concentrations
-- **Fungicidal properties:** Soil drenches suppress Fusarium, Pythium, and Rhizoctonia; [[jadam-seed-treatment-and-nursery-management]]
+- **[[query-how-to-make-and-use-plant-based-foliar-sprays-for-pest-and-disease-prevention]] repel aphids, cabbage loopers, [[jadam-seed-treatment-and-nursery-management]]
   reduces damping-off by 40–60%
-- **[[candida-albicans]]
-
-- [[curcumin]] — polyphenol with overlapping anti-inflammatory and cardiovascular mechanisms
+- **[[curcumin]] — polyphenol with overlapping anti-inflammatory and cardiovascular mechanisms

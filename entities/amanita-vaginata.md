@@ -29,16 +29,9 @@ sources:
 
 *Amanita vaginata* (Bull.) Lam. is an edible basidiomycete mushroom commonly
 known as the grisette. It belongs to *Amanita* section *Vaginatae* and is
-widely distributed across temperate and [[fungal-diversity-boreal-forests-taiga]] of the Northern
-Hemisphere.
-
-The species is recognized by its smooth gray-to-brown cap, lack of a volva at
-the base, presence of a fragile skirt-like annulus, and white [[boil-a-bag-spore-print-technique-jarrold]].
+widely distributed across temperate and [[boil-a-bag-spore-print-technique-jarrold]].
 Unlike many *Amanita* species, *A. vaginata* lacks both a universal veil and
-a [[partial-veil-tropism-protection-before-spore-release]] that leaves a persistent ring on the stipe in most specimens.
-
-It is one of the more commonly collected edible *Amanita* species in Europe
-and [[guzman-psilocybin-mushrooms-north-america]], though foragers must exercise caution to distinguish it
+a [[guzman-psilocybin-mushrooms-north-america]], though foragers must exercise caution to distinguish it
 from toxic lookalikes in the *Amanita* genus.
 
 ## Taxonomy and Classification

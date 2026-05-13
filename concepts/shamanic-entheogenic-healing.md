@@ -1,9 +1,7 @@
 # Shamanic Entheogenic Healing
 
 ## Overview
-[[metzner-shamanic-healing-and-divination-paradigm]] with entheogenic plants represents one of the oldest
-continuous traditions of psychoactive substance use in human history,
-predating written records by millennia. [[michael-harner]] called "nonordinary reality" as a domain of genuine
+[[michael-harner]] called "nonordinary reality" as a domain of genuine
 experience with its own ecology of beings, relationships, and knowledge
 systems. The plants are understood to have agency and communicative intent.
 
@@ -26,8 +24,7 @@ psychotherapy sessions:
 2. **Essential role of singing**: The shaman's singing with rapid rhythmic
    beat provides psychic support for moving through visions and prevents
    entrapment in frightening or seductive experiences.
-3. **Darkness or [[darkness-low-light-facilitation-entheogenic-ceremonies]]**: Facilitates emergence of visions, with the
-   [[ayahuasca-churches-syncretic-ceremonies]]
+3. **Darkness or [[ayahuasca-churches-syncretic-ceremonies]]
 - [[hallucinogenic-drugs]] and Plants in Psychotherapy and
   Shamanism. *Journal of Psychoactive Drugs*, 30(4), 333–341.
 - Harner, M. (1980). *The Way of the Shaman*. Harper & Row.

@@ -78,52 +78,24 @@ than the fungi. This capability evolved over hundreds of millions of years to
 solve a fundamental ecological problem: how to decompose the tough, recalcitrant
 polymers that make up plant cell walls. Lignin, cellulose, hemicellulose,
 pectin, chitin, and keratin all succumb to fungal enzyme systems. The same
-biochemical machinery that drives [[dighton-fungi-elevated-co2-global-carbon-cycling]] cycling in forests also powers a
-multibillion-dollar industrial sector encompassing biofuels, food processing,
-textiles, detergents, pharmaceuticals, and environmental remediation.
-
-The industrial exploitation of fungal enzymes dates back to ancient fermentation
-practices, but the science began in earnest in the late [[mckenna-club-des-hachischins-and-nineteenth-century-literary-hashish]]. In
+biochemical machinery that drives [[mckenna-club-des-hachischins-and-nineteenth-century-literary-hashish]]. In
 1891, Takamine Jokichi isolated takadiastase, an amylase from *Aspergillus
 oryzae*, launching the modern enzyme industry. The discovery of penicillin from
 *Penicillium* in 1928 demonstrated that fungi could produce not only enzymes
-but also enzyme-derived [[antifungal-secondary-metabolites-coprophilous-fungi]] of enormous medicinal value. By
-the 1940s, fungal cellulases were being investigated for biomass conversion.
-Today, fungal enzymes account for a substantial majority of all industrial
-enzyme sales worldwide.
-## See Also
-
-- [[fungal-enzyme-systems]]
+but also enzyme-derived [[fungal-enzyme-systems]]
 - fungal-enzyme-kinetics
-- [[fungal-enzyme-induction-and-regulation]]
-- fungal-enzyme-systems-and-nutrient-cycling
-- fungal-enzyme-systems-in-bioremediation
 - [[fungal-enzyme-systems-xenobiotic-degradation]]
-- [[fungal-enzyme-wood-decay]]
-- fungal-enzymes-degradation
 - [[fungal-enzymes-in-decomposition]]
-- [[fungal-enzymes-in-environmental-bioremediation]]
-- cellulase-enzyme-systems-in-fungi
 - [[cellulase-enzyme-systems-wood-rotting-fungi]]
-- [[laccase-catalyzed-degradation]]
 - [[laccase-mediator-system-dye]]
-- [[hemicellulase-enzyme-systems]]
 - [[lignin-degradation]]
 - lignin-degradation-mechanisms-wood-rot-fungi
 - brown-rot-fungi-biodegradation
-- [[brown-rot-white-rot-fungi-remediation]]
 - [[white-rot-fungi-bioremediation]]
 - white-rot-fungi-effluent-decolorization
-- [[mycoremediation-enzymology]]
 - [[enzymatic-degradation-in-mycoremediation]]
-- [[bloomfield-fungal-secondary-metabolites]]
 - [[fungal-secondary-metabolites-environment]]
-- [[biofertilizers-and-soil-inoculants]]
-
-## References
-
-1. Martinez, D., et al. (2004). Genome sequence of the lignocellulose
-   degrading fungus *[[staycare-phanerochaete-chrysosporium-in-bioremediation]]* strain RP78. Nature
+- [[staycare-phanerochaete-chrysosporium-in-bioremediation]]* strain RP78. Nature
    Biotechnology, 22(6), 695-700.
 2. Kubicek, C.P., et al. (2009). Metabolic engineering strategies for the
    improvement of cellulase production by *Hypocrea jecorina*. Biotechnology

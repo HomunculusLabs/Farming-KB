@@ -1,7 +1,7 @@
 ---
 title: "PF Tek Inoculation Technique and Syringe Management"
 source: fanaticus-pf-tek-psilocybe-fanaticus.md
-topics: inoculation, [[comparison-spore-print-collection-vs-spore-syringe-production]] technique, [[emcdda-free-spore-ring-europe-spore-distribution-network]], needle management
+topics: inoculation, emcdda-free-spore-ring-europe-spore-distribution-network, needle management
 created: 2026-05-08
 ---
 
@@ -11,9 +11,7 @@ created: 2026-05-08
 
 The PF Tek inoculation procedure is designed for simplicity and
 reliability, enabling first-time cultivators to successfully introduce
-spores into sterilised substrate jars. [[pf-tek-psilocybe-fanaticus-cultivation-method]] provided
-detailed instructions covering every aspect of the inoculation process,
-from [[mushroom-spore-printing-syringe-preparation-pf-tek]] to the physical mechanics of spore delivery.
+spores into sterilised substrate jars. [[mushroom-spore-printing-syringe-preparation-pf-tek]] to the physical mechanics of spore delivery.
 
 ## Pre-Inoculation Checks
 
@@ -88,3 +86,7 @@ alternative technique. Key precautions:
   be disturbed as little as possible
 - Work quickly to minimise contamination exposure time
 - This technique should only be attempted after mastering the standard
+
+## See Also
+
+- [[spore-inoculation-sterile-technique]]

@@ -11,11 +11,7 @@ sources:
 
 # Cannabis Pruning and Training Techniques (SOG, SCROG, LST)
 
-**Source:** Marijuana Horticulture: The Indoor/Outdoor Medical Grower's Bible — [[jorge-cervantes]]
-
-## Hormonal Basis
-
-Pruning and bending redirect [[gibberellins-plant-growth-hormones]] (auxins). Removing or bending a branch tip causes hormonal balances to shift. Cutting the meristem (top growth tip) diffuses auxins and causes greater concentrations in lower branch tips. Bending changes hormone concentrations less drastically than pruning.
+**Source:** Marijuana Horticulture: The Indoor/Outdoor Medical Grower's Bible — [[gibberellins-plant-growth-hormones]] (auxins). Removing or bending a branch tip causes hormonal balances to shift. Cutting the meristem (top growth tip) diffuses auxins and causes greater concentrations in lower branch tips. Bending changes hormone concentrations less drastically than pruning.
 
 ## Pruning
 
@@ -53,29 +49,7 @@ Bending efficiently neutralizes the growth-inhibiting hormone effect. Much easie
 
 ## Sea of Green (SOG)
 
-A method of growing tight-packed short plants to maximize yield per [[comparison-biointensive-vs-square-foot-gardening]]. Short clones (6-8 inches tall) are packed tightly together in small containers and flowered immediately or after minimal vegetative time. Each plant takes up minimum space for minimum time to produce maximum marijuana.
-
-In a simple SOG layout: 80 total plants in trays illuminated by a single 1000W HID. Each week one tray of ten plants is harvested, and ten new plants are started. It is easy to grow 60+ four-inch rockwool cubes on a flood and drain table.
-
-## Screen of Green (SCROG)
-
-Plants are trained through a horizontal screen (chicken wire or similar) to create an even canopy. As plants grow through the screen, branches are woven back under to create an even, flat layer of bud sites all at the same distance from the light.
-
-## Air Pruning Roots
-
-When roots grow to the end of the container and are exposed to air, they stop growing. The air naturally prunes roots. Containers with holes at the bottom promote dense root systems that don't circle.
-
-## Chemical Root Pruning
-
-Spray-paint the inside of containers with copper hydroxide (Griffin's Spin-Out). Roots grow to within a fraction of an inch of the copper hydroxide, then stop and turn. Results in a dense root system dispersed evenly throughout the root ball.
-
-## Stress
-
-Cannabis grows best and produces heaviest when given a stable environment. Stressed plants produce less. Stress-induced trauma includes withholding water, photoperiod fluctuation, [[darkness-low-light-facilitation-entheogenic-ceremonies]], nutrient toxicities/deficiencies, extreme temperatures, and mutilation. Stress can cause more [[cannabis-glandular-trichome-types-resin-production-clarke]] but simultaneously causes reduced growth.
-
-## Topping and FIM Pruning
-
-Topping is the removal of the growing tip of the main stem, which causes the plant to develop two new main branches at the node just below the cut. This doubles the number of top colas and creates a wider, bushier plant. Topping should be performed during [[cannabis-vegetative-growth-stage]] when the plant has at least four to six nodes. The plant will need a few days to recover from the shock, after which the two new branches will begin growing vigorously.
+A method of growing tight-packed short plants to maximize yield per [[darkness-low-light-facilitation-entheogenic-ceremonies]], nutrient toxicities/deficiencies, extreme temperatures, and mutilation. Stress can cause more [[cannabis-vegetative-growth-stage]] when the plant has at least four to six nodes. The plant will need a few days to recover from the shock, after which the two new branches will begin growing vigorously.
 
 FIM (Fuck I Missed) pruning is a variation of topping where only part of the growing tip is removed rather than cutting the entire tip. This can produce three to four new branches instead of two, though results are less predictable. FIM is done by cutting approximately 75% of the growing tip, leaving a small portion intact.
 
@@ -118,8 +92,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[sea-of-green]]
 - [[dom]]
-- [[supercropping]]
 - [[screen-of-green]]
 - [[green-cannabis-topping-pruning-training]]

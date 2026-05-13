@@ -18,22 +18,7 @@ type: concept
 # Hyphal Growth Kinetics
 
 Hyphal growth is the fundamental mode of vegetative expansion for filamentous
-fungi. Understanding the kinetics of [[mushroom-cultivation-basics]], predicting
-fungal behavior in mycoremediation-bioreactor-design systems. Fungi grow by hyphal
-extension, enabling them to reach resources in soil and other environments
-in ways that single-celled organisms cannot.
-
-## Mechanisms of Hyphal Extension
-
-Hyphal growth occurs primarily at the tip through a process called apical
-extension. The hyphal tip is a specialized region characterized by polarized
-secretion of cell wall components and enzymes. Vesicles derived from the
-Golgi apparatus carry cell wall precursors to the growing tip, where they
-fuse with the plasma membrane and release their contents. This localized
-growth creates the characteristic tubular morphology of fungal hyphae.
-
-The rate of hyphal extension is influenced by multiple factors including
-temperature, [[ph-and-nutrient-availability-garden-soils]], water potential, pH, and the presence of
+fungi. Understanding the kinetics of [[ph-and-nutrient-availability-garden-soils]], water potential, pH, and the presence of
 inhibitory compounds. For every species there is an optimum temperature at
 which the rate of mycelial growth is maximized. As a general rule, the best
 temperature for vegetative (spawn) growth is several degrees higher than the
@@ -42,14 +27,13 @@ one most stimulatory for fruiting.
 ## Temperature Effects on Growth Rate
 
 Temperature is the major factor influencing the rate of mycelial growth.
-Studies on [[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]] and [[dark-incubation-sclerotia-production-psilocybe-mexicana-tampanensis]] have demonstrated
+Studies on [[dark-incubation-sclerotia-production-psilocybe-mexicana-tampanensis]] have demonstrated
 distinct temperature optima for hyphal extension, with growth rates declining
 sharply above and below the optimum range. Different mushroom species have
 characteristic temperature ranges:
 
 - Agaricus species typically favor 75 to 77 degrees F for spawn running
-- [[staycare-lentinula-edodes-in-bioremediation]] grows fastest at 70 to 75 degrees F
-- Pleurotus species have broad temperature tolerances for [[cannabis-vegetative-growth-stage]]
+- [[cannabis-vegetative-growth-stage]]
 - Tropical species generally require higher incubation temperatures
 
 The temperature within a spawn jar or substrate is typically several degrees
@@ -118,8 +102,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[white-rot-fungi]]
 - [[pleurotus-species]]
-- [[brassinosteroid]]
 - [[mycoremediation]]
 - [[fungal-hyphae]]

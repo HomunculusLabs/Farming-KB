@@ -14,11 +14,7 @@ Source: Steve Solomon, "Gardening When It Counts" (2005)
 
 ## The Water Problem with Intensive Gardening
 
-Solomon's central critique of intensive raised-bed methods is their water dependence. Closely spaced plants in raised beds exhaust available moisture in days. During hot weather, intensive beds require daily watering. When water is scarce or must be hauled, this becomes unsustainable. The original "[[jeavons-grow-biointensive-method-overview]]" method from Alan Chadwick and John Jeavons was developed in cool, foggy Pacific coastal climates where water was rarely limiting. These methods fail in drier or hotter regions.
-
-## Historical Perspective: Dry Farming
-
-Solomon draws on early 20th-century agronomist John Widstoe's work on dry farming in Utah. Widstoe found that properly spaced plants on fallow soil could produce full yields with no irrigation at all, relying entirely on subsoil moisture reserves. The key was [[solomon-wide-spacing-versus-intensive-gardening-debate]]: each plant had a large root zone to mine for water, and capillary action from subsoil continuously recharged the root zone.
+Solomon's central critique of intensive raised-bed methods is their water dependence. Closely spaced plants in raised beds exhaust available moisture in days. During hot weather, intensive beds require daily watering. When water is scarce or must be hauled, this becomes unsustainable. The original "[[solomon-wide-spacing-versus-intensive-gardening-debate]]: each plant had a large root zone to mine for water, and capillary action from subsoil continuously recharged the root zone.
 
 ## How Much Water Does Soil Hold?
 
@@ -41,36 +37,7 @@ Water loss per day in summer varies by climate:
 
 If drought threatens, Solomon's primary response is NOT irrigation but spacing adjustment. In every row, harvest every second plant (carrot, beet, whatever is ready). This instantly reduces moisture consumption while doubling the capillary moisture available to each survivor. The result may not be losing half the crop -- by preventing moisture stress, you may harvest more total food.
 
-In severe drought without irrigation, maximum spacing for corn is ~16 sq ft per plant (4-foot centers), imitating traditional [[halpern-sacramental-peyote-and-native-american-church]] hill planting.
-
-## Capillarity and Soil Moisture Movement
-
-Moisture moves through soil by capillary action -- water travels upward and sideways through tiny spaces between soil particles. Finer particles (silt, clay) create stronger capillary forces. This is why clay subsoil, if penetrable by roots, acts as a moisture reservoir.
-
-However, any cultivation that breaks capillary connections at the soil surface will cause the subsurface moisture to evaporate. This is why Solomon advocates weeding with a sharp hoe that cuts weeds just below the surface, minimizing soil disturbance.
-
-## Fertigation: The Fertigation Bucket
-
-Solomon's most useful watering technique is fertigation -- delivering both water and dissolved nutrients directly to the root zone of large plants. This is essential for big plants: tomatoes, melons, corn, squash, Brussels sprouts, large cabbages.
-
-The method:
-1. Use a 5-gallon bucket with a small drain hole in the bottom
-2. The drain hole size determines how quickly water enters the soil
-3. For soils with 20%+ clay: 5 gallons (20 liters) per plant every 3 weeks
-4. For sandy soils: 2.5 gallons (10 liters) every 10 days
-5. Water should sink straight down, not spread across the surface
-
-Results can be dramatic: fertigated winter squash yielded 50 lbs (22 kg) per plant versus 20 lbs (9 kg) without. The fertilizer solution uses manure tea, compost tea, [[solomon-foliar-feeding-fish-emulsion-and-kelp]] (1:100 dilution), or soluble [[complete-organic-fertilizer-cof-recipe-solomon]].
-
-Making manure/compost tea:
-- Fill a barrel with water, add a bucketful of fresh manure or compost
-- Let brew for a week, stirring every few days
-- Dilute according to the response of plants
-- Alternatives: comfrey leaves, alfalfa, seedmeal, tankage, bloodmeal, urine
-
-## Why Fertigation Works
-
-Crop scientists of Widstoe's era found it took twice as much water to produce a given weight of dry plant material on infertile soil as on fertile soil. William Albrecht showed that much apparent drought damage is actually [[cannabis-grow-nutrient-deficiency-problem-solving]] caused by dry surface soil when plant nutrients are located only in the plowed surface layer. Fertigation places nutrients in the subsoil where roots are foraging.
+In severe drought without irrigation, maximum spacing for corn is ~16 sq ft per plant (4-foot centers), imitating traditional [[solomon-foliar-feeding-fish-emulsion-and-kelp]] (1:100 dilution), or soluble [[cannabis-grow-nutrient-deficiency-problem-solving]] caused by dry surface soil when plant nutrients are located only in the plowed surface layer. Fertigation places nutrients in the subsoil where roots are foraging.
 
 ## Practical Water Management Guidelines
 
@@ -89,6 +56,90 @@ Rototilling creates a hard "plow pan" a few inches below the surface, blocking r
 
 ## See Also
 
-- [[ultra-low-cost-irrigation-methods]]
 - [[drip-irrigation-cannabis]]
 - [[permaculture-water-systems]]
+
+## Overview
+
+Solomon Irrigation Water Management represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish solomon irrigation water management
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving solomon extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Solomon Irrigation Water Management finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for solomon irrigation water management. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+solomon irrigation water management and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Solomon Irrigation Water Management has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of solomon irrigation water management into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[solomon-disease-identification-and-organic-remedies]]
+- [[solomon-manure-types-and-nutrient-values]]
+- [[solomon-raised-beds-and-bed-preparation]]
+- [[solomon-seed-saving-vegetable-breeding]]
+- [[solomon-soil-preparation-bed-prep]]

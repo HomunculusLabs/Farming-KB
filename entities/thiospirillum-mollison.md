@@ -27,23 +27,7 @@ Thiospirillum is a genus of sulphur-loving photosynthetic bacteria found in the 
 - Uses hydrogen sulphide (H2S) as a hydrogen source for carbon assimilation
 - By-product is elemental sulphur (S), which binds to heavy metals present in the water
 - May appear pink in open ponds, contributing colour to the anaerobic lagoons
-- Works alongside Chromatium and Rhodopseudomonas in the same [[ecological-niche]]
-- Part of the biological mechanism that precipitates heavy metals as insoluble sulphides
-
-## Role in Heavy Metal Removal
-
-Thiospirillum plays a crucial indirect role in wastewater purification:
-
-1. **Hydrogen sulphide metabolism**: Converts H2S to elemental sulphur during photosynthesis
-2. **Sulphur production**: Elemental sulphur at 1.0 mg/l can precipitate 1.8-2.0 mg/l of heavy metals as sulphides
-3. **Metal immobilisation**: Sulphides of copper, cadmium, zinc, nickel, lead, chromium, and iron are insoluble above pH 7
-4. **Self-sustaining process**: As long as organic matter feeds the anaerobic ecosystem, the bacteria continue producing sulphur
-
-## Relevance to Cultivation
-
-- **Wastewater treatment**: Essential component of anaerobic sewage lagoons
-- **Heavy metal removal**: Biological mechanism for immobilising toxic metals without chemical additives
-- **[[permaculture-design]]**: Supports the case for biological treatment over chemical treatment of polluted water
+- Works alongside Chromatium and Rhodopseudomonas in the same [[permaculture-design]]**: Supports the case for biological treatment over chemical treatment of polluted water
 - **Bioremediation**: Potential application in cleaning metal-contaminated water bodies
 
 ## Anaerobic Pond Metal Removal Performance
@@ -79,6 +63,88 @@ all influence the optimal approach to implementation.
 
 ## See Also
 
-- [[rhodopseudomonas-palustris]]
 - [[euglena-mollison]]
 - [[daphnia-mollison]]
+
+## Overview
+
+Thiospirillum Mollison represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish thiospirillum mollison
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving thiospirillum extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Thiospirillum Mollison finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for thiospirillum mollison. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+thiospirillum mollison and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Thiospirillum Mollison has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of thiospirillum mollison into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[mentha-aquatica-mollison]]
+- [[mollison-designers-conifer-forestry-and-timber]]
+- [[mollison-designers-wickiup-and-quick-shelter-construction]]

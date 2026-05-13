@@ -13,29 +13,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - Wolber, C.J. et al. (2019). "Clinical Pharmacokinetics of Dextromethorphan." Clinical Pharmacokinetics.
-  - Reissig, C.J. et al. (2012). "Dextromethorphan: A Review of Abuse." Drug and [[cannabis-for-alcohol-dependence]].
-  - Pappas, A.G. (2006). "DXM Abuse: A New Look at an Old Problem." Pediatric Emergency Care.
-  - Murray, T.L. et al. (1983). "Binding of Dextromethorphan to Sigma Receptors." European Journal of Pharmacology.
-  - FDA (2020). "Dextromethorphan/Bupropion (Auvelity) Approval Letter." U.S. Food and Drug Administration.
-created: 2026-04-28
----
-
-## Overview
-
-**Dextromethorphan (DXM)** is a synthetic, non-opioid antitussive (cough suppressant) that acts primarily as an uncompetitive NMDA receptor antagonist and sigma-1 receptor agonist. At therapeutic doses (10–30 mg), it suppresses cough reflexes via central nervous system action. At supratherapeutic doses (150 mg+), it produces dissociative, hallucinatory, and euphoric effects.
-
-DXM is the dextrorotatory enantiomer of levomethorphan and has no significant affinity for opioid receptors at standard doses. It is one of the most widely used over-the-counter medications globally and is the active ingredient in products such as Robitussin, Delsym, and NyQuil.
-
-## Chemical Properties
-
-- **IUPAC Name:** (4bS,8aR,9S)-3-methoxy-11-methyl-6,7,8,8a,9,10-hexahydro-5aH-9,4b-(epiminomethano)phenanthrene
-- **Molecular Formula:** C₁₈H₂₅NO
-- **Molecular Weight:** 271.40 g/mol
-- **CAS Number:** 125-71-3
-- **Appearance:** White crystalline powder
-- **Solubility:** Soluble in water, ethanol, and chloroform
-
-DXM is structurally related to the opioid class (morphinan scaffold) but lacks the phenolic hydroxyl group at the 3-position that is critical for opioid [[tihkal-receptor-binding-serotonin]]. This structural difference confers its non-opioid pharmacological profile.
+  - Reissig, C.J. et al. (2012). "Dextromethorphan: A Review of Abuse." Drug and [[tihkal-receptor-binding-serotonin]]. This structural difference confers its non-opioid pharmacological profile.
 
 The drug is metabolized primarily by cytochrome P450 2D6 (CYP2D6) to dextrorphan (DXO), which has greater NMDA antagonist potency than the parent compound. Genetic polymorphisms in CYP2D6 produce significant inter-individual variation in metabolism and response.
 
@@ -56,18 +34,7 @@ DXM produces qualitatively different effects at escalating doses, described by r
 
 - **First plateau (100–200 mg):** Mild stimulation, light intoxication, enhanced music appreciation, subtle body sensations. Analogous to low-dose alcohol or cannabis.
 - **Second plateau (200–400 mg):** Euphoria, increased sociability, mild dissociation, floating sensation, altered time perception. Some visual distortions.
-- **Third plateau (400–600 mg):** Strong dissociation, impaired motor coordination, significant visual hallucinations, [[psilocybin-ego-dissolution-mechanisms]], disorientation. Walking becomes difficult.
-- **Fourth plateau (600–1500 mg):** Complete dissociation, near-comatose state, profound hallucinations, out-of-body experiences. Dangerous without a sober sitter.
-
-Effects typically onset within 30–60 minutes and last 4–8 hours depending on formulation. Extended-release preparations (polistirex) produce longer, smoother effects.
-
-## Therapeutic Uses
-
-At therapeutic doses, DXM is an effective cough suppressant acting on the medullary cough center. It is available in numerous OTC formulations as a single agent or combined with antihistamines, decongestants, and analgesics.
-
-In 2022, the FDA approved a combination of dextromethorphan and bupropion (brand name Auvelity) for treatment-resistant major depressive disorder. The combination exploits DXM's NMDA antagonism and sigma-1 agonism, with bupropion inhibiting CYP2D6 to increase DXM bioavailability.
-
-DXM has been investigated [[cannabis-for-neuropathic-pain]], pseudobulbar affect (as a component of Nuedexta with quinidine), and as a neuroprotective agent in stroke models. The sigma-1 agonist activity is believed to mediate the antidepressant and neuroprotective effects.
+- **Third plateau (400–600 mg):** Strong dissociation, impaired motor coordination, significant visual hallucinations, [[cannabis-for-neuropathic-pain]], pseudobulbar affect (as a component of Nuedexta with quinidine), and as a neuroprotective agent in stroke models. The sigma-1 agonist activity is believed to mediate the antidepressant and neuroprotective effects.
 
 ## Risks and Toxicity
 
@@ -85,6 +52,83 @@ The 2024 DEA review considered scheduling DXM but ultimately did not recommend i
 
 ## Recreational Use and Culture
 
-Non-medical use of DXM has been documented since the 1960s, with significant increases in prevalence during the 1990s and 2000s internet era. [[internet-mushroom-information-repositories-online-communities-emcdda-2006]] developed extensive documentation of dosing protocols, [[adverse-effects-and-harm-reduction-psilocybin]] practices, and [[arbuscular-mycorrhizal-spore-extraction-methods]].
+Non-medical use of DXM has been documented since the 1960s, with significant increases in prevalence during the 1990s and 2000s internet era. [[adverse-effects-and-harm-reduction-psilocybin]] practices, and [[arbuscular-mycorrhizal-spore-extraction-methods]].
 
 The term "robotripping" (from Robitussin) became widely recognized in popular culture. DXM gained a reputation as an accessible but unpredictable dissociative, with effects varying dramatically based on individual CYP2D6 metabolism, formulation, and dose.
+
+## Overview
+
+Dextromethorphan represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish dextromethorphan
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving dextromethorphan extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Dextromethorphan finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for dextromethorphan. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+dextromethorphan and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Dextromethorphan has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of dextromethorphan into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.

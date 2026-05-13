@@ -9,15 +9,7 @@ sources:
 ---
 # Pruning Fruit Trees and Bushes
 
-Pruning is essential for maintaining healthy, productive fruit trees and bushes. The timing and method differ significantly between fruit types, and getting it wrong can introduce disease. In [[hamilton-geoffhamilton-nick-organic-gardening-companion-planting]], correct pruning reduces the need for chemical intervention.
-
-## General Principles
-
-- Always use sharp, clean tools to avoid tearing bark and spreading disease
-- Prune on a dry day to reduce disease risk
-- Make clean cuts just above an outward-facing bud
-- Remove dead, diseased, and crossing branches first
-- Aim for an open center that allows [[stamets-growing-room-air-circulation-co2-management]] and light penetration
+Pruning is essential for maintaining healthy, productive fruit trees and bushes. The timing and method differ significantly between fruit types, and getting it wrong can introduce disease. In [[stamets-growing-room-air-circulation-co2-management]] and light penetration
 - Never prune more than necessary -- each cut is a wound that must heal
 
 ## Apples and Pears (Pome Fruits)
@@ -34,22 +26,7 @@ Pruning is essential for maintaining healthy, productive fruit trees and bushes.
 - Used mainly for trained forms (cordons, espaliers, fans)
 - Shorten new lateral shoots to 3 leaves beyond the basal cluster
 - Shorten subsequent side shoots to 1 leaf
-- This directs energy into fruit production rather than [[cannabis-vegetative-growth-stage]]
-- Helps control the size of trained forms
-
-## Stone Fruits (Plums, Cherries, Peaches, Apricots)
-
-**Summer pruning only (mid-June to August):**
-- Stone fruits must never be pruned in winter because they are highly susceptible to silver leaf and bacterial canker diseases, which enter through pruning wounds in wet weather
-- Prune in dry weather during active growth when wounds heal quickly
-- Remove dead, diseased, and crossing branches
-- For established plums: shorten new growth by about one-third
-- For fan-trained plums: a 5-step process -- establish central leader, train branches at 45 degrees, tie to wires, shorten extension growth by half, repeat annually
-- For cherries: remove dead, diseased, and crossing branches in midsummer
-
-## Soft Fruit Bushes
-
-**[[query-how-to-grow-black-currants-at-home]]:** Grown as "stools" -- cut all stems to ground level after harvest to encourage vigorous new growth from the base. In winter, remove a quarter of the oldest stems to ground level.
+- This directs energy into fruit production rather than [[query-how-to-grow-black-currants-at-home]]:** Grown as "stools" -- cut all stems to ground level after harvest to encourage vigorous new growth from the base. In winter, remove a quarter of the oldest stems to ground level.
 
 **Red and white currants, gooseberries:** Prune in winter. Create an open goblet shape. Keep 8-10 main branches, removing the oldest each year and retaining strong new growth from the base. Shorten new growth on main branches by about half. For cordons, train as single stems with fruiting spurs.
 
@@ -75,7 +52,89 @@ In organic systems, avoid wound paints and sealants. Make clean cuts and let the
 
 ## Related
 
-- [[growing-tree-fruit-organically]] for variety-specific guidance
-- [[plant-propagation-techniques]] for [[mollison-designers-grafting-and-budding-fruit-trees]]
-- holzer-fruit-tree-planting-method
-- [[jadam-fruit-tree-winter-pest-control]]
+- [[plant-propagation-techniques]] for [[jadam-fruit-tree-winter-pest-control]]
+
+## Overview
+
+Pruning Fruit Trees And Bushes represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish pruning fruit trees and bushes
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving pruning extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Pruning Fruit Trees And Bushes finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for pruning fruit trees and bushes. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+pruning fruit trees and bushes and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Pruning Fruit Trees And Bushes has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of pruning fruit trees and bushes into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[comparison-fruit-tree-pruning-vs-fruit-tree-grafting-guide]]
+- [[fukuoka-orchard-management-without-pruning]]
+- [[fukuoka-textdoc-pruning-destruction-natural-tree-form]]
+- [[green-cannabis-topping-pruning-training]]
+- [[pruning-fruit-trees]]

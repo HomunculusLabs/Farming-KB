@@ -40,14 +40,7 @@ periods and towering growth habits.
 
 **Thai**: Perhaps the most famous of all landrace sativas, Thai varieties
 gained worldwide recognition during the 1960s and 1970s. Known for their
-powerful cerebral effects and distinctive fruity, chocolatey [[cannabis-terpene-profiles]],
-Thai landraces were imported as compressed "Thai sticks" and became foundational
-genetics in numerous hybrid programs. Thai genetics contributed to the creation
-of legendary strains like Thai Haze and remain highly sought after by breeders.
-
-**Vietnam Black**: A lesser-known but genetically significant Southeast Asian
-landrace, Vietnam Black is noted for its dark pigmentation and potent psychoactive
-effects. It represents the [[biodiversity-fungal-genetic-diversity]] of the Indochinese peninsula and has
+powerful cerebral effects and distinctive fruity, chocolatey [[biodiversity-fungal-genetic-diversity]] of the Indochinese peninsula and has
 been used in selective breeding programs to introduce unique color traits.
 
 **Cambodian**: Cambodian landrace sativas share many characteristics with Thai
@@ -77,20 +70,10 @@ flowering periods but reward patient growers with aromatic buds and complex
 cannabinoid profiles.
 
 **Swazi (Swaziland/Eswatini)**: Swazi Gold and related Swazi landraces from
-Southern Africa are well-regarded for [[cannabis-resin-production-and-quality-traits-clarke]] hardy growth.
-Adapted to the warm, [[query-how-do-i-grow-bananas-in-a-subtropical-climate]], these varieties have been used in
+Southern Africa are well-regarded for [[query-how-do-i-grow-bananas-in-a-subtropical-climate]], these varieties have been used in
 both traditional and commercial breeding programs.
 
-**Malawi**: Malawi Gold is one of Africa's most celebrated [[cannabis-landrace-strains]],
-renowned for its energetic, long-lasting sativa effects and prolific resin
-production. Grown in the Lake Malawi region, this variety has been a staple of
-local cannabis culture for generations.
-
-## Central and South American Landraces
-
-The Americas produced a vast array of landrace sativas that formed the genetic
-backbone of the modern cannabis industry, particularly during the 1960s-1980s
-when imported sensimilla from Colombia, Mexico, and [[guzman-allen-gartz-neurotropic-fungi-caribbean-central-america]] fueled
+**Malawi**: Malawi Gold is one of Africa's most celebrated [[guzman-allen-gartz-neurotropic-fungi-caribbean-central-america]] fueled
 the North American market.
 
 **Colombian**: Colombian landraces — including Colombian Gold and various
@@ -101,18 +84,7 @@ including crosses with Kush strains and Haze lines.
 **Oaxacan (Mexico)**: Oaxacan sativas from southern Mexico are heirloom
 landraces with a rich cultural history. Varieties like Acapulco Gold (sourced
 by breeders such as SnowHigh from Mexican heirloom stock) represent the
-genetic heritage of Mexico's indigenous [[arbuscular-mycorrhizal-fungi-cannabis-cultivation]] traditions.
-
-**Panama Red**: One of the most legendary sativa landraces of all time, Panama
-Red earned the nickname "the tequila of weed" for its intensely psychoactive,
-nearly hallucinogenic effects. During the early 1980s, Panama Red clones were
-valued at approximately $5,000 each, reflecting their extreme rarity and potency.
-Panama Red represents the peak of what unhybridized Central American sativas
-could achieve in terms of psychoactive power.
-
-**Brazilian White Sativa**: Originating from approximately 30°S latitude in
-Brazil, this landrace shares the early-flowering advantage of Durban Poison due
-to its [[neurotropic-fungi-southern-hemisphere-origin-biogeography-guzman-1998]]. Brazilian White Sativa is widely believed to
+genetic heritage of Mexico's indigenous [[neurotropic-fungi-southern-hemisphere-origin-biogeography-guzman-1998]]. Brazilian White Sativa is widely believed to
 be the maternal parent of the legendary White Widow strain, contributing both
 its early finishing time and prolific resin coating. This genetic connection
 makes Brazilian White Sativa one of the most influential landraces in modern

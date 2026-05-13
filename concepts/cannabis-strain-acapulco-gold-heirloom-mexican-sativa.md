@@ -46,17 +46,7 @@ long flowering period,  narrow leaflets,  and energetic cerebral effects.
 As a landrace variety,
 Acapulco Gold possesses a relatively narrow genetic base compared to modern polyhybrid strains.
 This genetic uniformity is both a strength (it produces consistent,
-predictable phenotypes) and a vulnerability (it may be more susceptible to [[mushroom-pests-and-diseases]] that have not been part of its evolutionary history).
-The genetic purity of authentic Acapulco Gold also makes it valuable for breeding programs seeking to incorporate landrace sativa genetics into modern cultivars.
-
-## Morphological Characteristics
-
-Acapulco Gold plants are tall and leggy,
-typical of tropical sativa varieties. In optimal outdoor conditions,
-they can reach heights of 6 to 8 feet or more,
-with substantial lateral branching when given adequate space.
-The leaves are narrow and finger-like with long,
-widely spaced leaflets — the classic sativa leaf morphology that allows efficient light penetration [[arbuscular-mycorrhizal-fungi-in-tropical-forest-restoration]] understories.
+predictable phenotypes) and a vulnerability (it may be more susceptible to [[arbuscular-mycorrhizal-fungi-in-tropical-forest-restoration]] understories.
 
 The most distinctive morphological feature is the coloration of the mature buds.
 Genuine Acapulco Gold produces dense,
@@ -96,14 +86,7 @@ typically in the range of 15-20% when grown under optimal conditions.
 This is notably lower than many contemporary high-THC hybrids (which can reach 25-30% or higher),
 but the overall psychoactive experience is often described as more nuanced and complex than what the THC percentage alone would suggest.
 This is likely due to the presence of other cannabinoids (CBD,  CBG,
-CBC) and a diverse terpene profile that modulates the effects of THC through [[cannabis-terpenes-and-the-entourage-effect]].
-
-## Cultivation Considerations
-
-Growing authentic Acapulco Gold presents several challenges for modern cultivators.
-As a tropical landrace sativa,
-it requires a long flowering period — typically 10 to 12 weeks or more — which is longer than most modern hybrids.
-This extended flowering period means it is better suited to outdoor cultivation in tropical or [[query-how-to-grow-rare-tropical-fruits-in-marginal-and-subtropical-climates]] where it can complete its full life cycle naturally.
+CBC) and a diverse terpene profile that modulates the effects of THC through [[query-how-to-grow-rare-tropical-fruits-in-marginal-and-subtropical-climates]] where it can complete its full life cycle naturally.
 
 The strain is also adapted to the specific environmental conditions of its native Guerrero region and may not perform optimally in other climates.
 Indoor cultivation is possible but requires tall grow spaces and careful management of the extended flowering period.
@@ -123,12 +106,6 @@ but the genetic diversity within these collections is necessarily limited compar
 Acapulco Gold's genetic legacy lives on in numerous modern hybrid strains that incorporate its genetics.
 Its influence can be detected in many sativa-dominant hybrids that exhibit similar energetic cerebral effects,
 complex flavor profiles,  and tall,  leggy growth patterns.
-The strain's [[amanita]] as a symbol of the 1960s counterculture era also ensures its continued recognition,
-even among consumers who have never encountered the genuine article.
-
-## See Also
-
-- [[cannabis-strain-chemdawg-origin-genetics-lineage]]
-- [[cannabis-mexican-strain-description-clarke]]
+The strain's [[cannabis-strain-chemdawg-origin-genetics-lineage]]
 - [[cannabis-strain-bruce-banner-genetics-profile]]
 - [[cannabis-strain-amnesia-haze-genetics-history]]

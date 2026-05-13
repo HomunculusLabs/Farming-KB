@@ -12,7 +12,7 @@ sources:
 
 updated: 2026-04-18
 
-Dr. Cho Han Kyu's approach to teaching Korean [[comparison-natural-farming-vs-permaculture]] reflects his philosophy that farmers themselves are the best teachers and that practical, hands-on learning is essential. His teaching methodology has been central to the [[pf-tek-global-spread-and-cultural-impact]] of KNF from its origins at the Janong Natural Farming Institute in South Korea to over fifteen countries worldwide.
+Dr. Cho Han Kyu's approach to teaching Korean [[pf-tek-global-spread-and-cultural-impact]] of KNF from its origins at the Janong Natural Farming Institute in South Korea to over fifteen countries worldwide.
 
 ## Dr. Cho's Background as Teacher
 
@@ -37,8 +37,7 @@ KNF teaching emphasizes practical demonstration over theoretical instruction. Th
 
 - **Live demonstrations** of input preparation (IMOs, FPJ, FAA, LAB, etc.)
 - **Field application** showing proper techniques for soil treatment, foliar spraying, and compost application
-- **Livestock housing tours** demonstrating the [[holmgren-permaculture-twelve-design-principles-framework]] of odorless piggeries and natural poultry houses
-- **[[fukuoka-direct-observation-method]]** of results -- trainees see healthy crops, clean livestock housing, and fertile soils firsthand
+- **Livestock housing tours** demonstrating the [[fukuoka-direct-observation-method]]** of results -- trainees see healthy crops, clean livestock housing, and fertile soils firsthand
 
 The book's own structure reflects this teaching approach: each input is described with specific materials needed, step-by-step preparation instructions, usage guidelines, timing recommendations, and storage requirements -- a complete practical manual.
 
@@ -63,27 +62,7 @@ The training center at Pulicherla provided practical demonstrations of various a
 
 KNF training typically follows a progressive structure:
 
-1. **Introduction to principles:** The [[cho-nutritive-cycle-theory]] Theory, the concept of IMOs, and the philosophy of working with nature
-2. **Input preparation workshops:** Hands-on learning to make each KNF input (IMO, FPJ, FFJ, OHN, FAA, LAB, WS-Ca, WS-K, WS-PA, BRV, etc.)
-3. **Application training:** When, where, and how to apply inputs for different crops and growth stages
-4. **Livestock management:** Housing design, feeding protocols, and health management
-5. **System integration:** How to connect crops, livestock, and aquaculture into integrated farming systems
-6. **Independent practice:** Farmers are encouraged to adapt methods to their local conditions
-
-## Authorized Training Network
-
-KNF maintains quality control through its training authorization system:
-
-- Training is conducted at the Janong Natural Farming Institute in South Korea
-- Authorized trainers conduct courses in other countries
-- Trainees who complete the program are recognized as Natural Farmers
-- A network of authorized trainers continues to expand as more farmers complete the program
-
-## Documentation and Knowledge Preservation
-
-Dr. Cho ensured his knowledge was preserved through multiple channels:
-
-- Published books on Natural [[natural-farming-methods-comparison]]
+1. **Introduction to principles:** The [[natural-farming-methods-comparison]]
 - Training handbooks (such as the one by Roel Revenare referenced in the book)
 - Regional language publications (Telugu, Hindi editions)
 - Demonstration farms that serve as living classrooms
@@ -118,8 +97,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[doc]]
 - [[cho-han-kyu]]
-- [[permaculture]]
 - [[natural-farming]]
 - [[knf-loess-powder]]

@@ -66,7 +66,7 @@ Off-bottom systems stretch ropes between stakes in shallow bays at 0.3–0.5 m a
 
 Growth rates under optimal conditions reach 3–5% per day in fresh weight, enabling harvest cycles of 30–45 days. Annual yields range from 20–150 tonnes fresh weight per hectare depending on location, season, and management.
 
-Major [[query-how-to-manage-pests-and-diseases-in-mushroom-cultivation]] include "ice-ice" syndrome (a physiological [[mycelial-metabolite-excretion-stress-response-grain-jar-cultivation-guide]] causing whitening), epiphytic algae, and grazing by herbivorous fish and invertebrates. Neem-based dips and proper spacing help manage disease pressure.
+Major [[mycelial-metabolite-excretion-stress-response-grain-jar-cultivation-guide]] causing whitening), epiphytic algae, and grazing by herbivorous fish and invertebrates. [[neem]]-based dips and proper spacing help manage disease pressure.
 
 Post-harvest, thalli are typically sun-dried on platforms or raised nets for 3–7 days to moisture content below 35%. Dried product is baled or packed for transport to carrageenan extraction facilities.
 
@@ -78,7 +78,7 @@ Beyond food, carrageenan finds applications in pharmaceuticals (tablet binding, 
 
 Dried K. alvarezii is consumed directly as food in Southeast Asian cuisines, particularly in salads ( Filipino *kinilaw*, Indonesian *gado-gado* garnish) and as a thickening agent in soups. It is marketed as "sea moss" in health food contexts.
 
-Emerging applications include carrageenan-based films for biodegradable packaging, [[mollison-designers-wastewater-treatment-wetlands]] media for heavy metal adsorption, and feed supplements in aquaculture and [[savory-livestock-nutrition-and-supplementation]].
+Emerging applications include carrageenan-based films for biodegradable packaging, [[savory-livestock-nutrition-and-supplementation]].
 
 ## Ecological Impact
 

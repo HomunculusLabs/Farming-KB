@@ -19,74 +19,19 @@ type: concept
 
 ## Overview
 
-Beyond the major genera of [[challenges-neurotropic-fungi-chemical-analysis-taxonomic-identification]] (Psilocybe, Copelandia,
-Panaeolus, Gymnopilus, Amanita, and Claviceps), several additional genera
-contain confirmed or suspected hallucinogenic species. The paper by Guzman,
-Allen, and Gartz documents neurotropic species in Hypholoma (2 species),
-Pluteus (6 species), Inocybe (3 species), and Conocybe (4 species), plus
-other miscellaneous genera. These "minor" genera collectively contribute
-importantly to the total diversity of neurotropic fungi.
-
-## Hypholoma (Stropharia sensu stricto)
-
-Hypholoma contains 2 documented neurotropic species, both tropical in
-distribution:
-
-- **Hypholoma naematoliformis**: Described from Mexico, this species
-  occurs in tropical forests of Central and South America. It was
-  originally described by Guzman and is associated with decomposing
-  wood in humid forest environments. Its neurotropic chemistry has
-  been confirmed.
-
-- **Hypholoma rhombispora**: Another tropical species documented from
-  Mexico and Central America. It is less well known than H.
-  naematoliformis but has confirmed psilocybin content.
-
-Note that some species formerly placed in Hypholoma have been transferred
-to other genera, and taxonomic revisions continue to affect the placement
-of species in this group. The related genus Stropharia contains no
-confirmed neurotropic species, though S. cubensis was historically placed
-in this genus before being transferred to Psilocybe.
-
-## Pluteus
-
-Pluteus contains 6 documented neurotropic species, making it one of the
-more significant minor genera:
-
-- **[[inocybe-aeruginascens]]**: Discovered and described from Germany, this
+Beyond the major genera of [[inocybe-aeruginascens]]**: Discovered and described from Germany, this
   species is of particular chemical interest because it contains
   aeruginascin (4-phosphoryloxy-N,N,N-trimethyltryptamine), a compound
   not found in most other neurotropic fungi. Aeruginascin may modify
   the psychoactive effects of psilocybin and psilocin. I.
-  aeruginascens grows on [[microfungal-biodiversity-ecology-wood-debris-sampling]] and disturbed ground.
-
-- **Inocybe haemacta**: A European species with confirmed psilocybin
-  content. It is found in association with trees, likely forming
-  ectomycorrhizal relationships.
-
-- **Inocybe tricolor**: Another European Inocybe species with confirmed
-  neurotropic chemistry.
-
-Inocybe species are generally mycorrhizal and are characterized by their
-brownish colors, fibrous caps, and nodulose (bumpy) spores. Many Inocybe
-species are poisonous, containing dangerous levels of muscarine, making
-accurate identification critical for anyone considering these fungi.
-
-## Conocybe
-
-Conocybe contains 4 documented neurotropic species:
-
-- **[[guzman-conocybe-siligineoides-lost-sacred-mushroom-oaxaca-never-recollected]]**: One of the most culturally significant
+  aeruginascens grows on [[guzman-conocybe-siligineoides-lost-sacred-mushroom-oaxaca-never-recollected]]**: One of the most culturally significant
   non-Psilocybe neurotropic fungi, used by the Mazatec people of
   Oaxaca, Mexico. It is known locally as "tauna" or "nti-si-tho" and
   is used in divination ceremonies alongside Psilocybe species. It is
   a small, fragile species found on disturbed ground and dung.
 
-- **[[hypholoma-popperianum]]
+- **[[pluteus-villosus]]
 
-- [[pluteus-villosus]]
-
-- [[neurotropic-fungi-classification]]
 - [[gymnopilus-earlei]]
 
 ## Practical Applications
@@ -118,8 +63,88 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[inocybe-haemacta]]
 - [[doc]]
-- [[psilocybin]]
 - [[psilocin]]
 - [[mazatec-people]]
+
+## Overview
+
+Hypholoma Pluteus Inocybe Conocybe Genera represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish hypholoma pluteus inocybe conocybe genera
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving hypholoma extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Hypholoma Pluteus Inocybe Conocybe Genera finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for hypholoma pluteus inocybe conocybe genera. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+hypholoma pluteus inocybe conocybe genera and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Hypholoma Pluteus Inocybe Conocybe Genera has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of hypholoma pluteus inocybe conocybe genera into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[hypholoma-capnoides]]
+- [[hypholoma-fasciculare]]

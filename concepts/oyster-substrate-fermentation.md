@@ -8,11 +8,8 @@ sources: [/Users/t3rpz/wiki/raw/papers/unknown-oyster-mushroom-cultivation.md]
 type: concept
 ---
 
-# Substrate Fermentation for [[mushroom-cultivation]]. Though not
-essential for oyster-mushroom-ph-and-substrate-chemistry
-- [[oyster-straw-substrate-preparation]]
-- Oyster Cottonseed [[oyster-mushroom-sunflower-seed-hull-substrate]]
-- Oyster [[mushroom-contamination-control]]
+# Substrate Fermentation for [[oyster-straw-substrate-preparation]]
+- Oyster Cottonseed [[mushroom-contamination-control]]
 ## Background and Context
 
 Substrate Fermentation for oyster-mushrooms is an important subject that has garnered significant attention

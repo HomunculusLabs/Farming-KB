@@ -29,30 +29,10 @@ Arnolds (1989a,b; 1991; 1997) documented declines in ectomycorrhizal
 fruit bodies and increases in saprotrophic and pathogenic fungal fruit
 bodies in The Netherlands, associated with a combination of acidifying
 pollutants and particularly nitrogen deposition. In healthy forest
-ecosystems, fruit bodies [[query-what-are-the-different-types-of-mycorrhizal-fungi]] typically form 45 to 50%
-of all fruit bodies found, but in polluted stands only about 10% of
-fruit bodies were of mycorrhizal origin. Fellner and Peskova (1995)
-identified stages of forest decline using the macrofungal ratio of
-saprotrophic to mycorrhizal forms, from latent (40% ectomycorrhizal)
-through acute (less than 40%) to lethal (less than 20%).
-
-## NITREX Experiments
-
-In the Swedish NITREX experiment, Brandrud (1995) compared macrofungal
-flora of control plots receiving natural N deposition with plots
-receiving additional 35 kg per hectare per year N and roofed plots
-excluding N deposition. PCA analysis showed that dominant genera
-Cortinarius and Russula were reduced in abundance by additional N,
-Lactarius showed little change, and specific species such as Paxillus
-involutus and [[lactarius-rufus]] increased with added N. Jonsson (1998)
+ecosystems, fruit bodies [[lactarius-rufus]] increased with added N. Jonsson (1998)
 found only 1 to 4% correspondence between fruit body species and
 mycorrhizae on roots, showing that fruit body surveys may not reliably
-reflect below-ground [[core-endorhiza-bacterial-community-composition-cannabis]].
-
-## Cessation of Fruiting at High N
-
-Ruhling and Tyler (1991) showed that addition of three times ambient
-N deposition (65 and 198 kg N per hectare per year as [[plant-available-nitrogen-ammonium-nitrate]])
+reflect below-ground [[plant-available-nitrogen-ammonium-nitrate]])
 in beech woodlands caused near-complete cessation of mycorrhizal fungal
 fruiting. Meanwhile, leaf litter-inhabiting saprotrophic fungal species
 increased fruiting, including species of Mycena, Clitocybe, Lepista,
@@ -74,17 +54,9 @@ colonization rates alone would indicate.
 
 Arnebrant (1994) showed that addition of ammonium sulfate and ammonium
 nitrate at 1 to 4 mg per gram peat significantly reduced mycelial
-growth of [[paxillus-involutus]] and [[suillus-bovinus]] on lodgepole pine.
+growth of [[suillus-bovinus]] on lodgepole pine.
 Conversely, Kieliszewska-Rokicka (1992) found small amounts of NH4-N
-increased both growth and acid [[mycorrhizal-phosphatase-activity-elf97-detection]] of Paxillus involutus
-mycelia, possibly through temporary phosphate deficiency stimulating
-phosphatase production. Wallander et al. (1999) showed that fungal
-isolates with inherently high NH4 uptake affinity had N uptake more
-inhibited by elevated N than low-affinity isolates.
-
-## Phosphorus Interaction and Nutrient Imbalance
-
-Carreira et al. (2000) showed that [[dighton-fungi-acidifying-pollutants-forest-ecosystems]] alter the
+increased both growth and acid [[dighton-fungi-acidifying-pollutants-forest-ecosystems]] alter the
 inorganic P subcycle by increasing P sorption capacity and decreasing
 labile P concentration. Acid phosphatase activity in soil decreased from
 382 to 263 mg pNP per hour per gram under acid misting. N saturation
@@ -118,8 +90,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[doc]]
 - [[dom]]
-- [[det]]
 - [[paxillus-involutus]]
 - [[ectomycorrhiza]]

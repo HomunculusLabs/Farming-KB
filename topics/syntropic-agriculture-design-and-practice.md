@@ -24,15 +24,7 @@ related_concepts:
   - ["permaculture-design-principles", "forest-gardening-and-food-forests", "agroforestry-and-alley-cropping", "regenerative-agriculture-overview"]
 ---
 
-# [[syntropic-agriculture]] — Design, Principles, and Practice
-
-## Introduction
-
-Syntropic agriculture is a farming methodology developed by Swiss farmer and researcher Ernst Götsch during his decades of work in Bahia, Brazil. The term "syntropy" was coined by Hungarian physicist László Nádas in reference to the opposing force to entropy — the tendency of living systems toward increasing organization, complexity, and self-assembly. In practice, syntropic agriculture applies this principle by designing agricultural systems that mimic the natural processes of forest succession, using strategic pruning, dense planting, and careful species selection to drive rapid soil regeneration while producing food, timber, and economic returns at every stage of system development.
-
-Unlike many permaculture or agroforestry approaches that emphasize zones, guilds, and element placement, syntropic agriculture focuses specifically on the **temporal dynamics of plant succession** — how plant communities organize themselves over time through stratification, light competition, organic matter deposition, and nutrient cycling. Götsch's system treats the farmer as a facilitator of natural succession rather than a replacer of natural processes. The system has been most extensively practiced in tropical and subtropical regions of Brazil but has attracted growing global interest as a scalable model for regenerative food production.
-
-## The [[fukuoka-spiritual-philosophical-foundation]]: Syntropy vs. Entropy
+# [[fukuoka-spiritual-philosophical-foundation]]: Syntropy vs. Entropy
 
 To understand syntropic agriculture, one must first grasp its underlying holmgren-ethical-philosophical-framework. In thermodynamic terms, entropy describes the universal tendency toward disorder and energy dissipation. Living systems, however, appear to defy this trend — they capture energy, build complex structures, and increase biological organization over time. This counter-tendency is what some thinkers have called syntropy.
 
@@ -49,21 +41,7 @@ The foundational principle of syntropic agriculture is that **plant succession i
 Götsch identifies several successional phases that correspond to ecological seres:
 
 - **Initial colonization (mosses, grasses, pioneer annuals)**: Rapid biomass accumulation, shallow root systems, begin breaking compacted soil.
-- **Pioneer shrub and tree stage**: Deeper root penetration, significant above-ground biomass, [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]] through leguminous pioneers, rapid light capture.
-- **Secondary succession**: Longer-lived species establish, canopy stratification increases, woody biomass accumulates.
-- **Climax or mature system**: Complex multi-strata forest with high biodiversity, closed nutrient cycles, stable microclimate.
-
-In syntropic agriculture, the farmer deliberately plants representatives of multiple successional stages simultaneously, then manages the transitions through strategic pruning and selective harvest. This compresses what might take decades of natural succession into years or even months.
-
-### 2. Stratification and Light Management
-
-Syntropic systems are designed with careful attention to vertical stratification — the arrangement of plants at different heights within the system. A mature syntropic planting typically includes:
-
-- **Emergent layer (25–40+ meters)**: Tall timber species providing the highest canopy and long-term economic return.
-- **High canopy (15–25 meters)**: Upper canopy trees producing fruit, nuts, or timber.
-- **Mid canopy (5–15 meters)**: Medium-sized trees, often fruit-producing species.
-- **Low canopy/shrub layer (2–5 meters)**: Shrubs, small trees, and tall perennials.
-- **Herbaceous layer (0–2 meters)**: Annual [[comparison-perennial-vegetables-vs-cover-crops]] bles, herbs, and ground covers.
+- **Pioneer shrub and tree stage**: Deeper root penetration, significant above-ground biomass, [[comparison-perennial-vegetables-vs-cover-crops]] bles, herbs, and ground covers.
 - **Root zone**: Root crops and below-ground production.
 
 Each stratum serves multiple functions. The high canopy provides shade that creates the filtered light conditions preferred by understory crops. Pruning of upper canopy species opens light windows for lower layers. The system is managed so that every plant always has access to adequate light, either through its position in the canopy or through the pruning of competitors above it.
@@ -106,13 +84,7 @@ This high density serves several purposes:
 - **Competition drives growth**: Plants in dense plantings grow faster as they compete for light, resulting in more rapid biomass accumulation and succession.
 - **Weed suppression**: Dense planting leaves no ecological space for unwanted species to establish.
 - **microclimate-creation-permaculture**: The combined canopy of thousands of plants creates a favorable microclimate with moderated temperature, reduced evapotranspiration, and increased humidity.
-- **Biodiversity**: High species diversity supports complex [[king-stropharia-ecological-interactions-permaculture]], including pest regulation, pollination, and nutrient cycling.
-
-The temporal dimension is equally important. By planting species with different life cycles and maturation times simultaneously, the system produces yields from the very first months while building toward long-term forest productivity. Annual vegetables and short-cycle crops provide early income, while fruit trees and timber species develop toward their productive years.
-
-### 6. Natural Regeneration and Minimal Soil Disturbance
-
-Syntropic agriculture avoids tillage whenever possible. Once the initial planting is established, the system is managed through planting, pruning, and harvesting — not through soil disturbance. This preserves the soil food w [[dighton-mycorrhizal-networks-carbon-transfer]] orks, and soil structure that develop over time.
+- **Biodiversity**: High species diversity supports complex [[dighton-mycorrhizal-networks-carbon-transfer]] orks, and soil structure that develop over time.
 
 When new planting areas are needed, Götsch often uses a technique called "consórcio" (consortium planting) in which new areas are initiated by pruning existing vegetation heavily, laying the cut material as mulch, and planting directly into the mulch layer. The decomposing organic matter creates a favorable seedbed without the need for tillage.
 
@@ -139,11 +111,6 @@ Species selection in syntropic agriculture follows successional logic. Each spec
 
 - **Placentas (system starters)**: Very fast-growing, short-lived pioneer species that rapidly accumulate biomass, fix nitrogen, and create favorable conditions for other species. Examples include *Mimosa caesalpiniifolia* (sabia), *Acacia mangium*, *Gliricidia sepium*, and various fast-growing legumes.
 - **Embryos (system builders)**: Medium-lived species that bridge the gap between pioneers and climax species. They produce significant biomass, establish deeper root systems, and begin canopy stratification. Examples include *Inga spp.*, *Erythrina spp.*, *Croton spp.*, and many fruit trees in early bearing years.
-- **Climax species (system maintainers)**: Long-lived, shade-tolerant species that form the permanent structure of the mature system. These include valuable timber trees (*Tabebuia spp.*, *Cedrela spp.*, *Swietenia spp.*), canopy fruit trees (*[[bertholletia-excelsa]]*, *Carapa guianensis*), and understory specie [[theobroma-cacao]] oleracea*).
+- **Climax species (system maintainers)**: Long-lived, shade-tolerant species that form the permanent structure of the mature system. These include valuable timber trees (*Tabebuia spp.*, *Cedrela spp.*, *Swietenia spp.*), canopy fruit trees (*[[theobroma-cacao]] oleracea*).
 
-Within each successional category, species are further selected for economic value, ecological function (nitrogen fixation, [[dighton-fungal-biomass-production-aquatic-ecosystems]], pest deterrence), adaptation to local conditions, and growth characteristics (height, canopy spread, root depth, growth rate).
-
-### Planting Layout
-
-## See Also
-- [[query-what-is-syntropic-agriculture-and-how-do-i-start]]
+Within each successional category, species are further selected for economic value, ecological function (nitrogen fixation, [[query-what-is-syntropic-agriculture-and-how-do-i-start]]

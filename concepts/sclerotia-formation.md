@@ -33,50 +33,10 @@ in some species, fruit bodies directly.
 Among cultivated fungi, several *Psilocybe* species are known to produce
 sclerotia:
 
-- ***[[psilocybe-tampanensis-entity]]***: The most prolific sclerotia producer in
-  cultivation. Originally collected near Tampa, Florida by Steven Pollock
-  in 1977, this species readily forms large, dense sclerotia on grain
-  substrates
-- ***Psilocybe mexicana***: A Mexican species that produces sclerotia both
-  in vitro and in casing layers. This species has a long history of
-  traditional use, and sclerotia were among the first fungal structures
-  identified as containing psilocybin
-- ***Psilocybe atlantis***: Related species that also produces sclerotia
-- ***Psilocybe galindoi***: Another sclerotia-forming species sometimes
-  cultivated for truffle production
-
-## Chemistry
-
-Sclerotia of *Psilocybe* species contain the same active alkaloids as the
-corresponding mushroom fruit bodies:
-
-- **Psilocybin**: 4-PO-DMT, the primary psychoactive compound; a prodrug
-  that is dephosphorylated to psilocin in the body
-- **Psilocin**: 4-HO-DMT, the active metabolite responsible for the
-  psychedelic effects
-- **Baeocystin**: 4-PO-NMT, a related alkaloid present in smaller amounts
-- **Norbaeocystin**: 4-HO-NMT, another minor alkaloid
-
-The alkaloid content of sclerotia is generally comparable to or slightly
-lower than that of dried mushroom fruit bodies of the same species, though
-this varies considerably depending on strain, substrate, and growing
-conditions. Sclerotia tend to have higher water content than dried mushrooms,
-so fresh weight potency is lower per gram but comparable when dried.
-
-## Cultivation Method
-
-The GUID method provides a straightforward approach to [[in-vitro-sclerotia-production-timeline-psilocybe]]:
+- ***[[in-vitro-sclerotia-production-timeline-psilocybe]]:
 
 ### Substrate
-[[disposable-tray-casing-method-grass-seed-substrate]] is used, prepared in the standard manner (110 g rye
-grass seed + 180 mL water per 720 mL jar). No casing is required for
-sclerotia production — the mycelium forms sclerotia directly on and within
-the colonized grain.
-
-### Colonization
-Jars are inoculated and incubated at room temperature (~20°C) until fully
-colonized. Standard colonization takes 5-20 days. As with mushroom
-production, yellowish [[mycelial-metabolite-excretion-stress-response-grain-jar-cultivation-guide]] indicates the jars should be
+[[mycelial-metabolite-excretion-stress-response-grain-jar-cultivation-guide]] indicates the jars should be
 processed soon.
 
 ### Sclerotia Development
@@ -125,20 +85,7 @@ its native Florida habitat.
 
 ## Advantages of Sclerotia Cultivation
 
-- **Simplicity**: No casing, fruiting chamber, or [[chen-maitake-growth-parameters-environmental-control]]
-  required
-- **Stealth**: Entire process occurs within sealed jars — no light, fresh
-  air exchange, or humidification needed
-- **Reliability**: Less prone to contamination than mushroom fruiting
-- **Dual product**: Jars intended for mushroom production may also yield
-  sclerotia as a secondary product
-- **Storage**: Fresh sclerotia can be stored for weeks refrigerated; dried
-  sclerotia store for years
-
-## See Also
-
-- [[grass-seed-substrate]]
-- [[mushroom-casing-soil]]
+- **Simplicity**: No casing, fruiting chamber, or [[grass-seed-substrate]]
 - [[mushroom-fruiting-chambers]]
 - [[psilocybe-cubensis]]
 

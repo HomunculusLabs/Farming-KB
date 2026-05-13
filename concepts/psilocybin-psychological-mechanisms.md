@@ -17,7 +17,7 @@ sources:
 
 # Psilocybin Psychological Mechanisms
 
-The neuroscience of how psilocybin produces its [[hallucinogenic-mushroom-acute-psychological-effects-and-bad-trips]], including [[default-mode-network-and-ego-dissolution]] suppression, [[serotonin-receptor-interference-psychedelic-mechanism]] activity, and neuroplasticity.
+The neuroscience of how psilocybin produces its psychological effects, including Default Mode Network suppression, serotonin receptor activity, and neuroplasticity.
 
 ## Overview
 
@@ -30,7 +30,7 @@ The primary mechanism of action is agonism (activation) of the **serotonin 5-HT2
 - Psilocin binds to 5-HT2A receptors with high affinity, mimicking serotonin's action but producing far more pronounced effects.
 - 5-HT2A receptors are densely concentrated in layer V of the prefrontal cortex, an area critical for executive function, self-awareness, and the integration of sensory information.
 - The receptor activation triggers a cascade of downstream effects including changes in gene expression, neuronal excitability, and the release of glutamate (the brain's primary excitatory neurotransmitter).
-- This receptor is the same target as LSD, DMT, and mescaline, which is why these substances produce qualitatively similar effects despite different [[plants-of-the-gods-chemical-structures-hallucinogens]].
+- This receptor is the same target as LSD, DMT, and mescaline, which is why these substances produce qualitatively similar effects despite different chemical structures.
 
 ## Default Mode Network Suppression
 
@@ -69,10 +69,10 @@ Robin Carhart-Harris and colleagues have proposed that the brain under psychedel
 
 ## Therapeutic Implications
 
-The combination of DMN suppression, increased connectivity, and neuroplasticity explains why psilocybin can produce rapid and lasting [[cbd-therapeutic-effects]]:
+The combination of DMN suppression, increased connectivity, and neuroplasticity explains why psilocybin can produce rapid and lasting therapeutic effects:
 
 1. Ego dissolution allows patients to step outside their rigid self-narrative
-2. Increased connectivity allows novel perspectives and [[blesching-cannabis-emotional-processing-expansive-constricting-emotions]]
+2. Increased connectivity allows novel perspectives and emotional processing
 3. Neuroplasticity creates a window for lasting change in thought patterns
 
 See [[psilocybin-therapeutic-applications]] for specific clinical applications.

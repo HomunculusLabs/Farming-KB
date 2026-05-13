@@ -12,17 +12,15 @@ tags: [cannabis]
 
 ## Overview
 
-Anxiety disorders and post-traumatic stress disorder (PTSD) represent significant areas of cannabinoid therapeutic research documented in the [[blesching-cannabis-epinephrine-norepinephrine-endocannabinoid-system]] (ECS) playing a modulatory role in fear, [[cannabis-health-index]] documents several key connections:
+Anxiety disorders and post-traumatic stress disorder (PTSD) represent significant areas of cannabinoid therapeutic research documented in the [[cannabis-health-index]] documents several key connections:
 
 - Exposure to abuse resulting in PTSD was identified as a significant co-factor (13.7%) in developing anorexia nervosa in a study of 753 female patients
-- Epigenetic research demonstrates that horrific emotions experienced during traumatic events produce physiological changes that can be passed to the [[nabilone]] are approved by the FDA for treating conditions including PTSD. Studies on cancer patients receiving Nabilone showed improvements in anxiety, depression, insomnia, and [[cannabis-health-index]] identifies anxiety as an aggravating factor in numerous conditions:
+- Epigenetic research demonstrates that horrific emotions experienced during traumatic events produce physiological changes that can be passed to the [[cannabis-health-index]] identifies anxiety as an aggravating factor in numerous conditions:
 
 - **Gastroesophageal reflux disease (GERD)**: Introduction of anxiety increases acid-induced esophageal hyperalgesia; anxiety intervention is recommended
 - **Hypertension**: Anxiety and depression confirmed as predictive signs for future development of hypertension
 - **Insomnia**: Insomnia may produce symptoms of anxiety, creating a reinforcing cycle
-- **Fibromyalgia**: Fibromyalgia comorbidities include stress-related disorders such as PTSD, [[harlequin]]
-
-- [[acdc]]
+- **Fibromyalgia**: Fibromyalgia comorbidities include stress-related disorders such as PTSD, [[acdc]]
 ## Practical Applications
 
 Cannabis Anxiety and PTSD Treatment has a range of practical applications that make it relevant to
@@ -97,8 +95,6 @@ through generations to modern scientific approaches, the evolution continues
 to inform current best practices and research directions.
 
 ## See Also
-- [[doc]]
 - [[det]]
-- [[acdc]]
 - [[harlequin]]
 - [[nabilone]]

@@ -7,24 +7,7 @@ type: concept
 # Hallucinogenic plants|Plants in Primitive Societies
 
 > Hallucinogens permeate nearly every aspect of life in primitive societies.
-> — R.E. Schultes, *A Golden Guide to [[plants-of-the-gods-geography-hallucinogenic-plants]]* (1976)
-
-## Overview
-
-- Hallucinogenic plants have been used by humans for thousands of years,
-  likely since the earliest days of plant gathering
-- In primitive societies, hallucinogens are woven into the fabric of daily
-  existence, touching virtually every domain of life
-- They are considered sacred, powerful, and indispensable to cultural and
-  spiritual continuity
-- Their fantastic effects may even have suggested the very concept of deity
-  to early humans
-
-## Pervasiveness in Primitive Life
-
-Hallucinogens permeate nearly every aspect of life in aboriginal cultures:
-
-- **Health and sickness** — central to [[blesching-cannabis-healing-practices-setting-intention-affirmations]] and disease
+> — R.E. Schultes, *A Golden Guide to [[blesching-cannabis-healing-practices-setting-intention-affirmations]] and disease
   conceptualization
 - **Peace and war** — used to divine enemy plans, ensure victory, and
   ritualize conflict
@@ -38,41 +21,7 @@ Hallucinogens permeate nearly every aspect of life in aboriginal cultures:
 ## Medical and Religious Uses
 
 - Medical and religious applications are particularly important across
-  [[ethnobotanical-use-of-sacred-mushrooms-in-indigenous-cultures]]
-- Aboriginal peoples attribute sickness and health to the working of
-  **spirit forces**
-- A "medicine" that can transport one to the spirit world is valued above
-  one with purely physical effects
-- Hallucinogens thus serve a dual role: as pharmacological agents and as
-  portals to the supernatural
-- This integration of medicine and spirituality is fundamentally different
-  from the Western separation of the two domains
-
-### As Mediators Between Man and Gods
-
-- Psychic and supernatural powers have been attributed to hallucinogens
-  across cultures
-- These plants are integral to primitive religions worldwide
-- They serve as **mediators between humans and deities**
-- The prophecies of the Oracle of Delphi are thought to have been induced
-  through hallucinogenic substances
-- This pattern recurs across continents and millennia
-
-## Initiation Rites
-
-Hallucinogenic plants are basic to adolescent initiation rituals in many
-cultures:
-
-- **Algonquin Indians (North America)**
-  - Administered *wysoccan*, an intoxicating medicine, to young men
-  - Candidates became violently deranged for ~20 days, losing all memory
-  - The intent: start manhood by completely forgetting boyhood — a total
-    psychological rebirth
-- **Iboga Root (Gabon, Central Africa)**
-  - Used in initiation ceremonies among Gabonese peoples
-  - Induces intense visionary experiences confronting ancestral spirits
-- **Caapi / Ayahuasca (Amazon Basin)**
-  - [[ayahuasca-and-banisteriopsis-caapi]] prepared as a brew
+  [[ayahuasca-and-banisteriopsis-caapi]] prepared as a brew
   - Used in initiation rituals throughout the Amazon
   - Brings visions of the spirit world to new initiates
 
@@ -100,9 +49,7 @@ cultures:
 ### Mexican Indigenous Practices
 
 - Modern Mexican Indians value certain **mushrooms** as sacraments
-- **[[sacred-mexican-morning-glories-ololiuqui-and-tlitliltzin]]** and **peyote** are used to predict the future,
-  diagnose and cure disease, and placate good and evil spirits
-- **Mixtecs of Mexico** eat puffballs (*[[lycoperdon-mixtecorum]]* and
+- **[[lycoperdon-mixtecorum]]* and
   *L. marginotum*) to hear voices from heaven answering questions
 
 ### South American Shamanic Practices

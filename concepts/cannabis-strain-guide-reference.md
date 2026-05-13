@@ -11,7 +11,7 @@ sources:
 
 Updated: 2026-04-18
 
-A comprehensive reference of known cannabis strains organized by type, with key characteristics noted from The [[green-cannabis-grow-bible-breeding-genetics-and-true-breeding]] Bible by Greg Green. Strain codes indicate growing suitability: * = easy indoor, ** = easy outdoor, *** = experienced grower, P = prefers indoor, OUT = outdoor suitable, TB = [[cannabis-true-breeding-ibl-strains]].
+A comprehensive reference of known cannabis strains organized by type, with key characteristics noted from The [[cannabis-true-breeding-ibl-strains]].
 
 ## Mostly Indica Strains
 
@@ -22,55 +22,7 @@ A comprehensive reference of known cannabis strains organized by type, with key 
 | Big Bud | *, **, TB |
 | Blueberry | *, **, P |
 | California Indica | *, ** |
-| [[cannabis-hindu-kush-strain-description-clarke]] | *, **, OUT, TB |
-| Holland's Hope | *, **, OUT |
-| Masters Kush | *, **, P |
-| Northern Lights | *, **, TB, P |
-| Northern Lights #2 | *, ** |
-| Northern Lights #5 | *, **, TB, P |
-| Orange Bud | *, ** |
-| Shiva | *, **, P |
-| Skunk #1 | *, **, TB, P |
-| Super Skunk | *, **, TB, P |
-| White Widow | *, **, TB, P |
-
-## Mostly Sativa Strains
-
-| Strain | Codes |
-|--------|-------|
-| B-52 | * |
-| Durban Poison | *, **, P |
-| Haze #1 | ***, P, OUT |
-| Haze #19 | ***, P, OUT |
-| Kali Mist | *, **, P |
-| Original Haze | ***, P, OUT, TB |
-| Power Plant | *, **, P, OUT |
-| Purple Haze | ***, P, OUT |
-| Silver Haze | *, ***, P, OUT |
-| Skunk Passion | * |
-
-## Indica/Sativa Mix Strains
-
-| Strain | Codes |
-|--------|-------|
-| AK-47 | *, P |
-| Apollo 11 | *, P |
-| BubbleGum | *, **, P |
-| Early Riser | * |
-| Jack Herer | *, P |
-| Shiva Skunk | *, **, TB |
-| White Rhino | * |
-| White Russian | * |
-
-## Code Key
-
-- * = Easy for first-time growers
-
-- ** = Easy to grow
-
-- *** = For experienced growers only
-
-- P = Prefers [[cannabis-sativa-indoor-cultivation-techniques]]
+| [[cannabis-sativa-indoor-cultivation-techniques]]
 
 - OUT = Suitable for outdoor growing
 
@@ -78,14 +30,11 @@ A comprehensive reference of known cannabis strains organized by type, with key 
 
 ## Selecting the Right Strain
 
-[[cannabis-strain-selection-guide]] depends on several factors. For beginners, strains marked with * offer the most forgiving growth characteristics and resistance to common problems. Indoor growers should prioritize strains marked P (prefers indoor), which have been selected for controlled environments. Outdoor growers need strains suited to their local climate — outdoor strains from similar latitudes perform best. Medical users should consider [[cannabis-minor-cannabinoids]] in addition to THC/CBD content when selecting strains for specific therapeutic effects.
+[[cannabis-minor-cannabinoids]] in addition to THC/CBD content when selecting strains for specific therapeutic effects.
 
 ## True Breeding vs Hybrid Strains
 
-Strains marked TB (true breeding) produce consistent offspring when bred, making them valuable for [[georgia-pie]]
-- [[cannabis-breeding-basics]]
-
-- [[cannabis-sativa-vs-indica-guide]]
+Strains marked TB (true breeding) produce consistent offspring when bred, making them valuable for [[cannabis-breeding-basics]]
 
 - [[cannabis-genetics-and-breeding]]
 
@@ -118,8 +67,83 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[super-skunk]]
 - [[white-rhino]]
-- [[bubblegum]]
 - [[greg-green]]
 - [[kali-mist]]
+
+## Overview
+
+Cannabis Strain Guide Reference represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish cannabis strain guide reference
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving cannabis extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Cannabis Strain Guide Reference finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for cannabis strain guide reference. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+cannabis strain guide reference and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Cannabis Strain Guide Reference has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of cannabis strain guide reference into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.

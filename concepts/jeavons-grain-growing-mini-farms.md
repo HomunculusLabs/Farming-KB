@@ -11,10 +11,7 @@ type: concept
 
 # Grain Growing in Mini-Farms
 
-Growing grains is a central component of the [[jeavons-grow-biointensive-method-overview]]
-mini-farm system. Grains serve as dual-purpose crops — providing both
-nutritious food and large amounts of carbonaceous material for the
-[[jeavons-tree-cane-crops]] like potatoes. Each
+Growing grains is a central component of the [[jeavons-tree-cane-crops]] like potatoes. Each
 garden should optimally contain some of both kinds.
 
 ### Weight-Efficient Calorie Crops
@@ -77,49 +74,13 @@ continuous cropping of them has been demonstrated to wear out the
 soil.
 
 It is essential to develop and work within natural sustainable
-cycles. The [[jeavons-seed-saving-and-propagation]] is essential for
-true self-sufficiency and reduces dependence on external seed sources.
-For information on growing open-pollinated seeds in the smallest area
-while preserving [[biodiversity-fungal-genetic-diversity]], see Ecology Action's Self-Teaching
+cycles. The [[biodiversity-fungal-genetic-diversity]], see Ecology Action's Self-Teaching
 Mini-Series Booklet "Growing to Seed."
 
 ## Integration with the Mini-Farm System
 
 ### Compost Crop Role
 
-Grain crops contribute significantly to the [[mushroom-cultivator-compost-pile-management]]. The straw
-
-## Practical Applications
-
-The principles and techniques discussed here have wide-ranging applications
-across multiple disciplines and contexts. Practitioners and researchers
-continue to explore new ways to integrate these concepts into modern practice,
-adapting traditional knowledge to contemporary challenges and opportunities.
-
-## Key Considerations
-
-Several important factors influence the effectiveness and outcomes described
-in this topic. Understanding these considerations helps practitioners make
-informed decisions and avoid common pitfalls. Environmental conditions,
-timing, and material selection all play critical roles.
-
-## Historical Context
-
-The historical development of this subject reflects centuries of accumulated
-knowledge and practical experience. From traditional methods passed down
-through generations to modern scientific approaches, the evolution continues
-to inform current best practices and research directions.
-
-## Common Challenges
-
-Practitioners frequently encounter several challenges when working with
-these concepts. Climate variability, resource limitations, and knowledge
-gaps can all affect outcomes. Addressing these challenges requires patience,
-observation, and a willingness to adapt approaches based on results.
-
-## See Also
-- [[jeavons-master-planning-mini-farms]]
-- [[small-scale-grain-growing]]
+Grain crops contribute significantly to the [[jeavons-master-planning-mini-farms]]
 - [[no-till-grain-growing-methods]]
-- [[no-till-grain-growing]]
 - [[jeavons-shade-netting-mini-greenhouses]]

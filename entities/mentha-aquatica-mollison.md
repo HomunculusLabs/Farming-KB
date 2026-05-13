@@ -25,7 +25,7 @@ Mentha aquatica, commonly known as water mint, is a perennial aquatic and semi-a
 
 - Water mint grows 30-90 cm tall with characteristic mint-scented foliage and terminal flower heads bearing lilac-pink flowers.
 - Native to Europe, North Africa, and parts of Asia; widely naturalised in temperate regions worldwide.
-- Mollison lists Mentha aquatica alongside Alisma plantago-aquatica, Juncus effusus, Schoenoplectus lacustris, Spartina spp., and Iris pseudocorus as species active in pathogen removal from polluted water.
+- Mollison lists Mentha aquatica alongside Alisma plantago-aquatica, [[juncus-effusus]], Schoenoplectus lacustris, Spartina spp., and Iris pseudocorus as species active in pathogen removal from polluted water.
 - After water passes through reed beds containing Mentha aquatica and associated species, low to zero populations of E. coli, coliform bacteria, Salmonella, and Enterococci are recorded.
 - Virus and worm eggs are also eliminated through these biological treatment systems.
 - Like other mints, Mentha aquatica spreads vigorously by creeping rhizomes and stolons, making it effective at colonizing treatment wetlands.
@@ -85,8 +85,6 @@ all influence the optimal approach to implementation.
 
 ## See Also
 
-- [[gleditsia-aquatica]]
 - [[mentha-piperita]]
-- [[mentha-pulegium]]
 - [[mentha-spicata]]
 - [[mentha-suaveolens]]

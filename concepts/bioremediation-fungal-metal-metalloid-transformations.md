@@ -13,14 +13,7 @@ type: concept
 Fungi can transform metals, metalloids, and organometallic compounds
 through reduction, methylation, and dealkylation reactions. These
 transformations modify the mobility and toxicity of contaminants, making
-them important mechanisms in [[heavy-metal-bioremediation]]. Understanding these processes is essential for
-developing fungal-based strategies for treating contaminated land and
-water.
-
-## Overview of Transformation Mechanisms
-
-Several fungal species, both unicellular and filamentous, can transform
-[[staycare-fungal-biomethylation-of-metals-and-metalloids]] through enzymatic and non-enzymatic processes.
+them important mechanisms in [[staycare-fungal-biomethylation-of-metals-and-metalloids]] through enzymatic and non-enzymatic processes.
 These transformations are significant because changing the chemical form
 of a contaminant can alter its solubility, volatility, bioavailability,
 and toxicity. The three principal transformation mechanisms are
@@ -30,9 +23,7 @@ reduction, methylation (biomethylation), and dealkylation.
 
 Reduction reactions convert metals from higher to lower oxidation states,
 often resulting in precipitation and immobilization. Silver(I) reduction
-to metallic silver(0) during [[brassinosteroid-fungal-growth-promotion]] on silver nitrate media
-produces blackened colonies with metallic silver precipitated in and
-around [[alpha-1-3-glucan-fungal-pathogen-cell-walls]]. Both enzymatic and non-enzymatic copper(II)-reducing
+to metallic silver(0) during [[alpha-1-3-glucan-fungal-pathogen-cell-walls]]. Both enzymatic and non-enzymatic copper(II)-reducing
 systems have been purified from Debaryomyces hansenii cell walls.
 
 Reductive processes are integral to high-affinity metal transport. The
@@ -43,29 +34,7 @@ is less well characterized than the bacterial mercuric reductase pathway.
 
 ## Metalloid Reduction
 
-[[fungal-metalloid-transformation-methylation-volatilization]] reduction is well documented. Selenate and selenite
-reduction to elemental selenium produces red-colored colonies and occurs
-in numerous fungal species, with both extracellular and intracellular
-deposition demonstrated. Tellurite reduction to elemental tellurium
-produces black or dark grey colonies. In Fusarium sp. and Penicillium
-citrinum, transmission electron microscopy revealed large black
-granules deposited in vacuoles corresponding to tellurite reduction.
-
-These reductions result in immobilization and detoxification since the
-elemental forms are less soluble and less toxic than the oxyanion
-precursors. The precipitation of amorphous elemental selenium or
-tellurium effectively removes these contaminants from solution.
-
-## Biomethylation and Volatilization
-
-Biomethylation is the biological addition of methyl groups to
-metalloids, frequently resulting in the production of volatile
-derivatives that can be removed from contaminated sites. The biochemical
-pathway for fungal production of trimethylarsine from arsenite was first
-suggested by Challenger in 1945. The pathway involves transfer of methyl
-groups as carbonium ions from S-adenosylmethionine.
-
-Several fungi including [[gliocladium-roseum]], Candida humicola, and
+[[gliocladium-roseum]], Candida humicola, and
 Penicillium species can convert monomethylarsenic acid to trimethylarsine.
 Numerous fungi convert selenite and selenate to dimethylselenide and
 dimethyldiselenide. Inorganic forms of selenium are methylated more
@@ -118,8 +87,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[doc]]
 - [[trimethylarsine]]
-- [[det]]
 - [[brassinosteroid]]
 - [[dighton-fungal-heavy-metal-accumulation-bioremediation]]

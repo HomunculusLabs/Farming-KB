@@ -23,22 +23,10 @@ erosion resistance, and habitat for other soil organisms.
 Fungal hyphae physically enmesh soil particles, binding them into
 aggregates. As hyphae grow through soil, they:
 
-- Wrap around mineral particles and [[hamilton-composting-and-organic-matter-management]] fragments
-- Create a three-dimensional network that resists disaggregation
-  by water
-- Bridge between microaggregates to form larger, more stable
-  macroaggregates
-- Produce hyphal cords and rhizomorphs that stabilize soil structure
-  over longer timescales
-
-The tensile strength of [[fungal-hyphae-and-mycelium]] their extensive branching
+- Wrap around mineral particles and [[fungal-hyphae-and-mycelium]] their extensive branching
 patterns make them more effective than bacterial filaments at soil
 stabilization. A single fungal mycelium can extend centimeters to
-meters through soil, connecting distant particles [[mollison-humus-and-organic-matter-in-soils]].
-
-### Rhizomorph and Cord Systems
-
-Cord-forming basidiomycetes (*[[phanerochaete-velutina]]*, *Phallus
+meters through soil, connecting distant particles [[phanerochaete-velutina]]*, *Phallus
 impudicus*) produce linear mycelial cords that:
 
 - Anchor soil at the surface to deeper layers
@@ -47,14 +35,6 @@ impudicus*) produce linear mycelial cords that:
 - Maintain structural integrity during wetting-drying cycles
 
 These cord systems persist for months to years, providing long-term
-[[comparison-silicon-vs-calcium-in-plant-defense-and-structural-support]] even after the fungus becomes metabolically
-inactive. The woody nature of mature cords makes them resistant to
-degradation by other soil organisms.
-
-## Biochemical Mechanisms
-
-### Glomalin
-
 [[comparison-soil-food-web-vs-arbuscular-mycorrhizal-fungi]] fungi produce glomalin, a glycoprotein that
 acts as a biological glue:
 
@@ -70,7 +50,7 @@ acts as a biological glue:
 Glomalin-related soil protein (GRSP) contributes significantly to
 soil carbon pools. Estimates suggest glomalin accounts for 27% of
 total soil carbon in some ecosystems, representing a major long-term
-[[holmgren-soil-humus-carbon-storage-rebuilding]] pathway mediated by [[arbuscular-mycorrhizal-fungi]].
+[[arbuscular-mycorrhizal-fungi]].
 
 ### Polysaccharide Exudates
 
@@ -118,8 +98,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[fungal-hyphae]]
 - [[composting]]
-- [[mycelium]]
 - [[decomposition]]
 - [[silicon]]

@@ -48,25 +48,17 @@ Terpineol is classified as a tertiary alcohol, meaning the hydroxyl group is bon
 
 ## Natural Sources
 
-Terpineol occurs naturally in a broad range of aromatic plants. Major sources include lilac flowers ([[syringa-vulgaris]]), pine trees (Pinus species), and tea tree ([[melaleuca-alternifolia]]) essential oil.
+Terpineol occurs naturally in a broad range of aromatic plants. Major sources include lilac flowers ([[melaleuca-alternifolia]]) essential oil.
 
 It is also found in significant concentrations in cajeput oil, petitgrain oil, and neroli oil. The compound frequently appears as a dehydration product of terpin hydrate during essential oil distillation.
 
-In cannabis, terpineol is a minor but notable terpene found in some cultivars with high [[pinene]] content. It often co-occurs with [[myrcene]] and [[limonene]] in the same plant profiles.
-
-Other notable [[dmt-botanical-sources-pharmacology]] include eucalyptus leaves, sage, and rosemary. Tea tree oil typically contains 1–8% terpineol depending on chemotype and harvest conditions.
+In cannabis, terpineol is a minor but notable terpene found in some cultivars with high [[myrcene]] and [[dmt-botanical-sources-pharmacology]] include eucalyptus leaves, sage, and rosemary. Tea tree oil typically contains 1–8% terpineol depending on chemotype and harvest conditions.
 
 Concentration varies widely across species: pine needle oil can contain up to 5% terpineol, while some tea tree chemotypes exceed 10%. Geographic origin and harvest timing significantly affect yield.
 
 Biosynthesis proceeds via the mevalonate pathway in most plants, producing geranyl pyrophosphate as the direct precursor. Cyclization by terpene synthase enzymes generates the terpinyl cation intermediate that yields terpineol.
 
-Seasonal variation affects terpineol content significantly in many species. Spring-harvested pine needles show higher terpineol concentrations than autumn samples due to increased [[arbuscule-isolation-metabolic-activity-assays]].
-
-## Pharmacology
-
-Terpineol exhibits a range of documented bioactivities. Studies show notable anti-inflammatory effects through suppression of pro-inflammatory cytokines including TNF-α and IL-6.
-
-The compound demonstrates antimicrobial activity against Gram-positive bacteria and some fungi. Research indicates minimum inhibitory concentrations (MIC) in the range of 0.5–2.0 mg/mL against [[staphylococcus-aureus]] strains.
+Seasonal variation affects terpineol content significantly in many species. Spring-harvested pine needles show higher terpineol concentrations than autumn samples due to increased [[staphylococcus-aureus]] strains.
 
 Antioxidant properties have been confirmed through DPPH and ABTS radical scavenging assays. Terpineol also shows antinociceptive (pain-relieving) effects in rodent models at doses of 25–50 mg/kg.
 

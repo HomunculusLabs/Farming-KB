@@ -11,32 +11,9 @@ updated: 2026-04-26
 
 ## Core Philosophy
 
-Coleman's winter-harvest system at Four Season Farm is built on the insight that fresh vegetables can be produced year-round [[query-how-do-i-grow-figs-in-cold-climates]] without supplemental heating. The system has three interlocking components:
-
-1. **Cold-hardy vegetables** — crops that tolerate cold temperatures and often have lower light requirements than warm-season crops
-2. **[[query-what-is-succession-planting-and-how-do-i-plan-a-succession-planting-schedule]]** — sowing vegetables multiple times from late summer through late fall to provide continual harvest
-3. **[[coleman-protected-cultivation]]** — vegetables grown under cover (unheated greenhouses with inner row-cover layers)
-
-The synergy of these three well-known components creates a system greater than the sum of its parts. Coleman emphasizes that the eating quality of cold-hardy vegetables is unrivaled during fall, winter, and spring — they reach higher perfection without the heat stress of summer.
-
-## The "Back Side of the Calendar"
-
-Coleman frames winter as not a dead season but the unique season of a small-farm model. The crops sold during winter are not leftovers from summer cultivation; they are part of a deliberate cycle of year-round production that emphasizes different crops in their respective seasons. The guiding criteria are simplicity, low external inputs, and high-quality outputs.
-
-## The Movable Greenhouse Concept
-
-The movable greenhouse is a revival of an old European practice. The first mobile greenhouse was built in 1898 in England — a large glasshouse on railroad wheels running on steel rails. Coleman has adapted this concept to inexpensive high tunnels.
-
-### Key Advantages
-
-- **No summer cooling needed**: Winter crops are sown outdoors in the field where the greenhouse will move. Meanwhile, the greenhouse continues protecting heat-loving crops (tomatoes, peppers, cucumbers, eggplants, melons, sweet potatoes). The greenhouse moves over winter crops when the summer season ends (mid-to-late October in coastal Maine).
-- **Equivalent of 14 months per year**: By establishing a winter crop two months before it needs protection and leaving the warm-season crop growing two months longer, growers get 14 months of greenhouse use every 12 months.
-- **Pest [[query-how-to-make-and-use-plant-based-foliar-sprays-for-pest-and-disease-prevention]]**: For one year out of every two, growing beds are uncovered, exposing soil to the cleansing powers of sun, rain, wind, and snow. This prevents the buildup of pests, diseases, and excess soil nutrients that plague permanent greenhouses.
-- **Green manure opportunity**: During the uncovered year, growers can plant long-term, deep-rooting leguminous [[green-manure-crops]] for 10–13 months, dramatically improving soil fertility.
-
-### Historical Context
-
-Commercial vegetable growers originally developed movable greenhouses to solve greenhouse soil-sickness problems. The traditional solutions — removing and replacing soil to 16 inches deep or sterilizing with steam — were expensive and disruptive. The movable concept fell into disuse when chemical sterilization became common. Organic growers have rediscovered [[mobile-greenhouses]] because of their enormous potential for soil health.
+Coleman's winter-harvest system at Four Season Farm is built on the insight that fresh vegetables can be produced year-round [[query-what-is-succession-planting-and-how-do-i-plan-a-succession-planting-schedule]]** — sowing vegetables multiple times from late summer through late fall to provide continual harvest
+3. **[[query-how-to-make-and-use-plant-based-foliar-sprays-for-pest-and-disease-prevention]]**: For one year out of every two, growing beds are uncovered, exposing soil to the cleansing powers of sun, rain, wind, and snow. This prevents the buildup of pests, diseases, and excess soil nutrients that plague permanent greenhouses.
+- **Green manure opportunity**: During the uncovered year, growers can plant long-term, deep-rooting leguminous [[mobile-greenhouses]] because of their enormous potential for soil health.
 
 Coleman calls the movable greenhouse "the best new gardening idea of the twenty-first century" — or more accurately, a "rediscovered new idea."
 
@@ -74,11 +51,7 @@ The winter-harvest system was designed to solve a real economic problem: extendi
 
 ## Wind Protection and Microclimate
 
-Coleman emphasizes that wind is a greater enemy of winter crops than cold temperatures alone. Cold winter winds strip moisture from plant tissues and increase [[bloomfield-mushroom-evaporative-cooling-fungal-frigidity]], effectively lowering the temperature experienced by the crop. The double-layer system (greenhouse plus row cover) provides excellent wind protection, but siting the greenhouse to take advantage of natural windbreaks — hedgerows, buildings, or topographic features — further reduces heat loss. On Four Season Farm, Coleman positioned his greenhouses with careful attention to prevailing wind directions, using the landscape itself as a first line of defense against heat loss.
-
-## Managing Snow Load on Winter Greenhouses
-
-Snow accumulation on greenhouse structures is both a risk and a benefit. The risk is structural failure if snow loads exceed the design capacity of the frame — gothic-style arches shed snow more effectively than flat or quonset shapes. The benefit is insulation: a blanket of snow on the [[coleman-wiggle-wire-channel-greenhouse-plastic-attachment-system]] adds significant R-value, further reducing heat loss during the coldest periods. Coleman recommends monitoring snow accumulation and gently removing it from structures that show signs of stress, but otherwise allowing snow to remain as a natural insulating layer. The thermal mass of snow against the greenhouse can raise interior temperatures by several degrees compared to an exposed structure.
+Coleman emphasizes that wind is a greater enemy of winter crops than cold temperatures alone. Cold winter winds strip moisture from plant tissues and increase [[coleman-wiggle-wire-channel-greenhouse-plastic-attachment-system]] adds significant R-value, further reducing heat loss during the coldest periods. Coleman recommends monitoring snow accumulation and gently removing it from structures that show signs of stress, but otherwise allowing snow to remain as a natural insulating layer. The thermal mass of snow against the greenhouse can raise interior temperatures by several degrees compared to an exposed structure.
 
 ## Labor Efficiency and Harvest Planning
 
@@ -110,8 +83,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[succession-planting]]
 - [[dandelion]]
-- [[sterilization]]
 - [[coleman-winter-harvest-planting-schedule]]
 - [[coleman-winter-harvest-washing-and-packing]]

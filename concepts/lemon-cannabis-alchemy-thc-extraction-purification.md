@@ -11,8 +11,7 @@ type: concept
 
 # Extraction and Purification of Marijuana and Hashish Oils
 
-Chapter 1 of *[[lemon-cannabis-alchemy-advanced-refinement-techniques]]* by [[lemon-cannabis-alchemy-hashing-and-extraction]]
-- [[lemon-cannabis-alchemy-isomerization]]
+Chapter 1 of *[[lemon-cannabis-alchemy-hashing-and-extraction]]
 - [[lemon-cannabis-alchemy-thc-acetate]]
 ## Background and Context
 

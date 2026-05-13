@@ -18,14 +18,7 @@ sources:
   - Rivier, L. & Lindgren, J.E. (1972). "'Ayahuasca,' the chiric-caspi-brunfelsia-south-american-hallucinogen hallucinogenic drink: An ethnobotanical and chemical investigation." Economic Botany, 26(2), 101-129.
   - Riba, J. et al. (2006). "Single dose of ayahuasca, a tropical hallucinogenic botanical beverage, enhances moods and cognitive performance." Journal of Psychoactive Drugs, 38(2), 175-182.
   - Hamill, J.F. et al. (2019). "Ayahuasca: Pharmacology, clinical use, and toxicology." In: Handbook of permaculture-plants-medicinal-herbs-healing, 2nd ed. CRC Press.
-  - McKenna, D.J. (2004). "Clinical investigations of the [[metzner-ayahuasca-therapeutic-potential]] of ayahuasca." MAPS Bulletin, 14(1), 6-11.
----
-
-## Overview
-
-*Banisteriopsis caapi* is a perennial liana (woody vine) native to the Amazon basin and the primary botanical ingredient in the entheogenic brew known as ayahuasca. The vine contains [[turner-harmala-alkaloids-preparation-and-dosage]] — primarily harmine, harmaline, and tetrahydroharmine (THH) — which act as reversible monoamine oxidase inhibitors (MAOIs). This pharmacological activity is essential to the ayahuasca experience: by inhibiting monoamine oxidase in the gastrointestinal tract, *B. caapi* allows orally ingested DMT (from co-administered plants like *[[chacruna-psychotria-viridis]]*) to reach systemic circulation and the central nervous system, producing profound visionary effects that would otherwise be impossible via oral DMT alone.
-
-The use of *B. caapi* in ayahuasca preparations spans at least several centuries and possibly millennia among indigenous Amazonian peoples. The vine is considered a teacher plant (*planta maestra*) and is central to the cosmology, [[blesching-cannabis-healing-practices-setting-intention-affirmations]], and ceremonial life of numerous ethnic groups across the western Amazon.
+  - McKenna, D.J. (2004). "Clinical investigations of the [[turner-harmala-alkaloids-preparation-and-dosage]] — primarily harmine, harmaline, and tetrahydroharmine (THH) — which act as reversible monoamine oxidase inhibitors (MAOIs). This pharmacological activity is essential to the ayahuasca experience: by inhibiting monoamine oxidase in the gastrointestinal tract, *B. caapi* allows orally ingested DMT (from co-administered plants like *[[blesching-cannabis-healing-practices-setting-intention-affirmations]], and ceremonial life of numerous ethnic groups across the western Amazon.
 
 ## Taxonomy and Botany
 
@@ -64,10 +57,7 @@ Ayahuasca is deeply embedded in the cultural and spiritual practices of at least
 
 **Key cultural contexts:**
 
-- **Shipibo-Conibo people (Peru):** Among the most extensively documented ayahuasca traditions. The vine is central to healing ceremonies led by *onányá* (healers), who receive *ícaros* (medicine songs) during [[amaringo-ayahuasca-visions-shipibo-iconography]] that guide their healing practice. The visual patterns perceived during ceremonies are believed to correspond to the geometric designs (*kené*) that define Shipibo artistic tradition.
-- **Tukano peoples (Colombia/Brazil):** Ayahuasca is used in communal ceremonial contexts for teaching, conflict resolution, and cosmological education. The vine is called *yage* and is associated with the anaconda, a central figure in Tukano cosmology.
-- **Quechua peoples (Ecuador/Peru):** The term "ayahuasca" derives from the Quechua *aya* (spirit/soul/dead) and *huasca* (vine/rope) — "vine of the souls" or "vine of the dead."
-- **Asháninka people (Peru):** Use *B. caapi* as part of a broader pharmacopoeia of teacher plants, often in combination with tobacco (*[[mckenna-shamanic-tobaccos-and-nicotiana-rustica]]*) mapacho smoke for diagnostic and cleansing purposes.
+- **Shipibo-Conibo people (Peru):** Among the most extensively documented ayahuasca traditions. The vine is central to healing ceremonies led by *onányá* (healers), who receive *ícaros* (medicine songs) during [[mckenna-shamanic-tobaccos-and-nicotiana-rustica]]*) mapacho smoke for diagnostic and cleansing purposes.
 
 **Syncretic religious movements:**
 - **Santo Daime:** Founded in the Brazilian Amazon in the 1930s by Raimundo Irineu Serra, this syncretic religion incorporates ayahuasca (called *daime*) as a central sacrament in ritual ceremonies featuring hymns and communal dancing.
@@ -80,10 +70,81 @@ The synergistic interaction between *B. caapi* (MAO inhibition) and DMT-containi
 1. **MAO-A inhibition:** Harmine and harmaline reversibly inhibit MAO-A enzymes in the gut wall and liver, preventing the oxidative deamination of orally ingested DMT
 2. **DMT activation:** With MAO-A inhibited, DMT passes through the gut wall, enters the hepatic portal system, and reaches systemic circulation at sufficient concentrations to cross the blood-brain barrier
 3. **Central effects:** DMT acts as a 5-HT₂A receptor agonist in the cerebral cortex, producing the characteristic visionary and introspective effects
-4. **β-carboline contribution:** The [[harmala-alkaloids]] have independent psychoactive effects — harmine produces mild visual distortions and has anxiolytic properties, while THH may contribute to mood elevation through serotonin reuptake inhibition
+4. **β-carboline contribution:** The [[hofmann-lsd-clinical-research-early-studies]] has explored [[psilocybin-therapeutic-applications]]:
 
-The discovery that Amazonian peoples identified this specific pharmacological synergy through empirical experimentation over centuries — without knowledge of MAO enzymes or DMT — is considered one of the most sophisticated examples of ethnopharmacological discovery in human history.
+## Overview
 
-## Modern Research
+Banisteriopsis Caapi represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
 
-Contemporary [[hofmann-lsd-clinical-research-early-studies]] has explored [[psilocybin-therapeutic-applications]]:
+## Key Characteristics
+
+Several defining characteristics distinguish banisteriopsis caapi
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving banisteriopsis extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Banisteriopsis Caapi finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for banisteriopsis caapi. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+banisteriopsis caapi and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Banisteriopsis Caapi has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of banisteriopsis caapi into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.

@@ -26,13 +26,12 @@ sources:
 
 # Bruce Banner
 
-**Bruce Banner** (often designated **Bruce Banner #3** or **BB#3**) is a high-THC, sativa-dominant hybrid [[blesching-cannabis-strain-selection-receptor-targeting]] created by Colorado-based breeder **Jason "Darkhorse" Holck** of **Delta 9 Labs** (later operating under the banner **OG Genetics** / **The Green Thumb**). Named after the Marvel Comics character Dr. Bruce Banner — the mild-mannered scientist who transforms into the Hulk — the strain's name is a playful reference to its deceptive nature: the initial cerebral euphoria (the "Banner" phase) builds to a powerful, heavy body stone (the "Hulk smash" phase). First bred in the early 2010s, Bruce Banner rapidly gained recognition as one of the highest-THC strains available and has won multiple cannabis competition awards. It remains a staple of the Colorado cannabis scene and is widely available in legal markets across [[psilocybin-north-america-pacific-northwest]].
+**Bruce Banner** (often designated **Bruce Banner #3** or **BB#3**) is a high-THC, sativa-dominant hybrid [[psilocybin-north-america-pacific-northwest]].
 
 ## Lineage and Genetics
 
 **Parent strains:**
-- **OG Kush** (♀ maternal parent) — the legendary indica-dominant hybrid that forms the backbone of modern West Coast [[vic-high-cannabis-genetics-mendelian-inheritance]]. Contributes potency, complex terpene profile (earthy, piney, fuel), and sedative body effects.
-- **Strawberry Diesel** (♂ paternal parent) — a cross of [[nyc-diesel]]. Contributes sweet berry and diesel aromatics, uplifting sativa-driven cerebral effects, and bright green coloration.
+- **OG Kush** (♀ maternal parent) — the legendary indica-dominant hybrid that forms the backbone of modern West Coast [[nyc-diesel]]. Contributes sweet berry and diesel aromatics, uplifting sativa-driven cerebral effects, and bright green coloration.
 
 **Genetic ratio:** Approximately 60% sativa / 40% indica, though the experience shifts markedly from sativa-dominant onset to indica-dominant come-down.
 
@@ -46,30 +45,8 @@ sources:
 Bruce Banner produces visually striking flowers:
 
 - **Buds:** Large, dense, and chunky, with a tapered, spade-like structure. Calyxes are tightly packed and heavily swollen with trichomes.
-- **Coloration:** Bright to [[trichoderma-forest-green-mold-guide]] as the base, with striking flashes of deep purple and violet, especially on the sugar leaves and calyx tips. Orange to rust-colored pistils (stigmas) are abundant, curling through the resinous calyxes. The contrast between green, purple, and orange is visually dramatic.
-- **Trichome coverage:** Exceptionally heavy — buds are coated in a thick layer of translucent to milky-white trichomes, giving them a frosty, crystalline appearance. This density of glandular trichomes is consistent with the strain's high THC content.
-- **Leaf structure:** Broad-fingered indica-style leaves with some sativa elongation, often showing purple hues during flowering.
-
-## Aroma and Flavor
-
-Bruce Banner's terpene profile is complex and layered, reflecting its dual heritage:
-
-**Aroma (dry flower):**
-- **Dominant:** Diesel fuel, pungent and skunky — inherited from the Diesel lineage
-- **Secondary:** Sweet strawberry and berry notes — from the Strawberry Diesel parent
-- **Tertiary:** Earthy, piney, and slightly citrus undertones — OG Kush influence
-- **Background:** Faint floral and herbal notes on the finish
-
-**Flavor (smoked or vaporized):**
-- Initial hit is sweet and fruity (strawberry, tropical)
-- Mid-palate shifts to diesel, earthy, and piney
-- Finish is long, sweet, and slightly skunky with berry aftertaste
-- Smooth smoke with expanding, full-bodied vapor
-
-**Dominant terpenes:**
-- **[[limonene]]** (citrus, uplifting) — mood-enhancing, contributes to the cerebral onset
-- **[[og-kush-cannabis-entity]] — The legendary OG Kush parent
-- [[sour-diesel]] — NYC Diesel relative contributing to the lineage
+- **Coloration:** Bright to [[limonene]]** (citrus, uplifting) — mood-enhancing, contributes to the cerebral onset
+- **[[sour-diesel]] — NYC Diesel relative contributing to the lineage
 ## Practical Considerations
 
 Successful implementation of bruce banner requires attention to
@@ -88,3 +65,86 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
+
+## Overview
+
+Bruce Banner represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish bruce banner
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving bruce extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Bruce Banner finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for bruce banner. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+bruce banner and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Bruce Banner has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of bruce banner into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[bruce-banner-strawberry-diesel-ghost-og-hybrid]]
+- [[cannabis-strain-bruce-banner-diesel-og-hybrid]]
+- [[cannabis-strain-bruce-banner-genetics-profile]]

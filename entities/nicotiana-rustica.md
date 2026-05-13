@@ -29,15 +29,7 @@ The genus Nicotiana comprises approximately 75 species, with N. rustica and N. t
 
 ## Morphology
 
-Nicotiana rustica is a hardy, annual [[medicinal-herb-growing]] to approximately 3 to 5 feet (1 to 1.5 meters) tall. The leaves are large, broad, and sticky with glandular hairs that exude a viscous, nicotine-containing resin. Compared to commercial tobacco (N. tabacum), N. rustica is a smaller, more robust plant with higher nicotine content.
-
-The leaves are ovate to broadly lanceolate, up to 20 inches (50 cm) long and 10 inches (25 cm) wide. The flowers are tubular, greenish-yellow to pale yellow, and are borne in terminal panicles. Each flower produces a capsule containing numerous tiny seeds. The entire plant has a strong, pungent odor characteristic of nicotine.
-
-## Distribution
-
-N. rustica is native to the Americas and has been widely cultivated and naturalized throughout the world. It grows from Mexico and the southwestern [[dmt-containing-plants-united-states-halpern]] through [[guzman-allen-gartz-neurotropic-fungi-central-america-caribbean]] and into South America. It has also been introduced to Europe, Africa, and Asia, where it has been adopted into local agricultural and spiritual traditions.
-
-In the Amazon basin, N. rustica is cultivated by indigenous communities and traded widely as an essential shamanic plant. In [[psilocybe-southeast-asia-pacific]], particularly Vietnam, it is grown commercially and known as Thuoc Lao. In Eastern Europe and Russia, it is cultivated as Makhorka and used for strong pipe tobacco.
+Nicotiana rustica is a hardy, annual [[dmt-containing-plants-united-states-halpern]] through [[psilocybe-southeast-asia-pacific]], particularly Vietnam, it is grown commercially and known as Thuoc Lao. In Eastern Europe and Russia, it is cultivated as Makhorka and used for strong pipe tobacco.
 
 ## Ethnobotanical Uses
 
@@ -49,7 +41,7 @@ The Huichol consider tobacco to be one of the most sacred plants, associated wit
 
 ### Amazonian Use
 
-In [[mckenna-food-gods-amazonian-shamanism-ayahuasca]], N. rustica (known as Mapacho) is considered one of the most important teacher plants. It is used in [[metzner-amazonian-ayahuasca-ceremonies-icaros-and-healing-methods]] as a purgative and protective agent. Shamans blow tobacco smoke over patients for healing and spiritual cleansing.
+In [[metzner-amazonian-ayahuasca-ceremonies-icaros-and-healing-methods]] as a purgative and protective agent. Shamans blow tobacco smoke over patients for healing and spiritual cleansing.
 
 Amazonian shamans use Mapacho in numerous ways:
 
@@ -68,7 +60,7 @@ N. rustica was known to the Aztecs and other Mesoamerican civilizations. It was 
 
 After European contact, N. rustica spread globally and was adopted into the traditional practices of many cultures. Notable examples include:
 
-- **Siberian indigenous peoples** — who use N. rustica alongside [[amanita-muscaria]] — Fly [[datura-stramonium]] — another solanaceous psychoactive plant
+- **Siberian indigenous peoples** — who use N. rustica alongside [[datura-stramonium]] — another solanaceous psychoactive plant
 - [[banisteriopsis-caapi]] — Ayahuasca, ceremonies in which Mapacho plays a key role
 ## Practical Considerations
 

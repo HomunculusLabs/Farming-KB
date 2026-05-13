@@ -8,7 +8,7 @@ type: concept
 
 ## Overview
 
-Earth-shaping (earthworks) in tropical environments serves dual purposes: managing the extreme water flows characteristic of heavy tropical rainfall, and creating optimal growing conditions for crops in soils that are often nutrient-poor and prone to degradation. Combined with comprehensive mulch strategies, earthworks form the physical foundation of productive tropical permaculture systems.
+Earth-shaping (earthworks) in tropical environments serves dual purposes: managing the extreme water flows characteristic of heavy tropical rainfall, and creating optimal growing conditions for crops in soils that are often nutrient-poor and prone to degradation. Combined with comprehensive mulch strategies, earthworks form the physical foundation of productive tropical [[permaculture]] systems.
 
 ## Earth-Shaping for Different Slopes and Conditions
 
@@ -37,7 +37,7 @@ On nearly level ground, two contrasting strategies apply depending on rainfall a
 
 ### Additional Earth-Shaping Techniques for Wet-Dry Tropics
 
-- **Chisel plow and sod-seeding** — minimum tillage techniques that preserve soil structure
+- **Chisel plow and [[sod-seeding]]** — minimum tillage techniques that preserve soil structure
 - **Low bunds for water retention** — small earthen banks across slopes
 - **Soakage pits** — capture runoff for slow infiltration
 - **Keyline techniques** — flood control using the keyline pattern of plowing and water distribution
@@ -64,41 +64,7 @@ This graduated system manages water from the wettest low zones through productiv
 When first establishing home gardens, mulch should be applied thickly — 20–25 cm (8–10 inches) deep. This heavy initial application:
 
 - Suppresses existing grasses and weeds
-- Begins [[building-soil]] organic matter immediately
-- Protects soil from rain splash erosion
-- Reduces nutrient leaching
-- Maintains soil moisture
-
-### Ongoing Mulch Sources
-
-Once the initial garden is established, mulch can be derived from:
-- **Green herbage** from within the garden
-- **Border plantings and windbreaks** — lemongrass, comfrey, and other barrier species
-- **Tree legumes** — *Gliricidia*, *Acacia*, *Prosopis*, and other hedgerow species
-- **Pioneer tree crops** — bananas, bamboo, and palms provide continuous mulch
-- **Aquatic weeds** — collected from bunds, ponds, and waterways
-
-### Coconut Husks and Fronds
-
-Coconut husks serve multiple purposes:
-- **Mulch for valued crops** such as vanilla orchids
-- **High potash value** when shredded with palm fronds
-- **Activated charcoal** — burn and steam to create filter charcoal
-- **Solid fuel** — useful where other fuel is scarce
-- **One drawback:** They hold small sections of water that can breed mosquitoes
-
-Shredded bark and broken shells are ideal mulches for ginger, turmeric, and vines.
-
-### Plastic Sheet Mulch
-
-Plastic sheet mulch has good effects on row crops:
-- Prevents rain splash and nutrient leaching
-- Condenses groundwater at night
-- Suppresses weed growth
-
-However, it is not recommended for remote village situations because:
-- It does not add humus to soils
-- It does not improve [[cation-exchange-capacity]]
+- Begins [[cation-exchange-capacity]]
 - It may release unwanted chemicals to the soil
 - It represents an external input that cannot be produced on-site
 
@@ -136,6 +102,5 @@ No crop or tree suited to a specific tropical locality has been found that does 
 
 ## See Also
 
-- [[mulching-guide]]
 - [[mulch-types-and-effects]]
 - [[green-manure]]

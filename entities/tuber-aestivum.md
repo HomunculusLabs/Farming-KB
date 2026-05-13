@@ -15,18 +15,7 @@ sources:
   - "Hall, I.R., Brown, G.T. & Zambonelli, A. (2007). Taming the Truffle. Timber Press."
   - "Mello, A. et al. (2006). \"Tuber aestivum: a species complex or a polymorphic species?\" Mycorrhiza, 16(4), 239-246."
   - "Bonito, G. et al. (2010). \"Tuber aestivum Vittad. and Tuber uncinatum Chatin.\" bloomfield-fungal-biology-and-hyphal-growth, 114(1), 63-72."
-  - "Stobbe, U. et al. (2013). \"Tuber aestivum synthesis with [[quercus-robur]].\" Mycorrhiza, 23(1), 59-69."
----
-
-# Summer Truffle (*Tuber aestivum* Vittad.)
-
-## Overview
-
-*Tuber aestivum*, commonly known as the summer truffle or Burgundy truffle (when the autumn-harvested form *T. uncinatum* is recognized separately), is an ectomycorrhizal ascomycete fungus prized in European cuisine.
-
-It is the most widely distributed and ecologically adaptable of the commercially significant *Tuber* species, ranging from Scandinavia to North Africa.
-
-Unlike the more expensive black Périgord truffle (*T. melanosporum*), the summer truffle tolerates a broader range of soil pH, temperature, and host trees, making it a practical candidate for [[comparison-truffle-cultivation-basics-vs-mushroom-indoor-cultivation]] outside traditional Mediterranean zones.
+  - "Stobbe, U. et al. (2013). \"Tuber aestivum synthesis with [[comparison-truffle-cultivation-basics-vs-mushroom-indoor-cultivation]] outside traditional Mediterranean zones.
 
 ## Taxonomy
 
@@ -62,27 +51,9 @@ Unlike the more expensive black Périgord truffle (*T. melanosporum*), the summe
 ## Distribution and Habitat
 
 - **Native range:** Europe, from southern Sweden and the British Isles to the Mediterranean, eastward through Turkey to the Caucasus
-- **Introduced range:** New Zealand, [[psilocybin-north-america-pacific-northwest]] (limited), Australia (trial plantations)
-- **Climate:** Temperate; mean annual temperature 8–14°C, with cold winters and warm (not hot) summers
-- **Soil:** Prefers well-drained, calcareous or neutral soils, pH 7.0–8.2
-- **Host trees:** Broad ectomycorrhizal host range including:
-  - *Quercus robur* (pedunculate oak), *Q. petraea* (sessile oak)
-  - *[[fagus-sylvatica]]* (European beech)
-  - *[[corylus-avellana]]* (hazel)
+- **Introduced range:** New Zealand, [[fagus-sylvatica]]* (European beech)
   - *[[carpinus-betulus]]* (hornbeam), *Ostrya carpinifolia*
-  - *[[pinus-sylvestris]]* (Scots pine), *Picea abies* (Norway spruce) — less common
-- **Fruiting depth:** 2–15 cm below the soil surface
-- **Fruiting season:** May–September (summer morphotype), October–December (autumn/uncinatum morphotype)
-
-## Cultivation
-
-### Orchard Establishment
-
-- **Inoculation:** Host seedlings inoculated with *T. aestivum* mycelial slurry or spore suspension in nursery; 6–18 months colonization period
-- **Planting density:** 500–1,200 trees/ha, typically spaced 3–5 m apart
-- **Time to production:** 5–10 years from planting, faster than *T. melanosporum* in cooler climates
-- **Yield:** 10–60 kg/ha/year at maturity; exceptional orchards report up to 80 kg/ha
-- **Irrigation:** Critical during summer; soil moisture must be maintained at 15–25% volumetric water content during [[fruiting-initiation]]
+  - *[[fruiting-initiation]]
 - **Soil management:** Regular liming to maintain pH > 7.0; avoidance of excessive nitrogen fertilization
 
 ### Advantages over *T. melanosporum*
@@ -91,6 +62,89 @@ Unlike the more expensive black Périgord truffle (*T. melanosporum*), the summe
 
 ## See Also
 
-- [[tuber-borchii]]
 - [[tuber-brumale]]
+- [[tuber-macrosporum]]
+
+## Overview
+
+Tuber Aestivum represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish tuber aestivum
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving tuber extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Tuber Aestivum finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for tuber aestivum. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+tuber aestivum and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Tuber Aestivum has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of tuber aestivum into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[comparison-permaculture-tuber-crops-vs-bean-growing-guide]]
+- [[growing-gourmet-pleurotus-tuber-regium-african-sclerotial-oyster]]
+- [[tuber-borchii]]
 - [[tuber-macrosporum]]

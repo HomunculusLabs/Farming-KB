@@ -15,10 +15,7 @@ Perennials are plants with soft stems that generally die down every winter and p
 
 ## Choosing Perennials
 
-Perennials are confusingly sold under many names: "[[permaculture-plants-herbaceous-perennials]]," "herbaceous plants," "hardy plants," "hardy perennials," and "hardy herbaceous perennials" -- they are all the same thing. Half-hardy perennials are merely perennials that need to spend the winter indoors.
-
-The plants you choose will be governed by the soil type and aspect of your border, but try to include as varied a selection as possible. Consider:
-- Flowering season (plan for color from [[coleman-overwintered-onions-and-early-spring-crops]] through late fall)
+Perennials are confusingly sold under many names: "[[coleman-overwintered-onions-and-early-spring-crops]] through late fall)
 - Height and spread at maturity (think 10 years ahead)
 - Color scheme and combinations
 - Sun or shade requirements
@@ -46,38 +43,7 @@ If you have a large area to fill, plant in groups of three to five to create blo
 
 ### Feeding
 
-General border feeding should be sufficient to maintain perennials. If you can provide an annual mulch of well-rotted manure or compost, they will require little more. If not, give the whole border a dressing of blood, fish, and bone meal in early spring, and a dressing of [[comparison-kelp-meal-vs-rock-dust]] once every three years.
-
-### Watering
-
-Perennials should be well watered when they are planted -- deep soaking is the best method. Afterward they need to be watered as necessary, particularly during dry spells in their first year while they are becoming established.
-
-### Supporting
-
-Many perennials require staking because their stems are often weak and floppy. Others grow tall and are likely to be bent and broken in high winds.
-
-- **Tall perennials** (delphiniums): Stake fairly early in the season using a bamboo cane, tying the stems with soft string as they grow
-- **Medium perennials** (hellebores): Can be held erect with a few twigs or sticks that look less obtrusive than stakes
-- **Short perennials** (oriental poppies): Use a special wire support or wide-mesh wire netting over the young plants, allowing them to grow up through it. The mesh will soon be hidden by foliage.
-
-### Deadheading
-
-Remove dead flower heads from many perennials to increase the flower yield the following year. This is known as "deadheading."
-
-### Propagation by Division
-
-Most perennials should be divided and replanted every few years. Otherwise they form large clumps that simply get tired. The young plants thrive on the outside of the clump, but the center often becomes bare or dies out altogether. To rejuvenate the clump, dig and divide the whole plant every three to five years.
-
-Half-hardy perennials can be propagated by taking cuttings in late summer or early spring.
-
-### Pests and Diseases
-
-Some perennials -- for example, Michaelmas daisies (Aster novi-belgii), delphiniums, and poppies (Papaver) -- are susceptible to mildew in dry conditions. Pull out any affected plants and increase watering around the others, particularly if the weather is very dry. Always throw diseased plants away; never compost them.
-
-## Seasonal Perennial Highlights
-
-### Early Spring
-Cowslip ([[primula-veris]]), drumstick primrose ([[primula-denticulata]]), windflower ([[anemone-blanda]]), hellebores
+General border feeding should be sufficient to maintain perennials. If you can provide an annual mulch of well-rotted manure or compost, they will require little more. If not, give the whole border a dressing of blood, fish, and bone meal in early spring, and a dressing of [[primula-veris]]), drumstick primrose ([[anemone-blanda]]), hellebores
 
 ### Mid-Spring
 Forget-me-not (Myosotis alpestris), alyssum, forsythia (shrub), grape hyacinth (Muscari), euphorbia
@@ -117,8 +83,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[permaculture]]
 - [[hamilton-annual-flowers-organic]]
-- [[hamilton-biennial-flowers-organic]]
 - [[geoff-hamilton]]
 - [[organic-propagation-hamilton]]

@@ -9,7 +9,7 @@ sources: []
 
 # Cannabis Trichome Guide
 
-Trichomes are the tiny, crystal-like glandular structures that cover cannabis flowers and sugar leaves. They are the [[lichens-primary-production-soil-formation-dighton]] sites for cannabinoids (THC, CBD, etc.) and terpenes. Understanding trichome types, development stages, and how to assess maturity is essential for optimizing harvest timing and final product quality.
+Trichomes are the tiny, crystal-like glandular structures that cover cannabis flowers and sugar leaves. They are the primary production sites for cannabinoids (THC, CBD, etc.) and terpenes. Understanding trichome types, development stages, and how to assess maturity is essential for optimizing harvest timing and final product quality.
 
 ## What Are Trichomes?
 
@@ -18,7 +18,7 @@ Trichomes are epidermal outgrowths — hair-like projections on the surface of c
 Functions in nature:
 - Chemical defense against herbivores (bitter, intoxicating resin deters grazing)
 - UV protection (resin filters harmful radiation at high altitudes)
-- [[blesching-cannabis-fever-temperature-regulation]]
+- Temperature regulation
 - Wind reduction at the flower surface
 - Insect trapping (sticky resin catches small pests)
 
@@ -39,7 +39,7 @@ Functions in nature:
 - More abundant than bulbous, found primarily on leaves and bracts
 - Consist of a stalk and a slightly larger head (not raised above the surface)
 - Begin producing cannabinoids during early flowering
-- Intermediate stage in [[trichome-development-and-morphology]]
+- Intermediate stage in trichome development
 
 ### Capitate-Stalked Trichomes
 
@@ -140,10 +140,10 @@ Cooler night temperatures (around 65-70°F / 18-21°C) in the final weeks of flo
 
 ### Nutrient Status
 
-Proper nutrition throughout flowering supports maximum trichome production. Phosphorus and potassium are particularly important. Excess nitrogen late in flower can delay maturation and reduce trichome density.
+## See Also
 
-### Growing Medium
-
-Living soil systems with diverse microbiology tend to produce more complex [[cannabis-terpene-profiles]] in trichomes compared to synthetic nutrient systems. See [[cannabis-terpene-profile]] for how cultivation method affects terpene expression.
-
-## Post-Harvest Trichome Preservation
+- [[cannabis-cultivar-microbiome-specificity]]
+- [[weighted-vs-unweighted-unifrac-cannabis-strain-microbiome]]
+- [[cannabis-and-endometriosis]]
+- [[blesching-cannabis-immune-system-modulation]]
+- [[cannabis-seed-germination-viability-breeding-clarke]]

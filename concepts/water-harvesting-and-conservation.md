@@ -1,5 +1,5 @@
 ---
-title: "Water Harvesting And Conservation"
+title: "Water [[water-harvesting-and-conservation-in-permaculture]]"
 source: Toby Hemenway, Gaia's Garden: A Guide to Home-Scale Permaculture (2001)
 tags: [permaculture, gardening, water, conservation, swales, greywater]
 created: 2026-05-11
@@ -9,7 +9,7 @@ created: 2026-05-11
 
 ## The Fivefold Path to Water Wisdom
 
-Toby Hemenway outlines five strategies for intelligent water management in
+[[toby-hemenway]] outlines five strategies for intelligent water management in
 the ecological garden, ordered from simplest to most involved:
 
 1. **Conserve** — Reduce water use through mulching, efficient irrigation,
@@ -63,77 +63,8 @@ orchards on modest slopes.
 In areas with heavy clay or compacted soil, filling swales with straw or
 coarse organic matter improves drainage and accelerates infiltration. The
 straw acts as a wick, drawing water downward into the subsoil while slowly
-decomposing to build [[humus]].
-
-## Greywater Systems
-
-Greywater—wastewater from sinks, showers, bathtubs, and washing machines—can
-safely irrigate landscape plants when handled properly. It contains nutrients
-from soaps and body waste that benefit plants.
-
-### Drain-to-Mulch-Basin Systems
-
-The simplest greywater system directs drain water into a mulch-filled basin
-around landscape plants. A length of pipe carries water from the drain to a
-small depression filled with wood chips or straw and planted with thirsty
-species. The mulch filters particles and distributes water to plant roots.
-
-### Tips for Using Greywater
-
-- Use biodegradable, low-phosphate soaps and detergents.
-- Never use water that has contacted feces (blackwater).
-- Distribute greywater across multiple outlets to avoid saturation.
-- Do not store greywater for more than 24 hours—it becomes septic quickly.
-- Direct greywater to non-edible plants or fruit trees (not root vegetables
-  or leafy greens eaten raw).
-- Check local codes—many jurisdictions regulate greywater systems.
-
-## Creating Backyard Wetlands
-
-Small [[comparison-constructed-wetlands-vs-bioswales]] can treat greywater, manage stormwater, and create
-[[hemenway-backyard-wildlife-habitat]]. A lined basin filled with gravel and wetland plants filters
-water through plant roots and associated microorganisms. Wetland plants such
-as cattails, iris, and sedges uptake nutrients and contaminants while
-providing beauty and habitat for frogs, dragonflies, and birds.
-
-## Keyline Design Principles
-
-Keyline design, developed by P.A. Yeomans, is a landscape management approach
-that optimizes water distribution on agricultural land. The **keyline** is
-a contour line that divides a valley from a ridge. Plowing or cultivating
-parallel to the keyline—widely spaced in valleys, closely spaced on ridges—
-redirects water from wet valleys to dry ridges, distributing moisture more
-evenly across the landscape. While developed for large properties, keyline
-concepts can inform water management on any scale.
-
-## Rainwater Catchment from Roofs
-
-Every square foot of roof collects roughly 0.6 gallons of water per inch of
-rainfall. A 1,000-square-foot roof in a region with 30 inches of annual
-rainfall yields about 18,000 gallons per year—far more than most households
-use for irrigation. Simple systems connect gutters to storage tanks (cisterns)
-or direct water to garden areas via swales and mulch basins.
-
-## Plants for Water Conservation
-
-Plants from Mediterranean climates—regions with cool, wet winters and hot,
-dry summers—are naturally adapted to summer drought. Many are beautiful and
-productive garden plants:
-
-- **Herbs**: Rosemary, lavender, thyme, oregano, sage.
-- **Fruit trees**: Olive, fig, pomegranate, citrus.
-- **Perennials**: Agapanthus, yarrow, sedum, salvia.
-- **Vegetables**: Artichoke, asparagus, caper bush.
-
-These plants thrive with minimal irrigation once established, reducing the
-garden's overall water demand.
-
-## Wetland Plants and Their Roles
-
-| Plant | Role |
-|-------|------|
-| Cattail (*Typha*) | Nutrient uptake, water filtration, craft material |
-| Blue flag iris | Filtration, beauty, [[pollinator-habitat]] |
+decomposing to build [[comparison-constructed-wetlands-vs-bioswales]] can treat greywater, manage stormwater, and create
+[[pollinator-habitat]] |
 | Soft rush | Erosion control, habitat, thatching material |
 | Willow | Bank stabilization, water uptake, craft material |
 | Mint | Insect repellant, culinary use, [[aact-nitrogen-forms-microbial-nutrient-cycling-ingham]] |
@@ -142,3 +73,78 @@ By layering these strategies—conserving, reusing, catching, storing, and
 managing water—the ecological gardener creates a landscape that is resilient
 to drought, reduces municipal water demand, and supports lush, productive
 plantings even in dry climates.
+
+## Overview
+
+Water Harvesting And Conservation represents an important element within sustainable
+design and [[solomon-gardening-aikido-pest-philosophy-ecological-management]] systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish water harvesting and conservation
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving water extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Water Harvesting And Conservation finds practical application in multiple design contexts.
+[[mollisonian-permaculture-principles]] guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive [[livestock-grassland-management-strategies]] that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for water harvesting and conservation. [[jeavons-climate-adaptation-growing-seasons]]
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+water harvesting and conservation and its applications. Active investigation
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Water Harvesting And Conservation has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of water harvesting and conservation into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and

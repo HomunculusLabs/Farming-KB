@@ -18,47 +18,11 @@ sources:
 
 ## Overview
 
-O-PCE (2-oxo-PCE), also known as [[deschloroketamine]]'s ethylamino analog, is a synthetic dissociative substance in the arylcyclohexylamine class. It is structurally related to ketamine and deschloroketamine (DCK), differing in its aminoalkyl chain composition.
-
-The compound emerged on the research chemical market around 2017 as a novel dissociative alternative. It produces effects similar to ketamine and MXE but with distinctive characteristics including a relatively long duration and pronounced "hole" experience.
-
-O-PCE is sometimes marketed under abbreviations including "O-PCE" and "2-oxo-PCE." Its full chemical name is 2-(ethylamino)-2-phenylcyclohexan-1-one.
-
-The substance has no accepted medical use and limited clinical characterization. All knowledge derives from in vitro studies and self-reported user experiences documented on online forums.
-
-O-PCE occupies a middle ground in the arylcyclohexylamine spectrum between ketamine and MXE in terms of potency and duration. Users frequently describe it as having MXE's depth with ketamine's clarity.
-
-The compound's relatively recent emergence means toxicological data are sparse. Long-term health effects remain entirely unknown, and cumulative exposure risks cannot be assessed.
-
-## Chemical Properties
-
-O-PCE has the molecular formula C₁₄H₁₉NO and a molecular weight of 217.31 g/mol. Its IUPAC name is 2-(ethylamino)-2-phenylcyclohexan-1-one.
-
-The structure features a cyclohexanone ring with a phenyl group and an ethylamino substituent at the 2-position. This ethylamino chain distinguishes it from ketamine's methylamino group and DCK's amino group.
-
-O-PCE is the des-chloro, N-ethyl analog of ketamine. The removal of the chlorine atom and extension of the amine chain produce meaningful pharmacological differences.
-
-The compound typically appears as a white to off-white crystalline powder. The hydrochloride salt form is most common in recreational markets.
-
-It is soluble in water and ethanol. The substance is stable at room temperature when stored in sealed containers away from moisture and light.
-
-## Pharmacology
-
-O-PCE acts as a non-competitive NMDA receptor antagonist. This mechanism is shared with ketamine, PCP, methoxetamine, and other arylcyclohexylamine dissociatives.
-
-The compound likely has higher affinity for NMDA receptors than ketamine based on structural analogy to MXE. The ethylamino chain may enhance [[beta-glucan-receptor-binding]] compared to the methylamino group found in ketamine.
+O-PCE (2-oxo-PCE), also known as [[beta-glucan-receptor-binding]] compared to the methylamino group found in [[ketamine]].
 
 Onset of effects is 10–20 minutes via insufflation and 30–60 minutes orally. Duration of effects ranges from 3–6 hours, notably longer than ketamine but shorter than some MXE experiences.
 
-The longer duration may reflect slower metabolic clearance. The ethylamino group likely undergoes N-deethylation as a [[primary-metabolic-precursors-to-the-shikimate-pathway]] step, analogous to ketamine's N-demethylation.
-
-O-PCE probably shares ketamine's secondary effects on opioid receptors and monoamine systems. Detailed receptor binding profiles have not been published for this specific compound.
-
-The substance crosses the blood-brain barrier efficiently. Its moderate lipophilicity facilitates rapid central nervous system distribution after absorption.
-
-Tolerance to O-PCE develops with repeated use, likely through NMDA receptor upregulation. Cross-tolerance with other dissociatives including ketamine and MXE is expected based on the shared mechanism of action.
-
-The absence of the chlorine atom may reduce the compound's analgesic potency relative to ketamine. However, user reports suggest adequate [[bay-11-medical-sativa-granddaddy-purp-pain-relief-oner]] at dissociative doses.
+The longer duration may reflect slower metabolic clearance. The ethylamino group likely undergoes N-deethylation as a [[bay-11-medical-sativa-granddaddy-purp-pain-relief-oner]] at dissociative doses.
 
 ## Effects
 
@@ -87,3 +51,80 @@ The compound appeared on the online research chemical market around 2017. Initia
 Online forums began documenting O-PCE experiences in late 2017. User reports consistently noted the longer duration and clearer headspace compared to ketamine as distinguishing features.
 
 Analytical detection of O-PCE in seized materials was first reported by European laboratories around 2018. The EMCDDA has included it in its monitoring database since 2019.
+
+## Overview
+
+O Pce represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish o pce
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving o extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+O Pce finds practical application in multiple design contexts.
+[[permaculture-principles]] guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for o pce. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+o pce and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+O Pce has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of o pce into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.

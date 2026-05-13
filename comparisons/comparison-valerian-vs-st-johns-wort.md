@@ -10,52 +10,20 @@ sources: []
 
 ## Overview
 
-Valerian (*Valeriana officinalis*) and St. John's Wort (*Hypericum
+Valerian (*[[valeriana-officinalis]]*) and St. John's Wort (*Hypericum
 perforatum*) are two of the most clinically studied medicinal herbs in
 Western herbalism, yet they serve fundamentally different purposes.
 Valerian is best known as a sedative and anxiolytic, primarily used
 to improve sleep quality and reduce anxiety through GABAergic
 modulation. St. John's Wort is the preeminent herbal antidepressant,
 with strong clinical evidence for treating mild to moderate depression
-via serotonin, dopamine, and norepinephrine reuptake inhibition.
+via [[serotonin]], dopamine, and norepinephrine reuptake inhibition.
 Comparing them is valuable because both address mood-related
 conditions but through entirely different biochemical pathways, and
 both carry distinct safety profiles that every herbalist should
 understand.
 
 ## Valerian
-
-[[valeriana-officinalis]]
-
-Valerian is a perennial herb native to Europe and temperate Asia,
-traditionally used for over 2,000 years as a calming remedy. Its
-dried root is the primary medicinal part, containing valerenic acid
-and valepotriates that interact with the GABA-A receptor system.
-These compounds enhance GABA binding, producing a mild sedative
-effect that shortens sleep onset latency and improves overall sleep
-quality. Unlike benzodiazepines, valerian does not typically cause
-significant morning grogginess or dependency, making it a preferred
-first-line herbal sleep aid for many practitioners.
-
-Clinical evidence for valerian is strongest for subjective sleep
-improvement. Meta-analyses show modest but consistent benefits
-compared to placebo, particularly for sleep onset. Its anxiolytic
-effects are supported by animal models and some human trials, though
-the evidence base is less robust than for sleep. Valerian also
-demonstrates spasmolytic properties, supporting its traditional use
-for menstrual cramps and gastrointestinal tension. The characteristic
-pungent odor of the dried root, caused by isovaleric acid, is
-well-known and sometimes off-putting, but the taste is manageable in
-tincture or capsule form.
-
-Cultivation is straightforward: valerian prefers moist, rich soils
-in partial shade to full sun and is hardy across USDA zones 4-7.
-Roots are harvested in the autumn of the plant's second year, when
-active compound concentrations peak. Division is the preferred
-propagation method for maintaining chemotype consistency, as seed-
-grown plants show more variability in medicinal constituents.
-
-## St. John's Wort
 
 [[hypericum-perforatum]]
 
@@ -144,6 +112,5 @@ at higher doses. Neither herb should be used during pregnancy without
 professional guidance.
 ## See Also
 
-- [[comparison-arnica-vs-calendula]]
 - [[comparison-mullein-vs-st-johns-wort]]
 - [[comparison-valerian-vs-chamomile]]

@@ -95,24 +95,6 @@ Instead of relying on JS treatments:
 - JMS 20L + JWA 3L per 500L as preventive foliar spray
 - Remove infected plant debris from field
 
-## Ecological Role
-Fungal organisms play critical roles in ecosystem functioning through
-decomposition, nutrient cycling, and symbiotic relationships with plants.
-Understanding their ecological contributions informs both cultivation
-practices and conservation efforts across diverse habitats.
-
-## Research Directions
-Current research explores applications in bioremediation, sustainable
-agriculture, and pharmaceutical development. Advances in genomic
-sequencing and cultivation techniques continue to reveal new species
-and expand our understanding of fungal biology.
-
-## See Also
-- [[jadam-foam-gun-pesticide-method]]
-- [[ultra-low-cost-jadam-natural-pesticide-jnp]]
-- [[jadam-natural-pesticide-institute-and-research]]
-- [[jadam-natural-vs-chemical-pesticide]]
-- [[jadam-jms-jhs-pesticide]]
 ## See Also
 
 - [[jadam-sulfur-js]] -- how to make JS germicide

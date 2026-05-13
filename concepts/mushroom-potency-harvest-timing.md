@@ -15,11 +15,7 @@ type: concept
 
 One of the most important yet often overlooked aspects of mushroom
 cultivation is the relationship between the age of the fungus at harvest and
-its psychoactive potency. [[pf-tek-psilocybe-fanaticus]] emphasized that the secret to
-potent mushrooms lies in their age when picked, noting that it has been
-scientifically proven that small immature specimens are significantly more
-potent than larger mature specimens. This principle has profound implications
-for how cultivators approach the entire [[pf-substrate-formula]] growing
+its psychoactive potency. [[pf-substrate-formula]] growing
 cycle, from the moment primordia first appear through the final harvest.
 The PF TEK maxim is straightforward: grow them on brown rice, harvest them
 when they are young, and cool dry them with desiccant. When this is done,
@@ -66,7 +62,6 @@ removing these small high-potency primordia and abhorts from the cake. By
 harvesting only the young and abortive specimens, the overall yield will be
 significantly lower than if mature mushrooms were allowed to fully develop,
 but the quality will be excellent and the potency can rival that of
-[[guzman-allen-gartz-psilocybe-semilanceata-temperate-cosmopolitan-distribution]], the liberty cap, which averages about one percent
 [[hplc-analysis-of-psilocybin-and-psilocin]] content.
 
 ## The Birthday Cake Removal Process

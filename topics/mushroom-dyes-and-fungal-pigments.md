@@ -24,8 +24,7 @@ The use of fungi for dyeing textiles is ancient but poorly documented compared t
 
 - **European traditions**: Alpine communities in Slovenia, Austria, and Italy used species of *Dermocybe* (now reclassified within *Cortinarius*) to dye wool for traditional folk costumes. Records from the 18th and 19th centuries document the use of *Cortinarius sanguineus* to produce brilliant reds and *Cortinarius violaceus* for purples.
 - **Scandinavian practices**: Finnish and Swedish dyers historically used *Pisolithus tinctorius* (dyer's puffball) and *Hydnellum suaveolens* to produce golden yellows and olive greens on wool and linen.
-- **Indigenous [[growing-gourmet-north-american-reishi-species]] use**: Several Pacific Northwest tribes used *Phaeolus schweinitzii* to dye basketry materials and cedar bark. The Haida and Tlingit peoples reportedly used fungal pigments in ceremonial contexts.
-- **East Asian traditions**: Chinese textile artisans used *[[stamets-reishi-ganoderma-lucidum-cultivation]]* (reishi) extracts as components in lacquer and pigment mixtures, and certain *Trametes* species were employed in paper dyeing.
+- **Indigenous [[stamets-reishi-ganoderma-lucidum-cultivation]]* (reishi) extracts as components in lacquer and pigment mixtures, and certain *Trametes* species were employed in paper dyeing.
 - **Modern revival**: The systematic study of mushroom dyes began with Miriam Rice in the 1970s, whose pioneering work at the Mendocino Art Center in California established fungal dyeing as a recognized craft. Her books, notably *Mushrooms for Color* (1980), inspired a global community of fungal dyers.
 
 ## Notable Dye Mushroom Species
@@ -48,8 +47,7 @@ The use of fungi for dyeing textiles is ancient but poorly documented compared t
 | *Hydnellum suaveolens* | Aniseed Tooth | Terphenyls | Gold, yellow, tan | Strong anise aroma during dyeing |
 | *Hydnellum aurantiacum* | Orange Spindle | Terphenyls | Yellow-orange, rust | Good lightfastness |
 | *Pisolithus tinctorius* | Dyer's Puffball | Pigment complex | Yellow, gold, tan | Abundant; easy to collect |
-| *[[laetiporus-sulphureus]]* | Chicken of the Woods | Pigment complex | Yellow, gold | Also edible; limited dye yield |
-| *Ganoderma lucidum* | Reishi | Pigment complex | Brown, amber, sienna | [[ethnomycology-cultural-significance-sacred-fungi]] in East Asia |
+| *[[ethnomycology-cultural-significance-sacred-fungi]] in East Asia |
 
 ### Blue and Green Pigments
 
@@ -66,12 +64,7 @@ Blue and green are the rarest colors in natural dyeing, making *Chlorociboria* s
 
 ### Anthraquinones
 
-Anthraquinones are the most important class of fungal dye pigments. They are [[singh-fungal-biodegradation-of-polycyclic-aromatic-hydrocarbons]] compounds characterized by a three-ring structure with two carbonyl groups. Key anthraquinones in fungal dyes include:
-
-- **Emodin**: Found in many *Cortinarius* and *Dermocybe* species. Produces yellow to orange-red hues. Closely related to emodin found in rhubarb and buckthorn.
-- **Physcion**: A methylated derivative of emodin, contributing orange tones.
-- **Dermorubin**: Found in *Dermocybe sanguinea*; produces deep reds.
-- **Parietin**: Present in some *Xanthoria* lichens ([[lichenized-fungi-taxonomy-diversity]]) and contributes yellow-orange color.
+Anthraquinones are the most important class of fungal dye pigments. They are [[lichenized-fungi-taxonomy-diversity]]) and contributes yellow-orange color.
 - **Trametic acid**: Isolated from *Phaeolus schweinitzii*, contributes yellow-brown tones.
 
 Anthraquinone-based fungal dyes generally exhibit excellent lightfastness, often superior to their plant-derived counterparts. This is attributed to the stability of the quinone ring system and its ability to form stable complexes with metal mordants.
@@ -96,20 +89,7 @@ Badione A is a bis-naphthoquinone pigment found in *Cortinarius* and *Dermocybe*
 
 ### Water Extraction (Hot Simmer)
 
-The most common method for extracting [[water-soluble-calcium-phosphate-wcp]] pigments from dye mushrooms:
-
-1. **Preparation**: Clean the mushrooms to remove dirt and debris. Fresh mushrooms can be used whole or chopped; dried mushrooms should be crumbled or ground. A typical ratio is 100% weight of fiber (WOF) to 200-400% weight of dried mushroom material.
-2. **Soaking**: Cover the mushroom material with water and let it soak for several hours or overnight. This softens the tissue and begins pigment extraction.
-3. **Simmering**: Bring the pot to a gentle simmer (approximately 80-90°C / 175-195°F) and maintain for 1-2 hours. Avoid vigorous boiling, which can break down some pigments. Stir occasionally.
-4. **Straining**: Strain the dye liquid through a fine mesh strainer or cheesecloth. Return the mushroom material to the pot for a second extraction if the color remains strong.
-5. **Dyeing**: Add pre-mordanted fiber to the dye bath and simmer gently for 45-90 minutes. Turn the fiber occasionally to ensure even dyeing.
-6. **Cooling and rinsing**: Allow the fiber to cool in the dye bath for best color uptake. Rinse in cool water until the rinse runs clear, then dry away from direct sunlight.
-
-### Alkaline Extraction
-
-Some pigments, particularly those in *Hapalopilus* and *Sarcodon* species, respond well to alkaline extraction:
-
-1. Follow the standard [[hot-water-and-hydrated-lime-substrate-treatment]] extraction procedure.
+The most common method for extracting [[hot-water-and-hydrated-lime-substrate-treatment]] extraction procedure.
 2. Add ammonia (household strength, approximately 5%) to the dye bath in small increments while stirring. The color may shift dramatically — polyporic acid turns from dull brown to vivid purple or magenta.
 3. Monitor the pH; a range of 8-10 is typical for alkaline extraction.
 4. Use caution: ammonia vapors are irritating. Work in a ventilated area.

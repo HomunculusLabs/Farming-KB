@@ -6,25 +6,14 @@ type: concept
 
 # Mushroom Spawn Production on Sorghum Seeds
 
-Multiplying mushroom spawn on sorghum seeds is a critical step [[contamination-prevention-in-mushroom-cultivation]]. This process transfers mycelium from a pure PDA (Potato Dextrose Agar) tissue culture onto a sterilized grain substrate, allowing the mycelium to colonize the seeds and produce spawn ready for fruiting or further substrate inoculation. Sorghum is preferred for its uniform size, good nutritional profile, and resistance to clumping after sterilization.
-
-## Materials Required
-
-The following materials are needed for successful spawn production on sorghum seeds:
-
-- **Sorghum seeds** — primary grain substrate (alternatives: millet or wheat)
-- **Bottles (flask type)** — containers for the grain substrate
-- **Cotton (gauze)** — used as breathable plugs for bottle mouths
-- **Paper squares (7 cm × 7 cm)** — placed over cotton plugs as a protective cover
-- **Rubber bands** — secure the paper squares over the cotton plugs
-- **Alcohol lamp and alcohol bottle** — used for [[flammability-hazard-alcohol-lysol-flame-sterilization-mycology]] during inoculation
+Multiplying [[mushroom-spawn]] on sorghum seeds is a critical step [[flammability-hazard-alcohol-lysol-flame-sterilization-mycology]] during inoculation
 - **PDA bottles with mycelium** — the source of pure mycelium culture from tissue culture
 - **Laminar flow cabinet** — provides a sterile workspace for inoculation
 - **UV lamp** — used to sterilize the laminar flow cabinet interior before work
 
 ## Grain Requirements
 
-Selecting high-quality grain is essential to minimize contamination and maximize mycelium growth. Sorghum seeds used for spawn production must meet the following criteria:
+Selecting high-quality grain is essential to minimize contamination and maximize mycelium growth. Sorghum seeds used for [[spawn-production]] must meet the following criteria:
 
 - **Recently harvested** — fresh grains have better nutritional content and lower microbial load
 - **Few broken kernels** — damaged grains release starches that promote bacterial contamination
@@ -47,8 +36,7 @@ The following 23-step process covers everything from grain preparation through i
 5. **Fill bottles** — Fill approximately ¾ of each flask-type bottle with the prepared sorghum seeds. Leaving headspace allows room for shaking during incubation and prevents the grain from blocking the cotton plug.
 6. **Prepare cotton plugs** — Carefully prepare the cotton (gauze) plugs, shaping them to fit snugly into the bottle mouths.
 7. **Plug bottles** — Tightly plug the mouth of each bottle with cotton. Leave a small portion protruding outward to allow ventilation while filtering airborne contaminants.
-8. **Transfer to sterilization chamber** — Move all plugged bottles into the autoclave or [[boil-a-bag-pressure-sterilization-technique]] chamber.
-9. **Sterilize** — Release all air from the chamber first, then maintain pressure at 15 lb/sq.inch (121°C) for 30 minutes in small chambers or 45 minutes in medium-sized chambers. Complete sterilization is critical — any surviving organisms will compete with or destroy the [[antimicrobial-compounds-mushroom-mycelium]].
+8. **Transfer to sterilization chamber** — Move all plugged bottles into the autoclave or [[antimicrobial-compounds-mushroom-mycelium]].
 10. **Cool bottles** — Allow bottles to cool after sterilization, then transfer them to a clean, cool place until inoculation.
 
 ### Phase 2: Inoculation (Steps 11–23)

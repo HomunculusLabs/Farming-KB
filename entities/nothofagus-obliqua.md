@@ -71,11 +71,9 @@ Heartwood has moderate natural durability against decay (Class 3), but sapwood i
 
 N. obliqua is shade-intolerant in its juvenile phase, requiring canopy gaps or disturbance for successful regeneration. It is a pioneer to mid-successional species in montane forests.
 
-[[cervantes-seed-production-storage]] is irregular (mast seeding every 3–5 years), with seeds dispersed primarily by wind. Seeds are short-lived and lose viability within 1–2 years.
+[[coleman-cold-hardiness-testing-ratings]] with age.
 
-Seedlings establish best on mineral soil exposed by disturbance. They are sensitive to frost in the first two years but develop [[coleman-cold-hardiness-testing-ratings]] with age.
-
-The species forms ectomycorrhizal associations with numerous [[singh-key-fungal-genera-bioremediation]], including Cortinarius, Descolea, and Laccaria, which are critical for [[plant-nutrient-uptake-mechanisms]] in volcanic soils.
+The species forms ectomycorrhizal associations with numerous [[plant-nutrient-uptake-mechanisms]] in volcanic soils.
 
 Important animal associations include cavity-nesting birds (e.g., Magellanic woodpecker, Chilean pigeon), and browsing mammals (huemul deer, introduced red deer).
 

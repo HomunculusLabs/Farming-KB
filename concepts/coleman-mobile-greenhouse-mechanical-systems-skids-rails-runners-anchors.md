@@ -2,31 +2,17 @@
 
 ## Overview
 
-The mobile greenhouse is a defining innovation of [[eliot-coleman]]'s [[cold-house-winter-harvest-system]] at [[coleman-four-season-farm]] in Harborside, Maine. By moving greenhouses between two growing sites, Coleman achieves year-round production while avoiding the pest, disease, and soil fertility problems that accumulate in permanent structures.
-
-This page covers the mechanical systems that make [[mobile-greenhouses]] practical, including the four design approaches Coleman developed through years of experimentation, anchoring systems for wind resistance, and the operational considerations of moving large structures between growing sites.
+The mobile greenhouse is a defining innovation of [[cold-house-winter-harvest-system]] at [[mobile-greenhouses]] practical, including the four design approaches Coleman developed through years of experimentation, anchoring systems for wind resistance, and the operational considerations of moving large structures between growing sites.
 
 ---
 
 ## Historical Context and Rationale
 
-The concept of mobile greenhouses is not entirely new. According to Coleman's historical research, the first mobile greenhouse was built in 1898 in England — a large glasshouse on iron framework supported by railroad wheels running on steel rails. Even this early design recognized the fundamental advantage of being able to move protected [[cotter-growing-space-design-fruiting-rooms]] to where it was most needed at different times of the year.
-
-Coleman revived this concept on a far less expensive scale, adapting it for modern plastic-covered hoop houses at his Four Season Farm. The mobile greenhouse solves a fundamental scheduling conflict in year-round growing. Summer heat-loving crops (tomatoes, peppers, cucumbers, eggplants, melons, and sweet potatoes) need the greenhouse from spring through mid-October. Winter cold-hardy crops need the same protected space from late October through May.
-
-A stationary greenhouse can only serve one season efficiently. The mobile greenhouse serves both by physically relocating between dedicated growing sites. This simple concept transforms the economics of small-scale year-round farming, allowing a single greenhouse structure to produce crops across all four seasons instead of sitting partially idle during seasonal transitions.
-
----
-
-## Design Evolution — Four Mechanical Approaches
-
-Over the course of developing his [[coleman-claytonia-winter-harvest-cultivation]] system, Coleman experimented with four distinct mechanical approaches to greenhouse mobility. Each design had advantages and limitations that informed the next iteration.
+The concept of mobile greenhouses is not entirely new. According to Coleman's historical research, the first mobile greenhouse was built in 1898 in England — a large glasshouse on iron framework supported by railroad wheels running on steel rails. Even this early design recognized the fundamental advantage of being able to move protected [[coleman-claytonia-winter-harvest-cultivation]] system, Coleman experimented with four distinct mechanical approaches to greenhouse mobility. Each design had advantages and limitations that informed the next iteration.
 
 ### Greased Wooden Skids on Wooden Rails
 
-Coleman's first [[coleman-mobile-greenhouse-design-and-operation]] used greased wooden skids sliding on wooden rails. The skids were attached to the base of the hoop house structure, and wooden rails were laid on the ground spanning the distance between the two growing sites. The entire structure was pushed by hand or pulled with a small tractor.
-
-This design was the simplest and least expensive to build but had significant practical limitations. Wooden skids and rails wore unevenly, requiring frequent re-greasing to maintain smooth movement. The friction between wooden surfaces was high, making movement labor-intensive for larger structures. In wet or freezing conditions, the wooden-on-wooden contact could seize entirely, preventing movement when it was most needed. Despite these drawbacks, the design proved the fundamental concept and demonstrated the viability of mobile structures for commercial [[coleman-french-historical-winter-vegetable-production]].
+Coleman's first [[coleman-french-historical-winter-vegetable-production]].
 
 ### Rails on the Structure with Ball Casters
 
@@ -69,25 +55,9 @@ The movement typically takes place twice per year in coastal Maine:
 1. **October move**: The greenhouse is moved from the summer site to the winter site, covering fall-planted cold-hardy crops just as freezing temperatures begin
 2. **Late spring move**: The greenhouse is moved back to the summer site for the next season of warm-weather crops
 
-The timing of these moves is critical. The October move must happen after [[coleman-greenhouse-summer-crops]] are finished but before winter crops need serious cold protection — typically mid to late October in coastal Maine. The spring move must happen after the danger of hard freezes has passed but before summer crops need to be planted in the ground.
+The timing of these moves is critical. The October move must happen after [[coleman-cover-crop-rotation-and-soil-health]] it provides. Each growing site is uncovered for approximately half the year, exposing the soil to the cleansing effects of sun, rain, wind, and snow. This exposure breaks pest and disease cycles that can build up in permanent greenhouses. Soil-borne pathogens, insect pupae, and weed seeds are reduced by exposure to freezing temperatures and ultraviolet radiation. The natural weathering process accomplishes what would otherwise require expensive soil sterilization treatments or long fallow periods.
 
-### Ground Anchoring Against Wind
-
-Once the greenhouse reaches its new position, it must be securely anchored against wind. Coleman uses ground anchors bolted to the base of the structure. These anchors are driven into the soil and provide resistance against both wind uplift and lateral movement. The anchoring system is designed to be temporary but robust, allowing secure attachment during the months the greenhouse occupies each site.
-
-The anchoring system must be robust enough to withstand the wind loads that a 30-by-96-foot greenhouse presents. In coastal Maine, winter storms can produce sustained winds of 40-60 mph with higher gusts. The large surface area of the plastic-covered structure creates significant wind pressure, and even a small gap in anchoring can allow wind to get under the structure and cause progressive failure. The anchoring system must also be designed for easy removal when it is time to move the greenhouse again — permanent anchors would defeat the purpose of mobility. Coleman developed a system using removable ground anchors that can be quickly installed and extracted with minimal tools.
-
-For each move, the anchoring procedure involves positioning the greenhouse precisely over the prepared site, driving ground anchors at each hoop base point, bolting the base of the structure to the anchors, and tensioning the plastic covering to remove any slack that wind could catch. The entire anchoring process takes several hours for a large commercial house but ensures the structure will withstand winter storms until the next move.
-
----
-
-## Operational Benefits of Mobility
-
-### Pest and Disease Break
-
-One of the most significant benefits of the mobile greenhouse is the automatic [[coleman-cover-crop-rotation-and-soil-health]] it provides. Each growing site is uncovered for approximately half the year, exposing the soil to the cleansing effects of sun, rain, wind, and snow. This exposure breaks pest and disease cycles that can build up in permanent greenhouses. Soil-borne pathogens, insect pupae, and weed seeds are reduced by exposure to freezing temperatures and ultraviolet radiation. The natural weathering process accomplishes what would otherwise require expensive soil sterilization treatments or long fallow periods.
-
-Coleman notes that the uncovered period is particularly effective against [[bloomfield-fungal-pathogens-and-parasites]] like Fusarium and Pythium that thrive in the warm, humid environment of a permanently covered greenhouse. The drying effect of sun and wind on the soil surface creates conditions inhospitable to these organisms. Similarly, many [[duggar-mushroom-insect-pests-and-fungal-diseases]] that overwinter in greenhouse soil are exposed to lethal freezing temperatures when the protective cover is removed.
+Coleman notes that the uncovered period is particularly effective against [[duggar-mushroom-insect-pests-and-fungal-diseases]] that overwinter in greenhouse soil are exposed to lethal freezing temperatures when the protective cover is removed.
 
 ## Practical Applications
 
@@ -111,8 +81,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[mobile-greenhouses]]
 - [[sterilization]]
-- [[coleman-mobile-greenhouse-rotation-design-two-three-four-plot-systems]]
 - [[coleman-mobile-greenhouse-crop-rotation-soil-health]]
 - [[coleman-mobile-greenhouse-system]]

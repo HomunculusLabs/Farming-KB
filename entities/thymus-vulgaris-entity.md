@@ -13,12 +13,10 @@ sources:
 # Thymus vulgaris
 Thymus vulgaris, common thyme, is a low-growing evergreen subshrub in the
 family Lamiaceae native to the Mediterranean basin. It is one of the most
-important [[holzer-medicinal-and-culinary-herbs-compendium]] in European and Middle Eastern cuisines and has a
-long history of medicinal use dating back to ancient Egypt, Greece, and Rome.
-The plant's [[permaculture-designers-manual-essential-oil-plants]], dominated by thymol and carvacrol, possesses
+important [[permaculture-designers-manual-essential-oil-plants]], dominated by thymol and carvacrol, possesses
 potent antimicrobial, antiseptic, and antioxidant properties that have been
 validated by modern pharmacological research. Thyme is also valued in
-permaculture and [[hamilton-geoffhamilton-nick-organic-gardening-companion-planting]] as a [[fukuoka-citrus-orchard-ground-cover-cultivation]], pollinator attractant,
+[[permaculture]] and [[fukuoka-citrus-orchard-ground-cover-cultivation]], pollinator attractant,
 and companion plant that repels certain pest species. Its adaptability to
 poor, well-drained soils and drought conditions makes it a resilient choice
 for water-wise gardens and xeriscaping.
@@ -59,7 +57,7 @@ for water-wise gardens and xeriscaping.
 |-----------|--------------|-------|
 | Temperature | 15–28°C | Hardy to -15°C; dies back in severe frost |
 | Rainfall | 250–600 mm/year | Extremely drought-tolerant once established |
-| Soil pH | 6.0–8.0 | Prefers alkaline to neutral; tolerates poor soils |
+| [[soil-ph]] | 6.0–8.0 | Prefers alkaline to neutral; tolerates poor soils |
 | Soil type | Sandy, well-drained, rocky | Intolerant of waterlogging; thrives in lean soils |
 | Sunlight | Full sun | Becomes leggy in shade; essential oil content highest in full sun |
 | Elevation | 0–1600 m | Native to Mediterranean hills and rocky slopes |

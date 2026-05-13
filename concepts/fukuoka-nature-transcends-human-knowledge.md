@@ -32,61 +32,19 @@ The stronger the conscious desire to know, the further man becomes distanced fro
 
 Thinking that he must climb a mountain to know it, the mountain climber climbs the mountain. But in fact, to know the true mountain, one must see it from a point of remove that transcends the mountain. Man can scale a mountain and stand on its summit, but he cannot climb above and beyond. Unable to grasp the mountain in its full aspect, he is content with having seen only one small portion and climbs back down.
 
-Mountain climbing, going to the beach, listening to birds singing -- all these seem to be ways of capturing a bit of nature. But no matter how many such recreations one gathers together, they do not add up to a true understanding of nature. The accumulation of [[non-discriminating-knowledge-and-critique-of-scientific-reductionism]] only deepens confusion and draws man away from nature so that he no longer understands.
+Mountain climbing, going to the beach, listening to birds singing -- all these seem to be ways of capturing a bit of nature. But no matter how many such recreations one gathers together, they do not add up to a true understanding of nature. The accumulation of [[fukuoka-critique-western-dietetics-nutritional-science]] for Fukuoka's extended treatment of this theme.
 
-## The Photographer and the Flower
-
-We dissect and analyze a flower, calling it this or that type. Once he knows the name of the flower, the botanist is satisfied with a botanical explanation. The photographer brings his camera and takes a photograph of the flower. If he takes a black-and-white shot, he is convinced that it is a black-and-white flower. The fellow who takes color photographs merely believes that the colorful flowers he has captured on film are the real things.
-
-All he has done is to capture on film what he has seen with his own subjectivity. Instead of catching hold of the object photographed itself, he is just having fun photographing what he has interpreted within his own mind. This sort of thing has not brought us closer to understanding but has multiplied the doubts that lead us away from understanding.
-
-## Consciously or Unconsciously, Man Cannot Comprehend Nature
-
-The nature that transcends the discriminating and relative thought of man is true nature, but that which lies beyond the relative world of man cannot be expressed with human language.
-
-Consciously or unconsciously, man cannot comprehend nature. Even if one were to venture that the nature seen from the point of non-discrimination lying beyond the unconscious is true nature and God, such a point cannot be reached by man. Thus, although we may try explaining nature, all we can do is to explain that nature is something that cannot be expounded upon.
-
-## Philosophical Significance
-
-This idea -- that fukuoka nature transcends human knowledge all human intellectual frameworks -- is the cornerstone of [[fukuoka-critique-western-dietetics-nutritional-science]] for Fukuoka's extended treatment of this theme.
-
-Fukuoka draws on a long tradition of Eastern non-dualist thought. The Zen idea of "beginner's mind" (shoshin) -- the mind that is open to everything and attached to nothing -- is closely related to his notion of the tabula rasa state. In [[fukuoka-four-principles-natural-farming]]: no cultivation, no chemical fertilizer, no weeding, no pesticides. Each of these prohibitions is an expression of humility before the incomprehensible intelligence of nature.
-
-When a farmer tills the soil, he acts on the assumption that he understands what the soil needs. When he applies fertilizer, he assumes he knows what nutrients the plants require. When he pulls weeds, he assumes he can distinguish between "good" and "bad" plants. But all of these assumptions are products of the discriminating mind -- the very faculty that Fukuoka argues cannot comprehend nature.
-
-The alternative is to observe nature closely, without the desire to control or improve it, and to discover that nature already provides everything needed for abundant growth. This is not passive neglect; it is an active attentiveness that paradoxically requires doing less. See [[fukuoka-one-straw-revolution-impact]], are attempts to point beyond themselves, like a finger pointing at the moon. The finger is not the moon, but without it, one might never look up.
+Fukuoka draws on a long tradition of Eastern non-dualist thought. The Zen idea of "beginner's mind" (shoshin) -- the mind that is open to everything and attached to nothing -- is closely related to his notion of the tabula rasa state. In [[fukuoka-one-straw-revolution-impact]], are attempts to point beyond themselves, like a finger pointing at the moon. The finger is not the moon, but without it, one might never look up.
 
 This is why Fukuoka often says that his words should be discarded once their meaning is grasped. They are provisional tools, not final truths. The truth is in the practice -- in the fields, the orchards, the living earth itself.
 
 ## Related Concepts
 
-- [[fukuoka-nature-as-teacher]]
-
 - [[fukuoka-god-nature-and-transcendent-world]]
-
-- [[fukuoka-critique-western-dietetics-nutritional-science]]
 
 - [[fukuoka-bogus-nature]]
 
-- [[fukuoka-critique-modern-agriculture]] for the full analysis.
-
-## Nature as Indivisible Whole
-
-Fukuoka argued that science breaks nature into parts but can never reassemble it. "Man can never truly know even a single leaf or a single handful of earth." He illustrated this with the analogy of Mt. Fuji: a scientist who climbs the mountain, studies its rocks, wildlife, geology, and meteorology will conclude he has a full picture.
-
-"But if we were to ask whether it is the scientist who has spent his life studying the details of the mountain who knows it best, the answer would have to be no."
-
-"One can know Fuji by looking at it from afar. One must see it and yet not examine it, and in not examining it, know it." The moment man distinguishes between the trees and rocks that form part of the mountain and the mountain as a whole, "he falls into a confusion from which he cannot easily escape."
-
-"Without the whole, the parts are lost, and without the parts, there is no whole." Both lie within the same plane. "Nature should not be taken apart. The moment it is broken down, parts cease being parts and the whole is no longer a whole. When collected together, all the parts do not make a whole." "All" refers to the world of mathematical form and "whole" represents the world of living truth. Farming by the hand of nature is "a world alive, not a world of form."
-
-## The Showdown at 30,000 Feet
-
-Flying to America for the first time, Fukuoka experienced a vision of the modern condition: "If there is such a thing as God, then it seemed to me that 30,000 feet into the blue is where the showdown between nature, man, and God takes place." Man's machines "conquer" distance while leaving passengers feeling like "a frog plucked from a pond" — technologically powerful but existentially displaced.
-
-## The Natural Order and Human Exceptionalism
-
-"But there is one who disrupts this natural order. It is man. Man is the [[fukuoka-textdoc-man-sole-heretic-natural-order]] in the natural order. Only he acts as he pleases."
+- [[fukuoka-textdoc-man-sole-heretic-natural-order]] in the natural order. Only he acts as he pleases."
 
 ## Practical Applications
 
@@ -117,8 +75,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[doc]]
 - [[det]]
-- [[fukuoka-nature-dissection-subjectivity-non-discriminating-knowledge]]
 - [[fukuoka-nature-god-limits-of-knowledge]]
 - [[fukuoka-human-knowledge-limits-ecosystem-complexity]]

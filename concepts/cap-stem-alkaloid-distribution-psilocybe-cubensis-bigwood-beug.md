@@ -1,6 +1,6 @@
 ---
 title: Cap Stem Alkaloid Distribution Psilocybe Cubensis Bigwood Beug
-source: Variation of [[hplc-analysis-of-psilocybin-and-psilocin]] Levels (Bigwood & Beug, 1982)
+source: Variation of hplc-analysis-of-psilocybin-and-psilocin Levels (Bigwood & Beug, 1982)
 tags: [mycology, psilocybin, psilocin, alkaloid-distribution, cap-stem, psilocybe-cubensis, anatomy]
 created: 2026-05-11
 ---
@@ -10,7 +10,7 @@ created: 2026-05-11
 ## Overview
 
 Bigwood and Beug (1982) investigated how psilocybin and psilocin are distributed
-between the cap (pileus) and stem (stipe) of *Psilocybe cubensis*. Their
+between the cap (pileus) and stem (stipe) of *[[psilocybe-cubensis]]*. Their
 analysis of three distinct strains revealed that the two alkaloids follow
 strikingly different tissue-distribution patterns, and that these patterns vary
 between strains. Understanding cap-versus-stem distribution is essential for
@@ -59,17 +59,14 @@ Across the three strains, several consistent patterns emerge:
 
 1. **Psilocybin is generally higher in caps than stems.** In two of three
    strains, caps contained approximately 1.6× the stem concentration. This
-   suggests that the cap is the primary site of [[psilocybin-biosynthesis-pathway]] or
-   accumulation.
-
-2. **[[psilocybin-vs-psilocin-distribution-cap-stem]] is strain-dependent and opposite to psilocybin.**
+   suggests that the cap is the primary site of [[psilocybin-vs-psilocin-distribution-cap-stem]] is strain-dependent and opposite to psilocybin.**
    In the M.R. and Ecuadorian strains, psilocin was found exclusively in stems.
    In the Amazonian strain, a trace appeared in the cap instead. This suggests
    that the dephosphorylation of psilocybin to psilocin may occur in different
    tissues depending on the strain's enzymatic profile.
 
 3. **Total alkaloid content is higher in caps.** When psilocybin and psilocin
-   are summed, caps consistently contained more total tryptamine alkaloids
+   are summed, caps consistently contained more total [[tryptamine]] alkaloids
    than stems, even in the Amazonian strain where psilocybin was equal between
    tissues.
 
@@ -127,14 +124,7 @@ indicate concentrations below the detection limit, not complete absence.
 Only first-flush mushrooms were analyzed for cap-stem distribution. Since
 psilocin levels change dramatically across flushes (generally absent in early
 flushes, peaking at flush 4), the cap-stem distribution pattern may also shift
-[[psilocin-emergence-in-later-flushes]]. The study analyzed only three strains, and intraspecific
-variation may be wider than captured here. All mushrooms were grown on rye
-grain; substrate effects on tissue distribution remain unexplored.
-
-## See Also
-
-- psilocybin psilocin flush variation bigwood beug — flush-by-flush trends
-- [[baeocystin-and-norbaeocystin-in-psilocybin-biosynthesis]] — related alkaloids
+[[baeocystin-and-norbaeocystin-in-psilocybin-biosynthesis]] — related alkaloids
 - [[basidiocarp-four-stage-development-classification-psilocybe-cubensis-badham-1982]]
   — morphological development stages
 

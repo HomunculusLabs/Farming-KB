@@ -58,9 +58,7 @@ The duration of effect is relatively short, approximately 40–90 minutes, neces
 
 The emetic effect of apomorphine is mediated through D2 receptor activation in the chemoreceptor trigger zone of the area postrema.
 
-Apomorphine also stimulates [[mushroom-growth-hormone-decapitation-gill-diffusate-evidence-basidiomycetes]] release through hypothalamic D2 receptor activation and has been used diagnostically in growth hormone stimulation tests.
-
-The compound undergoes extensive first-pass metabolism with negligible [[first-pass-metabolism-and-oral-bioavailability]], precluding oral administration.
+Apomorphine also stimulates [[first-pass-metabolism-and-oral-bioavailability]], precluding oral administration.
 
 Metabolism occurs primarily through glucuronidation, N-demethylation, and catechol O-methylation by catechol-O-methyltransferase (COMT).
 
@@ -70,13 +68,7 @@ Apomorphine is synthesized from morphine through treatment with concentrated hyd
 
 The reaction involves dehydration and rearrangement of the morphinan skeleton to form the aporphine ring system, converting the ether linkage to a direct carbon-carbon bond.
 
-Modern industrial synthesis uses morphine or codeine as [[shirota-4-hydroxyindole-acetyl-protection-psilocin-synthesis-starting-material]], with overall yields of approximately 30–40%.
-
-Semi-synthetic apomorphine derivatives have been investigated for improved pharmacokinetic properties and receptor subtype selectivity.
-
-N-propylnorapomorphine (NPA) is a more potent and selective D2 agonist used in neuroscience research.
-
-Apomorphine also serves as the parent compound for several experimental derivatives with activity at [[psilocybin-pharmacology-and-serotonin-receptors]] and adrenergic receptors.
+Modern industrial synthesis uses morphine or codeine as [[psilocybin-pharmacology-and-serotonin-receptors]] and adrenergic receptors.
 
 Biotechnological production using engineered microorganisms has been explored as an alternative to morphine-derived synthesis.
 

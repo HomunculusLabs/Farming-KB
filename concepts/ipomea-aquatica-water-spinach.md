@@ -68,11 +68,7 @@ Water spinach is ideally suited to integrated aquaculture systems:
 - **Water purification:** Uptakes nutrients from fish pond water, reducing algal blooms and improving water quality
 - **Fish fodder:** Excess growth can be harvested and fed directly to herbivorous fish and livestock
 - **Habitat:** Floating mats provide shade and shelter for fish and other aquatic organisms
-- **Edge treatment:** Planted along pond edges to [[query-how-do-i-garden-on-a-slope-and-prevent-erosion]] and filter runoff
-
-### Wetland Waste Treatment
-
-The rapid growth and high nutrient uptake of water spinach make it effective in [[constructed-wetlands-wastewater-treatment]] greywater treatment systems. It absorbs nitrogen, phosphorus, and other nutrients from wastewater, reducing pollution while producing a harvestable crop.
+- **Edge treatment:** Planted along pond edges to [[constructed-wetlands-wastewater-treatment]] greywater treatment systems. It absorbs nitrogen, phosphorus, and other nutrients from wastewater, reducing pollution while producing a harvestable crop.
 
 ### Erosion Control
 
@@ -83,9 +79,7 @@ The dense, mat-forming growth habit of aquatic water spinach stabilizes pond ban
 Water spinach grows well alongside:
 
 - **Rice** (*Oryza sativa*): Traditional companion in Asian paddy systems
-- **Taro** (*[[colocasia-esculenta]]*): Compatible in wetland polycultures
-- **Water chestnut** (*Eleocharis dulcis*): Multi-layered aquatic food production
-- **Lotus** (*[[nelumbo-nucifera]]*): Shade-tolerant growth beneath lotus canopy
+- **Taro** (*[[nelumbo-nucifera]]*): Shade-tolerant growth beneath lotus canopy
 - **Duckweed** (*Lemna* spp.): Complementary nutrient cycling
 
 ### Food Production
@@ -114,22 +108,6 @@ While generally hardy, water spinach can serve as an alternate host for certain 
 
 - Sweet potato weevil may use water spinach as a host
 - Root-knot nematodes can affect plants in terrestrial cultivation
-- Proper crop rotation and [[comparison-beneficial-insects-guide-vs-integrated-pest-management]] mitigate these risks
-
-## Culinary Uses
-
-Water spinach is a staple vegetable across Southeast Asia:
-
-- **Stir-fried** with garlic, chili, and fermented bean paste (classic preparation)
-- **In soups** with coconut milk, shrimp, or pork
-- **In salads** when young leaves are used raw
-- **Steamed** as a simple side dish with oyster sauce
-- **In curries** as a leafy green component
-
-## See Also
-
-- [[comparison-aquaculture-in-permaculture-vs-backyard-pond-building]]
-- [[comparison-mangrove-restoration-vs-constructed-wetlands]]
+- Proper crop rotation and [[comparison-aquaculture-in-permaculture-vs-backyard-pond-building]]
 - [[comparison-aquaponics-vs-cannabis-hydroponic-systems]]
-- [[solomon-leafy-greens-growing]]
 - [[keyline-design]]

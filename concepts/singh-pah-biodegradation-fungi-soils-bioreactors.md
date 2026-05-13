@@ -16,7 +16,7 @@ Source: fungal-bioremediation (2006), Chapter 8
 
 ## Overview
 
-[[singh-fungal-biodegradation-of-polycyclic-aromatic-hydrocarbons]] hydrocarbons (PAHs) are priority pollutants at creosote, coal tar, and petroleum-contaminated sites. White-rot fungi have demonstrated significant ability to degrade PAHs through their ligninolytic enzyme systems. This page covers soil bioremediation, bioreactor applications, and fungal-bacterial co-cultures for PAH degradation. See also fungal-ecology-mycoremediation, [[phanerochaete-chrysosporium]]
+[[phanerochaete-chrysosporium]]
 - Most extensively studied white-rot fungus
 - Degraded all compounds in creosote mixture
 - Phenol and cresol eliminated first, followed by PCP and PAHs

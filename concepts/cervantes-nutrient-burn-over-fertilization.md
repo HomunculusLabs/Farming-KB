@@ -13,27 +13,12 @@ type: concept
 # Nutrient Burn and Over-fertilization in Cannabis
 
 Nutrient burn, also called fertilizer burn, is one of the most common
-problems in [[query-how-does-no-till-cannabis-cultivation-work]]. [[jorge-cervantes]] identifies it as a
+problems in [[jorge-cervantes]] identifies it as a
 frequent mistake that can impair growth, reduce yield, and compromise
 bud quality. Over-fertilization occurs when the concentration of
-dissolved mineral salts in the [[cervantes-green-algae-growing-medium]] or [[cannabis-nutrient-solution-preparation]]
+dissolved mineral salts in the [[cannabis-nutrient-solution-preparation]]
 exceeds what the plant can absorb, leading to toxic accumulation in
-[[leaf-tissue-analysis-crop-nutrient-status]].
-
-## Symptoms of Nutrient Burn
-
-The first and most recognizable sign of nutrient burn is browning
-(tip burn) at the edges and tips of leaves. As the condition worsens,
-the burning progresses inward from the leaf margins. Leaves may curl
-downward or upward, become brittle and discolored, and eventually die.
-Cervantes notes that nutrient overdose burns leaf tips and fringes,
-which can look like damping-off to the untrained eye. Additional
-signs include:
-
-- Leaf tips and fringes turn brown or yellow
-- Leaves become brittle and may crackle when crushed
-- Misshapen, twisted, or unusually dark green foliage
-- Root tips may also burn, inhibiting water and [[plant-nutrient-uptake-mechanisms]]
+[[plant-nutrient-uptake-mechanisms]]
 - Buds may crackle when burned if excess fertilizer remains at
   harvest
 - Harvested buds may smell or taste like chemicals
@@ -42,19 +27,7 @@ signs include:
 
 Over-fertilization can result from several grower errors:
 
-- Mixing [[cervantes-ec-tds-nutrient-solution-strength]] at excessive concentration (high EC/ppm)
-- Fertilizing too frequently without allowing adequate uptake time
-- Using concentrated fertilizers without proper dilution
-- Accumulation of salts in the growing medium over multiple feedings
-- Applying fertilizer to seedlings or clones that are not yet able
-  to process concentrated nutrients
-- Top-feed systems that apply more solution than the medium can
-  retain between drain cycles
-
-Cervantes specifically warns that hydroponic systems are designed for
-high performance, which means mistakes escalate quickly. A rapid
-fluctuation in pH, a clogged drain, or a malfunctioning pump can
-cause sudden [[cannabis-nutrient-toxicity]] that stunts or kills plants before
+- Mixing [[cannabis-nutrient-toxicity]] that stunts or kills plants before
 they have time to recover.
 
 ## Soluble Salts and EC Thresholds
@@ -117,8 +90,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[cervantes-nutrient-mobility-deficiency-diagnosis]]
 - [[cervantes-nutrient-stock-solutions-concentrates]]
-- [[cervantes-secondary-nutrient-deficiency]]
 - [[cervantes-nutrient-solution-reservoir-management]]
 - [[marijuana-horticulture-cervantes-nutrient-deficiencies-and-disorders]]

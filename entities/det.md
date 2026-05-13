@@ -2,28 +2,8 @@
 title: "DET"
 type: chemical
 tags:
-  - [[tryptamine]]
-  - psychedelic
-  - entheogen
-  - serotonergic
-  - 5-ht2a-agonist
-  - research-chemical
-  - tiHKal
-created: 2026-04-28
-updated: 2026-04-28
-sources:
-  - Shulgin, A. & Shulgin, A. (1997). TiHKAL: The Continuation. Transform Press.
-  - Shulgin, A.T., et al. (1966). "Monoamine oxidase inhibition and properties of some tryptamine derivatives." Nature, 210, 737–738.
-  - Speeter, M. & Anthony, W.C. (1954). "Analogs of [[reserpine]]." Journal of the American Chemical Society, 76, 6206.
-  - Glennon, R.A., et al. (1992). "[[serotonin-receptor-interference-psychedelic-mechanism]] affinity of substituted tryptamines." Journal of Medicinal Chemistry, 35(4), 734–740.
-  - Ray, T.S. (2010). "Psychedelics as dissociative anesthetics." Pharmacology & Therapeutics, 125(2), 224–238.
----
-
-## Overview
-
-**DET** (N,N-diethyltryptamine) is a synthetic psychedelic tryptamine and close structural analog of DMT (N,N-dimethyltryptamine).
-
-It was first synthesized in the 1950s and later documented in [[alexander-shulgin]]'s TiHKAL (entry #39), where it received a ++ rating for psychedelic activity.
+  - [[reserpine]]." Journal of the American Chemical Society, 76, 6206.
+  - Glennon, R.A., et al. (1992). "[[alexander-shulgin]]'s TiHKAL (entry #39), where it received a ++ rating for psychedelic activity.
 
 The compound acts primarily as a 5-HT2A receptor agonist, producing visual and cognitive effects similar to DMT but with a longer duration and different character.
 
@@ -64,22 +44,7 @@ The subjective effects of DET are broadly similar to those of DMT but are genera
 
 Visual effects include geometric patterns, color intensification, and altered perception of surfaces and textures, typically developing over 15–30 minutes.
 
-Cognitive effects range from heightened introspection and philosophical thinking to mild [[psilocybin-ego-dissolution-mechanisms]] at higher doses.
-
-Users frequently report a greater sense of mental clarity and groundedness compared to DMT, which is sometimes described as more chaotic.
-
-The experience is often characterized as a "middle ground" between DMT and longer-acting psychedelics like LSD or psilocybin.
-
-Somatic effects include mild nausea, pupil dilation, increased heart rate, and tactile sensitivity, particularly during onset.
-
-## Dosage and Duration
-
-- **Threshold dose:** 20–30 mg (oral or vaporized)
-- **Light dose:** 30–50 mg
-- **Common dose:** 50–80 mg
-- **Strong dose:** 80–120 mg
-
-Oral administration without an MAOI produces mild effects; combination with a β-carboline MAOI (e.g., [[harmine]]) significantly potentiates and extends the experience.
+Cognitive effects range from heightened introspection and philosophical thinking to mild [[harmine]]) significantly potentiates and extends the experience.
 
 Vaporized or insufflated routes produce more rapid onset (5–15 minutes) with shorter overall duration.
 
@@ -88,3 +53,80 @@ Duration of effects is approximately 2–4 hours when vaporized, extending to 6�
 Tolerance develops rapidly, with near-complete tolerance observed after 2–3 consecutive days of use, requiring 5–7 days for baseline sensitivity to return.
 
 ## Synthesis
+
+## Overview
+
+Det represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish det
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving det extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Det finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for det. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+det and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Det has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of det into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.

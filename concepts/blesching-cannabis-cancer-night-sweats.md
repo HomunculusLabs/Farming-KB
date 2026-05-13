@@ -11,14 +11,9 @@ type: concept
 
 # Cannabis and Cancer-Induced Night Sweats
 
-The [[blesching-cannabis-health-index-autoimmune-conditions]] (CHI) provides an evidence-based rating system
-for evaluating the [[metzner-ayahuasca-therapeutic-potential]] of cannabis across various
+The [[metzner-ayahuasca-therapeutic-potential]] of cannabis across various
 conditions. For cancer-induced night sweats, the CHI scores 1 study with
-a combined [[blesching-cannabis-prostate-cancer-chi-value-3]] of 3, indicating preliminary but promising evidence.
-
-## Understanding Cancer-Induced Night Sweats
-
-Night sweats, relatively common in end-stage [[cannabis-for-cancer-patients]], are partly
+a combined [[cannabis-for-cancer-patients]], are partly
 responsible for disrupted sleep patterns. This factor directly and
 indirectly further reduces the patient's overall quality of life. The
 orthodox medical system believes that the sympathetic nervous system
@@ -65,29 +60,7 @@ Total CHI Value: 3
 
 CB1 receptors are located primarily in the brain and central nervous
 system, including the sympathetic nervous system and the hypothalamus,
-which are both involved in perspiration. The [[synthetic-cannabinoid-pharmaceuticals-sativex-dronabinol-marinol]]
-Nabilone, similar to THC, has been shown to therapeutically influence
-perspiration patterns in humans.
-
-Here, the logic of the available science would suggest a sativa with
-higher THC:CBD ratios. However, an indica or indica-heavy strain is
-advised in order to access a balanced and synergistic approach with the
-body and the mind. Indicas still provide the CB1 activation involved in
-the mechanism of night sweats, yet also activate CB2 receptors involved
-in inducing an overall calming and restful state.
-
-## Mind-Body Medicine and Night Sweats
-
-Anxiety, intense fears, dread, or guilt are common emotional states that
-keep the mind running in an endless attempt to control what cannot be
-controlled. This continuous process can drain every bit of energy and at
-the same time prevent release, relaxation, and sleep. Even when sleep
-arrives, these intense emotions may find their expression in the dream
-world. The body reacts to the dreams with physiological responses.
-Intense dreams, struggling with uncomfortable topics or nightmares, are
-commonly associated with night sweats.
-
-Night sweats in the context of [[blesching-cannabis-palliative-care]]
+which are both involved in perspiration. The [[blesching-cannabis-palliative-care]]
 
 ## Practical Applications
 
@@ -118,8 +91,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[blesching-cannabis-cancer-night-sweats-palliative]]
 - [[ayahuasca]]
-- [[doc]]
 - [[dronabinol]]
 - [[endocannabinoid-system]]

@@ -10,21 +10,14 @@ sources:
 # DOPR
 
 **Chemical name:** 2,5-Dimethoxy-4-(n)-propylamphetamine
-**[[2c-b-pihkal-entry-20]]:** #71
-
-## Overview
-
-DOPR is a member of the [[synthetic-tryptamine-methods]] to understanding metabolism through synthesis.
+**[[synthetic-tryptamine-methods]] to understanding metabolism through synthesis.
 
 ## Position in the DOx Series
 
 | Compound | 4-Substituent | Dosage (mg) | Duration |
 |----------|--------------|-------------|----------|
 | dom-entity|DOM | CH3 | 3-10 | 8-12 h |
-| [[doet-compound-profile]] (ethyl)
-- dobu-entity|DOBU (butyl)
-- [[phenethylamine-duration-and-timing]]
-- [[2c-family-compounds-overview]]
+| [[phenethylamine-duration-and-timing]]
 - [[lsd-synthesis-history]]
 
 ## Significance

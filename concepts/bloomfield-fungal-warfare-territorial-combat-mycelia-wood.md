@@ -23,21 +23,6 @@ When different species and incompatible strains of the same species
 meet inside wood, they fight or fuse. The resulting conflicts produce
 visible patterns of stained and demarcated wood — what Money calls a
 "Balkan map" etched in black ink on tree stumps and logs. This
-[[fungal-antibiotics-territorial-warfare-nitrogen-acquisition]] is a fundamental driver of fungal community
-structure in forest ecosystems.
-
-## The Battleground: Beech Trees and Wood Decay
-
-Beech trees serve as the primary battleground for swarms of wood decay
-fungi in Midwestern forests. Older trees with fractured crowns are
-shot through with hyphae and sprout clusters of bracket fungi as large
-as park benches. The destruction of a big tree can take a century or
-more and occupies a rich biological community.
-
-To breach the bark, fungi rely upon wood-boring insects, squirrels,
-sapsuckers, woodpeckers, and even humans with penknives. Once these
-vandals have created entry points, an ancient mechanism is initiated
-from above: a basidiospore forms a drop of liquid at its base, the
 [[bloomfield-buller-drop-surface-tension-spore-catapult-basidiospore-discharge]] catapult launches it from its basidium, and gravity
 carries it clear. One among billions, a spore lands in a hole drilled
 by a sapsucker, absorbs water, and germinates. First one hypha, then a
@@ -81,27 +66,12 @@ of mycelia competing for the same woody substrate.
 ## Chemical Weapons and Defenses
 
 Fungal combat involves an arsenal of chemical weapons. Mycelia secrete
-antibiotics and other [[antifungal-secondary-metabolites-coprophilous-fungi]] that inhibit or kill
-competing fungi. Some of these compounds are familiar to humans —
-penicillin, the first widely used antibiotic, was originally
-discovered as a secretion of the mold Penicillium that killed
-surrounding bacteria in a culture dish.
-
-In wood, the [[allelopathy-and-chemical-warfare-in-plants]] is more complex. Fungi produce enzymes
+antibiotics and other [[allelopathy-and-chemical-warfare-in-plants]] is more complex. Fungi produce enzymes
 that degrade the cell walls of competitors, toxins that poison rival
 hyphae, and defensive compounds that protect their own hyphae from
 counterattack. The melanin that stains the zone lines is not merely a
 byproduct of conflict but an active defensive structure — melanized
-cell walls are far more resistant to [[enzymatic-degradation-in-mycoremediation]] and
-chemical attack than unmelanized walls.
-
-## The Balkan Map as Ecological Record
-
-The pattern of zone lines within a decaying tree trunk constitutes a
-remarkable ecological record. By examining the sequence and arrangement
-of territorial boundaries, mycologists can reconstruct the history of
-fungal colonization — which species arrived first, which outcompeted
-others, and how the [[core-endorhiza-bacterial-community-composition-cannabis]] changed over decades or
+cell walls are far more resistant to [[core-endorhiza-bacterial-community-composition-cannabis]] changed over decades or
 centuries.
 
 This is particularly valuable because most fungal activity is hidden

@@ -108,13 +108,8 @@ Several named cultivars exist, including selections with enhanced pink coloring 
 
 ## See Also
 
-- [[echeveria-elegans]]
 - [[echeveria-agavoides]]
-- [[echeveria-lilacina]]
 - [[pachyphytum-oviferum]]
-- [[graptopetalum-paraguayense]]
 - [[sedum-rupestre]]
-- [[aeonium-arboreum]]
 - [[sempervivum-tectorum]]
-- [[crassula-ovata]]
 - [[cotyledon-tomentosa]]

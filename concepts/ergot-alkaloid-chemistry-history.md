@@ -13,50 +13,15 @@ type: concept
 ## Overview
 
 Ergot refers to the sclerotia (hard, dark resting bodies) produced by
-fungi of the genus Claviceps, most notably [[bloomfield-ergot-claviceps-purpurea-ergotism]], which
-parasitizes edible grains including rye, barley, and wheat. These
-sclerotia contain a complex mixture of alkaloids -- powerful compounds
-capable of causing hallucination, triggering uterine contractions, and
-producing profound vasoconstriction. The history of ergot spans from
-ancient [[miniculture-rye-grain-cultivation-method-for-psilocybe-cubensis]] practices through medieval epidemics to the
+fungi of the genus Claviceps, most notably [[miniculture-rye-grain-cultivation-method-for-psilocybe-cubensis]] practices through medieval epidemics to the
 discovery of lysergic acid derivatives that would reshape modern
-psychiatry and [[mckenna-suppression-psychedelic-research-lsd-therapy]].
-
-## The Organism: Claviceps purpurea
-
-Claviceps purpurea is a small fungus that infects edible grains,
-replacing the host grain kernel with a dark, purplish sclerotium -- the
-"ergot of commerce." The purple color traditionally associated with the
-robe of Demeter in Greek mythology may signify the distinctive purple
-color of these sclerotia, which are the asexual resting stage in the
-life cycle of the organism. Mycelium sprouts from them and aggregates to
-form spore-containing asci which, while resembling tiny mushrooms, are
-not purple but rather light bluish.
-
-The fungus infects grain heads during flowering, replacing developing
-kernels with the alkaloid-rich sclerotia. When these infected grains are
-harvested and milled into flour, the alkaloids contaminate the entire
-batch, leading to the condition known as ergotism when consumed.
-
-## Ergot Alkaloid Chemistry
-
-Ergot produces two broad classes of alkaloids:
-
-1. **Peptide alkaloids:** These include ergotamine and ergometrine
-   (ergonovine). They are more toxic and responsible for the
-   vasoconstrictive and gangrenous effects of [[bloomfield-salem-witch-trials-ergot-poisoning-caporael-hypothesis]].
+psychiatry and [[bloomfield-salem-witch-trials-ergot-poisoning-caporael-hypothesis]].
    Ergotamine is used medicinally for migraine treatment, while
    ergometrine is used to control postpartum hemorrhage by inducing
    uterine contractions.
 
-2. **Simple (clavine) alkaloids:** These include [[lysergic-acid-amide]]
-   (LSA) and related compounds. They are less toxic and more
-   psychoactive, similar in structure to the alkaloids found in morning
-   glory seeds (Ipomoea and Rivea species).
-
-The core structural element of all [[claviceps-purpurea-chemistry-and-water-soluble-ergot-alkaloids]] is lysergic acid,
-from which LSD ([[lsd-lysergic-acid-diethylamide-experience-guide]]) was first synthesized by
-[[albert-hofmann]] in 1938 at Sandoz Laboratories in Basel, Switzerland.
+2. **Simple (clavine) alkaloids:** These include [[claviceps-purpurea-chemistry-and-water-soluble-ergot-alkaloids]] is lysergic acid,
+from which LSD ([[albert-hofmann]] in 1938 at Sandoz Laboratories in Basel, Switzerland.
 LSD represents the most potent known psychedelic compound, active at
 doses measured in micrograms.
 
@@ -118,8 +83,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[doc]]
 - [[albert-hofmann]]
-- [[spore]]
 - [[ergometrine]]
 - [[claviceps-purpurea]]

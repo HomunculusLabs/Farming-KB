@@ -10,15 +10,7 @@ topics: ethnobotany, ayahuasca, shamanism, healing, indigenous medicine
 In the Amazon basin, ayahuasca is not merely a recreational substance
 or even a religious sacrament. It is, first and foremost, a medicine —
 a technology of healing that has been refined over centuries of
-empirical practice by [[ethnobotanical-use-of-sacred-mushrooms-in-indigenous-cultures]]. The ayahuasquero, or
-ayahuasca healer, employs a sophisticated therapeutic methodology that
-combines pharmacology, psychology, music, and cultural authority in a
-unified healing practice.
-
-## The Ayahuasca Complex
-
-Ayahuasca is a decoction of two or more plant species, most commonly
-Banisteriopsis caapi (the ayahuasca vine) and [[chacruna-psychotria-viridis]]
+empirical practice by [[chacruna-psychotria-viridis]]
 (chacruna). The B. caapi vine contains harmine and related
 beta-carboline alkaloids that are potent monoamine oxidase (MAO)
 inhibitors. The P. viridis leaves contain N,N-dimethyltryptamine
@@ -62,10 +54,7 @@ the therapist's voice and presence provide a safe container for the
 patient's exploration of difficult material.
 
 Culturally, the icaros invoke spiritual forces and establish the
-[[kava-traditional-preparation-ceremonial-context]] that gives meaning to the experience. The patient
-understands that he is participating in a healing ritual with deep
-roots in his community's traditions. This cultural framing enhances
-the therapeutic impact through what [[fukuoka-eastern-western-medicine-healing-world-crisis]] would call
+[[fukuoka-eastern-western-medicine-healing-world-crisis]] would call
 expectancy effects or the placebo response.
 
 Pharmacologically, some researchers have suggested that the beta-
@@ -98,25 +87,7 @@ group ayahuasca ceremonies. Participants frequently report seeing the
 same visions at the same time, or experiencing a merging of individual
 consciousness into a collective field. Whether this represents genuine
 telepathic communication or the natural convergence of suggestible
-minds in a shared [[ayahuasca-pharmacology-and-cultural-context]], the therapeutic effect is real:
-patients feel supported, connected, and less alone in their suffering.
-
-The group ceremony also serves a social function that individual
-psychotherapy cannot replicate. The patient's healing is witnessed by
-his community, and the community's participation affirms the
-legitimacy of the healing process. This social validation is
-particularly important in cultures where illness is understood not as
-a purely biological phenomenon but as a disruption of social and
-spiritual relationships.
-
-## Contemporary Research
-
-Modern clinical research has begun to validate the therapeutic
-potential that indigenous practitioners have claimed for centuries.
-Controlled studies have demonstrated significant reductions in
-depression and anxiety following ayahuasca administration, and
-neuroimaging research has shown changes in brain activity patterns
-consistent with enhanced [[blesching-cannabis-emotional-processing-expansive-constricting-emotions]] and reduced rumination.
+minds in a shared [[blesching-cannabis-emotional-processing-expansive-constricting-emotions]] and reduced rumination.
 
 The challenge for contemporary science lies in developing research
 methods that can capture the complexity of a therapeutic practice
@@ -128,7 +99,5 @@ therapeutic outcomes.
 
 ## See Also
 
-- [[mckenna-television-as-electronic-drug-media-narcotic]]
 - [[mckenna-the-kingdom-of-fungi]]
-- [[mckenna-club-des-hachischins-and-nineteenth-century-literary-hashish]]
 - [[mckenna-food-of-the-gods-thesis]]

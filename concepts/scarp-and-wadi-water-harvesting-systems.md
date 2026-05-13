@@ -6,59 +6,7 @@ type: concept
 
 # Scarp and Wadi Water Harvesting Systems
 
-Scarps and wadis are among the most productive landscape features for water harvesting in desert environments. These fault-formed cliff-and-valley systems concentrate rainfall run-off into predictable channels, offering the [[permaculture]] designer a framework for capturing, storing, and distributing water that has been successfully employed since ancient times.
-
-## Understanding Scarp and Wadi Formation
-
-### The Scarp Profile
-
-When periods of tectonic uplift fracture desert peneplains, long cliff-lines (some extending many tens of kilometres) stand above a lower erosion surface. While uplift scarps also occur in humid lands, in deserts they remain sharp and angular rather than being softened by vegetation. The typical profile consists of:
-
-- **Upper erosion surface (peneplain)**: Capped with durable ironstones, hard sandstone bands, [[ferricrete]], or [[silcrete]] crustal material.
-- **Cliff face (scarp)**: Generally composed of softer, sometimes bauxitic (aluminium oxide) material.
-- **Lower erosion surface (pediment)**: Covered with silts and sands washed from the wadis and distributed by wind.
-
-This profile can develop from a previously rounded humid landscape in as little as 50 years following deforestation, overgrazing, or erosion.
-
-### Wadi Characteristics
-
-Wadis are the box canyons and valleys that drain the scarp system, typically at near-right angles to the scarp face. Within wadi sides, smaller valleys branch off again at roughly right angles, reflecting the pattern of parallel fault weakness and compensating joints in the rock.
-
-When rain falls on the hard rock surface of the upper scarp, water follows gentle valleys behind the scarp and plunges as sudden waterfalls over cliff ends of the wadis. Just before doing so, turbulence scours out deep holes (scour holes) in the upper surface. Water may rush through the system in torrents for 3-4 days after rain, with discharge volume largely determined by catchment area.
-
-### Scour Holes and Cliff Notches
-
-Scour holes are naturally excavated depressions just before water plunges over wadi walls. Some can be enlarged into cisterns, and all serve as critical wildlife water sources, especially for birds. Old, sand-filled holes can be rock-rimmed to create tree planting sites.
-
-Cliff-base notches, formed by water curtains or seepage undercutting the soft scarp material, range from small (shade for a kangaroo) to very large (room for a six-storey house). These notches provide shelter for pigeons, owls, swallows, swifts, rodents, reptiles, and insects.
-
-## Water Storage and Harvesting Strategies
-
-### Upper Surface Strategies
-
-Starting on the top erosion surface:
-
-1. **Stone and cement dams** across gentle valleys of the upper plateau hold clean water and can be fitted with plugs or base pipes to release flood water gradually.
-2. **Gutters** cut across the scarp top above useful caves prevent excessive water from splashing over inhabited sites.
-3. **Scour holes** can be cleared of silt, deepened, and sealed to serve as tank storages. Some can lie inside dam walls as deep spots.
-4. **Diversion channels** can be cut away from the main valley head, spilling a larger proportion of water to side valleys and lessening the torrent in any single channel.
-5. **Concrete or stone chutes** leading to excavated pools at the cliff base moderate the erosive effect of remaining torrents.
-
-### Wadi Floor Strategies
-
-The wadi floor is where deep sands, gravels, and silts accumulate—the most productive zone for cultivation:
-
-1. **Rock walls** erected across the wadi floor create silt fields behind them. In minor wadis, the entire width may be dammed with spillways cut in pediment rock. In wide wadis, a central channel is left open with fields built to the sides, fed by side valleys.
-2. **Earth and stone banks** on the lower plain, stabilised with unpalatable shrubs, spread flood water broadly and allow deep infiltration.
-3. **Windmills** over wells or bores near the scarp pump fresh water to tanks or rock cisterns on the upper peneplain, from which gravity flow delivers it to cliff-base houses.
-
-### The Ideal: Zero Run-off
-
-The design goal is to let a minimum of water escape as run-off and to absorb as much fresh rain water as possible in fields or silt beds. The target is approximately 0.5-1.0 m of water absorbed into each field per rain event—enough to grow a crop of grains or maintain palms and fruit trees. Upper reservoirs can be released soon after torrents cease to top up the system.
-
-## The Nabatean Model
-
-The most extensively studied wadi development is the ancient **Nabatean system** of the Negev desert (documented by Michael Evenari and D. Koller, 1956). These systems demonstrate the sophisticated [[water-management]] achievable in wadi landscapes:
+Scarps and wadis are among the most productive landscape features for water harvesting in desert environments. These fault-formed cliff-and-valley systems concentrate rainfall run-off into predictable channels, offering the [[ferricrete]], or [[water-management]] achievable in wadi landscapes:
 
 - Hold 80-90% of run-off behind dykes in wadis, spreading water to lower dykes on the plains.
 - Highly coordinated flood-and-soak regimes deliver water to orchards.
@@ -84,3 +32,88 @@ All wells, pools, and dams gather silt and require periodic cleaning. Dams can b
 ## Modern Potential
 
 With modern machines, fencing, windmills, and solar panels or photovoltaics, many wadi systems currently grazed or neglected could be creatively occupied on a modest scale and planted with desert forestry. Large trees already grow in most wadis, shaded and protected by cliffs. By restricting hoofed animals, many more trees would establish naturally—overgrazing is identified as the most obvious plague of arid lands.
+
+## Overview
+
+Scarp And Wadi Water Harvesting Systems represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish scarp and wadi water harvesting systems
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving scarp extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Scarp And Wadi Water Harvesting Systems finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for scarp and wadi water harvesting systems. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+scarp and wadi water harvesting systems and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Scarp And Wadi Water Harvesting Systems has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of scarp and wadi water harvesting systems into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[arid-landscape-scarp-wadi-desert-settlement]]
+- [[scarp-and-wadi-water-harvesting]]
+- [[wadi]]
+- [[water-spreading-techniques-drylands]]
+- [[water-storage-scarp-wadi-landscapes]]

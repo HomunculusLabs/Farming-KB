@@ -53,34 +53,85 @@ Dieldrin is a persistent organochlorine insecticide and the primary environmenta
 
 ### Land Assessment Critical
 - Former orchards, cane fields, cotton fields, banana plantations, and pineapple farms are highest risk
-- [[soil-testing]] for organochlorine residues is mandatory before food production on previously farmed land
-- Even tested soil may not reveal the full extent of contamination at depth
-- Animal products concentrate Dieldrin more than plant products
-- Free-range poultry and grazing animals are especially at risk on contaminated land
+- [[bill-mollison-permaculture-a-designers-manual-soil-and-humus-management]]
+- [[mollison-designers-humus-building-and-soil-organic-matter]]
 
-### Practical Management
-- No food animal products (milk, eggs, meat) are safe on contaminated land
-- Even vegetables may carry unsafe residues, especially root crops
-- Forestry and non-food timber production may be the only safe use for decades
-- Soil washing and thermal treatment are technically possible but prohibitively expensive
-- The contamination persists across property boundaries through soil movement and water flow
-- Large quantities of lead, arsenic, copper, and persistent biocides remain on most apple orchards
+## Overview
 
-### Permaculture Ethics Connection
-- Dieldrin contamination exemplifies why permaculture principles reject all biocide use
-- Demonstrates the concept of irreversible damage from extractive agriculture
-- Highlights the importance of knowing land use history in site analysis and design
-- Supports the case for organic, closed-loop production systems
-- Shows why soil conservation is always preferable to soil remediation
-- We must not add to this mess: avoid all biocides and high levels of nitrates
+Dieldrin represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
 
-## References
+## Key Characteristics
 
-- Mollison, B. (1988). *Permaculture: A Designers' Manual*. Tagari Publications. Chapter 8: Soils.
-- Stockholm Convention on Persistent Organic Pollutants (2001).
+Several defining characteristics distinguish dieldrin
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving dieldrin extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Dieldrin finds practical application in multiple design contexts.
+[[permaculture-principles]] guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for dieldrin. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+dieldrin and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Dieldrin has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of dieldrin into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
 
 ## See Also
-
-- [[bill-mollison-permaculture-a-designers-manual-soil-and-humus-management]]
-- [[bill-mollison-permaculture-a-designers-manual-aquaculture-and-water-systems]]
-- [[mollison-designers-humus-building-and-soil-organic-matter]]
+- [[bill-mollison-permaculture-a-designers-manual-dryland-strategies-and-desert-agriculture]]

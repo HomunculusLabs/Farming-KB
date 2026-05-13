@@ -4,13 +4,12 @@ created: 2026-04-12
 updated: 2026-04-13
 type: concept
 tags: [season-extension, gardening, permaculture, homesteading, construction]
-sources:
-  - "raw/papers/marijuana-horticulture-cervantes.md"
+sources: []
 ---
 
 # Cold Frame Gardening
 
-A cold frame is a simple, bottomless box with a transparent lid that captures solar energy to create a warm, protected microclimate for plants. It is the most basic and affordable [[cervantes-season-extension-cloches-row-covers]] structure, providing 10-20°F of [[mollison-frost-protection-and-thermal-belt-design]] extending [[query-how-to-protect-plants-from-frost-and-extend-the-growing-season]] by 4-8 weeks in both spring and fall. Cold frames are also indispensable for [[hamilton-cold-frames-and-hardening-off]] seedlings started indoors.
+A cold frame is a simple, bottomless box with a transparent lid that captures solar energy to create a warm, protected microclimate for plants. It is the most basic and affordable season extension structure, providing 10-20°F of frost protection and extending the growing season by 4-8 weeks in both spring and fall. Cold frames are also indispensable for hardening off seedlings started indoors.
 
 ## How Cold Frames Work
 
@@ -19,7 +18,7 @@ Cold frames operate on the greenhouse effect:
 1. Sunlight passes through the transparent lid and warms the soil and air inside
 2. The lid traps the heat, preventing it from escaping
 3. The insulated sides and bottom reduce heat loss
-4. On cold nights, the captured solar heat radiates back to the plants, providing [[cervantes-microclimate-frost-protection]]
+4. On cold nights, the captured solar heat radiates back to the plants, providing frost protection
 
 ### Temperature Performance
 
@@ -33,10 +32,10 @@ Cold frames operate on the greenhouse effect:
 ### Standard Size
 
 - **Width:** 3-4 feet — allows you to reach all plants from the outside without stepping inside
-- **Length:** 4-8 feet — matches standard window sash dimensions and provides adequate [[cotter-growing-space-design-fruiting-rooms]]
+- **Length:** 4-8 feet — matches standard window sash dimensions and provides adequate growing space
 - **Front height (south side):** 8-12 inches
 - **Back height (north side):** 12-18 inches
-- **Slope:** Angled toward the south to maximize [[savory-energy-flow-and-solar-capture]]
+- **Slope:** Angled toward the south to maximize solar capture
 
 ### Why the Slope?
 
@@ -58,7 +57,7 @@ The lid slopes from the higher back (north) to the lower front (south) to:
 
 - **Plywood or OSB:** Cheap and easy to cut. Exterior-grade plywood lasts 5-10 years. Paint or seal for durability.
 - **2x6 or 2x8 lumber:** More durable than plywood. Cedar, redwood, or treated lumber for longest life.
-- **Concrete blocks or bricks:** Very durable, good [[comparison-windbreak-vs-thermal-mass]]. Heavy and not portable. Stack without mortar for a simple build.
+- **Concrete blocks or bricks:** Very durable, good thermal mass. Heavy and not portable. Stack without mortar for a simple build.
 - **Straw bales:** Arrange bales in a rectangle and place an old window or glass door on top. Very low cost, excellent insulation, but temporary and attracts rodents.
 - **Earth bags:** Polypropylene bags filled with earth, stacked to form the walls. Low cost, good thermal mass.
 
@@ -127,7 +126,7 @@ Ventilation is the most important cold frame management task:
 
 ### Fall and Winter Uses
 
-- **Fall [[coleman-semi-hibernating-winter-crops-harvest-extension]]:** Plant fall crops (lettuce, spinach, radishes, arugula, mache, claytonia) in September-October. Harvest through December or later depending on climate.
+- **Fall harvest extension:** Plant fall crops (lettuce, spinach, radishes, arugula, mache, claytonia) in September-October. Harvest through December or later depending on climate.
 - **Overwintering:** Sow hardy crops (spinach, garlic, onion sets, mache) in late fall for very early spring harvest
 - **Winter greens:** In mild climates (zone 7+), cold frames can produce greens year-round. In colder climates, add row cover inside for double protection.
 
@@ -141,10 +140,11 @@ Ventilation is the most important cold frame management task:
 | May-August | Remove lid or use cold frame as a raised bed |
 | September | Sow fall greens (lettuce, spinach, arugula, radishes) |
 | October | Sow overwintering crops (spinach, mache, garlic) |
-| November-December | Harvest fall crops; close lid at night |
 
-## Maintenance
+## See Also
 
-- **Clean the lid:** Dirty glazing reduces light transmission by 20-40%. Wash periodically with mild soap and water.
-- **Check seals:** Replace weatherstripping around the lid if you notice gaps where heat escapes
-- **Replace the covering:** Poly film lasts 1-2 seasons; polycarbonate lasts 10+ years; old windows may need re-puttying
+- [[permaculture-designers-manual-cold-climate-design]]
+- [[coleman-overwintered-spinach-cold-house-production]]
+- [[comparison-cold-frame-gardening-vs-greenhouse-growing]]
+- [[plant-antifreeze-proteins-cold-acclimation]]
+- [[query-what-is-the-difference-between-hot-compost-and-cold-compost]]

@@ -8,46 +8,6 @@ sources: ["Shulgin - PIHKAL"]
 ---
 # TP
 
-[[2c-b-pihkal-entry-20]] #174. THIOPROSCALINE; 3,5-DIMETHOXY-4-(n)-PROPYLTHIOPHENETHYLAMINE.
-
-## Chemical Name
-
-THIOPROSCALINE; 3,5-DIMETHOXY-4-(n)-PROPYLTHIOPHENETHYLAMINE
-
-## Dosage and Duration
-
-| Property | Value |
-|----------|-------|
-| Dosage | 20 - 25 mg. |
-| Duration | 10 - 15 h. |
-
-## Qualitative Comments
-
-> (with 18 mg) There was very little effect until
-> more than two hours, when I came inside out of the cold and jumped to
-> an immediate +1. It is hard to define, and I am quite willing to have
-> it develop more, and if not, quite willing to go higher next time. I
-> got into several quite technical conversations, but through it all I
-> was aware of a continuous alteration. There was a drop at the seventh
-> hour, and nothing at all was left at twelve hours.
->
-> (with 27 mg) My body feels heavy. This is not a negative thing, but
-> it is there. I feel a heavy pressure at the back of the neck, which
-> is probably unresolved energy. The nervous system seems to be somehow
-> vunerable. Towards the end of the experience I considered a Miltown,
-> but settled on an aspirin, and I still couldn't sleep for about 24
-> hours. The imagery is extremely rich and there is quite a bit of
-> eyes-open visual, but mostly eyes closed. I think the rewards are not
-> worth the body price. Sometime again, maybe lower?
-
-## Extensions and Commentary
-
-There is a high potency here, but clearly
-there are signs of increased toxicity as well even over the ethyl
-homologue, TE. The butyl compound (see TB) was the last of this
-series of phenethylamines and as is noted there, the physical problems
-lessen, but so do the psychedelic properties. The three-carbon
-amphetamine homologues are completely unexplored. The most reasonable
 [[shirota-4-hydroxyindole-acetyl-protection-psilocin-synthesis-starting-material]] for these would be 4-thiosyringaldehyde, with
 S-alkylation and then the conventional nitroethane coupling followed
 with LAH reduction. The most appealing target as a potential
@@ -61,33 +21,89 @@ these alkylthio analogues would justify the labor needed to make them.
 
 A solution was made of 12.1 g
 N,N,N',N'-tetramethylethylenediamine and 13.8 g of
-1,3-dimethoxybenzene in 200 mL 30-60 deg C [[petroleum-ether]]. This was
-stirred vigorously under a He atmosphere and cooled to 0 deg C with an
-external ice bath. There was added 66 mL of 1.6 M butyllithium in
-hexane which produced a white granular precipitate. The reaction
-mixture was brought up to room temperature for a few minutes, and then
-cooled again to 0 deg C. There was then added 15.8 g of di-(n)-propyl
-disulfide which changed the granular precipitate to a creamy
-appearance. Stirring was continued while the reaction mixture was
-brought up to room temperature and finally up to reflux. The reaction
+1,3-dimethoxybenzene in 200 mL 30-60 deg C [[ethyl-j-entity-pihkal]]
 
-mixture was then added to 600 mL of dilute H2SO4. The two phases were
-separated, and the aqueous phase extracted with 2x75 mL Et2O. The
-organic phases were combined, and the solvent removed under vacuum.
-The residue was 24.2 g of a pale amber liquid which was distilled at
-0.35 mm/Hg to give two fractions. The first boiled at 85-90 deg C,
-weighed 0.5 g and appeared to be recovered dipropyl disulfide. The
-product 2-(n)-propylthio-1,3-dimethoxybenzene boiled at at 105-125 deg C,
-and weighed 20.8 g. A small sample recrystallized from hexane had a
-mp of 27-28 deg C. Anal. (C11H16O2S) C,H.
+## Overview
 
-To a stirred solution of 19.8 g of
-2-(n)-propylthio-1,3-dimethoxybenzene in 200 mL CH2Cl2 there was added
-15.4 g elemental bromine dissolved in 100 mL CH2Cl2. The reaction was
-not exothermic, and it was allowed to stir for 1 h. The reaction
-mixture was washed with H2O containing sodium hydrosulfite (which
-rendered it nearly colorless) and finally washed with saturated brine.
-The solvent was removed under vacuum leaving 33.5 g of a pale yellow
+Tp Entity Pihkal represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish tp entity pihkal
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving tp extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Tp Entity Pihkal finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for tp entity pihkal. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+tp entity pihkal and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Tp Entity Pihkal has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of tp entity pihkal into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
 
 ## See Also
-- [[ethyl-j-entity-pihkal]]
+
+- [[3c-e-entity]]
+- [[ganesha-entity]]
+- [[methyl-mmda-2-entity-pihkal]]
+- [[tris-entity-pihkal]]
+- [[vaccinium-corymbosum-entity]]

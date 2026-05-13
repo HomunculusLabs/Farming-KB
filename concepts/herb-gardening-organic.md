@@ -12,42 +12,9 @@ sources:
 
 Updated: 2026-04-18
 
-Herbs should always be included in the organic garden, for both practical and aesthetic reasons. They are generally not difficult to grow and most are extremely decorative plants that help attract useful predators, as well as pollinating insects like bees. They can be planted around shrubs as ground cover to aid [[compost-building-guide]]. Since most herbs prefer a soil pH of 7.0-7.5, [[staycare-spent-mushroom-compost-bioremediation]] compost is ideal.
+Herbs should always be included in the organic garden, for both practical and aesthetic reasons. They are generally not difficult to grow and most are extremely decorative plants that help attract useful predators, as well as pollinating insects like bees. They can be planted around shrubs as ground cover to aid [[staycare-spent-mushroom-compost-bioremediation]] compost is ideal.
 
-The one thing most herbs cannot stand is bad drainage. If your soil is wet and heavy and cannot be improved by deep digging or the inclusion of coarse sand and [[hamilton-composting-and-organic-matter-management]], build a raised bed at least 12in (30cm) high using brick, stone, or old railroad ties.
-
-## Sowing and Planting Herbs
-
-The first essential is to ensure the soil is completely free of weeds. Even a sprig of ground elder root or couch grass will thrive unnoticed among sprawling herbs. If the area is weedy, dig it thoroughly, cover with black plastic sheeting dug into the ground, and leave it for a year.
-
-Consider the potential height and spread of each plant, its rate of growth, and how much sun it prefers. Plants like lovage grow to enormous proportions and are only suitable for the back of a large herb garden. Borage needs full sun; mint will thrive in semi-shade but is very invasive and should be planted in a bucket sunk in the ground with the rim above soil level.
-
-For container-grown plants in spring or summer, rake in two handfuls of blood, fish, and bone meal per square yard/meter about two weeks before planting. Use bone meal alone before planting herbs in fall and winter.
-
-## Maintaining an Herb Garden
-
-- **Feeding:** A mulch of well-rotted manure or compost applied 2-3in (5-7.5cm) thick in mid or late winter will maintain fertility. Guard against slugs
-- **Watering:** Some watering may be necessary in dry weather. Use a sprinkler for at least two hours to ensure water permeates to lower levels
-- **Weeding:** Remove weeds by hand during early stages. Once established, herbs will spread and inhibit weeds themselves
-- **Pruning:** Herbs like lavender and thyme must be trimmed back after flowering to keep them compact. Regular harvesting keeps most herbs in check
-- **Thinning:** Watch for self-sown seedlings. Borage, mint, and especially feverfew can completely take over if unchecked
-- **Propagation:** Perennial herbs can be dug up and divided in fall and early winter. Shrub herbs like rosemary, bay, and lavender propagate from softwood cuttings in early summer
-
-## Harvesting and Storing Herbs
-
-Many herbs can be preserved by drying, which sometimes actually improves the flavor. Pick leaves for drying before the plant flowers, taking only young, healthy leaves. Tie stems in small bunches and hang in a dry, airy place. Do not tie large bunches together as this slows drying. Handle leaves carefully to avoid losing essential oils. Crumble dried leaves into airtight jars.
-
-For seed harvesting, hang stems just as seeds ripen with a cloth or bowl beneath to catch them. Save seeds of annual herbs for sowing the following year.
-
-**Freezing alternatives:** Parsley, basil, and mint freeze well in ice cubes. Borage leaves freeze successfully. Balm leaves can be frozen in plastic bags or ice cubes. Chives and mint can be frozen into ice cubes but do not dry well.
-
-## Specific Cultivation Notes
-
-### Mint
-Plant root cuttings taken in fall. Mint can be very invasive, so plant it in a bucket or plastic tub sunk in the ground with the rim above soil level. Plant 2ft (60cm) away from other herbs. At the end of the season, dig up a few roots and pot them for a greenhouse supply through winter.
-
-### French Tarragon
-Cannot be grown from seed -- buy young plants and space 18in (45cm) apart. Mature plants can be divided in spring. In winter, mulch with straw or bracken for [[holzer-frost-protection-techniques]]. Dig, divide, and replant every four years as the flavor deteriorates with age.
+The one thing most herbs cannot stand is bad drainage. If your soil is wet and heavy and cannot be improved by deep digging or the inclusion of coarse sand and [[holzer-frost-protection-techniques]]. Dig, divide, and replant every four years as the flavor deteriorates with age.
 
 ### Basil
 Plant in a sunny, sheltered place in the best possible soil. Sow in small pots inside in early spring, harden off, and plant 12in (30cm) apart when all danger of frost has passed. Pinch off flower buds to maintain growth. Leaves can be dried quickly in a hot oven or frozen in ice cubes.
@@ -78,16 +45,7 @@ Hardy perennial with a sharp taste -- use sparingly. Prefers partial shade and m
 
 ## Herbs as Companion Plants
 
-Herbs play an important role in organic gardens as companion plants. Their strong scents can deter pests, and their flowers attract [[comparison-beneficial-insects-guide-vs-integrated-pest-management]]:
-- Borage attracts bees and deters tomato hornworm
-- Dill attracts beneficial wasps that prey on caterpillars
-- Thyme attracts pollinating bees
-- Rosemary deters cabbage fly and carrot fly
-- Mint deters cabbage white butterflies and ants
-- Sage repels cabbage moths and carrot fly
-- Chives deter aphids when planted near roses
-
-Source: Geoff Hamilton, [[hamilton-geoffhamilton-nick-organic-gardening-companion-planting]] (Nick Hamilton, ed.), 2010
+Herbs play an important role in organic gardens as companion plants. Their strong scents can deter pests, and their flowers attract [[hamilton-geoffhamilton-nick-organic-gardening-companion-planting]] (Nick Hamilton, ed.), 2010
 
 ## Practical Applications
 
@@ -118,8 +76,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[det]]
 - [[composting]]
-- [[geoff-hamilton]]
 - [[hamilton-geoffhamilton-nick-organic-gardening-herb-garden]]
 - [[herb-gardening-organic-hamilton]]

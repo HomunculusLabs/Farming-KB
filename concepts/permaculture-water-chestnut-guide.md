@@ -6,7 +6,7 @@ type: concept
 tags: [permaculture, design]
 sources: [/Users/t3rpz/wiki/raw/papers/a-guide-to-home-scale-permaculture-gaias-garden-a-guide-to-home-scale-permacultu.md]
 ---
-Updated: 2026-04-18 Water chestnuts (Eleocharis dulcis) are aquatic vegetables that grow in shallow water. Despite the name, they are not nuts but water plants that produce small, rounded, crunchy edible corms. ## Uses - Edible vegetable (corms) - Water plant ## Growing Conditions - Long [[savory-growing-season-and-non-growing-season-management]] - Full sun - Planted around shallow edges of a pond - Water level should stay at least 2 inches above the soil - Not frost tolerant ## Varieties Chinese water chestnut (Eleocharis dulcis) is the standard edible variety, producing corms 1-1.5 inches in diameter. Two main types exist: the "green" and "red" varieties, referring to the skin color of the corm. The green type is more common and has a sweeter flavor, while the red type is slightly starchier. Improved cultivars from Chinese agricultural stations produce larger corms with thinner skins. Eleocharis tuberosa is a related species found in [[psilocybe-southeast-asia-pacific]]. Ornamental water chestnuts are not edible — always confirm you are purchasing food-grade corms from a reliable source. ## Propagation Water chestnuts are propagated from corms. Plant whole corms 2-3 inches deep in rich, muddy soil at the shallow edges of a pond or in containers filled with water-retentive soil. Planting is done in spring after the last frost. Each planted corm will produce a clump of grass-like stems and 10-20 new corms by season's end. In cooler climates, start corms indoors in containers of water in early spring, then transplant when water temperatures reach 65°F (18°C). Maintain constant water level throughout the growing season. ## [[comparison-companion-planting-reference-vs-jadam-monoculture-critique]] In  systems. They pair well with taro, lotus, and water mimosa in pond edge plantings. The grass-like foliage provides habitat for aquatic insects and small fish. Water chestnuts can be interplanted with [[permaculture-wildlife-corridors]], water chestnuts are food producers, providing edible corms while creating aquatic habitat for beneficial insects, amphibians, and fish.
+Updated: 2026-04-18 Water chestnuts (Eleocharis dulcis) are aquatic vegetables that grow in shallow water. Despite the name, they are not nuts but water plants that produce small, rounded, crunchy edible corms. ## Uses - Edible vegetable (corms) - Water plant ## Growing Conditions - Long [[psilocybe-southeast-asia-pacific]]. Ornamental water chestnuts are not edible — always confirm you are purchasing food-grade corms from a reliable source. ## Propagation Water chestnuts are propagated from corms. Plant whole corms 2-3 inches deep in rich, muddy soil at the shallow edges of a pond or in containers filled with water-retentive soil. Planting is done in spring after the last frost. Each planted corm will produce a clump of grass-like stems and 10-20 new corms by season's end. In cooler climates, start corms indoors in containers of water in early spring, then transplant when water temperatures reach 65°F (18°C). Maintain constant water level throughout the growing season. ## [[permaculture-wildlife-corridors]], water chestnuts are food producers, providing edible corms while creating aquatic habitat for beneficial insects, amphibians, and fish.
 
 ## Culinary Uses
 
@@ -14,7 +14,7 @@ Water chestnuts can be eaten raw with a crunchy, slightly sweet flavor, or boile
 
 ## Pests and Diseases
 
-Water chestnuts are relatively pest-free but can face several challenges. Aquatic snails may feed on young shoots. [[jadam-rice-water-weevil-control]] can damage corms in warmer regions. Stem rot (Fusarium) can occur in poorly circulated water — maintain fresh water flow. Rodents such as muskrats and rats may dig up and eat corms, requiring protective mesh barriers. Algae blooms in stagnant water can compete for nutrients and oxygen — adding duckweed or small fish helps maintain water quality. [[cannabis-grow-nutrient-deficiency-problem-solving]] shows as yellowing foliage; amend with compost or well-rotted manure.
+Water chestnuts are relatively pest-free but can face several challenges. Aquatic snails may feed on young shoots. [[cannabis-grow-nutrient-deficiency-problem-solving]] shows as yellowing foliage; amend with compost or well-rotted manure.
 
 ## Harvesting
 
@@ -40,11 +40,7 @@ Water chestnuts can be:
 
 ## Storage
 
-Fresh water chestnuts can be stored in the refrigerator in a sealed bag for up to two weeks. For longer storage, they can be peeled and frozen for several months. Canning preserves them for a year or more. Unlike many [[growing-root-vegetables-guide]], water chestnuts do not store well at room temperature and will sprout or rot quickly if left in warm, humid conditions.
-
-## Permaculture Design Role
-
-In [[permaculture-food-forest-design-principles]], aquatic zones with water chestnuts create productive edge environments that increase overall system yield. Their annual growth cycle allows for flexible management — corms can be partially harvested while leaving some to regrow the following season.
+Fresh water chestnuts can be stored in the refrigerator in a sealed bag for up to two weeks. For longer storage, they can be peeled and frozen for several months. Canning preserves them for a year or more. Unlike many [[permaculture-food-forest-design-principles]], aquatic zones with water chestnuts create productive edge environments that increase overall system yield. Their annual growth cycle allows for flexible management — corms can be partially harvested while leaving some to regrow the following season.
 
 ## Container Growing Methods
 

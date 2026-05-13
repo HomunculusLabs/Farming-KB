@@ -11,7 +11,7 @@ type: concept
 
 ## Solomon's Approach to Raised Beds
 
-Solomon uses raised beds but with a very different philosophy from the [[solomon-wide-spacing-versus-intensive-gardening-debate]] school. Most of his garden, except for running vines and blocks of corn, is grown on 4 x 25 foot (1.25 by 7.5 meter) raised beds. However, his spacings reflect large individual growing areas per plant -- typically 4-6 times more room per plant than [[row-gardening-vs-intensive-methods-solomon]] recommend.
+Solomon uses raised beds but with a very different philosophy from the [[row-gardening-vs-intensive-methods-solomon]] recommend.
 
 ## Why Raised Beds
 
@@ -31,24 +31,7 @@ Retaining walls or perimeter boards (typically 1x6 or 2x6 lumber) hold the bed s
 For new beds, the standard approach involves loosening the soil to two feet deep (60 cm), allowing root systems to go down instead of out. However, Solomon cautions that this "double-digging" approach is labor-intensive and unnecessary for the extensive spacing he recommends -- with wider spacing, roots don't need to go as deep because they aren't competing with neighbors for horizontal space.
 
 ### Soil Depth
-Raised beds should have at least 6-8 inches (15-20 cm) of loose, fertile soil above the original ground level. This is achieved by incorporating [[coleman-compost-and-organic-fertility-management]] matter into the native soil and mounding it up.
-
-## Solomon's Spacing on Beds
-
-On 4-foot-wide raised beds, Solomon typically plants:
-- A single row down the center for large plants (broccoli, cabbage, peppers)
-- Two rows for medium plants (carrots, beets, onions)
-- The between-row spacing is much wider than intensive methods -- typically 18-48 inches depending on the crop and water availability
-
-This means on a 4-foot bed, you might have only one row of broccoli plants spaced 24 inches apart in the row, or two rows of carrots spaced 3 inches apart in the row with 18 inches between rows. The wide between-row spacing allows root systems to expand horizontally without competition.
-
-## Raised Beds Without Irrigation
-
-In areas dependent on rainfall, raised beds dry out faster than level ground. This is a significant disadvantage in dry climates. Solomon's recommendation for non-irrigated gardens is to use level ground (flat beds) rather than raised beds, or to use very wide spacing that allows each plant to access a large soil moisture reservoir.
-
-## Double-Digging: Solomon's Assessment
-
-The [[jeavons-grow-biointensive-method-overview]] calls for double-digging beds to two spade depths (about 24 inches / 60 cm). Solomon acknowledges this creates excellent soil conditions but questions whether the enormous labor investment is worthwhile when extensive spacing allows plants to access sufficient soil volume without such deep preparation.
+Raised beds should have at least 6-8 inches (15-20 cm) of loose, fertile soil above the original ground level. This is achieved by incorporating [[jeavons-grow-biointensive-method-overview]] calls for double-digging beds to two spade depths (about 24 inches / 60 cm). Solomon acknowledges this creates excellent soil conditions but questions whether the enormous labor investment is worthwhile when extensive spacing allows plants to access sufficient soil volume without such deep preparation.
 
 His practical compromise: loosen the bed to one spade depth initially, add organic matter, and allow plant roots and cover crops to deepen the soil profile over subsequent seasons. The extensive spacing means roots can spread wide rather than needing to go deep.
 
@@ -74,16 +57,91 @@ Solomon's approach to bed management across seasons reflects his low-input philo
 - **Spring preparation**: Loosen beds with a spading fork to one spade depth, incorporating any overwintered cover crop residue. Avoid working soil when wet — wait until it crumbles rather than smears
 - **Summer maintenance**: Mulch between plants with grass clippings or straw to retain moisture and suppress weeds. Avoid cultivating deeply and disturbing root zones of established plants
 - **Fall preparation**: After harvest, sow cover crops (especially in beds that held heavy feeders). The cover crop roots maintain soil structure through winter and the top growth provides spring mulch material
-- **Bed rotation**: Move crop families to different beds each year to break [[hamilton-pest-and-disease-control-organic]] cycles. Solomon recommends a minimum 3-year rotation for brassicas and solanaceae
-
-## Compost and Organic Matter in Beds
-
-Solomon's approach to bed fertility differs from intensive methods in quantity and type:
-- **Moderate compost rates**: Apply 1-2 inches of finished compost per bed annually, not the 4-6 inches that biointensive methods recommend. Excessive compost, especially with high-nitrogen manures, produces sappy, pest-prone growth
-- **Complete [[complete-organic-fertilizer-cof-recipe-solomon]] (COF)**: Solomon's signature fertilizer blend provides balanced minerals including seed meal (nitrogen), bone meal or rock phosphate (phosphorus), agricultural lime or dolomite (calcium/magnesium), and kelp meal (trace minerals). See [[solomon-soil-preparation-bed-prep]]
-
-- [[solomon-cover-crops-green-manure-guide]] for incorporating organic matter into beds
-- [[intensive-gardening-critique-solomon]] for irrigation on raised beds
+- **Bed rotation**: Move crop families to different beds each year to break [[complete-organic-fertilizer-cof-recipe-solomon]] (COF)**: Solomon's signature fertilizer blend provides balanced minerals including seed meal (nitrogen), bone meal or rock phosphate (phosphorus), agricultural lime or dolomite (calcium/magnesium), and kelp meal (trace minerals). See [[solomon-cover-crops-green-manure-guide]] for incorporating organic matter into beds
 - [[root-competition-plant-spacing-solomon]]
-- [[green-manure-cover-crops]]
 - [[soil-preparation-organic-gardens]]
+
+## Overview
+
+Solomon Raised Beds And Bed Preparation represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish solomon raised beds and bed preparation
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving solomon extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Solomon Raised Beds And Bed Preparation finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for solomon raised beds and bed preparation. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+solomon raised beds and bed preparation and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Solomon Raised Beds And Bed Preparation has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of solomon raised beds and bed preparation into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[solomon-disease-identification-and-organic-remedies]]
+- [[solomon-manure-types-and-nutrient-values]]
+- [[solomon-seed-saving-vegetable-breeding]]
+- [[solomon-soil-preparation-bed-prep]]
+- [[solomon-transplanting-and-hardening-off]]

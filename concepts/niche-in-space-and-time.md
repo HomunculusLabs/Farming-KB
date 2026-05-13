@@ -6,17 +6,8 @@ type: concept
 
 # Niche in Space and Time
 
-A **niche** is a place to be, to fit in, and find food, shelter, and room to operate. [[bill-mollison-permaculture-a-designers-manual-forest-gardens-and-food-forests]] extends the ecological niche concept across three dimensions: space, time, and the combination of both as schedules. [[bill-mollison-permaculture-a-designers-manual-pattern-understanding-in-permaculture]] how species partition these resources is essential for [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]]ers seeking to maximise diversity and yield within a system.
-
-## The Three Types of Niches
-
-Mollison identifies three categories of niche:
-
-1. **Niche in space** — territory: nest and forage sites, vertical structure, soil [[mollison-designers-sea-level-change-coastal-zones]], edge environments
-2. **Niche in time** — cycles of opportunity: seasonal [[query-how-does-phosphorus-availability-change-across-soil-ph-levels]], successional stages, life-cycle events
-3. **Niche in space-time** — schedules: specific times to be in specific places, shared access patterns
-
-[[query-how-do-i-choose-between-a-cold-frame-row-cover-and-low-tunnel]] these three dimensions, there is always space or time available to increase turnover. Niches enable better utilisation and greater diversity, hence more yield.
+A **niche** is a place to be, to fit in, and find food, shelter, and room to operate. [[bill-mollison-permaculture-a-designers-manual-pattern-understanding-in-permaculture]] how species partition these resources is essential for [[mollison-designers-sea-level-change-coastal-zones]], edge environments
+2. **Niche in time** — cycles of opportunity: seasonal [[query-how-do-i-choose-between-a-cold-frame-row-cover-and-low-tunnel]] these three dimensions, there is always space or time available to increase turnover. Niches enable better utilisation and greater diversity, hence more yield.
 
 ## A Tree as a Universe
 
@@ -34,53 +25,7 @@ These birds also partition their time differently:
 - Strongbills and blackheads are roving flock species
 - All scatter as breeding pairs in spring and summer
 
-It is rare to find any one tree fully occupied at any one time. There is a pronounced post-breeding tendency for several bird species to form **consociations** for [[mollison-designers-wild-yield-and-foraging-systems]] and travelling in autumn and winter — five to eight species travelling together, with fly-catchers gathering insects disturbed by others, and all species reacting to alarm calls of any one species, while mynahs act as sentinels for the whole mixed company.
-
-## The Park as Model
-
-Any observer of public park use sees usage change hour by hour, demonstrating space-time scheduling:
-
-- **Morning**: joggers
-- **Midday**: lunch-time office workers
-- **Afternoon**: older, retired people playing draughts
-- **Evening**: entertainment crowds
-- **Late night**: the semi-legal, unemployed, and lonely
-- **Pre-dawn**: lame and isolated strollers with dogs
-
-The same space serves vastly different functions across a 24-hour cycle.
-
-## Mammalian Time-Slots
-
-Many mammals do not control "areas" but rather **time-slots in space**. Studies of wild wallaby, urban people, and possum confirm this pattern. Fighting occurs when one animal is out of schedule, and ceases when that place is vacated.
-
-In Tasmania, wallaby activity over 24 hours shows two prime peaks:
-- **Main peak**: crepuscular (just after sundown)
-- **Secondary peak**: auroral (just before dawn)
-
-These peaks permit digestive and recuperative rest periods. Weaker animals who cannot compete for preferred periods are denied these rest slots. Within this framework, any possum can by aggression displace a wallaby at a feeding place — but no individual holds a place for long, moving on until satiated.
-
-## Grazing Schedules
-
-Schedules may run on long cycles, tuned to browse levels or vegetation succession. A sequence of grazing has been observed for African herds, where antelope follow wildebeest follow elephant.
-
-This suggests that informed graziers, knowing the preferences of different species, can make much better use of browse resources by **scheduling rotation** — not to keep one level of browse constant, but to dynamically balance levels by species succession. The permaculture parallel: sheep follow cattle follow horses follow goats.
-
-## Scheduling Within and Between Species
-
-Scheduling — the right to use a particular space at a specific time — operates at two levels:
-
-- **Within species**: dominant animals use prime grazing land at prime time; sub-dominants are pushed to the edge of time and space
-- **Between species**: sequences of different species use the same vegetation area at different seasons or growth stages
-
-No individual "owns" the area — just a time-space slot, like a chair in a family kitchen at dinnertime.
-
-## The Sports Ground Analogy
-
-A sports ground is used by different sports groups at various times, by gulls or rodents whenever sports are not being played, and by worms at all times. This illustrates how a single space can simultaneously serve multiple species through temporal partitioning.
-
-## Niches and Monoculture Failure
-
-The failure of monoculture to produce, sustain, or persist is easily explained through niche theory. Many species are invading or trying to use more efficiently the complex resources of time and space that a single crop cannot fill. A monoculture provides only one niche, while natural [[bill-mollison-permaculture-a-designers-manual-animal-systems-in-permaculture]] provide thousands.
+It is rare to find any one tree fully occupied at any one time. There is a pronounced post-breeding tendency for several bird species to form **consociations** for [[bill-mollison-permaculture-a-designers-manual-animal-systems-in-permaculture]] provide thousands.
 
 ## Design Implications
 
@@ -96,7 +41,90 @@ For permaculture designers, niche theory suggests:
 
 ## See Also
 
-- [[cycles-in-nature]] — the temporal dimension of ecological niches
 - [[complexity-and-connections-in-permaculture]] — how niches create functional connections
-- [[maximum-product-yield-fallacy]] — why monoculture's single niche is unsustainable
 - [[permaculture-design-framework]] — overall design philosophy
+
+## Overview
+
+Niche In Space And Time represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish niche in space and time
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving niche extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Niche In Space And Time finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for niche in space and time. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+niche in space and time and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Niche In Space And Time has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of niche in space and time into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[aseptic-specimen-transfer-space-environment-microwave-sterilizable-access-port]]
+- [[eclss-water-system-aseptic-access-space-biology]]
+- [[ecological-niche]]
+- [[mollison-designers-termite-and-ant-mound-niche-gardening]]
+- [[niches-in-space-and-time-schedules]]

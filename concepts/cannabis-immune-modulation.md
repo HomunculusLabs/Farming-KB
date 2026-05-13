@@ -11,7 +11,7 @@ sources:
 
 ## Overview
 
-The [[cannabis-endocannabinoid-system]] (ECS) is one of the most important regulatory systems for immune function in the human body. The [[blesching-cannabis-health-index-autoimmune-conditions]] (Blesching) presents extensive evidence that cannabinoids modulate immune responses through multiple pathways, primarily via CB2 receptors concentrated on immune cells. This immunomodulatory capacity is relevant to a vast range of conditions -- from autoimmune diseases and chronic inflammation to cancer, infectious disease, and neuroinflammation.
+The [[blesching-cannabis-health-index-autoimmune-conditions]] (Blesching) presents extensive evidence that cannabinoids modulate immune responses through multiple pathways, primarily via CB2 receptors concentrated on immune cells. This immunomodulatory capacity is relevant to a vast range of conditions -- from autoimmune diseases and chronic inflammation to cancer, infectious disease, and neuroinflammation.
 
 ## The Immune System and the ECS
 
@@ -26,60 +26,9 @@ Researchers from Boston (2006) acknowledged that "habitual cannabis use has been
 Cytokines are cell-signaling protein molecules that direct immune responses. The balance between pro-inflammatory and anti-inflammatory cytokines determines whether the immune system mounts an appropriate response or becomes dysregulated.
 
 **Pro-inflammatory cytokines** (suppressed by cannabinoids):
-- **TNF-alpha**: A master inflammatory mediator involved in arthritis, IBD, psoriasis, and [[cannabis-autoimmune-conditions-detailed]]
-- **IL-1beta**: Promotes inflammation and fever response
-- **IL-6**: Drives chronic inflammation and is elevated in numerous diseases
-- **IFN-gamma**: Activates macrophages and promotes TH1 immune responses
-
-**Anti-inflammatory cytokines** (promoted by cannabinoids):
-- **IL-10**: Suppresses excessive immune responses and promotes tissue repair
-- **TGF-beta**: Supports regulatory T-cell function and immune tolerance
-
-Cannabinoids shift the cytokine profile from pro-inflammatory to anti-inflammatory, which is central to their [[cbd-therapeutic-effects]] in autoimmune and [[cannabis-for-inflammatory-conditions]].
-
-### T-Cell Regulation
-
-Cannabinoids modulate T-cell function through multiple pathways:
-- **Regulatory T-cells (T-regs)**: CBD promotes T-reg function, which helps restore immune tolerance and suppress autoimmune attacks
-- **TH1/TH2 balance**: Many [[cannabis-autoimmune-conditions]] involve TH1 dominance (overactive cellular immune response). Cannabinoids shift the TH1/TH2 balance toward TH2, reducing the cell-mediated autoimmune attack on tissues
-- **Autoreactive T-cells**: CB2 [[cannabinoid-receptor-agonists-antagonists-synthetic-reference-blesching]] inhibit the activation and function of autoreactive T cells and prevent leukocyte trafficking into inflamed tissue, demonstrated in autoimmune uveoretinitis studies (Aberdeen, 2007)
-
-### Transcription Factor Modulation
-
-Cannabinoids influence key transcription factors that control immune gene expression:
-- **NF-kB**: A master regulator of inflammatory gene expression. Cannabinoids suppress NF-kB signalling, reducing expression of pro-inflammatory cytokines, chemokines, adhesion molecules, and enzymes like COX-2 and iNOS
-- **AP-1**: Another transcription factor involved in inflammatory responses. CB2 agonists reduced AP-1 in uveitis models (Halifax, 2014)
-
-### Mast Cell Modulation
-
-Mast cells are immune cells that release histamine and other inflammatory mediators. CB2 activation on mast cells reduces degranulation and histamine release, which is particularly relevant for allergic responses, skin conditions (eczema, psoriasis), and GI inflammation.
-
-## CB2: The Immune Modulation Receptor
-
-CB2 receptors are the primary mediators of cannabinoid immunomodulatory effects. Key characteristics:
-
-- Concentrated on immune cells: T-cells, B-cells, macrophages, dendritic cells, mast cells, natural killer cells
-- Activation produces anti-inflammatory and immunosuppressive effects
-- Does not produce psychoactive effects (unlike CB1 activation)
-- Upregulated in activated microglia during neuroinflammation, providing targeted immune modulation in the brain
-- Present in the skin, gut, liver, spleen, and other immune-rich tissues
-- Multiple cannabinoids activate CB2: CBD (indirectly), THC, (E)-beta-caryophyllene, synthetic agonists (WIN55,212-2, JWH-133, HU308)
-
-## Immune Modulation in Specific Conditions
-
-### Autoimmune Diseases
-
-In autoimmune conditions, the immune system attacks the body's own tissues. Cannabinoids' immunosuppressive effects are therapeutic in this context:
-
-- **[[blesching-cannabis-rheumatoid-arthritis]]**: Regulation of endocannabinoid circuitry impacts immune function; Sativex suppressed disease activity in clinical trials
-- **[[blesching-cannabis-multiple-sclerosis]]**: CB2 activation addresses neuroinflammation driving demyelination; cannabinoid agonists inhibit autoreactive T-cell activation
-- **Crohn's disease/IBD**: CB2 activation on gut immune cells reduces intestinal inflammation; targeting endocannabinoid degradation protects against colitis
-- **Type 1 diabetes**: CBD may protect pancreatic beta cells from autoimmune destruction; cannabinoids reduce inflammatory markers
-- **Uveitis**: CB2 agonists show potent anti-inflammatory effects via T-cell inhibition and leukocyte trafficking prevention
-
-### Cancer Immunology
-
-The immune system plays a critical role in cancer surveillance and defense. [[cannabis-for-leukemia-and-lymphoma]] are cancers of the immune system itself (involving white blood cells and lymph nodes). Cannabinoids show immunomodulatory effects relevant to cancer:
+- **TNF-alpha**: A master inflammatory mediator involved in arthritis, IBD, psoriasis, and [[cbd-therapeutic-effects]] in autoimmune and [[cannabis-autoimmune-conditions]] involve TH1 dominance (overactive cellular immune response). Cannabinoids shift the TH1/TH2 balance toward TH2, reducing the cell-mediated autoimmune attack on tissues
+- **Autoreactive T-cells**: CB2 [[blesching-cannabis-rheumatoid-arthritis]]**: Regulation of endocannabinoid circuitry impacts immune function; Sativex suppressed disease activity in clinical trials
+- **[[cannabis-for-leukemia-and-lymphoma]] are cancers of the immune system itself (involving white blood cells and lymph nodes). Cannabinoids show immunomodulatory effects relevant to cancer:
 - Anandamide inhibits cancer cell movement and may prevent metastasis without negative effects on the patient's immune system
 - CB2 activation may support anti-tumor immune responses while modulating excessive inflammation
 - CBD-induced apoptosis in leukemia via regulation of p22phox and Nox4
@@ -117,8 +66,85 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[doc]]
 - [[dom]]
-- [[det]]
 - [[anandamide]]
 - [[blesching-cannabis-immune-system-modulation]]
+
+## Overview
+
+Cannabis Immune Modulation represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish cannabis immune modulation
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving cannabis extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Cannabis Immune Modulation finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for cannabis immune modulation. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+cannabis immune modulation and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Cannabis Immune Modulation has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of cannabis immune modulation into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also

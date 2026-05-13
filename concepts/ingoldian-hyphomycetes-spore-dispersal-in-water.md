@@ -9,7 +9,7 @@ sources:
 ---
 # Ingoldian Hyphomycetes
 
-Ingoldian hyphomycetes are a diverse group of [[bloomfield-ingoldian-aquatic-fungi-spore-dispersal]] that produce remarkably shaped conidia (asexual spores) adapted for dispersal and attachment in flowing water. Named for their discoverer, Cecil Terence Ingold, who first described them in 1938, these fungi play a crucial role in the [[decomposition]] of submerged leaves in freshwater streams and rivers worldwide.
+Ingoldian hyphomycetes are a diverse group of [[decomposition]] of submerged leaves in freshwater streams and rivers worldwide.
 
 ## Discovery
 
@@ -55,15 +55,13 @@ The relationship between Ingoldian and aero-aquatic fungi illustrates the adapti
 
 ## Further Reading and References
 
-The primary source for this article includes established reference works in [[mycology]], plant pathology, and the history of science. Readers seeking deeper engagement with the primary literature are encouraged to consult the sources listed in the article header.
-
-Additional context has been drawn from peer-reviewed scientific literature, historical records, and contemporary field guides. The interplay between [[bloomfield-fungal-biology-and-hyphal-growth]] and human civilization continues to be an active area of scholarly inquiry with important implications for agriculture, medicine, and environmental management.
+The primary source for this article includes established reference works in [[bloomfield-fungal-biology-and-hyphal-growth]] and human civilization continues to be an active area of scholarly inquiry with important implications for agriculture, medicine, and environmental management.
 
 ## Significance and Broader Connections
 
 The topics discussed in this article connect to wider themes in biology, ecology, and human culture. Understanding these connections enriches our appreciation of the natural world and highlights the importance of continued research and conservation efforts.
 
-Modern molecular techniques, including [[environmental-dna-sequencing-fungi]] and genomic analysis, are revolutionizing our understanding of [[arbuscular-mycorrhizal-fungal-diversity-patterns-distribution]] and evolution. These tools are revealing previously unsuspected relationships between organisms and shedding new light on old questions about classification, ecology, and the origins of important fungal groups.
+Modern molecular techniques, including [[arbuscular-mycorrhizal-fungal-diversity-patterns-distribution]] and evolution. These tools are revealing previously unsuspected relationships between organisms and shedding new light on old questions about classification, ecology, and the origins of important fungal groups.
 
 ## Further Reading and References
 
@@ -81,12 +79,11 @@ The interplay between the specific topic discussed here and wider themes in scie
 
 ## Related
 
-- [[aquatic-fungi-and-ingoldian-spores]]
 - [[fungal-interactions-living-plant-surfaces]] life cycle.
 
 ## The Lloyd Connection
 
-In February 1920, Buller spent a day with [[fungal-interactions-living-plant-surfaces]] losses. His [[bloomfield-fungal-spore-discharge-and-dispersal]] studies established fundamental principles that continue to influence research on fungal dispersal biology. His name remains attached to "Buller's drop" and "Buller's phenomenon," ensuring his place in the permanent vocabulary of mycology.
+In February 1920, Buller spent a day with [[bloomfield-fungal-spore-discharge-and-dispersal]] studies established fundamental principles that continue to influence research on fungal dispersal biology. His name remains attached to "Buller's drop" and "Buller's phenomenon," ensuring his place in the permanent vocabulary of mycology.
 
 ## Practical Applications
 
@@ -117,8 +114,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[spore]]
 - [[doc]]
-- [[dom]]
 - [[det]]
 - [[mycology]]

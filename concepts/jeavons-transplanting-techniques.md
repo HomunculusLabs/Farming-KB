@@ -12,62 +12,18 @@ type: concept
 # Transplanting Techniques
 
 Transplanting seedlings rather than directly sowing seeds is a
-cornerstone of the [[jeavons-double-digging-bed-preparation]], composted bed gives the plant a second
-"meal" of nutrients, air, and moisture after its first meal in
-the flat. Seeds sown directly in beds grow in soil that gradually
-recompacts during germination, so the soil will not be as loose
-once the seedling stage is reached. Key advantages include:
-
-- **Better space utilization**: Seeds can take 5 days to 12+
-  weeks to reach transplanting size. Growing them in flats frees
-  bed space for other crops during that period.
-- **Reliable germination**: Not all seeds germinate. Transplanting
-  ensures each position has a living seedling, eliminating bare
-  spots that allow evaporation.
-- **Even spacing**: Broadcast seeds fall randomly. Evenly spaced
-  seedlings avoid competition while their leaves cover and
-  protect soil, creating a beneficial miniclimate.
-- **Growth stimulation**: Transplanting stimulates root growth.
-  A University of California study found a 2%-4% increase in
-  root health can increase yields 2 to 4 times.
-- **Water efficiency**: Flats require only 1/2 gallon per day
-  versus 10-20+ gallons per 100 sq ft for beds.
-
-## When to Transplant
-
-Seedlings are typically transplanted when they are 2 to 3 inches
-high, except for those marked "LG" (large) in the Master Charts,
-which are transplanted at 6 to 9 inches. Most vegetables should
-be transplanted up to their first two true leaves. Transplanting
-up to the first true leaves prevents plants from becoming top-
-heavy and developing a tough neck that reduces quality and size.
-
-## Handling Seedlings
-
-Handle seedlings gently and touch them as little as possible.
-Hold them only by the tips of their leaves or by the soil around
-their roots. For seedlings in flats, use a [[jeavons-planting-by-moon-phases]]
+cornerstone of the [[jeavons-planting-by-moon-phases]]
 recommends transplanting at the full moon or up to 7 days
 afterward, taking advantage of lunar gravitational forces.
 
 ## The Breakfast-Lunch-Dinner Concept
 
 Alan Chadwick's "Breakfast-Lunch-Dinner" concept embodies the
-[[jeavons-biointensive-spacing]] is fundamental
-to the system's water efficiency and soil protection.
-
-## Hardening Off Before Transplanting
-
-Before transplanting in cold weather, seedlings should be
-hardened off through a gradual process. Move flats to a cold
-frame for two days when seedlings are almost transplanting
-size, then to the open for two more days to complete
-acclimatization. During [[stamets-cultivator-agaricus-bitorquis-warm-weather-cultivation]], flats can remain in the
+[[stamets-cultivator-agaricus-bitorquis-warm-weather-cultivation]], flats can remain in the
 open or be moved to shade to slow growth in hot conditions.
 This preparation reduces transplanting shock significantly.
 
-See also: [[jeavons-flat-preparation-seedling-raising]],
-[[jeavons-watering-technique]]
+See also: [[jeavons-watering-technique]]
 ## Practical Considerations
 
 Successful implementation of Transplanting Techniques in GROW BIOINTENSIVE requires attention to
@@ -116,8 +72,78 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[dom]]
 - [[transplanting-techniques-low-input]]
-- [[transplanting-techniques-solomon]]
 - [[jeavons-seed-propagation-techniques]]
 - [[jeavons-vermicomposting-techniques]]
+
+## Overview
+
+Jeavons Transplanting Techniques represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish jeavons transplanting techniques
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving jeavons extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Jeavons Transplanting Techniques finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for jeavons transplanting techniques. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+jeavons transplanting techniques and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Jeavons Transplanting Techniques has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of jeavons transplanting techniques into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions

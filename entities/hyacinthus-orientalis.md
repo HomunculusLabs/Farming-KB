@@ -55,13 +55,7 @@ The wild form of *H. orientalis* is native to southern Turkey, northwestern Syri
 
 Wild populations grow on rocky hillsides, open scrubland, and stony meadows at elevations of 100–2,000 meters. The species prefers well-drained, calcareous soils in full sun.
 
-Mediterranean climate with cool, moist winters and hot, dry summers is ideal for the species' [[query-how-do-i-use-knf-inputs-through-the-plant-growth-cycle]]. The plant completes its above-ground growth and flowering during the cool season before entering summer dormancy.
-
-Wild hyacinths are adapted to survive prolonged drought by retreating completely underground. The bulb's tunic provides additional protection against desiccation during the dry season.
-
-## Cultivation
-
-Hyacinths require well-drained soil in full sun. They tolerate a range of soil types but perform best in [[sandy-loam-texture-cannabis-microbiome-assembly]] with moderate fertility and a pH of 6.0–7.5.
+Mediterranean climate with cool, moist winters and hot, dry summers is ideal for the species' [[sandy-loam-texture-cannabis-microbiome-assembly]] with moderate fertility and a pH of 6.0–7.5.
 
 Bulbs are planted in autumn at a depth of 10–15 cm, spaced 10–15 cm apart. For indoor forcing, pre-cooled bulbs are placed in hyacinth glasses filled with water, allowing the basal plate to contact the water surface.
 
@@ -90,5 +84,12 @@ The bulbs were considered so valuable that single rare cultivars changed hands f
 Hyacinth perfumery reached its peak in the late 19th and early 20th centuries. The flowers yield an absolute used in high-end perfumes, though synthetic replacements have largely supplanted natural hyacinth extract in modern fragrance production.
 
 ## See Also
+- [[helleborus-orientalis]]
+
+## See Also
+
+- [[picea-orientalis]]
+- [[platanus-orientalis]]
+- [[fagus-orientalis]]
 - [[trametes-orientalis]]
 - [[helleborus-orientalis]]

@@ -3,7 +3,7 @@ title: Ayahuasqueros
 created: 2026-05-08
 updated: 2026-05-08
 type: concept
-tags: [ayahuasca, [[shamanism]], amazon, peru, shipibo, healing, [[icaros]]
+tags: [ayahuasca, icaros
 sources:
   - stuart-r-ayahuasca-tourism.md
 ---
@@ -17,7 +17,7 @@ healing, divination, and spiritual exploration. The term derives
 from "ayahuasca" (the brew) plus the Spanish suffix "-ero"
 indicating a practitioner or specialist. Ayahuasqueros are found
 throughout the Amazon but are particularly concentrated among the
-[[shipibo-people-and-ayahuasca-tradition]] of Peru's [[ayahuasquero-practitioner-profiles-ethics-ucayali-region]], where the tradition is
+[[ayahuasquero-practitioner-profiles-ethics-ucayali-region]], where the tradition is
 especially deep and well-developed.
 
 ## Role and Function
@@ -29,33 +29,7 @@ participants through ceremonial experiences, providing structure and
 safety through the singing of icaros. They are herbalists with deep
 knowledge of Amazonian botanical medicine. And increasingly, they are
 cultural ambassadors who introduce outsiders to indigenous spiritual
-practices through the growing [[stuart-r-ayahuasca-tourism-cautionary-ethnography]] industry.
-
-In traditional community contexts, an ayahuasquero conducts
-ceremonies for family members and neighbors, drawing on deep personal
-knowledge of each participant and their specific needs. The ceremony
-in this context is typically an all-night affair involving multiple
-rounds of ayahuasca, intensive icaros singing, and detailed
-diagnostic work. The practitioner may receive visions revealing the
-spiritual or energetic causes of a participant's illness and
-prescribe specific treatments including dietary restrictions,
-plant remedies, or behavioral changes.
-
-## Training and Lineage
-
-Training to become an ayahuasquero typically involves extended
-apprenticeship under an experienced practitioner, often within a
-family lineage. Among the Shipibo, the tradition is frequently passed
-from parent to child, with knowledge transmitted through direct
-experience rather than formal instruction. A prospective ayahuasquero
-undergoes years of dieta—periods of dietary restriction and
-isolation in the jungle while taking specific teacher plants. These
-dietas are believed to build the practitioner's connection to plant
-spirits and develop their healing abilities.
-
-Some ayahuasqueros receive formal training through structured
-programs. During fieldwork in Peru, researcher R. Stuart observed a
-two-week [[mushroom-disabilities-training-program-design]] where visiting shamans taught techniques
+practices through the growing [[mushroom-disabilities-training-program-design]] where visiting shamans taught techniques
 to local practitioners. The quality and depth of such short programs
 varies considerably compared to traditional multi-year apprenticeships.
 
@@ -118,8 +92,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[ayahuasca]]
 - [[doc]]
-- [[det]]
 - [[icaros]]
 - [[icaro]]

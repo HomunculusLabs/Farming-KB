@@ -12,52 +12,16 @@ sources:
 
 ## Overview
 
-Weed control in the [[comparison-vermicomposting-vs-composting-organic-garden]] relies on prevention, cultural techniques, and mechanical methods rather than chemical herbicides. The aim is to [[query-how-do-cover-crops-suppress-weeds]] through good soil management, timely cultivation, and strategic use of mulches and [[permaculture-plants-food-forest-ground-covers-bamboos]]. Weeds compete with crops for water, nutrients, light, and space; they can also harbor [[query-how-to-manage-pests-and-diseases-in-mushroom-cultivation]].
+Weed control in the [[query-how-do-cover-crops-suppress-weeds]] through good soil management, timely cultivation, and strategic use of mulches and [[query-how-to-manage-pests-and-diseases-in-mushroom-cultivation]].
 
 ## Prevention Through Soil Management
 
 ### Organic Matter and Mulching
 - Heavy applications of bulky organic matter (compost, manure) suppress weed germination by blocking light to the soil surface
-- Mulch between plants during the [[savory-growing-season-and-non-growing-season-management]] to control weeds and retain moisture
-- Spread organic matter as mulch on beds between plants — this lowers evaporation rates and improves soil structure
-- On light/sandy soils, mulching is especially important to reduce water loss
-
-### Ground Cover
-- Keep soil surface covered with vegetation or mulch as much as possible, especially during winter when [[green-cannabis-soil-flushing-nutrient-leaching]] is most rapid
+- Mulch between plants during the [[green-cannabis-soil-flushing-nutrient-leaching]] is most rapid
 - Green-manure crops (mustard, phacelia) on vacant ground prevent weed establishment
-- In the ornamental garden, [[ground-cover-plants]] shade out weeds
-
-### Dense Planting
-- Close spacing of vegetables and ornamentals leaves less room for weeds
-- Successional planting ensures beds are rarely bare between crops
-
-## Cultivation Methods
-
-### Hoeing
-- Start hoeing regularly from [[coleman-overwintered-onions-and-early-spring-crops]] onwards
-- Hoe between ornamental plants throughout [[query-how-to-protect-plants-from-frost-and-extend-the-growing-season]]
-- Many weeds will be seeding in summer, making regular hoeing critical
-- Hoe on dry days so weed roots desiccate quickly
-- Cut down perennial weeds near the garden that could spread seed
-
-### Digging
-- Heavy soils: dig in autumn, leaving surface rough through winter to expose maximum soil to weathering (frost kills weed seedlings)
-- Light soils: dig in spring before sowing
-- Always remove perennial weed roots during digging (docks, thistles, bindweed, couch grass)
-- Never walk on wet clay soil — use boards to avoid compacting and creating conditions favorable to weeds
-
-### Double Digging
-- Breaks up subsoil and improves drainage without bringing subsoil to the surface
-- Particularly beneficial on heavy clay soils
-- Involves digging a trench, loosening the subsoil below with a fork, then moving soil from the next trench into the first
-
-## Specific Weed Control Techniques
-
-### Annual Weeds
-- Most easily controlled by regular hoeing before they set seed
-- The key principle: never let annual weeds go to seed
-- Removing rosetted weeds from the lawn in summer
-- [[solomon-sheet-composting-mulch-gardening]]: use surplus compostable material directly on empty beds as a weed-suppressing mulch
+- In the ornamental garden, [[coleman-overwintered-onions-and-early-spring-crops]] onwards
+- Hoe between ornamental plants throughout [[solomon-sheet-composting-mulch-gardening]]: use surplus compostable material directly on empty beds as a weed-suppressing mulch
 
 ### Perennial Weeds
 - More challenging; require persistent removal of root systems
@@ -118,8 +82,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[doc]]
 - [[composting]]
-- [[double-digging]]
 - [[vermicomposting]]
 - [[permaculture]]

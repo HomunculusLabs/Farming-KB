@@ -9,7 +9,7 @@ sources:
 ---
 # Insectary Plants for Pest Control
 
-Insectary plants are those that attract, shelter, and sustain [[comparison-beneficial-insects-guide-vs-integrated-pest-management]] -- pollinators, predatory insects, and parasitic wasps that naturally [[query-how-do-parasitoid-wasps-control-pest-populations]] populations. In permaculture-companion-planting for full compatibility lists. Key insectary species include:
+Insectary plants are those that attract, shelter, and sustain [[query-how-do-parasitoid-wasps-control-pest-populations]] populations. In permaculture-companion-planting for full compatibility lists. Key insectary species include:
 
 - **Marigold** (Tagetes spp) -- deters nematodes; companions to lettuce, potatoes, tomatoes, roses, beans
 - **Nasturtiums** -- attract predatory insects; companions to apples, cabbages, cucumbers
@@ -26,11 +26,7 @@ Insectary plants are those that attract, shelter, and sustain [[comparison-benef
 - Design for year-round flowering by selecting species that bloom in sequence
 - Layer insectary plants through all vegetation strata: ground covers, herbs, shrubs, canopy trees
 - Introduce a whole range of plants to pastures rather than relying on single species
-- Use progressive [[comparison-rotational-grazing-vs-continuous-grazing]] of tagasaste to extend its flowering period
-- Place bee forage trees as windbreaks, shelterbelts, and along fence lines for dual function
-- Maintain wild areas as refugia for native beneficial insects
-- Avoid broad-spectrum pesticides that kill beneficial insects alongside pests
-- See also [[pollinator-habitat]] for habitat design
+- Use progressive [[pollinator-habitat]] for habitat design
 
 ## Beneficial Insects and Their Requirements
 
@@ -44,21 +40,7 @@ Understanding which beneficial insects you want to support helps guide plant sel
 - Pirate bugs (Anthocoridae): Generalist predators of thrips, spider mites, and small caterpillars. Attracted to small flowers like alyssum, daisies, and marigolds.
 
 **Parasitic wasps:**
-- Trichogramma wasps: Parasitize eggs of Lepidoptera (moth and butterfly pests including cabbage loopers, codling moths, and borers). Among the most widely released [[fukuoka-textdoc-biological-control-fallacy-pheromone-critique]] agents worldwide. Females require nectar from small, shallow flowers to sustain egg-laying.
-- Aphidius wasps: Parasitize aphids, turning them into mummified husks. A single female can parasitize 100-300 aphids. They are attracted by the same compounds that aphids respond to, so the presence of some aphids can actually help recruit parasitoids.
-- Chalcid wasps: Parasitize a wide range of pest insects including whiteflies, scale insects, and leaf miners. Many are extremely small (1-3mm) and require tiny flowers for nectar feeding.
-
-## Habitat Features for Beneficial Insects
-
-Insectary planting is most effective when combined with structural habitat features:
-- **Beetle banks:** Raised earth mounds (about 0.4m high, 1.5-2m wide) planted with perennial grasses, positioned through fields. They provide overwintering habitat for ground beetles, spiders, and other beneficial invertebrates that disperse into crops in spring. Research from the UK shows beetle banks can increase ground beetle populations by 50-100% within two years.
-- **Insect hotels and log piles:** Bundles of hollow stems (bamboo, elderberry, bramble), drilled wooden blocks, and decaying logs provide nesting sites for solitary bees, ladybirds, and predatory beetles. These structures are especially valuable in urban and suburban gardens where natural habitat is limited.
-- **Water sources:** Shallow dishes filled with pebbles and water provide drinking water for beneficial insects. Change water regularly to prevent mosquito breeding.
-- **Undisturbed refugia:** Leaving a portion of the garden or farm uncultivated provides permanent habitat where beneficial insects survive when crops are rotated or harvested. Even a small wild area (1-2% of total area) can significantly boost biological control.
-
-## Integrated Pest Management with Insectary Plants
-
-The most effective insectary strategies are integrated into a broader pest management approach. Insectary plantings work synergistically with other biological controls: [[beekeeping-problems-and-solutions]] benefits directly from well-planned forage corridors. Monitoring beneficial insect populations -- using yellow [[cervantes-sticky-traps-pest-monitoring]] for parasitic wasps, pitfall traps for ground beetles, and visual counts of ladybird larvae -- helps assess whether insectary plantings are achieving their intended effect. The [[jadam-fruit-tree-winter-pest-control]]
+- Trichogramma wasps: Parasitize eggs of Lepidoptera (moth and butterfly pests including cabbage loopers, codling moths, and borers). Among the most widely released [[beekeeping-problems-and-solutions]] benefits directly from well-planned forage corridors. Monitoring beneficial insect populations -- using yellow [[jadam-fruit-tree-winter-pest-control]]
 
 ## Practical Considerations
 
@@ -93,29 +75,8 @@ When applying these concepts, consider regional variations, available resources,
 
 ## See Also
 
-- [[query-what-are-predatory-mites-and-how-can-i-use-them-for-pest-control]]
 - [[query-how-to-use-neem-oil-for-cannabis-pest-control]]
-- [[query-how-to-use-beneficial-nematodes-for-soil-pest-control]]
 - [[query-how-do-i-use-beauveria-bassiana-for-pest-control]]
-- [[permaculture-plants-insectary-and-pest-repellent]]
-
-## Historical Context
-
-The historical development of this subject reflects centuries of accumulated
-knowledge and practical experience. From traditional methods passed down
-through generations to modern scientific approaches, the evolution continues
-to inform current best practices and research directions.
-
-## Common Challenges
-
-Practitioners frequently encounter several challenges when working with
-these concepts. Climate variability, resource limitations, and knowledge
-gaps can all affect outcomes. Addressing these challenges requires patience,
-observation, and a willingness to adapt approaches based on results.
-
-## See Also
 - [[insectary-plantings]]
-- [[integrated-pest-management]]
 - [[doc]]
-- [[dom]]
 - [[det]]

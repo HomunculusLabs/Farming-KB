@@ -1,7 +1,6 @@
 ---
 title: "Soil Heat Storage and the Diurnal Freeze-Thaw Cycle"
-author: "[[eliot-coleman]]"
-source: "The [[coleman-claytonia-winter-harvest-cultivation]] Handbook, Chelsea Green, 2009"
+author: "coleman-claytonia-winter-harvest-cultivation Handbook, Chelsea Green, 2009"
 tags:
   - winter-harvest
   - soil-thermal-battery
@@ -15,10 +14,7 @@ tags:
 ## Overview
 
 In Eliot Coleman's unheated winter harvest system, the soil serves as the
-primary [[phase-change-materials-thermal-energy-storage]] storage medium — a "thermal battery" that captures solar
-energy during the day and releases it slowly at night. Understanding and
-managing this diurnal (daily) freeze-thaw cycle is the central operational
-challenge of [[coleman-aphid-management-winter-greenhouse-nitrogen-flushing]] farming. The entire system's viability depends
+primary [[coleman-aphid-management-winter-greenhouse-nitrogen-flushing]] farming. The entire system's viability depends
 on the soil absorbing enough heat during daylight hours to keep the root zone
 of cold-hardy crops from remaining frozen for extended periods.
 
@@ -27,16 +23,7 @@ of cold-hardy crops from remaining frozen for extended periods.
 Unlike heated greenhouses that rely on fossil fuel or electric heat to
 maintain air temperature, the winter harvest system stores energy in the
 ground itself. Dark, organically rich soil absorbs solar radiation through
-the [[coleman-greenhouse-covering-materials-comparison]] and row cover layers. This energy is conducted
-downward and stored in the soil mass. At night, when the air temperature
-drops well below freezing, the stored soil heat migrates upward, keeping the
-immediate root zone and soil surface warmer than the surrounding air. The
-effect is modest — the soil surface may still freeze — but it is sufficient
-because the crops are adapted to tolerate light freezing.
-
-## The Diurnal Freeze-Thaw Pattern
-
-On a typical winter day in the [[coleman-unheated-greenhouse-design]], a predictable cycle
+the [[coleman-unheated-greenhouse-design]], a predictable cycle
 occurs:
 
 1. **Night** — Air temperatures inside the greenhouse drop below freezing.
@@ -117,8 +104,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[eliot-coleman]]
 - [[coleman-soil-heat-mass-passive-thermal-storage]]
-- [[coleman-hotbed-manure-heat-system]]
 - [[coleman-cool-house-minimal-supplementary-heat]]
 - [[carnot-cycle-and-heat-engines]]

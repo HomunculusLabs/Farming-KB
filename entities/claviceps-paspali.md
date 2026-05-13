@@ -12,8 +12,7 @@ sources:
 ---
 # Claviceps paspali
 ## Overview
-*Claviceps paspali* is a sclerotium-forming fungal pathogen in the family Clavicipitaceae that parasitizes grasses of the genus *Paspalum*. It is distinguished from the well-known cereal ergot *C. purpurea* by its host specificity, geographic range, and alkaloid profile. *C. paspali* is the causative agent of "paspalum staggers," a neurological syndrome in livestock that results from ingestion of sclerotia-contaminated forage. The fungus produces a characteristic suite of clavine alkaloids — notably paspaline, paspalicine, and paspalinine — that differ structurally from the peptide ergot alkaloids (ergotamine, [[ergocristine]]) produced by *C. purpurea*.
-Some of these clavines have demonstrated affinity for [[serotonin]] and dopamine receptors, generating pharmaceutical interest. *C. paspali* is also used as a model organism in alkaloid biosynthesis research and experimental endophyte studies. Unlike *C. purpurea*, which has caused devastating ergotism epidemics in human populations through contaminated grain, *C. paspali* is primarily a veterinary concern affecting grazing animals on infested pastures.
+*Claviceps paspali* is a sclerotium-forming fungal pathogen in the family Clavicipitaceae that parasitizes grasses of the genus *Paspalum*. It is distinguished from the well-known cereal ergot *C. purpurea* by its host specificity, geographic range, and alkaloid profile. *C. paspali* is the causative agent of "paspalum staggers," a neurological syndrome in livestock that results from ingestion of sclerotia-contaminated forage. The fungus produces a characteristic suite of clavine alkaloids — notably paspaline, paspalicine, and paspalinine — that differ structurally from the peptide ergot alkaloids (ergotamine, [[serotonin]] and dopamine receptors, generating pharmaceutical interest. *C. paspali* is also used as a model organism in alkaloid biosynthesis research and experimental endophyte studies. Unlike *C. purpurea*, which has caused devastating ergotism epidemics in human populations through contaminated grain, *C. paspali* is primarily a veterinary concern affecting grazing animals on infested pastures.
 ## Taxonomy and Naming
 - **Kingdom:** Fungi
 - **Division:** Ascomycota
@@ -45,14 +44,7 @@ Sclerotia of *C. paspali* are generally smaller and more slender than those of *
 ## Host Range and Distribution
 *C. paspali* is a specialist pathogen of *Paspalum* species (Poaceae, subfamily Panicoideae). Major recorded hosts include:
 - *Paspalum dilatatum* (dallisgrass) — primary host worldwide
-- *Paspalum notatum* (bahiagrass) — important [[mollison-designers-tropical-pasture-grass-species-and-establishment]] in the southern US
-- *Paspalum urvillei* (tall paspalum)
-- *Paspalum distichum* (knotgrass)
-- *Paspalum commersonii*
-- *Paspalum virgatum*
-- Other *Paspalum* spp. in pastures and roadside grasslands
-The fungus is native to tropical and subtropical regions worldwide:
-- **Americas:** Southern United States (especially Gulf Coast states: Texas, Louisiana, Florida, Georgia), [[guzman-allen-gartz-neurotropic-fungi-central-america-caribbean]], South America (Brazil, Argentina, Colombia, Venezuela)
+- *Paspalum notatum* (bahiagrass) — important [[guzman-allen-gartz-neurotropic-fungi-central-america-caribbean]], South America (Brazil, Argentina, Colombia, Venezuela)
 - **Africa:** West Africa (Nigeria, Ghana), East Africa (Kenya, Tanzania), southern Africa (South Africa, Zimbabwe)
 - **Asia:** India, Southeast Asia (Thailand, Philippines), southern China
 - **Oceania:** Eastern Australia (Queensland, New South Wales), where it was among the first described
@@ -65,26 +57,94 @@ Warm, humid conditions favor infection. Outbreaks in livestock are most common i
 | Paspaline | Indole-diterpenoid clavine | C₂₈H₃₅NO₄ | 449.6 | Major constituent; potent tremorgen |
 | Paspalicine | Indole-diterpenoid clavine | C₂₈H₃₃NO₄ | 447.6 | Desmethyl derivative of paspaline |
 | Paspalinine | Indole-diterpenoid clavine | C₂₈H₃₇NO₃ | 435.6 | Reduced clavine; tremorgenic |
-| [[lysergol]] | Simple clavine | C₁₆H₁₈N₂O | 254.3 | Minor; ergoline scaffold precursor |
-| Setoclavine | Clavine | C₁₆H₁₈N₂O | 254.3 | Isomeric with lysergol |
-| Isosetoclavine | Clavine | C₁₆H₁₈N₂O | 254.3 | Stereoisomer of setoclavine |
-| Paspalomide | Amide derivative | C₂₉H₃₅NO₅ | 477.6 | Paspaline-derived; tremorge  gonovine | Ergoline amide | C₁₉H₂₃N₃O₂ | 325.4 | Trace in some isolates |
-The tremorgenic clavines (paspaline, paspalinine, paspalomide) are indole-diterpenoids that act as potent neurological toxins in mammals. These compounds are structurally more complex than the simple tetracyclic clavines and feature multiple prenyl groups and characteristic oxygenation patterns. Paspaline, the most abundant alkaloid, has been the subject of total synthesis efforts by several research groups due to its challenging polycyclic structure. Some clavines from *C. paspali* have shown measurable activity at 5-HT₂A serotonin receptors and D₂ dopamine receptors in radioligand binding assays, though their affinity is generally lysergic acid diethylamide ic acid diethylamide (LSD) or psilocybin-derived compounds.
-## Toxicology and Veterinary Significance
-Ingestion of *C. paspali* sclerotia by grazing livestock causes a condition known as **paspalum staggers** (also called "dallisgrass staggers" in the United States). The syndrome is primarily neurological and is characterized by:
-- Fine muscle tremors, especially of the head, neck, and shoulder region
-- Ataxia, incoordination, and a characteristic staggering gait
-- Hypermetria (exaggerated limb movements) visible when animals are forced to move
-- Convulsions and collapse in severe cases
-- Weight loss, reduced milk production, and general unthriftiness
-- Rarely, death in cases of very heavy or prolonged exposure
-Clinical signs typically appear 3–7 days after continuous exposure to contaminated pasture. Importantly, signs may worsen when animals are stressed or forced to move, and may temporarily improve at rest. Removal from affected pasture generally leads to full recovery within 1–2 weeks, though severely affected animals may take considerably longer to return to normal function.
-No specific antidote exists — treatment is entirely supportive and relies on removing animals from contaminated forage and providing good nutrition and quiet conditions. The toxic dose varies by species and body condition; cattle, sheep, horses, and donkeys are all susceptible, with cattle being the most commonly affected due to their heavy reliance on dallisgrass pastures in endemic areas.
-The tremorgenic mechanism is attributed to the indole-diterpenoid clavines acting on neuronal ion channels or neurotransmitter systems in the central nervous system, though the exact molecular target(s) remain under investigation. Some evidence suggests involvement of GABA_A receptor modulation, similar to other indole-diterpenoid tremorgens (e.g., lolitrem B from endophyte-infected ryegrass). Additional hypotheses include disruption of glycine receptor function and potentiation of glutamatergic signaling, both of which could contribute to the observed tremor and ataxia.
-Economic losses from paspalum staggers are difficult to quantify but can be substantial in affected regions. In the southeastern United States, it is estimated that 10–20% of dallisgrass pastures may harbor significant levels of *C. paspali* infection during peak seasons. Management strategies include [[comparison-rotational-grazing-vs-continuous-grazing]], mowing to reduce seed head formation, burning of infected pastures in winter, and the use of fungicides in high-value seed production fields. Breeding programs for *Paspalum* cultivars with reduced susceptibility have shown some promise.
+| [[comparison-rotational-grazing-vs-continuous-grazing]], mowing to reduce seed head formation, burning of infected pastures in winter, and the use of fungicides in high-value seed production fields. Breeding programs for *Paspalum* cultivars with reduced susceptibility have shown some promise.
 ## Similar Species
 | Feature | *C. paspali* | *C. purpurea* | *C. fusiformis* | *C. africana* |
 |---|---|---|---|---|
 | Primary hosts | *Paspalum* spp. | Cereals (Secale, etc.) | Pearl millet | Sorghum spp. |
 | Distribution | Tropical/subtropical | Temperate worldwide | Africa, India | Africa, Asia |
 | Sclerotium size | 5–15 mm, slender | 10–30 mm, robust | 5–25 mm, curved | 5–20 mm |
+
+## Overview
+
+Claviceps Paspali represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish claviceps paspali
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving claviceps extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Claviceps Paspali finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for claviceps paspali. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+claviceps paspali and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Claviceps Paspali has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of claviceps paspali into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[bloomfield-ergot-claviceps-purpurea-ergotism]]
+- [[claviceps-paspali-alkaloids]]
+- [[claviceps-purpurea]]
+- [[ergot-fungi-claviceps-and-cordyceps-as-neurotropic-organisms]]

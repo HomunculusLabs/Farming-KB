@@ -24,35 +24,9 @@ The species is recognized by its robust, erect trunk reaching 10–15 meters and
 
 Cyathea australis is a common sight in moist gullies, temperate rainforests, and sheltered slopes throughout its range. It is frequently grown as an ornamental plant in Australian gardens.
 
-The species has been widely confused with [[cyathea-cooperi]] in horticultural circles. The two can be distinguished by trunk texture and stipe scale characteristics.
+The species has been widely confused with [[soil-ph]] from slightly acidic to neutral.
 
-## Taxonomy and Morphology
-
-Cyathea australis belongs to the family Cyatheaceae, order Cyatheales. The species was described by Robert Brown in 1810 from specimens collected near Port Jackson (Sydney).
-
-It is placed within the Cyathea sensu stricto group, allied with Cyathea cunninghamii and Cyathea leichhardtiana. The species complex has undergone several taxonomic revisions.
-
-The trunk is erect, 10–15 m tall and 12–20 cm in diameter. Old stipe bases persist on the upper trunk, giving it a characteristic rough appearance, while the lower trunk is smoother with prominent leaf scars.
-
-Fronds are bipinnate to tripinnate, 2–4 m long, forming a spreading crown. The stipe is dark brown, stout, and bears numerous dark brown to black, twisted scales.
-
-Pinnae are 30–60 cm long, with pinnules that are oblong to lanceolate with crenate margins. The lamina is dark green and leathery in texture.
-
-Sori are circular, borne on the abaxial surface of fertile pinnules. Each sorus has a small indusium that is cup-shaped at first, later becoming disc-shaped as the sporangia mature.
-
-Spores are trilete, 40–50 μm in diameter, with a finely granulate perispore. Fertile fronds produce spores from spring through autumn in southern hemisphere populations.
-
-## Distribution and Habitat
-
-Cyathea australis occurs along the eastern Australian coast from the McPherson Range in southeastern Queensland south to the Otway Ranges in Victoria. The core of its range is in the tablelands and coastal ranges of New South Wales.
-
-The species grows in temperate and subtropical rainforest, wet sclerophyll forest, and moist gullies. It is most abundant in sheltered, south-facing slopes with high humidity and reliable rainfall.
-
-Elevational range extends from near sea level to approximately 1,200 meters on the New England Tablelands. Populations at higher elevations are smaller and more scattered than those in coastal ranges.
-
-Soil preferences include deep, moist, loamy soils derived from shale, basalt, or volcanic parent material. The species is tolerant of a range of [[soil-ph]] from slightly acidic to neutral.
-
-It co-occurs with other tree ferns including Cyathea cooperi at lower elevations and Dicksonia antarctica in cooler, wetter sites. The three species can be found growing together in transitional habitats.
+It co-occurs with other tree ferns including [[cyathea-cooperi]] at lower elevations and [[dicksonia-antarctica]] in cooler, wetter sites. The three species can be found growing together in transitional habitats.
 
 The species shows some tolerance of seasonal dry periods, surviving in areas with rainfall as low as 800 mm annually. However, growth rates are significantly reduced under water stress.
 
@@ -106,9 +80,7 @@ Cyathea australis is widely planted in public parks, botanic gardens, and privat
 
 The species has been introduced to gardens in New Zealand, South Africa, and coastal California, where it naturalizes occasionally in suitable microclimates.
 
-
 ## See Also
 
-- [[cyathea-arborea]]
 - [[cyathea-interrupta]]
 - [[cyathea-leichhardtiana]]

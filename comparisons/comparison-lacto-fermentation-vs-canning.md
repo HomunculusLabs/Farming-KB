@@ -10,7 +10,7 @@ type: comparison
 
 # Lacto-Fermentation vs Canning: A Comprehensive Comparison
 
-[[lacto-fermentation-and-food-preservation-methods]] harnesses lactic [[lactic-acid-bacteria-knf]] (LAB) — naturally present on the surfaces of vegetables and fruits — to convert sugars into lactic acid. This process creates an acidic, anaerobic environment that inhibits harmful pathogens including Clostridium botulinum, the organism responsible for botulism. With a salt concentration of 2-3% by weight, beneficial LAB outcompete spoilage organisms, producing a safe, preserved food that is alive with beneficial microorganisms.
+[[lactic-acid-bacteria-knf]] (LAB) — naturally present on the surfaces of vegetables and fruits — to convert sugars into lactic acid. This process creates an acidic, anaerobic environment that inhibits harmful pathogens including Clostridium botulinum, the organism responsible for botulism. With a salt concentration of 2-3% by weight, beneficial LAB outcompete spoilage organisms, producing a safe, preserved food that is alive with beneficial microorganisms.
 
 ### How Lacto-Fermentation Works
 
@@ -41,24 +41,7 @@ type: comparison
 
 ## Canning Overview
 
-[[emergency-preparedness]], and long-term food security planning.
-- **Standardized recipes:** USDA-tested recipes provide reliable, science-backed processing times and safety parameters that take the guesswork out of preservation.
-- **Wide food range:** Both high-acid (fruits, pickles, tomatoes) and low-acid (vegetables, meats, soups, beans) foods can be safely preserved through appropriate canning methods.
-- **Convenience:** Canned goods are ready to eat with minimal preparation — simply open and serve, making them practical for busy seasons on the homestead.
-
-### Limitations of Canning
-
-- **Nutrient destruction:** Heat processing destroys heat-sensitive vitamins, particularly Vitamin C, thiamine, and folate. Some estimates suggest 30-60% nutrient loss for certain vitamins depending on processing time and temperature.
-- **No probiotics:** All microorganisms are killed during processing, including beneficial ones that would otherwise support digestive health.
-- **Equipment investment:** Pressure canners represent a significant upfront cost ($80-300+). Water bath canners are cheaper but limited to high-acid foods only.
-- **Botulism risk:** Improperly canned low-acid foods — especially those processed in a water bath instead of a pressure canner — pose a genuine risk of botulism, which is potentially fatal.
-- **Energy consumption:** Canning requires sustained heat for extended periods, consuming significant fuel or electricity during peak harvest season.
-
-## Nutritional Comparison
-
-The nutritional contrast between these methods is one of the most important distinctions. Fermentation not only preserves existing nutrients but actively creates new ones: Vitamin C in sauerkraut exceeds that of raw cabbage, B vitamins increase through bacterial synthesis, and digestive enzymes remain intact. Canning, by contrast, sacrifices heat-sensitive nutrients in exchange for shelf stability. The tradeoff is straightforward — maximum nutrition versus maximum storage time.
-
-It is worth noting that fermentation also predigests certain compounds. The bacteria break down anti-nutrients like phytic acid and oxalates, making minerals more bioavailable. Lactose in dairy ferments is largely converted to lactic acid, making [[query-how-do-i-start-making-fermented-dairy-at-home]] tolerable for many people with lactose sensitivity. These benefits have no parallel in heat-processed canned foods.
+[[query-how-do-i-start-making-fermented-dairy-at-home]] tolerable for many people with lactose sensitivity. These benefits have no parallel in heat-processed canned foods.
 
 ## Safety Considerations
 
@@ -82,9 +65,9 @@ Lacto-fermentation requires minimal upfront investment: glass jars (which can be
 
 ## Practical Integration
 
-Many experienced homesteaders use both methods strategically. Ferment a portion of the cabbage crop as sauerkraut for daily nutrition, and can the remainder for winter storage. Ferment garden vegetables for [[fukuoka-seasonal-eating-natural-food-calendar]], and can surplus for the deep pantry. This complementary approach maximizes both [[coleman-winter-greens-nutritional-quality-cold-sweetening]] and long-term food security.
+Many experienced homesteaders use both methods strategically. Ferment a portion of the cabbage crop as sauerkraut for daily nutrition, and can the remainder for winter storage. Ferment garden vegetables for [[coleman-winter-greens-nutritional-quality-cold-sweetening]] and long-term food security.
 
-A seasonal preservation calendar might include fermenting cucumbers, cabbage, and radishes during peak summer when temperatures support active fermentation, then switching to canning tomatoes, beans, and [[growing-root-vegetables-guide]] in late summer and autumn when cooler temperatures slow fermentation but canning is still practical. This staggered approach balances the strengths of both methods throughout the [[savory-growing-season-and-non-growing-season-management]].
+A seasonal preservation calendar might include fermenting cucumbers, cabbage, and radishes during peak summer when temperatures support active fermentation, then switching to canning tomatoes, beans, and [[savory-growing-season-and-non-growing-season-management]].
 
 ## Learning Curve and Skill Development
 
@@ -96,9 +79,6 @@ Lacto-fermentation and canning serve different but equally valuable roles in a s
 
 ## See Also
 
-- [[comparison-lacto-fermentation-vs-kombucha]]
 - [[comparison-fermented-vegetables-vs-canning]]
-- [[comparison-dehydration-vs-lacto-fermentation]]
-
 - [[comparison-pressure-canning-vs-water-bath-canning]]
 - [[comparison-vinegar-vs-lacto-fermentation]]

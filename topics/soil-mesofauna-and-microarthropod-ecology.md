@@ -28,7 +28,7 @@ sources:
 
 ## Introduction
 
-Soil mesofauna — organisms measuring roughly 0.1 to 2 millimeters — form the critical middle tier of the soil food web. Though invisible to the naked eye, these creatures are among the most abundant animals on Earth. A single square meter of temperate forest soil can contain over 100,000 microarthropods, and nematode densities routinely exceed one million individuals per square meter. Their collective metabolism drives nutrient mineralization, shapes [[edaphic-factors-microbial-community-structure]] structure, regulates decomposition rates, and underpins the fertility that sustains all terrestrial ecosystems and [[fukuoka-agricultural-production-net-energy-deduction]].
+Soil mesofauna — organisms measuring roughly 0.1 to 2 millimeters — form the critical middle tier of the soil food web. Though invisible to the naked eye, these creatures are among the most abundant animals on Earth. A single square meter of temperate forest soil can contain over 100,000 microarthropods, and nematode densities routinely exceed one million individuals per square meter. Their collective metabolism drives nutrient mineralization, shapes [[fukuoka-agricultural-production-net-energy-deduction]].
 
 This group encompasses Collembola (springtails), Acari (mites), Nematoda (roundworms), Protista (protozoa), Tardigrada (water bears), Rotifera (wheel animals), and a diversity of lesser-known groups. Despite their small size, their ecological impact is disproportionately large.
 
@@ -41,17 +41,7 @@ Collembola are hexapods, not true insects, and are among the most ancient terres
 **Morphology:** Springtails range from 0.2 to 10 mm in length. Their defining feature is the furcula — a forked appendage folded beneath the abdomen that snaps forward to propel the animal away from threats. A ventral tube (collophore) aids in water absorption and adhesion to surfaces. Body forms are divided into elongate (arthropleona) and globular (symphypleona) morphs, each associated with different microhabitats.
 
 **Ecological groups:**
-- **Epigeic** species live on the soil surface and in [[leaf-litter-microfungal-diversity-tropical-temperate]], feeding on fungal hyphae, spores, and decomposing plant material
-- **Hemiedaphic** species occupy the upper mineral soil and litter interface
-- **Euedaphic** species are deep-soil specialists with reduced pigmentation, elongated bodies, and reduced furcula — adapted to life in narrow pore spaces
-
-### Acari — Mites
-
-Mites are arachnids rivaling insects in total described species diversity. In soils, two major groups dominate:
-
-**Oribatida (oribatid mites):** Often called "beetle mites" for their hardened, armor-like exoskeletons. Roughly 10,000 described species. They are the dominant microarthropod group in most temperate soils by both abundance and biomass. Oribatids are primarily fungivores and detritivores, with some species feeding on algae, lichens, or dead animal matter. Their slow life cycles — some species take 2–3 years to complete development — make them sensitive to environmental disturbance.
-
-**Mesostigmata (mesostigmatid mites):** A diverse group including many predatory species. Gamasina and Uropodina are the most abundant suborders in soil. Predatory mesostigmatids feed on nematodes, Collembola, other mites, and small insect larvae. *Hypoaspis* and *Stratiolaelaps* species are commercially available as [[fukuoka-textdoc-biological-control-fallacy-pheromone-critique]] agents for fungus gnat and thrips larvae in greenhouse production.
+- **Epigeic** species live on the soil surface and in [[fukuoka-textdoc-biological-control-fallacy-pheromone-critique]] agents for fungus gnat and thrips larvae in greenhouse production.
 
 **Prostigmata:** This group includes tydeid, tarsonemid, and eupodid mites. Feeding habits range from fungivory and algivory to predation and parasitism. *Tyrophagus* species are stored-product pests but also significant decomposers in soil organic matter.
 
@@ -78,28 +68,13 @@ Soil protozoa are single-celled eukaryotes that serve as the primary consumers o
 
 Tardigrades are microscopic animals (0.1–1.5 mm) found in soil, moss, lichen, and freshwater habitats. Approximately 1,300 species are described. Their fame rests on the cryptobiotic abilities of some species — they can survive desiccation, freezing, high radiation doses, and even the vacuum of space by entering a tun state of suspended metabolism.
 
-In soils, tardigrades are primarily predators of nematodes, rotifers, and other microfauna, though some feed on [[plant-cell-membrane-transport-proteins-channels-carriers-and-pumps]] fluids. Eutardigrades dominate terrestrial habitats. Their populations typically peak in moist, organic-rich soils and decline sharply under desiccation or extreme temperatures.
-
-### Rotifera — Wheel Animals
-
-Rotifers are pseudocoelomate animals ranging from 0.1 to 2 mm. Bdelloid rotifers dominate soil communities, particularly in the water film surrounding organic particles and in the rhizosphere. They feed on bacteria, small protozoa, and fungal spores using a ciliated corona that creates feeding currents.
-
-Bdelloid rotifers are notable for their entirely asexual reproduction over millions of years — one of the longest-standing evolutionary puzzles. They can survive desiccation by anhydrobiosis, similar to tardigrades, and are among the most [[radiation-resistant-fungi-and-myco-corrosion]] animals known.
+In soils, tardigrades are primarily predators of nematodes, rotifers, and other microfauna, though some feed on [[radiation-resistant-fungi-and-myco-corrosion]] animals known.
 
 ## Ecological Roles
 
 ### Nutrient Mineralization and the Microbial Loop
 
-The most significant function of soil mesofauna is their role in nutrient mineralization — the conversion of [[organic-nutrients-vs-synthetic-nutrients]] locked in microbial biomass and organic matter into plant-available inorganic forms.
-
-The process works through what ecologists call the **microbial loop**:
-
-1. Bacteria and fungi immobilize nitrogen and other nutrients from organic matter into their biomass
-2. Microfauna (protozoa, bacterivorous nematodes) graze on bacteria, releasing excess nitrogen as ammonium (NH₄⁺) — a process called **trophic-grazing mineralization** or the **microbial loop**
-3. Collembola and fungivorous mites graze on fungal hyphae, releasing nutrients that were immobilized in fungal tissue
-4. Predatory mites and nematodes regulate populations of all groups below them
-
-This loop is remarkably efficient. Protozoan grazing alone can increase [[fungal-nitrogen-mineralization-pathways]] by 20–40% compared to ungrazed microbe-only systems. In the rhizosphere, where root exudates fuel bacterial growth, the protozoan grazing loop is especially active and directly supplies plant roots with mineral nitrogen.
+The most significant function of soil mesofauna is their role in nutrient mineralization — the conversion of [[fungal-nitrogen-mineralization-pathways]] by 20–40% compared to ungrazed microbe-only systems. In the rhizosphere, where root exudates fuel bacterial growth, the protozoan grazing loop is especially active and directly supplies plant roots with mineral nitrogen.
 
 ### Decomposition Regulation
 

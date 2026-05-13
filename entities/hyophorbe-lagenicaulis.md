@@ -22,13 +22,7 @@ Hyophorbe lagenicaulis, commonly known as the bottle palm or champagne palm, is 
 
 It is renowned for its swollen, bottle-shaped trunk, which gives the species its common name. The trunk bulge is most pronounced in younger specimens and becomes less obvious with age.
 
-The species is critically endangered in the wild due to its extremely limited natural distribution. Fewer than 50 mature individuals remain on Round Island, though it is widely cultivated in tropical and subtropical gardens worldwide. The species is one of the most commonly sold ornamental palms despite its critical [[fungal-biodiversity-conservation-status]] in the wild.
-
-Bottle palms are among the most recognizable and popular ornamental palms due to their compact size and unique trunk morphology. They are commonly used in poolside plantings, courtyard gardens, and container culture.
-
-The genus Hyophorbe contains only five species, all endemic to the Mascarene Islands. Two of these species are either extinct or exist as single individuals, making the genus one of the most threatened palm genera globally. The conservation of Hyophorbe as a whole is considered a priority for Mascarene biodiversity.
-
-The dramatic contrast between the species' abundance in cultivation and its scarcity in the wild highlights the importance of habitat protection. Cultivated populations cannot substitute for the [[biodiversity-fungal-genetic-diversity]] and ecological role of wild populations.
+The species is critically endangered in the wild due to its extremely limited natural distribution. Fewer than 50 mature individuals remain on Round Island, though it is widely cultivated in tropical and subtropical gardens worldwide. The species is one of the most commonly sold ornamental palms despite its critical [[biodiversity-fungal-genetic-diversity]] and ecological role of wild populations.
 
 ## Taxonomy and Morphology
 
@@ -87,3 +81,7 @@ Irrigation needs are moderate once established, though consistent moisture promo
 Propagation is by seed, which germinates within 2 to 6 months under warm, humid conditions. Seedlings grow slowly, requiring 3 to 5 years to develop visible trunk swelling in cultivation. Plants begin flowering at approximately 10 to 15 years of age.
 
 The palm is relatively slow-growing in general, adding approximately 15 to 30 centimeters of trunk height per year under ideal conditions. Maximum lifespan in cultivation is estimated at 50 to 80 years. Older specimens often lose the pronounced bottle shape as the trunk elongates and the swelling becomes less apparent.
+
+## See Also
+
+- [[hyophorbe-verschaffeltii]]

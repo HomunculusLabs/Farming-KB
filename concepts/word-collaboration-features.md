@@ -77,12 +77,8 @@ work from their preferred device.
 
 ## See Also
 
-- [[water-garden-features]]
 - [[allegro-word-play-and-secret-names-in-scripture]]
-- [[wasson-hofmann-ruck-collaboration]]
 - [[microsoft-word-document-format]]
-- [[microsoft-word-document-format-history]]
-
 - [[microsoft-word-history]]
 - google docs
 - document collaboration

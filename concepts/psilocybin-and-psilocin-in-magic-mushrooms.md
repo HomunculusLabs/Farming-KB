@@ -16,7 +16,7 @@ genera. Psilocybin (4-phosphoryloxy-N,N-dimethyltryptamine) serves as a
 prodrug that is dephosphorylated in the body to produce psilocin
 (4-hydroxy-N,N-dimethyltryptamine), the pharmacologically active compound
 responsible for the psychedelic effects. These compounds were first isolated
-and identified by [[albert-hofmann]] in 1958-1959 following R. [[gordon-wasson-comparative-method-ethnomycology]]'s
+and identified by [[gordon-wasson-comparative-method-ethnomycology]]'s
 discovery of the pre-Columbian [[african-mushroom-cult-history]] in Mexico.
 
 ## Chemical Structures
@@ -62,16 +62,7 @@ the 4-position of the indole ring instead of serotonin's 5-hydroxy group, and
 the presence of two methyl groups on the terminal amine (dimethyl vs. primary
 amine in serotonin).
 
-This structural similarity underlies the [[serotonin-psilocybin-structural-relationship-hallucinogenic-mechanism]]: psilocin
-acts as a partial agonist at serotonin 5-HT2A receptors, particularly in the
-prefrontal cortex, where receptor density is highest. The interference with
-normal serotonin signaling is believed to be the primary mechanism of the
-psychedelic effects.
-
-## Minor Constituents
-
-In addition to psilocybin and psilocin, magic mushrooms often contain minor
-[[hplc-analysis-of-tryptamine-alkaloids]]:
+This structural similarity underlies the [[hplc-analysis-of-tryptamine-alkaloids]]:
 
 ### Baeocystin
 

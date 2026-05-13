@@ -19,35 +19,7 @@ type: concept
 
 ## Overview
 
-Powdery mildew is a common [[bloomfield-amphibian-decline-fungal-disease-climate-interactions]] that affects cannabis
-both indoors and outdoors. According to Cervantes, the first
-indication of infection is small spots on the tops of leaves.
-By the time these spots are visible, the disease has been inside
-the plant for a week or more, making early prevention critical.
-
-## Identification
-
-Initial symptoms appear as small spots on leaf tops. These
-progress to a fine, pale, gray-white powdery coating on growing
-shoots, leaves, and stems. Powdery mildew is not always limited
-to the upper surface of foliage. Growth slows, leaves yellow,
-and plants die as the disease advances.
-
-Plants are infected for weeks before they show the first visible
-symptoms. Occasionally fatal indoors, this disease is at its
-worst when roots dry out and foliage is moist simultaneously.
-This combination of dry roots and humid leaf surfaces creates
-ideal conditions for powdery mildew proliferation.
-
-## Environmental Conditions
-
-Powdery mildew thrives in specific conditions that growers must
-avoid:
-
-- Cool, damp, humid, dim grow room conditions
-- Fluctuating temperatures and humidity levels
-- Low light intensity and stale, stagnant air
-- Poor [[stamets-growing-room-air-circulation-co2-management]] between plants
+Powdery mildew is a common [[stamets-growing-room-air-circulation-co2-management]] between plants
 - Excess nitrogen fertilization producing tender, susceptible
   growth
 
@@ -63,19 +35,12 @@ takes hold. Key preventive measures include:
   plants
 - Allow foliage to dry before turning off lights at night
 - Avoid excess nitrogen that produces soft, susceptible tissue
-- Keep [[cervantes-gray-mold-botrytis-prevention]], which thrives in cool moist conditions and attacks
-dense buds, powdery mildew prefers the combination of dry roots
-with humid air around foliage. Both diseases share the same
-fundamental prevention strategy: cleanliness, [[pf-tek-low-humidity-symptoms-and-remediation]],
+- Keep [[pf-tek-low-humidity-symptoms-and-remediation]],
 good ventilation, and healthy plants.
 
-[[powdery-mildew-cannabis]] - general powdery mildew guide
-- [[cervantes-downy-mildew-fungal-blight]] - [[cervantes-downy-mildew-fungal-blight]]
-  identification
-- [[cervantes-ventilation-fan-carbon-filter-setup]] - air
+[[cervantes-downy-mildew-fungal-blight]] - [[cervantes-ventilation-fan-carbon-filter-setup]] - air
   circulation setup
-- [[ultra-low-herbal-smoker-greenhouse-pest-control]] - greenhouse
-  pest and [[cervantes-pest-disease-prevention-overview]] strategies
+- [[cervantes-pest-disease-prevention-overview]] strategies
 ## Practical Considerations
 
 Successful implementation of Powdery Mildew on Cannabis - Prevention and Treatment (Cervantes) requires attention to
@@ -117,8 +82,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[powdery-mildew-cannabis]]
 - [[ingham-ampelomyces-powdery-mildew-biocontrol-aact]]
-- [[query-how-to-prevent-and-treat-powdery-mildew-on-cannabis]]
 - [[jadam-pesticide-for-powdery-mildew]]
 - [[stamets-cultivator-trichoderma-prevention-and-treatment]]

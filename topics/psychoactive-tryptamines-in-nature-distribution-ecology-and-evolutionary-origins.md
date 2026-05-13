@@ -99,18 +99,11 @@ species, followed by Gymnopilus with 14 species, Panaeolus with 13 species,
 Copelandia with 12 species, Hypholoma with 6 species, Pluteus with 6 species, and
 Inocybe with 6 species. Additional genera contributing neurotropic species include
 Conocybe, Panaeolina, Gerronema, and isolated species within Agrocybe, Galerina,
-and Mycena. The ibotenic acid group comprises [[allegro-amanita-muscaria-properties-and-pharmacology]], Amanita pantherina,
-and Amanita regalis, while the ergot group includes [[bloomfield-ergot-claviceps-purpurea-ergotism]] and its
+and Mycena. The ibotenic acid group comprises [[bloomfield-ergot-claviceps-purpurea-ergotism]] and its
 allies across five species of Claviceps and two of Cordyceps.
 
 Perhaps the most striking biogeographic finding is the strong concentration of
-neurotropic fungal diversity in or near the [[guzman-allen-gartz-africa-southern-hemisphere-underexplored-neurotropic-fungi]], particularly in
-subtropical humid forests. Of the 85 neurotropic species of Psilocybe analyzed in
-Guzman's seminal 1983 monograph, 59 occur in South America and Mexico, compared
-with 18 in the United States and Canada, and only 9 in Europe. This disparity is
-particularly remarkable because North America and Europe have been far more
-thoroughly explored mycologically than many regions of the Southern Hemisphere,
-suggesting that the true diversity of [[ethnobotanical-use-of-neurotropic-fungi-in-mexico]] tropical and subtropical
+neurotropic fungal diversity in or near the [[ethnobotanical-use-of-neurotropic-fungi-in-mexico]] tropical and subtropical
 regions may be even greater than currently documented.
 
 Mexico stands as the single most significant center of neurotropic fungal
@@ -135,15 +128,6 @@ demonstrated that species from South America and Mesoamerica are closely related
 those of Southeast Asia, New Guinea, Indonesia, and Australia. This pattern is
 particularly evident among neurotropic Psilocybe species: Psilocybe samuiensis from
 Thailand and Psilocybe makarorae from New Zealand are both closely related to
-[[dark-incubation-sclerotia-production-psilocybe-mexicana-tampanensis]] from Mexico and Guatemala, all belonging to the section
-Mexicanae. Similarly, Psilocybe aucklandii from New Zealand is closely related to
-Psilocybe zapotecorum from Mexico and South America, both belonging to the section
-Zapotecorum.
-
-## See Also
-
-- [[guzman-allen-gartz-psilocybe-section-relationships-trans-pacific-disjunctions]]
-- [[guzman-allen-gartz-sacred-non-psilocybin-fungi-cordyceps-and-claviceps]]
+[[guzman-allen-gartz-psilocybe-section-relationships-trans-pacific-disjunctions]]
 - [[guzman-allen-gartz-indigenous-mexican-mushroom-nomenclature-sacred-names]]
-- [[guzman-allen-gartz-four-chemical-groups-neurotropic-fungi]]
 - [[guzman-allen-gartz-amanita-ibotenic-acid-fungi-cultural-significance]]

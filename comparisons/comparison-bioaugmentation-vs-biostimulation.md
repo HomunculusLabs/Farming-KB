@@ -17,12 +17,7 @@ bioremediation of contaminated environments. Both aim to accelerate the natural
 process by which microorganisms degrade, transform, or immobilize pollutants, but
 they take fundamentally different approaches. Bioaugmentation introduces new
 microorganisms with desired metabolic capabilities, while biostimulation stimulates
-the indigenous [[edaphic-factors-microbial-community-structure]] already present at the site. In practice, the two
-approaches are frequently combined for maximum remediation effectiveness.
-
-## Bioaugmentation
-
-[[biostimulation-techniques]]
+the indigenous [[biostimulation-techniques]]
 
 Biostimulation involves stimulating the indigenous microbial population at a
 contaminated site to enhance their natural ability to degrade pollutants. Rather than
@@ -30,18 +25,7 @@ introducing external organisms, biostimulation provides the conditions, nutrient
 or amendments that allow native microorganisms to carry out remediation more
 efficiently. The approach is based on the principle that contaminated environments
 typically contain microorganisms with the genetic potential to degrade pollutants, but
-their activity is limited by [[duggar-mushroom-environmental-factors-temperature-moisture-light]].
-
-Nutrient addition is the most common form. In petroleum-contaminated environments,
-the carbon-to-nitrogen-to-phosphorus ratio becomes extremely imbalanced, limiting
-microbial growth. Adding nitrogen and phosphorus at an optimal C:N:P ratio of
-approximately 100:10:1 dramatically increases degradation rates. Nitrogen sources
-include ammonium salts and urea; phosphorus sources include phosphate salts and
-slow-release formulations.
-
-Oxygen delivery is another critical biostimulation strategy, as aerobic degradation
-is generally much faster than anaerobic. Methods include tilling, bioventing (drawing
-air through soil using vacuum wells), [[cervantes-hydrogen-peroxide-sterilization]] injection, and oxygen-
+their activity is limited by [[cervantes-hydrogen-peroxide-sterilization]] injection, and oxygen-
 releasing compounds. pH adjustment (most degraders prefer neutral pH), moisture
 management, and temperature modification are additional biostimulation levers.
 Electron acceptor addition (nitrate, sulfate, iron) stimulates anaerobic degradation
@@ -65,12 +49,7 @@ when aerobic conditions cannot be maintained.
 
 Bioaugmentation is the better choice when the indigenous microbial community lacks the
 metabolic capability to degrade the target contaminant. This commonly occurs with
-synthetic [[fungal-volatile-organic-compounds-communication]] (chlorinated solvents, certain pesticides, explosives)
-that have no natural biological degradation pathway. Bioaugmentation is also
-appropriate at sites with acute, high-concentration contamination that has overwhelmed
-native populations, or where rapid remediation is needed and the native community is
-too slow. Recalcitrant compounds like polychlorinated biphenyls (PCBs) and certain
-[[singh-fungal-biodegradation-of-polycyclic-aromatic-hydrocarbons]] hydrocarbons often require bioaugmentation with specialized
+synthetic [[singh-fungal-biodegradation-of-polycyclic-aromatic-hydrocarbons]] hydrocarbons often require bioaugmentation with specialized
 degrader strains.
 
 ## When to Choose Biostimulation
@@ -97,6 +76,5 @@ creates the conditions for that capability to be expressed.
 
 ## See Also
 
-- [[phytoremediation]]
 - [[white-rot-fungi]]
 - [[comparison-biochar-vs-mycoremediation]]

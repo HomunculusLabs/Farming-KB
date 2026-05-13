@@ -24,7 +24,7 @@ antioxidant, and anticancer properties.
 - Scientific name: Curcuma longa
 - Family: Zingiberaceae
 - Hardiness: USDA zones 8-11 (grown as an annual in cooler zones)
-- Lifecycle: Perennial in tropics; annual [[query-how-to-grow-and-use-oca-in-temperate-climates]]
+- Lifecycle: Perennial in tropics; annual in temperate climates
 - Height: 2-3 feet
 - Growing season: 7-10 months for rhizome maturity
 
@@ -37,7 +37,7 @@ covered in a brownish skin.
 
 The primary active compound, curcumin (diferuloylmethane), along with
 curcuminoids and essential oils (turmerone, ar-turmerone), provide a wide
-range of [[cbd-therapeutic-effects]].
+range of therapeutic effects.
 
 Key medicinal applications:
 
@@ -47,8 +47,8 @@ Key medicinal applications:
   gastrointestinal side effects.
 - Antioxidant: Potent free radical scavenger; also boosts the body's own
   antioxidant enzymes.
-- Joint health: Effective for osteoarthritis and [[blesching-cannabis-rheumatoid-arthritis]]
-  [[cannabis-cancer-symptom-management]].
+- Joint health: Effective for osteoarthritis and rheumatoid arthritis
+  symptom management.
 - Digestive support: Stimulates bile production, supports liver function,
   and soothes digestive inflammation.
 - Cardiovascular health: Improves endothelial function and reduces
@@ -67,7 +67,7 @@ Absorption can be significantly enhanced by:
 ## Tropical Cultivation
 
 ### Climate Requirements
-Turmeric requires a long, warm [[query-how-do-i-extend-my-growing-season-with-cold-frames-and-season-extension-techniques]] consistent temperatures
+Turmeric requires a long, warm growing season with consistent temperatures
 of 65-90 degrees F. It is highly sensitive to frost and cold temperatures.
 Ideal conditions include:
 - Minimum 7-9 month frost-free growing season
@@ -106,7 +106,7 @@ From seed: Rarely done; turmeric is typically propagated vegetatively.
 ### Care and Maintenance
 - Maintain consistent moisture throughout the growing season
 - Mulch heavily (4-6 inches) to retain moisture and suppress weeds
-- Side-dress with compost or balanced [[complete-organic-fertilizer-cof]] every 4-6 weeks
+- Side-dress with compost or balanced organic fertilizer every 4-6 weeks
 - Foliar feed with liquid kelp or fish emulsion monthly during active growth
 - Turmeric is relatively pest-free but watch for rhizome rot in waterlogged
   conditions
@@ -140,11 +140,10 @@ Harvesting method:
 
 ## Processing
 
-Fresh use:
-- Wash rhizomes thoroughly
-- Peel with a spoon or vegetable peeler
-- Grate, slice, or juice
-- Add to curries, smoothies, teas, and golden milk
+## See Also
 
-Drying:
-- Slice rhizomes 1/8-1/4 inch thick
+- [[query-how-do-i-grow-and-use-ginger-and-turmeric]]
+- [[turmeric-and-ginger-rhizome-cultivation]]
+- [[comparison-turmeric-vs-ginger]]
+- [[hamilton-greenhouse-polytunnel-growing]]
+- [[greenhouse-growing]]

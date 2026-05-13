@@ -43,9 +43,7 @@ preference for nitrogen-rich substrates.
 
 ## Spawn Preparation
 
-[[bigwood-beug-miniculture-rye-grain-flush-variation-method]] serves as the standard spawn medium. See
-stamets-phase-ii-composting supported the greatest fruitings. Preparation
-methods are detailed in [[stamets-cultivator-pasteurization-vs-sterilization-methods]]
+[[stamets-cultivator-pasteurization-vs-sterilization-methods]]
 for a thorough discussion of pasteurization techniques.
 
 ## Spawn Run Parameters
@@ -59,8 +57,7 @@ for a thorough discussion of pasteurization techniques.
 ## Casing Layer
 
 After full colonization, cover with the standard casing layer balanced to a pH
-of 7.0 to 7.5, applied to a depth of 1 to 2 inches. Casing [[holmgren-permaculture-twelve-design-principles-framework]]
-are covered in [[stamets-pinning-initiation-stages-environmental-control]].
+of 7.0 to 7.5, applied to a depth of 1 to 2 inches. Casing [[stamets-pinning-initiation-stages-environmental-control]].
 
 ## Cropping Cycle
 

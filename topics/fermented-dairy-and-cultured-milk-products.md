@@ -11,23 +11,7 @@ sources:
 
 # Fermented Dairy and Cultured Milk Products
 
-Fermented dairy products are among the oldest processed foods in human history, dating back at least 10,000 years to the domestication of ruminants in the Fertile Crescent. By harnessing  bacteria (LAB) and other microorganisms, milk is transformed into a staggering variety of products with extended [[psilocybin-shelf-life-stability]], improved digestibility, enhanced nutritional profiles, and complex flavors. Today, cultured dairy spans from everyday staples like yogurt and kefir to regional specialties like Icelandic skyr, Finnish viili, and Georgian matsoni.
-
-## The Science of Milk Fermentation
-
-### Lactic Acid Bacteria (LAB)
-
-The primary drivers of dairy fermentation are lactic acid bacteria, a diverse group of Gram-positive, facultatively anaerobic cocci and rods. The key genera include:
-
-- **Lactobacillus** — rods; the workhorses of yogurt, kefir, and vegetable fermentation. Species include *L. delbrueckii* subsp. *bulgaricus* (yogurt), *L. helveticus* (cheese), and *L. acidophilus* (probiotic supplements).
-- **Lactococcus** — cocci; central to cheese and buttermilk fermentation. *Lactococcus lactis* is the most widely used dairy starter culture.
-- **Streptococcus** — specifically *Streptococcus thermophilus*, which partners with *L. bulgaricus* in yogurt production through protocooperation.
-- **Leuconostoc** — produces diacetyl, the compound responsible for the buttery aroma of cultured buttermilk and some cheeses.
-- **Enterococcus** — present in some traditional fermentations; contributes to flavor development in artisanal cheeses.
-
-### Homolactic vs. Heterolactic Fermentation
-
-LAB follow two [[primary-metabolic-precursors-to-the-shikimate-pathway]] pathways:
+Fermented dairy products are among the oldest processed foods in human history, dating back at least 10,000 years to the domestication of ruminants in the Fertile Crescent. By harnessing  bacteria (LAB) and other microorganisms, milk is transformed into a staggering variety of products with extended [[primary-metabolic-precursors-to-the-shikimate-pathway]] pathways:
 
 **Homolactic fermentation** (Embden–Meyerhof pathway) converts nearly all glucose to lactic acid:
 
@@ -47,7 +31,7 @@ This pathway is used by *Leuconostoc*, *L. brevis*, and *L. fermentum*. The bypr
 
 ### Proteolysis and Flavor Development
 
-Beyond acidification, fermented dairy microorganisms produce peptidases and proteases that [[query-can-fungi-break-down-plastic-pollution]] milk proteins (casein and whey proteins) into free amino acids and bioactive peptides. These peptides contribute umami and savory notes, while amino acids like cysteine serve as precursors to sulfur-containing aroma compounds. Lipolysis by microbial lipases releases free [[stable-carbon-isotope-signature-fatty-acids-mycorrhizal-carbon-tracking]], contributing to the sharp, pungent flavors of aged cheeses.
+Beyond acidification, fermented dairy microorganisms produce peptidases and proteases that [[stable-carbon-isotope-signature-fatty-acids-mycorrhizal-carbon-tracking]], contributing to the sharp, pungent flavors of aged cheeses.
 
 ## Major Cultured Dairy Products
 
@@ -79,15 +63,7 @@ Kefir is a complex, self-carbonating fermented milk produced using kefir grains 
 **Kefir grain microbiome (30–50+ species):**
 
 - **Bacteria:** *Lactobacillus kefiranofaciens*, *L. kefiri*, *L. parakefiri*, *L. acidophilus*, *Lactococcus lactis*, *Leuconostoc mesenteroides*, *Streptococcus thermophilus*, *Acetobacter* spp.
-- **Yeasts:** *Kluyveromyces marxianus*, *[[saccharomyces-cerevisiae]]*, *Torulaspora delbrueckii*
-
-This diversity produces ethanol (typically 0.5–2.0% ABV), CO₂ (effervescence), lactic acid, acetic acid, and a range of aromatic compounds. The result is a tangy, slightly fizzy, thinner-than-yogurt beverage with a flavor profile far more complex than yogurt.
-
-**Key differences from yogurt:**
-- Kefir contains viable yeasts; yogurt typically does not.
-- Kefir grains are a self-propagating inoculant (they grow during fermentation); yogurt requires serial repurchasing or careful subculturing.
-- Kefir ferments at room temperature (20–25°C); yogurt requires warmer temperatures (40–45°C).
-- Kefir produces a broader spectrum of [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]] due to its diverse microbiome.
+- **Yeasts:** *Kluyveromyces marxianus*, *[[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]] due to its diverse microbiome.
 
 ### Buttermilk and Cultured Cream
 
@@ -99,11 +75,7 @@ This diversity produces ethanol (typically 0.5–2.0% ABV), CO₂ (effervescence
 
 ### Cheese Cultures
 
-[[cheese-making-basics]] begins with the same LAB as other fermented dairy but diverges through curd formation, cutting, cooking, pressing, and aging. Key culture categories:
-
-- **Mesophilic starters** (optimal 20–30°C): *Lactococcus lactis* subsp. *lactis* and *cremoris*. Used for cheddar, Gouda, brie, camembert, feta.
-- **Thermophilic starters** (optimal 40–45°C): *S. thermophilus*, *L. delbrueckii* subsp. *bulgaricus* and *lactis*. Used for Swiss, Parmesan, mozzarella, Gruyère.
-- **Secondary/adjunct cultures:** *Penicillium roqueforti* ([[blue-cheese]]), *P. camemberti* (bloomy rinds), *Propionibacterium freudenreichii* (Swiss eyes/CO₂), *Brevibacterium linens* (washed rinds like Limburger).
+[[blue-cheese]]), *P. camemberti* (bloomy rinds), *Propionibacterium freudenreichii* (Swiss eyes/CO₂), *Brevibacterium linens* (washed rinds like Limburger).
 - **Starter culture formats:** DVI (direct vat inoculation) freeze-dried packets; mother cultures bulk-prepared from DVI; heirloom/undefined cultures maintained through serial propagation.
 
 ### Regional Cultured Milk Traditions

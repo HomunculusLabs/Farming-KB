@@ -35,13 +35,11 @@ This has a specific implication for ecological cognition: the environment is not
 
 ## Dialogues in Nature
 
-Powell extends the language metaphor to describe [[king-stropharia-ecological-interactions-permaculture]]. "If we accept that information flows through biological growth and biological activity," he writes, "this language-like informational paradigm" can be seen operating at every level. The interaction of a plant with its environment can be described "in terms of a dialogue-like, language-like" exchange of information.
-
-This dialogical [[fukuoka-view-of-nature-and-human-hubris]] means that ecological cognition is not merely a human capacity projected onto the environment, but a description of how the environment actually operates. Cognition, in its broadest sense, is what the biosphere does: it processes information through relational exchanges, and consciousness is simply the most complex and self-aware form of this ubiquitous natural process.
+Powell extends the language metaphor to describe [[fukuoka-view-of-nature-and-human-hubris]] means that ecological cognition is not merely a human capacity projected onto the environment, but a description of how the environment actually operates. Cognition, in its broadest sense, is what the biosphere does: it processes information through relational exchanges, and consciousness is simply the most complex and self-aware form of this ubiquitous natural process.
 
 ## Gaia as Self-Stimulational System
 
-Powell extends James Lovelock's Gaia hypothesis into explicitly cognitive territory. Gaia, he argues, is "a self-stimulational informational system able to achieve highly integrated forms of information (organisms) because all the information needed for this process was written into previous states of the Gaian system." Evolution is not merely adaptation but an autocatalytic process in which:
+Powell extends [[james-lovelock]]'s [[gaia-hypothesis]] into explicitly cognitive territory. Gaia, he argues, is "a self-stimulational informational system able to achieve highly integrated forms of information (organisms) because all the information needed for this process was written into previous states of the Gaian system." Evolution is not merely adaptation but an autocatalytic process in which:
 
 - The environment provides contextual feedback that "highlights the sensibility" of genetic variants
 - Organisms and their environment form "one interconnected system in which evolution occurs"
@@ -51,15 +49,7 @@ Powell extends James Lovelock's Gaia hypothesis into explicitly cognitive territ
 
 ## Shamanic Cognition as Ecological Process
 
-Powell's most distinctive contribution is his treatment of [[metzner-three-distinctive-features-shamanic-entheogenic-ceremonies]] experience as ecological cognition. In indigenous societies, the shamanic ingestion of plants and fungi is "an entirely natural process" that, when viewed ecologically (shaman + tribe + plant + environment), constitutes a homeostatic feedback loop: "one part of the environment acts upon another in order to restore harmony."
-
-The knowledge produced during entheogenic experiences is not internally generated but ecologically derived -- it emerges from the interface between the human nervous system and the broader informational patterns of the biosphere. Powell calls this "neo-shamanic phenomenology."
-
-## The Universal Computation
-
-Powell's overarching framework treats the entire reality process as a computation: "At any one moment the Universe is in a specific state or form. This state is processed according to the 'rules of the Universe', and another universal state is formed." We are "inside the computation" -- not external observers but informational patterns within an ongoing process of state transitions.
-
-This computational view makes ecological cognition literal: the biosphere is processing information, and consciousness is a particularly refined form of that processing. The human cortex is "a biologically wrought mirror able to catch the face of [[powell-natural-intelligence-and-the-universal-computation]] upon its refined surface."
+Powell's most distinctive contribution is his treatment of [[powell-natural-intelligence-and-the-universal-computation]] upon its refined surface."
 
 ## Natural Selection as Natural Intelligence
 

@@ -30,12 +30,7 @@ Powdery mildew is not always limited to the upper surface of foliage. The diseas
 Powdery mildew fungi reproduce by spreading microscopic spores through the air:
 
 - Fungal spores are airborne and present virtually everywhere in the environment
-- Countless spores are present in the air at all times; when they find proper conditions, they settle and [[query-how-do-i-start-growing-hazelnut-bushes]]
-- The disease cycle begins when spores land on susceptible tissue and germinate
-- Fungal hyphae penetrate leaf tissue and extract nutrients from plant cells
-- After a colonisation period of one or more weeks, the fungus produces visible white powdery spores on leaf surfaces
-- These spores are dispersed by air currents to infect new tissue and new plants
-- The cycle can repeat multiple times during a single [[savory-growing-season-and-non-growing-season-management]]
+- Countless spores are present in the air at all times; when they find proper conditions, they settle and [[savory-growing-season-and-non-growing-season-management]]
 
 Most fungi are primitive plants that do not produce chlorophyll and reproduce by spreading microscopic spores. Powdery mildew is unusual in that it does not require liquid water on leaf surfaces for infection, making it particularly insidious in indoor environments where humidity fluctuates.
 
@@ -46,10 +41,7 @@ Most fungi are primitive plants that do not produce chlorophyll and reproduce by
 - Yellowing of affected foliage as chlorophyll is destroyed
 - Stunted growth as the plant diverts energy to fight infection
 - Premature leaf drop in advanced cases
-- Reduced essential oil and [[cannabis-glandular-trichome-types-resin-production-clarke]] on infected buds
-- Occasional plant death when left unchecked in severe cases
-
-The damage is compounded because powdery mildew weakens plants and makes them more susceptible to other [[query-how-to-manage-pests-and-diseases-in-mushroom-cultivation]]. Infected foliage has reduced photosynthetic capacity, which directly impacts bud development and overall yield.
+- Reduced essential oil and [[query-how-to-manage-pests-and-diseases-in-mushroom-cultivation]]. Infected foliage has reduced photosynthetic capacity, which directly impacts bud development and overall yield.
 
 ## Environmental Conditions
 

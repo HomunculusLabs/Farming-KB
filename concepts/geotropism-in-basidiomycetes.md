@@ -15,17 +15,11 @@ created: 2026-05-10
 
 # Geotropism in Basidiomycetes
 
-[[negative-geotropism-in-mushroom-fruiting]] basidiomycetes is the upward curvature
-response of mushroom stipes that positions the pileus
-horizontally for effective spore dispersal.
-This response is one of several tropisms studied in
 [[mushroom-tropisms]].
 
 ## Overview
 
-In *[[basidiocarp-four-stage-development-classification-psilocybe-cubensis-badham-1982]]*, negative geotropism manifests at
-Stage 2 of development, when the pileus becomes spherical
-and [[spore-production-geotropic-sensitivity-coupling-basidiomycete-badham-1982]] begins.
+In *[[spore-production-geotropic-sensitivity-coupling-basidiomycete-badham-1982]] begins.
 The stipe curves upward so the pileus turns away from the
 wind direction, opening with lamellae facing directly downward.
 This behavior occurs under both overhead and under-lighting
@@ -70,14 +64,7 @@ the remaining stipe tissue, pointing to the gills as a
 source of tropism signals.
 Agar diffusates collected from gills were shown by
 Hagimoto and Konishi (1960) to partially replace the
-pileus influence on [[windward-leeward-boundary-layer-redistribution-stipe-curvature-badham-1982]].
-This suggests that a diffusible substance — likely a
-growth-regulating hormone — is produced by the lamellae
-and transported downward through the stipe to regulate
-differential growth and curvature.
-However, the specific mushroom hormones involved in
-tropism have been postulated but never conclusively
-identified by [[challenges-neurotropic-fungi-chemical-analysis-taxonomic-identification]].
+pileus influence on [[challenges-neurotropic-fungi-chemical-analysis-taxonomic-identification]].
 Some mushrooms have been found to contain higher plant
 hormones such as auxins and gibberellins, but there is
 no evidence that these regulate mushroom growth or
@@ -118,8 +105,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[dom]]
 - [[det]]
-- [[spore-dispersal]]
 - [[spore]]
 - [[psilocybe-cubensis]]

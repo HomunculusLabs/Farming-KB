@@ -23,18 +23,7 @@ Fukuoka begins with a lament for the transformation of the Japanese diet.
 Since the end of World War II, Japan has progressively abandoned its
 traditional food culture in favor of Western eating habits. Rice consumption
 has declined sharply, replaced by bread, meat, dairy, and processed foods.
-Traditional [[fukuoka-japanese-cooking-culture-disappearing]] — with its emphasis on seasonal vegetables,
-fermented foods, and modest portions of fish — is disappearing. The result is
-not merely a cultural loss but a public health crisis, as rates of chronic
-disease rise in direct correlation with the Westernization of the diet.
-
-## Too Few Vegetables in the Western Diet
-
-Fukuoka observes that the Western diet is fundamentally unbalanced, relying
-too heavily on animal products and refined carbohydrates while providing
-far too few vegetables. This is not merely a nutritional problem but an
-ecological one, because meat-heavy diets require vastly more land, water, and
-energy to produce than plant-based diets. The [[pf-tek-global-spread-and-cultural-impact]] of Western eating
+Traditional [[pf-tek-global-spread-and-cultural-impact]] of Western eating
 habits is accelerating environmental degradation while undermining the food
 cultures that developed sustainably over centuries.
 
@@ -53,32 +42,7 @@ relationship with the natural world.
 
 ## America's Food Strategy
 
-Fukuoka identifies the [[dmt-containing-plants-united-states-halpern]] as the dominant player in what he calls
-the "seed war" — the global competition to develop and control high-yielding
-. America's agricultural research establishment, generously
-funded by government and industry, has systematically developed crop varieties
-designed for maximum yield under intensive chemical management. These
-varieties are then promoted globally through development agencies, trade
-agreements, and agricultural extension programs. The result is a steadily
-increasing dependence on American seed and the chemical inputs those seeds
-require, creating a form of agricultural dependency that serves American
-strategic interests.
-
-## Rice Seed as a Weapon
-
-The competition over rice seed development is particularly significant because
-rice is the staple food for billions of people across Asia. Fukuoka describes
-an intense race between Japan and the United States to develop
-high-yielding rice varieties, with both nations investing heavily in
-agricultural research aimed at producing the "winning" seed. But this
-competition, in Fukuoka's analysis, is profoundly misguided. The
-These varieties require precisely controlled conditions and chemical inputs
-that are unsustainable and undermine the resilience of local farming systems.
-
-## Hybrid Seed Development and Geopolitical Interests
-
-The development of hybrid crop varieties serves geopolitical interests in
-ways that are rarely acknowledged. [[heirloom-vs-hybrid-seeds-comparison]] do not breed true, meaning
+Fukuoka identifies the [[heirloom-vs-hybrid-seeds-comparison]] do not breed true, meaning
 farmers must purchase new seed each year from the companies that developed
 them. This transforms seed from a commons — something farmers save, share,
 and improve across generations — into a proprietary product controlled by
@@ -118,8 +82,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[fukuoka-seed-war-food-strategic-weapon-hybrid-rice-geopolitics]]
 - [[masanobu-fukuoka]]
-- [[fukuoka-food-strategic-weapon-seed-war-geopolitics]]
 - [[fukuoka-seed-war-rice-weapon]]
 - [[fukuoka-food-strategic-weapon-seed-rice-geopolitics]]

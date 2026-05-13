@@ -8,43 +8,14 @@ type: entity
 
 ## Description
 
-Pashaquilla sensitiva is the Amazonian name for *Macrolobium acaciaefolium*, a leguminous plant in the Fabaceae family. In Amazonian vegetalismo, this plant is associated with amarres amorosos (love magic/love binding). When a vegetalista uses pashaquilla sensitiva to unite two lovers, they are said to remain faithful to each other for years. The plant's branches are inhabited by sylphs — spiritual beings who are experts in love magic. The plant is mentioned in Vision 41 (Pulsations) of Pablo Amaringo's *[[amaringo-ayahuasca-visions-shipibo-iconography]]*.
-
-## Classification
-
-- **Scientific name:** *Macrolobium acaciaefolium*
-- **Family:** Fabaceae (legume family)
-- **Common names:** Pashaquilla sensitiva, pashaquilla
-- **Growth form:** Tropical tree or shrub
-- **Habitat:** Amazon basin, often in seasonally flooded areas (igapó and várzea forests)
-
-## Key Facts
-
-- Used in Amazonian love magic (amarres amorosos) to bind two lovers together permanently
-- When used properly, the binding effect reportedly lasts for years
-- Sylphs (airy spirits) inhabit the plant's branches and are experts in love magic
-- The species name "sensitiva" suggests sensitive or responsive properties (possibly thigmonastic movements)
-- Member of the Fabaceae, a family known for diverse [[cordyceps-cancer-bioactive-compounds]] including alkaloids and flavonoids
+Pashaquilla sensitiva is the Amazonian name for *Macrolobium acaciaefolium*, a leguminous plant in the Fabaceae family. In Amazonian vegetalismo, this plant is associated with amarres amorosos (love magic/love binding). When a vegetalista uses pashaquilla sensitiva to unite two lovers, they are said to remain faithful to each other for years. The plant's branches are inhabited by sylphs — spiritual beings who are experts in love magic. The plant is mentioned in Vision 41 (Pulsations) of Pablo Amaringo's *[[cordyceps-cancer-bioactive-compounds]] including alkaloids and flavonoids
 - *Macrolobium* species are important components of Amazonian floodplain forests
 
 ## Ethnobotanical Uses
 
 - **Love magic (amarres amorosos):** Used to unite couples and ensure fidelity
-- The [[casing-soil-preparation-and-application]] likely involves ritual bathing, consumption, or topical application
-- The plant's association with sylphs (airy spirits) suggests it may have psychoactive or consciousness-altering properties
-
-## Botanical Characteristics
-
-- Member of the legume family with compound leaves (acacia-like, as the species name suggests)
-- Found in seasonally flooded forests, indicating tolerance of waterlogged soils
-- Likely produces typical leguminous flowers and pods
-- "Sensitiva" may refer to leaf movements in response to touch, similar to *Mimosa pudica*
-
-## Relevance to Cultivation and Mycology
-
-- As a legume, *Macrolobium acaciaefolium* forms [[fungi-in-the-environment-symbiotic-relationships]] with nitrogen-fixing rhizobia bacteria
-- Leguminous plants in Amazonian floodplain forests play crucial roles [[comparison-soil-protozoa-vs-nematodes-in-nutrient-cycling]]
-- The plant likely forms [[plants-without-mycorrhizal-associations]] important for nutrient uptake in flood-prone environments
+- The [[fungi-in-the-environment-symbiotic-relationships]] with nitrogen-fixing rhizobia bacteria
+- Leguminous plants in Amazonian floodplain forests play crucial roles [[plants-without-mycorrhizal-associations]] important for nutrient uptake in flood-prone environments
 - Fabaceae species are often important hosts for diverse fungal endophytes
 - The love-magic application may relate to compounds affecting neurotransmitter systems
 - The plant's role in floodplain ecology connects to fungal decomposition cycles in periodically inundated forests
@@ -77,7 +48,7 @@ The plant's name also suggests responsiveness.
 
 Whether or not the species shows dramatic touch movement, the cultural label frames it as sensitive to contact and intention.
 
-This is why the note belongs beside [[medicinal-herb-growing]], [[entheogenic-plants-and-psychoactive-flora]], and [[ayahuasca-preparation-pablo-amaringo-ucayali-shamanism]].
+This is why the note belongs beside [[entheogenic-plants-and-psychoactive-flora]], and [[ayahuasca-preparation-pablo-amaringo-ucayali-shamanism]].
 
 ## Floodplain Ecology
 

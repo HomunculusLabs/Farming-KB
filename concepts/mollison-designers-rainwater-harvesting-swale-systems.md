@@ -17,8 +17,7 @@ type: concept
 
 # Rainwater Harvesting and Swale Systems
 
-Swales are one of the most important earthworks in [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]],
-described extensively by [[bill-mollison]] in Permaculture: A Designers'
+Swales are one of the most important earthworks in [[bill-mollison]] in Permaculture: A Designers'
 Manual (Chapter 2: Concepts and Themes in Resource Design, and Chapter
 8: Water in the Landscape). A swale is a level ditch and berm system
 constructed on contour to intercept, slow, spread, and sink surface
@@ -32,14 +31,7 @@ berm and below.
 Swales follow the keyline principle of working with natural contour lines
 to manage water movement across slopes. A well-designed swale system
 transforms runoff into soil moisture, reducing erosion and drought stress
-while building soil [[hamilton-composting-and-organic-matter-management]] and fertility over time. The design
-must account for rainfall intensity, soil infiltration rates, slope
-gradient, and the total catchment area contributing runoff to each swale.
-
-Mollison emphasizes that swales are not universal solutions. They work
-best on gentle to moderate slopes (2-15%) with soils that have moderate
-infiltration rates. On very steep slopes, swales may require additional
-stabilization. On [[query-how-do-i-improve-heavy-clay-soil-in-my-garden]] soils with very low infiltration, swales
+while building soil [[query-how-do-i-improve-heavy-clay-soil-in-my-garden]] soils with very low infiltration, swales
 can become waterlogged and may need integration with drainage outlets.
 On very sandy or porous soils, swale water may infiltrate too rapidly to
 spread effectively downslope, requiring closer spacing or alternative
@@ -47,44 +39,91 @@ approaches such as contour ripping.
 
 ## Contour Measurement and Layout
 
-Accurate contour measurement is essential for [[swale-construction-guide]]. Tools
-range from simple A-frame levels and water tube levels (bunyip levels)
-to laser levels and transit instruments. The A-frame level is the most
-accessible: two legs of equal length connected at the apex with a
-plumb bob or spirit level indicating when the frame sits on level ground.
-Stakes are placed along the contour by rotating the A-frame across the
-slope and marking each point where the level indicates true horizontal.
-
-For larger-scale earthworks, Mollison recommends laser levels or dumpy
-levels for precision. The contour line is flagged with pegs and marked
-with lime or paint before excavation begins. It is critical to verify
-the contour line multiple times, as errors in level translate directly
-to water pooling at the low end of the swale and dry sections at the
-high end, defeating the purpose of even water distribution.
-
-## Swale Dimensions and Spacing
-
-Swale dimensions depend on the expected volume of runoff, slope gradient,
-and soil characteristics. Typical swale dimensions in permaculture
-applications are:
-
-  - Bottom width: 1-3 meters (3-10 feet)
-  - Depth: 30-60 cm (12-24 inches) measured from the bottom of the
-    ditch to the top of the berm
-  - Berm width: 1-2 meters (3-6 feet) on the downslope side
-
-Swale spacing on a slope is calculated based on the vertical interval
-between swales. A common formula is to space swales such that the
-vertical distance between them equals 3-5 meters for gentle slopes and
-up to 10-15 meters on steeper terrain. Mollison references the keyline
-scale of permanence and suggests that swale spacing should relate to the
-slope's capacity to absorb and hold water without saturation. Closer
-spacing is used in drier climates and on steeper slopes to maximize
-water capture.
-
-A practical rule of thumb is to calculate the catchment area above each
-swale and size the swale to hold the expected runoff from a 1-in-10 or
-1-in-25 year rainfall event. The swale should fill and infiltrate within
-24-48 hours to prevent mosquito breeding and [[query-what-causes-root-rot-in-cannabis-and-how-to-prevent-it]] plantings.
+Accurate contour measurement is essential for [[query-what-causes-root-rot-in-cannabis-and-how-to-prevent-it]] plantings.
 
 ## Overflow Design
+
+## Overview
+
+Mollison Designers Rainwater Harvesting Swale Systems represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish mollison designers rainwater harvesting swale systems
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving mollison extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Mollison Designers Rainwater Harvesting Swale Systems finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for mollison designers rainwater harvesting swale systems. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+mollison designers rainwater harvesting swale systems and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Mollison Designers Rainwater Harvesting Swale Systems has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of mollison designers rainwater harvesting swale systems into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[humid-cool-climate-characteristics-mollison]]
+- [[mentha-aquatica-mollison]]
+- [[mollison-designers-climate-zone-3-farm-forestry]]
+- [[mollison-designers-earthworks-for-erosion-control]]
+- [[soya-bean-mollison]]

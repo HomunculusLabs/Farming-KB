@@ -18,13 +18,7 @@ type: concept
 # HID System Setup Step-by-Step
 
 Setting up a High Intensity Discharge (HID) lighting system properly
-is essential for safe and effective indoor [[query-how-does-no-till-cannabis-cultivation-work]]. Jorge
-Cervantes provides a detailed seven-step process in Chapter 9 of
-*Marijuana Horticulture* (page 221).
-
-## Step One: Prepare the Grow Room
-
-Before setting up the HID system, complete the [[cannabis-grow-room-setup]]
+is essential for safe and effective indoor [[cannabis-grow-room-setup]]
 instructions from Chapter 6. Ensure the room is clean, painted with
 flat white reflective paint or covered with reflective material, and
 that ventilation is already in place. The room should be fully enclosed
@@ -38,13 +32,7 @@ carefully:
 - Keep them away from plants and flammable walls/ceilings
 - If the room has a low ceiling, place a protective non-flammable
   material (metal) between the lamp and ceiling
-- An exhaust fan is necessary to [[query-how-do-i-manage-heat-stress-in-my-cannabis-garden]]
-- Place the remote ballast near the floor to keep things cool, or
-  outside the grow room if the room runs too hot
-- When hanging the lamp on an overhead chain or pulley system, ensure
-  electrical cords are unencumbered and not too close to heat sources
-
-A bulb hanging crookedly under a [[cervantes-no-reflective-hood-lighting]] causes light to be
+- An exhaust fan is necessary to [[cervantes-no-reflective-hood-lighting]] causes light to be
 reflected unevenly, creating "hot spots" and "cold spots" in the
 garden.
 
@@ -117,8 +105,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[det]]
 - [[cervantes-conversion-bulbs-hid-lighting]]
-- [[cervantes-indoor-grow-room-setup]]
 - [[cervantes-ballasts-hid-electrical]]
 - [[cervantes-ventilation-fan-carbon-filter-setup]]

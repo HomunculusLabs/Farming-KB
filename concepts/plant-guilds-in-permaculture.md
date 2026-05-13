@@ -6,40 +6,11 @@ type: concept
 
 # Plant Guilds in Permaculture
 
-A **guild** in [[permaculture]] is a harmonious assembly of species clustered around a central element (plant or animal). This assembly acts in relation to the central element to assist its health, aid human work in management, or buffer adverse environmental effects. Guild design is the primary methodology of polyculture — replacing monoculture with synergistic species communities that produce more yields with lower inputs.
-
-## The Concept in Nature
-
-In the natural world, mixed assemblies of plants or animals of different species are often found occurring together over their ranges. Closer examination reveals a set of **mutual benefits** arising from such convivial togetherness — help or protection offered to the whole assembly. One bird species may act as "lookout" for another, or defend others from hawks.
-
-When permaculture designers create plant guilds in a polyculture, they attempt to **maximize the benefits** of each species to the others while also incorporating factors of convenience to humans or which save inputs of fertilizer and pesticides.
-
-## Reasons for Species Association
-
-### Reducing Root Competition
-
-Almost all cultivated food trees thrive in **herbal ground covers, not grasses**. Invasive grasses compete aggressively with tree roots for nutrients and water. Replacing grass with beneficial ground covers dramatically improves tree health.
-
-### Pest Control
-
-Guilds assist pest control through multiple mechanisms:
-
-- **Anti-feedants**: Bitter or unpalatable browse or chemical deterrents. Nasturtium roots provide root chemicals to tomatoes or gooseberries that deter whitefly. Many plants, fermented or in aqueous extraction, deter pests when sprayed as foliar sprays.
-
-- **Killing root parasites and predators**: *Crotalaria* captures nematodes that damage citrus and solanaceous roots. *Tagetes* marigolds "fumigate" soils against grasses and nematodes.
-
-- **Hosting predators**: Almost all small-flowered plants — especially *Quillaja*, many *[[acacia]]* species, tamarisk, Compositae (daisy family), and Umbelliferae (dill, fennel, carrot, coriander) — host robber-flies and predatory wasps.
+A **guild** in [[acacia]]* species, tamarisk, Compositae (daisy family), and Umbelliferae (dill, fennel, carrot, coriander) — host robber-flies and predatory wasps.
 
 ### Creating Favorable Soil Conditions
 
-- **Open soil and mulch**: [[comfrey]] and globe artichokes allow tree roots to feed at the surface (unlike grasses, which compete). Spring bulbs (daffodils) or winter-grown wild *Allium* species, whose tops die down in mid-spring, do not compete with deciduous tree roots during summer dry periods, nor do they intercept light rains.
-
-### Providing Free Nutrients
-
-Woody or herbaceous legumes fix nitrogen or other essential nutrients via root associates, stimulate soil bacteria or fungi, and benefit associated trees. Examples include:
-
-- Clovers
-- Trees such as *Acacia*, *[[casuarina]]*, and *Pultenaea*
+- **Open soil and mulch**: [[casuarina]]*, and *Pultenaea*
 - Sugar-providing grasses (sugar cane)
 - High [[humus]] producers (bananas)
 
@@ -73,7 +44,7 @@ Beyond plants, guilds incorporate animals that assist crop species:
 Pigs or poultry specifically used to clear up fallen fruit that hosts fruit fly or larval pest forms. Foragers can be run in orchards during the relatively short period when fruit is falling and rotting, or used to eat reject fruit and deposit manures.
 
 ### Insectivores
-Birds that search bark crevices (woodpeckers, honey-eaters) for resting larvae and egg masses. Encouraged by planting scattered flowering shrubs and herbaceous plants such as *Kniphofia*, *Banksia*, *Salvia*, *Buddleia*, and *Fuchsia* — all providing insect and nectar foods.
+Birds that search bark crevices (woodpeckers, honey-eaters) for resting larvae and egg masses. Encouraged by planting scattered flowering shrubs and herbaceous plants such as *[[kniphofia]]*, *Banksia*, *Salvia*, *Buddleia*, and *Fuchsia* — all providing insect and nectar foods.
 
 ### Mollusc Control
 Snails and slugs are almost totally controlled by a duck flock on range, and several large lizards (*Tiliqua* spp.) feed primarily on snails. Ducks can be ranged seasonally (autumn to spring) in plant systems and in summer on marshlands. Appropriate scheduling is essential since ducks will eat seedlings.

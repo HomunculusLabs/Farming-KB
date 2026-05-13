@@ -11,7 +11,7 @@ sources: []
 
 ## Overview
 
-Functional mushroom products encompass a wide range of formats including tinctures, powders, capsules, extracts, teas, and food products. The functional [[hallucinogenic-mushroom-market-in-europe]] has grown rapidly, with global sales exceeding $50 billion and projected continued expansion. However, product quality, labeling accuracy, and consumer understanding vary enormously. This page covers product types, [[arbuscular-mycorrhizal-spore-extraction-methods]], [[ingham-compost-quality-assessment-visual-microbial-indicators]], and practical guidance for consumers and practitioners.
+Functional mushroom products encompass a wide range of formats including tinctures, powders, capsules, extracts, teas, and food products. The functional mushroom market has grown rapidly, with global sales exceeding $50 billion and projected continued expansion. However, product quality, labeling accuracy, and consumer understanding vary enormously. This page covers product types, extraction methods, quality assessment, and practical guidance for consumers and practitioners.
 
 ## Product Formats
 
@@ -21,7 +21,7 @@ The simplest and most affordable format:
 
 - Raw dried mushroom powder: Whole mushroom dried and ground
 - Fruiting body powder: Made from the visible mushroom cap/stem only
-- Mycelium powder: Made from the [[fungal-mycelium-hyphae-and-the-feeding-phase]] grown on substrate (often grain)
+- Mycelium powder: Made from the fungal mycelium grown on substrate (often grain)
 - Dual powder: Blend of fruiting body and mycelium
 
 Advantages:
@@ -63,13 +63,13 @@ Concentrated preparations that isolate or concentrate specific compounds:
 
 - Hot water extracts: Best for beta-glucans and polysaccharides
 - Alcohol extracts: Best for triterpenes, hericenones, ergothioneine
-- Dual extracts: Sequential water and [[pf-tek-alcohol-extraction-method]], capturing both classes
-- Liposomal extracts: Encapsulated in lipid molecules for [[staycare-surfactant-enhanced-bioavailability-in-fungal-bioremediation]]
+- Dual extracts: Sequential water and alcohol extraction, capturing both classes
+- Liposomal extracts: Encapsulated in lipid molecules for enhanced bioavailability
 - Standardized extracts: Guaranteed minimum levels of specific compounds (e.g., "30% beta-glucans")
 
 ### Teas and Decoctions
 
-[[kava-traditional-preparation-ceremonial-context]] methods:
+Traditional preparation methods:
 
 - Simple hot water extraction — steep mushroom powder or dried pieces in hot water
 - Decoction: Simmer for 20-60 minutes for tougher, woody mushrooms (reishi, chaga)
@@ -81,7 +81,7 @@ Concentrated preparations that isolate or concentrate specific compounds:
 
 Emerging functional food category:
 
-- [[oyster-mushroom-coffee-grounds-cultivation]] blends (typically lion's mane, chaga, cordyceps)
+- Mushroom coffee blends (typically lion's mane, chaga, cordyceps)
 - Mushroom chocolates and cacao blends
 - Mushroom broths and soups
 - Functional beverages (elixirs, shots)
@@ -110,7 +110,7 @@ Key quality indicators:
 3. Extraction method: Hot water, alcohol, dual (dual preferred for broad-spectrum)
 4. Standardization: Guaranteed levels of active compounds (beta-glucan %, triterpene %)
 5. Third-party testing: Independent lab verification of identity, potency, and contaminants
-6. [[fukuoka-critique-organic-certification]]: Reduces risk of pesticide exposure
+6. Organic certification: Reduces risk of pesticide exposure
 7. Source transparency: Where grown, by whom, under what conditions
 8. Excipients: Minimal fillers, binders, or additives
 
@@ -140,11 +140,11 @@ Third-party testing should verify:
 
 - Heavy metals (lead, arsenic, cadmium, mercury)
 - Pesticide residues
-- Microbial contamination (E. coli, Salmonella, mold, yeast)
-- Aflatoxins and other mycotoxins
-- Solvent residues (for alcohol-extracted products)
-- Radiation (relevant for products from certain regions)
 
-## Labeling: Reading Between the Lines
+## See Also
 
-### Key Labeling Terms
+- [[rice-blast-fungus-functional-genomics]]
+- [[functional-redundancy-fungal-communities]]
+- [[functional-genomics-arbuscular-mycorrhiza]]
+- [[component-analysis-and-functional-connections]]
+- [[functional-design-component-placement]]

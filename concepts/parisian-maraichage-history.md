@@ -8,21 +8,13 @@ created: 2026-05-10
 # Parisian Maraichage History
 
 La culture maraichère — the intensive market gardening tradition of Paris — represents
-one of the most remarkable achievements in the history [[psychedelic-research-legal-history-united-states]] of [[urban-agriculture-and-rooftop-farming]]. Between
+one of the most remarkable achievements in the history [[urban-agriculture-and-rooftop-farming]]. Between
 1850 and 1900, the Parisian maraichers (market gardeners) developed a system of
-year-round [[coleman-french-historical-winter-vegetable-production]] that fed the city of Paris entirely with locally grown
-produce, achieving levels of productivity, quality, and sustainability that remain
-inspiring to this day. Eliot Coleman draws extensively on this tradition as historical
-inspiration for the modern winter harvest system. (see [[coleman-rye-straw-mat-cold-frame-insulation]]).
+year-round [[coleman-rye-straw-mat-cold-frame-insulation]]).
 
 ## Origins and Development
 
-The earliest developments in French [[coleman-protected-cultivation]] began in the royal potager
-(vegetable garden) at Versailles under Jean-Baptiste de La Quintinie in the 1670s and
-1680s. La Quintinie developed primitive predecessors of the cold frame and
-demonstrated that fresh vegetables could be produced out of season through careful
-management of shelter, heat, and planting schedules. These techniques were refined
-over the following century and a half by generations of Parisian gardeners. (see [[wide-spacing-dry-gardening-low-irrigation-solomon]]).
+The earliest developments in French [[wide-spacing-dry-gardening-low-irrigation-solomon]]).
 
 The system reached its peak between 1850 and 1900, when the maraichers developed a
 comprehensive approach combining hotbeds heated with decomposing horse manure, glass-
@@ -41,7 +33,7 @@ agriculture on a massive scale.
 The average Parisian market garden was between one and two acres in size. Despite
 this small footprint, productivity was extraordinary. Growers achieved at least four
 and usually up to eight harvests per year from the same piece of ground. The
-combination of [[coleman-succession-planting]], interplanting, [[cold-climate-gardening]] meant that
+combination of [[cold-climate-gardening]] meant that
 multiple crops occupied the same bed simultaneously. A single hotbed might be sown
 with broadcast radish and carrot seed, then interplanted with lettuces. The radishes
 harvested first, making room for carrots growing among the lettuces. When the lettuces

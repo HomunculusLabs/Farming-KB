@@ -35,9 +35,9 @@ Days 6-14:
 
 ### Alternative Capture Methods
 
-- [[hamilton-organic-fruit-growing]] method: add a few organic grapes or unwashed berries to the initial mix
+- Organic fruit method: add a few organic grapes or unwashed berries to the initial mix
 - Rye flour method: rye ferments faster due to higher enzyme and mineral content
-- Whole [[fukuoka-barley-winter-grain-method]]: whole wheat or whole rye has more wild organisms than white flour
+- Whole grain method: whole wheat or whole rye has more wild organisms than white flour
 
 ## Sourdough Maintenance
 
@@ -57,7 +57,7 @@ Days 6-14:
 - Bread flour (12-14% protein) gives best oven spring
 - Whole wheat adds flavor and microbial diversity
 - A mix of 50% bread flour / 50% whole wheat works well for most bakers
-- Avoid all-purpose flour for feedings (lower [[solomon-manure-quality-variable-nutrient-content-horse-steer-chicken]])
+- Avoid all-purpose flour for feedings (lower nutrient content)
 
 ## Basic Sourdough Bread Recipe
 
@@ -89,7 +89,7 @@ Using locally grown grains connects bread to terroir and supports regional grain
 - Red Fife: Canadian heritage wheat, nutty and complex flavor, moderate protein (12-13%)
 - Turkey Red: hard red winter wheat brought to Kansas in 1870s, excellent for bread
 - Sonora: soft white wheat, low protein (9-10%), best for tortillas and flatbreads
-- Emmer: [[quinoa-and-ancient-grain-cultivation]], 14-16% protein, nutty, requires adjustment to hydration
+- Emmer: ancient grain, 14-16% protein, nutty, requires adjustment to hydration
 - Einkorn: oldest cultivated wheat, lower gluten, requires gentle handling
 - Spelt: related to wheat but distinct species, nutty flavor, some gluten-sensitive people tolerate it
 
@@ -101,7 +101,7 @@ Using locally grown grains connects bread to terroir and supports regional grain
 ### Growing Grain on the Homestead
 - Wheat: 50-80 bushels/acre, plant fall (winter wheat) or spring
 - Rye: most cold-tolerant grain, excellent for marginal soils, 40-70 bushels/acre
-- Oats: good for [[coleman-cover-crop-rotation-and-soil-health]], 60-100 bushels/acre
+- Oats: good for crop rotation, 60-100 bushels/acre
 - Requires: small-scale thresher or hand methods (flail, winnowing)
 - Storage: whole grains store for years in cool, dry conditions
 
@@ -132,3 +132,11 @@ Using locally grown grains connects bread to terroir and supports regional grain
 - Proofing container with lid
 
 Wild yeast bread baking produces a high-value product for [[farmers-market-selling-guide]] and connects to broader [[food-fermentation-guide]] practices on the homestead.
+
+## See Also
+
+- [[duggar-wild-mushroom-markets-and-seasonal-harvesting]]
+- [[holmgren-wild-foods-and-marginal-systems]]
+- [[jadam-wild-grass-management]]
+- [[growing-gourmet-cloning-wild-vs-cultivated-mushrooms]]
+- [[jadam-wild-grass-liquid-fertilizer]]

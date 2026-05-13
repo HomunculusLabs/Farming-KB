@@ -17,9 +17,7 @@ sources: [/Users/t3rpz/wiki/raw/papers/magic-mushrooms-around-the-world-gartz.md
 - **Order:** Agaricales
 - **Family:** Bolbitiaceae (or Panaeolaceae)
 - **Genus:** Panaeolus (sometimes Panaeolina)
-- **Synonyms:** Panaeolus retirugis, [[guzman-panaeolina-foenisecii-psilocybin-controversy-conflicting-chemical-analyses]] (in part)
-
-The taxonomic boundaries between P. campanulatus and morphologically similar species such as [[copelandia-panaeolus-genera]] remain imperfectly defined. The debate over placing some species in a separate genus Panaeolina continues, with modern DNA sequencing beginning to clarify relationships but a fully resolved taxonomy not yet achieved.
+- **Synonyms:** Panaeolus retirugis, [[copelandia-panaeolus-genera]] remain imperfectly defined. The debate over placing some species in a separate genus Panaeolina continues, with modern DNA sequencing beginning to clarify relationships but a fully resolved taxonomy not yet achieved.
 
 The genus Panaeolus is defined by its distinctive mottled gills — a pattern resulting from asynchronous spore maturation that is one of the most reliable field identification characters for the genus.
 
@@ -68,7 +66,7 @@ The black spore print is a key identification feature distinguishing Panaeolus f
 
 ## Distribution and Habitat
 
-Panaeolus campanulatus is widely distributed across temperate and subtropical regions of Europe, [[psilocybin-north-america-pacific-northwest]], South America, Asia, and Africa. Its cosmopolitan distribution reflects the nature of coprophilous fungi, which spread rapidly through [[aquatic-fungi-spore-dispersal-ingold]] in animal dung.
+Panaeolus campanulatus is widely distributed across temperate and subtropical regions of Europe, [[aquatic-fungi-spore-dispersal-ingold]] in animal dung.
 
 The species is primarily coprophilous:
 

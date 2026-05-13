@@ -7,70 +7,15 @@ tags: [permaculture, climate, season-extension, earth-building]
 sources: [raw/papers/bill-mollison-permaculture-a-designers-manual.md]
 ---
 # Cold Climate Design Strategies
-**Source:** [[bill-mollison]], Permaculture: A Designers' Manual (1988)
-## Overview
-[[query-how-do-i-grow-figs-in-cold-climates]], the primary design challenges are heat retention, frost
+**Source:** [[query-how-do-i-grow-figs-in-cold-climates]], the primary design challenges are heat retention, frost
 protection, food storage through winter, and managing snow and ice.
 Primarily carnivorous diets have a valid place in special ecologies such as
 areas of cold, where gardening cannot be a sufficient food base. A
 preliminary design choice is to choose house sites for the maximisation of
-solar radiation in subtropical to [[greenhouse-cool-climates-mollison]].
-## Cool Climate House Design
-### Orientation and Shape
-- Houses should be no more than two rooms (10 m) deep on the north/south
-  axis
-- May be 1.5 times longer on the east/west axis so winter sun penetrates
-  windows to poleward room walls
-- Adjust sunward roof eave width and window sill height to admit winter
-  sun from early autumn to late spring
-- In very cold climates, attach a solarium or glasshouse for day use in
-  winter
-- Clerestory or attic windows to the sun side heat rear rooms or roof
-  space
-### Floor and Sub-Floor
-- Concrete slab, mud brick, or tiled floors in contact with ground absorb
-  heat into underfloor earth mass
-- Floor area and earth beneath are critical heat stores for winter,
-  radiating solar heat at night
-- Insulate entire earth mass below floor: dig 1 m deep foundation trench,
-  provide 5-15 cm insulation around whole periphery
-- Insulation adds 5-8% to house costs but pays for itself in 35 years in
-  energy savings
-### Walls and Insulation
-- Walls can be massive (stone or pise) or double-walled (reverse brick
-  veneer: bricks inside, timber outside)
-- Ceiling fitted with 5-15 cm insulation (fibre, wool, seagrass, sawdust,
-  feathers, or shredded paper)
-- Windows provided with oversized floor-to-ceiling curtains
-- Double-glazing in poleward walls above Latitude 40 degrees
-- In severe cold areas, sliding insulated shutters are appropriate
-### Cold Climate Specifics
-- Double entries essential in areas of cold winds and blizzards
-- In alpine and snowy areas, farm housing conjoined to barns, feed
-  storages, and fuel storage
-- [[mollison-designers-cold-caves-root-cellar-storage]] of house food essential
+solar radiation in subtropical to [[mollison-designers-cold-caves-root-cellar-storage]] of house food essential
 - Deep placement (1-1.5 m) of all water lines
 - Dense, sun-facing tiers of housing are the most economical systems for
-  [[mollison-designers-passive-solar-heating-building-design]] in cities or cold deserts
-## Snow and Ice Management
-### Snow Properties
-- Snow is a near "black body" radiator (0.962-0.986 emissivity)
-- Thin snow chills soil to 35 degrees C below air temperature
-- Snow deeper than 15 cm acts as an insulator, preventing deeper frost
-  penetration
-- Albedo ranges from 20% (muddy slush) to nearly 100% (fresh snow)
-- Snow reflection at low sun angles adds 60-70% heat to walls
-### Avalanche Risk
-- Avalanche risk on slopes greater than 6 degrees with more than 15 cm of
-  snow
-- Avalanche chutes marked by aspen growth
-- Avoid building in identified avalanche paths
-### Permafrost
-- Permafrost thaw creates mollisols 2-45 m deep
-- Loess soils (50-80% silica) used for underground housing in China
-## Cold Climate Gardens
-### The Winter Food Gap
-The middle of spring is the "hungry gap" when [[coleman-semi-hibernating-winter-crops-harvest-extension]] are finished and
+  [[coleman-semi-hibernating-winter-crops-harvest-extension]] are finished and
 new crops not yet yielding. The winter food gap is bridged by:
 - **Root crops:** potato, parsnip, carrot, oca, sunroot (Jerusalem
   artichoke), onions
@@ -79,10 +24,7 @@ new crops not yet yielding. The winter food gap is bridged by:
   shelters
 - **Preserved crops:** fermented (sauerkraut), sterilised, frozen storage
 ### Planting Periods
-- First months of spring: [[hamilton-salad-vegetables-organic]] and all summer crop
-- Last month of summer / first month of autumn: all over-winter crop and
-  root crops
-- Milder areas: [[coleman-mobile-greenhouse-green-manure-soil-building]] sown before winter (oats, tares, fava beans),
+- First months of spring: [[coleman-mobile-greenhouse-green-manure-soil-building]] sown before winter (oats, tares, fava beans),
   slashed or dug-in in spring
 ### Storage Methods
 - **Potatoes:** stored in straw or ash in dark boxes or humid cellars
@@ -90,3 +32,88 @@ new crops not yet yielding. The winter food gap is bridged by:
 - **Apples:** separately wrapped or spread on attic floors (never stored
 
 See also [[permaculture-designers-manual-highland-design]] for related information from the Permaculture Designer's Manual.
+
+## Overview
+
+Permaculture Designers Manual Cold Climate Design represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish permaculture designers manual cold climate design
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving permaculture extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Permaculture Designers Manual Cold Climate Design finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for permaculture designers manual cold climate design. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+permaculture designers manual cold climate design and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Permaculture Designers Manual Cold Climate Design has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of permaculture designers manual cold climate design into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[holzer-permaculture-landscape-design]]
+- [[permaculture-design-concepts-and-methods-overview]]
+- [[permaculture-design-methods-summary]]
+- [[permaculture-design-science-concepts-themes]]
+- [[permaculture-designers-manual-wildlife-corridors]]

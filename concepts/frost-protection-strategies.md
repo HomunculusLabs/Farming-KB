@@ -6,48 +6,9 @@ type: concept
 
 # Frost Protection Strategies
 
-Frost is one of the most significant limiting factors for agriculture and settlement in temperate and cold climates. Understanding the mechanisms that cause frost and the design strategies that mitigate it is essential for productive [[permaculture]] systems in vulnerable areas.
+Frost is one of the most significant limiting factors for agriculture and settlement in temperate and cold climates. Understanding the mechanisms that cause frost and the design strategies that mitigate it is essential for productive [[succession-planting]]** approach:
 
-## Mechanisms of Frost Formation
-
-Frost is caused by rapid radiative cooling of the earth's surface on clear, still nights. When the sky is cloudless and wind is minimal, the ground loses heat rapidly through long-wave radiation to the cold night sky. The rate of heat loss is directly proportional to the area of night sky visible to the object losing heat — a phenomenon that has profound implications for site design.
-
-Consider a mouse in a cardboard tube buried in the ground: it loses very little heat because the tube restricts its exposure to the sky. The same mouse sitting on top of a mound on flat, open ground is exposed to the entire hemisphere of sky and loses a great deal of heat. This principle scales directly to plants, buildings, and entire landscapes.
-
-## Clearing Design for Frost Reduction
-
-The geometry of clearings in forests or other vegetation has a dramatic effect on frost formation. Two key principles govern effective frost-reducing clearings:
-
-### 1. Steep-Sided Clearings
-
-A clearing with steep vertical edges restricts radiation loss to a small area of sky. Additionally, the vertical edges themselves provide radiant heat (stored during the day and re-radiated at night) and obscure the horizon, further reducing nighttime heat loss. The combination of edge radiation and reduced sky exposure creates a significantly warmer microclimate than an open area.
-
-### 2. Small Clearings
-
-Large clearings create and contain more frost. The optimal proportion is to make the clearing approximately **one-half as wide as it is high** (i.e., the width should be about half the height of the surrounding vegetation). In forest environments, frost-reducing clearings should not exceed 30 meters across.
-
-### Tree Cover as Frost Protection
-
-Building up a complete crown cover is the most effective long-term strategy for frost prevention on a site. This is best accomplished in stages through a **[[succession-planting]]** approach:
-
-1. **Initial planting:** Plant the entire area with frost-tolerant pioneer species, such as silver wattle (*[[acacia-dealbata]]*), which can withstand early exposure while providing initial protection.
-2. **Intermediate planting:** Introduce semi-hardy fruit trees within the shelter of the pioneer species.
-3. **Progressive removal:** As the frost-sensitive protected trees gain height, progressively cut back the pioneer species.
-4. **Full canopy establishment:** The final frost-sensitive trees form the canopy, with the complete system now self-protecting.
-
-This process must be supported by adequate water supply to the selected trees, as soil moisture also helps ameliorate frost effects on high-risk nights.
-
-## Forest Edge Effects on Microclimate
-
-Tree crowns create their own water distribution patterns on the ground beneath them, which interacts with frost dynamics:
-
-### Crown Drip
-
-Rain captured by tree canopies is concentrated and directed to the ground as **crown drip**. For some tree species with down-sweeping limbs and leaves, this effect can direct more than 100% of incident rainfall to a concentrated "gutter" zone on the ground. The areas receiving this concentrated moisture are significantly more resistant to frost, as water has a high specific heat and buffers temperature extremes.
-
-### Rain Shadows
-
-At the rain-shadow edges of forests (the side away from prevailing rain-bearing winds), dry areas develop. This dry-[[edge-effect]] is compounded because the "wet" edges are typically on the polar side of sites (most rain comes from the polar side), while the dry edges face the sun. This creates distinct microhabitats within relatively small areas.
+1. **Initial planting:** Plant the entire area with frost-tolerant pioneer species, such as silver wattle (*[[edge-effect]] is compounded because the "wet" edges are typically on the polar side of sites (most rain comes from the polar side), while the dry edges face the sun. This creates distinct microhabitats within relatively small areas.
 
 ### Sunny Edge Advantage
 
@@ -100,7 +61,7 @@ Reflective insulation loses effectiveness when it becomes dusty, dirty, or is pr
 
 ### Thermosiphon Systems for Heat Transfer
 
-Automatic heat transfer using thermosiphon effects is achieved by:
+Automatic heat transfer using [[thermosiphon]] effects is achieved by:
 
 1. Placing heat sources (solar collectors, fires) below storage and use points
 2. Inducing cross-ventilation through solar chimneys that draw in cool air

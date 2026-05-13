@@ -108,13 +108,8 @@ The species has potential for reforestation and watershed protection programs in
 
 ## See Also
 
-- [[styrax-obassia]]
 - [[styrax-tonkinensis]]
-- [[liquidambar-styraciflua]]
 - [[boswellia-serrata]]
-- [[cinnamomum-verum]]
 - [[syzygium-aromaticum]]
-- [[daphne-mezereum]]
 - [[edgeworthia-chrysantha]]
-- [[laurus-nobilis]]
 - [[myristica-fragrans]]

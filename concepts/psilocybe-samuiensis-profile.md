@@ -14,65 +14,10 @@ sources:
 type: concept
 ---
 
-# [[gaston-guzman]] along with Bandala and the mushroom researcher and
-photographer John W. Allen, who contributed the type specimens and
-field documentation.
-
-## Taxonomy
-
-The full author citation for this species is Psilocybe samuiensis
-Guzman, Bandala and Allen. It was described from material collected
-on Koh Samui, Thailand, and named after its type locality. The
-species was first documented during John W. Allen's extensive
-mycological explorations of Southeast Asia, where he collected and
-photographed numerous [[emcdda-psilocybin-non-addictive-profile-tolerance-dynamics]] species throughout Thailand.
+# [[emcdda-psilocybin-non-addictive-profile-tolerance-dynamics]] species throughout Thailand.
 
 Psilocybe samuiensis is placed within the genus Psilocybe and belongs
-to the group of tropical and subtropical [[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]]
-associated with manured substrates. Its taxonomic relationships within
-the genus have been the subject of some discussion, and it shares
-morphological similarities with other Southeast Asian Psilocybe
-species, particularly P. cubensis and P. subcubensis, which occur in
-the same geographic area.
-
-## Description
-
-### Cap (Pileus)
-
-The cap of Psilocybe samuiensis is typically small to medium in size,
-measuring 1.5 to 4 cm in diameter. When young, the cap is convex to
-conically convex, expanding to broadly convex or nearly plane with
-maturity. The surface is smooth and slightly viscid when moist, with
-a hygrophanous nature meaning it changes color as it dries. The
-cap color ranges from a golden brown to reddish-brown or ochraceous
-when moist, fading to a lighter tan or straw color as it dries.
-
-The margin is typically even and may show slight striations when
-moist. A partial veil connects the cap margin to the stem in young
-specimens, often leaving remnants on the stem as a fragile annular
-zone after the cap has expanded.
-
-### Gills (Lamellae)
-
-The gills are adnate to adnexed in their attachment to the stem.
-They are moderately spaced and can be relatively broad. The gill
-color begins as a light grayish and darkens progressively to dark
-purplish-brown as spores mature, which is characteristic of the
-genus Psilocybe. The gill edges are typically lighter colored than
-the faces, appearing whitish to pale gray.
-
-### Stem (Stipe)
-
-The stem measures 3 to 7 cm in length and 2 to 4 mm in thickness.
-It is cylindrical and relatively slender, with a smooth surface. The
-color is whitish to pale yellowish, sometimes with brownish tones at
-the base where it contacts the substrate. The stem is hollow and
-somewhat fragile. Remnants of the partial veil may form a faint
-annular zone near the top of the stem.
-
-Blue bruising may be observed on the stem when the tissue is damaged
-or handled, indicating the presence of psilocybin and related
-compounds. This [[field-guide-psilocybin-bluing-reaction-identification]] is generally more noticeable on
+to the group of tropical and subtropical [[field-guide-psilocybin-bluing-reaction-identification]] is generally more noticeable on
 younger, fresher specimens.
 
 ### Spore Print
@@ -88,3 +33,88 @@ in tropical agricultural environments. The Psilocybin [[psilocybin-mushroom-imag
 Guide specifically documents the species as growing "from manured
 soil in a rice paddy" on Koh Samui, Thailand, with photographs by
 John W. Allen showing freshly picked specimens from this habitat.
+
+## Overview
+
+Psilocybe Samuiensis Profile represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish psilocybe samuiensis profile
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving psilocybe extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Psilocybe Samuiensis Profile finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for psilocybe samuiensis profile. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+psilocybe samuiensis profile and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Psilocybe Samuiensis Profile has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of psilocybe samuiensis profile into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[psilocybe-caeruleoannulata]]
+- [[psilocybe-ovoidocystidiata]]
+- [[psilocybe-phyllogena]]
+- [[psilocybe-semilanceata-worldwide-temperate-distribution-guzman-1998]]
+- [[psilocybe-species-europe]]

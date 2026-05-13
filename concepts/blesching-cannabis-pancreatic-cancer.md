@@ -29,13 +29,7 @@ five-year survival rate of less than 5% in most reports."
 The pancreas is both an endocrine and exocrine gland located behind the
 stomach. As an endocrine gland, it produces insulin and glucagon for blood
 sugar regulation. As an exocrine gland, it produces digestive enzymes that
-help [[query-can-fungi-break-down-plastic-pollution]] proteins, fats, and carbohydrates in the small intestine.
-Given its deep location in the abdomen, pancreatic cancer often goes
-undetected until it has reached advanced stages, contributing to its poor
-prognosis.
-
-Risk factors for pancreatic cancer include chronic pancreatitis (see
-[[blesching-cannabis-cannabinoid-terpene-entourage-effect]]) may be
+help [[blesching-cannabis-cannabinoid-terpene-entourage-effect]]) may be
   most effective
 - **Concentrated extracts:** Rick Simpson Oil (RSO) and other full-spectrum
   cannabis extracts have been anecdotally reported as beneficial by patients
@@ -45,9 +39,7 @@ Risk factors for pancreatic cancer include chronic pancreatitis (see
 The discovery of cannabinoid receptors on pancreatic cancer cells aligns
 with broader findings that the endocannabinoid system plays a role in
 regulating cell growth and death across multiple cancer types. Research on
-[[blesching-cannabis-melanoma]],
-and [[blesching-cannabis-pancreatitis]]
-- [[blesching-cannabis-leukemia-lymphoma]]
+[[blesching-cannabis-pancreatitis]]
 - [[blesching-cannabis-immune-system-modulation]]
 
 ### Key Takeaways
@@ -113,8 +105,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[doc]]
 - [[dom]]
-- [[det]]
 - [[endocannabinoid-system]]
 - [[blesching-cannabis-prostate-cancer-cb1-cb2-receptor-targeting-research]]

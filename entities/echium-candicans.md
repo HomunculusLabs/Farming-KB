@@ -13,23 +13,7 @@ sources:
   - Bramwell, D. (1972). "A Revision of the Genus Echium in Macaronesia." Lagascalia 2: 37–115.
   - Royal Horticultural Society (2023). "Echium candicans — RHS Plant Finder." rhs.org.uk.
   - Gibbs, P.E. (1971). "Studies on the Genus Echium (Boraginaceae)." Boletim do Museu Municipal do Funchal 25: 67–81.
-  - PlantZAfrica (2024). "Echium candicans." [[kanna-sceletium-south-african-narcotic]] National Biodiversity Institute.
-  - WCSP (2024). "World Checklist: Echium candicans." Kew Royal Botanic Gardens.
----
-
-## Overview
-
-*Echium candicans*, commonly known as pride of Madeira, is an evergreen subshrub endemic to the island of Madeira in the North Atlantic. It produces dramatic tall spikes of blue-violet flowers that attract pollinators in vast numbers.
-
-The plant forms a mound of silvery-gray foliage topped by flower spikes reaching 1.5–2.5 meters in height. The densely packed flower spikes create a spectacular architectural statement in Mediterranean-climate gardens worldwide.
-
-Individual flowers are small but numerous, with hundreds per inflorescence creating a striking blue haze from a distance. The species name *candicans* refers to the white, felted indumentum covering the leaves and stems.
-
-*Echium candicans* is one of approximately 60 species in the genus, many of which are endemic to Macaronesian islands. It has become naturalized in coastal California, parts of Australia, and southern Europe.
-
-The species is short-lived, typically persisting 5–7 years in cultivation. It is monocarpic or near-monocarpic, often dying after producing a massive terminal flower display.
-
-Garden-grown plants may survive longer if flower spikes are removed before seed set. This redirects energy from reproduction into [[cannabis-vegetative-growth-stage]] and extends the plant's lifespan by 2–3 years.
+  - PlantZAfrica (2024). "Echium candicans." [[cannabis-vegetative-growth-stage]] and extends the plant's lifespan by 2–3 years.
 
 ## Taxonomy and Morphology
 
@@ -67,24 +51,91 @@ Naturalized populations occur in coastal California from the San Francisco Bay A
 
 In its native Madeira, the species is protected and not considered threatened. Tourism development and road construction have impacted some cliff-face populations, but the overall range remains stable.
 
-The species is a popular subject for botanical illustration due to its dramatic form and vivid blue flowers. Several historic [[herbarium-specimens-fungal-collections]] from 18th-century Madeiran expeditions survive in European collections.
+The species is a popular subject for botanical illustration due to its dramatic form and vivid blue flowers. Several historic [[cannabis-photoperiod-flowering-cycle]].
 
-## Cultivation
+The species is intolerant of frost below −5°C. In [[jadam-pesticide-for-slugs-and-snails]] on young growth. Deer and rabbits typically avoid the hairy foliage.
 
-*Echium candicans* thrives in USDA zones 9–11 and requires full sun and excellent drainage. It is highly drought-tolerant once established, making it ideal for water-wise gardens.
+## Overview
 
-Plant in well-drained soil, preferably sandy or gravelly loam. Heavy clay soils cause fatal root rot during wet winter periods.
+Echium Candicans represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
 
-Young plants grow rapidly, reaching flowering size in 18–24 months from seed. Pinch young plants to encourage branching and a fuller habit before the first [[cannabis-photoperiod-flowering-cycle]].
+## Key Characteristics
 
-The species is intolerant of frost below −5°C. In [[holzer-fruit-growing-marginal-climates]], grow against a south-facing wall for radiated heat and cold protection.
+Several defining characteristics distinguish echium candicans
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
 
-Propagation is primarily by seed, sown in spring at 15–20°C. Germination occurs in 7–21 days with no special pretreatment required.
+## Ecological Context
 
-Cuttings from semi-ripe stems root reliably in midsummer under mist. Selected cultivars and color forms are propagated vegetatively to maintain consistency.
+The ecological relationships involving echium extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
 
-Pruning after flowering maintains shape and prevents the plant from becoming top-heavy. Remove spent flower spikes promptly to encourage secondary blooming in favorable conditions.
+## Practical Applications
 
-Mulching with gravel rather than organic matter helps maintain the dry root conditions the species prefers. Avoid bark mulch, which retains too much moisture at the crown.
+Echium Candicans finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
 
-The species is susceptible to [[jadam-pesticide-for-slugs-and-snails]] on young growth. Deer and rabbits typically avoid the hairy foliage.
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for echium candicans. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+echium candicans and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Echium Candicans has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of echium candicans into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[echium-fastuosum]]
+- [[echium-pininana]]
+- [[echium-plantagineum]]
+- [[echium-vulgare]]
+- [[echium-wildpretii]]

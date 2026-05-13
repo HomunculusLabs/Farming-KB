@@ -12,11 +12,8 @@ sources:
 
 ## Overview
 
-The foam gun pesticide method is a JADAM innovation that dramatically enhances the effectiveness of [[jadam-wetting-agent-jwa]] 5 L (1.3 gal)
-- [[comparison-jerusalem-artichoke-vs-potato]] [[jadam-herb-solution-jhs]] - Making Jerusalem artichoke and other JHS
-- [[jadam-stinkbug-mealybug-pesticide]] - Standard recipe #9 for tough pests
-- [[jadam-fly-control-livestock]] - [[jadam-fly-control-livestock]] applications
-- [[jadam-natural-pest-control-methods]]
+The foam gun pesticide method is a JADAM innovation that dramatically enhances the effectiveness of [[comparison-jerusalem-artichoke-vs-potato]] [[jadam-stinkbug-mealybug-pesticide]] - Standard recipe #9 for tough pests
+- [[jadam-fly-control-livestock]] applications
 - [[knf-pest-control-and-soap-water]]
 ## Practical Applications
 
@@ -97,8 +94,6 @@ through generations to modern scientific approaches, the evolution continues
 to inform current best practices and research directions.
 
 ## See Also
-- [[doc]]
 - [[jerusalem-artichoke]]
-- [[det]]
 - [[jadam-pesticide-research-cup-method]]
 - [[jadam-pesticide-for-powdery-mildew]]

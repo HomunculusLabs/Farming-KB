@@ -20,14 +20,8 @@ structural materials.
 |---|---|---|
 | Acacia | Acacia spp. | Mulch, shade, fodder, timber |
 | Albizia | Albizia spp. | Shade, green manure, timber |
-| Leucaena | [[leucaena-leucocephala]] | High-protein forage, mulch, poles |
-| Casuarina | Casuarina spp. | Windbreak, fuelwood, mulch |
-| Caragana | [[caragana-arborescens]] | Cold-climate windbreak, edible seed |
-| Honey locust | [[gleditsia-triacanthos]] | Stock forage (pods), shade |
-| Mesquite | Prosopis spp. | Arid-zone forage, fuel, pods |
-| Gliricidia | Gliricidia sepium | Living fence, green manure, forage |
-| Sesbania | Sesbania spp. | Green manure, temporary shade |
-| Pongamia | [[pongamia-pinnata]] | Oil seed, shade, living fence |
+| Leucaena | [[caragana-arborescens]] | Cold-climate windbreak, edible seed |
+| Honey locust | [[pongamia-pinnata]] | Oil seed, shade, living fence |
 | Erythrina | Erythrina spp. | Living fence, shade, green manure |
 | Inga | Inga spp. | Shade for coffee/cacao, mulch |
 | Desmodium | Desmodium spp. | Ground cover, green manure |
@@ -37,54 +31,94 @@ structural materials.
 ## Food Trees
 ### Nuts
 Almond, Walnut (Juglans spp.), Chestnut (Castanea spp.), Hazelnut
-([[corylus-avellana]]), Macadamia, Pistachio, Pecan, Oak (acorns)
-### Fruits (Temperate)
-Apple, Pear (Pyrus communis), Plum (Prunus domestica), Cherry
-(Prunus avium), Peach, Apricot, Fig (Ficus carica), Persimmon
-(Diospyros kaki), Grape (Vitis vinifera), Kiwi (Actinidia chinensis)
-### Fruits (Tropical/Subtropical)
-Avocado, Banana, Citrus, Mango, Lychee, Papaya, Guava, Coconut,
-Breadfruit, Sapote, Durian, Jackfruit, Passionfruit, Choko, Pineapple
-### Multipurpose Trees
-- Moringa — leaves for food, pods for water purification
-- Neem — insecticide, medicinal, shade
-- Bamboo — construction, food, erosion control
-- Coconut — food, oil, building, thatch
-- Willow — basketry, erosion control, fodder, bee forage
-- Poplar — timber, windbreak, fodder
-## Forage and Pasture Plants
-### Grasses
-Kikuyu, Bermuda grass, Rhodes grass, Guinea grass, Para grass, Vetiver,
-Elephant grass, Rye grass, Cocksfoot, Phalaris, Sudan grass, Tall
-wheatgrass, Barley grass
-### Legumes
-Lucerne/Alfalfa, Clover (white, red, subterranean, strawberry, crimson),
-Vetch, Cowpea, Siratro, Glycine, Lotononis, Phasey bean
-## Aquatic Plants
-Duckweed, Azolla, Water hyacinth, Water lettuce, Typha, Reed, Lotus,
-Water chestnut, Kang kong, Sagittaria, Pontederia
-## Ground Covers and Soil Builders
-Comfrey, Sweet potato, Pumpkin/squash, Arrowroot, Cassava, Taro, Yams,
-Nasturtium, Buckwheat, Lupin, Broad bean, Pigeon pea
-## Insectary and Bee Plants
-Buddleia, Fennel, Coriander, Dill, Parsley, Borage, Phacelia, Thyme,
-Rosemary, Lavender, Clover, Eucalyptus, Citrus, Mustard
-## Medicinal Plants
-Aloe, Neem, Moringa, Witch hazel, Echinacea, Pyrethrum daisy, Calendula,
-Chamomile, Peppermint, Sage, Rue, Ginseng
-## Species Selection Principles
-1. **Local adaptation:** Choose species suited to climate, soil, and site
-2. **Multiple functions:** Every plant should serve 3+ functions
-3. **Native and exotic:** Use both; evaluate on merit, not origin
-4. **Design by analogy:** If a species works in one biome, try related
-   species in similar conditions
-5. **Pioneer to climax:** Plan succession from fast pioneers to climax
-6. **4,000-8,000 plants per hectare:** Species-rich systems need nursery
-   support
-## Using This Reference in Design
-When [[query-how-do-i-start-designing-a-permaculture-property-from-scratch]] system, cross-reference species from
+([[query-how-do-i-start-designing-a-permaculture-property-from-scratch]] system, cross-reference species from
 multiple functional categories. A single tree might serve as windbreak,
 forage, nitrogen fixer, and timber. For example, tagasaste
 (Chamaecytisus proliferus) provides all four functions and is
 drought-tolerant. The manual encourages designers to think in terms of
 guilds — groups of species that support each other through nutrient
+
+## Overview
+
+Permaculture Designers Manual Reference Trees represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish permaculture designers manual reference trees
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving permaculture extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Permaculture Designers Manual Reference Trees finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for permaculture designers manual reference trees. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+permaculture designers manual reference trees and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Permaculture Designers Manual Reference Trees has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of permaculture designers manual reference trees into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[holzer-permaculture-landscape-design]]
+- [[permaculture-design-concepts-and-methods-overview]]
+- [[permaculture-design-methods-summary]]
+- [[permaculture-design-science-concepts-themes]]
+- [[permaculture-designers-manual-wildlife-corridors]]

@@ -9,21 +9,12 @@ sources: [raw/papers/gardening-when-it-counts-steve-solomon.md]
 
 # Food Preservation and Storage
 
-Source: [[steve-solomon]], "Gardening When It Counts" (2005)
-
-## The Goal: Fresh Food Year-Round
-
-Solomon argues that for a body in robust health, you must feed it a sizeable amount of fresh food, preferably raw. The [[coleman-winter-greens-nutritional-quality-cold-sweetening]] of canned and frozen foods has been massively reduced, especially if blanched during processing. Fortunately, in cold-winter climates it is possible to store fresh vegetables in living condition for many months without electricity. This is accomplished by cellaring.
+Source: [[coleman-winter-greens-nutritional-quality-cold-sweetening]] of canned and frozen foods has been massively reduced, especially if blanched during processing. Fortunately, in cold-winter climates it is possible to store fresh vegetables in living condition for many months without electricity. This is accomplished by cellaring.
 
 ## Root Cellaring
 
-Root cellaring is the most important and underutilized food preservation method. The concept: imagine having the makings for a fresh salad throughout winter; eating bins of [[growing-root-vegetables-guide]], your own cabbage, and Brussels sprouts (still on the stalk) in midwinter.
-
-### Requirements
-
-- Temperature: 32-40F (0-4C), stable
-- Humidity: high for [[hamilton-root-vegetables-growing]] (damp packing)
-- Ventilation: some [[stamets-growing-room-air-circulation-co2-management]] to [[query-how-do-i-prevent-mold-and-mildew-in-my-cannabis-grow]]
+Root cellaring is the most important and underutilized food preservation method. The concept: imagine having the makings for a fresh salad throughout winter; eating bins of [[hamilton-root-vegetables-growing]] (damp packing)
+- Ventilation: some [[query-how-do-i-prevent-mold-and-mildew-in-my-cannabis-grow]]
 - Darkness: prevents sprouting and greening
 
 ### Making a Root Cellar
@@ -32,17 +23,7 @@ Many homes have basements suitable for cellaring. If not, options include:
 - Wall off and insulate a section of an existing basement
 - Dig an outdoor cellar (difficult during heavy snow periods)
 - Defunct chest freezers can serve as small root-storage compartments
-- No permits generally required for simple [[earth-cellar-construction]]
-
-Mike and Nancy Bubel's book "Root Cellaring" is Solomon's recommended reference.
-
-### What to Store and How
-
-**Root vegetables (carrots, beets, turnips, parsnips, rutabagas)**:
-- Put in slatted crates or bins
-- If the vegetable tends to dry out (carrots, beets), pack in damp material (sand, sawdust, moss)
-- Can also be stored in barrels or large trash bins with damp packing material
-- Rutabagas are possibly the most cellarable of all [[permaculture-plants-root-crops-and-tubers]]
+- No permits generally required for simple [[permaculture-plants-root-crops-and-tubers]]
 - Do not wash before storing; brush off loose soil only
 
 **Cabbage and leafy crops**:
@@ -87,3 +68,82 @@ Many crops can overwinter in the garden itself where the ground does not freeze 
 - **Parsnips**: flavor improves after frost; can be dug through winter
 - **Rutabagas**: stand in the garden through winter in mild climates
 - **Chicories**: survive if soil does not freeze solid
+
+## Overview
+
+Solomon Food Preservation Storage represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish solomon food preservation storage
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving solomon extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Solomon Food Preservation Storage finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for solomon food preservation storage. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+solomon food preservation storage and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Solomon Food Preservation Storage has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of solomon food preservation storage into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also

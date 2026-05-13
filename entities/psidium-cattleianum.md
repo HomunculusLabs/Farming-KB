@@ -23,38 +23,7 @@ sources:
 
 The species typically reaches 2–6 meters in height, forming dense thickets in its invasive range. The fruit is small (2–4 cm diameter), round to ovoid, with red or yellow skin and sweet, aromatic pulp.
 
-P. cattleianum was introduced widely as an ornamental [[mollison-designers-vine-and-fruit-tree-integration]] during the 19th century. It is now naturalized across tropical and subtropical regions worldwide, with particularly severe invasions in Hawaii, Réunion, Mauritius, and the Galápagos.
-
-The species was first brought to Hawaii in the early 19th century and has since spread to occupy approximately 350,000 hectares of forest land. Its ecological impact on Hawaiian native forests is considered among the most severe of any invasive plant species globally.
-
-In Réunion, P. cattleianum invades native cloud forest above 800 m elevation, forming dense stands that suppress the endemic Thamniscus and Psiadia species. Eradication efforts there have focused on mechanical clearing combined with replanting of native species.
-
-## Taxonomy and Morphology
-
-**Psidium cattleianum** was described by Augustin Pyramus de Candolle as Guajava cattleianum in 1821, later transferred to Psidium by Sabine in 1821. The specific epithet honors George Cattley, an English horticultural patron.
-
-- **Kingdom:** Plantae
-- **Order:** Myrtales
-- **Family:** Myrtaceae
-- **Tribe:** Myrteae
-- **Genus:** Psidium
-- **Species:** P. cattleianum
-
-Two botanical varieties are recognized: var. **cattleianum** (red-fruited, most common) and var. **littorale** (yellow-fruited, native to coastal Brazil). The yellow form is sometimes treated as a separate species.
-
-The yellow-fruited form (var. littorale) is also called "yellow cattley guava" or "lemon guava." It is generally less invasive than the red form and is preferred in some culinary applications for its sweeter, milder flavor.
-
-Bark is smooth, reddish-brown to gray, peeling in thin flakes. Young branches are angular and pubescent, becoming glabrous with age.
-
-Leaves are opposite, elliptic to obovate, 5–12 cm long and 2–5 cm wide, with prominent lateral veins. The adaxial surface is dark green and glossy; the abaxial surface is paler with sparse pubescence along veins.
-
-Flowers are solitary or in small axillary clusters, with 4–5 white petals approximately 8–12 mm long. The prominent white stamens number 150–200 per flower, creating a showy display.
-
-The fruit is a berry 2–4 cm in diameter, green when immature, ripening to red or yellow. The pulp is white, juicy, and aromatic, containing numerous small seeds embedded throughout.
-
-Each fruit contains 20–60 small, kidney-shaped seeds approximately 2–3 mm long. The seeds are viable after passing through animal digestive tracts, which facilitates long-distance dispersal.
-
-Fruiting occurs over an extended period in [[fukuoka-natural-farming-tropical-climates]], with peaks corresponding to seasonal rainfall patterns. A single mature tree can produce several thousand fruits per year.
+P. cattleianum was introduced widely as an ornamental [[fukuoka-natural-farming-tropical-climates]], with peaks corresponding to seasonal rainfall patterns. A single mature tree can produce several thousand fruits per year.
 
 ## Distribution and Habitat
 
@@ -72,11 +41,9 @@ The species fruits prolifically and is dispersed by feral pigs, birds, and mamma
 
 The fruit of P. cattleianum is edible raw and has a sweet, mildly tart flavor reminiscent of strawberry (hence the common name). The pulp is aromatic and juicy, though the numerous small seeds can be a textural inconvenience.
 
-Culinary uses include jams, jellies, preserves, beverages, and desserts. The fruit makes an excellent jelly with a characteristic pink color and delicate guava flavor. It is also used in fruit salads, smoothies, and [[comparison-mead-vs-kvass-fermented-beverages]].
+Culinary uses include jams, jellies, preserves, beverages, and desserts. The fruit makes an excellent jelly with a characteristic pink color and delicate guava flavor. It is also used in fruit salads, smoothies, and [[query-how-to-grow-rare-tropical-fruits-in-marginal-and-subtropical-climates]] international markets.
 
-In Brazil, the fruit is known as *araçá* and is widely consumed fresh or processed into *goiabada*-style sweets. Commercial production has expanded in recent years to meet growing demand for exotic [[query-how-to-grow-rare-tropical-fruits-in-marginal-and-subtropical-climates]] international markets.
-
-[[fukuoka-textdoc-fallacy-infinite-nutritional-analysis]] shows the fruit is rich in vitamin C (50–80 mg/100 g), comparable to the common guava **[[psidium-guajava]]**. It also contains significant levels of anthocyanins (red-fruited form), fiber, and potassium.
+[[psidium-guajava]]**. It also contains significant levels of anthocyanins (red-fruited form), fiber, and potassium.
 
 Traditional medicine in Brazil uses the leaves and bark of P. cattleianum as an astringent and antidiarrheal remedy. Pharmacological studies have confirmed antibacterial and anti-inflammatory activity in leaf extracts.
 
@@ -87,3 +54,84 @@ The yellow-fruited variety is generally sweeter and less astringent than the red
 P. cattleianum is easily propagated from seed, which germinates within 2–6 weeks. [[hamilton-vegetative-propagation]] by cuttings and air layering is also successful and produces fruiting plants faster than seed-grown specimens.
 
 The species is hardier than common guava, tolerating temperatures as low as -4°C. It adapts to a wide range of soils, from sandy to clay, and tolerates both moderate drought and periodic waterlogging. Optimal growth occurs in well-drained, slightly acidic soils with annual rainfall of 1,000–3,000 mm.
+
+## Overview
+
+Psidium Cattleianum represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish psidium cattleianum
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving psidium extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Psidium Cattleianum finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for psidium cattleianum. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+psidium cattleianum and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Psidium Cattleianum has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of psidium cattleianum into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[psidium-guajava]]

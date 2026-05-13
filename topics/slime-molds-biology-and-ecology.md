@@ -24,29 +24,9 @@ sources:
 
 # Slime Molds — Biology, Ecology, and Significance
 
-Slime molds are a diverse group of protists that occupy a fascinating niche at the intersection of the animal, fungal, and plant kingdoms. Once classified as fungi due to their spore-producing fruiting bodies, modern molecular systematics has firmly placed them within the supergroup **Amoebozoa**. They are among the most ecologically important yet underappreciated organisms in terrestrial ecosystems, playing critical roles in decomposition, [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]], and bacterial population control in soils and leaf litter worldwide.
+Slime molds are a diverse group of protists that occupy a fascinating niche at the intersection of the animal, fungal, and plant kingdoms. Once classified as fungi due to their spore-producing fruiting bodies, modern molecular systematics has firmly placed them within the supergroup **Amoebozoa**. They are among the most ecologically important yet underappreciated organisms in terrestrial ecosystems, playing critical roles in decomposition, [[hamilton-composting-and-organic-matter-management]] became available.
 
-## Classification and Taxonomy
-
-Slime molds are not a single taxonomic group but rather an ecological and morphological assemblage of several lineages within the protists. The three major groups are:
-
-### Plasmodial Slime Molds (Myxogastria / Myxomycetes)
-
-The largest and most familiar group, with approximately 1,000 described species. Myxomycetes are characterized by a multinucleate **plasmodium** — a single giant cell that can span several centimeters to over a meter in diameter, containing thousands to millions of nuclei that divide synchronously without cell division (coenocytic organization). The plasmodium is the vegetative, feeding stage and is often brightly colored (yellow, orange, white, or red). When conditions become unfavorable, the plasmodium transforms into one or more fruiting bodies that release spores.
-
-### Cellular Slime Molds (Dictyostelia)
-
-Comprising approximately 150 species, cellular slime molds exist primarily as solitary amoebae that feed on bacteria. When food becomes scarce, tens of thousands of amoebae aggregate into a multicellular **pseudoplasmodium** or "slug" that migrates as a coordinated unit toward light and heat before forming a fruiting stalk with a spore capsule. *Dictyostelium discoideum* is the most studied species in this group and serves as a model organism for understanding multicellularity, cell differentiation, and chemotaxis.
-
-### Protosteloid Slime Molds (Protostelia)
-
-A smaller, less well-known group of approximately 50 species that produce simple fruiting bodies consisting of a single stalk bearing one or a few spores. These are microscopic and often overlooked in ecological surveys, but they are widespread in soil, leaf litter, and dead wood habitats. Recent molecular work suggests protosteloids are polyphyletic rather than a single clade.
-
-### Evolutionary History
-
-The evolutionary origins of slime molds extend back over a billion years. Molecular clock analyses place the divergence of Amoebozoa from other eukaryotic supergroups in the **Proterozoic Eon**, long before the colonization of land by plants and fungi. The Myxogastria and Dictyostelia are thought to have diverged from each other approximately 600–700 million years ago, with both groups adapting to terrestrial environments as soil and [[hamilton-composting-and-organic-matter-management]] became available.
-
-The convergence of slime mold [[mushroom-fruiting-body-morphology]] with that of true fungi (sporangia, stalks, [[aquatic-fungi-spore-dispersal-ingold]]) is a classic example of **evolutionary convergence** driven by similar dispersal challenges. Both groups independently evolved aerial spore release as a strategy for colonizing new substrates. The striking beauty of slime mold fruiting bodies — from the coral-like branches of *Ceratiomyxa* to the elegant lattices of *Lycogala* — rivals that of any macrofungus, yet these structures are produced by an entirely different lineage of life.
+The convergence of slime mold [[aquatic-fungi-spore-dispersal-ingold]]) is a classic example of **evolutionary convergence** driven by similar dispersal challenges. Both groups independently evolved aerial spore release as a strategy for colonizing new substrates. The striking beauty of slime mold fruiting bodies — from the coral-like branches of *Ceratiomyxa* to the elegant lattices of *Lycogala* — rivals that of any macrofungus, yet these structures are produced by an entirely different lineage of life.
 
 ## Life Cycle
 
@@ -74,36 +54,7 @@ Under adverse conditions, many myxomycetes can form **sclerotia** — hardened, 
 
 ### Sexual Reproduction and Genetic Diversity
 
-Myxomycetes exhibit both sexual and asexual reproductive strategies. Sexual reproduction occurs through the fusion of compatible amoebae or swarm cells, which may be governed by mating-type loci similar to those in fungi. This genetic mixing contributes to the remarkable diversity observed in natural populations. Many species also reproduce asexually via **apogamy**, where the diploid plasmodium forms directly from haploid amoebae without fusion, maintaining clonal lineages. The balance between sexual and asexual reproduction varies by species and environmental conditions, with sexual reproduction favored in [[fungal-mycelial-foraging-heterogeneous-environments]] where genetic diversity provides adaptive advantage.
-
-## Cellular Slime Mold Social Biology
-
-The cellular slime molds (Dictyostelia) deserve special attention for their remarkable social behavior, which has made them model systems for studying the evolution of multicellularity and cooperation.
-
-### Aggregation and Chemotaxis
-
-When *Dictyostelium discoideum* amoebae deplete their bacterial food supply, a subset of cells begins secreting pulses of **cyclic AMP (cAMP)**, a signaling molecule that acts as a chemoattractant. neighboring amoebae detect these cAMP gradients and migrate toward the signaling center, amplifying the signal as they go. This creates a self-organizing spiral wave pattern that coordinates the aggregation of up to 100,000 individual amoebae into a single mound.
-
-### Slug Migration and Differentiation
-
-The aggregated mass transforms into a motile **pseudoplasmodium** (slug) approximately 1–2 mm long. Within the slug, cells differentiate into two major lineages:
-
-- **Prestalk cells** (approximately 20%): Form the anterior tip and will become the structural stalk of the fruiting body. These cells undergo a form of programmed cell death (apoptosis) to create the rigid stalk, sacrificing themselves for the group.
-- **Prespore cells** (approximately 80%): Form the posterior bulk and will become the viable spores, which are dispersed to found new populations.
-
-This 80:20 ratio is maintained with remarkable precision through a negative feedback mechanism involving the signaling molecule **DIF-1** (differentiation-inducing factor). The slug migrates toward light and heat — phototaxis and thermotaxis — for several hours before ceasing movement and beginning fruiting body construction.
-
-### Cheating and Social Conflict
-
-The cooperative nature of slug formation creates opportunities for **social cheating**. Mutant cells that fail to differentiate into stalk cells can exploit the cooperative system by becoming spores at a higher rate than wild-type cells. In laboratory experiments, cheater mutants can outcompete wild-type cells and drive populations to extinction — a "tragedy of the commons." In nature, however, cheater mutants are kept in check by several mechanisms:
-
-- **Kin selection**: Aggregation preferentially occurs between genetically similar cells, so cheaters are more likely to be related to their victims
-- **Spatial structure**: Limited dispersal means cheaters interact repeatedly with the same population, allowing retaliatory strategies
-- **Genetic bottlenecks**: The single-spore bottleneck during dispersal limits cheater accumulation
-
-### The "Farmer" Lineage
-
-In a remarkable discovery, Brock et al. (2011) identified a lineage of *D. discoideum* that practices a primitive form of **agriculture**. These "farmer" amoebae carry bacteria through the spore stage and seed new environments with their preferred food source, rather than relying on whatever bacteria happen to be present. This farming behavior comes at a cost — farmers grow more slowly than non-farmers in rich bacterial environments — but provides a significant advantage in poor-quality habitats. The carried bacteria include both food species and bacterial species that produce compounds inhibitory to non-farmer *Dictyostelium*, effectively acting as a form of [[allelopathy-and-chemical-warfare-in-plants]] against competitors.
+Myxomycetes exhibit both sexual and asexual reproductive strategies. Sexual reproduction occurs through the fusion of compatible amoebae or swarm cells, which may be governed by mating-type loci similar to those in fungi. This genetic mixing contributes to the remarkable diversity observed in natural populations. Many species also reproduce asexually via **apogamy**, where the diploid plasmodium forms directly from haploid amoebae without fusion, maintaining clonal lineages. The balance between sexual and asexual reproduction varies by species and environmental conditions, with sexual reproduction favored in [[allelopathy-and-chemical-warfare-in-plants]] against competitors.
 
 ## Biochemistry and Cellular Biology
 
@@ -123,18 +74,14 @@ Slime molds produce a range of extracellular enzymes that allow them to exploit 
 
 While their enzyme complement is less powerful than that of lignocellulose-degrading fungi, slime molds are remarkably versatile generalist feeders capable of exploiting a wide range of organic substrates.
 
-### Pigments [[plant-defense-chemistry-and-secondary-metabolites]]
-
-Many slime molds produce striking pigments that serve ecological functions:
-
-- **Yellow pigments** (fuligo, physarum): Carotenoid-derived compounds that may provide UV protection and have [[medicinal-mushroom-antimicrobial-properties]]
+### Pigments [[medicinal-mushroom-antimicrobial-properties]]
 - **Melanin**: Produced in the peridium and spore walls of many species, providing protection from UV radiation and desiccation
 - **Calcium carbonate crystals**: Deposited in the fruiting bodies of species in the order Physarales, forming the characteristic white lime deposits
 - **Fuligoic acid and related compounds**: Produced by *Fuligo septica* with reported antibacterial and antifungal activity
 
 ### Chemical Ecology
 
-Slime molds engage in [[tompkins-plant-chemical-communication]] and warfare with other soil organisms. They produce [[fungal-volatile-organic-compounds-communication]] compounds (VOCs) that can attract or repel invertebrate dispersal agents. Some species produce compounds that inhibit bacterial growth or nematode feeding, providing chemical defense during the vulnerable fruiting stage. The study of slime mold chemical ecology is an emerging field with potential applications in discovering novel antimicrobial compounds.
+Slime molds engage in [[fungal-volatile-organic-compounds-communication]] compounds (VOCs) that can attract or repel invertebrate dispersal agents. Some species produce compounds that inhibit bacterial growth or nematode feeding, providing chemical defense during the vulnerable fruiting stage. The study of slime mold chemical ecology is an emerging field with potential applications in discovering novel antimicrobial compounds.
 
 ## Ecological Roles
 

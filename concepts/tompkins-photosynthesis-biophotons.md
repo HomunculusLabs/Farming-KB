@@ -1,97 +1,100 @@
 ---
 title: Photosynthesis and Biophotons
 created: 2026-04-26
-aliases: [biophotons, [[tompkins-kirlian-photography-plant-auras]], [[phototropism-and-plant-light-responses]], mitogenetic radiation]
+aliases: [biophotons, [[phototropism-and-plant-light-responses]], mitogenetic radiation]
 tags: [botany, biophysics, photosynthesis, light-biology]
-related: [[tompkins-plant-electrical-signals]], [[tompkins-plant-growth-regulators]], [[tompkins-ancient-plant-knowledge]]
-sources: Tompkins & Bird, the-secret-life-of-plants-tompkins-and-bird of Plants (1973)
-type: concept
-updated: 2026-04-26
----
-
-# Photosynthesis and Biophotons
-
-## Kirlian Photography and Plant Auras
-
-Semyon and Valentina Kirlian, working in Krasnodar, USSR, discovered in
-1939 that by placing objects (including plant leaves) between
-photographic electrodes and passing high-frequency electrical current
-(75,000-200,000 pulses per second) through them, they could capture
-luminous energy patterns invisible to the naked eye.
-
-The breakthrough came when a visiting scientist gave them two leaves to
-photograph -- one from a healthy plant, one from a diseased specimen.
-Though the leaves appeared identical to the human eye, the photographs
-plainly differentiated between them. The Kirlians worked through the
-night trying to produce matching images and failed, proving that
-"illness was evidently manifest in a plant's energy field before
-becoming visible as a symptom in its physical body."
-
-## Characteristics of the Plant Aura
-
-Leaves placed between electrodes revealed a "phantasmagoria" of tiny
-starry points of light -- white, blue, even red and yellow flares
-surging through channels in the leaves. These emanations:
-
-- Became distorted if the leaf was mutilated
-- Gradually diminished and disappeared as the leaf died
-- Could be magnified using optical instruments and microscopes
-- Showed "rays of energy and whirling fireballs of light" shooting into
-  space
-- Each species and individual leaf had a unique pattern
-
-Even "inanimate" substances showed patterns, but human fingertips
-produced "flaming energy in bursts like miniature volcanoes."
-
-## Mitogenetic Radiation
-
-Alexander Gurwitsch, a Russian biologist, published The Theory of a
-Biological Field in 1944, summing up twenty years of work on what he
-called "mitogenetic radiation" -- ultraviolet light emitted by living
-cells that stimulates cell division. Though initially rejected by the
-U.S. Academy of Sciences, Gurwitsch's work inspired L. George
-Lawrence's study of "biocommunication."
-
-Otto Rahn at Cornell University found that sick laboratory workers
-caused death in yeast cells they handled, even at a distance of a few
-minutes' exposure. The cornea of the eye, wounds, and cancer tumors all
-emit radiation.
-
-## The Bioplasmic Body Theory
-
-Vladimir Inyushin, working in Alma Ata, Kazakhstan, proposed in The
-Biological Essence of the Kirlian Effect (1968) that the bioluminescence
-was caused by a "biological plasma body" -- a new term for what ancient
-traditions called the "etheric" or "astral" body.
-
-Key properties of this bioplasmic body:
-
-- Has its own labyrinthine motion, different from the physical body's
-  energy pattern
-- Acts as a unified, non-chaotic organism
-- Is polarized and generates its own electromagnetic fields
-- Forms the basis for "biological" fields
-- Corresponds to acupuncture points mapped by the Chinese thousands of
-  years ago
-
-Anatoli Podshibyakin, a Kiev electrophysiologist, discovered that
-bioplasma "instantly reacts to changes on the surface of the sun even
-though cosmic particles take about two days to reach the earth" --
-suggesting faster-than-light communication.
-
-## George Washington Crile's Radiogens
-
-Cleveland Clinic founder George Washington Crile published The
-Phenomena of Life: A Radio-Electrical Interpretation in 1936, arguing
-that [[savory-living-organisms-as-tools]] are adapted to "the formation, storage, and use
+related: [[tompkins-plant-growth-regulators]], [[savory-living-organisms-as-tools]] are adapted to "the formation, storage, and use
 of electrical energy." The genesis of this energy was "ultra-microscopic
 units or furnaces in protoplasm" which Crile called radiogens. He
 predicted that future radio-diagnosticians could detect disease before
 it became outwardly apparent.
 
 ## See Also
-- [[det]]
 - [[teaming-with-microbes-photosynthesis-exudates-carbon-cycle]]
-- [[c3-c4-cam-photosynthesis-plant-carbon-fixation-pathways]]
 - [[photosynthesis-carbon-cycle-plants]]
 - [[comparison-c3-c4-and-cam-photosynthesis-pathways]]
+
+## Overview
+
+Tompkins Photosynthesis Biophotons represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish tompkins photosynthesis biophotons
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving tompkins extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Tompkins Photosynthesis Biophotons finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for tompkins photosynthesis biophotons. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+tompkins photosynthesis biophotons and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Tompkins Photosynthesis Biophotons has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of tompkins photosynthesis biophotons into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[photosynthesis-carbon-cycle-plants]]
+- [[the-secret-life-of-plants-tompkins-and-bird]]
+- [[tompkins-kirlian-photography-plant-auras]]
+- [[tompkins-magnetism-plant-growth]]
+- [[tompkins-plant-growth-regulators]]

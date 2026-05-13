@@ -17,9 +17,8 @@ powerful and culturally significant hallucinogenic plants known to
 humanity. In both hemispheres, Datura played highly significant roles
 in native cultures, while the related genus Brugmansia remains one of
 the principal hallucinogens still employed in South America. In Europe,
-Deadly Nightshade ([[belladonna-atropa-belladonna-ethnobotany]]), Henbane ([[henbane-hyoscyamus-niger-ethnobotany]]), and
-Mandrake ([[solanaceous-hallucinogens-of-medieval-european-witchcraft]] traditions.
-- **[[mandrake-mandragora-officinarum-in-european-folklore]]** (Mandrake): Known as "the man-like plant"
+Deadly Nightshade ([[henbane-hyoscyamus-niger-ethnobotany]]), and
+Mandrake ([[mandrake-mandragora-officinarum-in-european-folklore]]** (Mandrake): Known as "the man-like plant"
   for its anthropomorphic root, native to the Mediterranean region.
 
 Closely related to Datura, the species of Brugmansia are arborescent
@@ -33,50 +32,9 @@ Datura was employed over wide areas of Asia, particularly in India where
 Datura metel flowers are offered to Shiva. In Mexico, Datura innoxia,
 known as Toloache, is used by indigenous peoples for divination and
 healing. Various species of Datura were employed rather widely in
-[[psilocybin-north-america-pacific-northwest]], but most intensely in the Southwest.
+[[datura-candida]]
 
-In South America, Brugmansia species are known by many names:
-Borrachero, Campanula, Floripondio, Huanto, Haucacachu, Maicoa, Toe,
-and Tongo. Brugmansia suaveolens and B. insignis occur in warmer parts
-of South America, especially in western Amazonia, where they are
-employed alone or mixed with other plants, usually under the name Toe.
-In Colombia, the Blood-Red Angel's Trumpet was ritually used in the
-cult of the sun in pre-Columbian times. The plant is still used as a
-hallucinogen by the shamans and curanderos of Ecuador and Peru.
-
-In Europe, Deadly Nightshade, Henbane, and Mandrake were the main
-ingredients of the witches' brews. Witches' ointments were applied
-topically, producing sensations of flight. The Mandrake root was
-likened to the form of a man or woman, and according to superstition,
-if the plant were pulled from the earth, its shrieks could drive the
-collectors mad. Brugmansia may also be given to Jivaro boys, who are
-then admonished by the ancestors during the intoxication.
-
-## Chemical Constituents
-
-All solanaceous hallucinogens contain potent tropane alkaloids:
-
-- **Scopolamine** (hyoscine): The primary active compound in
-  Brugmansia seeds, comprising approximately 78% of total seed
-  alkaloids (about 0.17% total alkaloids in seeds). Flowers of
-  B. sanguinea contain essentially atropine and only traces of
-  scopolamine.
-- **Atropine**: A major alkaloid found throughout the Solanaceae,
-  responsible for mydriasis (pupil dilation), the basis of the name
-  "belladonna" ("beautiful lady" in Italian).
-- **Hyoscyamine**: The main psychoactive constituent of Atropa
-  belladonna, with lesser amounts of scopolamine and trace amounts of
-  minor tropane alkaloids.
-- **Other tropane alkaloids**: Including norhyoscyamine, aposcopolamine,
-  and various related bases.
-
-The entire plants contain psychoactive constituents, with concentrations
-varying among plant parts. Roots and seeds typically contain the highest
-alkaloid concentrations.
-
-## [[datura-candida]]
-
-- [[plants-gods-ayahuasca]] for comparison with [[chiric-caspi-brunfelsia-south-american-hallucinogen]]
+- [[chiric-caspi-brunfelsia-south-american-hallucinogen]]
 
 ## Historical Context
 - These approaches have evolved through decades of research and practical application.
@@ -89,8 +47,91 @@ alkaloid concentrations.
 - Understanding these processes enables more targeted and effective interventions.
 
 ## See Also
-- [[plants-of-the-gods-datura-species-toloache]]
 - [[plants-of-the-gods-trichocereus-san-pedro-chemistry]]
-- [[plants-of-the-gods-lophophora-peyote]]
 - [[plants-of-the-gods-mushroom-stone-artifacts]]
 - [[plants-gods-nicotiana]]
+
+## Overview
+
+Plants Gods Datura Solanaceous represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish plants gods datura solanaceous
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving plants extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Plants Gods Datura Solanaceous finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for plants gods datura solanaceous. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+plants gods datura solanaceous and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Plants Gods Datura Solanaceous has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of plants gods datura solanaceous into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[hamilton-garden-ponds-and-aquatic-plants]]
+- [[holzer-kitchen-garden-herbs-and-medicinal-plants]]
+- [[permaculture-plants-aquatic-systems-water-plants]]
+- [[plants-of-the-gods-lophophora-peyote]]
+- [[query-how-do-i-fix-calcium-deficiency-in-plants]]

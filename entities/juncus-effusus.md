@@ -23,7 +23,7 @@ sources:
 
 **Juncus effusus**, commonly known as soft rush, common rush, or mat rush, is a perennial clump-forming herbaceous plant in the family Juncaceae. It is one of the most widespread rush species in the world, occurring across temperate and subtropical regions on every continent except Antarctica.
 
-The species forms dense tussocks of cylindrical, unbranched stems that provide habitat and [[permplant-willows-salix-erosion-control-fodder]] in wetland margins, meadows, and disturbed areas. It is valued in traditional crafts for its pliable stems and is increasingly used in [[comparison-constructed-wetland-vs-backyard-pond]] systems for water treatment.
+The species forms dense tussocks of cylindrical, unbranched stems that provide habitat and [[comparison-constructed-wetland-vs-backyard-pond]] systems for water treatment.
 
 ## Taxonomy and Morphology
 
@@ -42,7 +42,7 @@ The chromosome number is 2n = 40, 42, or 80 (polyploid races). Seeds are extreme
 
 ## Distribution and Habitat
 
-*J. effusus* has a nearly [[guzman-allen-gartz-psilocybe-semilanceata-temperate-cosmopolitan-distribution]] in [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]]. It is native to Europe, Asia, Africa, North America, South America, and Australasia. Its wide range reflects its adaptability to diverse climatic conditions.
+*J. effusus* has a nearly [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]]. It is native to Europe, Asia, Africa, North America, South America, and Australasia. Its wide range reflects its adaptability to diverse climatic conditions.
 
 The species occupies a broad ecological amplitude, growing in wet meadows, marsh edges, ditches, pond margins, stream banks, and disturbed sites. It tolerates both full sun and partial shade and occurs from sea level to 2,300 m elevation in montane regions.
 
@@ -60,13 +60,7 @@ The fibrous root system stabilizes soil on stream banks and wet meadow edges, re
 
 The tussock growth form creates microtopographic variation in wet meadows, with elevated mounds and inter-tussock depressions. This microtopography increases habitat heterogeneity and supports a greater diversity of plant species than a uniform sward.
 
-*J. effusus* can become dominant in overgrazed wet pastures, where livestock avoid the tussocks and allow them to expand. This rush-dominated state reduces forage quality for cattle and sheep. Management through [[comparison-rotational-grazing-vs-continuous-grazing]], cutting, or drainage can restore more diverse grassland communities.
-
-Cutting in late summer (after seed set) reduces tussock vigor and encourages lateral spread of grasses. Annual cutting for 3–5 consecutive years significantly reduces rush dominance without the need for herbicide application. The cut material can be used as mulch or composted.
-
-## Traditional and Modern Uses
-
-The stems have been used for centuries in Japan for weaving tatami mats, a practice that gave rise to the Japanese name *igusa*. Soft rush is still commercially cultivated for this purpose, particularly in Okayama Prefecture, where [[hashish-production-methods]] have remained largely unchanged for centuries.
+*J. effusus* can become dominant in overgrazed wet pastures, where livestock avoid the tussocks and allow them to expand. This rush-dominated state reduces forage quality for cattle and sheep. Management through [[hashish-production-methods]] have remained largely unchanged for centuries.
 
 Modern tatami production uses both hand-woven and machine-woven techniques. The stems are harvested in summer, dried in the shade, and woven into the characteristic rectangular mat surface. A single standard tatami mat requires approximately 4,000 rush stems. Quality is assessed by stem length, color uniformity, and flexibility.
 
@@ -76,14 +70,80 @@ In traditional Chinese medicine, the pith (medulla) of the stem, known as *deng 
 
 ## Phytoremediation
 
-The species is effective in [[comparison-constructed-wetlands-vs-bioswales]] for treating domestic wastewater, stormwater runoff, and agricultural effluent. The species performs well in both vertical-flow and horizontal-flow systems, with nitrogen removal rates of 40–65% and phosphorus removal rates of 30–55%.
+The species is effective in [[query-how-to-grow-and-use-oca-in-temperate-climates]].
 
-In comparison to other wetland macrophytes, *J. effusus* shows moderate nutrient uptake but excellent durability under variable loading conditions. It maintains treatment performance across seasonal temperature swings better than tropical species used [[query-how-to-grow-and-use-oca-in-temperate-climates]].
-
-The root system supports nitrifying and denitrifying [[cultivar-endorhiza-bacterial-communities-cannabis]] in the rhizosphere. Radial oxygen release from roots creates the aerobic-anaerobic interfaces necessary for coupled nitrification-denitrification. The species tolerates high organic loading rates and recovers quickly from periodic harvesting.
-
-In stormwater treatment applications, *J. effusus* effectively removes suspended solids, heavy metals (zinc, copper, lead), and pathogens from urban runoff. The dense root mat acts as a physical filter while also providing substrate for biofilm development that degrades organic pollutants.
-
-The species is particularly effective in small-scale treatment systems such as rain gardens and bioswales. Its [[fukuoka-ideal-rice-plant-morphology-compact-growth-high-yield]] form and tolerance of fluctuating water levels make it suitable for urban green infrastructure. Research has demonstrated that *J. effusus*-based systems can achieve fecal coliform reductions of 85–99% from stormwater inputs.
+The root system supports nitrifying and denitrifying [[fukuoka-ideal-rice-plant-morphology-compact-growth-high-yield]] form and tolerance of fluctuating water levels make it suitable for urban green infrastructure. Research has demonstrated that *J. effusus*-based systems can achieve fecal coliform reductions of 85–99% from stormwater inputs.
 
 ## Cultivation
+
+## Overview
+
+Juncus Effusus represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish juncus effusus
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving juncus extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Juncus Effusus finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for juncus effusus. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+juncus effusus and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Juncus Effusus has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of juncus effusus into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions

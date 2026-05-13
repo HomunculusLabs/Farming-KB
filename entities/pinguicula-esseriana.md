@@ -43,11 +43,7 @@ confused it with the closely related Pinguicula ehlersiae. Molecular
 phylogenetic studies by Rivadavia et al. (2017) confirmed its distinct
 status within the Mexican clade.
 
-**[[cannabis-leaf-morphology-and-phyllotaxy]]:** Leaves are spatulate to oblong, 8–18 mm long and 4–8 mm
-wide. The lamina is glandular on both surfaces, with two types of trichomes:
-sessile digestive glands and stalked mucilage-producing glands.
-
-The upper [[bloomfield-rust-germ-tube-tactile-sensing-leaf-surface-navigation]] is green to pinkish-green, often with faint venation.
+**[[bloomfield-rust-germ-tube-tactile-sensing-leaf-surface-navigation]] is green to pinkish-green, often with faint venation.
 Under strong light, the entire rosette may flush pink or reddish, especially
 along the leaf margins.
 
@@ -90,3 +86,11 @@ watering should be reduced and the soil allowed to dry slightly.
 
 ## See Also
 - [[fukuoka-ideal-rice-plant-morphology-compact-growth-high-yield]]
+
+## See Also
+
+- [[pinguicula-primuliflora]]
+- [[pinguicula-vulgaris]]
+- [[pinguicula-grandiflora]]
+- [[pinguicula-macroceras]]
+- [[pinguicula-moranensis]]

@@ -14,8 +14,7 @@ type: concept
 ## Overview
 
 Proper storage of mushroom cultures is essential for maintaining viability and
-genetic integrity over time. Multiple [[food-preservation-canning]] exist, from simple
-refrigeration of [[query-how-to-make-agar-plates-for-mushroom-cultivation]] to cryopreservation with glycerol protectants.
+genetic integrity over time. Multiple [[query-how-to-make-agar-plates-for-mushroom-cultivation]] to cryopreservation with glycerol protectants.
 Understanding strain senescence -- the gradual loss of vigor through repeated
 cell division -- is critical for maintaining productive cultures.
 
@@ -25,28 +24,8 @@ Assign every isolate an origin code (e.g., "PDJAMOR1" is easier to write than
 the full collection details). Label every plate, jar, and bag with generation
 codes tracking how many expansions the culture has been through:
 
-- Generation 0: original pure isolate from [[comparison-seed-saving-techniques-vs-tissue-culture-cloning]] or [[growing-gourmet-spore-germination-strain-isolation]]
-- Each subsequent expansion (master grain, [[comparison-agar-vs-liquid-culture]], bulk spawn)
-  increments the generation number
-
-## Strain Senescence
-
-As fungal cells replicate, DNA must divide and copy. Proofreading mechanisms
-prevent errors, but accumulated divisions increase susceptibility to genetic
-mutations that alter vigor and efficiency. This degradation is called strain
-senescence.
-
-Cultures maintained in monoculture conditions (same nutrients and conditions
-repeatedly) become dependent on those conditions and unable to thrive when
-variables change. Cotter compares this to "zoo animal" fungi that have been in
-captivity so long they lose their ability to adapt.
-
-### Symptoms of Senescence
-
-- Lower yields over successive generations
-- Disease susceptibility
-- Diminished cap color
-- Loss of [[metzner-three-distinctive-features-shamanic-entheogenic-ceremonies]] defining the original strain
+- Generation 0: original pure isolate from [[growing-gourmet-spore-germination-strain-isolation]]
+- Each subsequent expansion (master grain, [[metzner-three-distinctive-features-shamanic-entheogenic-ceremonies]] defining the original strain
 - Inability to adapt to new substrates or environments
 
 ### Prevention Strategies
@@ -61,17 +40,7 @@ captivity so long they lose their ability to adapt.
 
 Most research universities purchase strains that have been in culture for years
 and may have lost their ability to adapt. A freshly isolated wild strain will
-often outperform a lab-acquired culture. Cotter advocates cloning [[strain-isolation-from-wild-specimens]]
-whenever possible to capture strains already adapted to local conditions.
-
-## Storage Methods
-
-### Agar Plates
-
-Seal agar plates with tape or Parafilm and refrigerate for months, up to a
-year. Store sealed cultures in plastic ziplock bags for extra protection against
-drying and for maintaining cleanliness when moving between fridge and laminar
-hood. Be aware that alcohol dissolves [[volvariella-volvacea]]) that
+often outperform a lab-acquired culture. Cotter advocates cloning [[volvariella-volvacea]]) that
 die below 50 degrees F (10 degrees C) within a week of general refrigeration.
 
 ### Freezing (Cryopreservation)
@@ -118,8 +87,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[det]]
 - [[spore]]
-- [[mycelium]]
 - [[cotter-agar-tissue-culture-techniques]]
 - [[growing-gourmet-culture-slant-preservation-cryogenic-storage]]

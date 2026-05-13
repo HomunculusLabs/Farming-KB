@@ -13,18 +13,8 @@ tags: [ethnobotany, peyote]
 Schultes and Hofmann document mescaline as one of the most significant
 psychoactive alkaloids in the ethnobotanical record, occurring naturally in
 two major cactus genera used ceremonially across the Americas: Peyote
-(Lophophora williamsii) and [[gottlieb-psychoactive-cacti-san-pedro-and-peruvian-torch]] (Trichocereus pachanoi).
-
-## Chemical Identity
-
-Mescaline (3,4,5-trimethoxyphenylethylamine) is a phenylethylamine alkaloid
-chemically related to the neurotransmitter noradrenaline (norepinephrine).
-This structural similarity to a natural neurotransmitter is pharmacologically
-significant and was one of the first examples of a psychoactive plant
-compound whose structure was understood in relation to human neurochemistry.
-
-See also: mescaline ethnobotany, [[mescaline-peyote-san-pedro-cactus]], ethnomycology,
-[[san-pedro-cactus-history]], [[aztec-entheogens]], [[mescaline-biosynthesis-and-precursor-enhancement]], [[mescaline-reference]], richard [[richard-evans-schultes-updated]] updated
+(Lophophora williamsii) and [[mescaline-peyote-san-pedro-cactus]], ethnomycology,
+[[aztec-entheogens]], [[mescaline-reference]], richard [[richard-evans-schultes-updated]] updated
 ## Practical Applications
 
 Mescaline Ethnobotany in Plants of the Gods has a range of practical applications that make it relevant to

@@ -1,6 +1,6 @@
 ---
 title: DMT — N,N-Dimethyltryptamine
-source: [[mckenna-tryptamine-hallucinogens-and-consciousness]] and Consciousness (Terence McKenna, 1983/1992)
+source: mckenna-tryptamine-hallucinogens-and-consciousness and Consciousness (Terence McKenna, 1983/1992)
 tags: [tryptamine, dmt, hallucinogen, consciousness, pharmacology, neuroscience]
 created: 2026-05-09
 ---
@@ -42,51 +42,8 @@ DMT is biosynthesised by a remarkably wide range of organisms. In the plant
 kingdom, it is found in *Psychotria viridis* (chacruna) and *Diplopterys
 cabrerana* — the two most common DMT-containing admixture plants used in
 ayahuasca preparations — as well as in *Mimosa tenuiflora* (jurema),
-*Acacia* species, *[[yopo-anadenanthera-peregrina-snuff]]* (yopo), and numerous other
-leguminous and rubiaceous plants. The compound is particularly abundant in
-the bark, leaves, and roots of these species.
-
-Endogenously, DMT has been detected in human blood, urine, cerebrospinal
-fluid, and brain tissue. The enzyme indolethylamine N-methyltransferase
-(INMT), which catalyses the methylation of tryptamine to DMT, is expressed
-in the human brain, particularly in the pineal gland and cerebral cortex.
-The functional significance of endogenous DMT remains debated; hypotheses
-include roles as a neurotransmitter or neuromodulator, a regulator of
-near-death experiences, and a contributor to dream imagery.
-
-## Pharmacology and Pharmacokinetics
-
-DMT is orally inactive as a hallucinogen because it is rapidly deaminated by
-monoamine oxidase (MAO) enzymes in the gut and liver before reaching the
-brain. This is why [[harner-amazonian-ayahuasca-preparation-methods]] preparations combine DMT-containing
-plants with *Banisteriopsis caapi*, which contains [[turner-harmala-alkaloids-preparation-and-dosage]] that
-act as MAO inhibitors (MAOIs), allowing the DMT to survive first-pass
-metabolism and become psychoactive when consumed orally.
-
-When vaporised and inhaled, DMT crosses the blood-brain barrier within
-seconds, producing a rapid and overwhelming onset. The subjective
-experience is characterised by:
-
-- **Auditory phenomena**: a characteristic "ripping cellophane" or buzzing
-  sound, often described as a tearing sensation, followed by an ascending
-  tone.
-
-- **Visual phenomena**: intense, rapidly morphing geometric patterns and
-  hyperdimensional spaces described as "self-transforming machine elves"
-  (McKenna's terminology) — dynamic, contorting topological modules that
-  appear as autonomous entities within a continuously transforming
-  background.
-
-- **Ego dissolution and transcendence**: the experience consistently
-  includes a sense of contact with an alien intelligence or a
-  transdimensional realm. McKenna described arriving in "a place that defies
-  description, a space that has a feeling of being underground, or somehow
-  insulated and domed."
-
-- **Translinguistic phenomena**: the experience frequently involves
-  glossolalia (speaking in tongues) and the perception of a language of
-  alien meaning that "cannot be Englished." McKenna described this as
-  "a [[mckenna-primal-ursprache-kabbalistic-zohar-and-white-goddess-glossolalia]] that comes out of oneself," a pre-linguistic assembly
+*Acacia* species, *[[harner-amazonian-ayahuasca-preparation-methods]] preparations combine DMT-containing
+plants with *Banisteriopsis caapi*, which contains [[mckenna-primal-ursprache-kabbalistic-zohar-and-white-goddess-glossolalia]] that comes out of oneself," a pre-linguistic assembly
   language underlying normal speech.
 
 ## Practical Applications
@@ -118,8 +75,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[dimethyltryptamine]]
 - [[dmt]]
-- [[ayahuasca]]
 - [[mimosa-tenuiflora]]
 - [[psilocybin]]

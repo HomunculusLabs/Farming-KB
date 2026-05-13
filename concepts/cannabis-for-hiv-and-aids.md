@@ -10,19 +10,7 @@ sources:
 
 updated: 2026-04-18
 
-Cannabis has been widely used by HIV/AIDS patients for symptom management, with research supporting its effectiveness for appetite stimulation, pain relief, nausea control, and mood improvement. The [[cannabis-for-anorexia-and-cachexia]] for detailed evidence.
-
-### Pain Management
-
-HIV/AIDS patients frequently experience neuropathic pain. Cannabinoids, particularly through CB1 and CB2 receptor activation, have demonstrated analgesic effects for neuropathic pain. Both THC and CBD contribute to pain relief through different receptor pathways.
-
-### Anti-Nausea Effects
-
-THC and other cannabinoids are effective anti-emetics, particularly valuable for HIV/AIDS patients experiencing nausea from antiretroviral therapy (ART). This was among the earliest FDA-approved medical cannabis applications.
-
-### Depression and Mood
-
-A 2009 Boston study of 775 HIV/AIDS patients found cannabis more effective than standard prescription and OTC medications for treating depression. See [[cannabis-for-night-sweats]].
+Cannabis has been widely used by HIV/AIDS patients for symptom management, with research supporting its effectiveness for appetite stimulation, pain relief, nausea control, and mood improvement. The [[cannabis-for-night-sweats]].
 
 ### Immunomodulatory Effects
 
@@ -57,18 +45,12 @@ Supporting approaches: working with personal power, appropriate defenses, love a
 ## Supporting Herbs
 
 - **Acacia**: Aqueous extract effective in vitro against HIV reverse transcriptase (Mumbai study, 2006)
-- **Coconut**: Medium-chain [[stable-carbon-isotope-signature-fatty-acids-mycorrhizal-carbon-tracking]] reduce virus concentration in HIV-infected blood products; potential spermicidal and virucidal agents
-
-## See Also
-
-- [[cannabis-for-anorexia-and-cachexia]]
-- [[cannabis-for-night-sweats]]
+- **Coconut**: Medium-chain [[cannabis-for-anorexia-and-cachexia]]
 - [[cannabis-anti-inflammatory-applications]]
 
 ## Source
 
-Blesching, U. (2015). *The [[blesching-cannabis-health-index-autoimmune-conditions]]*. Chapter IV: "HIV/AIDS." North Atlantic Books.
-- [[cannabis-for-cachexia-and-appetite-stimulation]]
+Blesching, U. (2015). *The [[cannabis-for-cachexia-and-appetite-stimulation]]
 ## Practical Considerations
 
 Successful implementation of Cannabis for HIV/AIDS requires attention to
@@ -117,8 +99,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[acacia]]
 - [[det]]
-- [[mycorrhiza]]
 - [[cannabis-for-nausea-and-appetite-stimulation]]
 - [[cannabis-for-cachexia-and-appetite-stimulation]]

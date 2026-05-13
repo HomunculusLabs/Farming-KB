@@ -1,12 +1,6 @@
 ---
 title: Windbreak Species Selection and Permeability
-source: [[bill-mollison-permaculture-a-designers-manual-edge-effect-and-ecotone-design|bill]]-mollison-permaculture-a-designers-manual.md
-type: concept
----
-
-# Windbreak Species Selection and Permeability
-
-Windbreaks are among the most critical infrastructure elements in [[permaculture-design]], directly influencing crop yields, microclimate stability, and overall system resilience. Selecting the right species and engineering proper permeability determines whether a shelterbelt functions as a productive, multi-use asset or becomes a liability that competes with crops for water and nutrients.
+source: [[permaculture-design]], directly influencing crop yields, microclimate stability, and overall system resilience. Selecting the right species and engineering proper permeability determines whether a shelterbelt functions as a productive, multi-use asset or becomes a liability that competes with crops for water and nutrients.
 
 ## Core Selection Principles
 
@@ -24,15 +18,7 @@ In extreme exposure zones — coastal salt spray, desert sandblast, or open plai
 
 ## The Problem of Isolated Trees
 
-**Isolated trees standing above the general forest or crop level suffer doubled transpiration rates** compared to sheltered specimens. This effect is most pronounced in water-loving species. The lesson for designers is clear: windbreaks work best as integrated systems of multiple rows and layers, not as solitary specimen trees expected to provide [[bill-mollison-permaculture-a-designers-manual-windbreak-design-and-shelter|shelter]] alone.
-
-## Wind Damage Mechanisms
-
-Understanding *how* wind damages plants informs better species selection and placement:
-
-- **Hot dry winds** cause rapid desiccation, exceeding the plant's ability to draw water from soil.
-- **Salt-laden winds** deposit chloride ions on leaf surfaces, causing cellular toxicity and tissue death.
-- **[[photosynthetic-efficiency]] drops 20–85%** when leaves are torn, frayed, or have broken midribs — even if the plant survives, its productive capacity is severely compromised.
+**Isolated trees standing above the general forest or crop level suffer doubled transpiration rates** compared to sheltered specimens. This effect is most pronounced in water-loving species. The lesson for designers is clear: windbreaks work best as integrated systems of multiple rows and layers, not as solitary specimen trees expected to provide [[photosynthetic-efficiency]] drops 20–85%** when leaves are torn, frayed, or have broken midribs — even if the plant survives, its productive capacity is severely compromised.
 
 ## Plant Wind Resistance Categories
 
@@ -41,7 +27,7 @@ Mollison categorizes plants into three resistance groups for design purposes:
 ### Wind Tolerant (and Wind-Fast)
 These species withstand persistent exposure and can serve as frontline or structural shelterbelt components:
 - **Short/creeping boundary layer plants** — ground-hugging species that reduce surface wind shear
-- **Sea coast front-line species** — *Cerastium* (snow-in-summer), *[[araucaria-heterophylla]]* ([[norfolk-island-pine]])
+- **Sea coast front-line species** — *Cerastium* (snow-in-summer), *[[norfolk-island-pine]])
 - These plants are the backbone of any shelterbelt's outermost defense
 
 ### Exposure Tolerant
@@ -107,7 +93,7 @@ Shelterbelt species that generate abundant leaf fall or prunable biomass for cro
 
 ### Forage Species
 Windbreaks that double as fodder banks:
-- **Leucaena leucocephala** — high-protein fodder, nitrogen-fixing
+- **[[leucaena-leucocephala]]** — high-protein fodder, nitrogen-fixing
 - **Fig** (*Ficus carica*) — palatable to livestock, drought-tolerant once established
 - **Pennisetum** (napier grass/elephant grass) — high-yielding perennial grass forage
 

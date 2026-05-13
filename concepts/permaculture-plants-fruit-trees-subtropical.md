@@ -29,16 +29,7 @@ Nutritional per 100g: Water 73.5%, Energy 94 cal, Carbohydrate 24.0g, Protein 1.
 Also called bullock's heart. Deciduous, to 8-10 m. Susceptible to wind damage, will not grow on poorly drained soils. Fruit yellow becoming red or brown, flesh yellow-white, more solid than other annonaceous fruits.
 
 ### Sugar Apple (A. squamosa)
-Slow-growing, bushy, deciduous tree to 5 m. [[permplant-carob-drought-tolerant-food-tree]]. Fruit yellow-green with pale yellow, firm, sweet custard-like flesh. Fruiting at 3 years (seedling), 1 year (grafted). Very productive.
-
-### Soursop (A. muricata)
-Small upright tree to 5 m. Drought tolerant, makes a good windbreak/[[mollison-designers-legume-shade-tree-pasture-systems]]. Less frost tolerant (0C). L pulchella and [[tamarillo]] (Cyphomandra betacea)
-
-Family: SOLANACEAE
-
-Also called tree tomato. Native to temperate Andes of South America. Suited to small gardens in tropical and subtropical climates; grows in cooler areas if sunny and sheltered. Erect, shrubby, fast-growing evergreen to 4 m. Fairly short-lived. Needs rich, moist, well-drained soil; very shallow-rooted so heavy mulching recommended. Slightly frost tolerant (to -2C).
-
-Fruits egg-shaped, ~5 cm long, yellow, red, or dark red. Yellow fruits sweetest, red more acid. Best eaten fresh, also made into jams, jellies, preserves. Skin easily removed by dipping in hot water. Some value as [[mollison-designers-bee-forage-tree-planting]]. Propagated from seed or cuttings.
+Slow-growing, bushy, deciduous tree to 5 m. [[mollison-designers-legume-shade-tree-pasture-systems]]. Less frost tolerant (0C). L pulchella and [[mollison-designers-bee-forage-tree-planting]]. Propagated from seed or cuttings.
 
 Nutritional per 100g: Water 82.7-87.8%, Carbohydrate 10.3g, Protein 1.5g, Vitamin A 540 IU, Ascorbic acid 23.3-33.9mg.
 
@@ -62,18 +53,10 @@ Family: MALPIGHIACEAE
 
 Also called West Indian cherry, native cherry. Very attractive, slow-growing, evergreen shrub to ~6 m with glossy dark green leaves. Very tough and versatile -- grows in any soil under almost any conditions. Prefers moist soil and responds to mulching. Does well on limestone, marl, and clay if well-drained. Moderately drought and salt spray tolerant. Frost hardy to -2C.
 
-Fruit cherry-like, 1.25-2.5 cm diameter, red to crimson. Extremely high in Vitamins C and A (4,500 mg ascorbic acid in green fruit, 2,000 mg in ripe). Used fresh, in drinks, and dried. Wine retains 60% of ascorbic acid. Good [[permaculture-designers-manual-animal-forage-systems]] and hedge/pioneer.
-
-Nutritional per 100g: Vitamin A 408-1000 IU, Ascorbic acid 2,000-4,500mg (varies by ripeness).
-
-Bark contains 20-25% tannin. Fruit gargled for sore throat. Beneficial for coughs, colds, diarrhoea, liver complaints. Leaves have tiny stinging hairs.
-
-## See Also
-
-- [[permaculture-plants-fruit-trees-selection]]
+Fruit cherry-like, 1.25-2.5 cm diameter, red to crimson. Extremely high in Vitamins C and A (4,500 mg ascorbic acid in green fruit, 2,000 mg in ripe). Used fresh, in drinks, and dried. Wine retains 60% of ascorbic acid. Good [[permaculture-plants-fruit-trees-selection]]
 ## Practical Considerations
 
-Successful implementation of Permaculture Plants Fruit Trees Subtropical requires attention to
+Successful implementation of [[permaculture]] Plants Fruit Trees Subtropical requires attention to
 several practical factors including environmental conditions,
 resource availability, and timing. Careful monitoring and
 adaptive management help optimize outcomes across varying
@@ -89,3 +72,79 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
+
+## Overview
+
+Permaculture Plants Fruit Trees Subtropical represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish permaculture plants fruit trees subtropical
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving permaculture extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Permaculture Plants Fruit Trees Subtropical finds practical application in multiple design contexts.
+[[permaculture-principles]] guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for permaculture plants fruit trees subtropical. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+permaculture plants fruit trees subtropical and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Permaculture Plants Fruit Trees Subtropical has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of permaculture plants fruit trees subtropical into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.

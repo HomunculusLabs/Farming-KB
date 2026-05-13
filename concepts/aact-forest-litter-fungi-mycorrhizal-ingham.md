@@ -48,58 +48,19 @@ The tea serves as a carrier for even distribution, but the spores should not be 
 
 ### Why Mycorrhizal Fungi Are Different
 
-Mycorrhizal fungi (both vesicular-arbuscular mycorrhizae and ectomycorrhizae) form [[fungi-in-the-environment-symbiotic-relationships]] with plant roots. They require root exudates to initiate colonization and do not grow freely in soil or tea the way saprophytic fungi like Trichoderma do. Their biology makes them incompatible with the high-agitation [[chamovitz-circadian-rhythm-internal-clock-plants]] environment.
+Mycorrhizal fungi (both vesicular-arbuscular mycorrhizae and ectomycorrhizae) form [[chamovitz-circadian-rhythm-internal-clock-plants]] environment.
 
 ### Research Resources
 
 Ingham references several key researchers in mycorrhizal science:
-- **Dr. Robert Lindeman** — pioneer in [[isotopic-tracers-mycorrhizal-research]]
-- **Mike Allen and Edie Allen** at UC Riverside — authors of major works on vesicular-arbuscular mycorrhizal (VAM) fungi
-- These researchers have published extensively on VAM benefits to crops, vegetables, and annual plants
-
-### Soil Conditions for Mycorrhizal Establishment
-
-For mycorrhizal fungi to colonize effectively, soil conditions must support fungal growth:
-- Adequate oxygen (avoid anaerobic conditions)
-- Minimal disturbance (tillage damages [[arbuscular-mycorrhizal-networks]])
+- **Dr. Robert Lindeman** — pioneer in [[arbuscular-mycorrhizal-networks]])
 - Appropriate fungal-to-bacterial ratio in the soil food web
 - Plant roots producing suitable exudates to signal fungal colonization
 
 ### Ectomycorrhizal Considerations
 
-Ectomycorrhizal fungi are particularly important for conifer and hardwood forest trees. Ingham references research on ectomycorrhizal fungi for conifers, noting that different plant families associate with different mycorrhizal types. Understanding the target plant's [[plants-without-mycorrhizal-associations]] is essential for effective inoculation.
-
-## Actinobacteria (Actinomycetes) — A Double-Edged Sword
-
-### What Are Actinobacteria?
-
-Despite their filamentous growth pattern that resembles fungi, actinobacteria are actually bacteria, not fungi. They are single cells arranged in filamentous strands. The genus Streptomyces is a well-known member of this group.
-
-### Potential Benefits
-
-Some laboratory research (primarily petri plate studies) has suggested that actinobacteria can have suppressive effects on certain soilborne diseases. In degraded soils with very poor soil food web structure, adding actinobacteria may provide some disease suppression benefit.
-
-### Significant Risks
-
-Ingham strongly cautions against adding actinobacteria to compost tea or compost for several reasons:
-
-1. **Mycorrhizal suppression** — Actinobacteria have been shown to suppress both vesicular-arbuscular mycorrhizal (VAM) and ectomycorrhizal fungi. If your plants require mycorrhizal associations, adding actinobacteria is counterproductive.
-
-2. **Petri plate vs. field reality** — Much of the research showing actinobacterial benefits was done on petri plates, which has limited transferability to field conditions. Many microbial interactions observed in laboratory settings never occur in real soil environments.
-
-3. **Soil food web disruption** — Adding actinobacteria can shift the soil microbial community away from the true bacteria and beneficial fungi that support healthy plant growth. This shift can prevent the soil from progressing toward a more complex, stable food web structure.
-
-## Practical Applications
-Aact Forest Litter Fungi Mycorrhizal Ingham has significant applications in sustainable agriculture, ecological design, and regenerative practices. Practitioners and researchers continue to explore innovative methods for implementing these concepts in diverse climates and scales of operation.
-
-## Historical Significance
-The development and understanding of aact forest litter fungi mycorrhizal ingham has evolved considerably over recent decades, with contributions from researchers, practitioners, and indigenous knowledge systems worldwide.
-
-## See Also
-- [[aact-natural-growth-regulators-bacteria-fungi-humus-cycle-ingham]]
-- [[aact-calcium-fungi-interaction-nutrient-bioavailability-ingham]]
+Ectomycorrhizal fungi are particularly important for conifer and hardwood forest trees. Ingham references research on ectomycorrhizal fungi for conifers, noting that different plant families associate with different mycorrhizal types. Understanding the target plant's [[aact-natural-growth-regulators-bacteria-fungi-humus-cycle-ingham]]
 - [[ingham-trichoderma-biocontrol-fungi-aact]]
-- [[fungi-forest-fire-succession-litter-dighton]]
 - [[arbuscular-mycorrhizal-fungi-in-tropical-forest-restoration]]
 
 ## Key Considerations
@@ -124,8 +85,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[mycorrhizal-fungi]]
 - [[ectomycorrhizal-fungi]]
-- [[saprophytic-fungi]]
 - [[mycorrhizal-types]]
 - [[elaine-ingham]]

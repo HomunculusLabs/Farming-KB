@@ -11,26 +11,7 @@ sources: [raw/papers/grahamholmes-what-a-plant-knowsindd.md]
 
 ## Overview
 
-Plants possess a sophisticated array of photoreceptor proteins that allow them to perceive light across a broader spectral range than human eyes. While humans see only the visible spectrum (approximately 400-700 nm) using rod and cone cells, plants have evolved specialized photoreceptors that detect ultraviolet, blue, red, and far-red light. These receptors drive virtually every aspect of plant development — from seed germination to flowering — and operate through distinct molecular mechanisms. The three [[ascomycota-phylogeny-major-classes-lineages]] of plant photoreceptors are phytochromes (red/far-red), cryptochromes (blue/UV-A), and phototropins (blue light).
-
-## Comparison to Animal Vision
-
-Understanding plant photoreception requires appreciating how it differs from and in some ways exceeds animal vision:
-
-- **Human photoreceptors**: Rods (all light, night vision) and three types of cones (red, green, blue) — approximately 125 million rods and 6 million cones on a retina the size of a passport photo
-- **Plant photoreceptors**: Multiple receptor families spanning UV-B to far-red (280-750 nm), distributed throughout the plant body rather than concentrated in a single organ
-- **Key difference**: Plants don't form images; instead, they perceive light intensity, direction, color, and duration to guide developmental decisions
-
-Plants can detect ultraviolet light (which gives us sunburn), infrared/far-red light (which we feel as heat), extremely low light levels (from a candle), the direction of light sources, whether another plant is shading them, and precisely how long the dark period has lasted. By any reasonable definition, this constitutes a form of vision — one that is in many ways more informationally rich than our own.
-
-## Phytochromes: Red and Far-Red Sensors
-
-### Structure and Function
-
-Phytochromes are the primary photoreceptors for red (660 nm) and far-red (730 nm) light. They are large proteins (~125 kDa) consisting of:
-
-- An N-terminal photosensory domain that covalently binds a chromophore called **phytochromobilin** (a linear tetrapyrrole related to the heme group in hemoglobin)
-- A C-terminal output domain with [[gadd-two-component-signalling-histidine-kinase-fungi]] activity that initiates signaling cascades
+Plants possess a sophisticated array of photoreceptor proteins that allow them to perceive light across a broader spectral range than human eyes. While humans see only the visible spectrum (approximately 400-700 nm) using rod and cone cells, plants have evolved specialized photoreceptors that detect ultraviolet, blue, red, and far-red light. These receptors drive virtually every aspect of plant development — from seed germination to flowering — and operate through distinct molecular mechanisms. The three [[gadd-two-component-signalling-histidine-kinase-fungi]] activity that initiates signaling cascades
 
 ### The Pr/Pfr Switch
 
@@ -47,8 +28,7 @@ Arabidopsis has five phytochrome genes (PHYA-PHYE) with distinct roles:
 
 | Gene | Peak Sensitivity | Primary Functions |
 |---|---|---|
-| PHYA | Far-red continuous | Seedling de-etiolation, [[phytochrome-red-far-red-ratio-shade-detection-plants]] under canopy |
-| PHYB | Red/far-red reversible | Photoperiodic flowering, [[shade-avoidance-syndrome]], seed germination |
+| PHYA | Far-red continuous | Seedling de-etiolation, [[shade-avoidance-syndrome]], seed germination |
 | PHYC | Red | Modulates flowering time, interacts with PHYB |
 | PHYD | Red | Redundant with PHYB for shade avoidance |
 | PHYE | Red/far-red | Far-red high-irradiance responses |
@@ -61,13 +41,7 @@ Phytochromes regulate an enormous range of plant processes:
 - **De-etiolation**: When a seedling emerges from soil, phytochrome detects light and switches from etiolated (pale, elongated) to green, photosynthetically competent growth
 - **Shade avoidance**: Low red:far-red ratio (caused by canopy filtering) triggers stem elongation and leaf hyponasty
 - **Photoperiodic flowering**: Pfr reversion during the night measures dark period length
-- **Circadian clock entrainment**: Phytochrome signals help synchronize the plant's [[chrysanthemum-coronarium]] to external light-dark cycles
-
-## Cryptochromes: Blue and UV-A Sensors
-
-### Structure and Function
-
-Cryptochromes are flavoprotein photoreceptors that absorb blue light (~450 nm) and UV-A light (~320-400 nm). They share [[psilocybin-serotonin-structural-homology-endogenous-familiarity-argument]] with DNA photolyases (enzymes that repair UV-damaged DNA) but have lost DNA repair function and instead serve as photoreceptors.
+- **Circadian clock entrainment**: Phytochrome signals help synchronize the plant's [[psilocybin-serotonin-structural-homology-endogenous-familiarity-argument]] with DNA photolyases (enzymes that repair UV-damaged DNA) but have lost DNA repair function and instead serve as photoreceptors.
 
 The chromophore is **flavin adenine dinucleotide (FAD)**, the same cofactor used in many metabolic enzymes. In Arabidopsis, two cryptochromes have been well characterized:
 
@@ -135,7 +109,6 @@ Understanding plant photoreceptors directly informs grow light selection and lig
 
 ## Related Concepts
 
-- [[photoperiodism-phytochrome-red-far-red]]
 - [[plant-phototropism-darwin-experiments]]
 - light spectrum grow lights photosynthesis
 - par ppfd light measurement grow lights

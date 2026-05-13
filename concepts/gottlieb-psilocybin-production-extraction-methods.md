@@ -10,37 +10,7 @@ tags: [psilocybin]
 
 Gottlieb's Psilocybin Extraction Methods
 
-The book "gottlieb psilocybin production extraction methods" by Gottlieb (with a legal update by Richard Glen Boire) provides complete instructions for cultivating psilocybin-bearing mushroom mycelium and extracting the active alkaloids psilocybin and psilocin. The extraction method described uses methanol as the primary solvent and produces a crude alkaloid preparation of approximately 25-50% purity. The book also references PF's [[pf-tek-alcohol-extraction-method]] technique using 200-proof ethanol.
-
-The Methanol Extraction Method
-
-The starting material is dried mycelium from liquid broth cultivation. The dried mycelial material is crumbled and pulverized, then combined with absolute methanol at a ratio of 100 mg of material per 10 ml of solvent in a flask. The flask is placed in a hot water bath for four hours. The liquids are then filtered with suction through filter paper in a Buchner funnel using Celite to prevent clogging.
-
-The filtrate is collected and saved. The remaining slurry (mush in the filter paper) is extracted two more times with fresh methanol using the same hot water bath procedure. The liquids from all three extractions are combined.
-
-Completeness Test
-
-To verify that all alkaloids have been extracted, a small test extraction of a portion of the used slurry is performed using Keller's Reagent (glacial acetic acid, ferrous chloride, and concentrated sulfuric acid). A violet indication means alkaloids are still present and further extraction is needed.
-
-Evaporation
-
-The combined extraction liquids are evaporated to total dryness in an open beaker using a hot water bath or hair dryer. All traces of methanol must be removed. The remaining residue contains approximately 25-50% psilocybin/psilocin mixture.
-
-Yield
-
-Each 100 grams of dried mycelium yields approximately 2 grams of extracted material, which contains at least 500 mg of a psilocybin/psilocin mixture -- roughly fifty 10 mg doses. A single Mason jar of cultivation broth typically yields about 50 grams of wet mycelium, which dries to approximately 5 grams, producing 25-35 mg of psilocybin/psilocin or roughly 2-3 doses.
-
-The Mycelium Cultivation Source
-
-The extraction follows a complete mycelium cultivation process. Spores or tissue from a psilocybin-bearing mushroom are inoculated onto agar medium (PDYA or MEA) to develop stock cultures. The most vigorous mycelia are selected and transferred to liquid PDY broth in Mason jars, where they grow for 10-12 days at 70-75 degrees F. Jars are shaken every 2-3 days to aerate and disperse the mycelium.
-
-The mycelium is harvested by filtering the broth through flannel cloth, collecting the mycelial material, and drying it in an oven at no more than 200 degrees F. Each cultivation jar yields 50-100 grams of wet mycelium, which contains about 90% water and dries to 5-10 grams. Drying should occur within a few hours of harvesting to prevent enzymatic destruction of the active alkaloids. Undried mycelium can be refrigerated for a day or two or frozen for longer storage.
-
-The saccharimeter is used to follow the growth process. Maximum growth and highest psilocybin content occur about four days after all the broth's sugar content has been consumed, making this the optimal harvest time.
-
-Factors Affecting Yield
-
-Several variables affect alkaloidal content and extraction efficiency. Different psilocybin-bearing species contain different alkaloid levels; [[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]] is described as the most potent and most easily cultivated. Cultivation temperature influences potency: higher temperatures (75 degrees F) cause faster growth but lesser psilocybin content than lower temperatures (70 degrees F). Strain variation and cultivation conditions also affect yield. Each batch of extracted material must be tested to determine proper dosing.
+The book "gottlieb psilocybin production extraction methods" by Gottlieb (with a legal update by Richard Glen Boire) provides complete instructions for cultivating psilocybin-bearing mushroom mycelium and extracting the active alkaloids psilocybin and psilocin. The extraction method described uses methanol as the primary solvent and produces a crude alkaloid preparation of approximately 25-50% purity. The book also references PF's [[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]] is described as the most potent and most easily cultivated. Cultivation temperature influences potency: higher temperatures (75 degrees F) cause faster growth but lesser psilocybin content than lower temperatures (70 degrees F). Strain variation and cultivation conditions also affect yield. Each batch of extracted material must be tested to determine proper dosing.
 
 Dosage
 
@@ -54,33 +24,14 @@ Paper Chromatography Identification
 
 The book describes a relatively simple test for confirming the presence of psilocybin and psilocin in mushroom samples using paper chromatography. The dried, pulverized mushroom sample is extracted into unheated methanol by shaking for half an hour. The extract is spotted on paper and treated with water-saturated butanol for about 2 hours. After drying with a hair dryer, the outer zone is sprayed with p-dimethyl-aminobenzaldehyde in alcohol and then with 1 N hydrochloric acid. Psilocybin produces a reddish color; psilocin produces a blue-violet zone.
 
-[[field-guide-psilocybin-bluing-reaction-identification]] Limitations
-
-Gottlieb cautions against relying on the common bluing reaction (breaking the flesh and waiting for blue coloration) as a definitive test for psilocybin-bearing mushrooms. While most psilocybin-bearing species respond positively, other species may also blue, including the poisonous Eastwood Boletus. A Metol test (used in photo developers) accelerates bluing but also responds to any indolic substance, including tryptophan found in most living organisms, making it unreliable.
-
-PF's Alcohol Extraction Method
-
-The book also references an alcohol extraction technique attributed to PF ([[pf-tek-psilocybe-fanaticus-cultivation-method]]) using 200-proof ethyl alcohol. Dried mushrooms are pulverized, covered with alcohol to make a loose slurry, and soaked for 24 hours with periodic shaking. The alcohol is filtered off and the process repeated with fresh alcohol. The combined extracts are evaporated using a small fan to concentrate the solution. The resulting "psilo-liqueur" is stored in small bottles in the freezer. PF recommended 1 to 3 or more grams of dried mushroom material per ounce of final extract as a potent concentration.
+[[pf-tek-psilocybe-fanaticus-cultivation-method]]) using 200-proof ethyl alcohol. Dried mushrooms are pulverized, covered with alcohol to make a loose slurry, and soaked for 24 hours with periodic shaking. The alcohol is filtered off and the process repeated with fresh alcohol. The combined extracts are evaporated using a small fan to concentrate the solution. The resulting "psilo-liqueur" is stored in small bottles in the freezer. PF recommended 1 to 3 or more grams of dried mushroom material per ounce of final extract as a potent concentration.
 
 Legal Considerations
 
-Gottlieb notes that psilocybin and psilocin are Schedule I controlled substances under Title 21 of the US Code. The legal update by Richard Glen Boire clarifies that no Psilocybe species are outlawed by name in federal law, but prosecutors have used the "mixture or preparation" provision to argue that mushrooms containing these compounds are illegal "containers" of controlled substances. Boire argues this is a preposterous interpretation that could theoretically outlaw [[sacred-mexican-morning-glories-ololiuqui-and-tlitliltzin]] (which contain lysergic acid amide) or even human brains (which produce DMT). The extraction process described is explicitly illegal in the United States. Spore prints are generally legal under federal law since spores do not contain psilocybin or psilocin, though California uniquely prohibits spore distribution for cultivation purposes.
-
-Greater Purification
-
-Gottlieb notes that higher purification beyond the crude extraction is possible but would require additional solvents and chromatography equipment. He considers this "hardly necessary" for the purposes described, as the 25-50% crude preparation provides usable material with straightforward methodology.
-
-## See Also
-
-- [[phosphorylation-methods-psilocybin-production-comparison]]
-- [[shulgin-future-drugs]]
-- gordon-wasson
+Gottlieb notes that psilocybin and psilocin are Schedule I controlled substances under Title 21 of the US Code. The legal update by Richard Glen Boire clarifies that no Psilocybe species are outlawed by name in federal law, but prosecutors have used the "mixture or preparation" provision to argue that mushrooms containing these compounds are illegal "containers" of controlled substances. Boire argues this is a preposterous interpretation that could theoretically outlaw [[phosphorylation-methods-psilocybin-production-comparison]]
 - [[pf-tek-psilocybe-fanaticus-cultivation-method]]
-- [[gottlieb-psilocybin-cultivation-harvesting-and-drying]]
 - [[mycelium-running-filtering-water-with-fungi]]
-- [[psilocybin-potency-dosage-guide]]
 - [[turner-harmala-alkaloids-preparation-and-dosage]]
-- [[mycelial-broth-alkaloid-production]]
 - [[psilocybin-methyl-alcohol-extraction-technique]]
 
 ## Practical Applications
@@ -112,8 +63,88 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[psilocybin]]
 - [[tryptophan]]
-- [[psilocin]]
 - [[det]]
 - [[methanol]]
+
+## Overview
+
+Gottlieb Psilocybin Production Extraction Methods represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish gottlieb psilocybin production extraction methods
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving gottlieb extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Gottlieb Psilocybin Production Extraction Methods finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for gottlieb psilocybin production extraction methods. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+gottlieb psilocybin production extraction methods and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Gottlieb Psilocybin Production Extraction Methods has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of gottlieb psilocybin production extraction methods into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[gottlieb-peyote-extraction-and-preparation-methods]]
+- [[gottlieb-peyote-legal-status-and-conservation]]

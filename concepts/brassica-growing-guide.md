@@ -82,7 +82,7 @@ Brassicas are typically started indoors and transplanted, rather than direct-sow
 ### Soil Preparation
 - Rich, fertile soil with plenty of organic matter
 - pH 6.0-7.0
-- Brassicas are heavy feeders — work in 2-3 inches of compost plus balanced [[complete-organic-fertilizer-cof]]
+- Brassicas are heavy feeders — work in 2-3 inches of compost plus balanced organic fertilizer
 - Ensure adequate calcium to prevent clubroot
 - Avoid following other brassicas in the same bed (3-4 year rotation minimum)
 
@@ -95,14 +95,14 @@ Brassicas are notorious for attracting pests. Prevention and early intervention 
 - Green caterpillars chew holes in leaves and bore into heads
 - Management:
   - Floating row covers prevent egg-laying (most effective)
-  - [[bacillus-thuringiensis]] (Bt) applied to leaves kills caterpillars
+  - Bacillus thuringiensis (Bt) applied to leaves kills caterpillars
   - Handpick caterpillars in small plantings
   - Companion plant with thyme, dill, or mint (may deter egg-laying)
   - Neem oil or spinosad sprays as secondary options
 
 ### Cabbage Loopers
 - Similar to cabbage worms but move in a looping motion
-- Same [[weed-management-strategies]] as cabbage worms
+- Same management strategies as cabbage worms
 
 ### Diamondback Moth
 - Small moths; larvae feed on undersides of leaves
@@ -135,16 +135,16 @@ Brassicas are notorious for attracting pests. Prevention and early intervention 
 2. Monitor regularly by checking undersides of leaves
 3. Handpick large caterpillars
 4. Apply Bt at first sign of caterpillar damage
-5. Encourage [[hamilton-beneficial-insects-and-biological-pest-control]] with flowering companion plants
+5. Encourage beneficial insects with flowering companion plants
 6. Rotate crops to break pest cycles
 7. Clean up crop residue at end of season to reduce overwintering pests
 
 ## Cold Tolerance
 
-Brassicas are among the most cold-tolerant vegetable families.
+## See Also
 
-### Frost Tolerance by Crop
-- **Kale**: Hardy to 10F; flavor improves with frost
-- **Brussels Sprouts**: Hardy to 0-10F; best after several frosts
-- **Collards**: Hardy to 10F; similar to kale
-- **Cabbage**: Hardy to 20F; late varieties can survive to 10F
+- [[coleman-winter-kale-brassica-cold-house-management]]
+- [[brassica-juncea]]
+- [[hamilton-brassica-growing-organic]]
+- [[brassica-napus]]
+- [[biofumigation-and-brassica-cover-crops-for-pest-management]]

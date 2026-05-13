@@ -21,11 +21,7 @@ sources:
 
 ## Overview
 
-Dimocarpus longan, commonly known as longan or dragon's eye, is an evergreen tropical to [[mollison-designers-avocado-mango-and-subtropical-tree-crops]] in the family Sapindaceae. It is closely related to lychee (Litchi chinensis) and rambutan (Nephelium lappaceum), and is native to the region spanning southern China, Myanmar, and northern Thailand.
-
-The fruit is a small, round drupe with a thin brown shell, translucent white aril, and a single large glossy black seed. The aril is sweet and musky, widely consumed fresh, dried, or canned. China and Thailand dominate global production, with China alone producing over 2 million tonnes annually.
-
-In Traditional Chinese Medicine (TCM), the dried aril (longan yan, 桂圆肉) is used as a tonic for blood deficiency, insomnia, and palpitations. Longan is one of the most economically important subtropical fruits in [[psilocybe-southeast-asia-pacific]].
+Dimocarpus longan, commonly known as longan or dragon's eye, is an evergreen tropical to [[psilocybe-southeast-asia-pacific]].
 
 ## Taxonomy and Morphology
 
@@ -59,32 +55,89 @@ The longan aril is primarily composed of water (80–83%), carbohydrates (15–1
 
 Longan polysaccharides, extracted from the aril, have demonstrated notable immunomodulatory and antioxidant activities in vitro and in animal models. These water-soluble polysaccharides are a major focus of modern pharmacological research.
 
-Dried longan aril (longan yan) is significantly more concentrated in sugars (approximately 70% by weight), iron, and certain [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]] compared to the fresh fruit. It is a staple in Chinese tonic soups and desserts.
+Dried longan aril (longan yan) is significantly more concentrated in sugars (approximately 70% by weight), iron, and certain [[hamilton-composting-and-organic-matter-management]] content. It is moderately drought-tolerant once established but produces best yields with consistent irrigation during fruit development.
 
-The drying process concentrates both nutrients and bioactive compounds, making the dried form preferred for both culinary and medicinal applications. Commercial drying is typically done by hot-air drying at 55–65°C to preserve color and bioactivity.
-
-## Cultivation
-
-Longan thrives in tropical and subtropical climates with mean annual temperatures of 20–30°C. It requires distinct seasonal temperature variation for reliable flowering, with cool dry winters (15–20°C) and warm wet summers.
-
-The tree prefers well-drained, slightly acidic soils (pH 5.5–6.5) with high [[hamilton-composting-and-organic-matter-management]] content. It is moderately drought-tolerant once established but produces best yields with consistent irrigation during fruit development.
-
-Propagation is primarily by air-layering (marcotting) or grafting onto seedling rootstock. [[jeavons-seed-propagation-techniques]] produces variable offspring and is used mainly for rootstock production. Trees begin bearing at 3–5 years from planting.
-
-Major commercial cultivars include 'Shixia', 'Chuliang', and 'Dawuyuan' in China, and 'Baidum' and 'Edor' in Thailand. Harvest occurs from July to September in the Northern Hemisphere.
-
-China accounts for approximately 60% of global production, followed by Thailand (25%), Vietnam (10%), and smaller contributions from India, Australia, and the United States (Florida, Hawaii). Global production exceeds 3 million tonnes annually.
-
-## Traditional Medicine
-
-In TCM, the dried longan aril is classified as sweet and warm. It enters the heart and spleen meridians and is used to tonify heart blood, calm the spirit (shen), and strengthen the spleen.
-
-Standard TCM dosage is 9–15 g of dried aril per decoction. It is commonly combined with red dates (Ziziphus jujuba) in formulas such as Gui Pi Tang (Restore the Spleen Decoction) for insomnia, anxiety, and poor memory.
-
-In Vietnamese traditional medicine, longan seed is used as a diuretic and for reducing swelling. The seeds are roasted, ground, and consumed as a tea. The root bark has been used topically for [[cannabis-for-skin-conditions-detailed]].
+Propagation is primarily by air-layering (marcotting) or grafting onto seedling rootstock. [[cannabis-for-skin-conditions-detailed]].
 
 In Thai folk medicine, the dried flowers are used as a carminative and for reducing fever. Longan leaf infusions are applied as an eyewash for conjunctivitis in rural Thai communities.
 
 Modern research has investigated longan polysaccharides for their effects on immune cell proliferation, anti-fatigue activity in mice, and neuroprotective properties in cell culture models.
 
 Clinical validation remains limited, though a few small human trials have reported improvements in sleep quality and subjective well-being after daily consumption of dried longan aril over 4–8 weeks. Larger randomized controlled trials are needed.
+
+## Overview
+
+Dimocarpus Longan represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish dimocarpus longan
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving dimocarpus extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Dimocarpus Longan finds practical application in multiple design contexts.
+[[permaculture-principles]] guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for dimocarpus longan. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+dimocarpus longan and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Dimocarpus Longan has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of dimocarpus longan into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.

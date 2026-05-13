@@ -16,11 +16,7 @@ type: concept
 
 # Fungal Biomass and Production in Aquatic Ecosystems
 
-Fungi play major roles in decomposition and [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] across a
-range of aquatic ecosystems, from salt marshes to freshwater streams.
-Their biomass often exceeds that of bacteria on decomposing leaf litter
-in aquatic systems, and they serve as critical links between detritus
-and higher [[ingham-soil-foodweb-trophic-levels-protozoa-nematodes]] through their support of invertebrate
+Fungi play major roles in decomposition and [[ingham-soil-foodweb-trophic-levels-protozoa-nematodes]] through their support of invertebrate
 populations.
 
 ## Salt Marsh Decomposition
@@ -53,29 +49,12 @@ fungal biomass.
 ## Mangrove Swamp Fungi
 
 Mangrove swamps are tropical equivalents of temperate salt marshes.
-High rates of [[lichens-primary-production-soil-formation-dighton]] produce copious detritus supporting
-diverse detritivore fungi, bacteria, and fauna. Mangrove fungi are
-almost exclusively saprotrophic, consisting of some 23 ascomycete
-species, 17 mitosporic species, and two basidiomycetes. Fungal biomass
-in decaying mangrove leaves is much lower than in salt marsh vegetation
-(less than 1 mg per gram compared to 60 to 85 mg per gram).
-
-Newell and Fell (1992) showed significant changes in fungal biomass
-during mangrove leaf decomposition. Ergosterol content rose from less
-than 1 mg per gram in live leaves to 19 mg per gram at the red-brown
-stage (30% mass loss) to 85 mg per gram when black and submerged (40
-to 60% mass loss). Mangrove leaves rapidly accumulate oomycete fungi
-(Halophytophthora spp.), followed by ascomycete species dominated by
-Lulworthia grandispora.
-
-Export of plant detritus from mangroveys to oceans transfers 60 to 260
-tons per year of carbon, mainly as [[dighton-fungal-dissolved-organic-carbon-production]] carbon. Fungi play
+High rates of [[dighton-fungal-dissolved-organic-carbon-production]] carbon. Fungi play
 a major role in this decomposition and nutrient mineralization.
 
 ## Freshwater Stream Ecosystems
 
-More than 600 species of [[aquatic-fungi-and-ingoldian-spores]] exist, many with specific
-morphological and physiological adaptations. [[freshwater-fungi-aquatic-hyphomycetes-ascomycetes]] occur
+More than 600 species of [[freshwater-fungi-aquatic-hyphomycetes-ascomycetes]] occur
 on almost all substrates in freshwater systems. Fungal biomass is
 usually greater than bacterial biomass on decomposing leaf litter in
 aquatic ecosystems. Plant litter inputs into headwater streams can reach
@@ -84,9 +63,7 @@ aquatic ecosystems. Plant litter inputs into headwater streams can reach
 Terrestrial fungi entering streams are unable to macerate submerged
 resources. Aquatic fungal species with tetraradiate and sigmoid spores
 colonize plant litter more efficiently than rounded terrestrial spores
-adapted for wind dispersal. [[dighton-litter-quality-fungal-decomposition-rates]] are reduced in mixed-
-species fungal assemblages compared to single species, attributed to
-production of [[antimicrobial-compounds-mushroom-mycelium]] causing non-nutritional
+adapted for wind dispersal. [[antimicrobial-compounds-mushroom-mycelium]] causing non-nutritional
 competition.
 
 ## Practical Applications
@@ -118,8 +95,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[dom]]
 - [[det]]
-- [[spore]]
 - [[lichens]]
 - [[mycelium]]

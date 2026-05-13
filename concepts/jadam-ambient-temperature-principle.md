@@ -11,77 +11,8 @@ sources:
 
 ## Overview
 
-JADAM's third principle of input making: always culture microorganisms and make [[solomon-liquid-fertilizers-and-foliar-feeding]] at ambient temperature -- the same temperature as the crops' environment. This principle rejects the widely promoted practice of maintaining fixed temperatures (typically 32C/89.6F) using heaters and controlled environments.
-
-## Why Fixed Temperature Is Wrong
-
-### The Diversity Argument
-
-Soil microbiology identifies five categories of microorganisms by temperature preference:
-- Psychrophiles: prefer ~10C (50F)
-- Psychrotrophiles: prefer ~22C (71.6F)
-- Mesophiles: prefer ~32C (89.6F)
-- Thermophiles: thrive at ~65C (149F)
-- Hyperthermophiles: love ~95C (203F)
-
-If you culture microorganisms at a constant 32C, you only grow mesophiles. The plants, however, experience fluctuating temperatures throughout the year. You have effectively excluded all microorganisms that prefer temperature ranges outside 32C -- microbes that could help crops during cooler or warmer periods.
-
-### The Adaptation Argument
-
-Microorganisms are super-sensitive to temperature. When you make inputs at a fixed temperature different from the crop's environment, you are producing a "foreign chef" for your crops. The microorganisms that become most active in the crop's actual environment will be different from those you cultured.
-
-Changes in temperature cause changes in microorganisms, and changes in microorganisms cause changes in nutrients. You want the right microorganisms -- those already adapted to your local conditions.
-
-### The Common Sense Argument
-
-How did nature cultivate microorganisms before humans existed? How did our ancestors produce liquid fertilizers without electricity and heaters? The answer: everything worked at ambient temperature. Will a disaster occur if you ignore the "temperature condition"? No -- your inputs will turn out just fine, possibly better.
-
-## Practical Application
-
-- For field crops: make inputs outdoors
-- For protected crops (greenhouses): make inputs inside the greenhouse
-- Place containers in the same environment as the crops
-- Use old rubber drums, bins, and containers -- they all become useful
-- No temperature sensors, heaters, or insulation needed (except below 18C)
-
-## Low Temperature Cultivation
-
-When water temperature drops below 18C (64.4F), use mild heating:
-- Wrap container with insulation on all sides (bottom, side, top)
-- Use 3kW heater for 500L container, 1.5kW for 100-300L
-- Set to 20C (68F) to culture cold-adapted microbes that survive sub-zero temperatures
-- At 20C, microbes active in low temperatures will propagate alongside others
-
-## Bubble Size Indicates Temperature
-
-An interesting observation: when culturing microorganisms at lower temperatures, the bubbles on the liquid surface are much tinier. This is not a failure -- low-temperature-loving microbes are simply smaller in body size, just as animals range from elephants to ants.
-
-## The Commercial Trap
-
-The temperature requirement drives a cascade of purchases:
-1. Sheath heater to warm liquid
-2. Agitator because heaters do not heat evenly
-3. Heat-insulating container for stable temperature
-4. Air pumps for aeration
-5. Lights for photosynthetic microorganisms
-6. Timers, sensors, and controllers
-
-Machines range from a few hundred to several hundred thousand dollars. Government subsidies flow to equipment manufacturers, not farmers. Rich farmers buy machines, less well-off farmers buy end-products. Either way, money leaves the farm.
-
-JADAM's assessment: "Liquid fertilizer machine is a useless piece of metal; all it does is cause financial burden and headaches."
-
-## What Nature Teaches
-
-"Your best course of action once again is to ask nature. Do as nature does. Culture your microorganisms in conditions that are the same as the conditions your crops are in. You do not need temperature sensors for this."
-
-The result: crop-tailored microorganisms and fertilizers that are genuinely adapted to the local environment. The microorganisms become the "chef" -- and you want the chef that knows your crops' conditions best.
-
-## See Also
-
-- [[jadam-anaerobic-fermentation]] -- principle 1
-- [[jadam-liquid-fertilizer]] -- liquid fertilizer at ambient temperature
+JADAM's third principle of input making: always culture microorganisms and make [[jadam-anaerobic-fermentation]] -- principle 1
 - [[teaming-with-nutrients-fertilizer-application]]
-- [[teaming-with-microbes-mites-and-soil-arthropod-predators]]
 - [[fukuoka-weed-diversity-soil-nutrients]]
 
 ## Practical Applications
@@ -113,8 +44,91 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[jadam-autumn-fertilization-principle]]
 - [[jadam-cover-crop-soil-temperature-management]]
-- [[fukuoka-textdoc-no-fertilizer-principle-natural-soil-fertility]]
 - [[fukuoka-no-pesticides-principle-seeing-nature-wholistic]]
 - [[fukuoka-no-cultivation-principle]]
+
+## Overview
+
+Jadam Ambient Temperature Principle represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish jadam ambient temperature principle
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving jadam extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Jadam Ambient Temperature Principle finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for jadam ambient temperature principle. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+jadam ambient temperature principle and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Jadam Ambient Temperature Principle has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of jadam ambient temperature principle into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[jadam-herb-solution-jhs]]
+- [[jadam-natural-mineral-water]]
+- [[jadam-potassium-fertilizer]]
+- [[jadam-rice-bakanae-treatment]]
+- [[jadam-soil-management-no-till-and-weed-control]]

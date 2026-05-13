@@ -12,62 +12,9 @@ sources:
   - Neuffer, B. (2011). "Capsella." In: Wild Crop Relatives: Genomic and Breeding Resources. Springer.
   - Xu, L. et al. (2019). "Traditional Chinese medicine Capsella bursa-pastoris: a review of phytochemistry and pharmacology." Journal of Ethnopharmacology, 245, 112177.
   - Holm, L. et al. (1997). World Weeds: Natural Histories and Distribution. John Wiley & Sons.
-  - Duke, J.A. (2002). Handbook of [[medicinal-herbs-for-livestock]]. CRC Press, 2nd edition.
----
+  - Duke, J.A. (2002). Handbook of [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]] worldwide.
 
-Capsella bursa-pastoris, known as shepherd's purse, is a small annual or biennial herb in the family Brassicaceae. It is one of the most widespread flowering plants on Earth, found on every continent except Antarctica.
-
-The species is native to Europe and western Asia but has been introduced globally through human activity. It thrives in disturbed soils, cultivated fields, roadsides, and waste ground.
-
-Shepherd's purse has a long history of use in both European folk medicine and traditional Chinese medicine. The common name refers to the distinctive heart-shaped seed pods that resemble the leather pouches once carried by shepherds.
-
-## Taxonomy and Morphology
-
-Capsella bursa-pastoris (L.) Medik. belongs to the family Brassicaceae, tribe Capselleae.
-
-The genus name derives from the Latin "capsa" meaning box, referring to the seed pod shape. The specific epithet "bursa-pastoris" translates to "shepherd's pouch."
-
-The species was first described by Linnaeus as Bursa pastoris in 1753. Medikus transferred it to Capsella in 1792.
-
-Several infraspecific taxa have been described but are not widely accepted due to the species' extreme phenotypic plasticity. Molecular studies suggest Capsella is closely related to Arabidopsis within the Brassicaceae phylogeny.
-
-The plant typically grows 5 to 50 cm tall from a rosette of basal leaves.
-
-Basal leaves are deeply lobed or pinnatifid, 2 to 10 cm long, forming a dense cluster at ground level. Cauline leaves are alternate, clasping the stem with arrow-shaped bases, and progressively smaller toward the inflorescence.
-
-Flowers are small, white, and arranged in terminal racemes. Each flower has four petals, 2 to 3 mm long, and six stamens (four long, two short).
-
-The distinctive fruit is a heart-shaped or triangular silicula, 5 to 10 mm long, containing numerous small orange-brown seeds. The silicula is flattened and notched at the apex, producing the characteristic purse shape.
-
-Root architecture consists of a prominent taproot with branching lateral roots. This root system allows the plant to access water and nutrients from deeper soil layers.
-
-Flowers are small, white, and arranged in terminal racemes.
-
-## Distribution and Habitat
-
-Capsella bursa-pastoris is a cosmopolitan weed distributed across all continents except Antarctica. It is particularly abundant in [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]] worldwide.
-
-In [[guzman-psilocybin-mushrooms-north-america]], it occurs throughout the United States and Canada, from sea level to alpine elevations. It is considered one of the most common winter annual weeds in agricultural fields.
-
-The species is native to Eurasia but has been introduced to every inhabited continent. Genetic studies suggest multiple independent introductions to different regions.
-
-Herbarium records document the species in North America by the early 18th century. It likely arrived as a contaminant in European crop seed shipments.
-
-Shepherd's purse colonizes a wide range of disturbed habitats including cultivated fields, gardens, roadsides, railroad embankments, pastures, and waste places. It tolerates a broad range of soil types and pH levels.
-
-The plant exhibits a broad ecological amplitude, growing from sea level to over 4,000 meters in the Himalayas. It is a common component of ruderal plant communities.
-
-Capsella bursa-pastoris displays considerable phenotypic plasticity across its range. Populations from different climates show variation in growth form, flowering time, and leaf morphology.
-
-Germination is stimulated by light and fluctuating temperatures. The species can complete its life cycle in as few as 30 days under favorable conditions, allowing multiple generations per year.
-
-## Cultivation and Culinary Use
-
-Shepherd's purse is occasionally cultivated as a salad green and potherb, particularly in East Asia. Young leaves have a peppery, slightly bitter flavor reminiscent of watercress. The flavor mellows considerably with cooking.
-
-In Chinese cuisine, the species is used in dumplings, soups, and stir-fries. It is one of the most commonly gathered wild vegetables in spring throughout China and Korea. Commercial cultivation occurs on a small scale in several Chinese provinces.
-
-The leaves are rich in vitamins A, C, and K, as well as calcium, iron, and potassium. [[fukuoka-textdoc-fallacy-infinite-nutritional-analysis]] shows protein content comparable to spinach on a dry weight basis. The plant also contains significant amounts of thiamine and riboflavin.
+In [[fukuoka-textdoc-fallacy-infinite-nutritional-analysis]] shows protein content comparable to spinach on a dry weight basis. The plant also contains significant amounts of thiamine and riboflavin.
 
 Seeds can be ground into a mustard-like condiment, as they contain glucosinolates that produce pungent compounds when hydrolyzed. The whole plant is edible when young, becoming tough and bitter with maturity.
 
@@ -75,11 +22,7 @@ Cultivation is straightforward from seed sown in early spring or autumn. The pla
 
 ## Bioactive Compounds and Pharmacology
 
-Capsella bursa-pastoris contains a diverse array of bioactive [[antifungal-secondary-metabolites-coprophilous-fungi]]. The primary chemical classes include flavonoids, glucosinolates, alkaloids, and organic acids.
-
-Key flavonoids include quercetin, kaempferol, and their glycosylated derivatives. These compounds exhibit antioxidant, anti-inflammatory, and hepatoprotective activities in vitro.
-
-Glucosinolate hydrolysis products, particularly isothiocyanates, contribute to the species' characteristic pungency and may have [[medicinal-mushroom-antimicrobial-properties]]. Sinigrin is the predominant glucosinolate in aerial tissues.
+Capsella bursa-pastoris contains a diverse array of bioactive [[medicinal-mushroom-antimicrobial-properties]]. Sinigrin is the predominant glucosinolate in aerial tissues.
 
 The species contains fumaric acid and malic acid in significant concentrations. It is one of the richest natural sources of fumaric acid among higher plants. Fumaric acid content can reach 1% of dry weight in aerial tissues.
 
@@ -88,3 +31,80 @@ Cumarin derivatives and choline have also been isolated from various plant parts
 Traditional Chinese medicine employs the whole herb to stop bleeding, with documented use for hematuria, metrorrhagia, and hemorrhoidal bleeding. Pharmacological studies support hemostatic activity through multiple mechanisms.
 
 Modern research has identified potential antiplatelet, anti-inflammatory, and diuretic effects. Extracts show inhibitory activity against several cancer cell lines in preliminary in vitro studies.
+
+## Overview
+
+Capsella Bursa Pastoris represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish capsella bursa pastoris
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving capsella extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Capsella Bursa Pastoris finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for capsella bursa pastoris. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+capsella bursa pastoris and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Capsella Bursa Pastoris has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of capsella bursa pastoris into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.

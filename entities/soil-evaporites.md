@@ -19,7 +19,7 @@ Evaporites are minerals formed by the evaporation of saline water bodies, includ
 ## Key Facts
 
 - As seawater evaporates, minerals precipitate in a predictable sequence based on solubility -- least soluble first (calcite, dolomite), most soluble last (potash, magnesium salts)
-- Gypsum and anhydrite from evaporite sequences are widely used for soil conditioning, pH adjustment, and restoring soil crumb structure
+- Gypsum and anhydrite from evaporite sequences are widely used for soil conditioning, pH adjustment, and restoring soil [[crumb-structure]]
 - Rock salt (halite) is a common evaporite providing sodium chloride; desert salts typically contain 20-25% potash from associated evaporites
 - Potash and magnesium salts are among the last evaporites to crystallise, concentrating in the final stages of evaporation
 - Evaporites are the most easily dissolved minerals, making them the first to be leached from soils by rainfall and carried to the sea
@@ -33,7 +33,7 @@ Evaporites are minerals formed by the evaporation of saline water bodies, includ
 - Bitterns (the liquid residue after salt crystallisation) provide trace element supplements for leached soils when diluted and applied as foliar sprays
 - Permaculture strategies in arid areas focus on infiltrating water into soil storages before it evaporates and leaves salt deposits at the surface
 - Understanding evaporite sequences helps designers select appropriate mineral amendments -- gypsum for structure, dolomite for pH, rock dust for trace elements
-- In mushroom substrate preparation, gypsum (an evaporite product) is commonly added at 1-5% to improve substrate structure, reduce greasing, and provide calcium
+- In [[mushroom-substrate-preparation]], gypsum (an evaporite product) is commonly added at 1-5% to improve substrate structure, reduce greasing, and provide calcium
 
 ## Sources
 
@@ -77,8 +77,6 @@ all influence the optimal approach to implementation.
 
 ## See Also
 
-- [[dighton-fungal-role-soil-aggregation]]
 - [[dighton-soil-fungal-biodiversity-assessment]]
-- [[fukuoka-ancient-soil-fertility-rock-weathering]]
 - [[query-what-is-the-role-of-springtails-and-soil-arthropods-in-soil-health]]
 - [[teaming-with-microbes-mites-and-soil-arthropod-predators]]

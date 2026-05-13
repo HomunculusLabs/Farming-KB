@@ -9,7 +9,7 @@ sources: []
 
 # Truffle Guide
 
-Truffles are the fruiting bodies of subterranean fungi in the genus Tuber, among the most expensive foods in the world. Unlike any other mushroom, truffles grow entirely underground and are found with the help of trained animals. They form obligate [[plants-without-mycorrhizal-associations]] with tree roots and have been prized in European cuisine since Roman times.
+Truffles are the fruiting bodies of subterranean fungi in the genus Tuber, among the most expensive foods in the world. Unlike any other mushroom, truffles grow entirely underground and are found with the help of trained animals. They form obligate mycorrhizal associations with tree roots and have been prized in European cuisine since Roman times.
 
 ## Overview
 
@@ -51,7 +51,7 @@ Truffles are hypogeous (underground) fungi that produce their spores below the s
 ### Other Notable Species
 
 - Tuber borchii (Whitish Truffle): central Italy, moderate value
-- Tuber gibbosum (Oregon White Truffle): [[psilocybin-north-america-pacific-northwest]], growing market
+- Tuber gibbosum (Oregon White Truffle): Pacific Northwest, growing market
 - Tuber oregonense (Oregon Winter Truffle): Pacific Northwest, excellent quality
 - Tuber indicum (Chinese Truffle): widely harvested and exported; lower value, sometimes fraudulently sold as European species
 - Tuber lyonii (Pecan Truffle): southeastern US, found with pecan trees; developing market
@@ -71,7 +71,7 @@ Successful truffle orchards require careful site assessment:
 
 ### Host Trees
 
-- Hazelnut ([[corylus-avellana]]): preferred for T. melanosporum; produces truffles in 4-7 years
+- Hazelnut (Corylus avellana): preferred for T. melanosporum; produces truffles in 4-7 years
 - English oak (Quercus robur): traditional host, reliable but slower
 - Holm oak (Quercus ilex): excellent host in Mediterranean climates
 - Downy oak (Quercus pubescens): good host for calcareous soils
@@ -79,13 +79,13 @@ Successful truffle orchards require careful site assessment:
 
 ### Establishment
 
-1. Obtain [[truffle-inoculated-seedlings]] from certified nurseries
+1. Obtain inoculated seedlings from certified nurseries
 2. Soil test and amend as needed (lime to raise pH, ensure drainage)
 3. Plant trees on a grid: typically 5-8 meters apart (150-400 trees/hectare)
 4. Irrigation system installation (drip irrigation preferred)
 5. Weed control (mowing or mulching, not herbicides near tree roots)
 6. Protect from livestock and wildlife
-7. Monitor [[arbuscular-mycorrhizal-colonization-patterns]] through root sampling
+7. Monitor mycorrhizal colonization through root sampling
 
 ### Maintenance
 
@@ -140,10 +140,11 @@ Truffle-hunting dogs are essential for finding ripe truffles underground. While 
 - Ripe truffles are firm, dark, and intensely aromatic
 - Unripe truffles are soft, light-colored, and have minimal aroma
 - Use a trained dog to locate; gentle extraction with a trowel
-- Handle minimally — skin oils and rough handling degrade quality
-- Clean gently with a soft brush (never wash)
-- Store at 35-40 F in paper towels, in an airtight container
-- Consume within 5-7 days of harvest — aroma diminishes rapidly
-- Freeze for longer storage (whole, wrapped tightly)
 
-## Foraging Safety
+## See Also
+
+- [[psilocybin-mushroom-sclerotia-philosophers-stone-truffle]]
+- [[elaphomyces-deer-truffle-ceremonial-director-fungi-mexico]]
+- [[truffle-dog-training]]
+- [[teaming-with-fungi-truffle-cultivation-basics]]
+- [[african-truffle-species]]

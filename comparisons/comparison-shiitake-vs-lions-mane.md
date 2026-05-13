@@ -20,19 +20,6 @@ enthusiasts choose the right species for their goals.
 
 ## Shiitake
 
-[[shiitake-mushroom-cultivation]]
-
-Shiitake is a saprotrophic basidiomycete native to East Asia, cultivated for
-over 1,000 years. It fruits on dead hardwood and is grown commercially on both
-logs and supplemented sawdust blocks. The mushroom is rich in lentinan (a
-beta-1,3-glucan approved as a cancer adjuvant in Japan), eritadenine (which
-lowers cholesterol), and B vitamins. Its umami flavor makes it a cornerstone
-of Asian cuisine. Shiitake occupies a unique dual role as both a staple food
-crop and a source of pharmaceutical-grade immunomodulators. Wide-range strains
-fruit between 50-80°F, making it adaptable to most climates.
-
-## Lion's Mane
-
 [[lions-mane-hericium-erinaceus]]
 
 Lion's mane is a distinctive saprotrophic mushroom recognized by its cascading
@@ -96,8 +83,7 @@ narrower 60-70°F band and demands higher humidity (85-95% during pinning)
 and more aggressive fresh air exchange. Shiitake produces reliable yields on
 logs for 3-6 years after a long colonization period, while lion's mane
 completes its cycle in weeks but must be restarted from fresh blocks. For
-indoor growers using [[grain-spawn-preparation]] on supplemented sawdust, lion's mane
-offers faster turnaround; for outdoor [[shiitake-cultivation-log-method|loggrowers]], shiitake provides years of harvests from a single inoculation.
+indoor growers using [[shiitake-cultivation-log-method|loggrowers]], shiitake provides years of harvests from a single inoculation.
 
 ## Medicinal Use Patterns
 
@@ -110,13 +96,11 @@ system — hericenones and erinacines promote NGF and BDNF synthesis, supporting
 neuroplasticity, memory consolidation, and peripheral nerve regeneration.
 The two mushrooms can be combined in a supplementation protocol: shiitake for
 immune foundation and lion's mane for cognitive support. See
-[[medicinal-mushroom-guide-shiitake]] and [[medicinal-mushroom-guide-lions-mane]]
+[[medicinal-mushroom-guide-lions-mane]]
 for detailed dosing information.
 
 ## See Also
 
-- [[comparison-shiitake-vs-reishi]]
 - [[comparison-cordyceps-vs-lions-mane-cultivation]]
-- [[medicinal-mushroom-guide-shiitake]]
 - [[medicinal-mushroom-guide-lions-mane]]
 - [[lions-mane-cultivation]]

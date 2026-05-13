@@ -17,39 +17,9 @@ sources:
 
 ## Overview
 
-**Solanum americanum**, commonly known as American black nightshade or glossy nightshade, is an annual or short-lived perennial herbaceous plant in the family Solanaceae. It is one of the most widely distributed members of the [[solanum-nigrum]] complex, found across tropical, subtropical, and [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]] worldwide.
+**Solanum americanum**, commonly known as American black nightshade or glossy nightshade, is an annual or short-lived perennial herbaceous plant in the family Solanaceae. It is one of the most widely distributed members of the [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]] worldwide.
 
-The species produces small black berries that are edible when fully ripe but toxic when green or unripe. This dual edibility profile has generated considerable [[neurotropic-fungi-taxonomic-confusion-and-identification]] public health concern over the centuries.
-
-Solanum americanum is frequently mistaken for the more toxic [[plants-of-the-gods-atropa-belladonna-deadly-nightshade]] ([[atropa-belladonna]]), despite belonging to a different genus. The confusion arises from the shared common name "nightshade" and superficial similarities in berry appearance.
-
-The plant has been used as a food source, medicinal plant, and leafy vegetable in many cultures across its pantropical range. It also serves as a host plant for several agricultural pests and pathogens affecting cultivated Solanaceae crops.
-
-## Taxonomy and Morphology
-
-Solanum americanum Mill. was described by Philip Miller in 1768. The taxonomy of the S. nigrum complex has been extensively debated, with S. americanum, S. nigrum, S. villosum, and S. chenopodioides sometimes treated as a single polymorphic species or split into numerous microspecies.
-
-Modern molecular phylogenetic studies support S. americanum as a distinct species, primarily diploid (2n = 24), whereas S. nigrum sensu stricto is hexaploid (2n = 72). The two species differ in chromosome number, leaf morphology, and berry characteristics.
-
-Additional distinguishing features include the degree of leaf pubescence (S. americanum is glabrous or nearly so) and seed surface morphology. S. americanum seeds have a finely reticulate surface pattern visible under magnification.
-
-The plant grows 30 to 100 centimeters tall with an erect or spreading habit. Stems are slender, green to purplish, and typically glabrous or sparsely pubescent with simple, uniseriate trichomes.
-
-Branching is characteristically opposite, with leaves at each branch point unequal in size (anisophylly). This anisophylly is a reliable field character for distinguishing S. americanum from related species in the section.
-
-Leaves are ovate to lanceolate, 3 to 10 centimeters long and 2 to 5 centimeters wide, with entire or shallowly toothed margins. The leaf surface is glossy green and typically smooth, lacking the dense pubescence of S. nigrum.
-
-Inflorescences are extra-axillary, umbel-like cymes bearing 4 to 8 white flowers. Corollas are 5-lobed, approximately 8 to 12 millimeters in diameter, with yellow stamens forming a prominent conical cluster.
-
-Berries are globose, 6 to 10 millimeters in diameter, glossy black when fully ripe, and contain 20 to 50 small flattened seeds. Each berry is borne on a distinctive pedicel that is reflexed downward at maturity. The pedicel length and orientation are useful taxonomic characters for distinguishing S. americanum from related species.
-
-Seeds are lens-shaped, approximately 1.5 millimeters long, with a light brown testa. Seed viability is high, with germination rates exceeding 80 percent under favorable conditions, contributing to the species' weedy persistence.
-
-## Distribution and Habitat
-
-Solanum americanum has a pantropical and subtropical distribution, extending into warm temperate regions [[berry-growing]], [[guzman-psilocybin-mushrooms-south-america]], Africa, Asia, and Oceania. Its native range is debated, with molecular evidence suggesting origins in the Americas and subsequent naturalization elsewhere through human-mediated dispersal.
-
-The species is highly adaptable and occurs in a wide range of disturbed and [[mushroom-natural-habitats]]. It is common in agricultural fields, gardens, roadsides, waste places, forest edges, riparian zones, and open woodlands.
+The species produces small black berries that are edible when fully ripe but toxic when green or unripe. This dual edibility profile has generated considerable [[plants-of-the-gods-atropa-belladonna-deadly-nightshade]] ([[berry-growing]], [[mushroom-natural-habitats]]. It is common in agricultural fields, gardens, roadsides, waste places, forest edges, riparian zones, and open woodlands.
 
 Elevation range extends from sea level to approximately 2500 meters in tropical mountains. The plant prefers moist, nitrogen-rich soils and is often associated with human-modified landscapes.
 
@@ -57,11 +27,7 @@ Solanum americanum is classified as a weed in many agricultural systems, though 
 
 The species is a common volunteer in vegetable fields, particularly following tomato, potato, and pepper crops. Its presence in agricultural fields can complicate weed management due to its close relationship with crops in the same family. Selective herbicides that control S. americanum without damaging Solanaceae crops are limited in availability.
 
-The species also serves as an alternate host for several economically important plant pathogens. It can harbor [[bloomfield-potato-blight-phytophthora-infestans]] (late blight of potato and tomato) and various nematode species that affect cultivated crops.
-
-## Edibility and Toxicity
-
-The edibility of Solanum americanum berries is one of the most contentious aspects of the species. Ripe black berries are widely consumed as food in many parts of Africa, Asia, and the [[guzman-allen-gartz-neurotropic-fungi-hawaii-pacific-islands]].
+The species also serves as an alternate host for several economically important plant pathogens. It can harbor [[guzman-allen-gartz-neurotropic-fungi-hawaii-pacific-islands]].
 
 The berries have a mild, slightly sweet flavor and can be eaten raw or cooked into pies, preserves, and sauces. In some Pacific Island communities, the berries are a traditional children's snack gathered from field margins and forest clearings.
 
@@ -77,13 +43,7 @@ Confusion with Atropa belladonna has led to accidental poisonings. Key distingui
 
 ## Chemistry and Pharmacology
 
-The primary [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]] Solanum americanum are steroidal glycoalkaloids, with solanine (solasonine) and chaconine (solamargine) as the major constituents. Total glycoalkaloid content ranges from 0.03 to 0.5 percent in ripe berries and up to 1 percent in green berries and leaves.
-
-These glycoalkaloids are saponin-like compounds with both toxic and pharmacological properties. They disrupt cell membranes by interacting with cholesterol, affecting membrane integrity and selective permeability.
-
-Research has demonstrated antimicrobial, antifungal, and antitumor activities of solanum glycoalkaloids in vitro. Solamargine has shown selective cytotoxicity against several human cancer cell lines, including hepatoma and breast cancer, though clinical applications remain undeveloped.
-
-The leaves contain additional compounds including phenolic acids (chlorogenic acid, caffeic acid), flavonoids, and carotenoids. Antioxidant capacity of leaf extracts is moderate and contributes to the species' traditional use [[cannabis-for-inflammatory-conditions]].
+The primary [[cannabis-for-inflammatory-conditions]].
 
 Anti-inflammatory activity has been documented in animal models, with leaf extracts reducing carrageenan-induced paw edema. These findings support traditional uses for arthritis, rheumatism, and topical wound healing.
 
@@ -91,6 +51,90 @@ Analgesic effects have also been observed, with aqueous leaf extracts showing do
 
 ## See Also
 
-- [[solanum-carolinense]]
 - [[solanum-melongena]]
 - [[solanum-muricatum]]
+
+## Overview
+
+Solanum Americanum represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish solanum americanum
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving solanum extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Solanum Americanum finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for solanum americanum. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+solanum americanum and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Solanum Americanum has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of solanum americanum into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[pepino-melon-solanum-muricatum-andean-fruit]]
+- [[solanum-melongena]]
+- [[solanum-muricatum]]
+- [[solanum-nigrum]]
+- [[solanum-tuberosum]]

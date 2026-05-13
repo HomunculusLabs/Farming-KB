@@ -1,8 +1,6 @@
 # Forest and Bamboo Beneficial Microorganisms
 
-[[indigenous-microorganisms]] (BIM) from local environments rather than purchasing commercial microbial inoculants.
-
-The forest and bamboo microorganism collection methods, developed through the work of [[building-soil]] microbial diversity.
+[[building-soil]] microbial diversity.
 
 These methods leverage the fact that healthy, undisturbed ecosystems already contain the microbial communities that sustainable agriculture needs.
 
@@ -22,9 +20,7 @@ The goal is to empower small farmers to generate their own critical organic inpu
 
 ## Forest Microorganism Collection
 
-The forest is the primary source for diverse beneficial microorganisms in the [[comparison-natural-farming-vs-permaculture]] tradition.
-
-The method begins with finding a healthy, old tree in a local forest with deep humus accumulation — at least two feet to one yard of litter and decomposing [[hamilton-composting-and-organic-matter-management]], indicating high soil fertility and microbial biodiversity.
+The forest is the primary source for diverse beneficial microorganisms in the [[hamilton-composting-and-organic-matter-management]], indicating high soil fertility and microbial biodiversity.
 
 The technique for trapping these microorganisms uses cooked white rice as a bait.
 
@@ -52,31 +48,7 @@ After about a week, the concoction takes on a sticky, liquidy consistency.
 
 At this point, an equal amount of crude sugar or molasses is added for storage.
 
-The additional sugar arrests microbial activity by creating an osmotic environment that prevents further proliferation, essentially preserving the [[edaphic-factors-microbial-community-structure]] in a dormant state.
-
-The preparation should be stored in a cool area.
-
-To use the forest microorganism preparation, it is diluted with twenty parts water.
-
-The water must not be chemically treated with chlorine or other antimicrobial agents, since the goal is to keep the living microorganisms viable.
-
-This diluted form serves as the basic forest microorganism inoculant.
-
-An alternative collection method involves gathering forest litter, humus, and leaf molds directly and spreading them over cooked rice in a container.
-
-The same culturing process is then followed.
-
-## Bamboo Microorganism Collection
-
-Bamboo represents a second important source of beneficial microorganisms in the Asian natural farming tradition.
-
-Through long observation, natural farmers in the East found that bamboo attracts powerful beneficial microorganisms because its roots exude sugary substances that create a selective rhizosphere environment promoting beneficial microbial communities.
-
-The collection method is identical to the forest microorganism technique: a container of cooked rice is buried in the leaf litter at the base of bamboo plants.
-
-After the colonization period, the same culturing and preservation process is followed.
-
-Bamboo microorganisms are often used specifically for fermenting animal feeds, improving digestibility and [[ph-and-nutrient-availability-garden-soils]] in free-range poultry and pig production.
+The additional sugar arrests microbial activity by creating an osmotic environment that prevents further proliferation, essentially preserving the [[ph-and-nutrient-availability-garden-soils]] in free-range poultry and pig production.
 
 ## Plant-Specific Microorganism Collection
 
@@ -117,8 +89,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[indigenous-microorganisms]]
 - [[composting]]
-- [[han-kyu-cho]]
 - [[permaculture]]
 - [[gil-carandang]]

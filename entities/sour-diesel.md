@@ -39,36 +39,11 @@ Yields are moderate to high, with well-managed indoor plants producing 400–500
 The defining characteristic of Sour Diesel is its extraordinary terpene profile, which produces one of the most immediately recognizable aromas in cannabis.
 The primary terpenes include:
 
-- **Caryophyllene**: The dominant terpene, contributing peppery, spicy, and slightly fuel-like notes. Caryophyllene is unique among cannabis terpenes in its ability to selectively bind the CB2 [[cannabis-cannabinoid-receptor-pharmacology]], producing anti-inflammatory effects independently of cannabinoid activity.
-- **Limonene**: The second most abundant terpene, providing sharp citrus and diesel-fuel top notes. Limonene is associated with mood elevation, stress relief, and anxiolytic effects, which complement the strain's stimulating psychoactive profile.
-- **Myrcene**: Present in significant quantities, contributing herbal, earthy base notes and modulating the overall sedative quality of the experience.
-- **Humulene**: Adds woody, earthy undertones and contributes anti-inflammatory and appetite-suppressant properties.
-- **Linalool**: Present in trace amounts, contributing subtle floral notes.
-
-Total THC content typically ranges from 18–25%, with some phenotypes and modern selections testing as high as 28–30%.
-CBD content is generally low, typically below 0.3%, which is consistent with the strain's predominantly recreational and stimulant-oriented effects profile.
-The ratio of THC to other cannabinoids, combined with the distinctive terpene profile, produces what is known in cannabis connoisseur circles as the "entourage effect" — the synergistic interaction between cannabinoids and terpenes that may modulate the overall psychoactive experience.
-Minor cannabinoids including CBG, CBC, and THCV have been detected in trace amounts in some Sour Diesel phenotypes, though their contribution to the overall effects is likely minimal.
-
-## Effects Profile
-
-The effects of Sour Diesel are predominantly cerebral and energizing, consistent with its sativa-dominant genetic heritage.
-The onset is rapid, typically within minutes of inhalation, and is characterized by an immediate uplift in mood, increased energy, enhanced focus and creativity, and a heightened sense of sensory perception.
-The experience is often described as "racing" or "speedy," particularly at higher doses, and may include feelings of euphoria, giddiness, and heightened sociability.
-Many users report that Sour Diesel is particularly effective for creative work, social activities, and daytime use, and that it is poorly suited for relaxation or sleep due to its stimulating properties.
-The duration of effects is typically 2–3 hours when vaporized and 3–5 hours when smoked, with the comedown characterized by a gradual return to baseline rather than the abrupt crash associated with some other sativa-dominant strains.
-
-Negative effects are relatively common at higher doses and include dry mouth, dry eyes, anxiety, paranoia (particularly in users predisposed to anxiety disorders), elevated heart rate, and in some cases mild visual distortions that can be unsettling for inexperienced users. The strain's high THC content and strong sativa effects mean that dose sensitivity is significant, and novice users are generally advised to consume cautiously.
-
-## Cultivation Notes
-
-Sour Diesel is considered a moderately challenging strain to cultivate, requiring patience due to its extended flowering period and sensitivity to environmental stress.
-The strain responds well to [[cannabis-training-techniques-comparison]] such as low-stress training (LST), screen of green (ScrOG), and topping, which help manage its tall stature and promote more even canopy development.
+- **Caryophyllene**: The dominant terpene, contributing peppery, spicy, and slightly fuel-like notes. Caryophyllene is unique among cannabis terpenes in its ability to selectively bind the CB2 [[cannabis-training-techniques-comparison]] such as low-stress training (LST), screen of green (ScrOG), and topping, which help manage its tall stature and promote more even canopy development.
 Nutrient requirements are moderate, with the strain showing sensitivity to nitrogen excess during the flowering phase, which can prolong flowering time and reduce terpene production.
 The plants are moderately resistant to common cannabis pathogens and pests, though they can be susceptible to powdery mildew in high-humidity environments.
 Optimal growing temperatures are 20–28°C during the vegetative phase and 18–26°C during flowering, with relative humidity maintained at 50–60% during flowering to support resin production and prevent mold.
-The strain is well-suited to both soil and [[cannabis-grow-hydroponic-growing-systems]] systems, though many experienced cultivators report that organic soil cultivation produces a more complex and nuanced terpene profile compared to synthetic hydroponic methods.
-[[cannabis-pruning-and-defoliation-guide]] during the early flowering phase are recommended to improve light penetration and air circulation through the tall, open canopy structure.
+The strain is well-suited to both soil and [[cannabis-pruning-and-defoliation-guide]] during the early flowering phase are recommended to improve light penetration and air circulation through the tall, open canopy structure.
 
 ## Medical Applications
 
@@ -88,3 +63,88 @@ The strain's commercial success in the regulated market has been consistent, wit
 ## Legacy and Genetic Offspring
 
 Sour Diesel has served as a genetic parent or contributor to an extraordinary number of subsequent elite cannabis cultivars, reflecting its status as one of the most important foundational strains in modern cannabis breeding.
+
+## Overview
+
+Sour Diesel represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish sour diesel
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving sour extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Sour Diesel finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for sour diesel. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+sour diesel and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Sour Diesel has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of sour diesel into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[battelle-diesel-mycoremediation-study]]
+- [[cannabis-sour-diesel]]
+- [[east-coast-sour-diesel-clone-lineage-chemdawg-family-tree]]
+- [[nyc-diesel]]
+- [[sour-tsunami]]

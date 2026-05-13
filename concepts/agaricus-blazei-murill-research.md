@@ -8,12 +8,7 @@ sources: [/Users/t3rpz/wiki/raw/papers/cancer-treatments-medicinal-mushrooms.md]
 ---
 # Agaricus Blazei Murill Research
 
-Agaricus blazei Murill, known in Japan as **Himematsutake** and sometimes called the **Almond Portobella**, was first discovered in the USA in the 1940s. Its main commercial cultivation now occurs in Japan and Brazil, and it is one of the most expensive [[comparison-chaga-vs-turkey-tail-medicinal-mushrooms-comprehensive]] on the market.
-
-## Epidemiological Evidence
-
-The mushroom is native to a small mountainous area near Sao Paulo, Brazil. Epidemiological studies of the native population found:
-- Very low incidence of several illnesses including **cancer**, [[cervantes-viral-diseases-cannabis]], and bacterial diseases
+Agaricus blazei Murill, known in Japan as **Himematsutake** and sometimes called the **Almond Portobella**, was first discovered in the USA in the 1940s. Its main commercial cultivation now occurs in Japan and Brazil, and it is one of the most expensive [[cervantes-viral-diseases-cannabis]], and bacterial diseases
 - Disproportionately high number of people enjoying **longevity**
 - These health outcomes have been correlated with constant consumption of A. blazei in the normal diet
 
@@ -38,35 +33,10 @@ The variety of bioactive structures in A. blazei distinguishes it from other med
 ## Antitumour Mechanisms
 
 ### NK Cell-Mediated Cytotoxicity
-A soluble proteoglucan extracted from A. blazei demonstrated a **selective tumoricidal effect** mediated via natural killer [[mushroom-immune-cell-activation-mechanisms]] and apoptosis (Fujimiya et al., 1998). This represents one of the most specific demonstrations of mushroom polysaccharide anticancer mechanisms. The study showed that the proteoglucan selectively kills tumour cells while leaving normal cells unharmed, operating through the activation of NK cells and subsequent induction of programmed cell death (apoptosis) in the target cells.
-
-### Immune Stimulation
-Like other [[turkey-tail-trametes-versicolor]] and kappa opioid receptor
-- [[turkey-tail-research-psk]]
+A soluble proteoglucan extracted from A. blazei demonstrated a **selective tumoricidal effect** mediated via natural killer [[turkey-tail-trametes-versicolor]] and kappa opioid receptor
 - [[cordyceps-research-cancer]]
-- [[cancer-agaricus-blazei]]
-
-## Related
-
 - [[lentinan-clinical-research]]
-- [[cannabis-health-index]]
-## Practical Considerations
-
-When working with Agaricus Blazei Murill Research, several practical factors should be
-carefully considered to achieve optimal results. These include
-the specific conditions of the implementation context, available
-resources, timing requirements, and the interactions between this
-topic and other elements of the broader system. A holistic view
-that considers these interconnections produces better outcomes.
-
-Environmental conditions such as temperature, moisture, and
-seasonal patterns significantly influence results. Monitoring these
-variables and adapting practices accordingly is essential for success.
-The most effective practitioners develop keen observation skills and
-respond flexibly to changing conditions rather than following rigid
-protocols regardless of circumstances or local variation.
-
-[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
+- [[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -111,8 +81,6 @@ through generations to modern scientific approaches, the evolution continues
 to inform current best practices and research directions.
 
 ## See Also
-- [[agaricus-blazei]]
 - [[doc]]
-- [[lentinan]]
 - [[chaga]]
 - [[medicinal-mushrooms]]

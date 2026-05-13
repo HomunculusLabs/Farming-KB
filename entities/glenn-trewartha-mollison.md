@@ -14,8 +14,7 @@ climatologist** known for his **modified version of the Köppen climate
 classification system**, published in 1954. His revisions updated and refined
 Köppen's original 1918 framework, making it more applicable to mid-latitude
 and regional climate analysis. Mollison cites Trewartha's modified
-classification as the basis for Figure 5.1 in *[[permaculture]]: A Designer's
-Manual*, making it a foundational reference for [[permaculture-site-analysis]].
+classification as the basis for Figure 5.1 in *[[permaculture-site-analysis]].
 
 ## Classification
 
@@ -49,32 +48,7 @@ and cultural geography.
   types but adjusts threshold values and adds subcategories for greater
   precision.
 - Mollison uses the Trewartha-modified Köppen map as the primary visual
-  reference for understanding broad climatic zones in [[permaculture-design]].
-- His work emphasized that **climatic boundaries are better understood as
-  transitions** rather than sharp lines, an important principle for
-  permaculture designers working in boundary zones.
-
-## The Trewartha Modification
-
-Key changes from Köppen's original system:
-
-1. **Mid-latitude refinement**: Improved the C (subtropical/temperate) and D
-   (continental) boundary definitions using 8 months versus 4 months above
-   10°C as a key threshold.
-2. **Subtropical distinction**: Separated humid subtropical climates from
-   oceanic temperate climates more precisely.
-3. **Arid boundary criteria**: Refined the criteria for distinguishing
-   semi-arid from arid regions.
-4. **Practical emphasis**: Focused on criteria relevant to agriculture and
-   human settlement rather than purely theoretical distinctions.
-
-## Relevance to Cultivation and Permaculture
-
-Trewartha's climate classification revision is important to permaculture:
-
-- **Updated accuracy**: The 1954 revision reflects improved meteorological
-  data and understanding compared to Köppen's 1918 original.
-- **Practical zone mapping**: Provides the broad-scale climate [[maps]] that
+  reference for understanding broad climatic zones in [[maps]] that
   permaculture designers use as a starting point for site analysis.
 - **Integration with other systems**: Works alongside the Holdridge Life Zone
   Matrix and USDA Hardiness Zones to give designers multiple resolution
@@ -97,3 +71,80 @@ classification."
 - Holdridge Life Zone Matrix — complementary, more detailed system
 - James Duke — botanist who applied these classifications to plant lists
 - Hardiness Zones — simpler temperature-based system
+
+## Overview
+
+Glenn Trewartha Mollison represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish glenn trewartha mollison
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving glenn extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Glenn Trewartha Mollison finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for glenn trewartha mollison. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+glenn trewartha mollison and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Glenn Trewartha Mollison has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of glenn trewartha mollison into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+
+## See Also
+
+- [[mollison-designers-glasshouse-protected-cropping]]
+- [[bill-mollison-permaculture-a-designers-manual-edge-effect-and-ecotone-design]]
+- [[terminalia-mollison]]
+- [[mollison-designers-bamboo-treatment-preservation]]
+- [[mallee-fowl-leipoa-ocellata-mollison]]

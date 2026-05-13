@@ -25,40 +25,7 @@ sources:
 
 ## Overview
 
-Picrorhiza kurroa, known as kutki or karu in Ayurvedic medicine, is a perennial herbaceous plant in the family Plantaginaceae (traditionally placed in Scrophulariaceae). Native to the high-altitude Himalayas (2,500–5,000 m elevation), it is one of the most important [[medicinal-mushroom-antioxidant-anti-inflammatory]], and immunomodulatory properties. The dried rhizome and root constitute the crude drug "Kutki," which has been used for over 3,000 years in Ayurvedic and Unani systems. Due to overharvesting from wild populations, the species is classified as endangered by the IUCN.
-
-## Taxonomy
-
-- **Kingdom:** Plantae
-- **Division:** Angiospermae
-- **Class:** Magnoliopsida
-- **Order:** Lamiales
-- **Family:** Plantaginaceae (previously Scrophulariaceae)
-- **Genus:** Picrorhiza
-- **Species:** P. kurroa Royle ex Benth. (1835)
-
-### Synonyms
-
-- *Picrorhiza kurroa* Royle (1835) — original description
-- *Picrorhiza kurrooa* Benth. — orthographic variant
-- *Picrorhiza kunor* D.Don — nomenclatural synonym used in some older texts
-
-### Etymology
-
-The genus name derives from Greek *pikros* (bitter) and *rhiza* (root), referring to the intensely bitter taste of the rhizome — one of its defining characteristics. The specific epithet *kurroa* reflects the local name used in the Himalayan region of origin.
-
-## Morphology
-
-### Vegetative Description
-
-- **Growth habit:** Perennial herb, 5–20 cm tall when in flower. Low-growing, forming rosette clumps on rocky ledges and scree slopes.
-- **Leaves:** Basal rosette; 5–15 cm long × 1–3 cm wide, broadly lanceolate to spatulate, entire or irregularly toothed, glabrous to sparsely hairy, dark green above, paler below, with 3–7 prominent veins.
-- **Root system:** Rhizome is the primary medicinal organ. Cylindrical to slightly curved, 5–15 cm long × 0.5–2 cm thick, woody, bearing fibrous roots. External brownish-grey; internal yellowish-white, intensely bitter.
-- **Stems:** Flowering scapes 10–20 cm tall, slender, bearing a raceme. Sparsely glandular-pubescent.
-
-### Reproductive Structures
-
-- **Flowers:** Small, 8–12 mm long, arranged in a terminal raceme or spike, 5–15 cm long. Calyx 5-lobed, persistent. Corolla bilabiate, pale blue to violet-blue, 8–10 mm long, with a hairy tube and two-lipped limb — upper lip 2-lobed, lower lip 3-lobed. Four stamens, didynamous (2 long, 2 [[short-day-and-long-day-plant-classification|short]]). Ovary superior, 2-carpellary.
+Picrorhiza kurroa, known as kutki or karu in Ayurvedic medicine, is a perennial herbaceous plant in the family Plantaginaceae (traditionally placed in Scrophulariaceae). Native to the high-altitude Himalayas (2,500–5,000 m elevation), it is one of the most important [[short-day-and-long-day-plant-classification|short]]). Ovary superior, 2-carpellary.
 - **Fruit:** Capsule, ovoid to ellipsoidal, 8–12 mm long, brown at maturity, dehiscing loculicidally. Contains numerous small seeds.
 - **Seeds:** Small, oblong, brown, 0.5–1 mm, with reticulate surface ornamentation.
 - **Flowering:** June–August at high elevation depending on snowmelt timing.
@@ -69,23 +36,82 @@ The genus name derives from Greek *pikros* (bitter) and *rhiza* (root), referrin
 - **Geographic range:** Endemic to the Himalayas, found from Kashmir through Himachal Pradesh, Uttarakhand, Nepal, Sikkim, and Bhutan, extending eastward into Arunachal Pradesh and southern Tibet.
 - **Elevation:** 2,500–5,000 m above sea level. Most abundant between 3,000–4,200 m.
 - **Habitat:** Rocky crevices, scree slopes, moraines, grassy meadows, and open slopes in the alpine and subalpine zones. Often found on north-facing slopes with moist, well-drained conditions.
-- **Climate:** Exposed to extreme cold (−20°C in winter), high UV, strong winds, short [[ingham-tannins-terpenes-phenolic-compounds]] (ferulic acid, p-coumaric acid), sterols (β-sitosterol), [[andrographis-paniculata]] — Bitter hepatoprotective herb used in Asian medicine
-- [[silybum-marianum]] — Milk thistle, the Western hepatoprotective standard for comparison
-## Practical Considerations
+- **Climate:** Exposed to extreme cold (−20°C in winter), high UV, strong winds, short [[andrographis-paniculata]] — Bitter hepatoprotective herb used in Asian medicine
+- [[query-how-do-i-build-a-medicinal-herb-drying-rack-and-optimize-drying-conditions|build]] expertise.
 
-Successful implementation of Picrorhiza kurroa requires attention to
-several practical factors including environmental conditions,
-resource availability, and timing. Careful monitoring and
-adaptive management help optimize outcomes across varying
-conditions. Integration with other system elements enhances
-overall effectiveness and creates beneficial synergies that
-improve resilience and productivity over time.
+## Overview
 
-## Future Directions
+Picrorhiza Kurroa represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
 
-Continued development in this area promises new insights and
-improved approaches for both research and practical application.
-Cross-disciplinary collaboration and advances in analytical
-methods create opportunities for innovation and refinement.
-Recommended resources include current literature, practitioner
-communities, and systematic experimentation to [[query-how-do-i-build-a-medicinal-herb-drying-rack-and-optimize-drying-conditions|build]] expertise.
+## Key Characteristics
+
+Several defining characteristics distinguish picrorhiza kurroa
+from related concepts in [[permaculture]] and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving picrorhiza extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Picrorhiza Kurroa finds practical application in multiple design contexts.
+[[permaculture-principles]] guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for picrorhiza kurroa. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+picrorhiza kurroa and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Picrorhiza Kurroa has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of picrorhiza kurroa into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.

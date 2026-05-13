@@ -1,10 +1,10 @@
 ---
 title: "One-Carbon Metabolism"
-aliases: [[query-how-does-one-carbon-metabolism-affect-methylation]], folate-mediated one-carbon metabolism, folate methionine cycle]
+aliases: query-how-does-one-carbon-metabolism-affect-methylation, folate-mediated one-carbon metabolism, folate methionine cycle]
 tags: [biochemistry, metabolism, nutrition, epigenetics, pharmacology]
 created: 2026-05-02
 type: topic
-sources: []
+sources: [raw/papers/forest-gardening-robert-hart.md]
 ---
 
 ## Overview
@@ -19,10 +19,7 @@ A useful definition is that one-carbon metabolism is the economy of transferable
 
 ## Historical Background
 
-The study of one-carbon metabolism emerged from work on folate deficiency, anemia, and nucleotide synthesis in the [[coleman-louis-savier-twentieth-century-maraicher]].
-Folate was recognized as an anti-anemia factor because rapidly dividing blood-cell precursors require folate-derived carbon units to make DNA.
-Vitamin B12 research revealed that folate metabolism and methionine metabolism were chemically intertwined rather than independent nutritional topics.
-The identification of [[s-adenosylmethionine]] established a biochemical explanation for the transfer of methyl groups to DNA, proteins, phospholipids, and small molecules.
+The study of one-carbon metabolism emerged from work on folate deficiency, anemia, and nucleotide synthesis in the [[s-adenosylmethionine]] established a biochemical explanation for the transfer of methyl groups to DNA, proteins, phospholipids, and small molecules.
 Cancer chemotherapy also shaped the field because antifolate drugs demonstrated that blocking folate-dependent reactions could selectively harm rapidly dividing cells.
 Later molecular biology added an epigenetic dimension by connecting methyl donor supply to DNA and histone methylation.
 Modern systems biology now treats the pathway as a compartmentalized flux network rather than a simple vitamin chart.
@@ -67,51 +64,7 @@ Serine, glycine, sarcosine, dimethylglycine, and related substrates can feed mit
 Mitochondrial serine hydroxymethyltransferase and the glycine cleavage system are important sources of one-carbon flux in many tissues.
 Mitochondria can export formate to the cytosol, where it supports purine synthesis, thymidylate synthesis, and other folate-dependent reactions.
 This arrangement lets cells connect energy metabolism, amino acid catabolism, and biosynthesis.
-Rapidly proliferating cells often increase serine uptake and mitochondrial folate flux to support [[dighton-fungal-biomass-production-aquatic-ecosystems]].
-Mitochondrial impairment can disturb nucleotide pools, redox state, and methylation without presenting only as a deficiency of ATP.
-Compartmentation is therefore essential to interpreting pathway diagrams and metabolic measurements.
-
-## Nucleotide Synthesis
-
-One-carbon metabolism is indispensable for DNA replication because thymidylate and purines require folate-derived carbon units.
-Thymidylate synthase uses 5,10-methylene-THF to methylate dUMP into dTMP.
-Dihydrofolate reductase regenerates tetrahydrofolate after thymidylate synthesis consumes reduced folate.
-Purine biosynthesis uses 10-formyl-THF in two transformylation steps.
-When folate or B12 status is poor, DNA synthesis can slow while RNA and protein synthesis continue.
-This mismatch produces large, immature blood-cell precursors and contributes to megaloblastic anemia.
-Embryos, bone marrow, intestinal epithelium, immune cells, and tumors are especially sensitive because they divide quickly.
-The nucleotide role of the pathway explains why antifolate drugs can be powerful but also toxic.
-
-## Methylation and Epigenetics
-
-SAM-dependent methylation reactions modify many molecules, including DNA, RNA, histones, phospholipids, creatine precursors, catecholamines, and xenobiotics.
-DNA methylation participates in gene regulation, imprinting, transposon silencing, and development.
-Histone methylation can activate or repress chromatin depending on the residue modified and the number of methyl groups added.
-RNA methylation affects processing, translation, stability, and stress responses.
-Phosphatidylethanolamine methylation contributes to phosphatidylcholine synthesis, especially in liver.
-These reactions make one-carbon metabolism relevant to epigenetics, but the relationship is not a simple switch.
-More methyl donor supply does not automatically create beneficial methylation patterns.
-Cell type, enzyme localization, chromatin state, developmental timing, and disease context determine the meaning of methylation changes.
-
-## Nutrition and Public Health
-
-Folate, vitamin B12, vitamin B6, riboflavin, choline, betaine, methionine, serine, and glycine all influence the one-carbon network.
-Folic acid fortification and periconceptional supplementation reduce the risk of neural tube defects.
-Vitamin B12 deficiency can cause neurological injury and can be masked if folate corrects the anemia without correcting B12 status.
-Choline and betaine can support remethylation in tissues that express betaine-homocysteine methyltransferase.
-Riboflavin status can matter because MTHFR is a flavoprotein.
-Elevated homocysteine can indicate pathway stress, but it is influenced by kidney function, age, medications, genetics, thyroid status, and inflammation.
-Public-health policy must balance deficiency prevention, pregnancy needs, elderly B12 deficiency, cancer context, and population dietary patterns.
-Nutritional interpretation is strongest when biochemical markers are read together rather than as isolated results.
-
-## Pharmacology and Toxicology
-
-Many important drugs intersect with one-carbon metabolism.
-Methotrexate inhibits dihydrofolate reductase and is used in oncology, autoimmune disease, and ectopic pregnancy at different dose ranges.
-Trimethoprim and pyrimethamine exploit differences between microbial or protozoal folate enzymes and human enzymes.
-5-fluorouracil inhibits thymidylate synthase through a complex involving reduced folate.
-Leucovorin can rescue normal cells after high-dose methotrexate and can also intensify fluoropyrimidine effects.
-[[nitrous-oxide]] can inactivate vitamin B12-dependent methionine synthase, creating acute disruption in susceptible patients.
+Rapidly proliferating cells often increase serine uptake and mitochondrial folate flux to support [[nitrous-oxide]] can inactivate vitamin B12-dependent methionine synthase, creating acute disruption in susceptible patients.
 Some detoxification processes consume methyl donors or glutathione, indirectly linking xenobiotic metabolism to one-carbon and sulfur pathways.
 These examples show why the network is important in both therapy and adverse-effect risk.
 
@@ -137,9 +90,7 @@ The most accurate view is of an adaptable metabolic hub that integrates nutritio
 ## Related Concepts
 
 - one carbon metabolism
-- [[glutathione-biochemistry-and-redox-biology]]
 - [[glutathione-conjugation]]
-- [[phase-ii-metabolism]]
 - [[enzyme-inhibition]]
 - one carbon metabolism
 

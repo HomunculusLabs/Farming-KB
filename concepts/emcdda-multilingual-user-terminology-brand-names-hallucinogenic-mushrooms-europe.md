@@ -20,30 +20,7 @@ created: 2026-05-11
 
 ## Overview
 
-The EMCDDA 2006 thematic paper compiled one of the most comprehensive inventories of user terminology and commercial brand names for hallucinogenic mushrooms across European languages. This multilingual lexicon reveals the intersection of indigenous naming traditions, drug subculture slang, commercial marketing innovation, and [[weil-cultural-attitudes-toward-altered-states]] psychoactive fungi. The terminology serves as both a practical harm reduction resource (enabling clinicians and law enforcement to identify products) and a cultural document reflecting how different European societies conceptualize these substances.
-
-## English-Language Terminology
-
-### Common User Terms
-
-The most widely recognized English names include:
-
-- **"Magic mushrooms"** — The most universal English term, used in media, policy, and user communities
-- **"Shrooms"** — The most common abbreviation in UK user circles
-- **"Mush" / "Mushies"** — UK colloquial shortenings
-- **"Boomers"** — Slang term of uncertain origin, possibly referring to the "boom" in popularity
-- **"Psilocybes"** — Scientific genus name adopted as a user term, implying knowledge of the active compound
-- **"Cubes"** — Short for *Psilocybe cubensis*, the most commonly cultivated species
-- **"Liberty caps"** — Specific to *Psilocybe semilanceata*, the most prevalent wild species in Europe
-- **"Caps"** — General reference to the mushroom cap
-
-### Historical and Cultural Terms
-
-Several English terms carry cultural and historical significance:
-
-- **"Philosopher's stone"** — Used to describe the **sclerotia** (truffles) of *Psilocybe mexicana*, sold by many smartshops. The term draws on the alchemical tradition of the philosopher's stone as a substance of transformation, connecting modern mushroom use to ancient Western esoteric traditions
-- **"Sacred mushrooms"** — Reflects the anthropological framing established by R. Gordon Wasson and others, connecting contemporary use to Mesoamerican ceremonial traditions
-- **"Teonanacatl"** — The Aztec (Nahuatl) name meaning "divine flesh" or "flesh of the gods" (from *teotl* = god/divine + *nanacatl* = mushroom/flesh). This term gained popularity with users seeking to connect their practice to [[sacred-mushroom-use-mexico-teonanacatl-indigenous-traditions]]
+The EMCDDA 2006 thematic paper compiled one of the most comprehensive inventories of user terminology and commercial brand names for hallucinogenic mushrooms across European languages. This multilingual lexicon reveals the intersection of indigenous naming traditions, drug subculture slang, commercial marketing innovation, and [[sacred-mushroom-use-mexico-teonanacatl-indigenous-traditions]]
 - **"Mexican mushrooms"** — The most commonly used commercial variety in European smartshops, typically *P. cubensis* strains originally sourced from Mexican genetics
 
 ### Additional English Terms
@@ -118,9 +95,7 @@ The term **"Philosopher's stones"** for *Psilocybe mexicana* sclerotia represent
 
 ### Strain and Variety Names
 
-Commercial smartshops marketed specific strains and varieties under names that often referenced [[sativa-landrace-strains-and-geographic-origins]] or cultural associations:
-- **"Mexican"** — The most common variety, referring to *P. cubensis* strains of Mexican origin
-- **"Hawaiian"** — Typically referring to *[[panaeolus-cyanescens-bali-omelette]]* ("Copelandia") strains, noted for higher potency
+Commercial smartshops marketed specific strains and varieties under names that often referenced [[panaeolus-cyanescens-bali-omelette]]* ("Copelandia") strains, noted for higher potency
 - **"Thai"** — Southeast Asian *P. cubensis* varieties
 - **"Colombian"** — South American *P. cubensis* varieties
 
@@ -135,12 +110,6 @@ The multilingual inventory reveals a consistent pattern: formal terminology uses
 ### Cross-Border Terminology Transfer
 
 Significant cross-border transfer of terminology is driven by:
-- English-language [[emcdda-internet-resources-magic-mushroom-websites]] (Erowid, Shroomery) serving as primary reference points
-- Smartshop marketing that used English terms as brand names regardless of local language
-- Youth culture's preference for English-derived slang across European countries
-
-## See Also
-
-- [[european-smartshop-economics-mushroom-supply-chain-emcdda-2006]]
+- English-language [[european-smartshop-economics-mushroom-supply-chain-emcdda-2006]]
 - [[emcdda-hallucinogenic-mushroom-internet-shop-market-snapshot-2006]]
 - emcdda legal alternative products market hallucinogenic mushroom substitutes europe

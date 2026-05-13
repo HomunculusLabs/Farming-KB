@@ -8,19 +8,7 @@ sources: [/Users/t3rpz/wiki/raw/papers/unknown-growing-gourmet-and-medicinal-mus
 type: concept
 ---
 # Cultivation of Shiitake Shiitake (Lentinula edodes) is the second most cultivated mushroom worldwide and the most widely cultivated specialty mushroom in terms of economic value. Native to East Asia, it has been grown on logs for centuries and is now produced commercially using both traditional log methods and modern sawdust block technology. Shiitake is prized for its rich umami flavor, meaty texture, and well-documented medicinal properties, particularly its immune-modulating polysaccharides. ## Two Cultivation Approaches Shiitake cultivation diverges into two distinct methods, each with different equipment requirements, timelines, and product characteristics: **Log cultivation** (traditional): Hardwood logs are inoculated with shiitake spawn and left to colonize outdoors for 6-18 months before fruiting. This produces premium-quality mushrooms with thick flesh and long shelf life. The method is low-tech but slow and weather-dependent. **Sawdust block cultivation** (modern): Supplemented hardwood sawdust is sterilized, inoculated, and incubated indoors under controlled conditions. Time from inoculation to first harvest is 8-14 weeks. This method offers faster turnaround, higher and more predictable yields, and year-round production capability. However, mushrooms tend to have thinner flesh and shorter shelf life compared to log-grown. ## Log Cultivation Suitable tree species include oak (preferred), maple, beech, ironwood, hornbeam, and sweetgum. Softwoods and fruit trees are generally avoided. Logs should be 10-20 cm in diameter and 90-120 cm long, cut from healthy, living trees during dormancy (late fall through early spring). Logs should be inoculated within 2-6 weeks of cutting, before the natural anti-fungal defenses of the wood degrade too much. Inoculation involves drilling holes in a diamond pattern (approximately 10 cm apart) along the length of the log, filling each hole with shiitake sawdust spawn or inserting plug spawn, and sealing with hot wax to pre... [truncated]
-period allows the [[mycelium]] surface turns brown
-as pigmented cells form a protective "skin" over the block surface.
-
-Proper browning is essential for several reasons: it reduces
-contamination susceptibility, improves moisture retention during fruiting,
-contributes to the characteristic dark cap color of the mushrooms, and
-enhances the development of the preferred thick-fleshed "donko" fruiting
-body type. Under-browned blocks produce thinner, lighter-colored
-mushrooms of lower market quality.
-
-## Fruitbody Types
-
-Shiitake produces two distinct [[comparison-fruiting-body-vs-mycelium-extracts-medicinal-mushrooms]] morphologies:
+period allows the [[comparison-fruiting-body-vs-mycelium-extracts-medicinal-mushrooms]] morphologies:
 
 **Donko** (thick, winter type): Produced under cooler temperatures
 (8-15 C), higher CO2, and slower growth. Caps are thick, convex, and
@@ -37,8 +25,7 @@ produce the appropriate type for market demand.
 
 Log cultivation yields 1-3 kg of fresh mushrooms per log over its
 productive life of 3-6 years, though individual flushes are modest.
-Sawdust blocks typically produce 75-125% [[shiitake-cultivation-parameters]]
-- [[gourmet-medicinal-mushroom-shiitake-cultivation-logs]]
+Sawdust blocks typically produce 75-125% [[gourmet-medicinal-mushroom-shiitake-cultivation-logs]]
 
 ## Spawn Selection and Preparation
 
@@ -55,8 +42,7 @@ Spawn types include sawdust spawn (most common for logs), plug spawn
 sawdust block inoculation).
 Sawdust spawn generally colonizes logs faster than plug spawn and
 allows more precise dosing per inoculation hole.
-See [[cultivator-strain-selection-and-stock-culture]] for general
-principles of strain selection and [[spawn-production-techniques]]
+See [[spawn-production-techniques]]
 for methods of producing quality spawn in-house.
 
 ## Sawdust Block Formulation
@@ -73,8 +59,7 @@ Excessive moisture creates anaerobic pockets that favor bacterial
 contamination, while insufficient moisture slows mycelial growth.
 Oak and alder sawdust are preferred; avoid cedar, redwood, and
 other resinous or antimicrobial woods.
-See [[mushroom-substrates]] for detailed information on substrate
-materials and [[three-pillars-mushroom-cultivation-spawn-substrate-environment]]
+See [[three-pillars-mushroom-cultivation-spawn-substrate-environment]]
 for the foundational principles of substrate management.
 
 ## Fruiting Chamber Requirements
@@ -118,8 +103,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[doc]]
 - [[det]]
-- [[fruiting-chamber]]
 - [[lentinula-edodes]]
 - [[mycelium]]

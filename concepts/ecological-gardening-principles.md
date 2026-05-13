@@ -51,11 +51,7 @@ In five to fifteen years, the weedy field becomes clothed with
 perennial shrubs. With enough rain, in two or more decades the shrubs
 give way to a young forest. This progression is called succession.
 
-Conventional gardens mimic [[gaias-garden-mature-vs-immature-ecosystems]], dominated by early-
-succession pioneer plants. This means gardeners are attempting to keep
-their yards at an early stage of ecological development, which
-guarantees constant work. Ecological gardeners instead hop aboard the
-successionary freight train, using techniques like [[cover-crops]] to accelerate succession and create mature, low-
+Conventional gardens mimic [[cover-crops]] to accelerate succession and create mature, low-
 maintenance landscapes quickly.
 
 ## Biodiversity
@@ -64,23 +60,8 @@ Biodiversity is the variety of organisms present, considered from many
 levels: cultivar, species, genus, family, and on up to include all
 five kingdoms, as well as the diversity of habitats and ecosystems.
 
-Diverse habitat shrinks pest problems. A [[garden-bed-designs]] planted all to
-broccoli or roses is a magnet for pests. But by providing habitat for
-pests' natural predators, gardeners can let nature do the bug control.
-The key is providing biodiversity in the landscape.
+Diverse habitat shrinks pest problems. A [[comparison-mandala-garden-design-vs-keyhole-garden-design]]:
 
-Garden biodiversity comes in two intersecting forms. One is the
-diversity the gardener fashions by planting a broad assortment of
-flowers, shrubs, and trees, creating a many-layered habitat. The
-second is the diversity of life in nearby wild places that spreads
-into this welcoming habitat. The two depend on each other.
-
-## Immature vs. Mature Ecosystems
-
-Understanding the differences between immature and mature ecosystems
-helps guide ecological [[comparison-mandala-garden-design-vs-keyhole-garden-design]]:
-
-- **[[hamilton-composting-and-organic-matter-management]]**: Low in immature systems, high in mature ones
 - **[[ozier-pdc-composting-and-nutrient-cycles]]**: Open (many imports) vs. closed (recycling)
 - **Plant diversity**: Usually low vs. high
 - **Food chains**: Short and linear vs. complex and weblike
@@ -117,8 +98,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[dom]]
 - [[composting]]
-- [[dandelion]]
 - [[williams-pdc-ecological-design-principles]]
 - [[solomon-gardening-aikido-pest-philosophy-ecological-management]]

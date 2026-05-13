@@ -13,43 +13,7 @@ type: concept
 # Plant Nursery and Species Selection for Permaculture
 
 Bill Mollison places the plant nursery as one of the critical
-early-stage components in any [[acacia]], Albizia).
-
-## Nursery Enterprises for Bioregions
-
-Mollison identifies a range of nursery enterprises that can
-serve a bioregion or cooperative network. Combined plant
-nurseries and new species collections provide seed, bud, and
-scion materials, vegetative propagules, and grafted, layered,
-or tissue-cultured plants, as well as processing and market
-systems. These enterprises include:
-
-- Bamboo nursery, together with canegrasses and large clump
-  grasses. Bamboos are a currently neglected forestry.
-
-- Aquatic and edge plant nursery, including fish forages,
-  insectary species, and marshland perennials for bee fodders,
-  duck forage, and wildlife refuges.
-
-- Berry fruit and vine nursery, with many species suited to
-  humid and temperate climates.
-
-- Fish breeding: just a few reliable species is all one
-  establishment can handle for providing farm ponds with stock.
-
-- Poultry species: providing breeds of poultry to suit local
-  soils and conditions on range.
-
-- Bee fodder plants (also butterfly and insectivorous bird
-  attractors); many such species provide hedgerow and forage
-  crop, fruits, and flowers.
-
-- Hedgerow tree species: a region-specific selection for
-  district; also pioneer tall grasses, vines for "fedges" on
-  coasts.
-
-- Conservation and reforestation trees for extending natural
-  forests; includes pioneer and selected high-value [[mollison-tree-crop-systems-permaculture]]
+early-stage components in any [[mollison-tree-crop-systems-permaculture]]
   species.
 
 - Speciality nurseries for herbs, salt-affected areas, smog
@@ -72,18 +36,94 @@ soils:
   to "spike" the soil.
 - Bulbs of lilies, grape hyacinth.
 - Roots of sunroot, comfrey, chicory, horseradish, ginger,
-  [[comparison-cassava-vs-taro-vs-sweet-potato-vs-yam]], tumeric.
-- Divisions of bamboo, banna grass, pampas grass, aloes, agave,
-  New Zealand hemp.
-- Seedlings or sets of elephant garlic, asparagus, globe
-  artichoke.
-- Cuttings of small fruits: elderberry, willow, poplar, mulberry,
-  Pride of Madeira (Echium fastuosum).
-- Tubed seedlings of Acacia, Prosopis, [[vegetative-propagation-methods-mollison]]
+  [[vegetative-propagation-methods-mollison]]
 - mollison-seed-resources-and-sovereignty
 ## See Also
-- [[bill-mollison]]
 - [[mollison-hedgerow-barrier-species-selection]]
-- [[permaculture-plant-selection-and-useful-species-categories]]
 - [[mollison-designers-mixed-orchard-design-species-selection]]
 - [[mollison-designers-plant-nursery-seedling-production]]
+
+## Overview
+
+Mollison Plant Nursery Species Selection represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish mollison plant nursery species selection
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving mollison extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Mollison Plant Nursery Species Selection finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for mollison plant nursery species selection. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+mollison plant nursery species selection and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Mollison Plant Nursery Species Selection has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of mollison plant nursery species selection into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[humid-cool-climate-characteristics-mollison]]
+- [[mentha-aquatica-mollison]]
+- [[mollison-designers-climate-zone-3-farm-forestry]]
+- [[mollison-designers-earthworks-for-erosion-control]]
+- [[soya-bean-mollison]]

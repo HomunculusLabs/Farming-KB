@@ -46,19 +46,19 @@ Inflorescences are small, pale, and inconspicuous, borne in the axil of the olde
 
 ## Distribution and Habitat
 
-Native range is debated but likely includes tropical Africa and possibly South America. The species is now pantropical and extends into warm temperate zones (USDA zones 8–11), found throughout Africa, Asia, Australia, the Americas, and the Pacific Islands.
+Native range is debated but likely includes tropical Africa and possibly [[guzman-psilocybin-mushrooms-south-america]]. The species is now pantropical and extends into warm temperate zones (USDA zones 8–11), found throughout Africa, Asia, Australia, the Americas, and the [[guzman-allen-gartz-neurotropic-fungi-hawaii-pacific-islands]].
 
 It colonizes ponds, lakes, slow rivers, irrigation canals, rice paddies, and reservoirs. Optimal growth occurs in still, nutrient-rich fresh water at 22–30°C. Growth ceases below 10°C; frost is lethal.
 
 ## Cultivation and Management
 
-Water lettuce is easily cultivated by placing rosettes on still water in full sun to partial shade. Nutrient-rich water accelerates growth. In temperate regions, overwintering requires heated greenhouses or indoor aquaria, as the species is not cold-tolerant.
+Water lettuce is easily cultivated by placing rosettes on still water in full sun to partial shade. Nutrient-rich water accelerates growth. In [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]], overwintering requires heated greenhouses or indoor aquaria, as the species is not cold-tolerant.
 
 For phytoremediation applications, plants are introduced to contaminated water bodies at controlled densities (typically 5–10 kg/m²). Harvesting every 2–4 weeks removes accumulated contaminants. Biomass must be disposed of as hazardous waste if heavy metals are present.
 
 ## Bioactive Compounds and Pharmacology
 
-Leaves contain phenolic compounds (caffeic acid, chlorogenic acid, coumaric acid), flavonoids (apigenin, luteolin, quercetin derivatives), and terpenoids. Crude leaf extracts exhibit broad antimicrobial activity against Gram-positive and Gram-negative bacteria.
+Leaves contain [[aact-tannins-terpenes-phenolic-compounds-wood-composting-ingham]] (caffeic acid, chlorogenic acid, coumaric acid), flavonoids (apigenin, luteolin, quercetin derivatives), and terpenoids. Crude leaf extracts exhibit broad antimicrobial activity against Gram-positive and Gram-negative bacteria.
 
 Anti-inflammatory activity has been demonstrated in rodent models, with methanolic extracts reducing carrageenan-induced paw edema. Antioxidant capacity (DPPH assay) is significant, attributed to the polyphenol fraction.
 
@@ -68,22 +68,20 @@ Analgesic and antipyretic effects are documented in ethnoveterinary medicine, th
 
 In native ecosystems, water lettuce provides habitat for aquatic invertebrates, fish fry, and amphibians. Its root mass supports periphyton growth and microbial biofilms that process dissolved nutrients.
 
-However, dense mats (>50% surface coverage) block light penetration, suppress submerged macrophytes, deplete [[aact-dissolved-oxygen-fine-bubble-aeration-ingham]], and alter benthic invertebrate communities. In invaded waterways, these impacts can cascade through the entire aquatic food web.
-
-Mosquito larvae (Culex, Anopheles spp.) breed in the trapped water within root masses, potentially increasing vector-borne disease risk. This is a documented public health concern in tropical Africa and [[psilocybe-southeast-asia-pacific]].
+However, dense mats (>50% surface coverage) block light penetration, suppress submerged macrophytes, deplete [[psilocybe-southeast-asia-pacific]].
 
 ## Phytoremediation and Permaculture Applications
 
 Water lettuce is an effective accumulator of heavy metals (Pb, Cd, Cr, Ni, Zn, Cu) from contaminated water. Root tissue concentrates metals at 5–20× ambient water levels. The species also removes nitrogen and phosphorus, reducing eutrophication.
 
-In [[comparison-constructed-wetlands-vs-bioswales]] and [[mollison-designers-wastewater-treatment-wetlands]], Pistia outperforms many other macrophytes in [[plant-nutrient-uptake-mechanisms]] rates. Combined systems using Pistia with Eichhornia crassipes (water hyacinth) achieve >90% nitrogen and phosphorus removal.
+In [[mollison-designers-wastewater-treatment-wetlands]], Pistia outperforms many other macrophytes in [[plant-nutrient-uptake-mechanisms]] rates. Combined systems using Pistia with [[eichhornia-crassipes]] (water hyacinth) achieve >90% nitrogen and phosphorus removal.
 
-Hydraulic retention times of 5–7 days produce optimal treatment outcomes. Growth rate is positively correlated with water temperature and nutrient concentration, making Pistia most effective during warm growing seasons.
+Hydraulic retention times of 5–7 days produce optimal treatment outcomes. Growth rate is positively correlated with water temperature and nutrient concentration, making Pistia most effective during warm [[jeavons-climate-adaptation-growing-seasons]].
 
 In aquaponics, water lettuce serves as a biofilter plant, extracting dissolved nutrients from fish wastewater while producing harvestable biomass. The plant can also serve as livestock fodder (silage or fresh) when grown in clean water, though oxalate content requires monitoring.
 
 ## Invasive Status and Regulation
 
-Pistia stratiotes is listed as a noxious weed in numerous jurisdictions including the United States (federal noxious weed), Australia (Weed of National Significance), South Africa (NEM:BA Category 1b), and the European Union (EPPO A2 listed).
+Pistia stratiotes is listed as a noxious weed in numerous jurisdictions including the United States (federal noxious weed), Australia (Weed of National Significance), South Africa (NEM:BA Category 1b), and [[legal-responses-to-hallucinogenic-mushrooms-in-the-european-union]] (EPPO A2 listed).
 
 The species is prohibited from sale or transport in many temperate countries to prevent establishment. Despite regulations, illegal aquarium trade and accidental transport via shipping ballast water continue to spread it to new waterways.

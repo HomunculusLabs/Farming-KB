@@ -22,12 +22,10 @@ sources:
 ---
 ## Overview
 
-*Hippophae rhamnoides*, commonly known as [[quercetin]], [[permaculture-design]], serving at
+*Hippophae rhamnoides*, commonly known as [[permaculture-design]], serving at
 least six distinct roles simultaneously:
 
-**[[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]]:** The Frankia root nodules fix significant atmospheric nitrogen,
-benefiting neighboring plants. Sea buckthorn is particularly effective as a nurse tree
-for [[comparison-pruning-fruit-trees-vs-grafting-fruit-trees]] and timber species, providing a nitrogen-enriched microsite.
+**[[comparison-pruning-fruit-trees-vs-grafting-fruit-trees]] and timber species, providing a nitrogen-enriched microsite.
 
 **Windbreak and soil stabilization:** The dense, thorny growth habit makes sea buckthorn
 an excellent windbreak and shelterbelt species. Its extensive root system binds soil on
@@ -38,7 +36,7 @@ birds. The persistent berries are an important winter food source for thrushes,
 waxwings, and other frugivorous birds, supporting wildlife through lean months.
 
 **Pioneer species:** Sea buckthorn establishes rapidly on degraded, infertile, or saline
-sites, [[building-soil]] [[hamilton-composting-and-organic-matter-management]] and nitrogen content for subsequent plantings. It is
+sites, [[hamilton-composting-and-organic-matter-management]] and nitrogen content for subsequent plantings. It is
 widely used in mine reclamation and coastal restoration.
 
 **Food production:** The nutrient-dense berries provide a high-value yield that can be

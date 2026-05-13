@@ -26,9 +26,7 @@ sources:
 
 ## Overview
 
-**4-Acetoxy-N,N-dimethyltryptamine** (abbreviated **4-AcO-DMT**, also known as **psilacetin**, **O-acetylpsilocin**, or **synthetic mushrooms**) is a synthetic psychedelic tryptamine and a prodrug of **psilocin** (4-HO-DMT). First synthesized by [[albert-hofmann]] at Sandoz Laboratories in the 1960s and later documented by Alexander and [[ann-shulgin]] in TIHKAL (1997), 4-AcO-DMT is the acetylated ester derivative of psilocin. It is metabolized in vivo by esterase enzymes to psilocin, producing subjective effects essentially identical to those of naturally occurring [[cap-versus-stem-alkaloid-distribution-in-psilocybin-mushrooms]].
-
-The compound occupies a unique position in psychopharmacology as a **synthetic psychedelic** that produces the same active metabolite as a natural product. This has made it a subject of interest in clinical [[controlled-substances-act-and-psychedelic-research]] as a potentially superior alternative to psilocybin due to simpler synthesis, greater chemical stability, and more consistent dosing characteristics. It is classified as a controlled substance in many jurisdictions, though its legal status varies internationally.
+**4-Acetoxy-N,N-[[dimethyltryptamine]]** (abbreviated **4-AcO-[[dmt]]**, also known as **psilacetin**, **O-acetylpsilocin**, or **synthetic mushrooms**) is a synthetic psychedelic tryptamine and a prodrug of **psilocin** (4-HO-DMT). First synthesized by [[ann-shulgin]] in TIHKAL (1997), 4-AcO-DMT is the acetylated ester derivative of psilocin. It is metabolized in vivo by esterase enzymes to psilocin, producing subjective effects essentially identical to those of naturally occurring [[controlled-substances-act-and-psychedelic-research]] as a potentially superior alternative to psilocybin due to simpler synthesis, greater chemical stability, and more consistent dosing characteristics. It is classified as a controlled substance in many jurisdictions, though its legal status varies internationally.
 
 ## Chemical Profile
 
@@ -59,11 +57,7 @@ The molecule consists of an indole ring system with an **acetoxy group** (−OCO
 4-AcO-DMT → (esterase) → 4-HO-DMT (psilocin) → (MAO-A) → 4-HO-IAA (inactive)
 ```
 
-The resulting psilocin acts as a **partial agonist at the 5-HT₂A [[serotonin-receptor-interference-psychedelic-mechanism]]** (Ki ≈ 5.5 nM), which is the primary receptor responsible for psychedelic effects. Additional receptor interactions include:
-
-| Receptor | Activity | Functional Significance |
-|----------|----------|------------------------|
-| **5-HT₂A** | Partial agonist (Ki ≈ 5.5 nM) | Primary psychedelic effects; visual hallucinations, [[default-mode-network-and-ego-dissolution]] |
+The resulting psilocin acts as a **partial agonist at the 5-HT₂A [[default-mode-network-and-ego-dissolution]] |
 | **5-HT₁A** | Agonist (Ki ≈ 30 nM) | Anxiolytic effects; mood modulation |
 | **5-HT₂C** | Agonist | Contributes to perceptual and cognitive effects |
 | **5-HT₂B** | Agonist | Minimal clinical significance at psychedelic doses |

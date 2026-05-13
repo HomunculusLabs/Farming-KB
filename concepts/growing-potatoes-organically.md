@@ -10,23 +10,7 @@ sources:
 ---
 # Growing Potatoes Organically
 
-Potatoes are one of the most productive and rewarding vegetable crops. They require careful soil preparation and benefit enormously from organic [[growing-alliums-organically]] methods. They are a key crop in rotation systems, helping to break up the soil for subsequent crops.
-
-## Soil and Site
-
-Potatoes need an open, sunny position with deep, well-drained soil. They are one of the most demanding crops in terms of organic matter. Dig the ground in fall and incorporate as much well-rotted manure or compost as possible. Potatoes are generally grown in Plot A of a three-year rotation (the plot that received manure or compost the previous fall).
-
-Potatoes are not particularly pH-sensitive but do best around pH 5.0-6.0. Do not lime before planting as this can increase susceptibility to scab.
-
-## Varieties
-
-Choose varieties for purpose and season:
-
-**First early:** Ready in about 10 weeks. Good for small gardens and new potatoes.
-
-**Second early:** Ready in about 13 weeks.
-
-**Maincrop:** Ready in about 15-20 weeks. [[query-which-cannabis-training-techniques-produce-highest-yields]], good for storage.
+Potatoes are one of the most productive and rewarding vegetable crops. They require careful soil preparation and benefit enormously from organic [[query-which-cannabis-training-techniques-produce-highest-yields]], good for storage.
 
 **Important:** Always buy certified seed potatoes. Home-saved tubers can carry virus diseases spread by aphids. Certified seed is grown in areas where aphid attack is rare.
 
@@ -74,11 +58,7 @@ Store only sound, undamaged tubers in a cool, dark, frost-free place. Paper sack
 
 ## Green Manure Value
 
-After harvesting, the remaining [[maintaining-organic-matter-in-vegetable-gardens]] the soil and the broken-up structure make potatoes excellent predecessors for other crops. The deep digging and earthing up process benefits soil structure.
-
-## No-Dig Methods for Potatoes
-
-No-dig [[comparison-potato-vs-sweet-potato-cultivation]] has gained popularity among [[soil-food-web-and-building-living-soil]] as an alternative to traditional trench planting. In this method, seed potatoes are placed on the soil surface and covered with a thick layer (6-12 inches) of organic mulch such as straw, hay, or partially decomposed leaves. As the potatoes grow, additional mulch is added to maintain coverage. The advantages include reduced soil disturbance (preserving soil structure and [[cannabis-rhizosphere-microbial-communities]]), easier harvesting (potatoes are simply pulled from the loose mulch), and fewer weed problems. The disadvantages include potential slug damage in wet seasons, slower soil warming in spring compared to exposed soil, and the risk of mice nesting in the mulch. No-dig potatoes tend to produce slightly lower yields than trenched potatoes but with significantly less labor.
+After harvesting, the remaining [[comparison-potato-vs-sweet-potato-cultivation]] has gained popularity among [[cannabis-rhizosphere-microbial-communities]]), easier harvesting (potatoes are simply pulled from the loose mulch), and fewer weed problems. The disadvantages include potential slug damage in wet seasons, slower soil warming in spring compared to exposed soil, and the risk of mice nesting in the mulch. No-dig potatoes tend to produce slightly lower yields than trenched potatoes but with significantly less labor.
 
 ## Companion Planting and Intercropping
 
@@ -117,8 +97,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[det]]
 - [[spore]]
-- [[companion-planting]]
 - [[query-how-to-grow-potatoes-organically]]
 - [[growing-alliums-organically]]

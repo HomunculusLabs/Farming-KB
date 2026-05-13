@@ -8,7 +8,7 @@ created: 2026-05-11
 
 # McKenna's Dominator vs Partnership Culture Model
 
-Terence McKenna's *Food of the Gods* proposes a grand historical thesis: that human culture can be divided into two fundamentally different social organizational patterns — the **partnership model** and the **dominator model** — and that the transition from one to the other was catalyzed by changes in humanity's relationship with psychoactive plants. This framework, influenced by Riane Eisler's *The Chalice and the Blade*, provides the organizing principle for McKenna's entire narrative of human cultural evolution.
+[[terence-mckenna]]'s *Food of the Gods* proposes a grand historical thesis: that human culture can be divided into two fundamentally different social organizational patterns — the **partnership model** and the **dominator model** — and that the transition from one to the other was catalyzed by changes in humanity's relationship with psychoactive plants. This framework, influenced by Riane Eisler's *The Chalice and the Blade*, provides the organizing principle for McKenna's entire narrative of human cultural evolution.
 
 ## The Two Models Defined
 
@@ -43,7 +43,7 @@ McKenna associates dominator culture with the rise of kingship, organized warfar
 McKenna argues that the transition from partnership to dominator culture was not gradual but relatively abrupt, occurring roughly 4,500 to 5,000 years ago in the context of:
 
 - **Population growth and resource competition**: As societies grew larger and more complex, competition for resources intensified
-- **Loss of the psilocybin mushroom**: As pastoral nomadism replaced hunter-gatherer lifestyles in some regions, access to psychedelic mushrooms diminished
+- **Loss of the [[psilocybin-mushroom]]**: As pastoral nomadism replaced hunter-gatherer lifestyles in some regions, access to psychedelic mushrooms diminished
 - **Rise of the "king":** The emergence of hereditary rulership concentrated power in the hands of individuals who used religion to legitimize their authority
 - **Replacement of entheogens by alcohol**: Alcohol, which is easier to produce and control than psychedelic mushrooms, became the dominant psychoactive substance
 
@@ -120,8 +120,6 @@ Despite these criticisms, McKenna's framework has been influential in several do
 
 ## See Also
 
-- [[mckenna-stropharia-hypothesis]]
 - [[mckenna-profession-of-sacrament-psilocybin-cult-to-alcohol-cult]]
-- [[mckenna-catal-huyuk-natufian-link]]
 - [[mckenna-archaic-revival]]
 - [[mckenna-food-gods-tea-coffee-drugs-gentility]]

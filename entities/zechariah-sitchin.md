@@ -42,7 +42,7 @@ story that differs fundamentally from the biblical account:
 - Finding Neanderthal humans too primitive, they manipulated DNA to create
   Homo sapiens
 - The Father God "Anu" remained on Sirius while two brothers managed Earth:
-  - **Enlil:** Wished to control the population, restrict knowledge
+  - **[[enlil]]:** Wished to control the population, restrict knowledge
   - **Ea (Enki):** Wanted to expand human consciousness, share knowledge
 - The High Council and Anu favored Enlil's control-oriented approach
 - Ea was determined to "multi-dimensionalize" (open/awaken) human minds
@@ -129,9 +129,6 @@ in significantly different ways — is well-established in mainstream Assyriolog
 
 ## See Also
 
-- [[manna-entity]] — Biblical mushroom reference with pre-biblical origins
 - [[john-allegro]] — Scholar who traced linguistic connections in these texts
-- [[constantine-entity]] — Later political figure who continued the suppression
-  pattern
 - [[feathered-serpent]] — Another symbol of consciousness liberation
 - [[ethnomycology]] — The broader field studying these connections

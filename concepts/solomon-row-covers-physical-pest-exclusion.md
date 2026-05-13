@@ -1,5 +1,5 @@
 # Row Covers and Physical Pest Exclusion Methods
-**Source:** Gardening When It Counts - [[beneficial-insects-cannabis]], physical barriers simply prevent pest access while allowing light, water, and air to reach plants. [[steve-solomon]] gives particular attention to spun-fabric row covers as the most practical and versatile option for home gardeners, while also discussing cloches, hotcaps, and other traditional protective structures.
+**Source:** Gardening When It Counts - [[steve-solomon]] gives particular attention to spun-fabric row covers as the most practical and versatile option for home gardeners, while also discussing cloches, hotcaps, and other traditional protective structures.
 
 ## Spun-Bonded Polyester Row Covers
 
@@ -12,12 +12,8 @@ Spun-bonded row covers are lightweight, non-woven polyester fabrics that are dra
 - **Width**: Typically 5-6 feet (1.5-1.8 meters) wide
 - **Length**: Available from 20-foot cut lengths up to thousands of feet for commercial use
 - **Weight**: Extremely lightweight — plants lift the fabric as they grow without any support structure
-- **Light transmission**: Varies by brand from 70% to 95%. Reemay blocks approximately 25% of light, which can affect [[solomon-gardening-aikido-pest-philosophy-ecological-management]]
-- [[solomon-disease-identification-and-organic-remedies]]
-- [[integrated-pest-management]]-overview
-## Background and Context
-
-Solomon Row [[solomon-row-covers-and-season-extension]] physical pest exclusion Pest Exclusion is an important subject that has garnered significant attention
+- **Light transmission**: Varies by brand from 70% to 95%. Reemay blocks approximately 25% of light, which can affect [[solomon-disease-identification-and-organic-remedies]]
+- [[solomon-row-covers-and-season-extension]] physical pest exclusion Pest Exclusion is an important subject that has garnered significant attention
 from researchers, practitioners, and enthusiasts alike. The topic
 sits at the intersection of multiple disciplines, drawing on insights
 from biology, ecology, chemistry, and practical experience. A thorough

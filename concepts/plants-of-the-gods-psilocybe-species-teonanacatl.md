@@ -32,22 +32,12 @@ The genus Psilocybe (Fr.) Quelet contains approximately 180
 species distributed nearly cosmopolitan. The most important
 psychoactive species include:
 
-- [[dark-incubation-sclerotia-production-psilocybe-mexicana-tampanensis]] Heim (Teonanacatl) — the type species,
-  found nearly cosmopolitan except in Mexico, central to the
-  original discovery of psilocybin by Albert Hofmann.
 - [[basidiocarp-four-stage-development-classification-psilocybe-cubensis-badham-1982]] (Earle) Sing. (San Isidro) — nearly
   cosmopolitan in the tropics, known in Oaxaca as Hongo de
   San Isidro or Di-shi-tjo-le-rra-ja ("divine mushroom of
   manure").
-- [[growing-gourmet-caramel-capped-psilocybe-cyanescens-cultivation]] (Wavy Cap) — found in North America
-  and Central Europe, relatively easy to identify by its wavy
-  brown cap. It is very closely related to P. azurescens and
-  P. bohemica, both also very powerful hallucinogens.
 - [[guzman-allen-gartz-psilocybe-semilanceata-temperate-cosmopolitan-distribution]] (Liberty Cap) — cosmopolitan
-  except Mexico, the most common [[gartz-conocybe-cyanopus-rare-psychoactive-mushroom]] in
-  the Psilocybe genus. It may have been used in Central
-  Europe for about 12,000 years.
-- [[psilocybe-aztecorum-entity-the-mushroom-cultivator]] — known only from the slopes of the
+  except Mexico, the most common [[psilocybe-aztecorum-entity-the-mushroom-cultivator]] — known only from the slopes of the
   volcano Popocatepetl, depicted on the pedestal of the
   Xochipilli statue.
 

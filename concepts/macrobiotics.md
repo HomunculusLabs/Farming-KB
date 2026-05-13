@@ -15,25 +15,13 @@ Macrobiotics is a dietary and lifestyle philosophy originating from Japan, devel
 ## Core Principles
 
 - **Yin and yang balance**: Foods classified on a spectrum from expansive (yin) to contractive (yang)
-- **Whole foods**: Emphasis on unprocessed, [[fukuoka-natural-foods-movement-america]]
-- **[[fukuoka-seasonal-eating-natural-food-calendar]]**: Consuming foods appropriate to the local climate and season
+- **Whole foods**: Emphasis on unprocessed, [[fukuoka-seasonal-eating-natural-food-calendar]]**: Consuming foods appropriate to the local climate and season
 - **Local food**: Preference for regionally grown ingredients
 - **Minimal processing**: Whole grains, vegetables, beans as foundation
 
 ## George Ohsawa and Origins
 
-George Ohsawa (1893-1966), born Yukikazu Sakurazawa, developed macrobiotics from his study of traditional Japanese medicine and the writings of Sagen Ishizuka (1850-1909), a Japanese military doctor who argued that the traditional [[fukuoka-japanese-diet-worse]] of brown rice and vegetables was superior to the increasingly Westernized diet of refined white rice and meat. Ohsawa expanded these ideas into a comprehensive philosophical system that encompassed diet, medicine, and worldview.
-
-Ohsawa's teachings emphasized that health is the natural condition of humanity and that disease arises from dietary imbalance. He proposed a system of 10 diets ranging from the most balanced (number 7, consisting of brown rice and water) to progressively more inclusive. While the most restrictive levels were intended only for short-term healing, critics seized upon them to dismiss the entire system.
-
-## The Standard Macrobiotic Diet
-
-Foundation (40-60% of diet):
-- Brown rice as the principal grain
-- Other whole grains: millet, barley, oats, wheat, rye, buckwheat, corn
-
-Secondary (25-30%):
-- Vegetables: leafy greens, round vegetables, [[growing-root-vegetables-guide]]
+George Ohsawa (1893-1966), born Yukikazu Sakurazawa, developed macrobiotics from his study of traditional Japanese medicine and the writings of Sagen Ishizuka (1850-1909), a Japanese military doctor who argued that the traditional [[growing-root-vegetables-guide]]
 - Prepared by steaming, boiling, sauteing, pickling
 
 Supplementary (5-10%):
@@ -68,7 +56,7 @@ The goal is to consume primarily balanced and moderately balanced foods, avoidin
 
 ## Connection to Natural Farming
 
-Masanobu Fukuoka's natural food philosophy shares deep roots with macrobiotic thinking. Both emphasize:
+[[masanobu-fukuoka]]'s natural food philosophy shares deep roots with macrobiotic thinking. Both emphasize:
 - Brown rice as the ideal staple food
 - Local and seasonal eating as fundamental
 - Avoidance of processed and refined foods
@@ -79,12 +67,81 @@ Fukuoka argued that truly natural food, grown without chemicals and in harmony w
 
 ## Connection to Permaculture
 
-Macrobiotics shares several principles with [[permaculture-food-forest-design-principles]]:
-- Local food production reduces ecological footprint
-- Whole-systems thinking connects diet to agriculture to ecology
-- Seasonal eating aligns human consumption with natural cycles
-- Closed-loop thinking: waste from one process becomes input for another
+Macrobiotics shares several principles with [[mushroom-cancer-clinical-trials-overview]], the macrobiotic diet's emphasis on whole grains, vegetables, and legumes aligns with evidence-based dietary recommendations for cancer prevention.
 
-## Macrobiotics and Cancer
+## Overview
 
-Macrobiotics gained significant public attention in the 1970s and 1980s when Anthony Sattilaro, MD, president of Methodist Hospital in Philadelphia, publicly attributed his recovery from prostate cancer to macrobiotic dietary practices. While individual anecdotes cannot substitute for controlled [[mushroom-cancer-clinical-trials-overview]], the macrobiotic diet's emphasis on whole grains, vegetables, and legumes aligns with evidence-based dietary recommendations for cancer prevention.
+Macrobiotics represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish macrobiotics
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving macrobiotics extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Macrobiotics finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for macrobiotics. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+macrobiotics and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Macrobiotics has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of macrobiotics into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.

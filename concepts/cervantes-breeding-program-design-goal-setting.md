@@ -18,18 +18,7 @@ type: concept
 # Breeding Program Design and Goal Setting
 
 A well-designed breeding program is essential for achieving meaningful
-[[genetic-improvement-agaricus-bisporus-molecular-approaches]] in cannabis. Cervantes outlines five primary
-components that form the foundation of any successful breeding effort,
-from developing a clear vision through to potential commercialization.
-
-## Step 1: Develop a Breeding Goal
-
-Every breeding program should begin by developing a breeding goal. Why
-are you trying to make seed? What are you trying to accomplish by mating
-these sets of parents? The breeding goal serves as the final
-destination; the breeding process is the roadmap to get there.
-
-Goals might include creating a [[cervantes-seed-population-types-ibl-hybrid]] that represents the
+[[cervantes-seed-population-types-ibl-hybrid]] that represents the
 traits of an ideal plant, adding new traits to an existing mostly ideal
 variety, or simply producing seeds for next year's crop. Without a
 clear goal, breeding efforts lack direction and are unlikely to produce
@@ -51,25 +40,7 @@ Serious breeders must stabilize their initial breeding stock before
 beginning the hybridizing or out-crossing phases of their programs.
 Working with true-breeding parents ensures predictable, consistent
 results when hybridizing. See
-[[cervantes-filial-breeding-hybrid-generations]] for details.
-
-## Building Upon Previous Work
-
-Sam the Skunkman, a noted cannabis breeder, emphasizes that we all
-stand on the shoulders of those who have come before us. We can build
-upon the improvements previous breeders have made to landraces and
-wild populations, but we can only work with what they have left us.
-
-A well-designed breeding program acknowledges this heritage and seeks
-to both improve existing varieties and preserve genetic resources for
-future breeders. The best programs balance progress with conservation,
-advancing traits of interest while maintaining variation for traits not
-under active selection.
-
-## See Also
-
-- [[cervantes-dominance-recessive-traits-alleles]] - Genetic inheritance
-- [[cervantes-strain-selection]] - Choosing parent plants
+[[cervantes-dominance-recessive-traits-alleles]] - Genetic inheritance
 - [[cervantes-seed-population-types-ibl-hybrid]] - Population types
 ## Practical Considerations
 
@@ -119,8 +90,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[dom]]
 - [[det]]
-- [[jadam-fertilizer-program-design]]
 - [[cervantes-grow-room-design-advanced]]
 - [[mushroom-disabilities-training-program-design]]

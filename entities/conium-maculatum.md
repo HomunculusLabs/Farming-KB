@@ -23,54 +23,14 @@ sources:
 
 **Conium maculatum**, commonly known as poison hemlock, is a highly toxic biennial herbaceous
 plant in the family Apiaceae. Native to Europe and the Mediterranean region, it has become
-naturalized across [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]] worldwide and is considered one of the most dangerous
-poisonous plants due to its lethal piperidine alkaloids.
-
-All parts of the plant are toxic, with the seeds and roots containing the highest
-concentrations of coniine and related alkaloids. Ingestion of even small amounts can cause
-respiratory paralysis and death. Poison hemlock is historically notorious as the plant used
-to execute the philosopher Socrates in 399 BCE.
-
-The species is frequently confused with edible Apiaceae members such as wild carrot
-([[daucus-carota]]) and wild parsnip ([[pastinaca-sativa]]), making accidental poisoning a persistent
-public health concern.
-
-## Taxonomy and Morphology
-
-**Classification:**
-
-- **Kingdom:** Plantae
-- **Order:** Apiales
-- **Family:** Apiaceae
-- **Genus:** Conium
-- **Species:** C. maculatum
-- **Authority:** L.
-
-**Synonyms:** Conium commune (Garsault), Cicuta vulgaris (Lam.)
-
-In its first year, poison hemlock produces a basal rosette of pinnately divided leaves up to
-60 cm long. During the second year, it bolts to produce a hollow, branching stem that reaches
-1.5–2.5 m in height. The stem is smooth, distinctly spotted or streaked with purple-red
-markings — a key diagnostic feature distinguishing it from similar species.
-
-Leaves are triangular, 2–4-pinnate, with finely divided laciniate leaf segments. When crushed,
-the foliage emits a strong, unpleasant mousy or parsnip-like odor, another distinguishing
-characteristic. Leaf sheaths clasp the stem at nodes and are inflated.
-
-Flowers are arranged in compound umbels, 2–5 cm in diameter, composed of small white
-pentamerous flowers. Each umbel has 10–20 rays with no bracts at the base and no bracteoles
-on the secondary umbels, a feature that differentiates it from wild carrot. Flowering occurs
-from late spring through mid-summer.
-
-The fruit is a schizocarp that splits into two grey-brown mericarps, each 2–3 mm long with
-prominent longitudinal ridges. Each mericarp contains a [[cervantes-selfing-single-seed-descent]]. Seeds are the most toxic
+naturalized across [[daucus-carota]]) and wild parsnip ([[cervantes-selfing-single-seed-descent]]. Seeds are the most toxic
 plant part, containing up to 3.5% coniine by dry weight.
 
 ## Distribution and Habitat
 
 Conium maculatum is native to Europe, North Africa, and western Asia. It has been widely
-introduced and naturalized in [[psilocybin-north-america-pacific-northwest]], [[guzman-psilocybin-mushrooms-south-america]], Australia, New Zealand, and
-southern Africa. In [[guzman-psilocybin-mushrooms-north-america]], it occurs in all contiguous [[dmt-containing-plants-united-states-halpern]] and most Canadian
+introduced and naturalized in [[guzman-psilocybin-mushrooms-south-america]], Australia, New Zealand, and
+southern Africa. In [[dmt-containing-plants-united-states-halpern]] and most Canadian
 provinces.
 
 The species colonizes disturbed habitats including roadsides, ditch banks, field margins,
@@ -88,3 +48,86 @@ The primary toxic principle is **coniine** (2-propylpiperidine), a volatile pipe
 that acts as a non-depolarizing neuromuscular blocking agent at nicotinic acetylcholine
 receptors. Coniine structurally resembles nicotine and produces a similar but more potent
 toxicity profile.
+
+## Overview
+
+Conium Maculatum represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish conium maculatum
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving conium extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Conium Maculatum finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for conium maculatum. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+conium maculatum and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Conium Maculatum has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of conium maculatum into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[conium-maculatus]]
+- [[geranium-maculatum]]
+- [[lamium-maculatum]]

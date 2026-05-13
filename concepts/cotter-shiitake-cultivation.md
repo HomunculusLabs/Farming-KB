@@ -6,11 +6,7 @@ type: concept
 tags: [mycology, shiitake, lentinula, cultivation, logs]
 sources: [cotter-organic-mushroom-farming-mycoremediation]
 ---
-# [[lentinula-edodes]]) is one of the most popular and commercially valuable cultivated mushrooms worldwide. Known for its rich umami flavor and medicinal properties, shiitake can be grown outdoors on logs or indoors on supplemented sawdust. From Cotter's "Organic Mushroom Farming and Mycoremediation."
-
-## Species Overview
-
-- Scientific name: [[staycare-lentinula-edodes-in-bioremediation]]
+# [[staycare-lentinula-edodes-in-bioremediation]]
 - Difficulty: Indoor 3 / Outdoor 1
 - One of the most recognized and marketable mushrooms globally
 - Fruiting temperatures: 50-75°F (10-24°C) depending on strain
@@ -21,41 +17,7 @@ sources: [cotter-organic-mushroom-farming-mycoremediation]
 
 - White, cottony mycelium that becomes brown with age
 - Exudes a light yellow metabolite on overcolonized substrates
-- Slower growing than [[cotter-oyster-mushroom-cultivation]] mycelium
-- Fruity, sweet smell when healthy
-- Commercial spawn available as cereal grain, supplemented sawdust, and wooden dowels (plug spawn)
-- [[comparison-grain-spawn-vs-grain-to-grain-transfer]] preferred for [[cannabis-sativa-indoor-cultivation-techniques]]; sawdust or plug spawn for outdoor
-
-## Strain Selection
-
-Shiitake strains are categorized by fruiting temperature windows:
-
-- **Cold-weather strains**: Fruit at 50-65°F (10-18°C); typically produce in spring and fall
-- **Warm-weather strains**: Fruit at 60-80°F (16-27°C); fruit during summer months
-- **Wide-range strains**: Adapt to broader temperature windows
-- Wild strains can be cloned from mature specimens and tested for fruiting capabilities
-- Local strains adapted to regional conditions generally perform best
-- Rotating strains with different temperature windows maximizes harvest periods year-round
-
-## Outdoor Log Cultivation
-
-### Log Selection and Preparation
-
-- Use fresh hardwood logs, cut within one month of inoculation
-- Oak is preferred, but maple, beech, birch, and ironwood also work well
-- Log diameter: 4-8 inches is ideal; larger logs take longer to colonize but produce longer
-- Length: 3-4 feet for easy handling
-- Avoid logs with signs of other fungal colonization
-- Inoculate immediately after cutting when possible
-
-### Inoculation with Plug Spawn
-
-1. Drill holes 1-1.5 inches deep using a 5/16-inch bit
-2. Space holes in a diamond pattern, 6 inches apart along the log, 2 inches between rows
-3. Insert plug spawn into each hole; tap flush with a hammer
-4. Seal each hole with food-grade wax (cheese wax or beeswax) to prevent drying
-5. Also wax the cut ends of the logs
-6. Stack logs in a shaded area with good [[stamets-growing-room-air-circulation-co2-management]]
+- Slower growing than [[comparison-grain-spawn-vs-grain-to-grain-transfer]] preferred for [[stamets-growing-room-air-circulation-co2-management]]
 
 ### Inoculation with Sawdust Spawn
 
@@ -85,9 +47,7 @@ To stimulate a flush of mushrooms on colonized logs:
 
 ## Indoor Sawdust Cultivation
 
-### [[cotter-compost-substrate-preparation-manure-mushroom-cultivation]]
-
-See also: [[mushroom-log-cultivation]]
+### [[mushroom-log-cultivation]]
 
 ## Practical Applications
 
@@ -118,8 +78,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[mycoremediation]]
 - [[mycelium]]
-- [[cotter-reishi-ganoderma-cultivation]]
 - [[cotter-oyster-mushroom-cultivation]]
 - [[cotter-compost-substrate-preparation-manure-mushroom-cultivation]]

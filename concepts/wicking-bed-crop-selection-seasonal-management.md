@@ -44,17 +44,7 @@ Mediterranean herbs (rosemary, lavender, oregano, sage), succulents, and plants 
 
 ### Large-Spreading Perennials
 
-perennial vegetables and edible perennial crops herbs with extensive rhizomatous root systems (such as horseradish, [[comparison-jerusalem-artichoke-vs-potato]], or mint without barriers) can overwhelm the confined space of a wicking bed, compete aggressively for water and nutrients, and damage the bed liner or reservoir. Restrict these plants to in-ground beds or large containers with dedicated irrigation.
-
-## Seasonal Management Calendar
-
-### Spring Startup
-
-Begin the spring season by checking the reservoir for sediment buildup, verifying that the overflow pipe is clear, and inspecting the geotextile for damage. Top up the growing medium with 2–5 cm of fresh compost mixed with a balanced organic fertilizer. Test the wicking rate by filling the reservoir and observing how quickly moisture appears at the soil surface — this baseline helps identify problems before planting. Harden off seedlings before transplanting, and water from above for the first week to help young roots establish contact with the capillary zone.
-
-### Summer Peak Season
-
-During hot summer months, evapotranspiration demand peaks and the reservoir may need refilling every 3–7 days depending on bed size and planting density. Apply a thick surface mulch (8–10 cm of straw or lucerne hay) to reduce evaporative losses and keep the root zone cool. Monitor for signs of water stress (wilting during the hottest part of the day that does not recover by evening) and provide supplemental surface watering if needed. Liquid feed every 2–3 weeks with compost tea, [[comparison-seaweed-extract-vs-fish-hydrolysate]], or fish emulsion to replace nutrients drawn upward by evaporation and plant uptake. Watch for pest outbreaks — the moist environment can favor slugs, snails, and fungal gnats.
+perennial vegetables and edible perennial crops herbs with extensive rhizomatous root systems (such as horseradish, [[comparison-seaweed-extract-vs-fish-hydrolysate]], or fish emulsion to replace nutrients drawn upward by evaporation and plant uptake. Watch for pest outbreaks — the moist environment can favor slugs, snails, and fungal gnats.
 
 ### Autumn Transition
 
@@ -66,24 +56,95 @@ In frost-prone climates, wicking beds can continue producing cold-hardy crops (k
 
 ## Succession Planting Strategies
 
-The consistent moisture of wicking beds makes them excellent for [[query-what-is-succession-planting-and-how-do-i-plan-a-succession-planting-schedule]] intercropping. Quick-maturing crops like radishes (25–30 days), lettuce (40–50 days), and baby greens (21–28 days) can be harvested and replanted throughout the growing season. Use the "cut-and-come-again" method for salad mixes, harvesting outer leaves while the center continues producing. Pair shallow-rooted and deep-rooted crops in the same bed: lettuce interplanted with carrots, or basil between tomato plants. This maximizes the use of both the dry upper zone and the moist lower zone of the growing medium profile.
-
-### Three-Season Rotation Plan
-
-A practical rotation for a single wicking bed across three seasons might follow this pattern. In spring, plant sugar snap peas along the back trellis, with lettuce, radishes, and spring onions filling the bed below. As the peas finish in early summer, replace them with climbing beans or cucumbers on the trellis, and succession-plant basil, cherry tomatoes, and bush beans in the main bed area. In autumn, remove the summer crops and plant garlic along one edge, with brassicas (cabbage, broccoli, kale) and Asian greens filling the remaining space. Over winter, the garlic matures while the cold-hardy greens continue producing. This rotation cycle maintains continuous production while diversifying the nutrient demands placed on the growing medium.
-
-### Interplanting for Pest Management
-
-The controlled environment of wicking beds allows strategic interplanting to reduce pest pressure. Plant marigolds or calendula along bed edges to deter nematodes and attract beneficial insects. Alliums (chives, garlic, onions) interplanted with leafy greens can repel aphids and cabbage moths. Strongly scented herbs like basil, dill, and coriander attract predatory wasps and hoverflies that control caterpillar and aphid populations. Avoid planting members of the same family in succession — follow brassicas with alliums or legumes, not with more brassicas — to break pest and disease cycles.
-
-## Nutrient Management in Wicking Beds
-
-Nutrient availability in wicking beds differs from conventional gardens due to the upward water movement. Mobile nutrients (nitrate, potassium, sulfate) move freely with the water and are readily available throughout the profile. Less mobile nutrients (phosphorus, calcium, iron, zinc) may become depleted in the upper root zone over time. Address this by banding slow-release phosphorus sources (rock phosphate, bone meal) at mid-depth during bed preparation, and applying foliar sprays of micronutrients (iron chelate, zinc sulfate) if deficiency symptoms appear. Annual compost top-dressing replenishes most macronutrients [[teaming-with-nutrients-micronutrients-and-trace-elements]], but targeted supplementation based on soil test results ensures optimal plant nutrition.
+The consistent moisture of wicking beds makes them excellent for [[teaming-with-nutrients-micronutrients-and-trace-elements]], but targeted supplementation based on soil test results ensures optimal plant nutrition.
 
 ### pH Management
 
-The closed system of a wicking bed means that pH can drift over time more than in open-ground gardens. [[coleman-compost-and-organic-fertility-management]] matter decomposition naturally acidifies the growing medium, and the upward movement of dissolved carbonates from water sources may not adequately buffer this effect. Test pH annually using a kit or meter, and amend as needed: dolomite lime (calcium magnesium carbonate) raises pH and adds [[dynamic-accumulator-plants-calcium-and-magnesium]], while elemental sulfur lowers pH gradually. Most vegetable crops prefer a pH of 6.0–6.8, which also optimizes availability of most micronutrients. Avoid using hydrated lime, which can create localized pH spikes that harm soil biology.
+The closed system of a wicking bed means that pH can drift over time more than in open-ground gardens. [[dynamic-accumulator-plants-calcium-and-magnesium]], while elemental sulfur lowers pH gradually. Most vegetable crops prefer a pH of 6.0–6.8, which also optimizes availability of most micronutrients. Avoid using hydrated lime, which can create localized pH spikes that harm soil biology.
 
 ## Water Savings and Efficiency Metrics
 
 Wicking beds typically use 50–80% less water than equivalent in-ground gardens with overhead irrigation, and 30–50% less than drip-irrigated raised beds. The water savings come from three mechanisms: elimination of surface runoff and deep percolation losses, reduction of soil surface evaporation through the dry mulch layer, and delivery of water directly to the root zone where it is most efficiently absorbed. A standard wicking bed measuring 2 m × 1 m with a 20 cm reservoir holds approximately 200–250 liters of water, which can sustain a full planting of leafy greens for 2–3 weeks in summer without any supplemental watering.
+
+## Overview
+
+Wicking Bed Crop Selection Seasonal Management represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish wicking bed crop selection seasonal management
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving wicking extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Wicking Bed Crop Selection Seasonal Management finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for wicking bed crop selection seasonal management. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+wicking bed crop selection seasonal management and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Wicking Bed Crop Selection Seasonal Management has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of wicking bed crop selection seasonal management into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[comparison-wicking-bed-vs-container-gardening]]
+- [[comparison-wicking-bed-vs-raised-bed]]
+- [[query-how-do-i-build-a-wicking-bed-for-my-garden]]

@@ -8,31 +8,8 @@ sources: ["Shulgin - PIHKAL"]
 ---
 # F-22
 
-[[qualitative-comments-methodology-pihkal]] recorded.
-
-## Extensions and Commentary
-
-And here is yet another dihydrobenzofuran which is not of a very high potency if, indeed, it is active at all. This particular dihydrobenzofuran analogue, F-22, had sort of tickled my fancy as being an especially good candidate for activity. It had a certain swing to it. F-22, like LSD-25. And here it was finished,
-
-just five days before I had to deliver a paper concerning the syntheses (and activities!) of all these dihydrobenzofurans to the marijuana congress. Could this possibly be another LSD? I was sufficiently convinced that the possibility was real, that I actually started the screening process at a most unusually low level of 10 micrograms. Two days later, I upped this to a dose of 25 micrograms (no activity again) and three days after that, at 1 AM on the polar flight to Copenhagen, I swallowed the "monstrous" dose of 50 micrograms. Shoot the works. If I were to blossom all over the tourist section of the SAS plane, well, it would be quite a paper to give. If not, I could always say something like, "The active level has not yet been found." No activity. Another Walter Mitty fantasy down the tubes.
-
-And, as it turned out, the entire project pretty much ran out of steam. A number of clever analogs had been started, and would have been pursued if there had been any activity promised of any kind with any of these dihydrobenzofurans. The "other" benzaldehyde described above, could have been run in a manner parallel to that proposed for the counterpart with F-2, to make the eventual amphetamine, 7-(2-aminopropyl)-2,2-dimethyl-5-methoxy-2,3-dihydrobenzofuran. Great strides had been made towards F-233 (I have discussed the naming system under F-2, with the F standing for the furan of benzofuran and the 2 and 3 and 3 being the positions of the methyl groups on it). The reaction of 4-methoxyphenol with 1-chloro-3-methyl-2-butene gave the ether which underwent the thermal Claisen rearrangement to 2-(1,1-dimethylallyl)-4-methoxyphenol with a bp of 148-157 deg C at 30 mm/Hg. This was cyclized to the intermediate cycle 2,3,3-trimethyl-2,3-dihydrobenzofuran which, after distillation, was shown to be only 80% pure by GC analysis. This was, nonetheless, (and with the hope that is in the very fiber of a young innocent chemist), pushed on to the benzaldehyde stage (and there were a not-too-surprising four benzaldehydes to be found in the oil that was produced, which refused to crystallize). And then (when sheer desperation replaced hope) these were condensed with nitroethane to form an even worse mixture. Maybe something might crystallize from it? Nothing ever did. Junk. Everything was simply put on the shelf where it still rests today, and F-233, 6-(2-aminopropyl)-5-methoxy-2,3,3-trimethyl-2,3-dihydrobenzofuran, remains the stuff of speculation.
-
-And a start towards F-23, 6-(2-aminopropyl)-2,3-dimethyl-5-methoxy-2,3-dihydrobenzofuran, got just as far as the starting ether, when it occurred to me that the final product would have an unprecedented three chiral centers, and so a total of four racemic pairs of diastereoisomers. And then I discovered that the starting allyl halide, crotyl chloride, was only 80% pure, with the remaining 20% being 3-chloro-1-butene. This would have eventually produced a 2-ethyl-analogue, 6-(2-aminopropyl)-2-ethyl-5-methoxy-2,3-dihydrobenzofuran, with its two chiral centers and two more pairs of stereoisomers (not to speak
-
-of the need to devise an entirely new coding system). Unless something were to fall into my lap as a crystalline intermediate, the final mess could have had at least six discreet compounds in it, not even considering palmer-about-mushrooms-foraging-basics-and-safety profiles are based on limited self-experimentation. Exercise
-extreme caution. This compound is not approved for human consumption.
-
-## See Also
-
-- [[2c-g-4-entity-pihkal]]
-- [[2-br-4-5-mda-entity-pihkal]]
-
-- PIHKAL (Shulgin & Shulgin, 1991)
-- Related benzofuran compounds
-## Practical Applications
-
-F-22 -- 6-(2-AMINOPROPYL)-2,2-DIMETHYL-5-METHOXY-2,3-DIHYDROBENZOFURAN -- [[2c-b-pihkal-entry-20]] #80 has a range of practical applications that make it relevant to
+[[2c-g-4-entity-pihkal]]
+- [[2c-b-pihkal-entry-20]] #80 has a range of practical applications that make it relevant to
 both researchers and practitioners. Understanding these applications
 requires familiarity with the underlying principles and their
 manifestation in real-world contexts. The breadth of applications
@@ -87,3 +64,87 @@ Learning from both successes and failures is essential for continuous
 improvement. Maintaining records of observations, interventions, and
 outcomes creates a valuable knowledge base that supports progressively
 better results with each iteration of practice and experimentation.
+
+## Overview
+
+F 22 Entity Pihkal represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish f 22 entity pihkal
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving f extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+F 22 Entity Pihkal finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for f 22 entity pihkal. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+f 22 entity pihkal and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+F 22 Entity Pihkal has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of f 22 entity pihkal into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[2c-c-entity]]
+- [[2c-o-4-entity]]
+- [[4-ho-dbt-entity-tihkal]]
+- [[mckenna-dmt-i-thou-relationship-entity-encounter-ethics]]

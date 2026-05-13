@@ -56,9 +56,7 @@ On Lord Howe Island, the kentia palm grows in lowland and montane subtropical ra
 
 The species is particularly abundant on the southern slopes of the island's two main mountains, Mount Gower and Mount Lidgbird. It also grows in the island's palm forests along stream valleys.
 
-Lord Howe Island has [[query-how-do-i-grow-bananas-in-a-subtropical-climate]] with warm, moist summers and mild, wet winters. Mean annual rainfall is approximately 1,700 millimeters, distributed fairly evenly throughout the year.
-
-Soils are derived from volcanic basalt and are rich in [[fukuoka-textdoc-composting-critique-futility-prepared-organic-matter]]. The deep, well-drained forest soils provide ideal conditions for root development.
+Lord Howe Island has [[fukuoka-textdoc-composting-critique-futility-prepared-organic-matter]]. The deep, well-drained forest soils provide ideal conditions for root development.
 
 The palm grows both as a canopy emergent in lowland forests and as an understory component in montane forests. It frequently dominates lowland palm forest communities.
 
@@ -76,14 +74,8 @@ Optimal temperature ranges from 18 to 27 degrees Celsius. The palm is sensitive 
 
 Consistent moisture is preferred, with the soil kept evenly moist but not waterlogged. The species is more drought-tolerant than most indoor palms but develops brown leaf tips if allowed to dry completely.
 
-A well-draining [[solomon-potting-mix-and-seedling-soil-recipe]] containing peat, perlite, and sand supports healthy root growth. Repotting every 2 to 3 years prevents root-bound conditions.
+A well-draining [[query-how-to-protect-plants-from-frost-and-extend-the-growing-season]] supports steady growth.
 
-Kentia palms are slow growers indoors, typically producing 1 to 2 new fronds per year. Fertilization with a balanced palm fertilizer during [[query-how-to-protect-plants-from-frost-and-extend-the-growing-season]] supports steady growth.
-
-The species is relatively pest-resistant but may be affected by spider mites, mealybugs, and scale insects. Good [[stamets-growing-room-air-circulation-co2-management]] and periodic hosing of foliage help prevent infestations.
-
-## Ecological and Economic Value
-
-On Lord Howe Island, Howea forsteriana is a dominant component of the native [[fukuoka-pine-forest-ecosystem-collapse-cascade-matsutake]]. Its fruits and seeds are an important food source for native birds and invertebrates.
+The species is relatively pest-resistant but may be affected by spider mites, mealybugs, and scale insects. Good [[fukuoka-pine-forest-ecosystem-collapse-cascade-matsutake]]. Its fruits and seeds are an important food source for native birds and invertebrates.
 
 The palm forests of Lord Howe Island provide habitat for several endemic and threatened species, including the Lord Howe woodhen (Gallirallus sylvestris) and the Lord Howe currawong (Strepera graculina crissalis).

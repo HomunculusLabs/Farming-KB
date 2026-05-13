@@ -8,9 +8,7 @@ type: concept
 ---
 # Mushroom Growing Environmental Parameters
 
-Successful [[accessible-mushroom-cultivation-for-disabilities]] requires precise control of environmental
-conditions throughout two distinct phases: colonization (mycelial growth on
-substrate) and fruiting ([[bloomfield-mushroom-formation-fruiting-body-development-cultivation]] and development). Each species
+Successful [[bloomfield-mushroom-formation-fruiting-body-development-cultivation]] and development). Each species
 has specific optimal ranges, but the underlying principles are universal
 across edible and medicinal fungi.
 
@@ -21,10 +19,7 @@ nutrients and building the network that will support fruiting.
 
 ### Temperature
 
-Most [[fungi-cultivated-mushrooms-pathogens-competitors]] colonize optimally at 20-28C (68-82F):
-
-- Oyster mushrooms (Pleurotus ostreatus): 24-28C
-- Shiitake ([[staycare-lentinula-edodes-in-bioremediation]]): 22-25C
+Most [[staycare-lentinula-edodes-in-bioremediation]]): 22-25C
 - Lion's mane (Hericium erinaceus): 22-25C
 - Reishi ([[stamets-reishi-ganoderma-lucidum-cultivation]]): 25-30C
 - King oyster (Pleurotus eryngii): 22-25C

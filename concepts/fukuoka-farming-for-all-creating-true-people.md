@@ -6,29 +6,7 @@ type: concept
 
 # Fukuoka Farming for All and Creating True People
 
-[[masanobu-fukuoka]]'s vision extended far beyond agricultural technique. In his later writings, he articulated a comprehensive philosophy of human restoration — a program he called **"Farming for All"** — rooted in the conviction that returning to the land is not merely an economic or ecological choice, but the essential path to becoming what he called **"true people."**
-
-## Civilization's Disconnection from Nature
-
-Fukuoka believed that modern civilization had severed humanity's most fundamental relationship — the direct, sensory connection with the natural world. This disconnection was not abstract or philosophical; it was bodily and immediate, affecting every dimension of human perception:
-
-> "People no longer tread over the bare earth. Their hands have drawn away from the grasses and flowers, they do not gaze up into the heavens, their ears are deaf to the songs of the birds, their noses are rendered insensitive by exhaust fumes, and their tongues have forgotten the simple tastes of nature."
-
-For Fukuoka, this was not romantic nostalgia but a diagnosis of existential impoverishment. Each of the five senses — touch, sight, hearing, smell, and taste — had been systematically dulled or redirected by the artificial environments of modern life. The consequence was total: **"All five senses have grown isolated from nature."** When the body no longer perceives the living world, the mind and spirit follow into abstraction and alienation.
-
-He drew a precise metaphor to describe this estrangement:
-
-> "People have become two or three steps removed from true man in the same way that someone riding in his car over asphalt-paved roads is two or three steps removed from the bare earth."
-
-The "true man" is the human being in direct contact with the earth — walking on soil, feeling weather, eating food known by the hands that grew it. Every layer of technology, every mediation between the body and the ground, constitutes a step away from that original wholeness. Modern life, paved and insulated, has placed most people several such steps away, to the point where they no longer recognize what has been lost.
-
-Fukuoka was particularly sharp in his critique of Japan's modernization:
-
-> "Progress in Japan since the Meiji Reformation has brought material confusion and spiritual devastation."
-
-The Meiji era's embrace of Western industrial civilization had, in his view, created a society that was materially wealthy but spiritually bankrupt — a trade that was, in ultimate terms, catastrophic. He went further, offering a medical metaphor for the entire culture:
-
-> "Japan can be likened to a patient dying of [[fukuoka-cultural-disease-five-senses-alienated-nature]] who is submitted to a medical experiment."
+[[fukuoka-cultural-disease-five-senses-alienated-nature]] who is submitted to a medical experiment."
 
 The "medical experiment" was the continuing application of technological and economic solutions to problems that were, at root, spiritual and ecological. Just as modern medicine often treats symptoms rather than causes, modern civilization addresses the crises it creates with the same thinking that produced them, accelerating rather than reversing the underlying disease.
 
@@ -102,29 +80,6 @@ The consumer who demands cheap food, perfect produce, and year-round availabilit
 
 > "Farmers themselves have destroyed the earth while praying for its protection."
 
-The modern farmer applies chemicals to the soil while asking God to bless the harvest. This contradiction — destroying with one hand what one prays to protect with the other — is, for Fukuoka, the defining absurdity of [[fukuoka-critique-modern-agriculture]] and, by extension, modern civilization.
-
-At the root of this contradiction lies a deeper confusion about love:
-
-> "What everyone really loves is not nature but himself."
-
-People claim to love nature while actually loving the idea of nature, or the benefits nature provides, or the feeling of virtue that comes from environmental concern. Genuine love of nature would mean subordinating human will to natural process — and modern civilization is unwilling to make that sacrifice.
-
-The solution, as always with Fukuoka, is not a technique but a surrender:
-
-> "No 'method' is needed for loving nature. The only road to nature is non-action, the only method is no method at all. All one must do is to do nothing."
-
-This does not mean literal inactivity. It means ceasing to impose human will on natural systems — stopping the compulsive interference that modern civilization treats as progress. When one stops interfering, the natural world reveals its own order, its own beauty, its own capacity for abundance.
-
-The final and most personal obstacle is the self:
-
-> "The first obstacle that blocks the movement back to the land is people; it lies within yourself."
-
-Not economics, not policy, not technology — but the unwillingness of each individual to relinquish the comforts and illusions of modern life. The road back to farming is, in the end, a road back to oneself — to the "true person" who exists beneath the layers of civilized habit and cultural conditioning, waiting to be rediscovered in the simple act of placing one's hands in the soil.
-
-## See Also
-
-- [[one-straw-revolution-overview]] — Fukuoka's foundational work on [[cho-loess-powder-in-natural-farming]]
-- [[do-nothing-farming]] — The agricultural practice that embodies this philosophy
+The modern farmer applies chemicals to the soil while asking God to bless the harvest. This contradiction — destroying with one hand what one prays to protect with the other — is, for Fukuoka, the defining absurdity of [[one-straw-revolution-overview]] — Fukuoka's foundational work on [[do-nothing-farming]] — The agricultural practice that embodies this philosophy
 - — Fukuoka's spiritual vision for agriculture
 - [[natural-farming]] — Overview of Fukuoka's ecological approach

@@ -13,77 +13,101 @@ sources:
   - Kühner R, Romagnesi H. (1953). "Flore analytique des champignons supérieurs." Masson.
   - Bon M. (1987). "The Mushrooms and Toadstools of Britain and North-western Europe." Hodder & Stoughton.
   - Consiglio G, Contu M. (2002). "Il genere Tricholoma in Sardegna." Revista de Micología.
-  - Breso E, Vizzini A. (2014). "[[tricholoma-equestre]] and the Tricholoma terreum complex." Mycotaxon 129(2): 323-333.
----
-
-# Tricholoma terreum
-
-## Overview
-
-Tricholoma terreum, commonly known as the dirty tricholoma or grey tricholoma, is an edible agaricoid fungus in the family Tricholomataceae.
-
-It is a widespread [[ectomycorrhizal-mushroom-fruiting-ecology]] found primarily under conifers, especially pine (Pinus spp.), across Europe and parts of Asia.
+  - Breso E, Vizzini A. (2014). "[[ectomycorrhizal-mushroom-fruiting-ecology]] found primarily under conifers, especially pine (Pinus spp.), across Europe and parts of Asia.
 
 The species was originally described by Jacob Christian Schäffer in 1762 as Agaricus terreus and later transferred to Tricholoma by Paul Kummer in 1871.
 
 For many decades T. terreum was considered one of the safest edible Tricholoma species, recommended as a beginner's mushroom due to its lack of toxic lookalikes.
 
-Recent biochemical studies have prompted renewed investigation into its [[cannabis-safety-profile-and-overdose-risk]], though it remains widely consumed in Mediterranean countries.
+Recent biochemical studies have prompted renewed investigation into its [[duggar-mushroom-harvest-and-post-harvest]] in Spain, Italy, and southern France.
 
-## Taxonomy
+The species is strictly ectomycorrhizal, forming associations primarily with [[bloomfield-boletus-satanus-edible-mushroom-hazards]] with a delicate, mild flavor that pairs well with eggs, cream sauces, and pasta dishes.
 
-- **Kingdom:** Fungi
-- **Division:** Basidiomycota
-- **Class:** Agaricomycetes
-- **Order:** Agaricales
-- **Family:** Tricholomataceae
-- **Genus:** Tricholoma
-- **Species:** T. terreum (Schaeff.) P.Kumm.
+It is one of the most commercially collected [[fukuoka-textdoc-fallacy-infinite-nutritional-analysis]] shows moderate protein content, low fat, and measurable amounts of potassium, phosphorus, and B-group vitamins.
 
-### Synonyms
+Unlike many popular [[fungal-biosorption-of-heavy-metals-by-filamentous-fungi]] when collected from unpolluted forest sites.
 
-- Agaricus terreus Schaeff. (1762)
-- Gyrophila terreus (Schaeff.) Quél. (1886)
-- Melanoleuca terreus (Schaeff.) Murrill (1913)
+## Overview
 
-The specific epithet *terreum* derives from Latin, meaning "of the earth," referring to the ground-like coloration of the cap.
+Tricholoma Terreum represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
 
-## Morphology
+## Key Characteristics
 
-The cap is 3–8 cm in diameter, conical to convex when young, becoming broadly umbonate or nearly flat with age.
+Several defining characteristics distinguish tricholoma terreum
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
 
-Surface is hygrophanous, finely fibrillose-squamulose, dark grey to brownish-grey when moist, paler when dry.
+## Ecological Context
 
-The cap cuticle peels only slightly at the margin, unlike the more readily peeling T. portentosum.
+The ecological relationships involving tricholoma extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
 
-Gills are adnexed to sinuate, fairly crowded, white to greyish-white, developing a slight pinkish tinge with age.
+## Practical Applications
 
-Spore print is white. Basidiospores are ellipsoid to subfusiform, smooth, 5.5–7.5 × 4–5 µm, non-amyloid.
+Tricholoma Terreum finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
 
-The stipe is 4–9 cm tall and 0.8–1.5 cm thick, cylindrical, white to pale grey, slightly fibrillose above a more scaly basal zone.
+## Management and Implementation
 
-Flesh is white, thin, with a mild farinaceous odor and taste reminiscent of fresh cucumber or damp earth.
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
 
-## Distribution and Habitat
+## Regional Considerations
 
-Tricholoma terreum is found across most of Europe, from Scandinavia to the Mediterranean, and extends into North Africa and parts of temperate Asia.
+Different geographic regions present unique challenges and
+opportunities for tricholoma terreum. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
 
-It is most common in the Mediterranean region, where it forms an important part of the autumn [[duggar-mushroom-harvest-and-post-harvest]] in Spain, Italy, and southern France.
+## Sustainability
 
-The species is strictly ectomycorrhizal, forming associations primarily with [[pinus-sylvestris]] (Scots pine) and P. nigra (black pine).
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
 
-Fruiting occurs from September through November, often in large scattered groups on acidic soils in coniferous and mixed woodlands.
+## Research and Development
 
-It is occasionally found under other conifers including spruce (Picea spp.) and larch (Larix spp.), but is rare under broadleaf trees.
+Ongoing research continues to expand understanding of
+tricholoma terreum and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
 
-## Culinary and Nutritional Value
+## Historical Context
 
-Tricholoma terreum is widely regarded as an excellent [[bloomfield-boletus-satanus-edible-mushroom-hazards]] with a delicate, mild flavor that pairs well with eggs, cream sauces, and pasta dishes.
+Tricholoma Terreum has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
 
-It is one of the most commercially collected [[edible-wild-mushrooms-by-region]] in parts of Catalonia and the Languedoc region of France.
+## Integration Strategies
 
-The texture is firm and pleasant when young, though specimens can become somewhat fibrous with age.
+Successful integration of tricholoma terreum into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
 
-[[fukuoka-textdoc-fallacy-infinite-nutritional-analysis]] shows moderate protein content, low fat, and measurable amounts of potassium, phosphorus, and B-group vitamins.
+## Challenges and Solutions
 
-Unlike many popular [[palmer-edible-mushrooms-north-america]], T. terreum contains negligible levels [[fungal-biosorption-of-heavy-metals-by-filamentous-fungi]] when collected from unpolluted forest sites.
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[tricholoma-equestre]]
+- [[tricholoma-matsutake]]
+- [[tricholoma-mongolicum]]
+- [[tricholoma-murrillianum]]
+- [[tricholoma-portentosum]]

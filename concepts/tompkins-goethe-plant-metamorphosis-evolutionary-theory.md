@@ -70,11 +70,8 @@ spiritual and less mechanistic.
 
 Darwin devoted the greater part of his life after publishing The
 Origin of Species in 1859 to studying plants. In 1880, he published
-The [[darwin-power-of-movement-in-plants]] in Plants, documenting his extensive
-experiments on [[tompkins-luther-burbank-intuitive-breeding]] for Burbank's
+The [[tompkins-luther-burbank-intuitive-breeding]] for Burbank's
   methods of communicating with plants
-- [[tompkins-ancient-plant-knowledge]] for Eastern and indigenous
-  perspectives on plant consciousness
 - [[tompkins-plant-perception-experiments]] for modern experimental
   approaches to plant awareness
 
@@ -89,8 +86,6 @@ experiments on [[tompkins-luther-burbank-intuitive-breeding]] for Burbank's
 - Understanding these processes enables more targeted and effective interventions.
 
 ## See Also
-- [[tompkins-jagadis-bose-plant-response-crescograph]]
 - [[tompkins-george-washington-carver-plant-alchemy]]
-- [[tompkins-mitogenetic-rays-plant-cell-communication]]
 - [[tompkins-plant-music-sound]]
 - [[tompkins-soviet-plant-research-gunar-academy]]

@@ -1,5 +1,5 @@
 ---
-title: Wild Foraging Guide
+title: Wild [[edible-wild-mushrooms-foraging-guide]]
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
@@ -115,6 +115,6 @@ Emergency food from pine, birch, slippery elm, and willow. Harvest only strips f
 
 ## Related Concepts
 
-- [[mushroom-foraging-safety-guide]] for detailed [[mushroom-identification]] and danger species
+- [[mushroom-foraging-safety-guide]] for detailed [[bloomfield-angel-of-death-poisonous-mushroom-identification-toxinology]] and danger species
 - [[medicinal-herb-growing]] for cultivated alternatives to wild medicinal plants
 - [[saving-seeds]] -- consider saving and scattering seeds of wild edibles you forage

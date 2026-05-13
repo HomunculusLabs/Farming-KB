@@ -76,71 +76,26 @@ to philosophy, democracy, and the arts.
 This topic page explores the Eleusinian Mysteries in their full historical and
 cultural context, examines the evidence for psychoactive use in ancient
 religious practice, and traces the broader pattern of entheogenic sacraments
-across cultures, from the [[mckenna-vedic-soma-indo-european-mysteries]] of ancient India to the teonanacatl
-mushrooms of Mesoamerica. It also considers the scholarly debates surrounding
-these claims, the work of key researchers including Wasson, Hofmann, Ruck, and
-John Marco Allegro, and the modern revival of interest in ancient entheogenic
-practices within the contemporary psychedelic renaissance. The story that
-emerges is one that challenges conventional assumptions about the relationship
-between religion, [[weil-the-natural-mind-altered-states-normalcy]] of consciousness, and human civilization.
+across cultures, from the [[weil-the-natural-mind-altered-states-normalcy]] of consciousness, and human civilization.
 
 ## Historical Origins and Development
 
 The mythological foundations of the Eleusinian Mysteries are rooted in the
 story of Demeter and Persephone, one of the most psychologically rich narratives
-in all of Greek mythology. As recounted in the [[demeter-and-persephone-the-homeric-hymn-and-eleusinian-foundation-myth]] to Demeter, composed
-sometime between the seventh and sixth centuries BCE, the goddess Demeter
-wandered the earth in grief after her daughter Persephone was abducted by Hades,
-lord of the underworld. During her search, Demeter stopped at Eleusis, where
-she was received by the local king Celeus and his family. In gratitude for their
-hospitality, Demeter attempted to make the king's son Demophoon immortal by
-placing him in a fire each night, but the ritual was interrupted by the boy's
-mother. Demeter then revealed her true identity and instructed the Eleusinians
-in the rites that would thereafter be performed in her honor. The Hymn serves
-not merely as mythological narrative but as an aetiological text explaining the
-origins of agricultural cycles, the changing seasons, and the Mysteries
-themselves.
-
-Archaeological evidence suggests that the cult at Eleusis has roots reaching
-back to the Mycenaean period, around 1450 BCE, making it one of the oldest
-continuously observed religious practices in recorded history. The earliest
-sanctuary was a modest Megaron building, but by the Classical period, the site
-had been transformed into a major religious complex centered on the Telesterion,
-an immense pillared hall capable of holding thousands of initiates. The
-transition from a local agricultural cult to a pan-Hellenic institution was
-greatly accelerated when the Athenian tyrant Peisistratos incorporated the
-## See Also
-
-- [[eleusinian-mysteries-history-and-structure]]
-- [[eleusinian-mysteries-kykeon]]
+in all of Greek mythology. As recounted in the [[eleusinian-mysteries-history-and-structure]]
 - [[eleusinian-mysteries]]
-- [[the-road-to-eleusis-wasson-hofmann-ruck]]
 - [[wasson-hofmann-ruck-theory]]
-- [[kykeon-composition-and-ergot-alkaloid-hypothesis]]
 - [[the-profanation-of-415-bc-and-evidence-for-eleusinian-psychoactivity]]
 - teonanacatl-and-mesoamerican-mushroom-cults
-- [[allegro-main-thesis]]
 - [[allegro-soma-mushroom-thesis]]
-- [[wasson-rediscovery-of-psilocybin]]
 - [[wasson-scholarly-critique-and-legacy]]
-- [[demeter-and-persephone-in-eleusinian-mythology]]
 - [[eleusinian-telesterion-architecture-and-ritual]]
-- [[lesser-and-greater-eleusinian-mysteries]]
 - [[eleusinian-hierophantic-families-eumolpidae-kerykes]]
-- [[ergot-alkaloids-eleusinian-mysteries]]
 - [[plutarch-and-cicero-on-the-eleusinian-mysteries]]
-- [[wasson-mycophobia-mycophilia-theory]]
 - [[mckenna-eleusinian-mysteries]]
-- [[wasson-hofmann-and-ruck-the-collaborative-eleusis-theory]]
-
-## References
-
-1. Hofmann, Albert. "LSD: My Problem Child." McGraw-Hill, 1980.
-2. Wasson, R.G., Hofmann, A., and Ruck, C.A.P. "The [[the-road-to-eleusis-wasson-hofmann-ruck]]: Unveiling
+- [[the-road-to-eleusis-wasson-hofmann-ruck]]: Unveiling
    the Secret of the Mysteries." Harcourt Brace Jovanovich, 1978.
-3. Allegro, John Marco. "The [[allegro-the-sacred-mushroom-amanita-identification]] and the Cross: A Study of the
-   Nature and Origins of Christianity within the Fertility Cults of the
-   [[allegro-fertility-philosophy-of-the-ancient-near-east]] East." Hodder and Stoughton, 1970.
+3. Allegro, John Marco. "The [[allegro-fertility-philosophy-of-the-ancient-near-east]] East." Hodder and Stoughton, 1970.
 4. Wasson, R.G. "Soma: Divine Mushroom of Immortality." Harcourt Brace
    Jovanovich, 1968.
 5. McKenna, Terence. "Food of the Gods: The Search for the Original Tree of

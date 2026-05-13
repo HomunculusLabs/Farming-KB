@@ -9,7 +9,7 @@ created: 2026-05-11
 
 ## Overview
 
-Schizophyllum commune is a globally distributed basidiomycete fungus that has been
+[[schizophyllum-commune]] is a globally distributed basidiomycete fungus that has been
 the subject of a significant ethnobotanical confusion in Oaxaca, Mexico. The
 Mazatec Indians of Oaxaca use the word "nise" (meaning "little bird") to refer to
 both Psilocybe mexicana, a well-documented neurotropic mushroom, and Schizophyllum
@@ -38,40 +38,7 @@ Among the Mazatec people of Oaxaca, the term "nise" translates to "little bird."
 This name is applied to at least two entirely different fungi:
 
 1. **Psilocybe mexicana** — a small, psychoactive mushroom containing
-   [[hplc-analysis-of-psilocybin-and-psilocin]], traditionally used in divinatory ceremonies by
-   Mazatec curanderos. This was one of the first neurotropic species
-   scientifically studied by Roger Heim and R. Gordon Wasson in the 1950s.
-
-2. **Schizophyllum commune** — a common, non-psychoactive wood-decomposing
-   fungus that is sold in popular markets in Guatemala and southeastern
-   Mexico as an edible mushroom.
-
-Despite sharing a common name, these two species belong to completely different
-families, ecological niches, and chemical profiles. There is no relationship
-between them with respect to their properties.
-
-## Reports of "Hallucinogenic" Schizophyllum
-
-Southcott (1974) reported Schizophyllum commune as a hallucinogenic fungus in
-Australia. This report is considered erroneous and likely stems from the same
-kind of naming confusion observed in Mexico, where edible and psychoactive
-species share vernacular names. In the Australian context, Aborigines or other
-local peoples may have used similar names for different species, leading to
-the misattribution of psychoactive properties to Schizophyllum commune.
-
-In Guatemala and southeastern Mexico, Schizophyllum commune is well known as a
-common edible fungus sold in popular markets. Its edibility is well established
-and it is regularly consumed as food without any reported psychoactive effects.
-
-## Historical Context of Mazatec Mushroom Use
-
-The Mazatec people of the Sierra Mazateca in Oaxaca have one of the
-best-documented traditions of entheogenic mushroom use in the world. The key
-figures in documenting this tradition include:
-
-- **Bernardino de Sahagún** (1569-1582), who first recorded the Nahuatl word
-  "teonanácatl" (divine mushroom) in his historical writings
-- **[[richard-evans-schultes]]** (1939), who initiated modern ethnobotanical study
+   [[richard-evans-schultes]]** (1939), who initiated modern ethnobotanical study
   of Mexican hallucinogenic fungi
 - **R. Gordon Wasson** (1957), whose Life magazine article brought Mazatec
   mushroom ceremonies to worldwide attention
@@ -93,12 +60,6 @@ The Mazatec use multiple common names for sacred mushrooms, including:
 The Schizophyllum-Psilocybe naming confusion is not an isolated case. Several
 other examples of vernacular name overlap between edible and psychoactive
 species have been documented in the neurotropic fungi literature:
-
-- **[[lycoperdon-mixtecorum]] and L. marginatum** were reported as narcotic fungi
-  among the Mixtec Indians of Oaxaca by Heim and Wasson (1962), but Ott et al.
-  (1975) later demonstrated these were edible puffballs with no neurotropic
-  properties. The Mixtec likely confused them with traditional neurotropic
-  species used for religious purposes.
 
 - **[[panaeolus-antillarum-misidentification-copelandia-confusion]]**, an edible tropical fungus, is frequently confused
   with Copelandia species by recreational users because both present white

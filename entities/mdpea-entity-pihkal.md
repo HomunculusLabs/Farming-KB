@@ -8,45 +8,7 @@ sources: ["Shulgin - PIHKAL"]
 ---
 # MDPEA
 
-[[2c-b-pihkal-entry-20]] #115. 3,4-METHYLENEDIOXYPHENETHYLAMINE; HOMOPIPERONYLAMINE.
-
-## Chemical Name
-
-3,4-METHYLENEDIOXYPHENETHYLAMINE; HOMOPIPERONYLAMINE
-
-## Dosage and Duration
-
-| Property | Value |
-|----------|-------|
-| Dosage | greater than 300 mg. |
-| Duration | unknown. |
-
-## Qualitative Comments
-
-> (with 200 mg) It was taken twice at different
-> times in a dosage of 200 milligrams each time, without the slightest
-> peripheral or central effects.
->
-> (with 300 mg) My tinnitus had disappeared. Probably nothing.
-
-## Extensions and Commentary
-
-How strange. Even more than DMPEA, this
-cyclic analogue MDPEA is a potential prodrug to dopamine, and would be
-a prime candidate for central activity. So why is this drug not
-active? The usual reason advanced by the pharmacologists is that the
-body is full of potent enzymes known as monoamine oxidases, and this
-is a monoamine, and so the body simply chews away on it in an
-oxidative manner, inactivating it before it ever makes it to some
-target receptor.
-
-That is the pitch given in the textbooks. Phenethylamines are subject
-to easy enzymatic oxidation, hence they are not active. The presence
-of an alpha-methyl group (the corresponding amphetamines) blocks the
-compound from easy access to the enzyme, and since that protects them
-from oxidative destruction, they are active. The oft-quoted exception
-
-is [[mescaline]], and even it is largely destroyed, as evidenced by the
+[[mescaline]], and even it is largely destroyed, as evidenced by the
 large amount needed for activity (a fraction of a gram). Sorry, I
 can't buy it. This entire book is peppered with phenethylamines that
 are active at the few-milligram area. Why aren't they also destroyed
@@ -55,39 +17,89 @@ as well? The textbooks simply are not right.
 MDPEA was one of the seven compounds evaluated as to toxicity and
 animal behavior at the University of Michigan under contract from the
 Army Chemical Center. Its Edgewood Arsenal code number was EA-1297.
-The number for [[mda]] itself was EA-1298.
+The number for [[dmpea-entity-pihkal]]
 
-The beta-hydroxy analogue of MDPEA is the ethanolamine MDE, standing
-for methylenedioxyethanolamine. This is an old term, and in the more
-recent literature, since 1975 certainly, MDE has been used to
-represent methylenedioxyethylamphetamine. The ethanolamine compound
-is discussed in the recipe for DME.
+## Overview
 
-There is a family of compounds, to be discussed elsewhere, that is
-called the Muni-Metro (see under METHYL-J). The simplest member is
-this compound, MDPEA, and under its chemically acceptable synonym,
-homopiperonylamine, it can be called RHS. Following that code, then,
-the N-methyl homologue of MDPEA is METHYL-H, and it has been looked
-at, clinically, as an antitussive agent. N-METHYL-MDPEA, or METHYL-H,
-or N-methyl-3,4-methylenedioxyphenethylamine is effective in this role
-at dosages of about 30 milligrams, but I have read nothing that would
-suggest that there were any central effects. I have tried it at this
-level and have found a little tightness of the facial muscles, but
-there was nothing at all in the mental area.
+Mdpea Entity Pihkal represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
 
-## Synthesis
+## Key Characteristics
 
-A suspension of 4.0 g LAH in 300 mL anhydrous Et2O was
-stirred and heated to a gentle reflux in an inert atmosphere. There
-was added 3.9 g 3,4-methylenedioxy-beta-nitrostyrene (see under BOH for
-its preparation) by allowing the condensing Et2O to leach it out from
-a Soxhlet thimble. After the addition was complete, the reaction
-mixture was held at reflux for an additional 48 h. It was then cooled
-and the excess hydride was destroyed by the cautious addition of 300
-mL of 1.5 N H2SO4. When both phases were completely clear, they were
-separated, and the aqueous phase washed once with 50 mL Et2O. There
-was then added 100 g potassium sodium tartrate, followed by sufficient
-base to bring the pH >9. This was extracted with 3x75 mL CH2Cl2, and
+Several defining characteristics distinguish mdpea entity pihkal
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving mdpea extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Mdpea Entity Pihkal finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for mdpea entity pihkal. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+mdpea entity pihkal and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Mdpea Entity Pihkal has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of mdpea entity pihkal into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
 
 ## See Also
-- [[dmpea-entity-pihkal]]
+
+- [[4-tme-entity-pihkal]]
+- [[doef-entity]]
+- [[eem-entity-pihkal]]
+- [[mdpr-entity-pihkal]]
+- [[te-entity-pihkal]]

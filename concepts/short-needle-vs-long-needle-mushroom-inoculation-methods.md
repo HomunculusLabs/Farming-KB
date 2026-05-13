@@ -2,10 +2,7 @@
 
 ## Overview
 
-Inoculation -- introducing [[emcdda-hallucinogenic-mushroom-spore-distribution-home-cultivation]] solution into a sterile substrate -- is
-the pivotal moment in cultivation. Everything preceding it exists to make
-inoculation successful, and everything following it depends on it having been
-performed correctly. D.H. Jarrold's "Indoor [[duggar-mushroom-growing-history-and-methods]] Technique for the
+Inoculation -- introducing [[duggar-mushroom-growing-history-and-methods]] Technique for the
 Boil-A-Bag" presents two distinct methods: the short needle method and the long
 needle method. Each has its own procedure, advantages, and practical
 considerations.
@@ -13,14 +10,7 @@ considerations.
 ## The Short Needle Method
 
 The short needle method uses a standard syringe with a relatively short needle --
-the type commonly included with pre-made [[mushroom-spore-syringes]]. The cultivator inoculates
-the substrate bag by inserting the needle directly through the plastic bag wall at
-a point below the filter level.
-
-### Preparation and Taping
-
-Because the short needle cannot reach deep into the substrate through the filter
-opening, it must pierce the bag wall, creating a [[fungicide-treated-seed-contamination-risk-mushroom-substrate]]. Jarrold
+the type commonly included with pre-made [[fungicide-treated-seed-contamination-risk-mushroom-substrate]]. Jarrold
 addresses this by requiring adhesive tape strips. Before inoculation, tape strips
 are pre-positioned on the bag at the planned injection sites. After the needle is
 withdrawn, the tape is immediately pressed over the puncture to seal it.

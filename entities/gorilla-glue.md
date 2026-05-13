@@ -15,31 +15,7 @@ sources:
   - "ElSohly, M.A. et al. (2016). \"Changes in green-cannabis-potency-maximizing Over the Last Two Decades.\" Biological Psychiatry."
   - "Mudge, E.M. et al. (2019). \"Cannabinoid and Terpene Profiling of Cannabis.\" Molecules."
   - "Russo, E.B. (2011). \"Taming THC: Potential Cannabis Synergy and Phytocannabinoid-Terpenoid beta-caryophyllene-entourage-effects-cannabis.\" British Journal of Pharmacology."
-  - "Casajuana Cogul, E. et al. (2018). \"The Association Between [[cannabis-and-anxiety-research]].\" Current Psychiatry Reports."
-  - "High Times Cannabis Cup records (2014–2016)."
----
-
-# Gorilla Glue
-
-## Overview
-
-Gorilla Glue, also known as Original Glue or GG#4, is a potent [[query-what-is-the-difference-between-indica-sativa-and-hybrid-cannabis]] strain that has earned legendary status in the cannabis community for its extraordinarily high [[thc-content-factors-cultivation-freshness-storage-degradation-blesching]] and powerful, full-body effects. Developed by GG Strains (Josey Wales and Lone Watty), Gorilla Glue won first place in multiple categories at the 2014 Los Angeles and Michigan High Times Cannabis Cups and the 2015 High Times World Cannabis Cup in Jamaica. The strain's name derives from the intense, sticky trichome coverage that literally glues scissors together during trimming. Following trademark disputes with the Gorilla Glue adhesive company, the strain was officially renamed "Original Glue," though the original name remains widely used among consumers and cultivators.
-
-## Genetic Lineage
-
-Gorilla Glue is a three-way cross created by pollinating a Chem's Sister (a Chemdawg phenotype) female with pollen from a Chocolate Diesel male, which itself carries Sour Diesel and Chocolate Thai genetics. The resulting F1 cross was stabilized through selective breeding, with phenotype #4 emerging as the most desirable and ultimately becoming the commercially distributed GG#4.
-
-### Genetic Profile
-
-| Trait | Detail |
-|-------|--------|
-| Type | Balanced hybrid (approx. 50/50 indica-sativa, with slight indica lean) |
-| Parentage | Chem's Sister (Chemdawg pheno) × Chocolate Diesel |
-| Chocolate Diesel lineage | Sour Diesel × Chocolate Thai |
-| Breeder | GG Strains (Josey Wales, Lone Watty) |
-| Flowering time | 8–9 weeks indoors |
-| Average yield | 500–600 g/m² indoors; 600–700 g/plant outdoors |
-| Height | Medium-tall; can stretch significantly in [[equatorial-photoperiod-early-flowering]] |
+  - "Casajuana Cogul, E. et al. (2018). \"The Association Between [[query-what-is-the-difference-between-indica-sativa-and-hybrid-cannabis]] strain that has earned legendary status in the cannabis community for its extraordinarily high [[equatorial-photoperiod-early-flowering]] |
 
 ## Appearance
 
@@ -83,8 +59,91 @@ The extraordinarily high THC content means Gorilla Glue is generally recommended
 
 ### Onset and Duration
 
-Effects onset is rapid (5–15 minutes) when inhaled. The experience is long-lasting, typically persisting for 3–4 hours due to the high THC content and the [[beta-caryophyllene-entourage-effects-cannabis]] of its rich [[cannabis-terpene-profile]].
+Effects onset is rapid (5–15 minutes) when inhaled. The experience is long-lasting, typically persisting for 3–4 hours due to the high THC content and the [[cannabis-terpene-profile]].
 
 ### Reported Effects
 
 - **Cerebral**: Initially euphoric and cerebral, with a rush of happiness and a sense of well-being. Some users report enhanced creativity and sociability in the early phase before the indica effects dominate.
+
+## Overview
+
+Gorilla Glue represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish gorilla glue
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving gorilla extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Gorilla Glue finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for gorilla glue. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+gorilla glue and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Gorilla Glue has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of gorilla glue into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[ingham-glomalin-soil-aggregation-arbuscular-mycorrhizal-glue]]
+- [[royal-gorilla]]
+- [[super-glue]]

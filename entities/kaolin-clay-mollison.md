@@ -77,15 +77,8 @@ all influence the optimal approach to implementation.
 
 ## See Also
 
-- [[clay-pellet-seed-broadcasting]]
 - [[fukuoka-desert-revegetation-clay-pellet-method]]
-- [[fukuoka-orchard-soil-restoration-barren-clay]]
 - [[kaolin]]
-- [[query-how-do-clay-seed-balls-work-for-natural-farming]]
-
-## See Also
-
 - [[orthoclase]] - Parent mineral that weathers to kaolin
-- [[bentonite-clay-sealing-mollison]] - Expanding clay used for pond and dam sealing
 - [[soil-water-storage-mollison]] - Soil structure and water retention
 - [[earth-dam-building-mollison]] - Construction using clay-rich soils

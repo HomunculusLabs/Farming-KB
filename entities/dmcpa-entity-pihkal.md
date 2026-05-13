@@ -46,9 +46,7 @@ PIHKAL entry #56. 2-(2,5-DIMETHOXY-4-METHYLPHENYL)CYCLOPROPYLAMINE.
 
 Most of the human trials took place in the fifteen to twenty milligram range. Several reports describe some muscular tremor, especially in the earliest part of the experience, but this never seemed to be a concern. The efforts to lock imagery to music were not too successful. All of these clinical studies were conducted on the trans-compound, but on the racemic mixture. This has
 
-been resolved into the two [[cannabis-concentrates-and-extracts]] dried with anhydrous MgSO4. Removal of the
-
-solvent under vacuum gave a residue of the azide, which was dissolved in 10 mL anhydrous toluene. This solution was heated on the [[scythian-cannabis-steam-bath-ritual]] until the nitrogen evolution was complete, and the removal of the solvent under vacuum gave a residue of crude isocyanate as an amber oil. This intermediate isocyanate was dissolved in 5.4 g benzyl alcohol and the reaction mixture was heated on the steam bath for 6 h. The excess benzyl alcohol was removed by distillation, yielding trans-2-(2,5-dimethoxy-4-methylphenyl)carbobenzoxyamidocyclopropane as a crystalline residue. This was recrystallized from an EtOAc/hexane mixture to give 6.13 g of a crystalline product with a mp of 107-108 deg C. Anal. (C20H23NO4) C,H,N.
+been resolved into the two [[scythian-cannabis-steam-bath-ritual]] until the nitrogen evolution was complete, and the removal of the solvent under vacuum gave a residue of crude isocyanate as an amber oil. This intermediate isocyanate was dissolved in 5.4 g benzyl alcohol and the reaction mixture was heated on the steam bath for 6 h. The excess benzyl alcohol was removed by distillation, yielding trans-2-(2,5-dimethoxy-4-methylphenyl)carbobenzoxyamidocyclopropane as a crystalline residue. This was recrystallized from an EtOAc/hexane mixture to give 6.13 g of a crystalline product with a mp of 107-108 deg C. Anal. (C20H23NO4) C,H,N.
 
 A solution of 1.5 g trans-2-(2,5-dimethoxy-4-methylphenyl)carbobenzoxyamidocyclopropane in 120 mL MeOH containing 200 mg 10% Pd/C...
 
@@ -56,14 +54,8 @@ A solution of 1.5 g trans-2-(2,5-dimethoxy-4-methylphenyl)carbobenzoxyamidocyclo
 
 ## Safety Notes
 
-DMCPA is a research chemical documented in PIHKAL. Dosage data and safety profiles are based on limited shulgin [[shulgin-safety-principles-self-experimentation]]. Exercise
-extreme caution. This compound is not approved for human consumption.
+DMCPA is a research chemical documented in PIHKAL. Dosage data and safety profiles are based on limited shulgin [[dmcpa-entity]]
 
-## See Also
-
-- [[dmcpa-entity]]
-
-- [[2c-o-4-entity-pihkal]]
 - [[2-br-4-5-mda-entity-pihkal]]
 
 - PIHKAL (Shulgin & Shulgin, 1991)

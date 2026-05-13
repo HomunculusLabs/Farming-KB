@@ -11,11 +11,8 @@ sources:
 
 ## Overview
 
-PSK (polysaccharide-K, trade name Krestin), a protein-bound polysaccharide derived from mycelial cultures of [[psp-phase-clinical-trials]]
-- [[mushroom-apoptosis-mechanisms]]
-- [[cordyceps-research-cancer]]
+PSK (polysaccharide-K, trade name Krestin), a protein-bound polysaccharide derived from mycelial cultures of [[mushroom-apoptosis-mechanisms]]
 - [[mushroom-cancer-clinical-trials-overview]]
-- [[psilocybin-clinical-trials]]
 - [[psk-breast-lung-cancer-clinical-trials]]
 ## Background and Context
 

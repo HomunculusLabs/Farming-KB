@@ -50,15 +50,11 @@ The most commercially significant finding was the advancement of the first fruit
 
 ### Increased Flush Size
 
-The first flush showed a remarkable increase in the number of fruit bodies produced. Control cultures produced **1 to 3 mushrooms** in the first flush, while brassinosteroid-treated cultures produced **4 to 7 mushrooms** — a two- to three-fold increase in first-flush yield. This larger initial flush suggests that the brassinosteroid promotes more uniform and extensive [[growing-gourmet-primordia-formation-pinning]] across the substrate surface. In standard cultivation, primordia density is often limited by the availability of nutrients and moisture at the casing-substrate interface, and it is possible that the faster mycelial growth and improved [[arbuscule-isolation-metabolic-activity-assays]] under brassinosteroid treatment allows the mycelium to support a larger number of simultaneously developing fruit bodies.
+The first flush showed a remarkable increase in the number of fruit bodies produced. Control cultures produced **1 to 3 mushrooms** in the first flush, while brassinosteroid-treated cultures produced **4 to 7 mushrooms** — a two- to three-fold increase in first-flush yield. This larger initial flush suggests that the brassinosteroid promotes more uniform and extensive [[arbuscule-isolation-metabolic-activity-assays]] under brassinosteroid treatment allows the mycelium to support a larger number of simultaneously developing fruit bodies.
 
 ### Higher Total Dry Mass
 
-The steroid-treated cultures afforded a remarkably higher dry mass than the control cultivations: **3.4–3.9 g versus 2.3–2.9 g per 10 g of substrate**. This represents an approximately 30–50% increase in [[stamets-biological-efficiency-yield]] (dry mass of mushrooms relative to dry mass of substrate). The increase is consistent with both the larger flush size and the likelihood of more flushes within a given time frame. The authors report observing results across five flushes during the fruiting period, with the brassinosteroid-treated cultures producing more total fruit bodies across all flushes compared to the control. This cumulative effect means that the yield advantage compounds over the entire cropping cycle, not just in the first flush.
-
-### Suppression of Aborted Fruit Bodies
-
-Incomplete fruit bodies (aborts) are a common problem in mushroom cultivation, where primordia initiate but fail to develop into mature mushrooms. The formation of such incomplete fruit bodies was **almost completely suppressed** by the brassinosteroid treatment. This is a particularly valuable effect because aborts represent wasted metabolic resources that the mycelium invested in initiating primordia, and they can serve as entry points for contamination by moulds and bacteria. The near-elimination of aborts suggests that the brassinosteroid promotes more uniform and vigorous development of initiated primordia, possibly by improving nutrient transport to developing fruit bodies or by enhancing the coordination between the [[gadd-mycelial-network-dynamics]] and individual fruit body primordia.
+The steroid-treated cultures afforded a remarkably higher dry mass than the control cultivations: **3.4–3.9 g versus 2.3–2.9 g per 10 g of substrate**. This represents an approximately 30–50% increase in [[gadd-mycelial-network-dynamics]] and individual fruit body primordia.
 
 ## Morphological Changes: Suppressed Annulus
 
@@ -83,43 +79,6 @@ However, the morphological changes (suppressed annulus) may be undesirable for c
 
 The study was a short communication in *Naturwissenschaften* and as such presents limited experimental detail. It was conducted with only one brassinosteroid (22S,23S-homobrassinolide) at one concentration (10⁻² ppm) on one fungal strain of one species. No statistical analysis (standard deviations, p-values) was reported for the quantitative data. Key unanswered questions include:
 
-- Whether the effect is generalisable to other *Psilocybe* species, to other psilocybin-containing fungi, or to commercially cultivated edible mushrooms (e.g., *[[genetic-improvement-agaricus-bisporus-molecular-approaches]]*, *Pleurotus ostreatus*).
-- The optimal dose range and whether higher concentrations produce diminishing returns, toxicity, or more pronounced morphological changes.
-- Whether brassinosteroids are naturally produced by fungi as endogenous signalling molecules.
-- The molecular mechanism of action — whether brassinosteroid receptors exist in fungi (analogous to BRI1 in plants) or whether the effect is mediated through non-specific membrane effects.
-- Whether the morphological changes (annulus suppression) are dose-dependent and can be avoided at lower concentrations while retaining the growth-promoting effects.
-
-## Practical Applications
-
-The principles and techniques discussed here have wide-ranging applications
-across multiple disciplines and contexts. Practitioners and researchers
-continue to explore new ways to integrate these concepts into modern practice,
-adapting traditional knowledge to contemporary challenges and opportunities.
-
-## Key Considerations
-
-Several important factors influence the effectiveness and outcomes described
-in this topic. Understanding these considerations helps practitioners make
-informed decisions and avoid common pitfalls. Environmental conditions,
-timing, and material selection all play critical roles.
-
-## Historical Context
-
-The historical development of this subject reflects centuries of accumulated
-knowledge and practical experience. From traditional methods passed down
-through generations to modern scientific approaches, the evolution continues
-to inform current best practices and research directions.
-
-## Common Challenges
-
-Practitioners frequently encounter several challenges when working with
-these concepts. Climate variability, resource limitations, and knowledge
-gaps can all affect outcomes. Addressing these challenges requires patience,
-observation, and a willingness to adapt approaches based on results.
-
-## See Also
-- [[psilocybe-cubensis]]
-- [[brassinosteroid]]
+- Whether the effect is generalisable to other *Psilocybe* species, to other psilocybin-containing fungi, or to commercially cultivated edible mushrooms (e.g., *[[psilocybe-cubensis]]
 - [[brassinosteroid-growth-promotion-psilocybe-cubensis]]
-- [[doc]]
 - [[psilocybin]]

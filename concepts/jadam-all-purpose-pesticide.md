@@ -12,14 +12,11 @@ sources:
 
 ## Overview
 
-JADAM pesticide recipe #12 is the all-purpose pesticide designed to control **both [[query-how-to-manage-pests-and-diseases-in-mushroom-cultivation]] simultaneously**. It combines all four core JADAM pesticide ingredients: [[jadam-wetting-agent-jwa]], [[comparison-jerusalem-artichoke-vs-potato]] [[jadam-sulfur-js]] 1.5 L (0.4 gal)
-- [[jadam-herb-solution-jhs]] 5 L (1.3 gal)
-- KPFR [[jadam-fungal-disease-management]] (recipe #4) for fungal diseases only (no pests)
-- Use [[jadam-concentration-cautions]] - Important concentration [[psychedelic-safety-guidelines-turner]]
+JADAM pesticide recipe #12 is the all-purpose pesticide designed to control **both [[jadam-wetting-agent-jwa]], [[jadam-sulfur-js]] 1.5 L (0.4 gal)
+- [[jadam-fungal-disease-management]] (recipe #4) for fungal diseases only (no pests)
+- Use [[psychedelic-safety-guidelines-turner]]
 
-- [[jadam-canker-leaf-spot-pesticide]] - Recipe #5 (stronger disease focus)
 - [[jadam-concentration-guidelines]] - Detailed concentration safety rules
-- [[jadam-foam-gun-pesticide-method]]
 - [[jadam-pesticide-mixing-guidelines]]
 ## Practical Applications
 
@@ -98,6 +95,12 @@ to inform current best practices and research directions.
 
 ## See Also
 
+- [[jadam-chitosan-fertilizer]]
+- [[jadam-customized-microorganism-medium]]
+- [[jadam-history-founders]]
+- [[jadam-jhs-herb-selection-guide]]
 - [[jadam-local-material-resource-cycling]]
-- [[jadam-microbe-culturing-stages-and-indicators]]
-- [[jadam-moth-pesticide]]
+- [[jadam-natural-pesticide-universal]]
+- [[jadam-planthopper-leafhopper-pesticide]]
+- [[jadam-soil-diagnosis-methods]]
+- [[jadam-water-spraying-guidelines]]

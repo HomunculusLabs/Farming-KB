@@ -27,45 +27,7 @@ properties. The species is distributed throughout tropical and subtropical
 regions from Africa to Southeast Asia and naturalized in many Pacific islands.
 Its primary bioactive constituent, plumbagin, is a naphthoquinone with
 well-documented cytotoxic, antibacterial, antifungal, and antiplasmodial
-activities. In Ayurveda, the [[iboga-root-bark-preparation]] is the principal plant part used,
-classified as a *tikta* (bitter) and *katu* (pungent) herb with *ushna*
-(heating) potency.
-
-## Taxonomy and Morphology
-
-- **Kingdom:** Plantae
-- **Division:** Tracheophyta
-- **Class:** Magnoliopsida
-- **Order:** Caryophyllales
-- **Family:** Plumbaginaceae
-- **Genus:** *Plumbago*
-- **Species:** *P. zeylanica* L.
-
-**Synonyms:** *Plumbago rosea* L.; *Plumbago indica* auct. non L.
-
-### Plant Description
-
-- **Habit:** Semi-woody perennial shrub, 0.5–2 m tall, often scandent or
-  climbing when support is available; stems slender, ribbed, glabrous to
-  pubescent
-- **Leaves:** Alternate, simple, 3–9 cm × 1.5–4 cm, obovate to spatulate,
-  apex acute or rounded, base cuneate; margins entire; petiole short;
-  surface glabrous or sparsely glandular-pubescent
-- **Flowers:** Perfect, actinomorphic, in terminal racemes 5–15 cm long;
-  calyx tubular, 5-toothed, glandular; corolla salverform, white to
-  pale blue, tube 1.5–2.5 cm, lobes 5, spreading; stamens 5, inserted
-  in the corolla tube
-- **Fruit:** Capsule, 5–7 mm, enclosed by the persistent calyx
-- **Root:** Thick, tuberous, reddish-brown bark; this is the primary
-  medicinal part, with a characteristic acrid taste
-
-## Distribution and Habitat
-
-*Plumbago zeylanica* is native to tropical South and Southeast Asia, with
-a natural distribution spanning India, Sri Lanka, Bangladesh, Myanmar,
-Thailand, southern China, Malaysia, and Indonesia. It has been introduced
-and naturalized throughout tropical Africa, the Pacific islands, and parts
-of the Americas (Hawaii, the Caribbean, [[guzman-allen-gartz-neurotropic-fungi-central-america-caribbean]]).
+activities. In Ayurveda, the [[guzman-allen-gartz-neurotropic-fungi-central-america-caribbean]]).
 
 The species grows in forest margins, grasslands, disturbed sites, and
 along roadsides at elevations from sea level to 1,500 m. It prefers
@@ -83,5 +45,81 @@ significant class:
   redox-cycling quinone with broad biological activity.
 - **Zeylanone:** A related naphthoquinone derivative
 - **Plumbagic acid:** A quinoid glucoside
-- **Sitosterol and [[kaempferol]] and [[pseudomonas]] aeruginosa*, and *[[juglans-regia]] — Walnut contains juglone, a related naphthoquinone
-- [[agaritine]] — Another plant-derived compound with dose-dependent toxicity
+- **Sitosterol and [[pseudomonas]] aeruginosa*, and *[[agaritine]] — Another plant-derived compound with dose-dependent toxicity
+
+## Overview
+
+Plumbago Zeylanica represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish plumbago zeylanica
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving plumbago extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Plumbago Zeylanica finds practical application in multiple design contexts.
+[[permaculture-principles]] guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for plumbago zeylanica. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+plumbago zeylanica and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Plumbago Zeylanica has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of plumbago zeylanica into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.

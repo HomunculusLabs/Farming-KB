@@ -20,10 +20,7 @@ water holistically in the garden landscape.
 ## The Fivefold Path to Water Wisdom
 
 1. **Conserve water** in the soil and on the land through mulching,
-   [[graywater-systems]] for details.
-
-5. **Use plants that need less water** by selecting drought-adapted
-   species, grouping plants by water needs, and using [[sheet-mulching]] to create loose, well-structured soil.
+   [[sheet-mulching]] to create loose, well-structured soil.
 
 ## Rainwater Harvesting
 
@@ -42,9 +39,7 @@ dry periods.
 
 ## Swales and Earthworks
 
-See [[graywater-systems]]
-- [[cover-crops]]
-- [[urban-permaculture-rainwater-harvesting-graywater]]
+See [[cover-crops]]
 - [[gaias-garden-sheet-mulching-guide]]
 ## Practical Considerations
 

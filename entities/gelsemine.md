@@ -20,7 +20,7 @@ created: 2026-04-28
 
 ## Overview
 
-**Gelsemine** is a highly toxic [[aminopropyl-silica-gel-chromatography-indole-alkaloid-purification]] found primarily in species of the genus *Gelsemium* (family Loganiaceae), most notably *Gelsemium elegans* (Chinese name: 断肠草, "heartbreak grass") and *Gelsemium sempervirens* (Carolina jessamine).
+**Gelsemine** is a highly toxic [[aminopropyl-silica-gel-chromatography-indole-alkaloid-purification]] found primarily in species of the genus *Gelsemium* (family Loganiaceae), most notably *Gelsemium elegans* (Chinese name: 断肠草, "heartbreak grass") and *[[gelsemium-sempervirens]]* (Carolina jessamine).
 
 It acts as a potent glycine receptor antagonist at spinal and supraspinal sites, producing convulsive toxicity at relatively low doses. Despite its danger, gelsemine has a long history of use in traditional Chinese medicine and was employed in 19th-century Western herbalism.
 
@@ -46,9 +46,7 @@ The absolute stereochemistry was determined by X-ray crystallography in the 1950
 
 ## Pharmacology
 
-Gelsemine is a competitive antagonist at strychnine-sensitive **glycine receptors** (GlyR), particularly the α1 and α3 subtypes prevalent in the [[blesching-cannabis-spinal-cord-injuries]] and brainstem.
-
-By blocking inhibitory glycine neurotransmission, it causes disinhibition of motor neurons, producing the characteristic strychnine-like convulsions seen in poisoning. The Ki for glycine [[tihkal-receptor-binding-serotonin]] is approximately 1–5 μM.
+Gelsemine is a competitive antagonist at strychnine-sensitive **glycine receptors** (GlyR), particularly the α1 and α3 subtypes prevalent in the [[tihkal-receptor-binding-serotonin]] is approximately 1–5 μM.
 
 At sub-convulsive doses, gelsemine demonstrates several interesting pharmacological activities.
 
@@ -68,7 +66,7 @@ Symptoms of poisoning progress rapidly from initial dizziness, blurred vision, p
 
 Death typically results from respiratory failure due to loss of inhibitory glycine-mediated control over respiratory motor neurons in the brainstem and spinal cord.
 
-Historical poisonings are well documented in both Chinese and Western medical literature, including [[psilocybin-accidental-ingestion-australia]] of *G. elegans* mistaken for [[permaculture-plants-medicinal-herbs-healing]], and cases of deliberate poisoning in forensic contexts.
+Historical poisonings are well documented in both Chinese and Western medical literature, including [[permaculture-plants-medicinal-herbs-healing]], and cases of deliberate poisoning in forensic contexts.
 
 Post-mortem findings include pulmonary congestion, cerebral edema, and petechial hemorrhages consistent with hypoxic injury from prolonged convulsions.
 
@@ -80,7 +78,7 @@ Differential diagnosis is critical, as gelsemine poisoning mimics strychnine tox
 
 In traditional Chinese medicine, *G. elegans* has been used for centuries despite its extreme toxicity.
 
-Practitioners employ careful processing methods including prolonged boiling (often 2+ hours), combination with antidotal herbs such as *Glycyrrhiza uralensis*, and extremely precise dosing to mitigate toxicity while preserving therapeutic effects.
+Practitioners employ careful processing methods including prolonged boiling (often 2+ hours), combination with antidotal herbs such as *[[glycyrrhiza-uralensis]]*, and extremely precise dosing to mitigate toxicity while preserving therapeutic effects.
 
 Classical applications include treatment of pain, spasms, rheumatism, skin diseases, and malignant tumors, with the processed herb considered to have substantially reduced toxicity compared to the raw plant.
 

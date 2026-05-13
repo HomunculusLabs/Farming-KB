@@ -1,12 +1,12 @@
 ---
-title: Latitude, Altitude, and Valley Climates
+title: Latitude, Altitude, [[landscape-effects-of-altitude-and-valley-climates]]
 source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
 # Latitude, Altitude, and Valley Climates
 
-The classification of climate zones by temperature and rainfall alone is complicated by a third major factor: **continentality**. Continental interiors experience far more extreme temperature fluctuations than coastal areas, as they lack the buffering effect of sea currents that moderate temperatures in maritime regions.
+The classification of [[humid-tropics-design-and-climate-zones]] by temperature and rainfall alone is complicated by a third major factor: **continentality**. Continental interiors experience far more extreme temperature fluctuations than coastal areas, as they lack the buffering effect of sea currents that moderate temperatures in maritime regions.
 
 ## Continental Climates
 
@@ -14,7 +14,7 @@ In continental climates, temperatures swing dramatically between summer and wint
 
 ## Latitude and Altitude Equivalence
 
-Altitude can be treated as a rough proxy for latitude when estimating temperature regimes. The general equivalence is:
+Altitude can be treated as a rough proxy for latitude when estimating [[desert-temperature-regimes-and-soil-chemistry]]. The general equivalence is:
 
 - **~100m of altitude ≈ 1° of latitude** in terms of thermal effect
 
@@ -30,7 +30,7 @@ Temperature decreases with altitude at a predictable rate known as the lapse rat
 - **Dry air:** 9.8°C per km of elevation gain
 - **Humid conditions:** 4–9°C per km (the moister the air, the slower the cooling)
 
-These rates are essential for estimating growing season lengths, frost risk, and crop suitability at different elevations.
+These rates are essential for estimating [[extending-growing-season]] lengths, frost risk, and crop suitability at different elevations.
 
 ## High Altitude Effects
 
@@ -96,9 +96,9 @@ One strategy to prevent frost damage is growing crops **inside tree canopies**, 
 - Plant **reflector species** (light-colored or glossy-leaved plants) to bounce light into the understory
 - Integrate **bee-attracting plants** that draw pollinators into the canopy environment
 
-## Latitude Effects on Light
+## [[latitude-effects|Latitude Effects]] on Light
 
-Total daily solar radiation varies dramatically with latitude, measured in Langleys (cal/cm²/day):
+Total daily [[albedo-and-solar-radiation]] varies dramatically with latitude, measured in Langleys (cal/cm²/day):
 
 | Location | Latitude | Daily Radiation (Langleys) |
 |----------|----------|---------------------------|
@@ -124,8 +124,8 @@ Examples of productive high-latitude regions include **Alaska, Ireland, Scotland
 
 Paradoxically, the tropics suffer from light inefficiency:
 
-- **Temperatures above 25°C decrease photosynthetic efficiency**, meaning tropical plants cannot fully utilize available light
-- **Shade benefits** are significant — some tropical crops thrive on as little as **20% of full sunlight**
+- **Temperatures above 25°C decrease [[photosynthetic-efficiency]]**, meaning tropical plants cannot fully utilize available light
+- **Shade benefits** are significant — some [[mollison-specialist-tropical-crops-forest-products]] thrive on as little as **20% of full sunlight**
 - **Shadecloth at 50–70% coverage** can increase tropical crop production by reducing heat stress
 
 ### Optimum Temperature Ranges
@@ -142,6 +142,5 @@ Paradoxically, the tropics suffer from light inefficiency:
 In high-latitude regions, **overcast and cloudy days** can actually benefit plant growth, particularly **after midday**. Clouds diffuse light more evenly across the canopy, reducing the intensity that would otherwise heat leaves beyond photosynthetic optimum while still providing sufficient radiation for growth.
 
 ## See Also
-- [[landscape-effects-of-altitude-and-valley-climates]]
 - [[altitude-and-latitude-effects-on-climate]]
 - [[mountain-and-valley-climates]]

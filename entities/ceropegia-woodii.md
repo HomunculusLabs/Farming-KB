@@ -109,13 +109,8 @@ Fungal leaf spots can occur in humid conditions with poor air circulation. Remov
 
 ## See Also
 
-- [[permaculture-plants-comfrey-chop-and-drop]]
 - [[stapelia-gigantea]]
-- [[permaculture-plants-comfrey-chop-and-drop]]
 - [[sedum-acre]]
-- [[senecio-articulatus]]
 - [[kalanchoe-blossfeldiana]]
-- [[crassula-ovata]]
 - [[echeveria-elegans]]
-- [[aeonium-arboreum]]
 - [[haworthia-fasciata]]

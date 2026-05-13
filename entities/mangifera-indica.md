@@ -6,33 +6,9 @@ tags:
   - mango
   - anacardiaceae
   - tropical-fruit
-  - [[permaculture]]
   - [[agroforestry]]
-  - [[food-forest]]
-  - medicinal-plant
-  - polyphenols
-  - mangiferin
-  - anti-inflammatory
-  - antioxidant
-  - evergreen-tree
-  - tropical-tree
-  - india
-date: 2026-04-28
-updated: 2026-04-28
-sources:
-  - Mukherjee, P.K. et al. (2016). "Mangifera indica." In: Benzie, I.F.F., Wachtel-Galor, S. (eds.) childrens-herbal-medicine: Biomolecular and Clinical Aspects. 2nd ed. CRC Press.
-  - Ribeiro, S.M.R. & Schieber, A. (2010). "query-what-are-the-main-bioactive-compounds-in-medicinal-plants in Mango (Mangifera indica L.)." In: [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]] Foods. Wiley-Blackwell, 89-115.
-  - Singh, R. et al. (2013). "Mangifera indica: [[psilocybin-psilocin-chemistry-and-pharmacology-emcdda]]." Journal of Pharmacognosy and Phytochemistry, 1(5), 1-8.
-  - Litz, R.E. (2009). The Mango: Botany, Production and Uses. 2nd ed. CABI Publishing.
-  - https://www.cgiar.org/research-program/forests-trees-and-agroforestry/
----
-
-## Overview
-
-**Mangifera indica** L., the mango, is an evergreen tropical tree in the family
-Anacardiaceae. Originally domesticated in South Asia over 4,000 years ago, it
-is now cultivated throughout the tropics and subtropics and is one of the most
-important [[uncommon-specialty-fruit-crops-for-permaculture]] crops for permaculture globally, with annual production exceeding 55 million
+  - [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]] Foods. Wiley-Blackwell, 89-115.
+  - Singh, R. et al. (2013). "Mangifera indica: [[uncommon-specialty-fruit-crops-for-permaculture]] crops for permaculture globally, with annual production exceeding 55 million
 tonnes. India alone accounts for approximately 45% of world production.
 
 Beyond its economic importance as a fruit, virtually every part of the mango
@@ -63,28 +39,90 @@ endocarp contains a single large, woody seed.
 
 ## Distribution and Habitat
 
-Native to the Indian subcontinent and [[psilocybe-southeast-asia-pacific]], where wild populations
-still occur in the forests of Assam, Myanmar, and the Western Ghats. The tree
-is now naturalized and cultivated throughout tropical and subtropical regions
-between 25°N and 25°S.
-
-Optimal growth occurs at temperatures of 24–30°C, annual rainfall of
-1,000–2,500 mm, and elevations below 600 m. Mango tolerates a wide range of
-soils but performs best in deep, well-drained loams with pH 5.5–7.5. It is
-moderately drought-tolerant once established but sensitive to waterlogging
-and frost.
-
-## Bioactive Compounds
-
-Mango contains a diverse array of phytochemicals distributed across all plant
-parts:
-
-- **Mangiferin** — a xanthone C-glucoside, the most studied bioactive
-  compound; concentrated in bark (up to 8.5%), leaves, and kernel.
-- **Gallotannins** — polyphenolic tannins with anti-diabetic and
-  hepatoprotective activity, abundant in the fruit peel and kernel.
-- **Carotenoids** — β-carotene, lutein, violaxanthin; the deep yellow-orange
-  varieties contain 3,000–6,000 μg β-carotene per 100 g fresh weight.
-- **Vitamin C** — 30–40 mg per 100 g fresh fruit, higher in unripe mango.
-- **Polyphenols** — quercetin, [[kaempferol]], and ellagic acid derivatives.
+Native to the Indian subcontinent and [[kaempferol]], and ellagic acid derivatives.
 - **Enzymes** — mango latex contains mangiferin aglycone and the allergen
+
+## Overview
+
+Mangifera Indica represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish mangifera indica
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving mangifera extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Mangifera Indica finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for mangifera indica. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+mangifera indica and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Mangifera Indica has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of mangifera indica into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[calocybe-indica]]
+- [[cannabis-indica]]
+- [[derris-indica]]
+- [[oner-sativa-vs-indica-classification]]
+- [[query-what-is-the-difference-between-sativa-indica-and-hybrid-cannabis]]

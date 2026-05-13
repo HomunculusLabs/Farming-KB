@@ -29,17 +29,10 @@ sources:
 
 ## Overview
 
-Strawberry Cough is a sativa-dominant hybrid [[blesching-cannabis-strain-selection-receptor-targeting]] renowned for its sweet,
-strawberry-forward aroma and remarkably smooth smoke that lives up to its name.
-Bred by Kyle Kushman from a cross between Strawberry Fields and an undisclosed
-[[sativa-haze-lineage-breeding-history]], the strain gained widespread fame after appearing in the documentary
+Strawberry Cough is a sativa-dominant hybrid [[sativa-haze-lineage-breeding-history]], the strain gained widespread fame after appearing in the documentary
 *"Super High Me"* (2007). It consistently delivers uplifting, euphoric cerebral
 effects paired with a mild body relaxation, making it a popular choice for daytime
-use, social settings, and creative endeavors. [[thc-content-factors-cultivation-freshness-storage-degradation-blesching]] typically ranges from
-15–20%, with some phenotypes reaching 22%. The strain is considered approachable
-for novice consumers due to its manageable intensity and pleasant flavor profile.
-Its genetics have also served as a parent in numerous crosses, including
-[[strawberry-banana]] and Strawberry Lemonade, extending its influence across the
+use, social settings, and creative endeavors. [[strawberry-banana]] and Strawberry Lemonade, extending its influence across the
 modern cannabis market.
 
 ## Lineage and Genetics

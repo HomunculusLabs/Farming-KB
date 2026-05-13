@@ -6,11 +6,7 @@ type: concept
 tags: [mycology, fungi]
 sources: []
 ---
-# Fungal Molecular Identification Molecular methods have revolutionized fungal identification, taxonomy, and diversity assessment. DNA-based approaches overcome many limitations of traditional morphological identification, particularly for fungi that are difficult or impossible to culture, that lack distinctive reproductive structures, or that exist only in environmental samples. These tools have become essential for fungal molecular identification, for resolving [[fungal-diversity-estimation-methods]].
-
-## Ribosomal DNA Markers
-
-Ribosomal DNA (rDNA) is the most widely used [[rapd-molecular-marker-techniques-fungi]] system for fungi. The nuclear ribosomal repeat unit contains several regions with varying evolutionary rates:
+# Fungal Molecular Identification Molecular methods have revolutionized fungal identification, taxonomy, and diversity assessment. DNA-based approaches overcome many limitations of traditional morphological identification, particularly for fungi that are difficult or impossible to culture, that lack distinctive reproductive structures, or that exist only in environmental samples. These tools have become essential for fungal molecular identification, for resolving [[rapd-molecular-marker-techniques-fungi]] system for fungi. The nuclear ribosomal repeat unit contains several regions with varying evolutionary rates:
 
 - **18S (SSU) rDNA**: Conserved region useful for deep phylogenetic relationships and broad-scale surveys
 - **ITS (Internal Transcribed Spacer)**: The standard fungal DNA barcode, comprising ITS1, 5.8S rDNA, and ITS2. ITS provides species-level resolution for many fungal groups
@@ -30,17 +26,7 @@ For ascomycetous yeasts, strains differing by 1% or greater substitutions in D1/
 
 Mitochondrial DNA (mtDNA) has been extensively used for fungal evolutionary genetics due to its small genome size, ease of purification, the presence of RFLPs, and the presence of introns and intergenic spacers that provide informative variation. Notably, mtDNA size variation can occur even within a single species — for example, *Neurospora crassa* strains display significant mitochondrial genome length differences. Variations in mtDNA provide unique patterns useful for characterizing groups below the species level.
 
-Two principal approaches are employed: RFLP analysis of mtDNA offers cost-effective screening but limited phylogenetic resolution, while DNA sequence analysis provides greater resolution and more robust phylogenies at higher cost. Evolutionary trees constructed from RFLP data alone have limited resolving power; sequence-based analysis produces trees with stronger branch support. For intrapopulational genetic variability studies, however, RFLP variability is often sufficient, and the lower cost makes it practical for screening large numbers of isolates. See fungal-community-ecology approaches and are widely used in [[fungal-dna-barcoding]] and quantitative ecology.
-
-## Molecular Identification in Practice
-
-White and colleagues (1990) developed primer sets for amplifying fungal rDNA regions that remain among the most widely used in mycology. Kaltenboeck and colleagues further refined approaches for clinical and environmental applications. Complete SSU rDNA sequences provide broad phylogenetic context for placing unknown fungi within the fungal tree of life, while gene-specific primers can amplify shorter 200-300 bp regions suitable for degraded environmental samples.
-
-ITS sequences have been deposited in large numbers in public databases such as GenBank, enabling rapid comparison of unknown isolates against reference sequences. The 5.8S rRNA gene (~160 nucleotides), located between ITS1 and ITS2, provides additional phylogenetic signal and is more conserved than the flanking spacer regions. Increasingly, protein-coding gene regions — particularly beta-tubulin and elongation factor 1-alpha (EF-1α) — are used to supplement rDNA markers for species-level resolution where ITS alone is insufficient. See fungal-species-recognition-genetics for deeper treatment.
-
-## Molecular Methods for Yeast Identification
-
-Yeast systematics has been particularly transformed by [[staycare-molecular-approaches-fungal-bioremediation]]. RFLP of rDNA provides rapid species-level identification for many ascomycetous and basidiomycetous yeasts. RAPD has been applied for strain-level discrimination in epidemiological and ecological studies, though its sensitivity to reaction conditions remains a significant limitation. D1/D2 domain sequencing of 26S rDNA has become the standard method for yeast identification: strains differing by 1% or more nucleotide substitutions in this region are considered separate species, while conspecific strains show 0-1% divergence. Sequencing the approximately 600-nucleotide D1/D2 region provides rapid and reliable identification, and similar correlations between sequence divergence and species boundaries have been demonstrated for basidiomycetous yeasts.
+Two principal approaches are employed: RFLP analysis of mtDNA offers cost-effective screening but limited phylogenetic resolution, while DNA sequence analysis provides greater resolution and more robust phylogenies at higher cost. Evolutionary trees constructed from RFLP data alone have limited resolving power; sequence-based analysis produces trees with stronger branch support. For intrapopulational genetic variability studies, however, RFLP variability is often sufficient, and the lower cost makes it practical for screening large numbers of isolates. See fungal-community-ecology approaches and are widely used in [[staycare-molecular-approaches-fungal-bioremediation]]. RFLP of rDNA provides rapid species-level identification for many ascomycetous and basidiomycetous yeasts. RAPD has been applied for strain-level discrimination in epidemiological and ecological studies, though its sensitivity to reaction conditions remains a significant limitation. D1/D2 domain sequencing of 26S rDNA has become the standard method for yeast identification: strains differing by 1% or more nucleotide substitutions in this region are considered separate species, while conspecific strains show 0-1% divergence. Sequencing the approximately 600-nucleotide D1/D2 region provides rapid and reliable identification, and similar correlations between sequence divergence and species boundaries have been demonstrated for basidiomycetous yeasts.
 
 ## Phylogenetic Analysis
 
@@ -61,11 +47,9 @@ Molecular identification faces several significant challenges:
 - **Quantification**: Molecular methods detect DNA presence but not biomass or viability, making it difficult to assess relative abundance or ecological activity
 - **Long-branch artifacts**: Long branches on phylogenetic trees indicate missing taxa; adding new species can change relationships substantially, necessitating cautious interpretation of tree topology
 
-Despite these limitations, molecular methods have already revealed that [[arbuscular-mycorrhizal-fungal-diversity-patterns-distribution]] is far greater than previously suspected and that traditional taxonomy has substantially underestimated species numbers in most groups. Integration of molecular data with [[fungal-dna-barcoding]] — DNA barcode standards and reference databases
+Despite these limitations, molecular methods have already revealed that [[fungal-dna-barcoding]] — DNA barcode standards and reference databases
 - fungal-species-recognition-genetics — phylogenetic species concepts in fungi
-- [[fungal-species-concept]] — species concepts applied to fungi
-- [[fungal-genetics]] — [[biodiversity-fungal-genetic-diversity]] systems and genomes
-- [[fungal-phylogeny-systematics]] — phylogenetic methods and fungal classification
+- [[fungal-genetics]] — [[fungal-phylogeny-systematics]] — phylogenetic methods and fungal classification
 ## Practical Considerations
 
 Successful implementation of Fungal Molecular Identification requires attention to
@@ -114,8 +98,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[fungal-evolution]]
 - [[dom]]
-- [[det]]
 - [[soma]]
 - [[neurospora-crassa]]

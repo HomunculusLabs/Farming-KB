@@ -53,9 +53,9 @@ Woodsia oregana ranges from southern British Columbia through the Cascade Range 
 
 Isolated populations also occur in the Sierra Nevada of California and the Black Hills of South Dakota. The species is most abundant in the northern Rockies and Cascade crest.
 
-It is an obligate calcicole, strongly preferring limestone and dolomite substrates. Typical habitats include vertical cliff faces, rock crevices, talus fields, and exposed scree slopes at 1,500–3,500 meters elevation.
+It is an obligate calcicole, strongly preferring limestone and [[dolomite]] substrates. Typical habitats include vertical cliff faces, rock crevices, talus fields, and exposed scree slopes at 1,500–3,500 meters elevation.
 
-The fern tolerates extreme exposure, full sun, and desiccating winds. It is frequently found in association with other rock-dwelling ferns such as *[[cystopteris-fragilis]]* and *[[asplenium-trichomanes]]*.
+The fern tolerates extreme exposure, full sun, and desiccating winds. It is frequently found in association with other rock-dwelling ferns such as *[[asplenium-trichomanes]]*.
 
 Elevational distribution varies by latitude. In the southern Rockies, the species is restricted to elevations above 2,500 meters, while in the northern Cascades and Canadian populations it may occur as low as 1,200 meters.
 
@@ -71,11 +71,7 @@ Woodsia oregana plays a limited but meaningful role in alpine and subalpine plan
 
 The species provides microhabitat for small arthropods and occasionally serves as a nesting substrate for alpine birds and small mammals seeking sheltered crevices.
 
-[[gadd-mycelial-network-resilience-grazing-pressure]] from mountain goats and bighorn sheep is minimal due to the fern's inaccessible habitat. However, recreational rock climbing has been identified as a localized threat in popular areas such as Rocky Mountain National Park and the Cascades.
-
-The species has not been formally listed as threatened or endangered but is tracked by several state heritage programs. Climate change-driven shifts in alpine moisture regimes may pose a long-term risk to populations at the lower elevational margins of its range.
-
-Population sizes at individual sites are typically small, ranging from a few dozen to several hundred ramets. The species' clonal growth habit means that apparent population size may overestimate [[biodiversity-fungal-genetic-diversity]].
+[[biodiversity-fungal-genetic-diversity]].
 
 Epiphytic lichens and mosses frequently colonize the rocky substrates surrounding *W. oregana* colonies, creating micro-communities of cryptogamic plants on cliff faces.
 

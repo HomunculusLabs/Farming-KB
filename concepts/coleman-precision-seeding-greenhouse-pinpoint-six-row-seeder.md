@@ -1,6 +1,6 @@
 ---
 title: Coleman Precision Seeding Greenhouse Pinpoint Six Row Seeder
-source: "The Winter Harvest Handbook - [[eliot-coleman]] (2009)"
+source: "The Winter Harvest Handbook - eliot-coleman (2009)"
 chapter: "13 - Sowing"
 tags: [winter-harvest, greenhouse, seeding, precision-tools, small-farm, coleman]
 created: 2026-05-09
@@ -14,50 +14,10 @@ Chapter 13 of *The Winter Harvest Handbook* details Coleman's approach to precis
 in greenhouse beds, centering on the Pinpoint Seeder and its six-row evolution. These tools
 represent a critical efficiency gain for intensive winter salad production, practically
 doubling yields per square foot over less precise sowing methods. The chapter provides
-detailed practical guidance on [[cannabis-seed-selection-and-strain-types]], seeder settings, and technique.
-
-## The Economic Case for Precision Seeding
-
-In the winter-harvest greenhouse, every square foot of protected [[cotter-growing-space-design-fruiting-rooms]] is valuable.
+detailed practical guidance on [[cotter-growing-space-design-fruiting-rooms]] is valuable.
 Precision seeding delivers measurable advantages:
 
-- **Yield doubling**: Multi-row seeders on 2.25-inch [[wide-row-spacing-intensive-gardening-comparison]] roughly double per-square-
-  foot yields compared to single-row or hand-sown methods
-- **Cost efficiency**: At roughly $300, the four-row Pinpoint Seeder costs 10-15 times less
-  than European multi-row greenhouse seeders while delivering comparable results
-- **Labor savings**: Mechanical seed metering eliminates tedious hand sowing and reduces
-  thinning labor
-- **Consistent quality**: Uniform spacing produces more uniform, marketable baby-leaf product
-
-## The Pinpoint Seeder: Design and Operation
-
-### Seed Selection Mechanisms
-
-The Pinpoint Seeder uses two complementary seed-metering systems:
-
-1. **Seed hole sizes**: Four hole sizes (coded A, B, C, D from smallest to largest) on a
-   movable axle. The operator positions the desired hole size centered under the hoppers.
-2. **Brush adjustment**: Each hopper has a small adjustable brush that sweeps excess seeds
-   away from the seed hole. Brush tightness is set by thumbscrew—tight (T), medium (M), or
-   loose (L).
-
-### Determining Seed Settings
-
-Before sowing any seed, Coleman recommends calibrating the seeder:
-
-- Fill one hopper and turn the wheel one complete rotation, counting seeds dropped
-- The wheel circumference is approximately 9 inches
-- Hole sizes A, B, and C have nine holes per rotation (≈1 seed per inch); size D has seven
-- Record the ideal hole/brush combination on each seed packet using a coded system
-  (e.g., "4BT" = four-row seeder, hole B, brush Tight)
-
-### Soil Preparation Requirements
-
-Precision seeders demand finely prepared soil. Rocks, undecomposed compost chunks, stringy
-weed remnants, or root residues will jam or deflect the seeder. Coleman's preparation
-sequence:
-
-1. Remove [[jadam-monoculture-disorder-crop-residues]] and rake bed smooth
+- **Yield doubling**: Multi-row seeders on 2.25-inch [[jadam-monoculture-disorder-crop-residues]] and rake bed smooth
 2. Lightly roll with a 30-inch-wide mesh-surface roller (prevents soil glazing)
 3. Set the seeder on the bed and verify free wheel rotation before sowing
 4. After sowing, firm seeds with a light roller pass or gentle raking
@@ -118,8 +78,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[det]]
 - [[coleman-double-layer-protection-greenhouse-row-cover]]
-- [[comparison-two-row-vs-six-row-barley]]
 - [[coleman-row-cover-fabric-management]]
 - [[coleman-rolling-greenhouse-wheel-rail-design]]

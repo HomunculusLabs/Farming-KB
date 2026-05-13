@@ -8,35 +8,7 @@ type: concept
 
 ## Overview
 
-Branching is one of the most pervasive patterns in natural systems, observable in trees, river networks, blood vessels, lungs, lightning strikes, root systems, and lava flows. In [[permaculture-design]], understanding the principles of branching and fractal geometry provides powerful tools for designing efficient pathways, water systems, access networks, and nutrient exchange systems. Branching is nature's solution to the fundamental problem of collecting from or distributing to large areas through efficient, resilient networks.
-
-## Fractals in Natural Systems
-
-Looking down on a bare winter-deciduous tree reveals a classic fractal pattern—the same branching geometry found in fulgurites (sand fused by lightning) in sand dunes and in the shatter zones of explosions. Tree roots are, in fact, a slow shatter or explosion pattern underground. This observation leads to a practical application: one way to plant an apple tree in very hard ground is to detonate a small charge of gelignite a foot or two below the surface; the roots will follow the shatter pattern and further elaborate it.
-
-Scatters of objects may initially seem unrelated to flow models or fractals, but fractal analysis is being used to describe the distribution of tree clumps in grassland or lichen on a stone. The surface of spheroids created by branched phenomena (like the plan view of a tree crown) shows apparently random scatters as growth points, measurable by fractal analysis.
-
-## The Physics of Branching: Large vs. Small Conduits
-
-Vogel (1981) provides key insights into why branching develops and its physical advantages:
-
-### Large Conduits (Main Arteries)
-- Used for **mass transport** over distance
-- Characterized by **laminar flow patterns**
-- Small surface area relative to volume
-- **Inefficient** for diffusion of materials or conduction of heat across walls
-
-### Small Conduits (Minor Branches)
-- Flow is slow, almost viscous in very small tubes
-- Direction changes possible **without turbulence or energy loss**
-- Walls can be **permeable**, enabling efficient collection, exchange, and transfer
-- Many small conduits efficiently interpenetrate exchange media
-
-This size-dependent behavior has profound implications for design. Wherever there is a need to collect or distribute materials, or to trade both ways with media, branching is an effective response.
-
-## Applied Branching in Garden Design
-
-In [[permaculture]] garden design, these principles translate directly:
+Branching is one of the most pervasive patterns in natural systems, observable in trees, river networks, blood vessels, lungs, lightning strikes, root systems, and lava flows. In [[permaculture]] garden design, these principles translate directly:
 
 - **"Many paths"** are needed in home gardens where nutrient trading is the main activity
 - There is little advantage in straight-line paths (speed is not the essence); rather, **cul-de-sacs** or **keyhole-shaped beds** are preferred
@@ -106,6 +78,5 @@ The same principle applies to trees: birds and insects are confined to or modifi
 5. **Functional hierarchies** in human organizations should follow the 3:1 bifurcation ratio for information flow in both directions
 
 ## See Also
-- [[fractal-geometry-and-branching-conduits]]
 - [[branching-patterns-and-stream-orders]]
 - [[fractals-and-branching-patterns]]

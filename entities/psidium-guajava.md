@@ -40,21 +40,7 @@ Fruits are round, ovoid, or pear-shaped berries, 4–12 cm in diameter. Skin col
 
 ## Distribution and Habitat
 
-P. guajava is native to an area stretching from southern Mexico through [[guzman-allen-gartz-neurotropic-fungi-central-america-caribbean]] into northern South America. Pre-Columbian cultivation and trade spread it throughout the neotropics.
-
-The species was introduced to Asia by Spanish and Portuguese traders in the 16th century. It is now pantropical, cultivated between approximately 23°N and 23°S latitude.
-
-Guava adapts to a wide range of soils from sandy to heavy clay, tolerating both acidic and mildly alkaline conditions. Optimal growth occurs with 1,000–2,000 mm annual rainfall and temperatures between 23–28°C.
-
-The tree is drought-tolerant once established and can withstand brief frost to approximately -3°C. It grows from sea level to 1,500 meters elevation.
-
-## Nutritional and Culinary Use
-
-Guava is exceptionally rich in vitamin C, containing 200–400 mg per 100 g of fresh pulp — roughly four times the concentration found in oranges. It also provides vitamin A (624 IU), dietary fiber (5.4 g), and potassium (417 mg) per 100 g.
-
-The fruit is consumed fresh, juiced, or processed into nectars, jams, jellies, pastes (goiabada), and dried snacks. In Mexico and Latin America, guava paste with cheese is a traditional dessert.
-
-In [[psilocybe-southeast-asia-pacific]], unripe guava is eaten raw with salt, chili, and vinegar as a crunchy snack. In India, guava is a common street food, often sold with a spice mix of chaat masala.
+P. guajava is native to an area stretching from southern Mexico through [[psilocybe-southeast-asia-pacific]], unripe guava is eaten raw with salt, chili, and vinegar as a crunchy snack. In India, guava is a common street food, often sold with a spice mix of chaat masala.
 
 The leaves are brewed as a tea in many cultures, valued for their supposed anti-diarrheal and anti-diabetic properties. Guava leaf tea is commercially available in Japan, Taiwan, and Brazil.
 
@@ -62,11 +48,7 @@ The leaves are brewed as a tea in many cultures, valued for their supposed anti-
 
 The leaves contain a rich polyphenol profile including quercetin, guaijaverin, avicularin, and kaempferol derivatives. Tannins account for 10–20% of leaf dry weight, contributing to anti-diarrheal activity.
 
-Guava leaf extract inhibits alpha-glucosidase with comparable potency to the pharmaceutical drug acarbose in vitro. Multiple [[mushroom-cancer-clinical-trials-overview]] have demonstrated that guava leaf tea reduces postprandial blood glucose by 10–25% in type 2 diabetic patients.
-
-The fruit contains lycopene (particularly in red-fleshed varieties) at concentrations comparable to tomatoes. Carotenoids, including β-carotene and cryptoxanthin, contribute significant antioxidant capacity.
-
-[[permaculture-designers-manual-essential-oil-plants]] from the leaves is dominated by limonene, caryophyllene, and eucalyptol. The oil exhibits broad-spectrum antimicrobial activity against Gram-positive bacteria and several Candida species.
+Guava leaf extract inhibits alpha-glucosidase with comparable potency to the pharmaceutical drug acarbose in vitro. Multiple [[permaculture-designers-manual-essential-oil-plants]] from the leaves is dominated by limonene, caryophyllene, and eucalyptol. The oil exhibits broad-spectrum antimicrobial activity against Gram-positive bacteria and several Candida species.
 
 Bark extracts have demonstrated anti-spasmodic and anti-diarrheal effects in animal models. Traditional use of bark decoctions for gastrointestinal complaints is supported by these pharmacological findings.
 
@@ -76,9 +58,7 @@ Guava is most commonly propagated by seed, though air-layering, grafting, and st
 
 Commercial orchards are typically planted at 5–7 meter spacing with 150–250 trees per hectare. Annual yields range from 15–25 tonnes per hectare under good management.
 
-Major pests include the Caribbean fruit fly (*Anastrepha suspensa*), guava whitefly, and fruit-boring moths. Integrated pest management combining pheromone traps, [[fukuoka-textdoc-biological-control-fallacy-pheromone-critique]], and targeted sprays is standard practice.
-
-Pruning is performed annually to maintain tree shape and remove dead or diseased wood. In subtropical regions, guava produces two distinct [[azurescens-fruiting-seasons-and-conditions]] per year.
+Major pests include the Caribbean fruit fly (*Anastrepha suspensa*), guava whitefly, and fruit-boring moths. Integrated pest management combining pheromone traps, [[azurescens-fruiting-seasons-and-conditions]] per year.
 
 ## Traditional and Ethnobotanical Use
 
@@ -87,3 +67,84 @@ In Ayurvedic medicine, guava fruit is valued for its astringent, digestive, and 
 Traditional Chinese medicine classifies guava as sweet and astringent, using the fruit for chronic diarrhea and the leaves for diabetes management. Guava leaf tea is widely consumed in Taiwan as a health beverage.
 
 In Mexican folk medicine, guava leaf decoctions are used for digestive complaints, menstrual pain, and as a mouthwash for toothache and gum inflammation. Similar traditions exist across Central America and the Caribbean.
+
+## Overview
+
+Psidium Guajava represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish psidium guajava
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving psidium extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Psidium Guajava finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for psidium guajava. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+psidium guajava and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Psidium Guajava has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of psidium guajava into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[psidium-cattleianum]]

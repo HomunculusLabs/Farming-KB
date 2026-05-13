@@ -12,54 +12,13 @@ sources:
 # Datura candida
 **Datura candida** (white angel's trumpet) is a perennial shrub or small tree
 in the nightshade family (Solanaceae), native to the Andean regions of
-[[tree-daturas-brugmansia-south-american-ethnobotany]]" or "angel's
-trumpets," a group of species within the genus *Datura* characterized by
-their large, pendant, trumpet-shaped flowers and woody growth habit. Like
-all Datura species, *D. candida* contains potent tropane alkaloids and has
-a long history of use and misuse as a hallucinogen, medicine, and
-ceremonial plant in indigenous [[chiric-caspi-brunfelsia-south-american-hallucinogen]] cultures.
+[[chiric-caspi-brunfelsia-south-american-hallucinogen]] cultures.
 
 ## Botanical Description
 
 *Datura candida* is a fast-growing, woody perennial that can reach 2 to 5
 meters in height under favorable conditions, occasionally attaining heights
-of 8 meters [[datura-stramonium]] and [[guzman-psilocybin-mushrooms-mexico-central-america]], the Caribbean, Hawaii, parts of Africa, South and [[psilocybe-southeast-asia-pacific]],
-and Australia. It is valued in horticulture for its spectacular, fragrant
-flowers and has escaped cultivation in many areas to become established in
-the wild.
-
-## Phytochemistry
-
-Like all Datura species, *D. candida* contains tropane alkaloids throughout
-the plant. The alkaloid profile of the tree daturas is distinctive from
-that of the herbaceous species:
-- **Scopolamine** (hyoscine) — typically the dominant alkaloid in tree
-  daturas, and the principal contributor to their hallucinogenic effects;
-  concentrations of 0.1 to 0.8% have been reported in leaves
-- **Hyoscyamine** — present in significant quantities, sometimes exceeding
-  scopolamine depending on the plant part, growing conditions, and chemotype
-- **Atropine** — a racemate of hyoscyamine, present in smaller amounts
-- **Norhyoscyamine** and other minor tropane derivatives including
-  aposcopolamine and tropine
-The alkaloid content varies considerably depending on the plant part, age,
-growing conditions, time of harvest, and individual chemotype. Young leaves
-and mature seeds generally have the highest concentrations. The
-scopolamine-dominant profile of the tree daturas distinguishes them
-pharmacologically from some herbaceous species, which may be richer in
-hyoscyamine. This distinction is pharmacologically significant because
-scopolamine crosses the blood-brain barrier more readily than hyoscyamine,
-producing more pronounced central nervous system effects including
-hallucinations and amnesia.
-
-## Traditional and Ethnobotanical Use
-Tree daturas, including *D. candida*, have been used extensively by
-indigenous peoples of the Andes and western South America for centuries or
-potentially millennia. Their uses span several distinct categories:
-### Shamanic and Ritual Use
-In Andean ethnobotany, tree daturas are among the most important visionary
-plants. They are employed by shamans (curanderos) in healing rituals,
-divination, and ceremonies designed to communicate with the spirit world.
-[[gottlieb-peyote-extraction-and-preparation-methods]] vary but include brewing the leaves into a tea
+of 8 meters [[guzman-psilocybin-mushrooms-mexico-central-america]], the Caribbean, Hawaii, parts of Africa, South and [[gottlieb-peyote-extraction-and-preparation-methods]] vary but include brewing the leaves into a tea
 (cimora), smoking dried leaf material, or incorporating the plant into
 more complex entheogenic preparations.
 The effects of tree datura intoxication are typically characterized by
@@ -88,3 +47,88 @@ relief, and reduction of secretions.
 
 The spectacular, fragrant flowers of *D. candida* have made it a popular
 ornamental plant in tropical and subtropical gardens worldwide. It is
+
+## Overview
+
+Datura Candida represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish datura candida
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving datura extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Datura Candida finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for datura candida. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+datura candida and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Datura Candida has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of datura candida into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[datura-as-hallucinogen]]
+- [[datura-innoxia]]
+- [[datura-metel]]
+- [[datura-metel-old-world-ethnobotany]]
+- [[golden-guide-datura-and-nightshade-deliriants]]

@@ -1,7 +1,7 @@
 ---
 title: blesching-cannabis-health-index-autoimmune-conditions blesching-cannabis-chi-scoring-evidence-based-medicine
 created: 2026-05-08
-source: "[[uwe-blesching]], PhD, The [[blesching-cannabis-health-index-autoimmune-conditions]], North Atlantic Books, 2015"
+source: "blesching-cannabis-health-index-autoimmune-conditions, North Atlantic Books, 2015"
 tags:
   - chi-scoring
   - cannabis-health-index
@@ -17,12 +17,7 @@ tags:
 
 The Cannabis Health Index (CHI) is an evidence-based rating system developed
 by Uwe Blesching, PhD, that shows degrees of confidence in cannabis as an
-effective treatment for specific conditions. The [[blesching-cannabis-chi-score-methodology]] takes into account
-both the type of research study (which impacts reliability of conclusions) and
-the study's findings, which may be positively or negatively associated with
-medical use of cannabis. The CHI provides patients, caregivers, and healthcare
-practitioners with a structured, scientifically grounded tool for evaluating
-the [[metzner-ayahuasca-therapeutic-potential]] of cannabis across more than one hundred chronic
+effective treatment for specific conditions. The [[metzner-ayahuasca-therapeutic-potential]] of cannabis across more than one hundred chronic
 symptoms and diseases.
 
 ## How CHI Scores Are Calculated
@@ -68,8 +63,7 @@ research has been conducted for that condition.
 
 ## Strain-Specific Considerations
 
-Different [[cannabis-microbiome-otu-abundance-vs-presence-cannabis-strains]] present with different cannabinoid profiles.
-Sativas and sativa-dominant strains typically have a higher THC to [[cannabis-thc-cbd-ratio-guide-for-conditions]],
+Different [[cannabis-thc-cbd-ratio-guide-for-conditions]],
 favoring CB1 receptor activation. Indicas and indica-dominant strains have a
 lower THC to CBD ratio, favoring CB2 receptor activation. Selecting the
 appropriate strain is important for targeting specific receptor pathways. Most
@@ -78,8 +72,7 @@ strain, enabling informed selection based on therapeutic goals.
 
 ## Form-Specific Considerations
 
-The form of consumption significantly affects [[raw-cannabis-thca-non-psychoactive-therapeutic-properties]]. In fresh,
-raw [[cannabis-leaf-morphology-and-phyllotaxy]], CBD and THC exist as non-psychoactive cannabinoid acids.
+The form of consumption significantly affects [[cannabis-leaf-morphology-and-phyllotaxy]], CBD and THC exist as non-psychoactive cannabinoid acids.
 Once heated, dried, or stored, decarboxylation occurs: CBD remains non-
 psychoactive while THC-acid becomes psychoactive THC. Raw cannabis allows
 patients to benefit from therapeutic properties without altering consciousness.
@@ -91,44 +84,9 @@ daily as a commonly recommended dose.
 
 ## See Also
 
-- [[cannabis-health-index-chi-method]]
-- cannabis health index chi scoring
 - [[cannabis-health-index-methodology]]
 
-- [[cannabis-health-cancer]]
 - [[cannabis-health-cbd-cannabidiol]]
-- [[cannabis-health-pain-management]]
-## Practical Applications
-
-The principles and techniques discussed here have wide-ranging applications
-across multiple disciplines and contexts. Practitioners and researchers
-continue to explore new ways to integrate these concepts into modern practice,
-adapting traditional knowledge to contemporary challenges and opportunities.
-
-## Key Considerations
-
-Several important factors influence the effectiveness and outcomes described
-in this topic. Understanding these considerations helps practitioners make
-informed decisions and avoid common pitfalls. Environmental conditions,
-timing, and material selection all play critical roles.
-
-## Historical Context
-
-The historical development of this subject reflects centuries of accumulated
-knowledge and practical experience. From traditional methods passed down
-through generations to modern scientific approaches, the evolution continues
-to inform current best practices and research directions.
-
-## Common Challenges
-
-Practitioners frequently encounter several challenges when working with
-these concepts. Climate variability, resource limitations, and knowledge
-gaps can all affect outcomes. Addressing these challenges requires patience,
-observation, and a willingness to adapt approaches based on results.
-
-## See Also
 - [[cannabis-health-index]]
-- [[cannabis-health-index-chi-scoring-methodology-blesching]]
 - [[ayahuasca]]
-- [[doc]]
 - [[uwe-blesching]]

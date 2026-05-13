@@ -10,39 +10,17 @@ sources: [/Users/t3rpz/wiki/raw/papers/cancer-treatments-medicinal-mushrooms.md]
 
 Updated: 2026-04-18
 
-Azo dyes account for approximately 50% of all industrial dyes produced worldwide and are a major target of [[mycoremediation-of-textile-dyes]] has been demonstrated across multiple species and dye classes.
+Azo dyes account for approximately 50% of all industrial dyes produced worldwide and are a major target of [[basidiomycete-phylum-guide]], efficiently degraded poly R, poly B, azure B, and RBBR using laccases, MnPs, and LiPs
 
-### Manganese Peroxidase (MnP)
-
-- MnP from B. adusta oxidized dyes in a Mn(II)-independent manner (unusual -- most MnPs require Mn(II))
-
-- MnP from P. chrysosporium showed low activity towards industrial dyes with or without Mn(II)
-
-- MnP from Pleurotus eryngii was also involved in decolorization of reactive dyes
-
-MnP typically functions by oxidizing Mn(II) to Mn(III), which then forms chelates with organic acids such as oxalate, malonate, or lactate. These Mn(III)-chelates act as diffusible oxidants capable of penetrating dye aggregates and oxidizing phenolic components. The Mn(II)-independent activity observed in B. adusta suggests alternative electron transfer pathways that may involve direct oxidation of dye molecules by the MnP compound II intermediate, bypassing the usual Mn cycle. This unconventional activity broadens the substrate range of [[basidiomycete-phylum-guide]], efficiently degraded poly R, poly B, azure B, and RBBR using laccases, MnPs, and LiPs
-
-Laccases are multicopper oxidases that use molecular oxygen as the electron acceptor, producing water as the sole byproduct. Their ability to oxidize phenolic and some non-phenolic substrates directly, combined with the expanded redox range conferred by synthetic mediators (such as 1-hydroxybenzotriazole, ABTS, and violuric acid), makes them the most versatile fungal enzymes for dye decolorization. The laccase-mediator system (LMS) approach has been extensively studied in [[pleurotus-ostreatus]] are among the most prolific laccase producers used in dye decolorization studies.
-
-### Non-Ligninolytic Enzymes
-
-- Some azo dyes were degraded under nitrogen-sufficient (non-ligninolytic) conditions, indicating non-LDS enzyme involvement
-
-- P. ostreatus produced an RBBR-degrading enzyme during solid-state fermentation on wheat straw that was independent of Mn(II) and not influenced by [[staycare-veratryl-alcohol-as-lignin-peroxidase-mediator]]
+Laccases are multicopper oxidases that use molecular oxygen as the electron acceptor, producing water as the sole byproduct. Their ability to oxidize phenolic and some non-phenolic substrates directly, combined with the expanded redox range conferred by synthetic mediators (such as 1-hydroxybenzotriazole, ABTS, and violuric acid), makes them the most versatile fungal enzymes for dye decolorization. The laccase-mediator system (LMS) approach has been extensively studied in [[staycare-veratryl-alcohol-as-lignin-peroxidase-mediator]]
 
 - This enzyme was inhibited by Na2S2O3, NaCN, NaN3, and oxygen depletion, suggesting it may be an oxygenase with a metal center distinct from LiP and MnP
 
-Additional non-ligninolytic mechanisms include azoreductase enzymes that directly cleave the azo bond under anaerobic or microaerophilic conditions, producing aromatic amines that may be further metabolized. Some fungi also produce peroxidases and tyrosinases that contribute to dye transformation. The involvement of [[enzymatic-degradation-in-mycoremediation]] because they allow dye degradation under a wider range of environmental conditions than ligninolytic enzymes alone.
-
-## Decolorization of Industrial Effluents
-
-See [[mycoremediation-techniques]].
+Additional non-ligninolytic mechanisms include azoreductase enzymes that directly cleave the azo bond under anaerobic or microaerophilic conditions, producing aromatic amines that may be further metabolized. Some fungi also produce peroxidases and tyrosinases that contribute to dye transformation. The involvement of [[mycoremediation-techniques]].
 
 ## Factors Affecting Degradation Efficiency
 
-Multiple environmental and operational parameters influence the rate and extent of azo dye [[query-how-does-lignin-degradation-by-fungi-work]]:
-
-- **Carbon source availability** -- glucose, sucrose, or other co-substrates are typically required to sustain fungal metabolism and [[ligninolytic-enzyme-production-bioremediation]]
+Multiple environmental and operational parameters influence the rate and extent of azo dye [[ligninolytic-enzyme-production-bioremediation]]
 
 - **Nitrogen concentration** -- nitrogen limitation promotes ligninolytic conditions in some species (P. chrysosporium) but not others (T. versicolor)
 
@@ -50,32 +28,19 @@ Multiple environmental and operational parameters influence the rate and extent 
 
 - **pH and temperature** -- optimal conditions vary by species but typically range from pH 3-6 and 25-30 degrees Celsius
 
-- **[[aact-dissolved-oxygen-fine-bubble-aeration-ingham]]** -- laccases require oxygen as the electron acceptor, making aeration critical for LMS-based systems
-
-These factors are discussed more broadly in the context of [[white-rot-fungi-bioremediation]] are good candidates for immobilization and use in bioremediation applications. Key needs include:
+- **[[white-rot-fungi-bioremediation]] are good candidates for immobilization and use in bioremediation applications. Key needs include:
 
 - Elucidating the complete biochemistry of dye decolorization pathways
 
 - Identifying optimal organisms and culture conditions
 
-- Developing efficient immobilized enzyme systems for [[fungal-industrial-wastewater-treatment]] treatment
-
-- Exploring mediator systems to expand the range of dyes treatable by laccases
-
-Advances in [[fukuoka-textdoc-genetic-engineering-critique-warning]] and directed evolution may yield designer enzymes with enhanced stability, broader substrate specificity, and higher turnover rates. Metagenomic approaches are also being explored to discover novel dye-degrading enzymes from uncultured fungal diversity in polluted environments.
+- Developing efficient immobilized enzyme systems for [[fukuoka-textdoc-genetic-engineering-critique-warning]] and directed evolution may yield designer enzymes with enhanced stability, broader substrate specificity, and higher turnover rates. Metagenomic approaches are also being explored to discover novel dye-degrading enzymes from uncultured fungal diversity in polluted environments.
 
 ## See Also
 
-- [[psilocybin-chemistry-and-degradation]]
 - [[psilocybin-chemistry-degradation]]
 
-- [[staycare-azo-dye-degradation-mechanisms-ligninolytic-fungi]]
-
 - [[ligninolytic-enzymes-bioremediation]]
-
-- [[fungal-treatment-of-industrial-wastewaters]]
-
-- mycoremediation-bioreactor-design
 
 - [[fungal-immobilization-bioreactor-systems]]
 ## Practical Considerations
@@ -117,8 +82,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[doc]]
 - [[psilocybin]]
-- [[laccase]]
 - [[ligninolytic-enzymes]]
 - [[mycoremediation]]

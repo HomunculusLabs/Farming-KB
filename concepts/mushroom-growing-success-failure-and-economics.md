@@ -81,6 +81,13 @@ Despite the risks, mushroom growing is an established industry. The figures rega
 
 ## See Also
 
-- [[mushroom-cultivation]]
 - [[mushroom-market-and-production-history]]
 - [[mushroom-processing-recipes-waste-management]]
+
+## See Also
+
+- [[telluride-mushroom-festival-modern-mycological-culture]]
+- [[shroom-cultural-history-mushroom-in-ancient-civilizations]]
+- [[bloomfield-mushroom-foraging-immigrant-poisonings-paddy-straw-confusion]]
+- [[mckenna-mushroom-teonanacatl-franciscan-theophagy-and-oaxaca-survival]]
+- [[mushroom-poisoning-guide]]

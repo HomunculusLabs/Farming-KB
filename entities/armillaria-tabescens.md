@@ -22,9 +22,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - Tirmenstein, D. (1990). "Armillaria tabescens." In: "Silvics of psilocybin-north-america-pacific-northwest," USDA Forest Service.
-  - Baumgartner, K. & Bega, R.V. (1994). "Armillaria [[ingham-root-disease-treatment]]." In: "Compendium of Grape Diseases," APS Press.
-  - Kim, M.S. et al. (2006). "Molecular Phylogeny of Armillaria." Mycologia, 98(5), 742–752.
-  - Schwarze, F.W.M.R. et al. (2000). "[[singh-bioaugmentation-vs-biostimulation-fungal-strategies]] of Wood Decay in Trees." Springer.
+  - Baumgartner, K. & Bega, R.V. (1994). "Armillaria singh-bioaugmentation-vs-biostimulation-fungal-strategies of Wood Decay in Trees." Springer.
   - Watling, R. et al. (1982). "The Genus Armillaria." Royal Botanic Garden Edinburgh.
 ---
 
@@ -34,17 +32,14 @@ sources:
 
 **Armillaria tabescens** (ringless honey mushroom, table-top mushroom) is a
 basidiomycete fungus in the family Physalacriaceae, notable as a root pathogen
-and wood-decay fungus of hardwood trees across temperate [[guzman-psilocybin-mushrooms-north-america]] and
-Europe. It is closely related to the well-known *[[armillaria-mellea-entity]]* but is
+and wood-decay fungus of hardwood trees across temperate [[armillaria-mellea-entity]]* but is
 distinguished by the complete absence of an annulus (ring) on the stipe.
 
 The species is one of the most common causes of **Armillaria root rot**, a
 devastating disease of orchard trees, ornamental hardwoods, and forest trees.
 Individual genets (genetic individuals) can form enormous underground networks
 spanning hectares, making *Armillaria* species among the largest and oldest
-[[savory-living-organisms-as-tools]] on Earth.
-
-Despite its pathogenic nature, *A. tabescens* is an [[bloomfield-boletus-satanus-edible-mushroom-hazards]] when
+[[bloomfield-boletus-satanus-edible-mushroom-hazards]] when
 thoroughly cooked and is collected by foragers in regions where it is common.
 
 ## Taxonomy and Morphology
@@ -55,7 +50,7 @@ Described by Giovanni Antonio Scopoli in 1772 as *Agaricus tabescens* and later
 transferred to *Armillaria* by Paul Kummer in 1871. Recent phylogenetic work
 confirms *A. tabescens* as a distinct species within the *Armillaria mellea*
 sensu stricto complex, separate from *A. mellea*, *A. gallica*, and
-*[[armillaria-solidipes]]* (the [[growing-gourmet-north-american-reishi-species]] *A. ostoyae*).
+*[[growing-gourmet-north-american-reishi-species]] *A. ostoyae*).
 
 **Cap:** 3–10 cm, convex to plane with age, honey-brown to tan, often with
 darker scales or fibrils toward the center. Surface is dry to slightly tacky.
@@ -73,12 +68,7 @@ slightly enlarged but without a distinct rhizomorph bulb.
 deposit.
 
 **Rhizomorphs:** Black, shoestring-like structures formed underground, used for
-[[mycelial-network-nutrient-transport-imaging-gadd]] and colonization of new host roots. These are a hallmark of
-all *Armillaria* species.
-
-## Distribution and Habitat
-
-Widely distributed across temperate [[polypore-fungi-eastern-north-america]] America from the Great Lakes
+[[polypore-fungi-eastern-north-america]] America from the Great Lakes
 to the Gulf Coast and along the Atlantic seaboard. Also reported in Europe,
 particularly the Mediterranean region, and parts of Asia.
 

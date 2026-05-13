@@ -1,6 +1,6 @@
 ---
 title: Polyethylene Sheeting Fruiting Chamber Passive Humidity
-aliases: [[polyethylene-bin-fruiting-chamber-mushroom-cultivation]], simple [[mushroom-fruiting-chamber-design]], stackable fruiting bin, [[passive-humidity-fruiting-chamber-stackable-plastic-bin-design]]
+aliases: mushroom-fruiting-chamber-design, stackable fruiting bin, passive-humidity-fruiting-chamber-stackable-plastic-bin-design
 tags: [mycology, fruiting-chamber, cultivation, humidity, polyethylene, passive-humidity, psilocybe]
 sources:
   - guid-mhtml_file___e___textos__mycology__exotic_.md
@@ -72,10 +72,7 @@ Cold shocking is applied selectively based on species difficulty:
 | *P. cubensis* (Ecuador, etc.) | No | Easy-fruiting strains fruit without cold shock |
 | *P. mexicana* | Not beneficial | Does not respond to cold shock treatment |
 | *P. tampanensis* | Not beneficial | Does not respond to cold shock treatment |
-| *[[gartz-panaeolus-subbalteatus-taxonomy-and-intoxication-history]]* | Not beneficial | Does not respond to cold shock treatment |
-| Harder-to-fruit strains | Yes (1 night in fridge) | Improves initiation rate |
-
-Cold shock is performed by placing cased trays in a refrigerator (approximately 4°C) for one night before transferring to the fruiting bin. This temperature drop can trigger [[fruiting-initiation]] in recalcitrant strains.
+| *[[fruiting-initiation]] in recalcitrant strains.
 
 ## Flush Expectations
 
@@ -90,8 +87,6 @@ Cold shock is performed by placing cased trays in a refrigerator (approximately 
 *P. mexicana* tends to produce a single dominant flush followed by a much smaller second flush, while other species produce more consistent flush-to-flush yields.
 
 ## See Also
-- [[fruiting-chamber]]
 - [[passive-humidity-fruit-chamber-polyethylene-sheeting]]
-- [[dom]]
 - [[simple-plastic-bin-fruiting-chamber-passive-humidity-mushroom-cultivation]]
 - [[passive-humidity-fruiting-chamber-stackable-plastic-bin-design]]

@@ -11,51 +11,24 @@ sources:
 
 # Agriculture Run Amok
 
-In *The Road Back to Nature*, [[fukuoka-deficit-farming]] because farmers cannot afford to change practices
-- The entire system is built on petroleum energy rather than [[fukuoka-natural-fertility-cycle]]
+In *The Road Back to Nature*, [[fukuoka-natural-fertility-cycle]]
 
 ## Reversal of Expectations
 
 Before visiting America, Fukuoka intended to ask American farmers to stop exporting grain to Japan. Instead, he discovered that American farmers suffer even greater hardships than Japanese farmers, fundamentally undermining his expectations about which country's agriculture was more "advanced."
 
-See also: [[fukuoka-deficit-farming]], [[fukuoka-critique-modern-agriculture]]
+See also: [[fukuoka-critique-modern-agriculture]]
 
 ## Key Points
 
-- Masanobu Fukuoka's [[comparison-natural-farming-vs-permaculture]] emphasizes working with nature rather than against it
-- The one-straw revolution approach minimizes human intervention in agricultural systems
-- Seed balls and no-till methods are central to Fukuoka's philosophy
-- Observing natural ecosystems provides the blueprint for sustainable food production
-- Fukuoka challenged the fundamental assumptions of modern agricultural science
-
-## See Also
-
-[[fukuoka-peace-march-war-agriculture]], [[fukuoka-japan-postwar-agriculture]], [[fukuoka-critique-modern-agriculture]], [[fukuoka-western-eastern-philosophy-agriculture]]
-
-## Practical Applications
-
-The principles outlined on this page connect directly to hands-on work in gardens,
-farms, and homesteads. Integrating these concepts with complementary techniques from
-related disciplines can significantly improve outcomes. Start with small-scale
-implementation and scale up as understanding deepens through [[fukuoka-direct-observation-method]].
+- Masanobu Fukuoka's [[fukuoka-peace-march-war-agriculture]], [[fukuoka-critique-modern-agriculture]], [[fukuoka-direct-observation-method]].
 
 ## Philosophical Context
 
 Fukuoka's work emerged from a deep disillusionment with the trajectory of modern
 civilization. His experiences as a plant pathologist, farmer, and philosopher
 converged into a worldview that questioned humanity's separation from nature.
-He argued that the more humans try to [[fukuoka-straw-pest-control-natural-balance]] systems, the further they
-drift from genuine understanding. This perspective challenges both conventional
-agriculture and the assumptions underlying industrial progress.
-
-## Implications for Modern Agriculture
-
-The principles demonstrated in Fukuoka's work have profound implications for
-contemporary food systems. As soil degradation, water scarcity, and chemical
-dependency threaten global food security, his methods offer a viable alternative.
-Natural farming requires no external inputs, builds soil fertility over time,
-and produces food with minimal environmental impact. These approaches are
-increasingly relevant as [[dighton-fungi-climate-change-feedback]] accelerates the need for resilient
+He argued that the more humans try to [[dighton-fungi-climate-change-feedback]] accelerates the need for resilient
 agricultural systems that work with rather than against natural processes.
 
 ## Connection to Permaculture
@@ -64,21 +37,7 @@ Fukuoka's natural farming directly influenced the development of permaculture.
 Bill Mollison and David Holmgren drew on his principles when formulating their
 design framework. The emphasis on observation, minimal intervention, and working
 with natural patterns runs through both philosophies. Understanding Fukuoka's
-original insights provides a deeper foundation for [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]] practice
-and helps practitioners move beyond techniques to genuine ecological literacy.
-
-## Lessons for Personal Practice
-
-Applying these ideas begins with careful observation of local conditions. Rather
-than importing solutions from elsewhere, the practitioner learns to read the
-landscape and understand its inherent patterns and potentials. This approach
-requires patience and a willingness to let go of predetermined outcomes. The
-reward is a deeper relationship with place and increasingly self-sustaining
-systems that require less effort while producing more abundance over time.
-
-## Related
-
-- [[fukuoka-desert-greening-projects]]
+original insights provides a deeper foundation for [[fukuoka-desert-greening-projects]]
 
 ## Key Considerations
 
@@ -102,8 +61,90 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[masanobu-fukuoka]]
 - [[det]]
-- [[bill-mollison]]
 - [[permaculture]]
 - [[natural-farming]]
+
+## Overview
+
+Fukuoka Agriculture Run Amok represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish fukuoka agriculture run amok
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving fukuoka extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Fukuoka Agriculture Run Amok finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for fukuoka agriculture run amok. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+fukuoka agriculture run amok and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Fukuoka Agriculture Run Amok has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of fukuoka agriculture run amok into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[fukuoka-earthen-levee-building-artistic-religious-work]]
+- [[fukuoka-five-grains-food-mandala]]
+- [[fukuoka-philosophy-of-non-intervention]]
+- [[fukuoka-rice-dry-field-cultivation]]

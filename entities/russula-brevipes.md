@@ -26,8 +26,7 @@ sources:
 Russulaceae, widely distributed across coniferous and mixed forests of North
 America and Europe.
 
-It is best known as the host species for the prized [[bloomfield-boletus-satanus-edible-mushroom-hazards]]
-*Lactarius rubidus*, which parasitizes *R. brevipes* [[bloomfield-asterophora-and-mycoparasites-of-fruiting-bodies]], transforming
+It is best known as the host species for the prized [[bloomfield-asterophora-and-mycoparasites-of-fruiting-bodies]], transforming
 them into the commercially valuable "candy cap" mushroom.
 
 In its unparasitized form, *R. brevipes* is generally considered mediocre as an
@@ -80,18 +79,9 @@ iron salts negative; guaiac negative.
 *Russula brevipes* is widely distributed across temperate coniferous forests
 of the Northern Hemisphere.
 
-- **[[guzman-psilocybin-mushrooms-north-america]]:** [[psilocybin-north-america-pacific-northwest]] to California, Rocky Mountains, across
+- **[[psilocybin-north-america-pacific-northwest]] to California, Rocky Mountains, across
   Canada to the northeastern US. Particularly abundant under Douglas-fir
-  (*[[pseudotsuga-menziesii]]*) and ponderosa pine (*[[pinus-ponderosa]]*).
-- **Europe:** Widely recorded in Scandinavian and [[psilocybe-bohemica-central-european]] conifer
-  forests, though some European collections may represent cryptic species.
-- **Asia:** Reported from Japan and Korea in association with conifers.
-
-The species is strictly ectomycorrhizal, forming associations primarily with:
-
-## See Also
-
-- [[russula-delica]]
-- [[russula-emetica]]
+  (*[[pinus-ponderosa]]*).
+- **Europe:** Widely recorded in Scandinavian and [[russula-delica]]
 - [[russula-ochroleuca]]
 - [[russula-vesca]]

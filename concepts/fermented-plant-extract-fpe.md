@@ -1,6 +1,6 @@
 ---
 
-title: Fermented Plant Extract Fpe
+title: [[comparison-compost-tea-guide-vs-fermented-plant-extract-fpe]] (FPE) — FPJ & FFJ
 created: 2026-04-10
 updated: 2026-04-12
 type: concept
@@ -26,7 +26,7 @@ sources:
 
 # Fermented Plant Extract (FPE)
 
-[[bionutrients-lab-fermented-plant-juice-fpj]] (FPJ) and [[bionutrients-lab-fermented-fruit-juice-ffj]] (FFJ) are core KNF inputs that capture plant nutrients and growth energy. Made by fermenting plant material with sugar, they provide bioavailable nutrients, enzymes, and plant hormones.
+[[fermented-plant-juice|Fermented Plant Juice]] (FPJ) and [[bionutrients-lab-fermented-fruit-juice-ffj]] (FFJ) are core KNF inputs that capture plant nutrients and growth energy. Made by fermenting plant material with sugar, they provide bioavailable nutrients, enzymes, and plant hormones.
 
 FPJ and FFJ are functionally the same process — FPJ uses vegetative plant parts, FFJ uses fruits. The key difference is the sugar content and stage of the source plant.
 
@@ -48,7 +48,7 @@ Provides energy, nitrogen, enzymes, and [[gibberellins-plant-growth-hormones]]. 
 - Sweet potato vines
 - Duckweed — very fast growing, high protein
 
-**Reproductive growth FPJ/FFJ** (for flowering/fruiting):
+**[[knf-reproductive-growth-stage]] FPJ/FFJ** (for flowering/fruiting):
 - Pumpkin/squash vines
 - Yam leaves
 - Tomato plant tips
@@ -72,7 +72,7 @@ Provides energy, nitrogen, enzymes, and [[gibberellins-plant-growth-hormones]]. 
 
 **Process**:
 1. **Harvest at dawn** (before sunrise) when plant sugars and energy are highest — plants produce maximum nutrients during night via photosynthesis, peaking at dawn
-2. Do NOT wash the plant material — washing removes the [[beneficial-indigenous-microorganisms-bim]] on leaf surfaces that drive fermentation
+2. Do NOT wash the plant material — washing removes the [[beneficial-indigenous-microorganisms]] on leaf surfaces that drive fermentation
 3. Shake off dust gently if needed
 4. Chop or crush plant material to increase surface area (do not blend — preserves microbial diversity)
 5. Alternate layers of plant material and sugar in the jar

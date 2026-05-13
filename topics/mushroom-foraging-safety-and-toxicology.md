@@ -82,17 +82,7 @@ Amatoxins are cyclic octapeptides and represent the most deadly class of
 mushroom toxins known. The principal toxins in this group include
 alpha-amanitin, beta-amanitin, gamma-amanitin, and amanin. Of these,
 alpha-amanitin is the most potent and is the primary lethal agent in death cap
-and [[bloomfield-destroying-angel-amanita-virosa-amatoxin-poisoning-clinical-course]] poisonings.
-
-The molecular mechanism of amatoxin toxicity involves the inhibition of RNA
-polymerase II, the enzyme responsible for transcribing DNA into messenger RNA
-in eukaryotic cells. By halting mRNA production, amatoxins effectively shut
-down protein synthesis. Cells with high rates of protein turnover, particularly
-hepatocytes in the liver and the epithelial cells of the proximal tubules in
-the kidneys, are most severely affected. The result is progressive and
-potentially irreversible necrosis of these organs.
-
-The clinical course of [[bloomfield-amatoxin-poisoning-mechanism]] follows a characteristic and
+and [[bloomfield-amatoxin-poisoning-mechanism]] follows a characteristic and
 deceptive four-phase timeline:
 
 1. **Latent phase (6 to 24 hours):** After ingestion, the patient experiences
@@ -120,17 +110,13 @@ The lethal dose of amatoxins for an adult human is estimated at 6 to 7
 ## See Also
 
 - mushroom-identification-basics
-- [[mushroom-cultivation-fundamentals]]
 - [[psilocybin-mushroom-identification]]
-- [[fungal-spore-print-guide]]
 - [[mushroom-foraging-safety]]
-- [[psilocybin-mushroom-species-identification]]
 - [[edible-wild-mushrooms-foraging-guide]]
 
 ## References
 
-1. Palmer, E. M. "[[palmer-amanitine-poison-mechanism]] Mechanism and Treatment."
-2. Palmer, E. M. "[[palmer-poisonous-mushrooms-deadly-species]]: Deadly Species and Identification."
+1. Palmer, E. M. "[[palmer-poisonous-mushrooms-deadly-species]]: Deadly Species and Identification."
 3. Bloomfield, A. L. "Mushroom Poisons and Toxidromes." Clinical Toxicology
    Review.
 4. Money, N. P. "Mr. Bloomfield's Orchard: The Mysterious World of Mushrooms,

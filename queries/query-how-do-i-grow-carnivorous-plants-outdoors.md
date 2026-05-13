@@ -17,23 +17,7 @@ Growing carnivorous plants outdoors is easier than most people think, provided y
 
 1. **Choose your species** based on your USDA hardiness zone (see table below).
 2. **Select a location** with at least 6 hours of direct sun per day.
-3. **Source the right soil**: a 1:1 mix of sphagnum [[comparison-xeriscaping-guide-vs-rainwater-harvesting-systems]]) or buy distilled water.
-5. **Plant in containers** with drainage holes sitting in water trays, or build a **bog garden**.
-6. **Keep soil consistently moist** using the tray method — never let it dry out completely.
-7. **Do not fertilize** — ever.
-8. **Let nature handle feeding** — outdoor plants will catch plenty of insects on their own.
-9. **Research dormancy needs** for your species and plan for winter care before temperatures drop.
-
-## Choosing Species for Your Climate Zone
-
-| Climate | USDA Zones | Recommended Species | Notes |
-|---------|-----------|---------------------|-------|
-| **Temperate** | 3–7 | *Sarracenia purpurea*, *Drosera rotundifolia*, *Venus flytrap* | Need winter dormancy; very cold-hardy |
-| **Subtropical** | 8–9 | *S. flava*, *S. leucophylla*, *Drosera intermedia* | May need light protection below 20°F |
-| **Tropical** | 10–11 | *Nepenthes* spp., *Drosera adelae*, *Byblis* | No dormancy; protect from extreme heat |
-| **Indoor/Any zone** | All | *Pinguicula*, tropical *Drosera*, highland *Nepenthes* | Grow indoors or in a greenhouse |
-
-**Temperate species** are the best starting point for outdoor growing in most of [[psilocybin-north-america-pacific-northwest]]. **Tropical species** like *Nepenthes* require year-round warmth and humidity and are only practical outdoors in frost-free regions.
+3. **Source the right soil**: a 1:1 mix of sphagnum [[psilocybin-north-america-pacific-northwest]]. **Tropical species** like *Nepenthes* require year-round warmth and humidity and are only practical outdoors in frost-free regions.
 
 ## Building a Bog Garden
 
@@ -59,7 +43,7 @@ If a bog garden isn't feasible, containers work perfectly well:
 
 ## Water Requirements
 
-*[[query-how-do-i-extend-my-growing-season-with-cold-frames-and-season-extension-techniques]] od** (preferred): Keep 1–2 inches of water in the tray at all times during the [[savory-growing-season-and-non-growing-season-management]]. Soil wicks moisture upward.
+*[[savory-growing-season-and-non-growing-season-management]]. Soil wicks moisture upward.
 - **Top-watering**: Occasionally top-water to flush accumulated minerals, but don't rely on it.
 - **Winter**: Reduce watering for dormant species. Keep soil barely damp, not soggy.
 
@@ -83,18 +67,10 @@ Insufficient light causes **etiolation** (weak, stretched growth), loss of color
 
 ## Dormancy
 
-**Species that require dormancy:** All temperate *Sarracenia*, Venus flytraps (*Dionaea muscipula*), temperate *Drosera* (*D. rotundifolia*, *D. anglica*, *D. intermedia*), and most [[fukuoka-textdoc-composting-critique-futility-prepared-organic-matter]] — nutrients come from prey |
-| Using potting soil | Contains fertilizers and [[hamilton-composting-and-organic-matter-management]] | Use peat:sand/perlite mix only |
+**Species that require dormancy:** All temperate *Sarracenia*, Venus flytraps (*Dionaea muscipula*), temperate *Drosera* (*D. rotundifolia*, *D. anglica*, *D. intermedia*), and most [[hamilton-composting-and-organic-matter-management]] | Use peat:sand/perlite mix only |
 | Disturbing traps | Wastes energy; traps only close a few times | Let traps work on their own |
 | No winter dormancy | Weakens or kills temperate species | Provide cold dormancy period |
-| O [[comparison-essential-oils-vs-neem-oil-vs-insecticidal-soap]] ng | Traps die faster; can cause rot | Let nature handle it |
-
-## Pest Management
-
-- **Aphids**: Clusters on new growth. Spray with diluted **neem oil** or rinse gently with water.
-- **Scale insects**: Brown bumps on leaves/stems. Scrape off manually or treat with isopropyl alcohol on a cotton swab.
-- **Fungus gnats**: Larvae damage roots. Let the soil surface dry slightly between waterings.
-- **[[query-how-to-get-rid-of-slugs-and-snails-organically]]**: Chew holes in pitchers. Hand-pick at night or use copper tape barriers and beer traps.
+| O [[query-how-to-get-rid-of-slugs-and-snails-organically]]**: Chew holes in pitchers. Hand-pick at night or use copper tape barriers and beer traps.
 - **Spider mites**: Fine webbing in hot, dry conditions. Increase humidity and mist with water.
 
 Avoid chemical pesticides — stick to **organic, gentle treatments**.
@@ -118,11 +94,6 @@ Avoid chemical pesticides — stick to **organic, gentle treatments**.
 | Traps not closing (flytrap) | Weak plant or trap already fired | Improve conditions; don't trigger traps manually |
 | Yellowing leaves | Mineral buildup from tap water or fertilizer | Flush with distilled water; repot if severe |
 | Pale, stretched growth | Not enough light | Move to a sunnier location |
-| Black spots on leaves | Fungal infection (poor [[stamets-growing-room-air-circulation-co2-management]]) | Increase spacing; remove affected leaves |
-| White crust on soil | Mineral deposits from impure water | Switch to pure water; repot with fresh mix |
-| Plants dying after winter | Skipped dormancy or too wet in winter | Ensure cold period; keep barely damp in winter |
-| Aphid clusters on new growth | Aphid infestation | Spray with neem oil or rinse with water |
-
-For more detailed cultivation guidance, see carnivorous plants biology and cultivation and bog gardens. For water sourcing tips, visit [[comparison-xeriscaping-guide-vs-rainwater-harvesting-systems]].
+| Black spots on leaves | Fungal infection (poor [[comparison-xeriscaping-guide-vs-rainwater-harvesting-systems]].
 
 ## See Also

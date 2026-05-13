@@ -24,7 +24,7 @@ sources:
 **Psilocybe sylvatica** is a rare psilocybin-containing mushroom in the family
 Hymenogastraceae. The species epithet *sylvatica* refers to its woodland habitat.
 
-It was first described by [[psilocybin-mushrooms]] in [[psilocybin-north-america-pacific-northwest]]
+It was first described by [[psilocybin-north-america-pacific-northwest]]
 and is seldom encountered by foragers compared to more prolific species like
 *P. cyanescens* or *P. cubensis*.
 
@@ -61,14 +61,7 @@ darkening to purplish-brown with spore maturity. Edges slightly fringed.
 base. Hollow, fragile. Surface covered in fine whitish fibrils, sometimes
 with a subtle silky sheen. Bluish where bruised or handled.
 
-**[[tryptamine]] alkaloids associated
-with the genus:
-
-- **Psilocybin** (4-PO-DMT): The primary prodrug, phosphorylated at the
-  4-position, dephosphorylated in vivo to the active psilocin.
-- **Psilocin** (4-HO-DMT): The active metabolite and primary psychoactive
-  compound, a serotonin 5-HT2A receptor agonist.
-- **[[biological-efficiency]] figures are available for
+**[[biological-efficiency]] figures are available for
 this species due to the absence of documented cultivation attempts.
 
 ## Related Species

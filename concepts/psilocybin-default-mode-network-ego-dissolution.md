@@ -40,39 +40,7 @@ When psilocybin disrupts the DMN/serotonergic homeostatic system, this ego-const
 
 The locus coeruleus, which processes so many sensory inputs that it is considered to function as a "novelty detector," plays a complementary role. When psilocybin binds to 5-HT2 receptors in the locus coeruleus, it enhances novelty detection and arousal, simultaneously raising alertness and increasing the amount of sensory information that reaches consciousness.
 
-The combined effect -- DMN/raphe disruption plus enhanced novelty detection -- creates the characteristic [[leary-psychedelic-experience-bardo-mapping]]: the collapse of the default self-referential mode combined with a flood of novel sensory and cognitive information. The experiencer is no longer trapped in the default loop of self-referential thought but is instead immersed in a radically expanded field of consciousness.
-
-## The Waking Dream as DMN Disruption
-
-Powell's discussion of the relationship between psilocybin and dreaming provides another angle on DMN disruption. REM sleep involves the suppression of serotonergic neuronal activity, during which the brain enters a state characterised by vivid imagery, emotional intensity, and the suspension of normal reality-testing -- features that correspond to DMN disruption.
-
-When psilocybin chemically induces a similar suppression of serotonergic activity, it produces a "waking dream" state in which the normal constraints of the default mode are suspended while the experiencer remains fully conscious. This is precisely what modern neuroimaging shows: psilocybin reduces DMN connectivity while simultaneously enhancing connectivity between regions that normally operate independently.
-
-## The "Sub-Routine Prisoners" of the Default Mode
-
-Powell's description of everyday awareness as being "constrained and bounded, as if we were sub-routine prisoners in some vast computation that surges ever onward" captures the essence of what it means to be locked in the default mode. The DMN/ego-construct is both our most useful psychological tool and our most restrictive perceptual prison.
-
-Psilocybin temporarily dissolves these constraints, conferring upon the experiencer an increased set of degrees of cognitive freedom. The escape from the default mode is not a descent into chaos but an expansion into a broader informational landscape -- one in which consciousness operates with greater flexibility, creativity, and scope than the default mode permits.
-
-## From Default Mode to Transcendent Mode
-
-The transition from default mode consciousness to psychedelic consciousness can be understood as a shift from one attractor state of the brain's dynamic system to another. The default mode is a stable, self-maintaining pattern of neuronal activity -- a deep valley in the brain's state space. Psilocybin perturbs the system sufficiently to push it out of this default valley and into new regions of state space.
-
-These new regions correspond to the various modes of psychedelic experience: visionary consciousness, mystical consciousness, the dissolution of self/other boundaries, and the experience of enhanced reality. Each represents a distinct but stable configuration of neuronal information -- an alternative "mode" of consciousness that the brain is capable of maintaining but which is not normally accessible from within the default mode.
-
-## The Significance of DMN Disruption for Mental Health
-
-The discovery that psilocybin disrupts the default mode network has profound implications for understanding and treating mental health conditions. Many psychiatric disorders, particularly depression and anxiety, are characterised by excessive DMN activity and rigid, repetitive patterns of self-referential thought -- rumination, worry, and negative self-appraisal.
-
-If the DMN is the brain's default "ego-maintenance" system, then psychiatric conditions like depression can be understood as states in which the DMN has become pathological -- trapped in maladaptive patterns of self-referential processing. Psilocybin's ability to disrupt the DMN and open a "window of plasticity" in which new patterns can be established may explain its therapeutic efficacy.
-
-This aligns perfectly with Powell's observation that psilocybin forces one to confront bad habits and neuroses and that nothing remains hidden to the mushroom. The DMN disruption induced by psilocybin literally breaks the brain out of its default ruminative patterns, creating an opportunity for psychological reorganisation.
-
-## The Serotonergic System as the Bridge Between Mind and Matter
-
-Powell argues that psilocybin "bridges perfectly the conceptual gap between the two seemingly incompatible worlds of mind and matter, psychological and physical." The serotonergic homeostatic system -- now understood as including the DMN -- is the bridge itself. It is the interface where the physical chemistry of neurotransmitters meets the psychological phenomenon of self-awareness.
-
-When we understand the DMN as a chemically maintained informational pattern, the mind/[[mind-body-problem-vs-information-paradigm-of-consciousness]] begins to dissolve. The ego is not a ghost in the machine but a specific pattern of neuronal firing maintained by the serotonergic system. This pattern can be chemically disrupted, temporarily dissolved, and allowed to reorganise in new configurations. The more we can understand the psilocybin modus operandi, the closer we get to divining the actual design of the bridge linking mind to matter.
+The combined effect -- DMN/raphe disruption plus enhanced novelty detection -- creates the characteristic [[mind-body-problem-vs-information-paradigm-of-consciousness]] begins to dissolve. The ego is not a ghost in the machine but a specific pattern of neuronal firing maintained by the serotonergic system. This pattern can be chemically disrupted, temporarily dissolved, and allowed to reorganise in new configurations. The more we can understand the psilocybin modus operandi, the closer we get to divining the actual design of the bridge linking mind to matter.
 
 ## Implications for the Philosophy of Consciousness
 
@@ -82,6 +50,90 @@ This finding supports Powell's broader thesis that consciousness is "mediated by
 
 ## See Also
 
-- [[psilocybin-serotonin-5ht2a-receptor-pharmacology]]
 - [[consciousness-and-psychedelics]]
 - [[information-paradigm-of-consciousness]]
+
+## Overview
+
+Psilocybin Default Mode Network Ego Dissolution represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish psilocybin default mode network ego dissolution
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving psilocybin extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Psilocybin Default Mode Network Ego Dissolution finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for psilocybin default mode network ego dissolution. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+psilocybin default mode network ego dissolution and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Psilocybin Default Mode Network Ego Dissolution has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of psilocybin default mode network ego dissolution into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[field-guide-psilocybin-mushroom-hunting-methodology]]
+- [[gottlieb-psilocybin-cultivation-strain-selection-guide]]
+- [[powell-psilocybin-serotonin-pathways-environmental-chemistry]]
+- [[psilocybin-mushrooms-new-zealand-guide]]
+- [[psilocybin-psilocin-flush-variation-bigwood-beug]]

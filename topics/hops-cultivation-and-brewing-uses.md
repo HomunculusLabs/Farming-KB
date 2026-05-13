@@ -26,19 +26,7 @@ sources:
 
 ## Overview
 
-Hops (*Humulus lupulus*) are perennial, climbing, herbaceous plants in the Cannabaceae family — making them close botanical relatives of cannabis. Native to temperate regions of the Northern Hemisphere, hops have been cultivated for over 1,000 years, primarily for their cone-like flowers (strobiles), which contain lupulin glands rich in alpha acids, [[essential-oils-and-hydrosol-distillation]], and polyphenols. These compounds provide bitterness, flavor, aroma, and natural preservative qualities to beer. Beyond brewing, hops have a long history of medicinal use as a sedative, anti-inflammatory, and digestive aid, and they are increasingly valued in permaculture systems as fast-growing, nitrogen-responsive climbers that provide shade, biomass, and wildlife habitat.
-
-## Botanical Profile
-
-**Scientific name:** *Humulus lupulus*
-
-**Family:** Cannabaceae
-
-**Lifecycle:** Herbaceous perennial (dies back to the crown each winter; regrows annually from rhizomes)
-
-**Growth habit:** Twining bine (not a true vine — hops climb by wrapping their stems clockwise around supports, using stiff hairs for grip rather than tendrils)
-
-**Height:** 4–8 meters (13–26 feet) in a single [[savory-growing-season-and-non-growing-season-management]], depending on variety and trellis height
+Hops (*Humulus lupulus*) are perennial, climbing, herbaceous plants in the Cannabaceae family — making them close botanical relatives of cannabis. Native to temperate regions of the Northern Hemisphere, hops have been cultivated for over 1,000 years, primarily for their cone-like flowers (strobiles), which contain lupulin glands rich in alpha acids, [[savory-growing-season-and-non-growing-season-management]], depending on variety and trellis height
 
 **Hardiness:** USDA Zones 3–8 (some varieties suitable to Zone 2 with winter protection)
 
@@ -64,8 +52,7 @@ Hop varieties are broadly classified by their primary brewing role and their geo
 - **Noble hops (Germany, Czechia, Slovenia):** Saaz, Tettnanger, Hallertauer Mittelfrüh, Spalter Select — low alpha, delicate floral/spicy/herbal aromas, central to Continental lager styles.
 - **British hops:** Fuggle, East Kent Goldings, Challenger, Target — earthy, floral, slightly fruity.
 - **American hops:** Cascade, Centennial, Chinook, Columbus, Simcoe, Citra, Mosaic, Galaxy — bold citrus, pine, tropical fruit, stone fruit aromas.
-- **[[southern-hemisphere-origin-hypothesis-neurotropic-fungi-guzman-1998]] (AU/NZ):** Galaxy, Nelson Sauvin, Motueka, Riwaka — intense tropical, passionfruit, white wine character.
-- **Japanese hops (*H. lupulus* var. *cordifolius*):** Wild species with limited commercial breeding; high resistance to [[query-how-to-manage-pests-and-diseases-in-mushroom-cultivation]].
+- **[[query-how-to-manage-pests-and-diseases-in-mushroom-cultivation]].
 
 ### Notable Varieties for Home Growers
 
@@ -76,7 +63,7 @@ Hop varieties are broadly classified by their primary brewing role and their geo
 - **Fuggle:** Traditional English aroma hop. Mild, earthy, slightly fruity. Moderate vigor. Good for English ales, porters, stouts.
 - **Willamette:** American triploid derived from Fuggle. Soft, floral, slightly spicy. Good yield, widely adapted.
 - **Magnum:** German high-alpha bittering hop (12–14%). Excellent yield, clean bitterness, very good disease resistance and storage stability.
-- **Hallertauer Mittelfrüh:** Classic noble hop. Low alpha (3–5%), delicate floral/spicy aroma. Requires careful [[plant-disease-management-solomon]] (susceptible to [[downy-mildew-biology-diversity-peronosporales]] and verticillium wilt). Best for cool, dry climates.
+- **Hallertauer Mittelfrüh:** Classic noble hop. Low alpha (3–5%), delicate floral/spicy aroma. Requires careful [[downy-mildew-biology-diversity-peronosporales]] and verticillium wilt). Best for cool, dry climates.
 - **Chinook:** High-alpha (12–14%) with piney, spicy, grapefruit character. Very vigorous and productive. Good dual-purpose hop for American IPAs.
 
 ## Site Selection and Soil Requirements
@@ -88,18 +75,7 @@ Hops thrive in temperate climates with:
 - **Growing season:** Minimum 120 frost-free days; 150+ days ideal for full cone maturation.
 - **Day length:** Hops are photoperiod-sensitive and initiate flowering when day length drops below approximately 15 hours (triggered around the summer solstice in the Northern Hemisphere). Latitude 35–55°N provides optimal day-length triggers. Below ~30° latitude, flowering may be delayed or inadequate.
 - **Winter chill:** Hops require a dormancy period with sustained cold (cumulative chill hours below 5°C / 41°F) to break bud dormancy effectively. Regions with very mild winters may see weak, delayed spring emergence.
-- **Temperature:** Optimal [[mushroom-growing-temperature-and-moisture]] 15–25°C (59–77°F). Heat above 35°C (95°F) can stress plants and reduce lupulin content. Cold-hardy crowns survive winter temperatures to -25°C (-13°F) with adequate mulch; some varieties survive to -35°C with deep snow cover.
-
-### Sunlight
-
-- Full sun (minimum 6–8 hours direct sunlight daily; more is better).
-- Shade significantly reduces yield and cone quality.
-- In hot climates (Zones 8–9), afternoon shade can reduce heat stress but may slow cone maturation.
-
-### Soil
-
-- **Type:** Deep, well-drained loam is ideal. Hops tolerate sandy loam and clay loam if drainage is adequate. Heavy clay with poor drainage promotes crown rot.
-- **pH:** 6.0–7.0 (slightly acidic to neutral). Below pH 5.5, [[ph-and-nutrient-availability-garden-soils]] drops significantly.
+- **Temperature:** Optimal [[ph-and-nutrient-availability-garden-soils]] drops significantly.
 - **Depth:** Minimum 30 cm (12 inches) of topsoil; deeper is better given the extensive root system.
 - **Drainage:** Critical. Standing water around the crown is the most common cause of plant death. [[raised-beds-vs-in-ground-vs-containers]] or mounded planting are recommended in heavy soils.
 - **Organic matter:** Hops are heavy feeders. Incorporate 5–10 cm of well-rotted compost or aged manure before planting.

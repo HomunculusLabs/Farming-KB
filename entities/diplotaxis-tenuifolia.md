@@ -23,39 +23,7 @@ The species is commercially important as a salad green, prized for its intense p
 
 Commercial cultivation has expanded significantly since the 1990s, with Italy, the United Kingdom, and France as major producers. The species is increasingly grown hydroponically for year-round supply.
 
-Beyond culinary use, wild rocket contains glucosinolates and flavonoids with documented antioxidant and anti-inflammatory properties. These [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]] have attracted research interest for potential health applications.
-
-## Taxonomy and Morphology
-
-**Classification:**
-
-- **Kingdom:** Plantae
-- **Order:** Brassicales
-- **Family:** Brassicaceae
-- **Genus:** Diplotaxis
-- **Species:** D. tenuifolia (L.) DC. (1821)
-
-**Basionym:** Sisymbrium tenuifolium L. (1753). The species was transferred to Diplotaxis by Augustin Pyramus de Candolle in 1821. The epithet *tenuifolia* means "narrow-leaved," referring to the slender leaf segments.
-
-**Macroscopic features:**
-
-Plants grow 20–80 cm tall with an erect to spreading habit. The stem is branched from the base, glabrous to slightly pubescent, and green to purplish.
-
-Leaves are pinnatisect with 4–8 pairs of lobes, each lobe linear to lanceolate, 1–3 mm wide. The terminal lobe is the largest. Leaves are 5–20 cm long, dark green, and glabrous.
-
-Flowers are 12–18 mm in diameter with four pale yellow to creamy white petals. The petals have conspicuous dark violet veining, a distinctive identification feature.
-
-The fruit is a silique 2–4 cm long and 1.5–2.5 mm wide, held erect on the stem. Seeds are 1–1.5 mm, oval, brown to reddish-brown, arranged in two rows per valve.
-
-**Microscopic features:**
-
-Leaf epidermis has sinuous anticlinal walls and anisocytic stomata. Myrosin cells are present in leaf and stem tissues, containing the enzyme myrosinase responsible for glucosinolate hydrolysis.
-
-## Distribution and Habitat
-
-**Diplotaxis tenuifolia** is native to the Mediterranean Basin, from Portugal and Morocco eastward to Greece and Turkey. Its native range extends to the Black Sea region and parts of central Europe.
-
-The species has naturalized widely in northern Europe, the British Isles, [[psilocybin-north-america-pacific-northwest]], Australia, and [[guzman-psilocybin-mushrooms-south-america]]. It is particularly common as a garden escape and along roadsides in [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]].
+Beyond culinary use, wild rocket contains glucosinolates and flavonoids with documented antioxidant and anti-inflammatory properties. These [[psilocybin-north-america-pacific-northwest]], Australia, and [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]].
 
 It grows in dry, rocky, and sandy habitats including roadside verges, field margins, walls, rocky outcrops, and disturbed ground. The species tolerates poor, calcareous soils and is drought-resistant once established.
 
@@ -73,11 +41,7 @@ Young, tender leaves are preferred for raw consumption. Mature leaves can be wil
 
 Wild rocket has largely replaced cultivated rocket (*Eruca sativa*) in premium markets due to its more intense and complex flavor profile. The two species are sometimes sold mixed, though purists prefer pure wild rocket.
 
-The leaves are highly perishable and have a [[ingham-aact-holding-time-shelf-life-decay]] of 5–7 days when refrigerated. Pre-washed, ready-to-eat packages are the dominant retail format in European supermarkets.
-
-## Nutrition
-
-**Diplotaxis tenuifolia** is nutritionally dense, containing high levels of vitamins, minerals, and phytochemicals relative to most [[hamilton-salad-vegetables-organic]].
+The leaves are highly perishable and have a [[hamilton-salad-vegetables-organic]].
 
 Vitamin K content is among the highest of any leafy green, with approximately 250 µg per 100 g fresh weight. The leaves are also rich in vitamin C (110 mg/100 g), vitamin A (as carotenoids), and folate.
 
@@ -85,6 +49,87 @@ The species is notable for its glucosinolate content, primarily glucoerucin, glu
 
 Isothiocyanates derived from glucosinolate hydrolysis have demonstrated anticancer, antimicrobial, and anti-inflammatory activities in laboratory studies. The glucosinolate profile of D. tenuifolia differs significantly from that of cultivated rocket.
 
-Flavonoids including [[quercetin]], [[kaempferol]], and isorhamnetin glycosides contribute to the antioxidant capacity. Total phenolic content ranges from 30–50 mg GAE per gram dry weight.
+Flavonoids including [[kaempferol]], and isorhamnetin glycosides contribute to the antioxidant capacity. Total phenolic content ranges from 30–50 mg GAE per gram dry weight.
 
 ## Cultivation
+
+## Overview
+
+Diplotaxis Tenuifolia represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish diplotaxis tenuifolia
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving diplotaxis extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Diplotaxis Tenuifolia finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for diplotaxis tenuifolia. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+diplotaxis tenuifolia and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Diplotaxis Tenuifolia has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of diplotaxis tenuifolia into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[polygala-tenuifolia]]

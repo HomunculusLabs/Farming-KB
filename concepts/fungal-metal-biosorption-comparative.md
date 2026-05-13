@@ -6,7 +6,7 @@ type: concept
 tags: [mycology, fungi]
 sources: []
 ---
-# [[fungal-bioaccumulation-vs-biosorption]], and for detailed mechanisms see [[aspergillus-fumigatus]] | UO₂²⁺ | 0.81 | Bhainsa & D'Souza, 1999 |
+# [[aspergillus-fumigatus]] | UO₂²⁺ | 0.81 | Bhainsa & D'Souza, 1999 |
 | Aspergillus oryzae | Cd²⁺ | 0.38 | Yin et al., 1999 |
 
 A. fumigatus shows particularly high uranium uptake, consistent with the general trend of uranium being biosorbed to high levels across all genera.
@@ -30,23 +30,10 @@ Uranium (as uranyl ion UO₂²⁺) is consistently biosorbed to the highest leve
 - R. arrhizus demonstrated uptake exceeding commercial ion-exchange resins for U and Th (Tsezos & Volesky, 1981)
 
 ### Lead (Consistently High)
-Lead is repeatedly found to be biosorbed to high levels across diverse genera, reflecting its high electronegativity and affinity for [[staycare-degradation-of-plant-cell-wall-polymers-by-fungi]] functional groups.
-
-### Divalent Cations (Moderate)
-Cd²⁺, Cu²⁺, Zn²⁺, and other divalent cations typically show uptake in the 0.1–0.5 mmol/g range.
-
-### Monovalent Cations (Low/Negligible)
-Alkali metals are generally not biosorbed, though Ag⁺ is appreciably taken up (up to 0.5 mmol/g).
-
-## Cell Wall Chemistry and Binding Sites
-
-### Functional Groups
-[[gadd-fungal-cell-structure]] walls contain multiple potential binding sites:
+Lead is repeatedly found to be biosorbed to high levels across diverse genera, reflecting its high electronegativity and affinity for [[gadd-fungal-cell-structure]] walls contain multiple potential binding sites:
 
 - **Chitin/chitosan**: Key binding sites identified in early studies; amino groups coordinate metals
-- **Carboxyl groups**: Account for up to 55% of Zn binding by P. chrysogenum and 70% by [[trichoderma-reesei]]; preferentially bound at low concentrations due to higher affinity
-- **Phosphoryl groups**: Account for up to 95% of Pb binding by P. chrysogenum (Sarrat et al., 1999)
-- **Sulfhydryl groups**: Present in some species; contribute to heavy [[chelation-and-metal-binding-in-plants]]
+- **Carboxyl groups**: Account for up to 55% of Zn binding by P. chrysogenum and 70% by [[chelation-and-metal-binding-in-plants]]
 
 ### Binding Mechanisms
 The binding process involves:
@@ -118,8 +105,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[saccharomyces-cerevisiae]]
 - [[det]]
-- [[aspergillus-oryzae]]
 - [[trichoderma]]
 - [[gadd-fungal-biosorption-metal-contamination-remediation]]

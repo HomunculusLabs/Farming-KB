@@ -1,8 +1,8 @@
-# Standardized [[soil-fungal-diversity-wisconsin-survey-global-patterns|Fungal]] [[biodiversity-of-fungi-fungal-culture-preservation-techniques|Biodiversity]] Inventory and Monitoring Methods
+# Standardized [[biodiversity-of-fungi-fungal-culture-preservation-techniques|Biodiversity]] Inventory and Monitoring Methods
 
 ## Overview
 
-Fungi represent one of the most species-rich and ecologically diverse kingdoms on Earth, yet they remain among the most poorly documented organisms. Despite their critical roles in nutrient cycling, plant symbiosis, pathology, and ecosystem function, **no single site on the planet has ever been comprehensively surveyed for fungal biodiversity**.
+Fungi represent one of the most species-rich and ecologically diverse kingdoms on Earth, yet they remain among the most poorly documented organisms. Despite their critical roles in nutrient cycling, plant symbiosis, pathology, and ecosystem function, **no single site on the planet has ever been comprehensively surveyed for [[fungal-biodiversity]]**.
 
 Estimates of global fungal diversity range from 2.2 to 3.8 million species, yet fewer than 150,000 have been formally described. This stark knowledge gap underscores the urgent need for standardized inventory methods that can produce comparable data across sites, habitats, and time periods.
 
@@ -10,9 +10,7 @@ Estimates of global fungal diversity range from 2.2 to 3.8 million species, yet 
 
 Standardized protocols are critical for two primary reasons.
 
-First, they **enable cross-site comparisons** — without consistent methodologies, differences in species richness between sites may reflect variation in sampling effort, technique, or taxonomic expertise rather than genuine biological patterns. A survey using only above-ground fruiting body collection will produce dramatically different results from one employing [[soil-fungal-community-isolation-survey-methods|soil]] dilution plating and DNA metabarcoding.
-
-Second, they support **longitudinal monitoring** — detecting changes in fungal [[biodiversity-of-fungi-soil-fungal-communities-agriculture|communities]] over time requires that the same methods be applied repeatedly, so that observed shifts can be attributed to environmental change rather than methodological drift. Standardization also facilitates meta-analyses across independent studies, amplifying the scientific value of individual surveys.
+First, they **enable cross-site comparisons** — without consistent methodologies, differences in species richness between sites may reflect variation in sampling effort, technique, or taxonomic expertise rather than genuine biological patterns. A survey using only above-ground fruiting body collection will produce dramatically different results from one employing [[biodiversity-of-fungi-soil-fungal-communities-agriculture|communities]] over time requires that the same methods be applied repeatedly, so that observed shifts can be attributed to environmental change rather than methodological drift. Standardization also facilitates meta-analyses across independent studies, amplifying the scientific value of individual surveys.
 
 ## Historical Compilations of Methods
 
@@ -38,7 +36,6 @@ The volume identifies several distinct operational groups, each requiring specia
 |---|---|
 | **Aquatic fungi** | Submerged substrates, seasonal water levels, spore trapping |
 | **Soil fungi** | Micro-scale heterogeneity, vast species richness, culture bias |
-| **[[fungi-in-the-environment-fungal-endophytes-plant-communities|Endophytes]]** | Asymptomatic colonization, surface sterilization, selective media |
 | **[[lichens]]** | Slow growth, substrate specificity, morphological identification |
 | **Wood-inhabiting fungi** | Successional stages, concealed sporocarps, decay class |
 | **Terrestrial macrofungi** | Episodic fruiting, rapid senescence, weather dependence |
@@ -66,11 +63,7 @@ Microfungi present different temporal challenges — they may be active in soil 
 
 Fungal biodiversity quantification faces fundamental biological obstacles:
 
-- **One [[mycelium]], many fruit bodies**: A single individual fungal genet can produce dozens or hundreds of spatially separated fruiting bodies, leading to overestimation of species abundance if each sporocarp is counted independently without genotyping.
-
-- **Isolation selectivity**: Culture-based methods inherently select for fast-growing, easily cultivable species, systematically underrepresenting slow-growing, obligate, or unculturable taxa. Different isolation media, incubation temperatures, and incubation periods capture different subsets of the community.
-
-- **Detectability varies**: Microfungi, endophytes, and [[cryptic-species]] are far less detectable than conspicuous macrofungi, biasing inventories toward visible, charismatic taxa regardless of their ecological importance.
+- **One [[cryptic-species]] are far less detectable than conspicuous macrofungi, biasing inventories toward visible, charismatic taxa regardless of their ecological importance.
 
 These quantification issues mean that raw species counts from different methods are rarely directly comparable without careful calibration and correction for detection probability.
 

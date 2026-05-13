@@ -29,12 +29,12 @@ The concretion creates an impermeable barrier that prevents both root penetratio
 - Worsened by the addition of superphosphate fertilisers, which promote additional calcium cementation
 - Fresh-water deposits often develop below calcrete layers on atolls
 - Occurs at relatively shallow depths (0.5–1.0 m) beneath topsoil
-- Related to but distinct from [[silcrete-cangagua]] (silica-cemented) and [[ferricrete]] (iron-cemented) hardpans
+- Related to but distinct from [[ferricrete]] (iron-cemented) hardpans
 - Vinegar test produces CO2 bubbles, distinguishing calcrete from other concretions
 
 ## Relevance to Cultivation
 
-Calcrete presents a significant barrier to plant establishment in [[permaculture]] systems. Without mechanical breaking or deep ripping, tree roots cannot access subsoil moisture and nutrients. On coral atolls and dry islands, gardeners must physically breach the calcrete layer to establish productive plantings. The use of grow pits (3–6 m wide by 10–12 m long by 3 m deep) dug down to near the water table, then thickly mulched with [[casuarina]], palm, and household wastes, is a proven strategy for production on calcrete-affected atoll soils.
+Calcrete presents a significant barrier to plant establishment in [[casuarina]], palm, and household wastes, is a proven strategy for production on calcrete-affected atoll soils.
 
 The addition of superphosphate should be avoided on calcrete-prone soils as it worsens the cementation process. This has significant implications for conventional agriculture on tropical islands where superphosphate is routinely applied.
 
@@ -49,30 +49,8 @@ The addition of superphosphate should be avoided on calcrete-prone soils as it w
 
 ## Related Entities
 
-- Silcrete — silica-cemented hardpan ([[cangagua]])
-- Ferricrete — iron-cemented hardpan (ironstone, plinthite)
-- Bentonite — clay used in non-wetting sands above calcrete
-- Gypsum — amendment for sodic and alkaline soils above calcrete
-- Dolomite — lime amendment for acid soils
-- Non-wetting sands — another difficult soil type found with calcrete
-
-## Practical Applications
-
-Calcrete is relevant to sustainable design and ecological management practices.
-Understanding these concepts helps practitioners make informed decisions that balance
-productivity with environmental stewardship.
-
-## Key Considerations
-
-When working with these systems, consider local climate, existing site conditions,
-and long-term management goals. Integration with broader design frameworks enhances
-both resilience and productivity of the overall system.
-
-## See Also
-- [[pioneer-species-selection-for-permaculture-systems]]
-- [[nutrient-movement-through-soil-to-plant-roots]]
+- Silcrete — silica-cemented hardpan ([[pioneer-species-selection-for-permaculture-systems]]
 - [[mollison-designers-pioneer-species-for-exhausted-tropical-soils]]
-- [[soil-moisture-management-and-root-growth]]
 - [[difficult-soils-concretions-and-non-wetting]]
 
 ## Additional Context
@@ -80,3 +58,85 @@ both resilience and productivity of the overall system.
 Calcrete represents an important element within the broader framework of
 sustainable land management and ecological design. Integration with complementary
 techniques enhances overall system resilience and productivity.
+
+## Overview
+
+Calcrete represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish calcrete
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving calcrete extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Calcrete finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for calcrete. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+calcrete and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Calcrete has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of calcrete into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[calcrete-caliche]]
+- [[calcrete-soil-management]]

@@ -31,13 +31,7 @@ sativa southeast-asian-mushroom-tourism-bali and South
   growers over generations
 - **Genetic stability:** Moderate — phenotypic variation equery-how-do-i-create-a-seed-bank-and-start-seed-savingo
   landrace genetics and informal gartz-magic-mushrooms-species-south-america
-contributed additional [[terpene-profile-chemotaxonomy]]:
-
-### Primary Aromas
-- **Herbal, grassy** — fresh-cut vegetation, reminiscent of a tropical
-  meadow
-- **Earthy, woody undertones** — natural soil and plant matter notes
-- **Subtle citrus and spice** — background notes from [[limonene]] and
+contributed additional [[limonene]] and
   caryophyllene
 
 ### Flavor
@@ -52,20 +46,9 @@ tropical fruit character.
 | **THC** | 15–22% | Varies by grower and phenotype |
 | **CBD** | 0.1–0.5% | Low, though some phenotypes approach 1% |
 | **CBN** | <0.1% | Negligible in fresh flower |
-| **THCV** | 0.1–0.3% | Occasionally [[det|det]]ectable, contributes to energy |
-
-Traditional Jamaican landraces generally test lower in THC than modern
-hybrids, but Lambsbread is considered a higher-THC landrace by historical
-standards.
-
-## Terpene Profile
-
-| Terpene | Approximate % | Effects / Aroma |
-|---------|--------------|-----------------|
-| **[[myrcene]]** | 0.4–0.8% | Relaxation, earthy base |
+| **THCV** | 0.1–0.3% | Occasionally [[myrcene]]** | 0.4–0.8% | Relaxation, earthy base |
 | **Caryophyllene** | 0.3–0.7% | Anti-inflammatory, peppery |
 | **Limonene** | 0.2–0.5% | Mood elevation, citrus |
-| **[[pinene|Pinene]]** | 0.2–0.4% | Alertness, pine |
 | **[[humulene|Humulene]]** | 0.1–0.2% | Anti-inflammatory, woody |
 | **[[terpinolene]]** | 0.1–0.2% | Antioxidant, floral |
 
@@ -88,3 +71,80 @@ sativa, persisting 3–5 hours.
 - Increased sociability and verbal fluency
 - Mild visual enhancement at moderate doses
 - Absence of racing thoughts or anxiety (lower paranoia risk)
+
+## Overview
+
+Lambsbread represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish lambsbread
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving lambsbread extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Lambsbread finds practical application in multiple design contexts.
+[[permaculture-principles]] guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for lambsbread. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+lambsbread and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Lambsbread has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of lambsbread into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.

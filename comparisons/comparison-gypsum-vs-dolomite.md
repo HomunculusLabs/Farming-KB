@@ -22,29 +22,6 @@ adjustment.
 
 ## Gypsum
 
-[[growing-gourmet-gypsum-lime-ph-management]]
-
-Gypsum is calcium sulfate dihydrate (CaSO₄·2H₂O). Unlike limestone
-products, gypsum does not raise soil pH. Its primary role is supplying
-calcium without affecting acidity, making it invaluable for alkaline
-soils or situations where pH is already in the correct range.
-
-In mushroom cultivation, gypsum improves substrate structure by
-preventing grain kernels and sawdust particles from clumping. At
-roughly 5% by weight, it keeps substrate loose and aerated, which
-supports mycelial respiration and colonisation speed. Stoller (1962)
-and Leatham and Stahlman (1989) demonstrated that gypsum stimulated
-mycelial growth of shiitake in supplemented sawdust blocks.
-
-In garden soils, gypsum helps flocculate clay particles. The sulfate
-ions bind to clay, improving aggregation, drainage, and aeration.
-Solomon recommends gypsum as one of three lime components in his
-Complete Organic Fertilizer (COF) blend, specifically for its ability
-to deliver calcium without raising pH. It is also more soluble than
-agricultural lime, making calcium available to plants more quickly.
-
-## Dolomite
-
 [[cervantes-dolomite-lime-ph-buffering]]
 
 Dolomite is calcium magnesium carbonate (CaMg(CO₃)₂). It supplies
@@ -128,8 +105,6 @@ accumulation.
 
 ## See Also
 
-- [[solomon-lime-types-agricultural-dolomitic-gypsum-ph-myth-organic-garden]]
 - [[growing-gourmet-gypsum-lime-ph-management]]
-- [[cervantes-dolomite-lime-ph-buffering]]
 - [[comparison-perlite-vs-vermiculite]]
 - [[comparison-humic-acid-vs-fulvic-acid]]

@@ -26,7 +26,7 @@ sources:
 
 # European Psilocybin Species
 
-Beyond the well-known [[guzman-allen-gartz-psilocybe-semilanceata-temperate-cosmopolitan-distribution]], Europe hosts several additional psilocybin-containing genera that are less recognized but scientifically significant. Data primarily from Jochen Gartz's field research and chemical analyses (1980s-1990s). See also [[mushroom-species-guide]] and [[fungal-biodiversity]].
+Beyond the well-known Psilocybe semilanceata, Europe hosts several additional psilocybin-containing genera that are less recognized but scientifically significant. Data primarily from Jochen Gartz's field research and chemical analyses (1980s-1990s). See also [[mushroom-species-guide]] and [[fungal-biodiversity]].
 
 ## Inocybe aeruginascens
 
@@ -44,7 +44,7 @@ Originally described by M. Babos in 1968. First found near Potsdam, Eastern Germ
 | Berlin | 1975 | 0.11 |
 | Hungary | 1967 | 0.22 |
 
-Psilocybin levels are comparable to [[dark-incubation-sclerotia-production-psilocybe-mexicana-tampanensis]]. Contains baeocystin at levels comparable to psilocybin. Only trace amounts of psilocin. Average alkaloid content is remarkably constant across samples and does not vary much with prolonged storage.
+Psilocybin levels are comparable to Psilocybe mexicana. Contains baeocystin at levels comparable to psilocybin. Only trace amounts of psilocin. Average alkaloid content is remarkably constant across samples and does not vary much with prolonged storage.
 
 **Aeruginascin**: Gartz identified a previously unknown alkaloid unique to this species, named aeruginascin. Soluble only in polar solvents (water, methanol, acetic acid). Concentration comparable to psilocybin and baeocystin. The compound may contribute to the consistently euphoric experiences reported in involuntary intoxications, even under unfavorable set/setting conditions.
 
@@ -88,7 +88,7 @@ Note: Psilocin is unstable — significant decay observed during one year of sto
 
 ### Yurimagua Indians Connection
 
-Jesuit missionaries (17th-18th century) reported that the Yurimagua Indians of the western Amazon (Peru) prepared a potently intoxicating potion from a "reddish tree-dwelling mushroom with spicy taste." Gartz proposes this was likely a Gymnopilus species rather than the previously assumed [[psilocybe-yungensis]], since Gymnopilus species are reddish and colonize dense tree trunks.
+Jesuit missionaries (17th-18th century) reported that the Yurimagua Indians of the western Amazon (Peru) prepared a potently intoxicating potion from a "reddish tree-dwelling mushroom with spicy taste." Gartz proposes this was likely a Gymnopilus species rather than the previously assumed Psilocybe yungensis, since Gymnopilus species are reddish and colonize dense tree trunks.
 
 ## Conocybe cyanopus
 
@@ -111,7 +111,7 @@ Originally discovered near Potsdam, Berlin, and Germany's Harz Mountains by J. S
 | 4 | 10 | 0.91 | 0.16 |
 | 5 | 12 | 0.89 | 0.14 |
 
-Concentrations comparable to Psilocybe semilanceata. Sclerotia grown on malt agar contained 0.25% psilocybin with no additional alkaloids. First psilocybin detection: Seattle, WA (1961). Beug and Bigwood reported 0.93% in [[psilocybin-north-america-pacific-northwest]] samples.
+Concentrations comparable to Psilocybe semilanceata. Sclerotia grown on malt agar contained 0.25% psilocybin with no additional alkaloids. First psilocybin detection: Seattle, WA (1961). Beug and Bigwood reported 0.93% in Pacific Northwest samples.
 
 ## Pluteus salicinus
 
@@ -121,7 +121,7 @@ Light-spored mushroom (rose-colored spore dust) in the Pluteaceae family. First 
 
 - **Cap**: Up to 8 cm, lighter at margin, silver grey, hairy/felt-like, often scaly
 - **Stem**: Up to 10 cm, grey-green or grey-blue discolorations at base
-- **Spore print**: Rose/pink (unlike all [[allen-gymnopilus-and-other-psychoactive-genera]])
+- **Spore print**: Rose/pink (unlike all other psychoactive genera)
 - **Habitat**: Stumps of willows, alders, lindens, beeches, poplars, maples; May-October
 - **Note**: Albino forms exist with grey-green stem bases and cap apex areas
 
@@ -140,10 +140,11 @@ Swiss samples (Stijve): average 0.25% psilocybin. Bluing Dubener marshlands samp
 ### Other Pluteus Species
 
 - **Pluteus nigroviridis Babos**: Extremely rare (Hungary), only 0.035% psilocybin
-- **[[pluteus-cyanopus]]**: Reported from Europe; bluish/violet discolorations
 
-## Mushroom Identification Dangers
+## See Also
 
-### Galerina Fatalities
-
-On December 16, 1981, three teenagers on Whidbey Island, WA collected Galerina species mistaking them for Psilocybe. Two recovered after medical treatment; a 16-year-old girl died on December 24. Galerina species contain the same deadly amatoxins as Amanita phalloides — symptoms are insidious with a 12-hour latency period during which irreversible internal damage occurs.
+- [[fukuoka-european-civilization-standstill]]
+- [[hallucinogenic-mushrooms-european-trends]]
+- [[european-legal-responses-smartshop-regulation-hallucinogenic-mushrooms-emcdda]]
+- [[hallucinogenic-mushrooms-european-prevalence]]
+- [[european-prevalence-hallucinogenic-mushrooms]]

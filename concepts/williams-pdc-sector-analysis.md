@@ -9,8 +9,7 @@ type: concept
 ---
 # Sector Analysis in Permaculture Design
  Permaculture sectors are an analytical tool to help understand the flow of forces across a site, using a circular diagram centered on the home to map
-energies like sun, wind, fire, and noise that shape the design. Sector analysis is one of the foundational [[mollison-designers-design-client-interview-and-site-assessment-process]] methods in
-[[permaculture-design]], providing a systematic framework for understanding
+energies like sun, wind, fire, and noise that shape the design. Sector analysis is one of the foundational [[permaculture-design]], providing a systematic framework for understanding
 external energies that influence the design.
 
 ## Understanding Sectors
@@ -18,14 +17,7 @@ external energies that influence the design.
 A sector analysis is presented as a circle over your site, with the circle
 centered on your Zone 0, or the center of your lowest zone. Pie slices out
 of that circle represent forces that flow across the site. For example, if
-easterly winds blow in [[hemenway-cold-air-drainage-and-frost-management]] you would draw a wedge that points to the
-east and mark it as the cold easterly winds sector.
-
-There is no exhaustive laundry list of what type of sectors your analysis
-should include; that is up to the designer to determine what forces exist
-that affect the design. Sectors represent external energies and influences
-that cross the site boundary and interact with the design. This analytical
-approach complements [[williams-pdc-zone-analysis]] by addressing the
+easterly winds blow in [[williams-pdc-zone-analysis]] by addressing the
 directional forces that zones alone do not capture.
 
 ## Common Sectors to Analyze

@@ -11,7 +11,7 @@ sources: []
 
 ## Overview
 
-Morel mushrooms (genus Morchella) are among the most prized wild edible mushrooms in the world. Their distinctive honeycomb-like caps, meaty texture, and rich, earthy flavor make them the target of dedicated foraging expeditions each spring. Morels are also among the most commercially valuable wild mushrooms, with prices ranging from $30 to $80+ per pound fresh. See [[mushroom-cooking-techniques]] for [[duggar-mushroom-culinary-preparation-and-cooking]] instructions, and [[fungal-spore-print-guide]] for identification aids.
+Morel mushrooms (genus Morchella) are among the most prized wild edible mushrooms in the world. Their distinctive honeycomb-like caps, meaty texture, and rich, earthy flavor make them the target of dedicated foraging expeditions each spring. Morels are also among the most commercially valuable wild mushrooms, with prices ranging from $30 to $80+ per pound fresh. See [[mushroom-cooking-techniques]] for preparation and cooking instructions, and [[fungal-spore-print-guide]] for identification aids.
 
 ## Species
 
@@ -19,7 +19,7 @@ The Morchella genus was significantly revised in 2012 using molecular phylogenet
 
 ### Yellow Morels (Morchella esculenta clade)
 
-- **Morchella esculenta**: Classic yellow morel of [[polypore-fungi-eastern-north-america]] and Europe
+- **Morchella esculenta**: Classic yellow morel of eastern North America and Europe
 - **Morchella americana**: Common yellow morel of North America
 - Cap color: Yellow to tan to brownish
 - Pits and ridges irregularly arranged
@@ -30,7 +30,7 @@ The Morchella genus was significantly revised in 2012 using molecular phylogenet
 
 - **Morchella elata**: Black morel of Europe and western North America
 - **Morchella sextelata**: Western North America
-- **[[morchella-importuna]]**: Urban/western landscapes
+- **Morchella importuna**: Urban/western landscapes
 - Cap color: Dark gray to black when young, becoming tan with age
 - Pits and ridges more vertically arranged than yellow morels
 - Habitat: Conifer forests (especially fire-affected areas), disturbed ground
@@ -95,7 +95,7 @@ True morels have these key features:
 
 ### False Morels (Gyromitra and Verpa)
 
-**[[gyromitra-esculenta]]** (false morel, beefsteak mushroom):
+**Gyromitra esculenta** (false morel, beefsteak mushroom):
 - Cap is wrinkled and brain-like, not pitted
 - Cap hangs free from the stem like a skirt (not attached at base)
 - When cut lengthwise, the interior has chambered, cottony filling (not hollow)
@@ -141,10 +141,10 @@ Morel cultivation has been pursued for over 100 years with limited commercial su
 
 ### Current State
 
-- Small-scale commercial cultivation exists in China (using complex outdoor bed systems)
-- Indoor cultivation remains inconsistent and expensive
-- The morel life cycle is not fully understood — it may involve a sexually incompatible mating system
-- sclerotia (hardened mycelial masses) appear to be important in the life cycle
-- Soil conditions, microbial associates, [[mushroom-fruiting-biology-light-tropisms-and-environmental-triggers]] are all poorly characterized
-- Several companies sell "morel grow kits" but results are highly variable
-- Outdoor cultivation in prepared beds is the most promising approach
+## See Also
+
+- [[bloomfield-false-morel-gyromitrin-volatile-toxin-cooking-risk]]
+- [[stamets-morel-morchella-cultivation]]
+- [[morel-morchella-cultivation-life-cycle]]
+- morel mushroom guide
+- [[cotter-morel-cultivation-research]]

@@ -1,33 +1,6 @@
 ---
 title: Forest Humus and Water Absorption
-source: [[bill-mollison-permaculture-a-designers-manual-soil-and-humus-management|bill]]-mollison-permaculture-a-designers-manual.md
-type: concept
----
-
-## Overview
-
-Forests function as immense water [[forest-water-interaction-and-soil-storage|storage and management [[mollison-designers-soil-water-[[forest-humus-water-storage|storage]]-in-forest-systems|systems]]. The humus layer beneath a forest floor is one of the most critical components in the global hydrological cycle, capable of absorbing, retaining, and slowly releasing vast quantities of water. [[bill-mollison]] describes forests as "great lakes of actively managed and recycled water," with the soil beneath them acting as an enormous reservoir that gives land the time and means to hold fresh water (Odum, 1974).
-
-## How Rain Enters the Forest System
-
-### Canopy Interception and Throughfall
-
-Rain does not strike the forest floor directly. Trees moderate incoming rainfall by breaking up raindrops at the crown level. This interception serves several purposes:
-
-- Raindrops are shattered into finer droplets, reducing their kinetic energy
-- Water is redirected along branches, trunks, and leaf surfaces before reaching the ground
-- Some water evaporates directly from canopy surfaces, reducing total throughfall
-
-The water that eventually reaches the forest floor — called **throughfall** — enters the humus layer, where the real work of absorption and retention begins.
-
-### Water Interaction Diagram: From Sky to Soil
-
-```
-Rainfall → Tree Canopy (interception, splash reduction)
-         → Branches & Trunks (redistribution, stemflow)
-         → Canopy Drip + Throughfall (nutrient-enriched water)
-         → Litter Layer (initial absorption, decomposition zone)
-         → Humus Blanket ([[fungal-hyphae]], bacterial gels, detritus)
+source: [[forest-water-interaction-and-soil-storage|storage and management systems]]. The humus layer beneath a forest floor is one of the most critical components in the global hydrological cycle, capable of absorbing, retaining, and slowly releasing vast quantities of water. [[fungal-hyphae]], bacterial gels, detritus)
          → Root Mat (active uptake, transpiration pull)
          → Deep Soil Profile (retention, interstitial, and humus storage)
          → Bedrock / Deep Roots (40m+ penetration, slow recharge)
@@ -52,17 +25,7 @@ The forest humus layer is not a thin veneer of decomposing leaves. In mature for
 As water percolates through the humus layer, it undergoes significant chemical transformation:
 
 - Water picks up **humic exudates** from decomposition, acquiring a characteristic golden color (like tea)
-- Natural humic acids can lower [[soil-ph]] to as low as **3.5–4.0** in undisturbed forest floors
-- These acidic conditions favor particular fungal communities and influence nutrient availability
-
-### Nutrient Return: Old Growth vs. Regrowth Forests
-
-Mature and old-growth forests return significantly more nutrients to the soil system than young or regrowth stands. The following table summarizes the differences in nutrient cycling via litter fall and canopy drip:
-
-| Nutrient Pathway | Old Growth Forest | Regrowth Forest |
-|---|---|---|
-| **Litter fall (kg/ha/yr)** | Higher total mass, diverse species input | Lower total mass, fewer species |
-| **Nitrogen return** | Substantial; steady-state cycling | Moderate; still [[building-soil]] capital |
+- Natural humic acids can lower [[building-soil]] capital |
 | **Phosphorus return** | Rich return via mycorrhizal-mediated cycling | Limited; often deficient in young stands |
 | **Calcium via canopy drip** | High concentrations, pH-buffered by mature canopy | Lower concentrations, less canopy surface area |
 | **Canopy drip enrichment** | Highly enriched with leached foliar nutrients | Moderately enriched |
@@ -76,7 +39,7 @@ Old-growth canopies provide far greater surface area for rainfall interception a
 
 ### Root Architecture
 
-The root systems of forest trees constitute an extraordinary water management infrastructure:
+The root systems of forest trees constitute an extraordinary [[water-management]] infrastructure:
 
 - **30–40% of a tree's total bulk** exists below ground as roots
 - The upper 60 cm of soil contains **thousands of kilometers of root hairs** forming a dense, mat-like network
@@ -104,7 +67,7 @@ Certain dryland species have evolved remarkable strategies for building and main
 
 ## Soil Water Storage Systems
 
-Mollison identifies three distinct types of water storage in forest soils. Understanding these is essential for permaculture design.
+Mollison identifies three distinct types of water storage in forest soils. Understanding these is essential for [[permaculture-design]].
 
 ### Retention Storage
 
@@ -125,7 +88,7 @@ Water held in **cavities and pore spaces** between soil particles. This water dr
 
 ### Humus Storage
 
-Water held within **swollen mycorrhizal networks** and **spongy detritus** (partially decomposed organic matter). This is unique to biologically active soils.
+Water held within **swollen [[mycorrhizal-networks]]** and **spongy detritus** (partially decomposed organic matter). This is unique to biologically active soils.
 
 - Humus acts like a sponge, absorbing and releasing water through physical swelling and shrinking
 - Mycorrhizal hyphae themselves hold significant water within their cellular structure

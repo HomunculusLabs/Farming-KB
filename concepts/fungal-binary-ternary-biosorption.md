@@ -6,11 +6,7 @@ type: concept
 tags: [mycology, fungi]
 sources: []
 ---
-# Fungal Binary and Ternary Biosorption Systems Real-world contaminated wastewaters rarely contain single metal ions. [[fungal-metal-biosorption-comparative]] show distinct selectivity patterns:
-
-- **Rhizopus arrhizus** — Shows preferential uptake of Pb over Cu, Cd, and Zn in binary systems
-- **Aspergillus niger** — Demonstrates high selectivity for Pb and Cu in competitive environments
-- **[[growing-gourmet-turkey-tail-trametes-versicolor-cultivation]]** — Dead mycelia show higher uptake than live for Cu(II), Pb(II), and Zn(II) in binary systems; Cu uptake capacity of 1.84 mM (heat-inactivated) vs. 1.51 mM (live)
+# Fungal Binary and Ternary Biosorption Systems Real-world contaminated wastewaters rarely contain single metal ions. [[growing-gourmet-turkey-tail-trametes-versicolor-cultivation]]** — Dead mycelia show higher uptake than live for Cu(II), Pb(II), and Zn(II) in binary systems; Cu uptake capacity of 1.84 mM (heat-inactivated) vs. 1.51 mM (live)
 - **Saccharomyces cerevisiae** — Effective for Cr(III) and Cr(VI) binary removal with 96-97% efficiency
 
 ## Ternary Biosorption Systems
@@ -19,11 +15,7 @@ Ternary systems with three competing metal ions add further complexity. Predicti
 
 - **Cu-Pb-Zn ternary systems** — Lead remains the dominant competitor; copper and zinc uptake are suppressed more severely than in binary combinations
 - **Cd-Pb-Zn systems** — Competitive effects are additive rather than simply multiplicative, creating non-linear uptake patterns
-- **Multi-metal industrial effluents** — Real wastewater containing 5-10+ metals simultaneously presents the greatest challenge; [[singh-fungal-biosorbents-mycosorption-mechanisms]] must be screened against actual effluent compositions
-
-## Effect of Co-cations
-
-The presence of common cations (Na+, K+, Ca2+, Mg2+) in solution influences [[staycare-fungal-metal-biosorption-reactor-systems]] operation. Key eluants include:
+- **Multi-metal industrial effluents** — Real wastewater containing 5-10+ metals simultaneously presents the greatest challenge; [[staycare-fungal-metal-biosorption-reactor-systems]] operation. Key eluants include:
 
 - **Mineral acids** — 0.1 M HCl, 0.05 N HNO3, 10 mM HCl effectively strip adsorbed metals
 - **Chelating agents** — EDTA (1-10 mM) provides selective metal recovery
@@ -37,36 +29,10 @@ Binary and ternary system data are essential for designing effective fungal-bioa
 
 ## Biosorbent Pretreatment and Enhancement Strategies
 
-The performance of fungal biosorbents in binary and ternary systems can be substantially improved through physical and chemical pretreatment. Heat inactivation (autoclaving), chemical modification with crosslinking agents (glutaraldehyde, epichlorohydrin), and treatment with polycations (polyethylenimine, APTES) alter the density and accessibility of binding sites on the [[gadd-fungal-cell-structure]] wall. Pretreatment with alkali solutions (NaOH) removes surface impurities and exposes additional carboxyl and amino groups, while acid pretreatment can protonate binding sites and alter surface charge distribution.
+The performance of fungal biosorbents in binary and ternary systems can be substantially improved through physical and chemical pretreatment. Heat inactivation (autoclaving), chemical modification with crosslinking agents (glutaraldehyde, epichlorohydrin), and treatment with polycations (polyethylenimine, APTES) alter the density and accessibility of binding sites on the [[bioremediation-fungal-biomass-biosorbent-material]] on solid supports — including alginate beads, polyurethane foam, cellulose, and activated carbon — improves mechanical stability, facilitates separation from treated water, and enables use in continuous-flow fungal-bioaccumulation-heavy-metals of metals into intracellular compartments, and the ability to express stress-responsive genes that may enhance [[singh-binary-ternary-fungal-biosorption-systems]]
 
-Immobilization of [[bioremediation-fungal-biomass-biosorbent-material]] on solid supports — including alginate beads, polyurethane foam, cellulose, and activated carbon — improves mechanical stability, facilitates separation from treated water, and enables use in continuous-flow fungal-bioaccumulation-heavy-metals of metals into intracellular compartments, and the ability to express stress-responsive genes that may enhance [[fungal-metal-tolerance-mechanisms]] and binding over time. In continuous-flow systems, live cultures can adapt to the metal composition of the wastewater over successive generations, potentially improving performance through physiological acclimation.
-
-## See Also
-
-- [[singh-binary-ternary-fungal-biosorption-systems]]
-
-- [[fungal-heavy-metal-biosorption-detailed]] for single-metal biosorption fundamentals
-- fungal-biosorption-desorption-regeneration for regeneration protocols
 - [[fungal-bioreactor-types]] for reactor design considerations
-- [[fungal-heavy-metal-anion-biosorption]]
-- fungal-heavy-metal-interactions between metals in these systems require empirical characterization rather than extrapolation from single-metal data.
-## Practical Considerations
-
-When working with Fungal Binary and Ternary Biosorption Systems, several practical factors should be
-carefully considered to achieve optimal results. These include
-the specific conditions of the implementation context, available
-resources, timing requirements, and the interactions between this
-topic and other elements of the broader system. A holistic view
-that considers these interconnections produces better outcomes.
-
-Environmental conditions such as temperature, moisture, and
-seasonal patterns significantly influence results. Monitoring these
-variables and adapting practices accordingly is essential for success.
-The most effective practitioners develop keen observation skills and
-respond flexibly to changing conditions rather than following rigid
-protocols regardless of circumstances or local variation.
-
-[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
+- [[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -111,8 +77,6 @@ through generations to modern scientific approaches, the evolution continues
 to inform current best practices and research directions.
 
 ## See Also
-- [[doc]]
 - [[saccharomyces-cerevisiae]]
-- [[dom]]
 - [[det]]
 - [[aspergillus-niger]]

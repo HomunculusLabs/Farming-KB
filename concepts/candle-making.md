@@ -39,7 +39,7 @@ Pillar candles are free-standing candles poured into molds. They require harder 
 
 ### Container Candles
 
-Container candles are poured directly into jars, tins, or ceramic vessels. Softer waxes like soy work well here since the container provides [[comparison-silicon-vs-calcium-in-plant-defense-and-structural-support]]. These are the easiest candles for beginners and are popular gifts.
+Container candles are poured directly into jars, tins, or ceramic vessels. Softer waxes like soy work well here since the container provides structural support. These are the easiest candles for beginners and are popular gifts.
 
 ### Votives and Tealights
 
@@ -59,7 +59,7 @@ Wick materials include cotton (most common for beeswax), paper core, and hemp. A
 
 Beeswax candles carry a natural honey scent. For additional fragrance:
 
-- Add [[comparison-essential-oils-vs-neem-oil-vs-insecticidal-soap]] at 185-195 F (just below pouring temperature)
+- Add essential oils at 185-195 F (just below pouring temperature)
 - Use 0.5-1 ounce of essential oil per pound of wax
 - Good essential oils for candles: lavender, cedar, cinnamon, sweet orange, pine
 - Stir gently for 2 minutes after adding oil to ensure even distribution
@@ -90,38 +90,3 @@ Avoid synthetic fragrance oils if natural purity is important. Some essential oi
 - [[top-bar-hive]] for producing your own beeswax
 - [[herbal-salves-and-balms]] for beeswax uses beyond candles
 - [[soap-making-guide]] for another homestead craft using natural fats
-
-## Practical Applications
-
-The principles and techniques discussed here have wide-ranging applications
-across multiple disciplines and contexts. Practitioners and researchers
-continue to explore new ways to integrate these concepts into modern practice,
-adapting traditional knowledge to contemporary challenges and opportunities.
-
-## Key Considerations
-
-Several important factors influence the effectiveness and outcomes described
-in this topic. Understanding these considerations helps practitioners make
-informed decisions and avoid common pitfalls. Environmental conditions,
-timing, and material selection all play critical roles.
-
-## Historical Context
-
-The historical development of this subject reflects centuries of accumulated
-knowledge and practical experience. From traditional methods passed down
-through generations to modern scientific approaches, the evolution continues
-to inform current best practices and research directions.
-
-## Common Challenges
-
-Practitioners frequently encounter several challenges when working with
-these concepts. Climate variability, resource limitations, and knowledge
-gaps can all affect outcomes. Addressing these challenges requires patience,
-observation, and a willingness to adapt approaches based on results.
-
-## See Also
-- [[neem]]
-- [[silicon]]
-- [[beeswax-candle-making]]
-- [[tallow-candle-making]]
-- [[solomon-low-grade-compost-making-methods]]

@@ -6,62 +6,7 @@ type: entity
 
 ## Description
 
-[[soil-biota]] encompasses the total living biomass of the soil, which often exceeds the above-ground animal biomass on the same land. A classification system based on organism size divides soil life into four functional groups: microflora/microfauna, mesofauna, macrofauna, and megafauna. This size-based taxonomy, as summarised in New Scientist (6 Oct 1983), provides a practical framework for understanding soil ecological functions.
-
-## Classification
-
-- **Category**: Soil ecology / soil biology
-- **Reference**: Anderson, New Scientist (6 Oct 1983)
-- **Organising principle**: Body size as a proxy for ecological role
-
-## Key Facts
-
-### Size-Based Classification
-
-1. **MICROFLORA and MICROFAUNA** (1 to 100 millimicrons)
-   - Bacteria, fungi, nematodes, protozoa, rotifers
-   - Most numerous organisms; fungi may constitute 50% of total living biomass
-   - Responsible for primary decomposition and nutrient mineralisation
-
-2. **MESOFAUNA** (100 millimicrons to 2 mm)
-   - Mites, springtails, small myriapods, enchytraeid worms, false scorpions, termites
-   - Important for litter fragmentation and micro-predation
-
-3. **MACROFAUNA** (2 to 20 mm)
-   - Woodlice, harvestmen, amphipods, centipedes, millipedes, earthworms, beetles, spiders, slugs, snails, ants, large myriapods
-   - Major agents of soil turnover, burrowing, and primary litter breakdown
-
-4. **MEGAFAUNA** (20 mm and above)
-   - Crickets, moles, rodents, wombats, rabbits
-   - Create major soil changes through burrowing, soil turnover, and faecal production
-
-### Biomass and Numbers
-
-- Semi-arid pasture supporting 3-6 sheep/ha may simultaneously support 2-5 tonnes of pasture grubs or up to 65 tonnes of earthworms per hectare
-- At Rothamsted (UK), after 140 continuous wheat cycles, the plough layer still supports 0.5 tonnes of living microbial biomass
-- Of Rothamsted biomass: 50% fungi, 20% bacteria, 20% yeasts/algae/protozoans, 10% larger fauna
-- Every square metre of forest topsoil can contain a thousand species of animals and 1-2 km of fungal hyphae
-
-### Abundance per Square Metre (Temperate Grassland)
-
-- Nematodes: 120 million
-- Mites: 100,000
-- Springtails: 45,000
-- Enchytraeid worms: 20,000
-- Molluscs: 10,000
-
-### Ecological Functions
-
-- Soil biota serve as a living reserve of easily-leached nutrients (nitrogen, sulphur)
-- Their life cycles (driven by soil temperature and season) release nutrients at multiple micro-sites
-- Termites store calcium from subsoils in their mounds; bacteria store various soil minerals
-- Many plants directly consume bacteria, fungi, insects, and nematodes
-- Earthworm nitrogen turnover exceeds that of plant litter fall
-- Fungi can transport materials including moving nitrogen into decaying wood
-
-## Relevance to Cultivation and Mycology
-
-Understanding soil biota classification is essential for managing the biological environment in which cultivated fungi operate. In mushroom composting, the succession from thermophilic bacteria to actinomycetes to fungi mirrors natural soil food web dynamics. Macrofauna like millipedes and woodlice perform primary litter breakdown in mulch but are rare in finished compost. Fungal hyphae, which may extend 1-2 km per square metre of forest topsoil, represent the vast underground networks that [[outdoor-mushroom-cultivation]] taps into. Managing for fungal dominance (rather than bacterial) in soil requires minimal disturbance, adequate organic matter, and perennial plant systems.
+[[outdoor-mushroom-cultivation]] taps into. Managing for fungal dominance (rather than bacterial) in soil requires minimal disturbance, adequate organic matter, and perennial plant systems.
 
 ## Sources
 
@@ -86,6 +31,90 @@ level supports the next, building soil fertility from the bottom up.
 
 ## See Also
 
-- [[teaming-with-microbes-soil-food-web-trophic-structure-and-succession]]
 - [[query-which-legumes-fix-the-most-nitrogen-for-gardens-and-farms]]
 - [[ingham-bacterial-to-fungal-succession-soil-food-web]]
+
+## Overview
+
+Soil Biota Classification Mollison represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish soil biota classification mollison
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving soil extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Soil Biota Classification Mollison finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for soil biota classification mollison. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+soil biota classification mollison and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Soil Biota Classification Mollison has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of soil biota classification mollison into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[cannabis-endorhiza-shared-otu-soil-source-validation]]
+- [[casing-soil-mushroom-cultivation]]
+- [[gaias-garden-bringing-the-soil-to-life]]
+- [[soil-rehabilitation-methods]]
+- [[teaming-with-microbes-soil-minerals-cation-exchange]]

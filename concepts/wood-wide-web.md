@@ -10,11 +10,8 @@ type: concept
 
 # Wood Wide Web
 
-[[query-what-is-the-wood-wide-web-and-how-do-mycorrhizal-networks-work]] Web is the colloquial term for [[teaming-with-microbes-fungi-the-underground-network]] of
-[[query-what-is-the-wood-wide-web-and-how-do-mycorrhizal-networks-work]]
-
-- [[mycelial-networks]]
-- [[fungal-ecology]]
+[[teaming-with-microbes-fungi-the-underground-network]] of
+[[mycelial-networks]]
 - [[soil-foodweb]]
 ## Background and Context
 

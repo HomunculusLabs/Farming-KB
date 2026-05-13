@@ -49,7 +49,7 @@ Understanding the balance of incoming and outgoing radiation is critical for sit
 - **67%** of absorbed energy is re-radiated back to space as longwave (infrared) radiation.
 - **29%** is released as sensible heat when water vapor condenses in the atmosphere.
 
-This budget determines local and regional temperatures and is the basis for understanding microclimate effects in permaculture design. The small imbalances in this budget drive global climate patterns and are the underlying reason that vegetation, water bodies, and earthworks can create significant local temperature modifications.
+This budget determines local and regional temperatures and is the basis for understanding microclimate effects in [[permaculture-design]]. The small imbalances in this budget drive global climate patterns and are the underlying reason that vegetation, water bodies, and earthworks can create significant local temperature modifications.
 
 ## Atmospheric Gases and the Greenhouse Effect
 
@@ -83,23 +83,7 @@ These adaptations represent natural engineering solutions that permaculture desi
 
 ## Color Perception and Light Penetration
 
-Objects are perceived by the wavelengths they reflect. Plants reflect predominantly green and blue wavelengths, which is why healthy vegetation appears green. Flowers, by contrast, reflect a wider spectrum of colors to attract pollinators. Light penetration through vegetation is limited — approximately 10% of incident light passes through a single layer of foliage. In dense rainforest canopies, as little as 0.01% of full sunlight reaches the forest floor, creating extremely specialized understory microclimates. This steep light gradient is what makes layered [[food-forest-design]] both challenging and productive when properly managed.
-
-## Surface Adaptations
-
-Plant surfaces exhibit a wide range of adaptations to local radiation and climate conditions:
-
-- **Bark color** ranges from white (highly reflective, protecting against sunscald) to black (absorptive, in cold climates where heat gain is beneficial).
-- **Waxy leaf surfaces** are common in coastal and cold areas, providing protection from salt spray and reducing transpiration.
-- **Woolly or hairy leaf surfaces** are characteristic of desert and high-altitude plants, creating a boundary layer that reduces both radiation absorption and wind-driven moisture loss.
-
-## Albedo and Energy Absorption
-
-**Albedo** is the measure of how much light a surface reflects. Light that is reflected returns to the atmosphere without being converted to heat. Light that is absorbed is converted to longwave (infrared) radiation, which heats the absorbing surface. Designers can manipulate local temperatures by selecting ground covers, mulches, and building materials with appropriate albedo values — light-colored surfaces cool an area, while dark surfaces warm it. A white gravel mulch, for instance, can significantly reduce soil temperatures compared to a dark wood chip mulch.
-
-## Soil Heat Dynamics
-
-Soil absorbs solar radiation to a depth of approximately 51 cm. Heat moves slowly through soil, creating a thermal lag of several hours behind peak air temperatures. As a result, the lowest soil temperatures occur not at night but in the early morning, just after dawn. This lag effect is useful for [[frost-protection-strategies]], as earth-sheltered plantings benefit from the delayed release of stored thermal energy. Understanding soil thermal mass allows designers to use rocks, earth banks, and water bodies as thermal batteries that moderate temperature extremes.
+Objects are perceived by the wavelengths they reflect. Plants reflect predominantly green and blue wavelengths, which is why healthy vegetation appears green. Flowers, by contrast, reflect a wider spectrum of colors to attract pollinators. Light penetration through vegetation is limited — approximately 10% of incident light passes through a single layer of foliage. In dense rainforest canopies, as little as 0.01% of full sunlight reaches the forest floor, creating extremely specialized understory microclimates. This steep light gradient is what makes layered [[frost-protection-strategies]], as earth-sheltered plantings benefit from the delayed release of stored thermal energy. Understanding soil thermal mass allows designers to use rocks, earth banks, and water bodies as thermal batteries that moderate temperature extremes.
 
 ## Frost Types and Patterns
 
@@ -119,10 +103,8 @@ Dense autumn fogs are a reliable natural indicator of the likely extent of winte
 
 ## Summary
 
-Solar radiation drives every physical and biological process in a permaculture system. From the wavelength-specific responses that govern plant growth and reproduction, to the radiation budget that determines local temperatures, to the frost patterns shaped by heat loss and cold air drainage — a thorough understanding of these dynamics is foundational to effective design. By reading the landscape's light, heat, and frost patterns, designers can place elements precisely where they will thrive.
+Solar radiation drives every physical and biological process in a permaculture system. From the wavelength-specific responses that govern plant growth and reproduction, to the radiation budget that determines local temperatures, to the frost patterns shaped by heat loss and cold air drainage — a thorough understanding of these dynamics is foundational to effective design. By [[reading-the-landscape]]'s light, heat, and frost patterns, designers can place elements precisely where they will thrive.
 
 ## See Also
-- [[phototropism-and-plant-light-responses]]
-- solar radiation and plant light responses
 - [[blue-light-phototropism-red-light-photoperiodism-dual-plant-vision-system]]
 - [[what-a-plant-knows-plant-vision-and-light-perception]]

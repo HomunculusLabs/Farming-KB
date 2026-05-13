@@ -18,7 +18,7 @@ The BSF lifecycle has four stages:
 1.  **Egg** — Females lay 500-900 eggs near decaying organic matter. Eggs hatch in 3-4 days.
 2.  **Larva** — The active feeding stage lasts 14-21 days. Larvae grow from 1 mm to 25 mm and pass through 6 instars. This is the composting workhorse stage.
 3.  **Prepupa** — Larvae stop feeding, turn dark, and seek dry pupation sites. They migrate out of the compost on their own, enabling self-harvesting.
-4.  **Adult** — Adults live 5-8 days, do not feed, and focus solely on mating and egg-laying. They are drawn to composting bins by [[plant-olfaction-volatile-organic-compound-signaling]] cues.
+4.  **Adult** — Adults live 5-8 days, do not feed, and focus solely on mating and egg-laying. They are drawn to composting bins by volatile organic compound cues.
 
 ## Bin Design
 
@@ -37,10 +37,10 @@ Commercial options like the BioPod simplify this design but are not required. A 
 BSF larvae accept an extremely wide range of inputs:
 
 - Kitchen scraps (fruit, vegetable, bread, dairy, meat)
-- Brewery and [[fungal-distillery-waste-treatment]]
+- Brewery and distillery waste
 - Manure (poultry, swine, cattle — avoid if medicated)
 - Restaurant food waste
-- [[oyster-mushroom-coffee-grounds-cultivation]] and filters
+- Coffee grounds and filters
 
 Feed at a rate the colony can process. A mature colony can consume 1-2 kg of waste per day per square meter of bin surface area. Do not overfeed — excess food will sour and attract pests. Bury fresh food under a thin layer of existing compost to reduce odor and fruit fly attraction.
 
@@ -77,7 +77,7 @@ The residue left after larval digestion is called frass. It is a dark, odorless 
 
 - A single 100-liter bin can process 2-5 kg of food waste per day
 - For larger operations, stack multiple bins or use multi-tier systems
-- Overwintering is the main challenge [[query-how-do-i-grow-figs-in-cold-climates]] — larvae diapause below 10 C. Options include indoor bin placement, insulated bins, or purchasing new eggs each spring
+- Overwintering is the main challenge in cold climates — larvae diapause below 10 C. Options include indoor bin placement, insulated bins, or purchasing new eggs each spring
 - Start with a purchased colony of 5,000-10,000 larvae rather than waiting for wild adults to find your bin
 
 ## Common Problems
@@ -89,41 +89,14 @@ The residue left after larval digestion is called frass. It is a dark, odorless 
 
 ## Integration with Homestead Systems
 
-BSF composting closes nutrient loops on the homestead. Food waste becomes protein for [[chickshaw-and-poultry-tractors]] and fish, and frass returns nutrients to garden beds. The system requires minimal labor once established and produces no foul odor when properly managed.
+BSF composting closes nutrient loops on the homestead. Food waste becomes protein for [[chickshaw-and-poultry-tractors|poultry]] and fish, and frass returns nutrients to garden beds. The system requires minimal labor once established and produces no foul odor when properly managed.
 
-The leachate can be applied to gardens as a [[comfrey-tea-liquid-fertilizer]] (dilute 1:10 with water), though it should be used with caution on edible crops due to potential pathogen load from meat and dairy inputs.
-
-## Practical Applications
-
-The principles and techniques discussed here have wide-ranging applications
-across multiple disciplines and contexts. Practitioners and researchers
-continue to explore new ways to integrate these concepts into modern practice,
-adapting traditional knowledge to contemporary challenges and opportunities.
-
-## Key Considerations
-
-Several important factors influence the effectiveness and outcomes described
-in this topic. Understanding these considerations helps practitioners make
-informed decisions and avoid common pitfalls. Environmental conditions,
-timing, and material selection all play critical roles.
-
-## Historical Context
-
-The historical development of this subject reflects centuries of accumulated
-knowledge and practical experience. From traditional methods passed down
-through generations to modern scientific approaches, the evolution continues
-to inform current best practices and research directions.
-
-## Common Challenges
-
-Practitioners frequently encounter several challenges when working with
-these concepts. Climate variability, resource limitations, and knowledge
-gaps can all affect outcomes. Addressing these challenges requires patience,
-observation, and a willingness to adapt approaches based on results.
+The leachate can be applied to gardens as a liquid fertilizer (dilute 1:10 with water), though it should be used with caution on edible crops due to potential pathogen load from meat and dairy inputs.
 
 ## See Also
-- [[composting]]
-- [[det]]
+
+- [[comparison-mesquite-vs-black-locust-vs-carob-tree]]
+- [[comparison-black-soldier-fly-vs-vermicomposting]]
+- [[black-soldier-fly-farming-and-insect-protein]]
 - [[comparison-black-soldier-fly-composting-vs-bokashi]]
-- [[comparison-black-soldier-fly-larvae-vs-meat-scraps-composting]]
-- [[query-how-do-i-start-black-soldier-fly-farming-for-composting-and-animal-feed]]
+- [[black-tuna]]

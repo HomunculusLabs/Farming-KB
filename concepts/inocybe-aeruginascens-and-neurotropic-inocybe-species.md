@@ -22,72 +22,25 @@ type: concept
 The genus Inocybe represents one of the most surprising groups of
 neurotropic fungi. As members of the family Cortinariaceae, Inocybe
 species are not visually associated with the typical "magic mushroom"
-morphotype, lacking the [[psilocybin]], [[neurotropic-fungi|neurotropic mycoflora]]. See [[mushroom-spore-printing-and-storage|spore-print-producing]] Psilocybe genus.
-Unlike the primarily [[wood-decay-fungi|wood-decomposing]] species, Inocybe occupy a
+morphotype, lacking the [[neurotropic-fungi|neurotropic mycoflora]]. See [[wood-decay-fungi|wood-decomposing]] species, Inocybe occupy a
 distinct ecological niche as mycorrhizal associates.
 
 ## The Genus Inocybe
 
 Inocybe is a large genus of agaricoid fungi within the family
 Cortinariaceae, with an estimated 300 to 400 species worldwide. Modern
-[[ectomycorrhizal-fungi|ectomycorrhizal]] tree roots
-
-Most Inocybe species are mycorrhizal associates of trees, particularly
-in the families Pinaceae, Fagaceae, and Betulaceae. This ecological
-role distinguishes them from most other neurotropic fungi, which tend
-to be [[coprophilous-fungi-biodiversity-indicators|coprophilous]].
-Their [[wood-decay-fungi|wood-decaying]] species that decompose dead matter.
-
-## Neurotropic Inocybe Species
-
-The Guzmán, Allen, and Gartz (1998) [[oyster-mushroom-substrate-materials-worldwide-survey-comparison]] recognizes six
+[[coprophilous-fungi-biodiversity-indicators|coprophilous]].
+Their [[oyster-mushroom-substrate-materials-worldwide-survey-comparison]] recognizes six
 confirmed neurotropic Inocybe species:
 
-### [[psilocybin]], [[baeocystin-and-norbaeocystin-in-psilocybin-biosynthesis|baeocystin]]. Gartz (1985a, 1986a, 1986b, 1986d, 1987a, 1989a, 1995b,
-  1996) conducted extensive [[guzman-allen-gartz-conflicting-chemical-analyses-neurotropic-fungi]] of German collections,
-  documenting the [[aminopropyl-silica-gel-chromatography-indole-alkaloid-purification]] profile.
+### [[baeocystin-and-norbaeocystin-in-psilocybin-biosynthesis|baeocystin]]. Gartz (1985a, 1986a, 1986b, 1986d, 1987a, 1989a, 1995b,
+  1996) conducted extensive [[aminopropyl-silica-gel-chromatography-indole-alkaloid-purification]] profile.
 - **Discovery as a neurotropic species**: The neurotropic properties
   of I. aeruginascens were discovered in Berlin in the early 1980s.
   Drewitz (1983) and Hohmeyer (1984) documented recreational use of
-  this species in urban parks. [[inocybe-coelestium|Inocybe coelestium]]
-
-I. coelestium was described as a neurotropic species from European
-collections. The species name references the celestial blue coloration
-associated with its chemical properties.
-- **Distribution**: Reported from Germany (Stijve et al., 1985; Stijve
-  and Kuyper, 1985; Kuyper, 1986), Austria (Stijve and Kuyper, 1985;
-  Kuyper, 1986), Czech Republic (Kuyper, 1986), Netherlands (Kuyper,
-(Section truncated for length.)
-  America, it occurs in the United States (Stamets, 1996) and Mexico
-  (Bandala et al., 1988).
-- **I. corydalina var. erinaceomorpha**: This variety, named for its
-  hedgehog-like (erinaceomorphous) features, has been confirmed from
-  the Netherlands (Kuyper, 1986), Germany (Stijve and Kuyper, 1985;
-  Stijve et al., 1985; Kuyper, 1986), Austria (Stijve and Kuyper,
-  1985), Czech Republic (Kuyper, 1986), Bulgaria (Kuyper, 1986), and
-  Switzerland (Stijve and de Meijer, 1993).
-- **Chemistry**: Confirmed to contain indole compounds by Stijve et al.
-
-(Section truncated for length. See source for full details.)
-
-## Ecological Significance
-
-The neurotropic Inocybe species are significant for several reasons:
-1. **Mycorrhizal ecology**: Unlike most neurotropic fungi, which are
-   saprotrophs growing on dead organic matter or coprophiles growing
-   on dung, Inocybe species form mycorrhizal associations with living
-   trees. This ecological strategy may influence their distribution
-   patterns and chemical ecology.
-2. **Toxicity concern**: Inocybe species as a genus include many
-   species that contain dangerous toxins (particularly [[guzman-allen-gartz-neurotropic-inocybe-species]] -- taxonomy and [[global-distribution-of-neurotropic-fungi]] Inocybe
-- [[guzman-allen-gartz-neurotropic-fungi-europe]] -- European [[psilocybin-bluing-reaction]] -- why most psilocybin fungi bruise blue, unlike Inocybe
-- psilocybin-and-indole-alkaloid-chemistry-in-fungi -- indole alkaloid biosynthesis
-- [[chemical-analysis-psilocybin-mushrooms]] -- analytical methods for detecting indole alkaloids
-- [[four-groups-neurotropic-fungi-global-distribution-guzman-1998]] -- Guzmán's broader neurotropic fungi survey
+  this species in urban parks. [[guzman-allen-gartz-neurotropic-inocybe-species]] -- taxonomy and [[guzman-allen-gartz-neurotropic-fungi-europe]] -- European [[chemical-analysis-psilocybin-mushrooms]] -- analytical methods for detecting indole alkaloids
 - [[allen-gymnopilus-and-other-psychoactive-genera]] -- other neurotropic genera beyond Psilocybe and Inocybe
-- [[amanita-muscaria-chemistry-and-pharmacology]] -- comparative chemistry of another psychoactive fungal genus
 - [[allen-gymnopilus-and-other-psychoactive-genera]]
-[[amanita-muscaria-chemistry-and-pharmacology]]
 [[basidiospore-discharge-mechanism]]
 
 ## Practical Applications
@@ -119,8 +72,78 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[inocybe-aeruginascens]]
 - [[inocybe-coelestium]]
-- [[neurotropic-fungi]]
 - [[doc]]
 - [[psilocybin]]
+
+## Overview
+
+Inocybe Aeruginascens And Neurotropic Inocybe Species represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish inocybe aeruginascens and neurotropic inocybe species
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving inocybe extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Inocybe Aeruginascens And Neurotropic Inocybe Species finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for inocybe aeruginascens and neurotropic inocybe species. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+inocybe aeruginascens and neurotropic inocybe species and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Inocybe Aeruginascens And Neurotropic Inocybe Species has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of inocybe aeruginascens and neurotropic inocybe species into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions

@@ -114,33 +114,13 @@ The actual length of stream per square kilometre determines how efficiently wate
 
 ### Vegetation Cover
 
-Run-off increases as vegetation is cleared. The less crown interception, [[humus]] storage, and ground interference encountered by rain, the more water runs off. Even species replacement matters: if tussock grass replaces shrubs on dry hillslopes, run-off characteristics change.
+Run-off increases as vegetation is cleared. The less crown interception, [[sand-dams-and-water-spreading-techniques]]
+- [[water-spreading-and-infiltration-techniques]]
 
-## Run-off Percentages by Substrate
+## See Also
 
-Understanding expected run-off percentages from different surfaces enables designers to size storage and diversion structures appropriately (at 10 mm/day rainfall):
-
-| Run-off % | Substrate |
-|-----------|-----------|
-| 0% | Coarse sands, active dunes, fixed dunes in dune seas |
-| 5% | Forested areas |
-| 10% | Wooded and grassed areas, tussock grassland |
-| 15% | Cultivated sands and sandy loams |
-| 20% | Approximate average for semi-arid and arid areas |
-| 25% | Ungrazed steppe of mixed shrubs, forbs, grasses |
-| 30–50% | Grazed or degraded rangelands |
-| 50–80% | Compacted, concreted, or clay-sealed bare sites |
-
-## Precipitation Intensity Ranges
-
-| mm/day | Phenomena |
-|--------|-----------|
-| 0–10 | Light dews, light rains in semi-arid areas, prairie rains. Smallest rills commence flow at 6–10 mm |
-| 10–20 | All-day drizzle, sheet erosion possible at 13 mm, gully erosion at 15 mm |
-| 21–50 | Monsoon cloud streets on coasts, light rain all day in western maritime climates, convective rain in deserts |
-| 51–100 | Condensation drip from onshore fogs (~60 mm); tropical rains exceed 100 mm once per year |
-| 100–200+ | Heavy rain all day, exceeded once per year on monsoon coasts, once per century in temperate maritime areas |
-
-## Integration with Settlement Design
-
-A general profile of water depth and quality from intake to salt pan determines strategies for settlement placement, water systems, water quality management, water disposal, and overall site design. On hill country, frost level and aspect are the second major determinants. Effective water spreading design integrates these hydrological realities with settlement patterns to create resilient, self-sufficient arid communities.
+- [[cho-water-soluble-phosphoric-acid-preparation]]
+- [[jadam-water-soluble-calcium-preparation]]
+- [[water-use-efficiency-plants]]
+- [[greg-green-water-quality-and-hard-water]]
+- [[savory-water-cycle-management]]

@@ -1,6 +1,6 @@
 ---
 title: Coleman Intensive Cropping Double Cropping Greenhouse Productivity
-source: "The [[coleman-claytonia-winter-harvest-cultivation]] Handbook - [[eliot-coleman]] (2009)"
+source: "The eliot-coleman (2009)"
 chapter: "11 - Crops"
 tags: [intensive-cropping, double-cropping, greenhouse, productivity, succession, winter-harvest, coleman]
 created: 2026-05-09
@@ -10,77 +10,8 @@ created: 2026-05-09
 
 ## Overview
 
-Chapter 11 of *The [[cold-house-winter-harvest-system]] Handbook* details Coleman's approach to maximizing
-greenhouse productivity through intensive cropping—the practice of growing multiple
-successions or multiple crops in the same space within a single year. Combined with
-[[coleman-precision-seeding-greenhouse-pinpoint-six-row-seeder]] at close spacing, these techniques allow Four Season Farm to achieve
-exceptional per-square-foot yields from protected [[cotter-growing-space-design-fruiting-rooms]].
-
-## The Productivity Imperative
-
-Protected growing space is the most expensive input on a winter-harvest farm. Every
-square foot inside a greenhouse or high tunnel must justify its cost through productive
-output. Coleman's economics:
-
-- **Greenhouse construction cost**: $3–5 per square foot (movable tunnel design)
-- **Annual amortization**: Spread over 20+ year lifespan, but land opportunity cost persists
-- **Revenue target**: Must generate significantly more per square foot than equivalent
-  field production to justify the structure investment
-- **Key insight**: Intensive cropping and close spacing multiply per-square-foot revenue
-  without proportional cost increase
-
-## Succession Planting Principles
-
-### The Succession Calendar
-
-Coleman manages successions on a precise schedule tied to day length and temperature:
-
-1. **Late summer succession** (August–September): Sow winter greens for harvest October
-   through March
-2. **Fall succession** (October–November): Sow hardy greens for midwinter harvest
-3. **Late [[winter-succession-planting]]** (February): Sow [[coleman-overwintered-onions-and-early-spring-crops]] for March–April harvest
-4. **Spring succession** (March–April): Transition to summer crops (tomatoes, peppers,
-   cucumbers)
-
-### Crop Rotation Within Successions
-
-Each succession slot follows a rotation logic:
-
-- Avoid following the same crop family in successive plantings
-- Alternate leafy greens (brassicas, asteraceae, amaranthaceae) to break pest cycles
-- Include a green manure or compost-incorporation step between major successions when
-  possible
-- The movable greenhouse itself acts as a rotation tool—moving the structure gives the
-  previous location a year of outdoor rotation
-
-## Double Cropping Strategies
-
-### Summer-Winter Double Crop
-
-The core double-cropping pattern pairs summer and winter crops in the same greenhouse:
-
-- **Summer phase** (May–October): Tomatoes, peppers, cucumbers, basil in the warm months
-- **Winter phase** (November–April): Salad greens, spinach, Asian greens, carrots
-- **Transition timing**: Summer crops cleared by late October; winter crops established
-  by late September for harvest beginning in November
-
-### Advantages of the Double-Crop System
-
-- Spreads greenhouse cost over two productive seasons per year
-- Summer crops benefit from the greenhouse heat (tomatoes, cucumbers especially)
-- Winter crops use the same structure with no additional investment
-- Soil fertility from summer crop residues feeds winter crops
-- Movable greenhouse allows summer crops outdoors during shoulder seasons
-
-### Single-Crop Winter Alternative
-Some growers dedicate tunnels to winter-only production. Coleman prefers double cropping
-with movable houses that shift outdoors for summer, freeing the house site for rotation.
-
-## Close Spacing and Intercropping
-
-### Row Spacing Standards
-
-| Crop | Conventional Row | [[coleman-greenhouse-covering-materials-comparison]] | Beds per 30" Width |
+Chapter 11 of *The [[coleman-precision-seeding-greenhouse-pinpoint-six-row-seeder]] at close spacing, these techniques allow Four Season Farm to achieve
+exceptional per-square-foot yields from protected [[winter-succession-planting]]** (February): Sow [[coleman-greenhouse-covering-materials-comparison]] | Beds per 30" Width |
 |------|-----------------|--------------------|--------------------|
 | Baby lettuce | 12–18 inches | 2.25 inches | 13 rows (two passes) |
 | Spinach | 12 inches | 2.25–4.5 inches | 7–13 rows |
@@ -118,8 +49,91 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[det]]
 - [[succession-planting]]
-- [[coleman-year-round-intensive-cropping-bed-management]]
 - [[coleman-double-layer-protection-greenhouse-row-cover]]
 - [[coleman-cold-greenhouse-double-layer-protection]]
+
+## Overview
+
+Coleman Intensive Cropping Double Cropping Greenhouse Productivity represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish coleman intensive cropping double cropping greenhouse productivity
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving coleman extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Coleman Intensive Cropping Double Cropping Greenhouse Productivity finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for coleman intensive cropping double cropping greenhouse productivity. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+coleman intensive cropping double cropping greenhouse productivity and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Coleman Intensive Cropping Double Cropping Greenhouse Productivity has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of coleman intensive cropping double cropping greenhouse productivity into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[coleman-deep-organic-shallow-organic-farming-comparison]]
+- [[coleman-direct-marketing-and-csa-models]]
+- [[coleman-double-layer-protection-greenhouse-row-cover]]
+- [[coleman-mobile-greenhouse-system]]
+- [[coleman-tools-small-farm]]

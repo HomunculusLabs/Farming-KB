@@ -12,13 +12,7 @@ sources:
 
 Updated: 2026-04-18
 
-Source: Gardening When It Counts, [[steve-solomon]], Chapter 10
-
-Solomon's chapter on individual vegetables is organized by importance to a self-sufficient homestead and difficulty to grow. He provides the essentials and expects the reader to understand earlier chapters on soil, spacing, and nutrition.
-
-## Sowing Depth Guide
-
-[[hamilton-seed-sowing-techniques]] depth by size:
+Source: Gardening When It Counts, [[hamilton-seed-sowing-techniques]] depth by size:
 - **Tiny seeds** (celery, basil, sorrel, most herbs): fall into tiny cracks of raked soil, barely covered with fine compost. Press earth down gently to restore capillarity. Direct-seed only in mild temperatures or shade rows temporarily.
 - **Ordinary small seeds** (brassicas, carrots, parsley, fennel): about half an inch (1.25 cm) deep
 - **Larger small seeds** (spinach, beet, chard, radish, oxalis): about three-quarters inch (2 cm) deep
@@ -51,20 +45,6 @@ Key insights from Weaver's root studies:
 
 ### Root Architecture
 - Roots never turn back toward the center — always extend into new soil
-- [[mycorrhizal-root-exudates-pathogen-interactions]] signal where the plant's own roots already are
-- Plants secrete chemicals that repel roots of other species (allelopathy)
-- These chemicals are long-lasting — a different species planted in the same spot the following year may do poorly
-
-### Root Efficiency
-- Only the growing tip can efficiently absorb water and nutrients
-- Only a fraction of an inch behind the tip is active
-- A few days after formation, the root becomes covered with bark-like material
-- The plant must continuously create new root tips in ever-expanding networks
-
-### Competition Consequences
-When root systems compete:
-- Plants can't efficiently acquire nutrients — "starving in the midst of plenty"
-- Growth slows, insect susceptibility increases
 - [[query-how-do-i-prune-brambles-for-maximum-fruit-production]] decreases
 - Disease susceptibility increases
 
@@ -88,3 +68,82 @@ Solomon uses abbreviated notation:
 - **"In hills"**: Seeds sown in highly fertile mounds, sometimes with additional fertilizer
 
 ## Climate and Variety Selection
+
+## Overview
+
+[[vegetable-growing-guide]] Solomon represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish vegetable growing guide solomon
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving vegetable extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Vegetable Growing Guide Solomon finds practical application in multiple design contexts.
+[[permaculture-principles]] guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for vegetable growing guide solomon. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+vegetable growing guide solomon and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Vegetable Growing Guide Solomon has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of vegetable growing guide solomon into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also

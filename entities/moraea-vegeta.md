@@ -109,13 +109,8 @@ Some Moraea species contain toxic cardiac glycosides, though the chemical profil
 
 ## See Also
 
-- [[dierama-pulcherrimum]]
 - [[iris-germanica]]
-- [[gladiolus-tristis]]
 - [[freesia-refracta]]
-- [[babiana-stricta]]
 - [[watsonia-borbonica]]
-- [[sparaxis-tricolor]]
 - [[crocosmia-lucifer]]
-- [[dietes-grandiflora]]
 - [[ferraria-crispa]]

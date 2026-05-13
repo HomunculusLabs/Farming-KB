@@ -1,8 +1,8 @@
 ---
-title: "Fukuoka's Critique of Organic Farming as Self-Defeating"
+title: "Fukuoka's [[fukuoka-critique-of-organic-farming]] Farming as Self-Defeating"
 source: "The Road Back to Nature by Masanobu Fukuoka (1987)"
 source_chapter: "Chapter 6: Seeding a Real Green Revolution"
-source_section: "Organic Farming and Ecology Are Self-Defeating"
+source_section: "[[eliot-coleman-deep-organic-farming-and-winter-harvest]] Ecology Are Self-Defeating"
 topic_tags:
   - natural-farming
   - organic-farming
@@ -68,7 +68,7 @@ beneficial organism habitat. Fukuoka found weeds contribute to fertility and
 pest control through natural competition rather than eradication.
 
 **Pest control** — whether chemical or biological — reflects a misunderstanding
-of ecological balance. Pest outbreaks are symptoms of imbalance created by human
+of [[fukuoka-bushman-world-ecological-balance]]. Pest outbreaks are symptoms of imbalance created by human
 intervention. The solution is restoring conditions for natural predators, not
 managing pests directly.
 
@@ -106,7 +106,7 @@ spiritual practice as an agricultural technique.
 Fukuoka observed that Western organic movements focus on *substitution* —
 replacing bad inputs with good ones — rather than *surrender* — relinquishing
 the impulse to manage entirely. He saw farmers adopting his techniques (mulching,
-cover cropping, no-till) while ignoring the philosophical foundation that makes
+cover cropping, no-till) while ignoring the [[fukuoka-spiritual-philosophical-foundation]] that makes
 those techniques unnecessary. The techniques become just another set of inputs.
 
 ## Comparison of Agricultural Approaches
@@ -117,14 +117,14 @@ those techniques unnecessary. The techniques become just another set of inputs.
 | **Inputs** | None | Organic substitutions | Synthetic chemicals |
 | **Weed strategy** | Tolerate and coexist | Manual/mechanical removal | Herbicide application |
 | **Pest strategy** | Trust ecological balance | Biological controls | Chemical pesticides |
-| **Fertility** | Natural cycles in situ | Compost and amendments | Synthetic fertilizers |
+| **Fertility** | Natural cycles in situ | Compost and amendments | [[teaming-with-nutrients-natural-vs-synthetic-fertilizers]] |
 | **Labor** | Minimal | Often high | Moderate (machine-heavy) |
 | **Knowledge** | Humility and observation | Scientific experimentation | Technical expertise |
 | **Paradigm** | Non-intervention | Substitution | Domination |
 
 ## Relevance to Modern Movements
 
-Fukuoka's critique remains relevant to permaculture and regenerative agriculture.
+Fukuoka's critique remains relevant to permaculture and [[biochar-in-regenerative-agriculture]].
 While sharing his ecological commitments, many practitioners fall into the same
 patterns — elaborate composting, intensive soil management, complex planting
 schemes requiring ongoing intervention. The most thoughtful elements of
@@ -143,8 +143,6 @@ trying to *direct* it?
 
 ## See Also
 
-- [[fukuoka-natural-farming]]
 - [[fukuoka-natural-farming-principles-do-nothing-agriculture-personal-testimony]]
-- [[one-straw-revolution-guide]]
 - [[natural-farming-guide-permaculture-design-for-small-holdings]]
 - [[fukuoka-critique-laws-agricultural-science]]

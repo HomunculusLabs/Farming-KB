@@ -6,31 +6,23 @@ type: concept
 tags: [mycology, fungi]
 sources: []
 ---
-# Fungal Soil Depth Profiles and Vertical Distribution Fungal communities vary significantly with soil depth, reflecting gradients in organic matter availability, oxygen concentration, moisture, temperature, and root density. Understanding vertical distribution patterns is essential for accurate assessment of soil fungal diversity. [[saprobic-soil-fungi]] [[saprobic-soil-fungi]] fungal-environmental-sensing [[fungal-community-assembly]] [[mycorrhizal-fungi]]
+# Fungal Soil Depth Profiles and Vertical Distribution Fungal communities vary significantly with soil depth, reflecting gradients in organic matter availability, oxygen concentration, moisture, temperature, and root density. Understanding vertical distribution patterns is essential for accurate assessment of soil fungal diversity. [[saprobic-soil-fungi]] fungal-environmental-sensing [[mycorrhizal-fungi]]
 
 ## Disturbance Effects on Soil Profile
 
 Soil disturbance including cultivation, logging, and fire alters the vertical distribution of fungal communities. Tillage mixes soil layers, disrupting the natural stratification. Fire can sterilize surface layers while leaving deeper communities intact.
 
-Effects of disturbance on [[biodiversity-of-fungi-soil-fungal-communities-agriculture]] have been discerned and quantified using the Wisconsin protocol, but such effects are usually quantitative rather than qualitative. The basic structure of soil fungal communities may persist even after significant disturbance.
-
-[[fungal-diversity-fire-ecology]]
+Effects of disturbance on [[fungal-diversity-fire-ecology]]
 
 ## Sampling Depth Considerations
 
 Standard fungal soil surveys typically sample the upper 10-15 cm of mineral soil, capturing the zone of maximum diversity. Deeper sampling is rarely performed but may reveal specialized communities adapted to low-oxygen, low-nutrient conditions.
 
-The choice of sampling depth significantly affects species richness estimates and [[core-endorhiza-bacterial-community-composition-cannabis]] assessments. Standardization of sampling depth is essential for comparing studies.
-
-[[key-fungal-species-bioremediation]]
+The choice of sampling depth significantly affects species richness estimates and [[key-fungal-species-bioremediation]]
 
 ## Deep Soil Fungi
 
-Deep soil layers harbor fungi adapted to low oxygen, low organic matter, and stable temperatures. These communities may include specialized basidiomycetes, ascomycetes, and zygomycetes that play roles in deep-soil [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]].
-
-The application of molecular methods to deep soil cores is revealing unexpected fungal diversity in soil horizons below the rooting zone, challenging assumptions about the depth limit of fungal activity.
-
-[[fungal-biodiversity-biogeography]]
+Deep soil layers harbor fungi adapted to low oxygen, low organic matter, and stable temperatures. These communities may include specialized basidiomycetes, ascomycetes, and zygomycetes that play roles in deep-soil [[fungal-biodiversity-biogeography]]
 
 ## Seasonal Depth Dynamics
 
@@ -46,24 +38,7 @@ At the biome level, indicator assemblages of soil fungi are predictable. Deserts
 
 An experienced microfungal taxonomist reading the list of the 10-20 most abundant fungi in a soil sample can guess with great accuracy the prevailing vegetational and climatic regimens of the sample's area of origin.
 
-[[fungal-species-concepts-estimates]] [[fungal-biodiversity-tropical-ecosystems]] [[fungal-biodiversity]]
-## Practical Considerations
-
-When working with Fungal Soil Depth Profiles, several practical factors should be
-carefully considered to achieve optimal results. These include
-the specific conditions of the implementation context, available
-resources, timing requirements, and the interactions between this
-topic and other elements of the broader system. A holistic view
-that considers these interconnections produces better outcomes.
-
-Environmental conditions such as temperature, moisture, and
-seasonal patterns significantly influence results. Monitoring these
-variables and adapting practices accordingly is essential for success.
-The most effective practitioners develop keen observation skills and
-respond flexibly to changing conditions rather than following rigid
-protocols regardless of circumstances or local variation.
-
-[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
+[[fungal-biodiversity-tropical-ecosystems]] [[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -110,8 +85,6 @@ through generations to modern scientific approaches, the evolution continues
 to inform current best practices and research directions.
 
 ## See Also
-- [[soil-fungal-diversity]]
 - [[doc]]
-- [[mycorrhiza]]
 - [[singh-fungal-roles-in-soil-aggregate-formation]]
 - [[fungal-glomalin-and-soil-carbon]]

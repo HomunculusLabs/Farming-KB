@@ -11,7 +11,7 @@ sources:
 
 # KNF FPJ Ratio Guide
 
-[[bionutrients-lab-fermented-plant-juice-fpj]] (FPJ) and [[bionutrients-lab-fermented-fruit-juice-ffj]] (FFJ) both follow the same fundamental [[fungal-fruiting-body-mechanics-osmotic-pressure]] [[lemon-cannabis-alchemy-high-volume-extraction-method]]. This guide covers the correct ratios by plant material type, sugar ratios, and expected fermentation times.
+Fermented Plant Juice (FPJ) and Fermented Fruit Juice (FFJ) both follow the same fundamental osmotic pressure extraction method. This guide covers the correct ratios by plant material type, sugar ratios, and expected fermentation times.
 
 ## Base Ratio
 
@@ -29,7 +29,7 @@ Choose plant material that matches the growth stage of your target crop:
 | Target Stage | Use Material From | Examples |
 |-------------|-------------------|----------|
 | Early growth (spring) | Fast-growing spring plants | Mugwort, dropwort, bamboo shoot |
-| [[cannabis-vegetative-growth-stage]] | Summer-growing plants | Sweet potato tips, squash tips, tomato |
+| Vegetative growth | Summer-growing plants | Sweet potato tips, squash tips, tomato |
 | Flowering | Plants that flower in your season | Fruit blossoms, mugwort flowers |
 | Fruiting | Mature/fruiting plants | Banana peel, mango, papaya |
 
@@ -92,7 +92,7 @@ Choose plant material that matches the growth stage of your target crop:
 | Early growth boost | 1:500 |
 | Stress recovery | 1:500 |
 | Soil drench | 1:1,000 |
-| [[jadam-seed-treatment-and-nursery-management]] | 1:1,000 |
+| Seed treatment | 1:1,000 |
 
 ## Temperature
 
@@ -100,24 +100,6 @@ Choose plant material that matches the growth stage of your target crop:
 - Higher temperatures speed fermentation but may cause off-smells
 - Lower temperatures slow fermentation
 
-## Practical Considerations
-Implementation requires careful attention to local conditions,
-available resources, and the specific goals of the practitioner.
-Documenting results and adapting approaches based on observed
-outcomes leads to continuous improvement over time.
-
-## Integration Strategies
-Combining multiple approaches often yields better results than
-relying on any single technique. Consider how this topic relates
-to broader system design and look for synergies between methods
-that can amplify overall effectiveness.
-
-## See Also
-- [[cannabis-thc-cbd-ratio-guide-for-conditions]]
-- [[comparison-mulching-guide-vs-green-manure-guide]]
-- [[comparison-pepper-growing-guide-vs-tomato-growing-guide]]
-- [[comparison-bean-growing-guide-vs-pepper-growing-guide]]
-- [[psilocybin-psilocin-ratio-dynamics-flushes-bigwood-beug]]
 ## See Also
 
 - [[knf-fermented-fruit-juice]]

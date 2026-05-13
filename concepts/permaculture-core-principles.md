@@ -6,19 +6,7 @@ type: concept
 
 # Permaculture Core Principles
 
-The foundational principles of permaculture, as articulated by [[bill-mollison]] in *Permaculture: A Designer's Manual*, form an integrated ethical and practical framework for designing sustainable human settlements. These principles draw from thermodynamics, ecology, and systems theory, and are organized into several interrelated categories.
-
-## The Prime Directive
-
-> **The only ethical decision is to take responsibility for our own existence and that of our children's.**
-
-This directive establishes personal and intergenerational responsibility as the ethical foundation of permaculture. All design decisions flow from this commitment to self-reliance and care for future generations.
-
-## Principle of Cooperation
-
-> **Cooperation, not competition, is the very basis of future survival and of existing life systems.**
-
-While competition is observed in nature, cooperation and symbiosis are far more prevalent and fundamental to the functioning of ecosystems. [[permaculture-design]] prioritizes mutually beneficial relationships between components.
+The foundational principles of permaculture, as articulated by [[permaculture-design]] prioritizes mutually beneficial relationships between components.
 
 ## The Three Ethics
 
@@ -148,3 +136,11 @@ Understanding these niche types enables designers to stack functions and species
 ## Policy of Responsibility
 
 > **The role of beneficial authority is to return function and responsibility to life and to people; if successful, no further authority is needed.** The role of successful design is to create a self-managed system.
+
+## See Also
+
+- [[nut-tree-cultivation-for-permaculture-food-forests]]
+- [[stametsian-permaculture-model]]
+- [[permaculture-farm-design-principles]]
+- [[nitrogen-fixing-plants-in-permaculture]]
+- [[urban-permaculture-and-integrated-land-management]]

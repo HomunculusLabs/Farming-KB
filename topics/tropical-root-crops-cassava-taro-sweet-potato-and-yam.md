@@ -71,38 +71,7 @@ Cassava varieties are classified by their cyanogenic glucoside content:
 3. **Planting**: Insert cuttings at a 45° angle, leaving 2–3 nodes above ground. Spacing depends on variety and soil fertility — typically 1 m × 1 m.
 4. **Weed control**: Critical during the first 3 months. Once the canopy closes, cassava suppresses weeds effectively. Intercropping with legumes reduces weeding labor.
 5. **Fertilization**: Cassava responds well to potassium and moderate nitrogen. Phosphorus is important on acidic soils. Farmyard manure at 5–10 t/ha improves yields significantly.
-6. **Pest management**: Cassava green mite (*Mononychellus tanajoa*), cassava mealybug (*Phenacoccus manihoti*), and cassava mosaic disease (begomoviruses) are the primary constraints. [[fukuoka-textdoc-biological-control-fallacy-pheromone-critique]] agents (especially the predatory mite *Typhlodromalus aripo*) have been remarkably effective in Africa.
-
-### Harvesting and Processing
-
-Cassava deteriorates rapidly after harvest — roots begin to deteriorate within 24–48 hours due to vascular streaking and physiological post-harvest deterioration (PPD). This means processing must happen quickly or roots must be left in the ground until needed.
-
-**Processing methods for bitter cassava**:
-- **Peeling and grating**: Roots are peeled, grated, and the mash is fermented for 2–5 days to hydrolyze linamarin.
-- **Gari**: Grated and fermented mash is roasted in a shallow iron pan to produce granules.
-- **Fufu**: Fermented mash is sieved, cooked, and pounded into a smooth dough.
-- **Cassava flour**: Peeled roots are soaked, fermented, dried, and milled.
-- **Farinha**: Brazilian toasted cassava meal, similar to gari but coarser.
-
-**Processing for sweet cassava**:
-- Boiling, frying (yuca frita), or baking. Still requires peeling and thorough cooking.
-
-### Role in Permaculture Systems
-
-Cassava excels as a hardy, low-maintenance staple producer in tropical food forests:
-- Functions as a pioneer crop on degraded land
-- Provides shade and wind protection for younger plantings
-- Can be intercropped with legumes (cowpea, pigeon pea), sweet potato, or maize during establishment
-- Leaf canopy provides mulch; leaves can be used as animal fodder (after wilting to reduce HCN)
-- Deep root system mines subsoil nutrients
-
----
-
-## Taro (*Colocasia esculenta*)
-
-### Overview
-
-Taro is one of the oldest cultivated crops in the world, with evidence of cultivation dating back over 10,000 years in Southeast Asia and the Pacific. It holds profound [[ethnomycology-cultural-significance-sacred-fungi]] across Oceania, Southeast Asia, West Africa, and the Caribbean. The Hawaiian word *kalo* refers to taro, and in Hawaiian cosmology, *Hāloa* — the ancestor of the Hawaiian people — was born from the kalo plant.
+6. **Pest management**: Cassava green mite (*Mononychellus tanajoa*), cassava mealybug (*Phenacoccus manihoti*), and cassava mosaic disease (begomoviruses) are the primary constraints. [[ethnomycology-cultural-significance-sacred-fungi]] across Oceania, Southeast Asia, West Africa, and the Caribbean. The Hawaiian word *kalo* refers to taro, and in Hawaiian cosmology, *Hāloa* — the ancestor of the Hawaiian people — was born from the kalo plant.
 
 Taro produces a large underground corm that is rich in starch, along with edible leaves (when properly cooked). It thrives in wetland (paddy) conditions but also grows well in upland, rainfed environments.
 
@@ -112,37 +81,15 @@ Taro produces a large underground corm that is rich in starch, along with edible
 |--------|-------------|
 | **Temperature** | 21–30°C optimal; sensitive to frost |
 | **Rainfall/Water** | Wetland: standing water 0–30 cm; Upland: 1,500+ mm rainfall or irrigation |
-| **Soil** | Rich, loamy soils; pH 5.5–7.0; high [[hamilton-composting-and-organic-matter-management]] preferred |
-| **Light** | Full sun to partial shade |
-| **Propagation** | Small cormels or "huli" (top portion of corm + stem) |
-| **Planting density** | 10,000–25,000 plants/ha |
-| **Time to harvest** | 6–12 months for corms; leaves can be harvested earlier |
-| **Yield** | 5–30 tonnes/ha corms |
-
-### Varieties and Types
-
-- **Wetland taro**: Grown in flooded paddies, produces larger corms. Dominant in Hawaii, Fiji, and parts of Southeast Asia.
-- **Upland taro**: Grown without flooding, more drought-tolerant, smaller corms. Common in West Africa and the Caribbean.
-- **Dasheen**: A large-corm wetland type, important in the Caribbean.
-- **Eddoe**: Small-corm upland type producing many cormels. Popular in West Africa and Asia.
-- **Lehua varieties** (Hawaii): Red, purple, or white corm flesh with distinct flavors.
-
-### Planting and Management
-
-1. **Wetland preparation**: Paddies are prepared similarly to rice paddies. Soil is puddled, leveled, and flooded to 5–15 cm depth. [[cervantes-organic-amendments-chart]] (compost, manure) are incorporated before planting.
+| **Soil** | Rich, loamy soils; pH 5.5–7.0; high [[cervantes-organic-amendments-chart]] (compost, manure) are incorporated before planting.
 2. **Planting material**: The "huli" — the top 1–2 cm of the corm with the attached petiole base — is the standard planting material. Cormels of 50–150 g also work.
 3. **Water management**: Water depth is critical. Young plants need shallow water (5 cm), deepening to 15–30 cm as plants grow. Drain paddies 3–4 weeks before harvest to encourage corm maturation and facilitate harvest.
 ## See Also
 
-- [[nut-tree-cultivation-for-permaculture-food-forests]]
 - [[forest-gardening-and-food-forests]]
 - duckweed-and-azolla-as-livestock-feed-and-biofertilizer
-- [[composting-and-soil-biology]]
 - [[cover-crops-and-green-manures]]
-- [[agroforestry-and-alley-cropping]]
-
-## Merged: How Do I Choose Between Cassava, Taro, Sweet Potato, and Yam for My Tropical Garden?
-**Start with sweet potato** — it's the easiest to grow, fastest to harvest (3–5 months), has the fewest hazards, and provides both edible roots and leaves. Then add cassava for [[solomon-self-sufficiency-calorie-production-economics]] on poor soils, taro if you have wet areas or ponds, and yam if you have the labor and patience for a high-value, long-storing staple. Most tropical gardeners benefit from growing a combination rather than choosing just one.
+- [[solomon-self-sufficiency-calorie-production-economics]] on poor soils, taro if you have wet areas or ponds, and yam if you have the labor and patience for a high-value, long-storing staple. Most tropical gardeners benefit from growing a combination rather than choosing just one.
 ```
 Is your soil waterlogged or do you have a pond/wetland area?
 ├── YES → Plant TARO in the wet zone

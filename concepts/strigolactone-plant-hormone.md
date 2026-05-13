@@ -20,7 +20,7 @@ compounds in the rhizosphere. First identified as germination stimulants
 for root parasitic plants of the genera Striga and Orobanche,
 strigolactones were later recognized as the long-sought branching
 inhibition signal that suppresses axillary bud outgrowth. They also
-serve as critical [[hyphal-branching-regulation-nutrient-sensing-gadd]] factors for [[arbuscular-mycorrhizal-colonization-patterns]]
+serve as critical [[arbuscular-mycorrhizal-colonization-patterns]]
 (AM) fungi, mediating the establishment of one of the most ancient
 and widespread plant-fungal symbioses.
 
@@ -73,22 +73,7 @@ branching in response to environmental conditions.
 ## Symbiotic Function: Mycorrhizal Signaling
 
 In the rhizosphere, strigolactones exuded by plant roots serve as
-hyphal branching factors for [[arbuscular-mycorrhizal-fungi]]. At
-extremely low concentrations (picomolar range), strigolactones
-trigger extensive branching of fungal hyphae, increasing the
-probability of contact with host roots and facilitating colonization.
-This signaling function is ancestral, predating the hormonal role
-in shoot branching, and is conserved across most land plant lineages.
-
-The hyphal branching response is mediated by fungal receptor proteins
-that perceive strigolactones and activate downstream calcium
-signaling and mitochondrial activity in the fungus. The specificity
-of this signaling is broad, with AM fungi generally responding to
-strigolactones from diverse plant species, reflecting the ancient
-and nonspecific nature of this symbiotic relationship. Under low
-phosphate conditions, plants increase strigolactone biosynthesis
-and exudation, enhancing mycorrhizal colonization and improving
-[[comparison-phosphorus-solubilizing-microorganisms-vs-mycorrhizal-phosphorus-acquisition]].
+hyphal branching factors for [[comparison-phosphorus-solubilizing-microorganisms-vs-mycorrhizal-phosphorus-acquisition]].
 
 ## Role in Parasitic Plant Germination
 
@@ -113,9 +98,6 @@ retaining mycorrhizal signaling activity.
 ## Regulation by Environmental Conditions
 
 Strigolactone biosynthesis and signaling are tightly regulated by
-[[ph-and-nutrient-availability-garden-soils]], particularly phosphate and nitrogen. Low
-phosphate conditions strongly upregulate strigolactone production,
-redirecting resources from shoot growth to root exploration and
 [[arbuscular-mycorrhizal-symbiosis]]. This response involves the transcriptional
 regulator PHR1 (PHOSPHATE STARVATION RESPONSE 1), which activates
 expression of strigolactone biosynthetic genes under phosphate
@@ -131,9 +113,5 @@ promoting root growth for water acquisition.
 
 ## See Also
 
-- [[salicylic-acid-plant-defense]]
-- jasmonic acid
-- abscisic acid
-- cytokinin
 - [[mycorrhizal-symbiosis]]
 - [[mycorrhizal-carbon-cycle]]

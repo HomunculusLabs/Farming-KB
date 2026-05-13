@@ -23,25 +23,7 @@ fever. The precise reasons for febrile seizures are not fully known. One
 hypothesis: When a child is born, the brain is not finished growing. During
 the subsequent months and even years, the brain and nervous system continue
 to expand and develop. However, the part of the brain responsible for
-[[blesching-cannabis-fever-temperature-regulation]] in the body sometimes develops at a slower pace.
-Therefore, it is argued that during times of fever, an "overload" to the
-neurological system occurs, producing a seizure. Once the
-temperature-regulating part of the brain is fully developed, seizures
-during fevers cease.
-
-When a child between three months and four years suddenly has a seizure,
-place the child on a bed or clean flat surface. Roll the child onto their
-side to avoid mucus or vomit entering the lungs. Protect the child from
-hitting their head against the floor or other objects. Call emergency
-services immediately. Most febrile seizures will stop by themselves in a
-few seconds or a few minutes.
-
-An emergency-room definition for status epilepticus is continuous seizure
-activity lasting longer than five minutes, or multiple seizures without
-regaining consciousness between seizures. This is considered a true
-emergency. Status epilepticus is a potentially life-threatening condition
-in which the brain and entire nervous system enter excessive nerve cell
-activity. See [[cannabis-for-epilepsy-and-seizure-disorders]])
+[[cannabis-for-epilepsy-and-seizure-disorders]])
 
 ### Mind-Body Medicine and Fever
 
@@ -59,12 +41,7 @@ and paradoxical thoughts and emotions, thus creating overwhelming friction
 to a mind unprepared and without the skill set to release and transcend
 the tension constructively. The parallel between physical fever/overload
 and mental-emotional overwhelm suggests a holistic approach to both
-[[cannabis-hermaphrodite-prevention-and-management]].
-
-### Related Topics
-
-- [[blesching-cannabis-neurodegenerative-diseases]]
-- [[endocannabinoid-system-overview]]
+[[blesching-cannabis-neurodegenerative-diseases]]
 - [[blesching-cannabis-chemotherapy-nausea]]
 
 ### Key Takeaways
@@ -111,8 +88,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[doc]]
 - [[blesching-cannabis-neuroprotection-neurodegenerative]]
-- [[cannabis-sativa-vs-indica-strain-profiles-therapeutic-blesching]]
 - [[blesching-cannabis-tourette-syndrome]]
 - [[blesching-cannabis-vasopressin-aggression]]

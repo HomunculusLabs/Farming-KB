@@ -10,7 +10,7 @@ sources: []
 
 ## Overview
 
-Arnica (*Arnica montana*) and yarrow (*Achillea millefolium*) are two of
+Arnica (*[[arnica-montana]]*) and yarrow (*Achillea millefolium*) are two of
 the most storied wound-healing herbs in the European phytotherapy
 tradition. Both belong to the Asteraceae family and share a reputation
 for treating bruises, swelling, and musculoskeletal pain, yet their
@@ -28,38 +28,6 @@ for the right situation prevents misuse and maximizes therapeutic
 benefit.
 
 ## Arnica
-
-[[arnica-montana]]
-
-Arnica montana is a perennial herb native to the mountainous meadows of
-central and southern Europe. It produces bright orange-yellow flower
-heads atop unbranched stems 20 to 60 cm tall. The species is critically
-endangered in several European countries, and most commercial supply
-now comes from cultivated sources.
-
-The primary active compound, helenalin, is a sesquiterpene lactone that
-inhibits NF-κB signaling, producing powerful anti-inflammatory and
-analgesic effects. Helenalin also alkylates cellular thiols, which is
-responsible for both its therapeutic potency and its toxicity when taken
-internally. Commercial arnica preparations are standardized to
-helenalin content, with typical tinctures and gels delivering
-concentrations effective for topical application.
-
-Arnica is almost exclusively used externally. It excels at reducing
-bruising, muscle soreness, joint pain, and postoperative edema. Clinical
-trials have demonstrated measurable reductions in swelling and pain
-following surgical procedures and dental extractions. Homeopathic
-preparations of arnica are widely used internally, though the
-evidence base for highly diluted homeopathic doses remains debated in
-conventional medicine.
-
-Internal use of whole-plant arnica is strongly cautioned against due to
-helenalin's cardiotoxic and hepatotoxic potential. Symptoms of arnica
-poisoning include dizziness, tachycardia, and gastrointestinal distress.
-This narrow safety profile is the key distinction between arnica and
-yarrow.
-
-## Yarrow
 
 [[yarrow-achillea-millefolium]]
 
@@ -143,7 +111,5 @@ while sourcing arnica from reputable suppliers provides access to both
 herbs' unique strengths.
 ## See Also
 
-- [[comparison-arnica-vs-calendula]]
 - [[comparison-arnica-vs-st-johns-wort]]
-- [[comparison-comfrey-vs-yarrow]]
 - [[comparison-echinacea-vs-yarrow]]

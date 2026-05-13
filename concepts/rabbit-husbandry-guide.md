@@ -17,74 +17,96 @@ Rabbits are among the most space-efficient and productive homestead livestock. T
 - **Quiet** — No noise complaints; suitable for suburban settings
 - **Fast reproduction** — 30-day gestation, does can breed back within days of kindling
 - **Lean meat** — Higher protein, lower fat and cholesterol than chicken, beef, or pork
-- **Manure value** — Rabbit manure is a "cold" manure, safe to apply directly to plants without [[composting]]
-- **Low startup cost** — Basic setup for a breeding trio: $200-400
-
-## Breed Selection
-
-### Meat Breeds
-- **New Zealand White** — Industry standard. 10-12 lb mature weight, excellent mothers, fast growth (8-10 weeks to fryer weight of 4-5 lbs).
-- **Californian** — Similar performance to NZW with Himalayan coloring. Hardy and good mothers.
-- **Flemish Giant** — 15-20 lb mature weight. Slower growing but excellent for crossing.
-- **Silver Fox** — Dual-purpose meat/fur. Good mothers, docile temperament.
-
-### Dual-Purpose
-- **Champagne d'Argent** — Excellent meat with premium silver fur.
-- **Palomino** — Good meat breed with attractive golden coloring.
-
-## Housing
-
-### Hutch Systems
-- **Minimum size:** 30" x 30" x 24" for a single doe with litter
-- **Wire flooring** (1" x 2" mesh) allows droppings to fall through
-- **Nest box** (12" x 10" x 10") added 3-5 days before kindling
-- **Weather protection** — Shade in summer, wind block in winter
-- **Predator proof** — Hardware cloth on all openings; secure latches
-- See [[fodder-growing-guide]] systems can supplement pellet diets
-- Garden greens: [[dandelion]], plantain, comfrey (in moderation), clover
-- Vegetable scraps: carrot tops, cabbage, lettuce (avoid iceberg — too watery)
-- Fruit as treats only: apples, bananas, berries (seeds removed from apples)
-- Introduce new foods gradually to prevent digestive upset
-
-### Water
-- Clean, fresh water always available
-- Drip waterers or crocks (changed daily)
-- Lactating does drink significantly more — ensure adequate supply
-
-## Breeding Program
-
-### Breeding Basics
-- **Buck to doe ratio:** 1:8-10 for efficient breeding
-- **Age at first breeding:** Does 5-6 months, Bucks 6 months
-- **Gestation:** 28-32 days (average 30 days)
-- **Litter size:** 6-10 kits (NZW average 8)
-- **Weaning:** 4-6 weeks of age
-- **Rebreeding:** Does can breed back 2-4 weeks after kindling
-
-### Managing the Breeding Cycle
-- Breed on a schedule: kindle, wean, rebreed in an 8-10 week cycle
-- Each doe can produce 5-6 litters per year
-- Rotate breeding to avoid excessive doe stress
-- Keep detailed breeding records: breeding date, kindling date, litter size, weaning weight
-
-### Kindling Management
-- Provide nest box with clean bedding 3-5 days before due date
-- Check kits within 12 hours of birth — remove any dead or deformed kits
-- Ensure kits are nursing (check full bellies)
-- Does typically only feed kits once or twice daily (dawn and dusk)
-- Avoid handling kits excessively in the first 2 weeks
-
-## Health Management
-
-### Common Issues
-- **Sore hocks** — Pressure sores on feet from wire flooring. Provide resting boards.
-- **Ear mites** — Scabby ears, head shaking. Treat with mineral oil or ivermectin.
-- **Snuffles (pasteurellosis)** — Respiratory infection, contagious and incurable. Cull affected animals.
-- **Mastitis** — Inflamed mammary glands in lactating does. Check udders regularly.
-- **GI stasis** — Intestinal slowdown, often fatal if not caught early. Prevention through proper diet [[vipassana-mindfulness-and-stress-reduction-healing]].
+- **Manure value** — Rabbit manure is a "cold" manure, safe to apply directly to plants without [[fodder-growing-guide]] systems can supplement pellet diets
+- Garden greens: [[vipassana-mindfulness-and-stress-reduction-healing]].
 - **[[query-how-do-i-manage-heat-stress-in-my-cannabis-garden]]** — Rabbits tolerate cold well but are very heat-sensitive. Above 85°F (29°C), provide cooling.
 
 ### Biosecurity
 - Quarantine new rabbits for 2 weeks
 - Clean hutches between litters
 - Sanitize waterers weekly
+
+## Overview
+
+Rabbit Husbandry Guide represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish rabbit husbandry guide
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving rabbit extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Rabbit Husbandry Guide finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for rabbit husbandry guide. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+rabbit husbandry guide and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Rabbit Husbandry Guide has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of rabbit husbandry guide into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[comparison-quail-husbandry-vs-rabbit-husbandry]]
+- [[hemenway-worm-bin-rabbit-integration]]
+- [[mollison-designers-rabbit-housing-and-manure-management]]
+- [[rabbit-husbandry-basics]]
+- [[rabbit-processing-guide]]

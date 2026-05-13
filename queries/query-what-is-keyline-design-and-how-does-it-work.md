@@ -12,23 +12,7 @@ sources:
 
 ## Short Answer
 
-[[p-a-yeomans]] in the 1950s.
-
-It uses the natural topography of land to distribute water from valleys to ridges, reversing the typical pattern of erosion and dehydration on upper slopes.
-
-The system centers on identifying the "keypoint" where a valley floor transitions from convex to concave, then plowing along the "keyline" contour that runs through that point.
-
-Though originally developed for broadacre Australian farmland, keyline principles have been adapted worldwide for properties of every scale.
-
-## What Problem Does Keyline Solve?
-
-On undulating land, water naturally concentrates in valleys and runs off ridges.
-
-This creates a cycle where valley bottoms become waterlogged or eroded while upper slopes dry out and lose topsoil.
-
-Conventional agriculture often worsens this by plowing up and down slopes, accelerating erosion.
-
-mollison-designers-keyline-pattern-plow-technique uses a specialized [[soil-conditioning-chisel-plow-biological-methods]] that fractures compacted subsoil without inverting it.
+[[soil-conditioning-chisel-plow-biological-methods]] that fractures compacted subsoil without inverting it.
 
 Unlike a moldboard plow, the keyline plow leaves the soil surface largely undisturbed while opening deep channels for water infiltration.
 
@@ -40,22 +24,12 @@ Yeomans emphasized that subsoiling should never be done when the soil is saturat
 
 ## How Keyline Relates to Other Water Harvesting Systems
 
-[[contour-swale-irrigation-design]] in important ways.
-
-Swales are earthen embankments built exactly on contour to catch and hold surface runoff.
-
-Keyline cultivation lines, by contrast, are slightly off-contour — they fall gently toward the valleys to guide water laterally across the landscape.
-
-Both systems are forms of [[contour-line-water-management]] provides the foundational understanding of reading land contours that keyline design builds upon.
-
-[[dam-construction]] on the keyline or above it allows gravity-fed irrigation to lower paddocks during dry periods.
+[[contour-line-water-management]] provides the foundational understanding of reading land contours that keyline design builds upon.
 
 [[bill-mollison-permaculture-a-designers-manual-water-harvesting-and-earthworks]] adapted keyline principles for permaculture sites of all sizes.
 
-[[keyline-design]] was developed by [[contour-swale-irrigation-design]]) in that cultivation lines fall gently toward valleys to move water laterally.
-- Integration with dams and [[broadscale-restoration-watershed-repair|broadacre watershed rehabilitation]] projects.
-- Keyline cultivation improves soil health by breaking compaction, increasing moisture retention, and supporting deeper root growth.
-- [[query-how-do-different-composting-methods-compare]]
+[[contour-swale-irrigation-design]]) in that cultivation lines fall gently toward valleys to move water laterally.
+- Integration with dams and [[query-how-do-different-composting-methods-compare]]
 ## Practical Considerations
 
 When working with What Is Keyline Design and How Does It Work?, several practical factors should be

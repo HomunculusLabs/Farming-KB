@@ -25,7 +25,7 @@ Disclaimer: This page is for informational purposes only. Verify the legality of
 - Not explicitly scheduled in the US or most countries
 - Common sources: specialty ethnobotanical shops, Amazon importers
 
-**[[chacruna-psychotria-viridis]] (Chacruna)**
+**Psychotria viridis (Chacruna)**
 - Available as dried leaf or live plant
 - Not scheduled in the US
 - Live plants require tropical greenhouse conditions
@@ -37,18 +37,18 @@ Disclaimer: This page is for informational purposes only. Verify the legality of
 
 ### Cactus Sources
 
-**[[trichocereus-pachanoi]] (San Pedro)**
+**Trichocereus pachanoi (San Pedro)**
 - Widely available as live plants from nurseries and online cactus vendors
 - Sold as ornamental landscaping cactus
 - Legal to grow in the US and most countries
 - Common sources: cactus nurseries, Etsy, eBay, specialty succulent shops
 - Cuttings are readily available and easy to root
 
-**[[trichocereus-peruvianus]] (Peruvian Torch)**
+**Trichocereus peruvianus (Peruvian Torch)**
 - Available from the same sources as San Pedro
 - Slightly less common but still widely available
 
-**[[lophophora-williamsii]] (Peyote)**
+**Lophophora williamsii (Peyote)**
 - Significantly harder to obtain legally
 - Conservation status is a major concern — wild populations are threatened
 - Some nurseries sell cultivated specimens, but legality varies
@@ -62,7 +62,7 @@ Disclaimer: This page is for informational purposes only. Verify the legality of
 - Commonly found on eBay, Etsy, and specialty ethnobotanical shops
 - Cuttings are the most common propagation method (the plant rarely produces viable seeds)
 
-**[[mckenna-food-gods-peganum-harmala-soma]] (Syrian Rue)**
+**Peganum harmala (Syrian Rue)**
 - Seeds are widely available — sold as botanical specimens, dye material, and incense
 - Legal in the US and most countries
 - Available from herb shops, ethnobotanical suppliers, and online seed vendors
@@ -112,7 +112,7 @@ Psilocybin mushroom spores do not contain psilocybin or psilocin and are therefo
 - Psilocybe cubensis (dozens of named varieties: Golden Teacher, B+, Ecuador, Thai, etc.)
 - Psilocybe cyanescens (more specialized vendors)
 - Psilocybe semilanceata (rarely available commercially — mostly foraged)
-- [[panaeolus-cyanescens-bali-omelette]] ("copelandia")
+- Panaeolus cyanescens ("copelandia")
 - Gymnopilus species
 
 ## Extraction Chemical Suppliers
@@ -140,11 +140,11 @@ For those performing plant extractions (see [[dmt-extraction-guide]] and [[mesca
 
 ### Sustainability
 - **Peyote**: Do not purchase wild-harvested peyote — populations are critically threatened. Only cultivated specimens should be considered
-- **Iboga**: Wild iboga harvesting is putting pressure on Gabonese forests. Seek sustainably cultivated sources
-- **Mimosa hostilis**: Brazilian harvesting has raised ecological concerns
-- **Salvia divinorum**: Wild populations in Oaxaca are limited — cultivate rather than wild-harvest
 
-### Cultural Respect
-- Many of these plants are sacred to indigenous communities
-- Commercial exploitation of traditional medicines raises ethical questions
-- Consider supporting indigenous communities and conservation efforts
+## See Also
+
+- [[keule-gomortega-keule-chilean-entheogen]]
+- [[entheogen-ayahuasca-admixture-plants]]
+- [[pineal-gland-entheogen]]
+- [[entheogen-jivaro-natem-shamanism]]
+- [[nightshade-plants-entheogen]]

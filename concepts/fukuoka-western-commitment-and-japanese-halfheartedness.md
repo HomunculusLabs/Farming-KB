@@ -20,7 +20,7 @@ type: concept
 
 ## Overview
 
-In "The Road Back to Nature," Masanobu Fukuoka draws a striking contrast between how Westerners and Japanese people approach fundamental lifestyle changes such as adopting [[natural-diet]]. Based on his observations of foreign visitors to his farm and his travels through Europe and America, Fukuoka argues that Westerners possess a quality of simplicity and single-minded commitment that the Japanese have largely lost. This cultural comparison has significant implications for the [[pf-tek-global-spread-and-cultural-impact]] of natural farming and related ecological movements.
+In "The Road Back to Nature," Masanobu Fukuoka draws a striking contrast between how Westerners and Japanese people approach fundamental lifestyle changes such as adopting [[pf-tek-global-spread-and-cultural-impact]] of natural farming and related ecological movements.
 
 ## The Western Approach to Zen and Natural Living
 
@@ -38,11 +38,7 @@ The Japanese approach to decision-making, as Fukuoka describes it, involves a ch
 
 This pattern extends beyond spiritual practice into all areas of Japanese life, including agriculture, diet, and cultural identity. The Japanese "have lost their simplicity and reason with their minds" rather than acting from conviction. Their decisions are always qualified, always hedged, always subject to revision based on the next piece of information or the next social pressure.
 
-Fukuoka sees this as a modern development, a loss of the directness and simplicity that characterized traditional Japanese culture. The acceleration of modernization after World War II has left the Japanese caught between their own traditions and Western models, able to fully commit to neither. The [[fukuoka-textdoc-postwar-japanese-agricultural-mechanization-collapse]] person is a perpetual hybrid, adopting Western technology and consumer habits while paying lip service to traditional values, mastering neither the old ways nor the new ones.
-
-## Dietary Commitment as a Case Study
-
-Fukuoka's most detailed example of this cultural divergence concerns dietary practices. Westerners who adopt a [[natural-farming]] is most likely to succeed. He notes that "practically no one in Japan is practicing natural farming" while "the rapid increase over the past few years in the number of those practicing it abroad" is remarkable. He attributes this to the Western capacity for making decisions and following them through, even in the face of social pressure and the absence of full understanding.
+Fukuoka sees this as a modern development, a loss of the directness and simplicity that characterized traditional Japanese culture. The acceleration of modernization after World War II has left the Japanese caught between their own traditions and Western models, able to fully commit to neither. The [[natural-farming]] is most likely to succeed. He notes that "practically no one in Japan is practicing natural farming" while "the rapid increase over the past few years in the number of those practicing it abroad" is remarkable. He attributes this to the Western capacity for making decisions and following them through, even in the face of social pressure and the absence of full understanding.
 
 Fukuoka expresses admiration for this quality: "I cannot help admiring the ability of Westerners to make decisions and follow them through." He predicts that "this simplicity will be what counts" in determining which cultures successfully transition to more ecological ways of living. The willingness to persist with a practice even without full intellectual understanding may be more important than the sophistication of one's theoretical framework.
 
@@ -50,29 +46,10 @@ Fukuoka expresses admiration for this quality: "I cannot help admiring the abili
 
 Fukuoka's observations fit within a larger pattern of postwar Japanese cultural hybridization. The Japanese education system, rebuilt under American occupation, emphasized Western science and rationalism. Traditional agricultural knowledge, passed down through generations of village practice, was devalued as backward and unscientific. Young people left farming villages for cities, and those who remained adopted chemical agriculture as the modern, progressive approach.
 
-The result is a culture that has access to both traditional and modern knowledge but commits fully to neither. The Japanese farmer applies [[cervantes-chemical-fertilizers-guide]] according to soil test recommendations while maintaining token [[fukuoka-change-come-over-westerners]]
-- [[fukuoka-natural-diet-philosophy]]
+The result is a culture that has access to both traditional and modern knowledge but commits fully to neither. The Japanese farmer applies [[fukuoka-change-come-over-westerners]]
 - [[fukuoka-japanese-diet-worse]]
-- [[fukuoka-natural-farming-philosophy]]
 - [[fukuoka-natural-farming-spiritual-light]]
-- [[fukuoka-road-spiritual-aspects-farming]]
-## Practical Considerations
-
-When working with Western Commitment Versus Japanese Halfheartedness in Natural Farming, several practical factors should be
-carefully considered to achieve optimal results. These include
-the specific conditions of the implementation context, available
-resources, timing requirements, and the interactions between this
-topic and other elements of the broader system. A holistic view
-that considers these interconnections produces better outcomes.
-
-Environmental conditions such as temperature, moisture, and
-seasonal patterns significantly influence results. Monitoring these
-variables and adapting practices accordingly is essential for success.
-The most effective practitioners develop keen observation skills and
-respond flexibly to changing conditions rather than following rigid
-protocols regardless of circumstances or local variation.
-
-[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
+- [[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -111,8 +88,6 @@ through generations to modern scientific approaches, the evolution continues
 to inform current best practices and research directions.
 
 ## See Also
-- [[masanobu-fukuoka]]
 - [[doc]]
-- [[det]]
 - [[natural-farming]]
 - [[fukuoka-western-cooking-taste-numbing-japanese-food-boom]]

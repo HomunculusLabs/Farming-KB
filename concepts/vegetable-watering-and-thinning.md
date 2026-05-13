@@ -15,11 +15,7 @@ vegetable gardens, based on Purdue Extension recommendations.
 Consistent watering and correct spacing are essential for producing
 high-quality vegetables.
 
-Related: [[vegetable-weed-control-and-mulching]],
-[[vegetable-weed-control-and-mulching]] — [[hamilton-geoffhamilton-nick-organic-gardening-mulching-and-weed-suppression]] control
-- [[garden-location-and-soil-preparation]] — [[fukuoka-creating-natural-farm-site-selection-establishment]] and soil
-  preparation
-- [[vegetable-garden-guide]] — Comprehensive [[home-vegetable-garden-planning]]
+Related: [[vegetable-weed-control-and-mulching]] — [[garden-location-and-soil-preparation]] — [[vegetable-garden-guide]] — Comprehensive [[home-vegetable-garden-planning]]
   reference
 ## Practical Applications
 

@@ -4,17 +4,7 @@ source: ben-lemon-cannabis-alchemy.md
 type: concept
 ---
 
-# High-Volume Cannabis Extraction and [[fractional-distillation]]
-
-The small-scale kitchen [[lemon-cannabis-alchemy-high-volume-extraction-method]] scales to industrial volumes using apparatus built from 55-gallon oil drums. At this scale, the same chemical principles apply — refluxing, soxhleting, distillation, and solvent collection — but the engineering challenges of handling large volumes of flammable solvents demand more robust safety systems. Beyond extraction, [[lemon-cannabis-alchemy-advanced-refinement-techniques]] including fractional distillation under vacuum can produce oils of 30–60% THC purity, and with additional effort, nearly pure THC.
-
-## High-Volume Extraction Apparatus
-
-### Design Philosophy
-
-The apparatus is constructed using two 55-gallon oil drums and equipment from hardware or surplus stores. It is designed to:
-
-- Handle very large amounts of marijuana or [[hashish]]
+# High-Volume Cannabis Extraction and [[lemon-cannabis-alchemy-high-volume-extraction-method]] scales to industrial volumes using apparatus built from 55-gallon oil drums. At this scale, the same chemical principles apply — refluxing, soxhleting, distillation, and solvent collection — but the engineering challenges of handling large volumes of flammable solvents demand more robust safety systems. Beyond extraction, [[hashish]]
 - Perform all operations: refluxing, soxhleting, distilling, and solvent collection
 - Incorporate necessary safety features for working with large volumes of flammable solvents
 
@@ -92,28 +82,7 @@ Solvent is removed from solution and collected by:
 
 ### Distillation and Solvent Collection
 
-1. The [[cannabis-oil-capsules-preparation]]/solvent mixture is replaced in the lower drum
-2. The funnel (held by the soxhlet chamber) collects recondensed pure solvent drops
-3. The solvent runs through a hose to the side valve, then to a receiving barrel
-4. When all solvent is evaporated, a heavy oil film coats the drum bottom
-5. This oil is redissolved in a small amount of solvent and stored in an unbreakable container
-
-### Soxhleting at Scale
-
-1. The damp powdered cannabis is replaced in the drum
-2. Clean solvent (just removed and collected) is added until the cannabis is saturated, with several inches of solvent in the drum bottom
-3. The apparatus is assembled and operated as for refluxing
-4. After several hours, all oil is dissolved in the solvent
-5. The solution is distilled and collected as before
-6. Remaining oil in the drum is dissolved in alcohol and removed
-
-### Multiple Extraction Rounds
-
-The process of refluxing, draining, collecting solvent, and replacing the cannabis for another round is repeated. Each round recovers additional oil. The combined solutions are accumulated in a large metal pot (of known weight) for final solvent removal.
-
-## Advanced Refinement Techniques
-
-The translucent amber oil produced by charcoal filtering the ether phase and isomerizing [[cbd-to-thc-isomerization-chemistry]] typically contains **30–60% THC**. Further refinement through fractional distillation and chemical isolation can produce much higher purity.
+1. The [[cbd-to-thc-isomerization-chemistry]] typically contains **30–60% THC**. Further refinement through fractional distillation and chemical isolation can produce much higher purity.
 
 ### Fractional Distillation
 
@@ -121,15 +90,7 @@ Fractional distillation requires heating the oil to a high temperature under **r
 
 Fractional distillation can yield a product up to **twice as strong** as the ether-phase oil and can approach nearly pure THC.
 
-### [[roger-adams]]' 1940 Method (Historical Reference)
-
-A foundational laboratory method for cannabis oil refinement was documented by Roger Adams in the *Journal of the American Chemical Society* (Volume 62, 1940, p. 198):
-
-**Plant Material:** Wild hemp grown in Minnesota (1938 season), cut after flowering began but before seed set in female tops, stored for six weeks to dry.
-
-**Countercurrent Extraction:**
-- Four 20-gallon crocks, each holding 23 pounds of material
-- 61 liters of 95% [[ethanol]] per crock; 40 liters withdrawn per transfer, 20 liters retained by the cannabis
+### [[ethanol]] per crock; 40 liters withdrawn per transfer, 20 liters retained by the cannabis
 - Transfers made once or twice daily as needed
 - Most concentrated extract held approximately 2 gm solids per 100 cc
 

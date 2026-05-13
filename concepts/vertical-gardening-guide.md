@@ -9,7 +9,7 @@ sources: []
 
 # Vertical Gardening Guide
 
-Vertical gardening uses trellises, towers, walls, and other structures to grow plants upward, dramatically increasing [[cotter-growing-space-design-fruiting-rooms]] per square foot of ground. It is essential for [[edible-landscaping]] in small spaces and maximizes light exposure in [[food-forest-design]] understory layers.
+Vertical gardening uses trellises, towers, walls, and other structures to grow plants upward, dramatically increasing growing space per square foot of ground. It is essential for [[edible-landscaping]] in small spaces and maximizes light exposure in [[food-forest-design|food forest]] understory layers.
 
 ## Trellises
 
@@ -31,7 +31,7 @@ The most common and versatile vertical gardening structure. Trellises support cl
 
 **Obelisk or Pyramid Trellis**
 - Tapered, freestanding structure — decorative and functional
-- Ideal for pole beans, [[sacred-mexican-morning-glories-ololiuqui-and-tlitliltzin]], climbing roses
+- Ideal for pole beans, morning glories, climbing roses
 - Creates strong visual focal point in garden beds
 
 **Teepee Trellis**
@@ -48,7 +48,7 @@ The most common and versatile vertical gardening structure. Trellises support cl
 
 ## Tower Gardens
 
-[[coleman-greenhouse-tomato-vertical-growing]] towers that hold multiple plants in a compact, upright format.
+Vertical growing towers that hold multiple plants in a compact, upright format.
 
 ### DIY Bucket Tower
 - Stack 5-gallon buckets with holes cut in the sides for planting
@@ -93,7 +93,7 @@ Vertical gardens where plants grow in panels or pockets attached to a wall surfa
 - **Weight**: Wet soil is heavy — 15-25 lbs per square foot; ensure wall can support load
 - **Waterproofing**: Install waterproof membrane between living wall and building wall
 - **Drainage**: Include drainage tray or channel at the bottom
-- **Irrigation**: [[cervantes-drip-irrigation-systems]] essential; hand-watering is impractical
+- **Irrigation**: Drip irrigation essential; hand-watering is impractical
 - **Sun exposure**: Most living walls need at least 6 hours of direct sun
 - **Plant selection**: Shallow-rooted plants only — no deep-rooted vegetables
 - **Maintenance**: Regular watering, occasional fertilizing, replanting as needed
@@ -113,7 +113,7 @@ Upcycled shipping pallets converted into vertical planters.
 - Use only heat-stamped pallets marked **HT** (heat-treated)
 - Never use pallets marked **MB** (methyl bromide — toxic pesticide)
 - Avoid pallets from unknown sources (may have chemical spills or contamination)
-- Line with [[comparison-mulch-types-and-effects-vs-landscape-fabric-alternatives]] to contain soil and prevent leaching
+- Line with landscape fabric to contain soil and prevent leaching
 
 ### Construction Methods
 
@@ -140,11 +140,10 @@ The simplest and cheapest vertical support system, ideal for lightweight climber
 - Space strings 6-12 inches apart
 - Train vines to climb by wrapping tendrils around string
 
-### Best Uses
-- Pole beans (train around strings, they self-climb)
-- Cucumbers (may need help initially)
-- Peas (naturally twine around string)
-- Malabar spinach, climbing nasturtium
+## See Also
 
-### Advantages
-- Extremely low cost (jute twine is biodegradable)
+- [[permaculture-plant-stacking-vertical-guilds]]
+- [[coleman-vertical-trellis-growing-greenhouse-tomatoes]]
+- [[coleman-greenhouse-tomato-vertical-growing]]
+- [[urban-rooftop-and-vertical-gardening]]
+- [[comparison-vertical-gardening-vs-container-gardening]]

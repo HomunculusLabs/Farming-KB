@@ -14,24 +14,9 @@ sources:
   - Smith, W.H. (1978). "Nutrient losses from American hazelnut litter and soil." Plant and Soil, 50(1), 21-32.
   - Corden, T.C. (2005). "American hazelnut as an alternative crop for the Midwest." HortTechnology, 15(3), 510-514.
   - Andrews, M. (2011). "The use of nitrogen isotope ratios in environmental studies." In Nitrogen in the Environment. Elsevier.
-  - Molano-Flores, B. (2001). "[[clarke-marijuana-botany-sex-determination-reproductive-biology]] of Corylus americana." American Midland Naturalist, 145(1), 65-72.
----
+  - Molano-Flores, B. (2001). "[[guzman-psilocybin-mushrooms-north-america]].
 
-## Overview
-
-Corylus americana, commonly known as American hazelnut, is a deciduous shrub in the family Betulaceae native to eastern and central [[guzman-psilocybin-mushrooms-north-america]].
-
-The species produces edible nuts that are smaller but similarly flavored to commercially grown European hazelnuts from [[corylus-avellana]].
-
-American hazelnut is an ecologically important understory shrub that provides food and habitat for numerous wildlife species.
-
-The plant is increasingly recognized for its potential as a sustainable nut crop in agroforestry and permaculture systems.
-
-## Taxonomy and Morphology
-
-Corylus americana Marshall, family Betulaceae, tribe Coryleae. The species was described by Humphry Marshall in 1785 from Pennsylvania collections.
-
-The genus Corylus contains approximately 15 to 20 species of deciduous trees and shrubs distributed across [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]] of the Northern Hemisphere.
+The species produces edible nuts that are smaller but similarly flavored to commercially grown European hazelnuts from [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]] of the Northern Hemisphere.
 
 American hazelnut typically grows as a multi-stemmed shrub 2 to 4 meters tall, occasionally reaching 5 meters under favorable conditions.
 
@@ -55,25 +40,7 @@ Nuts ripen in late summer to early autumn, turning brown as the involucres dry a
 
 ## Distribution and Habitat
 
-Corylus americana ranges from Maine and Nova Scotia west to Minnesota, [[polypore-fungi-eastern-north-america]] Dakota, and south to Georgia and Oklahoma.
-
-The species is most abundant in the central hardwood forest region, particularly in Ohio, Indiana, Illinois, Iowa, and Missouri.
-
-American hazelnut occupies a wide ecological range from dry upland woods and forest margins to bottomland forests and stream banks.
-
-The species is a common component of oak-hickory and maple-basswood forest understories throughout its range.
-
-It is also found in prairie edges, fencerows, old fields, and disturbed sites where it colonizes rapidly from seed or rhizome.
-
-Optimal growth occurs in deep, moist, well-drained loam soils with a pH of 5.5 to 7.0.
-
-The species tolerates partial shade to full sun, though nut production is greatest in open conditions with at least six hours of direct sunlight.
-
-American hazelnut is winter-hardy to USDA zone 3, making it more cold-tolerant than the European species Corylus avellana.
-
-## Ecology and Wildlife Value
-
-American hazelnut is among the most important mast-producing shrubs for wildlife in eastern [[growing-gourmet-north-american-reishi-species]] forest ecosystems.
+Corylus americana ranges from Maine and Nova Scotia west to Minnesota, [[growing-gourmet-north-american-reishi-species]] forest ecosystems.
 
 The nuts are consumed by numerous bird species including wild turkey, ruffed grouse, woodpeckers, blue jays, and red-bellied woodpeckers.
 
@@ -88,3 +55,88 @@ American hazelnut is a larval host plant for several moth species, including the
 The catkins provide early-season pollen for bees and other pollinating insects emerging from winter dormancy.
 
 Root systems contribute to soil stabilization on slopes and stream banks, reducing erosion in riparian areas.
+
+## Overview
+
+Corylus Americana represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish corylus americana
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving corylus extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Corylus Americana finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for corylus americana. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+corylus americana and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Corylus Americana has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of corylus americana into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[brunfelsia-americana]]
+- [[corylus-avellana]]
+- [[corylus-cornuta]]
+- [[corylus-maxima]]
+- [[genipa-americana]]

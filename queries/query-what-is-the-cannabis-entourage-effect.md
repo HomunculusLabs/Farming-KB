@@ -37,25 +37,13 @@ suggests that the minor cannabinoids like CBG, CBC, CBN, and THCV, along with th
 terpene profile, contribute meaningfully to the overall therapeutic outcome. For
 example, myrcene (a terpene) is thought to enhance THC's ability to cross the
 blood-brain barrier, while pinene may counteract some of THC's memory-impairing
-effects. The [[cannabis-terpene-and-aroma-chemistry-clarke]] page covers the chemistry behind
-these terpene-cannabinoid interactions and their impact on the consumer experience.
-
-The practical implications of the entourage effect are significant for both medical
-patients and recreational consumers. A high-THC cannabis variety rich in myrcene and
-caryophyllene may produce a deeply relaxing body effect, while a similar THC level
-in a variety dominated by pinene and limonene may produce a more cerebral, energetic
-experience. This helps explain why different cannabis strains with similar THC
-percentages can produce dramatically different effects. Growers can influence the
-entourage effect through their cultivation practices by optimizing conditions that
-promote terpene and [[cannabis-concentrates-and-extracts]] page covers different extraction methods and
-their impact on the entourage effect. Understanding [[cannabis-cbd-therapeutic-profile]]
-and [[cannabis-terpene-entourage-effect]] provides detailed compound interaction
+effects. The [[cannabis-concentrates-and-extracts]] page covers different extraction methods and
+their impact on the entourage effect. Understanding [[cannabis-terpene-entourage-effect]] provides detailed compound interaction
   profiles and strain-specific entourage analysis
 - Full-spectrum products generally outperform isolates due to preserved entourage
   compound interactions; processing methods significantly impact the entourage effect
 
 ## Related Questions
-- [[query-how-to-maximize-terpene-and-resin-production-in-cannabis]]
 - [[query-what-is-the-difference-between-sativa-indica-and-hybrid-cannabis]]
 ## Practical Considerations
 

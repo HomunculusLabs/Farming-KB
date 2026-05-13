@@ -13,25 +13,7 @@ sources: [raw/papers/shulgin-a-pihkal.md]
 
 ## Chemical Classification
 
-- Family: [[mdma-compound-profile]]
-substitute since it opens things up but it doesn't do anything to get in the
-way."
-
-(with 75 mg) "I am already aware at a quarter of an hour into it! It develops
-very quickly but very quietly. There are no visuals at all but, rather, a
-tactile sensitivity, with warm close feelings. This could be very erotic.
-There is some fantasy to music, but nothing very demanding. The drop-off was
-extremely relaxed, with a good body feeling. At the fifth hour I was able to
-drift into an excellent, deep sleep with busy dreams. In the morning I felt
-refreshed and active, without apparent deficit."
-
-(with 75 mg) "I got up to a thin and fragile plus two, but there was a
-continuing feeling of a hooded cloak brought down over my head. Nothing
-obvious -- it is transparent -- but it somehow separated me from everything
-around me. I do not think the overall experiment was worth it."
-
-(with 100 mg) "Material all right, but a little bit along the lines of a
-'generic' psychedelic effect. Sharper edges than [[2c-b-compound-profile]]|2C-B.
+- Family: [[2c-b-compound-profile]]|2C-B.
 The one true negative, which has been pretty consistent with this drug, is
 that there is a certain emotional removal. One teeny step removed. One is
 connected with feelings, certainly, but there is a tendency for the intellect
@@ -48,18 +30,7 @@ later."
 ## Extensions and Commentary
 
 The earliest work with the sulfur atom was with the three-carbon chain
-materials, the [[aleph-7-pihkal-entry-7]], there was a
-lapse of about four years between their trials. The relatively low potency
-of 2C-T was a bit discouraging.
-
-But the methodical pursuit of the higher 2C-T's (to parallel the higher
-ALEPHs) proved to be a treasure house, and they have been explored much
-further than any of the ALEPHs.
-
-## Naming Convention
-
-Many of the 2C compounds have their name based on the last letter of the
-amphetamine prototype: 2C-B from [[doi-compound-profile]], 2C-N from DON, etc. Since the
+materials, the [[doi-compound-profile]], 2C-N from DON, etc. Since the
 original name for ALEPH-1 was DOT (desoxy- with a thiomethyl group at the
 4-position), the 2C-T naming followed this general pattern. The subsequent
 numbering of 2C-T compounds (2C-T-2, 2C-T-4, etc.) is assigned in strict
@@ -84,22 +55,8 @@ Both mono-ethoxy Tweetios of 2C-T have been synthesized and evaluated:
   (12-25 mg), longer-acting (6-8 h), and widely used in therapeutic settings
 - 2c-t-7-compound-profile|2C-T-7: The heptylthio homologue; one of the
   most potent 2C-T compounds (10-30 mg), 8-15 h duration
-- [[aleph-7-pihkal-entry-7]]: The 3-carbon (amphetamine) homologue of
-  2C-T, originally code-named DOT
-
-## Character Assessment
-
-## Practical Applications
-2C T Pihkal Entry 39 has significant applications in sustainable agriculture, ecological design, and regenerative practices. Practitioners and researchers continue to explore innovative methods for implementing these concepts in diverse climates and scales of operation.
-
-## Historical Significance
-The development and understanding of 2c t pihkal entry 39 has evolved considerably over recent decades, with contributions from researchers, practitioners, and indigenous knowledge systems worldwide.
-
-## See Also
 - [[2c-t-4-pihkal-entry-41]]
-- [[2c-i-pihkal-entry-33]]
 - [[2c-e-pihkal-entry-24]]
-- [[aem-pihkal-entry-1]]
 - [[aleph-7-pihkal-entry-7]]
 
 ## Key Considerations
@@ -124,8 +81,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[mdma]]
 - [[bis-tom-pihkal-entry-12]]
-- [[pihkal-entry-46]]
 - [[2c-c-pihkal-entry-22]]
 - [[bob-pihkal-entry-13]]

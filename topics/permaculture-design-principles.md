@@ -23,18 +23,7 @@ Permaculture is a design system for creating sustainable human habitats and
 agricultural systems. Developed in the 1970s by Australians Bill Mollison and 
 David Holmgren, the term is a contraction of "permanent agriculture" and, by 
 extension, "permanent culture." Permaculture draws on principles from ecology, 
-indigenous land management, [[mollison-designers-appropriate-technology-small-scale-tools]], and systems thinking to 
-create landscapes that are productive, resilient, and self-maintaining. At its 
-core, permaculture is about working with nature rather than against it, 
-observing natural patterns and processes and then designing human systems that 
-mimic and integrate with those patterns to meet human needs while regenerating 
-the environment.
-
-The ethical foundation of permaculture rests on three principles: care for the 
-Earth, care for people, and fair share, also called return of surplus or limits 
-to consumption and reproduction. These ethics are not merely philosophical 
-ideals but practical design criteria that guide every decision in a 
-permaculture system. Every element in a well-designed [[holzer-permaculture-landscape-design]] 
+indigenous land management, [[holzer-permaculture-landscape-design]] 
 should ideally serve multiple functions and be supported by multiple elements, 
 creating a web of beneficial relationships that reduces external inputs and 
 increases overall system resilience. This approach stands in contrast to 
@@ -61,37 +50,17 @@ system, from a backyard garden to a regional economy. Each principle can be
 applied at multiple scales and in diverse contexts, making permaculture a 
 versatile and adaptable design approach.
 
-The first principle, [[holmgren-observe-and-interact-detailed]], emphasizes the importance of 
-careful, prolonged observation of a site and its patterns before making design 
-decisions. Good permaculture design begins with understanding what already 
-exists: the lay of the land, the movement of water and sunlight, existing 
-vegetation and wildlife, seasonal patterns, microclimates, and the ways in 
-which people currently use the space. Observation is not passive. It involves 
-active engagement with the landscape through all seasons and at different times 
-of day. Only after developing a deep understanding of the site should the 
-designer begin to intervene. This principle also recognizes that observation 
-must be ongoing, as the designer interacts with the system, observes the 
-results, and adapts accordingly.
-
-The second principle, [[permaculture-principle-catch-and-store-energy]] Energy, directs the designer to identify 
+The first principle, [[permaculture-principle-catch-and-store-energy]] Energy, directs the designer to identify 
 and capture flows of energy that pass through the system. In permaculture, 
 "energy" is broadly defined to include sunlight, water, wind, biomass, heat, 
 and even human labor and money. Conventional systems often allow these energies 
 to flow through wastefully. A permaculture designer seeks to intercept and 
 store them for later use. Examples include harvesting rainwater in cisterns and 
-ponds, using [[comparison-passive-solar-vs-earth-sheltered]] design to heat buildings, building soil organic 
-matter as a carbon and nutrient store, and planting food forests that capture 
-and store solar energy as productive biomass. The more energy a system can 
-capture and retain within itself, the more resilient and self-sufficient it 
-becomes.
-
-The third principle, [[holmgren-obtain-a-yield-detailed]], reminds the designer that any sustainable 
+ponds, using [[holmgren-obtain-a-yield-detailed]], reminds the designer that any sustainable 
 system must produce tangible outputs that meet human needs. This is a 
 ## See Also
 
-[[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]]
 [[bill-mollison-permaculture-a-designers-manual-zone-and-sector-analysis]]
-[[bill-mollison-permaculture-a-designers-manual-edge-effect-and-ecotone-design]]
 [[bill-mollison-permaculture-a-designers-manual-guild-design-in-permaculture]]
 edge-effect-in-permaculture faires-zone-and-sector-planning
 gaias garden edge effect

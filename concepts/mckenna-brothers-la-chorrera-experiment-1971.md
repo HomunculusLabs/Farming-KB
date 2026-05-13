@@ -18,10 +18,7 @@ type: concept
 
 ## The Attempt to Bond Psilocybin into DNA in the Colombian Amazon
 
-In the early months of 1971, brothers [[la-chorrera-experiment-mckenna]]
-
-- [[mckenna-dmt-experience-and-hyperspace]]
-- [[psilocybin-mushroom-chemistry]]
+In the early months of 1971, brothers [[mckenna-dmt-experience-and-hyperspace]]
 - [[shroom-cultural-history-hippie-revolution-and-counterculture]]
 ## Practical Applications
 

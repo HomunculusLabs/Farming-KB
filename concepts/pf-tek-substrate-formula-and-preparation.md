@@ -1,6 +1,6 @@
 ---
 title: Pf Tek Substrate Formula And Preparation
-source: "PF TEK - [[pf-tek-psilocybe-fanaticus]] (1996)"
+source: "PF TEK - pf-tek-psilocybe-fanaticus (1996)"
 tags: [cultivation, pf-tek, substrate, vermiculite, brown-rice, sterilization]
 created: 2026-05-09
 ---
@@ -10,11 +10,7 @@ created: 2026-05-09
 ## Overview
 
 The PF TEK (Psilocybe Fanaticus Technique) is a revolutionary cultivation method
-introduced in 1991-1992 that enabled easy growing of [[brassinosteroid-growth-promotion-psilocybe-cubensis]] using
-common kitchen utensils and readily available supplies. The technique's innovation
-lies in its use of vermiculite as a structural base with pulverized brown rice as
-the nutrient source, creating an airy substrate that supports mycelial growth while
-allowing steam sterilization with regular cookware — no [[pf-tek-pressure-canner-sterilization]] required.
+introduced in 1991-1992 that enabled easy growing of [[pf-tek-pressure-canner-sterilization]] required.
 The method has been copied worldwide and remains one of the most influential
 cultivation approaches ever developed.
 
@@ -24,8 +20,7 @@ The fundamental innovation of the PF TEK is the use of vermiculite as the substr
 structure. When mycelium is cultured in grain alone, it forms a dense mass with
 little air space. But when grown with vermiculite, the mycelial threads stretch
 across the airy spaces between vermiculite particles, creating a more robust and
-healthy [[gadd-mycelial-network-dynamics]]. Additionally, the PF TEK copies nature by employing mass
-spore inoculation directly onto the [[pf-tek-maximum-fruiting-substrate-formula]] rather than cloning mushroom
+healthy [[pf-tek-maximum-fruiting-substrate-formula]] rather than cloning mushroom
 tissue. This preserves the complete genotype and eliminates senescence (mutating
 and ceased fruiting) that plagues cloned cultures, ensuring a never-ending
 succession of fungus with full reproductive vigor.
@@ -87,3 +82,7 @@ level it off at the jar rim. This upper dry vermiculite layer is the critical
 innovation of the PF TEK — it acts as a contaminant barrier that protects the
 wet substrate from airborne contaminants while also absorbing and regulating
 moisture transpiration and condensation.
+
+## See Also
+
+- [[pf-tek-substrate-formula-and-jar-preparation-method]]

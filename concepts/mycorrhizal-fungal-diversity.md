@@ -15,18 +15,8 @@ associations classified by morphology and the fungal groups involved, each
 representing an independent evolutionary origin of the plant-fungal
 partnership.
 
-**[[mycorrhiza]], associating with over 70% of terrestrial plant species
-including most agricultural crops. Characterized by intracellular
-arbuscules — tree-like branching structures inside root cortical cells
-where [[arbuscule-isolation-and-nutrient-exchange-mechanisms]] occurs — AMF are obligate symbionts that cannot
+**[[arbuscule-isolation-and-nutrient-exchange-mechanisms]] occurs — AMF are obligate symbionts that cannot
 complete their life cycle without a living host plant.
-
-**[[query-what-are-ectomycorrhizal-fungi-and-which-plants-do-they-associate-with]] (EMF):** Primarily Basidiomycota and Ascomycota,
-these form associations mainly with woody plants in Pinaceae, Fagaceae,
-Betulaceae, Dipterocarpaceae, and related families. The fungus forms a
-dense sheath (mantle) around root tips and a Hartig net of hyphae between
-root cortical cells. EMF are ecologically dominant in temperate and boreal
-forests, where they can constitute the majority of soil microbial biomass.
 
 **[[dighton-ericoid-mycorrhizal-nutrient-acquisition]] Fungi:** A diverse group of Ascomycetes associated
 with plants in the Ericaceae family (heaths, heathers, blueberries,
@@ -67,13 +57,9 @@ families or soil conditions. EMF tend to be more host-specific, with many
 species associating primarily with a single tree genus or family, though
 some generalist EMF species associate with multiple host families.
 
-[[common-mycorrhizal-networks]], influencing
-forest regeneration, competitive dynamics, and successional trajectories.
-
-These networks can also transmit [[query-how-do-plants-use-chemical-signals-to-defend-against-insects]] between plants. When one
+[[query-how-do-plants-use-chemical-signals-to-defend-against-insects]] between plants. When one
 plant is attacked by herbivores or pathogens, defense signals may propagate
-through the [[arbuscular-mycorrhizal-network-visualization-anastomosis]] to neighboring plants, priming their
-defenses before attack. This "[[dighton-mycorrhizal-diversity-ecosystem-function]]
+through the [[dighton-mycorrhizal-diversity-ecosystem-function]]
 - [[arbuscular-mycorrhizal-fungal-diversity-patterns-distribution]]
 ## Practical Considerations
 

@@ -12,7 +12,7 @@ source: raw/papers/grahamholmes-what-a-plant-knowsindd.md
 The discovery that plants measure the length of continuous darkness
 (rather than day length) and that this measurement can be disrupted
 by brief light flashes has been transformative for commercial
-agriculture. Daniel Chamovitz describes in "What a Plant Knows" how
+agriculture. [[daniel-chamovitz]] describes in "What a Plant Knows" how
 the **night-break technique** — turning lights on for just a few
 minutes in the middle of the night — allows growers to precisely
 control when plants flower, enabling year-round production of
@@ -141,8 +141,6 @@ times through photoperiodic response manipulation.
 Beyond chrysanthemums, night-break technology is used commercially
 ## See Also
 
-- [[garner-allard-maryland-mammoth-tobacco-experiment]]
 - [[chamovitz-red-far-red-phytochrome-switch-and-plant-memory]]
-- [[borthwick-far-red-reversal-photoperiodic-discovery]]
 - [[photoperiodism-phytochrome-red-far-red]]
 - [[cannabis-photoperiod-flowering-cycle]]

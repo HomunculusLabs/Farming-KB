@@ -6,31 +6,7 @@ tags:
   - datura
   - solanaceae
   - tropane-alkaloids
-  - [[shamanism]]
-date: 2026-04-28
-updated: 2026-04-28
-sources:
-  - /Users/t3rpz/wiki/raw/papers/plants-of-the-gods-schultes-hofmann.md
-type: concept
----
-
-# Datura Species: Holy Flower of the North Star
-
-## Overview of a Widespread Genus
-
-The genus Datura comprises 14 to 16 species distributed in
-tropical and warm-temperate zones of both hemispheres. In both
-hemispheres, Datura played highly significant roles in native
-cultures. All types of Datura contain the hallucinogenic tropane
-alkaloids [[scopolamine]], [[hyoscyamine]], and some atropine. The effects
-of all species are similar since their constituents are so much
-alike.
-
-## Datura innoxia: Toloache
-
-The most extensive use of Datura centers in Mexico and the
-American Southwest, where the most important psychoactive species
-seems to be [[datura-innoxia]]. This is the famous Toloache of Mexico,
+  - [[scopolamine]], [[datura-innoxia]]. This is the famous Toloache of Mexico,
 one of the plants of the gods among the Aztecs and other Indians.
 
 Datura innoxia is a herbaceous perennial up to 3 feet (1 m) tall,
@@ -50,23 +26,7 @@ a good feeling and visions."
 
 ## Datura metel
 
-In the [[datura-metel-old-world-ethnobotany]], the most culturally important species for
-medicinal and hallucinogenic use is D. metel, native probably to
-the mountainous regions of Pakistan or Afghanistan westward. It
-is a spreading herb, sometimes becoming shrubby, 3-6 feet (1-2 m)
-tall. The triangular-ovate, sinuate leaves measure 5.5 to 8.5
-inches (14-22 cm) long. The flowers may be purple, yellowish, or
-white, tubular, funnel- or trumpet-shaped, up to 6.5 inches (17
-cm) long. The flowers are primarily violet.
-
-## Datura stramonium: Thorn Apple
-
-[[datura-stramonium]] is an annual [[medicinal-herb-growing]] to about 4 feet (1.2
-m) with many-forked branches. The funnel-shaped flowers are
-5-pointed and among the smallest of the Datura species at 2-3
-inches (6-9 cm) long. The green egg-shaped fruit is covered with
-thorns and stands erect. Its origins are uncertain; some suggest
-the Caspian Sea region, others Mexico or [[psilocybin-north-america-pacific-northwest]].
+In the [[datura-stramonium]] is an annual [[psilocybin-north-america-pacific-northwest]].
 
 The Algonquin Indians of Virginia used a toxic medicine called
 wysoccan in their Huskanawing initiation ceremony. Youths were
@@ -88,3 +48,88 @@ The Yokut take the drug only during the spring, giving it to
 adolescent boys and girls only once in a lifetime to ensure a good
 and long life. The Tubatulabal drink Datura after puberty to
 "obtain life." The Yuman tribes believe that the reaction of
+
+## Overview
+
+Plants Of The Gods Datura Species Toloache represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish plants of the gods datura species toloache
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving plants extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Plants Of The Gods Datura Species Toloache finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for plants of the gods datura species toloache. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+plants of the gods datura species toloache and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Plants Of The Gods Datura Species Toloache has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of plants of the gods datura species toloache into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[hamilton-garden-ponds-and-aquatic-plants]]
+- [[holzer-kitchen-garden-herbs-and-medicinal-plants]]
+- [[permaculture-plants-aquatic-systems-water-plants]]
+- [[plants-of-the-gods-lophophora-peyote]]
+- [[query-how-do-i-fix-calcium-deficiency-in-plants]]

@@ -14,14 +14,7 @@ sources:
   - Sharpe, R.H. (1975). "Feijoas in Florida." Proceedings of the Florida State Horticultural Society, 88, 527–531.
   - Basile, A. et al. (1997). "Antibacterial activity of Feijoa sellowiana." Journal of Ethnopharmacology, 56(2), 171–174.
   - Crile, G. & Quiring, D.P. (1940). "Organ weights of the adult dog." American Journal of Anatomy, 67(2), 237–244.
-  - Westphalen, S.L. et al. (2020). "[[cordyceps-cancer-bioactive-compounds]] and antioxidant activity of feijoa." Food Research International, 137, 109673.
----
-
-## Overview
-
-**Feijoa sellowiana** (syn. *Acca sellowiana*) is an evergreen shrub or small tree in the family Myrtaceae, native to southern Brazil, Uruguay, Paraguay, and northern Argentina. It is widely known as feijoa, pineapple guava, and guavasteen. The edible fruit has a distinctive flavor blending pineapple, strawberry, and guava notes.
-
-The species was first described by Otto Karl Berg in 1857 and later reclassified into the genus *Acca* by M.L. Kawasaki in 2012. Despite the taxonomic revision, the name *Feijoa sellowiana* remains in widespread horticultural and commercial use. It is cultivated as a fruit crop in New Zealand, the United States, Italy, and parts of [[guzman-psilocybin-mushrooms-south-america]].
+  - Westphalen, S.L. et al. (2020). "[[guzman-psilocybin-mushrooms-south-america]].
 
 The genus name *Feijoa* honors João da Silva Feijó, an 18th-century Brazilian naturalist and collector. The specific epithet *sellowiana* commemorates Friedrich Sellow, a German botanist who collected extensively in southern Brazil. The common name "pineapple guava" reflects the characteristic flavor of the fruit and its familial relationship to guava species.
 
@@ -43,21 +36,7 @@ Leaves are opposite, simple, elliptic to obovate, 2 to 6 cm long and 1 to 3 cm w
 
 Flowers are solitary or borne in small axillary cymes, approximately 2.5 cm in diameter. They feature four fleshy, edible petals that are white on the inner surface and tinged with pink to purplish-red externally. The numerous stamens are prominent and crimson-red, making the flowers highly ornamental. Blooming occurs from late spring to early summer.
 
-The fruit is a fleshy, ellipsoid to ovoid berry, 2.5 to 7.5 cm long, with a waxy, blue-green to grayish-green skin. The flesh is juicy, cream-colored to translucent, and contains 20 to 40 small edible seeds embedded in a gelatinous pulp. Fruit matures in autumn, typically from March to May in the [[guzman-allen-gartz-africa-southern-hemisphere-underexplored-neurotropic-fungi]] and October to December in the Northern Hemisphere.
-
-The bark is pale gray and somewhat exfoliating on mature specimens. The wood is hard and dense, with a fine grain, though it is too small-dimensioned for commercial timber use. Branches are relatively brittle and may break under heavy fruit loads or strong winds.
-
-Fruit size varies considerably among cultivars and growing conditions. Commercially marketed feijoas typically weigh 30 to 80 g, though some cultivars produce fruit exceeding 200 g. The skin is thin but relatively tough, providing protection during handling and transport. Interior cavity size varies and is considered a quality factor in commercial grading.
-
-## Distribution and Habitat
-
-The species is native to the subtropical highlands of southern Brazil (Rio Grande do Sul, Santa Catarina, Paraná), Uruguay, eastern Paraguay, and the Argentinian provinces of Misiones and Corrientes. It occurs naturally in forest edges, riparian zones, and secondary growth areas at elevations between 300 and 1,200 meters.
-
-Naturalized populations exist in parts of New Zealand, the southeastern United States, the Azores, and the Caucasus region. In New Zealand, feijoa has become a significant commercial crop, with the country accounting for a substantial portion of global production. Italy has also emerged as a notable producer, particularly in the Liguria and Calabria regions.
-
-The species is self-pollinating to some degree, but cross-pollination by birds and insects significantly improves fruit set, size, and quality. Pollinators include bees, hoverflies, and native birds attracted to the showy red stamens. In commercial orchards, pollinizer varieties are interplanted to ensure adequate cross-pollination.
-
-The plant is adapted to mild temperate [[query-how-to-grow-rare-tropical-fruits-in-marginal-and-subtropical-climates]]. It tolerates brief frosts down to approximately -12 °C when dormant, though young plants and flowers are sensitive to freezing temperatures. Optimal growth occurs in areas with 600 to 1,200 mm of annual rainfall and well-drained, slightly acidic to neutral soils. The species shows moderate tolerance to coastal winds and salt spray, contributing to its popularity in seaside gardens.
+The fruit is a fleshy, ellipsoid to ovoid berry, 2.5 to 7.5 cm long, with a waxy, blue-green to grayish-green skin. The flesh is juicy, cream-colored to translucent, and contains 20 to 40 small edible seeds embedded in a gelatinous pulp. Fruit matures in autumn, typically from March to May in the [[query-how-to-grow-rare-tropical-fruits-in-marginal-and-subtropical-climates]]. It tolerates brief frosts down to approximately -12 °C when dormant, though young plants and flowers are sensitive to freezing temperatures. Optimal growth occurs in areas with 600 to 1,200 mm of annual rainfall and well-drained, slightly acidic to neutral soils. The species shows moderate tolerance to coastal winds and salt spray, contributing to its popularity in seaside gardens.
 
 In its native range, feijoa grows as an understory or edge species in subtropical forests, benefiting from partial shade during early development. This ecological background informs its adaptability to varied light conditions in cultivation, from full sun to dappled shade beneath taller trees.
 
@@ -65,15 +44,9 @@ In its native range, feijoa grows as an understory or edge species in subtropica
 
 *Feijoa sellowiana* is relatively easy to cultivate and is valued both as a fruit-bearing ornamental and as a hedge plant. It prefers full sun to partial shade and performs best in loamy, well-drained soils with a pH of 5.5 to 7.0. The species is moderately drought-tolerant once established, making it suitable for xeriscaping in appropriate climates.
 
-Young plants require regular irrigation during the first two [[jeavons-climate-adaptation-growing-seasons]]. Mature plants tolerate periods of reduced watering, though consistent moisture improves fruit quality and yield. Mulching around the base helps conserve soil moisture and suppress weed competition.
+Young plants require regular irrigation during the first two [[dighton-fungal-drought-tolerance-plant-water-relations]].
 
-Propagation is commonly achieved through seed, cuttings, or grafting. Seed-grown plants exhibit significant genetic variation and may take 3 to 5 years to bear fruit. Semi-hardwood cuttings rooted under mist produce true-to-type plants and bear fruit in 2 to 4 years. Named cultivars are typically propagated by grafting onto seedling rootstocks. This method ensures genetic fidelity while potentially conferring improved root system characteristics such as disease resistance and [[dighton-fungal-drought-tolerance-plant-water-relations]].
-
-Commercial cultivars include 'Triumph', 'Mammoth', 'Apollo', and 'Unique', each differing in fruit size, flavor, and yield. 'Triumph' is one of the most widely planted varieties, known for its reliable cropping and balanced flavor. 'Unique' is valued as a self-fertile cultivar suitable for home gardens. 'Apollo' requires cross-pollination but produces large, flavorful fruit. 'Mammoth' produces the largest fruit among commonly available cultivars but has a shorter [[harvest-window-cannabis]].
-
-The species is increasingly recognized for its potential in [[phosphate-accumulators-sustainable-agriculture]]. Its low water requirements, minimal fertilizer needs, and resistance to most [[mushroom-pests-and-diseases]] make it an attractive crop for organic and low-input farming systems in suitable climates.
-
-Pruning is typically performed after harvest to maintain shape and remove dead or crossing branches. The species responds well to hedging, making it popular as a screen or windbreak plant in coastal gardens. Fertilization with balanced NPK formulations applied in spring supports vigorous growth and [[query-how-do-i-prune-brambles-for-maximum-fruit-production]].
+Commercial cultivars include 'Triumph', 'Mammoth', 'Apollo', and 'Unique', each differing in fruit size, flavor, and yield. 'Triumph' is one of the most widely planted varieties, known for its reliable cropping and balanced flavor. 'Unique' is valued as a self-fertile cultivar suitable for home gardens. 'Apollo' requires cross-pollination but produces large, flavorful fruit. 'Mammoth' produces the largest fruit among commonly available cultivars but has a shorter [[phosphate-accumulators-sustainable-agriculture]]. Its low water requirements, minimal fertilizer needs, and resistance to most [[query-how-do-i-prune-brambles-for-maximum-fruit-production]].
 
 Major pests include the feijoa fruit fly (*Anastrepha fraterculus*) in South America and various scale insects and thrips in commercial plantings. Root rot caused by *Phytophthora* species can be problematic in poorly drained soils. The species is generally resistant to most foliar diseases, though leaf spot may occur under humid conditions.
 
@@ -83,8 +56,89 @@ Harvest timing is determined by fruit drop, as feijoas do not continue ripening 
 
 The fruit is rich in vitamin C, dietary fiber, and iodine. A 100 g serving provides approximately 55 kcal, 83 g water, 0.6 g protein, 0.5 g fat, 13 g carbohydrates, and 6.3 g dietary fiber. The vitamin C content ranges from 20 to 50 mg per 100 g, contributing significantly to the recommended daily intake.
 
-The aromatic flavor profile is attributed to a complex mixture of [[mycovolatiles-fungal-volatile-compounds]], predominantly methyl benzoate, ethyl benzoate, and various esters and aldehydes. The fruit is consumed fresh, often scooped from the skin with a spoon, or processed into jams, jellies, chutneys, juices, and desserts. In New Zealand, feijoa ice cream, wine, and cider are popular commercial products.
-
-In Brazil and Uruguay, feijoas are commonly eaten fresh as a seasonal treat during autumn. The pulp can be blended into smoothies or fermented into alcoholic beverages. Feijoa chutney pairs well with cheese and cured meats, and the fruit is increasingly used in artisanal food products in Europe and [[guzman-psilocybin-mushrooms-north-america]].
+The aromatic flavor profile is attributed to a complex mixture of [[guzman-psilocybin-mushrooms-north-america]].
 
 The iodine content of feijoa is notably higher than that of most other common fruits, a characteristic attributed to its native soils rich in iodine-bearing minerals. This makes it a useful dietary source in regions where iodine deficiency is a concern.
+
+## Overview
+
+Feijoa Sellowiana represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish feijoa sellowiana
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving feijoa extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Feijoa Sellowiana finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for feijoa sellowiana. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+feijoa sellowiana and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Feijoa Sellowiana has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of feijoa sellowiana into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[dicksonia-sellowiana]]
+- [[feijoa]]
+- [[feijoa-and-ugni-cool-climate-myrtaceous-fruits]]

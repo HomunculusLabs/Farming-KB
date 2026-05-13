@@ -1,12 +1,12 @@
 ---
-title: Incremental Design and Design Methods Summary
+title: [[incremental-design-in-permaculture]] and [[permaculture-design-methods-summary]]
 source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
 # Incremental Design and Design Methods Summary
 
-[[permaculture-design]] is not a single technique but a **synthesis of multiple complementary methods**. While incremental adaptation of proven designs is the most historically successful approach, it is insufficient alone for the complex, multi-priority systems that [[permaculture]] aims to create. This concept synthesizes the design methods presented in Mollison's framework and examines the role of incremental design within the broader methodology.
+[[permaculture]] aims to create. This concept synthesizes the design methods presented in Mollison's framework and examines the role of incremental design within the broader methodology.
 
 ## Incremental Design: The Historical Foundation
 
@@ -46,12 +46,9 @@ Mollison stresses that **all the design approaches outlined in permaculture are 
 
 ### The Methods in Combination
 
-The complete [[permaculture-design-process]] integrates:
-
-- **Observation** of site conditions, natural patterns, and existing systems
-- **[[zone-and-sector-analysis]]** for energy-efficient placement
+The complete [[zone-and-sector-analysis]]** for energy-efficient placement
 - **Slope, aspect, and elevation analysis** for three-dimensional optimization
-- **Guild and polyculture design** for species interaction benefits
+- **Guild [[garden-guilds-and-polyculture-design]]** for species interaction benefits
 - **[[water-conservation]] and keypoint planning** following Yeomans' principles
 - **Incremental adaptation** of proven design elements
 - **Ethical assessment** ensuring wilderness is preserved and home systems are efficient
@@ -78,7 +75,7 @@ Such designs may be economic in cash terms and efficient for one use only, yet b
 
 ### The Village Scale
 
-In village design, financial and space constraints create upper and lower size limits — a "break-even" point and an "optimum" number of houses per unit area. Neglecting social effects at this scale produces the same dysfunctions as building-scale failures.
+In [[integrated-land-management-and-village-design]], financial and space constraints create upper and lower size limits — a "break-even" point and an "optimum" number of houses per unit area. Neglecting social effects at this scale produces the same dysfunctions as building-scale failures.
 
 ## The Permaculture Design Contrast
 
@@ -86,7 +83,7 @@ Mollison's comparison between permaculture and conventional design reveals funda
 
 ### Permaculture Design Is:
 - **Stimulated by** a perceived social problem
-- **Subject to** values of energy conservation, self-reliance, and harmonious human occupancy
+- **Subject to** values of [[desert-house-water-energy-conservation]], self-reliance, and harmonious human occupancy
 - **Mediated by** consideration of long-term biosocial factors
 - **Achieved by** research and consultation with clients, assisting people to gain education in design
 - **Refined by** allowing space, finance, and feedback to adjust activity, and allowing for new or overlooked needs
@@ -110,7 +107,7 @@ Such programmes could deal with the fussy detail that now slows design — from 
 
 In whole farm planning, outlining areas of like soil, slope, or drainage will suggest sensible crops, treatments, fencelines, and land use generally. **If we accept what is there**, ethical land use dictates conservative and appropriate usage.
 
-The alternative — forcing a single use (like wheat) across all land regardless of variations — is possible only with sufficient energy or resources. As Mollison dryly notes: "I am sure we can grow bananas in Antarctica if we are prepared to spend enough money, or can persuade penguins to heat a glasshouse!"
+The alternative — forcing a single use (like wheat) across all land regardless of variations — is possible only with sufficient energy or resources. As Mollison dryly notes: "I am sure we can [[query-how-do-i-grow-bananas-in-a-subtropical-climate]] Antarctica if we are prepared to spend enough money, or can persuade penguins to heat a glasshouse!"
 
 ## Summary
 

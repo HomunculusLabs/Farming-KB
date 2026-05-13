@@ -14,19 +14,9 @@ created: 2026-05-07
 
 ## Overview
 
-The legal status [[health-risks-of-hallucinogenic-mushrooms]] in Europe has been shaped by the tension between international control of their active compounds ([[hplc-analysis-of-psilocybin-and-psilocin]]) and the fact that mushrooms containing these substances grow wild across much of the continent. Between 2001 and 2006, six EU member states tightened legislation specifically targeting mushrooms, each responding to rising prevalence but using different legal mechanisms to address the unique regulatory challenges posed by a living organism that contains [[controlled-substances-act-and-psychedelic-research]].
+The legal status [[hplc-analysis-of-psilocybin-and-psilocin]]) and the fact that mushrooms containing these substances grow wild across much of the continent. Between 2001 and 2006, six EU member states tightened legislation specifically targeting mushrooms, each responding to rising prevalence but using different legal mechanisms to address the unique regulatory challenges posed by a living organism that contains [[tryptamine-chemistry-psilocin-and-psilocybin-synthesis]] are controlled under the **1971 UN Convention on Psychotropic Substances**, listed in Schedule I under the names "psilocybine" and "psilocine" (or "psilotsin"). All EU member states control these substances at the national level accordingly.
 
-## International Framework
-
-[[tryptamine-chemistry-psilocin-and-psilocybin-synthesis]] are controlled under the **1971 UN Convention on Psychotropic Substances**, listed in Schedule I under the names "psilocybine" and "psilocine" (or "psilotsin"). All EU member states control these substances at the national level accordingly.
-
-However, the Convention controls the [[neurotropic-fungi-chemical-compounds]], not the biological organisms that produce them. This gap between controlling a substance and controlling a living fungus created the central legal challenge that individual countries addressed in different ways.
-
-## Timeline of Legislative Changes (2001 to 2006)
-
-### Denmark (July 2001)
-
-The first EU country to specifically address mushrooms in drug legislation. Added "Mushrooms or spores of [[psilocybe-cubensis]] or other fungi/spores containing psilocin or psilocybin, including grown, dried or processed in any other manner" as a controlled substance.
+However, the Convention controls the [[psilocybe-cubensis]] or other fungi/spores containing psilocin or psilocybin, including grown, dried or processed in any other manner" as a controlled substance.
 
 ### Netherlands (November 2002)
 
@@ -48,39 +38,7 @@ The UK Treasury had been collecting approximately £175,000 per year in sales ta
 
 ### Ireland (February 2006)
 
-Ireland's legislation criminalised possession or sale of "fungus of any kind or description, which contains psilocin or an ester of psilocin." The law included an exemption for mushrooms "growing uncultivated," reflecting the challenge of criminalising naturally occurring organisms. The change was reportedly prompted by increasingly commonplace sales and the death of a young man after consuming [[ceremonial-shamanic-use-psychoactive-mushrooms]]. Previously, mushrooms were controlled only "if treated or prepared."
-
-## Key Legal Challenges Addressed
-
-### Wild Fungi and Criminalisation
-
-Several countries struggled with how to control mushrooms without unjustly criminalising people whose land naturally harbours psilocybin-containing species. Solutions included:
-
-- **"Treated or prepared" thresholds**: UK and Irish approach initially requiring evidence of intent to use
-- **Cultivation exemptions**: Ireland's uncultivated growth exemption
-- **Species-specific listings**: Denmark's approach naming particular genera
-
-### The "Is It a Plant?" Problem
-
-Mushrooms are fungi, not plants. Several countries had catch-all terms in their drug laws prohibiting cultivation of "plants" from which narcotic substances could be extracted. This created ambiguity:
-
-- **Italy, Greece, Cyprus, Lithuania**: laws prohibiting cultivation of "plants" containing narcotics
-- **Germany**: resolved by changing "plants and animals" to "organisms"
-- Other countries needed specific mushroom provisions to close the gap
-
-### The Fresh vs Dried Distinction
-
-The Netherlands took the narrowest approach, distinguishing between fresh and processed mushrooms. The Dutch Supreme Court ruled that only dried, mashed, or processed mushrooms were controlled. This allowed the smartshop industry to continue selling fresh mushrooms legally for several years. Other countries ultimately adopted broader definitions covering mushrooms in any state.
-
-## Variation in Legal Definitions
-
-Different countries' laws do not always apply to the same mushrooms:
-
-- **Denmark**: controls "[[guzman-allen-gartz-psilocybe-semilanceata-temperate-cosmopolitan-distribution]], [[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]] or other fungi/spores containing psilocin or psilocybin"
-- **Italy**: lists "Fungi of the genus Strofaria, Conocybe and Psilocybe"
-- **UK**: controls "Fungus (of any kind) which contains psilocin or an ester of psilocin"
-
-This inconsistency means a mushroom species legal in one jurisdiction may be controlled in another, creating confusion for users, retailers, and [[cervantes-grow-room-security-law-enforcement]].
+Ireland's legislation criminalised possession or sale of "fungus of any kind or description, which contains psilocin or an ester of psilocin." The law included an exemption for mushrooms "growing uncultivated," reflecting the challenge of criminalising naturally occurring organisms. The change was reportedly prompted by increasingly commonplace sales and the death of a young man after consuming [[guzman-allen-gartz-psilocybe-semilanceata-temperate-cosmopolitan-distribution]], [[cervantes-grow-room-security-law-enforcement]].
 
 ## Enforcement and Seizures
 
@@ -117,8 +75,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[psilocybin]]
 - [[dom]]
-- [[psilocin]]
 - [[spore]]
 - [[brassinosteroid]]

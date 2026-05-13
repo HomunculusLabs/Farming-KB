@@ -12,20 +12,15 @@ type: query
 
 ## Short Answer
 Living soil grows plants in a biologically active organic medium where microbes
-[[query-can-fungi-break-down-plastic-pollution]] amendments and feed nutrients to roots symbiotically. Hydroponics grows
-plants in inert media or water with dissolved mineral salts, bypassing soil
-biology entirely. Living soil produces complex [[cannabis-terpene-profiles-sativa]] with minimal
+[[cannabis-terpene-profiles-sativa]] with minimal
 ongoing intervention; hydroponics offers faster growth and higher yields with
 precise nutrient control.
 
 ## Detailed Explanation
 ## Related
 
-- [[query-what-is-the-difference-between-organic-regenerative-and-biodynamic-agriculture]] Questions
 - [[query-dwc-vs-coco-coir-vs-soil-cannabis-growing]]
-- [[query-what-is-the-soil-food-web-and-why-does-it-matter]]
 - [[query-what-is-the-difference-between-biointensive-and-no-till-gardening]]
-- [[query-what-are-c3-c4-and-cam-photosynthesis-and-why-does-it-matter-for-growers]]
 - [[query-what-is-the-best-soil-mix-for-growing-cannabis]]
 - [[query-what-is-vapor-pressure-deficit-and-why-does-it-matter-for-cannabis]]
 ## Practical Applications

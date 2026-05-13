@@ -13,31 +13,16 @@ sources:
 
 ## Overview
 
-The [[herb-spiral]] 
-represent two iconic permaculture garden installations that could not differ 
-more in their climate requirements, scale, and function. The banana circle is a 
-sunken pit system designed for tropical and subtropical climates that processes 
-organic waste and greywater while producing massive biomass through 
-heavy-feeding crops. The herb spiral is a raised stone mound that creates 
-vertical microclimates for herb cultivation, functioning primarily as an 
-ornamental and productive [[holzer-kitchen-garden-herbs-and-medicinal-plants]] feature. Both demonstrate 
+The [[holzer-kitchen-garden-herbs-and-medicinal-plants]] feature. Both demonstrate 
 permaculture's principle of multiple functions, but they serve entirely 
 different ecological niches and gardener needs.
 
 ## Banana Circle
 
-[[query-what-is-a-banana-circle-in-permaculture]] is a sunken circular pit approximately 2 meters across and 0.6 
-to 1 meter deep, with the excavated soil mounded around the rim as a raised 
-berm. The pit is filled with coarse mulch, green waste, and kitchen scraps that 
-decompose rapidly in tropical conditions. Bananas, papayas, sweet potatoes, and 
-other heavy-feeding crops are planted on the surrounding berm, where their 
-roots access the nutrient-rich decomposing material. The system was developed 
-by Bill Mollison and popularized through the [[comparison-cavendish-vs-east-african-highland-bananas]]
+[[comparison-cavendish-vs-east-african-highland-bananas]]
 
-- [[herb-spiral]] for detailed design and planting guides
 - [[mollison-gangammas-mandala-and-banana-circle-gardens]] for integrated 
 examples
-- [[hugelkultur]] for another biomass-focused garden technique
 - [[comparison-herb-spiral-vs-keyhole-garden]]
 ## Practical Considerations
 

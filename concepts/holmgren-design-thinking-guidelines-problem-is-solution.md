@@ -1,7 +1,7 @@
 ---
 title: Holmgren Design Thinking Guidelines - The Problem Is the Solution
 source: david-holmgren-permaculture-principles-pathways-beyon.md
-source_author: David Holmgren
+source_author: [[david-holmgren]]
 extracted: 2026-05-10
 tags: [permaculture, design-thinking, holmgren, problem-is-solution, observation, minimal-intervention, systems-thinking]
 ---
@@ -32,7 +32,7 @@ falling back into dualistic thinking:
   manage low-energy human support systems can come from working with nature.
   All senses provide valuable information: smelling or tasting soil reveals
   biological balance invisible to the eye.
-- **Failure is useful so long as we learn** — the action learning loop allows
+- **Failure is useful so long as we learn** — the [[holmgren-action-learning-loop]] allows
   starting from limited knowledge and broadening perspective incrementally.
   Don't assume you caused any success; conduct small trials and consider
   alternative explanations.
@@ -66,7 +66,7 @@ problem.
 Pests can be viewed as surpluses of nature that need to be used rather than
 destroyed. Weeds may function as:
 
-- **Environmental indicators** signaling the need for management change
+- **[[fungi-as-environmental-indicators-and-biosensors]]** signaling the need for management change
 - **Soil repair agents** fixing damage caused by previous practices
 - **Undervalued resources** with economic or cultural uses we fail to recognize
 
@@ -79,7 +79,7 @@ solutions that use more effort and resources than necessary.
 
 Holmgren's example: the Amalfi coast of Italy has developed creative solutions
 for very steep land that would not emerge in gentler terrain. Conversely,
-Mediterranean regions have poorly developed rainwater harvesting compared to
+Mediterranean regions have poorly developed [[comparison-drip-irrigation-vs-rainwater-harvesting]] compared to
 Australia because abundant permanent water sources reduced the incentive.
 
 ### Open Inquiry Over Urgent Solutions
@@ -98,7 +98,7 @@ allows starting from wherever you are, no matter how little knowledge you have,
 and progressively broadening your perspective through incremental adjustment.
 
 When working with complex natural systems, it is essential to remember that we
-don't understand all factors and that cause and effect are often a loop or web
+don't understand all factors and that [[fukuoka-nature-no-cause-and-effect]] are often a loop or web
 rather than a linear chain. Small trials with careful observation of multiple
 possible causes for success or failure produce better outcomes than large
 interventions based on assumed understanding.
@@ -112,14 +112,12 @@ useful. But rapid change in environmental conditions can transform the "optimum
 solution" into a design cul-de-sac with no way forward and no going back.
 
 The frog-in-boiling-water metaphor illustrates this: gradual change prevents
-recognition of danger until it is too late. Energy descent demands that we
+recognition of danger until it is too late. [[energy-descent-action-planning]] demands that we
 anticipate which current solutions will become cul-de-sacs and actively develop
 alternatives before crisis forces the transition.
 
 ## See Also
 
-- [[holmgren-permaculture-twelve-design-principles-framework]]
 - [[holmgren-observe-and-interact-detailed]]
-- [[holmgren-action-learning-loop]]
 - [[holmgren-wholistic-design-thinking]]
 - [[holmgren-beyond-sustainability]]

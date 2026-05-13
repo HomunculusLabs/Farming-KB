@@ -23,19 +23,7 @@ sources:
   - Chinese Pharmacopoeia Commission (2020). "Pharmacopoeia of the People's Republic of China." Vol. I.
   - Panossian, A. & Wikman, G. (2008). "Pharmacology of Schisandra chinensis Bail.: An Overview of Russian Research and Uses in Medicine." J. Ethnopharmacol., 118(2), 183–212.
   - Huang, W.H. et al. (2007). "Schisandrin B from Schisandra chinensis Protects Heart from Ischemia-Reperfusion Injury." Cell Mol. Life Sci., 64(4), 408–421.
-  - Li, X.N. et al. (2012). "[[guzman-magic-mushrooms-chemical-constituents]] of Schisandra sphenanthera." J. Asian Nat. Prod. Res., 14(4), 341–345.
-  - https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:593039-1
-aliases:
-  - Chinese Magnolia Vine
-  - Wu-wei-zi (Southern)
-  - Southern Schisandra
-  - Hua-zhong Wu-wei-zi
-  - Nan Wu-wei-zi
----
-
-## Overview
-
-**Schisandra sphenanthera** is a woody deciduous climbing vine in the family Schisandraceae, closely related to the more widely known [[schisandra-chinensis]] (northern five-flavor berry). It is native to central and southwestern China and its dried ripe fruits are a major commercial medicinal material in traditional Chinese medicine (TCM), listed in the Chinese Pharmacopoeia under the name "Nan Wu-wei-zi" (Southern five-flavor fruit).
+  - Li, X.N. et al. (2012). "[[schisandra-chinensis]] (northern five-flavor berry). It is native to central and southwestern China and its dried ripe fruits are a major commercial medicinal material in traditional Chinese medicine (TCM), listed in the Chinese Pharmacopoeia under the name "Nan Wu-wei-zi" (Southern five-flavor fruit).
 
 The fruit of *S. sphenanthera* contains a distinct lignan profile that differs from *S. chinensis*, with schisandrin A (schisandrol A) as the primary bioactive marker compound rather than schisandrin B. Despite this distinction, the two species have historically been used interchangeably in some TCM formulations, though modern pharmacopoeias treat them as separate drugs.
 
@@ -71,15 +59,7 @@ Native to central and southwestern China, including the provinces of Hubei, Sich
 
 The species occurs as an understory climber in warm-temperate to subtropical forests, scrambling over shrubs and small trees along forest edges, ravines, and stream corridors.
 
-It prefers partial shade to dappled sunlight, well-drained humus-rich soils, and moderate annual precipitation (800–1,500 mm). Frost tolerance is lower than [[schisandra-chinensis]], making it better suited to milder climates.
-
-## Bioactive Compounds and Pharmacology
-
-The primary bioactive constituents are dibenzocyclooctadiene lignans, a class of compounds largely unique to the Schisandraceae family.
-
-**Major lignans:** Schisandrin A (schisandrol A) is the predominant lignan and the pharmacopoeial marker compound. Schisandrin B (schisandrol B) is present in smaller quantities compared to *S. chinensis*. Schisandrin C, schisantherin A, schisantherin B, and schisandrol B are also significant.
-
-**Other compounds:** The fruit contains triterpenoids (schisandronic acid), volatile oils, organic acids (citric, malic, tartaric), vitamins C and E, and [[dynamic-accumulator-plants-trace-minerals]].
+It prefers partial shade to dappled sunlight, well-drained humus-rich soils, and moderate annual precipitation (800–1,500 mm). Frost tolerance is lower than [[dynamic-accumulator-plants-trace-minerals]].
 
 Total lignan content is typically 3–7% dry weight, with schisandrin A constituting approximately 0.4–1.2%.
 
@@ -90,7 +70,81 @@ Studies demonstrate protection against carbon tetrachloride, acetaminophen, and 
 **Antioxidant effects:** Lignans from *S. sphenanthera* scavenge free radicals and upregulate endogenous antioxidant enzyme systems (superoxide dismutase, catalase, glutathione peroxidase).
 
 ## See Also
-- [[dom]]
 - [[comparison-schisandra-vs-ashwagandha-vs-rhodiola-adaptogenic-cultivation]]
-- [[schisandra-chinensis]]
 - [[comparison-schisandra-vs-rhodiola]]
+
+## Overview
+
+Schisandra Sphenanthera represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish schisandra sphenanthera
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving schisandra extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Schisandra Sphenanthera finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for schisandra sphenanthera. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+schisandra sphenanthera and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Schisandra Sphenanthera has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of schisandra sphenanthera into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.

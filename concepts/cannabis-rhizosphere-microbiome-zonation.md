@@ -20,88 +20,7 @@ cultivation through microbiome management.
 ### Bulk Soil
 
 Bulk soil represents the baseline microbial community. Its composition is determined
-almost entirely by [[cannabinoid-microbiome-correlation-confounded-edaphic-factors]]: pH, salinity, total nitrogen, organic carbon
-content, water content, and physical composition (sand/silt/clay ratios). In the
-Winston et al. (2014) study, bulk soil samples taken 10 cm from the stem at 20 cm
-depth showed distinct clustering from all root-associated samples, confirming that the
-bulk soil microbiome serves as the inoculum reservoir from which rhizosphere communities
-are drawn. Bulk soil microbial diversity is typically the highest of the three
-compartments because it is not subject to the selective pressures imposed by plant
-root exudates.
-
-### Rhizosphere Soil
-
-The rhizosphere is the soil that remains adhered to roots after gentle shaking. It
-represents the first major microbial community shift from bulk soil, driven primarily
-by the release of root exudates — sugars, amino acids, organic acids, and secondary
-metabolites — that selectively enrich certain bacterial taxa. In Cannabis, the
-rhizosphere shows an intermediate community composition: it is differentiated from
-bulk soil by the enrichment of Proteobacteria and Bacteroidetes, but it is less
-distinct than the endorhiza. Notably, in the first experiment of the Winston study,
-rhizosphere samples were not significantly different from other sample types by strain
-(ADONIS R² = 0.07, p = 0.07 for weighted unweighted unifrac discrepancy cannabis cultivar), suggesting that the rhizosphere
-community is more shaped by soil properties than by plant genotype.
-
-### Endorhiza (Root Endosphere)
-
-The endorhiza — bacteria that have colonized the interior of root tissue — represents
-the most plant-influenced compartment. Here, cultivar-specific effects become
-statistically significant. In the Winston study, endorhiza communities showed strong
-strain-level differentiation (ADONIS R² = 0.59, p = 0.004 for weighted UniFrac),
-the only compartment where this effect was consistently observed. The core endorhiza
-community across all Cannabis cultivars included:
-
-- **Pseudomonas** — well-known plant growth-promoting endophytes
-- **Cellvibrio** — aerobic cellulolytic bacteria
-- **Oxalobacteraceae** — associated with nitrogen cycling
-- **Xanthomonadaceae** — diverse plant-associated bacteria
-- **Actinomycetales** — prolific producers of bioactive compounds
-- **Sphingobacteriales** — oligotrophic bacteria common in soil
-
-With the exception of Cellvibrio, all prevalent core members are established
-endophytic bacteria primarily within Gammaproteobacteria and Alphaproteobacteria,
-consistent with observations from other plant systems.
-
-## The Two-Tier Selection Model
-
-The community patterns observed in Cannabis strongly support the **two-tier selection
-model** of root microbiome assembly:
-
-1. **Tier 1 (Soil → Rhizosphere):** Edaphic factors determine the composition of
-   the local soil microbiota, which becomes the source pool for rhizosphere
-   colonization. Soil pH is typically the strongest predictor of community structure
-   at this tier.
-
-2. **Tier 2 (Rhizosphere → Endorhiza):** Migration from the rhizosphere into plant
-   tissues is governed by plant genotype-dependent selection. The host plant
-   selectively permits or recruits specific bacterial taxa based on root exudate
-   chemistry, immune responses, and tissue compatibility.
-
-This model predicts that cultivar-specific effects should be weakest in bulk soil,
-moderate in the rhizosphere, and strongest in the endorhiza — exactly the pattern
-observed in Cannabis.
-
-## Predicted Phylum-Level Shifts
-
-The two-tier model also predicts predictable changes in phylum-level abundance
-across compartments:
-
-| Phylum | Bulk Soil | Rhizosphere | Endorhiza |
-|--------|-----------|-------------|-----------|
-| Acidobacteria | High | Moderate | Dramatically reduced |
-| Proteobacteria | Moderate | Enriched | Dominant |
-| Actinobacteria | Moderate | Moderate | Enriched |
-| Bacteroidetes | Variable | Enriched | Moderate |
-| Firmicutes | Variable | Variable | Present |
-
-The dramatic reduction in Acidobacteria within the endorhiza is a hallmark of the
-transition from oligotrophic bulk soil communities to the copiotrophic environments
-of root tissues, where fast-growing Proteobacteria outcompete slower-growing
-acidophiles.
-
-## Edaphic Factors and Their Influence
-
-[[soil-physicochemical-properties-cannabis-microbiome-assembly-winston]] varied across the Winston study sites:
+almost entirely by [[soil-physicochemical-properties-cannabis-microbiome-assembly-winston]] varied across the Winston study sites:
 
 | Soil | pH | Salinity | Total N | Organic C | Water Content |
 |------|-----|----------|---------|-----------|---------------|
@@ -121,24 +40,95 @@ endorhiza communities. A striking example was the genus **Methylophilus**, which
 comprised 13% of the endorhiza community in Bookoo Kush, only 0.13% in Burmese,
 and was entirely absent from Sour Diesel (FDR p = 0.012). Methylophilus species
 are methylotrophic bacteria capable of utilizing single-carbon compounds like
-methanol — a product of plant cell wall demethylation. The [[otu-differential-abundance-cannabis-microbiome]]
-of this genus suggests that cultivar-specific root exudate profiles, particularly
-in methanol production, drive selective enrichment of specific bacterial taxa.
-
-## Practical Implications for Cultivation
-
-1. **Soil selection** matters most at the bulk soil tier — appropriate pH, organic
-   matter, and nutrient profiles set the foundation for a healthy microbiome.
-2. **Inoculant design** should target the rhizosphere tier — inoculants adapted to
-   local soil type improve colonization success.
-3. **Cultivar-microbe matching** operates at the endorhiza tier — effective
-   endophyte partnerships are cultivar-specific.
-4. **Terroir effects** may be mediated by the microbiome — endorhiza communities
-   likely influence [[fungal-elicitors-enhanced-secondary-metabolite-production]] including cannabinoids.
+methanol — a product of plant cell wall demethylation. The [[fungal-elicitors-enhanced-secondary-metabolite-production]] including cannabinoids.
 
 ## See Also
 
 - cannabis cultivar specificity endorhiza microbiome — cultivar-specific selection mechanisms
-- [[endorhiza-endophyte-bacteria-plant-roots]] — endophyte biology and function
 - [[fukuoka-soil-microbiome-and-natural-balance]] — edaphic drivers of community composition
 - two tier selection model rhizosphere microbiome assembly — theoretical framework for root microbiome assembly
+
+## Overview
+
+Cannabis Rhizosphere Microbiome Zonation represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish cannabis rhizosphere microbiome zonation
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving cannabis extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Cannabis Rhizosphere Microbiome Zonation finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for cannabis rhizosphere microbiome zonation. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+cannabis rhizosphere microbiome zonation and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Cannabis Rhizosphere Microbiome Zonation has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of cannabis rhizosphere microbiome zonation into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[blesching-cannabis-cancer-symptoms]]
+- [[cannabis-endorhiza-shared-otu-soil-source-validation]]
+- [[cannabis-musculoskeletal-conditions]]
+- [[cannabis-oil-consumption-methods]]
+- [[green-cannabis-dry-sift-water-extraction]]

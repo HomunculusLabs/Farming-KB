@@ -9,10 +9,7 @@ sources: [raw/papers/mckenna_t-tryptamines_consciousness.md]
 
 # Spore Brownian Motion and Galactic Percolation
 
-In his 1983 Esalen lecture, [[terence-mckenna]] elaborated the
-[[spore]] [[spore-interstellar-dispersal-hypothesis]] hypothesis as
-it was presented to him by the mushroom itself during [[spore-interstellar-dispersal-hypothesis]]
-- [[mckenna-tryptamines-soul-and-extraterrestrial-hypothesis]]
+In his 1983 Esalen lecture, [[spore]] [[spore-interstellar-dispersal-hypothesis]]
 - [[mckenna-food-gods-tryptamine-dimension]]
 ## Background and Context
 

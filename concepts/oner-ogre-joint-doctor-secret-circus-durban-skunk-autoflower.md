@@ -11,12 +11,7 @@ tags: [cannabis, sativa, autoflower, strain-profile, ogre, joint-doctor, secret-
 
 ## Overview
 
-OGRE is a sativa-dominant auto-flowering cannabis strain created through a collaboration between Canada's Joint Doctor and the UK's Secret Garden Seeds. Combining the auto-flowering Secret Citrus (also known as Secret Circus) with a classic Durban Skunk, OGRE breaks the typical auto-flower mold by exhibiting an accelerated growth pattern that produces plants taller and wider than most auto-flowering varieties. With a THC content of 15%, OGRE delivers a potent, layered cerebral high that creeps up on the user before launching them into a soaring, uplifting experience. Its name is a playful nod to its large, fat buds with hints of orange. (see [[east-coast-sour-diesel-clone-lineage-chemdawg-family-tree]]).
-
-## Breeder Information
-
-- **Breeders**: The Joint Doctor (Canada) and Secret Garden Seeds (UK)
-- **Type**: Auto-flowering [[autoflowering-sativa-development-joint-doctor]] sativa-dominant
+OGRE is a sativa-dominant auto-flowering cannabis strain created through a collaboration between Canada's Joint Doctor and the UK's Secret Garden Seeds. Combining the auto-flowering Secret Citrus (also known as Secret Circus) with a classic Durban Skunk, OGRE breaks the typical auto-flower mold by exhibiting an accelerated growth pattern that produces plants taller and wider than most auto-flowering varieties. With a THC content of 15%, OGRE delivers a potent, layered cerebral high that creeps up on the user before launching them into a soaring, uplifting experience. Its name is a playful nod to its large, fat buds with hints of orange. (see [[autoflowering-sativa-development-joint-doctor]] sativa-dominant
 - **Genetics**: Secret Citrus (auto) × Durban Skunk
 - **Potency**: THC 15%
 - **Seed availability**: Regular seeds from jointdoctordirect.com and secretgardenseeds.com
@@ -26,8 +21,7 @@ OGRE is a sativa-dominant auto-flowering cannabis strain created through a colla
 
 OGRE's parentage brings together two distinct genetic lines:
 
-- **Secret Citrus (Secret Circus)**: An auto-flowering strain that contributes the automatic flowering trait and the citrus-influenced terpene profile. This parent ensures OGRE flowers without a photoperiod change, making it accessible to growers who lack light-control equipment or who want a simplified grow cycle. (see [[cannabis-strain-breeding-techniques]]).
-- **Durban Skunk**: A sativa-dominant strain derived from South African Durban landrace genetics crossed with Skunk #1 lineage. Durban Skunk contributes the vigorous growth, tall stature, and uplifting sativa effects that distinguish OGRE from typical compact auto-flowers. (see [[tropicana-cookies]]).
+- **Secret Citrus (Secret Circus)**: An auto-flowering strain that contributes the automatic flowering trait and the citrus-influenced terpene profile. This parent ensures OGRE flowers without a photoperiod change, making it accessible to growers who lack light-control equipment or who want a simplified grow cycle. (see [[tropicana-cookies]]).
 
 The combination of these two parents creates a strain that bridges the gap between the convenience of auto-flowering genetics and the robust growth patterns normally associated with photoperiod sativas. (see [[cannabis-sativa-indoor-challenges]]).
 

@@ -19,21 +19,9 @@ topics:
 
 ## Overview
 
-D.T.S. is a sativa [[sativa-haze-lineage-breeding-history]]-dominant hybrid bred by BillBerry Farms of the United States. What makes D.T.S. remarkable among modern cannabis strains is its extraordinarily complex genetic background, combining no fewer than four distinct and highly regarded genetic lines into a single cultivar. The name D.T.S. stands as a testament to BillBerry Farms' approach to breeding: meticulous, small-scale, and quality-focused, eschewing mainstream acclaim in favor of a dedicated following of knowledgeable cultivators.
-
-## Genetic Background
-
-D.T.S. is the product of a four-way cross:
-
-**Line 1: Cheeze × MK-Ultra**
-- **Cheeze** (also spelled Cheese): One of the most famous strains to emerge from the UK cannabis scene. Cheese is a Skunk #1 phenotype selected in the late 1980s for its intensely pungent, cheese-like aroma. The Cheese clone became one of the most widely circulated phenotypes in European cannabis culture, known for its distinctive smell and balanced relaxing effects. (see [[east-coast-sour-diesel-clone-lineage-chemdawg-family-tree]]).
-- **MK-Ultra**: An indica-dominant [[haze-plum-purple-passion-medical-sativa-strain]] strain created by crossing G-13 with OG Kush. Named after the CIA's notorious mind-control program, MK-Ultra is known for its extremely potent, hypnotic effects and deep body relaxation. The strain won first place in the Indica category at the 2003 High Times Cannabis Cup.
-
-**Line 2: Silver Diesel Haze × Head Banger**
-- **Silver Diesel Haze**: A Diesel-family hybrid [[haze-plum-purple-passion-medical-sativa-strain]] that combines the fuel-heavy terpene profile of Diesel genetics with the legendary potency and flowering characteristics of Haze. Silver Diesel Haze contributes tall stature, extended flowering time, and a complex aromatic profile blending fuel, citrus, and spice.
-- **Head Banger**: A potent hybrid known for its hard-hitting cerebral effects, contributing additional THC potency and a sharp, acrid aroma to the D.T.S. profile. (see [[cannabis-sativa-vs-indica-guide]]).
-
-The crossing of these two composite lines (Cheeze × MK-Ultra) × (Silver Diesel Haze × Head Banger) creates a genetic tapestry that draws from Skunk, Kush, Diesel, Haze, G-13, and Cheese lineages, among others. This extraordinary genetic diversity contributes to D.T.S.'s notable phenotypic variation and hybrid [[blue-city-diesel-west-coast-blueberry-nyc-diesel-hybrid-oner]] vigor.
+D.T.S. is a sativa [[east-coast-sour-diesel-clone-lineage-chemdawg-family-tree]]).
+- **MK-Ultra**: An indica-dominant [[haze-plum-purple-passion-medical-sativa-strain]] that combines the fuel-heavy terpene profile of Diesel genetics with the legendary potency and flowering characteristics of Haze. Silver Diesel Haze contributes tall stature, extended flowering time, and a complex aromatic profile blending fuel, citrus, and spice.
+- **Head Banger**: A potent hybrid known for its hard-hitting cerebral effects, contributing additional THC potency and a sharp, acrid aroma to the D.T.S. profile. (see [[blue-city-diesel-west-coast-blueberry-nyc-diesel-hybrid-oner]] vigor.
 
 ## Breeder: BillBerry Farms
 
@@ -118,8 +106,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[haze-genetics]]
 - [[dom]]
-- [[det]]
 - [[mda]]
 - [[chemdawg]]

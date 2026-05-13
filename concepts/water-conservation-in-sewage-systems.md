@@ -6,7 +6,7 @@ type: concept
 
 # Water Conservation in Sewage Systems
 
-[[water-conservation]] in sewage systems addresses the enormous waste of clean water used for flushing toilets and the broader problems of water pollution from domestic and industrial sources. [[bill-mollison]] identified that up to 40% of domestic water use goes to toilet flushing alone, and advocated for practical alternatives ranging from handbasin-diversion toilets to dry composting systems, alongside a critical analysis of the chemical pollutants introduced through wastewater.
+[[bill-mollison]] identified that up to 40% of domestic water use goes to toilet flushing alone, and advocated for practical alternatives ranging from handbasin-diversion toilets to dry [[composting-systems]], alongside a critical analysis of the chemical pollutants introduced through wastewater.
 
 ## Handbasin Flush Toilets
 
@@ -86,6 +86,5 @@ The fundamental issue is that 30-40 additives are commonly introduced into water
 The only long-term insurance of good water supply to a settlement is rigorous control of a forested catchment, including a total ban on biocides and metallic processing. With few such clean areas remaining globally, house roof tanks may have to suffice for the foreseeable future. The duty of every settlement is to release only water of sufficiently good quality to be safely usable by downstream communities — for the wastewaters of upstream settlements are the drinking waters of downstream areas.
 
 ## See Also
-- [[sewage-water-reduction-and-dry-toilets]]
 - [[water-filtration-and-treatment-systems]]
 - [[homestead-water-systems]]

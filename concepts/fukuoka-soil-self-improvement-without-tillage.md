@@ -12,27 +12,7 @@ Fukuoka's fukuoka-critique-soil-cultivation proliferate
 
 ### Why Tillage Is Counterproductive
 - Working the soil with plow and hoe actually interferes with natural loosening processes
-- [[cervantes-fertilizer-application-strain-feeding]] encourages shallow root structure along the topsoil
-- Weeding halts the normal aggregation and enrichment of topsoil
-- Clearing land by pulling up trees robs deeper soil layers of humus source
-- These very actions are what make plowing seem necessary in the first place
-
-## The Proof: Intertillage Is Worthless
-
-Farmers traditionally believed intertillage (working the soil between crop rows) loosened soil. But when herbicides became available after World War II and farmers sprayed fields and reduced plowing frequency, their yields improved. This demonstrated that intertillage had been effective only as a weeding process and had been worthless as a means for loosening the soil.
-
-## Soil Porosity Is Natural
-
-It is in the nature of soil to swell and grow more porous with each passing year. This is absolutely essential for microorganisms to multiply, for the soil to grow more fertile, and for the roots of large trees to penetrate deep. The forces of nature will enrich and loosen the soil if man leaves it to itself.
-
-## How Transplanting and Fertilizer Damage Soil
-
-When saplings are transplanted:
-- Roots cease to grow straight and lose ability to penetrate hard rock
-- Even slight root entanglement during transplanting weakens deep root growth
-- The tree becomes dependent on surface nutrients
-
-[[cannabis-chemical-fertilizers]] make this worse:
+- [[cannabis-chemical-fertilizers]] make this worse:
 - Trees grow shallow root structures extending along the topsoil
 - The normal deep soil penetration that builds soil structure is prevented
 - The soil becomes dependent on continued fertilization
@@ -49,22 +29,7 @@ Man studies "the right crop for the right land" without understanding parent roc
 
 ## The Choice
 
-No amount of research can teach man everything about soil, and he will never create soils more perfect than those of nature, because nature itself is perfect. Advances in [[psilocybin-isolation-and-early-scientific-research]] actually teach man just how perfect a handful of soil is, and how incomplete human knowledge.
-
-We can either choose to see the soil as imperfect and take hoe in hand, or trust the soil and leave the business of working it to nature.
-
-## Practical Application in Farming
-
-Let the grasses plow the topsoil and the trees work the deeper layers. The fukuoka-citrus-orchard-ground-cover-cultivation both rely on plant roots and soil biology rather than mechanical cultivation to maintain soil structure and fertility.
-
----
-
-Source: Fukuoka, Natural Way of Farming (administrator-microsoft-word-fukuoka-textdoc.md)
-- [[fukuoka-natural-rice-barley-cultivation]]
-- [[fukuoka-direct-seeded-no-tillage-rice-barley-method]]
-
-## See Also
-
+No amount of research can teach man everything about soil, and he will never create soils more perfect than those of nature, because nature itself is perfect. Advances in [[fukuoka-natural-rice-barley-cultivation]]
 - [[iterative-self-improvement]]
 ## Practical Considerations
 
@@ -114,8 +79,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[doc]]
 - [[psilocybin]]
-- [[fukuoka-no-cultivation-principle-soil-self-tillage]]
 - [[fukuoka-textdoc-citrus-orchard-soil-building-without-fertilizer]]
 - [[fukuoka-orchard-soil-building-without-fertilizers]]

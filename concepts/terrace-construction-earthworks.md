@@ -58,37 +58,93 @@ Terrace construction follows a specific bottom-up sequence:
 2. **Proceed uphill** — as each terrace is completed, the topsoil of the next highest level is cleared onto the preceding lower terrace
 3. **Finish at the top** — stockpiled soil from the lowest terrace is finally carted or lifted to the last terrace uphill
 
-Every terrace system should ideally be designed to accommodate **perennial bund and terrace wall plants** specifically for soil stability and [[green-manure]] production.
-
-## Extent and Series Size
-
-Terrace systems should be limited based on climate:
-
-### Tropical Areas
-- Total terrace areas should not exceed **30% of the landscape**
-- Heavy rainfall and expected run-off are the limiting factors
-- Tree crops should be developed to maintain terrace fertility
-- Wet terraces (10-20% of all terrace areas) can be devoted to **fish-plant polyculture**, yielding fish, shellfish, and water plant products
-- Protein yields from water cultures can exceed all land-based systems when managed at equivalent husbandry levels
-
-### Arid Areas
-- Total terrace areas should not exceed **5% of dryland areas**
-- Limit based on expected rainfall harvest — total terrace areas should not exceed one-twentieth of the catchment harvested
-- Perennial or adapted crops only (never water-demanding crops)
-- Water catchment areas should be developed to bring leaf mulch to terraced slopes through run-off
-
-## Integration with Other Systems
-
-Terraces function best as part of integrated landscape design:
-
-- **Windbreaks** on bunds protect crops and reduce evaporation
-- **Water harvesting** from catchment areas feeds [[irrigation-systems]]
+Every terrace system should ideally be designed to accommodate **perennial bund and terrace wall plants** specifically for soil stability and [[irrigation-systems]]
 - **Aquaculture** integration in wet terrace zones adds protein production
 - **Tree crop systems** on bunds maintain long-term soil fertility and provide additional yields
 - **Drainage systems** must be designed to safely convey excess water without causing erosion below the terrace series
 
 ## See Also
 
-- [[terrace-design-and-construction]]
 - [[polycultural-terrace-design]]
 - [[earthmoving-machinery]]
+
+## Overview
+
+Terrace Construction Earthworks represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish terrace construction earthworks
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving terrace extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Terrace Construction Earthworks finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for terrace construction earthworks. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+terrace construction earthworks and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Terrace Construction Earthworks has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of terrace construction earthworks into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[fukuoka-textdoc-hillside-garden-terrace-soil-preparation]]

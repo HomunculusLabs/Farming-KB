@@ -31,7 +31,7 @@ Silvopasture systems can produce timber, livestock, forage, fruit, nuts, and oth
 
 Silvopasture is among the oldest land-use practices on Earth, predating agriculture itself. Early pastoralists grazed livestock beneath open woodland savannas in Africa, the Mediterranean, and South America. The *dehesa* system of the Iberian Peninsula — holm oak (*Quercus ilex*) and cork oak (*Quercus suber*) woodlands with cattle, sheep, and Iberian pigs — has been maintained for over 2,000 years and remains a model of sustainable silvopastoral management.
 
-In [[guzman-allen-gartz-neurotropic-fungi-central-america-caribbean]], traditional *silvopastoral* systems combining shade trees (especially *Gliricidia sepium* and *[[leucaena-leucocephala]]*) with cattle pasture have been practiced for centuries. In Southeast Asia, integrated systems of rubber, coconut, or oil palm with understory forages and cattle or goats are widespread.
+In [[leucaena-leucocephala]]*) with cattle pasture have been practiced for centuries. In Southeast Asia, integrated systems of rubber, coconut, or oil palm with understory forages and cattle or goats are widespread.
 
 In North America, modern silvopasture research began in the 1980s through the USDA National Agroforestry Center and land-grant university programs. Interest has accelerated since the 2010s regenerative agriculture ture practitioners have adopted silvopasture for its carbon sequestration potential and resilience benefits. Project Drawdown ranks silvopasture among the top 20 climate solutions globally.
 
@@ -39,11 +39,7 @@ In North America, modern silvopasture research began in the 1980s through the US
 
 ### Silvopastoral Grazing Under Timber
 
-Existing timber stands are thinned and the understory is managed for forage production. This is the most common entry point for silvopasture in temperate regions. Timber species include loblolly pine (*Pinus taeda*), shortleaf pine (*Pinus echinata*), and various hardwoods. Forage species are shade-tolerant and chosen for compatibility with the [[tree-canopy-fungal-sampling-techniques]].
-
-### Silvopastoral Orchard Systems
-
-Fruit and nut trees are planted at [[wide-spacing-dry-gardening-low-irrigation-solomon]] with inter-row forage and livestock. This includes silvopastoral versions of apple, chestnut, pecan, walnut, persimmon, mulberry, and pawpaw orchards. Livestock provide fertility, vegetation management, and pest control services. Chickens, geese, sheep, and cattle are all compatible depending on the tree crop.
+Existing timber stands are thinned and the understory is managed for forage production. This is the most common entry point for silvopasture in temperate regions. Timber species include loblolly pine (*Pinus taeda*), shortleaf pine (*Pinus echinata*), and various hardwoods. Forage species are shade-tolerant and chosen for compatibility with the [[wide-spacing-dry-gardening-low-irrigation-solomon]] with inter-row forage and livestock. This includes silvopastoral versions of apple, chestnut, pecan, walnut, persimmon, mulberry, and pawpaw orchards. Livestock provide fertility, vegetation management, and pest control services. Chickens, geese, sheep, and cattle are all compatible depending on the tree crop.
 
 ### Riparian Silvopastoral Buffers
 
@@ -63,9 +59,7 @@ Open-canopy woodlands with 20–50% canopy cover are managed as productive grazi
 
 | Tree Species | Products | Forage Compatibility | Livestock | Notes |
 |---|---|---|---|---|
-| [[black-walnut-juglone-plant-toxicity]] (*Juglans nigra*) | Timber, nuts | Moderate (juglone tolerant forages needed) | Cattle, sheep | Juglone allelopathy; plant tall fescue, orchardgrass |
-| Chestnut (*Castanea spp.*) | Nuts, timber | Good | Cattle, sheep, pigs | Excellent mast crop for fall finishing |
-| Pecan (*[[carya-illinoinensis]]*) | Nuts, timber | Good | Cattle, sheep, chickens | Southern US; requires deep soils |
+| [[carya-illinoinensis]]*) | Nuts, timber | Good | Cattle, sheep, chickens | Southern US; requires deep soils |
 | Oak (*Quercus spp.*) | Timber, acorns, shade | Good | Cattle, sheep, pigs | Dehesa model; acorns high-value forage |
 | Honey locus gleditsia triacanthos thos*) | Pods, shade, timber | Excellent | Cattle, sheep, goats | High-sugar pods; nitrogen fixer via rhizobia |
 | Black locus robinia pseudoacacia acia*) | Timber, nectar, posts | Moderate | Cattle, sheep | Nitrogen fixer; durable timber; thorny |
@@ -81,20 +75,13 @@ Open-canopy woodlands with 20–50% canopy cover are managed as productive grazi
 | Tree Species | Products | Forage Compatibility | Livestock | Notes |
 |---|---|---|---|---|
 | Leucaena (*Leucaena leucocephala*) | Fodder, timber, fuel | Excellent | Cattle, goats | High protein; mimosine toxicity at high rates |
-| Gliricidia (*Gliricidia sepium*) | Fodder, shade, green manure | Excellent | Cattle, goats | Pioneering shade tree for tropical pastur [[calliandra-calothyrsus]] lliandra calothyrsus*) | Fodder, fuel | Excellent | Cattle, goats | High tannins reduce bloat risk |
-| Coconut (*Cocos nucifera*) | Copra, water, thatch | Good | Cattle, goats, carabao | Widespread in Southeast Asia and Pacific |
-| Acacia (*Acacia spp.*) | Fodder, gum, timber | Moderate | Cattle, goats, sheep | Variable palatability by species |
-| Inga (*Inga edulis*) | Fruit, shade, fuel | Good | Cattle | Shade-grown coffee integration model |
-| Prosopis (*Prosopis spp.*) | Pods, fuel, timber | Good | Cattle, goats | Thorny; pods excellent livestock feed |
-| Flemingia (*Flemingia macrophylla*) | Fodder, shade | Good | Cattle, goats | Shrub legume; [[permplant-carob-drought-tolerant-food-tree]] |
+| Gliricidia (*Gliricidia sepium*) | Fodder, shade, green manure | Excellent | Cattle, goats | Pioneering shade tree for tropical pastur [[permplant-carob-drought-tolerant-food-tree]] |
 
 ## Forage Species Selection
 
 ### Shade-Tolerant Grasses
 
-- **Tall fescue** (*[[festuca-arundinacea]]*) — the most widely used cool-season grass in temperate silvopasture; deep-rooted, persistent, productive under 30–50% shade. Endophyte-free varieties preferred for livestock health.
-- **Orchardgrass** (*Dactylis glomerata*) — excellent shade tolerance; productive in spring and fall; palatable to all livestock classes.
-- **Kentucky bluegrass** (*Poa pratensis*) — moderate shade tolerance; forms dense sod; good for [[comparison-rotational-grazing-vs-continuous-grazing]].
+- **Tall fescue** (*[[comparison-rotational-grazing-vs-continuous-grazing]].
 - **Ryegrass** (*Lolium perenne*) — high quality but moderate shade tolerance; best as a component of mixed swards.
 - **Bahiagrass** (*Paspalum notatum*) — warm-season; excellent for subtropical silvopasture under pines; drought tolerant.
 - **Bermudagrass** (*Cynodon dactylon*) — warm-season; productive under 30% shade in southern regions.
@@ -110,38 +97,7 @@ Open-canopy woodlands with 20–50% canopy cover are managed as productive grazi
 
 ### Forage for Tropical Silvopasture
 
-- **Brachiaria** (*Brachiaria spp.*) — the dominant [[mollison-designers-tropical-pasture-grass-species-and-establishment]] grass; shade tolerant; used extensively under palm and rubber.
-- **Guinea grass** (*Panicum maximum*) — high productivity under partial shade; tall-growing; suited to cut-and-carry and grazing.
-- **Stylosanthes** (*Stylosanthes spp.*) — tropical legume; drought tolerant; good companion for Brachiaria.
-- **Centrosema** (*Centrosema pubescens*) — climbing tropical legume; good under shade trees.
-- **Arachis pintoi** — perennial peanut; excellent ground cover; shade tolerant; high protein.
-
-## Livestock Integration
-
-### Cattle
-
-Cattle are the most common livestock in silvopasture systems worldwide. They are well-suited to large-scale systems and provide the most economic return per acre in most regions. Key considerations:
-
-- Stocking rates in silvopasture are typically 20–40% lower than open pasture during tree establishment, recovering as the system matures.
-- Shade from trees reduces heat stress, improving feed intake and weight gain during summer. Studies show 10–20% improvement in average daily gain under shade versus open pasture in hot climates.
-- Fence trees individually during establishment (3–5 years) to prevent bark damage, browsing of leaders, and soil compaction around root zones.
-- Use rotational grazing with appropriate rest periods to allow forage recovery, especially under moderate shade.
-
-### Sheep and Goats
-
-Small ruminants integrate well with tree crops due to their smaller size and lower soil compaction:
-
-- **Sheep** are ideal for orchard silvopasture — they graze close to the ground without damaging tree trunks, control orchard floor vegetation, and deposit fertility.
-- **Goats** browse on woody plants and can be used to control understory regrowth in timber silvopasture, reducing competition with crop trees. However, they require careful management to prevent bark stripping and leader damage to valued trees.
-- Portable electric fencing is essential for managing small ruminants around trees.
-
-### Poultry
-
-Chickens, turkeys, and geese provide pest control, fertility distribution, and additional products in silvopastoral orchard systems:
-
-- Chickens consume orchard pests (codling moth larvae, plum curculio, grasshoppers), reducing insecticide needs.
-- Geese are effective grazers of understory grasses and can maintain vegetation beneath widely spaced trees.
-- Portable coops ([[mollison-designers-chicken-tractors-egg-production]]) moved through the orchard distribute manure evenly.
+- **Brachiaria** (*Brachiaria spp.*) — the dominant [[mollison-designers-chicken-tractors-egg-production]]) moved through the orchard distribute manure evenly.
 - Poultry should be excluded from direct contact with young tree trunks to prevent scratching damage.
 
 ### Swine

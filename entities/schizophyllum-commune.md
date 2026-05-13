@@ -18,56 +18,16 @@ sources:
 
 ## Overview
 
-*Schizophyllum commune* is a cosmopolitan basidiomycete mushroom and one of the most widely distributed fungal species on Earth, found on every continent including Antarctica. Commonly known as the split-gill fungus, it grows on dead or dying wood of a broad range of hardwood and softwood species. Despite being generally considered inedible due to its tough texture, *S. commune* has become a model organism for [[spore-print]]**: White
-- **Spores**: Cylindrical, smooth, 5–7 × 1.5–2.5 μm
-- **Desiccation tolerance**: Can survive extreme drying and rehydrate to resume spore production — one of the most desiccation-tolerant fungi known
+*Schizophyllum commune* is a cosmopolitan basidiomycete mushroom and one of the most widely distributed fungal species on Earth, found on every continent including Antarctica. Commonly known as the split-gill fungus, it grows on dead or dying wood of a broad range of hardwood and softwood species. Despite being generally considered inedible due to its tough texture, *S. commune* has become a model organism for [[bloomfield-mushroom-formation-fruiting-body-development-cultivation]] (fruiting) has been extensively characterized
+- **Hyphal interactions**: Nuclear migration, clamp [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]] with therapeutic potential:
 
-## Genetic Model Organism
-
-*S. commune* was the first basidiomycete to have its genome fully sequenced (2004) and serves as the primary genetic model for the mushroom-forming fungi. Major contributions include:
-
-- **Mating system**: A tetrapolar outcrossing system with two unlinked mating-type loci (A and B), each with multiple specificities, generating thousands of compatible mating combinations
-- **Developmental biology**: The genetic regulation of [[bloomfield-mushroom-formation-fruiting-body-development-cultivation]] (fruiting) has been extensively characterized
-- **Hyphal interactions**: Nuclear migration, clamp [[clamp-connection-formation-and-nuclear-migration]], and dikaryon maintenance were first elucidated in this species
-- **Genome**: ~38.5 Mb genome with ~13,000 predicted genes
-
-## Medicinal Properties
-
-Research has identified several [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]] with therapeutic potential:
-
-- **Schizophyllan (SPG)**: A β-(1→3)-glucan with β-(1→6) branches, produced in submerged culture. Approved in Japan as an immunotherapeutic adjuvant for cancer treatment, particularly cervical cancer. Functions as a [[medicinal-mushrooms-biological-response-modifiers]] modifier (BRM), activating macrophages, natural killer cells, and T-cell-mediated immunity
-- **Antioxidant activity**: Methanol extracts show significant DPPH radical scavenging activity
-- **Antimicrobial compounds**: Exhibits activity against various Gram-positive and Gram-negative bacteria
-- **Anti-inflammatory**: Polysaccharide fractions demonstrate inhibitory effects on pro-inflammatory cytokines
-
-## Ecological Role
-
-A white-rot decomposer that efficiently degrades lignin and cellulose in dead wood. Its broad host range and [[four-groups-neurotropic-fungi-global-distribution-guzman-1998]] make it one of the primary agents of wood decomposition in tropical and temperate forests. The desiccation tolerance of its fruiting bodies allows it to persist and sporulate across seasons, contributing to its ecological success.
+- **Schizophyllan (SPG)**: A β-(1→3)-glucan with β-(1→6) branches, produced in submerged culture. Approved in Japan as an immunotherapeutic adjuvant for cancer treatment, particularly cervical cancer. Functions as a [[four-groups-neurotropic-fungi-global-distribution-guzman-1998]] make it one of the primary agents of wood decomposition in tropical and temperate forests. The desiccation tolerance of its fruiting bodies allows it to persist and sporulate across seasons, contributing to its ecological success.
 
 ## See Also
 
-- [[nostoc-commune]]
-
 - [[fungal-ecology-and-decomposition]]
 
-- [[schizophyllum-commune-schizophyllan-cancer]]
-## Practical Considerations
-
-When working with Schizophyllum commune, several practical factors should be
-carefully considered to achieve optimal results. These include
-the specific conditions of the implementation context, available
-resources, timing requirements, and the interactions between this
-topic and other elements of the broader system. A holistic view
-that considers these interconnections produces better outcomes.
-
-Environmental conditions such as temperature, moisture, and
-seasonal patterns significantly influence results. Monitoring these
-variables and adapting practices accordingly is essential for success.
-The most effective practitioners develop keen observation skills and
-respond flexibly to changing conditions rather than following rigid
-protocols regardless of circumstances or local variation.
-
-[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
+- [[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -88,3 +48,88 @@ than assuming perfect predictability or control over outcomes.
 
 Documentation and record-keeping support continuous improvement by
 creating a reference base of observations, interventions, and results.
+
+## Overview
+
+Schizophyllum Commune represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish schizophyllum commune
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving schizophyllum extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Schizophyllum Commune finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for schizophyllum commune. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+schizophyllum commune and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Schizophyllum Commune has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of schizophyllum commune into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[fukuoka-legionnaire-shoes-italian-commune]]
+- [[nostoc-commune]]
+- [[polytrichum-commune]]
+- [[schizophyllum-commune-mazatec-nis-confusion-psilocybe-mexicana]]
+- [[schizophyllum-commune-schizophyllan-cancer]]

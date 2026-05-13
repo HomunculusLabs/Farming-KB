@@ -7,13 +7,8 @@ tags: [permaculture, animal-husbandry, forage, livestock-health]
 sources: [raw/papers/bill-mollison-permaculture-a-designers-manual.md]
 ---
 # Sheep Grazing
-**Source:** Permaculture: A Designers' Manual, [[bill-mollison]] (1988)
-**Updated:** 2026-04-18
-## Overview
-Sheep are efficient converters of grasses and forbs to meat, wool, and
-milk. In [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]], sheep are managed as part of multi-species
-grazing systems, integrated with orchards, [[farm-forestry-design-mollison]], and rangeland
-rehabilitation. Mollison emphasises careful [[comparison-rotational-grazing-vs-continuous-grazing]].
+**Source:** Permaculture: A Designers' Manual, [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]], sheep are managed as part of multi-species
+grazing systems, integrated with orchards, [[comparison-rotational-grazing-vs-continuous-grazing]].
 ## Multi-Species Grazing Sequences
 Informed graziers can make much better use of browse by scheduling
 rotation. The typical sequence is:
@@ -37,58 +32,94 @@ Sheep graziers who allow long rest periods never suffer drought-related
 animal stress. Provisions for drought feeding must be made, or farmers
 may lose basic stock or sell cheaply for slaughter.
 ## Sheep in Orchards
-In the [[fukuoka-mixed-grazing-pig-cow-chicken-orchard-integration]] model (Section 12.9):
-- Years 0-3: Only bantams and small poultry on range
-- Years 3-7: Foraging pigs introduced as fruit matures
-- Years 7-20: First sheep, then controlled cattle grazing permitted
-Sheep are "soft" animals suitable for early supervised grazing in
-agroforestry, causing less damage to young trees than cattle or pigs.
-## Sheep for Lawn and Ground Cover Management
-A USDA Yearbook photo from 1897 shows sheep in Central Park, New York,
-described as "the lawn mowers or turf makers of the park." In
-permaculture systems, sheep can maintain short swards in orchard
-understories, control grass competition around young trees, and convert
-grass covers to manure for tree crops.
-## Range Diet and Browse Equivalents
-One European cow browse year equals: 266 black-tailed jackrabbits, 164
-antelope jackrabbits, 18 kangaroo, 6 sheep, or 385 ground squirrels.
-Kangaroo has 58% digestible protein versus cattle at 35%. A judicious
-balance of species always exceeds a monoculture of one species.
-## Soil and Range Health
-### Trampling Effects
-After 9 years of stocking, soil pore space was reduced 44% in the top
-two inches and 60% in the lower 24-inch layer, with infiltration
-correspondingly reduced.
-### Vegetative Cover and Infiltration
-In the first 30 minutes of rain: 5% cover → 1.2% soaks in; 15% → 1.3%;
-25% → 1.7%; 35% → 2.4%. Total cover of 65-70% is needed to prevent
-erosion entirely.
-### Parasite Problems
-Icelandic sheep on lowland or fertilised pasture suffer severe parasite
-infestation, illustrating the need for diverse grazing and long rest
-periods between rotations.
-## Blackberry Control with Sheep
-1. Fence area into 0.4 hectare lots with electric fencing
-2. Release 20 pigs per lot to eat roots
-3. Follow with 12 goats on rotation to consume regrowth
-4. Sheep (or geese) maintain the cleared area long-term
-## Breed Selection for Permaculture
-Mollison emphasises matching breed to environment. In humid temperate
-zones, Romney, Coopworth, and Perendale perform well on pasture without
-grain. In arid zones, Merino and Dorper tolerate heat and sparse forage.
-Hair sheep breeds (Katahdin, Dorper) eliminate shearing, reducing labour.
-## Design Principles
-1. **Long rotations:** Allow 2-9 years rest between grazing cycles
-2. **Small flocks:** Prefer small, high-quality flocks on extensive range
-3. **Multi-species:** Combine sheep with other livestock
-4. **Rest periods:** Never exceed 35% cover removal; 65-70% prevents
-   erosion
-5. **Shelter provision:** Trees and windbreaks reduce stress and
-   increase carcass weight by 16-30%
-6. **Water placement:** Place water to distribute [[gadd-mycelial-network-resilience-grazing-pressure]]
+In the [[gadd-mycelial-network-resilience-grazing-pressure]]
 ## Related
-- [[permaculture-designers-manual-animal-forage-systems]]
 - [[permaculture-designers-manual-goat-management]]
 - [[soil-erosion-control]]
 - permaculture-designers-manual-cover-crops-detailed
 - permaculture-designers-manual-water-quality
+
+## Overview
+
+Permaculture Designers Manual Sheep Grazing represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish permaculture designers manual sheep grazing
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving permaculture extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Permaculture Designers Manual Sheep Grazing finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for permaculture designers manual sheep grazing. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+permaculture designers manual sheep grazing and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Permaculture Designers Manual Sheep Grazing has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of permaculture designers manual sheep grazing into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[holzer-permaculture-landscape-design]]
+- [[permaculture-design-concepts-and-methods-overview]]
+- [[permaculture-design-methods-summary]]
+- [[permaculture-design-science-concepts-themes]]
+- [[permaculture-designers-manual-wildlife-corridors]]

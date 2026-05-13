@@ -109,13 +109,9 @@ In the wild, the species is protected in several European countries. Collection 
 
 ## See Also
 
-- [[ranunculus-acris]]
 - [[ranunculus-repens]]
 - ranunculus aconitifolius
-- [[ranunculus-glacialis]]
 - [[anemone-nemorosa]]
-- [[caltha-palustris]]
 - [[thalictrum-aquilegifolium]]
-- [[pulsatilla-vulgaris]]
 - [[ranunculus-bulbosus]]
 - [[ficaria-verna]]

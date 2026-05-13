@@ -12,19 +12,14 @@ type: concept
 
 # Bamboo Groves and Wood Preserves for Soil Fertility
 
-Fukuoka regarded the woods and bamboo groves surrounding a [[fukuoka-creating-natural-farm-site-selection-establishment]] as
-essential infrastructure for long-term, totally fertilizer-free cultivation.
-The basic strategy for achieving permanent soil fertility on a natural farm
-is to create deep, rich soil through the [[oyster-mushroom-pests-sciarid-cecid-phorid-fly-mite-integrated-management]] of forested
+Fukuoka regarded the woods and bamboo groves surrounding a [[oyster-mushroom-pests-sciarid-cecid-phorid-fly-mite-integrated-management]] of forested
 areas, bamboo groves, and shelterbelts that serve as both direct and indirect
-sources of [[hamilton-composting-and-organic-matter-management]] and [[fungi-convention-on-biological-diversity]].
+sources of [[fungi-convention-on-biological-diversity]].
 
 ## The Preserve as Fertility Source
 
 The woods surrounding a natural farm should be treated as a natural preserve
-and used as a direct or indirect source of [[complete-organic-fertilizer-cof-recipe-solomon]]. There are
-several methods for building deep, fertile soil: direct burial of coarse
-[[fukuoka-textdoc-composting-critique-futility-prepared-organic-matter]] deep in the ground; gradual soil improvement by planting
+and used as a direct or indirect source of [[fukuoka-textdoc-composting-critique-futility-prepared-organic-matter]] deep in the ground; gradual soil improvement by planting
 grasses and trees that send roots deep into the soil; and enrichment of the
 farm by carrying nutrients built up in the humus of upland woods downhill
 with rainwater or by other means.
@@ -39,9 +34,7 @@ this purpose.
 Although the main function of a preserve is to serve as a deeply verdant
 natural wood, it should also include companion trees that enrich the soil,
 timber trees, trees that supply food for birds and animals, and trees that
-provide habitat for the natural enemies of [[duggar-mushroom-insect-pests-and-fungal-diseases]]. This multi-function
-design ensures that the preserve contributes to the farm in multiple ways:
-soil building, [[hamilton-beneficial-insects-and-biological-pest-control]], biodiversity, and microclimate regulation.
+provide habitat for the natural enemies of [[hamilton-beneficial-insects-and-biological-pest-control]], biodiversity, and microclimate regulation.
 
 ## Establishing a Wood Preserve
 
@@ -59,40 +52,7 @@ as Chinese hackberry, zelkova, paulownia, cherry, maple, and eucalyptus.
 
 The fertile land at the foot of hills and in valleys should be planted with
 oak and evergreens such as cryptomeria and live oak, interplanted with walnut
-and ginkgo. This layered planting approach creates a diverse [[fukuoka-pine-forest-ecosystem-collapse-cascade-matsutake]]
-that builds soil at multiple depths and provides a range of products and
-ecological services.
-
-## Bamboo as a Soil Improvement Tool
-
-A bamboo grove may serve equally well as the farm's reserve. It takes a
-bamboo shoot only one year to grow to full size, so the amount of vegetative
-growth is greater than for ordinary trees. Bamboo is therefore valuable as a
-source of coarse organic material that can be buried in the ground for soil
-improvement.
-
-Not only can the shoots of certain bamboo species be sold as a vegetable,
-when dried the wood is light and easy to carry. Bamboo is hollow and has a
-large void ratio, and it decomposes slowly. These properties help it retain
-air and water in the soil when buried, making it an excellent material for
-improving soil structure and aeration.
-
-The rapid growth cycle of bamboo means it can be harvested repeatedly without
-depleting the grove. Each harvest provides a substantial quantity of organic
-material for trench composting in the orchard or garden. Unlike slow-growing
-timber trees, bamboo provides a renewable supply of soil-building material on
-an annual basis.
-
-## Shelterbelts and Windbreaks
-
-Shelterbelts and windbreak trees are valuable not only for preventing wind
-damage but also for maintaining soil fertility and environmental improvement.
-Fast-growing trees commonly planted for this purpose include cedar, cypress,
-
-## See Also
-
-- [[fukuoka-textdoc-natural-form-fruit-trees]]
-- [[fukuoka-textdoc-natural-order-microbial-ecology]]
+and ginkgo. This layered planting approach creates a diverse [[fukuoka-textdoc-natural-form-fruit-trees]]
 - [[fukuoka-textdoc-natural-paddy-farm-establishment-method]]
 
 ## Practical Applications
@@ -124,8 +84,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[doc]]
 - [[composting]]
-- [[camphor]]
 - [[fukuoka-textdoc-sawdust-wood-chips-orchard-soil-acidification-experiment]]
 - [[fukuoka-textdoc-soil-microorganism-natural-fertility-one-gram-soil]]

@@ -60,13 +60,7 @@ The rise of lager beer in the 19th century was one of the most significant shift
 
 Starting in the 1960s and accelerating through the 1980s and 1990s, a craft brewing movement emerged that challenged the dominance of mass-produced lager. Homebrewers and small commercial brewers revived traditional styles, experimented with new ingredients, and pushed the boundaries of what beer could be.
 
-The craft brewing revival also renewed interest in historical [[compost-tea-brewing-methods-aact]], including gruit ales, sour beers, farmhouse saisons, and herbal beers. This movement has continued to grow, with thousands of small breweries worldwide producing an unprecedented variety of beer styles.
-
-## Sacred and Ritual Use of Beer
-
-Throughout most of human history, beer was not merely a beverage but a sacred substance. From Sumerian temple offerings to Norse drinking rituals, from African communal brews to Amazonian chicha, fermented grain beverages have served as mediators between the human and divine realms.
-
-Many indigenous brewing traditions use specific herbs, trees, and roots that have psychoactive or medicinal properties. The combination of alcohol with these plant compounds produced beverages that were truly entheogenic -- allowing brewers and drinkers to access [[weil-the-natural-mind-altered-states-normalcy]] of consciousness for healing, divination, and religious experience.
+The craft brewing revival also renewed interest in historical [[weil-the-natural-mind-altered-states-normalcy]] of consciousness for healing, divination, and religious experience.
 
 ## Beer and Human Health
 
@@ -76,16 +70,10 @@ The medicinal use of beer extends back thousands of years. Herbal beers were use
 
 ## See Also
 
-- [[gruit-beer-and-herbs]] for the herbal tradition in European brewing
-- sacred brewing traditions for ritual and ceremonial aspects
-- malt and malting process for the science of malt production
-- ale vs lager fermentation for differences between top and bottom fermentation
-- herbal beer ingredients for traditional and unusual brewing herbs
 - [[food-fermentation-guide]] for broader fermentation science
 
 ## Related
 
-- [[wild-yeast-bread-baking]]
 - [[teaming-with-nutrients-essential-plant-nutrients]]
 
 ## Practical Applications
@@ -117,8 +105,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[malt-and-malting-process]]
 - [[sacred-brewing-traditions]]
-- [[herbal-beer-ingredients]]
 - [[doc]]
 - [[myrica-gale]]

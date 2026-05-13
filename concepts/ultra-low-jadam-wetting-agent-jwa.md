@@ -11,15 +11,8 @@ type: concept
 # JADAM Wetting Agent (JWA)
 
 The JADAM Wetting Agent (JWA) is a natural surfactant that serves as the
-most critical ingredient in the JADAM [[jadam-natural-pesticide-institute-and-research]] system. Developed
-by [[ultra-low-jadam-herb-solution-jhs]]
-and [[ultra-low-water-softening-for-pesticide-efficacy]]
-for details on water softening methods.
-
-## Dilution and Application Timing
-
-When mixing with [[ultra-low-jadam-sulfur-js]] - JADAM [[jadam-sulfur-germicide-js]]
-- [[ultra-low-cost-jadam-natural-pesticide-jnp]] - Complete pesticide system
+most critical ingredient in the JADAM [[ultra-low-jadam-herb-solution-jhs]]
+and [[ultra-low-jadam-sulfur-js]] - JADAM [[ultra-low-cost-jadam-natural-pesticide-jnp]] - Complete pesticide system
 - [[ultra-low-water-softening-for-pesticide-efficacy]] - Water quality requirements
 ## Practical Applications
 

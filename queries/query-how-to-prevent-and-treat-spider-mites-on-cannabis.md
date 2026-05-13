@@ -12,28 +12,10 @@ type: query
 
 ## Short Answer
 
-Spider mites (Tetranychus urticae) are among the most destructive [[green-cannabis-pests-prevention]], sucking sap from leaves and causing stippled yellowing that can devastate a crop if left unchecked. Prevention through quarantine, [[eclss-environmental-control-life-support]], and biological predators is far more effective than treatment after an infestation takes hold. A multi-pronged approach combining prevention, monitoring, [[fukuoka-textdoc-biological-control-fallacy-pheromone-critique]], and targeted organic treatments gives the best results.
+Spider mites (Tetranychus urticae) are among the most destructive [[eclss-environmental-control-life-support]], and biological predators is far more effective than treatment after an infestation takes hold. A multi-pronged approach combining prevention, monitoring, [[cervantes-biological-pest-control-predators]] in cannabis grows. [[query-what-is-the-ideal-temperature-range-for-growing-cannabis]] | Survives on pollen when prey is scarce |
 
-## Identifying Spider Mites
-
-Spider mites are tiny arachnids, not true insects, which means many conventional insecticides are ineffective against them. Adults are barely visible to the naked eye, appearing as tiny moving dots on leaf undersides. The [[cervantes-biological-pest-control-predators]] in cannabis grows. [[comparison-predatory-mites-vs-ladybugs-biocontrol]] are voracious consumers of spider mites at all life stages and can establish self-regulating populations when conditions are maintained appropriately.
-
-| Predator Species | Best Conditions | Notes |
-|---|---|---|
-| Phytoseiulus persimilis | High humidity (60-90%) | Most aggressive spider mite predator |
-| Amblyseius californicus | Moderate humidity (40-60%) | Tolerates lower humidity well |
-| Neoseiulus fallacis | Cool temperatures | Good for early season prevention |
-| Amblyseius andersoni | Wide [[query-what-is-the-ideal-temperature-range-for-growing-cannabis]] | Survives on pollen when prey is scarce |
-
-Introducing [[neem-oil-cannabis]] disrupts mite feeding and hormone systems; apply as a foliar spray with thorough coverage of leaf undersides
-- Insecticidal soaps penetrate and desiccate mite bodies on direct contact with the spray
-- [[spider-mites-cannabis]] detection
-- Biological predators like Phytoseiulus persimilis provide the best long-term [[neem-oil-cannabis]] and insecticidal soaps require thorough leaf underside coverage and repeated applications
-- Quarantine all new plant material and sanitize grow spaces between crops to prevent reinfestation
-
-## Related Questions
-
-- [[query-what-is-integrated-pest-management-for-organic-gardens]]
+Introducing [[spider-mites-cannabis]] detection
+- Biological predators like Phytoseiulus persimilis provide the best long-term [[query-what-is-integrated-pest-management-for-organic-gardens]]
 - [[query-how-to-prevent-and-treat-powdery-mildew-on-cannabis]]
 ## Practical Applications
 

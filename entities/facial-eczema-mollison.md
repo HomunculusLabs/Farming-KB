@@ -9,7 +9,7 @@ tags: [livestock-disease, veterinary, permaculture, agriculture, mycotoxicosis]
 
 ## Description
 
-[[facial-eczema]] is a chronic livestock disease mentioned by [[bill-mollison]] in *Permaculture: A Designers' Manual* as one of the intractable illnesses that arises from forced high-production regimes in pastoral agriculture. It is a condition affecting ruminants, particularly cattle and sheep, caused by toxicity from fungal spores (primarily *Pithomyces chartarum*) ingested from pasture. The disease exemplifies the cascading consequences of industrial farming practices that prioritise maximum yield over system health.
+[[bill-mollison]] in *Permaculture: A Designers' Manual* as one of the intractable illnesses that arises from forced high-production regimes in pastoral agriculture. It is a condition affecting ruminants, particularly cattle and sheep, caused by toxicity from fungal spores (primarily *Pithomyces chartarum*) ingested from pasture. The disease exemplifies the cascading consequences of industrial farming practices that prioritise maximum yield over system health.
 
 ## Classification
 
@@ -25,23 +25,7 @@ tags: [livestock-disease, veterinary, permaculture, agriculture, mycotoxicosis]
 - Bill Mollison cites facial eczema as a consequence of stressed, high-production farming systems in New Zealand, where veterinary costs reached $120 per stock unit in intensive operations.
 - The disease damages the liver of affected animals, leading to photosensitization (skin lesions, especially on the face), weight loss, and reduced productivity.
 - On less-stressed pastures and farms, veterinary costs drop dramatically to around $20 per unit, and herds remain healthier.
-- The condition is directly linked to over-fertilisation and intensive [[pasture-management]] that creates ideal conditions for the toxigenic fungus.
-- It exemplifies Mollison's argument that forced maximum product yield creates "unique and inflexible health problems in plants, soils, and animals."
-- 93% of chickens in battery cages develop cancers — a parallel Mollison draws to show how forcing production creates systemic health failures.
-- The disease was first identified in New Zealand in the early 20th century and remains a major economic burden on the dairy and sheep industries.
-
-## Causative Fungus and Lifecycle
-
-- *Pithomyces chartarum* is a saprophytic fungus that grows on dead pasture litter, particularly ryegrass.
-- It produces sporidesmin, a potent mycotoxin that causes severe liver damage in grazing animals.
-- The fungus thrives in warm (12-15°C minimum), humid conditions with adequate moisture.
-- High nitrogen fertilisation of pastures increases the lush growth that later becomes dead litter substrate.
-- Spore counts peak in late summer and early autumn when conditions are most favorable.
-- Monoculture ryegrass pastures provide ideal habitat — continuous dead litter without diverse decomposer communities.
-
-## Relevance to Cultivation and Mycology
-
-Facial eczema sits at the intersection of mycology and livestock management. The causative fungus *Pithomyces chartarum* thrives in warm, humid conditions on dead pasture litter — conditions exacerbated by intensive grazing and fertiliser regimes. This is a prime example of how [[fungal-ecology]] directly impacts agricultural sustainability. Permaculture approaches — diverse pasture mixes, rotational grazing, reduced chemical inputs — create environments less favorable to the pathogenic fungus and more resilient livestock systems. Understanding this disease reinforces the permaculture principle that diverse, low-stress systems are more productive in the long term than forced monocultures.
+- The condition is directly linked to over-fertilisation and intensive [[fungal-ecology]] directly impacts agricultural sustainability. Permaculture approaches — diverse pasture mixes, rotational grazing, reduced chemical inputs — create environments less favorable to the pathogenic fungus and more resilient livestock systems. Understanding this disease reinforces the permaculture principle that diverse, low-stress systems are more productive in the long term than forced monocultures.
 
 ## Management in Permaculture Systems
 
@@ -59,22 +43,91 @@ Mollison uses facial eczema as a case study in why the "Big Pumpkin Fallacy" —
 
 ## Source Reference
 
-Mollison, B. (1988). *Permaculture: A Designers' Manual*. [[tagari-publications]]. Chapter 2, section on Maximum Product Yield Concept: The "Big Pumpkin" Fallacy.
+Mollison, B. (1988). *Permaculture: A Designers' Manual*. [[facial-eczema]]
+- [[blesching-cannabis-eczema-dermatitis]]
+- [[mollison-designers-seed-saving-varieties]]
 
-## Key Contributions
-- Advanced understanding of ecological systems and sustainable practices
-- Influenced modern permaculture and environmental science methodology
-- Pioneered integrative approaches to land management and design
-- Published influential works on ecological principles
+## Overview
+
+Facial Eczema Mollison represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish facial eczema mollison
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving facial extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Facial Eczema Mollison finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for facial eczema mollison. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+facial eczema mollison and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
 
 ## Historical Context
-- Worked during a period of growing environmental awareness
-- Ideas contributed to the development of sustainable agriculture
-- Legacy continues to influence practitioners worldwide
 
-## Related Figures
-- [[facial-eczema]]
-- [[cannabis-and-eczema]]
+Facial Eczema Mollison has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of facial eczema mollison into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
 - [[blesching-cannabis-eczema-dermatitis]]
-- [[mollison-designers-forest-condensation-and-micro-climate-rainfall]]
-- [[mollison-designers-seed-saving-varieties]]
+- [[cannabis-and-eczema]]
+- [[facial-eczema]]
+- [[mentha-aquatica-mollison]]
+- [[soya-bean-mollison]]

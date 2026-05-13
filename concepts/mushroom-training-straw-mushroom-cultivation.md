@@ -14,8 +14,7 @@ sources:
 ---
 
 # volvariella-volvacea-cultivation-guide), known as "Hed Fang" in Thailand, are among the
-fastest-growing [[fungi-cultivated-mushrooms-pathogens-competitors]] with a complete production cycle of only 7 to 23 days.
-Unlike [[volvariella-volvacea]] (Thai) | Hed Fang Thai | 29 to 37 C | Summer and rainy |
+fastest-growing [[volvariella-volvacea]] (Thai) | Hed Fang Thai | 29 to 37 C | Summer and rainy |
 | Volvariella volvacea (Taiwan) | Hed Fang Taiwan | 28 to 38 C | Summer and rainy |
 | mushroom-spawn
    - 1 layer of sawdust waste from old bags
@@ -35,21 +34,7 @@ Unlike [[volvariella-volvacea]] (Thai) | Hed Fang Thai | 29 to 37 C | Summer and
 ## Bed Arrangement
 
 9. Repeat the bed-making operation several times, leaving approximately 20 cm between each
-   cake to allow space for [[pf-tek-mushroom-growth-timeline]] and access
-
-10. Make a drain around the series of cakes to allow drainage of excess water
-
-11. Place little pieces of wood on the sides of the cakes in a slanted manner to create a
-    slope that directs water away from the beds
-
-12. Spread one or two plastic sheets to fully cover the cakes and the pieces of wood,
-    allowing rain to slip into the drain
-
-13. Spread hay over the plastic sheet to maintain humidity, protect from sunlight, and hold
-    temperature inside the bed
-
-14. After 3 days, allow air into the bed by setting up a curve under the plastic sheet to
-    create more [[stamets-growing-room-air-circulation-co2-management]]
+   cake to allow space for [[stamets-growing-room-air-circulation-co2-management]]
 
 ## Fruiting and Harvesting
 
@@ -64,10 +49,7 @@ are still edible but command a lower market price.
 ## Advantages of Straw Mushroom Cultivation
 
 - Extremely fast production cycle (7 to 23 days total)
-- Recycles [[oyster-mushroom-spent-substrate-recycling]] from bag cultivation, reducing waste
-- Can be grown outdoors with minimal infrastructure
-- Higher temperature tolerance suits tropical climates
-- Low input costs using [[fungi-in-composting-and-agricultural-waste-conversion]] materials
+- Recycles [[fungi-in-composting-and-agricultural-waste-conversion]] materials
 - Can serve as a complementary crop alongside bag-based cultivation
 
 ## Relationship to Other Cultivation Methods
@@ -84,8 +66,85 @@ beds. This creates a nearly zero-waste production system.
 - Multiple production cycles require careful scheduling
 - Heavy rainfall can disrupt outdoor beds despite drainage provisions
 ## See Also
-- [[mushroom-cultivation]]
 - [[volvariella-volvacea]]
-- [[mushroom-cultivation-for-disabilities-training-program]]
 - [[training-program-mushroom-cultivation]]
 - [[mushroom-cultivation-disabilities-training-manual-overview]]
+
+## Overview
+
+Mushroom Training Straw Mushroom Cultivation represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish mushroom training straw mushroom cultivation
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving mushroom extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Mushroom Training Straw Mushroom Cultivation finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for mushroom training straw mushroom cultivation. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+mushroom training straw mushroom cultivation and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Mushroom Training Straw Mushroom Cultivation has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of mushroom training straw mushroom cultivation into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also

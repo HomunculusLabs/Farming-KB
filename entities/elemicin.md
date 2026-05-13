@@ -14,50 +14,8 @@ sources:
 # Elemicin
 Elemicin (elemicine) is a naturally occurring psychoactive
 allylbenzene found in aromatic plants, most notably nutmeg
-([[myristica-fragrans]]), where it contributes to the spice's
-psychoactive properties. Structurally related to myristicin,
-safrole, and eugenol, it is a methoxy-allylbenzene (IUPAC:
-1-allyl-3,4,5-trimethoxybenzene). When consumed in quantity,
-it produces mild psychedelic and stimulant effects via
-metabolic conversion to 3,4,5-trimethoxyamphetamine (TMA).
-Also investigated for antimicrobial, insecticidal, and
-cytotoxic properties.
-
-## Chemical Identity
-- **IUPAC name:** 1-Allyl-3,4,5-trimethoxybenzene
-- **Formula:** C12H16O3 | **MW:** 208.25 g/mol
-- **CAS:** 487-11-6
-- **SMILES:** COc1cc(cc(c1OC)CC=C)OC
-- **InChIKey:** WPZTKDNBVBAQAU-UHFFFAOYSA-N
-- **Class:** Allylbenzene (phenylpropene)
-- **Appearance:** Colorless to pale yellow liquid
-- **Boiling point:** 256-258°C | **Density:** 1.042 g/cm³
-- **Solubility:** Insoluble in water; soluble in ethanol,
-  ether
-- **Odor:** Warm, spicy, aromatic
-
-## Structural Relationships
-| Compound | Structure | Relationship |
-|----------|-----------|-------------|
-| Myristicin | 3-MeO-4,5-MD-allylbenzene | Isomer; diff. methoxy |
-| Safrole | 3,4-MD-allylbenzene | Fewer methoxy groups |
-| Eugenol | 4-allyl-2-MeO-phenol | Phenolic |
-| Estragole | 4-allyl-anisole | Simplest allylbenzene |
-| Asarone | 2,4,5-TMA-1-propenylbenzene | Propenyl vs allyl |
-| Mescaline | 3,4,5-TMA-PEA | Same pattern; ethylamine |
-| TMA | 3,4,5-TMA | Metabolite; amine analogue |
-
-The 3,4,5-trimethoxy pattern shared with mescaline is a known
-pharmacophore for 5-HT2A receptor activity.
-
-## Natural Occurrence
-- **Myristica fragrans (nutmeg):** 0.5-3.5% of essential
-  oil; primary psychoactive alongside myristicin
-- **Pimenta racemosa (bay rum):** Leaf and berry oils
-- **[[pimenta-dioica]] (allspice):** Minor constituent
-- **[[ocimum-basilicum]] (basil):** Certain chemotypes
+([[pimenta-dioica]] (allspice):** Minor constituent
 - **[[sweet-flag-acorus-calamus-ethnobotany]] (sweet flag):** Rhizome oil
-- **[[cananga-odorata]] (ylang-ylang):** Trace amounts
 - **[[mangifera-indica]] (mango):** Peel oil of some varieties
 - **Various Lauraceae:** Bark and leaf oils
 
@@ -71,13 +29,7 @@ believed to result primarily from hepatic metabolism:
 - **O-Demethylation:** CYP1A2/CYP2D6 may demethylate
   methoxy groups to hydroxylated metabolites
 - **Direct activity:** Weak 5-HT2A/5-HT2C affinity
-- **[[tihkal-oral-activity-mao-inhibition]]:** Weak MAOI activity may potentiate
-  endogenous or co-administered amines
-Metabolic conversion explains the 2-6 hour onset delay.
-
-### Pharmacokinetics
-- **Absorption:** Well absorbed orally; through skin/mucous
-  membranes from [[comparison-essential-oils-vs-neem-oil-vs-insecticidal-soap]]
+- **[[comparison-essential-oils-vs-neem-oil-vs-insecticidal-soap]]
 - **Distribution:** Lipophilic; crosses blood-brain barrier
 - **Metabolism:** Hepatic CYP450; allyl chain oxidation
 - **Duration:** Effects persist 12-24+ hours (via nutmeg)
@@ -88,3 +40,80 @@ Typical nutmeg dose (5-15g) contains ~50-500mg elemicin
 along with myristicin and other compounds.
 - **Mild (50-200mg):** Stimulation, heightened senses,
   mild euphoria, warming sensation
+
+## Overview
+
+Elemicin represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish elemicin
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving elemicin extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Elemicin finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for elemicin. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+elemicin and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Elemicin has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of elemicin into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.

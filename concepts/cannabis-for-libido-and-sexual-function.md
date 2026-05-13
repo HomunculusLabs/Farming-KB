@@ -10,30 +10,7 @@ sources:
 
 updated: 2026-04-18
 
-Cannabis has a complex and paradoxical relationship with sexual function, capable of both enhancing and diminishing libido depending on dose, strain, individual psychology, and context. The [[cannabis-endocannabinoid-system]] modulates sexual function through CB1 and CB2 receptors in:
-- Hypothalamus (regulating sexual behavior and hormone release)
-- Reproductive organs (modulating blood flow and sensation)
-- Peripheral nervous system (affecting tactile sensitivity)
-- Brain reward circuits (dopamine-mediated pleasure pathways)
-
-### Anandamide and Sexual Pleasure
-A 2007 University of Michigan study found that anandamide (the body's own endocannabinoid) enhances the pleasure experience in rats. This provides a neurochemical basis for cannabis's effects on sexual sensation.
-
-## Effects of Properly Dosed Cannabis
-
-A properly dosed use of cannabis may:
-- Stimulate heightened sensations and tactile sensitivity
-- Increase stamina and endurance
-- Deepen intensity of orgasms
-- Produce a more profound sense of intimacy and emotional connection
-- Ease performance-related anxiety through anti-anxiety properties
-- Reduce inhibitions
-
-Males have reported harder erections, while females described increases in lubrication and clitoral swelling during sex. These effects are mediated through vasodilation and CB1 receptor activation in reproductive tissues.
-
-## The Dose-Response Paradox
-
-Each effect depends on a very [[cannabis-subjective-therapeutic-window-dosing]] window:
+Cannabis has a complex and paradoxical relationship with sexual function, capable of both enhancing and diminishing libido depending on dose, strain, individual psychology, and context. The [[cannabis-subjective-therapeutic-window-dosing]] window:
 - **Optimal dose**: Heightened sensation, increased intimacy, enhanced pleasure
 - **Too high a dose**: Can deepen anxieties, reduce sensations, and impair performance
 - Effects fade as the body metabolizes the plant
@@ -64,30 +41,12 @@ Research findings:
 - Performance anxiety creates a vicious cycle of failure and avoidance
 
 Aggravating factors:
-- Suppressed or [[guilt-martyrdom-harbored-anger-as-health-hazards]], especially toward the gender one feels attracted to
-- Performance anxieties and fear of inadequacy
-- Past traumatic experiences related to sexuality
-
-Supporting approaches:
-- Working with appropriate release of anger and hostility
-- Changing beliefs that create anger toward one's attracted gender
-- Reducing or ending performance-based anxieties
-- Building trust and emotional safety in intimate relationships
-
-## See Also
-
-- cannabis for libido and sexual function
-
-- [[cannabis-dosing-guidelines]]
-- [[cannabis-for-mental-health]]
-
-## Source
-
-Blesching, U. (2015). *The [[blesching-cannabis-health-index-autoimmune-conditions]]*. Chapter IV: "Libido Enhancement/Sexual Function." North Atlantic Books.
+- Suppressed or [[cannabis-dosing-guidelines]]
+- [[blesching-cannabis-health-index-autoimmune-conditions]]*. Chapter IV: "Libido Enhancement/Sexual Function." North Atlantic Books.
 
 ## Merged: Cannabis and Libido Enhancement
 
-**Source:** The [[cannabis-cannabinoid-receptor-pharmacology]] and [[cannabis-cannabinoid-receptor-pharmacology]] relatively equally. Sativa and sativa-heavy hybrids present higher THC:CBD ratios with similar activation patterns.
+**Source:** The [[cannabis-cannabinoid-receptor-pharmacology]] relatively equally. Sativa and sativa-heavy hybrids present higher THC:CBD ratios with similar activation patterns.
 
 ## Practical Applications
 
@@ -118,8 +77,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[ebb-and-flow]]
 - [[doc]]
-- [[dom]]
 - [[anandamide]]
 - [[cannabis-for-nausea-and-appetite-stimulation]]

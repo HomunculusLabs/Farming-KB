@@ -16,9 +16,8 @@ type: concept
 
 # Peyote and the Tracks of the Little Deer
 
-Peyote (*[[schultes-san-pedro-four-winds]] for the [[chiric-caspi-brunfelsia-south-american-hallucinogen]]
-  [[peyote-mescaline-cactus-pharmacology]] used in Andean ceremonies
-- [[plants-of-the-gods-cannabis-ancient-cultures]] for another plant
+Peyote (*[[chiric-caspi-brunfelsia-south-american-hallucinogen]]
+  [[plants-of-the-gods-cannabis-ancient-cultures]] for another plant
   with deep ceremonial significance across cultures
 - [[schultes-psilocybe-little-flowers-gods]] for Mexican sacred
   mushrooms used in similar divinatory contexts

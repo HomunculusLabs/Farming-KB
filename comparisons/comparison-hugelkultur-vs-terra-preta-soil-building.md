@@ -24,15 +24,7 @@ type: comparison
 
 # Hugelkultur vs. Terra Preta for Soil Building
 
-Both hugelkultur and terra preta represent ancient or nature-inspired approaches to building extraordinarily fertile, carbon-rich soil. While they share the goal of transforming organic matter into lasting soil fertility, their methods, timelines, materials, and applications differ significantly. This comparison helps growers [[query-how-do-i-choose-the-right-cannabis-strain-for-my-grow]] approach — or combine both — for their specific site and goals.
-
-## Overview
-
-### Hugelkultur
-
-Hugelkultur ("mound culture" in German) is a permaculture technique that involves burying woody material (logs, branches, brush) under soil to create raised beds. As the wood decomposes over years, it acts like a sponge — absorbing and slowly releasing water and nutrients. Popularized by Sepp Holzer and extended by Paul Wheaton and others, hugelkultur beds are essentially accelerated decomposition systems built into the landscape.
-
-**Key mechanism**: Anaerobic and aerobic decomposition of buried wood creates a long-term [[dighton-fungal-biomass-nutrient-reservoir-ecosystems]] and water-holding matrix beneath the planting surface.
+Both hugelkultur and terra preta represent ancient or nature-inspired approaches to building extraordinarily fertile, carbon-rich soil. While they share the goal of transforming organic matter into lasting soil fertility, their methods, timelines, materials, and applications differ significantly. This comparison helps growers [[dighton-fungal-biomass-nutrient-reservoir-ecosystems]] and water-holding matrix beneath the planting surface.
 
 ### Terra Preta
 
@@ -51,9 +43,7 @@ Terra preta (Portuguese for "black soil") refers to the remarkably fertile anthr
 | **Setup effort** | High (digging, moving wood, mounding soil) | Moderate (produce or source biochar, inoculate, incorporate) |
 | **Time to benefit** | Good in year 1, improving over 5–15 years | Can benefit immediately if properly inoculated; improves over decades |
 | **Space requirements** | Requires significant space (beds are large) | Scalable from container gardens to broadacre |
-| **Cost** | Low (uses on-site materials) | Moderate to high ([[comparison-biochar-production-guide-vs-biochar-soil-amendment]] or purchase) |
-| **Water management** | Excellent — acts as a subterranean sponge | Good — increases soil water-holding capacity by 15–30% |
-| **[[ph-and-nutrient-availability-garden-soils]]** | Slow release as wood decomposes | Nutrients retained in biochar pores, released by microbial activity |
+| **Cost** | Low (uses on-site materials) | Moderate to high ([[ph-and-nutrient-availability-garden-soils]]** | Slow release as wood decomposes | Nutrients retained in biochar pores, released by microbial activity |
 | **Soil type suitability** | Best on well-drained sites; can retain too much water in heavy clay | Universal — benefits all soil types, especially sandy and degraded soils |
 | **Pest/disease dynamics** | Rotting wood can attract termites in some climates | Biochar can suppress certain soil-borne pathogens |
 | **Climate zone** | Best in temperate to continental zones with distinct seasons | Universal — used in tropics, temperate, and arid zones |
@@ -98,18 +88,7 @@ Terra preta (Portuguese for "black soil") refers to the remarkably fertile anthr
 
 **Hugelkultur** creates a diverse microbial environment. The interface between decomposing wood and soil supports fungi, bacteria, actinomycetes, and a rich soil food web. Fungal networks (especially saprophytic fungi) dominate the decomposing wood, making hugel beds naturally fungal-dominant — beneficial for perennial crops and trees.
 
-**Terra preta** provides permanent physical habitat for microorganisms. Biochar's internal pores serve as condominiums for beneficial bacteria, mycorrhizal fungi, and other soil organisms, protecting them from predation and environmental stress. This is why terra preta soils remain fertile for centuries without external inputs — the [[edaphic-factors-microbial-community-structure]] is self-sustaining within the biochar matrix.
-
-**Winner**: Terra preta for permanent, protective habitat. Hugelkultur for dynamic, evolving fungal ecosystems.
-
-## When to Choose Hugelkultur
-
-- You have abundant woody debris (fallen trees, brush, pruning waste) on site
-- Your site is dry and you need maximum water retention
-- You're building raised beds anyway and want to incorporate long-term fertility
-- You're establishing a food forest or perennial polyculture on a dry slope
-- You enjoy heavy earthwork and have the physical capacity for it
-- You're in a [[permaculture-designers-manual-temperate-climate-design]] zone (Zones 4–8)
+**Terra preta** provides permanent physical habitat for microorganisms. Biochar's internal pores serve as condominiums for beneficial bacteria, mycorrhizal fungi, and other soil organisms, protecting them from predation and environmental stress. This is why terra preta soils remain fertile for centuries without external inputs — the [[permaculture-designers-manual-temperate-climate-design]] zone (Zones 4–8)
 - You want to build contour swales that double as planting beds
 - Your property has poor, compacted soil that needs both physical breaking and organic enrichment
 
@@ -141,7 +120,5 @@ These techniques are not mutually exclusive — in fact, they complement each ot
 **Choose terra preta (biochar)** when you want permanent soil improvement, need to scale across large areas, or are focused on carbon sequestration. It's the better choice for long-term investment in soil health.
 
 ## See Also
-- [[comparison-terra-preta-vs-modern-biochar]]
 - [[decomposition]]
-- [[hugelkultur]]
 - [[comparison-hugelkultur-vs-biochar-soil-building]]

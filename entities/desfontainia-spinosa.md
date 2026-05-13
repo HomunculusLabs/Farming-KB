@@ -44,33 +44,15 @@ The berry is white or greenish yellow, globose, approximately 0.5 inches (1.2 cm
 
 ## Distribution
 
-The species occurs in the highlands of [[guzman-allen-gartz-neurotropic-fungi-central-america-caribbean]] and South America. It has been specifically reported as a hallucinogen from Chile and southern Colombia, suggesting a distribution along the Andean cordillera.
-
-The plant is found at elevations between 1,500 and 3,500 meters, growing in cloud forests and montane habitats. Its range extends from Colombia through Ecuador, Peru, and Bolivia into southern Chile and Argentina. It prefers humid, shaded environments and is often found growing as an understory shrub in montane forest ecosystems.
-
-## Ethnobotanical Uses
-
-### Chilean Use (Taique)
-
-In Chile, Desfontainia spinosa is known as **Taique** and has been used for shamanic purposes similar to [[brugmansia-sanguinea]] — produces deliriant effects via tropane alkaloids
-- [[datura-stramonium]] — contains scopolamine and hyoscyamine
-- cestrum-parqui — another Solanaceae with reported toxic properties
-
-The key distinction of D. spinosa from these tropane-containing plants is the apparent quality of its hallucinogenic effects, which are described as more visionary and less deliriant. This pharmacological difference may reflect a fundamentally different class of active compounds.
-
-## Conservation and Research Needs
-
-As an understudied psychoactive plant, D. spinosa presents significant opportunities for pharmacological research. Priority areas include isolation and identification of the active alkaloids, characterization of [[tihkal-receptor-binding-serotonin]] profiles, and documentation of remaining indigenous knowledge about its preparation and use. Conservation of both the plant and the cultural traditions surrounding its use should be considered an ethnobotanical priority.
+The species occurs in the highlands of [[brugmansia-sanguinea]] — produces deliriant effects via tropane alkaloids
+- [[tihkal-receptor-binding-serotonin]] profiles, and documentation of remaining indigenous knowledge about its preparation and use. Conservation of both the plant and the cultural traditions surrounding its use should be considered an ethnobotanical priority.
 
 ## See Also
 
-- [[capparis-spinosa]]
-
 - [[prunus-spinosa]]
 
-- [[brugmansia-sanguinea]] — another "Borrachero" of the Andes
 - [[lobelia-tupa]] — Tabaco del Diablo, used by Mapuche Indians
-- [[lophophora-williamsii]] — Peyote, comparison of New [[old-world-hallucinogenic-plants-overview]] plants
+- [[old-world-hallucinogenic-plants-overview]] plants
 ## Practical Considerations
 
 Successful implementation of Desfontainia spinosa requires attention to
@@ -89,3 +71,80 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
+
+## Overview
+
+Desfontainia Spinosa represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish desfontainia spinosa
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving desfontainia extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Desfontainia Spinosa finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for desfontainia spinosa. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+desfontainia spinosa and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Desfontainia Spinosa has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of desfontainia spinosa into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.

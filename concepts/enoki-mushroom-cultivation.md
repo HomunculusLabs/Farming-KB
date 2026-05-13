@@ -8,15 +8,7 @@ sources: [papers/a-training-manual-mushroom-cultivation-by-people-with-disabi.md
 ---
 # Enoki Mushroom Cultivation
 
-Enoki ([[flammulina-velutipes]]) is one of the most popular [[fungi-cultivated-mushrooms-pathogens-competitors]] in Japan, where it has been grown commercially for centuries. In the wild, it is a short-stemmed mushroom with broad caps. Through manipulation of CO2 and light levels, cultivators produce the characteristic long-stemmed, small-capped form that dominates the [[porcini-commercial-market]].
-
-## Species Information
-
-- Scientific name: Flammulina velutipes (Curt.: Fr.) Sing.
-- Synonyms: Collybia velutipes (Fr.) Quel.
-- Common names: Enokitake ("Snow Peak Mushroom"), Nametake ("Slimy Mushroom"), Yuki-motase ("Snow Mushroom"), The Winter Mushroom, The Velvet Foot, The Golden Mushroom (Thailand)
-- Family: Tricholomataceae
-- Distribution: Widespread throughout [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]] worldwide, from sea level to tree-line
+Enoki ([[fungi-cultivated-mushrooms-pathogens-competitors]] in Japan, where it has been grown commercially for centuries. In the wild, it is a short-stemmed mushroom with broad caps. Through manipulation of CO2 and light levels, cultivators produce the characteristic long-stemmed, small-capped form that dominates the [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]] worldwide, from sea level to tree-line
 
 ## Morphology
 
@@ -56,31 +48,9 @@ Cropping cycle: 2-3 crops, 10-12 days apart. Most strains require a cold shock f
 
 The Japanese bottle method is the industry standard:
 
-1. Polypropylene bottles filled with [[oyster-mushroom-supplemented-sawdust-blocks]] (alder, cottonwood, poplar, willow, aspen)
-2. Inoculate with [[comparison-grain-spawn-vs-grain-to-grain-transfer]] at 10-15% rate
+1. Polypropylene bottles filled with [[comparison-grain-spawn-vs-grain-to-grain-transfer]] at 10-15% rate
 3. Incubate at 70-75 F for 2-3 weeks
-4. Cold shock to 45-50 F for [[growing-gourmet-primordia-formation-pinning]]
-5. Insert a paper or plastic cylinder into the bottle opening to channel CO2
-6. Stems elongate through the cylinder, producing uniform clusters
-7. Remove cylinder before harvest; grasp cluster and pull
-8. Trim residual substrate debris
-
-The pH range for fruiting falls between 5-6. Enoki also grows on a wide variety of tree species, making it adaptable to different regional wood supplies.
-
-## Alternative Cultivation Methods
-
-While bottle culture is the commercial standard, Enoki can also be grown in:
-- **Bag culture**: Similar to bottle culture but using autoclavable bags with filter patches
-- **Log culture**: Natural cultivation on hardwood logs, though yields are lower and less predictable
-- The same methods apply for bag culture of Shiitake and Enoki in many small-scale operations
-
-## Mycelial Characteristics
-
-White, longitudinally linear, becoming finely appressed and tinged light brown to spotted with golden yellow-brown zones with age. Surface roughens resembling fine sandpaper. Sometimes becomes beaded at earliest stage of [[mushroom-pinning-primordia-formation-strategies]]. Long-stemmed, small-capped mushrooms commonly form along inside periphery of petri dish or during [[root-cellaring-guide]] of culture slants. Mycelium on grain is white and vigorous.
-
-## Yield
-
-- [[stamets-biological-efficiency-yield]]: up to 150% (preponderance is stem mass)
+4. Cold shock to 45-50 F for [[mushroom-pinning-primordia-formation-strategies]]. Long-stemmed, small-capped mushrooms commonly form along inside periphery of petri dish or during [[stamets-biological-efficiency-yield]]: up to 150% (preponderance is stem mass)
 - Standard yield from 1-liter bottles: 3-5 oz per first flush
 - Clusters average 5-6 oz (140-170 grams) per bottle in commercial operations
 - Multiple flushes possible but first flush is dominant
@@ -118,8 +88,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[mushroom-cultivation]]
 - [[dom]]
-- [[spore]]
 - [[flammulina-velutipes]]
 - [[mycelium]]

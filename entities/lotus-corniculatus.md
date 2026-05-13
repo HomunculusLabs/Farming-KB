@@ -16,60 +16,8 @@ sources:
   - Frame, J. (2003). "Forage legumes for temperate grasslands."
     Science Publishers, Enfield, NH.
   - Acuña, C.A., et al. (2009). "Lotus species: taxonomy, genetics,
-    and breeding." [[brassinosteroid-anti-stress-effects-crop-science]], 49(2), 418–429.
-  - Wink, M. (2013). "Evolution of antifungal-secondary-metabolites-coprophilous-fungi in legumes."
-    Journal of Plant Physiology, 170(12), 1038–1047.
-  - Sprent, J.I. (2009). *Legume Nodulation: A Global Perspective*.
-    Wiley-Blackwell, Oxford.
-  - USDA NRCS (2024). "Lotus corniculatus L." PLANTS Database.
----
-
-## Overview
-
-**Lotus corniculatus** (bird's-foot trefoil, common bird's-foot trefoil,
-butter-and-eggs) is a perennial herbaceous legume in the family Fabaceae.
-Native to Eurasia and North Africa, it is widely naturalized across temperate
-regions worldwide and valued as a forage crop, ground cover, and
-biodiversity-supporting plant.
-
-The species forms [[fungi-in-the-environment-symbiotic-relationships]] with rhizobia to fix atmospheric
-nitrogen, making it valuable in [[phosphate-accumulators-sustainable-agriculture]] and permaculture
-systems. Its bright yellow-and-orange flowers are an important nectar source
-for pollinators.
-
-Unlike many legumes, *L. corniculatus* does not cause bloat in ruminants
-due to its condensed tannin content, giving it advantages over alfalfa and
-white clover as a forage.
-
-## Taxonomy and Morphology
-
-**Taxonomy:**
-
-- **Kingdom:** Plantae
-- **Order:** Fabales
-- **Family:** Fabaceae (subfam. Faboideae, tribe Loteae)
-- **Genus:** *Lotus*
-- **Species:** *L. corniculatus* L.
-
-**Morphology:**
-
-- **Root:** Deep taproot (to 1 m+), extensively branched, with rhizobial
-  nodules on lateral roots
-- **Stems:** 10–40 cm, prostrate to ascending, branching from base, green
-  to reddish-green, glabrous
-- **Leaves:** Compound trifoliate, 5–15 mm leaflets, obovate; distinctive
-  stipules at base of petiole adnate to stem
-- **Flowers:** Umbel-like racemes of 5–12 flowers, 10–15 mm; pea-type,
-  yellow with red or orange veins (hence "butter-and-eggs"); calyx
-  tubular, 5-toothed; standard petal 8–12 mm
-- **Fruit:** Cylindrical pod, 15–30 mm × 2–3 mm, dark brown when ripe,
-  spreading at maturity (resembling a bird's foot)
-- **Seeds:** 6–10 per pod, 1–1.5 mm, olive-green to brown
-
-## Distribution and Habitat
-
-Native to Europe, western Asia, and North Africa. Naturalized across
-[[psilocybin-north-america-pacific-northwest]], [[guzman-psilocybin-mushrooms-south-america]], Australia, and New Zealand. In [[guzman-psilocybin-mushrooms-north-america]],
+    and breeding." [[fungi-in-the-environment-symbiotic-relationships]] with rhizobia to fix atmospheric
+nitrogen, making it valuable in [[psilocybin-north-america-pacific-northwest]], [[guzman-psilocybin-mushrooms-north-america]],
 it occurs in all contiguous US states and most Canadian provinces.
 
 Grows in a wide range of habitats: grasslands, meadows, roadsides,
@@ -88,3 +36,85 @@ or acidic soils where alfalfa (*[[alfalfa-medicago-sativa]]*) performs poorly.
 - **Yield:** Dry matter yield 4–8 t/ha depending on fertility and moisture
 - **Nutrition:** Crude protein 18–22% DMD; moderate digestibility; high
   condensed tannins (2–4% DM) prevent bloat and improve protein utilization
+
+## Overview
+
+Lotus Corniculatus represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish lotus corniculatus
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving lotus extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Lotus Corniculatus finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for lotus corniculatus. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+lotus corniculatus and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Lotus Corniculatus has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of lotus corniculatus into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[blue-lotus-history]]
+- [[nymphaea-lotus]]

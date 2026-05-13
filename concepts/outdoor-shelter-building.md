@@ -3,7 +3,7 @@ title: Outdoor Shelter Building
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
-tags: [[homesteading]], construction, safety, design, beginner]
+tags: [homesteading, construction, safety, design, beginner]
 sources: []
 ---
 
@@ -18,9 +18,9 @@ Regardless of shelter type, these principles apply:
 - **Insulation from the ground** — the ground conducts heat away from your body 25 times faster than still air. Always insulate between yourself and the ground with dry leaves, pine needles, boughs, or a sleeping pad.
 - **Small space** — your body heats a small space faster than a large one. Build just big enough to fit you and your gear.
 - **Waterproofing** — thatch, bark, leaves, or a tarp shed water. Layer from bottom to top so water flows over and off, not through.
-- **[[cervantes-wind-protection-outdoor-cannabis]]** — face the opening away from prevailing wind. A windbreak (even a pile of branches) on the windward side dramatically improves comfort.
+- **Wind protection** — face the opening away from prevailing wind. A windbreak (even a pile of branches) on the windward side dramatically improves comfort.
 - **Structural integrity** — ensure the frame can support its own weight plus the weight of insulation, snow, or rain. Test it before committing to the insulation layer.
-- **Location** — avoid low spots ([[hemenway-cold-air-drainage-and-frost-management]] pools, water collects), dead trees or branches overhead (widowmakers), animal trails, and insect nesting areas. Look for natural features that provide partial shelter (rock overhangs, fallen trees, root balls).
+- **Location** — avoid low spots (cold air pools, water collects), dead trees or branches overhead (widowmakers), animal trails, and insect nesting areas. Look for natural features that provide partial shelter (rock overhangs, fallen trees, root balls).
 
 ## Tarp Shelters
 
@@ -96,7 +96,7 @@ A lean-to is a simple, open-fronted shelter built against a horizontal pole supp
 - Can be scaled up for group shelter
 
 ### Limitations
-- Open front provides no [[coleman-cold-house-wind-protection-microclimate]] from the front
+- Open front provides no wind protection from the front
 - Not warm enough for extreme cold without fire
 - Requires fire-building skill for cold conditions
 
@@ -140,11 +140,11 @@ On a working homestead, shelter-building skills apply beyond survival:
 - Folding saw or bow saw
 - Hatchet or small axe
 - Knife (fixed blade, full tang)
-- 50-100 feet of paracord or natural cordage
-- Tarp (8x10 or 10x12)
-- 8-10 metal or wooden stakes
-- Work gloves
 
-## Practice
+## See Also
 
-Build shelters for fun before you need them for survival. Practice each type in good weather, then in bad weather. Time yourself. Learn which natural materials in your specific area work best for thatching and insulation. Competence comes from repetition, not reading.
+- [[query-how-to-build-a-cob-oven-for-outdoor-cooking]]
+- [[cervantes-outdoor-vertebrate-pest-control]]
+- [[cotter-outdoor-mushroom-garden-mulch-beds]]
+- [[query-how-do-i-choose-between-indoor-outdoor-and-greenhouse-cannabis-growing]]
+- [[query-how-do-i-start-an-outdoor-mushroom-garden-in-my-backyard]]

@@ -48,21 +48,7 @@ A south-facing stone wall can raise nearby temperatures by several degrees.
 Water has the highest thermal mass of any common material, storing roughly
 twice as much heat per volume as stone.
 Placing water barrels or a small pond near tender plants provides passive
-[[holzer-frost-protection-techniques]].
-Even a pile of rocks at the base of a fruit tree stores enough heat to
-protect blossoms from light frost.
-Dark-colored mulches like stone or gravel absorb solar radiation and warm
-the soil faster in spring, advancing your planting date.
-## Block Wind to Reduce Cooling
-Wind increases evaporation, cools surfaces, and damages plants.
-Even a simple fence or dense hedge provides measurable wind reduction for
-several times its height on the downwind side.
-A multi-row windbreak with evergreen and deciduous species offers year-round
-protection while allowing seasonal adjustment.
-For small gardens, a trellis with deciduous vines provides summer wind
-filtering while allowing winter sun through after leaf drop.
-Position windbreaks perpendicular to your prevailing wind direction.
-In most of [[psilocybin-north-america-pacific-northwest]], winter winds come from the northwest and summer
+[[psilocybin-north-america-pacific-northwest]], winter winds come from the northwest and summer
 winds from the southwest.
 Permanent structures like sheds, garages, and fences all create sheltered
 zones on their lee side that can be used for wind-sensitive plantings.
@@ -89,16 +75,7 @@ If you must plant in a low area, use frost-hardy species or plan for
 seasonal protection with row covers.
 Water bodies placed upslope of gardens release warm air that flows downhill
 over frost-sensitive plantings on cold nights.
-A pond upslope from your [[fukuoka-dutch-priest-vegetable-garden-spiritual-renewal]] provides passive frost protection
-every night without any additional effort.
-## Leverage Existing Vegetation
-Tree canopies create powerful microclimates through shade, wind reduction,
-and humidity.
-Understory plants benefit from the moderated conditions beneath established
-trees.
-Ground covers cool the soil surface by ten to fifteen degrees and reduce
-evaporation by fifty to seventy-five percent compared to bare soil.
-Evergreen shrubs provide year-round [[cervantes-wind-protection-outdoor-cannabis]] and trap radiant heat
+A pond upslope from your [[cervantes-wind-protection-outdoor-cannabis]] and trap radiant heat
 at night, essential for cold-climate gardens.
 Deciduous trees offer the ideal combination of summer shade and winter sun
 access.
@@ -111,22 +88,5 @@ and open ground all support more species than either environment alone.
 Design your garden to maximize these transitional zones.
 A pond edge that transitions into a meadow on one side and shrubs on another
 creates multiple microclimates in a small area.
-Herb spirals, [[gaias-garden-keyhole-beds-and-mandala-gardens]], and mandala gardens all create maximum edge in
-compact spaces.
-## Key Points
-- Observe your site through all seasons before making changes.
-- Thermal mass (stone, water, earth) moderates temperature day and night.
-- Windbreaks reduce cooling and conserve soil moisture.
-- Sun traps capture and concentrate solar energy for tender plants.
-- Cold air drains downhill, so avoid planting frost-sensitive crops in
-  low spots.
-- Water bodies are the most powerful microclimate moderators available.
-- Tree canopies create shade, humidity, wind protection, and warmth.
-- Maximize edge between different growing zones for greater diversity.
-- Start small and build on what works rather than redesigning everything at
-  once.
-- Combine multiple strategies for synergistic effects.
-## Related Questions
-- [[query-how-do-i-design-a-windbreak-or-shelterbelt-for-my-property]]
-- [[query-how-to-start-a-food-forest]]
+Herb spirals, [[query-how-do-i-design-a-windbreak-or-shelterbelt-for-my-property]]
 - [[holzer-raised-bed-techniques-hugelkultur]]

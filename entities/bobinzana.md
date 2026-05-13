@@ -13,35 +13,10 @@ Bobinzana (Calliandra angustifolia, also spelled *bobinsana*) is a medicinal pla
 ## Classification
 
 - **Domain**: Amazonian vegetalismo / ethnobotany
-- **Category**: Medicinal plant, [[entheogen-ayahuasca-admixture-plants]]
-- **Scientific name**: Calliandra angustifolia
-- **Family**: Fabaceae (Leguminosae)
-- **Habitat**: Riverbanks, flood plains of the Amazon basin
-
-## Key Facts
-
-- Bobinzana is used to give the [[amazonian-ayahuasca-purge-and-diet-practices]] more power, enabling it to cleanse all impurity in the stomach more thoroughly.
+- **Category**: Medicinal plant, [[amazonian-ayahuasca-purge-and-diet-practices]] more power, enabling it to cleanse all impurity in the stomach more thoroughly.
 - In visionary experiences, the plant spirit appears as a woman called Bobinzana-sisa, sitting upon the plant itself — reflecting the Amazonian principle that each plant has a mother spirit or owner.
-- The plant is listed among the key admixture plants that are occasionally added to the ayahuasca brew, alongside chacruna ([[chacruna-psychotria-viridis]]), clavohuasca, ajosquiro, motelo huasca, toe (Brugmansia sp.), albahaca, and alcanfor.
-- Bobinzana grows near waterways, placing it under the domain of water spirits like the Yakumama in the vegetalista cosmological framework.
-- In traditional medicine beyond ayahuasca, bobinzana is used for rheumatism, arthritis, and as a general tonic — applications consistent with its use in ceremonial contexts for deep bodily cleansing.
-
-## Relevance to Cultivation and Mycology
-
-Bobinzana is one of the most important ayahuasca admixture plants and a prime candidate for cultivation in ethnobotanical gardens. It is a fast-growing, nitrogen-fixing legume that thrives in riparian zones with moist soil. The plant can be propagated from seeds or cuttings and prefers partial shade to full sun. Its role in strengthening the purgative action of ayahuasca suggests [[cordyceps-cancer-bioactive-compounds]] that stimulate the gastrointestinal system. For mycology, the plant's riparian habitat makes it ecologically associated with aquatic and semi-aquatic fungal species. Its traditional use as a cleansing agent suggests potential [[medicinal-mushroom-antimicrobial-properties]] worthy of pharmacological investigation.
-
-## Related Entities
-
-- Chacruna (Psychotria viridis) — primary ayahuasca admixture
-- Toe (Brugmansia sp.) — another ayahuasca admixture
-- Icaro — songs sung over bobinzana preparations
-- Yakumama — water spirit governing bobinzana's riparian habitat
-
-## Cultivation and Ceremony Notes
-
-- Bobinzana belongs with [[amazonian-medicinal-plants-in-amaringos-visions]] as one of the named plant teachers in Amaringo's ayahuasca landscape.
-- Its admixture role should be compared with [[chacruna-psychotria-viridis]], the best-known companion plant in many ayahuasca preparations.
-- The purgative and dieta context connects to [[ayahuasca-preparation-and-ceremony]], where cleansing is both physical and spiritual.
+- The plant is listed among the key admixture plants that are occasionally added to the ayahuasca brew, alongside chacruna ([[cordyceps-cancer-bioactive-compounds]] that stimulate the gastrointestinal system. For mycology, the plant's riparian habitat makes it ecologically associated with aquatic and semi-aquatic fungal species. Its traditional use as a cleansing agent suggests potential [[amazonian-medicinal-plants-in-amaringos-visions]] as one of the named plant teachers in Amaringo's ayahuasca landscape.
+- Its admixture role should be compared with [[ayahuasca-preparation-and-ceremony]], where cleansing is both physical and spiritual.
 - As a riparian legume, bobinzana is most at home in moist alluvial soils and should not be treated like an upland drought plant.
 - Its nitrogen-fixing capacity may make it useful in tropical agroforestry edges, especially near watercourses.
 - Pink powder-puff flowers also give the plant ornamental value, which can support ethnobotanical garden design.
@@ -81,3 +56,80 @@ Bobinzana is one of the most important ayahuasca admixture plants and a prime ca
 - It should also avoid stripping the plant of its relational role in dieta and song.
 - The strongest note is balanced: bobinzana is botanical, ceremonial, ecological, and medicinal at once.
 - That multidimensional role is why it deserves an entity page rather than a passing mention.
+
+## Overview
+
+Bobinzana represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish bobinzana
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving bobinzana extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Bobinzana finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for bobinzana. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+bobinzana and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Bobinzana has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of bobinzana into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.

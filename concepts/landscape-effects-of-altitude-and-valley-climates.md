@@ -6,15 +6,7 @@ type: concept
 
 # Landscape Effects of Altitude and Valley Climates
 
-Climate is shaped not only by latitude and proximity to oceans but also dramatically by altitude, slope, and valley geometry. Understanding these landscape-scale effects is essential for [[permaculture]] site selection, species placement, and microclimate design.
-
-## Continental Effects
-
-Heat is transported on a world scale by two great circulations: **air masses** and **oceanic currents**. Air masses are more widespread in their effect and least limited by land masses. Oceanic currents, or proximity to any large body of water, have their greatest moderating effect on downwind shorelines, with little inland influence.
-
-The concept of **continental climates** describes extreme and widely fluctuating inland climatic zones not buffered by sea currents, demonstrating periods of extreme heat and cold, all the more marked on high mountains.
-
-[[continental-climate]] is the third major complication on simple temperature-rainfall classifications (after temperature and precipitation patterns). After this, only one special factor remains: the effect of hills or mountain ranges on local climate — effects very like latitudinal effects on a global scale.
+Climate is shaped not only by latitude and proximity to oceans but also dramatically by altitude, slope, and valley geometry. Understanding these landscape-scale effects is essential for [[continental-climate]] is the third major complication on simple temperature-rainfall classifications (after temperature and precipitation patterns). After this, only one special factor remains: the effect of hills or mountain ranges on local climate — effects very like latitudinal effects on a global scale.
 
 ## Latitude-Altitude Equivalence
 
@@ -63,7 +55,7 @@ Snow cover serves as an insulating blanket that:
 
 ## Slope and Aspect Effects
 
-As great as the effect of altitude is, the effect of **slope** is even more pronounced. Daubenmire (1974) records that slopes of just **5° towards the poles** reduce soil temperatures as much as **168 km distance** towards the poles. Even a gentle slope away from the sun creates much cooler conditions locally.
+As great as the effect of altitude is, the effect of **slope** is even more pronounced. [[daubenmire]] (1974) records that slopes of just **5° towards the poles** reduce soil temperatures as much as **168 km distance** towards the poles. Even a gentle slope away from the sun creates much cooler conditions locally.
 
 The effect of cold ravines in near-permanent shadow is extreme — one may stand in hot sunlight in the Himalayas and gaze into icy depths where only the hardiest life forms exist, and where ice may permanently cover rocks and spray zones caused by waterfalls or rapids.
 
@@ -134,6 +126,5 @@ The interaction of altitude, slope aspect, and valley geometry creates an enormo
 6. **Account for the diurnal extremes** of mountain climates in all structure and plant selections
 
 ## See Also
-- [[valley-climates-permaculture]]
 - [[altitude-effects]]
 - [[mollison-valley-and-mountain-climate-effects]]

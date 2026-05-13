@@ -6,15 +6,7 @@ type: concept
 
 # Evolving Polyculture Design
 
-Polyculture design is the art and science of assembling many plant and animal species into productive, self-maintaining systems. The process of evolving a polyculture begins with thorough site planning and earthworks, proceeds through strategic species placement, and matures into a complex [[food-forest]] that requires progressively less external input while producing increasingly diverse yields.
-
-## Establishing a New Polyculture
-
-When starting a permaculture on grasslands or compacted soils, the first step is thorough site planning followed by ripping, swaling, pitting, or damming every area to be planted. This ensures maximum wet-season soil water storage to carry through dry periods. The process should commence at the highest point of the property and around the house or village site.
-
-On these loosened soils and in mulched swales, a mix of tree legumes, fruits, bananas, papayas, arrowroot (Canna), cassava, sweet potato, and comfrey should be co-planted at approximately one plant every 1-1.5 meters. Specific spacings include: Acacia at 3 × 3 m, banana at 2 × 2 m, fruits at 5 × 8 m, and palms at 10 × 10 m, with smaller species filling gaps between.
-
-All larger planting holes should be seeded with a diverse non-grass [[cover-crop]] mix: nasturtium, Dolichos, Haifa clover, broad bean (fava), buckwheat, Umbelliferae (dill, fennel), lupin, vetch, dun peas, chilies, pigeon pea, or any useful species suitable to the climate. The aim is to completely carpet and overshade the ground within the first 18-20 months of growth.
+Polyculture design is the art and science of assembling many plant and animal species into productive, self-maintaining systems. The process of evolving a polyculture begins with thorough site planning and earthworks, proceeds through strategic species placement, and matures into a complex [[cover-crop]] mix: nasturtium, Dolichos, Haifa clover, broad bean (fava), buckwheat, Umbelliferae (dill, fennel), lupin, vetch, dun peas, chilies, pigeon pea, or any useful species suitable to the climate. The aim is to completely carpet and overshade the ground within the first 18-20 months of growth.
 
 Dense plantings should be grass or hay mulched using monsoon grasses and swamp grasses initially, later replaced by tops of arrowroot, comfrey, banana, and Acacia. Shade-loving species such as coffee and dry taro can then be placed in any open spots. Paths for access, openings for annual crops, bee plants on edges, flowers, and fire-resistant ground covers such as comfrey, Tradescantia, Impatiens, and succulents are added over time, while fruit trees are kept grass-free and mulched by cutting crowded Acacia and banana.
 
@@ -69,9 +61,9 @@ On a new site, the priority sequence is: (1) Assess market, future, prices, proc
 
 ## Pest and Disease Management
 
-Permaculture pest management relies on adding species to the polyculture that regulate problem organisms. Powerful natural biocides derived from Chrysanthemum species (pyrethrins), Derris species (rotenone), and the neem tree (Azadirachta indica) are harmless, short-lived, and fully biodegradable. A few of these plants in home gardens and small clumps in crop provide ready insect control for both terrestrial and aquatic systems.
+Permaculture pest management relies on adding species to the polyculture that regulate problem organisms. Powerful natural biocides derived from Chrysanthemum species (pyrethrins), Derris species (rotenone), and the neem tree ([[azadirachta-indica]]) are harmless, short-lived, and fully biodegradable. A few of these plants in home gardens and small clumps in crop provide ready insect control for both terrestrial and aquatic systems.
 
-Broadscale mosquito control can combine fats or oils (lecithin), neem oil as poison, and Bacillus thuringiensis as an infective agent, all assisted by small fish and insect predators such as notonectids (backswimmers) in open water systems.
+Broadscale mosquito control can combine fats or oils (lecithin), neem oil as poison, and [[bacillus-thuringiensis]] as an infective agent, all assisted by small fish and insect predators such as notonectids (backswimmers) in open water systems.
 
 Ground foragers — chickens, pigs, cattle, large tortoises — eat fallen fruit and larval insect infestations. Leaf foragers — birds, frogs — attend to canopy infestations, as do small skink lizards. Some lizards (Tiliqua) forage for snails and slugs at ground level, as do ducks. Tropical land crabs seek larval insects in mulch. Even problematic kikuyu grass is controlled by domestic guinea pigs on range, freeing trees from grass competition while providing manures.
 
@@ -99,6 +91,5 @@ Planning a coconut or palm-dominant polyculture involves several themes: structu
 - **Gardens are test grounds**: Try new species close to home before extending to outer zones
 ## See also
 
-- [[permaculture-design]]
 - [[agroforestry]]
 - [[tropical-polyculture-evolution-and-pest-management]]

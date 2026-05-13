@@ -4,13 +4,12 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [energy, construction, homesteading, off-grid, safety, sustainability]
-sources:
-  - "raw/papers/graham-bell-permaculture-garden.md"
+sources: []
 ---
 
 # Rocket Mass Heater Design
 
-A rocket mass heater (RMH) is a highly efficient wood-burning heating system that uses a J-shaped combustion chamber to achieve near-complete combustion of wood, followed by a [[comparison-windbreak-vs-thermal-mass]] bench that absorbs and slowly radiates heat for many hours. RMHs typically use 75-90% less wood than conventional wood stoves while producing far less smoke and pollution.
+A rocket mass heater (RMH) is a highly efficient wood-burning heating system that uses a J-shaped combustion chamber to achieve near-complete combustion of wood, followed by a thermal mass bench that absorbs and slowly radiates heat for many hours. RMHs typically use 75-90% less wood than conventional wood stoves while producing far less smoke and pollution.
 
 ## How It Works
 
@@ -58,7 +57,7 @@ A cob bench is the most common and accessible approach:
 
 ### Bench Surface
 
-- Smooth cob or [[comparison-lime-plaster-vs-earthen-plaster]] finish (see [[earth-plaster-and-natural-finishes]])
+- Smooth cob or earthen plaster finish (see [[earth-plaster-and-natural-finishes]])
 - Stone or tile inlay for durable seating surfaces
 - Wood bench top (with an air gap above the cob) for a cooler sitting surface
 
@@ -95,7 +94,7 @@ A cob bench is the most common and accessible approach:
 
 - Do not oversize — a too-large system overheats the space and wastes wood
 - The bench length determines heat storage capacity, not the J-tube size
-- In very [[query-best-kiwifruit-varieties-for-cold-climates]], two smaller RMHs may be better than one large one
+- In very cold climates, two smaller RMHs may be better than one large one
 
 ## Safety Considerations
 
@@ -123,8 +122,8 @@ A cob bench is the most common and accessible approach:
 ### Building Codes
 
 - Rocket mass heaters are not code-approved in most jurisdictions
-- Work with your building department; they may accept it as a [[comparison-masonry-heater-vs-pellet-stove]] under certain code sections
-- The Masonry Heater Association [[berry-growing]] provides resources for code-compliant masonry heating
+- Work with your building department; they may accept it as a masonry heater under certain code sections
+- The Masonry Heater Association of North America provides resources for code-compliant masonry heating
 
 ## Common Problems and Solutions
 
@@ -138,3 +137,11 @@ A cob bench is the most common and accessible approach:
 
 - [[natural-building-materials-guide]] for cob and earth materials used in bench construction
 - [[earth-plaster-and-natural-finishes]] for finishing the cob bench surface
+
+## See Also
+
+- [[comparison-cob-oven-vs-rocket-stove]]
+- [[comparison-rocket-stove-vs-pellet-stove]]
+- [[comparison-rocket-stove-vs-masonry-heater]]
+- [[comparison-solar-cooking-vs-rocket-stove]]
+- [[rocket-stoves-and-efficient-wood-burning-design]]

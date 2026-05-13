@@ -20,37 +20,9 @@ sources:
 
 ## Overview
 
-**Coronaridine** is an [[aminopropyl-silica-gel-chromatography-indole-alkaloid-purification]] belonging to the iboga family of monoterpene indole alkaloids, structurally related to ibogaine and voacangine.
+**Coronaridine** is an [[plants-of-the-gods-tabernanthe-iboga]]*, *[[tabernaemontana-divaricata]]*.
 
-It occurs naturally in several Apocynaceae plant species, most notably *[[plants-of-the-gods-tabernanthe-iboga]]*, *[[voacanga-africana]]*, and *[[tabernaemontana-divaricata]]*.
-
-Coronaridine has attracted pharmacological interest primarily for its relationship to ibogaine, sharing portions of its molecular scaffold while exhibiting a distinct [[tihkal-receptor-binding-serotonin]] profile.
-
-Unlike ibogaine, coronaridine has not been extensively studied in clinical settings, though preliminary research suggests it may possess anti-addictive, anxiolytic, and serotonergic properties.
-
-## Chemical Properties
-
-**Molecular formula:** C₂₁H₂₆N₂O₂
-
-**Molecular weight:** 338.44 g/mol
-
-**IUPAC name:** Ethyl 12-methoxyibogamine-18-carboxylate
-
-**CAS number:** 4828-66-0
-
-The structure features the characteristic iboga skeleton — a fused indole and isoquinuclidine ring system — with an ethyl ester substituent at the C-18 position and a methoxy group at C-12.
-
-Coronaridine differs from ibogaine primarily at the C-19 position; ibogaine carries a methoxy group at C-19, while coronaridine has a hydrogen atom, making coronaridine a nor-methyl relative in this structural context.
-
-It is a crystalline solid at room temperature, soluble in organic solvents such as chloroform, methanol, and ethanol, and practically insoluble in water.
-
-## Pharmacology
-
-Coronaridine's pharmacological profile has been less thoroughly characterized than ibogaine, but available data indicate activity at multiple receptor systems.
-
-### Serotonergic Activity
-
-Coronaridine shows affinity for [[psilocybin-pharmacology-and-serotonin-receptors]], particularly the 5-HT₂A and 5-HT₂C subtypes, though with lower potency than ibogaine.
+Coronaridine has attracted pharmacological interest primarily for its relationship to ibogaine, sharing portions of its molecular scaffold while exhibiting a distinct [[psilocybin-pharmacology-and-serotonin-receptors]], particularly the 5-HT₂A and 5-HT₂C subtypes, though with lower potency than ibogaine.
 
 It also interacts with the serotonin transporter (SERT), acting as a moderate reuptake inhibitor, which may contribute to antidepressant-like effects observed in animal models.
 
@@ -58,21 +30,7 @@ The compound's serotonergic activity is believed to underlie its putative anti-a
 
 ### Opioid Receptor Interactions
 
-Unlike ibogaine, which has well-documented affinity for mu and [[salvinorin-a-kappa-opioid-receptor-pharmacology]] receptors, coronaridine shows relatively weak binding to opioid receptor subtypes.
-
-This reduced opioid activity may be advantageous in therapeutic contexts, as it potentially avoids the cardiac risk profile associated with ibogaine's interaction with hERG potassium channels.
-
-### Other Receptor Targets
-
-Preliminary binding assays have identified moderate affinity for sigma-1 receptors and NMDA receptors, though these interactions require further validation.
-
-The sigma-1 receptor activity is of particular interest, as this receptor modulates neuroplasticity and may play a role in the anti-addictive effects of iboga alkaloids.
-
-## Natural Occurrence
-
-Coronaridine has been isolated from multiple plant species across the Apocynaceae family, reflecting the broad distribution of iboga-type alkaloids in this taxonomic group.
-
-In *Tabernanthe iboga*, coronaridine occurs at concentrations of approximately 0.05–0.3% of dry [[iboga-root-bark-preparation]], making it a minor constituent compared to ibogaine (typically 1–6%).
+Unlike ibogaine, which has well-documented affinity for mu and [[iboga-root-bark-preparation]], making it a minor constituent compared to ibogaine (typically 1–6%).
 
 *Voacanga africana* bark and seeds contain coronaridine alongside voacangine, iboga alkaloids that serve as biosynthetic intermediates in the ibogaine pathway.
 
@@ -87,3 +45,80 @@ The pathway proceeds through strictosidine, cathenamine, and tabersonine interme
 From coronaridine, enzymatic transformations lead to voacangine and ultimately to ibogaine, the most pharmacologically prominent member of the family.
 
 The shared biosynthetic origin explains the structural similarities among iboga alkaloids and their overlapping but distinct pharmacological activities.
+
+## Overview
+
+Coronaridine represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish coronaridine
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving coronaridine extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Coronaridine finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for coronaridine. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+coronaridine and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Coronaridine has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of coronaridine into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.

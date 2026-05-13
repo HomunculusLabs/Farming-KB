@@ -9,7 +9,7 @@ sources:
 ---
 # Psychedelic Use in Ancient Greece
 
-The  represent the most well-documented potential case, several other Greek religious and cultural practices suggest familiarity with [[weil-the-natural-mind-altered-states-normalcy]] induced by plants and fungi. The [[ergot-and-lysergic-acid-history]] provides the pharmacological backdrop for this hypothesis.
+The  represent the most well-documented potential case, several other Greek religious and cultural practices suggest familiarity with [[ergot-and-lysergic-acid-history]] provides the pharmacological backdrop for this hypothesis.
 
 Key evidence for psychedelic use at Eleusis:
 
@@ -20,26 +20,9 @@ Key evidence for psychedelic use at Eleusis:
 
 ## Comparative Evidence from Mesoamerica
 
-Wasson drew direct comparisons between Eleusis and the [[maria-sabina-mazatec-mushroom-ceremony]] velada:
-
-- Both involved fasting before the ceremony.
-- Both took place in darkness.
-- Both centered on consuming a plant preparation.
-- Both produced a long night of collective visionary experience.
-- Both formed enduring bonds among participants.
-- Both were guarded by hereditary specialists who transmitted preparation knowledge orally.
-
-In both traditions, eggs were prohibited before the ceremony. In Mexico, chocolate broke the fast; at Eleusis, the pelanos (a barley-wheat cake from the Rarian plain) may have served a similar function. The [[psychedelic-plants-and-civilization]] is thus not one of ignorance versus knowledge, but of controlled versus uncontrolled use. The Greek priestly families functioned as custodians of dangerous and sacred botanical knowledge, much as curanderos and shamans do in indigenous traditions studied by modern ethnobotanists. The [[plutarch-and-cicero-on-the-eleusinian-mysteries]]
-- [[ergot-and-lysergic-acid-history]]
-- [[psychedelic-plants-and-civilization]]
+Wasson drew direct comparisons between Eleusis and the [[psychedelic-plants-and-civilization]] is thus not one of ignorance versus knowledge, but of controlled versus uncontrolled use. The Greek priestly families functioned as custodians of dangerous and sacred botanical knowledge, much as curanderos and shamans do in indigenous traditions studied by modern ethnobotanists. The [[ergot-and-lysergic-acid-history]]
 - [[shamanic-use-of-psychedelics]]
-- [[amanita-muscaria-ethnobotany]]
-
-## Merged: Mushroom Cults in Ancient Greece
-
-# Mushroom Cults in Ancient Greece
-
-The archaeological and textual evidence for entheogenic mushroom use in the ancient Greek world forms a substantial thread in McKenna's Food of the Gods, centering on the Minoan civilization of Crete, the Dionysian mysteries, and above all the [[mckenna-food-of-the-gods-kykeon-and-eleusinian-mysteries]]. McKenna argues that these traditions represent late, diluted inheritances of an archaic partnership religion centered on mushroom-induced ecstasy.
+- [[mckenna-food-of-the-gods-kykeon-and-eleusinian-mysteries]]. McKenna argues that these traditions represent late, diluted inheritances of an archaic partnership religion centered on mushroom-induced ecstasy.
 
 ## Minoan Crete: The Last Partnership Society
 
@@ -71,7 +54,7 @@ The connection to Minoan practice was extensively documented: the oldest Teleste
 
 ## Robert Graves and the Mushroom Hypothesis
 
-The first suggestion that a hallucinogenic plant was involved at Eleusis came from the English poet Robert Graves in his 1964 essay "The Two Births of Dionysus." Graves argued that Triptolemus's supposed secret (agriculture) "would have been no news" by the second millennium BCE, since grain had been cultivated at Jericho since ~7000 BCE. He proposed that "Triptolemus's secret seems therefore concerned with [[emcdda-hallucinogenic-mushrooms-emerging-trend-europe]]" and suggested that "the priesthood at Eleusis had discovered an alternative hallucinogenic mushroom easier to handle than the [[allegro-amanita-muscaria-properties-and-pharmacology]]; one that could be baked in sacrificial cakes, shaped like pigs or phalloi, without losing its hallucinogenic powers."
+The first suggestion that a hallucinogenic plant was involved at Eleusis came from the English poet Robert Graves in his 1964 essay "The Two Births of Dionysus." Graves argued that Triptolemus's supposed secret (agriculture) "would have been no news" by the second millennium BCE, since grain had been cultivated at Jericho since ~7000 BCE. He proposed that "Triptolemus's secret seems therefore concerned with [[allegro-amanita-muscaria-properties-and-pharmacology]]; one that could be baked in sacrificial cakes, shaped like pigs or phalloi, without losing its hallucinogenic powers."
 
 ## Wasson and Hofmann's Ergot Theory
 
@@ -87,3 +70,80 @@ McKenna proposes that the loss of the original psilocybin experience followed fo
 2. **Symbolic replacement**: Substitution of inactive plants as symbols of the former power (preserving the ritual form without the pharmacological substance)
 3. **Purely symbolic religion**: Elimination of plants entirely in favor of esoteric teachings, dogma, rituals, and cosmogonic diagrams (the stage of today's major world religions)
 4. **Complete abandonment and repression**: Rediscovery of the mystery interpreted as evil and threatening (the stage of secular scientism and psychedelic prohibition)
+
+## Overview
+
+Psychedelic Use In Ancient Greece represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish psychedelic use in ancient greece
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving psychedelic extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Psychedelic Use In Ancient Greece finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for psychedelic use in ancient greece. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+psychedelic use in ancient greece and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Psychedelic Use In Ancient Greece has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of psychedelic use in ancient greece into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.

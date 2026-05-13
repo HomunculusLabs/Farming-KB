@@ -63,16 +63,8 @@ states of consciousness.
 
 Early chemical studies of Mimosa hostilis indicated the presence of
 an active alkaloid that was given the name nigerine, but this was
-later shown to be identical with N,N-dimethyltryptamine ([[dmt-and-ayahuasca-history]] is a potent short-acting [[mckenna-tryptamine-hallucinogen-classification-four-groups-plants]] that is also
-found in [[psychotria-viridis]]
-and in the resin of Virola species used as snuff.
-
-A significant pharmacological puzzle surrounds the jurema drink: since
-tryptamines are not active when taken orally unless in the presence
-of a monoamine oxidase inhibitor (MAOI), it is obvious that the
-traditional jurema drink must contain ingredients other than M.
-hostilis itself, or that the plant must contain an endogenous MAOI
-in its tissues. The [[iboga-root-bark-preparation]] of M. hostilis has been shown to be
+later shown to be identical with N,N-dimethyltryptamine ([[mckenna-tryptamine-hallucinogen-classification-four-groups-plants]] that is also
+found in [[iboga-root-bark-preparation]] of M. hostilis has been shown to be
 exceptionally rich in DMT, with concentrations that make it one of
 the most potent natural sources of this compound known, but the
 full complement of its alkaloids has not been fully characterized
@@ -83,42 +75,6 @@ by modern analytical methods.
 The mystery of how orally ingested jurema produces psychoactive effects
 remains unresolved. Several possibilities exist: the drink may have
 included admixture plants containing beta-carboline MAOIs similar to
-those found in [[peganum-harmala]]; the root
-bark itself may contain as-yet-unidentified MAOI compounds; or the
-preparation method (possibly involving fermentation) may produce MAOI
-activity through chemical transformation of plant constituents.
-
-## Practical Applications
-
-The principles and techniques discussed here have wide-ranging applications
-across multiple disciplines and contexts. Practitioners and researchers
-continue to explore new ways to integrate these concepts into modern practice,
-adapting traditional knowledge to contemporary challenges and opportunities.
-
-## Key Considerations
-
-Several important factors influence the effectiveness and outcomes described
-in this topic. Understanding these considerations helps practitioners make
-informed decisions and avoid common pitfalls. Environmental conditions,
-timing, and material selection all play critical roles.
-
-## Historical Context
-
-The historical development of this subject reflects centuries of accumulated
-knowledge and practical experience. From traditional methods passed down
-through generations to modern scientific approaches, the evolution continues
-to inform current best practices and research directions.
-
-## Common Challenges
-
-Practitioners frequently encounter several challenges when working with
-these concepts. Climate variability, resource limitations, and knowledge
-gaps can all affect outcomes. Addressing these challenges requires patience,
-observation, and a willingness to adapt approaches based on results.
-
-## See Also
-- [[mimosa-hostilis]]
-- [[mimosa]]
+those found in [[mimosa-hostilis]]
 - [[jurema]]
-- [[ayahuasca]]
 - [[doc]]

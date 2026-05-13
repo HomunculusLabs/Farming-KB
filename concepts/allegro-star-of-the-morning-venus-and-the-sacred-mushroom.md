@@ -14,9 +14,7 @@ Allegro shows that the identification of the sacred mushroom with the morning st
 
 ## The Dioscouroi as Morning and Evening Star
 
-As Gemini, the [[allegro-heavenly-twins-and-the-mushroom-hermaphrodite]] (Dioscouroi) were identified specifically with the morning and evening star. Similarly, Jesus proclaims himself as "the bright and morning star" (Rev 22:16). This is a word-play on one of the most important Greek names of the Holy Plant, Peristereon, spelt out within bilingual Christian communities as the Aramaic Bar- ("son of") and Greek aster ("star") and heos ("of the morning").
-
-The title "Son of the Star" had profound messianic significance within Judaism, from the [[allegro-old-testament-figures-as-fertility-deities]] promise: "a star shall come forth out of Jacob, and a comet shall rise out of Israel" (Num 24:17). The leader of the Jewish rebels of the Second Revolt (Bar Kokhba) adopted the title as his own.
+As Gemini, the [[allegro-old-testament-figures-as-fertility-deities]] promise: "a star shall come forth out of Jacob, and a comet shall rise out of Israel" (Num 24:17). The leader of the Jewish rebels of the Second Revolt (Bar Kokhba) adopted the title as his own.
 
 ## Isaiah's Oracle: The Fallen Morning Star
 
@@ -48,11 +46,7 @@ The Greek phoinix ("Phoenix") — name of the palm tree, the bird, the Levantine
 
 The identification of the morning star with Lucifer — the fallen angel of Christian tradition — is, in Allegro's reading, a late development of the mushroom-star identification. The "fall" of Lucifer from heaven (Isaiah 14:12) describes the mushroom's lifecycle: rising gloriously from the earth, expanding to its full majesty, then deliquescing and disappearing. The Christian demonization of Lucifer preserved the memory of the mushroom's celestial connection while inverting its meaning — what was once the sacred connector of heaven and earth became the symbol of rebellion against divine authority.
 
-This inversion is characteristic of what Allegro saw as the systematic suppression of the [[african-mushroom-cult-history]] by the [[mckenna-dominator-culture-and-suppression-of-ecstasy]]. The [[mckenna-transcendent-other-and-exopheromones]] explores a comparable concept in the context of DMT experiences.
-
-## Key Points
-
-- Allegro's analysis connects this topic to the broader framework of [[allegro-philological-methodology]] used to derive these connections has been both influential and controversial
+This inversion is characteristic of what Allegro saw as the systematic suppression of the [[mckenna-dominator-culture-and-suppression-of-ecstasy]]. The [[allegro-philological-methodology]] used to derive these connections has been both influential and controversial
 - Modern archaeobotanical research continues to investigate the role of psychoactive plants in ancient religious practice
 - The identification of Venus/Lucifer with the mushroom connects celestial and terrestrial symbolism
 - The demonization of Lucifer reflects the suppression of the mushroom cult by institutional religion
@@ -61,32 +55,8 @@ This inversion is characteristic of what Allegro saw as the systematic suppressi
 
 While mainstream scholars have largely rejected Allegro's specific philological claims, his work raised important questions about the relationship between psychoactive substances and the development of religious ideas in the ancient world. Contemporary research into entheogenic practices, as documented in mushroom-star-fire-anunnaki
 
-- [[allegro-philological-methodology]]
 - [[allegro-biblical-references-to-mushrooms-and-fungi]]
-- [[sacred-mushroom-hypothesis]]
 - [[allegro-mushroom-cosmography]]
-- [[allegro-the-sacred-mushroom-amanita-identification]]
-## Practical Considerations
-
-Successful implementation of Star of the Morning — Venus and the Sacred Mushroom (Allegro) requires attention to
-several practical factors including environmental conditions,
-resource availability, and timing. Careful monitoring and
-adaptive management help optimize outcomes across varying
-conditions. Integration with other system elements enhances
-overall effectiveness and creates beneficial synergies that
-improve resilience and productivity over time.
-
-## Future Directions
-
-Continued development in this area promises new insights and
-improved approaches for both research and practical application.
-Cross-disciplinary collaboration and advances in analytical
-methods create opportunities for innovation and refinement.
-Recommended resources include current literature, practitioner
-communities, and systematic experimentation to build expertise.
-
-## See Also
-
 - [[allegro-linguistic-evidence]]
 
 ## Practical Applications
@@ -118,8 +88,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[allegro-sacred-prostitute-and-the-mushroom-cult]]
 - [[doc]]
-- [[dom]]
 - [[anunnaki]]
 - [[amanita]]

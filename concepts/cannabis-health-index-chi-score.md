@@ -76,27 +76,7 @@ When evaluating a specific research study within the CHI framework, users should
 The CHI incorporates considerations for the specific type of cannabis preparation used in the supporting studies:
 
 ### Strain Considerations
-- **Sativa vs. Indica**: Different cannabis strains (and sativa/indica classifications) may produce different therapeutic effects due to their distinct cannabinoid and [[cannabis-terpene-profiles]]. The CHI notes which strains or strain types have been studied for each condition.
-- **THC:CBD ratio**: The ratio of THC to CBD in a given preparation significantly affects both the therapeutic effects and the side effect profile. Preparations with balanced THC:CBD ratios may offer advantages over THC-dominant preparations for certain conditions.
-
-### Form Considerations
-- **Inhalation (smoking/vaporizing)**: Fastest onset, most precise dosing control, but concerns about respiratory health with smoking
-- **Oral (edibles, capsules, tinctures)**: Slower onset, longer duration, more variable absorption due to first-pass metabolism
-- **Topical (creams, balms)**: Localized effects without psychoactivity; useful for skin conditions, arthritis, and localized pain
-- **Sublingual (tinctures, sprays)**: Intermediate onset between inhaled and oral; partially bypasses first-pass metabolism
-
-## The Role of Mind-Body Medicine
-
-A distinctive feature of the CHI is its integration of mind-body medicine principles alongside pharmacological evidence. Blesching argues that the therapeutic effects of cannabis are influenced not only by its chemical constituents but also by the psychological and emotional state of the patient:
-
-### The Setting
-The environment in which cannabis is used affects the therapeutic outcome. A calm, supportive setting may enhance therapeutic effects, while a stressful or threatening setting may amplify adverse effects.
-
-### The Intention
-The patient's conscious intention for using cannabis — whether for healing, relaxation, creative exploration, or social connection — may influence the subjective experience and potentially the therapeutic outcome.
-
-### The Exploration
-Blesching encourages patients to approach cannabis therapy as an exploration rather than a passive treatment, using the experience as an opportunity for self-discovery, [[blesching-cannabis-emotional-processing-expansive-constricting-emotions]], and personal growth.
+- **Sativa vs. Indica**: Different cannabis strains (and sativa/indica classifications) may produce different therapeutic effects due to their distinct cannabinoid and [[blesching-cannabis-emotional-processing-expansive-constricting-emotions]], and personal growth.
 
 ### Powerful Questions
 The CHI includes self-guided questions designed to help patients deepen their healing process, including inquiries about emotional blocks, limiting beliefs, lifestyle factors, and the psychosocial dimensions of their illness.
@@ -105,8 +85,7 @@ The CHI includes self-guided questions designed to help patients deepen their he
 
 The CHI draws explicit connections between emotional states and the endocannabinoid system, proposing that emotional patterns influence ECS function:
 
-- **Expansive emotions** (associated with molecules like acetylcholine, anandamide, [[endogenous-opioids-pain-modulation-endocannabinoid-interaction]], GABA, oxytocin, and serotonin) may enhance ECS function and support healing
-- **[[expansive-constricting-emotions-neurotransmitter-associations-blesching]]** (associated with epinephrine, dopamine, norepinephrine, cortisol, glutamate, and vasopressin) may impair ECS function and hinder healing
+- **Expansive emotions** (associated with molecules like acetylcholine, anandamide, [[expansive-constricting-emotions-neurotransmitter-associations-blesching]]** (associated with epinephrine, dopamine, norepinephrine, cortisol, glutamate, and vasopressin) may impair ECS function and hinder healing
 
 This framework suggests that emotional healing and pharmacological treatment are complementary rather than alternative approaches, and that optimizing emotional well-being may enhance the therapeutic effects of cannabinoid therapy.
 
@@ -117,7 +96,7 @@ The CHI evaluates evidence for cannabis across a comprehensive range of conditio
 - **Cancer** (general and site-specific: brain, breast, colon, liver, lung, pancreatic, prostate, and others)
 - **Cardiovascular disease** (heart disease, hypertension, stroke)
 - **Infectious diseases** (bacterial, viral including HIV/AIDS, hepatitis, herpes)
-- **[[blesching-cannabis-inflammatory-diseases]]** (arthritis, atherosclerosis, [[blesching-cannabis-inflammatory-bowel-disease]])
+- **[[blesching-cannabis-inflammatory-bowel-disease]])
 - **Mental disorders** (anxiety, depression, PTSD, schizophrenia, ADHD, autism)
 - **Neurological diseases** (Alzheimer's, ALS, epilepsy, Huntington's, MS, Parkinson's, Tourette's)
 - **Pain** (chronic, migraine, neuropathic, cancer-related)
@@ -135,7 +114,6 @@ The CHI evaluates evidence for cannabis across a comprehensive range of conditio
 
 ## See Also
 
-- [[endocannabinoid-system-overview]]
 - [[thc-tetrahydrocannabinol]]
 - [[anandamide-bliss-molecule]]
 

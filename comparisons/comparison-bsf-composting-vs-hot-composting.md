@@ -23,29 +23,12 @@ sources:
 ## Overview
 Black soldier fly composting and hot composting both convert organic
     waste into valuable soil amendments, but through fundamentally different
-    biological mechanisms. Black soldier [[comparison-black-soldier-fly-larvae-vs-meat-scraps-composting]] are insect bioconverters
-    that rapidly process waste into protein-rich animal feed and frass
-    fertilizer. Hot composting relies on thermophilic microorganisms to
-    decompose [[hamilton-composting-and-organic-matter-management]] at elevated temperatures. The choice between them
+    biological mechanisms. Black soldier [[hamilton-composting-and-organic-matter-management]] at elevated temperatures. The choice between them
     depends on climate, available waste streams, and whether animal feed
     production is desired.
 
 ## Black Soldier Fly Composting
-[[hot-composting-method]]
-
-Hot composting accelerates decomposition through thermophilic microbial
-    activity, reaching internal temperatures of 130 to 160 degrees Fahrenheit
-    (55 to 71 degrees Celsius) over a four to six week cycle. The process
-    proceeds through three phases: mesophilic startup (days one to three),
-    thermophilic peak (days three to fourteen), and cooling and curing (weeks
-    to months). Critical temperature management is essential, as 131 to 150
-    degrees Fahrenheit kills weed seeds and pathogens, while temperatures
-    above 160 degrees destroy nitrogen as ammonia gas.
-
-The method requires a minimum pile size of one cubic meter (three by
-    three by three feet) with a carbon-to-nitrogen ratio of 25 to 30:1,
-    achieved by layering browns (carbon-rich materials like leaves, straw,
-    [[fukuoka-textdoc-sawdust-wood-chips-orchard-soil-acidification-experiment]]) and greens (nitrogen-rich materials like kitchen scraps, grass
+[[fukuoka-textdoc-sawdust-wood-chips-orchard-soil-acidification-experiment]]) and greens (nitrogen-rich materials like kitchen scraps, grass
     clippings, manure). Regular turning every three to five days maintains
     oxygen levels and redistributes heat. Finished compost results in 50 to 75
     percent volume reduction. The exclusion of meat, dairy, and pet waste is
@@ -80,8 +63,7 @@ Choose black soldier fly composting when closing nutrient loops on an
     feed. The system is ideal in warm climates where colonies remain active
     year-round, and for operations generating diverse waste including meat and
     dairy. The self-harvesting design minimizes ongoing labor, making it
-    suitable for busy homesteaders. [[comparison-bsf-composting-vs-earthworm-breeding]] is also the better choice
-    for small-scale operations where a one cubic meter [[mushroom-cultivator-compost-pile-management]] is
+    suitable for busy homesteaders. [[mushroom-cultivator-compost-pile-management]] is
     impractical, as a 40 liter bin can process significant waste.
 
 ## When to Choose Hot Composting
@@ -106,6 +88,5 @@ The most productive homestead systems run both in parallel. BSF
 
 ## See Also
 
-- [[comparison-aerobic-vs-anaerobic-composting]]
 - [[comparison-vermicomposting-vs-hot-composting]]
 - [[comparison-black-soldier-fly-vs-vermicomposting]]

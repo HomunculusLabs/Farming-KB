@@ -17,11 +17,7 @@ type: concept
 
 # Purdue Vegetable Harvest and Storage Guide
 
-A [[vegetable-storage-conditions-by-temperature-and-humidity]] category. Based on Purdue University Cooperative Extension Service recommendations (HO-32-W).
-
-## Storage Categories Overview
-
-Vegetables are grouped into four storage categories based on their [[greg-green-temperature-and-humidity-control]] requirements:
+A [[greg-green-temperature-and-humidity-control]] requirements:
 
 | Category | Temperature | Relative Humidity |
 |----------|------------|-------------------|
@@ -88,3 +84,11 @@ Vegetables are grouped into four storage categories based on their [[greg-green-
 ## Warm, Moist Storage (55-60 degrees F, 80-85% RH)
 
 **Sweet Potatoes:** Harvest in fall before frost and freezing temperatures. Handle carefully during digging. Cure for 1 week at 80-85 degrees F. Ideal storage is at 55 degrees F and 85% relative humidity. This can be accomplished in a basement using ventilated boxes covered with periodically moistened burlap sacks.
+
+## See Also
+
+- [[purdue-garden-planning-and-layout]]
+- [[purdue-four-step-garden-fertilization-program]]
+- [[purdue-vegetable-planting-reference-table]]
+- [[purdue-nitrogen-side-dressing-schedule]]
+- [[solomon-sprinkler-irrigation-vegetable-gardens]]

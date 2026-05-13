@@ -8,7 +8,7 @@ sources: ["raw/papers/shulgin-a-tihkal.md"]
 ---
 # ETH-LAD (6-Ethylnor-LSD)
 
-TIHKAL entry #12. A lysergamide analogue of LSD with an ethyl group substituted for the methyl at the 6-position of ring D. ETH-LAD is slightly more potent than LSD but described as much less aggressive in its action — warmer, more allowing, and with reduced visual distortion.
+TIHKAL entry #12. A lysergamide analogue of [[lsd]] with an ethyl group substituted for the methyl at the 6-position of ring D. [[eth-lad]] is slightly more potent than LSD but described as much less aggressive in its action — warmer, more allowing, and with reduced visual distortion.
 
 ## Chemical Names
 
@@ -82,6 +82,5 @@ ETH-LAD differs from LSD in several clinically significant ways:
 
 ## See Also
 
-- [[al-lad-entity-tihkal]] — 6-allyl analogue, 80–160 ug
 - [[dmt-entity-tihkal]] — tryptamine psychedelic for comparison of dose-response patterns
-- [[psychedelic-therapy-models-comparison]] — clinical applications of [[psychedelic-compounds-reference]]
+- [[psychedelic-compounds-reference]]

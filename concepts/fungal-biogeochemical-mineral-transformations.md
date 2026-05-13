@@ -12,9 +12,7 @@ created: 2026-05-08
 
 Fungi play pivotal roles in the transformation of minerals and the cycling of elements
 across Earth's surface environments. The field of geomycology—the study of fungal
-interactions with geological substrates—encompasses [[mycorrhizal-mineral-weathering-nutrient-acquisition]], metal
-mobilization and immobilization, and the formation of biogenic minerals through
-fungal [[arbuscule-isolation-metabolic-activity-assays]].
+interactions with geological substrates—encompasses [[arbuscule-isolation-metabolic-activity-assays]].
 
 These processes operate at the interface between the biosphere and the lithosphere,
 fundamentally influencing soil development, nutrient availability, and ecosystem
@@ -53,37 +51,12 @@ manganese(II) and iron(II) to more soluble oxidized forms.
 
 Reductive transformations are equally important. Many fungi can reduce uranium(VI) to
 uranium(IV), chromium(VI) to chromium(III), and other toxic metals to less mobile
-species. These transformations underpin fungal [[mycorrhizal-fungi]] serve as critical conduits for [[symbiotic-fungi-mycorrhizal-nitrogen-transfer-networks]] to host plants,
+species. These transformations underpin fungal [[symbiotic-fungi-mycorrhizal-nitrogen-transfer-networks]] to host plants,
 accessing organic nitrogen sources that would otherwise be unavailable. This function
 is particularly important in boreal and temperate forests where nitrogen availability
 limits primary productivity.
 
-[[mollison-phosphorus-cycling-and-conservation-in-permaculture-systems]] is similarly influenced by fungal activity. The excretion of
-organic acids and phosphatase enzymes solubilizes mineral-bound phosphorus, wh [[fungal-hyphae]] contribute to [[soil-aggregate-formation-fungal-contributions]] by binding mineral
-particles together with extracellular polymeric substances and hyphal networks. This
-aggregation improves soil structure, water retention, and resistance to erosion,
-further demonstrating the integral role of fungi in soil ecosystem function.
-
-## Geomycology in Environmental Management
-
-The principles of fungal mineral transformation have important practical applications.
-In biomining, fungi are employed to extract valuable metals from low-grade ores
-through bioleaching processes. In bioremediation, fungal metal immobilization and
-transformation capacities are harnessed to treat contaminated environments.
-
-The biodeterioration of building stone, concrete, and cultural heritage monuments
-represents the destructive side of fungal mineral interactions. Conservation strategies
-must balance the need to protect these materials with an understanding of the
-fundamental biological processes driving their deterioration.
-
-Research in geomycology continues to reveal new dimensions of fungal interactions
-with the mineral world, including roles in radionuclide migration, rare earth element
-cycling, and the formation of unique mineral assemblages in cave ecosystems and
-hydrothermal environments.
-## See Also
-- [[fungal-hyphae]]
-- [[mycorrhizal-fungi]]
-- fungi-in-the-environment-fungal-mineral-weathering
+[[fungal-hyphae]] contribute to [[fungal-hyphae]]
 - [[fungal-mineral-weathering]]
 
 ## Practical Applications
@@ -115,8 +88,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[det]]
 - [[permaculture]]
-- [[mycology]]
 - [[mycorrhiza]]
 - [[fungal-mineral-transformations-biogeochemical-cycles-gadd]]

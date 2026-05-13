@@ -15,9 +15,7 @@ type: entity
 **Also known as:** permaculture. In Western Australia alone, 50,000 hectares of
 marginal farmland have been planted to tagasaste, with an estimated 1.5
 million hectares that could benefit. It is a fast-growing, highly
-productive stock feed with exceptional [[dighton-fungal-drought-tolerance-plant-water-relations]].
-
-## Key [[det]] ails
+productive stock feed with exceptional [[det]] ails
 
 ### Botany
 - **Family:** Fabaceae (Papilionaceae)
@@ -26,8 +24,7 @@ productive stock feed with exceptional [[dighton-fungal-drought-tolerance-plant-
 - **Lifespan:** Fairly short-lived; extended considerably by regular
   cutting or browsing
 - **Root system:** Nitrogen-fixing; rhizobia usually present in soil
-  from [[robinia-pseudoacacia]]
-- [[leucaena-entity]]
+  from [[leucaena-entity]]
 ## Practical Applications
 
 chamaecytisus palmensis has a range of practical applications that make it relevant to

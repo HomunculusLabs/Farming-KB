@@ -12,10 +12,7 @@ sources:
 
 Holzer considers pigs his most valuable helpers on the farm. Rather than confining them to concrete pens, pigs on the Krameterhof live outdoors year-round and perform essential land management tasks:
 
-- **Soil preparation**: Pigs dig over and loosen soil in preparation for planting [[comparison-pruning-fruit-trees-vs-grafting-fruit-trees]] and crops
-- **Tillage**: Their rooting behaviour replaces mechanical ploughing on slopes where machinery cannot reach
-- **Composting**: They incorporate organic material into the soil through their natural behaviour
-- **[[fukuoka-fruit-processing-and-natural-food-marketing]]**: Windfall fruit provides high-quality feed; pigs convert it to manure
+- **Soil preparation**: Pigs dig over and loosen soil in preparation for planting [[fukuoka-fruit-processing-and-natural-food-marketing]]**: Windfall fruit provides high-quality feed; pigs convert it to manure
 - **Seed dispersal**: Pigs distribute seeds through their manure as they move across the landscape
 
 The integration of pigs into the farming system means the farmer does less work while the animals improve the land. This is a core principle: animals are not a separate enterprise but an integral part of the whole system.
@@ -65,28 +62,10 @@ The key insight is that pigs do not need heated buildings. Their natural behavio
 
 ## Pigs as Orchard Workers
 
-Fruit trees in paddocks provide windfall feed for pigs. The animals fertilise the trees, control [[fukuoka-rain-falls-from-ground-vegetation-rainfall-cycle]], and process fallen fruit that would otherwise attract pests. This integration means the fruit trees require no separate maintenance -- they produce food for livestock annually without any work from the farmer.
-
-## Breeding and Reproduction
-
-Sows in the outdoor paddock system give birth naturally without human intervention. The earth shelters provide a safe, warm, and dark environment for farrowing. Piglets grow up in the paddock system, learning to root, forage, and regulate their own diet from birth. This natural rearing produces hardy, well-adapted animals that thrive in the outdoor system without the health problems common in confinement operations.
-
-## Feed Self-Sufficiency
-
-By designing paddock polycultures strategically, the farmer can achieve near-complete feed self-sufficiency:
-
-- Cereals provide energy (grain and straw)
-- Legumes provide protein and [[query-how-to-fix-nitrogen-toxicity-in-cannabis]]
+Fruit trees in paddocks provide windfall feed for pigs. The animals fertilise the trees, control [[query-how-to-fix-nitrogen-toxicity-in-cannabis]]
 - Root crops (Jerusalem artichokes, turnips) provide winter feed
 - Windfall fruit supplements the diet in autumn
-- Clover and grass provide grazing through the [[savory-growing-season-and-non-growing-season-management]]
-
-The result is a closed-loop system where the farmer's primary role is observation and management rather than daily labour.
-
-## See Also
-
-- [[holzer-livestock-integration]]
-- [[holzer-cattle-poultry-management]]
+- Clover and grass provide grazing through the [[holzer-livestock-integration]]
 - [[holzer-disaster-resistant-farming]]
 - holzer-fruit-tree-planting-method
 
@@ -119,8 +98,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[doc]]
 - [[jerusalem-artichoke]]
-- [[composting]]
 - [[holzer-livestock-integration-pigs-cattle]]
 - [[holzer-pig-keeping-paddock-system]]

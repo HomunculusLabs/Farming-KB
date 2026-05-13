@@ -82,6 +82,13 @@ Both ants and termites are very active in the transport of rotted rock and subso
 Bill Mollison, *Permaculture: A Designers' Manual* (Tagari Publications, 1988), Chapter 10: The Humid Tropics, citing Harris (1971), pp. 254-255.
 ## See also
 
-- [[fungal-biology-fundamentals]]
 - [[tropical-food-system-development]]
 - [[mollison-designers-poultry-forage-design-pastured-systems]]
+
+## See Also
+
+- [[jadam-leaf-mold-as-ideal-soil]]
+- [[fungal-leaf-litter-succession]]
+- [[query-how-to-make-and-use-leaf-mold-in-your-garden]]
+- [[leaf-tissue-analysis-crop-nutrient-status]]
+- [[coleman-baby-leaf-salad-mix-composition-production]]

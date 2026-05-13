@@ -48,9 +48,7 @@ Beekeeping, or apiculture, is one of humanity's oldest forms of agriculture.
 For at least nine thousand years, people have harvested honey from wild
 colonies and later managed bees in purpose-built hives. Today, the
 relationship between humans and bees is more critical, and more threatened,
-than at any point in that long history. [[comparison-honey-bees-vs-native-solitary-bees]] pollinate roughly one-third
-of the food crops consumed in the developed world, contributing an estimated
-twenty billion dollars annually to the [[dmt-containing-plants-united-states-halpern]] economy alone. Yet since
+than at any point in that long history. [[dmt-containing-plants-united-states-halpern]] economy alone. Yet since
 2006, beekeepers have reported annual colony losses of thirty to forty
 percent, a rate that is unsustainable for either commercial agriculture or
 the broader ecosystem.
@@ -110,24 +108,10 @@ Evidence of honey harvesting dates to rock art in Spain, India, and southern
 Africa, some of it more than nine thousand years old. The ancient Egyptians
 practiced systematic beekeeping by 2400 BCE, stacking cylindrical clay hives
 in pyramidal arrangements and migrating hives along the Nile to follow the
-[[cannabis-sativa-flowering-cycle-management]]. Aristotle documented bee behavior in Historia Animalium
-around 350 BCE, and Roman writers including Virgil and Columella included
-detailed beekeeping advice in their agricultural texts.
-
-For most of human history, beekeeping meant harvesting from fixed-comb hives:
-skeps woven from straw, log gums, and clay pots, which required destroying
-## See Also
-
-- [[beekeeping-basics]] for getting started with [[bee-forage-hive-management-mollison]]
-- [[natural-beekeeping-practices]] for treatment-free approaches
-- [[top-bar-hive]] for horizontal hive design and management
+[[beekeeping-basics]] for getting started with [[natural-beekeeping-practices]] for treatment-free approaches
 - [[cover-crops]] for species selection for pollinator plantings
-- [[pollinator-conservation]] for protecting [[comparison-native-bee-pollinators-vs-honeybees]] species
-- [[pollinator-gardening]] for designing gardens for pollinator diversity
-- [[beneficial-insects-pollinators]] for the broader [[comparison-pheromone-based-pest-control-vs-beneficial-insect-biocontrol]] community
-- gaias-garden-bees-and-pollinators for Toby Hemenway's design approach
-- [[bee-products-beyond-honey]] for wax, propolis, pollen, and royal jelly
-- [[beekeeping-problems-and-solutions]] for troubleshooting common issues
+- [[comparison-native-bee-pollinators-vs-honeybees]] species
+- [[beneficial-insects-pollinators]] for the broader [[bee-products-beyond-honey]] for wax, propolis, pollen, and royal jelly
 - [[beekeeping-seasonal-calendar]] for month-by-month management
 
 ## References

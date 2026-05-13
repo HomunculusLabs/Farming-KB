@@ -9,15 +9,13 @@ tags: [reference]
 
 # The Green Park Incident of 1799: First Documented Psilocybin Intoxication in Europe
 
-On October 3, 1799, in London's St. James's Green Park, an impoverished family inadvertently consumed [[psilocybin-toxicity-and-safety-profile]] -- no deaths have ever been conclusively attributed to [[emcdda-psilocybin-non-addictive-profile-tolerance-dynamics]] ingestion alone. The fact that an eight-year-old child who ate a "large proportion" of the mushrooms recovered without lasting harm is particularly noteworthy.
+On October 3, 1799, in London's St. James's Green Park, an impoverished family inadvertently consumed [[emcdda-psilocybin-non-addictive-profile-tolerance-dynamics]] ingestion alone. The fact that an eight-year-old child who ate a "large proportion" of the mushrooms recovered without lasting harm is particularly noteworthy.
 
 ### The Mycophobic Frame
 
-The incident is framed entirely within a pathological model -- as "poisoning" rather than as an "experience." This framing reflects the broader European pattern of interpreting psychoactive [[psychedelic-mushroom-effects-guide]] as symptoms of mental illness rather than as potentially meaningful [[weil-the-natural-mind-altered-states-normalcy]] of consciousness. See [[psilocybe-semilanceata]] -- The species responsible
-- [[psilocybin-toxicity-and-safety-profile]] -- Modern safety data
+The incident is framed entirely within a pathological model -- as "poisoning" rather than as an "experience." This framing reflects the broader European pattern of interpreting psychoactive [[weil-the-natural-mind-altered-states-normalcy]] of consciousness. See [[psilocybin-toxicity-and-safety-profile]] -- Modern safety data
 - everard-brande-1799-european-mushroom-discovery
 
-- [[liberty-cap-psilocybe-semilanceata-history-biology]]
 - [[psilocybin-mushroom-common-names-slang]]
 ## Practical Applications
 
@@ -97,8 +95,6 @@ through generations to modern scientific approaches, the evolution continues
 to inform current best practices and research directions.
 
 ## See Also
-- [[psilocybin]]
 - [[doc]]
-- [[det]]
 - [[fukuoka-australia-fruit-fly-incident]]
 - [[emcdda-fatal-and-severe-incident-cases-hallucinogenic-mushrooms-europe]]

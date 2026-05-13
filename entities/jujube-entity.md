@@ -13,14 +13,11 @@ type: entity
 **Type:** Species (Plant)
 **Category:** Fruit-producing deciduous tree
 **Also known as:** permaculture systems. The Indian jujube's additional yields of
-shellac, firewood, and fodder create multiple [[homesteading-income-streams]] from a
-single species, exemplifying the [[permaculture-principle-apply-self-regulation]] of multiple
+shellac, firewood, and fodder create multiple [[permaculture-principle-apply-self-regulation]] of multiple
 functions.
 
 ## See Also
 
-- [[persimmon-entity]]
-- Pomegranate
 - [[permaculture-date-palm-guide]]
 - carob
 ## Practical Applications

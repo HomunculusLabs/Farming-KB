@@ -16,7 +16,7 @@ The most common form is the three-phase squirrel cage induction motor.
 Single-phase variants are used for smaller loads where only household or light commercial power is available.
 Induction motors are also called asynchronous motors because their rotor normally turns slightly slower than the rotating stator field.
 That speed difference, called slip, is not a defect; it is the condition that permits induction of rotor current and production of torque.
-The topic connects [[kirchhoffs-circuit-laws]], power electronics, [[bio-electronic-interfaces]].
+The topic connects [[bio-electronic-interfaces]].
 
 ## Rotating Magnetic Field
 Balanced polyphase stator currents create a magnetic field whose resultant direction rotates smoothly around the air gap.
@@ -78,48 +78,6 @@ Modern variable-frequency drives change both supply frequency and voltage, makin
 For fans and pumps, reducing speed can save large amounts of energy because fluid power often scales strongly with speed.
 A drive usually maintains an approximate volts-per-hertz ratio below base speed to preserve air-gap flux.
 Above base speed, voltage may be limited and the motor enters a field-weakening region with reduced torque capability.
-Drive [[cho-natural-pest-control-methods]] include scalar volts-per-hertz control, vector control, and direct torque control.
-Drives introduce harmonics, insulation stress, bearing currents, electromagnetic compatibility concerns, and cooling changes at low speed.
-
-## Efficiency and Losses
-Motor efficiency depends on stator copper loss, rotor copper loss, core loss, friction, windage, and stray load loss.
-Because rotor copper loss is tied to slip, high-slip operation wastes energy and heats the rotor.
-Core loss depends on magnetic material, flux density, frequency, and lamination quality.
-Good designs use thin electrical steel laminations to reduce eddy currents.
-Premium-efficiency motors reduce losses through better steel, more copper, optimized air gaps, and improved cooling.
-Efficiency must be evaluated at the actual load point because lightly loaded motors can have poor power factor and lower efficiency.
-
-## Practical Applications
-
-The principles and techniques discussed here have wide-ranging applications
-across multiple disciplines and contexts. Practitioners and researchers
-continue to explore new ways to integrate these concepts into modern practice,
-adapting traditional knowledge to contemporary challenges and opportunities.
-
-## Key Considerations
-
-Several important factors influence the effectiveness and outcomes described
-in this topic. Understanding these considerations helps practitioners make
-informed decisions and avoid common pitfalls. Environmental conditions,
-timing, and material selection all play critical roles.
-
-## Historical Context
-
-The historical development of this subject reflects centuries of accumulated
-knowledge and practical experience. From traditional methods passed down
-through generations to modern scientific approaches, the evolution continues
-to inform current best practices and research directions.
-
-## Common Challenges
-
-Practitioners frequently encounter several challenges when working with
-these concepts. Climate variability, resource limitations, and knowledge
-gaps can all affect outcomes. Addressing these challenges requires patience,
-observation, and a willingness to adapt approaches based on results.
-
-## See Also
-- [[det]]
-- [[fungal-enzyme-induction-and-regulation]]
+Drive [[det]]
 - [[oyster-mushroom-pinning-induction-fruiting-conditions]]
-- [[electromagnetic-induction-faraday-law]]
 - [[fukuoka-textdoc-intuitive-reasoning-beyond-induction-deduction]]

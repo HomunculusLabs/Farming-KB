@@ -8,9 +8,7 @@ created: 2026-05-09
 # Ayahuasca Tourism in Peru
 
 Ayahuasca tourism refers to the practice of traveling to the Amazon basin,
-primarily in Peru, to participate in traditional [[metzner-amazonian-ayahuasca-ceremonies-icaros-and-healing-methods]] led by
-indigenous or mestizo shamans (ayahuasqueros). The phenomenon has grown
-significantly since the 1990s as [[ayahuasca-tourism-western-seekers-and-integration]] have increasingly looked to
+primarily in Peru, to participate in traditional [[ayahuasca-tourism-western-seekers-and-integration]] have increasingly looked to
 shamanic traditions for spiritual experiences, following earlier waves of
 interest in Zen Buddhism, Hindu gurus, and Tibetan lamas.
 
@@ -26,12 +24,7 @@ psychoactive brew used traditionally by Amazonian peoples.
 
 ## The Ayahuasca Landscape in Peru
 
-Peru occupies a unique position regarding ayahuasca. Unlike the [[dmt-containing-plants-united-states-halpern]],
-where DMT (the primary psychoactive compound in ayahuasca) is a Schedule I
-controlled substance, Peru regards ayahuasca as an herbal tonic rather than
-an illegal drug. The brew and its raw plant materials are openly sold in
-markets. Government tourist agencies sponsor ayahuasca festivals, and even
-Peru's President Alejandro Toledo participated in an [[ayahuasca-ceremony-pharmacology-safety]].
+Peru occupies a unique position regarding ayahuasca. Unlike the [[ayahuasca-ceremony-pharmacology-safety]].
 
 However, Peru is not without its own drug conflicts. Television portrays
 marijuana as a dangerous substance, cocaine traffickers regularly close roads
@@ -44,26 +37,8 @@ deep cultural integration of the brew in Peruvian society.
 
 ### Iquitos
 
-Iquitos, the largest city in the [[ayahuasca-tourism-economics-peruvian-amazon]], has been the primary
-destination for ayahuasca tourism for over a decade. Its accessibility by
-air and its large expatriate community have made it a hub for both serious
-spiritual seekers and casual tourists. Numerous lodges, retreat centers, and
-independent shamans operate in and around Iquitos, offering ceremonies at a
-wide range of price points.
-
-### Shipibo Communities
-
-The [[shipibo-people-and-ayahuasca-tradition]], an indigenous group of the [[ayahuasquero-practitioner-profiles-ethics-ucayali-region]], are among the
-most renowned ayahuasca practitioners. The town of [[shipibo-san-francisco-ceremonial-center-ucayali]], near Yarina,
-has declared itself the "Centro Ceremonial del Ayahuasca" ([[san-francisco-shipibo-ayahuasca-ceremonial-center]]
-Center), as proclaimed by an enormous sign at the town entrance. Almost every
-Shipibo family includes at least one or two ayahuasqueros, many of whom host
-ceremonies for both other Peruvians and foreign visitors.
-
-### Brazilian Ayahuasca Churches
-
-Some tourists travel to Brazil to participate in ceremonies of syncretic
-religious movements such as the [[brazilian-ayahuasca-churches-santo-daime-udv-barquinha-structural-comparison]] and União do Vegetal (UDV), which
+Iquitos, the largest city in the [[shipibo-people-and-ayahuasca-tradition]], an indigenous group of the [[shipibo-san-francisco-ceremonial-center-ucayali]], near Yarina,
+has declared itself the "Centro Ceremonial del Ayahuasca" ([[brazilian-ayahuasca-churches-santo-daime-udv-barquinha-structural-comparison]] and União do Vegetal (UDV), which
 incorporate ayahuasca (called "daime" or "hoasca" respectively) into
 Christian-influenced ritual frameworks. These churches offer a more
 structured, communal experience compared to the individualized shamanic
@@ -111,8 +86,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[ayahuasca-tourism]]
 - [[ayahuasca]]
-- [[brazilian-ayahuasca-churches]]
 - [[doc]]
 - [[shamanism]]

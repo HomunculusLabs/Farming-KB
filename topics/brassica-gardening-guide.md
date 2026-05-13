@@ -32,27 +32,7 @@ Brassica oleracea, a plant that early farmers transformed through
 centuries of selective breeding into the strikingly different
 vegetables we recognize today. Despite their visual diversity, all
 brassicas share fundamental growing requirements: cool weather, rich
-fertile soil, and vigilant [[cannabis-pest-management-guide]].
-
-Nutritionally, brassicas are rich in vitamin C, vitamin K, folate,
-iron, calcium, and sulfur-containing glucosinolates studied for
-potential anti-cancer properties. Kale and collards are particularly
-nutrient-dense. In the garden, brassicas fill the spring and fall
-shoulder seasons when warm-weather crops are not yet planted or have
-been killed by frost. However, they are also among the most
-challenging crops to grow organically due to specialized insect pests
-and persistent diseases like clubroot.
-
-## Botanical Background and the Refinement Scale
-
-One of the most illuminating ways to understand brassicas is through
-Steve Solomon's concept of the "refinement scale." All domesticated
-brassicas derive from wild Brassica oleracea, but centuries of
-selection have pushed different varieties along a continuum from wild
-to highly refined.
-
-At the bottom of this scale sits kale, the brassica closest to its
-wild ancestor. Kale retains the robust vigor, [[coleman-cold-hardiness-testing-ratings]], and pest
+fertile soil, and vigilant [[coleman-cold-hardiness-testing-ratings]], and pest
 resistance of its wild forebear. It grows on a tall central stalk and
 produces leaves from a crown, requiring relatively modest soil
 fertility and minimal intervention.
@@ -79,28 +59,7 @@ finally cauliflower.
 ## Soil Requirements and Site Selection
 
 Brassicas are heavy feeders that require rich, fertile soil with plenty
-of [[hamilton-composting-and-organic-matter-management]]. They prefer a slightly alkaline soil pH between
-6.5 and 7.0, and all brassicas need more calcium than most other
-vegetable families. Where soil is acidic, broadcasting five pounds of
-finely ground agricultural lime per 100 square feet before planting is
-standard practice.
-
-The soil should be firm and well-consolidated rather than fluffy and
-loose. This contrasts with root crops like carrots, which prefer loose
-soil for unimpeded root growth. Firm soil provides the stability that
-heading brassicas need to develop compact, dense heads.
-
-In organic systems, preparing a brassica bed begins the previous
-season. Rather than applying fresh manure just before planting, which
-produces soft disease-prone growth, experienced growers manure the
-preceding crop. Alternatively, two to three handfuls of blood, fish,
-and bone meal per square yard provide balanced nutrition at planting
-time.
-
-Brassicas benefit from following legumes in crop rotation. The nitrogen
-released by decomposing pea and bean root nodules provides natural
-fertility. In raised beds, Solomon recommends concentrating extra
-complete [[complete-organic-fertilizer-cof-recipe-solomon]] or strong compost directly under each
+of [[complete-organic-fertilizer-cof-recipe-solomon]] or strong compost directly under each
 planting station to support the heavy feeding demands of refined
 brassicas like broccoli and cauliflower.
 
@@ -133,17 +92,9 @@ For spring plantings, transplant broccoli and cabbage 2 to 4 weeks
 before the last expected frost. Cauliflower needs 2 to 3 weeks
 ## See Also
 
-- [[home-vegetable-gardening-essentials]]
 - [[companion-planting-and-polycultures]]
-- [[integrated-pest-management-ipm]]
 - [[cover-crops-and-green-manures]]
 - crop-rotation-and-farm-planning
-- [[cold-climate-farming-and-season-extension]]
-
-## References
-
-- Solomon, Steve. *Gardening When It Counts*. New Society Publishers,
-  2005.
-- Hamilton, Geoff. *[[hamilton-geoffhamilton-nick-organic-gardening-companion-planting]]*. BBC Books, 1990.
+- [[hamilton-geoffhamilton-nick-organic-gardening-companion-planting]]*. BBC Books, 1990.
 - Purdue University Extension. *Home Gardener's Guide*.
 - Coleman, Eliot. *The [[coleman-claytonia-winter-harvest-cultivation]] Handbook*. Chelsea Green, 2009.

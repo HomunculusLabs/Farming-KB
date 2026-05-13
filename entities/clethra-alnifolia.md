@@ -108,13 +108,8 @@ Honey produced from summersweet nectar is light-colored with a distinctive spicy
 
 ## See Also
 
-- [[kalmia-latifolia]]
 - [[kalmia-angustifolia]]
-- [[rhododendron-maximum]]
 - [[gaultheria-shallon]]
-- [[ilex-verticillata]]
 - [[monarda-didyma]]
-- [[morella-cerifera]]
 - [[vaccinium-corymbosum-entity]]
-- [[eupatorium-perfoliatum]]
 - [[rhus-glabra]]

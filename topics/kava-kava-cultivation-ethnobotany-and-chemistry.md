@@ -25,20 +25,9 @@ sources:
 
 ## Overview
 
-**Kava** (*[[piper-methysticum]]*) is a perennial shrub in the pepper family (Piperaceae) native to the western [[guzman-allen-gartz-neurotropic-fungi-hawaii-pacific-islands]]. Revered for millennia across Oceania, kava is consumed as a ceremonial beverage prized for its anxiolytic, sedative, and euphoriant properties. The active constituents, collectively known as **kavalactones**, produce a unique state of calm alertness distinct from alcohol or pharmaceutical anxiolytics.
+**Kava** (*[[guzman-allen-gartz-neurotropic-fungi-hawaii-pacific-islands]]. Revered for millennia across Oceania, kava is consumed as a ceremonial beverage prized for its anxiolytic, sedative, and euphoriant properties. The active constituents, collectively known as **kavalactones**, produce a unique state of calm alertness distinct from alcohol or pharmaceutical anxiolytics.
 
-Kava occupies a central role in the social, political, and [[fukuoka-do-nothing-farming-and-spiritual-life]] of Pacific Island cultures — from Vanuatu, Fiji, and Samoa to Tonga, Pohnpei, and Hawaiʻi. Its significance extends beyond recreation; kava ceremonies formalize diplomatic meetings, mark life transitions, and facilitate conflict resolution.
-
-## Taxonomy and Botany
-
-### Classification
-
-| Rank | Classification |
-|------|---------------|
-| **Family** | Piperaceae |
-| **Genus** | *Piper* |
-| **Species** | *P. methysticum* G.Forst. |
-| **Common names** | Kava, [[kava-kava-ethnobotany-chemistry]], ʻawa (Hawaiʻi), yaqona (Fiji), sakau (Pohnpei), malok (Vanuatu) |
+Kava occupies a central role in the social, political, and [[kava-kava-ethnobotany-chemistry]], ʻawa (Hawaiʻi), yaqona (Fiji), sakau (Pohnpei), malok (Vanuatu) |
 | **Chromosome count** | 2n = 130 (sterile pentaploid) |
 
 ### Morphology
@@ -52,58 +41,7 @@ Kava is a slow-growing, dioecious (in wild relatives) or functionally sterile sh
 
 ### Relationship to Wild Relatives
 
-Kava is believed to be a domesticated derivative of *Piper wichmannii* (sometimes called *Piper subbullatum*), a wild species found in Melanesia. The domestication process — selection for higher kavalactone content, sterility, and [[vegetative-propagation-methods-mollison]] — likely occurred over 3,000+ years in northern Vanuatu before spreading across the Pacific.
-
-## Ethnobotany and Cultural Significance
-
-### Origins and Dispersal
-
-Kava's center of origin is northern Vanuatu, specifically the Banks and Torres Islands. From there, it dispersed:
-
-1. **Westward** to New Guinea, the Solomon Islands, and parts of Micronesia
-2. **Eastward** through Fiji, Samoa, Tonga, and eventually to Hawaiʻi
-3. **Northward** to Pohnpei and other Caroline Islands
-
-The spread followed Austronesian migration routes, and kava cultivation is strongly associated with the Lapita cultural complex and subsequent Polynesian expansion.
-
-### Ceremonial Uses
-
-**Vanuatu**: The epicenter of kava diversity and ceremonial use. In many ni-Vanuatu communities, kava drinking (nakamal) is an almost daily social ritual. Chiefs and elders preside over formal kava ceremonies that establish social hierarchy, resolve disputes, and welcome guests. The drink is prepared from fresh green kava root, chewed or pounded, then mixed with cold water and strained.
-
-**Fiji**: Yaqona ceremonies (sevusevu) are formal, ritualized affairs central to Fijian social protocol. Visitors present yaqona roots to village chiefs, and the preparation and serving follow strict protocols. The bowl (tanoa) and serving cups (bilo) have cultural significance.
-
-**Samoa and Tonga**: Kava (ʻava in Samoa) ceremonies mark formal occasions, including chiefly investitures, weddings, funerals, and meetings of village councils. The beverage is served in a coconut shell cup following elaborate ritual.
-
-**Hawaiʻi**: ʻAwa was historically consumed by priests (kahuna) and chiefs for religious and medicinal purposes. Hawaiian ʻawa varieties (there are reportedly 13+ varieties) were cultivated in carefully managed gardens. ʻAwa fell into decline after missionary contact but is experiencing a cultural revival.
-
-**Pohnpei**: Sakau is prepared using a distinctive method where the root is chewed (traditionally by young men) before being mixed with water and strained through hibiscus bark. Sakau bars (nahs) are central to Pohnpeian social life.
-
-### Medicinal Uses in Traditional Practice
-
-Across Pacific cultures, kava has been used to treat:
-
-- **Anxiety and nervous tension**
-- **Insomnia and sleep disturbances**
-- **Muscular pain and spasms**
-- **Urinary tract infections**
-- **Menstrual cramps and menopausal symptoms**
-- **Headaches and migraines**
-- **Respiratory congestion** (topical application)
-- **Skin infections and wounds** (poultices from leaves)
-
-## Chemistry and Pharmacology
-
-### Kavalactones
-
-The psychoactive properties of kava derive from a group of lactone compounds called **kavalactones** (also known as kavapyrones). At least 18 distinct kavalactones have been identified, but six account for approximately 95% of the total lactone content:
-
-| Kavalactone | % of total | Primary effects |
-|-------------|-----------|-----------------|
-| **Kavain** (also called kawain) | 20–40% | Primary anxiolytic; calm, clear-headed |
-| **Dihydrokavain (DHK)** | 10–20% | Sedative; contributes to body relaxation |
-| **Methysticin** | 10–15% | Analgesic; synergistic with kavain |
-| **Dihydromethysticin (DHM)** | 5–15% | Cytotoxic at high doses; synergistic |
-| **Yangonin** | 5–10% | [[cannabinoid-receptor-agonists-antagonists-synthetic-reference-blesching]] (CB1) affinity; mild euphoria |
+Kava is believed to be a domesticated derivative of *Piper wichmannii* (sometimes called *Piper subbullatum*), a wild species found in Melanesia. The domestication process — selection for higher kavalactone content, sterility, and [[cannabinoid-receptor-agonists-antagonists-synthetic-reference-blesching]] (CB1) affinity; mild euphoria |
 | **Desmethoxyyangonin (DMY)** | 5–10% | Monoamine oxidase B (MAO-B) inhibition; dopamine elevation |
 
 ### Mechanism of Action
@@ -143,7 +81,4 @@ The chemotype is written as a six-digit number representing the descending order
 
 **"Tudei" (two-day) kavas** — varieties like ʻIsa or Palisi — contain high levels of DHK and DHM (digits 2 and 5). They produce stronger but longer-lasting and sometimes unpleasant effects (lethargy, nausea the next day). They are not traditionally consumed casually and are generally considered inferior for social drinking.
 
-**Witch's kava** (a concept from Vanuatu) refers to particularly potent or unusual varieties, sometimes associated with [[adverse-effects-and-harm-reduction-psilocybin]].
-
-## Related
-- [[coleman-claytonia-winter-harvest-cultivation|coleman claytonia winter harvest cultivation]]
+**Witch's kava** (a concept from Vanuatu) refers to particularly potent or unusual varieties, sometimes associated with [[coleman-claytonia-winter-harvest-cultivation|coleman claytonia winter harvest cultivation]]

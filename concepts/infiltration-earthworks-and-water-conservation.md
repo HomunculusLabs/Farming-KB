@@ -12,23 +12,16 @@ landscapes. By shaping the land to capture, slow, and infiltrate
 surface water, earthworks convert runoff into deep soil moisture
 reserves, recharge groundwater, and create distributed water
 availability across a property. This page covers the principal
-earthwork strategies for infiltration and [[water-conservation]] as
-described in [[permaculture-design]].
+earthwork strategies for infiltration and [[permaculture-design]].
 
 ## Why Infiltration Matters
 
-Soil conditioning or "ripping," when followed by [[query-what-are-the-different-fruit-tree-training-systems-and-which-should-i-use|tree]] planting, trace
-element additions, and well-managed agriculture, can increase the
-ability of soils to hold and infiltrate water by factors of 70–85%.
-Areas with up to 85% runoff can be converted to zero overland flow
-through a combination of soil conditioning, swales, and water
-spreading to forests. Since soils can contain many times the water
-of open storages or streams, increasing soil water [[infiltration-earthworks-water-storage|storage]] directly
+Soil conditioning or "ripping," when followed by [[infiltration-earthworks-water-storage|storage]] directly
 increases throughflow, baseflow, and water available to plants.
 
 As water cycles more effectively via evapotranspiration and
 rainfall, the total water budget of a landscape improves. Soil
-treatments should precede tree planting over almost every area that
+treatments should precede [[fukuoka-textdoc-shelterbelt-design-environmental-tree-planting]] over almost every area that
 has been used by contemporary agriculture, particularly barren areas
 used for constant cropping in dryland regions.
 
@@ -49,7 +42,7 @@ well in combination with tree planting.
 Swales are level or near-level channels excavated on contour across
 a slope. They capture runoff, slow its movement, and allow it to
 infiltrate along their entire length. Swales are one of the most
-important permaculture earthworks, serving simultaneously as
+important [[permaculture-earthworks]], serving simultaneously as
 infiltration devices, water distribution systems, and tree-planting
 sites. The berm on the downslope side of a swale is an ideal location
 for productive tree crops, which benefit from the concentrated
@@ -59,7 +52,7 @@ moisture.
 
 Water spreading involves diverting concentrated flow from drainage
 lines, roads, or paved surfaces across broad areas of land. This can
-be achieved through diversion drains, spreader channels, or simple
+be achieved through [[diversion-drains-and-spreader-banks]], spreader channels, or simple
 earth banks that release water gradually over a wide area. Water
 spreading is particularly effective for recharging sandy soils,
 dune fields, and degraded pastures where concentrated flow would
@@ -69,7 +62,7 @@ otherwise cause erosion.
 
 ### Diversion Drains
 
-Diversion drains and their associated valves, slides, cross-walls,
+[[mollison-designers-diversion-drains-and-interceptor-banks]] their associated valves, slides, cross-walls,
 intakes, and irrigation systems enable effective water harvesting,
 dependable [[earthworks-water-conservation-and-storage|storage]], and fast emergency use. They can recharge sand
 basins and swales from otherwise wasted overland flow, and can damp
@@ -93,15 +86,15 @@ Wherever precipitation exceeds the demands of transpiration and
 evaporation, small dams, wetlands, and swamps can proliferate. In
 humid areas, these water storages can occupy up to 20% of the
 landscape with great benefit, providing fish, aquatic plants,
-waterfowl, and wildlife habitat while moderating drought and flood.
+waterfowl, and [[hemenway-backyard-wildlife-habitat]] while moderating drought and flood.
 Dams and ponds are also potential aquaculture sites, and the
 production of diverse plant and fish or waterfowl protein should be
 considered during their construction.
 
 Many Australian farms have become "drought-proof" through sensible
-investment in Keyline or similar water conservation systems. The
+investment in Keyline or similar [[water-conservation]] systems. The
 Keyline system, developed by P.A. Yeomans, is the pioneering modern
-text on landscape design for water conservation and gravity-fed
+text on [[holzer-permaculture-landscape-design]] for water conservation and gravity-fed
 irrigation.
 
 ### Biological Storages

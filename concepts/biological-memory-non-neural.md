@@ -20,20 +20,10 @@ information processing is a fundamental property of living matter.
 
 ### Habituation
 Repeated exposure to a non-harmful stimulus leads to a decreased response.
-*[[neurospora-crassa]]*
-tracks time through a transcription-translation feedback loop involving the
-*frq* gene. [[mycelial-networks]]
+*[[mycelial-networks]]
 retain traces of previous nutrient distributions in their tube architecture,
 influencing future growth decisions — a form of structural memory used in
-[[mycelial-network-computation]]. The network effectively "remembers" where
-resources were found and preferentially explores those directions again.
-
-### Transgenerational Memory
-Some organisms transmit information about environmental conditions to their
-offspring through epigenetic mechanisms. *Caenorhabditis elegans* exposed to
-a pathogen produce progeny with heightened pathogen avoidance for up to four
-generations. Plants subjected to drought stress produce seeds that germinate
-with enhanced [[dighton-fungal-drought-tolerance-plant-water-relations]].
+[[dighton-fungal-drought-tolerance-plant-water-relations]].
 
 ## Mechanisms
 
@@ -118,8 +108,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[plant-memory-and-priming-responses]]
 - [[plant-memory-and-learning-mechanisms]]
-- [[plant-memory-epigenetic-recall-mechanisms]]
 - [[plant-memory-what-a-plant-remembers]]
 - [[plant-memory-and-priming]]

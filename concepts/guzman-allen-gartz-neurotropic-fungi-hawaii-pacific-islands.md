@@ -13,19 +13,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - "raw/papers/the-mushroom-cultivator-stamets.md"
-  - Guzman G, Allen JW, Gartz J (2000) A worldwide [[psilocybe-geographical-distribution-patterns]]
-    of the neurotropic fungi, an analysis and discussion. Ann. Mus. civ.
-    Rovereto 14:189-280.
-type: concept
----
-
-## Overview
-
-The Pacific Islands and Hawaiian Archipelago harbor a remarkable diversity of
-neurotropic fungi despite their geographic isolation. Hawaii in particular
-presents one of the most concentrated assemblages of neurotropic mushroom
-species known from any island chain, with species spanning four genera:
-Copelandia, Panaeolus, Psilocybe, and [[claviceps-paspali]]. This diversity is largely attributable to the
+  - Guzman G, Allen JW, Gartz J (2000) A worldwide [[claviceps-paspali]]. This diversity is largely attributable to the
 introduction of livestock and the resulting coprophilous habitats.
 
 ## Hawaiian Neurotropic Mycoflora
@@ -60,12 +48,7 @@ Three species of Panaeolus have been documented from Hawaii:
 
 ### Other Hawaiian Species
 
-- **[[allegro-amanita-muscaria-properties-and-pharmacology]]** (L.) Hook. -- Documented by Merlin and Allen (1993)
-  and Allen (1998); grows in mycorrhizal association with Pinus, likely
-  introduced through pine plantations
-- **[[claviceps-paspali-alkaloids]]** F. Stev. and J.G. Hall -- An [[ergot-fungus]] parasitic
-  on Paspalum grasses, recorded from Hawaii by Grasso (1955)
-- **[[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]]** -- Listed with a question mark by Allen (1998),
+- **[[claviceps-paspali-alkaloids]]** F. Stev. and J.G. Hall -- An [[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]]** -- Listed with a question mark by Allen (1998),
   indicating uncertain identification on the islands
 
 ### Altitudinal Range
@@ -81,7 +64,6 @@ in tropical island environments.
 
 Fiji has two documented neurotropic species:
 
-- **[[copelandia-cyanescens]]** -- Reported by Olah (1969)
 - **[[basidiocarp-four-stage-development-classification-psilocybe-cubensis-badham-1982]]** -- Reported by Wasson (1959b)
 
 ### Samoa
@@ -117,8 +99,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[guzman-allen-gartz-hawaii-neurotropic-fungi-tropical-pacific-hotspot]]
 - [[neurotropic-fungi]]
-- [[guzman-allen-gartz-neurotropic-fungi-europe]]
 - [[guzman-allen-gartz-conflicting-chemical-analyses-neurotropic-fungi]]
 - [[guzman-allen-gartz-neurotropic-fungi-caribbean-central-america]]

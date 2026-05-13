@@ -11,17 +11,9 @@ sources:
 ---
 # Hops History and Brewing
 
-Hops ([[humulus-lupulus]]) are the defining flavoring ingredient in most modern beer. Their journey from a wild climbing plant to the dominant brewing herb spans over a thousand years and has fundamentally shaped what beer tastes like today. Understanding hops -- their history, biology, varieties, and use in brewing -- is essential for any brewer.
+Hops ([[comparison-essential-oils-vs-neem-oil-vs-insecticidal-soap]] responsible for hops' bitterness, flavor, and aroma.
 
-## Botanical Background
-
-Hops are a perennial climbing vine in the Cannabaceae family, making them close relatives of cannabis. The plant is dioecious, meaning male and female flowers grow on separate plants. Only the female flowers (cones or strobiles) are used in brewing. These cone-like structures contain lupulin glands that produce the resins and [[comparison-essential-oils-vs-neem-oil-vs-insecticidal-soap]] responsible for hops' bitterness, flavor, and aroma.
-
-Hops grow in [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]] between roughly 35 and 55 degrees latitude. They require long summer days, well-drained soil, and support structures to climb. A single hop plant can grow 20 feet or more in a single season and produce several pounds of dried cones.
-
-## Early Use of Hops
-
-Hops were not originally a brewing ingredient. The earliest known uses of hops were as a salad green, a [[query-how-do-i-build-a-medicinal-herb-drying-rack-and-optimize-drying-conditions]], and a fiber plant. Roman naturalist Pliny the Elder described hops growing wild among willows, and the Romans ate young hop shoots as a spring vegetable similar to asparagus.
+Hops grow in [[query-how-do-i-build-a-medicinal-herb-drying-rack-and-optimize-drying-conditions]], and a fiber plant. Roman naturalist Pliny the Elder described hops growing wild among willows, and the Romans ate young hop shoots as a spring vegetable similar to asparagus.
 
 The first evidence of hops being used in beer comes from 9th-century monasteries in what is now northern France and southern Germany. Monks may have initially added hops to beer for their preservative qualities rather than their flavor. The antibacterial properties of hop acids helped beer survive transport and storage, which was crucial for monasteries that brewed beer for trade.
 
@@ -48,43 +40,15 @@ Alpha acid content varies significantly between hop varieties, ranging from abou
 
 ### Beta Acids
 
-Beta acids contribute to the preservative quality of hops but are not significantly isomerized during boiling. They provide some bitterness as they oxidize over time, which is part of why hopped beer ages differently than [[gruit-beer-and-herbs]]. Beta acids also have [[mycelium-running-mushroom-antimicrobial-properties-species-chart]], particularly against Gram-positive bacteria.
+Beta acids contribute to the preservative quality of hops but are not significantly isomerized during boiling. They provide some bitterness as they oxidize over time, which is part of why hopped beer ages differently than [[mycelium-running-mushroom-antimicrobial-properties-species-chart]], particularly against Gram-positive bacteria.
 
 ### Essential Oils
 
 Hop essential oils are responsible for aroma and much of the flavor character. Over 400 compounds have been identified in hop oil, with the most important being:
 
 - Myrcene: Herbal, green, slightly tropical
-- [[humulene]]: Woody, spicy, refined
-- Caryophyllene: Peppery, spicy
 - [[linalool]]: Floral, citrus
-- [[geraniol]]: Floral, rose-like
-- Farnesene: Fresh, green, apple-like
-
-Essential oils are volatile and degrade quickly at high temperatures. For this reason, aromatic hop additions are typically made late in the boil, at flameout, or during dry hopping (adding hops to the fermenter).
-
-## Major Hop Categories
-
-### Noble Hops
-
-Noble hops are traditional European varieties prized for their refined, mild aromas. They include:
-
-- Hallertauer Mittelfruh (Germany): floral, spicy, mild
-- Tettnanger (Germany): slightly spicy, herbal, floral
-- Spalter Select (Germany): noble character with slightly more intensity
-- Saaz (Czech Republic): earthy, herbal, spicy -- essential for Czech pilsner
-- Styrian Goldings (Slovenia): floral, slightly spicy
-
-Noble hops are characterized by low alpha acid content (3-5%), complex essential oil profiles, and a delicate, refined bitterness.
-
-### American Hops
-
-American hop varieties are known for intense, bold aromas often described as citrusy, piney, tropical, or fruity. Key varieties include:
-
-- Cascade: grapefruit, floral -- the classic American craft hop
-- Centennial: more intense citrus and floral
-- Citra: intense mango, grapefruit, tropical fruit
-- Simcoe: pine, citrus, earthy, [[holzer-stone-fruit-varieties-and-growing]]
+- [[holzer-stone-fruit-varieties-and-growing]]
 - Mosaic: complex tropical fruit, citrus, berry, earthy
 - Amarillo: orange, tangerine, floral
 
@@ -117,8 +81,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[dom]]
 - [[linalool]]
-- [[neem]]
 - [[myrcene]]
 - [[mycelium]]

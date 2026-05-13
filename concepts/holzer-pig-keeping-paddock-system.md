@@ -12,7 +12,7 @@ sources:
 
 # Holzer Pig Keeping and Paddock System
 
-Pigs play a central role in the integrated farming system at the Krameterhof. Sepp Holzer raises old and endangered pig breeds in a paddock system that keeps all animals outside year-round. The pigs serve multiple functions: soil preparation, [[comparison-pheromone-based-pest-control-vs-beneficial-insect-biocontrol]], fertilization, and ultimately meat production. Their integration into the broader farm ecosystem exemplifies the [[sepp-holzer-terrace-systems-and-raised-beds]] approach.
+Pigs play a central role in the integrated farming system at the Krameterhof. Sepp Holzer raises old and endangered pig breeds in a paddock system that keeps all animals outside year-round. The pigs serve multiple functions: soil preparation, [[sepp-holzer-terrace-systems-and-raised-beds]] approach.
 
 ## Fencing and Management
 
@@ -20,15 +20,7 @@ The paddock system requires robust fencing to contain the pigs, which are strong
 
 ## Cyclical Nature
 
-Pigs serve as a good example of the cyclical nature of [[holzer-raised-bed-design-principles]] is direct: land that has been prepared by pigs can be immediately planted without further soil work.
-
-## Breeding Considerations
-
-Holzer's approach to breeding emphasizes natural selection and minimal intervention. Breeding animals are chosen for hardiness, temperament, and mothering ability rather than for maximum growth rate alone. Piglets are born outdoors and raised by their mothers in the paddock system, which produces robust animals well-adapted to the farm environment.
-
-The avoidance of indoor farrowing crates and concentrated feeds aligns with [[holzer-raised-bed-design-principles]] or field crop establishment. Their rooting activity during the 4-8 weeks before planting breaks up compacted soil, incorporates residual [[hamilton-composting-and-organic-matter-management]], and deposits manure that provides a slow-release fertility source. Once the pigs are rotated out, the prepared land is immediately planted — often with root crops, potatoes, or pumpkin that benefit from the loosened soil profile.
-
-For [[fukuoka-citrus-orchard-establishment-bare-hillside]], pigs are run through future fruit tree planting areas in the autumn before spring planting. Their deep rooting opens soil profiles to the depth needed for tree root establishment, and their manure provides the fertility that young trees need during their critical establishment years. This preparation replaces the heavy machinery and imported compost that conventional orchard establishment requires.
+Pigs serve as a good example of the cyclical nature of [[holzer-raised-bed-design-principles]] or field crop establishment. Their rooting activity during the 4-8 weeks before planting breaks up compacted soil, incorporates residual [[fukuoka-citrus-orchard-establishment-bare-hillside]], pigs are run through future fruit tree planting areas in the autumn before spring planting. Their deep rooting opens soil profiles to the depth needed for tree root establishment, and their manure provides the fertility that young trees need during their critical establishment years. This preparation replaces the heavy machinery and imported compost that conventional orchard establishment requires.
 
 A particularly elegant integration involves intercropping within pig paddocks. Holzer sows peas, beans, or sweetcorn in areas where he wants pigs to concentrate their rooting activity. The pigs are attracted to these crops and focus their disturbance accordingly, allowing the farmer to precisely direct soil preparation to specific zones without fencing.
 
@@ -36,26 +28,8 @@ A particularly elegant integration involves intercropping within pig paddocks. H
 
 The paddock system requires specific infrastructure that differs significantly from conventional pig housing. Robust fencing is the primary requirement — pigs are strong, intelligent, and persistent in their efforts to explore beyond boundaries. Holzer uses a combination of permanent fencing (wooden or metal posts with wire) for paddock boundaries and portable electric fencing for subdividing paddocks and directing pig movement. Electric fencing must be powerful enough to deliver a convincing shock through the pig's tough skin and layer of fat.
 
-Water access is essential year-round. In summer, pigs need wallowing areas deep enough for full body immersion — Holzer designs these as natural ponds connected to his broader [[holzer-raised-bed-design-principles]]
-- [[holzer-cattle-poultry-management]]
-- [[sepp-holzer-garden-helpers-and-pest-regulation]]
-## Practical Considerations
-
-When working with Holzer Pig Keeping and Paddock System, several practical factors should be
-carefully considered to achieve optimal results. These include
-the specific conditions of the implementation context, available
-resources, timing requirements, and the interactions between this
-topic and other elements of the broader system. A holistic view
-that considers these interconnections produces better outcomes.
-
-Environmental conditions such as temperature, moisture, and
-seasonal patterns significantly influence results. Monitoring these
-variables and adapting practices accordingly is essential for success.
-The most effective practitioners develop keen observation skills and
-respond flexibly to changing conditions rather than following rigid
-protocols regardless of circumstances or local variation.
-
-[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
+Water access is essential year-round. In summer, pigs need wallowing areas deep enough for full body immersion — Holzer designs these as natural ponds connected to his broader [[holzer-cattle-poultry-management]]
+- [[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -111,8 +85,6 @@ through generations to modern scientific approaches, the evolution continues
 to inform current best practices and research directions.
 
 ## See Also
-- [[sepp-holzer]]
 - [[doc]]
-- [[composting]]
 - [[holzer-livestock-philosophy-paddock-system]]
 - [[holzer-pig-integration]]

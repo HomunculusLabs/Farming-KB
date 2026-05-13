@@ -1,5 +1,5 @@
 ---
-title: Mushroom House Preparation and Shelving Systems
+title: [[fao-accessible-mushroom-house-design-disabilities]] Preparation and Shelving Systems
 source: a-training-manual-mushroom-cultivation-by-people-with-disabi.md
 type: concept
 ---
@@ -8,7 +8,7 @@ type: concept
 
 ## Overview
 
-Step 18 of the [[mushroom-cultivation-disabilities-training-manual-overview]] covers the preparation of the mushroom house and the selection of appropriate shelving systems. The mushroom house is the controlled [[cannabis-growing-environment-setup]] where inoculated substrate bags are incubated and fruited. Proper construction and internal layout are critical to successful cultivation, especially when the facility must be accessible to people with disabilities.
+Step 18 of the [[cannabis-growing-environment-setup]] where inoculated [[mushroom-substrate-bags]] are incubated and fruited. Proper construction and internal layout are critical to successful cultivation, especially when the facility must be accessible to people with disabilities.
 
 ## Determining Mushroom House Size
 
@@ -25,7 +25,7 @@ These dimensions assume a single-layer shelving arrangement. If multi-tier shelv
 
 ## Materials for Construction
 
-A core principle of the training manual is that mushroom houses should be built from **low-cost, locally available materials**. This keeps startup expenses manageable and makes the technology accessible to cultivators who may have limited financial resources.
+A core principle of the [[mushroom-cultivation-disabilities-training-manual-overview]] is that mushroom houses should be built from **low-cost, locally available materials**. This keeps startup expenses manageable and makes the technology accessible to cultivators who may have limited financial resources.
 
 ### Recommended Materials
 
@@ -33,19 +33,7 @@ A core principle of the training manual is that mushroom houses should be built 
 - **Grass** — Additional insulation, layered on walls or roof
 - **Leaves** — Dried leaves serve as effective, free roofing and insulation material
 - **Bamboo** — Structural framing for walls, roof, and shelving; strong, lightweight, renewable
-- **Tree branches** — Substitute for bamboo; used for [[comparison-silicon-vs-calcium-in-plant-defense-and-structural-support]] and framing
-- **Old rice and other grain bags** — Woven polypropylene bags repurposed as wall cladding or shade
-- **Shade mesh** — Commercial netting draped over the structure to filter sunlight and regulate temperature
-
-All materials are natural or repurposed, keeping construction costs very low compared to conventional building.
-
-## Construction Approaches
-
-The mushroom house does not require permanent or expensive construction. Several practical approaches are recommended.
-
-### Roof Construction with Old Rice Bags and Dried Leaves
-
-A simple but effective roof can be built by layering old rice bags filled with dried leaves or rice straw. This creates a thick, insulating barrier that reduces sun exposure, maintains the high humidity required for [[evaporative-demand-hypothesis-mushroom-growth]], sheds rain effectively when properly sloped, and is easy to repair when materials degrade.
+- **Tree branches** — Substitute for bamboo; used for [[evaporative-demand-hypothesis-mushroom-growth]], sheds rain effectively when properly sloped, and is easy to repair when materials degrade.
 
 ### Branch and Bamboo Frame Structure
 
@@ -77,10 +65,10 @@ The most common and accessible option in rural settings. Shelves are built from 
 
 ### 2. Suspended Systems
 
-Substrate bags are hung from the ceiling or an overhead frame using rope, wire, or string. Bags dangle freely in the growing space.
+Substrate bags are hung from the ceiling or an overhead frame using rope, wire, or string. Bags dangle freely in the [[cotter-growing-space-design-fruiting-rooms]].
 
 **Advantages:**
-- Keeps bags off the floor, improving air circulation and reducing contamination risk
+- Keeps bags off the floor, improving [[stamets-growing-room-air-circulation-co2-management]] and reducing [[fungicide-treated-seed-contamination-risk-mushroom-substrate]]
 - Can be arranged at varying heights to suit the cultivator's reach
 - Minimal floor space required; good for small mushroom houses
 
@@ -109,24 +97,7 @@ When choosing a shelving system, consider the cultivator's disability (reach, mo
 
 ## Country-Style Pasteurization System
 
-Alongside the mushroom house, cultivators should set up a **country-style pasteurization system** for preparing substrate before inoculation. This is designed as [[appropriate-technology]] for rural settings.
-
-### Components
-
-- **200-liter oil drums** — Large metal drums serve as boiling/pasteurization vessels, arranged over a fire pit
-- **Old rice bags** — Used to cover and insulate the drums during the hold period, retaining heat without continuous fuel
-- **Firewood or other fuel** — Any locally available combustible material can heat the drums
-
-### Advantages
-
-- Uses readily available materials at very low cost; no electricity required
-- Proven effective for pasteurizing straw-based substrates
-- Can be built and operated by people with minimal training
-- Located alongside the mushroom house for a convenient workflow
-
-## Key Considerations for Accessibility
-
-The training manual emphasizes that [[accessible-mushroom-cultivation-for-disabilities]] facilities must be designed with the cultivator's disability in mind.
+Alongside the mushroom house, cultivators should set up a **country-style pasteurization system** for preparing substrate before inoculation. This is designed as [[accessible-mushroom-cultivation-for-disabilities]] facilities must be designed with the cultivator's disability in mind.
 
 ### Aisle Width
 

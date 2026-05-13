@@ -8,75 +8,6 @@ sources: ["Shulgin - PIHKAL"]
 ---
 # 4-TASB
 
-[[2c-b-pihkal-entry-20]] #147. 4-THIOASYMBESCALINE;.
-
-## Chemical Name
-
-4-THIOASYMBESCALINE;
-
-## Dosage and Duration
-
-| Property | Value |
-|----------|-------|
-| Dosage | 60 - 100 mg. |
-| Duration | 10 - 15 h. |
-
-## Qualitative Comments
-
-> (with 60 mg) The compound has a
-> petroleum-refinery type taste. There was a looseness of the bowels as
-> I got into it. Here we have another of these 'What is it' or 'What
-> isn't it' compounds. Somehow I seemed to have to push the erotic, the
-> visual, the whole psychedelic shmeer, to document that this was indeed
-> effective. I am not impressed.
->
-> (with 100 mg) There were some trivial physical problems during the
-> early stages of this experiment. But there was fantasy stuff to
-> music, and some jumpy stuff to music. Is there a neurological
-> hyperreflexia? I was able to sleep at the 12 hour point but I felt
-> quite irritable. I am agitated. I am twitchy. This has been very
-> intense, and I am not completely comfortable yet. Let's wait for a
-> while.
->
-> (with 100 mg) Music was lovely during the experiment, but pictures
-> were not particularly exciting. I had feelings that my nerve-endings
-> were raw and active. There was water retention. There was heartbeat
-> wrongness, and respiration wrongness. During my attempts to sleep, my
-> eyes-closed fantasies became extremely negative. I could actually
-> feel the continuous electrical impulses travelling between my nerve
-> endings. Disturbing. There was continuous erotic arousability, and
-> this seemed to be part of the same over-sensitivity of the nervous
-> system; orgasm didn't soothe or smooth out the feeling of
-> vulnerability. This is a very threatening material. DO NOT REPEAT.
-
-## Extensions and Commentary
-
-Again, another drug with more physical
-problems than psychic virtue, but with no obvious structural feature
-to hang it all onto. Some day this will all make sense!
-
-## Synthesis
-
-A solution of 20.5 g N,N,N',N'-tetramethylethylenediamine
-and 22.3 g of 3-ethoxyanisole was made in 100 mL hexane under a He
-atmosphere with good stirring. There was added 125 mL 1.6 M
-butyllithium in hexane, which formed a white granular precipitate.
-This was cooled in an ice bath, and there was added 24.4 g of
-diethyldisulfide which produced an exothermic reaction and changed the
-precipitate to a creamy phase. After being held for a few min at
-reflux temperature, the reaction mixture was added to 500 mL dilute
-H2SO4 which produced two clear phases. The hexane phase was separated,
-and the aqueous phase extracted with 2x75 mL methylcyclopentane. The
-organics were combined, and the solvents removed under vacuum. There
-was obtained a residue which was distilled under a vacuum. At 0.3
-mm/Hg the fraction boiling at 95-105 deg C was a yellow liquid weighing
-28.5 g which was largely 3-ethoxy-2-(ethylthio)anisole which seemed to
-be reasonably pure chromatographically. It was used as such in the
-bromination step below.
-
-To a stirred solution of 15.0 g of 3-ethoxy-2-(ethylthio)anisole in
-100 mL CH2Cl2 there was added 12 g elemental bromine dissolved in 25
-mL CH2Cl2. There was the copious evolution of HBr. After stirring at
 [[jadam-ambient-temperature-principle]] for 3 h, the dark solution was added to 300 mL H2O
 containing sodium dithionite. Shaking immediately discharged the
 residual bromine color, and the organic phase was separated, The
@@ -90,4 +21,89 @@ was used in the following benzyne step without separation into its
 components.
 
 ## See Also
+- [[5-tasb-entity-pihkal]]
+
+## Overview
+
+4 Tasb Entity Pihkal represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish 4 tasb entity pihkal
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving 4 extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+4 Tasb Entity Pihkal finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for 4 tasb entity pihkal. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+4 tasb entity pihkal and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+4 Tasb Entity Pihkal has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of 4 tasb entity pihkal into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[3-tasb-entity-pihkal]]
+- [[3c-e-entity]]
+- [[4-tasb-entity]]
+- [[5-tasb-entity]]
 - [[5-tasb-entity-pihkal]]

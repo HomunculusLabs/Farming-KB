@@ -15,7 +15,7 @@ type: concept
 
 ## Overview
 
-Fukuoka outlines a practical approach to starting a garden on hillside land as part of a [[natural-farming]] system. Rather than treating gardens as isolated plots, he integrates them into the broader orchard ecosystem, using natural methods for soil preparation and [[permplant-willows-salix-erosion-control-fodder]]. The key challenges of hillside gardens are soil movement, erosion, and the shallow rooting of most vegetable crops, which make them particularly vulnerable to the elements.
+Fukuoka outlines a practical approach to starting a garden on hillside land as part of a [[permplant-willows-salix-erosion-control-fodder]]. The key challenges of hillside gardens are soil movement, erosion, and the shallow rooting of most vegetable crops, which make them particularly vulnerable to the elements.
 
 ## The Non-Integrated Garden: Inherent Vulnerabilities
 
@@ -29,7 +29,7 @@ People usually think of a garden as a plot of land devoted to the production of 
 
 Clearly, of course, the system of cultivation and the nature of the garden or orchard will differ significantly depending on whether the principal aim is to grow fruit trees or vegetable crops. Land to be used for growing fruit trees and intercropped with grains or vegetables is prepared in essentially the same way as an orchard. The land does not need to be cleared and leveled, but should be carefully readied by, for example, burying coarse organic material in the ground. As the garden matures, it will support any type of crop.
 
-The integration principle extends beyond mere proximity. The orchard trees provide shade that moderates temperature extremes for understory vegetables. The ground cover used for the orchard simultaneously serves the garden. [[hamilton-composting-and-organic-matter-management]] from pruning and tree litter enriches the garden soil. The garden, in turn, hosts [[comparison-beneficial-insects-guide-vs-integrated-pest-management]] that help control orchard pests.
+The integration principle extends beyond mere proximity. The orchard trees provide shade that moderates temperature extremes for understory vegetables. The ground cover used for the orchard simultaneously serves the garden. [[comparison-beneficial-insects-guide-vs-integrated-pest-management]] that help control orchard pests.
 
 ## Terrace Construction: The Foundation of Hillside Gardens
 
@@ -43,21 +43,7 @@ Whether the individual terraces in a terraced garden are level or slightly grade
 
 ## Soil Preparation Methods
 
-Two primary methods for improving soil in a new hillside garden are described, both relying on natural [[decomposition]] rather than chemical inputs.
-
-### Deep Trench Burial
-
-The most basic method for improving soil is to bury coarse organic matter in deep trenches. This provides organic material deep in the soil profile where it slowly decomposes, improving soil structure and fertility from below. The trenches should run along the contour of the hillside to also serve as water-catching features. Branches, tree trimmings, and other coarse material are placed in trenches two to three feet deep and covered with soil. As this material decomposes over several years, it creates channels for air and water penetration while adding humus to the subsoil.
-
-### High Ridge Piling
-
-Another good method is to pile soil up to create high ridges. This can be done using the soil brought up while digging contour trenches with a shovel. The dirt should be piled around coarse organic material. Better aeration allows soil in a pile of this sort to mature more quickly than soil in a trench. Such methods soon activate the latent fertility of even depleted, granular soil, rapidly preparing it for fertilizer-free cultivation.
-
-The ridge method is particularly valuable for crops that need well-drained soil. By elevating the growing surface above the surrounding ground level, ridges ensure that root zones do not become waterlogged even during heavy rainfall. The coarse organic material at the center of the ridge acts as a sponge, absorbing excess water and releasing it slowly during dry periods.
-
-## Init cover crops rops for New Gardens
-
-When starting an orchard intercropped with vegetables, the main goals initially should be prevention of weed emergence and maturation of the soil. These can be accomplished by growing specific succession crops that prepare the ground for future [[dry-gardening-unirrigated-vegetable-production-solomon]].
+Two primary methods for improving soil in a new hillside garden are described, both relying on natural [[dry-gardening-unirrigated-vegetable-production-solomon]].
 
 ### First Year Rotation
 
@@ -118,8 +104,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[building-soil]]
 - [[dom]]
-- [[det]]
 - [[composting]]
 - [[cover-crops]]

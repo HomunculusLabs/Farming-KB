@@ -10,8 +10,7 @@ sources:
 ---
 # Wild Foods and Marginal Systems
 
-Source: [[david-holmgren]], *Permaculture: Principles and Pathways Beyond
-Sustainability* (Principle 11: Use [[permaculture-principle-use-edges-and-value-the-marginal]] the Marginal)
+Source: [[permaculture-principle-use-edges-and-value-the-marginal]] the Marginal)
 
 ## Wild Foods in Pre-Industrial Europe
 
@@ -23,35 +22,7 @@ the foods and products that people consumed and used.
 
 The woods and hedgerows provided not only fuel and structural materials
 but also animal fodder (foliage, acorns, beechnuts), human food
-(berries, hazelnuts, rabbits, mushrooms), [[medicinal-herbs-for-livestock]] (hawthorn,
-comfrey, elder). Aquatic systems provided fish and plant materials for
-baskets and other constructions. This diversity among the productivity
-of field agriculture was critical in providing the needs of the poorest
-people; during times of famine, whole communities depended on it for
-survival.
-
-## Cultural Bias Against Wild Foods
-
-The cultural bias that ignores or undervalues the wild is not
-restricted to modern affluent society. In many peasant societies,
-because wild diversity required so little work to maintain, it could
-to a substantial degree be ignored. Since the value of these resources
-was greatest for the poor or in times of crisis, it was often
-denigrated.
-
-Alexander Solzhenitsyn, in *The Gulag Archipelago*, recounted that they
-were forced to eat nettles as an illustration of the extremity of
-deprivation. Nettles are actually highly nutritious and flavoursome in
-soup, but if your primary experience of any particular food is in
-dreadful conditions, it will naturally colour your attitude.
-
-The well-recognised persistence of taste memory allows those negative
-attitudes to last for a lifetime. Many Australians who consumed rabbit
-during the hardship of the Great Depression have never been able to see
-it as flavoursome meat. At Positano on the Italian Amalfi Coast,
-Holmgren and his son collected delicious carob pods, which the locals
-ignore as human food. Older people told them that they remember eating
-carobs as children during the [[gardening-in-hard-times]] of the war that ended when
+(berries, hazelnuts, rabbits, mushrooms), [[gardening-in-hard-times]] of the war that ended when
 the Americans came with chocolate.
 
 ## Wild Foods in Affluent Society
@@ -117,8 +88,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[permaculture]]
 - [[ghb]]
-- [[mollison-designers-wild-yield-and-foraging-systems]]
 - [[fukuoka-wild-and-semi-wild-foods]]
 - [[holmgren-use-edges-and-value-the-marginal]]

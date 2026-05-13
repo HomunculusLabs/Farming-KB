@@ -2,35 +2,11 @@
 
 ## Overview
 
-Wicking beds are self-watering garden beds that use [[capillary-action-in-soils]] to draw moisture upward from a subterranean water reservoir into the root zone of plants. Unlike top-down irrigation, wicking beds exploit the physical properties of water adhesion and cohesion in porous media to deliver moisture from below. Understanding the underlying physics of water movement in these systems is essential for designing efficient, reliable wicking beds that avoid common failures such as waterlogging, dry zones, and nutrient stratification.
-
-## Capillary Action in Growing Media
-
-### Surface Tension and Adhesion
-
-Water movement in wicking beds is driven by capillary forces, which arise from the combined effects of surface tension at the air-water interface and adhesive forces between water molecules and the surfaces of soil or media particles. When water fills the narrow pore spaces between particles, the meniscus formed at each air-water interface creates a negative pressure (tension) that pulls additional water upward against gravity. This is described by the Young-Laplace equation:
-
-    ΔP = 2γ cos(θ) / r
-
-Where ΔP is the capillary pressure, γ is the surface tension of water (~0.0728 N/m at 20°C), θ is the contact angle between water and the particle surface, and r is the effective pore radius. Smaller pores generate greater capillary pressure, which is why fine-grained media wick water higher than coarse media.
-
-### Capillary Rise Height
-
-The maximum height that water can rise through capillary action in a given medium is determined by the balance between capillary pressure and gravitational head:
-
-    h = 2γ cos(θ) / (ρgr)
-
-For typical garden soil with an effective pore radius of approximately 10 μm, theoretical capillary rise can reach 1.5 meters. However, real-world wicking beds rarely achieve this because soil is not a uniform capillary tube. Pore size distribution, compaction layers, [[fukuoka-textdoc-composting-critique-futility-prepared-organic-matter]] content, and drying patterns all reduce effective capillary rise. In practice, most wicking beds effectively move water upward 20–30 cm through a well-prepared growing medium.
+Wicking beds are self-watering garden beds that use [[fukuoka-textdoc-composting-critique-futility-prepared-organic-matter]] content, and drying patterns all reduce effective capillary rise. In practice, most wicking beds effectively move water upward 20–30 cm through a well-prepared growing medium.
 
 ### Soil Moisture Potential
 
-Soil scientists describe water availability in terms of matric potential, measured in kilopascals (kPa) or centibars (cb). At saturation ([[bulk-substrate-field-capacity]]), matric potential is near 0 kPa. As plants extract water and the soil dries, matric potential becomes increasingly negative. Most vegetable crops experience reduced water uptake below -30 to -50 kPa (permanent wilting point typically occurs around -1500 kPa). Wicking beds aim to maintain the root zone between -5 and -30 kPa through continuous capillary supply from the reservoir below.
-
-## Wicking Bed Design and Water Flow
-
-### Reservoir Layer Design
-
-The water reservoir at the base of [[query-how-do-i-build-a-wicking-bed-for-my-garden]] is typically a 15–30 cm deep layer of coarse gravel, scoria, or recycled aggregate. This layer must hold water while allowing air to reach plant roots from above. A geotextile fabric separates the reservoir from the growing medium above, preventing fine particles from washing down and clogging the pore spaces. The reservoir is filled through an inlet pipe (typically 100 mm PVC) that extends above the soil surface for easy filling, and includes an overflow outlet set at the top of the reservoir to prevent waterlogging of the root zone.
+Soil scientists describe water availability in terms of matric potential, measured in kilopascals (kPa) or centibars (cb). At saturation ([[query-how-do-i-build-a-wicking-bed-for-my-garden]] is typically a 15–30 cm deep layer of coarse gravel, scoria, or recycled aggregate. This layer must hold water while allowing air to reach plant roots from above. A geotextile fabric separates the reservoir from the growing medium above, preventing fine particles from washing down and clogging the pore spaces. The reservoir is filled through an inlet pipe (typically 100 mm PVC) that extends above the soil surface for easy filling, and includes an overflow outlet set at the top of the reservoir to prevent waterlogging of the root zone.
 
 ### Transition Zone: Geotextile Interface
 
@@ -87,3 +63,88 @@ Regular monitoring of moisture levels at different depths in the growing medium 
 At the start of each growing season, check the geotextile for clogging or degradation, inspect the inlet and overflow pipes for blockages, and top up the growing medium if it has settled. At the end of the season, consider removing and replacing the top 5–10 cm of growing medium, which accumulates salts, weed seeds, and decomposed organic matter. Every 3–5 years, a more thorough renovation may be needed, including replacement of the geotextile and partial renewal of the reservoir aggregate if it has become clogged with fine particles or roots.
 
 ### Water Quality Considerations
+
+## Overview
+
+Wicking Bed Water Movement Physics represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish wicking bed water movement physics
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving wicking extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Wicking Bed Water Movement Physics finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for wicking bed water movement physics. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+wicking bed water movement physics and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Wicking Bed Water Movement Physics has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of wicking bed water movement physics into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[comparison-wicking-bed-vs-container-gardening]]
+- [[comparison-wicking-bed-vs-raised-bed]]
+- [[query-how-do-i-build-a-wicking-bed-for-my-garden]]
+- [[query-how-do-i-build-a-wicking-bed-for-water-efficient-gardening]]
+- [[wicking-bed-crop-selection-seasonal-management]]

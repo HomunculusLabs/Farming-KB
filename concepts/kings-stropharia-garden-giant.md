@@ -1,5 +1,5 @@
 ---
-title: Kings Stropharia Garden Giant
+title: King Stropharia Garden Giant
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
@@ -9,7 +9,7 @@ sources: []
 
 # King Stropharia (Garden Giant)
 
-King Stropharia ([[stropharia-rugosoannulata]]), commonly known as the Wine Cap mushroom or Garden Giant, is a large, robust mushroom well-suited to outdoor cultivation [[query-how-to-grow-and-use-oca-in-temperate-climates]]. It is one of the easiest mushrooms to grow outdoors and integrates beautifully into permaculture garden designs, particularly in mulched garden beds, orchard understories, and food forest systems.
+King Stropharia (Stropharia rugosoannulata), commonly known as the Wine Cap mushroom or Garden Giant, is a large, robust mushroom well-suited to outdoor cultivation in temperate climates. It is one of the easiest mushrooms to grow outdoors and integrates beautifully into permaculture garden designs, particularly in mulched garden beds, orchard understories, and food forest systems.
 
 ## Overview
 
@@ -36,11 +36,11 @@ One of the most fascinating aspects of King Stropharia biology is its ability to
 - The fungus then penetrates the nematode cuticle and digests it internally
 - This predatory ability helps control plant-parasitic nematodes in garden soils
 
-Research has shown that King Stropharia beds can significantly reduce populations of root-knot nematodes (Meloidogyne spp.) in infested soils, making it a valuable biological control agent in [[comparison-beneficial-insects-guide-vs-integrated-pest-management]] systems.
+Research has shown that King Stropharia beds can significantly reduce populations of root-knot nematodes (Meloidogyne spp.) in infested soils, making it a valuable biological control agent in integrated pest management systems.
 
 ## Ecological Role
 
-In permaculture and garden systems, King Stropharia provides multiple [[fungal-melanin-biosynthesis-ecological-functions]]:
+In permaculture and garden systems, King Stropharia provides multiple ecological functions:
 
 - Decomposes wood chips and woody mulch, accelerating nutrient cycling
 - Creates soil structure through mycelial network development
@@ -140,11 +140,11 @@ Harvest when caps are fully expanded but before the gills darken significantly:
 
 - Variable depending on climate, substrate volume, and maintenance
 - Expect 1-5 pounds per 10 square feet per year at maturity
-- Peak beds can produce impressive flushes of 10-20 pounds in a single fruiting event
 
-## Common Problems
+## See Also
 
-- Bed dries out: improve mulching and [[cannabis-watering-schedule-and-frequency]]
-- Slugs and snails: use beer traps or hand-pick; avoid poisons in food gardens
-- Competing fungi: use fresh substrate and adequate spawn rates
-- No fruiting: insufficient rain/moisture; try a deep soaking
+- [[fukuoka-road-farming-for-kings-and-clergy]]
+- [[mckenna-wasson-soma-doubts-and-stropharia-case]]
+- [[comparison-enoki-vs-king-stropharia-cultivation]]
+- [[cotter-king-stropharia-cultivation]]
+- [[stropharia-rugosoannulata-permaculture]]

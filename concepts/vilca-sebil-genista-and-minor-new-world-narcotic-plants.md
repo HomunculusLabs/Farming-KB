@@ -113,11 +113,7 @@ Beyond the major New World hallucinogens — peyote, mushrooms, ayahuasca, and S
 
 ## See Also
 
-- [[yopo-anadenanthera-peregrina-snuff]]
 - [[entheogen-virola-snuff-ethnobotany-chemistry]]
-- [[golden-guide-psilocybin-mushrooms-overview]]
 - [[golden-guide-peyote-and-mescaline-cacti]]
-- [[golden-guide-ayahuasca-and-caapi]]
 - [[mescal-bean-sophora-secundiflora-vision-dance]]
-- [[colorines-erythrina-seeds-mexican-hallucinogen]]
 - [[piule-rhynchosia-seeds-mexican-hallucinogen]]

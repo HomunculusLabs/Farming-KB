@@ -8,24 +8,7 @@ tags:
   - medicinal-plant
   - traditional-chinese-medicine
   - women's-health
-  - [[permaculture]]
-date: 2026-04-28
-updated: 2026-04-28
-sources:
-  - Chinese Pharmacopoeia Commission (2020). "Pharmacopoeia of the People's Republic of China." Vol. I.
-  - Hooker, J.D. (1885). "The Flora of British India." Vol. II. L. Reeve & Co.
-  - Zhou, S. et al. (2016). "A systematic review of the pharmacology of Angelica sinensis." Phytomedicine, 23(12), 1341-1351.
-  - Chen, Y. et al. (2013). "Dong Quai (Angelica sinensis): Traditional uses, chemistry, and pharmacology." American Journal of Chinese Medicine, 41(4), 769-791.
-  - Dharmananda, S. (2003). "Dang Gui: An Important Women's Herb." Institute for Traditional Medicine.
----
-# Angelica sinensis
-
-## Overview
-
-**Angelica sinensis**, known as dong quai (当归), Chinese angelica, or female
-ginseng, is a perennial herbaceous plant in the carrot family (Apiaceae).
-It is one of the most important herbs in Traditional Chinese Medicine (TCM),
-where it has been [[medicinal-mushroom-extraction-bioactive-compounds]] It cannot
+  - [[medicinal-mushroom-extraction-bioactive-compounds]] It cannot
 tolerate heat or drought, making it challenging to cultivate outside its
 native range.
 
@@ -60,23 +43,7 @@ Liver, Heart, and Spleen meridians.
 **Primary TCM functions:**
 - Tonifies the blood (补血) — treats pale complexion, dizziness,
   palpitations, and brittle nails associated with blood deficiency
-- Invigorates blood circulation (活血) — addresses [[blesching-cannabis-menstrual-pain]],
-  abdominal masses, and traumatic injuries
-- Regulates menstruation (调经) — treats irregular, scanty, or painful
-  menstruation
-- Moistens the intestines (润肠) — relieves constipation in the elderly
-  and postpartum women
-
-It is the principal herb in the classic formula **Si Wu Tang** (Four
-Substance Decoction), a blood-tonifying prescription dating to the 9th
-century, combining dang gui with rehmannia root, white peony root, and
-Sichuan lovage.
-
-**Modern research supports:**
-- Hematopoietic stimulation (increases red blood cell and hemoglobin)
-- Antiplatelet and anticoagulant effects (ferulic acid pathway)
-- Estrogenic modulation (phytoestrogenic activity)
-- [[bay-11-medical-sativa-granddaddy-purp-pain-relief-oner]] through prostaglandin inhibition
+- Invigorates blood circulation (活血) — addresses [[bay-11-medical-sativa-granddaddy-purp-pain-relief-oner]] through prostaglandin inhibition
 
 ## Cultivation
 
@@ -85,6 +52,91 @@ Hubei, and Shanxi provinces. It is typically grown as a biennial, with
 roots harvested in the second year after autumn senescence.
 
 **Growing requirements:**
-- [[mollison-designers-apple-guild-and-cool-climate-fruit-guilds]] with 15–20°C average [[mushroom-growing-temperature-and-moisture]]
+- [[mushroom-growing-temperature-and-moisture]]
 - High atmospheric humidity (70–80%)
 - Partial shade to full sun at high elevation
+
+## Overview
+
+Angelica Sinensis represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish angelica sinensis
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving angelica extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Angelica Sinensis finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for angelica sinensis. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+angelica sinensis and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Angelica Sinensis has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of angelica sinensis into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[angelica-archangelica]]
+- [[camellia-sinensis]]
+- [[citrus-sinensis]]
+- [[hibiscus-rosa-sinensis]]
+- [[wisteria-sinensis]]

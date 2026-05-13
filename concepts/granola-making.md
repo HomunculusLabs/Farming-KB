@@ -3,7 +3,7 @@ title: Granola Making
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
-tags: [food, recipe, [[homesteading]], homestead-crafts, preparation]
+tags: [food, recipe, homesteading, homestead-crafts, preparation]
 sources: []
 ---
 
@@ -24,7 +24,7 @@ Granola is a baked breakfast food consisting of rolled oats, nuts, seeds, sweete
 
 Sweetener binds the granola together and creates clusters.
 
-- [[maple-syrup-production]] — classic, deep flavor, good binder
+- Maple syrup — classic, deep flavor, good binder
 - Honey — excellent binder, golden color, floral sweetness
 - Brown sugar — adds caramel notes and crunch
 - Coconut sugar — lower glycemic, earthy flavor
@@ -37,7 +37,7 @@ Sweetener binds the granola together and creates clusters.
 Fat carries flavor, promotes browning, and helps crisp the granola.
 
 - Coconut oil — popular choice, adds mild coconut flavor, solid at room temperature
-- [[olive-cultivation-and-olive-oil-production]] — fruity, savory notes; use a mild/light [[query-how-to-start-a-small-olive-grove-and-produce-olive-oil-at-home]]
+- Olive oil — fruity, savory notes; use a mild/light olive oil
 - Avocado oil — neutral flavor, high smoke point
 - Butter — rich, classic flavor; melt before adding
 - Ghee (clarified butter) — buttery flavor without the milk solids that can burn
@@ -140,11 +140,10 @@ Add after baking to prevent burning and drying out.
 
 ## Customizing
 
-### Flavor Profiles
+## See Also
 
-- Maple Pecan: maple syrup, pecans, cinnamon, vanilla, a pinch of nutmeg
-- Coconut Almond: coconut oil, coconut flakes, almonds, coconut extract
-- Chocolate Peanut: cocoa powder, peanuts, chocolate chips (added after cooling)
-- Apple Pie: dried apples, cinnamon, nutmeg, a pinch of allspice
-- Ginger Molasses: molasses, crystallized ginger, cinnamon, cloves
-- Honey Walnut: honey, butter, walnuts, a pinch of [[jadam-sea-salt-and-mineral-solutions]] flakes on top
+- [[compost-making-methods-solomon]]
+- [[natto-making]]
+- [[mushroom-spawn-making-pure-culture]]
+- [[pickle-making]]
+- [[oyster-mushroom-grain-spawn-making-clean-bench-propagation]]

@@ -17,10 +17,6 @@ type: concept
 
 # Check Dam Types and Landscape Placement
 
-[[comparison-gabions-vs-check-dams]] are barrier structures built across watercourses
-that are not primarily intended to create water storages,
-but to retard flow, spread water, capture silt, and
-stabilise eroding channels. They are essential components of
 [[mollison-earthworks-planning-and-post-earthworks-planting]]
 planning, complementing larger
 mollison designers check dam types and landscape placement and
@@ -59,8 +55,7 @@ equipment.
 ### Ram Pump and Water Wheel Check Dams
 These create only 1-3 m of head but enable lift pumps or
 diversion to canals. They represent the integration of
-water retardation with [[fukuoka-three-dimensional-solar-energy-capture-rice-paddy]], embodying the
-[[permaculture-principle-apply-self-regulation]] of multiple functions from single
+water retardation with [[permaculture-principle-apply-self-regulation]] of multiple functions from single
 elements.
 
 ## Landscape Placement Principles
@@ -87,3 +82,11 @@ lowland or foothill landscape were fitted with small earth
 storages and check dams, floods and drought or fire threat
 could be eliminated. This scaling principle applies from
 ## See Also
+
+## See Also
+
+- [[mollison-designers-termite-and-ant-mound-niche-gardening]]
+- [[mollison-designers-contour-surveying-a-frame-bunyip-level]]
+- [[humus-soil-amendment-mollison]]
+- [[minamata-disease-mollison]]
+- [[mollison-drought-proofing-strategies]]

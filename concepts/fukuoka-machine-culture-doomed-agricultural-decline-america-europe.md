@@ -8,9 +8,7 @@ tags: [natural-farming, industrial-agriculture, machine-culture, desertification
 
 ## Fukuoka's Diagnosis of Industrial Civilization
 
-[[masanobu-fukuoka]], traveling through America and Europe during his tours abroad,
-arrived at a stark and unwavering conclusion: the machine culture that underpins
-modern [[eleusinian-mysteries-psychoactive-fungi-western-civilization]] is inherently destructive and ultimately doomed to
+[[eleusinian-mysteries-psychoactive-fungi-western-civilization]] is inherently destructive and ultimately doomed to
 collapse. His observations were not theoretical abstractions but grounded in
 direct, firsthand encounters with dying landscapes, failing farms, and ecosystems
 under sustained assault from industrial agriculture.
@@ -20,8 +18,7 @@ under sustained assault from industrial agriculture.
 One of Fukuoka's most striking observations was the transformation of California's
 Central Valley — once among the most productive agricultural regions on Earth —
 into a landscape exhibiting all the early signs of desertification. The relentless
-application of mechanized irrigation, [[cervantes-chemical-fertilizers-guide]], and pesticides had
-stripped the soil of its [[fukuoka-natural-fertility-cycle]]. He saw a land being pumped dry, its
+application of mechanized irrigation, [[fukuoka-natural-fertility-cycle]]. He saw a land being pumped dry, its
 aquifers depleted far faster than they could recharge, its topsoil blowing away
 or salinizing under the harsh sun. California, in Fukuoka's eyes, was turning
 into a desert before the world's eyes, and yet the machine culture continued to
@@ -29,10 +26,7 @@ redouble its efforts rather than reconsider its approach.
 
 ## Deficit Farming
 
-Fukuoka identified a fundamental flaw in [[fukuoka-american-agriculture-fields-of-death]] that he termed
-"deficit farming" — the practice of extracting more from the land than is
-returned to it. Industrial agriculture, by its very nature, operates at a
-net energy and nutrient loss. [[teaming-with-nutrients-natural-vs-synthetic-fertilizers]] create the illusion of
+Fukuoka identified a fundamental flaw in [[teaming-with-nutrients-natural-vs-synthetic-fertilizers]] create the illusion of
 fertility while depleting the soil's organic matter, microbial life, and
 structural integrity. Each harvest removes biomass and minerals that are never
 fully replaced. The result is a system that appears productive in the short term
@@ -80,13 +74,7 @@ farming, with its deeper traditions of soil cultivation, had already degraded
 much of its topsoil over centuries. The post-war adoption of American-style
 mechanization and chemical agriculture had accelerated this decline
 dramatically. European hedgerows had been torn out to accommodate larger
-machinery, eliminating critical [[hemenway-backyard-wildlife-habitat]] and windbreaks. Monoculture
-farming had replaced the diverse field systems that once maintained soil
-health naturally.
-
-## Scientific Farming Creates More Problems Than It Solves
-
-A central theme in Fukuoka's critique is the paradox of [[fukuoka-critique-scientific-agriculture-civilization]]:
+machinery, eliminating critical [[fukuoka-critique-scientific-agriculture-civilization]]:
 each technological intervention creates new problems that require further
 
 ## Practical Applications
@@ -118,8 +106,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[desertification]]
 - [[fukuoka-machine-culture-doomed]]
-- [[fukuoka-american-agricultural-decline]]
 - [[fukuoka-natural-diet-movement-america-europe]]
 - [[fukuoka-america-revisited-agricultural-revolution]]

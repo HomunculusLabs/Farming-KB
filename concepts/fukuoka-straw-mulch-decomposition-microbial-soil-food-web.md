@@ -19,7 +19,7 @@ topics:
 In *The One-Straw Revolution*, Masanobu Fukuoka describes his natural farming system as built on four 
 fundamental principles: no cultivation, no chemical fertilizer, no weeding, and no pesticides or herbicides. 
 At the practical heart of this system is the continuous return of straw and other crop residues to the field 
-surface as mulch. Rice straw, barley straw, and the residues of green manure cover crops form the primary 
+surface as mulch. Rice straw, barley straw, and the residues of [[green-manure-cover-crops]] form the primary 
 organic inputs in Fukuoka's fields, and their decomposition through the activity of soil organisms is the 
 engine that drives soil fertility, structure, and biological health. Fukuoka understood, through decades of 
 careful observation, that healthy soil is not an inert substrate for plant roots but a living ecosystem—a 
@@ -35,15 +35,7 @@ When rice or barley straw is spread across the field surface after harvest, it e
 decomposition process driven by successive waves of soil organisms. The first colonizers are bacteria—both 
 aerobic and facultative anaerobic species—that begin breaking down the simple sugars, proteins, and other 
 readily available compounds in the straw. Bacterial colonization is rapid, particularly when the straw is in 
-contact with moist soil, and their [[arbuscule-isolation-metabolic-activity-assays]] generates heat, carbon dioxide, and a suite of enzymes 
-that begin to dismantle the cellulose and hemicellulose that constitute the bulk of the straw's structural 
-carbohydrates. As bacterial activity progresses and the more easily decomposed compounds are consumed, fungi 
-become the dominant decomposers. Saprophytic fungi—particularly the cellulolytic species that specialize in 
-breaking down lignin and recalcitrant cellulose—extend their hyphae into the straw, secreting extracellular 
-enzymes that dissolve the tough structural polymers that bacteria cannot access. This fungal stage of 
-decomposition is slower but far more thorough than the bacterial stage, and it is responsible for the 
-conversion of the bulk of the straw's carbon into stable soil organic matter. Following the fungal 
-decomposers, [[teaming-with-microbes-protozoa-and-nematodes]] arrive to feed on the bacteria and fungi, releasing the nutrients locked 
+contact with moist soil, and their [[teaming-with-microbes-protozoa-and-nematodes]] arrive to feed on the bacteria and fungi, releasing the nutrients locked 
 in microbial biomass back into the soil solution in plant-available forms.
 
 ## The Succession of Decomposer Organisms
@@ -104,8 +96,7 @@ potassium, and micronutrients throughout the growing season. Chemical fertilizer
 nutrients in concentrated, rapidly available forms that can overwhelm the soil food web and the crop's 
 capacity for absorption. Excess nitrogen leaches into groundwater or volatilizes as greenhouse gases; excess 
 phosphorus binds to soil minerals and becomes unavailable to plants. The chemical approach bypasses the soil 
-food web entirely, treating the soil as a passive conduit for [[organic-nutrients-vs-synthetic-nutrients]] rather than as a living 
-system that regulates [[ph-and-nutrient-availability-garden-soils]]. Fukuoka's natural farming system, by relying on the soil food 
+food web entirely, treating the soil as a passive conduit for [[ph-and-nutrient-availability-garden-soils]]. Fukuoka's natural farming system, by relying on the soil food 
 web to mediate nutrient availability, avoids these problems. The decomposition of straw mulch releases 
 nutrients at a rate that is determined by the activity of soil organisms, which is in turn influenced by soil 
 temperature, moisture, and the chemical composition of the organic material.

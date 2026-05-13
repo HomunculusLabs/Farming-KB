@@ -109,12 +109,8 @@ The species has cultural significance in Somerset, where it appears on the coat 
 
 ## See Also
 
-- [[dianthus-plumarius]]
 - [[dianthus-deltoides]]
-- [[dianthus-barbatus]]
 - [[silene-vulgaris]]
-- [[stellaria-media]]
 - [[agrostemma-githago]]
-- [[cerastium-tomentosum]]
 - [[lychnis-coronaria]]
 - [[saponaria-officinalis]]

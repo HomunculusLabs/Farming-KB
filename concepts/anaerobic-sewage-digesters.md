@@ -1,33 +1,23 @@
 ---
-title: Anaerobic Sewage Digesters
+title: [[anaerobic-sewage-digestion-methane]] Digesters
 source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
 # Anaerobic Sewage Digesters
 
-Anaerobic sewage digesters are a core component of [[permaculture-waste-management]] [[biogas-digesters-and-anaerobic-digestion-systems|systems]],
+Anaerobic sewage digesters are a core component of [[biogas-digesters-and-anaerobic-digestion-systems|systems]],
 transforming human and animal waste into useful biogas and nutrient-rich effluent through
-controlled biological [[decomposition]] in the absence of free oxygen. As described in Bill
-Mollison's *[[permaculture]]: A Designers' Manual*, these systems leverage natural microbial
+controlled biological [[permaculture]]: A Designers' Manual*, these systems leverage natural microbial
 processes to simultaneously treat sewage, produce energy, and remove harmful contaminants.
 
 ## Classification of Sewage Ponds
 
-Sewage [[mollison-designers-biogas-digester-sewage-treatment|treatment]] systems are classified into three distinct types based on their biological
-processes and oxygen availability:
-
-- **Anaerobic Ponds**: Methane-producing digesters that operate entirely without free oxygen.
-  These are the primary digestion stage, where complex organic solids are broken down by
-  anaerobic bacteria into methane, carbon dioxide, and stabilized sludge.
-
-- **Facultative Ponds**: A transitional zone where both anaerobic and aerobic processes
-  occur simultaneously. The upper layers support oxygen-producing photosynthesis while the
-  lower layers continue anaerobic methane [[anaerobic-sewage-digestion-and-biogas-production|production]]. These ponds host diverse communities
+Sewage [[anaerobic-sewage-digestion-and-biogas-production|production]]. These ponds host diverse communities
   of phytoplankton, bacteria, and zooplankton.
 
 - **Aerobic Ponds**: Oxygen-producing ponds where aerobic bacteria and algae dominate,
-  completing the treatment process by oxidizing remaining organic matter and nutrients.
+  completing the treatment process by oxidizing remaining [[savory-soil-organic-matter-and-decomposition-dynamics]] nutrients.
 
 ## Pond Sizing and Dimensions
 
@@ -58,10 +48,10 @@ continuous agitation essential for efficient digestion.
 
 ## Digestion Process and Performance
 
-The anaerobic digestion process follows specific parameters for optimal performance:
+The [[anaerobic-digestion-biogas-production]] process follows specific parameters for optimal performance:
 
 - **Residence time**: Approximately 20 days for dissolved solids breakdown
-- **Temperature range**: 25–30 °C for peak microbial activity
+- **[[query-what-is-the-ideal-temperature-range-for-growing-cannabis]]**: 25–30 °C for peak microbial activity
 - **Methane yield**: 1 cubic metre of biogas removes 2.89 kg of solids and significantly
   reduces Biochemical Oxygen Demand (BOD)
 - **Pathogen reduction**: Worm egg destruction reaches 90–94% within the digester
@@ -105,7 +95,7 @@ a combination of biological and chemical processes:
 
 ### Mechanism of Metal Removal
 
-Hydrogen sulphide (H₂S), produced during anaerobic digestion, combines with heavy metals
+Hydrogen sulphide (H₂S), produced during anaerobic digestion, combines [[singh-fungal-interactions-with-heavy-metals-in-soil]]
 to form insoluble sulphides at pH levels above 7. This precipitation reaction effectively
 locks metals into the sludge, preventing their release into effluent waters.
 
@@ -137,7 +127,7 @@ that supports aerobic bacteria below. Key genera include:
 
 ### Bacterial Communities
 
-Diverse bacterial populations process dissolved organic matter:
+Diverse bacterial populations process [[dighton-fungal-dissolved-organic-carbon-production]] matter:
 
 - *Cyclotella*
 - *Pinnularia*

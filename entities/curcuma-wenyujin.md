@@ -14,45 +14,7 @@ sources:
   - Liao JC et al. (2018). "Curcuma wenyujin: phytochemistry, pharmacology, and clinical applications." Journal of Traditional and Complementary Medicine, 8(3), 335-344.
   - Chinese Pharmacopoeia Commission (2020). Pharmacopoeia of the People's Republic of China. China Medical Science Press.
   - Zhang J et al. (2014). "β-elemene from Curcuma wenyujin: pharmacology and clinical use." Chinese Journal of Natural Medicines, 12(5), 321-330.
-  - Wang Y et al. (2017). "Furanodiene from Curcuma wenyujin inhibits triple-negative [[blesching-cannabis-breast-cancer]]." Oncology Reports, 37(5), 2927-2935.
-  - Deng Y et al. (2006). "[[guzman-magic-mushrooms-chemical-constituents]] of the [[permaculture-designers-manual-essential-oil-plants]] from Curcuma wenyujin." Journal of Agricultural and Food Chemistry, 54(16), 5785-5789.
----
-
-## Overview
-
-**Curcuma wenyujin** is a perennial herb in Zingiberaceae, endemic to southeastern China. It is one of the three official species of **E Zhu** (郁金) recorded in the Chinese Pharmacopoeia, alongside *C. phaeocaulis* and *C. kwangsiensis*.
-
-The species is particularly significant for producing **β-elemene**, a sesquiterpene approved in China as an injectable anticancer drug. The dried rhizome (Wen Yu Jin, 温郁金) and tuberous roots (Wen Yu Jin as a separate drug item) are both used medicinally.
-
-## Taxonomy and Morphology
-
-**Classification:** Plantae → Tracheophyta → Liliopsida → Zingiberales → Zingiberaceae → Zingiberoideae → Curcuma → C. wenyujin.
-
-**Authority:** Y.H. Chen & C. Ling (1984). The species was described from populations in Wenzhou, Zhejiang Province.
-
-Plants grow 1.0–1.5 m tall with a robust pseudostem formed by overlapping leaf sheaths. Leaves are large, oblong to elliptic-lanceolate, 35–60 cm long and 12–20 cm wide, with a deep green adaxial surface.
-
-Inflorescences are terminal or lateral spikes, 15–25 cm long, with involucral bracts green at base shading to pink-purple at tips. Flowers are pale yellow with a darker yellow labellum. Flowering occurs July–September.
-
-The rhizome is clustered, irregularly shaped, 2–5 cm in diameter, with a grey-brown exterior and bright yellow interior. Tuberous roots are ovoid, 1–3 cm long, and also yield a yellow pigment.
-
-## Bioactive Compounds
-
-The essential oil content of dried rhizome ranges from 1.5–4.0%. Major volatile constituents include **β-elemene** (5–15%), **curdione** (8–15%), **germacrone** (5–12%), **furanodiene** (3–8%), **curcumol** (3–7%), and **neocurdione**.
-
-### β-Elemene
-
-β-elemene (C₁₅H₂₄) is a bicyclic sesquiterpene and the signature compound of *C. wenyujin*. It was first isolated from the species in the 1980s and developed into an injectable formulation (Elemene injection) approved by China's NMPA for malignant pleural effusion and several solid tumors.
-
-The compound exhibits broad-spectrum antitumor activity through multiple mechanisms: induction of apoptosis via mitochondrial pathways, cell cycle arrest at G2/M phase, inhibition of angiogenesis, and reversal of multidrug resistance.
-
-[[mushroom-cancer-clinical-trials-overview]] in China have demonstrated efficacy against lung, liver, breast, and brain cancers, both as monotherapy and in combination with conventional chemotherapeutics. The injectable formulation improves quality of life scores and reduces chemotherapy-related [[blesching-cannabis-safety-adverse-effects-evidence]].
-
-### Furanodiene
-
-Furanodiene is a furanosesquiterpenoid with potent antiproliferative activity. It induces endoplasmic reticulum stress-mediated apoptosis in cancer cells and suppresses NF-κB signaling.
-
-Recent studies show furanodiene inhibits metastasis by downregulating MMP-2 and MMP-9 expression. It also sensitizes cancer cells to cisplatin and doxorubicin, making it a candidate for [[lentinan-gastric-cancer-combination-therapy]].
+  - Wang Y et al. (2017). "Furanodiene from Curcuma wenyujin inhibits triple-negative [[guzman-magic-mushrooms-chemical-constituents]] of the [[mushroom-cancer-clinical-trials-overview]] in China have demonstrated efficacy against lung, liver, breast, and brain cancers, both as monotherapy and in combination with conventional chemotherapeutics. The injectable formulation improves quality of life scores and reduces chemotherapy-related [[lentinan-gastric-cancer-combination-therapy]].
 
 ## Pharmacology
 
@@ -80,10 +42,89 @@ Wenzhou produces 200–300 tonnes of dried rhizome annually. The species is prot
 
 ## Chemistry and Quality Control
 
-Chinese Pharmacopoeia specifies curdione content ≥ 0.3% and germacrone ≥ 0.1% by HPLC as minimum [[aact-compost-quality-standards-ingham]] for *C. wenyujin* rhizome. β-elemene content is used as an additional quality marker in commercial grading.
+Chinese Pharmacopoeia specifies curdione content ≥ 0.3% and germacrone ≥ 0.1% by HPLC as minimum [[cannabis-harvest-timing-visual-cues]], processing method, and geographic origin. Shade-drying preserves volatile content better than sun-drying, with 20–30% higher curdione retention.
 
-The rhizome also contains diarylheptanoids, including turmerone derivatives and curcuminoid analogues specific to the *C. wenyujin* chemotype. These non-volatile compounds contribute to the species' distinctive anti-inflammatory profile compared to other Curcuma species.
+## Overview
 
-Phenolic content ranges from 15–25 mg GAE/g dried rhizome. The antioxidant capacity (DPPH IC₅₀) is approximately 45 μg/mL for the ethanol extract, significantly higher than the aqueous extract.
+Curcuma Wenyujin represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
 
-The essential oil composition varies significantly with [[cannabis-harvest-timing-visual-cues]], processing method, and geographic origin. Shade-drying preserves volatile content better than sun-drying, with 20–30% higher curdione retention.
+## Key Characteristics
+
+Several defining characteristics distinguish curcuma wenyujin
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving curcuma extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Curcuma Wenyujin finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for curcuma wenyujin. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+curcuma wenyujin and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Curcuma Wenyujin has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of curcuma wenyujin into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[curcuma-amarissima]]
+- [[curcuma-angustifolia]]
+- [[curcuma-caesia]]
+- [[curcuma-kwangsiensis]]
+- [[curcuma-phaeocaulis]]

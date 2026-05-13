@@ -74,49 +74,9 @@ During 1959-60, there were thirteen accredited Mescalero, Chiricahua, and Lipan 
 
 ## Contrast with Other Tribal Peyote Use
 
-The Mescalero case stands in sharp contrast to the usual picture of amiable, harmonious group sessions of peyote use among other [[growing-gourmet-north-american-reishi-species]] tribes, and to the similarly harmonious communal use of ayahuasca among the Cashinahua, Sharanahua, and Campa of the Peruvian Amazon. As with the Jivaro of the Ecuadorian Amazon, hallucinogen use among the Mescalero was identified with individualistic and often hostile supernatural activity.
+The Mescalero case stands in sharp contrast to the usual picture of amiable, harmonious group sessions of peyote use among other [[metzner-peyote-ceremonies-native-american-church-and-huichol-traditions]] were never accompanied by the acceptance of Christian beliefs and practices, and the Mescaleros never became involved in the formal Peyote Religion. The use of peyote was intended to affirm the vitality of traditional religious practices at a time when reservation confinement contributed to an increased awareness of social and cultural deprivation. The failure of peyote to integrate into communal religious life illustrates the importance of personality and culture in affecting the impact of the [[mescalero-apache-shamanism-peyote-adoption-rejection]]
 
-The [[metzner-peyote-ceremonies-native-american-church-and-huichol-traditions]] were never accompanied by the acceptance of Christian beliefs and practices, and the Mescaleros never became involved in the formal Peyote Religion. The use of peyote was intended to affirm the vitality of traditional religious practices at a time when reservation confinement contributed to an increased awareness of social and cultural deprivation. The failure of peyote to integrate into communal religious life illustrates the importance of personality and culture in affecting the impact of the [[emcdda-hallucinogenic-drug-classification-and-terminology-taxonomy]] experience.
-
-## See Also
-
-- [[mescalero-apache-shamanism-peyote-adoption-rejection]]
-
-- [[hallucinogens-and-shamanism-harner-anthology]]
 - [[harner-shamanic-journey-and-altered-states]]
-- [[psychedelic-spirituality-and-religion]]
-
-## Practical Applications
-
-The principles and techniques discussed here have wide-ranging applications
-across multiple disciplines and contexts. Practitioners and researchers
-continue to explore new ways to integrate these concepts into modern practice,
-adapting traditional knowledge to contemporary challenges and opportunities.
-
-## Key Considerations
-
-Several important factors influence the effectiveness and outcomes described
-in this topic. Understanding these considerations helps practitioners make
-informed decisions and avoid common pitfalls. Environmental conditions,
-timing, and material selection all play critical roles.
-
-## Historical Context
-
-The historical development of this subject reflects centuries of accumulated
-knowledge and practical experience. From traditional methods passed down
-through generations to modern scientific approaches, the evolution continues
-to inform current best practices and research directions.
-
-## Common Challenges
-
-Practitioners frequently encounter several challenges when working with
-these concepts. Climate variability, resource limitations, and knowledge
-gaps can all affect outcomes. Addressing these challenges requires patience,
-observation, and a willingness to adapt approaches based on results.
-
-## See Also
 - [[shamanism]]
-- [[ayahuasca]]
 - [[mescalero-apache-shamanism-peyote-adoption-rejection]]
-- [[hallucinogens-and-shamanism-harner-anthology]]
 - [[harner-amanita-muscaria-siberian-shamanism]]

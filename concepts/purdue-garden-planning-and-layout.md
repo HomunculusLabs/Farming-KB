@@ -18,11 +18,11 @@ type: concept
 
 # Purdue Garden Planning and Layout
 
-A guide to planning and laying out a home [[fukuoka-dutch-priest-vegetable-garden-spiritual-renewal]], covering site selection, soil preparation, crop arrangement, [[query-what-is-succession-planting-and-how-do-i-plan-a-succession-planting-schedule]], and environmental hazards such as juglone toxicity from walnut trees. Based on Purdue University Cooperative Extension Service guidelines (HO-32-W).
+A guide to planning and laying out a home [[query-what-is-succession-planting-and-how-do-i-plan-a-succession-planting-schedule]], and environmental hazards such as juglone toxicity from walnut trees. Based on Purdue University Cooperative Extension Service guidelines (HO-32-W).
 
 ## Why Planning Matters
 
-Planning is the first and most basic step in home [[home-vegetable-garden-planning]]. Proper planning saves time at planting, provides accurate [[vegetable-seed-and-transplant-guide]] quantities, and ensures the garden satisfies household needs throughout the growing season. A well-planned garden prevents overcrowding, poor sun exposure, and inefficient use of space. Planning also lets you calculate how much seed, how many transplants, and what supplies you will need before the season begins.
+Planning is the first and most basic step in home [[vegetable-seed-and-transplant-guide]] quantities, and ensures the garden satisfies household needs throughout the growing season. A well-planned garden prevents overcrowding, poor sun exposure, and inefficient use of space. Planning also lets you calculate how much seed, how many transplants, and what supplies you will need before the season begins.
 
 ## Garden Location
 
@@ -42,15 +42,7 @@ Do not plant vegetables near trees and shrubs. In these locations, vegetables mu
 
 ### The Problem
 
-Walnut trees (particularly black walnut, Juglans nigra) produce a chemical compound called juglone (5-hydroxy-1,4-naphthoquinone) that is toxic to many plants, especially tomatoes. Juglone is present in all parts of the walnut tree including roots, leaves, bark, and nut hulls, and is released into surrounding soil through root exudation, leaf [[dighton-pine-needle-litter-decomposition-fungal-succession]], and rain washing from canopy surfaces.
-
-### Sensitive Plants
-
-The most notoriously sensitive vegetable is the tomato. Other susceptible plants include potatoes, eggplants, peppers, and some cole crops. Sensitive plants may eventually wilt and die when grown within the root zone of a walnut tree, even when all other growing conditions appear ideal.
-
-### Safe Distance
-
-Because walnut tree roots remain active and continue releasing juglone for several years even after the tree is cut down, a **minimum distance of 50 feet** is recommended between walnut trees and juglone-sensitive plants. This is one of the most critical site-selection considerations for gardens located near walnut trees. See [[purdue-vegetable-planting-reference-table]] for specific spacing and timing data for each crop.
+Walnut trees (particularly black walnut, Juglans nigra) produce a chemical compound called juglone (5-hydroxy-1,4-naphthoquinone) that is toxic to many plants, especially tomatoes. Juglone is present in all parts of the walnut tree including roots, leaves, bark, and nut hulls, and is released into surrounding soil through root exudation, leaf [[purdue-vegetable-planting-reference-table]] for specific spacing and timing data for each crop.
 
 ### Recommended Layout: 20 by 50 Foot Garden
 
@@ -77,7 +69,7 @@ Plant sweet corn in blocks of several short rows rather than a single long row. 
 
 ## Succession Planting
 
-Succession planting stretches the harvest season and maximizes garden productivity. Instead of one large planting, make several smaller weekly or biweekly plantings of the same crop.
+[[succession-planting]] stretches the harvest season and maximizes garden productivity. Instead of one large planting, make several smaller weekly or biweekly plantings of the same crop.
 
 ### Crops for Succession Planting
 

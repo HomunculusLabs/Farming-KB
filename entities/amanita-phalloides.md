@@ -1,5 +1,5 @@
 ---
-title: Amanita Phalloides
+title: [[amanita-phalloides-death-cap]]
 created: 2026-04-28
 type: species
 tags:
@@ -26,18 +26,7 @@ sources:
 
 A single mature cap contains sufficient amatoxin to kill an adult human.
 The species is deceptively palatable and closely resembles several edible species, making misidentification the primary cause of poisoning.
-Its toxicity results from heat-stable amatoxins that inhibit RNA polymerase II, causing irreversible hepatocyte and renal tubular [[blesching-cannabis-apoptosis-and-cancer-cell-death]].
-
-## Taxonomy
-
-- **Kingdom:** Fungi
-- **Division:** Basidiomycota
-- **Class:** Agaricomycetes
-- **Order:** Agaricales
-- **Family:** Amanitaceae
-- **Genus:** Amanita
-- **Species:** *A. phalloides* (Vaill. ex Fr.) Link
-- **Synonyms:** *Agaricus phalloides* Vaill. ex Fr., *[[spore-print]]: white
+Its toxicity results from heat-stable amatoxins that inhibit RNA polymerase II, causing irreversible hepatocyte and renal tubular [[spore-print]]: white
 - Spores: 8–11 × 6–8 µm, broadly ellipsoid, smooth, amyloid
 - Basidia: clavate, 4-spored
 
@@ -49,10 +38,9 @@ Its toxicity results from heat-stable amatoxins that inhibit RNA polymerase II, 
 ## Distribution and Habitat
 
 - Native to Europe, now widespread across all inhabited continents
-- Introduced to [[psilocybin-north-america-pacific-northwest]] (both coasts), Australia, New Zealand, [[guzman-psilocybin-mushrooms-south-america]], South Africa
+- Introduced to [[guzman-psilocybin-mushrooms-south-america]], South Africa
 - Primarily associated with broadleaf trees, especially oaks (*Quercus* spp.)
-- Also found under beech, chestnut, hazel, and some conifers (e.g., *[[pinus-radiata]]*)
-- Ectomycorrhizal — forms obligate symbiotic associations with [[ectomycorrhizal-host-tree-partnerships]] roots
+- Also found under beech, chestnut, hazel, and some conifers (e.g., *[[ectomycorrhizal-host-tree-partnerships]] roots
 - Fruits late summer to autumn (August–November in Northern Hemisphere)
 
 ## Toxicology
@@ -88,3 +76,75 @@ Its toxicity results from heat-stable amatoxins that inhibit RNA polymerase II, 
 ### Treatment
 
 - Intravenous silibinin (milk thistle extract) — blocks hepatocellular amatoxin uptake
+
+## Overview
+
+Amanita Phalloides represents an important element within sustainable
+design and [[solomon-gardening-aikido-pest-philosophy-ecological-management]] systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish amanita phalloides
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving amanita extend
+across multiple [[ingham-soil-foodweb-trophic-levels-protozoa-nematodes]] and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Amanita Phalloides finds practical application in multiple design contexts.
+[[permaculture-principles]] guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive [[livestock-grassland-management-strategies]] that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for amanita phalloides. [[jeavons-climate-adaptation-growing-seasons]]
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+amanita phalloides and its applications. Active investigation
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Amanita Phalloides has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of amanita phalloides into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions

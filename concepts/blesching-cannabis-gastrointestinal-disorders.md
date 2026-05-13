@@ -15,7 +15,7 @@ tags: [cannabis]
 Blesching's Cannabis Health Index covers multiple GI conditions with varying
 confidence levels. This page synthesizes findings across gastro-esophageal
 reflux disease (GERD), nausea and vomiting, chemotherapy-induced nausea, and
-[[cannabis-for-cachexia-and-appetite-stimulation]] -- areas distinct from [[blesching-cannabis-inflammatory-bowel-disease]] disease (covered
+[[blesching-cannabis-inflammatory-bowel-disease]] disease (covered
 separately).
 
 ## Gastro-Esophageal Reflux Disease (GERD)
@@ -33,45 +33,11 @@ humans significantly reduced symptoms of GERD such as meal-induced transient
 lower esophageal sphincter relaxations and spontaneous swallowing. However,
 dosage levels of 20 mg caused some volunteers to experience nausea, vomiting,
 hypotension, and rapid heart rates. This demonstrates a dose-specific
-[[blesching-cannabis-therapeutic-window-dosing]] warranting cautious and gradual approach.
-
-CHI Value for GERD: 5 (1 study reviewed)
-
-## Nausea and Vomiting
-
-### Overview
-Vomiting involves involuntary coordinated contractions of stomach, respiratory,
-and esophageal muscles to forcefully eject stomach contents. It may occur as an
-autonomic response to detected poisons, be voluntarily induced, or be brought
-on by disease or injury. It serves as a self-preservation mechanism.
-
-### Cannabis and Vomiting (General)
-THC reduces nausea and vomiting via CB1 receptors. Blesching's review covers
-27 studies on vomiting in general with a combined CHI Value of 111 -- one of
-the highest confidence ratings in the entire index.
-
-### Chemotherapy-Induced Nausea and Vomiting
-- 24 studies reviewed, CHI Value: 104
-- Anecdotal evidence from patients who smoked marijuana before chemotherapy
-  ultimately led to [[mushroom-cancer-clinical-trials-overview]] demonstrating [[raw-cannabis-thca-non-psychoactive-therapeutic-properties]] of
-  cannabinoids
-- [[hofmann-lsd-clinical-research-early-studies]] focused on comparing cannabinoids to prochlorperazine
+[[mushroom-cancer-clinical-trials-overview]] demonstrating [[hofmann-lsd-clinical-research-early-studies]] focused on comparing cannabinoids to prochlorperazine
   (Compazine). Most reported cannabinoids as superior
 - Later studies reported cannabinoids proved more effective than metoclopramide,
   chlorpromazine, thiethylperazine, haloperidol, domperidone, or alizapride
-- Recent studies examined CBD's ability to markedly reduce [[blesching-cannabis-oxidative-stress-and-antioxidant-defense]],
-  inflammation, and cell death in kidneys during cancer treatment
-- Dronabinol proved as effective as ondansetron in reducing nausea and vomiting
-
-## Anorexia and Cachexia (Appetite Stimulation)
-
-### Overview
-Anorexia nervosa is a lack of interest in eating sufficient food to maintain
-healthy body weight due to psychological reasons. Cachexia (wasting syndrome)
-refers to loss of body mass that cannot be replaced through nutrition,
-presenting as generalized weakness, poor health, and emaciation. Cachexia is
-usually secondary in chronic destructive diseases such as end-stage cancer,
-AIDS, terminal tuberculosis, [[blesching-cannabis-multiple-sclerosis]], or COPD.
+- Recent studies examined CBD's ability to markedly reduce [[blesching-cannabis-multiple-sclerosis]], or COPD.
 
 ### Cannabis and Appetite
 - 11 studies reviewed, combined CHI Value: 28
@@ -118,8 +84,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[cannabis-health-index]]
 - [[doc]]
-- [[dom]]
 - [[det]]
 - [[dronabinol]]

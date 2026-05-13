@@ -39,21 +39,7 @@ land.
 The term "endophyte" literally means "within the plant," and it encompasses all
 microorganisms that colonize the internal tissues of plants for at least part of
 their life cycle without causing apparent harm. The concept was first articulated
-by the German botanist Heinrich Anton de Bary in the [[mckenna-club-des-hachischins-and-nineteenth-century-literary-hashish]], but the
-modern study of endophytes did not gain serious momentum until the 1980s.
-Endophytic fungi are distinct from mycorrhizal fungi, which form specialized
-structures at or near the root surface, and from pathogenic fungi, which cause
-overt disease. Instead, endophytes occupy a middle ground, living within leaves,
-stems, roots, and even seeds, maintaining a relationship with their host that
-ranges from latent parasitism to obligate mutualism.
-
-The distinction between endophytes and pathogens is often one of degree rather
-than kind. As the mycologist Keith Clay observed, mutualistic associations
-between fungi and plants likely exist on a continuum of fungal physiologies,
-ranging from saprotrophy at one extreme to pathogenicity at the other. An
-endophyte that is beneficial under one set of environmental conditions may
-become neutral or even mildly pathogenic under another. This conditional nature
-complicates both [[roger-heim-scientific-study-psilocybin]] and practical application, but it underscores
+by the German botanist Heinrich Anton de Bary in the [[roger-heim-scientific-study-psilocybin]] and practical application, but it underscores
 the remarkable plasticity of plant-fungal partnerships. The fungi that live
 inside plants represent perhaps the most taxonomically diverse guild of plant-
 associated microorganisms, with an estimated one million or more endophytic
@@ -107,22 +93,7 @@ including ergot alkaloids, lolines, peramine, and lolitrem B, each targeting
 different classes of herbivores. Ergot alkaloids affect mammalian herbivores,
 lolines deter insects, peramine provides protection against aphids, and lolitrem
 B causes neurological disorders in grazing livestock. These alkaloids are
-[[antifungal-secondary-metabolites-coprophilous-fungi]] of the fungi and are considered to have evolved as an
-adaptation to confer competitive advantage to the endophyte-infected host plant.
-
-In a comprehensive review, Clay cataloged the impacts of major endophyte genera
-on their host plants. Across roughly one hundred host species, endophyte
-infection consistently increased vegetative growth and suppressed herbivory.
-Acremonium, Balansia, and Epichloe all increased vegetative growth while
-suppressing herbivore resistance, though in some cases endophyte infection also
-suppressed host reproduction, illustrating the conditional nature of these
-symbioses. Myriogenospora actually decreased vegetative growth while still
-suppressing herbivory across its approximately twenty known host species.
-
-The story of tall fescue illustrates this vividly. Tall fescue infected with
-Neotyphodium coenophialum produces ergot alkaloids that cause fescue toxicosis
-in grazing cattle, with economic losses estimated at hundreds of millions of
-dollars annually. Yet the same endophyte confers [[dighton-fungal-drought-tolerance-plant-water-relations]], insect
+[[dighton-fungal-drought-tolerance-plant-water-relations]], insect
 resistance, and competitive superiority to the host grass. This paradox has
 driven efforts to develop novel endophyte strains that retain beneficial traits
 without producing alkaloids toxic to livestock. Stanley Faeth has suggested that
@@ -131,18 +102,6 @@ the plant-endophyte partnership by preventing herbivores from developing simple
 avoidance strategies.
 
 Beyond grass endophytes, nonclavicipitaceous endophytes produce an extraordinary
-diversity of [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]]. Gary Strobel pioneered the exploration of
-endophytes as sources of novel pharmaceutical compounds, discovering that
-endophytes from plants in unique environmental niches often produce antimicrobial,
-antifungal, and anticancer agents. His most famous discovery was Taxomyces
-andreanae from the Pacific yew tree, which produces taxol, the same potent
-anticancer compound previously isolated only from the yew itself. This suggested
-that some valuable plant-derived medicines might actually be products of
-endophytic fungi. Endophytes also produce serotonin-like tryptamines, a class
-## See Also
-
-- [[endophytic-fungi-grass-symbiosis-insect-defense-alkaloids-epichloe-neotyphodium]]
-- [[query-how-do-fungal-volatile-compounds-affect-plant-growth-and-other-microorganisms]]
+diversity of [[endophytic-fungi-grass-symbiosis-insect-defense-alkaloids-epichloe-neotyphodium]]
 - [[plant-defense-chemistry-and-secondary-metabolites]]
-- [[singh-endophytic-fungi-plant-protection-mechanisms]]
 - [[symbiotic-fungi-endophytic-fungi-plant-protection]]

@@ -13,9 +13,7 @@ type: concept
 Laccase mediator systems (LMS) represent one of the most important
 biochemical strategies for extending the substrate range of fungal laccase
 enzymes beyond their natural phenolic substrates. By employing low
-molecular weight [[fungal-laccase-redox-mediators]], laccase can oxidize non-phenolic
-aromatic compounds that would otherwise be inaccessible, making these
-systems highly valuable for [[fungi-in-the-environment-bioremediation-applications]].
+molecular weight [[fungi-in-the-environment-bioremediation-applications]].
 
 ## Principle of Laccase Mediator Action
 
@@ -49,21 +47,7 @@ The ABTS-mediated system has been successfully applied to PAH
 degradation. Anthracene was oxidized to anthraquinone, and benzo[a]pyrene
 was also oxidized by the laccase-ABTS couple. ABTS has further been used
 to enhance the oxidation of nerve agents VX and Russian VX, as well as
-the insecticide analog diisopropylamiton by [[cancer-medicinal-mushrooms-pleurotus-ostreatus]].
-
-### 1-Hydroxybenzotriazole (HBT)
-
-HBT is another synthetic mediator that enables laccase to delignify
-kraft pulps. Unlike ABTS, HBT operates through a different mechanism
-involving electron transfer. HBT-mediated laccase reactions have been
-applied in biomimetic bleaching systems for pulp and paper effluent
-treatment.
-
-## Natural Mediators
-
-### 3,4-Hydroxyanthranilic Acid (3,4-DHAA)
-
-The white rot fungus [[pycnoporus-cinnabarinus]] secretes 3,4-
+the insecticide analog diisopropylamiton by [[pycnoporus-cinnabarinus]] secretes 3,4-
 hydroxyanthranilic acid along with laccase as part of its ligninolytic
 system. This natural mediator enables cleavage of non-phenolic model
 compounds and depolymerization of soluble lignin. The discovery of
@@ -118,8 +102,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[laccase]]
 - [[fungal-laccase-mediator-systems]]
-- [[fungal-enzyme-systems-bioremediation]]
 - [[staycare-laccase-enzymes-in-bioremediation]]
 - [[singh-fungal-laccase-enzymes-bioremediation]]

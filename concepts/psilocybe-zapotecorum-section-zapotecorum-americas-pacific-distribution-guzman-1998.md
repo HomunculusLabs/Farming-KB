@@ -11,15 +11,10 @@ sources: "Guzmán, Allen & Gartz (1998)"
 # Psilocybe zapotecorum Section Zapotecorum: Americas Pacific Distribution
 
 Section Zapotecorum of the genus Psilocybe represents one of the most
-biogeographically significant groups of [[challenges-neurotropic-fungi-chemical-analysis-taxonomic-identification]], with a
-distribution spanning from Mesoamerica through South America to the
-Pacific Islands, including a remarkable trans-Pacific disjunction between
-the Americas and New Zealand. According to [[psilocybe-cubensis-cattle-dung-substrate-introduction-americas-guzman-1998]]
-- [[psilocybe-semilanceata-worldwide-temperate-distribution-guzman-1998]]
+biogeographically significant groups of [[psilocybe-cubensis-cattle-dung-substrate-introduction-americas-guzman-1998]]
 - [[four-groups-neurotropic-fungi-global-distribution-guzman-1998]]
 
-- [[guzman-allen-gartz-africa-southern-hemisphere-underexplored-neurotropic-fungi]] Origin Hypothesis for Neurotropic Fungi
-- Mexico as a Northern and [[mexico-northern-southern-mycobiotic-convergence-zone-guzman-1998]] Convergence Zone
+- [[mexico-northern-southern-mycobiotic-convergence-zone-guzman-1998]] Convergence Zone
 - [[psilocybe-aztecorum-section-aztecorum-alpine-neurotropic-fungi-guzman-1998]]
 ## Practical Applications
 

@@ -72,16 +72,7 @@ developing complex flavors that raw cabbage could never achieve.
 
 This article explores the science and practice of food and beverage
 fermentation, covering lacto-fermented vegetables, dairy fermentation, grain-
-based fermentation (sourdough and beer), Korean [[comparison-natural-farming-vs-permaculture]] fermented plant
-extracts, and the broader context of food preservation. Practical home
-techniques are emphasized alongside the underlying microbiology.
-
-## The Science of Fermentation
-
-### What Fermentation Actually Is
-
-In biological terms, fermentation is a metabolic process in which
-microorganisms convert sugars and other [[fungal-volatile-organic-compounds-communication]] into acids, gases, or
+based fermentation (sourdough and beer), Korean [[fungal-volatile-organic-compounds-communication]] into acids, gases, or
 alcohol in the absence of oxygen. In the context of food, this usually means
 that bacteria, yeasts, or molds break down carbohydrates (sugars, starches)
 and produce byproducts that preserve the food, improve its nutritional profile,
@@ -107,33 +98,14 @@ proteins and starches that other organisms cannot access.
 ### The Four Stages of Lacto-Fermentation
 ## See Also
 
-- [[food-fermentation-guide]] — Core lacto-fermentation techniques and
-  recipes
 - [[fermented-vegetables-guide]] — Comprehensive vegetable fermentation
   reference
-- [[fermentation-microbiology-for-brewers]] — Brewing microbiology and yeast
-  biology
 - [[fermented-hot-sauce-guide]] — Lacto-fermented hot sauce production
 - faires-food-fermentation-methods — Homestead fermentation methods
 - faires-yogurt-and-sourdough-making — Dairy and sourdough fermentation
-- [[ale-vs-lager-fermentation]] — Ale and lager yeast characteristics
 - [[herbal-beer-ingredients]] — Pre-hops brewing herbs and botanicals
-- [[fermented-plant-juice-preparation-and-application]] — Korean Natural
-  Farming FPJ methods
-- [[canning-and-preserving]] — Water bath and [[comparison-pressure-canning-vs-water-bath-canning]] safety
-- faires-comprehensive-food-preservation-guide — Full preservation method
-  comparison
-
-## References
-
-- Cho, H.K. *Korean Natural Farming: [[beneficial-indigenous-microorganisms-bim]] and Natural
-  [[natural-farming-inputs-cho]]*.
-- Faires, N. *The Ultimate Guide to Permaculture and Homesteading*.
-- Carandang, G. *Bionutrient Farming Systems*.
-- Katz, S.E. (2012). *The Art of Fermentation*.
-- McGee, H. (2004). *On Food and Cooking: The Science and Lore of the
-  Kitchen*.
-- Sandor Ellix Katz (2003). *[[comparison-wild-fermentation-vs-commercial-starter-culture]]*.
+- [[canning-and-preserving]] — Water bath and [[beneficial-indigenous-microorganisms-bim]] and Natural
+  [[comparison-wild-fermentation-vs-commercial-starter-culture]]*.
 - USDA Complete Guide to Home Canning (2015 revision).
 - Stamets, P., & Chilton, J.S. (1983). *The Mushroom Cultivator*.## Merged: What Are the Best Fermented Beverages for Beginners to Make at Home?
 Fermented beverages are the easiest entry point into home fermentation — minimal equipment, forgiving of mistakes, and rewarding results within days to weeks. Here are the best beginner-friendly options ranked by ease, cost, and speed.

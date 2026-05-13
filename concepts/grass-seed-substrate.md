@@ -21,7 +21,6 @@ structure allows for rapid colonization and easy distribution during spawning.
 Grass seed is particularly effective for:
 
 - ***Psilocybe mexicana***: Mushrooms and sclerotia
-- ***[[psilocybe-tampanensis-entity]]***: Mushrooms and sclerotia
 - ***[[gartz-panaeolus-subbalteatus-taxonomy-and-intoxication-history]]***: Mushroom production
 - ***Psilocybe cubensis***: Can be used, though rye grain is preferred
 
@@ -36,94 +35,7 @@ Important considerations for seed selection:
 
 - **Untreated seed**: Must not be treated with fungicides. Treated seed is
   typically labeled as such on the packaging. Fungicide residues will prevent
-  or severely inhibit [[mycelial-colonization]]
-- **Source**: Animal feed stores often sell grass seed as bird feed at lower
-  prices than garden centers. This is an economical source
-- **Freshness**: Fresher seed has higher viability and better water
-  absorption characteristics
-- **Variability**: Different varieties and even different batches of the same
-  variety can differ greatly in water absorption capacity. This variability
-  requires adjustment of the water ratio for each new batch
-
-## Preparation
-
-### Direct Method
-For 720 mL jars:
-- 110 grams grass seed
-- 180 mL water
-
-The water and seed are filled into jars, lids placed on loosely (NOT screwed
-tight), and a double layer of aluminum foil crumpled over the lid and top
-part of the jar. The jars are then ready for sterilization.
-
-### Soak Method (Alternative)
-Grass seed is soaked in water overnight before filling jars. This produces a
-more homogenous substrate because all kernels have equal time to absorb
-water, reducing the variability inherent in the direct method. After soaking,
-excess water is drained and the hydrated seed is distributed into jars.
-
-## Water Content Management
-
-Water content is the most critical variable in grass seed substrate
-preparation. The consequences of improper hydration:
-
-- **Too much water**: Results in a slimy, anaerobic clump of seed that
-  cannot be shaken to distribute mycelium. Anaerobic conditions favor
-  bacterial contamination
-- **Too little water**: Produces dry substrate with insufficient moisture
-  for mycelial growth, resulting in slow colonization and reduced yields
-- **Optimal**: Individual kernels are hydrated but separate, allowing the
-  jar to be shaken for even mycelial distribution
-
-Because of batch-to-batch variability in water absorption, cultivators should
-experiment with water ratios and keep records of what works for each seed
-source.
-
-## Sterilization
-
-Grass seed must be sterilized in a pressure cooker or autoclave — a normal
-pot will not suffice:
-
-1. Place water in the pressure cooker base
-2. Position jars with lids loose
-3. Sterilize at 15 PSI for one hour (720 mL jars)
-4. For 1.5 L jars or spawn bags, extend to two hours
-5. After pressure release, remove and shake jars to mix wet and dry kernels
-6. Check for cracks before shaking
-7. Cool to room temperature in a clean location with lids loose
-
-## Inoculation
-
-Once cooled to room temperature, jars are inoculated using:
-
-- Spore syringes
-- Mycelium syringes (liquid culture)
-- Agar wedge transfers
-- Grain-to-grain transfer
-
-Critical inoculation practices:
-
-- **Work clean**: Even a simple cardboard box hood prevents drafts and
-  contamination
-- **Flame sterilize**: Needle of spore syringes or scalpel for agar wedges
-  must be flamed before use
-- **Minimize exposure**: Open jar lids just a crack and work swiftly
-- **Safety warning**: Alcohol and spray Lysol are highly flammable — keep
-  away from open flame
-
-After inoculation, jars are shaken to distribute inoculum and lids loosened
-again for gas exchange.
-
-## Colonization
-
-Colonization conditions and timeline:
-
-- **Temperature**: Room temperature (~20°C) or slightly higher
-- **Timeline**: 5-20 days depending on species, temperature, and inoculation
-  method
-- **Shaking**: When mycelium starts growing in only a few spots, shake jars
-  to redistribute colonized kernels — this dramatically speeds colonization
-- **Metabolite warning**: Yellowish [[mycelial-metabolite-excretion-stress-response-grain-jar-cultivation-guide]] indicates the jars
+  or severely inhibit [[mycelial-metabolite-excretion-stress-response-grain-jar-cultivation-guide]] indicates the jars
   have been incubated too long or at too high temperature. These jars should
   be cased or spawned as soon as possible
 
@@ -133,14 +45,7 @@ Colonization conditions and timeline:
 - Loose structure enables fast, even colonization
 - Small kernel size provides many inoculation points
 - Readily available and inexpensive from feed stores
-- Can be used directly for [[in-vitro-sclerotia-production-timeline-psilocybe]] without casing
-- Water absorption varies between batches requiring adjustment
-- Less suitable for very large-scale commercial operations
-
-## See Also
-
-- [[mushroom-casing-soil]]
-- [[sclerotia-formation]]
+- Can be used directly for [[mushroom-casing-soil]]
 - [[mushroom-fruiting-chambers]]
 - [[mycelial-growth-promotion]]
 
@@ -148,3 +53,88 @@ Colonization conditions and timeline:
 
 1. GUID (1997). Cultivation of fruitbodies and sclerotia on sterilised
    grass seed. Unpublished cultivation manual.
+
+## Overview
+
+Grass Seed Substrate represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish grass seed substrate
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving grass extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Grass Seed Substrate finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for grass seed substrate. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+grass seed substrate and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Grass Seed Substrate has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of grass seed substrate into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[comparison-vetiver-grass-vs-bamboo-for-erosion-control]]
+- [[grass-seed-mushroom-cultivation]]
+- [[grass-seed-substrate-water-absorption-variability-and-calibration]]
+- [[overnight-soak-grass-seed-substrate-homogeneity]]
+- [[water-absorption-variability-grass-seed-substrate-preparation]]

@@ -11,7 +11,7 @@ sources: [raw/papers/concise-large-scale-synthesis-of-psilocin-and-psilocybin-sh
 
 ## Overview
 
-The key innovation in the Shirota, Hakamata, and Goda synthesis of [[psilocybin]] is the discovery and isolation of a zwitterionic N,O-dibenzyl [[hmbc-noesy-nmr-analysis-zwitterionic-phosphate-intermediate-psilocybin]] — a compound that forms spontaneously during the phosphorylation of psilocin and that enables large-scale purification without chromatography.
+The key innovation in the Shirota, Hakamata, and Goda synthesis of [[hmbc-noesy-nmr-analysis-zwitterionic-phosphate-intermediate-psilocybin]] — a compound that forms spontaneously during the phosphorylation of psilocin and that enables large-scale purification without chromatography.
 
 This intermediate, designated compound 8, was "completely identified by means of 2D NMR analyses" and represents a novel chemical entity not previously described in the literature.
 
@@ -19,9 +19,7 @@ Its zwitterionic nature (carrying both positive and negative charges) makes it i
 
 ## The Phosphorylation Challenge
 
-Converting psilocin to psilocybin requires adding a phosphate group to the 4-hydroxy position of the [[indole]] ring.
-
-This phosphorylation proved to be one of the more challenging steps in [[psilocin-psilocybin-synthesis-shirota]], with earlier reports yielding only 20%, 47%, or requiring ion-exchange resin purification.
+Converting psilocin to psilocybin requires adding a phosphate group to the 4-hydroxy position of the [[psilocin-psilocybin-synthesis-shirota]], with earlier reports yielding only 20%, 47%, or requiring ion-exchange resin purification.
 
 Several phosphorylation methodologies were applied before the successful route was found:
 
@@ -87,3 +85,11 @@ The overall structure is thus: **{Benzyl[2-(4-oxyindol-3-yl)ethyl]dimethylammoni
 ## Practical Advantages of the Zwitterion
 
 The zwitterionic nature of compound 8 is the key to the practical success of this synthesis.
+
+## See Also
+
+- [[stamets-african-psilocybin-mushroom-distribution]]
+- [[emcdda-psilocybin-mushroom-market-variety-names-and-strain-marketing-2006]]
+- [[powell-psilocybin-end-of-life-anxiety]]
+- [[psilocybin-mushroom-image-guide-habitat-clues]]
+- [[emcdda-psilocybin-non-addictive-profile-tolerance-dynamics]]

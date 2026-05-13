@@ -16,15 +16,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - Johns Hopkins Center for Psychedelic Research
-  - MAPS ([[maps-multidisciplinary-association-for-psychedelic-studies]] Psychedelic Studies)
-  - Carhart-Harris et al. - Imperial College London fMRI studies
----
-
-# Psilocybin
-
-## Overview
-
-**Psilocybin** (4-PO-DMT, *O*-phosphoryl-4-hydroxy-N,N-dimethyltryptamine) is a naturally occurring psychedelic prodrug found in over 200 species of fungi, predominantly within the genus *Psilocybe*. Upon ingestion, psilocybin is rapidly dephosphorylated by alkaline phosphatase in the gut, liver, and kidneys to produce **psilocin** (4-HO-DMT), the primary psychoactive metabolite. Psilocin acts as a **partial agonist at 5-HT₂A [[psilocybin-pharmacology-and-serotonin-receptors]]**, producing profound alterations in perception, cognition, emotion, and sense of self.
+  - MAPS ([[psilocybin-pharmacology-and-serotonin-receptors]]**, producing profound alterations in perception, cognition, emotion, and sense of self.
 
 ## Chemical Profile
 
@@ -88,44 +80,7 @@ Psilocin is a **partial agonist** at 5-HT₂A serotonin receptors, densely expre
 
 - Phospholipase C activation and intracellular calcium release
 - Cortical neuron depolarization and altered firing patterns
-- Disruption of [[default-mode-network-and-ego-dissolution]] (DMN) connectivity
-
-### Default Mode Network Disruption
-
-fMRI studies by Carhart-Harris and colleagues at Imperial College London demonstrated that psilocybin:
-
-- **Decreases DMN integrity**: Reduces connectivity between medial prefrontal cortex and posterior cingulate cortex
-- **Increases global connectivity**: Brain regions normally segregated begin communicating
-- **Produces "entropic" brain states**: Increased entropy in neural signaling, associated with unconstrained cognition
-
-### Neuroplasticity
-
-Recent research reveals psilocybin promotes **structural and functional neuroplasticity**:
-
-- Increased dendritic spine density in prefrontal cortex neurons (within 24 hours)
-- Upregulation of brain-derived neurotrophic factor (BDNF)
-- Enhanced synaptic connectivity persisting weeks after a single dose
-- These changes may underpin long-term therapeutic benefits
-
-## Dosage Guide
-
-| Level             | Dose (oral)      | Effects                                         |
-|-------------------|------------------|--------------------------------------------------|
-| Microdose         | 0.1–0.3 g dried  | Sub-perceptual; enhanced focus, mood             |
-| Threshold         | 0.5–1.0 g dried  | Mild perceptual changes, enhanced colors         |
-| Moderate          | 1.0–2.5 g dried  | Altered perception, emotional release, introspection |
-| Full experience   | 2.5–5.0 g dried  | Visual hallucinations, ego dissolution, mystical states |
-| High dose         | 5.0–7.0 g dried  | Complete ego death, profound transpersonal experiences |
-| Heroic dose       | 7.0+ g dried     | Not recommended without extensive experience and support |
-
-*Note: Doses refer to dried *Psilocybe cubensis* mushroom material (~1% psilocybin equivalent). Pure synthetic psilocybin dosing is typically 10–30 mg.*
-
-## Therapeutic Applications
-
-### Treatment-Resistant Depression
-
-- **Johns Hopkins (2020)**: Two doses (20 mg + 30 mg) with psychotherapy produced rapid and sustained antidepressant effects in 67% of participants at 12-month follow-up
-- **[[compass-pathways]] (2022)**: Phase IIb trial showed dose-dependent improvement; 25 mg single dose significantly outperformed 1 mg control
+- Disruption of [[compass-pathways]] (2022)**: Phase IIb trial showed dose-dependent improvement; 25 mg single dose significantly outperformed 1 mg control
 
 ### End-of-Life Anxiety
 
@@ -134,16 +89,7 @@ Recent research reveals psilocybin promotes **structural and functional neuropla
 
 ## See Also
 
-- [[psilocybin-and-psilocin-biosynthesis-variation]]
 - [[psilocybin-and-psilocin-chemistry-and-pharmacology]]
-- [[psilocybin-and-psilocin-in-magic-mushrooms]]
 - [[psilocybin-chemistry-stability]]
-- [[psilocybin-consciousness-understanding]]
-- [[psilocybin-decriminalization-global]]
-- [[psilocybin-dosage-guidelines-australian-species]]
-- [[psilocybin-in-human-evolution]]
-- [[psilocybin-mushrooms-new-zealand-guide]]
-- [[psilocybin-phosphorylation-tetrabenzylpyrophosphate-method]]
-- [[psilocybin-stability-and-degradation-in-fungi]]
 - [[psilocybin-stability-and-specimen-age]]
 - [[psilocybin-volatility-drying-degradation]]

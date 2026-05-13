@@ -8,18 +8,9 @@ tags: [soil-management, organic-gardening, compost, nutrients]
 created: 2026-04-24
 ---
 
-# [[solomon-crop-rotation-and-garden-planning]] for choosing which varieties
-to save - [[solomon-row-covers-and-season-extension]] for [[fukuoka-textdoc-rice-seed-overwintering-biennial-cultivation-discovery]]
-seed crops
+# [[solomon-row-covers-and-season-extension]] for [[hybrid-to-op-variety-conversion-breeding-solomon]]
 
-## See Also
-
-- [[hybrid-to-op-variety-conversion-breeding-solomon]]
-
-- [[permaculture-seed-saving-breeding]]
-## Background and Context
-
-[[biointensive-seed-saving]] and Vegetable Breeding is an important subject that has garnered significant attention
+- [[biointensive-seed-saving]] and Vegetable Breeding is an important subject that has garnered significant attention
 from researchers, practitioners, and enthusiasts alike. The topic
 sits at the intersection of multiple disciplines, drawing on insights
 from biology, ecology, chemistry, and practical experience. A thorough

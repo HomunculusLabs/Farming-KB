@@ -11,18 +11,11 @@ sources:
 
 # Critique of Western Dietetics and Nutritional Science
 
-In Chapter 5 of [[fukuoka-natural-diet-four-types]], [[fukuoka-natural-farming-philosophy]].
+In Chapter 5 of [[fukuoka-natural-farming-philosophy]].
 
 ## Related Concepts
 
-- [[fukuoka-natural-diet-philosophy]] -- philosophy of natural eating
-- [[fukuoka-disappearance-natural-diet]] -- how [[fukuoka-natural-diet-as-foundation]] disappeared
-- [[fukuoka-natural-fertility-cycle]] -- [[fukuoka-seasonal-eating-natural-food-calendar]] in practice
-
-## Merged: Fukuoka - Critique of Science and Human Knowledge
-Updated: 2026-04-18 Fukuoka's deepest philosophical critique targets the foundations of modern science itself: the belief that human knowledge can comprehend and improve upon nature. He argued that science creates only relative, temporary truths that ultimately distance humanity from the natural world. The argument connects directly to [[fukuoka-learning-about-nature-distances-one-from-nature]] — if human knowledge is inherently limited and distorting, then studying nature necessarily pushes us further from truth. The , [[fukuoka-what-is-nature]]
-## Merged: Fukuoka's Critique of Western Philosophy
-Fukuoka identified the starting point of modern civilization's error in Descartes' famous statement: "I think, therefore I am." He interpreted this as meaning that nature exists only because a self-reflective "I" exists to perceive it. If I did not exist, there would be no nature. - [[fukuoka-do-nothing-health-philosophy]] - [[fukuoka-natural-foods-movement-america]] - [[fukuoka-road-back-to-nature-overview]] This philosophical stance -- that nature is an object separate from the human subject -- led directly to the development of sciences that serve man, using such science to control and exploit the world.
+- [[fukuoka-disappearance-natural-diet]] -- how [[fukuoka-natural-fertility-cycle]] -- [[fukuoka-learning-about-nature-distances-one-from-nature]] — if human knowledge is inherently limited and distorting, then studying nature necessarily pushes us further from truth. The , [[fukuoka-do-nothing-health-philosophy]] - [[fukuoka-road-back-to-nature-overview]] This philosophical stance -- that nature is an object separate from the human subject -- led directly to the development of sciences that serve man, using such science to control and exploit the world.
 ## Practical Applications
 
 Critique of Western Dietetics and Nutritional Science has a range of practical applications that make it relevant to
@@ -97,8 +90,6 @@ through generations to modern scientific approaches, the evolution continues
 to inform current best practices and research directions.
 
 ## See Also
-- [[doc]]
 - [[det]]
-- [[fukuoka-textdoc-staff-of-life-critique-western-dietetics]]
 - [[fukuoka-critique-western-dietetics]]
 - [[fukuoka-critique-agricultural-science-laws-liebig]]

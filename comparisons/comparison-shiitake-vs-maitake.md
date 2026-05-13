@@ -10,8 +10,7 @@ sources: []
 
 ## Overview
 
-Shiitake (Lentinula edodes) and maitake ([[grifola-frondosa]]) are two of the most
-celebrated [[medicinal-mushrooms]] in East Asian tradition and modern research
+Shiitake (Lentinula edodes) and maitake ([[medicinal-mushrooms]] in East Asian tradition and modern research
 alike.
 Both are white-rot wood decomposers found on hardwood trees, both produce
 powerful
@@ -19,15 +18,7 @@ beta-glucan compounds with immunomodulatory effects, and both have been
 cultivated
 for centuries. Yet they differ substantially in cultivation difficulty,
 preferred
-substrates, [[cotter-mushroom-nutrition-medicinal-compounds]], and culinary character. Shiitake is the
-second
-most cultivated mushroom worldwide and an excellent entry point for beginners,
-while maitake commands premium prices for its flavor and potency but demands
-significantly more skill to produce reliably.
-
-## Shiitake
-
-[[shiitake-mushroom-cultivation]]
+substrates, [[shiitake-mushroom-cultivation]]
 
 Shiitake is native to the forests of East Asia and has been cultivated for
 over
@@ -51,44 +42,11 @@ clinical trials. Lentinan is approved as an adjunct cancer therapy in Japan
 and
 is administered alongside conventional chemotherapy. Shiitake also contains
 lenthionine, which contributes to its distinctive umami flavor and has shown
-[[medicinal-mushroom-antimicrobial-properties]]. Nutritionally, shiitake is rich in B vitamins,
-vitamin
-D (especially when dried with the gills exposed to sunlight), and minerals.
-
-Shiitake is relatively forgiving to cultivate. Colonization of logs takes six
-to eighteen months, but once established, a log can produce for three to five
-years. Sawdust blocks fruit in as little as six weeks after inoculation. The
-species tolerates a range of temperatures, with cool-weather and warm-weather
-strains available. Its primary challenges are maintaining adequate moisture
-during log colonization and competing with wild fungi outdoors.
-
-## Maitake
-
 [[maitake-mushroom-research]]
 
 Maitake, known as "hen of the woods" for its large, rosette-like clusters of
 overlapping fan-shaped caps, is native to temperate hardwood forests across
-[[polypore-fungi-eastern-north-america]], Europe, and Japan. It grows at the base of oak trees
-and
-other hardwoods, where it can reach weights exceeding 20 kilograms in the
-wild.
-Unlike shiitake, maitake is both parasitic and saprophytic, attacking living
-root systems while also decomposing dead wood. It forms a perennial structure
-called a sclerotium within the host tree, producing fruiting bodies from the
-same location year after year.
-
-The signature medicinal compound in maitake is D-fraction, a beta-glucan that
-has shown potent immunomodulatory and anti-tumor activity in preclinical
-studies.
-MD-fraction, a protein-bound polysaccharide, also contributes to maitake's
-medicinal profile. Research has focused on D-fraction's ability to activate
-natural killer cells, stimulate macrophage activity, and enhance the efficacy
-of conventional cancer therapies. Maitake is also valued for its potential to
-regulate blood sugar levels and support cardiovascular health.
-
-Cultivating maitake is considerably more challenging than shiitake. The
-species
-undergoes four distinct morphological stages during [[bloomfield-mushroom-formation-fruiting-body-development-cultivation]],
+[[bloomfield-mushroom-formation-fruiting-body-development-cultivation]],
 each requiring specific environmental conditions. Failure to manage parameters
 at any transition point can arrest development entirely. Maitake also requires
 a soil casing layer for optimal fruiting, adding complexity not needed for

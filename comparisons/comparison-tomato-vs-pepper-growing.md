@@ -15,7 +15,7 @@ type: comparison
 
 # Tomato vs Pepper Growing
 
-Tomatoes and peppers are two of the most popular garden crops, sharing some growing requirements but differing significantly in others. Both belong to the Solanaceae (nightshade) family, yet they demand distinct approaches to planting, care, and harvesting. This guide compares them side by side to help you plan your [[tomato-growing-guide]] and [[season-extension-techniques]] like row covers or wall-o-water protectors, especially for peppers which need warm soil to thrive.
+Tomatoes and peppers are two of the most popular garden crops, sharing some growing requirements but differing significantly in others. Both belong to the Solanaceae (nightshade) family, yet they demand distinct approaches to planting, care, and harvesting. This guide compares them side by side to help you plan your [[season-extension-techniques]] like row covers or wall-o-water protectors, especially for peppers which need warm soil to thrive.
 
 ## Disease and Pest Management
 
@@ -26,12 +26,7 @@ Tomatoes and peppers are two of the most popular garden crops, sharing some grow
 - Select resistant varieties labeled with V, F, N codes
 
 **Common pepper problems:**
-- Blossom end rot ([[knf-calcium-deficiency-symptoms]] or uneven watering)
-- Sunscald on exposed fruit
-- Flower drop in high heat
-- Aphids are a frequent pest, especially on new growth
-
-Both crops benefit from good [[stamets-growing-room-air-circulation-co2-management]], proper spacing, and avoiding overhead watering to minimize disease pressure. Rotate crops each season to prevent soil-borne pathogen buildup.
+- Blossom end rot ([[stamets-growing-room-air-circulation-co2-management]], proper spacing, and avoiding overhead watering to minimize disease pressure. Rotate crops each season to prevent soil-borne pathogen buildup.
 
 ## Harvesting
 
@@ -50,24 +45,7 @@ Grow **tomatoes** if you want high yields, continuous harvests, and versatile fr
 
 Grow **peppers** if you have limited space, prefer lower-maintenance plants, or want to explore the wide world of heat levels and flavors. They are excellent candidates for container growing (5+ gallon minimum) and pair well with tomatoes in the garden layout.
 
-Many gardeners grow both successfully, and [[comparison-companion-planting-reference-vs-jadam-monoculture-critique]] tomatoes alongside peppers and [[bean-growing-guide]] can create a productive and diverse garden bed. Both crops benefit from [[comparison-crop-rotation-vs-cover-cropping]] to prevent soil-borne disease buildup.
-## Practical Considerations
-
-When working with Tomato vs Pepper Growing, several practical factors should be
-carefully considered to achieve optimal results. These include
-the specific conditions of the implementation context, available
-resources, timing requirements, and the interactions between this
-topic and other elements of the broader system. A holistic view
-that considers these interconnections produces better outcomes.
-
-Environmental conditions such as temperature, moisture, and
-seasonal patterns significantly influence results. Monitoring these
-variables and adapting practices accordingly is essential for success.
-The most effective practitioners develop keen observation skills and
-respond flexibly to changing conditions rather than following rigid
-protocols regardless of circumstances or local variation.
-
-[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
+Many gardeners grow both successfully, and [[bean-growing-guide]] can create a productive and diverse garden bed. Both crops benefit from [[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.

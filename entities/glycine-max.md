@@ -38,17 +38,7 @@ created: 2026-04-28
 
 Domesticated from the wild progenitor *Glycine soja* in East Asia approximately 5,000–9,000 years ago, soybean has become a cornerstone of global agriculture. The crop provides vegetable oil, protein meal, soy milk, tofu, tempeh, miso, natto, and numerous industrial products.
 
-Soybean fixes atmospheric nitrogen through symbiosis with *Bradyrhizobium japonicum*, contributing 50–300 kg N/ha annually. This nitrogen-fixing capacity, combined with high [[dighton-fungal-biomass-production-aquatic-ecosystems]], makes it valuable as a cover crop and green manure in rotation systems.
-
-## Taxonomy and Morphology
-
-**Classification:** Plantae → Tracheophyta → Magnoliopsida → Fabales → Fabaceae → Faboideae → *Glycine* → *G. max*.
-
-**Authority:** (L.) Merr., 1917. Basionym: *Phaseolus max* L. The wild ancestor is *Glycine soja* Sieb. & Zucc., a trailing vine native to East Asia.
-
-**Growth habit:** Erect to semi-erect annual herb, 20–180 cm tall depending on cultivar and growing conditions. Determinate types cease [[cannabis-vegetative-growth-stage]] at flowering, while indeterminate types continue vegetative and [[knf-reproductive-growth-stage]] simultaneously.
-
-**Leaves:** Trifoliate, with ovate to lanceolate leaflets 6–15 cm long. Petioles are long and slender. Leaves are pubescent with both simple and hooked trichomes, a trait influencing [[fukuoka-vegetable-disease-insect-resistance]].
+Soybean fixes atmospheric nitrogen through symbiosis with *Bradyrhizobium japonicum*, contributing 50–300 kg N/ha annually. This nitrogen-fixing capacity, combined with high [[cannabis-vegetative-growth-stage]] at flowering, while indeterminate types continue vegetative and [[fukuoka-vegetable-disease-insect-resistance]].
 
 **Flowers:** Small, papilionaceous, 5–7 mm long, white to purple, borne in short axillary racemes. Flowers open in the morning and close by afternoon. Soybean is predominantly self-pollinating, with natural outcrossing rates below 1%.
 
@@ -60,30 +50,85 @@ Soybean fixes atmospheric nitrogen through symbiosis with *Bradyrhizobium japoni
 
 Soybean is cultivated from 50°N to 40°S, with major production concentrated in the United States (33% of global production), Brazil (30%), Argentina (12%), China (4%), and India (3%).
 
-The crop is adapted to a wide range of soils but performs best in well-drained, fertile loams with pH 5.5–7.0 and high [[hamilton-composting-and-organic-matter-management]]. It is moderately drought-tolerant but requires adequate moisture during flowering and pod fill for optimal yield.
-
-Optimal temperatures for growth range from 20–30°C, with sensitivity to both frost and extreme heat. Photoperiod sensitivity strongly influences flowering time and limits cultivar adaptation to relatively narrow latitude bands.
-
-## Nutritional Composition
-
-Soybean seeds contain approximately 35–40% protein and 18–22% oil on a dry weight basis, making them unique among major crops for their combined high protein and oil content.
-
-**Protein quality:** Soy protein is considered a complete protein, containing adequate amounts of all nine essential amino acids for human nutrition. It is particularly rich in lysine, which is limiting in cereal proteins, but relatively low in methionine.
-
-**Oil composition:** Soybean oil is approximately 15% saturated, 23% monounsaturated, and 58% polyunsaturated fatty acids. It is one of the richest natural sources of linoleic acid (C18:2) and contains 5–8% α-linolenic acid (C18:3, an omega-3 fatty acid).
-
-**Isoflavones:** Soybeans contain significant amounts of isoflavone phytoestrogens, primarily genistein, daidzein, and glycitein, at concentrations of 1–4 mg/g dry weight. These compounds have been extensively studied for their effects on cardiovascular health, bone density, and menopausal symptoms.
-
-**Anti-nutritional factors:** Raw soybeans contain trypsin inhibitors, lectins, and phytic acid that reduce protein digestibility and mineral bioavailability. These are inactivated by heat processing (toasting, extrusion, boiling).
-
-## Permaculture and Agroforestry Applications
-
-In permaculture systems, soybeans serve as a warm-season nitrogen-fixing cover crop that produces a harvestable food crop while improving soil. Their relatively short growing season (90–150 days) allows integration into diverse rotation schemes.
-
-Soybeans are effective as a [[holzer-green-manure-crop-compendium]] when incorporated at flowering, contributing both fixed nitrogen [[mollison-humus-and-organic-matter-in-soils]]. The high C:N ratio of mature soybean residues requires careful management to avoid temporary nitrogen immobilization during decomposition.
-
-As a companion plant, soybeans benefit neighboring crops through root exudation of fixed nitrogen. They are commonly intercropped with maize in tropical systems, where the maize provides [[comparison-silicon-vs-calcium-in-plant-defense-and-structural-support]] and the soybeans fix nitrogen for both crops.
+The crop is adapted to a wide range of soils but performs best in well-drained, fertile loams with pH 5.5–7.0 and high [[holzer-green-manure-crop-compendium]] when incorporated at flowering, contributing both fixed nitrogen [[comparison-silicon-vs-calcium-in-plant-defense-and-structural-support]] and the soybeans fix nitrogen for both crops.
 
 Soybean straw and hulls provide mulch material for garden beds and food forest understories. The residue decomposes readily and contributes to [[humus-formation-and-soil-organic-matter]] accumulation in no-till systems.
 
 ## Cultivation
+
+## Overview
+
+Glycine Max represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish glycine max
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving glycine extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Glycine Max finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for glycine max. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+glycine max and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Glycine Max has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of glycine max into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.

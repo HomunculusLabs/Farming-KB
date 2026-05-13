@@ -11,18 +11,7 @@ tags: [holzer, water]
 
 # Holzer Water Management (Ponds and Springs)
 
-Water management is a foundational principle of [[holzer-climate-zone-microclimate-creation]].
-- **Biodiversity**: Innumerable useful creatures find habitat in and around water features.
-
-## Site Assessment for Water Features
-
-When planning ponds or water gardens, Holzer assesses:
-
-1. **Soil conditions**: Determines construction method -- coarse/stony soil requires separation techniques; loam soils seal naturally but need wall stabilisation
-2. **Topography**: Critical for pond stability and water flow management. Building the pond properly prevents leaking or sliding.
-3. **Existing water**: Natural springs, wet areas, and groundwater are major advantages. Naturally occurring water is a real advantage.
-4. **Drainage basins**: Understanding where water naturally collects and flows
-5. **Purpose**: Fish/crayfish ponds have different requirements from water gardens for plants or [[comparison-natural-swimming-pool-vs-conventional-pool]] pools
+Water management is a foundational principle of [[comparison-natural-swimming-pool-vs-conventional-pool]] pools
 
 ## Working with Different Soil Types
 
@@ -45,8 +34,7 @@ When planning ponds or water gardens, Holzer assesses:
 
 ### Retaining Water
 
-- [[holzer-raised-bed-techniques-hugelkultur]] absorb water over large areas
-- Hollows between [[comparison-raised-beds-vs-hugelkultur]] store water
+- [[comparison-raised-beds-vs-hugelkultur]] store water
 - In dry areas, water must never be drained away -- land should be designed to retain it
 - In wet areas, drainage prevents acidification of raised beds
 - Ditches store surface water and runoff, letting moisture seep into surrounding soil
@@ -60,30 +48,7 @@ When planning ponds or water gardens, Holzer assesses:
 
 ## Avoiding Drainage
 
-Holzer strongly advises against draining wetlands. Instead, he cultivates plants suited to damp conditions: orchids, aquatic plants, and marsh plants. A [[holzer-aquaculture-pond-construction]]
-- [[holzer-climate-zone-microclimate-creation]]
-- [[sepp-holzer-method]]
-## Practical Considerations
-
-Successful implementation of Holzer Water Management (Ponds and Springs) requires attention to
-several practical factors including environmental conditions,
-resource availability, and timing. Careful monitoring and
-adaptive management help optimize outcomes across varying
-conditions. Integration with other system elements enhances
-overall effectiveness and creates beneficial synergies that
-improve resilience and productivity over time.
-
-## Future Directions
-
-Continued development in this area promises new insights and
-improved approaches for both research and practical application.
-Cross-disciplinary collaboration and advances in analytical
-methods create opportunities for innovation and refinement.
-Recommended resources include current literature, practitioner
-communities, and systematic experimentation to build expertise.
-
-## See Also
-
+Holzer strongly advises against draining wetlands. Instead, he cultivates plants suited to damp conditions: orchids, aquatic plants, and marsh plants. A [[holzer-climate-zone-microclimate-creation]]
 - [[holzer-vole-management-philosophy]]
 
 ## Practical Applications
@@ -115,8 +80,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[water-management]]
 - [[det]]
-- [[hugelkultur]]
 - [[holzer-water-landscapes-retention]]
 - [[holzer-cattle-poultry-management]]

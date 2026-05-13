@@ -65,14 +65,7 @@ organisms that share a similar position in the flow of energy and nutrients
 through the ecosystem. The primary trophic levels, moving from the base to the
 top of the food web, are bacteria, fungi, protozoa, nematodes,
 microarthropods, macroarthropods, and earthworms. Each level plays a distinct
-and essential role in nutrient cycling, [[aact-disease-suppression-mechanisms-ingham]], and soil
-structure development.
-
-Bacteria are the smallest and most numerous organisms in the soil, with
-populations in healthy soil ranging from hundreds of millions to billions per
-gram. They are the primary decomposers of simple organic compounds such as
-sugars, proteins, and amino acids, and they play a central role in the
-nitrogen cycle through processes including [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]], nitrification,
+and essential role in nutrient cycling, [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]], nitrification,
 and denitrification. Bacteria-dominated soils are characteristic of
 disturbed or early-succession environments and are generally preferred by
 annual crops and weeds, which have evolved to take advantage of the rapid
@@ -111,26 +104,10 @@ fungal hyphae, regulating fungal populations and cycling nutrients from
 fungal biomass. Predatory nematodes feed on other nematodes and small
 ## See Also
 
-[[bacterial-vs-fungal-soil]] - [[query-what-is-the-difference-between-bacterial-and-fungal-dominant-soil]] soil dynamics
-[[bacterial-to-fungal-soil-succession]] - Soil succession from bacterial to
-fungal
-[[arbuscular-mycorrhizal-networks]] - [[comparison-soil-food-web-vs-arbuscular-mycorrhizal-fungi]] fungal networks
-[[common-mycorrhizal-networks]] - Common [[dighton-mycorrhizal-networks-carbon-transfer]] between plants
-[[fungal-glomalin-and-soil-carbon]] - Glomalin and soil carbon storage
-[[compost-biology-soil-food-web-inoculation]] - Compost as soil food web
-inoculant
+[[query-what-is-the-difference-between-bacterial-and-fungal-dominant-soil]] soil dynamics
+[[arbuscular-mycorrhizal-networks]] - [[common-mycorrhizal-networks]] - Common [[fungal-glomalin-and-soil-carbon]] - Glomalin and soil carbon storage
 [[compost-tea-aact]] - Actively aerated compost tea
-[[aact-nematode-protozoa-management-ingham]] - Nematode and protozoa management
-
-## References
-
-- Lowenfels, Jeff, and Wayne Lewis. "Teaming with Microbes: The Organic
-  Gardener's Guide to the Soil Food Web." Timber Press, 2010.
-- Ingham, Elaine R. "The Soil Food Web." Soil Foodweb Inc. publications and
-  course materials.
-- Singh, Harsh. "Mycorrhizal Fungi: A Boon for Sustainable Agriculture."
-  Springer, 2017.
-- Dighton, John. "Fungi in [[fungal-ecosystem-processes-overview]]." Marcel Dekker, 2003.
+[[fungal-ecosystem-processes-overview]]." Marcel Dekker, 2003.
 - Lowenfels, Jeff, and Wayne Lewis. "Teaming with Microbes" (expanded edition).
   Timber Press, 2021.
 ## Fungal Biodiversity Soil Habitats

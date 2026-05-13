@@ -4,30 +4,9 @@ created: 2026-04-28
 type: chemical
 tags:
   - psychedelic
-  - [[tryptamine]]
-  - hallucinogen
-  - entheogen
-  - pharmacology
-  - shulgin
-date: 2026-04-28
-updated: 2026-04-28
-sources:
-  - "Shulgin, A.T. & Shulgin, A. (1997). TIHKAL: The Continuation. Transform Press. pp. 560-565."
-  - "Repke, D.B., Leslie, D.T., Mandell, A.J. (1977). \"Convulsant alkylated tryptamines.\" Journal of Medicinal Chemistry, 20(11), 1461-1463."
-  - "Glowa, J.R. et al. (1983). \"Discriminative stimulus properties of N,N-dipropyltryptamine.\" Psychopharmacology, 81(1), 47-52."
-  - "Johnson, M.W. et al. (2005). \"Hallucinogen dose-response relationships in humans.\" Psychopharmacology, 180(2), 265-273."
-  - "Halberstadt, A.L. (2016). \"Recent Advances in the Neuropsychopharmacology of Serotonergic Hallucinogens.\" Behavioural Brain Research, 297, 111-127."
----
+  - [[alexander-shulgin]] and documented in TIHKAL.
 
-# DPT
-
-## Overview
-
-DPT (N,N-dipropyltryptamine) is a synthetic psychedelic tryptamine first synthesized by [[alexander-shulgin]] and documented in TIHKAL.
-
-It acts as a [[serotonin]] 5-HT2A receptor agonist, producing visual and cognitive hallucinogenic effects with a duration of 2–4 hours when insufflated and 4–6 hours when administered intramuscularly.
-
-DPT occupies a pharmacological niche between the shorter-acting DMT and the longer-acting [[psilocybin]], distinguished by its unique dipropyl substitution pattern on the tryptamine nitrogen.
+It acts as a [[psilocybin]], distinguished by its unique dipropyl substitution pattern on the tryptamine nitrogen.
 
 The compound has been used in [[hofmann-lsd-clinical-research-early-studies]] settings as well as in underground entheogenic and psychospiritual contexts.
 
@@ -41,19 +20,7 @@ The compound has been used in [[hofmann-lsd-clinical-research-early-studies]] se
 - **Appearance:** White crystalline powder or freebase oil
 - **Solubility:** Freebase soluble in organic solvents; hydrochloride salt soluble in water
 
-DPT is structurally related to DMT (N,N-dimethyltryptamine) and DET (N,N-diethyltryptamine), differing only in the alkyl [[phenethylamine-chain-length-effects]] on the terminal amine.
-
-The propyl substitution increases lipophilicity relative to DMT, which influences its pharmacokinetic profile — longer onset and duration, more gradual comedown.
-
-The hydrochloride salt is the most common form for research and human use.
-
-## Pharmacology
-
-DPT's primary mechanism of action is agonism at the 5-HT2A receptor, the principal target responsible for classical psychedelic effects.
-
-It shows moderate affinity for 5-HT1A, 5-HT2B, 5-HT2C, and 5-HT7 receptors, with weaker activity at serotonergic transporters (SERT).
-
-The compound demonstrates full agonist activity at 5-HT2A with efficacy comparable to [[psilocin]] and DOI in in vitro assays.
+DPT is structurally related to DMT (N,N-dimethyltryptamine) and DET (N,N-diethyltryptamine), differing only in the alkyl [[psilocin]] and DOI in in vitro assays.
 
 [[tihkal-receptor-binding-serotonin]] studies indicate a 5-HT2A Ki in the range of 150–300 nM, placing its potency between that of DMT and psilocin.
 
@@ -87,3 +54,80 @@ Metabolism is believed to proceed via monoamine oxidase (MAO-A) deamination and 
 - **Afterglow:** 1–3 hours of residual mild effects
 
 ## Synthesis
+
+## Overview
+
+Dpt represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish dpt
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving dpt extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Dpt finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for dpt. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+dpt and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Dpt has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of dpt into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.

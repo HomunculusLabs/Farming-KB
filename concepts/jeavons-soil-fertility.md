@@ -29,8 +29,7 @@ Humus is the key to sustainable soil fertility. It:
 - Provides nutrients in a form plants can use
 - Improves soil structure (aeration, water retention, drainage)
 - Supports beneficial microbial life
-- Buffers pH and [[ph-and-nutrient-availability-garden-soils]]
-- Increases [[mollison-designers-tropical-soils-and-cation-exchange-management]] capacity (CEC)
+- Buffers pH and [[mollison-designers-tropical-soils-and-cation-exchange-management]] capacity (CEC)
 
 ### Target Humus Level
 GROW BIOINTENSIVE aims to build soil humus to approximately **6%** through regular compost applications.
@@ -51,16 +50,7 @@ Most agricultural systems are open-loop: nutrients are removed with harvests and
 Compost provides balanced nutrition in slow-release form:
 
 ### Major Nutrients
-- **Nitrogen (N):** From compost, legume cover crops, and [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]]
-- **Phosphorus (P):** From compost; rock phosphate can supplement if needed
-- **Potassium (K):** From compost; wood ash can supplement in small amounts
-
-### Minor Nutrients and Trace Minerals
-- Calcium, magnesium, sulfur, iron, manganese, zinc, copper, boron, molybdenum
-- All provided in adequate amounts by well-made compost from diverse materials
-
-### The Nutrient Release Pattern
-Compost provides nutrients gradually over the [[savory-growing-season-and-non-growing-season-management]], reducing leaching losses and matching plant uptake patterns better than synthetic fertilizers.
+- **Nitrogen (N):** From compost, legume cover crops, and [[savory-growing-season-and-non-growing-season-management]], reducing leaching losses and matching plant uptake patterns better than synthetic fertilizers.
 
 ## Biological vs. Chemical Fertility
 
@@ -81,45 +71,80 @@ Testing soil helps track progress and identify problems:
 1. **pH** (target 6.0-7.0 for most vegetables)
 2. **Nitrogen, Phosphorus, Potassium** levels
 3. **Calcium and Magnesium** ratio
-4. **[[hamilton-composting-and-organic-matter-management]] / humus** percentage
-5. **Trace minerals** if problems are suspected
+4. **[[composting]]
+- [[cover-crop]]
+- [[building-soil-fertility-long-term]]
 
-### When to Test
-- Before starting a new garden
-- Every 1-3 years once established
-- When plant growth shows unexplained problems
+## Overview
+
+Jeavons Soil Fertility represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish jeavons soil fertility
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving jeavons extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
 
 ## Practical Applications
 
-The principles and techniques discussed here have wide-ranging applications
-across multiple disciplines and contexts. Practitioners and researchers
-continue to explore new ways to integrate these concepts into modern practice,
-adapting traditional knowledge to contemporary challenges and opportunities.
+Jeavons Soil Fertility finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
 
-## Key Considerations
+## Management and Implementation
 
-Several important factors influence the effectiveness and outcomes described
-in this topic. Understanding these considerations helps practitioners make
-informed decisions and avoid common pitfalls. Environmental conditions,
-timing, and material selection all play critical roles.
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for jeavons soil fertility. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+jeavons soil fertility and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
 
 ## Historical Context
 
-The historical development of this subject reflects centuries of accumulated
-knowledge and practical experience. From traditional methods passed down
-through generations to modern scientific approaches, the evolution continues
-to inform current best practices and research directions.
+Jeavons Soil Fertility has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
 
-## Common Challenges
+## Integration Strategies
 
-Practitioners frequently encounter several challenges when working with
-these concepts. Climate variability, resource limitations, and knowledge
-gaps can all affect outcomes. Addressing these challenges requires patience,
-observation, and a willingness to adapt approaches based on results.
+Successful integration of jeavons soil fertility into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
 
-## See Also
-- [[composting]]
-- [[cover-crops]]
-- [[cover-crop]]
-- [[fukuoka-soil-fertility-straw-mulch]]
-- [[building-soil-fertility-long-term]]
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource

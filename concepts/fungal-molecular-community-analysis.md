@@ -16,50 +16,19 @@ type: concept
 
 # Fungal Molecular Community Analysis
 
-Molecular methods have revolutionized the study of [[air-pollution-fungal-community-responses]] structure
-and diversity, overcoming the severe limitations of traditional
-culture-dependent approaches. It is well documented that, at best, perhaps
-only 5% of environmental fungi can be cultivated, meaning that reliance on
-morphological and physiological identification of cultivable species will
-never elucidate the inherent complexities of community dynamics. Culture-
-independent approaches are now essential tools for characterizing fungal
-communities in soils, rocks, plant roots, and other environmental substrates.
-
-## Limitations of Culture-Dependent Methods
-
-Traditional cultivation-based methods for assessing [[arbuscular-mycorrhizal-fungal-diversity-patterns-distribution]] are
+Molecular methods have revolutionized the study of [[arbuscular-mycorrhizal-fungal-diversity-patterns-distribution]] are
 generally recognized as insufficient because:
 
 - Many environmental species are refractory to laboratory cultivation,
-  including some biotrophs (rust and [[endolithic-fungi-rock-colonizing-communities]] and epilithic
-[[biodiversity-of-fungi-soil-fungal-communities-agriculture]]. Lithic fungal DGGE profiles generated from DNA extracted
+  including some biotrophs (rust and [[biodiversity-of-fungi-soil-fungal-communities-agriculture]]. Lithic fungal DGGE profiles generated from DNA extracted
 directly from sandstone demonstrated considerable variations in banding
 patterns between samples, suggesting that rock-dwelling fungal populations
 are highly diverse and that selection of indigenous populations is a complex
 process.
 
 ## See Also
-- [[endolithic-fungi-rock-colonizing-communities]]
 - [[gadd-fungal-ecology-saprotrophs]]
-- [[singh-fungal-community-analysis-molecular-methods]]
-
-## Practical Considerations
-
-When working with Fungal Molecular Community Analysis, several practical factors should be
-carefully considered to achieve optimal results. These include
-the specific conditions of the implementation context, available
-resources, timing requirements, and the interactions between this
-topic and other elements of the broader system. A holistic view
-that considers these interconnections produces better outcomes.
-
-Environmental conditions such as temperature, moisture, and
-seasonal patterns significantly influence results. Monitoring these
-variables and adapting practices accordingly is essential for success.
-The most effective practitioners develop keen observation skills and
-respond flexibly to changing conditions rather than following rigid
-protocols regardless of circumstances or local variation.
-
-[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
+- [[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -111,8 +80,6 @@ through generations to modern scientific approaches, the evolution continues
 to inform current best practices and research directions.
 
 ## See Also
-- [[doc]]
 - [[mycorrhiza]]
-- [[singh-fungal-community-analysis-molecular-methods]]
 - [[fungal-diversity-indices-community-analysis]]
 - [[rhizosphere-fungal-community-analysis-rrna-rdna]]

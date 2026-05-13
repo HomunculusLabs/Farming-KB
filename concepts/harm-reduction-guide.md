@@ -11,7 +11,7 @@ sources: []
 
 ## Overview
 
-Harm reduction is a set of practical strategies and principles aimed at reducing the negative consequences associated with psychoactive substance use, without necessarily requiring abstinence. In the context of psychedelics and entheogens, harm reduction encompasses drug checking, dosing [[arbuscular-mycorrhizal-inoculum-production-best-practices]], [[lsd-set-and-setting-framework]] optimization, contraindication screening, and overdose response. These practices can meaningfully reduce risks while respecting individual autonomy.
+Harm reduction is a set of practical strategies and principles aimed at reducing the negative consequences associated with psychoactive substance use, without necessarily requiring abstinence. In the context of psychedelics and entheogens, harm reduction encompasses drug checking, dosing best practices, set and setting optimization, contraindication screening, and overdose response. These practices can meaningfully reduce risks while respecting individual autonomy.
 
 ## Core Principles
 
@@ -27,9 +27,9 @@ Harm reduction is a set of practical strategies and principles aimed at reducing
 
 Reagent testing uses chemical solutions that change color in the presence of specific compound classes. It cannot identify every substance but can detect the presence or absence of expected compounds and flag dangerous adulterants.
 
-Common reagents for [[psychedelic-harm-reduction]]:
+Common reagents for [[psychedelic-harm-reduction|psychedelic harm reduction]]:
 
-- [[ehrlich-reagent-tryptamine-detection-tlc-mycology]]: Turns purple with indoles (DMT, psilocybin, LSD)
+- Ehrlich reagent: Turns purple with indoles (DMT, psilocybin, LSD)
 - Marquis reagent: Turns black/dark with MDMA; orange/brown with amphetamines
 - Hofmann reagent: Specific to LSD and other lysergamides
 - Mecke reagent: Detects MDMA, MDA, and related compounds
@@ -54,7 +54,7 @@ The gold standard for drug checking is full laboratory analysis via GC/MS (gas c
 
 ### Start Low, Go Slow
 
-The single most important harm reduction principle. Begin with a sub-threshold or [[ultra-low-dose-brassinosteroid-response-psilocybe-cubensis]] and wait the full duration before considering redosing. This applies regardless of prior experience — potency varies between batches, and individual sensitivity changes over time.
+The single most important harm reduction principle. Begin with a sub-threshold or low dose and wait the full duration before considering redosing. This applies regardless of prior experience — potency varies between batches, and individual sensitivity changes over time.
 
 ### Know Your Substance
 
@@ -77,7 +77,7 @@ The single most important harm reduction principle. Begin with a sub-threshold o
 
 ## Set and Setting
 
-Set (mindset) and setting (environment) are the two most influential factors in determining the character and safety of a [[leary-psychedelic-experience-bardo-mapping]].
+Set (mindset) and setting (environment) are the two most influential factors in determining the character and safety of a psychedelic experience.
 
 ### Set (Mindset)
 
@@ -140,10 +140,11 @@ Call emergency services if:
 
 - Chest pain, difficulty breathing, or signs of hypertensive crisis
 - Seizures
-- Loss of consciousness lasting more than a few minutes
-- Severe hyperthermia (especially with MDMA)
-- Signs of serotonin syndrome (agitation, confusion, rapid heartbeat, high blood pressure, muscle rigidity, sweating)
 
-Be honest with medical professionals about what substances were taken. Most jurisdictions have Good Samaritan laws that protect people seeking medical help from drug-related charges.
+## See Also
 
-## Resources
+- [[emcdda-hallucinogenic-mushroom-harm-reduction]]
+- [[psychedelic-harm-reduction-philosophy]]
+- [[health-risks-and-harm-reduction-for-hallucinogenic-mushroom-use]]
+- [[adverse-effects-and-harm-reduction-psilocybin]]
+- [[powell-psilocybin-harm-reduction]]

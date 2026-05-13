@@ -10,13 +10,11 @@ tags: [reference]
 
 # Ololiuqui
 
-Ololiuqui is the Aztec name for the seeds of [[plants-of-the-gods-turbina-corymbosa-ololiuqui]] (syn.
-Rivea corymbosa), a [[golden-guide-morning-glory-and-ololiuqui]] vine native to Mexico. Among the
+Ololiuqui is the Aztec name for the seeds of [[golden-guide-morning-glory-and-ololiuqui]] vine native to Mexico. Among the
 most sacred psychoactive plants of Mesoamerica, ololiuqui seeds were
 revered by the Aztecs and continue to be used today by indigenous
 communities in Oaxaca for divination and healing rituals. The seeds
 contain ergoline alkaloids chemically related to those found in the
-[[teonanacatl-history]]) and peyote (see
 [[morning-glory-entheogens]].
 
 ## Traditional Use
@@ -38,13 +36,7 @@ consumption of the seed preparation.
 The experience is described as producing a state of lassitude and
 drowsiness, followed by dream-like visions that are often interpreted
 by the curandero for the benefit of the patient or community. The
-visions may include encounters with [[metzner-spirit-beings-multiple-realities-entheogens]], glimpses of future
-events, or symbolic imagery that requires expert interpretation.
-
-## Chemistry and Pharmacology
-
-The psychoactive constituents of ololiuqui are indole alkaloids
-closely related to those found in [[albert-hofmann-eleusinian-potion-analysis]] in
+visions may include encounters with [[albert-hofmann-eleusinian-potion-analysis]] in
 1960, when he isolated [[ergot-and-lysergic-acid-history]] amide and lysergic acid
 hydroxyethylamide from the seeds. This discovery was significant
 because it demonstrated that ergoline alkaloids were not exclusive to

@@ -78,11 +78,7 @@ The species has received the Royal Horticultural Society's Award of Garden Merit
 
 ## See Also
 
-- [[crassula-ovata]]
 - [[echeveria-elegans]]
-- [[kalanchoe-blossfeldiana]]
 - [[kalanchoe-tomentosa]]
-- [[aeonium-arboreum]]
 - [[kalanchoe-orgyalis]]
-- [[aloe-vera]]
 - [[senecio-articulatus]]

@@ -40,7 +40,7 @@ About one-half to one-third of the total terraced area should be devoted to mulc
 - **Terrace side-borders**
 - **Outer faces and crowns of bunds** (walls)
 
-This approach has sustained terrace systems for up to 5,000 years, as demonstrated by the wet terrace cultures of the Ifugao people of the Philippines.
+This approach has sustained terrace systems for up to 5,000 years, as demonstrated by the wet terrace cultures of the [[ifugao-people]] of the Philippines.
 
 ## Specific Growing Situations on Terraced Lands
 
@@ -59,13 +59,13 @@ Crops suited to dry terrace cultivation include:
 
 - **Grains:** Millet (summer), dryland rice (spring-summer), barley, wheat, rye (winter), amaranth (summer), quinoa (summer), rape/mustard (winter oils)
 - **Legumes:** Lentils, peas, grams, and pulses as intercrops and nitrogen fixers
-- **Fodders:** Tagasaste, banna grass, comfrey, Leucaena, crop wastes and straw
+- **Fodders:** Tagasaste, [[banna-grass]], comfrey, Leucaena, crop wastes and straw
 - **Garden crops near homes:** Banana, papaya, melons, chilies, peppers, cucurbits, maize, beans, sugar cane, cultivated greens, edible chrysanthemum, rosella, moringa, coconut, and mango
 - **Vine crops off bund faces:** Chayote, cucurbits, beans, passionfruit, kiwifruit
 
 ## Slope Stability with Grass Strips
 
-Contour strips of [[vetiver-grass]] (*Vetiveria zizanioides*), lemongrass (*[[cymbopogon-citratus]]*), and banna grass (*Pennisetum*) combined with tree legumes can replace contour ridges entirely. These strips trap soil particles, provide mulch for trees and intercrops, and represent a cost-effective way to "terrace" even on steep slopes. Both Vetiver and lemongrass clump readily, produce few seeds (reducing invasiveness), and provide substantial mulch material.
+Contour strips of [[cymbopogon-citratus]]*), and banna grass (*Pennisetum*) combined with tree legumes can replace contour ridges entirely. These strips trap soil particles, provide mulch for trees and intercrops, and represent a cost-effective way to "terrace" even on steep slopes. Both Vetiver and lemongrass clump readily, produce few seeds (reducing invasiveness), and provide substantial mulch material.
 
 ## Essentials and Variations
 
@@ -82,6 +82,5 @@ Key considerations for successful terrace systems include:
 - Border drains to keep soil dry for mid-season crop rotation
 ## See also
 
-- [[terrace-design-and-construction]]
 - [[soil-erosion-control]]
 - [[slope-analysis-in-permaculture]]

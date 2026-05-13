@@ -29,11 +29,7 @@ and sulfur simultaneously. It does not dissolve easily in water.
 ### Ingredients
 - Sul-Po-Mag powder: 1 part by weight (10 kg per 100 L)
 - Water: 10 parts by weight
-- [[leaf-mold-composting]]: a handful
-
-### Method
-1. Add potassium sulfate to water at 1:10 ratio
-2. Add [[comparison-leaf-mold-composting-vs-hot-composting-method]], close lid
+- [[comparison-leaf-mold-composting-vs-hot-composting-method]], close lid
 3. Stir occasionally (dissolves more easily than Sul-Po-Mag)
 4. Time: **3+ months**
 
@@ -52,47 +48,10 @@ The simplest and most accessible potassium source.
 3. Soak for **15 days**
 4. Potassium and other minerals leach from ash into water
 5. Remove sack, use the liquid
-6. This is the traditional Korean [[what-natural-farming-method-should-i-use]] for potassium
-
-## Application
-
-| Parameter | Value |
-|-----------|-------|
-| Dilution | x50 to x500 |
-| When to apply | Mid to late growth |
-| How to apply | Soil or foliar |
-| What to expect | Larger fruit size |
-
-## Choosing a Method
-
-| Method | Pros | Cons |
-|--------|------|------|
-| Sul-Po-Mag | Also provides Mg and S | Hardens if not stirred |
-| Potassium sulfate | Dissolves easily | Only K and S |
-| Wood ash | Free, simple | Variable composition |
-
-## Related
-
-- [[jadam-calcium-fertilizer]] -- calcium for growth control
-- [[jadam-element-function-reference]] -- potassium functions
+6. This is the traditional Korean [[jadam-calcium-fertilizer]] -- calcium for growth control
 - [[jadam-leaf-mold-as-ideal-soil]]
-- [[liquid-fertilizer-from-weeds]]
-
-## Historical Context
-- These approaches have evolved through decades of research and practical application.
-- Traditional knowledge systems have contributed significantly to modern understanding.
-- Scientific inquiry has progressively validated and refined historical practices.
-
-## Mechanisms and Processes
-- Underlying biological and ecological mechanisms drive observed outcomes.
-- Multiple interacting factors contribute to system-level effects.
-- Understanding these processes enables more targeted and effective interventions.
-
-## See Also
 - [[jadam-liquid-fertilizer-philosophy]]
-- [[jadam-calcium-phosphate-fertilizer]]
 - [[jadam-fertilizer-program-design]]
-- [[jadam-nutritional-balance-fertilizer]]
 - [[jadam-wild-grass-liquid-fertilizer]]
 
 ## Practical Applications
@@ -117,8 +76,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[composting]]
 - [[solomon-chemical-fertilizer-incomplete-potassium-yield-tradeoff]]
-- [[jadam-liquid-fertilizer-nutritional-perspective]]
 - [[jadam-liquid-fertilizer-philosophy]]
 - [[jadam-calcium-phosphate-fertilizer]]

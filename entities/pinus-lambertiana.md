@@ -54,7 +54,7 @@ The species occurs across a broad elevational band, from approximately 300 meter
 
 Sugar pine thrives on deep, well-drained soils of volcanic or granitic origin. It is moderately shade-tolerant in youth, becoming increasingly intolerant as it matures.
 
-The species is a key component of mixed conifer forests, commonly associating with [[pseudotsuga-menziesii]], [[abies-concolor]], [[calocedrus-decurrens]], and [[pinus-ponderosa]]. It often serves as the dominant emergent tree in these stands.
+The species is a key component of mixed conifer forests, commonly associating with [[abies-concolor]], [[pinus-ponderosa]]. It often serves as the dominant emergent tree in these stands.
 
 Fire is essential for sugar pine regeneration. Moderate-severity surface fires create suitable seedbeds, reduce competition, and thin understory fuels that could otherwise carry lethal crown fires into mature tree crowns.
 
@@ -68,15 +68,7 @@ Sugar pine produces premium soft lumber that is valued for its workability, ligh
 
 Historically, sugar pine was the preferred species for window sashes, doors, and interior millwork in the western United States. The wide, clear boards available from old-growth trees were particularly valued.
 
-Sugar pine resin was an important resource for Native American communities throughout California and the [[psilocybin-north-america-pacific-northwest]]. The crystallized resin, known as "sugar," was collected from bark wounds and consumed as food and medicine.
-
-The large seeds of sugar pine are a critical food resource for wildlife. Clark's nutcrackers harvest and cache thousands of seeds each autumn, playing a vital role in forest regeneration.
-
-Douglas squirrels, chipmunks, black bears, and numerous bird species also depend on sugar pine seeds. The protein-rich seeds are especially important for wildlife preparing for winter.
-
-The species supports diverse fungal communities, including edible mushrooms such as **[[tricholoma-murrillianum]]** (American matsutake) that form [[plants-without-mycorrhizal-associations]] with sugar pine roots.
-
-White pine blister rust (*Cronartium ribicola*) has caused significant mortality in sugar pine populations since its introduction in the early [[coleman-louis-savier-twentieth-century-maraicher]]. Mortality rates vary by location but can exceed 50% in heavily affected stands.
+Sugar pine resin was an important resource for Native American communities throughout California and the [[tricholoma-murrillianum]]** (American matsutake) that form [[coleman-louis-savier-twentieth-century-maraicher]]. Mortality rates vary by location but can exceed 50% in heavily affected stands.
 
 ## Cultivation and Conservation
 

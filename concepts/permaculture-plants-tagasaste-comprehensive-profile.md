@@ -9,11 +9,9 @@ tags: [permaculture-plants, tagasaste, tree-lucerne, nitrogen-fixing, pioneer, f
 
 Tagasaste, also known as tree lucerne, is a nitrogen-fixing leguminous tree
 native to the Canary Islands and one of the most useful pioneer species in
-[[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]]. It serves multiple functions simultaneously: stock feed,
-bee forage, nurse crop, [[free-range-poultry-forage-design-mollison]], firewood, and soil improvement. Its
+[[free-range-poultry-forage-design-mollison]], firewood, and soil improvement. Its
 remarkable productivity on marginal land has made it a cornerstone of
-[[biochar]] in Australia, where over 50,000 hectares of mostly
-marginal farmland had been planted to tagasaste by 1996. (see [[nitrogen-fixing-trees-and-shrubs]]).
+[[nitrogen-fixing-trees-and-shrubs]]).
 
 ## Botanical Profile
 

@@ -52,8 +52,7 @@ partners involves several levels of specificity:
   photobiont species. The degree of specificity varies among lichen taxa and
   may reflect different evolutionary strategies.
 
-- **Pre-contact recognition**: [[fungal-hyphae]] may detect photobiont-specific
-  [[query-how-do-plants-use-chemical-signals-to-defend-against-insects]] before physical contact, though the molecular mechanisms of
+- **Pre-contact recognition**: [[query-how-do-plants-use-chemical-signals-to-defend-against-insects]] before physical contact, though the molecular mechanisms of
   this recognition are not fully characterized.
 
 - **Compatibility testing**: Upon contact, the fungus assesses photobiont
@@ -70,13 +69,7 @@ partners involves several levels of specificity:
 The comparison between lichen symbiosis and the Geosiphon-Nostoc symbiosis
 illuminates the range of fungal-algal partnership strategies:
 
-- **Lichens**: The photobiont lives outside the [[chitin-chitosan-fungal-cell-wall]]; contact occurs
-  between the two partners. Vegetative reproduction occurs through soredia
-  and isidia that spread both partners together. Lichens are robust toward
-  dehydration and resistant to high temperatures and high light irradiance.
-
-- **Geosiphon**: Represents an endocytobiotic consortium with the photobiont
-  [[endophytic-fungi-living-inside-plants]] the fungal cell. [[hamilton-vegetative-propagation]] of the entire
+- **Lichens**: The photobiont lives outside the [[endophytic-fungi-living-inside-plants]] the fungal cell. [[hamilton-vegetative-propagation]] of the entire
   symbiotic system does not exist. Geosiphon does not survive water loss and
   is very sensitive to high temperature and grows only in moderate light
   (Kluge and Schubler 2002).

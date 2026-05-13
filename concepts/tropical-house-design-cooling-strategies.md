@@ -4,11 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Tropical House Design and Cooling Strategies
-
-Designing houses for tropical and subtropical climates requires understanding the
-interplay between temperature, humidity, radiant heat, and air movement. Mollison's
-[[permaculture]] approach integrates building design with landscape strategies to
+# Tropical [[permaculture]] approach integrates building design with landscape strategies to
 achieve comfort without reliance on energy-intensive mechanical systems.
 
 ## Optimum Comfort Levels
@@ -144,12 +140,11 @@ A well-designed tropical or subtropical house combines: orientation and shading
 to minimise solar gain while capturing breezes; thermal mass and earth coupling
 to stabilise temperatures; cross-ventilation pathways (vents, chimneys, tunnels,
 scoops) driven by stack effect and prevailing winds; landscape integration with
-trees, shadehouses, and water features; and zoned heat management with detached
-kitchens and moisture-controlled storage. The goal is a house that breathes with
-its environment, using natural forces rather than mechanical energy to maintain
-comfort year-round.
-## See also
 
-- [[equatorial-house-design-essentials]]
-- [[passive-cooling-tropical-subtropical-houses]]
-- [[tropical-house-design-and-cooling-strategies]]
+## See Also
+
+- [[gangammas-mandala-tropical-sustenance-garden]]
+- [[tropical-forage-legumes]]
+- [[query-how-to-grow-rare-tropical-fruits-in-marginal-and-subtropical-climates]]
+- [[tropical-shiitake-cultivation-sawdust-substrate-low-cost]]
+- [[tropical-soils-and-fertility-management]]

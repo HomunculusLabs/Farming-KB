@@ -22,69 +22,92 @@ sources:
   - Leafly strain database (leafly.com)
   - AllBud strain database (allbud.com)
   - Weedmaps strain information (weedmaps.com)
-  - [[cannabis-genetic-stability]] lineage databases
-  - Phylos Bioscience genetic testing data
-  - Steep Hill cannabinoid/terpene analysis reports
----
-
-# Jedi Death Star
-
-**Lineage:** Death Star × [[blesching-cannabis-apoptosis-and-cancer-cell-death]] × [[sensi-star]] (bred by Empire Genetics, Ohio)
-- **[[jedi-kush]]:** Death Star × [[og-kush-cannabis-entity]]
-- **Origin:** [[psilocybin-north-america-pacific-northwest]] / California — [[blue-city-diesel-west-coast-blueberry-nyc-diesel-hybrid-oner]] creation combining
-  Midwestern and European-bred Death Star lines
-
-## Cannabinoid Profile
-
-| Compound | Typical Range | Notes |
-|----------|--------------|-------|
-| THC | 20–28% | Most samples test 23–25% |
-| CBD | <0.1–0.3% | Negligible; THC-dominant |
-| CBG | Trace | Minimal |
-
-- Consistently high THC; among the stronger indica-dominant hybrids available
-- CBD negligible — not for CBD-dominant therapeutic use
-- Can overwhelm novice consumers; experienced users should approach with caution
-
-## Terpene Profile
-
-### Primary Terpenes
-- **Myrcene (dominant):** Sedative, relaxing body effects; herbal/musky aroma
-- **Caryophyllene:** Peppery, spicy; binds to CB2 receptors for anti-inflammatory effects
-- **Limonene:** Citrus brightness; mood elevation and stress relief
-
-### Secondary Terpenes
-- **Linalool:** Floral, calming; enhances sedative and anxiolytic properties
-- **Humulene:** Earthy, woody; appetite suppressant and anti-inflammatory
-- **Pinene:** Pine notes; may counteract cognitive fog from high THC
-
-The myrcene-heavy profile combined with caryophyllene and linalool creates a deeply relaxing
-terpene stack that synergizes with high THC for potent sedative and analgesic effects.
-
-## Aroma and Flavor
-- **Aroma:** Diesel fuel, earthy skunk, sweet citrus undertones, pungent garlic-onion notes; room-filling odor
-- **Flavor:** Earthy diesel on inhale; sweet citrus mid-palate; skunky garlicky exhale with fuel aftertaste
-
-## Effects and Experience
-
-### Onset
-- Euphoric cerebral rush within minutes — uplifting, happy, slightly spacey
-- Creative and introspective thoughts may surface briefly; pressure behind eyes common
-- Rapid transition from cerebral euphoria to heavy physical relaxation
-
-### Body Effects
-- Deep muscle melting, full-body heaviness, and strong couch-lock
-- Progressive sedation leading to sleep; body buzz can feel narcotic at higher doses
-
-### Duration and Warnings
-- Effects last 2–4 hours; sedative tail extends beyond primary effects
-- Residual drowsiness common the following morning
-- Not recommended for novice consumers — can cause anxiety/paranoia at high doses
-- Significant impairment; avoid driving or operating machinery
-
-## Medical Applications
-
-- **[[cannabis-chronic-pain-management]]:** Full-body analgesic for neuropathic and musculoskeletal pain
+  - [[blesching-cannabis-apoptosis-and-cancer-cell-death]] × [[jedi-kush]]:** Death Star × [[psilocybin-north-america-pacific-northwest]] / California — [[cannabis-chronic-pain-management]]:** Full-body analgesic for neuropathic and musculoskeletal pain
 - **Insomnia:** Powerful sedative; reliable sleep aid for treatment-resistant insomnia
 - **Muscle spasms:** Deep muscle relaxation reduces cramping and spasticity
 - **Stress/anxiety:** Euphoric onset calms racing thoughts; terpenes enhance anxiolysis
+
+## Overview
+
+Jedi Death Star represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish jedi death star
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving jedi extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Jedi Death Star finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for jedi death star. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+jedi death star and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Jedi Death Star has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of jedi death star into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[allegro-death-and-resurrection-in-the-mushroom-cult]]
+- [[bloomfield-angel-of-death-poisonous-mushroom-identification-toxinology]]
+- [[jedi-kush]]
+- [[mckenna-myth-of-glaukos-honey-death-resurrection-minoan-religion]]
+- [[query-how-to-identify-and-avoid-the-death-cap-amanita-phalloides]]

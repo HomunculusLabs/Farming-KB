@@ -9,83 +9,11 @@ created: 2026-05-09
 
 The effects of psilocybin-containing mushrooms depend on dose, individual
 sensitivity, previous experience, set (mindset), and setting (environment).
-This page covers dosing ranges, routes of administration, [[psilocybin-mushroom-dosage-and-acute-effects]],
-and [[adverse-effects-and-harm-reduction-psilocybin]] considerations.
+This page covers dosing ranges, routes of administration, [[adverse-effects-and-harm-reduction-psilocybin]] considerations.
 
 ## Psychoactive Dose Ranges
 
-[[sacred-gasteromycetes-non-psilocybin-psychoactive-fungi]] doses range from 45 µg/kg to 315 µg/kg body
-weight. Translating this to mushroom material is complicated by
-variable potency, but approximate guidelines are:
-
-| Preparation | Light dose | Moderate dose | Strong dose |
-|------------|-----------|---------------|-------------|
-| Dried mushrooms | 0.5-1.5 g | 1.5-3.5 g | 3.5-5+ g |
-| Fresh mushrooms | 5-15 g | 15-35 g | 35-50+ g |
-
-Fresh mushrooms are approximately 90% water, hence the ~10x ratio to
-dried weight. These ranges are for P. cubensis; more potent species
-like P. semilanceata require proportionally less material.
-
-**Important caveats**:
-- Potency varies enormously by species, growing conditions, age, and
-  storage history
-- Multiple active compounds (psilocybin, [[psilocin]], [[baeocystin]]) may be
-  present at different ratios
-- Short-term tolerance develops rapidly; increasing doses within a
-  session compounds effects unpredictably
-
-## Routes of Administration
-
-### Oral Ingestion (most common)
-Mushrooms are typically:
-- **Chewed raw or dried** and held in the mouth briefly before swallowing
-- **Brewed into tea** — steeping chopped mushrooms in hot (not boiling)
-  water for 10-15 minutes. This reduces nausea and accelerates onset.
-- **Mixed with food** — not recommended as it may increase nausea and
-  delay onset
-
-### Smoking (uncommon)
-Some users report smoking dried mushrooms for faster but milder effects.
-It is unclear whether psilocybin/psilocin are effectively absorbed
-through smoking; evidence is anecdotal.
-
-### Intravenous (dangerous — documented in case reports)
-Injection of mushroom extracts produces more severe acute effects and
-carries additional risks from impurities and dosing uncertainty. This
-route is strongly discouraged.
-
-## Onset and Duration
-
-- **Onset**: 10-60 minutes, depending on preparation, stomach contents,
-  and individual metabolism
-- **Peak effects**: 1-3 hours post-ingestion
-- **Duration**: 2-6 hours of primary effects
-- **After-effects**: Additional 2-6 hours of residual stimulation,
-  difficulty sleeping, or mild perceptual changes
-
-The experience is commonly described by users as "tripping."
-
-## Acute Psychological Effects
-
-### Positive ("Good Trip")
-- Mild relaxation and giddiness
-- Uncontrollable laughter, energy, euphoria
-- Visual enhancement (brighter colours, enhanced patterns)
-- Visual disturbances (moving surfaces, waves, geometric patterns)
-- Mental stimulation, new insights and perspectives
-- Altered perception of time (time dilation)
-
-### Negative ("Bad Trip")
-- Severe anxiety, restlessness, and panic reactions
-- Impaired judgement of time and distance
-- Feelings of unreality or depersonalisation
-- Delusions and altered perception of real events
-- Psychosis-like states with frightening imagery
-- Paranoia and total loss of reality contact
-
-Nearly 25% of recent users surveyed (Mixmag 2005) reported experiencing
-a panic attack. [[hallucinogenic-mushroom-acute-psychological-effects-and-bad-trips]] may be followed by sadness, depression, and
+[[psilocin]], [[hallucinogenic-mushroom-acute-psychological-effects-and-bad-trips]] may be followed by sadness, depression, and
 paranoid interpretations persisting for days to weeks.
 
 ## Practical Applications
@@ -117,8 +45,91 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[doc]]
 - [[psilocybin]]
-- [[psilocin]]
 - [[baeocystin]]
 - [[bad-trip]]
+
+## Overview
+
+Hallucinogenic Mushroom Dosage Effects represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish hallucinogenic mushroom dosage effects
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving hallucinogenic extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Hallucinogenic Mushroom Dosage Effects finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for hallucinogenic mushroom dosage effects. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+hallucinogenic mushroom dosage effects and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Hallucinogenic Mushroom Dosage Effects has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of hallucinogenic mushroom dosage effects into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[anticholinergic-hallucinogenic-plants]]
+- [[chemistry-of-hallucinogenic-plants]]
+- [[european-hallucinogenic-mushroom-prevalence-trends]]
+- [[hallucinogenic-mushroom-telephone-helplines-and-emergency-response]]
+- [[hallucinogenic-plants-of-the-world]]

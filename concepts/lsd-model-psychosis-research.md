@@ -89,7 +89,7 @@ However, the research tradition it established continued to influence the field.
 
 While the LSD model psychosis concept is no longer accepted as a literal model of schizophrenia, it played a pivotal role in the development of modern biological psychiatry and psychopharmacology. It demonstrated that the boundaries between "normal" and "abnormal" mental states were more permeable than had been assumed, and it provided tools and concepts that continue to shape neuroscience research.
 
-See also: [[sandoz-delysid-research-program]], [[lsd-therapeutic-history]]
+See also: [[lsd-therapeutic-history]]
 
 ## Related
 - [[hofmann-self-experiment-with-ergonovine]]

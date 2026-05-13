@@ -33,16 +33,8 @@ Yakuruna (from Quechua *yaku* = water, *runa* = person/people) are aquatic human
 - The hierarchical classification of yakurunas mirrors the indigenous understanding that natural forces can be benevolent, neutral, or malevolent depending on context.
 
 ## Cultural Context
-Yakurunas appear throughout [[ayahuasca-preparation-pablo-amaringo-ucayali-shamanism]]'s [[amaringo-ayahuasca-visions-shipibo-iconography]], most prominently in Visions 19 (The [[world-of-the-yakuruna]]) and 21. They represent one of the most richly detailed aspects of Amazonian underwater cosmology, reflecting the cultural importance of rivers in Amazonian life.
-
-## Cosmological Setting
-
-- Yakuruna are not simply monsters or folklore figures.
-- They are inhabitants of a structured underwater society.
-- Rivers, lakes, caves, and flooded forests are imagined as populated domains.
-- This makes Amazonian water a social landscape rather than an empty resource.
-- The beings appear especially in [[world-of-the-yakuruna]].
-- That note places them within the visionary geography of Pablo Amaringo's work.
+Yakurunas appear throughout [[amaringo-ayahuasca-visions-shipibo-iconography]], most prominently in Visions 19 (The [[world-of-the-yakuruna]].
+- That note places them within the visionary geography of [[pablo-amaringo]]'s work.
 - Their cities, palaces, animals, and tools mirror human society in transformed form.
 - The mirror is not exact; it is uncanny and morally charged.
 - Encounters may bring teaching, danger, seduction, illness, or rescue.
@@ -64,12 +56,7 @@ Yakurunas appear throughout [[ayahuasca-preparation-pablo-amaringo-ucayali-shama
 
 ## Relation to Shamanic Training
 
-- Skilled practitioners such as [[muraya]] can interact with yakuruna realms.
-- Higher practitioners such as sumirunas can move among even more domains.
-- The underwater world is therefore a test of rank and discipline.
-- A novice may be endangered by beings that a trained healer can negotiate with.
-- Songs, diets, and protective powers determine whether contact is safe.
-- The yakuruna are also linked to [[ayahuasca-ceremony-structure-and-practice]].
+- Skilled practitioners such as [[ayahuasca-ceremony-structure-and-practice]].
 - Ceremony stories about water beings prepare participants for possible visions.
 - They also teach caution around rivers at night, storms, and unfamiliar aquatic places.
 - Myth and practical safety are intertwined.
@@ -90,6 +77,6 @@ Yakurunas appear throughout [[ayahuasca-preparation-pablo-amaringo-ucayali-shama
 
 - Yakuruna accounts should be cross-read with dolphin, mermaid, and serpent traditions.
 - They are important for understanding Amazonian environmental ethics.
-- They show how ayahuasca visions organize geography into teachable worlds.
+- They show how [[ayahuasca-visions]] organize geography into teachable worlds.
 - They also connect healing practice to rescue, navigation, and aquatic hunting knowledge.
 - The entity is therefore relevant to mythology, ceremony, and riverine livelihood at once.

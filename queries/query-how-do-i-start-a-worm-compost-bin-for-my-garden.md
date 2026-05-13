@@ -20,9 +20,7 @@ vermicompost is typically ready in 3 to 6 months.
 
 ## Detailed Explanation
 
-Vermicomposting, or [[hamilton-worm-composting-manure]], is one of the most efficient and
-space-friendly ways to convert kitchen waste into garden gold. The
-[[compost-container-types]] page
+Vermicomposting, or [[compost-container-types]] page
 compares the pros and cons of different systems for various situations and
 budgets.
 
@@ -31,8 +29,7 @@ the carbon component of the composting process. Shredded newspaper, cardboard,
 coconut coir, and dried leaves all make excellent bedding. The bedding should be
 moistened to the consistency of a damp sponge, wrung out so no water drips when
 squeezed. Fill the bin with 6 to 8 inches of damp bedding before adding worms.
-The [[comparison-bsf-composting-vs-hot-composting]] comparison shows how
-vermicomposting differs from traditional [[comparison-bokashi-vs-hot-composting-method]] in speed and nutrient
+The [[comparison-bokashi-vs-hot-composting-method]] in speed and nutrient
 profile.
 
 Maintaining proper conditions in the bin is mostly about monitoring moisture and
@@ -41,17 +38,13 @@ optimal worm activity. In hot climates, move the bin to a shaded area or indoors
 during summer. In cold climates, insulate the bin or bring it into a garage or
 basement during winter. If the bin becomes too wet, add dry bedding and leave
 the lid off for a few hours. If too dry, mist with water or add moist food
-scraps. The [[comparison-foliar-feeding-vs-vermicompost-tea]] for [[ultra-low-cost-foliar-application-methods]]
-or soil drenching. The [[compost-container-types]] with drainage holes and airflow
-- Use shredded newspaper, cardboard, or [[comparison-coco-coir-cannabis-vs-peat-free-gardening]] for bedding at sponge-like moisture
+scraps. The [[ultra-low-cost-foliar-application-methods]]
+or soil drenching. The [[comparison-coco-coir-cannabis-vs-peat-free-gardening]] for bedding at sponge-like moisture
 - Feed fruit and vegetable scraps in thin layers buried under bedding; avoid meat, dairy, and citrus
 - Keep the bin between 55 and 77 degrees Fahrenheit in a shaded location
 - Harvest after 3 to 6 months when bedding is converted to dark castings
-- Use castings in potting mixes, as top-dress, or brew into [[query-how-to-build-a-compost-pile-that-works]]
-[[query-how-does-aquaponics-work]]
-[[query-how-do-i-start-a-medicinal-herb-garden]]
-
-- [[query-how-do-i-start-a-no-till-garden-bed]]
+- Use castings in potting mixes, as top-dress, or brew into [[query-how-does-aquaponics-work]]
+[[query-how-do-i-start-a-no-till-garden-bed]]
 ## Practical Considerations
 
 When working with How Do I Start a Worm Compost Bin for My Garden?, several practical factors should be

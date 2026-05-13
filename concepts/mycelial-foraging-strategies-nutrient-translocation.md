@@ -26,11 +26,7 @@ nutritional cues, environmental conditions, damage, and predation.
 
 ## The Mycelial Network as Foraging System
 
-Basidiomycetes are the major agents of decomposition and [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]]
-in [[dighton-fungi-acidifying-pollutants-forest-ecosystems]], occurring as both [[gadd-fungal-symbiosis-mycorrhizae]]
-symbionts. Hyphae that ramify through soil often aggregate to form rapidly
-extending, persistent, specialized high-conductivity channels termed cords.
-These cords form complex networks that integrate [[plant-nutrient-uptake-mechanisms]], storage,
+Basidiomycetes are the major agents of decomposition and [[dighton-fungi-acidifying-pollutants-forest-ecosystems]], occurring as both [[plant-nutrient-uptake-mechanisms]], storage,
 and redistribution across the entire colony.
 
 The distribution of resources in soil is extremely heterogeneous and
@@ -72,10 +68,7 @@ yet fully known but are thought to include:
 - **Vesicular transport**: specific transport of nutrients in membrane-bound
   vesicles.
 - **Vacuolar transport**: the dynamic pleiomorphic vacuolar system in
-  [[environmental-sensing-filamentous-fungi-read]] may play a role in long-distance translocation.
-
-The vacuolar system develops from a complex reticulum of fine tubes
-interspersed with small spherical vacuoles at the [[gadd-hyphal-tip-growth-and-branching-mechanisms]] to a series of
+  [[gadd-hyphal-tip-growth-and-branching-mechanisms]] to a series of
 larger, more spherical, adherent vacuoles interconnected with fine tubes in
 mature hyphal regions. Fluorescence recovery after photobleaching (FRAP)
 studies have demonstrated that diffusion alone can explain observed
@@ -84,7 +77,7 @@ transport within vacuolar compartments.
 ## Resource Partitioning and Reallocation
 
 Sophisticated resource partitioning has been demonstrated in mycelial
-networks. In experiments with [[armillaria-ostoyae]] holds the record for the [[armillaria-largest-organism]] on Earth: a
+networks. In experiments with [[armillaria-largest-organism]] on Earth: a
   genet spanning 965 hectares with a maximum separation of 3810 m,
   estimated at 1900-8650 years old.
 - Phosphorus moves to different litter resources over 1 metre apart via

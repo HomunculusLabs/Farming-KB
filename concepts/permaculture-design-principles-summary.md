@@ -6,41 +6,11 @@ type: concept
 
 # Permaculture Design Principles Summary
 
-The [[permaculture-design-principles]] represent the foundational philosophy and practical framework assembled by [[bill-mollison]] from decades of observation of natural systems, indigenous practices, and applied design work. These principles serve as both the ethical foundation and the operational methodology for creating sustainable human settlements.
+The [[bill-mollison]] from decades of observation of natural systems, indigenous practices, and applied design work. These principles serve as both the ethical foundation and the operational methodology for creating sustainable human settlements.
 
 ## Definition of Permaculture Design
 
-> "[[permaculture-design]] is a system of assembling conceptual, material, and strategic components in a pattern which functions to benefit life in all its forms. It seeks to provide a sustainable and secure place for living things on this earth."
-
-This definition emphasizes several critical aspects: design is about **assembly** (not invention), it operates across **conceptual, material, and strategic** domains, it produces **patterns** (not isolated elements), and its purpose is to **benefit all life** — not just human life.
-
-## Core Functional Design Principles
-
-### The Multiple Function Principle
-
-**Every component of a design should function in many ways. Every essential function should be supported by many components.**
-
-This is the principle of redundancy and efficiency combined. A single element (a pond, a tree, a chicken) should serve multiple purposes, while every critical need (water, food, fire protection) should be met by multiple elements. This creates resilience: if one component fails, others continue to provide the essential function.
-
-Examples:
-- A chicken provides eggs, meat, pest control, manure, soil cultivation, and warmth
-- A pond provides irrigation, fire protection, aquaculture, wildlife habitat, microclimate moderation, and recreation
-- A leguminous tree provides nitrogen fixation, fodder, timber, shade, windbreak, bee forage, and mulch
-
-### The Principle of Self-Regulation
-
-**The purpose of a functional and self-regulating design is to place elements or components in such a way that each serves the needs, and accepts the products, of other elements.**
-
-This is the essence of closing loops. In a self-regulating system, the waste of one component becomes the resource of another. No element exists in isolation — each is positioned to both receive from and contribute to surrounding elements. The system, once established, requires management rather than energy input.
-
-## Property Design Procedure
-
-### Assessment Phase
-
-A property design from one-quarter to 50 hectares follows a systematic procedure:
-
-1. **Client needs assessment:** Clear understanding of occupier needs, stated aims from all potential occupants (including children), financial and skill resources
-2. **Site observation:** Using base [[maps]], aerial photographs, or guided walks, note locations for:
+> "[[maps]], aerial photographs, or guided walks, note locations for:
    - Access ways and earthworks
    - Housing and buildings
    - Water supply, purification, and irrigation

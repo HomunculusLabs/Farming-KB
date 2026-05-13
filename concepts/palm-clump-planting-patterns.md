@@ -4,9 +4,9 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Palm Clump Planting Patterns
+# Palm Clump [[palm-planting-patterns-and-mulch-systems|Patterns]]
 
-Palm clump planting is a permaculture design strategy that arranges palms (especially
+Palm clump planting is a [[permaculture-design|permaculture design]] strategy that arranges palms (especially
 coconuts) in circular groups rather than traditional linear grid plantations. Drawn from
 Bill Mollison's *Permaculture: A Designers' Manual*, the pattern integrates palm
 polycultures into village-scale zoning while improving mulch efficiency, ground-space
@@ -140,16 +140,10 @@ that supplement the palm's own mulch production.
 
 ## Summary
 
-Palm clump planting replaces the resource-inefficient grid with a concentrated circular
-pattern that maximises mulch capture, frees the majority of ground for intercropping,
-and integrates into village-scale zonation. Combined with banana-avocado interplants,
-leguminous support species, and well-designed access and earthworks, the clump system
-becomes a self-mulching, multi-layered polyculture capable of sustained high production
-with minimal external inputs.
-## See also
+## See Also
 
+- [[palm-species-in-permaculture]]
+- [[doum-palm]]
+- [[palm-polyculture-species-selection]]
+- [[mollison-designers-coconut-palm-dominant-polyculture]]
 - [[palm-tree-uses]]
-- [[palm-planting-patterns-and-mulch-systems]]
-- [[mollison-coconut-palm-polyculture-systems]]
-- [[palm-plantation-economics-and-renewal]]
-- [[plantation-monoculture-reform]]

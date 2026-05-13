@@ -9,9 +9,7 @@ type: concept
 ---
 # biological slime mold computing
 Slime mold computing refers to the use of unicellular or acellular organisms,
-primarily [[unconventional-computing]].
-## fungal-spores, and decaying mollison designers humus. When food sources are located, the plasmodium extends toward them,
-forming efficient [[biological-transport-networks]] that connect multiple food sites. If
+primarily [[biological-transport-networks]] that connect multiple food sites. If
 the network is disrupted, it rapidly reorganizes to restore connectivity,
 demonstrating adaptive resilience.
 ## Network Optimization
@@ -21,64 +19,13 @@ Nakagaki and colleagues, oat flakes were placed on a map of the greater
 Tokyo area corresponding to the locations of major cities. The slime mold
 was introduced and allowed to forage freely. The resulting vein network
 closely resembled the existing Tokyo rail system, with comparable efficiency
-metrics in terms of total network length, [[byzantine-fault-tolerance]], and transport
-cost.
-This optimization emerges from simple local rules: tubes carrying more
-cytoplasm flow tend to thicken (positive feedback), while tubes carrying
-less flow atrophy (negative feedback). The organism effectively solves a
-minimum Steiner tree problem, finding near-optimal network topologies for
-connecting multiple points.
-## Computational Problems Solved
-Research has demonstrated that Physarum can approximate solutions to various
-computational problems:
-- **Steiner Tree Problem:** Finding the shortest network connecting a given
-  set of points. Physarum's network approximates solutions within 2-3% of
-  the theoretical optimum.
-- **Maze Solving:** When placed in a maze with food at the entrance and
-  exit, Physarum finds the shortest path by filling dead ends and
-  concentrating mass along efficient routes.
-- **Traveling Salesman Problem (TSP):** By arranging food sources in TSP
-  configurations, the slime mold produces tour-like network patterns that
-  approximate reasonable solutions, especially for small to medium problem
-  sizes.
-- **Spanning Tree Problems:** Physarum naturally produces minimum-cost
-  spanning trees when connecting food sources, a behavior exploited in
-  network design applications.
-- **Boolean Logic Gates:** Researchers have constructed logical AND, OR, and
-  NOT gates using slime mold behavior. The organism's response to chemical
-  stimuli can encode binary states, enabling simple computation.
-## Mathematical Models
-The behavior of Physarum has been formalized into mathematical frameworks
-that can be implemented computationally:
-### Physarum Solver
-The Physarum Solver is an algorithm based on the organism's adaptive network
-formation. It represents a graph where each edge has a conductivity that
-evolves based on flow: high-flow edges increase conductivity while low-flow
-edges decrease it. The model converges to an approximate shortest path or
-minimum-cost network through iterative updates.
-The governing equations describe the flux through each edge as proportional
-to conductivity and pressure difference, with conductivity updated according
-to the local flow rate. This creates a positive feedback loop that reinforces
-efficient paths and prunes redundant ones.
-### Cellular Automaton Models
-Discrete cellular automaton implementations of Physarum behavior have been
-developed that capture essential features of the organism's growth and
-network formation. These models represent the plasmodium as a grid of cells
-with state variables for nutrient concentration, diffusion rates, and growth
-direction, producing patterns that closely match biological observations.
-## Adaptive Behavior and Memory
-Physarum exhibits a form of externalized [[chamovitz-plant-maze-navigation-spatial-memory]]. When navigating an
+metrics in terms of total network length, [[chamovitz-plant-maze-navigation-spatial-memory]]. When navigating an
 environment, the slime mold leaves behind a trail of extracellular slime that
 acts as a repellent, preventing the organism from revisiting areas it has
 already explored. This "habituation" behavior enables efficient coverage of
 the search space and avoids redundant exploration, analogous to pheromone
 trails in ant colony optimization algorithms.
-The organism also displays a form of "[[mycelial-foraging-resource-allocation]]
-problem through distributed processing.
-## Applications and Bio-Inspired Algorithms
-Slime mold computing has inspired practical applications across multiple
-fields:
-- **[[mycelial-nutrient-transport-network-dynamics-gadd]] Design:** Physarum-based algorithms have been used to
+The organism also displays a form of "[[mycelial-nutrient-transport-network-dynamics-gadd]] Design:** Physarum-based algorithms have been used to
   design road networks, fiber optic layouts, and public transit systems that
   balance efficiency and resilience.
 - **Robotics:** Swarm robotics researchers have developed multi-robot systems
@@ -118,8 +65,85 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[slime-mold-computation]]
 - [[spore]]
-- [[myxomycete-mycetozoan-slime-mold-diversity-ecology]]
 - [[myconeurological-networks-and-biological-computing]]
 - [[cannabis-mold-and-mildew-prevention]]
+
+## Overview
+
+Biological Slime Mold Computing represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish biological slime mold computing
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving biological extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Biological Slime Mold Computing finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for biological slime mold computing. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+biological slime mold computing and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Biological Slime Mold Computing has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of biological slime mold computing into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also

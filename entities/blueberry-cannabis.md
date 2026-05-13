@@ -23,48 +23,12 @@ sources:
 
 **DJ Short's Blueberry** | **Blueberry Kush** (when crossed with OG)
 
-Blueberry is a legendary indica-dominant cannabis cultivar created by breeder DJ Short in the 1970s–1980s. Widely regarded as one of the most important foundational strains in modern [[vic-high-cannabis-genetics-mendelian-inheritance]], Blueberry is celebrated for its distinctively fruity aroma and flavor — evocative of fresh blueberries — and its deeply relaxing, euphoric effects. It was one of the first strains to gain widespread recognition for its terpene-driven sensory profile, winning the High Times Cannabis Cup in 2000 and cementing its status as a classic.
-
-## Genetic Background
-
-### Parentage
-DJ Short developed Blueberry through extensive breeding work beginning in the late 1970s, working with landrace genetics sourced from diverse regions:
-- **Afghan indica:** Contributed the dense bud structure, [[cannabis-glandular-trichome-types-resin-production-clarke]], and heavy body effects
+Blueberry is a legendary indica-dominant cannabis cultivar created by breeder DJ Short in the 1970s–1980s. Widely regarded as one of the most important foundational strains in modern [[cannabis-glandular-trichome-types-resin-production-clarke]], and heavy body effects
 - **Thai sativa:** Contributed the sweet, fruity terpene profile and cerebral uplift
-- **Purple Thai (Oaxacan × Highland Thai):** A complex [[cannabis-sativa-landrace-strains]] cross that contributed both the purple coloration potential and additional fruity terpene complexity
-
-### Breeding History
-- DJ Short began working with these genetics in the Pacific Northwest during the late 1970s and early 1980s
-- The strain was developed through multiple generations of careful phenotypic selection, with DJ Short selecting for aroma, flavor, color, and effect over approximately 15 years before stabilizing the line
-- The original Blueberry genetics were acquired by Dutch Passion Seeds in the 1990s, who commercialized the strain and brought it to the European market
-- DJ Short continued maintaining his own line (the "DJ Short Blueberry" or "True Blueberry") separately from the Dutch Passion version, leading to phenotypic divergence between the two lines
-
-### Genetic Legacy
-Blueberry has served as a parent or grandparent to hundreds of descendant strains:
-- **Blue Dream:** Blueberry × DJ Short's Haze — arguably the most commercially successful hybrid of the 2010s
-- **Blueberry Kush:** Blueberry × OG Kush — amplified indica sedation
-- **[[berry-white]]:** Blueberry × White Widow variant
+- **Purple Thai (Oaxacan × Highland Thai):** A complex [[berry-white]]:** Blueberry × White Widow variant
 - **Aurora Indica:** Blueberry × Northern Lights — heavy indica for pain and sleep
-- **[[blue-dream]] — Most famous Blueberry descendant (Blueberry × Haze)
-- [[granddaddy-purple]] — Purple indica with overlapping genetic territory
-- [[northern-lights]] — Foundational indica frequently crossed with Blueberry
-## Practical Considerations
-
-When working with Blueberry, several practical factors should be
-carefully considered to achieve optimal results. These include
-the specific conditions of the implementation context, available
-resources, timing requirements, and the interactions between this
-topic and other elements of the broader system. A holistic view
-that considers these interconnections produces better outcomes.
-
-Environmental conditions such as temperature, moisture, and
-seasonal patterns significantly influence results. Monitoring these
-variables and adapting practices accordingly is essential for success.
-The most effective practitioners develop keen observation skills and
-respond flexibly to changing conditions rather than following rigid
-protocols regardless of circumstances or local variation.
-
-[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
+- **[[granddaddy-purple]] — Purple indica with overlapping genetic territory
+- [[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -88,3 +52,88 @@ creating a reference base of observations, interventions, and results.
 This accumulated knowledge enables progressively better decision-making
 and helps identify patterns that might otherwise be overlooked in the
 complexity of day-to-day management and observation activities.
+
+## Overview
+
+Blueberry Cannabis represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish blueberry cannabis
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving blueberry extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Blueberry Cannabis finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for blueberry cannabis. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+blueberry cannabis and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Blueberry Cannabis has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of blueberry cannabis into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[blue-city-diesel-west-coast-blueberry-nyc-diesel-hybrid-oner]]
+- [[blueberry-cultivation-and-variety-guide]]
+- [[blueberry-growing-guide]]
+- [[cannabis-endorhiza-shared-otu-soil-source-validation]]
+- [[green-cannabis-dry-sift-water-extraction]]

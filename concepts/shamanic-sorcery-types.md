@@ -8,7 +8,7 @@ type: concept
 
 ## Overview
 
-Amazonian vegetalismo encompasses not only [[blesching-cannabis-healing-practices-setting-intention-affirmations]] but also a sophisticated taxonomy of sorcery. [[ayahuasca-preparation-pablo-amaringo-ucayali-shamanism]]'s visionary paintings document three primary types of sorcery practiced by evil vegetalistas (brujos or sorcerers), each employing distinct weapons and methods. Healers (curanderos) must be able to identify which type of sorcery has afflicted a patient in order to administer the correct treatment. The diagnostic method involves observing the pattern of lights surrounding the patient during an ayahuasca vision.
+Amazonian vegetalismo encompasses not only [[ayahuasca-preparation-pablo-amaringo-ucayali-shamanism]]'s visionary paintings document three primary types of sorcery practiced by evil vegetalistas (brujos or sorcerers), each employing distinct weapons and methods. Healers (curanderos) must be able to identify which type of sorcery has afflicted a patient in order to administer the correct treatment. The diagnostic method involves observing the pattern of lights surrounding the patient during an ayahuasca vision.
 
 ## The Three Types of Sorcerers (Vision 12)
 
@@ -29,19 +29,7 @@ The chontero is typically a Shipibo shaman who inflicts harm using chontas or vi
 
 ### 2. The Marupa Sorcerer
 
-The marupa sorcerer (depicted as a Cocama) manipulates marupas — living creatures including insects, snakes, scorpions, bats, rays, and toads — which he keeps in his mann. This technique is called hechicería marupa ([[marupa-sorcery]]).
-
-**Method of attack**: The sorcerer, during his own visions, plans the attack. He sends a creature through his mann that bites or attacks the victim. The victim feels an irresistible urge to go to a certain place, where the sorcerer's animal lies in wait.
-
-**Diagnosis**: If the curandero sees larger waves crossed by dark lines surrounding the patient, it indicates marupa sorcery.
-
-### 3. The Huani Sorcerer
-
-The huani sorcerer wields a huani — a steel bow with a crystal arrow — which he keeps under his left armpit. Inside his mann he carries a living piranha fish.
-
-**Method of attack**: The sorcerer places the bow in his mouth and blows the crystal arrow, which pierces the victim's body and returns to the sorcerer's armpit. The victim feels very tired, goes to sleep, and upon waking begins vomiting blood until death.
-
-**Diagnosis**: If the curandero sees small waves crossed by dark lines surrounding the patient, it indicates [[huani-sorcery]].
+The marupa sorcerer (depicted as a Cocama) manipulates marupas — living creatures including insects, snakes, scorpions, bats, rays, and toads — which he keeps in his mann. This technique is called hechicería marupa ([[huani-sorcery]].
 
 **Critical distinction**: No vegetalista can cure this kind of sorcery. Only God can save the victim, making the huani the most lethal form of magical attack documented in the tradition.
 
@@ -104,47 +92,6 @@ The text describes six native shamans in trance, each with distinct capabilities
 
 The Incaic vision depicts shamans dressed as Incas, surrounded by a large snake called yura-mantona that teaches the use of medicinal plants found near the ceremony site:
 
-- **Papaflia** (*[[momordica-charantia]]*)
-- **Sacha-pituca** (unidentified)
-- **Renaco** (*Ficus sp.*)
-- **Patiquina negra** (*Dieffenbachia sp.*)
-- **Uchusanango** (*Tabernaemontana sp.*)
-- **Boasacha** (unidentified)
-- **Achuni-casha** (*Rheedia macrophylla*)
-
-Three Inca spirits appear: one teaches how to blow smoke for healing, another gives beautiful visions, and the third teaches the use of medicinal plants.
-
-A submerged city called Gran Saara, which sank thousands of years ago, sends forth inhabitants — Yacoshungo and Nukno-pachac ("sweet earth") — carrying golden objects (enchanted people), Yakumamas (water snakes), and a bull. They are attacked by a huaira-nacanaca snake but defended by the Yakumamas' hypnotic rays.
-
-## Connection with Healers in Time and Space (Vision 13)
-
-This vision presents a mareación (visionary state) produced by cielo ayahuasca (sky ayahuasca), showing shamans from different parts of the world practising vegetal and spiritual medicine. The vision is organized in three vertical sections:
-
-### First Section (Left)
-- A mestiza woman from the Amazon practicing Rosicrucianism
-- A mestizo ayahuasquero practicing medicine with pure soul and heart
-- A Shipibo shaman from the Ucayali using ayahuasca with additives: piripiri (*Cyperus sp.*), toe (*Brugmansia sp.*), and chirik-sanango (*Brunfelsia grandiflora*)
-- Prince Tabal in feathered dress with gilded double-edged sword
-- Cuayacunas (caressing women)
-- An extraterrestrial ship from Ganymede
-
-### Centre Section
-- A native Cocama practicing traditional medicine
-- A guru from Krishna temples using transcendental meditation of the sixth sense
-- A nymph of knowledge teaching precise icaro singing
-- A Campa Indian with occult plant knowledge
-- Scribes of the mermaids recording mystical properties of flowers
-- Ships from Venus
-
-### Right Section
-- A mestiza oracionista (prayer practitioner) using celestial spirits
-- An African woman practicing fetishism for healing
-- Grinfel, Count of the Empire of the Planet Saturn, with powers of sensual hypnotism
-- A Shipibo healer with ayahuasca
-- An Inca priest (Varayok) who had direct contact with extraterrestrial beings from Andromeda
-## Related Topics
-
-- [[ayahuasca-ceremony-and-mariri-system]]
-- [[forest-spirits-and-subaquatic-world]]
+- **Papaflia** (*[[ayahuasca-ceremony-and-mariri-system]]
 - [[yakuruna-aquatic-spirit-world]]
 - plant teachers icaros

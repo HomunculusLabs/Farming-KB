@@ -14,56 +14,11 @@ sources:
   - Tutin, T.G. (1993). "Ranunculus L." Flora Europaea, Vol. 1, 2nd ed. Cambridge University Press.
   - Harper, J.L. (1957). "Ranunculus." Biological Flora of the British Isles, Journal of Ecology, 45: 289-342.
   - Sarukhán, J. & Harper, J.L. (1973). "Studies on plant demography: Ranunculus repens L. and R. acris L." Journal of Ecology, 61(3): 675-716.
-  - Whittemore, A.T. (1997). "Ranunculus." Flora [[berry-growing]] North of Mexico, Vol. 3. Oxford University Press.
-  - Turner, N.J. (1984). "Counter-irritant and other medicinal uses of Ranunculus species." Journal of Ethnopharmacology, 11(2): 191-201.
----
-
-## Overview
-
-Ranunculus repens, commonly known as creeping buttercup, is a perennial herbaceous plant in the family Ranunculaceae.
-
-It is one of the most widespread and recognizable buttercup species, found across [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]] worldwide. The plant is distinguished by its creeping stolons that root at the nodes, forming dense mats of foliage.
+  - Whittemore, A.T. (1997). "Ranunculus." Flora [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]] worldwide. The plant is distinguished by its creeping stolons that root at the nodes, forming dense mats of foliage.
 
 Creeping buttercup is considered a noxious weed in many agricultural settings, particularly in damp pastures and meadows. Like other Ranunculus species, it contains protoanemonin, a toxic compound that causes blistering and irritation.
 
-Despite its weed status, Ranunculus repens provides valuable early-season nectar resources for pollinators in [[biodiversity-fungi-grassland-ecosystems]].
-
-It is one of the three most common European buttercup species, alongside [[ranunculus-acris]] and [[ranunculus-bulbosus]], with which it frequently co-occurs.
-
-## Taxonomy and Morphology
-
-**Scientific classification:**
-- Kingdom: Plantae
-- Family: Ranunculaceae
-- Genus: Ranunculus
-- Species: R. repens
-- Authority: Linnaeus (1753)
-
-**Key synonyms:** Ranunculus repens var. pleniflorus F.W.Schultz; Ranunculus repens f. erectus Hyl.
-
-The plant grows 15–50 cm tall from a fibrous root system, with characteristic creeping stolons that extend up to 100 cm per season. Stolons root at each node, producing new plantlets that can function independently if separated from the parent.
-
-Basal leaves are dark green, three-lobed, and coarsely toothed on long petioles (5–20 cm). The central lobe is stalked, a feature distinguishing it from Ranunculus bulbosus, whose central lobe is unstalked.
-
-Stem leaves are smaller, narrower, and sessile with fewer lobes. Both stems and leaves are sparsely to moderately hairy, though glabrous forms occur in some populations.
-
-The stolons are the plant's most distinctive vegetative feature. They arise from leaf axils at the base of the flowering stem and grow horizontally across the soil surface.
-
-Flowers are glossy yellow, 2–3 cm in diameter, with five petals and five spreading (not reflexed) sepals. The spreading sepals distinguish this species from Ranunculus bulbosus, which has strongly reflexed sepals.
-
-Achenes are flattened, 2.5–3 mm long, with a short straight or slightly curved beak. They are arranged in a globose head and dispersed primarily by wind and water.
-
-Chromosome number is 2n = 32, indicating this species is tetraploid. This polyploidy may contribute to its ecological plasticity and broad habitat tolerance compared to diploid buttercup species.
-
-## Distribution and Habitat
-
-Ranunculus repens is native to Europe, western Asia, and North Africa. It has been introduced to North America, South America, Australasia, and southern Africa through European colonization and agricultural activity.
-
-In its native range, it is one of the most common buttercup species, occurring in virtually all lowland habitats except the driest.
-
-It is particularly abundant in the British Isles, where it is considered the commonest buttercup. The species has been the subject of extensive demographic study due to its ecological importance.
-
-In North America, it is naturalized across the northern United States and southern Canada, extending from the Atlantic coast to the [[psilocybin-north-america-pacific-northwest]]. It is less common in the southeastern states and arid western regions.
+Despite its weed status, Ranunculus repens provides valuable early-season nectar resources for pollinators in [[ranunculus-acris]] and [[psilocybin-north-america-pacific-northwest]]. It is less common in the southeastern states and arid western regions.
 
 The species thrives in damp, heavy soils including wet meadows, stream banks, ditch edges, poorly drained pastures, and disturbed ground. It tolerates a wide pH range but prefers slightly acidic to neutral conditions.
 
@@ -88,3 +43,88 @@ Ranunculus repens is an early successional species that colonizes disturbed grou
 It is characteristic of moderately grazed pastures and mown grassland, where disturbance prevents competitive exclusion by taller species.
 
 The plant's protoanemonin content deters most mammalian herbivores, giving it a competitive advantage in grazed ecosystems. However, it is an important food plant for the larvae of several moth species.
+
+## Overview
+
+Ranunculus Repens represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish ranunculus repens
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving ranunculus extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Ranunculus Repens finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for ranunculus repens. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+ranunculus repens and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Ranunculus Repens has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of ranunculus repens into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[ranunculus-acris]]
+- [[ranunculus-arvensis]]
+- [[ranunculus-bulbosus]]
+- [[ranunculus-glacialis]]
+- [[ranunculus-nivalis]]

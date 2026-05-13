@@ -24,15 +24,11 @@ philosophical orientations, methods, and outcomes in farming practice.
 Understanding these three ways provides a map of where different
 agricultural methods stand relative to nature amahayana-natural-farming 
 
-[[fukuoka-textdoc-mahayana-hinayana-scientific-farming-ways]]
-- [[fukuoka-textdoc-entanglement-natural-scientific-farming]]
+[[fukuoka-textdoc-entanglement-natural-scientific-farming]]
 
 ## See Also
 
-- [[fukuoka-mahayana-and-hinayana-natural-farming]]
-## Practical Applications
-
-[[fukuoka-textdoc-mahayana-hinayana-natural-farming-pursuit-of-nature]] Farming has a range of practical applications that make it relevant to
+- [[fukuoka-textdoc-mahayana-hinayana-natural-farming-pursuit-of-nature]] Farming has a range of practical applications that make it relevant to
 both researchers and practitioners. Understanding these applications
 requires familiarity with the underlying principles and their
 manifestation in real-world contexts. The breadth of applications

@@ -8,7 +8,7 @@ type: concept
 
 ## Evaporation, Condensation, and Thermal Regulation
 
-Trees are powerful regulators of local temperature through two primary mechanisms: **evaporation** causes heat loss locally, while **condensation** causes heat gain locally. Both effects can be strategically used to heat or cool air or surfaces in permaculture design.
+Trees are powerful regulators of local temperature through two primary mechanisms: **evaporation** causes heat loss locally, while **condensation** causes heat gain locally. Both effects can be strategically used to heat or cool air or surfaces in [[permaculture-design]].
 
 ### Evapotranspiration and Cooling
 
@@ -72,7 +72,7 @@ The forest interior maintains remarkably stable temperatures compared to open gr
 
 - **Reduced frost risk** in forest clearings and edges
 - **Moderated diurnal temperature swings** compared to open fields
-- **Extended growing seasons** in forest gardens and agroforestry systems
+- **Extended growing seasons** in [[forest-gardens]] and agroforestry systems
 - **Reduced heating and cooling costs** for nearby structures
 
 The practical takeaway for permaculture designers is that trees and forests are among the most effective tools available for passive temperature regulation, and their placement should be a primary consideration in any site design.
@@ -90,8 +90,6 @@ water, and atmosphere enables designers to create more resilient and productive
 landscapes that work with natural processes rather than opposing them.
 
 ## See Also
-- [[tree-temperature-effects-and-evapotranspiration]]
 - [[tree-temperature-effects-and-microclimate-modification]]
-- [[comparison-fruit-tree-pruning-vs-fruit-tree-grafting-guide]]
 - [[tree-biomass-and-wind-effects]]
 - [[tree-effects-on-precipitation]]

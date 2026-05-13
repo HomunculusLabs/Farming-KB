@@ -3,37 +3,16 @@ title: Knf Fmc Method 1 Detailed
 created: 2026-04-20
 updated: 2026-04-20
 type: concept
-tags: [knf, [[natural-farming]]
-sources:
-  - raw/papers/cho-han-kyu-korean-natural-farming-handbook.md
----
-
-# KNF Fermented Mixed Compost Method-1 Detailed
-
-**Updated:** 2026-04-18
-
-Fermented Mixed Compost (FMC) is the primary soil amendment in Korean [[comparison-natural-farming-vs-permaculture]]. Method-1 is the detailed, temperature-monitored composting process that produces high-quality humus for soil building. Unlike conventional composting, FMC Method-1 follows a strict turning schedule based on internal temperature readings, with the goal of completing fermentation in approximately 20 days while maintaining sweet-smelling, aerobic conditions.
+tags: [knf, [[comparison-natural-farming-vs-permaculture]]. Method-1 is the detailed, temperature-monitored composting process that produces high-quality humus for soil building. Unlike conventional composting, FMC Method-1 follows a strict turning schedule based on internal temperature readings, with the goal of completing fermentation in approximately 20 days while maintaining sweet-smelling, aerobic conditions.
 
 ## Overview
 
-FMC is made from a mixture of organic materials fermented with [[knf-fermented-mixed-compost]] for materials, timing, and place selection.
-
-## Temperature Control: The Critical Factor
-
-The success of FMC Method-1 depends entirely on [[cervantes-reservoir-temperature-management]]:
+FMC is made from a mixture of organic materials fermented with [[cervantes-reservoir-temperature-management]]:
 
 - **Target fermentation range:** 40-50C
 - **Turning trigger:** Turn when temperature reaches 50C
 - **Maximum temperature:** NEVER allow temperature to exceed 70C
-- **Danger zone:** Above 70C, beneficial microbes die and the [[aact-compost-quality-standards-ingham]] deteriorates
-
-### Why Temperature Matters
-
-At temperatures below 40C: fermentation is too slow, unwanted microbes may dominate
-At 40-50C: optimal zone for beneficial thermophilic microorganisms
-At 50C: time to turn the pile (heat buildup indicates oxygen depletion)
-At 60C: many beneficial organisms begin to die
-At 70C: [[sterilization]] occurs -- the compost becomes biologically dead
+- **Danger zone:** Above 70C, beneficial microbes die and the [[sterilization]] occurs -- the compost becomes biologically dead
 Above 70C: irreversible damage, potential fire hazard
 
 ## The Turning Schedule
@@ -71,18 +50,7 @@ The pile must be turned at specific times based on temperature readings:
 
 ### Successful FMC (Sweet Smell)
 
-- Sweet, earthy aroma (like [[fungal-ecology-forest-floor]] after rain)
-- Dark brown to black color
-- Original materials are no longer recognizable
-- Texture is crumbly and uniform
-- Temperature has stabilized near ambient
-- No offensive odors
-
-### Failed FMC (Indicators)
-
-- **Sour smell:** Anaerobic conditions -- too wet or too compact, needed earlier turning
-- **Ammonia smell:** Too much nitrogen-rich material, insufficient carbon, or incomplete fermentation
-- **Putrid/rotten smell:** Anaerobic [[decomposition]] by wrong organisms -- pile may need to be restarted
+- Sweet, earthy aroma (like [[decomposition]] by wrong organisms -- pile may need to be restarted
 - **Dry and powdery:** Insufficient moisture -- add water during next turning
 - **Still hot after 20 days:** Fermentation not complete -- may need additional turns
 
@@ -117,8 +85,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[knf-fermented-mixed-compost]]
 - [[dom]]
-- [[det]]
 - [[composting]]
 - [[permaculture]]

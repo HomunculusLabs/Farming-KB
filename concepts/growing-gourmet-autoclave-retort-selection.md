@@ -8,11 +8,8 @@ sources:
   - ~/wiki/raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md
 type: concept
 ---
-# Autoclave and Retort Selection for [[sterilization]] vessel is one [[bacteria-and-microorganisms-in-mushroom-fruiting]] cultivation. Home-style
-pressure cookers are ideal for sterilizing [[growing-gourmet-agar-media-formulas-preparation]] and
-small batches of grain, but they have insufficient capacity
-for the sterilization of bulk substrates needed for
-commercial production. For [[allegro-names-of-the-gods-and-their-fertility-origins]] pressure ratings have been
+# Autoclave and Retort Selection for [[bacteria-and-microorganisms-in-mushroom-fruiting]] cultivation. Home-style
+pressure cookers are ideal for sterilizing [[allegro-names-of-the-gods-and-their-fertility-origins]] pressure ratings have been
 engineered to operate at 100 psi, far exceeding the needs
 of most mushroom growers.
 The most cost-effective vessels are those developed for
@@ -21,8 +18,7 @@ and are constructed of steel pipe, 1/4 to 3/8 inch thick,
 and ideally fitted with doors at both ends. Quick-opening,
 spider doors are popular and durable.
 ## Essential Autoclave Features
-When equipping an autoclave [[allegro-colour-and-consistency-of-the-amanita-muscaria]] affected mass is overcome. The
-duration [[growing-gourmet-strain-selection]]
+When equipping an autoclave [[growing-gourmet-strain-selection]]
 ## Practical Applications
 
 Autoclave and Retort Selection for Mushroom Cultivation has a range of practical applications that make it relevant to
@@ -97,8 +93,6 @@ through generations to modern scientific approaches, the evolution continues
 to inform current best practices and research directions.
 
 ## See Also
-- [[doc]]
 - [[det]]
-- [[mushroom-cultivation]]
 - [[amanita]]
 - [[sterilization]]

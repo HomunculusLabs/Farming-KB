@@ -104,31 +104,7 @@ Soil health cannot be separated from water management. The designer's water chec
 
 ### Natural Swimming Pools
 
-[[natural-swimming-pools]] demonstrate integrated water and soil thinking: water filters below a pebble bed (pebbles serve as algal and bacterial cleaners), cycles through a reed-bed to remove nutrients, then cascades back oxygenated. These pools support tame fish, crayfish, rock ledges, and ferns — all without chemicals. They simultaneously serve as fire-fighting reserves, heat pump sources, fire barriers, and emergency water supplies.
-
-## Human Health, Nutrition, and Soil
-
-The relationship between soil health and human nutrition is fundamental but often overlooked:
-
-- **Diet quality** depends on the mineral and biological content of the soil in which food is grown
-- **Processed foods** represent a further removal from the soil-health connection, stripping nutrients and adding synthetic inputs
-- **Famine areas** frequently coincide with severely degraded soils, compounding food insecurity
-- **Food-soil interaction** is complex — individual variation in metabolism and food tolerance means that nutritional outcomes are never uniform
-
-## Key Principles for the Permaculture Designer
-
-1. Never expose bare soil — cover with mulch, groundcovers, or living roots at all times
-2. Minimise or eliminate tillage to protect soil structure and microbial communities
-3. Design for water infiltration, not runoff, across every slope and surface
-4. Test soils before construction and planting to guide appropriate strategies
-5. Plan for the long term — soil building is measured in years and decades, not weeks
-6. Isolate food production from known contamination using raised beds or clean zones
-7. Integrate water systems with soil systems for mutual benefit
-8. Prioritise perennial and tree-based systems that naturally conserve and build soil
-
-## See Also
-- [[fukuoka-textdoc-soil-microorganism-natural-fertility-one-gram-soil]]
-- [[tompkins-soil-health-humus-connection]]
+[[fukuoka-textdoc-soil-microorganism-natural-fertility-one-gram-soil]]
 - [[query-what-is-the-role-of-springtails-and-soil-arthropods-in-soil-health]]
 
 - Water Conservation and Storage
@@ -137,3 +113,11 @@ The relationship between soil health and human nutrition is fundamental but ofte
 - Natural Swimming Pools
 - Composting Systems
 - Food Forests and Perennial Agriculture
+
+## See Also
+
+- [[termites-ants-tropical-soil-ecology]]
+- [[clay-soil-management-solomon]]
+- [[teaming-with-microbes-mulch-and-soil-food-web]]
+- [[hamilton-geoffhamilton-nick-organic-gardening-soil-types-and-management]]
+- [[hamilton-alternative-soil-conditioners]]

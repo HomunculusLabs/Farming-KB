@@ -3,7 +3,7 @@ title: Foliar Epiphytic Fungi Sooty Mildews Powdery Mildews
 created: 2026-04-21
 updated: 2026-04-21
 type: concept
-tags: [[mycology]], fungi]
+tags: mycology, fungi]
 sources: []
 ---
 # Foliar Epiphytic Fungi — Sooty Molds, Black Mildews, Downy Mildews
@@ -20,9 +20,7 @@ ground, obtaining nutrients from extracellular plant exudates or
 insect excretions (honeydew from aphids, scale insects). In New
 Zealand Nothofagus forests, trunks and branches are covered up to
 9+ meters high. Some species produce up to three asexual forms
-(pleomorphism), complicating [[challenges-neurotropic-fungi-chemical-analysis-taxonomic-identification]].
-### Morphology
-- [[mycelium]]: weft of dark hyphae, sometimes several mm thick
+(pleomorphism), complicating [[mycelium]]: weft of dark hyphae, sometimes several mm thick
 - Conidiogenous cells and various conidia formed within mycelium
 - Metacapnodiaceae: distinctive tapering, moniliform hyphae with
   rigid smooth-walled cells
@@ -37,22 +35,13 @@ Zealand Nothofagus forests, trunks and branches are covered up to
 ### Collection — Colloidal Leaf Peel
 1. Spread 2% collodion/parlodion solution on leaf colony
 2. Solution dries to transparent film with embedded fungus
-3. Peel film from [[aact-foliar-sticker-spreaders-leaf-surface-attachment-ingham]] — removes intact colony
-4. Place on microscope slide, dissolve collodion with acetone
-5. Examine intact colony under compound microscope
-Reference keys: Luttrell (1973), Hughes (1976), Batista and
-Ciferri (1963), Reynolds (1971-1985).
-## Black Mildews (Meliolales)
-Obligate plant parasites in the order Meliolales ([[ascomycota]]).
+3. Peel film from [[ascomycota]]).
 More than 1,580 species, mostly in genus Meliola (over 1,400).
 Especially abundant in tropics; also from Chile to southern US,
 South Africa to Scotland, Japan to Tasmania. Most diverse in scrub
 or open parkland; rare in dense rain forest undergrowth. Greatest
 infections in naturally or anthropogenically disturbed areas.
-- Scattered dark superficial circular colonies on [[bloomfield-rust-germ-tube-tactile-sensing-leaf-surface-navigation]]
-- Characteristic branching with short two-celled lateral branches
-  (capitate hyphopodia)
-- Fine hyphal filament penetrates host [[chitin-chitosan-fungal-cell-wall]] to haustorium
+- Scattered dark superficial circular colonies on [[chitin-chitosan-fungal-cell-wall]] to haustorium
 - Dark brown ascospores: usually 4-5 cells, rarely over 10 um
 - No asexual states (unlike sooty molds)
 - Uniform hyphae (6-10 um diameter)
@@ -118,8 +107,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[spore]]
 - [[mycelium]]
-- [[ascomycota]]
 - [[gramine]]
 - [[sooty-molds-black-mildews-tropical-foliar-fungi]]

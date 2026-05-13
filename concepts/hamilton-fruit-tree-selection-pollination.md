@@ -12,19 +12,14 @@ type: concept
 
 # Fruit Tree Selection, Pollination, and Rootstocks
 
-Growing [[growing-soft-fruit-organically]] offers obvious advantages: your apples will
-not be drenched with insecticide or coated with preservatives, and the
-organically grown crop is usually large enough to withstand a few bird
-attacks. [[geoff-hamilton]] provides detailed guidance on selecting,
-pollinating, and planting [[comparison-pruning-fruit-trees-vs-grafting-fruit-trees]] for the [[cool-climate-home-garden-mollison]].
+Growing [[geoff-hamilton]] provides detailed guidance on selecting,
+pollinating, and planting [[cool-climate-home-garden-mollison]].
 
 ## Growing Fruit in a Small Garden
 
 Few people have room for a large fruit plot, but even in a small
 garden there is no reason fruit cannot be grown in the ornamental
-part. Most [[comparison-grafting-vs-budding-fruit-trees]] are very decorative, giving a show of blossoms
-in spring followed by attractive fruit in summer and fall. Walls should
-be utilized for growing fan-trained fruit. In [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]] you can
+part. Most [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]] you can
 grow peaches, nectarines, and figs on warm, south-facing walls. Pears
 and apples grow on east- and west-facing walls, and morello cherries
 and quinces on north-facing walls.
@@ -43,29 +38,7 @@ root system. Second, buy young plants; the old tale that trees take
 seven years to fruit so older is better is untrue. Young trees
 establish quickly and crop earlier than those languishing in pots.
 
-Third, buy fruit [[pruning-fruit-trees-and-bushes]] as bare root plants and plant in
-late fall when dormant. Bare root plants tend to be better quality and
-cheaper than container-grown plants. Take into account storage
-qualities and aim for a succession of harvesting.
-
-## Pollination
-
-Many fruit trees will not produce a full crop unless pollinated by a
-different variety of the same species. You will need to grow at least
-two different varieties that flower at the same time. Some varieties
-known as "triploids" are incapable of pollinating others but need
-pollinating themselves, requiring at least three varieties in total.
-
-If you have space for only one tree, grow a "family tree" with three
-or four compatible varieties budded onto the same tree. Apples and
-pears can both be grown this way. Pollen is transferred from flower to
-flower by insects visiting in search of nectar. Plants flowering very
-early, before pollinating insects are active, may need hand pollination
-using a soft camel hair brush.
-
-## Rootstocks
-
-Research into new rootstocks and dwarf varieties means [[holzer-fruit-trees-no-pruning]]
+Third, buy fruit [[holzer-fruit-trees-no-pruning]]
 longer have to be large; you can grow trees in the smallest spaces,
 even in pots on a terrace. A rootstock is a specially selected root
 system onto which the desired variety is grafted. The rootstock
@@ -118,8 +91,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[det]]
 - [[fruit-tree-pruning-training-hamilton]]
-- [[fungal-fruit-tree-diseases]]
 - [[old-fruit-variety-selection]]
 - [[fruit-tree-pruning]]

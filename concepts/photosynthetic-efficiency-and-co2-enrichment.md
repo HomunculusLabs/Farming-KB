@@ -8,16 +8,15 @@ type: concept
 
 ## Overview
 
-[[photosynthetic-efficiency]] is one of the most critical yet often overlooked factors in
-agricultural [[bill-mollison-permaculture-a-designers-manual-climatic-factors-in-design|design]]. In permaculture, understanding how plants capture and convert
-light energy into biomass—and the environmental factors that limit or enhance this
+[[bill-mollison-permaculture-a-designers-manual-climatic-factors-in-design|design]]. In permaculture, understanding how plants capture and convert
+light energy into biomass—and the [[duggar-mushroom-environmental-factors-temperature-moisture-light]] that limit or enhance this
 process—allows designers to create systems that dramatically outperform conventional
-approaches. [[bill-mollison]] argued that intelligent [[photosynthetic-efficiency-and-climate-design|design]] can modify the climatic and
+approaches. [[photosynthetic-efficiency-and-climate-design|design]] can modify the climatic and
 atmospheric conditions governing plant productivity.
 
 ## The CO2 Limitation on Photosynthesis
 
-The primary limiting factor for photosynthetic efficiency in most plants is the leaf's
+The primary limiting factor for [[photosynthetic-efficiency]] in most plants is the leaf's
 ability to obtain sufficient carbon dioxide (CO2) from the air. Atmospheric CO2 at
 sea level is approximately 0.03–0.04%, well below the saturation point for most C3
 crop plants. When CO2 levels are raised to approximately **0.13%** (roughly three to
@@ -40,7 +39,7 @@ composting further extends the growing season, making this a dual-benefit strate
 
 Housing animals within greenhouse structures provides reliable CO2 through
 respiration. Chickens, rabbits, and other small livestock produce CO2 continuously,
-and their body heat adds thermal energy. This exemplifies the permaculture principle
+and their body heat adds thermal energy. This exemplifies the [[permaculture-principle-apply-self-regulation]]
 of each element performing multiple functions: animals provide CO2, heat, manure, and
 products while the greenhouse provides shelter and climate moderation.
 
@@ -62,8 +61,8 @@ and continuous production rather than peak seasonal efficiency.
 
 ### Rice Yields: Temperate vs. Tropical
 
-Rice yields in temperate regions can be **four to five times higher per crop** than
-in tropical regions. Longer, cooler temperate summers allow more photosynthate
+Rice yields in [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]] can be **four to five times higher per crop** than
+[[fukuoka-natural-farming-in-tropical-regions]]. Longer, cooler temperate summers allow more photosynthate
 accumulation during grain-filling without tropical respiratory losses. However,
 tropical regions can harvest **up to three crops per year**, partially compensating
 for lower per-crop yield and producing competitive annual totals.
@@ -84,7 +83,7 @@ transpiration stress while allowing sufficient light for photosynthesis:
 ### Leguminous Tree Integration
 
 Crops grown under leguminous trees in the tropics consistently outperform open-field
-crops. Nitrogen fixation, leaf litter mulch, and microclimate modification from
+crops. Nitrogen fixation, leaf litter mulch, [[tree-temperature-effects-and-microclimate-modification]] from
 species such as Leucaena, Gliricidia, and Calliandra create favorable root
 environments and reduce abiotic stress.
 
@@ -142,7 +141,7 @@ When assessing a site for photosynthetic optimization and climate modification:
 - **Temperature data**: Monthly averages, extremes, frost-free days, and growing
   degree days. Drives photosynthetic rate and growing season length.
 - **Wind data**: Prevailing direction and speed, seasonal variations, and extremes.
-  Affects evapotranspiration, mechanical stress, and shelterbelt design.
+  Affects evapotranspiration, mechanical stress, [[windbreak-and-shelterbelt-design]].
 - **Hardiness zones**: Identify the USDA or equivalent zone to determine perennial
   species survival ranges. Guides species selection and frost-sensitive placement.
 

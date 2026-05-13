@@ -14,13 +14,7 @@ type: concept
 ## Overview
 
 The distribution of psychoactive alkaloids between the cap (pileus) and
-stem (stipe) of [[psilocybe-cubensis]] is not uniform, and the pattern of
-distribution varies significantly between different strains. Bigwood and
-Beug (1982) provided the first controlled quantitative analysis of this
-phenomenon, finding that caps generally contain roughly twice the
-psilocybin concentration of stems, while psilocin shows a strain-
-dependent localization pattern that contradicts simple expectations.
-Understanding these [[guzman-global-distribution-patterns-neurotropic-fungi]] has practical implications
+stem (stipe) of [[guzman-global-distribution-patterns-neurotropic-fungi]] has practical implications
 for users seeking to optimize or standardize their dosage.
 
 ## Bigwood and Beug Findings
@@ -66,14 +60,10 @@ Across all three strains, caps consistently contained equal or greater
 amounts of psilocybin compared to stems. In two of the three strains,
 caps contained approximately 60% more psilocybin than stems. This
 finding aligns with the general mycological understanding that the cap
-is the primary site of [[spore-production-geotropic-sensitivity-coupling-basidiomycete-badham-1982]] and [[fungal-elicitors-enhanced-secondary-metabolite-production]]
+is the primary site of [[fungal-elicitors-enhanced-secondary-metabolite-production]]
 synthesis in agaric mushrooms. The reproductive structures of the cap
 appear to concentrate biosynthetic activity, including the production
-[[hplc-analysis-of-tryptamine-alkaloids]].
-
-## Psilocin Localization: A Strain-Dependent Paradox
-
-The [[psilocybin-vs-psilocin-distribution-cap-stem]] pattern proved more complex and strain-
+[[psilocybin-vs-psilocin-distribution-cap-stem]] pattern proved more complex and strain-
 dependent than the psilocybin pattern. In the M.R. and Equadorian
 strains, psilocin was found exclusively in the stem despite being
 absent from the cap. In the Amazon strain, the reverse was true: a

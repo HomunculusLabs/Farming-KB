@@ -19,14 +19,9 @@ type: concept
 
 # Aerobic vs Anaerobic Tea Benefits Comparison
 
-A central distinction in compost tea production is between aerobic ([[actively-aerated-compost-tea-aact-brewing]]) and anaerobic methods. While both produce liquid extracts from compost, their biological composition, mechanisms of action, and suitability for plant health differ dramatically. Dr. Elaine Ingham's framework evaluates both approaches across five key benefit categories, concluding that aerobic teas provide comprehensive soil health benefits while anaerobic brews carry significant risks.
+A central distinction in compost tea production is between aerobic ([[compost-tea-brewing-methods-aact]] against five core benefits that a healthy soil foodweb provides:
 
-## Five Benefit Categories
-
-The comparison framework assesses [[compost-tea-brewing-methods-aact]] against five core benefits that a healthy soil foodweb provides:
-
-1. Plant protection ([[aact-disease-suppression-mechanisms-ingham]])
-2. [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] and plant growth promotion
+1. Plant protection ([[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] and plant growth promotion
 3. Improved soil nutrient levels
 4. Soil structure building
 5. Toxin decomposition
@@ -37,21 +32,9 @@ The mechanisms by which plants are protected differ fundamentally between the tw
 
 ### Aerobic Tea Mechanisms
 
-[[ingham-anaerobic-vs-aerobic-compost-tea]] tea uses four non-toxic, competitive mechanisms:
+[[teaming-with-microbes-protozoa-and-nematodes]] in the tea consume disease-causing organisms
 
-- **Competition for food**: Beneficial organisms consume food resources faster than pathogens, leaving nothing for disease-causing organisms
-- **Competition for space**: Beneficial organisms physically occupy all available infection sites on leaves and roots
-- **Competition for infection sites**: All surfaces are protected by beneficial biofilms
-- **Predation**: [[teaming-with-microbes-protozoa-and-nematodes]] in the tea consume disease-causing organisms
-
-These are described as mechanical control methods, analogous to cats controlling mice. No toxic chemicals are involved. Importantly, [[query-what-is-the-difference-between-aerobic-compost-tea-and-fermented-plant-extracts]] should not be considered a pesticide because its mode of action is competitive, not toxic.
-
-### Anaerobic Brew Mechanisms
-
-Anaerobic brews protect plants through an entirely different mechanism: the production of toxic compounds. These include organic acids, alcohols, and other metabolic byproducts that inhibit or kill disease organisms. This approach is fundamentally a pesticide mechanism and carries inherent risks:
-
-- Some toxins are harmful to plants, humans, and animals
-- pH problems arise from [[staycare-fungal-organic-acid-production-metal-leaching]]
+These are described as mechanical control methods, analogous to cats controlling mice. No toxic chemicals are involved. Importantly, [[staycare-fungal-organic-acid-production-metal-leaching]]
 - Unpleasant odors indicate nutrient loss from the brew
 - Anaerobic brews should technically be registered with the EPA as pesticides
 
@@ -66,11 +49,7 @@ Aerobic compost teas contain the full spectrum of organisms needed for nutrient 
 - **Nematodes** consume fungi and bacteria, cycling additional nutrients
 - If no plants are present, other bacteria and fungi consume released nutrients, maintaining the cycle
 
-This creates a self-regulating [[solomon-fertigation-bucket-drip-water-nutrient-delivery-system]] where the plant controls its own nutrition.
-
-### Anaerobic Brews
-
-Anaerobic conditions eliminate most organisms involved [[comparison-soil-protozoa-vs-nematodes-in-nutrient-cycling]]. Beneficial fungi, protozoa, and nematodes are all killed. Nutrients become locked in bacterial biomass with no predators to release them. Nitrogen is lost as ammonia and nitrous oxide, sulfur is lost as hydrogen sulfide gas (the rotten egg smell), and pH drops into the acidic range. Nutrient cycling stops entirely and anaerobic brews actively deplete soil nutrients.
+This creates a self-regulating [[comparison-soil-protozoa-vs-nematodes-in-nutrient-cycling]]. Beneficial fungi, protozoa, and nematodes are all killed. Nutrients become locked in bacterial biomass with no predators to release them. Nitrogen is lost as ammonia and nitrous oxide, sulfur is lost as hydrogen sulfide gas (the rotten egg smell), and pH drops into the acidic range. Nutrient cycling stops entirely and anaerobic brews actively deplete soil nutrients.
 
 ## 3. Soil Nutrient Levels
 
@@ -118,8 +97,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[soil-foodweb]]
 - [[nitrous-oxide]]
-- [[elaine-ingham]]
 - [[decomposition]]
 - [[comparison-aerobic-vs-anaerobic-composting]]

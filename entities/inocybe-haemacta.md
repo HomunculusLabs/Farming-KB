@@ -14,24 +14,17 @@ sources:
   - /Users/t3erpz/wiki/raw/papers/field-guide-to-the-psilocybin-mushroom.md
 ---
 # Inocybe haemacta
-**Inocybe haemacta** is a [[mycelium-running-mycorrhizal-mushroom-gardens]] in the family Inocybaceae
-reported to contain [[psilocybin]], placing it among the
+**Inocybe haemacta** is a [[psilocybin]], placing it among the
 minority of Inocybe species known to be psychoactive. This is significant
 because the genus is predominantly associated with toxic compounds, particularly
 muscarine, which causes parasympathetic overstimulation including sweating,
 salivation, gastrointestinal distress, bradycardia, and in severe cases,
 respiratory depression.
-Other psilocybin-containing Inocybe species include [[inocybe-corydalina]], [[inocybe-crocata]]. The co-occurrence of psilocybin and potentially
+Other psilocybin-containing Inocybe species include [[inocybe-crocata]]. The co-occurrence of psilocybin and potentially
 muscarine in Inocybe species raises serious safety concerns.
 ## Toxicity and Safety Concerns
 Consumption of Inocybe haemacta carries significant risk due to the potential
-presence of muscarine and other toxic compounds alongside [[archaeology-of-psychedelic-mushroom-use]] is another potentially
-psychoactive species with similar coloration. Non-psychoactive but toxic
-species in the genus may be virtually indistinguishable without microscopic
-examination.
-## Cultivation
-I. haemacta has not been cultivated and is unlikely to be amenable to
-cultivation due to its obligate mycorrhizal ecology. [[arbuscular-mycorrhizal-fungi-biology-symbiosis]]
+presence of muscarine and other toxic compounds alongside [[arbuscular-mycorrhizal-fungi-biology-symbiosis]]
 require living host plants and cannot be grown on standard agar or grain-based
 substrates.
 ## Legal Status
@@ -44,26 +37,8 @@ potential toxicity than its psychoactive properties.
 The specific epithet "haemacta" derives from Greek "haima" (blood), referring
 to the distinctive reddish to blood-red coloration of the cap and stipe.
 ## See Also
-- [[inocybe-corydalina]]
 - [[psilocybin]] — the primary psychoactive compound
-- [[muscarine]] — the toxic compound found in many Inocybe species
-## Practical Considerations
-
-When working with Inocybe haemacta, several practical factors should be
-carefully considered to achieve optimal results. These include
-the specific conditions of the implementation context, available
-resources, timing requirements, and the interactions between this
-topic and other elements of the broader system. A holistic view
-that considers these interconnections produces better outcomes.
-
-Environmental conditions such as temperature, moisture, and
-seasonal patterns significantly influence results. Monitoring these
-variables and adapting practices accordingly is essential for success.
-The most effective practitioners develop keen observation skills and
-respond flexibly to changing conditions rather than following rigid
-protocols regardless of circumstances or local variation.
-
-[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
+- [[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -87,3 +62,88 @@ creating a reference base of observations, interventions, and results.
 This accumulated knowledge enables progressively better decision-making
 and helps identify patterns that might otherwise be overlooked in the
 complexity of day-to-day management and observation activities.
+
+## Overview
+
+Inocybe Haemacta represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish inocybe haemacta
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving inocybe extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Inocybe Haemacta finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for inocybe haemacta. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+inocybe haemacta and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Inocybe Haemacta has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of inocybe haemacta into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[gartz-inocybe-aeruginascens-distribution-and-psychoactivity]]
+- [[guzman-allen-gartz-neurotropic-inocybe-species]]
+- [[inocybe-aeruginascens-neurotropic-cortinariaceae-guzman-1998]]
+- [[inocybe-erubescens]]
+- [[inocybe-geophylla]]

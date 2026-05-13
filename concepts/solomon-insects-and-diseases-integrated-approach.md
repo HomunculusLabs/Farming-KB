@@ -10,9 +10,7 @@ sources:
 
 # Solomon on Insects and Diseases (Integrated Approach)
 
-From [[solomon-mulching-and-cover-cropping]]
-- [[permaculture-plant-stacking-vertical-guilds]]
-- [[root-competition-plant-spacing-solomon]]
+From [[permaculture-plant-stacking-vertical-guilds]]
 - [[solomon-gardening-when-it-counts-index]]
 ## Background and Context
 

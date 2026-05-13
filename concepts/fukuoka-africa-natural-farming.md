@@ -52,41 +52,8 @@ Fukuoka identified both internal and external causes:
 
 In the region that Fukuoka visited, hundreds of thousands of refugees from Ethiopia were living in temporary huts. These could hardly qualify even as huts, appearing to be little more than bird's nests made of thorny branches propped up against one another. The refugees poked fun at themselves by calling their housing "covered with dried leaves or a single, battered rag."
 
-The food in the camps consisted entirely of wheat from the U.S., [[fukuoka-old-rice-variety-testing]] from Japan, and macaroni from Italy. There were no vegetables. A typical hut had just one pan, one knife, and one cup as tableware. This was often the sum total of a family's possessions.
-
-Through natural farming projects, they began eating daikon leaves and even the white roots that they had refused to touch at first. If everything goes well, Fukuoka predicted, they would soon be enjoying cool breezes in the shade of the fast-growing palmyra and banana trees.
-
-## Fukuoka's Prescription for Africa
-
-"Without a plan and policy to revegetate the African deserts, the people living there cannot become independent and self-sufficient. Without the ability of a people to be self-supporting, an ideal society cannot be built."
-
-He prescribed:
-
-1. Without becoming contaminated with the materialistic thinking of developed nations, the ancient "Great Spirit" must be revived and a spiritual culture developed
-
-2. The first step is the establishment of domestic life
-
-3. The quickest and most effective means of domestic life is through natural farming
-
-4. As a life of autonomy and self-support is built up through natural farming, revegetation of the land will surely follow
-
-## The Scale Problem
-
-Fukuoka acknowledged the enormous challenge: "Africa is just so large that even if green vegetation and forests are restored to one part of it, this really accounts for very little." The only way to revegetate an entire vast region at once is to scatter seeds from airplanes -- a method still in development.
-
-## Against Foreign Aid Workers
-
-Fukuoka's blunt advice: "People in developed countries should all get out of Africa -- that is, other than those providing some technical aid." His reasoning was that true happiness does not lie in the direction in which the advanced nations are headed. Africa's people have an excellent capacity for independence and self-reliance, and they know what their ideal society should look like.
-
-## Related Concepts
-
-- [[fukuoka-seed-ball-technique]] -- the method for aerial seed scattering
-- [[fukuoka-natural-diet-food-philosophy]] -- food philosophy and diet
+The food in the camps consisted entirely of wheat from the U.S., [[fukuoka-seed-ball-technique]] -- the method for aerial seed scattering
 - [[desertification]] -- the broader problem of desert expansion
-- [[fukuoka-desert-revegetation-natural-farming]]
-
-## See Also
-
 - [[fukuoka-forty-days-africa]]
 
 ## Practical Applications
@@ -118,8 +85,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[natural-farming]]
 - [[dom]]
-- [[soma]]
 - [[desertification]]
 - [[fukuoka-africa-agricultural-failure-deficit-farming-analysis]]

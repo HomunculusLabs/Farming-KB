@@ -8,20 +8,14 @@ type: concept
 
 ## Overview
 
-Fractals — from the Latin *fractus*, meaning shattered — are among the most ubiquitous [[patterns-in-nature]]. Coined by Benoit Mandelbrot, who assembled his own insights and the speculations of others to found a mathematics of fractals, this concept provides a way to make sense of irregular phenomena, just as Euclid did for regular and measurable forms. In [[permaculture-design]], understanding fractals and branching systems is essential for creating efficient pathways, distribution networks, and exchange surfaces that mirror natural patterns.
+Fractals — from the Latin *fractus*, meaning shattered — are among the most ubiquitous [[permaculture-design]], understanding fractals and branching systems is essential for creating efficient pathways, distribution networks, and exchange surfaces that mirror natural patterns.
 
 ## Fractal Forms in Nature
 
 Fractals are as common in nature as in abstractions. Examples span an extraordinary range of scales and media:
 
 - **Geological**: Impact shatter zones, fulgurites (sand fused by lightning) in sand dunes, the complex lengths of coastlines, the intricacies of turbulence
-- **Biological**: Neurone nets and their signals, tree branches and roots, [[mycorrhiza]] in plant cells, the plan view of a tree crown showing apparently random scatters of growth points
-- **Physical**: Forked lightning, snowflakes, cloud formations
-- **Informational**: Computer searching procedures, plant identification keys
-
-### The Tree Form as a Fractal Container
-
-In the [[permaculture]] tree model, fractal patterns (as branches and roots) are contained within a form that would be comprehensible to Euclid — having straight axes, a plane, and regular curved lines drawn as arcs of perfect circles. Thus the apparent chaos of fractals can be seen to underlie quite regular (but never perfect) shapes in nature, just as branches underlie the crown canopy of a tree. As Mandelbrot demonstrated, fractals have their own regular generators and evolutions.
+- **Biological**: Neurone nets and their signals, tree branches and roots, [[permaculture]] tree model, fractal patterns (as branches and roots) are contained within a form that would be comprehensible to Euclid — having straight axes, a plane, and regular curved lines drawn as arcs of perfect circles. Thus the apparent chaos of fractals can be seen to underlie quite regular (but never perfect) shapes in nature, just as branches underlie the crown canopy of a tree. As Mandelbrot demonstrated, fractals have their own regular generators and evolutions.
 
 ### Roots as Underground Shatter
 
@@ -139,3 +133,11 @@ When a dominant animal is removed from a behavioural hierarchy, another is creat
 - Mandelbrot, B. — *The Fractal Geometry of Nature*. Foundation of fractal mathematics.
 - New Scientist, 26 April 1984, p. 17 and 4 April 1985, pp. 31–35 — coverage of fractal theory.
 - Vogel, S. (1981). *Life in Moving Fluids* — insights into branching, flow physics, and biological adaptations.
+
+## See Also
+
+- [[fractals-and-branching-patterns]]
+- [[hyphal-branching-regulation-nutrient-sensing-gadd]]
+- [[stream-orders-and-branching-hierarchies]]
+- [[branching-patterns-and-fractal-geometry-in-nature]]
+- [[gadd-hyphal-tip-growth-and-branching-mechanisms]]

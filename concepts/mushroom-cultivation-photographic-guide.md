@@ -16,11 +16,8 @@ type: concept
 
 # Mushroom Cultivation Photographic Guide
 
-The [[emcdda-psilocybin-non-addictive-profile-tolerance-dynamics]] Image Guide from Erowid contains an extensive
-series of cultivation photographs documenting the [[comparison-cannabis-indoor-growing-basics-vs-cannabis-outdoor-growing]] of
-[[psilocybin-mushrooms]]
-indoors. The photographs in the image guide document several key
-stages of this process as applied to [[growing-gourmet-tree-species-guide-mushroom-cultivation]]
+The [[comparison-cannabis-indoor-growing-basics-vs-cannabis-outdoor-growing]] of
+[[growing-gourmet-tree-species-guide-mushroom-cultivation]]
 
 ## See Also
 

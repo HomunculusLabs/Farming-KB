@@ -13,37 +13,13 @@ type: comparison
 ## Overview
 
 Keyhole gardens and raised beds are both elevated growing systems that
-[[query-how-do-i-improve-soil-drainage-in-my-garden]], reduce bending, and concentrate soil amendments
-in a defined area. The key distinction is shape and internal structure:
-keyhole gardens use a circular design with a central compost basket and a
-notch for access, while raised beds are typically rectangular frames
-filled with soil. Keyhole gardens originated in Africa through
-humanitarian gardening programs and integrate composting directly into
-the [[cotter-growing-space-design-fruiting-rooms]]. Raised beds have broader global adoption and come in
+[[cotter-growing-space-design-fruiting-rooms]]. Raised beds have broader global adoption and come in
 many variations including standard framed beds, hugelkultur mounds, and
 wicking beds.
 
 ## Keyhole Gardens
 
-[[raised-bed-gardening]]
-
-Raised beds are rectangular (occasionally square or L-shaped) frames
-elevated above ground level, typically 0.15 to 0.6 meters tall and 0.9
-to 1.5 meters wide. The width is calibrated so a gardener can reach the
-center from either side without stepping on the soil. Materials include
-untreated lumber, cedar, galvanized steel, concrete blocks, and natural
-stone. They can be filled with native soil amended with compost, or
-with a purpose-built mix of topsoil, compost, and aeration materials
-like perlite or vermiculite. Raised beds warm faster in spring, drain
-better than in-ground plots, and allow intensive planting through
-square-foot or bio-intensive spacing methods.
-
-The rectangular form is extremely versatile. Raised beds can be placed
-in rows to create organized garden layouts, covered with hoops for
-[[comparison-season-extension-techniques-vs-cold-frame-gardening]], fitted with [[comparison-drip-irrigation-vs-passive-irrigation]] lines, or connected into
-larger growing systems. They scale well — adding another bed is
-straightforward, and beds can be arranged to follow contours or fill
-available space. [[comparison-crop-rotation-vs-cover-cropping]] is simpler in rectangular beds because
+[[comparison-season-extension-techniques-vs-cold-frame-gardening]], fitted with [[comparison-crop-rotation-vs-cover-cropping]] is simpler in rectangular beds because
 families can move from one bed to the next each season. The long
 straight edges also work well with trellises, netting, and row covers.
 
@@ -104,6 +80,5 @@ keyhole concept applied vertically.
 
 ## See Also
 
-- [[comparison-herb-spiral-vs-keyhole-garden]]
 - [[comparison-wicking-bed-vs-raised-bed]]
 - [[comparison-keyhole-garden-vs-square-foot-gardening]]

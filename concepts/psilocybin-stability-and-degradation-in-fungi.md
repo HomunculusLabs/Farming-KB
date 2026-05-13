@@ -17,32 +17,7 @@ to specimen age. In *Psilocybe baeocystis* and *P. cyanescens*, specimens
 analyzed 20-60 days after collection showed no trace of indole compounds
 whatsoever.
 
-This age-related degradation aligns with [[traditional-indigenous-use-sacred-fungi]] knowledge.
-Mexican Indians wisely advise that old dried specimens kept for more than
-one year are not good for use and should be discarded. Guzmán personally
-verified this: normal doses of *Psilocybe mexicana* and *P. caerulescens*
-that had been dried for almost a year produced only slight or entirely
-inactive effects.
-
-## Herbarium Specimen Analysis
-
-Ohenoja et al. (1987) conducted a revealing study measuring psilocybin
-content in [[herbarium-specimens-fungal-collections]] of *[[guzman-allen-gartz-psilocybe-semilanceata-temperate-cosmopolitan-distribution]]* of different ages:
-
-| Collection Year | Age of Specimen | Psilocybin (% dry weight) |
-|----------------|-----------------|--------------------------|
-| 1869 | ~115 years old | 0.014% |
-| 1954 | ~30 years old | 0.67% |
-| 1976 | ~8 years old | 0.84% |
-
-This dramatic decline demonstrates that psilocybin content decreases
-substantially over time, even in preserved herbarium specimens. The oldest
-specimen retained only 1.7% of the psilocybin content compared to the
-freshest sample.
-
-## Volatility of Psilocybin and Psilocin
-
-Psilocybin and psilocin appear to be [[mycovolatiles-fungal-volatile-compounds]], not merely unstable
+This age-related degradation aligns with [[herbarium-specimens-fungal-collections]] of *[[mycovolatiles-fungal-volatile-compounds]], not merely unstable
 ones. This was dramatically demonstrated by Guzmán in 1958 while exploring
 Oaxaca in search of neurotropic fungi. He experienced vivid colored
 hallucinations without having consumed any fungi. He had been sleeping in a
@@ -65,30 +40,7 @@ problems in the scientific literature:
 ### Hofmann's Negative Results
 
 Hofmann, working with material gathered by Wasson in a Mexican market,
-found no indoles in specimens of *[[cordyceps-capitata-ophioglossoides-mexican-ceremonial]]* and *C.
-ophioglossoides*. These specimens had been preserved for a long time as
-sacred fungi in the market, and their age likely accounted for the absence
-of detectable compounds.
-
-### Misidentification Compounding Degradation
-
-The problem of specimen age is compounded by misidentification. In one case,
-material used by Leslie and Repke to isolate psilocybin was later found by
-Guzmán to be a mixture of *Panaeolus* spp. and *Psilocybe mexicana* along
-with *P. coprophila*, all identified under the single name *P. coprophila*
-in the ENCB Herbarium at Mexico City.
-
-### Venezuelan Pseudobullacea Anomaly
-
-*Psilocybe pseudobullacea* is a non-bluing species with no confirmed
-neurotropic properties. However, Marcano et al. (1994) isolated psilocybin
-and psilocin from Venezuelan specimens. Guzmán concluded that the
-Venezuelan material likely belongs to a different, neurotropic species that
-had been misidentified as *P. pseudobullacea*.
-
-## Degradation in the Panaeoloid Fungi
-
-The contradictory chemical results for *[[guzman-panaeolina-foenisecii-psilocybin-controversy-conflicting-chemical-analyses]]* across
+found no indoles in specimens of *[[guzman-panaeolina-foenisecii-psilocybin-controversy-conflicting-chemical-analyses]]* across
 multiple studies may partly reflect specimen age and handling differences:
 
 **Studies finding psilocybin**: Robbers et al. (1969), Ola'h (1969),

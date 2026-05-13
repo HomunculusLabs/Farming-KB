@@ -18,27 +18,7 @@ type: concept
 # Distribution
 
 Basidiomycetous yeasts are a polyphyletic assemblage of fungi
-within the phylum [[cryptococcus-neoformans]] and
-  the teleomorphic genus Filobasidiella. The Tremellales is the
-  best-represented order of basidiomycetous yeasts in fungicolous
-  surveys, with 170 species recorded.
-- **Trichosporonales**: Contains trichosporon, an important
-  genus of opportunistic pathogens. Trichosporon species are
-  commonly associated with hair and skin and can cause
-  white piedra and invasive infections in immunocompromised
-  patients.
-- **Filobasidiales**: Includes Filobasidiella and related taxa.
-- **Cystofilobasidiales**: Contains genera such as
-  Cystofilobasidium, Mrakia, and Mrakiella, which are often
-  psychrophilic (cold-adapted) and associated with cold
-  environments.
-
-### Urediniomycetous Yeasts
-The Urediniomycetes contains several yeastlike lineages:
-
-- **Sporidiales**: A polyphyletic assemblage including members
-  of the Erythrobasidium and Agaricostilbum clades, as well as
-  the genus [[malassezia-commensal-pathogenic-yeasts]]
+within the phylum [[malassezia-commensal-pathogenic-yeasts]]
 species) and the Microstromatales.
 
 ## Key Genera
@@ -57,26 +37,8 @@ or plankton blooms.
 ### Sporidiobolus and Sporobolomyces
 These genera are known for their production of ballistoconidia
 -- forcibly discharged spores that can be collected on
-[[query-how-to-make-agar-plates-for-mushroom-cultivation]] exposed to air above infested vegetation. They are
-common leaf-surface yeasts and contribute to the phyllosphere
-microbiome. Some Sporobolomyces species are coprophilous.
-
-### Trichosporon
-Trichosporon species are commonly found on skin and hair and
-can cause white piedra (superficial hair infection). Several
-species are important opportunistic pathogens of
-immunocompromised patients, causing invasive trichosporonosis.
-The genus belongs to the Trichosporonales.
-
-### Mrakia and Leucosporidium
-These cold-adapted (psychrophilic or psychrotolerant) yeasts
-are commonly isolated from cold environments including polar
-soils, glacial ice, and cold ocean waters. They represent
-important components of [[biodiversity-of-fungi-soil-fungal-communities-agriculture]] in extreme cold
-habitats. See [[basidiomycetous-yeasts-ballistoconidia-biocontrol]]
-
-- [[yeast-biodiversity-isolation-ecology]]
-- [[malassezia-commensal-pathogenic-yeasts]]
+[[biodiversity-of-fungi-soil-fungal-communities-agriculture]] in extreme cold
+habitats. See [[yeast-biodiversity-isolation-ecology]]
 - [[rhodotorula-yeast-biodiversity-ecology]]
 
 ## Practical Implications
@@ -110,15 +72,78 @@ to broader system design and look for synergies between methods
 that can amplify overall effectiveness.
 
 ## See Also
-- [[soil-chytridiomycetes-diversity-distribution]]
 - [[arbuscular-mycorrhizal-fungal-diversity-patterns-distribution]]
-- [[basidiomycetous-yeasts-ballistoconidia-biocontrol]]
 - [[gadd-phylogenetic-species-recognition-fungi]]
-- [[knf-seed-diversity-and-conservation]]
-## See Also
-
 - [[basidiomycetous-yeasts-ballistoconidia-biocontrol]]
-- [[arbuscular-mycorrhizal-fungal-diversity-patterns-distribution]]
 - [[soil-chytridiomycetes-diversity-distribution]]
-- [[gadd-phylogenetic-species-recognition-fungi]]
 - [[strain-dependent-alkaloid-tissue-distribution-cap-stem-psilocybe-cubensis]]
+
+## Overview
+
+Basidiomycetous Yeasts Diversity Phylogenetic Distribution represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish basidiomycetous yeasts diversity phylogenetic distribution
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving basidiomycetous extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Basidiomycetous Yeasts Diversity Phylogenetic Distribution finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for basidiomycetous yeasts diversity phylogenetic distribution. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+basidiomycetous yeasts diversity phylogenetic distribution and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Basidiomycetous Yeasts Diversity Phylogenetic Distribution has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of basidiomycetous yeasts diversity phylogenetic distribution into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.

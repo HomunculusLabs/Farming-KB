@@ -13,12 +13,7 @@ sources:
   - Plowman, T. & Hensold, N. (2001). "Names, Types, and Distributions of Erythroxylum." Field Museum of Natural History.
   - Ratsch, C. (2005). "The Encyclopedia of Psychoactive Plants." Park Street Press.
   - Schultes, R.E. & Hofmann, A. (1992). "Plants of the Gods." Healing Arts Press.
-  - Bieri, S. et al. (2006). "[[biodiversity-fungal-genetic-diversity]] of Erythroxylum." Plant Systematics and Evolution, 242(1).
----
-
-## Overview
-
-Erythroxylum novogranatense (commonly called Colombian coca or trujillo coca) is a shrub in the family Erythroxylaceae, closely related to [[erythroxylum-coca]]. It is one of the four cultivated coca species and the primary source of commercially harvested coca leaves in Colombia.
+  - Bieri, S. et al. (2006). "[[erythroxylum-coca]]. It is one of the four cultivated coca species and the primary source of commercially harvested coca leaves in Colombia.
 
 The species is distinguished from Erythroxylum coca by several morphological features including smaller, thinner leaves and differences in fruit shape. It is generally considered to have higher cocaine alkaloid content than Erythroxylum coca var. coca.
 
@@ -38,21 +33,9 @@ Flowers are small, approximately 5 mm in diameter, with five yellow-white petals
 
 Fruit is an ellipsoidal drupe approximately 1 cm long, maturing from green to bright red. Each fruit contains a single seed that is viable for propagation when freshly harvested.
 
-The root system is fibrous and relatively shallow, adapted to the well-drained volcanic soils of its native Andean habitat. Roots associate with [[arbuscular-mycorrhizal-fungi]] that enhance [[aact-microbial-foliar-nutrient-uptake-co2-stomata-ingham]] in the nutrient-poor [[mollison-designers-pioneer-species-for-exhausted-tropical-soils]].
+The root system is fibrous and relatively shallow, adapted to the well-drained volcanic soils of its native Andean habitat. Roots associate with [[aact-microbial-foliar-nutrient-uptake-co2-stomata-ingham]] in the nutrient-poor [[cannabis-leaf-morphology-and-phyllotaxy]].
 
-Two recognized varieties exist: Erythroxylum novogranatense var. novogranatense (Colombian coca) and var. truxillense (Trujillo coca). The latter is adapted to drier coastal conditions and has distinct [[cannabis-leaf-morphology-and-phyllotaxy]].
-
-Genetic analysis suggests that Erythroxylum novogranatense diverged from Erythroxylum coca relatively recently in evolutionary terms. The species may represent a domesticated lineage selected for higher [[mycelial-broth-alkaloid-production]] and adaptability to cultivation.
-
-The bark is grayish-brown and smooth on young stems, developing small lenticels and fine cracks with age. When damaged, the bark exudes a slightly mucilaginous sap that dries to a thin, translucent film.
-
-## Alkaloid Profile and Chemistry
-
-Erythroxylum novogranatense contains cocaine as its primary alkaloid, with total alkaloid content typically ranging from 0.4% to 1.0% by dry leaf weight. These concentrations are generally higher than those found in Erythroxylum coca var. coca.
-
-The alkaloid profile includes several related tropane alkaloids beyond cocaine itself. These include cinnamoylcocaine, benzoylecgonine, and methylecgonine as significant minor components.
-
-Tropacocaine, a structural isomer of cocaine with milder pharmacological effects, has been identified in some populations of Erythroxylum novogranatense. The relative proportions of these minor alkaloids vary between [[holzer-stone-fruit-varieties-and-growing]] conditions.
+Genetic analysis suggests that Erythroxylum novogranatense diverged from Erythroxylum coca relatively recently in evolutionary terms. The species may represent a domesticated lineage selected for higher [[holzer-stone-fruit-varieties-and-growing]] conditions.
 
 Truxillense variety leaves contain higher proportions of certain alkaloids compared to the type variety. This chemical variation has practical implications for both traditional use and industrial processing.
 
@@ -62,15 +45,7 @@ Alkaloid biosynthesis in Erythroxylum species follows the tropane alkaloid pathw
 
 ## Distribution and Habitat
 
-Erythroxylum novogranatense is native to the Andean region of [[guzman-psilocybin-mushrooms-south-america]], with its center of diversity in Colombia. It is cultivated from sea level to approximately 2000 meters elevation across the northern Andes.
-
-The species is more adaptable to diverse growing conditions than Erythroxylum coca, thriving in both humid lowland and drier montane environments. This adaptability has contributed to its widespread cultivation throughout Colombia.
-
-Trujillo coca (var. truxillense) is specifically adapted to the arid coastal valleys of northern Peru. It tolerates drought and saline conditions better than the type variety, growing in areas receiving less than 500 mm annual rainfall.
-
-Wild populations of Erythroxylum novogranatense are rare, as the species has been under cultivation for so long that truly wild stands are difficult to identify. Most populations represent escapees from cultivation or managed wild stands.
-
-The species has been introduced to other [[fukuoka-natural-farming-in-tropical-regions]] for research and cultivation trials. Outside its native range, it has shown limited naturalization potential due to specific soil and climate requirements.
+Erythroxylum novogranatense is native to the Andean region of [[fukuoka-natural-farming-in-tropical-regions]] for research and cultivation trials. Outside its native range, it has shown limited naturalization potential due to specific soil and climate requirements.
 
 Erythroxylum novogranatense can be distinguished from related species in the field by its smaller, more delicate leaves with pronounced longitudinal striations. Experienced harvesters identify it reliably by leaf texture and the characteristic alkaline taste of fresh leaf material.
 
@@ -80,10 +55,88 @@ Andean peoples have used Erythroxylum novogranatense leaves for at least 5000 ye
 
 In Colombia, coca leaf consumption remains culturally important among indigenous communities including the Kogi, Arhuaco, and Wiwa peoples of the Sierra Nevada de Santa Marta. These communities consider coca a sacred plant essential to spiritual practice and daily life.
 
-Traditional medicinal applications include treatment of altitude sickness, [[blesching-cannabis-gastrointestinal-disorders]], fatigue, and toothache. The mild stimulant effect provides sustained energy without the intense peaks and crashes associated with isolated cocaine.
-
-The leaves are also brewed into teas (mate de coca) widely consumed in Andean countries for altitude adaptation and general well-being. These preparations deliver sub-psychoactive doses of alkaloids that provide functional stimulation.
-
-Modern illicit cocaine production from Erythroxylum novogranatense involves [[cannabis-solvent-extraction]] and chemical processing to isolate cocaine hydrochloride. This industrial process bears little resemblance to traditional leaf consumption and produces a pharmacologically distinct product with vastly different risk profiles.
+Traditional medicinal applications include treatment of altitude sickness, [[cannabis-solvent-extraction]] and chemical processing to isolate cocaine hydrochloride. This industrial process bears little resemblance to traditional leaf consumption and produces a pharmacologically distinct product with vastly different risk profiles.
 
 Efforts to develop pharmaceutical applications of coca alkaloids continue, including research into local anesthetics and vasoconstrictors. Cocaine remains the only naturally occurring compound with both local anesthetic and vasoconstrictor properties.
+
+## Overview
+
+Erythroxylum Novogranatense represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish erythroxylum novogranatense
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving erythroxylum extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Erythroxylum Novogranatense finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for erythroxylum novogranatense. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+erythroxylum novogranatense and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Erythroxylum Novogranatense has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of erythroxylum novogranatense into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[erythroxylum-coca]]
+- [[plants-of-the-gods-erythroxylum-coca]]

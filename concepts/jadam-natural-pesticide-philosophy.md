@@ -11,43 +11,12 @@ type: concept
 # JADAM Natural Pesticide Philosophy
 
 JADAM's approach to natural pesticide represents a pragmatic middle ground
-between romantic views of nature that reject all [[comparison-pheromone-based-pest-control-vs-beneficial-insect-biocontrol]] and conventional
-agriculture's reliance on expensive synthetic chemicals. Founded by Youngsang
-Cho, JADAM (Jayonul Damun Ultralow-cost Agriculture) argues that pesticide
-is essential in farming because the fundamental purpose of agriculture is to
-take the entire harvest, whereas nature's purpose is to share fruits with
-animals and birds for [[clay-pellet-seed-dispersal]]. Rather than pretending farming can
-exist without pest control, JADAM developed ultra-low-cost [[jadam-pest-control-with-natural-pesticides-jhs]]
-that farmers can make themselves.
-
-## Why Pesticide Is Essential
-
-JADAM's philosophy directly challenges the notion that healthy plants will be
-pest-free. While good soil management and fertilization produce healthier
-plants with fewer problems, this does not mean zero pests. On the contrary,
-healthier trees with tastier fruits attract more pests. The critical irony of
-farming is that it opposes nature's design: trees color their fruits and
-improve their fragrance specifically to attract insects, birds, and animals
-as seed-dispersal agents. Autumn is the season when trees market their
-fruits to clients. Trees are not attached to their fruits; they want them
-eaten and carried far away.
-
-[[jadam-natural-vs-chemical-pesticide]] that cost 10 dollars ten years ago now costs 100 dollars,
+between romantic views of nature that reject all [[clay-pellet-seed-dispersal]]. Rather than pretending farming can
+exist without pest control, JADAM developed ultra-low-cost [[jadam-natural-vs-chemical-pesticide]] that cost 10 dollars ten years ago now costs 100 dollars,
 and prices continue climbing. The biggest culprit in making farming expensive
 is chemical pesticide. Commercial organic pesticides are even more expensive
 than chemical ones and often require more frequent application. JADAM
-pesticide costs about 1/50 of buying [[comparison-parasitoid-wasps-vs-chemical-pesticides]], bringing total
-farming costs down to approximately 100 dollars per acre.
-
-## Natural vs. Chemical Pesticides
-
-JADAM draws a clear distinction between natural and chemical pesticides based
-on biodegradability. Chemical pesticides are not fully decomposed by
-microbes, persisting in the environment and accumulating in ecosystems. JADAM
-natural pesticides are made from substances that microbes can decompose,
-leaving no harmful residues in soil, water, or harvested produce.
-
-The key ingredients in [[jadam-pesticide-dosage-guide]] are substances safe for humans that
+pesticide costs about 1/50 of buying [[jadam-pesticide-dosage-guide]] are substances safe for humans that
 comply with international organic production regulations. JADAM pesticide
 does not develop resistance in pests because it works through multiple modes
 of action simultaneously, unlike single-compound synthetic chemicals that
@@ -69,7 +38,7 @@ innovation that makes JADAM pesticide effective at ultra-low cost.
 JADAM sulfur is a germicide made from sulfur without heating, taking only
 20 minutes to prepare. JS is no less effective than chemical pesticides and
 does not damage plastic or steel pipes like traditional lime-sulfur mixtures.
-It controls [[duggar-mushroom-insect-pests-and-fungal-diseases]] including [[cervantes-powdery-mildew-prevention-treatment]], downy mildew, and
+It controls [[cervantes-powdery-mildew-prevention-treatment]], downy mildew, and
 anthracnose without the corrosive properties of conventional sulfur
 preparations.
 
@@ -78,14 +47,7 @@ preparations.
 JHS is made by steeping selected herbs in water, primarily for its
 insect-controlling effect. Different herb combinations target different pest
 species. The selection of herbs for JHS preparation is documented in JADAM's
-comprehensive [[jadam-jhs-herb-selection-guide]] guide, with specific recipes for aphids, mites,
-moths, stinkbugs, and other common pests.
-
-## Practical Application Philosophy
-
-JADAM takes a gradual, comfortable approach to pesticide transition. Farmers
-can use JADAM pesticide alongside chemical pesticides they already use. As
-a beginning, use JADAM [[jadam-pesticide-for-powdery-mildew]] mildew, downy mildew, fungus,
+comprehensive [[jadam-pesticide-for-powdery-mildew]] mildew, downy mildew, fungus,
 aphids, mites, and moths, while continuing chemical pesticide for other
 issues. Any start should be light-hearted and comfortable. As confidence
 
@@ -118,8 +80,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[doc]]
 - [[jadam-natural-farming-philosophy]]
-- [[jadam-natural-pesticide-institute-and-research]]
 - [[jadam-natural-pesticide-programs]]
 - [[query-how-do-i-make-jadam-natural-pesticide-jnp]]

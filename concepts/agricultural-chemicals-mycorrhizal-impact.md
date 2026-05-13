@@ -11,38 +11,19 @@ Updated: 2026-04-18
 
 ## Overview
 
-Many common agricultural practices and chemical inputs can damage or destroy [[mycorrhiza]]l communities.
-
-Source: [[arbuscular-mycorrhizal-fungi]] because they attack fungal components such as:
+Many common agricultural practices and chemical inputs can damage or destroy [[arbuscular-mycorrhizal-fungi]] because they attack fungal components such as:
 - Unique cell walls
 - Metabolic processes specific to fungi
 
-Agricultural seed is often coated with fungicides, and fungicides are routinely applied to agricultural soils. These biocides do not distinguish between pathogenic fungi and beneficial [[mycorrhiza]]l formation: HIGH impact — directly exposes fungi to the biocide
-- **Foliar spraying** on plant leaves: LOWER impact — less direct exposure to root-zone fungi
-- **Seed coating**: Variable impact — depends on whether fungicide persists into the root zone
-
-### Not All Fungicides Are Harmful
-
-Interestingly, not all fungicides impact [[mycorrhiza]]l formation, perhaps because it eliminates competing fungi. This illustrates the complexity of the [[mycorrhizal-fungi]], they have nonselective reach and can impact [[mycorrhiza]]l host plant is killed by herbicide application, the number of spores in the soil can be reduced
+Agricultural seed is often coated with fungicides, and fungicides are routinely applied to agricultural soils. These biocides do not distinguish between pathogenic fungi and beneficial [[mycorrhiza]]l formation, perhaps because it eliminates competing fungi. This illustrates the complexity of the [[mycorrhiza]]l host plant is killed by herbicide application, the number of spores in the soil can be reduced
 - This has varying detrimental impacts depending on timing, extent, and frequency
 
 ### Glyphosate Considerations
 
-While Lowenfels notes that herbicides and pesticides are not usually directly toxic to [[mycorrhizal-fungi]] depend on. Organic solutions are always preferred over chemical ones when it comes to maintaining [[mycorrhiza]]l colonization:
+While Lowenfels notes that herbicides and pesticides are not usually directly toxic to [[mycorrhiza]]l colonization:
 - Killing the pest results in healthier plants
-- Healthier plants produce more [[mycorrhizal-fungi]]
-
-However, this benefit is incidental rather than intentional, and the overall ecological cost of pesticide use typically outweighs this indirect benefit.
-
-***
-
-## Fertilizers
-
-### The Phosphorus Problem
-
-The amount of phosphorus in soil greatly affects [[mycorrhiza]]l growth is hindered
-- **High-phosphorus synthetic fertilizers** — can inhibit [[mycorrhiza]]l formation. The dose-dependent relationship:
-- More fertilizer = less [[mycorrhiza]]l colonization = less phosphorus concentration in plant tissues
+- Healthier plants produce more [[mycorrhiza]]l growth is hindered
+- **High-phosphorus synthetic fertilizers** — can inhibit [[mycorrhiza]]l colonization = less phosphorus concentration in plant tissues
 - Paradoxically, more fertilizer can lead to less nutrient uptake efficiency
 
 ### Organic Fertilizer Considerations
@@ -51,15 +32,7 @@ Even organic fertilizers require careful management:
 - Manure-laden composts can have very high phosphorus levels
 - Animal manures may contain phosphate salts exceeding 1,000 ppm
 - Soil amended with manure may still have inhibitory phosphorus levels 100 years after application
-- Compost itself is free of [[mycorrhiza]]l network:
-- Stock grazing
-- Plowing
-- Tilling (especially fall tilling)
-- Root damage from equipment
-
-### Mechanism of Damage
-
-Since arbuscular [[root-exudates]]
+- Compost itself is free of [[root-exudates]]
 - Germination and growth may be delayed by unsatisfactory deeper soil conditions
 - Hyphae are physically torn apart by tillage, especially fall tillage
 
@@ -68,26 +41,18 @@ Since arbuscular [[root-exudates]]
 If fungal hyphae are damaged or destroyed:
 - They will not be available to partner with cover crops or spring-planted crops
 - The amount of phosphorus available for the next crop is reduced
-- A new [[mycorrhiza]]l dependence:
-- **Highly dependent:** corn, flax, legumes, potatoes
-- **Somewhat dependent:** wheat, oats, barley
-- **Non-hosts (do not form [[mycorrhiza]]l populations decline and spore banks diminish.
+- A new [[mycorrhiza]]l populations decline and spore banks diminish.
 
 ### Allelopathic Crop Residues
 
 Some crops release allelopathic chemicals when they decompose:
-- Mustards, rapeseed, and radishes release chemicals that prevent [[mycorrhiza]]l populations because:
-- No host plants provide the carbon fungi need to survive
-- Fallow fields are usually plowed or tilled, further destroying the mycelial network
-- Reestablishing [[mycorrhiza]]e after fallow can take up to 2 months
+- Mustards, rapeseed, and radishes release chemicals that prevent [[mycorrhiza]]e after fallow can take up to 2 months
 
 ***
 
 ## Burning
 
 ## See Also
-
-- [[aact-forest-litter-fungi-mycorrhizal-ingham]]
 
 - [[bloomfield-chytrid-olpidium-synchytrium-agricultural-impact]]
 
@@ -120,8 +85,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[det]]
 - [[spore]]
-- [[fungal-hyphae]]
 - [[cover-crops]]
 - [[cover-crop]]

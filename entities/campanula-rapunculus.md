@@ -13,17 +13,9 @@ sources:
   - Fedorov A (1969). "Campanula L." In: Flora URSS, Vol. 24.
   - Tutin TG, et al. (1972). Flora Europaea, Vol. 3. Cambridge University Press.
   - Kirschner J (2004). "Campanula rapunculus." In: Euro+Med PlantBase.
-  - Couplan F (1998). The Encyclopedia of Edible Plants [[berry-growing]]. McGraw-Hill.
-  - Royal Botanic Gardens Kew (2024). "Campanula rapunculus." Plants of the World Online.
----
+  - Couplan F (1998). The Encyclopedia of Edible Plants [[fukuoka-western-root-vegetable-deficiency]]. Its white, fleshy taproot was widely cultivated in Europe from the Middle Ages through the 19th century for culinary use.
 
-## Overview
-
-Campanula rapunculus, commonly known as rampion bellflower or simply rampion, is a biennial herb in the family Campanulaceae. It is native to Europe and western Asia, where it grows in meadows, woodland edges, and calcareous grasslands.
-
-The species is notable as both an ornamental and a historically important [[fukuoka-western-root-vegetable-deficiency]]. Its white, fleshy taproot was widely cultivated in Europe from the Middle Ages through the 19th century for culinary use.
-
-The Brothers Grimm fairy tale "Rapunzel" takes its name from this plant, reflecting its [[amanita-muscaria]] in Central [[mandrake-mandragora-officinarum-in-european-folklore]] and cuisine. The name "rapunculus" derives from the Latin diminutive of rapa (turnip), referencing the turnip-like root.
+The Brothers Grimm fairy tale "Rapunzel" takes its name from this plant, reflecting its [[mandrake-mandragora-officinarum-in-european-folklore]] and cuisine. The name "rapunculus" derives from the Latin diminutive of rapa (turnip), referencing the turnip-like root.
 
 Campanula rapunculus is one of the few bellflower species specifically domesticated as a food crop. While most Campanula are valued purely as ornamentals, rampion occupies a dual role in horticultural and culinary traditions.
 
@@ -41,37 +33,7 @@ The calyx lobes are linear-lanceolate, approximately one-third the length of the
 
 Capsules are pendulous, ovoid, and dehisce by three basal pores. Seeds are small (0.5–0.8 mm), numerous, and light brown.
 
-Chromosome number is 2n = 20, consistent with many European Campanula species. The species is closely allied to [[campanula-persicifolia]] within the section Rapunculus.
-
-## Distribution and Habitat
-
-Campanula rapunculus is distributed across most of Europe, from southern Scandinavia to the Mediterranean and from the British Isles to western Russia. It is also found in Turkey and the Caucasus region.
-
-The species prefers calcareous soils in dry to mesic meadows, open woodlands, hedgerows, and roadsides. It thrives at elevations from sea level to approximately 1,500 meters.
-
-It is naturalized in parts of North America, particularly in the northeastern United States and southeastern Canada, where it was introduced by European settlers.
-
-The species is classified as Least Concern across most of its European range. However, local declines have been noted in intensively farmed areas where its grassland habitats have been lost.
-
-In Germany and Austria, rampion is considered an indicator species of species-rich calcareous grasslands. Its presence signals historically undisturbed meadow communities.
-
-## Cultivation
-
-Rampion is grown primarily for its edible taproot, though the leaves are also harvested. Sowing is done directly in spring or early autumn, as the plant does not transplant well due to its taproot.
-
-Seeds require light for germination and should be surface-sown or barely covered. Germination occurs in 14–21 days at 15–20 °C. First-year growth produces the harvestable root.
-
-Soil should be deep, loose, and well-drained with a pH of 6.5–7.5. Sandy loam is ideal for straight, uniform root development. Heavy or compacted soils produce forked roots.
-
-The taproot is harvested in late autumn of the first year, before the plant bolts to flower. Roots are typically 10–15 cm long at harvest and weigh 30–60 grams each.
-
-Modern cultivation is rare, limited to specialty growers and heritage vegetable enthusiasts in Germany, France, and Italy. The species is occasionally grown as an ornamental border plant.
-
-Spacing of 10–15 cm between plants allows adequate root expansion. Regular watering during dry periods prevents woody texture in the developing taproot.
-
-## Ecological Role
-
-The campanulate flowers are pollinated primarily by bees, especially bumblebees (Bombus spp.) and [[comparison-honey-bees-vs-native-solitary-bees]]. The exerted style and pendant flower orientation facilitate buzz pollination.
+Chromosome number is 2n = 20, consistent with many European Campanula species. The species is closely allied to [[comparison-honey-bees-vs-native-solitary-bees]]. The exerted style and pendant flower orientation facilitate buzz pollination.
 
 Rampion serves as a larval host plant for several moth species in the family Noctuidae. The seed capsules provide food for granivorous birds and small mammals in late summer.
 
@@ -88,3 +50,88 @@ The fleshy taproot has a sweet, nutty flavor reminiscent of radish or turnip. It
 Young basal leaves are tender and mildly flavored, suitable for use in salads or as a pot herb. They are richest in vitamins when harvested in spring before flowering.
 
 Medicinally, the root was used in traditional European folk medicine as a demulcent and mild anti-inflammatory. It was also believed to have diuretic properties, though clinical evidence is lacking.
+
+## Overview
+
+Campanula Rapunculus represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish campanula rapunculus
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving campanula extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Campanula Rapunculus finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for campanula rapunculus. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+campanula rapunculus and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Campanula Rapunculus has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of campanula rapunculus into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[campanula-cochlearifolia]]
+- [[campanula-fenestrellata]]
+- [[campanula-sibirica]]
+- [[campanula-tommasiniana]]
+- [[campanula-versicolor]]

@@ -13,11 +13,7 @@ type: concept
 ## Overview
 
 Bigwood and Beug (1982) adapted existing grain cultivation techniques into
-a "miniculture" system for growing [[psilocybe-cubensis]] under controlled
-laboratory conditions. This scaled-down method was designed to produce
-multiple sequential flushes from individual cultures suitable for
-quantitative alkaloid analysis, enabling the first systematic study of
-[[psilocybin-psilocin-variation-across-flushes]] in a single species.
+a "miniculture" system for growing [[psilocybin-psilocin-variation-across-flushes]] in a single species.
 
 ## Historical Development
 
@@ -25,14 +21,13 @@ The miniculture technique was built upon three prior methodological
 contributions spanning a decade of mycological research:
 
 1. **San Antonio (1971)**: Developed the original rye-grain substrate
-   method for [[agaricus-bisporus]] (the common [[growing-gourmet-button-mushroom-agaricus-cultivation]]) cultivation
+   method for [[growing-gourmet-button-mushroom-agaricus-cultivation]]) cultivation
    using cased grain spawn in jars. This established the fundamental
    principle that colonized grain could be cased to initiate fruiting
    in a container-based system.
 
 2. **Oss and Oeric (1976)**: Refined and adapted the rye-grain method
-   specifically for psilocybin [[accessible-mushroom-cultivation-for-disabilities]]. Their influential
-   Psilocybin [[australian-magic-mushroom-common-names]] Grower's Guide documented the technique
+   specifically for psilocybin [[australian-magic-mushroom-common-names]] Grower's Guide documented the technique
    for a wider audience and established rye grain as the standard
    substrate for home [[grass-seed-cultivation-of-psilocybe-mushrooms]] species.
 

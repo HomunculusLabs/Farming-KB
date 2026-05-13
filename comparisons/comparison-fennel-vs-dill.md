@@ -10,14 +10,7 @@ type: comparison
 
 # Fennel vs Dill
 
-Both fennel (*Foeniculum vulgare*) and dill (*Anethum graveolens*) belong to the Apiaceae (umbellifer) family, share feathery foliage, and produce umbrella-shaped flower clusters. Despite their visual similarities, they differ markedly in flavor chemistry, growth habit, [[king-stropharia-ecological-interactions-permaculture]], and garden behavior.
-
-## Overview
-
-| Feature | Fennel | Dill |
-|---|---|---|
-| **Species** | *Foeniculum vulgare* | *Anethum graveolens* |
-| **Lifecycle** | Perennial (often grown as annual) | Annual (biennial in [[limonene]]. Dill weed (fresh foliage) pairs with fish, potatoes, and pickles. Dill seed is warmer and more camphoraceous than the foliage, essential in pickling brines, rye breads, and some curry blends.
+Both fennel (*Foeniculum vulgare*) and dill (*Anethum graveolens*) belong to the Apiaceae (umbellifer) family, share feathery foliage, and produce umbrella-shaped flower clusters. Despite their visual similarities, they differ markedly in flavor chemistry, growth habit, [[limonene]]. Dill weed (fresh foliage) pairs with fish, potatoes, and pickles. Dill seed is warmer and more camphoraceous than the foliage, essential in pickling brines, rye breads, and some curry blends.
 
 ### Key Distinction
 
@@ -39,7 +32,7 @@ Florence fennel (*F. vulgare* var. *azoricum*) forms a swollen leaf base (the "b
 
 ## Growth & Cultivation
 
-**Fennel** prefers full sun and well-drained soil. It tolerates drought once established due to its deep taproot. In Mediterranean climates it can be invasive, [[drought-tolerant-planting-design]] and benefits from consistent moisture. Bolting is triggered by heat and long days; successional sowing every 2–3 weeks extends the [[comparison-seed-balls-vs-direct-seeding]] is strongly preferred.
+**Fennel** prefers full sun and well-drained soil. It tolerates drought once established due to its deep taproot. In Mediterranean climates it can be invasive, [[comparison-seed-balls-vs-direct-seeding]] is strongly preferred.
 
 ### Fennel
 - Thrives in poor to average soils; overly rich soil produces lush foliage at the expense of bulb formation
@@ -49,14 +42,7 @@ Florence fennel (*F. vulgare* var. *azoricum*) forms a swollen leaf base (the "b
 
 ### Dill
 - Benefits from moderate fertility; excess nitrogen produces leggy, floppy plants
-- [[query-what-is-succession-planting-and-how-do-i-plan-a-succession-planting-schedule]] essential for continuous leaf harvest
-- Allow some plants to go to seed for voluntary reseeding next season
-- Short-lived — typically 6–8 weeks before bolting in warm weather
-
-## Ecological Roles
-
-### Pollinators
-Both are excellent attractors of [[comparison-beneficial-insects-guide-vs-integrated-pest-management]]. Their umbel flowers provide accessible nectar and pollen platforms for:
+- [[comparison-beneficial-insects-guide-vs-integrated-pest-management]]. Their umbel flowers provide accessible nectar and pollen platforms for:
 - Syrphid flies (hoverflies) — key aphid predators
 - Parasitic wasps (*Aphidius*, *Trichogramma* spp.)
 - Lady beetles
@@ -118,19 +104,5 @@ Both are generally recognized as safe (GRAS) for culinary use. Medicinal doses o
 ## When to Choose Dill
 
 - You need a fast-growing annual for a single season
-- You want a companion plant that integrates into a mixed [[fukuoka-dutch-priest-vegetable-garden-spiritual-renewal]]
-- Pickling is a primary goal — dill seed and weed are irreplaceable here
-- You're succession planting through the [[savory-growing-season-and-non-growing-season-management]]
-- You have limited space or are [[comparison-cold-frame-gardening-vs-container-gardening-guide]]
-- You want a milder, more versatile herb for fish, potatoes, and salads
-
-## Can You Grow Them Together?
-
-Not recommended. Beyond fennel's allelopathy, the two plants can cross-pollinate, producing offspring with muddled, inferior flavor. Keep them separated by at least 50 feet (15 m) if growing both to seed, and avoid planting fennel near any crop you want to thrive.
-
-## Summary
-
-Fennel and dill are superficially similar Apiaceae herbs with distinct personalities. Fennel is the bold perennial — licorice-sweet, allelopathic, drought-tough, and architecturally dramatic. Dill is the humble annual — fresh, fast, garden-friendly, and essential in the pickle jar. Choosing between them comes down to your climate, your kitchen needs, and how much garden real estate you're willing to dedicate to a plant that plays by its own rules.
-## See Also
-
-- [[cervantes-odor-deodorizers-comparison]]
+- You want a companion plant that integrates into a mixed [[savory-growing-season-and-non-growing-season-management]]
+- You have limited space or are [[cervantes-odor-deodorizers-comparison]]

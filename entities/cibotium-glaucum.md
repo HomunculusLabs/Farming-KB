@@ -107,14 +107,9 @@ Today, hāpuʻu remains a powerful symbol of Hawaiian forest conservation. The s
 
 ## See Also
 
-- [[dicksonia-antarctica]]
 - [[cyathea-cooperi]]
-- [[cyathea-dealbata]]
 - [[pteridium-aquilinum]]
-- [[blechnum-spicant]]
 - [[polystichum-munitum]]
-- [[adiantum-pedatum]]
 - [[osmunda-regalis]]
-- [[asplenium-nidus]]
 - [[dryopteris-filix-mas]]
 - [[platycerium-bifurcatum]]

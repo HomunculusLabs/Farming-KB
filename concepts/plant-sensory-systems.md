@@ -16,35 +16,11 @@ source: grahamholmes-what-a-plant-knowsindd.md
 
 # Plant Sensory Systems
 
-Plants possess a remarkable array of [[chamovitz-gradualist-framework-plant-sensory-capabilities]] that allow them to perceive and respond to their environment with sophistication that rivals many animal sensory systems. Far from being passive organisms, plants actively monitor light, chemical signals, mechanical stimuli, sound, gravity, and even retain forms of memory. The study of plant sensory systems challenges traditional boundaries between the plant and animal kingdoms and raises profound questions about the nature of awareness and intelligence.
-
-## The Concept of Plant Senses
-
-The question of whether plants "sense" their environment is partly semantic. If sensing is defined as the ability to detect environmental stimuli and mount appropriate physiological responses, then plants clearly possess senses. If sensing requires conscious awareness of stimuli, the answer is less clear. What is certain is that plants have evolved specialized molecular mechanisms for detecting a wide range of environmental signals and transducing them into adaptive responses.
-
-Daniel Chamovitz, in his influential work "What a Plant Knows," argues that plants experience their environment through sensory modalities that are analogous to—but fundamentally different from—human senses. Plants do not have nervous systems, brains, or dedicated sensory organs, yet they achieve many of the same functions through distributed biochemical signaling networks.
-
-## Light Sensing (Plant Vision)
-
-Plants monitor their visible environment continuously. They can distinguish between different colors of light, detect light intensity from candlelight to full sun, determine the direction of light sources, sense when neighboring plants shade them, and measure the duration of light exposure. These capabilities are mediated by multiple classes of photoreceptor proteins including phytochromes, cryptochromes, phototropins, and UVR8.
-
-Plants perceive wavelengths beyond human vision, including [[chamovitz-ultraviolet-and-infrared-plant-light-perception]] radiation. Their light-sensing capabilities enable phototropism (growing toward light), shade avoidance, photoperiodic flowering, seed germination decisions, and circadian rhythm entrainment.
+Plants possess a remarkable array of [[chamovitz-ultraviolet-and-infrared-plant-light-perception]] radiation. Their light-sensing capabilities enable phototropism (growing toward light), shade avoidance, photoperiodic flowering, seed germination decisions, and circadian rhythm entrainment.
 
 ## Chemical Sensing (Plant Smell)
 
-Plants detect and respond to a vast array of [[chamovitz-plant-scent-communication-volatile-organic-compounds]] and dissolved chemicals in their environment. This chemical sensing operates at multiple levels:
-
-- **Airborne volatile detection**: Plants can perceive ethylene (a plant hormone gas released by ripening fruits and stressed tissues), jasmonic acid derivatives, and other volatile signals produced by neighboring plants. This allows them to eavesdrop on the chemical communication of other organisms and mount preemptive defenses against herbivores or pathogens.
-
-- **Root exudate detection**: Roots sense chemical signals from soil microbes, neighboring root systems, and nutrient gradients. This underground chemical sensing helps roots navigate toward nutrients and away from competitors or pathogens.
-
-- **Pheromone perception**: Some plants can detect insect pheromones, triggering the production of volatile compounds that attract predators of the herbivorous insects—a form of indirect defense known as "talking trees."
-
-The molecular basis of plant chemical sensing involves receptor proteins that bind specific chemical ligands and initiate intracellular signaling cascades, ultimately leading to changes in gene expression and physiological responses.
-
-## Mechanosensing (Plant Touch)
-
-Plants are exquisitely sensitive to mechanical stimulation. The most dramatic example is the Venus flytrap ([[dionaea-muscipula]]), which snaps shut on prey within a fraction of a second when trigger hairs on its trap surface are touched twice within approximately twenty seconds. This two-trigger mechanism prevents false alarms from raindrops or wind-blown debris.
+Plants detect and respond to a vast array of [[dionaea-muscipula]]), which snaps shut on prey within a fraction of a second when trigger hairs on its trap surface are touched twice within approximately twenty seconds. This two-trigger mechanism prevents false alarms from raindrops or wind-blown debris.
 
 Other examples of plant mechanosensing include:
 
@@ -54,9 +30,7 @@ Other examples of plant mechanosensing include:
 
 - **Root obstacle avoidance**: Roots growing through soil can detect and grow around solid obstacles, redirecting their growth trajectory through differential cell elongation.
 
-- **Thigmonasty**: The sensitive plant (Mimosa pudica) rapidly folds its leaves when touched, a response mediated by changes in turgor pressure triggered by action potential-like [[tompkins-plant-electrical-signals]].
-
-At the molecular level, mechanosensing involves stretch-activated ion channels, calcium signaling, and rapid changes in cell wall properties. The speed of some mechanosensory responses suggests that plants use [[chamovitz-plant-electrical-signaling-action-potentials]] analogous to, but distinct from, animal nerve impulses.
+- **Thigmonasty**: The sensitive plant (Mimosa pudica) rapidly folds its leaves when touched, a response mediated by changes in turgor pressure triggered by action potential-like [[chamovitz-plant-electrical-signaling-action-potentials]] analogous to, but distinct from, animal nerve impulses.
 
 ## Sound and Vibration Sensing
 
@@ -113,7 +87,6 @@ Knowledge of plant sensory systems is increasingly being applied in agriculture 
 
 ## See Also
 
-- [[plant-photoreception]]
 - [[phototropism]]
 - shade avoidance response
 - plant memory and epigenetics

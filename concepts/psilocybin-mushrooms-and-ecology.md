@@ -18,20 +18,14 @@ Psilocybin mushrooms are not merely psychoactive organisms; they play functional
 
 ### Saprophytic Decomposition
 
-Psilocybe species are primarily saprophytic decomposers that break down woody debris and other organic matter. By processing dead plant material, they contribute to soil formation and nutrient cycling in forest and garden ecosystems. Species in section Cyanescens (including P. cyanescens, P. azurescens, and P. allenii) are particularly aggressive decomposers of hardwood lignin and cellulose, capable of colonizing fresh wood chips within weeks. Their enzymatic arsenal includes lignin peroxidases, manganese peroxidases, and laccases -- the same enzyme families that make white-rot fungi valuable for [[teaming-with-microbes-mycorrhizal-associations]] for more on fungal-plant root partnerships.
-
-### Role in the Soil Food Web
-
-Within the [[query-what-is-the-role-of-actinomycetes-in-soil-health]] and other chitin-degrading bacteria, contributing to the nitrogen cycle through chitin mineralization. This positions psilocybin mushrooms as active participants in nutrient cycling rather than mere passive decomposers.
+Psilocybe species are primarily saprophytic decomposers that break down woody debris and other organic matter. By processing dead plant material, they contribute to soil formation and nutrient cycling in forest and garden ecosystems. Species in section Cyanescens (including P. cyanescens, P. azurescens, and P. allenii) are particularly aggressive decomposers of hardwood lignin and cellulose, capable of colonizing fresh wood chips within weeks. Their enzymatic arsenal includes lignin peroxidases, manganese peroxidases, and laccases -- the same enzyme families that make white-rot fungi valuable for [[query-what-is-the-role-of-actinomycetes-in-soil-health]] and other chitin-degrading bacteria, contributing to the nitrogen cycle through chitin mineralization. This positions psilocybin mushrooms as active participants in nutrient cycling rather than mere passive decomposers.
 
 ### Species-Specific Ecology
 
 Different Psilocybe species occupy distinct ecological niches, each with specialized adaptations:
 
 - **Psilocybe cubensis**: A tropical and subtropical specialist that colonizes herbivore dung, particularly bovine dung. Its ecological strategy involves rapid colonization of fresh substrate, fast fruiting (7-14 days from primordia to mature sporophore), and prolific spore production. The dung substrate is rich in partially digested plant material and microbial communities, providing a nutrient-dense medium. P. cubensis likely evolved alongside grazing herbivores, using their dung dispersal as a mechanism for spreading across grassland ecosystems
-- **[[growing-gourmet-caramel-capped-psilocybe-cyanescens-cultivation]]**: A temperate wood-decomposing species that thrives in the woody debris of human-altered landscapes -- wood chip mulch beds, garden borders, and landscaping timber. This anthropophilic tendency suggests the species has adapted to exploit the disturbed wood habitats that human civilization creates. Its ability to fruit prolifically on fresh hardwood chips and its tolerance of cooler temperatures make it one of the most successful colonizers of urban and suburban fungal ecology
-- **[[guzman-allen-gartz-psilocybe-semilanceata-temperate-cosmopolitan-distribution]]**: A grassland specialist associated with nutrient-rich, grazed pastures and meadows. Unlike dung-inhabiting species, P. semilanceata grows in soil and is closely associated with grass roots. It does not fruit on dung directly but on soil enriched by [[savory-livestock-grazing-planning]]. Its distribution across temperate Europe, North America, and South America suggests an ancient association with grassland ecosystems that predates human agriculture
-- **[[stamets-psi-psilocybe-azurescens-species-guide]]**: Endemic to a narrow coastal strip of the Pacific Northwest (Oregon to Washington), this species occupies the dune grass habitats where beach grass (Ammophila) stabilizes coastal sands. Its restricted range and extreme potency suggest a highly specialized ecological niche with strong selective pressures. The species fruits in cool, wet autumn conditions and has been found fruiting from rhododendron mulch and other woody debris in coastal gardens
+- **[[guzman-allen-gartz-psilocybe-semilanceata-temperate-cosmopolitan-distribution]]**: A grassland specialist associated with nutrient-rich, grazed pastures and meadows. Unlike dung-inhabiting species, P. semilanceata grows in soil and is closely associated with grass roots. It does not fruit on dung directly but on soil enriched by [[stamets-psi-psilocybe-azurescens-species-guide]]**: Endemic to a narrow coastal strip of the Pacific Northwest (Oregon to Washington), this species occupies the dune grass habitats where beach grass (Ammophila) stabilizes coastal sands. Its restricted range and extreme potency suggest a highly specialized ecological niche with strong selective pressures. The species fruits in cool, wet autumn conditions and has been found fruiting from rhododendron mulch and other woody debris in coastal gardens
 - **Psilocybe zapotecorum**: A subtropical species found in muddy clay soils of coffee plantations and disturbed forest edges. It produces massive simultaneous flushes after heavy rains, suggesting it has evolved to capitalize on brief windows of saturation. Its distribution from Mexico through Colombia to Brazil and Argentina indicates a broad ecological tolerance across neotropical environments
 
 ### Insect Interactions
@@ -42,15 +36,11 @@ Psilocybin mushrooms exhibit complex relationships with insects:
 - Some Psilocybe species orient themselves into the wind (aerotropism), optimizing spore dispersal -- a response shared with many other mushroom genera
 - The strong odors of decomposing psilocybin mushrooms attract flies and other insects that serve as spore dispersal vectors
 
-See [[fungal-spore-biology]] and [[psychedelic-mushroom-set-and-setting]] for more on individual species.
+See [[psychedelic-mushroom-set-and-setting]] for more on individual species.
 
 ## Woodland Cultivation
 
-Psilocybe cyanescens and allies readily colonize outdoor wood chip beds, making them among the easiest mushrooms to establish in managed landscapes. Stamets recommends them as part of the "mycogardener's" toolkit for maintaining healthy saprophytic communities in [[mycological-landscaping-and-gardening]] projects.
-
-### Cultivation Techniques and Substrate Preferences
-
-Successful outdoor [[grass-seed-cultivation-of-psilocybe-mushrooms]] species requires understanding their substrate preferences and ecological requirements:
+Psilocybe cyanescens and allies readily colonize outdoor wood chip beds, making them among the easiest mushrooms to establish in managed landscapes. Stamets recommends them as part of the "mycogardener's" toolkit for maintaining healthy saprophytic communities in [[grass-seed-cultivation-of-psilocybe-mushrooms]] species requires understanding their substrate preferences and ecological requirements:
 
 - **Wood chip preparation**: Fresh hardwood chips (alder, oak, maple, beech) provide the best substrate. Chips should be 1-3 inches in size -- too fine and they compact and anaerobize; too large and they decompose too slowly. A mixture of chip sizes creates the best texture for mycelial colonization
 - **Moisture management**: The substrate should be maintained at field capacity (approximately 60-70% moisture by weight). Outdoor beds benefit from natural rainfall but may require supplemental watering during dry periods. Mulching with straw or additional wood chips helps retain moisture
@@ -68,12 +58,9 @@ The scale of fungal spore dispersal is staggering. Stamets' estimate of 5 trilli
 
 ## See Also
 
-- [[fungal-biology-fundamentals]] -- basic fungal life cycle
 - [[fungal-ecology]] -- ecological context
 - psilocybin-mushrooms-of-the-world-genus-overview -- species guide
-- [[fungal-spore-biology]] -- dispersal biology
 - [[mycorestoration-ecology]] -- ecological restoration with fungi
-- [[bolete-mushrooms-ecology-edibility]]
 - [[fungal-role-in-carbon-cycling]]
 ## Practical Considerations
 

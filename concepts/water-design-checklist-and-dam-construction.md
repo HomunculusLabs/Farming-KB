@@ -138,6 +138,8 @@ Soils rarely extend much below 1–2 meters, and are more often a living system 
 
 ## See Also
 
-- [[permaculture-water-design-checklist]]
-- [[natural-pool-design-and-water-conservation]]
-- [[water-tank-selection-and-construction]]
+- [[water-soluble-calcium-wca]]
+- [[mollison-designers-hand-pump-and-water-lifting-devices]]
+- [[trace-water-enhanced-microwave-sterilization]]
+- [[green-cannabis-dry-sift-water-extraction]]
+- [[bill-mollison-permaculture-a-designers-manual-aquaculture-and-water-systems]]

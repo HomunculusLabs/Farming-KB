@@ -8,12 +8,7 @@ sources: [staycare-mngmt-fungi-in-bioremediation.md]
 type: concept
 ---
 
-# Packed Bed and Fluidized Bed Bioreactors for [[phanerochaete-chrysosporium]] to
-decolorize polymeric anthraquinone dyes. P. cinnabarinus was also used
-in a packed bed bioreactor for the treatment of pigment plant effluent,
-with effective color removal achieved.
-
-For [[staycare-chlorophenol-degradation-pathways-white-rot-fungi]], immobilized fungus in packed bed reactors
+# Packed Bed and Fluidized Bed Bioreactors for [[staycare-chlorophenol-degradation-pathways-white-rot-fungi]], immobilized fungus in packed bed reactors
 has been used to treat 2,4,6-trichlorophenol and 2,4,5-trichlorophenol
 containing wastewaters. The packed bed design allows for high biomass
 retention and good contact between the effluent and the fungal
@@ -23,10 +18,7 @@ degradative enzymes.
 
 ### Design and Operation
 
-Fluidized bed bioreactors contain small particles of [[singh-immobilized-fungal-bioreactors-wastewater-treatment]]
-biomass that are suspended and kept in motion by the upward flow of
-effluent or air. This design provides excellent mixing, mass transfer,
-and contact between the [[bioremediation-fungal-biomass-biosorbent-material]] and the contaminated stream.
+Fluidized bed bioreactors contain small particles of [[bioremediation-fungal-biomass-biosorbent-material]] and the contaminated stream.
 Free mycelial pellets can be used directly in fluidized bed
 configurations.
 
@@ -50,20 +42,6 @@ maintained, with simpler biomass replacement procedures.
 
 Rotating biological contactors (RBCs) have been used to immobilize
 fungal mycelium on rotating discs for effluent treatment. Cultures of
-[[staycare-phanerochaete-chrysosporium-in-bioremediation]] were immobilized on RBC discs to treat TNT-
-contaminated "pink water" waste streams, effectively removing both TNT
-and RDX to allowable limits.
-
-### Trickling Filters
-
-Trickling filter processes represent another approach where effluent
-is distributed over a bed of fungal biomass supported on inert media.
-This design provides good aeration and is well-suited for aerobic
-treatment processes requiring oxygen for enzyme function.
-
-### Silicone Membrane Biofilm Reactors
-
-A silicone membrane biofilm reactor has been used to study fungal
 [[fungal-lignin-peroxidase-veratryl-alcohol]] production and activity. The membrane configuration
 allows precise control of gas exchange, particularly oxygen supply,
 which is critical for peroxidase function.
@@ -118,8 +96,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[mycelium]]
 - [[silicon]]
-- [[singh-immobilized-fungal-bioreactors-wastewater-treatment]]
 - [[fungal-bioreactors-for-phenol-and-chlorophenol-removal]]
 - [[singh-pah-biodegradation-fungi-soils-bioreactors]]

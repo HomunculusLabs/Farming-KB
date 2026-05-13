@@ -9,116 +9,96 @@ sources:
 ---
 # JADAM Ultra-Low-Cost Agriculture
 
-JADAM (Jayonul Damun Saramdul, meaning "people who are like nature") is a Korean [[coleman-deep-organic-farming-philosophy]] system developed by Youngsang Cho. Its signature achievement: farming at approximately $100 per acre per year. Founded in 1991, JADAM has grown to nearly 60,000 members and is now being adopted worldwide.
-
-## Core Philosophy
-
-JADAM's fundamental principle is that organic farming must be **profitable** to displace conventional agriculture. If organic farming remains expensive and difficult, it will forever be a minority practice. The system follows the SESE principle:
-
-- **Simple** -- principles are simple
-- **Easy** -- easy to make and apply
-- **Scientific** -- methodology is grounded in science
-- **Effective** -- produces results at ultra-low cost
-
-JADAM's ultimate objective: bring farming back to farmers. Modern agriculture has transferred control from farmers to input manufacturers. JADAM reverses this by making all inputs from locally available materials.
-
-## Key Inventions
-
-### JADAM Wetting Agent (JWA)
-The most important JADAM invention. A surfactant made from:
-- Canola oil
-- Caustic potash (KOH)
-- Water
-
-JWA is the critical ingredient in all JADAM pesticide formulations, enabling active substances to fully coat plant surfaces. Made without heating. Uses only ingredients permitted under organic certification. Cho deliberately chose not to patent this technology.
-
-### JADAM Sulfur (JS)
-A powerful germicide made by:
-- Melting sulfur in caustic soda with water
-- Combining with red clay powder, phyllite powder, and sea salt
-
-JS forms the basis of multiple pesticide formulations:
-- JS germicide (JS + JWA)
-- JS-JHS pesticide (JS + JHS + JWA)
-
-### JADAM Microorganism Solution (JMS)
-Cultures beneficial microorganisms from leaf mold:
-- Collect leaf mold from a forest floor
-- Culture microorganisms in water, feeding them potatoes (or other starchy medium)
-- Results in a powerful soil quality improver
-- Can also suppress pathogens
-
-JMS pesticide = JMS + JWA
-
-### JADAM Herb Solution (JHS)
-Made by boiling herbs in water, used primarily for insect control. Combined with JWA for pesticide applications.
-
-### JADAM Mineral Water (JMW)
-Made by immersing leaf mold in water with rocks. Provides mineral nutrition.
-
-### JADAM Liquid Fertilizer (JLF)
-Made without sugar or molasses (distinguishing it from Korean Natural Farming FPJ). Customizable formulations for specific nutrient needs including:
-- [[jadam-natural-nitrogen-fertilizer]] JLF
-- Natural [[bionutrients-lab-calcium-phosphate-calamansi]] JLF
-- Natural calcium JLF
-- Natural potassium JLF
-- Natural chitosan JLF
-
-## Comparison with Korean Natural Farming (KNF)
-
-JADAM shares roots with Korean Natural Farming (developed by Hankyu Cho, Youngsang's father) but has diverged significantly:
-
-| Aspect | KNF (Cho Hankyu) | JADAM (Cho Youngsang) |
-|--------|------------------|----------------------|
-| Sugar/molasses | Key ingredient (FPJ, IMO) | Explicitly avoided in JLF |
-| [[beneficial-indigenous-microorganisms-bim]] | Complex collection process | Simplified leaf mold culture |
+JADAM (Jayonul Damun Saramdul, meaning "people who are like nature") is a Korean [[jadam-natural-nitrogen-fertilizer]] JLF
+- Natural [[beneficial-indigenous-microorganisms-bim]] | Complex collection process | Simplified leaf mold culture |
 | Cost focus | Low cost | Ultra-low cost ($100/acre/yr) |
 | Wetting agent | Not a core invention | Central to pesticide system |
 | Sulfur use | Limited | JS is a flagship product |
-| Fertilizer | [[bionutrients-lab-fermented-plant-juice-fpj]] | JLF without sugar/molasses |
+| Fertilizer | [[jadam-liquid-fertilizer]]
+- [[bionutrients]]
+- [[korean-natural-farming]]
 
-Hankyu Cho himself writes that "Youngsang Cho has gone far beyond" the original Natural Farming foundation, particularly through the JWA and JS inventions.
+## Overview
 
-## Philosophical Foundations
+Jadam Ultra Low Cost Agriculture represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
 
-Youngsang Cho was influenced by:
-- **Jesus Christ and Karl Marx** -- their shared love for humanity
-- **Gustavo Gutierrez and Leonardo Boff** -- liberation theology; "We Drink from Our Own Wells"
-- **Laozi** -- teaching softness and naturalness; "Water does not conflict yet it conquers"
+## Key Characteristics
 
-JADAM views farming as "a living, feeling thing that grows on the soil of religions, philosophies and humanities."
+Several defining characteristics distinguish jadam ultra low cost agriculture
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving jadam extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
 
 ## Practical Applications
 
-The principles and techniques discussed here have wide-ranging applications
-across multiple disciplines and contexts. Practitioners and researchers
-continue to explore new ways to integrate these concepts into modern practice,
-adapting traditional knowledge to contemporary challenges and opportunities.
+Jadam Ultra Low Cost Agriculture finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
 
-## Key Considerations
+## Management and Implementation
 
-Several important factors influence the effectiveness and outcomes described
-in this topic. Understanding these considerations helps practitioners make
-informed decisions and avoid common pitfalls. Environmental conditions,
-timing, and material selection all play critical roles.
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for jadam ultra low cost agriculture. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+jadam ultra low cost agriculture and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
 
 ## Historical Context
 
-The historical development of this subject reflects centuries of accumulated
-knowledge and practical experience. From traditional methods passed down
-through generations to modern scientific approaches, the evolution continues
-to inform current best practices and research directions.
+Jadam Ultra Low Cost Agriculture has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
 
-## Common Challenges
+## Integration Strategies
 
-Practitioners frequently encounter several challenges when working with
-these concepts. Climate variability, resource limitations, and knowledge
-gaps can all affect outcomes. Addressing these challenges requires patience,
-observation, and a willingness to adapt approaches based on results.
+Successful integration of jadam ultra low cost agriculture into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
 
 ## See Also
-- [[jadam-liquid-fertilizer]]
-- [[youngsang-cho]]
-- [[bionutrients]]
-- [[natural-farming]]
-- [[korean-natural-farming]]
+
+- [[coleman-quick-hoops-low-cost-season-extension-structures-design]]
+- [[jadam-methods]]
+- [[jadam-patent-free-revolution]]
+- [[jadam-rice-water-weevil-control]]
+- [[jadam-sulfur-js]]

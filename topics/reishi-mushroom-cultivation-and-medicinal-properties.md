@@ -1,6 +1,6 @@
 ---
 title: "Reishi Mushroom calendula-cultivation-and-medicinal-uses Properties"
-subtitle: "A comprehensive guide to growing [[stamets-reishi-ganoderma-lucidum-cultivation]] and understanding its [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]], pharmacology, and traditional uses"
+subtitle: "A comprehensive guide to growing query-what-are-the-main-bioactive-compounds-in-medicinal-plants, pharmacology, and traditional uses"
 tags: [medicinal-mushrooms, ganoderma, reishi, cultivation, immunology, triterpenoids, traditional-chinese-medicine, mycology]
 date: 2026-05-08
 updated: 2026-05-08
@@ -41,22 +41,7 @@ body.
 
 Reishi is not a culinary mushroom. Its flesh is extremely woody, tough as
 varnished wood, and intensely bitter. It is consumed exclusively as a
-medicine, prepared through hot water decoction, [[pf-tek-alcohol-extraction-method]], or dual
-extraction methods that concentrate its bioactive compounds. Despite being too
-hard and bitter to eat, Reishi has generated a global market exceeding $1.6
-billion annually (Chang and Buswell, 1999), driven by centuries of traditional
-use and a growing body of modern scientific research supporting its
-immunomodulatory, anti-inflammatory, hepatoprotective, and cardiovascular
-properties.
-
-The earliest recorded mention of Lingzhi dates to the reign of Emperor Shih-
-huang of the Ch'in Dynasty (221-207 BC), who dispatched fleets across Asia in
-search of the legendary "herb of immortality." During the Han Dynasty, Lingzhi
-found growing on palace timbers was interpreted as such a powerful omen that
-emissaries were sent to collect more specimens. Throughout subsequent
-centuries, the mushroom became associated with royalty, spiritual potency, and
-longevity across China, Korea, and Japan. It remains the single most depicted
-[[shroom-cultural-history-mushroom-in-ancient-civilizations]] East Asian art, serving simultaneously as a symbol of good
+medicine, prepared through hot water decoction, [[shroom-cultural-history-mushroom-in-ancient-civilizations]] East Asian art, serving simultaneously as a symbol of good
 fortune, a talisman against evil, and a medicine of the highest order.
 
 In the Shennong Ben Cao Jing, the oldest Chinese pharmacopoeia, Reishi is
@@ -72,27 +57,16 @@ activities.
 Ganoderma lucidum is the type species of the genus Ganoderma within the family
 ## See Also
 
-- [[maitake-mushroom-cultivation-and-medicinal-properties]] for another major
-polypore medicinal mushroom
-
 - [[shiitake-mushroom-cultivation-and-medicinal-properties]] for cultivation
 methods that parallel Reishi log techniques
 
 - medicinal-mushroom-cultivation-and-use for broader context on medicinal
 mushroom growing
 
-- [[mushroom-cultivation-fundamentals]] for core cultivation principles
-
 - [[lions-mane-mushroom-hericium-erinaceus]] for a neurotrophic medicinal
 mushroom comparison
 
-- [[turkey-tail-mushroom-cultivation-and-medicinal-properties]] for the most
-clinically validated cancer adjunct
-
 - [[mycorrhizal-fungi]] for beneficial fungal symbioses with plants
-
-- [[fungal-enzymes-in-industry-and-biotechnology]] for industrial applications
-of fungal compounds
 
 - [[the-soil-food-web]] for fungal roles in ecosystem nutrient cycling
 

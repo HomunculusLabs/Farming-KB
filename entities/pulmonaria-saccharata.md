@@ -108,13 +108,8 @@ This absence of toxic PAs makes Pulmonaria one of the safer Boraginaceae genera 
 
 ## See Also
 
-- [[pulmonaria-officinalis]]
 - [[pulmonaria-longifolia]]
-- [[borago-officinalis]]
 - [[myosotis-sylvatica]]
-- [[mertensia-virginica]]
 - [[symphytum-officinale]]
-- [[echium-vulgare]]
 - [[anchusa-azurea]]
-- [[cynoglossum-officinale]]
 - [[heliotropium-europaeum]]

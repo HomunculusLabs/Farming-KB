@@ -20,16 +20,7 @@ The distinction between brittle and nonbrittle environments is one of Allan
 Savory's most important contributions to ecological understanding. This
 classification, which departs from traditional rainfall-based or vegetative
 classifications, fundamentally changes how land managers should approach
-restoration, grazing, and [[mollison-designers-forest-condensation-and-micro-climate-rainfall]]. In nonbrittle environments,
-prolonged rest allows the land to recover from disturbance. Biological
-decay proceeds rapidly, plant material falls and breaks down near the
-ground surface, new communities establish quickly, and soil cover is
-maintained.
-
-In brittle environments, however, prolonged nondisturbance leads to further
-deterioration and instability. Old plant material accumulates because
-breakdown occurs mainly through slow oxidation and weathering rather than
-biological decay. Perennial grasses die as accumulated [[fungal-roles-in-old-growth-forests]] blocks
+restoration, grazing, and [[fungal-roles-in-old-growth-forests]] blocks
 sunlight from reaching growing points. Soil surfaces become capped and
 exposed. This is why the old belief that all damaged land should be left
 undisturbed has proven wrong for over half the earth's land surface.
@@ -49,14 +40,10 @@ The brittle/nonbrittle distinction has profound management implications:
 
 - **Over half of the earth's land surface** leans toward the brittle end
   of the scale, meaning that practices developed in the nonbrittle
-  environments of northern Europe and [[polypore-fungi-eastern-north-america]] America are often
-  inappropriate for most of the world's land.
-- In brittle environments, some form of periodic soil surface disturbance
-  is essential for maintaining healthy [[savory-animal-impact-and-herd-effect]] becomes critical in brittle
+  environments of northern Europe and [[savory-animal-impact-and-herd-effect]] becomes critical in brittle
   environments, as herding animals and their predators historically provided
   the necessary disturbance.
-- [[savory-water-cycle-management]] and [[desertification]]
-- [[savory-rest-as-management-tool]]
+- [[desertification]]
 - [[savory-water-cycle-management]]
 
 ## Practical Considerations
@@ -89,8 +76,6 @@ communities, and systematic experimentation to build expertise.
 - Understanding these processes enables more targeted and effective interventions.
 
 ## See Also
-- [[savory-holistic-resource-management-decision-framework]]
 - [[savory-conventional-vs-holistic-range-management]]
-- [[savory-holistic-resource-management-energy-flow]]
 - [[savory-holistic-resource-management-mineral-cycle]]
 - [[savory-holistic-resource-management-biological-monitoring]]

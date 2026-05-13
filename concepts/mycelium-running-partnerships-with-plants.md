@@ -11,8 +11,7 @@ tags: [mycelium, plants]
 
 # Fungal Partnerships with Plants
 
-[[mycelium-running-symbiotic-fungi-relationships]] are fundamental to
-ecosystem health and are central to [[companion-planting-with-fungi]]:
+[[companion-planting-with-fungi]]:
 
 - Mycelium loosens soil as mass is reduced, enhancing aggregation and
   creating micro spaces that absorb and fill with water
@@ -25,11 +24,7 @@ ecosystem health and are central to [[companion-planting-with-fungi]]:
 
 ## The Precautionary Principle
 
-Stamets argues that introducing beneficial [[growing-gourmet-saprophytic-mushrooms-decomposers]] to
-forests conforms to the [[mycorrhizal-networks]] -- [[dighton-mycorrhizal-networks-carbon-transfer]] in
-  detail
-- [[mycorrhiza]] -- mycorrhiza overview
-- [[mycelium-running-symbiotic-fungi-relationships]] -- existing page
+Stamets argues that introducing beneficial [[mycorrhizal-networks]] -- [[mycorrhiza]] -- mycorrhiza overview
 - [[mycelium-running-garden-giant-stamets]] -- saprophytic companion
   cultivation
 ## Practical Applications

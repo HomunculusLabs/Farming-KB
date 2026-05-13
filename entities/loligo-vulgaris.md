@@ -90,6 +90,13 @@ numerous predators including dolphins, tuna, swordfish, seabirds, and larger
 cephhalopods. Its high reproductive output and rapid growth support
 
 ## See Also
-- [[berberis-vulgaris]]
 - [[syringa-vulgaris]]
 - [[pulsatilla-vulgaris]]
+
+## See Also
+
+- [[beta-vulgaris]]
+- [[calluna-vulgaris]]
+- [[artemisia-vulgaris-entity]]
+- [[aquilegia-vulgaris]]
+- [[hippuris-vulgaris]]

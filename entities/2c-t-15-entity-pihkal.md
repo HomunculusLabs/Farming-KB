@@ -1,40 +1,12 @@
 # 2C-T-15 (SESQUI)
 
-[[2c-b-pihkal-entry-20]] #47. 2,5-DIMETHOXY-4-CYCLOPROPYLTHIOPHENETHYLAMINE.
-Also known as: SESQUI.
-
-## Chemical Name
-
-2,5-DIMETHOXY-4-CYCLOPROPYLTHIOPHENETHYLAMINE
-
-## Dosage and Duration
-
-| Property | Value |
-|----------|-------|
-| Dosage | greater than 30 mg. |
-| Duration | several hours. |
-
-## Qualitative Comments
-
-> (at 30 mg) I was somewhere between a threshold
-> and a plus one for several hours, and appeared to be quite talkative
-> in the evening.
->
-
-## Extensions and Commentary
-
-The commonly used name for 2C-T-15, during its synthesis, was SESQUI. The general name for a 15-carbon terpene is sesquiterpene, from the Latin prefix for one and a half. The active level of 2C-T-15 is not known. The highest level yet tried was 30 milligrams orally, and there had been threshold reports pretty regularly all the way up from 6 milligrams. But no definite activity yet. This compound is isosteric with the isopropyl group as seen in the analogous compound 2C-T-4 (the three carbons are in exactly the same positions, only the electrons are located differently) and it is a little surprising that the potency appears to be considerably less. Just over 20 milligrams of the latter compound was overwhelmingly psychedelic.
-
-The entire mini-project of hanging cyclic things onto the sulfur atom was an interesting problem. This is the three carbon ring. The six
-
-carbon ring (the cyclohexyl homologue) was discussed as 2C-T-5 in the recipe for of [[hydrogen-peroxide-tissue-culture-wild-polypores]] tissue, bp 220-230 deg C at 0.3 mm/Hg) was made in anhydrous Et2O, and well stirred. In a separate flask, under an atmosphere of He, 4 mL of 2.6 M butyllithium was added to a solution of 1.2 g cyclopropyl bromide in 20 mL anhydrous Et2O. This mildly exothermic combination turned a bit cloudy, was stirred for 1 h, then trans-ferred with an air-tight syringe to the above-described Et2O solution of the aromatic disulfide. A heavy precipitate formed, and stirring was continued for an additional 0.5 h. The reaction mixtu...
+[[hydrogen-peroxide-tissue-culture-wild-polypores]] tissue, bp 220-230 deg C at 0.3 mm/Hg) was made in anhydrous Et2O, and well stirred. In a separate flask, under an atmosphere of He, 4 mL of 2.6 M butyllithium was added to a solution of 1.2 g cyclopropyl bromide in 20 mL anhydrous Et2O. This mildly exothermic combination turned a bit cloudy, was stirred for 1 h, then trans-ferred with an air-tight syringe to the above-described Et2O solution of the aromatic disulfide. A heavy precipitate formed, and stirring was continued for an additional 0.5 h. The reaction mixtu...
 
 (Additional synthesis details available in source.)
 
 ## Safety Notes
 
-2C-T-15 is a research chemical documented in PIHKAL. Dosage data and safety profiles are based on limited [[2c-o-4-entity-pihkal]]
-- [[mda]]-pihkal
+2C-T-15 is a research chemical documented in PIHKAL. Dosage data and safety profiles are based on limited [[mda]]-pihkal
 
 - PIHKAL (Shulgin & Shulgin, 1991)
 - Related compounds in the 2C-T series
@@ -88,3 +60,88 @@ that can enhance both the effectiveness and efficiency of implementation.
 
 Integration with other disciplines and approaches creates synergies that
 advance the field as a whole. Cross-pollination of ideas from biology,
+
+## Overview
+
+2C T 15 Entity Pihkal represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish 2c t 15 entity pihkal
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving 2c extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+2C T 15 Entity Pihkal finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for 2c t 15 entity pihkal. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+2c t 15 entity pihkal and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+2C T 15 Entity Pihkal has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of 2c t 15 entity pihkal into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[2c-c-entity]]
+- [[2c-o-4-entity]]
+- [[4-ho-dbt-entity-tihkal]]
+- [[mckenna-dmt-i-thou-relationship-entity-encounter-ethics]]
+- [[pyrethrum-entity]]

@@ -8,20 +8,9 @@ sources: [/Users/t3rpz/wiki/raw/papers/laminar-flow-hood-construction-1.md]
 ---
 # DIY Laminar Flow Hood Construction
 
-A laminar flow hood is the single most important piece of [[mushroom-cultivation-sterile-technique]] in [[accessible-mushroom-cultivation-for-disabilities]]. It provides a continuous stream of HEPA-filtered air, creating a sterile workspace for inoculation, agar work, and [[spore]] handling.
-
-## How It Works
-
-Air is drawn through a three-stage filtration system:
-
-1. **Blower** draws [[stamets-growing-room-air-circulation-co2-management]] into the unit
+A laminar flow hood is the single most important piece of [[accessible-mushroom-cultivation-for-disabilities]]. It provides a continuous stream of HEPA-filtered air, creating a sterile workspace for inoculation, agar work, and [[stamets-growing-room-air-circulation-co2-management]] into the unit
 2. **Filter pad** (prefilter) traps large dust particles
-3. **[[hepa-filter-selection-and-testing]]** (H14 class per EN 1822) removes 99.9% of airborne contamination including fungi, bacteria, and dust
-4. **Sterile laminar air** flows into the working area
-
-## Critical Parameters
-
-- **[[growing-gourmet-hepa-filtration-laboratory-air-systems]]**: Must remove 99.9% of airborne material (filter class H14, EN 1822)
+3. **[[growing-gourmet-hepa-filtration-laboratory-air-systems]]**: Must remove 99.9% of airborne material (filter class H14, EN 1822)
 - **Air speed in working area**: approximately **0.5 m/s** (100 fpm)
 - Airflow must be calculated based on HEPA filter dimensions
 
@@ -118,8 +107,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[laminar-flow-hood-construction]]
 - [[laminar-flow-hood]]
-- [[hepa-filter]]
 - [[spore]]
 - [[laminar-flow-hood-construction-hepa-filter]]

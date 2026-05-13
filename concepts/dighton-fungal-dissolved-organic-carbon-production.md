@@ -17,12 +17,7 @@ type: concept
 # Fungal Production of Dissolved Organic Carbon
 
 Dissolved organic carbon (DOC) represents a major pathway of carbon
-flow from terrestrial to [[dighton-fungal-biomass-production-aquatic-ecosystems]], and fungi play a central
-role in its production. The end product of fungal decomposition is
-frequently dissolved organic matter rather than particulate organic
-matter. Understanding fungal DOC production is critical for quantifying
-carbon budgets in both terrestrial and aquatic ecosystems and for
-understanding [[mycelial-network-nutrient-transport-imaging-gadd]] between ecosystem compartments.
+flow from terrestrial to [[mycelial-network-nutrient-transport-imaging-gadd]] between ecosystem compartments.
 
 ## DOC in Mangrove Ecosystems
 
@@ -35,24 +30,9 @@ of plant litter in coastal communities and the consequent nutrient
 mineralization supplying nutrients to the ocean. Hyde and Lee (1995)
 suggest that the end product of fungal decomposition is likely to be
 dissolved organic matter, of which there is still scant understanding
-of its origins and distribution in [[marine-estuarine-fungi]] ecosystems.
-
-## Carbon Budgets in Aquatic Systems
-
-Field carbon budgets of sycamore in freshwater stream systems and
-cordgrass ([[spartina-alterniflora]]) in salt marsh systems show the
-proportion of carbon lost to dissolved [[savory-soil-organic-matter-and-decomposition-dynamics]] fine
-particulate organic matter. Fungi contribute significantly to the
-carbon budgets of both aquatic and salt marsh systems. The relative
-contribution of dissolved versus particulate carbon loss varies with
-fungal [[core-endorhiza-bacterial-community-composition-cannabis]], litter quality, and environmental
-conditions including [[ph-and-nutrient-availability-garden-soils]] and temperature.
-
-## Fungal Leaching in Terrestrial Systems
-
-In forest ecosystems, the process of decomposition and mineralization
-is greatest in the organic horizons. Fungal decomposition releases
-dissolved [[chamovitz-plant-scent-communication-volatile-organic-compounds]] that can leach through soil profiles. In
+of its origins and distribution in [[spartina-alterniflora]]) in salt marsh systems show the
+proportion of carbon lost to dissolved [[core-endorhiza-bacterial-community-composition-cannabis]], litter quality, and environmental
+conditions including [[chamovitz-plant-scent-communication-volatile-organic-compounds]] that can leach through soil profiles. In
 lichens, the loss of dissolved mineral and dissolved organic nitrogen
 through leaching to deeper soil horizons can be significant. Fungal
 hyphae create channels and modify soil porosity, facilitating water
@@ -67,9 +47,7 @@ and produce dissolved organic carbon as they break down structural
 polysaccharides. Bacteria in aquatic systems primarily access dissolved
 organic matter, while fungi become important as leached organic matter
 availability declines and they enter intact structural components of
-leaf litter. The transition from [[ingham-bacterial-to-fungal-succession-soil-food-web]] dominance during
-decomposition involves a shift from DOC utilization to particulate
-organic matter [[wood-decomposition-by-fungi]].
+leaf litter. The transition from [[wood-decomposition-by-fungi]].
 
 ## Stream Chemistry and Fungal DOC
 
@@ -118,8 +96,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[fungal-decomposition]]
 - [[doc]]
-- [[dom]]
 - [[det]]
 - [[lichens]]

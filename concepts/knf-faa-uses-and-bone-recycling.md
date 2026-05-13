@@ -10,8 +10,7 @@ type: concept
 
 # KNF FAA Uses and Bone Recycling
 
-[[cho-fish-amino-acid-preparation]]s. Beyond
-its primary role as a [[korean-natural-farming]], including pest control applications
+[[korean-natural-farming]], including pest control applications
 and an innovative bone recycling method for producing calcium phosphate.
 
 ## FAA Overview
@@ -80,8 +79,7 @@ valuable input from what would otherwise be waste.
 ### The Recycling Process
 1. After extracting the FAA liquid from fermented fish, the bones
    remain as a byproduct.
-2. Put the leftover bones into [[knf-lab-culturing-and-uses]]
-- [[cannabis-and-bone-cancer]]
+2. Put the leftover bones into [[cannabis-and-bone-cancer]]
 
 ## Practical Applications
 
@@ -112,8 +110,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[calcium-phosphate]]
 - [[natural-farming]]
-- [[knf-lab-culturing-and-uses]]
 - [[chamomile-cultivation-and-uses]]
 - [[breadfruit-cultivation-and-uses]]

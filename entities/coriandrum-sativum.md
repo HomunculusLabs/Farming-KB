@@ -7,69 +7,7 @@ tags:
   - culinary-herb
   - medicinal-plant
   - ethnobotany
-  - [[companion-planting]]
-created: 2026-04-28
-updated: 2026-04-28
-sources:
-  - Small, E. (1997). "holzer-medicinal-and-culinary-herbs-compendium." NRC Research Press, Ottawa.
-  - Sahib, N.G. et al. (2013). "Coriander (Coriandrum sativum L.):
-    A Potential Source of High-Value Components." International Journal
-    of Molecular Sciences 14(6): 12831–12848.
-  - Ebermann, R. et al. (1984). "Chemistry of Coriander (Coriandrum
-    sativum L.)." Journal of Agricultural and Food Chemistry.
-  - https://powo.science.kew.org/taxon/296356-2
----
-
-## Overview
-
-Coriandrum sativum, known as cilantro in the Americas and coriander
-internationally, is an annual herb in the family Apiaceae. It is one of
-the oldest known spice plants, cultivated for over 3,000 years across
-Mediterranean, Middle Eastern, and South Asian cuisines.
-
-The species is unusual in that its fresh leaves (cilantro) and dried seeds
-(coriander) have distinctly different flavor profiles. The leaves are
-bright, citrusy, and slightly peppery, while the seeds are warm, aromatic,
-with notes of citrus peel, sage, and nuttiness.
-
-## Taxonomy
-
-**Kingdom:** Plantae
-**Division:** Magnoliophyta
-**Class:** Magnoliopsida
-**Order:** Apiales
-**Family:** Apiaceae
-**Genus:** Coriandrum
-**Species:** Coriandrum sativum L.
-
-The genus Coriandrum contains approximately 2–3 species. C. sativum is the
-sole commercially important member. The specific epithet derives from Greek
-"koris" (bedbug), referencing the bug-like odor of unripe fruits.
-
-## Morphology
-
-Coriander is an erect, glabrous annual herb, 30–70 cm tall. The stem is
-slender, branched above, solid, and light green. The plant forms a basal
-rosette of leaves before bolting.
-
-Basal leaves are broadly lobed, 3–9 cm long with petioles up to 8 cm.
-Upper stem leaves are pinnately compound with narrow, linear segments,
-1–2 mm wide. This leaf dimorphism is distinctive within the Apiaceae.
-
-Inflorescences are compound umbels, 3–6 cm in diameter, with 3–8 rays.
-Flowers are small, white to pale pink, 3 mm across, with petals of unequal
-size — outer petals of marginal flowers are enlarged and radiating. Flowering
-occurs 40–50 days after sowing.
-
-The fruit is a schizocarp (cremocarp), 3–5 mm in diameter, globular, and
-ridged. Immature fruits are green and strongly aromatic; mature fruits are
-brownish-yellow. Each mericarp contains one seed.
-
-## Distribution and Cultivation
-
-Native to regions spanning southern Europe, North Africa, and western Asia.
-The plant is now naturalized and cultivated worldwide in temperate and
-[[query-how-to-grow-rare-tropical-fruits-in-marginal-and-subtropical-climates]]. Major producers include India, Russia, Morocco,
+  - [[query-how-to-grow-rare-tropical-fruits-in-marginal-and-subtropical-climates]]. Major producers include India, Russia, Morocco,
 Romania, and Mexico.
 
 Cilantro prefers full sun to partial shade and well-drained, loamy soils
@@ -83,8 +21,89 @@ harvest begins 3–4 weeks after sowing; seed harvest at 90–110 days.
 
 ## Essential Oil Composition
 
-The essential oil of coriander seed is dominated by [[linalool]] (60–78%),
-followed by geranyl acetate, camphor, [[geraniol]], limonene, and α-pinene.
+The essential oil of coriander seed is dominated by [[geraniol]], limonene, and α-pinene.
 Fresh leaf oil contains higher proportions of aldehydes, primarily
 (E)-2-decenal and (E)-2-undecenal, responsible for the characteristic
 fresh cilantro aroma. Composition varies with plant part and [[cannabis-growth-stage-checklist]].
+
+## Overview
+
+Coriandrum Sativum represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish coriandrum sativum
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving coriandrum extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Coriandrum Sativum finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for coriandrum sativum. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+coriandrum sativum and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Coriandrum Sativum has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of coriandrum sativum into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[allium-sativum-entity]]
+- [[pisum-sativum]]

@@ -8,68 +8,7 @@ type: concept
 
 ## Overview
 
-Soil pollution from agricultural chemicals, industrial waste, and urban contamination represents one of the most serious and persistent environmental challenges of the modern era. Many contaminated lands will require decades or even centuries before they can safely produce food again. Understanding the sources, behaviour, and potential remedies for soil pollution is essential for [[permaculture]] designers.
-
-## Sources of Agricultural Soil Pollution
-
-### Historical Chemical Abuse
-
-Orchards, sugarcane areas, pineapple, cotton, tobacco, and banana plantations have had extensive applications of mineral additives, arsenicals, Aldrin, DDT, copper salts, and dioxins. The persistence of these chemicals is remarkable:
-
-- Apple orchards in West Australia still produce unsafe levels of Aldrin and Dieldrin in the eggs of free-range chickens after 18-20 years of no chemical use
-- Attempts to grow prawns in ponds on former orchard lands have failed due to residual Dieldrin levels in soils
-- Lead at 1,100 ppm can be present in urban areas near older buildings
-
-### Lock-Up Periods
-
-- Persistent organic pollutants (POPs): decades
-- Radioactive contamination: tens to thousands of years
-- Heavy metals (cadmium, chromium, mercury): varies widely but often centuries
-- Nitrate-polluted soil waters: decades for aquifer recovery
-
-When total environmental damage is assessed, many farms, bores, and rivers will need to be put into non-food production (fuel forests or structural timber) for decades. Soils within 100 metres of roadways where leaded petrol is used and 800-1,000 cars pass daily are similarly compromised.
-
-### Cost of Rehabilitation
-
-The costs of rehabilitation already far outstrip the profits of degradation, and may be prohibitive for areas developed for farming from 1950 to the present—the age of agricultural pollution.
-
-## Behaviour of Specific Pollutants
-
-### Heavy Metals
-
-**Copper and Lead** stay at or near the surface of soils in high concentrations. Copper in pasture plants under orchards can reach 50 ppm, which is poisonous to sheep. Excess copper in the diet causes toxaemic jaundice (liver poisoning) and blood in the urine.
-
-**Arsenic** may stay at surface level in clay soils or wash down to subsoil (50-60 cm deep) in acid sands. Leaching from clays or organic profiles (10-20 cm) is unlikely, although phosphate application may dislodge arsenic to deeper levels.
-
-**Molybdenum, zinc, and sulphur** may buffer copper uptake in sheep. Uptake by plants increases with temperature and acidity for lead and copper.
-
-**Arsenic uptake** is not related to acidity. Silver beet (Swiss chard) fed with nitrogen shows high arsenic concentrations but may then be unsuitable for children due to high nitrate levels.
-
-## Remediation Strategies
-
-### Lead-Contaminated Soils
-
-For urban areas near older buildings where lead paint, pipes, and car exhausts have accumulated:
-
-1. Use cracked bricks or gravel as a base layer
-2. Build up beds to 30 cm deep with a rich composted soil of over 40% organic content
-3. Grow vegetables and have leaf analyses done
-4. Wash produce in dilute vinegar if lead is still used locally in petrol
-
-### Persistent Biocides (DDT, Aldrin, Dieldrin, BHC)
-
-If you buy or inherit an old orchard, canefield, or plantation (banana, pineapple, cotton, tobacco), it is unlikely that any animal product (milk, eggs, meat) will be free of high levels of biocides. The only option is to convert to forestry and produce non-food crops until other methods are developed. Always test vegetables for residual toxic materials.
-
-### Groundwater Contamination
-
-Groundwater can contain 80-90 biocidal substances below farms, including those derived from fertilisers, sprays, and fuels. Near industrial waste dumps, dioxins, radioactives, and heavy metal wastes can be added.
-
-**Critical actions:**
-- Do not use untested wells or bore waters for any purpose
-- Drink tank water
-- Try to harvest surface runoff for gardens
-- Expect several decades to clear most aquifers of pollutants
-- Practice rainwater harvesting and strict [[water-conservation]]
+Soil pollution from agricultural chemicals, industrial waste, and urban contamination represents one of the most serious and persistent environmental challenges of the modern era. Many contaminated lands will require decades or even centuries before they can safely produce food again. Understanding the sources, behaviour, and potential remedies for soil pollution is essential for [[water-conservation]]
 
 ### Town Water Supplies
 
@@ -124,6 +63,88 @@ The sane procedure in health is to:
 
 ## See Also
 
-- [[soil-pollution-biocides-mollison]]
 - [[mollison-soil-pollution-and-remediation]]
 - [[soil-pollution-and-remediation]]
+
+## Overview
+
+Soil Pollution And Rehabilitation represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish soil pollution and rehabilitation
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving soil extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Soil Pollution And Rehabilitation finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for soil pollution and rehabilitation. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+soil pollution and rehabilitation and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Soil Pollution And Rehabilitation has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of soil pollution and rehabilitation into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[cool-temperate-soil-characteristics]]
+- [[jeavons-soil-ph-testing-balancing]]
+- [[lowenfels-tilling-no-till-soil-health]]

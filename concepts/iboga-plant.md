@@ -10,10 +10,7 @@ tags: [plants]
 
 # Iboga Plant
 
-[[plants-of-the-gods-tabernanthe-iboga-chemistry]] is a perennial shrub of the Apocynaceae (dogbane
-family) native to the rainforests of equatorial West Africa,
-particularly Gabon, Congo, and Cameroon. The plant is the source of
-ibogaine, a powerful [[aminopropyl-silica-gel-chromatography-indole-alkaloid-purification]] with hallucinogenic and
+[[aminopropyl-silica-gel-chromatography-indole-alkaloid-purification]] with hallucinogenic and
 stimulant properties. Iboga is the central sacrament of the Bwiti
 religion, one of the most significant entheogenic traditions in
 Africa, and has attracted modern scientific interest for its
@@ -21,13 +18,7 @@ potential anti-addictive properties.
 
 ## Botanical Description
 
-[[plants-of-the-gods-tabernanthe-iboga]] attains a height of 4 to 6 feet (1.5-2 m) in its
-forest understory habitat. It is an evergreen shrub with glossy,
-elliptical leaves arranged in whorls or opposite pairs along the
-stems. The small, yellowish flowers are borne in clusters and are
-followed by conspicuous bright yellow-orange fruits that contain
-numerous seeds. The yellowish root is the active part of the plant,
-containing the psychoactive alkaloids. The [[iboga-root-bark-preparation]] is especially
+[[iboga-root-bark-preparation]] is especially
 rich in ibogaine and related compounds, and it is this part that is
 harvested for ceremonial use.
 
@@ -39,8 +30,7 @@ secondary rainforest.
 
 ## The Bwiti Cult
 
-Iboga is basic to the Bwiti cult and other [[entheogenic-knowledge-secret-societies]] in Gabon
-and Zaire. The [[iboga-bwiti-religion]] is a syncretic spiritual tradition that
+Iboga is basic to the Bwiti cult and other [[iboga-bwiti-religion]] is a syncretic spiritual tradition that
 combines elements of indigenous Fang cosmology with Christian
 symbolism, creating a unique religious system that has served as a
 powerful force for cultural preservation in the face of colonial and
@@ -117,8 +107,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[iboga]]
 - [[ibogaine]]
-- [[dom]]
 - [[det]]
 - [[indole]]

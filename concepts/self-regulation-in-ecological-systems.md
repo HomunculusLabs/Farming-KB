@@ -7,7 +7,7 @@ created: 2026-05-11
 
 # Self-Regulation in Ecological Systems
 
-The permaculture principle "Apply Self-regulation and Accept Feedback" is
+The [[permaculture]] principle "Apply Self-regulation and Accept Feedback" is
 perhaps the most challenging and far-reaching of the twelve principles.
 Drawing on Howard Odum's systems ecology and decades of permaculture
 practice, Holmgren explores how feedback mechanisms operate in natural
@@ -115,7 +115,7 @@ societies tend to replace these organic feedback mechanisms with top-down
 regulation that is less responsive, less nuanced, and more easily captured
 by special interests.
 
-Permaculture design seeks to create social and economic systems with built-in
+[[permaculture-design]] seeks to create social and economic systems with built-in
 feedback mechanisms: local food economies where producers directly experience
 the consequences of their land management, community governance where
 decisions are made by those affected, and economic arrangements where costs
@@ -137,8 +137,6 @@ perhaps the most difficult aspect of the principle, but also the most
 essential for genuine sustainability.
 
 ## See Also
-- [[holmgren-self-regulation-and-feedback-systems-design]]
 - [[ecosystem-self-regulation]]
-- [[holmgren-food-systems-and-local-self-reliance]]
 - [[permaculture-principle-apply-self-regulation]]
 - [[fukuoka-textdoc-soil-self-regulation-failure-lime-correction]]

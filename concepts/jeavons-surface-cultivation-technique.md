@@ -11,14 +11,7 @@ type: concept
 # Surface Cultivation Technique
 
 Surface cultivation is the practice of loosening only the upper 2
-inches of soil after an initial period of [[jeavons-double-digging-bed-preparation]], it may be
-preferable to use surface cultivation for several years rather than
-repeatedly double-digging the bed. The complete double-dig process
-loosens soil to a depth of 24 inches, but after the first year or two,
-the goal shifts from loosening to preserving the valuable structure
-that has been created.
-
-The initial double-dig creates a [[comparison-chinampas-vs-raised-bed-gardening]] with a "living sponge
+inches of soil after an initial period of [[comparison-chinampas-vs-raised-bed-gardening]] with a "living sponge
 cake" texture. As your soil improves and large clods disappear, the
 bed may not raise as high as it did initially. This is not a cause for
 concern but rather a sign that you and your soil are successful. The
@@ -62,32 +55,12 @@ structure to transition to surface cultivation:
   your fingers, it probably has good soil structure.
 
 This test works because well-structured soil has been built up by
-microbial life and plant [[jeavons-composting-methods]].
-
-With your assistance, "threads" exuded by microbial life and "glue"
-exuded by plant roots help to loosen a clay soil and improve a sandy
-soil. The goal is to create a sumptuous "living sponge cake" that
-supports abundant plant life.
-
-## Benefits of Surface Cultivation
-
-1. **Preserves soil [[hamilton-composting-and-organic-matter-management]]** - By not turning the soil deeply,
+microbial life and plant [[hamilton-composting-and-organic-matter-management]]** - By not turning the soil deeply,
   the organic matter and humus built up through composting are better
   preserved and not exposed to rapid oxidation.
 2. **Maintains microbial networks** - The fungal mycelia and bacterial
   colonies established in the soil are less disturbed, supporting
-  continuous [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]].
-3. **Reduces labor** - Surface cultivation takes significantly less
-  time and physical effort than a full double-dig, requiring only a
-  cultivating tool rather than a spade and fork.
-4. **Minimizes weed seed exposure** - Fewer buried weed seeds are
-  brought to the surface where they can germinate.
-5. **Prevents nitrogen leaching** - Less soil disturbance means less
-  risk of water-soluble nitrogen being flushed below the root zone.
-
-## Relationship to the Complete System
-
-Surface cultivation is part of the broader [[jeavons-grow-biointensive-method-overview]] system.
+  continuous [[jeavons-grow-biointensive-method-overview]] system.
 
 ## Practical Applications
 
@@ -118,8 +91,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[chinampas]]
 - [[det]]
-- [[composting]]
 - [[casing-surface-roughness-technique-mushroom-fruiting]]
 - [[mushroom-cultivation-sterile-technique]]

@@ -1,22 +1,13 @@
 ---
 title: Mckenna Shamanic Identification Training And Peripheral Social Role
 source: mckenna_t-tryptamines_consciousness.md
-author: [[terence-mckenna]]
-topics: [[shamanism]], training, initiation, indigenous-knowledge, social-structure]
+author: shamanism, training, initiation, indigenous-knowledge, social-structure]
 ---
 
 # Shamanic Identification, Training, and the Peripheral Social Role
 
 ## Signs of Shamanic Calling in Archaic Societies
 
-[[terence-mckenna]] describes the process by which potential shamans are identified in archaic
-societies. In cultures where shamanism is a thriving institution, the signs of shamanic
-vocation are "fairly easy to recognize" and center on what McKenna calls "oddness or
-uniqueness in an individual." These markers of difference serve as indicators that a person
-possesses the unusual sensitivity or inner strength necessary for shamanic work.
-
-Epilepsy is frequently cited as a signature of shamanic potential in preliterate societies.
-The seizure experience, with its characteristic loss of ordinary consciousness and entry into
 [[weil-the-natural-mind-altered-states-normalcy]], is interpreted not as pathology but as evidence of an innate capacity to
 navigate nonordinary realities. This interpretation stands in stark contrast to the Western
 medical model, which frames epilepsy purely as a neurological disorder.
@@ -88,3 +79,7 @@ Shamans are "peripheral to society's goings on in ordinary social life in every 
 word." They are called upon in crisis — illness, death, psychological difficulty, marital
 quarrels, theft, or weather prediction — but otherwise remain apart. This on-call function
 means that the shaman's expertise is activated by necessity rather than routine. The crisis-
+
+## See Also
+
+- [[mckenna-shaman-centeredness-and-peripheral-social-role]]

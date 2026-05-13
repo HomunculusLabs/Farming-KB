@@ -11,8 +11,7 @@ tags: [ecosystem, mycology, mycorrhizal]
 # Ectomycorrhizal Ecosystem Impact
 
 Dighton (2003) details the profound influence of ectomycorrhizal (ECM) fungi
-on [[fungal-ecosystem-processes-overview]], including nutrient acquisition, decomposition
-interactions, plant [[dighton-aquatic-hyphomycete-conidia-community-dynamics]], carbon cycling, and ecosystem
+on [[dighton-aquatic-hyphomycete-conidia-community-dynamics]], carbon cycling, and ecosystem
 resilience. ECM associations occur between a limited number of plant species
 (mainly trees) and a huge diversity of fungal taxa (basidiomycetes,
 ascomycetes, some zygomycetes), forming one of the most functionally
@@ -54,29 +53,17 @@ inorganic sources.
 ## Ecosystem Decomposition Interactions
 
 The "Gadgil and Gadgil effect" describes how mycorrhizal tree roots can
-suppress leaf [[dighton-pine-needle-litter-decomposition-fungal-succession]] by saprotrophic fungi. Gadgil and Gadgil
-(1971, 1975) first suggested strong interaction between mycorrhizal roots
-and the saprotrophic community. Dighton et al. (1987) showed that the
-saprotroph Mycena galopus reduced the decomposition potential of ECM fungi
-Suillus luteus and [[hebeloma-crustuliniforme]] on pine seedlings.
+suppress leaf [[hebeloma-crustuliniforme]] on pine seedlings.
 
 Colpaert and van Tichelen (1996) demonstrated that beech leaf litter
 decomposition was much less in the presence of Scots pine with ECM species
-([[thelephora-terrestris]], [[suillus-bovinus]], [[paxillus-involutus]]) than with the
-saprotroph Lepista nuda. [[fungal-nitrogen-mineralization-pathways]] occurred only in the
+([[suillus-bovinus]], [[fungal-nitrogen-mineralization-pathways]] occurred only in the
 presence of Lepista, suggesting ECM fungi are capable of decomposition in
 the absence of competing saprotrophs but are inferior competitors for organic
 resources.
 
 However, Lindahl et al. (1999) demonstrated net P transfer from the
-saprotroph [[hypholoma-fasciculare]] to ECM fungi, with up to 25% of saprotroph
-P captured within 30 days. Reciprocal transfer was three orders of magnitude
-lower, suggesting ECM fungi more readily absorb and translocate mineral
-nutrients derived from saprotroph activity. Singer and da Silva Araujo (1979)
-linked the dependence of tropical trees on ECM (vs. AM) to the ability of
-ECM associates to effect leaf litter decomposition in low-fertility soils.
-
-[[fungal-stable-isotope-ecology]] analysis (Hobbie et al., 1999) showed ECM fungi had
+saprotroph [[fungal-stable-isotope-ecology]] analysis (Hobbie et al., 1999) showed ECM fungi had
 consistently higher delta-15N values and lower delta-13C values than
 saprotrophic fungi, suggesting limited direct competition and distinct
 nutrient sourcing strategies between the two functional groups.
@@ -118,8 +105,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[ectomycorrhizal-fungi]]
 - [[det]]
-- [[douglas-fir]]
 - [[mycena-galopus]]
 - [[saprotrophic-fungi]]

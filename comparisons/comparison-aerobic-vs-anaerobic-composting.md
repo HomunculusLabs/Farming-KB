@@ -14,28 +14,11 @@ type: comparison
 
 Aerobic composting uses oxygen-loving microorganisms to decompose organic
 matter at elevated temperatures, producing finished compost in weeks.
-[[jadam-anaerobic-fermentation-principles]] excludes oxygen, relying on different microbial
-communities that work more slowly but preserve more nutrients. The choice
-between these methods involves trade-offs in speed, nutrient retention,
-labor requirements, and the type of soil amendment produced.
-
-## Aerobic Composting
-
 [[jadam-anaerobic-fermentation]]
 
 Anaerobic composting excludes oxygen, relying on fermentative
 microorganisms including photosynthetic bacteria, lactobacillus, and yeasts
-to break down [[hamilton-composting-and-organic-matter-management]]. JADAM's philosophy, developed by Youngsang
-Cho, argues that anaerobic processes are universal in nature, from animal
-digestion to kimchi production to leaf mold formation, and preserve
-nutrients far better than aerobic methods because air, sunlight, and heat
-are the three biggest nutrient destroyers in agriculture.
-
-The practical JADAM approach, known as the gunnysack method, is radically
-simple. Fill sacks with wild grass, leaves, food waste, and manure, wrap
-tightly in plastic sheeting, and leave undisturbed for three months. No
-turning, no carbon-to-nitrogen calculations, no moisture monitoring. JADAM
-also simplifies [[jadam-liquid-fertilizer-nutritional-perspective]] production by adding plant materials and
+to break down [[jadam-liquid-fertilizer-nutritional-perspective]] production by adding plant materials and
 a handful of leaf mold directly to water, relying on naturally present
 anaerobic microorganisms to ferment the mixture. This zero-equipment
 approach makes fertility production accessible to the poorest farmers.
@@ -86,20 +69,7 @@ important.
 Anaerobic methods excel for ultra-low-cost operations where labor must be
 minimized, following the JADAM philosophy of zero external inputs. They
 suit small farms and homesteads that value nutrient preservation over
-speed, and are ideal for producing [[solomon-liquid-fertilizers-and-foliar-feeding]] and fermented plant
-extracts that feed plants through both soil drenching and foliar
-application. Anaerobic composting also works well in apartments and small
-spaces where turning a large pile is impractical, and in any context where
-the simplicity of fill-and-forget production outweighs the need for rapid,
-pathogen-free output.
-
-## Hybrid Approaches
-
-Many practitioners use both methods strategically. Aerobic hot composting
-handles bulk organic waste and produces stable soil amendment, while
-anaerobic fermentation produces concentrated liquid fertilizers and
-nutrient-dense extracts. Bokashi is essentially a hybrid system, using
-anaerobic fermentation with [[query-how-do-you-make-effective-microorganisms-em-for-agriculture]] to pre-process food
+speed, and are ideal for producing [[query-how-do-you-make-effective-microorganisms-em-for-agriculture]] to pre-process food
 waste including meat and dairy, then burying the fermented material in soil
 where aerobic decomposition completes the process. JADAM combines anaerobic
 fermentation with aerobic leaf mold production in a complete fertility
@@ -109,8 +79,5 @@ remaining nutrients.
 
 ## See Also
 
-- [[aerobic-vs-anaerobic-tea-benefits-comparison]]
-
 - [[comparison-vermicomposting-vs-hot-composting]]
-- [[comparison-compost-tea-guide-vs-fermented-plant-extract-fpe]]
 - [[comparison-bokashi-vs-vermicomposting]]

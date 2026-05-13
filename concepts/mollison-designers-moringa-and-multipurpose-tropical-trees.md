@@ -17,16 +17,10 @@ type: concept
 
 # Moringa and Multipurpose Tropical Trees
 
-The horseradish tree or drumstick tree ([[comparison-moringa-oleifera-vs-moringa-stenopetala]], also spelled
-M. olitera in the Manual) is cited in the Permaculture [[bill-mollison-permaculture-a-designers-manual-animal-systems-in-permaculture]] as
+The horseradish tree or drumstick tree ([[bill-mollison-permaculture-a-designers-manual-animal-systems-in-permaculture]] as
 a multipurpose tropical tree valued for food, fodder, and soil improvement.
 Mollison includes moringa within the broader context of multipurpose
-tropical trees that serve [[plant-micronutrients-and-their-essential-functions]] in permaculture systems.
-
-## Botanical Profile
-
-Mollison lists the species as:
-- Drumstick tree, [[moringa-oleifera]]
+tropical trees that serve [[moringa-oleifera]]
 - Horseradish tree, Moringa oleifera
 
 The tree is native to the Indian subcontinent but has been widely
@@ -36,9 +30,7 @@ readily from seed or cuttings.
 
 ## Role in Terrace Systems
 
-In the [[mollison-designers-tropical-terrace-design-and-earth-shaping]] design section, moringa appears in the list of
-crops suitable for garden terraces near homes, alongside banana, papaya,
-melons, chilies, peppers, cucurbits, [[comparison-cassava-vs-taro-vs-sweet-potato-vs-yam]], cassava, maize, beans,
+In the [[comparison-cassava-vs-taro-vs-sweet-potato-vs-yam]], cassava, maize, beans,
 edible Chrysanthemum, edible Hibiscus, rosella, coconut, and mango. This
 placement indicates its value as a productive garden tree that can be
 integrated into intensive home food production systems.
@@ -53,8 +45,7 @@ characteristic of Zone 1 and Zone 2 tropical gardens.
 
 ## Nitrogen Fixation and Soil Improvement
 
-In the broader discussion of [[legume-trees-and-nitrogen-fixing-permaculture-species]] soil improvement, moringa
-appears alongside Leucaena, Glyricidia, [[tipuana-tipu]], and other
+In the broader discussion of [[tipuana-tipu]], and other
 nitrogen-fixing or soil-improving species recommended for establishing
 tree crop systems. While moringa is not a true legume, its rapid leaf
 production and decomposition contribute significantly to soil organic

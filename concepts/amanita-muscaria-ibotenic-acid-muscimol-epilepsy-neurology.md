@@ -6,7 +6,7 @@ type: concept
 
 # Amanita Muscaria Ibotenic Acid Muscimol and Epilepsy Treatment
 
-The Amanita muscaria mushroom contains two principal active compounds — ibotenic acid
+The [[amanita-muscaria]] mushroom contains two principal active compounds — [[ibotenic-acid]]
 and its decarboxylation product muscimol — that interact directly with the brain's most
 fundamental neurotransmitter systems. Modern neuropharmacology has demonstrated that
 these compounds possess genuine anticonvulsant and neuroprotective properties, lending
@@ -38,24 +38,7 @@ frequency and severity of seizures would be held in the very highest regard. It 
 not be seen merely as a medicine — it would be seen as a weapon against evil itself.
 This context is essential for understanding why Amanita muscaria was elevated to the
 status of a religious sacrament. Its genuine neurological effects would have appeared
-miraculous to observers who had no concept of neurotransmitters or [[cannabinoid-receptor-pharmacology]].
-
-## New Testament Demon Possession and Epilepsy
-
-Most people in the New Testament said to be "possessed by demons" with detailed
-symptom descriptions appear to be epileptics. The most striking example is the boy in
-the Gospel of Mark (9:17–29), whose symptoms include convulsions, foaming at the mouth,
-grinding of teeth, and becoming rigid — a clinical portrait of tonic-clonic epilepsy
-that any modern neurologist would immediately recognize.
-
-The detailed descriptions of symptoms throughout the New Testament match epileptic
-seizure patterns with remarkable specificity: falling to the ground, convulsing, losing
-speech, and exhibiting abnormal strength during episodes. These are hallmarks of seizure
-activity, and the symptomatology is too consistent to be coincidental.
-
-Jesus' "exorcisms" may have been, in pharmacological terms, the administration of the
-sacred mushroom — the Herb of Immortality — to epilepsy sufferers. The "casting out of
-demons" would then represent the treatment of [[cannabis-and-neurological-conditions]] with a substance
+miraculous to observers who had no concept of neurotransmitters or [[cannabis-and-neurological-conditions]] with a substance
 that ancient peoples understood through their own cultural and religious framework. The
 mushroom's ability to reduce seizure activity would have been experienced as a miraculous
 liberation, and each successful "exorcism" would have powerfully reinforced both the
@@ -70,9 +53,7 @@ characterized by neurotransmitter imbalances, pointing to the fundamental import
 of the glutamate-GABA axis in neurological health.
 
 It is important to note that references to muscimol as a "toxin" in the scientific
-literature largely reflect the bias of papers dealing with "[[bloomfield-angel-of-death-poisonous-mushroom-identification-toxinology]]"
-chemistry. When Amanita muscaria is studied from a pharmacological rather than
-toxicological perspective, the same compounds reveal genuine [[amanita-muscaria-medicinal-properties-heart-anxiety-dreams]]. This
+literature largely reflect the bias of papers dealing with "[[amanita-muscaria-medicinal-properties-heart-anxiety-dreams]]. This
 framing bias has historically obscured the mushroom's medical significance.
 
 Tiagabine (marketed as Gabatril) is a synthetic drug developed directly from ibotenic

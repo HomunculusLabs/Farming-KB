@@ -17,41 +17,14 @@ Root crops and tubers form an essential staple food layer in permaculture system
 The most extensively documented root crops in this source are those adapted to wetland and aquatic environments, which are particularly valuable in permaculture for their dual role in food production and water system management.
 
 ### Taro (Colocasia esculenta)
-Possibly the earliest cultivated plant. Grown in paddy culture like rice or on dry land under irrigation. Both the main corm and smaller cormels are eaten. Leaves and petioles cooked like spinach (must be cooked). Requires 6-7 month frost-free period. Nutrition comparable to potato and sweet potato. Some cultivars highly [[halotolerant-halophilic-fungi-salt-tolerant-diversity]]. Propagated from small tubers and crown of main tuber.
-
-### Chinese Water Chestnut (Eleocharis dulcis)
-Perennial rush-like plant native to N. Australia, Malaysia, SE Asia, Madagascar, Fiji, and New Caledonia. Grows in 50-200 mm of water, usually in flooded fields in rotation with rice. Rhizomes are as nutritious as potato (carbohydrate 30%, protein 1.5%). Yields can exceed 7 tons/ha. Grows as companion to taro, lotus, and water lilies. Can be grazed by stock.
-
-### Cumbungi / Cattail (Typha spp)
-One of the most productive and multi-functional root crops. Tubers cooked like potatoes with nutty flavour. Roots high in starch, dried and ground into sweet flour comparable nutritionally to rice and corn flour. One hectare yields 7,000 kg. American Indians crush and boil roots for syrup. Root flour successfully fermented to [[pf-tek-ethyl-alcohol-extraction-liqueur-concentration]]. Pollen used as flour additive at up to 1:1 ratio.
+Possibly the earliest cultivated plant. Grown in paddy culture like rice or on dry land under irrigation. Both the main corm and smaller cormels are eaten. Leaves and petioles cooked like spinach (must be cooked). Requires 6-7 month frost-free period. Nutrition comparable to potato and sweet potato. Some cultivars highly [[pf-tek-ethyl-alcohol-extraction-liqueur-concentration]]. Pollen used as flour additive at up to 1:1 ratio.
 
 ### Arrowhead (Sagittaria spp)
 Plants occurring at water's edge to 0.5 m depth:
 
 - **S. latifolia / S. fasciculata** -- Tubers called "wapatoo" by American Indians, said to be as good as potatoes. Good water fowl plant.
 - **S. sagittifolia** -- Native of Europe, to 1.5 m. Walnut-sized roots are edible, harvested in autumn.
-- **S. trifolia** -- Native to tropical and subtropical Asia, produces 8+ underground stems each with a corm, boiled like potatoes. High in protein (5-7%) for a root crop. Requires 6-7 month [[savory-growing-season-and-non-growing-season-management]].
-
-### Cocoyams (Xanthosoma spp)
-About 40 species native to the Americas, approximately 6 important as food. Central tuberous root (corm) surrounded by smaller tubers (cormels) about potato size. Corms used for animal feed and replanting; cormels are valued human food, used like potatoes with comparable nutrition. Grow in soil too damp for conventional root crops. Tender leaves and shoots used as spinach-like vegetable. Some varieties yield cormels in as little as 3 months. In dry areas, grown under irrigation.
-
-### Lotus (Nelumbo nucifera)
-Herbaceous perennial to 2 m. Rhizomes harvested in autumn as a food crop. Also cultivated for seed and leaves (spring harvest).
-
-## Dryland Root Crops
-
-### Macadamia
-While primarily a nut tree, the macadamia's root system is notable. Trees develop well in deep, fertile, well-drained soils, though they often grow on the edge of water courses. Damaged roots are vulnerable to Phytophthora cinnamomi trunk canker -- interplanting with small acacias helps reduce root attack.
-
-### Giant Granadilla (Passiflora quadrangularis)
-The roots of old vines are eaten roasted or baked like yams. The giant granadilla is a fast-growing vine climbing trees up to 45 m in the tropics.
-
-### Earthnut Pea (Lathyrus tuberosus)
-Perennial climbing legume producing edible tubers the size of hazelnuts with a flavour resembling chestnuts. Native to Europe and W. Asia. Tubers are boiled or roasted. The plant fixes nitrogen while producing a starchy crop, making it a dual-function species for permaculture systems. Grows in poor soils and is drought-tolerant once established.
-
-### Yam Bean (Pachyrhizus spp)
-Leguminous vine producing large edible tubers (up to 2 kg). Several species cultivated:
-- **P. erosus (jicama)** -- Most widely grown; crisp, sweet tubers eaten raw or cooked. All parts except root contain toxic rotenone (used as insecticide). Native to Mexico/[[guzman-allen-gartz-neurotropic-fungi-central-america-caribbean]].
+- **S. trifolia** -- Native to tropical and subtropical Asia, produces 8+ underground stems each with a corm, boiled like potatoes. High in protein (5-7%) for a root crop. Requires 6-7 month [[guzman-allen-gartz-neurotropic-fungi-central-america-caribbean]].
 - **P. tuberosus (Amazon yam bean)** -- Larger tubers; native to Amazon basin. Tubers to 1 m long.
 - **P. ahipa (Andean yam bean)** -- Adapted to highland tropical conditions; smaller tubers.
 
@@ -81,9 +54,94 @@ While not technically root crops, several nut-producing trees serve the same cal
 
 ## Design Considerations
 
-- Wetland root crops can be integrated into dam edges, [[graywater-systems]], and [[comparison-constructed-wetlands-vs-bioswales]]
+- Wetland root crops can be integrated into dam edges, [[comparison-constructed-wetlands-vs-bioswales]]
 - Multiple root crop species at different water depths maximise pond edge productivity
 - Rotation systems (e.g., water chestnut with rice) improve soil and yield diversity
 - Root crops grown in waterlogged areas expand productive land beyond what conventional crops can use
 - Perennial root crops like taro and arrowhead reduce annual soil disturbance
 - Cumbungi serves triple function: food production, water filtration, and fibre source
+
+## Overview
+
+Permaculture Plants Root Crops And Tubers represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish permaculture plants root crops and tubers
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving permaculture extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Permaculture Plants Root Crops And Tubers finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for permaculture plants root crops and tubers. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+permaculture plants root crops and tubers and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Permaculture Plants Root Crops And Tubers has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of permaculture plants root crops and tubers into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[eucalyptus-permaculture]]
+- [[holzer-thailand-permaculture-project]]
+- [[mollison-permaculture-design-course-curriculum]]
+- [[permaculture-designers-manual-sacred-groves]]
+- [[permaculture-japanese-raisin-tree-hovenia-dulcis]]

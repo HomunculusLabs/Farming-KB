@@ -21,11 +21,11 @@ created: 2026-05-07
 
 ## Overview
 
-**Sambucus canadensis** L. (syn. *[[sambucus-nigra]]* subsp. *canadensis*), the **American elderberry**, is a deciduous shrub in the family Adoxaceae (formerly Caprifoliaceae) native to eastern and central [[psilocybin-north-america-pacific-northwest]].
+**Sambucus canadensis** L. (syn. *[[psilocybin-north-america-pacific-northwest]].
 
 It produces large clusters of dark purple-black berries valued for culinary use, traditional medicine, and nutraceutical production.
 
-American elderberry has experienced a surge in commercial cultivation since 2015, driven by demand for elderberry-based [[medicinal-mushroom-dietary-supplements]] and [[functional-foods-medicinal-mushrooms]].
+American elderberry has experienced a surge in commercial cultivation since 2015, driven by demand for elderberry-based [[functional-foods-medicinal-mushrooms]].
 
 ## Taxonomy and Morphology
 
@@ -59,15 +59,7 @@ Recent taxonomic treatments by Bolli (1994) and subsequent molecular studies sup
 
 ## Distribution and Habitat
 
-Native to [[polypore-fungi-eastern-north-america]] America, from Nova Scotia west to Manitoba and south to Florida and eastern Texas.
-
-Naturalized outside its native range in the Pacific Northwest and parts of Europe.
-
-Commonly found in moist, open habitats including stream banks, forest edges, disturbed areas, old fields, and roadside ditches.
-
-Tolerates a wide range of soil types but prefers rich, moist, well-drained loams with pH 5.5–6.5.
-
-Hardy to USDA Zone 3, making it one of the most cold-tolerant [[serviceberry-and-native-fruiting-shrubs]] available for northern cultivation.
+Native to [[serviceberry-and-native-fruiting-shrubs]] available for northern cultivation.
 
 ## Bioactive Compounds
 

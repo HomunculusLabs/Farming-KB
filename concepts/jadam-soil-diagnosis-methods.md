@@ -8,71 +8,15 @@ sources:
   - "raw/papers/jadam-organic-farming-ultra-low-cost-agriculture.md"
 ---
 
-JADAM provides practical, farmer-friendly soil diagnosis methods that require no expensive laboratory equipment. The core approach emphasizes [[fukuoka-direct-observation-method]] and simple physical tests to assess soil health, compaction, and fertility.
-
-## The Compaction Layer Test
-
-The most important soil diagnosis in JADAM is identifying the compacted soil layer. This hardened layer blocks root penetration, water infiltration, and [[stamets-growing-room-air-circulation-co2-management]] -- the three pillars of healthy soil.
+JADAM provides practical, farmer-friendly soil diagnosis methods that require no expensive laboratory equipment. The core approach emphasizes [[stamets-growing-room-air-circulation-co2-management]] -- the three pillars of healthy soil.
 
 ### Method 1: Dig and Observe
 - Dig a vertical profile approximately 40cm (16 inches) deep
 - Examine the soil structure at different depths
 - Look for a distinct hardened layer, typically around 15-20cm (6-8 inches) below the surface
-- This compaction layer is caused by heavy machinery, repeated chemical applications, and loss of [[hamilton-composting-and-organic-matter-management]]
-
-### Method 2: Iron Rod Probe
-- Use a sharp iron rod to probe the soil
-- Push straight down and feel for resistance
-- When you hit the compaction layer, the rod will encounter sudden resistance
-- This quick test can be done across the field to map the extent and depth of compaction
-
-## Root-to-Shoot Ratio Diagnosis
-
-JADAM teaches that "what is visible (plant) represents what is invisible (root)." The above-ground growth of a crop directly reflects its root system. Diagnosis principles:
-
-- A plant with short internodes and continuous new shoot production indicates a well-developed, extensive root system -- this produces the highest yields
-- If above-ground growth appears stunted despite adequate fertilization, the root system is likely restricted by compaction
-- Plants are smart -- they grow only to the extent their root system allows
-- High yield equals the total area of roots in contact with plant food (fertilizer)
-
-A root-to-shoot ratio greater than 1 indicates healthy soil where roots can penetrate deep and wide. When the ratio drops below 1 (roots smaller than shoots), it signals compacted soil limiting root expansion.
-
-## Visual Soil Health Indicators
-
-### Color
-- Dark brown/black soil: rich in organic matter and humus -- ideal
-- Pale/yellow soil: lacking organic matter
-- Red/orange subsoil: mineral-rich but may indicate oxidation and poor organic content
-- Gray/blue soil: poorly drained, anaerobic conditions
-
-### Structure
-- Crumbly, aggregated soil: healthy biological activity
-- Hard clods: compacted, low organic matter
-- Powdery when dry: low humus content
-- Sticky when wet: high clay, poor structure
-
-### Smell
-- "Microbe-ish" earthy smell: active microbial life -- this is the smell of healthy soil
-- No smell or chemical smell: dead soil
-- Sour/putrid smell: anaerobic conditions
-
-## The Leaf Mold Comparison
-
-JADAM's ultimate soil diagnosis standard is comparison with leaf mold from nearby mountains:
-
-1. Visit a forested area near your field
-2. Dig below the [[dighton-fungal-decomposition-leaf-litter-dynamics]] to find dark, crumbly, moist soil with strong microbial smell
+- This compaction layer is caused by heavy machinery, repeated chemical applications, and loss of [[dighton-fungal-decomposition-leaf-litter-dynamics]] to find dark, crumbly, moist soil with strong microbial smell
 3. Compare this to your field soil
-4. The gap between [[jadam-leaf-mold-soil-method]] and field soil reveals what needs improvement
-
-Three targets:
-- Microorganism composition should match leaf mold
-- Organic matter content should match leaf mold abundance
-- Mineral diversity should match leaf mold
-
-## Soil Salinity Diagnosis
-
-Signs of [[jadam-salt-accumulation-in-soil]]:
+4. The gap between [[jadam-salt-accumulation-in-soil]]:
 - White crust on soil surface
 - Stunted plant growth despite fertilization
 - Water pooling on surface rather than infiltrating
@@ -118,8 +62,89 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[soil-health-indicators]]
 - [[composting]]
-- [[decomposition]]
 - [[jadam-root-diagnosis-soil-health-indicators]]
 - [[soil-compaction-diagnosis-remediation]]
+
+## Overview
+
+Jadam Soil Diagnosis Methods represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish jadam soil diagnosis methods
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving jadam extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Jadam Soil Diagnosis Methods finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for jadam soil diagnosis methods. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+jadam soil diagnosis methods and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Jadam Soil Diagnosis Methods has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of jadam soil diagnosis methods into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[jadam-anaerobic-fermentation-principles]]
+- [[jadam-element-function-reference]]
+- [[jadam-herbal-smoker-livestock]]

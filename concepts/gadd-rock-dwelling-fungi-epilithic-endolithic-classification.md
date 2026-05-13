@@ -22,25 +22,7 @@ tags:
 
 ## Deep Time Context
 
-Fungi have been components of terrestrial [[cannabis-rhizosphere-microbial-communities]] — including
-deserts, metal-rich habitats, and hypersaline environments — since the
-**Ordovician period (480–460 MYBP)** (Heckman et al., 2001; Burford et al.,
-2003). Their longevity on land reflects morphological and physiological
-adaptations uniquely suited to mineral substrates.
-
-## Why Fungi Are Effective Rock Colonisers
-
-Three interlinked traits make fungi exceptionally capable of exploiting
-heterogeneous rock surfaces:
-
-1. **Filamentous growth habit** — hyphae can increase or decrease surface
-   area at will, switching between exploration and exploitation strategies,
-   and forming linear organs of aggregated hyphae for protected
-   translocation (Fomina et al., 2003).
-2. **High surface-area-to-mass ratio** — maximises contact between the
-   organism and the mineral substrate.
-3. **[[dighton-fungal-nutrient-translocation-element-redistribution]]** — the ability to move resources within the
-   [[gadd-mycelial-network-dynamics]] is critical for exploring and exploiting spatially
+Fungi have been components of terrestrial [[dighton-fungal-nutrient-translocation-element-redistribution]]** — the ability to move resources within the
    [[fungal-mycelial-foraging-heterogeneous-environments]] (Lindahl & Olsson, 2004).
 
 Additionally, **hydrated mucilaginous sheaths** surrounding hyphae create
@@ -64,12 +46,7 @@ Rock- and stone-dwelling microorganisms are classified into six categories
 - **Euendolithic** — a specialised group of cryptoendoliths capable of
   actively boring/penetrating into submerged rock (Ehrlich, 2002).
 
-## Epilithic Fungi and [[rock-inhabiting-microcolonial-fungi-detail]]
-
-Epiliths are frequently represented by **microcolonial black-coloured fungi**:
-spherical clusters of tightly packed cells with thick pigmented walls, or
-moniliform (bead-like) thick-walled hyphae (Gorbushina et al., 1993;
-Gorbushina & Krumbein, 2000). These [[rock-inhabiting-microcolonial-fungi-detail]] are polymorphic,
+## Epilithic Fungi and [[rock-inhabiting-microcolonial-fungi-detail]] are polymorphic,
 occurring as filamentous mycelium and as unicellular yeast-like cells. They
 are common inhabitants of limestone, sandstone, marble and granite in hot
 and cold deserts and semi-arid regions, associated with surface pitting and
@@ -118,8 +95,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[gadd-rock-dwelling-fungi-epilithic-endolithic]]
 - [[gadd-rock-dwelling-fungi-epilithic-endolithic-cryptoendolithic]]
-- [[det]]
 - [[mycelium]]
 - [[endolithic-fungi-rock-colonizing-communities]]

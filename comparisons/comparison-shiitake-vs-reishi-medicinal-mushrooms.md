@@ -24,26 +24,6 @@ and preparation methods diverge significantly.
 
 ## Shiitake
 
-[[medicinal-mushroom-guide-shiitake]]
-
-Shiitake is the second most cultivated mushroom worldwide. Native to East
-Asia, it has been grown commercially for over 1,000 years. Its medicinal
-value centers on lentinan (a beta-1,3-glucan approved as an injectable
-cancer drug in Japan), eritadenine (a unique cholesterol-lowering compound),
-and LEM (lentinula edodes mycelium extract with antiviral properties).
-
-Unlike most medicinal mushrooms, shiitake is delicious and nutritionally
-dense — rich in protein, B vitamins, selenium, zinc, and all essential
-amino acids. Its high glutamate content gives it a powerful umami flavor
-that makes regular dietary incorporation easy and enjoyable.
-
-Key therapeutic strengths include cholesterol management (7-12% reduction
-with regular consumption), cancer adjunct therapy (lentinan combined with
-chemotherapy improves survival in gastric cancer), antiviral activity, and
-broad immune activation through macrophage and NK cell stimulation.
-
-## Reishi
-
 [[medicinal-mushroom-guide-reishi]]
 
 Reishi is a woody polypore mushroom with a distinctive varnished conk
@@ -137,14 +117,9 @@ mushroom's strengths without overlap.
 
 ## See Also
 
-- [[comparison-maitake-vs-reishi-medicinal-mushrooms]]
 - [[comparison-chaga-vs-reishi-medicinal]]
-- [[medicinal-mushroom-guide-shiitake]]
 - [[medicinal-mushroom-guide-reishi]]
-- [[shiitake-mushroom-cultivation]]
 - [[reishi-mushroom-cultivation-and-medicinal-properties]]
 
-- [[comparison-shiitake-vs-chaga]]
 - [[comparison-shiitake-vs-cordyceps]]
-- [[comparison-shiitake-vs-lions-mane]]
 - [[comparison-shiitake-vs-maitake]]

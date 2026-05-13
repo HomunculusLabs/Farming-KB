@@ -9,10 +9,9 @@ created: 2026-05-08
 
 ## Overview
 
-One of the most [[metzner-three-distinctive-features-shamanic-entheogenic-ceremonies]] of the N,N-dimethyltryptamine (DMT) experience, as described by [[dmt-black-hole-effect-and-ineffability-of-tryptamine-experience]]
-- [[tryptamine-hallucinogens-and-consciousness]]
+One of the most [[dmt-black-hole-effect-and-ineffability-of-tryptamine-experience]]
 - [[self-transforming-machine-elves]]
-- [[mckenna-translinguistic-matter-and-exteriorized-soul]] and [[mckenna-exteriorized-soul-and-psychedelic-bar-mitzvah]]
+- [[mckenna-exteriorized-soul-and-psychedelic-bar-mitzvah]]
 ## Background and Context
 
 Ego Intactness During DMT Experience is an important subject that has garnered significant attention
@@ -118,8 +117,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[dmt]]
 - [[dom]]
-- [[det]]
 - [[tryptamine]]
 - [[dimethyltryptamine]]

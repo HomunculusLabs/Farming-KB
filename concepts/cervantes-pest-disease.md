@@ -11,23 +11,8 @@ sources:
 
 # Cannabis Pest and Disease Identification
 
-**Source:** Marijuana Horticulture: The Indoor/Outdoor Medical Grower's Bible — [[jorge-cervantes]]
-
-## General Prevention
-
-Prevention is the best medicine for pest and disease problems in the garden. Good cultural practices keep plants healthy and resistant:
-
-- Maintain proper temperature (72-76°F / 22-24°C)
-- Maintain proper humidity (45-55% ideal)
-- Ensure adequate [[stamets-growing-room-air-circulation-co2-management]] and ventilation
-- Keep [[cannabis-grow-room-setup]] and tools clean
-- Use sterile tools between plants
-- Inspect plants regularly
-- Quarantine new plants before introducing them
-
-## Air Circulation as Prevention
-
-Air circulation helps prevent harmful pest and fungus attacks. Omnipresent mold spores do not land and grow as readily when air is stirred by a fan. Insects and [[cervantes-spider-mites-identification-control]] find it difficult to live in an environment constantly bombarded by air currents.
+**Source:** Marijuana Horticulture: The Indoor/Outdoor Medical Grower's Bible — [[stamets-growing-room-air-circulation-co2-management]] and ventilation
+- Keep [[cervantes-spider-mites-identification-control]] find it difficult to live in an environment constantly bombarded by air currents.
 
 ## Common Pests
 
@@ -43,27 +28,7 @@ Air circulation helps prevent harmful pest and fungus attacks. Omnipresent mold 
 - Small dark flies around soil surface
 - Larvae feed on roots in moist soil
 - More common in overwatered gardens
-- Yellow [[cervantes-sticky-traps-pest-monitoring]] help monitor populations
-
-### Aphids
-- Cluster on new growth and undersides of leaves
-- Leave sticky honeydew excretion
-- Can transmit plant viruses
-
-### Whiteflies
-- Small white flying insects on leaf undersides
-- Also leave honeydew excretion
-- Suck plant sap, causing yellowing
-
-### Thrips
-- Tiny, slender insects
-- Cause silvering or bronzing of leaves
-- Feed by rasping plant tissue and sucking sap
-
-## Common Diseases
-
-### Botrytis (Bud Rot / Gray Mold)
-- The most destructive [[bloomfield-amphibian-decline-fungal-disease-climate-interactions]]
+- Yellow [[bloomfield-amphibian-decline-fungal-disease-climate-interactions]]
 - Thrives in cool, humid conditions (humidity above 80%)
 - Attacks dense buds from inside out
 - Brown, mushy spots on buds
@@ -117,8 +82,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[spore]]
 - [[marijuana-horticulture-cervantes-pest-and-disease-management]]
-- [[cervantes-pest-disease-prevention-overview]]
 - [[cervantes-homemade-pest-disease-sprays]]
 - [[solomon-mild-climate-disease-pest-buildup-without-hard-freeze]]

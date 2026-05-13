@@ -52,18 +52,18 @@ One of the most important herbs in Ayurvedic medicine, known as Brahmi. Used for
 ## Lion's Mane (Hericium erinaceus)
 
 ### Overview
-[[query-how-do-i-make-a-medicinal-mushroom-double-extraction-tincture]] with unique neuroregenerative properties. Covered in detail in [[medicinal-mushroom-guide-lions-mane]]. Key points for nootropic use:
+A medicinal mushroom with unique neuroregenerative properties. Covered in detail in [[medicinal-mushroom-guide-lions-mane]]. Key points for nootropic use:
 
 ### Nootropic Mechanisms
 - **Hericenones and erinacines:** Cross the blood-brain barrier and stimulate nerve growth factor (NGF) and brain-derived neurotrophic factor (BDNF).
 - **Neuroplasticity:** Promotes neurite outgrowth and synaptic formation.
 - **Anti-inflammatory neuroprotection:** Reduces neuroinflammation via microglial modulation.
-- **Antioxidant:** Protects neurons from [[blesching-cannabis-oxidative-stress-and-antioxidant-defense]].
+- **Antioxidant:** Protects neurons from oxidative stress.
 - **Myelin support:** May enhance myelination of nerve fibers.
 
 ### Nootropic Dosing
 - **Cognitive enhancement:** 1000-3000mg fruiting body extract daily.
-- **Mild cognitive impairment:** 3000mg/day based on [[cancer-medicinal-mushrooms-schizophyllan-spg-clinical-trials]].
+- **Mild cognitive impairment:** 3000mg/day based on clinical trials.
 - Effects begin at 2-4 weeks, peak at 8-12 weeks.
 - Dual extraction preferred for comprehensive compound coverage.
 
@@ -110,7 +110,7 @@ Known as "the herb of longevity" in traditional Chinese and Ayurvedic medicine. 
 ## Ginkgo (Ginkgo biloba)
 
 ### Overview
-One of the oldest living tree species — fossil records date back 270 million years. Native to China but now grown worldwide. Ginkgo leaf extract (EGb 761) is the most prescribed [[childrens-herbal-medicine]] in Europe, particularly in Germany and France. Used for cognitive enhancement, circulatory support, and tinnitus.
+One of the oldest living tree species — fossil records date back 270 million years. Native to China but now grown worldwide. Ginkgo leaf extract (EGb 761) is the most prescribed herbal medicine in Europe, particularly in Germany and France. Used for cognitive enhancement, circulatory support, and tinnitus.
 
 ### Key Compounds
 - **Flavonol glycosides:** Quercetin, kaempferol, isorhamnetin derivatives. Antioxidant and neuroprotective.
@@ -120,7 +120,7 @@ One of the oldest living tree species — fossil records date back 270 million y
 ### Mechanisms
 - **Cerebral blood flow:** Dilates blood vessels, reduces blood viscosity, improves microcirculation in the brain.
 - **Antioxidant:** Flavonoids scavenge free radicals and protect neuronal membranes from lipid peroxidation.
-- **Neuroprotection:** Bilobalide protects mitochondria, reduces [[blesching-glutamate-excitotoxicity-cannabinoid-neuroprotection]], and prevents apoptotic neuronal death.
+- **Neuroprotection:** Bilobalide protects mitochondria, reduces glutamate excitotoxicity, and prevents apoptotic neuronal death.
 - **Neurotransmitter modulation:** Enhances cholinergic, dopaminergic, and serotonergic transmission.
 - **Anti-inflammatory:** Reduces neuroinflammation via NF-kB inhibition.
 - **PAF antagonism:** Ginkgolide B inhibits platelet-activating factor, reducing clotting and inflammation.
@@ -135,16 +135,16 @@ One of the oldest living tree species — fossil records date back 270 million y
 
 ### Contraindications
 - **Bleeding risk:** Ginkgolide B inhibits platelet aggregation. Discontinue 2 weeks before surgery. Avoid with anticoagulants (warfarin, aspirin, clopidogrel).
-- [[cannabis-for-epilepsy-and-seizure-disorders]] (rare increased seizure frequency). Pregnancy and breastfeeding. Many medication interactions — check with pharmacist.
+- Seizure disorders (rare increased seizure frequency). Pregnancy and breastfeeding. Many medication interactions — check with pharmacist.
 
 ---
 
 ## Rosemary (Rosmarinus officinalis)
 
-### Overview
-Mediterranean aromatic herb used since ancient times for memory enhancement. The Latin name translates roughly to "dew of the sea." Greek students wore rosemary garlands during exams. Shakespeare's Ophelia says, "There's rosemary, that's for remembrance." Modern research validates its cognitive-enhancing properties.
+## See Also
 
-### Key Compounds
-- **1,8-cineole (eucalyptol):** Monoterpene ketone. Primary compound responsible for cognitive effects. Crosses blood-brain barrier.
-- **Carnosic acid:** Phenolic diterpene. Potent neuroprotective antioxidant.
-- **Rosmarinic acid:** Polyphenol with antioxidant, anti-inflammatory, and anxiolytic effects.
+- [[query-what-are-adaptogenic-herbs-and-how-do-they-work]]
+- [[query-what-are-the-best-medicinal-herbs-to-grow-for-a-first-aid-garden]]
+- [[query-what-are-the-best-anxiolytic-herbs-to-grow-at-home]]
+- [[jeavons-beneficial-herbs-nutrition]]
+- [[digestive-herbs-and-bitters]]

@@ -23,9 +23,7 @@ sources:
 
 ## Overview
 
-White Widow is an indica-dominant hybrid [[blesching-cannabis-strain-selection-receptor-targeting]] created in the
-Netherlands during the early 1990s, widely regarded as one of the most
-influential strains in modern [[oner-cannabis-breeding-fundamentals]].
+White Widow is an indica-dominant hybrid [[oner-cannabis-breeding-fundamentals]].
 
 Bred by Shantibaba of Green House Seeds in Amsterdam, White Widow earned
 its name from the dense coating of white trichomes that covers mature buds,
@@ -37,12 +35,7 @@ decades after its release. It won the High Times Cannabis Cup in 1995.
 
 ## Lineage
 
-White Widow is a cross between a Brazilian [[cannabis-sativa-landrace-strains]] and a
-South Indian indica landrace.
-
-The Brazilian parent contributes uplifting cerebral effects, vigorous
-stretch during flowering, and resistance to mold. The South Indian
-parent provides dense bud structure, heavy [[cannabis-glandular-trichome-types-resin-production-clarke]], and the
+White Widow is a cross between a Brazilian [[cannabis-glandular-trichome-types-resin-production-clarke]], and the
 relaxing body effects characteristic of indica genetics.
 
 Genetic ratio is approximately 60% indica / 40% sativa, though this
@@ -79,7 +72,7 @@ On inhalation, the flavor is smooth with dominant pine and earthy
 notes, accompanied by a peppery spice on the back of the palate. The
 exhale carries a woody, hashish-like quality with subtle floral hints.
 
-The terpene profile is led by [[beta-caryophyllene]] (peppery, anti-inflammatory), and [[limonene]] | 0.1–0.4% | Citrus, uplifting |
+The terpene profile is led by [[limonene]] | 0.1–0.4% | Citrus, uplifting |
 | [[tetrahydrocannabinol]] for cannabinoid chemistry.
 - **CBD:** 0.1–0.5% (negligible; not a CBD-rich strain)
 - **CBN:** Trace amounts in aged flower

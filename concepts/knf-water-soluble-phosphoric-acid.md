@@ -1,5 +1,5 @@
 ---
-title: Knf Water Soluble Phosphoric Acid
+title: KNF Water Soluble Phosphoric Acid
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
@@ -11,12 +11,12 @@ sources:
 
 # KNF Water Soluble Phosphoric Acid (WPA)
 
-Water Soluble Phosphoric Acid (also called Water Soluble Phosphate or WSP) is extracted from animal bones using [[brown-rice-vinegar-brv]] (BRV) and charcoal. It is essential for flowering, fruiting, and root development.
+Water Soluble Phosphoric Acid (also called Water Soluble Phosphate or WSP) is extracted from animal bones using brown rice vinegar (BRV) and charcoal. It is essential for flowering, fruiting, and root development.
 
 ## Why Phosphoric Acid Matters
 
 - Critical for flower formation and fruit development
-- Promotes root [[gadd-hyphal-tip-growth-and-branching-mechanisms]]
+- Promotes root growth and branching
 - Increases disease resistance
 - Essential for energy transfer (ATP) in plants
 - Deficiency causes stunted growth, dark green/purplish leaves, poor flowering
@@ -39,7 +39,7 @@ Water Soluble Phosphoric Acid (also called Water Soluble Phosphate or WSP) is ex
 5. Roast/grill bones until they are brown and brittle (not charred black)
 6. Crush roasted bones into small pieces (pebble size)
 7. Place crushed bones in a container
-8. Add charcoal pieces (charcoal helps [[query-can-fungi-break-down-plastic-pollution]] the bones)
+8. Add charcoal pieces (charcoal helps break down the bones)
 9. Pour brown rice vinegar to cover the bones
 10. Keep at 1/3 the jar volume (not more)
 11. The vinegar will bubble as it extracts phosphoric acid
@@ -63,7 +63,7 @@ Leftover bones from [[knf-fish-amino-acid]] FAA production can be used. Put them
 ## Dilution and Use
 
 - Basic dilution ratio: 1:1,000
-- Apply during [[knf-reproductive-growth-stage]] period (flowering and fruiting)
+- Apply during reproductive growth period (flowering and fruiting)
 - Can be mixed with WSC for enhanced flower/fruit quality
 - Apply as foliar spray in early morning or late afternoon
 - Good for root crops during tuber development
@@ -73,7 +73,7 @@ Leftover bones from [[knf-fish-amino-acid]] FAA production can be used. Put them
 - When plants show slow flowering or poor fruit set
 - For root crops during bulking stage
 - During transplanting to encourage root development
-- When leaves show purplish discoloration ([[query-how-to-fix-phosphorus-deficiency-in-cannabis]])
+- When leaves show purplish discoloration (phosphorus deficiency)
 
 ## Storage
 
@@ -86,38 +86,3 @@ Leftover bones from [[knf-fish-amino-acid]] FAA production can be used. Put them
 - [[knf-fish-amino-acid]]
 - [[knf-oriental-herbal-nutrient]]
 - [[knf-fermented-fruit-juice]]
-
-## Practical Applications
-
-The principles and techniques discussed here have wide-ranging applications
-across multiple disciplines and contexts. Practitioners and researchers
-continue to explore new ways to integrate these concepts into modern practice,
-adapting traditional knowledge to contemporary challenges and opportunities.
-
-## Key Considerations
-
-Several important factors influence the effectiveness and outcomes described
-in this topic. Understanding these considerations helps practitioners make
-informed decisions and avoid common pitfalls. Environmental conditions,
-timing, and material selection all play critical roles.
-
-## Historical Context
-
-The historical development of this subject reflects centuries of accumulated
-knowledge and practical experience. From traditional methods passed down
-through generations to modern scientific approaches, the evolution continues
-to inform current best practices and research directions.
-
-## Common Challenges
-
-Practitioners frequently encounter several challenges when working with
-these concepts. Climate variability, resource limitations, and knowledge
-gaps can all affect outcomes. Addressing these challenges requires patience,
-observation, and a willingness to adapt approaches based on results.
-
-## See Also
-- [[knf-water-soluble-phosphoric-acid-detailed]]
-- [[knf-water-soluble-phosphoric-acid-wspa]]
-- [[water-soluble-phosphoric-acid-wpa]]
-- [[cho-water-soluble-phosphoric-acid-preparation]]
-- [[knf-phosphoric-acid-deficiency-symptoms]]

@@ -6,101 +6,7 @@ type: concept
 
 # Banks, Benches, and Terracing
 
-Banks, benches, and terraces are three fundamental earthwork techniques used in [[permaculture-design]] to manage slopes, control erosion, create usable land, and harvest water. Each technique serves distinct purposes but shares the common goal of stabilising soil and converting steep or difficult terrain into productive, manageable landscapes. Bill Mollison emphasises that earthworks should be designed with careful attention to soil type, water movement, slope angle, and vegetation to ensure long-term stability.
-
-## Banks
-
-Banks are raised earth structures used to stabilise slopes, define boundaries, direct water flow, or create level surfaces. They represent one of the simplest and most cost-effective earthwork strategies available to the permaculture designer.
-
-### Cost Advantages Over Retaining Walls
-
-Banks are significantly cheaper than retaining walls, provided they are constructed with proper stabilisation techniques. A well-formed, vegetated bank can perform many of the same functions as a retaining wall — holding back earth, managing grade changes, and preventing erosion — at a fraction of the cost. The key is ensuring that the bank's angle of repose is appropriate for the soil type and that vegetation is established promptly to lock the soil in place.
-
-### Dish-Shaped Banks
-
-Dish-shaped (concave) banks are substantially more stable than straight-cut or convex profiles. The concave shape distributes the forces acting on the bank more evenly and reduces the likelihood of slumping at the edges. This principle applies to road embankments, dam walls, and any situation where earth is shaped to hold a slope. The dish profile also aids in water collection, gently directing runoff towards planted zones rather than allowing it to concentrate and erode.
-
-### Stabilisation of Large Banks
-
-Banks exceeding 4 metres in height require careful stabilisation measures. At this scale, the internal stresses within the bank become significant, and simple shaping alone is insufficient. Stabilisation strategies include compacting the bank in layers, planting deep-rooted species on the face and crest, installing drainage within or behind the bank to relieve hydrostatic pressure, and in some cases reinforcing with geotextiles or rock. Road cuts are typically not compacted to the same standard as engineered earthworks, which makes them particularly vulnerable to failure if not properly drained and vegetated.
-
-## Slump and Its Causes
-
-Slumping — the downward and outward movement of soil on a slope — is one of the most common failures in earthworks. Understanding its causes is essential for prevention.
-
-### Primary Causes of Slump
-
-- **Water flow**: Concentrated or persistent water movement through or across a slope is the single greatest cause of slump. Water adds weight to the soil, reduces internal friction, and creates hydrostatic pressure behind banks and walls.
-- **Shale strata**: Geological formations where shale layers lie at an angle to the slope are inherently unstable. Water penetrates along the bedding planes of the shale, creating a lubricated slip surface that can trigger sudden, large-scale slumping.
-- **Over-steepening**: Cutting slopes too steeply for the soil type removes the support that keeps the slope stable.
-- **Inadequate drainage**: Without proper drainage, water accumulates behind banks and within slopes, building pressure that eventually forces the soil outward.
-
-### Water and Soil Slump Control
-
-Controlling slump requires managing both water movement and soil structure:
-
-1. **Surface water diversion**: Intercept runoff above the slope using swales, diversion drains, or contour banks to prevent water from flowing over or into the unstable area.
-2. **Subsurface drainage**: Install agricultural drains, French drains, or rubble-filled trenches behind banks and within saturated zones to relieve hydrostatic pressure.
-3. **Vegetation**: Deep-rooted grasses, shrubs, and trees anchor the soil matrix and remove water through transpiration. Fast-growing pioneer species should be established as soon as possible after earthworks.
-4. **Slope angle**: Maintain slopes at or below the angle of repose for the specific soil type. Dish-shaped profiles add further stability.
-
-## Benching
-
-Benching is the creation of flat, near-contoured cuts into slopes to produce level platforms. It is one of the most versatile earthwork techniques in permaculture, providing access, building sites, and productive growing areas on otherwise unusable terrain.
-
-### Applications of Benching
-
-Benching is used for a wide range of purposes:
-
-- **Roads and tracks**: Bench cuts provide a stable, level running surface on hillsides, reducing the grade and improving safety and access for vehicles, animals, and people.
-- **House sites**: Flat platforms excavated into a slope provide a stable foundation for buildings, reducing the need for extensive retaining structures and allowing for level floors on sloping ground.
-- **Forestry access**: Benched tracks allow timber extraction and forest management operations on steep terrain without the severe erosion caused by ad-hoc vehicle tracks.
-
-### Benching Frequency on Steep Hills
-
-On steep hillsides, benching should be carried out at intervals of approximately every 100 metres of elevation gain. This creates a series of stepped platforms that break the continuity of the slope, making the land more accessible and manageable. Each bench can serve multiple functions — access, production, water harvesting, and fire control.
-
-### Vegetation and Benching
-
-The lower side of each bench is a critical zone for stabilisation. Fast-growing, deep-rooted trees planted on the downslope edge of the bench help anchor the cut face and prevent slumping. Leguminous species should be included to provide nitrogen fixation, improving the fertility of the bench surface for subsequent planting or cropping.
-
-### Kick-Down Systems
-
-On steep slopes, Mollison advocates for "kick-down" systems — a stacked arrangement of productive elements arranged from top to bottom of the slope:
-
-- **Upper slope**: Orchards and tree crops, where the deeper soils and better drainage favour perennial woody plants.
-- **Middle slope**: Poultry runs and animal systems, which benefit from the slope for drainage and can be managed with minimal earthworks.
-- **Lower slope**: Gardens and intensive vegetable production, where water naturally accumulates and nutrients are deposited by gravity.
-- **Ridgelines**: Mulch-producing trees and windbreaks that provide organic matter and protection for the systems below.
-
-This cascading design maximises the productive use of each slope zone while allowing water, nutrients, and mulch to flow naturally downhill from one system to the next.
-
-### Drainage Across Benches
-
-Where benches cross drainage channels or natural watercourses, provision must be made for water to pass through without eroding the bench surface. This is typically achieved by installing pipes beneath the bench at the point where the drainage line crosses, or by constructing rock-lined swales that carry water across the bench surface without scouring the soil.
-
-### Side-Casting Technique
-
-Side-casting is an efficient benching technique in which excavated material is pushed or cast directly downslope from the cut, creating both the bench surface and a deposit of soil on the lower slope. This minimises the distance material must be moved and speeds up construction. The cast material should be shaped and stabilised with vegetation to prevent it from slumping back onto the bench.
-
-### Machine Efficiency for Benching
-
-Efficient use of earthmoving machinery is critical for keeping benching projects economical:
-
-- **Push distance**: Machines should not push material more than 6 to 9 machine lengths. Beyond this distance, the time and fuel costs increase disproportionately to the volume of earth moved.
-- **Direction of work**: Working cross-slope or downhill is significantly faster than working upslope. Earth moves more easily with gravity, and the machine expends less energy.
-- **Multiple machines**: For complex benching projects involving large areas or difficult terrain, using two or more machines in coordination is more efficient than relying on a single machine. One machine can excavate while another shapes, compacts, or spreads material.
-
-## Terracing
-
-Terracing is the creation of a series of level platforms (terraces) on a slope, typically supported by bunds (earthen ridges), walls, or vegetated edges. Terraces have been used for thousands of years in agricultural systems around the world and remain one of the most effective techniques for growing crops on steep land.
-
-### Stability of Terraces
-
-Terraces can be highly stable when managed correctly. Key factors contributing to terrace stability include:
-
-- **Adequate water management**: Each terrace must have proper drainage to prevent waterlogging and hydrostatic pressure buildup behind the bund or wall.
-- **Green manuring and vegetation**: Maintaining living root systems within the terrace soil and on the bund face is essential for structural integrity. [[green-manure-crops]] improve soil structure and infiltration while their roots bind the soil.
+Banks, benches, and terraces are three fundamental earthwork techniques used in [[green-manure-crops]] improve soil structure and infiltration while their roots bind the soil.
 
 ### Conditions Leading to Terrace Failure
 
@@ -124,6 +30,90 @@ On very steep slopes, terrace systems must be carefully designed with narrow pla
 Banks, benches, and terraces are rarely used in isolation. An integrated design might use banks along contour lines for water harvesting, benched roads for access across a slope, and terraces for intensive food production — all working together to stabilise the landscape and maximise productivity. The choice between these techniques depends on slope angle, soil type, water availability, intended land use, and available resources. In all cases, vegetation is the primary long-term stabilising agent, and earthworks should be planted and protected as soon as possible after construction.
 
 ## See Also
-- [[query-how-does-cover-cropping-benefit-soil-and-when-should-i-plant-them]]
 - [[bill-mollison-permaculture-a-designers-manual-water-harvesting-and-earthworks]]
 - [[mollison-permaculture-two-arid-water-harvesting-and-erosion-control]]
+
+## Overview
+
+Banks Benches And Terracing represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish banks benches and terracing
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving banks extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Banks Benches And Terracing finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for banks benches and terracing. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+banks benches and terracing and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Banks Benches And Terracing has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of banks benches and terracing into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[dryland-settlements-and-interceptor-banks]]
+- [[interceptor-banks-soil-rehabilitation]]
+- [[mollison-designers-community-seed-banks-and-exchange]]
+- [[mollison-designers-diversion-drains-and-interceptor-banks]]
+- [[spreader-banks-and-interceptor-drains]]

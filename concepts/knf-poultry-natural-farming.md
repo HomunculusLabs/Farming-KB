@@ -8,13 +8,9 @@ sources: [/Users/t3rpz/wiki/raw/papers/chos-global-natural-farming.md]
 ---
 # KNF Poultry Natural Farming
 
-[[query-jadam-vs-korean-natural-farming]] Farming (KNF), developed by [[fermented-plant-extract-fpe]], [[query-how-do-i-use-beneficial-indigenous-microorganisms]] are added to the soil floor mixture.
+[[fermented-plant-extract-fpe]], [[query-can-fungi-break-down-plastic-pollution]] chicken feces.
 
-It is vital to maintain a rich population of microorganisms on the floor to [[query-can-fungi-break-down-plastic-pollution]] chicken feces.
-
-This microbial activity is the primary reason there is no smell in the [[knf-chicken-house-design]].
-
-The feces do not need to be removed unless they are needed for [[composting-materials-alternative]].
+This microbial activity is the primary reason there is no smell in the [[composting-materials-alternative]].
 
 Remarkably, the chickens feed on the fermented products of their own feces.
 
@@ -115,8 +111,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[natural-farming]]
 - [[composting]]
-- [[natural-farming-knf-overview]]
 - [[knf-livestock-chicken-house-natural-farming]]
 - [[natural-free-range-poultry-farming]]

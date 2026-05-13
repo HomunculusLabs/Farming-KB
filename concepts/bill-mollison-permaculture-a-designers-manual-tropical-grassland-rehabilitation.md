@@ -34,15 +34,7 @@ prove uneconomic by any measure.
 
 ## Grass-Defeating Strategies
 
-[[coleman-cover-crop-rotation-and-soil-health]] legumes like Desmodium and Suratro reduce grass competition and lay down mulch.
-Short-stemmed Desmodium can defeat grasses under trees but competes with young trees for
-dry-season moisture, requiring supplemental irrigation. Under the shelter of banana grass
-or elephant grass (Pennisetum), fast-growing leguminous trees establish and provide
-green mulch once they grow tall enough.
-
-## Legume Tree Species for Nitrogen Fixation
-
-The key [[permaculture-plants-legume-trees-acacia-carob-locust]] identified for tropical rehabilitation include:
+[[permaculture-plants-legume-trees-acacia-carob-locust]] identified for tropical rehabilitation include:
 
 - **Albizzia** (Albizia): Capable of fixing substantial nitrogen even in poor sandy
   soils, with estimated contributions as high as 250-500 kg N/ha/year for efficient
@@ -51,10 +43,7 @@ The key [[permaculture-plants-legume-trees-acacia-carob-locust]] identified for 
   pioneer species for exhausted savannah soils. Acacia auriculiformis can defeat blady
   grass (Imperata cylindrica), restore fertility, provide firewood, and serve as a nurse
   crop. A. mangium is straight-stemmed and better suited to forestry operations.
-- **Inga** ([[leucaena-leucocephala]]): A versatile legume for forage, green mulch, and
-  nitrogen fixation. The low-mimosine varieties from Australia are preferred for fodder.
-- **Gliricidia**: A coppicing species useful in mixed pioneer clump plantings.
-- **[[calliandra-calothyrsus]]**: A stick-wood coppicing species that defeats grasses and
+- **Inga** ([[calliandra-calothyrsus]]**: A stick-wood coppicing species that defeats grasses and
   provides abundant firewood while repairing exhausted soils.
 
 ## Nitrogen Fixation and Soil Building
@@ -83,9 +72,7 @@ irrigated field, reducing imported artificial fertilizers to one-tenth.
 ## The Nucleus Pioneer Coppice Method
 
 The core strategy for tropical grassland rehabilitation is the steady establishment of
-clumped pioneer trees in open grassland — a process that duplicates [[fukuoka-natural-seeding-volunteer-rice-discovery]] by
-fruit pigeons and frugivorous birds. Dense nucleus plantings (1-2 meter spacing) of mixed
-legumes, palms, shrubs, [[permaculture-plants-food-forest-ground-covers-bamboos]], and bulbs, combined with stone or stick mulch,
+clumped pioneer trees in open grassland — a process that duplicates [[permaculture-plants-food-forest-ground-covers-bamboos]], and bulbs, combined with stone or stick mulch,
 quickly shade out grasses and produce closed canopy systems.
 
 ## Practical Applications
@@ -117,12 +104,7 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[permaculture]]
 - [[bill-mollison-permaculture-a-designers-manual-animal-systems-in-permaculture]]
-- [[bill-mollison]]
 - [[bill-mollison-permaculture-a-designers-manual-zone-and-sector-analysis]]
-- [[bill-mollison-permaculture-a-designers-manual-pattern-understanding-in-permaculture]]
-
 - [[bill-mollison-permaculture-a-designers-manual-climatic-factors-in-design]]
-- [[bill-mollison-permaculture-a-designers-manual-wildfire-management-in-permaculture]]
 - [[bill-mollison-permaculture-overview]]

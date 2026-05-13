@@ -8,7 +8,7 @@ type: concept
 
 ## Overview
 
-Rainwater tanks are the most direct form of water harvesting — collecting precipitation from roofs and storing it for domestic and agricultural use. In [[permaculture-design]], tanks serve as a critical component of distributed water systems, providing clean, locally-sourced water that reduces dependence on centralized, treated, and often chemically contaminated supply networks. The design, installation, and maintenance of rainwater tanks involves careful attention to water quality, contamination prevention, and integration with broader site [[water-management]].
+Rainwater tanks are the most direct form of water harvesting — collecting precipitation from roofs and storing it for domestic and agricultural use. In [[water-management]].
 
 ## Cultural Context and Precedent
 
@@ -58,7 +58,7 @@ Multiple design features work together to exclude pests from stored water:
 
 - **"U" pipe entry and exit** — Water enters and exits through pipes configured with U-bends that create water seals preventing insect entry
 - **Sealed tank roof** — Prevents direct access by birds, rodents, and insects
-- **Overflow pipe** — Empties to a gravel-filled swale, maintaining the water seal and preventing backflow of contaminants
+- **Overflow pipe** — Empties to a gravel-filled [[swale]], maintaining the water seal and preventing backflow of contaminants
 
 For birds that persistently perch on roof ridges (a source of droppings), stretching fine wires or thread along the ridge as a 10 cm (4 inch) high "fence" effectively discourages them without harm.
 
@@ -141,6 +141,5 @@ Mollison makes a strong case for policy reform around water storage:
 
 ## See Also
 
-- [[rainwater-tanks-and-storage-costs]]
 - [[water-storage-tanks]]
 - [[jadam-water-quality-softening]]

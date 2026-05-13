@@ -11,64 +11,13 @@ updated: 2026-04-26
 
 # Biointensive Spacing and Close Planting Principles
 
-Close plant spacing is one of the eight key features of [[jeavons-grow-biointensive-method-overview]]. Plants are spaced so their leaves barely touch when mature, following nature's example — natural meadows, forests, and fields grow densely, not in widely spaced rows.
-
-## The Hexagonal (Offset) Spacing Pattern
-
-Seeds and seedlings should be planted in a **diagonally offset or hexagonal spacing pattern** with an equal distance between each plant. This pattern:
-
-- Uses up less space than grid spacing (multiply [[wide-row-spacing-intensive-gardening-comparison]] by 0.87 to calculate offset distance)
+Close plant spacing is one of the eight key features of [[wide-row-spacing-intensive-gardening-comparison]] by 0.87 to calculate offset distance)
 - Allows more plants per unit area
-- Creates the [[comparison-living-mulch-vs-cover-crops]] miniclimate essential for balanced, uninterrupted growth
-
-### Tools for Achieving Proper Spacing
-
-- **Spacing frames** with 1-inch or 2-inch mesh chicken wire stretched across them, built on a hexagonal pattern. Seeds are dropped in the center of each hexagon.
-- **Spacing sticks** cut to required lengths (3-inch to 36-inch sizes) for larger in-bed spacings.
-- **Triangular spacing templates** for beds.
-
-## The Living Mulch Effect
-
-When properly spaced, mature plant leaves barely touch, creating a "living mulch" that provides:
-
-1. **Weed suppression** — The closed canopy shades out weed seeds
-2. **Moisture retention** — Shading the soil reduces evaporation
-3. **Miniclimate** — Creates the balanced environment essential for uninterrupted growth
-4. **CO2 capture** — Carbon dioxide is captured under the leaf canopy where plants need it for optimal growth
-5. **Soil protection** — Prevents erosion and soil compaction
-
-## How to Determine Spacing
-
-The GROW BIOINTENSIVE spacing listed in the Master Charts is generally equal to the "within the row" spacing on seed packets, or sometimes 1/4 of that distance. **Disregard any "between row" spacings** — those are for traditional row gardening.
-
-For hills and less common plants, spacing must be established by experimentation.
-
-### Spacing Adjustment Factors
-
-- **Winter:** May need closer spacing (3/4 or 1/2 of usual) to compensate for slower growth and create a balanced winter miniclimate
-- **Humid tropics:** May need wider spacings to ensure adequate [[stamets-growing-room-air-circulation-co2-management]]
+- Creates the [[stamets-growing-room-air-circulation-co2-management]]
 - **Temperature:** Spacing increases with warmth (from column E of Master Charts)
 
-## Spacing for [[biointensive-close-plant-spacing]]
-- [[jeavons-double-digging-bed-preparation]]
-- [[jeavons-grow-biointensive-method-overview]]
-## Practical Considerations
-
-When working with Biointensive Spacing and Close Planting Principles, several practical factors should be
-carefully considered to achieve optimal results. These include
-the specific conditions of the implementation context, available
-resources, timing requirements, and the interactions between this
-topic and other elements of the broader system. A holistic view
-that considers these interconnections produces better outcomes.
-
-Environmental conditions such as temperature, moisture, and
-seasonal patterns significantly influence results. Monitoring these
-variables and adapting practices accordingly is essential for success.
-The most effective practitioners develop keen observation skills and
-respond flexibly to changing conditions rather than following rigid
-protocols regardless of circumstances or local variation.
-
-[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
+## Spacing for [[jeavons-double-digging-bed-preparation]]
+- [[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -111,8 +60,91 @@ through generations to modern scientific approaches, the evolution continues
 to inform current best practices and research directions.
 
 ## See Also
-- [[doc]]
 - [[det]]
-- [[biointensive-close-plant-spacing]]
 - [[jeavons-history-philosophy-biointensive-agriculture]]
 - [[jeavons-global-adoption-biointensive-mini-farming]]
+
+## Overview
+
+Jeavons Biointensive Spacing represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish jeavons biointensive spacing
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving jeavons extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Jeavons Biointensive Spacing finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for jeavons biointensive spacing. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+jeavons biointensive spacing and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Jeavons Biointensive Spacing has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of jeavons biointensive spacing into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[jeavons-history-philosophy-biointensive-agriculture]]
+- [[jeavons-master-planning-mini-farms]]
+- [[jeavons-root-systems-below-ground-composting]]
+- [[jeavons-seed-saving-and-propagation]]
+- [[jeavons-soil-ph-testing-balancing]]

@@ -16,71 +16,11 @@ topsoil and degrades watersheds. Once topsoil has washed away, plants
 cannot establish themselves. Without vegetative cover, water cannot
 infiltrate into the soil, so it runs off, causing more erosion. This
 creates a destructive feedback loop that progressively degrades the
-landscape. [[urban-broadscale-restoration-watershed-repair]] techniques from permaculture address
-this cycle by slowing water flow, rebuilding soil, and re-establishing
-vegetative cover across degraded landscapes.
-
-## The First Step: Slowing Water Flow
-
-The first step in restoring a watershed is slowing down the flow of
-water across hillsides (called sheet flow) and allowing water to
-infiltrate before it reaches the streams. In the forest, water falls
-from the sky, soaks into the soil, moves slowly through underground
-pathways, and is gradually returned to the atmosphere through
-transpiration. Trees hold onto water, use it, and release it slowly.
-The same principles can be applied to restore degraded landscapes.
-
-When trees are removed, the water cycle breaks down. Rain hits bare
-soil, runs off rapidly, carries topsoil with it, and floods
-waterways. The key to restoration is intercepting this rapid flow and
-giving water time to infiltrate. Every technique described here serves
-this fundamental purpose: slow the water, spread it out, and sink it
-into the soil.
-
-## Swales on Gentle Slopes
-
-On gentle slopes (less than 15 degrees), broad shallow ditches called
-swales that follow the contours of the land will hold storm runoff
-and infiltrate it over time. Swales are level trenches dug along the
-contour of a slope, with the excavated soil placed on the downhill
-side to form a berm. When [[fukuoka-rain-falls-from-ground-vegetation-rainfall-cycle]], water collects in the swale,
+landscape. [[fukuoka-rain-falls-from-ground-vegetation-rainfall-cycle]], water collects in the swale,
 forms a temporary pool, and slowly soaks into the ground rather than
 running downhill and causing erosion.
 
-Over time, swales fill up with silt and [[hamilton-composting-and-organic-matter-management]], forming
-terraces that further improve water retention. Swales should be
-mulched to reduce evaporation and planted with trees whose roots will
-stabilize the soil and continue the water infiltration cycle. The
-trees eventually shade the swale, further reducing evaporation and
-creating a microclimate that supports additional vegetation.
-
-## Boomerang Swales for Steep Slopes
-
-On slopes steeper than 15 degrees, dig networks of v-shaped
-'boomerang' swales. These are v-shaped berms pointing downhill,
-forming basins that direct water to individual trees. The boomerang
-shape concentrates water at a single point where a tree is planted,
-ensuring that even on steep slopes, each tree receives adequate water
-for establishment. Multiple boomerang swales can be installed across a
-hillside, each with its own tree, creating a pattern of water-
-harvesting micro-catchments.
-
-## Straw Bale Terraces
-
-Steep slopes can also be terraced with straw bales as a rapid,
-low-cost restoration technique. To install straw bale terraces:
-
-1. Dig a shelf on contour for bales to rest on
-2. Pin each bale into the ground with two stakes (willow, bamboo,
-   and rebar all work well)
-3. Plant a native tree or shrub behind each straw bale
-
-When it rains, the bales soak up water like a sponge and water the
-trees behind them. The bales decompose over a few years, by which time
-the line of trees planted behind them will hold the hillside in place
-with their roots. This is a particularly effective technique for
-rapid stabilization of eroding slopes, as it provides immediate
-[[permplant-willows-salix-erosion-control-fodder]] while establishing long-term vegetative stabilization.
+Over time, swales fill up with silt and [[permplant-willows-salix-erosion-control-fodder]] while establishing long-term vegetative stabilization.
 
 ## Anchoring and Tree Placement
 
@@ -118,8 +58,91 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[composting]]
 - [[swale]]
-- [[permaculture]]
 - [[building-soil]]
+- [[urban-broadscale-restoration-watershed-repair]]
+
+## Overview
+
+Broadscale Watershed Restoration Techniques represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish broadscale watershed restoration techniques
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving broadscale extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Broadscale Watershed Restoration Techniques finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for broadscale watershed restoration techniques. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+broadscale watershed restoration techniques and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Broadscale Watershed Restoration Techniques has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of broadscale watershed restoration techniques into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[broadscale-restoration-watershed-repair]]
+- [[mollison-permaculture-two-broadscale-soil-improvement]]
+- [[ohana-watershed-system]]
+- [[permaculture-broadscale-no-till-grain-production]]
 - [[urban-broadscale-restoration-watershed-repair]]

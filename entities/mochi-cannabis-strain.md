@@ -23,13 +23,9 @@ sources:
 
 # Mochi (Cannabis Strain)
 
-**Mochi**, also known as **Mochi Gelato**, is an indica-dominant [[query-what-is-the-difference-between-indica-sativa-and-hybrid-cannabis]] strain celebrated for its exceptional flavor profile, potent effects, and visually striking appearance. Created through a cross between **[[sunset-sherbet]]** and **Thin Mint [[girl-scout-cookies]]** (GSC), Mochi inherits some of the most prized genetics from the legendary Cookie family lineage. It has become a staple of the modern craft cannabis movement, particularly on the [[blue-city-diesel-west-coast-blueberry-nyc-diesel-hybrid-oner]] of the [[dmt-containing-plants-united-states-halpern]].
+**Mochi**, also known as **Mochi Gelato**, is an indica-dominant [[sunset-sherbet]]** and **Thin Mint [[blue-city-diesel-west-coast-blueberry-nyc-diesel-hybrid-oner]] of the [[blesching-cannabis-deep-relaxation-healing]].
 
-## Genetic Lineage
-
-**Sunset Sherbet (♀)** — Indica-leaning hybrid (GSC × Pink Panties) by Sherbinski. Contributes tropical fruit sweetness and [[blesching-cannabis-deep-relaxation-healing]].
-
-**Thin Mint GSC (♂)** — Original GSC phenotype (OG Kush × [[durban-poison]]) by Cookie Family. Contributes signature cookie/mint terpenes and dense [[green-cannabis-plant-anatomy-calyx-pistil-bud-structure]].
+**Thin Mint GSC (♂)** — Original GSC phenotype (OG Kush × [[green-cannabis-plant-anatomy-calyx-pistil-bud-structure]].
 
 ### Lineage Tree
 ```

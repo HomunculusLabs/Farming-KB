@@ -33,16 +33,7 @@ The free base is a colorless liquid with a boiling point of 197-198 degrees Cels
 
 PEA occurs naturally in the human brain at low concentrations.
 
-It is produced from the [[mao-inhibitors-and-psychedelics]], can produce dangerous cardiovascular effects including hypertension and tachycardia.
-
-The combination of PEA with MAO inhibitors (including certain antidepressants) can produce a hypertensive crisis.
-
-Individuals taking MAO-A or MAO-B inhibitors should avoid PEA supplementation.
-
-## Index
-
-- [[mda]]|MDA: a substituted phenethylamine with significant activity
-- [[n-methyl-pea-entity]]
+It is produced from the [[mda]]|MDA: a substituted phenethylamine with significant activity
 - [[alexander-shulgin]]
 ## Practical Considerations
 

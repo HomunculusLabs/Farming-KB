@@ -13,50 +13,13 @@ type: concept
 
 A recurring theme in the EMCDDA case study is the
 comparison between the subjective effects of
-[[emcdda-hallucinogenic-mushrooms-emerging-trend-europe]] and those of ecstasy
-(MDMA). This comparison is significant because both
-substances were commonly used in the same recreational
-settings, particularly dance music events and nightclubs,
-yet their pharmacological profiles and user experiences
-differ substantially. Understanding this comparison is
-essential for explaining why mushrooms failed to achieve
-the same level of sustained popularity as ecstasy despite
-sharing the same social contexts.
-
-## The Entactogenic Distinction
-
-The term "entactogenic" was introduced to describe a
-specific positive mood-altering effect that allows users
-to make contact with their own feelings and those of
-others. Derived from Greek roots, the term distinguishes
-substances that promote emotional openness and social
-connection from classic hallucinogens that primarily alter
-perception. Ecstasy is considered the prototypical
-entactogenic substance, producing feelings of empathy,
-emotional warmth, and interpersonal closeness that are
-well-suited to social environments like nightclubs.
-
 [[emcdda-eu-legislative-timeline-hallucinogenic-mushrooms-2001-2006]], by contrast, lack these
 entactogenic properties. The EMCDDA report notes that
 qualitative research in the Netherlands found that users
 did not find the mushroom experience particularly
 pleasant because it lacked the positive mood-altering
 effects that ecstasy provokes. This fundamental
-difference in [[dosage-unpredictability-psilocybin-subjective-experience]] has important
-implications for the social dynamics of use and the
-likelihood of repeated consumption.
-
-## Effects Profiles Compared
-
-The subjective effects of ecstasy and mushrooms diverge
-across several dimensions. Ecstasy users typically report
-feelings of euphoria, increased energy, enhanced sensory
-perception, emotional openness, and a strong desire for
-social interaction. The effects are relatively
-predictable, dose-dependent, and generally experienced
-as positive in the settings where the drug is used.
-
-[[psychedelic-mushroom-effects-guide]] are far more variable and less socially
+difference in [[psychedelic-mushroom-effects-guide]] are far more variable and less socially
 oriented. Users report a broad spectrum ranging from mild
 relaxation and giddiness to visual disturbances,
 altered perception of time and space, and in some cases
@@ -118,8 +81,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[mdma]]
 - [[psilocybin]]
-- [[emcdda-hallucinogenic-mushroom-polydrug-use-social-context]]
 - [[emcdda-hallucinogenic-mushroom-markets]]
 - [[emcdda-hallucinogenic-mushroom-internet-information-sources]]

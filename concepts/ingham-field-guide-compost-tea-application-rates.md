@@ -23,20 +23,7 @@ The Ingham Field Guide provides specific application rate recommendations for or
 ## Orchard Application Program
 
 **Fall:**
-- Put down 1-2 tons per acre of compost/wormcastings as [[query-what-is-the-difference-between-a-casing-layer-and-a-top-dressing]] on fallen leaves; let first spring rain incorporate
-- For bare soil (e.g., citrus), apply directly to soil
-- As soil drench, use 10-15 gallons of compost tea per acre, applied directly on top of compost
-- Apply mycorrhizal spores to cores to establish VAM on root systems
-
-**Spring/Summer:**
-- Begin foliar sprays 2 weeks before bud break
-- 5 gallons per acre per 6 feet of canopy height, once per month
-- For citrus, continue sprays throughout winter months
-- Do not spray when bees are pollinating
-
-**Transplanting:**
-- Use 30-50% compost/wormcastings mixed with site soil
-- For bare root plantings, dip roots in a slurry of compost/wormcastings, nutrients, [[ingham-actinomycetes-soil-biology-and-compost-tea]] (like pancake batter consistency)
+- Put down 1-2 tons per acre of compost/wormcastings as [[ingham-actinomycetes-soil-biology-and-compost-tea]] (like pancake batter consistency)
 - Do NOT use root gels -- they smother roots and prevent air passage; use yucca as a sticker if needed
 
 **Disease and Pest Response:**
@@ -51,9 +38,7 @@ The Ingham Field Guide provides specific application rate recommendations for or
 
 **Spring:**
 - Soil drench: 15 gallons of compost tea per acre, 2 weeks before planting
-- [[jadam-seed-treatment-and-nursery-management]]: roll fungicide-free seed in compost tea with VAM spores; if fungicide-treated seed, place 5 gal/ac in the planting row under seed
-
-**[[savory-growing-season-and-non-growing-season-management]]:**
+- [[savory-growing-season-and-non-growing-season-management]]:**
 - Foliar spray: 5 gallons per acre, drench foliage and stems every 10-14 days
 - Start 2 weeks before bud break
 - Do not spray when bees are pollinating
@@ -70,11 +55,7 @@ The Ingham Field Guide provides specific application rate recommendations for or
 - Soil drenches are okay anytime, even in rain
 - Above-freezing temperatures are acceptable for application, as long as organisms get into soil before it freezes
 - Winter applications are appropriate if soil temperatures allow establishment before freezing
-- First year may require additional nutrients added in the tea while [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] gets established
-
-## Application Methods
-
-**Foliar [[aact-spray-equipment-nozzle-selection-ingham]]:**
+- First year may require additional nutrients added in the tea while [[aact-spray-equipment-nozzle-selection-ingham]]:**
 - Nozzle opening size must be greater than 200 micrometers (300-400 micrometers preferred)
 - Pressure must be low relative to distance: 1-2 feet = 20-40 psi; 6 feet = 100 psi; 100 feet = 600 psi
 - Impact pressure on leaf surfaces kills organisms, not pressure in the liquid itself
@@ -83,11 +64,7 @@ The Ingham Field Guide provides specific application rate recommendations for or
 - Electrostatic sprayers kill organisms; avoid them
 - Pivot irrigation, airplanes, and large droplet systems are acceptable (large droplets protect organisms)
 
-**[[comparison-drip-irrigation-vs-passive-irrigation]]:**
-- Emitter nozzle size must be at least 200 micrometers (some are as small as 5 micrometers)
-- 400 micrometer emitters allow all microbes including fungal colonies to pass
-- Test to confirm organisms pass through the emitters
-- Clean lines with 3-10% vinegar or 3% [[cervantes-hydrogen-peroxide-sterilization]]
+**[[cervantes-hydrogen-peroxide-sterilization]]
 
 ## Practical Applications
 
@@ -118,8 +95,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[compost-tea-application-rates]]
 - [[ingham-compost-tea-application-rates-and-timing]]
-- [[ingham-field-guide-compost-tea-ingredients-and-recipes]]
 - [[ingham-field-guide-compost-tea-microscope-analysis]]
 - [[spore]]

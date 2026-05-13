@@ -31,10 +31,10 @@ transmitting deformed wing virus and other pathogens.
 - **Oxalic acid vapor** — effective during broodless periods (late winter,
   after a flow)
 - **Formic acid (MAQS)** — can be used with honey supers on; effective but
-  requires [[cervantes-reservoir-temperature-management]] (50-85F)
+  requires temperature management (50-85F)
 - **Amitraz (Apivar)** — chemical strip treatment; 42-day treatment window;
   check for resistance in your area
-- **Apiguard (thymol)** — natural miticide; temperature-sensitive (above
+- **Apiguard ([[thymol]])** — natural miticide; temperature-sensitive (above
   60F); cannot use with supers on
 - **Drone brood trapping** — management technique using drone comb to attract
   mites, then removing and freezing the frame
@@ -53,14 +53,14 @@ slimy larvae that ruin honey.
 - Maintain strong colonies — beetles prefer weak hives
 - Keep apiary in full sun; beetles prefer shaded locations
 - Reduce entrance size to limit beetle access
-- Use beetle blaster traps with oil or [[query-how-to-use-diatomaceous-earth-in-the-garden]] corners of
+- Use beetle blaster traps with oil or [[diatomaceous-earth]] in corners of
   super boxes
 
 ### Treatment
 - **Beetle traps** — insert between frames; fill with vegetable oil
 - **Ground drench** — permethrin around the hive stand (beetles pupate in
   soil beneath hives)
-- **[[bee-forage-hive-management-mollison]]** — keep colonies populous and honey supers harvested
+- **Hive management** — keep colonies populous and honey supers harvested
   promptly
 - **In-Hive Beetle Ejector** — screen inserts that force beetles into oil
   traps
@@ -76,7 +76,7 @@ decline. More common in winter and spring.
 - Reduced brood area and sluggish colony growth
 
 ### Treatment
-- **Fumidil-B (fumagillin)** — fed in sugar syrup in fall or [[coleman-overwintered-onions-and-early-spring-crops]]
+- **Fumidil-B (fumagillin)** — fed in sugar syrup in fall or early spring
 - **Nutrition** — ensure adequate pollen availability; feed pollen patties
   if needed
 - **Hive management** — replace old dark comb (nosema spores persist in wax);
@@ -98,7 +98,7 @@ decline. More common in winter and spring.
   colony will decline rapidly
 
 ### Laying Workers
-- **Signs** — multiple eggs per cell, eggs on [[alpha-1-3-glucan-fungal-pathogen-cell-walls]] (not centered),
+- **Signs** — multiple eggs per cell, eggs on cell walls (not centered),
   all drone brood, no queen present for 3+ weeks
 - **Solution** — difficult to fix; best approach is to shake all bees onto
   a new stand several feet away and introduce a queen in a cage, or combine
@@ -106,7 +106,7 @@ decline. More common in winter and spring.
 
 ## Swarming
 
-Swarming is natural colony reproduction but represents lost [[faires-beekeeping-and-honey-production]]
+Swarming is natural colony reproduction but represents lost honey production
 for the beekeeper.
 
 ### Prevention

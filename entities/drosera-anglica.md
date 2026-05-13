@@ -21,27 +21,7 @@ sources:
 
 **Drosera anglica**, commonly known as the English sundew or great sundew, is a perennial carnivorous plant in the family Droseraceae.
 
-It is one of the most widely distributed sundew species, with a circumboreal range spanning [[psilocybin-north-america-pacific-northwest]], Europe, and Asia.
-
-The species is recognized by its elongated, paddle-shaped leaves covered in glandular tentacles that secrete sticky mucilage to capture insect prey.
-
-It is a tetraploid species (2n = 40), which is unusual among sundews and contributes to its robust growth habit compared to diploid relatives.
-
-## Taxonomy and Morphology
-
-*Drosera anglica* was first formally described by William Hudson in 1762. The specific epithet *anglica* refers to England, where the species was among the first sundews to be documented scientifically.
-
-The species is believed to be an allopolyploid hybrid of *D. rotundifolia* and *D. linearis*, a hypothesis supported by its intermediate morphology and tetraploid chromosome count.
-
-The root system consists of a slender, unbranched taproot. Unlike some tropical *Drosera* species, *D. anglica* does not produce tubers or stolons.
-
-Leaves are arranged in a basal rosette and measure 5–25 cm in length. Each leaf is linear-lanceolate, narrowing toward both the base and the tip.
-
-The lamina is green to reddish and covered on both surfaces with glandular trichomes (tentacles). Stalked glands at the tips secrete a clear, sticky, mucilaginous droplet.
-
-The mucilage is composed primarily of polysaccharides and contains traces of digestive enzymes. It glistens in sunlight, attracting insects visually.
-
-Sessile (stalkless) glands along the [[bloomfield-rust-germ-tube-tactile-sensing-leaf-surface-navigation]] produce additional digestive enzymes including proteases and phosphatases once prey is captured.
+It is one of the most widely distributed sundew species, with a circumboreal range spanning [[bloomfield-rust-germ-tube-tactile-sensing-leaf-surface-navigation]] produce additional digestive enzymes including proteases and phosphatases once prey is captured.
 
 Flowers are borne on a single, erect scape that rises 10–30 cm above the rosette. The inflorescence is a one-sided cyme, with flowers opening sequentially from the base upward.
 
@@ -51,13 +31,7 @@ Seed capsules are small, dehiscent, and release numerous fine seeds that are dis
 
 ## Distribution and Habitat
 
-*Drosera anglica* has a broad circumboreal distribution. In North America, it ranges from Alaska across Canada to the northeastern [[dmt-containing-plants-united-states-halpern]], with disjunct populations in the Rocky Mountains and along the Pacific Northwest coast.
-
-In Europe, it occurs from Scandinavia and the British Isles southward to the Iberian Peninsula, the Alps, and the Balkans. Asian populations extend through Siberia to Japan and Korea.
-
-The species is found in open, nutrient-poor wetland habitats. Typical sites include sphagnum bogs, marshes, fens, wet heathland, pond margins, and seepage slopes.
-
-It requires permanently moist to saturated, acidic soils with low [[ph-and-nutrient-availability-garden-soils]]. Optimal pH ranges from 4.0 to 6.0.
+*Drosera anglica* has a broad circumboreal distribution. In North America, it ranges from Alaska across Canada to the northeastern [[ph-and-nutrient-availability-garden-soils]]. Optimal pH ranges from 4.0 to 6.0.
 
 The species tolerates cold winters and is frequently found at higher latitudes and elevations than most other *Drosera* species. It can survive being submerged for extended periods.
 
@@ -88,3 +62,88 @@ Indoor growers can provide dormancy by placing plants in a cool location (2–5�
 Propagation is most commonly achieved through leaf cuttings, which root readily in moist peat. Gemmae (vegetative buds produced in winter) offer another reliable propagation method.
 
 [[cannabis-seed-germination-methods]] requires no stratification but benefits from surface sowing on wet peat. Seedlings reach flowering size in approximately 2–3 years.
+
+## Overview
+
+Drosera Anglica represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish drosera anglica
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving drosera extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Drosera Anglica finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for drosera anglica. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+drosera anglica and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Drosera Anglica has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of drosera anglica into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[drosera-binata]]
+- [[drosera-burmannii]]
+- [[drosera-intermedia]]
+- [[drosera-regia]]
+- [[drosera-rotundifolia]]

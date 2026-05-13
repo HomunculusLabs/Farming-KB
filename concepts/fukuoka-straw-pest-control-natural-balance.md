@@ -12,10 +12,7 @@ tags: [fukuoka]
 
 ## The Natural Balance of Insects
 
-As Fukuoka walks through the [[cho-imo-collection-bamboo-stump-and-paddy-field]], spiders and frogs scramble about,
-locusts jump up, and droves of dragonflies hover overhead. Whenever a large
-outbreak of leafhoppers occurs, the spiders multiply too, without fail. No
-matter that there are [[duggar-mushroom-insect-pests-and-fungal-diseases]] here. As long as their natural enemies are
+As Fukuoka walks through the [[duggar-mushroom-insect-pests-and-fungal-diseases]] here. As long as their natural enemies are
 also present, a natural balance asserts itself.
 
 Nature is sufficient in and of itself; there never was any need for pesticides.
@@ -62,12 +59,7 @@ In most cases, serious disease and pest damage in fruit trees, such as by
 long-horned beetles and scale insects, is triggered by diminished tree vigor
 due to depleted soil fertility, a confused tree shape, poor ventilation,
 inadequate light penetration, or a combination of all of these factors.
-Because they help sustain soil fertility, a ground cover of [[green-manure-crops]]
-and the combination planting of manure trees may thus be regarded as basic
-defensive measures against disease and pest damage.
-
-When vegetables are grown beneath fruit trees, the number of insect pests tends
-to be low. Some diseases and pests are common both to [[holzer-wild-fruit-trees-and-hedges]]
+Because they help sustain soil fertility, a ground cover of [[holzer-wild-fruit-trees-and-hedges]]
 vegetables, and some are not. These in turn have a host of different natural
 enemies that emerge at various times of the year. As long as a balance is
 maintained between the fruit trees, the vegetables, the insect pests, and
@@ -76,10 +68,7 @@ prevented.
 
 ## The Three-Dimensional Orchard Ecosystem
 
-Using [[comparison-natural-farming-vs-permaculture]] methods to cultivate fruit trees creates a truly
-three-dimensional orchard. More than just a place for growing fruit, the
-orchard becomes an organically integrated community that includes fowl,
-livestock, and man as well. If a [[fukuoka-natural-orchard-development]] is managed and run as a
+Using [[fukuoka-natural-orchard-development]] is managed and run as a
 single microcosm, there is no reason why one should not be able to live
 self-sufficiently.
 
@@ -117,8 +106,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[dom]]
 - [[det]]
-- [[green-manure-crops]]
 - [[permaculture]]
 - [[fukuoka-fruit-tree-disease-pest-control-natural-predators]]

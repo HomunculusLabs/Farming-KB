@@ -62,29 +62,88 @@ Haworthia cooperi requires well-drained, gritty soil with some organic component
 
 Light should be bright but indirect; an east-facing windowsill or filtered sun is ideal. Direct afternoon sun causes leaf scorching and stress coloration, while insufficient light causes etiolation.
 
-Watering follows a moderate cycle during [[query-how-to-protect-plants-from-frost-and-extend-the-growing-season]] from spring to autumn. Allow soil to dry between waterings. Reduce watering significantly during winter dormancy.
+Watering follows a moderate cycle during [[query-what-is-the-ideal-temperature-range-for-growing-cannabis]] is adaptable, tolerating temperatures from 5–35 °C. The species is not frost-hardy and must be protected from freezing conditions [[neurotropic-fungi-endemic-species-and-restricted-ranges-guzman-1998]]. Urban expansion around Grahamstown and East London threatens some populations.
 
-[[query-what-is-the-ideal-temperature-range-for-growing-cannabis]] is adaptable, tolerating temperatures from 5–35 °C. The species is not frost-hardy and must be protected from freezing conditions [[query-how-to-grow-and-use-oca-in-temperate-climates]].
-
-Propagation is straightforward by removal of offsets, which root readily when detached and allowed to callus. Leaf propagation is also possible but slower and less reliable than offset division.
-
-Seed propagation produces variable offspring, which can be desirable for collectors seeking unusual forms. Seeds germinate in 7–14 days under warm, humid conditions.
-
-Common pests include mealybugs, which hide in leaf axils, and root mealybugs in the soil. Regular inspection and treatment with systemic insecticides prevent serious infestations.
-
-## Ecological Role and Conservation
-
-In its native Eastern Cape habitat, Haworthia cooperi contributes to the succulent diversity of the Albany Thicket biome. The species' windowed leaves represent a remarkable example of adaptive morphology for light capture.
-
-The translucent leaf tips allow the plant to photosynthesize while keeping most of its body buried underground. This reduces water loss and protects against herbivory and extreme temperatures.
-
-Haworthia cooperi is not currently listed as threatened, but several varieties have [[neurotropic-fungi-endemic-species-and-restricted-ranges-guzman-1998]]. Urban expansion around Grahamstown and East London threatens some populations.
-
-The genus Haworthia as a whole faces significant [[fungal-conservation-challenges]] due to illegal collection. Many species are CITES Appendix II listed, and [[gottlieb-peyote-cultivation-from-seed]] is strongly encouraged.
+The genus Haworthia as a whole faces significant [[gottlieb-peyote-cultivation-from-seed]] is strongly encouraged.
 
 ## See Also
 
-- [[haworthia-fasciata]]
 - [[gasteria-verrucosa]]
-- [[aloe-vera]]
 - [[aloe-aristata]]
+
+## Overview
+
+Haworthia Cooperi represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish haworthia cooperi
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving haworthia extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Haworthia Cooperi finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for haworthia cooperi. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+haworthia cooperi and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Haworthia Cooperi has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of haworthia cooperi into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.

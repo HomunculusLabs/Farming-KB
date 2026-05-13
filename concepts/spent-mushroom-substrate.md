@@ -17,13 +17,9 @@ type: concept
 
 # Spent Mushroom Substrate
 
-Spent mushroom substrate (SMS) is the residual [[cervantes-green-algae-growing-medium]] remaining after
-[[accessible-mushroom-cultivation-for-disabilities]] has been completed and the useful flushes harvested.
+Spent mushroom substrate (SMS) is the residual [[accessible-mushroom-cultivation-for-disabilities]] has been completed and the useful flushes harvested.
 Far from being a waste product, SMS is a valuable resource that retains
-significant nutritional content and is fully colonized with [[fungal-mycelium-hyphae-and-the-feeding-phase]].
-The management and utilization of spent mushroom substrate represents
-an important aspect of sustainable [[spent-mushroom-substrate-applications]]
-- [[staycare-spent-mushroom-compost-bioremediation]]
+significant nutritional content and is fully colonized with [[spent-mushroom-substrate-applications]]
 - [[cannabis-therapeutic-index-overview]]
 ## Practical Applications
 

@@ -16,40 +16,7 @@ production, such a process is not without its serious drawbacks:
 
 1. Because it is crude, it leaves a thickness of topsoil that
    varies with the depth of the bedrock, resulting in uneven
-   areas of [[coleman-sunlight-and-winter-crop-growth-rates]].
-
-2. The load that heavy machinery places on the soil results in
-   excessive settling, causing ground water to stagnate. This
-   situation can induce root rotting and at least partial
-   suppression of initial crop growth on the new field.
-
-3. Levees and walkways are all made of concrete, upsetting and
-   destroying the community of soil microbes. The danger here is
-   of gradually turning the soil into a dead mineral matter.
-
-## Traditional Paddy Preparation
-
-Most people might expect open, level ground to be the most
-sensible place on which to set up rice paddies. But rather than
-settling on the flat and fertile banks of large rivers, Japanese
-farmers of old chose to live in mountain valleys where there was
-far less cause to fear violent flooding and strong winds. They set
-up small fields in the valleys or built terraced rice fields on
-the hillsides.
-
-To these farmers, the work of digging channels for drawing water
-from the valley streams, of constructing rice fields, and of
-building rock walls and terraced fields was not as hard as the
-people of today imagine. They did not think of it as hardship.
-
-## Self-Sufficient Mountain Paddies
-
-By spreading the field with the cuttings from ridge grasses,
-bordering weeds, and young foliage from trees, rice could easily
-be grown each year without using fertilizers. A tiny field of
-maybe a hundred square yards supplied the food needs for one
-individual indefinitely. The spiritual peace and security, the
-simple joy of creating a [[fukuoka-textdoc-creating-rice-paddy-natural-methods]] were greater than can be
+   areas of [[fukuoka-textdoc-creating-rice-paddy-natural-methods]] were greater than can be
 imagined. From these activities, our farming ancestors gained
 pleasure and satisfaction of a sort that cannot be had through
 mechanized farming.
@@ -78,19 +45,7 @@ These are not just the fond recollections of bygone days by a
 misty-eyed old fogey. The general method of establishing a rice
 paddy described here accords with reality as it exists on
 uncultivated open plains and meadows. Nature itself establishes
-rice paddies through the accumulation of [[hamilton-composting-and-organic-matter-management]] and the
-natural leveling of water flow across gentle depressions.
-
-## Concrete Levees Destroy Microbial Communities
-
-The replacement of earthen levees with concrete represents one of
-the most destructive aspects of modern paddy construction. Earthen
-levees harbor a rich community of soil organisms including
-[[fukuoka-natural-farming]]
-- [[fukuoka-nelissen-farm]]
-
-## See Also
-
+rice paddies through the accumulation of [[fukuoka-natural-farming]]
 - [[fukuoka-textdoc-traditional-mountain-paddy-aesthetics-spiritual-wisdom]]
 
 ## Practical Applications
@@ -122,8 +77,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[doc]]
 - [[dom]]
-- [[composting]]
 - [[fukuoka-textdoc-traditional-mountain-paddy-aesthetics-spiritual-wisdom]]
 - [[fukuoka-textdoc-paddy-levee-construction-water-management-wisdom]]

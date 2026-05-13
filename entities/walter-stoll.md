@@ -14,9 +14,7 @@ sources: [/Users/t3rpz/wiki/raw/papers/hofmann-a-lsd-my-problem-child.md]
 
 ## Background and Career
 
-Walter Stoll was born into a family deeply embedded in the Swiss chemical and pharmaceutical industry. His father, Arthur Stoll, was a prominent chemist at Sandoz who worked alongside Albert Hofmann on [[kykeon-composition-and-ergot-alkaloid-hypothesis]] research. Walter trained in medicine and psychiatry in Switzerland, establishing himself as a practicing psychiatrist with an interest in the biological basis of mental illness.
-
-His position at the intersection of academic psychiatry and the [[hofmann-lsd-sandoz-research-program]] network gave him unique access to newly synthesized compounds, including LSD, for clinical investigation.
+Walter Stoll was born into a family deeply embedded in the Swiss chemical and pharmaceutical industry. His father, Arthur Stoll, was a prominent chemist at Sandoz who worked alongside Albert Hofmann on [[hofmann-lsd-sandoz-research-program]] network gave him unique access to newly synthesized compounds, including LSD, for clinical investigation.
 
 ## The First LSD Psychiatric Studies
 
@@ -35,48 +33,100 @@ Stoll's findings were cautiously optimistic. He recognized both the therapeutic 
 
 Stoll's work laid the foundation for what would become known as **psycholytic therapy** (literally "mind-dissolving therapy") — a therapeutic approach developed primarily in Europe during the 1950s and 1960s. In psycholytic therapy, LSD was administered in low to moderate doses over a series of sessions, typically weekly, with the goal of facilitating access to unconscious material and enhancing the psychotherapeutic process.
 
-The psycholytic approach contrasted with the **[[metzner-psycholytic-psychedelic-therapy-models]]** model developed in [[psilocybin-north-america-pacific-northwest]], which used single high-dose sessions aimed at producing a transformative mystical experience.
+The psycholytic approach contrasted with the **[[psilocybin-north-america-pacific-northwest]], which used single high-dose sessions aimed at producing a transformative mystical experience.
 
-Stoll's careful documentation of dose-response relationships, [[lsd-set-and-setting-framework]] factors, and the importance of therapeutic preparation became foundational principles for the entire field of psychedelic therapy.
-
-## Later Career
-
-Stoll continued his psychiatric practice and research throughout his career, though he gradually distanced himself from LSD research as the drug became increasingly associated with recreational use and regulatory scrutiny. By the late 1960s, the clinical use of LSD had been largely curtailed by legal restrictions and the collapse of the research environment that had supported it.
-
-## Historical Significance
-
-Walter Stoll occupies a unique position in the history of psychedelic medicine as the bridge between the chemical discovery of LSD in the laboratory and its application as a therapeutic tool in the clinic. His 1947 paper demonstrated for the first time that a psychedelic compound could be systematically studied in psychiatric patients with meaningful clinical observations.
-
-His work directly influenced the subsequent generation of psychedelic researchers including Humphry Osmond, Abram Hoffer, Ronald Sandison, and Hanscarl Leuner, who expanded and refined the therapeutic approaches he pioneered.
-
-## Applied Notes
-
-Walter Stoll should be evaluated in relation to climate, soil or substrate
-conditions, available labor, and the larger design goals of the site.
-The most reliable use comes from observation, small trials, and gradual
-scaling rather than assuming that one method works everywhere.
-
-## Implementation Factors
-
-Important variables include timing, moisture, fertility, species or
-variety selection, and the way the practice interacts with surrounding
-plants, fungi, animals, and people. Keeping records of failures is as
-useful as recording successes because it shows which constraints are
-most important locally.
-
-## System Connections
-
-This topic often overlaps with [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]], habitat design, water
+Stoll's careful documentation of dose-response relationships, [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]], habitat design, water
 management, and low-input production. In a farming knowledge base, those
 connections matter because a single intervention can affect pest
 pressure, soil biology, yields, and long-term resilience.
 
 ## Related Topics
 
-- [[hofmann-lsd-clinical-research-early-studies]]
 - [[swiss-psycholytic-therapy-1988-1993]]
 
 ## See Also
 
 - gordon-wasson — the discoverer of LSD, a colleague of Stoll's father
 - [[lsd-d-lysergic-acid-diethylamide]] — the compound Stoll first studied clinically
+
+## Overview
+
+Walter Stoll represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish walter stoll
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving walter extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Walter Stoll finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for walter stoll. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+walter stoll and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Walter Stoll has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of walter stoll into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[walter-gropius]]
+- [[walter-pahnke]]

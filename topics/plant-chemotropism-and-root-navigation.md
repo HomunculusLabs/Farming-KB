@@ -41,7 +41,7 @@ Gravitropism is the most prominent root tropism and the primary reason roots gro
 **Mechanism:**
 
 1. **Statolith sedimentation:** Dense starch-filled organelles called **amyloplasts** (statoliths) settle to the bottom of the columella cells under gravity. This acts as a gravity sensor — the plant detects where the weight is within the cell.
-2. **[[fungal-environmental-sensing-signal-transduction-read]]:** When a root is reoriented, statoliths reposition, triggering intracellular calcium signaling and the production of reactive oxygen species (ROS), particularly in the form of [[cervantes-hydrogen-peroxide-sterilization]] (H₂O₂) and hydroxyl radicals.
+2. **[[cervantes-hydrogen-peroxide-sterilization]] (H₂O₂) and hydroxyl radicals.
 3. **Auxin redistribution:** The gravity signal causes asymmetric redistribution of **auxin** (indole-3-acetic acid, IAA) across the root tip. Auxin flows through the **PIN-FORMED (PIN)** efflux carrier proteins, creating a lateral auxin gradient: higher auxin concentration on the lower side of the root.
 4. **Differential cell elongation:** On the lower side, elevated auxin inhibits cell elongation in the elongation zone. The upper side continues to elongate normally. This differential elongation causes the root tip to bend downward.
 
@@ -131,19 +131,9 @@ Auxin (IAA) is the central integrator of tropic responses. Understanding auxin b
 ### Auxin Biosynthesis
 - Primarily synthesized in shoot apical meristems and young leaves via the **tryptophan-dependent pathway** (TAA1/YUC pathway).
 - Roots also produce auxin locally, especially under stress conditions, via **indole-3-pyruvic acid (IPyA)** intermediate.
-- The enzyme **YUCCA (YUC)** flavin monooxygenase catalyzes the final step in the primary auxin [[psilocybin-biosynthesis-pathway-and-enzymology]].
-
-### Auxin Transport (Polar Auxin Transport, PAT)
-- **PIN proteins:** PIN-FORMED efflux carriers determine the directionality of auxin flow. Different PIN isoforms are localized to different cell membranes (basal, apical, lateral), creating directional auxin streams.
-## See Also
-
-- [[the-rhizosphere-ecology-and-plant-microbe-interactions]]
-- [[mycorrhizal-fungi]]
+- The enzyme **YUCCA (YUC)** flavin monooxygenase catalyzes the final step in the primary auxin [[the-rhizosphere-ecology-and-plant-microbe-interactions]]
 - [[mycorrhizal-networks-and-the-wood-wide-web]]
-- [[soil-foodweb]]
 - [[nitrogen-fixing-bacteria-and-biological-nitrogen-fixation]]
-- [[nutrient-and-dynamic-accumulators]]
 - [[plant-anatomy-and-physiology]]
-- [[plant-sensory-biology-and-intelligence]]
 - [[allelopathy-and-chemical-warfare-in-plants]]
 - [[keyline-design-and-water-management-in-permaculture]]

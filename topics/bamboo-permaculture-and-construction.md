@@ -2,13 +2,7 @@
 # Bamboo in Permaculture and Construction
 
 Bamboo is one of the most versatile and rapidly renewable resources available
-to [[permaculture-designers-manual-animal-forage-systems]] and natural builders. Belonging to the grass family
-Poaceae, subfamily Bambusoideae, bamboo comprises over 1,400 species distributed
-across tropical, subtropical, and temperate regions worldwide. Its extraordinary
-growth rate — some species gaining up to 91 centimetres (36 inches) per day —
-combined with its remarkable tensile strength, flexibility, and ecological
-functions, makes it a cornerstone material in sustainable land management and
-[[mollison-designers-appropriate-technology-small-scale-tools]]. Bamboo has been used for millennia across Asia, Africa,
+to [[mollison-designers-appropriate-technology-small-scale-tools]]. Bamboo has been used for millennia across Asia, Africa,
 and Latin America for shelter, tools, water management, and food, and its
 integration into modern permaculture systems draws heavily on this deep
 traditional knowledge base.
@@ -27,20 +21,8 @@ aspect of bamboo joinery and structural design.
 
 In permaculture design, bamboo occupies a distinctive niche across multiple
 zones, primarily Zones 3 and 4, where its functions extend far beyond timber
-production. Bamboo groves provide [[permplant-willows-salix-erosion-control-fodder]] on slopes and stream banks,
-serve as effective windbreaks, filter nutrient runoff before it reaches
-waterways, generate large volumes of silica-rich mulch, sequester carbon at
-rates exceeding most tree species, and supply raw material for an enormous
-range of farm and household applications. Bill Mollison devoted considerable
-attention to bamboo in *Permaculture: A Designers' Manual*, detailing its
-species selection, cultivation techniques, structural joinery, and integration
-into whole-system designs. The cow-bamboo-lake integration model, in which
-bamboo mediates between livestock areas and aquatic systems, exemplifies the
-multifunctional thinking that characterises mature permaculture practice.
-
-This article provides a comprehensive overview of [[bamboo-as-building-material]] it relates to
-permaculture design and [[query-how-do-i-choose-a-natural-building-method-for-my-climate]], covering species selection and
-characteristics, cultivation and [[vegetative-propagation-methods-mollison]], construction techniques
+production. Bamboo groves provide [[bamboo-as-building-material]] it relates to
+permaculture design and [[vegetative-propagation-methods-mollison]], construction techniques
 and joinery systems, treatment and preservation, ecological applications
 within permaculture designs, and broader economic and community uses.
 
@@ -102,18 +84,12 @@ is used for fencing, trellising, water pipes, crafts, and erosion control.
 ## See Also
 
 permaculture design principles
-[[natural-building]]
-sustainable forestry
-erosion control techniques
-windbreak design
 [[korean-natural-farming]]
 carbon sequestration in agriculture
 earthquake resistant design
 agroforestry systems
 riparian buffer design
 biochar and soil amendment
-[[mollison-designers-greywater-treatment-reedbeds]] systems
-cob and strawbale construction
 [[living-fences-vs-conventional-fencing]]-and-hedges
 
 ## References
@@ -126,9 +102,7 @@ cob and strawbale construction
    Chelsea Green Publishing, 2001. Discussion of bamboo in ecological
    garden design and multifunctional plantings.
 
-3. Cho, Han-Kyu. *Korean Natural Farming: [[beneficial-indigenous-microorganisms-bim]] and
-   Natural Farming*. Published proceedings and manuals. Documentation of
-   bamboo stump [[imo-collection-multi-stage-cultivation]] methodology.
+3. Cho, Han-Kyu. *Korean Natural Farming: [[imo-collection-multi-stage-cultivation]] methodology.
 
 4. Janssen, Jules J. A. *Building with Bamboo: A Handbook*. Intermediate
    Technology Publications, 2000. Technical reference on bamboo structural

@@ -7,16 +7,7 @@ tags:
   - ranunculaceae
   - toxic-plant
   - medicinal-plant
-  - [[aconitine]]
-  - ethnobotany
-  - traditional-medicine
-  - toxicology
-  - ornamental
-sources:
-  - "Bisset, N.G. (1981). \"Arrow poisons in China. Part II. Aconitum species.\" Journal of Ethnopharmacology, 4(3), 247–336."
-  - "Mori, A. et al. (2023). \"Aconitine poisoning: a comprehensive review of mechanisms, clinical features, and treatment.\" Toxicon, 228, 32–41."
-  - "Ameri, A. (1998). \"The effects of Aconitum alkaloids on the central nervous system.\" Progress in Neurobiology, 56(2), 211–235."
-  - "Culbreth, D.M.R. (1927). A Manual of [[herbal-materia-medica]] and Pharmacology. 7th ed. Lea & Febiger."
+  - herbal-materia-medica and Pharmacology. 7th ed. Lea & Febiger."
 ---
 
 # Monkshood (*Aconitum napellus*)
@@ -65,9 +56,7 @@ European temperate flora and immediately diagnostic.
   from the British Isles and northern Spain east to the Carpathians
 - **Habitat:** Damp mountain meadows, subalpine pastures, stream banks, forest
   clearings, and rocky slopes at 300–2,600 m elevation
-- **Naturalized:** Parts of [[psilocybin-north-america-pacific-northwest]], New Zealand, and Scandinavia
-- **Soil preference:** Moist, well-drained, neutral to slightly acidic soils
-  rich in [[hamilton-composting-and-organic-matter-management]]; tolerates partial shade
+- **Naturalized:** Parts of hamilton-composting-and-organic-matter-management; tolerates partial shade
 
 ## Chemistry: Aconite Alkaloids
 
@@ -90,8 +79,14 @@ toxin is heat-stable — cooking does not destroy it.
 ## Pharmacology and Traditional Medicine
 
 ## See Also
-- [[composting]]
-- [[dom]]
-- [[psilocybin]]
-- [[aconitine]]
-- [[aconitum-lycoctonum]]
+- dom
+- aconitine
+- aconitum-lycoctonum
+
+## See Also
+
+- [[aconitum-columbianum]]
+- [[aconitum-anthora]]
+- [[aconitum-septentrionale]]
+- [[aconitum-carmichaelii]]
+- [[aconitum-variegatum]]

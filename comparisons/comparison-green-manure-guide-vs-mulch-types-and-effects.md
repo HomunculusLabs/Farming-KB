@@ -12,15 +12,7 @@ type: comparison
 
 ## Overview
 Green manure is a crop grown specifically to be incorporated into the soil,
-adding [[hamilton-composting-and-organic-matter-management]] and nutrients through decomposition. Mulch is any
-material spread over the soil surface to conserve moisture, suppress weeds,
-and feed soil biology. Green manure is a living, incorporated soil amendment;
-mulch is a surface-applied, often dead material. Both build soil organic
-matter and support soil biology, but they differ in application method,
-timing, nutrient dynamics, and their relationship to soil disturbance.
-
-## Green Manure
-[[mulch-types-and-effects]]
+adding [[mulch-types-and-effects]]
 
 Mulch is any material spread over the soil surface to conserve moisture,
 suppress weeds, regulate temperature, and feed soil biology. Mulch types span
@@ -37,10 +29,7 @@ decompose completely in about 6 months, with fungal dominance initially
 followed by increasing bacterial activity as decomposition progresses. Mulch
 with a C:N ratio above 30:1 may cause temporary nitrogen immobilization at
 the soil-mulch interface, though this rarely affects the rhizosphere where
-[[mycorrhizal-root-exudates-pathogen-interactions]] provide sufficient nitrogen for soil organisms.
-
-Application depth of 2-3 inches is ideal. Thicker layers block moisture and
-air penetration and can smother [[dighton-mycorrhizal-networks-carbon-transfer]] near the surface. Mulch
+[[dighton-mycorrhizal-networks-carbon-transfer]] near the surface. Mulch
 should never be placed directly against stems or trunks to prevent microbial
 decay of the plant itself. Seasonal timing matters: light spring mulching
 allows soil warming, summer replenishment maintains coverage, heavy fall
@@ -64,7 +53,7 @@ freezing temperatures.
 Green manure is best when a bed will be empty for an extended period (winter
 fallow, between crop rotations) and active soil building is desired. It
 excels on light, nutrient-poor soils that leach easily during winter.
-Leguminous [[jeavons-green-manures-cover-crops]] are particularly valuable when [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]] is
+Leguminous [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]] is
 needed for the following crop. Green manure suits conventional and reduced-
 till gardens where periodic soil incorporation is acceptable.
 
@@ -88,9 +77,6 @@ decomposes over weeks and months.
 
 ## See Also
 
-- [[comparison-mulch-types-and-effects-vs-landscape-fabric-alternatives]]
-
 - [[comparison-mulching-guide-vs-green-manure-guide]]
-- [[comparison-green-manure-vs-cover-crops]]
 - [[comparison-chop-and-drop-mulching-vs-mulching-guide]]
 - [[comparison-living-mulch-vs-cover-crops]]

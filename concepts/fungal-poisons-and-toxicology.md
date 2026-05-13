@@ -9,17 +9,12 @@ sources:
 ---
 # Fungal Poisons and Toxicology
 
-[[european-mushroom-poisoning-history]] represents one of the most
-dangerous aspects of mycophagy. While the vast majority
-of mushroom species are harmless, a small number contain
-potent toxins that can cause organ failure, neurological
-damage, or death. Understanding these toxins is
-essential for anyone engaged in wild [[bloomfield-mushroom-foraging-immigrant-poisonings-paddy-straw-confusion]].
+[[bloomfield-mushroom-foraging-immigrant-poisonings-paddy-straw-confusion]].
 
 ## Amatoxins (The Deadliest)
 
 Found in: Amanita phalloides (death cap), A. virosa
-([[bloomfield-destroying-angel-amanita-virosa-amatoxin-poisoning-clinical-course]]), [[galerina-marginata]], and Lepiota
+([[galerina-marginata]], and Lepiota
 species. The lethal dose is approximately 6-7mg,
 roughly equivalent to one medium death cap mushroom.
 
@@ -47,15 +42,8 @@ catastrophic liver damage becomes apparent.
 
 The death cap, Amanita phalloides, is responsible for
 most fatal mushroom poisonings throughout Europe and
-[[psilocybin-north-america-pacific-northwest]]. Many recent cases have involved
-immigrants who misidentified a lethal mushroom as an
-edible species from their homeland. Destroying angels
-and death caps resemble the [[paddy-straw-mushroom]],
-[[paddy-straw-mushroom-volvariella-volvacea-cultivation]], widely cultivated in Asia.
-
-## The LBM Problem: Deadly Galerina
-
-The autumn skullcap, [[galerina-autumnalis]], is a common
+[[paddy-straw-mushroom]],
+[[galerina-autumnalis]], is a common
 wood-rotting fungus that produces a small brown
 mushroom known as an LBM (little brown mushroom).
 The stems are never taller than a finger, and the
@@ -71,21 +59,6 @@ age. Even professional mycologists admit to unease
 when confronting LBMs in the field.
 
 ## Gyromitrin
-
-Found in: [[gyromitra-esculenta]] (false morel),
-G. infula. Gyromitrin hydrolyzes to
-monomethylhydrazine (MMH), which inhibits GABA
-and damages the liver. Symptoms include headache,
-nausea, vomiting, hemolysis, and seizures,
-appearing 6-12 hours after ingestion.
-
-The toxins are volatile and water-soluble. Thorough
-cooking and multiple water changes reduce but do
-not eliminate risk. Geographic variation exists:
-Finnish false morels have lower gyromitrin levels
-while North American specimens are more toxic.
-
-## Coprine
 
 Found in: [[coprinopsis-atramentaria]] (common inkcap).
 
@@ -118,8 +91,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[psilocybin]]
 - [[amanita-phalloides]]
-- [[gyromitrin]]
 - [[amanita]]
 - [[fungal-formulation-and-inoculation-for-in-situ-bioremediation]]

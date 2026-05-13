@@ -17,7 +17,7 @@ Source: Biodiversity of Fungi (Hyde et al., eds.), multiple chapters synthesized
 
 Fungi provide a wide range of ecosystem services that are directly relevant to agriculture and land management. These services include decomposition and nutrient cycling, soil formation and stabilization, disease regulation, carbon sequestration, and water purification. The diversity of fungal species in agricultural landscapes underpins the resilience and sustainability of these services.
 
-See also: [[fungal-ecosystem-roles]], [[fungal-decomposition-processes]], fungal-lignin-degradation-enzymology
+See also: [[fungal-decomposition-processes]], fungal-lignin-degradation-enzymology
 
 ### Litter Quality and Decomposition
 
@@ -28,22 +28,13 @@ In agricultural systems, the choice of cover crops and residue management affect
 - Cereal residues (high C:N, high lignin) decompose slowly, building soil organic matter
 - Mixed residues provide diverse substrates supporting diverse fungal communities
 
-See also: [[coprophilous-fungi]], mycorrhizal-nitrogen-transfer-between-plants through common networks
-
-The fungal-dominated decomposition pathway tends to conserve nitrogen in agricultural systems, as fungal biomass has a higher C:N ratio (10-15:1) compared to bacteria (3-5:1), meaning less nitrogen is mineralized per unit of carbon decomposed.
-
 See also: [[nitrogen-transfer-through-common-mycorrhizal-networks]]
 
 ### Phosphorus
 
-[[query-how-does-phosphorus-availability-change-across-soil-ph-levels]] is often the limiting factor for crop production, and fungi play a critical role in [[mollison-phosphorus-cycling-and-conservation-in-permaculture-systems]]:
+[[mollison-phosphorus-cycling-and-conservation-in-permaculture-systems]]:
 
-- **Mycorrhizal mobilization**: [[fungal-roles-in-phosphorus-solubilization]]
-
-### Potassium and Micronutrients
-
-Fungi also contribute to the cycling of potassium, calcium, magnesium, and micronutrients through:
-- [[mycorrhizal-mineral-weathering-nutrient-acquisition]] (production of organic acids that dissolve minerals)
+- **Mycorrhizal mobilization**: [[mycorrhizal-mineral-weathering-nutrient-acquisition]] (production of organic acids that dissolve minerals)
 - Accumulation in fungal biomass and subsequent release upon death
 - Enhanced root exploration of soil volume through mycorrhizal networks
 
@@ -60,69 +51,100 @@ Fungal hyphae physically entangle soil particles, creating and stabilizing soil 
 - Root penetration
 - Habitat creation for other soil organisms
 
-See also: [[fungal-contributions-soil-structure]], [[fungal-glomalin-and-soil-carbon]]: Arbuscular mycorrhizal fungi produce glomalin, a recalcitrant glycoprotein that contributes significantly to soil organic matter pools. Glomalin is highly resistant to decomposition and can persist in soil for decades, contributing to long-term carbon sequestration and aggregate stability.
+See also: [[fungal-glomalin-and-soil-carbon]]: Arbuscular mycorrhizal fungi produce glomalin, a recalcitrant glycoprotein that contributes significantly to soil organic matter pools. Glomalin is highly resistant to decomposition and can persist in soil for decades, contributing to long-term carbon sequestration and aggregate stability.
 
 ## Biological Regulation Services
 
 ### Disease Suppression
 
-Soil fungal communities contribute to plant [[ingham-aact-disease-suppression-through-food-competition]] multiple mechanisms:
+Soil fungal communities contribute to plant [[mycorrhiza-induced-resistance-defense-priming]]**: Some fungal symbionts prime plant defense responses, making plants more resistant to subsequent pathogen attack.
 
-1. **Competition**: Non-pathogenic fungi compete with pathogens for space, nutrients, and infection sites on and in plant roots.
-
-2. **Antibiosis**: Some soil fungi produce antibiotic compounds that inhibit pathogen growth. Notable examples include Trichoderma species and Gliocladium species.
-
-3. **Parasitism**: Mycoparasitic fungi directly attack and kill plant pathogenic fungi. Trichoderma harzianum is a well-known mycoparasite used as a biocontrol agent.
-
-4. **[[mycorrhiza-induced-resistance-defense-priming]]**: Some fungal symbionts prime plant defense responses, making plants more resistant to subsequent pathogen attack.
-
-5. **[[three-pillars-mushroom-cultivation-spawn-substrate-environment]], fungal-plant-pathogen-interactions
-
-### Pest Regulation
-
-Certain fungal species are important natural enemies of agricultural pests:
-- Entomopathogenic fungi (Beauveria, Metarhizium, Paecilomyces) infect and kill insect pests
-- Nematophagous fungi trap and kill plant-parasitic nematodes
-- Some endophytic fungi deter herbivorous insects through alkaloid production
-
-See also: [[fungal-pest-control]], [[fungal-peat-decomposition-and-carbon-storage]] in wetland soils
-- [[functional-redundancy-fungal-communities]]: High fungal biodiversity provides functional redundancy, meaning that if one species is lost, others can perform similar functions. This insurance effect is critical for maintaining ecosystem services under changing conditions (drought, temperature extremes, management changes).
+5. **[[fungal-pest-control]], [[functional-redundancy-fungal-communities]]: High fungal biodiversity provides functional redundancy, meaning that if one species is lost, others can perform similar functions. This insurance effect is critical for maintaining ecosystem services under changing conditions (drought, temperature extremes, management changes).
 
 ### Community Resilience
 
-[[fungal-metagenomics]]: Diverse fungal communities are more resilient to disturbance and more capable of recovering from perturbations. In agricultural systems, maintaining fungal diversity through diverse rotations, cover crops, and reduced tillage helps ensure the continued provision of ecosystem services.
+[[mycorrhizal-fungi]]
+- [[arbuscular-mycorrhizal-fungi]]
+- [[fungal-biodiversity]]
+
+## Overview
+
+Biodiversity Of Fungi Ecosystem Services Agriculture represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish biodiversity of fungi ecosystem services agriculture
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving biodiversity extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
 
 ## Practical Applications
 
-The principles and techniques discussed here have wide-ranging applications
-across multiple disciplines and contexts. Practitioners and researchers
-continue to explore new ways to integrate these concepts into modern practice,
-adapting traditional knowledge to contemporary challenges and opportunities.
+Biodiversity Of Fungi Ecosystem Services Agriculture finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
 
-## Key Considerations
+## Management and Implementation
 
-Several important factors influence the effectiveness and outcomes described
-in this topic. Understanding these considerations helps practitioners make
-informed decisions and avoid common pitfalls. Environmental conditions,
-timing, and material selection all play critical roles.
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for biodiversity of fungi ecosystem services agriculture. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+biodiversity of fungi ecosystem services agriculture and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
 
 ## Historical Context
 
-The historical development of this subject reflects centuries of accumulated
-knowledge and practical experience. From traditional methods passed down
-through generations to modern scientific approaches, the evolution continues
-to inform current best practices and research directions.
+Biodiversity Of Fungi Ecosystem Services Agriculture has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
 
-## Common Challenges
+## Integration Strategies
 
-Practitioners frequently encounter several challenges when working with
-these concepts. Climate variability, resource limitations, and knowledge
-gaps can all affect outcomes. Addressing these challenges requires patience,
-observation, and a willingness to adapt approaches based on results.
+Successful integration of biodiversity of fungi ecosystem services agriculture into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
 
 ## See Also
-- [[mycorrhizal-fungi]]
-- [[nematophagous-fungi]]
-- [[arbuscular-mycorrhizal-fungi]]
-- [[endophytic-fungi]]
-- [[fungal-biodiversity]]
+
+- [[biodiversity-fungal-molecular-identification-dna-barcoding]]
+- [[dighton-soil-fungal-biodiversity-assessment]]

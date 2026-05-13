@@ -21,40 +21,12 @@ anxiety, or elation.
 
 ## Epidemiology and Conventional Treatment
 
-About 75% of all adult migraine sufferers in the [[dmt-containing-plants-united-states-halpern]] are women.
-Estrogen is considered a culprit to explain the gender discrepancy. Studies
-suggest that migraine sufferers might be at an increased risk for stroke.
-Menstruation had the most prominent effect, increasing the hazard of occurrence
-or persistence of headache and migraine by up to 96%.
-
-Within the allopathic tradition, the cause and cure for migraines remain
-unknown. Treatment consists of numerous oral and injectable pharmaceuticals.
-Depending on underlying physiology, sometimes blood vessel surgery provides
-relief. The overuse of pharmaceuticals (especially tricyclics and opiates) and
-their [[blesching-cannabis-safety-adverse-effects-evidence]] have posed problems.
+About 75% of all adult migraine sufferers in the [[blesching-cannabis-safety-adverse-effects-evidence]] have posed problems.
 
 ## Cannabis and Migraine: The Evidence
 
-The [[cannabis-for-chronic-pain]]
-- [[cannabis-sleep-disorders-and-insomnia]]
-- [[cannabinoid-receptors-cb1-cb2]]
-## Practical Considerations
-
-When working with Cannabis and Migraine, several practical factors should be
-carefully considered to achieve optimal results. These include
-the specific conditions of the implementation context, available
-resources, timing requirements, and the interactions between this
-topic and other elements of the broader system. A holistic view
-that considers these interconnections produces better outcomes.
-
-Environmental conditions such as temperature, moisture, and
-seasonal patterns significantly influence results. Monitoring these
-variables and adapting practices accordingly is essential for success.
-The most effective practitioners develop keen observation skills and
-respond flexibly to changing conditions rather than following rigid
-protocols regardless of circumstances or local variation.
-
-[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
+The [[cannabis-sleep-disorders-and-insomnia]]
+- [[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -111,8 +83,6 @@ through generations to modern scientific approaches, the evolution continues
 to inform current best practices and research directions.
 
 ## See Also
-- [[doc]]
 - [[dmt]]
-- [[blesching-cannabis-neuroprotection-neurodegenerative]]
 - [[cannabis-sativa-vs-indica-strain-profiles-therapeutic-blesching]]
 - [[blesching-cannabis-tourette-syndrome]]

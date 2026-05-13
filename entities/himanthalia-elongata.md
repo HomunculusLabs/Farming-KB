@@ -13,50 +13,13 @@ sources:
   - Pérez, M.J. et al. (2020). "dighton-fungal-nutritional-composition-animal-diets of edible seaweeds." Journal of Applied Phycology, 32(1), 1-15.
   - Guiry, M.D. & Guiry, G.M. (2025). "Himanthalia elongata." AlgaeBase. National University of Ireland.
   - Fleurence, J. (2016). "Seaweeds as food." In: Seaweed in Health and cervantes-pest-disease-prevention-overview. Academic Press, pp. 149-167.
-  - Jiménez-Escrig, A. et al. (2012). "Dietary fiber and [[soil-physicochemical-properties-cannabis-microbiome-assembly-winston]] of edible seaweeds." Food Chemistry, 133(3), 762-768.
----
-
-## Overview
-
-**Himanthalia elongata** is a species of brown macroalga in the order Fucales, commonly known as **sea spaghetti** or **thongweed**. It is native to the northeastern Atlantic, ranging from Norway to Portugal, and is harvested commercially as an edible seaweed.
-
-The species is distinguished by its unusual morphology — a small button-like holdfast that produces two long, strap-like fronds reaching up to 2 meters in length. These fronds are the edible portion and are consumed fresh, dried, or cooked across European cuisines.
-
-Sea spaghetti is valued for its mild flavor, pleasant texture, and nutritional profile rich in dietary fiber, minerals (especially iodine, magnesium, and calcium), and vitamins A, C, and E.
-
-## Taxonomy and Morphology
-
-Himanthalia elongata belongs to the family **Himanthaliaceae** within the class **Phaeophyceae** (brown algae). It was first described by (Linnaeus) S.F.Gray in 1821.
-
-The alga has a distinctive two-phase morphology. The basal portion is a small, disc-shaped holdfast approximately 1–2 cm in diameter, commonly called the "button." From this holdfast, two long, flattened, strap-like fronds grow, reaching lengths of 1–3 meters and widths of 1–2 cm.
-
-The fronds are olive-green to dark brown in color and have a smooth, leathery texture. They lack a central midrib but show faint longitudinal grooves. Reproductive structures (receptacles) form at the ends of the fronds as swollen, club-shaped tips during the fertile season (summer to autumn).
-
-Unlike many fucalean algae, Himanthalia has no air bladders or branching structures. The entire photosynthetic surface consists of the two simple straps, which can form dense beds on intertidal and shallow subtidal rocks.
-
-Growth is seasonal, with rapid frond elongation occurring from spring through early autumn. Growth rates can reach 1–2 cm per day during peak summer conditions. Fronds are typically annual, dying back in winter and regenerating from the perennial holdfast each spring.
-
-## Distribution and Habitat
-
-Sea spaghetti is distributed along the northeastern Atlantic coast, from northern Norway and Iceland southward to Morocco and the Canary Islands. It is particularly abundant along the coasts of the British Isles, France, Spain, and Portugal.
-
-The species occurs in the mid-to-lower intertidal zone and extends into the shallow subtidal to depths of approximately 10 meters. It prefers exposed to semi-exposed rocky shores with moderate to strong wave action.
-
-Himanthalia is often found growing alongside other brown algae such as **[[fucus-vesiculosus]]**, **[[fucus-serratus]]**, and **[[laminaria-digitata]]**. It attaches firmly to stable rock substrates and is absent from sandy or muddy bottoms.
+  - Jiménez-Escrig, A. et al. (2012). "Dietary fiber and [[fucus-vesiculosus]]**, **[[laminaria-digitata]]**. It attaches firmly to stable rock substrates and is absent from sandy or muddy bottoms.
 
 ## Nutritional Value
 
 Sea spaghetti is considered one of the most nutritious edible seaweeds in European waters. Its dry matter composition includes approximately 40–55% carbohydrates (mainly dietary fiber), 10–15% protein, and 1–3% lipids.
 
-The mineral content is particularly notable. Per 100 g dry weight, Himanthalia provides significant amounts of iodine (1.5–4 mg), magnesium (600–800 mg), calcium (400–700 mg), potassium (2,000–3,000 mg), and iron (10–30 mg). This makes it an excellent source of [[dynamic-accumulator-plants-trace-minerals]].
-
-The dietary fiber fraction includes alginates, fucoidans, and laminarans — all bioactive polysaccharides with demonstrated prebiotic, antioxidant, and immunomodulatory properties. Vitamin content includes B-group vitamins, vitamin C, vitamin E, and provitamin A (β-carotene).
-
-Compared to land vegetables, sea spaghetti offers a higher mineral-to-calorie ratio. It is naturally low in calories when rehydrated and contains no cholesterol.
-
-The amino acid profile includes all essential amino acids, though some (methionine and cysteine) are present in limiting quantities. This positions Himanthalia as a complementary protein source rather than a primary one.
-
-Lipid content is low but includes omega-3 and omega-6 polyunsaturated [[stable-carbon-isotope-signature-fatty-acids-mycorrhizal-carbon-tracking]], particularly EPA (eicosapentaenoic acid). These contribute to the species' anti-inflammatory profile.
+The mineral content is particularly notable. Per 100 g dry weight, Himanthalia provides significant amounts of iodine (1.5–4 mg), magnesium (600–800 mg), calcium (400–700 mg), potassium (2,000–3,000 mg), and iron (10–30 mg). This makes it an excellent source of [[stable-carbon-isotope-signature-fatty-acids-mycorrhizal-carbon-tracking]], particularly EPA (eicosapentaenoic acid). These contribute to the species' anti-inflammatory profile.
 
 ## Culinary Use
 
@@ -72,18 +35,85 @@ The species has received EU Novel Food approval and is available dried, canned, 
 
 Himanthalia plays an important ecological role on rocky intertidal shores. Its dense frond beds provide habitat and shelter for numerous invertebrates, juvenile fish, and other algae. The holdfasts create micro-refugia for small crustaceans and gastropods.
 
-The species is a primary producer in the intertidal food web, contributing [[hamilton-composting-and-organic-matter-management]] through both direct grazing and detrital pathways. Seasonal frond shedding generates substantial detritus that supports benthic communities.
+The species is a primary producer in the intertidal food web, contributing [[aact-tannins-terpenes-phenolic-compounds-wood-composting-ingham]], particularly phlorotannins, contribute significant antioxidant capacity. These polyphenols scavenge free radicals and reduce [[blesching-cannabis-oxidative-stress-and-antioxidant-defense]] markers in cell culture models. Extracts have shown potential anti-proliferative activity against certain cancer cell lines.
 
-Limpets, periwinkles, and small crustaceans graze directly on the frond surfaces. The alga's production of dimethyl sulfide (DMS) may play a role in cloud formation above coastal areas, contributing to broader climate regulation processes.
+## Overview
 
-Commercial cultivation of Himanthalia is still in early development. Wild harvesting remains the primary source, particularly along the Atlantic coasts of Spain and Ireland. Sustainable harvesting guidelines recommend cutting fronds above the holdfast to allow regeneration.
+Himanthalia Elongata represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
 
-Aquaculture trials using rope-seeded cultivation have shown promising results in Spain and France. Growth rates are moderate, with harvestable fronds produced in 6–12 months under favorable conditions.
+## Key Characteristics
 
-## Bioactive Compounds and Health Research
+Several defining characteristics distinguish himanthalia elongata
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
 
-Several bioactive compounds isolated from Himanthalia elongata have attracted research interest for their potential health benefits. **Fucoidans** — sulfated polysaccharides unique to brown algae — are the most studied class, exhibiting antioxidant, anticoagulant, antiviral, and anti-inflammatory activities in vitro.
+## Ecological Context
 
-Alginates from sea spaghetti have demonstrated cholesterol-lowering effects in animal studies by binding bile acids in the digestive tract. The high soluble fiber content also supports glycemic regulation, making it relevant for metabolic health research.
+The ecological relationships involving himanthalia extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
 
-[[aact-tannins-terpenes-phenolic-compounds-wood-composting-ingham]], particularly phlorotannins, contribute significant antioxidant capacity. These polyphenols scavenge free radicals and reduce [[blesching-cannabis-oxidative-stress-and-antioxidant-defense]] markers in cell culture models. Extracts have shown potential anti-proliferative activity against certain cancer cell lines.
+## Practical Applications
+
+Himanthalia Elongata finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for himanthalia elongata. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+himanthalia elongata and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Himanthalia Elongata has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of himanthalia elongata into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[virola-elongata]]

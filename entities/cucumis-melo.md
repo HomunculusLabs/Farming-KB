@@ -25,8 +25,7 @@ cultivated for its sweet, fleshy fruit. Commonly known as melon, the species
 encompasses a diverse group of cultivars including cantaloupe, honeydew,
 muskmelon, and casaba.
 
-Melon is one of the most important global [[uncommon-specialty-fruit-crops-for-permaculture]], with annual production
-exceeding 30 million tonnes. China, Turkey, Iran, and the [[dmt-containing-plants-united-states-halpern]] are the
+Melon is one of the most important global [[dmt-containing-plants-united-states-halpern]] are the
 leading producers.
 
 The species originated in Africa or Southwest Asia and has been cultivated for
@@ -62,14 +61,7 @@ contains numerous seeds enclosed in a gelatinous placental tissue.
 ## Distribution and Habitat
 
 Wild progenitors of *C. melo* are found in Africa, particularly the Sahel and
-[[comparison-cavendish-vs-east-african-highland-bananas]] regions, where *C. melo* subsp. *agrestis* grows as a weed in
-disturbed habitats.
-
-Cultivation spread from Africa to the Mediterranean, Middle East, and India by
-antiquity. Evidence of melon cultivation dates to ancient Egypt (circa 2000
-BCE) and was documented by Greek and Roman writers.
-
-The species is now grown in tropical, subtropical, and [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]]
+[[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]]
 worldwide between 40°N and 40°S latitude. It requires warm growing conditions
 with a frost-free period of 90–120 days.
 
@@ -84,7 +76,5 @@ trays. Seeds germinate in 3–10 days at soil temperatures above 20°C.
 
 Spacing varies by cultivar and training method: 0.5–1.0 m within rows and
 1.5–2.5 m between rows for bush types; wider spacing for vining types.
-Trellising improves [[stamets-growing-room-air-circulation-co2-management]] and reduces disease pressure.
-
-The crop requires 90–130 days from [[query-how-do-i-grow-garlic-organically-from-planting-to-harvest]] depending on cultivar
+Trellising improves [[query-how-do-i-grow-garlic-organically-from-planting-to-harvest]] depending on cultivar
 and growing conditions. Fruit maturity is indicated by aroma development,

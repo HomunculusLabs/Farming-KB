@@ -15,39 +15,7 @@ sources:
 
 Spirulina (*Arthrospira platensis* and *Arthrospira maxima*) is a filamentous cyanobacterium that has been consumed as food for centuries — from the Aztecs harvesting it from Lake Texcoco to the Kanembu people of Chad who have gathered *dihe* from Lake Chad for over a thousand years. Today, spirulina is one of the most commercially significant microalgae, prized for its exceptional nutritional density, rapid growth rate, and relatively straightforward cultivation requirements.
 
-This page covers the biology, [[synthetic-log-cultivation-methods-guide]], harvesting, processing, and integration of spirulina and other microalgae into permaculture and homesteading systems.
-
-## What Is Spirulina?
-
-Despite being commonly called a blue-green alga, spirulina is a cyanobacterium — a photosynthetic prokaryote. It forms multicellular filaments (trichomes) that coil into distinctive helical spirals, giving it its name. It thrives in highly alkaline environments (pH 8.5–11) where few competing organisms can survive, making open-pond cultivation relatively contamination-resistant.
-
-### Nutritional Profile
-
-Spirulina is one of the most nutrient-dense foods on Earth:
-
-| Component | Per 100g Dry Weight | Notes |
-|---|---|---|
-| Protein | 55–70 g | Complete protein with all essential amino acids |
-| Carbohydrates | 15–25 g | Primarily glycogen and rhamnose |
-| Lipids | 6–8 g | Rich in gamma-linolenic acid (GLA) |
-| Phycocyanin | 10–15 g | Potent antioxidant, blue pigment |
-| Beta-carotene | 1,700–3,400 mcg | Provitamin A |
-| Vitamin B12 | 0.5–2.5 mcg | Mostly pseudovitamin B12; bioavailability debated |
-| Iron | 28–150 mg | Non-heme iron |
-| Calcium | 120–1,200 mg | Variable by strain and medium |
-| Magnesium | 190–390 mg | |
-| Phycocyanin | Unique | Anti-inflammatory, hepatoprotective |
-
-Spirulina contains 18 amino acids including all 9 essential ones, with particularly high levels of leucine, valine, and isoleucine. Its protein digestibility is rated at 83–90%, comparable to meat.
-
-## History of Human Use
-
-- **Pre-Columbian era**: Aztecs harvested *tecuitlatl* from Lake Texcoco in the Valley of Mexico, drying it into cakes for trade and consumption.
-- **Chad, West Africa**: Kanembu people harvest *dihe* from Lake Chad and smaller alkaline lakes, sun-drying and mixing it into sauces. Annual harvest is estimated at 40 tonnes.
-- **1940**: French phycologist Dangeard identified the dihe organism as a filamentous cyanobacterium.
-- **1967**: The International Association of Applied Microbiology declared spirulina "the best food for tomorrow" at their meeting in Paris.
-- **1974**: UN World Food Conference named spirulina the "ideal food for mankind."
-- **1980s–present**: Commercial cultivation expanded globally, with major production in China, India, the [[dmt-containing-plants-united-states-halpern]], and Myanmar.
+This page covers the biology, [[dmt-containing-plants-united-states-halpern]], and Myanmar.
 
 ## Cultivation Methods
 
@@ -77,11 +45,7 @@ The most common and economical method for spirulina production, used by both com
 
 ### 2. Closed Photobioreactors (PBRs)
 
-Tubular, flat-panel, or bag systems that enclose the culture, allowing precise [[eclss-environmental-control-life-support]].
-
-**Types**:
-- **Tubular PBRs**: Transparent tubes (horizontal, vertical, or helical) with pump circulation. Surface area 50–200 m² typical.
-- **Flat-panel PBRs**: Thin rectangular chambers (2–5 cm thick) with high surface-to-volume ratio. [[query-best-light-schedule-for-cannabis]] penetration.
+Tubular, flat-panel, or bag systems that enclose the culture, allowing precise [[query-best-light-schedule-for-cannabis]] penetration.
 - **Vertical bag/column systems**: Suspended polyethylene bags, common for lab-scale and nursery cultures.
 
 **Advantages**:
@@ -137,13 +101,6 @@ For home cultivators, a simplified medium using readily available ingredients:
 
 - **Baking soda** (sodium bicarbonate): 16 g/L
 - **Washing soda** (sodium carbonate): 4 g/L (or make by heating baking soda at 200°C for 1 hour)
-- **[[jadam-sea-salt-and-mineral-solutions]]**: 1 g/L (provides trace minerals)
-- **Potassium nitrate** (saltpeter): 2 g/L
-## See Also
-
-- duckweed-and-azolla-as-livestock-feed-and-biofertilizer — other micro-aquatic protein sources
-- [[aquaponics-and-backyard-aquaculture]] — integrating spirulina into aquaculture systems
-- [[black-soldier-fly-farming-and-insect-protein]] — complementary protein production
+- **[[aquaponics-and-backyard-aquaculture]] — integrating spirulina into aquaculture systems
 - [[biogas-digesters-and-anaerobic-digestion-systems]] — nutrient recycling for spirulina medium
-- [[composting-and-soil-biology]] — disposing of spent culture
 - [[off-grid-energy-and-homestead-infrastructure]] — energy considerations for cultivation

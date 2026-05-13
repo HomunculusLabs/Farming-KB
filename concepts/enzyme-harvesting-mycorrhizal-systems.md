@@ -21,63 +21,15 @@ industrial enzymes, and bioremediation cocktails.
 
 ## The Enzymatic Arsenal of Fungi
 
-Fungi produce and secrete many types of [[fungal-extracellular-enzymes]],
-including [[fungal-lignin-peroxidase-veratryl-alcohol]], [[fungal-manganese-peroxidase-remediation]], laccases,
-amylases, and cellulases. These enzymes function as "chemical
-scissors" that cleave the bonds of large molecules such as lignin
-embedded in woody plant tissue. As the mushroom's enzymes break
-down its [[cervantes-rockwool-growing-substrate]], smaller essential chemical units
-including carbon, organic nitrogen, minerals, [[teaming-with-nutrients-micronutrients-and-trace-elements]]
-are released and transported through the fungal cell walls.
-
-Fungi vary in their ability to produce cellulases, ligninases,
-peroxidases, and laccases, all used in combination to decompose
-woody plant material: primarily lignin, cellulose, and
-hemicellulose. White rot species are highly effective at breaking
-down lignin and complex polymers architecturally similar to lignin,
-including many [[singh-fungal-degradation-of-chlorinated-compounds]]. Brown rot fungi tend to be
+Fungi produce and secrete many types of [[fungal-lignin-peroxidase-veratryl-alcohol]], [[cervantes-rockwool-growing-substrate]], smaller essential chemical units
+including carbon, organic nitrogen, minerals, [[singh-fungal-degradation-of-chlorinated-compounds]]. Brown rot fungi tend to be
 more aggressive in breaking down cellulose.
 
 ## Eliciting Novel Metabolites from Fungal Biomass
 
-Understanding that fungi retool [[ligninolytic-enzyme-production-bioremediation]] in response to
-[[fungal-fruiting-body-formation-environmental-triggers]], researchers can construct enzyme
+Understanding that fungi retool [[fungal-fruiting-body-formation-environmental-triggers]], researchers can construct enzyme
 production units. The process begins with simple laboratory plating
-techniques: positioning a wedge of [[antimicrobial-compounds-mushroom-mycelium]] near a
-specific bacterium and observing their interaction over hours to
-days. Organisms that prevent linear growth of another may diffuse
-an inhibitive substance, creating a zone of inhibition. Others
-manufacture defensive metabolites specific to biological threats.
-
-## The Block Culture Method for Metabolite Production
-
-Fungi exhibiting strong metabolic responses can be cultured in
-larger volumes on substrate blocks enclosed in plastic bags. Once
-the fungus has fully colonized its substrate, form a small
-depression or well on the upper surface using your hands or a
-rounded spoon, without opening the bag.
-
-If the bag is too inflated, wipe the surface with 70 percent
-isopropyl alcohol, poke a small hole at a laminar flow hood, press
-to partially deflate, and seal the hole. Allow the bag to
-incubate further until the well seals over with a thick mat of
-mycelium. Because the chitinous mycelium is hydrophobic to any
-substance other than pure water, it will prevent solutions from
-leaching into the substrate body, functioning like a pond liner.
-
-## Dosing and Harvesting Protocol
-
-Dose the block's well with the contaminant of interest. This
-triggers the fungus to manufacture large volumes of metabolites
-along the sides of the bag, away from the contaminant. These
-metabolites can then be harvested with a sterile syringe. In
-experiments with Fomes fomentarius (iceman polypore), dosing with
-E. coli produced over 100 ml of metabolite-rich fluid per block
-within a few days.
-
-## Tabletop Filtration Units for Enzyme Capture
-
-A tabletop [[tabletop-mycofiltration-unit-construction]] can serve double duty as an enzyme
+techniques: positioning a wedge of [[tabletop-mycofiltration-unit-construction]] can serve double duty as an enzyme
 harvesting system. The three-tiered plastic module with a
 recirculating water filter costs approximately $30 to build. To
 convert it for enzyme harvesting, insert small sterile, open-ended
@@ -118,8 +70,81 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[fomes-fomentarius]]
 - [[laccase]]
-- [[mycofiltration]]
 - [[isopropyl-alcohol]]
 - [[mycelium]]
+
+## Overview
+
+Enzyme Harvesting Mycorrhizal Systems represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish enzyme harvesting mycorrhizal systems
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving enzyme extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Enzyme Harvesting Mycorrhizal Systems finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for enzyme harvesting mycorrhizal systems. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+enzyme harvesting mycorrhizal systems and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Enzyme Harvesting Mycorrhizal Systems has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of enzyme harvesting mycorrhizal systems into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and

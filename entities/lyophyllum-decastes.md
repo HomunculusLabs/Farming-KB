@@ -31,7 +31,7 @@ sources:
 
 *Lyophyllum decastes* (Fr.) Singer is an edible agaric mushroom in the family Lyophyllaceae, widely distributed across temperate regions of the Northern Hemisphere. It is known for growing in dense clustered troops on disturbed ground, earning the common name "Fried Chicken Mushroom" for its texture and flavor when cooked.
 
-The species is a facultative saprotroph that also forms ectomycorrhizal associations, allowing it to colonize both dead organic matter and living tree roots. This dual nutritional strategy contributes to its success in a range of habitats.
+The species is a facultative saprotroph that also forms [[ectomycorrhizal-associations]], allowing it to colonize both dead organic matter and living tree roots. This dual nutritional strategy contributes to its success in a range of habitats.
 
 Despite its excellent edibility and commercial potential, *L. decastes* is underutilized in Western mycophagy compared to Asian countries, where it is commercially cultivated and sold in markets. Its firm texture and mild nutty flavor make it versatile in the kitchen.
 
@@ -71,7 +71,7 @@ Nutritional analysis shows high protein content (approximately 25–30% of dry w
 
 ## Cultivation
 
-Commercial cultivation of *L. decastes* has been developed primarily in Japan and Korea. The species can be grown on [[oyster-mushroom-supplemented-sawdust-blocks]] substrates using methods similar to those for [[query-difference-between-shiitake-and-oyster-mushrooms]] mushroom production.
+Commercial cultivation of *L. decastes* has been developed primarily in Japan and Korea. The species can be grown on [[query-difference-between-shiitake-and-oyster-mushrooms]] mushroom production.
 
 Optimal substrate formulations combine hardwood sawdust (oak or beech) with wheat bran (10–20% dry weight) and calcium carbonate for pH adjustment to 6.0–6.5. Spawn run occurs at 20–22°C over 30–45 days.
 
@@ -83,7 +83,7 @@ Yields of 100–150 g per kg of dry substrate have been reported, though commerc
 
 As a facultative saprotroph and ectomycorrhizal symbiont, *L. decastes* occupies an unusual dual niche among agarics. The mycorrhizal association benefits host trees through enhanced nutrient uptake, particularly phosphorus and nitrogen mobilization from organic matter.
 
-In its saprotrophic mode, the species contributes to leaf [[dighton-pine-needle-litter-decomposition-fungal-succession]] and [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] on the forest floor. The dense [[fungal-mycelial-networks-nutrient-translocation]] formed by clustered growth can significantly accelerate organic matter breakdown in localized patches.
+In its saprotrophic mode, the species contributes to leaf [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] on the forest floor. The dense [[fungal-mycelial-networks-nutrient-translocation]] formed by clustered growth can significantly accelerate organic matter breakdown in localized patches.
 
 The fungus serves as a food source for various forest invertebrates and mammals. Slugs and insects feed on the fruiting bodies, while rodents and deer may consume caps during peak fruiting. Spore dispersal is primarily wind-driven, with the clustered growth habit creating local spore concentration.
 

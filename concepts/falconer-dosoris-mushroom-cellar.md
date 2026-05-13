@@ -3,7 +3,7 @@ title: Falconer Dosoris Mushroom Cellar
 created: 2026-04-28
 tags:
   [
-    [[mushroom-cultivation]],
+    mushroom-cultivation,
     cellar-growing,
     victorian-gardening,
     underground-cultivation,
@@ -20,12 +20,7 @@ type: concept
 
 # The Dosoris Mushroom Cellar
 
-The Dosoris cellar is a purpose-built example of [[falconer-mushroom-spawn-preparation]] for how spawn
-was prepared for such cellars.
-
-The Dosoris cellar is a subterranean tunnel or cellar that
-was excavated and arched some ten years ago, expressly for
-the [[companion-cultivation-of-mushrooms-with-garden-vegetables]]. It is situated in an open,
+The Dosoris cellar is a purpose-built example of [[companion-cultivation-of-mushrooms-with-garden-vegetables]]. It is situated in an open,
 sunny part of the garden, and represents a purpose-built
 approach to falconer-proper-temperature-for-mushrooms, and the
 pipes could not be put where they would do the work any
@@ -70,7 +65,7 @@ apparatus is placed, but at the other end, although it is
 convenient in handling the falconer-mushroom-growing-house-design.
 The falconer-mushroom-bed-construction provides natural insulation
 - Hot water heating is gentler and more effective than
-  [[pellet-stove-heating]] for [[mazatec-mushroom-culture-and-velada]]
+  [[mazatec-mushroom-culture-and-velada]]
 - Proper drainage is essential to prevent wet, unproductive
   areas
 - A single tall ventilating shaft works better than multiple
@@ -118,8 +113,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[dom]]
 - [[falconer-mushroom-cellar-management]]
-- [[falconer-mushroom-cellar-ventilation-and-moisture]]
 - [[falconer-mushroom-spawn-types-and-merits]]
 - [[falconer-mushroom-cultivation-victorian-methods]]

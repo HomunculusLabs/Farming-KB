@@ -1,5 +1,5 @@
 ---
-title: Branching Patterns and Stream Orders
+title: [[branching-patterns-and-fractal-geometry-in-nature]] Stream Orders
 source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
@@ -8,7 +8,7 @@ type: concept
 
 ## Overview
 
-Branching is one of the most pervasive [[patterns-in-nature]], observable in trees, river systems, lungs, kidneys, blood vessels, root systems, lightning strikes, and fungal mycelia. In [[permaculture-design]], understanding the principles of branching enables designers to create efficient pathways, nutrient exchange networks, and access systems that mirror the effectiveness of natural branching structures. The quantitative study of stream orders provides a mathematical framework for understanding how branching systems function at every scale.
+Branching is one of the most pervasive [[permaculture-design]], understanding the principles of branching enables designers to create efficient pathways, [[arbuscule-isolation-and-nutrient-exchange-mechanisms]] networks, and access systems that mirror the effectiveness of [[fukuoka-phyllotaxy-natural-branching-law]] structures. The quantitative study of stream orders provides a mathematical framework for understanding how branching systems function at every scale.
 
 ## Fractal Nature of Branching
 
@@ -117,12 +117,11 @@ This demonstrates that branching order is connected to the behavior of flow, the
 
 As designers, understanding branching patterns is essential for:
 - **Roads and trails**: Applying appropriate branching ratios to avoid conflicts with orderly flow
-- **Settlement design**: Villages are stable at about 1,000 people; systems below or above that may be unstable
-- **Water infrastructure**: Sequences of dam spillways should follow natural branching orders
-- **Social hierarchies**: Functional hierarchies where information passes in both directions work best when they respect natural order ratios
+- **[[cool-climate-house-and-settlement-design]]**: Villages are stable at about 1,000 people; systems below or above that may be unstable
+- **Water infrastructure**: Sequences of [[dam-spillways-and-sealing-leaky-dams]] should follow natural branching orders
+- **Social hierarchies**: Functional hierarchies where information passes in both directions work best when they respect [[fukuoka-natural-order-microbes-scavengers-man-heretic]] ratios
 - **Nutrient exchange networks**: Garden layouts should maximize branching contact between gardener and cultivated elements
 
 ## See Also
-- [[mollison-stream-orders-and-branching-magnitudes]]
 - [[stream-orders-and-branching-hierarchies]]
 - [[fractals-and-branching-patterns]]

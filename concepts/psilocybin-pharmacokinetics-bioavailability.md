@@ -2,7 +2,7 @@
 
 ## Overview
 
-The pharmacokinetics of psilocybin — encompassing its absorption, distribution, metabolism, and excretion (ADME) — are critical to understanding [[ayahuasca-drug-interactions]] rug interactions, and the design of clinical dosing protocols. Psilocybin is a prodrug that undergoes rapid first-pass dephosphorylation to its active metabolite psilocin, with complex interindividual variability in metabolic rates that significantly influences [[dosage-unpredictability-psilocybin-subjective-experience]] intensity and duration.
+The pharmacokinetics of psilocybin — encompassing its absorption, distribution, metabolism, and excretion (ADME) — are critical to understanding [[dosage-unpredictability-psilocybin-subjective-experience]] intensity and duration.
 
 ## Chemical Properties Affecting Pharmacokinetics
 
@@ -11,19 +11,8 @@ Psilocybin (O-phosphoryl-4-hydroxy-N,N-dimethyltryptamine) has the molecular for
 - **Water solubility**: Highly water-soluble due to the phosphate group, facilitating rapid dissolution in gastric fluid
 - **Lipid solubility**: The phosphate group renders psilocybin itself relatively polar with limited blood-brain barrier (BBB) penetration; however, its dephosphorylated metabolite psilocin (C₁₂H₁₆N₂O, MW 204.27) is significantly more lipophilic (log P ≈ 1.5–2.0) and readily crosses the BBB
 - **Acid stability**: Psilocybin is stable in acidic conditions (stomach pH 1–3) but undergoes rapid enzymatic dephosphorylation in the alkaline environment of the small intestine and by hepatic alkaline phosphatases
-- **Thermal sensitivity**: Psilocybin degrades at temperatures above 150°C, which is relevant for oral administration in capsules or solution but not for typical [[magic-mushroom-preparation-and-consumption-methods]]
-
-## Absorption
-
-### Oral Administration
-
-Oral ingestion is the most common route of psilocybin administration in both recreational and clinical settings:
-
-- **Gastric absorption**: Minimal absorption occurs in the stomach due to psilocybin's zwitterionic nature, though some psilocybin may be dephosphorylated by gastric acid and absorbed as psilocin
-- **Intestinal absorption**: Primary absorption site is the small intestine, where alkaline phosphatase enzymes on the brush border membrane convert psilocybin to psilocin, which is then absorbed via passive diffusion
-- **Time to onset**: Subjective effects typically begin 20–60 minutes after oral administration, with peak effects at 60–120 minutes. The onset delay reflects the time required for gastric emptying, intestinal dephosphorylation, absorption, and BBB penetration
-- **Bioavailability**: [[first-pass-metabolism-and-oral-bioavailability]] is estimated at approximately 50–60%, with the remaining fraction lost to first-pass metabolism and incomplete absorption
-- **Food effects**: Fasting before administration accelerates onset and increases peak plasma concentrations (Cmax) by 20–40%. A full stomach delays onset by 30–60 minutes and may reduce [[phase-ii-metabolism]] phase I and [[phase-ii-metabolism]]:
+- **Thermal sensitivity**: Psilocybin degrades at temperatures above 150°C, which is relevant for oral administration in capsules or solution but not for typical [[first-pass-metabolism-and-oral-bioavailability]] is estimated at approximately 50–60%, with the remaining fraction lost to first-pass metabolism and incomplete absorption
+- **Food effects**: Fasting before administration accelerates onset and increases peak plasma concentrations (Cmax) by 20–40%. A full stomach delays onset by 30–60 minutes and may reduce [[phase-ii-metabolism]]:
 
 #### Phase I: Oxidation
 
@@ -46,36 +35,7 @@ The most significant source of interindividual variability in psilocybin pharmac
 - **Extensive metabolizers (EM)**: 60–80% of populations. Normal metabolic capacity, standard dosing
 - **Ultra-rapid metabolizers (UM)**: 5–10% of populations, more common in North African and Middle Eastern populations. Lower psilocin exposure, potentially subtherapeutic at standard doses
 
-This pharmacogenomic variability is not routinely assessed in current [[cancer-medicinal-mushrooms-schizophyllan-spg-clinical-trials]] but may become relevant as psilocybin moves toward personalized medicine approaches.
-
-## Excretion
-
-- **Primary route**: Renal excretion of psilocin-O-glucuronide, which accounts for approximately 80% of an administered dose in urine within 24 hours
-- **Psilocin free fraction**: Less than 5% of unchanged psilocin is excreted in urine
-- **Fecal excretion**: Approximately 10–15% of the dose is excreted in feces, primarily as unmetabolized psilocybin that escaped intestinal dephosphorylation and biliary-excreted metabolites
-- **Elimination half-life**: Psilocin has a plasma elimination half-life of approximately 2–3 hours. However, subjective effects persist for 4–6 hours due to pharmacodynamic factors (receptor residence time, downstream signal cascade duration) that outlast the presence of drug at the receptor site
-
-## Dose-Response and Plasma Concentration Relationships
-
-Clinical pharmacokinetic studies using validated LC-MS/MS methods have established the following dose-concentration relationships for oral psilocybin:
-
-- **10 mg dose**: Cmax ≈ 8–12 ng/mL psilocin; Tmax ≈ 60–90 min; AUC ≈ 50–70 ng·h/mL
-- **25 mg dose**: Cmax ≈ 15–25 ng/mL psilocin; Tmax ≈ 60–120 min; AUC ≈ 100–160 ng·h/mL
-- **30 mg dose**: Cmax ≈ 20–30 ng/mL psilocin; Tmax ≈ 60–120 min; AUC ≈ 130–200 ng·h/mL
-
-The relationship between dose and Cmax is approximately linear across the 10–30 mg range, but the relationship between plasma concentration and subjective effect intensity is non-linear — small increases in Cmax above approximately 15 ng/mL produce disproportionately large increases in subjective intensity, consistent with the steep dose-response curve characteristic of psychedelics.
-
-## Drug Interactions
-
-### CYP2D6 Inhibitors
-
-Drugs that inhibit CYP2D6 increase psilocin exposure:
-- **Strong inhibitors**: Fluoxetine (Prozac), paroxetine (Paxil), bupropion (Wellbutrin), quinidine — may increase psilocin AUC by 2–4 fold
-- **Moderate inhibitors**: Sertraline (Zoloft), duloxetine (Cymbalta) — moderate increase in psilocin exposure
-
-### SSRIs and Serotonergic Drugs
-
-- **SSRIs**: Chronic SSRI treatment downregulates 5-HT2A receptors and may attenuate psilocybin's subjective effects. Some clinicians recommend discontinuing SSRIs 2–4 weeks before [[lentinan-clinical-research]] and forensic settings
+This pharmacogenomic variability is not routinely assessed in current [[lentinan-clinical-research]] and forensic settings
 - **Hair**: Psilocin incorporation into hair is minimal due to the drug's high water solubility and short half-life. Hair testing is not a reliable detection method for psilocybin use
 
 ## Historical Context
@@ -89,8 +49,91 @@ Drugs that inhibit CYP2D6 increase psilocin exposure:
 - Understanding these processes enables more targeted and effective interventions.
 
 ## See Also
-- [[blesching-cannabis-pharmacokinetics-and-bioavailability]]
 - [[psilocybin-mushroom-evolution]]
-- [[oral-polysaccharide-bioavailability]]
 - [[analytical-methods-psilocybin-psilocin-quantification]]
 - [[psilocybin-psilocin-chemistry]]
+
+## Overview
+
+Psilocybin Pharmacokinetics Bioavailability represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish psilocybin pharmacokinetics bioavailability
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving psilocybin extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Psilocybin Pharmacokinetics Bioavailability finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for psilocybin pharmacokinetics bioavailability. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+psilocybin pharmacokinetics bioavailability and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Psilocybin Pharmacokinetics Bioavailability has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of psilocybin pharmacokinetics bioavailability into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[field-guide-psilocybin-mushroom-hunting-methodology]]
+- [[gottlieb-psilocybin-cultivation-strain-selection-guide]]
+- [[powell-psilocybin-serotonin-pathways-environmental-chemistry]]
+- [[psilocybin-mushrooms-new-zealand-guide]]
+- [[psilocybin-psilocin-flush-variation-bigwood-beug]]

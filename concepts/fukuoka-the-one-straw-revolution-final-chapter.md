@@ -20,14 +20,7 @@ Fukuoka describes washing citrus boxes by the river, struck by wonder at the une
 
 "The world used to be simple... But from the time people undertook to explain this one drop of dew scientifically, they trapped themselves in the endless hell of the intellect."
 
-The chapter title "Drifting Clouds" itself is significant: clouds do not try to go anywhere, they do not follow optimal paths, they do not calculate trajectories. They simply drift, and in drifting, they water the earth. Fukuoka sees in this image the essence of [[comparison-natural-farming-vs-permaculture]] and natural living alike. The farmer who spreads straw and scatters seed without ploughing is like a drifting cloud -- moving without force, accomplishing without striving. This is not laziness but a fundamentally different mode of action that Fukuoka calls "non-active" (mu in Japanese). It is the state described in the Dao De Jing: "The Way does nothing, yet nothing is left undone." For Fukuoka, this is not mystical abstraction but practical agricultural reality, demonstrated every harvest on his farm.
-
-### Critique of Technology
-- Water mills replaced stone grinders, then hydroelectric mills -- but white rice removes the germ and bran, the basis of good health
-- "The water wheel and the milling factory are doing the work of the stomach and intestines, and their consequence is to make these organs lazy"
-- Fossil fuels follow a longer path than burning local wood
-- Nuclear energy: "after a nuclear fire has burned, the radioactive waste remains dangerous for many thousands of years"
-- [[fukuoka-critique-scientific-agriculture-civilization]] creates conditions where chemicals become necessary; natural farming produces comparable harvests at a fraction of the investment
+The chapter title "Drifting Clouds" itself is significant: clouds do not try to go anywhere, they do not follow optimal paths, they do not calculate trajectories. They simply drift, and in drifting, they water the earth. Fukuoka sees in this image the essence of [[fukuoka-critique-scientific-agriculture-civilization]] creates conditions where chemicals become necessary; natural farming produces comparable harvests at a fraction of the investment
 
 Fukuoka's critique extends beyond individual technologies to the entire trajectory of civilisational development. He observes that each technological "advance" creates new dependencies and new problems that require further technological solutions, producing an escalating cycle of intervention. Pesticides breed resistant pests, which require stronger pesticides. Fertilisers degrade soil biology, which requires more fertilisers to maintain yields. Medical interventions weaken natural immunity, which requires more interventions. This pattern -- which modern systems theorists call "problem displacement" -- was recognised by Fukuoka through direct observation of farming systems decades before it became a topic of academic study. He saw clearly that the question is never whether a technology "works" in isolation, but whether it strengthens or weakens the self-regulating capacity of the living systems it affects.
 
@@ -79,13 +72,8 @@ The word "revolution" here carries deliberate ambiguity. It is not a political r
 
 For Fukuoka, the straw is not merely a farming technique but a symbol of the proper relationship between humanity and nature. One strand of straw -- seemingly worthless, easily overlooked -- contains within it the principle of returning to nature. The "revolution" is not political but perceptual: a shift from seeing nature as raw material to be processed into seeing nature as a whole to which humans belong. This connects directly to mollison-how-much-land-for-self-sufficiency.
 
-The quarter-acre model carries profound implications for how societies organise themselves. If each household can produce a significant portion of its own food with minimal external inputs, the rationale for large-scale industrial agriculture, global food supply chains, and the chemical industries that support them begins to collapse. Fukuoka envisions a landscape of countless small, self-sufficient cells rather than a few massive monocultures. This decentralisation extends beyond food production to encompass a whole way of life: [[query-how-do-i-choose-a-natural-building-method-for-my-climate]], local economies, and communities rooted in place. The quarter-acre farm is not a retreat from the world but an alternative foundation for civilisation -- one that Fukuoka believed was more resilient, more humane, and more aligned with ecological reality than the fossil-fuel-dependent systems it would replace.
-
-## The Natural Farm as Metaphor
-
-Fukuoka's final message is that natural farming is not merely an agricultural technique but a way of perceiving reality. The quarter-acre farm becomes a laboratory for understanding humanity's proper relationship with the natural world. When farming is done "naturally," the boundaries between farmer and field, between human effort and natural process, begin to dissolve. This philosophical dimension -- agriculture as spiritual practice -- distinguishes Fukuoka's work from purely technical approaches to sustainable agriculture and connects it to broader traditions of contemplative ecology. His influence can be seen in the [[fukuoka-do-nothing-farming-and-spiritual-life]] -- earlier philosophical chapters
+The quarter-acre model carries profound implications for how societies organise themselves. If each household can produce a significant portion of its own food with minimal external inputs, the rationale for large-scale industrial agriculture, global food supply chains, and the chemical industries that support them begins to collapse. Fukuoka envisions a landscape of countless small, self-sufficient cells rather than a few massive monocultures. This decentralisation extends beyond food production to encompass a whole way of life: [[fukuoka-do-nothing-farming-and-spiritual-life]] -- earlier philosophical chapters
 - mollison-soil-improvement-and-rehabilitation -- Mollison's no-till methods building on Fukuoka
-- [[fukuoka-rice-barley-dual-culture]] -- the practical method
 - [[fukuoka-desert-reclamation-projects]] -- the greenbelt movement
 
 ## Practical Applications
@@ -117,8 +105,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[doc]]
 - [[irrigation-systems]]
-- [[dom]]
 - [[composting]]
 - [[permaculture]]

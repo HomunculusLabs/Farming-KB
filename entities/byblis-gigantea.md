@@ -20,9 +20,7 @@ sources:
 
 Unlike the flypaper mechanism of butterworts and sundews, Byblis employs a passive trapping system where insects become mired in sticky secretions but are not actively digested by the plant itself. Instead, secondary carnivory through symbiotic insects plays a key role in nutrient acquisition.
 
-The common name "rainbow plant" derives from the iridescent appearance of the mucilage-covered leaves when viewed in direct sunlight. The refractive properties of the sticky droplets produce a prismatic rainbow effect across the [[bloomfield-rust-germ-tube-tactile-sensing-leaf-surface-navigation]].
-
-B. gigantea is the most robust and long-lived species in the genus, with well-established plants persisting for many years under appropriate conditions. Smaller annual Byblis species complete their life cycle within a single [[savory-growing-season-and-non-growing-season-management]].
+The common name "rainbow plant" derives from the iridescent appearance of the mucilage-covered leaves when viewed in direct sunlight. The refractive properties of the sticky droplets produce a prismatic rainbow effect across the [[savory-growing-season-and-non-growing-season-management]].
 
 ## Taxonomy and Morphology
 
@@ -50,7 +48,7 @@ The species experiences a Mediterranean-type climate with hot, dry summers and c
 
 Annual precipitation in the species' range varies from 400 to 800 mm, almost entirely falling between April and October. This strongly seasonal rainfall pattern drives the plant's growth cycle and dormancy timing.
 
-Typical companion species include other Western Australian carnivorous plants such as Drosera species, Utricularia species, and Cephalotus follicularis. The carnivorous plant communities of southwestern Australia are among the most diverse in the world.
+Typical companion species include other Western Australian carnivorous plants such as Drosera species, Utricularia species, and [[cephalotus-follicularis]]. The carnivorous plant communities of southwestern Australia are among the most diverse in the world.
 
 The region supporting B. gigantea is part of the Southwest Australian Floristic Region, one of the world's 36 biodiversity hotspots. This area has experienced significant habitat loss, with over 70% of native vegetation cleared for agriculture and urban development.
 
@@ -80,9 +78,7 @@ The species demands strong light and will etiolate rapidly under insufficient il
 
 Seed germination is notoriously difficult and typically requires smoke treatment to simulate the effect of bushfires, which is a common germination trigger for many Western Australian plants. Chemical smoke water or smoked vermiculite are standard pretreatments.
 
-The species is susceptible to root rot if kept too wet during dormancy, and to [[blesching-cannabis-fungal-infections-candida]] if humidity is too high during active growth. Most successful cultivation occurs in greenhouse environments where conditions can be carefully controlled.
-
-Cuttings are difficult to root but may succeed with bottom heat and rooting hormone. Grafting onto related Byblis species has been attempted with limited success. Division of established rootstocks is the most reliable vegetative propagation method. Seed from [[cannabis-controlled-pollination-seed-production]] produces the most genetically diverse offspring, though it requires patience as seedlings grow slowly during their first year.
+The species is susceptible to root rot if kept too wet during dormancy, and to [[cannabis-controlled-pollination-seed-production]] produces the most genetically diverse offspring, though it requires patience as seedlings grow slowly during their first year.
 
 ## Conservation
 

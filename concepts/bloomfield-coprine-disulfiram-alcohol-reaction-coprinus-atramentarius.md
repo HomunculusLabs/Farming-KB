@@ -2,50 +2,7 @@
 title: Coprine, Disulfiram, and the bloomfield coprine disulfiram alcohol reaction coprinus atramentarius of Coprinus atramentarius
 created: 2026-04-28
 tags:
-  - [[mycology]]
-  - mycotoxicology
-  - coprine
-  - disulfiram
-  - alcohol-reaction
-  - coprinus-atramentarius
-  - acetaldehyde
-  - antabuse
-  - mushroom-poisoning
-date: 2026-04-28
-updated: 2026-04-28
-sources:
-  - Mr. Bloomfield's Orchard: The Mysterious World of Mushrooms, Molds, and Mycologists (Nicholas P. Money, 2002)
-type: concept
----
-
-# Coprine, Disulfiram, and the Alcohol Reaction
-
-## Overview
-
-Coprine is a mycotoxin produced by the common inkcap mushroom,
-Coprinus atramentarius, that causes severe reactions when the
-mushroom is consumed with alcohol. The toxin blocks the metabolism
-of acetaldehyde, an intermediate product of ethanol breakdown,
-causing it to accumulate to toxic levels. The resulting syndrome
-is clinically identical to the disulfiram-ethanol reaction produced
-by Antabuse, used for decades to treat alcoholism. As with the
-toxins of [[amanita]] species, [[medicinal-mushroom-compounds-and-health-benefits]] like coprine were
-not designed for human use, and we have no idea what service, if
-any, they perform for the fungus.
-
-## The Inkcap Mushrooms
-
-In the fall, [[bloomfield-asterophora-and-mycoparasites-of-fruiting-bodies]] of the lawyer's wig, [[stamets-cultivator-coprinus-comatus-shaggy-mane-cultivation]],
-emerge from wet lawns as white spindles with rounded tips, extend to
-six inches or more, and unfurl their caps before dissolving
-(deliquescing) into black slime. Picked before they begin to
-blacken, they are quite tasty, but caution is advised. Fruiting
-bodies of a related species, Coprinus atramentarius, look similar
-but contain a toxin called coprine. The genus Coprinus belongs to
-the family Coprinaceae within the Agaricales, and its members are
-commonly known as inkcaps because the gills of mature fruiting
-bodies liquefy into a dark, ink-like fluid containing the spores.
-This autodigestion serves as a [[aquatic-fungi-spore-dispersal-ingold]] mechanism: as the
+  - [[amanita]] species, [[bloomfield-asterophora-and-mycoparasites-of-fruiting-bodies]] of the lawyer's wig, [[aquatic-fungi-spore-dispersal-ingold]] mechanism: as the
 gills dissolve from the bottom upward, progressively shorter gills
 continuously expose new surfaces bearing immature spores, allowing
 the mushroom to release spores over an extended period. Coprinus
@@ -67,59 +24,91 @@ stages:
 Coprine blocks the second stage, inhibiting ALDH. When this enzyme
 is blocked, acetaldehyde accumulates to toxic levels. Acetaldehyde
 is itself responsible for many hangover symptoms, and its
-uncontrolled buildup produces [[emcdda-hallucinogenic-mushroom-acute-toxicity-medical-management]]. The molecular details
-involve coprine's conversion to 1-aminocyclopropanol, the actual
-ALDH inhibitor.
+uncontrolled buildup produces [[det]]
+- [[ethanol]]
+- [[bloomfield-coprinus-ink-caps-deliquescence-coprine]]
 
-## Symptoms
+## Overview
 
-If alcohol is consumed when Coprinus atramentarius has been eaten,
-symptoms include:
+Bloomfield Coprine Disulfiram Alcohol Reaction Coprinus Atramentarius represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
 
-- Tingling and numbness in the arms and legs
-- Nausea and vomiting
-- Palpitations and a racing heart
-- Flushing of the face and neck
-- Throbbing headache and difficulty breathing
-- A sense of impending doom or anxiety
+## Key Characteristics
 
-These symptoms are identical to those experienced by someone taking
-disulfiram (Antabuse). For some alcoholics, disulfiram is the only
-thing sufficiently powerful to subvert their relentless addiction,
-which provides a hint of the ghastliness of coprine intoxication.
-Onset typically occurs within fifteen to thirty minutes of alcohol
+Several defining characteristics distinguish bloomfield coprine disulfiram alcohol reaction coprinus atramentarius
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving bloomfield extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
 
 ## Practical Applications
 
-The principles and techniques discussed here have wide-ranging applications
-across multiple disciplines and contexts. Practitioners and researchers
-continue to explore new ways to integrate these concepts into modern practice,
-adapting traditional knowledge to contemporary challenges and opportunities.
+Bloomfield Coprine Disulfiram Alcohol Reaction Coprinus Atramentarius finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
 
-## Key Considerations
+## Management and Implementation
 
-Several important factors influence the effectiveness and outcomes described
-in this topic. Understanding these considerations helps practitioners make
-informed decisions and avoid common pitfalls. Environmental conditions,
-timing, and material selection all play critical roles.
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for bloomfield coprine disulfiram alcohol reaction coprinus atramentarius. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+bloomfield coprine disulfiram alcohol reaction coprinus atramentarius and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
 
 ## Historical Context
 
-The historical development of this subject reflects centuries of accumulated
-knowledge and practical experience. From traditional methods passed down
-through generations to modern scientific approaches, the evolution continues
-to inform current best practices and research directions.
+Bloomfield Coprine Disulfiram Alcohol Reaction Coprinus Atramentarius has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
 
-## Common Challenges
+## Integration Strategies
 
-Practitioners frequently encounter several challenges when working with
-these concepts. Climate variability, resource limitations, and knowledge
-gaps can all affect outcomes. Addressing these challenges requires patience,
-observation, and a willingness to adapt approaches based on results.
+Successful integration of bloomfield coprine disulfiram alcohol reaction coprinus atramentarius into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
 
 ## See Also
-- [[det]]
-- [[spore]]
-- [[ethanol]]
-- [[amanita]]
-- [[bloomfield-coprinus-ink-caps-deliquescence-coprine]]
+
+- [[bloomfield-birds-nest-fungi-peridiole-splash-herbivore-dispersal]]
+- [[bloomfield-fly-agaric-amanita-muscaria-muscimol-ibotenic-acid-hallucinogens]]
+- [[bloomfield-fungal-reproduction-and-chemical-communication]]
+- [[bloomfield-mushroom-evaporative-cooling-fungal-frigidity]]
+- [[bloomfield-mushroom-fossils-cretaceous-amber]]

@@ -18,10 +18,7 @@ type: concept
 
 ## Overview
 
-The growth sequence of [[fruiting-body-development]]. Growth and
-differentiation are continuous processes where each stage merges into the
-next. Several distinct morphological stages are recognizable in typical
-G. frondosa strains during [[comparison-fruiting-body-vs-mycelium-extracts-medicinal-mushrooms]] development.
+The growth sequence of [[comparison-fruiting-body-vs-mycelium-extracts-medicinal-mushrooms]] development.
 
 ## Spawn Run (Vegetative Mycelial Phase)
 
@@ -86,8 +83,5 @@ As the mushroom continues to grow, overlapping fan-shaped caps develop
 along the elongated stems, creating the cluster flower stage. The
 mushroom color becomes progressively lighter during the intricate
 morphogenesis from the dark grayish-black primordia. Depending on the
-strain, [[medicinal-mushroom-compound-extraction]] [[maitake-grifola-frondosa-comprehensive-profile]] (Maitake). International
-Journal of [[comparison-chaga-vs-turkey-tail-medicinal-mushrooms-comprehensive]], Vol. 1, pp. 153-167.
-
-## See Also
-- [[maitake-cultivation]]
+strain, [[maitake-grifola-frondosa-comprehensive-profile]] (Maitake). International
+Journal of [[maitake-cultivation]]

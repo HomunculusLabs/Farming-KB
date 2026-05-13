@@ -22,17 +22,9 @@ This comparison examines their degradation mechanisms, target pollutants, practi
 
 ## Brown Rot Fungi
 
-For a comprehensive overview of brown rot fungi in environmental cleanup, see [[white-rot-fungi]].
+For a comprehensive overview of brown rot fungi in environmental cleanup, see [[fungal-manganese-peroxidase-remediation]] (MnP), [[phanerochaete-chrysosporium]]. Laccase, a multicopper oxidase, functions under less extreme nutrient conditions and oxidizes phenolic substrates while also targeting non-phenolic compounds through mediator molecules such as 1-hydroxybenzotriazole (HBT) and 2,2,6,6-tetramethylpiperidine-1-oxyl (TEMPO). This dual regulatory system allows white rot fungi to adapt their enzymatic output to different environmental conditions.
 
-White rot fungi are the most powerful biological decomposers of lignin known to science. They produce an array of lignin-modifying enzymes including lignin peroxidase (LiP), [[fungal-manganese-peroxidase-remediation]] (MnP), [[singh-versatile-peroxidase-vp-multifunctional]] (VP), and laccase. These enzymes work in concert to cleave carbon-carbon bonds and ether linkages within the lignin polymer through oxidative mechanisms, a biochemical feat almost no other organisms can accomplish.
-
-The ligninolytic enzyme system is regulated by nutrient limitation, particularly nitrogen starvation, which triggers expression of LiP and MnP genes in species like [[phanerochaete-chrysosporium]]. Laccase, a multicopper oxidase, functions under less extreme nutrient conditions and oxidizes phenolic substrates while also targeting non-phenolic compounds through mediator molecules such as 1-hydroxybenzotriazole (HBT) and 2,2,6,6-tetramethylpiperidine-1-oxyl (TEMPO). This dual regulatory system allows white rot fungi to adapt their enzymatic output to different environmental conditions.
-
-This enzymatic versatility underpins white rot fungi's broad-spectrum pollutant-degrading capabilities. White rot fungi have been successfully applied against polychlorinated biphenyls (PCBs), [[singh-fungal-biodegradation-of-polycyclic-aromatic-hydrocarbons]] hydrocarbons (PAHs), dioxins and furans, explosive compounds such as TNT and RDX, synthetic dyes from textile effluents, pharmaceutical residues, pesticides, and endocrine-disrupting chemicals. The range of degradable compounds continues to expand as new species and enzyme variants are characterized.
-
-[[staycare-phanerochaete-chrysosporium-in-bioremediation]] remains a model organism for bioremediation research, while [[growing-gourmet-turkey-tail-trametes-versicolor-cultivation]], [[pleurotus-ostreatus]], [[bjerkandera-adusta]], and Irpex lacteus are widely used in applied remediation studies. Each species has unique enzyme profiles suited for specific contaminant classes. For example, Trametes versicolor produces exceptionally high laccase levels, making it a preferred choice for dye decolorization in textile wastewater treatment applications.
-
-A critical advantage of white rot fungi is their ability to completely mineralize pollutants to carbon dioxide and water rather than merely transforming them into intermediate metabolites. This complete degradation pathway eliminates the risk of creating secondary pollutants that may be equally or more toxic than the original contaminant. White rot fungi are the preferred choice for bioreactor systems, [[comparison-constructed-wetlands-vs-bioswales]], and ex situ soil treatment where controlled conditions allow their enzymatic machinery to function at peak efficiency.
+This enzymatic versatility underpins white rot fungi's broad-spectrum pollutant-degrading capabilities. White rot fungi have been successfully applied against polychlorinated biphenyls (PCBs), [[staycare-phanerochaete-chrysosporium-in-bioremediation]] remains a model organism for bioremediation research, while [[pleurotus-ostreatus]], [[comparison-constructed-wetlands-vs-bioswales]], and ex situ soil treatment where controlled conditions allow their enzymatic machinery to function at peak efficiency.
 
 White rot enzymes also benefit from the ability to act through redox mediators, small molecules that shuttle electrons between the enzyme active site and the target pollutant. This mediator-dependent oxidation extends the range of degradable compounds beyond what the enzymes can directly access, enabling white rot fungi to attack large, insoluble, or sterically hindered molecules that would otherwise remain untouched by direct enzymatic action alone.
 
@@ -107,5 +99,4 @@ Machine learning and computational modeling are increasingly being applied to pr
 
 ## See Also
 
-- [[staycare-brown-rot-fungi-in-bioremediation]]
 - [[comparison-bioaugmentation-vs-biostimulation]]

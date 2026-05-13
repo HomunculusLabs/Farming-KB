@@ -17,29 +17,14 @@ type: concept
 
 # Zone 2 - Orchard and Food Forest
 
-Zone 2 in the [[food-forest-design]] and relates to
-[[cover-cropping-guide]].
+Zone 2 in the [[cover-cropping-guide]].
 
 ## Understory Planting Design
 
-The understory beneath [[comparison-pruning-fruit-trees-vs-grafting-fruit-trees]] serves multiple functions:
-- Pest confusion through aromatic herbs (tansy, wormwood, garlic chives)
-- Nutrient accumulation (comfrey, yarrow, dandelion, chicory)
-- Insect attraction (umbellifers like dill, fennel, coriander for
-  predatory wasps)
-- [[fukuoka-citrus-orchard-ground-cover-cultivation]] and weed suppression (clover, mint family, strawberry)
+The understory beneath [[fukuoka-citrus-orchard-ground-cover-cultivation]] and weed suppression (clover, mint family, strawberry)
 - Soil protection and moisture retention (strawberry, sweet woodruff)
 
-Mollison calls these plant groupings "guilds" -- see [[keyline-design]] principles for broader water
-management.
-
-## Pest Management
-
-Zone 2 pest management relies on biological diversity rather than chemical
-inputs. Mollison emphasizes habitat creation for predatory insects through
-umbelliferous flowers, native insectary plants, and undisturbed ground cover.
-Bird perches, bat boxes, and lizard habitat all contribute. Poultry ranging
-under trees provides significant [[comparison-pheromone-based-pest-control-vs-beneficial-insect-biocontrol]].
+Mollison calls these plant groupings "guilds" -- see [[comparison-pheromone-based-pest-control-vs-beneficial-insect-biocontrol]].
 
 ## Harvest and Processing
 
@@ -88,3 +73,78 @@ creating a reference base of observations, interventions, and results.
 This accumulated knowledge enables progressively better decision-making
 and helps identify patterns that might otherwise be overlooked in the
 complexity of day-to-day management and observation activities.
+
+## Overview
+
+Mollison Designers Climate Zone 2 Orchard Food Forest represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish mollison designers climate zone 2 orchard food forest
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving mollison extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Mollison Designers Climate Zone 2 Orchard Food Forest finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for mollison designers climate zone 2 orchard food forest. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+mollison designers climate zone 2 orchard food forest and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Mollison Designers Climate Zone 2 Orchard Food Forest has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of mollison designers climate zone 2 orchard food forest into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and

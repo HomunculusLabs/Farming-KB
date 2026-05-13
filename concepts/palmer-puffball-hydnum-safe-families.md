@@ -26,8 +26,7 @@ unambiguous: start with puffballs and Hydnei, which could be identified
 by their unique physical structures and which posed minimal risk. Only
 after gaining familiarity with these safe families should the student
 progress to the more challenging Agaricini, always learning to identify
-and avoid the [[edible-mushroom-families-boleti-russula-lactarius-clavaria-puffballs-palmer]],
-[[palmer-mushroom-taxonomy-classification-system]]
+and avoid the [[palmer-mushroom-taxonomy-classification-system]]
 ## Practical Applications
 
 Palmer on Puffball and Hydnum as Safe Mushrooms has a range of practical applications that make it relevant to
@@ -87,3 +86,11 @@ outcomes creates a valuable knowledge base that supports progressively
 better results with each iteration of practice and experimentation.
 
 ## Integration and Future Development
+
+## See Also
+
+- [[palmer-mushroom-folklore-cultural-significance]]
+- [[palmer-amanitine-poison-mechanism]]
+- [[palmer-amanitine-poison-classification-treatment]]
+- [[palmer-russula-lactarius-families]]
+- [[mushroom-cultivation-basics-spawn-biology-palmer]]

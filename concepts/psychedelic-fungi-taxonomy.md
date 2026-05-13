@@ -36,16 +36,7 @@ transferred to other genera based on genetic evidence. The genus
 *Deconica* was resurrected to accommodate non-bluing species previously
 classified in *Psilocybe* that do not produce psilocybin. This revision
 improved classification by aligning taxonomy with evolutionary
-relationships. See [[psilocybin-mushrooms-biology]] for details on the
-biology and chemistry of these organisms.
-
-## Other Psychoactive Genera
-
-Several genera outside *Psilocybe* contain psilocybin-producing species:
-
-- **Gymnopilus**: Wood-inhabiting fungi including species known as
-  "big laughing gym" mushrooms.
-- **Panaeolus**: *[[stamets-panaeolus-cyanescens-copelandia-identification-ecology]]* (blue meanies) are potent
+relationships. See [[stamets-panaeolus-cyanescens-copelandia-identification-ecology]]* (blue meanies) are potent
   species found in tropical and subtropical pastures worldwide.
 - **Conocybe** and **Inocybe**: Contain psilocybin-producing species
   difficult to identify safely due to similarity to toxic lookalikes.
@@ -53,38 +44,98 @@ Several genera outside *Psilocybe* contain psilocybin-producing species:
 The genus *Amanita* produces ibotenic acid and muscimol rather than
 psilocybin, yielding a qualitatively different experience. *Amanita
 muscaria* (fly agaric) and *A. pantherina* are well-known. Their
-chemistry, effects, and [[ethnomycology-cultural-significance-sacred-fungi]] are distinct from
-psilocybin-containing fungi.
-
-## Identification Challenges
-
-Accurate identification is essential for safety. Several deadly
-poisonous species resemble [[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]]. *Galerina marginata*
+chemistry, effects, and [[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]]. *Galerina marginata*
 contains lethal amatoxins identical to those in death cap mushrooms.
 Several *Inocybe* species contain dangerous levels of muscarine.
 
-Key identification features for *Psilocybe* include the [[field-guide-psilocybin-bluing-reaction-identification]],
-dark purple-brown to nearly black spore prints, a separable gelatinous
-pellicle on the cap, and microscopic features of spores and cystidia.
-No single feature reliably distinguishes all psychoactive from
-non-psychoactive species. Accurate identification requires familiarity
-with local species and attention to multiple diagnostic characters.
-
-## Geographic Distribution
-
-Psychedelic fungi are found on every continent except Antarctica. The
-highest species diversity occurs in tropical and subtropical regions,
-particularly Central and South America, Southeast Asia, and sub-Saharan
-Africa. Temperate regions also support significant diversity, with
-notable concentrations in the Pacific Northwest, Western Europe, and
-Australia. Many species have been introduced through human activity.
-
-## Molecular Phylogenetics
-
-DNA sequencing has revolutionized psychedelic fungi taxonomy. Multi-locus
-analyses reveal that [[gottlieb-psilocybin-production-extraction-methods]] evolved independently at
+Key identification features for *Psilocybe* include the [[gottlieb-psilocybin-production-extraction-methods]] evolved independently at
 least four times within the Agaricales, in lineages leading to
 *Psilocybe*, *Gymnopilus*, *Panaeolus*, and *Inocybe*. This repeated
 evolution of the same pathway is strong evidence that psilocybin
 production confers a selective advantage, though the nature of this
 advantage remains under investigation.
+
+## Overview
+
+Psychedelic Fungi Taxonomy represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish psychedelic fungi taxonomy
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving psychedelic extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Psychedelic Fungi Taxonomy finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for psychedelic fungi taxonomy. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+psychedelic fungi taxonomy and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Psychedelic Fungi Taxonomy has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of psychedelic fungi taxonomy into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[metzner-therapist-experiential-prerequisite-psychedelic-therapy]]
+- [[psychedelic-combination-guide]]
+- [[psychedelic-paradigm-shifting-and-reality-reconception]]
+- [[psychedelic-plants-language-emergence-mckenna-synesthesia-hypothesis]]
+- [[psycholytic-and-psychedelic-therapy-models]]

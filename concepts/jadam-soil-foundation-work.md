@@ -11,53 +11,13 @@ sources:
 
 ## Overview
 
-Soil foundation work is described as the single most important technology in the JADAM organic farming system. It refers to the intensive application of [[jadam-liquid-fertilizer]] before transplanting of crop plants and before the sprouting or flowering of fruit trees. This pre-planting investment creates the underground conditions that determine harvest success.
-
-## The Core Principle
-
-"What is visible (plant) represents what is invisible (root)." A plant can only grow to the extent that its foundation allows. Just as you cannot raise a 10-storey building on a 2-meter deep foundation, you cannot achieve high yield without first establishing deep, extensive root systems.
-
-High yield equals the total area of the root that comes in contact with plant food (fertilizer). Many farmers think that simply applying abundant base fertilizer and additional fertilizer will produce more shoots. This is incorrect. Plants are smart; they look at where they are growing and grow only to the extent that is possible.
-
-## Timing Is Critical
-
-### For Fruit Trees
-Apply intensively after leaves fall until sprouts or flowers appear the next year. In this period, unlimited water can be given so microbes can swim deep and thoroughly into the soil.
-
-### For Field Crops
-Apply from after-harvest to before transplant. Same principle -- without growing crops limiting water input, microbial penetration reaches deeper.
-
-### For Greenhouses
-Since rainwater does not fall, repeat applying JMS with irrigation water, wetting the soil fully every time.
-
-## Application Method
-
-Use a motored sprayer, sprinkler, or drip irrigation to apply a mixture of:
-
-- **JMS**: 500 L (132 gal) can be used for an area of 0.25 to 8 acres
-- **Sea salt**: 500 g (1.1 lb) per 0.25 acre
-- **Phyllite solution**: 500 g (1.1 lb) per 0.25 acre
-- **GC-JLF** (wild grass plus crop residues [[jadam-microorganism-solution-jms]] as the primary microbial inoculant for soil foundation work. JMS is produced by collecting leaf mold from a mature forest, where the natural [[edaphic-factors-microbial-community-structure]] is at its most diverse and vigorous, and culturing these native microorganisms in a solution of boiled potato water and sea salt. The resulting liquid contains billions of diverse bacteria, fungi, actinomycetes, and other microorganisms per milliliter. When applied to soil through the foundation work process, these microbes colonize the root zone and begin the work of restructuring the soil. The microbial inoculation is most effective when the soil is thoroughly wetted, because microbes require a water film to move through soil pores. This is why the foundation work period, when no crops are present and unlimited water can be applied, is so critical for reaching deep soil layers that would otherwise remain biologically inactive.
-
-## Soil Testing and Assessment Methods
-
-JADAM advocates for simple, direct soil assessment methods that any farmer can perform without laboratory equipment. The primary indicator of soil health is root development: pulling up a plant and examining the root system reveals whether the soil foundation is adequate. Healthy roots are extensive, branching, and surrounded by a visible rhizosphere of microbial activity. Compact, stubby, or discolored roots indicate problems with soil structure, [[chelation-microbial-mineral-availability-ingham]], or microbial suppression. Beyond root observation, JADAM practitioners assess soil by its texture (crumb structure versus hard clods), its smell (earthy and sweet versus sour or chemical), its water infiltration rate, and the diversity of plants that volunteer in the field. Earthworm presence and abundance is another practical indicator of soil biological health. These observational methods are considered more relevant to farming outcomes than laboratory nutrient analysis, because they reflect the living condition of the soil rather than its static chemical composition.
+Soil foundation work is described as the single most important technology in the JADAM organic farming system. It refers to the intensive application of [[jadam-microorganism-solution-jms]] as the primary microbial inoculant for soil foundation work. JMS is produced by collecting leaf mold from a mature forest, where the natural [[chelation-microbial-mineral-availability-ingham]], or microbial suppression. Beyond root observation, JADAM practitioners assess soil by its texture (crumb structure versus hard clods), its smell (earthy and sweet versus sour or chemical), its water infiltration rate, and the diversity of plants that volunteer in the field. Earthworm presence and abundance is another practical indicator of soil biological health. These observational methods are considered more relevant to farming outcomes than laboratory nutrient analysis, because they reflect the living condition of the soil rather than its static chemical composition.
 
 ## Mineral Balance and Sea Salt Supplementation
 
-The JADAM system uses sea salt as the primary mineral supplement, based on the principle that seawater contains all 83 naturally occurring elements in proportions that approximate the mineral needs of living organisms. Sea salt is added to JMS during production and can also be applied separately during soil foundation work at a rate of approximately 500 grams per 0.25 acre. The phyllite solution ([[korean-natural-farming-imo-recipes]] share the philosophy of working with natural biological processes, their approaches to soil management differ significantly. KNF, developed by Master Cho Han-Kyu, relies heavily on a suite of fermented plant and animal inputs including IMO ([[knf-indigenous-microorganism-culture]]) collected from forest soils, fish amino acids, fermented fruit juice, and Oriental Herbal Nutrients. These inputs are applied throughout the growing season as both soil drenches and foliar sprays. JADAM, developed by Young-sang Cho, prioritizes ultra-low-cost methods and uses only three primary inputs: JMS (microbes), sea salt (minerals), and GC-JLF (liquid fertilizer from wild grass and crop residues). KNF involves more complex preparation of multiple fermented inputs, while JADAM simplifies to a single [[jadam-microbial-solution-jms-preparation-and-use]], a single mineral source, and a single fertilizer. Both systems emphasize pre-planting soil preparation, but JADAM places greater emphasis on the intensive foundation work period when unlimited water can move microbes deep into the soil profile. KNF soil management tends to be more input-intensive and recipe-driven, while JADAM emphasizes that the farmer should develop intuition about soil conditions through direct observation.
-
-## Related Concepts
-
-- [[jadam-root-soil-assessment]] -- checking root development as indicator of soil health
-- [[jadam-sea-salt-use]] -- mineral supplementation with 83 trace elements
-- [[jadam-microorganism-solution-jms]] -- the primary microbial input - jadam soil foundation work -- intensive pre-planting microbial application - [[jadam-leaf-mold-as-ideal-soil]] -- the model for microbial diversity - [[jadam-microorganism-solution-jms]] -- the practical microbial culture - jadam soil foundation work -- the comprehensive soil preparation - [[jadam-do-as-nature-does-philosophy]] -- the philosophical foundation - [[jadam-cover-crop-method]] recommends using a mixture of leguminous and non-leguminous species to maximize both nitrogen fixation and [[dighton-fungal-biomass-production-aquatic-ecosystems]]. Crop rotation prevents the buildup of crop-specific pathogens and breaks pest cycles, reducing the need for the chemical interventions that degrade soil microbial diversity. The combination of foundation work, cover cropping, and rotation creates a self-reinforcing cycle: better soil biology leads to better crop residues, which feed better soil biology. Over several seasons, the need for external inputs diminishes as the soil ecosystem becomes increasingly self-sufficient and productive.
-
-## Related Concepts
-
-- [[jadam-farming-method]] — complete JADAM system overview
-- [[soil-foodweb]] — soil [[fukuoka-microbial-ecology-decomposition]] principles
-- [[holzer-microclimate-creation]]
+The JADAM system uses sea salt as the primary mineral supplement, based on the principle that seawater contains all 83 naturally occurring elements in proportions that approximate the mineral needs of living organisms. Sea salt is added to JMS during production and can also be applied separately during soil foundation work at a rate of approximately 500 grams per 0.25 acre. The phyllite solution ([[knf-indigenous-microorganism-culture]]) collected from forest soils, fish amino acids, fermented fruit juice, and Oriental Herbal Nutrients. These inputs are applied throughout the growing season as both soil drenches and foliar sprays. JADAM, developed by Young-sang Cho, prioritizes ultra-low-cost methods and uses only three primary inputs: JMS (microbes), sea salt (minerals), and GC-JLF (liquid fertilizer from wild grass and crop residues). KNF involves more complex preparation of multiple fermented inputs, while JADAM simplifies to a single [[jadam-root-soil-assessment]] -- checking root development as indicator of soil health
+- [[jadam-microorganism-solution-jms]] -- the primary microbial input - jadam soil foundation work -- intensive pre-planting microbial application - [[jadam-microorganism-solution-jms]] -- the practical microbial culture - jadam soil foundation work -- the comprehensive soil preparation - [[jadam-cover-crop-method]] recommends using a mixture of leguminous and non-leguminous species to maximize both nitrogen fixation and [[jadam-farming-method]] — complete JADAM system overview
+- [[fukuoka-microbial-ecology-decomposition]] principles
 - [[cover-cropping-systems]]
 
 ## Practical Considerations
@@ -93,29 +53,93 @@ When applying these concepts, consider regional variations, available resources,
 
 ## See Also
 
-- [[ultra-low-cost-jadam-microorganism-solution-and-soil-foundation]]
 - [[query-what-is-jadam-farming-and-how-does-it-work]]
-- [[query-how-does-living-soil-work-for-cannabis]]
 - [[knf-seed-treatment-and-soil-foundation]]
-- [[knf-imo-four-soil-foundation-and-field-application]]
+- [[soil-testing]]
+- [[fish-amino-acid]]
+- [[master-cho]]
+
+## Overview
+
+Jadam Soil Foundation Work represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish jadam soil foundation work
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving jadam extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Jadam Soil Foundation Work finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for jadam soil foundation work. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+jadam soil foundation work and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
 
 ## Historical Context
 
-The historical development of this subject reflects centuries of accumulated
-knowledge and practical experience. From traditional methods passed down
-through generations to modern scientific approaches, the evolution continues
-to inform current best practices and research directions.
+Jadam Soil Foundation Work has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
 
-## Common Challenges
+## Integration Strategies
 
-Practitioners frequently encounter several challenges when working with
-these concepts. Climate variability, resource limitations, and knowledge
-gaps can all affect outcomes. Addressing these challenges requires patience,
-observation, and a willingness to adapt approaches based on results.
+Successful integration of jadam soil foundation work into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
 
 ## See Also
-- [[soil-testing]]
-- [[permaculture-design]]
-- [[fish-amino-acid]]
-- [[det]]
-- [[master-cho]]
+
+- [[jadam-anaerobic-fermentation-principles]]
+- [[jadam-element-function-reference]]
+- [[jadam-herbal-smoker-livestock]]
+- [[jadam-leaf-mold-as-ideal-soil]]
+- [[jadam-pesticide-for-powdery-mildew]]

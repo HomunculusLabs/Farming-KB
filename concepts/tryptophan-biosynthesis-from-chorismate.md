@@ -10,11 +10,8 @@ type: concept
 
 # Tryptophan Biosynthesis from Chorismate
 
-Tryptophan biosynthesis is the branch of the [[psilocybin-compound-profile]], shikimate-pathway-in-fungi,
-into L-tryptophan through a sequence of reactions that construct
-the [[indole]] ring system and attach it to an alanine-derived amino
-acid [[shirota-glyoxalylamide-side-chain-construction-psilocin-synthesis]]. This pathway operates in the cytosol of fungal
-cells and requires the cofactor [[pyridoxal-phosphate]] (PLP) for
+Tryptophan biosynthesis is the branch of the [[indole]] ring system and attach it to an alanine-derived amino
+acid [[pyridoxal-phosphate]] (PLP) for
 the final transamination-like condensation step.
 
 ## Enzymatic Steps
@@ -46,9 +43,7 @@ phosphoribosyl transferase, which attaches anthranilate to
 5-phosphoribosyl-1-pyrophosphate (PRPP) to form N-(5'-phosphoribosyl)
 anthranilate (PRA). This reaction links the aromatic ring to a
 ribose phosphate scaffold and commits carbon from the pentose
-[[pentose-phosphate-pathway]] into the indole ring construction process.
-PRPP serves as a key metabolite in both purine/pyrimidine
-biosynthesis and [[cho-fish-amino-acid-preparation]] salvage pathways.
+[[cho-fish-amino-acid-preparation]] salvage pathways.
 
 ### Step 4: Amadori Rearrangement
 

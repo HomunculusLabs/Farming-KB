@@ -22,49 +22,11 @@ clinicians, and consumers choose the right species for their goals.
 
 ## Shiitake
 
-[[shiitake-medicinal-compounds]]
-
-Shiitake has been cultivated for over a thousand years in East Asia and
-remains a cornerstone of both culinary and traditional medicine traditions.
-Its primary bioactive compound, **lentinan**, is a high-molecular-weight
-beta-glucan in a triple helix structure that activates the host immune
-system rather than attacking tumors directly. Lentinan stimulates
-macrophages, NK cells, helper T cells, and killer T cells while inhibiting
-suppressor T-cell activity. It is approved for clinical use in Japan,
-particularly for gastric and colorectal carcinoma, where trials showed
-nearly doubled survival times when combined with standard chemotherapy.
-
-Beyond lentinan, shiitake produces **AHCC** (Active Hexose Correlated
-Compound), an extract from cultured mycelium that has gained popularity
-as an immune supplement. Shiitake also contains eritadenine, which helps
-lower serum cholesterol, and is rich in B vitamins, copper, selenium,
-and vitamin D when dried with the gills exposed to UV light. Cultivation
-is well-established on hardwood logs and supplemented sawdust blocks,
-with fruiting bodies harvestable in 6-12 months from logs or 4-8 weeks
-from blocks. See [[shiitake-cultivation-parameters]] for detailed grow
+[[shiitake-cultivation-parameters]] for detailed grow
 parameters.
 
 ## Turkey Tail
 
-[[turkey-tail-trametes-versicolor]]
-
-Turkey tail is the most clinically validated medicinal mushroom, backed
-by decades of randomized controlled trials. Its two signature preparations
-are **PSK** (Polysaccharide-K, branded Krestin) and **PSP** (Polysaccharide
-Peptide, sold as Yun Zhi). PSK has been approved in Japan since 1977 as
-a cancer adjuvant and is prescribed alongside chemotherapy and radiation.
-Multiple RCTs demonstrate improved survival in gastric, colorectal, breast,
-and non-small cell lung cancer patients.
-
-Turkey tail polysaccharides function as biological response modifiers,
-activating NK cells, macrophages, dendritic cells, and T-lymphocytes.
-They promote dendritic cell maturation, increase IL-2 and IFN-gamma
-production, and act as prebiotics supporting gut microbiome health.
-Unlike shiitake, turkey tail is a bracket polypore with tough, leathery
-flesh that is virtually inedible. It grows abundantly worldwide on dead
-hardwood and is easily identified by its concentric multicolored zones,
-though it can be confused with false turkey tail (*Stereum ostrea*),
-which lacks the characteristic pore surface. For cultivation details see
 [[growing-gourmet-turkey-tail-trametes-versicolor-cultivation]].
 
 ## Key Differences
@@ -120,8 +82,6 @@ creating a broader immune stimulation profile when used together.
 
 ## See Also
 
-- [[comparison-cordyceps-vs-turkey-tail]]
 - [[comparison-reishi-vs-lions-mane-vs-turkey-tail-medicinal-mushrooms]]
-- [[medicinal-mushroom-guide-turkey-tail]]
 - [[shiitake-strain-classification-and-substrate-formulas]]
 - [[cancer-medicinal-mushrooms-turkey-tail-psk-and-psp]]

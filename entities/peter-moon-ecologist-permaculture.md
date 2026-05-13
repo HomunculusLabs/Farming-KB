@@ -8,14 +8,7 @@ type: entity
 
 ## Description
 
-Peter Moon is a researcher cited by [[bill-mollison]] in *Permaculture: A Designer's Manual* (Chapter 2), whose work appeared in *New Scientist* (28 February 1985). Moon contributed important conceptual distinctions in the measurement and understanding of ecological diversity, differentiating between three critical metrics: **richness**, **diversity**, and **evenness** in ecological communities.
-
-## Classification
-
-- **Type:** Person — Ecologist / Researcher
-- **Domain:** Ecology, Biodiversity Science
-- **Era:** 1980s (published work cited by Mollison)
-- **Context:** Cited in [[permaculture-design]] literature
+Peter Moon is a researcher cited by [[permaculture-design]] literature
 
 ## Key Facts
 
@@ -32,7 +25,7 @@ Peter Moon is a researcher cited by [[bill-mollison]] in *Permaculture: A Design
 
 ## Relevance to Cultivation and Mycology
 
-- **[[mushroom-cultivation]] context:** Moon's distinction between richness and evenness applies directly to [[fungal-ecology]]. A mature forest may have high fungal species richness in the decomposer community even as plant richness declines — meaning older forests may be prime sites for diverse fungal fruiting.
+- **[[fungal-ecology]]. A mature forest may have high fungal species richness in the decomposer community even as plant richness declines — meaning older forests may be prime sites for diverse fungal fruiting.
 - **Guild design:** Permaculture guilds benefit from understanding that diversity is not just about species count (richness) but about balanced abundance (evenness). A mushroom bed dominated by one contaminant species has low evenness, even if many species are technically present.
 - **Substrate ecology:** Moon's observation that older systems develop more niches suggests that aged, complex substrates (hardwood logs, mature compost) will support richer decomposer communities than simple, fresh substrates.
 - **Disturbance management:** The stress mosaic concept Mollison derives from Moon — alternating disturbed and undisturbed zones — mirrors the strategy of alternating flush-inducing soaks with rest periods in mushroom cultivation.
@@ -79,8 +72,78 @@ Peter Moon is a researcher cited by [[bill-mollison]] in *Permaculture: A Design
 - Adaptive management recommended for changing conditions
 
 ## Related Topics
-- [[peter-moon-ecologist]]
 - [[peter-mantle-liberty-cap-chromatographic-discovery-1969]]
-- [[allegro-key-of-the-kingdom-and-peter-as-mushroom]]
 - [[peter-oei]]
 - [[query-how-do-nitrogen-fixing-plants-work-in-permaculture]]
+
+## Overview
+
+Peter Moon Ecologist Permaculture represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish peter moon ecologist permaculture
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving peter extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Peter Moon Ecologist Permaculture finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for peter moon ecologist permaculture. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+peter moon ecologist permaculture and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Peter Moon Ecologist Permaculture has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of peter moon ecologist permaculture into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions

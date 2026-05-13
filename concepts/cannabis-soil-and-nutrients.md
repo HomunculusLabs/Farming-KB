@@ -9,7 +9,7 @@ sources: [raw/papers/greg-green-the-cannabis-grow-bible.md]
 
 # Cannabis Soil and Nutrients
 
-Cannabis is a heavy feeder with specific [[cannabis-soil-and-nutrient-requirements]] that change through its life cycle. Understanding NPK ratios, micronutrients, and soil pH is essential for healthy plants and maximum yield.
+Cannabis is a heavy feeder with specific nutrient requirements that change through its life cycle. Understanding NPK ratios, micronutrients, and soil pH is essential for healthy plants and maximum yield.
 
 ## Soil Mixes
 
@@ -21,7 +21,7 @@ Cannabis is a heavy feeder with specific [[cannabis-soil-and-nutrient-requiremen
 
 ### Advanced (Super Soil / Living Soil)
 - Base: 1/3 peat moss or coco, 1/3 compost, 1/3 aeration (perlite/pumice)
-- Amendments: [[ingham-vermicompost-worm-castings]], bone meal, blood meal, kelp meal, bat guano
+- Amendments: worm castings, bone meal, blood meal, kelp meal, bat guano
 - Mycorrhizal inoculant at planting
 - No bottled nutrients needed — microbes make nutrients bioavailable
 - Build 4-6 weeks before planting for microbial activation
@@ -53,7 +53,7 @@ Cannabis is a heavy feeder with specific [[cannabis-soil-and-nutrient-requiremen
 - Flush with plain water last 1-2 weeks to improve taste
 
 ## Common Nutrient Deficiencies
-- **Nitrogen (N)**: Lower leaves yellow from tip inward, [[holmgren-long-rotation-forestry-slow-growth]]
+- **Nitrogen (N)**: Lower leaves yellow from tip inward, slow growth
 - **Phosphorus (P)**: Dark green/purple leaves, stunted growth
 - **Potassium (K)**: Brown leaf edges, weak stems, slow bud growth
 - **Calcium (Ca)**: New leaves distorted, brown spots, tip burn
@@ -64,56 +64,87 @@ Cannabis is a heavy feeder with specific [[cannabis-soil-and-nutrient-requiremen
 - Cannabis absorbs nutrients best in narrow pH range
 - Soil: 6.0-7.0 (optimal 6.3-6.8)
 - Hydro/coco: 5.5-6.5 (optimal 5.8-6.2)
-- pH too high: [[cannabis-nutrient-lockout-and-ph]] (nutrients present but unavailable)
+- pH too high: nutrient lockout (nutrients present but unavailable)
 - pH too low: toxicity (excess uptake of some nutrients)
 
 ## Related
-- [[cannabis-grow-room-setup]] — for [[cervantes-grow-room-design-advanced]]
+- [[cannabis-grow-room-setup]] — for room design
 - [[cannabis-vegetative-stage-management]] — for grow phase
-- [[cannabis-nutrient-deficiency-guide]] — for [[cervantes-nutrient-mobility-deficiency-diagnosis]]
+- [[cannabis-nutrient-deficiency-guide]] — for deficiency diagnosis
 - [[soil-food-web-structure]] — for living soil biology
 
-## Historical Context
-- These approaches have evolved through decades of research and practical application.
-- Traditional knowledge systems have contributed significantly to modern understanding.
-- Scientific inquiry has progressively validated and refined historical practices.
+## Overview
 
-## Mechanisms and Processes
-- Underlying biological and ecological mechanisms drive observed outcomes.
-- Multiple interacting factors contribute to system-level effects.
-- Understanding these processes enables more targeted and effective interventions.
+Cannabis Soil And Nutrients represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
 
-## See Also
-- [[cannabis-indoor-soil-mix-and-preparation]]
-- [[cannabis-soil-and-nutrient-requirements]]
-- [[query-how-do-i-prevent-and-fix-salt-buildup-in-cannabis-soil]]
-- [[cannabis-ph-management-and-soil-flushing]]
-- [[teaming-with-nutrients-ph-testing-and-soil-amendment]]
+## Key Characteristics
+
+Several defining characteristics distinguish cannabis soil and nutrients
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving cannabis extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
 
 ## Practical Applications
 
-The principles and techniques discussed here have wide-ranging applications
-across multiple disciplines and contexts. Practitioners and researchers
-continue to explore new ways to integrate these concepts into modern practice,
-adapting traditional knowledge to contemporary challenges and opportunities.
+Cannabis Soil And Nutrients finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
 
-## Key Considerations
+## Management and Implementation
 
-Several important factors influence the effectiveness and outcomes described
-in this topic. Understanding these considerations helps practitioners make
-informed decisions and avoid common pitfalls. Environmental conditions,
-timing, and material selection all play critical roles.
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
 
-## Common Challenges
+## Regional Considerations
 
-Practitioners frequently encounter several challenges when working with
-these concepts. Climate variability, resource limitations, and knowledge
-gaps can all affect outcomes. Addressing these challenges requires patience,
-observation, and a willingness to adapt approaches based on results.
+Different geographic regions present unique challenges and
+opportunities for cannabis soil and nutrients. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
 
-## See Also
-- [[mycorrhiza]]
-- [[cannabis-ph-management-and-soil-flushing]]
-- [[cannabis-indoor-soil-mix-and-preparation]]
-- [[green-cannabis-grow-bible-soil-and-medium-preparation]]
-- [[teaming-with-nutrients-ph-testing-and-soil-amendment]]
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+cannabis soil and nutrients and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Cannabis Soil And Nutrients has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of cannabis soil and nutrients into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.

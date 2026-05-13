@@ -12,14 +12,9 @@ sources:
 ## Oregano
 Perennial aromatic herb in the Lamiaceae family, native to the
 Mediterranean basin and parts of western Asia. Oregano is one of the
-world's most important [[holzer-medicinal-and-culinary-herbs-compendium]], integral to Mediterranean, Middle
-Eastern, and Latin American cuisines. Beyond its culinary prominence,
-oregano is a potent medicinal plant with broad-spectrum antimicrobial
-activity attributed primarily to its [[permaculture-designers-manual-essential-oil-plants]], which contains high
+world's most important [[permaculture-designers-manual-essential-oil-plants]], which contains high
 concentrations of carvacrol and thymol. The essential oil of oregano
-ranks among the most antimicrobial of all plant [[comparison-essential-oils-vs-neem-oil-vs-insecticidal-soap]], with
-demonstrated activity against antibiotic-resistant bacteria, fungi, and
-parasites. In permaculture, oregano serves as a [[fukuoka-citrus-orchard-ground-cover-cultivation]], pollinator
+ranks among the most antimicrobial of all plant [[fukuoka-citrus-orchard-ground-cover-cultivation]], pollinator
 attractant, and companion plant with pest-repellent properties.
 ## Taxonomy and Naming
 - **Kingdom:** Plantae

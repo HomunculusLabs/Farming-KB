@@ -13,7 +13,7 @@ The endorhiza microbiome refers to the community of bacteria that colonize the i
 
 The endorhiza is distinguished from the rhizosphere (soil adhering to root surfaces) and bulk soil (soil distant from root influence). Bacteria within the endorhiza are true endophytes — they have crossed the root epidermis and colonized internal root tissues. These communities are typically less diverse than rhizosphere or bulk soil communities but are more tightly coupled to host plant physiology.
 
-In Cannabis, the core endorhiza community across all studied cultivars includes genera from several well-known endophytic lineages: **Pseudomonas**, **Cellvibrio**, members of **Oxalobacteraceae**, **Xanthomonadaceae**, **Actinomycetales**, and **Sphingobacteriales**. With the exception of the aerobic cellulolytic bacterium Cellvibrio, all prevalent members of the core [[weighted-unifrac-strain-clustering-cannabis-endorhiza-community-structure]] are recognized endophytic bacteria primarily within the orders Gammaproteobacteria and Alphaproteobacteria, consistent with observations from other plant systems such as Populus deltoides and [[arabidopsis-thaliana]].
+In Cannabis, the core endorhiza community across all studied cultivars includes genera from several well-known endophytic lineages: **Pseudomonas**, **Cellvibrio**, members of **Oxalobacteraceae**, **Xanthomonadaceae**, **Actinomycetales**, and **Sphingobacteriales**. With the exception of the aerobic cellulolytic bacterium Cellvibrio, all prevalent members of the core [[arabidopsis-thaliana]].
 
 Understanding these endorhiza communities has practical importance because soil microbes play major roles in plant ecology by providing nitrogen fixation, production of growth stimulants, improved water retention, and suppression of root diseases. These vital microbial processes occur predominantly within the rhizosphere and rhizoplane, and are heavily influenced by fungal saprotrophs and plant-mutualists such as endomycorrhizal and ectomycorrhizal fungi. Despite the economic and medicinal importance of Cannabis, relatively little was known about its soil-based microbial associations prior to this work. The study by Winston et al. represented the first comprehensive 16S rRNA gene survey of Cannabis-associated bacterial communities.
 
@@ -21,62 +21,7 @@ Rhizosphere microbiota are highly dynamic, and the composition of bacterial comm
 
 ## Cultivar-Specificity
 
-Winston et al. demonstrated that when controlling for soil type and sample location, the [[edaphic-factors-microbial-community-structure]] within Cannabis endorhiza was significantly different between plant cultivars. This cultivar effect was detectable using both weighted and unweighted UniFrac distance metrics, though it was more pronounced in weighted analyses, suggesting that cultivar primarily influences the relative abundance of taxa rather than their presence or absence.
-
-Notable cultivar-specific differences included:
-- **Methylophilus** comprised 13% of the endorhiza community in Bookoo Kush, 0.13% in Burmese, and was absent entirely in Sour Diesel
-- **Sphingomonas wittichii** was prevalent in Maui Wowie endorhiza samples, a species that can metabolize phenazine-1-carboxylic acid and has been implicated in increased survival in soil environments
-
-The significance of strain-level differences was confirmed through ADONIS permutation tests. In the second experiment comparing White Widow and Maui Wowie across two distinct soil types, strain significantly structured endorhiza communities for both weighted (R² = 0.59, p = 0.004) and unweighted (R² = 0.39, p = 0.003) UniFrac analyses. When both experiments were pooled, the strain effect remained highly significant across all samples (weighted R² = 0.301, p = 0.001; unweighted R² = 0.178, p = 0.001).
-
-Interestingly, no significant OTU presence/absence differences were found between cultivars in unweighted analyses of the second experiment (0 significant OTUs by g-test), while 71 OTUs showed significant abundance differences in weighted analyses (ANOVA with FDR correction). This indicates that cultivar selection operates primarily on community structure — the relative proportions of taxa — rather than on which taxa are present.
-
-## Soil Influence on Endorhiza Communities
-
-Despite the strong cultivar signal, soil type remains the dominant factor shaping microbial community composition across all sample types. In pooled analyses, soil type explained the largest proportion of variation in both weighted (R² = 0.323) and unweighted (R² = 0.196) UniFrac analyses. This primacy of soil over host genotype is consistent with findings across many plant systems.
-
-Edaphic factors most strongly correlated with community structure were:
-1. **Nitrogen** (r-stat: 0.465 weighted, 0.630 unweighted)
-2. **Salinity** (r-stat: 0.437 weighted, 0.620 unweighted)
-3. **Total organic carbon** (r-stat: 0.330 weighted, 0.512 unweighted)
-4. **Water content** (r-stat: 0.281 weighted, 0.466 unweighted)
-5. **pH** (r-stat: 0.221 weighted, 0.292 unweighted)
-
-A BEST (Best Subset of Environmental Variables) analysis determined that the optimal combination of three edaphic factors — Nitrogen, Carbon, and Water — explained the maximum variance in community data (rho = 0.632). All five tested edaphic factors were significantly correlated with community beta-diversity at p = 0.001 for both weighted and unweighted analyses.
-
-Endorhiza communities shared significantly more OTUs with their own soil than with a different soil in which the same strain was grown (mean shared OTUs: 2934 vs 2162, p = 1.2×10⁻¹⁵). This was tested by growing White Widow in two different soil types and comparing OTU overlap between endorhiza and their native versus foreign soil. This result supports the model that endophytic microbes are primarily soil-derived.
-
-## Taxonomic Shifts from Soil to Root
-
-Transitioning from bulk soil through the rhizosphere to the endorhiza, predictable taxonomic shifts occur. The most dramatic change is the decrease in **Acidobacteria** (particularly the order iii1-15) within endorhiza samples, accompanied by an increase in **Proteobacteria** and **Actinobacteria**. Of 51 OTUs significantly differentiating between sample types, 17 increased in abundance within the Cannabis endorhiza relative to the rhizosphere, and these were predominantly Proteobacteria including several from the Rhizobiales order.
-
-Significant OTU abundance differences between strains were composed mostly of differences in Proteobacteria, notably from the orders Pseudomonadales, Burkholderiales, Sphingomonadales, and Rhizobiales. Apart from Proteobacteria, Bacteroidetes orders Sphingobacteriales and Flavobacteriales were also responsible for several significant OTU differences between Cannabis strains.
-
-The mean abundance of differentiating OTUs was highly correlated between bulk soil and rhizosphere (Pearson's rho: 0.92), indicating strong continuity. The correlation dropped substantially between rhizosphere and endorhiza (rho: 0.63), and even further between bulk soil and endorhiza (rho: 0.42). This gradient of decreasing correlation reflects the progressive filtering and selection that occurs as microbes transition from soil to root interior.
-
-## Alpha Diversity Patterns
-
-Alpha diversity follows a consistent pattern across all experiments: highest in bulk soil, slightly reduced in the rhizosphere, and dramatically reduced in the endorhiza. In the second experiment, Chao1 diversity estimates were:
-- Bulk soil: mean = 4947 (SD = 717)
-- Rhizosphere: mean = 4525 (SD = 542)
-- Endorhiza: mean = 3321 (SD = 420)
-
-Notably, while bulk soil and rhizosphere diversity differed significantly between the two soil types tested (MB vs OC), endorhiza diversity was not significantly different between soils (MB: chao1 = 3325, SD = 517 vs OC: chao1 = 3311, SD = 112). This convergence suggests that host plant selection constrains endorhiza diversity to a similar level regardless of the starting soil community richness.
-
-## Beta Diversity Between Sample Types
-
-Beta diversity distances between rhizosphere and bulk soil communities were significantly lower than distances between rhizosphere and endorhiza communities for both unweighted (t = 24.59, p < 0.001) and weighted (t = 211.82, p < 0.001) analyses. Similarly, rhizosphere-to-bulk-soil distances were significantly lower than bulk-soil-to-endorhiza distances (unweighted: t = 25.15, p < 0.001; weighted: t = 211.56, p < 0.001). However, the distances between rhizosphere-endorhiza and bulk-soil-endorhiza were not significantly different from each other, providing limited evidence for a distinct rhizosphere filtering step separate from the overall soil-to-root transition.
-
-## Functional Significance
-
-Endorhiza bacteria support plant growth and suppress disease through multiple mechanisms:
-- Production of **phytohormones** (auxins, cytokinins, gibberellins) that modulate plant development
-- Secretion of **low molecular weight compounds** and **enzymes** involved in regulating growth and metabolism
-- Assistance in tolerating phytotoxic effects of environmental toxicants including heavy metals and organic pollutants
-- Suppression of root diseases through competitive exclusion and antibiosis
-- Potential contributions to localized terroir effects analogous to those documented in wine grape microbiomes
-
-The terroir concept — that microbial communities contribute to the unique sensory qualities of agricultural products — has been well-established for wine. Both endophytes and epiphytes may play a role in localized flavor for crop plants, and [[cannabis-terpene-and-aroma-chemistry-clarke]] cannabinoid profiles could potentially be influenced by the resident root microbiome.
+Winston et al. demonstrated that when controlling for soil type and sample location, the [[cannabis-terpene-and-aroma-chemistry-clarke]] cannabinoid profiles could potentially be influenced by the resident root microbiome.
 
 ## Cannabinoid Correlations
 
@@ -107,15 +52,93 @@ For the first experiment, samples were rarified to 3,000 sequences per sample (4
 
 ## Future Directions
 
-Several important questions remain open for [[cannabis-microbiome-research]]. Understanding which aspects of host genotype produce the observed structuring effects across Cannabis strains is a priority. Increased testing of cannabinoids with careful decoupling from edaphic factors will improve understanding of the importance of cannabinoid production in shaping endorhiza communities. Sampling a time series of endorhiza communities across several plants may help characterize natural variation during the reproductive cycles of Cannabis, which is essential for directing future mechanistic studies.
-
-The practical applications of this research are substantial. Understanding the Cannabis microbiome could lead to microbial inoculants that increase plant fitness, suppress disease, or augment desired metabolite production. Given the growing commercial importance of Cannabis and the trend toward organic cultivation methods, leveraging the plant's native microbial partnerships represents a promising avenue for agricultural optimization.
-
-## See Also
-
-- [[two-tier-selection-model]]
-- [[cannabinoid-receptors-cb1-cb2]]
+Several important questions remain open for [[two-tier-selection-model]]
 - [[rhizosphere-ecology]]
 - [[fungi-in-the-environment-fungal-endophytes-plant-communities]]
 
 The Cannabis endorhiza microbiome represents a frontier in plant-microbiome science with direct implications for one of the world's most commercially significant medicinal crops.
+
+## Overview
+
+Cannabis Endorhiza Microbiome represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish cannabis endorhiza microbiome
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving cannabis extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Cannabis Endorhiza Microbiome finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for cannabis endorhiza microbiome. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+cannabis endorhiza microbiome and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Cannabis Endorhiza Microbiome has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of cannabis endorhiza microbiome into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[blesching-cannabis-vasopressin-aggression]]
+- [[cannabis-cultivar-microbiome-specificity]]
+- [[green-cannabis-grow-bible-species-indica-sativa-ruderalis]]
+- [[lemon-haze-cannabis]]
+- [[query-how-to-harvest-and-cure-cannabis-for-best-flavor]]

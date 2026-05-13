@@ -5,9 +5,7 @@ author: Elaine Ingham
 tags: [aact, compost-tea, vineyard, fungal-dominant, mildew, sare, copper-sulfur, biocontrol]
 ---
 
-Ingham's field guide provides detailed protocols for using [[actively-aerated-compost-tea]] compost
-tea (AACT) in vineyards, with a strong emphasis on fungal-dominant teas to suppress
-[[cervantes-powdery-mildew-prevention-treatment]] and other foliar diseases. Her SARE-funded research demonstrated that
+Ingham's field guide provides detailed protocols for using [[cervantes-powdery-mildew-prevention-treatment]] and other foliar diseases. Her SARE-funded research demonstrated that
 vineyards can dramatically reduce or eliminate copper and sulfur fungicide sprays when
 adequate fungal biomass is maintained on leaf surfaces through a systematic seasonal
 program of compost tea applications.
@@ -21,33 +19,8 @@ teas for vineyards should be as fungal as possible from the very beginning of th
 season. While bacterial teas will help early on, fungal biomass becomes critical in
 late season when mildew pressure peaks and protection is most needed.
 
-The [[aact-banana-cultivation-tropical-crop-disease-suppression-ingham]] mechanism is not a toxic chemical interaction. Instead, the
-beneficial organisms in the tea use the food resources on the leaf surface better
-than the pathogen does, outcompeting mildew spores for space and nutrients. Adequate
-[[query-what-is-the-difference-between-bacterial-and-fungal-dominant-soil]] coverage on the leaf surface is the key to sustained protection
-throughout [[query-how-to-protect-plants-from-frost-and-extend-the-growing-season]]. When coverage was not adequate, disease pressure
-returned rapidly.
-
-## Seasonal Application Schedule
-
-Ingham prescribes a full-season program that integrates soil drenches with foliar
-sprays. The goal is to build soil biology that supports the vine while maintaining
-protective microbial coatings on leaves throughout the growing season:
-
-- **Fall soil drench:** Apply compost tea as a soil drench with a layer of compost
-  on the ground surface. This feeds the soil foodweb through winter months and
-  supports decomposition of crop residues into plant-available nutrients.
-- **Spring soil drench (if needed):** If the fall compost layer has decomposed
-  completely (which is desirable), apply another spring drench with fresh compost.
-- **Foliar spray initiation:** Begin foliar applications two weeks before bud break,
-  applying once per month during early growth and canopy development.
-- **Disease alert escalation:** When extension service mildew warnings begin,
-  increase to weekly applications until the alert stops.
-- **Post-alert maintenance:** Return to monthly applications until harvest.
-
-For newly planted vines, bare roots can be dipped in compost tea containing VAM
-spores and growth hormones before planting. This is an excellent method for
-establishing vesicular-arbuscular [[arbuscular-mycorrhizal-colonization-patterns]] from the start.
+The [[query-what-is-the-difference-between-bacterial-and-fungal-dominant-soil]] coverage on the leaf surface is the key to sustained protection
+throughout [[arbuscular-mycorrhizal-colonization-patterns]] from the start.
 
 ## SARE Grant Results: Copper and Sulfur Reduction
 
@@ -62,53 +35,10 @@ high-value crop setting:
 - Bacterial biomass was consistently high in all applied teas throughout the study
 - Late-season disease trouble correlated specifically with limited fungal biomass,
   not with bacterial biomass
-- Full details were published in the [[compost-tea-brewing]] Manual and on the Western
-  SARE website for peer review and replication
-
-The critical finding was that IF fungal biomass was adequate on leaf surfaces, then
-protection was consistently achievable. When fungal biomass was limited, late-season
-mildew broke through even with high bacterial counts. This underscores the
-importance of fungal-dominant tea brewing for vineyard applications.
-
-## Eliminating Copper and Sulfur Fungicides
-
-Ingham is unequivocal on this point: sulfur of nearly any kind is a fungicide, and
-the whole point of compost tea is to get growers away from using fungicides entirely.
-When starting an AACT program, growers should stop all copper sulfate, sulfur, and
-toxic chemical fungicide applications to allow the beneficial biology to establish
-itself on leaf surfaces without interference.
-
-If the tea is not yet adequate and a mildew outbreak occurs during the transition
-period, Ingham suggests using potassium salts (KCl or KOH) such as Kaligreen or
-Armicarb as a less harmful alternative to copper and sulfur. Baking soda mixed to
-a 1-5% solution can be applied directly to problem areas on roses or grape vines,
-but only on a limited basis. The biology can recover quite easily after potassium
-salt applications, but it takes weeks to months or even years to recover from toxic
-chemical fungicide impacts. This recovery timeline alone justifies transitioning
-entirely to biological management.
-
-## Fungal Tea Brewing Considerations
-
-Achieving truly fungal-dominant teas requires specific ingredient choices that favor
-fungal growth over bacterial growth. Fungal foods like humic acids, fish
-hydrolysate, oatmeal, and cornmeal or bran promote hyphal extension, while
-bacterial foods like molasses should be minimized or omitted entirely for vineyard
-teas. The compost base should be fungal-dominated compost with adequate fungal
-biomass verified by microscopy before brewing begins.
-
-For vineyards transitioning from conventional to biological management, the first
-and possibly second year may need additional nutrients while the [[aact-nitrogen-forms-microbial-nutrient-cycling-ingham]]
+- Full details were published in the [[aact-nitrogen-forms-microbial-nutrient-cycling-ingham]]
 system is getting established. Petiole analysis should guide any supplemental
 nutrient additions, and deficient nutrients can be added directly to the compost
-tea for rapid plant uptake facilitated by the [[cannabis-cultivar-microbial-community-effects]].
-
-## Water Usage Reduction
-
-A notable secondary benefit of the AACT program in vineyards is significant water
-reduction. As the soil microbiology rebuilds soil health and improves soil
-structure, water usage typically decreases by 30% in the first year and up to 50-60%
-by the second and third years. This is because improved soil aggregation increases
-water-holding capacity while [[arbuscular-mycorrhizal-networks]] extend the effective root zone.
+tea for rapid plant uptake facilitated by the [[arbuscular-mycorrhizal-networks]] extend the effective root zone.
 Growers should reduce irrigation applications accordingly when using compost tea,
 and after 4-5 years of healthy trees, applications can decrease to seasonal only.
 
@@ -128,11 +58,93 @@ keep their numbers low and prevent anaerobic contamination.
 
 ## Pest Management Integration
 
-Compost tea applications in vineyards also support [[comparison-beneficial-insects-guide-vs-integrated-pest-management]].
-[[ingham-aact-beauveria-fruit-fly-beneficial-bacteria-inoculant]] species in properly brewed teas can be repugnant to insects,
+Compost tea applications in vineyards also support [[ingham-aact-beauveria-fruit-fly-beneficial-bacteria-inoculant]] species in properly brewed teas can be repugnant to insects,
 reducing feeding by leafhoppers, whiteflies, and aphids on grape foliage. Some
 beneficial bacterial species encourage the growth of beneficial fungi that occupy
 the space disease fungi would otherwise use, providing a dual protective mechanism
 against both disease and pest pressure. For vineyards using any pesticide
 applications, Ingham recommends applying compost tea three days after each pesticide
 treatment to help restore the beneficial biology that was damaged by the chemical.
+
+## Overview
+
+Ingham Aact Vineyard Fungal Dominant Mildew Elimination represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish ingham aact vineyard fungal dominant mildew elimination
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving ingham extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Ingham Aact Vineyard Fungal Dominant Mildew Elimination finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for ingham aact vineyard fungal dominant mildew elimination. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+ingham aact vineyard fungal dominant mildew elimination and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Ingham Aact Vineyard Fungal Dominant Mildew Elimination has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of ingham aact vineyard fungal dominant mildew elimination into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[aact-brewer-machine-design-testing-standards-ingham]]
+- [[aact-clopyralid-persistent-herbicide-compost-contamination-ingham]]
+- [[aact-saprophytic-pathogenic-fungal-spectrum-hyphal-diameter-ingham]]

@@ -8,7 +8,7 @@ type: concept
 
 ## Overview
 
-One of the most significant insights from [[permaculture-design]] is the relationship between species richness, system scale, management intensity, and economic returns. Mollison presents a rigorous analysis showing that the optimal number of species in a polyculture depends critically on whether one measures returns in dollars or in total nutritional yield — and that these two metrics peak at dramatically different levels of diversity. This has profound implications for how we design and manage productive landscapes.
+One of the most significant insights from [[fungal-species-richness-and-diversity-indices|diversity]]. This has profound implications for how we design and manage productive landscapes.
 
 ## Species Richness and Zonation
 
@@ -102,7 +102,7 @@ The fundamental tension in polyculture design is between ecological richness and
 - **Sacrifices of yield, quality, and stability** result from the simplification demanded by broadacre mechanization
 - **People are essential** to complex polyculture — the depopulation of rural areas is a primary driver of agricultural simplification
 
-## Planning the Whole Site
+## [[village-polyculture-species-richness-and-site-planning|Planning]] the Whole Site
 
 Even in established polycultures, periodic re-survey with special attention to key factors can significantly improve performance:
 
@@ -140,29 +140,10 @@ Figure 10.29 in the source illustrates a Nigerian polyculture for the humid trop
 
 This model demonstrates the integration of animals, annual crops, and tree crops in a single contoured system designed to eliminate runoff and maximize nutrient cycling.
 
-## Earthworks for Polyculture
+## See Also
 
-Figure 10.30 shows earthworks for a 2-hectare sub-tropical site (approximately 7° slope) with:
-- Heavy emphasis on diverse water capture
-- Fire control measures integrated into the design
-- Swales and padi (rice terrace) crop areas
-- Dense fuel and food forestry
-- Complex water paths flowing through the system
-- Slope oriented to the sun side for maximum solar gain
-
-## Key Principles
-
-1. **Diversity is context-dependent** — Optimal species count depends on scale, labor, and measurement criteria
-2. **Nutritional analysis favors diversity** — 50-100 species for complete nutrition vs. 6-8 for maximum cash returns
-3. **Zonation is essential** — Richness near home, simplicity far away
-4. **Gardens are experimental zones** — Test polyculture assemblies at small scale before extending
-5. **People are the limiting factor** — Complex polycultures require human attention; depopulation drives simplification
-6. **Seven factors govern complexity** — Labor, proximity, economics, guilds, processing, area, and maturity
-7. **200-400 species is achievable** — In complex village situations with integrated management
-8. **Re-assessment is ongoing** — Even established systems benefit from periodic review of access, water, and earthworks
-## See also
-
-- [[polyculture-design-evolution]]
-- [[comparison-food-forest-vs-polyculture]]
-- [[comparison-monoculture-vs-polyculture]]
-- [[ecological-succession-in-permaculture-design]]
+- [[evolving-polyculture-design]]
+- [[integrated-pest-management-in-tropical-polycultures]]
+- [[holzer-vegetable-garden-polycultures]]
+- [[plant-guilds-and-polycultures]]
+- [[holzer-polycultures-catch-crop-combinations]]

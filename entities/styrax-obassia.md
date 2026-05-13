@@ -109,13 +109,8 @@ Several cultivars have been selected in the nursery trade, including 'Emerald Pa
 
 ## See Also
 
-- [[hamamelis-virginiana]]
 - [[stewartia-pseudocamellia]]
-- [[magnolia-stellata]]
 - [[edgeworthia-chrysantha]]
-- [[cornus-florida]]
 - [[forsythia-suspensa]]
-- [[syringa-vulgaris]]
 - [[jasminum-officinale]]
-- [[hydrangea-macrophylla]]
 - [[ligustrum-vulgare]]

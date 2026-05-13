@@ -14,12 +14,7 @@ sources:
   - Cochrane, T.S. (2006). "Mertensia." Flora huckleberries-and-wild-berries-of-north-america North of Mexico, Vol. 16.
   - RHS (2024). "Mertensia virginica." Royal Horticultural Society Plant Finder.
   - Gleason, H.A. & Cronquist, A. (1991). Manual of Vascular Plants of Northeastern United States and Adjacent Canada, 2nd ed. New York Botanical Garden.
-  - Weakley, A.S. (2020). Flora of the Southeastern United States. University of [[north-carolina-mycodiversity]] Herbarium.
----
-
-## Overview
-
-Mertensia virginica, commonly known as Virginia bluebells, is a spring ephemeral perennial in the family Boraginaceae. It is native to [[polypore-fungi-eastern-north-america]] and is among the most recognizable wildflowers of eastern deciduous forests.
+  - Weakley, A.S. (2020). Flora of the Southeastern United States. University of [[polypore-fungi-eastern-north-america]] and is among the most recognizable wildflowers of eastern deciduous forests.
 
 The plant produces nodding, trumpet-shaped flowers that emerge pink and mature to a distinctive porcelain blue. It forms large, showy colonies in floodplain forests and moist woodlands in early to mid-spring.
 
@@ -43,9 +38,7 @@ Meriwether Lewis collected Mertensia virginica specimens during the Lewis and Cl
 
 The genus Mertensia contains approximately 45 species, with centers of diversity in western North America and central Asia. Mertensia virginica is the only eastern North American species commonly cultivated.
 
-It is closely related to the western North American species Mertensia paniculata (tall bluebells) and [[mertensia-maritima]] (oyster plant). Synonyms include Pulmonaria virginica and Mertensia pulchella.
-
-Mertensia maritima is notably different ecologically, being a coastal species with oyster-flavored leaves. The eastern Mertensia virginica shares no overlap with its western congeners in [[mushroom-natural-habitats]].
+It is closely related to the western North American species Mertensia paniculata (tall bluebells) and [[mushroom-natural-habitats]].
 
 Chromosome number is 2n = 24. The species shows little genetic [[psilocybin-psilocin-variation-across-flushes]] its range, suggesting post-glacial expansion from a limited number of refugia.
 

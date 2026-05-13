@@ -3,47 +3,14 @@ title: Summer Crops in Greenhouses (Tomatoes, Peppers, Eggplant, Cucumbers)
 created: 2026-04-26
 sources: The coleman coleman coleman-winter-harvest-planting-schedule philosophy coleman-winter-harvest-planting-schedule Handbook, eliot-coleman (2009), Chapter 9
 tags:
-  - [[cold-greenhouse-growing]]
-  - summer-crops
-  - tomatoes
-  - cucumbers
-  - peppers
-  - vertical-growing
-  - coleman
-  - trellising
-type: concept
-updated: 2026-04-26
----
-
-# Summer Crops in Greenhouses
-
-Eliot Coleman devotes significant greenhouse space during the warm
-months to high-value summer crops, particularly tomatoes, cucumbers,
-peppers, and eggplants. These warm-season crops bring substantially
-higher dollar returns than [[coleman-winter-greens-nutritional-quality-cold-sweetening]], with tomatoes alone
+  - [[coleman-winter-greens-nutritional-quality-cold-sweetening]], with tomatoes alone
 generating three times more revenue than any other single crop at the
 farm stand. The greenhouse provides essential protection in the cool
 Maine coastal climate, where outdoor tomatoes do not begin ripening
 until early August.
 
 Coleman considers three crops most economically significant for
-[[coleman-greenhouse-summer-crops]] production: tomatoes, cucumbers, and peppers.
-The tomato and cucumber signs at the farm stand catch the public
-eye, with peppers ready about two to three weeks later. Eggplants
-have been trialed as a heated crop but were ultimately discontinued.
-
-## Tomatoes
-
-Coleman grows three basic tomato varieties: an early round red
-six-to-ten-ounce standard tomato, a later-maturing larger red
-beefsteak type, and a cherry tomato for basket sales. Modern
-greenhouse-adapted cultivars have proven best for growth, yield,
-and eating quality on the farm's soil. Coleman advises always being
-on the lookout for better varieties and running trials with new
-candidates every year.
-
-Starting tomato plants from seed involves repotting twice to ensure
-uninterrupted [[soil-moisture-management-and-root-growth]]. Seeds germinate in mini-blocks on heat
+[[soil-moisture-management-and-root-growth]]. Seeds germinate in mini-blocks on heat
 pads at 70 degrees Fahrenheit, then move to two-inch blocks after
 seven to eight days. These remain on heating pads for ten days
 before being potted into five-inch square pots, the only crop for
@@ -79,13 +46,7 @@ ends, plants curve around corners to partner rows moving in the
 opposite direction, resembling circular trolleys in dry-cleaning
 establishments. This lowering and shifting is repeated each time
 tops reach the wire, keeping the top 8 feet of each vine producing
-continuously from [[coleman-overwintered-onions-and-early-spring-crops]] through late fall.
-
-## Managing Soil Temperature
-
-When a greenhouse has been occupied all winter by unheated spinach,
-the soil is comparison  growing for tomato transplanting. Coleman pulls back inner
-covers on sunny days during March to allow [[mollison-designers-passive-solar-heating-building-design]] of the
+continuously from [[mollison-designers-passive-solar-heating-building-design]] of the
 soil, then runs a propane heater for a few days before the April 7
 transplant date to keep nights above 60 degrees Fahrenheit.
 
@@ -118,8 +79,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[eliot-coleman]]
 - [[coleman-greenhouse-summer-crops]]
-- [[coleman-backwards-farm-winter-only-summer-fallow]]
 - [[coleman-summer-fallow-green-manure-greenhouse]]
 - [[coleman-overwintered-onions-and-early-spring-crops]]

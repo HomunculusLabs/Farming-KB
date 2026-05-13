@@ -6,27 +6,19 @@ type: concept
 
 # Heat Transfer Mechanisms
 
-Heat transfer is a fundamental process governing site climate, building design, and agricultural planning in [[permaculture]] systems. Understanding how heat moves through environments allows designers to position structures, select plant species, and create microclimates that reduce energy inputs and improve growing conditions.
-
-## The Three Grades of Heat Transfer
-
-Heat moves through the environment via three distinct mechanisms, each operating at different scales and efficiencies:
-
-### Low-Grade Heat: Conduction
-
-Conduction is the transfer of heat between solids (or between fluids) through direct physical contact. When one end of a solid is heated, thermal energy diffuses through the material toward cooler regions. This is the basis of [[radiant-floor-heating]] systems, where hot water pipes buried in concrete slabs conduct warmth across an entire floor surface. Conduction is highly efficient for heating solid masses, which is why slab-floored houses with embedded heating elements perform so well — provided the slab is insulated from the surrounding earth to prevent heat loss downward.
+Heat transfer is a fundamental process governing site climate, building design, and agricultural planning in [[radiant-floor-heating]] systems, where hot water pipes buried in concrete slabs conduct warmth across an entire floor surface. Conduction is highly efficient for heating solid masses, which is why slab-floored houses with embedded heating elements perform so well — provided the slab is insulated from the surrounding earth to prevent heat loss downward.
 
 Conduction is inherently local in uninsulated systems, as heat is rapidly radiated away from exposed soil surfaces. The key to harnessing conduction effectively is insulation: solid foam, straw, cork, sawdust, or air-trapping materials placed between the heated mass and the surrounding environment.
 
 ### Medium-Grade Heat: Convection
 
-Convection is the movement of heat via the circulation of fluids and gases. As air or water is heated, it expands, decreases in density, and rises, while cooler, denser fluid sinks to replace it. This creates circulation patterns — convection currents — that transfer heat throughout a system.
+Convection is the movement of heat via the circulation of fluids and gases. As air or water is heated, it expands, decreases in density, and rises, while cooler, denser fluid sinks to replace it. This creates [[global-atmospheric-circulation-patterns]] — convection currents — that transfer heat throughout a system.
 
-In the atmosphere, columns of heated air over land ascend as "Overbeck jets," and at altitude, cooling causes condensation and rainfall. These convectional rains are responsible for the patchy rainfall patterns characteristic of desert regions. Valley climates are largely shaped by convection: cool, dense air drains downslope at night and pools in low-lying areas, while daytime heating sends warm air rising up slopes.
+In the atmosphere, columns of heated air over land ascend as "Overbeck jets," and at altitude, cooling causes condensation and rainfall. These convectional rains are responsible for the patchy rainfall patterns characteristic of desert regions. [[landscape-effects-of-altitude-and-valley-climates]] are largely shaped by convection: cool, dense air drains downslope at night and pools in low-lying areas, while daytime heating sends warm air rising up slopes.
 
-**[[convection-loops-and-thermosiphons]]:** When heated air or water is contained in pipes or ducts, a closed-loop circulation system can be established. By applying heat to the lower portion of the loop and providing a minimum vertical rise of 40 cm (about 18 inches), a [[thermosiphon]] effect is created — the heated fluid rises naturally and the cooled fluid descends, driving continuous circulation without pumps. This principle is used in solar hot water systems, where flat-plate collectors positioned below storage tanks create self-regulating thermosiphons that transfer heat to radiators or hot water tanks.
+**[[thermosiphon]] effect is created — the heated fluid rises naturally and the cooled fluid descends, driving continuous circulation without pumps. This principle is used in solar hot water systems, where flat-plate collectors positioned below storage tanks create self-regulating thermosiphons that transfer heat to radiators or hot water tanks.
 
-Convection does not operate effectively in closed, unventilated rooms, where hot air stratifies in a quiet layer below the ceiling. Air is difficult to heat and stores little thermal energy, making air convection an inefficient means of heating building interiors, despite its role as the primary engine of global atmospheric circulation.
+Convection does not operate effectively in closed, unventilated rooms, where hot air stratifies in a quiet layer below the ceiling. Air is difficult to heat and stores little thermal energy, making air convection an inefficient means of heating building interiors, despite its role as the primary engine of global [[global-weather-patterns-atmospheric-circulation]].
 
 ### High-Grade Heat: Radiation
 
@@ -85,11 +77,11 @@ Reflective insulation (shiny foil) prevents radiative heat loss but loses effect
 
 ## Practical Design Applications
 
-Key design strategies derived from heat transfer principles include:
+Key [[cold-climate-design-strategies]] derived from heat transfer principles include:
 
-1. **Site houses on sun-facing slopes** in the thermal belt for all but tropical climates
+1. **Site houses on sun-facing slopes** in the thermal belt for all but [[fukuoka-natural-farming-tropical-climates]]
 2. **Position solar collectors** at least 0.5 m below storage or use points to enable thermosiphon circulation
-3. **Build solar chimneys** to induce cross-ventilation by drawing in cool air
+3. **Build [[mollison-designers-solar-chimneys-and-passive-cooling-in-desert-housing]]** to induce cross-ventilation by drawing in cool air
 4. **Insulate thermal masses** (earth floors, brick walls, stone stoves) from ground and exterior surfaces
 5. **Use reflective insulation** in solar attics and wall cavities, kept clean and free-hanging
 6. **Convert excess heat** to fuel cross-ventilation systems in arid and tropical areas

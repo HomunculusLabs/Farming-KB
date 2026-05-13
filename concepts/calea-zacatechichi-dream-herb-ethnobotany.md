@@ -64,10 +64,7 @@ most significant finding noted by Schultes is the presence of an unidentified
 alkaloid that may be responsible for the auditory hallucinations reported by
 users. The auditory dimension of the experience, particularly the perception
 of one's own heartbeat and pulse in amplified form, suggests a mechanism
-distinct from the [[serotonin-receptor-interference-psychedelic-mechanism]] agonism characteristic of classical
-hallucinogens like [[psilocybin]] or [[mescaline]].
-
-Subsequent research beyond the [[golden-guide-amanita-muscaria-and-soma]] has identified additional compounds
+distinct from the [[psilocybin]] or [[golden-guide-amanita-muscaria-and-soma]] has identified additional compounds
 in Calea zacatechichi, including sesquiterpene lactones and flavonoids, though
 the precise psychoactive constituents remain a subject of ongoing
 investigation. The plant does not appear to contain any of the major known
@@ -82,44 +79,6 @@ Calea, distributed across open or scrubby hillsides in tropical America.
 Several species of Calea enter into folk medicine in various parts of Latin
 America, but C. zacatechichi appears to be unique in its psychoactive
 applications. The genus is native to the Americas and is most diverse in
-Mexico and [[guzman-allen-gartz-neurotropic-fungi-central-america-caribbean]].
-
-## Cultural Significance
-
-The use of Calea zacatechichi by the Chontal represents one of the most
-specifically targeted psychoactive plant traditions known: a plant employed
-
-## Practical Applications
-
-The principles and techniques discussed here have wide-ranging applications
-across multiple disciplines and contexts. Practitioners and researchers
-continue to explore new ways to integrate these concepts into modern practice,
-adapting traditional knowledge to contemporary challenges and opportunities.
-
-## Key Considerations
-
-Several important factors influence the effectiveness and outcomes described
-in this topic. Understanding these considerations helps practitioners make
-informed decisions and avoid common pitfalls. Environmental conditions,
-timing, and material selection all play critical roles.
-
-## Historical Context
-
-The historical development of this subject reflects centuries of accumulated
-knowledge and practical experience. From traditional methods passed down
-through generations to modern scientific approaches, the evolution continues
-to inform current best practices and research directions.
-
-## Common Challenges
-
-Practitioners frequently encounter several challenges when working with
-these concepts. Climate variability, resource limitations, and knowledge
-gaps can all affect outcomes. Addressing these challenges requires patience,
-observation, and a willingness to adapt approaches based on results.
-
-## See Also
-- [[calea-zacatechichi]]
-- [[psilocybin]]
+Mexico and [[calea-zacatechichi]]
 - [[mescaline]]
-- [[soma]]
 - [[lysergamide]]

@@ -23,32 +23,16 @@ sources:
 
 ## Overview
 
-The gasteromycetes are a section of [[singh-basidiomycete-fungi-in-petroleum-hydrocarbon-cleanup]]
-defined by their production of spores inside enclosed
-[[bloomfield-asterophora-and-mycoparasites-of-fruiting-bodies]] rather than on exposed gills or pores.
+The gasteromycetes are a section of [[bloomfield-asterophora-and-mycoparasites-of-fruiting-bodies]] rather than on exposed gills or pores.
 This group encompasses some of the most bizarre organisms
-in the [[fungal-kingdom-diversity]]: phallic stinkhorns erupting from
-buried eggs, [[stinkhorn-cage-fungi-reproductive-biology]] unfolding like geometric sculptures,
+in the [[stinkhorn-cage-fungi-reproductive-biology]] unfolding like geometric sculptures,
 puffballs emitting clouds of spores, and bird's nest fungi
 splashing spore packets onto grass blades.
 
 ## What Are Gasteromycetes?
 
 The term derives from Greek meaning stomach fungi,
-referring to internal [[light-role-spore-formation-geotropic-sensitivity-psilocybe-cubensis]]. Unlike typical
-mushrooms whose basidia are exposed on gills, tubes,
-or spines, gasteromycetes produce spores internally.
-The group is polyphyletic, not a natural taxonomic unit.
-Different lineages independently evolved enclosed
-fruiting bodies from mushroom-forming ancestors.
-Genetic data show false truffles are closely related
-to boletes. Bolete fertile tubes develop beneath the
-soil and become exposed as the mushroom expands its cap.
-Very few genes specify emergence, and when these mutate,
-the bolete remains buried.
-The gradual loss of unfolding capacity results in spore
-production within enclosed tissues, precluding the
-water-dependent [[bloomfield-buller-drops-and-surface-tension-spore-catapult-mechanism]]. This enables
+referring to internal [[bloomfield-buller-drops-and-surface-tension-spore-catapult-mechanism]]. This enables
 colonization of much drier habitats including sandy
 soils and deserts.
 
@@ -117,8 +101,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[stinkhorn-fungi]]
 - [[mr-bloomfields-orchard-stinkhorn-fungi-and-spore-dispersal]]
-- [[dom]]
 - [[det]]
 - [[spore]]

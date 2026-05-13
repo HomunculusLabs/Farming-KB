@@ -106,13 +106,8 @@ When grown under stress (intense light, limited water), the leaves develop deepe
 
 ## See Also
 
-- [[faucaria-tigrina]]
 - [[lithops-localis]]
-- [[conophytum-bilobum]]
 - [[aloe-vera]]
-- [[crassula-ovata]]
 - [[haworthia-fasciata]]
-- [[graptopetalum-paraguayense]]
 - [[cotyledon-tomentosa]]
-- [[sedum-rupestre]]
 - [[dudleya-farinosa]]

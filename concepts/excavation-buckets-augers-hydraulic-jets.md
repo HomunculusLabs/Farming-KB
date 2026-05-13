@@ -4,9 +4,9 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Excavation Equipment — Buckets, Augers, and Hydraulic Jets
+# Excavation Equipment — Buckets, Augers, and [[holzer-water-power-hydraulic-ram|hydraulic-conductivity|Hydraulic]] Jets
 
-Beyond the primary blade machines, a range of specialized excavation tools extends the earthworker's capacity for precise shaping, deep excavation, and work in challenging terrain. Each tool type addresses specific conditions that blade machines cannot handle effectively.
+Beyond the primary blade machines, a range of specialized excavation [[excavation-tools-and-drilling-methods|tools]] extends the earthworker's capacity for precise shaping, deep excavation, and work in challenging terrain. Each tool type addresses specific conditions that blade machines cannot handle effectively.
 
 ## Bucket Machines
 
@@ -102,7 +102,7 @@ With the advent of the swamp tractor, marsh blasting is less common, but the bas
 ### Types and Materials
 
 - **Nitroglycerine-based** — gelignite, dynamite, or plastique (cellulose treated with acid in glycerine, absorbed into wood dust or clay earths)
-- **Ammonium nitrate and dieseline** mix — known in the trade as "chickenshit" — an inexpensive option
+- **[[plant-available-nitrogen-ammonium-nitrate]] and dieseline** mix — known in the trade as "chickenshit" — an inexpensive option
 - Nitrates have from ancient times been gathered from manures, toilet pit soils, or extracted from guano
 
 ### Safety Considerations
@@ -118,12 +118,12 @@ The quiet but powerful action of water jets assists earthworks in several ways:
 1. **Water bore drilling (water spear)** — a simple jet nozzle fixed inside a pipe and connected to a garden tap can drill a bore in sands, gravels, or deep soils in minutes to hours
 2. **Jetty piling** — an old hose-pipe fastened to a sharpened pile or post and connected to a hose will sink pilings in silt or sand rapidly
 3. **Dam silt removal** — a jet pump removes silt, sediment, mulch, and even large gravel from a dam, depositing these behind a retaining wall as rich terrace soil while water flows back to the dam
-4. **Gravel and soil washing** — jets fired at loose sediment wash down gravels, sands, and soils for mining, terrace construction, or removal of land slips from roads and fields
+4. **Gravel and soil washing** — jets fired at loose sediment wash down gravels, sands, and soils for mining, [[holzer-terrace-construction-guide]], or removal of land slips from roads and fields
 
 ### Hydraulic Nozzles and Systems
 
 - Hydraulic nozzles, "drills," and jet pumps are manufactured by industry for these purposes
-- Used to **steer deep drills** in boreholes to specific locations underground for tapping oil, thermal energy, or venting mines and caves
+- Used to **steer deep drills** in boreholes to specific locations underground for tapping oil, [[phase-change-materials-thermal-energy-storage]], or venting mines and caves
 - A jet plus a cutting drill will cool the area and remove waste in one operation
 
 ### Safety Warning
@@ -140,24 +140,8 @@ Powerful air jets take gravels from mines using similar principles. A whole seri
 
 Rakes are used for **fine levelling** of excavated earth surfaces, creating the smooth, even grades needed for final surfaces.
 
-### Rollers
-
-Rollers **compact** excavated earth. Compaction is only necessary where traffic or water retention is intended.
-
-#### Compaction Guidelines
-
-- **Water sprinkling** may be needed in dry conditions to achieve proper compaction
-- **Compact only 15-30 cm (6-12 inches)** of soil thoroughly at a time
-- Even very heavy machines can seldom compact depths greater than 38 cm (15 inches)
-- **Impact or hand compaction** is effective for less than half that depth
-- **Strict adherence to careful compaction** is necessary for dams and house foundations
-
-#### Modern Compacting Machines
-
-Modern compacting machines often **vibrate**, using a pneumatic or mechanical eccentric weight to impact and shake soil as it is compacted. This vibration significantly improves compaction efficiency compared to static weight alone.
-
 ## See Also
 
-- [[earthmoving-machinery]]
-- [[earthmoving-machinery-tools]]
-- [[excavation-tools-and-drilling-methods]]
+- [[earth-resources-excavation]]
+- [[earth-resources-materials-excavation]]
+- [[water-infiltration-soil-hydraulic-conductivity]]

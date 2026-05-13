@@ -10,34 +10,13 @@ sources:
 ---
 # Fukuoka's Visit to Africa — Greening the Desert
 
-In  devotes an entire chapter, "[[fukuoka-forty-days-africa]] in Africa," to his 1985 trip to Somalia, where he attempted to introduce [[comparison-natural-farming-vs-permaculture]] methods to African refugees and explore the potential for [[fukuoka-aerial-seeding-clay-pellets-desert-revegetation-technique]]. This represents the most dramatic application of his [[fukuoka-road-seed-ball-experiments]], clay is the essential binding ingredient for [[comparison-seed-balls-vs-direct-seeding]]. The presence of clay meant that his technique could be applied directly. "If there is clay, then there is hope," he declared.
-
-## Political Obstacles from the Somali Government
-
-Fukuoka's efforts were repeatedly hampered by the Somali government. Donations of seeds and his aim of "peasant self-sufficiency through natural farming" went counter to national policy, which encouraged "the production of cash crops on large plantations." In the eyes of the government, his proposals amounted to rebellion. He received threats: "If the secret police find that you've taken even one photo, you won't be allowed to return to Japan."
-
-Visa delays were lengthy. Even within the country, he discovered that "without the cooperation of the government, one can do nothing." His ultimate desire was to test scattering drought-hardy clover seeds over [[mollison-arid-lands-aquatic-species]] by airplane, but "this was not understood in Somalia." The country lacked even a postal system, having developed a system of writing only about twelve years prior, making communications virtually impossible.
+In  devotes an entire chapter, "[[comparison-natural-farming-vs-permaculture]] methods to African refugees and explore the potential for [[fukuoka-road-seed-ball-experiments]], clay is the essential binding ingredient for [[mollison-arid-lands-aquatic-species]] by airplane, but "this was not understood in Somalia." The country lacked even a postal system, having developed a system of writing only about twelve years prior, making communications virtually impossible.
 
 ## The UN Garden Project
 
 The Somalia trip ultimately bore unexpected fruit. In spring 1986, the Somalian government recognized the benefits of home gardens. The young Japanese man who had shown Fukuoka around was promoted to head of JVC operations in Somalia. A proposal he made was accepted at the United Nations, which started "a garden project in Somalia and Ethiopia with over a million dollars in funds."
 
-Fukuoka also learned of Henri Lucy, a Frenchman living in Africa who had heard of his work. Lucy said "he would propose in several countries that seed be sown by airplane and would try to have the U.N. do this." Lucy appeared to be "the person in charge of such matters at the U.N." This connection between Fukuoka's grassroots seed distribution and the UN's formal desertification programs represented a small but significant bridge between his [[fukuoka-road-desert-revegetation-travels]] — the broader global context of desert work
-- [[fukuoka-road-natural-diet-health]] — the diet that refugees were denied
-- [[fukuoka-road-critique-of-modern-science]] — the scientific worldview behind failed aid approaches
-
-## The Causes of African Desertification
-
-Fukuoka identified both internal and external causes for Africa's ecological crisis. The internal cause: nomadic peoples, after gaining firearms, "began to raise large numbers of goats and cattle. I suspect that this is when vegetation began to disappear rapidly." The external cause: "conservation movements" destroyed rules "observed since antiquity" and "brought an end to the free movement of nomadic people," eliminating "the time between grazings essential for natural recovery of the land."
-
-He also cited agricultural modernization: "Native farms have been replaced with large plantations growing cash crops such as coffee, cocoa, sugar cane, and cotton, a change that caused rapid desertification of the flat plains."
-
-## The Three-Year Plan
-
-Fukuoka outlined his strategy for Somalia: scatter drought-hardy vegetable seeds over arid lands by airplane, and within three years establish basic vegetation cover. He argued that "revegetating the desert is totally out of the question unless one sows seed simultaneously over the entire desert by airplane. Also, desertification is proceeding at such a pace that any other approach is too little too late." This vision — fantastic as it seemed — gained concrete support from a French U.N. official and the promise of airplane access from American supporters.
-
-## Related
-
+Fukuoka also learned of Henri Lucy, a Frenchman living in Africa who had heard of his work. Lucy said "he would propose in several countries that seed be sown by airplane and would try to have the U.N. do this." Lucy appeared to be "the person in charge of such matters at the U.N." This connection between Fukuoka's grassroots seed distribution and the UN's formal desertification programs represented a small but significant bridge between his [[fukuoka-road-natural-diet-health]] — the diet that refugees were denied
 - [[fukuoka-visit-to-africa-detailed]] Concepts
 ## Practical Applications
 
@@ -97,8 +76,6 @@ through generations to modern scientific approaches, the evolution continues
 to inform current best practices and research directions.
 
 ## See Also
-- [[doc]]
 - [[det]]
-- [[soma]]
 - [[permaculture]]
 - [[natural-farming]]

@@ -134,8 +134,14 @@ replaces labor and chemical inputs with biological intelligence—the elegant
 efficiency of natural ecosystems working on the home scale.
 
 ## See Also
-- [[permaculture-plant-stacking-vertical-guilds]]
 - [[ozier-pdc-plant-guilds-and-polyculture-design]]
-- [[orchard-plant-guilds-mollison]]
 - [[permaculture-plant-guilds-companion-planting]]
 - [[permaculture-plant-guilds-companion-planting]]
+
+## See Also
+
+- [[plant-sensing-communication]]
+- [[phytochrome-red-far-red-light-switch-plant-pigment]]
+- [[cervantes-supercropping-plant-stress-techniques]]
+- [[ingham-brix-plant-health-indicator-limitations]]
+- [[potassium-plant-nutrition]]

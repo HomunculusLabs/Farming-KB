@@ -1,6 +1,6 @@
 ---
 
-title: Oriental Herbal Nutrient Ohn
+title: Oriental Herbal Nutrient (OHN) — Preparation and Use
 created: 2026-04-10
 updated: 2026-04-12
 type: concept
@@ -26,11 +26,11 @@ sources:
 
 # Oriental Herbal Nutrient (OHN)
 
-OHN is a medicinal [[herbal-tincture-making]] in [[korean-natural-farming]]. It functions as an immune booster for plants, a pest deterrent, and a disease preventative. Made by extracting the active compounds from five traditional medicinal herbs into alcohol, OHN provides plants with natural defense compounds (allicin, gingerol, capsaicin, etc.) that strengthen cell walls and repel pests.
+OHN is a medicinal herbal tincture in [[korean-natural-farming]]. It functions as an immune booster for plants, a pest deterrent, and a disease preventative. Made by extracting the active compounds from five traditional medicinal herbs into alcohol, OHN provides plants with natural defense compounds (allicin, gingerol, capsaicin, etc.) that strengthen cell walls and repel pests.
 
 ## The Five Herbs
 
-Cho's original formulation uses five medicinal herbs, each contributing specific [[cordyceps-cancer-bioactive-compounds]]:
+Cho's original formulation uses five medicinal herbs, each contributing specific bioactive compounds:
 
 | Herb | Active Compounds | Primary Function |
 |------|-----------------|-----------------|
@@ -117,7 +117,7 @@ From the IMO/bionutrients paper — a faster approach:
 4. Strain and add equal amount crude sugar/molasses for storage
 5. Dilute 2 tablespoons per gallon for spray
 
-This simplified version focuses on the two most potent herbs (garlic and ginger) and produces a functional pest control + [[cannabis-nutrient-solution-preparation]] in less time. It lacks the angelica and licorice components of Cho's full OHN but is effective for most [[hamilton-pest-and-disease-control-organic]] situations.
+This simplified version focuses on the two most potent herbs (garlic and ginger) and produces a functional pest control + nutrient solution in less time. It lacks the angelica and licorice components of Cho's full OHN but is effective for most pest and disease situations.
 
 ## Application Rates
 
@@ -125,11 +125,11 @@ This simplified version focuses on the two most potent herbs (garlic and ginger)
 |----------|----------|-------|
 | General plant health | 1:1000 | Foliar spray |
 | Pest prevention | 1:500-1000 | Spray before pest season |
-| [[cervantes-damping-off-seedling-disease-prevention]] | 1:500 | During humid/wet conditions |
+| Disease prevention | 1:500 | During humid/wet conditions |
 | Active pest infestation | 1:200-500 | Stronger dose, repeat every 3-5 days |
 | Seed treatment (SES) | 1 ml/L | Part of SES solution |
 | Soil drench | 1:500-1000 | Suppress soil-borne pathogens |
-| [[query-how-do-i-prevent-and-manage-transplant-shock-in-garden-plants]] | 1:500 | Dip roots or soil drench |
+| Transplant shock | 1:500 | Dip roots or soil drench |
 | Cannabis (vegetative) | 1:500-1000 | IPM spray |
 | Cannabis (flowering) | 1:1000 | Very sparingly — strong smell |
 

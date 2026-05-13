@@ -23,16 +23,7 @@ JADAM emphasizes that the quality of nitrogen matters more than quantity:
 
 ## Recommended Usage Pattern
 
-- Use [[jadam-cover-crop-wild-grass-symbiosis]] and fruit JLF as the main additional fertilizer
-- Use fish JLF specifically to promote growth (early to mid-growth stages)
-- Fish JLF has 3 times the nitrogen of human manure JLF and 50 times that of wild grass and fruit JLF
-- When using in the early stage of growth, dilute over 1000 times to avoid burning
-
-## Mackerel JADAM Liquid Fertilizer
-
-The simplest fish-based JLF preparation:
-- Fill half the container with mackerel
-- Fill up with water and throw in a handful of [[comparison-leaf-mold-composting-vs-hot-composting-method]]
+- Use [[comparison-leaf-mold-composting-vs-hot-composting-method]]
 - No need to stir
 - If too much mackerel, decomposition will be significantly slower; ensure enough water
 - To reduce smell, add phyllite powder
@@ -45,45 +36,7 @@ The simplest fish-based JLF preparation:
 ### Analysis (per 100 liters: mackerel + leaf mold)
 - pH: 6.8
 - EC (1:5): 135.15 ds/m
-- [[hamilton-composting-and-organic-matter-management]]: 128.20%
-- Total carbon: 74.36%
-- C/N ratio: 3.24%
-- P2O5: 0.332%, K2O: 0.729%
-- Contains Fe, Mn, Zn, Cu, and trace elements
-
-## Fish Meal JADAM Liquid Fertilizer
-
-Fish meal (dried powder) is more concentrated and convenient:
-- Put fish meal in the container, add water 10 times its weight
-- Add a handful of leaf mold
-- Because the solid keeps sinking, stir every 7-10 days for at least 3 months
-- After 3 months, stir once a month
-- The longer it ages, the higher the nitrogen content becomes
-- Can heat the solution to speed up the process
-- Dilution: 50-500 times
-- Application: soil or foliar
-- Expected effect: promotes growth
-
-### Analysis (per 100 liters: fish meal 10kg + leaf mold)
-- pH: 6.1
-- EC (1:5): 8.16 ds/m
-- Total nitrogen: 4.69%
-- C/N ratio: 3.67%
-- Lower EC than mackerel JLF but higher nitrogen percentage
-
-## Fish By-Product JLF
-
-For utilizing fish processing waste:
-- Similar preparation to fish meal JLF
-- Analysis (per 100 liters: fish by-product 10kg + leaf mold):
-  - Contains diverse nutrients comparable to whole fish
-  - Slightly different mineral profile depending on by-product type
-
-## Integration with JADAM System
-
-Animal by-product JLFs fit within the broader JADAM approach:
 - [[jadam-liquid-fertilizer]] -- general JLF principles
-- [[jadam-natural-nitrogen-fertilizer]] -- nitrogen-focused approaches
 - [[jadam-ultra-low-cost-agriculture]] -- the overall cost-reduction philosophy
 
 ## Practical Considerations
@@ -117,8 +70,81 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[jadam-liquid-fertilizer]]
 - [[composting]]
-- [[decomposition]]
 - [[jadam-liquid-fertilizer-nutritional-perspective]]
 - [[jadam-liquid-fertilizer-philosophy]]
+
+## Overview
+
+Jadam Animal Byproduct Liquid Fertilizer represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish jadam animal byproduct liquid fertilizer
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving jadam extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Jadam Animal Byproduct Liquid Fertilizer finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for jadam animal byproduct liquid fertilizer. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+jadam animal byproduct liquid fertilizer and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Jadam Animal Byproduct Liquid Fertilizer has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of jadam animal byproduct liquid fertilizer into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and

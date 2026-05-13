@@ -1,5 +1,5 @@
 ---
-title: Medicinal Mushroom Guide Chaga
+title: Chaga ([[chaga-inonotus-obliquus]]) — [[medicinal-mushroom-guide]]
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
@@ -57,7 +57,7 @@ Chaga is renowned for its exceptional antioxidant profile:
 - Anti-inflammatory compounds reduce skin redness and irritation.
 
 ### Anti-Aging and Longevity
-- [[ashwagandha]] in traditional use.
+- [[ashwagandha-cultivation-uses-and-adaptogenic-properties]] in traditional use.
 - Antioxidant protection against cellular aging.
 - Siberian folk tradition associates chaga with longevity.
 

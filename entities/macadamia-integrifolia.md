@@ -44,29 +44,7 @@ The fruit is a globular follicle 2–3 cm in diameter with a smooth, green peric
 
 The kernel is white to cream-colored and comprises 30–35% of the total nut weight by mass. Kernel recovery rate is a key breeding objective, with commercial cultivars achieving 32–38% recovery.
 
-Shell thickness and brittleness are also important [[cannabis-breeding-traits-selection-criteria-clarke]] for breeding programs. Thinner shells improve processing efficiency but may increase susceptibility to insect damage in the field.
-
-## Distribution and Habitat
-
-*M. integrifolia* is endemic to the coastal subtropical rainforests of southeastern Queensland, from the Mary River catchment north to the Sunshine Coast hinterland. Its native range spans approximately 150 km of coastline and adjacent ranges.
-
-The species naturally occurs at elevations of 0–500 meters in regions with annual rainfall of 1,000–2,000 mm. It grows as an understory to mid-canopy tree in complex notophyll vine forests.
-
-Common canopy associates include *Ficus* spp., *Araucaria cunninghamii*, and various myrtaceous species. The tree tolerates moderate shade in its juvenile phase but requires increased light for flowering and fruit production.
-
-It has been widely introduced to tropical and subtropical regions worldwide. Major commercial plantings exist in Hawaii, South Africa, Australia, Kenya, Guatemala, Brazil, Malawi, and Zimbabwe.
-
-Hawaii was historically the largest global producer during the 20th century. The first commercial orchards were established on the Big Island in the 1920s.
-
-South Africa overtook Hawaii as the leading producer in the 2010s and now accounts for approximately 40% of world supply. Australian production has also expanded significantly.
-
-In its native range, *M. integrifolia* is classified as a threatened species under Queensland state legislation. Habitat loss from urban development and agriculture has reduced wild populations considerably.
-
-## Cultivation
-
-Macadamia trees require a frost-free climate with mean annual temperatures of 18–25°C. They are sensitive to temperatures below −1°C and to prolonged waterlogging of the root zone.
-
-Optimal soils are well-drained, acidic (pH 5.0–6.5) loams or sandy loams with good [[hamilton-composting-and-organic-matter-management]] content. Trees are relatively tolerant of low-fertility soils compared to other nut crops.
+Shell thickness and brittleness are also important [[hamilton-composting-and-organic-matter-management]] content. Trees are relatively tolerant of low-fertility soils compared to other nut crops.
 
 Trees are typically propagated by grafting selected scions onto seedling rootstocks of *M. integrifolia* or hybrid rootstocks. Grafted trees begin bearing at 3–4 years, with commercial yields commencing at 7–8 years.
 
@@ -74,7 +52,7 @@ Full production is reached at 12–15 years, with mature trees yielding 30–80 
 
 Productive orchards can remain economically viable for 40–60 years with proper management. The long productive lifespan offsets the high initial establishment costs.
 
-Nut harvest occurs from late autumn through spring in the [[guzman-allen-gartz-africa-southern-hemisphere-underexplored-neurotropic-fungi]]. Mature nuts fall naturally and are collected from the [[fukuoka-orchard-floor-management]] at regular intervals using mechanical sweepers.
+Nut harvest occurs from late autumn through spring in the [[fukuoka-orchard-floor-management]] at regular intervals using mechanical sweepers.
 
 Post-harvest processing includes dehusking within 24 hours to prevent fermentation. Nuts are then dried to below 1.5% moisture content before mechanical cracking of the hard shell.
 
@@ -87,3 +65,86 @@ Integrated pest management is critical in commercial orchards. Major pests inclu
 Macadamia kernels are exceptionally energy-dense, providing approximately 718 kcal per 100 g. They are composed of roughly 72% total lipids, 8% carbohydrates, 8% protein, and 2% dietary fiber.
 
 The lipid profile is dominated by monounsaturated fatty acids, primarily oleic acid at approximately 60% of total fatty acids. Palmitoleic acid contributes approximately 20%, giving macadamia oil one of the highest palmitoleic acid levels among edible oils.
+
+## Overview
+
+Macadamia Integrifolia represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish macadamia integrifolia
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving macadamia extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Macadamia Integrifolia finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for macadamia integrifolia. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+macadamia integrifolia and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Macadamia Integrifolia has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of macadamia integrifolia into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[comparison-macadamia-vs-pecan-vs-pistachio-cultivation]]
+- [[macadamia-entity]]
+- [[macadamia-nut-cultivation-and-uses]]

@@ -4,11 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Arid Land Fertilization and Pollution Risks
-
-## Overview
-
-Fertilization practices in arid lands require a fundamentally different approach from those in humid temperate zones. The combination of fragile soils, limited water, extreme temperatures, and slow organic matter breakdown means that misapplication of fertilizers or pollutants has far more severe and longer-lasting consequences than in more forgiving environments. This page covers practical fertilization strategies, innovative planting techniques, and the critical dangers of chemical pollution in desert ecosystems.
+# Arid [[water-pollution-contaminants-and-treatment|water]], extreme temperatures, and slow organic matter breakdown means that misapplication of fertilizers or pollutants has far more severe and longer-lasting consequences than in more forgiving environments. This page covers practical fertilization strategies, innovative planting techniques, and the critical dangers of chemical pollution in desert ecosystems.
 
 ## Fertilization Philosophy for Arid Areas
 
@@ -144,13 +140,11 @@ The overarching principle for desert pest and weed management is clear: **we sho
 1. **Humus is the foundation**: All fertility strategies begin with organic matter building
 2. **Test, do not guess**: Soil and leaf tissue analysis before and after growing
 3. **Spare application**: Less is more with fertilizers in arid environments
-4. **Ban persistent biocides**: No chemical controls where aquatic systems cannot break them down
-5. **Protect water quality**: Bore water testing and careful sewage placement are non-negotiable
-6. **Use wastewater wisely**: Sewage supports fuelwood trees but requires salt monitoring
-7. **Small, careful systems**: Assess total system capacity before expanding
-8. **Natural pest management**: Out-think problems rather than poison them
+
 ## See Also
 
+- [[mollison-permaculture-two-arid-water-harvesting-and-erosion-control]]
+- [[dighton-fungi-desert-arid-ecosystems]]
 - [[arid-soil-fertility-and-mineral-management]]
-- [[soil-micronutrients-sulphur-potassium-calcium-trace-elements]]
-- [[dryland-soils-and-mineral-nutrition]]
+- [[fungal-diversity-deserts-arid-lands]]
+- [[animal-systems-arid-areas-permaculture]]

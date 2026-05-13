@@ -9,7 +9,7 @@ tags: [technique, cultivation, casing, mushroom-growing, bed-management]
 
 ## Description
 
-Casing is a fundamental technique in mushroom cultivation that involves covering the fully spawned compost bed with a layer of soil or soil-like material. This practice, detailed extensively by Benjamin Minge Duggar in his 1915 text "Mushroom Growing," is critical for initiating fruiting body (sporophore) formation and maintaining proper moisture conditions in the mushroom bed. The casing layer creates a microenvironment that stimulates the transition from vegetative mycelial growth to reproductive fruiting.
+Casing is a fundamental technique in [[mushroom-cultivation]] that involves covering the fully spawned compost bed with a layer of soil or soil-like material. This practice, detailed extensively by Benjamin Minge Duggar in his 1915 text "Mushroom Growing," is critical for initiating fruiting body (sporophore) formation and maintaining proper moisture conditions in the mushroom bed. The casing layer creates a microenvironment that stimulates the transition from vegetative mycelial growth to reproductive fruiting.
 
 ## Classification
 
@@ -100,9 +100,6 @@ Casing represents one of the most important innovations in mushroom cultivation.
 
 ## See Also
 
-- [[mushroom-spawn]]
 - [[mushroom-compost]]
-- [[mushroom-compost-fermentation]]
 - [[agaricus-campestris]]
-- [[flat-bed-system]]
 - [[ridge-bed-system]]

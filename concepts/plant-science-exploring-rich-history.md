@@ -8,12 +8,8 @@ sources: [/Users/t3rpz/wiki/raw/papers/unknown-exploring-the-rich-history-of-pla
 type: concept
 ---
 
-# Exploring the Rich [[oss-oeric-growing-parameters-cubensis]] for applied plant science
-- [[oss-oeric-psilocybe-cubensis-strain-guide]] for fungal botany
-- [[brassinosteroid-psilocybe-cubensis-mycelial-growth-research]]
-## Background and Context
-
-Exploring the Rich [[history-of-plant-science]] is an important subject that has garnered significant attention
+# Exploring the Rich [[oss-oeric-psilocybe-cubensis-strain-guide]] for fungal botany
+- [[history-of-plant-science]] is an important subject that has garnered significant attention
 from researchers, practitioners, and enthusiasts alike. The topic
 sits at the intersection of multiple disciplines, drawing on insights
 from biology, ecology, chemistry, and practical experience. A thorough

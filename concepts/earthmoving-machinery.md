@@ -6,68 +6,7 @@ type: concept
 
 # Earthmoving Machinery
 
-Moving earth is fundamental to [[permaculture-earthworks]] — creating dams, swales, terraces, access roads, and ponds. While hand tools have shaped most of the terraced landscapes we see today (particularly in mountain rice-growing regions), modern earthmoving machinery enables rapid transformation of eroded and arid landscapes. Understanding the capabilities and appropriate applications of each machine type is essential for designers, since earth should always be moved for permanent and beneficial ends.
-
-## Hand Tools
-
-The archetypal earth-moving tool is the digging stick, which provides access to food of greater variety and nutrition than the spear. The basic hoe, rake, and shovel exist in most cultures worldwide. Hand tools have moved most of the earth shaped into mountain rice terraces throughout history.
-
-A notable cooperative technique is the two-person shovel: one person digs in while the other pulls over in a see-saw motion. Rhythm and cooperation make this surprisingly efficient for making miles of low irrigation banks or unloading gravels. Even small earthworks become manageable with coordinated labor and a simple work song to maintain pace.
-
-## Machine Attachments
-
-The basic earth-moving attachments form a toolkit for different landscape tasks:
-
-- **Blade** — mounted on almost any vehicle or towed; includes V-blades and delvers
-- **Bucket** — for lifting and loading loose material; narrow and toothed for hard ground, or specially shaped for drains
-- **Bucket chain** — for foundations, pipelines, narrow deep ditches, and underwater dredging
-- **Scoop** — horse or bullock-drawn, or articulated on a hydraulic or telescopic arm
-- **Ripper** — for breaking up compacted soils; usually towed or rear-mounted on tractors
-- **Delver** — for one-pass drains; often mounted on a grader or towed behind a bulldozer
-- **Spinner** — rear-mounted on a special tractor; a fast-revolving disc of 2–3 m diameter with peripheral buckets
-- **Borers and drills** — for holes, fences, explosives, pipes, wells, bores
-- **Jet pumps** — to pump out silt and sand in wet places
-
-Additionally, explosives serve special purposes in marshes, swamps, and rock work, and specialized tools exist for mining and massive tunnelling.
-
-## Blade Machines
-
-Blade machines are the primary tools for leveling, benching, and terracing. Ideally, they should be able to lift (and drop), angle, and tilt. They can be mounted:
-
-- **Forward** (bulldozer) — for sight and control
-- **Center** (grader) — for even spreading
-- **Rear** (wheel tractors) — for leveling operations
-
-### Bulldozer
-
-The bulldozer is the workhorse blade machine, designed for pushing and planing earth. It excels at:
-
-- Putting up, rolling solid, and spreading earth
-- Digging large shallow holes
-- Moving small hills and benching slopes
-- Side-cutting roads and pushing up earth walls
-
-The blade has four key motions:
-- **Tilt** — for road crown slopes and channel cutting
-- **Angle** — for casting aside windrows of earth (side-casting)
-- **Lift** — for piling up or leveling loads
-- **Drop** — for delving out drains and ditches
-
-Even a small tractor (17–25 hp), patiently worked, can create very large dams and terraces at less fuel cost (though greater time cost) than a bulldozer. Large bulldozers are the most economical of time and can work difficult, steep, or stony sites while moving very large objects like boulders.
-
-### Grader
-
-The grader has a mid-mounted blade for even spreading, ideal for long flat road runs and making long, shallow-angle drains (sometimes miscalled "spoon drains"). Graders produce the most uniform surfaces for roads and large-scale leveling.
-
-### Scraper
-
-A scraper is a large, self-filling bucket or land dredge that both fills and empties itself to plane off or dig out large areas. All large machines can now be laser-guided to accurately level and grade fields at pre-set slopes. Lasers can automatically work the hydraulics to lift and drop earth. Land forming is mainly restricted to large flattish irrigation areas or civil works and is normally contracted to specialists.
-
-## The Four-Way Bucket
-
-The four-way bucket (sometimes called a drott) combines all four motions — lift, dig, push, and pull — and serves as a bridging and universal machine between blade and bucket types. Usually fitted to a bulldozer body, it is an excellent landscaping machine. Also called a clamshell bucket, it can close on loads of earth, delicately pick up large stones, shave curves in embankments, or fill trucks with soil.
-
-A small wheeled variant, the Bobcat, serves as an excellent finishing tool for light work or making swales in Zones 2 and 3 of the [[permaculture-zones]] system.
+Moving earth is fundamental to [[permaculture-zones]] system.
 
 ## Swivel and Scoop Buckets
 
@@ -103,6 +42,90 @@ Scoops drawn behind horses or oxen can excavate small ponds or clean silt from e
 
 ## See Also
 
-- [[permaculture-resources-classification]]
 - [[earthmoving-machinery-permaculture]]
 - [[mollison-designers-swale-design-and-water-harvesting-earthworks]]
+
+## Overview
+
+Earthmoving Machinery represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish earthmoving machinery
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving earthmoving extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Earthmoving Machinery finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for earthmoving machinery. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+earthmoving machinery and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Earthmoving Machinery has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of earthmoving machinery into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[advanced-earthmoving-equipment]]
+- [[earthmoving-machinery-permaculture]]
+- [[earthmoving-machinery-tools]]
+- [[earthmoving-tools-permaculture-mollison]]
+- [[jadam-soil-compaction-heavy-machinery]]

@@ -30,12 +30,7 @@ for plant growth.
 
 This living soil philosophy means that all management decisions are
 evaluated for their impact on soil biology. Fertilization, tillage,
-irrigation, and [[comparison-crop-rotation-vs-cover-cropping]] are all designed to support and enhance the
-soil's biological activity.
-
-The protected environment of the greenhouse actually supports soil biology
-by moderating temperature extremes. Soil organisms remain active through
-the winter in the greenhouse, continuing to process [[hamilton-composting-and-organic-matter-management]] and
+irrigation, and [[hamilton-composting-and-organic-matter-management]] and
 make nutrients available to plants.
 
 ## Compost as the Primary Amendment
@@ -43,16 +38,14 @@ make nutrients available to plants.
 Compost is the foundation of soil fertility at Four Season Farm, and the
 greenhouse beds receive the same compost-based fertility program as the
 outdoor fields. Coleman applied finished compost to the greenhouse beds
-during [[azurescens-outdoor-bed-preparation-woodchips]], providing a slow-release source of nutrients and
-[[fukuoka-textdoc-composting-critique-futility-prepared-organic-matter]].
+during [[fukuoka-textdoc-composting-critique-futility-prepared-organic-matter]].
 
 The compost serves multiple functions beyond nutrient supply. It improves
 soil structure, enhances water-holding capacity, provides habitat for
 beneficial organisms, and buffers against pH changes.
 
 Coleman's compost was produced on-farm using a carefully managed process
-that ensured high quality and consistent [[solomon-manure-quality-variable-nutrient-content-horse-steer-chicken]]. The same
-compost that went into [[holzer-mushroom-cultivation-outdoor-beds]] was used in the greenhouse, ensuring
+that ensured high quality and consistent [[holzer-mushroom-cultivation-outdoor-beds]] was used in the greenhouse, ensuring
 uniformity across the farm's growing systems.
 
 ## Minimal Soil Disturbance
@@ -63,11 +56,7 @@ Instead, they are lightly worked to incorporate surface amendments and
 prepare a seedbed.
 
 This minimal-disturbance approach preserves the soil's existing structure,
-protects [[dighton-mycorrhizal-networks-carbon-transfer]], and maintains the habitat for soil
-organisms that have been established through previous cropping cycles.
-
-The contrast with conventional greenhouse production, which often involves
-removing and replacing [[green-cannabis-rockwool-hydroponic-growing-media]] between crops, highlights the
+protects [[green-cannabis-rockwool-hydroponic-growing-media]] between crops, highlights the
 sustainability advantages of Coleman's approach.
 
 ## Soil Biology Through Winter
@@ -117,8 +106,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[doc]]
 - [[composting]]
-- [[decomposition]]
 - [[mycorrhiza]]
 - [[coleman-mobile-greenhouse-crop-rotation-soil-health]]

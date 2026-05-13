@@ -18,7 +18,7 @@ Winter preparation is a critical annual cycle for any homestead. [[query-how-do-
 - Order firewood (or begin cutting and splitting your own)
 - Order [[livestock-feed-formulation]] and bedding for winter (prices rise in winter)
 - Inspect and order replacement parts for heating systems
-- Test [[homestead-internet-options]] and communication equipment
+- Test [[homestead-internet-options|internet]] and communication equipment
 - Review last winter's problems and plan solutions
 - Stock up on supplies before roads become difficult
 
@@ -52,12 +52,12 @@ Winter preparation is a critical annual cycle for any homestead. [[query-how-do-
 - Consider insulating window film for single-pane windows
 
 **Heating System:**
-- Schedule annual inspection for furnace, boiler, or [[masonry-heater-design]]
+- Schedule annual inspection for furnace, boiler, or [[masonry-heater-design|masonry heater]]
 - Clean or replace furnace filters
 - Test backup heat sources (wood stove, space heaters)
 - Stock at least 1-2 weeks of backup fuel (propane, wood, kerosene)
-- Check [[radiant-floor-heating]] systems for proper operation
-- Verify [[passive-solar-design]] features are unobstructed (clean south-facing windows)
+- Check [[radiant-floor-heating|radiant floor]] systems for proper operation
+- Verify [[passive-solar-design|passive solar]] features are unobstructed (clean south-facing windows)
 
 **Windows and Doors:**
 - Install storm windows or insulating window inserts
@@ -81,7 +81,7 @@ Winter preparation is a critical annual cycle for any homestead. [[query-how-do-
 - Install a backup heater for extreme cold events
 - Double-layer poly film or add bubble wrap for insulation
 - Ensure automatic vent openers are disabled or adjusted for winter
-- See also: [[season-extension-techniques]]
+- See also: [[season-extension-techniques|season extension methods]]
 
 ## Winterizing Livestock
 
@@ -138,7 +138,7 @@ Winter preparation is a critical annual cycle for any homestead. [[query-how-do-
 - Heat tape on exposed pipes from well to house
 - Ensure pump house or well house is insulated and has a heat source
 - Know how to prime the pump if it loses prime
-- Have a backup hand pump if possible
+- Have a backup [[mollison-designers-hand-pump-and-water-lifting-devices]] if possible
 
 ### Outdoor Plumbing
 

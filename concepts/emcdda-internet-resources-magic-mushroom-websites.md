@@ -1,17 +1,7 @@
 ---
 title: Emcdda Internet Resources Magic Mushroom Websites
 tags: [emcdda, internet, information, community, harm-reduction, europe]
-source: "EMCDDA (2006) — [[emcdda-hallucinogenic-mushrooms-emerging-trend-europe]]: An Emerging Trend Case Study"
-created: 2026-05-09
----
-
-# EMCDDA Internet Resources and Magic Mushroom Information Websites
-
-## Overview
-
-The emergence of the internet as a major information resource for psychoactive
-substance users was a defining feature of the late 1990s and early 2000s. The EMCDDA
-thematic paper on [[emcdda-eu-legislative-timeline-hallucinogenic-mushrooms-2001-2006]] (2006) documented the extensive network
+source: "EMCDDA (2006) — [[emcdda-eu-legislative-timeline-hallucinogenic-mushrooms-2001-2006]] (2006) documented the extensive network
 of websites that had developed specifically to provide information on magic
 mushrooms, including identification guides, cultivation instructions, dosage
 information, legal resources, trip reports, and community forums. This online
@@ -30,11 +20,7 @@ repositories of information on hallucinogenic mushrooms:
   researchers.
 - **Lycaeum**: An early online community and information resource focused on
   psychoactive plants and fungi. Alongside Erowid, Lycaeum was one of the
-  foundational internet resources for [[entheogenic-knowledge-secret-societies]].
-- **Mycotopia**: A dedicated mycological community website focused on mushroom
-  cultivation, identification, and discussion.
-- **Shroomery**: One of the largest and most active online communities dedicated
-  to [[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]], featuring extensive cultivation guides, identification
+  foundational internet resources for [[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]], featuring extensive cultivation guides, identification
   resources, and user forums.
 - **MushroomJohn**: A specialized website providing information on mushroom
   species and their effects.
@@ -46,27 +32,7 @@ repositories of information on hallucinogenic mushrooms:
 In addition to the major international resources, the EMCDDA documented numerous
 country-specific websites that focused on magic mushrooms in their local and
 regional contexts. These websites reflected the linguistic and cultural diversity
-of [[european-mushroom-markets-and-smartshop-economy]] interest:
-
-- **Copenhagen Mushroom Link** (mushroom.dk) — Denmark
-- **Champis** (champis.fr.tc) — France
-- **Daath** (daath.hu) — Hungary
-- **Delysid** (gratisweb.com/delysid) — Spain
-- **Enteogeneos** (enteogeneos.com.sapo.pt) — Portugal
-- **Kouzelné houbičky** (drogy.jinak.cz/houbicky) — Czech Republic
-- **Norshroom** (norshroom.org) — Norway
-- **Planetahongo** (planetahongo.tripod.com) — Spain
-- **Shroommap** (shroommap.tk) — United Kingdom
-- **Svampinfo** (knarkkorven.magiskamolekyler.org/svampinfo) — Sweden
-- **Taikasieniforum** (trippi.info/taikasieniforum) — Finland
-
-## Content and Features
-
-These websites typically provided a range of information and community features:
-
-**Educational Content**: Most sites offered detailed information on the effects of
-hallucinogenic mushrooms, recommended dosages, chemistry of active compounds
-([[hplc-analysis-of-psilocybin-and-psilocin]]), taxonomic classification of mushroom species, and legal
+of [[hplc-analysis-of-psilocybin-and-psilocin]]), taxonomic classification of mushroom species, and legal
 status in various jurisdictions. This information served both harm reduction and
 educational purposes.
 
@@ -80,8 +46,7 @@ cultivate hallucinogenic mushrooms at home, including techniques derived from th
 PF TEK method and other cultivation approaches. This information contributed to
 the availability of mushrooms beyond natural sources.
 
-**Photo Galleries**: Visual [[mushroom-identification-resources]] including photographs of
-various [[emcdda-hallucinogenic-mushroom-species-classification-and-chemistry]] in their natural habitats, aiding in field
+**Photo Galleries**: Visual [[emcdda-hallucinogenic-mushroom-species-classification-and-chemistry]] in their natural habitats, aiding in field
 identification for foragers.
 
 **Community Features**: Discussion forums, events listings, and other community
@@ -117,8 +82,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[doc]]
 - [[set-and-setting]]
-- [[pf-tek]]
 - [[psilocybin]]
 - [[dom]]

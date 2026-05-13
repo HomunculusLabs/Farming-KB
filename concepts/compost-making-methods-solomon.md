@@ -35,13 +35,7 @@ significantly and helping gardens survive drought periods.
 earthworms that form the foundation of the soil food web.
 
 - Supplies slowly-released plant nutrients through biological
-[[fungal-decomposition-processes]] that make minerals available in plant-accessible
-forms.
-
-- Buffers soil pH toward neutral, reducing acidity problems common in
-regions with high rainfall.
-
-- Enhances [[cation-exchange-capacity]], improving the soil's ability to
+[[cation-exchange-capacity]], improving the soil's ability to
 retain nutrients that would otherwise leach away.
 
 However, compost quality varies enormously depending on ingredients and
@@ -65,7 +59,7 @@ Low-grade compost still provides benefits for soil structure and
 microbial activity, but its nutrient contribution is modest and
 unpredictable. It is suitable as a general soil amendment for improving
 tilth but should not be relied upon as a primary fertilizer source for
-intensive [[coleman-french-historical-winter-vegetable-production]] where [[coleman-winter-greens-nutritional-quality-cold-sweetening]] matters.
+intensive [[coleman-winter-greens-nutritional-quality-cold-sweetening]] matters.
 
 ## Medium-Quality Compost: The Once-a-Year Heap
 
@@ -118,8 +112,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[steve-solomon]]
 - [[query-what-is-the-soil-food-web-and-why-does-it-matter]]
-- [[composting]]
 - [[decomposition]]
 - [[solomon-low-grade-compost-making-methods]]

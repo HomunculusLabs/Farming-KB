@@ -12,25 +12,7 @@ updated: 2026-04-26
 
 ## Overview
 
-Mycorrhizal fungi form extensive below-ground networks -- the "common [[gadd-mycelial-network-dynamics]]" or "wood-wide web" -- that interconnect individual plants and facilitate the transfer of carbon, nutrients, and signaling compounds between them. Approximately 90% of higher plant species form mycorrhizal associations (Pirozynski and Malloch, 1975).
-
-## Types of Mycorrhizal Networks
-
-Three main mycorrhizal types dominate different ecosystems (Read, 1991a,b):
-
-| Mycorrhizal Type | Dominant Ecosystems | Nutrient Strategy |
-|-------------------|-------------------|-------------------|
-| Arbuscular (AM) | Temperate/tropical grasslands, tropical forests, deserts | Efficient inorganic nutrient uptake |
-| Ectomycorrhizal (ECM) | Temperate and arctic forests | Mixed inorganic + organic nutrient acquisition |
-| Ericoid | Boreal heathlands | Primarily organic nutrient acquisition via enzymes |
-
-This distribution follows a latitudinal/altitudinal gradient determined by litter quality, decomposition rate, and soil nutrient availability.
-
-## Carbon Flow from Host to Fungus
-
-Plants allocate 16-64% of total biomass carbon to below-ground systems (Vogt, 1991). Root respiration accounts for 70-80% of total soil respiration in forested ecosystems. Nearly two-thirds of soil respiration in temperate mixed hardwood forests comes from root activity (Bowden et al., 1993).
-
-Coniferous trees allocate approximately twice as much carbon to roots as deciduous species (Bonan, 1993), a trade-off related to [[fungal-bacterial-predators-nitrogen-acquisition-soil-ecology]] strategies.
+Mycorrhizal fungi form extensive below-ground networks -- the "common [[fungal-bacterial-predators-nitrogen-acquisition-soil-ecology]] strategies.
 
 ## Interplant Carbon Transfer
 
@@ -51,11 +33,7 @@ Not all mycorrhizal networks facilitate significant interplant transfer:
 
 ## Mycorrhizal Benefits Beyond Carbon
 
-Mycorrhizal networks provide multiple [[biodiversity-of-fungi-ecosystem-services-agriculture]]:
-
-1. **Enhanced nutrient uptake** -- especially phosphorus and nitrogen
-2. **Pathogen protection** -- via physical barriers (ECM sheath) and chemical interference (Marx, 1973; Duchesne, 1994)
-3. **[[dighton-fungal-drought-tolerance-plant-water-relations]]** -- through direct water flow via hyphae and improved P nutrition (Auge, 2001)
+Mycorrhizal networks provide multiple [[dighton-fungal-drought-tolerance-plant-water-relations]]** -- through direct water flow via hyphae and improved P nutrition (Auge, 2001)
 4. **Ecosystem stability** -- communal ECM networks provide stability via C and nutrient exchange between connected plants; lack of viable communal ECM networks is attributed to reduced tree survival post-disturbance
 5. **Soil exploration** -- extraradical hyphae extend the effective depletion zone far beyond the root
 
@@ -69,19 +47,7 @@ Jasper (1994) identified four roles of mycorrhizae in ecosystem restoration:
 1. Improved nutrition of establishing plants
 2. Diversity maintenance through altered competitive fitness
 3. Resource recycling and ecosystem stability
-4. Soil stabilization through [[soil-aggregate-formation-fungal-contributions]]
-
-## Key References
-
-- Bjorkman, E. (1960). Monotropa hypopitys as a saprophyte. *Symb. Bot. Ups.*.
-- Read, D.J. et al. (1985). Carbon transfer between plants via mycorrhizal networks. *Nature*.
-- Read, D.J. (1991a,b). Mycorrhizas in ecosystems. *Experientia* / *Adv. Ecol. Res.*
-- Jasper, D.A. (1994). Bioremediation of soil fertility. In: *Management of Mycorrhizas in Agriculture*.
-
-## See Also
-
-- [[symbiotic-fungi-mycorrhizal-carbon-trading]]
-- [[common-mycorrhizal-networks]]
+4. Soil stabilization through [[symbiotic-fungi-mycorrhizal-carbon-trading]]
 - [[arbuscular-mycorrhizal-networks]]
 
 ## Practical Applications
@@ -113,8 +79,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[common-mycorrhizal-networks]]
 - [[mycorrhizal-networks]]
-- [[mycorrhizal-fungi]]
 - [[mycorrhizal-types]]
 - [[dom]]

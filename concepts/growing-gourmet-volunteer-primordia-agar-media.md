@@ -45,27 +45,15 @@ include:
 
   - Agrocybe aegerita (Black Poplar Mushroom)
   - Flammulina velutipes (Enokitake)
-  - [[stamets-reishi-ganoderma-lucidum-cultivation]] (Reishi)
-  - Pleurotus cystidiosus ([[growing-gourmet-abalone-oyster-cystidiosus-cultivation]])
-  - [[stamets-cultivator-coprinus-comatus-shaggy-mane-cultivation]] (Shaggy Mane)
+  - [[growing-gourmet-abalone-oyster-cystidiosus-cultivation]])
   - [[growing-gourmet-hypholoma-capnoides-cultivation]] (Clustered Woodlover)
   - Hypholoma sublateritium (Kuritake)
-  - [[growing-gourmet-primordia-formation-pinning]],
-result in a quantum leap in the vigor of growth and in the
-number of subsequently forming primordia. With most strains,
-however, the damaged primordia revert to vegetative growth.
-
-Species that benefit from the timely disturbance of
-developing primordia are excellent candidates for
-growing-gourmet-nutrified-agar-media,
-once characteristic of a strain, can serve as a benchmark
-for [[growing-gourmet-strain-senescence-degeneration]].
+  - [[growing-gourmet-strain-senescence-degeneration]].
 Speed of growth decelerates. If not entirely dying out, the
 strain is reduced to an anemic state of slow growth,
 eventually incapable of fruiting.
 
-For [[growing-gourmet-button-mushroom-agaricus-cultivation]]
-([[genetic-improvement-agaricus-bisporus-molecular-approaches]]) is the classic example, requiring
+For [[genetic-improvement-agaricus-bisporus-molecular-approaches]]) is the classic example, requiring
 specific bacterial partners in the casing layer to trigger
 primordia formation. This is an important consideration
 when evaluating candidate strains for cultivation potential
@@ -118,8 +106,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[agar-culture-media]]
 - [[malt-extract-agar]]
-- [[pleurotus-cystidiosus]]
 - [[flammulina-velutipes]]
 - [[hypholoma-sublateritium]]

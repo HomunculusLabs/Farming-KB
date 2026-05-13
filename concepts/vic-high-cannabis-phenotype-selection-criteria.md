@@ -8,59 +8,12 @@ type: concept
 tags: [cannabis]
 ---
 
-# [[cannabis-phenotype-selection]] Criteria
-
-Vic High's breeding framework places vic high cannabis phenotype selection criteria at the centre of all breeding success. Selection determines which genes are propagated and which are eliminated from the gene pool. Understanding how to select effectively -- and how selection interacts with genetics -- is what separates successful breeding from random mating.
-
-## Selection as Manipulation of Gene Frequency
-
-Every selection decision manipulates gene frequencies within the population. When a breeder removes individuals with an undesirable phenotype from the breeding pool, the frequency of the genes responsible for that phenotype decreases in the next generation. Conversely, selecting for a desired phenotype increases the frequency of those genes. This is the fundamental mechanism by which all breeding progress occurs.
-
-## The Impact of Selection: Quantified
-
-Vic High provides concrete numbers demonstrating how selection dramatically affects outcomes across different breeding strategies.
-
-### Cubing a Dominant Trait: No Selection vs Selection
-
-Without selection, three backcrosses of a heterozygous dominant individual produce:
-
-- 71.875% express the desired pineapple phenotype.
-- Only 22% are true breeding individuals (PP).
-- Gene frequency for the desired allele: approximately 47%.
-
-With selection against homozygous recessive (pp) individuals at each generation:
-
-- 95% express the desired phenotype.
-- 35% are true breeding individuals.
-- Gene frequency rises to 60%.
-
-The simple act of removing homozygous recessive individuals before each backcross nearly doubles the true breeding rate. This improvement compounds further across additional generations because the higher gene frequency going into each cross produces better results.
-
-### Full-Sib vs Half-Sib Selection in Generational Inbreeding
-
-When targeting a dominant trait through generational inbreeding:
-
-- Full-sib F5: 96% express phenotype, 80% gene frequency.
-- Half-sib F5: 87% express phenotype, 63.5% gene frequency.
-
-The ability to select both male and female parents (full-sib) versus only females (half-sib) produces a substantial difference that compounds across generations. By F5, the gap in gene frequency is 16.5 percentage points.
-
-### Generational Inbreeding for Recessive Traits
-
-- Full-sib: Complete fixation achievable by F3 (100% true breeding).
-- Half-sib F5: 87.5% express phenotype, 93.75% gene frequency.
-
-The recessive case achieves near-perfect results even with half-sib selection because any individual expressing the recessive trait is guaranteed homozygous.
-
-## Male Selection: The Critical Challenge
-
-Vic High identifies the inability to assess traits in male plants as the single biggest practical constraint in [[oner-cannabis-breeding-fundamentals]]. Many desirable traits -- flavour, potency, flowering characteristics -- can only be evaluated in female plants because male plants do not produce female flowers.
+# [[oner-cannabis-breeding-fundamentals]]. Many desirable traits -- flavour, potency, flowering characteristics -- can only be evaluated in female plants because male plants do not produce female flowers.
 
 This forces half-sib breeding where males contribute genes randomly, and the impact is quantified throughout the text. The difference between full-sib and half-sib outcomes at the F5 generation (96% vs 87% phenotypic uniformity for dominant traits) represents a significant loss of efficiency.
 
 ### Strategies for Male Evaluation
 
-- **[[fukuoka-direct-observation-method]]**: Selecting males for traits visible in both sexes (growth habit, leaf morphology, pest resistance, stem structure).
 - **[[cervantes-progeny-testing-combining-ability]]**: Growing out test crosses from candidate males to determine which males pass on the most desirable genes. Vic High describes this as the gold standard but notes it requires additional time and resources.
 - **Large male numbers**: Using many males per cross increases the probability that the pollen pool includes the desired alleles, making outcomes more closely match theoretical predictions.
 - **Indirect markers**: Using linked visible traits as proxies for desired invisible traits -- but this carries significant risk due to gene linkage complications.
@@ -88,3 +41,88 @@ Because of linkage effects and the compounding difficulty of polygenic traits, V
 - Understanding that each selection for a trait is also a selection against several hundred other genes.
 
 ## Selection for Dominant vs Recessive Traits
+
+## Overview
+
+Vic High Cannabis Phenotype Selection Criteria represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish vic high cannabis phenotype selection criteria
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving vic extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Vic High Cannabis Phenotype Selection Criteria finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for vic high cannabis phenotype selection criteria. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+vic high cannabis phenotype selection criteria and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Vic High Cannabis Phenotype Selection Criteria has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of vic high cannabis phenotype selection criteria into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[cannabis-high-volume-extraction]]
+- [[mckenna-high-plains-eden-tassili]]
+- [[solomon-vegetable-demand-classification-low-medium-high]]
+- [[vic-high]]
+- [[vic-high-true-breeding-strain-development-stabilization]]

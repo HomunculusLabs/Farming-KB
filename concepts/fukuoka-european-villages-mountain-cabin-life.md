@@ -3,31 +3,7 @@ title: Fukuoka European Villages Mountain Cabin Life
 created: 2026-04-18
 updated: 2026-04-18
 type: concept
-tags: [fukuoka, [[natural-farming]], philosophy]
-sources:
-  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
-  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
----
-
-## European Country Living
-
-European countries such as Switzerland, Austria, and Holland -- Holland being said to be the world's most densely populated nation -- offer a striking contrast to Japan. The moment one steps out of the cities into the country, one finds houses standing alone in the middle of open pastures and deep forests, the neighboring dwellings visible far off in the distance.
-
-- Few of the roads are broad and paved; most are bumpy, winding lanes along which stand quiet, old houses of wood or brick
-
-- The Europeans who Fukuoka had thought had such an advanced civilization are still today enjoying life in the mountain huts of the past
-
-- An environment where the water comes from a valley spring and human wastes are returned to the soil is the cleanest
-
-- It is a place where people can live a free and pleasant life
-
-- Only crowded residential districts have any need for a water supply, sewage facilities, and fire trucks
-
-- No matter how highly developed modern civilized life is, it can never compare with the perfection of a life in harmony with nature
-
-## What People Basically Need
-
-What do people basically need to live? If a family has a quarter-acre of land on which they grow rice, barley, vegetables, and fruit; if they make their clothes with cotton and their home is surrounded with bamboo, [[acacia]], and other trees, then they have everything they need around the year for food, clothing, shelter, and fuel.
+tags: [fukuoka, [[acacia]], and other trees, then they have everything they need around the year for food, clothing, shelter, and fuel.
 
 - There is nothing else that is needed
 
@@ -35,23 +11,7 @@ What do people basically need to live? If a family has a quarter-acre of land on
 
 - It is a place where people can live a free and pleasant life
 
-This connects to [[fukuoka-nelissen-farm]] into a utopia, but even if he were able to create an ideal village, there would be no one to live there.
-
-- Children from the cities are unable to sleep for fear in the mountain huts with shoji screens
-
-- They soon become bored with life in the hilltop orchard
-
-- Even if they play catch with the mandarin oranges, they quickly tire and ask for other fruits
-
-- When told there is a persimmon over there, they run away, saying they cannot climb or they do not have time
-
-- If told to bake some sweet potatoes, they are unable even to start a fire in the hearth
-
-- The urban housewife has no idea how to go about things on the hilltop huts
-
-- Far from being a civilized person, the urban housewife has reverted to a primitive animal afraid of fire
-
-The [[fukuoka-textdoc-sunken-hearth-extinction-village-culture]] is an automatic fire extinguisher, but even when Fukuoka explains that the fire can be left alone without fear of the hut catching on fire, they are afraid. They are incapacitated by the smoke.
+This connects to [[fukuoka-textdoc-sunken-hearth-extinction-village-culture]] is an automatic fire extinguisher, but even when Fukuoka explains that the fire can be left alone without fear of the hut catching on fire, they are afraid. They are incapacitated by the smoke.
 
 ## Solitary People Within the Community
 
@@ -118,8 +78,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[doc]]
 - [[acacia]]
-- [[ghb]]
 - [[fukuoka-mountain-soil-restoration]]
 - [[fukuoka-textdoc-traditional-mountain-paddy-aesthetics-spiritual-wisdom]]

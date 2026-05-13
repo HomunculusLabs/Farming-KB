@@ -108,13 +108,8 @@ In cultivation, the blue peacock iris can be naturalized in suitably mild garden
 
 ## See Also
 
-- [[sparaxis-tricolor]]
 - [[ixia-viridiflora]]
-- [[dierama-pulcherrimum]]
 - [[watsonia-borbonica]]
-- [[babiana-stricta]]
 - [[freesia-refracta]]
-- [[crocosmia-lucifer]]
 - [[iris-germanica]]
-- [[tigridia-pavonia]]
 - [[gladiolus-communis]]

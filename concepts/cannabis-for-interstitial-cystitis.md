@@ -12,7 +12,7 @@ sources:
 
 updated: 2026-04-18
 
-Interstitial cystitis (IC), also called painful bladder syndrome, is a chronic condition characterized by bladder pressure, bladder pain, and sometimes pelvic pain. Research from The [[blesching-cannabis-health-index-autoimmune-conditions]] documents the role of the [[cannabis-anti-inflammatory-applications]] effect, reduces bladder inflammation
+Interstitial cystitis (IC), also called painful bladder syndrome, is a chronic condition characterized by bladder pressure, bladder pain, and sometimes pelvic pain. Research from The [[cannabis-anti-inflammatory-applications]] effect, reduces bladder inflammation
 - **THC:CBD combination**: For pain relief plus anti-inflammatory
 - **Sublingual administration**: Faster onset for acute flares
 - **Suppositories (where legal)**: Local delivery to pelvic region
@@ -31,30 +31,8 @@ Interstitial cystitis (IC), also called painful bladder syndrome, is a chronic c
 ## Related Topics
 
 - Cannabis For Inflammation
-- [[deep-relaxation-and-mind-body-healing]]
-
-## Source
-
-Uwe Blesching, The Cannabis Health Index (2015), Interstitial Cystitis section
 - [[cannabis-mind-body-medicine-integration]]
-- [[cannabis-anxiety-and-ptsd-treatment]]
-## Practical Considerations
-
-When working with Cannabis For Interstitial Cystitis, several practical factors should be
-carefully considered to achieve optimal results. These include
-the specific conditions of the implementation context, available
-resources, timing requirements, and the interactions between this
-topic and other elements of the broader system. A holistic view
-that considers these interconnections produces better outcomes.
-
-Environmental conditions such as temperature, moisture, and
-seasonal patterns significantly influence results. Monitoring these
-variables and adapting practices accordingly is essential for success.
-The most effective practitioners develop keen observation skills and
-respond flexibly to changing conditions rather than following rigid
-protocols regardless of circumstances or local variation.
-
-[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
+- [[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -111,8 +89,6 @@ through generations to modern scientific approaches, the evolution continues
 to inform current best practices and research directions.
 
 ## See Also
-- [[cannabis-health-index]]
 - [[doc]]
-- [[uwe-blesching]]
 - [[caffeine]]
 - [[blesching-cannabis-interstitial-cystitis]]

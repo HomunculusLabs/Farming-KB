@@ -15,23 +15,14 @@ created: 2026-04-28
 
 # Predatory Mites vs. Ladybugs for Biological Pest Control
 
-Predatory mites (family Phytoseiidae) and ladybird beetles (family Coccinellidae) are two of the most widely used [[fukuoka-textdoc-biological-control-fallacy-pheromone-critique]] agents in [[fungal-biopesticides]] (Beauveria, Metarhizium). Intraguild predation can occur — ladybug larvae may consume parasitoid pupae or other predator larvae when prey is scarce.
+Predatory mites (family Phytoseiidae) and ladybird beetles (family Coccinellidae) are two of the most widely used [[fungal-biopesticides]] (Beauveria, Metarhizium). Intraguild predation can occur — ladybug larvae may consume parasitoid pupae or other predator larvae when prey is scarce.
 
 ## Advantages and Disadvantages
 
 ### Predatory Mites
 
 - **Advantages:** Rapid population buildup; microscopic (no aesthetic concerns); preventive releases viable via pollen feeding; species available for diverse conditions; non-dispersive populations stay localized
-- **Disadvantages:** Extremely sensitive to [[pf-tek-low-humidity-symptoms-and-remediation]]; monitoring requires magnification; narrow prey range for specialists; short shelf life; cannot control larger pests
-
-### Ladybugs
-
-- **Advantages:** Easily monitored visually; voracious generalists against many soft-bodied insects; long adult lifespan; suitable for greenhouse and field; adults disperse to find pest hotspots
-- **Disadvantages:** High dispersal from release sites; slow reproduction limits outbreak response; overwintering adults may be in diapause; _H. axyridis_ is ecologically invasive; wild-collected stock may carry pathogens
-
-## Best Use Cases and Selection Guide
-
-**Choose predatory mites when:** targeting [[cervantes-spider-mites-identification-control]], broad mites, thrips, or rust mites; working in greenhouse or high-humidity environments (≥60% RH); preventive control is desired; crops have dense canopies (peppers, cucumbers, strawberries); localized non-dispersive control is needed.
+- **Disadvantages:** Extremely sensitive to [[cervantes-spider-mites-identification-control]], broad mites, thrips, or rust mites; working in greenhouse or high-humidity environments (≥60% RH); preventive control is desired; crops have dense canopies (peppers, cucumbers, strawberries); localized non-dispersive control is needed.
 
 **Choose ladybugs when:** targeting aphids as the primary pest; working in open field conditions; visible monitoring matters; multiple pest species are present; native or well-established predators are preferred.
 
@@ -50,7 +41,6 @@ Predatory mites incur higher per-application costs due to rearing complexity and
 
 ## See Also
 
-- [[comparison-pheromone-based-pest-control-vs-beneficial-insect-biocontrol]]
 - [[comparison-trichoderma-vs-bacillus-vs-pseudomonas-biocontrol]]
 ## Practical Considerations
 

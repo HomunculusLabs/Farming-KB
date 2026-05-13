@@ -18,21 +18,7 @@ sources:
 
 **Sanghuangporus lonicericola** is a perennial poroid fungus in the family Hymenochaetaceae, first described from northeastern China. It grows as a lignicolous basidiocarp on dead or dying branches of *Lonicera* species (honeysuckle).
 
-Like other members of the *Sanghuangporus* genus, it belongs to the "sanghuang" group of [[comparison-chaga-vs-turkey-tail-medicinal-mushrooms-comprehensive]] used extensively in traditional Chinese medicine. Sanghuang preparations have been documented in classical texts for over two thousand years.
-
-The species produces distinctive woody, sessile basidiocarps with a dark brown to nearly black pore surface. It is one of the more recently described species within the genus, distinguished primarily through molecular phylogenetics.
-
-## Taxonomy and Morphology
-
-* **Kingdom:** Fungi
-* **Division:** Basidiomycota
-* **Class:** Agaricomycetes
-* **Order:** Hymenochaetales
-* **Family:** Hymenochaetaceae
-* **Genus:** Sanghuangporus
-* **Species:** S. lonicericola
-
-The genus *Sanghuangporus* was erected in 2016 to accommodate species formerly placed in *Inonotus* and *Phellinus* that formed a distinct monophyletic clade. This reclassification resolved long-standing [[neurotropic-fungi-taxonomic-confusion-and-identification]] in the sanghuang group.
+Like other members of the *Sanghuangporus* genus, it belongs to the "sanghuang" group of [[neurotropic-fungi-taxonomic-confusion-and-identification]] in the sanghuang group.
 
 The basidiocarp is woody, perennial, and sessile, lacking a stipe. The pileus surface is concentrically zonate with shades of brown to dark brown, often cracked with age. The pore surface is brown to dark brown, with circular to angular pores numbering 5–7 per millimeter.
 
@@ -52,7 +38,7 @@ It typically fruits in summer and autumn, producing perennial basidiocarps that 
 
 Members of the *Sanghuangporus* genus produce a range of bioactive metabolites, and *S. lonicericola* is expected to share many of these properties. Polysaccharides extracted from related sanghuang species demonstrate significant immunomodulatory activity.
 
-Beta-glucans and heteropolysaccharides isolated from *Sanghuangporus* species activate macrophages and stimulate natural killer cell activity in vitro. Triterpenoids, including hispidin and its derivatives, exhibit antioxidant and anti-inflammatory properties.
+[[beta-glucans]] and heteropolysaccharides isolated from *Sanghuangporus* species activate macrophages and stimulate natural killer cell activity in vitro. Triterpenoids, including hispidin and its derivatives, exhibit antioxidant and anti-inflammatory properties.
 
 The genus is also known to produce styrylpyrone-class compounds and polyphenolic substances with documented cytotoxic activity against various cancer cell lines. Specific bioassay data for *S. lonicericola* remains limited due to its recent description and scarcity of collected material.
 
@@ -78,7 +64,7 @@ Clinical studies on sanghuang preparations have reported benefits for immune fun
 
 ## Cultivation Potential
 
-[[fukuoka-matsutake-artificial-cultivation-attempt]] of *Sanghuangporus* species has advanced significantly since the 2010s. Substrate-based cultivation using [[oyster-mushroom-supplemented-sawdust-blocks]] has been successfully developed for *S. vaninii* and *S. baumii*.
+[[oyster-mushroom-supplemented-sawdust-blocks]] has been successfully developed for *S. vaninii* and *S. baumii*.
 
 *S. lonicericola* has not yet been commercially cultivated, likely due to its recent description and the difficulty of sourcing reliable inoculum. Its natural host specificity for *Lonicera* wood may present challenges for substrate formulation.
 
@@ -87,3 +73,78 @@ Optimal cultivation parameters for related sanghuang species include incubation 
 The growing market for sanghuang-based health products in China and Southeast Asia creates potential incentive for developing cultivation protocols for less common species like *S. lonicericola*.
 
 ## Ecological Role
+
+## Overview
+
+Sanghuangporus Lonicericola represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish sanghuangporus lonicericola
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving sanghuangporus extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Sanghuangporus Lonicericola finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for sanghuangporus lonicericola. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+sanghuangporus lonicericola and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Sanghuangporus Lonicericola has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of sanghuangporus lonicericola into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and

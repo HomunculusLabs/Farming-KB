@@ -20,12 +20,11 @@ Education in permaculture is not confined to formal institutions. Adventure can 
 ## Teaching Approaches
 
 ### Design Courses
-[[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]] courses (PDCs) are the primary educational vehicle. The manual provides the curriculum framework covering:
-- [[four-principles-of-natural-farming]] systems
+[[four-principles-of-natural-farming]] systems
 - Climate and landscape factors
 - permaculture-designers-manual-education-and-training - Education overview
 - permaculture-designers-manual-bioregional-planning - Bioregional planning
-- [[bill-mollison-permaculture-a-designers-manual-guild-design-in-permaculture]] - [[apple-guild-design-guide]] methodology
+- [[apple-guild-design-guide]] methodology
 - [[soil-erosion-control]]
 - mollison-property-trusts-ethical-investment
 ## Practical Applications

@@ -12,7 +12,7 @@ created: 2026-04-28
 
 # Streptococcus and Dairy Soil Disease in the Ingham Soil Foodweb Framework
 
-High population levels of disease-causing *Streptococcus* species are a hallmark indicator of sick soil, particularly in dairy operations. [[elaine-ingham]]'s [[ghouled-field-guide-historical-context]] correspondence provides a detailed analysis of how these pathogenic bacteria establish dominance and what is required to reverse the conditions that favor them.
+High population levels of disease-causing *Streptococcus* species are a hallmark indicator of sick soil, particularly in dairy operations. [[ghouled-field-guide-historical-context]] correspondence provides a detailed analysis of how these pathogenic bacteria establish dominance and what is required to reverse the conditions that favor them.
 
 ## Why Streptococcus Dominance Develops
 
@@ -38,54 +38,13 @@ However, if the udder keeps getting re-infected by splash from contaminated soil
 
 ### 2. High Nitrate Levels
 
-Manure is naturally high in nitrate. While some nitrogen is volatized as ammonia during [[decomposition]], the intermediate steps through nitrate create conditions that favor disease organisms. The nitrate pathway itself sets the stage for pathogen establishment.
-
-Ingham notes that the steps from organic nitrogen to ammonia pass through nitrate, and this intermediate nitrogen form creates conditions that disease organisms exploit. The nitrate intermediate is a biological bottleneck — it represents incomplete [[query-how-does-nitrogen-cycling-work-in-a-permaculture-system]] that signals a dysfunctional foodweb.
+Manure is naturally high in nitrate. While some nitrogen is volatized as ammonia during [[query-how-does-nitrogen-cycling-work-in-a-permaculture-system]] that signals a dysfunctional foodweb.
 
 ### 3. Undigested Organic Compounds
 
 High concentrations of undigested sugars, proteins, and short-chain anaerobic organic acids accumulate in manures and liquid sludge. Even when lime is applied to raise pH, this is a "symptom cure" — it does not address the underlying problem.
 
-When soil becomes waterlogged, no amount of lime can counteract the anaerobic organic acids pushing pH into the acid range. The undigested [[hamilton-composting-and-organic-matter-management]] continues to fuel anaerobic metabolism, producing more acids and further lowering pH in a self-accelerating cycle.
-
-## The Role of Anaerobic Conditions in Dairy Soil
-
-The fundamental mechanism linking all three selective factors is anaerobiosis.
-
-As un-composted dairy waste is spread on soil and liquid waste is sprayed, conditions progressively build for disease organisms. The typical soil organisms responsible building soil soil structure — and thus maintaining air passageways — are killed off incrementally.
-
-Critically, these beneficial organisms do not simply "come back" on their own because the conditions will not return to what they need to survive. The conditions remain perfectly balanced for disease streptococci, *E. coli*, fecal coliforms, *Fusarium*, and other blights, wilts, and root rots. This creates a self-reinforcing cycle of declining soil health.
-
-## Why Conditions Do Not Self-Correct
-
-The self-reinforcing nature of dairy soil degradation deserves emphasis.
-
-In a healthy system, if anaerobic pockets develop, aerobic organisms from surrounding areas can recolonize once conditions improve. But in a dairy system where anaerobic waste is continuously applied, the anaerobic zone expands relentlessly. There is no reservoir of aerobic organisms left to recolonize from — they have all been eliminated.
-
-The soil compaction that results from loss of soil aggregation compounds the problem. With fungal hyphae phae and bacterial slime layers binding soil particles together, the soil collapses into a dense, airless mass. Water cannot infiltrate, oxygen cannot diffuse, and roots cannot penetrate. The physical structure of the soil becomes a barrier to its own recovery.
-
-Each intervention that kills biology — more lime, more fertilizer, more chemicals — pushes the system further toward anaerobic conditions, making the next intervention seem even more necessary. The farmer is caught in a chemical dependency cycle driven by biological collapse.
-
-## Reversing Anaerobic Conditions
-
-Ingham emphasizes that the solution requires a systematic approach rather than symptomatic treatment:
-
-1. **Get a soil sample analyzed** to determine what biology is present and how much needs fixing
-2. **Design a targeted program** based on the assessment results
-3. **Apply the right organisms** to build soil structure so oxygen can penetrate
-4. **Set the stage** for healthy organisms (not *Streptococcus*) to grow
-5. **Monitor progress** with follow-up assessments
-
-The underlying principle is that we must set the stage so the plant gets a soil condition it needs, and we exclude human pathogens. Roots of plants do not tolerate anaerobic conditions — not because roots need oxygen per se (plants take up CO2 and release oxygen), but because the products of anaerobic metabolism are toxic to root tissue and the beneficial organisms that protect roots.
-
-The practical sequence matters. Adding organisms to compacted, anaerobic soil without first addressing physical compaction will fail because the organisms cannot survive. Aerating the soil without adding organisms provides temporary improvement that does not persist. Both steps are necessary, and the order — physical correction first, biological inoculation second — is important.
-
-## Composting Dairy Waste as Prevention
-
-Proper composting of dairy manure before field application is critical. The composting process kills or out-competes pathogens through multiple mechanisms:
-
-- **Temperature regimes** in thermal composting destroy pathogens directly
-- **Passage through earthworm guts**[[vermicomposting]] ting exposes pathogens to digestive enzymes
+When soil becomes waterlogged, no amount of lime can counteract the anaerobic organic acids pushing pH into the acid range. The undigested [[vermicomposting]] ting exposes pathogens to digestive enzymes
 - **Competition with aerobic organisms** deprives pathogens of food and space
 - **Consumption by predators** (protozoa, nematodes) directly reduces pathogen populations
 
@@ -118,8 +77,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[soil-foodweb]]
 - [[building-soil]]
-- [[dom]]
 - [[det]]
 - [[composting]]

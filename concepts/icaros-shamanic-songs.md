@@ -14,53 +14,17 @@ type: concept
 ## Overview
 
 Icaros are sacred songs, melodies, or whistled tunes used by Amazonian
-shamans—particularly ayahuasqueros of the [[ayahuasca-vision-art-and-shipibo-tradition]] in Peru—as
-integral components of [[metzner-amazonian-ayahuasca-ceremonies-icaros-and-healing-methods]]. These songs serve multiple
-functions within the [[kava-traditional-preparation-ceremonial-context]]: they guide the visionary
-experience of participants, call upon protective spirits, diagnose
-illness, and are believed to carry inherent healing power transmitted
-through melodic patterns taught by plant spirits themselves. Icaros
-represent one of the most distinctive and culturally significant elements
-of [[amazonian-shamanic-battles-and-defensive-powers]] practice.
+shamans—particularly ayahuasqueros of the [[metzner-amazonian-ayahuasca-ceremonies-icaros-and-healing-methods]]. These songs serve multiple
+functions within the [[amazonian-shamanic-battles-and-defensive-powers]] practice.
 
 ## Etymology and Cultural Context
 
 The word "icaro" derives from the Quechua term for song or chant, though
 the practice extends far beyond Quechua-speaking regions. Among the
-[[shipibo-people-and-ayahuasca-tradition]] of the [[ayahuasquero-practitioner-profiles-ethics-ucayali-region]] in Peru, icaros form the core of
+[[ayahuasquero-practitioner-profiles-ethics-ucayali-region]] in Peru, icaros form the core of
 shamanic training and practice. Each shaman develops a personal
 repertoire of icaros over a lifetime, with some songs received directly
-during [[ayahuasca-tourism-in-peru]] visions and others learned
-through apprenticeship with elder practitioners. The transmission of
-icaros represents a living oral tradition that connects contemporary
-practitioners to generations of Amazonian spiritual knowledge.
-
-## Functions Within Ayahuasca Ceremonies
-
-Icaros serve several distinct but overlapping purposes during ayahuasca
-ceremonies:
-
-- **Guiding the visionary experience**: Shamans sing specific icaros to
-  steer the direction and intensity of participants' visions, helping
-  them navigate challenging psychological material or amplify beneficial
-  experiences.
-- **Calling protective spirits**: Certain icaros invoke specific spirit
-  allies or plant teachers believed to attend the ceremony and provide
-  healing or protection to participants.
-- **Diagnostic and healing functions**: Some icaros are used specifically
-  to identify illness in a participant's body or energy field, with the
-  shaman modulating the melody in response to what they perceive during
-  the diagnostic process.
-- **Managing the ceremonial space**: Icaros help establish and maintain
-  the boundaries of the ceremonial container, creating a safe psychological
-  and spiritual environment for all participants.
-
-## Musical Characteristics
-
-Icaros vary widely in their musical characteristics. They may be sung
-with lyrics in Shipibo, Spanish, or a mixture of both. They may also
-be purely melodic, whistled, or hummed. The melodies are often
-repetitive and hypnotic, designed to induce and sustain [[weil-the-natural-mind-altered-states-normalcy]]
+during [[weil-the-natural-mind-altered-states-normalcy]]
 of consciousness in both the shaman and participants. Some icaros
 incorporate onomatopoeic sounds mimicking animals, natural phenomena,
 or the movements of plant spirits. The tempo, volume, and intensity of
@@ -118,8 +82,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[icaros]]
 - [[ayahuasca]]
-- [[doc]]
 - [[kava]]
 - [[ayahuasqueros]]

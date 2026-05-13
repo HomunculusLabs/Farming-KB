@@ -3,7 +3,7 @@ title: Jeavons Master Planning Mini Farms
 created: 2026-04-26
 sources:
   - path: /Users/t3rpz/wiki/raw/papers/jeavons-john-how-to-grow-more-vegetables.md
-    title: How to Grow More Vegetables - [[john-jeavons]]
+    title: How to Grow More Vegetables - john-jeavons
     author: John Jeavons
 updated: 2026-04-24
 type: concept
@@ -12,11 +12,7 @@ tags: [reference]
 
 # Master Planning and Mini-Farm Design
 
-[[jeavons-grow-biointensive-method-overview]] sustainable mini-farming is a whole-system approach to food production. The art of putting theory into a garden plan requires understanding crop timing, space allocation, soil fertility cycles, and dietary goals. No book can make gardening foolproof — the process involves real learning and experimentation, and that is part of what makes it satisfying.
-
-## The Whole System Principle
-
-The GROW BIOINTENSIVE method is a whole system, and its components must be used together for optimum effect. Deep soil preparation, compost, close spacing, [[comparison-companion-planting-reference-vs-jadam-monoculture-critique]], carbon-efficient crops, calorie-efficient crops, open-pollinated seeds, and [[ultra-low-cost-integrated-farming]] system design all work synergistically. If any component is missing — particularly the recycling of all wastes and the growing of sufficient [[hamilton-composting-and-organic-matter-management]] — the high yields can rapidly deplete the soil.
+[[comparison-companion-planting-reference-vs-jadam-monoculture-critique]], carbon-efficient crops, calorie-efficient crops, open-pollinated seeds, and [[hamilton-composting-and-organic-matter-management]] — the high yields can rapidly deplete the soil.
 
 This means that planning a mini-farm is not simply deciding what vegetables to plant where. It is designing a closed-loop system that produces food, carbon, calories, seeds, and soil fertility simultaneously.
 
@@ -69,10 +65,7 @@ This rotation is a form of agricultural recycling in which humans and plants par
 Jeavons recommends a progressive approach to developing a mini-farm:
 
 ### Year 1: Foundation (100-140 square feet)
-Start with the easiest crops based on yields expected of a good gardener. Focus on learning [[azurescens-outdoor-bed-preparation-woodchips]], composting, and basic transplanting. Leaf lettuce, radishes, carrots, and bush beans are good starting crops.
-
-### Year 2: Expansion (200-280 square feet)
-Double the square footage and add more challenging crops. Begin incorporating [[companion-planting]] simple crop rotations. Start learning about calorie crops and compost crops.
+Start with the easiest crops based on yields expected of a good gardener. Focus on learning [[companion-planting]] simple crop rotations. Start learning about calorie crops and compost crops.
 
 ### Year 3: Perennials (300-420 square feet)
 Add a third bed. Include permanent plantings — fruit trees, herbs, strawberries, and asparagus — placed in soil that has been worked and improved for 2 years.
@@ -117,8 +110,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[seasonal-planning]]
 - [[doc]]
-- [[jerusalem-artichoke]]
 - [[composting]]
 - [[companion-planting]]

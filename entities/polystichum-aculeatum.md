@@ -108,13 +108,8 @@ Modern conservation assessments list P. aculeatum as Least Concern across most o
 
 ## See Also
 
-- [[polystichum-setiferum]]
 - [[polystichum-braunii]]
-- [[polystichum-munitum]]
 - [[polystichum-acrostichoides]]
-- [[dryopteris-filix-mas]]
 - [[athyrium-filix-femina]]
-- [[asplenium-trichomanes]]
 - [[blechnum-spicant]]
-- [[polypodium-cambricum]]
 - [[cystopteris-fragilis]]

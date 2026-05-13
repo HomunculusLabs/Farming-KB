@@ -1,5 +1,5 @@
 ---
-title: Mycorrhizal Networks And Forest Communication
+title: Mycorrhizal Networks and Forest Communication
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
@@ -9,7 +9,7 @@ sources: []
 
 ## Overview
 
-[[common-mycorrhizal-networks]] (CMNs), sometimes called "wood wide webs," are [[underground-fungal-networks]] that connect individual plants and trees, enabling resource sharing, chemical signaling, and [[transcendent-other-and-plant-human-information-transfer]] between forest organisms. Research has revealed that these networks facilitate cooperative behaviors between trees, including the support of seedlings by mature "mother trees."
+Common mycorrhizal networks (CMNs), sometimes called "wood wide webs," are underground fungal networks that connect individual plants and trees, enabling resource sharing, chemical signaling, and information transfer between forest organisms. Research has revealed that these networks facilitate cooperative behaviors between trees, including the support of seedlings by mature "mother trees."
 
 ## Types of Mycorrhizal Networks
 
@@ -56,7 +56,7 @@ Suzanne Simard's pioneering research at the University of British Columbia:
 ### Defense Signaling
 - Plants under insect or pathogen attack send chemical signals through CMNs
 - Neighboring plants receive these signals and activate defense responses
-- [[chamovitz-plant-scent-communication-volatile-organic-compounds]] and systemic signals transmitted through fungal hyphae
+- Volatile organic compounds and systemic signals transmitted through fungal hyphae
 - Documented in: tomato (defense against aphids), bean (defense against Botrytis), ponderosa pine (defense against bark beetles)
 - Primer effect: pre-exposed plants respond faster and stronger to subsequent attacks
 
@@ -141,10 +141,10 @@ Suzanne Simard's pioneering research at the University of British Columbia:
 
 ## Controversies and Open Questions
 
-- The extent [[lichen-biology-guide]] of resource transfer through CMNs is debated
-- Some researchers argue that resource movement is small relative to total plant budgets
-- Kin selection through CMNs is supported by some studies but not universally accepted
-- The signaling function of CMNs is well-documented but field significance is debated
-- Popular accounts (including Simand's "Finding the Mother Tree") have been criticized for over-stating the cooperation narrative
-
 ## See Also
+
+- [[staycare-mycorrhizal-hydrocarbons]]
+- [[mycorrhizal-fungi-fruit-trees]]
+- [[query-how-does-mycorrhizal-network-communication-work-between-plants]]
+- [[dark-septate-endophytes]]
+- [[aact-forest-litter-fungi-mycorrhizal-ingham]]

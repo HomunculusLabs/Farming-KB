@@ -8,7 +8,7 @@ sources: ["raw/papers/bahay-kubo-indigenous-microorganisms_.md"]
 ---
 # Bahay Kubo — IMO Collection and Preparation
 
-Gil Carandang's guide to collecting and culturing [[beneficial-indigenous-microorganisms-bim]] (IMO) from local environments draws on Dr. [[cho-han-kyu-life-and-philosophy]] Cho's Korean [[comparison-natural-farming-vs-permaculture]] methods and his own experience at Herbana Farms in the Philippines. The core philosophy is that farmers should culture their own beneficial microorganisms from local sources rather than purchasing imported commercial cultures. See [[bahay-kubo-fpj-and-ffj-fermentation]] for LAB culture)
+Gil Carandang's guide to collecting and culturing [[cho-han-kyu-life-and-philosophy]] Cho's Korean [[bahay-kubo-fpj-and-ffj-fermentation]] for LAB culture)
 - The remaining 50% divided among forest, bamboo, and plant-specific microorganisms
 - Suggested ratio: 3 parts LAB + 1 part forest + 1 part bamboo + 1 part plant-specific
 - More diversified microbes produce better results
@@ -21,12 +21,7 @@ Gil Carandang's guide to collecting and culturing [[beneficial-indigenous-microo
 - Always maintain 50-75% air gap in containers during collection and fermentation
 - Cover loosely — never vacuum-tight — allowing air to move into the container
 - Place containers in quiet areas with no direct sunlight
-- [[query-what-is-the-ideal-temperature-range-for-growing-cannabis]] of 20-25 degrees C is optimal for collection
-- Dilution rate: 1 part serum to 20 parts water for basic application
-- Water used for dilution must not be chemically treated (chlorine kills live microorganisms)
-- Application rate: 2-4 tablespoons per gallon of water as basic spray
 - [[bionutrients-lab-lactic-acid-bacteria-serum]]
-- [[fukuoka-natural-rice-farming-steps]]
 - [[jadam-making-organic-farming-inputs]]
 ## Practical Applications
 
@@ -96,8 +91,6 @@ through generations to modern scientific approaches, the evolution continues
 to inform current best practices and research directions.
 
 ## See Also
-- [[doc]]
 - [[det]]
-- [[bionutrients]]
 - [[permaculture]]
 - [[gil-carandang]]

@@ -1,14 +1,8 @@
-# [[microwave-sterilization-system-hardware-architecture]]
-
-## Overview
-
-The NASA-developed [[microwave-surface-sterilization]] system (MSC-22484) consists
+# [[microwave-surface-sterilization]] system (MSC-22484) consists
 of several integrated hardware components that work together to deliver
 controlled 2.45 GHz microwave energy to contaminated surfaces. The system
 was designed to be modular and configurable, allowing adaptation to different
-surface geometries and sterilization requirements. The [[coaxial-power-splitter-waveguide-microwave-sterilization]] system hardware architecture power waveguide antenna
-as documented in the original NASA Tech Brief includes a power supply,
-[[magnetron-oscillator-microwave-sterilization]], waveguide components, power splitting, and antenna
+surface geometries and sterilization requirements. The [[magnetron-oscillator-microwave-sterilization]], waveguide components, power splitting, and antenna
 elements.
 
 ## System Components
@@ -20,9 +14,7 @@ mains) to the high-voltage DC required by the magnetron oscillator. The
 power supply must provide stable output voltage and current to maintain
 consistent microwave output power. In the NASA system, the power supply was
 designed to deliver sufficient power to achieve the 3.6 W/cm2 exposure rate
-required for reliable [[challenge-organisms-nasa-microwave-surface-sterilization-testing]] across the target surface area.
-
-Power supply [[mycoremediation-bioreactor-design-considerations]] include thermal management (magnetron
+required for reliable [[mycoremediation-bioreactor-design-considerations]] include thermal management (magnetron
 operation generates significant heat), electrical safety (high-voltage
 components require appropriate insulation), and output regulation (consistent
 power is essential for reproducible sterilization results).

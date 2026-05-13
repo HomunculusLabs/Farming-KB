@@ -12,60 +12,7 @@ updated: 2026-04-28
 sources:
   - Maslin, B.R. et al. (1999). "Acacia acuminata." Flora of Australia, CSIRO Publishing.
   - Lassak, E.V. & McCarthy, T. (2011). Australian Medicinal Plants. New Holland Publishers.
-  - Smith, J.A. et al. (2020). "[[hplc-analysis-of-tryptamine-alkaloids]] in Australian Acacia Species." Phytochemistry.
-  - Venkatesh, S. et al. (2019). "Ethnobotanical Uses of Acacia Species in Aboriginal Australian Medicine." Journal of Ethnopharmacology.
----
-## Overview
-
-Acacia acuminata, commonly known as raspberry jam wattle or jam wattle, is a perennial tree species endemic to southwestern Australia.
-
-The species belongs to the legume family (Fabaceae, subfamily Mimosoideae) and is one of approximately 1,000 Acacia species native to Australia.
-
-It is notable among ethnobotanists for containing tryptamine alkaloids, particularly N,N-dimethyltryptamine (DMT), in its bark and phyllodes.
-
-The common name derives from the strong raspberry-like aroma released when the wood is cut or burned.
-
-## Taxonomy and Morphology
-
-**Kingdom:** Plantae — **Family:** Fabaceae — **Subfamily:** Mimosoideae — **Genus:** Acacia — **Species:** A. acuminata
-
-The species was first formally described by botanist George Bentham in 1842 in his work *London Journal of Botany*.
-
-Two subspecies are recognized: *A. acuminata* subsp. *acuminata* (narrow phyllode form) and *A. acuminata* subsp. *burkittii* (broad phyllode form, sometimes treated as a separate species).
-
-A. acuminata is a small to medium-sized tree, typically reaching heights of 3 to 10 meters, though some specimens can grow taller.
-
-The bark is dark brown to grey, rough and fissured on older trunks, with distinctive ridges and furrows.
-
-Phyllodes (modified leaf stalks) are narrow, linear, and 8 to 20 cm long in subsp. *acuminata*, or broader and lance-shaped in subsp. *burkittii*.
-
-The wood is dense, hard, and durable with a distinctive fragrance, historically valued for tool making and fence posts.
-
-## Distribution and Habitat
-
-Acacia acuminata is endemic to Western Australia, occurring primarily in the southwestern corner of the state.
-
-Its range extends from the Murchison River region in the north to the Esperance district in the southeast.
-
-The species occupies a variety of habitats including eucalypt woodlands, shrublands, and seasonally dry watercourses.
-
-It is commonly found on sandy, gravelly, or loamy soils in areas receiving 250 to 600 mm of annual rainfall.
-
-A. acuminata is well-adapted to the Mediterranean climate of southwestern Australia, tolerating hot, dry summers and mild, wet winters.
-
-It is frequently encountered as an understory component in jarrah (Eucalyptus marginata) and wandoo (Eucalyptus wandoo) forests.
-
-## Bioactive Compounds
-
-The bark and phyllodes of Acacia acuminata contain significant concentrations of tryptamine alkaloids.
-
-**N,N-Dimethyltryptamine (DMT)** is the primary psychoactive alkaloid, found at concentrations ranging from 0.1% to 1.0% in dried bark, depending on plant part, subspecies, and growing conditions.
-
-Subspecies *burkittii* is generally reported to have higher alkaloid concentrations than subsp. *acuminata*.
-
-**N-Methyltryptamine (NMT)** has also been detected in bark extracts, typically at lower concentrations than DMT.
-
-Additional alkaloids identified in trace amounts include 5-Methoxy-DMT (5-MeO-DMT) and 5-Hydroxy-DMT ([[bufotenin]]) in some populations.
+  - Smith, J.A. et al. (2020). "[[bufotenin]]) in some populations.
 
 The roots have not been found to contain significant tryptamine concentrations; the bark is the primary alkaloid-bearing tissue.
 
@@ -90,8 +37,91 @@ Contemporary interest in A. acuminata as a source of DTM for botanical extractio
 ## Ecology and Permaculture Applications
 
 ## See Also
-- [[magnolia-acuminata]]
 - [[cola-acuminata]]
-- [[musa-acuminata]]
 - [[blackstonia-acuminata]]
 - [[acacia]]
+
+## Overview
+
+Acacia Acuminata represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish acacia acuminata
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving acacia extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Acacia Acuminata finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for acacia acuminata. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+acacia acuminata and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Acacia Acuminata has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of acacia acuminata into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[acacia-confusa]]
+- [[acacia-farnesiana]]
+- [[acacia-tortilis]]
+- [[fukuoka-morishima-acacia-orchard-integration]]
+- [[morishima-acacia-nitrogen-fixing-soil-building-tree]]

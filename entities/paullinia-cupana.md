@@ -14,8 +14,7 @@ sources:
 Paullinia cupana, commonly known as guaraná, is a climbing shrub in the
 family Sapindaceae, native to the Amazon basin of Brazil. It is renowned
 for its seeds, which contain the highest natural concentration of
-[[theobromine]], theophylline, and a unique profile of
-tannins and saponins that modify [[caffeine]] absorption, producing a
+[[caffeine]] absorption, producing a
 smoother, more sustained stimulant effect compared to coffee. Modern
 research supports cognitive-enhancing, fatigue-reducing, and potential
 weight-management properties.
@@ -90,3 +89,6 @@ that of coffee beans, making it the most potent natural caffeine source.
 
 ## See Also
 - [[neurotropic-fungi-colombia-species-diversity-and-ecology]]
+
+## See Also
+- [[guzman-neurotropic-fungi-genus-diversity-overview]]

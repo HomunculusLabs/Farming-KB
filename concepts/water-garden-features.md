@@ -12,67 +12,22 @@ sources:
 
 updated: 2026-04-18
 
-The organic garden will be more attractive to wildlife if it contains a pond, because it provides drinking water for birds and small mammals, and a home for many [[fungi-aquatic-animals-pathogens-parasites]]. Frogs and toads should be encouraged because they eat large quantities of [[query-how-to-get-rid-of-slugs-and-snails-organically]]. A pond also enables you to grow a much wider range of plants.
+The organic garden will be more attractive to wildlife if it contains a pond, because it provides drinking water for birds and small mammals, and a home for many [[query-how-to-get-rid-of-slugs-and-snails-organically]]. A pond also enables you to grow a much wider range of plants.
 
 ## Aquatic Plants
 
 Aquatic plants can be divided into four groups — deep-water aquatics, floating plants, submerged oxygenating plants, and marginal plants. Try to include plants from each group.
 
 ### Deep-Water Aquatics
-Plants that root at the bottom of the pond but whose leaves float on the surface. Water lilies (Nymphaea sp.) are both decorative and useful for reducing algae growth, which turns water green and murky. Algae live on mineral salts and sunlight, so the more leaf cover on the surface, the less algae can grow. Attractive deep-water aquatics include the **white water lily** (Nymphaea alba) and **water crowfoot** ([[ranunculus-aquatilis]]).
-
-**Planting depths:**
-- **Water hawthorn** (Aponogeton distachyum) — 6-18in (15-45cm)
-- **Water violet** (Hottonia palustris) — 12in (30cm)
-- **N. 'Alba'** — 1-3ft (30-90cm)
-- **N. 'Sunrise'** — 6-18in (15-45cm)
-- **N. 'Firecrest'** — 6-18in (15-45cm)
-- **N. pygmaea 'Alba'** — 4-9in (10-20cm)
-
-Plant deep-water aquatics in containers during late spring and summer. Cut off all old leaves and lower the container to the bottom. New leaves will grow to the surface.
-
-### Floating Plants
-These reduce the amount of sunlight reaching the water surface, further suppressing algae. Examples include **water hyacinth** (Eichornia crassipes) and **water chestnut** (Trapa natans). Put them into the pond in spring — simply throw them in, using one plant per square yard/meter.
-
-### Submerged Oxygenating Plants
-Not decorative but essential to pond health as they aerate the water. Suitable plants include **spiked water milfoil** ([[myriophyllum-spicatum]]), **Canadian pondweed** ([[elodea-canadensis]]), and **curly pondweed** ([[potamogeton-crispus]]). Sold in bunches with a small weight attached — throw one bunch per 2 square yards/meters into the pond in spring.
+Plants that root at the bottom of the pond but whose leaves float on the surface. Water lilies (Nymphaea sp.) are both decorative and useful for reducing algae growth, which turns water green and murky. Algae live on mineral salts and sunlight, so the more leaf cover on the surface, the less algae can grow. Attractive deep-water aquatics include the **white water lily** (Nymphaea alba) and **water crowfoot** ([[myriophyllum-spicatum]]), **Canadian pondweed** ([[potamogeton-crispus]]). Sold in bunches with a small weight attached — throw one bunch per 2 square yards/meters into the pond in spring.
 
 ### Marginal Plants
 Grow in the shallowest parts of the pond and boggy soil around the edges. They range from those needing an inch or two of water over roots to those preferring marshy soil.
 
 **Planting depths:**
-- **Sweet-scented rush** ([[sweet-flag-acorus-calamus-ethnobotany]]) — 3-5in (7-12cm)
-- **Flowering rush** ([[butomus-umbellatus]]) — 3-5in (7-12cm)
+- **Sweet-scented rush** ([[butomus-umbellatus]]) — 3-5in (7-12cm)
 - **Bog arum** (Calla palustris) — 2-4in (5-10cm)
-- **Marsh marigold** ([[caltha-palustris]]) — 0-3in (0-7cm)
-- **Arrowhead** (Saggitaria japonica) — 3-5in (7-12cm)
-- **Water forget-me-not** (Myosotis palustris) — 0-3in (0-7cm)
-- **Primula** (Primula sp.) — 0-3in (0-7cm)
-
-## Constructing a Pond
-
-### Options
-1. **Fiberglass shell** — simplest; buy ready-made and dig a hole for it
-2. **Plastic liner** — dig to your own specifications; will eventually disintegrate
-3. **Rubber pond liner** — slightly more expensive but much more durable; allows you to choose any shape
-
-### Pond Cross-Section
-A well-designed pond has three zones:
-- **Marsh garden** — gently sloping, shallow area of damp soil for moisture-loving plants
-- **Marginal shelf** — wide enough for plant containers, 3-5in (7-12cm) deep. Make it very shallow in places as a refuge for fish
-- **Deep water area** — at least 18in (45cm) deep to accommodate most water lilies
-
-### Construction Steps
-1. Dig a hole to the required size with a slope on one side
-2. Cut out a shelf at the edge for marginal plants
-3. Line the hole with a thick layer of soft material (special blanket, sand, or newspaper) to protect the liner from sharp rocks
-4. To calculate minimum liner size: measure maximum length and width, then add twice the maximum depth to each measurement
-5. Lay the rubber liner
-6. Edge with paving stones to secure the liner and make planting/maintenance easier
-7. Put rocks in the marsh garden area to provide hibernation sites for frogs
-
-### Planting in Pots
-Use heavy garden soil or rotted turf. Do NOT use soil rich in [[hamilton-composting-and-organic-matter-management]] — it will putrefy as it rots. A thin layer of gravel on top prevents soil from floating and stops fish from disturbing it.
+- **Marsh marigold** ([[hamilton-composting-and-organic-matter-management]] — it will putrefy as it rots. A thin layer of gravel on top prevents soil from floating and stops fish from disturbing it.
 
 ## Locating the Pond
 
@@ -88,3 +43,88 @@ A gently sloping, shallow area providing an ideal habitat for plants that like d
 ## Maintaining the Pond
 
 ### Algae Growth
+
+## Overview
+
+Water Garden Features represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish water garden features
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving water extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Water Garden Features finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for water garden features. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+water garden features and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Water Garden Features has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of water garden features into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[green-cannabis-dry-sift-water-extraction]]
+- [[osmophilic-osmotolerant-fungi-low-water-activity]]
+- [[permaculture-plants-aquatic-systems-water-plants]]
+- [[permaculture-water-chestnut-guide]]
+- [[water-spreading-techniques-drylands]]

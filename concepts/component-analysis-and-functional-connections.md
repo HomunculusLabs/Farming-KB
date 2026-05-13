@@ -8,47 +8,7 @@ type: concept
 
 ## Overview
 
-Component analysis is one of the foundational methods of [[permaculture-design]]. It involves systematically cataloging the characteristics of each element in a system — its inputs, outputs, behaviors, and intrinsic properties — and then finding ways to connect elements so that each supplies the needs and accepts the products of others. This method transforms a collection of unrelated parts into an integrated, self-regulating whole.
-
-## The Purpose of Functional Design
-
-The purpose of a functional and self-regulating design is to place elements or components in such a way that each serves the needs and accepts the products of other elements. When this is achieved, the system requires minimal external energy input and produces minimal waste. Every output becomes an input for something else; every need is supplied by another component.
-
-## The Chicken as a Case Study
-
-Mollison illustrates component analysis using the chicken — a homely and universally known component. The analysis proceeds through three categories:
-
-### 1. Needs (Inputs)
-
-**Primary needs:**
-- Food
-- Warmth
-- Shelter
-- Water
-- Grit (for digestion)
-- Calcium (for eggshells)
-- Dust baths (for parasite control)
-- Other chickens (social needs)
-
-**Secondary needs:**
-- A tolerable social and physical environment
-- A healthy life of moderate stress
-
-### 2. Outputs (Products and Behaviors)
-
-**Primary products:**
-- Eggs
-- Feathers
-- Feather dust
-- Manure
-- Exhaled and excreted gases (CO₂, ammonia)
-- Sound
-- Heat
-
-**Derived products** (limited only by information and local needs):
-- From eggs: a variety of foods, albumen
-- From feathers: dusters, insulation, bedding, rope, special manures
-- From manure: direct garden fertilizer, [[compost]] heat, methane (via anaerobic digestion)
+Component analysis is one of the foundational methods of [[compost]] heat, methane (via anaerobic digestion)
 - Heat and gases: useful in enclosed glasshouses
 
 **Behaviors:**
@@ -145,5 +105,12 @@ Just by moving the same components into a beneficial design assembly — without
 
 Mollison catalogs the typical components available for design:
 ## See Also
+- [[functional-design-component-placement]]
+
+## See Also
+
+- [[fungal-signal-transduction-pathways-gpcr-two-component-mapk]]
+- [[gadd-two-component-signalling-histidine-kinase-fungi]]
 - [[functional-analysis-component-connection]]
 - [[functional-design-component-placement]]
+- [[ozier-pdc-sector-analysis-for-site-design]]

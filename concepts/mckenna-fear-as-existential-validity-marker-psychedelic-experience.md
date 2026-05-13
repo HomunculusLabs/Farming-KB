@@ -1,5 +1,5 @@
 ---
-title: "Mckenna Fear As Existential Validity Marker Psychedelic Experience"
+title: "Mckenna Fear As Existential Validity Marker [[leary-psychedelic-experience-bardo-mapping]]"
 source: tryptamine-hallucinogens-and-consciousness.md
 tags:
   - fear
@@ -18,31 +18,11 @@ tags:
 
 ## Overview
 
-[[terence-mckenna]] advanced a counterintuitive argument: that fear encountered during psychedelic experiences is not pathology but a **marker of existential validity** — an indicator that one is approaching genuine transformation. The degree of fear experienced correlates directly with proximity to authentic ontological shift, repositioning fear from obstacle to guide on the path toward ego transcendence.
-
-## Core Argument: Fear as Correlate of Boundary Dissolution
-
-McKenna's central thesis:
-
-> In a situation of psychedelic boundary dissolution, the degree to which fear is felt is the degree to which one has let go of one's previously held position.
-
-Fear is the **emotional correlate** of the process by which the conditioned self loses its grip on consciousness. The psychedelic compound does not create fear; it reveals the terror always latent in the ego's structure. The ego maintains boundaries between self and world, subject and object, known and unknown. When psychedelics dissolve those boundaries, the ego registers its own dissolution as the most fundamental threat imaginable.
-
-> The most frightening thing that can happen to you is complete dissolution of your own ego boundaries.
-
-This is not metaphorical. It is the visceral recognition that the entire edifice of personal identity, memory, and narrative continuity is being dismantled. The fear is proportionate to the stakes: total psychological death precedes whatever rebirth may follow.
-
-## Fear as Signal, Not Symptom
-
-A critical distinction separates **pathological fear** (arising from unsafe conditions or toxic [[lsd-set-and-setting-framework]]) from **existential fear** (arising from genuine encounter with ego dissolution). The former warrants intervention; the latter demands surrender.
+[[lsd-set-and-setting-framework]]) from **existential fear** (arising from genuine encounter with [[default-mode-network-and-ego-dissolution]]). The former warrants intervention; the latter demands surrender.
 
 In this model, fear functions as a **signal of proximity** to genuine ontological shift. Just as physical pain signals that healing is underway, psychedelic fear signals that deconditioning is active and real. McKenna implied a principle: the more fear, the more real it is. Fear becomes an **authenticity indicator** distinguishing superficial recreational experiences from genuine encounters with the unknown.
 
-Where [[metzner-western-psychology-freud-jung-reich-entheogenic-integration]] might interpret psychedelic fear as a "bad trip" requiring abortive intervention, McKenna read it as confirmation that the experience is working — that the traveler has reached the threshold where real transformation becomes possible.
-
-## The Shamanic Paradigm: Ordeal as Initiation
-
-McKenna grounded his understanding in **[[mckenna-shamanic-initiation-death-resurrection-eliade]] traditions**. Across cultures, the apprentice shaman undergoes deliberate confrontation with terror, death, and disintegration as prerequisite for healing knowledge. The psychedelic experience recapitulates this archetypal pattern. The initiate does not merely observe altered states from a safe distance; they are consumed by them, broken apart, and reconstituted in a new form.
+Where [[mckenna-shamanic-initiation-death-resurrection-eliade]] traditions**. Across cultures, the apprentice shaman undergoes deliberate confrontation with terror, death, and disintegration as prerequisite for healing knowledge. The psychedelic experience recapitulates this archetypal pattern. The initiate does not merely observe [[glossolalia-and-altered-states]] from a safe distance; they are consumed by them, broken apart, and reconstituted in a new form.
 
 > You have to be willing to die in the most literal sense.
 
@@ -50,7 +30,7 @@ This is not suicidal ideation but radical openness — a premeditated acceptance
 
 ### The Role of the Guide
 
-McKenna did not advocate confronting this terror alone. He emphasized the importance of social context:
+McKenna did not advocate confronting this terror alone. He emphasized the importance of [[emcdda-hallucinogenic-mushroom-polydrug-use-social-context]]:
 
 > The presence of a shaman who has been through this and can talk you through it.
 
@@ -76,9 +56,9 @@ Genuine exploration requires willingness to follow fear where it leads. The expl
 
 McKenna's framework carries significant implications for contemporary psychedelic therapy:
 
-1. **Set and setting are paramount.** Fear from unsafe conditions is pathological; fear from the intrinsic nature of the experience is informative and should be supported.
+1. **[[metzner-set-and-setting-hypothesis-origins-and-extensions]] are paramount.** Fear from unsafe conditions is pathological; fear from the intrinsic nature of the experience is informative and should be supported.
 
-2. **Experienced guides are essential.** Someone who has navigated their own psychedelic terror provides a model of survivability and a relational anchor during ego dissolution.
+2. **Experienced guides are essential.** Someone who has navigated their own [[mckenna-psychedelic-terror-and-existential-authenticity]] provides a model of survivability and a relational anchor during ego dissolution.
 
 3. **Preparation should include education about fear.** Participants should understand that fear is a normal, potentially meaningful component — not necessarily a sign something has gone wrong.
 
@@ -116,10 +96,4 @@ McKenna's framework warrants critical examination. Not all psychedelic fear sign
 
 - ego death
 - boundary dissolution
-- [[set-and-setting]]
-- shamanic initiation
-- psychedelic therapy
-
-## Sources
-
-- McKenna, T. "Tryptamine [[tryptamine-hallucinogens-and-consciousness]]." Primary source for all quoted material and core arguments presented on this page.
+- [[tryptamine-hallucinogens-and-consciousness]]." Primary source for all quoted material and core arguments presented on this page.

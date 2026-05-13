@@ -23,9 +23,9 @@ sources:
 
 # Echinopsis bridgesii (Bolivian Torch)
 
-**Echinopsis bridgesii**, commonly known as the **Bolivian Torch cactus**, is a fast-growing columnar cactus species in the family Cactaceae, native to the Bolivian Andes. It is one of the principal "san pedro-type" mescaline-containing cacti, valued both as a traditional entheogen and as an ornamental succulent in cultivation. The species is closely related to *[[echinopsis-peruvianus]]* ([[trichocereus-mescaline-cacti-san-pedro-peruvian-torch-halpern]]), and is often discussed alongside them in ethnobotanical literature, though it is genetically and morphologically distinct.
+**Echinopsis bridgesii**, commonly known as the **Bolivian Torch cactus**, is a fast-growing columnar cactus species in the family Cactaceae, native to the Bolivian Andes. It is one of the principal "san pedro-type" mescaline-containing cacti, valued both as a traditional entheogen and as an ornamental succulent in cultivation. The species is closely related to *[[trichocereus-mescaline-cacti-san-pedro-peruvian-torch-halpern]]), and is often discussed alongside them in ethnobotanical literature, though it is genetically and morphologically distinct.
 
-The taxonomic history of *E. bridgesii* is complex. It has been variously classified as *[[echinopsis-lageniformis]]*, reflecting the ongoing revision of Trichocereus taxonomy into the genus *Echinopsis*. Many cultivators and ethnobotanists continue to use the name *[[trichocereus-bridgesii]]*.
+The taxonomic history of *E. bridgesii* is complex. It has been variously classified as *[[trichocereus-bridgesii]]*.
 
 ## Taxonomy and Classification
 
@@ -37,12 +37,7 @@ The taxonomic history of *E. bridgesii* is complex. It has been variously classi
 - **Genus:** Echinopsis (syn. Trichocereus)
 - **Species:** E. bridgesii (Salm-Dyck) Friedrich & G.D. Rowley
 
-The species was first described by Joseph zu Salm-Dyck in 1850 as *Cereus bridgesii*, named in honor of the English botanist and plant collector George Bridges (1806–1883), who collected cacti in [[guzman-psilocybin-mushrooms-south-america]].
-
-## Botanical Description
-
-### Growth Habit
-*E. bridgesii* is a columnar, tree-like cactus that grows upright with minimal branching unless the apical meristem is damaged. In cultivation, it typically reaches 2–5 meters in height and 8–15 cm in diameter. In its native habitat, mature specimens can exceed 6 meters. [[soil-temperature-plant-growth-rate-doubling-rule]] is fast for a cactus — 30–60 cm per year under optimal conditions — making it one of the most vigorous Trichocereus species.
+The species was first described by Joseph zu Salm-Dyck in 1850 as *Cereus bridgesii*, named in honor of the English botanist and plant collector George Bridges (1806–1883), who collected cacti in [[soil-temperature-plant-growth-rate-doubling-rule]] is fast for a cactus — 30–60 cm per year under optimal conditions — making it one of the most vigorous Trichocereus species.
 
 ### Ribs
 The cactus typically has 4–8 ribs (most commonly 5), which is fewer than *E. pachanoi* (typically 6–9 ribs). The ribs are broad and rounded, with deep furrows between them. This relatively low rib count is a key diagnostic feature distinguishing it from related species.

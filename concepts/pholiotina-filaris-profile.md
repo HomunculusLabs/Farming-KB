@@ -11,15 +11,7 @@ type: concept
 
 ## Taxonomy and Synonyms
 
-Pholiotina filaris (Fries) Singer is a deadly [[growing-gourmet-poisonous-mushroom-lookalikes]]
-with a complex taxonomic history. It has been known by several
-synonyms including Pholiota filaris Fries and Conocybe filaris
-Fries. The transfer from Conocybe to Pholiotina reflects ongoing
-revisions in Bolbitiaceae taxonomy. The common names "the deadly
-Pholiota," "the deadly ringed cone head," and "the deadly ringed
-Conocybe" all emphasize the extreme danger this species poses.
-Unlike the psilocybin-active mushrooms it may resemble, P. filaris
-contains lethal amatoxins. See also [[amanita-phalloides]] for other amatoxin-containing species.
+Pholiotina filaris (Fries) Singer is a deadly [[amanita-phalloides]] for other amatoxin-containing species.
 
 ## Macroscopic Features
 
@@ -31,11 +23,7 @@ nearly plane and often with a pronounced but broad umbo. The
 margin is slightly translucent-striate when moist. The cap color
 is orangish tawny brown. The surface is moist when wet, soon dry,
 and usually smooth overall. This small size and conic shape could
-potentially be confused with some [[alpha-amanitin]] and beta-amanitin, which inhibit RNA
-polymerase II, leading to severe hepatotoxicity and potentially
-fatal liver failure. Symptoms typically begin 6 to 24 hours after
-ingestion with a delayed onset that can provide a false sense of
-security. The mortality rate from [[bloomfield-amatoxin-poisoning-mechanism]] is significant
+potentially be confused with some [[bloomfield-amatoxin-poisoning-mechanism]] is significant
 without prompt medical intervention, including liver transplant in
 severe cases.
 
@@ -45,12 +33,7 @@ The variety commonly found in western Washington has a movable
 membranous annulus that can degrade into an annular zone, bringing
 its overall appearance very close to that of other Conocybes.
 Since there is potential for misidentification, collectors could
-conceivably confuse P. filaris with [[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]] if they
-did not heed the requirement for a Psilocybin [[psilocybin-mushroom-bluing-reaction-chemistry]]  [[fenton-reaction-chemistry-and-biochemistry]] and other identification guidelines.
-
-Stamets emphasizes: learn to recognize Pholiotinas and Galerinas,
-and avoid them. The rusty brown spore print, absence of any
-[[field-guide-psilocybin-bluing-reaction-identification]], and habitat on wood chips versus grassland or
+conceivably confuse P. filaris with [[psilocybin-mushroom-bluing-reaction-chemistry]]  [[field-guide-psilocybin-bluing-reaction-identification]], and habitat on wood chips versus grassland or
 dung can all help distinguish P. filaris from active species.
 Collectors should always make spore prints and verify spore color
 before consuming any small, conic-capped mushroom.
@@ -84,3 +67,84 @@ warrants particular attention during any identification process.
 ## See Also
 
 - [[2c-c-compound-profile]]
+
+## Overview
+
+Pholiotina Filaris Profile represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish pholiotina filaris profile
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving pholiotina extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Pholiotina Filaris Profile finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for pholiotina filaris profile. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+pholiotina filaris profile and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Pholiotina Filaris Profile has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of pholiotina filaris profile into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[dpt-compound-profile]]

@@ -21,33 +21,7 @@ sources:
 
 ## Overview
 
-Passiflora foetida is a species of flowering vine in the family Passifloraceae, commonly known as the wild maracuja, stinking passionflower, or love-in-a-mist. It is native to tropical and subtropical regions of the Americas and has become naturalized across Africa, Asia, and the [[guzman-allen-gartz-neurotropic-fungi-hawaii-pacific-islands]].
-
-The species is notable for its deeply dissected bracts that form a lace-like cage around the fruit, its edible but small passionfruit, and its status as an invasive weed in many tropical agricultural systems. The epithet "foetida" refers to the strong, often unpleasant odor emitted by crushed foliage.
-
-Passiflora foetida is closely related to the commercially cultivated passionfruit species and shares many of the same pharmacologically active compounds, particularly flavonoids and [[harmala-alkaloids]]. It has attracted increasing research interest for its bioactive [[antifungal-secondary-metabolites-coprophilous-fungi]] and potential pharmaceutical applications.
-
-## Taxonomy and Morphology
-
-Passiflora foetida was described by Carl Linnaeus in 1753. It belongs to the subgenus Decaloba, section Dysosmia. Several varieties have been recognized, including var. foetida, var. hispida, and var. isthmia, though taxonomic boundaries remain debated.
-
-The subgenus Decaloba is distinguished by the presence of a peltate leaf tendril and a coronal zone divided into distinct radii and pali. Within section Dysosmia, Passiflora foetida is one of the most widespread and morphologically variable species, reflecting its broad geographic distribution and adaptation to diverse habitats.
-
-The plant is a slender, climbing or trailing vine reaching 2 to 6 meters in length. Stems are slender, cylindrical, and densely covered with fine, hooked hairs (glandular trichomes) that give the foliage a sticky texture and emit the characteristic fetid odor when touched.
-
-Leaves are alternate, three-lobed, and range from 3 to 10 centimeters in length. The leaf margins are irregularly toothed, and the upper surface is sparsely hairy while the undersurface is densely pubescent with glandular trichomes responsible for the characteristic fetid scent.
-
-Flowers are approximately 3 to 5 centimeters in diameter, borne singly on long peduncles. The sepals and petals are white to pale green, each approximately 1.5 to 2 centimeters long. The corona filaments are white with purple bands at the base, arranged in several series.
-
-The most distinctive morphological feature is the deeply lobed, filamentous bract that subtends each flower and encloses the developing fruit. This bract is divided into numerous fine, thread-like segments that form an intricate, cage-like structure 2 to 4 centimeters across.
-
-Fruits are globose berries 1 to 2.5 centimeters in diameter, green maturing to yellowish-orange or purplish. The pulp is aromatic, sweet to subacid, and contains numerous small, dark brown seeds approximately 3 millimeters long.
-
-The seeds are flattened and surrounded by an arillate pulp that attracts frugivorous birds and small mammals. Fruit set is typically high under favorable conditions, with individual plants capable of bearing dozens to hundreds of fruits simultaneously across a growing season.
-
-## Distribution and Habitat
-
-Passiflora foetida is native to the Caribbean, [[guzman-allen-gartz-neurotropic-fungi-caribbean-central-america]], and northern South America. Its native range extends from southern Florida and Mexico through the West Indies to Brazil, Bolivia, and Paraguay.
+Passiflora foetida is a species of flowering vine in the family Passifloraceae, commonly known as the wild maracuja, stinking passionflower, or love-in-a-mist. It is native to tropical and subtropical regions of the Americas and has become naturalized across Africa, Asia, and the [[harmala-alkaloids]]. It has attracted increasing research interest for its bioactive [[guzman-allen-gartz-neurotropic-fungi-caribbean-central-america]], and northern South America. Its native range extends from southern Florida and Mexico through the West Indies to Brazil, Bolivia, and Paraguay.
 
 The species has been widely introduced and naturalized throughout the tropics. It is now established in tropical Africa, South and Southeast Asia (including India, Sri Lanka, Thailand, Vietnam, and the Philippines), northern Australia, and many Pacific islands including Hawaii and Fiji.
 
@@ -67,9 +41,7 @@ In traditional medicine, aerial parts of the plant are used as a sedative and an
 
 The leaves are occasionally used as a vegetable in parts of Southeast Asia, though the strong odor and presence of cyanogenic glycosides require proper cooking. Young shoots and tendrils are boiled and consumed in some rural communities in the Philippines and Thailand.
 
-In Brazilian folk medicine, the roots are used as a purgative and vermifuge. In Mexico, a tea made from the aerial parts is traditionally consumed as a calming beverage, similar to the use of [[passiflora-incarnata]] in North American herbalism.
-
-The plant has also been used externally as a poultice for skin inflammations and wounds in several South American indigenous communities. The glandular trichomes on the leaf surface may contribute to its topical [[medicinal-mushroom-antimicrobial-properties]].
+In Brazilian folk medicine, the roots are used as a purgative and vermifuge. In Mexico, a tea made from the aerial parts is traditionally consumed as a calming beverage, similar to the use of [[medicinal-mushroom-antimicrobial-properties]].
 
 Despite its limited commercial value, the species has been investigated as a potential source of pharmaceutical compounds. Its ability to grow rapidly on nutrient-poor soils and its pest resistance make it an interesting candidate for agrochemical research.
 
@@ -77,14 +49,91 @@ Despite its limited commercial value, the species has been investigated as a pot
 
 Passiflora foetida contains a range of secondary metabolites consistent with the genus, including flavonoids, alkaloids, and phenolic acids. The primary flavonoid constituents include apigenin, luteolin, quercetin, and kaempferol, found in both free and glycosylated forms in the leaves and stems.
 
-Harmala alkaloids, including harmine and related beta-carboline derivatives, have been detected in the aerial parts at low concentrations. These compounds are shared with the more pharmacologically studied [[passiflora-incarnata]] and contribute to the sedative properties reported in traditional use.
-
-The leaves contain cyanogenic glycosides, which release hydrogen cyanide upon tissue damage. This contributes both to the plant's defense against herbivory and to the characteristic odor of crushed foliage. Proper cooking deactivates these compounds.
-
-Phenolic compounds including gallic acid, caffeic acid, and chlorogenic acid have been identified in leaf extracts. These contribute to the antioxidant capacity demonstrated in in vitro assays using DPPH and ABTS radical scavenging methods.
-
-Pharmacological studies have demonstrated anxiolytic, sedative, and anti-inflammatory activities in animal models using extracts of the aerial parts. A 2004 study in the Indian Journal of Pharmacology confirmed significant anti-anxiety activity comparable to diazepam in rodent models using a methanolic leaf extract.
-
-Additional studies have reported antibacterial activity against Gram-positive bacteria, including Staphylococcus aureus and [[bacillus-subtilis]]. The anti-inflammatory effects have been attributed primarily to the flavonoid fraction, with luteolin and apigenin identified as the most active constituents.
+Harmala alkaloids, including harmine and related beta-carboline derivatives, have been detected in the aerial parts at low concentrations. These compounds are shared with the more pharmacologically studied [[bacillus-subtilis]]. The anti-inflammatory effects have been attributed primarily to the flavonoid fraction, with luteolin and apigenin identified as the most active constituents.
 
 ## Ecology
+
+## Overview
+
+Passiflora Foetida represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish passiflora foetida
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving passiflora extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Passiflora Foetida finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for passiflora foetida. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+passiflora foetida and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Passiflora Foetida has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of passiflora foetida into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[passiflora-caerulea]]
+- [[passiflora-edulis]]
+- [[passiflora-incarnata]]
+- [[passiflora-quadrangularis]]
+- [[passionflower-passiflora]]

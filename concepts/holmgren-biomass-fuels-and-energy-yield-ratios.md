@@ -25,22 +25,7 @@ intensively managed annual and short-rotation crops.
 
 ## EMERGY Yield Ratios of Biomass Fuels
 
-EMERGY analysis compares the embodied [[fukuoka-textdoc-three-dimensional-solar-energy-methodless-method]] invested in producing a
-fuel against the energy that fuel delivers. Holmgren presents Odum's data
-showing a clear relationship between replacement time and yield ratio:
-
-- Rainforest timber (Brazil, 300-year rotation): EMERGY yield ratio 12.00
-- Spruce (90-year rotation): 4.10
-- Slash pine, Florida (25-year rotation): 2.40
-- Eucalypts, Brazil (7-year rotation): 2.20
-- Radiata pine, New Zealand (24-year rotation): 2.10
-- Willow, Sweden (6-year rotation): 1.34
-- Sugar cane alcohol (1-year rotation): 1.10
-- Corn (annual): 1.10
-- Palm oil (annual): 1.06
-
-Annual crops have yield ratios barely above 1, meaning they deliver almost
-no [[fukuoka-agricultural-production-net-energy-deduction]] after accounting for all inputs. Wood plantations yield 1.5
+EMERGY analysis compares the embodied [[fukuoka-agricultural-production-net-energy-deduction]] after accounting for all inputs. Wood plantations yield 1.5
 to 4, while 300-year-old rainforest yields 12. The pattern is clear: the
 more work is left to nature, the greater the net yield, but the longer the
 time required.
@@ -54,43 +39,8 @@ its own tail" -- a failure to recognise the basic pattern that the most
 apparently productive and high-yielding sources of energy often involve
 substantial activity for very little return.
 
-This has direct implications for [[holmgren-energy-descent-permaculture-flower]] planning. Rather than
-allocating fertile farmland to intensively managed annual biomass fuels,
-it may be better to rely on modest use of fossil fuels while investing in
-long-term naturally grown forests.
-
-## Trees as Renewable Energy Source
-
-Holmgren argues that trees are the ultimate biological capture and storage
-system for solar energy. Forest trees most efficiently convert dilute solar
-energy into wood that can substitute for many current uses of fossil fuel.
-Modern wood gasifier and micro-gas turbine technology appears to be a much
-more economical pathway for electricity production than holmgren-renewable-resources-detailed,
-permaculture-emergy-accounting,
-holmgren-forest-management-sustainable-yield.
-## Practical Considerations
-
-Successful implementation of Biomass Fuels and Energy Yield Ratios requires attention to
-several practical factors including environmental conditions,
-resource availability, and timing. Careful monitoring and
-adaptive management help optimize outcomes across varying
-conditions. Integration with other system elements enhances
-overall effectiveness and creates beneficial synergies that
-improve resilience and productivity over time.
-
-## Future Directions
-
-Continued development in this area promises new insights and
-improved approaches for both research and practical application.
-Cross-disciplinary collaboration and advances in analytical
-methods create opportunities for innovation and refinement.
-Recommended resources include current literature, practitioner
-communities, and systematic experimentation to build expertise.
-## See Also
-- [[david-holmgren]]
-- [[holmgren-energy-descent-planning]]
+This has direct implications for [[david-holmgren]]
 - [[holmgren-built-environment-household-energy-storage]]
-- [[holmgren-obtain-a-yield-detailed]]
 - [[holmgren-wind-power-and-renewable-energy-debate]]
 
 ## Practical Applications
@@ -122,8 +72,78 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[david-holmgren]]
 - [[doc]]
-- [[det]]
 - [[permaculture]]
 - [[holmgren-fossil-fuel-pulse-and-energy-descent-cycle]]
+
+## Overview
+
+Holmgren Biomass Fuels And Energy Yield Ratios represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish holmgren biomass fuels and energy yield ratios
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving holmgren extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Holmgren Biomass Fuels And Energy Yield Ratios finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for holmgren biomass fuels and energy yield ratios. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+holmgren biomass fuels and energy yield ratios and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Holmgren Biomass Fuels And Energy Yield Ratios has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of holmgren biomass fuels and energy yield ratios into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions

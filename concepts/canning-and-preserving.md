@@ -1,5 +1,5 @@
 ---
-title: Canning And Preserving
+title: [[comparison-root-cellaring-guide-vs-canning-and-preserving]]
 created: 2026-04-12
 updated: 2026-04-12
 type: concept

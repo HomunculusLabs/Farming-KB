@@ -63,17 +63,7 @@ The designer's task is to use energy as efficiently as possible before it degrad
 
 A critical principle derived from observing natural systems is that self-regulation is more effective than external control. Natural ecosystems maintain balance not through top-down authority but through millions of feedback relationships between organisms and their environment.
 
-When self-regulating function is removed, systems degrade. [[edward-goldsmith]] documented how, as natural self-regulation is replaced by external control, natural systems disintegrate and decay, producing more helpless plants, animals, and people. The State becomes the father of the orphaned child, the farmer the father of the orphaned chicken. It is only by returning self-regulating function and responsibility to living things that a stable life system can evolve.
-
-### The Authority Principle
-
-"The role of beneficial authority is to return function and responsibility to life and to people; if successful, no further authority is needed. The role of successful design is to create a self-managed system."
-
-This principle applies at every scale of design:
-
-- **Soil**: Return nutrient cycling to soil organisms rather than relying on fertilizer inputs
-- **Pest management**: Return pest control to predator-prey relationships rather than relying on pesticides
-- **Water**: Return [[water-management]] to landscape absorption and storage rather than relying on irrigation infrastructure
+When self-regulating function is removed, systems degrade. [[water-management]] to landscape absorption and storage rather than relying on irrigation infrastructure
 - **Community**: Return decision-making to local participants rather than relying on centralized governance
 
 ## Principles vs. Dogmas
@@ -88,27 +78,7 @@ Several key principles emerge from the study of natural systems:
 
 ### Cooperative Associations
 
-Cooperative species and associations of self-supporting species make healthy communities. [[mycorrhiza]] on tree roots exemplify mutualism — organisms that exchange nutrients and information, strengthening both partners and the community as a whole. Design should foster interdependence that values individual contributions rather than opposition or competition.
-
-### Diversity and Stability
-
-Complexity and diversity are not luxuries but necessities for system stability. Diverse systems have more pathways for energy flow and nutrient cycling, more redundancy if any single element fails, and more resilience against disturbance. Monocultures are inherently unstable and require massive energy inputs to maintain.
-
-### Succession
-
-Natural systems develop through succession — the progressive replacement of one community by another over time. Pioneer species prepare the ground for climax communities. Design can work with succession by planting fast-growing pioneer species alongside slower-growing climax species, accelerating the development of productive ecosystems.
-
-### Edge Effect
-
-The interface between two ecosystems (forest edge, water's edge, where meadow meets woodland) is typically more productive and diverse than either ecosystem alone. Design should maximize beneficial edge to increase productivity and habitat diversity.
-
-### Scale and Proportion
-
-Systems work best at appropriate scales. A small garden managed intensively by its occupants is more productive per unit area than a large farm managed mechanically. Design should match the scale of elements to the capacity of management available.
-
-## The Energy Accounting Framework
-
-Natural systems can be evaluated through energy accounting — tracking the flow of energy through the system from source to sink. In [[permaculture-design]], this accounting includes:
+Cooperative species and associations of self-supporting species make healthy communities. [[permaculture-design]], this accounting includes:
 
 - **Energy inputs**: Sunlight, water, wind, biological nitrogen fixation, human labor
 - **Energy storages**: Biomass (trees, soil organic matter), water in tanks and dams, food stored, seed saved
@@ -116,3 +86,11 @@ Natural systems can be evaluated through energy accounting — tracking the flow
 - **Energy cycling**: How many times energy is used within the system before leaving
 
 A well-designed permaculture system maximizes internal energy cycling while minimizing external inputs and entropy losses. The ideal is a system that produces more energy than it consumes — a net energy gain rather than the net energy loss characteristic of conventional agriculture.
+
+## See Also
+
+- [[laws-return-thermodynamics-design]]
+- [[kirchhoffs-circuit-laws]]
+- [[fukuoka-critique-agricultural-science-laws-liebig]]
+- [[fukuoka-critique-laws-agricultural-science]]
+- [[laws-of-thermodynamics]]

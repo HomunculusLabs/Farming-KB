@@ -19,7 +19,7 @@ sources:
 
 **Muhlenbergia capillaris** (Lam.) Trin., commonly known as pink muhly grass or hairawn muhly, is a warm-season perennial bunchgrass native to the central and eastern United States. It is celebrated for its airy pink to rose-red inflorescences that appear in late summer and persist through autumn.
 
-The species has become one of the most widely planted native ornamental grasses in [[growing-gourmet-north-american-reishi-species]] horticulture. Its cloud-like floral display, [[dighton-fungal-drought-tolerance-plant-water-relations]], and low maintenance requirements make it a staple of sustainable landscape design.
+The species has become one of the most widely planted native ornamental grasses in [[dighton-fungal-drought-tolerance-plant-water-relations]], and low maintenance requirements make it a staple of sustainable landscape design.
 
 ## Taxonomy and Morphology
 
@@ -61,11 +61,7 @@ Pink muhly grass is widely cultivated as an ornamental for its showy autumn infl
 
 It thrives in USDA Hardiness Zones 5–9, tolerating winter temperatures to approximately -23 °C when established.
 
-Plants require full sun for optimal flowering and [[fukuoka-ideal-rice-plant-morphology-compact-growth-high-yield]]; shade produces weak, elongated culms with reduced floral display.
-
-Well-drained soil is essential, as prolonged saturation promotes root and crown rot.
-
-Once established, the species is highly [[permplant-carob-drought-tolerant-food-tree]] and requires little to no supplemental irrigation in most temperate climates.
+Plants require full sun for optimal flowering and [[permplant-carob-drought-tolerant-food-tree]] and requires little to no supplemental irrigation in most temperate climates.
 
 Annual maintenance consists of cutting back the previous year's growth to 5–10 cm above ground in late winter or [[coleman-overwintered-onions-and-early-spring-crops]] before new growth resumes.
 

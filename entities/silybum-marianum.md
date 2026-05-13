@@ -19,16 +19,12 @@ The active complex, silymarin, is extracted from the seeds and consists
 of several flavonolignans, primarily silybin (silibinin), which is the
 most biologically active constituent. Milk thistle is among the
 best-studied herbal medicines, with extensive clinical evidence supporting
-its use in liver disorders, and it also has applications in [[amanita-phalloides]]) | Strong (antidotal) | IV silibinin (hospital) |
-| Diabetes (type 2 adjunct) | Emerging | 140–420 mg/day |
-| Skin health / anti-aging | Preliminary | Topical 0.5–1% silymarin |
-## Permaculture and Ecological Value
-- **[[nutrient-dynamic-accumulator-reference]]:** Deep taproot mines calcium, potassium, and
+its use in liver disorders, and it also has applications in [[nutrient-dynamic-accumulator-reference]]:** Deep taproot mines calcium, potassium, and
   trace minerals from subsoil; leaves return these to surface soil when
   they decompose
 - **Pollinator Support:** Rich nectar source for bees and butterflies;
   blooms July–September when many other nectar sources are declining
-- **[[phytoremediation]]:** Demonstrated ability to accumulate [[fungal-biosorption-of-heavy-metals-by-filamentous-fungi]]
+- **[[fungal-biosorption-of-heavy-metals-by-filamentous-fungi]]
   (lead, cadmium) from contaminated soils
 - **Soil Improvement:** Deep taproot breaks compacted subsoil layers,
   improving drainage and aeration
@@ -50,8 +46,6 @@ its use in liver disorders, and it also has applications in [[amanita-phalloides
 - **IUCN:** Not Evaluated (common and widespread; invasive in many
   regions)
 ## See Also
-- [[taraxacum-officinale]]
-- achillea-millefolium
 - [[curcuma-longa]]
 ## Practical Considerations
 

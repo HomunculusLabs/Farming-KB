@@ -83,11 +83,17 @@ Mucormycetes are angioinvasive fungi — they invade and destroy blood vessels:
 4. Angioinvasion causes thrombosis, tissue necrosis, and infarction
 5. Dissemination occurs via hematogenous spread
 
-Key [[fungal-virulence-factors-host-immune-evasion]]:
-- **Ketone reductase:** Allows growth in high-glucose, acidic (ketoacidotic) environments
-- **[[fungal-siderophores-iron-acquisition-mycorrhiza]]:** Produces siderophores and uses host iron; iron overload is a major
+Key [[fungal-siderophores-iron-acquisition-mycorrhiza]]:** Produces siderophores and uses host iron; iron overload is a major
   risk factor
 - **Rhizopus oryzae uses a fungal CotH protein** that binds to host GRP78 receptor on
 
 ## See Also
 - [[fungal-infections-human]]
+
+## See Also
+
+- [[bloomfield-mucormycosis-zygomycetes-opportunistic-human-pathogen]]
+- [[bloomfield-zygomycete-sex-trisporic-acid-zygospore]]
+- [[zygomycete-phylum-guide]]
+- [[zoopagales-dimargaritales-zygomycete-mycoparasites]]
+- [[cannabis-for-viral-infections]]

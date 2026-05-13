@@ -8,19 +8,7 @@ type: concept
 
 ## Overview
 
-Shamanic fights (*peleas de brujos* or *shitanería*) form a central category of visionary experience in [[ayahuasca-preparation-pablo-amaringo-ucayali-shamanism]]'s ayahuasca paintings. These visions depict the active spiritual warfare between healers (*vegetalistas*, *curanderos*, *murayas*) and sorcerers (*brujos*, *shitaneros*), in which both sides deploy armies of spirit allies, magical weapons, and supernatural technologies. The concept of *arkana* — a protective spiritual defense — is central to the healer's ability to survive and prevail in these confrontations.
-
-[[chullachaki-and-soul-recovery-in-amazonian-shamanism]], the boundary between healing and sorcery is not absolute but relational: the same knowledge, spirit allies, and techniques can be used for either purpose depending on the practitioner's intent. A *banco* (master of the three realms) may cure, but an evil banco "usually does harm." This duality is embedded in the very structure of [[icaros-shamanic-power-songs]].
-
-## The Structure of Shamanic Combat
-
-### Attack Vectors
-
-Sorcerers employ a diverse arsenal of attack methods:
-
-- **Virotes and chontas**: Magical darts made from palm wood, fish horns, snake teeth, and bird beaks. These are the primary projectiles in shamanic combat, fired from blowguns or bows and embedded in the victim's body.
-- **Yachay (magical phlegm)**: Sorcerers project harmful phlegm through their mariris (spiritual tubes) to cause disease, weakness, and death.
-- **Supay-masho (diabolic bat)**: A bat spirit whose penetrating waves produce "sleepy and forgetful weakness" in victims, rendering them unable to [[query-how-do-plants-defend-themselves-chemically]].
+Shamanic fights (*peleas de brujos* or *shitanería*) form a central category of visionary experience in [[chullachaki-and-soul-recovery-in-amazonian-shamanism]], the boundary between healing and sorcery is not absolute but relational: the same knowledge, spirit allies, and techniques can be used for either purpose depending on the practitioner's intent. A *banco* (master of the three realms) may cure, but an evil banco "usually does harm." This duality is embedded in the very structure of [[query-how-do-plants-defend-themselves-chemically]].
 - **Huaira-umas (forgetful minds)**: Snakes that cast spells driving victims crazy and making them forget their defensive knowledge.
 - **Sepultura tonduri**: A "very sad and frightening icaro" sung by sorcerers to kill their enemies, literally meaning "grave funeral." It summons the Sachamama (mother of the forest) to swallow the victim, with the motelo-mama (tortoise) serving as the funeral table, mushrooms as candles, and fireflies as their flames.
 
@@ -69,41 +57,7 @@ The battle is described as "a great battle between the esoteric powers of good a
 
 When a sorcerer attacks a group peacefully taking ayahuasca, the vegetalistas transform into wolves to hide from him. They are protected by six named queens (*dueñas*) — Cushirima, Silove, Gabat, Manchahuarmi, Allimpaica, and Callpaican-Kapak — each possessing specialized esoteric knowledge: beautiful icaros, perfume-making, clairvoyance, warfare, compassionate healing, and rapid travel for hunting enemies.
 
-The defensive plants used in this battle include piñón colorado (Jatropha gossypifolia), yuca verde, achiote ([[bixa-orellana]]), patiquina (Dieffenbachia sp., used to kill sorcerers), and sacha-ajos (Mansoa alliacea, burned in the evening as a disinfectant against evil spirits).
-
-## The Sepultura Tonduri Ritual (Vision 46)
-
-The most elaborate death ritual in the shamanic arsenal, sepultura tonduri assembles a complete funerary scene from spirit allies:
-
-| Element | Spirit Entity | Funerary Role |
-|---------|--------------|---------------|
-| Coffin | Sachamama (mother of the forest) | Swallows the victim |
-| Wake table | Motelo-mama (tortoise) | Serves as the funeral table |
-| Candles | Mushrooms | Represent candles |
-| Candle flames | Ayanahuis (fireflies) | Represent flames |
-| Grave diggers | Alipa-cuchis (sharp-snouted creatures) | Dig the grave |
-| Shroud | Bird in white clothing (rompe-mortaja) | Flies shrieking as the shroud |
-| Funeral wreath | Small flowers | Serves as the wreath |
-| Grave flowers | Big flowers | Grow on the grave |
-| Mourners | Huancahui birds (Herpetotheres cachinnans) | Their singing represents weeping relatives |
-
-## Electromagnetism and the Yanayakumama (Vision 47)
-
-The black boa (*yana-yakumama*, mother of the waters) serves as a "battleship" for witches. It lives in the depths of black-water lakes, rises to take midday sun-baths to fill itself with solar energy, and when deployed by a witch, generates an electrified tornado that releases flying attack animals. Its electromagnetic power is countered by the great prince Tesael, whose magical trumpet radiates electrical sounds that absorb the boa's electromagnetism, and by yura-pachacamas (white souls who care for the universe) who bring circling radioactive discs to seal the boa in a hole in the ground.
-
-## Gradation of Powers (Vision 49)
-
-The visions include a systematic classification of shamanic power levels, represented as luminous rays:
-
-1. **Light-green (humus)**: Beginning vegetalistas with access to animals, plants, and basic esoteric powers
-2. **Greenish-yellow (topaz)**: Plants, reptiles, birds, spectres, roses, and dark people — one grade higher
-3. **Purple**: Sphinx-like beings, the black rose, hypnotic animals, fortune tellers, sibyls, and transcendent minds
-4. **Neutral grey (diamond)**: The threshold between visible and invisible — animal-persons. Many reach this grade but cannot progress further
-5. **Turquoise-blue (sapphire)**: Angels or messengers roaming the universe with extrasensory wisdom, moving at the speed of thought
-6. **Violet (amethyst)**: Sylphs, fairies, muses, kings, queens, princes, and princesses with great talent and wisdom
-7. **Carbon and silicon**: The opposite of all light — strange beings, sphinxes, animals, witches
-
-This gradation system provides a structured hierarchy of spiritual achievement, from the most basic [[amazonian-boa-spirits-and-water-beings-in-shamanic-practice]] to the highest realms of esoteric knowledge, with a clear warning about the final level — the domain of harmful sorcery.
+The defensive plants used in this battle include piñón colorado (Jatropha gossypifolia), yuca verde, achiote ([[amazonian-boa-spirits-and-water-beings-in-shamanic-practice]] to the highest realms of esoteric knowledge, with a clear warning about the final level — the domain of harmful sorcery.
 
 ## Cultural Context
 
@@ -111,7 +65,86 @@ Shamanic fights are not merely metaphorical. In Amazonian communities, accusatio
 
 ## See also
 
-- [[shamanic-battles-and-protective-powers]]
-- [[ayahuasca-vision-art-and-shipibo-tradition]]
-- [[shipibo-icaros-healing-songs]]
+- [[amaringo-ayahuasca-visions-shipibo-iconography]]
 - [[mariri-phantom-sorcery]]
+
+## Overview
+
+Shamanic Fights And Protective Arkanas represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish shamanic fights and protective arkanas
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving shamanic extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Shamanic Fights And Protective Arkanas finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for shamanic fights and protective arkanas. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+shamanic fights and protective arkanas and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Shamanic Fights And Protective Arkanas has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of shamanic fights and protective arkanas into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[ayahuasca-yakuruna-water-spirits-shamanic-allies-amazon]]

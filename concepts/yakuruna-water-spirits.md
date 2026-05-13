@@ -18,60 +18,10 @@ type: concept
 
 The yakuruna are underwater beings who inhabit a complex subaquatic
 world beneath Amazonian rivers and lakes. They are central figures in
-the cosmology of [[banco-sumiruna-muraya]]
-  who teaches them how to rescue people lost in the watery depths. He
-  smokes a pipe made from an encanto (magical stone) in the form of
-  a shoe, with a stem made from the bone of a tuyuyo (Jabiru
-  myctena)
-- **Taksha yakuruna** (little yakuruna): Green-haired, carrying a
-  boa. According to legend, he comes out to feed between midnight
-  and dawn. If captured by a vegetalista, he must stay on earth and
-  teach how to hunt in the waters
-- **Yana-sacraruna** (black evil people): A practitioner of black
-  magic whose sole purpose is to kill. He lives in the deepest,
-  darkest underwater caves and uses a red conch as a fan to cast
-  evil spells. He causes riverbanks to collapse
-- **Puka-ninaruna** (people of the red flame): Lives in the largest
-  underwater cities and is invoked by murayas to control the anguila
-  mama (electric eel), sea monsters, thunder, and storms
-
-## The Yakuruna's Helpers
-
-The yakuruna world is populated by numerous beings that serve or
-accompany the yakuruna:
-
-- **Fierce dogs with piranha-fish heads**: Guard the yakuruna
-- **Cats with canero-fish heads**: Called upon by evil sorcerers
-- **Flying gourds filled with ultrasonic hymns**: Patrol the waters
-- **Huiracucha mermaids** (white people): Inhabit the most sublime
-  underwater city, possessing great magical power
-- **Auca-sirenas** (warrior mermaids): Keep watch on resting
-  yakurunas. They live within rocks and use pools of water atop
-  their rocks as solar mirrors transformed into strong lasers
-
-## Kidnapping by Yakuruna
-
-Yakuruna are known to kidnap humans, particularly from canoes. In one
-vision, a muraya takes ayahuasca to retrieve a young man taken by a
-green-haired yakuruna named Llulluchukcha (green hair), similar in
-appearance to a Shipibo or Conibo woman. The muraya raises a
-whirlwind to force the yakuruna to return the captive. The kidnapped
-person's eyes are twisted by the yakuruna. If both feet and head are
-also twisted backwards, the person has become part of the yakuruna
-family and cannot return to earth.
-
-## The Muraya and the Underwater World
-
-The [[banco-sumiruna-muraya]] -- The muraya who enters the underwater
+the cosmology of [[banco-sumiruna-muraya]] -- The muraya who enters the underwater
   world
-- [[curandero-healing-ayahuasca]] -- Curing water-related illness
-
-See [[query-what-are-ec-and-tds-and-how-do-i-use-them-for-cannabis-nutrient-management]] for more on Query What Are Ec And Tds And How Do I Use Them For Cannabis Nutrient Management.
-See [[query-what-are-predatory-mites-and-how-can-i-use-them-for-pest-control]] for more on Query What Are Predatory Mites And How Can I Use Them For Pest Control.
-
-## See Also
-
-- [[yakuruna-water-spirits-of-the-amazon]]
+- [[query-what-are-ec-and-tds-and-how-do-i-use-them-for-cannabis-nutrient-management]] for more on Query What Are Ec And Tds And How Do I Use Them For Cannabis Nutrient Management.
+See [[yakuruna-water-spirits-of-the-amazon]]
 ## Practical Considerations
 
 Successful implementation of Yakuruna (Water Spirits) requires attention to
@@ -90,3 +40,88 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
+
+## Overview
+
+Yakuruna Water Spirits represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish yakuruna water spirits
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving yakuruna extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Yakuruna Water Spirits finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for yakuruna water spirits. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+yakuruna water spirits and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Yakuruna Water Spirits has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of yakuruna water spirits into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[ayahuasca-yakuruna-water-spirits-shamanic-allies-amazon]]
+- [[world-of-the-yakuruna]]
+- [[yakuruna]]
+- [[yakuruna-aquatic-spirit-world]]
+- [[yakuruna-water-spirits-of-the-amazon]]

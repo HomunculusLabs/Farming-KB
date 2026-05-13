@@ -65,7 +65,7 @@ Lion's Mane performs well on hardwood sawdust supplemented with bran:
 - Gypsum: 1-2%
 - Moisture: 58-63%
 
-Some growers add 5-10% soy hulls for higher yields. Avoid softwood sawdust. A slightly lower moisture content than oyster [[mushroom-substrates]] reduces the risk of bacterial contamination, to which Lion's Mane is somewhat susceptible.
+Some growers add 5-10% soy hulls for higher yields. Avoid softwood sawdust. A slightly lower moisture content than oyster [[mushroom-substrates|mushroom substrates]] reduces the risk of bacterial contamination, to which Lion's Mane is somewhat susceptible.
 
 ### Sterilization and Inoculation
 
@@ -90,7 +90,7 @@ Pin formation occurs 7-14 days after introducing fruiting conditions. From pins 
 
 ### Yield
 
-- [[biological-efficiency]]: 75-120% (fresh weight / dry substrate weight)
+- Biological efficiency: 75-120% (fresh weight / dry substrate weight)
 - First flush: 60-70% of total yield
 - Two to three flushes possible, diminishing significantly
 
@@ -136,7 +136,7 @@ Lion's Mane has a mild, sweet flavor often compared to lobster or crab. The text
 ## Related Topics
 
 - reishi cultivation for another medicinal mushroom grown on similar substrates
-- [[shiitake-cultivation-guide]] for log cultivation techniques applicable to Lion's Mane
-- [[oyster-mushroom-pleurotus-ostreatus]] for species comparison
+- [[shiitake-cultivation-guide]] for log [[cannabis-sativa-indoor-cultivation-techniques]] applicable to Lion's Mane
+- [[oyster-mushroom-pleurotus-ostreatus|oyster mushroom species]] for species comparison
 - [[medicinal-mushroom-guide]]
 - [[reishi-cultivation-guide]]

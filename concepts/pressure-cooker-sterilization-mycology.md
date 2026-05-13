@@ -8,13 +8,11 @@ created: 2026-05-09
 
 # Pressure Cooker Sterilization for Mycology
 
-Sterilization is the most critical step in [[accessible-mushroom-cultivation-for-disabilities]]. Without thorough elimination of competitor organisms from the substrate, contamination will outcompete [[antimicrobial-compounds-mushroom-mycelium]] and ruin the crop. The pressure cooker (autoclave) is the most accessible and effective sterilization tool for home and small-scale cultivators, achieving temperatures high enough to kill bacterial endospores that survive boiling.
+[[sterilization]] is the most critical step in [[antimicrobial-compounds-mushroom-mycelium]] and ruin the crop. The pressure cooker (autoclave) is the most accessible and effective sterilization tool for home and small-scale cultivators, achieving temperatures high enough to kill bacterial endospores that survive boiling.
 
 ## Why Pressure Sterilization Is Necessary
 
-[[kh2po4-phosphate-supplementation-mushroom-substrates]] are rich in nutrients and moisture — ideal conditions not only for the desired fungal culture but also for a wide range of competitor organisms:
-
-- **Bacterial endospores**: Species such as *[[bacillus-subtilis]]* form extremely heat-resistant spores that can survive hours of boiling at 100°C. These are the primary target of pressure sterilization.
+[[bacillus-subtilis]]* form extremely heat-resistant spores that can survive hours of boiling at 100°C. These are the primary target of pressure sterilization.
 - **Mold spores**: Fungal contaminants including *Trichoderma*, *Aspergillus*, *Penicillium*, and *Cladosporium* produce abundant airborne spores that readily colonize exposed substrates.
 - **Yeast**: Wild yeasts can rapidly colonize nutrient-rich substrates, consuming nutrients and creating conditions unfavorable for mushroom mycelium.
 - **Insect eggs and larvae**: Some substrate contaminants include tiny insects or their eggs that survive non-pressurized treatments.

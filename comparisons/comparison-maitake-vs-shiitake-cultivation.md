@@ -10,7 +10,7 @@ sources: []
 
 ## Overview
 
-Maitake ([[grifola-frondosa]]) and shiitake ([[shiitake-cultivation-parameters]])
+Maitake ([[shiitake-cultivation-parameters]])
 are two of the most valued cultivated mushrooms in the world. Shiitake has
 been
 grown for over two thousand years and is one of the most commercially
@@ -22,24 +22,6 @@ cultivation requirements, difficulty levels, and best-fit scenarios for
 growers.
 
 ## Shiitake
-
-[[shiitake-cultivation-parameters]]
-
-Shiitake (Lentinula edodes) is among the most forgiving and well-documented
-cultivated mushrooms, making it an excellent choice for beginners and
-commercial
-operations alike. It grows on supplemented hardwood sawdust (90% sawdust, 10%
-rice bran) or on natural logs, with a standard substrate pH of slightly acidic
-conditions. The vegetative phase runs 12 weeks for maximum yield at 72-77°F
-(22-25°C), and fruiting is induced by a water soak technique that can boost
-yields by approximately 50%. Optimal fruiting occurs at 50-60°F (10-15°C) with
-85-90% humidity and 550 lux light intensity. Shiitake accommodates both indoor
-sawdust-block cultivation and outdoor log cultivation, giving growers
-flexibility in their setup. Its long history means extensive strain libraries,
-reliable commercial spawn availability, and well-understood parameter ranges
-that are tolerant of minor deviations.
-
-## Maitake
 
 [[maitake-cultivation-guide]]
 
@@ -116,12 +98,7 @@ must remain separate.
 
 ## See Also
 
-- [[comparison-enoki-vs-shiitake-cultivation]]
 - [[comparison-enoki-vs-maitake-cultivation]]
-- [[comparison-maitake-vs-reishi-medicinal-mushrooms]]
 - [[comparison-oyster-vs-shiitake-cultivation]]
-- [[maitake-grifola-frondosa-cultivation]]
-
 - [[comparison-maitake-vs-cordyceps]]
-- [[comparison-maitake-vs-oyster-cultivation]]
 - [[comparison-maitake-vs-wine-cap-cultivation]]

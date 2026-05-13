@@ -11,10 +11,8 @@ type: concept
 
 # Australian Psilocybe Species: Comprehensive Guide
 
-More than a dozen species of "[[guzman-magic-mushrooms-african-species]]" are known from Australia and
-New Zealand. Four of these species are dung-inhabiting mushrooms:
-*[[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]]* and/or *P. subcubensis* (known locally as "gold caps"
-or "gold tops"), *[[psilocybe-subaeruginosa]]*, and *[[copelandia-cyanescens]]*
+More than a dozen species of "[[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]]* and/or *P. subcubensis* (known locally as "gold caps"
+or "gold tops"), *[[copelandia-cyanescens]]*
 (known locally as "blue meanies"). These four species contain the mind-altering
 alkaloids psilocybine and psilocine and are the most common hallucinogenic
 mushrooms in Australia.
@@ -28,24 +26,7 @@ Brisbane at Indooroopilly, Brisbane, Carboolture, and Beechmont, Queensland;
 and Hobart, Tasmania. Gregarious, rarely solitary or scattered, on cow dung,
 sometimes on rich pasture soils. *P. cubensis* is the most popular of these
 species and is well known throughout much of the world. It was first
-documented as a [[gartz-conocybe-cyanopus-rare-psychoactive-mushroom]] from Australia in 1958 by Aberdeen and
-Vogt. Wild Australian specimens are comparatively low in potency according
-to Margot and Watling (1981).
-
-### *Psilocybe subcubensis* Guzman
-
-Documented throughout Australia, appearing abundantly after heavy rains in
-Queensland, Breban, and near Louboutluse. This species is only
-distinguishable from *P. cubensis* by the size of its spores. Scattered on
-cow dung, more rare in rich soil, in grassy places (pastures). It is a
-pantropical and subtropical species, fruiting in summer but also in other
-seasons.
-
-### *Copelandia cyanescens* (Berk. and Br.) Singer
-
-Documented in Darwin, Northern Territory; New South Wales; Brisbane,
-Queensland; Coffs Harbour and Sydney, NSW; Tasmania; and Auckland, New
-Zealand. This species has a [[guzman-allen-gartz-psilocybe-semilanceata-temperate-cosmopolitan-distribution]] and occurs in the
+documented as a [[guzman-allen-gartz-psilocybe-semilanceata-temperate-cosmopolitan-distribution]] and occurs in the
 tropics and neotropics of both hemispheres. Common in the dung of cows,
 water buffalo, and sometimes horses. Known for its intense blue-staining
 reaction and relatively high potency. The epithet "blue meanies" refers to
@@ -68,14 +49,7 @@ years later Dr. Malcomb Hall reported its use as a recreational drug.
 Known only from around New South Wales: near Canberra, Cotterdam, Blue
 Mountains west of Sydney; Tidbinbilla Nature Reserve; near Sydney, Mt.
 Wilson. Gregarious on soil with wood or leafy debris, on tracks and
-roadsides, in *[[pinus-radiata]]* plantations, or in temperate rain forests.
-Very similar to *P. cyanescens* Wakefield. Fruits in April.
-
-### *Psilocybe eucalypta* Guzman and Watling
-
-Found in NSW near Canberra, Tidbinbilla Nature Reserve; near Queanbeyan,
-Talaganda Forest Reserve; near Sydney, Mt. Wilson. Solitary on soil or in
-small groups amongst grassy [[fungal-succession-woody-debris-ecology]], or among mosses in shallow groves
+roadsides, in *[[fungal-succession-woody-debris-ecology]], or among mosses in shallow groves
 of Eucalyptus forests. Exhibits an "intense bluing at the base of the
 stipe." Similar to *P. cyanescens* Wakefield. Fruits in April.
 
@@ -117,8 +91,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[psilocybe-subcubensis]]
 - [[psilocybe-cubensis]]
-- [[psilocybe-tasmaniana]]
 - [[psilocybe-subaeruginosa]]
 - [[psilocybe-eucalypta]]

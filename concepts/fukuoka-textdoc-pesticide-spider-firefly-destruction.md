@@ -11,14 +11,12 @@ date: 2026-05-08
 updated: 2026-05-08
 sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
-  - [[masanobu-fukuoka]], "The Natural Way of Farming: The [[microdosing-theory-and-practice]] of fukuoka-sowing-green-philosophy-one-grain-revolution" (1985)
+  - microdosing-theory-and-practice of fukuoka-sowing-green-philosophy-one-grain-revolution" (1985)
 ---
 
 # Pesticides and the Destruction of Ecological Chains
 
-Masanobu Fukuoka provided a detailed account of how pesticide application in Japanese [[fukuoka-spider-ecosystem-drama-rice-fields]] destroys not only target pests but the entire web of biological relationships that naturally regulates insect populations.
-
-His observations challenged the fundamental assumption that pesticides protect crops, arguing instead that they eliminate the natural predators that keep [[query-how-do-parasitoid-wasps-control-pest-populations]] in check.
+Masanobu Fukuoka provided a detailed account of how pesticide application in Japanese [[query-how-do-parasitoid-wasps-control-pest-populations]] in check.
 
 ## The First Application: Death of the Spiders
 
@@ -34,43 +32,7 @@ But the spiders vanish — every one of them.
 
 The swarms of fireflies that rise from the stands of grass disappear at once.
 
-In a single pass, the pesticide has eliminated the field's most effective [[comparison-pheromone-based-pest-control-vs-beneficial-insect-biocontrol]] agents while leaving the target pest largely unaffected.
-
-## The Second Application: Cascading Destruction
-
-The ecological damage compounds with each subsequent application.
-
-The second spraying kills off the chalcid wasps, which are important natural predators of rice pests.
-
-Dragonfly larvae, tadpoles, and loaches — all aquatic organisms that contribute to the biological balance of the flooded paddy — are left as victims.
-
-Fukuoka wrote that "just one look at this slaughter would suffice to show the insanity of the blanket application of pesticides."
-
-The killing is indiscriminate. Every organism in the spray zone is affected, regardless of whether it is a pest, a predator, or a neutral participant in the ecosystem.
-
-The result is not a field free of pests but a field stripped of its natural defenses.
-
-## The Rodenticide Chain Reaction
-
-Fukuoka extended his analysis beyond insects to the broader ecological chain reactions triggered by human intervention.
-
-He described a scientist who develops a rodenticide without understanding why mice exist in the ecosystem in the first place.
-
-The rodenticide kills the mice, but the weasels and snakes that feed on them subsequently decline.
-
-To protect the weasel population, humans then begin raising mice to restore the rodent population.
-
-Fukuoka called this cycle "the stuff of crazed dreams" — a perfect illustration of how each intervention creates the need for further intervention.
-
-The rodenticide is a temporary expedient that answers only the needs of a given time and place.
-
-It is not a responsible action in keeping with the true cycles of nature.
-
-## The Apple Orchard: Pollinators Lost
-
-Fukuoka used apple orchards and hothouse strawberries as another example of ecological chain destruction.
-
-Toxic pesticides applied to [[comparison-pruning-fruit-trees-vs-grafting-fruit-trees]] kill off pollinating insects such as bees and gadflies.
+In a single pass, the pesticide has eliminated the field's most effective [[comparison-pruning-fruit-trees-vs-grafting-fruit-trees]] kill off pollinating insects such as bees and gadflies.
 
 Without these pollinators, the trees cannot reproduce naturally.
 
@@ -117,8 +79,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[masanobu-fukuoka]]
 - [[det]]
-- [[fukuoka-pesticide-carnage-spider-firefly-dragonfly]]
 - [[fukuoka-textdoc-postwar-mite-epidemic-pesticide-spiral]]
 - [[fukuoka-textdoc-pesticide-microbe-mutation-risk]]

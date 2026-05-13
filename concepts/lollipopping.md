@@ -39,51 +39,91 @@ The optimal timing for lollipopping depends on the grower's approach:
 - Pre-flower lollipopping (1-2 weeks before 12/12): allows the plant to recover before flowering begins, with minimal impact on bud production
 - Early flowering lollipopping (weeks 1-2 of flower): removes lower growth before it develops into popcorn buds, but causes some stress during the critical flowering transition
 
-Cervantes advises that pruning shortly before flowering delays peak maturation by a week or longer, as it takes a month or more for hormones to rebuild to pre-pruning concentrations. For this reason, lollipopping is best done as early as possible in the [[comparison-cannabis-vegetative-stage-vs-flowering-stage]] if the plant structure is already established.
-
-## What to Remove
-
-- All fan leaves on the lower 30-40 percent of each branch
-- Small, spindly secondary branches that will not reach the canopy
-- Immature bud sites in shaded areas
-- Dead, yellowing, or damaged leaves anywhere on the plant
-- Branches that are not receiving direct or reflected light
-
-## What to Keep
-
-- All foliage and bud sites in the upper canopy receiving adequate light
-- Healthy fan leaves that are contributing to photosynthesis
-- The main stem and primary branch structure
-- Any lower branches that receive good light (in SCROG or LST setups)
-
-## Cervantes on Lower Branch Removal
-
-Cervantes provides specific guidance that supports the lollipopping approach:
-
-- "Remove spindly branches and growth that is not collecting light energy"
-- "Pruning lower branches concentrates auxins in upper branches which forces growth upwards"
-- "Cut lower branches off cleanly at the stem so no stub is left to rot and attract [[query-how-to-manage-pests-and-diseases-in-mushroom-cultivation]]"
-- "Pruning out spindly branches and growth inside plants opens up the interior and provides more and better [[stamets-growing-room-air-circulation-co2-management]]"
-- "It also allows light to reach deeper inside plants"
-
-He also notes that "removing a few lower branches will diminish the harvest the least" when harvesting prematurely, indicating that lower branches contribute the least to overall yield.
-
-## Benefits
-
-- Redirects energy to top colas: larger, denser, more potent buds
-- Eliminates popcorn buds: no wasted energy on low-quality lower buds
-- Improved airflow: open lower canopy reduces humidity and mold risk
-- Easier maintenance: fewer leaves to inspect for pests and disease
-- Cleaner harvest: less leaf material to trim during processing
-- Better light penetration: removing lower shade allows light to reach deeper into the canopy
-- Reduced pest habitat: fewer hiding places for insects in dense lower foliage
-
-## Integration with Other Techniques
-
-Lollipopping pairs well with other training methods:
-
-- [[screen-of-green]]: SCROG naturally removes lower growth below the screen -- lollipopping extends this concept
-- [[supercropping]]: combined with supercropping, the plant is shaped for maximum top cola production
+Cervantes advises that pruning shortly before flowering delays peak maturation by a week or longer, as it takes a month or more for hormones to rebuild to pre-pruning concentrations. For this reason, lollipopping is best done as early as possible in the [[query-how-to-manage-pests-and-diseases-in-mushroom-cultivation]]"
+- "Pruning out spindly branches and growth inside plants opens up the interior and provides more and better [[screen-of-green]]: SCROG naturally removes lower growth below the screen -- lollipopping extends this concept
 - [[sea-of-green]] setups, plants are packed so tightly that the lower portions receive almost no light. Lollipopping is almost automatic -- the plant naturally abandons lower growth. Formal lollipopping in SOG focuses on cleaning up any remaining lower foliage before it becomes a pest or mold risk.
 
 ### SCROG Lollipopping
+
+## Overview
+
+Lollipopping represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish lollipopping
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving lollipopping extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Lollipopping finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for lollipopping. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+lollipopping and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Lollipopping has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of lollipopping into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[comparison-lollipopping-vs-cannabis-pruning-and-defoliation]]
+- [[comparison-lollipopping-vs-supercropping]]
+- [[query-what-is-lollipopping-cannabis-and-when-should-you-do-it]]

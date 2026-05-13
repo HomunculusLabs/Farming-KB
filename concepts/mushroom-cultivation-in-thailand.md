@@ -16,8 +16,7 @@ type: concept
 
 # Mushroom Cultivation in Thailand
 
-Thailand has ideal environmental conditions [[grass-seed-substrate-for-mushroom-cultivation]] and a long
-[[history-of-mushroom-cultivation]] growing. Thai people have long grown a variety of mushrooms,
+Thailand has ideal environmental conditions [[history-of-mushroom-cultivation]] growing. Thai people have long grown a variety of mushrooms,
 recognizing that mushroom growing requires low-cost materials and technologies
 while offering high and quick returns. Young rural people are eager to learn
 cultivation using locally available materials. The Thai government actively
@@ -30,16 +29,10 @@ Thailand cultivates a remarkable diversity of mushroom species:
 
 | Species | Common Name | Market Price (THB/kg) |
 |---------|-------------|----------------------|
-| [[stamets-reishi-ganoderma-lucidum-cultivation]] | Reishi | 1,000-1,500 |
-| Hericium erinaceus | Lion's mane | 1,000 (dry) |
 | [[tremella-fuciformis]] | Silver ear | 300-350 |
-| [[agrocybe-cylindracea]] | Black poplar | 250-300 |
-| Macrolepiota gracilenta | Parasol | 400-500 |
-| Pleurotus eryngii | King oyster | 200-250 |
 | [[flammulina-velutipes]] | Enokitake | 150-200 |
 | Pleurotus citrinopileatus | Golden oyster | 150-200 |
 | Lentinula edodes | Shiitake | 160-180 |
-| [[genetic-improvement-agaricus-bisporus-molecular-approaches]] | Button | 80-120 |
 | [[paddy-straw-mushroom-volvariella-volvacea-cultivation]] | Straw | 90-120 |
 | Pleurotus ostreatus | Oyster | 30-40 |
 | [[auricularia-auricula]] | Wood ear | 30-50 |

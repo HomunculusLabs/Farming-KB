@@ -20,16 +20,7 @@ Ergothioneine (2-mercaptohistidine trimethylbetaine) is a thiourea derivative of
 - This thione configuration makes ergothioneine exceptionally stable compared to other sulfur-containing antioxidants like glutathione
 
 ### Stability and Redox Chemistry
-The thione form of ergothioneine is remarkably stable at physiological pH and does not readily auto-oxidize, unlike glutathione and other thiol antioxidants. When ergothioneine does participate in redox reactions, it forms a disulfide (ergothioneine disulfide) that can be reduced back to ergothioneine by cellular reductants. This stable cycling allows ergothioneine to function as a persistent, long-lived antioxidant in tissues. Its redox potential is approximately -0.06 V, making it a moderate reductant — strong enough to neutralize [[reactive-oxygen-species-and-oxidative-stress]] but mild enough to avoid pro-oxidant activity.
-
-## Biosynthesis
-
-Ergothioneine is biosynthesized by bacteria and fungi but not by animals or plants. The biosynthetic pathway involves:
-1. **Hercynine synthesis**: methylation of histidine to form hercynine (Nα-trimethylhistidine)
-2. **Cysteine conjugation**: hercynine reacts with cysteine via the enzyme EgtB (a non-heme iron enzyme) to form S-hercynylcysteine
-3. **Sulfur transfer**: EgtD methylates the cysteine sulfur, and EgtE cleaves the molecule to release ergothioneine
-
-The pathway was elucidated through genomic and biochemical studies in *[[neurospora-crassa]]*, *Mycobacterium smegmatis*, and *Streptomyces* species. The absence of ergothioneine biosynthesis genes in the human genome, combined with the presence of a dedicated transporter, suggests that humans are dependent on dietary sources for this compound.
+The thione form of ergothioneine is remarkably stable at physiological pH and does not readily auto-oxidize, unlike glutathione and other thiol antioxidants. When ergothioneine does participate in redox reactions, it forms a disulfide (ergothioneine disulfide) that can be reduced back to ergothioneine by cellular reductants. This stable cycling allows ergothioneine to function as a persistent, long-lived antioxidant in tissues. Its redox potential is approximately -0.06 V, making it a moderate reductant — strong enough to neutralize [[neurospora-crassa]]*, *Mycobacterium smegmatis*, and *Streptomyces* species. The absence of ergothioneine biosynthesis genes in the human genome, combined with the presence of a dedicated transporter, suggests that humans are dependent on dietary sources for this compound.
 
 ## Dietary Sources
 
@@ -38,39 +29,19 @@ Mushrooms are by far the richest dietary source of ergothioneine. Content varies
 
 **Highest content (>5 mg/g dry weight)**:
 - Porcini (*Boletus edulis*): one of the richest known sources
-- Shiitake (*[[lentinula-edodes]]*): commercially important, widely available
-- Oyster mushroom (*[[cancer-medicinal-mushrooms-pleurotus-ostreatus]]*): widely cultivated, good source
-- Maitake (*[[grifola-frondosa]]*): significant content
-- King bolete (*Boletus rubripes*): high content
-
-**Moderate content (1–5 mg/g dry weight)**:
-- Button mushroom (*[[agaricus-bisporus]]*): the most commonly consumed mushroom worldwide
-- Chanterelle (*[[cantharellus-cibarius-entity]]*): significant content
-- Enoki (*[[flammulina-velutipes]]*): moderate source
+- Shiitake (*[[cancer-medicinal-mushrooms-pleurotus-ostreatus]]*): widely cultivated, good source
+- Maitake (*[[agaricus-bisporus]]*): the most commonly consumed mushroom worldwide
+- Chanterelle (*[[flammulina-velutipes]]*): moderate source
 - Cremini and Portobello (*Agaricus bisporus*, brown varieties)
 
 **Other dietary sources**:
 - Trace amounts in certain beans, oat bran, and garlic
 - Very low levels in some animal tissues (accumulated from diet)
 
-The ergothioneine content of mushrooms is influenced by species, [[cervantes-rockwool-growing-substrate]], stage of maturity, and cooking method. Boiling mushrooms can reduce ergothioneine content by 30–60% as the compound leaches into cooking water. Sautéing and grilling retain more ergothioneine.
-
-## The OCTN1 Transporter (SLC22A4)
-
-A key discovery that elevated ergothioneine from a curiosity to a compound of biomedical significance was the identification of a specific transporter for ergothioneine: the organic cation transporter novel type 1 (OCTN1), encoded by the SLC22A4 gene. This discovery has several important implications:
-
-- **Specificity**: OCTN1 is highly specific for ergothioneine, with much lower affinity for other compounds. This specificity suggests ergothioneine serves a unique biological function.
-- **Tissue distribution**: OCTN1 is expressed in many tissues including the kidney (primary site of ergothioneine reabsorption), liver, bone marrow, erythrocytes, lens of the eye, and seminal fluid. The pattern suggests roles in protecting long-lived cells and tissues from oxidative damage.
-- **Evolutionary conservation**: the OCTN1 gene is conserved across vertebrates and is even present in some invertebrates, indicating strong evolutionary pressure to maintain ergothioneine transport.
-- **Genetic variation**: polymorphisms in the SLC22A4 gene are associated with various diseases including [[blesching-cannabis-rheumatoid-arthritis]], Crohn's disease, and type 1 diabetes, potentially through altered ergothioneine handling.
+The ergothioneine content of mushrooms is influenced by species, [[blesching-cannabis-rheumatoid-arthritis]], Crohn's disease, and type 1 diabetes, potentially through altered ergothioneine handling.
 - **Blood-brain barrier**: OCTN1 is expressed at the blood-brain barrier, allowing ergothioneine to enter the central nervous system, where it may protect against neurodegenerative processes.
 
-The existence of a dedicated transporter for a compound that humans cannot synthesize has led researchers to propose that ergothioneine may be a "vitamin-like" nutrient — not technically a vitamin because [[knf-calcium-deficiency-symptoms]] have not been clearly defined, but potentially conditionally essential.
-
-## Biological Functions and Health Effects
-
-### Antioxidant Activity
-Ergothioneine neutralizes multiple reactive species including ROS (superoxide, [[cervantes-hydrogen-peroxide-sterilization]], hydroxyl radical, singlet oxygen), RNS (peroxynitrite, nitrogen dioxide), and hypochlorous acid (HOCl) produced by neutrophils. Unlike many antioxidants that can become pro-oxidant under certain conditions, ergothioneine does not exhibit pro-oxidant activity due to its stable thione configuration that prevents the Fenton reaction.
+The existence of a dedicated transporter for a compound that humans cannot synthesize has led researchers to propose that ergothioneine may be a "vitamin-like" nutrient — not technically a vitamin because [[cervantes-hydrogen-peroxide-sterilization]], hydroxyl radical, singlet oxygen), RNS (peroxynitrite, nitrogen dioxide), and hypochlorous acid (HOCl) produced by neutrophils. Unlike many antioxidants that can become pro-oxidant under certain conditions, ergothioneine does not exhibit pro-oxidant activity due to its stable thione configuration that prevents the Fenton reaction.
 
 ### Anti-Inflammatory Effects
 Ergothioneine reduces inflammation through multiple mechanisms:
@@ -118,8 +89,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[oyster-mushroom]]
 - [[ergothioneine]]
-- [[streptomyces]]
 - [[agaricus-bisporus]]
 - [[sterilization]]

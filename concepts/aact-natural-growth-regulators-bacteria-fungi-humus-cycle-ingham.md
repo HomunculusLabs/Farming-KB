@@ -11,35 +11,15 @@ tags: [soil-science, microbiology, growth-regulators, humus, decomposition, fung
 
 ## Overview
 
-Dr. Elaine Ingham's work reveals two interconnected biological processes that are fundamental to understanding how [[ingham-bacteria-fungi-succession-humus-formation]] supports plant growth: the production of natural growth regulators by soil microorganisms, and the sequential bacteria-then-fungi cycle that creates stable humus. Together, these processes explain how biological soil management produces vigorous, healthy plants without reliance on synthetic inputs.
-
-## Natural Growth Regulators
-
-### What Are Natural Growth Regulators?
-
-Natural growth regulators are plant hormones—including auxins, cytokinins, gibberellins, ethylene, and abscisic acid—that control every aspect of plant growth and development. While plants can produce these hormones internally, a significant portion of the growth regulators active in the root zone are actually produced by soil microorganisms. (see [[aact-microbial-chelation-of-minerals-ingham]]).
+Dr. Elaine Ingham's work reveals two interconnected biological processes that are fundamental to understanding how [[aact-microbial-chelation-of-minerals-ingham]]).
 
 ### Microbial Production of Growth Hormones
 
-Bacteria and fungi [[ingham-bacteria-fungi-succession-humus-formation]] in the root zone and rhizosphere produce auxins (particularly indole-3-acetic acid, IAA), cytokinins, and gibberellins that:
-
-- Stimulate root initiation and branching
-- Promote cell division and elongation
-- Enhance nutrient uptake efficiency
-- Improve stress tolerance
-- Coordinate root-shoot growth balance
-
-Ingham emphasizes that having the correct set of bacteria and fungi in the root system is necessary to make these natural growth regulators. The implication for [[aact-applications-guide-ingham]] is clear: applying tea that contains the right microbial community directly delivers the organisms that produce growth hormones where plants need them.
+Bacteria and fungi [[aact-applications-guide-ingham]] is clear: applying tea that contains the right microbial community directly delivers the organisms that produce growth hormones where plants need them.
 
 ### Commercial Hormone Products Are Microbial
 
-Many commercial root-dip and growth-hormone products sold in garden centers are themselves microbial in origin—they contain cultured bacteria or their metabolites. Ingham suggests that rather than buying these products, growers should use [[ozier-pdc-composting-and-soil-building]] to establish the right organisms in their soil and compost.
-2. Use AACT to deliver those organisms to plant root zones
-3. If using commercial hormone products, follow up with compost tea to replace any organisms damaged by preservatives in the product
-
-### Excess Hormones and the Soil Community
-
-An important insight from Ingham's work is that excess growth hormones in the root zone are not wasted. When microorganisms produce more hormones than the plant can use, other organisms in the soil community consume the surplus. This self-regulating system means that biological soil management tends to produce balanced, appropriate hormone levels rather than the overdose risks associated with synthetic hormone applications. (see [[aact-glomalin-and-soil-aggregation-ingham]]).
+Many commercial root-dip and growth-hormone products sold in garden centers are themselves microbial in origin—they contain cultured bacteria or their metabolites. Ingham suggests that rather than buying these products, growers should use [[aact-glomalin-and-soil-aggregation-ingham]]).
 
 ## The Bacteria-Then-Fungi Decomposition Cycle
 
@@ -96,36 +76,8 @@ Aact Natural Growth Regulators Bacteria Fungi Humus Cycle Ingham has significant
 The development and understanding of aact natural growth regulators bacteria fungi humus cycle ingham has evolved considerably over recent decades, with contributions from researchers, practitioners, and indigenous knowledge systems worldwide.
 
 ## See Also
-- [[ingham-natural-growth-regulators-soil-microbes]]
 - [[ingham-bacteria-fungi-succession-humus-formation]]
-- [[ingham-soil-food-web-bacteria-fungi-succession-cycle]]
 - [[soil-foodweb-succession-bacteria-fungi-cycle-ingham]]
-- [[ingham-aact-beauveria-fruit-fly-beneficial-bacteria-inoculant]]
-
-## Key Considerations
-
-Several important factors influence the effectiveness and outcomes described
-in this topic. Understanding these considerations helps practitioners make
-informed decisions and avoid common pitfalls. Environmental conditions,
-timing, and material selection all play critical roles.
-
-## Historical Context
-
-The historical development of this subject reflects centuries of accumulated
-knowledge and practical experience. From traditional methods passed down
-through generations to modern scientific approaches, the evolution continues
-to inform current best practices and research directions.
-
-## Common Challenges
-
-Practitioners frequently encounter several challenges when working with
-these concepts. Climate variability, resource limitations, and knowledge
-gaps can all affect outcomes. Addressing these challenges requires patience,
-observation, and a willingness to adapt approaches based on results.
-
-## See Also
 - [[elaine-ingham]]
-- [[dom]]
 - [[composting]]
-- [[indole]]
 - [[fungal-hyphae]]

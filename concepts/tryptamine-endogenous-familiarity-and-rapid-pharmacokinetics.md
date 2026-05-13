@@ -9,14 +9,10 @@ sources:
 
 # Tryptamine Endogenous Familiarity and Rapid Pharmacokinetics
 
-The [[mckenna-tryptamine-hallucinogens-and-consciousness]], particularly dimethyltryptamine and psilocybin,
-occupy a unique position in psychopharmacology because they are structurally
-related to, and in the case of DMT actually present within, the human nervous
-system. This [[mckenna-dmt-serotonin-structural-affinity-and-endogenous-presence]] has profound implications for how these
+The [[mckenna-dmt-serotonin-structural-affinity-and-endogenous-presence]] has profound implications for how these
 compounds interact with the brain, manifesting most clearly in their
 extraordinarily rapid pharmacokinetics and the subjective quality of
-familiarity that users consistently report. [[terence-mckenna]] argued that the
-[[serotonin-psilocybin-structural-relationship-hallucinogenic-mechanism]] between these compounds and serotonin, the major
+familiarity that users consistently report. [[serotonin-psilocybin-structural-relationship-hallucinogenic-mechanism]] between these compounds and serotonin, the major
 neurotransmitter found in all life and most concentrated in humans, is not
 coincidental but reflects a deep biochemical continuity between ordinary
 consciousness and the states these compounds produce.
@@ -35,7 +31,7 @@ reached under ordinary circumstances.
 
 Psilocybin is 4-phosphoraloxy-N,N-dimethyltryptamine, while serotonin is
 5-hydroxytryptamine. The structural similarity is striking: both are
-substituted tryptamine molecules differing only in the functional group
+substituted [[tryptamine]] molecules differing only in the functional group
 attached to the indole ring. McKenna emphasized this relationship as central
 to understanding the quality of the [[leary-psychedelic-experience-bardo-mapping]], arguing that
 the brain's familiarity with the tryptamine skeleton is what allows these
@@ -65,7 +61,7 @@ its targets.
 The contrast with LSD is instructive. LSD is retained in the body for an
 extended period, and its effects build gradually. McKenna suggested that
 this extended duration reflects the brain's relative unfamiliarity with the
-lysergic acid scaffold, requiring more complex metabolic processing and
+[[lysergic-acid]] scaffold, requiring more complex metabolic processing and
 producing a qualitatively different type of experience. The DMT experience,
 by contrast, is immediate and total because the brain already knows how to
 handle this molecule.

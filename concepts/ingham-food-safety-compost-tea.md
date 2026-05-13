@@ -13,18 +13,7 @@ type: concept
 # Food Safety and Human Pathogens in Compost Tea
 
 Food safety is a central concern in compost tea production and use.
-[[compost-tea-aact]] is safe for
-application to food crops. The current regulatory atmosphere is
-driven by fear about E. coli and human pathogens, but Ingham argues
-that proper understanding of aerobic biology provides robust
-protection.
-
-## How Pathogens Are Eliminated
-
-True compost does not contain human pathogens. Multiple mechanisms
-work together to eliminate them:
-
-1. **Temperature** ([[ingham-thermal-compost-versus-worm-compost]]): 55 degrees C or higher for
+[[ingham-thermal-compost-versus-worm-compost]]): 55 degrees C or higher for
    at least 3 days in all parts of the pile, with no temperature
    exceeding 70 degrees C.
 
@@ -32,11 +21,7 @@ work together to eliminate them:
    processes kill pathogens. At least 75-80% of material must pass
    through the worm digestive system.
 
-3. **Competition with aerobic organisms**: In [[ingham-anaerobic-vs-aerobic-compost-tea]] or
-   tea, diverse communities of bacteria and fungi out-compete
-   human pathogens for food and space.
-
-4. **Predation**: Protozoa and [[ingham-beneficial-nematodes-soil-food-web]] consume
+3. **Competition with aerobic organisms**: In [[ingham-beneficial-nematodes-soil-food-web]] consume
    pathogenic bacteria in compost and tea.
 
 5. **Toxic chemical production**: While possible in theory, there
@@ -71,9 +56,7 @@ Pathogens become a risk when:
   Salmonella, and Shigella can grow
 - The tea maker has black, slimy biofilms creating anaerobic
   pockets where E. coli can proliferate
-- Compost is not properly made (incomplete [[ingham-compost-tea-pathogen-safety-coliforms-ecoli]]
-
-- [[chamovitz-circadian-rhythm-internal-clock-plants]]
+- Compost is not properly made (incomplete [[chamovitz-circadian-rhythm-internal-clock-plants]]
 ## Practical Considerations
 
 Successful implementation of Food Safety and Human Pathogens in Compost Tea requires attention to
@@ -122,8 +105,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[ingham-coli-compost-tea-food-safety]]
 - [[doc]]
-- [[ingham-compost-tea-pathogen-safety-anaerobic-risk]]
 - [[ingham-compost-tea-pathogen-safety-coliforms-ecoli]]
 - [[ingham-blackstrap-molasses-compost-tea-concentration-osmotic-effects]]

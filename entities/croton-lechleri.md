@@ -23,26 +23,7 @@ updated: 2026-04-28
 sources:
   - Cai, Y. et al. (1991). "Polyphenolic compounds from Croton lechleri."
     Phytochemistry 30(3): 953-955.
-  - Perdue, G.P. et al. (1979). "[[chiric-caspi-brunfelsia-south-american-hallucinogen]] plants II: taspine, a
-    novel cicatrizant agent." Journal of Natural Products 42(5): 567-568.
-  - Chen, Z.L. et al. (1994). "Croton lechleri sap — a source of
-    proanthocyanidins." Journal of Natural Products 57(1): 54-59.
-  - Mejia, D.C. & Rengifo, E. (2000). "Plantas medicinales de amazonia
-    peruana." Estudios Amazonicos, Lima.
----
-
-## Overview
-
-*Croton lechleri*, known as sangre de grado, sangre de drago, or dragon's blood,
-is a tree species in the family Euphorbiaceae native to the western Amazon basin.
-It is most famous for its dark red, blood-like latex, which has been used for
-centuries by indigenous peoples of the Amazon as a topical wound healer,
-anti-inflammatory, and gastrointestinal remedy.
-
-The tree typically reaches 10–20 meters in height and is one of the most
-economically significant medicinal plants harvested from the wild in the Amazon
-region. Commercial preparations of the latex are sold internationally as
-[[medicinal-mushroom-dietary-supplements]] and topical treatments.
+  - Perdue, G.P. et al. (1979). "[[medicinal-mushroom-dietary-supplements]] and topical treatments.
 
 ## Taxonomy and Morphology
 
@@ -50,30 +31,7 @@ Eudicots → Rosids → Malpighiales → **Euphorbiaceae → *Croton → C. lech
 
 Described by John Muirhead Macfarlane in 1891, the species epithet *lechleri*
 honors the German botanist and collector Wilhelm Lechler, who extensively
-collected in [[guzman-psilocybin-mushrooms-south-america]] during the mid-19th century.
-
-### Morphology
-
-- **Tree:** Evergreen, monoecious, 10–20 m tall, trunk diameter 20–40 cm.
-  Bark is smooth to fissured, grayish-brown, exuding dark red latex when cut.
-- **Leaves:** Alternate, simple, broadly elliptic to ovate, 12–25 cm long,
-  6–14 cm wide, with prominent venation. Upper surface glossy green,
-  lower surface paler with scattered stellate trichomes.
-- **Inflorescences:** Terminal or axillary racemes, 10–20 cm long.
-  Flowers are small (3–5 mm), unisexual, with 5 greenish-yellow petals.
-- **Fruit:** Capsular, 3-lobed, 8–12 mm in diameter, green maturing to brown.
-  Seeds are ovoid, ca. 5 mm, mottled gray-brown.
-
-## Distribution and Habitat
-
-*C. lechleri* occurs across the western Amazon basin and adjacent Andean foothills,
-from 200 to 1,800 meters elevation. Its range extends from southern Colombia
-through Ecuador and Peru into western Bolivia and northern Brazil. It is most
-abundant in lowland and premontane tropical moist forests, often in disturbed
-or secondary growth areas, along riverbanks, and at forest edges.
-
-The species is light-demanding and colonizes gaps and clearings readily. It is
-commonly found in [[agroforestry]] systems and along roadsides throughout the Peruvian
+collected in [[agroforestry]] systems and along roadsides throughout the Peruvian
 and Ecuadorian Amazon.
 
 ## Phytochemistry
@@ -88,3 +46,80 @@ The dark red latex of *C. lechleri* is a complex mixture of [[query-what-are-the
   compound. Taspine promotes fibroblast migration and collagen deposition
   at wound sites at concentrations as low as 0.001%.
 - **SP-303 (Famotidine analog):** A proanthocyanidin oligomer with clinically
+
+## Overview
+
+Croton Lechleri represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish croton lechleri
+from related concepts in [[permaculture]] and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving croton extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Croton Lechleri finds practical application in multiple design contexts.
+[[permaculture-principles]] guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for croton lechleri. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+croton lechleri and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Croton Lechleri has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of croton lechleri into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.

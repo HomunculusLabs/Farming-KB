@@ -15,16 +15,7 @@ sources:
 type: comparison
 ---
 # Sepp Holzer Method vs Permaculture Design
-[[permaculture-design]] are deeply intertwined yet
-distinct approaches to ecological land management. Holzer's work at the
-Krameterhof demonstrates permaculture principles in practice, while permaculture
-design provides a systematic framework applicable anywhere in the world.
-## Overview
-| Aspect | Sepp Holzer Method | Permaculture Design |
-|--------|-------------------|---------------------|
-| Nature | Empirical and observational | Systematic and analytical |
-| Origin | Single farm in Austrian Alps | Global design movement |
-| Core tool | Direct nature observation | Zone and [[mollison-designers-sector-analysis-wind-sun-fire]] |
+[[mollison-designers-sector-analysis-wind-sun-fire]] |
 | Approach | Practical, site-specific | Abstract, transferable |
 | Scale | Proven at 45+ hectares | Scales from balcony to farm |
 ## The Sepp Holzer Method
@@ -37,26 +28,9 @@ year-round without chemical inputs or irrigation.
   imposing human designs on the landscape.
 - **Zero chemicals**: Complete rejection of synthetic fertilizers, pesticides, and herbicides. Fertility comes from biological cycles.
 - **Zero irrigation**: Water management through landscape design. Over 70
-  ponds [[query-how-do-i-create-microclimates-in-my-garden]] and self-regulating water systems.
-### Key Techniques
-- **Raised beds**: Minimum 1.5m height with steep sides, creating varied
-  microclimates and excellent drainage. Each bed becomes its own ecosystem.
-- **Water landscapes**: Ponds, channels, and wetlands that moderate temperature,
-  provide habitat, and create edge effects for biodiversity.
-- **Terraces**: Contour-based earthworks preventing erosion and creating
-  level [[cotter-growing-space-design-fruiting-rooms]] on slopes.
+  ponds [[cotter-growing-space-design-fruiting-rooms]] on slopes.
 - **Hugelkultur**: Buried wood beds improving moisture retention and nutrient
-  cycling over time. See permaculture-zone-design for detailed [[mollison-course-zone-planning-and-design]].
-### Sector Analysis
-Sectors map external energies: sun patterns, wind direction, water flow,
-fire risk, wildlife routes, and frost pockets, ensuring design accounts for all
-forces shaping the landscape.
-### Design Process
-A rigorous approach precedes implementation: observe for at least one year,
-map zones and sectors, identify patterns, analyze soil and water, design
-integrated systems, implement "start small" pilots, then gradually expand.
-[[comparison-fukuoka-vs-holzer]]
-- [[permaculture-design]] — complete design methodology and ethics
+  cycling over time. See permaculture-zone-design for detailed [[comparison-fukuoka-vs-holzer]]
 - [[permaculture-earthworks]] — water management and earth-shaping
 ## Practical Considerations
 

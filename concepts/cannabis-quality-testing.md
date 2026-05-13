@@ -12,23 +12,7 @@ tags: [cannabis]
 
 ## Overview
 
-Cannabis quality testing encompasses the assessment of potency, purity, flavor, and overall desirability of harvested cannabis and its derivatives. According to Cervantes, [[ingham-compost-quality-assessment-visual-microbial-indicators]] begins at harvest with trichome inspection and continues through drying, curing, extraction, and storage.
-
-## Trichome Inspection at Harvest
-
-The best gauge of peak ripeness is the color of the [[greg-green-trichomes-and-resin-glands]] (trichomes). Using a 10-30X microscope or jeweler's loupe, growers assess [[cannabis-trichome-development-cannabinoid-biosynthesis-sites]]:
-
-### Trichome Color Stages
-
-1. Clear: Immature, not yet at peak potency
-2. Translucent milky/creamy: Peak ripeness, best time to harvest
-3. Amber: Past peak, THC is degrading
-
-### Harvest Timing Based on Trichomes
-
-- Harvest when 50% of trichomes are creamy translucent for a balanced cerebral and physical effect
-- Harvest when majority are amber for a heavy body stone (best for pure indica strains)
-- Do not wait for pure [[african-landrace-sativa-strains]] to reach amber stage; this wastes their unique properties
+Cannabis quality testing encompasses the assessment of potency, purity, flavor, and overall desirability of harvested cannabis and its derivatives. According to Cervantes, [[greg-green-trichomes-and-resin-glands]] (trichomes). Using a 10-30X microscope or jeweler's loupe, growers assess [[african-landrace-sativa-strains]] to reach amber stage; this wastes their unique properties
 
 ### What to Look For
 
@@ -68,9 +52,7 @@ An inexpensive microscope (10-30X) is one of the most valuable tools for quality
 
 For water-extracted hash, the "bubble test" is a key quality indicator:
 
-- Full-melt [[cervantes-water-hash-bubble-hash]] bubbles and releases volatile resins when exposed to a flame
-- "If it don't bubble, it ain't worth the trouble" (Bubble Man)
-- Full-melt quality indicates very pure [[thc-content-factors-cultivation-freshness-storage-degradation-blesching]]
+- Full-melt [[thc-content-factors-cultivation-freshness-storage-degradation-blesching]]
 - Non-bubbling hash contains too much plant contamination
 
 ## Laboratory Analysis
@@ -118,8 +100,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[det]]
 - [[blesching-cannabis-contaminants-testing-quality-control]]
-- [[cannabis-testing-and-quality]]
 - [[ingham-brix-testing-plant-quality-compost-tea-response]]
 - [[ingham-brix-testing-plant-quality]]

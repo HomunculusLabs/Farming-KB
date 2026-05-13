@@ -46,21 +46,7 @@ Lateral sepals are elliptical, pale yellow, and downy on the outer surface. The 
 
 Follicles are 3–5 in number, 12–18 mm long, sparsely hairy, and contain numerous small, dark brown seeds with angular ridges.
 
-Chromosome number is 2n = 16, consistent with most European Aconitum species. The karyotype shows little [[psilocybin-psilocin-variation-across-flushes]] the species' range.
-
-## Distribution and Habitat
-
-Aconitum anthora is distributed across the mountain ranges of central and southern Europe. Its core range includes the Alps, Carpathians, Apennines, Pyrenees, and the mountains of the Balkan Peninsula.
-
-Isolated populations occur in the Jura, the Vosges, and the Dinaric Alps. It is absent from Scandinavia, the British Isles, and lowland Europe.
-
-The species grows on calcareous substrates including limestone scree, dolomitic rubble, and base-rich alpine meadows. It prefers moist but well-drained soils with a pH above 7.0.
-
-Typical habitats include subalpine grasslands, dwarf-shrub communities, and rock crevices on north- and east-facing slopes. It rarely descends below 1,000 m except at northern latitudes.
-
-It is considered a glacial relict species in several peripheral populations. These isolated occurrences represent remnants of a once more continuous distribution during cooler climatic periods.
-
-Conservation assessments list A. anthora as Near Threatened in several [[psilocybe-bohemica-central-european]] countries. Alpine tourism, ski slope development, and overcollection by plant enthusiasts are the primary threats.
+Chromosome number is 2n = 16, consistent with most European Aconitum species. The karyotype shows little [[psilocybe-bohemica-central-european]] countries. Alpine tourism, ski slope development, and overcollection by plant enthusiasts are the primary threats.
 
 The species is protected under national legislation in Austria, Switzerland, and Italy. Collection from the wild is restricted in most of its range.
 
@@ -70,15 +56,13 @@ The principal alkaloids in Aconitum anthora include anthorine, aconitine, and me
 
 Anthorine is a C19-diterpenoid alkaloid considered characteristic of the species. It exhibits neurotoxic activity through voltage-gated sodium channel modulation.
 
-The plant also contains flavonoids, phenolic acids, and small amounts of atisine-type diterpenes. These [[antifungal-secondary-metabolites-coprophilous-fungi]] may contribute to the plant's traditional [[panax-ginseng]].
+The plant also contains flavonoids, phenolic acids, and small amounts of atisine-type diterpenes. These [[panax-ginseng]].
 
 Toxicity is primarily due to aconitine-type alkaloids that cause cardiac arrhythmias and neurotoxicity. Symptoms of poisoning include paresthesia, nausea, bradycardia, and in severe cases, ventricular fibrillation.
 
 Unlike A. napellus, which has been responsible for numerous fatal poisonings, A. anthora is considered less dangerous. This lower toxicity may explain its historical reputation as a safer "healing" aconite.
 
-Traditional [[mushroom-storage-and-processing-methods]] involved prolonged boiling and soaking in vinegar or salt water to hydrolyze toxic alkaloids into less toxic derivatives. These detoxification techniques reduced the diester diterpene alkaloids to monoester or amine forms.
-
-Despite these historical uses, modern medicine does not employ A. anthora preparations due to the narrow [[cannabis-therapeutic-index-overview]] of aconitine alkaloids. Pharmacological research continues to investigate isolated compounds for potential analgesic applications.
+Traditional [[cannabis-therapeutic-index-overview]] of aconitine alkaloids. Pharmacological research continues to investigate isolated compounds for potential analgesic applications.
 
 ## Cultivation
 
@@ -90,6 +74,77 @@ The plant prefers partial shade to full sun in cool-summer climates. Soils shoul
 
 ## See Also
 
-- [[aconitum-columbianum]]
 - [[aconitum-ferox]]
 - [[aconitum-septentrionale]]
+
+## Overview
+
+Aconitum Anthora represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish aconitum anthora
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving aconitum extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Aconitum Anthora finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for aconitum anthora. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+aconitum anthora and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Aconitum Anthora has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of aconitum anthora into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions

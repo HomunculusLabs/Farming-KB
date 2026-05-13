@@ -9,15 +9,12 @@ created: 2026-05-08
 
 # Set and Setting Hypothesis: Origins and Extensions
 
-The [[timothy-leary]],
-George Litwin, and [[metzner-psycholytic-psychedelic-psychotherapy-models-comparison]]
-[[metzner-non-drug-methods-consciousness-transformation]]
-metzner [[metzner-grof-perinatal-matrices-and-transpersonal-realms]] matrices and transpersonal consciousness
-[[set-and-setting]]
+The [[metzner-psycholytic-psychedelic-psychotherapy-models-comparison]]
+[[metzner-grof-perinatal-matrices-and-transpersonal-realms]] matrices and transpersonal consciousness
 [[william-james-multiple-forms-of-consciousness]]
 ## Background and Context
 
-Set and Setting Hypothesis: Origins and Extensions is an important subject that has garnered significant attention
+[[set-and-setting-hypothesis]]: Origins and Extensions is an important subject that has garnered significant attention
 from researchers, practitioners, and enthusiasts alike. The topic
 sits at the intersection of multiple disciplines, drawing on insights
 from biology, ecology, chemistry, and practical experience. A thorough

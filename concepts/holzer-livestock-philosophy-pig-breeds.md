@@ -11,25 +11,9 @@ sources:
 
 # Holzer Livestock Philosophy and Old Pig Breeds
 
-[[comparison-sepp-holzer-vs-biodynamic]]'s philosophy on livestock keeping and detailed descriptions of old pig breeds suitable for free-range permaculture systems. From his Practical Guide to Small-Scale Integrative Farming and Gardening.
+[[fukuoka-textdoc-natural-livestock-farming-open-grazing]] "torture of large numbers of animals." Issues with modern production:
 
-## Livestock Philosophy
-
-### Core Principles
-
-- Only breed robust, hardy animals suited to the terrain
-- Old, sometimes rare domestic breeds and wild animals fulfil requirements best
-- Livestock are kept outside in family groups
-- The proportion of male and female animals is adjusted appropriately
-- Area size depends on the space naturally required by each species
-- "Every farmer should be able to say when looking at their livestock that if they were to swap places they would also be happy"
-
-### Against Intensive Farming
-
-Holzer considers intensive [[fukuoka-textdoc-natural-livestock-farming-open-grazing]] "torture of large numbers of animals." Issues with modern production:
-
-- [[gibberellins-plant-growth-hormones]], antibiotics, and sedatives are very common
-- Animals transported for days at a time, [[blesching-ten-strategies-reduce-fear-anxiety-stress-hormones]] passed into meat
+- [[blesching-ten-strategies-reduce-fear-anxiety-stress-hormones]] passed into meat
 - Food produced this way is not real food — very low nutritional value
 - Since the BSE crisis, "there is nothing people will refrain from feeding to livestock"
 - "We are the ones that are being damaged most by all of these crimes committed against our fellow creatures"
@@ -56,38 +40,7 @@ Old domestic breeds are:
 - **Directed tilling:** Easily directed by scattering loose feed (peas, grain, maize) in appropriate places
 - **Scale:** Works for small- to large-scale tilling with minimal human effort
 - **Stone ground:** Indispensable as "living ploughs" on stony ground that cannot be ploughed mechanically
-- **Orchard cleanup:** Do not damage [[comparison-grafting-vs-budding-fruit-trees]] (unlike goats and sheep); eat windfall fruit, preventing fungus and mould spread
-- **Paddock rotation:** Reduces work and feed required to a minimum
-
-### Breeds Kept at Krameterhof
-
-#### Mangalitza (Woolly Pig)
-
-- Medium to large-framed with strong bones and powerful muscles
-- Large lop ears
-- Thick curly coat ("wool") — blonde, red, or black-brown (swallow-bellied)
-- Brown and white striped piglets resemble wild pigs
-- Bred all over Europe for excellent bacon until mid-19th century
-- Gradually superseded as meat production became more intensive
-- Now endangered
-- Very undemanding, well suited to free-range
-- Thick undercoat protects against cold; moulted in spring
-- Cope well with high temperatures if wallowing is available
-- Particularly good maternal instincts
-- Known as bacon pigs with thick fat layer and high-quality meat
-
-#### Swabian-Hall Swine
-
-- Large-framed with long body and lop ears
-- Black and white colouring — difficult to confuse with other breeds
-- Distinguished by incredible good-naturedness
-- Extremely hardy
-- Very high quality meat
-- Now endangered despite excellent breeding qualities
-
-#### Duroc
-
-- Emerged in north-eastern [[dmt-containing-plants-united-states-halpern]] from crossing Spanish pig breeds (mid-19th century)
+- **Orchard cleanup:** Do not damage [[dmt-containing-plants-united-states-halpern]] from crossing Spanish pig breeds (mid-19th century)
 
 ## Practical Applications
 
@@ -118,8 +71,80 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[doc]]
 - [[dom]]
-- [[det]]
 - [[permaculture]]
 - [[dmt]]
+
+## Overview
+
+Holzer Livestock Philosophy Pig Breeds represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish holzer livestock philosophy pig breeds
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving holzer extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Holzer Livestock Philosophy Pig Breeds finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for holzer livestock philosophy pig breeds. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+holzer livestock philosophy pig breeds and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Holzer Livestock Philosophy Pig Breeds has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of holzer livestock philosophy pig breeds into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource

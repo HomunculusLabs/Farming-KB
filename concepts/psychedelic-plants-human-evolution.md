@@ -21,7 +21,7 @@ sources:
 
 # Psychedelic Plants and Human Evolution
 
-Terence McKenna proposed that the interaction between early humans and
+[[terence-mckenna]] proposed that the interaction between early humans and
 psychoactive plants was a decisive factor in the emergence of language,
 culture, and self-reflective consciousness. His hypothesis, often called
 the "stoned ape" theory, argues that psilocybin-containing mushrooms
@@ -104,7 +104,7 @@ the poet and artist.
 
 ## Criticisms and Scientific Assessment
 
-The stoned ape theory is not widely accepted in mainstream anthropology
+The [[stoned-ape-theory]] is not widely accepted in mainstream anthropology
 or evolutionary biology. Critics note the absence of archaeological
 evidence for systematic psilocybin use by early hominids, and the
 difficulty of testing the hypothesis empirically. The neurological
@@ -119,9 +119,6 @@ more complex and bidirectional than McKenna's framework allows.
 
 ## See Also
 
-- [[mckenna-food-of-the-gods-stoned-ape-hypothesis]]
 - [[soma-vedic-enigma]]
-- [[eleusinian-mysteries]]
 - [[dominator-partnership-culture]]
-- [[natural-farming-philosophy]]
 - [[clay-pellet-seeding]]

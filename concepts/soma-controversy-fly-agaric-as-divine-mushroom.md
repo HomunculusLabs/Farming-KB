@@ -28,9 +28,7 @@ immortal; we have gone to the light; we have found the gods."
 Throughout the nineteenth and early twentieth centuries, Indologists tussled with the identity of the
 god-plant. A body of texts later than the Rig Veda, the Brahmanas (composed around 800 BCE), gave
 descriptions of plants that could be substituted for Soma. Candidates included various climbing plants in the
-genera Ephedra, Periploca and Sarcostemma; the psychoactive [[mckenna-food-gods-peganum-harmala-soma]] (Syrian rue); Cannabis sativa;
-fermented drinks of hops and barley; and the innocuous Rheum palmatum. Forty-three candidates were advanced
-in the [[mckenna-club-des-hachischins-and-nineteenth-century-literary-hashish]] alone, a figure that rose to over a hundred in the twentieth. No consensus was ever
+genera Ephedra, Periploca and Sarcostemma; the psychoactive [[mckenna-club-des-hachischins-and-nineteenth-century-literary-hashish]] alone, a figure that rose to over a hundred in the twentieth. No consensus was ever
 reached, and the question was deemed insoluble.
 
 ## Wasson's Entry into the Debate

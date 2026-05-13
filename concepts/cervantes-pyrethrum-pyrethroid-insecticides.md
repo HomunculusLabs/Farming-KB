@@ -6,33 +6,8 @@ tags:
   - pest-control
   - insecticide
   - pyrethrum
-  - [[integrated-pest-management]]
-date: 2026-04-25
-updated: 2026-04-25
-sources:
-  - "raw/papers/marijuana-horticulture-cervantes.md"
-  - "raw/papers/marijuana-horticulture-cervantes.md"
-type: concept
----
-
-# Pyrethrum and Pyrethroid Insecticides for Cannabis
-
-**Source:** [[marijuana-horticulture-cervantes-cannabis-breeding-and-genetics]]: The Indoor/Outdoor Medical Grower's Bible
--- [[jorge-cervantes]]
-
-## Natural Pyrethrum
-
-### What Is Pyrethrum?
-Pyrethrum, the best-known botanical pesticide, is extracted from the
-flowers of the pyrethrum chrysanthemum (Chrysanthemum coccineum and C.
-cinerariifolium). Pyrethrins -- pyrethrins, cinerins, and jasmolins --
-are the active ingredients in natural pyrethrum and kill insects on
-contact. Pyrethrum is often combined with rotenone or ryania to ensure
-effectiveness. Aerosol forms contain synergists.
-
-### What It Controls
-A broad-spectrum contact pesticide, pyrethrum kills aphids, whiteflies,
-[[cervantes-spider-mites-identification-control]], and insects including beneficials. It is very effective to
+  - [[marijuana-horticulture-cervantes-cannabis-breeding-and-genetics]]: The Indoor/Outdoor Medical Grower's Bible
+-- [[cervantes-spider-mites-identification-control]], and insects including beneficials. It is very effective to
 control flying insects, but they must receive a killing knockdown dose, or
 they may revive and buzz off.
 
@@ -118,8 +93,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[cervantes-chemical-fungicides-insecticides]]
 - [[pyrethrum-and-pyrethrin-natural-insecticides]]
-- [[marijuana-horticulture-cervantes-hydroponic-growing-systems]]
 - [[cervantes-high-pressure-sodium-lighting]]
 - [[marijuana-horticulture-cervantes-cannabis-breeding-and-genetics]]

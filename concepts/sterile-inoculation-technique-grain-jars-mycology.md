@@ -11,37 +11,10 @@ created: 2026-05-11
 
 ## Overview
 
-Sterile inoculation is the critical procedure [[contamination-prevention-in-mushroom-cultivation]] where a
-living culture (spores, mycelium, or agar) is introduced into sterilised
-substrate. Contamination at this stage destroys the entire jar, making proper
-technique the single most important skill for cultivators. The procedure must
-balance speed (minimising exposure of sterile grain to open air) with care
-(flame sterilisation, controlled movements). Even a simple cardboard-box hood
-dramatically reduces contamination by preventing drafts that carry airborne
-spores of competitor moulds.
-
-## Pre-Inoculation Conditions
-
-Jars must have cooled to room temperature before inoculation. Inoculating hot
-substrate kills the introduced culture outright. After pressure-cooker
-sterilisation, jars are removed once pressure has equalised, shaken to
-redistribute wet and dry kernels for homogenous moisture, then set in a clean
-location to cool. Lids must remain loose during cooling to prevent vacuum
-formation that would crack the jars or make lid removal difficult. Cooling
-typically takes several hours depending on jar size. A common mistake is
-rushing this step, particularly with eager beginners who lose patience and
-inoculate while jars are still warm to the touch.
-
-## Inoculant Types
-
-Multiple inoculant forms are compatible with grain jar inoculation. Spore
-syringes are the most common for beginners and contain millions of spores
-suspended in sterile water. Mycelium syringes contain living [[cervantes-tissue-culture-micropropagation]]
+Sterile inoculation is the critical procedure [[cervantes-tissue-culture-micropropagation]]
 and generally colonise faster with lower contamination risk. Agar squares cut
 from clean plates provide the most reliable inoculation with known genetics.
-[[comparison-agar-vs-liquid-culture]] syringes combine the convenience of spore syringes with the
-reliability of tissue culture. Each inoculant type requires slightly different
-handling but the fundamental [[cultivator-sterile-technique-and-agar-culture]] remains identical.
+[[cultivator-sterile-technique-and-agar-culture]] remains identical.
 
 ## Flame Sterilisation Protocol
 
@@ -102,20 +75,6 @@ investment and are not required for successful hobby cultivation.
 
 ## Contamination Sources and Prevention
 
-The primary [[mushroom-contamination-vectors]] during inoculation are airborne spores,
-unsterilised tools, contaminated inoculant, and the cultivator's own
-body (breath, skin flakes, clothing). Airborne contamination is addressed
-by the hood and by working quickly. Tool contamination is addressed by
-flame sterilisation. Inoculant quality depends on the source; reputable
-spore suppliers provide clean syringes, but home-made inoculants must be
-prepared under strict sterile conditions. The cultivator should wear
-clean clothing, a face mask, and gloves (wiped with alcohol) for best
-results. Simple practices like not talking or breathing directly over
-open jars make a measurable difference in contamination rates.
-
-## See Also
-
-- [[grass-seed-substrate]]
-- [[pressure-cooker-sterilization-mycology]]
+The primary [[grass-seed-substrate]]
 - [[mushroom-casing-soil-recipes]]
 - contamination prevention mushroom cultivation

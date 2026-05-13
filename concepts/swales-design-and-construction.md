@@ -8,11 +8,7 @@ type: concept
 
 ## Overview
 
-Swales are one of the most versatile and under-used [[mollison-designers-swale-design-and-water-harvesting-earthworks|earthworks]] in [[permaculture]] and ecological land management. They are long, level excavations built on contour that intercept overland water flow, hold it temporarily, and allow it to infiltrate into the soil as groundwater recharge. Swales transform runoff into infiltration, erosion into soil building, and barren slopes into productive, tree-planted landscapes. Their applications range from small garden ridges to broad agricultural [[swales-water-harvesting-earthworks|earthworks]] spanning hundreds of meters.
-
-## Definition and Function
-
-A [[swale]] is a **level ditch or broad drain** intended to first pool, then absorb all surplus water flow. Unlike drains, swales are **never intended to flow** — their function is to hold water until it infiltrates into the soil. They are the antithesis of conventional drainage, which aims to remove water from the landscape as quickly as possible.
+Swales are one of the most versatile and under-used [[permaculture]] and ecological land management. They are long, level excavations built on contour that intercept overland water flow, hold it temporarily, and allow it to infiltrate into the soil as groundwater recharge. Swales transform runoff into infiltration, erosion into soil building, and barren slopes into productive, tree-planted landscapes. Their applications range from small garden ridges to broad agricultural [[swale]] is a **level ditch or broad drain** intended to first pool, then absorb all surplus water flow. Unlike drains, swales are **never intended to flow** — their function is to hold water until it infiltrates into the soil. They are the antithesis of conventional drainage, which aims to remove water from the landscape as quickly as possible.
 
 ### Physical Characteristics
 
@@ -29,8 +25,7 @@ Swales can vary greatly in width and treatment:
 
 1. Overland flow from rainfall or runoff enters the swale
 2. Water pools in the level excavation, which may be 1–2 meters (4–6 feet) wide at the base
-3. The swale base is specifically designed to promote infiltration — ripped, gravelled, sanded, loosened, or dressed with [[gypsum]] depending on soil type
-4. Water infiltrates into the soil over a period ranging from 3 hours to 3 days, depending on soil type and [[swale-design]]
+3. The swale base is specifically designed to promote infiltration — ripped, gravelled, sanded, loosened, or dressed with [[swale-design]]
 5. Infiltrated water becomes groundwater recharge, available to tree root systems
 
 ### Why Trees Are Essential
@@ -46,7 +41,7 @@ Trees perform multiple critical functions in swale systems:
 - **Evapotranspiration** — returning stored soil water to the atmosphere as moisture, supporting local rainfall cycles
 - **Overshading** — cooling swale soils and reducing evaporation losses
 - **Root penetration** — creating channels for deeper water infiltration over time
-- **Humus accumulation** — leaf litter builds soil organic matter, further improving water retention
+- **[[humus]] accumulation** — leaf litter builds soil organic matter, further improving water retention
 - **Wind protection** — sheltered microclimates within the swale and spoil bank
 
 ### The Successional Nature of Swales
@@ -109,7 +104,7 @@ Every sub-humid and arid townscape can benefit from fitting roads and paved area
 - **Roof tank overflow** can be led to swales
 - **[[gaias-garden-water-harvesting-swales-and-greywater|Greywater]]** can be directed to swales (if boron detergents are not used)
 
-The **Village Homes** development in Davis, California (designed by Michael Corbett) is a landmark example:
+The **Village Homes** development in Davis, California (designed by [[michael-corbett]]) is a landmark example:
 
 - Swales accept all road and excess roof runoff
 - Hundreds of productive trees are supported within the settlement

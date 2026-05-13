@@ -9,51 +9,13 @@ sources:
 ---
 
 Water-soluble mineral inputs are a distinctive feature of Dr. Cho's
-[[comparison-natural-farming-vs-permaculture]]. By converting normally insoluble minerals into
-plant-available forms through acid extraction, NF makes calcium,
-potassium, phosphorus, and other minerals readily absorbable. The two
-most important are [[knf-water-soluble-potassium-detailed]] (WS-K), both corresponding to key stages of the
-[[knf-brown-rice-vinegar]] (BRV).
-
-### Preparation
-1. Collect eggshells; remove the inner peel (clears non-calcium
-   matter)
-2. Crush into small pieces (not powder -- larger pieces are faster
-   and more effective)
-3. Lightly roast to remove organic substances that could rot
-4. Put roasted shells in BRV-filled container. Bubbles appear as
-   CO2 is released (acetic acid reacts with calcium carbonate)
-5. When bubbles stop, the solution is saturated. Fluffy shells mean
-   CO2 is dissolving into vinegar
-6. Add shells slowly to prevent overflow from the reaction
-7. If shells sink without fully dissolving, the solution is saturated
-   -- extract the liquid and add more BRV
-
-### Functions of Calcium in Plants
-- Contributes to carbohydrate and protein utilization
-- Major component of cell membranes; enables smooth cell division
-- Removes harmful substances by binding with organic acids
-- Prevents overgrowth of crops
-- Makes fruits firm; prolongs storage period
-- Promotes phosphoric acid absorption
-- Carries and accumulates nutrients from branches/leaves to final
-  storage organs (ovary, fruit)
-- Transitions plants from vegetative to [[knf-reproductive-growth-stage]]
+[[knf-water-soluble-potassium-detailed]] (WS-K), both corresponding to key stages of the
+[[knf-reproductive-growth-stage]]
 
 ### When to Use WS-Ca
 - Cross-over period (vegetative to reproductive transition)
 - After fruits have grown large (spray on leaves for solid fruits)
-- When plants overgrow (prevents excessive [[cannabis-vegetative-growth-stage]])
-- When initial growth is poor
-- When leaves discolor, lack luster, or flower buds differentiate
-  poorly
-- When physiological drop is severe, fruit enlargement is slow, or
-  sugar content decreases
-- Do NOT use when vigorous vegetative growth is needed
-
-### Combinations for Enhanced Effect
-WS-Ca works synergistically with:
-- Water-soluble [[bionutrients-lab-calcium-phosphate-calamansi]] (WCaP)
+- When plants overgrow (prevents excessive [[bionutrients-lab-calcium-phosphate-calamansi]] (WCaP)
 - FPJ, OHN, and seawater for better taste and more aromatic fruits
 - Basic dilution ratio: 1:1000
 
@@ -117,8 +79,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[det]]
 - [[bionutrients]]
-- [[permaculture]]
 - [[cho-water-soluble-calcium-phosphate-preparation]]
 - [[cho-water-soluble-phosphoric-acid-preparation]]

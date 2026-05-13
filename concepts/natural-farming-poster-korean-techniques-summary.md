@@ -7,13 +7,8 @@ tags: [farming, cultivation, organic, knf]
 sources:
   - "Natural Farming Poster - Modern Natural Farming Tech (MNFT) for Cannabis"
 ---
-# [[cho-seawater-and-fermented-seawater]] Han-Kyu, to cannabis cultivation. The system uses biodiverse plant and fruit extracts — Fermented Plant Juice (FPJ), Fermented Fruit Juice (FFJ), Oriental Herbal Nutrient (OHN), Fish Amino Acids (FAA), and others — to feed plants through their entire lifecycle without synthetic fertilisers. This approach promotes organic, sustainable gardens using materials that are freely forageable.
-
-## Core Philosophy
-
-- Grow plants in organic, living soil with a thriving [[edaphic-factors-microbial-community-structure]]
-- Create a [[solomon-complete-organic-fertilizer-guide]] feeding schedule covering the entire cannabis life cycle
-- Use biodiverse species of plants and fruits ([[integrated-pest-management]]) tool by keeping plants healthy and resistant
+# [[edaphic-factors-microbial-community-structure]]
+- Create a [[integrated-pest-management]]) tool by keeping plants healthy and resistant
 - **Aging**: Improves with age, described as "aging like fine whiskey"
 
 ### Fish Amino Acids (FAA)
@@ -22,7 +17,7 @@ sources:
 - **Blue/white fish FAA**: High nitrogen and calcium — used during vegetative phase
 
 ### Lactic Acid Bacteria (LAB)
-- **Purpose**: Serum for EM-1 ([[query-how-do-you-make-effective-microorganisms-em-for-agriculture]]); improves soil aeration and microbial activity, builds immunity, fights [[cervantes-powdery-mildew-prevention-treatment]] (PM)
+- **Purpose**: Serum for EM-1 ([[cervantes-powdery-mildew-prevention-treatment]] (PM)
 - **Role**: Enhances the soil microbiome and serves as a carrier for other inputs
 
 ### Water Soluble Calcium (WSC)

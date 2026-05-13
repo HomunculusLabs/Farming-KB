@@ -2,7 +2,7 @@
 
 ## Overview
 
-Fungi play a significant role [[mycorrhizal-fungi-in-biogeochemical-cycling]] through the production and precipitation of metal oxalates and carbonates. These processes influence soil chemistry, mineral weathering, carbon sequestration, and the formation of geological features. Based primarily on Gadd et al. (Chapter 5), this page covers [[fungal-oxalate-production-metal-transformation]], calcium oxalate crystallography, carbonate precipitation mechanisms, and their broader environmental significance.
+Fungi play a significant role [[fungal-oxalate-production-metal-transformation]], calcium oxalate crystallography, carbonate precipitation mechanisms, and their broader environmental significance.
 
 ---
 
@@ -28,15 +28,7 @@ Calcium oxalate precipitates in two primary hydrated crystalline forms:
 
 ### Whewellite (CaC₂O₄·H₂O)
 
-Whewellite is the monohydrate form of calcium oxalate. It is thermodynamically favored under many environmental conditions and is commonly observed as the dominant crystal type produced by [[fungal-hyphae]] and mycelial mats. Whewellite crystals often form as elongated prisms or needle-like structures associated with hyphal surfaces.
-
-### Weddelite (CaC₂O₄·2H₂O)
-
-Weddelite is the dihydrate form. It tends to form under conditions of higher calcium concentration or more rapid precipitation. Weddelite is less stable than whewellite under ambient conditions and can dehydrate to the monohydrate over time. Crystal morphology typically includes tetragonal bipyramids.
-
-### Crystal Formation and Localization
-
-[[fungal-calcium-oxalate-crystals]] in fungal systems are typically found:
+Whewellite is the monohydrate form of calcium oxalate. It is thermodynamically favored under many environmental conditions and is commonly observed as the dominant crystal type produced by [[fungal-calcium-oxalate-crystals]] in fungal systems are typically found:
 
 - On hyphal surfaces and at hyphal tips
 - Within the cell wall matrix
@@ -65,9 +57,7 @@ Phosphate availability strongly modulates fungal oxalate production and its ecol
 
 - **Low phosphate conditions:** Fungi increase oxalate excretion to solubilize phosphate from insoluble mineral phosphates (e.g., apatite, hydroxyapatite) and from organic matter. The oxalate acts as a chelating agent, liberating phosphate for fungal uptake.
 - **High phosphate conditions:** Oxalate production is generally reduced, as the metabolic incentive for mineral dissolution diminishes.
-- **Oxalate-phosphate competition:** Oxalate and phosphate compete for calcium binding. In calcium-rich environments with limited phosphate, more oxalate is available to form calcium oxalate rather than [[bionutrients-lab-calcium-phosphate-calamansi]] minerals.
-
-This interplay makes fungal oxalate secretion a key mechanism [[fungal-role-in-phosphorus-cycling]], especially in nutrient-poor soils.
+- **Oxalate-phosphate competition:** Oxalate and phosphate compete for calcium binding. In calcium-rich environments with limited phosphate, more oxalate is available to form calcium oxalate rather than [[fungal-role-in-phosphorus-cycling]], especially in nutrient-poor soils.
 
 ---
 
@@ -118,8 +108,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[dom]]
 - [[det]]
-- [[bionutrients]]
 - [[mycoremediation]]
 - [[mycelium]]

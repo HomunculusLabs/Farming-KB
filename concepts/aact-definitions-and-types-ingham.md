@@ -13,7 +13,7 @@ sources:
 
 Updated: 2026-04-18
 
-Source: The [[ghouled-field-guide-historical-context]] I for Actively [[actively-aerated-compost-tea-aact-brewing]] Tea, Dr. Elaine Ingham, Soil Foodweb Inc.
+Source: The [[actively-aerated-compost-tea-aact-brewing]] Tea, Dr. Elaine Ingham, Soil Foodweb Inc.
 
 Ingham provides precise definitions for the various types of compost tea and related products, emphasizing that the distinctions matter because pathogen response differs based on production conditions.
 
@@ -26,55 +26,7 @@ AACT is the most useful tea for improving plant-growing conditions. Key characte
 - Contains all the important sets of organisms: bacteria, fungi, protozoa, and nematodes
 - If no food resources are put in, active aeration may not be required (oxygen must still be monitored)
 
-Critical: If the liquid goes anaerobic and the beneficial fungi, protozoa, and nematodes are killed, it CANNOT be called compost tea. Anaerobic liquids should be called "putrefying [[hamilton-composting-and-organic-matter-management]] tea."
-
-AACT is a PREVENTATIVE, not a pesticide. When a vineyard has been in serious disease mode for years, it requires weekly applications to establish beneficial organisms that out-compete the disease community.
-
-## Four Types of Compost Tea
-
-### A. Actively Aerated Compost Tea (AACT)
-The most useful tea. Actively aerated throughout brewing. Maintains all beneficial organism groups. See above.
-
-### B. Fermentative Compost Tea (FCT)
-Can select for growth of facultative [[ingham-anaerobic-organisms-role-soil]] that suppress certain diseases through antibiotic/inhibitory interactions. Lactic [[lactic-acid-bacteria-knf]] or fermentative yeasts dominate, putting aerobic critters "to sleep" (but not killing them). These CAN be resuscitated.
-
-### C. Long-Brewing Compost Tea (LBCT)
-Starts aerobic, moves through an anaerobic phase, then returns to aerobic by the end. The beneficial communities never fully recover their original diversity after the anaerobic phase.
-
-### D. Not-Aerobic Compost Tea (NACT)
-Anaerobic bacteria grow for the most part, producing some toxic materials useful for preventing growth of particular organisms. Cannot be called compost tea — beneficial fungi, protozoa, and nematodes are absent.
-
-## Distinguishing Related Products
-
-### Compost Extract
-Does NOT have the brewing period. Organisms have not had an opportunity to wake up or be given additional encouragement to grow. A physical ripping of organisms from compost into water.
-
-### Compost Leachate
-A PASSIVE process. Leachates usually only contain soluble nutrients from the compost, not the organisms. Both tea and extracts require physical extraction. Growth responses from leachate are due to enzymes, hormones, and humics that solubilize.
-
-### Plant Tea
-Water extract of plant materials (no compost), brewed with or without added nutrients. Should be called by the plant material name (e.g., "marigold tea").
-
-### Manure Tea
-Made with manure — NOT compost tea unless the manure has been fully composted. If something hasn't been completely composted, it isn't compost.
-
-### Sun Tea
-Compost in water, out in the sun. UV does not penetrate water more than a few micrometers. Any covering protects from UV but not desiccation. Generally not an effective method.
-
-## The Compost Requirement
-
-True compost does not contain human pathogens. This is achieved through:
-- Temperature (thermal composting)
-- Passage through worm gut (vermicomposting)
-- Contact with worm surfaces
-- Competition with aerobic organisms
-- Consumption by predators
-
-If those active ingredients (the full range of beneficial organisms) are not present in the liquid, it should not be called compost tea.
-
-## Can You Go Anaerobic and Come Back?
-
-You can bring [[aerobic-vs-anaerobic-tea-benefits-comparison]] back to aerobic conditions, but:
+Critical: If the liquid goes anaerobic and the beneficial fungi, protozoa, and nematodes are killed, it CANNOT be called compost tea. Anaerobic liquids should be called "putrefying [[ingham-anaerobic-organisms-role-soil]] that suppress certain diseases through antibiotic/inhibitory interactions. Lactic [[aerobic-vs-anaerobic-tea-benefits-comparison]] back to aerobic conditions, but:
 - The beneficial communities NEVER return to the full range of diversity you want
 - Going anaerobic risks growing human pathogens (Clostridium, E. coli, Salmonella, Shigella)
 - This is not a good idea
@@ -112,8 +64,87 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[elaine-ingham]]
 - [[aact-tea-types-and-definitions-ingham]]
-- [[soil-foodweb]]
 - [[dom]]
 - [[actively-aerated-compost-tea]]
+
+## Overview
+
+Aact Definitions And Types Ingham represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish aact definitions and types ingham
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving aact extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Aact Definitions And Types Ingham finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for aact definitions and types ingham. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+aact definitions and types ingham and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Aact Definitions And Types Ingham has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of aact definitions and types ingham into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[aact-brewer-machine-design-testing-standards-ingham]]

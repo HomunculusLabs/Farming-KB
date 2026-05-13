@@ -6,41 +6,11 @@ type: entity
 
 ## Description
 
-
-Termite mound gardening is a tropical cultivation technique that utilises the elevated, well-drained, nutrient-rich mounds created by termite and ant colonies as planting sites for crops and pioneer vegetation. Documented by Harris (1971) and expanded upon by [[bill-mollison]], this approach exploits the soil improvement work of social insects to establish productive gardens in otherwise challenging grassland and savannah environments.
-
-## Classification
-
-
-- **Type**: Cultivation technique / niche gardening strategy
-- **Origin**: Traditional tropical agriculture, documented scientifically in the 1970s
-- **Geographic application**: Tropics worldwide — Uganda, India, South America, Australia, Africa
-- **Key proponents**: Harris (1971), Bill Mollison
-- **Associated organisms**: Termites (Isoptera), leaf-cutter ants (Atta spp.)
-
-## Key Facts
-
-
-- Termite mounds present rich deposits of calcium and potash, superior aeration, and faster water infiltration compared to surrounding soils
-- Harris (1971) recorded that leaf-cutter ants in South America and termite mounds in Uganda assist forest spread by establishing islands of taller vegetation in grasslands
-- Mounds protect soils from fire, waterlogging, and poor aeration — three major challenges in tropical grassland environments
-- Crops such as sisal, cotton, and tobacco have been deliberately cultivated on large termite mounds in grasslands
-- Palms and coffee can have much of their outer bark removed by termites without suffering loss of production
-- Termites greatly assist the primary breakdown of logs, coarse stems, and hard leaf material used as mulch in plantations
-- Ant and termite mounds accelerate mineral release from rocks such as granite, which rot noticeably faster in free-infiltration soil environments
-
-## Relevance to Cultivation and Mycology
-
-
-- **Soil building**: Termite activity transports rotted rock and subsoil to the surface, creating mineral-rich planting sites in otherwise nutrient-poor landscapes
-- **Fungal culture**: Some termite species (Macrotermitinae) actively cultivate Termitomyces fungi in underground gardens, creating one of nature's oldest agricultural systems
-- **Decomposition acceleration**: Termites break down woody material that would otherwise take years to decompose, making nutrients available to crops faster
-- **[[water-management]]**: Mound structures create elevated, well-drained microsites in landscapes prone to flooding or waterlogging
+Termite mound gardening is a tropical cultivation technique that utilises the elevated, well-drained, nutrient-rich mounds created by termite and ant colonies as planting sites for crops and pioneer vegetation. Documented by Harris (1971) and expanded upon by [[water-management]]**: Mound structures create elevated, well-drained microsites in landscapes prone to flooding or waterlogging
 - **Pioneer vegetation establishment**: Planting into mounds initiates ecological succession from grassland to woodland, as documented across multiple continents
 - **Niche gardening**: This technique represents a form of niche gardening widely applicable across the tropics, using natural features as planting sites
 
 ## Practical Application
-
 
 1. Identify active or recently abandoned termite/ant mounds in grasslands or degraded areas
 2. Observe which local plant species naturally colonise mounds (e.g., tall grasses like Pennisetum, Eragrostis followed by shrubs)
@@ -51,7 +21,6 @@ Termite mound gardening is a tropical cultivation technique that utilises the el
 
 ## Ecological Succession on Mounds
 
-
 1. Bare mound created by termite/ant activity
 2. Tall grasses establish (Pennisetum, Eragrostis)
 3. Shrubs colonise (castor oil bean, Prosopis, thorny legumes)
@@ -60,7 +29,6 @@ Termite mound gardening is a tropical cultivation technique that utilises the el
 6. Full woodland develops, creating seed source for surrounding landscape
 
 ## Related Entities
-
 
 - Termitomyces (termite-cultivated fungi)
 - Pennisetum (fodder grass)
@@ -72,9 +40,92 @@ Termite mound gardening is a tropical cultivation technique that utilises the el
 
 ## See Also
 
-
-- [[soil-microbiology-basics]]
 - [[soil-ph]]
-- [[fungal-biology-fundamentals]]
+- [[ant-termite-fungal-symbiosis]]
+- [[mollison-designers-termite-and-ant-mound-niche-gardening]]
+- [[termite-ant-fungus-gardens]]
 
+## Overview
 
+Termite Mound Gardening Mollison represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish termite mound gardening mollison
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving termite extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Termite Mound Gardening Mollison finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for termite mound gardening mollison. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+termite mound gardening mollison and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Termite Mound Gardening Mollison has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of termite mound gardening mollison into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[ant-termite-fungal-symbiosis]]
+- [[cervantes-raised-beds-mound-planting]]
+- [[mollison-designers-termite-and-ant-mound-niche-gardening]]
+- [[termite-and-ant-ecology-in-tropical-agriculture]]
+- [[termite-ant-fungus-gardens]]

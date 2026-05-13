@@ -21,25 +21,13 @@ sources:
 ## Overview
 
 **Sunset Sherbet** (often shortened to **Sherbet** or **SSH**) is an indica-dominant
-[[query-what-is-the-difference-between-indica-sativa-and-hybrid-cannabis]] strain descended from the legendary **[[girl-scout-cookies]]** (GSC)
-lineage. Bred in the [[shipibo-san-francisco-ceremonial-center-ucayali]] Bay Area during the early 2010s, it was
-stabilized and popularized by the Cookie Family collective.
-
-The strain earned its name from its distinctly dessert-like aroma — a complex
-blend of sweet berries, creamy sherbet, and earthy undertones. It won first
-place in the 2015 Seattle Cannabis Cup for best indica and has since become a
-cornerstone parent strain for dozens of commercially successful crosses,
-including the entire **Gelato** family.
-
-## Lineage
-
-- **Female parent:** Girl Scout Cookies ([[thin-mint]] phenotype)
+[[girl-scout-cookies]]** (GSC)
+lineage. Bred in the [[thin-mint]] phenotype)
 - **Male parent:** Pink Panties
 - **Genetic ratio:** Approximately 85% indica / 15% sativa
 - **Breeder:** Cookie Family (Bay Area, California)
 
-Girl Scout Cookies itself is a cross of OG Kush × [[durban-poison]], giving Sunset
-Sherbet a rich genetic background spanning Afghani, [[kanna-sceletium-south-african-narcotic]], and
+Girl Scout Cookies itself is a cross of OG Kush × [[kanna-sceletium-south-african-narcotic]], and
 Californian landrace genetics.
 
 ## Appearance
@@ -88,3 +76,75 @@ relaxing physical effects.
 Potency is moderately high, with modern cut-grown specimens consistently
 testing above 20% THC. The lack of significant CBD means psychoactive effects
 are pronounced and not buffered by cannabinoid antagonism.
+
+## Overview
+
+Sunset Sherbet represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish sunset sherbet
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving sunset extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Sunset Sherbet finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for sunset sherbet. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+sunset sherbet and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Sunset Sherbet has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of sunset sherbet into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions

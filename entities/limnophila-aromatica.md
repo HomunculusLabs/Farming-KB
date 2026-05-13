@@ -18,51 +18,11 @@ sources:
 
 ## Overview
 
-**Limnophila aromatica** (Lam.) Merr., commonly known as rice paddy herb, rao răm (Vietnamese), or phak kayang (Lao), is an aromatic aquatic or semi-aquatic herb in the family Plantaginaceae. It is widely cultivated and foraged across [[psilocybe-southeast-asia-pacific]] as a culinary herb and traditional medicinal plant.
-
-The species is most recognized for its distinctive herbaceous aroma with citrus and cumin notes, which complements sour soups and fish dishes. It is an essential ingredient in Vietnamese *canh chua* (sour soup) and Lao *kaeng som*.
-
-L. aromatica grows in shallow water, marshes, and wet rice paddies, often intercropped with rice. Its natural distribution spans the Indian subcontinent through Southeast Asia to southern China.
-
-## Taxonomy and Morphology
-
-**Classification:** Plantae → Magnoliophyta → Magnoliopsida → Lamiales → Plantaginaceae → Limnophila → L. aromatica.
-
-**Authority:** Elmer Drew Merrill, published in the Philippine Journal of Science in 1917. The basionym is *Ambulia aromatica* Lam. (1791). The species was historically placed in Scrophulariaceae before the APG III reclassification.
-
-The plant is a perennial herb, typically 10–50 cm tall, with creeping or ascending stems that root at nodes. Stems are cylindrical, green to purplish, and densely pubescent at the nodes.
-
-Leaves are opposite, sessile or short-petiolate, lanceolate to ovate, 2–8 cm long and 0.5–3 cm wide. Margins are serrulate. The upper surface is green; the lower surface is paler with visible venation.
-
-Flowers are axillary, solitary or paired, with pale violet to white corollas approximately 1–1.5 cm long. Flowering occurs primarily during the wet season in submerged or emergent conditions.
-
-## Distribution and Habitat
-
-L. aromatica is native to tropical and subtropical Asia, ranging from India and Sri Lanka through Myanmar, Thailand, Laos, Vietnam, Cambodia, and southern China. It is also reported from Malaysia and Indonesia.
-
-The species grows naturally in shallow freshwater habitats including rice paddies, marshes, pond margins, ditches, and slow-moving streams. It prefers still or slow-flowing water 5–30 cm deep with muddy substrates.
-
-Optimal growth occurs in full sun to partial shade with warm temperatures (25–35°C). The plant is adapted to seasonal flooding and can survive brief submersion during rice paddy flooding cycles.
-
-## Culinary Use
-
-In Vietnamese cuisine, rice paddy herb is a signature ingredient in *canh chua cá* (sour fish soup) from the Mekong Delta. It is added at the last moment to preserve its delicate flavor.
-
-Lao and northeastern Thai cuisines use the herb in *kaeng som* (sour curry) and *tom yum*-style soups. The herb pairs well with fish, shrimp, tamarind, and pineapple.
-
-The fresh herb is used as a garnish and flavoring in herb platters (*rau sống*) served alongside grilled meats and noodles. Dried leaves retain some aroma but lose the fresh, citrus-like brightness.
-
-The flavor profile combines elements of cumin, lemon, and a mild bitterness. Some describe notes similar to celery or lovage. The aroma comes primarily from the essential oil containing limonene, perillaldehyde, and α-pinene.
-
-## Bioactive Compounds and Traditional Medicine
-
-The essential oil of L. aromatica is rich in monoterpenes and sesquiterpenes. Major constituents include limonene, perillaldehyde, α-terpineol, and elemol. The oil composition varies by geographic origin and [[cannabis-harvest-timing-visual-cues]].
+**Limnophila aromatica** (Lam.) Merr., commonly known as rice paddy herb, rao răm (Vietnamese), or phak kayang (Lao), is an aromatic aquatic or semi-aquatic herb in the family Plantaginaceae. It is widely cultivated and foraged across [[cannabis-harvest-timing-visual-cues]].
 
 In Vietnamese folk medicine, the herb is used to treat digestive complaints, flatulence, and fever. A decoction of the whole plant is consumed for coughs and respiratory ailments.
 
-In Ayurvedic traditions of India, Limnophila species are used as diaphoretics and for treating [[cannabis-for-skin-conditions-detailed]]. L. aromatica is sometimes used interchangeably with related species in local herbal practice.
-
-Modern pharmacological studies have demonstrated antioxidant, anti-inflammatory, and antimicrobial activities for leaf extracts. In vitro studies show activity against *Staphylococcus aureus* and *[[bloomfield-candida-albicans-yeast-hyphal-dimorphism]]*.
+In Ayurvedic traditions of India, Limnophila species are used as diaphoretics and for treating [[bloomfield-candida-albicans-yeast-hyphal-dimorphism]]*.
 
 ## Cultivation
 
@@ -87,3 +47,84 @@ The genus Limnophila contains approximately 40 species distributed across tropic
 *L. gratioloides* is an Australian native found in seasonal wetlands. It has been investigated for its essential oil composition, which differs significantly from L. aromatica in its sesquiterpene profile.
 
 *L. chinensis* occurs in China and India and is used in traditional medicine for fever and inflammation. The species is morphologically similar to L. aromatica but produces smaller, less aromatic leaves.
+
+## Overview
+
+Limnophila Aromatica represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish limnophila aromatica
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving limnophila extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Limnophila Aromatica finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for limnophila aromatica. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+limnophila aromatica and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Limnophila Aromatica has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of limnophila aromatica into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[curcuma-aromatica]]

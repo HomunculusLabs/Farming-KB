@@ -16,21 +16,11 @@ type: concept
 # Sooty Molds and Black Mildews - Tropical Foliar Fungi
 Sooty molds and black mildews are two groups of
 fungal-biodiversity|Ascomycetes that form dark, conspicuous
-colonies on the surfaces of [[allegro-death-and-resurrection-in-the-mushroom-cult]] field due
-to their similar appearance. Both groups are especially
-abundant [[fungal-parasites-living-plants-estimating-diversity]].
+colonies on the surfaces of [[fungal-parasites-living-plants-estimating-diversity]].
 ## Sooty Molds
 ### Biology
 The sooty molds are saprobic ascomycetes belonging to several
-different [[allegro-plants-and-drugs-in-the-ancient-world]]
-tropics. Sooty molds use the honeydew secreted by plants or
-sap-sucking insects, such as aphids and scale, as their
-primary nutrient source. They show no host preference, and
-colonies may consist of mixed populations of eight or more
-species.
-### Colony Morphology
-Sooty molds may form:
-- A thin network of hyphae on the [[bloomfield-rust-germ-tube-tactile-sensing-leaf-surface-navigation]]
+different [[bloomfield-rust-germ-tube-tactile-sensing-leaf-surface-navigation]]
 - A velvety growth
 - A dark crust on leaves and smaller twigs
 - More robust growth on trunks and larger branches

@@ -108,13 +108,8 @@ The bulbs are not considered edible for humans, though some reports indicate his
 
 ## See Also
 
-- [[convallaria-majalis]]
 - [[polygonatum-odoratum]]
-- [[hyacinthus-orientalis]]
 - [[galanthus-nivalis]]
-- [[narcissus-pseudonarcissus]]
 - [[tulipa-gesneriana]]
-- [[camassia-quamash]]
 - [[allium-cepa]]
-- [[dracaena-draco]]
 - [[sansevieria-trifasciata]]

@@ -37,7 +37,7 @@ The fruiting body features a fan-shaped to semicircular cap ranging from 5 to 25
 
 ## Habitat and Ecology
 
-*P. ostreatus* is a primary wood-decomposer (white-rot fungus) that secretes lignin-modifying enzymes including laccase, [[fungal-manganese-peroxidase-remediation]], and [[singh-versatile-peroxidase-vp-multifunctional]]. This enzymatic arsenal allows it to break down the lignin component of wood, making it ecologically significant in forest nutrient cycling.
+*P. ostreatus* is a primary wood-decomposer (white-rot fungus) that secretes lignin-modifying enzymes including laccase, [[singh-versatile-peroxidase-vp-multifunctional]]. This enzymatic arsenal allows it to break down the lignin component of wood, making it ecologically significant in forest nutrient cycling.
 
 Natural substrates include:
 - Dead or dying hardwood (oak, beech, birch, aspen, maple)
@@ -45,24 +45,7 @@ Natural substrates include:
 - Standing dead trees
 - Occasionally coniferous wood
 
-The mushroom fruits in shelf-like clusters, typically from autumn through early spring in [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]], though cultivated strains can fruit year-round under controlled conditions.
-
-## Cultivation
-
-Oyster mushrooms are among the easiest mushrooms to cultivate, making them a popular choice for home growers and commercial operations alike. Key cultivation parameters:
-
-| Parameter | Optimal Range |
-|---|---|
-| Temperature (fruiting) | 15–24 °C (59–75 °F) |
-| Humidity | 85–95% RH |
-| Light | Indirect ambient or 500–1000 lux |
-| Fresh air exchange | Moderate to high |
-| pH of substrate | 5.5–7.0 |
-| Substrate moisture | 60–75% |
-
-### Substrate Preparation
-
-Cultivation typically uses supplemented hardwood substrates. Common base materials include straw (wheat, rice), sawdust (hardwood), coffee grounds, [[fungi-in-composting-and-agricultural-waste-conversion]]. Supplementation with wheat bran (10–20% dry weight) or rice bran significantly increases yields. Substrates are pasteurized (60–80 °C for 1–2 hours) rather than sterilized for commercial production.
+The mushroom fruits in shelf-like clusters, typically from autumn through early spring in [[fungi-in-composting-and-agricultural-waste-conversion]]. Supplementation with wheat bran (10–20% dry weight) or rice bran significantly increases yields. Substrates are pasteurized (60–80 °C for 1–2 hours) rather than sterilized for commercial production.
 
 ### Inoculation and Colonization
 
@@ -80,10 +63,87 @@ Per 100 g fresh weight: ~30–35 kcal, 2–3 g protein, 0.3 g fat, 5–7 g carbo
 
 ## Medicinal Properties
 
-Research has identified several [[cordyceps-cancer-bioactive-compounds]]:
-
-- **β-glucans:** [[blesching-cannabis-immune-system-modulation]], potential anti-tumor activity
+Research has identified several [[blesching-cannabis-immune-system-modulation]], potential anti-tumor activity
 - **Pleuran:** A specific β-glucan extract studied for respiratory health and immune support
 - **Lovastatin:** Naturally occurring statin, cholesterol-lowering properties
 - **Ergothioneine:** Potent antioxidant amino acid
 - **Laccase and other enzymes:** [[medicinal-mushroom-antimicrobial-properties]]
+
+## Overview
+
+Pleurotus Ostreatus represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish pleurotus ostreatus
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving pleurotus extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Pleurotus Ostreatus finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for pleurotus ostreatus. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+pleurotus ostreatus and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Pleurotus Ostreatus has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of pleurotus ostreatus into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also

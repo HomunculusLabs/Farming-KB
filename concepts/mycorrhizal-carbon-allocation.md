@@ -24,63 +24,101 @@ The neutral lipid fatty acid (NLFA) 16:1omega5 is a useful biomarker for detecti
 
 ## Carbon Allocation and Soil Carbon Turnover
 
-A significant fraction of the carbon allocated to mycorrhizal fungi enters soil organic matter pools through several pathways. These include fungal turnover and death, exudation of extracellular compounds, and deposition of necromass into soil. The biochemical composition of mycorrhizal fungal biomass, which is rich in chitin and glomalin-related soil proteins, contributes to the formation of stable soil carbon pools. Understanding these pathways is essential for accurate modeling of [[singh-mycorrhiza-mediated-plant-nutrient-uptake-pathways|mycorrhizal plant signaling]] pathways.
+A significant fraction of the carbon allocated to mycorrhizal fungi enters soil organic matter pools through several pathways. These include fungal turnover and death, exudation of extracellular compounds, and deposition of necromass into soil. The biochemical composition of mycorrhizal fungal biomass, which is rich in chitin and glomalin-related soil proteins, contributes to the formation of stable soil carbon pools. Understanding these pathways is essential for accurate modeling of [[bloomfield-mycorrhizal-symbiosis-and-fungal-ecology]] represents a significant portion of the plant's total carbon budget. While the mutualistic exchange of carbon for nutrients is generally beneficial, the net effect on plant growth depends on the balance between carbon invested and nutrients received. Under conditions of high soil nutrient availability, the carbon drain to mycorrhizal fungi can exceed the nutritional benefit, resulting in a net cost to the host.
 
-Plants can modulate the amount of carbon supplied based on the fungal partner's nutrient delivery performance, effectively enforcing a biological market where carbon is traded for phosphorus or nitrogen. This dynamic regulation helps explain why carbon allocation patterns vary so widely across different plant-fungal combinations and environmental conditions.
-
-## Carbon Cost and Plant Growth Trade-offs
-
-The carbon cost of [[bloomfield-mycorrhizal-symbiosis-and-fungal-ecology]] represents a significant portion of the plant's total carbon budget. While the mutualistic exchange of carbon for nutrients is generally beneficial, the net effect on plant growth depends on the balance between carbon invested and nutrients received. Under conditions of high soil nutrient availability, the carbon drain to mycorrhizal fungi can exceed the nutritional benefit, resulting in a net cost to the host.
-
-This cost-benefit dynamic is a key component of [[ectomycorrhizal-fungal-ecology]], where carbon allocation patterns are particularly important for understanding long-term [[holmgren-soil-humus-carbon-storage-rebuilding]]. ECM fungi receive large quantities of plant-derived carbon and channel it into extensive mycelial networks that persist in soil for months to years. A portion of this carbon is transferred to [[soil-food-web-nutrient-cycling]]. The sheer biomass of ECM mycelium in forests represents one of the largest below-ground carbon pools in many temperate and boreal ecosystems.
-
-## Measuring Carbon Allocation in the Field
-
-Field-based measurements of mycorrhizal carbon allocation present additional challenges compared to controlled experiments. Techniques such as in-growth cores, mesh exclusion bags, and trenching experiments complement isotope labelling approaches by providing estimates of mycorrhizal fungal [[dighton-fungal-biomass-production-aquatic-ecosystems]] and carbon demand under natural conditions. Combining field measurements with laboratory-based isotope studies allows researchers to scale up from mechanistic understanding of carbon flow to ecosystem-level carbon budgets, bridging the gap between [[mycorrhizal-carbon-sequestration]] in natural ecosystems.
-
-## Implications for Climate Change Research
-
-Climate change is expected to alter mycorrhizal carbon allocation patterns through multiple pathways, including elevated atmospheric CO2 concentrations, warming temperatures, and altered precipitation regimes. Increased CO2 may enhance photosynthetic carbon supply to mycorrhizal fungi, potentially accelerating below-ground carbon cycling. However, warming and drought may disrupt plant-fungal carbon exchange by stressing one or both partners. Understanding these responses is critical for predicting how terrestrial ecosystems will respond to ongoing environmental change.
-
-## Common Mycorrhizal Networks and Carbon Sharing
-
-A growing body of evidence demonstrates that mycorrhizal mycelial networks can facilitate carbon transfer between plants, a phenomenon sometimes called "common mycorrhizal networks" (CMNs) or "wood-wide webs." Through these shared fungal networks, carbon may move from older, shade-suppressed trees to shaded seedlings, from nutrient-rich to nutrient-poor patches, or even between different species. The ecological significance and extent of this inter-plant carbon transfer remains debated, but it has been documented in forest ecosystems using stable isotope tracing and is thought to influence forest regeneration and community dynamics. This connects directly to [[mycorrhizal-carbon-nitrogen-economics]] and the broader functioning of [[arbuscular-mycorrhizal-fungi]] networks.
-
-## ECM vs. AM Carbon Dynamics
-
-The two dominant mycorrhizal types differ substantially in their carbon allocation patterns. Ectomycorrhizal (ECM) fungi typically receive 10–30% of host plant net photosynthate and produce extensive, long-lived mycelial networks that persist for months to years. ECM-associated trees like pines and oaks allocate more carbon below-ground than AM-associated plants. Arbuscular mycorrhizal (AM) fungi receive a somewhat smaller proportion (5–20%) but cycle carbon more rapidly due to shorter hyphal lifespans. These differences have profound implications for [[mycorrhizal-carbon-sequestration]] — ECM-dominated ecosystems tend to accumulate more stable soil carbon, while AM-dominated grasslands cycle carbon more quickly through microbial biomass.
+This cost-benefit dynamic is a key component of [[holmgren-soil-humus-carbon-storage-rebuilding]]. ECM fungi receive large quantities of plant-derived carbon and channel it into extensive mycelial networks that persist in soil for months to years. A portion of this carbon is transferred to [[dighton-fungal-biomass-production-aquatic-ecosystems]] and carbon demand under natural conditions. Combining field measurements with laboratory-based isotope studies allows researchers to scale up from mechanistic understanding of carbon flow to ecosystem-level carbon budgets, bridging the gap between [[mycorrhizal-carbon-nitrogen-economics]] and the broader functioning of [[mycorrhizal-carbon-sequestration]] — ECM-dominated ecosystems tend to accumulate more stable soil carbon, while AM-dominated grasslands cycle carbon more quickly through microbial biomass.
 
 ## See Also
 
-- [[mycorrhizal-carbon-nitrogen-economics]]
 - [[mycorrhizal-carbon-sequestration]]
-- [[arbuscular-mycorrhizal-fungi]]
-- mycorrhizal-plant-signaling
-- mycorrhizal-compartmented-culture-systems
-
-## References
-
-- Olsson PA (2009) Using stable [[stable-carbon-isotope-labelling-mycorrhizal-fatty-acids]] labelling in signature fatty acids to track carbon allocation in arbuscular mycorrhiza. In: Varma A, Kharkwal AC (eds) [[mycelium-running-symbiotic-fungi-relationships]], Soil Biology 18. Springer.
-- Olsson PA, et al. (2005) The fungal perspective on carbon allocation in mycorrhizal symbioses. New Phytol 168:673-678.
-- Smith SE, Read DJ (1997) Mycorrhizal Symbiosis. Academic Press, London.
-- Johnson D, Leake JR, Read DJ (2002) Quantifying mycorrhizal fungal contributions to carbon cycling. In: Mycorrhizal Ecology. Springer.
-
-## Practical Considerations
-
-Successful implementation of Mycorrhizal Carbon Allocation requires attention to several practical factors including environmental conditions, resource availability, and timing. Careful monitoring and adaptive management help optimize outcomes across varying conditions. Integration with other system elements enhances overall effectiveness and creates beneficial synergies that improve resilience and productivity over time.
-
-### Agricultural Implications
-
-For farmers and gardeners, understanding mycorrhizal carbon allocation has direct practical applications. Practices that minimize soil disturbance (no-till, reduced tillage) preserve intact mycorrhizal networks, maintaining established carbon exchange pathways. Cover cropping sustains fungal partners during fallow periods by providing continuous carbon supply. Excessive phosphorus fertilization can suppress mycorrhizal colonization by removing the plant's incentive to invest carbon in the symbiosis — this reduces both fungal diversity and the soil carbon inputs that depend on active mycorrhizal networks.
-
-### Methods for Practitioners
-
-- **Reduce tillage**: Each tillage event severs hyphal networks, forcing plants to re-invest carbon in rebuilding connections
-- **Maintain host plant diversity**: Different plant species support different fungal communities, increasing overall carbon flow to soil
-- **Avoid high-phosphorus fertilizers**: When soil P is abundant, plants reduce carbon allocation to mycorrhizae, diminishing soil carbon inputs
-- **Use mycorrhizal inoculants**: In disturbed or degraded soils, introducing [[arbuscular-mycorrhizal-fungi]] can jumpstart carbon allocation pathways and accelerate soil building
+- [[stable-carbon-isotope-labelling-mycorrhizal-fatty-acids]] labelling in signature fatty acids to track carbon allocation in arbuscular mycorrhiza. In: Varma A, Kharkwal AC (eds) [[arbuscular-mycorrhizal-fungi]] can jumpstart carbon allocation pathways and accelerate soil building
 - **Monitor with bioindicators**: Healthy mycorrhizal activity correlates with good soil structure, earthworm populations, and organic matter accumulation
 
 ## Future Directions
 
 Continued development in this area promises new insights and improved approaches for both research and practical application. Cross-disciplinary collaboration and advances in analytical methods create opportunities for innovation and refinement. Recommended resources include current literature, practitioner communities, and systematic experimentation to build expertise.
+
+## Overview
+
+Mycorrhizal Carbon Allocation represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish mycorrhizal carbon allocation
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving mycorrhizal extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Mycorrhizal Carbon Allocation finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for mycorrhizal carbon allocation. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+mycorrhizal carbon allocation and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Mycorrhizal Carbon Allocation has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of mycorrhizal carbon allocation into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[arbuscular-mycorrhizal-network-visualization-anastomosis]]
+- [[arbuscular-mycorrhizal-symbiosis]]
+- [[leake-mycorrhizal-carbon-cycle-global-sequestration]]
+- [[mycorrhizal-edible-mushroom-species-overview]]
+- [[mycorrhizal-helper-bacteria-tripartite-symbioses]]

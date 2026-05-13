@@ -11,15 +11,7 @@ sources:
 
 # Psilocybe tampanensis
 
-Psilocybe tampanensis is a psilocybin-containing mushroom in the family Hymenogastraceae, notable as the species from which the sclerotia commonly sold as "philosopher's stones" or "magic truffles" are harvested. Originally described from a single 1977 collection near Tampa, Florida, the species remained exceedingly rare in nature for decades, with no additional confirmed wild collections until a 2024 rediscovery. Despite its natural scarcity, P. tampanensis gained widespread popularity in cultivation circles because of its reliable production of underground sclerotia — dense, nutrient-storage masses containing the same [[tryptamine]] found in the fruiting bodies. These sclerotia are legally sold in the Netherlands as a loophole in drug laws that prohibit fruiting bodies but not fungal sclerotia.
-
-## Taxonomy and Naming
-
-- **Order:** Agaricales
-- **Family:** Hymenogastraceae
-- **Genus:** Psilocybe
-- **Species:** P. tampanensis Guzmán & Pollock (1978)
-- **Holotype:** Collected September 1977 by [[steven-pollock]] near Tampa, Florida, USA
+Psilocybe tampanensis is a psilocybin-containing mushroom in the family Hymenogastraceae, notable as the species from which the sclerotia commonly sold as "philosopher's stones" or "magic truffles" are harvested. Originally described from a single 1977 collection near Tampa, Florida, the species remained exceedingly rare in nature for decades, with no additional confirmed wild collections until a 2024 rediscovery. Despite its natural scarcity, P. tampanensis gained widespread popularity in cultivation circles because of its reliable production of underground sclerotia — dense, nutrient-storage masses containing the same [[steven-pollock]] near Tampa, Florida, USA
 - **Common names:** Tampa psilocybe, magic truffle, philosopher's stone
 - **Note:** Pollock, a physician and mycological researcher, was murdered in 1981. The species name commemorates the type locality near Tampa.
 
@@ -56,23 +48,13 @@ Subglobose to irregular masses, 1–3 cm diameter, hard and dense when mature. S
 
 ## Chemistry and Active Compounds
 
-Psilocybe tampanensis contains the classic [[african-psilocybin-mushroom-guide]] tryptamine profile:
-
-- **Psilocybin (4-PO-DMT):** 0.07–0.30% dry weight in sclerotia; primary prodrug, dephosphorylated to psilocin after ingestion
-- **Psilocin (4-HO-DMT):** 0.01–0.05% dry weight in sclerotia; the active psychoactive metabolite, serotonin 5-HT2A receptor agonist
-- **Baeocystin (4-PO-NMT):** Present in minor quantities; pharmacological activity less well characterized
-- **Norbaeocystin (4-PO-NMT):** Trace amounts; also found in other Psilocybe species
-- **Total tryptamine content in sclerotia:** Generally lower than in fruiting bodies of species like P. cubensis; estimated 0.10–0.35% combined tryptamines
-- **[[psilocybe-cubensis-strain-potency-comparison-amazon-mr-equadorian]]:** Sclerotia of P. tampanensis are considered moderately potent, requiring approximately 5–15 g fresh weight for a threshold-to-moderate dose
+Psilocybe tampanensis contains the classic [[psilocybe-cubensis-strain-potency-comparison-amazon-mr-equadorian]]:** Sclerotia of P. tampanensis are considered moderately potent, requiring approximately 5–15 g fresh weight for a threshold-to-moderate dose
 - **Variation:** Tryptamine content varies significantly with substrate, strain, and sclerotia maturity; older, fully hardened sclerotia tend to have higher concentrations than young, soft sclerotia
 
 ## Cultivation and Sclerotia Production
 
-The commercial and [[ethnomycology-cultural-significance-sacred-fungi]] of P. tampanensis derives almost entirely from its sclerotia:
-
-- **Substrate:** Rye grain, grass seed, or sterilized compost; sclerotia form directly on grain spawn without requiring [[query-what-is-the-difference-between-a-casing-layer-and-a-bulk-substrate]]
-- **Colonization:** 4–8 weeks at 22–25°C in darkness for optimal [[growing-gourmet-sclerotia-formation-biology-mushrooms]]; light exposure during colonization may reduce sclerotia yield
-- **[[sclerotia-maturation-timeline-psilocybe-tampanensis-mexicana]]:** 8–16 weeks total; mature sclerotia are hard, golden-brown, and easily separated from substrate
+The commercial and [[query-what-is-the-difference-between-a-casing-layer-and-a-bulk-substrate]]
+- **Colonization:** 4–8 weeks at 22–25°C in darkness for optimal [[sclerotia-maturation-timeline-psilocybe-tampanensis-mexicana]]:** 8–16 weeks total; mature sclerotia are hard, golden-brown, and easily separated from substrate
 - **Fresh weight yield:** 50–150 g sclerotia per liter of substrate depending on strain and conditions
 - **Fruiting:** Requires a casing layer (peat-vermiculite) and high humidity (90%+); fruiting is less reliable and less prolific than sclerotia production
 - **Commercial scale:** Dutch "smart shops" sell pre-packaged P. tampanensis sclerotia under brand names; the Netherlands tolerates sale of sclerotia as they are not classified as "mushrooms" under the Opium Act amendments of 2008
@@ -82,8 +64,87 @@ The commercial and [[ethnomycology-cultural-significance-sacred-fungi]] of P. ta
 
 - **Onset:** 20–60 minutes after oral ingestion of fresh or dried sclerotia
 - **Duration:** 4–6 hours, comparable to P. cubensis
-- **Effects profile:** Visual and auditory alterations, euphoria, introspective thought, synesthesia at moderate doses; [[leary-psychedelic-experience-bardo-mapping]] generally described as "warm" and "less anxious" compared to other species
-- **Dose (fresh sclerotia):** Threshold 3–5 g; light 5–10 g; moderate 10–15 g; strong 15–25 g
-- **Dose (dried sclerotia):** Approximately 10% of fresh weight; threshold 0.3–0.5 g; moderate 1–1.5 g
-- **Comparison to fruiting bodies:** Sclerotia produce qualitatively similar effects but with slightly lower intensity per gram due to lower tryptamine concentrations
-- **[[lsd-set-and-setting-framework]]:** As with all psychedelics, the experience is highly dependent on psychological set and physical setting; experienced users recommend a calm, familiar environment with a trusted sitter
+- **Effects profile:** Visual and auditory alterations, euphoria, introspective thought, synesthesia at moderate doses; [[lsd-set-and-setting-framework]]:** As with all psychedelics, the experience is highly dependent on psychological set and physical setting; experienced users recommend a calm, familiar environment with a trusted sitter
+
+## Overview
+
+Psilocybe Tampanensis Entity represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish psilocybe tampanensis entity
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving psilocybe extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Psilocybe Tampanensis Entity finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for psilocybe tampanensis entity. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+psilocybe tampanensis entity and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Psilocybe Tampanensis Entity has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of psilocybe tampanensis entity into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[grass-seed-cultivation-of-psilocybe-species]]
+- [[psilocybe-fascicata]]
+- [[psilocybe-plutonia]]

@@ -22,8 +22,7 @@ mechanisms.
 
 DDT [1,1,1-trichloro-2,2-bis-(4-chlorophenyl)ethane] was used
 extensively since the 1940s and banned in most industrialized nations by
-1972. Certain fungi including Mucor alternans, [[fusarium-oxysporum]], and
-[[trichoderma-viride]] have been known to degrade DDT for decades (Anderson
+1972. Certain fungi including Mucor alternans, [[trichoderma-viride]] have been known to degrade DDT for decades (Anderson
 and Lichtenstein, 1971; Engst and Kujawa, 1968; Matsumura and Bousch,
 1968). The pathways of DDT degradation by bacteria and fungi appear
 similar, with reductive dechlorination, oxidation, decarboxylation, and
@@ -31,10 +30,7 @@ ring cleavage as primary mechanisms.
 
 ## Phanerochaete chrysosporium and DDT
 
-The white-rot fungus [[phanerochaete-chrysosporium]] has been the primary
-focus of ligninolytic DDT degradation research. Bumpus and Aust (1987)
-and Bumpus et al. (1993a) postulated a pathway for DDT degradation by
-P. chrysosporium. The fungus produces [[fungal-lignin-peroxidase-veratryl-alcohol]] (LiP) which
+The white-rot fungus [[fungal-lignin-peroxidase-veratryl-alcohol]] (LiP) which
 mineralizes DDT. Formation of DDD occurs during the initial
 nonligninolytic phase through a mechanism different from the
 lignin-degrading system. The extent of mineralization of [14C]dicofol

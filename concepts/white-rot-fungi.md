@@ -40,19 +40,13 @@ complete decomposition.
 The selective strategy is more common in species like Phanerochaete
 chrysosporium and Ceriporiopsis subvermispora, which have potential
 applications in biopulping because they remove lignin while preserving
-cellulose fibers. Simultaneous decay is typical of [[staycare-laccase-enzymes-in-bioremediation]]. These enzymes initiate an
-oxidative radical cascade that non-specifically attacks lignin's aromatic
-polymer structure, progressively fragmenting it into water-soluble oligomers
-and ultimately to carbon dioxide.
-
-Crucially, [[query-how-does-lignin-degradation-by-fungi-work]] cannot occur through hydrolytic mechanisms
+cellulose fibers. Simultaneous decay is typical of [[query-how-does-lignin-degradation-by-fungi-work]] cannot occur through hydrolytic mechanisms
 alone. Lignin lacks regular repeating units and glycosidic bonds that
 hydrolases can attack. Only oxidative radical chemistry, as deployed by white
 rot fungi, can cleave the diverse carbon-carbon and ether bonds linking lignin
 subunits. This is why white rot fungi are uniquely important among decomposers.
 
-The production of reactive oxygen species, particularly [[cervantes-hydrogen-peroxide-sterilization]],
-through [[singh-fungal-metabolism-pahs]] is essential for peroxidase function. Peroxidases
+The production of reactive oxygen species, particularly [[singh-fungal-metabolism-pahs]] is essential for peroxidase function. Peroxidases
 require H2O2 as an electron acceptor, and its controlled generation by
 oxidases and other metabolic processes prevents uncontrolled radical damage
 to fungal cells while enabling targeted lignin attack.
@@ -79,13 +73,9 @@ environmental pollutants. They have been demonstrated to degrade polycyclic
 aromatic hydrocarbons (PAHs), polychlorinated biphenyls (PCBs), explosives
 like TNT, synthetic dyes, pharmaceuticals, and endocrine-disrupting compounds.
 
-[[trametes-versicolor-entity]] often show
-superior performance in field applications due to their faster growth and
-greater environmental tolerance. The [[ganoderma-lucidum]]) all degrade lignocellulose as
-part of their life cycle. [[staycare-laccase-enzymes-in-bioremediation]]
-- biobleaching-of-pulp-by-white-rot-fungi
-- [[trametes-versicolor-entity]]
+[[ganoderma-lucidum]]) all degrade lignocellulose as
+part of their life cycle. [[trametes-versicolor-entity]]
 
-[[staycare-composting-as-a-fungal-bioremediation-strategy]] examines how [[dighton-fungal-decomposition-leaf-litter-dynamics]] applies to contaminated organic waste.
-[[staycare-ecotoxicological-assessment-of-fungal-bioremediation]] addresses evaluating the safety and effectiveness of [[cotter-pet-livestock-waste-fungal-remediation-systems]].
-[[staycare-fungal-immobilization-and-entrapment-for-bioremediation]] explores techniques for deploying [[bioremediation-fungal-biomass-biosorbent-material]] in treatment systems.
+[[dighton-fungal-decomposition-leaf-litter-dynamics]] applies to contaminated organic waste.
+[[cotter-pet-livestock-waste-fungal-remediation-systems]].
+[[bioremediation-fungal-biomass-biosorbent-material]] in treatment systems.

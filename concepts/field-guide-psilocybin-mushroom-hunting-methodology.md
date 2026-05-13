@@ -11,8 +11,7 @@ type: concept
 
 This page covers the practical methodology for locating and harvesting
 psilocybin-containing mushrooms in the wild, as described in F.C. Ghouled's 1972
-field guide. The three target species — *[[basidiocarp-four-stage-development-classification-psilocybe-cubensis-badham-1982]]*, *Panaeolus
-subbalteatus*, and *[[psilocybe-caerulescens]]* — are common throughout the southern
+field guide. The three target species — *[[psilocybe-caerulescens]]* — are common throughout the southern
 United States, from California to Louisiana and South Carolina to Florida.
 
 ## When to Hunt: Temperature and Season
@@ -47,35 +46,8 @@ because they are over 90% water, and direct sun accelerates this deterioration.
 ## Where to Look: Habitats and Substrates
 
 **Cow pastures** are the primary hunting ground for *Psilocybe cubensis* and
-*[[gartz-panaeolus-subbalteatus-taxonomy-and-intoxication-history]]*. Both species grow exclusively on the manure of grass
-or grain-fed animals, most commonly cow manure, but also horse, pig, sheep, and
-goat manure. *Panaeolus subbalteatus* occurs at roughly 12% the frequency of its
-companion species.
-
-**Stream and river banks** are the habitat of *Psilocybe caerulescens*, located
-throughout the entire southern United States on moist waterway banks.
-
-**Well-drained or sloped areas** are preferred across all species; slopes
-prevent water accumulation that would damage immature mycelium.
-
-## The Mycelium Growth Cycle
-
-Understanding the mycelium growth cycle is essential for productive hunting.
-**Spore germination** begins the [[cervantes-vegetative-phase]] when spores land on suitable
-substrate. **[[mycelial-colonization]]** follows as the mycelium grows as a moldish,
-web-like network permeating the soil or manure, taking from 6 to 12 weeks or
-longer to fully mature.
-
-**Fruiting** occurs when the mushroom forms underground; with proper moisture
-and temperature, it pushes through the surface and appears to grow extremely
-rapidly — *Psilocybe cubensis* matures in just 24 hours. **Senescence** follows
-quickly as mushrooms age and rot due to high water content (over 90%). The
-mycelium lives in a dynamic balance with moisture: too little and it remains
-dormant; too much and it rots.
-
-## Potency Factors by Season
-
-Seasonal variation significantly affects [[hplc-analysis-of-psilocybin-and-psilocin]] content. **Hot
+*[[cervantes-vegetative-phase]] when spores land on suitable
+substrate. **[[hplc-analysis-of-psilocybin-and-psilocin]] content. **Hot
 weather** produces specimens with less psilocybin — the guide states specimens
 found during hot spells are "poor quality" regardless of rain. **Cool weather**
 (late spring, early fall) correlates with higher potency. The ideal combination
@@ -118,8 +90,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[psilocybin-mushroom]]
 - [[psilocybin]]
-- [[psilocin]]
 - [[det]]
 - [[panaeolus-subbalteatus]]

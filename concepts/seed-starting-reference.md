@@ -9,7 +9,7 @@ sources: []
 
 # Seed Starting Reference
 
-Starting [[query-what-is-seed-starting-and-when-should-i-start-seeds-indoors]] extends [[query-how-to-protect-plants-from-frost-and-extend-the-growing-season]], provides stronger transplants, and offers access to varieties unavailable as starts. This reference covers germination conditions, lighting, soil blocks, [[hamilton-cold-frames-and-hardening-off]].
+Starting seeds indoors extends the growing season, provides stronger transplants, and offers access to varieties unavailable as starts. This reference covers germination conditions, lighting, soil blocks, and hardening off.
 
 ## Germination Temperatures by Crop
 
@@ -82,7 +82,7 @@ Seedlings need 12-16 hours of light per day once germinated. Windowsill light is
 ### Soil Blocks
 Eliminates plastic trays. A soil block tool compresses wet mix into cubes; seeds are planted directly into blocks. Roots air-prune at block edges, preventing circling.
 
-**Soil block mix ([[eliot-coleman]] recipe):**
+**Soil block mix (Eliot Coleman recipe):**
 - 3 buckets peat moss (or coco coir)
 - 1 bucket perlite
 - 1 bucket compost (sieved)
@@ -98,7 +98,7 @@ Eliminates plastic trays. A soil block tool compresses wet mix into cubes; seeds
 - 4 inch (maxi-block) — for larger transplants (squash, melons).
 
 **Advantages of soil blocks:**
-- No [[query-how-do-i-prevent-and-manage-transplant-shock-in-garden-plants]] — roots never circle.
+- No transplant shock — roots never circle.
 - No plastic trays to buy, clean, or store.
 - Air-pruning produces dense, fibrous root systems.
 - Blocks can be potter up (placed into larger blocks) seamlessly.
@@ -137,14 +137,14 @@ Transplants grown indoors must be gradually acclimated to outdoor conditions ove
 ## Common Problems
 
 ### Damping Off
-- [[bloomfield-amphibian-decline-fungal-disease-climate-interactions]] that kills seedlings at soil line.
+- Fungal disease that kills seedlings at soil line.
 - Caused by overwatering, poor air circulation, contaminated media.
 - Prevention: use sterile media, clean trays, good airflow, chamomile tea spray.
-- Once symptoms appear (pinched stems, flopped seedlings), affected plants cannot be saved.
 
-### Leggy Seedlings
-- Caused by insufficient light or excessive heat after germination.
-- Solution: increase light intensity, lower light fixture, reduce temperature to 60-65°F.
-- Can partially recover by burying stem up to first leaves when transplanting (tomatoes).
+## See Also
 
-## Timing: When to Start Seeds
+- [[query-how-to-start-seed-saving]]
+- [[natural-farming-seed-saving]]
+- [[species-specific-fruiting-timelines-grass-seed-cultivation]]
+- [[knf-seed-soaking-cannabis-germination]]
+- [[cannabis-seed-germination-viability-breeding-clarke]]

@@ -21,9 +21,9 @@ sources:
 
 ## Overview
 
-**Myrica pensylvanica** (northern bayberry) is an upright, semi-evergreen shrub native to the eastern coast of [[psilocybin-north-america-pacific-northwest]]. It ranges from Nova Scotia to [[north-carolina-mycodiversity]], commonly found on coastal dunes, sandy barrens, and rocky headlands. The species is valued in landscaping for salt tolerance, nitrogen-fixing root symbiosis, and aromatic waxy fruit.
+**Myrica pensylvanica** (northern bayberry) is an upright, semi-evergreen shrub native to the eastern coast of [[north-carolina-mycodiversity]], commonly found on coastal dunes, sandy barrens, and rocky headlands. The species is valued in landscaping for salt tolerance, nitrogen-fixing root symbiosis, and aromatic waxy fruit.
 
-The plant typically reaches 1.5–3 m in height with a spreading, colony-forming habit. It is dioecious, with separate male and female plants. Female plants produce clusters of grayish-white, waxy drupes that persist through winter and are historically used for candle-making. Northern bayberry is one of the most cold-hardy members of the Myricaceae, making it a valuable subject for studying [[actinorhizal-symbiosis-frankia]] [[query-how-do-i-grow-figs-in-cold-climates]].
+The plant typically reaches 1.5–3 m in height with a spreading, colony-forming habit. It is dioecious, with separate male and female plants. Female plants produce clusters of grayish-white, waxy drupes that persist through winter and are historically used for candle-making. Northern bayberry is one of the most cold-hardy members of the Myricaceae, making it a valuable subject for studying [[query-how-do-i-grow-figs-in-cold-climates]].
 
 ## Taxonomy
 
@@ -39,15 +39,7 @@ Some modern treatments place this species within *Morella* rather than *Myrica*,
 
 The Myricaceae is a small family of approximately 50 species distributed across five genera. Molecular phylogenetic studies have confirmed the family's placement within Fagales as sister to the Juglandaceae. The family is distinguished by its actinorhizal root nodules, aromatic foliage, and waxy fruit coatings. Fossil Myricaceae pollen extends back to the Late Cretaceous, suggesting an ancient lineage.
 
-Chromosome number for *M. pensylvanica* is 2n = 32, consistent with other diploid Myricaceae species. Polyploid forms have not been documented. The species shows moderate [[biodiversity-fungal-genetic-diversity]] across its range, with greater differentiation between northern and southern populations than between coastal and inland sites.
-
-## Morphology
-
-Northern bayberry forms a dense, rounded shrub with multiple stems arising from the base. The bark is smooth and grayish-brown on young stems, becoming rough and fissured with age. Branches are stout and spreading, forming colonies through root suckering.
-
-Leaves are simple, alternate, 3–8 cm long and 1.5–3 cm wide. They are obovate to oblanceolate with a crenate or serrate margin. The upper surface is dark green and glossy; the lower surface is paler with scattered resinous dots. Foliage is semi-evergreen, retaining some leaves through mild winters in southern parts of the range. When crushed, leaves release a distinctive spicy, balsamic fragrance due to volatile terpenoids including myrcene, limonene, and α-pinene.
-
-Stem anatomy shows prominent lenticels and a distinctive pith. Wood is light, soft, and pale brown with a diffuse-porous structure. Root systems are extensive and shallow-lying in sandy soils, with prominent actinorhizal nodules visible as small, coral-shaped outgrowths on fine roots. These nodules house *Frankia* actinomycete symbionts responsible for atmospheric [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]].
+Chromosome number for *M. pensylvanica* is 2n = 32, consistent with other diploid Myricaceae species. Polyploid forms have not been documented. The species shows moderate [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]].
 
 Flowers appear in April to May before or with leaf emergence. Male catkins are yellowish, 1–2.5 cm long, borne in clusters at leaf axils. Female flowers are inconspicuous, borne in short spikes. The species is wind-pollinated and dioecious. Successful fruit set requires proximity of male and female plants, typically within 3–6 m of each other. In landscape plantings, a ratio of approximately one male to six females ensures adequate pollination.
 
@@ -67,7 +59,7 @@ Northern bayberry occurs in USDA hardiness zones 3–7. It is most vigorous in z
 
 ## Cultivation
 
-Northern bayberry is widely planted as an [[hamilton-ornamental-shrub-care]] for coastal and [[permaculture-difficult-sites-plant-guide]]. It tolerates full sun to partial shade, salt spray, drought, and poor sandy soils. Once established, it requires virtually no supplemental irrigation or fertilization.
+Northern bayberry is widely planted as an [[permaculture-difficult-sites-plant-guide]]. It tolerates full sun to partial shade, salt spray, drought, and poor sandy soils. Once established, it requires virtually no supplemental irrigation or fertilization.
 
 Propagation is primarily by seed, which requires cold stratification for 60–90 days. Seeds have a hard, waxy coating that benefits from a brief sulfuric acid scarification or hot water soak before stratification. Softwood cuttings taken in summer root at moderate rates (30–50%) under mist. Semi-hardwood cuttings are less reliable.
 
@@ -83,7 +75,7 @@ The waxy fruit is consumed by at least 20 bird species, including northern flick
 
 Bayberry foliage supports caterpillars of several specialist Lepidoptera. The imperial moth (*Eacles imperialis*) and laurel sphinx (*Sphinx kalmiae*) both feed on Myricaceae foliage. Deer browsing is generally light due to the aromatic, resinous foliage.
 
-In coastal dune ecosystems, northern bayberry serves as a primary sand-stabilizing shrub. Its extensive lateral root system, supplemented by [[biological-nitrogen-fixation-agriculture]], allows it to colonize nutrient-poor foredune sands where few other woody plants establish. As bayberry colonies mature, they trap windblown sand and accumulate organic matter, raising soil nitrogen levels and creating favorable microsites for succession by species such as beach plum (*Prunus maritima*) and eastern red cedar (*[[juniperus-virginiana]]*). This nurse-plant function has been documented extensively along the mid-Atlantic barrier island systems.
+In coastal dune ecosystems, northern bayberry serves as a primary sand-stabilizing shrub. Its extensive lateral root system, supplemented by [[juniperus-virginiana]]*). This nurse-plant function has been documented extensively along the mid-Atlantic barrier island systems.
 
 Actinorhizal nodules on bayberry roots can fix an estimated 5–15 kg N/ha/year. This nitrogen input is significant in nutrient-limited dune and barrens ecosystems, where total soil nitrogen may be below 0.05%. The Frankia strains associated with Myricaceae are cross-infective to some degree with other actinorhizal hosts including Alnus and Hippophae, though specificity patterns vary geographically.
 

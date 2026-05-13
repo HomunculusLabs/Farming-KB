@@ -27,28 +27,12 @@ Mycorrhizae (literally "fungus-roots") are mutualistic associations in
 which neither partner can thrive without the other. In the association:
 
 - **The fungal partner** extracts scarce inorganic nutrients (magnesium,
-  calcium, phosphorus, [[dynamic-accumulator-plants-trace-minerals]]) from soil and rock, and transfers
-  them to the plant
-- **The plant partner** provides carbohydrates (sugars) produced through
-  photosynthesis to fuel the [[singh-fungal-metabolism-pahs]]
+  calcium, phosphorus, [[singh-fungal-metabolism-pahs]]
 - **The hyphal network** vastly extends the effective root surface area,
   reaching far beyond the plant's own root system
 
 This symbiosis is so widespread that an estimated 90% of all land plant
-species form [[plants-without-mycorrhizal-associations]]. The partnership is ancient: fossil
-hyphae have been found inside the root cells of primitive land plants
-preserved 400 million years ago.
-
-## Rock Penetration Mechanism
-
-### Chemical Dissolution
-
-Rock-penetrating fungi (primarily boletes and other basidiomycetes) do not
-rely on physical force alone. They secrete organic acids — particularly
-**citric acid** and **oxalic acid** — that dissolve minerals in granite
-and other rocks. This chemical dissolution:
-
-- Releases magnesium, calcium, potassium, [[teaming-with-nutrients-micronutrients-and-trace-elements]] from
+species form [[teaming-with-nutrients-micronutrients-and-trace-elements]] from
   feldspar, mica, and other rock-forming minerals
 - Creates microscopic channels and pores in the rock
 - Weakens the structural integrity of the mineral matrix
@@ -56,35 +40,104 @@ and other rocks. This chemical dissolution:
 ### Physical Penetration
 
 Following chemical weakening, hyphae push forward at their tips using
-[[hyphal-turgor-pressure-fungal-growth]], prying apart
-mineral particles and extending deeper into the rock matrix. As described
-by [[nicholas-money]], the hyphae "push forward at their tips and pry apart
+[[nicholas-money]], the hyphae "push forward at their tips and pry apart
 particles in the rock." The combined chemical and physical assault creates
 an expanding network of tunnels through solid stone.
 
 ### Evidence from Granite Samples
 
-[[fungal-microscopic-examination-mounting-media-techniques]] of alkali feldspar samples has revealed tubes
-perforating the rock, with intact hyphae visible inside tunnels with black
-interiors — demonstrating active tunneling through crystalline rock.
-
-## Role in Soil Formation
-
-### Weathering Acceleration
-
-Rock-penetrating fungi accelerate geological weathering through multiple
-mechanisms:
-
-1. **Direct [[dighton-fungal-rock-weathering-mineral-dissolution]]** via organic acid secretion
+[[dighton-fungal-rock-weathering-mineral-dissolution]]** via organic acid secretion
 2. **Physical disaggregation** through turgor-driven penetration
 3. **Water pathway creation** — fungal tunnels allow water to percolate
-   deeper into rock, reaching previously inaccessible [[fungal-community-profiling-rock-mineral-surfaces-gadd]]
-4. **Ice wedging** — water in fungal channels freezes and expands,
-   further fracturing the rock
-5. **[[hamilton-composting-and-organic-matter-management]] incorporation** — [[bioremediation-fungal-biomass-biosorbent-material]] and exudates become
+   deeper into rock, reaching previously inaccessible [[hamilton-composting-and-organic-matter-management]] incorporation** — [[bioremediation-fungal-biomass-biosorbent-material]] and exudates become
    components of the developing soil
 
 ### From Rock to Soil
 
 The progression from bare rock to fertile soil involves cyanobacteria and
 lichens creating thin biological crusts, mycorrhizal fungi penetrating rock
+
+## Overview
+
+Mycorrhizal Fungi Rock Penetration Soil Formation represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish mycorrhizal fungi rock penetration soil formation
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving mycorrhizal extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Mycorrhizal Fungi Rock Penetration Soil Formation finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for mycorrhizal fungi rock penetration soil formation. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+mycorrhizal fungi rock penetration soil formation and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Mycorrhizal Fungi Rock Penetration Soil Formation has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of mycorrhizal fungi rock penetration soil formation into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[dighton-leaf-litter-patch-effects-mycorrhizal-community]]
+- [[endobacteria-arbuscular-mycorrhizal-fungi]]
+- [[fukuoka-sowing-pine-forest-collapse-and-mycorrhizal-cascade]]
+- [[mycorrhizal-fungi-biome-surveys]]
+- [[stamets-mycorrhizal-mushrooms-forest-ecology-cultivation-challenges]]

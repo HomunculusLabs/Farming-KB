@@ -25,51 +25,7 @@ sources:
 - **Scientific name:** Gynostemma pentaphyllum (Thunb.) Makino
 - **Family:** Cucurbitaceae | **Order:** Cucurbitales
 - **Designation:** "Southern ginseng" — gypenosides structurally overlap with ginsenosides
-- **Primary use:** Adaptogenic tonic; broad-spectrum [[query-how-do-i-build-a-medicinal-herb-drying-rack-and-optimize-drying-conditions]]
-- **Key feature:** Broadest range of saponins (gypenosides 1–82) of any known plant
-- **Forms:** Dried tea, capsules, tinctures, standardized extracts (≥10% gypenosides)
-
-## Taxonomy
-| Rank | Classification |
-|------|---------------|
-| Kingdom | Plantae |
-| Clade | Tracheophytes → Eudicots → Rosids |
-| Order | Cucurbitales |
-| Family | **Cucurbitaceae** |
-| Genus | *Gynostemma* |
-| Species | *G. pentaphyllum* |
-
-- Described by Thunberg (1784); placed in *Gynostemma* by Makino (1902)
-
-## Common Names
-| Name | Language | Notes |
-|------|----------|-------|
-| 绞股蓝 (jiǎogǔlán) | Mandarin | Most widely used Chinese name |
-| 仙草 (xiāncǎo) | Mandarin | "Immortality herb" |
-| 南方人参 | Mandarin | "Southern ginseng" |
-| 甘茶蔓 (amachazuru) | Japanese | "Sweet tea vine" |
-| Jiaogulan | English | Standard English name |
-
-## Description
-- **Habit:** Dioecious climbing vine (liana); perennial subtropical, annual temperate
-- **Stem:** Slender, branching, 2–8 m; tendrils at leaf axils
-- **Leaves:** Palmately compound, 5 leaflets (4–10 cm × 2–4 cm), serrate margins
-- **Flowers/Fruit:** Small greenish-white dioecious flowers; globose berry ~6 mm
-- **Roots:** Fibrous, shallow; **Habitat:** Forest margins, thickets, 300–3200 m a.s.l.
-- **Native range:** Southern China, N. Vietnam, Korea, Japan | **Hardiness:** USDA 7–10
-
-## Phytochemistry
-### Gypenosides (Dammarane-Type Triterpenoid Saponins)
-- **82 identified gypenosides** (GP I–GP LXXXII)
-- GP III, IV, VIII, XII identical to ginsenosides Rb₁, Rb₂, Rd, F₂
-- Core aglycones: protopanaxadiol and protopanaxatriol types
-
-### Additional Constituents
-| Class | Examples | Class | Examples |
-|-------|----------|-------|----------|
-| Flavonoids | [[kaempferol]], rutin | [[dynamic-accumulator-plants-trace-minerals]] | Se, Zn, Fe, Mg, Ca |
-| Polysaccharides | GPP (immunomodulatory) | Amino acids | 18 identified (Gln, Asp, Leu…) |
-| Organic acids | Gynostemmic acid | Sterols | β-Sitosterol, [[panax-ginseng]] — Ginsenoside structural analogues
+- **Primary use:** Adaptogenic tonic; broad-spectrum [[kaempferol]], rutin | [[panax-ginseng]] — Ginsenoside structural analogues
 - adaptogens — Stress-modulating herb category
 - cucurbitaceae — Botanical family
 - [[gottlieb-peyote-traditional-use-and-history]] — Historical clinical context
@@ -91,3 +47,80 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
+
+## Overview
+
+Gynostemma Pentaphyllum represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish gynostemma pentaphyllum
+from related concepts in [[permaculture]] and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving gynostemma extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Gynostemma Pentaphyllum finds practical application in multiple design contexts.
+[[permaculture-principles]] guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for gynostemma pentaphyllum. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+gynostemma pentaphyllum and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Gynostemma Pentaphyllum has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of gynostemma pentaphyllum into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.

@@ -7,7 +7,7 @@ tags: [permaculture, water-storage, earthworks, keyline, dam, irrigation, yeoman
 
 ## Description
 
-Keypoint dams are water storage structures located in the valleys of secondary streams in humid landscapes, positioned at the critical transition point where a stream profile changes from convex to concave. This geomorphic feature is called the "keypoint" in P.A. Yeomans' Keyline design system. Keypoint dams are the highest practical construction point in the hill profile for irrigation storage, and their placement is fundamental to the Keyline approach of whole-farm water management.
+Keypoint dams are water storage structures located in the valleys of secondary streams in humid landscapes, positioned at the critical transition point where a stream profile changes from convex to concave. This geomorphic feature is called the "keypoint" in P.A. Yeomans' Keyline design system. Keypoint dams are the highest practical construction point in the hill profile for irrigation storage, and their placement is fundamental to the Keyline approach of whole-farm [[water-management]].
 
 ## Classification
 
@@ -84,12 +84,6 @@ all influence the optimal approach to implementation.
 
 ## See Also
 
-- [[keypoint-dam-water-storage-earthworks]]
-
-## See Also
-
 - [[keyline-design]]
-- [[p-a-yeomans]]
 - [[swale]]
-- [[gley-pond-sealing-mollison]]
 - [[saddle-dam-mollison]]

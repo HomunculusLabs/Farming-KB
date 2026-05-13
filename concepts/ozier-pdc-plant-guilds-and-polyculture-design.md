@@ -7,11 +7,9 @@ updated: 2026-04-25
 sources: [~/wiki/raw/papers/william-ozier-williams-pdc_-a-permaculture-design-cours.md]
 type: concept
 ---
-# Plant Guilds and Polyculture Design In nature plants do not grow in isolated rows; they grow in clusters called plant communities. In a plant community various plants grow together in symbiotic and mutually beneficial relationships. In permaculture, designed plant communities appropriate for a specific site are called guilds. Creating plant guilds is also referred to as [[permaculture-principles]]
-simultaneously: [[graywater-systems]], shade
+# Plant Guilds and Polyculture Design In nature plants do not grow in isolated rows; they grow in clusters called plant communities. In a plant community various plants grow together in symbiotic and mutually beneficial relationships. In permaculture, designed plant communities appropriate for a specific site are called guilds. Creating plant guilds is also referred to as [[graywater-systems]], shade
 screens, windbreaks, and engineered microclimates may all be part of a
-guild. Like all permaculture elements, [[apple-guild-design-guide]] is a whole systems
-[[hemenway-garden-design-process-observation-and-visioning]] limited only by the imagination and knowledge of the
+guild. Like all permaculture elements, [[hemenway-garden-design-process-observation-and-visioning]] limited only by the imagination and knowledge of the
 designer.
 
 ## The Design Process
@@ -58,17 +56,10 @@ containers, on roofs, or in more complex food production systems such as
 hydroponics, aeroponics, or aquaponics. All of these strategies should be
 taken full advantage of when appropriate in every design.
 
-[[permaculture-design]] will support a wide variety of volunteer
-species alongside intentionally planted guilds.
+[[garden-guilds-and-polyculture-design]]
 
-## See Also
-
-- [[garden-guilds-and-polyculture-design]]
-
-- [[ozier-pdc-maslows-hierarchy-sustainable-design]]
 - [[ozier-pdc-stewardship-mandala-community-organization]]
 
-- [[ozier-pdc-hydro-cycle-and-watershed-management]] for water in guilds
 - [[ozier-pdc-composting-and-nutrient-cycles]] for feeding guild systems
 ## Practical Considerations
 

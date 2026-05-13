@@ -4,13 +4,12 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [season-extension, construction, gardening, permaculture, sustainability]
-sources:
-  - "raw/papers/coleman-new-organic-grower.md"
+sources: []
 ---
 
 # Grow Tunnel and Hoop House
 
-Grow tunnels and hoop houses are simple, affordable structures that [[query-how-to-protect-plants-from-frost-and-extend-the-growing-season]] season by protecting plants from cold, wind, and pests. They range from small, temporary low tunnels covering individual rows to large, semi-permanent high tunnels (hoop houses) that a person can walk inside. All use a curved frame covered with polyethylene film or other material to create a protected microclimate.
+Grow tunnels and hoop houses are simple, affordable structures that extend the growing season by protecting plants from cold, wind, and pests. They range from small, temporary low tunnels covering individual rows to large, semi-permanent high tunnels (hoop houses) that a person can walk inside. All use a curved frame covered with polyethylene film or other material to create a protected microclimate.
 
 ## Types of Protected Structures
 
@@ -39,7 +38,7 @@ Larger, walk-in structures:
 - **Anchoring:** Posts driven into the ground (ground posts), or baseboards anchored to a foundation
 - **Cost:** $500-5,000+ depending on size and materials
 - **Season extension:** 6-12 weeks in spring and fall; enables year-round growing in mild climates
-- **Best for:** Tomatoes, peppers, cucumbers, winter greens, [[coleman-sowing-seedling-production]], season extension for a wide range of crops
+- **Best for:** Tomatoes, peppers, cucumbers, winter greens, seedling production, season extension for a wide range of crops
 
 ### Caterpillar Tunnels
 
@@ -47,12 +46,12 @@ A hybrid between low and high tunnels:
 
 - **Height:** 5-7 feet at peak
 - **Width:** 10-14 feet
-- **Frame:** Wire hoops or PVC with a metal ridge pipe running along the peak for [[mycelium-running-rhizomorphic-mycelium-structural-strength-erosion-control]]
+- **Frame:** Wire hoops or PVC with a metal ridge pipe running along the peak for structural strength
 - **Cover:** Polyethylene film or shade cloth
 - **Anchoring:** Rope or wire over the top, anchored to ground stakes at each end (like a tent guy line)
 - **Cost:** $200-800 for a 50-100 foot tunnel
 - **Advantages:** Inexpensive, easy to move or reposition, no end walls needed (open ends for ventilation)
-- **Best for:** Commercial [[coleman-french-historical-winter-vegetable-production]], berries, season extension for row crops
+- **Best for:** Commercial vegetable production, berries, season extension for row crops
 
 ## Low Tunnel Construction
 
@@ -72,7 +71,7 @@ A hybrid between low and high tunnels:
 
 ### Low Tunnel Tips
 
-- **Row cover weights:** 0.5 oz provides light [[mollison-frost-protection-and-thermal-belt-design]] insect exclusion. 1.0-2.0 oz provides heavier frost protection (down to 26-28°F).
+- **Row cover weights:** 0.5 oz provides light frost protection and insect exclusion. 1.0-2.0 oz provides heavier frost protection (down to 26-28°F).
 - **Slugs:** The humid environment under low tunnels can increase slug activity — use organic slug controls.
 - **Heat management:** On sunny days, temperatures under poly film low tunnels can exceed 100°F quickly. Ventilate or switch to shade cloth in summer.
 
@@ -142,9 +141,10 @@ Adequate ventilation is critical — high tunnels can overheat rapidly on sunny 
 
 ### Fall
 
-- **September-October:** Plant cool-season greens for winter harvest
-- **October-November:** Add a second layer of row cover inside the tunnel for double protection
-- **Advantage:** Extend harvest 4-8 weeks past first frost
+## See Also
 
-### Winter
-
+- [[query-how-to-grow-reishi-mushrooms]]
+- [[query-how-to-grow-wine-cap-mushrooms]]
+- [[query-how-to-grow-rare-tropical-fruits-in-marginal-and-subtropical-climates]]
+- [[mushroom-grow-room-design]]
+- [[cervantes-indoor-grow-room-setup]]

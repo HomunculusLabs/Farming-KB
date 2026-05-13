@@ -8,54 +8,7 @@ type: concept
 
 ## Overview
 
-The behaviour of human and other social animals can be patterned to represent aspects of their society. A set of such patterns was derived from studies Mollison and his students made in Tasmania from 1969 to 1974, representing a "boat" shaped configuration that [[maps]] occupational levels (castes of status) along its long axis, with width indicating the number of people at each level. Data was sampled from some 35,000 people across several organisations including the local army, a multinational company, churches, and many small businesses.
-
-## The General Form
-
-The pattern form resembles a boat, with seldom more than seven major occupational levels even in rigorously stratified hierarchies such as the army. Arrows within the pattern represent genetic streaming—by marriage or sexual congress—between occupational levels. The hierarchical structure is divided into four major strata:
-
-### 1. Low Occupational (Resource) Area — Manual and Unskilled Urban
-
-- General dearth of material resources
-- Low social status
-- Part-time occupations
-- Remarkable preponderance of male births and survived male children (about 140 males per 100 females)
-- Large families
-- Serial polyandry is common or acceptable
-
-### 2. The Central or Most Populated Level — The "Middle Class"
-
-- Adequate resources
-- Nine-to-five jobs with some job tenure
-- "Normal" birth ratio of 104 males per 100 females
-- Mixed white collar and skilled technical workers
-- Average family sizes
-- Monogamy is an ideal, but often expressed as serial monogamy
-
-### 3. The Upper Levels
-
-- Few people relative to lower levels
-- Extensive resources
-- Flexible and often self-set working times
-- High proportion of female children (about 100 females to 70 males or less)
-- Urban professionals or managers typify the group
-- Small families
-- Effective polygyny via concubines or mistresses
-
-### 4. Very High Levels
-
-- Executive directors and landed nobility
-- Variable family sizes but preponderance of female children (as per upper levels)
-- Habit of lateral intermarriage for economic alliances
-- Facilitated by exclusive schools and resorts
-
-## Genetic Turnover and Diffusion
-
-The imbalance of sex ratios across these strata ensures genetic turnover or diffusion between classes—a streaming of genetic materials between levels over generations. This natural mechanism creates a flow of genetic material from resource-rich strata (with excess females) to resource-poor strata (with excess males), maintaining genetic diversity across the social structure.
-
-## Pattern Significance
-
-This social hierarchy pattern demonstrates several key principles relevant to [[permaculture]] and systems thinking:
+The behaviour of human and other social animals can be patterned to represent aspects of their society. A set of such patterns was derived from studies Mollison and his students made in Tasmania from 1969 to 1974, representing a "boat" shaped configuration that [[permaculture]] and systems thinking:
 
 - **Self-regulation**: Social structures exhibit homeostatic mechanisms (sex ratio balancing) that maintain the overall system
 - **Resource gradients**: Status and resources follow a gradient pattern that affects biological outcomes (sex ratios, family size)
@@ -83,8 +36,91 @@ The pattern reveals that human social organisation follows natural principles of
 - Understanding improves capacity for sustainable resource management
 
 ## Related Concepts
-- [[social-hierarchy-patterns-and-arts-in-permaculture]]
 - [[social-hierarchy-and-pattern-structures]]
-- [[mckenna-shaman-centeredness-and-peripheral-social-role]]
 - [[emcdda-hallucinogenic-mushroom-polydrug-use-social-context]]
 - [[permaculture-social-design]]
+
+## Overview
+
+Patterns Of Social Hierarchy represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish patterns of social hierarchy
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving patterns extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Patterns Of Social Hierarchy finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for patterns of social hierarchy. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+patterns of social hierarchy and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Patterns Of Social Hierarchy has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of patterns of social hierarchy into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[branching-patterns-and-stream-orders]]
+- [[desert-precipitation-patterns-and-opportunistic-ecology]]
+- [[patterns-in-nature]]
+- [[tessellation-annidation-patterns]]
+- [[von-karman-trails-and-flow-patterns]]

@@ -11,12 +11,7 @@ sources:
 
 # European Civilization at a Standstill
 
-In *The Road Back to Nature*, [[fukuoka-culture-of-clothing-and-meat]] that developed alongside European farming has become self-destructive
-- Despite their culinary traditions, Europeans are increasingly aware that their diet is problematic
-
-## Flowers and Beauty
-
-Fukuoka reflects on European [[weil-cultural-attitudes-toward-altered-states]] beauty:
+In *The Road Back to Nature*, [[weil-cultural-attitudes-toward-altered-states]] beauty:
 
 - European gardens and floral culture represent a desire to control and arrange nature aesthetically
 - The geometric gardens of Europe contrast with the informal beauty of Japanese gardens
@@ -38,34 +33,9 @@ Fukuoka envisions what a "green peace" might look like:
 
 - Not a political peace treaty but a fundamental reconciliation with nature
 - A peace that comes from living in harmony with natural processes
-- [[fukuoka-change-come-over-westerners]] can either civilization find a new direction
-
-## The Standstill
-
-The standstill is not stagnation but exhaustion:
-
-- European civilization has achieved its logical conclusion in material prosperity and environmental destruction
-- Having reached the end of its trajectory, it has no further direction within its current paradigm
-- The [[fukuoka-european-travels-natural-farming]], [[fukuoka-machine-culture-doomed]], [[fukuoka-european-travels-natural-farming]], [[fukuoka-natural-farming-new-age]], [[fukuoka-road-back-to-nature-overview]], [[psychedelic-plants-and-civilization]], [[fukuoka-european-travels-natural-farming]], [[fukuoka-european-travels-natural-farming]], [[fukuoka-nelissen-farm]] A Greek fellow named Panos and a young Italian woman named Miriam, both of whom had stayed and worked on his farm, offered to serve as guides.
+- [[fukuoka-european-travels-natural-farming]], [[fukuoka-european-travels-natural-farming]], [[fukuoka-road-back-to-nature-overview]], [[fukuoka-european-travels-natural-farming]], [[fukuoka-nelissen-farm]] A Greek fellow named Panos and a young Italian woman named Miriam, both of whom had stayed and worked on his farm, offered to serve as guides.
 ## Merged: Fukuoka's European Tour Reflections
-In 1983, Fukuoka traveled to Europe for fifty days, invited to lecture at several summer camps. He was guided by Panos, a Greek man, and Miriam, a young Italian woman, both of whom had stayed and worked on his farm. During his European lectures, Fukuoka often distributed [[fukuoka-road-back-to-nature-overview]] - [[fukuoka-natural-foods-movement-america]] - [[fukuoka-critique-western-dietetics-nutritional-science]]
-## Practical Considerations
-
-When working with Fukuoka — European Civilization at a Standstill, several practical factors should be
-carefully considered to achieve optimal results. These include
-the specific conditions of the implementation context, available
-resources, timing requirements, and the interactions between this
-topic and other elements of the broader system. A holistic view
-that considers these interconnections produces better outcomes.
-
-Environmental conditions such as temperature, moisture, and
-seasonal patterns significantly influence results. Monitoring these
-variables and adapting practices accordingly is essential for success.
-The most effective practitioners develop keen observation skills and
-respond flexibly to changing conditions rather than following rigid
-protocols regardless of circumstances or local variation.
-
-[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
+In 1983, Fukuoka traveled to Europe for fifty days, invited to lecture at several summer camps. He was guided by Panos, a Greek man, and Miriam, a young Italian woman, both of whom had stayed and worked on his farm. During his European lectures, Fukuoka often distributed [[fukuoka-natural-foods-movement-america]] - [[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -111,8 +81,6 @@ through generations to modern scientific approaches, the evolution continues
 to inform current best practices and research directions.
 
 ## See Also
-- [[doc]]
 - [[dom]]
-- [[fukuoka-textdoc-dharma-wheel-civilization-collapse]]
 - [[fukuoka-desertification-agricultural-civilization-collapse]]
 - [[fukuoka-textdoc-centrifugal-centripetal-forces-civilization]]

@@ -12,9 +12,7 @@ type: concept
 
 ## Introduction
 
-"The Psychedelic Experience" by [[ralph-metzner]], and
-[[powell-entheogens-as-epistemological-tools]]
-- [[turner-dmt-hyperspace-and-smoked-tryptamines]]
+"The Psychedelic Experience" by [[powell-entheogens-as-epistemological-tools]]
 - [[golden-guide-ayahuasca-and-caapi]]
 ## Background and Context
 

@@ -11,31 +11,10 @@ sources:
 type: comparison
 ---
 
-# [[seed-starting-methods-comparison]] Indoors
-
-## Overview
-Cannabis can be propagated both sexually through seeds and asexually
-through cloning (rooted cuttings), and indoor growers have developed
-sophisticated methods for each approach. Cloning produces genetically
-identical copies of a known mother plant, guaranteeing that every crop
-will express the same traits. Starting from seed introduces genetic
-variation through sexual reproduction, offering the possibility of
-discovering unique phenotypes but also the risk of unwanted traits. The
-choice between cloning and seed starting shapes every aspect of a
-cannabis grow, from plant uniformity and predictability to genetic
-diversity and long-term breeding potential.
-
-## Cannabis Cloning
-[[seed-starting-indoors]]
+# [[seed-starting-indoors]]
 Starting cannabis from seed involves germinating seeds and raising
 seedlings through the vegetative stage before transitioning to
-flowering. Based on [[steve-solomon]]'s principles for vegetable seed
-starting, the process emphasizes controlling germination conditions
-(warmth, moisture, and darkness), providing appropriate growing media,
-and managing the critical early growth period when seedlings are most
-vulnerable. For cannabis specifically, seed starting allows growers to
-access new genetics, create their own breeding programs, and avoid the
-[[hamilton-pest-and-disease-control-organic]] transmission risks associated with cloning.
+flowering. Based on [[hamilton-pest-and-disease-control-organic]] transmission risks associated with cloning.
 
 The seed starting process for cannabis follows the general principles
 outlined for vegetable transplants: seeds are germinated in a warm,
@@ -69,17 +48,7 @@ cultivation.
 | Genetic Diversity | None (monoculture of single genotype) | High (sexual recombination) |
 | Pest/Disease Risk | Higher (transmitted from mother) | Lower (seeds are pathogen-free) |
 | Breeding Potential | None (sterile copies) | Full (sexual reproduction enables breeding) |
-| [[vic-high-cannabis-phenotype-selection-criteria]] | Not applicable | Possible (select best from multiple seedlings) |
-| Space Efficiency | Requires mother plant space | No mother plant needed |
-| Cost Per Plant | Low after initial setup | Moderate ($5 to $15+ per seed for quality genetics) |
-| Best For | Consistent production, known genetics, commercial grows | Breeding, genetic exploration, avoiding clone pests |
-| Drawbacks | Genetic stagnation, disease transmission, mother plant overhead | Variation, longer timeline, sex identification needed |
-
-## When to Choose Cloning
-Cloning is the right choice for growers who have identified a genotype
-that performs exceptionally well in their specific environment and want
-to reproduce that performance reliably across multiple harvests.
-Commercial growers and anyone running a [[cervantes-perpetual-harvest-cycle]] system rely on
+| [[cervantes-perpetual-harvest-cycle]] system rely on
 cloning because it provides predictable, uniform crops that can be
 managed on a fixed schedule. Cloning also allows growers to skip the
 seedling phase entirely, reducing total crop time by two to three weeks

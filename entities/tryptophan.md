@@ -10,72 +10,18 @@ sources: [/Users/t3rpz/wiki/raw/papers/magic-mushrooms-around-the-world-by-joche
 
 # Tryptophan
 
-**Tryptophan** (abbreviated Trp or W) is an essential α-amino acid and the biochemical precursor to all [[serotonin]], the hormone [[psilocybin]], dimethyltryptamine|DMT, and [[indole]] side chain is responsible for the UV absorbance properties of proteins (λ_max ≈ 280 nm), making it essential for protein quantification assays such as the Bradford and Warburg-Christian methods. The indole ring is planar, moderately hydrophobic, and capable of participating in hydrogen bonding and π-stacking interactions.
-
-## Dietary Sources
-
-Tryptophan is found in a wide variety of protein-containing foods:
-
-- **High sources (>250 mg/100g):** Turkey, chicken, pork, beef, fish (salmon, tuna, cod), eggs, cheese, pumpkin seeds, soybeans, tofu, peanuts
-- **Moderate sources (100-250 mg/100g):** Milk, yogurt, oats, bananas, dates, nuts (almonds, walnuts), chickpeas, lentils, beans
-- **Low sources (<100 mg/100g):** Most fruits and vegetables, grains (wheat, rice)
-
-The recommended daily intake for adults is approximately 4 mg per kg of body weight (about 250-340 mg/day for a 70 kg adult). Tryptophan competes with other large neutral amino acids (LNAA) — leucine, isoleucine, valine, tyrosine, and phenylalanine — for transport across the blood-brain barrier via the L-type amino acid transporter. The tryptophan-to-LNAA ratio in the blood is a key determinant of brain serotonin synthesis rates.
-
-## Biosynthesis and Metabolism
-
-### Biosynthesis in Plants and Microorganisms
-
-Plants, fungi, and bacteria synthesize tryptophan de novo via the **shikimate pathway**:
-
-1. **Shikimate** is synthesized from erythrose-4-phosphate and phosphoenolpyruvate through seven enzymatic steps
-2. **Chorismate** is formed from shikimate-3-phosphate
-3. Chorismate is converted to **anthranilate** by anthranilate synthase
-4. Anthranilate undergoes phosphoribosyl transfer and a series of rearrangements to form **indole-3-glycerol phosphate**
-5. Tryptophan synthase catalyzes the final condensation with serine to yield tryptophan
-
-This pathway is absent in animals, which is why tryptophan is an essential amino acid for humans. The shikimate pathway is also the biosynthetic origin of many plant [[antifungal-secondary-metabolites-coprophilous-fungi]] and is the target of the herbicide glyphosate.
+**Tryptophan** (abbreviated Trp or W) is an essential α-amino acid and the biochemical precursor to all [[psilocybin]], dimethyltryptamine|DMT, and [[antifungal-secondary-metabolites-coprophilous-fungi]] and is the target of the herbicide glyphosate.
 
 ### Mammalian Metabolism
 
 In mammals, dietary tryptophan follows several metabolic fates:
 
 1. **Protein synthesis:** ~1-2% of dietary tryptophan is incorporated into proteins
-2. **Serotonin pathway:** Tryptophan → 5-hydroxytryptophan (TPH) → [[melatonin-entity-tihkal]] (AANAT + ASMT)
-3. **Kynurenine pathway:** ~95% of tryptophan is metabolized via this route, primarily in the liver:
-   - Tryptophan → N-formylkynurenine (IDO or TDO) → kynurenine → kynurenic acid, quinolinic acid, and ultimately **nicotinamide adenine dinucleotide (NAD⁺)**
-4. **Tryptamine pathway:** Tryptophan → [[serotonin]] → [[tryptamine-consciousness-theory]] → 4-hydroxytryptamine → [[baeocystin]] / [[aeruginascin]]
-
-### Tryptamine Pathway (Mammals/Plants)
-tryptophan → [[psilocybe-aeruginosa]], the tryptophan-derived biosynthetic pathway for [[indole]] ring and ethylamine side chain:
-
-1. tryptophan → [[tryptamine-consciousness-theory]] → 4-hydroxytryptamine (monooxygenase, PsiH)
+2. **Serotonin pathway:** Tryptophan → 5-hydroxytryptophan (TPH) → [[serotonin]] → [[baeocystin]] / [[psilocybe-aeruginosa]], the tryptophan-derived biosynthetic pathway for [[tryptamine-consciousness-theory]] → 4-hydroxytryptamine (monooxygenase, PsiH)
 3. 4-Hydroxytryptamine → 4-hydroxytryptamine monophosphate (kinase, PsiK)
-4. 4-Hydroxytryptamine monophosphate → [[norbaeocystin]] → [[baeocystin]] → [[psilocybe-cubensis-potency-variation-by-flush]] by researchers including Dirk Hoffmeister and colleagues. The enzymes PsiH (a cytochrome P450 monooxygenase), PsiK (a 4-hydroxytryptamine kinase), and PsiM (a SAM-dependent methyltransferase) constitute the core biosynthetic machinery.
-
-### Kynurenine Pathway: The Major Metabolic Fate
-
-The kynurenine pathway accounts for approximately 95% of tryptophan catabolism in mammals:
-
-- **Tryptophan 2,3-dioxygenase (TDO):** Liver-specific enzyme activated by tryptophan and glucocorticoids
-- **Indoleamine 2,3-dioxygenase (IDO):** Extraphepatic enzyme induced by interferon-gamma and other inflammatory cytokines
-
-The kynurenine pathway is of increasing clinical interest because:
-- **Quinolinic acid** is an NMDA receptor agonist and neuroexcitotoxin implicated in Huntington's disease, Alzheimer's disease, and schizophrenia
-- **Kynurenic acid** is neuroprotective (NMDA antagonist) but may contribute to cognitive dysfunction in schizophrenia at elevated levels
-- **3-Hydroxykynurenine** is a pro-oxidant that generates reactive oxygen species
-- The IDO/TDO → kynurenine axis is a mechanism of immune evasion in cancer and a target for immunotherapy
-
-This pathway represents a significant metabolic "sink" for tryptophan that can reduce the substrate available for serotonin synthesis, particularly under inflammatory conditions when IDO is upregulated.
-
-## Historical Context
-
-Tryptophan was first isolated in 1901 by Frederick Hopkins from casein protein. In 1902, Hopkins and Sydney Cole demonstrated that tryptophan was essential for the growth of mice, making it one of the earliest amino acids to be characterized. The discovery of tryptophan's role as a precursor to [[indole]] — the bicyclic aromatic ring system comprising tryptophan's side chain
-- [[serotonin]] — 5-hydroxytryptamine; the primary mammalian neurotransmitter derived from tryptophan
+4. 4-Hydroxytryptamine monophosphate → [[baeocystin]] → [[indole]] — the bicyclic aromatic ring system comprising tryptophan's side chain
 - [[dimethyltryptamine]] — N,N-dimethyltryptamine; endogenous psychedelic formed from tryptophan via tryptamine
-- [[baeocystin]] — N-desmethylpsilocybin; mushroom alkaloid in the tryptophan-derived pathway
 - [[tryptamine-consciousness-theory]] — direct decarboxylation product and parent compound class
-- [[psilocybin]] — mushroom psychedelic alkaloid biosynthesized from tryptophan
 - [[baeocystin]] — intermediate in fungal tryptophan-to-psilocybin biosynthesis
 
 ## Practical Applications
@@ -89,7 +35,89 @@ Tryptophan was first isolated in 1901 by Frederick Hopkins from casein protein. 
 - Impact extends to related fields and interdisciplinary applications.
 
 ## See Also
-- [[tryptophan-biosynthesis-from-chorismate]]
 - [[tryptophan-decarboxylase-inhibition-and-regulation]]
+- [[tryptophan-large-neutral-amino-acid-competition-blood-brain-barrier]]
+
+## Overview
+
+Tryptophan represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish tryptophan
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving tryptophan extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Tryptophan finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for tryptophan. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+tryptophan and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Tryptophan has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of tryptophan into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[tryptophan-biosynthesis-from-chorismate]]
 - [[tryptophan-decarboxylase]]
+- [[tryptophan-decarboxylase-inhibition-and-regulation]]
 - [[tryptophan-large-neutral-amino-acid-competition-blood-brain-barrier]]

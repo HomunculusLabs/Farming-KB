@@ -18,29 +18,12 @@ sources:
 Cladonia alpestris is a member of the Cladoniaceae, a family of lichenized fungi
 in the Ascomycota. The species has been subject to taxonomic revision and is
 sometimes treated as Cladonia stellaris. It is circumpolar in distribution,
-forming extensive ground cover in [[fungal-diversity-boreal-forests-taiga]], arctic tundra, and subarctic
-heathlands. The species is a major component of the ground layer vegetation
-across vast areas of northern [[psilocybin-north-america-pacific-northwest]], Europe, and Asia, where it can
+forming extensive ground cover in [[psilocybin-north-america-pacific-northwest]], Europe, and Asia, where it can
 dominate the forest floor for hundreds of square kilometers.
 
 ## Lichen Structure and Nutrient Cycling
 
-In the classification of lichen growth forms, Cladonia represents a mat-forming genus (Type 3 lichens) that contributes significantly to soil surface ecology. Unlike some other lichen types with more structured internal differentiation, Cladonia has a more diffuse association with the substrate, with elements distributed throughout the thallus rather than concentrated in specific layers. This diffuse organization may influence [[arbuscule-isolation-and-nutrient-exchange-mechanisms]] with the substrate and sensitivity to environmental conditions.
-
-### Organic Matter Contribution
-
-Crittenden (1991) documented that the development of lichen crust communities on
-soil adds dead organic material containing complex forms of nutrients. This
-organic material serves as a food resource for saprotrophic fungi and bacteria,
-driving mineralization of inorganic nutrients for plant uptake. The organic
-matter from decomposing Cladonia mats combines with mineral soil components to
-form aggregates, contributing to soil structure development. Over time, the slow
-accumulation and decomposition of Cladonia material contributes to the
-development of soil organic horizons in boreal and tundra ecosystems.
-
-### Growth Rate Studies
-
-The growth rate of fruticose lichens including Cetraria spp., Cladonia spp., and Stereocaulon spp. has been measured in various environments. Cladonia stellaris (synonym of C. alpestris) showed growth rates of 62 to 99 mm under certain conditions, with annual [[dighton-fungal-biomass-production-aquatic-ecosystems]] varying considerably between sites. The relatively slow growth rates of mat-forming lichens mean that recovery from disturbance (such as fire or grazing) can take decades, making these communities particularly vulnerable to land use changes.
+In the classification of lichen growth forms, Cladonia represents a mat-forming genus (Type 3 lichens) that contributes significantly to soil surface ecology. Unlike some other lichen types with more structured internal differentiation, Cladonia has a more diffuse association with the substrate, with elements distributed throughout the thallus rather than concentrated in specific layers. This diffuse organization may influence [[dighton-fungal-biomass-production-aquatic-ecosystems]] varying considerably between sites. The relatively slow growth rates of mat-forming lichens mean that recovery from disturbance (such as fire or grazing) can take decades, making these communities particularly vulnerable to land use changes.
 
 ## Allelopathic Effects on Trees
 
@@ -72,7 +55,7 @@ Quantitative effects on white spruce:
 
 ### Phosphorus-Specific Inhibition
 
-Nitrogen content was consistently less reduced than phosphorus content across both tree species, and potassium, calcium, and magnesium plant content were not affected by the lichen mulch. This indicates that the allelopathic effect specifically targets phosphorus nutrition rather than general [[ph-and-nutrient-availability-garden-soils]] or plant water status. The phosphorus-specific nature of the inhibition suggests that lichen compounds may interfere with phosphorus uptake mechanisms or [[query-how-does-phosphorus-availability-change-across-soil-ph-levels]] in the rhizosphere.
+Nitrogen content was consistently less reduced than phosphorus content across both tree species, and potassium, calcium, and magnesium plant content were not affected by the lichen mulch. This indicates that the allelopathic effect specifically targets phosphorus nutrition rather than general [[query-how-does-phosphorus-availability-change-across-soil-ph-levels]] in the rhizosphere.
 
 ### Comparison with Cladonia rangiferina
 
@@ -91,11 +74,7 @@ bacteria. Defensive chemicals produced by lichens included norstictic, stictic,
 
 ## See Also
 
-- [[cladonia-arbuscula]]
 - [[cladonia-cristatella]]
-- [[cladonia-deformis]]
 - [[cladonia-deglacialis]]
-- [[cladonia-furcata]]
 - [[cladonia-portentosa]]
-- [[cladonia-pyxidata]]
 - [[cladonia-squamosa]]

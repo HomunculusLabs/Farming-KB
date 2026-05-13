@@ -10,7 +10,7 @@ aliases: [humus formation, cation exchange capacity, nutrient exchange soil, com
 
 ## Overview
 
-Humus is the end product of compost decomposition and the most reliable plant
+[[humus]] is the end product of compost decomposition and the most reliable plant
 food available in a biointensive system. Understanding how humus forms, stores
 nutrients, and exchanges them with plant roots is essential to sustainable soil
 management.
@@ -21,7 +21,7 @@ Compost is created from the decomposition and recombination of various forms
 of plant and animal life — leaves, grass, wood, garbage, natural-fiber clothes,
 hair, and bones. These materials are organic matter, which makes up only a
 small fraction of total soil volume (generally 1% to 8%), yet is absolutely
-essential to soil life and fertility.
+essential to [[soil-life]] and fertility.
 
 Organic matter includes dead plant and animal residues in all stages of
 breakdown or decay, inseparable from the living microorganisms that decompose
@@ -135,8 +135,6 @@ participates in strip-mining these elements from the soil instead.
 
 ## See Also
 
-- [[jeavons-humus-and-soil-microbiology]]
 - [[jeavons-compost-functions-soil-building]]
-- [[jeavons-composting-methods]]
 - [[jeavons-root-systems-below-ground-composting]]
 - [[jeavons-soil-fertility]]

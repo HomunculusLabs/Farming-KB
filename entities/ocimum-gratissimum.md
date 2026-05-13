@@ -27,9 +27,7 @@ southern Asia, and the Bismarck Archipelago, but has naturalized widely across t
 and subtropical regions.
 
 The species is distinguished by its intensely clove-scented leaves, attributable to
-high concentrations of eugenol in its [[permaculture-designers-manual-essential-oil-plants]]. It holds a prominent position in
-traditional medicine across West Africa, where it is used to treat fevers, respiratory
-infections, and [[blesching-cannabis-gastrointestinal-disorders]].
+high concentrations of eugenol in its [[blesching-cannabis-gastrointestinal-disorders]].
 
 ## Taxonomy and Morphology
 
@@ -52,7 +50,7 @@ approximately 6 mm long, and white or slightly tinged with purple.
 ## Distribution and Habitat
 
 O. gratissimum is pantropical in distribution, occurring throughout sub-Saharan
-Africa, South and [[psilocybe-southeast-asia-pacific]], Oceania, and tropical [[guzman-psilocybin-mushrooms-south-america]]. It thrives
+Africa, South and [[guzman-psilocybin-mushrooms-south-america]]. It thrives
 in a range of ecological zones from coastal savanna to forest margins.
 
 The species prefers well-drained soils with moderate fertility and responds well
@@ -76,15 +74,76 @@ linalool, and methyl eugenol. The thymol chemotype also contains significant
 γ-terpinene and p-cymene.
 
 Oil yield from fresh leaves ranges from 0.5% to 2.5% depending on chemotype,
-[[cannabis-harvest-timing-visual-cues]], and drying method. [[comparison-steam-distillation-vs-co2-extraction-for-essential-oils]] is the standard extraction
-method, with [[query-which-cannabis-training-techniques-produce-highest-yields]] obtained from flowering aerial parts.
-
-## Pharmacology and Traditional Medicine
-
-In Nigerian Yoruba medicine, a decoction of O. gratissimum leaves is taken
-orally to treat malaria fevers. Antimalarial activity has been demonstrated
-in vivo, with leaf extract showing parasite suppression comparable to chloroquine
-in murine models.
-
-Antibacterial activity has been confirmed against [[staphylococcus-aureus]],
+[[comparison-steam-distillation-vs-co2-extraction-for-essential-oils]] is the standard extraction
+method, with [[staphylococcus-aureus]],
 Escherichia coli, Pseudomonas aeruginosa, and Salmonella typhi, with the
+
+## Overview
+
+Ocimum Gratissimum represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish ocimum gratissimum
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving ocimum extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Ocimum Gratissimum finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for ocimum gratissimum. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+ocimum gratissimum and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Ocimum Gratissimum has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of ocimum gratissimum into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.

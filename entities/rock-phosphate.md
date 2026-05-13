@@ -19,9 +19,7 @@ Rock phosphate is a naturally occurring mineral source of phosphorus used as a s
 
 ## Key Facts
 
-1. **Slow-release phosphorus**: Rock phosphate releases phosphorus gradually through biological dissolution by soil microorganisms and [[mycorrhizal-fungi|mycorrhizal-fungi]], providing long-term fertility without the leaching risks of soluble phosphates.
-2. **Cadmium and uranium concern**: Rock phosphate deposits may contain cadmium or uranium as contaminants. Mollison specifically advises using only tested rock phosphate free of these heavy metals.
-3. **pH optimisation**: [[phosphorus-availability|phosphorus-availability]] from rock phosphate is maximised at pH 6.0–6.5. Acid soils should be limed and alkaline soils amended with humus to achieve this range.
+1. **Slow-release phosphorus**: Rock phosphate releases phosphorus gradually through biological dissolution by soil microorganisms and [[phosphorus-availability|phosphorus-availability]] from rock phosphate is maximised at pH 6.0–6.5. Acid soils should be limed and alkaline soils amended with humus to achieve this range.
 4. **Calcined form**: Rock phosphate that has been calcined (roasted) is more effective on acid soils in high-rainfall areas, as the heat treatment increases solubility.
 5. **High-iron clay interaction**: In soils with high-iron clays, rock phosphate requires larger initial applications as some phosphorus is initially locked up, but it slowly releases over time as the iron-phosphate bonds break down.
 6. **Superphosphate comparison**: Unlike superphosphate, rock phosphate does not contribute to calcrete formation and does not create the rapid but unsustainable nutrient flush that can promote pest problems.
@@ -41,13 +39,7 @@ Rock phosphate is a naturally occurring mineral source of phosphorus used as a s
 - **Mycorrhizal partnership**: Rock phosphate is the ideal phosphorus source for mycorrhizal systems because fungi actively dissolve it through organic acid exudates, strengthening the plant-fungal relationship.
 - **Fungal-friendly fertiliser**: Unlike superphosphate which can suppress mycorrhizal colonisation, rock phosphate encourages fungal networks by rewarding plants that invest in fungal partnerships.
 - **Mushroom substrate**: Understanding rock phosphate is relevant for formulating mushroom substrates with balanced mineral nutrition.
-- **Compost enrichment**: Rock phosphate can be added to compost piles where [[fungal-decomposition-processes|fungal-decomposition-processes]] help pre-dissolve the mineral before application.
-- **Long-term soil health**: The slow-release nature of rock phosphate supports stable soil food web development rather than the boom-bust cycles created by soluble fertilisers.
-
-## Cross-References
-
-- [[dolomite|Dolomite]] — Lime amendment to optimise pH for rock phosphate availability
-- [[molybdenum-plant-nutrient]] — Companion nutrient for legume nitrogen fixation
+- **Compost enrichment**: Rock phosphate can be added to compost piles where [[dolomite|Dolomite]] — Lime amendment to optimise pH for rock phosphate availability
 - [[calcrete|Calcrete (Caliche)]] — Soil condition worsened by superphosphate (rock phosphate is the alternative)
 
 ## Practical Applications
@@ -63,18 +55,92 @@ and long-term management goals. Integration with broader design frameworks enhan
 both resilience and productivity of the overall system.
 
 ## See Also
-- [[mycorrhizal-fungi-rock-penetration-soil-formation]]
 - [[fukuoka-ideal-rice-plant-form-high-yield-cultivation]]
-- [[query-how-does-soil-naturally-transition-from-bacterial-to-fungal-dominance]]
 - [[singh-fungal-interactions-with-heavy-metals-in-soil]]
-- [[comparison-soil-food-web-vs-arbuscular-mycorrhizal-fungi]]
-
-## Additional Context
-
-Rock Phosphate represents an important element within the broader framework of
-sustainable land management and ecological design. Integration with complementary
-techniques enhances overall system resilience and productivity.
-
-## See Also
 - [[fukuoka-ideal-rice-plant-form-dimensions-high-yield]]
 - [[query-what-is-integrated-pest-management-for-organic-mushroom-cultivation]]
+
+## Overview
+
+Rock Phosphate represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish rock phosphate
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving rock extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Rock Phosphate finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for rock phosphate. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+rock phosphate and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Rock Phosphate has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of rock phosphate into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[aact-fungal-foods-chitin-rock-dust-protozoa-nematodes-ingham]]
+- [[comparison-gypsum-vs-rock-phosphate]]
+- [[dighton-fungal-rock-weathering-mineral-dissolution]]
+- [[rock-dust-soil-remineralization]]
+- [[rock-penetrating-fungi]]

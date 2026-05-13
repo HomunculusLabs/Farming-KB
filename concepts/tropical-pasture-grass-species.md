@@ -4,9 +4,9 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Tropical Pasture Grass Species
+# Tropical [[tropical-pasture-grass-forage-species|Grass]] Species
 
-Tropical pasture grass species form the foundation of livestock production systems in warm climates. Selecting appropriate grass species based on rainfall, soil type, temperature, and management strategy is essential for sustainable grazing, soil conservation, and integrated agroforestry. This concept covers the major tropical and subtropical pasture grasses, their characteristics, establishment requirements, and companion planting strategies.
+Tropical pasture grass species form the foundation of livestock production systems in warm climates. Selecting appropriate grass species based on rainfall, soil type, temperature, and management strategy is essential for sustainable grazing, soil conservation, and integrated agroforestry. This concept covers the major tropical and subtropical pasture grasses, their characteristics, [[mollison-designers-tropical-pasture-grass-species-and-establishment|establishment]] requirements, and companion planting strategies.
 
 ## Overview
 
@@ -140,53 +140,11 @@ A short-lived twining perennial used as a pioneer of burnt or slashed weed areas
 A twining perennial for both pastures and grain crops. Prefers more than 125 cm rain in warm tropical climates. Excellent cut forage and soil-builder. Tolerates wide soil range, acid soils, short flooding, and some frost. Ideal companion for guinea grass, banna grass, pangola, and para grass pastures. **Note**: climbs to 14 m — not suited to short perennial crops, bushes, or small trees. Seed may need hot water treatment and inoculation.
 
 ### Kenya White Clover (*Trifolium semipilosum*)
-Persists well in shortgrass pastures and dairy strip grazing systems (more than 100 cm rainfall or irrigated). Flowers in autumn and spring. Requires good seedbed, scarification, and inoculation.
-
-### Haifa White Clover (*Trifolium* spp.)
-Strain adapted to summer heat and subtropics. Persists well and reseeds after drought. Good interplant with woolly vetch.
-
-### Greenleaf Desmodium (*Desmodium intortum*)
-Vigorous trailing perennial used as understory in tall orchards after establishment. Affected by frost; needs more than 100 cm rain. Valuable for soil-building in sandy soils and for early spring/autumn growth. Tolerates poor soils and some waterlogging. Requires rotational grazing. Companion legume is Glycine for wind control.
-
-### Silverleaf Desmodium (*D. uncinatum*)
-Trailing vigorous perennial for mulch in established orchards, rocky sites, pastures, wet (not boggy) areas, and acid soils. **Caution**: pods are sticky and may cause skin rashes if used in gardens.
-
-### Macro (*Macrotyloma axillare*, formerly *Dolichos axillaris*)
-Twining perennial forming a dense sward. Needs more than 100 cm rain in light frost areas. Valuable in shallow ridge soils and tolerates some dry periods. Establishes readily.
-
-### Lab-Lab (*Lablab purpureus*, formerly *Dolichos lablab*)
-Vigorous annual or short-lived perennial for soil-building and weed control. Grown as forage and mulch legume wherever cowpeas succeed. Tolerates sporadic grazing, acid soil, and rough seedbeds. Good silage, compost, mulch, and pioneer crop. Broadcast at 20 kg/ha or drill at 6–10 kg/ha. Inoculation assists establishment. Good screen plant on trellis for watered dryland gardens. Pods and beans are edible.
-
-### Glycine (*Neonotonia wightii*, formerly *Glycine wightii*)
-Slender, twining perennial with deep roots. Cycles phosphates from deep soil layers. Resists drought but affected by frosts. Useful in cool subtropics and tropics. Good winter growth in pastures; main growth in summer. Often fenced out in late summer/early autumn as a winter reserve. Ideal rainfall: 80–180 cm. Prefers well-drained deep red soils but also tolerates yellow clays and black cracking soils. Requires rotational grazing with rest in late spring. Good for silage (with molasses), mulch, and fertility restoration.
-
-### Lucerne (*Medicago sativa*)
-Grown from cool temperate to tropical zones, usually as a pure sward cut to baled hay but also in well-managed pasture under rotation. Deep-rooted — grows from 55 cm rainfall upward. Combines well with makarikari and sorghum. Regular resting is essential for persistence. In pasture, needs reseeding every 4–8 years. Cut for hay just before flowering. Inoculation essential; lime pelleting essential in acid soils. Sown at 6–14 kg/ha (lighter on rain-fed, heavier if irrigated). Silage with molasses is now popular.
-
-### Siratro (*Macroptilium atropurpureum*)
-Perennial legume that creeps with a good root system. Suited to warm areas of 75 cm or more rain, ideally 90–110 cm. Poor soil tolerant. Excellent nitrogen contribution to grasses (e.g., Rhodes grass). Ideal for rotational grazing, readily established, resistant to nematodes. Foundation of many excellent tropical pastures.
-
-### Puero (*Pueraria phaseoloides*)
-Pioneer green and cover crop; perennial climber. Very vigorous as a smothering summer mat in wet tropics. Palatable with good seedling vigor — can be broadcast. Maintained in pastures with rotational grazing. Also suits green manuring, orchards, and garden mulch crop.
-
-### Stylo (*Stylosanthes guianensis*)
-Perennial pasture legume for warm areas with 90–400 cm rain. Good pioneer of poor acid soils, poor drainage, sands, rocky soils, and hillsides. Combined with low grasses (signal grass, pangola). Sensitive to copper and phosphate deficiencies. Excellent mulch in tree systems. Can be cut for silage. Surface-planted with wide range of inoculants. Many varieties suited to specific sites and climates. Shrub types are excellent cassava interplants or suit banana/papaya as slash mulch. Seca variety is ideal for fenced-off dry-season feed reserves.
-
-### Cowpea (*Vigna sinensis*)
-Preferred annual cover crop and soil improver. Also used with sorghum, maize, and millet as hay or mulch in established orchards.
-
-### Lupin (West Australian varieties)
-Excellent cover crop and seed in acid sandy or good soils. Inoculated, can be broadcast or sod-seeded. Good winter green crop (annual) in vine and bush fruit crops.
-
-### Mung Beans (*Vigna radiata*)
-Vigorous garden green crop, forage annual, hay or grain crop. Suited to gardens and low crop systems. Annual.
-
-## Reference
-
-Humphreys, L.R. *A Guide to Better Pastures for the Tropics and Subtropics*, Wright Stephenson & Co. Publishing, Australia.
 
 ## See Also
 
-- [[savannah-forestry-and-difficult-terrain-pioneering]]
-- [[animal-tractor-systems]]
-- [[tropical-hedgerow-shelterbelt-design]]
+- [[gangammas-mandala-tropical-sustenance-garden]]
+- [[tropical-forage-legumes]]
+- [[query-how-to-grow-rare-tropical-fruits-in-marginal-and-subtropical-climates]]
+- [[tropical-shiitake-cultivation-sawdust-substrate-low-cost]]
+- [[tropical-soils-and-fertility-management]]

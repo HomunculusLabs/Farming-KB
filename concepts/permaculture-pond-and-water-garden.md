@@ -23,7 +23,7 @@ Ponds and water features are among the most productive and ecologically valuable
 A well-designed pond serves many functions simultaneously:
 
 - **Water storage**: Captures and stores rainwater and runoff for irrigation
-- **Habitat**: Provides breeding grounds for frogs, dragonflies, [[hemenway-insectary-plants-and-beneficial-insects]]
+- **Habitat**: Provides breeding grounds for frogs, dragonflies, and beneficial insects
 - **Food production**: Can support fish, aquatic plants, and edible species
 - **Microclimate moderation**: Water bodies moderate temperature extremes in their vicinity
 - **Wildlife attraction**: Birds, amphibians, and beneficial insects are drawn to water
@@ -73,7 +73,7 @@ Even a small pond (1.5 to 3 meters across) provides significant ecological benef
 - Use irregular, curving shapes rather than straight lines or perfect circles
 - Curves maximize the edge-to-area ratio, increasing productive edge habitat
 - Include varying depths -- shallow shelves for marginal plants, deeper zones for fish and overwintering
-- Create peninsulas and small islands for additional edge and [[fungal-habitat-diversity]]
+- Create peninsulas and small islands for additional edge and habitat diversity
 
 ### Depth Zones
 
@@ -100,24 +100,24 @@ Even a small pond (1.5 to 3 meters across) provides significant ecological benef
 ### Marginal Plants (shallow edges)
 - Iris (Iris spp.)
 - Cattail (Typha latifolia) -- useful but can be invasive
-- Pickerel weed ([[pontederia-cordata]])
+- Pickerel weed (Pontederia cordata)
 - Arrowhead (Sagittaria spp.)
 - Water mint (Mentha aquatica)
 - Sweet flag (Acorus calamus)
 
 ### Floating Plants
-- Water hyacinth ([[eichhornia-crassipes]]) -- excellent biofilter but invasive in warm climates
+- Water hyacinth (Eichhornia crassipes) -- excellent biofilter but invasive in warm climates
 - Duckweed (Lemna spp.) -- high protein food for fish and poultry
 - Water lettuce (Pistia stratiotes)
 
 ### Submerged/Oxygenating Plants
-- Hornwort ([[ceratophyllum-demersum]])
+- Hornwort (Ceratophyllum demersum)
 - Elodea (Elodea canadensis)
 - Water milfoil (Myriophyllum spp.)
 
 ### Water Lilies and Deep Water Plants
 - Hardy water lilies (Nymphaea spp.) -- provide shade on the water surface
-- Lotus ([[nelumbo-nucifera]]) -- edible roots, seeds, and leaves
+- Lotus (Nelumbo nucifera) -- edible roots, seeds, and leaves
 
 ## Wildlife Integration
 
@@ -141,10 +141,10 @@ To support wildlife:
 - **Native fish**: Species appropriate to your region; check local regulations
 - **Tilapia**: In warm climates, edible and productive but require warm water
 
-Stock approximately 1 inch of fish per square foot of surface area in an unfiltered pond; less in a new pond until the ecosystem stabilizes.
+## See Also
 
-## Maintenance
-
-- Remove excess algae by hand or with barley straw
-- Thin plants as needed to prevent the pond from becoming choked
-- Top up water during dry periods
+- [[dryland-permaculture-strategies]]
+- [[vines-in-desert-permaculture]]
+- [[bill-mollison-permaculture-a-designers-manual-edge-effect-and-ecotone-design]]
+- [[permaculture-principle-use-and-value-renewable-resources]]
+- [[permaculture-ethics-of-permanence]]

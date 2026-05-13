@@ -110,11 +110,7 @@ The wood is fine-grained and moderately hard, with limited commercial use. In tr
 
 ## See Also
 
-- [[stewartia-pseudocamellia]]
 - [[camellia-sinensis]]
-- [[cornus-florida]]
 - [[parrotia-persica]]
-- [[hamamelis-virginiana]]
 - [[betula-pendula]]
-- [[davidia-involucrata]]
 - [[magnolia-grandiflora]]

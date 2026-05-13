@@ -8,72 +8,11 @@ sources: ["Shulgin - PIHKAL"]
 ---
 # MMDA-3a
 
-[[2c-b-pihkal-entry-20]] #134. 2-METHOXY-3,4-METHYLENEDIOXYAMPHETAMINE.
-
-## Chemical Name
-
-2-METHOXY-3,4-METHYLENEDIOXYAMPHETAMINE
-
-## Dosage and Duration
-
-| Property | Value |
-|----------|-------|
-| Dosage | 20 - 80 mg. |
-| Duration | 10 - 16 h. |
-
-## Qualitative Comments
-
-> (with 20 mg) I became aware at about an hour,
-> and an hour later I found myself suddenly caught up in the marvelous
-> world of insects. Right alongside a pile of bricks I saw a measuring
-> worm, and with great tenderness and patience I picked him up, observed
-> his fore and aft 'feet' and finally replaced him and watched him
-> acclimate himself. There was also a spider on the bricks, and I was
-> compelled to watch him in action. I was grateful that I was not being
-> observed. Time was moving slowly, and I felt I should intentionally
-> move slowly, so as not to exhaust myself.
->
-> (with 40 mg) This developed between one and two hours into it, and
-> there were considerable body tremors. Talking directed the energy
-> outwards, and I became aware of a visually sparkling world about me.
-> I started dropping way too soon; it would have been interesting to
-> have gone higher. By early evening I was left only with an awareness
-> of some residual physical hypersensitivity, and there was light
-> diarrhea. I am not at all sure just what to compare this drug to. It
-> is gentle.
->
-> (with 60 mg) There were visuals of a soft sort Q things moved with
-> eyes open, and with eyes closed the music was great. There seemed to
-> be some lasting stimulation, but it didn't get in the way of sleeping.
-> The next morning, however, I was still on. A good compound.
-
-## Extensions and Commentary
-
-The term MMDA-3a has the feel of being
-
-complicated, but there is a reason for the code. As had been
-mentioned, MMDA was the initials for methoxy (the M) methylenedioxy
-(the MD) amphetamine (the A). And with a molecule of amphetamine
-there are six ways of sticking these two groupings on the aromatic
-ring. The numbers 1-6 had already been assigned to the six ways of
-sticking three methoxyl groups onto an amphetamine molecule (with the
-trimethoxyamphetamines, the TMA's) and I decided to hew to the same
-convention with the methylenedioxy counterparts. However, there are
-two #3's (the methoxy and the methylenedioxy can go onto the three
-oxygen atoms in a row in two different ways, whereas the three
-methoxys can go on in just one way) and there can be no #6 (since a
-methylenedioxy must, perforce, have two oxygens that are adjacent, and
-there are none to be so found in the 2,4,6-orientation of TMA-6). So,
-with two possible MMDA-3's it becomes reasonable, in fact essential,
-to name one of them "a" and the other "b". The "a" orientation occurs
-in nature as the [[permaculture-designers-manual-essential-oil-plants]] croweacin, or
+[[permaculture-designers-manual-essential-oil-plants]] croweacin, or
 1-allyl-2-methoxy-3,4-methylenedioxybenzene. It thus can allow
 MMDA-3a to be classified as an Essential Amphetamine, since it can
 arise, in principle, by amination in the liver in vivo. But in the
-laboratory, croweacin is certainly not a practical [[shirota-4-hydroxyindole-acetyl-protection-psilocin-synthesis-starting-material]]
-in this synthesis.
-
-I have been told of a number of [[mushroom-cancer-clinical-trials-overview]] that have explored
+laboratory, croweacin is certainly not a practical [[mushroom-cancer-clinical-trials-overview]] that have explored
 MMDA-3a at considerably higher levels, but I have no explicit
 quotations to give, and the details are quite sketchy. Three trials
 at 80 milligrams, and one at 100 milligrams, all made comparisons, in
@@ -88,3 +27,88 @@ phenethylamine analog was prepared by the condensation of 7.6 g of the
 above benzaldehyde with nitromethane (in acetic acid with ammonium
 acetate catalyst, giving 5.4 g of the nitrostyrene with a mp of
 115.5-116.5 deg C from methanol) followed by lithium aluminum hydride
+
+## Overview
+
+Mmda 3A Entity Pihkal represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish mmda 3a entity pihkal
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving mmda extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Mmda 3A Entity Pihkal finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for mmda 3a entity pihkal. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+mmda 3a entity pihkal and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Mmda 3A Entity Pihkal has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of mmda 3a entity pihkal into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[methyl-mmda-2-entity-pihkal]]
+- [[mmda-2-entity-pihkal]]
+- [[mmda-3a-entity]]
+- [[mmda-compound-profile]]
+- [[shulgin-a-pihkal-mmda-and-mmda-2-methoxy-methylenedioxyamphetamine]]

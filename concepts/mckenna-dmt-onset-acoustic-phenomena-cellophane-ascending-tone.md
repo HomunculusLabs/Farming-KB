@@ -8,7 +8,7 @@ tags: [dmt, acoustic-phenomena, tryptamine, onset, McKenna, hyperspace, sensory,
 
 ## Overview
 
-Among the most consistent and distinctive features of the dimethyltryptamine (DMT) experience is the presence of characteristic acoustic phenomena that accompany the transition from ordinary consciousness to the tryptamine hyperspace. Terence McKenna's 1983 account, delivered at the Lilly/Goswami Conference on Consciousness and Quantum Physics at Esalen, provides one of the earliest detailed phenomenological descriptions of these sounds, which occur during the approximately 30-second onset period between inhalation and full immersion in the visionary state.
+Among the most consistent and distinctive features of the dimethyltryptamine (DMT) experience is the presence of characteristic acoustic phenomena that accompany the transition from ordinary consciousness to the tryptamine hyperspace. [[terence-mckenna]]'s 1983 account, delivered at the Lilly/Goswami Conference on Consciousness and Quantum Physics at Esalen, provides one of the earliest detailed phenomenological descriptions of these sounds, which occur during the approximately 30-second onset period between inhalation and full immersion in the visionary state.
 
 These auditory phenomena are significant because they represent one of the few objectively verifiable (through intersubjective reporting) markers of the DMT transition, and because they suggest that the tryptamine state affects not only visual processing but auditory consciousness as well, pointing to a more fundamental alteration of sensory integration than visual-only models would suggest.
 
@@ -72,13 +72,10 @@ The uniqueness of the DMT onset sounds may be related to its status as an endoge
 
 ## See Also
 
-- [[mckenna-radio-entelechy-dmt-onset-acoustic-phenomena]]
 - [[mckenna-radio-entelechy-organic-matrix-ripping]]
-- [[mckenna-fractal-elves-reassurance-protocol-and-wonder-loop]]
 - [[mckenna-endogenous-dmt-brain-familiarity]]
-- [[hallucinogenesis-quantum-molecular-correlates-smythies-shulgin]]
 - [[mckenna-quantum-mechanical-correlates-hallucinogenesis]]
 
 ## Sources
 
-- McKenna, T. (1983/1992). "Tryptamine Hallucinogens and Consciousness." *The Archaic Revival*, HarperSanFrancisco.
+- McKenna, T. (1983/1992). "[[tryptamine-hallucinogens-and-consciousness]]." *The Archaic Revival*, HarperSanFrancisco.

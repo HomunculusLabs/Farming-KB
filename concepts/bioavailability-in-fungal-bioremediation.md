@@ -10,13 +10,7 @@ emediation, soil-chemistry]
 
 # Bioavailability in Fungal Bioremediation
 
-Bioavailability is one of the most critical factors determining the success or failure of [[mycoremediation-enzymology]] are useless if pollutants are inaccessible to the fungal mycelium or its extracellular enzymes.
-
-## Sorption Mechanisms and Pollutant Sequestration
-
-The interactions of POPs with soil are complex but essentially involve removal of pollutants from solution by sorption to soil constituents, resulting in decreased bioavailability. Multiple sorption mechanisms operate simultaneously:
-
-- **Hydrophobic partitioning** -- hydrophobic [[fungal-volatile-organic-compounds-communication]] such as pentachlorophenol (PCP) generally sorb to soil [[hamilton-composting-and-organic-matter-management]]. The extent of partitioning depends on the [[dighton-fungal-dissolved-organic-carbon-production]] content of the soil and the octanol-water partition coefficient (Kow) of the pollutant.
+Bioavailability is one of the most critical factors determining the success or failure of [[fungal-volatile-organic-compounds-communication]] such as pentachlorophenol (PCP) generally sorb to soil [[dighton-fungal-dissolved-organic-carbon-production]] content of the soil and the octanol-water partition coefficient (Kow) of the pollutant.
 
 - **Covalent bonding** -- some POPs form covalent bonds with soil organic matter, particularly through reactions catalyzed by fungal fungal-bioremediation.
 
@@ -32,17 +26,9 @@ These pore restrictions affect even extracellular enzymes, which are large prote
 
 ## The Desorption Question
 
-A critical question in [[fungal-enzyme-systems-xenobiotic-degradation]] are secreted into the soil environment and could potentially act on sorbed pollutants at the soil-solution interface
+A critical question in [[enzymatic-degradation-in-mycoremediation]] diffuse away from the hyphae into the soil matrix, extending the zone of influence beyond the immediate hyphal surface. This is particularly important for POPs with low soil mobility.
 
-- **Mycelial contact** -- fungal hyphae can grow into soil aggregates and potentially access pollutants through direct contact, even in soil micropores too small for bacteria
-
-Understanding how sorption affects these different mechanisms could allow development of more effective and long-lasting soil remediation strategies. The [[enzymatic-degradation-in-mycoremediation]] diffuse away from the hyphae into the soil matrix, extending the zone of influence beyond the immediate hyphal surface. This is particularly important for POPs with low soil mobility.
-
-- **Hyphal exploration** -- the [[ectomycorrhizal-fungal-ecology]] fungi, which can increase root surface area by up to 47-fold.
-
-- **fungal-methylation-oxidative-coupling reactions catalyzed by laccases and peroxidases. This can appear as pollutant disappearance without the appearance of identifiable transformation products.
-
-[[fungal-bound-residue-formation]] formation has both positive and negative implications:
+- **Hyphal exploration** -- the [[fungal-bound-residue-formation]] formation has both positive and negative implications:
 
 - **Positive** -- reduces the concentration of freely available toxic pollutant, effectively detoxifying the soil
 
@@ -62,8 +48,6 @@ Understanding bioavailability is essential for designing effective fungal-biorea
 - fungal-methylation-oxidative-coupling
 
 - fungal-bioremediation
-
-- [[fungal-enzyme-systems-xenobiotic-degradation]]
 
 - [[factors-affecting-mycoremediation-efficiency]]
 ## Practical Considerations
@@ -114,8 +98,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[fungal-hyphae]]
 - [[pcp]]
-- [[laccase]]
 - [[det]]
 - [[composting]]

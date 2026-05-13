@@ -9,7 +9,7 @@ sources: []
 
 ## Overview
 
-Bulk substrate is the nutritious, water-retaining medium that mushroom mycelium colonizes to produce fruiting bodies. In home cultivation, the bulk substrate is typically mixed with colonized grain spawn at a defined ratio. The substrate provides the water reservoir and additional nutrition that grain alone cannot supply. The standard bulk substrate [[miniculture-rye-grain-cultivation-method-for-psilocybe-cubensis]] is CVG — coconut coir, vermiculite, and gypsum — valued for its simplicity, contamination resistance, and consistent results.
+Bulk substrate is the nutritious, water-retaining medium that mushroom mycelium colonizes to produce fruiting bodies. In home cultivation, the bulk substrate is typically mixed with colonized grain spawn at a defined ratio. The substrate provides the water reservoir and additional nutrition that grain alone cannot supply. The standard bulk substrate for Psilocybe cubensis is CVG — coconut coir, vermiculite, and gypsum — valued for its simplicity, contamination resistance, and consistent results.
 
 ## CVG: The Standard Substrate
 
@@ -19,7 +19,7 @@ Bulk substrate is the nutritious, water-retaining medium that mushroom mycelium 
 - Processed from coconut husk fibers, usually sold in compressed bricks (650g is standard).
 - Naturally resistant to contamination — coconut coir contains tannins and other compounds that inhibit microbial growth.
 - Excellent water retention capacity (holds 8-9 times its weight in water).
-- Near-neutral pH (6.0-6.8), ideal [[grass-seed-substrate-for-mushroom-cultivation]].
+- Near-neutral pH (6.0-6.8), ideal for mushroom cultivation.
 - No nutritional supplementation needed for cubensis, though it can be added.
 
 **Vermiculite**
@@ -60,7 +60,7 @@ The boiling water raises the core temperature to approximately 160-180F (71-82C)
 
 ### Pasteurization vs. Bucket Tek
 
-True pasteurization involves holding the substrate at 140-170F (60-76C) for 60-120 minutes. This kills most contaminants and their spores while preserving [[forest-and-bamboo-beneficial-microorganisms]]. Methods include:
+True pasteurization involves holding the substrate at 140-170F (60-76C) for 60-120 minutes. This kills most contaminants and their spores while preserving beneficial microorganisms. Methods include:
 
 - **Hot water bath**: Substrate in a filter bag, submerged in a water bath held at 160F.
 - **Oven pasteurization**: Substrate in oven-safe bags at 170F for 2 hours.
@@ -85,11 +85,11 @@ Getting field capacity right is one of the most important skills in cultivation.
 
 ### Horse Manure
 
-Horse manure is a traditional substrate, especially for outdoor grows. It provides excellent nutrition and water retention. Must be aged (6+ months) or leached and pasteurized. Often mixed with straw (50/50 by volume). Popular with [[panaeolus-cyanescens-bali-omelette]] growers.
+Horse manure is a traditional substrate, especially for outdoor grows. It provides excellent nutrition and water retention. Must be aged (6+ months) or leached and pasteurized. Often mixed with straw (50/50 by volume). Popular with Panaeolus cyanescens growers.
 
 ### Straw
 
-Wheat or oat straw, chopped to 1-3 inch pieces. Excellent aeration and decent nutrition. Must be pasteurized thoroughly — straw is highly contamination-prone. Often used for [[cotter-oyster-mushroom-cultivation]]. Less common for cubensis monotubs due to the extra preparation work.
+Wheat or oat straw, chopped to 1-3 inch pieces. Excellent aeration and decent nutrition. Must be pasteurized thoroughly — straw is highly contamination-prone. Often used for oyster mushroom cultivation. Less common for cubensis monotubs due to the extra preparation work.
 
 ### Compost
 

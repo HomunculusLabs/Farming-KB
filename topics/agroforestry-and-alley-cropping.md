@@ -44,9 +44,7 @@ related_concepts:
 Agroforestry is the intentional integration of trees and shrubs with crop and
 livestock production systems to create environmental, economic, and social
 benefits. Unlike conventional monoculture agriculture, agroforestry mimics
-[[fukuoka-natural-ecosystem-food-chain-interconnection]] structures, generating multiple yields from the same unit
-of land while simultaneously performing ecological services such as soil
-conservation, water regulation, [[mycorrhizal-fungi-soil-carbon-sequestration-by-type]], and habitat creation.
+[[mycorrhizal-fungi-soil-carbon-sequestration-by-type]], and habitat creation.
 The practice encompasses a broad family of land-use systems ranging from
 simple two-component arrangements to complex multi-strata polycultures
 resembling natural forest architecture.
@@ -109,7 +107,7 @@ intended crop, the tree species selected, the climate, and the mechanisation
 requirements of the farm. Hedgerow width is typically maintained at 1 to 2
 metres, with individual trees spaced 25 to 50 centimetres apart within the
 row. This dense within-row spacing ensures a continuous, effective barrier
-for [[permplant-willows-salix-erosion-control-fodder]] and maximises [[dighton-fungal-biomass-production-aquatic-ecosystems]] per metre of hedgerow.
+for [[dighton-fungal-biomass-production-aquatic-ecosystems]] per metre of hedgerow.
 
 The spacing between hedgerow rows (the alley width) is the most critical
 design variable, as it determines the balance between tree benefits and crop
@@ -124,15 +122,9 @@ reduces water stress on the companion crops.
 Medium spacing of 6 to 10 metres suits light-demanding field crops such as
 maize, beans, cassava, and sweet potatoes. At these distances, the hedgerows
 provide substantial mulch and nitrogen contributions while allowing adequate
-light penetration to the alley crops during the [[savory-growing-season-and-non-growing-season-management]].
-## See Also
-
-- [[forest-gardening-and-food-forests]]
-- [[permaculture-design-principles]]
+light penetration to the alley crops during the [[forest-gardening-and-food-forests]]
 - [[permaculture-water-harvesting-earthworks]]
-- [[companion-planting-and-polycultures]]
 - [[nitrogen-fixing-trees-and-shrubs]]
-- [[regenerative-agriculture-overview]]
 - [[the-soil-food-web]]
 - [[cover-crops-green-manures]]
 

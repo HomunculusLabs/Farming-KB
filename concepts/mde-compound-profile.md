@@ -11,53 +11,11 @@ sources:
 
 ## Overview
 
-MDE (PIHKAL #106), commonly known as MDEA or by the street name EVE, is an empathogen-entactogen closely related to [[ayahuasca-preparation-and-ceremony]]. MDE occupies a middle ground between MDMA's empathogenic warmth and MDA's more psychedelic character. It gained popularity in the 1980s and 1990s as an alternative to MDMA, often described as gentler and less stimulating but also less "magic" than its methylated cousin.
-
-## Chemical Identity
-
-- **Chemical name:** 3,4-methylenedioxy-N-ethylamphetamine
-- **PIHKAL number:** #106
-- **Street names:** MDEA, EVE
-- **Class:** Substituted amphetamine (MDxx family)
-- **HCl melting point:** 198-199 °C (or 201-202 °C depending on crystallization)
-
-## Dosage and Duration
-
-| Parameter | Range |
-|-----------|-------|
-| **Threshold** | ~50 mg |
-| **Common dose** | 100-200 mg |
-| **Strong dose** | 200 mg+ |
-| **Duration** | 3-5 hours |
-| **Onset** | 20-60 minutes |
-
-## Effects
-
-- Empathogenic warmth and emotional openness (similar to but less intense than MDMA)
-- Mild visual enhancement without strong hallucinations
-- Reduced stimulant effect compared to MDMA — less jaw clenching, less insomnia
-- Gentle, relaxed body sensation
-- Enhanced appreciation of music and social interaction
-- Shorter duration than MDMA, with a smoother comedown
-- Some users report it feels "softer" or more sedating than MDMA
-
-## Synthesis Routes
-
-Shulgin documented three distinct synthetic routes to MDE in PIHKAL:
-
-1. **From [[phenethylamine-chemistry-basics]] for the foundational organic chemistry underlying these transformations.
+MDE (PIHKAL #106), commonly known as MDEA or by the street name EVE, is an empathogen-entactogen closely related to [[phenethylamine-chemistry-basics]] for the foundational organic chemistry underlying these transformations.
 
 ## Pharmacology
 
-MDE acts primarily as a serotonin releaser with additional effects on dopamine and norepinephrine. The N-ethyl group provides slightly greater selectivity for serotonin over dopamine/norepinephrine compared to MDMA's N-methyl group, which may account for the reduced stimulant profile. See [[mdma-compound-profile]], definitely fewer physiological side-effects, particularly the urinating problem." — Notably, this reporter preferred MDE to MDMA for its reduced physical side effects.
-
-*Report 3:* "Hard hit, difficulty in verbalizing. Sore throat disappeared. Quite intoxicated and tranquilized." — A more sedating experience with notable word-finding difficulty.
-
-**At 200 mg:** "Very stoned. Nausea in beginning. Difficult to concentrate. Jaw-clenching, rice crispies in ears. Meditative material not unlike MDMA except more difficulties in forming words. Eye-romp. Anorexia extremely long-lived — perhaps 72 hours total. This may have been too high a dosage." — A strong experience with significant physical side effects and prolonged appetite suppression.
-
-## Comparison with MDMA
-
-Shulgin provided extensive commentary on the similarities and differences between MDE and [[ayahuasca-preparation-and-ceremony]]. The properties of unusually easy communication and positive self-viewing of MDMA seem to be absent."
+MDE acts primarily as a serotonin releaser with additional effects on dopamine and norepinephrine. The N-ethyl group provides slightly greater selectivity for serotonin over dopamine/norepinephrine compared to MDMA's N-methyl group, which may account for the reduced stimulant profile. See [[ayahuasca-preparation-and-ceremony]]. The properties of unusually easy communication and positive self-viewing of MDMA seem to be absent."
 
 This "missing magic" quality became a consistent theme in MDE reports and may explain why MDMA remained more popular despite MDE's gentler physical profile. The open question is whether the S-isomer of MDE might possess more of these unique MDMA-like properties: "Maybe the 'S' isomer would have these properties. The optical isomers have never been evaluated separately in man."
 
@@ -70,7 +28,7 @@ This "missing magic" quality became a consistent theme in MDE reports and may ex
 | Duration (hours) | 6-10 | 3-5 | 3-5 |
 | "Magic" quality | No | Yes | No |
 
-MDE is also related to [[mmda-2-compound-profile]] through the shared methylenedioxy substitution pattern. See [[mdma-compound-profile]] for comprehensive [[adverse-effects-and-harm-reduction-psilocybin]] guidance
+MDE is also related to [[mdma-compound-profile]] for comprehensive [[adverse-effects-and-harm-reduction-psilocybin]] guidance
 - The 200 mg+ range shows diminishing returns with increased physical side effects
 - Prolonged appetite suppression (up to 72 hours reported at 200 mg) requires attention to nutrition
 - Word-finding difficulty and verbal impairment may be more pronounced than with MDMA
@@ -92,3 +50,88 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
+
+## Overview
+
+Mde Compound Profile represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish mde compound profile
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving mde extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Mde Compound Profile finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for mde compound profile. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+mde compound profile and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Mde Compound Profile has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of mde compound profile into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[2c-d-compound-profile]]
+- [[2c-t-7-compound-profile]]
+- [[5-meo-dipt-compound-profile]]
+- [[dpt-compound-profile]]
+- [[plant-olfaction-volatile-organic-compound-signaling]]

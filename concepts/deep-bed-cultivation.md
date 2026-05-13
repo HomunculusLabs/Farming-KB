@@ -9,30 +9,13 @@ sources:
 ---
 # Deep Bed Cultivation
 
-Deep bed cultivation is a core technique in [[hamilton-geoffhamilton-nick-organic-gardening-companion-planting]] that maximizes productivity from limited space while improving soil structure. The system involves creating raised beds of deeply cultivated soil that are never walked on, ensuring permanently good soil structure.
-
-## Principles
-
-The deep bed system was popularized by organic gardening pioneers and is central to Geoff Hamilton's approach. Key principles include:
-
-- **Never tread on the beds:** Walking on soil compacts it, destroying the structure that roots need. Use permanent paths between beds.
-- **Deep cultivation:** Double-dig the beds initially to a depth of about 2 spade depths (spit depth). This breaks up hard pans and allows deep root penetration.
-- **Intensive spacing:** Plants are grown much closer together than in conventional rows. This means more food from less space, and the close planting shades the soil, reducing moisture loss and suppressing weeds.
-- **Block planting:** Instead of single rows, crops are sown in blocks across the bed width. This makes better use of space and light.
-- **No rotation needed on the bed:** While [[comparison-crop-rotation-vs-cover-cropping]] is still practiced across the garden as a whole, individual beds can be managed intensively.
+Deep bed cultivation is a core technique in [[comparison-crop-rotation-vs-cover-cropping]] is still practiced across the garden as a whole, individual beds can be managed intensively.
 
 ## Construction
 
 **Dimensions:** Standard width is 4ft (1.2m) -- narrow enough to reach the center from either side without stepping on the bed. Length can vary. Paths between beds are typically 15-18in (38-45cm) wide.
 
-**Initial preparation ([[comparison-double-digging-vs-no-till]]):**
-1. Remove a trench one spade deep across the width of the bed
-2. Fork over the bottom of the trench to another spade's depth
-3. Move the soil from the next trench into the first, incorporating manure or compost
-4. Continue across the bed
-5. The final trench is filled with soil from the first
-
-**Adding [[hamilton-composting-and-organic-matter-management]]:** Incorporate as much well-rotted manure or compost as possible during the initial digging. After that, add organic matter as a surface mulch; the worms and weather will work it in.
+**Initial preparation ([[hamilton-composting-and-organic-matter-management]]:** Incorporate as much well-rotted manure or compost as possible during the initial digging. After that, add organic matter as a surface mulch; the worms and weather will work it in.
 
 ## Advantages
 
@@ -47,41 +30,8 @@ The deep bed system was popularized by organic gardening pioneers and is central
 ## Suitable Crops
 
 **Ideal for deep beds:**
-- [[growing-root-vegetables-guide]]: carrots, parsnips, beets (deep, loose soil prevents forking)
-- Leaf vegetables: lettuce, spinach, chard (block planting works well)
-- Alliums: onions, leeks, shallots (intensive spacing)
-- Peas: semi-leafless varieties form self-supporting blocks
-- Salad crops: radishes, spring onions (quick crops for interplanting)
-
-**Less suitable:**
-- Runner beans (need too much vertical support)
-- Brussels sprouts (need too much individual space)
-- Maincrop potatoes (take up too much room relative to yield)
-
-## Maintenance
-
-- Top-dress with compost or well-rotted manure each season
-- Do not dig again after initial preparation; let worms do the work
-- Simply fork lightly to incorporate surface mulch if needed
-- Rotate crop families across beds each year
-- Remove crop residues and add to compost heap
-- Keep paths weed-free (they can be mulched with bark or straw)
-
-## Crops That Need Modification
-
-**Peas:** Use semi-leafless varieties like Bikini. Sow in blocks with rows 6in (15cm) apart and seeds 2in (5cm) apart. The plants grow into each other and form completely self-supporting blocks.
-
-**Broad beans:** Sow in staggered rows 6in (15cm) between each seed.
-
-**Green beans (bush types):** Grow in staggered rows 6in (15cm) apart.
-
-**Carrots and parsnips:** Sow in wide bands across the bed using block-sowing techniques.
-
-## Related
-
 - [[soil-food-web-structure]] for soil biology
-- [[cover-cropping-guide]] for bed rotation and [[jeavons-green-manures-cover-crops]]
-- [[gaias-garden-cover-crops-soil-building]]
+- [[jeavons-green-manures-cover-crops]]
 - [[green-manure-cover-crops]]
 
 ## Practical Applications
@@ -113,8 +63,88 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[composting]]
 - [[geoff-hamilton]]
-- [[comparison-deep-bed-cultivation-vs-square-foot-gardening]]
 - [[hamilton-deep-bed-system]]
 - [[straw-mushroom-bed-cultivation]]
+
+## Overview
+
+Deep Bed Cultivation represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish deep bed cultivation
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving deep extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Deep Bed Cultivation finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for deep bed cultivation. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+deep bed cultivation and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Deep Bed Cultivation has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of deep bed cultivation into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[coleman-deep-organic-farming]]
+- [[comparison-deep-litter-vs-hot-composting]]

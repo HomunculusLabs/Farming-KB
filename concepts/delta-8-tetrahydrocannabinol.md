@@ -136,10 +136,7 @@ to delta-8-THC formulations as to full-spectrum cannabis extracts.
 
 ## See Also
 
-- [[cannabidiol-cbd]]
 - [[cannabigerol-cbg]]
-- [[cannabinol-cbn]]
 - [[cannabis-chemotypes]]
-- [[tetrahydrocannabivarin-thcv]]
 - [[beta-caryophyllene]]
 - [[cannabichromene-cbc]]

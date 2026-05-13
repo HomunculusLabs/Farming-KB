@@ -10,8 +10,8 @@ tags: [mushroom-cultivation, growing-parameters, species-guide, temperature, hum
 
 ## The Parameter Framework
 
-Chapter XI of *The Mushroom Cultivator* presents comprehensive growing parameters
-for the major cultivated mushroom species. Each species profile follows a standard
+Chapter XI of *[[dactylium-dendroides-entity-the-mushroom-cultivator]]* presents comprehensive growing parameters
+for the major [[classification-of-cultivated-mushroom-species]]. Each species profile follows a standard
 format covering every stage from spawn run through cropping, allowing cultivators to
 precisely dial in environmental conditions. The parameters were established through
 countless trials by home and commercial cultivators and represent optimal ranges
@@ -70,11 +70,11 @@ virus but produces the familiar button mushroom valued in commercial markets.
 ### Pleurotus ostreatus (Oyster Mushroom)
 A primary decomposer tolerant of a wide range of substrates including straw and
 wood. One of the easiest species for home cultivation. Requires light for
-primordia formation and benefits from fresh air exchange during all stages. Can
+[[pf-tek-primordia-formation-and-pinning-process]] benefits from fresh air exchange during all stages. Can
 fruit on a wide range of temperatures depending on strain.
 
 ### Lentinus edodes (Shiitake)
-A wood-decomposing species traditionally grown on supplemented sawdust or logs.
+A wood-decomposing species traditionally grown on [[oyster-mushroom-supplemented-sawdust-blocks]] or logs.
 Requires a longer spawn run than most species and a distinct cold shock for
 fruiting initiation. The browning of the mycelium before fruiting is a critical
 developmental signal.
@@ -100,7 +100,7 @@ mycelium.
 
 ### Carbon Dioxide (CO2)
 CO2 levels serve as a primary fruiting trigger. During spawn run, high CO2
-(5,000–10,000 ppm) encourages mycelial colonization. For pinning, CO2 must drop
+(5,000–10,000 ppm) encourages [[mycelial-colonization]]. For pinning, CO2 must drop
 below 2,000 ppm. During cropping, levels are maintained below 3,000 ppm. This
 dramatic reduction in CO2, combined with increased fresh air exchange, is the
 primary environmental signal that initiates the transition from vegetative to
@@ -129,15 +129,13 @@ replacement before yield declines become significant.
 ## Practical Application
 
 The parameter tables serve as both a planning tool and a diagnostic reference.
-When cultivation problems arise, comparing actual growing conditions to the
+When [[mushroom-cultivation-problems]] arise, comparing actual growing conditions to the
 published optima often reveals the source of difficulty. Deviations of even a
 few degrees in temperature or a few hundred ppm in CO2 can dramatically affect
 yields, flush timing, and fruitbody quality.
 
 ## See Also
 
-- [[stamets-cultivator-humidity-management-fogging-systems]]
 - [[stamets-growing-room-air-circulation-co2-management]]
-- [[stamets-p-value-strain-age-system]]
 - [[mushroom-cultivator-fruiting-conditions]]
 - [[stamets-pinning-initiation-stages-environmental-control]]

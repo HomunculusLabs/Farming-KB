@@ -108,13 +108,8 @@ Despite this complexity, Cystopteris bulbifera is easily distinguished from all 
 
 ## See Also
 
-- [[cystopteris-fragilis]]
 - [[polystichum-acrostichoides]]
-- [[adiantum-pedatum]]
 - [[dryopteris-marginalis]]
-- [[asplenium-trichomanes]]
 - [[polypodium-vulgare]]
-- [[athyrium-filix-femina]]
 - [[matteuccia-struthiopteris]]
-- [[onoclea-sensibilis]]
 - [[woodwardia-areolata]]

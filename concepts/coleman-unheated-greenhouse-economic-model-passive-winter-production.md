@@ -11,36 +11,7 @@ created: 2026-05-10
 Eliot Coleman's cold house model rests on a core economic thesis: the most profitable
 way to extend fresh-vegetable harvest through winter is to **produce maximum food without
 incurring any cost for supplemental heat**. This is a complete economic philosophy rooted
-in the deep organic approach. See [[coleman-cool-house-vs-cold-house-economics-winter-production]] for temperature-tier details.
-
-## Core Philosophy: Lowest Tech, Most Economical
-
-The guiding principle is to use the **lowest-tech and most economical** means to maintain
-year-round harvests. The cold house works with natural systems — thermal mass of the earth,
-insulating power of layered protection, biological resilience of cold-hardy crops — rather
-than fighting winter with energy expenditure.
-
-The system employs **none** of the following: no heating system, no water or stone ballast
-with pumps, no buried insulation, no space-age materials, no complicated technologies — no
-whizzing machinery whatsoever. What remains is a remarkably simple architecture: a
-greenhouse structure plus an inner layer of floating row cover providing sufficient
-protection to keep cold-hardy vegetables alive and harvestable through the harshest months.
-
-## Economic Comparison: Heated vs. Unheated
-
-Traditional heated greenhouses demand enormous energy inputs. Tomatoes require a minimum of
-65°F nighttime temperature; lettuce requires 55°F. These temperatures must be maintained
-through fuel combustion, and energy costs can dominate the enterprise budget. During
-Coleman's propane heating trials, he found that **the revenue from crops grown under
-heated conditions could not cover the cost of the propane itself**. The math did not work
-for a small-scale organic operation.
-
-### The Cold House Model
-
-The unheated greenhouse inverts this equation entirely: zero fuel cost, minimal
-infrastructure, lower capital per square foot, and operating costs dominated by labor
-and seeds rather than energy. Coleman eventually replaced his propane heater with a
-dedicated **[[coleman-winter-harvest-washing-and-packing]] greenhouse** — a small heated space for post-harvest
+in the deep organic approach. See [[coleman-winter-harvest-washing-and-packing]] greenhouse** — a small heated space for post-harvest
 processing only. This single substitution achieved approximately **10× cost savings**
 compared to heating the entire production greenhouse.
 
@@ -50,29 +21,9 @@ Coleman's approach evolved through decades of experimentation:
 
 1. **Cold frames** — simple glass-topped boxes
 2. **Cold frames inside greenhouses** — layered protection gaining 15–20°F over outside
-3. **30×96 ft [[mobile-greenhouses]]** with inner row cover layer — the mature system
-
-Each stage increased scale while maintaining the zero-heat principle. The mobile design
-allows structures to move between pre-established ground sites, enabling crop rotation.
-
-## Three Pillars of Winter Harvest
-
-The economic viability of the cold house rests on three inseparable components:
-
-- **Cold-hardy vegetables** — species selected for genetic tolerance of freezing
-  temperatures (mâche, claytonia, spinach, leeks, Asian greens)
-- **[[coleman-succession-planting]]** — crops must reach near-maturity before deep cold arrives; the
+3. **30×96 ft [[coleman-succession-planting]]** — crops must reach near-maturity before deep cold arrives; the
   second spring planting window begins August 1
-- **[[coleman-protected-cultivation]]** — the greenhouse plus inner row cover provides the thermal
-  buffer making harvest possible during sub-freezing weather
-
-Remove any one pillar and the economic model collapses.
-
-## The Second Spring
-
-August 1 marks the beginning of what Coleman calls the **"second spring"** — the critical
-planting window for winter crops. Seeds sown in early August have approximately three
-months of declining but active growth before the [[coleman-persephone-months-winter-day-length]] begin. The entire
+- **[[coleman-persephone-months-winter-day-length]] begin. The entire
 economic model depends on crops reaching harvestable size during this window.
 
 ## Persephone Months: Economics of Maintenance
@@ -118,8 +69,82 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[eliot-coleman]]
 - [[dom]]
-- [[det]]
 - [[coleman-greenhouse-heating-options-winter-production]]
 - [[coleman-unheated-greenhouse-design]]
+
+## Overview
+
+Coleman Unheated Greenhouse Economic Model Passive Winter Production represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish coleman unheated greenhouse economic model passive winter production
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving coleman extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Coleman Unheated Greenhouse Economic Model Passive Winter Production finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for coleman unheated greenhouse economic model passive winter production. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+coleman unheated greenhouse economic model passive winter production and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Coleman Unheated Greenhouse Economic Model Passive Winter Production has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of coleman unheated greenhouse economic model passive winter production into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.

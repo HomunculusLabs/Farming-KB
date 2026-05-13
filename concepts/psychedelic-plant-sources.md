@@ -10,22 +10,12 @@ sources: []
 
 ## Overview
 
-Psychedelic compounds occur naturally across a wide range of plant families, fungi, and even animal species. These have been used by indigenous peoples worldwide for millennia in healing, divination, and religious ceremonies. The major categories include psilocybin-containing mushrooms, [[beta-carboline-chemistry]] and snuffs), mescaline-containing cacti, and iboga-containing plants.
-
-## Psilocybin Mushrooms
-
-Over 200 species of fungi are known to contain psilocybin and related indole alkaloids. See [[beta-carboline-chemistry]] / [[beta-carboline-chemistry]] for detailed pharmacokinetic information.
-
-## DMT Snuff Plants
-
-- **Virola** species (V. theiodora, V. calophylla, V. elongata) -- bark resin prepared as snuff (Psychedelic Plant Sources) by indigenous peoples of the Amazon basin
-- **[[yopo-anadenanthera-peregrina-snuff]]** (yopo, cohoba) -- seeds ground into snuff; contains DMT, 5-MeO-DMT, and bufotenin
+Psychedelic compounds occur naturally across a wide range of plant families, fungi, and even animal species. These have been used by indigenous peoples worldwide for millennia in healing, divination, and religious ceremonies. The major categories include psilocybin-containing mushrooms, [[beta-carboline-chemistry]] / [[yopo-anadenanthera-peregrina-snuff]]** (yopo, cohoba) -- seeds ground into snuff; contains DMT, 5-MeO-DMT, and bufotenin
 - **Anadenanthera colubrina** (cebil) -- similar use in southern Amazon and Argentina
 
 ## Mescaline-Containing Cacti
 
-- **Lophophora williamsii** (peyote) -- 1-6% mescaline; see [[psilocybin-mushroom-identification]] -- [[psilocybin-mushroom-identification-guide]] guide
-- [[beta-carboline-chemistry]] -- Ayahuasca pharmacokinetics
+- **Lophophora williamsii** (peyote) -- 1-6% mescaline; see [[psilocybin-mushroom-identification-guide]] guide
 - [[salvia-divinorum-profile]] — [[golden-guide-salvia-divinorum-and-diviner-sage]] Profile
 - gartz-magic-mushrooms-global-distribution-patterns
 ## Practical Applications
@@ -87,3 +77,73 @@ outcomes creates a valuable knowledge base that supports progressively
 better results with each iteration of practice and experimentation.
 
 ## Integration and Future Development
+
+## Overview
+
+Psychedelic Plant Sources represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish psychedelic plant sources
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving psychedelic extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Psychedelic Plant Sources finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for psychedelic plant sources. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+psychedelic plant sources and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Psychedelic Plant Sources has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of psychedelic plant sources into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.

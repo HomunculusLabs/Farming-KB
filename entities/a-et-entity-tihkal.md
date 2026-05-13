@@ -41,30 +41,7 @@ TIHKAL entry #11. Alpha-ethyltryptamine, also known by the trade name Monase, is
 
 ## Clinical History and Withdrawal
 
-Alpha-ET was a promising antidepressant, explored clinically as the acetate salt by Upjohn under the name Monase. Its central stimulant activity is probably not due to its monoamine oxidase inhibition activity, but appears to stem from its [[serotonin-psilocybin-structural-relationship-hallucinogenic-mechanism]] to the indolic psychedelics. It was withdrawn from potential commercial use with the appearance of an unacceptable incidence of a medical condition known as agranulocytosis (a dangerous drop in white blood cell count).
-
-## Opioid Withdrawal Potential
-
-One property has been mentioned more than once in anecdotal reports. Alpha-ET appears to serve well, with short term dosage regimens, as an effective tool in kicking dependency on opiates. In chronic use, there is a rather rapid tolerance built up over four or five days, that allows a dosage escalation to a daily load of a gram or more. There might be some discomfort such as sores in the softer tissues of the mouth, but apparently the withdrawal from heroin is easy and effective. Shulgin notes this as "a potential tool in addiction treatment that might warrant closer investigation."
-
-## The Analogue Drug Law and alpha-ET
-
-Alpha-ET has played a pivotal role in the evolution of drug laws, specifically the definition of the Controlled Substance Analogue Drug Bill. The "Designer Drug Bill" of 1986 was the first time a drug law would define a crime by the activity of a compound as well as by chemical structure.
-
-The bill defined a "controlled substance analogue" as one that is substantially similar in chemical structure OR in pharmacological effect OR is represented as such. Shulgin noted that the phrase "substantially similar" is a rhetorical nightmare -- "similar" means "pretty much the same," and "substantially identical" means "pretty much the same," but "substantially similar" is ambiguous. Context determines whether two items are similar or different, yet the law provides no framework for whose perspective applies.
-
-### The Denver Trial
-
-A young man discovered that Aldrich Chemical Company offered alpha-ethyltryptamine acetate as a fine chemical and purchased it in 100g quantities, packaging it in 150 mg capsules to be sold as MDMA. A DEA chemist initially opined that alpha-ET was not an analogue substance, so the prosecutor declined to press charges. However, a second chemist later disagreed, and charges were finally brought. At trial, the defense presented the conflicting expert opinions, and the DEA's own research toxicologist admitted on cross-examination that in every one of his approximately twelve prior expert appearances, he had concluded the proposed compound was an analogue -- raising questions about objectivity. The judge dismissed the charges.
-
-### The Appellate Decision
-
-The appellate decision (806 F.Supp. 232, D.Colo., 1992) hinged on grammatical analysis of the statute's three clauses: (i) chemical structure substantially similar; (ii) effect substantially similar; (iii) represented as having similar effect. The defense argued successfully that clauses (ii) and (iii), both beginning with "which," modify clause (i) rather than standing independently. Reading them independently would mean alcohol and caffeine could be analogues (clause ii) and powdered sugar sold as cocaine could trigger prosecution (clause iii). The original House bill had explicitly included "and" after clause (i), but this word was inexplicably dropped in the final enacted version.
-
-## Related Compounds and Homologues
-
-- **5-MeO-alpha-ET**: The 5-methoxy analogue, approximately twice as potent as alpha-ET. At 70 mg orally it produced a trippy feeling lasting several hours with increased heartbeat and difficulty sleeping, but no psychedelic effects as such and no unpleasant side effects. Primary synthesis from 5-methoxyindole-3-aldehyde via nitropropane coupling followed by LAH reduction (72% yield). An alternate synthesis avoiding LAH involves conversion of 5-methoxyindole to the nitrobutane with 2-nitro-1-butene, followed by nickel boride reduction (52% yield, free base mp 110-112 C).
-- **alpha-PT (alpha-propyltryptamine)**: Made from tryptophan; acetate salt mp 158-158.5 C. Never tasted in man. Expected to require very hefty dosages based on potency loss patterns in similar homologation series (noted similarity to the Muni Metro series related to [[harmine-entity-tihkal]] family. Reported as an impurity of commercial alpha-ET (including prescheduling product from Aldrich) to an extent of some 30%, potentially contributing to central action.
+Alpha-ET was a promising antidepressant, explored clinically as the acetate salt by Upjohn under the name Monase. Its central stimulant activity is probably not due to its monoamine oxidase inhibition activity, but appears to stem from its [[harmine-entity-tihkal]] family. Reported as an impurity of commercial alpha-ET (including prescheduling product from Aldrich) to an extent of some 30%, potentially contributing to central action.
 
 ## Physical Properties
 
@@ -75,6 +52,90 @@ The appellate decision (806 F.Supp. 232, D.Colo., 1992) hinged on grammatical an
 
 ## See Also
 
-- [[amt-entity-tihkal]] -- the N-methylated analogue
 - [[harmaline-entity-tihkal]] -- beta-carboline MAOI, shares structural relationships
 - [[ibogaine-entity-tihkal]] -- another compound studied for anti-addictive properties
+
+## Overview
+
+A Et Entity Tihkal represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish a et entity tihkal
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving a extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+A Et Entity Tihkal finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for a et entity tihkal. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+a et entity tihkal and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+A Et Entity Tihkal has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of a et entity tihkal into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[2c-c-entity]]
+- [[2c-o-4-entity]]
+- [[4-ho-dbt-entity-tihkal]]
+- [[mckenna-dmt-i-thou-relationship-entity-encounter-ethics]]
+- [[pyrethrum-entity]]

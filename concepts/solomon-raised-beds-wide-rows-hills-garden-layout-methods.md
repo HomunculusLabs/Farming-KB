@@ -1,25 +1,6 @@
-# [[raised-beds-wide-rows-hills-garden-layout-solomon|Raised]] Beds, Wide Rows, and Hills: Garden Layout Methods for Hard Times
+# [[solomon-drought-gardening-and-water-conservation|drought]], or with limited resources — the layout method you choose determines water efficiency, labor requirements, and ultimately how much food you can produce. Solomon identifies three primary layout systems, each suited to different conditions and crop types: raised beds, raised wide rows, and hills.
 
-**Source:** Solomon, S. — *Gardening When It Counts*
-**Concept:** Three practical garden layout systems — raised beds, raised wide rows, and hills — compared for water efficiency, soil quality, and labor requirements in low-resource conditions.
-
----
-
-## Overview
-
-When gardening "when it counts" — during hard times, [[solomon-drought-gardening-and-water-conservation|drought]], or with limited resources — the layout method you choose determines water efficiency, labor requirements, and ultimately how much food you can produce. Solomon identifies three primary layout systems, each suited to different conditions and crop types: raised beds, raised wide rows, and hills.
-
-The fundamental principle underlying all three systems is the same: elevate the growing area a few inches above the surrounding paths. This simple act provides multiple advantages that compound over [[query-how-to-protect-plants-from-frost-and-extend-the-growing-season]].
-
----
-
-## Why Raise the Growing Area?
-
-Raising beds and rows provides several critical advantages:
-
-**Soil looseness:** Raised beds tend to stay looser because no one walks on them. Walking on the root zone of [[container-growing-vegetables-herbs]] compacts the soil, making it difficult for plants to develop roots. Compaction is physical (and should be avoided) — it is not corrected by adding [[fukuoka-textdoc-composting-critique-futility-prepared-organic-matter]].
-
-**Fine seedbed creation:** Small seeds like lettuce, carrots, and beets need a "fine seedbed" to emerge. A seed sitting under a large clod experiences [[greg-green-temperature-and-humidity-control]] frustration and dies. By raising the bed 3-6 inches, you can rapidly rake clods and lumps off the surface and down into the paths, where feet will break them down over coming months.
+The fundamental principle underlying all three systems is the same: elevate the growing area a few inches above the surrounding paths. This simple act provides multiple advantages that compound over [[container-growing-vegetables-herbs]] compacts the soil, making it difficult for plants to develop roots. Compaction is physical (and should be avoided) — it is not corrected by adding [[greg-green-temperature-and-humidity-control]] frustration and dies. By raising the bed 3-6 inches, you can rapidly rake clods and lumps off the surface and down into the paths, where feet will break them down over coming months.
 
 **Path drainage:** Raised beds create natural drainage channels in the paths between them, preventing waterlogging during heavy rains.
 
@@ -31,37 +12,7 @@ Raising beds and rows provides several critical advantages:
 
 ## Method 1: Raised Beds
 
-Raised beds are the standard [[solomon-wide-spacing-versus-intensive-gardening-debate|intensive]] gardening layout, best suited for irrigated gardens or areas with reliable rainfall.
-
-### Dimensions
-- **Width:** 4 feet (120 cm) is about the limit for most people to reach the center while bending over or squatting. For less flexible people, width can be as little as 3 feet (90 cm). For flexible people with long arms, up to 4.5 feet (140 cm).
-- **Length:** Any length that fits the space; a standard bed is 4 × 25 feet (120 × 760 cm) = 100 square feet per bed.
-- **Height:** Only 2-3 inches (5-8 cm) above path level. There is no point in raising beds higher unless you can no longer squat or bend over.
-- **Path width:** About 1 foot (30 cm) between beds.
-
-### Creation
-After digging a new garden, use a combination shovel to move along what will be the paths, scoop up about 2 inches of soil, and toss it onto what will be the growing bed. In following years, simply maintain the shape — the beds will naturally persist with minimal maintenance.
-
-### Best Uses
-- **Small-sized vegetables:** Beets, carrots, lettuce, bush beans, bush peas
-- **Two parallel rows of large plants:** Swiss chard, cucumber, cabbage, kale, Brussels sprouts
-- **Irrigated gardens** with reliable water supply
-
-### Trade-offs
-- Narrower beds mean more paths, reducing overall growing area efficiency
-- Below 4 feet wide, you cannot have two parallel rows of large plants
-- Requires consistent irrigation in dry climates
-
----
-
-## Method 2: Raised Wide Rows
-
-Raised wide rows are Solomon's preferred method for gardens without reliable irrigation — the system most relevant to "gardening when it counts."
-
-### Dimensions
-- **Width:** About two shovel-blades wide, or 20-24 inches (50-60 cm)
-- **Path width:** 1 foot (30 cm) between rows, putting row centers about 36 inches (90 cm) apart
-- **[[wide-spacing-dry-gardening-low-irrigation-solomon|Spacing]]:** Increase spacing between rows if there may be long periods without rain
+Raised beds are the standard [[wide-spacing-dry-gardening-low-irrigation-solomon|Spacing]]:** Increase spacing between rows if there may be long periods without rain
 
 ### Dry Climate Adaptation
 In western Oregon, where it almost never rains in summer, Solomon used row centers of 4-5 feet (120-150 cm) apart, depending on the crop. This extreme spacing ensures each plant has access to soil moisture reserves that will last through drought.
@@ -71,9 +22,7 @@ Same as raised beds — use a combination shovel to move soil from paths onto th
 
 ### Best Uses
 - **Non-irrigated or minimally irrigated gardens**
-- **Dry [[cold-climate-gardening]]** where summer rainfall is unreliable
-- **Crops that can tolerate wider spacing:** Large brassicas, peppers, eggplant
-- **[[water-conservation]] priority** scenarios
+- **Dry [[water-conservation]] priority** scenarios
 
 ---
 
@@ -88,3 +37,88 @@ A hill is a small mound of highly fertile soil, typically 12-18 inches (30-45 cm
 - **Concentrated fertility:** All amendments go into a small area rather than being spread across the whole garden
 - **Fast start:** Seeds get off to a fast start because of high fertility immediately below them
 - **Frugality:** In a large winter garden, it would not be practical to turn the whole area into high-fertility soil — hills concentrate resources
+
+## Overview
+
+Solomon Raised Beds Wide Rows Hills Garden Layout Methods represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish solomon raised beds wide rows hills garden layout methods
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving solomon extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Solomon Raised Beds Wide Rows Hills Garden Layout Methods finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for solomon raised beds wide rows hills garden layout methods. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+solomon raised beds wide rows hills garden layout methods and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Solomon Raised Beds Wide Rows Hills Garden Layout Methods has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of solomon raised beds wide rows hills garden layout methods into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[root-competition-plant-spacing-solomon]]
+- [[solomon-growing-perennials-asparagus-rhubarb]]
+- [[solomon-low-grade-compost-making-methods]]
+- [[solomon-shade-and-sunlight-requirements]]
+- [[solomon-wheelbarrow-selection-garden-tool-care-maintenance]]

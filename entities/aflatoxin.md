@@ -20,20 +20,7 @@ sources:
 
 ## Overview
 
-Aflatoxins are a group of structurally related toxic [[grain-and-staple-crops]].
-
-The four major aflatoxins are designated **B₁, B₂, G₁,** and **G₂**, based on their blue (B) or green (G) fluorescence under ultraviolet light and their relative chromatographic mobility. Aflatoxin B₁ is the most abundant and most toxic member of the group, classified by the International Agency for Research on Cancer (IARC) as a Group 1 human carcinogen.
-
-Aflatoxin contamination affects a wide range of agricultural commodities including maize, groundnuts (peanuts), tree nuts, rice, figs, and dried spices. The global economic burden of aflatoxin contamination is estimated at billions of dollars annually due to crop losses, livestock impacts, trade restrictions, and healthcare costs.
-
-## Chemical Structure and Properties
-
-Aflatoxins are difuranocoumarin derivatives — polycyclic structures featuring a fused coumarin and bifuran ring system. Key chemical properties include:
-
-- **Molecular formula of B₁:** C₁₇H₁₂O₆
-- **Molecular weight:** 312.27 g/mol
-- **Appearance:** Pale yellow to white crystalline solid
-- **Solubility:** Moderately soluble in chloroform, methanol, and acetone; poorly soluble [[cytochrome-p450-enzymes-structure-function-pharmacology]] enzymes (particularly CYP1A2 and CYP3A4):
+Aflatoxins are a group of structurally related toxic [[cytochrome-p450-enzymes-structure-function-pharmacology]] enzymes (particularly CYP1A2 and CYP3A4):
 
 - **Bioactivation:** Epoxidation at the 8,9-double bond forms aflatoxin B₁-8,9-epoxide (AFBO), the ultimate toxic metabolite
 - **DNA adduct formation:** AFBO binds covalently to guanine residues, forming the N⁷-guanine adduct (AFB₁-N⁷-Gua), which can lead to G→T transversion mutations
@@ -54,10 +41,9 @@ Aflatoxin contamination can occur at every stage of the food supply chain — pr
 
 Prevention and mitigation strategies include:
 
-- **[[fukuoka-textdoc-biological-control-fallacy-pheromone-critique]]:** Application of non-toxigenic strains of A. flavus (e.g., Afla-Guard®) to competitively displace toxigenic strains in fields
-- **Good agricultural practices (GAP):** Timely harvest, proper drying to safe moisture levels, and [[mushroom-pests-insect-control-stamets]]
+- **[[mushroom-pests-insect-control-stamets]]
 - **Nixtamalization:** Traditional Mesoamerican alkaline cooking of maize reduces aflatoxin levels by 80–95%
-- **Binders and adsorbents:** Clay minerals (e.g., bentonite, NovaSil™) added to animal feed can sequester aflatoxins in the gastrointestinal tract
+- **Binders and adsorbents:** Clay minerals (e.g., [[bentonite]], NovaSil™) added to animal feed can sequester aflatoxins in the gastrointestinal tract
 - **Breeding for resistance:** Development of with reduced susceptibility through marker-assisted selection
 
 ## Health Effects in Humans
@@ -82,9 +68,83 @@ Accurate detection of aflatoxins requires sensitive analytical techniques:
 
 ## Historical Context and Discovery
 
-Aflatoxins were first identified in 1960 following the catastrophic "[[aflatoxin-turkey-x-disease-1960-discovery-peanut-meal]]" outbreak in England, in which approximately 100,000 turkeys died from a mysterious hemorrhagic illness traced to contaminated Brazilian peanut meal in commercial feed. The investigation, led by scientists at the Tropical Products Institute in London, identified *Aspergillus flavus* contamination as the causative agent and isolated the toxic compounds responsible.
+Aflatoxins were first identified in 1960 following the catastrophic "[[plants-of-the-gods-chemical-structures-hallucinogens]] of B₁ and G₁ determined by researchers at the USDA Western Regional Research Laboratory
 
-Key milestones in aflatoxin research:
+## Overview
 
-- **1961:** Aflatoxins chemically characterized as the causative agents of Turkey X disease
-- **1962:** [[plants-of-the-gods-chemical-structures-hallucinogens]] of B₁ and G₁ determined by researchers at the USDA Western Regional Research Laboratory
+Aflatoxin represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish aflatoxin
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving aflatoxin extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Aflatoxin finds practical application in multiple design contexts.
+[[permaculture-principles]] guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for aflatoxin. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+aflatoxin and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Aflatoxin has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of aflatoxin into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also

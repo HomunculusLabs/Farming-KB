@@ -90,7 +90,6 @@ Small coherent precipitates are sheared by dislocations through chemical (new in
 ## Observation Techniques
 
 ## See Also
-- [[shirota-psilocybin-crystal-form-spectral-data-and-analytical-characterization]]
 - [[fukuoka-high-yield-theory-photosynthesis-critique]]
 
 ## Practical Applications
@@ -122,8 +121,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[psilocybin]]
 - [[dom]]
-- [[mckenna-food-gods-wasson-amanita-theory]]
 - [[amanita-muscaria-holy-grail-theory-detailed]]
 - [[tree-of-knowledge-and-forbidden-fruit-theory]]

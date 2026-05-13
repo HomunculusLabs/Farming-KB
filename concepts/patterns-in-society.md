@@ -4,60 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Patterns in Society and Applied Pattern [[permaculture-landscape-society-anthropocentric-nature-centered-design|Design]]
-
-## Overview
-
-Bill Mollison extends permaculture pattern thinking beyond landscape design into
-social analysis and applied physical patterns, demonstrating that the same
-principles governing natural pattern formation — flow, hierarchy, edge, and
-distribution — operate in human societies and can be deliberately employed in
-practical designs for food production and water management.
-
----
-
-## Social Hierarchy: The "Boat" Pattern (Tasmania Study, 1969–1974)
-
-Mollison studied 35,000 individuals in Tasmania, mapping occupational and
-resource distribution as a cross-sectional pattern with four distinct levels:
-
-### Level 1 — Low Occupational (Resource) Area
-- Occupations: manual/unskilled urban labor
-- Sex ratio: ~140 males per 100 females
-- Family size: large families; mating system: serial polyandry
-- The extreme male surplus reflects migration and mortality differentials;
-  large families and serial polyandry are adaptive strategies under resource
-  scarcity.
-
-### Level 2 — Central / Middle Class
-- Occupations: adequate, steady nine-to-five employment
-- Sex ratio: ~104 males per 100 females (near parity)
-- Mating system: serial monogamy; moderate family size
-- This central zone represents demographic equilibrium with stable,
-  predictable social institutions.
-
-### Level 3 — Upper Levels
-- Population: few people; extensive resources
-- Sex ratio: ~100 females to 70 males (female surplus)
-- Small families; effective polygyny
-- The female surplus drives upward genetic streaming — women from lower
-  levels partner into higher-resource strata, carrying genes across class
-  boundaries.
-
-### Level 4 — Very High Levels
-- Occupations: executive directors, landed nobility
-- Mating system: lateral intermarriage for economic alliances
-- Institutions: exclusive schools, private resorts, closed social networks
-- Lateral intermarriage creates a closed genetic loop, preserving wealth
-  concentration while limiting gene flow into the broader population.
-
-## Genetic Streaming and Diffusion
-
-Sex ratio imbalances between levels create directional genetic flow: women move
-upward (Level 1 → Levels 3–4) driven by the female surplus at upper resource
-levels, while men at Level 1 experience reduced reproductive access. The net
-effect is continuous diffusion of genetic material across class boundaries,
-preventing total genetic [[patterns-of-society-and-social-stratification|stratification]] — though the apex (Level 4) partially
+# Patterns in Society and Applied Pattern [[patterns-of-society-and-social-stratification|stratification]] — though the apex (Level 4) partially
 resists this through lateral marriage.
 
 ---
@@ -84,7 +31,7 @@ knowledge degrades within a few generations — an irreversible loss.
 ### The Challenge to Artists
 Mollison's challenge: **study and portray knowledge in compact, memorable,
 transmissible form** — the essential function of design in tribal art,
-[[permaculture]] [[maps]], and architectural plans alike.
+[[maps]], and architectural plans alike.
 
 ---
 
@@ -147,3 +94,11 @@ water through stepped basins for aeration and sediment capture.
 8. **Apply the pattern** — Can it be transplanted or modified for the site?
 9. **Evaluate the result** — Does the applied pattern improve system function?
 10. **Connect to larger patterns** — How does it integrate regionally?
+
+## See Also
+
+- [[psilocybe-semilanceata-transcontinental-distribution-patterns]]
+- [[harner-cross-cultural-patterns-shamanic-plant-use]]
+- [[mckenna-prehistoric-imagination-and-consciousness-patterns]]
+- [[species-specific-flush-patterns-psilocybe-panaeolus-grass-seed]]
+- [[climatic-zones-and-global-weather-patterns]]

@@ -13,48 +13,15 @@ type: concept
 
 ## Overview
 
-The use of psychoactive plants and drugs spans two distinct yet parallel traditions: Western psychedelic-assisted psychotherapy and indigenous [[metzner-shamanic-healing-and-divination-paradigm]]. Ralph Metzner's comparative analysis, drawing on over 35 years of consciousness research, identifies four paradigms through which hallucinogenic substances have been used for healing and knowledge.
-
-These paradigms are: standard Western psychotherapy, traditional shamanic rituals, syncretic folk religious ceremonies, and hybrid shamanic-therapeutic rituals. While superficial similarities exist, profound differences in worldview and conceptions of reality fundamentally distinguish them.
-
-## Terminology
-
-Three terms are used interchangeably in the literature, each carrying distinct connotations:
-
-- **Psychedelic** ("mind-manifesting"): coined by Humphrey Osmond and Aldous Huxley, popularized by Timothy Leary and the Harvard group. Emphasizes the consciousness-expanding nature of the experience.
-- **Hallucinogenic**: the most common term in psychiatric research. The Latin root *alucinare* means "to wander in one's mind," which aptly describes the experiential journey. Metzner argues the term deserves rehabilitation.
-- **Entheogen** ("releasing the divine within"): proposed by R. Gordon Wasson and Jonathan Ott, sharing the root of "enthusiasm." Emphasizes spiritual dimensions and is preferred by many contemporary practitioners.
-
-## Western Psychedelic Psychotherapy
-
-### Historical Development
-
-The discovery of LSD's potent mind-altering properties at Sandoz Laboratories in Switzerland during World War II initially led to its characterization as "psychotomimetic" (mimicking psychosis) and "psycholytic" (dissolving psychic defenses).
-
-Military and espionage agencies invested considerable resources in determining delivery systems for covert use, but LSD's capacity to induce [[psilocybin-mystical-experiences-personality-change]] made it unsuitable as a weapon of war.
+The use of psychoactive plants and drugs spans two distinct yet parallel traditions: Western psychedelic-assisted psychotherapy and indigenous [[psilocybin-mystical-experiences-personality-change]] made it unsuitable as a weapon of war.
 
 ### Psycholytic Therapy
 
 Developed primarily in Europe, psycholytic therapy involved administering LSD in a series of sessions at gradually increasing doses alongside standard analytic psychotherapy using a Freudian perspective.
 
-The Czech psychiatrist Stanislav Grof, working within this model, discovered that deeper psychic opening could reveal birth and prebirth memories. He termed these sensory-emotional patterns [[metzner-grof-perinatal-matrices-and-transpersonal-realms]], identifying four basic patterns corresponding to different stages of the birth process.
-
-### Psychedelic Therapy
-
-The psychedelic model, preferred in Anglo-American circles, involved one or a small number of high-dose sessions. The approach was first used in treating alcoholism by Humphrey Osmond and Abram Hoffer in Canada, simulating the transformative "bottoming out" experience.
-
-Sidney Cohen and Oscar Janiger in Southern California extended the work to creative professionals in the arts and media communities, bringing considerable publicity and notoriety to the field.
-
-### Set and Setting
-
-Timothy Leary introduced and popularized the [[golden-guide-peyote-and-mescaline-cacti]] in all-night ceremonies with a "roadman" presiding. In Brazil, three [[metzner-brazilian-ayahuasca-churches-structural-comparison-santo-daime-udv-barquinha]] (Santo Daime, UDV, and Barquinia) use the brew as a sacrament in weekly ceremonies. The Bwiti cult in Gabon uses [[psilocybin-psilocin-chemistry]]
+The Czech psychiatrist Stanislav Grof, working within this model, discovered that deeper psychic opening could reveal birth and prebirth memories. He termed these sensory-emotional patterns [[golden-guide-peyote-and-mescaline-cacti]] in all-night ceremonies with a "roadman" presiding. In Brazil, three [[psilocybin-psilocin-chemistry]]
 - Ayahuasca and Its Chemical Constituents
-- Indigenous [[sacred-mushroom-traditions-in-mexico]]
-- Psychedelic Renaissance and Modern Research
-
-## See Also
-
-- [[metzner-hallucinogenic-drugs-psychotherapy-shamanism]]
+- Indigenous [[metzner-hallucinogenic-drugs-psychotherapy-shamanism]]
 ## Practical Considerations
 
 When working with Hallucinogenic Drugs in Psychotherapy and Shamanism, several practical factors should be
@@ -111,8 +78,6 @@ through generations to modern scientific approaches, the evolution continues
 to inform current best practices and research directions.
 
 ## See Also
-- [[hallucinogenic-drugs]]
 - [[shamanism]]
-- [[psychedelic-psychotherapy]]
 - [[set-and-setting]]
 - [[ayahuasca]]

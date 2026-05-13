@@ -11,7 +11,7 @@ sources: []
 
 ## Overview
 
-Forest ecology is the study of the interactions between organisms and their environment within forested ecosystems. Understanding these dynamics is essential for [[food-forest-design]] design, sustainable [[mycoforestry]], and [[pollinator-conservation]] efforts on the homestead and beyond.
+Forest ecology is the study of the interactions between organisms and their environment within forested ecosystems. Understanding these dynamics is essential for [[food-forest-design|food forest]] design, sustainable [[mycoforestry|forestry]], and [[pollinator-conservation|conservation]] efforts on the homestead and beyond.
 
 ## Forest Structure and Layers
 
@@ -24,16 +24,16 @@ The uppermost layer formed by the crowns of dominant trees. In temperate forests
 Beneath the canopy, shade-tolerant trees and tall shrubs form the understary. Species here must adapt to low light levels (1-5% of full sun). Many understory species explode into growth when a canopy gap opens. This layer provides critical cover and foraging habitat for wildlife.
 
 ### Shrub Layer
-Composed of woody plants under 15-20 feet. This layer includes berry-producing shrubs that are crucial food sources for birds and mammals. On the homestead, this layer is where many fruiting shrubs are integrated into [[food-forest-design]] designs.
+Composed of woody plants under 15-20 feet. This layer includes berry-producing shrubs that are crucial food sources for birds and mammals. On the homestead, this layer is where many fruiting shrubs are integrated into [[food-forest-design|food forest]] designs.
 
 ### Herbaceous Layer
 Non-woody plants including ferns, wildflowers, and grasses. This layer is most diverse in spring before canopy leaf-out creates deep shade. Many spring ephemerals complete their entire life cycle in this brief window.
 
 ### Forest Floor and Litter Layer
-The ground layer includes leaf litter, downed wood, and soil organic matter. This zone hosts the majority of forest [[fungal-decomposition]] [[mollison-designers-fish-pond-fertiliser-and-nutrient-cycling]]. Fungal networks ([[mycorrhizal-types]]) are concentrated here, connecting trees and facilitating nutrient exchange.
+The ground layer includes leaf litter, downed wood, and [[humus-and-soil-organic-matter]]. This zone hosts the majority of forest [[fungal-decomposition|decomposition]] [[mollison-designers-fish-pond-fertiliser-and-nutrient-cycling]]. Fungal networks ([[mycorrhizal-types|mycorrhizae]]) are concentrated here, connecting trees and facilitating nutrient exchange.
 
 ### Root Zone
-Below ground, root systems create a complex network. Most tree roots are in the top 2-3 feet of soil, though taproots can extend much deeper. The root zone is the primary interface between plants and soil [[fungal-biology-fundamentals]].
+Below ground, root systems create a complex network. Most tree roots are in the top 2-3 feet of soil, though taproots can extend much deeper. The root zone is the primary interface between plants and soil [[fungal-biology-fundamentals|biology]].
 
 ## Ecological Succession
 
@@ -52,7 +52,7 @@ Old-growth forests represent the climax or late-successional stage:
 - **High dead wood volume**: Snags and logs provide habitat for cavity-nesting birds, fungi, and invertebrates
 - **Undisturbed soil**: Intact soil profiles with deep organic layers and developed fungal networks
 
-Old-growth forests support the highest levels of [[fungal-biodiversity]] and store the most carbon per acre of any forest stage.
+Old-growth forests support the highest levels of [[fungal-biodiversity|biodiversity]] and store the most carbon per acre of any forest stage.
 
 ## Biodiversity in Forests
 
@@ -60,7 +60,7 @@ Old-growth forests support the highest levels of [[fungal-biodiversity]] and sto
 Forests harbor approximately 80% of terrestrial biodiversity. A single temperate forest can support:
 
 - 30-50 tree species
-- 200+ bird species (in [[fungal-biodiversity-tropical-forests]])
+- 200+ bird species (in tropical forests)
 - Thousands of insect species
 - Hundreds of fungal species
 - Dozens of mammal species
@@ -119,11 +119,11 @@ The thickness and character of each horizon depends on climate, parent material,
 
 Understanding forest ecology informs several homesteading practices:
 
-- [[food-forest-design]] design mimics natural forest [[teaming-with-microbes-soil-food-web-trophic-structure-and-succession]]
+- [[food-forest-design|food forest]] design mimics natural forest [[teaming-with-microbes-soil-food-web-trophic-structure-and-succession]]
 - agroforestry integrates productive trees with crops and livestock
-- [[pollinator-conservation]] of existing forest stands preserves biodiversity and watershed function
+- [[pollinator-conservation|conservation]] of existing forest stands preserves biodiversity and watershed function
 - Forest management for timber or firewood can follow natural disturbance patterns
-- Dead wood retention supports [[hemenway-backyard-wildlife-habitat]] and soil [[fungal-biology-fundamentals]]
+- Dead wood retention supports [[hemenway-backyard-wildlife-habitat]] and soil [[fungal-biology-fundamentals|biology]]
 
 ## References and Further Reading
 

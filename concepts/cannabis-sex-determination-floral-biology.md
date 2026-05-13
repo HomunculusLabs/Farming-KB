@@ -15,52 +15,11 @@ type: concept
 Cannabis is a dioecious plant species, meaning male and female flowers
 develop on separate plants, although monoecious individuals with both
 sexes on one plant occur occasionally. This sexual separation has
-profound implications for [[query-how-does-no-till-cannabis-cultivation-work]], breeding, and the
-production of sinsemilla (seedless) flowers. Understanding the biology
-of sex determination in cannabis is essential for any serious cultivator
-or breeder, as the differences between staminate (male) and pistillate
-(female) plants manifest in morphology, [[bloomfield-fungal-life-cycle-spiral-versus-circle]] timing, and most
-importantly, in the psychoactive [[cannabis-glandular-trichome-types-resin-production-clarke]] that defines the
-plant's value.
-
-[[photoperiod-cannabis]] produces
+profound implications for [[bloomfield-fungal-life-cycle-spiral-versus-circle]] timing, and most
+importantly, in the psychoactive [[photoperiod-cannabis]] produces
 approximately equal numbers of pure staminate and pure pistillate plants
 with a few hermaphrodites. Environmental stressors including nutrient
-excess or deficiency, mutilation, and altered [[cannabis-photoperiodism-and-light-cycles]] can shift
-this ratio dramatically away from the expected 1:1 proportion.
-
-## Key Concepts
-
-### Prefloral Primordia Differentiation
-
-The first sign of flowering is the appearance of undifferentiated flower
-primordia at the nodes behind the stipules. Initially sexually
-indistinguishable, males soon reveal themselves by their curved claw
-shape followed by round pointed flower buds with five radial segments.
-Females are recognized by the enlargement of a symmetrical tubular calyx
-(floral sheath) and are easier to identify at a young age than male
-primordia. Cultivators must wait until actual flowers form to determine
-sex with certainty.
-
-### Staminate (Male) Floral Structure
-
-Male flowers feature five petals approximately 5 millimeters long that
-hang downward, with five stamens emerging as slender anthers splitting
-upward from the tip, suspended on thin filaments. The exterior surface
-of the staminate calyx is covered with non-glandular trichomes. Pollen
-grains are nearly spherical, slightly yellow, 25 to 30 microns in
-diameter, with a smooth surface exhibiting 2 to 4 germ pores. Pollen
-is wind-dispersed and germinates 15 to 20 minutes after contacting a
-pistil surface.
-
-### Pistillate (Female) Floral Structure
-
-Female flowers appear as two long white, yellow, or pink pistils
-protruding from a thin membranous calyx covered with resin-exuding
-glandular trichomes. The calyx measures 2 to 6 millimeters and
-completely contains the ovary. Pistillate flowers are borne in pairs at
-the nodes, one on each side of the petiole behind the stipule of
-bracts that conceal the flowers. The [[greg-green-trichomes-and-resin-glands]] on the calyx surface
+excess or deficiency, mutilation, and altered [[greg-green-trichomes-and-resin-glands]] on the calyx surface
 produce the THC-laden trichomes that define the plant's psychoactive
 properties.
 
@@ -118,8 +77,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[det]]
 - [[photoperiodism]]
-- [[clarke-marijuana-botany-sex-determination-reproductive-biology]]
 - [[cannabis-sex-expression-hermaphrodite-breeding-clarke]]
 - [[cervantes-sex-determination-pre-flowering]]

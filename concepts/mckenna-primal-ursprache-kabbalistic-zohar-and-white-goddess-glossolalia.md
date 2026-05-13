@@ -1,7 +1,6 @@
 ---
 title: "The mckenna-glossolalia-and-primal-language-tryptamine-states (Ursprache)"
-source: "[[terence-mckenna]] — various lectures and talks"
-topic: "[[mckenna-tryptamine-glossolalia-and-primal-language]] and the Assembly Language Behind Language"
+source: "mckenna-tryptamine-glossolalia-and-primal-language and the Assembly Language Behind Language"
 tags:
   - glossolalia
   - ursprache
@@ -23,7 +22,7 @@ tags:
 
 ## Overview
 
-Terence McKenna proposed the existence of a **primal language** — an *Ursprache* — that lies behind all human tongues and can be directly accessed during tryptamine experiences, particularly under the influence of DMT and psilocybin. Unlike ordinary language, which is learned and culturally conditioned, this primal language is **discovered**, not invented. It emerges spontaneously from the experiencer, as though it were an innate capacity of the human nervous system — a deep structural layer of linguistic expression that predates and underlies every known language.
+[[terence-mckenna]] proposed the existence of a **primal language** — an *Ursprache* — that lies behind all human tongues and can be directly accessed during [[tryptamine]] experiences, particularly under the influence of DMT and psilocybin. Unlike ordinary language, which is learned and culturally conditioned, this primal language is **discovered**, not invented. It emerges spontaneously from the experiencer, as though it were an innate capacity of the human nervous system — a deep structural layer of linguistic expression that predates and underlies every known language.
 
 McKenna drew on a rich tapestry of historical and literary sources to support this claim, situating the tryptamine experience within a much older tradition of encounters with a language beyond language. The Ursprache is not a theoretical construct for McKenna; it is an experiential reality, one that anyone can encounter given the right neurochemical conditions. It represents the ground floor of all human communication, the substrate from which every grammar, every lexicon, every syntax ultimately arises.
 
@@ -63,11 +62,7 @@ In this state, sounds pass **without quantized distinction** — there are no di
 
 ## The Translinguistic Object and Cognitive Dissonance
 
-At the heart of the tryptamine experience lies a fundamental tension: the human mind, operating with ordinary language, encounters **[[mckenna-translinguistic-objects-cognitive-dissonance-tryptamine]]** — phenomena that cannot be adequately described or captured by any human tongue. These objects exist in a space where language as we know it breaks down entirely, where the categories of noun and verb, subject and object, dissolve into something more fluid and primary.
-
-### The Feedback Loop of Astonishment
-
-McKenna described humans, with characteristic self-deprecating humor, as **"monkeys"** who instinctively try to pour ordinary language over these [[glossolalia-translinguistic-objects]]. The language slides off **like water off a duck's back** — it cannot adhere to or capture what it is being asked to describe. This failure is not frustrating but **wondrous**: it generates a feedback loop of astonishment and awe that lies at the very core of the [[leary-psychedelic-experience-bardo-mapping]].
+At the heart of the tryptamine experience lies a fundamental tension: the human mind, operating with ordinary language, encounters **[[glossolalia-translinguistic-objects]]. The language slides off **like water off a duck's back** — it cannot adhere to or capture what it is being asked to describe. This failure is not frustrating but **wondrous**: it generates a feedback loop of astonishment and awe that lies at the very core of the [[leary-psychedelic-experience-bardo-mapping]].
 
 Each attempt to describe the indescribable reveals new dimensions of the translinguistic object, and each failure deepens the sense of encountering something genuinely beyond the reach of ordinary cognition. This cognitive dissonance is not a bug but a feature of the experience — it is the mind's way of registering that it has reached the edge of its own linguistic capacity and is touching something more fundamental, more original, more real than any word has ever captured. The astonishment feeds on itself, growing with each failed attempt at description, until the experiencer is saturated with a sense of wonder that has no name in any language.
 

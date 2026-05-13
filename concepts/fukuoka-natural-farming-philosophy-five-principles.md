@@ -136,9 +136,7 @@ Three decades of evidence — consistent yields without inputs, soil growing ric
 
 ## See also
 
-- [[natural-farming-principles-fukuoka]]
 - [[fukuoka-mu-nothingness-philosophy]]
-- [[fukuoka-clay-pellet-seed-broadcasting]]
 - [[fukuoka-natural-orchard-management-three-dimensional-system]]
 
-*Source: The Natural Way of Farming: The [[microdosing-theory-and-practice]] of [[fukuoka-green-philosophy]] by [[masanobu-fukuoka]], Preface and Introduction.*
+*Source: The Natural Way of Farming: The [[fukuoka-green-philosophy]] by [[masanobu-fukuoka]], Preface and Introduction.*

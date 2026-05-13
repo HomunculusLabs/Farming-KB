@@ -9,7 +9,7 @@ sources: []
 
 # Johns Hopkins Psychedelic Research
 
-The Johns Hopkins Center for Psychedelic and Consciousness Research, established in 2019, is one of the world's leading psychedelic research institutions. Building on two decades of groundbreaking studies, the Center has conducted landmark research on psilocybin for depression, anxiety, addiction, and [[psilocybin-mystical-experiences-personality-change]]. See [[psychedelic-safety-and-contra-indications]] for their safety protocols.
+The Johns Hopkins Center for Psychedelic and Consciousness Research, established in 2019, is one of the world's leading psychedelic research institutions. Building on two decades of groundbreaking studies, the Center has conducted landmark research on psilocybin for depression, anxiety, addiction, and [[psychedelic-safety-and-contra-indications]] for their safety protocols.
 
 ## History
 
@@ -18,8 +18,7 @@ Johns Hopkins University has been at the forefront of the modern psychedelic res
 - **2000:** Roland Griffiths and colleagues received regulatory approval to restart psychedelic research at Johns Hopkins after a decades-long hiatus
 - **2006:** Published the first double-blind study of psilocybin in healthy volunteers since the 1970s, demonstrating that psilocybin could produce mystical-type experiences with lasting positive effects
 - **2011:** Opened the Behavioral Pharmacology Research Unit for expanded psychedelic studies
-- **2019:** Launched the Center for Psychedelic and Consciousness Research with $17 million in philanthropic funding, the first such center in the [[dmt-containing-plants-united-states-halpern]]
-- **2020s:** Expanded into multiple [[mushroom-cancer-clinical-trials-overview]] for various psychiatric conditions
+- **2019:** Launched the Center for Psychedelic and Consciousness Research with $17 million in philanthropic funding, the first such center in the [[mushroom-cancer-clinical-trials-overview]] for various psychiatric conditions
 
 ## Roland Griffiths, PhD (1946-2023)
 
@@ -68,11 +67,7 @@ Johns Hopkins studies are notable for their methodological rigor:
 - Careful screening and preparation of participants
 - Structured session environments with eyeshades and curated music playlists
 - Experienced guides present throughout sessions
-- Standardized dose ranges explored in [[psilocybin-compound-profile]] — Detailed [[emcdda-psilocybin-non-addictive-profile-tolerance-dynamics]]
-- [[psychedelic-safety-and-contra-indications]] — Safety protocols and screening criteria
-
-## Related
-
+- Standardized dose ranges explored in [[emcdda-psilocybin-non-addictive-profile-tolerance-dynamics]]
 - [[psychedelic-harm-reduction-guide]]
 - [[mushroom-cancer-clinical-trials-overview]]
 ## Practical Considerations

@@ -18,21 +18,12 @@ type: concept
 
 # Semi-Wild Vegetable Cultivation Methods
 
-Fukuoka's approach to [[jeavons-crop-rotation-system]] is to permanently preserve nature through:
-
-- Soil enrichment with leguminous [[vegetable-seed-and-transplant-guide]]
+Fukuoka's approach to [[vegetable-seed-and-transplant-guide]]
 in fields, orchards, on earthen levees, or on any open, unused land. For most vegetables,
-mixed sowing with [[fukuoka-ladino-clover-ground-cover-management]] gradually gives a [[liquid-fertilizer-from-weeds]] at the seedling stage, but once they get a little larger, they are
+mixed sowing with [[liquid-fertilizer-from-weeds]] at the seedling stage, but once they get a little larger, they are
 strong crops.
 
-Yam and [[comparison-cassava-vs-taro-vs-sweet-potato-vs-yam]] grow well at the foot of the orchard shelterbelt. These are especially
-enjoyable because the vines climb trees and produce fairly large tubers. Fukuoka notes he was
-growing sweet potato vines over the winter to achieve large harvests, which would mean sweet
-potatoes could be grown in cold climates.
-
-## The Manure Question
-
-Some people have reservations about applying [[fukuoka-textdoc-animal-manure-human-waste-natural-cycle-heretic]] and human wastes to the land, but
+Yam and [[fukuoka-textdoc-animal-manure-human-waste-natural-cycle-heretic]] and human wastes to the land, but
 the reply is very simple and clear. Life in nature is a continuous cycle between animals, plants,
 and microorganisms. Animals live by feeding on plants. Their wastes and bodies when they die are
 buried in the soil where they become food for small animals and microorganisms. The
@@ -57,24 +48,7 @@ Semi-wild vegetables have a pungent aroma and good body. Because these have been
 healthy soil containing all the necessary micronutrients, they are without question the most
 ## See Also
 
-- [[fukuoka-wild-and-semi-wild-foods]]
-## Practical Considerations
-
-When working with Semi-Wild Vegetable Cultivation Methods, several practical factors should be
-carefully considered to achieve optimal results. These include
-the specific conditions of the implementation context, available
-resources, timing requirements, and the interactions between this
-topic and other elements of the broader system. A holistic view
-that considers these interconnections produces better outcomes.
-
-Environmental conditions such as temperature, moisture, and
-seasonal patterns significantly influence results. Monitoring these
-variables and adapting practices accordingly is essential for success.
-The most effective practitioners develop keen observation skills and
-respond flexibly to changing conditions rather than following rigid
-protocols regardless of circumstances or local variation.
-
-[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
+- [[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -111,8 +85,6 @@ through generations to modern scientific approaches, the evolution continues
 to inform current best practices and research directions.
 
 ## See Also
-- [[fukuoka-natural-vegetable-rotation-semi-wild-cultivation]]
 - [[fukuoka-semi-wild-vegetable-cultivation-techniques]]
-- [[doc]]
 - [[fukuoka-semi-wild-vegetable-growing-techniques]]
 - [[fukuoka-semi-wild-vegetable-growing-natural-method]]

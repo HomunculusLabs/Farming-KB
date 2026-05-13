@@ -9,18 +9,10 @@ sources: []
 # Medicinal Plant Preparations — Tinctures, Salves, Teas
 
 Detailed preparation guides for common herbal medicine forms. For an overview
-of all preparation types, equipment, and [[psilocybin-shelf-life-stability]], see
-[[calendula-officinalis]]
-
-- [[ocimum-tenuiflorum-entity]]
+of all preparation types, equipment, and [[calendula-officinalis]]
 
 - [[herbal-medicine-making-basics]] — Overview of all preparation types,
   harvesting, and shelf life
-- [[nervine-herbs-and-anxiety-relief]] — Nervine herbs for stress and anxiety
-
-## Related
-
-- herbal plant remedies
 - [[calendula-salve-making]]
 - [[herbal-medicine-preparation-methods]]
 ## Practical Applications

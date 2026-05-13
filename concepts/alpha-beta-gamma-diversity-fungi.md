@@ -43,43 +43,8 @@ Alpha diversity in fungal communities is influenced by:
 ### Beta Diversity
 
 Beta diversity measures species turnover between habitats, sites, or along
-[[fungal-adaptations-environmental-gradients]]. It quantifies how different communities are from each
-other and is the most commonly used differentiation diversity metric.
-
-Beta diversity can be measured using presence-absence (binary) or abundance data:
-
-- **Whittaker's beta** (bw = S/a - 1): total species count divided by
-  average sample diversity minus one
-- **Sorensen index**: 2C / (A + B), where C is shared species between sites
-- **Jaccard index**: C / (A + B - C), a complementary dissimilarity measure
-
-### Gamma Diversity
-
-Gamma diversity represents [[fungal-species-estimation-methods-total-diversity]] across all sampling units within a
-landscape. In Whittaker's framework: gamma = alpha × beta. For [[bloomfield-mycorrhizal-symbiosis-and-fungal-ecology]],
-gamma diversity captures cumulative species richness across multiple habitats,
-substrates, and microenvironments. This is particularly important because many
-fungal species have restricted distributions linked to specific host plants,
-substrate types, or microclimatic conditions not captured within single samples.
-
-## Scale-Dependent Patterns in Fungi
-
-### Soil Fungal Communities
-
-Soil fungal alpha diversity varies with soil type, depth, and vegetation cover.
-Beta diversity along environmental gradients (moisture, pH, disturbance)
-reflects niche differentiation among fungal taxa.
-
-### Coprophilous Fungi
-
-Beta diversity between tropical and temperate dung-inhabiting fungal communities
-is remarkably high, reflecting climatic adaptation and co-evolutionary
-relationships with herbivore gut microbiomes. Tropical coprophilous assemblages
-show higher alpha diversity but lower species overlap across sites.
-
-### Endophytic Fungi
-
-[[fungal-endophyte-colonization-patterns]] communities within plant leaves show high beta diversity even
+[[fungal-species-estimation-methods-total-diversity]] across all sampling units within a
+landscape. In Whittaker's framework: gamma = alpha × beta. For [[fungal-endophyte-colonization-patterns]] communities within plant leaves show high beta diversity even
 among individual leaves on the same tree, driven by microenvironmental gradients,
 localized immune responses, and stochastic colonization events. Alpha diversity
 of endophytes typically increases with leaf age and decreases with canopy height.
@@ -117,8 +82,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[coprophilous-fungi]]
 - [[endophytic-fungi]]
-- [[mycorrhiza]]
 - [[alpha-beta-diversity-cannabis-root-microbiomes]]
 - [[endophytic-fungi-diversity]]

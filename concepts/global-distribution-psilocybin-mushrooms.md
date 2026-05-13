@@ -1,58 +1,15 @@
-# Global Distribution of [[psilocybin-mushrooms]]
-
-## Overview
-
-The worldwide distribution of psilocybin-containing mushrooms is far broader than commonly
-appreciated. The 2000 survey by Guzmán, Allen, and Gartz documented neurotropic fungi
-across all continents except Antarctica, ranging from Alaska and Siberia in the north to
-Chile, Australia, and New Zealand in the south, and from sea level to elevations exceeding
-4,000 meters. However, the authors emphasized that distribution records are heavily biased
-by the geographic concentration of mycological research, and that many regions remain
-essentially unsurveyed.
-
-## Biogeographic Patterns
-
-The most striking pattern in the distribution of [[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]] is their
+# Global Distribution of [[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]] is their
 concentration in and near the Austral (Southern) hemisphere, particularly in subtropical
 humid forests. This distribution correlates with the regions where indigenous use of
 neurotropic fungi is best documented. The authors noted that "the majority of the species
-[of *Psilocybe*] are found in or near the [[biogeography-austral-hemisphere-fungi]], mainly in the subtropical
-humid forests."
-
-Mexico stands as the single most significant country for neurotropic fungal diversity,
-with 76 documented species — more than any other nation. Of these, 44 belong to the genus
-*Psilocybe*, representing 39% of the world's known psilocybin-containing species. This
-concentration of diversity in southern Mexico, particularly in the states of Oaxaca,
-Puebla, and the highlands of central Mexico, corresponds precisely with the regions where
-indigenous [[stamets-psi-mazatec-mushroom-ceremonies-ethnobotany]] have been documented since the 1950s.
+[of *Psilocybe*] are found in or near the [[stamets-psi-mazatec-mushroom-ceremonies-ethnobotany]] have been documented since the 1950s.
 
 Other significant centers of diversity include Brazil, Colombia, and other tropical South
-American countries; Southeast Asia (particularly Thailand, where *[[psilocybe-semilanceata]]* and a few other species).
-
-## Habitat and Ecology
-
-Psilocybin mushrooms occupy diverse ecological niches, but several habitat preferences
-are notable:
-
-**Dung-inhabiting species**: The most widely distributed group, including *Psilocybe
-cubensis*, *Copelandia* species, and many *Panaeolus* species, grow on the dung of
-herbivorous animals, particularly cattle. *Psilocybe cubensis* is pantropical, occurring
-wherever zebu-type cattle graze. This ecological association with pastoral animals has
-been proposed (notably by Terence McKenna) as the basis for the co-evolutionary
-relationship between humans, cattle, and psychoactive mushrooms.
-
-**Grassland species**: *[[guzman-allen-gartz-psilocybe-semilanceata-temperate-cosmopolitan-distribution]]* (the liberty cap) is the most widely
-distributed [[psilocybe-aztecorum-entity-the-mushroom-cultivator]]* grows in the high mountains of
-central Mexico at elevations up to 4,000 meters, making it one of the highest-elevation
-psilocybin mushrooms known. At the other extreme, tropical species like *Psilocybe
-cubensis* and *[[panaeolina-foenisecii]]*,
+American countries; Southeast Asia (particularly Thailand, where *[[guzman-allen-gartz-psilocybe-semilanceata-temperate-cosmopolitan-distribution]]* (the liberty cap) is the most widely
+distributed [[panaeolina-foenisecii]]*,
 commonly known as the haymaker's mushroom or mowers' mushroom, is cosmopolitan in
 temperate grasslands worldwide, though its psychoactive status remains debated. Most
 *Panaeolus* species are also widely distributed in warm and temperate regions.
-
-*[[bloomfield-ergot-claviceps-purpurea-ergotism]]* (ergot), an Ascomycete rather than a mushroom, infects grasses and
-cereals across temperate regions worldwide and has caused significant historical episodes
-of mass poisoning. Its distribution is effectively coextensive with its grass hosts.
 
 *[[allegro-amanita-muscaria-properties-and-pharmacology]]* has a circumboreal distribution in the Northern Hemisphere, growing
 in mycorrhizal association with pine (*Pinus*) and birch (*Betula*) in temperate and boreal
@@ -111,8 +68,83 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[psilocybin-mushrooms]]
 - [[psilocybin]]
-- [[psilocybin-mushroom]]
 - [[doc]]
 - [[terence-mckenna]]
+
+## Overview
+
+Global Distribution Psilocybin Mushrooms represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish global distribution psilocybin mushrooms
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving global extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Global Distribution Psilocybin Mushrooms finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for global distribution psilocybin mushrooms. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+global distribution psilocybin mushrooms and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Global Distribution Psilocybin Mushrooms has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of global distribution psilocybin mushrooms into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.

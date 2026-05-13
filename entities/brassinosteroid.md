@@ -21,16 +21,7 @@ Brassinosteroids were first isolated in 1979 from rapeseed (*Brassica napus*) po
 Brassinosteroids are polyhydroxylated steroidal compounds characterized by a common structural motif: oxygen functions at C-2, C-3, and C-22/23, along with a side-chain lactone or ketone. They are subdivided based on the number of carbon atoms (C₂₇, C₂₈, or C₂₉) and the nature of the oxygenated side chain. Major categories include:
 
 - **C₂₈ brassinosteroids**: Including brassinolide and castasterone, the most common and potent forms.
-- **C₂₉ brassinosteroids**: Such as [[arabidopsis-thaliana]]:
-
-1. Brassinolide (or another brassinosteroid) binds to the extracellular domain of the BRI1 receptor kinase at the plasma membrane.
-2. BRI1 heterodimerizes with its co-receptor BAK1, activating cytoplasmic kinase signaling.
-3. The GSK3-like kinase BIN2 is inhibited, releasing its suppression of transcription factors BZR1 and BES1.
-4. BZR1/BES1 translocate to the nucleus and regulate thousands of brassinosteroid-responsive genes.
-
-## Agricultural Applications
-
-Synthetic brassinosteroids and brassinosteroid analogs have been evaluated for crop improvement, with documented benefits including increased yields of rice, wheat, maize, and vegetables. They are applied at extremely low concentrations (nanomolar range), making them cost-effective growth enhancers. Their anti-stress properties have generated interest for use in climate-resilient agriculture. Field trials across multiple crop species and growing regions have demonstrated that brassinosteroid application can improve [[cannabis-seed-germination-methods]] rates, root development, [[cannabis-vegetative-growth-stage]], and reproductive output. The stress-mitigating efepibrassinolidecularly noteworthy: brassinosteroid-treated plants show improved recovery from drought, heat, cold, and salinity stress, as well as enhanced resistance to fungal and bacterial pathogens. Commercial brassinosteroid formulations, primarily based on 24-epibrassinolide and 28-homobrassinolide, are registered for agricultural use in several countries, particularly in Asia and Latin America. Interest in brassinosteroids for sustainable agriculture continues to grow as [[dighton-fungi-climate-change-feedback]] increases abiotic stress on crop production worldwide.
+- **C₂₉ brassinosteroids**: Such as [[cannabis-seed-germination-methods]] rates, root development, [[dighton-fungi-climate-change-feedback]] increases abiotic stress on crop production worldwide.
 
 ## Biosynthesis in Plants
 
@@ -42,19 +33,7 @@ Active brassinosteroids are maintained at very low concentrations in plant tissu
 
 ## Cross-Talk with Other Hormonal Pathways
 
-Brassinosteroid signaling intersects extensively with other plant hormonal systems. It synergizes with [[homobrassinolide]] at 10⁻² ppm dramatically accelerated [[brassinosteroid-psilocybe-cubensis-mycelial-growth-research]] and fruiting in [[mushroom-cultivation]], as brassinosteroid application could potentially improve yields of cultivated species.
-
-## Brassinosteroid Deficiency and Mutants
-
-Mutants deficient in brassinosteroid biosynthesis or signaling display a characteristic dwarf phenotype with dark green, curled leaves, shortened hypocotyls, reduced fertility, and delayed senescence. The *det2* (de-etiolated 2) mutant of arabidopsis thaliana was one of the first brassinosteroid-deficient mutants characterized and encodes a steroid 5α-reductase homologous to mammalian enzymes involved in testosterone metabolism. Other well-studied mutants include *bri1* (brassinosteroid insensitive 1), which lacks the membrane receptor kinase, and *bin2* (brassinosteroid insensitive 2), a constitutively active negative regulator. These mutants have been instrumental in dissecting the brassinosteroid signaling pathway and establishing the hormone's essential role in normal plant development.
-
-## Commercial Products
-
-Several commercial brassinosteroid formulations are available for agricultural use, primarily based on 24-epibrassinolide and 28-homobrassinolide. These products are marketed as [[singh-fungal-plant-growth-regulators-production]] and stress mitigants. [[ingham-compost-tea-application-rates-and-timing]] are typically in the range of 0.01 to 0.1 mg/L, reflecting the high biological activity of these compounds. The global market for brassinosteroid-based products has been growing steadily, particularly in China, India, and Latin America.
-
-## See Also
-
-- [[homobrassinolide]]
+Brassinosteroid signaling intersects extensively with other plant hormonal systems. It synergizes with [[brassinosteroid-psilocybe-cubensis-mycelial-growth-research]] and fruiting in [[singh-fungal-plant-growth-regulators-production]] and stress mitigants. [[homobrassinolide]]
 - brassinolide
 - [[psilocybe-cubensis]]
 - j.-gartz
@@ -78,3 +57,88 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
+
+## Overview
+
+Brassinosteroid represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish brassinosteroid
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving brassinosteroid extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Brassinosteroid finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for brassinosteroid. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+brassinosteroid and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Brassinosteroid has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of brassinosteroid into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[abort-suppression-brassinosteroid-incomplete-fruit-body-reduction]]
+- [[brassinosteroid-psilocybe-cubensis-growth]]
+- [[first-flush-acceleration-brassinosteroid-timing-reduction]]
+- [[incomplete-fruit-body-suppression-brassinosteroid-mushroom-cultivation]]
+- [[phytohormone-activity-on-fungi-literature-gap-brassinosteroid]]

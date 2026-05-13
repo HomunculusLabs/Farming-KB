@@ -18,11 +18,7 @@ the largest biological networks on Earth.
 
 ## Hyphal Anatomy
 
-Each hypha is a tubular cell enclosed by a rigid [[staycare-degradation-of-plant-cell-wall-polymers-by-fungi]] composed
-primarily of chitin and glucans.
-
-Hyphae grow at their tips via a specialised structure called the
-Spitzenkorper, a vesicle-rich organelle that directs [[chitin-chitosan-fungal-cell-wall]]
+Each hypha is a tubular cell enclosed by a rigid [[chitin-chitosan-fungal-cell-wall]]
 synthesis and membrane expansion.
 
 Behind the growing tip, mature regions contain nuclei, mitochondria,
@@ -39,8 +35,7 @@ a continuous multinucleate mass.
 
 ## Network Topology
 
-[[fungal-mycelial-networks-nutrient-translocation]] exhibit striking structural similarities to
-engineered [[biological-transport-networks]].
+[[biological-transport-networks]].
 
 Key features include:
 
@@ -53,8 +48,7 @@ Key features include:
 - **Nodes** of high connectivity where multiple hyphae converge, often
   coinciding with nutrient hotspots
 
-Research by Fricker et al. (2007) demonstrated that [[fungal-pulsatile-nutrient-transport-mycelial-networks]]
-in *[[phanerochaete-velutina]]* display small-world topology: short path
+Research by Fricker et al. (2007) demonstrated that [[phanerochaete-velutina]]* display small-world topology: short path
 lengths between any two points combined with high clustering at local
 nodes.
 

@@ -20,8 +20,7 @@ biosorption are:
 3. Flocculation and sedimentation efficiency
 4. Desorption efficiency for biomass regeneration
 5. Preservation of biosorptive capacity through reuse cycles
-Fungal melanins contribute significantly to [[staycare-fungal-biosorption-mechanisms-for-heavy-metal-removal]]. The cell
-wall, particularly [[chitin-and-chitosan-in-agriculture]] components, serves as the
+Fungal melanins contribute significantly to [[chitin-and-chitosan-in-agriculture]] components, serves as the
 predominant target for metal binding.
 ## Mechanisms of Metal Binding
 Fungal biosorption involves several physicochemical mechanisms at
@@ -43,23 +42,10 @@ sites for metal ions.
 Mucorales are excellent uranium biosorbents. Uptake capacities
 in mg/g dry weight:
 - Mucor javanicus: 343 mg/g UO2(II)
-- [[rhizopus-arrhizus]]: 170 mg/g UO2(II)
-- Rhizopus oryzae: 227 mg/g UO2(II)
-- Neurospora sitophila: 285 mg/g UO2(II)
-### Lead Biosorption
 - [[aspergillus-niger]]: 580 mg/g Pb(II)
 - Phellinus badius: 170 mg/g Pb(II)
 - Rhizopus nigricans: 68 mg/g Pb(II) at 500 mg/l
-- [[penicillium-chrysogenum]]: 116 mg/g Pb(II)
-### Chromium Biosorption
-- Rhizopus nigricans (APTS-treated): 212 mg/g Cr(VI)
-- Rhizopus nigricans (PEI-treated): 160 mg/g Cr(VI)
-- Mucor miehei: 1.15 mM/g Cr(III) at pH 4.0
-## Multi-Metal Systems and Selectivity
-Mucor rouxii (dead biomass) showed higher uptake than live biomass
-for multiple metals simultaneously: Pb(II) 53.75 mg/g, Ni(II)
-20.49 mg/g, Cd(II) 20.31 mg/g, Zn(II) 53.85 mg/g. Metal
-enrichment selectivity by [[mucor-hiemalis]] follows: Cr(III) > Cu(II)
+- [[mucor-hiemalis]] follows: Cr(III) > Cu(II)
 > Pb(II) > Ag(I) > Al(III) > Co(II) > Zn(II) > Ni(II) > Fe(II).
 ## Biomass Pretreatment and Regeneration
 Common metal eluants for regeneration include:
@@ -118,8 +104,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[fungal-melanin]]
 - [[dom]]
-- [[det]]
 - [[singh-fungal-biosorption-reactors-heavy-metals]]
 - [[staycare-fungal-biosorption-of-heavy-metals]]

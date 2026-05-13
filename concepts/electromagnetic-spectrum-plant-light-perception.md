@@ -16,9 +16,7 @@ type: concept
 The electromagnetic spectrum encompasses all forms of electromagnetic
 radiation, from radio waves to gamma rays. Plants have evolved to detect
 specific bands within this spectrum for photosynthesis, photomorphogenesis,
-and [[fungal-environmental-sensing-signal-transduction]]. Understanding the full electromagnetic context
-of plant light perception illuminates both the capabilities and limits of
-plant "vision" as described by [[daniel-chamovitz]] in *What a Plant Knows*
+and [[daniel-chamovitz]] in *What a Plant Knows*
 (2012).
 
 ## The Electromagnetic Spectrum
@@ -31,15 +29,7 @@ frequencies:
   long
 - **Microwaves**: ~1 mm to 1 m. Used for radar, cooking
 - **Infrared**: ~700 nm to 1 mm. Felt as heat, not visible
-- **[[plant-photoreception-visible-light]]**: ~380-700 nm. Detected by both humans and plants
-- **Ultraviolet**: ~100-380 nm. Causes sunburn in humans, detected by
-  plants
-- **X-rays**: ~0.01-10 nm. Extremely short, pass through soft tissue
-- **Gamma rays**: < 0.01 nm. Shortest, most energetic electromagnetic
-  radiation
-
-Light waves, in the middle of this range, span 0.0000004 to 0.0000007
-metres (400-700 nanometres). [[blue-light-phototropism-red-light-photoperiodism-dual-plant-vision-system]] has the shortest wavelength in
+- **[[blue-light-phototropism-red-light-photoperiodism-dual-plant-vision-system]] has the shortest wavelength in
 the visible range, red the longest, with green, yellow, and orange in
 between — which is why rainbows always display the same colour ordering.
 
@@ -82,43 +72,78 @@ plants:
 ### Light as Energy (Photosynthesis)
 
 - Chlorophyll a and b absorb primarily blue (~430 nm) and red (~660 nm)
-- Driven by photon capture to fuel [[c3-c4-cam-photosynthesis-plant-carbon-fixation-pathways]]
-- Quantity of light matters more than quality
-- Operates across the PAR range (400-700 nm)
+- Driven by photon capture to fuel [[plant-photoreception]]
+- [[electromagnetic-spectrum-visible-light-plant-perception]]
+- [[phototropism]]
 
-### Light as Information (Photomorphogenesis)
+## Overview
+
+Electromagnetic Spectrum Plant Light Perception represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish electromagnetic spectrum plant light perception
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving electromagnetic extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
 
 ## Practical Applications
 
-The principles and techniques discussed here have wide-ranging applications
-across multiple disciplines and contexts. Practitioners and researchers
-continue to explore new ways to integrate these concepts into modern practice,
-adapting traditional knowledge to contemporary challenges and opportunities.
+Electromagnetic Spectrum Plant Light Perception finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
 
-## Key Considerations
+## Management and Implementation
 
-Several important factors influence the effectiveness and outcomes described
-in this topic. Understanding these considerations helps practitioners make
-informed decisions and avoid common pitfalls. Environmental conditions,
-timing, and material selection all play critical roles.
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for electromagnetic spectrum plant light perception. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+electromagnetic spectrum plant light perception and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
 
 ## Historical Context
 
-The historical development of this subject reflects centuries of accumulated
-knowledge and practical experience. From traditional methods passed down
-through generations to modern scientific approaches, the evolution continues
-to inform current best practices and research directions.
+Electromagnetic Spectrum Plant Light Perception has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
 
-## Common Challenges
+## Integration Strategies
 
-Practitioners frequently encounter several challenges when working with
-these concepts. Climate variability, resource limitations, and knowledge
-gaps can all affect outcomes. Addressing these challenges requires patience,
-observation, and a willingness to adapt approaches based on results.
+Successful integration of electromagnetic spectrum plant light perception into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
 
-## See Also
-- [[plant-photoreception]]
-- [[chamovitz-electromagnetic-spectrum-light-wavelengths-plant-perception]]
-- [[electromagnetic-spectrum-visible-light-plant-perception]]
-- [[det]]
-- [[phototropism]]
+## Challenges and Solutions

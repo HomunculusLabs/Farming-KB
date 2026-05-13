@@ -5,9 +5,9 @@ source_path: raw/papers/gardening-when-it-counts-steve-solomon.md
 tags: [soil-testing, laboratory-analysis, soil-fertility, pH, COF, complete-organic-fertilizer, nutrient-management, lime, gypsum, clay-soil, steve-solomon]
 ---
 
-[[soil-testing-and-interpretation]] nd Laborator [[ozier-pdc-sector-analysis-for-site-design]] or Low-Input Gardens
+[[ozier-pdc-sector-analysis-for-site-design]] or Low-Input Gardens
 
-## Overvi [[steve-solomon]] omon takes a deliberately pragmatic approach [[soil-testing]] ing in *Gardeni [[solomon-gardening-when-it-counts-index]] It Counts*.[[permaculture-integrate-rather-than-segregate]] n urging gardeners to invest in professional laboratory analysis, he argues that most home food gardens can achieve excellent results through a systematic organic fertility program — his Complete Organic Fertilizer (COF) recipe — combined with regular compost and manure applications. Laboratory testing enters the picture only in specific situations where regional soil chemistry demands it.
+## Overvi [[soil-testing]] ing in *Gardeni [[permaculture-integrate-rather-than-segregate]] n urging gardeners to invest in professional laboratory analysis, he argues that most home food gardens can achieve excellent results through a systematic organic fertility program — his Complete Organic Fertilizer (COF) recipe — combined with regular compost and manure applications. Laboratory testing enters the picture only in specific situations where regional soil chemistry demands it.
 
 ## Solomon's Skepticism Toward pH Testing
 
@@ -17,7 +17,7 @@ Solomon's most striking position on soil testing is his dismissal of pH correcti
 
 His reasoning draws on the work of soil scientist William Albrecht (cited in the book's bibliography). Solomon argues that:
 
-1. Liming to adjust soil pH is relevant to conventional chemical farming but not to organic gardening
+1. Liming to adjust [[soil-ph]] is relevant to conventional chemical farming but not to organic gardening
 2. The concept of soil pH as a primary driver of fertility is controversial among soil scientists
 3. Adding organic matter and balanced mineral amendments naturally corrects pH over time
 

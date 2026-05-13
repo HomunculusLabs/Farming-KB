@@ -15,7 +15,7 @@ inchi_key: ZMJGSOSNSPKHNH-UHFFFAOYSA-N
 created: 2026-05-02
 updated: 2026-05-02
 related_concepts:
-  - [[pyridoxal-phosphate-coenzyme-chemistry]]
+  - pyridoxal-phosphate-coenzyme-chemistry
 sources:
   - https://pubchem.ncbi.nlm.nih.gov/compound/1053
   - https://en.wikipedia.org/wiki/Pyridoxamine
@@ -52,8 +52,7 @@ The surrounding protein controls when PMP releases its amino group to a keto aci
 
 PMP and PLP are interconverted during aminotransferase catalytic cycles.
 PLP begins many transamination reactions as an aldehyde-containing amino-group acceptor.
-An [[cho-fish-amino-acid-preparation]] substrate transfers its amino group to PLP.
-The carbon skeleton of that [[fish-amino-acid]] leaves as an alpha-keto acid.
+An [[fish-amino-acid]] leaves as an alpha-keto acid.
 The cofactor is then present as PMP.
 PMP subsequently reacts with a second alpha-keto acid.
 It donates the amino group to that keto acid to form a new [[fish-amino-acid-faa]].

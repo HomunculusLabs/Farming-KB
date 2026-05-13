@@ -13,24 +13,8 @@ type: concept
 
 ## Overview
 
-The [[dual-chambered-terrarium]] is the [[gottlieb-psilocybin-cultivation-fruiting-chamber-design]] at the heart of the PF
-TEK. Built from a standard 10-gallon aquarium, it uses a [[pf-tek-dual-chambered-terrarium-spray-shield-humidity-physics]]
-partition to create two distinct zones: a primary chamber that receives direct
-spraying, and a secondary chamber where the fungus cakes are bathed in finely
-molecularized humidity safely away from damaging water droplets. This design
-easily achieves the near-100% humidity that mushrooms require for fruiting.
-
-## Why Humidity Matters
-
-Mushrooms receive water from two sources: the substrate they grow on and the
-surrounding air. The air must be highly humidified so the fungus can bathe in
-a shroud of floating water molecules. At 100% humidity, there is the maximum
-number of water molecules suspended among the air atoms. The dual chambered
-terrarium is designed to achieve and maintain these conditions.
-
-The first rule of humidification is to never directly spray the fungus itself.
-Water droplets from a spray bottle are giant ponds of water relative to the
-fine [[fungal-mycelial-networks-nutrient-translocation]]. Direct contact drowns the fungal micro-structures and
+The [[gottlieb-psilocybin-cultivation-fruiting-chamber-design]] at the heart of the PF
+TEK. Built from a standard 10-gallon aquarium, it uses a [[fungal-mycelial-networks-nutrient-translocation]]. Direct contact drowns the fungal micro-structures and
 can inhibit or contaminate growth. Only airborne molecularized water (evaporated
 water) should reach the fungus.
 
@@ -118,8 +102,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[dual-chambered-terrarium]]
 - [[psilocybin]]
-- [[pf-tek-dual-chambered-terrarium-design-humidity-management]]
 - [[dual-chambered-terrarium-fruiting]]
 - [[dual-chambered-terrarium-fungus-fruiting]]

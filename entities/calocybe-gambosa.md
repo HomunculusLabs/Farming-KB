@@ -2,58 +2,15 @@
 title: "Calocybe gambosa"
 created: 2026-04-28
 type: species
-tags: [species, fungi, edible, agaricales, tricholomataceae, [[permaculture]]
-date: 2026-04-28
-updated: 2026-04-28
-sources:
-  - "Domain knowledge — mycological and culinary literature"
----
-
-# Calocybe gambosa
-
-Calocybe gambosa, commonly known as St. George's mushroom, is a highly
-prized edible basidiomycete in the family Tricholomataceae. Named for
-its reliable appearance around April 23rd (St. George's Day) in Europe,
-it is one of the first significant [[palmer-edible-mushrooms-north-america]] of the spring
+tags: [species, fungi, edible, agaricales, tricholomataceae, [[palmer-edible-mushrooms-north-america]] of the spring
 foraging season. Found across Europe, North Africa, and western Asia,
 C. gambosa grows in grasslands, meadows, and pastures, often in fairy
 rings or arcs. It is considered one of the finest wild edible mushrooms
 in European cuisine, with a firm texture and a mild, flour-like aroma
 that distinguishes it from potentially dangerous lookalikes. The species
 is also relevant to permaculture systems as an indicator of healthy,
-undisturbed [[biodiversity-fungi-grassland-ecosystems]].
-
-## Taxonomy and Naming
-
-- **Kingdom:** Fungi | **Division:** Basidiomycota
-- **Class:** Agaricomycetes | **Order:** Agaricales
-- **Family:** Tricholomataceae | **Genus:** Calocybe
-- **Species:** C. gambosa (Fr.) Singer (1938)
-- **Synonyms:** Agaricus gambosus Fr.; Tricholoma gambosum (Fr.) Quél.
-- **Common names:** St. George's mushroom, marzuolo (Italy), perretxiko
-  (Basque), mousseron (France)
-
-The epithet "gambosa" (Latin for "club-footed") describes the stout
-clavate stem. Transferred from Tricholoma to Calocybe by [[rolf-singer]]
-in 1938 based on [[spore]] and microscopic features.
-
-## Description
-
-### Macroscopic Features
-
-| Feature | Description |
-|---------|-------------|
-| Cap | 5–15 cm, convex to broadly umbonate |
-| Cap surface | Smooth, matte, slightly sticky when wet |
-| Cap color | White to cream, sometimes buff or ochre tinge |
-| Margin | Inrolled when young, wavy with age |
-| Gills | Crowded, narrow, sinuate, white to cream |
-| Stem | 3–8 cm long, 1.5–4 cm thick, clavate |
-| Stem surface | Smooth, white, fine longitudinal fibers |
-| Flesh | Thick, firm, white, unchanging when cut |
-| Odor | Strong, pleasant, flour-like (farinaceous) |
-| Taste | Mild, mealy, pleasant |
-| [[comparison-spore-print-collection-vs-spore-syringe-production]] | White to pale cream |
+undisturbed [[rolf-singer]]
+in 1938 based on [[comparison-spore-print-collection-vs-spore-syringe-production]] | White to pale cream |
 
 ### Microscopic Features
 
@@ -88,3 +45,84 @@ in 1938 based on [[spore]] and microscopic features.
 | Fat | 0.3–0.5 g | Very low fat |
 | Fiber | 1.5–2.5 g | Dietary fiber |
 | Potassium | 350–450 mg | High potassium |
+
+## Overview
+
+Calocybe Gambosa represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish calocybe gambosa
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving calocybe extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Calocybe Gambosa finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for calocybe gambosa. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+calocybe gambosa and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Calocybe Gambosa has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of calocybe gambosa into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[calocybe-indica]]

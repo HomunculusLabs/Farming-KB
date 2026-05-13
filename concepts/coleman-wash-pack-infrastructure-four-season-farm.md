@@ -7,25 +7,16 @@ topics: [wash-pack, post-harvest, four-season-farm,
   market-preparation]
 ---
 
-# Wash and Pack Infrastructure a [[coleman-four-season-farm]] rm
-
-## Summary
-
-The post-harvest wash and pack infrastructure at Four Season
-Farm is integrated directly into the production system. One-
-quarte [[chicken-of-the-woods]] he farm'[[coleman-cool-house-minimal-supplementary-heat]] se (the single heated greenhouse)
-is dedicated to a concrete-floore [[coleman-winter-harvest-washing-and-packing]] ng area,
+# Wash and Pack Infrastructure a [[chicken-of-the-woods]] he farm'[[coleman-winter-harvest-washing-and-packing]] ng area,
 alongside a walk-in cooler and seedling-starting space. The
 propane heater thermostat is set just above 32°F (0°C) primarily
 to prevent the washing system from freezing in winter. Baby-leaf
 salad is washed, mixed, and packed directly after harvesting,
-with str [[compost-quality-standards]] ards governing l [[garden-land-size-and-food-self-sufficiency-solomon]] and condition.
+with str [[garden-land-size-and-food-self-sufficiency-solomon]] and condition.
 
 ## The Cool House as Wash Station
 
-From the beginning of comm [[coleman-greenhouse-heating-options-winter-production]] duction at Four Season
-Farm, Coleman dedicated one large greenhouse to serve dual purposes:
-minimal supplementary heat fo [[mushroom-spawn]] ion and on-farm wash and
+From the beginning of comm [[mushroom-spawn]] ion and on-farm wash and
 pack infrastructure. The cool house was built because Coleman
 recognized that a greenhouse would be the least expensive type of
 covered area for washing and packing produce, compared to building
@@ -33,8 +24,7 @@ a separate insulated structure.
 
 One-quarter of the cool house has a concrete floor with space
 allocated for washing and packing facilities, a walk-in cooler,
-and for starting s [[psilocybin-in-the-counter-culture]] gs in the spring. The remaining three-
-quarters of the house is used fo [[coleman-semi-hibernating-winter-crops-harvest-extension]] nter crops that
+and for starting s [[coleman-semi-hibernating-winter-crops-harvest-extension]] nter crops that
 benefit from the minimal supplementary heat.
 
 The propane heater thermostat is set low, just above 32°F (0°C).
@@ -118,8 +108,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[psilocybin]]
 - [[succession-planting]]
-- [[coleman-four-season-farm]]
 - [[coleman-season-extension-timeline-and-frost-protection]]
 - [[four-season-farming-and-winter-harvest]]

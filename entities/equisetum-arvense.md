@@ -34,9 +34,7 @@ Equisetum arvense produces two distinct types of annual shoots from a perennial 
 **Fertile (reproductive) shoots** emerge in early spring, reaching 10–25 cm in height.
 - These are pale brownish or pinkish, unbranched, and non-photosynthetic.
 - Each bears a spore-producing cone (strobilus) at the tip, 1–4 cm long.
-- The cone releases green elaters that aid in [[dynamic-accumulators]] in temperate permaculture systems.
-- Accumulates silica, potassium, calcium, magnesium, iron, and aluminium from deep subsoil layers via its extensive rhizome network.
-- Harvested sterile stems are used to make silica-rich [[comparison-biofertilizers-and-soil-inoculants-vs-compost-tea-guide]], liquid fertiliser, or mulch for crops requiring silicon (e.g., tomatoes, cucumbers, grains).
+- The cone releases green elaters that aid in [[comparison-biofertilizers-and-soil-inoculants-vs-compost-tea-guide]], liquid fertiliser, or mulch for crops requiring silicon (e.g., tomatoes, cucumbers, grains).
 - Compost tea made from horsetail is also applied as a foliar spray to strengthen plant cell walls and increase resistance to fungal diseases.
 - Functions as an indicator species for acidic, compacted, or waterlogged soils with high subsoil moisture.
 - Deep rhizome network stabilises soil on banks, slopes, and riparian zones, reducing erosion.
@@ -57,28 +55,90 @@ Equisetum arvense produces two distinct types of annual shoots from a perennial 
 - Use with caution in patients taking diuretics or antihypertensive medications due to additive effects.
 ## Cultivation & Propagation
 Equisetum arvense is rarely cultivated deliberately due to its invasive potential, but can be managed in dedicated permaculture beds.
-**[[vegetative-propagation-methods-mollison]]:**
-- **Spores:** released from strobili in spring; germination requires moist, sterile conditions and indirect light. Spore-grown plants are slow to establish.
-- **Rhizome division:** the most practical method; sections of rhizome with at least one node and viable bud are planted 5–10 cm deep.
-- Rhizome fragments can regenerate from very small pieces, contributing to the plant's reputation as a persistent weed.
-**Growing conditions:**
-- Prefers full sun to partial shade; tolerates deep shade but produces weaker growth.
-- Thrives in moist, poorly drained, acidic to neutral soils (pH 4.5–7.0).
-- Hardy to at least USDA zone 3 (−40 °C).
-**Management:**
-- Contain within root barriers (minimum 30 cm depth) to prevent rhizomatous spread.
-- Regular harvesting of sterile stems controls spread and provides a steady supply of material for compost tea or herbal use.
-- Avoid introducing into standard vegetable beds or areas adjacent to sensitive plantings.
-## Historical Uses
-Horsetail has been utilised by humans for thousands of years across multiple cultures.
-- **Scouring and polishing:** the high silica content of dried stems made them an effective natural abrasive for scouring metal cookware, polishing wood, and cleaning pewter; the common name "scouring rush" reflects this use.
-- **Medicine:** ancient Roman and Greek physicians prescribed horsetail for kidney ailments, tuberculosis, and wound healing; the herb remained a staple in European phytotherapy through the medieval and early modern periods.
-- **Dye:** a yellow-green dye can be extracted from the stems for textile colouring.
-- **Construction:** prehistoric and medieval builders reportedly used horsetail in daub and wattle construction for its binding properties.
-- **[[halpern-sacramental-peyote-and-native-american-church]] uses:** several Indigenous peoples of [[psilocybin-north-america-pacific-northwest]] used horsetail as a urinary remedy, a styptic for bleeding, and a sanding material for woodworking.
+**[[halpern-sacramental-peyote-and-native-american-church]] uses:** several Indigenous peoples of [[equisetum-fluviatile]]
+- [[equisetum-telmateia]]
+
+## Overview
+
+Equisetum Arvense represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish equisetum arvense
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving equisetum extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Equisetum Arvense finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for equisetum arvense. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+equisetum arvense and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Equisetum Arvense has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of equisetum arvense into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
 
 ## See Also
 
 - [[equisetum-fluviatile]]
-- [[equisetum-sylvaticum]]
+- [[equisetum-hyemale]]
+- [[equisetum-palustre]]
 - [[equisetum-telmateia]]
+- [[equisetum-variegatum]]

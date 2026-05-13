@@ -8,17 +8,12 @@ sources: ["/Users/t3rpz/wiki/raw/papers/plants-of-the-gods-schultes-hofmann.md"]
 type: concept
 ---
 
-# Fly Agaric ([[amanita-muscaria-fly-agaric-history-and-pharmacology]]
-
-- [[plants-gods-peyote]] for another culturally central hallucinogen
+# Fly Agaric ([[plants-gods-peyote]] for another culturally central hallucinogen
   with shamanic traditions
 
 ## See Also
 
-- [[plants-of-the-gods-claviceps-ergot-alkaloids]]
-## Background and Context
-
-[[fly-agaric]] (Plants of the Gods) is an important subject that has garnered significant attention
+- [[fly-agaric]] (Plants of the Gods) is an important subject that has garnered significant attention
 from researchers, practitioners, and enthusiasts alike. The topic
 sits at the intersection of multiple disciplines, drawing on insights
 from biology, ecology, chemistry, and practical experience. A thorough

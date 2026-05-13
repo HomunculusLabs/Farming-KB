@@ -19,31 +19,7 @@ sources:
 
 ## Overview
 
-**Drosera peltata**, commonly known as the shield sundew or pale sundew, is a tuberous sundew native to Australia, New Zealand, and parts of [[psilocybe-southeast-asia-pacific]]. It is one of the most widespread and variable species in the genus Drosera, with a taxonomic history marked by repeated splitting and lumping.
-
-The species produces erect, scrambling stems that can reach 10–40 cm in height, bearing peltate (shield-shaped) leaves arranged along the upper portion. The leaves are covered in glandular tentacles that secrete sticky mucilage to capture and digest small insects.
-
-D. peltata is a tuberous geophyte, dying back to an underground tuber during the dry season or winter dormancy. This life cycle distinguishes it from the perennial rosette-forming sundews and allows it to survive seasonal drought and fire.
-
-Recent taxonomic revisions have recognized several species formerly included within D. peltata sensu lato, including *D. auriculata*, *D. hookeri*, and *D. lunata*. The current circumscription of D. peltata sensu stricto is narrower than historical treatments.
-
-The name *peltata* derives from the Latin *peltatus*, meaning shield-shaped, referring to the characteristic peltate leaf arrangement. This morphology is shared with several other species in the tuberous sundew group.
-
-## Taxonomy and Morphology
-
-**Classification:**
-
-- Kingdom: Plantae
-- Order: Caryophyllales
-- Family: Droseraceae
-- Genus: Drosera
-- Species: D. peltata Thunb.
-
-The species was first described by Carl Peter Thunberg in 1797. It is the type species of **Drosera subgenus Ergaleium**, the tuberous sundews, which contains approximately 50 species concentrated in Australia.
-
-D. peltata belongs to the **D. peltata complex**, a group of closely related species that were historically difficult to distinguish. Molecular phylogenetic work by Gibson et al. (2012) helped resolve relationships within the complex, resulting in the recognition of several new species.
-
-The tuber is subterranean, spherical to ovoid, and typically 5–15 mm in diameter. It serves as a storage organ during dormancy and produces new growth at the start of the [[savory-growing-season-and-non-growing-season-management]].
+**Drosera peltata**, commonly known as the shield sundew or pale sundew, is a tuberous sundew native to Australia, New Zealand, and parts of [[savory-growing-season-and-non-growing-season-management]].
 
 Stems are erect to semi-erect, glabrous, and green to reddish in color. They arise from the tuber and bear alternate, peltate leaves along the upper half. Each leaf is 5–12 mm in diameter with a central petiole attachment.
 
@@ -69,22 +45,97 @@ In New Zealand, D. peltata is found primarily on the North Island and northern S
 
 ## Trap Mechanism and Prey
 
-The trapping mechanism of D. peltata follows the flypaper model shared by all Drosera species. Glandular tentacles on the [[bloomfield-rust-germ-tube-tactile-sensing-leaf-surface-navigation]] secrete a viscous mucilage that entraps small insects and other arthropods upon contact.
-
-When prey is captured, the tentacles slowly bend toward the prey item through thigmonastic movement. This response is driven by auxin-mediated differential growth on the tentacle's abaxial side. The leaf margin may also curl inward to maximize contact with the prey.
-
-Enzymatic digestion begins once the prey is secured. The tentacle glands secrete proteases, chitinases, and phosphatases that [[query-can-fungi-break-down-plastic-pollution]] the insect exoskeleton and soft tissues. Nutrient absorption occurs over 3–7 days depending on prey size.
+The trapping mechanism of D. peltata follows the flypaper model shared by all Drosera species. Glandular tentacles on the [[query-can-fungi-break-down-plastic-pollution]] the insect exoskeleton and soft tissues. Nutrient absorption occurs over 3–7 days depending on prey size.
 
 Common prey items include small flies, gnats, ants, and springtails. The upright growth form of D. peltata positions the trapping leaves above ground-level vegetation, intercepting flying insects more effectively than ground-hugging rosette species.
 
-The mucilage produced by D. peltata contains [[antifungal-secondary-metabolites-coprophilous-fungi]] including plumbagin and hydroplumbagin glucoside. These compounds may serve antimicrobial functions in addition to their role in prey capture and digestion.
-
-## Ecology and Interactions
-
-D. peltata frequently grows in association with other carnivorous plants in Australian heathland and bog communities. Common associates include **[[drosera-rotundifolia]]**, **[[drosera-burmannii]]**, and various Utricularia species in wetter sites.
-
-Pollinators are not well documented but likely include small [[query-how-to-attract-native-bees-and-beneficial-insects]] and hoverflies. The flowers are self-compatible, which ensures seed set even in the absence of pollinators. Seed capsules contain numerous small seeds that are dispersed by wind and water.
+The mucilage produced by D. peltata contains [[drosera-rotundifolia]]**, **[[query-how-to-attract-native-bees-and-beneficial-insects]] and hoverflies. The flowers are self-compatible, which ensures seed set even in the absence of pollinators. Seed capsules contain numerous small seeds that are dispersed by wind and water.
 
 The seasonal growth cycle of D. peltata is synchronized with the Mediterranean-type climate of southern Australia. Active growth occurs during the cool, moist winter and spring months, with dormancy initiated as soils dry in summer.
 
 Plants typically emerge 2–4 weeks after the first significant autumn rains. The above-ground growth phase lasts approximately 4–6 months before senescence and return to dormancy.
+
+## Overview
+
+Drosera Peltata represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish drosera peltata
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving drosera extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Drosera Peltata finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for drosera peltata. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+drosera peltata and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Drosera Peltata has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of drosera peltata into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[drosera-binata]]
+- [[drosera-burmannii]]
+- [[drosera-intermedia]]
+- [[drosera-regia]]
+- [[drosera-rotundifolia]]

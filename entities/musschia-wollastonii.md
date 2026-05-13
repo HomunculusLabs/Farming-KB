@@ -108,13 +108,8 @@ Reintroduction trials are planned for suitable cliff sites where the species has
 
 ## See Also
 
-- [[campanula-latifolia]]
 - [[campanula-pyramidalis]]
-- [[lobelia-tupa]]
 - [[phyteuma-spicatum]]
-- [[canarina-canariensis]]
 - [[adenophora-stricta]]
-- [[platycodon-grandiflorus]]
 - [[wahlenbergia-stricta]]
-- [[codonopsis-pilosula]]
 - [[campanula-persicifolia]]

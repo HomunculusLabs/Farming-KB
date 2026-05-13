@@ -19,20 +19,14 @@ patients.
 
 Melanin is a complex polymer of phenolic compounds that provides:
 - **UV radiation protection:** Absorbs harmful ultraviolet light
-- **Antioxidant defense:** Scavenges reactive oxygen species produced by [[fungal-virulence-factors-host-immune-evasion]] cells
-- **Enzyme resistance:** Protects against degradation by microbial enzymes
-- **Drug resistance:** Reduces susceptibility to antifungal compounds
-- **[[fungal-metal-ion-resistance-mechanisms]] binding:** Can concentrate toxic metals
+- **Antioxidant defense:** Scavenges reactive oxygen species produced by [[fungal-metal-ion-resistance-mechanisms]] binding:** Can concentrate toxic metals
 
 Fungal melanin differs biochemically from animal melanin (eumelanin/pheomelanin). The most common
 type in pathogenic fungi is DHN-melanin (1,8-dihydroxynaphthalene melanin), synthesized via the
-pentaketide pathway. Some fungi like [[cryptococcus-neoformans-pathogenesis]] - Melanized yeast pathogen
-- melanized fungal pathogens - Overview of human [[blesching-cannabis-fungal-infections-candida]]
-- [[mucormycosis-zygomycete-infections]] - Another group of fungal infections
+pentaketide pathway. Some fungi like [[blesching-cannabis-fungal-infections-candida]]
 - [[fungal-spore-biology]] - Melanin in the cell wall
 
 Source: Nicholas P. Money, "Mr. Bloomfield's Orchard" (Oxford University Press, 2002), Chapter 4.
-- [[bloomfield-fungal-biology-and-hyphal-growth]]
 - [[fungi-in-the-environment-fungal-spore-dispersal]]
 ## Practical Applications
 

@@ -10,11 +10,7 @@ type: concept
 
 # Iboga and the Bwiti Cult Initiation
 
-Iboga ([[plants-of-the-gods-tabernanthe-iboga-chemistry]]), native to Gabon and the Congo, is the only
-member of the dogbane family (Apocynaceae) known to be used as a
-hallucinogen. The plant is of growing importance in West Central Africa,
-providing the strongest single force against the spread of Christianity
-and Islam in this region. Its psychoactive [[iboga-root-bark-preparation]] has served for
+Iboga ([[iboga-root-bark-preparation]] has served for
 centuries as the central sacrament of the Bwiti cult, one of the most
 important indigenous religious movements in sub-Saharan Africa.
 
@@ -65,24 +61,9 @@ sensitivities.
 
 ## Traditional Uses
 
-Beyond its central role in [[mckenna-iboga-tabernanthe-ibogaine-fang-bwiti-initiation-cult]], iboga has several
-traditional applications. Hunters use it to stay awake during
-all-night vigils. "Sorcerers" take the drug to seek information from
-ancestors and the spirit world. The plant has a reputation as a
-powerful stimulant and aphrodisiac at lower doses. The distinction
-between stimulant, aphrodisiac, and full visionary entheogen effects
-depends primarily on dosage, with larger quantities producing the
-profound visionary experiences central to Bwiti religious practice.
-
-## New World Hallucinogens Comparison
-
-The use of iboga in Africa represents one of the major independent
-centers of hallucinogenic plant use worldwide. While the New World
-boasts more than ninety species employed for their intoxicating
-principles, the [[datura-metel-old-world-ethnobotany]] has fewer than a dozen. Iboga stands as
+Beyond its central role in [[datura-metel-old-world-ethnobotany]] has fewer than a dozen. Iboga stands as
 perhaps the single most important Old World hallucinogen in terms of
-[[ethnomycology-cultural-significance-sacred-fungi]], rivaled only by the [[golden-guide-hallucinogenic-plants-overview]]
-- [[hallucinogenic-plant-chemistry]]
+[[golden-guide-hallucinogenic-plants-overview]]
 - [[ayahuasca-preparation-methods]]
 
 ## Practical Applications
@@ -114,8 +95,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[bwiti]]
 - [[iboga-plant]]
-- [[tabernanthe-iboga]]
 - [[iboga]]
 - [[ayahuasca]]

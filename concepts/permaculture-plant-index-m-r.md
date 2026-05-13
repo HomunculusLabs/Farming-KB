@@ -35,50 +35,12 @@ This index covers plants from the letter M through R as catalogued in *Permacult
 
 ### Nasturtium and Edible Flowers
 - **Nasturtiums** (*Tropaeolum majus*) — page 119. Edible flowers, leaves, and seeds (capers); companion plant for pest deterrence.
-- **[[nasturtium-officinale]]** (Watercress) — page 123. Aquatic perennial with peppery leaves; nutrient-dense superfood; grows in clean flowing water.
-- **Nectarine** — page 118. Stone fruit related to peach; requires well-drained soil and adequate chilling hours.
-
-### Neem
-- **Neem** (*Azadirachta indica*) — pages 88, 89. Multi-purpose tropical tree: insecticidal seed oil, medicinal bark and leaves, timber. Called "the village pharmacy" in India.
-
-### Nitrogen-Fixing Plants
-- **Nitrogen fixing** — pages 15, 17, 18, 19, 20, 21, 22, 24, 26, 27, 28, 128. Critical functional group in permaculture design. Major nitrogen fixers include:
-  - **Legumes** (FABACEAE): Acacia/wattle (17-23), Leucaena (24-26), Inga (28), Honey locust (28), Tagasaste (26), Carob (79)
-  - **Non-legumes**: Casuarina/sheoak (22-24), Alder (*Alnus* spp.) (26-27), Ceanothus (27), Elaeagnus (112)
-
-### Nutritional Composition Tables
-The text provides nutritional data for numerous species (pages 32-106 range), including:
-- **Almonds** — page 34. High in monounsaturated fats, vitamin E, and magnesium.
-- **Barbados cherry** — page 63. Highest natural source of vitamin C among fruits.
-- **Hazelnut** — page 37. Rich in healthy fats, vitamin E, and B vitamins.
-- **Macadamia** — page 31. Highest monounsaturated fat content of any nut.
-- **Olives** — page 60. Rich in oleic acid and polyphenols.
-- **Walnuts** — page 32. High in omega-3 fatty acids (alpha-linolenic acid).
-
-### New Zealand Native Plants
-- **New Zealand broadleaf** (*Griselinia littoralis*) — page 112. Fast-growing evergreen hedging plant.
-- **New Zealand Christmas tree** (*Metrosideros excelsa*, Pohutukawa) — page 133. Iconic coastal tree with brilliant red summer flowers; nectar source.
-- **New Zealand laurel** (*Coprosma* spp.) — page 112. Diverse genus of evergreen shrubs; some with edible berries.
-- **New Zealand mirror plant** (*Coprosma repens*) — pages 90, 112, 132. Coastal ground cover with glossy reflective leaves.
-- **New Zealand spinach** (*[[tetragonia-tetragonioides]]*) — page 131. Edible coastal ground cover; heat-tolerant spinach substitute.
+- **[[tetragonia-tetragonioides]]*) — page 131. Edible coastal ground cover; heat-tolerant spinach substitute.
 
 ## O
 
 ### Oak Species (*Quercus* spp.)
-- **Oak** — pages 80-82, 113, 115, 136. One of the most important timber and ecological genera in [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]].
-- **Quercus robur** (English oak) — pages 81, 113, 136. The classic European oak for timber, acorns, and landscape.
-- **Quercus ilex** (Holm oak) — pages 80, 113, 132, 136. Evergreen Mediterranean oak; fire resistant; acorns for fodder; cork production.
-- **Quercus suber** (Cork oak) — pages 80, 82, 113. Source of commercial cork; multi-use tree for cork, acorns, and timber.
-- **Quercus alba** (White oak) — page 80. North American species; premium cooperage timber for whiskey barrels.
-- **Quercus rubra** (Red oak) — page 82. Fast-growing North American ornamental and timber oak.
-- **Quercus lobata** (Valley oak) — page 81, 113. Massive Californian deciduous oak; acorn production.
-- **Quercus agrifolia** (California live oak) — page 80. Evergreen oak of California chaparral; wildlife habitat.
-- **Quercus macrocarpa** (Bur oak) — page 81, 113. Extremely hardy North American species; large acorns.
-- **Quercus virginiana** (Southern live oak) — page 82, 113. Iconic evergreen oak of the American South; massive spreading form.
-- **Quercus petraea** (Sessile oak) — page 81. European forest tree; similar uses to English oak.
-
-### Olive
-- **Olive** (*Olea europaea*) — pages 60, 112, 118. Ancient Mediterranean fruit tree producing olives and oil; extremely long-lived (thousands of years); [[drought-tolerant-planting-design]]; important permaculture staple.
+- **Oak** — pages 80-82, 113, 115, 136. One of the most important timber and ecological genera in [[drought-tolerant-planting-design]]; important permaculture staple.
 
 ### Oils and Wax
 - **Oil** — pages 33, 40, 60, 68, 81, 83, 87, 90, 92, 98, 99, 100, 101, 102, 103, 104, 105, 107, 108, 117, 125. Plant oil sources include: olive (60), walnut (32-33), macadamia (31), jojoba wax (45), neem oil (87), and numerous palms (98-108).
@@ -97,9 +59,7 @@ The text provides nutritional data for numerous species (pages 32-106 range), in
   - **Bamboo palms** (*Chamaedorea* spp.) — shade, ornamental
   - **Cabbage palms** — edible heart (palm cabbage)
   - **Coconut** (*Cocos nucifera*) — page 103. The "tree of life": food, oil, fibre, timber, thatch
-  - **Date palm** (*[[phoenix-dactylifera]]*) — pages 106, 136
-  - **Ivory nut palm** (*Phytelephas macrocarpa*) — page 106. Produces vegetable ivory
-  - **Peach palm** (*[[bactris-gasipaes]]*) — pages 99, 102. Edible fruit and heart of palm
+  - **Date palm** (*[[bactris-gasipaes]]*) — pages 99, 102. Edible fruit and heart of palm
   - **Piassaba palms** — fibre for rope and brooms
   - **Raphia palms** — raffia fibre from leaves
   - **Royal palms** (*Roystonea* spp.) — ornamental, thatch, timber
@@ -108,9 +68,6 @@ The text provides nutritional data for numerous species (pages 32-106 range), in
 
 ### Passionfruit (*Passiflora* spp.)
 - **Passiflora edulis** (Purple passionfruit) — pages 68, 112. The most widely cultivated passionfruit; vigorous vine producing aromatic pulp.
-- **[[passiflora-quadrangularis]]** (Giant granadilla) — page 69. Largest fruit in the genus; edible pulp and boiled roots as vegetable.
-- **Passiflora ligularis** (Sweet granadilla) — page 69. Orange-skinned fruit with sweet, aromatic pulp.
-- **Passiflora mollissima** (Banana passionfruit) — page 69. Elongated yellow fruit; tolerant of cooler climates.
 - **[[passiflora-incarnata]]** (Maypop) — page 69. North American native; hardy vine with edible fruit and sedative medicinal properties.
 - **Passiflora herbertiana** (Herbert River passionfruit) — page 69. Australian native passionfruit.
 - **Passiflora antioquiensis** (Banana passionfruit, Curuba) — page 70. Andean species with banana-like fruit.
@@ -121,12 +78,7 @@ The text provides nutritional data for numerous species (pages 32-106 range), in
 ### Persimmon
 - **Persimmon** (*Diospyros* spp.) — pages 59, 60, 118.
   - **Diospyros kaki** (Japanese persimmon) — page 59. Most widely cultivated species; sweet fruit when astringency resolves.
-  - **[[diospyros-virginiana]]** (American persimmon) — page 60. Smaller native North American species; very cold hardy.
-  - **Diospyros lotus** (Date plum) — page 60. Small, sweet fruit when fully ripe.
-  - **Diospyros dignya** — page 60. Tropical persimmon species.
-
-### Phragmites (Common Reed)
-- **[[phragmites-australis]]** (Common reed) — page 124. Tall perennial grass of wetlands worldwide; used for thatch, biofuel, water filtration, and phytoremediation.
+  - **[[phragmites-australis]]** (Common reed) — page 124. Tall perennial grass of wetlands worldwide; used for thatch, biofuel, water filtration, and phytoremediation.
 
 ### Photinia
 - **Photinia glabra** — page 112. Evergreen hedging shrub with red new growth.

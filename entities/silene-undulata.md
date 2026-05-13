@@ -15,7 +15,7 @@ sources:
   - Van Wyk, B.E. & Wink, M. (2004). "Medicinal Plants of the World." 2nd ed. Briza Publications, Pretoria.
   - Neuwinger, H.D. (2000). "African Traditional Medicine: A Dictionary of Plant Use and Applications." Medpharm Scientific Publishers, Stuttgart.
   - Watt, J.M. & Breyer-Brandwijk, M.G. (1962). "The Medicinal and Poisonous Plants of Southern and Eastern Africa." 2nd ed. E&S Livingstone, Edinburgh.
-  - Xaba, S.E. & Dutton, M.F. (2000). "The use of [[silene-capensis]] by the Xhosa as a divinatory plant." [[kanna-sceletium-south-african-narcotic]] Journal of Botany, 66, 258–261.
+  - Xaba, S.E. & Dutton, M.F. (2000). "The use of kanna-sceletium-south-african-narcotic Journal of Botany, 66, 258–261.
 created: 2026-04-28
 ---
 
@@ -79,7 +79,7 @@ Some researchers have suggested the saponins may act as **GABAergic modulators**
 
 The roots also contain **flavonoid glycosides**, **phytosterols**, and small amounts of **coumarins** with documented anti-inflammatory activity.
 
-Compared to other oneirogenic plants like *[[calea-zacatechichi]]* and *[[entada-rheedii]]*, *S. undulata* has been the subject of relatively few modern phytochemical investigations.
+Compared to other oneirogenic plants like *[[entada-rheedii]]*, *S. undulata* has been the subject of relatively few modern phytochemical investigations.
 
 ## Traditional and Ethnobotanical Use
 
@@ -90,8 +90,6 @@ The dried root is pulverized into a fine white powder and mixed with water, trad
 Initiates report experiencing exceptionally vivid, colorful dreams that are interpreted by elders to confirm the calling to become a healer.
 
 ## See Also
-- [[silene-capensis]]
 - [[dom]]
-- [[doc]]
 - [[silene-vulgaris]]
 - [[silene-regia]]

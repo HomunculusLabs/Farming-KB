@@ -16,18 +16,7 @@ sources:
   - Sree, K.S. et al. (2016). "Wolffia — An Aquatic Plant with Immense Potential." Annals of Botany, 118(4), 579-586.
   - Appenroth, K.J. et al. (2017). "Recommendation of Guidelines for the Definition of Duckweed Species." Aquatic Botany, 140, 83-87.
   - Thanh, N.C. & Böhme, M. (2017). "Aquatic Plants for Food and Feed." Journal of Applied Phycology, 29, 2363-2374.
-  - Xu, J. et al. (2011). "The Potential of Duckweed for [[dighton-fungal-biomass-production-aquatic-ecosystems]] and Nutrient Removal." Environmental Technology, 32(2), 217-227.
----
-
-## Overview
-
-Wolffia arrhiza is a species of free-floating aquatic plant in the family Araceae (subfamily Lemnoideae, formerly Lemnaceae), commonly known as rootless duckweed or spotted duckweed. It is widely considered one of the smallest flowering plants on Earth.
-
-Individual plants are tiny, lens-shaped fronds measuring only 0.5–1.5 mm in length and 0.3–0.8 mm in width. Despite their minuscule size, these fronds are complete plants capable of photosynthesis, growth, and reproduction.
-
-Wolffia arrhiza has a nearly [[guzman-allen-gartz-psilocybe-semilanceata-temperate-cosmopolitan-distribution]] in tropical and subtropical regions. It is found across Africa, southern Europe, South and [[psilocybe-southeast-asia-pacific]], and parts of the Americas.
-
-The species has attracted scientific and commercial interest as a potential source of high-quality protein for human and animal nutrition. Its extremely rapid [[soil-temperature-plant-growth-rate-doubling-rule]] makes it one of the fastest-growing plants known.
+  - Xu, J. et al. (2011). "The Potential of Duckweed for [[guzman-allen-gartz-psilocybe-semilanceata-temperate-cosmopolitan-distribution]] in tropical and subtropical regions. It is found across Africa, southern Europe, South and [[soil-temperature-plant-growth-rate-doubling-rule]] makes it one of the fastest-growing plants known.
 
 ## Taxonomy and Morphology
 
@@ -43,25 +32,9 @@ A single stomatal pore is present on the dorsal surface near the center of the f
 
 **Flowers** are extremely rare in nature and consist of a single stamen and a single pistil embedded in a dorsal cavity of the frond. Flowering has been observed primarily under stress conditions.
 
-The fruit is a microscopic utricle containing a single smooth seed approximately 0.3 mm in diameter. [[cannabis-controlled-pollination-seed-production]] is uncommon as vegetative reproduction dominates.
+The fruit is a microscopic utricle containing a single smooth seed approximately 0.3 mm in diameter. [[aact-dissolved-oxygen-fine-bubble-aeration-ingham]] in underlying water.
 
-**Reproduction** occurs almost exclusively by vegetative budding. A new daughter frond emerges from a pocket on one end of the parent frond and separates once it reaches roughly the parent's size.
-
-Under optimal conditions, Wolffia arrhiza can double its biomass in 1.5–2.5 days. This makes it one of the fastest-growing angiosperms known, surpassing even many microalgae in biomass accumulation rate.
-
-## Distribution and Habitat
-
-Wolffia arrhiza has a pantropical and subtropical distribution. It is native to Africa, southern Europe (Mediterranean basin), South Asia, Southeast Asia, and parts of Australia and the Americas.
-
-In Europe, the species reaches its northern limit around 50°N latitude. It is established in southern France, Italy, the Balkans, and the Iberian Peninsula but rarely persists through cold winters in northern Europe.
-
-The species grows in still or very slow-moving freshwater bodies. Typical habitats include ponds, ditches, marshes, rice paddies, lake margins, and slow streams with minimal current.
-
-Wolffia arrhiza prefers nutrient-rich (eutrophic) waters with high levels of nitrogen and phosphorus. It thrives in warm conditions with water temperatures between 20–35 °C.
-
-The plant forms dense green mats on the water surface that can completely cover small water bodies. These mats reduce light penetration and can deplete [[aact-dissolved-oxygen-fine-bubble-aeration-ingham]] in underlying water.
-
-Wolffia arrhiza is frequently found in mixed-species duckweed communities alongside [[lemna-minor]], [[lemna-gibba]], Spirodela polyrrhiza, and other Lemnaceae species.
+Wolffia arrhiza is frequently found in mixed-species duckweed communities alongside [[lemna-gibba]], Spirodela polyrrhiza, and other Lemnaceae species.
 
 ## Nutritional and Culinary Value
 
@@ -69,17 +42,9 @@ Wolffia arrhiza has emerged as a promising alternative protein source due to its
 
 The protein quality is high, with a favorable amino acid profile comparable to soy protein. It contains adequate levels of all essential amino acids, particularly lysine and methionine.
 
-In addition to protein, Wolffia biomass contains 20–30% carbohydrate, 5–8% lipid, and significant amounts of dietary fiber, vitamins, and minerals. It is notably rich in omega-3 [[carbon-isotope-labelling-mycorrhizal-fatty-acids]] and carotenoids.
+In addition to protein, Wolffia biomass contains 20–30% carbohydrate, 5–8% lipid, and significant amounts of dietary fiber, vitamins, and minerals. It is notably rich in omega-3 [[legal-responses-to-hallucinogenic-mushrooms-in-the-european-union]] and several other jurisdictions. It is marketed as a sustainable protein ingredient for food products and supplements.
 
-Wolffia is consumed as a human food in several Asian countries. In Myanmar (Burma), it is harvested from natural water bodies and consumed as a vegetable called kye-yan.
-
-In Thailand and Laos, Wolffia species are collected from ponds and markets are sold as a fresh vegetable for soups and salads. The taste is mild and slightly green, similar to young spinach.
-
-Commercially, Wolffia biomass has been approved as a novel food ingredient in [[legal-responses-to-hallucinogenic-mushrooms-in-the-european-union]] and several other jurisdictions. It is marketed as a sustainable protein ingredient for food products and supplements.
-
-[[query-how-do-i-start-black-soldier-fly-farming-for-composting-and-animal-feed]] trials have demonstrated Wolffia as an effective replacement for soybean meal in poultry, swine, and fish diets. Feed conversion ratios are comparable or superior to conventional protein sources.
-
-Research on large-scale Wolffia cultivation for [[fungal-single-cell-protein-production]] is ongoing, with several companies developing commercial production systems using closed bioreactors and open pond facilities.
+[[fungal-single-cell-protein-production]] is ongoing, with several companies developing commercial production systems using closed bioreactors and open pond facilities.
 
 ## Ecological Role
 
@@ -88,3 +53,80 @@ Wolffia arrhiza plays a significant role in freshwater ecosystems as both a prim
 Ducks, geese, and other waterfowl consume Wolffia as a significant food source during migration and breeding seasons. The high protein and mineral content makes it particularly valuable for growing ducklings.
 
 The dense mats reduce light penetration to submerged vegetation, potentially suppressing macrophyte growth beneath the surface. This shading effect can alter the composition of aquatic plant communities.
+
+## Overview
+
+Wolffia Arrhiza represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish wolffia arrhiza
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving wolffia extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Wolffia Arrhiza finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for wolffia arrhiza. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+wolffia arrhiza and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Wolffia Arrhiza has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of wolffia arrhiza into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.

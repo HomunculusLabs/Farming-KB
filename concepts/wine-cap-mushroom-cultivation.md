@@ -9,9 +9,7 @@ sources: [papers/a-training-manual-mushroom-cultivation-by-people-with-disabi.md
 
 # Wine Cap Mushroom Cultivation
 
-Wine cap mushrooms (Stropharia rugosoannulata), also known as king stropharia, garden giant, or burgundy mushrooms, are among the easiest and most rewarding mushrooms for [[hamilton-geoffhamilton-nick-organic-gardening-companion-planting]] with Vegetables
-
-Wine caps integrate directly into [[fukuoka-dutch-priest-vegetable-garden-spiritual-renewal]] systems:
+Wine cap mushrooms (Stropharia rugosoannulata), also known as king stropharia, garden giant, or burgundy mushrooms, are among the easiest and most rewarding mushrooms for [[fukuoka-dutch-priest-vegetable-garden-spiritual-renewal]] systems:
 
 ### Compatible Plantings
 - **Corn**: beds between corn rows benefit from shade and moisture
@@ -21,8 +19,7 @@ Wine caps integrate directly into [[fukuoka-dutch-priest-vegetable-garden-spirit
 
 ### Benefits and Cautions
 - Wood chip mulch retains moisture for vegetables and mushrooms simultaneously
-- Mycelium improves soil structure, [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]], and can suppress some soil-borne pathogens
-- Increased biodiversity attracts [[comparison-beneficial-insects-guide-vs-integrated-pest-management]]; chip bed serves double duty as mulch
+- Mycelium improves soil structure, [[comparison-beneficial-insects-guide-vs-integrated-pest-management]]; chip bed serves double duty as mulch
 - Avoid species sensitive to high wood chip mulch; never use treated or painted chips
 
 ## Maintenance and Longevity
@@ -35,19 +32,7 @@ Wine caps integrate directly into [[fukuoka-dutch-priest-vegetable-garden-spirit
 
 ### Troubleshooting
 - **Green mold (Trichoderma)**: bed too dry or hot; increase moisture
-- **[[query-how-to-get-rid-of-slugs-and-snails-organically]]**: hand-pick or use beer traps
-- **No fruiting**: may need more time, moisture, or a temperature trigger
-- **Small mushrooms**: bed may need thinning or additional substrate
-
-## Yield Expectations
-
-- Per 10 sq ft bed: 5-15 lbs per season at peak (years 2-3)
-- Per pound of spawn: 10-20 lbs over bed's 3-5 year productive life
-- 2-3 flushes per year (spring and fall); market value $8-14/lb retail
-- Near-zero production cost makes wine caps highly economical for homesteads
-## Related
-- [[mushroom-cultivation-bulk-substrates]]
-- [[gaias-garden-cover-crops-soil-building]]
+- **[[mushroom-cultivation-bulk-substrates]]
 - [[mushroom-cultivation-sterile-technique]]
 ## Practical Considerations
 
@@ -88,3 +73,78 @@ Documentation and record-keeping support continuous improvement by
 creating a reference base of observations, interventions, and results.
 This accumulated knowledge enables progressively better decision-making
 and helps identify patterns that might otherwise be overlooked in the
+
+## Overview
+
+Wine Cap Mushroom Cultivation represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish wine cap mushroom cultivation
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving wine extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Wine Cap Mushroom Cultivation finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for wine cap mushroom cultivation. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+wine cap mushroom cultivation and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Wine Cap Mushroom Cultivation has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of wine cap mushroom cultivation into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and

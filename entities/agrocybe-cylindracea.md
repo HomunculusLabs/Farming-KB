@@ -46,15 +46,7 @@ sources:
 
 ## Morphology
 
-Fruiting bodies are medium to large. Caps measure 3–10 cm in diameter, starting convex and expanding to plane with a broad umbo. The cap surface is smooth, hygrophanous, ranging from pale tan to cinnamon-brown when moist, fading to pale buff when dry. The margin often retains fragments of the partial veil in young specimens. Gills are adnexed to adnate, initially pale gray, darkening to rusty brown as spores mature. The stipe is 4–12 cm long, 0.5–1.5 cm thick, cylindrical, and features a prominent membranous annulus (ring) that can persist or disappear with age. The flesh is white, firm, and has a mild, slightly nutty aroma. [[supplemented-sawdust-block-cultivation]] substrates, typically using hardwood chips or sawdust from oak, poplar, or beech supplemented with wheat bran or rice bran at 10–20%. Key cultivation parameters:
-
-- **Spawn run temperature:** 22–28°C
-- **Fruiting temperature:** 15–22°C
-- **Relative humidity:** 85–95%
-- **Fresh air exchange:** Moderate to high
-- **Light:** Indirect ambient light sufficient for fruiting
-- **Crop cycle:** First flush 25–35 days after inoculation; total 3–5 flushes over 60–90 days
-- **[[stropharia-rugosoannulata-permaculture]]** (Wine Cap): Much larger, with a distinctive burgundy cap when young. Both species grow on wood chips but occupy different ecological niches. Wine Cap is more cold-tolerant.
+Fruiting bodies are medium to large. Caps measure 3–10 cm in diameter, starting convex and expanding to plane with a broad umbo. The cap surface is smooth, hygrophanous, ranging from pale tan to cinnamon-brown when moist, fading to pale buff when dry. The margin often retains fragments of the partial veil in young specimens. Gills are adnexed to adnate, initially pale gray, darkening to rusty brown as spores mature. The stipe is 4–12 cm long, 0.5–1.5 cm thick, cylindrical, and features a prominent membranous annulus (ring) that can persist or disappear with age. The flesh is white, firm, and has a mild, slightly nutty aroma. [[stropharia-rugosoannulata-permaculture]]** (Wine Cap): Much larger, with a distinctive burgundy cap when young. Both species grow on wood chips but occupy different ecological niches. Wine Cap is more cold-tolerant.
 - **Kuehneromyces mutabilis** (Velvet Shank): Similar substrate preference; distinguished by its two-toned, scaly cap and preference for cooler temperatures. Contains toxins when raw and must be thoroughly cooked.
 
 ## Seasonality and Fruiting Patterns
@@ -63,10 +55,7 @@ In the wild, *A. cylindracea* fruits predominantly in spring (April–June) and 
 
 ## Pests and Diseases in Cultivation
 
-- **Trichoderma spp.:** The most common competitor mold in [[cannabis-sativa-indoor-cultivation-techniques]], colonizing exposed substrate surfaces. Maintaining proper hygiene during inoculation and ensuring adequate spawn run conditions minimize contamination.
-- **Sciarid flies (fungus gnats):** Larvae damage mycelium and introduce bacterial contamination. Yellow sticky traps and biological controls (*Steinernema feltiae* nematodes) are effective management strategies.
-- **[[growing-gourmet-bacterial-blotch-disease-management]] (*[[agrocybe-praecox]]
-- [[appropriate-technology]]
+- **Trichoderma spp.:** The most common competitor mold in [[growing-gourmet-bacterial-blotch-disease-management]] (*[[appropriate-technology]]
 ## Practical Considerations
 
 Successful implementation of Agrocybe cylindracea requires attention to

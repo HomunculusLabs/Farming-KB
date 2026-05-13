@@ -12,19 +12,11 @@ created: 2026-04-28
 
 # AACT Disease Case Studies: Specific Pathogen Responses
 
-[[elaine-ingham]]'s field guide correspondence includes detailed observations on  tea (AACT) interacts with specific plant diseases. These case studies reveal important patterns about which diseases respond to bacterial teas versus full foodweb teas, and provide practical guidance for practitioners targeting particular pathogens.
-
-## AACT Is a Protectant, Not a Cure
-
-Before examining specific diseases, a critical principle must be understood: compost tea is a protectant and works before diseases establish. No claims can be made that compost tea controls existing disease conditions, though it does have those impacts in practice. When a [[ingham-foliar-compost-tea-application]] spray does have a discernible impact replacing disease organisms on leaf surfaces, the effect should be visible within a day. If no impact is seen, another spray is indicated.
+[[ingham-foliar-compost-tea-application]] spray does have a discernible impact replacing disease organisms on leaf surfaces, the effect should be visible within a day. If no impact is seen, another spray is indicated.
 
 When disease pressure is overwhelming, it may be necessary to use a fungicide or insecticide initially to bring the situation under control, then transition to AACT for ongoing protection. Compost tea is not a pesticide and should not be discussed as being like a chemical control method.
 
-If no diseases are present, [[aact-microbial-foliar-nutrient-uptake-co2-stomata-ingham]] improvements from AACT may be visible within a few days. Soil structure improvements require longer — roots should start growing deeper into the soil within one to two weeks if organisms have survived transfer into soil and have adequate food resources. A penetrometer can be used to determine if compacted zones are opening up.
-
-## The Coverage Principle
-
-For any foliar disease, the main agent of protection is coverage. If beneficial organisms already occupy the leaf surface, [[cordyceps-cultivation]] cannot push them out. The enzymatic ability of many common foliar pathogens is surprisingly weak — they cannot out-compete even modest communities of beneficial organisms for space or resources. The question then becomes: why are these diseases so prevalent? Because conventional management practices continuously destroy the protective biology on leaf surfaces.
+If no diseases are present, [[cordyceps-cultivation]] cannot push them out. The enzymatic ability of many common foliar pathogens is surprisingly weak — they cannot out-compete even modest communities of beneficial organisms for space or resources. The question then becomes: why are these diseases so prevalent? Because conventional management practices continuously destroy the protective biology on leaf surfaces.
 
 Ingham categorizes diseases by difficulty: black spot is "easy," mildew is harder, anthracnose is not easy, and *Fusarium* is "a piece of cake." These assessments reflect the relative enzymatic competitiveness of each pathogen against the beneficial organisms typically present in well-made AACT.
 
@@ -49,11 +41,7 @@ Anthracnose location on the plant determines the tea composition needed:
 - **Crown, root, or soil anthracnose** requires a strong fungal component in the tea
 - **Foliar anthracnose** appears preventable with just a bacterial tea
 
-This distinction is important because the same disease organism, depending on where it attacks the plant, may be susceptible to different [[fukuoka-textdoc-biological-control-fallacy-pheromone-critique]] strategies. Crown and root protection requires the full foodweb; leaf surface protection can be achieved with bacteria alone.
-
-## Powdery Mildew on Vines and Strawberries
-
-AACT has been used to control powdery mildew on vines (3 months documented success) and strawberries (4 months documented success). Powdery mildew is classified as more difficult than black spot but not as challenging as anthracnose. Fungal biomass in the tea is important for reliable mildew suppression. Ingham notes that mildew control in vineyards has been conducted as a formal [[roger-heim-scientific-study-psilocybin]] with multi-year data collection, with one more year of data needed before publication.
+This distinction is important because the same disease organism, depending on where it attacks the plant, may be susceptible to different [[roger-heim-scientific-study-psilocybin]] with multi-year data collection, with one more year of data needed before publication.
 
 ## Late Blight
 
@@ -61,17 +49,7 @@ Ingham reports extensive experience with late blight but limited data on early b
 
 ## Brown Rot on Cherries
 
-While no replicated data exists for brown rot control, AACT has performed well in field observations. The recommendation is to make the tea as fungal as possible. Brown rot, like many [[fungal-fruit-tree-diseases]], responds best when the fungal component of the tea is robust. Fungal foods like humic acids, kelp, and fish hydrolysate should be included in the brew recipe.
-
-## Verticillium Wilt
-
-Verticillium suppression requires comprehensive coverage of the entire plant and orchard environment:
-
-- Cover at least 70% of leaf, blossom, bark, and dead leaf surfaces with both bacteria and fungi
-- Fungi must constitute at least 5% of that 70% coverage
-- Begin applications two weeks before bud break
-- Spray the orchard floor and downed leaves in the fall for maximum impact
-- Continue monthly applications during [[query-how-to-protect-plants-from-frost-and-extend-the-growing-season]], or every 7 to 14 days if disease is present
+While no replicated data exists for brown rot control, AACT has performed well in field observations. The recommendation is to make the tea as fungal as possible. Brown rot, like many [[query-how-to-protect-plants-from-frost-and-extend-the-growing-season]], or every 7 to 14 days if disease is present
 
 Verticillium prevention is documented on potato, apples, and cherries. The comprehensive coverage requirement reflects the systemic nature of this wilt disease — the pathogen survives on multiple plant parts and in soil, so all potential infection sites must be protected.
 
@@ -117,8 +95,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[doc]]
 - [[psilocybin]]
-- [[det]]
 - [[spore]]
 - [[decomposition]]

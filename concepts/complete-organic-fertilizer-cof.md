@@ -17,28 +17,7 @@ created: 2026-05-11
 
 The Complete Organic Fertilizer (COF) is a custom organic fertilizer blend
 formulated by Steve Solomon, founder of Territorial Seed Company. Unlike
-commercial organic or [[cannabis-chemical-fertilizers]], COF provides a broad, balanced
-spectrum of plant nutrients — not just NPK — resulting in vegetables with
-significantly higher nutritional content. Solomon developed COF over decades
-of gardening and variety trialing, observing that vegetables grown with this
-blend tasted better and were more pest-resistant than those grown with
-conventional fertilizers.
-
-## Why COF?
-
-Chemical fertilizers labeled "complete" typically contain only nitrogen (N),
-phosphorus (P), and potassium (K). They lack calcium, magnesium, sulfur, and
-all trace minerals. They dissolve rapidly in soil water, causing a quick
-growth spurt followed by a sag requiring repeated application. Nutrients in
-solution leach away with rain or irrigation, especially in sandy soils. Plants
-fed solely with chemical fertilizers produce more starch and fiber but less
-protein, vitamins, enzymes, and minerals.
-
-Solomon cites USDA data showing the nutritional content of American vegetables
-has declined approximately 2 percent per year over the past 25 years for all
-vitamins and minerals. This decline correlates with increasing use of
-incomplete chemical fertilizers that push yield (calories, starch, fiber) at
-the expense of [[coleman-winter-greens-nutritional-quality-cold-sweetening]].
+commercial organic or [[coleman-winter-greens-nutritional-quality-cold-sweetening]].
 
 Single-source organic amendments like manure or homemade compost vary
 enormously in nutrient content. The nutritional quality depends on the soil
@@ -66,14 +45,7 @@ to make this formula by weight.
 
 - **Option C:** 4 parts coprameal (coconut meal), supplemented with 1 part
   tankage. Coprameal is one-third weaker in NPK but coconuts are typically
-  grown without [[agricultural-chemicals-mycorrhizal-impact]].
-
-**Blend with the following (add to whichever nitrogen source you chose):**
-
-- 1 part ordinary agricultural lime (best finely ground)
-- 1 part gypsum (calcium sulfate; if you don't use gypsum, double the
-  quantity of agricultural lime)
-- 1/2 part dolomite lime (provides both [[dynamic-accumulator-plants-calcium-and-magnesium]])
+  grown without [[dynamic-accumulator-plants-calcium-and-magnesium]])
 - 1 part phosphorus source: finely ground rock phosphate, bonemeal, or
   high-phosphate guano
 - 1 part kelpmeal OR 1 part basalt dust (for trace minerals)
@@ -89,41 +61,89 @@ properly, they remain effective for more than 20 years.
 
 ### Lime Types
 Three types provide calcium and magnesium in different ratios:
-- **Agricultural lime:** Relatively pure [[peat-calcium-carbonate-perlite-casing-psilocybe-cubensis-miniculture]]
-- **Dolomitic lime:** Contains both calcium and magnesium carbonates
-- **Gypsum (calcium sulfate):** Provides calcium without significantly
-  affecting soil pH
-
-Solomon recommends using a mixture of all three rather than relying on a
-single type. He advises gardeners to forget about adjusting soil pH — in
-organic gardens, pH corrects itself over time, more from organic matter
-increases than from calcium and magnesium additions.
-
-### Kelpmeal and Basalt Dust (Trace Minerals)
-The "insurance policy" of COF. Kelpmeal is dried ground seaweed containing
-every trace mineral found in seawater — over 70 elements — plus natural
-growth regulators and hormones that enhance plant vigor and resistance to
-cold, frost, and other stresses. Basalt dust is finely ground volcanic rock.
-Kelpmeal can also be applied as a foliar spray for even greater effect.
-
-## Application Rates
-
-Spread 4 to 6 quarts per 100 square feet of raised bed or per 50 feet of
-row (12-18 inches wide), once or twice yearly (best in spring). Work into
-the top few inches with a hoe or spade, or surface-apply for no-dig gardens.
-
-This baseline provides enough fertility for low-demand vegetables (carrots,
-beets, beans, peas) to reach maximum potential and usually adequately feeds
-medium-demand vegetables. Side-dress high-demand crops (tomatoes, corn,
-cabbage) with 1-2 quarts per 100 sq ft every 3-4 weeks after seedlings
-are established.
-
-## See Also
-
-- [[soil-foodweb-biology]]
-- actively aerated compost tea aact
+- **Agricultural lime:** Relatively pure [[soil-foodweb-biology]]
+- [[actively-aerated-compost-tea]] aact
 
 ## References
 
-- Solomon, Steve. *Gardening When It Counts: Growing Food in Hard Times*.
+- Solomon, Steve. *Gardening When It Counts: [[growing-food-in-hard-times]]*.
   New Society Publishers, 2005. Chapters 2 and 4.
+
+## Overview
+
+Complete Organic Fertilizer Cof represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish complete organic fertilizer cof
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving complete extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Complete Organic Fertilizer Cof finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for complete organic fertilizer cof. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+complete organic fertilizer cof and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Complete Organic Fertilizer Cof has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of complete organic fertilizer cof into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also

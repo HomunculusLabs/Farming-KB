@@ -8,11 +8,11 @@ tags: [mckenna, food-of-the-gods, mystery-cults, religious-history, dominator-cu
 
 ## Overview
 
-In *Food of the Gods*, [[terence-mckenna]] proposes a four-stage model for how humanity progressively lost its original psychosymbiotic relationship with psilocybin-containing mushrooms. He argues that the abandonment of the original catalyst for the emergence of self-reflection and language — the [[mckenna-stropharia-cubensis-extraterrestrial-hypothesis-spore-dispersal]] psilocybin-containing mushroom — was not a single event but a gradual process spanning millennia. Each stage represents a further dilution of awareness of the power and the numinous meaning resident in the mystery.
+In *Food of the Gods*, [[mckenna-stropharia-cubensis-extraterrestrial-hypothesis-spore-dispersal]] psilocybin-containing mushroom — was not a single event but a gradual process spanning millennia. Each stage represents a further dilution of awareness of the power and the numinous meaning resident in the mystery.
 
 ## Stage One: Substitution with Other Psychoactive Plants
 
-The first step away from the symbiosis of the human-fungal partnership that characterized the early pastoralist societies was the introduction of other psychoactive plant substitutes for the original mushroom. This psychoactivity could range from being equal in the depths of its profundity to the [[stropharia-cubensis]] [[psilocybin-intoxication-medical-management-and-first-aid]], as in the case with the classical hallucinogens of the New World tropics, to being relatively trivial.
+The first step away from the symbiosis of the human-fungal partnership that characterized the early pastoralist societies was the introduction of other psychoactive plant substitutes for the original mushroom. This psychoactivity could range from being equal in the depths of its profundity to the [[psilocybin-intoxication-medical-management-and-first-aid]], as in the case with the classical hallucinogens of the New World tropics, to being relatively trivial.
 
 ### The Climate Change Scenario
 
@@ -20,7 +20,7 @@ In the case of Stropharia cubensis in Africa, a gradual trivialization scenario 
 
 ### The Honey Connection
 
-As mushrooms and mushroom ecologies grew more rare, efforts may have been made to preserve mushrooms by drying and by preserving them in honey. Since honey itself easily ferments into an alcoholic intoxicant, it is possible that over time a practice of mixing fewer and fewer mushrooms in more and more honey may have encouraged replacement of [[allegro-death-and-resurrection-in-the-mushroom-cult]] with a cult of mead. McKenna considers this the most consequential shift possible in social values — the gradual changeover of a [[mckenna-profession-of-sacrament-psilocybin-cult-to-alcohol-cult]] an alcohol cult.
+As mushrooms and mushroom ecologies grew more rare, efforts may have been made to preserve mushrooms by drying and by preserving them in honey. Since honey itself easily ferments into an alcoholic intoxicant, it is possible that over time a practice of mixing fewer and fewer mushrooms in more and more honey may have encouraged replacement of [[mckenna-profession-of-sacrament-psilocybin-cult-to-alcohol-cult]] an alcohol cult.
 
 ### Substitutes Ranging from Powerful to Trivial
 
@@ -60,11 +60,7 @@ The critical loss at this stage is the elimination of direct gnosis — personal
 
 ## Stage Four: Complete Abandonment and Active Suppression
 
-The third stage leads into yet another stage: the complete abandonment of even the pretense of remembering the felt experience of the mystery. This last stage is typified by secular scientism as perfected in the [[coleman-louis-savier-twentieth-century-maraicher]].
-
-### Rediscovery as Threat
-
-McKenna posits a further aspect of this fourth stage: the rediscovery of the mystery and its interpretation as evil and threatening to social values. The current suppression of [[mckenna-suppression-psychedelic-research-lsd-therapy]] and the hysteria fanned by pharmacophobic media is an obvious case in point. [[mckenna-dissolution-of-the-dominator-culture]] does not merely forget the mystery — it actively fears and suppresses it.
+The third stage leads into yet another stage: the complete abandonment of even the pretense of remembering the felt experience of the mystery. This last stage is typified by secular scientism as perfected in the [[mckenna-suppression-psychedelic-research-lsd-therapy]] and the hysteria fanned by pharmacophobic media is an obvious case in point. [[mckenna-dissolution-of-the-dominator-culture]] does not merely forget the mystery — it actively fears and suppresses it.
 
 ### The Secular Worldview
 
@@ -87,3 +83,25 @@ The Dionysian cults, which coexisted with the Eleusinian Mysteries, represent an
 ## Implications
 
 ### The Narcissism of the Dominator Culture
+
+## See Also
+
+- [[mckenna-1966-ontological-crisis-declension-gnosis-one-quanta-away]]
+- [[mckenna-cacao-chocolate-mesoamerican-religion]]
+- [[mckenna-catalyzing-consciousness-language-formation]]
+- [[mckenna-chimpanzee-self-medication-and-primate-pharmacology]]
+- [[mckenna-critique-of-seti-and-cultural-blindness]]
+- [[mckenna-dominator-vs-partnership-culture-model]]
+- [[mckenna-fear-as-existential-validity-marker-psychedelic-experience]]
+- [[mckenna-haoma-zoroaster-iranian-soma-counterpart]]
+- [[mckenna-interstellar-spore-percolation-theory]]
+- [[mckenna-invention-of-lsd-and-psychedelic-sixties]]
+- [[mckenna-linguistic-impulse-psilocybin-broca-area-syntax]]
+- [[mckenna-minoan-crete-eleusinian-mysteries]]
+- [[mckenna-mushroom-cult-destruction-theophagic-rivalry]]
+- [[mckenna-pandora-box-lsd-cia-mkultra-suppression]]
+- [[mckenna-scythians-cannabis-inhalation-herodotus]]
+- [[mckenna-seti-critique-radio-signals-cultural-presumption]]
+- [[mckenna-sugar-addiction-slavery-dominator-culture]]
+- [[mckenna-sugar-spice-mercantilism]]
+- [[mckenna-tobacco-shamanic-to-commercial-dilution-process]]

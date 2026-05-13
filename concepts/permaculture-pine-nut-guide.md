@@ -18,10 +18,10 @@ There are more than 20 species of pine which bear edible pine nuts. Pines are co
 | Type of Nut              | Protein (%) | Fat (%) | Carbohydrate (%) |
 |--------------------------|-------------|---------|------------------|
 | Pinus cembroides         | 19          | 60      | 14               |
-| Pinus edulis             | 14          | 62-71   | 18               |
+| [[pinus-edulis]]             | 14          | 62-71   | 18               |
 | Pinus gerardiana         | 14          | 51      | 23               |
 | Pinus monophylla         | 10          | 23      | 54               |
-| Pinus pinea              | 34          | 48      | 7                |
+| [[pinus-pinea]]              | 34          | 48      | 7                |
 | Pinus sabiniana          | 30          | 60      | 9                |
 | Pinus sibirica           | 19          | 51-75   | 12               |
 | Pinus strobiformis       | 28          | 52      | 7                |
@@ -41,29 +41,9 @@ Although it provides a good windbreak when young, older trees tend to lose their
 
 It produces the edible pignolia nut, the growing of which is an important commercial industry in Europe. The seeds are eaten raw or roasted and salted. They are used in sweetmeats, cakes, puddings, biscuits, soups, etc. In Romania the young cones are used whole to flavour game sauces.
 
-[[dighton-fungal-nutritional-composition-animal-diets]] of the pignolia per 100 grams of edible portion: Water - 5.6%, Energy - 552 calories, Carbohydrate - 11.6 g, Fat - 47.4 g, Protein - 31.1 g, Ash - 4.3 g, Thiamin - 0.62 mg. Digestion time: 2.75 hours.
+[[permplant-carob-drought-tolerant-food-tree]] and cold hardy, but also thrives in the heat of the deserts.
 
-### Pinus edulis (Two-leaved Pine or Colorado Pinon)
-
-Native to the higher regions of the south west of the USA (from California to Texas and Mexico), Pinus edulis is the producer of the commercial pine nut of the USA. It is slow growing, eventually reaching a height of 4-8 m. It is [[permplant-carob-drought-tolerant-food-tree]] and cold hardy, but also thrives in the heat of the deserts.
-
-The cones are rounded, light brown in colour and about 5 cm in length. The nuts are small and tasty and are collected as a delicacy by the native Americans. The seeds are oily and eaten raw or roasted. They are used in breads, biscuits, nut butters, ice cream, sauces, stuffings, and confectionery. They are ground into a meal and used in puddings, soups and gruels. They can be mixed with cornmeal or [[oyster-mushroom-sunflower-seed-hull-substrate]] meal. The needles are brewed into a tea and the unripe cones are roasted to produce a syrupy food. The sweet cambium is cut into thin strips and cooked like spaghetti.
-
-### Pinus sabiniana (Digger Pine)
-
-Native to the arid foothills of Sierra Nevada and coastal ranges of California, at altitudes of 120-1200 m. It is a medium sized tree reaching 15 m in 15 years and can eventually reach 22 m. It is drought and cold tolerant and will grow on light, shallow soils. Requires an average annual rainfall of 500-750 mm.
-
-Closely related to the coulter pine, it bears large cones to 25 cm long and produces regularly. The large oily seed are eaten raw or roasted. The soft centre of green cones can be roasted and eaten. The leaves are used for tea. American Indians used the roots to make baskets.
-
-It grows readily from seed and does not need cold treatment. Other plants can grow under it as it does not produce a dense shade. It is a useful shade and shelter tree, but not a good timber species.
-
-### Pinus coulteri (Coulter Pine, Big-cone Pine)
-
-Occurring naturally on dry rocky mountain slopes in California at altitudes of 1000-2000 m, the coulter pine reaches a height of 10-25 m with a large spread. It is slow growing and requires an average annual rainfall of 500-750 mm. It is resistant to heat, cold and wind. The pine cones are the largest in the genus, with a length of 25-35 cm and diameter of up to 15 cm. The edible seeds are also large (up to 12 mm in length). Cones are generally produced every other year, and the tree grows freely from seed.
-
-### Pinus lambertiana (Sugar Pine)
-
-A native of the Pacific coast of [[psilocybin-north-america-pacific-northwest]], this is the largest of all pines reaching a height of 75 m and a spread of 6 m. The cones are up to 50 cm long and bear a nut rich in sugar and oil which is eaten raw, roasted or pressed into cakes. When cut or wounded the heartwood exudes a sap that forms sugar-like lumps which is used for sweetening food. When used in quantity it is cathartic.
+The cones are rounded, light brown in colour and about 5 cm in length. The nuts are small and tasty and are collected as a delicacy by the native Americans. The seeds are oily and eaten raw or roasted. They are used in breads, biscuits, nut butters, ice cream, sauces, stuffings, and confectionery. They are ground into a meal and used in puddings, soups and gruels. They can be mixed with cornmeal or [[psilocybin-north-america-pacific-northwest]], this is the largest of all pines reaching a height of 75 m and a spread of 6 m. The cones are up to 50 cm long and bear a nut rich in sugar and oil which is eaten raw, roasted or pressed into cakes. When cut or wounded the heartwood exudes a sap that forms sugar-like lumps which is used for sweetening food. When used in quantity it is cathartic.
 
 ### Pinus cembroides (Mexican Pinon)
 
@@ -88,3 +68,82 @@ A small, hardy, drought-resistant native to the higher rocky foothills from Idah
 ### Araucaria araucana (Monkey Puzzle Tree)
 
 Native evergreen of Chile and Argentina growing from 15-35 m. Prefers cool, moist, loamy soils and sheltered positions. Hot, dry conditions will often cause the tree to die. The nuts, called pinones, are twice the size of an almond and rich in starch. They are roasted, boiled, eaten fresh and also made into an alcoholic drink. Eighteen good sized trees are reported to be able to yield enough to sustain an adult for a year. Propagation is by seed and trees require [[holzer-frost-protection-techniques]] for the first couple of years.
+
+## Overview
+
+Permaculture Pine Nut Guide represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish permaculture pine nut guide
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving permaculture extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Permaculture Pine Nut Guide finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for permaculture pine nut guide. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+permaculture pine nut guide and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Permaculture Pine Nut Guide has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of permaculture pine nut guide into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also

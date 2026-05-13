@@ -95,27 +95,9 @@ Root systems are shallow and fibrous, adapted to extracting moisture from thin p
 
 Sedum morganianum is primarily grown as a hanging basket or elevated container specimen. Its trailing habit makes it unsuitable for ground planting or standard pot culture.
 
-The plant is a staple of indoor succulent collections and is widely available in garden centers worldwide. It pairs well with other trailing succulents such as [[senecio-rowleyanus]] and string of hearts.
-
-It has received the RHS Award of Garden Merit, confirming its reliability and ornamental value in cultivation. The species is considered beginner-friendly due to its tolerance of neglect.
-
-Common pests include mealybugs and aphids, particularly on new growth and flower stalks. Overwatering is the most frequent cause of decline, leading to root and stem rot.
-
-The species is not known to be toxic to pets or humans. However, the fragile nature of the leaves makes it better suited for display locations where it will not be brushed against.
-
-In colder climates, Sedum morganianum is grown exclusively as a houseplant or greenhouse specimen. Outdoors, it performs best in USDA hardiness zones 10–11 with protection from frost.
-
-The plant's cascading form has made it popular for vertical gardens and living wall installations. It is frequently used in mixed succulent arrangements where its texture contrasts with rosette-forming species.
-
-## See Also
-
-- [[sedum-acre]]
-- [[sedum-rupestre]]
+The plant is a staple of indoor succulent collections and is widely available in garden centers worldwide. It pairs well with other trailing succulents such as [[sedum-acre]]
 - [[graptopetalum-paraguayense]]
-- [[senecio-articulatus]]
 - [[portulacaria-afra]]
-- [[crassula-ovata]]
 - [[echeveria-elegans]]
-- [[aeonium-arboreum]]
 - [[pachyphytum-oviferum]]
 - [[cotyledon-tomentosa]]

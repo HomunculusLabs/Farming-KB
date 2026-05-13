@@ -22,30 +22,9 @@ sources:
 
 ## Overview
 
-Rhodiola rosea, commonly known as golden root, roseroot, or arctic root, is a perennial succulent in the family Crassulaceae. Native to the arctic and alpine regions of Europe, Asia, and [[guzman-psilocybin-mushrooms-north-america]], it has been used for centuries in traditional medicine systems across Scandinavia, Russia, Mongolia, and Tibet. The species name *rosea* refers to the rose-like aroma of the freshly cut root, which contains [[mycovolatiles-fungal-volatile-compounds]] including geraniol and rose oxide.
+Rhodiola rosea, commonly known as golden root, roseroot, or arctic root, is a perennial succulent in the family Crassulaceae. Native to the arctic and alpine regions of Europe, Asia, and [[mycovolatiles-fungal-volatile-compounds]] including geraniol and rose oxide.
 
-As one of the most extensively researched [[adaptogenic-herbs-guide]], Rhodiola rosea has accumulated a substantial body of clinical evidence supporting its use for reducing fatigue, improving cognitive function under stress, and enhancing physical endurance. Its adaptogenic classification — first formalized by Soviet scientist Nikolai Lazarev in the 1940s and expanded by Israel Brekhman — refers to its ability to help the organism maintain homeostasis in the face of physical, chemical, and biological stressors.
-
-## Botany and Taxonomy
-
-**Family:** Crassulaceae (stonecrop family)
-**Genus:** Rhodiola
-**Species:** R. rosea L.
-**Common names:** Golden root, roseroot, arctic root, orpin rose, king's crown
-
-Rhodiola rosea is a dioecious perennial herb growing 10–35 cm tall. The plant produces thick, fleshy rhizomes that give off a distinctive rose-like scent when cut. Stems are unbranched, bearing fleshy, sessile leaves arranged in an alternate rosette pattern. Female plants produce cymes of yellowish-green flowers, while male plants tend toward reddish-yellow blooms. The fruit is an erect, many-seeded follicle.
-
-Key distinguishing features from other Rhodiola species include:
-- Rose-scented rhizomes (unique to R. rosea among commonly encountered species)
-- Yellow to greenish-yellow flowers (most Rhodiola species have pink, red, or purple flowers)
-- Dioecious habit (some Rhodiola species are hermaphroditic)
-- Presence of the specific signature compounds salidroside (rhodioloside) and rosavin
-
-Over 200 species exist in the Rhodiola genus, but only R. rosea has been extensively validated for adaptogenic activity. Adulteration with other Rhodiola species (particularly R. crenulata, R. kirilowii, and R. sachalinensis) is common in commercial products and is a significant quality concern.
-
-## Active Compounds and Phytochemistry
-
-The pharmacological activity of Rhodiola rosea is attributed to several classes of [[cordyceps-cancer-bioactive-compounds]]:
+As one of the most extensively researched [[cordyceps-cancer-bioactive-compounds]]:
 
 ### Phenylpropanoids (Rosavins)
 The rosavins — rosavin, rosin, and rosarin — are considered the primary marker compounds specific to authentic R. rosea. Most commercial standardizations target rosavin content, typically at 3% rosavins. Rosavin is unique to R. rosea and serves as the primary authentication marker distinguishing it from adulterant species.
@@ -56,7 +35,7 @@ Salidroside (also called rhodioloside or tyrosol glucoside) is a tyrosol glycosi
 ### Other Bioactive Compounds
 - **Tyrosol**: The aglycone of salidroside, with antioxidant and neuroprotective properties
 - **Cinnamyl alcohol derivatives**: Present in the volatile oil fraction
-- **Flavonoids**: Including [[kaempferol]], [[quercetin]], and their glycosides
+- **Flavonoids**: Including [[quercetin]], and their glycosides
 - **Proanthocyanidins**: Condensed tannins with antioxidant activity
 - **Gallic acid and chlorogenic acid**: Phenolic acids contributing to antioxidant capacity
 - **Organic acids**: Including caffeic, ferulic, and p-coumaric acids
@@ -67,11 +46,7 @@ Salidroside (also called rhodioloside or tyrosol glucoside) is a tyrosol glycosi
 Rhodiola's adaptogenic effects are mediated through multiple interconnected pathways:
 
 ### HPA Axis Modulation
-Rhodiola rosea modulates the hypothalamic-pituitary-adrenal (HPA) axis, the body's central [[epinephrine-stress-response-endocannabinoid-modulation-blesching]] system. Under chronic stress, the HPA axis becomes dysregulated, leading to elevated cortisol. Rhodiola helps normalize cortisol levels — reducing excessive cortisol during chronic stress while supporting adequate cortisol production during adrenal fatigue. This biphasic modulation is characteristic of true adaptogens.
-
-### Monoamine Neurotransmitter Regulation
-Salidroside and rosavins influence the metabolism and activity of key neurotransmitters:
-- **Serotonin**: Inhibits monoamine oxidase A and B (MAO-A, MAO-B), increasing synaptic [[serotonin]] availability
+Rhodiola rosea modulates the hypothalamic-pituitary-adrenal (HPA) axis, the body's central [[serotonin]] availability
 - **Dopamine**: Modulates dopamine reuptake and degradation, supporting motivation and reward pathways
 - **Norepinephrine**: Supports catecholamine synthesis during stress, improving alertness without the jittery effects of stimulants
 
@@ -84,20 +59,7 @@ Rhodiola activates AMP-activated protein kinase (AMPK), a master regulator of ce
 ### Anti-inflammatory and Antioxidant Pathways
 - Inhibits NF-κB signaling, reducing pro-inflammatory cytokine production (TNF-α, IL-6, IL-1β)
 - Activates Nrf2/ARE pathway, upregulating endogenous antioxidant enzymes (SOD, catalase, glutathione peroxidase)
-- Reduces lipid peroxidation and protein carbonylation under [[blesching-cannabis-oxidative-stress-and-antioxidant-defense]]
-
-### Anti-fatigue Mechanisms
-- Increases levels of ATP and creatine phosphate in muscle tissue
-- Enhances oxygen utilization efficiency and reduces lactic acid accumulation during exercise
-- Modulates the central fatigue pathway by reducing perceived exertion
-
-## Cultivation
-
-### Climate and Hardiness
-Rhodiola rosea is exceptionally cold-hardy, rated to USDA Zone 1 (-50°F / -46°C). It thrives in:
-- Cold, temperate, and subarctic climates
-- Elevations from sea level to 2,500+ meters
-- Short [[jeavons-climate-adaptation-growing-seasons]] (60–100 frost-free days are sufficient)
+- Reduces lipid peroxidation and protein carbonylation under [[jeavons-climate-adaptation-growing-seasons]] (60–100 frost-free days are sufficient)
 - Locations with cool summers (preferred average summer temperature: 10–18°C / 50–64°F)
 
 It struggles in hot, humid climates where temperatures consistently exceed 25°C (77°F). In warmer regions (Zone 7+), cultivation in partial shade with excellent drainage becomes essential.

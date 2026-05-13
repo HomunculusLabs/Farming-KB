@@ -9,7 +9,7 @@ tags: [technique, environmental-control, moisture, watering, cultivation]
 
 ## Description
 
-Moisture management is one of the two most critical factors (alongside temperature) in successful mushroom cultivation. It encompasses the control of water content in the compost, the casing layer, and the atmosphere of the growing space. Benjamin Minge Duggar emphasized that many cultivation failures could be attributed to improper moisture management — either excessive watering that drowns spawn, or insufficient watering that prevents fruiting.
+Moisture management is one of the two most critical factors (alongside temperature) in successful [[mushroom-cultivation]]. It encompasses the control of water content in the compost, the casing layer, and the atmosphere of the growing space. Benjamin Minge Duggar emphasized that many cultivation failures could be attributed to improper moisture management — either excessive watering that drowns spawn, or insufficient watering that prevents fruiting.
 
 ## Classification
 
@@ -63,7 +63,7 @@ This simple test remains relevant in modern mushroom cultivation as a quick fiel
 
 **Exhausted Bed Revival:**
 - An application of water heavier than usual may stimulate additional fruiting from apparently spent beds
-- Some growers used dilute saltpeter solution or liquid manure, though Duggar found this insufficiently beneficial
+- Some growers used dilute [[saltpeter-solution]] or liquid manure, though Duggar found this insufficiently beneficial
 
 ### Common Moisture Errors
 
@@ -93,9 +93,7 @@ When heating causes excessive drying:
 
 ## Related Entities
 
-- [[mushroom-casing]] — Casing layer critical for maintaining fruiting-zone moisture
 - [[mushroom-compost]] — Substrate whose moisture content must be precisely managed
-- [[mushroom-bed-spawning]] — Process sensitive to moisture conditions
 - [[mushroom-flush]] — Fruiting waves dependent on adequate moisture
 - [[agaricus-campestris]] — Species with specific moisture requirements
 

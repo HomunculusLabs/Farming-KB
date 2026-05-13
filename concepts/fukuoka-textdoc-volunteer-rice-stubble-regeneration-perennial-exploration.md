@@ -9,7 +9,7 @@ tags: [fukuoka, natural-farming, perennial-rice, rice-cultivation, volunteer-sho
 
 ## Overview
 
-[[masanobu-fukuoka]], the Japanese pioneer of [[cho-loess-powder-in-natural-farming]], made a profound observation
+[[cho-loess-powder-in-natural-farming]], made a profound observation
 while conducting field research in Kochi Prefecture: rice shoots were growing
 spontaneously from the stubble of previously harvested rice plants. This discovery
 opened a line of inquiry that challenged one of the most fundamental assumptions
@@ -24,21 +24,6 @@ that regenerated rice shoots and certain harmful grasses were capable of survivi
 the winter. This was not a carefully controlled experiment but rather an incidental
 observation made during entomological fieldwork. The shoots emerging from rice stubble
 in harvested fields suggested that rice plants possessed a regenerative capacity that
-[[fukuoka-critique-laws-agricultural-science]] had largely overlooked or dismissed.
-
-In areas not subject to killing frost, Fukuoka reasoned, it should be possible to
-make practical use of such regenerated rice shoots. If new shoots growing from the
-stubble of a harvested first crop or a crop of early-maturing rice could be
-rejuvenated by an application of fertilizer, a significant quantity of regenerated
-rice might be reaped from a quarter-acre plot. The implications were considerable:
-growing a biannual crop or two successive crops from a single seeding would eliminate
-the labor of repeated transplanting.
-
-## The Question of Perennial Rice
-
-Fukuoka posed a radical question: "Why should we cling to the narrow view of rice as
-an annual crop that is sown in the spring and harvested in the fall?" He was
-intrigued by the possibility of harvesting rice twice after one seeding, or even of
 [[fukuoka-textdoc-overwintering-rice-seed-clay-pellet-method]] plants and growing them as perennials. Though he never succeeded
 in finding a practical way to accomplish this in his own fields, he firmly believed
 that the idea warranted serious investigation, particularly in warmer parts of Japan
@@ -77,14 +62,7 @@ his initial observations, when he succeeded in developing a long-lasting protect
 consisting of a mixture of pesticide and synthetic resin to coat rice seed for
 protection against winter damage by rodents and other pests. His next step was to
 eliminate the need for this protectant entirely, which he eventually accomplished by
-sowing seed enclosed in [[fukuoka-aerial-seeding-clay-pellets-desert-revegetation-technique]] — a technique that would become one of his
-signature innovations.
-
-## The Holistic Philosophy
-
-These investigations reinforced one of Fukuoka's core principles: natural farming
-does not treat the planting of seed as an isolated activity, but relates it to all
-other aspects of rice production. In contrast, [[fukuoka-illusions-of-scientific-farming]] divides rice
+sowing seed enclosed in [[fukuoka-illusions-of-scientific-farming]] divides rice
 cultivation into narrow specialties — experts on germination, specialists in tillage,
 and separate authorities on seeding, transplanting, and pest control. Fukuoka argued
 that this fragmentation was fundamentally misguided. In rice cultivation, preparing
@@ -118,8 +96,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[fukuoka-textdoc-perennial-rice-biennial-cultivation-exploration]]
 - [[doc]]
-- [[natural-farming]]
 - [[fukuoka-textdoc-overwintering-rice-seed-clay-pellet-method]]
 - [[fukuoka-textdoc-non-causality-rice-blast-disease]]

@@ -77,7 +77,13 @@ The mulch-pit garden is a practical application of several core permaculture pri
 
 ## Cross-References
 
-- [[bill-mollison]] — originator and describer of the mulch-pit garden design
 - [[herb-spiral]] — complementary compact garden design using spiral pattern
-- [[flowform]] — related water management design in permaculture
 - [[anasazi-spiral]] — pattern-based design from traditional knowledge
+
+## See Also
+
+- [[teaming-with-microbes-mulch-and-soil-food-web]]
+- [[humus-sources-and-mulch-systems-tropics]]
+- [[fukuoka-straw-mulch-philosophy]]
+- [[hemenway-mulch-makers-and-plant-functional-roles]]
+- [[stone-mulch]]

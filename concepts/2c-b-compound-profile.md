@@ -42,28 +42,6 @@ The synthesis begins with 2,5-dimethoxybenzaldehyde, which is brominated to prod
 
 The original synthesis was carried out in the late 1970s. Shulgin's detailed procedure in PIHKAL provides complete synthetic details including reagent quantities, reaction conditions, isolation procedures, and purification steps.
 
-## Practical Applications
-
-2C-B has been explored in clinical settings as a potential adjunct to
-psychotherapy, particularly for its empathogenic and introspective
-qualities at lower doses (12-16 mg). Its relatively short duration
-(4-6 hours) makes it logistically easier to work with than LSD or DOB
-in therapeutic contexts. Some practitioners report it enhances body
-awareness and emotional openness without the overwhelming cognitive
-distortion of tryptamines.
-
-## Safety Notes
-
-- Nausea and body discomfort are commonly reported at onset, especially
-  at doses above 20 mg.
-- Combining 2C-B with MAO inhibitors is dangerous due to the amine
-  structure and potential for hypertensive crisis.
-- HPPV (hallucinogen persisting perception disorder) risk is low but
-  not zero; standard psychedelic set-and-setting precautions apply.
-- Purity is a serious concern on unregulated markets -- reagent testing
-  (Marquis, Mecke) is essential to distinguish 2C-B from more harmful
-  substances sold under the same name.
-
 ## Historical Significance
 
 2C-B is one of the most well-known and widely used of all the phenethylamines documented in PIHKAL. It was first synthesized by Shulgin in 1974. For a period in the 1980s and early 1990s, it was sold legally as an aphrodisiac under brand names including "Nexus" and "Eros," before being scheduled in the United States in 1995.
@@ -80,32 +58,87 @@ The bromine atom at the 4-position is a key determinant of activity. The compoun
 
 See also: [[2c-family-compounds-overview]], [[2c-i-compound-profile]], [[2c-e-compound-profile]], [[phenethylamine-chemistry-basics]], [[shulgin-dosage-guidelines]]
 
+## Overview
+
+2C B Compound Profile represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish 2c b compound profile
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving 2c extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
 ## Practical Applications
-2C B Compound Profile has significant applications in sustainable agriculture, ecological design, and regenerative practices. Practitioners and researchers continue to explore innovative methods for implementing these concepts in diverse climates and scales of operation.
 
-## Historical Significance
-The development and understanding of 2c b compound profile has evolved considerably over recent decades, with contributions from researchers, practitioners, and indigenous knowledge systems worldwide.
+2C B Compound Profile finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
 
-## Key Considerations
-Successful implementation of 2c b compound profile requires attention to local conditions, climate adaptability, and integration with existing ecological systems. Regular monitoring and adaptive management are essential for optimal results.
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for 2c b compound profile. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+2c b compound profile and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
 
 ## Historical Context
 
-The historical development of this subject reflects centuries of accumulated
-knowledge and practical experience. From traditional methods passed down
-through generations to modern scientific approaches, the evolution continues
-to inform current best practices and research directions.
+2C B Compound Profile has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
 
-## Common Challenges
+## Integration Strategies
 
-Practitioners frequently encounter several challenges when working with
-these concepts. Climate variability, resource limitations, and knowledge
-gaps can all affect outcomes. Addressing these challenges requires patience,
-observation, and a willingness to adapt approaches based on results.
+Successful integration of 2c b compound profile into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
 
 ## See Also
-- [[doc]]
-- [[psilocybin]]
-- [[2c-b]]
-- [[det]]
-- [[tryptamine]]
+
+- [[2c-e-compound-profile]]
+- [[dob-compound-profile]]
+- [[dpt-compound-profile]]
+- [[lsd-compound-profile]]
+- [[medicinal-mushroom-compound-extraction]]

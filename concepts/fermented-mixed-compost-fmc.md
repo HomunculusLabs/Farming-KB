@@ -1,6 +1,6 @@
 ---
 
-title: Fermented Mixed Compost Fmc
+title: Fermented Mixed Compost (FMC) — IMO-Enriched Compost
 created: 2026-04-11
 updated: 2026-04-12
 type: concept
@@ -23,7 +23,7 @@ sources:
 
 # Fermented Mixed Compost (FMC)
 
-Fermented Mixed Compost is KNF's signature composting method. It combines IMO-4 (cultivated [[beneficial-indigenous-microorganisms-bim]]) with organic matter and select KNF inputs to create a microbially-rich, nutrient-balanced compost. Unlike traditional composting which relies on ambient microbes, FMC actively inoculates the compost with targeted [[forest-and-bamboo-beneficial-microorganisms]] from your local environment.
+Fermented Mixed Compost is KNF's signature composting method. It combines IMO-4 (cultivated indigenous microorganisms) with organic matter and select KNF inputs to create a microbially-rich, nutrient-balanced compost. Unlike traditional composting which relies on ambient microbes, FMC actively inoculates the compost with targeted beneficial microorganisms from your local environment.
 
 FMC is the bridge between KNF liquid inputs and long-term soil building. While KNF sprays provide immediate nutrition, FMC builds the soil food web infrastructure that sustains plant health between applications.
 
@@ -73,7 +73,7 @@ Cho's comprehensive method with precise layering and nutrient input scheduling.
 | FPJ diluted 1:1000 | 20-30 L | Microbial energy |
 | FAA diluted 1:1000 | 10-20 L | Nitrogen boost |
 | OHN diluted 1:1000 | 10-20 L | Disease prevention |
-| LAB diluted 1:1000 | 10-20 L | [[bionutrients-lab-lactic-acid-bacteria-serum]] boost |
+| LAB diluted 1:1000 | 10-20 L | Lactic acid bacteria boost |
 | Seawater | 3-5 L | Full-spectrum minerals |
 | Water (non-chlorinated) | As needed | Moisture adjustment |
 
@@ -90,7 +90,7 @@ Cho's comprehensive method with precise layering and nutrient input scheduling.
    - Repeat layers until pile reaches 50-70 cm height
    - Top layer: Cover with rice straw or gunny sack
 
-3. **[[cervantes-reservoir-temperature-management]]** (critical):
+3. **Temperature management** (critical):
    - Monitor pile temperature daily
    - Ideal range: 40-60C (104-140F)
    - Below 40C: Too wet or too cold → turn and add dry material
@@ -115,7 +115,7 @@ Cho's comprehensive method with precise layering and nutrient input scheduling.
 6. **Curing** (after active composting):
    - When temperature drops to ambient and stays there for 3+ days, active composting is complete
    - Let compost cure for 2-4 weeks in covered pile
-   - Curing allows [[cannabis-rhizosphere-microbial-communities]] to stabilize and phytotoxic compounds to break down
+   - Curing allows microbial communities to stabilize and phytotoxic compounds to break down
 
 **Total time**: 6-8 weeks from start to finished compost
 
@@ -140,11 +140,10 @@ Cho's comprehensive method with precise layering and nutrient input scheduling.
 
 Make FMC between November and March for best results. Cool, dry weather favors fermenting microbes (Aspergillus oryzae, Absida, Mucor, Rhizopus) over bacteria. In summer's heat and humidity, bacteria multiply too fast and outcompete fermenters, causing decay. The first stage of FMC is saccharification — fermenting microbes make sugars unimpeded by bacteria in late fall/winter conditions.
 
-## Material Selection Philosophy
+## See Also
 
-From Cho's recipe book — four principles for choosing FMC ingredients:
-
-1. **Include all four realms**: mountain (fallen leaf or fruit), paddy (rice bran or straw), field (oil dreg, bean dreg, bush clover), and sea (fish waste or seaweed)
-2. **Protein-rich animal materials**: bone meal, fish meal as major ingredients alongside plant materials
-3. **Avoid agricultural by-products** (chemically treated residues)
-4. **Microbe food = human food = plant food**: choose high-quality diverse materials
+- [[fermented-plant-extract]]
+- [[knf-fermented-plant-juice]]
+- [[comparison-fermented-vegetables-vs-canning]]
+- [[bionutrients-fermented-plant-extracts]]
+- [[kombucha-brewing]]

@@ -65,7 +65,7 @@ Some dyers use aluminum acetate (5-8% WOF) as a single-step cellulose mordant wi
 | Goldenrod (Solidago spp.) | Flowering tops | Yellow, varies by species |
 | Onion skin | Outer papery skins | Gold to orange-yellow |
 | Queen Anne's lace | Flowers | Pale yellow |
-| Turmeric ([[curcuma-longa]]) | Root powder | Intense yellow, poor lightfastness |
+| Turmeric (Curcuma longa) | Root powder | Intense yellow, poor lightfastness |
 | Dandelion | Flowers | Pale to medium yellow |
 
 ### Red / Orange / Pink
@@ -85,9 +85,9 @@ Some dyers use aluminum acetate (5-8% WOF) as a single-step cellulose mordant wi
 | Plant | Part Used | Color Notes |
 |-------|-----------|-------------|
 | Indigo (Indigofera tinctoria) | Leaves | True blue — requires reduction vat |
-| Woad ([[isatis-tinctoria]]) | Leaves | Blue — European indigo alternative |
-| Japanese indigo (Persicaria tinctoria) | Leaves | Blue — easier to grow [[query-how-to-grow-and-use-oca-in-temperate-climates]] |
-| Logwood ([[haematoxylum-campechianum]]) | Heartwood | Blue-purple to black (needs mordant) |
+| Woad (Isatis tinctoria) | Leaves | Blue — European indigo alternative |
+| Japanese indigo (Persicaria tinctoria) | Leaves | Blue — easier to grow in temperate climates |
+| Logwood (Haematoxylum campechianum) | Heartwood | Blue-purple to black (needs mordant) |
 
 ### Green
 
@@ -100,7 +100,7 @@ True green is rare in nature. Achieve by:
 
 | Plant | Part Used | Color Notes |
 |-------|-----------|-------------|
-| Black walnut ([[juglans-nigra]]) | Hulls | Rich dark brown — no mordant needed |
+| Black walnut (Juglans nigra) | Hulls | Rich dark brown — no mordant needed |
 | Oak bark | Bark | Tan to brown |
 | Cutch (Acacia catechu) | Heartwood | Brown — excellent lightfastness |
 | Acorns | Caps/kernels | Tan to brown with iron |
@@ -141,9 +141,10 @@ Integrate dye plants into the homestead landscape:
 
 ### Cold Extraction
 
-For delicate pigments (some flowers, berries):
-1. Soak plant material in water 24-48 hours
-2. Strain and use liquid as dye bath
-3. May require longer immersion times
+## See Also
 
-### Fermentation Extraction
+- [[natural-beekeeping-practices]]
+- [[fukuoka-rice-and-barley-natural-farming]]
+- [[natural-building-overview]]
+- [[fukuoka-natural-farming-philosophy-five-principles]]
+- [[natural-farming-do-nothing-philosophy]]

@@ -6,7 +6,7 @@ type: concept
 
 # Toroidal Phenomena and Spherical Accretion
 
-Toroidal (doughnut-shaped) phenomena and spherical accretion-expulsion models represent two of the most fundamental [[patterns-in-nature]]. From atomic-scale particles to planetary bodies, these forms recur at every scale, providing [[permaculture]] designers with a deep understanding of how energy and matter organize themselves in three-dimensional space.
+Toroidal (doughnut-shaped) phenomena and spherical accretion-expulsion models represent two of the most fundamental [[permaculture]] designers with a deep understanding of how energy and matter organize themselves in three-dimensional space.
 
 ## Toroidal Phenomena
 
@@ -41,57 +41,7 @@ Several special toroidal forms are significant:
 
 ### The Torus as a Special Case
 
-A torus can be understood as a special or truncated case of the [[overbeck-jet]] (the trail formed when a body moves through fluid), just as a foetus is a truncated "tree." This connection reveals how different flow phenomena are variations on a common theme.
-
-## Spherical (Closed) Models: Accretion and Expulsion
-
-### The General Model
-
-The best examples of spherical form are found in planetary bodies in space. These deflect light, dust, and gas towards them and may capture materials. The general model for most dense planetary bodies involves:
-
-1. A dense core that assembled its share of galactic materials
-2. A torus of matter at low- or high-speed rotation forming around the core
-3. Electromagnetic fields and thermal convection creating special conditions along the axis of spin
-
-### Responses to Accumulation
-
-As matter accumulates in this model, bodies can respond in three ways:
-
-- **Becoming more dense** — to a theoretical limit of 10¹⁰ g/cm³
-- **Swelling or expanding** — producing shatter effects
-- **Ejecting material at the poles**
-
-Any combination of these responses is possible depending on the state of the matter attached or attracted to the core.
-
-### Polar Ejection
-
-The model predicts differential behavior at the two poles:
-
-- Along the Z-Z (ejection) axis, rotating tori speed up ejection at **north poles** and slow it down at **south poles**
-- Less viscous materials are likely to be emitted at north polar emitters
-- For pulsars, the ejection is radio waves; for black holes, high-speed gas plumes
-- For Earth, this may relate to how seas and continents were "ejected" at magnetic poles, or how the planet gathers the violent energy of ionised particles forming the auroras
-
-### The Aurora Connection
-
-The auroras provide a visible example of toroidal-polar dynamics:
-- Auroras are visible as polar tori in satellite images
-- The long curtains of the auroras seen from the ground contain vertical spiral columns
-- They demonstrate how electromagnetic fields interact with incoming particles at the poles
-
-### The Solar Cycle
-
-Weak gravitational waves permeate the astronomical system as pulsers permeate biological systems, aiding both dispersal and accumulation depending on the sense of rotation of the accreting system or the electromagnetic fields interacting with incoming particles. Weak fields within the sun may create its pulsers, which proceed from pole to equator as a roll or torus of turbulence over an approximately **11-year period** — the solar cycle.
-
-## Dimensions and Generators
-
-### Pattern Generators
-
-Patterned systems may exist in two or more dimensions. The generator of a pattern is the driving force that creates it:
-
-- **Rivers and glaciers**: Tree-forms flowing down along S-shaped gradients; the generator is **gravity**
-- **Sand dunes and waves**: Form on near-flat platforms; the generator is **wind**
-- **Mosses, dendrites, [[mycorrhiza]]**: Tree-like forms where kinetic forces do not act strongly; the generator is **life or growth itself**
+A torus can be understood as a special or truncated case of the [[mycorrhiza]]**: Tree-like forms where kinetic forces do not act strongly; the generator is **life or growth itself**
 - **Crystals and ice**: Slow growth into cavities; the generator is **molecular forces**
 - **Lobulations and lattices**: Freeze-thaw or swell-shrink patterns in flat environments; the generator is **physical/chemical cycling**
 
@@ -131,3 +81,11 @@ When kinetic forces do not dominate, molecular and chemical processes create fra
 - Mandelbrot, B. — *The Fractal Geometry of Nature*. Foundation of fractal mathematics for understanding irregular natural phenomena.
 - New Scientist (4 April 1985, pp. 12-16) — Models of planetary body formation.
 - Bohm, D. (1980) — *Wholeness and the Implicate Order*.
+
+## See Also
+
+- [[toroidal-phenomena-and-spherical-accretion-models]]
+- [[toroidal-phenomena-in-nature]]
+- [[mckenna-dmt-onset-acoustic-phenomena-cellophane-ascending-tone]]
+- [[mckenna-radio-entelechy-dmt-onset-acoustic-phenomena]]
+- [[phase-transitions-and-critical-phenomena]]

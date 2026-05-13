@@ -20,22 +20,7 @@ type: concept
 
 Kaposi's sarcoma (KS) is an abnormal connective tissue mass, commonly
 presenting as multiple lesions on the skin. Moritz Kaposi first described the
-disease in the late [[mckenna-club-des-hachischins-and-nineteenth-century-literary-hashish]]. At that time it was thought to be a
-cancer, a hereditary condition, or a viral infection. The confusion continued
-at the beginning of the "AIDS epidemic" in the early 1980s, when doctors
-considered it the signature disease in people diagnosed with AIDS (especially
-in the gay community).
-
-By 1994, it was established that KS is a cancer caused by a virus from the
-herpes family -- the eighth human herpes virus (HHV-8), also called Kaposi's
-sarcoma-associated herpes virus (KSHV). The allopathic community no longer
-considers KS to be an indication of AIDS when combined with a positive HIV
-test.
-
-## Cannabis Health Index (CHI) Score
-
-- Total Studies Reviewed: 2
-- [[blesching-cannabis-prostate-cancer-chi-value-3]]: 1
+disease in the late [[blesching-cannabis-prostate-cancer-chi-value-3]]: 1
 
 ## Research Evidence
 
@@ -61,23 +46,10 @@ an increased risk of developing Kaposi's sarcoma.
 | Drug | Study Type | Key Findings | CHI |
 |------|-----------|-------------|-----|
 | WIN55,212-2 (synthetic cannabinoid) | Laboratory | 2009, University of Catania, Italy: WIN55,212-2 reduced viability of human Kaposi's sarcoma cells in vitro | 1 |
-| Cannabis vs. [[cocaine]], amphetamines, poppers | 401 HIV+/HHV-8+ men | 2009, Los Angeles: Poppers correlated with KS; long-term cannabis use not correlated with increased KS risk | 0 |
-
-## Strain-Specific Considerations
-
-WIN55,212-2 binds with higher affinity to CB2 receptors than CB1 receptors.
-Indicas and indica-dominant strains tend to present a lower THC:[[cannabis-thc-cbd-ratio-guide-for-conditions]],
+| Cannabis vs. [[cannabis-thc-cbd-ratio-guide-for-conditions]],
 thus relatively favoring CB2 receptor activation. This suggests that indica
 strains with higher CBD content may be more relevant for potential anti-KS
-[[psilocybin-therapeutic-applications]].
-
-## Clinical Context
-
-Kaposi's sarcoma lesions often develop around visible areas (nose, mouth,
-neck, chest) and are therefore very noticeable. While KS was historically
-associated with AIDS, it can develop independently of HIV status. The finding
-that cannabis use is not associated with increased KS risk is reassuring for
-immunocompromised patients who may use cannabis for [[cannabis-cancer-symptom-management]].
+[[cannabis-cancer-symptom-management]].
 
 The anti-tumor activity of CB2-binding cannabinoids against KS cells is
 consistent with findings in other cancers where CB2 receptor activation has
@@ -118,8 +90,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[cannabis-health-index]]
 - [[doc]]
-- [[psilocybin]]
 - [[dom]]
 - [[cocaine]]

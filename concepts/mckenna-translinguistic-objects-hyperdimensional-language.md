@@ -1,6 +1,6 @@
 ---
 title: "mckenna-translinguistic-objects-cognitive-dissonance-tryptamine and Hyperdimensional Language in Tryptamine Experiences"
-aliases: ["[[glossolalia-translinguistic-objects]] DMT", "hyperdimensional language McKenna", "self-transforming elf machines", "[[glossolalia-tryptamine-language]] entities"]
+aliases: ["glossolalia-tryptamine-language entities"]
 tags: [dmt, tryptamines, phenomenology, language, entities, mckenna, hyperdimensional]
 ---
 
@@ -8,15 +8,7 @@ tags: [dmt, tryptamines, phenomenology, language, entities, mckenna, hyperdimens
 
 ## Overview
 
-[[terence-mckenna]]'s concept of "translinguistic objects" refers to the phenomenon encountered in deep tryptamine experiences where the experiencer perceives objects, structures, or entities that appear to be constructed from language itself or that communicate through modalities beyond ordinary linguistic comprehension. These experiences suggest the existence of a hyperdimensional language — a mode of communication that operates on principles fundamentally different from human verbal language.
-
-## The Phenomenon of Translinguistic Objects
-
-Translinguistic objects are among the most distinctive and frequently reported features of high-dose DMT experiences.
-
-They manifest as complex, self-transforming structures that seem to embody meaning in a way that transcends the arbitrary relationship between signifier and signified in human language.
-
-McKenna described these objects as "self-transforming [[dmt-self-transforming-machine-elves-mckenna]]" or "jeweled self-dribbling basketballs" — attempts to capture in ordinary language something that fundamentally exceeds its descriptive capacity.
+[[dmt-self-transforming-machine-elves-mckenna]]" or "jeweled self-dribbling basketballs" — attempts to capture in ordinary language something that fundamentally exceeds its descriptive capacity.
 
 The objects appear to be alive, intelligent, and intentionally communicative.
 
@@ -80,10 +72,14 @@ This possibility has profound implications for understanding the nature of consc
 
 ## Relationship to Entity Encounters
 
-Translinguistic objects are closely related to, and often co-occur with, the entity encounters commonly reported in DMT experiences.
+Translinguistic objects are closely related to, and often co-occur with, the entity encounters commonly reported in [[dmt]] experiences.
 
 The two phenomena may represent different aspects of the same underlying reality.
 
 In many accounts, the translinguistic objects serve as the medium through which the entities communicate, blurring the boundary between message and messenger.
 
 Many experiencers report that the entities they encounter are themselves translinguistic — they communicate through the direct transmission of meaning rather than through verbal language.
+
+## See Also
+
+- [[mckenna-translinguistic-objects-cognitive-dissonance-tryptamine]]

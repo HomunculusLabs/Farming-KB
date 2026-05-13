@@ -5,18 +5,14 @@ updated: 2026-04-23
 sources:
   - "raw/papers/marijuana-horticulture-cervantes.md"
   - "raw/papers/marijuana-horticulture-cervantes.md"
-  - "Cervantes - [[marijuana-horticulture-cervantes-cannabis-breeding-and-genetics]]"
+  - "Cervantes - marijuana-horticulture-cervantes-cannabis-breeding-and-genetics"
 type: concept
 tags: [cannabis]
 ---
 
 # Topping (Cannabis)
 
-Topping is a fundamental [[comparison-lollipopping-vs-cannabis-pruning-and-defoliation]] technique that involves removing the apical meristem -- the main growing tip at the top of the plant -- to force the plant to develop two or more main colas instead of a single central one. Cervantes describes the technique in his pruning guidance: "Pinching back or pruning tops (branch tips) causes the two growing shoots just below the cut to grow stronger and bigger. This increases the number of top or main buds."
-
-## Core Concept
-
-Cannabis plants naturally exhibit apical dominance, meaning the main central stem grows taller and faster than side branches. The apical meristem at the very top produces auxin hormones that suppress lateral branching below it. When this dominant tip is removed, [[auxin-production-by-symbiotic-fungi]] at the cut site stops, and the two highest branch tips below the cut begin to grow vigorously as they compete to become the new dominant tips. The result is two main colas of similar size instead of one.
+Topping is a fundamental [[auxin-production-by-symbiotic-fungi]] at the cut site stops, and the two highest branch tips below the cut begin to grow vigorously as they compete to become the new dominant tips. The result is two main colas of similar size instead of one.
 
 Cervantes explains the hormonal mechanism: "Cutting the meristem (top growth tip) of a cannabis plant will diffuse auxins and cause greater concentrations in lower branch tips." This hormonal shift is what drives the plant to redirect energy from vertical growth into lateral branching.
 
@@ -72,11 +68,7 @@ However, Cervantes cautions that "pruning too much over time may alter hormonal 
 
 ### Even Canopy
 
-Topping is used to prevent one plant from dominating the canopy height. In a mixed garden, taller plants can be topped to match shorter ones, ensuring even [[cervantes-reflective-hoods-light-distribution]] across all plants.
-
-### Four-Branch Manifold
-
-Cervantes describes a specific topping approach: "Remove all but the four main branches. The meristem (central stem) is removed just above the four lowest branches." This creates a four-cola plant where floral hormones are concentrated in the remaining branches. See [[cannabis-vegetative-stage]] only
+Topping is used to prevent one plant from dominating the canopy height. In a mixed garden, taller plants can be topped to match shorter ones, ensuring even [[cannabis-vegetative-stage]] only
 - Best done at 3-5 weeks of age when the plant has 3-5 node pairs
 - Complete all topping at least 4 weeks before switching to flowering
 - Do not top during flowering -- energy is diverted from bud production to wound healing
@@ -87,3 +79,7 @@ Cervantes describes a specific topping approach: "Remove all but the four main b
 Cervantes provides a counterpoint: "Most successful growers do not prune at all, especially if growing a short clone crop that is only two to three feet (61-91 cm) tall. Short clone crops require no pruning to increase light to bottom leaves or to alter their profile." He notes that "not pruning has several advantages" because "floral hormones are allowed to concentrate in tips of branches causing buds to grow stronger and denser."
 
 ## Topping and the 20 Percent Rule
+
+## See Also
+
+- [[cannabis-topping-training]]

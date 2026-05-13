@@ -13,24 +13,7 @@ sources:
 
 **Updated:** 2026-04-18
 
-[[hamilton-geoffhamilton-nick-organic-gardening-organic-pest-control]], Fukuoka practiced what he called "semi-wild" cultivation -- allowing vegetables to grow in a nearly natural state with minimal human intervention. His approach produces yields comparable to conventional methods while improving soil and requiring almost no labor.
-
-## The Semi-Wild Approach
-
-Fukuoka distinguishes between conventional vegetable growing and what he calls semi-wild cultivation:
-
-- **Conventional vegetables** (such as genetically over-improved cucumber and tomato) are frail crops that require intensive care
-- **Most vegetables**, however, are "surprisingly hardy crops that can thrive even under extensive cultivation"
-- When cultivated in a "semi-wild state that could be considered a natural rotation," most vegetables can be grown almost entirely without fertilizers
-
-### The Natural Rotation
-
-Fukuoka does not plan specific crop rotations in the conventional sense. Instead, he allows vegetables to follow natural succession patterns:
-
-- Seeds are scattered and allowed to grow where conditions suit them
-- Some species flourish, then fade in an ongoing succession
-- Plants of the same species do not all grow in the same place and way
-- Different types flourish at different times, [[fukuoka-creating-natural-farm-site-selection-establishment]] rotation
+[[fukuoka-creating-natural-farm-site-selection-establishment]] rotation
 - The cycles of coexistence, competition, and mutual benefit repeat themselves
 
 ### Vegetable Disease and Pest Resistance
@@ -46,13 +29,7 @@ This is possible because:
 
 ## Growing Vegetables Under Fruit Trees
 
-Fukuoka's preferred method is growing vegetables beneath [[mollison-designers-humus-building-and-soil-organic-matter]]
-
-### Leaf Vegetables
-
-Many leaf vegetables grow well in semi-wild conditions:
-- They can be cut repeatedly for harvest while continuing to grow
-- They provide [[fukuoka-citrus-orchard-ground-cover-cultivation]] that suppresses weeds
+Fukuoka's preferred method is growing vegetables beneath [[fukuoka-citrus-orchard-ground-cover-cultivation]] that suppresses weeds
 - They are among the easiest vegetables to naturalize
 
 ### Wild and Semi-Wild Vegetables
@@ -60,20 +37,7 @@ Many leaf vegetables grow well in semi-wild conditions:
 Fukuoka particularly values wild and semi-wild vegetables for their nutritional and medicinal qualities:
 
 - "The wilder and more primitive the food, the greater its medicinal value"
-- Many [[query-how-do-i-identify-the-most-common-edible-wild-mushrooms]] plants grow naturally in and around cultivated areas
-- These can be encouraged rather than suppressed
-- They provide diversity in the diet and resilience in the garden
-
-## The Seed Ball Technique for Vegetables
-
-While Fukuoka's seed ball technique is most famous for rice and [[miniculture-rye-grain-cultivation-method-for-psilocybe-cubensis]], it is equally applicable to vegetables. See [[biodiversity-of-fungi-biomass-carbon-soil-structure]] at multiple levels
-- Continuous vegetable growing (when done with natural rotation) actually improves soil rather than depleting it
-
-## Fukuoka's Practical Approach
-
-Despite his philosophical radicalism, Fukuoka was pragmatic about vegetable growing:
-
-- He recognized that pure "do-nothing" farming is an ideal (Mahayana [[fukuoka-natural-fruit-tree-pest-control]]
+- Many [[miniculture-rye-grain-cultivation-method-for-psilocybe-cubensis]], it is equally applicable to vegetables. See [[fukuoka-natural-fruit-tree-pest-control]]
 ## Practical Considerations
 
 Successful implementation of Fukuoka Natural Vegetable Growing requires attention to
@@ -122,8 +86,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[dom]]
 - [[fukuoka-semi-wild-vegetable-growing-natural-method]]
-- [[fukuoka-vegetable-growing-natural-method]]
 - [[fukuoka-vegetable-growing-detailed]]
 - [[fukuoka-textdoc-natural-crop-rotation-vegetable-methods]]

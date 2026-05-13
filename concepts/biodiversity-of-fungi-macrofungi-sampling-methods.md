@@ -5,8 +5,7 @@ quantitative data comparable across sites, seasons, and studies. Mueller et al.
 (2004) provide detailed recommendations for inventory and monitoring of
 macrofungi, emphasizing the need for well-planned research with clearly stated
 goals, pilot studies, and systematic data collection. This page summarizes the
-key methods for [[recommended-protocols-sampling-macrofungi]] from terrestrial ecosystems, including
-plot-based surveys, transect protocols, and [[fungal-biodiversity-data-analysis]] approaches.
+key methods for [[fungal-biodiversity-data-analysis]] approaches.
 
 ## Fixed-Size Plot Protocol
 
@@ -49,14 +48,7 @@ approximately 1.0 to 1.5 cm to enhance drying and discourage mold. Specimens
 are labeled with the log number and placed in appropriate containers. At the
 end of the collecting day, specimens are transported to the field station for
 sorting, describing, photographing, and drying. When possible, the genus or
-species of the [[ectomycorrhizal-host-tree-partnerships]] is noted. Written descriptions, photographs, spore
-prints, cultures, and macrochemical tests should be used to fully document each
-specimen.
-
-## Downed Log Sampling
-
-Restricting quantitative sampling to the 0.1-hectare plots would exclude most
-fungi found on large [[biodiversity-macrofungi-woody-substrata]]. A separate protocol addresses this: 30
+species of the [[biodiversity-macrofungi-woody-substrata]]. A separate protocol addresses this: 30
 logs are selected at each site in each of three decay classes. Class 1 logs
 are relatively newly fallen, usually retaining bark. Class 2 logs are medium
 rotten with bark fallen off; a knife can penetrate approximately 2 cm without
@@ -79,10 +71,7 @@ collected in greater numbers.
 
 Recording the substratum for each specimen is essential for ecological analysis.
 Key substratum categories include living tree (with part specified: trunk,
-branch, root), dead wood (with decay class), soil, [[dighton-fungal-decomposition-leaf-litter-dynamics]], dung, and other
-organic material. For wood-inhabiting fungi, the diameter class and decay stage
-of the substratum should be recorded. Host tree species associations are
-particularly important, as many macrofungi show strong [[fungal-endemism-host-specificity]]. Data
+branch, root), dead wood (with decay class), soil, [[fungal-endemism-host-specificity]]. Data
 on the tree species, its condition, and the position of the fungus on the tree
 provide critical ecological information.
 
@@ -117,8 +106,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[doc]]
 - [[det]]
-- [[spore]]
 - [[ectomycorrhiza]]
 - [[decomposition]]

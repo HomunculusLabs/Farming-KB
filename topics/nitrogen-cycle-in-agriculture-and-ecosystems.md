@@ -29,15 +29,7 @@ Nitrogen (N) is the element most frequently limiting to plant growth in terrestr
 
 #### Free-Living Nitrogen Fixers
 
-- **Aerobic**: *Azotobacter* (soil), *Beijerinckia* (acidic [[mollison-designers-tropical-soils-and-cation-exchange-management]]), cyanobacteria (*Nostoc*, *Anabaena*)
-- **Anaerobic**: *Clostridium pasteurianum* (common soil inhabitant)
-- **Facultative**: *Klebsiella pneumoniae* (soil and rhizosphere)
-- Free-living fixers typically contribute 1–10 kg N/ha/year — significant at ecosystem scales but modest compared to symbiotic systems
-
-#### Associative (Endophytic) Nitrogen Fixation
-
-- **Endophytic diazotrophs** colonize the interior of non-leguminous plants: *Gluconacetobacter diazotrophicus* in sugarcane (contributing up to 60% of plant N), *Azoarcus* in Kallar grass, *Herbaspirillum* in rice and maize
-- **Azospirillum** species inhabit the rhizosphere of many grasses and cereals, promoting growth through combined N fixation (5–20 kg N/ha/year), phytohormone production, and improved [[plant-nutrient-uptake-mechanisms]]
+- **Aerobic**: *Azotobacter* (soil), *Beijerinckia* (acidic [[plant-nutrient-uptake-mechanisms]]
 - This category is of intense research interest for reducing synthetic N dependence in cereal crops
 
 ### 2. Mineralization and Immobilization
@@ -60,35 +52,7 @@ When organic material with a high C:N ratio (>30:1) is incorporated into soil, s
 | Material | C:N Ratio | Net N Release |
 |---|---|---|
 | Alfalfa residue | 13:1 | Immediate |
-| Legume [[comparison-green-manure-guide-vs-mulch-types-and-effects]] | 15–20:1 | Rapid (2–4 weeks) |
-| Mature grass hay | 25–35:1 | Moderate delay |
-| Wheat straw | 80:1 | 8–12 week tie-up |
-| Sawdust | 400:1 | Prolonged immobilization |
-| Paper/cardboard | 150–500:1 | Severe immobilization |
-
-The **net mineralization balance** determines whether a system is a source or sink for plant-available N at any given time. This is the fundamental reason why mature carbon-rich mulches can cause N deficiency if incorporated into soil rather than surface-applied.
-
-### 3. Nitrification
-
-Nitrification is the two-step biological oxidation of ammonium to nitrate:
-
-**Step 1: Ammonia oxidation** (NH₄⁺ → NO₂⁻)
-- Primary organisms: **Ammonia-oxidizing bacteria (AOB)** (*Nitrosomonas*, *Nitrosospira*) and **ammonia-oxidizing archaea (AOA)** (*Nitrososphaera*, *Nitrosopumilus*)
-- AOA often dominate in acidic soils (pH < 5.5) and low-nutrient environments
-- Enzyme: ammonia monooxygenase (AMO)
-
-**Step 2: Nitrite oxidation** (NO₂⁻ → NO₃⁻)
-- Primary organisms: **Nitrite-oxidizing bacteria (NOB)** (*Nitrobacter*, *Nitrospira*)
-- Enzyme: nitrite oxidoreductase (NXR)
-- *Nitrobacter* is K-strategist (adapted to high substrate); *Nitrospira* is r-strategist (adapted to low substrate)
-
-#### Agricultural Significance of Nitrification
-
-Nitrification is central to N loss because nitrate (NO₃⁻) is:
-
-- **Highly mobile**: leaches easily with percolating water, contaminating groundwater and surface water
-- **Subject to denitrification**: the electron acceptor preferred by facultative anaerobes in waterlogged conditions
-- **Less retained by [[query-what-is-cation-exchange-capacity-and-why-does-it-matter]]**: unlike NH₄⁺, NO₃⁻ is an anion and not held by soil cation exchange capacity (CEC)
+| Legume [[query-what-is-cation-exchange-capacity-and-why-does-it-matter]]**: unlike NH₄⁺, NO₃⁻ is an anion and not held by soil cation exchange capacity (CEC)
 
 **Nitrification inhibitors** (e.g., dicyandiamide/DCD, nitrapyrin, 3,4-dimethylpyrazole phosphate/DMPP) are widely used in conjunction with urea or ammonium-based fertilizers to slow the conversion and reduce losses by 15–40%.
 
@@ -139,11 +103,7 @@ Nitrate leached below the root zone contaminates groundwater (causing methemoglo
 
 ## See Also
 
-- [[nitrogen-fixing-bacteria-and-biological-nitrogen-fixation]]
 - [[legume-trees-and-nitrogen-fixing-permaculture-species]]
-- [[cover-crops-and-green-manures]]
 - [[composting-and-soil-biology]]
-- [[the-soil-food-web]]
 - [[the-rhizosphere-ecology-and-plant-microbe-interactions]]
-- [[keyline-design-and-water-management-in-permaculture]]
 - [[holistic-grazing-and-pasture-management]]

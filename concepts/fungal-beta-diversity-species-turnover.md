@@ -10,31 +10,11 @@ sources: []
 
 Beta diversity quantifies the degree of change in species composition
 between sites, habitats, or along environmental gradients. It is a
-critical concept for understanding how [[biodiversity-of-fungi-soil-fungal-communities-agriculture]] are organized
-across landscapes and how environmental change drives community shifts.
-
-## Whittaker's Hierarchical Diversity
-
-Whittaker (1977) recognized that ecological diversity is scale-dependent:
-
-- **Point diversity:** Diversity at a single location
-- **[[microbial-alpha-diversity-soil-plant-gradient]]:** Within-habitat diversity (multiple samples within
+critical concept for understanding how [[microbial-alpha-diversity-soil-plant-gradient]]:** Within-habitat diversity (multiple samples within
   the same habitat type)
 - **Beta diversity:** Between-habitat component — species turnover
   along gradients
-- **[[alpha-beta-gamma-diversity-fungi]]:** Total diversity of a site (multiple habitat types)
-- **Delta diversity:** Between-landscape changes in species composition
-- **Epsilon diversity:** Diversity of a large biogeographic region
-
-### Example: Fungi on Decaying Leaves
-
-- Point diversity: fungal species on a single leaf
-- Alpha diversity: fungi across multiple leaves of the same tree species
-- Beta diversity: differences in fungal communities between leaf types
-  in the same forest
-- Gamma diversity: fungi across several forested locations
-- Epsilon diversity: fungal species composition across all deciduous
-  forests of [[polypore-fungi-eastern-north-america]] America
+- **[[polypore-fungi-eastern-north-america]] America
 
 ## Species Abundance Distribution Models
 
@@ -76,8 +56,7 @@ communities, from most to least equitable:
 
 Environmental filtering is a major driver of fungal beta diversity.
 Soil pH, moisture, organic matter content, and host plant identity
-all create distinct [[air-pollution-fungal-community-responses]] assemblages. Geographic distance
-contributes through [[fungal-dispersal-limitation-biogeographic-barriers]], particularly for
+all create distinct [[fungal-dispersal-limitation-biogeographic-barriers]], particularly for
 basidiomycete fruiting bodies with limited spore dispersal ranges.
 
 Host plant identity strongly structures fungal beta diversity.
@@ -118,8 +97,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[dom]]
 - [[spore-dispersal]]
-- [[spore]]
 - [[mycorrhiza]]
 - [[fungal-beta-diversity-similarity-indices-zak-willig]]

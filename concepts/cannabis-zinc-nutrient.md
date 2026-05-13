@@ -12,7 +12,7 @@ tags: [cannabis, nutrients]
 
 ## Overview
 
-Zinc is a [[query-how-to-identify-and-fix-cannabis-iron-deficiency]] and [[cannabis-manganese-nutrient]] and [[query-how-to-identify-and-fix-cannabis-iron-deficiency]] -- excess zinc interferes with iron's ability to function properly and causes an iron deficiency. Conversely, iron excess can compete with zinc uptake. Along with manganese and iron, zinc is one of three micronutrients that commonly become deficient together when pH rises above 6.5. Excess [[organic-fertilizer-sources-guide]] of zinc include:
+Zinc is a [[cannabis-manganese-nutrient]] and [[organic-fertilizer-sources-guide]] of zinc include:
 
 - Well-rotted manures (cow, horse, chicken)
 - Compost (variable content)
@@ -20,23 +20,7 @@ Zinc is a [[query-how-to-identify-and-fix-cannabis-iron-deficiency]] and [[canna
 - Zinc sulfate (inorganic but commonly used)
 - Rock dusts (some varieties contain zinc)
 
-Natural chelates such as [[comparison-humic-acid-vs-fulvic-acid]] and citric acid can be added to organic soil mixes to improve zinc availability. Roots and bacteria also exude natural chelates to promote the uptake of metallic elements.
-
-## Chelated Zinc
-
-A chelate (Greek for "claw") is an organic molecule that forms a claw-like bond with free electrically charged metal particles. This property keeps metal ions such as zinc, iron, and manganese soluble in water, and the chelated metal's reactions with other materials is suppressed. Roots take in the chelated metals in a stable, soluble form that is used immediately.
-
-Different chelate types work in different pH ranges:
-
-- **DTPA** -- Most effective in a pH below 6.5
-- **EDDHA** -- Effective up to a pH of 8.0
-- **EDTA** -- Chelate is slow to cause leaf burn
-
-Natural chelates such as humic acid and citric acid can be added to organic soil mixes. Roots and bacteria also exude natural chelates to promote the uptake of metallic elements. Chelates decompose rapidly in low levels of ultraviolet (UV) light, including light produced by HID bulbs and sunlight. Keep chelates out of the light to protect them from rapid decomposition.
-
-## Deficiency
-
-Zinc is the most common micronutrient found deficient. These symptoms are often confused with a lack of manganese or iron, but when [[query-how-to-fix-zinc-deficiency-in-cannabis]] is severe, new leaf blades contort and dry out.
+Natural chelates such as [[query-how-to-fix-zinc-deficiency-in-cannabis]] is severe, new leaf blades contort and dry out.
 
 ### Symptoms
 
@@ -70,9 +54,7 @@ Zinc is **extremely toxic in excess**. Severely toxic plants die quickly.
 
 ### Symptoms
 
-- Excess zinc interferes with [[cannabis-iron-nutrient]]
-- [[cannabis-phosphorus]]
-- [[cannabis-nutrient-toxicity]]
+- Excess zinc interferes with [[cannabis-phosphorus]]
 - [[cannabis-nutrient-solution-preparation]]
 ## Practical Considerations
 
@@ -122,8 +104,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[decomposition]]
 - [[query-how-to-read-cannabis-plants-for-nutrient-problems]]
-- [[cannabis-nutrient-burn-and-toxicity]]
 - [[cannabis-nutrient-toxicity]]
 - [[cannabis-manganese-nutrient]]

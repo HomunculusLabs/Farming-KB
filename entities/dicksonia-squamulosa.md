@@ -91,13 +91,8 @@ Further field surveys are needed to document the species' full distribution, pop
 
 ## See Also
 
-- [[dicksonia-antarctica]]
 - [[dicksonia-squarrosa]]
-- [[dicksonia-fibrosa]]
 - [[dicksonia-sellowiana]]
-- [[dicksonia-berteriana]]
-- dicksonia squamulosa
 - [[cyathea-cooperi]]
-- [[cibotium-barometz]]
 - [[alsophila-aspera]]
 - [[cyathea-medullaris]]

@@ -12,10 +12,7 @@ complete loss of the original mystery experience.
 
 ## The Four Stages of Abandonment
 
-McKenna proposes that the dissolution of the [[stropharia-cubensis]]-using cultures of Africa, McKenna envisions a gradual
-process: continuous low-level mushroom ingestion gave way to seasonal use, then ceremonial
-use during peak availability. As mushrooms grew rare, efforts to preserve them through
-[[psilocybin-mushroom-drying-and-storage-methods]] in honey introduced the vehicle (fermenting honey) that would eventually
+McKenna proposes that the dissolution of the [[psilocybin-mushroom-drying-and-storage-methods]] in honey introduced the vehicle (fermenting honey) that would eventually
 replace the sacrament entirely.
 
 ### Stage Two: Substitution with Inactive Materials
@@ -38,14 +35,11 @@ that preserve the form of the mystery without its substance.
 
 The final stage represents the complete abandonment of even the pretense of remembering the
 felt experience of the mystery. McKenna typifies this as "secular scientism as perfected
-in the [[coleman-louis-savier-twentieth-century-maraicher]]." He further identifies a crucial amplification of this stage:
-"the rediscovery of the mystery and its interpretation as evil and threatening to social
-values." The suppression of [[psychedelic-plants-and-civilization]] and the cultural accommodation of alcohol reflect the same pattern of
+in the [[psychedelic-plants-and-civilization]] and the cultural accommodation of alcohol reflect the same pattern of
 dominator-values enforcement that began with the abandonment of the mushroom religion
 thousands of years ago. Cannabis, as "second only to mushrooms in its promotion of the
 social values and sensory ratios that typified the original partnership societies," is
-"anathema to the [[terence-mckenna]]
-- [[entheogen-culture]]
+"anathema to the [[entheogen-culture]]
 ## Practical Considerations
 
 When working with Mckenna Profession Of mckenna profession of sacrament psilocybin cult to alcohol cult Cult To Alcohol Cult, several practical factors should be

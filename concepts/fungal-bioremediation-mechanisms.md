@@ -24,18 +24,10 @@ In natural environments, fungi rarely operate alone.
 Fungal-bacterial consortia often achieve more complete pollutant degradation than either organism type independently.
 Fungi provide the initial breakdown of complex, high-molecular-weight compounds through extracellular enzymatic oxidation, producing simpler intermediates that bacteria can then mineralize to carbon dioxide and water.
 Bacteria, in turn, can modify environmental conditions (pH, redox potential, nutrient availability) in ways that favor fungal enzymatic activity.
-The physical structure of fungal mycelium also creates microhabitats and transport networks that support [[cultivar-endorhiza-bacterial-communities-cannabis]].
-Research on [[mycoremediation]]
-- [[factors-affecting-mycoremediation-efficiency]]
+The physical structure of fungal mycelium also creates microhabitats and transport networks that support [[mycoremediation]]
 - [[fungal-bioremediation-case-studies]]
 - fungal bioremediation mechanisms
-- [[bioelectrochemical-remediation]]
-- fungal-enzyme-activity-nutrient-availability
-
-## See Also
-
 - [[bioremediation-fungal-biomass-biosorbent-material]]
-- [[bioremediation-fungal-metallothioneins-phytochelatins]]
 - [[bioremediation-fungal-vs-bacterial]]
 
 ## Biosorption and Bioaccumulation
@@ -118,8 +110,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[fungal-hyphae]]
 - [[bioremediation-strategies]]
-- [[pleurotus-ostreatus]]
 - [[laccase]]
 - [[saccharomyces-cerevisiae]]

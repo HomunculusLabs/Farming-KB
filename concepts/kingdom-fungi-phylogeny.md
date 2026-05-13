@@ -1,6 +1,6 @@
 ---
 title: Kingdom Fungi Phylogeny
-source: [[biodiversity-of-fungi-biodiversity-patterns-ecosystems]] (Mueller, Bills & Foster, 2004)
+source: biodiversity-of-fungi-biodiversity-patterns-ecosystems (Mueller, Bills & Foster, 2004)
 type: concept
 tags: [mycology, phylogeny, taxonomy, kingdom-fungi, ascomycota, basidiomycota]
 created: 2026-05-09
@@ -14,17 +14,7 @@ analyses, particularly based on ribosomal DNA (rDNA) sequences, have
 revolutionized our understanding of fungal evolutionary relationships, revealing
 a complex history that diverges significantly from traditional morphology-based
 classifications. At least 74,000 fungal species have been formally described,
-but estimates of total [[arbuscular-mycorrhizal-fungal-diversity]] range from 1.5 million to over 5
-million species — meaning we have described at most 5% of all fungal species
-on Earth.
-
-## Traditional Classification
-
-Historically, the Kingdom Fungi was classified into four phyla:
-**Chytridiomycota**, **Zygomycota**, **Basidiomycota**, and **Ascomycota**.
-This classification was based primarily on morphological characteristics such
-as the presence or absence of flagella, the type of sexual spore produced,
-and the structure of the [[bloomfield-mushroom-formation-fruiting-body-development-cultivation]]. While useful for identification, this
+but estimates of total [[bloomfield-mushroom-formation-fruiting-body-development-cultivation]]. While useful for identification, this
 system did not accurately reflect evolutionary relationships.
 
 ## Molecular Phylogenetics and the Crown Fungi
@@ -47,14 +37,7 @@ four-phylum system is phylogenetically inaccurate. The key findings include:
 The concept of **crown fungi** is significant because the origin of this
 clade appears to coincide with the origin and diversification of land plants,
 suggesting a co-evolutionary relationship. An estimated 80% of all plant
-species are associated with Glomales ([[arbuscular-mycorrhizal-colonization-patterns]] fungi), and
-the Ascomycota and Basidiomycota today predominate in terrestrial
-environments.
-
-## Phylum Chytridiomycota (Zoosporic Fungi)
-
-The Chytridiomycota is defined by the presence of flagellated cells
-(zoospores or gametes) at some stage in their [[agaricus-campestris-biology-and-life-cycle]] — a plesiomorphic
+species are associated with Glomales ([[agaricus-campestris-biology-and-life-cycle]] — a plesiomorphic
 (ancestral) trait. The presence of flagella links fungi to their aquatic
 ancestors and represents the ancestral condition from which the terrestrial
 fungi evolved through loss of the flagellated stage.
@@ -64,19 +47,7 @@ Blastocladiales, Monoblepharidales, Neocallimastigales, Spizellomycetales,
 and Chytridiales. Molecular analyses support these as generally valid clades,
 though their interrelationships remain poorly resolved.
 
-One notable chytrid is *[[batrachochytrium-dendrobatidis]]*, associated with
-global amphibian declines. This species does not fall within any of the
-established chytrid groups based on DNA characters, highlighting how much
-chytrid diversity remains to be discovered.
-
-## Phylum Zygomycota
-
-Zygomycota, with more than 1,000 described species, is defined by the
-production of zygospores (meiospores) and the absence of flagella. Modern
-analyses show the group is polyphyletic. Several lineages are recognized as
-monophyletic:
-
-- **Entomophthorales**: [[bloomfield-fungal-pathogens-and-parasites]] of insects
+One notable chytrid is *[[bloomfield-fungal-pathogens-and-parasites]] of insects
 - **Harpellales and Kickxellales**: Sister taxa sharing plugged, flared
   septal pores; found in arthropod guts
 - **Mucorales**: The largest order; includes common molds like *Rhizopus*
@@ -118,8 +89,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[zoosporic-fungi]]
 - [[dom]]
-- [[soma]]
 - [[spore]]
 - [[ascomycota]]

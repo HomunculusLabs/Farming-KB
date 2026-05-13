@@ -10,25 +10,13 @@ sources: [/Users/t3rpz/wiki/raw/papers/gartz-growth-promoting-effect-of-brassino
 
 # Homobrassinolide
 
-Homobrassinolide, specifically the 22S,23S-epimer, is a synthetic [[stigmasterol]] by Adam and Marquardt (1986) and has been investigated as both a plant-growth regulator and, notably, as a fungal growth enhancer.
-
-## Chemical Structure and Properties
-
-22S,23S-Homobrassinolide is a C₂₉ steroid lactone with a characteristic brassinolide skeleton: a 2α,3α,22α,23α-tetrahydroxy-B-ring-oxa-lactone structure. The "homo" designation refers to the presence of an additional methylene group compared to the parent compound brassinolide, extending the side chain. This structural modification can influence [[tihkal-receptor-binding-serotonin]] affinity and biological activity relative to brassinolide itself. The stereochemistry at positions 22 and 23 is critical for biological activity: the 22S,23S configuration used in the Gartz et al. study is the naturally occurring enantiomer found in active brassinosteroids, while the 22R,23R enantiomer shows significantly reduced activity.
+Homobrassinolide, specifically the 22S,23S-epimer, is a synthetic [[tihkal-receptor-binding-serotonin]] affinity and biological activity relative to brassinolide itself. The stereochemistry at positions 22 and 23 is critical for biological activity: the 22S,23S configuration used in the Gartz et al. study is the naturally occurring enantiomer found in active brassinosteroids, while the 22R,23R enantiomer shows significantly reduced activity.
 
 The compound is poorly soluble in water but soluble in organic solvents such as ethanol, methanol, and dimethyl sulfoxide. Application in biological studies is typically performed at extremely low concentrations (parts per billion to parts per million range). The molecular weight of 22S,23S-homobrassinolide is 480.7 g/mol, and it has the molecular formula C₂₉H₄₈O₆. The lactone ring between C-6 and C-7 is essential for biological activity, as hydrogenation or opening of this ring abolishes brassinosteroid-like effects.
 
 ## Synthesis
 
-Homobrassinolide is synthesized from [[brassinosteroids-psilocybin-fruiting]], homobrassinolide functions as a phytohormone, promoting:
-
-- **Cell elongation and division**: Primary mechanism involves regulation of gene expression through the BRI1 receptor kinase pathway.
-- **Stress tolerance**: Application has been shown to improve plant resistance to drought, temperature extremes, and pathogen attack.
-- **Yield enhancement**: Field applications have demonstrated increased crop yields across various species.
-
-## Activity in Fungi
-
-The first documented study of brassinosteroid effects on fungi was conducted by Gartz, Adam, and Vorbrodt (1990) using 22S,23S-homobrassinolide on [[stigmasterol]] rather than campesterol. This structural difference influences receptor binding affinity and may account for the particularly strong effects observed in fungal systems. In plant systems, both compounds show high activity, but brassinolide is generally considered the most potent natural brassinosteroid. The fact that homobrassinolide showed such dramatic effects on fungal growth at extremely low concentrations (10⁻² ppm, or approximately 0.017 nanomolar) suggests that fungal cells may possess receptors or signaling pathways that are highly sensitive to brassinosteroid compounds, even if these pathways differ from the well-characterized BRI1 system in plants.
+Homobrassinolide is synthesized from [[stigmasterol]] rather than campesterol. This structural difference influences receptor binding affinity and may account for the particularly strong effects observed in fungal systems. In plant systems, both compounds show high activity, but brassinolide is generally considered the most potent natural brassinosteroid. The fact that homobrassinolide showed such dramatic effects on fungal growth at extremely low concentrations (10⁻² ppm, or approximately 0.017 nanomolar) suggests that fungal cells may possess receptors or signaling pathways that are highly sensitive to brassinosteroid compounds, even if these pathways differ from the well-characterized BRI1 system in plants.
 
 ## Stability and Storage
 
@@ -36,38 +24,9 @@ The first documented study of brassinosteroid effects on fungi was conducted by 
 
 ## Research Gaps and Future Directions
 
-Several important questions about homobrassinolide and brassinosteroid effects on fungi remain unanswered. The identity of the fungal receptor(s) for brassinosteroids has not been determined, nor is it known whether fungi produce endogenous brassinosteroid-like compounds. The dose-response relationship for fungal growth promotion has not been fully characterized beyond the single concentration tested by Gartz et al. The effects of brassinosteroids on other cultivated mushroom species (edible and medicinal) have not been systematically investigated, despite the potential agricultural applications. The morphogenetic effects on [[brassinosteroid-suppressed-annulus-formation-psilocybe-cubensis]] deserve further study, as they may reveal fundamental aspects of fungal developmental biology that are regulated by steroidal signaling molecules.
-
-## Dose-Response and Experimental Conditions
-
-The Gartz et al. (1990) study tested a single concentration of 22S,23S-homobrassinolide (10⁻² ppm, or approximately 0.017 nanomolar) applied to the growth substrate before inoculation with [[psilocybin]] and [[psilocybe-cubensis]] suggests potential applications in the commercial cultivation of edible and medicinal mushroom species. Species such as *[[genetic-improvement-agaricus-bisporus-molecular-approaches]]* (button mushroom), *Pleurotus ostreatus* (oyster mushroom), *Lentinula edodes* (shiitake), and *[[stamets-reishi-ganoderma-lucidum-cultivation]]* (reishi) might similarly benefit from brassinosteroid treatment, with implications for commercial mushroom production efficiency and profitability. However, the high cost of synthetic brassinosteroids, the lack of regulatory approval for their use in food production, and the absence of published studies on edible mushroom species have prevented any practical commercial application. The development of more economical brassinosteroid production methods (such as microbial fermentation or plant extraction) could eventually make this approach more feasible for agricultural use.
-## Historical Context of the Gartz Study
-
-The 1990 publication by Gartz, Adam, and Vorbrodt was remarkable for its interdisciplinary nature, combining expertise in mycology (Gartz), brassinosteroid chemistry (Adam), and plant physiology (Vorbrodt). The study emerged from Adam's broader program of brassinosteroid research in East Germany, where brassinosteroids were being investigated as potential agricultural growth promoters. The application of these plant-growth regulators to fungal systems was a novel and prescient idea that anticipated later interest in the role of steroidal compounds in fungal biology. The study was published in the journal *Biologia Plantarum* and has been cited primarily in the brassinosteroid literature rather than the mycological literature, reflecting its interdisciplinary position.
-## See Also
-
-- [[stigmasterol]]
-- [[jochen-gartz]]
-- [[aeruginascin]] — another non-tryptamine [[magic-mushroom-constituent-chemistry]] with biological activity
-- [[baeocystin]] — secondary alkaloid whose levels were also measured in the Gartz brassinosteroid study
-- [[tryptamine]] — precursor supplemented in related fungal biosynthesis studies
-## Practical Considerations
-
-When working with Homobrassinolide, several practical factors should be
-carefully considered to achieve optimal results. These include
-the specific conditions of the implementation context, available
-resources, timing requirements, and the interactions between this
-topic and other elements of the broader system. A holistic view
-that considers these interconnections produces better outcomes.
-
-Environmental conditions such as temperature, moisture, and
-seasonal patterns significantly influence results. Monitoring these
-variables and adapting practices accordingly is essential for success.
-The most effective practitioners develop keen observation skills and
-respond flexibly to changing conditions rather than following rigid
-protocols regardless of circumstances or local variation.
-
-[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
+Several important questions about homobrassinolide and brassinosteroid effects on fungi remain unanswered. The identity of the fungal receptor(s) for brassinosteroids has not been determined, nor is it known whether fungi produce endogenous brassinosteroid-like compounds. The dose-response relationship for fungal growth promotion has not been fully characterized beyond the single concentration tested by Gartz et al. The effects of brassinosteroids on other cultivated mushroom species (edible and medicinal) have not been systematically investigated, despite the potential agricultural applications. The morphogenetic effects on [[psilocybin]] and [[genetic-improvement-agaricus-bisporus-molecular-approaches]]* (button mushroom), *Pleurotus ostreatus* (oyster mushroom), *Lentinula edodes* (shiitake), and *[[stigmasterol]]
+- [[aeruginascin]] — another non-tryptamine [[baeocystin]] — secondary alkaloid whose levels were also measured in the Gartz brassinosteroid study
+- [[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -88,3 +47,87 @@ than assuming perfect predictability or control over outcomes.
 
 Documentation and record-keeping support continuous improvement by
 creating a reference base of observations, interventions, and results.
+
+## Overview
+
+Homobrassinolide represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish homobrassinolide
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving homobrassinolide extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Homobrassinolide finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for homobrassinolide. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+homobrassinolide and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Homobrassinolide has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of homobrassinolide into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[22s-23s-homobrassinolide]]
+- [[22s-23s-homobrassinolide-chemistry-and-synthesis]]
+- [[brassinosteroid-homobrassinolide-chemistry-synthesis]]
+- [[gartz-homobrassinolide-structure-stigmasterol-biosynthesis-fungal-systems]]

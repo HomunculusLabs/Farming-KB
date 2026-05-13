@@ -8,41 +8,7 @@ type: concept
 
 ## Fundamental Principles
 
-Two basic thermodynamic processes govern the [[temperature-effects-of-trees]]:
-
-- **Evaporation** causes heat loss locally
-- **Condensation** causes heat gain locally
-
-Both effects can be strategically employed to heat or cool air or surfaces in designed landscapes. Trees act as passive climate modifiers, buffering temperature extremes through their biological processes.
-
-## Evapotranspiration and Cooling
-
-The USDA Yearbook of Agriculture on Trees (1949) documented the remarkable cooling capacity of trees:
-
-> "An ordinary elm, of medium size, will get rid of 15,000 pounds of water on a clear dry hot day."
-
-Evapotranspiration accounts for a minimum of **15 inches per year** in a 40-inch rainfall zone. During the day, this evaporation from leaf surfaces cools the surrounding air. Key mechanisms include:
-
-- **Stomatal evaporation**: Leaf pores release water vapour during daylight hours, creating a cooling effect
-- **Contact cooling**: Air rising over trees experiences vertical lift cooling
-- **High specific heat of leaves**: At 86% water content, leaves have approximately twice the specific heat of soil, remaining cooler than soil by day and warmer at night
-- **Thermal buffering**: Plants may be approximately 15°C warmer than the surrounding air temperature at night
-
-### Strategic Cooling Placement
-
-Small open water storages or tree clumps placed **upwind of a house** create a pleasant moderating effect:
-
-- **In summer**: Air passing over open water is cooled before reaching the building
-- **In winter**: Air is warmed and has moisture added
-- **In hot humid tropics**: Only water captured by trees has a dehumidifying effect, as trees are capable of reducing humidity by direct absorption except in the most extreme conditions
-
-## Leaf Colour and Temperature Regulation
-
-Different leaf pigments dramatically affect the thermal environment:
-
-### Reddish-Coloured Leaves
-
-Leaves developed in some vines and shrubs reflect chiefly red light rays. Sharp temperature decreases of up to **20°C (36°F)** can result from interposing reddish foliage between a thermometer and the sun, compared with green-pigmented plants ([[daubenmire]], 1974).
+Two basic thermodynamic processes govern the [[daubenmire]], 1974).
 
 ### White and Light-Coloured Leaves
 
@@ -116,6 +82,5 @@ However, if rain has fallen due to streamline compression, the latent heat of ev
 Trees provide a remarkable suite of temperature modification services through evaporation, condensation, shading, radiation reflection, and wind modification. These effects are not merely passive byproducts of tree biology — they can be deliberately designed into landscapes to create comfortable microclimates for human habitation, reduce energy costs for heating and cooling, and extend growing seasons for crops. The key principle is that **each tree species, leaf colour, canopy density, and placement position** contributes to specific thermal outcomes that can be matched to design objectives.
 
 ## See Also
-- [[tree-temperature-effects-and-evapotranspiration]]
 - [[tree-temperature-effects]]
 - [[tree-effects-on-precipitation]]

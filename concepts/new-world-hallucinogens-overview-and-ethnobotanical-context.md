@@ -104,15 +104,13 @@ The New World — North, Central, and South America and the West Indies — harb
 - **Fabaceae:** Anadenanthera (yopo/vilca), Mimosa (jurema) — tryptamines (DMT, 5-MeO-DMT)
 - **Malpighiaceae:** Banisteriopsis (ayahuasca) — β-carboline alkaloids (harmine, harmaline) + tryptamines from additives
 - **Rubiaceae:** Psychotria — DMT-containing additive for ayahuasca
-- **Convolvulaceae:** Morning glories (Rivea, Ipomoea) — ergoline alkaloids (lysergic acid amide / LSA)
+- **Convolvulaceae:** Morning glories (Rivea, Ipomoea) — ergoline alkaloids ([[lysergic-acid-amide]] / LSA)
 - **Lamiaceae:** Salvia divinorum — salvinorin A (diterpene, unique κ-opioid receptor agonist pharmacology)
 - **Asteraceae:** Calea zacatechichi — oneirogenic (dream-enhancing) properties
 - **Euphorbiaceae:** Various species used as additives in South American preparations
 
 ## See Also
 
-- [[hallucinogenic-plants-in-primitive-societies]]
 - [[golden-guide-hallucinogenic-plants-overview]]
-- [[old-world-hallucinogenic-plants-overview]]
 - [[solanaceous-hallucinogens-of-medieval-european-witchcraft]]
 - [[golden-guide-syrian-rue-and-maoi-plants]]

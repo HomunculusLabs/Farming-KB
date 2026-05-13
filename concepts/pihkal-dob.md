@@ -13,21 +13,10 @@ type: concept
 ## Overview
 
 DOB (4-bromo-2,5-dimethoxyamphetamine) is one of the most potent and
-longest-acting [[psychedelic-compounds-reference]] in Shulgin's PIHKAL. Listed as compound
-#11, DOB is the alpha-methylated analogue of 2C-B and a member of the DO
-(dimethoxyamphetamine) family. With active doses in the low single
-milligrams and effects lasting up to 30 hours, DOB represents one of the
-most extreme examples of potency and duration among [[psychedelic-substances-comparison]].
+longest-acting [[psychedelic-substances-comparison]].
 
 Its extraordinary profile has made DOB both a valuable pharmacological
-research tool and a significant [[adverse-effects-and-harm-reduction-psilocybin]] concern. Small measurement
-errors can lead to dangerous overdoses, and the extreme duration demands a
-full day and a half commitment. These characteristics have led to DOB being
-described as a "heroic" compound requiring the highest level of preparation.
-
-Despite its challenges, DOB has been important in pharmacological research,
-particularly in studying 5-HT2A receptor function. Its potency and
-selectivity have made it a valuable reference compound in [[tihkal-receptor-binding-serotonin]]
+research tool and a significant [[tihkal-receptor-binding-serotonin]]
 assays.
 
 ## Chemical Structure and Classification
@@ -87,3 +76,75 @@ binding. He also noted its value as a pharmacological research tool for
 studying 5-HT2A receptor mechanisms.
 
 ## Pharmacology
+
+## Overview
+
+Pihkal Dob represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish pihkal dob
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving pihkal extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Pihkal Dob finds practical application in multiple design contexts.
+[[permaculture-principles]] guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for pihkal dob. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+pihkal dob and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Pihkal Dob has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of pihkal dob into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions

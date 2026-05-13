@@ -8,8 +8,7 @@ tags:
   - perennial
   - invasive
   - bioenergy
-  - [[phytoremediation]]
-  - [[permaculture]]
+  - permaculture
   - erosion-control
   - biomass
   - construction
@@ -29,26 +28,7 @@ sources:
 
 ## Overview
 
-Arundo donax, commonly known as giant reed, is a tall [[savory-perennial-grass-and-desertification]] in the
-Poaceae family native to the Mediterranean Basin and parts of Asia. Growing
-3–10 meters in height with hollow stems 2–3 cm in diameter, it is one of the
-largest grasses in the world. Historically cultivated for musical instruments,
-construction, and basketry, it has gained modern interest as a bioenergy crop
-and phytoremediation tool. However, its aggressive rhizomatous growth has made
-it one of the world's most problematic invasive species in riparian zones,
-particularly in the Americas, Australia, and South Africa.
-
-## Taxonomy
-
-- **Kingdom:** Plantae → **Division:** Angiosperms → **Class:** Monocots
-- **Order:** Poales → **Family:** Poaceae → **Subfamily:** Arundinoideae
-- **Genus:** *Arundo* → **Species:** *A. donax*
-- The genus *Arundo* contains only 2–3 species; *A. donax* is the most widely
-  distributed and economically significant.
-- Genetic evidence suggests the cultivated form is a sterile polyploid clone
-  (2n = 110–112), reproducing almost exclusively vegetatively through rhizome
-  fragmentation and stem cuttings.
-- No viable [[cannabis-controlled-pollination-seed-production]] has been documented in the field, meaning every
+Arundo donax, commonly known as giant reed, is a tall [[cannabis-controlled-pollination-seed-production]] has been documented in the field, meaning every
   wild population is a clone derived from human introduction.
 
 ## Morphology
@@ -73,8 +53,7 @@ particularly in the Americas, Australia, and South Africa.
 ## Distribution and Habitat
 
 - **Native range:** Eastern Mediterranean, Middle East, and South Asia.
-- **Introduced/invasive:** Widely naturalized in [[psilocybin-north-america-pacific-northwest]] (California,
-  Texas, southeastern US), Central and [[guzman-psilocybin-mushrooms-south-america]], Australia, South Africa,
+- **Introduced/invasive:** Widely naturalized in [[guzman-psilocybin-mushrooms-south-america]], Australia, South Africa,
   and [[guzman-allen-gartz-neurotropic-fungi-hawaii-pacific-islands]].
 - Grows in riparian zones, floodplains, wetlands, and disturbed areas;
   tolerates saline (up to 20 dS/m), alkaline, and waterlogged soils.
@@ -88,3 +67,80 @@ particularly in the Americas, Australia, and South Africa.
 - **Bioenergy:** High biomass productivity (20–40 tonnes dry matter/ha/year)
   makes it a leading candidate for cellulosic ethanol, biogas, and pellet
   production; requires low nitrogen input (30–60 kg N/ha).
+
+## Overview
+
+Arundo Donax represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish arundo donax
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving arundo extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Arundo Donax finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for arundo donax. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+arundo donax and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Arundo Donax has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of arundo donax into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.

@@ -13,7 +13,7 @@ sources:
 
 updated: 2026-04-18
 
-Korean [[comparison-natural-farming-vs-permaculture]] (KNF) applies the same principles of [[fukuoka-microbial-ecology-decomposition]] and natural systems to poultry housing as it does to crop production. The NF chicken housing is designed so that there is no bad smell, no emission, no cleaning needed, and no disease. The houses are constructed to suit the habits, instincts, and behaviors of chickens, respecting them as living beings rather than mere production units.
+Korean [[fukuoka-microbial-ecology-decomposition]] and natural systems to poultry housing as it does to crop production. The NF chicken housing is designed so that there is no bad smell, no emission, no cleaning needed, and no disease. The houses are constructed to suit the habits, instincts, and behaviors of chickens, respecting them as living beings rather than mere production units.
 
 ## Three Core Principles of NF Poultry Housing
 
@@ -21,55 +21,11 @@ Korean [[comparison-natural-farming-vs-permaculture]] (KNF) applies the same pri
 
 2. **Temperature should not be artificially controlled.** Heat from fermenting compost will suffice, even for small chicks, eliminating the need for heating machines. Chicks develop short, dense hair and disease resistance when exposed more often to cold. Under artificial heating, they grow long hair and weak resistance.
 
-3. **Feed for hatchlings should consist of whole [[cho-brown-rice-vinegar-preparation]] grains and bamboo leaves** to strengthen the intestines. Giving soft and over-nutritious feed prevents chicks from developing strong digestive organs.
-
-## Roof Design
-
-The roof is made of galvanized zinc sheets with several key features:
-
-- A **skylight** allows sunlight to illuminate approximately one-third of the floor throughout the day
-- As the sun moves, it shines on different parts of the floor, enabling the whole floor to receive some sun and get naturally disinfected over the course of a day
-- The greater proportion of shade to sun enables the growth of microorganisms on the floor
-- The metal roof conducts heat, but this is managed by the wall design
-
-## Wall Design
-
-Walls are made of steel wire mesh, which provides critical functions:
-
-- Disperses the heat conducted by the metal roof
-- Allows continuous passage of warm air and cool air into the interior, taking away moisture from the floor and controlling dampness
-- The walls have **curtains** to regulate airflow in different weather conditions
-- The air convection allowed by the open walls provides an ideal moisture level for microorganisms to grow on the floor
-
-## Floor System
-
-The flooring is the heart of the KNF chicken house system:
-
-- Must be **soil-based**, not concrete
-- Carpeted with **[[fukuoka-rice-straw-mulch-central-technique]] chopped to 3 cm long**
+3. **Feed for hatchlings should consist of whole [[fukuoka-rice-straw-mulch-central-technique]] chopped to 3 cm long**
 - General flour (bedding) thickness is **7 cm**; for broilers, **3 cm** thickness
-- [[knf-poultry-natural-farming]]
 - [[knf-poultry-feed-preparation]]
-- [[knf-livestock-chicken-house-natural-farming]]
 - [[plant-micronutrients-and-their-essential-functions]]
-- [[farming-with-air-water-and-sunlight]]
-## Practical Considerations
-
-When working with KNF Chicken House Design, several practical factors should be
-carefully considered to achieve optimal results. These include
-the specific conditions of the implementation context, available
-resources, timing requirements, and the interactions between this
-topic and other elements of the broader system. A holistic view
-that considers these interconnections produces better outcomes.
-
-Environmental conditions such as temperature, moisture, and
-seasonal patterns significantly influence results. Monitoring these
-variables and adapting practices accordingly is essential for success.
-The most effective practitioners develop keen observation skills and
-respond flexibly to changing conditions rather than following rigid
-protocols regardless of circumstances or local variation.
-
-[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
+- [[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -110,8 +66,85 @@ through generations to modern scientific approaches, the evolution continues
 to inform current best practices and research directions.
 
 ## See Also
-- [[permaculture]]
 - [[decomposition]]
-- [[knf-livestock-chicken-house-natural-farming]]
 - [[query-how-to-design-a-chicken-tractor-system]]
 - [[permaculture-zone-0-house-design]]
+
+## Overview
+
+Knf Chicken House Design represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish knf chicken house design
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving knf extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Knf Chicken House Design finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for knf chicken house design. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+knf chicken house design and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Knf Chicken House Design has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of knf chicken house design into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also

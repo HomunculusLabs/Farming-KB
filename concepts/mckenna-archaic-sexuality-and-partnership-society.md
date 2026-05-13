@@ -15,54 +15,12 @@ sources: [mckenna_t-food_of_the_gods.md]
 ---
 # Archaic Sexuality and the Partnership Society
 In *Food of the Gods*, Terence McKenna develops a detailed contrast between the sexual politics of the archaic partnership society and the dominator society that replaced it.
-Drawing on ethnographic evidence from the Bwiti cults of West Africa, archaeological evidence from Neolithic goddess cultures, and the theoretical frameworks of Riane Eisler and Jean Baker Miller, McKenna argues that the shift from partnership to dominator models fundamentally transformed human sexuality, [[md-family-structure-activity]], and the relationship between the sexes.
-## The Partnership Model of Sexuality
-An open and nonproprietary approach to sexuality is fundamental to the partnership model.
-This tendency was synergized and strengthened by the orgiastic behavior that was certainly a part of the African Goddess and mushroom religion.
-Group sexual activity within a small tribe of hunter-gatherers and group experiences with hallucinogens acted to dissolve boundaries and differences between people and to promote the open and unstructured sexuality that is naturally a part of nomadic tribalism.
-McKenna is careful to note that this does not imply that contemporary mushroom rituals are "orgies," distancing his analysis from sensationalist interpretations.
-The partnership model does not simply replace patriarchy with matriarchy; such concepts are too limited and gender bound.
-The real difference is between a society based on partnership and roles appropriate to age, size, and level of skill and a society in which a dominance hierarchy is maintained at the expense of the full expression of the individuals within the group.
-In the partnership situation, the lack of concepts based on property and ego inflation made jealousy and possessiveness less of a problem.
-Ultimate power in such societies was the power to create and sustain life and so was naturally imaged as female, the power of the great Goddess.
-This is not to imply that the life of the nomadic pastoralist was free of anxiety. Doubtless jealousy and possessiveness persisted as vestiges of hierarchical organization in the social forms of protohominids.
-Observation of modern primates and their violently enforced hierarchical structure suggests that protohominid societies that were premushroom may well have been dominator in style.
-We may have experienced no more than a brief abandonment of the dominator style, a brief tendency toward a true dynamic and conscious equilibrium with nature, at variance with our primate past and too soon crushed beneath the chariot wheels of historical process.
-## Ibogaine Among the Fang: A Case Study
-The Bwiti cults of West Africa offer McKenna an instructive example of how hallucinogenic plant use shapes sexual and social dynamics.
-Use of ibogaine, the indole hallucinogen from Tabemanthe iboga, provides not only visionary ecstasy but also what its users call "open heartedness," a caring awareness of others.
-This quality is widely believed to explain the internal cohesiveness of Fang society and the ability of Bwitists among the Fang to resist commercial and missionary incursions into their cultural integrity.
-McKenna quotes a Fang informant describing the Bwiti conception of "one heartedness" as qualitatively different from the Christian version offered by missionaries.
-While "one heartedness" is celebrated in Bwiti, it is a one heartedness which is coagulated out of a flow of many qualities from one state to another. It is goodness achieved in the presence of badness, an aboveness achieved in the presence of belowness. It is an emergent quality energized in the presence of its opposite.
-Early missionaries evangelized with the promise of "one heartedness" in Christianity, but Fang by and large did not find it there. For many, Christian one heartedness was a constriction of their selves.
-Paradoxically, ibogaine is widely recognized both as a factor holding married couples together in the face of Fang institutions like easy divorce and as an aphrodisiac.
-It may be one of the few plants of the many dozens claimed to be aphrodisiacs that actually performs as advertised. Most other candidates are in fact merely stimulants that can cause a generalized arousal and sustained erection.
-Ibogaine seems actually to change, deepen, and enhance the psychological mechanisms that lie behind sexual drive; one experiences a simultaneous sense of detachment and involvement that is empowering.
-Yet in situations where sexual activity is neither sanctioned nor appropriate, ibogaine does not cause, or even raise the possibility of, sexual behavior. Here is another example of research only waiting for social attitudes to change in order to be done.
-## Contrasts in Sexual Politics
-Several important contrasts emerge from McKenna's comparison of the ego-based dominator society and the nonrigid, psychologically unbounded partnership society.
-In the dominator model, men tend to choose sexual partners who are young, healthy, and capable of bearing many children. And the strategy of women within a dominator society is often to bond with an older man who, by being in control of group resources, could ensure that a woman's worth won't be devalued as she becomes older.
-In the ideal partnership society, older men may have sexual relations with younger women, but without threatening the bonds that have been formed with older women; however, women are not driven to seek reproductive security under the protection of older men.
-This situation arose because power did not lie exclusively with aging and powerful males. Rather, power was distributed between men and women and through all age groups.
-Family organization in the partnership model is not rigid and hierarchical. Children are raised by an extended family of cousins and siblings, aunts and uncles, and former and current sexual partners of their parents.
-In such a milieu, a child has many different relationships and a variety of role models. Group values are not usually at odds with that of the individual. Adolescent sexual experimentation is expected and encouraged.
-Couples may bond for any number of reasons related to themselves and the welfare of the group; such bonding may be but is not necessarily lifelong. Sexuality is rarely taboo in such societies, only becoming so as a result of contact with dominator values.
-## The Dominator Suppression of Sexuality
-For easily discerned reasons, the dominator societies that arose to replace partnership societies were far less eager to suppress group sexual activities than they were to suppress the [[emcdda-hallucinogenic-mushroom-amanita-muscaria-emerging-alternative]] religion.
+Drawing on ethnographic evidence from the Bwiti cults of West Africa, archaeological evidence from Neolithic goddess cultures, and the theoretical frameworks of Riane Eisler and Jean Baker Miller, McKenna argues that the shift from partnership to dominator models fundamentally transformed human sexuality, [[emcdda-hallucinogenic-mushroom-amanita-muscaria-emerging-alternative]] religion.
 Group sexual activity without the dissolution of the dominator ego would help the most ego-obsessed males gain power and rise in the social hierarchy. Since domination of others ultimately includes sexual domination as well, this would explain the persistence of orgies and group sexual activities in many of the mystery religions, at the festivals of Dionysus and the Roman Saturnalia.
 Eventually, however, the dominator anxiety about the establishing of clear lines of male paternity outweighed all other considerations. Then ego domination finally achieved complete preeminence.
 Through Christianity's ruthless extermination of all heterodoxy, orgies were recognized and suppressed as the subversive, boundary-dissolving activities that they are.
 The generally hostile attitude of dominator society toward sexual expression can be traced to the terror that the dominator ego feels in any situation in which boundaries are dissolved, even the most pleasurable and natural of situations.
-The French notion of orgasm as petit mort perfectly encapsulates the fear and fascination that boundary-dissolving orgasm holds for [[partnership-and-dominator-cultures-in-human-history]].
-Since the abandonment of our sojourn with mushroom use in the African Eden, we have only become progressively more bestial in our treatment of one another.
-## Power and Powerlessness
-McKenna draws on Jean Baker Miller's insight that the so-called need to control and dominate others is psychologically a function, not of a feeling of power, but of a feeling of powerlessness.
-Distinguishing between "power for oneself and power over others," Miller writes: "In a basic sense, the greater the development of each individual the more able, more effective, and less needy of limiting or restricting others she or he will be."
-In the partnership model, power was distributed between men and women and through all age groups. These powerful plants that change our relationship to our sexuality, and our view of self and world, are the special province of peoples whom we are accustomed to thinking of as primitive.
-This is but one more indication of the extent to which unconsciously imbibed dominator attitudes have robbed us of participation in the wider and richer world of eros and the spirit.
-The natural psychedelic compounds acted as feminizing agents that tempered and civilized the egocentric values of the solitary hunter with the feminine concerns for child-rearing and group survival.
-The suppression of the mushroom religion was therefore simultaneously the suppression of a sexual politics based on openness, equality, and community.
-See also: [[mckenna-fall-of-partnership-society]], [[mckenna-dioscorea-population-reproduction-effects]], [[mckenna-dominator-vs-partnership-society-model]], [[mckenna-food-gods-ibogaine-bwiti-fang]], [[mckenna-agriculture-and-the-fall-from-paradise]]
+The French notion of orgasm as petit mort perfectly encapsulates the fear and fascination that boundary-dissolving orgasm holds for [[mckenna-fall-of-partnership-society]], [[mckenna-dominator-vs-partnership-society-model]], [[mckenna-agriculture-and-the-fall-from-paradise]]
 ## Practical Considerations
 
 Successful implementation of Mckenna Archaic mckenna archaic sexuality and partnership society Society requires attention to
@@ -81,3 +39,88 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
+
+## Overview
+
+Mckenna Archaic Sexuality And Partnership Society represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish mckenna archaic sexuality and partnership society
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving mckenna extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Mckenna Archaic Sexuality And Partnership Society finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for mckenna archaic sexuality and partnership society. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+mckenna archaic sexuality and partnership society and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Mckenna Archaic Sexuality And Partnership Society has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of mckenna archaic sexuality and partnership society into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[mckenna-baconian-exploration-tryptamine-research-methodology]]
+- [[mckenna-drugs-governments-and-intelligence-agencies]]
+- [[mckenna-fall-of-partnership-society]]
+- [[mckenna-translinguistic-matter-and-exteriorized-soul]]
+- [[mckenna-translinguistic-objects-hyperdimensional-language]]

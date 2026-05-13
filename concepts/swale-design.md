@@ -16,11 +16,7 @@ Swale design is the planning and construction of level or near-level channels bu
 
 A swale is a dead-level hollow built on contour, although the base need not be perfectly level, which creates temporary pools during and after rainfall. Swales are ripped, gravelled, sanded, or planted at the base to assist rapid water infiltration. They differ from drains in that their purpose is to hold and infiltrate water, not to carry it away. A drain removes water; a swale keeps it on the land.
 
-The primary functions of swales include intercepting surface runoff before it gains erosive velocity, spreading water across the landscape rather than concentrating it, allowing time for water to infiltrate into the soil profile, recharging groundwater aquifers, creating moist planting zones for tree establishment, and reducing the need for irrigation in [[mollison-tree-crop-systems-permaculture]].
-
-## Swale Components
-
-A complete swale system consists of several components. The berm is the mound of earth on the downslope side, formed from the excavated material. The swale ditch is the level channel on the upslope side. The spillway is a level section of the berm that allows excess water to flow safely to the next swale below. The planting zone includes the berm, swale bottom, and adjacent areas planted to trees, shrubs, and [[permaculture-plants-food-forest-ground-covers-bamboos]].
+The primary functions of swales include intercepting surface runoff before it gains erosive velocity, spreading water across the landscape rather than concentrating it, allowing time for water to infiltrate into the soil profile, recharging groundwater aquifers, creating moist planting zones for tree establishment, and reducing the need for irrigation in [[permaculture-plants-food-forest-ground-covers-bamboos]].
 
 Swale dimensions vary with site conditions and purpose. For broadacre applications, swales are typically 1-2 metres deep and 2-4 metres wide at the base. For home gardens, smaller swales of 30-60 cm depth and 60-100 cm width are appropriate. The berm height equals the excavation depth, creating a total height difference of 1.5-3 metres from swale bottom to berm top for broadacre swales.
 
@@ -38,17 +34,7 @@ Soil type affects swale design. On sandy, well-drained soils, water infiltrates 
 
 ## Construction Methods
 
-Swale construction begins with marking the [[comparison-swale-vs-contour-line-water-management]] using stakes and string or spray paint. The topsoil is stripped and set aside. Excavation follows the marked contour, with the excavated material placed on the downslope side to form the berm. On small scales, this can be done by hand with shovels and mattocks. On larger scales, bulldozers, excavators, or chisel plows are used.
-
-The base of the swale should be loosened by ripping to break compaction and increase infiltration. In rocky or hard soils, a ripping tyne behind a tractor can shatter the subsoil to a depth of 30-60 cm below the swale base. The ripped swale bottom is then backfilled with loose soil, sand, or gravel to maintain infiltration capacity.
-
-Spillways are critical safety features. Every swale must have a level spillway at a lower point in the berm to allow excess water to escape safely during extreme rainfall events. Without spillways, water can overtop the berm at the highest point, creating a concentrated flow that erodes the berm and causes damage downslope.
-
-## Planting Swales
-
-The berm is the primary planting zone for trees and shrubs. The moist conditions created by the swale allow tree establishment without irrigation in many climates. The swale bottom and lower berm are planted to deep-rooted trees, while the upper berm is planted to smaller trees and shrubs. Ground covers on the berm prevent erosion and suppress weeds.
-
-Nitrogen-fixing trees and shrubs are valuable in swale plantings, as they add fertility to the system. Leguminous species such as Acacia, Albizia, Leucaena, and Tagasaste provide nitrogen, mulch material, and [[cervantes-wind-protection-outdoor-cannabis]]. Fruit trees, timber trees, and fodder trees can be interplanted with the nitrogen fixers.
+Swale construction begins with marking the [[cervantes-wind-protection-outdoor-cannabis]]. Fruit trees, timber trees, and fodder trees can be interplanted with the nitrogen fixers.
 
 The swale bottom can be planted to water-loving species such as willow, bamboo, or useful grasses. In dry climates, the swale bottom may be left bare or planted to sparse grasses to maximise water infiltration. In humid climates, the swale bottom can support a dense planting of useful plants.
 
@@ -66,13 +52,7 @@ Swales in humid climates can be designed as part of integrated aquaculture syste
 
 ## Swales and Keyline Design
 
-Swale design relates to keyline [[holmgren-permaculture-twelve-design-principles-framework]] developed by P.A. Yeomans. The keyline is a contour line identified at the point where the hill slope changes from convex to concave, typically at the upper edge of the valley floor. Keyline cultivation parallel to this contour spreads water from the wetter valley floor to the drier ridges.
-
-Swales on the keyline contour serve a similar function, intercepting water flowing from upper slopes and spreading it across the landscape. In keyline design, the first swale is typically placed on or near the keyline contour, with additional swales placed at appropriate intervals above and below. This approach maximises the water distribution benefit across the entire property.
-
-## Swales in Urban Areas
-
-Swales are valuable in [[pdc-urban-permaculture-design-principles]] for managing stormwater runoff. Road runoff can be directed to swales where trees are growing, as practised at Village Homes in Davis, California. Urban swales reduce the need for stormwater drains, gutters, and kerbing, while growing the trees needed to shade pavements, courtyards, and parking areas.
+Swale design relates to keyline [[pdc-urban-permaculture-design-principles]] for managing stormwater runoff. Road runoff can be directed to swales where trees are growing, as practised at Village Homes in Davis, California. Urban swales reduce the need for stormwater drains, gutters, and kerbing, while growing the trees needed to shade pavements, courtyards, and parking areas.
 
 Small domestic swales of stone-filled construction provide shaded soil-water sources for vine trellis and garden beds. Rooftop rainwater can be directed to swales in the garden for infiltration and tree irrigation. This approach reduces municipal water demand and prevents stormwater pollution of waterways.
 
@@ -84,6 +64,87 @@ Sediment accumulation in swale bottoms gradually reduces infiltration capacity. 
 
 ## See Also
 
-[[permaculture-earthworks-and-water-harvesting]]
-
 [[keyline-design]]
+
+## Overview
+
+Swale Design represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish swale design
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving swale extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Swale Design finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for swale design. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+swale design and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Swale Design has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of swale design into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[comparison-dam-construction-vs-swale-design]]
+- [[comparison-keyline-vs-swale-design]]
+- [[comparison-rain-garden-vs-swale]]

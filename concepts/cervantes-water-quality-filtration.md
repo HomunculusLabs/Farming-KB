@@ -29,7 +29,7 @@ pH is the measure of acidity or alkalinity on a scale of 0-14. Cannabis
 generally prefers a root zone pH of 5.5-6.5 in hydroponic systems and
 6.0-7.0 in soil. When pH drifts outside this range, essential nutrients
 become unavailable to the plant even if they are present in the growing
-medium. This condition is known as nutrient lockout and manifests as
+medium. This condition is known as [[nutrient-lockout]] and manifests as
 deficiency symptoms despite adequate fertilisation.
 
 ### Electrical Conductivity (EC)
@@ -129,9 +129,6 @@ range, especially during warm periods.
 
 ## Cross-References
 
-- Related: [[cervantes-ph-management-testing]]
 - Related: [[cervantes-ec-tds-nutrient-solution-strength]]
-- Related: [[cervantes-nutrient-management]]
 - Related: [[cervantes-hydroponic-systems]]
-- Related: [[cervantes-reservoir-temperature-management]]
 - Related: [[cervantes-root-rot-pythium-damping-off]]

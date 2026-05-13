@@ -9,14 +9,7 @@ sources:
 ---
 # DOB (Bromo-DMA)
 **Chemical name:** 2,5-Dimethoxy-4-bromoamphetamine
-**PiHKAL #62** | [[alexander-shulgin]] performed animal toxicity studies before human trials:
-| Mouse Dose (IP) | Response |
-|-----------------|----------|
-| 50 mg/Kg | Considerable twitching, irritability |
-| 100 mg/Kg | Overt shaking at 20 min, persistent hyperactivity |
-| 125 mg/Kg | Loss of righting reflex at 15 min, convulsions at 50 min, death at 80 min |
-| 150 mg/Kg | Spontaneous convulsions at 10 min, death at 22 min |
-**LD50:** Between 100–125 mg/Kg (IP) in mice. **ED50 in man:** ~25 µg/Kg (2 mg for 80 kg person). **[[cannabis-therapeutic-index-overview]] (LD50/ED50):** Exceeds 1000 in mice. However, Shulgin noted that the actual safety margin in humans is likely much lower than this ratio implies.
+**PiHKAL #62** | [[cannabis-therapeutic-index-overview]] (LD50/ED50):** Exceeds 1000 in mice. However, Shulgin noted that the actual safety margin in humans is likely much lower than this ratio implies.
 ## Radiolabeled DOB Research
 The bromine atom makes DOB a uniquely valuable research tool when labeled with radioactive isotopes (82Br or 77Br). Whole-body scanner studies in human subjects have revealed a fascinating pharmacokinetic pattern:
 - DOB accumulates **first in the lungs** for several hours
@@ -25,13 +18,12 @@ The bromine atom makes DOB a uniquely valuable research tool when labeled with r
 - The finding is consistent with DOB's characteristically slow onset and extremely long duration
 This lung-first distribution pattern is a significant finding in psychedelic pharmacology and may apply to other compounds in the DO series.
 ## Fatal Overdose Report
-A young woman died after snorting a massive amount of DOB, believing it to be [[dom]]
-- [[doi-entity]]|DOI** — iodine analogue, similar potency and duration; also valuable as radiolabeled research tool
+A young woman died after snorting a massive amount of DOB, believing it to be [[doi-entity]]|DOI** — iodine analogue, similar potency and duration; also valuable as radiolabeled research tool
 - **[[pihkal-qualitative-effects-themes]]
 ## Safety Warnings
 - **Extremely potent** — active at 1-3 mg; accurate milligram scales essential
 - **Extremely long duration** — 18-30 hours; plan accordingly
-- **Fatal overdose documented** from nasal insufflation of large dose mistaken for MDA
+- **Fatal overdose documented** from nasal insufflation of large dose mistaken for [[mda]]
 - Very slow onset creates redosing danger
 - Vascular spasm reported in some overdose cases
 - Fugue states and attention lapses persist into the following day

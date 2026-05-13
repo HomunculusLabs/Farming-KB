@@ -17,19 +17,12 @@ type: concept
 
 ## Temperate Zone Food Forest Design
 
-The food forest is one of the most iconic expressions of [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]].
-[[query-how-to-grow-and-use-oca-in-temperate-climates]], food forests emulate the structure and function of
+The food forest is one of the most iconic expressions of [[query-how-to-grow-and-use-oca-in-temperate-climates]], food forests emulate the structure and function of
 natural woodland ecosystems while producing food, fuel, fiber, and medicine.
 Bill Mollison's *Permaculture: A Designers' Manual* presents the food forest
 as a self-maintaining, multi-strata polyculture that requires decreasing
 inputs over time as the system matures. This approach directly applies
-[[mollison-designers-triazonal-cultivation-system]] for
-vertical space optimization.
-
-## The Seven Layers of a Food Forest
-
-Mollison identifies multiple vertical layers in a mature food forest, each
-providing distinct yields and [[fungal-melanin-biosynthesis-ecological-functions]]. The standard model includes
+[[fungal-melanin-biosynthesis-ecological-functions]]. The standard model includes
 seven recognized layers:
 
 1. **Canopy layer**: Tall trees (10 to 25+ meters) forming the uppermost
@@ -46,7 +39,7 @@ seven recognized layers:
    (elaeagnus, seaberry, goumi), and ornamental or medicinal species.
 
 4. **Herbaceous layer**: Non-woody perennials including comfrey, artichokes,
-   asparagus, rhubarb, [[holzer-medicinal-and-culinary-herbs-compendium]], and [[dynamic-nutrient-accumulators]].
+   asparagus, rhubarb, [[dynamic-nutrient-accumulators]].
 
 5. **Ground cover layer**: Low-growing plants that protect soil, suppress
    weeds, and retain moisture. Strawberries, clovers, creeping thyme, and
@@ -64,8 +57,7 @@ seven recognized layers:
 Canopy tree selection must account for the specific climate zone, including
 minimum winter temperatures, growing season length, chill hour requirements,
 and precipitation patterns. Mollison advocates choosing species that serve
-multiple functions: nut production, timber, fodder, mulch, [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]],
-and [[hemenway-backyard-wildlife-habitat]].
+multiple functions: nut production, timber, fodder, mulch, [[hemenway-backyard-wildlife-habitat]].
 
 Key temperate canopy species include:
 
@@ -75,9 +67,7 @@ Key temperate canopy species include:
   juglone allelopathy affecting some understory species.
 - **Oak** (*Quercus* spp.): Acorns from some species are edible after
   leaching; timber and wildlife value.
-- **Honey locust** (*[[gleditsia-triacanthos]]*): Nitrogen-fixing, high-quality
-  fodder pods, dappled shade permitting understory growth.
-- **Persimmon** (*[[diospyros-virginiana]]*): Late-season fruit, hardy, ornamental.
+- **Honey locust** (*[[diospyros-virginiana]]*): Late-season fruit, hardy, ornamental.
 
 ## Understory Shrubs and Species Guilds
 

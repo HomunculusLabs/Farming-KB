@@ -9,57 +9,15 @@ created: 2026-05-11
 
 ## Overview
 
-Contamination is the most common cause of failure in the PF TEK cultivation
-method. Psilocybe Fanaticus (PF) identified the key [[mushroom-contamination-vectors]] and
-developed systematic approaches to diagnose and prevent them. The PF TEK's
-reliance on steam sterilization (rather than [[comparison-pressure-canning-vs-water-bath-canning]]) and its
+Contamination is the most common cause of failure in the [[pf-tek]] cultivation
+method. Psilocybe Fanaticus (PF) identified the key [[comparison-pressure-canning-vs-water-bath-canning]]) and its
 exposure of jars during inoculation make contamination awareness critical.
 This page covers contaminant types, the control jar technique, and systematic
 troubleshooting for spore non-germination.
 
 ## The Dry Vermiculite Contaminant Barrier
 
-The single most important [[cervantes-cannabis-contamination-prevention]] innovation in the PF TEK
-is the dry vermiculite layer. After loading the substrate (brown rice powder
-mixed with moistened vermiculite) into the jar, a 1/2 to 3/4 inch layer of
-plain dry vermiculite is placed on top and leveled. This layer serves multiple
-functions:
-
-1. **Contaminant barrier** — Dry vermiculite is inhospitable to airborne
-   mold spores and bacteria. Any contaminant spores that land on the surface
-   cannot germinate without moisture, preventing them from reaching the
-   nutrient-rich substrate below.
-2. **Moisture regulation** — The dry layer absorbs excess moisture that
-   transpires upward from the colonizing substrate, preventing condensation
-   from pooling at the top of the jar.
-3. **Inoculation shield** — During inoculation, the needle passes through
-   the dry layer to reach the substrate. The dry vermiculite acts as a filter,
-   reducing the chance that airborne contaminants follow the needle track
-   into the wet substrate.
-
-## Contaminant Types and Identification
-
-Contaminant invaders appear in various colors from pastels to black. When
-contamination is detected, the culture is doomed and the jar should be
-discarded carefully.
-
-### Mold Contamination
-
-Mold appears as fuzzy or powdery growths in various colors:
-
-- **Green/blue-green** — Penicillium or Aspergillus, the most common airborne
-  contaminants. Indicates breached vermiculite barrier or insufficient
-  sterilization.
-- **Black** — Rhizopus or Mucor species. Appearance within days suggests
-  contaminated syringes or failed sterilization.
-- **White (fast-growing, cottony)** — If not rhizomorphic like mushroom
-  mycelium, may be Trichoderma or Dactylium contaminants.
-- **Pink/orange** — Often Neurospora, aggressive and fast-spreading.
-- **Yellow** — May indicate bacterial contamination or spent substrate.
-
-### Bacterial Contamination
-
-[[pf-tek-bacteria-contamination-detection]] is detectable through the dry vermiculite layer as a
+The single most important [[pf-tek-bacteria-contamination-detection]] is detectable through the dry vermiculite layer as a
 sour, foul odor within two days after inoculation, typically accompanied by
 no spore germination. Key indicators:
 

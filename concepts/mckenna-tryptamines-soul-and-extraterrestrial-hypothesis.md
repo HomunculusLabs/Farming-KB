@@ -20,12 +20,7 @@ type: concept
 ---
 # Tryptamines, the Soul, and the Extraterrestrial Hypothesis
 
-In his 1983 Esalen lecture "[[mckenna-tryptamine-hallucinogens-and-consciousness]] and Consciousness," Terence McKenna
-presents a provocative argument that tryptamine compounds, particularly DMT and psilocybin, may
-be connecting the human mind to dimensions of intelligence that are genuinely alien or other.
-His discussion oscillates between two complementary interpretations: that the mushroom itself
-is an extraterrestrial organism, and that the human soul, so alienated from modern
-consciousness, appears as extraterrestrial when encountered through the [[dmt-finnegans-wake-and-the-merry-go-raum]]," from the
+In his 1983 Esalen lecture "[[dmt-finnegans-wake-and-the-merry-go-raum]]," from the
 German word for space. In this space one encounters self-transforming machine-elf entities,
 described as "dynamically contorting topological modules that are somehow distinct from the
 surrounding background, which is itself undergoing a continuous transformation." These beings
@@ -43,16 +38,14 @@ psyche."
 ## The Stropharia cubensis as Extraterrestrial Organism
 
 In his most speculative mode, McKenna relates what the mushroom itself purportedly communicated
-during trances in the Amazon. According to this account, Stropharia cubensis is a species that
+during trances in the Amazon. According to this account, [[stropharia-cubensis]] is a species that
 did not evolve on Earth. Once a culture achieves complete understanding of its genetic
 information, it re-engineers itself for survival. The mushroom's version of this is a mycelial
 network strategy for contact with planetary surfaces and a spore-dispersion strategy for
 radiating throughout the galaxy.
 
 The spores are deep purple, the color they would need to absorb deep ultraviolet radiation. The
-casing of a spore is one of the hardest organic substances known, with [[mckenna-fungal-fossil-gap-spore-electron-density-and-metal-hardness]]
-approaching that of a metal. McKenna proposes that spores could reach the edge of a planet's
-atmosphere through [[mckenna-spore-brownian-motion-and-galactic-percolation]] and escape into space through interaction with energetic
+casing of a spore is one of the hardest organic substances known, with [[mckenna-spore-brownian-motion-and-galactic-percolation]] and escape into space through interaction with energetic
 particles. At one-hundredth the speed of light, crossing the galaxy would take approximately
 one hundred million years, far less than the 1.8 billion years that life has existed on Earth,
 making interstellar percolation viable over geological timescales.

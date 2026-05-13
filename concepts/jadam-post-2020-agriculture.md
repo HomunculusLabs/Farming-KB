@@ -22,24 +22,7 @@ JADAM identifies several converging threats:
 - Influx of cheap foreign agricultural products
 - Energy-dependent agriculture systems falling into crisis as oil and electricity costs rise
 - Global food crisis reducing availability of staple grains (rice, wheat, beans)
-- [[dighton-fungi-climate-change-feedback]] reducing arable land through desertification, soil erosion, and rising sea levels
-- Rising sea levels threatening vast areas of farmland (potentially 80% of rice paddies in Philippines, Vietnam, and Thailand)
-
-## Survival Principles
-
-### Do Not Depend on Cash; Go Back to Simple Life
-
-Reduce consumption to a minimum and save cash for the unpredictability of the future. JADAM asks: "Imagine your cash flow stops for just three months. Can you survive that? Are you prepared? Phones, power, gas, fuel and all necessities of modern life will be cut off."
-
-The lifestyle recommendation: reduce consumption, save cash, and prepare for the possibility that modern infrastructure may not always be available. Arable land that returns continued produce and profit will become increasingly valuable.
-
-### Raise Children to Be Farmers
-
-Farmers should raise their children to be farming experts rather than sending them to expensive urban educations. "Farmer is one of the most promising jobs according to most futurists." At home, teach farming skills alongside school education.
-
-### Drop Farming Cost to $100 Per Acre
-
-The average cost of [[coleman-deep-organic-farming-philosophy]] is approximately $6,000 per acre. JADAM has demonstrated that this can be reduced to $100 per acre through self-made inputs. At this cost level, farming becomes viable even in competitive global markets.
+- [[coleman-deep-organic-farming-philosophy]] is approximately $6,000 per acre. JADAM has demonstrated that this can be reduced to $100 per acre through self-made inputs. At this cost level, farming becomes viable even in competitive global markets.
 
 ### The Wife as Central Partner
 
@@ -54,8 +37,7 @@ Traditional farmers worked from before sunrise to after sunset. Modern farmers a
 JADAM's fundamental message: "Challenge always entails opportunity. It will be tough for agriculture in the short-term but in the long-term many doors of opportunity will open. But the door will open only to those who are ready."
 
 Preparation means:
-- Securing organic certification for international [[aact-compost-quality-standards-ingham]]
-- Achieving ultra-low [[fukuoka-textdoc-production-costs-not-coming-down]] for competitive pricing
+- Securing organic certification for international [[fukuoka-textdoc-production-costs-not-coming-down]] for competitive pricing
 - Learning to sell through global platforms (Alibaba, Amazon)
 - Building farming knowledge that does not depend on purchased inputs
 
@@ -76,10 +58,7 @@ JADAM strongly urges a break from energy-intensive agriculture. The cost of oil 
 
 ## See Also
 
-- [[jadam-vision-four-aims]] -- detailed challenge analysis
-- [[jadam-farm-economics-market-viability]] -- [[jadam-farm-economics-market-viability]]
-- [[jadam-making-organic-farming-inputs]] -- input self-sufficiency
-- [[building-soil-fertility-long-term]]
+- [[jadam-farm-economics-market-viability]] -- [[jadam-making-organic-farming-inputs]] -- input self-sufficiency
 - [[natural-farming-soil-building]]
 
 ## Practical Applications
@@ -111,8 +90,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[doc]]
 - [[det]]
-- [[youngsang-cho]]
 - [[desertification]]
 - [[jadam-ultra-low-cost-agriculture]]

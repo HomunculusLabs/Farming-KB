@@ -9,7 +9,7 @@ sources: []
 
 # Viral Plant Diseases
 
-Plant viruses are submicroscopic [[blesching-cannabis-infectious-agents-cancer]] that replicate only inside living host cells. They cannot be controlled with [[hamilton-organic-approved-chemical-sprays]] -- there are no curative treatments once a plant is infected. Management relies entirely on prevention through sanitation, vector control, and resistant varieties. Viruses are typically spread by insect vectors (especially aphids, thrips, and whiteflies), contaminated tools, seed, or mechanical contact.
+Plant viruses are submicroscopic infectious agents that replicate only inside living host cells. They cannot be controlled with chemical sprays -- there are no curative treatments once a plant is infected. Management relies entirely on prevention through sanitation, vector control, and resistant varieties. Viruses are typically spread by insect vectors (especially aphids, thrips, and whiteflies), contaminated tools, seed, or mechanical contact.
 
 ## Major Viral Diseases
 
@@ -98,15 +98,15 @@ Since viruses cannot be cured once plants are infected, all management is preven
 - Wash hands before and between handling plants
 
 ### Resistant Varieties
-- The single most effective [[savory-fire-as-management-tool]]
+- The single most effective management tool
 - Check seed catalogs for virus resistance codes (TMV, CMV, PVY, etc.)
 - Resistance is often virus-specific -- a TMV-resistant variety may still be susceptible to CMV
 
 ### Vector Control
-- Monitor aphid, thrips, and whitefly populations with yellow [[cervantes-sticky-traps-pest-monitoring]]
-- Apply [[comparison-essential-oils-vs-neem-oil-vs-insecticidal-soap]] or neem oil at first sign of vector activity
+- Monitor aphid, thrips, and whitefly populations with yellow sticky traps
+- Apply insecticidal soap or neem oil at first sign of vector activity
 - Use floating row covers on young, susceptible plants
-- Encourage natural enemies (ladybugs, lacewings, [[parasitic-wasps-biological-pest-control]])
+- Encourage natural enemies (ladybugs, lacewings, parasitic wasps)
 - Remove weed hosts that harbor both viruses and vectors
 
 ### Cultural Practices

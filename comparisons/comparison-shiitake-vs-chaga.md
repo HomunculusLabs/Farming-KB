@@ -21,32 +21,6 @@ therapy, or general wellness.
 
 ## Shiitake
 
-[[shiitake-cultivation-parameters]]
-
-Shiitake has been cultivated for over two thousand years in East Asia and is
-deeply embedded in traditional Chinese and Japanese medicine. It grows naturally
-on fallen deciduous trees, particularly oaks, and is commercially produced on
-hardwood sawdust blocks supplemented with rice bran or soybean meal. The
-mushroom is a versatile culinary ingredient with a rich umami flavor and dense
-nutritional profile including high protein, B vitamins, and cholesterol-lowering
-compounds.
-
-The primary medicinal compounds in shiitake are **lentinan**, a beta-(1,3)-
-(1,6)-D-glucan with potent immune-activating properties, and **LEM/LAP**
-extracts from mycelium. Lentinan is approved as a cancer drug in Japan where
-clinical trials showed it nearly doubled survival time in gastric cancer
-patients when combined with chemotherapy. Shiitake compounds stimulate
-macrophages, NK cells, helper T cells, and killer T cells through multiple
-immune pathways.
-
-Cultivation is well-established and scalable. Fruiting requires a 12-week
-vegetative phase at 72-77°F followed by a cold-water soak technique that boosts
-yields approximately 50%. Optimal fruiting occurs at 50-60°F with 85-90%
-humidity and 550 lux light intensity. Both home growers and commercial
-operations can produce shiitake reliably year-round.
-
-## Chaga
-
 [[medicinal-mushroom-guide-chaga]]
 
 Chaga forms as a sterile conk — a dense mass of mycelium and wood tissue — on
@@ -143,8 +117,6 @@ of wild chaga.
 
 ## See Also
 
-- [[medicinal-mushroom-guide-chaga]]
-- [[shiitake-medicinal-compounds]]
-- [[chaga-inonotus-obliquus-medicinal-profile]]
-- [[comparison-cordyceps-vs-reishi-cultivation]]
-- [[medicinal-mushroom-antioxidant-anti-inflammatory]]
+- [[comparison-shiitake-vs-reishi]]
+- [[comparison-shiitake-vs-reishi-medicinal-mushrooms]]
+- [[comparison-shiitake-vs-turkey-tail]]

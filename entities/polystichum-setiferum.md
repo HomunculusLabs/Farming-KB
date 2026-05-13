@@ -12,7 +12,7 @@ updated: 2026-05-09
 sources:
   - Fraser-Jenkins, C.R. (2007). "Taxonomic revision of three hundred Indian subcontinental pteridophytes." Bishen Singh Mahendra Pal Singh.
   - Hoshizaki, B.J. & R.C. Moran. (2001). "Fern Grower's Manual." Timber Press.
-  - Flora [[berry-growing]] Editorial Committee. (1993). "Dryopteridaceae." Flora of [[guzman-psilocybin-mushrooms-north-america]], Vol. 2.
+  - Flora guzman-psilocybin-mushrooms-north-america, Vol. 2.
   - Cabi, Europe. (2023). "Polystichum setiferum (soft shield fern)." Invasive Species Compendium.
   - Page, C.N. (1997). "The Ferns of Britain and Ireland." Cambridge University Press.
 ---
@@ -35,9 +35,7 @@ Fronds are 30 to 120 centimeters long, arranged in a dense rosette from a short,
 
 The lamina is lanceolate, bipinnate to bipinnatifid, with 20 to 40 pairs of pinnae. Each pinna bears 8 to 16 pairs of pinnules that are oblong to falcate, with bristle-tipped teeth on the margins. The upper pinnae are progressively reduced toward the frond apex.
 
-Sori are circular, borne on the undersurface of pinnules in two rows, each covered by a kidney-shaped indusium attached at its center. Spores are brown, produced from summer through autumn in [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]].
-
-The species exhibits considerable morphological [[psilocybin-psilocin-variation-across-flushes]] its range. Populations from the Iberian Peninsula tend to have longer, more divided fronds than those from the British Isles. Coastal forms often produce denser scale cover on the stipe as protection against salt spray.
+Sori are circular, borne on the undersurface of pinnules in two rows, each covered by a kidney-shaped indusium attached at its center. Spores are brown, produced from summer through autumn in [[psilocybin-psilocin-variation-across-flushes]] its range. Populations from the Iberian Peninsula tend to have longer, more divided fronds than those from the British Isles. Coastal forms often produce denser scale cover on the stipe as protection against salt spray.
 
 Polystichum setiferum can be distinguished from the closely related Polystichum aculeatum by its softer frond texture, more widely spaced pinnae, and paler stipe scales. The hybrid between the two species is common in zones of overlap.
 
@@ -49,21 +47,19 @@ Polystichum setiferum is native to western and southern Europe, ranging from Ire
 
 The species is most abundant in oceanic climates with mild winters and high humidity. It is particularly common in the British Isles, where it occurs throughout England, Wales, and western Scotland, becoming scarcer in eastern and northern areas.
 
-Typical habitats include deciduous and mixed woodlands, hedgerows, stream banks, rocky slopes, and old stone walls. It grows on acidic to neutral soils rich in [[fukuoka-textdoc-composting-critique-futility-prepared-organic-matter]], often in the company of Dryopteris filix-mas and [[pteridium-aquilinum]].
+Typical habitats include deciduous and mixed woodlands, hedgerows, stream banks, rocky slopes, and old stone walls. It grows on acidic to neutral soils rich in [[pteridium-aquilinum]].
 
 The species is particularly abundant on steep, north-facing slopes where moisture retention is highest and direct sunlight is limited. In the British Isles, it forms extensive ground covers in ancient woodlands, serving as an indicator of long-established forest habitats.
 
 Elevation ranges from sea level to approximately 1,500 meters in southern European mountain ranges. At higher elevations, the species is restricted to sheltered valleys and north-facing slopes with reliable moisture.
 
-The species has been widely introduced outside its native range, becoming naturalized in parts of New Zealand, the [[psilocybin-north-america-pacific-northwest]] of North America, and southeastern Australia. It is not considered invasive in most introduced areas, though it can form dense colonies in favorable habitats.
-
-In New Zealand, naturalized populations have established in forest understories on both the North and South Islands. The species is occasionally planted as an ornamental but spreads primarily through [[adaptive-anemotropism-spore-dispersal-optimization-mushroom-evolution]] from garden escapes.
+The species has been widely introduced outside its native range, becoming naturalized in parts of New Zealand, the [[adaptive-anemotropism-spore-dispersal-optimization-mushroom-evolution]] from garden escapes.
 
 ## Ecology and Interactions
 
 Polystichum setiferum is a perennial evergreen fern whose fronds typically persist for 12 to 18 months before senescing. New fronds emerge in spring from the rhizome crown, expanding rapidly during May and June in temperate regions.
 
-The species forms arbuscular [[plants-without-mycorrhizal-associations]] that enhance [[aact-microbial-foliar-nutrient-uptake-co2-stomata-ingham]], particularly [[comparison-phosphorus-solubilizing-microorganisms-vs-mycorrhizal-phosphorus-acquisition]] from organic soils. These fungal partnerships are especially important in shaded woodland environments where [[ph-and-nutrient-availability-garden-soils]] is low.
+The species forms arbuscular [[aact-microbial-foliar-nutrient-uptake-co2-stomata-ingham]], particularly [[ph-and-nutrient-availability-garden-soils]] is low.
 
 Spore dispersal occurs from midsummer through autumn, with spores released as the indusia dry and curl back. Wind carries spores short distances, with most landing within 5 meters of the parent plant. Germination requires moisture and a suitable substrate.
 

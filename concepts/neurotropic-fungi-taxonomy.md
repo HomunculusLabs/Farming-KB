@@ -66,57 +66,84 @@ Heim (1963, 1966, 1978) initially reported certain boletes as hallucinogenic amo
 Several factors complicate the taxonomy of neurotropic fungi:
 
 ### Misidentification in Traditional Use
-Indigenous peoples often use the same common names for multiple fungal species. The Mazatec term "nise" (little bird) refers to both *Psilocybe mexicana* and the unrelated *[[schizophyllum-commune]]*, a common edible bracket fungus. This linguistic overlap has led to erroneous reports of hallucinogenic properties in non-psychoactive species.
-
-### Edible vs. Psychoactive Confusion
-*[[guzman-chlorophyllum-molybdites-toxic-edible-paradox-yoruba-divinatory-use]]* illustrates this problem vividly. Called "a jegba ariwo-orun" (eat and hear voices from heaven) by the Yoruba tribe, experimental evidence from Adewusi et al. (1993) suggested neurotropic properties. However, this species is widely regarded as poisonous, with reports of poisoning from the USA, Argentina, Philippines, and East Africa. Singer (1969) noted that "apparently not all forms or races are poisonous," suggesting possible regional variation.
+Indigenous peoples often use the same common names for multiple fungal species. The Mazatec term "nise" (little bird) refers to both *Psilocybe mexicana* and the unrelated *[[guzman-chlorophyllum-molybdites-toxic-edible-paradox-yoruba-divinatory-use]]* illustrates this problem vividly. Called "a jegba ariwo-orun" (eat and hear voices from heaven) by the Yoruba tribe, experimental evidence from Adewusi et al. (1993) suggested neurotropic properties. However, this species is widely regarded as poisonous, with reports of poisoning from the USA, Argentina, Philippines, and East Africa. Singer (1969) noted that "apparently not all forms or races are poisonous," suggesting possible regional variation.
 
 ### Polypore Misclassification
-Oldridge et al. (1989) classified polypores containing hordenine, N-methyltyramine, and tyramine as psychotropic fungi, citing *[[laetiporus-sulphureus]]* and *[[meripilus-giganteus]]*. These compounds can cause dizziness and disorientation but are fundamentally different from classical hallucinogens. Both species are widely consumed as edible mushrooms, and their inclusion as neurotropic fungi is not broadly accepted.
+Oldridge et al. (1989) classified polypores containing hordenine, N-methyltyramine, and tyramine as psychotropic fungi, citing *[[meripilus-giganteus]]*. These compounds can cause dizziness and disorientation but are fundamentally different from classical hallucinogens. Both species are widely consumed as edible mushrooms, and their inclusion as neurotropic fungi is not broadly accepted.
 
 ### The Ganoderma Cult
-A fascinating case involves *[[guzman-ganoderma-lobatum-church-cult-chignahuapan-puebla]]*, venerated as a saint in a church at Chignahuapan, Puebla, Mexico. The church was built specifically in honor of the fungus, whose inner surface bears an arresting sketch of Christ flanked by sun and moon. Despite the religious significance, no evidence links this species to neurotropic properties — its veneration likely relates to proximity with locally abundant *Psilocybe* species.
-
-## Historical Development of the Taxonomy
-
-The classification of neurotropic fungi has evolved considerably:
-
-- **Pre-1958**: Only ~20 species recognized, belonging to Psilocybe, Conocybe, Stropharia (later reclassified as Psilocybe), Panaeolus, Cordyceps, Claviceps, and Amanita
-- **1954-1958**: Wasson, Heim, and Singer's groundbreaking studies in Mexico dramatically expanded the known diversity
-- **Post-1958**: Guzmán (1990a, 1990b) divided Mexican mycology into "before" and "after" these seminal studies, as they catalyzed broader mycological interest
-- **1993**: Ott's comprehensive review catalogued psilocybin-containing species with bibliographic references
-- **2000**: Guzmán, Allen, and Gartz's global survey reached 216 species
-
-## Key Taxonomic References
-
-The foundational taxonomic work rests on contributions from Schultes (1939), Singer (1949, 1958, 1959, 1960a), Singer and Smith (1958), Heim (1956a, 1956b, 1957a, 1957c, 1958a, 1958b), Wasson and Wasson (1957), and Heim and Wasson (1958). These researchers established the framework upon which subsequent surveys by Guzmán, Gartz, and others have built.
-
-## Genera-Level Comparison
-
-| Genus | Species Count | Primary Compound | Typical Habitat |
-|-------|-------------|-----------------|-----------------|
-| Psilocybe | 116 | Psilocybin/psilocin | Dung, grasslands, subtropical forests |
-| Gymnopilus | 14 | Psilocybin/psilocin | Wood, dead logs |
-| Panaeolus | 13 | Psilocybin/psilocin | Dung, pastures |
-| Copelandia | 12 | Psilocybin/psilocin | Dung, tropical pastures |
-| Hypholoma | 6 | Psilocybin/psilocin | Wood debris |
-| Pluteus | 6 | Psilocybin/psilocin | Wood, stumps |
-| Inocybe | 6 | Psilocybin/psilocin | Mycorrhizal, forest floor |
-| Conocybe | 4 | Psilocybin/psilocin | Dung, grasslands |
-| Panaeolina | 4 | Psilocybin/psilocin | Dung, lawns |
-| Amanita | 3 | Ibotenic acid/muscimol | Mycorrhizal, temperate forests |
-
-## Implications for Mycological Research
-
-The taxonomic breadth of neurotropic fungi presents both opportunities and challenges for mycological science. The concentration of species in *Psilocybe* reflects genuine evolutionary radiation in subtropical and tropical environments, but it also reflects research bias — this genus has received disproportionately more chemical analysis than groups like *Panaeolina* or *Gerronema*.
-
-Many species in Group 1 remain chemically unverified. Their classification as neurotropic rests on morphological similarity to confirmed psychoactive species and, in some cases, on traditional use reports that may conflate multiple species. Future research using modern analytical chemistry (HPLC, mass spectrometry) could substantially refine these numbers, potentially both adding and removing species from the roster.
-
-The distinction between Group 1 (tryptamine-based) and Group 2 (isoxazole-based) fungi is chemically fundamental but often blurred in popular literature, where all "magic mushrooms" are discussed interchangeably. This conflation obscures important differences in pharmacology, toxicity, and traditional use patterns.
-
-## See Also
-
-- [[psilocybe-genus-distribution]]
-- [[sacred-mushrooms-ethnography]]
+A fascinating case involves *[[psilocybe-genus-distribution]]
 - [[psilocybin-chemistry]]
 - [[amanita-muscaria]]
+
+## Overview
+
+Neurotropic Fungi Taxonomy represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish neurotropic fungi taxonomy
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving neurotropic extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Neurotropic Fungi Taxonomy finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for neurotropic fungi taxonomy. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+neurotropic fungi taxonomy and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Neurotropic Fungi Taxonomy has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of neurotropic fungi taxonomy into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions

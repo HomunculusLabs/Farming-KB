@@ -33,13 +33,7 @@ Mushroom propagation begins with basidiospores produced on the gills of
 fruiting bodies. When dispersed by wind and landing on favorable substrate
 with adequate nutrients, temperature, and moisture, spores germinate and
 produce monokaryotic mycelium (single nucleus per cell). When two compatible
-hyphae meet, they form dikaryotic mycelium ("[[gadd-mycelial-network-dynamics]]") with two
-nuclei per cell. This dikaryotic mycelium eventually differentiates into
-spore-producing fruiting bodies, completing the life cycle.
-
-## Fruiting Conditions
-
-The saprophytic species (all [[emcdda-hallucinogenic-mushrooms-emerging-trend-europe]] except the mycorrhizal
+hyphae meet, they form dikaryotic mycelium ("[[emcdda-hallucinogenic-mushrooms-emerging-trend-europe]] except the mycorrhizal
 Inocybe species) fruit when four environmental conditions are met
 simultaneously:
 
@@ -57,10 +51,7 @@ given sufficient moisture and ideal temperatures.
 
 ## Two Methods of Strain Development
 
-[[fukuoka-matsutake-artificial-cultivation-attempt]] imitates and optimizes these natural conditions. Two
-fundamental approaches exist for obtaining viable mycelial cultures:
-
-**[[growing-gourmet-spore-germination-strain-isolation]] on agar.** With sterile procedures in place, a spore
+[[growing-gourmet-spore-germination-strain-isolation]] on agar.** With sterile procedures in place, a spore
 solution is germinated on nutrient agar, commonly 3-6% malt extract with
 1.5% agar. Prior to germination, all substrates are autoclaved and
 sterilized with steam. The simultaneous germination of many spores produces
@@ -82,11 +73,7 @@ Cross-breeding experiments serve a dual purpose in mushroom cultivation.
 Beyond developing high-yield strains, they enable the determination of
 whether mushrooms from different locations belong to the same species.
 Gartz established through such experiments that mycelia from
-[[psilocybe-cubensis-potency-variation-by-flush]] (collected in the U.S.) can never be fused together, confirming they are distinct species despite some morphological similarities.
-
-## Substrate and Environmental Challenges
-
-The choice of substrate depends on the species. [[psilocybe-semilanceata]] are far more challenging to cultivate, as they have very specific substrate and environmental requirements that are difficult to replicate indoors.
+[[psilocybe-semilanceata]] are far more challenging to cultivate, as they have very specific substrate and environmental requirements that are difficult to replicate indoors.
 
 ## Practical Applications
 
@@ -117,8 +104,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[mushroom-cultivation]]
 - [[jochen-gartz]]
-- [[fruiting-conditions]]
 - [[psilocybin]]
 - [[tryptophan]]

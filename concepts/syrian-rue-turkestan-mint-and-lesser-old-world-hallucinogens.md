@@ -6,7 +6,7 @@ type: concept
 
 # Syrian Rue, Turkestan Mint, and Lesser Old World Hallucinogens
 
-Beyond the well-known fly agaric, cannabis, and solanaceous hallucinogens, the Old World harbors several lesser-known psychoactive plants that have played important roles in traditional medicine and indigenous practices. This page covers Syrian rue, Turkestan mint, kanna, agara, kwashi, and galanga — minor Old World hallucinogens documented in the ethnobotanical literature.
+Beyond the well-known fly agaric, cannabis, and [[lycanthropy-solanaceous-hallucinogens]], the Old World harbors several lesser-known psychoactive plants that have played important roles in traditional medicine and indigenous practices. This page covers Syrian rue, Turkestan mint, kanna, agara, kwashi, and galanga — minor Old World hallucinogens documented in the ethnobotanical literature.
 
 ## Syrian Rue (Peganum harmala)
 
@@ -18,9 +18,9 @@ Beyond the well-known fly agaric, cannabis, and solanaceous hallucinogens, the O
 - The extraordinary esteem in which Asian peoples hold the plant may indicate former religious use as a hallucinogen
 - Purposeful visionary use has not yet been established through literature or field work
 - Widely used in folk medicine across its range for numerous ailments
-- The plant's MAO-inhibiting properties make it a key ingredient in ayahuasca analogs when combined with DMT-containing plants
+- The plant's MAO-inhibiting properties make it a key ingredient in [[schultes-ayahuasca-analogs-dmt-plants]] when combined with DMT-containing plants
 - Commonly burned as incense or brewed as a tea in Middle Eastern and Central Asian traditions
-- Syrian rue represents the pharmacological bridge between Old World and New World hallucinogen traditions
+- Syrian rue represents the pharmacological bridge between Old World and [[mckenna-food-gods-new-world-hallucinogen-clustering-americas-psychedelic-continent]] traditions
 - Harmine was first isolated in 1847 and was one of the earliest plant alkaloids to be chemically characterized
 
 ## Turkestan Mint (Lagochilus inebrians)
@@ -30,7 +30,7 @@ Beyond the well-known fly agaric, cannabis, and solanaceous hallucinogens, the O
 - **Native range:** Central Asia through Iran and Afghanistan
 - Used for centuries as an intoxicant among Tajik, Tartar, Turkoman, and Uzbek tribesmen
 - Leaves gathered in October, toasted, sometimes mixed with stems, fruits, and flowers
-- Drying and storage increase aromatic fragrance; honey and sugar added to reduce intense bitterness
+- [[psilocybin-mushroom-drying-and-storage-methods]] increase aromatic fragrance; honey and sugar added to reduce intense bitterness
 - Valued as a folk medicine; included in the 8th edition of the Russian Pharmacopoeia
 - Medicinal uses: treating skin disease, checking hemorrhages, and providing sedation for nervous disorders
 - A crystalline compound isolated and named **lagochiline** has been identified as a diterpene
@@ -70,7 +70,7 @@ Beyond the well-known fly agaric, cannabis, and solanaceous hallucinogens, the O
 
 ## Ereriba (Homalomena sp.)
 
-- **Distribution:** Tropical Asia and South America (undetermined species)
+- **Distribution:** Tropical Asia and [[guzman-psilocybin-mushrooms-south-america]] (undetermined species)
 - **Family:** Araceae (aroid family); approximately 140 species of Homalomena native to tropical regions
 - A stout herb reported to have narcotic effects when its leaves are taken with the leaves and bark of agara
 - Always used in combination with agara, never alone — suggesting a synergistic or potentiating relationship
@@ -98,7 +98,7 @@ Beyond the well-known fly agaric, cannabis, and solanaceous hallucinogens, the O
 - Medicinal uses: bringing boils to a head and hastening the healing of burns and wounds
 - Phytochemical studies have revealed no confirmed psychoactive principle despite its reputed hallucinogenic use
 - Effects may be attributable to essential oil components acting as pseudohallucinogens rather than true hallucinogens
-- The discrepancy between traditional reputation and chemical analysis remains unresolved
+- The discrepancy between traditional reputation and [[challenges-neurotropic-fungi-chemical-analysis-taxonomic-identification]] remains unresolved
 - Ethyl cinnamate and ethyl p-methoxycinnamate are among the major essential oil constituents identified
 
 ## Pharmacological Themes Across Lesser Old World Hallucinogens
@@ -113,9 +113,6 @@ Beyond the well-known fly agaric, cannabis, and solanaceous hallucinogens, the O
 
 ## See Also
 
-- [[golden-guide-syrian-rue-and-maoi-plants]]
 - [[old-world-hallucinogenic-plants-overview]]
-- [[kanna-sceletium-south-african-narcotic]]
 - [[amanita-muscaria-ethnobotany]]
-- [[cannabis-history-classification-and-chemistry]]
 - [[indole-hallucinogen-classification]]

@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Site Planning and Pest Management in the Tropics
+# Site [[trap-cropping]]
 
 ## Overview
 
@@ -70,7 +70,7 @@ Ground-dwelling domestic animals provide essential pest control services:
 Soil fungi and nematodes can become persistent pests in tropical tree crop monocultures. Two specific biological controls are highlighted:
 
 ### Marigolds (*Tagetes* spp.)
-Marigolds often serve to reduce or eliminate nematode populations when interplanted with susceptible crops. Their root exudates are toxic to nematodes, making them a simple and effective companion plant.
+Marigolds often serve to reduce or eliminate nematode populations when interplanted with susceptible crops. Their [[root-exudates|root exudates]] are toxic to nematodes, making them a simple and effective companion plant.
 
 ### Crotolaria
 Crotolaria serves as a leguminous green crop that traps nematodes in its root mycelia. As a nitrogen-fixing legume, it simultaneously improves soil fertility while reducing nematode pressure.
@@ -140,33 +140,11 @@ Analysis of both fiscal returns and total nutritional yield. Cash crops are conc
 Strategies for converting monoculture palm plantations to diverse polycultures through understory planting, intercropping, and gradual introduction of animal systems.
 
 ### 6. Effects of Plantation Monoculture
-Understanding the negative consequences of monoculture — soil degradation, pest vulnerability, and yield decline — provides the rationale for conversion to polyculture.
 
-## Pest Management Philosophy
+## See Also
 
-Mollison's fundamental conviction is that "there is no pest problem that will not yield to our applied commonsense and an integrated natural approach." This philosophy rests on several principles:
-
-1. **Diversity creates stability** — Complex polycultures resist pest outbreaks naturally
-2. **Biological controls are self-reinforcing** — Predators and parasites multiply in response to pest populations
-3. **Plant-derived controls are biodegradable** — Unlike synthetic pesticides, botanical controls break down naturally
-4. **Animals recycle waste** — Every domestic animal species converts plant waste into manure while controlling pests
-5. **Integrated systems are resilient** — When one control method fails, others compensate
-6. **Observation replaces intervention** — Understanding pest ecology allows preventive rather than reactive management
-
-## Key Principles
-
-1. **Biological before chemical** — Plant-derived biocides and animal predators should be the first line of defense
-2. **Every animal serves multiple functions** — Pest control, manure, and food production are inseparable
-3. **Soil health prevents soil pests** — Mulch, green manures, and biological diversity suppress nematodes and fungi
-4. **Fence ecology matters** — Fence lines must be managed as ecosystems, not just barriers
-5. **Endemic species are underutilized** — Local animals adapted to tropical conditions deserve wider trial
-6. **Palm groves are polyculture nuclei** — The shade and shelter of palms create ideal conditions for integration
-7. **No pest problem is intractable** — Applied commonsense and integrated natural approaches can address any pest issue
-8. **Stored food protection** — Neem provides centuries-proven protection for stored grains and foods
-## See also
-
-- [[tropical-hedgerow-shelterbelt-design]]
-- [[tropical-hedgerow-windbreak-systems]]
-- [[coastal-windbreak-systems-and-plant-wind-tolerance]]
-- [[integrated-pest-management]]
-- [[tropical-food-system-development]]
+- [[permaculture-design-process-overview]]
+- [[ozier-pdc-sector-analysis-for-site-design]]
+- [[mollison-designers-site-analysis-mapping-observation]]
+- [[mycoremediation-site-assessment]]
+- [[mollison-climate-site-analysis-permaculture]]

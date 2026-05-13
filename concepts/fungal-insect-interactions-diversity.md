@@ -6,15 +6,11 @@ type: concept
 tags: [mycology, fungi]
 sources: []
 ---
-# Fungal Interactions with Insects Fungi have evolved intimate associations with diverse insect groups, ranging from mutualistic symbioses to parasitic relationships. These interactions represent some of the most complex and ecologically significant fungus-animal relationships. [[fungal-beetle-symbiosis]] [[ant-termite-fungal-symbiosis]]
+# Fungal Interactions with Insects Fungi have evolved intimate associations with diverse insect groups, ranging from mutualistic symbioses to parasitic relationships. These interactions represent some of the most complex and ecologically significant fungus-animal relationships. [[ant-termite-fungal-symbiosis]]
 
 ## Lower vs Higher Attines
 
-Associations between [[escovopsis-parasitic-fungi-attine-ant-gardens]] species and their fungi differ, ranging from relatively loose associations in lower attines (Mycocepurus, Mycetophylax, Mycetarotes, Mycetosoritis, Sericomyrmex) to fixed clonal associations in higher attines (Atta, Acromyrmex, Apterostigma).
-
-Because fungi are transferred asexually from one generation to the next in the higher attines, sampling in a given location or country may produce very low diversity of ant-associated fungi. Regulatory mechanisms fine-tuning the relationships between ants and fungi may be most diverse in the otherwise taxonomically least diverse fungi of the higher attines.
-
-[[ant-termite-fungal-symbiosis]] [[fungal-sampling-methods]] [[ant-termite-fungal-symbiosis]]
+Associations between [[ant-termite-fungal-symbiosis]] [[ant-termite-fungal-symbiosis]]
 
 ## Wood Wasps and Fungi
 
@@ -22,15 +18,7 @@ Several genera of resupinate aphyllophoralean wood-decaying basidiomycetes have 
 
 Amylosterium areolatum associated with Sirex noctilio has been introduced into New Zealand and Australia, where it has become a serious pathogen of Pinus radiata. Only certain species of Amylosterium and Cerrena unicolor have been found associated with wood wasps.
 
-[[fungal-beetle-symbiosis]]
-
-## Bark Beetle-Associated Fungi
-
-Bark beetles carry stain fungi that can interact with wood wasp-associated fungi, causing die back when both are present in trees. The spore-dispersal interactions between bark beetles and their fungal associates represent another dimension of insect-fungus coevolution.
-
-These associations range from mutualistic to pathogenic, with beetles serving as vectors for fungal dispersal while fungi may improve host quality for beetle larvae or contribute to tree killing.
-
-[[fungal-parasites]] [[fungal-endophytes-plant-fitness]] fungal-functional-diversity [[fungal-community-assembly]]
+[[fungal-parasites]] [[fungal-community-assembly]]
 ## Practical Applications
 
 Fungal-Insect Interactions and Diversity has a range of practical applications that make it relevant to
@@ -97,8 +85,6 @@ through generations to modern scientific approaches, the evolution continues
 to inform current best practices and research directions.
 
 ## See Also
-- [[doc]]
 - [[det]]
-- [[cerrena-unicolor]]
 - [[spore]]
 - [[pinus-radiata]]

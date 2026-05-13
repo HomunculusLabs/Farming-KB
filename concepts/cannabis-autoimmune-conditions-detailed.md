@@ -9,33 +9,12 @@ sources:
 ---
 # Cannabis for Autoimmune Conditions
 
-Autoimmune diseases occur when the body's immune system mistakenly attacks its own tissues. The [[cannabis-for-multiple-sclerosis]]
-
-### Crohn's Disease and Inflammatory Bowel Disease
-- Endocannabinoid system widely distributed throughout the gut
-- Cannabinoids reduce colitis in animal models
-- CBD normalizes hypermotility in inflammatory conditions
-- FAAH blockers enhance endocannabinoid system action in the gut
-- See [[blesching-cannabis-cannabinoid-terpene-entourage-effect]] for comprehensive [[cancer-immune-modulation-mechanisms]]
-
-## Mind-Body Connection
-
-The [[blesching-cannabis-health-index-autoimmune-conditions]] notes that "autoimmune diseases may mirror an intense and likely longstanding conflict" involving emotions like guilt, shame, betrayal, humiliation, or fear. The ECS's role in bridging body and mind suggests that emotional healing may complement cannabinoid therapy in autoimmune conditions.
+Autoimmune diseases occur when the body's immune system mistakenly attacks its own tissues. The [[blesching-cannabis-cannabinoid-terpene-entourage-effect]] for comprehensive [[blesching-cannabis-health-index-autoimmune-conditions]] notes that "autoimmune diseases may mirror an intense and likely longstanding conflict" involving emotions like guilt, shame, betrayal, humiliation, or fear. The ECS's role in bridging body and mind suggests that emotional healing may complement cannabinoid therapy in autoimmune conditions.
 
 ## Related Topics
 
-- [[cannabis-anti-inflammatory-applications]]
 - [[blesching-cannabis-cannabinoid-terpene-entourage-effect]]
-- [[cannabis-for-crohns-and-ibd]]
-
-## Key Insight
-
-The endocannabinoid system's central role in immune regulation, combined with CB2's anti-inflammatory properties and lack of psychoactive effects, makes cannabinoid therapy particularly well-suited for autoimmune conditions. The combination of plant cannabinoids, dietary (E)-BCP from spices, and lifestyle approaches offers a multi-pronged strategy for immune modulation.
-
-## See Also
-
 - [[2c-d-pihkal-entry-23]]
-- [[cannabis-endocannabinoid-system]]
 - [[cannabis-anti-inflammatory-applications]]
 ## Practical Applications
 
@@ -97,8 +76,6 @@ through generations to modern scientific approaches, the evolution continues
 to inform current best practices and research directions.
 
 ## See Also
-- [[doc]]
 - [[det]]
-- [[endocannabinoid-system]]
 - [[cannabis-autoimmune-conditions]]
 - [[blesching-cannabis-health-index-autoimmune-conditions]]

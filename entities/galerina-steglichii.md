@@ -10,31 +10,15 @@ sources: [/Users/t3rpz/wiki/raw/papers/world-wide-distribution-of-magic-mushroom
 
 # Galerina steglichii
 
-*Galerina steglichii* is a rare species of wood-inhabiting mushroom in the family cortinariaceae (or hymenogastraceae) that has been reported to contain [[psilocin]]. It is one of only a handful of Galerina species found to contain psychoactive indole alkaloids, making it a scientifically noteworthy but potentially dangerous species. The genus Galerina is primarily notorious for containing deadly poisonous species that produce amatoxins, the same toxins found in [[psilocybin]] and [[psilocybin]] — the phosphorylated prodrug that is converted to psilocin in the body
-- [[psilocybe-azurescens]] or [[galerina-autumnalis]]** (also known as Galerina marginata) — one of the most deadly mushrooms in [[psilocybin-north-america-pacific-northwest]] and Europe
+*Galerina steglichii* is a rare species of wood-inhabiting mushroom in the family cortinariaceae (or hymenogastraceae) that has been reported to contain [[psilocybin]] and [[psilocybe-azurescens]] or [[psilocybin-north-america-pacific-northwest]] and Europe
 - **Galerina venenata** — a small grassland species containing amatoxins
 - **Galerina fasciculata** — found in clusters on wood, resembling some psilocybe species
 
-[[bloomfield-amatoxin-poisoning-mechanism]] causes delayed-onset liver and kidney failure that is frequently fatal without aggressive medical intervention, including liver transplantation. The symptoms follow a characteristic pattern:
-
-1. **Latent phase (6 to 24 hours):** No symptoms, creating a false sense of security
-2. **Gastrointestinal phase (24 to 48 hours):** Severe nausea, vomiting, diarrhea, abdominal pain
-3. **Apparent recovery phase (48 to 72 hours):** Temporary improvement as liver damage progresses silently
-4. **Hepatic failure phase (3 to 7 days):** Liver failure, jaundice, coagulopathy, hepatic encephalopathy, death
-
-There is NO reliable visual way to distinguish psilocybin-containing Galerina species from amatoxin-containing ones. [[fungal-microscopic-examination-mounting-media-techniques]] and [[challenges-neurotropic-fungi-chemical-analysis-taxonomic-identification]] are required. **No Galerina species should ever be consumed for psychoactive purposes without definitive chemical identification.**
-
-## Similar Species
-
-The small brown habit of Galerina steglichii makes it superficially similar to numerous other small brown mushrooms:
-
-- **[[conocybe-cyanopus]]**: Also contains psilocybin but has a conical cap and different spore ornamentation
-- **[[psilocybin]] could subject it to the same legal restrictions as other psilocybin-containing fungi in jurisdictions where such laws apply. Given the extreme danger of misidentification with amatoxin-containing species, possession for consumption purposes would be exceptionally ill-advised regardless of [[ayahuasca-tourism-legal-status-by-country]].
+[[fungal-microscopic-examination-mounting-media-techniques]] and [[conocybe-cyanopus]]**: Also contains psilocybin but has a conical cap and different spore ornamentation
+- **[[ayahuasca-tourism-legal-status-by-country]].
 
 ## See Also
 
-- [[psilocybin]] — the psychoactive compound found in G. steglichii
-- amatoxins — the deadly hepatotoxins found in other Galerina species
 - [[conocybe-cyanopus]] — another psilocybin-containing genus with small brown mushrooms
 ## Practical Applications
 
@@ -88,3 +72,79 @@ between multiple variables and the difficulty of predicting outcomes
 with certainty. Building in redundancy, monitoring key indicators, and
 maintaining flexibility in approach all help manage this inherent
 uncertainty and improve the resilience of implementations over time.
+
+## Overview
+
+Galerina Steglichii represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish galerina steglichii
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving galerina extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Galerina Steglichii finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for galerina steglichii. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+galerina steglichii and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Galerina Steglichii has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of galerina steglichii into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.

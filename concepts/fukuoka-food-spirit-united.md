@@ -12,29 +12,13 @@ sources:
 
 # Fukuoka: Food and Spirit United
 
-Source: [[fukuoka-food-civilization-critique]]: when human culture separates itself from nature, it becomes self-destructive. The refinement of food is a metaphor for the refinement of human consciousness -- both processes strip away the essential and leave only a hollow, processed version of the original.
-
-## The Traditional Brown Rice Diet
-
-The traditional brown rice-and-vegetable diet of the East gave long life, a strong constitution, and good health. Stewed vegetables and steamed rice with red beans was a once-a-month feast. The farmer's healthy, robust body was able to nourish itself well on this simple rice diet.
-
-Compared with plants that ripen naturally, vegetables and fruits grown out-of-season under necessarily unnatural conditions contain few vitamins and minerals. It is not surprising that summer vegetables grown in the autumn or winter have none of the flavour and fragrance of those grown beneath the sun by organic and natural methods.
-
-The connection between [[fukuoka-seasonal-eating-natural-food-calendar]] and [[fukuoka-critique-western-dietetics-nutritional-science]] that runs through Fukuoka's work. Just as agricultural science reduces the farm to a factory, nutritional science reduces food to chemicals, and in both cases something essential is lost. The farmer who sees soil as a substrate for chemical inputs and the eater who sees food as a delivery system for nutrients have both lost the ability to perceive the living wholeness that sustains them.
-
-## Connection to Natural Farming Principles
-
-The food-spirit unity has direct practical implications for farming. Food grown by [[fukuoka-natural-soil-works-itself]] produces living food, and living food nourishes not just the body but the spirit.
+Source: [[fukuoka-seasonal-eating-natural-food-calendar]] and [[fukuoka-natural-soil-works-itself]] produces living food, and living food nourishes not just the body but the spirit.
 
 The farmer who practices natural farming is not just growing calories but participating in a sacred process -- the transformation of sunlight, water, and soil into human sustenance. When this process is mediated by chemicals, machinery, and industrial processing, the connection between eater and earth is broken. Natural farming restores this connection at its source.
 
 ## Related Concepts
 
-- [[fukuoka-natural-diet-philosophy]]
-
 - [[fukuoka-food-civilization-critique]]
-
-- [[fukuoka-natural-diet-food-philosophy]]
 
 - [[natural-farming-food-philosophy]]
 ## Practical Applications
@@ -97,8 +81,6 @@ through generations to modern scientific approaches, the evolution continues
 to inform current best practices and research directions.
 
 ## See Also
-- [[doc]]
 - [[det]]
-- [[natural-farming-principles]]
 - [[natural-farming]]
 - [[fukuoka-textdoc-matter-spirit-unity-food]]

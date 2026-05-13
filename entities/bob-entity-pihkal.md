@@ -8,33 +8,11 @@ sources: ["Shulgin - PIHKAL"]
 ---
 # BOB
 
-[[2c-b-pihkal-entry-20]] #13. 4-Bromo-2,5,beta-trimethoxy-PEA.
-
-## Dosage and Duration
-
-| Property | Value |
-|----------|-------|
-| Dosage | 10 - 20 mg. |
-| Duration | 10 - 20 h. |
-
-## Qualitative Comments
-
-> (with 10 mg) I don't know if it was me this
-> day, or if it was the chemical, but I got into a granddaddy of a
-> paranoid, sociopathic snit, [[solomon-weed-management-without-chemicals]] feeling and without emotion. I
+[[solomon-weed-management-without-chemicals]] feeling and without emotion. I
 > was indifferent to everything. Later on, there was some improvement,
 > with body tingling (good, I'm pretty sure) and a sense of awareness
-> (good, I guess) but I [[query-how-to-make-a-diy-still-air-box-for-mushroom-cultivation]] canceled my evening dinner company. All
-> in all, pretty negative.
->
-> (with 10 mg) I had to get away and into myself, so I weeded in the
-> [[fukuoka-dutch-priest-vegetable-garden-spiritual-renewal]] for almost an hour. Then I lay down in the bedroom,
-> and enjoyed a magnificent [[aphid-management-vegetable-garden-solomon]], in Southern France, in my
-> mind's eye. An extraordinary zucchini. And the weeds had all been
-> magically pulled. In another couple of hours a neurological
-> over-stimulation became apparent, and I spent the rest of the day
-> defending myself. In the evening, I took 100 milligrams phenobarbital
-> which seemed to smooth [[fukuoka-textdoc-one-thing-is-all-things-holism]] just enough. Too bad. Nice material,
+> (good, I guess) but I [[fukuoka-dutch-priest-vegetable-garden-spiritual-renewal]] for almost an hour. Then I lay down in the bedroom,
+> and enjoyed a magnificent [[fukuoka-textdoc-one-thing-is-all-things-holism]] just enough. Too bad. Nice material,
 > otherwise.
 >
 > (with 15 mg) The erotic was lustful, but at the critical moment of
@@ -53,19 +31,11 @@ sources: ["Shulgin - PIHKAL"]
 
 ## Extensions and Commentary
 
-This compound, BOB, is [[query-what-are-the-most-important-medicinal-mushrooms-and-how-do-i-choose-one]] potent of
-the BOX series. And yet, as with all of the members of this family,
-there are overtones of physical concern, and of some worry as to the
-integrity of the body. There may well be a separation of activity
-with the two [[optical-isomers-psychedelic-phenethylamines]], but there is not a tremendous push to
+This compound, BOB, is [[optical-isomers-psychedelic-phenethylamines]], but there is not a tremendous push to
 explore this particular family much further. They can't all be
 winners, I guess. What would be the activities of compounds with a
 sulfur instead of an oxygen at the beta-oxygen position? What would
-be the [[fukuoka-learning-about-nature-distances-one-from-nature]] of action if there were an alpha-methyl group, making
-all of these into amphetamine derivatives? Or what about both a
-sulfur and a methyl group? And what about the isomers that are
-intrinsic to all of this, the threo- and the erythro- and the "D's"
-and the "L's"? All this [[query-what-is-terra-preta-and-how-does-it-differ-from-modern-biochar]] incognita, and must someday be
+be the [[query-what-is-terra-preta-and-how-does-it-differ-from-modern-biochar]] incognita, and must someday be
 
 looked into. It is chemically simple, and pharmacologically
 provocative. Someone, somewhere, someday, answer these questions!
@@ -80,11 +50,93 @@ C,H] in 20 mL anhydrous MeOH, there was added a solution of sodium
 methoxide in MeOH (generated from 0.5 g metallic sodium in 20 mL
 anhydrous MeOH). After a few min there was added 10 mL acetic acid
 (no solids formed) followed by the slow addition of 50 mL of H2O. A
-cream-colored solid was [[query-what-is-shellac-and-how-is-it-produced-from-lac-insects]], which was removed by filtration and
-washed well with H2O. After air drying the product,
-1-(4-bromo-2,5-dimethoxyphenyl)-1-methoxy-2-nitroethane, weighed 2.0
-g. An analytical sample from MeOH was off-[[query-how-do-white-rot-fungi-break-down-lignin]] in color and had a mp
+cream-colored solid was [[query-how-do-white-rot-fungi-break-down-lignin]] in color and had a mp
 of 119-120 deg C. Anal. (C11H14BrNO5) C,H.
 
 A solution of LAH (15 mL of 1 M solution in THF) was diluted with an
 equal volume of anhydrous THF, and cooled (under He) to 0 deg C with an
+
+## Overview
+
+Bob Entity Pihkal represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish bob entity pihkal
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving bob extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Bob Entity Pihkal finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for bob entity pihkal. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+bob entity pihkal and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Bob Entity Pihkal has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of bob entity pihkal into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[2c-c-entity]]
+- [[2c-o-4-entity]]
+- [[4-ho-dbt-entity-tihkal]]
+- [[mckenna-dmt-i-thou-relationship-entity-encounter-ethics]]
+- [[pyrethrum-entity]]

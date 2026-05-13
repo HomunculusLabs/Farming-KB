@@ -9,9 +9,7 @@ sources:
 ---
 # Solomon on Growing Brassicas
 
-From [[solomon-gardening-when-it-counts-index]]
-- [[winter-gardening-techniques]]
-- [[root-cellaring-guide]]
+From [[winter-gardening-techniques]]
 - [[root-competition-plant-spacing-solomon]]
 - [[growing-vegetables-with-less-fertilizer]]
 ## Background and Context

@@ -8,7 +8,7 @@ type: concept
 tags: [cannabis, harvesting]
 ---
 
-# [[greg-green-sinsemilla-and-pollination]]'s *The [[query-how-do-i-set-up-co2-supplementation-for-my-cannabis-grow]] Bible* (4th ed.), Chapters 14 and 17.
+# [[query-how-do-i-set-up-co2-supplementation-for-my-cannabis-grow]] Bible* (4th ed.), Chapters 14 and 17.
 
 ## When to Harvest
 
@@ -22,103 +22,91 @@ examine your bud and learn to identify maturity.
 - 50% to 70% of the pistils change color
 - Your plant stops producing crystals
 - Your plant stops producing resin
-- Fan leaves and lower leaves [[query-what-causes-cannabis-leaves-to-turn-yellow]] and start dropping off
-- The smell has reached a peak
-- Bud mass has not increased in the past few days
+- Fan leaves and lower leaves [[blesching-cannabis-emotional-processing-expansive-constricting-emotions]]
+- [[cannabis-grow-harvesting-drying-curing]]
+- [[green-cannabis-grow-bible-breeding-genetics-and-true-breeding]]
 
-Some of these indicators do not appear on every strain, but multiple
-signs confirm readiness.
+## Overview
 
-## Indica Harvest Procedure
+Green Cannabis Harvesting Processing represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
 
-1. Hack the 1-4 foot plant at the base.
-2. Hang upside down in a cool room with no light and fresh air.
-3. Remove as many fan leaves as possible with clippers.
-4. Remove secondary leaves and put in a separate pile.
-5. Gather trim (small resin-covered leaves from the bud).
-6. You now have 4 grades: fan leaf (okay smoke), middle leaves
-   (better), trim (very good), and bud (prime).
+## Key Characteristics
 
-Leave the plant hanging until a branch can break easily between your
-fingers. This takes about 2-3 weeks.
+Several defining characteristics distinguish green cannabis harvesting processing
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
 
-## Sativa Harvest Procedure
+## Ecological Context
 
-Much like Indica but potentially more labor-intensive. Outdoor Sativa
-plants can grow up to 12 feet carrying over 20 oz of bud.
-
-1. Chop the plant at the base and spread on a canvas.
-2. Roll the canvas up and tie down tight for transport.
-3. Hang upside down in a cool room with no light and fresh air.
-4. Large plants may need branches cut and hung separately.
-5. Remove leaves and trim as described in the Indica section.
-
-### Light Warning
-
-Light degrades THC quantities. Do not expose your harvest to any
-direct light. The room does not need to be as light-proof as the grow
-room, but avoid direct light entirely.
-
-## Drying Fan Leaves, Leaves, and Trim
-
-These are cured by leaving them dry on a flat surface, away from direct
-light with plenty of fresh air. Leaves will dry after 3 weeks and are
-smokable at that stage.
-
-**Do NOT speed up drying with ovens, microwaves, or heat.** Let them
-dry normally and you will cure a much better smoke.
-
-## The Curing Process (Canning)
-
-As soon as branches are brittle, begin canning:
-
-1. Find a can or jar with a removable lid (more is better).
-2. Using scissors, clip bud from the branch into the can.
-3. Branches and stems go in the bin (they contain only small THC
-   quantities).
-4. Place the can in a dark room or cupboard.
-5. Every day open the lid for several hours (6 hours is good).
-6. Close the lid again.
-7. Shake the bud around every couple of days.
-
-### Curing Timeline
-
-- **3-4 weeks canning:** Ready for initial sampling
-- **8 weeks total (including hang-dry):** Peak quality -- the pinnacle
-  point of cured bud
-- **1 year:** Vintage but may lose some potency
+The ecological relationships involving green extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
 
 ## Practical Applications
 
-The principles and techniques discussed here have wide-ranging applications
-across multiple disciplines and contexts. Practitioners and researchers
-continue to explore new ways to integrate these concepts into modern practice,
-adapting traditional knowledge to contemporary challenges and opportunities.
+Green Cannabis Harvesting Processing finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
 
-## Key Considerations
+## Management and Implementation
 
-Several important factors influence the effectiveness and outcomes described
-in this topic. Understanding these considerations helps practitioners make
-informed decisions and avoid common pitfalls. Environmental conditions,
-timing, and material selection all play critical roles.
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for green cannabis harvesting processing. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+green cannabis harvesting processing and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
 
 ## Historical Context
 
-The historical development of this subject reflects centuries of accumulated
-knowledge and practical experience. From traditional methods passed down
-through generations to modern scientific approaches, the evolution continues
-to inform current best practices and research directions.
+Green Cannabis Harvesting Processing has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
 
-## Common Challenges
+## Integration Strategies
 
-Practitioners frequently encounter several challenges when working with
-these concepts. Climate variability, resource limitations, and knowledge
-gaps can all affect outcomes. Addressing these challenges requires patience,
-observation, and a willingness to adapt approaches based on results.
+Successful integration of green cannabis harvesting processing into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
 
 ## See Also
-- [[blesching-cannabis-emotional-processing-expansive-constricting-emotions]]
-- [[cannabis-harvesting-techniques]]
-- [[cannabis-grow-harvesting-drying-curing]]
-- [[cannabis-harvesting-and-curing-techniques]]
-- [[green-cannabis-grow-bible-breeding-genetics-and-true-breeding]]
+
+- [[comparison-lupin-vs-crimson-clover-green-manure]]
+- [[green-cannabis-grow-bible-flowering-phase-and-harvest]]
+- [[green-cannabis-grow-bible-plant-training-pruning-and-yield]]
+- [[green-cannabis-grow-bible-soil-and-medium-preparation]]
+- [[urban-permaculture-nitrogen-fixing-green-manures]]

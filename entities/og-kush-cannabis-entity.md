@@ -12,7 +12,7 @@ sources:
 
 # OG Kush
 
-OG Kush is a legendary cannabis strain that originated in Southern California during the early 1990s and became the genetic backbone of modern West Coast [[mckenna-cannabis-culture-history]]. A predominantly indica hybrid with complex, debated lineage — most accounts trace it to a cross between a Chemdawg cutting and a [[hindu-kush]] or Lemon Thai pollinator — OG Kush is renowned for its potent, sedating euphoria, distinctive fuel-citrus-pine aroma, and extraordinary influence on contemporary cannabis breeding. The "OG" designation is variously interpreted as "Ocean Grown" (a reference to its coastal California origins) or "Original Gangster" (a nod to its status as a foundational, elite cultivar). OG Kush has served as a parent or ancestor to hundreds of named cultivars includ girl scout cookies kies, Headband, Skywalker, and countless "OG" variants, making it arguably the most genetically influential cannabis strain of the 21st century.
+OG Kush is a legendary cannabis strain that originated in Southern California during the early 1990s and became the genetic backbone of modern West Coast [[hindu-kush]] or Lemon Thai pollinator — OG Kush is renowned for its potent, sedating euphoria, distinctive fuel-citrus-pine aroma, and extraordinary influence on contemporary cannabis breeding. The "OG" designation is variously interpreted as "Ocean Grown" (a reference to its coastal California origins) or "Original Gangster" (a nod to its status as a foundational, elite cultivar). OG Kush has served as a parent or ancestor to hundreds of named cultivars includ girl scout cookies kies, Headband, Skywalker, and countless "OG" variants, making it arguably the most genetically influential cannabis strain of the 21st century.
 
 ## Strain Classification
 
@@ -38,43 +38,8 @@ Buds are large, dense, and tightly packed, forming chunky, rounded calyx cluster
 ### Cultivation Notes
 - **Flowering time:** 8–9 weeks indoors
 - **Yield:** Moderate; 350–450 g/m² indoors
-- **Difficulty:** Moderate; susceptible to [[cervantes-powdery-mildew-prevention-treatment]] and botrytis in humid conditions
-- **Nutrient needs:** Heavy feeder during flowering; responds well to phosphorus and potassium supplementation
-- **Climate preference:** Warm, dry Mediterranean climate; sensitive to high humidity
-
-## Cannabinoid Profile
-
-| Compound | Typical Range |
-|---|---|
-| THC | 19–26% |
-| CBD | <0.1% |
-| CBG | 0.1–0.5% |
-| THCV | <0.1% |
-| Total cannabinoids | 20–28% |
-
-OG Kush is a high-THC, low-CBD strain typical of modern commercial cannabis. THC levels in well-grown specimens consistently exceed 20%, placing it among the more potent mainstream cultivars. CBD content is negligible, making it unsuitable for CBD-dominant therapeutic applications.
-
-## Terpene Profile
-
-The terpene composition is responsible for OG Kush's distinctive and widely imitated aroma:
-
-- **Myrcene (0.5–1.2%):** Dominant terpene; contributes earthy, musky, herbal notes and potentiates THC sedation
-- **Limonene (0.3–0.8%):** Citrus, lemon-rind character; contributes uplifting mood effects
-- **Caryophyllene (0.2–0.6%):** Peppery, spicy; binds to CB2 receptors; anti-inflammatory
-- **Linalool (0.1–0.3%):** Floral, lavender; anxiolytic and sedative properties
-- **Humulene (0.1–0.3%):** Woody, earthy; appetite suppressant and anti-inflammatory
-- **Pinene (alpha + beta, 0.1–0.4%):** Pine, forest floor; may counteract THC-induced cognitive impairment
-- **Aroma description:** Fuel, diesel, lemon-citrus, pine, earth, with a skunky undertone; the "diesel-lemon-pine" triad is considered the signature OG Kush aromatic fingerprint
-
-## Effects
-
-- **Onset:** Rapid (2–5 minutes when smoked or vaporized); 30–90 minutes for edibles
-- **Initial effects:** Euphoric cerebral uplift, mood elevation, creative stimulation, mild visual enhancement; some users report increased sociability and laughter
-- **Body effects:** Progressive physical relaxation, heaviness in the limbs, muscle tension release, potential couch-lock at higher doses
-- **Duration:** 2–3 hours when inhaled; 4–6 hours for oral ingestion
-- **Common therapeutic applications:** Stress relief, anxiety reduction (low-to-moderate doses), mild-to-moderate pain management, insomnia (evening use), appetite stimulation, nausea relief
-- **[[blesching-cannabis-safety-adverse-effects-evidence]]:** Dry mouth, dry eyes, anxiety/paranoia at high doses (particularly in inexperienced users), couch-lock with heavy consumption, dizziness, potential tachycardia in sensitive individuals
-- **Tolerance:** Moderate; regular users develop tolerance over 1–2 weeks of daily use; [[cannabis-cannabinoid-receptor-pharmacology]] downregulation follows typical [[cervantes-cannabis-tolerance-addiction-pharmacology]] patterns
+- **Difficulty:** Moderate; susceptible to [[blesching-cannabis-safety-adverse-effects-evidence]]:** Dry mouth, dry eyes, anxiety/paranoia at high doses (particularly in inexperienced users), couch-lock with heavy consumption, dizziness, potential tachycardia in sensitive individuals
+- **Tolerance:** Moderate; regular users develop tolerance over 1–2 weeks of daily use; [[cervantes-cannabis-tolerance-addiction-pharmacology]] patterns
 - **Subjective experience:** Widely described as providing a balanced "head high" that transitions into deep body relaxation; the headband-like pressure sensation around the temples is frequently noted (and lent its name to the Headband cross)
 - **Medicinal use:** Increasingly studied for PTSD, chronic pain, and anxiety disorders in legal medical cannabis programs; high THC content makes it popular for patients requiring potent symptom relief
 
@@ -88,3 +53,88 @@ OG Kush has been used as a breeding parent more extensively than almost any othe
 - **Tahoe OG:** OG Kush phenotype selected for increased potency and shorter flowering time (7–8 weeks); favored by commercial growers
 - **Ghost OG:** Cut selected for dense resin production and potent sedation; popular in California medical cannabis community
 - **Larry OG:** OG Kush × unknown — selected for exceptional resin coverage and complex flavor tropicana cookies cana Cookies:** Girl Scout Cookies × Tangie — OG Kush lineage through GSC; known for vibrant orange-purple colorat wedding cake ing Cake:** Girl Scou triangle kush riangle Kush — multiple OG Kush lineages; one of the best-selling strains in US dispensaries (2018– to:** Sunset Sherbet × Thin Mint GSC — OG Kush through GSC lineage; extremely popular for dessert-like flavor and balanced effects
+
+## Overview
+
+Og Kush Cannabis Entity represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish og kush cannabis entity
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving og extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Og Kush Cannabis Entity finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for og kush cannabis entity. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+og kush cannabis entity and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Og Kush Cannabis Entity has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of og kush cannabis entity into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[afghan-kush]]
+- [[bubba-kush]]
+- [[jedi-kush]]
+- [[master-kush]]
+- [[triangle-kush]]

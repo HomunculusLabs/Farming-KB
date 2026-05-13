@@ -12,7 +12,7 @@ type: concept
 
 ## The Fundamental Question
 
-In his correspondence with [[hofmann-ernst-junger-lsd-literary-dialogue]] in December 1961, [[albert-hofmann]]
+In his correspondence with [[albert-hofmann]]
 raised what he considered the fundamental question of drug use: whether
 the use of substances that so deeply affect our minds could not indeed
 represent a forbidden transgression of limits. Hofmann's concern was
@@ -48,20 +48,7 @@ disturb mental states.
 
 ## Radioactivity as Parallel
 
-Hofmann drew a parallel between [[psychedelic-substances-comparison]] and radioactive
-materials. Just as radioactive substances constitute "cracks" in the
-periodic system of elements, where the transition of matter into energy
-becomes manifest, so too do psychedelic substances represent cracks in
-the material realm where mind and matter become perceptibly intertwined.
-He asked whether the production of atomic energy likewise represents a
-transgression of forbidden limits.
-
-## The Problem of Free Will
-
-A further disquieting thought followed from the possibility of influencing
-the highest intellectual functions by traces of a substance: the question
-of free will. The highly active psychotropic substances like LSD and
-[[psilocybin]] possess in their chemical structure a very close relationship
+Hofmann drew a parallel between [[psilocybin]] possess in their chemical structure a very close relationship
 with substances inherent in the body, found in the central nervous system
 and playing an important role in the regulation of its functions.
 
@@ -117,8 +104,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[psilocybin]]
 - [[det]]
-- [[lsd]]
 - [[query-what-are-cannabis-terpenes-and-why-do-they-matter]]
 - [[query-what-is-plant-phenology-and-why-does-it-matter-for-growers]]

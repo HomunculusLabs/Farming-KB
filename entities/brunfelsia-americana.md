@@ -18,11 +18,7 @@ sources:
 
 ## Overview
 
-Brunfelsia americana is a species of evergreen shrub in the family Solanaceae, native to the Caribbean and [[fukuoka-natural-farming-in-tropical-regions]] of the Americas. It is commonly known as Lady of the Night, raintree, or Franciscea, referencing its intensely fragrant flowers.
-
-The plant is renowned for producing clusters of tubular flowers that open creamy-white and gradually turn to pale yellow. The fragrance is strongest in the evening and at night, making it a popular choice for moon gardens.
-
-The common name "Lady of the Night" is shared with several other fragrant night-blooming plants across different families. In horticultural trade, the species is sometimes confused with [[cestrum-nocturnum]] due to similar fragrance profiles.
+Brunfelsia americana is a species of evergreen shrub in the family Solanaceae, native to the Caribbean and [[cestrum-nocturnum]] due to similar fragrance profiles.
 
 Brunfelsia americana is cultivated as an ornamental in tropical and subtropical regions worldwide. Like other Solanaceae species, it contains bioactive alkaloids that have been investigated for pharmacological properties.
 
@@ -46,7 +42,7 @@ Fruits are small, fleshy capsules or berries approximately 1–1.5 cm in diamete
 
 Brunfelsia americana is native to the Greater Antilles, including Cuba, Jamaica, Hispaniola, and Puerto Rico. Its range extends through the Lesser Antilles and into northern South America, particularly Venezuela and Colombia.
 
-The species is also found [[neurotropic-fungi-in-central-america]] from southern Mexico through Panama. It has been introduced and naturalized in parts of Florida, Hawaii, and various [[guzman-allen-gartz-neurotropic-fungi-hawaii-pacific-islands]].
+The species is also found [[guzman-allen-gartz-neurotropic-fungi-hawaii-pacific-islands]].
 
 It grows in moist, shaded or partially shaded habitats in tropical lowland and premontane forests. Typical habitats include forest understory, stream banks, and rocky slopes at elevations from sea level to approximately 1,500 meters.
 
@@ -68,13 +64,7 @@ Fertilization with a balanced slow-release fertilizer applied in spring and mid-
 
 Container cultivation is possible in cooler climates, where the plant can be moved indoors during winter. A minimum temperature of 10°C is required for continued growth.
 
-Cold damage occurs below 2°C, with leaf burn and dieback. Potted specimens should be brought indoors before the first frost in [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]].
-
-## Bioactive Compounds
-
-Brunfelsia species contain a variety of tropane alkaloids and other bioactive compounds. Brunfelsia americana has been reported to contain brunfelsamidine and other indole-derived alkaloids.
-
-These compounds have shown biological activity in preliminary pharmacological studies, including antimicrobial and anti-inflammatory properties. However, clinical studies are limited and the [[metzner-ayahuasca-therapeutic-potential]] remains largely unexplored.
+Cold damage occurs below 2°C, with leaf burn and dieback. Potted specimens should be brought indoors before the first frost in [[metzner-ayahuasca-therapeutic-potential]] remains largely unexplored.
 
 Some Brunfelsia species, particularly Brunfelsia grandiflora, are used in traditional South American medicine. Extracts are prepared as poultices or decoctions for treating skin conditions and inflammation.
 
@@ -87,3 +77,73 @@ Several research groups have isolated and characterized new alkaloids from Brunf
 ## Ecology and Cultural Significance
 
 The night-fragrant flowers of Brunfelsia americana are pollinated by moths and sphinx moths. The tubular flower form and evening scent are adaptations to nocturnal pollination syndromes.
+
+## Overview
+
+Brunfelsia Americana represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish brunfelsia americana
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving brunfelsia extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Brunfelsia Americana finds practical application in multiple design contexts.
+[[permaculture-principles]] guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for brunfelsia americana. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+brunfelsia americana and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Brunfelsia Americana has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of brunfelsia americana into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.

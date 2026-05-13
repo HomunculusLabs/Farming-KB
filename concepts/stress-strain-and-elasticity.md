@@ -13,7 +13,7 @@ sources:
   - "raw/papers/a-golden-guide-to-hallucinogenic-plants.md"
 ---
 
-Stress, strain, and elasticity form the foundational framework of solid mechanics mollison [[mollison-tropical-mulch-systems-and-materials]] systems and materials science, describing how solid bodies deform and recover under applied forces. These concepts are essential for structural design, materials selection, and predicting [[slimy-clump-water-logged-grass-seed-substrate-failure-modes]] in everything from microscopic semiconductor structures to massive bridges and spacecraft.
+Stress, strain, and elasticity form the foundational framework of solid mechanics mollison [[slimy-clump-water-logged-grass-seed-substrate-failure-modes]] in everything from microscopic semiconductor structures to massive bridges and spacecraft.
 
 Understanding the relationship between applied loads and resulting deformation is critical for ensuring safety, durability, and performance. This page covers the fundamental definitions, constitutive laws, yield criteria, anisotropic behavior, viscoelastic effects, and practical measurement techniques that form the backbone of continuum solid mechanics.
 
@@ -59,13 +59,7 @@ Strain energy decomposes into distortional and volumetric components: U = U_dist
 
 The volumetric component is U_vol = (1−2ν)(σ₁+σ₂+σ₃)²/(6E).
 
-This [[decomposition]] underpins the von Mises yield criterion, which assumes yielding depends only on the distortional energy.
-
-## Anisotropy in Materials
-
-Isotropic materials (amorphous metals, fine-grained polycrystals) have identical properties in all directions. **Orthotropic materials** have three mutually perpendicular planes of symmetry with 9 independent elastic constants (E₁, E₂, E₃, G₁₂, G₁₃, G₂₃, ν₁₂, ν₁₃, ν₂₃) and reciprocity relations ν₁₂/E₁ = ν₂₁/E₂.
-
-Wood is a classic orthotropic material: E_along_grain ≈ 9–16 GPa (varies psilocybin-mushroom-potency-comparison-by-species; balsa ~3.7, oak ~[[douglas-fir]] fir ~13), E_radial ≈ 0.6–1.8 GPa (~1/10 of longitudinal), E_tangential ≈ 0.4–1.0 GPa. Carbon fiber/epoxy composites are transversely isotropic (5 independent constants): E₁ ≈ 130–180 GPa along fiber, E₂ ≈ 7–10 GPa transverse, G₁₂ ≈ 5–7 GPa. Quasi-isotropic laminates ([0/±45/90]_s) approximate isotropic in-plane behavior.
+This [[douglas-fir]] fir ~13), E_radial ≈ 0.6–1.8 GPa (~1/10 of longitudinal), E_tangential ≈ 0.4–1.0 GPa. Carbon fiber/epoxy composites are transversely isotropic (5 independent constants): E₁ ≈ 130–180 GPa along fiber, E₂ ≈ 7–10 GPa transverse, G₁₂ ≈ 5–7 GPa. Quasi-isotropic laminates ([0/±45/90]_s) approximate isotropic in-plane behavior.
 
 Cubic metal crystals have 3 independent elastic constants: C₁₁, C₁₂, and C₄₄. The Zener anisotropy ratio Z = 2C₄₄/(C₁₁−C₁₂) measures deviation from isotropy: aluminum Z ≈ 1.22 (nearly isotropic, good for polycrystal approximations), tungsten Z ≈ 1.01 (exceptionally isotropic), iron Z ≈ 2.41, copper Z ≈ 3.21 (significantly anisotropic), and gold Z ≈ 2.85. Single-crystal elastic constants directly influence polycrystal behavior through texture (preferred grain orientation), particularly in rolled sheets and drawn wires where mechanical properties vary with direction relative to the processing direction.
 
@@ -88,3 +82,7 @@ Plastic deformation is permanent, non-recoverable deformation above the yield st
 **Von Mises criterion** (maximum distortional energy, 1913): yielding when the distortional strain energy reaches a critical value: σ_vm = √[½((σ₁−σ₂)² + (σ₂−σ₃)² + (σ₃−σ₁)²)] = σ_y. This defines a circle on the deviatoric (π) plane. More accurate for most ductile metals, the von Mises cylinder circumscribes the Tresca hexagon; maximum difference between them is ~15.5%.
 
 For the general stress state: σ_vm = √(σ_x² + σ_y² + σ_z² − σ_xσ_y − σ_yσ_z − σ_zσ_x + 3τ_xy² + 3τ_yz² + 3τ_zx²).
+
+## See Also
+
+- [[microfungal-life-strategies-ruderal-competitive-stress-tolerant]]

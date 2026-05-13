@@ -15,17 +15,7 @@ type: comparison
 The mind-body problem and the information paradigm of consciousness address the same basic territory from different directions.
 The mind-body problem is a question: how can subjective experience relate to physical matter?
 The information paradigm is a proposed answer: mind and matter may both be forms of organized information.
-[[leary-psychedelic-experience-bardo-mapping]] connects the two because it makes changes in consciousness visible through changes in brain chemistry.
-
-## Basic Comparison
-
-| Feature | Mind-Body Problem | Information Paradigm of Consciousness |
-|---|---|---|
-| Type | Philosophical problem | Explanatory framework |
-| Central concern | Relation between mind and body | Information as common basis of mind and matter |
-| Historical root | Cartesian dualism and its critics | Cybernetics, neuroscience, information theory, psychedelic phenomenology |
-| Main question | How can matter produce or interact with experience? | How does information become organized as conscious experience? |
-| Psychedelic relevance | Shows chemistry altering consciousness | Interprets [[weil-the-natural-mind-altered-states-normalcy]] as expanded information processing |
+[[weil-the-natural-mind-altered-states-normalcy]] as expanded information processing |
 
 ## The Mind-Body Problem
 
@@ -49,23 +39,7 @@ Psychedelics make the comparison unusually concrete.
 A classic psychedelic such as psilocybin begins as a molecule with a physical structure.
 It becomes pharmacologically active after metabolism into psilocin.
 It then modifies serotonergic signaling and large-scale patterns of brain activity.
-The person may experience visual imagery, emotional insight, [[psilocybin-ego-dissolution-mechanisms]], or mystical unity.
-The mind-body problem asks how the final subjective state relates to the physical sequence.
-The information paradigm says the entire sequence is a transformation of information across biological levels.
-
-## Strengths of the Mind-Body Framing
-
-The traditional problem keeps attention on the mystery of subjectivity.
-It prevents scientists from assuming that a neural correlate is the same thing as an explanation.
-It respects the fact that first-person experience cannot be replaced by third-person measurement.
-It also keeps philosophical options open, including materialist, dualist, panpsychist, and neutral monist theories.
-For psychedelic studies, this caution is valuable because intense experiences can be overexplained or underexplained too quickly.
-
-## Weaknesses of the Mind-Body Framing
-
-The mind-body problem can become paralyzing if treated only as an abstract puzzle.
-It may preserve a rigid split between mind and matter that scientific work continually complicates.
-In [[mckenna-suppression-psychedelic-research-lsd-therapy]], the split can make subjective reports seem either supernatural or merely illusory.
+The person may experience visual imagery, emotional insight, [[mckenna-suppression-psychedelic-research-lsd-therapy]], the split can make subjective reports seem either supernatural or merely illusory.
 Neither extreme is adequate for understanding clinical and spiritual outcomes.
 The framework identifies the problem but does not by itself provide a working model for integration.
 
@@ -111,6 +85,5 @@ The comparison therefore reveals a useful division of labor: philosophy preserve
 
 ## See Also
 
-- [[information-paradigm-of-consciousness]]
 - [[psilocybin-mystical-experiences-personality-change]]
 - [[psychedelic-mushroom-set-and-setting]]

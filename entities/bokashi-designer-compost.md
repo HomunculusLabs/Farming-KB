@@ -7,12 +7,12 @@ tags: [farming, composting, fermentation, soil-fertility, korean-natural-farming
 
 ## Description
 
-Bokashi is a Japanese term for "fermented organic matter" — a designer compost that is naturally fortified with macro and micro nutrients (bionutrients) and biodiversed beneficial indigenous microorganisms (BIM). Unlike traditional composting which relies on aerobic decomposition, bokashi uses **anaerobic fermentation** to break down organic materials, resulting in a potent, microbially-rich soil amendment.
+Bokashi is a Japanese term for "fermented organic matter" — a designer compost that is naturally fortified with macro and micro nutrients (bionutrients) and biodiversed [[beneficial-indigenous-microorganisms]] (BIM). Unlike traditional composting which relies on aerobic decomposition, bokashi uses **anaerobic fermentation** to break down organic materials, resulting in a potent, microbially-rich soil amendment.
 
 ## Classification
 
 - **Domain**: Agricultural inputs / Composting method
-- **Origin**: Japan (term), Korea (refined method via Korean Natural Farming)
+- **Origin**: Japan (term), Korea (refined method via [[korean-natural-farming]])
 - **Type**: Fermented organic fertilizer
 - **Related Practices**: Korean Natural Farming (KNF), Effective Microorganisms (EM)
 
@@ -75,7 +75,75 @@ For cultivation specifically, bokashi provides:
 
 ## See Also
 
-- [[bionutrients]]
 - [[lactic-acid-bacteria]]
-- [[imo-indigenous-microorganisms]]
 - [[nutrioperiodism]]
+
+## Overview
+
+Bokashi Designer Compost represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish bokashi designer compost
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving bokashi extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Bokashi Designer Compost finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for bokashi designer compost. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+bokashi designer compost and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Bokashi Designer Compost has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of bokashi designer compost into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.

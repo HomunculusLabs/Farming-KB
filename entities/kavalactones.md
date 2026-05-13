@@ -24,11 +24,7 @@ sources:
 
 ## Overview
 
-- **Class:** Lipophilic lactone compounds from the rhizome of *[[kavain]] | 230.22 | K | GABA-A positive modulation; psychotropic anxiolytic |
-| Dihydrokavain | 232.24 | DHK | Sedation; analgesic properties |
-| Methysticin | 274.27 | M | Sodium channel blockade; neuroprotective |
-| Dihydromethysticin | 276.29 | DHM | Sodium channel blockade; anti-convulsant |
-| Yangonin | 258.27 | Y | CB1 [[cannabis-cannabinoid-receptor-pharmacology]] partial agonist |
+- **Class:** Lipophilic lactone compounds from the rhizome of *[[cannabis-cannabinoid-receptor-pharmacology]] partial agonist |
 | Desmethoxyyangonin | 244.25 | DMY | MAO-B reversible inhibition; dopaminergic |
 
 ## Pharmacology
@@ -60,8 +56,7 @@ sources:
 
 - **Absorption:** Rapid GI absorption; onset 20–40 min
 - **Distribution:** Highly protein-bound; crosses BBB readily; large Vd
-- **Metabolism:** Hepatic via CYP2C9, CYP2C19, CYP3A4; Phase I oxidation + Phase II [[glucuronidation]]
-- **[[cannabis-drug-interactions-and-contraindications]]:** Potential CYP-mediated (warfarin, alprazolam, cimetidine)
+- **Metabolism:** Hepatic via CYP2C9, CYP2C19, CYP3A4; Phase I oxidation + Phase II [[cannabis-drug-interactions-and-contraindications]]:** Potential CYP-mediated (warfarin, alprazolam, cimetidine)
 - **Half-life:** 7–11 hours for kavain; total kavalactone elimination ~9 hours
 - **Excretion:** Renal (glucuronide conjugates); minor biliary
 

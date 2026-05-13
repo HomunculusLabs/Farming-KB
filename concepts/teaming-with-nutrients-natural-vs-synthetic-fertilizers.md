@@ -11,14 +11,9 @@ sources: [raw/papers/lowenfels-jeff-teaming-with-nutrients_-the-organic-garden.m
 
 updated: 2026-04-21
 
-The choice between natural (organic) and synthetic fertilizers has profound consequences for [[teaming-with-microbes-soil-food-web-trophic-structure-and-succession]], and long-term garden productivity. While synthetic fertilizers can supply nutrients in ionic form that plants absorb identically to naturally-derived ions, the broader ecological effects are dramatically different.
+The choice between natural (organic) and synthetic fertilizers has profound consequences for [[photosynthesis-and-chloroplast-function]] is used to synthesize [[plant-nutrient-uptake-mechanisms]], plant defense, and soil structure. Synthetic fertilizers disrupt these relationships.
 
-## Why Natural Fertilizers Are Superior
-
-**Soil food web support:** Natural fertilizers feed the [[photosynthesis-and-chloroplast-function]] is used to synthesize [[mycorrhizal-root-exudates-pathogen-interactions]] that influence pH, microbial diversity, [[plant-nutrient-uptake-mechanisms]], plant defense, and soil structure. Synthetic fertilizers disrupt these relationships.
-
-**[[mollison-designers-tropical-soils-and-cation-exchange-management]] capacity:** [[hamilton-organic-fertilizers-and-plant-nutrition]] add [[hamilton-composting-and-organic-matter-management]] that increases the [[plant-micronutrients-and-their-essential-functions]], trace minerals, cofactors for enzymatic reactions, and organic bulk that feeds the entire soil ecosystem. Natural fertilizers contain their nutrients in bulk, so their use also increases the [[teaming-with-nutrients-composting-and-nutrient-cycling]]
-- [[fertilizer-pollution-environmental-impact]]
+**[[hamilton-organic-fertilizers-and-plant-nutrition]] add [[plant-micronutrients-and-their-essential-functions]], trace minerals, cofactors for enzymatic reactions, and organic bulk that feeds the entire soil ecosystem. Natural fertilizers contain their nutrients in bulk, so their use also increases the [[fertilizer-pollution-environmental-impact]]
 - [[soil-food-web-nutrient-cycling]]
 
 Source: Teaming with Nutrients (Lowenfels), Chapter 10

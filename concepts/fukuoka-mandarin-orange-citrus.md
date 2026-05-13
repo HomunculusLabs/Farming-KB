@@ -10,54 +10,15 @@ sources:
 ---
 # Fukuoka Mandarin Orange and Citrus Orchard
 
-Masanobu Fukuoka's citrus orchard on the hillside above his farm in Ehime Prefecture, Shikoku, stands as one of the most compelling demonstrations of [[fukuoka-white-clover-ground-cover]]) moved in spontaneously, fixing nitrogen. Shrubs established. The soil began to soften as earthworms and other organisms multiplied. The red clay transformed into darker, more friable earth.
+Masanobu Fukuoka's citrus orchard on the hillside above his farm in Ehime Prefecture, Shikoku, stands as one of the most compelling demonstrations of [[fukuoka-natural-orchard-development]] because:
 
-### Stage 3: Balanced Ecosystem (Years 10-30)
-A complex multi-layered system emerged with mandarin oranges as the canopy, various understory plants, and a rich ground cover. The orchard became self-maintaining. "Trees grown without fertilizer have shallower roots than fertilized trees, but they have a broader root spread." This broader, shallower network proves more resilient during typhoons.
-
-## The Layered Planting System
-
-Fukuoka's orchard is not a monoculture of mandarin oranges but a multi-layered polyculture:
-
-- **Canopy layer**: Mandarin orange trees, some persimmons, other fruit trees
-- **Shrub layer**: Loquat, citrus seedlings that serve as rootstock
-- **Ground cover layer**: Clover, legumes, various grasses, and weeds -- never cleared
-- **Vining layer**: Yam, kudzu, and other vines that grow freely
-
-He planted rootstock (seedling citrus trees) throughout the orchard, allowing them to grow and then cutting them down to serve as green manure when they reached about six feet tall. This created a constant cycle of organic matter being returned to the soil surface.
-
-## No Pruning
-
-Fukuoka strongly opposed the heavy pruning practiced by conventional citrus growers. He observed that:
-
-- Pruned trees grow tall and leggy with weak branches
-- Unpruned trees develop natural, compact shapes that resist wind damage
-- Pruning wounds are entry points for disease
-- Pruning stimulates excessive vegetative growth that is more susceptible to insects
-- Natural trees balance their own root-to-shoot ratio
-
-His unpruned mandarin oranges developed a dense, compact form quite different from the open, widely spaced canopies of commercial orchards. During typhoons, his trees withstood winds that toppled heavily pruned commercial trees nearby.
-
-## No Spraying
-
-Insects and disease are not problems in the [[fukuoka-natural-orchard-development]] because:
-
-- A balanced ecosystem supports natural predators (spiders, [[comparison-predatory-mites-vs-ladybugs-biocontrol]], parasitic wasps)
-- Healthy trees on healthy soil have natural resistance
-- The diversity of plants in the orchard breaks up pest cycles
-- Weeds and ground cover provide [[query-how-do-i-design-habitat-for-beneficial-insects]] organisms
+- A balanced ecosystem supports natural predators (spiders, [[query-how-do-i-design-habitat-for-beneficial-insects]] organisms
 
 Fukuoka notes that when a pest does appear, it is usually a sign that the ecosystem is out of balance -- often caused by human intervention. "If a tree is attacked by insects, it is because something is wrong with the tree. The insects are merely the messengers."
 
 ## No Fertilizer
 
-Fukuoka applied no chemical or [[complete-organic-fertilizer-cof-recipe-solomon]] to his orchard after the initial years. The fertility cycle is maintained by:
-
-- **Leguminous ground cover** fixing nitrogen
-- **Decomposing plant material** from cut seedling trees, fallen leaves, and weeds
-- **Natural leaf fall** returning nutrients to the soil surface
-- **Deep root systems** accessing mineral nutrients from subsoil layers
-- **[[dighton-mycorrhizal-networks-carbon-transfer]]** connecting tree roots and transporting nutrients
+Fukuoka applied no chemical or [[dighton-mycorrhizal-networks-carbon-transfer]]** connecting tree roots and transporting nutrients
 
 The result: "After a few years of not spraying, the trees were stronger and less susceptible to disease and insect damage." The fruit, while smaller than chemically-grown mandarins, was sweeter, richer in flavor, and free of pesticide residues.
 
@@ -86,9 +47,7 @@ The orchard stands as proof that permanent tree crop systems can be productive w
 
 ## Related
 
-- [[fukuoka-ground-cover-strategy]] -- the ground cover approach
 - [[four-principles-of-natural-farming]] -- the four principles
-- [[cannabis-cancer-symptom-management]]
 - [[fukuoka-citrus-orchard-ground-cover-cultivation]]
 
 ## Practical Applications
@@ -120,8 +79,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[masanobu-fukuoka]]
 - [[mycorrhiza]]
-- [[fukuoka-textdoc-search-natural-form-citrus-trees]]
 - [[fukuoka-textdoc-citrus-orchard-soil-building-without-fertilizer]]
 - [[fukuoka-mite-scale-microclimate-control-citrus-orchard]]

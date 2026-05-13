@@ -65,10 +65,7 @@ drop in blood pressure (both systolic and diastolic) as well as a drop in
 intraocular pressure. Scientists noted that the increase in heart rate
 allowed the body to maintain adequate perfusion (cardiac output) while
 lowering both blood and intraocular pressures in a parallel fashion,
-potentially good news for patients with [[blesching-cannabis-cardiovascular-health]].
-
-An animal trial from the University of Nottingham Medical School (2009)
-discovered that intravenously administered [[anandamide]] (a naturally
+potentially good news for patients with [[anandamide]] (a naturally
 occurring cannabinoid often referred to as the body's own THC) lowered
 blood pressure in hypertensive rats but did not affect rats with normal
 blood pressure. Anandamide achieved the pressure-lowering effects through
@@ -81,9 +78,7 @@ triggering commonly associated side effects.
 | Drug | Study Type | Year, Place, Key Results | CHI |
 |------|-----------|--------------------------|-----|
 | Anandamide & WIN55,212-2 | Animal (rats) | 2009, Nottingham UK: Endocannabinoid anandamide and synthetic WIN55,212-2 lowered high blood pressure through vasodilatation | 2 |
-| 2.8% THC inhalation | Human [[psilocybin-clinical-trial-landscape-2020-2025]] | 1976, Howard Univ. Hospital, Washington DC: Reduction in blood pressure and intraocular pressure while maintaining adequate perfusion | 3 |
-
-**Total [[blesching-cannabis-prostate-cancer-chi-value-3]]: 5**
+| 2.8% THC inhalation | Human [[blesching-cannabis-prostate-cancer-chi-value-3]]: 5**
 
 ### Strain-Specific Considerations
 
@@ -118,8 +113,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[doc]]
 - [[psilocybin]]
-- [[det]]
 - [[anandamide]]
 - [[blesching-cannabis-hypertension-cardiovascular-effects]]

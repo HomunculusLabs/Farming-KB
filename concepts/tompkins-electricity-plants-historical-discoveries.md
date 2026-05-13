@@ -15,15 +15,13 @@ type: concept
 The relationship between electricity and plant life has fascinated
 scientists and natural philosophers for over two and a half centuries.
 From the earliest experiments of Abbe Nollet in the 1740s to the
-modern work on [[tompkins-electroculture-plant-growth]],
-[[tompkins-plant-electrical-signals]]. The
+modern work on [[tompkins-plant-electrical-signals]]. The
 pioneers described here established the fundamental questions that
 continue to drive research at the intersection of physics and plant
 biology.
 
 ## See Also
 
-- [[tompkins-magnetism-plant-growth]] - Magnetic effects on plants
 - [[plants-and-electromagnetism]] - Broader electromagnetic context
 ## Practical Applications
 

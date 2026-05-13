@@ -18,8 +18,7 @@ growth requirements, and substrate preferences. Understanding these differences
 is essential for cultivators selecting appropriate species for their conditions
 and markets.
 
-For cultivation techniques and [[oss-oeric-growing-parameters-cubensis]] by species,
-see [[oyster-mushroom|oyster mushroom cultivation]].
+For cultivation techniques and [[oyster-mushroom|oyster mushroom cultivation]].
 
 ## Pleurotus ostreatus
 
@@ -33,12 +32,7 @@ Pleurotus ostreatus is a cold-tolerant species that fruits optimally at 12 to
 18 degrees Celsius. It can fruit at temperatures as low as 5 degrees C, making
 it suitable for cultivation in cool climates and during winter months in
 temperate regions. It colonizes a wide range of substrates including straw,
-sawdust, paper, and agricultural residues. [[stamets-biological-efficiency-yield]] on supplemented
-straw typically ranges from 75 to 150 percent.
-
-## Pleurotus pulmonarius
-
-Known as the [[growing-gourmet-phoenix-oyster-pulmonarius-cultivation]] or Indian oyster, this species is more
+sawdust, paper, and agricultural residues. [[growing-gourmet-phoenix-oyster-pulmonarius-cultivation]] or Indian oyster, this species is more
 heat-tolerant than P. ostreatus, fruiting well at 18 to 28 degrees C. It has a
 faster colonization rate and shorter cropping cycle, often producing the first
 harvest within 14 to 18 days of spawning. Caps are generally smaller and thinner
@@ -47,8 +41,7 @@ than P. ostreatus, with a white to pale brown coloration.
 P. pulmonarius is popular in tropical and subtropical regions where warm
 temperatures make P. ostreatus cultivation difficult. Its rapid growth cycle
 allows for more flushes per year, compensating for somewhat lower individual
-flush weights. It also performs well on [[oyster-mushroom-coffee-grounds-cultivation]] and other nitrogen-rich
-[[tropical-mushroom-cultivation-agricultural-waste-substrates-poverty-alleviation]].
+flush weights. It also performs well on [[tropical-mushroom-cultivation-agricultural-waste-substrates-poverty-alleviation]].
 
 ## Pleurotus eryngii
 

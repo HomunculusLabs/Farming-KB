@@ -13,72 +13,13 @@ growers alike. They are aggressive colonizers, grow on dozens of
 substrates, fruit prolifically, and have broad market appeal.
 From Cotter's "Organic Mushroom Farming and Mycoremediation."
 ## Species and Varieties
-- **[[cancer-medicinal-mushrooms-pleurotus-ostreatus]]** (Blue/Gray oyster): Standard
-  cold-weather oyster, fruits at 50-70F
 - **[[pleurotus-pulmonarius]]** (Phoenix oyster): Warm-weather
   relative, more heat-tolerant
-- **[[pleurotus-eryngii]]** (King oyster/Trumpet): Thick-stemmed,
-  meaty texture, fruits at 55-65F
 - **[[pleurotus-citrinopileatus]]** (Golden oyster): Bright yellow,
   nutty cashew flavor, prefers warmth
 - **Pleurotus djamor** (Pink oyster): Vibrant pink color,
   tropical, requires 70-85F
-- **[[pleurotus-columbinus]]** (Blue oyster): Distinctive blue-gray
-  coloration
-- Difficulty ranking: Indoor 1 / Outdoor 1 (easiest to fruit)
-## General Characteristics
-- Primary decomposers: break down raw lignin and cellulose
-- Mycelium is white, cottony to rhizomorphic, fast-growing
-- Will grow on virtually any non-coniferous substrate
-- Some strains are generalists that devour almost anything
-- Can be trained to adapt to different environmental conditions
-- Strains can be trained to remediate contaminants beyond
-  normal tolerance levels
-- Strong mycelial tenacity makes them useful for mycofiltration
-## Preferred Substrates
-### Indoor Cultivation
-- Pasteurized wheat straw (most common, high yielding)
-- Sterilized supplemented hardwood sawdust (5% wheat or rice
-  bran)
-- Spent coffee grounds (free, nitrogen-rich)
-- Cotton hulls, cornstalks, and other agricultural waste
-- Shredded paper and cardboard
-### Outdoor Cultivation
-- Hardwood logs (oak, maple, beech, birch) — cut within 1 month
-- Hardwood stumps and buried rounds
-- Wood chip beds along pathways and garden edges
-- Straw bales (inoculated by drilling holes and stuffing spawn)
-- Spent brewery grain (must be used quickly before spoilage)
-## Indoor Cultivation Method
-### Pasteurized Straw Method
-1. Shred wheat straw to 2-4 inch pieces
-2. Soak in water for 12-24 hours, then drain to field capacity
-3. Pasteurize by hot water immersion at 165-175F for 1-2 hours
-4. Cool to below 90F
-5. Mix with grain spawn (10-15% by weight) in a clean container
-6. Pack into autoclave bags or columns, filling loosely
-7. Incubate at 70-80F in darkness
-8. Full colonization in 2-3 weeks
-9. Cut holes or slits in bags for fruiting; expose to light
-10. Maintain 85-95% humidity; mist 2-3 times daily
-11. Mushrooms appear in 7-14 days; harvest when cap edges curl
-### Supplemented Sawdust Method
-1. Mix hardwood sawdust with 5% wheat or rice bran (dry weight)
-2. Hydrate to field capacity
-3. Sterilize at 15 PSI for 2 hours
-4. Cool and inoculate with grain or sawdust spawn
-5. Incubate 2-3 weeks at 77F
-6. Initiate fruiting by cutting bags and exposing to light
-## Fruiting Conditions
-- Temperature: 50-75F depending on species
-- Humidity: 85-95% relative humidity
-- Light: Indirect or diffuse light; some species need only
-  brief light pulses
-- Fresh air exchange (FAE): Critical for proper fruitbody
-  development
-- High CO2 during colonization; lower CO2 triggers fruiting
-## Expected Yields
-- [[biological-efficiency]] of 50-100% (pounds of mushrooms per
+- **[[biological-efficiency]] of 50-100% (pounds of mushrooms per
   pound of dry substrate)
 - Typically 2-3 flushes per batch, 2-3 weeks apart
 - First flush is largest; subsequent flushes decline
@@ -118,8 +59,91 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[oyster-mushroom-cultivation]]
 - [[oyster-mushroom]]
-- [[mushroom-cultivation]]
 - [[oyster-mushrooms]]
 - [[fruiting-conditions]]
+
+## Overview
+
+Cotter Oyster Mushroom Cultivation represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish cotter oyster mushroom cultivation
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving cotter extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Cotter Oyster Mushroom Cultivation finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for cotter oyster mushroom cultivation. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+cotter oyster mushroom cultivation and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Cotter Oyster Mushroom Cultivation has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of cotter oyster mushroom cultivation into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[cotter-agar-tissue-culture-techniques]]
+- [[cotter-mushroom-garden-design]]
+- [[cotter-mushroom-infused-beer-wine-and-spirits]]
+- [[cotter-off-grid-mushroom-cultivation]]
+- [[cotter-pasteurization-sterilization-methods]]

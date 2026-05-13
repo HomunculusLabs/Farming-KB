@@ -16,14 +16,7 @@ Fukuoka attended two international conferences during his
 1985 American tour. These gatherings brought together
 leading voices in alternative agriculture and revealed both
 the promise and the limitations of the movement to transform
-farming. See also [[fukuoka-european-civilization-standstill]].
-
-## The First Conference: Olympic College
-
-The first conference took place at Olympic College in
-Washington, on a campus thickly forested with large trees.
-About 600 participants attended. The opening remarks were
-given by a [[halpern-sacramental-peyote-and-native-american-church]] professor wearing a feather
+farming. See also [[halpern-sacramental-peyote-and-native-american-church]] professor wearing a feather
 headdress and beautiful ceremonial costume, who asked what
 human knowledge is while making reference to old American
 Indian legends.
@@ -35,11 +28,7 @@ Three main presentations were given:
    allowing farming to be continued permanently on the same
    land in contrast with modern agriculture that exploits
    the soil. He seemed to be raising quite a following of
-   [[coleman-deep-organic-farming-philosophy]] advocates throughout Australia.
-
-2. **Wes Jackson** of the University of California promoted
-   energy-saving agricultural methods. His main thrust was
-   that unless [[natural-farming-methods-comparison]] which reduce the consumption
+   [[natural-farming-methods-comparison]] which reduce the consumption
    of energy to an absolute minimum are widely adopted,
    farming has no future. He seemed to be searching for new
    methods while remaining basically supportive of science.
@@ -86,7 +75,7 @@ agriculture in the audience.
 ## Fukuoka's Philosophical Presentation
 
 Fukuoka began by talking about what had led him as a young
-man to become a proponent of [[fukuoka-food-civilization-critique]] and [[fukuoka-road-sound-of-my-footsteps]]
+man to become a proponent of [[fukuoka-road-sound-of-my-footsteps]]
 
 ## Practical Applications
 
@@ -117,8 +106,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[permaculture]]
 - [[fukuoka-road-touring-europe-geta-monpe]]
-- [[fukuoka-road-european-culture-of-food]]
 - [[fukuoka-textdoc-three-stage-collapse-knowledge-destruction-failure]]
 - [[fukuoka-natural-orchard-three-dimensional-design]]

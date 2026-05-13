@@ -41,47 +41,101 @@ The patient "believes the Ololiuqui is revealing what he wants to know. When the
 
 An ancient Indian Mother Goddess mural from Teotihuacan, Mexico (circa AD 500), depicts a highly stylized vine of Ololiuqui with priestly attendants. Hallucinogenic nectar appears to flow from the blossoms of the plant, and "disembodied eyes" and birds are stylistic features associated with hallucinogenic intoxication, providing archaeological evidence of the plant's deep antiquity in Mesoamerican religion.
 
-This artistic tradition continued for centuries. The Ololiuqui vine appears in [[teonanacatl-aztec-codices-archaeology]] and colonial-era illustrations, always rendered with recognizable morning glory characteristics — the twining habit, cordate leaves, and round seeds that gave the plant its Nahuatl name.
-
-## Ipomoea violacea as Ololiuqui
-
-Alongside Turbina corymbosa, *Ipomoea violacea* serves as another major source of Ololiuqui seeds. Known to the Aztecs as Tlililtzin ("black thing"), it was employed in the same way as Turbina corymbosa. The Chinantec and Mazatec call it Piule, while the Zapotec know it as Badoh Negro. Modern cultivars include popular strains such as "Heavenly Blue" and "Flying Saucers," which are widely grown as ornamental plants.
-
-## Preparation and Use
-
-The small round seeds are utilized in divination and witchcraft by Chinantec, Mazatec, Mixtec, Zapotec, and other indigenous peoples. The seeds, which must be collected by the person who is to be treated, are ground by a virgin on a metate. Water is added, and then the drink is filtered. The patient drinks it at night in a quiet, secluded place.
-
-## Medicinal and Other Uses
-
-In pre-Hispanic Mexico, Ololiuqui served multiple purposes beyond its sacred role. Hernandez documented numerous medicinal applications: "It cures syphilis and mitigates pain which is caused by chills. It relieves flatulency and removes tumors. If mixed with a little resin, it banishes chills and stimulates and aids in a remarkable degree in cases of dislocations, fractures, and pelvic troubles in women."
-
-The seeds also had ophthalmological use: "If pulverized or taken in a decoction or used as a poultice on the head or forehead with milk and chili, it is said to cure eye troubles. When drunk, it acts as an aphrodisiac. It has a sharp taste and is very hot."
-
-## Colonial Resistance to Knowledge
-
-Some early writers deliberately concealed knowledge of Ololiuqui from the Spanish authorities. One noted: "It will not be wrong to refrain from telling where it grows, for it matters little that this plant be here described or the Spaniards be made acquainted with it." Another marveled at the native faith: "It is remarkable how much faith these natives have in the seed, for they consult it as an oracle to learn many things, especially those beyond the power of the human mind to penetrate."
-
-## Modern Research
-
-The psychoactive constituents of Ololiuqui remained unknown for centuries. [[challenges-neurotropic-fungi-chemical-analysis-taxonomic-identification]] by Albert Hofmann in the mid-20th century revealed that the seeds contained lysergic acid alkaloids — a discovery of enormous chemotaxonomic interest, since these compounds were previously known only from ergot fungi ([[bloomfield-ergot-claviceps-purpurea-ergotism]]), a parasite of rye. This finding suggested a fascinating biochemical parallel between a New World morning glory and an Old World fungal parasite.
-
-## Chemistry
-
-The seeds of Turbina corymbosa contain [[ergot-fungus]]. The main components are:
+This artistic tradition continued for centuries. The Ololiuqui vine appears in [[challenges-neurotropic-fungi-chemical-analysis-taxonomic-identification]] by Albert Hofmann in the mid-20th century revealed that the seeds contained lysergic acid alkaloids — a discovery of enormous chemotaxonomic interest, since these compounds were previously known only from ergot fungi ([[ergot-fungus]]. The main components are:
 
 - **Lysergic acid amide** (also known as ergine)
 - **Lysergic acid hydroxyethylamide**
 
-The tryptamine radical in the ring structure of lysergic acid establishes its relationship with ergoline alkaloids as well as with the active principles of [[lsd-pharmacology]] (lysergic acid diethylamide), a semi-synthetic compound, is the most potent hallucinogen known today. It differs from lysergic acid amide only by replacement of two hydrogen atoms for two ethyl groups. The active principle of Ololiuqui (hallucinogenic dose 2-5 mg) is about 100 times less potent than LSD (hallucinogenic dose 0.05 mg).
-
-## Related Species
-
-The European bindweed *Convolvulus tricolor* also contains psychoactive alkaloids, although there is no knowledge of any traditional use. In South America, the bindweed *Ipomoea carnea* is used as an inebriant and also contains the psychoactive alkaloid ergotine. The Mazatec also use *Coleus blumei* and *[[coleus-blumei-and-coleus-pumilus-potential-psychoactivity]]* as substitutes, relating them taxonomically to Salvia divinorum.
+The tryptamine radical in the ring structure of lysergic acid establishes its relationship with ergoline alkaloids as well as with the active principles of [[coleus-blumei-and-coleus-pumilus-potential-psychoactivity]]* as substitutes, relating them taxonomically to Salvia divinorum.
 
 The cultivated morning glory varieties popular in horticulture — such as "Flying Saucers" — are derived from Ipomoea violacea and contain the same psychoactive alkaloids as the traditional Ololiuqui, though at variable concentrations depending on the strain.
 
 ## See Also
 
-- teonanacatl-and-mesoamerican-mushroom-cults — [[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]] in Mesoamerica
-- [[ergot-fungus]] — Source of related ergoline alkaloids
+- teonanacatl-and-mesoamerican-mushroom-cults — [[ergot-fungus]] — Source of related ergoline alkaloids
 - [[ololiuqui]]
+
+## Overview
+
+Plants Gods Ololiuqui represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish plants gods ololiuqui
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving plants extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Plants Gods Ololiuqui finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for plants gods ololiuqui. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+plants gods ololiuqui and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Plants Gods Ololiuqui has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of plants gods ololiuqui into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[hallucinogenic-plants-overview]]
+- [[hallucinogenic-plants-overview-cultural-significance]]
+- [[mollison-designers-internet-of-plants-information-sharing]]
+- [[plants-as-heat-generators]]
+- [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]]

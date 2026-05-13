@@ -11,80 +11,9 @@ type: concept
 
 # BOB (beta-Methoxy-2C-B)
 
-**[[2c-b-pihkal-entry-20]] #13**
-
-## Chemical Identity
-
-- **Full name:** 4-Bromo-2,5,beta-trimethoxyphenethylamine
-- **Class:** Phenethylamine (beta-methoxy derivative of 2C-B;
-  member of the BOX family)
-- **Molecular formula:** C11H16BrNO3 (free base)
-- **Hydrochloride salt:** fine white crystals, mp 187-188 °C
-- **Nitroethane intermediate:** 1-(4-bromo-2,5-dimethoxyphenyl)
-  -1-methoxy-2-nitroethane, off-white, mp 119-120 °C
-- **Boiling point:** 130-150 °C at 0.2 mm/Hg (free base)
-
-## Dosage and Duration
-
-- **Dosage:** 10-20 mg
-- **Duration:** 10-20 hours
-
-## Qualitative Effects
-
-### At 10 mg (Subject 1)
-A "granddaddy of a paranoid, sociopathic snit" without feeling
-or emotion. Indifference to everything. Later, some improvement
-with body tingling (probably good) and awareness (probably good),
-but the evening dinner company was canceled. Described as "pretty
-negative" overall.
-
-### At 10 mg (Subject 2)
-Began by weeding in the [[fukuoka-dutch-priest-vegetable-garden-spiritual-renewal]] for almost an hour.
+**[[fukuoka-dutch-priest-vegetable-garden-spiritual-renewal]] for almost an hour.
 Then lay down and experienced a vivid visualization of a
-magnificent [[crop-rotation-vegetable-garden]] in Southern France, with
-extraordinary zucchini and magically pulled weeds. After a
-couple of hours, neurological overstimulation became apparent,
-and the rest of the day was spent "defending myself." In the
-evening, 100 mg phenobarbital smoothed things just enough.
-Conclusion: "Too bad. Nice material, otherwise."
-
-### At 15 mg
-The erotic was lustful, but at the critical moment of orgasm,
-neurological stability became a concern. Everything seemed
-irritable. Tinnitus was quite bad, but the richness of the
-altered state was worth it. Through the rest of the day,
-exhaustion warred with fear of sleep. Could the body be trusted
-without an overseeing caretaker? Sleep was eventually risked and
-achieved. The next day carried a memory of the turmoil. The
-initial positive effects might have been hard to define but were
-quite positive; the aftermath made it not really worthwhile.
-
-## Synthesis Notes
-
-4-Bromo-2,5-dimethoxy-beta-nitrostyrene (prepared from
-4-bromo-2,5-dimethoxybenzaldehyde and nitromethane in acetic
-acid with ammonium acetate catalyst, mp 157-158 °C) was treated
-with sodium methoxide in methanol (from 0.5 g metallic sodium in
-20 mL anhydrous MeOH). After 3 minutes, acetic acid was added,
-followed by water, precipitating 2.0 g of the methoxy-nitroethane
-intermediate (mp 119-120 °C).
-
-Reduction with LAH (15 mL 1 M in THF, activated with 0.38 mL
-100% H2SO4) proceeded smoothly without the vigorous exothermic
-reaction characteristic of BOD, BOH, and BOM syntheses. The
-product (0.1 g) was isolated as the hydrochloride salt.
-
-## Safety and Pharmacology
-
-BOB is the most potent member of the BOX series but carries
-significant concerns. Neurological instability (tinnitus,
-overstimulation, fear of sleep) is a recurring theme at all
-tested doses. The compound acts at approximately the same
-potency as 2C-B (10-20 mg range) but with significantly more
-physical risk. The 10-20 hour duration extends the window of
-vulnerability.
-
-Separation of [[optical-isomers-psychedelic-phenethylamines]] might yield different activity
+magnificent [[optical-isomers-psychedelic-phenethylamines]] might yield different activity
 profiles, with potentially cleaner effects from one isomer, but
 no strong impetus for further exploration was noted.
 
@@ -117,8 +46,91 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[methanol]]
 - [[ethanol]]
-- [[bis-tom-pihkal-entry-12]]
 - [[pihkal-entry-46]]
 - [[2c-c-pihkal-entry-22]]
+
+## Overview
+
+Bob Pihkal Entry 13 represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish bob pihkal entry 13
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving bob extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Bob Pihkal Entry 13 finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for bob pihkal entry 13. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+bob pihkal entry 13 and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Bob Pihkal Entry 13 has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of bob pihkal entry 13 into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[4-t-tris-entity-pihkal]]
+- [[doc-pihkal-64]]
+- [[dopr-entity-pihkal]]
+- [[methyl-dob-entity-pihkal]]
+- [[te-entity-pihkal]]

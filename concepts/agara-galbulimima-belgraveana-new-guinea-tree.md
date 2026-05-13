@@ -28,13 +28,7 @@ family related to the magnolias.
 Galbulimima belgraveana is a tall forest tree native to the rainforests of
 Malaysia and Australia, with its most significant ethnobotanical use
 documented in Papua New Guinea. The tree is one of four species in the
-genus Galbulimima, all of which are found in [[tropical-rainforest-seedling-mycorrhiza-ecological-restoration]] habitats
-in the Australasian region. The genus is distributed across New Guinea,
-northeastern Australia, and parts of the Malay Archipelago, where it
-occupies a place in the canopy or subcanopy of primary and secondary
-rainforests.
-
-The wide [[geographic-distribution-of-psilocybe-species]] Galbulimima across multiple countries
+genus Galbulimima, all of which are found in [[geographic-distribution-of-psilocybe-species]] Galbulimima across multiple countries
 and indigenous cultural areas suggests that its psychoactive properties may
 have been discovered independently by different peoples. However, detailed
 documentation of traditional use outside of Papua New Guinea is limited,
@@ -57,7 +51,7 @@ intoxication, followed by a deep sleep during which the user experiences
 visions and fantastic dreams. This progression from initial agitation or
 disorientation through sedation to a visionary dream state is reminiscent
 of the effects produced by several other psychoactive plant preparations,
-particularly those containing [[mckenna-witch-ointments-tropane-alkaloids-flying-salves]] tropane alkaloids flying salves tropane alkaloids [[schultes-witches-ointments-flying-salves]], which typically produce an
+particularly those containing [[schultes-witches-ointments-flying-salves]], which typically produce an
 initial period of delirium and agitation before settling into a state of
 sedation and hallucination.
 
@@ -118,8 +112,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[galbulimima-belgraveana]]
 - [[doc]]
-- [[det]]
 - [[mycorrhiza]]
 - [[neurotropic-fungi-new-guinea]]

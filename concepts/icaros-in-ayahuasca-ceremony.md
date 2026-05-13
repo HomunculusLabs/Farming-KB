@@ -7,9 +7,8 @@ created: 2026-05-09
 
 # Icaros in Ayahuasca Ceremony
 
-Icaros are sacred songs sung by ayahuasqueros ([[shipibo-ayahuasca-shamans-practice]]) during
-ceremonial sessions. They are a central element of [[amazonian-shamanic-battles-and-defensive-powers]] practice,
-particularly among the [[shipibo-people-and-ayahuasca-tradition]] of Peru's [[ayahuasquero-practitioner-profiles-ethics-ucayali-region]]. Icaros serve
+Icaros are sacred songs sung by ayahuasqueros ([[amazonian-shamanic-battles-and-defensive-powers]] practice,
+particularly among the [[ayahuasquero-practitioner-profiles-ethics-ucayali-region]]. Icaros serve
 multiple functions within the ceremony: they structure the ritual experience,
 guide the visionary content of participants, invoke protective spirits, and are
 considered by practitioners to have active healing and energetic properties.
@@ -18,7 +17,7 @@ considered by practitioners to have active healing and energetic properties.
 
 The word "icaro" (also spelled "ikaro") derives from the Quechua language and
 refers to the melodic, often improvisational songs performed by shamans during
-[[metzner-amazonian-ayahuasca-ceremonies-icaros-and-healing-methods]] and other [[shamanic-entheogenic-healing-rituals]]. Among the Shipibo, icaros are
+[[shamanic-entheogenic-healing-rituals]]. Among the Shipibo, icaros are
 considered to be received through visionary contact with plant spirits during
 the shaman's own dietas (periods of retreat and plant apprenticeship). Each
 shaman develops a personal repertoire of icaros over years of training, and
@@ -118,8 +117,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[ayahuasca-ceremony]]
 - [[ayahuasca]]
-- [[icaros]]
 - [[ayahuasqueros]]
 - [[icaro]]

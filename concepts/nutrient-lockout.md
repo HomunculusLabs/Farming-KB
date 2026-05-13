@@ -10,7 +10,7 @@ tags: [nutrients]
 
 # Nutrient Lockout in Cannabis
 
-Nutrient lockout occurs when nutrients present in the [[cervantes-green-algae-growing-medium]] or solution become unavailable for plant uptake, despite being physically present. This is one of the most frustrating problems for cannabis growers because plants show [[knf-calcium-deficiency-symptoms]] even when nutrients have been properly applied.
+Nutrient lockout occurs when nutrients present in the [[knf-calcium-deficiency-symptoms]] even when nutrients have been properly applied.
 
 ## What Is Nutrient Lockout?
 
@@ -18,7 +18,7 @@ Nutrient lockout is a condition where one or more essential nutrients cannot be 
 
 - **Incorrect pH**: The most common cause — pH outside the optimal range changes the chemical form of nutrients
 - **Nutrient antagonism**: Excess of one nutrient makes another unavailable
-- **[[cervantes-salt-buildup-leaching-management]]**: Toxic [[jadam-salt-accumulation-in-soil]] in the growing medium locks up nutrients
+- **[[jadam-salt-accumulation-in-soil]] in the growing medium locks up nutrients
 - **Chemical precipitation**: Nutrients combine into insoluble compounds
 
 ## pH-Related Lockout

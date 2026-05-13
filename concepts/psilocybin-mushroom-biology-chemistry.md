@@ -11,11 +11,7 @@ Updated: 2026-04-18
 
 ## Overview
 
-[[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]] — commonly called "[[guzman-magic-mushrooms-african-species]]" or simply "shrooms" — contain the psychoactive compounds psilocybin, psilocin, and baeocystin. These indole alkaloids (tryptamines) are structurally similar to serotonin and produce profound alterations in consciousness when consumed. The "Shroom: A [[shroom-cultural-history-hippie-revolution-and-counterculture]]" source provides a detailed account of the biology, chemistry, and effects of these remarkable fungi.
-
-Source: aztec-mushroom-feasts-and-revelations
-- [[telluride-mushroom-festival-modern-mycological-culture]]
-- [[psilocybin-mushroom-species-overview]]
+[[guzman-magic-mushrooms-african-species]]" or simply "shrooms" — contain the psychoactive compounds psilocybin, psilocin, and baeocystin. These indole alkaloids (tryptamines) are structurally similar to serotonin and produce profound alterations in consciousness when consumed. The "Shroom: A [[telluride-mushroom-festival-modern-mycological-culture]]
 - [[witches-fungi-and-flying-ointments]]
 ## Background and Context
 

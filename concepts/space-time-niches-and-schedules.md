@@ -6,12 +6,7 @@ type: concept
 
 # Space-Time Niches and Schedules
 
-Space-time niches are a third category of [[ecological-niche]] — beyond pure spatial
-territory and temporal cycles of opportunity — in which organisms stake out
-specific **time slots within a shared space**. Rather than defending a fixed
-area, species (and individuals) coordinate access to the same physical location
-at different times of day, season, or succession stage. Mollison argues that
-understanding these schedules is essential for [[permaculture-design]], because
+Space-time niches are a third category of [[permaculture-design]], because
 scheduling is often the most effective strategy for fitting additional species
 into a system without conflict.
 
@@ -116,34 +111,13 @@ Species differ in how rigidly they enforce scheduling:
   accept shared space and rely on loose scheduling conventions. The group
   gains more total access than any individual could secure alone.
 
-[[permaculture]] design favours cooperative species and **schedule-based
-integration** over rigid territorial partitioning.
+[[trophic-pyramids-and-food-webs]]
+- Section 2.7 — Pyramids, Growth, and Vegetarianism
 
-## Schedules as a Design Strategy
-
-Mollison emphasises that **scheduling is the best strategy for fitting new
-species** into an established system. Rather than carving up finite space into
-smaller and smaller territories, a designer can:
-
-- Add species that use the same space at **different times** (day-active vs
-  night-active pollinators, seasonal crops)
-- Layer species that occupy different **vertical time horizons** (annuals
-  followed by perennials in succession)
-- Sequence grazing animals to follow one another across the same paddock
-
-This approach dramatically increases the **total yield per unit area** without
-requiring more land.
-
-## Lessons for People
-
-A key social insight from niche scheduling: **holding all things at all times
-prevents use by others**. When a single group monopolises a resource around the
-clock, no other group can access it — the resource is effectively wasted for
 ## See Also
 
-- Niche in Space (Territory)
-- Niche in Time (Cycles of Opportunity)
-- Grazing Succession and Multi-Species Rotation
-- Behavioural Niches and Animal Interactions
-- [[trophic-pyramids-and-food-webs]]
-- Section 2.7 — Pyramids, Growth, and Vegetarianism
+- [[fungi-in-space-research]]
+- [[niche-in-space-and-time]]
+- [[niches-in-space-and-time-schedules]]
+- [[oner-space-grape-ultra-genetics-nebula-grapefruit]]
+- [[oner-jack-the-ripper-jacks-cleaner-space-queen]]

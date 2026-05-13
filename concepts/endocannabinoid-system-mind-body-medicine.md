@@ -8,7 +8,7 @@ source: uwe-blesching-the-cannabis-health-index.md
 
 # Endocannabinoid System and Mind-Body Medicine
 
-The endocannabinoid system (ECS) serves as a biological bridge between the mind and the body, providing a neurochemical mechanism through which emotions, thoughts, and conscious interventions can directly influence physical health and immune function. This understanding, explored extensively in [[uwe-blesching]]'s *[[blesching-cannabis-health-index-autoimmune-conditions]] ndex*, represents a convergence of neuroscience, psychoneuroimmunology, and traditional mind-body healing practices.
+The endocannabinoid system (ECS) serves as a biological bridge between the mind and the body, providing a neurochemical mechanism through which emotions, thoughts, and conscious interventions can directly influence physical health and immune function. This understanding, explored extensively in [[blesching-cannabis-health-index-autoimmune-conditions]] ndex*, represents a convergence of neuroscience, psychoneuroimmunology, and traditional mind-body healing practices.
 
 ## The Endocannabinoid System: A Brief Overview
 
@@ -16,27 +16,7 @@ The endocannabinoid system is a widespread neuromodulatory system found througho
 
 The two primary endocannabinoids identified to date are anandamide (N-arachidonoylethanolamine, or AEA) and 2-arachidonoylglycerol (2-AG). These lipid signaling molecules are produced on-demand by cell membranes throughout the body and act locally rather than circulating systemically like classical hormones.
 
-Cannabinoid receptors are found throughout the brain and peripheral tissues. CB1 receptors are concentrated in the central nervous system, particularly in brain regions associated with memory (hippocampus), motor control (basal ganglia and cerebellum), pain perception, [[blesching-cannabis-appetite-regulation-ghrelin-leptin]], and emotional processing (amygdala and prefrontal cortex). CB2 receptors are found primarily in the immune system and peripheral tissues, where they modulate inflammatory responses and immune function.
-
-The discovery of the endocannabinoid system in the early 1990s — driven by research into how THC produces its effects — revealed that the human body produces its own cannabis-like substances and has evolved a dedicated receptor system for them. This finding transformed our understanding of both cannabis pharmacology and fundamental neurophysiology.
-
-## Molecules and Emotions: A Two-Way Street
-
-The endocannabinoid system sits at the intersection of neurochemistry and emotional experience, providing a biological mechanism for the two-way relationship between emotions and physical health that mind-body medicine has long described in practical terms.
-
-Emotional states directly influence the production and activity of endocannabinoids. Stress, fear, and anxiety alter endocannabinoid signaling in ways that affect pain perception, immune function, and mood regulation. Conversely, the endocannabinoid system actively modulates emotional responses — anandamide levels in the amygdala, for example, influence the extinction of fear memories and the regulation of anxiety.
-
-This bidirectional relationship means that emotional interventions — such as mindfulness meditation, cognitive reframing, expressive therapy, and conscious relaxation — can produce measurable changes in endocannabinoid signaling that translate into physical health outcomes. The biological mechanism for the mind-body connection is not metaphorical but literal, grounded in the neurochemistry of the endocannabinoid system.
-
-Research has shown that exercise, social bonding, and other activities associated with positive emotional states increase circulating levels of anandamide, producing effects sometimes described as a "runner's high." This finding suggests that many beneficial mind-body practices may work in part through endocannabinoid-mediated pathways.
-
-## Molecules of Expansive Emotions
-
-Blesching's framework identifies specific neurotransmitters and signaling molecules that are primarily associated with what he terms "expansive" emotions — emotional states characterized by openness, connection, safety, and well-being. These molecules tend to promote parasympathetic nervous system activation, relaxation, and healing.
-
-Acetylcholine is associated with learning, memory, and attention. Its cognitive functions support the mental clarity needed for conscious healing work and self-reflection. The phrase "I remember" captures its essence — the ability to access and integrate information about one's condition and healing options.
-
-Anandamide, often called the "bliss molecule," is associated with feelings of ease, contentment, and well-being. The name derives from the Sanskrit word *ananda*, meaning "joy" or "bliss." Anandamide plays important roles in mood regulation, [[cannabis-pain-management-protocols]], appetite, and the neurochemistry of pleasure and reward. Its association with "I am at ease" reflects the state of relaxed openness that facilitates healing.
+Cannabinoid receptors are found throughout the brain and peripheral tissues. CB1 receptors are concentrated in the central nervous system, particularly in brain regions associated with memory (hippocampus), motor control (basal ganglia and cerebellum), pain perception, [[cannabis-pain-management-protocols]], appetite, and the neurochemistry of pleasure and reward. Its association with "I am at ease" reflects the state of relaxed openness that facilitates healing.
 
 Endogenous opioids (endorphins and enkephalins) are associated with pain relief and the positive feelings that follow the cessation of pain. The phrase "It feels so good when the pain stops" captures their function — they mark the transition from suffering to relief and reinforce behaviors that promote well-being.
 
@@ -44,11 +24,7 @@ GABA (gamma-aminobutyric acid) is the brain's primary inhibitory neurotransmitte
 
 Oxytocin, sometimes called the "bonding hormone" or "love molecule," is associated with social connection, trust, empathy, and nurturing behavior. Released during physical touch, social bonding, and positive social interactions, oxytocin promotes feelings of safety and belonging that support the emotional conditions for healing.
 
-[[serotonin]] is associated with mood stability, contentment, and feelings of happiness and well-being. Low serotonin levels are implicated in depression and anxiety. "I am happy" captures the emotional state that healthy serotonin signaling supports — a baseline of contentment and positive emotional tone.
-
-## Molecules of Constricting Emotions
-
-In contrast to expansive molecules, Blesching identifies signaling molecules primarily associated with "constricting" emotional states — feelings of threat, urgency, fear, and defensive mobilization. These molecules promote sympathetic nervous system activation and the "fight or flight" [[mycelial-metabolite-excretion-stress-response-grain-jar-cultivation-guide]].
+[[mycelial-metabolite-excretion-stress-response-grain-jar-cultivation-guide]].
 
 Epinephrine (adrenaline) is the primary hormone of the acute stress response, producing the feeling of "I am scared." It mobilizes the body's resources for immediate action, increasing heart rate, blood pressure, and energy availability while redirecting blood away from digestive and immune functions.
 
@@ -117,8 +93,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[endocannabinoid-system]]
 - [[mind-body-medicine-and-endocannabinoid-system]]
-- [[doc]]
 - [[dom]]
 - [[cannabis-health-index]]

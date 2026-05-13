@@ -9,11 +9,11 @@ sources: []
 
 ## Overview
 
-Liquid culture (LC) is a nutrient-rich liquid medium inoculated with [[antimicrobial-compounds-mushroom-mycelium]]. The mycelium grows throughout the liquid, forming a floating mat of white growth that can be drawn into a syringe and used to inoculate grain jars. Liquid culture offers several advantages over spore syringes: faster colonization, lower contamination rates, and the ability to expand a small amount of mycelium into a large number of inoculations. It is an essential skill for cultivators working at any scale beyond casual hobby growing.
+Liquid culture (LC) is a nutrient-rich liquid medium inoculated with mushroom mycelium. The mycelium grows throughout the liquid, forming a floating mat of white growth that can be drawn into a syringe and used to inoculate grain jars. Liquid culture offers several advantages over spore syringes: faster colonization, lower contamination rates, and the ability to expand a small amount of mycelium into a large number of inoculations. It is an essential skill for cultivators working at any scale beyond casual hobby growing.
 
 ## How Liquid Culture Works
 
-Mushroom mycelium grows in liquid by extending hyphal threads throughout the [[cannabis-nutrient-solution-preparation]]. In an agitated environment, the mycelium forms small spherical masses called "mycelial balls" or "pellets." These balls are essentially concentrated bundles of living mycelium that, when introduced to a grain substrate, rapidly expand and colonize the grain. Because you are inoculating with living, actively growing mycelium rather than dormant spores, colonization time is significantly reduced.
+Mushroom mycelium grows in liquid by extending hyphal threads throughout the nutrient solution. In an agitated environment, the mycelium forms small spherical masses called "mycelial balls" or "pellets." These balls are essentially concentrated bundles of living mycelium that, when introduced to a grain substrate, rapidly expand and colonize the grain. Because you are inoculating with living, actively growing mycelium rather than dormant spores, colonization time is significantly reduced.
 
 ## Liquid Culture Recipes
 
@@ -89,7 +89,7 @@ Pre-sterilized LC bags with injection ports and filters are available from mycol
 - **Time**: 20-30 minutes at 15 PSI for liquid culture. This is shorter than grain because liquid heats through much faster.
 - **Caution with sugar solutions**: Sugar can caramelize at high temperatures, which inhibits mycelial growth. Do not exceed 30 minutes at pressure.
 - **Loosen lids before sterilizing**: Gas expansion during heating can crack jars if lids are too tight.
-- **Natural pressure release**: Allow the [[double-layer-tinfoil-jar-covering-pressure-cooker-method]] to depressurize naturally. Quick-release can boil the liquid and disrupt the medium.
+- **Natural pressure release**: Allow the pressure cooker to depressurize naturally. Quick-release can boil the liquid and disrupt the medium.
 
 ## Inoculation
 
@@ -124,10 +124,10 @@ LC can be expanded by transferring a small amount to fresh medium:
 - **Temperature**: 75-78F (24-26C). Standard room temperature works for most species.
 - **Shaking**: Agitate the LC daily or every other day. Shaking:
   - Breaks up the mycelial mat, distributing growth points
-  - Introduces [[aact-dissolved-oxygen-fine-bubble-aeration-ingham]], which mycelium needs
+  - Introduces dissolved oxygen, which mycelium needs
   - Prevents the mycelium from forming a thick, unmanageable mat at the surface
   - Gentle inversion is sufficient — do not shake violently
-- **Growth timeline**: Visible mycelium appears in 3-7 days. Full colonization (opaque, cloudy appearance with floating mycelial balls) takes 10-21 days depending on [[boil-a-bag-long-needle-inoculation-method-jarrold]] and conditions.
+- **Growth timeline**: Visible mycelium appears in 3-7 days. Full colonization (opaque, cloudy appearance with floating mycelial balls) takes 10-21 days depending on inoculation method and conditions.
 - **Light**: Not required. Incubate in darkness or ambient light.
 
 ## Using Liquid Culture
@@ -141,9 +141,10 @@ Once the LC is fully colonized (cloudy white with visible mycelial masses):
 
 ### Benefits of LC Inoculation
 
-- **Speed**: Living mycelium begins growing immediately. No germination phase.
-- **Multiple inoculation points**: The liquid distributes across the grain, creating many starting points for colonization.
-- **Lower contamination rate**: The large amount of living mycelium outcompetes most contaminants.
-- **Expandability**: One LC jar can inoculate 20-50 grain jars.
+## See Also
 
-## Contamination in Liquid Culture
+- [[reishi-mushroom-cultivation-and-medicinal-properties]]
+- [[straw-based-mushroom-substrate-preparation]]
+- [[casing-soil-sterilization-versus-pasteurization-debate-mushroom-cultivation]]
+- [[straw-mushroom-cultivation]]
+- [[psilocybe-caerulescens-mazatec-sacred-mushroom-guzman-1998]]

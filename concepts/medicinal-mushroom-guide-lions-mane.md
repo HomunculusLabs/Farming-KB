@@ -1,5 +1,5 @@
 ---
-title: Medicinal Mushroom Guide Lions Mane
+title: Lion's Mane ([[cancer-medicinal-mushrooms-hericium-erinaceus]]) — [[medicinal-mushroom-guide]]
 created: 2026-04-12
 updated: 2026-04-12
 type: concept

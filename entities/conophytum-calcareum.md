@@ -108,13 +108,8 @@ Mesemb enthusiasts often maintain entire collections of Conophytum species, disp
 
 ## See Also
 
-- [[conophytum-bilobum]]
 - [[lithops-lesliei]]
-- [[faucaria-tigrina]]
 - [[haworthia-cooperi]]
-- [[crassula-ovata]]
 - [[aloe-aristata]]
-- [[sedum-acre]]
 - [[echeveria-elegans]]
-- [[cotyledon-tomentosa]]
 - [[portulacaria-afra]]

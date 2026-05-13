@@ -10,7 +10,7 @@ sources:
 ---
 # Ingham — Foliar Pest Deterrence Through AACT
 
-Elaine Ingham identifies multiple mechanisms by which Actively [[actively-aerated-compost-tea-aact-brewing]] Tea (AACT) applied to leaf surfaces reduces insect pest pressure. These mechanisms operate through plant health and [[king-stropharia-ecological-interactions-permaculture]] rather than toxic chemical effects.
+Elaine Ingham identifies multiple mechanisms by which Actively [[king-stropharia-ecological-interactions-permaculture]] rather than toxic chemical effects.
 
 ## Four Mechanisms of Foliar Pest Deterrence
 
@@ -18,10 +18,7 @@ Elaine Ingham identifies multiple mechanisms by which Actively [[actively-aerate
 The biology applied to leaf surfaces may be directly repugnant to insect pests, causing them to avoid landing on treated leaves. The diverse community of bacteria, fungi, and their metabolites creates a surface environment that insects recognize as unfavorable.
 
 ### 2. Elevated CO2 Signal
-The applied microorganisms elevate CO2 levels in the leaf microenvironment. Many insect pests are attracted to plants under stress by detecting specific [[query-how-do-plants-use-chemical-signals-to-defend-against-insects]] (including CO2 ratios). When CO2 is elevated by microbial respiration, the signal changes to one that does not attract pests.
-
-### 3. Removal of Stress Signals
-Stressed plants emit alcohols and other [[query-how-do-fungal-volatile-compounds-affect-plant-growth-and-other-microorganisms]] that serve as attractants for insect pests. Tea organisms consume these alcohols, removing the chemical signal that attracts insects to stressed plants. The attractant is no longer present, so insects do not target the plant.
+The applied microorganisms elevate CO2 levels in the leaf microenvironment. Many insect pests are attracted to plants under stress by detecting specific [[query-how-do-fungal-volatile-compounds-affect-plant-growth-and-other-microorganisms]] that serve as attractants for insect pests. Tea organisms consume these alcohols, removing the chemical signal that attracts insects to stressed plants. The attractant is no longer present, so insects do not target the plant.
 
 ### 4. Restored Plant Health
 Perhaps most importantly, tea organisms cause the plant to become less stressed and return to health. Healthy plants are inherently less susceptible to insect attack because:
@@ -66,7 +63,7 @@ These crops benefit most from bacterial-dominated teas applied at 7-14 day inter
 Woody perennials benefit from fungal-dominated teas that provide longer-lasting colonization of bark, buds, and leaf surfaces. Fungal hyphae can persist on woody surfaces for weeks, providing sustained competitive exclusion of pathogens. Apple scab, powdery mildew, and brown rot have all been reduced through regular applications of fungal-dominated AACT to fruit trees. Applications should target the canopy during bud break and continue through the growing season, with particular attention to periods of rapid new growth.
 
 ### Tomatoes and Solanaceous Crops
-Tomatoes are susceptible to both foliar diseases (early blight, late blight, septoria leaf spot) and insect pests (aphids, whiteflies, tomato hornworm). AACT applications combining both [[query-what-is-the-difference-between-bacterial-and-fungal-dominant-soil]] components — achieved by blending bacterial-dominant and fungal-dominant teas or by using a [[query-how-to-make-a-balanced-compost-recipe]] source — provide broad-spectrum protection. Application should begin at transplanting and continue weekly through the growing season, with increased frequency during humid conditions that favor disease development.
+Tomatoes are susceptible to both foliar diseases (early blight, late blight, septoria leaf spot) and insect pests (aphids, whiteflies, tomato hornworm). AACT applications combining both [[query-how-to-make-a-balanced-compost-recipe]] source — provide broad-spectrum protection. Application should begin at transplanting and continue weekly through the growing season, with increased frequency during humid conditions that favor disease development.
 
 ## Application Timing
 
@@ -86,39 +83,6 @@ The effectiveness of AACT for pest deterrence depends on maintaining diverse mic
 
 ## Compost Tea Biology and Organism Balance
 
-The specific composition of microbial communities in AACT determines its effectiveness for different pest deterrence applications. Ingham's [[bacterial-vs-fungal-compost-teas]] in the tea can be adjusted by modifying the brewing process: shorter brew times (12-24 hours), moderate aeration, and bacterial food sources (molasses, fish hydrolysate) favor bacterial growth, while longer brew times (24-36 hours), gentle aeration, and fungal food sources (humic acids, kelp meal) favor fungal biomass. The compost source material also matters — composts made from deciduous leaf litter and woody materials harbor more diverse fungal communities than composts from manure or green waste alone.
-
-## Practical Applications
-
-The principles and techniques discussed here have wide-ranging applications
-across multiple disciplines and contexts. Practitioners and researchers
-continue to explore new ways to integrate these concepts into modern practice,
-adapting traditional knowledge to contemporary challenges and opportunities.
-
-## Key Considerations
-
-Several important factors influence the effectiveness and outcomes described
-in this topic. Understanding these considerations helps practitioners make
-informed decisions and avoid common pitfalls. Environmental conditions,
-timing, and material selection all play critical roles.
-
-## Historical Context
-
-The historical development of this subject reflects centuries of accumulated
-knowledge and practical experience. From traditional methods passed down
-through generations to modern scientific approaches, the evolution continues
-to inform current best practices and research directions.
-
-## Common Challenges
-
-Practitioners frequently encounter several challenges when working with
-these concepts. Climate variability, resource limitations, and knowledge
-gaps can all affect outcomes. Addressing these challenges requires patience,
-observation, and a willingness to adapt approaches based on results.
-
-## See Also
-- [[elaine-ingham]]
-- [[soil-foodweb]]
+The specific composition of microbial communities in AACT determines its effectiveness for different pest deterrence applications. Ingham's [[elaine-ingham]]
 - [[dom]]
-- [[det]]
 - [[query-what-is-the-soil-food-web-and-why-does-it-matter]]

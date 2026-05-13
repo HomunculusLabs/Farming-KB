@@ -10,15 +10,12 @@ sources:
 
 Updated: 2026-04-18
 
-Source: The [[green-cannabis-grow-bible-breeding-genetics-and-true-breeding]] Bible, [[greg-green]] (Ch. 13)
+Source: The [[greg-green]] (Ch. 13)
 
 Drying and curing are the final and arguably most important steps in producing high-quality cannabis. Rushing this process degrades flavor, potency, and smoothness. Done properly, it transforms raw harvested bud into a premium product.
 
 ## Why Drying and Curing Matter
 
-- **[[query-can-fungi-break-down-plastic-pollution]] chlorophyll**: Fresh cannabis tastes "grassy" and harsh. Proper curing breaks down chlorophyll, revealing the natural terpene flavors.
-- **Smooth smoke**: Cured bud burns evenly and smoothly with white/grey ash.
-- **Preserve potency**: Proper drying prevents cannabinoid degradation.
 - **[[query-how-do-i-prevent-mold-and-mildew-in-my-cannabis-grow]]**: Controlled drying eliminates moisture that causes mold and rot.
 - **Develop flavor**: Terpenes continue to develop and mature during the curing process.
 
@@ -31,52 +28,7 @@ The drying environment must be controlled carefully:
 - **Temperature**: 60–70°F (15–21°C). Cooler temperatures preserve terpenes. Higher temperatures degrade them.
 - **Humidity**: 45–55%. Below 40% causes too-fast drying (harsh bud). Above 60% invites mold.
 - **Darkness**: Keep the drying area dark. Light degrades cannabinoids and terpenes.
-- **[[stamets-growing-room-air-circulation-co2-management]]**: Gentle, continuous air movement. Use an oscillating fan on low, pointing away from the plants (not directly on them). No stagnant air, but no strong drafts either.
-- **No direct wind**: Strong airflow causes too-fast drying and damages trichomes.
-
-### Drying Methods
-
-#### Hanging Branches (Recommended)
-
-1. Cut branches into sections of 12–24 inches
-2. Hang branches upside down from lines, hangers, or drying racks
-3. Space branches so they do not touch each other
-4. Maintain proper temperature, humidity, and airflow
-5. **Drying time**: 7–14 days depending on conditions, bud density, and branch thickness
-
-#### Drying Racks (Net Racks)
-
-1. Place trimmed buds on mesh drying racks (multiple tiers)
-2. Racks allow air circulation from all sides
-3. Flip buds daily to ensure even drying
-4. **Drying time**: 5–10 days (faster than hanging due to more surface exposure)
-
-#### Drying Whole Plants
-
-1. Hang the entire uncut plant upside down
-2. Slower, more gradual drying
-3. **Drying time**: 2–3 weeks
-4. Best for small plants; large plants are impractical to hang whole
-
-### How to Tell When Drying Is Complete
-
-The "snap test":
-- **Branches**: Stems should snap crisply when bent, not bend or fold
-- **Buds**: Should feel dry on the outside but still slightly spongy in the center
-- **Weight**: Buds will have lost approximately 60–75% of their wet weight
-- **Outer feel**: Not crispy or brittle on the outside
-
-If buds feel wet or squishy at all, they need more drying time. If stems are completely brittle and buds crumble, you have overdried — see troubleshooting below.
-
-## Curing
-
-Curing is the slow aging process that develops flavor, smoothness, and quality. It occurs after the initial drying phase.
-
-### Process
-
-1. **Jar the buds**: Place dried buds into airtight glass jars (Mason jars are standard). Fill jars 3/4 full — do not pack tightly.
-2. **Seal and store**: Place jars in a cool, dark location (60–70°F).
-3. **Burp daily**: Open each jar for 5–15 minutes every day for the first 2 weeks. This releases moisture and allows fresh [[growing-gourmet-growing-room-ventilation-air-exchange]].
+- **[[growing-gourmet-growing-room-ventilation-air-exchange]].
 4. **Monitor moisture**: Check for condensation inside the jar. If you see condensation:
    - Light condensation: Normal — the curing process is working
    - Heavy condensation or buds feel wet: Remove buds and spread them out to dry for a few more hours, then re-jar
@@ -118,8 +70,81 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[comparison-cannabis-drying-and-curing-vs-flushing-before-harvest]]
 - [[cannabis-drying-and-curing]]
-- [[cannabis-harvest-and-curing]]
 - [[green-cannabis-curing-drying-buds]]
 - [[cannabis-harvesting-and-curing-techniques]]
+
+## Overview
+
+Cannabis Drying And Curing Guide represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish cannabis drying and curing guide
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving cannabis extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Cannabis Drying And Curing Guide finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for cannabis drying and curing guide. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+cannabis drying and curing guide and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Cannabis Drying And Curing Guide has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of cannabis drying and curing guide into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and

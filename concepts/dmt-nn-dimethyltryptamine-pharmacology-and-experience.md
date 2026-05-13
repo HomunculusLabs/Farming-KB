@@ -10,27 +10,7 @@ aliases: [DMT Experience, N,N-Dimethyltryptamine, Spirit Molecule]
 
 N,N-Dimethyltryptamine (DMT) is a potent psychedelic tryptamine found naturally
 in numerous plant species, animal tissues, and the human body. Terence McKenna's
-1983 Esalen lecture "[[tryptamine-hallucinogens-and-consciousness]] Consciousness" provides one of
-the most vivid phenomenological accounts of the DMT experience while situating
-it within a broader framework of consciousness studies. DMT is distinguished from
-other psychedelics by its extreme intensity, rapid onset, short duration, and
-the consistency of its visionary content across users.
-
-## Chemical Nature and Occurrence
-
-DMT is a simple tryptamine derivative — structurally related to serotonin
-(5-hydroxytryptamine), psilocin (4-hydroxy-DMT), and the neurotransmitter
-tryptamine itself. It is classified as an indolethylamine alkaloid with the
-molecular formula C₁₂H₁₆N₂.
-
-### Natural Occurrence
-
-DMT is found in over 65 plant species across multiple families, with
-particularly high concentrations in:
-
-- **Diplopterys cabrerana** — leaves used in [[schultes-ayahuasca-preparations]]
-- **[[chacruna-psychotria-viridis]]** (chacruna) — the most common DMT source in ayahuasca
-- **Mimosa tenuiflora** (jurema) — used in Brazilian ayahuasca analogs
+1983 Esalen lecture "[[schultes-ayahuasca-preparations]]
 - **[[anadenanthera-peregrina]]** (yopo) — seeds snuffed in South American rituals
 
 DMT is also endogenous to mammalian biology, detected in human cerebrospinal
@@ -53,11 +33,7 @@ also interacts with several other receptor systems:
 - **TAAR (trace amine-associated receptors)** — poorly understood
 - **ION channel modulation** — McKenna notes that moving a single atom on
   the molecular ring transforms an inactive compound into a highly active
-  one, demonstrating "[[mckenna-quantum-mechanical-correlates-hallucinogenesis]] to hallucinogenesis"
-
-### Pharmacokinetics
-
-- **[[mushroom-taste-route-of-administration-and-consumption-barriers]]** — DMT is not orally active alone because it
+  one, demonstrating "[[mushroom-taste-route-of-administration-and-consumption-barriers]]** — DMT is not orally active alone because it
   is rapidly deactivated by monoamine oxidase (MAO) in the gut and liver.
   Smoking/vaporization bypasses first-pass metabolism, producing effects
   in 15–30 seconds. The ayahuasca brew combines DMT with MAO-inhibiting
@@ -130,8 +106,5 @@ death. He advocates an I/Thou relationship with the encountered entities:
 
 ## See Also
 
-- [[psilocybin-mushrooms-species-and-pharmacology]] — psilocybin chemistry
 - [[ayahuasca-pharmacology-and-drug-interactions]] — MAOI + DMT synergy
-- [[mckenna-tryptamine-hallucinogens-and-consciousness]] — McKenna's broader
-  framework
 - [[serotonin-receptor-interference-psychedelic-mechanism]] — receptor pharmacology

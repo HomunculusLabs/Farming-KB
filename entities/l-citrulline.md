@@ -29,16 +29,7 @@ tags: [profile]
 ## Overview
 
 L-citrulline is a non-proteinogenic alpha-amino acid.
-It is best known as a central intermediate of the mammalian [[urea-cycle-biochemistry]].
-The compound carries a ureido group on a five-carbon amino acid backbone.
-Its name comes from *Citrullus*, the Latin root associated with watermelon.
-Watermelon is a prominent natural dietary source of citrulline.
-Unlike the twenty canonical amino acids, citrulline is not directly encoded into proteins.
-It nevertheless appears in metabolism, nutrition research, and post-translational protein chemistry.
-In the urea cycle, citrulline accepts the first nitrogen-containing carbamoyl group from ornithine.
-It then condenses with aspartate to form argininosuccinate.
-This makes citrulline a carrier between mitochondrial and cytosolic steps of nitrogen disposal.
-The entity is closely connected to [[l-ornithine]] is the direct precursor in the urea cycle.
+It is best known as a central intermediate of the mammalian [[l-ornithine]] is the direct precursor in the urea cycle.
 arginine is the downstream amino acid that releases urea.
 carbamoyl phosphate donates the carbamoyl group that forms citrulline.
 aspartate supplies the second nitrogen atom of urea.
@@ -48,8 +39,6 @@ watermelon is the dietary source most closely associated with citrulline.
 
 ## See Also
 
-- [[knf-fish-amino-acid]]
-- nitric oxide biology
 - [[enzyme-inhibition]]
 ## Practical Considerations
 
@@ -88,3 +77,73 @@ than assuming perfect predictability or control over outcomes.
 
 Documentation and record-keeping support continuous improvement by
 creating a reference base of observations, interventions, and results.
+
+## Overview
+
+L Citrulline represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish l citrulline
+from related concepts in [[permaculture]] and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving l extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+L Citrulline finds practical application in multiple design contexts.
+[[permaculture-principles]] guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for l citrulline. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+l citrulline and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+L Citrulline has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of l citrulline into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.

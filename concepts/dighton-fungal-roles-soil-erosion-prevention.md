@@ -22,8 +22,7 @@ Fungi play critical roles in preventing soil erosion through multiple
 mechanisms including physical binding of soil particles, formation of
 soil aggregates, creation of water-resistant surface crusts, and
 stabilization of plant litter on sloping terrain. These functions
-represent important [[biodiversity-of-fungi-ecosystem-services-agriculture]] provided by diverse fungal
-groups including saprotrophs, [[arbuscular-mycorrhizal-fungi-biology-symbiosis]], and lichen-forming
+represent important [[arbuscular-mycorrhizal-fungi-biology-symbiosis]], and lichen-forming
 fungi. The erosion-preventing functions of fungi are particularly
 important in environments where soils are vulnerable to displacement
 by water or wind, including agricultural lands, steep forested slopes,
@@ -52,15 +51,7 @@ conditions where rapid environmental changes occur.
 Lichens and fungi are important constituents of cryptogamic crusts on
 nutrient-poor or sandy soils in dry areas (States and Christensen,
 2001). The fungal component of these crust communities physically holds
-mineral soil particles together while also contributing to [[fungal-contributions-soil-structure]] that resist erosion.
-
-## Implications for Land Management
-
-Understanding fungal contributions to erosion prevention has
-significant implications for land management practices. Activities that
-disrupt fungal networks, such as intensive tillage, vegetation removal,
-or pollution, can compromise soil stability and increase erosion risk.
-Conversely, management practices that support [[biodiversity-of-fungi-soil-fungal-communities-agriculture]],
+mineral soil particles together while also contributing to [[biodiversity-of-fungi-soil-fungal-communities-agriculture]],
 including reduced tillage, maintenance of vegetation cover, and
 minimization of chemical inputs, can enhance the natural
 erosion-preventing functions of fungi.
@@ -68,7 +59,6 @@ erosion-preventing functions of fungi.
 ## See Also
 
 - fungal-soil-aggregation
-- [[dighton-fungi-desert-arid-ecosystems]]
 - [[dighton-fungi-tropical-forest-ecosystems]]
 ## Practical Considerations
 
@@ -118,8 +108,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[fungal-hyphae]]
 - [[lichens]]
-- [[mycorrhiza]]
 - [[dighton-fungal-role-soil-aggregation]]
 - [[dighton-fungal-roles-in-nutrient-cycling]]

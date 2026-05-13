@@ -8,12 +8,8 @@ sources: [/Users/t3rpz/wiki/raw/papers/the-way-to-ultra-low-cost-agriculture-unt
 type: concept
 ---
 
-# [[jadam-jms-pesticide]] - Microbial soil amendment
-- [[jadam-fertilizer-program]] - Complete fertilizer programs
-- [[ultra-low-fermentation-myths-and-sugar-free-inputs]] - Why sugar is unnecessary
-## Background and Context
-
-[[jadam-liquid-fertilizer]] Making is an important subject that has garnered significant attention
+# [[jadam-fertilizer-program]] - Complete fertilizer programs
+- [[jadam-liquid-fertilizer]] Making is an important subject that has garnered significant attention
 from researchers, practitioners, and enthusiasts alike. The topic
 sits at the intersection of multiple disciplines, drawing on insights
 from biology, ecology, chemistry, and practical experience. A thorough

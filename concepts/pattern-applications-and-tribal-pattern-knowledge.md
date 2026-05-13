@@ -132,6 +132,13 @@ The study of patterns, whether in traditional navigation systems or in the branc
 - Lewis, D. (1972). *We, the Navigators: The Ancient Art of Landfinding in the Pacific*. University of Hawaii Press.
 
 ## See Also
-- [[tribal-pattern-knowledge-and-traditional-encoding]]
 - [[tribal-pattern-knowledge-and-song-navigation]]
 - [[tribal-pattern-knowledge-systems]]
+
+## See Also
+
+- [[tribal-pattern-knowledge]]
+- [[tribal-pattern-encoding-and-mnemonics]]
+- [[pattern-classification-time-and-unified-events]]
+- [[tribal-pattern-knowledge-systems]]
+- [[anasazi-spiral-calendar-and-pattern-timekeeping]]

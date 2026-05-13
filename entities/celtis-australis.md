@@ -24,66 +24,101 @@ sources:
 
 Celtis australis, commonly known as the Mediterranean hackberry, European nettle tree, or honeyberry, is a deciduous tree in the family Cannabaceae. It is native to the Mediterranean Basin, southern Europe, and western Asia.
 
-The species is a characteristic element of Mediterranean scrubland and riparian forests. It is widely planted as a [[mollison-designers-legume-shade-tree-pasture-systems]] in urban areas across southern Europe, where its tolerance of heat, drought, and pollution makes it particularly valuable.
+The species is a characteristic element of Mediterranean scrubland and riparian forests. It is widely planted as a [[celtis-occidentalis]]*.
 
-Mediterranean hackberry typically reaches 15–25 meters in height, with a spreading, rounded crown and a short, stout trunk. It is a long-lived species that can persist for several centuries.
-
-## Taxonomy and Morphology
-
-**Classification:** Plantae → Tracheophyta → Magnoliopsida → Rosales → Cannabaceae → Celtis → C. australis L.
-
-The species was described by Carl Linnaeus in 1753. The specific epithet *australis* means "southern," referring to its Mediterranean distribution relative to the more northerly *[[celtis-occidentalis]]*.
-
-The genus *Celtis* was formerly placed in the elm family (Ulmaceae) but was moved to Cannabaceae based on molecular phylogenetic evidence. The genus contains approximately 60–70 species with a [[worldwide-distribution-psilocybin-mushrooms]].
-
-**Bark** is gray and smooth on young trees, becoming corky, warted, and irregularly fissured with age. This distinctive corky bark is a key identification feature in the field.
-
-**Leaves** are alternate, simple, 5–12 cm long and 3–6 cm wide, with a lanceolate to ovate shape and sharply serrate margins. The upper surface is rough and sandpaper-like, while the lower surface is paler with prominent veins.
-
-**Flowers** are small, greenish, and inconspicuous, appearing in March to April before or with the leaves. The species is monoecious, with separate male and female flowers on the same tree.
-
-**Fruit** is a small, globose drupe 8–10 mm in diameter, ripening from green to dark purple or black in autumn. The sweet, edible fruits are relished by birds and have been consumed by humans since antiquity.
-
-**Wood** is pale yellow, fine-grained, and moderately hard. It is valued for turnery, carving, and furniture making, though the tree rarely produces timber of sufficient size for large-scale commercial use.
-
-## Distribution and Habitat
-
-Celtis australis is native to the Mediterranean region, including southern France, Italy, the Balkans, Greece, Turkey, the Levant, and North Africa. It also occurs in the Caucasus and northern Iran.
-
-The species grows in a variety of Mediterranean habitats, including sclerophyllous scrubland (*maquis* and *garrigue*), riparian corridors, rocky hillsides, and mixed deciduous woodlands. It is most abundant in thermophilous oak forests.
-
-It is hardy in USDA zones 7–10 and tolerates summer temperatures exceeding 40°C. Mediterranean hackberry is one of the most drought-tolerant broadleaved trees in southern Europe, surviving prolonged dry seasons through deep rooting.
-
-Optimal growth occurs on deep, well-drained calcareous soils in full sun. The species is adapted to the Mediterranean climate regime with mild, wet winters and hot, dry summers.
-
-Mediterranean hackberry has been widely planted beyond its native range as an ornamental tree. It is naturalized in parts of western Europe, the southwestern [[dmt-containing-plants-united-states-halpern]], and Australia.
+The genus *Celtis* was formerly placed in the elm family (Ulmaceae) but was moved to Cannabaceae based on molecular phylogenetic evidence. The genus contains approximately 60–70 species with a [[dmt-containing-plants-united-states-halpern]], and Australia.
 
 The species exhibits significant phenotypic plasticity in response to environmental conditions. Trees in moist riparian sites develop larger leaves and more vigorous growth than those on dry, exposed hillsides.
 
 ## Cultivation and Uses
 
-Mediterranean hackberry is a popular urban shade tree in southern European cities, particularly in Italy, Spain, and Greece. Its tolerance of [[air-pollution-fungal-community-responses]], compacted soils, and drought makes it well-suited to challenging [[query-how-do-green-roofs-and-living-walls-benefit-urban-environments]].
+Mediterranean hackberry is a popular urban shade tree in southern European cities, particularly in Italy, Spain, and Greece. Its tolerance of [[query-how-do-green-roofs-and-living-walls-benefit-urban-environments]].
 
-The sweet fruits are edible raw or cooked and have been used in traditional Mediterranean cuisine. They were historically gathered by rural communities and used in jams, desserts, and [[comparison-mead-vs-kvass-fermented-beverages]].
-
-In traditional medicine, the leaves, bark, and fruits have been used as an astringent, anti-inflammatory, and digestive aid. The bark was employed as a febrifuge in Italian folk medicine.
-
-The wood has been used for centuries in carpentry, particularly for making tool handles, walking sticks, and decorative turned objects. Its fine grain and workability make it suitable for detailed carving.
-
-Propagation is primarily from seed, which requires cold stratification for 2–3 months to break dormancy. Softwood cuttings can also be used, though rooting success is variable and often requires rooting hormone treatment.
-
-The species is relatively free of serious [[mushroom-pests-and-diseases]]. It is occasionally affected by [[cervantes-powdery-mildew-prevention-treatment]] and scale insects, but these rarely cause significant damage to established trees.
-
-## Ecological Role
-
-Celtis australis provides important food resources for Mediterranean wildlife. The sweet fruits are consumed by numerous bird species, including blackcaps, European robins, and thrushes, which disperse the seeds.
-
-The tree serves as a larval host for several butterfly species, including the scarce swallowtail (*Iphiclides podalirius*) and the comet butterfly (*Hylaeus commune*). Its foliage supports moderate caterpillar diversity.
-
-In riparian ecosystems, Mediterranean hackberry helps stabilize streambanks and provides shade that maintains cool water temperatures. Its root system contributes to soil stabilization on steep, erosion-prone slopes.
-
-The species contributes to the structural diversity of Mediterranean forests by occupying an intermediate canopy position between tall oaks and smaller understory shrubs. This layered structure supports greater biodiversity.
-
-Mediterranean hackberry supports epiphytic lichen communities on its bark, including several species that are indicators of good [[bloomfield-stachybotrys-indoor-mold-trichothecenes-air-quality]]. Old trees with rough, fissured bark are particularly rich in lichen diversity.
+The sweet fruits are edible raw or cooked and have been used in traditional Mediterranean cuisine. They were historically gathered by rural communities and used in jams, desserts, and [[mushroom-pests-and-diseases]]. It is occasionally affected by [[bloomfield-stachybotrys-indoor-mold-trichothecenes-air-quality]]. Old trees with rough, fissured bark are particularly rich in lichen diversity.
 
 The tree's extensive root system makes it effective for slope stabilization in Mediterranean hillside environments. It is increasingly planted in [[comparison-vetiver-grass-vs-bamboo-for-erosion-control]] projects across southern Europe.
+
+## Overview
+
+Celtis Australis represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish celtis australis
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving celtis extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Celtis Australis finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for celtis australis. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+celtis australis and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Celtis Australis has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of celtis australis into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[baptisia-australis]]
+- [[celtis-laevigata]]
+- [[celtis-occidentalis]]
+- [[cyathea-australis]]
+- [[livistona-australis]]

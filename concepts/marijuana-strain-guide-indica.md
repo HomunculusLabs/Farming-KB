@@ -11,7 +11,7 @@ sources: []
 
 ## Overview
 
-Indica is one of the three primary cannabis classifications, alongside [[marijuana-strain-guide-sativa]] and [[marijuana-strain-guide-hybrid]]. Indica strains originate from the [[hindu-kush]] mountain region of Afghanistan, Pakistan, and northern India. They are prized for their relaxing, sedating effects and compact growth structure, making them popular for both recreational and medicinal users.
+Indica is one of the three primary cannabis classifications, alongside [[marijuana-strain-guide-sativa]] and [[marijuana-strain-guide-hybrid]]. Indica strains originate from the Hindu Kush mountain region of Afghanistan, Pakistan, and northern India. They are prized for their relaxing, sedating effects and compact growth structure, making them popular for both recreational and medicinal users.
 
 ## Botanical Characteristics
 
@@ -38,7 +38,7 @@ Indica strains are traditionally associated with full-body relaxation and sedati
 - Appetite stimulation
 - Muscle relaxation and spasm reduction
 
-These effects are often described as "couch-lock" at higher doses. Indicas typically contain higher levels of [[myrcene]], a terpene associated with sedative effects, along with linalool and caryophyllene.
+These effects are often described as "couch-lock" at higher doses. Indicas typically contain higher levels of myrcene, a terpene associated with sedative effects, along with linalool and caryophyllene.
 
 ## Popular Indica Strains
 
@@ -112,7 +112,7 @@ Common terpenes found in indica strains:
 | Myrcene | Earthy, musky | Sedation, muscle relaxation |
 | Linalool | Floral, lavender | Calming, anti-anxiety |
 | Caryophyllene | Pepper, spicy | Anti-inflammatory |
-| [[pinene]] | Pine | Bronchodilator, focus |
+| Pinene | Pine | Bronchodilator, focus |
 | Humulene | Earthy, woody | Anti-inflammatory, appetite suppressant |
 
 ## Medical Applications

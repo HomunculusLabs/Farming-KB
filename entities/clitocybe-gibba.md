@@ -25,57 +25,13 @@ sources:
 
 ## Overview
 
-Clitocybe gibba, the common funnel or trough funnel, is a widely distributed agaric mushroom found across temperate forests of Europe and [[psilocybin-north-america-pacific-northwest]]. It is a medium-sized, funnel-shaped fungus that fruits in autumn on forest floors, often in large scattered groups.
-
-The species is generally considered edible and is collected for food in parts of Europe, though it must be distinguished from several toxic lookalikes in the Tricholomataceae family.
-
-The specific epithet *gibba* (Latin for "humped") refers to the slight central umbo present on young caps before they fully expand into the characteristic funnel shape.
-
-## Taxonomy and Morphology
-
-Kingdom: Fungi — Division: Basidiomycota — Class: Agaricomycetes — Order: Agaricales — Family: Tricholomataceae — Genus: Clitocybe — Species: C. gibba (Pers.) P. Kumm.
-
-Originally described as *Agaricus gibbus* by Christiaan Hendrik Persoon in 1801, the species was transferred to *Clitocybe* by Paul Kummer in 1871. The genus has undergone significant fragmentation, with many former members moved to *Infundibulicybe*, *Ampulloclitocybe*, and other genera.
-
-Some authorities place this species in *Infundibulicybe* as *I. gibba*, reflecting molecular phylogenetic work that separates the funnel-form clitocybes from the true *Clitocybe* clade centered on *C. nebularis*.
-
-**Cap** measures 3–8 cm diameter, initially convex with a slight central umbo, expanding to a broad funnel with age. Surface is smooth to finely fibrillose, hygrophanous, ranging from pale tan and pinkish-brown when moist to pale ochre when dry.
-
-The cap margin is wavy and inrolled when young, becoming straight or slightly uplifted at maturity. Cuticle peels partially, and the flesh is thin, whitish, and pliable throughout.
-
-**Gills** are distinctly decurrent, running well down the stipe, crowded, narrow, and pale cream to buff. They are interveined with cross-veins near the stipe junction, a useful identification feature separating this species from superficially similar taxa.
-
-**Stipe** measures 3–7 cm long and 4–10 mm thick, central but often slightly eccentric, cylindrical and typically curved. Surface is smooth above but develops conspicuous longitudinal striations below, with a pale cream to tan coloration.
-
-**Spore print** is white.
-
-**Spores** measure 5.5–7.5 × 4–5.5 µm, broadly ellipsoid, smooth, and inamyloid. Basidia are four-spored with clamp connections present at the septa.
-
-## Distribution and Habitat
-
-C. gibba is widely distributed across temperate Europe from Scandinavia to the Mediterranean, and extends into parts of western Asia. In [[guzman-psilocybin-mushrooms-north-america]], it is found primarily in eastern deciduous forests and along the Pacific Northwest coast.
+Clitocybe gibba, the common funnel or trough funnel, is a widely distributed agaric mushroom found across temperate forests of Europe and [[guzman-psilocybin-mushrooms-north-america]], it is found primarily in eastern deciduous forests and along the Pacific Northwest coast.
 
 The species is a saprotrophic litter decomposer, fruiting on the ground among fallen leaves, needles, and fine woody debris in broadleaf and mixed woodlands. It shows strong associations with oak, beech, and birch stands.
 
-Fruiting occurs from late summer through late autumn, typically August to November in [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]]. It often fruits in scattered groups or troops, sometimes forming fairy rings in areas with deep leaf litter accumulation.
+Fruiting occurs from late summer through late autumn, typically August to November in [[mycelium-running-mushroom-antimicrobial-properties-species-chart]]. Extracts have demonstrated moderate activity against Gram-positive bacteria including *[[bacillus-subtilis]]* in vitro assays.
 
-The species tolerates a range of soil pH conditions but shows preference for slightly acidic to neutral soils. It is absent from waterlogged or heavily compacted sites, reflecting its need for oxygen diffusion through the litter layer for mycelial respiration.
-
-## Edibility and Culinary Use
-
-C. gibba is generally regarded as edible with mild flavor, and is collected by foragers across much of Europe. The cap is the primary edible portion; the stipe can be tough and fibrous in mature specimens and is typically discarded.
-
-Young specimens with firm flesh and intact caps are preferred for culinary use. Preparation involves thorough cooking to eliminate any risk from potential lookalikes or environmental contaminants.
-
-⚠️ **C. gibba must be distinguished from several toxic species**, most notably *Clitocybe rivulosa* and *C. dealbata*, which are deadly poisonous and contain muscarine. These toxic species are smaller, whiter, fruit in grasslands rather than woodlands, and lack the deeply decurrent gill pattern of *C. gibba*.
-
-Other potential confusions include *Infundibulicybe costata* (larger, redder cap) and various *Lepista* species with similar funnel morphology. Careful attention to habitat, gill attachment, stipe striations, and spore size is essential for safe identification.
-
-## Bioactive Compounds
-
-C. gibba has been investigated for [[mycelium-running-mushroom-antimicrobial-properties-species-chart]]. Extracts have demonstrated moderate activity against Gram-positive bacteria including *[[staphylococcus-aureus]]* and *[[bacillus-subtilis]]* in vitro assays.
-
-The species contains several [[aact-tannins-terpenes-phenolic-compounds-wood-composting-ingham]] and sterols. Beta-sitosterol and ergosterol peroxide have been isolated from [[bloomfield-asterophora-and-mycoparasites-of-fruiting-bodies]], both of which exhibit documented anti-inflammatory activity in laboratory models.
+The species contains several [[bloomfield-asterophora-and-mycoparasites-of-fruiting-bodies]], both of which exhibit documented anti-inflammatory activity in laboratory models.
 
 Water-soluble polysaccharides extracted from the carpophores show immunomodulatory effects, stimulating macrophage activity and TNF-alpha production in murine cell assays. These findings remain preliminary and based solely on in vitro work.
 
@@ -88,3 +44,88 @@ Unlike several other *Clitocybe* species, *C. gibba* does not contain significan
 As a saprotroph, *C. gibba* contributes to the decomposition of leaf litter and fine woody debris in forest floor ecosystems. It plays a measurable role in [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] by breaking down complex plant polymers including cellulose and hemicellulose.
 
 The species is moderately sensitive to air pollution and soil compaction, making it an indirect indicator of forest floor health in some European monitoring frameworks. Its presence in forest inventories correlates with undisturbed leaf litter layers and minimal soil disturbance.
+
+## Overview
+
+Clitocybe Gibba represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish clitocybe gibba
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving clitocybe extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Clitocybe Gibba finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for clitocybe gibba. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+clitocybe gibba and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Clitocybe Gibba has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of clitocybe gibba into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[clitocybe-dealbata]]
+- [[clitocybe-geotropa]]
+- [[clitocybe-nebularis]]
+- [[clitocybe-nuda]]
+- [[clitocybe-odora]]

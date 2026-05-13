@@ -18,7 +18,7 @@ Two years before writing, a conference for the purpose of discussing pollution w
 
 The recommendations of this agency as to which crops and seed varieties should be grown, how much fertilizer should be used and which chemicals should be applied are followed by nearly every village farmer in Japan.
 
-This conference brought together the institutional powers of Japanese agriculture -- the research establishment, the cooperative system, and the [[coleman-deep-organic-farming-philosophy]] movement. Yet despite the presence of these powerful organizations, the conference was unable to address the root causes of [[fukuoka-agricultural-pollution-and-consumer-culpability]]. Fukuoka's account reveals the structural barriers that prevent meaningful reform: the same institutions that claim to be solving the problem are deeply invested in the practices that cause it.
+This conference brought together the institutional powers of Japanese agriculture -- the research establishment, the cooperative system, and the [[fukuoka-agricultural-pollution-and-consumer-culpability]]. Fukuoka's account reveals the structural barriers that prevent meaningful reform: the same institutions that claim to be solving the problem are deeply invested in the practices that cause it.
 
 ## The Mercury Revelation
 
@@ -26,15 +26,11 @@ In a discussion of mercury poisoning of tuna, the representative of the Fisherie
 
 The people in the audience looked at each other in disbelief. The purpose of the meeting was supposed to have been to determine how to deal with pollution. Instead, here was a representative saying that mercury is necessary for the tuna's survival. This is what Fukuoka means when he says that people do not grasp the root cause of pollution but only see it from a narrow and superficial perspective.
 
-This episode illustrates what Fukuoka saw as the fundamental blindness of [[fukuoka-why-natural-farming-blocked-in-japan]]. The institutions that control agriculture -- the co-ops, the chemical companies, the government agencies -- have a vested interest in maintaining the status quo. Clean farming is not just an agricultural alternative; it is an existential threat to a vast system of economic power. Fukuoka's proposal for a concrete plan to transition to chemical-free farming was shut down not because it was wrong, but because it was too threatening.
-
-## The Modest Solution
-
-My modest solutions, such as spreading [[fukuoka-white-clover-ground-cover]], create no pollution. They are effective because they eliminate the source of the problem. Until the modern faith in big technological solutions can be overturned, pollution will only get worse.
+This episode illustrates what Fukuoka saw as the fundamental blindness of [[fukuoka-white-clover-ground-cover]], create no pollution. They are effective because they eliminate the source of the problem. Until the modern faith in big technological solutions can be overturned, pollution will only get worse.
 
 Fukuoka's self-description of his solutions as "modest" is both humble and subversive. The experts at the conference were looking for elaborate technological fixes -- water treatment plants, emission controls, new chemical formulations. Fukuoka's answer was to stop creating pollution in the first place by changing the way food is grown. This is not modest at all in its implications: it requires a complete transformation of the agricultural system.
 
-The "modest solution" is modest only in its means -- scattering straw, growing clover -- not in its effects. By returning to [[fukuoka-fertilizer-critique-detailed]]. The connection is clear and direct: excess nitrogen from agricultural fields flows into waterways, feeds algal blooms, depletes oxygen, and kills fish. Yet the agricultural establishment continues to promote ever-increasing [[cervantes-fertilizer-application-strain-feeding]] while treating the resulting water pollution as a separate problem requiring separate solutions.
+The "modest solution" is modest only in its means -- scattering straw, growing clover -- not in its effects. By returning to [[cervantes-fertilizer-application-strain-feeding]] while treating the resulting water pollution as a separate problem requiring separate solutions.
 
 ## The Compounding Problem
 
@@ -42,25 +38,14 @@ Whatever we do, the situation gets worse. The more elaborate the countermeasures
 
 When a decision is made to cope with the symptoms of a problem, it is generally assumed that the corrective measures will solve the problem itself. They seldom do. A true solution can never come about in this way.
 
-This is perhaps Fukuoka's most important insight about [[fukuoka-four-principles-natural-farming]]:
-
-1. No chemicals: The most direct way to eliminate chemical pollution is to stop using chemicals. This principle alone, if widely adopted, would eliminate agricultural water pollution, red tides, and soil contamination.
-
-2. No chemical fertilizer: By replacing chemical nitrogen with [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]] fixation through clover and green manures, the entire chain of water pollution from fertilizer runoff is broken.
+This is perhaps Fukuoka's most important insight about [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]] fixation through clover and green manures, the entire chain of water pollution from fertilizer runoff is broken.
 
 3. No cultivation: Reduced tillage means less soil erosion and less sediment pollution in waterways.
 
-4. [[comparison-natural-farming-vs-permaculture]] as systemic solution: The four principles work together as a complete system that eliminates pollution at its source rather than treating it downstream.
-
-## Related Concepts
-
-- [[fukuoka-food-civilization-critique]]
-
-- [[fukuoka-science-destroyer-of-nature]]
+4. [[fukuoka-food-civilization-critique]]
 
 - [[fukuoka-fertilizer-critique-detailed]]
 
-- [[fukuoka-critique-modern-agriculture]]
 - [[fukuoka-evergreen-state-permaculture-conference]]
 ## Practical Considerations
 
@@ -110,8 +95,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[dom]]
 - [[det]]
-- [[permaculture]]
 - [[fukuoka-evergreen-state-permaculture-conference]]
 - [[fukuoka-agricultural-pollution-and-consumer-culpability]]

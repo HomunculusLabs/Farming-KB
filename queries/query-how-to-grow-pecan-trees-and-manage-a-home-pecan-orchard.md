@@ -41,25 +41,10 @@ Avoid shallow rocky soils, heavy clay that waterlogs, and sites with poor air dr
 
 Spacing is critical because mature pecan trees can reach 60 to 100 feet tall with a spread of 40 to 75 feet.
 Plant trees at least 30 to 40 feet apart in home orchards.
-Wider spacing of 50 to 60 feet is ideal if you plan to intercrop or integrate the trees into a [[backyard-food-forest-design|food forest]] system.
-
-Bareroot trees should be planted during dormancy in late winter or early spring.
-Dig the hole wide enough to accommodate the root system without crowding but no deeper than the root flare.
-Water thoroughly after planting and apply 3 to 4 inches of organic mulch around the drip line, keeping it away from the trunk.
-
-## Irrigation and Fertilization
-
-Young pecan trees need consistent moisture during their first three years of establishment.
-A deep watering every 7 to 10 days during dry spells is far better than frequent shallow irrigation.
-Mature trees can tolerate moderate drought but produce significantly better nut fills with regular deep watering during the kernel-filling stage in late summer.
-
-Pecans are heavy nitrogen feeders and benefit from annual fertilization.
-A common program applies 1 pound of actual nitrogen per year of tree age up to a maximum of 20 pounds for mature bearing trees.
-Split applications in spring and early summer prevent leaching losses.
-Zinc is the most common [[cervantes-micronutrient-deficiency-chelation]] in pecans, causing rosette growth and small leaves.
+Wider spacing of 50 to 60 feet is ideal if you plan to intercrop or integrate the trees into a [[cervantes-micronutrient-deficiency-chelation]] in pecans, causing rosette growth and small leaves.
 Foliar zinc sprays applied at bud break and again two weeks later correct this efficiently.
 
-Organic growers can use [[comfrey-multifunctional-guild-plant|comfrey]] as a [[nutrient-dynamic-accumulator-reference]] planted around the drip line.
+Organic growers can use [[nutrient-dynamic-accumulator-reference]] planted around the drip line.
 Comfrey's deep taproot mines potassium and calcium from subsoil layers, cycling them back as leaf mulch.
 
 ## Pruning and Training
@@ -84,53 +69,25 @@ Key insect pests include pecan weevil, hickory shuckworm, and aphids.
 Pecan weevil larvae destroy the nut kernel from the inside and can devastate an untreated orchard.
 Trunk banding with sticky traps catches weevils as they crawl up the tree in late summer.
 Aphids excrete honeydew that fuels sooty mold growth on leaves and nuts, reducing photosynthesis.
-[[comparison-beneficial-insects-guide-vs-integrated-pest-management]] like lady beetles and lacewings help keep aphid populations in check.
-
-Integrated pest management approaches reduce reliance on synthetic sprays.
-Regular scouting, timely interventions, and encouraging natural predators keep most pest problems manageable in a home orchard setting.
-
-## Harvesting and Processing
-
-Pecans typically mature and drop from September through November depending on the variety and location.
-Nuts are ready when the shucks split open and the nut falls naturally from the tree.
-Shake limbs gently or wait for natural drop, then gather nuts promptly from the ground to prevent mold and rodent damage.
-
-Freshly harvested pecans contain high moisture and must be dried before storage.
-Spread nuts in a single layer in a warm, dry, well-ventilated area for 2 to 3 weeks.
-Properly dried pecans store well at 32 to 38 degrees Fahrenheit for 6 to 12 months.
-For longer storage, freeze shelled pecans in airtight containers where they keep for up to 2 years.
-
-## Integrating Pecans into Permaculture Systems
-
-Pecan trees make excellent canopy-level components in a [[permaculture-pecan-tree-profile|permaculture design]].
+[[permaculture-pecan-tree-profile|permaculture design]].
 Their deep root systems access water and minerals that shallow-rooted understory plants cannot reach.
 The dappled shade beneath mature pecans supports a productive understory of fruiting shrubs, herbs, and ground covers.
 
-Companion plants for a pecan-based guild include [[comfrey-plant-guide|comfrey]] for [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]], [[biological-nitrogen-fixation-agriculture|nitrogen-fixing]] shrubs like autumn olive or Siberian pea shrub, and grazing cover crops between rows.
-Avoid planting tomatoes, potatoes, or other nightshades beneath pecan canopy, as they can host diseases that affect the trees.
-
-Designing a pecan-centered [[food-forest-design-guide|food forest]] requires planning for the tree's mature size from the start.
+Companion plants for a pecan-based guild include [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]], [[food-forest-design-guide|food forest]] requires planning for the tree's mature size from the start.
 Position pecans on the north side of the property in warmer climates so their shade does not shade out sun-loving crops.
 Use the zone between young trees for annual vegetables or cover crops while waiting for the canopy to close.
 
 ## Key Points
 
-- Pecan trees take 6 to 10 years to bear nuts, so site [[coleman-seed-selection-and-variety-trials]] choice are critical upfront decisions
-- Plant at least two varieties with overlapping pollen shed for reliable cross-pollination and nut set
-- Choose scab-resistant varieties like Kanza or Elliot to reduce [[plant-disease-management-solomon]] humid climates
+- Pecan trees take 6 to 10 years to bear nuts, so site [[plant-disease-management-solomon]] humid climates
 - Pecans need deep well-drained soil and consistent irrigation, especially during kernel filling in late summer
 - Zinc deficiency is common and best corrected with foliar sprays at bud break
 - Central leader training during early years establishes strong structure for decades of production
 - Integrated pest management combining resistant varieties, sanitation, and biological controls works well for home orchards
-- Pecans integrate beautifully into [[backyard-orchard-design|backyard orchard]] and food forest systems as canopy-level producers
-- Proper drying and cold storage preserves nut quality for up to 2 years
-- [[fruit-tree-grafting-guide|Grafting]] is the standard propagation method to ensure true-to-type nut characteristics
+- Pecans integrate beautifully into [[fruit-tree-grafting-guide|Grafting]] is the standard propagation method to ensure true-to-type nut characteristics
 
 ## Related
 
-- [[query-how-do-i-grow-mulberry-trees]] Questions
-
 - [[query-how-to-start-a-backyard-orchard]]
-- [[query-how-do-i-graft-fruit-trees-in-a-home-orchard]]
 - [[query-what-are-the-best-nut-trees-for-a-permaculture-food-forest]]
 - [[query-how-do-i-design-a-food-forest-for-a-small-backyard]]

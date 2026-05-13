@@ -9,11 +9,11 @@ sources: []
 
 # Soil Testing and Analysis
 
-Soil testing is the foundation of informed soil management. Without knowing your soil's current condition, amendment decisions are guesswork that can waste money, harm soil biology, and even make existing problems worse. This guide covers pH testing, macronutrient analysis, [[cation-exchange-capacity]], and how to interpret and act on results.
+Soil testing is the foundation of informed soil management. Without knowing your soil's current condition, amendment decisions are guesswork that can waste money, harm soil biology, and even make existing problems worse. This guide covers pH testing, macronutrient analysis, cation exchange capacity, and how to interpret and act on results.
 
 ## Why Test Your Soil
 
-- Identify [[hamilton-nutrient-deficiencies-and-treatment]] excesses before they cause visible plant problems
+- Identify nutrient deficiencies and excesses before they cause visible plant problems
 - Determine lime and fertilizer requirements accurately
 - Avoid over-application (excess phosphorus is a widespread water pollution problem)
 - Establish a baseline for tracking soil health over time
@@ -52,7 +52,7 @@ Soil pH affects nutrient availability, microbial activity, and root function. Mo
 | pH Range | Classification | Common Issues | Typical Action |
 |---|---|---|---|
 | Below 5.0 | Strongly acidic | Aluminum and manganese toxicity, low calcium/magnesium, poor microbial activity | Apply lime (dolomitic if Mg needed) |
-| 5.0-5.5 | Moderately acidic | Reduced [[phosphorus-availability]] | Apply lime, monitor |
+| 5.0-5.5 | Moderately acidic | Reduced phosphorus availability | Apply lime, monitor |
 | 5.5-6.5 | Slightly acidic | Ideal for most crops | Usually no action needed |
 | 6.5-7.0 | Neutral | Ideal for most garden vegetables | No action needed |
 | 7.0-7.5 | Slightly alkaline | Iron, manganese, zinc deficiency likely | Add sulfur or organic matter |
@@ -68,7 +68,7 @@ Soil pH affects nutrient availability, microbial activity, and root function. Mo
 
 Sources: compost, manure, blood meal, fish emulsion, feather meal, cover crops, legumes
 
-[[knf-calcium-deficiency-symptoms]]: pale yellow leaves (chlorosis) starting from older leaves, stunted growth
+Deficiency symptoms: pale yellow leaves (chlorosis) starting from older leaves, stunted growth
 
 Excess symptoms: excessive vegetative growth at the expense of fruit/flower production, soft, disease-susceptible tissue
 
@@ -140,11 +140,10 @@ Beyond pH testing, several simple DIY assessments provide useful information:
 4. 5-10: moderate biological activity
 5. Fewer than 5: likely compacted, chemically treated, or low organic matter
 
-### Organic Matter Estimation
-Dark, rich soil typically contains 3-5% organic matter. Very light-colored sandy soil may be below 1%. For accurate organic matter percentage, use a commercial lab test.
+## See Also
 
-## Commercial Laboratory Testing
-
-For comprehensive analysis, send samples to a professional [[solomon-soil-testing-laboratory-analysis-low-input-gardening]].
-
-### How to Collect a Representative Sample
+- [[casing-soil-sterilization-versus-pasteurization-debate-mushroom-cultivation]]
+- [[comparison-no-till-vs-mulch-soil-management]]
+- [[soil-conditioning-chisel-plow-biological-methods]]
+- [[cannabis-living-soil-guide]]
+- [[soil-fertility-gradient-approach]]

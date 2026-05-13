@@ -15,14 +15,7 @@ type: comparison
 Tempeh and miso are both traditional fermented soybean foods originating in
 Asia, but they differ radically in process, timeline, and culinary character.
 Tempeh is a quick aerobic fermentation producing a solid cake in one to two
-days, while miso is a long-term [[jadam-anaerobic-fermentation-principles]] aged for months to years
-into a complex paste. Understanding these differences helps home fermenters
-choose which to produce based on their goals, equipment, patience, and dietary
-needs.
-
-## Tempeh
-
-[[miso-making]]
+days, while miso is a long-term [[miso-making]]
 
 Miso is a traditional Japanese fermented soybean paste requiring months to years
 of aging using cooked soybeans, koji (Aspergillus oryzae grown on rice or
@@ -47,20 +40,7 @@ Miso's extraordinary strength is its flavor complexity, developing umami depth
 through enzymatic protein and starch breakdown that no quick fermentation can
 replicate. The long fermentation produces hundreds of flavor compounds through
 the interaction of koji enzymes, soybean proteins, and resident microorganisms.
-Miso has a [[psilocybin-shelf-life-stability]] measured in years when properly stored in cool conditions,
-making it an ideal long-term food preservation method. It is also a living food
-containing active probiotics, digestive enzymes, and bioavailable nutrients. The
-primary limitations are the very long production timeline, the need for koji
-preparation or purchase, temperature- sensitive fermentation requiring cool
-stable conditions, large batch commitment in terms of soybeans and vessel space,
-and the upfront investment in fermentation vessels.
-
-## Key Differences
-
-| Aspect | Tempeh | Miso |
-|--------|--------|------|
-| Origin | Indonesia | Japan |
-| Fermentation Type | Aerobic ([[brassinosteroid-psilocybe-cubensis-mycelial-growth-research]]) | Anaerobic (enzyme action) |
+Miso has a [[brassinosteroid-psilocybe-cubensis-mycelial-growth-research]]) | Anaerobic (enzyme action) |
 | Microorganism | Rhizopus oligosporus | Aspergillus oryzae (koji) + wild microbes |
 | Production Time | 24-48 hours | 1 month to 3+ years |
 | Temperature | 85-90 degrees F (warm incubation) | 50-68 degrees F (cool fermentation) |
@@ -108,9 +88,7 @@ dishes that combine tempeh's texture with miso's flavor depth.
 
 ## See Also
 
-- [[comparison-tempeh-vs-tofu]]
 - [[comparison-miso-vs-natto]]
 
-- [[comparison-lacto-fermentation-vs-canning]]
 - [[comparison-sourdough-vs-wild-yeast]]
 - [[beer-brewing-basics]]

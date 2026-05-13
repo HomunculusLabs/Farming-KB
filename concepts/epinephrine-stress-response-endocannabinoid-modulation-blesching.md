@@ -3,9 +3,7 @@
 ## Overview
 Epinephrine, also known as adrenaline, is a hormone and neurotransmitter associated
 with fight, flight, or freeze responses as well as the long-term memory of intense
-events. It is produced in the [[blesching-endocannabinoid-autonomic-nervous-system-adrenal-glands]], which are located on top of each kidney.
-Physiologically, epinephrine increases heart rate and raises blood pressure by
-constricting [[blesching-biology-of-emotions-expansive-constricting-neurotransmitters]] the smooth muscles of the arteries, while simultaneously relaxing the
+events. It is produced in the [[blesching-biology-of-emotions-expansive-constricting-neurotransmitters]] the smooth muscles of the arteries, while simultaneously relaxing the
 smooth muscles of the airways — all in anticipation of a fight or flight stimulus.
 
 ## Physiological Mechanism
@@ -17,17 +15,8 @@ and:
 - Diverts blood supply from the gastrointestinal tract to large muscle groups
 - Relaxes airway smooth muscles for increased oxygen intake
 - Triggers glycogenolysis (release of glucose from liver stores)
-- Dilates pupils for enhanced [[mckenna-roland-fischer-psilocybin-visual-acuity]]
-
-The entire cascade prepares the body for rapid physical action — confronting or
-fleeing from a perceived threat.
-
-## CB1 Receptors in the Adrenal Glands
-The adrenal glands contain CB1 [[cannabinoid-receptors-cb1-cb2]]. This anatomical fact has
-profound implications: the [[endocannabinoid-system]] (ECS) can directly modulate the
-adrenal production of epinephrine. When CB1 receptors are activated by endogenous
-[[anandamide]] or exogenous cannabinoids, they can dampen the excessive release of stress [[blesching-ten-strategies-reduce-fear-anxiety-stress-hormones]]
-hormones [[blesching-ten-strategies-reduce-fear-anxiety-stress-hormones]], providing a neurochemical brake on the fight-or-flight response.
+- Dilates pupils for enhanced [[cannabinoid-receptors-cb1-cb2]]. This anatomical fact has
+profound implications: the [[anandamide]] or exogenous cannabinoids, they can dampen the excessive release of stress [[blesching-ten-strategies-reduce-fear-anxiety-stress-hormones]], providing a neurochemical brake on the fight-or-flight response.
 
 ## Psychological Dimensions
 Psychologically, epinephrine is clearly associated with fear. In controlled
@@ -118,8 +107,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[doc]]
 - [[psilocybin]]
-- [[det]]
 - [[anandamide]]
 - [[blesching-cannabis-epinephrine-norepinephrine-endocannabinoid-system]]

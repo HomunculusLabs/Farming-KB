@@ -21,13 +21,7 @@ of energy, equivalent to the caloric content of a couple of
 cheeseburgers.
 
 The capacity to digest keratin is rare in nature. Animals lack the
-enzymes needed to dissolve hair into an [[cho-fish-amino-acid-preparation]] soup, which is why
-hair passes through the digestive system essentially intact. The
-dermatophytes' ability to produce keratinases, enzymes that break
-down the disulfide bonds holding keratin fibers together, gives them
-exclusive access to an ecological niche that few other organisms can
-exploit. This enzymatic specialization has made dermatophytes among
-the most successful [[bloomfield-fungal-pathogens-and-parasites]] of humans and other animals.
+enzymes needed to dissolve hair into an [[bloomfield-fungal-pathogens-and-parasites]] of humans and other animals.
 
 ## Infection Patterns: Tinea in Its Many Forms
 
@@ -46,18 +40,9 @@ weakening its structure with an enzymatic assault, and then
 reemerges on the outside of the hair to shower the scalp with
 infectious spores. These spores can spread to anyone who comes into
 contact with contaminated surfaces, making dermatophytes among the
-most contagious of all [[bloomfield-yeast-saccharomyces-fungal-pathogens]]. Tinea corporis can manifest
-as an intricate pattern of concentric rings formed by overlapping
-scales of infected skin, producing a distinctive appearance that
-gives the disease its common name of ringworm.
-
-## The Expanding Ring of Infection
-
-The ring-like pattern of dermatophyte skin lesions reflects the
-growth strategy of the [[fungal-mycelium-hyphae-and-the-feeding-phase]]. The fungus spreads outward
+most contagious of all [[fungal-mycelium-hyphae-and-the-feeding-phase]]. The fungus spreads outward
 from its point of establishment in an ever-increasing circle, just
-as a mushroom-forming mycelium spreads through the [[biodiversity-of-fungi-leaf-litter-microfungi-survey-methods]] of a
-[[fungal-ecology-forest-floor]]. The center of an established ring may appear to heal
+as a mushroom-forming mycelium spreads through the [[fungal-ecology-forest-floor]]. The center of an established ring may appear to heal
 as the fungus exhausts the local supply of keratin and the immune
 response partially clears the infection, but the active margin
 continues to advance into fresh territory. In severe cases,
@@ -80,34 +65,7 @@ Even the healthiest human scalp is colonized by fungi. The scalp is
 a grease bath where yeasts of the genus Malassezia immerse themselves
 in sebaceous fat and gorge on dandruff flakes. Malassezia is a
 microscopic epicure that can be grown in laboratory culture only if
-the growth medium is supplemented with [[olive-cultivation-and-olive-oil-production]], as the fungus
-requires exogenous lipids for growth. Tom Dawson, a biologist at
-Procter and Gamble, demonstrated that dandruff flakes are held
-together by cells of Malassezia, making the fungus an integral
-component of the dandruff matrix rather than a mere opportunist.
-
-Dandruff is a complex condition exacerbated by stress, diet, hormone
-balance, and weather, but it is always accompanied by Malassezia.
-The global market for anti-dandruff shampoo exceeds one billion
-dollars annually, with China as the largest export market. The active
-ingredient in many anti-dandruff formulations, pyrithione zinc,
-inhibits fungal proliferation on the scalp, though the specific
-mechanism of action remains incompletely understood. The Malassezia
-story illustrates how even commensal fungi, organisms that normally
-cause no disease, can become significant medical and commercial
-concerns when their growth exceeds the host's tolerance threshold.
-
-## Ecological Sources and Transmission
-
-Dermatophytes originate from environmental reservoirs in soil and
-on animal hosts. Geophilic species are adapted to decomposing
-keratinous material in soil, such as shed hair and feathers.
-Zoophilic species specialize in animal hosts and can be transmitted
-to humans through contact with infected pets or livestock.
-Anthropophilic species have adapted specifically to human hosts and
-are transmitted primarily through person-to-person contact or through
-contaminated surfaces in shared environments such as locker rooms,
-[[mollison-designers-natural-swimming-pools-and-water-purification]], and communal bathing facilities.
+the growth medium is supplemented with [[mollison-designers-natural-swimming-pools-and-water-purification]], and communal bathing facilities.
 
 The ability of dermatophyte spores to survive for extended periods
 on environmental surfaces contributes to their epidemiological

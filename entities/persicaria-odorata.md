@@ -19,24 +19,7 @@ sources:
 
 ## Overview
 
-**Persicaria odorata** (Lour.) Soják, commonly known as **Vietnamese coriander**, **rau răm**, **daun kesom**, or **laksa leaf**, is a perennial herb in the family Polygonaceae. It is widely used in [[oner-southeast-asian-sativa-heritage-thai-vietnamese-cambodian]] cuisine as a fresh herb and garnish, valued for its distinctive coriander-like aroma with peppery, citrusy undertones.
-
-The species is native to tropical and subtropical regions of Southeast Asia, where it grows as a marginal plant along streams, ditches, and wetland edges. It has been introduced to other tropical regions including South America, Africa, and Australia, where it sometimes naturalizes in disturbed wet areas.
-
-Beyond its culinary applications, P. odorata has a long history of use in traditional medicine across Vietnam, Thailand, Malaysia, and Indonesia. It is traditionally used to treat digestive complaints, reduce inflammation, alleviate swelling, and repel insects. Modern pharmacological studies have confirmed antioxidant, anti-inflammatory, and antimicrobial activities.
-
-## Taxonomy and Morphology
-
-**Persicaria odorata** was originally described as *Polygonum odoratum* by João de Loureiro in 1790. It was later transferred to the genus *Persicaria* based on molecular phylogenetic studies that resolved *Polygonum* as polyphyletic. Several synonyms exist, including *Polygonum odoratum*, *Persicaria odorata*, and the horticultural name *Vietnamese mint*.
-
-- **Family:** Polygonaceae
-- **Tribe:** Persicarieae
-- **Genus:** Persicaria
-- **Species:** P. odorata (Lour.) Soják
-
-The plant is a herbaceous perennial growing 20–60 cm tall. Stems are cylindrical, green to reddish, often rooting at the nodes when in contact with moist soil. This rooting habit makes it an effective ground cover in wet tropical gardens.
-
-Leaves are simple, alternate, lanceolate to elliptic, 5–15 cm long and 2–4 cm wide. The [[bloomfield-rust-germ-tube-tactile-sensing-leaf-surface-navigation]] is smooth and glossy, dark green above and lighter below, with a characteristic reddish-purple marking at the center of the leaf blade (a chevron or V-shaped pattern) in many populations.
+**Persicaria odorata** (Lour.) Soják, commonly known as **Vietnamese coriander**, **rau răm**, **daun kesom**, or **laksa leaf**, is a perennial herb in the family Polygonaceae. It is widely used in [[bloomfield-rust-germ-tube-tactile-sensing-leaf-surface-navigation]] is smooth and glossy, dark green above and lighter below, with a characteristic reddish-purple marking at the center of the leaf blade (a chevron or V-shaped pattern) in many populations.
 
 Inflorescences are slender, terminal or axillary spikes, 3–8 cm long, bearing small pink to white flowers. Each flower is 3–4 mm long with five tepals. Flowering occurs year-round in tropical conditions but is most prolific during warm, wet months. Fruits are small, dark brown achenes approximately 2 mm long.
 
@@ -44,26 +27,13 @@ Inflorescences are slender, terminal or axillary spikes, 3–8 cm long, bearing 
 
 The species is native to Southeast Asia, with a natural distribution spanning Vietnam, Thailand, Laos, Cambodia, Malaysia, Indonesia, and southern China (Guangdong, Guangxi, Yunnan provinces). It has been widely introduced throughout the tropics and subtropics.
 
-Introduced populations are established in tropical South America (Brazil, Colombia), West Africa, tropical Australia, and parts of the [[guzman-allen-gartz-neurotropic-fungi-hawaii-pacific-islands]]. In the United States, it is grown as a culinary herb in Hawaii, Florida, and Puerto Rico but does not naturalize aggressively in [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]] due to cold sensitivity.
+Introduced populations are established in tropical South America (Brazil, Colombia), West Africa, tropical Australia, and parts of the [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]] due to cold sensitivity.
 
 P. odorata grows as a **marginal or emergent aquatic plant**, typically found along stream banks, irrigation ditches, rice field margins, and pond edges. It prefers full sun to partial shade, consistently moist to waterlogged soils, and temperatures above 15°C. Growth is optimal at 25–35°C with high humidity. The species is intolerant of frost and drought.
 
 ## Chemistry and Bioactive Compounds
 
-The characteristic aroma of P. odorata is primarily attributed to its volatile oil composition, dominated by **aldehydes** and **terpenoids**. The [[permaculture-designers-manual-essential-oil-plants]] (0.1–0.5% of fresh weight) contains **decanal** (C10 aldehyde, 20–35%), **dodecanal** (C12 aldehyde, 10–25%), and **undecanal** as the major constituents responsible for the coriander-like fragrance.
-
-**Key non-volatile phytochemicals include:**
-
-- **Flavonoids** — quercetin, kaempferol, and their glycosides (quercitrin, isoquercitrin); these contribute antioxidant and anti-inflammatory activity
-- **Phenolic acids** — caffeic acid, chlorogenic acid, and ferulic acid; total phenolic content reaches 30–50 mg GAE/g dry weight
-- **Tannins** — condensed tannins (proanthocyanidins) at 15–25 mg catechin equivalents/g
-- **Alkaloids** — trace amounts of oxindole alkaloids have been detected in some populations
-
-**Pharmacological activities documented in vitro and in animal models include:**
-
-- **Antioxidant activity** — DPPH and ABTS radical scavenging with IC50 values of 25–50 µg/mL for crude methanolic extracts
-- **Anti-inflammatory activity** — inhibition of cyclooxygenase-2 (COX-2) and nitric oxide production in LPS-stimulated macrophages at 25–100 µg/mL
-- **Antimicrobial activity** — methanolic extracts inhibit *[[staphylococcus-aureus]]*, *[[bacillus-subtilis]]*, and *[[bloomfield-candida-albicans-yeast-hyphal-dimorphism]]* at MIC values of 125–500 µg/mL
+The characteristic aroma of P. odorata is primarily attributed to its volatile oil composition, dominated by **aldehydes** and **terpenoids**. The [[staphylococcus-aureus]]*, *[[bloomfield-candida-albicans-yeast-hyphal-dimorphism]]* at MIC values of 125–500 µg/mL
 - **Antidiabetic activity** — α-glucosidase inhibition (IC50 40–80 µg/mL) and blood glucose reduction in streptozotocin-induced diabetic rats
 
 ## Culinary and Medicinal Use
@@ -76,14 +46,89 @@ In traditional Vietnamese medicine, rau răm is considered cooling and is used t
 
 ## Cultivation
 
-P. odorata is easily propagated from stem cuttings, which root within 5–10 days in moist soil or water. Commercial cultivation uses [[hamilton-vegetative-propagation]] exclusively, as seed viability is low and germination rates are inconsistent. Cuttings of 10–15 cm with 2–3 nodes are planted directly into prepared beds.
+P. odorata is easily propagated from stem cuttings, which root within 5–10 days in moist soil or water. Commercial cultivation uses [[holzer-medicinal-and-culinary-herbs-compendium]], contributing to antioxidant intake.
 
-The species grows rapidly in tropical conditions, producing harvestable foliage within 4–6 weeks of planting. Continuous harvesting by cutting stems 5–10 cm above ground level stimulates bushier regrowth. Under optimal conditions, a planting can be harvested every 2–3 weeks for 6–12 months before replanting is needed.
+## Overview
 
-Pests are generally minor but include aphids, spider mites, and fungal leaf spots in humid conditions. The aromatic oils provide some natural pest resistance. No major diseases significantly impact commercial production.
+Persicaria Odorata represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
 
-## Nutritional Profile
+## Key Characteristics
 
-Fresh *Persicaria odorata* leaves are approximately 85% water with low caloric content. Per 100 g fresh weight, they provide approximately 25–30 kcal, with modest amounts of protein (2–3 g) and carbohydrates (4–5 g).
+Several defining characteristics distinguish persicaria odorata
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
 
-Vitamin content includes significant amounts of vitamin A (as beta-carotene), vitamin C, and vitamin K. The beta-carotene concentration is comparable to other dark-green [[holzer-medicinal-and-culinary-herbs-compendium]], contributing to antioxidant intake.
+## Ecological Context
+
+The ecological relationships involving persicaria extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Persicaria Odorata finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for persicaria odorata. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+persicaria odorata and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Persicaria Odorata has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of persicaria odorata into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[cananga-odorata]]
+- [[cedrela-odorata]]
+- [[myrrhis-odorata]]
+- [[nymphaea-odorata]]
+- [[viola-odorata]]

@@ -24,20 +24,7 @@ sources:
 
 The species is distinguished from other Echinacea species by its horizontally spreading ray florets, linear-lanceolate leaves, and restricted cedar glade habitat. It produces rose-pink to purplish flowers from June through August.
 
-Following decades of conservation effort including habitat protection, seed collection, and reintroduction programs, the species was proposed for delisting in 2022. Its recovery is considered a major [[ingham-vineyard-success-story]] in endangered plant conservation.
-
-## Taxonomy and Morphology
-
-- **Kingdom:** Plantae
-- **Order:** Asterales
-- **Family:** Asteraceae
-- **Genus:** Echinacea
-- **Species:** E. tennesseensis
-- **Authority:** (Beadle) Small (1903)
-
-The species was originally described by Beadle as *Brauneria tennesseensis* in 1898 and later transferred to *Echinacea* by Small in 1903. It was rediscovered in 1968 by Elsie Quarterman and colleagues after being presumed lost for decades.
-
-Genetic analysis places E. tennesseensis within the *[[echinacea-purpurea]]* complex but as a distinct lineage that diverged during Pleistocene glacial cycles. Its closest relative is E. simulata, a species of the Ozark Highlands.
+Following decades of conservation effort including habitat protection, seed collection, and reintroduction programs, the species was proposed for delisting in 2022. Its recovery is considered a major [[echinacea-purpurea]]* complex but as a distinct lineage that diverged during Pleistocene glacial cycles. Its closest relative is E. simulata, a species of the Ozark Highlands.
 
 ### Morphology
 
@@ -61,23 +48,15 @@ Echinacea tennesseensis is endemic to the Central Basin of Tennessee, primarily 
 
 The species occupies an area of approximately 600 km² within the Nashville Basin physiographic province. This geographically restricted range makes it particularly vulnerable to habitat loss from urban development.
 
-The species is restricted to open cedar glades — shallow-soil limestone outcrops with exposed bedrock, dominated by eastern red cedar (*[[juniperus-virginiana]]*). These glades occur on the Lebanon and Ridley limestone formations of the Nashville Dome.
-
-Typical glade soils are 5–20 cm deep over limestone bedrock, with high calcium content and rapid drainage. Summer surface temperatures can exceed 60°C, making these among the harshest plant habitats in [[polypore-fungi-eastern-north-america]] America.
+The species is restricted to open cedar glades — shallow-soil limestone outcrops with exposed bedrock, dominated by eastern red cedar (*[[polypore-fungi-eastern-north-america]] America.
 
 Associated cedar glade species include *Astragalus tennesseensis*, *Sedum pulchellum*, *Nothoscordum bivalve*, and *Scutellaria parvula*. The glade community is classified as a globally rare natural community by NatureServe.
 
 ## Ecology
 
-Tennessee coneflower blooms from June through August, providing mid-season nectar for [[query-how-to-attract-native-bees-and-beneficial-insects]], butterflies, and hoverflies. Primary pollinators include long-tongued bees (*Melissodes* spp., *Bombus* spp.) and butterflies.
+Tennessee coneflower blooms from June through August, providing mid-season nectar for [[cannabis-seed-banks-and-genetics]] is estimated at 3–5 years, providing a buffer against years of poor reproductive success.
 
-The flower heads remain attractive for 2–3 weeks, producing an average of 20–40 seeds per head. Seed viability in soil [[cannabis-seed-banks-and-genetics]] is estimated at 3–5 years, providing a buffer against years of poor reproductive success.
-
-The deep taproot allows the plant to persist through prolonged summer droughts characteristic of cedar glades. Seeds germinate in fall or [[coleman-overwintered-onions-and-early-spring-crops]], with seedlings establishing in cracks and soil pockets of the limestone pavement.
-
-Natural herbivory pressure is low due to the harsh habitat, though white-tailed deer occasionally browse flowering stems. The species is self-incompatible, requiring cross-pollination for seed set.
-
-[[clay-pellet-seed-dispersal]] is limited, with most seeds falling within 1–2 m of the parent plant. Wind and water erosion of glade soils occasionally transport seeds to suitable microsites. Fire suppression has allowed woody encroachment into some glades, threatening remaining populations.
+The deep taproot allows the plant to persist through prolonged summer droughts characteristic of cedar glades. Seeds germinate in fall or [[clay-pellet-seed-dispersal]] is limited, with most seeds falling within 1–2 m of the parent plant. Wind and water erosion of glade soils occasionally transport seeds to suitable microsites. Fire suppression has allowed woody encroachment into some glades, threatening remaining populations.
 
 ## Conservation and Phytochemistry
 
@@ -88,3 +67,84 @@ Recovery efforts included land acquisition by the Tennessee Department of Enviro
 The Tennessee Nature Conservancy played a central role in recovery, coordinating volunteer-based seed collection, propagation at the Cheekwood Botanical Garden, and outplanting at protected sites. Prescribed fire has been reintroduced to several glades to control eastern red cedar encroachment.
 
 As of 2021, more than 20 populations exist across six counties, with an estimated total of 500,000+ flowering stems. The USFWS proposed delisting the species in August 2022, citing recovery goals having been met or exceeded.
+
+## Overview
+
+Echinacea Tennesseensis represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish echinacea tennesseensis
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving echinacea extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Echinacea Tennesseensis finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for echinacea tennesseensis. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+echinacea tennesseensis and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Echinacea Tennesseensis has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of echinacea tennesseensis into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[comparison-astragalus-vs-echinacea]]

@@ -12,37 +12,19 @@ sources:
 
 ## Fertility Without Inputs
 
-Fukuoka's core insight: "Soil enriches itself year in and year out without man having to lift a finger." Nature has been creating and maintaining fertile soils for billions of years without any human assistance. The entire edifice of modern fertility management — [[cervantes-chemical-fertilizers-guide]], [[cultivator-compost-preparation-phase-methods]], nutrient solutions — is built on the false premise that soil is inherently deficient. See [[soil-food-web-structure]] drives this entire process — bacteria, fungi, nematodes, and earthworms form interconnected communities that build soil structure without human intervention.
-
-## Plowing Ruins the Soil
-
-Fukuoka was unequivocal: plowing destroys what nature builds. The plow breaks fungal networks that transport nutrients through the soil, disrupts microbial communities that decompose organic matter, and exposes buried humus to rapid oxidation. "The soil works itself" through roots, microbes, earthworms, and moles — each organism contributing to soil structure in ways no machine can replicate.
-
-When soil is flooded and stirred with a plow, "the ground will set as hard as plaster." The corners of fields where heavy tractors don't pass remain "soft, rich soil" while worked areas become "hard as clay" with fist-sized cracks. Fukuoka's [[worm-ecology-soil-building]] shows how earthworms alone can accomplish what mechanical tillage cannot.
+Fukuoka's core insight: "Soil enriches itself year in and year out without man having to lift a finger." Nature has been creating and maintaining fertile soils for billions of years without any human assistance. The entire edifice of modern fertility management — [[cultivator-compost-preparation-phase-methods]], nutrient solutions — is built on the false premise that soil is inherently deficient. See [[worm-ecology-soil-building]] shows how earthworms alone can accomplish what mechanical tillage cannot.
 
 ## Green Manure as Living Fertilizer
 
-Leguminous green manure crops — clover, vetch, alfalfa, bur clover — fix atmospheric nitrogen while their roots open and enrich the soil. "If rotated with green manure crops and root vegetables, [minor grains] improve and enrich the soil." The rice/[[direct-seeded-no-tillage-rice-barley-succession-in-clover]] under clover cover is "a smarter method of non-fertilizer cultivation" than any [[fukuoka-textdoc-genetic-engineering-critique-warning]] approach.
+Leguminous green manure crops — clover, vetch, alfalfa, bur clover — fix atmospheric nitrogen while their roots open and enrich the soil. "If rotated with green manure crops and root vegetables, [minor grains] improve and enrich the soil." The rice/[[fukuoka-textdoc-genetic-engineering-critique-warning]] approach.
 
 ### Fukuoka's Specific Green Manure System
 
 In the orchard, Fukuoka used a carefully designed green manure system centered on ladino clover, alfalfa, and acacia (black wattle). Ladino clover served as the primary ground cover — it fixes nitrogen, suppresses weeds, retains moisture, and improves soil structure all simultaneously. Seedling management was simple: sow once, let it spread naturally. The clover grows luxuriantly, protects the soil surface, and is weakened only by brief flooding before rice planting.
 
-This system connected to a broader strategy of soil enrichment from the farm's protected wood. Nutrients built up in the humus of upland woods were carried downhill with rainwater, enriching the fields without any human labor. See [[fukuoka-weed-ecology]] for related practices.
+This system connected to a broader strategy of soil enrichment from the farm's protected wood. Nutrients built up in the humus of upland woods were carried downhill with rainwater, enriching the fields without any human labor. See [[fukuoka-textdoc-fertilizer-acidification-trace-element-deficiency]] depletion, and microbial suppression. Chemical fertilizers are truly effective only on soil "abused and wasted through slash-and-burn agriculture." Adding fertilizer to soil that already produces 7-8 bushels of rice per quarter-acre has very little effect, while adding it to fields yielding 10 bushels may actually hurt productivity.
 
-## The Fertilizer Dependency Trap
-
-Chemical fertilizers destroy the natural fertility cycle by encouraging shallow root growth, halting the normal aggregation of topsoil, and suppressing microbial proliferation. Trees fertilized with chemicals "grow a shallow root structure that extends along the topsoil" rather than penetrating deep. The more fertilizer applied, the more dependent the plants become — a self-reinforcing cycle of dependency.
-
-Fukuoka cataloged "more than seventy types of direct damage caused by fertilizers," including soil acidification, [[fukuoka-textdoc-fertilizer-acidification-trace-element-deficiency]] depletion, and microbial suppression. Chemical fertilizers are truly effective only on soil "abused and wasted through slash-and-burn agriculture." Adding fertilizer to soil that already produces 7-8 bushels of rice per quarter-acre has very little effect, while adding it to fields yielding 10 bushels may actually hurt productivity.
-
-The practical consequence: farmers who apply fertilizers create the very conditions that make future applications necessary. Plants grown with chemicals lose their ability to draw nutrients from the soil, becoming dependent on external inputs. Breaking this cycle requires a transition period — but once broken, the [[fukuoka-critique-modern-agriculture]].
-
-## The Straw Return
-
-The simple act of returning all straw to the field after harvest is perhaps the most important fertility practice. Straw scattered uncut over the field decomposes through natural microbial succession: fungi spread first, then mites and nematodes arrive, followed by bacteria that complete the decomposition. This process enriches the soil surface, retains moisture, and feeds the [[chop-and-drop-mulching]] and [[soil-microbiology-in-natural-farming]] — the microbial communities driving fertility
-- [[fukuoka-rice-barley-dual-culture]] — practical fertility maintenance in grain production
-- [[green-manure-crops]] — green manure crop systems
+The practical consequence: farmers who apply fertilizers create the very conditions that make future applications necessary. Plants grown with chemicals lose their ability to draw nutrients from the soil, becoming dependent on external inputs. Breaking this cycle requires a transition period — but once broken, the [[chop-and-drop-mulching]] and [[fukuoka-rice-barley-dual-culture]] — practical fertility maintenance in grain production
 - [[soil-fertility-management]] — broader fertility management
 - [[fukuoka-natural-way-of-farming-theory-of-natural-farming]], Fukuoka provides an extraordinarily detailed month-by-month account of the traditional Japanese seasonal diet, illustrating his principle that "a complete natural diet will arise of itself without [man's] having to know anything and without his having to ponder the principle of yin and yang."
 
@@ -114,8 +96,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[natural-diet]]
 - [[doc]]
-- [[matsutake-mushroom]]
 - [[maps]]
 - [[acacia]]

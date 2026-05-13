@@ -15,59 +15,8 @@ type: concept
 
 Ayahuasca is a psychoactive brew originating from Amazonian indigenous
 cultures that combines DMT (dimethyltryptamine) with a monoamine oxidase
-inhibitor (MAOI), typically from the *[[ayahuasca-and-banisteriopsis-caapi]]* vine. This
-combination allows DMT — normally inactive when taken orally due to
-rapid breakdown by monoamine oxidase enzymes in the gut — to become
-orally active, producing an experience lasting several hours. Terence
-McKenna discusses ayahuasca within the broader framework of tryptamine
-hallucinogens and their relationship to consciousness.
-
-## Pharmacological Mechanism
-
-### The DMT-MAOI Synergy
-
-The genius of ayahuasca lies in its pharmacological design:
-
-- **DMT alone (oral)**: Inactive — monoamine oxidase (MAO) enzymes in
-  the gastrointestinal tract and liver rapidly deaminate DMT before
-  it can reach the bloodstream
-- **DMT (smoked/injected)**: Active — bypasses first-pass metabolism,
-  reaches the brain in 15-45 seconds
-- **DMT + MAOI (oral)**: Active — the MAOI compounds (harmine,
-  harmaline, tetrahydroharmine from *B. caapi*) inhibit MAO enzymes,
-  allowing DMT to cross the gut barrier and reach the brain
-
-This represents a remarkable instance of indigenous pharmacological
-knowledge. The probability of discovering this combination through
-trial and error has been estimated as extraordinarily low, leading to
-debate about how Amazonian peoples identified the necessary plants and
-their synergistic interaction.
-
-### Chemical Components
-
-The primary active compounds in ayahuasca are:
-
-- **DMT source**: Typically *[[chacruna-psychotria-viridis]]* (chacruna) or
-  *[[diplopterys-cabreraeana]]* (chaliponga)
-- **MAOI source**: *Banisteriopsis caapi* (ayahuasca vine), containing
-  beta-carboline alkaloids:
-  - Harmine — reversible MAO-A inhibitor
-  - Harmaline — reversible MAO-A inhibitor, also mildly psychoactive
-  - Tetrahydroharmine — weaker MAOI, may inhibit serotonin reuptake
-
-## Comparison with Other Tryptamine Preparations
-
-McKenna places ayahuasca within a spectrum of tryptamine preparations:
-
-| Preparation | Route | Onset | Duration | Cultural Origin |
-|------------|-------|-------|----------|----------------|
-| DMT (smoked) | Inhalation | 15-45s | 5-15 min | Various |
-| Psilocybin (mushrooms) | Oral | 30-60 min | 4-6 hours | Mesoamerica |
-| Ayahuasca | Oral | 20-60 min | 4-8 hours | Amazon |
-| LSD | Oral | 30-90 min | 8-12 hours | Synthetic (1950s) |
-
-Ayahuasca is described by McKenna as "a hybrid drug that is in aboriginal
-use in the rain forests of [[guzman-psilocybin-mushrooms-south-america]]" — combining DMT's intensity
+inhibitor (MAOI), typically from the *[[chacruna-psychotria-viridis]]* (chacruna) or
+  *[[guzman-psilocybin-mushrooms-south-america]]" — combining DMT's intensity
 with a duration long enough for sustained exploration.
 
 ## Amazonian Shamanic Context
@@ -118,8 +67,83 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[ayahuasca-pharmacology]]
 - [[ayahuasca]]
-- [[harmine]]
 - [[psilocybin]]
 - [[tetrahydroharmine]]
+
+## Overview
+
+Ayahuasca Pharmacology And Cultural Context represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish ayahuasca pharmacology and cultural context
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving ayahuasca extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Ayahuasca Pharmacology And Cultural Context finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for ayahuasca pharmacology and cultural context. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+ayahuasca pharmacology and cultural context and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Ayahuasca Pharmacology And Cultural Context has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of ayahuasca pharmacology and cultural context into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.

@@ -6,7 +6,7 @@ type: concept
 
 ## A New Synthesis for System Design
 
-[[permaculture]] represents a fundamentally new synthesis of plant and animal systems, employing a post-industrial or even computerized approach to system design. It applies the principles of whole-system energy flows as devised by Howard T. Odum (1971) and the principles of ecology articulated by [[kenneth-watt]] and others. Rather than a return to primitive agriculture, permaculture is a forward-looking design science that devises systems for local, regional, and personal needs using the best available understanding of ecological function.
+[[kenneth-watt]] and others. Rather than a return to primitive agriculture, permaculture is a forward-looking design science that devises systems for local, regional, and personal needs using the best available understanding of ecological function.
 
 Had this approach been taught from the beginning, humanity would inhabit a stable and functional landscape. Instead, previous generations—lacking time or information—established the continuing mis-designed households, towns, and cities that characterize the modern world. The concept of "free" energy from fossil fuels delivered what Mollison calls the final blow to commonsense community, enabling materialistic societies to exploit distant peoples while remaining oblivious to the inevitable accounting to come.
 
@@ -85,8 +85,6 @@ Mollison directly challenges the inconsistency he observes in mainstream environ
 - Understanding improves capacity for sustainable resource management
 
 ## Related Concepts
-- [[permaculture-landscape-society-design]]
 - [[permaculture-landscape-society-anthropocentric-nature-centered-design]]
-- [[permaculture-mapping-and-reading-the-landscape]]
 - [[holzer-permaculture-landscape-design]]
 - [[partnership-society-vs-dominator-culture]]

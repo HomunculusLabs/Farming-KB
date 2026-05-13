@@ -1,11 +1,7 @@
 # Aquaponics System Design
 
 Aquaponics is an integrated food production system that combines aquaculture
-(fish farming) with hydroponics (soilless plant cultivation [[mycorrhizal-mushroom-cultivation-challenges]]) in a recirculating
-loop. Fish waste provides nutrients for plants, and plants filter the water for
-fish, creating a symbiotic ecosystem that produces both protein and vegetables
-with minimal external inputs. The design of an aquaponics system requires
-balancing fish biology, plant nutrition, [[fukuoka-microbial-ecology-decomposition]], and hydraulic
+(fish farming) with hydroponics (soilless plant cultivation [[fukuoka-microbial-ecology-decomposition]], and hydraulic
 engineering to maintain water quality within acceptable ranges for all organisms.
 
 ## The Nitrogen Cycle in Aquaponics
@@ -39,36 +35,7 @@ excellent plant growth rates and are the simplest to build and operate, but
 require large water volumes and careful oxygen management to prevent root
 suffocation.
 
-[[nutrient-film-technique]] (NFT) systems pump a thin film of water through narrow
-channels where roots are suspended. NFT provides efficient nutrient delivery but
-is less forgiving of pump failures. Media bed systems use gravel, expanded clay,
-or volcanic rock as both growing medium and biofilter — robust but prone to
-clogging with solid waste over time.
-
-Vertical aquaponics stack growing columns to maximize production per unit of floor
-space, popular for leafy greens and herbs in urban settings. The primary challenge
-is ensuring uniform water distribution and adequate light penetration to lower tiers.
-
-## Fish Species Selection
-
-Fish selection depends on climate, system size, and market objectives. Tilapia
-(Oreochromis spp.) are the most widely used aquaponics fish due to their rapid
-growth, tolerance of poor water quality, ability to thrive in warm water
-(25-30°C), and willingness to eat pelleted feed. Tilapia reach harvest weight
-(350-500g) in 6-9 months and can tolerate dissolved oxygen levels as low as
-2 mg/L, making them forgiving of system fluctuations.
-
-Catfish (Ictalurus punctatus) are popular in North American systems for their
-tolerance of wide temperature ranges and low dissolved oxygen. They grow well at
-20-28°C and reach market size in 12-18 months. Trout (Oncorhynchus mykiss) are
-used in cooler climate systems, requiring water temperatures of 10-16°C with
-high dissolved oxygen (above 6 mg/L). Trout demand excellent water quality but
-command premium market prices. Barramundi, koi, and goldfish are also used in
-specific applications.
-
-Fish stocking density affects nutrient production directly. Typical densities
-range from 10-30 kg per cubic meter of water in DWC systems. Higher densities
-increase [[ph-and-nutrient-availability-garden-soils]] but also raise ammonia spike risk. The feeding
+[[ph-and-nutrient-availability-garden-soils]] but also raise ammonia spike risk. The feeding
 rate — grams of feed per day relative to system volume — is critical, typically
 10-20 grams per square meter of plant growing area per day.
 
@@ -82,7 +49,7 @@ may exceed fish waste output. Potassium, calcium, and iron are typically
 deficient and must be supplemented via potassium hydroxide, calcium hydroxide,
 and chelated iron (Fe-DTPA).
 
-[[arbuscular-mycorrhizal-fungi-cannabis-cultivation]] [[mycorrhizal-mushroom-cultivation-challenges]] in aquaponics systems has gained interest, though regulatory
+[[mycorrhizal-mushroom-cultivation-challenges]] in aquaponics systems has gained interest, though regulatory
 constraints and the high nutrient demands of cannabis present challenges.
 Aquaponic cannabis typically requires additional phosphorus and potassium
 supplementation beyond what fish waste provides, and careful monitoring of
@@ -118,8 +85,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[aquaponics]]
 - [[decomposition]]
-- [[deep-water-culture]]
 - [[d-gold]]
 - [[mycorrhiza]]

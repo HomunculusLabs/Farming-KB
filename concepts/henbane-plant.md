@@ -10,21 +10,7 @@ tags: [plants]
 
 # Henbane Plant in Plants of the Gods
 
-Schultes and Hofmann document henbane ([[henbane-hyoscyamus-niger-ethnobotany]] and H. albus) as one
-of the most important hallucinogenic plants of European history, feared and
-revered from classical antiquity through the Middle Ages as a principal
-ingredient of witches' brews and oracular preparations.
-
-## Botanical Identity
-
-Two species are recognized in the ethnobotanical record: Black Henbane
-(Hyoscyamus niger L.) and Yellow Henbane (Hyoscyamus albus L.), both members
-of the Solanaceae (Nightshade Family). Henbane is a coarse annual or
-biennial herb bearing conspicuous leaves and dirty yellow, funnel-shaped
-flowers marked with a purple or brownish network. Indian Henbane or Egyptian
-Henbane (H. muticus) is also noted.
-
-See also: [[nightshade-plants-entheogen]]
+Schultes and Hofmann document henbane ([[nightshade-plants-entheogen]]
 
 ## Effects of Intoxication
 
@@ -51,26 +37,9 @@ Atropine has served chemists as a model for the synthesis of several
 hallucinogenic compounds. The extraordinary reputation of these solanaceous
 plants is due primarily to the bizarre psychoactivity they possess.
 
-See also: [[belladonna-plant]], [[datura-stramonium]],
+See also: [[datura-stramonium]],
 organized religion,
-richard [[richard-evans-schultes-updated]] updated
-## Practical Considerations
-
-When working with Henbane Plant in Plants of the Gods, several practical factors should be
-carefully considered to achieve optimal results. These include
-the specific conditions of the implementation context, available
-resources, timing requirements, and the interactions between this
-topic and other elements of the broader system. A holistic view
-that considers these interconnections produces better outcomes.
-
-Environmental conditions such as temperature, moisture, and
-seasonal patterns significantly influence results. Monitoring these
-variables and adapting practices accordingly is essential for success.
-The most effective practitioners develop keen observation skills and
-respond flexibly to changing conditions rather than following rigid
-protocols regardless of circumstances or local variation.
-
-[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
+richard [[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -111,8 +80,6 @@ through generations to modern scientific approaches, the evolution continues
 to inform current best practices and research directions.
 
 ## See Also
-- [[doc]]
 - [[hyoscyamine]]
-- [[scopolamine]]
 - [[hyoscyamus-niger]]
 - [[atropine]]

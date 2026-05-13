@@ -12,17 +12,7 @@ type: concept
 
 Fukuoka's approach to soil management challenges the entire premise of
 modern soil science. Rather than analyzing soil chemistry and applying
-corrective amendments, [[comparison-natural-farming-vs-permaculture]] relies on the self-organizing
-capacity of living soil ecosystems to build and maintain fertility. His
-forty years of observation demonstrate that soil enriches itself without
-human intervention when biological processes are allowed to function.
-
-## Soil as a Living System
-
-"Soil enriches itself year in and year out without man having to lift a
-finger." This is the foundational principle. Soil is not a mineral
-substrate to be amended but a living community of microorganisms, insects,
-plant roots, [[hamilton-composting-and-organic-matter-management]] in constant dynamic exchange. When this
+corrective amendments, [[hamilton-composting-and-organic-matter-management]] in constant dynamic exchange. When this
 community is healthy, fertility is maintained and improved continuously.
 When it is disrupted — by plowing, chemicals, or compaction — fertility
 declines and the farmer must intervene to repair what was never broken
@@ -33,45 +23,17 @@ Fukuoka identifies the key agents of natural soil building:
 - **Microorganisms and small animals**: These act as "nature's tillers,"
   creating soil structure, aerating the ground, and processing organic
   matter far more effectively than any plow.
-- **Green manure plants**: Clover and other [[query-which-legumes-fix-the-most-nitrogen-for-gardens-and-farms]] nitrogen and add
-  organic biomass. When cut and left as mulch, they feed the soil food web.
-- **Tree roots**: Deep-rooted trees break up compacted subsoil, bring
-  minerals to the surface through leaf litter, and create channels for
-  water infiltration.
-- **[[fukuoka-textdoc-clover-decline-and-weed-succession-orchard]]**: Different weeds emerge as soil conditions change,
+- **Green manure plants**: Clover and other [[fukuoka-textdoc-clover-decline-and-weed-succession-orchard]]**: Different weeds emerge as soil conditions change,
   each contributing to soil development in its own way.
 
 ## Cover Crop Systems
 
 Fukuoka's primary tool for soil building is the managed cover crop. White
-clover ([[trifolium-repens]]) serves as the backbone of his orchard soil
-management system:
-
-- Once sown, a clover cover remains hardy for six to seven years.
-- After about ten years, clover declines and weeds reemerge — vines,
-  climbing herbs, and perennials resistant to clover. This succession is
-  natural and beneficial.
-- The emergence of different weeds over the years indicates soil is
-  becoming richer and more balanced.
-- When weeds become too thick, clover can be re-sown or vegetable plants
-  can replace them.
-
-By sowing vegetable seeds of the same family as the weeds growing in the
-orchard, vegetable plants can eventually replace the weeds entirely. This
-transforms [[fukuoka-natural-weed-management]] from a battle into a productive partnership.
+clover ([[fukuoka-natural-weed-management]] from a battle into a productive partnership.
 
 ## Black Wattle for Soil Improvement
 
-The black wattle ([[acacia-mearnsii]]) plays a central role in Fukuoka's soil
-restoration program. Five or six years after planting, an area of more than
-100 square yards of what had been hard, lean soil around each tree becomes
-soft and porous. When cut, each tree yields up to half a ton of
-high-quality organic material. This method is far easier and more effective
-than blasting with dynamite or trenching and burying organic matter.
-
-The wattle also improves soil biology. Its constant growth throughout the
-year attracts aphids and scales, which support growing populations of
-ladybugs and other [[comparison-beneficial-insects-guide-vs-integrated-pest-management]]. This creates a protective ecosystem
+The black wattle ([[comparison-beneficial-insects-guide-vs-integrated-pest-management]]. This creates a protective ecosystem
 around the fruit trees.
 
 ## Reading Weeds as Soil Indicators
@@ -118,8 +80,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[query-what-is-the-soil-food-web-and-why-does-it-matter]]
 - [[doc]]
-- [[acacia]]
 - [[composting]]
 - [[permaculture]]

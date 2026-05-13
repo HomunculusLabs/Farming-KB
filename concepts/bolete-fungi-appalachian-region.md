@@ -14,45 +14,20 @@ surface instead of gills. The Appalachian region, spanning from northern Alabama
 through the Carolinas into Virginia and West Virginia, supports one of the
 richest bolete assemblages in North America. These predominantly mycorrhizal
 fungi are key components of forest ecosystems and include some of the most
-sought-after [[edible-wild-mushrooms-by-region]].
-
-## Morphology and Identification
-
-Boletes are defined by their hymenophore: vertically oriented tubes opening as
-pores on the cap underside. When cut, the pore surface may stain or change
-color, critically important for identification. Other key features include cap
-surface texture (dry, viscid, or reticulate), flesh color and bruising
-reactions, stem features (solid, hollow, reticulate pattern), and presence of a
-partial veil. Spore prints range from olive-brown to pinkish-brown. Many boletes
-turn blue when bruised due to oxidation of variegatic and xerocomic acids.
-
-## Major Genera
-
-### Boletus (sensu stricto)
-The genus Boletus in its modern restricted sense contains relatively few species
-but includes the renowned king bolete (Boletus edulis). True B. edulis is
-relatively uncommon in the Appalachians. [[boletus-reticulatus]] (B. aereus), with
+sought-after [[boletus-reticulatus]] (B. aereus), with
 its dark brown, finely reticulate cap, is occasionally found in oak-rich cove
 forests.
 
 ### Suillus
 Members are primarily associated with conifers. Common Appalachian species
-include [[suillus-americanus]] under eastern white pine, S. luteus under planted
-pines, and S. pictus under red spruce at high elevations.
-
-### Tylopilus
-[[tylopilus-felleus]] (bitter bolete) is common in Appalachian oak forests, notable
+include [[tylopilus-felleus]] (bitter bolete) is common in Appalachian oak forests, notable
 for its intensely bitter taste. It closely resembles king bolete but has a
 distinctive pink pore surface and dark brown reticulate stem, frequently
 confusing novice foragers.
 
 ### Leccinum
 Leccinum species have scabrous stems with dark scales from modified hyphal
-tufts. Primarily mycorrhizal with birch and aspen. [[leccinum-aurantiacum]] and
-relatives are found under birch at higher southern Appalachian elevations.
-
-### Aureoboletus
-[[aureoboletus-mirabilis]] has a shaggy fibrillose cap and bright yellow pores,
+tufts. Primarily mycorrhizal with birch and aspen. [[aureoboletus-mirabilis]] has a shaggy fibrillose cap and bright yellow pores,
 often on decaying conifer wood — unusual for a bolete. Aureoboletus pulcherrimus
 has a deep red cap and yellow pores.
 
@@ -76,9 +51,7 @@ High-elevation spruce-fir forests above 4,500 feet harbor cold-adapted boletes
 including Suillus species with red spruce and Fraser fir, some at their southern
 range limits.
 
-Old-growth forests with abundant [[fungal-diversity-leaf-litter-coarse-woody-debris]] and diverse mycorrhizal
-hosts generally support richer communities than younger second-growth stands.
-Large, old trees with extensive [[arbuscular-mycorrhizal-networks]] are particularly important
+Old-growth forests with abundant [[arbuscular-mycorrhizal-networks]] are particularly important
 for rare and infrequently fruiting species.
 
 ## Edible Species and Foraging
@@ -118,8 +91,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[dom]]
 - [[spore-print]]
-- [[spore]]
 - [[mycorrhiza]]
 - [[bolete-mushrooms-ecology-edibility]]

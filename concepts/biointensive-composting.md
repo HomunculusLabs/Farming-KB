@@ -9,28 +9,14 @@ sources:
 ---
 # Biointensive Composting
 
-Composting is central to the [[biointensive-carbon-farming]].
-
-## The Compost Imperative
-
-In GB, compost is not an optional amendment -- it is the primary fertility source. The system aims to produce enough compost on-site to sustainably maintain soil health indefinitely, eliminating the need for imported fertilizers. This is the "closed-loop" principle that distinguishes GB from other organic methods.
-
-## Carbon-to-Nitrogen Ratio
-
-The target C:N ratio for GB compost piles is approximately 30:1. This is achieved by mixing:
-
-- **Carbon (brown) materials**: Straw, dried leaves, cornstalks, [[biointensive-carbon-farming]] that produce both carbon material for composting and food. This is the largest single allocation in the GB design, reflecting the primacy of soil building.
+Composting is central to the [[biointensive-carbon-farming]] that produce both carbon material for composting and food. This is the largest single allocation in the GB design, reflecting the primacy of soil building.
 
 ## Application Rates
 
 - **New beds**: 1-2 inches of finished compost worked into the top 4-6 inches at each planting
 - **Established beds**: 1/2 to 1 inch per crop cycle
-- **[[comparison-biofertilizers-and-soil-inoculants-vs-compost-tea-guide]]**: Can be made from GB compost for [[comparison-foliar-feeding-vs-vermicompost-tea]] and soil drenching (see [[biointensive-gardening-overview]]
-- [[biointensive-bed-preparation]]
-- [[chamovitz-circadian-rhythm-internal-clock-plants]]
-
+- **[[comparison-foliar-feeding-vs-vermicompost-tea]] and soil drenching (see [[biointensive-bed-preparation]]
 - [[2c-d-pihkal-entry-23]]
-- [[compost-tea-application-rates]]
 - [[jadam-cover-crop-method]]
 ## Practical Applications
 
@@ -97,8 +83,6 @@ through generations to modern scientific approaches, the evolution continues
 to inform current best practices and research directions.
 
 ## See Also
-- [[composting]]
 - [[doc]]
-- [[det]]
 - [[biointensive-calorie-crops]]
 - [[biointensive-mini-farming]]

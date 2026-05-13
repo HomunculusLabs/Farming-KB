@@ -14,7 +14,7 @@ Asthma is typically a chronic medical problem, ranging from mild breathing diffi
 
 ## Evidence Base
 
-The [[blesching-cannabis-health-index-autoimmune-conditions]] (CHI) rates the evidence for cannabis in asthma at a CHI value of 24, based on 7 studies reviewed. This represents a robust evidence base, primarily from [[mushroom-cancer-clinical-trials-overview]] conducted in the 1970s examining THC's bronchodilator properties.
+The [[mushroom-cancer-clinical-trials-overview]] conducted in the 1970s examining THC's bronchodilator properties.
 
 ## Bronchodilator Properties
 
@@ -38,35 +38,10 @@ The conducting scientist concluded that the mode of action of THC differs from s
 
 In 1977 and 1978, studies evaluated aerosolized THC compared to placebo and isoproterenol. Results showed aerosolized THC was less pronounced than isoproterenol in producing bronchodilation in the short term (5 minutes) but significantly better in longer time ranges (1 to 3 hours).
 
-However, researchers noted that aerosolized THC caused moderate to severe bronchoconstriction associated with cough and chest discomfort in some patients, indicating that local irritation of the airways may make raw aerosolized THC unsuitable for therapeutic use. This highlights the need for refined [[cannabis-delivery-methods-comparison]].
-
-## Mechanism of Action
-
-THC's bronchodilator action differs from sympathomimetic drugs (which stimulate the sympathetic nervous system and increase heart rate). THC does not detectably alter heart rate during bronchodilation, suggesting a different mechanism that may be advantageous for patients who cannot tolerate the cardiovascular effects of standard bronchodilators.
-
-This distinct mechanism of action means THC could potentially be used alongside conventional bronchodilators for additive or synergistic effects without compounding cardiovascular side effects.
-
-## Administration Method Considerations
-
-The clinical evidence comes from both smoked and oral forms of THC, as well as aerosolized preparations. While smoking provides rapid onset, it introduces burned plant material to already-sensitive airways. Oral THC takes longer to act but provides sustained bronchodilation.
-
-Vaporization may offer the rapid onset of smoking without the harmful combustion byproducts. For asthma patients who cannot tolerate any inhaled substance, oral preparations remain the safest option. See [[cannabis-respiratory-conditions]] for broader respiratory health context
-
-- [[cannabis-anti-inflammatory-applications]] for airway inflammation
+However, researchers noted that aerosolized THC caused moderate to severe bronchoconstriction associated with cough and chest discomfort in some patients, indicating that local irritation of the airways may make raw aerosolized THC unsuitable for therapeutic use. This highlights the need for refined [[cannabis-respiratory-conditions]] for broader respiratory health context
 
 - [[cannabis-administration-methods-comparison]] for safe delivery routes
 
-- [[cannabis-health-index]] for the CHI methodology
-
-## Key Research Summary
-
-Seven studies from 1974 to 1978 demonstrate THC's bronchodilator properties in asthma patients. THC produces significant bronchodilation lasting at least two hours, equaling standard bronchodilators at the one-hour mark. THC works through a mechanism distinct from sympathomimetic drugs, potentially offering additive benefits without compounding cardiovascular side effects.
-
-## Limitations and Future Directions
-
-The clinical evidence, while strong, dates primarily from the 1970s. Modern replication with refined delivery methods (vaporization, nebulized preparations) is needed. The bronchoconstriction observed with crude aerosolized THC suggests that formulation matters significantly. Future research should develop THC preparations that deliver bronchodilator effects without airway irritation, and examine whether CBD provides additional anti-inflammatory benefits for asthma management.
-
-Source: Uwe Blesching, The Cannabis Health Index (2015)
 - [[first-time-grower-common-mistakes]]
 ## Practical Considerations
 
@@ -116,8 +91,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[cannabis-health-index]]
 - [[doc]]
-- [[uwe-blesching]]
 - [[det]]
 - [[cannabis-for-viral-infections]]

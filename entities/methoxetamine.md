@@ -30,17 +30,9 @@ sources:
 ## Overview
 
 Methoxetamine (MXE) is a synthetic dissociative compound of the arylcyclohexylamine
-class, structurally related to [[ketamine]] and tiletamine with the addition of a
-3-methoxy group and an N-ethyl group replacing the N-methyl of ketamine. First
-synthesized and sold online around 2010, it was marketed as a "research chemical"
-and gained popularity as a ketamine substitute with reportedly longer duration and
-greater oral bioavailability. MXE acts primarily as an NMDA receptor antagonist but
-additionally exhibits activity at the dopamine and serotonin transporters (SERT and
-DAT), distinguishing its pharmacological profile from ketamine. Its recreational
-use declined sharply after scheduling in multiple countries and increasing reports
-of severe [[blesching-cannabis-safety-adverse-effects-evidence]] including bladder toxicity, psychological dependence, and
+class, structurally related to [[blesching-cannabis-safety-adverse-effects-evidence]] including bladder toxicity, psychological dependence, and
 fatal overdoses. The compound remains a significant case study in novel
-psychoactive substance (NPS) [[adverse-effects-and-harm-reduction-psilocybin]] and [[mckenna-modest-proposal-drug-policy-reform]].
+psychoactive substance (NPS) [[mckenna-modest-proposal-drug-policy-reform]].
 
 ## Chemical Identity
 

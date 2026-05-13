@@ -103,13 +103,8 @@ In formal garden settings, it functions as a specimen plant or living screen whe
 
 ## See Also
 
-- [[muhlenbergia-capillaris]]
 - [[muhlenbergia-rigens]]
-- [[pennisetum-alopecuroides]]
 - [[andropogon-gerardii]]
-- [[panicum-virgatum]]
 - [[schizachyrium-scoparium]]
-- [[bouteloua-gracilis]]
 - [[deschampsia-caespitosa]]
-- [[festuca-glauca]]
 - [[cortaderia-selloana]]

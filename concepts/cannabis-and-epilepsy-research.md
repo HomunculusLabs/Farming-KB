@@ -9,60 +9,12 @@ sources:
 ---
 # Cannabis and Epilepsy Research (Status Epilepticus)
 
-**Source:** Uwe Blesching, The [[blesching-cannabis-health-index-autoimmune-conditions]] (2017)
-**Last Updated:** 2026-04-19
-**CHI Value: 13** (5 studies reviewed)
-
-## Condition Overview
-
-Status epilepticus (SE): continuous seizure activity >5 minutes, or multiple seizures without regaining consciousness. Life-threatening emergency. The brain/nervous system in excessive nerve cell activity — "a short in the electrical system."
-
-**Symptoms:** aura (smell, visual shift, deja vu, slow motion sensation), thrashing, loss of consciousness, involuntary spasms, rapid heart rate, oral trauma, incontinence, confusion.
-
-**Causes:** nerve toxins, hypoglycemia, high fevers (children), sepsis, trauma, tumors, metabolic imbalance, medication tolerance, alcohol withdrawal, stroke, hereditary brain diseases.
-
-**Standard treatment:** diagnose/correct underlying causes; anti-seizure pharmaceuticals. No cure exists.
-
-Epilepsy affects approximately 50 million people worldwide, making it one of the most common neurological conditions. About one-third of epilepsy patients have drug-resistant epilepsy (DRE), meaning their seizures are not adequately controlled by conventional anti-seizure medications. This treatment-resistant population is the primary group for whom cannabinoid therapy is being investigated.
-
-## Cannabis Research Findings
-
-**Key mechanism:** ECS maintains up/down (excitatory/inhibitory) balance in CNS. Epilepsy patients have significantly lower anandamide levels in cerebrospinal fluid than healthy controls — suggesting anandamide deficiency may play a role in epilepsy.
-
-**2009 Reading UK (mice):** CBD (100mg/kg) produced significant reduction in seizure frequency and overall mortality.
-
-**2005 Leiden/Rome (18 children):** CBD oil given to children who failed traditional anti-seizure medications:
-
-- No side effects requiring CBD discontinuation
-
-- >25% improvement in seizure crises in most children
-
-- Clear improvement in consciousness and spasticity in ALL treated children
-
-**2003 Germany (8 pediatric patients):** Delta-9-THC (0.04-0.14 mg/kg) produced positive psychotropic effects, influenced spasticity and dystonia, occasional anticonvulsant action.
-
-**2009 Virginia Commonwealth University:** Chemically induced SE caused redistribution of CB1 receptors in hippocampus — suggesting ECS dysregulation during epileptogenesis.
-
-## Study Summary
-
-| Agent | Study Type | Year, Location, Key Finding | CHI |
-|-------|-----------|---------------------------|-----|
-| CBD (100mg/kg) | Animal (mice) | 2009 — Reading UK: Significant reduction in seizure frequency and mortality | 2 |
-| Anandamide/2-AG | Human CSF analysis | 2009 — Rome: Anandamide levels lower in epilepsy patients | 3 |
-| CB1 receptors | Animal (epileptic rats) | 2009 — Virginia Commonwealth: CB1 redistribution in hippocampus during SE | 2 |
-| CBD (oil) | 18 children, drug-resistant | 2005 — Leiden/Rome: >25% seizure improvement; no serious side effects; improved consciousness and spasticity | 3 |
-| Delta-9-THC (0.04-0.14 mg/kg) | 8 pediatric patients | 2003 — Germany: Positive psychotropic effects, reduced spasticity, occasional anticonvulsant action | 3 |
-| | | **Total CHI Value: 13** | |
-
-## Mechanisms of Action
-
-The anticonvulsant properties of cannabinoids involve multiple pathways within the [[cannabis-minor-cannabinoids]] like CBDV (cannabidivarin) may offer additional benefits, as CBDV has shown anticonvulsant activity in pre-clinical models
+**Source:** Uwe Blesching, The [[cannabis-minor-cannabinoids]] like CBDV (cannabidivarin) may offer additional benefits, as CBDV has shown anticonvulsant activity in pre-clinical models
 
 ## Dosage and Administration
 
 - Pharmaceutical CBD (Epidiolex) dosing typically starts at 2.5 mg/kg twice daily and titrates to 10–20 mg/kg/day
-- [[cannabis-cannabinoid-receptor-pharmacology]] considerations include CBD's relatively low oral bioavailability (approximately 6%) due to first-pass metabolism
-- Patients should be monitored for potential [[cannabis-methods-of-consumption]] is relevant — vaporization may provide faster onset for acute seizure management
+- [[cannabis-methods-of-consumption]] is relevant — vaporization may provide faster onset for acute seizure management
 
 ## Mind-Body Perspective
 
@@ -70,7 +22,6 @@ Julius Caesar had epilepsy; ancients believed epileptics communed with gods duri
 
 ## Related Pages
 
-- [[cannabis-endocannabinoid-system]]
 - [[cannabis-drug-interactions-and-contraindications]]
 ## Practical Considerations
 
@@ -120,8 +71,80 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[cannabis-and-epilepsy]]
 - [[doc]]
-- [[uwe-blesching]]
 - [[cannabidivarin]]
 - [[anandamide]]
+
+## Overview
+
+Cannabis And Epilepsy Research represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish cannabis and epilepsy research
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving cannabis extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Cannabis And Epilepsy Research finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for cannabis and epilepsy research. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+cannabis and epilepsy research and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Cannabis And Epilepsy Research has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of cannabis and epilepsy research into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource

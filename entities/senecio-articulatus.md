@@ -108,13 +108,8 @@ Several cultivars exist in the horticultural trade, including forms with more pr
 
 ## See Also
 
-- [[crassula-ovata]]
 - [[kalanchoe-blossfeldiana]]
-- [[senecio-rowleyanus]]
 - [[echeveria-elegans]]
-- [[cotyledon-tomentosa]]
 - [[haworthia-fasciata]]
-- [[sedum-morganianum]]
 - [[aeonium-arboreum]]
-- [[kalanchoe-tomentosa]]
 - [[portulacaria-afra]]

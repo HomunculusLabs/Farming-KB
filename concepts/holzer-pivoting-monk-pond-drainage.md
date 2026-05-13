@@ -1,7 +1,7 @@
 ---
 title: Holzer holzer pivoting monk pond drainage - Pond Drainage Invention
 created: 2026-04-26
-tags: [water-management, pond-construction, drainage, [[permaculture]], holzer]
+tags: [water-management, pond-construction, drainage, permaculture, holzer]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [~/wiki/raw/papers/holzer-desert-or-paradise.md]
@@ -11,16 +11,7 @@ type: concept
 # Holzer Pivoting Monk - Pond Drainage Invention
 
 The Holzer Monk is a simple but cleverly designed mechanical device for
-controlling pond overflow and drainage. It was developed by [[comparison-sepp-holzer-vs-biodynamic]] to
-solve the problem of pond drainage without relying on conventional, often
-complex and expensive pipe systems.
-
-## The Problem with Conventional Drainage
-
-Ponds and water retention spaces need a reliable overflow mechanism. Conventional
-solutions use pipe systems with valves that are prone to blockage by debris,
-leaves, and sediment. Blocked pipes can cause dam failure or uncontrolled
-overflow. [[comparison-sepp-holzer-vs-permaculture-design]] needed a system that would be self-cleaning, simple to
+controlling pond overflow and drainage. It was developed by [[comparison-sepp-holzer-vs-permaculture-design]] needed a system that would be self-cleaning, simple to
 construct, and require minimal maintenance.
 
 ## The Pivoting Monk Design
@@ -51,35 +42,13 @@ engineering term for a vertical outlet pipe through a dam.
 ## The Pipe-in-Pipe System
 
 Closely related to the Holzer Monk is the pipe-in-pipe system, another of
-Holzer's inventions for [[water-management]] in ponds and lakes. This system uses
-concentric pipes to allow water to be drawn from different depths:
-
-- An outer pipe is set vertically into the pond.
-- An inner pipe, which can be raised or lowered, draws water from a specific
-  depth.
-- This allows the operator to select water from the warm surface layer or the
-  cool deep zone depending on needs.
-
-This is particularly useful for [[holzer-pond-shape-deep-shallow-zones]].
+Holzer's inventions for [[holzer-pond-shape-deep-shallow-zones]].
 
 ## Application in Water Landscapes
 
 The pivoting monk and pipe-in-pipe system are standard components in Holzer's
 water landscape designs. They provide the fine control needed to maintain
-healthy water bodies that support [[holzer-water-landscapes]] ecosystems.
-
-These inventions demonstrate Holzer's approach of observing natural systems and
-creating simple mechanical solutions that work with nature rather than against
-it.
-
-## Seasonal Water Level Management
-
-One of the most important applications of the pivoting monk is seasonal water
-level adjustment. Holzer deliberately raises and lowers pond levels throughout
-the year to stimulate ecological processes. In spring, lowering the water level
-exposes the shoreline mudflats, which warms quickly in the sun and creates
-ideal spawning grounds for amphibians and shallow-water invertebrates. The
-exposed mud also germinates dormant seeds from the [[query-how-do-i-create-a-seed-bank-and-start-seed-saving]], establishing a
+healthy water bodies that support [[query-how-do-i-create-a-seed-bank-and-start-seed-saving]], establishing a
 diverse fringe of marsh plants that provide habitat and food for wildlife. As
 the season progresses, raising the water level submerges these young plants,
 providing cover for fish fry and feeding grounds for waterfowl.
@@ -118,8 +87,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[permaculture]]
 - [[sepp-holzer-pond-construction]]
-- [[holzer-pond-shape-deep-shallow-zones]]
 - [[holzer-pond-lake-design]]
 - [[holzer-pond-construction-and-aquaculture]]

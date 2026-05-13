@@ -8,44 +8,10 @@ sources: [raw/papers/bill-mollison-permaculture-a-designers-manual.md]
 ---
 # Animal Housing (Detailed)
 ## Overview
-In [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]], animal housing is planned as an integrated component
-of the broader site system rather than as isolated structures. Mollison
-emphasises that animal shelters should serve multiple functions: providing
-protection, capturing wastes for compost and energy, and connecting to
-gardens, aquaculture, and food processing systems.
-## Design Principles for Animal Housing
-### Multi-Function Integration
-Every animal structure should serve at least three functions beyond housing:
-- **Waste capture**: Manure directed to compost, biogas, or direct garden
-  application
-- **Thermal benefit**: Animals housed adjacent to greenhouses or dwellings
-  contribute body heat
-- **Water management**: Roofs collect rainwater; wastewater irrigates crops
-- **Forage access**: Housing positioned for easy movement to grazing zones
-### Zone Placement
-Mollison places animal systems according to their management frequency:
-- **Zone 1**: Chickens, rabbits, pigeons (daily management)
-- **Zone 2**: Dairy goats, ducks, bees (twice-daily milking/feeding)
-- **Zone 3**: Pigs, sheep, cattle (less frequent checks)
-- **Zone 4**: Free-range or herd animals with minimal intervention
-## Poultry Housing
-### Chicken Tractors
-Mobile poultry housing (chicken tractors) is one of the most versatile
-[[permaculture-animal-integration]] systems. The tractor is a lightweight, moveable coop
+In [[permaculture-animal-integration]] systems. The tractor is a lightweight, moveable coop
 without a floor that can be relocated across garden beds or pasture:
 - Chickens scratch and manure the soil, preparing beds for planting
-- They eat [[duggar-mushroom-insect-pests-and-fungal-diseases]], weed seeds, and residual crop material
-- Daily moves prevent over-concentration of manure and reduce parasite
-  buildup
-- Floor area should provide 0.1-0.2 square metres per bird minimum
-- Include nest boxes accessible from outside for easy egg collection
-- Roosting perches at 30-60 cm height; predator-proof with wire mesh
-### Fixed Poultry Houses
-For larger flocks, fixed housing with attached runs provides permanent
-protection. Design features include:
-- Elevated coop with wire-floored dropping pit below for manure collection
-- Deep litter system using straw, leaves, or wood chips on the floor
-- Pop-hole access to [[comparison-rotational-grazing-vs-continuous-grazing]] paddocks
+- They eat [[comparison-rotational-grazing-vs-continuous-grazing]] paddocks
 - Slatted floor above a compost-active zone for continuous manure processing
 ## Pig Systems
 ### Pig-Forage Integration
@@ -68,23 +34,98 @@ Mollison describes pig systems integrated with forage crops and tree crops:
 - Mineral blocks and clean water always available
 - kidding/judging pens separate from main flock area
 ### Cattle
-- [[query-how-do-i-grow-figs-in-cold-climates]], conjoin barn housing with dwelling for shared warmth
-- Feed storage (hay, silage) adjacent to housing for winter access
-- Stockyards designed for ease of handling and minimal stress
-- laneways connect paddocks to housing and handling facilities
-- Water troughs in every paddock; frost-proof in cold climates
-## Integration with Greenhouse Systems
-### Chicken-Heated Greenhouses
-One of Mollison's most cited integrated designs places poultry housing
-directly above or adjacent to a glasshouse:
-- Chicken body heat warms the greenhouse space during cold nights
 - [[carbon-dioxide-retention-jar-lid-mushroom-cultivation]] from respiration benefits plant growth
 - Manure falls through slatted floor into compost-active zone below
 - The greenhouse provides winter shelter; chickens provide heat and CO2
 - Water from roof catchment supplies both poultry and irrigation needs
 ### Biogas Integration
-[[fukuoka-textdoc-animal-manure-human-waste-natural-cycle-heretic]] can be directed to [[biogas-digesters-and-anaerobic-digestion-systems]], producing methane for
+[[biogas-digesters-and-anaerobic-digestion-systems]], producing methane for
 cooking and heating. The effluent from digesters is nutrient-rich liquid
 fertiliser. This system is especially effective in tropical and subtropical
 climates where temperatures support [[biogas-digester-basics]] year-round.
 ## Key Design Checklist
+
+## Overview
+
+Permaculture Designers Manual Animal Housing Detailed represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish permaculture designers manual animal housing detailed
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving permaculture extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Permaculture Designers Manual Animal Housing Detailed finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for permaculture designers manual animal housing detailed. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+permaculture designers manual animal housing detailed and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Permaculture Designers Manual Animal Housing Detailed has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of permaculture designers manual animal housing detailed into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[holzer-permaculture-landscape-design]]
+- [[permaculture-design-concepts-and-methods-overview]]
+- [[permaculture-design-methods-summary]]
+- [[permaculture-design-science-concepts-themes]]
+- [[permaculture-designers-manual-wildlife-corridors]]

@@ -12,63 +12,15 @@ type: concept
 # Carbon and Calorie Crop Integration
 
 The integration of carbon crops and calorie crops is central to
-achieving [[jeavons-grow-biointensive-method-overview]] system. Rather than treating food
-production and soil building as separate activities, this approach
-combines them: the same crops that produce calories for the diet
-also generate the carbonaceous material needed for compost. This
-dual-purpose strategy is what makes the 60/30/10 model work.
-
-## The 60/30/10 Crop Area Model
-
-John Jeavons recommends dividing growing areas approximately as
-follows for one person (about 40 beds or 4,000 sq ft including
-paths):
-
-- **60% carbon-and-calorie crops** (~24 beds): Grains and other
-  crops that produce large amounts of carbon for compost while
-  also providing significant calories for the diet
-- **30% high-calorie root crops** (~12 beds): Special root crops
-  that produce maximum calories per unit area
-- **10% vegetable crops** (~4 beds): Additional vegetables for
-  vitamins and minerals; up to 3/4 of this area may be income
-  crops if needed vitamins and minerals are provided by the
-  remaining 1/4
-
-This model ensures the garden produces enough compost material
-to maintain soil fertility while also meeting dietary needs. See
-[[jeavons-grain-growing-mini-farms]] for grain-
+achieving [[jeavons-grain-growing-mini-farms]] for grain-
 growing specifics.
 
 **Legumes for interplanting**: Fava beans (grown to maturity for
-dry bean and [[dighton-fungal-biomass-production-aquatic-ecosystems]]) interplanted with grains provide
-[[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]]. Grow fava beans among wheat in winter and bush
+dry bean and [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]]. Grow fava beans among wheat in winter and bush
 beans with corn in summer to supply the nitrogen needed for good
 compost.
 
-**Other calorie crops**: [[comparison-jerusalem-artichoke-vs-potato]] (if stored long
-term—almost weight-efficient and minimally carbon-efficient),
-filberts, raisins, and sunflower seeds. Note sunflower seeds are
-very high in fat; maximum to avoid copper toxicity is 0.62 pound
-per day.
-
-## High-Calorie Root Crops (30% of Area)
-
-These root crops maximize calories per unit area and weight,
-making them essential for dietary self-sufficiency. The calorie
-efficiency varies significantly among crops:
-
-- **Potatoes**: Require 15.7 beds to produce 2,400 calories/day
-  (eating 8.6 lbs/day)—very area-efficient but weight-intensive
-- **Sweet potatoes**: More weight-efficient than regular potatoes
-- **Garlic, parsnips, burdock, salsify**: Traditional special
-  root crops with good calorie density
-- **Beets/mangels** (roots only): Good dual-purpose crop
-- **Turnips + tops**: Provide both roots and greens
-- **Radishes**: Area and weight efficient for their calorie
-  contribution
-
-The key is growing "farming-efficient" crops that produce the
-most calories in the least area. See [[jeavons-green-manures-cover-crops]] strategy ensures that nitrogen
+**Other calorie crops**: [[jeavons-green-manures-cover-crops]] strategy ensures that nitrogen
 fixed from the air by legume roots is released when roots, stems,
 and leaves decompose in the compost pile. Without this nitrogen
 contribution, additional nitrogen amendments would be needed.
@@ -77,10 +29,7 @@ contribution, additional nitrogen amendments would be needed.
 
 The carbon-and-calorie crops are the engine of the compost
 system. Their stems, stalks, leaves, and roots provide the dry
-carbonaceous material essential for [[query-how-to-make-a-balanced-compost-recipe]]. When these
-crops are grown on 60% of the garden area and properly composted,
-they can generate enough cured compost to maintain soil fertility
-across the entire growing area. Each 4-month [[savory-growing-season-and-non-growing-season-management]],
+carbonaceous material essential for [[savory-growing-season-and-non-growing-season-management]],
 up to 1 inch (8 cubic feet) of cured compost per 100 sq ft is
 applied, continuously building soil quality.
 
@@ -118,8 +67,83 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[john-jeavons]]
 - [[doc]]
-- [[building-soil]]
 - [[fukuoka-crop-rotation-and-natural-weeds]]
 - [[crop-rotation-and-ley-farming]]
+
+## Overview
+
+Jeavons Carbon And Calorie Crop Integration represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish jeavons carbon and calorie crop integration
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving jeavons extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Jeavons Carbon And Calorie Crop Integration finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for jeavons carbon and calorie crop integration. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+jeavons carbon and calorie crop integration and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Jeavons Carbon And Calorie Crop Integration has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of jeavons carbon and calorie crop integration into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.

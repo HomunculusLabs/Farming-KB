@@ -55,56 +55,18 @@ horticultural science and plant physiology.
 The distinction between basic and advanced cultivation is one of philosophy. A
 basic grower supports and harvests the plant; an advanced grower directs, shapes,
 and optimizes its growth through intentional stress, strategic pruning, and precise
-[[eclss-environmental-control-life-support]]. The results can be dramatic: yield increases of twenty to
-one hundred percent or more over untrained plants are commonly reported, along with
-improved uniformity of bud development across the canopy.
-
-The evolution from simple indoor growing to sophisticated canopy management reflects
-broader trends in controlled-environment agriculture. As [[query-how-does-no-till-cannabis-cultivation-work]] moved
+[[query-how-does-no-till-cannabis-cultivation-work]] moved
 to regulated legal markets, growers gained access to better equipment, stable
 genetics, and a growing body of shared knowledge. The techniques described in this
 article, including topping, low-stress training, super cropping, Screen of Green,
-Sea of Green, defoliation, and advanced [[green-cannabis-grow-bible-nutrient-management-ppm]], represent the current
-state of the art for cultivators seeking to produce high-quality cannabis at scale
-or within limited space.
-
-## Plant Training Fundamentals
-
-Untrained cannabis plants naturally grow in a conical shape often described as a
-"Christmas tree." This growth pattern is driven by apical dominance, a hormonal
-mechanism in which auxins produced by the apical meristem, the growing tip at the
-very top of the plant, suppress the growth of lateral branches below. The result
-is a single dominant central cola with progressively smaller bud sites toward the
-bottom. While this form is efficient in nature, it is poorly suited to indoor
-cultivation under artificial lighting, where light intensity drops sharply with
-distance from the source due to the inverse-square law.
-
-The fundamental goal of plant training is to break apical dominance and create an
-even, flat canopy where all bud sites sit at approximately the same distance from
-the light. This maximizes photosynthetic efficiency and ensures the plant's energy
-is distributed across many colas rather than concentrated in one. A flat canopy
-also reduces wasted light energy and allows growers to position lights closer
-without burning the tallest tips.
-## See Also
-
-- [[cannabis-topping-training]] for detailed [[query-what-is-the-difference-between-topping-and-fimming-cannabis]] procedures
-- [[cannabis-scrog-and-sog-methods]] for comparative analysis of canopy methods
-- [[cannabis-pruning-and-defoliation-guide]] for defoliation timing and techniques
+Sea of Green, defoliation, and advanced [[cannabis-topping-training]] for detailed [[cannabis-scrog-and-sog-methods]] for comparative analysis of canopy methods
 - [[cannabis-flowering-stage-management]] for environmental and nutrient management
-- [[cannabis-drying-and-curing-guide]] for post-harvest processing protocols
 - [[cannabis-super-cropping-technique]] for stem crushing methodology
-- [[cannabis-nutrient-management]] for comprehensive feeding schedules
 - [[cannabis-vegetative-stage-management]] for early growth optimization
-- [[cannabis-lighting-guide]] for spectrum and intensity recommendations
-- [[cannabis-nutrient-deficiency-guide]] for [[cannabis-nutrient-deficiency-and-toxicity-guide]] diagnosis
-- [[cannabis-screen-of-green-scrog-guide]] for ScrOG-specific instructions
-- [[cannabis-sea-of-green-sog-guide]] for SOG-specific instructions
+- [[cannabis-nutrient-deficiency-guide]] for [[cannabis-screen-of-green-scrog-guide]] for ScrOG-specific instructions
 - [[autoflowering-cannabis]] for autoflower cultivation strategies
-- [[cannabis-ph-management-and-soil-flushing]] for pH and flush protocols
 - [[cannabis-harvest-timing-visual-cues]] for trichome and pistil assessment
-- [[cannabis-curing-jar-technique]] for detailed curing procedures
 - [[low-stress-training]] for LST tools and techniques
-- [[cannabis-indoor-growing-guide]] for general indoor setup guidance
 - [[cannabis-pest-disease-troubleshooting]] for integrated pest management
 
 ## References

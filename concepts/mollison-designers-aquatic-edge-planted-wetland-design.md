@@ -17,13 +17,9 @@ type: concept
 
 # Aquatic Edge and Planted Wetland Design
 
-[[bill-mollison]]'s [[mollison-designers-mixed-orchard-design-species-selection]] benefits from water
+[[mollison-designers-mixed-orchard-design-species-selection]] benefits from water
   retention and microclimate moderation near ponds
-- [[mollison-designers-beekeeping-honey-production-permaculture]] gains from wetland
-  forage plants such as water mint and buttonbush
-- permaculture-designers-manual-bamboo -- source reference
-- [[gaias-garden-backyard-wetland]] [[bill-mollison-permaculture-a-designers-manual-edge-effect-and-ecotone-design]] -- productivity of boundary zones
-- [[keyline-design]] -- broader water management context
+- [[gaias-garden-backyard-wetland]] [[keyline-design]] -- broader water management context
 ## Practical Applications
 
 Aquatic Edge and Planted Wetland Design has a range of practical applications that make it relevant to

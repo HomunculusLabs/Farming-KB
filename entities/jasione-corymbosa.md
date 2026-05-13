@@ -108,13 +108,8 @@ No specific legal protection exists for this species, but it benefits indirectly
 
 ## See Also
 
-- [[jasione-montana]]
 - [[jasione-laevis]]
-- [[campanula-rotundifolia]]
 - [[campanula-rapunculus]]
-- [[lobelia-erinus]]
 - [[trachelium-caeruleum]]
-- [[legousia-speculum-veneris]]
 - [[campanula-persicifolia]]
-- [[adenophora-lilifolia]]
 - [[platycodon-grandiflorus]]

@@ -87,13 +87,7 @@ all influence the optimal approach to implementation.
 
 ## See Also
 
-- [[griggs-and-putnam-index]]
 - [[griggs-putnam-wind-index]]
-- [[wind-effects-on-trees-and-forests]]
 - [[wind-tunnel-mushroom-research]]
-- [[windbreak-design-griggs-putnam-index]]
-
-## See Also
 - [[griggs-putnam-wind-index]]
-- [[griggs-and-putnam-index]]
 - [[windbreak-design-griggs-putnam-index]]

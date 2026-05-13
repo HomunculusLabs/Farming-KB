@@ -10,58 +10,10 @@ sources: [/Users/t3rpz/wiki/raw/papers/world-wide-distribution-of-magic-mushroom
 
 # Psilocybe plutonia
 
-**Psilocybe plutonia** is a small, dung-inhabiting [[psilocybin]] and related indole
-alkaloids. It was originally described by the British mycologists Miles Joseph Berkeley and
-Moses Ashley Curtis.
-
-## Taxonomy and Nomenclature
-
-The species epithet "plutonia" derives from Pluto, the classical Greco-Roman god of the underworld.
-The name may refer to the dark coloration of the mushroom when fresh, its preference for growing
-on decaying and buried substrates, or the subterranean aspects of its habitat (dung beneath grass
-in pastures). The species has sometimes been placed in synonymy or confused with other small,
-dark-spored, dung-inhabiting psilocybian species due to its nondescript appearance and small size.
-
-In the comprehensive classification system of Guzmán, Allen, and Gartz (2000), which cataloged
-216 known [[mexico-center-neurotropic-fungal-biodiversity]] species worldwide, *P. plutonia* is recognized as one of the 116
-species within the genus Psilocybe that contain or are suspected to contain [[psilocybin]]-containing core group), which is characterized by dark spore prints,
-the presence of a pleurocystidia (sterile cells on gill faces), and the
-absence of a true partial veil (annulus) in most species.
-
-## Morphology
-
-### Macroscopic Features
-
-*Psilocybe plutonia* is a small, delicate, and easily overlooked species. The cap (pileus) is
-typically 5 to 15 mm in diameter (occasionally up to 20 mm), initially conical to convex when
-young, becoming broadly convex to nearly plane with age. In some specimens, a small umbo
-(a central nipple-like protrusion) may be present. The cap is hygrophanous, meaning it changes
-color significantly as it dries: dark brown to reddish-brown or olive-brown when moist, fading
-to a lighter tan, ochraceous, or straw-yellow color as it dries. The cap surface is smooth
-and slightly viscid (sticky) when wet due to a thin gelatinous layer (pellicle), becoming
-dull and matte when dry. The cap margin is often slightly translucent-striate at maturity,
-meaning thin parallel lines are visible when the cap is moist and backlit. This translucency
-is a common feature of hygrophanous Psilocybe species.
-
-The gills (lamellae) are adnate to adnexed (attached to the stipe with a slight notch or
-just barely touching), moderately close, and narrow. They are initially pale gray to whitish,
-darkening progressively to dark purplish-brown to nearly black as the spores mature. This
-color transition from light to dark is a characteristic feature of Psilocybe species.
-
-The stipe is slender, fragile, and easily broken, measuring 15 to 40 mm long and 0.5 to
-1.5 mm thick. It is central (attached at the center of the cap), equal in width throughout,
-or slightly enlarged at the base. The stipe surface is whitish to pale brown, smooth or
-slightly silky-fibrillose, and sometimes has a slightly bluish tint at the base in bruised
-or aged specimens. A thin, ephemeral annulus (ring) may be present in some collections but
-is often absent or so fragile that it disappears quickly. The stipe is hollow.
-
-The flesh (context) is very thin, pale, and fragile. It does not have any distinctive odor.
-The taste has been variously described as farinaceous (mealy or flour-like) or mild. Like
-many [[psilocybin]]-containing species in section Psilocybe, *P. plutonia* contains
-[[psilocin]] as its primary bioactive indole alkaloids. Psilocybin
-(4-phosphoryloxy-N,N-dimethyltryptamine) serves as a prodrug, being dephosphorylated in the
-body to the pharmacologically active [[baeocystin]] (4-phosphoryloxy-N-methyltryptamine) and
-[[psilocybe-coprophila]] and [[psilocybe-coprophila]] — another small coprophilous Psilocybe species, typically with a
+**Psilocybe plutonia** is a small, dung-inhabiting [[mexico-center-neurotropic-fungal-biodiversity]] species worldwide, *P. plutonia* is recognized as one of the 116
+species within the genus Psilocybe that contain or are suspected to contain [[psilocybin]]-containing species in section Psilocybe, *P. plutonia* contains
+[[baeocystin]] (4-phosphoryloxy-N-methyltryptamine) and
+[[psilocybe-coprophila]] — another small coprophilous Psilocybe species, typically with a
 more conical cap, slightly larger spores, and differences in cystidia morphology.
 - [[psilocybe-cubensis]] — much larger and more robust species growing on the same substrates;
 immediately distinguishable by size (cap 2-8 cm vs. 0.5-1.5 cm).
@@ -88,3 +40,88 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
+
+## Overview
+
+Psilocybe Plutonia represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish psilocybe plutonia
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving psilocybe extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Psilocybe Plutonia finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for psilocybe plutonia. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+psilocybe plutonia and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Psilocybe Plutonia has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of psilocybe plutonia into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[psilocybe-caeruleoannulata]]
+- [[psilocybe-ovoidocystidiata]]
+- [[psilocybe-phyllogena]]
+- [[psilocybe-semilanceata-worldwide-temperate-distribution-guzman-1998]]
+- [[psilocybe-species-europe]]

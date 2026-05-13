@@ -10,7 +10,7 @@ tags: [neurotropic-fungi, india, mycology, distribution, psilocybin, biodiversit
 
 ## Overview
 
-India represents one of the most species-rich regions for neurotropic fungi in Asia, as documented in Guzmán, Allen & Gartz's (2000) worldwide survey. The subcontinent's diverse climates — from tropical to alpine Himalayan — support a remarkably wide range of psychoactive fungal genera, including Amanita, Claviceps, Copelandia, Gymnopilus, Hypholoma, Inocybe, Panaeolina, Panaeolus, Psilocybe, and others.
+India represents one of the most species-rich regions for [[neurotropic-fungi]] in Asia, as documented in Guzmán, Allen & Gartz's (2000) worldwide survey. The subcontinent's diverse climates — from tropical to alpine Himalayan — support a remarkably wide range of psychoactive fungal genera, including Amanita, Claviceps, Copelandia, Gymnopilus, Hypholoma, Inocybe, Panaeolina, Panaeolus, Psilocybe, and others.
 
 ## Species Inventory
 
@@ -121,9 +121,6 @@ India's neurotropic mycota is notably more diverse than that of most other Asian
 
 ## See Also
 
-- [[guzman-allen-gartz-neurotropic-fungi-asia]]
 - [[guzman-allen-gartz-africa-underexplored-neurotropic-fungi]]
-- [[psilocybe-semilanceata]]
 - [[amanita-muscaria-cultural-history]]
-- [[copelandia-panaeolus-genera]]
 - [[guzman-panaeolina-foenisecii-psilocybin-controversy-conflicting-chemical-analyses]]

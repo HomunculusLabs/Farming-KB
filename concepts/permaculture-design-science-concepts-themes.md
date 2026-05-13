@@ -8,19 +8,8 @@ type: concept
 
 ## The Design Science Revolution
 
-Permaculture opens its conceptual framework with a provocative assertion from [[buckminster-fuller]]: "The world teeters on the threshold of revolution. If it is a bloody revolution it is all over. The alternative is a design science revolution." Design science, in Fuller's vision, produces so much performance per unit of resource invested as to take care of all human needs. This is the foundational premise of permaculture as a design discipline — not a return to primitive living, but a leap forward in the intelligence with which humans organize their relationship to natural systems.
-
-Mollison situates permaculture within a broader intellectual tradition drawing on thermodynamics, ecology, systems theory, and the philosophy of science. The opening epigraphs of his design chapter establish the theoretical ground:
-
-- **[[arthur-koestler]]** (1967): Living organisms are open systems that maintain complex forms through continuous exchanges of energy and material with their environment, constantly building more complex substances, forms of energy, and patterns of information
-- **[[ilya-prigogine]]** (Nobel Prize, 1977): While the second law of thermodynamics states that energy tends to dissipate and organized systems drift toward entropy, biological systems tend toward increasing complexity and efficiency — a seeming violation that is actually characteristic of open systems
-- **Edward Goldsmith** (1981): The biosphere (Gaia) systematically builds up the stock of materials it requires to move toward increasing complexity, diversity, and stability
-
-These perspectives converge on a single insight: life is not a thermodynamic anomaly but a self-organizing principle that can be understood and deliberately applied through design.
-
-## Open vs. Closed Systems
-
-A critical distinction underlies all of [[permaculture-design]] thinking: the difference between **open** and **closed** systems.
+Permaculture opens its conceptual framework with a provocative assertion from [[arthur-koestler]]** (1967): Living organisms are open systems that maintain complex forms through continuous exchanges of energy and material with their environment, constantly building more complex substances, forms of energy, and patterns of information
+- **[[permaculture-design]] thinking: the difference between **open** and **closed** systems.
 
 **Closed systems** (as in classical thermodynamics) operate in confinement where reactions can be reversed — the expansion and compression of gas in a cylinder, for example. Energy accounting is straightforward; the system's behavior is predictable.
 
@@ -34,7 +23,7 @@ This distinction has profound implications for design. Permaculture designers wo
 
 ## The Gaia Hypothesis and Self-Regulation
 
-Mollison draws heavily on James Lovelock's Gaia hypothesis: the biosphere behaves not as a material assembly but as a thought process — a self-regulating system that created the conditions required for its own support and systematically builds toward increasing complexity, diversity, and stability.
+Mollison draws heavily on [[james-lovelock]]'s [[gaia-hypothesis]]: the biosphere behaves not as a material assembly but as a thought process — a self-regulating system that created the conditions required for its own support and systematically builds toward increasing complexity, diversity, and stability.
 
 The practical implication for designers is that the Earth reacts to maltreatment. If natural systems and processes are overloaded, deformed, or deflected, there will be a reaction — and this reaction may have long-term consequences. The design directive is clear: "Don't do anything unless you've thought out all its consequences and advantages."
 

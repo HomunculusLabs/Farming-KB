@@ -18,37 +18,12 @@ sources:
   - Fritsch, R.M. & Friesen, N. (2002). "Evolution, domestication and taxonomy." In: Allium brassinosteroid-anti-stress-effects-crop-science.
   - Block, E. (2010). Garlic and Other Alliums: The Lore and the Science. Royal Society of Chemistry.
   - Hanelt, P. (1990). "Taxonomy, evolution and history." In: Onions and Allied Crops, Vol. 1.
-  - Krest, I. et al. (2000). "Antimicrobial activity of [[allium-cepa]], A. sativum, and A. schoenoprasum." Planta Medica 66: S31.
-aliases:
-  - chives
-  - onion chives
-  - garden chives
-  - wild chives
-  - Allium sibiricum
----
-
-## Overview
-
-**Allium schoenoprasum**, commonly known as chives, is a perennial herbaceous plant in the
-family Amaryllidaceae (formerly Alliaceae). Native to [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]] of Europe, Asia,
-and [[psilocybin-north-america-pacific-northwest]], it is one of the most widely cultivated [[holzer-medicinal-and-culinary-herbs-compendium]] globally.
+  - Krest, I. et al. (2000). "Antimicrobial activity of [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]] of Europe, Asia,
+and [[holzer-medicinal-and-culinary-herbs-compendium]] globally.
 
 Chives are distinguished from other *Allium* species by their hollow, tubular leaves and
 delicate purple-pink flowers borne on spherical umbels. The leaves and flowers are both
-edible, providing a mild onion flavor widely used in European, Asian, and [[growing-gourmet-north-american-reishi-species]]
-cuisines. The species also has documented antimicrobial and antioxidant properties.
-
-## Taxonomy and Classification
-
-Division: Magnoliophyta → Class: Liliopsida → Order: Asparagales → Family:
-Amaryllidaceae → Subfamily: Allioideae → Tribe: Allieae → Genus: *Allium* → Subgenus:
-*Rhizirideum* → Section: *Schoenoprasum* → Species: *A. schoenoprasum*.
-
-The species was described by Carl Linnaeus in 1753. The epithet *schoenoprasum* derives
-from Greek *skhoínos* (rush) and *prason* (leek), referencing the rush-like foliage.
-Synonyms include *Allium sibiricum* L. and *Allium raddeanum* Regel.
-
-Chives belong to a section of approximately 150 [[datura-metel-old-world-ethnobotany]] species, with *A. schoenoprasum*
+edible, providing a mild onion flavor widely used in European, Asian, and [[datura-metel-old-world-ethnobotany]] species, with *A. schoenoprasum*
 being the only widely cultivated member of section *Schoenoprasum*.
 
 ## Morphology
@@ -87,3 +62,88 @@ converted by alliinase upon tissue damage to allicin, which degrades to diallyl 
 
 Key bioactive constituents include methyl allyl disulfide, dipropyl disulfide, and
 diallyl trisulfide. Flavonoids include kaempferol and quercetin glycosides.
+
+## Overview
+
+Allium Schoenoprasum represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish allium schoenoprasum
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving allium extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Allium Schoenoprasum finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for allium schoenoprasum. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+allium schoenoprasum and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Allium Schoenoprasum has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of allium schoenoprasum into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[allium-ampeloprasum]]
+- [[allium-porrum]]
+- [[allium-sativum-entity]]
+- [[allium-tricoccum]]
+- [[allium-tuberosum]]

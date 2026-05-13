@@ -19,10 +19,7 @@ than for the Aztec tradition.
 
 Several lines of evidence suggest Maya involvement with hallucinogenic
 mushrooms. Mayan languages in Guatemala had terms for mushrooms named for the
-underworld. Miniature [[mckenna-mushroom-stones-of-guatemala]], some 2,200 years old, have been found
-in archaeological sites near Guatemala City, and stone mushroom effigies
-buried with a Mayan dignitary have been postulated to suggest a connection
-with the Nine Lords of the Xibalba described in the sacred book mushroom-stone-artifacts, [[amanita-muscaria-ethnobotany]] as
+underworld. Miniature [[amanita-muscaria-ethnobotany]] as
 having special properties. They call it Kakulja-ikox ("lightning mushroom"),
 relating it to Rajaw Kakulja, the Lord of Lightning, who directs the
 operation of chacs (dwarf rain-bringers, now usually known by their Christian
@@ -32,18 +29,13 @@ mushroom."
 
 Schultes and Hofmann observe that thunder and lightning have been widely and
 anciently associated with mushrooms in both hemispheres, especially with the
-[[amanita-muscaria-fly-agaric-history-and-pharmacology]]. They conclude that "the Quiche-Maya are evidently well aware the
 [[allegro-amanita-muscaria-properties-and-pharmacology]] is no ordinary mushroom but relates to the supernatural."
 
-See also: [[amanita-muscaria-ethnobotany]], [[blue-lotus-history]]) enjoyed an exceptionally prominent
+See also: [[blue-lotus-history]]) enjoyed an exceptionally prominent
 place in the mythology and art of the Mayan world from the Middle Classical
 period until the inception of the Mexican period. Nymphaea ampla and N.
 caerulea are the species relevant to New World use, and their ritual
-significance parallels [[datura-metel-old-world-ethnobotany]] traditions involving these same plants.
-
-See also: teonanacatl-and-mesoamerican-mushroom-cults,
-pre-columbian-mushroom-use, [[three-pillars-mushroom-cultivation-spawn-substrate-environment]], [[mazatec-mushroom-culture-and-velada]],
-richard [[richard-evans-schultes-updated]] updated
+significance parallels [[three-pillars-mushroom-cultivation-spawn-substrate-environment]], [[richard-evans-schultes-updated]] updated
 ## Practical Considerations
 
 When working with Maya Entheogens in Plants of the Gods, several practical factors should be

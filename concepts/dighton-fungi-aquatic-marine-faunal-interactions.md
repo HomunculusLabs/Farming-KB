@@ -16,19 +16,13 @@ type: concept
 
 # Fungi in Aquatic and Marine Faunal Interactions
 
-[[singh-fungal-interactions-with-heavy-metals-in-soil]] with animals in aquatic and [[fungal-biodiversity-marine-ecosystems-coastal-deep-sea]] range
+[[fungal-biodiversity-marine-ecosystems-coastal-deep-sea]] range
 from mutualistic associations that enhance animal nutrition to pathogenic
 relationships causing disease. Fungi condition leaf litter to improve
 its palatability for shredder invertebrates, form obligate gut symbioses
 with aquatic insects, and serve as essential dietary components for
 marine wood-boring crustaceans. These interactions are critical for
-energy flow and [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] in aquatic food webs.
-
-## Leaf Conditioning for Freshwater Shredders
-
-In freshwater streams, fungal degradation of leaf litter "conditions"
-the leaf material to make it more palatable for faunal grazing. Barlocher
-and Kendrick (1975) regard [[freshwater-fungi-aquatic-hyphomycetes-ascomycetes]] as intermediaries in
+energy flow and [[freshwater-fungi-aquatic-hyphomycetes-ascomycetes]] as intermediaries in
 energy flow in stream ecosystems. The amphipod Gammarus increased in
 weight faster relative to food ingested when provided with leaves
 colonized by fungi including Humicola, Anguillospora, Clavariopsis,
@@ -82,44 +76,6 @@ important for sustaining invertebrate herbivore populations. The
 amphipod Ulorchestia spartinophila has complex dietary requirements
 and grows best and produces the most offspring when fed on decaying
 leaves containing high fungal biomass. The fungal role in improving
-[[coleman-winter-greens-nutritional-quality-cold-sweetening]] of decomposing plant material extends from
-freshwater streams to estuarine and marine environments.
-
-## Gut Symbiont Fungi
-
-Like terrestrial and aquatic arthropods, marine isopods contain fungi
-
-## Practical Applications
-
-The principles and techniques discussed here have wide-ranging applications
-across multiple disciplines and contexts. Practitioners and researchers
-continue to explore new ways to integrate these concepts into modern practice,
-adapting traditional knowledge to contemporary challenges and opportunities.
-
-## Key Considerations
-
-Several important factors influence the effectiveness and outcomes described
-in this topic. Understanding these considerations helps practitioners make
-informed decisions and avoid common pitfalls. Environmental conditions,
-timing, and material selection all play critical roles.
-
-## Historical Context
-
-The historical development of this subject reflects centuries of accumulated
-knowledge and practical experience. From traditional methods passed down
-through generations to modern scientific approaches, the evolution continues
-to inform current best practices and research directions.
-
-## Common Challenges
-
-Practitioners frequently encounter several challenges when working with
-these concepts. Climate variability, resource limitations, and knowledge
-gaps can all affect outcomes. Addressing these challenges requires patience,
-observation, and a willingness to adapt approaches based on results.
-
-## See Also
-- [[doc]]
-- [[dom]]
+[[doc]]
 - [[decomposition]]
-- [[dighton-saprotroph-mycorrhizal-litter-interactions]]
 - [[fungi-in-the-environment-plant-fungal-interactions]]

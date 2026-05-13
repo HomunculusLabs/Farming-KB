@@ -14,10 +14,7 @@ fruiting bodies, sclerotia are dense masses of hardened mycelium that form
 underground as survival structures for certain fungal species.
 
 The EMCDDA has monitored the European sclerotia market as part of its broader
-surveillance of novel [[cultural-evolution-and-psychoactive-substances]] and drug market trends. Sclerotia
-occupied a legal grey area in several European countries, most notably the
-Netherlands, where they were sold openly in "smart shops" even after the 2008
-ban on dried [[cap-versus-stem-alkaloid-distribution-in-psilocybin-mushrooms]].
+surveillance of novel [[cap-versus-stem-alkaloid-distribution-in-psilocybin-mushrooms]].
 
 ## What Are Sclerotia?
 
@@ -32,13 +29,7 @@ those produced by species in the genus Psilocybe, particularly:
 
 - **Psilocybe mexicana** — the species first identified by Heim and Wasson in
   Mexico, and one of the primary sclerotia-forming species used commercially
-- **[[psilocybe-tampanensis-entity]]** — originally collected near Tampa, Florida; known
-  for producing sclerotia called "philosopher's stones"
-- **Psilocybe atlantis** — a less common species also reported to form sclerotia
-  under cultivation conditions
-
-These sclerotia contain the same psychoactive compounds as the fruiting bodies
-of their respective species — primarily [[hplc-analysis-of-psilocybin-and-psilocin]] — at comparable
+- **[[hplc-analysis-of-psilocybin-and-psilocin]] — at comparable
 concentrations per unit of dry weight.
 
 ## The Dutch Smart Shop Market
@@ -132,10 +123,9 @@ active constituents rather than their biological form of the product sold.
 
 ## See Also
 
-- [[psilocybin]] — the primary psychoactive compound in sclerotia
 - [[psilocybe-mexicana]] — the primary species cultivated for sclerotia
   production
-- [[dutch-smart-shop-paddos-history]] — the [[mycoremediation-regulatory-framework]] that enabled the
+- [[mycoremediation-regulatory-framework]] that enabled the
   sclerotia market
 - [[hallucinogenic-mushrooms-european-prevalence-and-trends]] — EMCDDA data on psychoactive
   substance use patterns

@@ -108,13 +108,8 @@ The species contains higher concentrations of protective secondary metabolites t
 
 ## See Also
 
-- [[polystichum-aculeatum]]
 - [[polystichum-setiferum]]
-- [[polystichum-braunii]]
 - [[polystichum-munitum]]
-- [[polystichum-acrostichoides]]
 - [[dryopteris-filix-mas]]
-- [[cystopteris-fragilis]]
 - [[polypodium-vulgare]]
-- [[asplenium-trichomanes]]
 - [[athyrium-filix-femina]]

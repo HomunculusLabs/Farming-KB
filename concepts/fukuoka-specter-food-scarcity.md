@@ -11,9 +11,7 @@ sources:
 
 # The Specter of Food Scarcity
 
-In *The Road Back to Nature*, [[fukuoka-natural-diet-philosophy]], [[fukuoka-deficit-farming]], [[fukuoka-food-as-strategic-weapon]], [[fukuoka-machine-culture-doomed]], [[fukuoka-road-back-to-nature-overview]], [[food-dehydration-guide]], [[fukuoka-deficit-farming]] describes Fukuoka's broader [[fukuoka-road-critique-of-modern-science]] agriculture's dependency on external inputs, which is the root cause of the food insecurity he warns about.
-
-[[natural-farming-fukuoka]] outlines the core philosophy and methods that Fukuoka argues could make countries self-sufficient without industrial agriculture.
+In *The Road Back to Nature*, [[fukuoka-deficit-farming]], [[fukuoka-machine-culture-doomed]], [[food-dehydration-guide]], [[fukuoka-road-critique-of-modern-science]] agriculture's dependency on external inputs, which is the root cause of the food insecurity he warns about.
 
 [[food-dehydration-guide]] connects to Fukuoka's emphasis on traditional food preservation as a path to reducing waste and dependency on imported foods.
 ## Background and Context
@@ -118,8 +116,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[dom]]
 - [[det]]
-- [[fukuoka-food-synthesis-trajectory]]
 - [[fukuoka-artificial-food-synthesis-degradation-food-quality]]
 - [[fukuoka-textdoc-trajectory-hothouse-agriculture-to-total-food-synthesis]]

@@ -10,10 +10,7 @@ sources:
 
 # White-Rot Fungi Lignin Degradation Enzymes
 
-White-rot fungi produce a unique array of extracellular enzymes capable of degrading lignin, the complex aromatic polymer that provides structural support in plant cell walls. These [[singh-ligninolytic-enzymes-fungal-bioremediation]] are nonspecific oxidoreductases that can also degrade a wide range of recalcitrant environm
-
-## Practical Context
-[[comparison-brown-rot-vs-white-rot-bioremediation]] Fungi Lignin Degradation Enzymes is relevant to farming knowledge because it connects observation,
+White-rot fungi produce a unique array of extracellular enzymes capable of degrading lignin, the complex aromatic polymer that provides structural support in plant cell walls. These [[comparison-brown-rot-vs-white-rot-bioremediation]] Fungi Lignin Degradation Enzymes is relevant to farming knowledge because it connects observation,
 site conditions, and management choices. Treat it as a working topic rather
 than a standalone label: the useful questions are where it appears, what
 conditions make it stronger or weaker, and how it changes decisions in the
@@ -35,13 +32,9 @@ changes.
 
 ## Related
 
-- [[lignocellulose-degradation-by-fungi]]
 - [[nitroaromatic-degradation-by-white-rot-fungi]] Topics
-- [[enzymatic-degradation-in-mycoremediation]]
 - [[ligninolytic-enzymes]]
-- [[soil-foodweb]]
 - [[mycoremediation]]
-- [[singh-white-rot-fungi-lignin-modifying-enzymes|Singh White Rot Fungi Lignin Modifying Enzymes]]
 - [[mycoremediation-techniques|Mycoremediation Techniques]]
 
 ## Notes for Further Development

@@ -9,7 +9,7 @@ sources: []
 
 # Onion Growing Guide
 
-Onions (Allium cepa) are a foundational kitchen staple with specific day-length requirements that determine bulb formation. This guide covers day-length types, [[native-american-church-peyote-ceremony-structure-roles-roadman]] (sets, seeds, transplants), growing care, curing, and storage.
+Onions (Allium cepa) are a foundational kitchen staple with specific day-length requirements that determine bulb formation. This guide covers day-length types, planting methods (sets, seeds, transplants), growing care, curing, and storage.
 
 ## Day-Length Types
 
@@ -32,7 +32,7 @@ Onions bulb in response to daylight hours. Choosing the correct type for your la
 ### Sets (Small, Dry Bulbs)
 - **What**: Miniature dormant bulbs (3/4 inch or smaller), grown from seed the previous year.
 - **Pros**: Easiest method, fast to mature, reliable.
-- **Cons**: Limited [[coleman-winter-greens-variety-selection]], smaller final bulbs, higher bolt rate.
+- **Cons**: Limited variety selection, smaller final bulbs, higher bolt rate.
 - **Planting**: Push into soil with root plate down, tip just at soil surface.
 - **Spacing**: 2-4 inches apart in rows 12-18 inches apart.
 - **Best for**: Beginners, gardeners who want a simple reliable crop.
@@ -68,12 +68,12 @@ Onions bulb in response to daylight hours. Choosing the correct type for your la
 - Onions have shallow root systems — consistent moisture is critical.
 - 1-1.5 inches per week.
 - Keep soil evenly moist but not waterlogged.
-- Mulch with straw to retain moisture and [[query-how-do-cover-crops-suppress-weeds]].
+- Mulch with straw to retain moisture and suppress weeds.
 - Reduce watering when bulbs approach full size (last 2-3 weeks before harvest).
 
 ### Fertilizing
 - Onions are heavy nitrogen feeders.
-- Side-dress with nitrogen-rich fertilizer (blood meal, [[comparison-wood-chip-mulch-vs-leaf-mold-vs-composted-manure-soil-building]], fish emulsion) every 2-3 weeks until bulbs begin to swell.
+- Side-dress with nitrogen-rich fertilizer (blood meal, composted manure, fish emulsion) every 2-3 weeks until bulbs begin to swell.
 - Stop nitrogen when bulbs are 2/3 their final size — excess N delays maturity.
 - Apply phosphorus and potassium at planting (bone meal, kelp meal).
 
@@ -114,7 +114,7 @@ Onions bulb in response to daylight hours. Choosing the correct type for your la
 
 ## Storage
 
-- [[spawn-storage-conditions]]: cool (35-45°F), dry (60-70% humidity), dark, well-ventilated.
+- Storage conditions: cool (35-45°F), dry (60-70% humidity), dark, well-ventilated.
 - **Do NOT refrigerate** — cold + humidity causes sprouting and rot.
 - Mesh bags, nylon stockings, or slatted crates allow airflow.
 - Store in a cool basement, root cellar, or unheated garage.
@@ -140,11 +140,11 @@ Onions bulb in response to daylight hours. Choosing the correct type for your la
 |---------|-------|------------|
 | Small bulbs | Wrong day-length type, insufficient nitrogen, crowding | Choose correct type, fertilize, proper spacing |
 | Thick necks (won't cure) | Excess nitrogen late in season, too much water | Stop N when bulbs are 2/3 mature, reduce watering |
-| Bolting | Temperature fluctuations, large sets | Use transplants/seeds, mulch, avoid large sets |
-| Thrips | Tiny insects sucking sap from leaves | Insecticidal soap, neem oil, encourage beneficials |
-| Downy mildew | Fungal disease in humid conditions | Good airflow, avoid overhead watering, copper spray |
 
-## Related Concepts
+## See Also
 
-- [[garlic-growing-guide]] — related allium with similar planting and curing methods
-- [[companion-planting-reference]] — carrots, beets, lettuce as onion companions; avoid beans
+- [[comparison-garlic-vs-onion-growing]]
+- [[hamilton-bulb-vegetables-onion-family-organic]]
+- [[hamilton-greenhouse-polytunnel-growing]]
+- [[greenhouse-growing]]
+- [[fukuoka-straw-vegetable-growing]]

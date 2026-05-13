@@ -22,12 +22,7 @@ family. These compounds have profoundly shaped human history through
 epidemics of ergotism, contributed to modern pharmaceutical development,
 and continue to affect agriculture through contamination of cereal crops.
 Singh's treatment of ergot alkaloids intersects with broader discussions
-of [[claviceps-purpurea]] and the Ergot Disease
-
-### Life Cycle and Sclerotia Formation
-[[bloomfield-ergot-claviceps-purpurea-ergotism]] is the classic [[laurencia-dendroidea]]
-
-- [[singh-entomopathogenic-fungi-biocontrol-agents]]
+of [[bloomfield-ergot-claviceps-purpurea-ergotism]] is the classic [[singh-entomopathogenic-fungi-biocontrol-agents]]
 - [[mycoremediation-pahs]]
 ## Practical Applications
 

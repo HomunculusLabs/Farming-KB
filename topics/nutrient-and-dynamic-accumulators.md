@@ -35,16 +35,7 @@ their role is essential to building self-fertilizing garden and farm systems.
 Dynamic accumulators are plants that gather a greater-than-usual concentration
 of a particular nutrient in their foliage. The term was popularized by Robert
 Kourik in his influential book *Designing and Maintaining Your Edible
-Landscape* and has since become a cornerstone concept in [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]].
-The basic idea is simple: certain plants have evolved deep taproots or unusual
-metabolic pathways that allow them to access and concentrate minerals that are
-locked away in subsoil layers, rock fragments, or mineral forms that are
-unavailable to shallow-rooted crop plants.
-
-When these accumulator plants drop their leaves, are cut for mulch, or are
-incorporated into compost, they release their concentrated mineral payload back
-into the topsoil where food crops can access it. This creates a biological pump
-— a [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] mechanism that requires no external inputs, no fossil
+Landscape* and has since become a cornerstone concept in [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] mechanism that requires no external inputs, no fossil
 fuels, and no purchased amendments. It is, in essence, the way natural
 ecosystems have maintained soil fertility for hundreds of millions of years.
 
@@ -56,22 +47,7 @@ conditions, combined with the *depth* from which those nutrients are drawn,
 and the *accessibility* of those nutrients to other organisms once the
 accumulator's biomass decomposes. It is this combination of concentration,
 depth, and biological availability that makes accumulator plants uniquely
-valuable in [[williams-pdc-ecological-design-principles]].
-
-## The Two Types of Accumulators
-
-The scientific community has debated whether dynamic accumulators truly
-"hyperaccumulate" nutrients regardless of soil concentration, or whether they
-simply reflect the mineral content of the soil they grow in. The answer, as
-with most things in biology, falls somewhere in the middle. There are two
-distinct categories of accumulator plants, each operating through a different
-mechanism.
-
-### True Hyperaccumulators
-
-The first type includes plants that accumulate a mineral even in soils that are
-low or deficient in that particular mineral. These are the genuine
-hyperaccumulators — species with specialized [[brassinosteroid-physiological-mechanisms-cell-elongation-division]] that
+valuable in [[brassinosteroid-physiological-mechanisms-cell-elongation-division]] that
 actively concentrate specific elements. The legume family provides the clearest
 example for nitrogen. Legumes harbor symbiotic Rhizobium bacteria in their
 root nodules that fix atmospheric nitrogen gas (N2) and convert it into
@@ -130,20 +106,6 @@ in the root zone of food crops — is the same regardless of mechanism.
 
 ## Legumes and the Nitrogen Myth
 
-Perhaps no topic in [[hamilton-geoffhamilton-nick-organic-gardening-companion-planting]] is more misunderstood than the
-relationship between legumes and their neighboring plants. The widespread
-advice to interplant beans with corn so that the beans will "feed" the corn
-with nitrogen is, with rare exception, a myth. The reality is both more
-interesting and more useful.
-
-### How Legumes Really Handle Nitrogen
-
-During the growing season, the nitrogen fixed by a legume's root nodules is
-banked in a temporary savings account distributed throughout the stems and
-## See Also
-
-- [[permaculture-plant-selection-and-useful-species-categories]]
-- [[dynamic-accumulator-plants-trace-minerals]]
+Perhaps no topic in [[permaculture-plant-selection-and-useful-species-categories]]
 - [[dynamic-accumulator-plants-calcium-and-magnesium]]
-- [[nutrient-movement-through-soil-to-plant-roots]]
 - [[fukuoka-no-fertilizer-principle-natural-soil-fertility]]

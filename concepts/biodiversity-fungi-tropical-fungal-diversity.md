@@ -16,16 +16,11 @@ type: concept
 
 # Tropical Fungal Diversity
 
-Tropical regions harbor some of the most diverse [[biodiversity-of-fungi-soil-fungal-communities-agriculture]] on
-Earth, yet they remain among the least studied. The gap between estimated
-and described tropical fungal species is enormous, representing one of the
-most significant challenges in [[fungal-endemism-and-biogeography]] that face accelerating habitat loss.
+Tropical regions harbor some of the most diverse [[fungal-endemism-and-biogeography]] that face accelerating habitat loss.
 
 ## See Also
 
-- [[fungal-ecology]]
 - [[biodiversity-fungi-soil-fungal-communities]]
-- [[fungal-biodiversity-tropical-forests]]
 - [[mollison-designers-forest-garden-layer-canopy-understory]]
 ## Practical Applications
 
@@ -97,8 +92,6 @@ through generations to modern scientific approaches, the evolution continues
 to inform current best practices and research directions.
 
 ## See Also
-- [[doc]]
 - [[det]]
-- [[biodiversity-of-fungi-molecular-pcr-fungal-diversity]]
 - [[biodiversity-of-fungi-pcr-molecular-methods-fungal-diversity]]
 - [[fungal-biodiversity-tropical-ecosystems]]

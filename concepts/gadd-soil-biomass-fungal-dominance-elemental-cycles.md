@@ -13,45 +13,7 @@ The preface and opening sections of *Fungi in the Environment* establish a centr
 fungi are often the dominant biological component of soil ecosystems, comprising the largest
 pool of biomass including other microorganisms and invertebrates. This page synthesizes the
 key concepts around fungal biomass in soil and the roles fungi play in elemental cycles,
-soil structure maintenance, and [[dighton-mycorrhizal-diversity-ecosystem-function]].
-
-## Fungal Biomass in Soil
-
-### Quantifying Dominance
-
-In most terrestrial soils, fungal biomass typically ranges from 100 to 1,000 μg/g dry soil,
-often exceeding bacterial biomass by 2- to 10-fold in undisturbed ecosystems such as
-forests, grasslands, and no-till agricultural soils. Key factors influencing fungal:bacterial
-biomass ratios include:
-
-- **Vegetation type**: Forest soils (especially coniferous) favor fungi due to the recalcitrant
-  nature of lignin-rich litter; grasslands tend toward more bacterial biomass
-- **Soil disturbance**: Tillage disrupts hyphal networks and shifts communities toward
-  bacterial dominance; no-till systems maintain higher fungal biomass
-- **pH**: Acidic soils generally favor fungi over bacteria; neutral to alkaline soils support
-  more bacterial biomass
-- **Successional stage**: Early-successional soils are bacterial-dominated; late-successional
-  soils become increasingly fungal-dominated
-- **Moisture regime**: Fungi tolerate lower water potentials than bacteria, giving them an
-  advantage in seasonally dry soils
-
-### Mycelial Architecture and Soil Volume
-
-The filamentous growth habit of fungi is central to their ecological dominance. A single
-fungal individual (genet) can extend its mycelium across meters of soil, connecting
-disparate resource patches. The total hyphal length in a gram of forest soil can exceed
-100 meters. This extensive network means that fungi interact with an enormous volume of
-soil relative to their biomass, functioning as a spatially distributed organ for resource
-acquisition and redistribution.
-
-## Roles in Elemental Cycles
-
-### Carbon Cycle
-
-Fungi are the primary decomposers of recalcitrant organic matter:
-
-- **Lignin degradation**: White-rot basidiomycetes produce lignin peroxidase, manganese
-  peroxidase, and [[singh-fungal-laccase-enzymes-bioremediation]] that oxidatively depolymerize lignin—the most abundant
+soil structure maintenance, and [[singh-fungal-laccase-enzymes-bioremediation]] that oxidatively depolymerize lignin—the most abundant
   terrestrial polymer and one that few other organisms can degrade
 - **Cellulose decomposition**: Both Ascomycetes and Basidiomycetes produce cellulase enzyme
   complexes that hydrolyze crystalline and amorphous cellulose
@@ -70,19 +32,14 @@ Fungi influence nitrogen dynamics through multiple pathways:
 - **Nitrogen immobilization**: Fungi have high carbon-to-nitrogen ratios (typically 10-15:1)
   compared to bacteria (3-5:1), so they immobilize more nitrogen per unit of carbon
   decomposed, reducing nitrogen availability for plants in the short term
-- **[[symbiotic-fungi-mycorrhizal-nitrogen-transfer-networks]]**: Ectomycorrhizal and [[arbuscular-mycorrhizal-fungi]]
+- **[[arbuscular-mycorrhizal-fungi]]
   access organic and inorganic nitrogen sources unavailable to plant roots alone
 - **Nitrification and denitrification**: Though less significant than bacterial contributions,
   some fungi participate in these processes; fusaria and other soil fungi can reduce nitrate
 
 ### Phosphorus Cycle
 
-Fungi are critical for [[phosphorus-availability]] in most soils:
-
-- **Phosphatase production**: Fungi secrete phosphatase enzymes that mineralize organic
-  phosphorus compounds (phytates, nucleic acids, phospholipids) into plant-available
-  orthophosphate
-- **[[ectomycorrhizal-mineral-weathering-phosphate-mobilization-gadd]]**: Fungal hyphae and associated organic acids (oxalic, citric acid)
+Fungi are critical for [[ectomycorrhizal-mineral-weathering-phosphate-mobilization-gadd]]**: Fungal hyphae and associated organic acids (oxalic, citric acid)
   solubilize phosphate minerals (apatite, strengite, variscite), releasing phosphorus
 - **Mycorrhizal phosphorus uptake**: Mycorrhizal fungal hyphae extend the effective
   depletion zone for phosphorus far beyond the root cortex, accessing phosphorus from
@@ -118,8 +75,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[fungal-hyphae]]
 - [[soil-respiration]]
-- [[laccase]]
 - [[dom]]
 - [[arbuscular-mycorrhizal-fungi]]

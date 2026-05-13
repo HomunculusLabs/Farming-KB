@@ -108,13 +108,8 @@ The hexaploid cytology of Dryopteris wallichiana suggests an ancient allopolyplo
 
 ## See Also
 
-- [[dryopteris-filix-mas]]
 - [[dryopteris-erythrosora]]
-- [[dryopteris-marginalis]]
 - [[dryopteris-goldiana]]
-- [[polystichum-munitum]]
 - [[athyrium-filix-femina]]
-- [[blechnum-spicant]]
 - [[osmunda-regalis]]
-- [[woodwardia-fimbriata]]
 - [[matteuccia-struthiopteris]]

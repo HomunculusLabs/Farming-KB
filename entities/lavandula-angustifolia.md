@@ -15,48 +15,9 @@ sources:
   - Upson, T.M. & Andrews, S. (2004). "The Genus Lavandula." Royal Botanic Gardens, Kew.
   - Cavanagh, H.M.A. & Wilkinson, J.M. (2002). "Biological activities of lavender permaculture-designers-manual-essential-oil-plants." Phytotherapy Research.
   - European Medicines Agency (2013). "Assessment report on Lavandula angustifolia Mill." EMA/HMPC/5892/2009.
-  - Prashar, A. et al. (2004). "Chemical composition of [[permaculture-designers-manual-essential-oil-plants]] of Lavandula angustifolia." Phytotherapy Research.
----
+  - Prashar, A. et al. (2004). "Chemical composition of [[cannabis-honey-oil-production]].
 
-## Overview
-
-**Lavandula angustifolia** Mill., commonly known as English lavender or true lavender, is an aromatic evergreen subshrub in the family Lamiaceae.
-
-Native to the western Mediterranean, it is the most commercially important Lavandula species for essential [[cannabis-honey-oil-production]].
-
-Lavender essential oil is among the top-selling [[comparison-essential-oils-vs-neem-oil-vs-insecticidal-soap]] globally, valued in aromatherapy, cosmetics, pharmaceuticals, and food flavoring.
-
-The species has been cultivated for over 2,500 years, used by Romans for bathing and by medieval monks in medicinal gardens.
-
-## Taxonomy and Morphology
-
-**Classification:** Kingdom Plantae → Angiosperms → Eudicots → Asterids → Order Lamiales → Family Lamiaceae → Subfamily Nepetoideae → Tribe Ocimeae → Genus *Lavandula* → Section *Lavandula* → Species *L. angustifolia*.
-
-**Authority:** Philip Miller (1768). Earlier basionym: *Lavandula officinalis* Chaix.
-
-The plant forms a compact, woody-based subshrub 30–60 cm tall and 40–60 cm wide at maturity.
-
-Stems are erect, quadrangular, densely pubescent, and grayish-green from the fine indumentum.
-
-Leaves are opposite, sessile, linear to lanceolate, 2–6 cm long and 0.3–0.6 cm wide.
-
-Leaf margins are revolute (rolled under), and surfaces are covered with stellate hairs giving a silvery-gray appearance.
-
-Inflorescences are terminal spikes 4–10 cm long, composed of whorls of flowers subtended by bracts.
-
-Bracts are broadly ovate, 5–8 mm long, often colored similarly to the flowers (violet-blue to purple).
-
-Flowers are bilabiate, 6–10 mm long, with a tubular calyx and a corolla divided into an upper 2-lobed and lower 3-lobed lip.
-
-The nutlets are oblong, approximately 1 mm long, dark brown, and glossy at maturity.
-
-Several cultivars exist, including 'Hidcote' (deep purple), 'Munstead' (blue-violet), and 'Vera' (pale blue).
-
-## Distribution and Habitat
-
-*L. angustifolia* is native to the mountainous regions of the western Mediterranean, including southern France, northern Italy, and eastern Spain.
-
-The species is naturalized across temperate Europe, the British Isles, [[psilocybin-north-america-pacific-northwest]], and parts of Australia.
+Lavender essential oil is among the top-selling [[psilocybin-north-america-pacific-northwest]], and parts of Australia.
 
 It grows naturally on dry, stony, calcareous soils at elevations of 300–1500 m.
 
@@ -70,9 +31,7 @@ Hardiness ranges from USDA zones 5–9, though winter wetness is more limiting t
 
 The essential oil (1.0–3.0% v/w in dried flowers) has a complex profile of over 150 identified constituents.
 
-[[linalool]] (25–38%) and linalyl acetate (25–45%) are the two dominant compounds, together comprising 50–80% of the oil.
-
-Minor constituents include β-caryophyllene, terpinen-4-ol, 1,8-cineole, lavandulyl acetate, and [[camphor]].
+[[camphor]].
 
 Linalool demonstrates anxiolytic-like effects via modulation of GABA-A receptors in animal models.
 
@@ -87,3 +46,88 @@ The essential oil demonstrates spasmolytic effects on smooth muscle preparations
 The European Medicines Agency recognizes lavender flower preparations as traditional herbal medicines for relief of mild anxiety and sleep disturbances.
 
 ## Culinary Use
+
+## Overview
+
+Lavandula Angustifolia represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish lavandula angustifolia
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving lavandula extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Lavandula Angustifolia finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for lavandula angustifolia. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+lavandula angustifolia and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Lavandula Angustifolia has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of lavandula angustifolia into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[araucaria-angustifolia]]
+- [[curcuma-angustifolia]]
+- [[echinacea-angustifolia]]
+- [[kalmia-angustifolia]]
+- [[lavandula-x-intermedia]]

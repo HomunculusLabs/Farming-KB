@@ -1,6 +1,6 @@
 ---
-title: "Mycorrhizal Fungi Ecosystem Function"
-aliases: [mycorrhiza, mycorrhizal networks, fungal symbiosis, plant-fungal mutualism, common mycorrhizal network]
+title: "Mycorrhizal Fungi [[dighton-mycorrhizal-diversity-ecosystem-function]]"
+aliases: [mycorrhiza, [[arbuscular-mycorrhizal-networks]], fungal symbiosis, plant-fungal mutualism, common mycorrhizal network]
 tags: [mycology, mycorrhiza, ecology, soil-biology, plant-nutrition, symbiosis, fungal-networks]
 source: biodiversity-of-fungi.md
 created: 2026-05-11
@@ -10,22 +10,20 @@ created: 2026-05-11
 
 ## Overview
 
-Mycorrhizal fungi form symbiotic associations with the roots of approximately 90% of all plant species, making them among the most ecologically important organisms on Earth. These associations are not simple binary relationships but rather complex networks connecting multiple plants simultaneously through shared fungal hyphae. The *Biodiversity of Fungi* volume identifies mycorrhizal fungi as a critical but understudied component of fungal biodiversity, noting that their belowground lifestyle makes them particularly difficult to inventory using standard methods.
+Mycorrhizal fungi form symbiotic associations with the roots of approximately 90% of all plant species, making them among the most ecologically important organisms on Earth. These associations are not simple binary relationships but rather complex networks connecting multiple plants simultaneously through shared fungal hyphae. The *[[biodiversity-of-fungi-biodiversity-patterns-ecosystems]]* volume identifies mycorrhizal fungi as a critical but understudied component of fungal biodiversity, noting that their belowground lifestyle makes them particularly difficult to inventory using standard methods.
 
 ## Types of Mycorrhizal Associations
 
 ### Arbuscular Mycorrhizal Fungi (AMF)
 
-[[glomeromycota-arbuscular-mycorrhizae]] (also called vesicular-arbuscular mycorrhizae, VAM) are the most widespread type, forming associations with approximately 70–80% of all plant species, including most agricultural crops, grasses, and many tropical trees.
-
-**[[metzner-shamanic-ceremony-versus-psychotherapy-structural-features]]**:
+[[metzner-shamanic-ceremony-versus-psychotherapy-structural-features]]**:
 - Fungal hyphae penetrate root cortical cells, forming highly branched structures called arbuscules (the sites of nutrient exchange)
 - May also form vesicles — lipid-filled storage organs within root cells
 - Extensive external hyphal network extends into the soil from the root surface
 - Do not produce visible fruiting bodies; identification requires molecular methods or root staining and microscopy
 
-**Ecological significance**:
-- Primarily enhance phosphorus uptake, which is often the limiting nutrient in both natural and agricultural ecosystems
+**[[lichen-biology-and-ecological-significance]]**:
+- Primarily enhance phosphorus uptake, which is often the limiting nutrient in both natural and [[fungi-grassland-agricultural-ecosystems-dighton]]
 - Also improve uptake of zinc, copper, and other micronutrients
 - The external hyphal network effectively extends the root system by 10–100x, greatly increasing the soil volume explored for nutrients
 - AMF diversity in soil is a strong indicator of overall soil health and ecosystem functioning
@@ -52,36 +50,7 @@ Ectomycorrhizae form associations with approximately 2% of plant species, but th
 
 ### Other Mycorrhizal Types
 
-- **[[comparison-orchid-mycorrhizae-vs-ericoid-mycorrhizae]]**: Associations with plants in the Ericaceae family (blueberries, heaths, heathers). Critical for nutrient uptake in acidic, nutrient-poor soils. A relatively small number of fungal species (primarily ascomycetes in the order Helotiales) form these associations.
-- **Orchid mycorrhizae**: All orchids require fungal associates for seed germination. The fungi (primarily basidiomycetes in the form-genus Rhizoctonia) provide carbon and nutrients to the orchid seedling, which lacks endosperm. Some orchids remain dependent on fungi throughout their lives (mycoheterotrophic orchids).
-- **Ectendomycorrhizae**: Intermediate between ecto- and arbuscular types, found in some conifers. The fungus forms both a mantle and intracellular penetration.
-
-## The Common Mycorrhizal Network (CMN)
-
-### Structure and Function
-
-Individual mycorrhizal fungi typically connect to multiple plants simultaneously, creating a shared fungal network — the common mycorrhizal network (CMN), sometimes called the "wood wide web." A single ECM fungal individual can extend across hundreds of square meters of forest floor, connecting dozens or hundreds of trees.
-
-The CMN serves several functions:
-
-1. **Carbon transfer**: Carbon fixed by photosynthesis in one plant can be transferred through fungal hyphae to neighboring plants. This has been most dramatically demonstrated in studies showing carbon transfer from dominant canopy trees to shaded understory seedlings.
-2. **Nutrient sharing**: Nutrients absorbed by one plant's fungal associate can be transferred to other plants connected to the same network. This may serve as a form of biological insurance against local nutrient deficiencies.
-3. **Signaling**: Plants connected through CMNs can transmit chemical signals (e.g., defense compounds) that warn neighboring plants of insect attack or pathogen infection.
-4. **Seedling establishment**: Mycorrhizal networks facilitate seedling establishment by connecting young, poorly rooted seedlings to the established belowground resource network.
-
-### Evidence for Resource Sharing
-
-Definitive evidence for significant carbon transfer through CMNs comes from isotopic labeling experiments:
-
-- Simard et al. (1997) demonstrated bidirectional carbon transfer between Douglas fir and paper birch in British Columbia, with the direction of transfer depending on shading conditions
-- In the simulated shade of neighboring trees, carbon moved from sun-exposed trees to shaded ones
-- The amount transferred was biologically significant (up to 10% of a tree's total carbon budget in some experiments)
-
-## Mycorrhizal Effects on Plant Communities
-
-### Succession and Competition
-
-Mycorrhizal associations influence [[leake-mycorrhizal-carbon-sequestration-plant-community-composition]] through differential effects on plant growth and competitive ability:
+- **[[leake-mycorrhizal-carbon-sequestration-plant-community-composition]] through differential effects on plant growth and competitive ability:
 
 - **AMF-dominated communities**: Grasslands, early-successional communities, and tropical forests tend to be dominated by AMF-associated plants. AMF networks tend to promote plant diversity by reducing competitive dominance.
 - **ECM-dominated communities**: Temperate and boreal forests are dominated by ECM-associated trees. ECM associations can create positive feedback that maintains forest dominance — ECM trees alter soil conditions in ways that favor their own regeneration.
@@ -92,7 +61,7 @@ Mycorrhizal associations influence [[leake-mycorrhizal-carbon-sequestration-plan
 Invasive plants often interact with mycorrhizal networks in ways that facilitate their spread:
 
 - Some invasive species form mycorrhizal associations with native fungi but receive disproportionate benefit, effectively parasitizing the shared network
-- Others may alter the native mycorrhizal community in ways that disadvantage native plants
+- Others may alter the native [[dighton-leaf-litter-patch-effects-mycorrhizal-community]] in ways that disadvantage native plants
 - Invasive plants that are non-mycorrhizal (e.g., garlic mustard, Alliaria petiolata) can disrupt native mycorrhizal networks through allelopathic compounds that kill AMF
 
 ## Mycorrhizae and Ecosystem Processes
@@ -111,29 +80,4 @@ Mycorrhizal hyphae physically bind soil particles together through:
 
 - **Hyphal entanglement**: Fine hyphae wrap around sand, silt, and clay particles, creating stable aggregates
 - **Glomalin production**: AMF produce a glycoprotein called glomalin that acts as a biological glue, binding soil particles into water-stable aggregates. Glomalin is remarkably persistent in soil (half-life of 6–40 years) and contributes significantly to soil organic carbon pools.
-- **Root-hyphae interactions**: The combined effect of root growth and fungal hyphal extension creates channels and pores that [[query-how-do-fungi-improve-soil-structure]], water infiltration, and gas exchange.
-
-### Carbon Sequestration
-
-Mycorrhizal fungi contribute to long-term carbon sequestration through several mechanisms:
-
-- Glomalin accumulation in soil represents a stable carbon pool
-- Mycorrhizal hyphae are a significant component of soil organic matter
-- ECM fungi produce recalcitrant compounds (melanin, chitin) that decompose slowly
-- Mycorrhizal associations increase overall plant productivity, leading to greater carbon inputs to soil
-
-## Conservation Implications
-
-### Threats to Mycorrhizal Communities
-
-- **Tillage**: Agricultural tillage severs mycorrhizal hyphal networks, reducing their effectiveness. No-till and reduced-till practices preserve hyphal connections.
-- **Fertilization**: High rates of phosphorus fertilizer suppress AMF colonization — plants reduce their investment in fungal partners when P is readily available.
-- **Monoculture**: Planting the same crop year after year reduces mycorrhizal diversity, potentially compromising ecosystem resilience.
-- **Land use change**: Converting forests to agriculture or urban areas dramatically alters mycorrhizal communities.
-- **Climate change**: Changes in temperature and precipitation patterns may shift the balance between AMF and ECM associations, with cascading effects on ecosystem function.
-
-## See Also
-
-- estimating fungal biodiversity methods — Survey challenges for mycorrhizal fungi
-- fungal inventory protocols — Field methods for mycorrhizal assessment
-- [[endophytic-fungi-plant-interactions]] — Other plant-fungal symbioses
+- **Root-hyphae interactions**: The combined effect of root growth and fungal hyphal extension creates channels and pores that [[endophytic-fungi-plant-interactions]] — Other plant-fungal symbioses

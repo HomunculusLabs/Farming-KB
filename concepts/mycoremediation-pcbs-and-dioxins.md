@@ -38,8 +38,8 @@ The degradation pathway:
 
 ### Key Research Findings
 
-- **Trametes versicolor** achieved 95% [[singh-fungal-degradation-of-chlorinated-compounds]] biphenyls (Zeddel et al., 1993)
-- **[[phanerochaete-chrysosporium]]** degrades mono- and di-chlorinated biphenyls; mineralization of 14C-PCB confirmed
+- **Trametes versicolor** achieved 95% degradation of chlorinated biphenyls (Zeddel et al., 1993)
+- **Phanerochaete chrysosporium** degrades mono- and di-chlorinated biphenyls; mineralization of 14C-PCB confirmed
 - **Bjerkandera adusta** degrades highly chlorinated PCBs (5-7 chlorines) via MnP system
 - **Pleurotus ostreatus** shows PCB degradation with simultaneous fruiting body production
 
@@ -69,7 +69,7 @@ Dioxin degradation by fungi follows similar pathways to PCB degradation:
 
 ### Key Research Findings
 
-- **[[staycare-phanerochaete-sordida-in-bioremediation]]** degrades nearly 60% of 2,3,7,8-tetrachlorodibenzo-p-dioxin (the most toxic dioxin congener)
+- **Phanerochaete sordida** degrades nearly 60% of 2,3,7,8-tetrachlorodibenzo-p-dioxin (the most toxic dioxin congener)
 - **Phanerochaete chrysosporium** shows limited but detectable dioxin transformation
 - **Cordyceps sinensis** demonstrates a novel dioxin degradation pathway producing catechol intermediates — unique among fungi
 - **Trametes versicolor** degrades chlorinated dibenzofurans via laccase-mediator systems
@@ -136,7 +136,7 @@ Chlorophenols are intermediates in PCB/dioxin degradation and also industrial po
 
 ## Future Directions
 
-- **[[singh-genetically-engineered-fungi-bioremediation]]**: Enhanced expression of ligninolytic enzymes for improved degradation
+- **Genetically engineered fungi**: Enhanced expression of ligninolytic enzymes for improved degradation
 - **Enzyme immobilization**: Purified LiP/MnP/laccase immobilized on supports for bioreactor applications
 - **Mediator optimization**: Improved mediator systems for laccase to extend substrate range
 - **Combined treatment**: Fungal degradation followed by chemical or thermal polishing
@@ -145,6 +145,6 @@ Chlorophenols are intermediates in PCB/dioxin degradation and also industrial po
 ## See Also
 
 - [[mycoremediation-basics]] — General mycoremediation framework and enzyme systems
-- [[mycoremediation-pahs]] — Related [[fungal-pah-degradation-pathways]]
-- [[mycoremediation-of-heavy-metals]] — [[fungal-heavy-metal-biosorption-and-detoxification]]
+- [[mycoremediation-pahs]] — Related PAH degradation pathways
+- [[mycoremediation-heavy-metals]] — Heavy metal biosorption
 - [[mycoremediation-of-oil-spills]] — Petroleum contamination cleanup

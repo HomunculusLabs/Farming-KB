@@ -12,19 +12,9 @@ tags: [cannabis, nutrients]
 
 ## Overview
 
-Magnesium is a [[cannabis-foliar-feeding]])
-- If deficiency progresses to the top, it will turn green there first, then move down the plant
-- Continue regular [[cannabis-watering-schedule-and-frequency]] with Epsom salts until symptoms totally disappear
+Magnesium is a [[cannabis-watering-schedule-and-frequency]] with Epsom salts until symptoms totally disappear
 - Apply magnesium sulfate monohydrate as an alternative to Epsom salts
-- Add fine [[cervantes-dolomite-lime-ph-buffering]] to soil and soilless mix for long-term calcium and magnesium supply
-- Always use the finest dolomite available
-
-Adding Epsom salts regularly is not necessary when the fertilizer contains available magnesium.
-
-### Prevention
-
-- Control room and root-zone temperatures, humidity, pH, and EC
-- Keep root zone and [[cannabis-nutrient-solution-preparation]] at 70-75F (21-24C)
+- Add fine [[cannabis-nutrient-solution-preparation]] at 70-75F (21-24C)
 - Keep ambient air at 75F (21C) day and 65F (18C) night
 - Use a complete fertilizer with an adequate amount of magnesium
 - Keep soil pH above 6.5; hydroponic pH above 5.5
@@ -33,9 +23,7 @@ Adding Epsom salts regularly is not necessary when the fertilizer contains avail
 
 ## Toxicity
 
-Magnesium toxicity is rare and difficult to discern with the naked eye. If extremely toxic, the magnesium develops a conflict with other fertilizer ions, usually [[cannabis-calcium-nutrient]]
-- [[cannabis-nitrogen]]
-- [[cannabis-foliar-feeding]]
+Magnesium toxicity is rare and difficult to discern with the naked eye. If extremely toxic, the magnesium develops a conflict with other fertilizer ions, usually [[cannabis-nitrogen]]
 - [[cannabis-nutrient-solution-preparation]]
 ## Practical Applications
 
@@ -97,8 +85,6 @@ through generations to modern scientific approaches, the evolution continues
 to inform current best practices and research directions.
 
 ## See Also
-- [[doc]]
 - [[det]]
-- [[query-how-to-read-cannabis-plants-for-nutrient-problems]]
 - [[cannabis-nutrient-burn-and-toxicity]]
 - [[cannabis-zinc-nutrient]]

@@ -12,27 +12,19 @@ type: concept
 
 ## Overview
 
-Mycelial network architecture refers to the structural and functional organization of fungal mycelium as it grows through substrates, forming complex interconnected networks analogous to neural networks, transportation grids, and distributed computing systems. These networks represent one of the most sophisticated biological communication systems on Earth, enabling [[mycelial-network-resource-sharing-plants]], [[fungal-environmental-sensing-signal-transduction-read]], and coordinated responses across vast distances that far exceed the physical dimensions of any individual fungal cell.
+Mycelial network architecture refers to the structural and functional organization of fungal mycelium as it grows through substrates, forming complex interconnected networks analogous to neural networks, transportation grids, and distributed computing systems. These networks represent one of the most sophisticated biological communication systems on Earth, enabling [[fungal-environmental-sensing-signal-transduction-read]], and coordinated responses across vast distances that far exceed the physical dimensions of any individual fungal cell.
 
 ## Structural Components
 
 ### Hyphae
 
-Hyphae are the fundamental building blocks of [[fungal-mycelial-networks-nutrient-translocation]]. Each hypha is a tubular cell enclosed by a rigid cell wall made primarily of chitin. Hyphae grow at their tips through a process called apical extension, where vesicles containing cell wall materials fuse with the plasma membrane at the growing tip. Growth rates vary from 0.1 to several millimeters per hour depending on species and environmental conditions. The tips contain a dense accumulation of organelles called the Spitzenkorper, which acts as a vesicle supply center directing polarized growth.
-
-### Septa
-
-Most fungi have septate hyphae divided by cross-walls called septa. These septa contain central pores that allow cytoplasmic streaming between cells, enabling the transport of nutrients, organelles, and signaling molecules throughout the network. Septal pores can be regulated by Woronin bodies or other structures that plug the pore in response to damage, preventing catastrophic loss of cytoplasm when a hypha is severed. This compartmentalization provides both connectivity and resilience.
-
-### Anastomosis
-
-Anastomosis is the process by which hyphae from the same or different mycelial networks fuse together. This fusion creates a three-dimensional mesh with redundant pathways. Anastomosis allows fungi to share resources, create larger foraging networks, and recover from damage by routing around severed connections. This process is fundamental to the formation of [[common-mycorrhizal-networks]] in forest ecosystems and enables the emergence of organism-level behavior from individual hyphal actions.
+Hyphae are the fundamental building blocks of [[common-mycorrhizal-networks]] in forest ecosystems and enables the emergence of organism-level behavior from individual hyphal actions.
 
 ## Network Topologies
 
 ### Foraging Networks
 
-Species like *[[bloomfield-stinkhorns-phallus-impudicus-osmotic-fruiting]]* and *Coprinopsis cinerea* create foraging networks optimized for resource discovery. These networks start with dense growth near the inoculation point, then extend sparse cords outward to explore the environment. When a resource is found, the network reinforces connections to it by thickening hyphae into cords or rhizomorphs. This behavior mirrors [[fungal-mycelial-foraging-heterogeneous-environments]] strategies documented in controlled laboratory studies using microfluidic devices.
+Species like *[[fungal-mycelial-foraging-heterogeneous-environments]] strategies documented in controlled laboratory studies using microfluidic devices.
 
 ### Rhizomorph Networks
 
@@ -46,11 +38,7 @@ Cytoplasmic streaming is the bulk flow of cytoplasm through hyphae, driven by pr
 
 ### Translocation
 
-Fungi actively translocate resources from areas of surplus to areas of need. Carbohydrates, nitrogen, phosphorus, and water are transported over centimeters to meters. Translocation follows source-sink dynamics where resource-rich regions supply resource-poor regions. This is analogous to phloem transport in plants but occurs without dedicated vascular tissue. See [[fungal-mycelial-networks-nutrient-translocation]] for detailed quantitative analysis of transport rates and patterns.
-
-## Optimization and Computation
-
-Mycelial networks demonstrate remarkable problem-solving abilities that have attracted interest from computer scientists and physicists. In laboratory experiments, *Physarum polycephalum* and true fungi have been shown to find near-optimal solutions to shortest-path problems, reconnect severed networks efficiently, and balance trade-offs between cost and resilience. The network continuously rewires itself by thickening high-traffic connections and pruning unused ones through adaptive reinforcement. This has led researchers to explore [[mycelial-network-computation]] as a model for biological computing.
+Fungi actively translocate resources from areas of surplus to areas of need. Carbohydrates, nitrogen, phosphorus, and water are transported over centimeters to meters. Translocation follows source-sink dynamics where resource-rich regions supply resource-poor regions. This is analogous to phloem transport in plants but occurs without dedicated vascular tissue. See [[mycelial-network-computation]] as a model for biological computing.
 
 ## Environmental Sensing
 
@@ -58,24 +46,95 @@ Mycelial networks sense and respond to a wide range of environmental cues includ
 
 ## Ecological Significance
 
-Mycelial networks are fundamental to ecosystem function. They decompose organic matter, cycle nutrients, form mycorrhizal associations with over 80% of land plants, and connect individual plants into common mycorrhizal networks. A single mycelial network can connect hundreds of trees, facilitating nutrient exchange and chemical signaling between different species. This [[fungal-intelligence]] manifests at the ecosystem scale, with networks dynamically reallocating carbon and nutrients in response to changing conditions.
-
-## Resilience and Repair
-
-One of the most remarkable features of mycelial networks is their ability to self-repair. When a hypha is severed, the septal pores can be rapidly plugged to prevent cytoplasm loss, and new hyphal tips emerge from the wound site to reconnect with adjacent hyphae. This regenerative capacity allows networks to maintain functionality even after significant physical damage, such as soil disturbance or predation by microarthropods and nematodes. Networks that have been repeatedly damaged often develop thicker, more robust connections at vulnerable points.
-
-## Signaling and Coordination
-
-Mycelial networks use both chemical and electrical signals to coordinate behavior across the organism. Calcium waves, similar to those observed in animal neurons, propagate through the network in response to stimuli and can trigger changes in growth direction, resource allocation, and gene expression. This signaling system allows a mycelial network extending over meters of soil to respond as an integrated whole to localized events such as the appearance of a new food source or the detection of a competitor organism.
-
-## Scale in Nature
-
-In natural ecosystems, mycelial networks can achieve staggering scales. A single Armillaria ostoyae individual in the Malheur National Forest in Oregon covers approximately 9.6 square kilometers, making it one of the largest organisms by area ever documented. [[symbiotic-fungi-ectomycorrhizal-networks-overview]] in old-growth forests can connect hundreds of trees across multiple species, forming what researchers have called the "wood wide web." These networks demonstrate that individual fungi can operate as ecosystem-scale organisms.
+Mycelial networks are fundamental to ecosystem function. They decompose organic matter, cycle nutrients, form mycorrhizal associations with over 80% of land plants, and connect individual plants into common mycorrhizal networks. A single mycelial network can connect hundreds of trees, facilitating nutrient exchange and chemical signaling between different species. This [[symbiotic-fungi-ectomycorrhizal-networks-overview]] in old-growth forests can connect hundreds of trees across multiple species, forming what researchers have called the "wood wide web." These networks demonstrate that individual fungi can operate as ecosystem-scale organisms.
 
 ## Related Concepts
 
-- [[fungal-intelligence]]
 - [[mycelial-network-computation]]
-- [[fungal-mycelial-networks-nutrient-translocation]]
 - [[common-mycorrhizal-networks]]
 - [[fungal-mycelial-foraging-heterogeneous-environments]]
+
+## Overview
+
+Mycelial Network Architecture represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish mycelial network architecture
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving mycelial extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Mycelial Network Architecture finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for mycelial network architecture. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+mycelial network architecture and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Mycelial Network Architecture has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of mycelial network architecture into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[gadd-mycelial-network-dynamics]]
+- [[mushroom-mycelial-morphology-types-identification]]
+- [[mycelial-broth-alkaloid-production]]
+- [[mycelial-cord-architecture-and-nutrient-translocation-basidiomycetes]]
+- [[mycelial-network-graph-theory-analysis]]

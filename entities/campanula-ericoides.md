@@ -109,13 +109,8 @@ Road construction and limestone quarrying have impacted at least two known sites
 
 ## See Also
 
-- [[campanula-saxatilis]]
 - [[campanula-cenisia]]
-- [[campanula-pulla]]
 - [[campanula-zoysii]]
-- [[campanula-cochlearifolia]]
 - [[campanula-barbata]]
-- [[campanula-morettiana]]
 - [[phyteuma-orbiculare]]
-- [[lobelia-erinus]]
 - [[jasione-montana]]

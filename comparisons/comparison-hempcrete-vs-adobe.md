@@ -21,30 +21,6 @@ different structural roles and suit different climates and project goals.
 
 ## Hempcrete
 
-[[hempcrete-and-hemp-lime-construction]]
-
-Hempcrete is a lightweight biocomposite made from the woody inner core of the
-hemp plant (hurd or shiv) mixed with a lime-based binder and water. It is not
-a load-bearing material and requires a structural frame, typically timber, to
-carry building loads. Hempcrete fills the spaces between framing members as
-insulation and infill. Its key strength is environmental performance: hemp
-sequesters carbon dioxide during its rapid 100-120 day growth cycle, and the
-lime binder continues absorbing CO2 through carbonation over decades. This
-dual carbon capture makes hempcrete one of the few building materials that
-can genuinely claim to be carbon-negative over its lifecycle.
-
-Hempcrete walls provide excellent thermal insulation with typical U-values
-ranging from 0.18 to 0.36 W/m²K depending on wall thickness. The material
-is highly vapor-permeable, regulating indoor humidity naturally and resisting
-mold growth. Hempcrete also has good acoustic insulation properties and is
-naturally resistant to fire, pests, and rodents. However, the material must
-be protected from direct rain exposure with renders or cladding, and it has
-a relatively long curing time of several months before it reaches full
-strength. Hempcrete construction requires access to hemp hurd and building
-lime, which may not be locally available in all regions.
-
-## Adobe
-
 [[adobe-construction]]
 
 Adobe construction uses sun-dried bricks made from a mixture of clay-rich
@@ -123,8 +99,6 @@ alone by addressing both thermal storage and thermal resistance.
 
 ## See Also
 
-- [[comparison-hempcrete-vs-rammed-earth]]
 - [[comparison-adobe-vs-rammed-earth]]
-- [[comparison-hempcrete-vs-straw-bale-construction]]
 - [[natural-building-materials-guide]]
 - [[comparison-cob-vs-hempcrete]]

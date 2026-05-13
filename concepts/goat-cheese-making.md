@@ -3,13 +3,13 @@ title: Goat Cheese Making
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
-tags: [goats, food, processing, [[homesteading]], recipe, homestead-crafts, nutrition, fermentation]
+tags: [goats, food, processing, homesteading, recipe, homestead-crafts, nutrition, fermentation]
 sources: []
 ---
 
 # Goat Cheese Making
 
-Goat milk cheese (chevre) is one of the most accessible and rewarding [[homestead-dairy-guide]] products. Goat milk is naturally homogenized (smaller fat globules), making it easier to curdle and produce a creamy cheese. This guide covers the fundamental cheeses that can be made at home: fresh chevre, feta, and aged gouda.
+Goat milk cheese (chevre) is one of the most accessible and rewarding homestead dairy products. Goat milk is naturally homogenized (smaller fat globules), making it easier to curdle and produce a creamy cheese. This guide covers the fundamental cheeses that can be made at home: fresh chevre, feta, and aged gouda.
 
 ## Milk Quality Fundamentals
 
@@ -122,7 +122,7 @@ Gouda is a washed-curd cheese that requires more equipment and time but produces
 -  **Mesophilic** — Work at 20-30 C. Used for chevre, feta, cottage cheese. Common strains: MA 4001, MM 100, Flora Danica.
 -  **Thermophilic** — Work at 35-45 C. Used for gouda, cheddar, parmesan. Common strains: TA 61, LH 100, Thermophilic B.
 -  **Direct-set (DVI)** — Single-use packets added directly to milk. Most convenient for beginners.
--  **Mother culture** — Perpetuated from batch to batch. More economical for frequent cheesemakers but requires [[cultivator-sterile-technique-and-agar-culture]].
+-  **Mother culture** — Perpetuated from batch to batch. More economical for frequent cheesemakers but requires sterile technique.
 
 ### Rennet
 
@@ -140,6 +140,11 @@ Gouda is a washed-curd cheese that requires more equipment and time but produces
 
 -  **Curd won't set** — Check rennet freshness, verify milk temperature, ensure milk wasn't UHT pasteurized
 -  **Bitter cheese** — Too much rennet, excess moisture in curd, or insufficient aging
--  **Crumbly cheese** — pH too low (over-acidified), or insufficient pressing
--  **Rubbery cheese** — Temperature too high during cooking, or excess rennet
--  **Off-flavors** — Check milk quality, sanitation, and feed. Goat milk absorbs flavors readily
+
+## See Also
+
+- [[permaculture-goat-raising]]
+- [[goat-husbandry]]
+- [[comparison-cattle-husbandry-vs-goat-husbandry]]
+- [[mollison-designers-goat-dairy-and-cheese-production]]
+- [[goat-keeping-guide]]

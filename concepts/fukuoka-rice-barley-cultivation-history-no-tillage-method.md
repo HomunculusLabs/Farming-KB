@@ -36,25 +36,7 @@ Japanese rice cultivation passed through four distinct stages:
    increased fertilizer production, raising output but demanding heavier labor.
 
 3. **1960 — Scientific farming**: Brought mechanization and the application of
-   [[fukuoka-critique-agricultural-science-laws-liebig]] to every aspect of cultivation.
-
-4. **1970 — Agribusiness**: The culmination of energy-intensive, systemized
-   agriculture driven by chemical inputs and economic efficiency.
-
-Soil scientists of the era promoted a simplistic formula: one inch of tilling
-equaled five bushels per quarter-acre, so five inches of tilling should yield
-twenty-five bushels. This reasoning was fundamentally wrong.
-
-Under animal-powered agriculture, the labor required for heavy compost
-application was staggering, yet yields peaked at only about twenty-two bushels
-per quarter-acre.
-
-The scientific farming stage brought detailed studies on plant morphology,
-planting, spacing, and transplantation depth. Each technique was found to have
-roughly a five percent effect on yields, and combined efforts failed to make
-notable gains.
-
-As Fukuoka observed: "Although [[fukuoka-textdoc-postwar-japanese-agricultural-mechanization-collapse]] technology appears to have
+   [[fukuoka-textdoc-postwar-japanese-agricultural-mechanization-collapse]] technology appears to have
 progressed rapidly over the last fifty years, the productivity of the land has
 declined."
 
@@ -68,7 +50,7 @@ Barley and wheat were second only to rice as food staples in Japan, yet today
 they are vanishing from Japanese soil.
 
 Traditional barley cultivation was extraordinarily labor-intensive: plow the
-field, break clods, make seed furrows, sow seed, cover, apply compost, three
+field, break clods, make seed furrows, sow seed, cover, apply [[compost]], three
 weedings, loosen soil, gather around base, trample shoots, spray pesticides,
 and mature.
 
@@ -122,29 +104,6 @@ His key findings from over a decade of no-tillage practice were:
 - **No-tillage improves and enriches the land**, demonstrated over more than
   ten consecutive years.
 - **It provides total germination and weed control**, with less labor and
-  higher yields than [[microwave-sterilization-versus-conventional-methods-comparison]].
-- **Its full potential is realized only within a natural farming rotation**
-  that includes direct-seeded rice.
-
-Fukuoka challenged the foundational assumptions of Japanese agriculture: "Why
-was it that barley could be sown directly while rice had to be seeded in a
-starter bed then transplanted? And why was it that barley was grown on ridges
-while rice was grown on a level field?"
-
-"After long years of failure upon failure, somehow my methods of growing rice
-and barley merged. I found mixed seeding and even simultaneous seeding to be
-possible."
-
-## Early Experiences
-
-Masanobu Fukuoka was the eldest son in a farming family. He studied
-plant pathology and later worked at the Yokohama Customs Bureau research lab.
-
-"One night the truth came to me in a flash. I saw all of a sudden that nature
-is an astounding thing that cannot be named. In that instant, I understood the
-principle of 'nothingness,' of Mu."
-
-This realization became the [[fukuoka-spiritual-philosophical-foundation]] for everything that
+  higher yields than [[fukuoka-spiritual-philosophical-foundation]] for everything that
 followed. During wartime mobilization, he was sent to the Kochi Prefecture
-agricultural [[fukuoka-straw-scattering-testing-station-resistance]], later returning to his family farm on Shikoku
-Island to put his vision [[four-principles-of-natural-farming]] into practice.
+agricultural [[four-principles-of-natural-farming]] into practice.

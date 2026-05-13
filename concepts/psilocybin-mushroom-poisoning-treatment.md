@@ -9,13 +9,9 @@ sources: [papers/field-guide-to-the-psilocybin-mushroom.md]
 
 # Psilocybin Mushroom Poisoning and Treatment
 
-While psilocybin-containing mushrooms are among the least toxic of all psychoactive substances, poisoning incidents do occur — primarily from psychological distress rather than physical toxicity. This page covers the clinical presentation of psilocybin intoxication, historical accidental poisonings, medical treatment protocols, and the phenomenon of flashbacks. See [[psychedelic-mushroom-set-and-setting]] in Africa and one caused by [[panaeolus-cyanescens-bali-omelette]] intoxication were typically described as: drowsiness, lightheadedness, an inability to walk, a staggering gait, giggling, much hilarity, inappropriate speech, uncontrollable laughter, euphoria, and acting as if on a bender. [[psilocybe-genus-diversity-and-taxonomy]] species.
+While psilocybin-containing mushrooms are among the least toxic of all psychoactive substances, poisoning incidents do occur — primarily from psychological distress rather than physical toxicity. This page covers the clinical presentation of psilocybin intoxication, historical accidental poisonings, medical treatment protocols, and the phenomenon of flashbacks. See [[panaeolus-cyanescens-bali-omelette]] intoxication were typically described as: drowsiness, lightheadedness, an inability to walk, a staggering gait, giggling, much hilarity, inappropriate speech, uncontrollable laughter, euphoria, and acting as if on a bender. [[bloomfield-mushroom-foraging-immigrant-poisonings-paddy-straw-confusion]] lies not in consuming hallucinogenic species but in accidentally picking toxic lookalikes. Deadly poisonous Galerina species and Conocybe filaris, which are extremely poisonous, commonly share habitats with [[psilocybe-stuntzii-profile]] in mulched gardens.
 
-## The Real Danger: Misidentification
-
-The greatest danger from [[bloomfield-mushroom-foraging-immigrant-poisonings-paddy-straw-confusion]] lies not in consuming hallucinogenic species but in accidentally picking toxic lookalikes. Deadly poisonous Galerina species and Conocybe filaris, which are extremely poisonous, commonly share habitats with [[growing-gourmet-caramel-capped-psilocybe-cyanescens-cultivation]] detailed, [[psilocybe-stuntzii-profile]] in mulched gardens.
-
-[[guzman-chlorophyllum-molybdites-toxic-edible-paradox-yoruba-divinatory-use]] ("green gills" or "Morgan's Lepiota"), considered toxic but not deadly, is often picked in Florida and mistaken for mushroom-poisoning-and-lookalikes and [[psilocybin-toxicity-and-safety-profile]] for comprehensive toxicity data.
+[[psilocybin-toxicity-and-safety-profile]] for comprehensive toxicity data.
 
 ## Treatment Protocols
 
@@ -25,10 +21,8 @@ Recommended treatment should always be primarily supportive:
 
 ### Supportive Measures
 
-The "talk-down" technique is the preferred method for handling difficult experiences. It involves non-moralizing, comforting personal support from an experienced individual. This is aided by limiting external stimulation such as intense light or loud sounds, letting the person lie down, and perhaps listening to soft music. See [[psilocybin-toxicity-and-safety-profile]]
-- [[psychedelic-harm-reduction-guide]]
+The "talk-down" technique is the preferred method for handling difficult experiences. It involves non-moralizing, comforting personal support from an experienced individual. This is aided by limiting external stimulation such as intense light or loud sounds, letting the person lie down, and perhaps listening to soft music. See [[psychedelic-harm-reduction-guide]]
 - mushroom-poisoning-and-lookalikes
-- [[psilocybin-accidental-ingestion-australia]]
 - [[harm-reduction-guide]]
 ## Practical Applications
 

@@ -6,23 +6,13 @@ type: concept
 tags: [mycology, fungi]
 sources: []
 ---
-# Fungal Functional Diversity in Decomposition Fungal functional diversity in decomposition encompasses the range of enzymatic capabilities, substrate preferences, and ecological strategies that fungi employ to break down organic matter. Understanding functional diversity is essential for predicting ecosystem-level decomposition processes. fungal-functional-diversity [[fungal-enzyme-systems]] [[coprophilous-fungi]] [[thermophilic-fungi]] [[fungal-decomposition-succession-resource-quality]] [[thermophilic-fungi]] fungal-environmental-sensing
-
-## Moisture Effects on Decomposition
-
-Water availability directly affects rates of decomposition. Abundance of water promotes [[brassinosteroid-fungal-growth-promotion]] in general and may affect diversity because fungi vary in their tolerances to water stress.
+# Fungal Functional Diversity in Decomposition Fungal functional diversity in decomposition encompasses the range of enzymatic capabilities, substrate preferences, and ecological strategies that fungi employ to break down organic matter. Understanding functional diversity is essential for predicting ecosystem-level decomposition processes. fungal-functional-diversity [[coprophilous-fungi]] [[fungal-decomposition-succession-resource-quality]] [[brassinosteroid-fungal-growth-promotion]] in general and may affect diversity because fungi vary in their tolerances to water stress.
 
 Relatively low water availability may result in greater diversity in culture because slower-growing taxa are less likely to be crowded out by weedy species. The substratum itself may act as a reservoir, allowing continued growth in dry conditions.
 
-[[fungal-diversity-deserts-arid-lands]]
+[[biodiversity-of-fungi-soil-fungal-communities-agriculture]] may provide more stable decomposition services through functional redundancy, where multiple species perform similar roles. The loss of individual species may be compensated by others with similar functional capabilities.
 
-## Functional Redundancy and Ecosystem Stability
-
-Diverse [[biodiversity-of-fungi-soil-fungal-communities-agriculture]] may provide more stable decomposition services through functional redundancy, where multiple species perform similar roles. The loss of individual species may be compensated by others with similar functional capabilities.
-
-However, the degree of functional redundancy in fungal decomposer communities remains poorly quantified. Some functional capabilities, particularly [[mycoremediation-white-rot-fungi-lignin-degradation-enzymes]], may be concentrated in relatively few species, making decomposition vulnerable to loss of key taxa.
-
-fungal-biodegradation-of-synthetic-pollutants fungal-functional-diversity [[fungal-metagenomics]] culturing-culture-independent-fungi
+However, the degree of functional redundancy in fungal decomposer communities remains poorly quantified. Some functional capabilities, particularly [[fungal-metagenomics]] culturing-culture-independent-fungi
 ## Practical Applications
 
 Fungal Functional Diversity Decomposition has a range of practical applications that make it relevant to
@@ -97,8 +87,6 @@ through generations to modern scientific approaches, the evolution continues
 to inform current best practices and research directions.
 
 ## See Also
-- [[decomposition]]
 - [[doc]]
-- [[det]]
 - [[brassinosteroid]]
 - [[mycoremediation]]

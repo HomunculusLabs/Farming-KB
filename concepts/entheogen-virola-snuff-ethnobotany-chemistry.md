@@ -8,9 +8,7 @@ sources: [~/wiki/raw/papers/a-golden-guide-to-hallucinogenic-plants.md]
 type: concept
 ---
 
-# [[tryptamine]] alkaloids,
-principally the highly active 5-methoxy-N,N-dimethyltryptamine
-([[virola-theiodora]] contains
+# [[virola-theiodora]] contains
 up to 8 percent tryptamines by weight, making it one of the most
 potent natural psychoactive preparations known. The primary active
 compound is 5-methoxy-N,N-dimethyltryptamine (5-MeO-DMT), a
@@ -67,13 +65,8 @@ traditions. Related Myristicaceae genera used in the Amazon include
 Osteophloeum and Iryanthera, though these are less well documented.
 The high tryptamine content of Virola resin has attracted interest
 from phytochemists investigating the biosynthetic pathways of
-indole alkaloids in [[mollison-designers-moringa-and-multipurpose-tropical-trees]].
+indole alkaloids in [[virola-calophylla]]
 
-## See Also
-
-- [[virola-calophylla]]
-
-- [[entheogen-ayahuasca-admixture-plants]] for other DMT-containing species
 - [[harmala-alkaloids]] for chemistry of related compounds
 ## Practical Considerations
 
@@ -123,8 +116,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[virola-snuff]]
 - [[ayahuasca]]
-- [[doc]]
 - [[indole]]
 - [[moringa]]

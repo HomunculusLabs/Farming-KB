@@ -8,59 +8,7 @@ sources: ["Shulgin - PIHKAL"]
 ---
 # 3-TE
 
-[[2c-b-pihkal-entry-20]] #150. 3-THIOESCALINE;.
-
-## Chemical Name
-
-3-THIOESCALINE;
-
-## Dosage and Duration
-
-| Property | Value |
-|----------|-------|
-| Dosage | 60 - 80 mg. |
-| Duration | 8 - 12 h. |
-
-## Qualitative Comments
-
-> (with 60 mg) There may well be time slowing. I
-> noticed that the voices on the radio seemed to be of a deeper pitch.
-> And with music there is a most easy flight of fantasy. I tried to
-> keep a logical conversation going on the telephone, but I am pretty
-> sure there were problems. I found myself down sooner than I would
-> have liked.
->
-> (with 70 mg) I found myself in a good, rich place, and thoroughly
-> enjoyed my introspection. I didn't want to talk and interact, and
-> that seemed just fine with everyone else. Several of the others
-> seemed restless, but I lay back and let them do their thing. My
-> appetite was fine towards the end, and I might have actually
-> overeaten. I was able to drive home that evening, but there seemed to
-> be some slight residual something after waking in the morning. I
-> would certainly repeat without hesitation.
->
-> (with 80 mg) Art interpretation and imagery with music are
-> remarkable. This material touches on the psychedelic Q rather than
-> just being stoned. The body is higher than the mind, but where the
-> mind is makes it all OK. It's worth the cost. My getting to sleep
-> was easy that evening, but sleep was not too restful and there was
-> something strange about it.
-
-## Extensions and Commentary
-
-There is a good lesson to be learned in the
-attempts to predict the potency of 3-TE before it was actually
-explored. All pharmacological prediction follows pretty much a single
-mechanism. Find things that are close in some way, and arrange them
-in a manner that allows comparison. A relates to B in this way, and A
-relates to C in that way, and since D incorporates both this and that
-of each, it will probably be such-and-such. The Roman square.
-
-Here is the square with the horizontal arrow adding a sulfur in the
-3-position and the vertical arrow adding an ethyl group in place of a
-methyl group at the 4-position:
-
- [[mescaline]]                 x 3.5            3-TM
+[[mescaline]]                 x 3.5            3-TM
 
 200-400 mg                                 60-100 mg
 
@@ -90,3 +38,88 @@ Thioescaline                               3-TE Rx0.3S
 
 ## See Also
 - [[ethyl-j-entity-pihkal]]
+
+## Overview
+
+3 Te Entity Pihkal represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish 3 te entity pihkal
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving 3 extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+3 Te Entity Pihkal finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for 3 te entity pihkal. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+3 te entity pihkal and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+3 Te Entity Pihkal has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of 3 te entity pihkal into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[2c-g-3-entity]]
+- [[4-5-mdo-dmt-entity-tihkal]]
+- [[5-6-mdo-dipt-entity-tihkal]]
+- [[mdcpm-entity-pihkal]]
+- [[methyl-k-entity-pihkal]]

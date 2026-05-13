@@ -19,35 +19,9 @@ Ajosquiro is the common Amazonian name for *Gallizia corazema*, a tree species r
 
 ## Key Facts
 
-- One of the four principal kapukiri-producing trees [[chullachaki-and-soul-recovery-in-amazonian-shamanism]]
-- Kapukiri from ajosquiro causes: extreme nervousness, fear, sensation of worm biting
-- The tree is also associated with teaching huaira-kuros sorcery (aerial worm magic)
-- Huaira-kuros are malevolent animals sent by sorcerers that enter victims through nose and ears
-- Like other kapukiri trees, it is governed by strict taboos regarding cleanliness and respect
-- The tree's spirit punishes those who violate its rules or show disrespect
-- Appears in Vision 30 (Kapukiri) and Vision 40 (Ayacatuca) of Amaringo's work
-
-## Spiritual and Magical Properties
-
-- The tree generates kapukiri substance from decomposing leaf matter
-- The kapukiri serves as nourishment for invisible beings that inhale these substances
-- Evil shamans specifically harness ajosquiro-derived kapukiri to inflict harm
-- Knowledge of the icaro del kapukiri is essential for curing ajosquiro-related illness
-- The tree also teaches a specific form of sorcery involving huaira-kuros (air worms)
-- These aerial worms are described as malevolent entities that invade through facial orifices
-
-## Ethnobotanical Context
-
-- The tree's name contains "ajo" (garlic), possibly referring to a pungent or sulfurous quality
-- Kapukiri from ajosquiro is considered less lethal than huairacaspi kapukiri but more psychologically disturbing
-- The nervousness and fear symptoms suggest possible neurotoxic properties in the tree's tissues or decomposition products
-
-## Relevance to Cultivation and Mycology
-
-- As a kapukiri source tree, ajosquiro represents the Amazonian understanding of plant decomposition chemistry
-- The tree's association with aerial worm sorcery may reflect awareness of respiratory parasites or fungal [[bloomfield-lycoperdonosis-puffball-spore-inhalation-respiratory-illness]] effects
+- One of the four principal kapukiri-producing trees [[bloomfield-lycoperdonosis-puffball-spore-inhalation-respiratory-illness]] effects
 - The nervousness and worm-biting sensations attributed to ajosquiro kapukiri parallel genuine neurotoxic and parasitological conditions
-- The tree contributes to [[arbuscular-mycorrhizal-fungi-in-tropical-forest-restoration]] [[fungal-ecology-and-decomposition]] cycles relevant to mycological processes
+- The tree contributes to [[fungal-ecology-and-decomposition]] cycles relevant to mycological processes
 - Understanding this species within its ethnomedical context illuminates how Amazonian peoples classify and respond to plant-derived toxins
 
 ## Safety Considerations
@@ -60,14 +34,7 @@ Ajosquiro is the common Amazonian name for *Gallizia corazema*, a tree species r
 
 - Kapukiri (decompositional illness)
 - Huaira-kuros (worms of the air)
-- [[catahua-negra]] (*Hura crepitans*)
-- Huairacaspi (*Carpotroche grandiflora*)
-- Puka-lupuna (*Cavanillesia* sp.)
-- Vegetalismo (Amazonian plant shamanism)
-
-## Relation to Kapukiri
-
-Ajosquiro is best understood through [[kapukiri-pathogenic-forest-vapors]], because its danger is described as an emanation rather than only as a poison in bark, sap, or leaves.
+- [[kapukiri-pathogenic-forest-vapors]], because its danger is described as an emanation rather than only as a poison in bark, sap, or leaves.
 
 The tree's decomposing matter produces a harmful field that affects the nervous system and imagination of the exposed person.
 
@@ -100,20 +67,84 @@ Cleanliness, respect, and avoidance of contamination are not optional etiquette;
 
 A vegetalista treating ajosquiro illness would need the appropriate icaro, knowledge of the tree, and the ability to distinguish ordinary fear from tree-caused kapukiri.
 
-This is the same therapeutic world described in [[amaringo-ayahuasca-visions-shipibo-iconography]].
-
-## Interpretive Notes
-
-Ajosquiro demonstrates how Amazonian plant knowledge can combine odor, decomposition, nervous symptoms, sorcery theory, and ecological respect.
-
-Its name's garlic-like suggestion also hints at pungency, though the note should avoid treating that etymology as certain.
-
-The most important point is that ajosquiro is not merely a toxic tree; it is a teacher and a danger within a forest society of visible and invisible beings.
-
-## Study Connections
-
-Compare ajosquiro with other Amaringo entities such as [[jergon-sacha]] to see how plants are classified by relationship to danger.
+This is the same therapeutic world described in [[jergon-sacha]] to see how plants are classified by relationship to danger.
 
 One plant answers snakebite through resemblance, while the other causes or teaches vaporous and aerial afflictions.
 
 Both show that vegetalista botany is relational, diagnostic, and moral.
+
+## Overview
+
+Ajosquiro represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish ajosquiro
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving ajosquiro extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Ajosquiro finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for ajosquiro. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+ajosquiro and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Ajosquiro has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of ajosquiro into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.

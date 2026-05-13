@@ -4,11 +4,7 @@ source: ben-lemon-cannabis-alchemy.md
 type: concept
 ---
 
-# [[thc-acetate-synthesis]] and Hashish Preparation
-
-## Overview
-
-This concept covers the detailed apparatus and procedure for synthesizing [[thc-acetate]] within a controlled-atmosphere safety box, followed by methods for preparing hashish from cannabis oil. THC acetate synthesis is the most hazardous operation described in cannabis alchemy, requiring specialized laboratory equipment, a nitrogen-purged glove box, and strict safety protocols. Hashish preparation, by contrast, is a simpler physical process of combining extracted oil with powdered cannabis material.
+# [[thc-acetate]] within a controlled-atmosphere safety box, followed by methods for preparing hashish from cannabis oil. THC acetate synthesis is the most hazardous operation described in cannabis alchemy, requiring specialized laboratory equipment, a nitrogen-purged glove box, and strict safety protocols. Hashish preparation, by contrast, is a simpler physical process of combining extracted oil with powdered cannabis material.
 
 ## THC Acetate: Detailed Apparatus and Procedure
 
@@ -29,9 +25,7 @@ The boiling flask is positioned at least one-half inch above the bottom of the o
 
 Before the apparatus enters the box, the boiling flask contains a measured amount of cannabis extract. Also placed inside are:
 
-- An unopened bottle of [[acetic-anhydride]]
-- An empty graduated beaker
-- A beaker with sufficient [[cottonseed-oil]] for the bath (level slightly above the solution in the flask)
+- An unopened bottle of [[cottonseed-oil]] for the bath (level slightly above the solution in the flask)
 - An empty open-top container (same height as flask, slightly larger diameter) to safely hold the flask when dismantled
 
 ### Acetic Anhydride Addition
@@ -39,7 +33,7 @@ Before the apparatus enters the box, the boiling flask contains a measured amoun
 After closing the right panel and purging the chamber with nitrogen:
 
 1. The condenser clamps are loosened and slid up the ring stand to expose the flask mouth
-2. Using gloves through the front board at station one, the acetic anhydride bottle is opened
+2. Using gloves through the front board at station one, the [[acetic-anhydride]] bottle is opened
 3. An amount equal to **three times the volume of cannabis oil** is poured into the graduated beaker
 4. The bottle cap is replaced and the acetic anhydride is carefully poured from the beaker into the flask
 5. The condenser is securely replaced and a solid rubber stopper is loosely fitted to the condenser top

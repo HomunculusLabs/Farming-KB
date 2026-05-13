@@ -9,11 +9,11 @@ aliases: [Visible 3D Language Tryptamine McKenna, Hyperspatial Language Cultural
 # Three-Dimensional Visible Language as Future Human Capacity: McKenna's Tryptamine Hypothesis of Linguistic Evolution
 
 Among the most consequential speculative claims in McKenna's 1983 Esalen lecture
-is his hypothesis that the tryptamine experience reveals a latent human capacity
+is his hypothesis that the [[tryptamine]] experience reveals a latent human capacity
 for three-dimensional visible language — a mode of communication in which "the
 intent of meaning is actually beheld in three-dimensional space." This hypothesis
 bridges phenomenology, linguistics, and evolutionary biology, proposing that the
-translinguistic objects encountered in DMT states are not aberrations but
+translinguistic objects encountered in [[dmt]] states are not aberrations but
 anticipations of a future stage in human linguistic evolution.
 
 ## The Phenomenological Observation
@@ -132,11 +132,7 @@ transform the character of civilization.
 
 ## See Also
 
-- [[mckenna-translinguistic-objects-cognitive-dissonance-tryptamine]] — translinguistic
-  phenomenology
 - [[glossolalia-translinguistic-objects]] — glossolalia in tryptamine states
-- [[mckenna-primal-ursprache-kabbalistic-zohar-and-white-goddess-glossolalia]] —
-  primal language traditions
 - [[mckenna-philo-judaeus-logos-hearing-to-beholding]] — Philo Judaeus reference
 - [[language-self-replicating-information-noosphere-mckenna]] — language and the
   noosphere

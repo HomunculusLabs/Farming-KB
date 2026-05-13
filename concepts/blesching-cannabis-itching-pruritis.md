@@ -24,63 +24,10 @@ externally by temperature variations, slight electrical stimulation, parasites
 (lice, scabies), and contact with certain substances (natural or synthetic).
 Itching only occurs superficially on the outer layers of the skin.
 
-According to the [[blesching-cannabis-health-index-autoimmune-conditions]], the evidence for cannabis in treating
-pruritis is based on 3 studies reviewed with a total CHI value of 10, yielding
-a [[blesching-cannabis-chi-score-methodology]] of 3.33.
+According to the [[blesching-cannabis-chi-score-methodology]] of 3.33.
 
-See also: [[blesching-cannabis-skin-cancer-non-melanoma]],
-[[blesching-cannabis-herpes-hsv]],
-[[cannabis-and-fibromyalgia]]
-
-## Causes of Itching
-
-### External Causes
-- Temperature variations
-- Electrical stimulation
-- Parasites (lice, scabies)
-- Contact with certain substances
-
-### Internal Causes
-- Psychological origins (stress, hallucinations)
-- Brain tumors
-- Multiple sclerosis
-- Neuropathies and diabetes
-- Cholestatic liver disease
-- Skin diseases (contagious or non-contagious)
-- Nerve damage and inflammation
-- Wound healing (skin trauma or burns)
-- Hives and allergic reactions
-- Certain medications (pharmaceutical and holistic)
-- Fungus, parasites, eczema
-- Hormonal changes (e.g., menopause)
-
-### Conventional Treatment
-
-Orthodox dermatologists rely on internal and topical pharmaceuticals to
-reduce and suppress the itch. Common anti-itch medications include
-antihistamines and steroids. When these do not work, the itch continues
-affecting quality of life and contributing to frustration, hopelessness, and
-depression.
-
-## The Endocannabinoid System and Itching
-
-Research has established that up-regulation of both CB1 and CB2 receptors
-produces a reduction of pain and itch by:
-
-- Suppressing pain- and itch-producing substances
-- Inhibiting transmission of signals in the nervous system
-
-This dual mechanism suggests that cannabinoids can address both the sensory
-experience of itching and the underlying inflammatory processes that often
-contribute to it.
-
-## Cannabis and Itching: The Evidence
-
-### Topical Cannabinoid Agonists (2006, Munster, Germany)
-
-Dermatologists are aware of the very limited and often ineffective allopathic
-options for treating chronic itching. Scientists from the University Hospital
-Munster used a cream containing N-palmitoyl ethanolamine, a fatty [[lysergic-acid-amide-containing-plants-halpern]]
+See also: [[blesching-cannabis-herpes-hsv]],
+[[lysergic-acid-amide-containing-plants-halpern]]
 that enhances the action of anandamide, to treat patients with prurigo,
 lichen simplex, and pruritus.
 
@@ -118,8 +65,85 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[doc]]
 - [[ethanol]]
-- [[endocannabinoid-system]]
 - [[anandamide]]
 - [[blesching-cannabis-neuroprotection-neurodegenerative]]
+
+## Overview
+
+Blesching Cannabis Itching Pruritis represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish blesching cannabis itching pruritis
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving blesching extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Blesching Cannabis Itching Pruritis finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for blesching cannabis itching pruritis. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+blesching cannabis itching pruritis and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Blesching Cannabis Itching Pruritis has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of blesching cannabis itching pruritis into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also

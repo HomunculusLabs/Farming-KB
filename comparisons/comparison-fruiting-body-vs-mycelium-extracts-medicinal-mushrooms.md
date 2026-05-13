@@ -13,11 +13,7 @@ created: 2026-05-07
 type: comparison
 ---
 
-# Fruiting Body vs Mycelium-on-Grain Extracts for [[beta-glucans]] (specifically β-1,3/1,6-D-glucans) are the primary immunomodulatory polysaccharides in medicinal mushrooms. Research consistently shows significant differences between product types:
-
-- **Fruiting body extracts** contain concentrated beta-glucan levels, typically **15–50%+** depending on species and extraction quality.
-- **Mycelium-on-grain products** contain substantially lower beta-glucan content, often **<5%**, because the product is diluted by grain biomass.
-- Fruiting bodies accumulate [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]] defensively during growth, whereas mycelium grown on grain has less physiological incentive to produce these metabolites.
+# Fruiting Body vs Mycelium-on-Grain Extracts for [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]] defensively during growth, whereas mycelium grown on grain has less physiological incentive to produce these metabolites.
 - Many clinical studies demonstrating immune benefits used **isolated fruiting body preparations**, not mycelium-on-grain products — so the evidence base is largely one-sided.
 
 ## The Starch / Alpha-Glucan Filler Controversy
@@ -27,17 +23,11 @@ This is the most debated issue in the mushroom supplement industry:
 - **Grain starch is indistinguishable from fungal alpha-glucans on basic labeling.** When a mycelium-on-grain product lists "alpha-glucans" on its label, these are overwhelmingly **starch from the residual grain**, not bioactive fungal compounds.
 - Independent laboratory analyses have found that many mycelium-on-grain products are **30–70% starch by weight**, with some exceeding 80%.
 - This starch has no known medicinal value and essentially acts as an expensive filler.
-- [[abort-suppression-brassinosteroid-incomplete-fruit-body-reduction]] extracts, by contrast, contain minimal starch — beta-glucan content is far higher relative to total weight.
-
-**Key takeaway:** High alpha-glucan content on a label is not a marker of quality; it is likely an indicator of leftover grain starch.
-
-## Terpenoid and Triterpenoid Content
-
-Triterpenoids (notably [[mushroom-cultivation-basics]]
+- [[mushroom-cultivation-basics]]
 - [[medicinal-mushroom-guide]]
 ## Practical Applications
 
-Fruiting Body vs Mycelium Extracts for Medicinal Mushrooms has a range of practical applications that make it relevant to
+Fruiting Body vs Mycelium Extracts for [[medicinal-mushrooms]] has a range of practical applications that make it relevant to
 both researchers and practitioners. Understanding these applications
 requires familiarity with the underlying principles and their
 manifestation in real-world contexts. The breadth of applications

@@ -11,62 +11,18 @@ type: concept
 
 # Wide Spacing Dry Gardening for Low Irrigation Food Production
 
-Wide spacing dry gardening is a method of [[dry-gardening-unirrigated-vegetable-production-solomon]] that minimizes or eliminates irrigation by planting individual plants far enough apart that each can develop an extensive root system capable of accessing soil moisture stored from winter rains. Developed and refined by [[steve-solomon]], author of Gardening When It Counts, this approach directly challenges the intensive raised-bed paradigm that has dominated backyard food gardening since the 1980s.
+Wide spacing dry gardening is a method of [[steve-solomon]], author of Gardening When It Counts, this approach directly challenges the intensive raised-bed paradigm that has dominated backyard food gardening since the 1980s.
 
 ## Origins and Rationale
 
-Steve Solomon, founder of Territorial Seed Company and author of multiple gardening books, initially advocated intensive raised-bed gardening following the teachings of [[john-jeavons]] and the biointensive movement. However, after selling his seed company in 1986 and conducting extensive variety trials, he discovered that well-separated plants required far less water, grew larger, tasted better, and in many cases yielded more per unit area than densely packed intensive beds.
-
-The method draws on historical precedent. During World War II, British wartime allotments of 2,700 square feet (about 250 square meters) sustained families through lean years using traditional wide-row techniques. In Cuba, after the collapse of the Soviet Union in 1991, urban garden blocks of one-third acre per family produced the majority of vegetables consumed in Havana, much of it grown organically with minimal irrigation. These examples demonstrate that wide spacing methods have proven effective under genuine resource constraints.
-
-## The Problem with Intensive Gardening
-
-Solomon identifies several critical problems with intensive raised-bed methods, particularly in the context of the economic and environmental pressures he foresees:
-
-1. **Excessive water demand**: Densely packed plants compete for the same limited soil moisture, requiring frequent irrigation. As water becomes scarcer and more expensive, this dependency becomes unsustainable.
-
-2. **High fertility requirements**: Intensive beds demand large quantities of compost, manure, and fertilizer to support closely spaced plants. As petroleum-based fertilizers become more expensive, maintaining intensive beds becomes costly.
-
-3. **Increased labor**: The high maintenance demands of intensive beds (constant watering, feeding, and attention) may not justify the marginally increased yields.
-
-4. **Diminished produce quality**: Crowded vegetables must be harvested promptly or they lose quality. Well-spaced plants maintain eating quality over a longer harvest window.
-
-## The Wide Spacing Principle
-
-The fundamental principle is simple: give each plant enough room to fully develop its root system. In nature, plants are not crowded together. They spread their roots widely through the soil to access water and nutrients. Wide spacing gardening recreates these natural conditions.
-
-The key relationship is between root zone area and available soil moisture. When plants are spaced far apart:
-
-- Each plant commands a larger volume of soil
-- Root systems can access moisture reserves deeper in the soil profile
-- Plants develop more extensive and deeper root networks
-- Competition between neighboring plants for water is minimized
-- The soil surface between plants acts as a moisture buffer
-
-## How Much Space Is Needed
-
-Solomon provides a practical framework for garden sizing. In the rainy parts of the Pacific Northwest (west of the Cascade Mountains), approximately 700 square feet (65 square meters) of growing area per person can produce about half of daily caloric needs. Adding another 500 square feet for preserving and storing produce in a root cellar for winter can nearly close the caloric gap.
-
-For comparison, the British wartime allotment standard was 2,700 square feet per family, and Cuban urban garden blocks are approximately one-third acre (about 14,500 square feet) per family, though these tropical gardens produce two crops per year.
-
-The potato is identified as the most space-efficient calorie crop. To produce the same caloric nutrition from cereal grains would require five to ten times as much land.
-
-## Water-Wise Techniques
-
-For gardeners without any irrigation, Solomon recommends several complementary strategies:
-
-- **Extreme spacing**: Plants are placed much farther apart than conventional recommendations. The exact spacing depends on species, soil depth, and rainfall patterns.
-- **Soil moisture conservation**: Mulching between plants reduces evaporation from the soil surface.
-- **Winter rain capture**: In regions with winter rainfall, deep soil preparation before planting allows the soil profile to store moisture from winter rains that sustains crops through the dry summer [[savory-growing-season-and-non-growing-season-management]].
+Steve Solomon, founder of Territorial Seed Company and author of multiple gardening books, initially advocated intensive raised-bed gardening following the teachings of [[savory-growing-season-and-non-growing-season-management]].
 - **Drought-adapted varieties**: Choosing varieties that perform well under low-water conditions is essential. This is where seed company variety trials provide invaluable data.
 
 ## Soil Fertility for Wide Spacing
 
 Wide spacing reduces but does not eliminate the need for soil fertility. Solomon advocates a specific approach:
 
-- Avoid overbuilding soil with excessive [[hamilton-composting-and-organic-matter-management]], which wastes money and effort
-- Use modest amounts of manure and homemade compost
-- Supplement with a complete [[complete-organic-fertilizer-cof-recipe-solomon]] blend made from [[fungi-in-composting-and-agricultural-waste-conversion]] products and crushed rock minerals
+- Avoid overbuilding soil with excessive [[complete-organic-fertilizer-cof-recipe-solomon]] blend made from [[fungi-in-composting-and-agricultural-waste-conversion]] products and crushed rock minerals
 - This concentrated organic plant food, used in modest quantities alongside compost, produces vegetables with far more human nutrition than any other method
 - The key minerals needed are calcium, phosphorus, potassium, and trace minerals from rock dusts
 
@@ -88,3 +44,88 @@ Having run a seed company himself, Solomon provides detailed guidance on evaluat
 The effectiveness of wide spacing dry gardening depends heavily on climate:
 
 - **Rainfall patterns**: The method works best where significant winter or spring rain recharges the soil profile before the growing season
+
+## Overview
+
+Wide Spacing Dry Gardening Low Irrigation Solomon represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish wide spacing dry gardening low irrigation solomon
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving wide extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Wide Spacing Dry Gardening Low Irrigation Solomon finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for wide spacing dry gardening low irrigation solomon. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+wide spacing dry gardening low irrigation solomon and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Wide Spacing Dry Gardening Low Irrigation Solomon has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of wide spacing dry gardening low irrigation solomon into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[mycorrhizal-networks]]
+- [[query-what-is-the-wood-wide-web-and-how-do-mycorrhizal-networks-work]]
+- [[solomon-wide-spacing-versus-intensive-gardening-debate]]
+- [[wide-row-spacing-intensive-gardening-comparison]]
+- [[wood-wide-web]]

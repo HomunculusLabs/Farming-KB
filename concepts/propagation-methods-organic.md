@@ -22,13 +22,7 @@ The cheapest method of raising plants is by sowing seeds directly into prepared 
 
 **Soil Preparation:** Normal organic methods produce a good, workable structure. Rake soil level, sprinkle fertilizer at the recommended rate. A firm bed is usually required — compress by walking over the surface with weight on your heels. Rake to a fine tillage. Never tread on wet soil or risk destroying soil structure. On deep beds, consolidation is unnecessary — leave three or four weeks after digging for soil to settle.
 
-**When to Sow:** Varies by plant (normally shown on seed packets). Seeds sown in soil below 45F (7C) will not germinate until it warms up. Seeds sown in mid-spring often germinate at the same time as, or even before, those sown in cold, wet soil earlier. Exceptions include alpine seeds and some trees that require a period of freezing. Use cloches to start sowing outside in [[coleman-overwintered-onions-and-early-spring-crops]] — place cloches two weeks before sowing to warm soil.
-
-**The Stale Seedbed:** Cultivate the seedbed a few weeks before sowing. Let dormant weed seeds germinate, then hoe them out immediately before sowing. This eliminates competition from native weeds that germinate faster and grow quicker than cultivated varieties.
-
-**Encouraging Germination:** Seeds with hard coats can be soaked overnight in water; very hard seeds can first be filed with a nail file. Seeds like beets have natural germination inhibitors — remove by washing under cold tap or soaking overnight.
-
-**Depth and Distance:** The main cause of seed failure is sowing too deeply. Make "shallow" rows — furrows as shallow as possible. Space seeds and rows correctly to avoid overcrowding. [[permaculture-plants-root-crops-and-tubers]] will "fork" if transplanted. 60-90% of seeds will germinate, so sow thinly.
+**When to Sow:** Varies by plant (normally shown on seed packets). Seeds sown in soil below 45F (7C) will not germinate until it warms up. Seeds sown in mid-spring often germinate at the same time as, or even before, those sown in cold, wet soil earlier. Exceptions include alpine seeds and some trees that require a period of freezing. Use cloches to start sowing outside in [[permaculture-plants-root-crops-and-tubers]] will "fork" if transplanted. 60-90% of seeds will germinate, so sow thinly.
 
 **Sowing Techniques:** Always sow seed thinly. Hold seeds in the palm of your hand and sow a pinch at a time. Large seeds can be sown singly or in "stations" (groups of two or three at required distances). With deep beds, use block-sowing technique. If soil is very dry, water rows before sowing and allow to drain — never water after sowing as this causes "capping" (soil crust preventing water entry or seedling emergence).
 
@@ -42,11 +36,9 @@ The cheapest method of raising plants is by sowing seeds directly into prepared 
 
 Start much earlier in the year — vegetables in midwinter, planted out under cloches in early spring for first crops in late spring.
 
-**Containers:** Use pots, seed trays, module trays, or any shallow container with drainage holes. Clay pots "breathe" (good for alpines needing drainage). [[query-fabric-pots-vs-plastic-pots-vs-air-pots-for-cannabis]] need less frequent watering. Module trays have individual cells — roots are never disturbed, eliminating [[query-how-to-prevent-transplant-shock-when-moving-cannabis-plants]]. Peat-free coir blocks are also available.
+**Containers:** Use pots, seed trays, module trays, or any shallow container with drainage holes. Clay pots "breathe" (good for alpines needing drainage). [[query-how-to-prevent-transplant-shock-when-moving-cannabis-plants]]. Peat-free coir blocks are also available.
 
-**Procedure:** Fill tray/pot with moist seed [[seed-starting-indoors-solomon]]
-- [[cold-frame-construction]]
-- [[pruning-techniques-organic]]
+**Procedure:** Fill tray/pot with moist seed [[cold-frame-construction]]
 - [[growing-vegetables-with-less-fertilizer]]
 ## Practical Considerations
 

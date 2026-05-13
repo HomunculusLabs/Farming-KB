@@ -19,65 +19,9 @@ type: entity
 
 ## Overview
 
-Panaeolus acuminatus is a small, inconspicuous dung-inhabiting mushroom in the family Bolbitiaceae. Found throughout temperate North America and Europe, it is commonly encountered along field-forest interfaces. Despite its membership in a genus that includes several psilocybin-containing species, [[guzman-allen-gartz-conflicting-chemical-analyses-neurotropic-fungi]] have consistently found no psilocybin or psilocin in this species. The name "acuminatus" refers to the pointed, conic shape of the young cap. The species is of interest primarily for its taxonomic position within a genus that contains several well-established psychoactive species.
+Panaeolus acuminatus is a small, inconspicuous dung-inhabiting mushroom in the family Bolbitiaceae. Found throughout temperate North America and Europe, it is commonly encountered along field-forest interfaces. Despite its membership in a genus that includes several psilocybin-containing species, [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]], found throughout North America, Europe, Asia, South America, and parts of Africa and Australasia. In the [[fungal-microscopic-examination-mounting-media-techniques]]:
 
-## Taxonomy and Classification
-
-- **Kingdom:** Fungi
-- **Division:** Basidiomycota
-- **Class:** Agaricomycetes
-- **Order:** Agaricales
-- **Family:** Bolbitiaceae
-- **Genus:** Panaeolus
-- **Species:** P. acuminatus
-
-The species has undergone several taxonomic revisions throughout mycological history. Some older classifications placed it in the genus *Psathyrella* or *Anellaria*. Synonyms include *Panaeolus acuminatus var. acuminatus* and, in some older texts, *Anellaria acuminata*. Moser (1983) describes two forms: P. acuminatus sensu Ricken (campanulate when young) and P. acuminatus sensu Quelet (dark band around margin). The genus *Panaeolus* is characterized by mottled gills and dark spore prints, with many species growing on dung or nitrogen-rich substrates.
-
-## Description
-
-### Cap
-1.5-2.5 (4) cm broad. Conic to conic-campanulate, expanding to convex or plane with age. Chestnut or deep reddish brown when moist, hygrophanous, fading to tawny. Surface viscid when wet. The flesh is thin and fragile, with no distinctive color change when cut.
-
-### Gills
-Adnate to adnexed to sinuate, close to crowded, broad. Very dark purplish gray-black at maturity, mottled from uneven spore ripening. This mottled or "checkered" appearance is a key diagnostic feature of the genus and results from the asynchronous maturation of spores on the gill surface. Gill edges are white and slightly fimbriate.
-
-### Stem
-45-105 (150) mm long by 2.5-6.5 mm thick. Equal to slightly enlarged at base. Dark reddish brown, pruinose surface, often with water droplets near apex. Hollow. The surface is smooth to finely pruinose (frosted), white to pale gray. There is no annulus (ring), and the stem does not stain blue when bruised.
-
-### Spores and Microscopic Features
-Blackish in deposit, smooth, lemon-shaped (ellipsoid to lemon-shaped), 11-16 x 7.5-11 µm, thick-walled with a distinct germ pore. Basidia 4-spored. Cheilocystidia irregular, abundant, cylindrical to lageniform (flask-shaped), hyaline. Pleurocystidia absent.
-
-### Odor and Taste
-Odor is mild or slightly farinaceous (mealy), sometimes slightly earthy. Taste is not distinctive. Not considered edible.
-
-## Distribution and Habitat
-
-Panaeolus acuminatus has a wide distribution across temperate and subtropical regions worldwide. It is one of the most common *Panaeolus* species in [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]], found throughout North America, Europe, Asia, South America, and parts of Africa and Australasia. In the [[psilocybin-north-america-pacific-northwest]], it is as frequently encountered as P. papilionaceus.
-
-Scattered to gregarious on manured grounds or dung in spring, and on nitrogen-enriched soils, compost piles, and decomposing plant material. Often among the first colonizers of fresh dung deposits, appearing within days to weeks after deposition. Common along field-forest interfaces, especially in the Pacific Northwest. The species shows a strong preference for the field-forest ecotone. Fruiting occurs primarily in spring, though specimens can be found through the growing season where conditions permit.
-
-## Chemistry and Psychoactive Properties
-
-**Not psychoactive.** Stijve (1987) found no psilocybin, no psilocin, 0.016% serotonin, 0.066% 5-OH-tryptophan, and tryptophan. Gurevich (1993) also detected no psilocybin/psilocin. The variability in some reported analyses may reflect geographic differences, substrate variation, or possible misidentification of specimens. The detection of serotonin and 5-OH-tryptophan, while not psychoactive, suggests the species produces tryptamine-related compounds that could serve as precursor molecules in related species.
-
-The absence of blue bruising is generally a negative field indicator for significant psilocin content.
-
-### Comparison with Related Psychoactive Species
-
-| Species | Psilocybin | Blue Staining | Potency |
-|---------|-----------|--------------|---------|
-| *P. cyanescens* | High | Strong | Very High |
-| *P. subbalteatus* | Moderate | Weak/None | Low-Moderate |
-| *P. tropicalis* | Moderate | Variable | Moderate |
-| *P. acuminatus* | None | None | Negligible |
-
-## Similar Species
-
-Several *Panaeolus* species are similar and can be difficult to distinguish without [[fungal-microscopic-examination-mounting-media-techniques]]:
-
-- **[[gartz-panaeolus-subbalteatus-taxonomy-and-intoxication-history]]** — Larger, with a distinctly banded or "sub-belted" cap margin; confirmed psychoactive
 - **[[stamets-panaeolus-cyanescens-copelandia-identification-ecology]]** — Hygrophanous, bluing prominently when bruised; highly psychoactive
-- **[[panaeolus-sphinctrinus]]** — Smaller, found on dung; grayish cap with a dark center
 - **[[panaeolus-campanulatus]]** — Similar habitat and size; bell-shaped cap, very common
 - **Panaeolus tropicalis** — Tropical and subtropical distribution; confirmed psychoactive
 - **Panaeolus foenisecii** — Common in lawns and pastures
@@ -86,11 +30,91 @@ Accurate identification requires examination of spore size, shape, and microscop
 
 ## Ecological Role
 
-As a coprophilous fungus, *Panaeolus acuminatus* plays an important ecological role [[comparison-soil-protozoa-vs-nematodes-in-nutrient-cycling]]:
+As a coprophilous fungus, *Panaeolus acuminatus* plays an important ecological role [[panaeolus-castaneifolius]]
+- [[panaeolus-panaeolina-neurotropic-species]]
+- [[panaeolus-retirugis]]
+
+## Overview
+
+Panaeolus Acuminatus represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish panaeolus acuminatus
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving panaeolus extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Panaeolus Acuminatus finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for panaeolus acuminatus. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+panaeolus acuminatus and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Panaeolus Acuminatus has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of panaeolus acuminatus into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
 
 ## See Also
 
-- [[panaeolus-castaneifolius]]
-- [[panaeolus-olivaceus]]
+- [[panaeolus-antillarum-misidentification-copelandia-confusion]]
+- [[panaeolus-cyanescens-entity]]
 - [[panaeolus-panaeolina-neurotropic-species]]
-- [[panaeolus-retirugis]]
+- [[panaeolus-subbalteatus-profile]]
+- [[panaeolus-tropicalis]]

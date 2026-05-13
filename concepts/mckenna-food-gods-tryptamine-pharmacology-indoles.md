@@ -11,15 +11,8 @@ type: concept
 
 # Tryptamine Pharmacology and the Case for Indoles in Food of the Gods
 
-In the closing sections of *Food of the Gods*, [[mckenna-food-gods-stoned-ape-hypothesis]].
+In the closing sections of *Food of the Gods*, [[mckenna-food-gods-tryptamine-dimension]]
 
-## The Ayahuasca Synergy
-
-McKenna also discusses the remarkable pharmacological synergy of
-ayahuasca, in which beta-carboline-containing plants (such as
-*[[mckenna-food-gods-tryptamine-dimension]]
-
-- [[mckenna-food-gods-natural-synthetic-drugs]]
 - [[mckenna-food-gods-designer-states-of-consciousness]]
 ## Practical Applications
 

@@ -18,41 +18,7 @@ type: concept
 
 ## From Research Compound to Marketed Product
 
-After W. A. Stoll's groundbreaking 1947 studies demonstrated [[lsd]]'s
-potential for medicinal-psychiatric use, Sandoz made the new active
-substance available to research institutes and physicians as an
-experimental drug. Hofmann himself proposed the trade name Delysid,
-formed from D-Lysergsaure-diaethylamid. The product was supplied as
-sugar-coated tablets containing 0.025 mg (25 micrograms) and as
-ampoules of 1 ml containing 0.1 mg (100 micrograms) for oral
-administration. The solution could also be injected subcutaneously or
-intravenously, with effects identical to oral administration but more
-rapid in onset.
-
-## The Delysid Prospectus
-
-The official Sandoz prospectus described the properties of Delysid:
-administration of very small doses (1/2 to 2 micrograms per kg body
-weight) resulted in transitory disturbances of affect, hallucinations,
-depersonalization, reliving of repressed memories, and mild
-neurovegetative symptoms. The effect set in after 30 to 90 minutes and
-generally lasted 5 to 12 hours. Intermittent disturbances of affect
-might occasionally persist for several days. Ampoules stored protected
-against light in a cool place were stable for an unlimited period.
-
-## Two Primary Indications
-
-The prospectus listed two primary indications. First, analytical
-psychotherapy to elicit release of repressed material and provide mental
-relaxation, particularly in anxiety states and obsessional neuroses.
-The initial dose was 25 micrograms, increased at each treatment by 25
-micrograms until the optimum dose (usually between 50 and 200 micrograms)
-was found, with treatments best given at weekly intervals.
-
-Second, experimental studies on the nature of psychoses. By taking
-Delysid himself, the psychiatrist could gain insight into the world of
-ideas and sensations of mental patients. Delysid could also induce model
-psychoses of [[savory-short-duration-grazing-and-cell-systems]] in normal subjects. In normal subjects, 25
+After W. A. Stoll's groundbreaking 1947 studies demonstrated [[savory-short-duration-grazing-and-cell-systems]] in normal subjects. In normal subjects, 25
 to 75 micrograms were generally sufficient, while certain forms of
 psychosis and chronic alcoholism required higher doses (2 to 4
 micrograms per kg body weight).
@@ -82,19 +48,8 @@ therapy by drawing and painting.
 
 ## Psychedelic Therapy
 
-The second approach, favored in the [[dmt-containing-plants-united-states-halpern]], was psychedelic
-therapy. A single very high LSD dose (0.3 to 0.6 mg) was administered
-after intensive psychological preparation of the patients. This method
-attempted to induce a mystical-religious experience through the shock
-effects of LSD, which could then serve as a starting point for
-restructuring and curing the patient's personality in accompanying
-
-## See Also
-
-- [[hofmann-lsd-consciousness-and-philosophy]]
-- [[hofmann-lsd-remedy-to-inebriant-transition]]
+The second approach, favored in the [[hofmann-lsd-consciousness-and-philosophy]]
 - [[hofmann-mexican-mushroom-expedition-psilocybin]]
-- [[hofmann-mind-matter-forbidden-transgression]]
 - [[hofmann-mysticism-meditation-reality]]
 
 ## Practical Applications
@@ -126,8 +81,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[dmt]]
 - [[lsd]]
-- [[hofmann-ernst-junger-lsd-literary-dialogue]]
 - [[wasson-hofmann-psilocybin-connection]]
 - [[hofmann-lsd-animal-experiments-toxicity]]

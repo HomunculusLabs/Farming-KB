@@ -1,15 +1,13 @@
 ---
 title: Fukuoka Argument Against Pruning Trees Natural Growth
 source: administrator-microsoft-word-fukuoka-textdoc.md
-author: [[masanobu-fukuoka]]
+author: masanobu-fukuoka
 topics: [natural-farming, tree-care, pruning, fruit-trees, orchard-management]
 ---
 
 # Fukuoka's Argument Against Pruning: Trees Grow Best Without Human Intervention
 
-Masanobu Fukuoka's philosophy [[four-principles-of-natural-farming]] extended beyond annual
-crops to encompass a radical critique of tree pruning.
-He argued that [[comparison-pruning-fruit-trees-vs-grafting-fruit-trees]] is unnecessary, harmful, and rooted in
+Masanobu Fukuoka's philosophy [[comparison-pruning-fruit-trees-vs-grafting-fruit-trees]] is unnecessary, harmful, and rooted in
 a fundamental misunderstanding of how trees naturally grow.
 This position placed him in direct opposition to conventional orchard
 management, where systematic pruning is considered essential for fruit
@@ -92,23 +90,7 @@ difference lies in management practices, not inherent susceptibility.
 
 Fukuoka challenged the assumption that pruned trees produce better fruit.
 While he conceded that unpruned trees might produce smaller or less
-uniform fruit, he argued that [[coleman-winter-greens-nutritional-quality-cold-sweetening]] and flavor were
-superior.
-A tree growing in its natural form, without the stress of repeated
-pruning, produces fruit that is a more honest expression of the soil and
-climate in which it grows.
-
-He drew an analogy with wild berries and fruits, which are often smaller
-than their cultivated counterparts but more intensely flavored and
-nutritionally dense.
-The same principle applies to fruit from unpruned trees: the tree
-allocates its resources more naturally, producing fruit that may be
-smaller but is richer in sugars, minerals, and complex flavors.
-
-## The Experiment of Letting Trees Grow Free
-
-Fukuoka conducted experiments with unpruned orchards on his farm in
-Shikoku, establishing [[fukuoka-mandarin-orange-citrus]], peach, and plum trees on
+uniform fruit, he argued that [[fukuoka-mandarin-orange-citrus]], peach, and plum trees on
 hillsides and allowing them to grow without pruning.
 The results, he reported, were encouraging: the trees grew vigorously,
 produced fruit consistently, and suffered far less disease than pruned
@@ -135,6 +117,5 @@ and follow rather than to command and shape.
 
 ## See Also
 
-- [[fukuoka-bread-dough-analogy-tillage-soil-compaction]]
 - [[fukuoka-food-strategic-weapon-seed-rice-geopolitics]]
 - fukuoka natural farming orchard management

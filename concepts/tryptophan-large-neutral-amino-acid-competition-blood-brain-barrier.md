@@ -2,12 +2,11 @@
 
 ## Overview
 
-The transport of tryptophan across the blood-brain barrier (BBB) is governed by the
+The transport of [[tryptophan]] across the blood-brain barrier (BBB) is governed by the
 large neutral amino acid (LNAA) transporter system, also known as the L-type amino
 acid transporter 1 (LAT1). This competitive transport mechanism has profound
 implications for understanding how dietary factors, metabolic states, and
-pharmacological interventions influence brain [[serotonin]] synthesis, and by extension,
-the pharmacological effects of psychedelic [[tryptamine]] compounds. The principle that
+pharmacological interventions influence brain [[tryptamine]] compounds. The principle that
 tryptophan competes with other large neutral amino acids for a shared transport
 mechanism is one of the most well-established concepts in neurochemical pharmacology.
 
@@ -32,7 +31,7 @@ subunit. The heavy chain is required for proper trafficking of the LAT1 light ch
 to the plasma membrane and contributes to the substrate binding pocket. Genetic
 polymorphisms in both LAT1 and 4F2hc have been identified and may contribute to
 individual variation in amino acid transport efficiency, with potential implications
-for inter-individual differences in brain serotonin synthesis and psychedelic
+for inter-individual differences in brain [[serotonin]] synthesis and psychedelic
 response variability.
 
 ## Tryptophan and Serotonin Synthesis
@@ -65,8 +64,7 @@ potentially affecting both intensity and character of psychedelic experiences.
 
 Second, the LNAA competition principle underlies proposed mechanisms for the
 serotonergic effects of exercise and fasting — practices sometimes recommended in
-[[metzner-amplifier-microscope-metaphors-psychedelic-therapy]] preparation. Third, understanding this system provides context
-for the dietary recommendations often included in [[metzner-grof-perinatal-matrices-psychedelic-therapy]] preparation
+[[metzner-grof-perinatal-matrices-psychedelic-therapy]] preparation
 protocols, where some clinicians recommend reducing dietary protein intake in the
 days preceding a session to potentially increase the tryptophan-to-LNAA ratio.
 

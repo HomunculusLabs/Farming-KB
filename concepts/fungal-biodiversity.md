@@ -43,7 +43,7 @@ Fungi are essential to:
 - **Plant health** — as pathogens, mutualists, and endophytes
 - **Soil structure** — hyphal networks maintain soil aggregation
 
-Without fungi, major problems [[comparison-soil-protozoa-vs-nematodes-in-nutrient-cycling]] would occur, plants would suffer, woody materials would not break down, some insects could not digest plant materials, and even soil structures would differ.
+Without fungi, major problems in nutrient cycling would occur, plants would suffer, woody materials would not break down, some insects could not digest plant materials, and even soil structures would differ.
 
 ## Fungal Taxonomic Scope
 
@@ -59,7 +59,7 @@ Fungi and fungus-like organisms span **three kingdoms comprising 11 phyla:**
 | **Basidiomycota** | Basidiospores on basidia; mushrooms | Agaricus, Amanita, Russula, rusts, smuts |
 
 ### Clade Glomales (now Glomeromycota)
-- [[arbuscular-mycorrhizal-fungi]] (AMF)
+- Arbuscular mycorrhizal fungi (AMF)
 - Oblate root symbionts of most terrestrial plants
 - Produce glomalin (27-30% of soil carbon in colonized soils)
 - See [[fungal-symbiosis-types]]
@@ -83,13 +83,13 @@ Fungi and fungus-like organisms span **three kingdoms comprising 11 phyla:**
 
 ## Ecological Groups and Sampling Challenges
 
-Different fungal groups demand entirely different detection and [[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]]:
+Different fungal groups demand entirely different detection and identification methods:
 
 | Group | Challenge | Method |
 |---|---|---|
 | Macrofungi (mushrooms) | Fruiting bodies ephemeral (hours to days) | Timed field surveys, multiple visits |
 | Lichens | Perennial, always visible | Standardized plot surveys |
-| Soil microfungi | Most never fruit; only culturable | [[particle-filtration-dilution-plating-microfungal-isolation]], selective media |
+| Soil microfungi | Most never fruit; only culturable | Dilution plating, selective media |
 | Endophytes | Hidden inside plant tissues | Surface sterilization, tissue culture |
 | Aquatic fungi | Require water sampling | Baiting with seeds, direct microscopy |
 | Plant pathogens | Host-dependent, seasonal | Symptom surveys, isolation from lesions |
@@ -109,7 +109,7 @@ Different fungal groups demand entirely different detection and [[forensic-ident
 
 ### Host Specificity
 
-- [[biodiversity-powdery-mildews]]: ~400 species across 19-22 genera, 4.5% ratio to angiosperm species (9,838 host species documented by Hirata 1986)
+- Powdery mildews: ~400 species across 19-22 genera, 4.5% ratio to angiosperm species (9,838 host species documented by Hirata 1986)
 - Smuts: major pathogens of grasses; distribution follows host plant biogeography
 - Endophytes: estimated 80% of species in species-rich groups are widely distributed, leaving 20% with more limited distributions
 - Ectomycorrhizal fungi: 90% undescribed in some tropical surveys
@@ -124,7 +124,7 @@ Different fungal groups demand entirely different detection and [[forensic-ident
 
 ### Baseline Data Needs
 
-- European [[sampling-design-macrofungal-surveys]] show marked changes over 20-30 years: previously common species no longer encountered, others designated rare/endangered (Arnolds 1988, 1991; Pegler et al. 1993)
+- European macrofungal surveys show marked changes over 20-30 years: previously common species no longer encountered, others designated rare/endangered (Arnolds 1988, 1991; Pegler et al. 1993)
 - Without baseline data, these changes could not be detected
 - Fungal species composition is used as an **indicator of ecosystem health**
 
@@ -141,10 +141,10 @@ Different fungal groups demand entirely different detection and [[forensic-ident
 - Document fruiting patterns, host associations, and distribution changes
 - Essential for identifying newly collected specimens
 
-## Molecular Methods
+## See Also
 
-DNA-based approaches are revolutionizing fungal biodiversity studies:
-- Environmental DNA (eDNA) from soil/water samples reveals species never cultured
-- Metabarcoding can detect hundreds of species from single samples
-- Molecular phylogenetics has revealed that "fungi" are polyphyletic — their filamentous forms evolved independently multiple times
-- 88 contributing mycologists collaborated on the Biodiversity of Fungi volume
+- [[fungi-in-the-environment-fungal-ecosystems]]
+- [[fungal-amber-fossils]]
+- [[singh-fungal-pellet-formation-bioremediation]]
+- [[dark-septate-endophytes]]
+- [[fungal-pathogens-human-disease]]

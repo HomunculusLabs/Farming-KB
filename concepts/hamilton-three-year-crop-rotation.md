@@ -23,14 +23,9 @@ Divide your vegetable plot into three sections and group the crops you
 want to grow into three categories. Each year, prepare the plots as
 described and move each group to the next plot, so two years elapse
 before any crop returns to its original site. This period allows the
-[[holmgren-mineral-balance-soil-fertility]] of the soil to be maintained, reduces the risk of
-disease, and makes best use of [[hamilton-composting-and-organic-matter-management]].
+[[hamilton-composting-and-organic-matter-management]].
 
-The idea that [[growing-root-vegetables-guide]] will fork and split in manured soil is a
-myth. Provided you always use well-rotted manure, you will achieve far
-better results in soil that has been made water and nutrient-retentive.
-If using the [[hamilton-vegetable-planning-rotation]]
-- [[hamilton-organic-soil-management]]
+The idea that [[hamilton-vegetable-planning-rotation]]
 - [[hamilton-organic-pest-control]]
 ## Practical Applications
 
@@ -97,8 +92,6 @@ through generations to modern scientific approaches, the evolution continues
 to inform current best practices and research directions.
 
 ## See Also
-- [[geoff-hamilton]]
 - [[doc]]
-- [[det]]
 - [[composting]]
 - [[hamilton-crop-rotation-and-vegetable-planning]]

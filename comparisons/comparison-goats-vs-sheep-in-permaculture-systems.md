@@ -12,16 +12,7 @@ type: comparison
 
 ## Why This Comparison Matters
 
-Both goats and sheep are small ruminants well-suited to permaculture and homesteading, but they fill fundamentally different [[soil-health-and-management]] capacity. Choosing poorly leads to fencing failures, nutritional problems, or underutilized animals.
-
-## Side-by-Side Comparison
-
-| Feature | Goats | Sheep |
-|---------|-------|-------|
-| **Dietary preference** | Browsers (woody plants, shrubs, forbs) | Grazers (grasses, clovers, low forbs) |
-| **Forage height** | 2–5 ft preferred (will stand on hind legs) | Ground level to 6 inches |
-| **Fencing needs** | High — 48–60 in minimum; escape artists | Moderate — 32–40 in adequate |
-| **Shelter needs** | Must stay dry; pneumonia risk | More weather-tolerant; [[mollison-designers-wool-insulation-and-natural-textiles]] |
+Both goats and sheep are small ruminants well-suited to permaculture and homesteading, but they fill fundamentally different [[mollison-designers-wool-insulation-and-natural-textiles]] |
 | **Predator vulnerability** | High (no defensive flocking) | Moderate (strong flocking instinct) |
 | **Parasite susceptibility** | High — barber pole worm is primary threat | Moderate — similar parasites but more resistant |
 | **Reproductive rate** | 1–3 kids, 2× per year possible | 1–3 lambs, typically 1× per year |
@@ -65,29 +56,10 @@ This mineral incompatibility is the primary reason many experienced producers ke
 **Goats excel at:**
 - Clearing brush and invasive woody species (multiflora rose, autumn olive, kudzu, bittersweet)
 - Maintaining firebreaks and fuel breaks
-- Browsing under [[silvopasture]] trees without damaging roots
-- Controlling vegetation on steep, rocky terrain where mowing is impossible
-
-**Sheep excel at:**
-- [[comparison-rotational-grazing-vs-continuous-grazing]] to improve pasture quality
+- Browsing under [[comparison-rotational-grazing-vs-continuous-grazing]] to improve pasture quality
 - Controlling grass-dominated vegetation
 - Cycling nutrients through productive cropland
-- Easier integration into [[mollison-designers-market-garden-intensive-production-design]] rotations
-
-### Climate Adaptability
-
-Both species tolerate a wide range of climates, but with differences:
-- **Goats** handle heat better (especially Nubian, Boer), and tolerate cold if kept dry. They suffer in sustained wet, windy conditions.
-- **Sheep** handle cold extremely well (wool insulation) but can overheat in summer. Fine-wool breeds tolerate heat better than meat breeds.
-- **Both** require shade and water access in hot climates; shelter from wind and wet in cold climates.
-
-### Product Diversity
-
-Goats offer broader product diversity for a homesteader: milk (high volume, multiple dairy products), meat, fiber (two distinct types), and vegetation management services. Sheep produce excellent meat and premium wool, but sheep dairying is less common and requires specialized breeds and management.
-
-## Complementary Grazing Strategies
-
-Running goats and sheep together (in separate [[knf-soil-and-mineral-management]]) creates synergies:
+- Easier integration into [[knf-soil-and-mineral-management]]) creates synergies:
 
 1. **Sequential rotation**: Goats graze first, consuming browse and tall forbs. Sheep follow, grazing the grasses and clovers the goats left behind. Total forage utilization increases 20–40% compared to single-species grazing.
 2. **Parasite dilution**: Each species' parasites are host-specific. Grazing sheep after goats (or vice versa) "cleans" the pasture of the previous species' larvae, reducing reinfection rates for both.
@@ -126,9 +98,4 @@ Sheep have a lower barrier to entry, particularly in fencing costs. However, goa
 
 ## Summary
 
-Goats and sheep are complementary rather than competing species in [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]]. Goats are the **engineers** — they reshape vegetation structure, control invasives, and access forage that no other livestock can reach. Sheep are the **maintainers** — they improve and sustain productive grasslands with minimal infrastructure. The ideal permaculture livestock plan often includes both, managed in complementary rotations with separate mineral feeding systems. Start with the species that best matches your most pressing land management need, then add the other as your system matures.
-
-## See Also
-
-- permaculture
-- [[permaculture-design]]
+Goats and sheep are complementary rather than competing species in [[permaculture-design]]

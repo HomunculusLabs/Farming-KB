@@ -6,7 +6,7 @@ type: concept
 
 # Amanita Muscaria Physical Description and Field Identification
 
-*Amanita muscaria* is one of the most recognizable mushrooms on Earth, yet its
+*[[amanita-muscaria]]* is one of the most recognizable mushrooms on Earth, yet its
 physical characteristics are more varied than most people realize. Understanding
 its anatomy is essential for confident field identification.
 
@@ -42,7 +42,7 @@ The gills on the underside of the cap are critical for identification.
 - **Attachment:** The gills are **free** — **not attached to the stem**. A
   small gap exists between the innermost gill ends and the stem surface, an
   important feature distinguishing *Amanita* from genera with attached gills.
-- **Spore print:** A spore print reveals a **white spore print**, consistent
+- **[[spore-print]]:** A spore print reveals a **white spore print**, consistent
   across all *Amanita* species and a key diagnostic character for the genus.
 
 ## The "Single Eye"
@@ -64,17 +64,7 @@ ancient symbolic traditions.
   through thousands of years of cultural memory.
 - **Mythological connections:** The resemblance has been linked to the **Eye
   of Horus**, the **Eye of Providence**, and other eye symbols throughout world
-  mythology. In [[fly-agaric-siberian-shamanic-practice]] traditions, the fly agaric was considered a
-  visionary sacrament, and the "eye" imagery aligns with its reputation for
-  granting spiritual sight and prophetic visions.
-
-## Stem (Stipe)
-
-The stem supports the cap above ground and carries several important features.
-
-- **Height:** The visible stem ranges from **3 to 10 inches** (7.5–25 cm)
-  above ground. An additional **up to 2 inches** (5 cm) of stem tissue may
-  extend below ground level to the [[beber-mycelial-network-graph-theory-cord-routing]].
+  mythology. In [[beber-mycelial-network-graph-theory-cord-routing]].
 - **Width:** Typically 0.4 to 1.2 inches (1–3 cm) thick, tapering slightly
   upward from the bulbous base. White, smooth or finely fibrous.
 - **The annulus (ring/skirt):** On the **upper stem**, remnants of the
@@ -116,27 +106,7 @@ For rapid field identification, look for this combination of traits:
 - **Bulbous base with concentric rings** (volva) at or below ground level.
 - **Mycorrhizal habit** — grows in symbiotic association with **birch, pine,
   spruce**, and other trees.
-- **Habitat and range:** Found in **temperate and [[biodiversity-fungi-temperate-boreal-forests]] worldwide**
-  throughout the **Northern Hemisphere**, fruiting late summer through autumn.
-
-## Variation
-
-*A. muscaria* exhibits considerable morphological variation: color from pale
-**yellow-orange** to **deep blood red** (fading with age and sun exposure);
-size varying with age, location, soil, and moisture; wart pattern and density
-ranging from dense to sparse. **Subspecies and variants** recognized include
-*var. muscaria* (red Eurasian), *var. flavivolvata* (red North American),
-*var. formosa* (yellow-orange), *var. guessowii* (American yellow), and
-*var. alba* (rare white-capped form).
-
-## Toxicity Note
-
-- *A. muscaria* contains **ibotenic acid** and **muscimol** — psychoactive
-  compounds producing effects from nausea and disorientation to vivid
-  hallucinations. These substances are **potentially dangerous**, and adverse
-  reactions are common with fresh or improperly prepared material.
-- It is **NOT** one of the deadly *Amanita* species — *A. phalloides* (death
-  cap), *A. virosa* ([[bloomfield-destroying-angel-amanita-virosa-amatoxin-poisoning-clinical-course]]), and *A. verna* (fool's mushroom)
+- **Habitat and range:** Found in **temperate and [[bloomfield-destroying-angel-amanita-virosa-amatoxin-poisoning-clinical-course]]), and *A. verna* (fool's mushroom)
   contain amatoxins causing fatal organ failure. *A. muscaria* poisoning,
   while unpleasant, is rarely lethal in healthy adults.
 - **Proper preparation** — particularly **drying** at moderate heat — converts

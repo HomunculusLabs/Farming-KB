@@ -130,6 +130,13 @@ itself, not to clear or ruin any more land, but first to put in order
 what we have destroyed.
 
 ## See Also
-- [[bill-mollison-permaculture-a-designers-manual-pattern-understanding-in-permaculture]]
 - [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]]
 - [[bill-mollison-permaculture-a-designers-manual-wildfire-management-in-permaculture]]
+
+## See Also
+
+- [[mollison-designers-termite-and-ant-mound-niche-gardening]]
+- [[mollison-designers-contour-surveying-a-frame-bunyip-level]]
+- [[humus-soil-amendment-mollison]]
+- [[minamata-disease-mollison]]
+- [[mollison-drought-proofing-strategies]]

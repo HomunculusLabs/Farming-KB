@@ -108,13 +108,8 @@ The species is also being investigated as a source of natural antioxidants for f
 
 ## See Also
 
-- [[blechnum-spicant]]
 - [[blechnum-gibbum]]
-- [[dryopteris-filix-mas]]
 - [[polystichum-munitum]]
-- [[athyrium-filix-femina]]
 - [[woodwardia-fimbriata]]
-- [[polypodium-vulgare]]
 - [[matteuccia-struthiopteris]]
-- [[adiantum-pedatum]]
 - [[pteridium-aquilinum]]

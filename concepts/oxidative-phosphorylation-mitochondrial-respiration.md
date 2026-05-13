@@ -1,5 +1,5 @@
 ---
-title: Oxidative Phosphorylation and Mitochondrial Respiration
+title: Oxidative Phosphorylation and [[electron-transport-chain-mitochondrial-respiration]]
 type: concept
 aliases: [OXPHOS, oxidative phosphorylation, electron transport chain, ETC, ATP synthase, chemiosmotic theory, proton motive force, respiratory chain]
 tags: [biochemistry, cell-biology, metabolism, mitochondria, ATP, bioenergetics, respiration, electron-transport, enzymology]
@@ -10,7 +10,7 @@ sources:
   - "raw/papers/the-metabolic-pathway-of-psilocybin-production.md"
 ---
 
-Oxidative phosphorylation (OXPHOS) is the [[gluconeogenesis-biochemistry-metabolic-pathway]] in which cells produce [[adenosine-triphosphate-and-cellular-energy]] (ATP) through the coupled action of electron transport and ATP synthesis. It is the final stage of cellular respiration, occurring at the inner mitochondrial membrane (IMM) in eukaryotes and the cytoplasmic membrane in prokaryotes. OXPHOS is responsible for approximately 90% of cellular ATP under aerobic conditions, making it the dominant energy-producing pathway in most multicellular organisms. The pathway couples two processes: electron transfer through the electron transport chain (ETC), which oxidizes NADH and FADH₂ while reducing molecular oxygen to water, and ATP synthesis by ATP synthase, which harnesses the resulting proton electrochemical gradient. Peter Mitchell proposed the chemiosmotic coupling mechanism in 1961, earning the 1978 Nobel Prize in Chemistry.
+Oxidative phosphorylation (OXPHOS) is the [[adenosine-triphosphate-and-cellular-energy]] (ATP) through the coupled action of electron transport and ATP synthesis. It is the final stage of cellular respiration, occurring at the inner mitochondrial membrane (IMM) in eukaryotes and the cytoplasmic membrane in prokaryotes. OXPHOS is responsible for approximately 90% of cellular ATP under aerobic conditions, making it the dominant energy-producing pathway in most multicellular organisms. The pathway couples two processes: electron transfer through the electron transport chain (ETC), which oxidizes NADH and FADH₂ while reducing molecular oxygen to water, and ATP synthesis by ATP synthase, which harnesses the resulting proton electrochemical gradient. Peter Mitchell proposed the chemiosmotic coupling mechanism in 1961, earning the 1978 Nobel Prize in Chemistry.
 
 ## Electron Transport Chain Complexes
 
@@ -28,7 +28,7 @@ Complex III transfers electrons from ubiquinol to cytochrome c via the Q cycle, 
 
 ### Complex IV — Cytochrome c Oxidase (EC 7.1.1.9)
 
-Complex IV is the terminal oxidase, transferring electrons from cytochrome c to O₂, reducing it to H₂O. It pumps 2 protons and consumes 2 matrix protons per electron pair. The mammalian complex has 13 subunits (3 mtDNA-encoded: COX1–3) and ~204 kDa mass. Cofactors include heme a, heme a₃, and copper centers (Cu_A, Cu_B) forming a binuclear center. Cyanide and carbon monoxide bind this center with extreme affinity, explaining their acute toxicity.
+Complex IV is the terminal oxidase, transferring electrons from cytochrome c to O₂, reducing it to H₂O. It pumps 2 protons and consumes 2 matrix protons per electron pair. The mammalian complex has 13 subunits (3 mtDNA-encoded: COX1–3) and ~204 kDa mass. Cofactors include heme a, heme a₃, and copper centers (Cu_A, Cu_B) forming a binuclear center. Cyanide and carbon monoxide bind this center with extreme affinity, explaining their [[emcdda-hallucinogenic-mushroom-acute-toxicity-medical-management]].
 
 ### Complex V — ATP Synthase (F₁F₀-ATPase, EC 7.1.2.2)
 
@@ -48,11 +48,7 @@ Paul Boyer's binding change mechanism (1997 Nobel Prize, shared with John Walker
 
 ## Reactive Oxygen Species
 
-The ETC is the major cellular superoxide (O₂•⁻) source. Complex I produces it on the matrix side when the ubiquinone site is fully reduced (high Δψ). Complex III produces it at the Qo site, released to both sides. Superoxide dismutase (SOD1/SOD2) converts it to H₂O₂, which can form hydroxyl radical via [[bioremediation-fenton-chemistry-brown-rot-fungi]]. ROS contribute to aging (mitochondrial free radical theory, Harman 1956), neurodegeneration, cardiovascular disease, and cancer, but low-level ROS also serve as signaling molecules (redox signaling, HIF-1α stabilization, immune defense).
-
-## Uncoupling and Regulation
-
-ADP availability governs respiratory control: high ADP → State 3 (active); low ADP → State 4 (resting). Uncoupling proteins dissipate the PMF without ATP synthesis: UCP1 (thermogenin) in brown fat generates heat, activated by [[carbon-isotope-labelling-mycorrhizal-fatty-acids]], inhibited by GDP; UCP2 regulates ROS; UCP3 modulates fatty acid metabolism. Chemical uncouplers (2,4-DNP, FCCP) collapse the PMF by proton shuttling. DNP was used as a weight-loss drug but caused fatal hyperthermia.
+The ETC is the major cellular superoxide (O₂•⁻) source. Complex I produces it on the matrix side when the ubiquinone site is fully reduced (high Δψ). Complex III produces it at the Qo site, released to both sides. Superoxide dismutase (SOD1/SOD2) converts it to H₂O₂, which can form hydroxyl radical via [[carbon-isotope-labelling-mycorrhizal-fatty-acids]], inhibited by GDP; UCP2 regulates ROS; UCP3 modulates fatty acid metabolism. Chemical uncouplers (2,4-DNP, FCCP) collapse the PMF by proton shuttling. DNP was used as a weight-loss drug but caused fatal hyperthermia.
 
 ## ETC Inhibitors
 

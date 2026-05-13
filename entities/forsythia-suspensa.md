@@ -47,13 +47,7 @@ Forsythia suspensa is native to eastern Asia, with a natural range extending thr
 
 The species inhabits forest margins, rocky slopes, ravines, and stream banks at elevations of 200–1,500 meters. It prefers well-drained, loamy soils in partial shade to full sun but is adaptable to a range of site conditions.
 
-Naturalized populations exist in Europe and [[psilocybin-north-america-pacific-northwest]], primarily near garden plantings where the species has spread vegetatively. It is not considered invasive in most regions, though its vigorous spreading habit can be problematic in small landscapes.
-
-Climate requirements include cold winters for proper dormancy and flower bud development, with winter chilling requirements estimated at 500–1,000 hours below 7 °C. The species is cold-hardy to approximately −25 °C.
-
-Frost tolerance of open flowers is limited, and late spring freezes can damage the display. However, the early bloom period (typically 3–4 weeks before the last expected frost in most growing zones) means that some flower loss is expected in colder climates.
-
-Heat tolerance is excellent, with the species performing well in regions where summer temperatures regularly exceed 35 °C. [[dighton-fungal-drought-tolerance-plant-water-relations]] is moderate once established, though supplemental irrigation improves flowering performance during dry periods.
+Naturalized populations exist in Europe and [[dighton-fungal-drought-tolerance-plant-water-relations]] is moderate once established, though supplemental irrigation improves flowering performance during dry periods.
 
 ## Cultivation
 
@@ -63,7 +57,7 @@ Propagation is straightforward by softwood cuttings in early summer, hardwood cu
 
 Pruning should be performed immediately after flowering, as flower buds form on the previous season's growth. Removal of one-quarter to one-third of the oldest stems at ground level each year maintains vigor and prevents legginess.
 
-The species is essentially free of serious [[hamilton-pest-and-disease-control-organic]] problems. Occasional issues include [[cervantes-powdery-mildew-prevention-treatment]], crown gall, and leaf spot fungi, but these rarely require treatment in landscape settings.
+The species is essentially free of serious [[cervantes-powdery-mildew-prevention-treatment]], crown gall, and leaf spot fungi, but these rarely require treatment in landscape settings.
 
 ## Traditional Medicine and Pharmacology
 
@@ -75,15 +69,11 @@ Standard dosing in decoctions ranges from 6–15 g of dried fruit per day. Over-
 
 The primary pharmacological actions of Lian Qiao are clearing heat, resolving toxicity, and dispersing wind-heat. It is a component of several famous classical formulas, including *Yin Qiao San* (Honeysuckle and Forsythia Powder) for upper respiratory infections.
 
-Modern pharmacological studies have identified numerous [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]]. Phenylethanoid glycosides, including forsythiaside A and B, are major active constituents with demonstrated antibacterial, antiviral, and anti-inflammatory activities.
-
-Lignans, particularly phillyrin and pinoresinol, contribute antioxidant and hepatoprotective effects. Flavonoids including rutin and quercetin have been isolated from both the fruit and leaves.
-
-In vitro studies have shown F. suspensa extracts to be effective against Staphylococcus aureus, Streptococcus pyogenes, and influenza virus. [[mushroom-cancer-clinical-trials-overview]] support its use in reducing symptoms of acute upper respiratory tract infections, though large-scale randomized controlled trials remain limited.
+Modern pharmacological studies have identified numerous [[mushroom-cancer-clinical-trials-overview]] support its use in reducing symptoms of acute upper respiratory tract infections, though large-scale randomized controlled trials remain limited.
 
 Minimum inhibitory concentrations (MIC) of forsythiaside A against S. aureus range from 50–200 μg/mL depending on strain. Synergistic effects with antibiotics including penicillin and erythromycin have been demonstrated in vitro.
 
-The herb is commonly combined with *Lonicera japonica* (Jin Yin Hua) in Chinese antiviral formulations. This combination is supported by pharmacological evidence showing complementary antiviral and anti-inflammatory mechanisms.
+The herb is commonly combined with *[[lonicera-japonica]]* (Jin Yin Hua) in Chinese antiviral formulations. This combination is supported by pharmacological evidence showing complementary antiviral and anti-inflammatory mechanisms.
 
 ## Horticultural Uses
 

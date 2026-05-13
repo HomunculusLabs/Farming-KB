@@ -14,13 +14,7 @@ The central thesis of Allegro's book — encapsulated in its title — is that t
 
 ## The Cross as Mushroom Section
 
-Allegro argues that the simplest and most direct origin of the cross symbol is the mushroom seen in section. When an [[allegro-amanita-muscaria-properties-and-pharmacology]] is sliced vertically, the cross-section shows a clear cross-pattern: the vertical stem and the horizontal gill-structure beneath the cap. This natural cross, visible whenever a mushroom is cut for consumption or drying, became the model for the Christian cross.
-
-The Greek letter Tau (T), the simplest form of the cross, was known in the ancient world as the "sign of life." In the mushroom cult, it represented the stem of the fungus seen from the side — a vertical line with the cap as a horizontal bar at the top. The Chi (X), formed by two crossed lines, represents the mushroom's gills seen from above — the radiating pattern of the spore-bearing surface.
-
-## The Ankh: Egyptian Mushroom Cross
-
-The Egyptian ankh (☥), the hieroglyphic sign for "life," is, in Allegro's interpretation, a stylized mushroom. The loop at the top represents the mushroom's cap; the vertical line is the stem. The ankh was carried by the gods as a symbol of their power to give and sustain life — the power attributed to the [[allegro-the-sacred-mushroom-amanita-identification]].
+Allegro argues that the simplest and most direct origin of the cross symbol is the mushroom seen in section. When an [[allegro-the-sacred-mushroom-amanita-identification]].
 
 The Egyptian cult of Osiris, with its death-and-resurrection mythology, was, in Allegro's view, the Egyptian branch of the mushroom fertility cult. Osiris was dismembered and reassembled, like the mushroom that is cut, dried, and reconstituted. The ankh was the symbol of this process.
 
@@ -40,28 +34,8 @@ Constantine's famous vision — "In this sign conquer" (In hoc signo vinces) —
 
 The crucifixion of Jesus is not merely symbolized by the cross — it describes the mushroom's processing. Allegro reconstructs the likely method of Amanita preparation: the caps were strung on crossed sticks and dried in the sun. The mushroom "spread its arms" on the cross-like drying rack, just as Jesus was spread on the cross.
 
-The spear wound in Jesus' side (John 19:34), from which blood and water flow, parallels the mushroom's stem when cut — it exudes a milky fluid (the "water") tinged with the red of the cap (the "blood"). The vinegar offered to Jesus (Matt 27:34) may preserve a memory of the acidic liquid used in [[magic-mushroom-preparation-and-consumption-methods]].
-
-## The Tau Cross and the Old Testament
-
-The prophet Ezekiel is told to mark the foreheads of the faithful with a Tau (Ezek 9:4): "Go through the city, through Jerusalem, and put a mark upon the foreheads of the men who sigh and groan over all the abominations that are committed in it." The Tau-mark is the mushroom sign — those marked are initiates of the mushroom cult.
-
-## Cross Cultural Parallels
-
-The cross-mushroom connection appears across many cultures: the Norse world-tree Yggdrasil (with its fungal associations), the Maya world-tree (with the ceiba tree's fungal symbionts), the Buddhist stupa (mushroom-shaped monument), and the Islamic dome (derived from the mushroom cap). The universality of the cross symbol is, Allegro argues, best explained by its origin in the most universally significant natural object: the mushroom.
-
-## Scholarly Significance and Criticism
-
-Allegro's interpretation of [[allegro-death-and-resurrection-in-the-mushroom-cult]] mythology as mushroom-derived remains one of the most contested aspects of [[allegro-philological-methodology]] underlying these claims has been heavily criticized by mainstream scholars
-
-## See Also
-
-- [[allegro-philological-methodology]]
-- [[allegro-fungal-iconography-in-ancient-art]]
-- controversy-sacred-mushroom-theory
-- [[sacred-mushroom-and-the-cross]], which proposed that the major religions of the [[allegro-fertility-philosophy-of-the-ancient-near-east]] East and Mediterranean world were ultimately derived from a proto-historical mushroom cult. While this thesis has not gained acceptance in mainstream scholarship, it continues to be discussed in the field of entheogenic studies and has influenced contemporary debates about the role of psychoactive substances in the development of religious ideas.
-
-The question of whether ancient peoples used psychoactive mushrooms in religious contexts is separate from the question of whether Allegro's specific philological claims are correct. Archaeological evidence for psychoactive plant use in antiquity has grown substantially since Allegro's work was published, and the [[psychedelic-therapy-current-research]], has renewed interest in the historical relationship between psychoactive substances and religious experience. While Allegro's specific claims about Sumerian and Hebrew philology remain controversial, his broader argument that psychoactive plants played a significant role in the development of human religious consciousness has found new support from researchers investigating the neuroscience of mystical experience and the anthropology of shamanism.
+The spear wound in Jesus' side (John 19:34), from which blood and water flow, parallels the mushroom's stem when cut — it exudes a milky fluid (the "water") tinged with the red of the cap (the "blood"). The vinegar offered to Jesus (Matt 27:34) may preserve a memory of the acidic liquid used in [[allegro-death-and-resurrection-in-the-mushroom-cult]] mythology as mushroom-derived remains one of the most contested aspects of [[allegro-philological-methodology]]
+- [[sacred-mushroom-and-the-cross]], which proposed that the major religions of the [[psychedelic-therapy-current-research]], has renewed interest in the historical relationship between psychoactive substances and religious experience. While Allegro's specific claims about Sumerian and Hebrew philology remain controversial, his broader argument that psychoactive plants played a significant role in the development of human religious consciousness has found new support from researchers investigating the neuroscience of mystical experience and the anthropology of shamanism.
 ## Practical Considerations
 
 Successful implementation of The Cross and Mushroom Symbolism (Allegro) requires attention to
@@ -110,8 +84,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[dom]]
 - [[det]]
-- [[shamanism]]
 - [[spore]]
 - [[mystical-experience]]

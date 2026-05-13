@@ -26,7 +26,6 @@ NAD-dependent alcohol and aldehyde dehydrogenases. The initial attack
 occurs at the terminal methyl group by alkane monoxygenase, involving
 insertion of molecular oxygen and an electron transfer system that
 combines singh-fungal-petroleum-hydrocarbon-metabolism
-- [[singh-fungal-oxidation-petroleum-enzymes]]
 - [[white-rot-fungi-in-pesticide-and-btex-bioremediation]]
 ## Practical Applications
 
@@ -87,3 +86,9 @@ outcomes creates a valuable knowledge base that supports progressively
 better results with each iteration of practice and experimentation.
 
 ## Integration and Future Development
+
+## See Also
+
+- [[singh-fungal-biosurfactants-pollutant-removal]]
+- [[singh-fungal-community-analysis-molecular-methods]]
+- [[singh-fungal-nanoparticles-remediation]]

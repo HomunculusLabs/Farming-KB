@@ -19,65 +19,7 @@ created: 2026-04-28
 
 ## Overview
 
-Hypsizygus tessellatus, commonly known as buna-shimeji or brown beech mushroom, is an edible agaric fungus in the family Lyophyllaceae. It is one of the most commercially important [[fungi-cultivated-mushrooms-pathogens-competitors]] in East Asia, prized for its firm texture, nutty flavor, and extended shelf life compared to other cultivated species.
-
-The species is closely related to Hypsizygus marmoreus (hon-shimeji), and the two are sometimes treated as conspecific. H. tessellatus is distinguished by its larger cap size, brown cap coloration with white margin, and more robust stipe. Global commercial production exceeds 200,000 metric tons annually, with Japan, China, and Korea as primary producers.
-
-The name "shimeji" derives from Japanese "shimeji" (占地), historically referring to several Tricholomataceae mushrooms. True shimeji refers specifically to species of Hypsizygus, while the common button mushroom sold as "shimeji" in some Western markets is actually a Hon-shimeji (H. marmoreus) or, incorrectly, a species of Pleurotus.
-
-## Taxonomy
-
-Kingdom: Fungi
-
-Division: Basidiomycota
-
-Class: Agaricomycetes
-
-Order: Agaricales
-
-Family: Lyophyllaceae
-
-Genus: Hypsizygus
-
-Species: H. tessellatus (Bull.) Singer
-
-The species was originally described as Agaricus tessellatus by Jean Bulliard in the late 18th century. Rolf Singer transferred it to Hypsizygus in 1947. Some authorities still recognize H. ulmarius as a separate European species, while others treat it as synonymous with H. tessellatus.
-
-Molecular phylogenetic studies using ITS rDNA sequences have confirmed the placement of H. tessellatus within the Lyophyllaceae, closely related to Lyophyllum and Calocybe. The genus name derives from Greek "hypsos" (height) and "zygos" (yoke), referring to the elevated attachment of the gills.
-
-## Morphology
-
-The cap ranges from 3 to 10 cm in diameter, convex to plane with age. Surface is smooth and distinctly tessellated (net-patterned) when dry, with color varying from light brown to tan. The cap margin is inrolled when young, often retaining a white fringe.
-
-Gills are adnate to slightly decurrent, crowded, and white to cream colored. The stipe is 3 to 7 cm long and 0.5 to 1.5 cm thick, central, firm, and white. A partial veil is present in young specimens, leaving a transient annular zone on the upper stipe that often disappears with maturity.
-
-Spore print is white. Basidiospores are ellipsoid, 5 to 7 by 3 to 4.5 µm, smooth, and inamyloid. Cheilocystidia are cylindrical to clavate, 20 to 40 µm in length. The pileipellis is a cutis composed of repent hyphae 3 to 6 µm wide, with scattered clamp connections.
-
-Flesh is white, firm, and thick, with a pleasant mild odor.
-
-The context does not change color when cut or bruised, distinguishing it from some lookalike species in the Tricholomataceae that exhibit blueing or reddening reactions.
-
-## Distribution and Habitat
-
-H. tessellatus is native to temperate and boreal forests of East Asia, particularly Japan, Korea, and northeastern China. It has also been reported from Europe and North America, where it fruits on dead or dying hardwood trees, especially beech (Fagus spp.) and oak (Quercus spp.).
-
-In the wild, the species is a white-rot decomposer found in autumn and early winter. It colonizes standing dead trees and fallen logs, forming clusters of fruiting bodies at branch junctions and wound sites. Wild populations are increasingly rare due to habitat loss and overharvesting.
-
-European collections historically referred to as H. ulmarius (elm oyster) have been reclassified as H. tessellatus based on molecular phylogenetic analyses. These European populations primarily colonize elm (Ulmus spp.) and ash (Fraxinus spp.) in riparian habitats.
-
-The species shows moderate thermotolerance, fruiting at temperatures from 5 to 20°C.
-
-This broad temperature range allows it to occupy diverse ecological niches across its distribution, from lowland river valleys to montane mixed forests at elevations up to 1500 meters.
-
-## Cultivation
-
-Commercial cultivation of H. tessellatus typically uses [[oyster-mushroom-supplemented-sawdust-blocks]] substrate in bottles or bags. The standard [[pf-tek-measurement-calibration-and-substrate-formula-precision]] combines hardwood sawdust (oak or beech) with rice bran at a 3:1 ratio and 60 to 65 percent moisture content.
-
-Spawn run proceeds at 20 to 25°C for 20 to 30 days. [[growing-gourmet-primordia-formation-pinning]] is induced by lowering temperature to 12 to 15°C, maintaining 90 to 95 percent relative humidity, and providing 200 to 500 lux of light. Fruitbody development takes 7 to 14 days, with total [[stamets-biological-efficiency-yield]] ranging from 80 to 120 percent.
-
-CO2 concentration during fruiting must be maintained below 1000 ppm, as elevated levels cause stipe elongation and reduced cap expansion. Ventilation rate is a critical parameter, typically set at 5 to 10 air changes per hour in commercial growing rooms. Pinning density is controlled through scraping or mechanical shock to the substrate surface.
-
-The mushroom is commercially attractive due to its long shelf life of 14 to 21 days at 4°C, significantly exceeding that of [[flammulina-velutipes]] (10 to 14 days).
+Hypsizygus tessellatus, commonly known as buna-shimeji or brown beech mushroom, is an edible agaric fungus in the family Lyophyllaceae. It is one of the most commercially important [[oyster-mushroom-supplemented-sawdust-blocks]] substrate in bottles or bags. The standard [[growing-gourmet-primordia-formation-pinning]] is induced by lowering temperature to 12 to 15°C, maintaining 90 to 95 percent relative humidity, and providing 200 to 500 lux of light. Fruitbody development takes 7 to 14 days, with total [[flammulina-velutipes]] (10 to 14 days).
 
 This extended post-harvest viability makes it a premium product in fresh markets.
 
@@ -88,3 +30,88 @@ H. tessellatus produces several bioactive metabolites with documented health pro
 The mushroom contains notable amounts of ergothioneine (1.2 to 2.8 mg/g dry weight), a potent antioxidant amino acid. It also produces hypsin, a serine protease with antifungal properties, and several ribonucleases with reported antitumor activity in cell line studies. Extracts have shown hepatoprotective effects in rodent models of carbon tetrachloride-induced liver injury.
 
 Total phenolic content ranges from 2.5 to 4.0 mg GAE/g dry weight, with moderate DPPH radical scavenging activity. The fatty acid profile is dominated by linoleic acid (C18:2), comprising approximately 55 percent of total fatty acids.
+
+## Overview
+
+Hypsizygus Tessellatus represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish hypsizygus tessellatus
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving hypsizygus extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Hypsizygus Tessellatus finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for hypsizygus tessellatus. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+hypsizygus tessellatus and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Hypsizygus Tessellatus has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of hypsizygus tessellatus into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[growing-gourmet-buna-shimeji-hypsizygus-cultivation]]
+- [[growing-gourmet-elm-oyster-hypsizygus-ulmarius]]
+- [[hypsizygus-marmoreus]]
+- [[hypsizygus-tessulatus]]
+- [[hypsizygus-ulmarius]]

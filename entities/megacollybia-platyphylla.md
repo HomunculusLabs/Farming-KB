@@ -26,7 +26,7 @@ Megacollybia platyphylla is widely distributed across temperate forests of the N
 
 Its edibility is disputed, with some sources listing it as edible and others cautioning against consumption. Most contemporary guides classify it as inedible or of poor quality.
 
-The species is occasionally confused with edible species of [[pluteus-cervinus]] and [[entoloma-abortivum]], which share similar habitats on decaying wood. Careful attention to gill spacing and the presence of rhizomorphs distinguishes it.
+The species is occasionally confused with edible species of [[entoloma-abortivum]], which share similar habitats on decaying wood. Careful attention to gill spacing and the presence of rhizomorphs distinguishes it.
 
 ## Taxonomy and Morphology
 
@@ -34,39 +34,7 @@ The species was originally described as Agaricus platyphyllus by Christian Hendr
 
 The genus Megacollybia is monotypic, containing only this single species. Molecular phylogenetics has confirmed its distinct status from Tricholomopsis and other related genera.
 
-Phylogenetic analysis places Megacollybia in the marasmioid clade of the Tricholomataceae. Despite its collybioid appearance, it is more closely related to [[marasmius-oreades]] than to true Collybia species.
-
-The cap measures 5–15 cm in diameter, broadly convex to nearly flat at maturity. The surface is dry, smooth to slightly fibrillose, and ranges from gray-brown to dark brown.
-
-The cap margin is often enrolled in young specimens, becoming uplifted and wavy with age. The flesh is white, firm, and has no distinctive odor.
-
-The cap surface can develop fine radial fibrils in dry weather. In wet conditions, the surface may appear slightly lubricated but is never truly viscid.
-
-Gills are broadly adnate to slightly sinuate, widely spaced, and white to cream-colored. Short gills are present in several tiers between the full-length lamellae.
-
-The stipe is 5–12 cm long by 1–2.5 cm thick, centrally attached, and whitish to pale gray. The base characteristically bears conspicuous white rhizomorphs that extend into the substrate.
-
-Spores are smooth, broadly ellipsoid, and measure 7–10 × 5–7 μm. The spore print is white.
-
-Cheilocystidia are present on the gill edges, irregularly cylindrical to clavate in shape. They are thin-walled and measure 30–60 × 5–12 μm.
-
-The pileipellis is a cutis composed of radially arranged hyphae 5–15 μm wide. Clamp connections are absent in all tissues, a useful diagnostic feature.
-
-## Distribution and Habitat
-
-Megacollybia platyphylla is found across temperate Europe, Asia, and North America. It is particularly common in the deciduous forests of eastern North America.
-
-The species fruits from late spring through early autumn, with peak production in summer. It is one of the first large agarics to appear as the weather warms.
-
-In the Pacific Northwest, it is found in mixed conifer-hardwood forests. Populations in the Appalachian Mountains are particularly abundant in cove forests with rich fungal diversity.
-
-It grows singly or in small clusters on well-decayed hardwood logs and stumps. Oak, beech, and maple are the most common substrate trees.
-
-It has also been recorded on conifer wood, though this is less common. The species seems to prefer wood that has undergone several years of decomposition.
-
-The white rhizomorphs extend meters into the surrounding wood and soil. These rhizomorphs can sometimes be traced from the stipe base to buried wood.
-
-The rhizomorphs are tough, cord-like structures composed of bundles of parallel hyphae. They are distinctly white and contrast with the darker rhizomorphs of [[armillaria-tabescens]].
+Phylogenetic analysis places Megacollybia in the marasmioid clade of the Tricholomataceae. Despite its collybioid appearance, it is more closely related to [[armillaria-tabescens]].
 
 The species occasionally appears terrestrial when growing from buried roots or buried wood. In such cases, the rhizomorphs provide the crucial identification clue.
 
@@ -94,27 +62,87 @@ Megacollybia platyphylla is a white-rot decomposer that breaks down the cellulos
 
 The species contributes to the degradation of coarse woody debris in mature forests. This activity is essential for nutrient cycling and soil formation.
 
-As a saprobe, it plays a different ecological role from the [[amanita-muscaria]] and other mycorrhizal species that share its habitat. Together, saprotrophs and mutualists form the functional backbone of forest soil biology.
-
-Fruiting bodies serve as habitat and food for various invertebrates. Fungus gnat larvae are frequently found within the gills.
-
-Slugs and certain beetle species also feed on the fruiting bodies during wet periods. These interactions contribute to spore dispersal and the broader woodland food web.
-
-The rhizomorphs of Megacollybia platyphylla can form extensive underground networks connecting multiple pieces of dead wood. These networks represent a significant biological infrastructure for nutrient transport.
-
-Research has shown that the rhizomorphs can persist for years, even when no fruiting bodies are produced. The mycelial network remains active within the wood substrate between fruiting seasons.
-
-## See Also
-
-- [[pleurotus-ostreatus]]
-- [[trametes-gibbosa]]
+As a saprobe, it plays a different ecological role from the [[pleurotus-ostreatus]]
 - [[armillaria-tabescens]]
-- [[mycorrhizae]]
 - [[schizophyllum-commune]]
-- [[permaculture]]
 - [[laetiporus-sulphureus]]
-- [[grifola-frondosa]]
 - [[coprinellus-micaceus]]
-- [[coprinus-comatus]]
 - [[ganoderma-applanatum]]
 - [[stropharia-aeruginosa]]
+
+## Overview
+
+Megacollybia Platyphylla represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish megacollybia platyphylla
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving megacollybia extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Megacollybia Platyphylla finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for megacollybia platyphylla. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+megacollybia platyphylla and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Megacollybia Platyphylla has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of megacollybia platyphylla into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.

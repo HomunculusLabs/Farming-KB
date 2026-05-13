@@ -10,26 +10,9 @@ sources:
 
 Updated: 2026-04-18
 
-Source: The [[green-cannabis-grow-bible-breeding-genetics-and-true-breeding]] Bible, [[greg-green]] (Ch. 5, 6)
+Source: The [[greg-green]] (Ch. 5, 6)
 
-Transplanting — moving a plant from a smaller container to a larger one — is a critical skill. Done properly, it promotes explosive [[soil-moisture-management-and-root-growth]]. Done poorly, it can stunt or kill the plant.
-
-## Why Transplant
-
-- **Roots need room to grow**: As plants get larger, their root systems need more space to expand. A root-bound plant stops growing.
-- **Better nutrient access**: More soil volume means more nutrients available to the plant
-- **More stable moisture**: Larger soil volumes hold water longer, reducing watering frequency
-- **Improved oxygen**: Fresh soil provides better aeration than compacted, old soil
-
-## When to Transplant
-
-### Signs It Is Time
-
-1. **Roots visible through drainage holes**: Roots poking out the bottom of the container
-2. **Roots circling the surface**: You can see roots growing along the top of the soil
-3. **Rapid drying**: The container dries out much faster than it used to
-4. **Slowed growth**: Despite good conditions, growth has stalled
-5. **Plant size vs [[query-how-to-choose-the-right-pot-size-for-cannabis]]**: The plant is clearly too large for its current container (e.g., plant is 2 feet tall in a 1-gallon pot)
+Transplanting — moving a plant from a smaller container to a larger one — is a critical skill. Done properly, it promotes explosive [[query-how-to-choose-the-right-pot-size-for-cannabis]]**: The plant is clearly too large for its current container (e.g., plant is 2 feet tall in a 1-gallon pot)
 
 ### When NOT to Transplant
 
@@ -117,8 +100,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[cannabis-guerrilla-growing-guide]]
 - [[cannabis-pruning-and-defoliation-guide]]
-- [[cannabis-nutrient-deficiency-and-toxicity-guide]]
 - [[cannabis-disease-guide]]
 - [[cannabis-sea-of-green-sog-guide]]

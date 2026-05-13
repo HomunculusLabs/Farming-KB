@@ -37,41 +37,19 @@ Galeopsis tetrahit was described by Linnaeus in 1753. The genus name derives fro
 
 The species is an annual growing 20–80 cm tall with an erect, branched stem that is square in cross-section and covered in bristly hairs. The stems are green to purplish, with retrorse (backward-pointing) hairs along the angles.
 
-Leaves are opposite, ovate to lanceolate, 3–8 cm long and 1–4 cm wide, with serrate margins. The leaf surface is rough to the touch due to a dense covering of stiff hairs, a feature that distinguishes it from the smoother-leaved [[lamium-purpureum]].
-
-Flowers are borne in axillary whorls forming a leafy raceme. The corolla is 12–20 mm long, two-lipped, with a yellow to pale yellow upper lip and a three-lobed lower lip that is typically purplish-brown with white or yellow markings.
-
-The calyx is strongly veined with five long, sharp teeth that exceed the tube in length. These persistent calyx teeth give the inflorescence a bristly, distinctive appearance even after flowering.
-
-Each flower produces four nutlets (mericarps) approximately 2–3 mm long, dark brown, smooth, and pointed at the apex. Flowering occurs from July to September, with seed maturation continuing into autumn.
-
-Seed dormancy is variable, with a proportion of seeds germinating immediately and others remaining viable in the soil seed bank for several years. This persistent seed bank contributes to the species' resilience as an agricultural weed.
-
-## Distribution and Habitat
-
-Galeopsis tetrahit is native to most of Europe, from Scandinavia and the British Isles south to the Mediterranean, and eastward through central Russia to western Siberia. It has been introduced to [[guzman-psilocybin-mushrooms-north-america]], where it occurs as a casual or naturalized weed.
+Leaves are opposite, ovate to lanceolate, 3–8 cm long and 1–4 cm wide, with serrate margins. The leaf surface is rough to the touch due to a dense covering of stiff hairs, a feature that distinguishes it from the smoother-leaved [[guzman-psilocybin-mushrooms-north-america]], where it occurs as a casual or naturalized weed.
 
 The species is primarily associated with arable land, particularly cereal fields, where it was historically one of the most common segetal weeds. It also colonizes disturbed sites including road verges, construction sites, waste ground, and garden margins.
 
 It prefers nutrient-rich, loamy or clay soils and tolerates both acidic and calcareous conditions. Full sun is typical, though it can persist in partial shade at woodland edges.
 
-Intensive [[mycorrhizal-agricultural-practices]] including herbicide use and clean seed certification have significantly reduced the abundance of G. tetrahit in European croplands since the mid-twentieth century. It remains common in [[coleman-deep-organic-farming]] systems and non-cultivated disturbed habitats.
+Intensive [[coleman-deep-organic-farming]] systems and non-cultivated disturbed habitats.
 
 The species is listed in several European weed atlases as a declining arable weed species. Conservation-oriented farming organizations have promoted its retention in field margins as a component of farmland biodiversity.
 
 ## Bioactive Compounds
 
-Galeopsis tetrahit produces a range of [[antifungal-secondary-metabolites-coprophilous-fungi]] including iridoid glycosides, phenylpropanoid glycosides, flavonoids, and terpenoids. The phytochemistry of the genus Galeopsis is distinctive within the Lamiaceae.
-
-Iridoid glycosides are the most characteristic compound class. Major iridoids include harpagide, 8-O-acetylharpagide, antirrinoside, and globularifolin. These bitter-tasting compounds contribute to the traditional medicinal use of the herb.
-
-Phenylpropanoid glycosides including verbascoside (acteoside) are present in significant quantities. Verbascoside contributes to the antioxidant and anti-inflammatory profile of the extracts.
-
-Flavonoids include apigenin, luteolin, and their glycosides, with apigenin-7-O-glucoside as a major constituent. Quercetin derivatives are also present in moderate amounts.
-
-The species accumulates silicic acid in its tissues, an unusual feature among Lamiaceae. This may contribute to the traditional use as a wound-healing herb, as silicic acid is involved in connective tissue formation.
-
-[[permaculture-designers-manual-essential-oil-plants]] content is negligible in most populations, though trace amounts of sesquiterpenes have been detected. The primary bioactive compounds are non-volatile, water-soluble glycosides rather than terpene-based [[comparison-essential-oils-vs-neem-oil-vs-insecticidal-soap]].
+Galeopsis tetrahit produces a range of [[permaculture-designers-manual-essential-oil-plants]] content is negligible in most populations, though trace amounts of sesquiterpenes have been detected. The primary bioactive compounds are non-volatile, water-soluble glycosides rather than terpene-based [[comparison-essential-oils-vs-neem-oil-vs-insecticidal-soap]].
 
 ## Pharmacology and Traditional Medicine
 
@@ -88,3 +66,80 @@ The European Medicines Agency HMPC has recognized the traditional use of Galeops
 The herb has no known significant toxicity at traditional doses. It is not recommended for internal use during pregnancy due to insufficient safety data, though topical application is considered safe.
 
 In Scandinavian folk tradition, the herb was used as a tea for respiratory complaints including cough and bronchitis. The iridoid content provides expectorant properties consistent with this traditional application.
+
+## Overview
+
+Galeopsis Tetrahit represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish galeopsis tetrahit
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving galeopsis extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Galeopsis Tetrahit finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for galeopsis tetrahit. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+galeopsis tetrahit and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Galeopsis Tetrahit has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of galeopsis tetrahit into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.

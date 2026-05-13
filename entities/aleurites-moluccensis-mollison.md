@@ -66,7 +66,6 @@ The kukui-taro terrace system represents a sophisticated form of integrated fung
 
 ## Cultivation Notes
 
-
 - Prefers wet tropical to sub-tropical climates with rainfall above 150 cm annually.
 - Tolerates a range of soil types from volcanic to coral-derived soils.
 - Fast-growing in suitable conditions, reaching productive size within 5-7 years.
@@ -76,13 +75,17 @@ The kukui-taro terrace system represents a sophisticated form of integrated fung
 
 ## Source Reference
 
-
 Bill Mollison, *Permaculture: A Designers' Manual* (Tagari Publications, 1988), Chapter 10: The Humid Tropics, Section on Sources of Humus for Tropical Soils, p. 255.
-
 
 ## See Also
 
-
-- [[nitrogen-fixing-trees-and-shrubs]]
 - [[permaculture-plants-comfrey-chop-and-drop]]
 - [[soil-ph]]
+
+## See Also
+
+- [[mollison-designers-termite-and-ant-mound-niche-gardening]]
+- [[mollison-designers-contour-surveying-a-frame-bunyip-level]]
+- [[humus-soil-amendment-mollison]]
+- [[minamata-disease-mollison]]
+- [[mollison-drought-proofing-strategies]]

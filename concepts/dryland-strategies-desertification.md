@@ -4,19 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Dryland Strategies and Desertification
-
-## Overview
-
-Desertification is arguably the world's most pressing landscape management problem. It is the process by which productive land degrades into desert, reducing biological productivity and undermining the livelihoods of billions of people. Permaculture approaches dryland systems not as inherently barren wastelands but as complex ecosystems with their own logic, and seeks strategies to halt and reverse desertification through thoughtful design intervention.
-
-## The Desertification Crisis
-
-Desertification is driven primarily by human activity rather than natural climatic cycles alone. The three principal human-caused factors are:
-
-- **Deforestation**: Removal of tree cover eliminates the shade, windbreak, and soil-stabilizing functions that forests provide. Without tree roots to anchor soil and cycle water, exposed earth becomes vulnerable to erosion and rapid drying.
-- **Soil Erosion**: Overgrazing, inappropriate tillage, and the loss of vegetative cover accelerate the loss of topsoil. In drylands where soil formation is inherently slow, this loss is effectively irreversible on human timescales.
-- **Salting of Waters and Soils**: Poor irrigation practices and the clearing of deep-rooted vegetation cause water tables to rise, bringing dissolved salts to the surface. Evaporation concentrates these salts, rendering soil toxic to most plant life. This salinization is one of the most insidious forms of land degradation.
+# [[dryland-salting-strategies|Salting]] of Waters and Soils**: Poor irrigation practices and the clearing of deep-rooted vegetation cause water tables to rise, bringing dissolved salts to the surface. Evaporation concentrates these salts, rendering soil toxic to most plant life. This salinization is one of the most insidious forms of land degradation.
 
 Together, these forces convert productive drylands into expanding deserts. The process is often slow enough to escape notice until the damage is severe, yet fast enough to affect human generations. Satellite data confirms that desert margins worldwide are advancing, driven by the compounding effects of deforestation, overgrazing, and inappropriate agricultural practices. Once a threshold of degradation is crossed, natural recovery becomes extremely difficult without active intervention.
 
@@ -148,11 +136,10 @@ This is not a rapid process, but it is a proven one. Every tree planted in a dry
 - Work with endorheic hydrology rather than against it
 - Use exotic river water to establish permanent tree systems, not annual crops
 
-## Key References
-
-- Bill Mollison, *Permaculture: A Designer's Manual*, Chapter on Dryland Strategies
 ## See Also
 
-- [[dryland-strategies-and-desert-ecology]]
-- [[desert-gardening]]
+- [[bill-mollison-permaculture-a-designers-manual-dryland-strategies-and-desert-agriculture]]
+- [[mollison-designers-dryland-garden-and-oasis-design]]
+- [[dryland-building-settlements]]
 - [[dryland-soils-and-mineral-nutrition]]
+- [[dryland-salting-causes-and-cautious-approaches]]

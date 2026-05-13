@@ -48,17 +48,9 @@ Reproduction occurs through zoospore release or binary fission. Zoospores posses
 
 The species produces DHA via a polyketide synthase (PKS) pathway rather than the conventional fatty acid desaturase-elongase pathway used by most eukaryotes. This PKS system enables very high DHA flux and yields.
 
-Total protein content ranges from 15–25% of dry weight. Carbohydrates, primarily as storage glucans, constitute 10–15%. Squalene, a valuable triterpenoid, is produced as a [[fungal-elicitors-enhanced-secondary-metabolite-production]] at 0.1–1% of dry weight.
+Total protein content ranges from 15–25% of dry weight. Carbohydrates, primarily as storage glucans, constitute 10–15%. Squalene, a valuable triterpenoid, is produced as a [[dighton-fungal-dissolved-organic-carbon-production]] for growth. It cannot grow photoautotrophically, which distinguishes it fundamentally from algal DHA producers like *Nannochloropsis*.
 
-The fatty acid profile is dominated by DHA (22:6n-3), docosapentaenoic acid (22:5n-6), and palmitic acid (16:0). This distinctive profile differs markedly from fish oil, which contains both DHA and EPA.
-
-## Cultivation
-
-*S. limacinum* is an obligate heterotroph, requiring [[dighton-fungal-dissolved-organic-carbon-production]] for growth. It cannot grow photoautotrophically, which distinguishes it fundamentally from algal DHA producers like *Nannochloropsis*.
-
-Industrial cultivation uses fed-batch fermentation in stirred-tank bioreactors ranging from 500 L to 500,000 L. Glucose or corn syrup serves as the primary carbon source, supplemented with nitrogen ([[marmite-yeast-extract-straw-substrate]], corn steep liquor) and marine salts.
-
-Optimal growth temperature is 25–30°C with pH maintained at 6.0–7.0. [[aact-dissolved-oxygen-fine-bubble-aeration-ingham]] must be maintained above 20% saturation to support aerobic metabolism and maximize DHA synthesis.
+Industrial cultivation uses fed-batch fermentation in stirred-tank bioreactors ranging from 500 L to 500,000 L. Glucose or corn syrup serves as the primary carbon source, supplemented with nitrogen ([[aact-dissolved-oxygen-fine-bubble-aeration-ingham]] must be maintained above 20% saturation to support aerobic metabolism and maximize DHA synthesis.
 
 Fermentation runs typically last 48–96 hours, reaching biomass densities of 50–200 g/L dry weight.
 

@@ -8,48 +8,7 @@ type: concept
 
 ## Overview
 
-In John M. Allegro's philological analysis of the New Testament, John the Baptist is understood as a literary epithet for the red-capped Amanita muscaria mushroom. His entire Gospel narrative — from his desert diet to his dramatic execution — is read as a web of multilingual word-play built upon the mushroom's physical features and its Sumerian, Semitic, Greek, and Latin names. The story of his death at the hands of Herod and Herodias is, in this reading, a "whole story woven from names of [[allegro-star-of-the-morning-venus-and-the-sacred-mushroom]]."
-
-## John as "Red-Topped Mushroom"
-
-### The Root kh-n-n: "Red-Cap" and "Be Gracious"
-
-The key philological bridge is the Semitic root **kh-n-n**, which carries a double meaning. As a noun, **khinnān** means "red-cap," a direct physical description of the Amanita's bright scarlet pileus. As a verb, the same root means "be gracious" or "show favour." This homophony allowed sacred-mushroom names to be embedded in personal names across the Old Testament:
-
-- **Hanan** — "he has been gracious"
-- **Hanun** — "favoured"
-- **Hannah** — "grace" (the name of Samuel's mother, whose story involves ritual dedication)
-- **John** (Hebrew *Yo-kh-n-n*) — "Yahweh has been gracious"
-
-The name "John" thus secretly encodes the mushroom's most striking feature — its red cap — beneath a surface meaning of divine grace.
-
-### John, Brother of James (Boanerges)
-
-The Synoptic Gospels pair John with his brother James, whom Jesus nicknames **Boanerges** ("Sons of Thunder"). James is the Greek form of **Jacob**, and in Genesis Jacob's brother is **Esau**, famous for being born red-skinned (*'admoni*). By this associative chain, John — Jacob's brother in the Gospel narrative — stands in for Esau, the red one. John is thus the Esau counterpart: the red-capped mushroom to Jacob/James's more muted identity.
-
-### "John the Baptist" = Red-Topped Mushroom
-
-The title "the Baptist" adds a second mushroom-name layer. The Aramaic **Tabbal** means "dyer" or "baptizer," but traces back to the Sumerian mushroom-name stem ***TAB_BA_R/LI***. This root generates a chain of related words:
-
-- **tabarru** (Akkadian) — "red dye"
-- **tablion** (Latin) — "purple fringe" on a garment
-- **Tabbala'** (Aramaic) — "the Dyer" → "the Baptist"
-
-"John the Baptist" therefore doubly encodes the mushroom: *kh-n-n* "red-cap" + *tabbal* "dyer" = the mushroom that dyes red — i.e., **the red-topped mushroom**.
-
-## Camel's Hair (Matt 3:4)
-
-Matthew 3:4 describes John's attire: "John wore a garment of camel's hair." The image is modelled on Elijah's "garment of hair-cloth" in II Kings 1:8, but the word "camel" is added deliberately for its punning potential.
-
-The Hebrew word for a garment of camel's hair, **kirkārāh**, is a phonetic play on the Greek **Kirkaia**, the mandrake plant. Both words derive from the Sumerian **KUR-KUR**, meaning "two cones" — a description of the mushroom's volva, which splits open into two halves as the fruiting body emerges. The camel's distinctive double hump provides a visual analogue for these two cones, making the animal itself a mushroom symbol.
-
-## Locusts and Wild Honey (Matt 3:4)
-
-The same verse gives John's diet: "his food was locusts and wild honey." Here again, mushroom names are concealed beneath ordinary words.
-
-The Semitic words for "edible locust" — **gobay** and **guba'** — are near-homophones of **gab'ā**, meaning "mushroom." Both sets of words descend from the Sumerian **GUG**, meaning "pod." The locust reference thus operates on two levels: the insect larva develops inside a pod (the locust's egg case), while the mushroom's volva likewise develops from and emerges out of a pod-like structure. The two images — insect in pod, fungus in volva — are botanical parallels encoded in sound.
-
-The traditional identification of the "locusts" with the carob tree (*[[carob-ceratonia-siliqua-mediterranean-leguminous-tree]]*), known as **"St John's Bread"**, reinforces the connection. The carob is not a desert plant and would be an odd staple for a wilderness ascetic, but it shares a mushroom-related name in Akkadian, further binding John's diet to fungal nomenclature.
+In John M. Allegro's philological analysis of the New Testament, John the Baptist is understood as a literary epithet for the red-capped Amanita muscaria mushroom. His entire Gospel narrative — from his desert diet to his dramatic execution — is read as a web of multilingual word-play built upon the mushroom's physical features and its Sumerian, Semitic, Greek, and Latin names. The story of his death at the hands of Herod and Herodias is, in this reading, a "whole story woven from names of [[carob-ceratonia-siliqua-mediterranean-leguminous-tree]]*), known as **"St John's Bread"**, reinforces the connection. The carob is not a desert plant and would be an odd staple for a wilderness ascetic, but it shares a mushroom-related name in Akkadian, further binding John's diet to fungal nomenclature.
 
 ## Death of John the Baptist (Mark 6:16–28)
 
@@ -68,22 +27,7 @@ All three words sound nearly identical and converge on the same visual: a mushro
 ### Herod, Herodias, and the Daughter
 
 - **Herod** is a play on the Semitic **'Ardila**, a word for "mushroom."
-- **Herodias' daughter** — her name means "the little heron," a bird that appears in ancient [[guzman-allen-gartz-indigenous-mexican-mushroom-nomenclature-sacred-names]] lists. The young girl who dances and demands John's head is herself a mushroom epithet.
-
-### Galilee: "Reed with Two Cones"
-
-The "banquet for the men of Galilee" is not merely a geopolitical setting. **Galilee** derives from **GI-LI-LI**, meaning "reed with two cones" — another volva description. The guests at the banquet are, in the word-play, the mushroom's anatomical features gathered together.
-
-### Further Mushroom Epithets in the Passage
-
-Several phrases in the Markan account function as mushroom descriptive titles:
-
-- **"Half my kingdom"** — a known mushroom epithet, perhaps referring to the cap's hemispherical shape or the mushroom's role as a bestower of visionary "kingdom" experiences.
-- **"Bound in prison"** — another mushroom epithet, describing the mushroom in its volval prison before emergence, or the bound state of the dried fungus awaiting preparation.
-
-## Revelation Vision of Amanita (Rev 1:10–16)
-
-The apocalyptic vision in Revelation 1:10–16 provides a vivid literary description of [[allegro-colour-and-consistency-of-the-amanita-muscaria]]'s appearance under the influence of the mushroom's own hallucinogenic properties:
+- **Herodias' daughter** — her name means "the little heron," a bird that appears in ancient [[allegro-colour-and-consistency-of-the-amanita-muscaria]]'s appearance under the influence of the mushroom's own hallucinogenic properties:
 
 > "One like a son of man… his head and his hair were white as white wool, white as snow; his eyes were like a flame of fire; his face was like the sun shining in full strength."
 
@@ -99,15 +43,7 @@ The mushroom's **deep red canopy** is the first feature to attract attention in 
 
 ### The Panther and Amanita pantherina
 
-Pliny the Elder describes the panther as bearing "sinual spots like eyes on a light ground" — a pattern that closely matches the markings of the Amanita muscaria. The related species **Amanita pantherina** is directly named after the panther for this reason. The panther thus became an animal symbol for the [[shroom-cultural-history-mushroom-in-ancient-civilizations]] iconography and word-play.
-
-### "Bar Pandera" — Son of the Panther
-
-The Jewish Talmud refers to Jesus as **"Bar Pandera"**, meaning "Son of (the) Panther." In Allegro's reading, this is not a slur but a mushroom descriptive title: Jesus is "the Son of the Panther" because he is the fruit of the spotted, panther-like fungus.
-
-### Annas and the Panther Pun
-
-In John 18:13, Jesus is brought before **Annas**, the father-in-law of Caiaphas. The Greek word for father-in-law is **pentheros**, phonetically identical to **panther**. Allegro suggests that Annas appears in the narrative primarily because his title — "father-in-law" — puns on "panther," again linking the scene to [[allegro-cross-and-mushroom-symbolism]]. The historical Annas's role in the trial is, on this reading, a secondary concern; his presence is driven by the word-play.
+Pliny the Elder describes the panther as bearing "sinual spots like eyes on a light ground" — a pattern that closely matches the markings of the Amanita muscaria. The related species **Amanita pantherina** is directly named after the panther for this reason. The panther thus became an animal symbol for the [[allegro-cross-and-mushroom-symbolism]]. The historical Annas's role in the trial is, on this reading, a secondary concern; his presence is driven by the word-play.
 
 ### Bdellium: White Spots on a Ground
 
@@ -139,8 +75,6 @@ through generations to modern scientific approaches, the evolution continues
 to inform current best practices and research directions.
 
 ## See Also
-- [[amanita-pantherina]]
 - [[dom]]
-- [[amanita-muscaria]]
 - [[mandrake-plant]]
 - [[amanita]]

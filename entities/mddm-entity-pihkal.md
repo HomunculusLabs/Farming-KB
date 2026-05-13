@@ -8,7 +8,7 @@ sources: ["Shulgin - PIHKAL"]
 ---
 # MDDM
 
-[[2c-b-pihkal-entry-20]] #105. N,N-DIMETHYL-[[mda]];.
+[[mda]];.
 
 ## Chemical Name
 
@@ -42,28 +42,13 @@ N,N-DIMETHYL-MDA;
 
 I cannot attest for the actual drug that
 had been used in the two larger-dose reports above. These are from an
-anonymous source [[query-what-are-ectomycorrhizal-fungi-and-which-plants-do-they-associate-with]]d with clandestine syntheses. If this
-material does eventually prove to be active, it is going to require a
-pretty hefty dose. But it may well have some activity, as there have
-been reports in the forensic literature of its preparation, or at
-least its intended preparation, in illicit laboratories. It seems
-unlikely that much effort would be directed towards the [[shirota-psilocin-psilocybin-large-scale-synthesis-pathway]] of a
+anonymous source [[shirota-psilocin-psilocybin-large-scale-synthesis-pathway]] of a
 completely inactive compound.
 
 The reduced potency of MDDM has been exploited in an unexpected way.
-[[query-how-to-make-and-use-plant-based-foliar-sprays-for-pest-and-disease-prevention]] on the premise that the dialkylation of the amine group of
-amphetamine makes the parent compound intrinsically less active but
-without interfering with its ability to enter the brain, a large
-number of [[query-what-are-mycelium-materials-and-how-are-they-made]] have been explored to take advantage of this very
+[[query-what-are-mycelium-materials-and-how-are-they-made]] have been explored to take advantage of this very
 property. There is a need in medical diagnosis for agents that can
-allow various organs of the body to be visualized. One of [[query-what-are-the-most-powerful-medicinal-mushrooms-and-what-do-they-treat]]
-powerful modalities for this work is the positron camera, and the use
-of the unusual properties of the positron that allow it to work. In
-
-the art of positron emission tomography (PET), an emitted positron
-(from a radioactive and thus unstable atom) will quickly interact with
-a nearby electron and all mass disappears with the complete conversion
-to energy. The [[phytochrome-red-far-red-ratio-shade-detection-plants]] of the produced pair of annihilation gamma
+allow various organs of the body to be visualized. One of [[phytochrome-red-far-red-ratio-shade-detection-plants]] of the produced pair of annihilation gamma
 rays will establish with great exactness the line along which this
 interaction occurred. So if one were to put an unstable atom into a
 compound that went to the tissue of the brain, and this atom were to
@@ -71,17 +56,7 @@ decay there, the resulting gamma rays would allow a "photograph" to be
 made of the brain tissue. One could in this way visualize brain
 tissue, and observe abnormalities.
 
-But [[query-what-is-a-rocket-mass-heater-and-how-does-it-work]] needed is a molecule that carries the unstable atom (and
-specifically one that emits positrons) and one which goes to the brain
-as well. One of the very best unstable atoms for the formation of
-positrons is iodine, where there is an isotope of mass 122 which is
-perfect for these needs. And, of course, the world of the psychedelic
-drugs is tailor-made to provide compounds that go to the brain. But,
-the last thing that the physician wants, with the diagnostic use of
-such tools, would be to have the patient bouncing around in some
-turned-on altered state of consciousness.
-
-So the completely logical union of these [[fukuoka-textdoc-land-requirements-per-diet-type-carrying-capacity]] is to take a
+But [[fukuoka-textdoc-land-requirements-per-diet-type-carrying-capacity]] is to take a
 compound such as DOI (carrying the needed atom and certainly going to
 the brain) and put two methyl groups on the nitrogen (which should
 reduce the chances for conspicuous biological activity). This
@@ -91,3 +66,85 @@ close relatives are discussed in their own separate recipe, called
 
 ## See Also
 - [[gamma-2c-t-4-entity-pihkal]]
+
+## Overview
+
+Mddm Entity Pihkal represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish mddm entity pihkal
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving mddm extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Mddm Entity Pihkal finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for mddm entity pihkal. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+mddm entity pihkal and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Mddm Entity Pihkal has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of mddm entity pihkal into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[2c-c-entity]]
+- [[2c-o-4-entity]]

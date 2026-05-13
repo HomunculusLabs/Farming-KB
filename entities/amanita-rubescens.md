@@ -18,11 +18,7 @@ resource for soil fauna despite containing toxic compounds.
 
 ## Taxonomy and Distribution
 
-Amanita rubescens is found across Europe and parts of [[psilocybin-north-america-pacific-northwest]] and
-Asia, forming ectomycorrhizal associations with pines (Pinus), oaks
-(Quercus), spruces (Picea), and birches (Betula). Its broad host range
-and wide geographic distribution make it one of the more cosmopolitan
-[[query-what-are-ectomycorrhizal-fungi-and-which-plants-do-they-associate-with]] in temperate forest ecosystems.
+Amanita rubescens is found across Europe and parts of [[query-what-are-ectomycorrhizal-fungi-and-which-plants-do-they-associate-with]] in temperate forest ecosystems.
 
 ## Toxicity
 
@@ -41,9 +37,7 @@ distinctive phosphorus metabolism with relatively little phosphorus
 retained in mycelial biomass compared to the soluble fraction (1.8% vs.
 60.0% from Pi source; 1.1% vs. 45.0% from Po source). pNPPase activity
 was 55.2 from Pi and 36.3 from Po sources. This "leakiness" in
-nutrient utilization contributes to [[query-how-does-phosphorus-availability-change-across-soil-ph-levels]] in the
-mycorrhizosphere, benefiting the host plant and surrounding soil
-[[edaphic-factors-microbial-community-structure]].
+nutrient utilization contributes to [[edaphic-factors-microbial-community-structure]].
 
 ## Response to Leaf Litter Phenolics
 

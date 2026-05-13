@@ -30,10 +30,7 @@ Bill Mollison cites King's work as the canonical description of the "peasant app
 
 King's documentation of East Asian agriculture is directly relevant to cultivation for several reasons:
 
-1. **Nutrient cycling**: The systems King documented relied on complete return of organic matter to the soil — the same principle that underlies [[composting]] and mulching in permaculture and mycological cultivation.
-2. **Soil building**: These traditional systems actively created and maintained topsoil rather than depleting it, paralleling the role fungal networks play in soil formation.
-3. **Closed-loop design**: King's observations of human-made ecosystems that sustained themselves for millennia inform the design philosophy behind integrated cultivation systems.
-4. **[[decomposition]] systems**: The composting and waste-processing systems King documented are precursors to the biological waste treatment systems used in modern mycological cultivation, where fungi serve as primary decomposers.
+1. **Nutrient cycling**: The systems King documented relied on complete return of organic matter to the soil — the same principle that underlies [[decomposition]] systems**: The composting and waste-processing systems King documented are precursors to the biological waste treatment systems used in modern mycological cultivation, where fungi serve as primary decomposers.
 
 ## References in Permaculture Literature
 
@@ -41,7 +38,6 @@ Mollison references King as a primary example of "feudal permanence" — a syste
 
 ## See Also
 
-- [[permaculture]]
 - [[bill-mollison]]
 
 ## Overview and Definition
@@ -81,8 +77,6 @@ Mollison references King as a primary example of "feudal permanence" — a syste
 - Adaptive management recommended for changing conditions
 
 ## Related Topics
-- [[king-stropharia-ecological-interactions-permaculture]]
 - [[stamets-king-stropharia-permaculture-mycofiltration]]
-- [[query-how-do-nitrogen-fixing-plants-work-in-permaculture]]
 - [[permaculture-beekeeping-guide]]
 - [[comparison-sepp-holzer-vs-permaculture-design]]

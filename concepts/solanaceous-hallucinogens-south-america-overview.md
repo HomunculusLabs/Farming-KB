@@ -92,10 +92,7 @@ Solanaceous hallucinogens occupy a distinctive place in South American indigenou
 
 ## See Also
 
-- [[datura-stramonium]] — Jimson weed ethnobotany
 - [[tree-daturas-brugmansia-south-american-ethnobotany]] — Detailed treatment of tree daturas
-- [[culebra-borrachera-methysticodendron-amesianum]] — Methysticodendron ethnobotany
 - [[chiric-caspi-brunfelsia-south-american-hallucinogen]] — Brunfelsia ethnobotany
-- [[latua-pubiflora-arbol-de-los-brujos-ethnobotany]] — Latua ethnobotany
 - [[plants-of-the-gods-datura-species-toloache]] — Datura species from Plants of the Gods
 - [[plants-of-the-gods-brugmansia-angels-trumpet]] — Brugmansia from Plants of the Gods

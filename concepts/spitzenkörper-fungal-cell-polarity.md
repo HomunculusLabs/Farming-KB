@@ -90,53 +90,16 @@ growth. It oscillates laterally at the apex with a periodicity of
 30-90 seconds, producing subtle fluctuations in growth direction that
 contribute to exploratory growth patterns. During branch initiation,
 the Spitzenkörper fragments and a new Spitzenkörper assembles at the
-branch emergence site. During [[gadd-woronin-bodies-hyphal-septation]], the Spitzenkörper
-temporarily disassembles and reforms after the septum is complete.
-
-Calcium signaling plays a central regulatory role. A steep calcium
-gradient exists at the hyphal tip, with concentrations 10-100 times
-higher than in subapical regions. This gradient is maintained by
-stretch-activated calcium channels in the apical membrane and
-calcium ATPases that pump calcium back into intracellular stores.
-The calcium gradient modulates actin dynamics and vesicle fusion
-rates, providing a feedback mechanism that couples growth rate to
-Spitzenkörper position.
-
-Rho-family GTPases, particularly Cdc42 and Rac1, regulate
-Spitzenkörper assembly and positioning through their effects on actin
-nucleation and vesicle trafficking. Active Cdc42 localizes to the
-hyphal tip and recruits the exocyst complex, which tethers vesicles
-to the plasma membrane before SNARE-mediated fusion. The
-Spitzenkörper thus represents the physical convergence point of
-multiple [[plant-signaling-pathways]] that collectively define the axis of
+branch emergence site. During [[plant-signaling-pathways]] that collectively define the axis of
 polarized growth.
 
 ## Comparison with Other Polarized Growth Systems
 
 The Spitzenkörper is specific to filamentous fungi and is absent from
-yeast and oomycete growth modes. [[saccharomyces-cerevisiae]], which grows
-by budding rather than tip extension, lacks a Spitzenkörper entirely.
-Instead, budding yeast uses a polarisome complex containing Spa2,
-Pea2, and Bud6 to organize actin cables at the bud site. Oomycetes,
-which exhibit tip growth similar to filamentous fungi, possess
-vesicle-rich apical bodies but lack the structured multilobed
-organization characteristic of the fungal Spitzenkörper.
-
-Among filamentous fungi, Spitzenkörper morphology varies. Fast-
-growing species such as [[neurospora-crassa]] and Ashbya gossypii
+yeast and oomycete growth modes. [[neurospora-crassa]] and Ashbya gossypii
 display large, prominent Spitzenkörpers, while slower-growing
 species may have smaller or less organized apical bodies. Mucorales
 produce a modified version called the apical vesicle crescent. These
 structural variations correlate with differences in growth rate,
-[[aact-saprophytic-pathogenic-fungal-spectrum-hyphal-diameter-ingham]], and branching pattern, suggesting that Spitzenkörper
-organization is tuned to species-specific growth requirements.
-
-## See Also
-
-- dikaryon
-- clamp connection
-- basidiomycete mating systems
-- mycelial network
-- [[laccase]]
-- [[fungal-extracellular-enzymes]]
+[[laccase]]
 - [[fungal-melanin]]

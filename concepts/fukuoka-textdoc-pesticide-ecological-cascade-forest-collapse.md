@@ -14,29 +14,11 @@ type: concept
 
 ## Overview
 
-Fukuoka presents a detailed case study of how a single human intervention in a forest ecosystem, replanting commercial timber after clear-cutting, triggers an unending cascade of ecological consequences. This chain of [[fukuoka-textdoc-no-cause-and-effect-in-nature]] illustrates his argument that man cannot improve upon nature through selective intervention, because each intervention creates new problems requiring further intervention, spiraling into collapse.
-
-## The Initial Intervention
-
-The chain begins with logging trees for lumber value, then replacing the original mixed forest with commercially valuable species such as pine and cedar. This practice is called "forestry conservation" but Fukuoka argues it is fundamentally destructive. The human logic is straightforward: cut valuable trees, plant more valuable trees. But this ignores the web of ecological relationships that the original forest supported.
-
-## The Cascade of Effects
-
-### Step 1: Altered Tree Cover Changes Soil
-
-Replacing diverse native forest with monoculture pine and cedar changes the characteristics of the forest soil. Different tree species produce different leaf litter, root exudates, and support different [[cannabis-rhizosphere-microbial-communities]]. The qualitative changes in soil affect the plants, animals, and microorganisms that inhabit the forest.
+Fukuoka presents a detailed case study of how a single human intervention in a forest ecosystem, replanting commercial timber after clear-cutting, triggers an unending cascade of ecological consequences. This chain of [[cannabis-rhizosphere-microbial-communities]]. The qualitative changes in soil affect the plants, animals, and microorganisms that inhabit the forest.
 
 ### Step 2: Changes in Air and Temperature
 
-The altered tree cover produces subtle changes in [[bloomfield-stachybotrys-indoor-mold-trichothecenes-air-quality]], temperature, humidity, and the microclimate of the forest floor. These environmental shifts affect the microbial world in ways that may not be immediately visible to the human observer.
-
-### Step 3: Birds Disappear
-
-When the section of forest is clear-cut and replanted with cedar, there is no longer enough food for small birds. The diverse understory plants, berries, and insects that supported a varied bird population are replaced by a simplified ecosystem dominated by one or two tree species. The birds that depended on this diversity disappear from the area.
-
-### Step 4: Long-Horned Beetles Flourish
-
-Without birds to prey on them, long-horned beetles multiply unchecked. In a balanced ecosystem, birds keep beetle populations in check, but the removal of [[bird-habitat-creation]] has eliminated this natural control mechanism.
+The altered tree cover produces subtle changes in [[bird-habitat-creation]] has eliminated this natural control mechanism.
 
 ### Step 5: Pine Nematode Vectors
 
@@ -44,15 +26,7 @@ The beetles are vectors for pinewood nematodes, microscopic parasitic worms that
 
 ### Step 6: Botrytis Fungi and Matsutake Disappearance
 
-The nematodes feed on parasitic Botrytis fungi in the trunks of the pine trees. The beneficial matsutake fungus, which lives symbiotically on the roots of red pines, has died off as a result of an increase in the harmful Botrytis fungus in the soil. The matsutake was a key part of the forest's [[arbuscular-mycorrhizal-network-visualization-anastomosis]], supporting tree health and soil ecology. Its disappearance further weakens the entire forest system.
-
-### Step 7: Soil Acidification
-
-The increase in harmful Botrytis fungus is itself a consequence of increased soil acidity. The acidification of the soil is traced back to atmospheric pollution and acid rain, connecting the local forest intervention to broader environmental degradation caused by industrial civilization.
-
-### Step 8: Bamboo Grass Invasion
-
-When the pines die from nematode infestation and [[bloomfield-amphibian-decline-fungal-disease-climate-interactions]], thickets of bamboo grass rise up in the cleared areas. This fast-growing ground cover further prevents forest regeneration by outcompeting native tree seedlings and creating conditions favorable to its own spread.
+The nematodes feed on parasitic Botrytis fungi in the trunks of the pine trees. The beneficial matsutake fungus, which lives symbiotically on the roots of red pines, has died off as a result of an increase in the harmful Botrytis fungus in the soil. The matsutake was a key part of the forest's [[bloomfield-amphibian-decline-fungal-disease-climate-interactions]], thickets of bamboo grass rise up in the cleared areas. This fast-growing ground cover further prevents forest regeneration by outcompeting native tree seedlings and creating conditions favorable to its own spread.
 
 ### Step 9: Mouse Population Explosion
 
@@ -117,8 +91,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[doc]]
 - [[dom]]
-- [[det]]
 - [[root-exudates]]
 - [[mycorrhiza]]

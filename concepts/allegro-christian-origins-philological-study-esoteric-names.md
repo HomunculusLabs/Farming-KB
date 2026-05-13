@@ -17,57 +17,7 @@ This cuts to the heart of his thesis. Rather than accepting the Gospels as
 straightforward history, Allegro insists they must be subjected to rigorous
 philological analysis. If the Gospels are encoded texts or cryptographic
 literature, they demand an entirely different methodology than conventional
-[[coleman-historical-reading-list-winter-harvest-literature]].
-
-The problem is compounded by the paucity of external corroborating evidence:
-> "The sparse references to one 'Christus' or 'Chrestus' in the works of
-> contemporary non-Christian historians, tell us nothing about the nature of the
-> man."
-Given this vacuum, Allegro argues scholars must turn to the New Testament itself:
-> "If we want to know more about early Christianity we must look to our only
-> real source, the written words of the New Testament. Thus, as we have said,
-> the enquiry is primarily philological."
-
-Allegro treats the New Testament as a linguistic artifact whose real meanings
-may be encoded, deliberately obscured, and accessible only through careful
-analysis of word origins, transliterations, and naming practices.
-
-## Aberrant Names and Pseudo-Translations
-
-It is within the proper names that Allegro finds his most compelling evidence
-for a hidden layer of meaning. The Gospels and Acts contain numerous instances
-where a foreign name — presumed Aramaic — is followed by a purported Greek
-translation that fails to correspond to the original:
-> "The most intransigent concern the foreign, presumed Aramaic transliterations
-> in the text, coupled often with a 'translation' which does not seem to offer
-> a rendering of the original."
-
-Consider Boanerges, the nickname Jesus gives to James and John. The text says it
-means "Sons of Thunder" — but philological analysis reveals no obvious
-connection between the syllables of "Boanerges" and any Aramaic phrase meaning
-"Sons of Thunder." Similarly, Barnabas is said to represent "Son of Consolation,"
-yet the etymological link is tenuous. These form a consistent pattern.
-> "Try as they will, the commentators cannot see how the 'translations' fit the
-> 'names.'"
-
-Generations of scholars have proposed elaborate but unconvincing explanations.
-Allegro sees a systematic pattern pointing to deliberate obfuscation:
-> "These aberrations of the proper names and their pseudo-translations are of
-> crucial importance. They provide us with a clue to the nature of original
-> Christianity."
-
-The pseudo-translations are not errors; they are the key to unlocking the New
-Testament's true referent. The names encode something the authors needed to
-conceal from hostile authorities while preserving for cult initiates — a
-plausible surface reading for the uninitiated, and a signal to those in the know
-that the real meaning lies elsewhere.
-
-> "Concealed within are secret names for the sacred fungus, the sect's
-> 'Christ'. The deliberately deceptive nature of their mistranslations put the
-> lie to the whole of the 'cover-story' of the man Jesus."
-
-The proper names function as a coded vocabulary — esoteric names for the
-*[[allegro-amanita-muscaria-properties-and-pharmacology]]* mushroom, the cult's true object of veneration. The
+[[allegro-amanita-muscaria-properties-and-pharmacology]]* mushroom, the cult's true object of veneration. The
 "translations" are deliberate misdirections designed to satisfy casual readers
 while signaling the real meaning to those who possessed the interpretive key.
 
@@ -81,12 +31,7 @@ Allegro's approach inverts conventional scholarship:
 This is an ontological claim about religion itself. Religions are primarily
 systems of ideas and practices transmitted across generations, often with little
 regard for historical accuracy. Names and dates attached to founders are
-secondary to the experiential core — rituals, revelations, [[glossolalia-and-altered-states]]
-of consciousness that constitute genuine religious experience.
-> "We are, then, dealing with ideas rather than people. We cannot name the chief
-> characters of our story."
-
-[[allegro-death-and-resurrection-in-the-mushroom-cult]] Allegro reconstructs predates any individual figure associated
+secondary to the experiential core — rituals, revelations, [[allegro-death-and-resurrection-in-the-mushroom-cult]] Allegro reconstructs predates any individual figure associated
 with Christianity, existing across [[allegro-fertility-philosophy-of-the-ancient-near-east]] East for centuries, drawing
 on Sumerian, Hittite, and Canaanite antecedents.
 > "Christianity under its various names had been thriving for centuries before

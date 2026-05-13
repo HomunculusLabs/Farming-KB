@@ -22,9 +22,9 @@ sources:
 
 ## Overview
 
-The boil-a-bag method is a simplified mushroom [[jeavons-surface-cultivation-technique]] that uses boiling or pressure sterilization of substrate-filled bags to prepare a sterile growing medium for [[jarrold-short-needle-vs-long-needle-mushroom-inoculation-methods]]. Developed as an accessible alternative to more complex methods requiring autoclaves and laminar flow hoods, this approach enables home cultivators to produce mushrooms with minimal specialized equipment.
+The boil-a-bag method is a simplified mushroom [[jarrold-short-needle-vs-long-needle-mushroom-inoculation-methods]]. Developed as an accessible alternative to more complex methods requiring autoclaves and laminar flow hoods, this approach enables home cultivators to produce mushrooms with minimal specialized equipment.
 
-The technique combines elements of traditional [[straw-substrate-pasteurization-methods-mushroom-cultivation]] with the convenience of bag-based cultivation. [[growing-gourmet-substrate-materials-wood-types]] such as chopped straw, supplemented grain, or compost mixtures are loaded into heat-resistant bags, sealed or folded, and sterilized through boiling or pressure cooking before being inoculated with mushroom spawn.
+The technique combines elements of traditional [[growing-gourmet-substrate-materials-wood-types]] such as chopped straw, supplemented grain, or compost mixtures are loaded into heat-resistant bags, sealed or folded, and sterilized through boiling or pressure cooking before being inoculated with mushroom spawn.
 
 ## Substrate Selection and Preparation
 
@@ -62,17 +62,7 @@ Bag thickness affects both durability and gas exchange. Thicker bags (2-3 mil) a
 
 After sterilization, the substrate bags must cool to room temperature before inoculation. Hot substrate will kill the mushroom spawn if inoculated immediately. The cooling period also allows the substrate to reabsorb condensation that forms on the inner surface of the bag during sterilization.
 
-Cooling typically takes 8-12 hours depending on [[jadam-ambient-temperature-principle]] and bag size. Bags should be placed on a clean surface in a draft-free area during cooling. Some cultivators place the bags in the inoculation environment during cooling to minimize the time the sterile substrate is exposed to ambient air before inoculation.
-
-A useful technique is to press the bags gently after cooling to redistribute any pooled condensation. This prevents localized wet spots that could harbor contaminants. The bags should feel uniformly firm but not waterlogged when properly hydrated and cooled.
-
-Inoculation is the most critical contamination risk point in the boil-a-bag process. The spawn is introduced through the filter can opening or through a self-healing injection port. All tools and surfaces that contact the sterile substrate or spawn must be sterilized with alcohol or flame. Working quickly and efficiently minimizes exposure time.
-
-## Comparison to Traditional Methods
-
-The boil-a-bag method occupies a middle ground between fully professional mushroom cultivation using autoclaves and clean rooms, and very simple outdoor cultivation using buried substrates. It offers significant advantages over jar-based methods in terms of substrate volume per container and ease of handling during fruiting.
-
-Compared to traditional jar cultivation, bags offer more surface area for fruiting and can accommodate larger substrate volumes. A single large bag may replace a dozen or more quart jars, simplifying both sterilization and fruiting logistics. Bags are also less prone to contamination during the shake-and-break step used in [[cultivator-grain-spawn-preparation-and-inoculation]].
+Cooling typically takes 8-12 hours depending on [[cultivator-grain-spawn-preparation-and-inoculation]].
 
 The main disadvantage compared to professional methods is reduced consistency and reliability. Home pressure cookers may have temperature fluctuations that compromise sterilization, and the absence of a laminar flow hood means that inoculation carries higher contamination risk. Success rates with the boil-a-bag method are typically lower than with professional setups but can be improved with practice.
 
@@ -117,8 +107,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[sterilization]]
 - [[spore]]
-- [[mushroom-cultivation]]
 - [[mycelium]]
 - [[laminar-flow-hood]]

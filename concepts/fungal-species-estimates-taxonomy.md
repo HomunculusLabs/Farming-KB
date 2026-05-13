@@ -86,16 +86,16 @@ This gap means the vast majority of fungal species remain unknown to science.
 - Many "known" species are actually species complexes
 - Examples:
   - *Amanita muscaria*: 6+ phylogenetic species globally
-  - *[[cancer-medicinal-mushrooms-pleurotus-ostreatus]]* complex: Multiple species across continents
+  - *Pleurotus ostreatus* complex: Multiple species across continents
   - *Armillaria mellea* complex: At least 10+ species in North America alone
-  - *[[fusarium-graminearum]]* complex: 15+ phylogenetic species
+  - *Fusarium graminearum* complex: 15+ phylogenetic species
 - Cryptic species have different ecological roles, host ranges, and geographic distributions
 
 ### DNA-Based Species Discovery
 - Environmental DNA (eDNA) from soil, water, air reveals vast undescribed diversity
 - Single-spore sequencing identifies species without culturing
 - Metagenomics provides functional information about uncultured taxa
-- [[citizen-science-fungal-biodiversity-discovery]] DNA barcoding (e.g., iNaturalist) accelerating documentation
+- Citizen science DNA barcoding (e.g., iNaturalist) accelerating documentation
 
 ## Classification of the Fungal Kingdom
 
@@ -141,9 +141,10 @@ This gap means the vast majority of fungal species remain unknown to science.
 - Anaerobic fungi in herbivore guts
 - See [[anaerobic-gut-fungi]]
 
-### Groups Traditionally Studied by Mycologists
+## See Also
 
-**Peronosporomycetes (Oomycetes)** — Not true fungi (Straminipila), but studied by mycologists
-- Water molds, downy mildews
-- Include *[[bloomfield-potato-blight-phytophthora-infestans]]* (potato blight), *Pythium* (damping-off)
-- ~700 described species
+- [[fungi-in-the-environment-fungal-ecosystems]]
+- [[fungal-amber-fossils]]
+- [[singh-fungal-pellet-formation-bioremediation]]
+- [[dark-septate-endophytes]]
+- [[fungal-pathogens-human-disease]]

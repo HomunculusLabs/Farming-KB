@@ -1,8 +1,6 @@
 ---
 title: Surface Sterilization Methods Comparison
-concept_category: [[mushroom-agar-media-pouring-sterilization-techniques]]
-related_concepts:
-  - [[microwave-surface-sterilization]]
+concept_category: microwave-surface-sterilization
   - autoclave-sterilization-mycology
   - contamination-control-mycology
 source: sterilizing-surfaces-by-irradiation-with-microwaves.md
@@ -13,7 +11,7 @@ created: 2026-05-10
 
 ## Overview
 
-Surface sterilization is critical across mycology, microbiology, aerospace, medicine, and food processing. Multiple methods exist, each with distinct advantages and limitations. This page compares techniques based on NASA's evaluation of [[dry-microwave-irradiation-spore-resistance]] (MSC-22484) against [[microwave-sterilization-versus-conventional-methods-comparison]].
+Surface sterilization is critical across mycology, microbiology, aerospace, medicine, and food processing. Multiple methods exist, each with distinct advantages and limitations. This page compares techniques based on NASA's evaluation of [[microwave-sterilization-versus-conventional-methods-comparison]].
 
 ## Method Categories
 
@@ -87,3 +85,7 @@ Oxidizing agent damaging cell components.
 ### Quaternary Ammonium Compounds
 
 Cationic surfactants disrupting cell membranes.
+
+## See Also
+
+- [[conventional-surface-sterilization-methods-limitations-comparison]]

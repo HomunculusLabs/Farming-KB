@@ -8,20 +8,18 @@ sources: - "raw/papers/allegro-j-the-sacred-mushroomcross.md"
 ---
 # Canaanite Religion and Mushroom Symbolism
 
-[[john-allegro]]'s *The [[allegro-the-sacred-mushroom-amanita-identification]] and the Cross* proposed extensive
+[[allegro-the-sacred-mushroom-amanita-identification]] and the Cross* proposed extensive
 connections between Canaanite fertility religion and the fly-agaric mushroom.
 His interpretation of Canaanite religious practices, temple architecture, and
 divine names formed a significant part of his argument that Christianity
-originated in a mushroom-centred [[allegro-christianity-as-a-fertility-cult]]. See [[amanita]] for the
+originated in a mushroom-centred [[amanita]] for the
 botanical background of the mushroom at the center of this theory.
 
 ## Allegro's Canaanite Framework
 
-Allegro placed the [[african-mushroom-cult-history]] within the broader framework of Canaanite
-religion, arguing that religious practices of the ancient Canaanites were
-fundamentally [[allegro-fertility-cults]] in which the mushroom played the central
+Allegro placed the [[allegro-fertility-cults]] in which the mushroom played the central
 sacramental role. He proposed that the pattern of religious thought traceable
-through the [[allegro-fertility-philosophy-of-the-ancient-near-east]] East all reached back to "[[allegro-sacred-prostitute-and-the-mushroom-cult]] of Sumer
+through the [[allegro-sacred-prostitute-and-the-mushroom-cult]] of Sumer
 and her successors." The god names of the Canaanites, when decoded through
 his philological method, were mushroom epithets.
 
@@ -118,8 +116,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[dom]]
 - [[amanita]]
-- [[allegro-canaanite-religion-and-the-mushroom]]
 - [[mckenna-minoan-crete-mushroom-fantasies-and-mycenaean-religion]]
 - [[allegro-cross-and-mushroom-symbolism]]

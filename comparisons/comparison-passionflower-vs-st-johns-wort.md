@@ -19,10 +19,7 @@ appropriate remedy for specific conditions.
 
 ## St. John's Wort
 
-[[st-johns-wort-guide]]
-
-St. John's Wort is a perennial herb native to Europe and western Asia, now
-naturalized throughout much of temperate [[guzman-psilocybin-mushrooms-north-america]]. Named for its
+[[guzman-psilocybin-mushrooms-north-america]]. Named for its
 traditional flowering around St. John's Day (June 24), this herb has been
 used medicinally for over 2,400 years and is one of the most clinically
 studied herbal remedies, particularly for mild to moderate depression.
@@ -34,22 +31,9 @@ and norepinephrine reuptake inhibition, similar to pharmaceutical SSRIs but
 with a broader spectrum of neurotransmitter activity.
 
 Key medicinal applications include:
-- Mild to moderate depression: [[cancer-medicinal-mushrooms-schizophyllan-spg-clinical-trials]] show efficacy comparable to
-  standard SSRIs
-- Anxiety: Often addresses anxiety that co-occurs with depression
-- Seasonal affective disorder (SAD): Evidence supports winter depression use
-- Nerve pain: Historical use for sciatica and neuralgia
-- [[cannabis-topical-applications]]: The famous red oil infusion for nerve pain and wounds
+- Mild to moderate depression: [[cannabis-topical-applications]]: The famous red oil infusion for nerve pain and wounds
 
-St. John's Wort is renowned for potent [[ayahuasca-drug-interactions]]. It strongly induces
-cytochrome P450 enzymes and P-glycoprotein, speeding up metabolism of many
-medications including SSRIs, birth control pills, and blood thinners. It
-should never be combined with pharmaceutical antidepressants due to serotonin
-syndrome risk.
-
-## Passionflower
-
-[[passionflower-growing-guide]]
+St. John's Wort is renowned for potent [[passionflower-growing-guide]]
 
 Passionflower, also called maypop or wild passion vine, is a fast-growing
 perennial vine native to the southeastern United States. Named by Spanish
@@ -83,10 +67,7 @@ uterine-stimulating effects.
 | **Primary Use** | Depression | Anxiety/Sleep |
 | **Mechanism** | Serotonin/dopamine/norepinephrine reuptake inhibition | GABA receptor modulation |
 | **Strength** | Potent antidepressant | Gentle sedative/anxiolytic |
-| **Speed of Action** | 2-4 weeks for full effect | 30-60 minutes for [[psilocybin-mushroom-dosage-and-acute-effects]] |
-| **Drug Interactions** | Numerous serious interactions | Minimal interactions |
-| **Best For** | Mild-moderate depression, SAD | Insomnia, acute anxiety, muscle tension |
-| **[[blesching-cannabis-safety-profile]]** | Many contraindications | Generally very safe |
+| **Speed of Action** | 2-4 weeks for full effect | 30-60 minutes for [[blesching-cannabis-safety-profile]]** | Many contraindications | Generally very safe |
 | **Growing Habit** | Upright herbaceous perennial (1-3 feet) | Climbing vine (10-25 feet) |
 | **Hardiness** | USDA zones 3-8 | USDA zones 5-9 |
 | **Harvest** | Flowering tops during peak bloom | Leaves, stems, and flowers |

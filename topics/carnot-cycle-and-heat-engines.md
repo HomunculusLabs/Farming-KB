@@ -13,22 +13,7 @@ The Carnot cycle is the ideal reversible heat-engine cycle used to define the up
 It describes a theoretical engine operating between a hot reservoir and a cold reservoir.
 The cycle converts part of the heat flowing from high temperature to low temperature into mechanical work.
 Its importance is not that it represents a practical machine, but that it sets a boundary no practical machine can exceed.
-For this reason the Carnot cycle is central to thermodynamics, power engineering, refrigeration, and [[exergy-analysis]].
-The cycle was proposed by Nicolas Lé in 1824 in his study of the motive power of fire.
-Carnot wrote before the modern energy concept was fully established and still used the caloric theory of heat.
-Despite that obsolete framework, his temperature-based efficiency result survived the transition to modern thermodynamics.
-Later work by Émile Clapeyron, Rudolf Clausius, and William Thomson connected Carnot's argument to pressure-volume diagrams and entropy.
-The resulting theory became one of the foundations of the second law of thermodynamics.
-
-## Historical Development
-
-Sadi Carnot published *Reflections on the Motive Power of Fire* while steam engines were transforming industry.
-The practical question of the period was how much useful work could be extracted from coal-fired heat.
-Carnot approached the problem by asking what an ideal heat engine would do if all avoidable losses were removed.
-He compared heat flow to water falling through a height: useful work required a difference in level, or in this case temperature.
-This analogy led him to see that an engine's maximum performance depended on the temperatures of its reservoirs.
-Carnot's work was obscure during his lifetime and only became influential after Clapeyron reformulated it mathematically.
-Clausius later replaced caloric reasoning with [[mollison-designers-home-energy-conservation-and-solar-heating]] plus entropy production.
+For this reason the Carnot cycle is central to thermodynamics, power engineering, refrigeration, and [[mollison-designers-home-energy-conservation-and-solar-heating]] plus entropy production.
 Kelvin used Carnot's result to define an absolute thermodynamic temperature scale.
 Together these developments made the Carnot cycle more than an engine model: it became a statement about nature's limits.
 
@@ -106,32 +91,7 @@ That condition implies vanishing power output, so useful engines must trade some
 
 ## Relation to Practical Power Cycles
 
-The [[rankine-cycle]] is the standard model for steam power plants.
-It uses liquid pumping, boiling, vapor expansion through a turbine, and condensation.
-Rankine engines are practical because phase change permits large heat transfer and high turbine work with modest pump work.
-They are less efficient than a Carnot engine operating across the same extreme temperatures because heat addition and rejection occur over temperature ranges.
-The Otto cycle models spark-ignition piston engines and is limited by compression ratio, knock, heat loss, and combustion irreversibility.
-The Diesel cycle models compression-ignition engines and benefits from higher compression ratios but still rejects substantial heat.
-The Brayton cycle models gas turbines and jet engines, where compressor work and turbine-inlet temperature strongly affect efficiency.
-Combined-cycle plants pair a Brayton topping cycle with a Rankine bottoming cycle to recover exhaust heat.
-Even the best combined cycles remain below Carnot limits because their heat transfer, combustion, and turbomachinery are irreversible.
-
-## Refrigerators and Heat Pumps
-
-Running the Carnot cycle backward gives an ideal refrigerator or heat pump.
-Instead of producing work from heat flow, the reversed cycle consumes work to move heat from cold to hot.
-For a refrigerator, the useful effect is heat removed from the cold space.
-For a heat pump, the useful effect is heat delivered to the warm space.
-The coefficient of performance can be greater than one because the device moves heat rather than creating heat from work alone.
-A small temperature lift gives a high ideal coefficient of performance.
-A large temperature lift gives a lower coefficient of performance and greater compressor work.
-Real vapor-compression systems differ from the reverse Carnot cycle because they use throttling valves, non-isentropic compressors, and finite heat-exchanger differences.
-The Carnot refrigerator nevertheless remains the reference limit for cooling and heat-pump analysis.
-
-## Engineering Significance
-
-The Carnot cycle gives engineers a simple way to distinguish energy quantity from energy quality.
-A joule of heat at high temperature can yield more work than a joule of heat near [[jadam-ambient-temperature-principle]].
+The [[jadam-ambient-temperature-principle]].
 This idea underlies exergy analysis, which measures maximum useful work relative to the environment.
 Power-plant designers use Carnot reasoning to justify higher boiler temperatures, lower condenser temperatures, reheat, regeneration, and combined cycles.
 Materials engineers use it to understand why hotter turbines promise higher efficiency but demand creep-resistant alloys and cooling systems.
@@ -142,8 +102,6 @@ It does not tell engineers how to build a machine directly.
 It tells them what losses matter, what improvements are thermodynamically meaningful, and what goals are impossible.
 ## See Also
 
-- [[rankine-cycle]]
 - [[laws-of-thermodynamics]]
-- [[heat-transfer-mechanisms]]
 - [[heat-exchanger-effectiveness-ntu]]
 - creep deformation high temperature materials

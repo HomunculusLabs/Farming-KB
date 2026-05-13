@@ -25,7 +25,7 @@ The Romans apparently obtained their knowledge of mushrooms through the Greeks, 
 
 ### The "Boletus" — Roman Delicacy
 
-The "boletus" (supposedly referring to *Amanita Casarea*, the Royal Agaric) was always reckoned among the delicacies or luxuries:
+The "boletus" (supposedly referring to *[[amanita]] Casarea*, the Royal Agaric) was always reckoned among the delicacies or luxuries:
 
 - Martial says "it is hard to give up the boleti"
 - In reproving Cacilianus for gluttony: "In the presence of an invited assemblage you alone eat boleti"
@@ -43,11 +43,7 @@ If *Boletus edulis* is the same as the fungus known to the Romans as "suilli," t
 
 ### Meadow Mushrooms
 
-Catius states that "the fungi which frequent the open meadows are those that are to be trusted." There is nothing to indicate that the common mushroom *[[agaricus-campestris]]* was used at that time, except possibly we may read this into the information that the mushrooms of the open meadow were regarded as trustworthy.
-
-### The Terfas of Classical Antiquity
-
-The references to subterranean fungi in Theophrastus and other classical authors clearly concern the terfas (Terfeziaceae) of North Africa and the Middle East, not the [[european-truffles]]. The terfas were known to the Greeks but there is apparently no evidence that the European truffles were.
+Catius states that "the fungi which frequent the open meadows are those that are to be trusted." There is nothing to indicate that the common mushroom *[[european-truffles]]. The terfas were known to the Greeks but there is apparently no evidence that the European truffles were.
 
 ## Food Value of Mushrooms
 
@@ -84,10 +80,9 @@ Approximate nutritional comparison per unit fresh weight:
 | Cabbage | 90% | 2% | 0.3% | 5% | 140 |
 | Potatoes | 78% | 2% | 0.1% | 18% | 400 |
 | Flour | 12% | 12% | 1% | 73% | 1700 |
-| [[coprinus-comatus]] | 92% | 3% | 0.3% | 4% | 300 |
 | [[pleurotus-ostreatus]] | 90% | 3% | 0.5% | 5% | 350 |
 | [[morchella-esculenta]] | 90% | 3% | 0.3% | 5% | 330 |
-| Agaricus campestris | 91% | 3% | 0.4% | 4% | 320 |
+| [[agaricus-campestris]] | 91% | 3% | 0.4% | 4% | 320 |
 | Oysters | 87% | 6% | 1.2% | 4% | 500 |
 
 ### The Bottom Line

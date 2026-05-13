@@ -13,16 +13,7 @@ type: concept
 
 ## Overview
 
-The application of the brassinosteroid 22S,23S-homobrassinolide to a horse dung and rice grain substrate demonstrated significant enhancement of fruiting in [[psilocybe-cubensis]] natural ecology
-- **Rice grain**: supplementing the dung with readily available carbohydrates to accelerate colonization
-- **Water**: at a ratio producing a moist but not waterlogged substrate
-- **KH₂PO₄**: added at 5 g per liter of substrate as a phosphorus and potassium supplement
-
-The combination of dung and grain is a traditional approach for cultivating coprophilous Psilocybe species, as it mimics the nutrient profile found in the natural substrate of herbivore manure enriched with partially digested grasses and grains.
-
-## Brassinosteroid Application Rate
-
-The brassinosteroid was applied at a concentration of **10⁻² ppm** (0.01 ppm, or 10 parts per billion). This extremely low concentration is consistent with brassinosteroid activity in plants, where these compounds are active at nanomolar concentrations. The synthetic 22S,23S-homobrassinolide was prepared from [[psilocybe-cubensis]].
+The application of the brassinosteroid 22S,23S-homobrassinolide to a horse dung and rice grain substrate demonstrated significant enhancement of fruiting in [[psilocybe-cubensis]].
 
 This morphological change raises important considerations for:
 
@@ -34,36 +25,7 @@ This morphological change raises important considerations for:
 
 The same brassinosteroid at the same concentration was tested on 6% malt agar, where mycelial growth was 2 to 3 times faster than controls. The dung/grain substrate experiments extended these findings by demonstrating that the growth-promoting effects translate from simple defined media to complex natural substrates, which is essential for practical cultivation applications.
 
-The more pronounced effects on the dung/grain substrate (where fruiting was actually observed, unlike on agar) suggest that the brassinosteroid may be particularly effective at the transition from vegetative to [[knf-reproductive-growth-stage]], a developmental stage that only occurs on nutritionally appropriate substrates.
-
-## Implications for Commercial Cultivation
-
-The findings suggest several practical applications:
-
-- **Reduced crop cycle time**: 1 to 2 week shorter production cycles
-- **Higher first flush yields**: fewer total flushes needed to reach target production
-- **Lower abort rates**: more efficient conversion of substrate to product
-- **Minimal input cost**: effective at parts-per-billion concentrations
-
-However, the morphological changes (annulus loss) and the current regulatory status of brassinosteroids as plant [[ingham-natural-growth-regulators-soil-microbes]] may limit commercial adoption. The synthetic preparation from [[psilocybe-cubensis]] known for its "high stability" ensured that observed effects were due to the brassinosteroid treatment rather than strain-specific variability.
-
-The consistent results across ten runs argue strongly against a placebo or偶然 effect. The probability of consistently observing 25 to 30% faster fruiting, 2 to 3.5-fold higher first flush counts, and 30 to 48% greater dry mass by chance alone is vanishingly small.
-
-## Relationship to Plant Brassinosteroid Biology
-
-In the plant kingdom, brassinosteroids are recognized as the sixth major class of plant hormones, alongside auxins, gibberellins, cytokinins, abscisic acid, and ethylene. They regulate:
-
-- Cell elongation and division
-- Vascular differentiation
-- Reproductive development
-- Stress responses (drought, temperature, salinity)
-- Photomorphogenesis and senescence
-
-The finding that these plant hormones also affect fungal growth and development suggests either:
-
-1. **Conserved signaling pathways**: Fungi may possess receptor systems that recognize brassinosteroids, possibly because of the evolutionary relationship between fungi and plants or through horizontal gene transfer
-2. **Membrane effects**: As steroidal compounds, brassinosteroids may directly alter fungal membrane fluidity or permeability, affecting nutrient uptake and signaling
-3. **Metabolic interaction**: Brassinosteroids might modulate [[biodiversity-fungal-secondary-metabolites]] metabolism, redirecting resources from defensive or stress-related pathways toward growth and reproduction
+The more pronounced effects on the dung/grain substrate (where fruiting was actually observed, unlike on agar) suggest that the brassinosteroid may be particularly effective at the transition from vegetative to [[ingham-natural-growth-regulators-soil-microbes]] may limit commercial adoption. The synthetic preparation from [[biodiversity-fungal-secondary-metabolites]] metabolism, redirecting resources from defensive or stress-related pathways toward growth and reproduction
 
 The anti-stress effects observed in plants treated with brassinosteroids parallel the suppression of abortive fruit bodies in the fungus, suggesting a common mechanism of maintaining cellular homeostasis under metabolic stress.
 
@@ -74,18 +36,14 @@ The dung/grain substrate already contained KH₂PO₄ as a mineral supplement. T
 Other known fungal growth promoters include:
 
 - **Plant auxins** (IAA, NAA): reported effects on mycelial growth rate in some species
-- **Cytokinins**: limited evidence for [[brassinosteroid-effects-on-fungal-morphology]] fruiting
-- **Gibberellins**: primarily studied for effects on plant-fungal interactions rather than direct fungal [[brassinosteroid-growth-promotion-psilocybe-cubensis]]
+- **Cytokinins**: limited evidence for [[brassinosteroid-growth-promotion-psilocybe-cubensis]]
 - **Fungal extracts**: various crude extracts have shown biostimulant effects, but these are poorly characterized
 
 The brassinosteroid results are notable because they represent one of the few well-documented cases of a defined plant hormone producing significant, reproducible effects on both vegetative and reproductive growth in a cultivated mushroom species.
 
 ## See Also
 
-- [[horse-dung-rice-grain-substrate-preparation]]
-
 - [[brassinosteroid-mushroom-yield-dry-mass]]
-- [[22s-23s-homobrassinolide-chemistry-and-synthesis]]
 - [[brassinosteroid-effects-on-fungal-morphology]]
 
 ## Practical Applications
@@ -117,8 +75,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[brassinosteroid]]
 - [[doc]]
-- [[dom]]
 - [[homobrassinolide]]
 - [[brassinosteroids]]

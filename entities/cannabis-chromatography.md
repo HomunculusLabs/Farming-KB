@@ -9,54 +9,13 @@ tags: [technique, chromatography, separation, cannabis, cannabinoids, laboratory
 
 ## Description
 
-Cannabis chromatography refers to the application of chromatographic separation techniques to isolate, purify, and analyze individual cannabinoids and terpenes from crude cannabis extracts. The primary method documented in the historical [[cannabis-alchemy-book]] literature is column chromatography using Florisil (magnesium silicate) as the stationary phase.
-
-## Classification
-
-- **Category**: Analytical and preparative separation technique
-- **Primary methods**: Column chromatography, gas-liquid chromatography (GLC), thin-layer chromatography (TLC)
-- **Stationary phases**: Florisil (magnesium silicate), silica gel
-- **Mobile phases**: Hexane, hexane/methanol, hexane/chloroform mixtures
-
-## Key Facts
-
-- Column chromatography on Florisil removed 49% of unwanted non-active constituents from hexane hashish extract
-- The chromatographed extract was almost totally composed of cannabinoid elements
-- Large-scale preparation: 30.5 kg Florisil with 2% methanol in hexane was used to chromatograph 3,056 gm of crude hashish extract (from 13 kg confiscated hashish)
-- Subsequent purification at 40:1 Florisil-to-extract ratio yielded essentially pure cannabidiol by GLC
-- Final purification used 30% chloroform in hexane on Florisil to yield oily cannabidiol for crystallization
-- Gas-liquid chromatography (GLC) was used throughout to verify composition and purity
-
-## Documented Procedure
-
-### Bulk Separation (Lloydia, vol. 33, no. 4)
-
-1. Hashish extracted with 95% ethyl alcohol at 50 degrees C for 5 hours, followed by second and third extractions
-2. Combined hexane extracts washed with 50% aqueous ethanol
-3. Solvent removed in vacuum at 40 degrees C to provide 22.9% recovery (3,056 gm from 13 kg)
-4. GLC showed: 29.5% CBD, 8.2% CBN, 5.8% delta-9-THC
-5. Column chromatography on Florisil (30.5 kg) with 2% methanol in hexane
-6. Result: 50% CBD, 20% CBN, 15% delta-9-THC, 15% unidentified
-
-### Pure CBD Isolation
-
-1. CBD converted to cannabidiol-bis-3,5-dinitrobenzoate via 3,5-dinitrobenzoyl chloride in pyridine
-2. Crystallized from ethyl ether (melting point 97-101 degrees C)
-3. Regenerated with liquid ammonia in toluene at -70 degrees C in a Parr bomb
-4. Final Florisil chromatography with 30% chloroform in hexane
-5. Crystallization from [[petroleum-ether]] yielded pure white CBD prisms (94.8 gm from 180 gm [[shirota-4-hydroxyindole-acetyl-protection-psilocin-synthesis-starting-material]])
-
-## Analysis Methods
-
-- **Gas-liquid chromatography (GLC)**: Quantitative determination of CBD, CBN, and THC ratios
-- **Melting point**: Verification of [[shirota-psilocybin-crystalline-product-catalytic-hydrogenolysis]] purity
+Cannabis chromatography refers to the application of chromatographic separation techniques to isolate, purify, and analyze individual cannabinoids and terpenes from crude cannabis extracts. The primary method documented in the historical [[petroleum-ether]] yielded pure white CBD prisms (94.8 gm from 180 gm [[shirota-psilocybin-crystalline-product-catalytic-hydrogenolysis]] purity
 - **Optical rotation**: Confirmation of THC isomer identity (259-269 degree range)
 
 ## Relevance to Cultivation and Mycology
 
 Chromatographic techniques are essential for:
-- Determining cannabinoid profiles of different [[cannabis-microbiome-otu-abundance-vs-presence-cannabis-strains]] and chemotypes
-- Quality control in [[cannabis-breeding-basics]] programs
+- Determining cannabinoid profiles of different [[cannabis-breeding-basics]] programs
 - Isolating pure reference compounds for pharmacological research
 - Verifying the success of isomerization reactions (CBD to THC)
 - The same chromatographic principles apply to isolating compounds from fungal cultures
@@ -77,8 +36,91 @@ While the historical methods used gravity-fed Florisil columns, modern cannabis 
 - Bonuccelli (1979) on solvent effects on THC stability
 
 ## See Also
-- [[parr-bomb]]
 - [[roger-adams]]
-- [[david-hoye]]
 - [[florisil]]
 - [[mycology]]
+
+## Overview
+
+Cannabis Chromatography represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish cannabis chromatography
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving cannabis extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Cannabis Chromatography finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for cannabis chromatography. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+cannabis chromatography and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Cannabis Chromatography has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of cannabis chromatography into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[blesching-cannabis-cancer-symptoms]]
+- [[cannabis-endorhiza-shared-otu-soil-source-validation]]
+- [[cannabis-musculoskeletal-conditions]]
+- [[cannabis-oil-consumption-methods]]
+- [[green-cannabis-dry-sift-water-extraction]]

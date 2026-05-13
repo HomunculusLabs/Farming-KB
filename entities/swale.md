@@ -24,8 +24,7 @@ sources:
 
 ## Overview
 
-A **swale** is a shallow, level trench excavated along the contour of a slope with excavated soil placed downslope to form a berm. Swales capture, slow, and infiltrate surface runoff, converting destructive erosion into productive groundwater recharge. They are among the most widely used earthworks in [[bill-mollison]] and [[hugelkultur]] on berm:** Bury logs inside berm for long-term moisture retention and [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]]
-- **[[keyline-design]] integration:** Swales infiltrate on-contour; keyline subsoiling spreads off-contour — complementary
+A **swale** is a shallow, level trench excavated along the contour of a slope with excavated soil placed downslope to form a berm. Swales capture, slow, and infiltrate surface runoff, converting destructive erosion into productive groundwater recharge. They are among the most widely used earthworks in [[hugelkultur]] on berm:** Bury logs inside berm for long-term moisture retention and [[keyline-design]] integration:** Swales infiltrate on-contour; keyline subsoiling spreads off-contour — complementary
 - **Chinampas comparison:** Swales use rainfall runoff on slopes; chinampas use lake wicking on flat margins
 
 ## Common Mistakes
@@ -38,18 +37,7 @@ A **swale** is a shallow, level trench excavated along the contour of a slope wi
 
 ## Case Studies
 
-- **[[comparison-sepp-holzer-vs-biodynamic]]'s Krameterhof (Austria):** 70+ swale/pond systems across 45 ha at 1,100–1,500 m elevation; integrated with terraces and hugelkultur; year-round food production in marginal alpine climate
-- **Geoff Lawton's Jordan Project:** <100 mm/yr rainfall; 1.5 km of swales on 10-acre degraded salt flat; first vegetation in 3 months, productive food forest in 3 years; local water table rose several meters
-- **Mark Shepard's New [[mollison-designers-small-forest-farm-cool-humid-layout]] (Wisconsin):** 106-acre perennial system on former row-crop land; contour swales + keyline + [[comparison-alley-cropping-vs-silvopasture]]; 100,000+ trees/shrubs established; no irrigation needed at ~850 mm/yr
-
-## Maintenance
-
-- **First year:** Inspect after every significant rain; re-mulch bare spots within 48 hrs; replant failures before rainy season; remove sediment if capacity reduced >25%
-- **Ongoing:** Annual spillway and vegetation inspection; monitor berm tree health; re-excavate every 5–10 years if sediment significantly reduces capacity
-## See Also
-
-- [[keyline-design]] — landscape-scale water management often paired with swales
-- [[biochar]] — amendment enhancing swale infiltration and water retention
+- **[[mollison-designers-small-forest-farm-cool-humid-layout]] (Wisconsin):** 106-acre perennial system on former row-crop land; contour swales + keyline + [[keyline-design]] — landscape-scale water management often paired with swales
 - [[mark-shepard]] — broadscale perennial agriculture integrating swales
 ## Practical Considerations
 
@@ -88,3 +76,75 @@ than assuming perfect predictability or control over outcomes.
 
 Documentation and record-keeping support continuous improvement by
 creating a reference base of observations, interventions, and results.
+
+## Overview
+
+Swale represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish swale
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving swale extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Swale finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for swale. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+swale and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Swale has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of swale into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions

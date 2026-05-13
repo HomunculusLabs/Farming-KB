@@ -1,8 +1,6 @@
 ---
 title: "Mushroom Nutrified Agar Media Formulations"
-source: "Growing Gourmet and [[cancer-medicinal-mushrooms-extraction-bioavailability]] (Stamets)"
-aliases:
-  - agar recipes [[accessible-mushroom-cultivation-for-disabilities]]
+source: "Growing Gourmet and accessible-mushroom-cultivation-for-disabilities
   - malt extract yeast agar MYA
   - potato dextrose yeast agar PDYA
   - mushroom tissue culture media
@@ -19,7 +17,7 @@ tags:
 
 ## Overview
 
-Many formulations have been developed for cultivating mushrooms on semi-solid agar media. Agar is a seaweed-derived compound that gelatinizes water. Nutrients are added to the agar-water base which, after sterilization, promote healthy [[antimicrobial-compounds-mushroom-mycelium]]. The agar medium most commonly used with the greatest success is a fortified version of Malt Extract Agar (MEA). Paul Stamets recommends four primary nutrified agar media [[grass-seed-substrate-for-mushroom-cultivation]].
+Many formulations have been developed for cultivating mushrooms on semi-solid agar media. Agar is a seaweed-derived compound that gelatinizes water. Nutrients are added to the agar-water base which, after sterilization, promote healthy [[grass-seed-substrate-for-mushroom-cultivation]].
 
 ## The Role of Agar
 
@@ -39,7 +37,7 @@ Increasingly, pollution has affected the refinement of tissue-grade agar, causin
 | Nutritional yeast | 2 grams |
 | Peptone (optional, soybean derived) | 1 gram |
 
-This is the most commonly used [[cultivator-contaminants-of-mushroom-culture]] medium. With the peptone supplement (which is not critical for most species), the medium is designated **MYPA**. Malt extracts provide sugars and an assortment of basic minerals, vitamins, and salts helpful for [[mushroom-mycelium-growth-monitoring-colonization-cues]].
+This is the most commonly used [[mushroom-mycelium-growth-monitoring-colonization-cues]].
 
 ### Potato, Dextrose, Yeast Agar (PDYA / PDYPA)
 
@@ -87,3 +85,7 @@ Dog food was first used as a component for agar medium by the late Dr. Steven Po
 | Nutritional yeast | 1 gram |
 
 CMYA is widely used by mycological laboratories for storing cultures but is not as nutritious as the other formulations described above.
+
+## See Also
+
+- [[mushroom-agar-media-pouring-sterilization-techniques]]

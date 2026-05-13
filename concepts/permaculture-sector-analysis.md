@@ -97,24 +97,6 @@ Once the sector diagram is complete, it tells the designer where to place elemen
 - Views should be managed: create destinations (lookouts in Zone 3) rather than trying to see everything from the house
 - For every element placed, the designer must be able to answer "Why did you put that there?" with multiple reasons
 
-## Design Applications
-Permaculture design principles emphasize multi-functional elements,
-efficient energy cycling, and working with natural patterns rather
-than against them. Integration with existing landscape features
-maximizes productivity while minimizing external inputs.
-
-## Implementation Notes
-Practical implementation requires site-specific adaptation considering
-local climate, soil conditions, available resources, and the grower's
-experience level. Observation and iterative refinement over multiple
-seasons produce the most resilient and productive systems.
-
-## See Also
-- [[permaculture-zone-and-sector-analysis]]
-- [[bill-mollison-permaculture-a-designers-manual-zone-and-sector-analysis]]
-- [[ozier-pdc-sector-analysis-for-site-design]]
-- [[permaculture-site-analysis-mollison]]
-- [[zone-sector-analysis-guide]]
 ## Related Concepts
 
 - [[permaculture-zone-and-sector-analysis]]

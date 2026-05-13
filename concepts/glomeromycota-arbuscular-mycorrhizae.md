@@ -11,7 +11,7 @@ sources: []
 
 ## Overview
 
-The phylum Glomeromycota comprises the [[arbuscular-mycorrhizal-fungi]] (AMF), which form the most widespread and ancient symbiotic relationship between fungi and land plants. Dating back over 450 million years, AMF associations are found in over 80% of all terrestrial plant species and are fundamental to plant nutrition, soil health, and [[dighton-mycorrhizal-diversity-ecosystem-function]]. See [[fungal-symbiosis-types]] for the broader context of fungal symbiosis types, and [[mycorrhizal-inoculation-guide]] for practical application methods.
+The phylum Glomeromycota comprises the arbuscular mycorrhizal fungi (AMF), which form the most widespread and ancient symbiotic relationship between fungi and land plants. Dating back over 450 million years, AMF associations are found in over 80% of all terrestrial plant species and are fundamental to plant nutrition, soil health, and ecosystem function. See [[fungal-symbiosis-types]] for the broader context of fungal symbiosis types, and [[mycorrhizal-inoculation-guide]] for practical application methods.
 
 ## Phylum Glomeromycota
 
@@ -36,14 +36,14 @@ The phylum Glomeromycota comprises the [[arbuscular-mycorrhizal-fungi]] (AMF), w
 ### Rhizophagus (formerly Glomus intraradices group)
 
 - One of the most commercially important AMF genera
-- [[rhizophagus-irregularis]] (syn. Glomus intraradices) is the most widely used species in commercial inoculants
+- Rhizophagus irregularis (syn. Glomus intraradices) is the most widely used species in commercial inoculants
 - Colonizes a very broad range of host plants
 - Produces abundant intraradical vesicles and arbuscules
 - Spores are small (100-200 um), yellow-brown
 
 ### Funneliformis (formerly Glomus mosseae group)
 
-- [[funneliformis-mosseae]] is a cosmopolitan species found in agricultural soils worldwide
+- Funneliformis mosseae is a cosmopolitan species found in agricultural soils worldwide
 - Large, distinctive spores (200-400 um) with a layered wall structure
 - Common in disturbed and agricultural soils
 - Good colonizer of many crop species
@@ -141,10 +141,10 @@ The plant regulates the symbiosis based on phosphorus status: low P promotes AMF
 
 ### Phosphorus Uptake
 
-The most well-documented benefit of AMF colonization:
-- AMF hyphae access soil volumes that roots cannot reach
-- Phosphate diffuses slowly in soil; AMF hyphae extend the depletion zone
-- AMF can access organic phosphorus sources through phosphatase secretion
-- Typical P uptake increase: 30-80% in low-P soils
+## See Also
 
-### Drought Tolerance
+- [[biodiversity-glomeromycota-diversity]]
+- [[proteomics-early-arbuscular-mycorrhiza-symbiosis]]
+- [[comparison-arbuscular-vs-ectomycorrhizal]]
+- [[singh-arbuscular-mycorrhizal-diversity-grassland-ecosystems]]
+- [[arbuscular-mycorrhizal-network-visualization-anastomosis]]

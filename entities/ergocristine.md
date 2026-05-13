@@ -15,50 +15,14 @@ sources:
   - "Berde, B. & Schild, H.O. (1978). claviceps-purpurea-chemistry-and-water-soluble-ergot-alkaloids and Related Compounds. Springer-Verlag."
   - "Hofmann, A. (1978). \"Ergot Alkaloids.\" In: The Chemistry of Psychoactive Alkaloids. Springer."
   - "Schardl, C.L. et al. (2006). \"Ergot Alkaloids—Biology and Molecular Biology.\" Alkaloids: Chemistry and Biology, 63, 45–86."
-  - "Pertz, H.H. & Eich, E. (1999). \"Ergot Alkaloids and Their Derivatives as Ligands for [[psilocybin-pharmacology-and-serotonin-receptors]].\" CNS Drug Reviews, 5(3), 213–234."
-  - "Gröger, D. & Floss, H.G. (1998). \"Biochemistry of Ergot Alkaloids.\" In: Biochemistry of Microbial Degradation, 317–347."
----
-
-# Ergocristine
-
-## Overview
-
-Ergocristine is a peptide ergoline alkaloid of the ergotamine group, produced
-naturally by the sclerotium of *[[bloomfield-ergot-claviceps-purpurea-ergotism]]* ([[ergot-fungus]]).
-It is one of four major ergopeptine alkaloids found in ergot, alongside
-ergotamine, ergocryptine, and ergocornine.
-
-Ergocristine is the epimer of ergocristinine; the pair undergoes reversible
-epimerization in solution, which is a characteristic property of ergopeptines.
-It has pharmaceutical relevance as a precursor and structural analog of
-bromocriptine and cabergoline, both widely used dopamine agonists.
-
-## Chemical Properties
-
-- **Chemical class:** Ergopeptine (peptide ergoline alkaloid)
-- **IUPAC name:** (5'R)-12'-hydroxy-2',5'-dimethyl-3'-(2-methylpropyl)-ergotaman-3',6',18-trione
-- **Molecular formula:** C35H39N5O5
-- **Molecular weight:** 609.72 g/mol
-- **CAS Registry Number:** 511-08-0
-- **Melting point:** 178–180 °C (decomposes)
-- **Solubility:** Sparingly soluble in water; soluble in chloroform, ethanol, and
-  dilute acids as the tartrate salt
-
-The core structure consists of the tetracyclic ergoline ring system
-(LSD skeleton) linked via an amide bond to a cyclol tripeptide moiety
-composed of alanine, phenylalanine, and proline.
-
-## Biosynthesis and Occurrence
-
-Ergocristine is biosynthesized in *[[claviceps-purpurea]]* through the
+  - "Pertz, H.H. & Eich, E. (1999). \"Ergot Alkaloids and Their Derivatives as Ligands for [[bloomfield-ergot-claviceps-purpurea-ergotism]]* ([[claviceps-purpurea]]* through the
 ergot alkaloid pathway:
 
 1. **Prenylation of L-tryptophan** by dimethylallyltryptophan synthase
    (DMATS) to form 4-dimethylallyl-L-tryptophan.
 2. **Oxidative ring closure** to produce chanoclavine-I, then
    agroclavine via the enzyme cloA (cytochrome P450).
-3. **Hydroxylation** of agroclavine at C-17 to yield [[ergot-and-lysergic-acid-history]].
-4. **Activation** of [[ergot-fungi-lysergic-acid-and-the-history-of-ergotism]] as lysergyl-adenylate by the
+3. **Hydroxylation** of agroclavine at C-17 to yield [[ergot-fungi-lysergic-acid-and-the-history-of-ergotism]] as lysergyl-adenylate by the
    non-ribosomal peptide synthetase (NRPS) complex, followed by
    sequential incorporation of alanine, phenylalanine, and proline
    into the tripeptide chain.
@@ -88,3 +52,80 @@ receptors and adrenergic receptors:
 **⚠️ Toxicity:** Like all ergopeptines, ergocristine causes ergotism
 (St. Anthony's Fire) at excessive doses — symptoms include severe
 vasoconstriction, gangrene, hallucinations, and convulsions.
+
+## Overview
+
+Ergocristine represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish ergocristine
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving ergocristine extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Ergocristine finds practical application in multiple design contexts.
+[[permaculture-principles]] guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for ergocristine. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+ergocristine and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Ergocristine has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of ergocristine into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.

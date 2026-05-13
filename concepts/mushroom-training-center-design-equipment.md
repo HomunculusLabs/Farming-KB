@@ -54,15 +54,7 @@ Eight mushroom houses serve two distinct purposes:
 
 1. **Spawn bagging & inoculation building**: 7×11 m, concrete floor; store room
    2.5×3 m; inoculation room 3×4 m with concrete walls for sterile work
-2. **[[cotter-grain-spawn-production]] building**: ~138 sq.m. for clean-environment spawn development
-3. **2 Incubation houses**: ~60 sq.m. each, 5,000 bags capacity. Hard/concrete floor;
-   iron/wood/bamboo structural frame; 2-layer grass roof for insulation; saland wall
-   construction; iron/wood/bamboo racks; trolley and wheelchair aisles ≥1.20 m wide
-4. **6 Fruiting body houses**: ~60 sq.m. each, 5,000 bags capacity per house. Same
-   construction specifications as incubation houses; aisles ≥1.20 m wide
-5. **2–3 Country-style mushroom houses**: small-scale demonstration units showing
-   low-cost, accessible construction methods trainees can replicate
-6. **Multi-purpose building**: classroom space, trainer's office, [[mushroom-processing]],
+2. **[[mushroom-processing]],
    product sales counter, and raw material storage under one roof
 
 ### Pasteurization and Sterilization Equipment
@@ -71,15 +63,7 @@ Eight mushroom houses serve two distinct purposes:
 |---|---|
 | Pasteurization chamber (steam) | 500-bag capacity, includes thermometer |
 | Pasteurization chamber (country-style) | 500-bag capacity |
-| Autoclave (small) | 30-bottle capacity for [[sorghum-seed-spawn-production]] |
-| Autoclave (large) | 120-bottle capacity for sorghum seed spawn |
-| Steam boiler system | Green fuel powered |
-| Gas burners with tanks | 3 units |
-
-### Inoculation Tools
-- **12 alcohol lamps** and **12 needles** for tissue culture work
-- **2 laminar flow inoculation hoods** with HEPA filter (1 cu ft each)
-- **2 press and drill machines** for [[substrate-bag-preparation]]: one manual-handle model,
+| Autoclave (small) | 30-bottle capacity for [[substrate-bag-preparation]]: one manual-handle model,
   one motorized model — both designed to assist people with disabilities
 
 ### Drying and Processing Equipment
@@ -140,10 +124,5 @@ domains, ensuring appropriate placement and support:
 
 ## Accessibility Considerations
 
-Accessibility is a core principle throughout the [[cultivation-facility-design]]:
-- All production houses maintain **aisle widths ≥ 1.20 m** for trolley and wheelchair passage
-- Equipment includes disability-friendly features: manual-handle press machines, 3-wheel
-  manually powered trolleys
-- The multi-purpose building centralizes activities to minimize unnecessary travel
-- Country-style demonstration houses model low-cost, low-barrier [[pdc-earthen-construction-techniques]]
+Accessibility is a core principle throughout the [[pdc-earthen-construction-techniques]]
   suitable for trainees to replicate at home after training

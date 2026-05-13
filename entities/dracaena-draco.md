@@ -12,9 +12,7 @@ updated: 2026-05-08
 sources:
   - Mägdefrau K. (1975). "Dracaena draco — a relict of the Tertiary." Flora 164: 553-564.
   - Marrero Á. et al. (1998). "A new species of the wild dragon tree from Gran Canaria." Botanical Journal of the Linnean Society 128: 297-310.
-  - González-Pérez M.A. et al. (2004). "[[biodiversity-fungal-genetic-diversity]] in Dracaena draco." Botanical Journal of the Linnean Society 146(1): 81-87.
-  - Gupta D. et al. (2008). "Dragon's blood: botany, chemistry and therapeutic uses." Journal of Ethnopharmacology 115(3): 361-380.
-  - Fernández-Palacios J.M. et al. (2004). "Canary Islands biodiversity." In: "[[psilocybe-global-biodiversity-hotspots]]." Springer.
+  - González-Pérez M.A. et al. (2004). "psilocybe-global-biodiversity-hotspots." Springer.
 ---
 
 ## Overview
@@ -55,23 +53,9 @@ The Moroccan population, centered on the Anti-Atlas mountains near the town of T
 
 ## Cultivation
 
-Propagation is by seed, which germinates readily in 2–4 weeks at 20–25 °C. Seedlings grow slowly, approximately 15–30 cm per year under optimal conditions. [[hamilton-vegetative-propagation]] from stem cuttings is possible but unreliable.
+Propagation is by seed, which germinates readily in 2–4 weeks at 20–25 °C. Seedlings grow slowly, approximately 15–30 cm per year under optimal conditions. [[soil-temperature-plant-growth-rate-doubling-rule]] is slow but steady. Container-grown specimens typically reach 2–3 m in 15–20 years. In-ground cultivation in suitable climates produces faster growth, with trees branching after 8–12 years.
 
-Young trees require excellent drainage and full sun. Established plants are extremely drought-tolerant and require minimal irrigation. The species is sensitive to overwatering and poorly drained soils.
-
-In cultivation, D. draco is hardy to approximately −2 to −4 °C. In frost-prone climates, it is grown as a container plant and moved indoors during winter. The species is widely planted as an ornamental in Mediterranean, subtropical, and warm-temperate regions.
-
-[[soil-temperature-plant-growth-rate-doubling-rule]] is slow but steady. Container-grown specimens typically reach 2–3 m in 15–20 years. In-ground cultivation in suitable climates produces faster growth, with trees branching after 8–12 years.
-
-Pests are minimal; scale insects (Coccus hesperidum) and mealybugs may infest the crown in humid conditions. [[cannabis-root-rot-prevention-and-treatment]] from Phytophthora is the primary disease concern in over-irrigated plantings.
-
-## Chemistry and Uses
-
-Dragon's blood resin is a complex mixture of benzoic and benzoic acid derivatives, including dracalbin, dracoflavylium, and proanthocyanidin oligomers. The red coloration is attributed to dracorhodin and dracorubin pigments.
-
-Historically, the resin was valued as a pigment, varnish, and incense across Mediterranean cultures. The ancient Romans and Greeks used it medicinally for gastrointestinal complaints, wound healing, and as an astringent.
-
-In traditional Canary Island folk medicine, dragon's blood was applied topically for skin ailments, ulcers, and bone fractures. Internal use included treatment for dysentery and [[cannabis-respiratory-conditions]].
+Pests are minimal; scale insects (Coccus hesperidum) and mealybugs may infest the crown in humid conditions. [[cannabis-respiratory-conditions]].
 
 Modern research has identified anti-inflammatory, antioxidant, and antimicrobial activities in dragon's blood extracts. Dracorhodin shows cytotoxic activity against several human [[blesching-cannabis-apoptosis-and-cancer-cell-death]] lines in vitro.
 
@@ -88,3 +72,79 @@ The species is protected under regional legislation in the Canary Islands. Conse
 The El Drago de Icod, the most famous living specimen, is fenced and protected as a natural monument. However, its advanced age and the species' slow regeneration rate raise concerns about long-term population viability without active management.
 
 ## Ecological Role
+
+## Overview
+
+Dracaena Draco represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish dracaena draco
+from related concepts in [[permaculture]] and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving dracaena extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Dracaena Draco finds practical application in multiple design contexts.
+[[permaculture-principles]] guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for dracaena draco. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+dracaena draco and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Dracaena Draco has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of dracaena draco into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.

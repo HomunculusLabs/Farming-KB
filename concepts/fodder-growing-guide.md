@@ -8,17 +8,7 @@ sources: []
 ---
 # Fodder Growing Guide
 
-Growing fodder — crops specifically cultivated for [[livestock-feed-formulation]] — reduces feed costs, improves animal nutrition, and increases homestead self-sufficiency. Fodder systems range from simple field crops to intensive sprouting operations, each suited to different scales and livestock types.
-
-## Types of Fodder Systems
-
-### Field Fodder Crops
-Traditional fodder crops grown in the field and harvested for storage:
-
-- **Hay** — Dried grasses and legumes (alfalfa, clover, timothy, orchardgrass). The backbone of winter feeding programs.
-- **Silage** — Fermented, high-moisture forage stored in anaerobic conditions. Corn silage is most common, but grass and small-grain silages work well.
-- **Haylage** — Intermediate between hay and silage; baled at higher moisture than hay and wrapped for fermentation.
-- **[[permaculture-plants-root-crops-and-tubers]]** — Mangel beets, turnips, rutabagas, and sweet potatoes. Excellent winter feed for cattle, sheep, and pigs.
+Growing fodder — crops specifically cultivated for [[permaculture-plants-root-crops-and-tubers]]** — Mangel beets, turnips, rutabagas, and sweet potatoes. Excellent winter feed for cattle, sheep, and pigs.
 
 ### Sprouted Fodder (Hydroponic)
 Growing cereal grains in trays for 7-10 days to produce green fodder:
@@ -27,16 +17,7 @@ Growing cereal grains in trays for 7-10 days to produce green fodder:
 - **Yield:** 1 lb of seed produces 6-8 lbs of fodder
 - **Space:** 100 sq ft of tray space feeds 2-3 adult goats or 1 cow daily
 - **Cycle:** 7-10 days from seed to feed; harvest daily for continuous supply
-- **Infrastructure:** Trays, rack system, automatic watering, [[cmh-grow-lights]] (optional)
-
-## Planning Fodder Production
-
-### Calculate Annual Needs
-- **Dairy cow:** 3-5 tons of hay per year plus supplemental grain
-- **Dairy goat:** 0.5-1 ton of hay per year
-- **Sheep:** 0.3-0.5 tons of hay per year
-- **Meat rabbits:** Minimal hay needs; primarily pellets and garden greens
-- See [[rabbit-husbandry-guide]])
+- **Infrastructure:** Trays, rack system, automatic watering, [[rabbit-husbandry-guide]])
 
 ## Field Fodder Production
 
@@ -55,16 +36,7 @@ Growing cereal grains in trays for 7-10 days to produce green fodder:
 - **Small-scale option:** Use 55-gallon drums or garbage bags for small batches
 
 ### Root Crops for Fodder
-- **Mangel beets** — The traditional winter fodder root. Can produce 15-20 tons/acre. Store in [[comparison-root-cellar-vs-ice-house]].
-- **Fodder beets** — Similar to mangels, higher sugar content.
-- **Turnips** — Fast-growing (60-90 days), can be grazed in place or harvested.
-- **Rutabagas** — Cold-hardy, store well, good for cattle and sheep.
-- **Sweet potatoes** — Excellent for pigs and poultry. Store warm (55-60°F).
-
-## Sprouted Fodder Systems
-
-### System Components
-1. **[[knf-seed-soaking-cannabis-germination]]** — Soak barley seeds for 12-24 hours in water with a splash of vinegar
+- **Mangel beets** — The traditional winter fodder root. Can produce 15-20 tons/acre. Store in [[knf-seed-soaking-cannabis-germination]]** — Soak barley seeds for 12-24 hours in water with a splash of vinegar
 2. **Draining and rinsing** — Drain and rinse 2-3 times daily during the first 3 days
 3. **Tray placement** — Spread soaked seeds evenly in trays with drainage holes (about 2 lbs per 10" x 20" tray)
 4. **Watering** — Automatic misting or manual watering 2-3 times daily
@@ -117,8 +89,8 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[permaculture]]
-- [[solomon-growing-root-crops-guide]]
-- [[bean-growing-guide]]
-- [[cannabis-guerrilla-growing-guide]]
-- [[garlic-growing-guide]]
+
+- [[fodder-pond-sequences]]
+- [[fodder-pond-sequences-and-polyculture]]
+- [[fodder-pond-sequences-and-yields]]
+- [[fodder-trees-livestock-permaculture]]

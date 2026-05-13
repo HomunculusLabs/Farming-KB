@@ -16,9 +16,9 @@ Despite extensive soil science, soil analysis services, and the best efforts of 
 
 ### Rock Breakdown
 
-Soil formation begins with rock decomposition driven by several agents:
+Soil formation begins with rock [[decomposition]] driven by several agents:
 
-- **Water**: Combines with common minerals such as felspars in rock, causing them to swell and fracture. Water then hydrates felspars to produce kaolin, clay, and potassium carbonate. The carbonates released make soil water a stronger carbonic acid than rain itself.
+- **Water**: Combines with common minerals such as felspars in rock, causing them to swell and fracture. Water then hydrates felspars to produce [[kaolin]], clay, and potassium carbonate. The carbonates released make soil water a stronger carbonic acid than rain itself.
 
 - **Atmospheric oxygen**: Dissolves in rain to oxidise iron minerals (pyrites), forming both haematite and sulphuric acid. This acid further dissolves metals, making water an effective rock decomposer.
 
@@ -84,10 +84,9 @@ It is not the purpose of people on earth to reduce all soils to perfectly balanc
 
 The largest job is the **restoration of soils and forests** for the health of the earth itself — not clearing or ruining more land, but putting in order what has been destroyed while attending to the modest area needed for survival and full nutrition.
 
-[[colin-tudge]] estimated that perhaps 60% of the British Isles could be returned to nature. [[john-jeavons]] estimated, based on garden productivity, that perhaps 94% of land could be returned to its own purposes. While these targets may not be achieved in the near term, the process of restoring forests and wilderness can begin now.
+[[john-jeavons]] estimated, based on garden productivity, that perhaps 94% of land could be returned to its own purposes. While these targets may not be achieved in the near term, the process of restoring forests and wilderness can begin now.
 
 ## See Also
 
-- [[singh-fungal-roles-in-soil-aggregate-formation]]
 - [[mollison-soil-formation-rates-and-erosion-costs]]
 - [[fungal-microaggregate-formation-and-soil-stability]]

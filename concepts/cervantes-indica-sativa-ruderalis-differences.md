@@ -71,23 +71,15 @@ Under international law, all cannabis is classified as *Cannabis sativa* regardl
 - **Purpose:** Cultivated exclusively for drugs, with much of the resin made into hashish
 - **Potency:** Known for high cannabinoid content
 - **Common examples:** Many different hash plants and Afghani strains
-- **[[neurotropic-fungi-taxonomic-confusion-and-identification]]:** Many growers and breeders do not distinguish *C. afghanica* from *C. indica*, lumping them both into the indica category
-
-## Hybrid Strains and Modern Breeding
-
-Modern [[oner-cannabis-breeding-fundamentals]] has extensively crossed the four subspecies to combine desirable traits. The goal is typically to combine the yield, density, and rapid flowering of indica/afghanica genetics with the potency, flavor, and cerebral effects of sativa strains. Ruderalis genetics have been incorporated primarily for their autoflowering trait, allowing harvests without [[blesching-cannabinoid-pharmacology]]. Indica-sativa hybrids represent the vast majority of modern commercial strains, while autoflowering ruderalis hybrids have become a significant market segment since the early 2000s.
-
-## Selecting the Right Subspecies for Growing Conditions
-
-The choice of subspecies has practical implications for cultivation strategy. Indica and afghanica strains are strongly preferred for indoor growing due to their compact stature, shorter flowering period (7-9 weeks), and higher yield per watt of light. Their dense buds require careful [[stamets-cultivator-humidity-management-fogging-systems]] to prevent bud mold. Sativa strains are better suited to [[query-how-do-i-choose-between-indoor-outdoor-and-greenhouse-cannabis-growing]] cultivation where their height is less problematic and their extended flowering period can be accommodated by natural seasons. Ruderalis hybrids (autoflowers) are ideal for climates with short [[jeavons-climate-adaptation-growing-seasons]] or for growers who want a simplified light-management regimen, though their yields are generally lower than photoperiod strains of similar quality.
+- **[[oner-cannabis-breeding-fundamentals]] has extensively crossed the four subspecies to combine desirable traits. The goal is typically to combine the yield, density, and rapid flowering of indica/afghanica genetics with the potency, flavor, and cerebral effects of sativa strains. Ruderalis genetics have been incorporated primarily for their autoflowering trait, allowing harvests without [[stamets-cultivator-humidity-management-fogging-systems]] to prevent bud mold. Sativa strains are better suited to [[jeavons-climate-adaptation-growing-seasons]] or for growers who want a simplified light-management regimen, though their yields are generally lower than photoperiod strains of similar quality.
 
 ## Chemical Profiles and Medicinal Considerations
 
-The four subspecies differ not only in morphology and growth pattern but also in their chemical profiles, which has significant implications for [[psilocybin-therapeutic-applications]]. Indica-dominant strains typically produce higher levels of CBD relative to THC, along with sedating terpenes like myrcene and linalool, making them preferred for pain management, insomnia, and anxiety. Sativa-dominant strains tend toward higher THC-to-CBD ratios with terpinolene and limonene, producing more stimulating effects suitable for daytime use, depression, and fatigue. Afghanica strains are particularly valued for [[cannabis-resin-production-and-quality-traits-clarke]] hashish making due to their abundant trichome coverage. Understanding these chemical differences is essential for medical cannabis patients selecting strains for specific conditions.
+The four subspecies differ not only in morphology and growth pattern but also in their chemical profiles, which has significant implications for [[cannabis-resin-production-and-quality-traits-clarke]] hashish making due to their abundant trichome coverage. Understanding these chemical differences is essential for medical cannabis patients selecting strains for specific conditions.
 
 ## Historical Context and Geographical Origins
 
-The four subspecies of cannabis reflect thousands of years of human selection in different geographical regions. Sativa varieties were selected in equatorial and tropical zones where long growing seasons and consistent day length favored tall, slow-maturing plants. Indica varieties evolved in the Hindu Kush mountain region, where short growing seasons, high altitude, and harsh conditions selected for compact, fast-flowering, resinous plants. Ruderalis developed in Central Asian latitudes with extreme temperature variation and very short summers, selecting for the autoflowering trait as an adaptation to a brief growing window. Afghanica was refined in the arid valleys of present-day Afghanistan for [[cannabis-hashish-production]], with selection pressure favoring maximum resin quantity. Understanding these origins helps explain the characteristic traits of each subspecies and guides appropriate strain selection for different [[mushroom-growing-environments]].
+The four subspecies of cannabis reflect thousands of years of human selection in different geographical regions. Sativa varieties were selected in equatorial and tropical zones where long growing seasons and consistent day length favored tall, slow-maturing plants. Indica varieties evolved in the Hindu Kush mountain region, where short growing seasons, high altitude, and harsh conditions selected for compact, fast-flowering, resinous plants. Ruderalis developed in Central Asian latitudes with extreme temperature variation and very short summers, selecting for the autoflowering trait as an adaptation to a brief growing window. Afghanica was refined in the arid valleys of present-day Afghanistan for [[mushroom-growing-environments]].
 
 ## Practical Applications
 
@@ -111,8 +103,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[cannabis-sativa]]
 - [[cannabis-ruderalis]]
-- [[cannabis-indica]]
 - [[hindu-kush]]
 - [[psilocybin]]

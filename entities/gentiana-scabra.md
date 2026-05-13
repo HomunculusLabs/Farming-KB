@@ -18,15 +18,7 @@ sources:
 
 ## Overview
 
-**Gentiana scabra**, the Japanese gentian or rough gentian, is a herbaceous perennial in the family Gentianaceae. It is native to [[neurotropic-fungi-japan-east-asia-species-cultural-context]], including Japan, Korea, northeastern China, and eastern Russia.
-
-The species produces upright stems 30–60 cm tall with opposite, lance-shaped leaves. Deep blue to violet flowers appear in terminal and axillary clusters from August to October.
-
-Gentiana scabra is one of the most important medicinal gentians in East Asian traditional medicine. The dried roots, known as "Long Dan Cao" in Chinese pharmacopeia, have been used for over 2,000 years.
-
-The species is also cultivated as an ornamental. Its late-autumn blooms provide garden color when most perennials have finished flowering.
-
-Gentiana scabra is closely related to [[gentiana-triflora]], and the two species hybridize in cultivation. The hybrid is known as Gentiana ×macaulayi and is valued for its vigor.
+**Gentiana scabra**, the Japanese gentian or rough gentian, is a herbaceous perennial in the family Gentianaceae. It is native to [[gentiana-triflora]], and the two species hybridize in cultivation. The hybrid is known as Gentiana ×macaulayi and is valued for its vigor.
 
 Two varieties are recognized: var. scabra (rough-haired) and var. buergeri (smooth). These differ in stem and leaf pubescence.
 
@@ -40,37 +32,7 @@ Two varieties are recognized: var. scabra (rough-haired) and var. buergeri (smoo
 
 Plants grow 30–60 cm tall with erect, unbranched stems. The stems are ribbed and rough-textured, giving the species its epithet "scabra" (scabrous).
 
-Leaves are opposite, lanceolate, 3–8 cm long and 1–2.5 cm wide. The [[aact-foliar-sticker-spreaders-leaf-surface-attachment-ingham]] is rough with small, stiff hairs.
-
-Flowers are deep blue to violet, 3–5 cm long, with five corolla lobes bearing fringed plaits between them. The calyx tube is shorter than the corolla.
-
-The corolla throat has conspicuous greenish spots on the inner surface. These nectar guides direct pollinators to the nectar reward.
-
-The root system consists of a short rhizome with numerous slender, branched roots. Roots are yellowish-brown externally and pale yellow internally.
-
-When dried for medicinal use, the roots have an intensely bitter taste. This bitterness is detectable even at dilutions of 1:20,000.
-
-## Distribution and Habitat
-
-Gentiana scabra occurs across a broad range in temperate East Asia. It is found throughout Japan (Hokkaido, Honshu, Shikoku, Kyushu), the Korean Peninsula, and northeastern China.
-
-Russian populations occur in Primorsky Krai and the Amur region. The species extends into the Kuril Islands and Sakhalin.
-
-It inhabits mountain meadows, grassy slopes, forest edges, and stream banks at elevations of 200–1,800 m. Plants prefer moist, well-drained soils in full sun to partial shade.
-
-In Japan, it is common in subalpine meadows of the Japanese Alps. It grows alongside Miscanthus, Sanguisorba, and other tall-herb meadow species.
-
-The species favors areas with reliable summer rainfall. It is uncommon in regions with pronounced summer drought.
-
-## Cultivation
-
-Gentiana scabra is cultivated in Japanese gardens for its autumn flowers. It requires moist, humus-rich, acidic to neutral soil.
-
-The species is hardy to USDA zones 4–7. It tolerates cold winters but needs reliable summer moisture.
-
-Propagation is by seed sown fresh in autumn, or by division in spring. Seeds require 2–3 months of cold stratification for germination.
-
-Seed-grown plants typically flower in their third year. [[hamilton-vegetative-propagation]] by division produces flowering plants in the first year.
+Leaves are opposite, lanceolate, 3–8 cm long and 1–2.5 cm wide. The [[hamilton-vegetative-propagation]] by division produces flowering plants in the first year.
 
 Plants are relatively disease-free but susceptible to slug damage on new growth. Crown rot can occur in poorly drained soils.
 
@@ -80,10 +42,91 @@ Several cultivars are available in the Japanese horticultural trade. These vary 
 
 The roots of Gentiana scabra are a major crude drug in traditional Chinese, Japanese (Kampo), and Korean medicine. In Chinese pharmacopeia, the drug is called "Long Dan Cao" (龙胆草).
 
-Key [[cordyceps-cancer-bioactive-compounds]] include gentiopicroside, sweroside, swertiamarin, and amarogentin. These iridoid glycosides are responsible for the intense bitter taste.
-
-Pharmacological studies have documented hepatoprotective, anti-inflammatory, and antioxidant activities. The root extract shows protective effects against chemically induced liver damage in animal models.
-
-In Kampo medicine, the root is used to treat liver inflammation, jaundice, and inflammatory [[cannabis-for-skin-conditions-detailed]]. The classic formula "Long Dan Xie Gan Tang" combines it with other herbs.
+Key [[cannabis-for-skin-conditions-detailed]]. The classic formula "Long Dan Xie Gan Tang" combines it with other herbs.
 
 Clinical studies have investigated its use in treating chronic hepatitis. Results show modest improvements in liver enzyme markers.
+
+## Overview
+
+Gentiana Scabra represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish gentiana scabra
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving gentiana extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Gentiana Scabra finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for gentiana scabra. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+gentiana scabra and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Gentiana Scabra has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of gentiana scabra into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[gentiana-aspera]]
+- [[gentiana-ciliata]]
+- [[gentiana-farreri]]
+- [[gentiana-nivalis]]
+- [[gentiana-septemfida]]

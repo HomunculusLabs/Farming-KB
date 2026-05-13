@@ -11,64 +11,22 @@ sources:
 
 # Meruliporia incrassata
 
-**Meruliporia incrassata** is a basidiomycete fungus and the primary cause of [[fungal-serpula-lacrymans-dry-rot-buildings]] in buildings in California and other parts of [[psilocybin-north-america-pacific-northwest]].
+**Meruliporia incrassata** is a basidiomycete fungus and the primary cause of [[psilocybin-north-america-pacific-northwest]].
 
 It is one of the most destructive wood-decay fungi affecting residential structures, capable of reducing homes to rubble and sawdust within remarkably short periods.
 
-Together with [[david-arora]] (1996) compared dry rot to "a horde of army ants in search of food," noting it will "overrun everything in its way: bricks, stones, tiles, plaster, drainpipes, wires, leather boots, cement floors, books, tea kettles, even corpses."
-
-## Growth and Spread
-
-The fungus enters buildings through several pathways:
-
-- Wooden posts making direct contact with soil
-- Soil accumulating under the bottom edge of stucco exteriors
-- Contact with exterior particle board underneath vinyl siding
-- Cracks in concrete slabs and holes for pipes or electrical work
-- Plumbing leaks providing moisture
-
-Once established in a basement, hyphae of dry [[comparison-white-rot-fungi-vs-trichoderma]] forge through the microscopic cells of hardwood beams, digesting cellulose walls.
+Together with [[comparison-white-rot-fungi-vs-trichoderma]] forge through the microscopic cells of hardwood beams, digesting cellulose walls.
 
 The brown colour of the decayed wood is due to the progressive concentration of dark-pigmented lignin.
 
-Unlike [[fungal-degradation-of-pcbs-by-white-rot-fungi]] fungi that extract lignin, [[comparison-brown-rot-vs-white-rot-bioremediation]] fungi like M. incrassata selectively remove cellulose.
+Unlike [[comparison-brown-rot-vs-white-rot-bioremediation]] fungi like M. incrassata selectively remove cellulose.
 
 ## Rhizomorphs and Water Transport
 
 A critical feature of M. incrassata is its ability to form strands and rhizomorphs that can conduct water indoors.
 
-Unlike [[serpula-lacrymans]].
-
-Both produce brown rot, form extensive rhizomorph networks, and can devastate buildings.
-
-The search for wild Serpula lacrymans has been conducted in the Himalayas, where its natural habitat has been studied.
-
-Both fungi are ironically very sensitive to dehydration despite their common name referring to dry conditions.
-
-They thrive in the wet interior of a beam but only emerge on surfaces if they remain damp and shaded from sunlight.
-
-## Comparison with Other Wood Decay Fungi
-
-Unlike indoor moulds such as [[coniophora-puteana]] and [[serpula-lacrymans]] for the European dry rot counterpart
-- [[gloeophyllum-trabeum]] for another brown rot species
-- [[stachybotrys-chartarum]] for an indoor mould with different biology
-## Practical Considerations
-
-When working with Meruliporia incrassata, several practical factors should be
-carefully considered to achieve optimal results. These include
-the specific conditions of the implementation context, available
-resources, timing requirements, and the interactions between this
-topic and other elements of the broader system. A holistic view
-that considers these interconnections produces better outcomes.
-
-Environmental conditions such as temperature, moisture, and
-seasonal patterns significantly influence results. Monitoring these
-variables and adapting practices accordingly is essential for success.
-The most effective practitioners develop keen observation skills and
-respond flexibly to changing conditions rather than following rigid
-protocols regardless of circumstances or local variation.
-
-[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
+Unlike [[coniophora-puteana]] and [[gloeophyllum-trabeum]] for another brown rot species
+- [[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -88,3 +46,85 @@ inherent in working with natural systems and plans accordingly rather
 than assuming perfect predictability or control over outcomes.
 
 Documentation and record-keeping support continuous improvement by
+
+## Overview
+
+Meruliporia Incrassata represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish meruliporia incrassata
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving meruliporia extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Meruliporia Incrassata finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for meruliporia incrassata. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+meruliporia incrassata and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Meruliporia Incrassata has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of meruliporia incrassata into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[dry-rot-fungi-serpula-meruliporia]]
+- [[gadd-house-rot-fungi-serpula-meruliporia-sphaerobolus]]

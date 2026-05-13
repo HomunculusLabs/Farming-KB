@@ -8,20 +8,10 @@ type: concept
 
 ## Overview
 
-The genus *Acacia* is one of the largest and most ecologically significant plant genera in the world, comprising approximately 850 species native primarily to Australia, with additional species in Africa, Asia, and the Americas. In permaculture design, wattles (as Australian Acacias are commonly known) serve multiple critical functions: nitrogen fixation, fodder production, timber, soil stabilization, windbreaks, bee forage, and pioneer species for land regeneration. Their rapid growth, [[dighton-fungal-drought-tolerance-plant-water-relations]], and adaptability to poor soils make them indispensable components of sustainable agricultural systems, particularly in arid and semi-arid regions.
-
-## Key Functions in Permaculture Systems
-
-Acacias fulfill several core [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]] simultaneously:
+The genus *Acacia* is one of the largest and most ecologically significant plant genera in the world, comprising approximately 850 species native primarily to Australia, with additional species in Africa, Asia, and the Americas. In permaculture design, wattles (as Australian Acacias are commonly known) serve multiple critical functions: nitrogen fixation, fodder production, timber, soil stabilization, windbreaks, bee forage, and pioneer species for land regeneration. Their rapid growth, [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]] simultaneously:
 
 - **Nitrogen fixation**: Most species form symbiotic relationships with rhizobial bacteria, converting atmospheric nitrogen into plant-available forms, thereby improving soil fertility for companion plantings.
-- **Pioneer species**: Fast-growing Acacias are among the first colonizers of degraded land, preparing the ground for slower-growing climax species through soil improvement and [[holzer-climate-zone-microclimate-creation]].
-- **Fodder production**: Many species provide nutritious browse for livestock, particularly during dry seasons when other forage is scarce.
-- **Timber and fuel**: Dense, hard wood suitable for fence posts, construction, craft work, charcoal, and firewood.
-- **Bee forage**: Abundant pollen production, though nectar is limited in most species.
-- **Soil stabilization**: Deep root systems bind soils on slopes, sand dunes, and degraded sites.
-- **Windbreaks and shelter**: Dense canopies provide effective wind protection.
-- **[[hemenway-backyard-wildlife-habitat]]**: Seed provides food for birds, rodents, and other wildlife.
+- **Pioneer species**: Fast-growing Acacias are among the first colonizers of degraded land, preparing the ground for slower-growing climax species through soil improvement and [[hemenway-backyard-wildlife-habitat]]**: Seed provides food for birds, rodents, and other wildlife.
 
 ## Notable Species
 
@@ -85,15 +75,8 @@ When selecting Acacia species for permaculture systems:
 2. **Define primary function**: Different species excel as fodder (mulga, pendula), timber (blackwood, brigalow), nitrogen fixation (black wattle), or land reclamation (salt wattle, coastal wattle).
 3. **Plan for succession**: Use fast-growing Acacias as nurse crops for slower-maturing fruit and nut trees, then manage or remove them as the canopy closes.
 4. **Beware invasiveness**: Several Acacia species have become serious weeds outside their native ranges (notably *A. cyclops*, *A. mearnsii*, and *A. dealbata* in South Africa and other regions).
-5. **Integrate with livestock**: Lock-up fodder systems allow [[comparison-rotational-grazing-vs-continuous-grazing]] while giving trees recovery time.
-6. **Consider fire risk**: Many Acacias burn readily but recover by coppicing or seed germination; some species have fire retardant properties.
-
-## See Also
-
-- [[permaculture-plants-tagasaste-comprehensive-profile]] — Tagasaste, a companion pioneer species
-- [[permaculture-plants-tree-lupin-nurse-crop-profile]] — Tree lupin, another nitrogen-fixing pioneer
-- [[nutrient-and-dynamic-accumulators]] — [[comparison-dynamic-accumulators-vs-cover-crops]] in permaculture
-- [[bill-mollison-permaculture-a-designers-manual-forest-gardens-and-food-forests]] — Forest garden design
+5. **Integrate with livestock**: Lock-up fodder systems allow [[permaculture-plants-tagasaste-comprehensive-profile]] — Tagasaste, a companion pioneer species
+- [[nutrient-and-dynamic-accumulators]] — [[bill-mollison-permaculture-a-designers-manual-forest-gardens-and-food-forests]] — Forest garden design
 
 ## Practical Applications
 
@@ -124,8 +107,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[permaculture-design]]
 - [[permaculture]]
-- [[acacia-mearnsii]]
 - [[acacia]]
 - [[doc]]

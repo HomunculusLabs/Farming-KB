@@ -21,15 +21,7 @@ Neem (*Azadirachta indica*, family Meliaceae) is a deep-rooted, broad-leaved tre
 
 ## Azadirachtin and Pest Control
 
-The seeds and leaves contain azadirachtin, a complex limonoid that acts as a powerful natural insecticide, antifeedant, and growth disruptor for hundreds of insect pest species while being relatively non-toxic to [[hamilton-beneficial-insects-and-biological-pest-control]], mammals, and humans. Uses include:
-
-- **Agricultural pest control**: Foliar sprays from neem seed extracts
-- **Grain storage**: Dried leaves placed in books, grain, and clothes repel insects
-- **Skin diseases**: Seed oil rubbed onto the body as a traditional cure
-
-## Timber
-
-Neem wood is similar to Cuban mahogany, resists decay and insects, and is tougher than teak. It is excellent for construction and furniture making. Termite attack is rare — a remarkable property [[fukuoka-natural-farming-in-tropical-regions]] where termites are devastating to most timber species. The tree coppices readily, producing straight, strong poles.
+The seeds and leaves contain azadirachtin, a complex limonoid that acts as a powerful natural insecticide, antifeedant, and growth disruptor for hundreds of insect pest species while being relatively non-toxic to [[fukuoka-natural-farming-in-tropical-regions]] where termites are devastating to most timber species. The tree coppices readily, producing straight, strong poles.
 
 ## Firewood
 
@@ -56,7 +48,7 @@ By seed only, but seed is very short-lived (2–3 weeks viability). Seedlings ar
 
 ## Permaculture Applications
 
-1. **[[comparison-beneficial-insects-guide-vs-integrated-pest-management]]**: On-farm source of azadirachtin for [[botanical-pesticides-and-natural-pest-control]]
+1. **[[botanical-pesticides-and-natural-pest-control]]
 2. **Arid zone forestry**: Thrives where most trees fail
 3. **Timber production**: Premium, decay-resistant, termite-proof timber
 4. **Soil improvement**: Leaf litter raises pH of acidic soils toward neutral
@@ -96,11 +88,5 @@ that contribute to diversified farming and permaculture systems.
 ## Ecological Considerations
 
 Neem Azadirachta Indica Arid Zone Multipurpose Tree interacts with surrounding ecosystems through pollinator
-relationships, soil improvement, and [[amphibian-habitat-creation]]. These ecological
-functions enhance overall system resilience and biodiversity.
-
-## See Also
-
-- [[moringa-oleifera-horseradish-tree-permaculture]] — Fellow Indian arid-zone multipurpose tree
-- [[acacia-species-permaculture-pioneer-fodder-timber]] — Nitrogen-fixing companions for arid systems
+relationships, soil improvement, and [[moringa-oleifera-horseradish-tree-permaculture]] — Fellow Indian arid-zone multipurpose tree
 - [[query-what-is-integrated-pest-management-for-organic-mushroom-cultivation]] — Pest [[weed-management-strategies]]

@@ -1,14 +1,7 @@
 ---
 title: "Shirota Glyoxalylamide Formation Oxalyl Chloride Indole"
 aliases: ["oxalyl chloride indole acylation", "[[glyoxalylamide-intermediate-in-tryptamine-synthesis]] tryptamine", "Shirota oxalyl chloride procedure"]
-tags: [synthesis, [[psilocin]], organic-chemistry, glyoxalylamide, shirota, oxalyl-chloride]
----
-
-# Glyoxalylamide Formation via Oxalyl Chloride in Tryptamine Synthesis
-
-## Overview
-
-The formation of the glyoxalylamide intermediate is the key carbon-carbon bond-forming step in the Shirota, Hakamata, and Goda (2003) synthesis of psilocin from 4-acetylindole. This two-step conversion — acylation with oxalyl chloride followed by amidation with dimethylamine — introduces the two-carbon [[shirota-glyoxalylamide-side-chain-construction-psilocin-synthesis]] that will ultimately become the ethylamine moiety of psilocin. The reaction proceeds through a crystalline glyoxalyl chloride intermediate that is isolated as yellow crystals.
+tags: [synthesis, [[shirota-glyoxalylamide-side-chain-construction-psilocin-synthesis]] that will ultimately become the ethylamine moiety of psilocin. The reaction proceeds through a crystalline glyoxalyl chloride intermediate that is isolated as yellow crystals.
 
 ## The Two-Step Conversion
 

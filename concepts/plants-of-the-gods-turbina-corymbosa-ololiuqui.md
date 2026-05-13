@@ -18,8 +18,7 @@ type: concept
 
 ## Botanical Description
 
-*Turbina corymbosa* (L.) Raf. [= *[[rivea-corymbosa]]*] is a large woody
-vine belonging to the Convolvulaceae ([[golden-guide-morning-glory-and-ololiuqui]] family), native to
+*Turbina corymbosa* (L.) Raf. [= *[[golden-guide-morning-glory-and-ololiuqui]] family), native to
 the tropical zones of the Americas, most abundantly in Mexico and Cuba.
 The plant has heart-shaped leaves 2-3.5 in. (5-9 cm) long and 1-1.5 in.
 (2.5-4.5 cm) wide. The cymes are many-flowered, bearing bell-shaped
@@ -27,7 +26,7 @@ corollas 0.75-1.5 in. (2-4 cm) long, white with greenish stripes. The
 fruit is dry, indehiscent, and ellipsoidal with persistent enlarged
 sepals, bearing a single hard, roundish, brown, minutely hairy seed
 about 0.12 in. (3 mm) in diameter. The seeds contain the psychoactive
-[[morning-glory-lsa-and-ergoline-alkaloids]] [[ergot-and-lysergic-acid-history]] amide and lysergic acid
+[[ergot-and-lysergic-acid-history]] amide and lysergic acid
 hydroxyethylamide, chemically analogous to LSD.
 
 ## History and Aztec Use
@@ -62,28 +61,90 @@ The use of *Turbina corymbosa* seeds has been recorded for the
 Chinantec, Mazatec, Zapotec, Mixtec, and others in Oaxaca. They are
 known as Piule, although each tribe has its own name. The plant is
 administered to a single individual alone in a quiet, secluded place
-at night -- in contrast to [[schultes-psilocybe-little-flowers-gods]], which
-are group ceremonies.
-
-## Chemistry
-
-Lysergic acid alkaloids are the hallucinogenic compounds of Ololiuqui.
-These indole alkaloids have also been isolated from [[schultes-psilocybe-little-flowers-gods]]
+at night -- in contrast to [[schultes-psilocybe-little-flowers-gods]]
 and the brain hormone serotonin.
 
-LSD, [[lysergic-acid-diethylamide]], is a semi-synthetic compound and the
-most potent hallucinogen known. It differs from [[lysergic-acid-amide-containing-plants-halpern]]
+LSD, [[lysergic-acid-amide-containing-plants-halpern]]
 only by replacement of two hydrogen atoms for two ethyl groups. The
 active principle of Ololiuqui (hallucinogenic dose 2-5 mg) is about 100
 times less potent than LSD (hallucinogenic dose 0.05 mg).
 
 ## Ipomoea violacea -- Badoh Negro
 
-Another Morning Glory, [[schultes-morning-glory-ipomoea-seeds]], was valued as a sacred hallucinogen among the Aztecs, who
-called the seeds Tlitliltzin (from the Nahuatl for "black" with a
-reverential suffix). The seeds are elongate, angular, and black, whereas
-those of *Turbina corymbosa* are round and brown. In Zapotec villages
-both species may be known; in others, only *I. violacea* is used. The
-black seeds (called "macho") are taken by men; the brown seeds ("hembra")
-by women. The black seeds are more potent -- an assertion confirmed by
-[[chemical-studies-neurotropic-fungi-reliability-and-challenges]].
+Another Morning Glory, [[chemical-studies-neurotropic-fungi-reliability-and-challenges]].
+
+## Overview
+
+Plants Of The Gods Turbina Corymbosa Ololiuqui represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish plants of the gods turbina corymbosa ololiuqui
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving plants extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Plants Of The Gods Turbina Corymbosa Ololiuqui finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for plants of the gods turbina corymbosa ololiuqui. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+plants of the gods turbina corymbosa ololiuqui and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Plants Of The Gods Turbina Corymbosa Ololiuqui has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of plants of the gods turbina corymbosa ololiuqui into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.

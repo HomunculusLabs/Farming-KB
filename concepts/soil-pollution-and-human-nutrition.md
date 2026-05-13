@@ -6,7 +6,7 @@ type: concept
 
 # Soil Pollution and Human Nutrition
 
-The integrity of soils and waters is foundational to human health. In [[permaculture-design]], understanding the legacy of chemical pollution in agricultural landscapes and its direct consequences for nutrition is essential for making responsible land-use decisions. This concept page addresses soil rehabilitation timelines, major categories of soil and water pollutants, and the critical linkages between soil health, food quality, and human nutrition as outlined in [[bill-mollison]]'s *Permaculture: A Designers' Manual*.
+The integrity of soils and waters is foundational to human health. In [[bill-mollison]]'s *Permaculture: A Designers' Manual*.
 
 ## Soil Rehabilitation Timelines
 
@@ -50,7 +50,7 @@ Lead from historical car exhaust emissions and lead-based paint has accumulated 
 
 ### Groundwater Pollution
 
-Beneath conventional farms, **80–90 distinct biocidal substances** have been detected in groundwater. Industrial areas add further contamination including dioxins, radioactive materials, and heavy metals. The implications are severe: once groundwater is contaminated, purification is extraordinarily difficult and expensive. Mollison indicates that **rainwater harvesting and strict water conservation** are essential strategies for permaculture sites, reducing dependence on potentially compromised aquifer and municipal water supplies.
+Beneath conventional farms, **80–90 distinct biocidal substances** have been detected in groundwater. Industrial areas add further contamination including dioxins, radioactive materials, and heavy metals. The implications are severe: once groundwater is contaminated, purification is extraordinarily difficult and expensive. Mollison indicates that **rainwater harvesting and strict [[water-conservation]]** are essential strategies for permaculture sites, reducing dependence on potentially compromised aquifer and municipal water supplies.
 
 ## Human Health and Nutrition
 
@@ -58,7 +58,7 @@ Mollison identifies four broad statements that frame the relationship between fo
 
 ### 1. The Value of Dietary Diversity
 
-A **mixed omnivorous diet** has been exhibited by most human groups throughout history. Excessive dietary simplicity — reliance on a narrow range of foods — carries significant nutritional dangers. Permaculture design inherently promotes diversity through polycultures, integrated food systems, and seasonal eating patterns that mirror natural ecological variety.
+A **mixed omnivorous diet** has been exhibited by most human groups throughout history. Excessive dietary simplicity — reliance on a narrow range of foods — carries significant nutritional dangers. [[permaculture-design]] inherently promotes diversity through polycultures, integrated food systems, and seasonal eating patterns that mirror natural ecological variety.
 
 ### 2. Malnutrition in Developed Countries
 
@@ -105,6 +105,5 @@ These principles reflect the permaculture ethic of caring for people through sys
 - **Prioritise trace mineral availability** through mineral-rich compost, rock dust amendments, and diverse cropping.
 
 ## See Also
-- [[soil-pollution-and-human-health]]
 - [[solomon-vegetable-nutrition-decline-and-soil-mineral-depletion]]
 - [[soil-food-web-and-building-soil]]

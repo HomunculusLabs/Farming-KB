@@ -13,7 +13,7 @@ sources:
 
 # 4-Acetoxy-DET
 
-4-Acetoxy-N,N-diethyltryptamine (4-AcO-DET, ethacetin, 4-Acetoxy-DE) is a synthetic psychedelic tryptamine and the 4-acetylated prodrug analog of 4-HO-DET (ethocin). Described by Alexander and [[ann-shulgin]] in TIHKAL (entry #31), it belongs to the 4-substituted [[tryptamine-family-overview]] alongside compounds such as psilocin (4-HO-DMT) and 4-AcO-DMT. As an acetylated tryptamine, 4-AcO-DET is believed to function as a prodrug, undergoing deacetylation in vivo to yield the active metabolite 4-HO-DET. The compound is classified as a Schedule I controlled substance in the United States and is controlled in several other jurisdictions worldwide. Like many members of the Shulgin tryptamine series, it has been used in psychopharmacological research to map the structure-activity relationships of serotonin [[cannabinoid-receptor-agonists-antagonists-synthetic-reference-blesching]].
+4-Acetoxy-N,N-diethyltryptamine (4-AcO-DET, ethacetin, 4-Acetoxy-DE) is a synthetic psychedelic tryptamine and the 4-acetylated prodrug analog of 4-HO-DET (ethocin). Described by Alexander and [[tryptamine-family-overview]] alongside compounds such as psilocin (4-HO-DMT) and 4-AcO-DMT. As an acetylated tryptamine, 4-AcO-DET is believed to function as a prodrug, undergoing deacetylation in vivo to yield the active metabolite 4-HO-DET. The compound is classified as a Schedule I controlled substance in the United States and is controlled in several other jurisdictions worldwide. Like many members of the Shulgin tryptamine series, it has been used in psychopharmacological research to map the structure-activity relationships of serotonin [[cannabinoid-receptor-agonists-antagonists-synthetic-reference-blesching]].
 
 ## Chemical Identity
 
@@ -35,8 +35,7 @@ sources:
 ## Pharmacology
 - **Mechanism:** 5-HT2A receptor agonist — primary mechanism of psychedelic action shared with all classical psychedelics
 - **Prodrug hypothesis:** 4-AcO-DET is widely believed to be a prodrug for 4-HO-DET, with the acetate ester being cleaved by serum and hepatic esterases to yield the active phenolic compound, analogous to the psilocybin-to-psilocin conversion
-- **[[tihkal-receptor-binding-serotonin]]:** As a 4-hydroxytryptamine derivative, expected to bind 5-HT2A with high affinity, with additional activity at 5-HT1A and possibly 5-HT2C receptors
-- **The N,N-diethyl substitution** increases lipophilicity compared to N,N-dimethyl analogs, potentially affecting blood-brain barrier penetration, [[beta-glucan-receptor-binding]] kinetics, metabolic stability, and duration of action
+- **[[beta-glucan-receptor-binding]] kinetics, metabolic stability, and duration of action
 - **Onset:** Typically 20–60 minutes following oral administration
 - **Duration:** 4–6 hours, consistent with other members of the 4-substituted tryptamine class
 - **Metabolism:** Esterase-mediated deacetylation to 4-HO-DET, followed by monoamine oxidase (MAO) oxidation as the primary elimination pathway
@@ -72,11 +71,7 @@ sources:
 | Psilocin (4-HO-DMT) | N,N-dimethyl, 4-OH | Higher | Benchmark psychedelic tryptamine |
 
 ## Synthesis
-The synthesis of 4-AcO-DET follows the general pathway for 4-acetylated tryptamines. The Shulgin TIHKAL entry describes a route starting from 4-hydroxyindole, which undergoes reductive amination with diethylamine followed by acetylation of the 4-hydroxy position using acetic anhydride. The synthetic chemistry is well-established and mirrors that of other 4-acetoxytryptamines. Synthesis of [[controlled-substances-act-and-psychedelic-research]] is illegal without appropriate authorization in virtually all jurisdictions.
-
-## Legal Status
-- **United States:** Schedule I under the Federal Analog Act (as a positional isomer of psilocin, or as a controlled substance analog of a Schedule I drug)
-- **United Kingdom:** Class A under the [[cultural-evolution-and-psychoactive-substances]] Act amendments and Misuse of Drugs Act
+The synthesis of 4-AcO-DET follows the general pathway for 4-acetylated tryptamines. The Shulgin TIHKAL entry describes a route starting from 4-hydroxyindole, which undergoes reductive amination with diethylamine followed by acetylation of the 4-hydroxy position using acetic anhydride. The synthetic chemistry is well-established and mirrors that of other 4-acetoxytryptamines. Synthesis of [[cultural-evolution-and-psychoactive-substances]] Act amendments and Misuse of Drugs Act
 - **Canada:** Schedule III under the Controlled Drugs and Substances Act
 - **EU:** Varies by member state; generally controlled as a tryptamine derivative
 - **Australia:** Schedule 9 (Prohibited Substance)
@@ -84,7 +79,7 @@ The synthesis of 4-AcO-DET follows the general pathway for 4-acetylated tryptami
 - **Japan:** Controlled under the Pharmaceutical and Medical Device Act
 
 ## Toxicology and Safety Data
-- **[[emcdda-hallucinogenic-mushroom-acute-toxicity-medical-management]]:** No human fatalities documented; LD50 not established for humans; animal studies suggest very high [[cannabis-therapeutic-index-overview]]
+- **[[cannabis-therapeutic-index-overview]]
 - **Chronic toxicity:** No long-term toxicity studies available; assumed similar risk profile to other classical psychedelics based on structural similarity
 - **Pharmacokinetics:** Rapid absorption following oral administration; peak plasma concentrations estimated at 1–2 hours; hepatic metabolism via MAO and cytochrome P450 enzymes; elimination half-life estimated at 1–3 hours
 - **Drug interactions:** Potentially dangerous when combined with MAOIs (hypertensive crisis risk), SSRIs (serotonin syndrome), lithium (neurotoxicity risk), tramadol, and stimulants

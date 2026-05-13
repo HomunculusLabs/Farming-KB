@@ -10,31 +10,11 @@ sources:
 # ASB (Asymbescaline)
 
 **Chemical name:** 3,4-Diethoxy-5-methoxyphenethylamine
-**[[2c-b-pihkal-entry-20]]:** #9
-
-## Overview
-
-ASB (Asymbescaline) is a mescaline-entity|mescaline analogue in which the 3,4-positions carry ethoxy groups instead of methoxy groups, while the 5-position retains the methoxy group. The name derives from its relationship to escaline-entity|escaline (where the 4-position alone is ethoxylated) -- it is "asymmetric" in having two ethoxy groups rather than one.
-
-It belongs to the broader family of [[alexander-shulgin]]. The compound demonstrates how shifting the alkoxy substitution pattern on the phenethylamine ring affects psychoactive properties.
+**[[alexander-shulgin]]. The compound demonstrates how shifting the alkoxy substitution pattern on the phenethylamine ring affects psychoactive properties.
 
 ## Dosage and Duration
 
-Shulgin provides dosage data in [[phenethylamine-set-and-setting]] with a profile that is reminiscent of mescaline but with its own character:
-
-- **Visual effects:** Color enhancement and visual patterning are present, though less intense than with mescaline-entity|mescaline itself.
-- **Body sensations:** A moderate body load is typical of the alkoxyphenethylamine class. Some physical discomfort and nausea are possible.
-- **Cognitive effects:** The mental state is described as contemplative and insightful, with the capacity for deep thought and self-reflection.
-- **Duration:** The effects are long-lasting, consistent with the ethoxy substitution pattern which generally extends duration compared to methoxy groups.
-
-## Synthesis
-
-The synthesis is multistep, starting from 5-bromobourbonal:
-
-1. **Ethylation:** 5-Bromobourbonal is ethylated with ethyl iodide and KOH in DMF to give 3-bromo-4,5-diethoxybenzaldehyde.
-2. **Imine formation:** The bromoaldehyde is converted to the N-cyclohexyl benzylidenimine (mp 60-61 deg C), which serves as an intermediate for various transformations.
-3. **Lithiation and boronation:** The bromine is replaced via butyllithium-mediated lithiation followed by treatment with butyl borate.
-4. **Hydroxylation:** Oxidation with [[cervantes-hydrogen-peroxide-sterilization]] yields 3,4-diethoxy-5-hydroxybenzaldehyde (mp 70.5-71.5 deg C).
+Shulgin provides dosage data in [[cervantes-hydrogen-peroxide-sterilization]] yields 3,4-diethoxy-5-hydroxybenzaldehyde (mp 70.5-71.5 deg C).
 5. **Methylation:** Treatment with methyl iodide and KOH in EtOH gives 3,4-diethoxy-5-methoxybenzaldehyde.
 6. **Nitrostyrene formation:** Condensation with nitromethane yields the beta-nitrostyrene (mp 89-90 deg C).
 7. **Reduction:** LAH reduction in THF with sulfuric acid provides the final amine as the hydrochloride salt.
@@ -43,8 +23,7 @@ The synthetic route illustrates the versatility of the bromo-intermediate, which
 
 ## Position in the Mescaline Analogue Series
 
-ASB is one of several [[mescaline-derivatives-pihkal]]
-- [[pihkal-introduction-and-methodology]]
+ASB is one of several [[pihkal-introduction-and-methodology]]
 - [[2c-family-compounds-overview]]
 
 ## Significance
@@ -88,3 +67,84 @@ The physical character of the compound was immediately apparent in its flavor.
 At 100 mg, trivial physical problems occurred during the early stages of the experience.
 
 Music was described as lovely during the experiment, but visual art (pictures) was not particularly enhanced.
+
+## Overview
+
+Asb Entity represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish asb entity
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving asb extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Asb Entity finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for asb entity. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+asb entity and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Asb Entity has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of asb entity into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[2c-c-entity]]

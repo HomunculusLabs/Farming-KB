@@ -9,7 +9,7 @@ aliases: [cannabis-cardiovascular, cannabis-heart-disease, cannabis-hypertension
 
 # Cannabis and Cardiovascular Health — Evidence Review
 
-Cardiovascular disease remains the number-one killer in the United States and many other industrialized nations. The endocannabinoid system (ECS) plays a significant role in cardiovascular regulation, with cannabinoid receptors (CB1 and CB2) present in heart tissue, vascular endothelium, and throughout the [[blesching-endocannabinoid-autonomic-nervous-system-adrenal-glands]]. This has prompted considerable research into whether cannabis [[blesching-cannabis-smoking-lung-pulmonary-effects]] and its constituents might offer therapeutic benefits for heart disease, hypertension, stroke, and related conditions.
+Cardiovascular disease remains the number-one killer in the United States and many other industrialized nations. The endocannabinoid system (ECS) plays a significant role in cardiovascular regulation, with cannabinoid receptors (CB1 and CB2) present in heart tissue, vascular endothelium, and throughout the [[blesching-cannabis-smoking-lung-pulmonary-effects]] and its constituents might offer therapeutic benefits for heart disease, hypertension, stroke, and related conditions.
 
 ## The Endocannabinoid System and the Heart
 
@@ -33,9 +33,7 @@ Research has identified several mechanisms by which THC may protect the heart:
 
 Cannabidiol (CBD) affects cardiovascular health through several pathways:
 
-- **Calming autonomic stress responses**: CBD appears to calm autonomic responses to stress, including rapid heart rates, by engaging [[psilocybin-pharmacology-and-serotonin-receptors]] (specifically 5-HT1A) to achieve a calming effect. This is relevant because chronic sympathetic activation is a major driver of hypertension and cardiovascular disease.
-
-- **Anti-inflammatory and anti-atherosclerotic action**: CBD has demonstrated measurable therapeutic impact on atherosclerosis, an inflammatory disease of the arterial walls that is the leading cause of heart attacks and strokes. Its anti-inflammatory regulation extends to periodontitis and [[blesching-cannabis-inflammatory-bowel-disease]], both of which have documented links to cardiovascular risk.
+- **Calming autonomic stress responses**: CBD appears to calm autonomic responses to stress, including rapid heart rates, by engaging [[blesching-cannabis-inflammatory-bowel-disease]], both of which have documented links to cardiovascular risk.
 
 - **Vasorelaxation**: Studies suggest CBD can induce vasorelaxation, potentially lowering blood pressure in hypertensive individuals, though more human clinical trials are needed.
 
@@ -55,9 +53,7 @@ THC can increase heart rate, but not to a dangerous extent in healthy individual
 
 ## Synthetic Cannabinoid Pharmaceuticals
 
-Several FDA-approved [[cannabis-pharmaceutical-cannabinoids-synthetic-research]] are used in clinical settings that may have cardiovascular relevance:
-
-- **Sativex**: A plant-derived oral spray containing THC and CBD, approved for spasticity in [[blesching-cannabis-multiple-sclerosis]].
+Several FDA-approved [[blesching-cannabis-multiple-sclerosis]].
 - **Dronabinol (Marinol)**: Synthetic THC, approved for AIDS-related anorexia and chemotherapy-induced nausea.
 - **Nabilone (Cesamet)**: A synthetic cannabinoid used for chemotherapy-induced nausea.
 
@@ -86,39 +82,6 @@ The combination of THC, CBD, and other cannabinoids with terpenes like **beta-ca
 
 ## Cannabis Compared to Conventional Cardiovascular Medications
 
-Cannabis should not be viewed as a replacement for established cardiovascular medications such as statins, ACE inhibitors, beta-blockers, or antiplatelet agents. However, it may serve as an adjunctive therapy by addressing [[emcdda-hallucinogenic-mushroom-contributing-factors-megatrends]]:
-
-## Practical Applications
-
-The principles and techniques discussed here have wide-ranging applications
-across multiple disciplines and contexts. Practitioners and researchers
-continue to explore new ways to integrate these concepts into modern practice,
-adapting traditional knowledge to contemporary challenges and opportunities.
-
-## Key Considerations
-
-Several important factors influence the effectiveness and outcomes described
-in this topic. Understanding these considerations helps practitioners make
-informed decisions and avoid common pitfalls. Environmental conditions,
-timing, and material selection all play critical roles.
-
-## Historical Context
-
-The historical development of this subject reflects centuries of accumulated
-knowledge and practical experience. From traditional methods passed down
-through generations to modern scientific approaches, the evolution continues
-to inform current best practices and research directions.
-
-## Common Challenges
-
-Practitioners frequently encounter several challenges when working with
-these concepts. Climate variability, resource limitations, and knowledge
-gaps can all affect outcomes. Addressing these challenges requires patience,
-observation, and a willingness to adapt approaches based on results.
-
-## See Also
-- [[cannabis-health-index]]
-- [[doc]]
+Cannabis should not be viewed as a replacement for established cardiovascular medications such as statins, ACE inhibitors, beta-blockers, or antiplatelet agents. However, it may serve as an adjunctive therapy by addressing [[cannabis-health-index]]
 - [[psilocybin]]
-- [[dom]]
 - [[dronabinol]]

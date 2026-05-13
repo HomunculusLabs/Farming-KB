@@ -18,8 +18,7 @@ type: concept
 
 # Peyote and Mescaline-Containing Cacti
 
-Peyote (*[[lophophora-williamsii]]*) may logically be called the prototype of
-New World [[entheogen-tetrapteris-methystica-alternative-caapi]] traditions
+Peyote (*[[entheogen-tetrapteris-methystica-alternative-caapi]] traditions
 across northern Mexico.
 
 ## Botanical Description
@@ -29,9 +28,7 @@ and chemically. Both are small, spineless, gray-green or bluish green
 top-shaped plants. The succulent chlorophyll-bearing head or crown
 measures up to 3 inches in diameter and is radially divided into 5 to
 13 rounded ribs. *Lophophora williamsii* is usually blue-green with
-straight furrows and has up to 30 alkaloids -- primarily [[schultes-peyote-tracks-little-deer]] -- Documentation of Peyote traditions
-- [[schultes-peyote-tracks-little-deer]] -- Primary active alkaloid
-- [[psychoactive-cacti-species-reference]] -- Broader survey of hallucinogenic flora
+straight furrows and has up to 30 alkaloids -- primarily [[schultes-peyote-tracks-little-deer]] -- Primary active alkaloid
 - [[schultes-morning-glory-ipomoea-seeds]] -- Other Mesoamerican hallucinogens
 ## Practical Applications
 

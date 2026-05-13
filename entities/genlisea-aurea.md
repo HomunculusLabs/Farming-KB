@@ -18,11 +18,7 @@ sources:
 
 ## Overview
 
-Genlisea aurea is a rootless, carnivorous plant native to [[guzman-psilocybin-mushrooms-south-america]], most commonly found in Brazil. It is the largest species in the genus Genlisea, producing bright yellow flowers that give the species its name.
-
-Unlike most carnivorous plants, G. aurea captures prey underground using highly modified subterranean leaves called rhizophylls. These unique organs form hollow, corkscrew-shaped traps that capture soil-dwelling protozoa and small invertebrates.
-
-The species is of particular scientific interest because of its remarkably small genome, one of the smallest known among flowering plants. This characteristic has made G. aurea a [[canary-grass-phototropism-model-organism]] for studying genome evolution.
+Genlisea aurea is a rootless, carnivorous plant native to [[canary-grass-phototropism-model-organism]] for studying genome evolution.
 
 ## Taxonomy and Morphology
 
@@ -42,21 +38,7 @@ G. aurea is widely distributed across South America, with records from Brazil, P
 
 The species inhabits seasonally wet or permanently moist sandy soils. Typical habitats include riverbanks, sandy savannas, wet grasslands, and the margins of shallow pools and streams.
 
-G. aurea is an annual or short-lived perennial that completes its [[bloomfield-fungal-life-cycle-spiral-versus-circle]] during the wet season. Above-ground portions may die back during dry periods, with the plant surviving as dormant buds or seed.
-
-It often grows in shallow water or saturated sand, with the rosette at or slightly above the water level. The underground traps extend into the wet substrate below.
-
-## Trapping Mechanism
-
-The subterranean traps of G. aurea are among the most specialized carnivorous structures in the plant kingdom. Each trap consists of a hollow tube that splits into two corkscrew-shaped arms.
-
-Prey enter the trap through a narrow slit at the fork of the Y-shaped structure. The slit is lined with inward-pointing hairs that direct small organisms into the hollow tube.
-
-Once inside, prey cannot escape due to the inward-pointing hairs and the smooth, narrow tube diameter. The corkscrew arms may also create water currents that draw organisms toward the entrance.
-
-Digestion occurs within the trap through the secretion of enzymes by glandular cells lining the interior surface. The plant absorbs the resulting nutrients directly through the trap walls.
-
-Primary prey consists of protozoa, nematodes, and small [[soil-arthropods]] such as mites and collembolans. The traps are highly efficient at capturing microscopic organisms in the soil water.
+G. aurea is an annual or short-lived perennial that completes its [[soil-arthropods]] such as mites and collembolans. The traps are highly efficient at capturing microscopic organisms in the soil water.
 
 ## Flowers and Reproduction
 
@@ -66,19 +48,7 @@ Flowering occurs primarily during the wet season. The flowers are bilabiate, wit
 
 Pollination is likely performed by small bees and flies attracted to the bright coloration. The flowers are self-compatible, ensuring seed set even in the absence of pollinators.
 
-Seed capsules produce numerous tiny seeds. The seeds are dispersed by water and may remain viable in the soil [[query-how-do-i-create-a-seed-bank-and-start-seed-saving]] for extended periods, allowing the species to persist through unfavorable conditions.
-
-## Research Significance
-
-G. aurea has one of the smallest known nuclear genomes among angiosperms, estimated at approximately 63 megabase pairs. This is smaller than many bacterial genomes.
-
-The compressed genome has lost much of its non-coding DNA, including most transposable elements. Despite its small size, the genome contains a full complement of protein-coding genes.
-
-Comparative genomic studies have used G. aurea to investigate the evolution of genome size in flowering plants. The Lentibulariaceae as a family show extreme variation in genome size despite morphological similarity.
-
-## Cultivation
-
-G. aurea is cultivated by specialist carnivorous plant growers, though it remains less common in collections than bladderworts or sundews. Its annual growth habit requires [[vic-high-selfing-and-regular-seed-production]] sowing for continuous cultivation.
+Seed capsules produce numerous tiny seeds. The seeds are dispersed by water and may remain viable in the soil [[vic-high-selfing-and-regular-seed-production]] sowing for continuous cultivation.
 
 Plants are typically grown in shallow trays of sandy peat or pure silica sand kept continuously saturated. Warm conditions (20–30°C) and strong light promote growth and flowering.
 
@@ -87,3 +57,88 @@ The species can be propagated from seed, which germinates readily on wet sandy s
 Some growers maintain G. aurea as a semi-aquatic, submerging the pots to a depth of 1–2 cm. This mimics the species' natural habitat of wet sandy margins.
 
 ## Conservation Status
+
+## Overview
+
+Genlisea Aurea represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish genlisea aurea
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving genlisea extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Genlisea Aurea finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for genlisea aurea. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+genlisea aurea and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Genlisea Aurea has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of genlisea aurea into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[brugmansia-aurea]]
+- [[crocosmia-aurea]]
+- [[genlisea-margaretae]]
+- [[musschia-aurea]]
+- [[phyllostachys-aurea]]

@@ -12,59 +12,8 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - Zadrazil, F. (1978). "The ecology and industrial production of cancer-medicinal-mushrooms-pleurotus-ostreatus." Mushroom Science X(1): 621-628.
-  - Sánchez, C. (2010). "Cultivation of Pleurotus ostreatus and other [[palmer-edible-mushrooms-north-america]]." Applied Microbiology and Biotechnology 85(5): 1321-1337.
-  - Royse, D.J. et al. (2017). "Sixteen years of cultivation of Pleurotus spp. on tree leaves." Mushroom Science 15(1): 381-388.
-  - Stamets, P. (2000). [[growing-gourmet-abalone-oyster-cystidiosus-cultivation]] and comparison-chaga-vs-turkey-tail-medicinal-mushrooms-comprehensive. 3rd ed. Ten Speed Press.
-  - Oei, P. (2003). accessible-mushroom-cultivation-for-disabilities with Special Emphasis on Appropriate Techniques for [[low-cost-mushroom-growing-house-construction-developing-countries]]. TOOL Publications.
----
-
-## Overview
-
-**Pleurotus eryngii** (DC.) Quél., commonly known as the king oyster mushroom, is the largest species in the genus *Pleurotus*. Native to the Mediterranean basin and parts of the Middle East and North Africa, it is prized for its thick, meaty stipe and firm cap.
-
-The species is both commercially significant and well-suited to home cultivation. Its robust fruiting body texture makes it a popular substitute for seafood and meat in vegetarian and vegan cooking.
-
-Unlike other oyster mushrooms, *P. eryngii* fruits singly or in small clusters rather than in large shelf-like formations. This growth habit, combined with its long storage life, has driven rapid expansion in commercial production since the 1990s.
-
-## Taxonomy
-
-- **Kingdom:** Fungi
-- **Division:** Basidiomycota
-- **Class:** Agaricomycetes
-- **Order:** Agaricales
-- **Family:** Pleurotaceae
-- **Genus:** Pleurotus
-- **Species:** P. eryngii (DC.) Quél. (1872)
-
-**Synonyms:**
-- *Agaricus eryngii* DC. (1815) — basionym
-- *Pleurotus eryngii* var. *eryngii*
-
-The species epithet derives from *Eryngium* (sea holly), the plant on which the type specimen was found. Several varieties are recognized based on host plant association, including var. *ferulae* (on fennel) and var. *tingitanus*.
-
-## Morphology
-
-**Cap:** Convex to plane, 5–15 cm diameter. Surface smooth, dry, pale grey-brown to tan, sometimes with a slightly darker disc. Margin inrolled when young, decurved at maturity. Flesh thick, white, firm.
-
-**Stipe:** Central to eccentric, 4–12 cm long, 1.5–4 cm thick. Cylindrical or clavate, solid, white. The stipe is conspicuously thick relative to the cap — a defining feature of the species.
-
-**Gills:** Decurrent, narrow, white to cream, crowded. Edge entire.
-
-**Spores:** Elliptical, smooth, 8–12 × 4–5.5 µm. Spore print white to pale lilac.
-
-**Mycelium:** White, cottony to woolly, moderately fast colonizing. Forms a thick, leathery mat on fully colonized substrates.
-
-## Distribution and Habitat
-
-*P. eryngii* is native to the Mediterranean region, spanning Southern Europe, North Africa, and the Middle East. It has been documented from Spain, France, Italy, Greece, Turkey, Morocco, Algeria, and Iran.
-
-In the wild, it is a weak parasite and saprotroph associated with herbaceous plants. It colonizes the roots and lower stems of *Eryngium* species, *Ferula communis* (giant fennel), *Cirsium* thistles, and related Apiaceae and Asteraceae.
-
-It fruits in spring and autumn, preferring warm, dry Mediterranean climates. Wild collections are uncommon relative to cultivated material in most markets.
-
-## Cultivation
-
-[[query-how-do-i-grow-king-oyster-mushrooms]] are cultivated commercially on supplemented straw, sawdust, or a mixture of both. They are among the most commercially valuable *Pleurotus* species due to shelf life and texture.
+  - Sánchez, C. (2010). "Cultivation of Pleurotus ostreatus and other [[growing-gourmet-abalone-oyster-cystidiosus-cultivation]] and comparison-chaga-vs-turkey-tail-medicinal-mushrooms-comprehensive. 3rd ed. Ten Speed Press.
+  - Oei, P. (2003). accessible-mushroom-cultivation-for-disabilities with Special Emphasis on Appropriate Techniques for [[query-how-do-i-grow-king-oyster-mushrooms]] are cultivated commercially on supplemented straw, sawdust, or a mixture of both. They are among the most commercially valuable *Pleurotus* species due to shelf life and texture.
 
 **Substrate:** Wheat or rice straw, hardwood sawdust (oak, beech), supplemented with wheat bran (10–20%) or soybean meal (5–10%). Pasteurization at 65–70°C for 8–12 hours.
 
@@ -72,9 +21,7 @@ It fruits in spring and autumn, preferring warm, dry Mediterranean climates. Wil
 
 **Colonization:** 20–25°C, 85–90% relative humidity, 14–21 days for full colonization.
 
-**[[fruiting-conditions]]:** 12–18°C, 85–95% humidity, 500–1000 lux light, fresh air exchange of 4–6 air changes per hour. CO₂ below 800 ppm promotes normal cap development; higher CO₂ produces elongated stipes (intentionally done in commercial production for premium appearance).
-
-**Yield:** [[stamets-biological-efficiency-yield]] of 60–100% over 2–3 flushes. First flush typically accounts for 60–70% of total yield.
+**[[stamets-biological-efficiency-yield]] of 60–100% over 2–3 flushes. First flush typically accounts for 60–70% of total yield.
 
 ## Bioactive Compounds
 
@@ -87,3 +34,88 @@ It fruits in spring and autumn, preferring warm, dry Mediterranean climates. Wil
 - **Ergosterol:** Provitamin D₂ precursor, present at 5–8 mg/g dry weight.
 
 ## Culinary and Nutritional Use
+
+## Overview
+
+Pleurotus Eryngii represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish pleurotus eryngii
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving pleurotus extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Pleurotus Eryngii finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for pleurotus eryngii. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+pleurotus eryngii and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Pleurotus Eryngii has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of pleurotus eryngii into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[growing-gourmet-pleurotus-tuber-regium-african-sclerotial-oyster]]
+- [[oyster-mushroom-pleurotus-ostreatus]]
+- [[pleurotus-djamor]]
+- [[pleurotus-species]]
+- [[tricholoma-pleurotus-and-white-spored-edible-genera]]

@@ -20,8 +20,7 @@ in shaping human cultural evolution.
 
 The first group consists of compounds related to lysergic acid
 diethylamide (LSD), known as ergolines. Derived from the ergot fungus
-(*[[bloomfield-ergot-claviceps-purpurea-ergotism]]*), a parasite of cereal grasses, they are also
-found in [[golden-guide-morning-glory-and-ololiuqui]] seeds (Convolvulaceae family).
+(*[[golden-guide-morning-glory-and-ololiuqui]] seeds (Convolvulaceae family).
 
 The most significant naturally occurring ergoline is ergine (d-lysergic
 acid amide, LSA), found in *Ipomoea violacea* (morning glory) and
@@ -65,14 +64,7 @@ this molecule and consciousness itself.
 5-MeO-DMT, found in the Sonoran Desert toad (*Incilius alvarius*)
 and various plants, produces an experience described as a "whiteout" —
 total sensory dissolution and ego death. Bufotenine (5-HO-DMT), from
-*[[yopo-anadenanthera-peregrina-snuff]]* (yopo) seeds and Bufo toad secretions, was
-used as snuff in South America and the Caribbean.
-
-## Group 3: Beta-Carbolines
-
-The third group consists of beta-carboline alkaloids: harmine,
-harmaline, and tetrahydroharmine. Found primarily in *Banisteriopsis
-caapi* (the ayahuasca vine of the Amazon) and *[[mckenna-food-gods-peganum-harmala-soma]]*
+*[[mckenna-food-gods-peganum-harmala-soma]]*
 (Syrian rue) of the Middle East and Central Asia.
 
 Beta-carbolines are not strongly hallucinogenic alone, though they can

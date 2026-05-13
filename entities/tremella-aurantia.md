@@ -10,11 +10,7 @@ sources: [/Users/t3rpz/wiki/raw/papers/cancer-treatments-medicinal-mushrooms.md]
 
 # Tremella aurantia
 
-**Tremella aurantia**, commonly known as the golden ear fungus or orange jelly fungus, is a parasitic jelly fungus in the family Tremellaceae. It is notable for its striking orange-golden appearance and its obligate parasitic relationship with the medicinal mushroom [[tremella-mesenterica]] and [[tremella-fuciformis]] but similar to [[trametes-versicolor-entity]] or related polypores. T. aurantia often has a deeper orange color.
-- **Dacrymyces chrysospermus:** An orange jelly fungus that grows on conifer wood. It can be distinguished by its habitat preference and microscopic features (different basidial morphology).
-- **Tremella fuciformis:** White to pale yellow, never bright orange, and grows on hardwood associated with Annulohypoxylon species rather than trametoid fungi.
-
-The most reliable distinguishing feature is the growth directly on [[trametes-hirsuta]]an obligate mycoparasite, growing almost exclusively on the fruiting bodies of its host fungus. The primary host is [[tremella-fuciformis]] and [[tremella-fuciformis]]
+**Tremella aurantia**, commonly known as the golden ear fungus or orange jelly fungus, is a parasitic jelly fungus in the family Tremellaceae. It is notable for its striking orange-golden appearance and its obligate parasitic relationship with the medicinal mushroom [[tremella-fuciformis]] but similar to [[trametes-hirsuta]]an obligate mycoparasite, growing almost exclusively on the fruiting bodies of its host fungus. The primary host is [[tremella-fuciformis]]
 
 ### Anti-Inflammatory Effects
 
@@ -44,15 +40,10 @@ Like other Tremella species, T. aurantia polysaccharides have notable water-hold
 
 ## Ecological Significance
 
-The parasitic relationship between T. aurantia and [[trametes-versicolor-entity]] or related host fungi on sterilized hardwood substrates. Temperature requirements: 15-22°C with 90-95% humidity. The complexity of dual-fungus cultivation has limited commercial development.
-
-## Traditional Use
-
-T. aurantia has limited documented traditional use compared to other Tremella species. It is occasionally collected as an edible fungus in parts of China and Japan, used in some traditional Chinese medicine preparations (often alongside its host [[trametes-versicolor-entity]] bracket fungi.
+The parasitic relationship between T. aurantia and [[trametes-versicolor-entity]] bracket fungi.
 
 ## See Also
 
-- [[tremella-mesenterica]] — related yellow jelly fungus
 - [[psk-polysaccharide-krestin]] — protein-bound polysaccharide from the host
 ## Practical Considerations
 

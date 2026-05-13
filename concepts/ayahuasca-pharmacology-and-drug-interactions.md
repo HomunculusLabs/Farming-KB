@@ -12,27 +12,8 @@ sources:
 
 Ayahuasca is a psychoactive brew whose pharmacological complexity
 creates significant risk of dangerous drug interactions, particularly
-with common [[ayahuasca-interactions-with-prescription-medications]]. The brew typically combines
-[[ayahuasca-and-banisteriopsis-caapi]] vine (rich in beta-carboline alkaloids) with
-[[chacruna-psychotria-viridis]] leaves (containing N,N-dimethyltryptamine, DMT).
-This combination produces a unique pharmacological profile that
-demands careful attention from anyone considering its use.
-
-## Primary Active Compounds
-
-### Beta-Carboline Alkaloids (MAOIs)
-
-Banisteriopsis caapi provides the primary MAOI (monoamine oxidase
-inhibitor) component of ayahuasca. The key alkaloids include:
-
-- **Harmine**: The most abundant beta-carboline in B. caapi, a
-  reversible inhibitor of monoamine oxidase A (MAO-A)
-- **Harmaline**: A related beta-carboline with similar MAOI activity
-  and additional neuropharmacological effects
-- **Tetrahydroharmine (THH)**: Present in significant quantities,
-  also inhibits MAO-A but with additional serotonergic activity
-
-These [[turner-harmala-alkaloids-preparation-and-dosage]] serve a dual pharmacological function. First,
+with common [[ayahuasca-and-banisteriopsis-caapi]] vine (rich in beta-carboline alkaloids) with
+[[turner-harmala-alkaloids-preparation-and-dosage]] serve a dual pharmacological function. First,
 they inhibit MAO-A in the gastrointestinal tract and liver, preventing
 the enzymatic breakdown of DMT and allowing it to reach the
 bloodstream and cross the blood-brain barrier when taken orally.
@@ -118,8 +99,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[ayahuasca-pharmacology]]
 - [[ayahuasca]]
-- [[doc]]
 - [[harmine]]
 - [[tetrahydroharmine]]

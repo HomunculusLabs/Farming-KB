@@ -45,9 +45,7 @@ No careful study of United States species had been made at the time of Duggar's 
 
 ### Pure Culture Success
 
-Despite the failure to produce fruiting bodies, pure cultures of morel [[mycelium]] are easily prepared and have been maintained for years:
-
-- Cultures may be made from **spores or by the tissue method** described for *[[agaricus-campestris]]*
+Despite the failure to produce fruiting bodies, pure cultures of morel [[agaricus-campestris]]*
 - **Spores germinate readily** in almost any nutrient medium — unlike truffle spores
 - Vigorous mycelium grows on sterilized plant products of various kinds, especially **bean stems and pods** or pieces of **apple**
 - Mycelium has been grown in large quantity on **sterile loam**
@@ -91,5 +89,12 @@ Next to wild *Agaricus campestris*, the morel is more often sold on American mar
 
 ## See Also
 
-- [[mushroom-cultivation]]
 - [[mushroom-identification]]
+
+## See Also
+
+- [[morchella-angusticeps]]
+- [[morchella-importuna]]
+- [[morchella-deliciosa]]
+- [[morchella-esculenta]]
+- [[morchella-elata]]

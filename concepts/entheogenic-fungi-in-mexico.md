@@ -11,60 +11,22 @@ type: concept
 # Entheogenic Fungi in Mexico
 
 Mexico is the global center of both diversity and traditional use of
-[[challenges-neurotropic-fungi-chemical-analysis-taxonomic-identification]]. With **76 documented species** of neurotropic fungi — 44
-of which are Psilocybe — Mexico accounts for roughly 35% of all known
-neurotropic species worldwide. This extraordinary concentration is matched
-by an equally rich ethnobotanical heritage: Mexico is home to the most
-extensively documented indigenous mushroom cults on Earth.
-
-## Indigenous Groups and Mushroom Use
-
-Multiple indigenous peoples of central and southern Mexico maintain
-traditional relationships with [[cattle-dispersal-psychoactive-fungi-australia]]. The most well-documented
+[[cattle-dispersal-psychoactive-fungi-australia]]. The most well-documented
 groups include:
 
 - **Mazatec** (Oaxaca) — Perhaps the most famous practitioners. The Mazatec
-  use several species in [[metzner-shamanic-healing-and-divination-paradigm]] ceremonies, particularly
-  psilocybe-caerulescens-profile. [[shroom-cultural-history-maria-sabina-and-mazatec-tradition]], the Mazatec curandera who introduced
+  use several species in [[shroom-cultural-history-maria-sabina-and-mazatec-tradition]], the Mazatec curandera who introduced
   Wasson to the velada ceremony, became iconic in the global psychedelic
   movement.
 
-- **Mixtec** (Oaxaca) — Known for their use of [[psilocybe-cubensis-potency-variation-by-flush]] and other
-  species.
-
-- **Chinantec** (Oaxaca) — Reported to use Dictyophora indusiata (the
-  "veiled lady" mushroom) and its forms for divination purposes, despite
-  lack of confirmed neurotropic chemistry in this species.
-
-- **Zapotec** — Associated with [[psilocybe-mexicana]] |
-| atkad | Zapotec | mayor / leader | [[psilocybe-caerulescens]] |
-| pajaritos | Spanish | little birds | [[psilocybe-cubensis]] |
-| derrumbes | Spanish | landslides | [[psilocybin]]-containing species, several fungi
-are used as "sacred" mushrooms in Mexico despite lacking confirmed neurotropic
-compounds. These include boletes used in New Guinea ceremonies (reported by
-Heim), gasteromycetes (puffballs) used by the Mixtec, and Dictyophora
-indusiata used by the Chinantec. In some cases, their sacred status may
-derive from confusion with genuinely active species found in the same areas,
-or from symbolic rather than pharmacological significance.
-
-The Mixtec puffball tradition, extensively studied by Ott et al. (1975),
-revealed that at least nine different puffball species were used
-interchangeably as "narcotic" fungi. Chemical analysis confirmed that none
-contained psilocybin, and most were common edible species. This finding
-illustrates the complexity of interpreting indigenous mushroom classifications
-through a purely pharmacological lens.
-
-## See Also
-
-- [[maria-sabina]]
+- **Mixtec** (Oaxaca) — Known for their use of [[psilocybe-mexicana]] |
+| atkad | Zapotec | mayor / leader | [[psilocybe-cubensis]] |
+| derrumbes | Spanish | landslides | [[maria-sabina]]
 
 - gordon-wasson
 
-- [[psilocybe-mexicana]]
-
 - [[entheogens-and-cultural-evolution]]
 
-- [[psilocybin]]
 - [[distribution-of-neurotropic-fungi]]
 - entheogenic fungi in mexico
 ## Practical Considerations
@@ -115,8 +77,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[neurotropic-fungi]]
 - [[doc]]
-- [[psilocybin]]
 - [[dictyophora-indusiata]]
 - [[entheogenic-fungi-history]]

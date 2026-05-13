@@ -22,33 +22,7 @@ sources:
 
 # Clitoria ternatea
 
-**Clitoria ternatea** L., commonly known as **butterfly pea**, **Asian pigeonwings**, **blue pea**, or **aparajita** (अपराजिता) in Sanskrit, is a perennial climbing vine in the family Fabaceae. Native to tropical equatorial Asia, the plant is widely cultivated across [[psilocybe-southeast-asia-pacific]], India, and the Pacific for its striking deep blue flowers, which are rich in anthocyanins and have been used for centuries in traditional medicine, as a natural food colorant, and in Ayurvedic practice as a brain tonic and adaptogen.
-
-## Taxonomy and Classification
-
-- **Kingdom:** Plantae
-- **Division:** Tracheophyta
-- **Class:** Magnoliopsida
-- **Order:** Fabales
-- **Family:** Fabaceae (subfamily: Faboideae)
-- **Genus:** Clitoria
-- **Species:** C. ternatea
-- **Authority:** Carl Linnaeus, 1753
-- **Etymology:** The genus name Clitoria refers to the flower's resemblance to human female genitalia; ternatea refers to Ternate Island in the Maluku archipelago where the species was first described
-
-## Botanical Description
-
-- **Growth habit:** Perennial twining/climbing vine, 1.5–3 m long; annual in temperate zones
-- **Stems:** Slender, green, angular, slightly pubescent, with tendrils for climbing
-- **Leaves:** Pinnately compound, 5–7 leaflets per leaf; leaflets are elliptic to oblong, 2–5 cm long, entire margins
-- **Flowers:** Showy, solitary or paired, 4–5 cm long; deep blue to violet-blue (white-flowered varieties also exist); standard petal large and rounded, keel incurved; highly attractive to butterflies and bees
-- **Pods:** Linear, flat, 5–7 cm long, containing 6–10 seeds
-- **Seeds:** Ovoid, brown to black, 3–4 mm, hard-coated requiring scarification for germination
-- **Roots:** Taproot system with nitrogen-fixing rhizobial nodules
-
-## Distribution and Habitat
-
-- **Native range:** Tropical and subtropical Asia, from India and Sri Lanka eastward through Southeast Asia to northern Australia and the [[guzman-allen-gartz-neurotropic-fungi-hawaii-pacific-islands]]
+**Clitoria ternatea** L., commonly known as **butterfly pea**, **Asian pigeonwings**, **blue pea**, or **aparajita** (अपराजिता) in Sanskrit, is a perennial climbing vine in the family Fabaceae. Native to tropical equatorial Asia, the plant is widely cultivated across [[guzman-allen-gartz-neurotropic-fungi-hawaii-pacific-islands]]
 - **Cultivated:** Throughout the tropics and subtropics; widely grown as an ornamental, medicinal, and food crop in Thailand, Vietnam, Malaysia, Indonesia, and India
 - **Habitat:** Open grasslands, forest edges, roadsides, cultivated fields; climbs on fences, trellises, and other vegetation
 - **Hardiness:** USDA zones 10–12 as perennial; can be grown as an annual in zones 8–9; damaged by frost below 5°C
@@ -69,9 +43,7 @@ sources:
 - **Ayurvedic medhya rasayana:** Classified as a brain tonic (medhya) and rejuvenative (rasayana) in Ayurveda; the root is considered the primary medicinal part
 - **Cognitive enhancement:** Traditionally used to improve memory, concentration, and learning ability; modern research supports nootropic activity through multiple mechanisms
 - **Anxiolytic and antidepressant:** Root extracts demonstrate anxiolytic effects in animal models comparable to benzodiazepines, likely via GABA-A receptor modulation without sedative side effects
-- **Anti-inflammatory:** Leaf and root extracts inhibit COX-2, TNF-α, and IL-6; used traditionally for joint pain and [[cannabis-for-inflammatory-conditions]]
-- **Antidiabetic:** Anthocyanin-rich flower extracts improve insulin sensitivity and reduce postprandial blood glucose in animal models
-- **Antioxidant:** High ORAC value from ternatins; protects against [[blesching-cannabis-oxidative-stress-and-antioxidant-defense]] in hepatic and neuronal tissues
+- **Anti-inflammatory:** Leaf and root extracts inhibit COX-2, TNF-α, and IL-6; used traditionally for joint pain and [[blesching-cannabis-oxidative-stress-and-antioxidant-defense]] in hepatic and neuronal tissues
 - **Antimicrobial:** Cyclotides and anthocyanins show activity against Gram-positive bacteria, Candida species, and some viruses
 - **Reproductive health:** In traditional Indian medicine, used as an aphrodisiac and to treat menstrual disorders; scientific evidence is preliminary
 
@@ -81,10 +53,86 @@ sources:
 - **Natural food coloring:** Approved as a natural colorant (E163 category) in many countries; used to color rice dishes (nasi kerabu in Malaysia), desserts, cocktails, and confectionery
 - **Color-changing cocktails:** Popular in mixology for the dramatic blue-to-pink pH-dependent color transformation
 - **Flower tempura:** Deep-fried flowers served as a snack in Thai cuisine
-- **Dairy products:** Used to color [[ice-cream-bean-entity]], yogurt, and cheese in [[oner-southeast-asian-sativa-heritage-thai-vietnamese-cambodian]] food manufacturing
+- **Dairy products:** Used to color [[oner-southeast-asian-sativa-heritage-thai-vietnamese-cambodian]] food manufacturing
 
 ## Cultivation and Permaculture Role
 
 - **Propagation:** Seed (scarification or soaking in warm water for 12–24 hours improves germination); stem cuttings also viable; germination in 5–10 days at 25–30°C
-- **Support:** Requires trellis, fence, or companion plant to climb; excellent for [[comparison-vertical-gardening-vs-container-gardening]]
-- **[[biological-nitrogen-fixation-agriculture]]:** As a legume, fixes atmospheric nitrogen via rhizobial symbiosis, improving soil fertility for neighboring plants
+- **Support:** Requires trellis, fence, or companion plant to climb; excellent for [[biological-nitrogen-fixation-agriculture]]:** As a legume, fixes atmospheric nitrogen via rhizobial symbiosis, improving soil fertility for neighboring plants
+
+## Overview
+
+Clitoria Ternatea represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish clitoria ternatea
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving clitoria extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Clitoria Ternatea finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for clitoria ternatea. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+clitoria ternatea and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Clitoria Ternatea has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of clitoria ternatea into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.

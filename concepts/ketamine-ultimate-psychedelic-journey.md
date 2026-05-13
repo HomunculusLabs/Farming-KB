@@ -26,20 +26,7 @@ Ketamine is used clinically as a "gentle" anesthetic, often given to children an
 - **10-20 mg:** Non-psychedelic dissociative altered state
 - **50 mg:** Semi-conscious halfway zone
 - **75-125 mg:** Highly desirable Ketamine trip (~100 mg average)
-- **100 mg IM:** Standard intense [[psychedelic-dose-response]]
-
-**Other routes:**
-- **Snorting:** Liquid poured on glass tray, evaporated at 200 degrees F, powder scraped off and snorted. Less intense than injection.
-- Starting at 75 mg and increasing by 15 mg per session until desired experience is reached is recommended.
-
-The "dosage window" for a spectacular Ketamine journey is significantly wider when taken while already high on a psychedelic such as 2C-B or LSD.
-
-## The Ketamine Experience
-
-### Onset and Journey
-The high comes on ~2 minutes after injecting. User should be lying down or reclining -- they will be unconscious of their body shortly after onset.
-
-There is a break in the continuity of consciousness, then the user finds themselves in a swirling psychedelic universe. There is no concept of being high on a drug or [[fukuoka-textdoc-production-costs-not-coming-down]]. Frequently no recollection of ever having a personality, body, or knowing of planet Earth.
+- **100 mg IM:** Standard intense [[fukuoka-textdoc-production-costs-not-coming-down]]. Frequently no recollection of ever having a personality, body, or knowing of planet Earth.
 
 ### Core Experience
 - Total orgasm with the universe
@@ -84,9 +71,7 @@ Dr. Igor Kungurtsev found that controlled people who have difficulty letting go 
 
 ## Related Topics
 
-- [[dmt-candy-for-the-mind]]
 - [[lsd-molecule-of-perfection]]
-- [[psychedelic-safety-and-harm-reduction]]
 - [[harm-reduction-guide]]
 
 ## Practical Applications
@@ -118,8 +103,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[ketamine]]
 - [[doc]]
-- [[det]]
 - [[dmt]]
 - [[lsd]]

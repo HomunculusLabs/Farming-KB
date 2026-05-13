@@ -45,40 +45,97 @@ Chromatium contributes to wastewater treatment through:
 
 - **Wastewater treatment**: Essential biological agent in anaerobic sewage lagoons
 - **Heavy metal immobilisation**: Natural mechanism for removing toxic metals from wastewater without chemical intervention
-- **[[permaculture-design]]**: Demonstrates that biological systems can achieve what industrial chemistry does with less energy and cost
-- **Bioremediation**: Potential application in treating acid mine drainage and other metal-contaminated waters
-
-## Environmental Conditions
-
-- **Oxygen**: Strictly anaerobic (killed by oxygen exposure)
-- **Light**: Required for photosynthesis — found in the photic zone of ponds
-- **Sulphide**: Requires H2S as electron donor; thrives in sulphide-rich environments
-- **pH**: Tolerant of the pH 6.2-7.8 range found in anaerobic sewage ponds
-- **Temperature**: Most active at 25-30 degrees C (77-86 degrees F); reduced activity in winter
-
-## Practical Applications
-
-Chromatium finds application across multiple domains,
-from agricultural systems to ecological restoration projects.
-Practitioners integrate this knowledge into holistic design frameworks,
-optimizing outcomes through systematic observation and adaptive management.
-
-## Ecological Context
-
-Understanding chromatium within broader ecosystem dynamics reveals
-interconnections with nutrient cycling, energy flow, and species interactions.
-These relationships inform regenerative design strategies that work with
-natural processes rather than against them.
-
-## Design Considerations
-
-When incorporating chromatium into [[permaculture]] or land management plans,
+- **[[permaculture]] or land management plans,
 careful attention to site-specific conditions ensures appropriate integration.
 Climate zone, soil type, water availability, and existing vegetation
 all influence the optimal approach to implementation.
 
 ## See Also
 
-- [[thiospirillum-mollison]]
 - [[rhodopseudomonas-palustris]]
 - [[euglena-mollison]]
+
+## Overview
+
+Chromatium Mollison represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish chromatium mollison
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving chromatium extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Chromatium Mollison finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for chromatium mollison. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+chromatium mollison and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Chromatium Mollison has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of chromatium mollison into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[mentha-aquatica-mollison]]
+- [[mollison-designers-conifer-forestry-and-timber]]
+- [[mollison-designers-wickiup-and-quick-shelter-construction]]
+- [[mollison-orographic-and-forest-rainfall-effects]]
+- [[mollison-permaculture-design-course-curriculum]]

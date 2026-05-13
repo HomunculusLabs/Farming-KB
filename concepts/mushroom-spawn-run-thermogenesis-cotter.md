@@ -10,14 +10,11 @@ sources:
 
 # Mushroom Spawn Run Thermogenesis and Temperature Management
 
-During the spawn run, inoculated mycelium colonizes the [[cervantes-green-algae-growing-medium]]
-and generates significant metabolic heat (thermogenesis) that must be
-actively managed. Based on [[contamination-identification-prevention]]
-- [[mushroom-grain-sterilization]]
+During the spawn run, inoculated mycelium colonizes the [[contamination-identification-prevention]]
 - [[oyster-mushroom-pinning-induction-fruiting-conditions]]
 ## Background and Context
 
-Mushroom Spawn Run Thermogenesis Cotter is an important subject that has garnered significant attention
+[[mushroom-spawn]] Run Thermogenesis Cotter is an important subject that has garnered significant attention
 from researchers, practitioners, and enthusiasts alike. The topic
 sits at the intersection of multiple disciplines, drawing on insights
 from biology, ecology, chemistry, and practical experience. A thorough

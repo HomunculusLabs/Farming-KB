@@ -13,9 +13,7 @@ Evaporative demand—the rate at which water evaporates from a surface—is a ce
 
 ## The Core Concept
 
-The [[evaporative-demand-hypothesis-mushroom-tropism]] proposes that mushroom stipes bend because cells on different sides of the stipe experience different rates of water loss, leading to differential cell expansion:
-
-- **Drier side**: Cells exposed to higher evaporative demand lose water more rapidly, maintaining higher [[bloomfield-turgor-pressure-and-hyphal-invasion]] differential but restricting wall expansion. Cell elongation is relatively reduced.
+The [[bloomfield-turgor-pressure-and-hyphal-invasion]] differential but restricting wall expansion. Cell elongation is relatively reduced.
 - **More humid side**: Cells on the side with lower evaporative demand retain more water, allowing greater wall loosening and cell elongation.
 - **Net curvature**: The side with greater cell elongation determines the direction of bending. The stipe curves toward the side with higher evaporative demand (the drier side).
 
@@ -23,11 +21,7 @@ This mechanism can explain both anemotropism (bending toward wind) and certain a
 
 ## The Four Factors of Evaporative Demand
 
-Badham (1982) identified evaporative demand as a function of at least four interacting [[duggar-mushroom-environmental-factors-temperature-moisture-light]]:
-
-### 1. Wind Velocity
-
-Wind is the primary driver of [[windward-leeward-boundary-layer-redistribution-stipe-curvature-badham-1982]] around the mushroom stipe:
+Badham (1982) identified evaporative demand as a function of at least four interacting [[windward-leeward-boundary-layer-redistribution-stipe-curvature-badham-1982]] around the mushroom stipe:
 
 - In still air, the boundary layer (a thin film of relatively still, humid air) is symmetric around the stipe.
 - When wind blows across the stipe, the boundary layer becomes thinner on the windward side and thicker on the leeward side.
@@ -50,75 +44,93 @@ Ambient humidity directly modulates the evaporative demand gradient:
 
 Light influences evaporative demand through two distinct mechanisms:
 
-- **Thermal effect**: Light heats the illuminated surface of the mushroom, increasing the temperature and therefore the [[cervantes-vapor-pressure-deficit-transpiration]] of water at that surface. This increases the rate of evaporation on the illuminated side, creating an evaporative demand gradient even in the absence of wind.
-- **Hormonal effect**: Small quantities of light may trigger hormonal responses related to sporulation and development that independently influence [[gadd-spitzenkorper-vesicle-supply-centre-hyphal-tip-growth-direction]]. This effect is separate from the physical evaporative mechanism.
+- **Thermal effect**: Light heats the illuminated surface of the mushroom, increasing the temperature and therefore the [[gadd-spitzenkorper-vesicle-supply-centre-hyphal-tip-growth-direction]]. This effect is separate from the physical evaporative mechanism.
 
-In P. cubensis, the light intensity used in experiments (0.002 cal/cm²/min) was approximately 1% of what might be expected in the field, suggesting that the thermal effect was minimal under [[darwin-five-seedling-phototropism-experimental-conditions]]. However, in natural settings with full sunlight or strong ambient light, the thermal effect could make light the dominant factor in evaporative demand.
+In P. cubensis, the light intensity used in experiments (0.002 cal/cm²/min) was approximately 1% of what might be expected in the field, suggesting that the thermal effect was minimal under [[dom]]
+- [[phototropism]]
+- [[evaporative-demand-gradient-stipe-elongation-mechanism-badham-1982]]
 
-Light also has inhibitory effects on stipe elongation independent of evaporative demand, adding complexity to the overall photoresponse.
+## Overview
 
-### 4. Temperature
+Evaporative Demand Mechanism Fungi represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
 
-Temperature modulates evaporative demand through its effect on water vapor pressure:
+## Key Characteristics
 
-- Higher temperatures increase the vapor pressure of water at the mushroom surface, increasing the driving force for evaporation.
-- Temperature differentials across the stipe (e.g., one side warmed by light, the other shaded) create evaporative demand differentials.
-- Temperature interacts with all other factors: warm, dry, windy conditions produce the highest evaporative demand; cool, humid, still conditions produce the lowest.
+Several defining characteristics distinguish evaporative demand mechanism fungi
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
 
-## Evidence from Phycomyces
+## Ecological Context
 
-The zygomycete fungus Phycomyces blakesleeanus has provided strong supporting evidence for the evaporative demand mechanism:
-
-- **Water vapor necessity**: Johnson and Gamow (1971) demonstrated that water vapor is necessary for the avoidance response in Phycomyces, where the sporangiophore grows away from physical barriers.
-- **Boundary layer manipulation**: Experiments that modified the boundary layer around Phycomyces sporangiophores confirmed that gas exchange asymmetry drives directional growth.
-- **Ethylene involvement**: Russo et al. (1975) suggested that ethylene may be one of the gases affected by boundary layer redistribution, potentially serving as a signaling molecule in the tropic response.
-- **Force response**: Dennison (1961) showed that Phycomyces sporangiophore growth responds to both gravity and centrifugal force, indicating that the physical environment directly modulates cell expansion rates.
-
-## Cell Biological Mechanism
-
-At the cellular level, the evaporative demand mechanism operates through turgor-driven cell expansion:
-
-1. Fungal hyphae in the stipe maintain turgor pressure through osmotic water uptake.
-2. Cell wall loosening enzymes (expansins or analogous fungal proteins) allow the wall to yield to turgor pressure, resulting in cell elongation.
-3. Water loss on the high-evaporative-demand side reduces the rate of wall loosening (possibly through changes in pH or enzyme activity associated with cellular water status).
-4. The result is asymmetric cell expansion: cells on the low-evaporative-demand side elongate faster.
-5. This differential expansion is amplified along the length of the stipe, producing macroscopic curvature.
-
-This mechanism does not require hormone redistribution (unlike auxin-mediated tropisms in plants), though hormones may modulate the sensitivity of cells to evaporative demand.
-
-## Alternative: Mechanical Force Hypothesis
+The ecological relationships involving evaporative extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
 
 ## Practical Applications
 
-The principles and techniques discussed here have wide-ranging applications
-across multiple disciplines and contexts. Practitioners and researchers
-continue to explore new ways to integrate these concepts into modern practice,
-adapting traditional knowledge to contemporary challenges and opportunities.
+Evaporative Demand Mechanism Fungi finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
 
-## Key Considerations
+## Management and Implementation
 
-Several important factors influence the effectiveness and outcomes described
-in this topic. Understanding these considerations helps practitioners make
-informed decisions and avoid common pitfalls. Environmental conditions,
-timing, and material selection all play critical roles.
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for evaporative demand mechanism fungi. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+evaporative demand mechanism fungi and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
 
 ## Historical Context
 
-The historical development of this subject reflects centuries of accumulated
-knowledge and practical experience. From traditional methods passed down
-through generations to modern scientific approaches, the evolution continues
-to inform current best practices and research directions.
+Evaporative Demand Mechanism Fungi has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
 
-## Common Challenges
+## Integration Strategies
 
-Practitioners frequently encounter several challenges when working with
-these concepts. Climate variability, resource limitations, and knowledge
-gaps can all affect outcomes. Addressing these challenges requires patience,
-observation, and a willingness to adapt approaches based on results.
+Successful integration of evaporative demand mechanism fungi into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
 
 ## See Also
-- [[dom]]
-- [[det]]
-- [[phototropism]]
-- [[fungal-hyphae]]
+
+- [[bloomfield-mushroom-evaporative-cooling-fungal-frigidity]]
+- [[evaporative-demand-and-fungal-growth]]
+- [[evaporative-demand-four-factors-mushroom-tropism]]
 - [[evaporative-demand-gradient-stipe-elongation-mechanism-badham-1982]]
+- [[evaporative-demand-hypothesis-mushroom-tropism]]

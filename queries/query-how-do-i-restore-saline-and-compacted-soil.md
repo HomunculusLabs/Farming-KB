@@ -81,28 +81,9 @@ Compost improves structure, increases CEC, buffers sodium, and supports microbia
 ### Halophytes
 Species like *Salicornia*, *Atriplex* (saltbush), and *Suaeda* extract and accumulate salts. Plant during reclamation, then harvest and remove biomass to permanently extract salt.
 
-### Salt-Tolerant [[mycorrhizal-inoculation]]
-Arbuscular [[soil-testing]], site evaluation | Baseline EC, SAR, ESP |
+### Salt-Tolerant [[soil-testing]], site evaluation | Baseline EC, SAR, ESP |
 | Physical + Chemical | Month 1–2 | Drainage, ripping, gypsum, compost | EC trending down |
 | Leaching | Month 2–4 | Ponded irrigation, drainage flow | EC < 6 dS/m in root zone |
-| Biological | Month 3–12 | [[gaias-garden-cover-crops-soil-building]], halophytes, mulch | SAR < 13, structure improving |
-| Stabilization | Year 1–3 | Rotational crops, monitoring | EC < 4 dS/m, SAR < 13 |
-
-Mild saline soils: 1–2 seasons. Sodic with severe compaction: 2–5 years. Severely degraded sites may need multi-year drainage investment.
-
-## 8. Prevention Strategies
-
-- **Manage irrigation quality** — monitor EC; blend with fresh water if EC > 1.5 dS/m.
-- **Avoid over-irrigation** — excess water raises the water table and brings salts upward via capillary rise.
-- **Maintain 3–5% organic matter** — improves structure and resistance to salinity and compaction.
-- **[[query-what-is-the-best-way-to-rotate-crops-in-a-vegetable-garden]]** — include deep-rooted and salt-tolerant species.
+| Biological | Month 3–12 | [[query-what-is-the-best-way-to-rotate-crops-in-a-vegetable-garden]]** — include deep-rooted and salt-tolerant species.
 - **Minimize tillage** — preserves structure and prevents re-compaction.
-- **Year-round soil cover** — mulch and cover crops reduce evaporation-driven [[jadam-salt-accumulation-in-soil]].
-- **Control traffic** — designated equipment lanes prevent re-compacting restored areas.
-
-## Summary
-
-Restore saline and compacted soil systematically: **diagnose accurately, address physical barriers first (drainage, compaction), apply correct chemical amendments (gypsum for sodic, leaching for saline), support biological recovery (halophytes, cover crops, organic matter), and monitor with regular soil testing.** Prevention through good irrigation management, organic matter maintenance, and minimal tillage is far cheaper than remediation.
-## See Also
-
-- [[arbuscular-mycorrhizal-fungi]]
+- **Year-round soil cover** — mulch and [[cover-crops]] reduce evaporation-driven [[arbuscular-mycorrhizal-fungi]]

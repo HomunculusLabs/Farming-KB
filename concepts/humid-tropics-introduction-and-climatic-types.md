@@ -126,6 +126,13 @@ James Fox's analysis of Indonesian palm polycultures (1977) demonstrates that an
 
 ## See Also
 
-- [[wet-dry-and-monsoon-tropical-climates]]
 - [[nitrogen-fixing-trees-and-shrubs]]
 - [[mulching-guide]]
+
+## See Also
+
+- [[mollison-designers-cool-humid-climate-design-overview]]
+- [[mollison-designers-small-forest-farm-cool-humid-layout]]
+- [[warm-humid-air-delivery-chamber-cold-climate-mushroom]]
+- [[humid-tropics-introduction-and-climatic-zones]]
+- [[humid-tropics-design-and-climate-zones]]

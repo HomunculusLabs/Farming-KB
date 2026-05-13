@@ -93,12 +93,8 @@ Root harvest occurs 3–5 years after establishment, with yields of 1–3 kg dri
 
 ## See Also
 
-- [[boswellia-serrata]]
 - [[curcumin]]
-- [[berberine]]
 - [[ginkgo-biloba]]
-- [[panax-ginseng]]
 - [[salvia-miltiorrhiza]]
-- [[astragalus-membranaceus]]
 - [[scutellaria-baicalensis]]
 - [[hypericum-perforatum]]

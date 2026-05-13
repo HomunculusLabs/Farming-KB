@@ -11,15 +11,7 @@ sources: [/Users/t3rpz/wiki/raw/papers/a-training-manual-mushroom-cultivation-by
 
 ## Introduction to Shiitake Mushrooms
 
-Shiitake mushrooms ([[staycare-lentinula-edodes-in-bioremediation]]), known in Thai as "Hed Hom," are one of the most valued [[fungi-cultivated-mushrooms-pathogens-competitors]] worldwide. In the FAO [[mushroom-disabilities-training-program-design]] for people with disabilities, shiitake is included among the species that can be cultivated in substrate bags. While oyster mushrooms are the primary focus of the training, shiitake cultivation follows the same general substrate bag methodology with some important adaptations.
-
-## Botanical Characteristics
-
-Shiitake mushrooms are saprophytic fungi, meaning they feed on dead organic matter — specifically hardwood in nature. The scientific name Lentinula edodes refers to the species' preference for dead wood substrates. In the training program, shiitake is cultivated using sawdust-based substrate bags rather than the traditional log method, making it more accessible for small-scale producers and people with disabilities.
-
-## Cultivation Requirements
-
-**[[query-what-is-the-ideal-temperature-range-for-growing-cannabis]]:** Shiitake requires a narrower temperature range of 20-30°C for fruiting, making it best suited for cultivation during the rainy and cold seasons in Thailand (approximately August through January). This is slightly cooler than the requirements for most oyster mushroom varieties.
+Shiitake mushrooms ([[fungi-cultivated-mushrooms-pathogens-competitors]] worldwide. In the FAO [[query-what-is-the-ideal-temperature-range-for-growing-cannabis]]:** Shiitake requires a narrower temperature range of 20-30°C for fruiting, making it best suited for cultivation during the rainy and cold seasons in Thailand (approximately August through January). This is slightly cooler than the requirements for most [[oyster-mushroom]] varieties.
 
 **Cultivation season:** Mid-rainy season through early winter (August-January), making it complementary to the summer oyster mushroom production cycle.
 

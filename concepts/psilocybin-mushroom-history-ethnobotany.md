@@ -73,45 +73,7 @@ In a more speculative vein, McKenna recounts that within the mushroom trance, he
 
 - The mushroom claims to be an extraterrestrial organism whose spores can survive interstellar space
 - Spores are "deep, deep purple — the color that they would have to be to absorb the deep ultraviolet end of the spectrum"
-- The spore casing is "one of the hardest organic substances known" with [[mckenna-fungal-fossil-gap-spore-electron-density-and-metal-hardness]] approaching that of metal
-- By Brownian motion, some spores could theoretically percolate to the edge of a planet's atmosphere and escape into space
-- At 1% of the speed of light, spores could cross the galaxy (100,000 light-years) in 100 million years — far less than the 1.8 billion years that life has existed on Earth
-- McKenna notes that "there are no fungi in the fossil record older than forty million years"
-
-He presents this not as established fact but as what the mushroom itself communicates: "I don't necessarily believe what the mushroom tells me; rather we have a dialogue. It is a very strange person and has many bizarre opinions."
-
-## Shamanism and the Mushroom
-
-### Shamanic practice
-
-McKenna provides a nuanced account of shamanism based on his fieldwork:
-
-- "Shamanism is primarily techniques, not ritual. It is a set of techniques that have been worked out over millennia that make it possible, though perhaps not for everyone, to explore these areas"
-- Signs of shamanic calling include "oddness or uniqueness," epilepsy, surviving unusual ordeals (lightning strikes, near-death illness), and "hypersensitivity to trance states"
-- "The distinguishing characteristic is an extraordinary centeredness"
-- "Usually the shaman is an intellectual and is alienated from society"
-- Shamans are "the true phenomenologists of this world; they know plant chemistry, yet they call these energy fields 'spirits'"
-- Shamans traditionally hold no political power and are peripheral to ordinary social life, called upon only in crisis
-
-### The loss of shamanic tradition
-
-McKenna identifies the absence of a living shamanic tradition as "the tragedy of our cultural situation." Without the intergenerational transmission of techniques for navigating extraordinary states of consciousness, modern Westerners who encounter these experiences lack the frameworks and practices developed over millennia to integrate them safely and productively.
-
-### Borges's "Sect of the Phoenix"
-
-McKenna draws a parallel to Jorge Luis Borges's short story "The Sect of the Phoenix," which describes a secret society present in every human culture throughout history. The sect's central rite is trivial, momentary, requires no description, and is "always somewhat ridiculous" yet sacred. Borges never explicitly identifies the rite, but McKenna connects it through "The Aleph" (another Borges story) to the experience of tryptamine ecstasy — a universal human potential that has been independently discovered and practiced across cultures but never brought into full light.
-
-## Modern Revival
-
-### Scientific research
-
-Since the early 2000s, psilocybin has experienced a major research renaissance:
-
-- Johns Hopkins University established a psychedelic research program in 2000
-- Imperial College London's Centre for Psychedelic Research opened in 2019
-- Clinical trials have shown efficacy for treatment-resistant depression, end-of-life anxiety, nicotine addiction, and alcohol dependence
-- The FDA granted Breakthrough Therapy designation to psilocybin for treatment-resistant depression in 2018 and 2019
-- [[compass-pathways]] received FDA approval for Phase III clinical trials of synthetic psilocybin
+- The spore casing is "one of the hardest organic substances known" with [[compass-pathways]] received FDA approval for Phase III clinical trials of synthetic psilocybin
 
 ### Legal and cultural shifts
 
@@ -122,13 +84,7 @@ Since the early 2000s, psilocybin has experienced a major research renaissance:
 
 ## Related Concepts
 
-- [[tryptamine-hallucinogens-dmt-psilocybin-chemistry]]
 - [[dmt-experience-phenomenology-hyperspace]]
-- [[mckenna-logos-consciousness-language]]
-- psilocybin therapy clinical research
-
-## See Also
-
-- McKenna T. (1983/1992) "[[tryptamine-hallucinogens-and-consciousness]] Consciousness." The [[archaic-revival-partnership-vs-dominator-cultures]]. HarperSanFrancisco.
+- [[tryptamine-hallucinogens-and-consciousness]] Consciousness." The [[archaic-revival-partnership-vs-dominator-cultures]]. HarperSanFrancisco.
 - Wasson RG. (1957) "Seeking the Magic Mushroom." Life Magazine 49(19): 100-120.
 - Hofmann A et al. (1959) "Psilocybin, ein psychotroper Wirkstoff aus dem mexikanischen Zauberpilz." Experientia 15(3): 107-109.

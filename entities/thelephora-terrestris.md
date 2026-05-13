@@ -11,13 +11,7 @@ sources:
 
 # Thelephora terrestris
 
-**Thelephora terrestris** is an ectomycorrhizal basidiomycete fungus in the family Thelephoraceae, commonly known as the earthfan. It is one of the most common and widely distributed ectomycorrhizal fungi, frequently found as a natural colonizer of tree seedlings in forest nurseries and reforestation sites. Despite its ubiquity, it is generally considered less effective than purpose-selected [[pgpr-mycorrhizal-inoculants-microplant-establishment]] for tree growth promotion.
-
-## Taxonomy and Distribution
-
-Thelephora terrestris is a cosmopolitan ectomycorrhizal fungus associated with a broad range of coniferous and deciduous tree hosts. It is particularly prevalent in forest nurseries, where it commonly appears as a "weed fungus" that spontaneously colonizes seedling root systems, often outcompeting intentionally inoculated mycorrhizal species. The fungus produces fan-shaped to funnel-shaped basidiocarps that grow on the soil surface at the base of host trees.
-
-The species has been extensively documented in pine (Pinus spp.) plantations and nurseries across [[psilocybin-north-america-pacific-northwest]] and Europe. It is one of the first ectomycorrhizal fungi to colonize young seedlings in nursery conditions and can form extensive [[dighton-mycorrhizal-networks-carbon-transfer]] in bareroot [[mollison-designers-plant-nursery-seedling-production]] beds.
+**Thelephora terrestris** is an ectomycorrhizal basidiomycete fungus in the family Thelephoraceae, commonly known as the earthfan. It is one of the most common and widely distributed [[ectomycorrhizal-fungi]], frequently found as a natural colonizer of tree seedlings in forest nurseries and reforestation sites. Despite its ubiquity, it is generally considered less effective than purpose-selected [[psilocybin-north-america-pacific-northwest]] and Europe. It is one of the first ectomycorrhizal fungi to colonize young seedlings in nursery conditions and can form extensive [[mollison-designers-plant-nursery-seedling-production]] beds.
 
 ## Mycorrhizal Effectiveness
 
@@ -33,7 +27,7 @@ body and root colonization, they showed that mycorrhizal communities dominated
 by Hebeloma spp. had higher phosphorus influx into leaves than communities
 dominated by either Laccaria spp., Lactarius spp., or Thelephora spp.
 
-Laccaria proxima induced a higher level of tissue phosphorus content in willow (Salix viminalis) than did Thelephora terrestris, further indicating that Thelephora terrestris is not among the most effective ectomycorrhizal species for phosphorus uptake. Villeneuve et al. (1991b) investigated natural mycorrhizal flora effects on seedling performance, with Thelephora terrestris frequently among the dominant species.
+Laccaria proxima induced a higher level of tissue phosphorus content in willow ([[salix-viminalis]]) than did Thelephora terrestris, further indicating that Thelephora terrestris is not among the most effective ectomycorrhizal species for phosphorus uptake. Villeneuve et al. (1991b) investigated natural mycorrhizal flora effects on seedling performance, with Thelephora terrestris frequently among the dominant species.
 
 ### Enzyme Production
 

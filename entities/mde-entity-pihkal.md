@@ -8,39 +8,7 @@ sources: ["Shulgin - PIHKAL"]
 ---
 # MDE
 
-[[2c-b-pihkal-entry-20]] #106. MDEA; EVE; N-ETHYL-MDA;.
-
-## Chemical Name
-
-MDEA; EVE; N-ETHYL-MDA;
-
-## Dosage and Duration
-
-| Property | Value |
-|----------|-------|
-| Dosage | 100 - 200 mg. |
-| Duration | 3 - 5 h. |
-
-## Qualitative Comments
-
-> (with 100 mg) There was a warm light all about
-> me. And a gentle, almost alcohol-like, intoxication. The drug seems
-> to change my state of awareness, but it does nothing else. The world
-> is as intense or as dull as I choose to make it. At the 1.5 hour
-> point I was clearly dropping, and an hour later yet, completely
-> without residue.
->
-> (with 160 mg) The first effects were felt in forty minutes and I
-> seemed to be completely there by the end of that first hour. There
-> was an initial slightly dizzy intoxication, and then I felt very nice.
-> A good intoxication, with maybe a little motor incoordination. There
-> was absolutely no appetite at all. The next morning there was still
-> some feeling of elation but I was still very relaxed. High marks for
-> the quality of the experience.
->
-> (with 160 mg) Overall this was a wonderful experience. I felt that
-> the effect was stronger and smoother than [[qualitative-comments-methodology-pihkal]]
-- [[pihkal-qualitative-effects-themes]]
+[[qualitative-comments-methodology-pihkal]]
 - [[ethyl-k-entity-pihkal]]
 ## Practical Considerations
 
@@ -88,3 +56,88 @@ complexity of day-to-day management and observation activities.
 Ongoing developments in research and practice continue to expand our
 understanding and improve available approaches. New techniques, tools,
 and analytical methods offer opportunities for refinement and innovation
+
+## Overview
+
+Mde Entity Pihkal represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish mde entity pihkal
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving mde extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Mde Entity Pihkal finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for mde entity pihkal. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+mde entity pihkal and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Mde Entity Pihkal has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of mde entity pihkal into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[2c-c-entity]]
+- [[2c-o-4-entity]]
+- [[4-ho-dbt-entity-tihkal]]
+- [[mckenna-dmt-i-thou-relationship-entity-encounter-ethics]]
+- [[pyrethrum-entity]]

@@ -21,15 +21,11 @@ type: concept
 
 The demonstration by Gartz, Adam and Vorbrodt (1990) that a plant
 steroidal hormone, 22S,23S-homobrassinolide, profoundly affects the
-growth and development of [[psilocybe-cubensis]] to brassinosteroids may
-represent a window into an ancient signaling system predating plant-fungal
-divergence. Understanding this system could provide new tools for
-[[accessible-mushroom-cultivation-for-disabilities]] and new insights into eukaryotic signaling
+growth and development of [[accessible-mushroom-cultivation-for-disabilities]] and new insights into eukaryotic signaling
 evolution.
 ## Related Concepts
 
-- Brassinosteroids as steroidal phytohormones for fungal [[brassinosteroid-growth-promotion-psilocybe-cubensis]] for the broader phytohormone context
-- [[22s-23s-homobrassinolide-chemistry-and-synthesis]] for the compound
+- Brassinosteroids as steroidal phytohormones for fungal [[22s-23s-homobrassinolide-chemistry-and-synthesis]] for the compound
   enabling cross-kingdom activity
 
 ## See Also

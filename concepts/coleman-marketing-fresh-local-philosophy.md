@@ -3,8 +3,7 @@ title: Marketing Philosophy — Fresh, Local, and Beyond Organic
 created: 2026-05-08
 sources:
   - path: /Users/t3rpz/wiki/raw/papers/eliot-coleman-winter-harvest-handbook.md
-    title: The [[coleman-claytonia-winter-harvest-cultivation]] Handbook - eliot-coleman
-    author: [[eliot-coleman]]
+    title: The eliot-coleman
 updated: 2026-05-08
 type: concept
 tags: [reference]
@@ -14,8 +13,7 @@ tags: [reference]
 
 ## The Industrialization of Organic
 
-[[eliot-coleman]] has been involved in organic agriculture since 1965.
-In those early days, the distinctiveness of [[coleman-deep-organic-farming-philosophy]] gave
+[[coleman-deep-organic-farming-philosophy]] gave
 small growers a unique marketing advantage. That advantage
 disappeared when organic became industrialized. As more and more
 organic produce became available from distant sources, the word
@@ -90,9 +88,7 @@ cannot replicate.
 Originally the farm's labor force consisted of Coleman and his wife
 
 ## See Also
-- [[det]]
 - [[ghb]]
-- [[coleman-pest-philosophy-first-rule]]
 - [[coleman-winter-harvest-philosophy]]
 - [[coleman-deep-organic-farming-philosophy]]
 

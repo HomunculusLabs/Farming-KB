@@ -10,7 +10,7 @@ sources:
 ---
 # Mycorestoration Ecology
 
-Mycorestoration is the use of fungi to repair or restore the weakened immune systems of environments. Paul Stamets coined this umbrella term to encompass all applications of fungi for ecological recovery, including [[mycoforestry-principles-stamets]], [[mycopesticides-stamets]]. Mycorestoration recognizes the primary role fungi play in determining the balance of biological populations.
+Mycorestoration is the use of fungi to repair or restore the weakened immune systems of environments. Paul Stamets coined this umbrella term to encompass all applications of fungi for ecological recovery, including [[mycopesticides-stamets]]. Mycorestoration recognizes the primary role fungi play in determining the balance of biological populations.
 
 ## Core Philosophy
 
@@ -20,40 +20,26 @@ Stamets writes: "On land, all life springs from soil. Soil is ecological currenc
 
 ### Soil as Ecological Currency
 
-The soil-currency metaphor extends deeply into Stamets' framework. With each successive mycelial generation cycling through a habitat, measurable improvements accumulate: soil depth increases as fungal hyphae bind and aggregate particles, moisture retention improves as [[fungal-mycelial-networks-nutrient-translocation]] create humus and improve soil structure, and the carrying capacity of the environment expands. The vanguard saprophytes enter the landscape first, improving nutrient flows, moisture absorption, and disease resistance. Subsequent generations of organisms then thrive in the soil created by fungi. Ultimately, trees grow and bequeath debris streams for more fungal cycles -- a self-reinforcing ecological economy.
+The soil-currency metaphor extends deeply into Stamets' framework. With each successive mycelial generation cycling through a habitat, measurable improvements accumulate: soil depth increases as fungal hyphae bind and aggregate particles, moisture retention improves as [[staycare-trametes-versicolor-bioremediation-applications]]*) are multibeneficial, preventing blights, fighting bacteria, and breaking down toxic chemicals like PCBs and dioxins.
 
-### The Habitat Immune System Analogy
-
-Stamets argues that habitats possess immune systems that can be strengthened or weakened. Pollution harms these environmental immune systems -- for example, chemical contaminants from feedlots introduce coliforms, nitrates, and phosphorus into downstream watersheds. Mushrooms like turkey tail (*[[staycare-trametes-versicolor-bioremediation-applications]]*) are multibeneficial, preventing blights, fighting bacteria, and breaking down toxic chemicals like PCBs and dioxins.
-
-Just as the human immune system benefits from medicinal mushrooms, environmental immune systems benefit from deploying the right fungal species. What weakens environmental immune systems includes monoculture forestry, pesticide overuse, erosion, and chemical contamination -- all of which reduce the diversity and resilience of fungal communities. Fungi restore these systems by rebuilding soil structure, reintroducing microbial diversity, and cycling nutrients that support higher organisms. The key is identifying which resident or introduced species can counteract specific stressors -- see [[mycofiltration-of-water-stamets]].
-2. **Mycoforestry** -- using fungi to implement ecoforestry policy and enhance forest health. [[comparison-companion-planting-reference-vs-jadam-monoculture-critique]] with mycorrhizal species and strategic saprophyte introduction improves forest resilience. See mycoremediation-stamets-approach.
-4. **Mycopesticides** -- using fungi to control insect pests naturally. Endophytic fungi hosted by grasses, for example, produce toxins that kill fire ants. See [[fungal-ecology]] and [[mycological-landscaping-and-gardening]] for applied techniques and [[mycofiltration-of-water-stamets]] to reduce coliform bacteria and nutrient runoff from a cattle farm into an adjacent watershed.
-Mycelial filters placed in drainage channels reduced E. coli and fecal coliform counts by over 90%, demonstrating the practical viability of fungal filtration for agricultural water management.
-See [[soil-food-web-structure]] is increasingly studied, as they form a bridge between above-ground plant communities and below-ground microbial networks.
+Just as the human immune system benefits from medicinal mushrooms, environmental immune systems benefit from deploying the right fungal species. What weakens environmental immune systems includes monoculture forestry, pesticide overuse, erosion, and chemical contamination -- all of which reduce the diversity and resilience of fungal communities. Fungi restore these systems by rebuilding soil structure, reintroducing microbial diversity, and cycling nutrients that support higher organisms. The key is identifying which resident or introduced species can counteract specific stressors -- see [[comparison-companion-planting-reference-vs-jadam-monoculture-critique]] with mycorrhizal species and strategic saprophyte introduction improves forest resilience. See mycoremediation-stamets-approach.
+4. **Mycopesticides** -- using fungi to control insect pests naturally. Endophytic fungi hosted by grasses, for example, produce toxins that kill fire ants. See [[mycological-landscaping-and-gardening]] for applied techniques and [[soil-food-web-structure]] is increasingly studied, as they form a bridge between above-ground plant communities and below-ground microbial networks.
 
 ## Mycorestoration and Climate Change
 
-Mycorestoration offers several pathways [[query-why-are-mangroves-critical-for-climate-change-adaptation-and-coastal-protection]] mitigation and adaptation.
-Mycelial networks sequester carbon in soil through the production of glomalin-related soil proteins (by mycorrhizal fungi) and through the formation of stable humic compounds from decomposed organic matter.
-Forest restoration guided by mycoremediation-scale-up-challenges remain significant, including the need for reliable spawn production at scale, competition from [[beneficial-indigenous-microorganisms-bim]], and the longer timeframes required compared to physical remediation methods.
+Mycorestoration offers several pathways [[beneficial-indigenous-microorganisms-bim]], and the longer timeframes required compared to physical remediation methods.
 
 ## Limitations and Knowledge Gaps
 
 Despite its promise, mycorestoration faces several scientific and practical limitations.
 Laboratory success does not always translate to field effectiveness, as environmental variables including temperature, moisture, pH, nutrient availability, and competing organisms can significantly alter fungal activity.
-Most published studies have focused on a small number of model species, particularly [[staycare-phanerochaete-chrysosporium-in-bioremediation]] and Trametes versicolor, leaving the vast majority of fungal species untested for bioremediation potential.
-Long-term monitoring data is scarce, making it difficult to assess the durability of remediation outcomes over years and decades.
-The formation of toxic transformation intermediates during [[monitoring-and-assessment-of-fungal-bioremediation]].
+Most published studies have focused on a small number of model species, particularly [[monitoring-and-assessment-of-fungal-bioremediation]].
 Regulatory frameworks for fungal bioremediation remain underdeveloped in most jurisdictions, creating uncertainty about permitting requirements and liability.
 Addressing these knowledge gaps through rigorous, long-term field studies is essential for mycorestoration to achieve its full potential.
 
 ## See Also
 
-- [[mycofiltration-of-water-stamets]] -- water filtration applications
 - [[mycopesticides-stamets]] -- pest control applications
-- [[soil-food-web-structure]] -- soil biology
-- fungal-roles-in-agriculture
 - [[mycological-landscaping-and-gardening]]
 - [[bolete-mushrooms-ecology-edibility]]
 ## Practical Considerations
@@ -88,3 +74,77 @@ these challenges enables more proactive and effective management.
 Building resilience into implementations through diversity, redundancy,
 and adaptive capacity helps buffer against unpredictable events and
 conditions. This approach recognizes that some degree of uncertainty is
+
+## Overview
+
+Mycorestoration Ecology represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish mycorestoration ecology
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving mycorestoration extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Mycorestoration Ecology finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for mycorestoration ecology. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+mycorestoration ecology and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Mycorestoration Ecology has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of mycorestoration ecology into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource

@@ -24,17 +24,7 @@ The species is instantly recognizable by its thick, fuzzy, bright green leaves w
 
 In the international succulent trade, the species is sometimes labeled under its synonym Cotyledon undulata, particularly for the narrow-leaved subsp. ladismithiensis.
 
-It has become extremely popular in [[cervantes-container-gardening-pot-size]] and succulent arrangements worldwide. Its compact size, unusual texture, and forgiving nature make it an ideal beginner succulent.
-
-The plant has gained particular popularity in East Asian succulent markets, where specimen plants with symmetrical leaf arrangements are sold as ornamental features. Two recognized subspecies differ in leaf shape and dentition—subsp. tomentosa has broader, fewer-toothed leaves while subsp. ladismithiensis has narrower leaves with more teeth.
-
-## Taxonomy and Morphology
-
-Cotyledon tomentosa was described by William Henry Harvey in 1862. The genus Cotyledon comprises about 10 species, all native to southern Africa, and belongs to the tribe Kalanchoeae within Crassulaceae.
-
-The specific epithet *tomentosa* refers to the dense, felted pubescence covering the leaves and young stems. This hair layer consists of short, branched trichomes that create a velvety texture and reduce water loss through transpiration.
-
-Leaves are borne in opposite pairs, each leaf measuring 2–5 cm long and 1.5–3 cm wide. The [[aact-foliar-sticker-spreaders-leaf-surface-attachment-ingham]] is densely pubescent with a soft, felt-like coating. The distinctive apical teeth number 3–10 and develop red-brown coloration in bright light.
+It has become extremely popular in [[aact-foliar-sticker-spreaders-leaf-surface-attachment-ingham]] is densely pubescent with a soft, felt-like coating. The distinctive apical teeth number 3–10 and develop red-brown coloration in bright light.
 
 Stems are erect to sprawling, becoming woody at the base with age. Plants form small shrublets 15–30 cm tall and up to 40 cm wide, with branches that root where they contact soil.
 
@@ -44,17 +34,7 @@ Chromosome number is 2n = 36. The species is relatively stable in cultivation wi
 
 Subsp. ladismithiensis (formerly treated as a separate species) occurs near Ladismith in the Western Cape. It has narrow, elongated leaves with 5–10 teeth and a more upright growth habit.
 
-The two subspecies are separated geographically by about 200 km and differ consistently in [[cannabis-leaf-morphology-and-phyllotaxy]], though intermediate forms are occasionally reported from cultivation.
-
-## Distribution and Habitat
-
-Cotyledon tomentosa is endemic to the Eastern Cape Province of South Africa, with a range extending from Graaff-Reinet to Queenstown and south toward Port Elizabeth. It occurs in the succulent thicket and valley bushveld vegetation types.
-
-The species grows on rocky outcrops, cliff ledges, and stony slopes at elevations of 400–1,200 meters. Plants anchor in shallow soil pockets and rock crevices where drainage is rapid and competition from larger plants is minimal.
-
-Rainfall in the region is bimodal, with peaks in spring and autumn averaging 300–500 mm annually. Summers are hot and dry, and winter temperatures rarely drop below freezing.
-
-The vegetation community includes other succulents such as Aloe, Crassula, Haworthia, and Euphorbia species. Shrubby cover from [[portulacaria-afra]] and spekboom provides dappled shade for seedlings.
+The two subspecies are separated geographically by about 200 km and differ consistently in [[portulacaria-afra]] and spekboom provides dappled shade for seedlings.
 
 Fog and mist from the Indian Ocean reach inland valleys periodically, providing supplementary moisture that sustains plants through dry summer months.
 
@@ -64,26 +44,97 @@ Geological substrate is predominantly shale and mudstone of the Karoo Supergroup
 
 ## Cultivation
 
-Bear's paw succulent requires bright light to maintain [[fukuoka-ideal-rice-plant-morphology-compact-growth-high-yield]] and develop the red-brown tooth coloration. Plants grown in low light become etiolated with elongated internodes and lose their distinctive appearance.
-
-Use a freely draining soil mix containing at least 60% inorganic components such as pumice, perlite, or coarse sand. The species is intolerant of waterlogged conditions and rots quickly in heavy or peat-based soils.
-
-Water moderately during [[query-how-to-protect-plants-from-frost-and-extend-the-growing-season]] (spring through autumn), allowing the soil to dry completely between waterings. In winter, water only enough to prevent severe leaf shriveling—approximately once every 3–4 weeks.
+Bear's paw succulent requires bright light to maintain [[query-how-to-protect-plants-from-frost-and-extend-the-growing-season]] (spring through autumn), allowing the soil to dry completely between waterings. In winter, water only enough to prevent severe leaf shriveling—approximately once every 3–4 weeks.
 
 Propagation is easy from stem cuttings, which root readily in damp sand or perlite within 2–3 weeks. Leaf cuttings are possible but less reliable than stem cuttings for this species.
 
-Hardy to approximately −2 °C (USDA Zone 10) for brief periods if kept absolutely dry. Most growers maintain the species as a houseplant or greenhouse specimen [[query-how-to-grow-and-use-oca-in-temperate-climates]].
-
-Indoor plants benefit from a summer vacation outdoors in dappled shade, which strengthens growth and enhances leaf coloration. Mealybugs are the most common pest, hiding in the dense leaf hairs.
-
-A period of cool, dry winter rest (5–10 °C) promotes flowering the following spring. Without this rest period, plants may grow vegetatively but fail to set buds.
-
-Reported hybrids with Cotyledon orbiculata display intermediate leaf shapes with reduced pubescence. These hybrids are occasionally sold as unnamed cultivars in the nursery trade.
-
-Regular removal of dead lower leaves improves [[stamets-growing-room-air-circulation-co2-management]] and reduces the risk of [[blesching-cannabis-fungal-infections-candida]]. The dried leaf bases can harbor moisture and pathogens if left attached to the stem.
-
-Repotting is best done in [[coleman-overwintered-onions-and-early-spring-crops]] as new growth begins. Handle plants gently to avoid damaging the fragile leaf hairs and avoid touching the leaves unnecessarily.
+Hardy to approximately −2 °C (USDA Zone 10) for brief periods if kept absolutely dry. Most growers maintain the species as a houseplant or greenhouse specimen [[stamets-growing-room-air-circulation-co2-management]] and reduces the risk of [[coleman-overwintered-onions-and-early-spring-crops]] as new growth begins. Handle plants gently to avoid damaging the fragile leaf hairs and avoid touching the leaves unnecessarily.
 
 ## Ecology
 
-The dense leaf pubescence serves multiple [[fungal-melanin-biosynthesis-ecological-functions]]: it reflects excess solar radiation, traps [[jarrold-warm-humid-air-delivery-chamber-cold-climate-mushroom]] near the leaf surface, and deters small herbivorous insects. The felted coating also channels rainwater toward the stem base.
+The dense leaf pubescence serves multiple [[jarrold-warm-humid-air-delivery-chamber-cold-climate-mushroom]] near the leaf surface, and deters small herbivorous insects. The felted coating also channels rainwater toward the stem base.
+
+## Overview
+
+Cotyledon Tomentosa represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish cotyledon tomentosa
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving cotyledon extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Cotyledon Tomentosa finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for cotyledon tomentosa. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+cotyledon tomentosa and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Cotyledon Tomentosa has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of cotyledon tomentosa into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[cotyledon-orbiculata]]
+- [[cotyledon-undulata]]
+- [[kalanchoe-tomentosa]]
+- [[paulownia-tomentosa]]
+- [[uncaria-tomentosa]]

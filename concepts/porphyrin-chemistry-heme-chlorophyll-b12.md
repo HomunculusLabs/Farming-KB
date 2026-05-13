@@ -57,8 +57,7 @@ triggering the T-to-R conformational change. Myoglobin stores oxygen in muscle t
 hyperbolic binding. Cytochrome c transfers electrons between Complexes III and IV via covalently
 attached heme c (E approximately +250 mV). Cytochrome P450 uses a cysteine thiolate proximal
 ligand instead of histidine, enabling monoxygenation reactions through the reactive iron-oxo
-Compound I intermediate, central to [[cytochrome-p450-enzymes-drug-metabolism]] and steroid synthesis. Catalase dismutates
-[[cervantes-hydrogen-peroxide-sterilization]] with turnover approximately 10^7 s^-1, one of the fastest enzymes known.
+Compound I intermediate, central to [[cervantes-hydrogen-peroxide-sterilization]] with turnover approximately 10^7 s^-1, one of the fastest enzymes known.
 Peroxidases use H2O2 to oxidize organic substrates through the same Compound I mechanism.
 
 ## Chlorophyll
@@ -88,3 +87,11 @@ CoA mutase (propionate metabolism) and other radical rearrangement enzymes. The 
 unusually weak (approximately 30 kcal/mol), enabling homolytic cleavage to generate the
 5'-deoxyadenosyl radical. Cyanocobalamin (synthetic supplement) and hydroxocobalamin
 (pharmaceutical) are converted to MeCbl and AdoCbl in vivo. Deficiency causes megaloblastic
+
+## See Also
+
+- [[staycare-fungal-redox-mediator-chemistry-pollutant-degradation]]
+- [[psilocybin-mushroom-bluing-reaction-chemistry]]
+- [[cannabis-terpene-and-aroma-chemistry-clarke]]
+- [[psilocybin-mushroom-biology-chemistry]]
+- [[fenton-reaction-chemistry-and-biochemistry]]

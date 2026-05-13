@@ -40,17 +40,11 @@ Described by Guzmán from material collected in the department of Antioquia, Col
 
 ### Gills (Lamellae)
 - Adnate to slightly adnexed, close to subdistant
-- Pallid gray at first, darkening through purplish-brown to deep brown with [[spore-print]] dark purplish-brown
-- Basidia 4-spored, clavate
-- Cheilocystidia numerous, ventricose-rostrate
-
-## Distribution and Habitat
-
-Known primarily from the Colombian Andes, specifically the department of Antioquia, at elevations between 1,500 and 2,500 meters above sea level. It grows in cloud forest and subtropical montane forest environments, typically on soil rich in mollison [[mollison-designers-humus-building-and-soil-organic-matter]] along trails, road cuts, and in disturbed forest clearings. The species appears restricted to the northern Andes and has not been confirmed outside of Colombia despite surveys in neighboring countries.
+- Pallid gray at first, darkening through purplish-brown to deep brown with [[mollison-designers-humus-building-and-soil-organic-matter]] along trails, road cuts, and in disturbed forest clearings. The species appears restricted to the northern Andes and has not been confirmed outside of Colombia despite surveys in neighboring countries.
 
 ## Chemistry and Pharmacology
 
-[[challenges-neurotropic-fungi-chemical-analysis-taxonomic-identification]] confirms the presence of psilocybin and [[psilocybe-caerulescens]]*, which has a broader distribution across Mexico and [[guzman-allen-gartz-neurotropic-fungi-central-america-caribbean]] and shares the montane habitat preference and strong bluing. *P. antioquensis* differs in its more restricted Andean distribution, slightly different spore morphology, and the character of its annulus. *[[psilocybe-zapotecorum]]*, also found at higher elevations in the neotropics, tends to grow in more swampy or bog-like conditions and has a more robust stature with a distinct umbo.
+[[psilocybe-caerulescens]]*, which has a broader distribution across Mexico and [[psilocybe-zapotecorum]]*, also found at higher elevations in the neotropics, tends to grow in more swampy or bog-like conditions and has a more robust stature with a distinct umbo.
 
 ## Conservation Status
 

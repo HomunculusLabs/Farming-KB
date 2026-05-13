@@ -21,9 +21,7 @@ sources:
 
 ## Overview
 
-Vigna umbellata, commonly known as rice bean or red bean, is an annual legume in the family Fabaceae. It is cultivated primarily in South and [[psilocybe-southeast-asia-pacific]] as a food crop, though it remains underutilized compared to its close relatives mung bean and adzuki bean.
-
-The species produces small seeds ranging in color from red to yellow, brown, or mottled. It is valued for its nitrogen-fixing ability, [[dighton-fungal-drought-tolerance-plant-water-relations]], and adaptability to marginal soils, making it a promising crop for sustainable agriculture.
+Vigna umbellata, commonly known as rice bean or red bean, is an annual legume in the family Fabaceae. It is cultivated primarily in South and [[dighton-fungal-drought-tolerance-plant-water-relations]], and adaptability to marginal soils, making it a promising crop for sustainable agriculture.
 
 Rice bean serves as a dual-purpose crop, providing both edible seeds and nutritious forage. It has received increasing attention from agricultural researchers as a climate-resilient pulse for food security in mountainous and rain-fed regions.
 
@@ -35,7 +33,7 @@ The plant is an annual climbing or trailing vine reaching 30-100 cm in length. S
 
 Flowers are borne on axillary racemes, typically 5-10 cm long, producing yellow to golden-yellow papilionaceous blooms. Pods are cylindrical, 5-10 cm long, containing 6-10 seeds each. Seeds are oblong, approximately 5-7 mm long, with a distinctive hilum and a smooth to slightly wrinkled testa.
 
-The root system features a prominent taproot with abundant lateral roots and effective nodulation by Bradyrhizobium species. This nitrogen-fixing symbiosis contributes significantly to soil fertility in intercropping systems.
+The root system features a prominent taproot with abundant lateral roots and effective nodulation by Bradyrhizobium species. This nitrogen-fixing symbiosis contributes significantly to soil fertility in [[intercropping-systems]].
 
 ## Distribution and Habitat
 
@@ -43,7 +41,7 @@ Vigna umbellata originated in the Indo-Myanmar region and is widely distributed 
 
 The species thrives at elevations from 200 to 2,000 meters above sea level. It is well-adapted to a range of agroecological zones, from subtropical to warm temperate conditions with annual rainfall of 800-2,000 mm.
 
-Rice bean grows on a variety of soil types including sandy loams, red laterites, and acidic mountain soils. It tolerates soil pH from 4.5 to 7.5 and demonstrates notable aluminum toxicity tolerance compared to other Vigna species.
+Rice bean grows on a variety of soil types including sandy loams, red laterites, and acidic mountain soils. It tolerates [[soil-ph]] from 4.5 to 7.5 and demonstrates notable aluminum toxicity tolerance compared to other Vigna species.
 
 The crop is particularly important in shifting cultivation systems and marginal lands where other legumes perform poorly. Its drought tolerance makes it suitable for rain-fed upland rice-based cropping systems.
 
@@ -73,9 +71,7 @@ The leaves and young pods are also consumed as vegetables in several Asian cuisi
 
 ## Ecology and Applications
 
-Vigna umbellata contributes to sustainable agriculture through [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]] fixation, adding an estimated 40-80 kg of nitrogen per hectare to the soil. This makes it an excellent component in crop rotation systems and low-input farming.
-
-In permaculture and agroforestry contexts, rice bean serves as a ground cover crop that suppresses weeds, reduces soil erosion, and improves soil [[hamilton-composting-and-organic-matter-management]]. Its rapid growth and canopy closure provide effective weed suppression within 30-40 days of planting.
+Vigna umbellata contributes to sustainable agriculture through [[hamilton-composting-and-organic-matter-management]]. Its rapid growth and canopy closure provide effective weed suppression within 30-40 days of planting.
 
 The species shows promise as a cover crop in conservation agriculture systems. Its residue decomposes readily, releasing nutrients for subsequent crops. Research indicates potential for integration into no-till farming systems in tropical and subtropical regions.
 

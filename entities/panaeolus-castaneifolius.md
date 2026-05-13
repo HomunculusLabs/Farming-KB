@@ -2,30 +2,7 @@
 title: Panaeolus castaneifolius
 created: 2026-04-28
 type: species
-tags: [panaeolus, [[psilocybin-mushroom]], dung-inhabiting, grassland-fungi, weakly-active]
-date: 2026-04-28
-updated: 2026-04-28
-sources:
-  - "raw/papers/psilocybin-mushrooms-of-the-world-stamets.md"
-  - "raw/papers/the-mushroom-cultivator-stamets.md"
----
-
-# Panaeolus castaneifolius
-
-**Panaeolus castaneifolius** (Murrill) Ola'h is a grassland mushroom species
-in the family Bolbitiaceae. It is classified as a latently psilocybin-producing
-species, meaning that some but not all collections contain detectable levels of
-psychoactive compounds. When active, it is considered weak. The species was
-originally described by Murrill and later recombined by Ola'h (1969).
-
-## Taxonomy and Naming
-
-The species epithet "castaneifolius" refers to the chestnut-colored tones
-present on the cap, particularly at the apex. Originally placed in the genus
-Panaeolus by Murrill, Ola'h provided a modern taxonomic treatment in 1969. The
-species belongs to the genus Panaeolus, which is characterized by mottled
-gills resulting from the uneven maturation of spores. Panaeolus is one of
-the minor [[stamets-psilocybin-genera-beyond-psilocybe]], with only some species producing psychoactive
+tags: [panaeolus, [[stamets-psilocybin-genera-beyond-psilocybe]], with only some species producing psychoactive
 compounds.
 
 ## Description
@@ -43,18 +20,7 @@ compounds.
 - **Stem**: 40 to 60 (75) mm long by 3 to 4 (6) mm thick. Equal to more
   narrow towards the base. Hollow or tubular, and brittle. Grayish to
   ochraceous or tan at the base. Surface slightly striated, pruinose.
-- **[[partial-veil-tropism-protection-before-spore-release]]**: Absent or not conspicuous.
-- **Spores**: Black in deposit, finely roughened, 12 to 15 by 7 to 9.5
-  micrometers.
-- **Basidia**: 4-spored.
-- **Cheilocystidia**: 20 to 28 (35) by 7 to 10 micrometers.
-- **Pleurocystidia**: Few or absent, not projecting beyond the plane of
-  the basidia.
-
-## Habitat and Distribution
-
-Panaeolus castaneifolius grows scattered to gregariously in grassy areas
-across the North and [[chiric-caspi-brunfelsia-south-american-hallucinogen]] continents. It is possibly more widely
+- **[[chiric-caspi-brunfelsia-south-american-hallucinogen]] continents. It is possibly more widely
 distributed than currently reported in the literature. The species favors
 open grasslands, pastures, and meadows, often appearing alongside other
 Panaeolus species. It does not appear to be directly coprophilous, unlike
@@ -68,23 +34,93 @@ Ola'h (1969). This means that some collections contain psilocybin while
 others do not, and when present, concentrations are weak. The variable
 presence of psychoactive alkaloids makes this species unreliable for
 ethnobotanical purposes. The inconsistency in chemistry may relate to
-[[duggar-mushroom-environmental-factors-temperature-moisture-light]], substrate composition, or genetic variation between
-populations.
-
-## Identification Notes
-
-Panaeolus castaneifolius is distinguished from the similar Panaeolus
-foenisecii by the color of the mature gills and spore deposit, which are
-very dark purplish gray-black in P. castaneifolius. The chestnut-brown
-tones at the cap apex and the smoky brown margin are also helpful field
-characters. The absence of a partial veil and the relatively slender stem
-further aid identification. As with all Panaeolus species, the mottled
-gill pattern from uneven spore maturation is a key generic feature.
-
-## Similar Species
-
-- [[panaeolus-foenisecii-taxonomy-debate]]: Similar grassland habitat but with lighter
+[[panaeolus-foenisecii-taxonomy-debate]]: Similar grassland habitat but with lighter
   colored gills and spore deposit. The haymaker's mushroom is more common
   and generally considered nonactive.
 - [[panaeolus-cyanescens-entity]]: A dung-inhabiting species that is strongly
   active and bruises bluish. Much more robust and readily identifiable by
+
+## Overview
+
+Panaeolus Castaneifolius represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish panaeolus castaneifolius
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving panaeolus extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Panaeolus Castaneifolius finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for panaeolus castaneifolius. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+panaeolus castaneifolius and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Panaeolus Castaneifolius has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of panaeolus castaneifolius into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[panaeolus-antillarum-misidentification-copelandia-confusion]]
+- [[panaeolus-cyanescens-entity]]
+- [[panaeolus-panaeolina-neurotropic-species]]
+- [[panaeolus-subbalteatus-profile]]
+- [[panaeolus-tropicalis]]

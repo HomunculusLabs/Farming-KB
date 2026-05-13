@@ -7,23 +7,7 @@ created: 2026-05-08
 
 # Cannabis Sativa Landrace Strains
 
-[[landrace-cannabis-sativa-strains]] strains are the foundational genetic building blocks
-from which all modern sativa varieties descend. These are populations of
-cannabis that evolved naturally in specific geographic regions over centuries,
-adapting to local climate, soil, and photoperiod conditions without human
-selective breeding. The term 'landrace' refers to domesticated, locally adapted
-traditional varieties that have developed over time through a combination of
-natural selection and traditional cultivation practices by indigenous peoples.
-
-## Geographic Origins and Distribution
-
-The major sativa landrace regions span the equatorial and subtropical zones of
-the globe. Southeast Asia produced legendary Thai, Vietnamese, Cambodian, and
-Laotian varieties known for their potent psychoactive effects. South America
-contributed Colombian, Mexican (Oaxacan, Acapulco Gold), and Brazilian
-genetics that became foundational to modern breeding programs. Africa offered
-Malawi Gold, Swazi, Congolese, Durban Poison, and South Indian strains with
-distinctive sweet and fruity profiles. [[guzman-allen-gartz-neurotropic-fungi-central-america-caribbean]] produced Jamaican,
+[[guzman-allen-gartz-neurotropic-fungi-central-america-caribbean]] produced Jamaican,
 Panamanian, and Honduran varieties. Each region's unique combination of
 latitude, altitude, humidity, and day length created distinct chemical profiles,
 growth patterns, and morphological characteristics that breeders would later
@@ -37,8 +21,7 @@ adapted to a nearly equal 12/12 day-night cycle year-round, resulting in
 extremely long flowering periods often 14 to 20 weeks when grown at higher
 latitudes. This is because equatorial cannabis evolved to flower based on
 minimal light changes rather than dramatic seasonal shifts. Strains from higher
-latitudes in the [[guzman-allen-gartz-africa-southern-hemisphere-underexplored-neurotropic-fungi]], such as Durban Poison (originating
-around 30 degrees south in South Africa) and [[oner-brazilian-white-sativa-early-finishing-equatorial-genetics]], developed
+latitudes in the [[oner-brazilian-white-sativa-early-finishing-equatorial-genetics]], developed
 early flowering traits that are invaluable for northern hemisphere growers.
 
 ## Morphological Characteristics
@@ -48,26 +31,13 @@ more when grown outdoors with adequate growing season. They exhibit elongated
 internodes, narrow fingered leaflets, and sparse branching compared to indica
 varieties. Their root systems tend to be more extensive and penetrating, adapted
 to nutrient-poor tropical soils. The plants are generally more sensitive to
-overfeeding with [[query-organic-vs-synthetic-nutrients-cannabis]], as noted by breeders who compare sativas
-to wolves, wild adaptable and resistant to domestication through chemical
-forcing. They tend to produce lower yields per square foot than indicas but
-compensate with superior resin quality and complex [[cannabis-terpene-profiles-sativa]].
+overfeeding with [[cannabis-terpene-profiles-sativa]].
 
 ## Terpene and Cannabinoid Profiles
 
-Landrace sativas are renowned for their complex [[clarke-marijuana-botany-terpene-biosynthesis-aromatic-profiles]]. Southeast
-Asian varieties often exhibit sweet, spicy, and anise-like aromas. South
-American strains tend toward earthy, lemon, and herbal notes. African landraces
-frequently display sweet, fruity, and sometimes fermented characteristics. The
-[[cannabis-terpene-profiles]] of landrace strains are far more complex than most modern
+Landrace sativas are renowned for their complex [[cannabis-terpene-profiles]] of landrace strains are far more complex than most modern
 hybrids, containing dozens of minor terpenes and cannabinoids that contribute
-to nuanced effects. [[cannabis-terpene-entourage-effect]], the synergistic interaction between
-multiple cannabinoids and terpenes, is most pronounced in unhybridized
-landrace material that has not been bred for specific single-compound potency.
-
-## Historical Significance in Modern Breeding
-
-The history of modern [[cannabis-breeding-basics]] is essentially the story of how
+to nuanced effects. [[cannabis-breeding-basics]] is essentially the story of how
 landrace genetics were collected, crossed, and stabilized. In the 1960s and
 1970s, travelers and surfers brought seeds from Mexico, Colombia, Thailand,
 Jamaica, and other regions to North America and Europe. These seeds became the
@@ -118,8 +88,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[cannabis-sativa]]
 - [[dom]]
-- [[panama-red]]
 - [[acapulco-gold]]
 - [[durban-poison]]

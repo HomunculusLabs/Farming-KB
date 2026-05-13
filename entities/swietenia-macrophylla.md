@@ -12,17 +12,7 @@ updated: 2026-05-08
 sources:
   - "raw/papers/bill-mollison-permaculture-design-course.md"
   - Lamb, F.B. (1966). "Mahogany of Tropical America." University of Michigan Press.
-  - Grogan, J. & Barreto, P. (2005). "Big-leaf mahogany growth and survival." Forest [[nematode-management]], 206(1–3), 25–35.
-  - Veríssimo, A. et al. (1995). "Logging impacts in the Brazilian Amazon." International Tropical Timber Organization.
-  - Snook, L.K. (1996). "Catastrophic disturbance, logging and the ecology of mahogany." Forest Ecology and Management, 83(1–2), 87–99.
-  - Pennington, T.D. (1981). "Melianceae." Flora Neotropica, Monograph 28. New York Botanical Garden.
----
-
-## Overview
-
-**Swietenia macrophylla**, commonly known as big-leaf mahogany or Honduras mahogany, is a large deciduous tree in the family Meliaceae.
-
-It is native to tropical lowland forests from southern Mexico through [[guzman-allen-gartz-neurotropic-fungi-central-america-caribbean]] to the Amazon basin.
+  - Grogan, J. & Barreto, P. (2005). "Big-leaf mahogany growth and survival." Forest [[guzman-allen-gartz-neurotropic-fungi-central-america-caribbean]] to the Amazon basin.
 
 The species produces one of the world's most valuable and sought-after tropical hardwoods, prized for its rich reddish-brown color and workability.
 
@@ -36,11 +26,7 @@ It is listed on CITES Appendix II, regulating international trade in harvested t
 
 The genus Swietenia contains three species: S. macrophylla, S. mahagoni (small-leaf mahogany), and S. humilis (Pacific mahogany).
 
-All three belong to the family Meliaceae, which also includes the [[mollison-designers-neem-tree-as-natural-insecticide]] and various commercial timber genera.
-
-Mature trees reach 30–45 meters in height with a straight, cylindrical trunk up to 2 meters in diameter.
-
-The bole is typically clear of branches for 15–20 meters, an important characteristic for [[honey-locust-pod-fodder-timber-production]].
+All three belong to the family Meliaceae, which also includes the [[honey-locust-pod-fodder-timber-production]].
 
 Bark is dark brown to grey, rough and scaly, with vertical fissures developing on older trees.
 
@@ -58,15 +44,7 @@ Seeds are brown, approximately 1.5–2 cm long, with a distinctive papery wing f
 
 ## Distribution and Habitat
 
-Big-leaf mahogany ranges from the Yucatán Peninsula of Mexico through [[guzman-allen-gartz-neurotropic-fungi-caribbean-central-america]] to Bolivia, Peru, and western Brazil.
-
-Its southern range extends to approximately 18°S latitude in the Bolivian lowlands and the state of Mato Grosso in Brazil.
-
-The species occupies tropical lowland evergreen and semi-deciduous forests at elevations below 500 meters.
-
-It shows a strong preference for seasonally dry forests, where it is often found on well-drained alluvial soils and limestone outcrops.
-
-Natural regeneration is concentrated in canopy gaps and disturbed areas, particularly along rivers, roads, and abandoned [[fukuoka-textdoc-agricultural-land-law-obstruction-return-farming]].
+Big-leaf mahogany ranges from the Yucatán Peninsula of Mexico through [[fukuoka-textdoc-agricultural-land-law-obstruction-return-farming]].
 
 Seedlings are shade-intolerant and require high-light conditions to establish and [[query-how-to-grow-successfully-in-containers-and-what-plants-work-best]].
 
@@ -87,3 +65,86 @@ Historically, mahogany was the dominant timber for high-end European and America
 Current uses include luxury flooring, architectural millwork, custom cabinetry, and aircraft interiors.
 
 The wood machines, turns, glues, and finishes exceptionally well, contributing to its premium market position.
+
+## Overview
+
+Swietenia Macrophylla represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish swietenia macrophylla
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving swietenia extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Swietenia Macrophylla finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for swietenia macrophylla. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+swietenia macrophylla and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Swietenia Macrophylla has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of swietenia macrophylla into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[aristolochia-macrophylla]]
+- [[gentiana-macrophylla]]
+- [[hydrangea-macrophylla]]

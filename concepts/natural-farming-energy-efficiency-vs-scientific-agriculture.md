@@ -4,7 +4,7 @@ created: 2026-05-09
 updated: 2026-05-09
 sources:
   - "raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md"
-  - "Fukuoka - The Natural Way of Farming: The [[microdosing-theory-and-practice]] of [[fukuoka-green-philosophy]]"
+  - "Fukuoka - The Natural Way of Farming: The fukuoka-green-philosophy"
 type: concept
 tags: [fukuoka, natural-farming, energy-efficiency, scientific-agriculture, food-systems, thermodynamics]
 ---
@@ -13,7 +13,7 @@ tags: [fukuoka, natural-farming, energy-efficiency, scientific-agriculture, food
 
 ## Overview
 
-[[masanobu-fukuoka]] subjected [[fukuoka-critique-modern-agriculture]] to rigorous energy accounting and
+[[fukuoka-critique-modern-agriculture]] to rigorous energy accounting and
 concluded that what is celebrated as "scientific progress" is, in thermodynamic
 terms, a catastrophic decline in efficiency. His analysis demonstrates that natural
 farming — requiring no external inputs of energy, fertilizer, or machinery —
@@ -24,7 +24,7 @@ and the fundamental relationship between human civilization and the natural worl
 ## The Energy Arithmetic of Natural Farming
 
 Fukuoka's own farm on Shikoku Island served as the empirical baseline. Working
-with his natural [[natural-farming-methods-comparison]] — [[comparison-seed-starting-indoors-vs-direct-seeding-techniques]], no-tillage, no chemical
+with his natural [[comparison-seed-starting-indoors-vs-direct-seeding-techniques]], no-tillage, no chemical
 fertilizers, no pesticides — he achieved a production rate of approximately **130
 pounds of rice per man-day of labor**. Converting this to energy terms, this
 output represents roughly **200,000 kilocalories** per person per day of work

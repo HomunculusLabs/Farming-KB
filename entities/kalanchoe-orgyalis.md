@@ -109,13 +109,8 @@ In veterinary medicine, Kalanchoe poisoning is a documented concern for livestoc
 
 ## See Also
 
-- [[kalanchoe-blossfeldiana]]
 - [[kalanchoe-tomentosa]]
-- [[kalanchoe-daigremontiana]]
 - [[kalanchoe-thyrsiflora]]
-- [[echeveria-agavoides]]
 - [[crassula-ovata]]
-- [[aeonium-arboreum]]
 - [[cotyledon-orbiculata]]
-- [[dudleya-farinosa]]
 - [[sedum-rupestre]]

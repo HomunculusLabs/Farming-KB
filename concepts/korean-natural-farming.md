@@ -30,34 +30,11 @@ a system that promotes respect and care for the environment
 while producing more with less cost and labor.
 
 The core philosophy of KNF is to maximize the inborn
-potential of [[savory-living-organisms-as-tools]] and their harmony with the
-environment by not interfering with their natural growth
-and development. Rather than forcing crops to yield more
-than they can naturally, KNF practitioners believe that
-the best way to achieve top quality yield is to respect
-the nature of life itself.
-
-## The Nutritive Cycle Theory
-
-KNF methodology is grounded in the Nutritive Cycle Theory,
-which guides practitioners on what inputs to apply, how
-much, and how often. This theory recognizes that plants
-need different nutrients during different stages of growth,
-much like humans need different foods at different life
-stages.
-
-The three main growth stages are:
-
-1. **[[cannabis-vegetative-growth-stage]] Stage**: Plants develop roots and
+potential of [[cannabis-vegetative-growth-stage]] Stage**: Plants develop roots and
    shoots, consuming carbohydrates and converting them to
    nitrogen. This is the primary growth requirement.
 
-2. **Cross-Over Period ([[cho-morning-sickness-and-plant-cross-over-period]])**: As plants
-   begin flowering for reproduction, they need "sour
-   nutrients" in the form of phosphoric compounds,
-   analogous to pregnant women craving sour foods.
-
-3. **[[knf-reproductive-growth-stage]] Stage**: From flowering to fruit
+2. **Cross-Over Period ([[knf-reproductive-growth-stage]] Stage**: From flowering to fruit
    ripening, plants store carbohydrates in fruits and
    storage organs. Potassium is needed for proper color
    development.
@@ -66,17 +43,9 @@ The three main growth stages are:
 
 KNF uses a range of homemade biological inputs:
 
-- [[fermented-plant-juice-preparation-and-application]]:
-  Nutrient-rich extracts from growing plant tips
 - [[oriental-herbal-nutrient-ohn]] (OHN): Herbal
   preparations for plant immunity
-- [[water-soluble-calcium-wca]] (WCA): Calcium supplement
-  from eggshells and vinegar
-
-## Nature's Tillers
-
-KNF avoids mechanical tillage, instead relying on "Nature's
-Tillers" including [[query-what-is-the-difference-between-aerobic-and-anaerobic-composting]] bacteria, fungi,
+- [[query-what-is-the-difference-between-aerobic-and-anaerobic-composting]] bacteria, fungi,
 mole crickets, earthworms, and moles to maintain soil
 structure. Grass mulching serves as a remedy for weeds,
 and brown rice vinegar can help dwarf unwanted vegetation.
@@ -118,8 +87,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[natural-farming]]
 - [[cho-han-kyu]]
-- [[composting]]
 - [[nutritive-cycle-theory]]
 - [[query-jadam-vs-korean-natural-farming]]

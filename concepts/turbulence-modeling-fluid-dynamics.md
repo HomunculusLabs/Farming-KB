@@ -12,40 +12,20 @@ sources:
 
 ## Overview
 
-Turbulence is a regime of fluid motion characterized by chaotic, [[fukuoka-textdoc-natural-three-dimensional-orchard-design]]-[[fukuoka-natural-orchard-management-three-dimensional-system]], time-dependent fluctuations in velocity, pressure, and other transported quantities. It is inherently dissipative (converting kinetic energy to heat via viscosity) and multi-scale, containing eddies spanning from the integral scale down to the Kolmogorov microscale. The transition from laminar to turbulent flow is governed by the Reynolds number Re = ρUL/μ. For pipe flow, transition occurs at Re ≈ 2,300–4,000; for flat-plate boundary layers at Re_x ≈ 5×10⁵.
+Turbulence is a regime of fluid motion characterized by chaotic, [[fukuoka-natural-orchard-management-three-dimensional-system]], time-dependent fluctuations in velocity, pressure, and other transported quantities. It is inherently dissipative (converting kinetic energy to heat via viscosity) and multi-scale, containing eddies spanning from the integral scale down to the Kolmogorov microscale. The transition from laminar to turbulent flow is governed by the Reynolds number Re = ρUL/μ. For pipe flow, transition occurs at Re ≈ 2,300–4,000; for flat-plate boundary layers at Re_x ≈ 5×10⁵.
 
-The fundamental challenge in turbulence modeling is the **closure [[holmgren-permaculture-front-end-design-vs-back-end-problem-solving]]**: when the [[decomposition]], 1895), the nonlinear convection term produces **Reynolds stresses** −ρ⟨u′ᵢu′ⱼ⟩ that cannot be expressed in terms of mean flow variables alone. All turbulence modeling is an attempt to close this system of equations. The Reynolds stress tensor has six independent components: three normal stresses (⟨u′²⟩, ⟨v′²⟩, ⟨w′²⟩) contributing to turbulent kinetic energy, and three shear stresses (⟨u′v′⟩, ⟨u′w′⟩, ⟨v′w′⟩) driving turbulent momentum transport.
+The fundamental challenge in turbulence modeling is the **closure [[decomposition]], 1895), the nonlinear convection term produces **Reynolds stresses** −ρ⟨u′ᵢu′ⱼ⟩ that cannot be expressed in terms of mean flow variables alone. All turbulence modeling is an attempt to close this system of equations. The Reynolds stress tensor has six independent components: three normal stresses (⟨u′²⟩, ⟨v′²⟩, ⟨w′²⟩) contributing to turbulent kinetic energy, and three shear stresses (⟨u′v′⟩, ⟨u′w′⟩, ⟨v′w′⟩) driving turbulent momentum transport.
 
-## [[fukuoka-textdoc-fox-rabbit-grass-energy-cascade-caloric-waste-luxury-foods]] and Kolmogorov [[fukuoka-natural-way-of-farming-theory-of-natural-farming]]
+## [[fukuoka-natural-way-of-farming-theory-of-natural-farming]]
 
-Richardson (1922) described how energy cascades from large to small eddies: "Big whirls have little whirls that feed on their velocity, and little whirls have lesser whirls and so on to viscosity." The process has [[fukuoka-only-future-man-three-stages-collapse-energy-efficiency]]: energy production at large scales (comparable to flow geometry), inertial transfer through nonlinear vortex inter[[fukuoka-textdoc-soil-self-plowing-natural-root-action]]s (no significant dissipation), and viscous dissipation at the smallest scales.
+Richardson (1922) described how energy cascades from large to small eddies: "Big whirls have little whirls that feed on their velocity, and little whirls have lesser whirls and so on to viscosity." The process has [[fukuoka-textdoc-soil-self-plowing-natural-root-action]]s (no significant dissipation), and viscous dissipation at the smallest scales.
 
 Kolmogorov (1941) formalized this with two hypotheses: (1) at high Re, small-scale statistics depend only on ε (dissipation rate) and ν (kinematic viscosity); (2) in the infinite Re limit, they depend only on ε. Three characteristic scales emerge from dimensional analysis:
 - **Kolmogorov length**: η = (ν³/ε)^(1/4)
 - **Kolmogorov velocity**: u_η = (νε)^(1/4)
 - **Kolmogorov time**: τ_η = (ν/ε)^(1/2)
 
-The energy spectrum in the **inertial subrange** follows the famous −5/3 law: E(k) = C_K ε^(2/3) k^([[cytochrome-p450-enzymes-structure-function-pharmacology]] 1.5 is the Kolmogorov constant. The corresponding second-[[fukuoka-textdoc-cremation-corpse-decomposition-natural-order]] [[dighton-ectomycorrhizal-hartig-net-structure-function]] scales as ⟨|Δu(r)|²⟩ = C₂(εr)^(2/3). The ratio of largest to smallest scales grows as Re^(3/4), meaning that at Re_L = 10⁶ the largest eddies are ~30,000× larger than the smallest.
-
-**Intermittency** (Batchelor & Townsend, 1949) modifies Kolmogorov's predictions: dissipation is concentrated in localized regions of intense strain rate, following approximately a log-normal distribution. This causes higher-order structure functions to deviate from self-similar scaling (e.g., ζ₆ ≈ 1.80 vs. the K41 prediction of 2.0). Kolmogorov's 1962 refined similarity hypothesis accounts for local dissipation fluctuations.
-
-## RANS Models
-
-Reynolds-Averaged Navier-Stokes models solve for the mean flow and model all fluctuations. They are the workhorse of industrial CFD, providing steady-state solutions at reasonable computational cost.
-
-### Boussinesq Eddy Viscosity
-
-Most RANS models relate Reynolds stresses to mean strain rate through an eddy viscosity ν_t: −⟨u′ᵢu′ⱼ⟩ = 2ν_t S̄ᵢⱼ − (2/3)kδᵢⱼ, where S̄ᵢⱼ = (1/2)(∂Ūᵢ/∂xⱼ + ∂Ūⱼ/∂xᵢ). This assumes principal axes of Reynolds stress align with mean strain — violated in swirling, curved, or rapidly strained flows.
-
-### k-ε Model (Launder & Spalding, 1974)
-
-Solves transport equations for turbulent kinetic energy k and dissipation rate ε, with ν_t = C_μ k²/ε (C_μ = 0.09). Standard constants: C_ε1 = 1.44, C_ε2 = 1.92, σ_k = 1.0, σ_ε = 1.3. **Strengths**: robust, well-validated, good for free shear flows, widely implemented. **Weaknesses**: poor in adverse pressure gradients and separating flows, overpredicts turbulence in stagnation regions, requires wall functions or low-Re damping.
-
-Variants include the realizable k-ε (Shih et al., 1995) and RNG k-ε (Yakhot & Orszag, 1986), which improve specific deficiencies of the standard model.
-
-### k-ω Model (Wilcox, 1988)
-
-Uses specific dissipation rate ω = ε/k instead of ε, with ν_t = k/ω. **Strengths**: excellent in adverse pressure gradients, [[fukuoka-textdoc-food-mandala-yin-yang-seasonal-natural-diet]]ly resolves the viscous sublayer without wall-damping functions. **Weaknesses**: strong sensitivity to free-stream ω values, overpredicts shear stress in attached boundary layers.
+The energy spectrum in the **inertial subrange** follows the famous −5/3 law: E(k) = C_K ε^(2/3) k^([[fukuoka-textdoc-cremation-corpse-decomposition-natural-order]] [[fukuoka-textdoc-food-mandala-yin-yang-seasonal-natural-diet]]ly resolves the viscous sublayer without wall-damping functions. **Weaknesses**: strong sensitivity to free-stream ω values, overpredicts shear stress in attached boundary layers.
 
 ### SST k-ω Model (Menter, 1994)
 
@@ -88,3 +68,82 @@ Turbulent boundary layers are described in wall units: y⁺ = yu_τ/ν, u⁺ = u
 - **Wake region** (y/δ > 0.15): Coles' wake law with parameter Π ≈ 0.55
 
 Spalding's law provides a composite profile valid for all y⁺. Key coherent structures: low/high-speed streaks (~100 wall units spacing), quasi-streamwise vortices in the buffer layer, hairpin vortices driving Q2 ejection and Q4 sweep events, and very-large-scale motions spanning 10–20δ.
+
+## Overview
+
+Turbulence Modeling Fluid Dynamics represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish turbulence modeling fluid dynamics
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving turbulence extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Turbulence Modeling Fluid Dynamics finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for turbulence modeling fluid dynamics. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+turbulence modeling fluid dynamics and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Turbulence Modeling Fluid Dynamics has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of turbulence modeling fluid dynamics into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also

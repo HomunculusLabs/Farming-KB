@@ -21,7 +21,7 @@ sources:
 
 **Barbilophozia barbata** is a leafy liverwort in the family Lophoziaceae, commonly known as the **bearded barbilophozia** or **bearded scalewort**. It is a widespread and common species in boreal and montane forests of the Northern Hemisphere.
 
-The species forms loose to dense mats on decaying wood, humus, and rock surfaces in moist, shaded forest environments. It is particularly abundant on rotting conifer logs in late-successional forests.
+The species forms loose to dense mats on decaying wood, [[humus]], and rock surfaces in moist, shaded forest environments. It is particularly abundant on rotting conifer logs in late-successional forests.
 
 Barbilophozia barbata is recognized by its transversely inserted leaves with truncate to emarginate apices, and by the conspicuous clusters of paraphyllia (thread-like outgrowths) along the stem. These paraphyllia give the plants a fuzzy or bearded appearance.
 
@@ -69,17 +69,11 @@ Elevational range extends from near sea level in northern latitudes to approxima
 
 Barbilophozia barbata is a significant contributor to bryophyte biomass on decaying wood in boreal forests. It plays a role in moisture retention and facilitates the colonization of logs by other bryophyte species.
 
-The species frequently grows in mixed bryophyte communities alongside *[[ptilidium-ciliare]]*, *Lophozia* species, and various mosses including *[[pleurozium-schreberi]]* and *Hylocomium splendens*.
+The species frequently grows in mixed bryophyte communities alongside *[[pleurozium-schreberi]]* and *Hylocomium splendens*.
 
 Vegetative reproduction occurs through stem fragmentation and gemma production. Gemmae are multicellular, produced in clusters on the leaf surfaces, and readily dispersed by rain splash and flowing water.
 
-[[basidiomycete-mating-systems-sexual-reproduction]] is relatively common in populations with adequate moisture. Androecia and gynoecia are often found on separate branches of the same plant, though autoecious and paroecious arrangements also occur.
-
-Sporophyte maturation occurs in late summer to early autumn. Spore dispersal is primarily by wind, with peak release during dry periods following maturation.
-
-Elater formation accompanies spore development within the capsule. The elaters are bispiral and assist in spore dispersal by responding to changes in humidity.
-
-The species serves as a microhabitat for nematodes, tardigrades, and various microarthropods. The dense paraphyllia create sheltered microenvironments that retain moisture and support diverse [[cannabis-rhizosphere-microbial-communities]].
+[[cannabis-rhizosphere-microbial-communities]].
 
 ## Conservation and Bioindication
 

@@ -6,57 +6,7 @@ type: concept
 
 # Total Garden Design Integration
 
-A total garden design integrates the house, garden, livestock, water systems, and energy systems into a single functioning ecosystem where every element serves multiple purposes and every output becomes an input for another element. Based on collaborative work between [[permaculture]] designers and researchers across tropical and subtropical regions, this approach creates self-sustaining food production systems that amortize their construction cost within 4–7 years when paired with a two-garden development.
-
-## The House as System Hub
-
-### Room Layout and Thermal Design
-
-Room size and number adjusts to family size, but the structure is fundamentally a simple, easily-heated and cooled building. Key design elements include:
-
-- **Slab or raised pisé floor**, preferably edge-insulated, providing thermal mass for temperature moderation
-- **Induced cross-ventilation** that cools in summer and heats in winter (see also: passive cooling strategies)
-- **Vertical sashes or shutters** to each room that scoop air inward, adjustable for seasonal conditions
-- **Main living area** extends outside to a rear porch or under a front trellis, depending on cultural preferences
-
-### The Entry Greenhouse (H1)
-
-In the subtropics, the entry serves as a greenhouse fitted with a wide ceiling vent drawing cool air from the adjacent shadehouse. This creates a convection loop: the greenhouse heats, hot air exits through the high vent, and cool shadehouse air is pulled through the living areas.
-
-### Kitchen and Wet Systems (H5, H7, H8)
-
-- **Bathroom/toilet (H5)**: Shower water flows to the wet garden area or mulch forage crop; toilet and sink water always goes to the greywater treatment zone. Handbasin water irrigates banana circles.
-- **Summer kitchen (H7)**: Part-paved outdoor cooking area adjacent to the house
-- **Outdoor cooking stove (H8)**: Bulk-cooking stove whose ashes return to the garden
-- **Mudroom/pantry (H9)**: Off the kitchen with an outside basin/sink for primary vegetable processing
-
-### Bedrooms (H3, H4, H11)
-
-All bedrooms open onto or into the central kitchen/living axis, allowing cross-ventilation through the entire structure. The study/library is included if space permits.
-
-### Shadehouse (H6)
-
-The shadehouse extends around up to three sides of the house, with entries, trees (or their trunks) growing through it, minor trellis resting against it, and a crop growing below. It provides the cool air source for the ventilation system.
-
-## Water System
-
-### Roof Catchment (T)
-
-The main tank catches roof water. A small tank sits on any animal shed. The main tank can also be filled from a reticulated water system on a float-valve. All tank overflow goes first to the wet garden bed, which is partly under the house eaves and partly in the open. A path runs around the whole house connecting to the outdoor kitchen, animal house, and garden zones.
-
-## Garden Zones
-
-### Zone A: Wet Food Patch
-
-The wet food patch has an earth bank edge and receives clean water. It grows wet crops such as kangkong, watercress, and Chinese water chestnut. The bank itself is planted to dry staple foods (yam, sweet potato, cassava) that benefit from the wastewater. Some of this crop grows under partial shade, which taro and other sub-aquatics appreciate.
-
-### Zone B: Banana Circles
-
-Banana circles receive water from the hand basin and kitchen sink. They can also be papaya circles or mixes of papaya/banana/pigeon pea/tomato/yam species. Mulched inside from the hedge, they serve as primary nutrient cycling points where household greywater becomes productive growth.
-
-### Zone C: Greywater Treatment Zone
-
-The "dry" water patch contains no direct food plants and no root crops. Only vigorous, damp-tolerant, manure-tolerant green forage crops grow here: [[comfrey]], banna grass, lemongrass, and legumes. These are regularly cut and removed either to animal pens as green feed or to garden beds as mulch. The area is sunken and surrounded by a bank supporting pigeon pea, papaya, banana, or all of these. This zone safely processes all toilet and sink water through biological filtration before the nutrients reach food-producing areas.
+A total garden design integrates the house, garden, livestock, water systems, and energy systems into a single functioning ecosystem where every element serves multiple purposes and every output becomes an input for another element. Based on collaborative work between [[comfrey]], [[banna-grass]], lemongrass, and legumes. These are regularly cut and removed either to animal pens as green feed or to garden beds as mulch. The area is sunken and surrounded by a bank supporting pigeon pea, papaya, banana, or all of these. This zone safely processes all toilet and sink water through biological filtration before the nutrients reach food-producing areas.
 
 ### Zones D and D*: Avenue Crops
 
@@ -118,6 +68,82 @@ House trellises are carefully fitted with vine crops spaced to let 30% light thr
 The total garden design accepts all water and wastes of use—only plastic, glass, and metal are not directly cycled (though some cans may be buried for slow zinc and iron release). It provides most mulch and forage, which when bulked out by house scraps feeds rabbits, guinea pigs, poultry, and a small pig. The garden is very accessible, designed on a need-to-visit-and-tend basis, and natural in both appearance and function. Every element connects to every other element through flows of water, nutrients, biomass, and energy, creating a resilient and productive living system.
 ## See also
 
-- [[permaculture-design]]
 - [[integrated-home-garden-design]]
 - [[natural-patterns-in-permaculture-design]]
+
+## Overview
+
+Total Garden Design Integration represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish total garden design integration
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving total extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Total Garden Design Integration finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for total garden design integration. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+total garden design integration and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Total Garden Design Integration has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of total garden design integration into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.

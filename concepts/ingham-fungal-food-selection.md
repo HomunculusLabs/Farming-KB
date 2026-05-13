@@ -13,17 +13,13 @@ sources:
 
 Updated: 2026-04-18
 
-The foods added to compost tea during brewing determine whether bacteria or fungi will dominate the final product. Dr. [[aact-brewing-ingredients-ingham]] and [[aact-fungal-dominant-tea]].
+The foods added to compost tea during brewing determine whether bacteria or fungi will dominate the final product. Dr. [[aact-fungal-dominant-tea]].
 
 ## The Fungal Food Gradient
 
 Ingham ranks common food resources by their ability to grow fungi, from least to most effective:
 
-| Food Source | [[brassinosteroid-fungal-growth-promotion]] Support | Notes |
-|---|---|---|
-| White sugar | Lowest | Simple sugars favor bacteria almost exclusively |
-| Brown sugar | Low | Slightly more complex, still bacteria-favoring |
-| Molasses | Moderate | Contains some [[ingham-paper-cardboard-fungal-foods-compost]] but is primarily bacterial |
+| Food Source | [[ingham-paper-cardboard-fungal-foods-compost]] but is primarily bacterial |
 | Malt | Good | More structurally complex sugars favor fungal growth |
 | Soy sauce | Highest (listed) | Complex proteins and amino acids support fungi well |
 | Humic acids | Very high | Long-chain carbon molecules are ideal fungal foods |
@@ -37,9 +33,7 @@ Bacteria and fungi differ fundamentally in how they obtain nutrients:
 
 - **Bacteria**: Absorb simple, dissolved molecules directly through their cell walls. They thrive on simple sugars, amino acids, and mineral nutrients in solution. They grow fast but cannot access complex polymers.
 
-- **Fungi**: Secrete extracellular enzymes that [[query-can-fungi-break-down-plastic-pollution]] complex organic molecules (cellulose, lignin, chitin, proteins) into simpler compounds that they can then absorb. This ability to decompose complex materials is fungi's ecological niche.
-
-When you add simple sugars (molasses, white sugar) to tea, bacteria multiply rapidly and consume most of the available food before fungi can compete. When you add complex materials (humic acids, kelp, [[comparison-fish-hydrolysate-vs-fish-emulsion]]), bacteria cannot fully utilize them, leaving food resources available for fungi.
+- **Fungi**: Secrete extracellular enzymes that [[comparison-fish-hydrolysate-vs-fish-emulsion]]), bacteria cannot fully utilize them, leaving food resources available for fungi.
 
 ## Bacterial Foods
 
@@ -71,9 +65,7 @@ For crops requiring fungal dominance -- perennials, trees, shrubs, and many orna
 
 Ingham consistently recommends humic acids as the premier fungal food for compost tea. They are:
 
-- Long-chain carbon molecules derived from decomposed [[hamilton-composting-and-organic-matter-management]]
-- Too complex for bacteria to fully utilize
-- Ideal substrate for [[ingham-aact-testing-methods]] to verify biology
+- Long-chain carbon molecules derived from decomposed [[ingham-aact-testing-methods]] to verify biology
 
 ## Reducing Molasses to Increase Fungi
 
@@ -121,8 +113,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[dom]]
 - [[det]]
-- [[composting]]
 - [[brassinosteroid]]
 - [[ingham-bacterial-to-fungal-succession-soil-food-web]]

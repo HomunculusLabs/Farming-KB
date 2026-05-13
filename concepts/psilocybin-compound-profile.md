@@ -13,37 +13,9 @@ sources:
 
 ## Overview
 
-Psilocybin (O-phosphoryl-4-hydroxy-N,N-dimethyltryptamine) and its dephosphorylated active metabolite psilocin (4-hydroxy-N,N-dimethyltryptamine, 4-HO-DMT) are the principal psychoactive compounds found in "[[guzman-magic-mushrooms-african-species]]." They are [[5-meo-dmt-compound-profile]] and serotonin. Isolated by Albert Hofmann in 1958 from [[dark-incubation-sclerotia-production-psilocybe-mexicana-tampanensis]], psilocybin acts as a prodrug: it is converted to psilocin in the body, which then acts primarily as a 5-HT2A receptor agonist.
-
-## Chemistry
-
-### Psilocybin
-
-- **Chemical class:** Tryptamine with phosphate ester at the 4-position
-- **Molecular formula:** C12H17N2O4P
-- **Full name:** 4-phosphoryloxy-N,N-dimethyltryptamine
-- **Solubility:** Water-soluble (unlike many other tryptamines); the phosphate ester group makes it polar
-- **Stability:** Relatively stable when dried; dephosphorylates to psilocin upon heating or in acidic conditions
-
-### Psilocin
-
-- **Molecular formula:** C12H16N2O
-- **Full name:** 4-hydroxy-N,N-dimethyltryptamine (4-HO-DMT)
-- **Relationship:** Psilocin is the dephosphorylated, pharmacologically active form of psilocybin
-- Psilocin is also found directly in fresh mushrooms in smaller quantities
-
-### Related Alkaloids
-
-Mushrooms also contain baeocystin (4-phosphoryloxy-N-methyltryptamine) and norbaeocystin (4-phosphoryloxytryptamine), which may contribute to the overall effects, though their pharmacological activity is less well characterized.
-
-## Pharmacology
-
-- **Primary mechanism:** Psilocin acts as a partial agonist at 5-HT2A serotonin receptors (the same primary target as [[5-meo-dmt-compound-profile]])
+Psilocybin (O-phosphoryl-4-hydroxy-N,N-dimethyltryptamine) and its dephosphorylated active metabolite psilocin (4-hydroxy-N,N-dimethyltryptamine, 4-HO-DMT) are the principal psychoactive compounds found in "[[5-meo-dmt-compound-profile]] and serotonin. Isolated by Albert Hofmann in 1958 from [[5-meo-dmt-compound-profile]])
 - **Prodrug relationship:** Psilocybin is dephosphorylated by alkaline phosphatase enzymes in the body to produce psilocin, which crosses the blood-brain barrier
-- **Oral bioavailability:** Good -- unlike [[psilocybin]]
-
-- [[psilocybin-mushroom-distribution-worldwide]] -- [[four-groups-neurotropic-fungi-global-distribution-guzman-1998]] by region
-- [[psychedelic-dose-response]] -- Dose-response relationships across psychedelics
+- **Oral bioavailability:** Good -- unlike [[psilocybin-mushroom-distribution-worldwide]] -- [[psychedelic-dose-response]] -- Dose-response relationships across psychedelics
 - gartz-magic-mushrooms-global-distribution-patterns
 ## Practical Considerations
 
@@ -87,3 +59,88 @@ and helps identify patterns that might otherwise be overlooked in the
 complexity of day-to-day management and observation activities.
 
 ## Future Directions
+
+## Overview
+
+Psilocybin Compound Profile represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish psilocybin compound profile
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving psilocybin extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Psilocybin Compound Profile finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for psilocybin compound profile. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+psilocybin compound profile and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Psilocybin Compound Profile has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of psilocybin compound profile into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[powell-psilocybin-legal-status-research]]
+- [[psilocybin-bluing-reaction]]
+- [[psilocybin-in-human-evolution]]
+- [[psilocybin-mushrooms-as-alien-symbiotes]]
+- [[tryptamine-hallucinogens-dmt-psilocybin-chemistry]]

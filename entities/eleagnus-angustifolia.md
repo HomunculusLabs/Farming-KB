@@ -21,53 +21,10 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - Keshavarzi, M. et al. (2019). "A review on phytochemistry and pharmacological effects of elaeagnus-angustifolia." J Pharmacy & Bioallied Sciences, 11(4), 388-393.
-  - Balandari, A. et al. (2020). "Nutritional and [[raw-cannabis-thca-non-psychoactive-therapeutic-properties]] of E. angustifolia fruits." Food Science & Nutrition, 8(5), 2197-2213.
-  - Shabani, L. et al. (2020). "Antioxidant and anti-inflammatory activities of E. angustifolia." Pharmaceutical Biology, 48(8), 923-927.
-  - Toogood, S. & Jefferson, L. (2021). "comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer by Elaeagnus in temperate agroforestry." Agroforestry Systems, 95(2), 501-515.
-  - Sheppard, A.W. et al. (2006). "A review of the biology and management of invasive Elaeagnus." Weed Research, 46(4), 261-273.
----
+  - Balandari, A. et al. (2020). "Nutritional and [[psilocybin-north-america-pacific-northwest]] where it is invasive in western riparian zones.
 
-# Eleagnus angustifolia
-
-## Overview
-
-*Eleagnus angustifolia*, known as Russian olive or oleaster, is a deciduous shrub or small
-tree in the family Elaeagnaceae. Native to southern Europe and western and central Asia, it
-has been widely planted as an ornamental, windbreak, and soil-stabilization tree, and has
-naturalized extensively across [[psilocybin-north-america-pacific-northwest]] where it is invasive in western riparian zones.
-
-In permaculture, Russian olive is valued for **actinorhizal [[biological-nitrogen-fixation-agriculture]]** (symbiosis
-with *Frankia* bacteria), [[dighton-fungal-drought-tolerance-plant-water-relations]], windbreak utility, and edible fruit. The
-silvery berries are rich in vitamins, antioxidants, and [[carbon-isotope-labelling-mycorrhizal-fatty-acids]], with a long history of
-use in Persian and Central Asian traditional medicine.
-
-## Taxonomy
-
-Angiosperms → Eudicots → Rosales → Elaeagnaceae → **Eleagnus → E. angustifolia** L. (1753).
-
-**Synonyms:** *E. hortensis* M.Bieb., *E. sativa* Pojark., *Oleaster argentea* Moench.
-
-## Morphology
-
-- **Habit:** Deciduous large shrub or small tree, 5–7 m (up to 10 m). Multi-stemmed,
-  spreading irregular crown. Trunk to 30 cm diameter.
-- **Bark:** Gray-brown, smooth on young branches, rough and fissured with age. Branches
-  often armed with sharp thorns.
-- **Leaves:** Alternate, simple, lanceolate, 3–8 × 1–3 cm, grayish-green above,
-  intensely silvery-scurfy below (peltate scales diagnostic of Elaeagnaceae).
-- **Flowers:** Highly fragrant, bisexual, in axillary clusters of 1–3 (May–June). Calyx
-  silvery-white, 4-lobed, tubular, 8–12 mm. Apetalous. Four stamens. Sweet aroma
-  detectable from 20+ meters.
-- **Fruit:** Drupe-like achene, 10–18 mm, silvery when immature, ripening to yellow-orange
-  or reddish-brown. Flesh mealy, sweet-tart, single elongated seed. Flavor quality highly
-  variable by tree.
-- **Roots:** Extensive lateral system with **actinorhizal nodules** containing *Frankia* spp.
-  Coralloid nodules 1–3 cm, visible near surface.
-
-## Distribution and Habitat
-
-**Native:** Southeastern Europe, Turkey, Iran, Central Asia, Afghanistan, Pakistan, western
-China (Xinjiang), Himalayan foothills. **Naturalized:** [[guzman-psilocybin-mushrooms-north-america]] (Great Plains to Pacific
+In permaculture, Russian olive is valued for **actinorhizal [[dighton-fungal-drought-tolerance-plant-water-relations]], windbreak utility, and edible fruit. The
+silvery berries are rich in vitamins, antioxidants, and [[guzman-psilocybin-mushrooms-north-america]] (Great Plains to Pacific
 Northwest, invasive in Utah, Colorado, Wyoming, Montana), southern Europe, Australia.
 
 Grows in riparian zones, floodplains, dry gullies, and saline soils. Hardy to USDA Zone 2
@@ -87,3 +44,88 @@ Does not tolerate waterlogging or deep shade.
   planting near sensitive riparian areas in non-native range.
 
 ## Bioactive Compounds
+
+## Overview
+
+Eleagnus Angustifolia represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish eleagnus angustifolia
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving eleagnus extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Eleagnus Angustifolia finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for eleagnus angustifolia. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+eleagnus angustifolia and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Eleagnus Angustifolia has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of eleagnus angustifolia into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[araucaria-angustifolia]]
+- [[echinacea-angustifolia]]
+- [[eleagnus-umbellata-entity]]
+- [[kalmia-angustifolia]]
+- [[lavandula-angustifolia]]

@@ -36,20 +36,10 @@ The species produces tough, corky basidiocarps that are inedible due to their ex
 - **Genus:** Hydnellum
 - **Species:** H. aurantiacum
 
-The species was originally described under the genus **Hydnum** before being transferred to Hydnellum. It is closely related to [[hydnellum-peckii]]** — "Bleeding tooth fungus," noted for red fluid exudation
-- **Hydnellum ferrugineum** — Rusty hydnoid, similar habitat but darker coloration
-- **Sarcodon imbricatus** — Scaly hedgehog, edible but variable quality
-- **Bankera fuligineoalba** — Rare tooth fungus of conservation concern
-
-## See Also
-
-- [[hydnellum-spongiosipes]]
+The species was originally described under the genus **Hydnum** before being transferred to Hydnellum. It is closely related to [[hydnellum-spongiosipes]]
 
 - bankeraceae
-- [[forest-ecology-basics]]
 - [[hydnellum-peckii]]
-- [[teaming-with-microbes-old-growth-forest]]
-- phellodon
 - [[sarcodon-imbricatus]]
 - bankera fuligineoalba
 ## Practical Considerations

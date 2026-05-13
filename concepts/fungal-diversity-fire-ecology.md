@@ -6,7 +6,7 @@ type: concept
 tags: [mycology, fungi]
 sources: []
 ---
-# Fungal Diversity and Fire Ecology Fire plays a profound role in shaping fungal communities. Phoenicoid fungi are a specialized group that fruit exclusively on heat-treated substrata, and fire-mediated changes in soil chemistry, vegetation, and microclimate dramatically alter fungal assemblages. [[soil-food-web-nutrient-cycling]] [[prairie-ecology|prairie ecosystems]], pyrenomycetes are the characteristic post-fire fungi.
+# Fungal Diversity and Fire Ecology Fire plays a profound role in shaping fungal communities. Phoenicoid fungi are a specialized group that fruit exclusively on heat-treated substrata, and fire-mediated changes in soil chemistry, vegetation, and microclimate dramatically alter fungal assemblages. [[prairie-ecology|prairie ecosystems]], pyrenomycetes are the characteristic post-fire fungi.
 
 fungal fungal diversity fire ecology ecology Neurospora
 
@@ -28,29 +28,13 @@ One year after the eruption, large discomycetes (Peziza species, Rhizinia undula
 
 [[fungal-biodiversity]]
 
-## Mechanisms of Fire Response
-
-Soil heating may stimulate some species to fruit, whereas other fungi may respond to changes in soil pH following fire. Sporocarp production by several phoenicoid fungi in undisturbed forest soils can be stimulated by application of lime, mimicking the pH increase caused by ash deposition.
-
-The factors accounting for the presence of phoenicoid fungi in a particular location may vary even among species occupying similar habitats. This complexity makes generalizations about fire-fungal interactions difficult.
-
-[[fungal-biodiversity]]
-
 ## Sampling Fire-Adapted Fungi
 
 When designing sampling schedules for phoenicoid fungi, it is important to know how long after a burn different species fruit and how long they will continue to produce sporocarps. The initiation and duration of fruiting vary depending on the time of year a burn occurs and the duration of favorable conditions.
 
 Repeated visits to burned sites over multiple years are necessary to capture the full complement of fire-associated species, as the four successional groups span up to 190 weeks.
 
-[[fungal-biomonitoring]]
-
-## Fire in Grassland Ecosystems
-
-In [[fungal-biodiversity-grassland]] [[mycorrhizal-fungi]] fungal-functional-diversity
-
-## Soil Heating Mechanisms
-
-The mechanisms triggering phoenicoid [[brassinosteroid-fungal-fruiting-body-morphology]] are not fully understood. Soil heating during fire may directly stimulate dormant fungal propagules, break chemical inhibitors, or modify substrate chemistry to favor germination. The observation that lime application can stimulate fruiting of some phoenicoid species in undisturbed forest soils supports the pH-change hypothesis.
+[[fungal-biodiversity-grassland]] [[brassinosteroid-fungal-fruiting-body-morphology]] are not fully understood. Soil heating during fire may directly stimulate dormant fungal propagules, break chemical inhibitors, or modify substrate chemistry to favor germination. The observation that lime application can stimulate fruiting of some phoenicoid species in undisturbed forest soils supports the pH-change hypothesis.
 
 The depth of burn plays a major role in determining post-fire fungal communities. Surface fires and ground fires produce different heating patterns and therefore select for different fungal assemblages.
 
@@ -58,8 +42,7 @@ fungal-environmental-sensing
 
 ## Fire Management and Fungal Conservation
 
-Prescribed burning practices affect fungal communities differently depending on fire intensity, frequency, and season. Low-intensity surface fires that preserve the organic soil horizon maintain much of the soil [[air-pollution-fungal-community-responses]], while intense crown fires that consume the organic layer can devastate soil fungi for years. The recovery of post-fire fungal communities has implications for forest regeneration — [[arbuscular-mycorrhizal-fungi-biology-symbiosis]] are essential for tree seedling establishment, and their loss after severe fire can delay or alter successional trajectories. In regions where fire suppression has been the norm, reintroducing prescribed fire may actually benefit fungal diversity by creating the disturbed habitats that phoenicoid and early-successional species require. Fire managers are increasingly considering fungal community responses in burn planning, recognizing that [[fungal-biodiversity]]
-- [[fungal-succession-in-decomposition]]
+Prescribed burning practices affect fungal communities differently depending on fire intensity, frequency, and season. Low-intensity surface fires that preserve the organic soil horizon maintain much of the soil [[arbuscular-mycorrhizal-fungi-biology-symbiosis]] are essential for tree seedling establishment, and their loss after severe fire can delay or alter successional trajectories. In regions where fire suppression has been the norm, reintroducing prescribed fire may actually benefit fungal diversity by creating the disturbed habitats that phoenicoid and early-successional species require. Fire managers are increasingly considering fungal community responses in burn planning, recognizing that [[fungal-succession-in-decomposition]]
 
 ## Practical Considerations
 
@@ -109,8 +92,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[doc]]
 - [[det]]
-- [[brassinosteroid]]
 - [[schizophyllum-commune]]
 - [[decomposition]]

@@ -6,24 +6,12 @@ tags:
   - earthworks
   - farm-infrastructure
   - water-storage
-  - [[permaculture-design]]
-date: 2026-04-25
-updated: 2026-04-25
-sources:
-  - "raw/papers/bill-mollison-permaculture-design-course.md"
-  - ~/wiki/raw/papers/bill-mollison-permaculture-a-designers-manual.md
-type: concept
----
-
-# Small Dam Site Selection and Design
-
-[[backyard-water-harvesting]] in
+  - [[backyard-water-harvesting]] in
 permaculture-designers-manual-bamboo, Bill
 Mollison provides detailed guidance on selecting suitable dam sites and
 designing storage systems that maximise water availability while minimising
 cost, maintenance, and ecological impact. Properly sited and constructed
-small dams provide irrigation, stock water, fire protection, [[permaculture-earthworks]] strategies and integrate
-naturally with [[biochar-and-fungi]] and [[soil-testing]]:** Simple field tests include the roll test (squeezing
+small dams provide irrigation, stock water, fire protection, [[biochar-and-fungi]] and [[soil-testing]]:** Simple field tests include the roll test (squeezing
   moist soil into a ribbon; longer ribbons indicate higher clay content)
   and the pond test (filling a small hole with water and observing the
   seepage rate).
@@ -88,3 +76,75 @@ determining whether it will meet water supply needs. Methods include:
 Small earth dams are built by compacting clay-rich soil in horizontal layers
 (lifts) of 15 to 20 cm. All topsoil must be removed from the foundation
 and a cutoff trench (key trench) excavated along the wall centreline to tie
+
+## Overview
+
+Mollison Designers Small Dam Site Selection Design represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish mollison designers small dam site selection design
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving mollison extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Mollison Designers Small Dam Site Selection Design finds practical application in multiple design contexts.
+[[permaculture-principles]] guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for mollison designers small dam site selection design. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+mollison designers small dam site selection design and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Mollison Designers Small Dam Site Selection Design has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of mollison designers small dam site selection design into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions

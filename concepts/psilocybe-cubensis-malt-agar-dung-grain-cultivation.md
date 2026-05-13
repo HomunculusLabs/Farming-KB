@@ -11,12 +11,8 @@ type: concept
 # Psilocybe Cubensis Cultivation on Malt Agar and Dung Grain Substrate
 
 The Gartz, Adam, and Vorbrodt (1990) study employed two distinct cultivation
-systems [[miniculture-rye-grain-cultivation-method-for-psilocybe-cubensis]]: 6% malt agar for mycelial growth assessment
-and a horse dung/rice grain substrate for fruiting body production. Both
-systems included 5 g of KH2PO4 per liter, providing a standardized
-phosphorus source. These [[synthetic-log-cultivation-methods-guide]] represent established approaches
-in [[bloomfield-buller-experimental-mycology]] and provide a useful framework for comparing
-[[annulus-loss-morphological-effect-brassinosteroid-treatment]] effects.
+systems [[synthetic-log-cultivation-methods-guide]] represent established approaches
+in [[annulus-loss-morphological-effect-brassinosteroid-treatment]] effects.
 
 ## Malt Agar Cultivation
 
@@ -41,8 +37,7 @@ treatment condition provided adequate statistical power to detect the
 
 ## Role of KH2PO4
 
-The addition of 5 g of [[monopotassium-phosphate-kh2po4-mushroom-substrate-buffer-nutrient]] (KH2PO4) per liter to both
-cultivation systems served to standardize [[query-how-does-phosphorus-availability-change-across-soil-ph-levels]]. Phosphorus
+The addition of 5 g of [[query-how-does-phosphorus-availability-change-across-soil-ph-levels]]. Phosphorus
 is an essential macronutrient for fungal growth, required for ATP synthesis,
 nucleic acid production, and phospholipid membrane formation.
 

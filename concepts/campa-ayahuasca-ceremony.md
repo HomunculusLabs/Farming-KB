@@ -9,11 +9,9 @@ sources:
 ---
 # Campa Ayahuasca Ceremony
 
-The Campa (also Asháninka) are an Arawakan-speaking people of the Peruvian Montaña whose kamdrampi (ayahuasca) ceremony represents an intriguing case where shamanistic performance blends into priestly ritual. Their ayahuasca use was documented by Gerald Weiss in [[cashinahua-banisteriopsis-use]]
-[[beta-carboline-chemistry]]
-[[shamanic-use-of-psychedelics]]
+The Campa (also Asháninka) are an Arawakan-speaking people of the Peruvian Montaña whose kamdrampi (ayahuasca) ceremony represents an intriguing case where shamanistic performance blends into priestly ritual. Their ayahuasca use was documented by Gerald Weiss in [[beta-carboline-chemistry]]
 [[urban-ayahuasca-iquitos-healing]]
-[[cashinahua-banisteriopsis-use]] and [[urban-ayahuasca-iquitos-healing]]. The element of communal praise and worship — as opposed to the more diagnostic, problem-solving orientation of urban mestizo ayahuasca healing — represents an alternative therapeutic model centered on devotional practice rather than clinical intervention.
+[[urban-ayahuasca-iquitos-healing]]. The element of communal praise and worship — as opposed to the more diagnostic, problem-solving orientation of urban mestizo ayahuasca healing — represents an alternative therapeutic model centered on devotional practice rather than clinical intervention.
 
 ## References and Further Reading
 
@@ -24,8 +22,6 @@ Weiss, G. (1975). "Shamanism and Priesthood in Light of the Campa Ayahuasca Cere
 Brown, M. F. (1986). Tsewa's Gift: Magic and Meaning in an Amazonian Society. Smithsonian Institution Press.
 
 ## Related
-
-- [[harner-campa-ayahuasca-ceremony]]
 
 - [[amazonian-boa-spirits-and-water-beings-in-shamanic-practice]]
 ## Practical Applications
@@ -96,8 +92,6 @@ through generations to modern scientific approaches, the evolution continues
 to inform current best practices and research directions.
 
 ## See Also
-- [[ayahuasca-ceremony]]
 - [[ayahuasca]]
-- [[doc]]
 - [[det]]
 - [[shamanism]]

@@ -8,38 +8,7 @@ type: concept
 
 ## Overview
 
-Yield is the central purpose of any designed system in [[permaculture]]. It represents the return on energy and resources invested, and understanding how to maximize, diversify, and sustain yield is fundamental to effective design. Yield is not a static or fixed quantity — it is dynamic, shaped by the designer's comprehension of system interactions and their ability to orchestrate them.
-
-## The Principle of D
-
-The Principle of D establishes a critical boundary for system health and productivity:
-
-- **Any system accepts only what it can use productively.** Resources or inputs beyond what a system can process or integrate become a liability rather than an asset.
-- **Oversupply equals chronic pollution.** When a system is overwhelmed with inputs it cannot absorb — whether nutrients, water, energy, or information — the excess manifests as persistent, degrading pollution.
-- **Both over- and undersupply cause disorder.** Just as too much of an input destabilizes a system, too little starves it. Either extreme pushes the system away from equilibrium and toward dysfunction.
-
-This principle underscores that effective design must match inputs to system capacity, creating balanced flows that the system can fully utilize.
-
-## Types of Yield
-
-Yield in permaculture extends far beyond simple harvest quantities. Mollison identifies three major categories:
-
-### Product Yield
-
-Product yield encompasses the tangible, harvestable outputs of a system:
-
-- **Primary products** — the main crop, resource, or output the system was designed to produce (e.g., fruit from an orchard, timber from a forest).
-- **Derived products** — secondary or incidental outputs generated alongside or as a consequence of the primary yield (e.g., leaves for mulch, prunings for fuel, animal manures for fertilizer).
-
-Recognizing and utilizing derived products is essential — they often represent a significant portion of the total useful output that less observant designers would discard as waste.
-
-### Energy Yield
-
-Energy yield refers to the surplus energy managed within a system:
-
-- **Conserved energy** — energy retained that would otherwise be lost (e.g., thermal mass storing heat, windbreaks reducing evaporative loss).
-- **Stored energy** — energy captured and held for later use (e.g., biomass in timber, food preserved in root cellars, water in tanks).
-- **Generated surplus** — new energy produced beyond system needs (e.g., excess solar electricity, [[compost]] heat, surplus forage).
+Yield is the central purpose of any designed system in [[compost]] heat, surplus forage).
 
 Energy yield is the foundation of system self-reliance. A system that generates more energy than it consumes is regenerative; one that runs a deficit is dependent on external inputs.
 
@@ -84,7 +53,7 @@ Mollison organizes yield-generating strategies into six categories, each address
 These strategies focus on what the system *does* — the roles and functions performed by its elements:
 
 - **Niche creation** — designing specific roles and conditions so that every element has a productive place and no niche goes unfilled.
-- **Soil rehabilitation** — restoring degraded soils through biological means ([[composting]], green manures, [[mycorrhizal-inoculation]]) to rebuild the foundation of productivity.
+- **Soil rehabilitation** — restoring degraded soils through biological means ([[mycorrhizal-inoculation]]) to rebuild the foundation of productivity.
 - **Water diversion and management** — directing water to where it is most needed, slowing its passage through the landscape, and maximizing absorption.
 - **Integrating structures** — embedding built elements (buildings, fences, paths) into the living system so they serve multiple functions.
 - **Low-maintenance species selection** — choosing plants and animals that require minimal external input once established.
@@ -111,7 +80,7 @@ These strategies govern *when* activities and yields occur through time:
 
 Conservation strategies focus on retaining value within the system:
 
-- **Recycling at the highest level** — returning waste products to their most productive use rather than discarding or downcycling them. Composting manure back into gardens, using greywater for irrigation, and feeding food scraps to poultry are all examples.
+- **Recycling at the highest level** — returning waste products to their most productive use rather than discarding or downcycling them. [[composting]] manure back into gardens, using greywater for irrigation, and feeding food scraps to poultry are all examples.
 
 The key principle is to prevent energy and nutrients from leaving the system before they have been fully utilized.
 
@@ -122,7 +91,7 @@ These strategies address the human dimension of design:
 - **Removing barriers** — identifying and eliminating social, economic, or psychological obstacles that prevent people from engaging productively with the system.
 - **Expanding choices** — increasing the range of options available to people within the system, empowering them to adapt and innovate.
 
-Cultural strategies recognize that people are integral to permaculture systems, not external managers.
+Cultural strategies recognize that people are integral to [[permaculture]] systems, not external managers.
 
 ### Administrative Strategies
 

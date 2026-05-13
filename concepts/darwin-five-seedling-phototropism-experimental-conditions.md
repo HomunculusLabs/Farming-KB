@@ -1,30 +1,12 @@
 ---
 title: Darwin Five Seedling Phototropism Experimental Conditions
 aliases:
-  - "[[darwin-phototropism-experiments-plant-light-sensing]]"
-  - "Phalaris canariensis phototropism"
-  - "Darwin five-condition phototropism experiment"
-wiki_categories:
-  - Plant Physiology
-  - Phototropism
-  - History of Plant Biology
-  - Experimental Botany
-related_topics:
   - "[[phototropism]]"
   - "auxin"
   - "what a plant knows"
-  - "[[plant-vision-light-perception]]"
-  - "charles darwin botanical work"
----
-
-# Darwin's Five Seedling Phototropism Experimental Conditions
-
-**Darwin's five seedling phototropism experimental conditions** refer to a landmark
-series of experiments conducted by charles darwin and his son francis darwin
-in 1880, published in their book *The [[darwin-power-of-movement-in-plants]] in Plants*. Using canary
+  - "[[darwin-power-of-movement-in-plants]] in Plants*. Using canary
 grass (*phalaris canariensis*) seedlings, the Darwins systematically tested how
-[[phototropism]] — the directional growth of a plant toward light — is initiated and
-controlled. These experiments are described in [[daniel-chamovitz]]'s *what a plant knows* (Chapter 1: What a Plant Sees), where they serve as a foundational example
+[[daniel-chamovitz]]'s *what a plant knows* (Chapter 1: What a Plant Sees), where they serve as a foundational example
 of how plants perceive and respond to light.
 
 ## Historical Background
@@ -33,17 +15,7 @@ By the late 19th century, it was well known that growing plants bend toward ligh
 but the mechanism underlying this response remained unknown. The Darwins set out to
 determine precisely *where* on the plant the light was sensed and *how* that signal
 was translated into a bending response. Their design used five carefully controlled
-conditions on young [[canary-grass-phototropism-model-organism]] seedlings — ideal subjects because their coleoptiles
-grow straight and are highly sensitive to light.
-
-## The Five Experimental Conditions
-
-The Darwins exposed seedlings to a unilateral light source under five conditions:
-
-### Condition A — Untreated Control
-
-Seedlings were placed under lateral light with no treatment. These plants exhibited
-normal [[phototropism]], bending decisively toward the light. This confirmed the
+conditions on young [[phototropism]], bending decisively toward the light. This confirmed the
 baseline behavior. As Darwin wrote, "There are extremely few [plants], of which some
 part… does not bend towards lateral light."
 
@@ -79,11 +51,7 @@ can still "see" the light.
 
 ## Spatial Separation of Perception and Response
 
-The most profound conclusion was that **[[chamovitz-ultraviolet-and-infrared-plant-light-perception]] and the growth response are
-spatially separated**. The "eye" of the plant resides at the shoot tip, but the
-actual bending occurs approximately **1 inch (2 cm) below the tip**, in the
-elongation zone. The tip senses the light and communicates a signal downward to the
-growing region, which responds by differential [[brassinosteroid-physiological-mechanisms-cell-elongation-division]] on the shaded side.
+The most profound conclusion was that **[[brassinosteroid-physiological-mechanisms-cell-elongation-division]] on the shaded side.
 This separation was unprecedented in plant biology and implied a mobile signaling
 molecule traveling from tip to stem — though the Darwins could not identify it.
 
@@ -118,8 +86,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[phototropism]]
 - [[det]]
-- [[brassinosteroid]]
 - [[darwin-five-condition-phototropism-experimental-design]]
 - [[darwin-five-condition-phototropism-experiment-canary-grass]]

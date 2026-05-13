@@ -113,21 +113,11 @@ Understanding the fundamental principles underlying this topic enables more effe
 Practitioners frequently encounter challenges related to resource availability, environmental variability, and knowledge gaps. Systematic approaches to problem-solving, combined with community knowledge sharing and iterative experimentation, provide effective pathways to overcoming these obstacles.
 
 ## See Also
-- [[amazonian-boa-spirits-and-water-beings-in-shamanic-practice]]
 - [[amazonian-shamanic-battles-and-defensive-powers]]
-- [[ayahuasca-tourism-shamanic-tourism-economics]]
 - [[ayahuasca-tourist-dosage-considerations-and-shamanic-caution]]
-- [[ayahuasqueros-shamanic-practice]]
-
-## See Also
-
 - [[shamanic-healing-hallucinogenic-plants]]
-- [[set-and-setting]]
 - [[psychedelic-psychotherapy]]
-- [[psycholytic-psychotherapy]]
 - [[empathogen-assisted-psychotherapy]]
-- [[entheogen-etymology-and-terminology]]
 - [[ayahuasca-ceremony-structure-and-practice]]
-- [[san-pedro-cactus-history]]
 - [[iboga-and-the-bwiti-cult-initiation]]
 - [[dmt-botanical-sources-pharmacology]]

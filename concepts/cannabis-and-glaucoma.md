@@ -12,7 +12,7 @@ sources:
 
 updated: 2021-04-18
 
-Glaucoma is one of the most well-documented medical applications of cannabis, dating back to the 1970s. Research from The [[blesching-cannabis-health-index-autoimmune-conditions]] documents the ability of [[cannabis-anti-inflammatory-applications]] effects in endotoxin-induced uveitis (British Journal of Pharmacology)
+Glaucoma is one of the most well-documented medical applications of cannabis, dating back to the 1970s. Research from The [[cannabis-anti-inflammatory-applications]] effects in endotoxin-induced uveitis (British Journal of Pharmacology)
 - **El-Remessy et al. (2008)**: CBD showed neuroprotective effects in endotoxin-induced uveitis via p38 MAPK inhibition (Molecular Vision)
 - **Xu et al. (2007)**: CB2-selective agonist JWH-133 showed anti-inflammatory property in autoimmune uveoretinitis (Journal of Leukocyte Biology)
 
@@ -22,18 +22,7 @@ Cannabinoid receptors (CB1 and CB2) are present and regulated in human retinal p
 ### Night Vision
 **Russo et al. (2004)**: "Cannabis improves night vision: A case study of dark adaptometry and scotopic sensitivity in kif smokers of the Rif mountains of northern Morocco." Journal of Ethnopharmacology 93(1):99-104.
 
-A fascinating study documenting [[blesching-cannabis-improved-night-vision]] vision in Moroccan cannabis users, consistent with traditional knowledge from the region.
-
-## Hypnosis and Intraocular Pressure
-**Berger and Simel (1958)**: "Effect of hypnosis on intraocular pressure in normal and glaucomatous subjects." Psychosomatic Medicine 20:321-27.
-
-Demonstrated that hypnosis could reduce intraocular pressure, suggesting a mind-body component to glaucoma management that parallels the cannabinoid approach.
-
-## Food-as-Medicine for Eye Health
-
-- **Dark chocolate**: "The sweet secret" -- beneficial effects on blood flow (Hermann et al., 2005)
-- **Cinnamon**: Phenolic constituents with antioxidant activity (Jayaprakasha et al., 2006)
-- **Cloves**: [[permaculture-designers-manual-essential-oil-plants]] with antioxidant properties (Jirovetz et al., 2006)
+A fascinating study documenting [[permaculture-designers-manual-essential-oil-plants]] with antioxidant properties (Jirovetz et al., 2006)
 - **Fennel**: Beneficial effects on ethanol-induced gastric mucosal injury (related to antioxidant protection)
 - **Ginger**: Antioxidant properties and protection of vascular endothelium
 - **Rosemary**: Potent antiglycative effects (Hsieh et al., 2007)
@@ -47,31 +36,11 @@ The primary limitation of cannabis for glaucoma is that the IOP-lowering effect 
 ### Smoking Risks
 Smoking cannabis to treat glaucoma is counterproductive because:
 - Smoke irritates the eyes
-- Long-term smoking may increase [[blesching-cannabis-oxidative-stress-and-antioxidant-defense]]
-- Carbon monoxide exposure affects blood vessels
-
-### Better Delivery Methods
-- Sublingual tinctures (faster onset than oral, no smoking)
-- Topical formulations (under development)
-- CBD-dominant preparations (less psychoactive, still anti-inflammatory)
-
-### Strain Selection
-- CBD-dominant strains for anti-inflammatory uveitis treatment
-- Balanced THC:CBD strains for IOP reduction with manageable psychoactivity
-- High-CBC strains may offer additional IOP-lowering benefit
-
-## The Current Status
-
-While cannabis clearly reduces IOP, modern ophthalmology has effective pharmaceutical treatments (prostaglandin analogs, beta blockers, alpha agonists). Cannabis is generally considered a third-line option for patients who cannot tolerate or do not respond to conventional therapy. However, the neuroprotective and anti-inflammatory effects of cannabinoids on the retina may offer benefits beyond simple IOP reduction that are not yet fully understood.
-
-## Related Topics
-
-- [[cannabis-for-neuropathic-pain]]
+- Long-term smoking may increase [[cannabis-for-neuropathic-pain]]
 
 ## Source
 
 Uwe Blesching, The Cannabis Health Index (2015), Eye Disease and Eye Function section
-- [[medicinal-mushroom-antioxidant-anti-inflammatory]]
 - [[cannabis-mind-body-medicine-integration]]
 ## Practical Considerations
 
@@ -121,8 +90,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[cannabis-health-index]]
 - [[doc]]
-- [[uwe-blesching]]
 - [[dom]]
 - [[soma]]

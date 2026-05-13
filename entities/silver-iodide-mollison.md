@@ -70,7 +70,7 @@ Mollison directs readers to the Cloud Physics Laboratory, Division of Atmospheri
 
 ## Source
 
-Bill Mollison, *Permaculture: A Designers' Manual*, Chapter 7 (Water), Section 7.2 — Regional Intervention in the Water Cycle.
+[[bill-mollison]], *[[permaculture]]: A Designers' Manual*, Chapter 7 (Water), Section 7.2 — Regional Intervention in the Water Cycle.
 
 ## Practical Applications
 
@@ -95,12 +95,9 @@ all influence the optimal approach to implementation.
 
 ## See Also
 
-- [[cannabis-strain-temple-bodhi-seeds-super-silver-haze-oner]]
 - [[oner-temple-bodhi-seeds-super-silver-haze-williams-wonder]]
-- [[silver-iodide-cloud-seeding-mollison]]
 - [[super-silver-haze]]
 
 ## See Also
-- [[silver-iodide-cloud-seeding-mollison]]
 - [[cannabis-strain-temple-bodhi-seeds-super-silver-haze-oner]]
 - [[super-silver-haze]]

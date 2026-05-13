@@ -80,6 +80,11 @@ Mollison identifies Araucaria heterophylla as a key species in the **first line 
 - Supports decision-making in land-use planning
 
 ## Related Topics
+- [[araucaria-angustifolia]]
+- [[populus-heterophylla]]
+
+## See Also
+
 - [[araucaria-araucana]]
 - [[araucaria-angustifolia]]
 - [[tsuga-heterophylla]]

@@ -20,35 +20,7 @@ sources:
 
 ## Overview
 
-**Sambucus racemosa**, commonly known as red elderberry, is a deciduous shrub in the family Adoxaceae native to cool-temperate regions of [[psilocybin-north-america-pacific-northwest]], Europe, and Asia. It is one of the most widely distributed elderberry species, with a circumboreal range.
-
-The species is distinguished from the more familiar common elderberry (*Sambucus nigra* ssp. *canadensis*) by its earlier flowering time, cone-shaped flower clusters, and bright red fruits. Red elderberry typically blooms 2–4 weeks earlier than blue or black elderberry species.
-
-The fruits are edible when cooked but are mildly toxic raw due to cyanogenic glycosides. Indigenous peoples across its range have traditionally used the berries for food, medicine, and dye production.
-
-The genus *Sambucus* contains approximately 25–30 species distributed across temperate and subtropical regions worldwide. Several species are economically important for fruit, medicine, and ornamental use.
-
-## Taxonomy and Morphology
-
-**Classification:** Kingdom Plantae → Order Dipsacales → Family Adoxaceae → Genus *Sambucus* → Species *S. racemosa* L.
-
-**Authority:** Carl Linnaeus, *Species Plantarum* (1753).
-
-**Growth form:** Deciduous, upright, multi-stemmed shrub typically 1.5–3 m tall, occasionally reaching 5 m. It forms loose, open thickets by root suckering.
-
-**Bark:** Grayish-brown to reddish-brown, smooth with conspicuous lenticels on young stems. Older bark develops shallow fissures. Pith is white and chambered.
-
-**Leaves:** Opposite, pinnately compound, 15–30 cm long with 5–7 leaflets. Leaflets are ovate to lanceolate, 5–15 cm long, sharply serrate, and pointed. Foliage has a distinctive, slightly unpleasant odor when crushed.
-
-**Flowers:** Creamy white to pale yellow, arranged in conical to pyramidal panicles 5–12 cm long. Individual flowers are 4–6 mm wide with 5 petals. Blooming occurs April–May, significantly earlier than other elderberries.
-
-**Fruit:** Bright red, translucent drupe 4–6 mm in diameter, containing 3–5 nutlets. Fruits ripen June–July, often before other fruiting shrubs. Each cluster contains 50–150 berries.
-
-## Distribution and Habitat
-
-Red elderberry has a broad circumboreal distribution. In North America, it ranges from Alaska across Canada to Newfoundland, south through the Rocky Mountains to New Mexico, and in the Appalachians to North Carolina and Tennessee.
-
-The species is also native to Europe, Siberia, and eastern Asia. Several varieties have been described, with [[growing-gourmet-north-american-reishi-species]] plants sometimes treated as *Sambucus racemosa* var. *pubens*.
+**Sambucus racemosa**, commonly known as red elderberry, is a deciduous shrub in the family Adoxaceae native to cool-temperate regions of [[growing-gourmet-north-american-reishi-species]] plants sometimes treated as *Sambucus racemosa* var. *pubens*.
 
 Red elderberry grows in moist to mesic forests, forest openings, riparian corridors, subalpine meadows, and avalanche tracks. It is a common early-successional species along streambanks and roadcuts.
 
@@ -82,14 +54,91 @@ Red elderberry is occasionally cultivated for ornamental and wildlife plantings.
 
 Propagation is by seed (requires cold stratification), softwood cuttings, or division of root suckers. The species establishes readily and requires minimal maintenance once planted.
 
-It is valued in native plant landscaping for its [[coleman-overwintered-onions-and-early-spring-crops]] flowers, bright red fruit display, and wildlife attraction. The compact cultivar 'Sutherland Gold' has golden-yellow foliage.
+It is valued in native plant landscaping for its [[sambucus-canadensis]]
+- [[myrica-gale]]
+- [[kalmia-latifolia]]
 
-Red elderberry is not widely grown commercially for fruit production, as the smaller berry size and earlier ripening make mechanical harvesting impractical compared to black elderberry species.
+## Overview
+
+Sambucus Racemosa represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish sambucus racemosa
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving sambucus extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Sambucus Racemosa finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for sambucus racemosa. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+sambucus racemosa and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Sambucus Racemosa has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of sambucus racemosa into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
 
 ## See Also
 
+- [[acalypha-racemosa]]
+- [[exochorda-racemosa]]
 - [[sambucus-canadensis]]
-- [[viburnum-lentago]]
-- [[myrica-gale]]
-- [[pinus-sylvestris]]
-- [[kalmia-latifolia]]
+- [[sambucus-cerulea]]
+- [[sambucus-nigra]]

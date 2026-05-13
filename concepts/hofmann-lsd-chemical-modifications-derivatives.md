@@ -35,11 +35,6 @@ stroke of luck.
 Soon after the discovery of LSD's psychic effects, two coworkers were
 assigned to join Hofmann in carrying out the chemical modification of
 LSD on a broader basis and in further investigations in the field of
-[[claviceps-purpurea-chemistry-and-water-soluble-ergot-alkaloids]]. Work on the chemical structure of peptide-type ergot
-alkaloids, to which ergotamine and the alkaloids of the ergotoxine
-group belong, continued with Dr. Theodor Petrzilka. Working with Dr.
-Franz Troxler, Hofmann produced a great number of chemical modifications
-of LSD and attempted to gain further insights into the structure of
 [[ergot-and-lysergic-acid-history]].
 
 ## Correcting the Lysergic Acid Structure
@@ -55,27 +50,9 @@ Dr. Hans Ott.
 
 Dr. Paul A. Stadler was largely responsible for developing this
 synthesis into a process practicable on an industrial scale. The
-synthetic production of peptide [[ergot-alkaloids-eleusinian-mysteries]] using lysergic acid from
-special cultures of the [[ergot-fungus]] in tanks has great economic
-importance. This procedure produces the [[shirota-4-hydroxyindole-acetyl-protection-psilocin-synthesis-starting-material]] for the
-medicaments Hydergine and Dihydergot.
-
-## LSD Derivatives: None More Active Than the Original
-
-Many LSD derivatives were produced since 1945 in collaboration with Dr.
-Troxler, but none proved hallucinogenically more active than LSD.
-Indeed, the very closest relatives proved themselves essentially less
-active. This was a remarkable finding: LSD appeared to occupy a kind of
-optimum in the structure-activity relationship, where even minor
-modifications diminished rather than enhanced its psychoactive potency.
-
-## Spatial Isomers of LSD
-
-There are four different possibilities of spatial arrangement of atoms
-in the [[lsd-molecule-of-perfection]], differentiated by the prefix "iso-" and the letters
-D and L. Besides D-lysergic [[lsd-d-lysergic-acid-diethylamide]] (LSD itself), Hofmann
-produced and tested the three other spatially different forms:
-D-isolysergic [[lsd-lysergic-acid-diethylamide-experience-guide]] (iso-LSD), L-lysergic acid
+synthetic production of peptide [[ergot-fungus]] in tanks has great economic
+importance. This procedure produces the [[lsd-molecule-of-perfection]], differentiated by the prefix "iso-" and the letters
+D and L. Besides D-lysergic [[lsd-lysergic-acid-diethylamide-experience-guide]] (iso-LSD), L-lysergic acid
 diethylamide (L-LSD), and L-isolysergic acid diethylamide (L-iso-LSD).
 All three showed no psychic effects up to a dose of 0.5 mg, which
 corresponds to a 20-fold quantity of a still distinctly active LSD dose.
@@ -118,8 +95,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[lsd]]
 - [[psilocin]]
-- [[lysergic-acid-diethylamide]]
 - [[indole]]
 - [[lysergic-acid-amide]]

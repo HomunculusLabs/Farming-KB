@@ -1,12 +1,8 @@
 # Four Prime Cannabinoids: A Comparative Profile
 
-Uwe Blesching's [[blesching-cannabis-health-index-autoimmune-conditions]] identifies four "prime cannabinoids" that
-are central to therapeutic cannabis medicine: anandamide (an endogenous
-cannabinoid), THC and CBD (plant-derived cannabinoids from *Cannabis sativa* L.),
-and beta-caryophyllene (a [[beta-caryophyllene-dietary-cannabinoid]] found in common spices). Each
+Uwe Blesching's [[beta-caryophyllene-dietary-cannabinoid]] found in common spices). Each
 interacts with the endocannabinoid system through distinct receptor mechanisms,
-producing overlapping yet differentiated [[cervantes-terpenoid-pharmacology-therapeutic-effects]]. Understanding
-these differences is essential for evidence-based [[cultivator-strain-selection-and-stock-culture]]
+producing overlapping yet differentiated [[cultivator-strain-selection-and-stock-culture]]
 personalized cannabis therapy.
 
 ## Anandamide (AEA): The Body's Own Cannabinoid
@@ -51,8 +47,7 @@ psychoactive and has unique anti-inflammatory properties including TNF-α
 inhibition.
 
 **Key therapeutic actions**: THC provides pain relief (partly by inducing
-release of [[endogenous-opioids-pain-modulation-endocannabinoid-interaction]] dynorphin A and B), anti-nausea and anti-emetic
-effects, [[cannabis-for-cachexia-and-appetite-stimulation]], muscle relaxation, bronchodilation, and anti-
+release of [[cannabis-for-cachexia-and-appetite-stimulation]], muscle relaxation, bronchodilation, and anti-
 inflammatory action. At low to medium doses, it can increase acetylcholine in the
 brain, supporting learning and memory. THC has demonstrated cardio-protective
 properties and the ability to produce apoptosis (programmed cell death) in
@@ -118,8 +113,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[doc]]
 - [[uwe-blesching]]
-- [[dom]]
 - [[tetrahydrocannabinol]]
 - [[endocannabinoid-system]]

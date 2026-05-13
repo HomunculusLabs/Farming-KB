@@ -12,7 +12,7 @@ type: concept
 
 # Fukuoka's No-Tillage Rice-Barley Succession Cropping
 
-The direct-seeded, no-tillage winter grain and rice succession in a clover cover is Masanobu Fukuoka's core agricultural technique and the practical embodiment of his natural [[fukuoka-do-nothing-farming-philosophy-and-practice]]. Developed over more than two decades of experimentation, this system eliminates plowing, transplanting, [[cervantes-chemical-fertilizers-guide]], prepared compost, and pesticides from rice and winter grain production while maintaining yields of 22 or more bushels per quarter-acre for each crop. Fukuoka referred to it as the "clover revolution" in rice and barley cropping.
+The direct-seeded, no-tillage winter grain and rice succession in a clover cover is Masanobu Fukuoka's core agricultural technique and the practical embodiment of his natural [[cervantes-chemical-fertilizers-guide]], prepared compost, and pesticides from rice and winter grain production while maintaining yields of 22 or more bushels per quarter-acre for each crop. Fukuoka referred to it as the "clover revolution" in rice and barley cropping.
 
 ## Historical Development
 
@@ -52,13 +52,7 @@ The field requires no attention during winter. Clover establishes a thick ground
 
 **Irrigation**: After the initial flooding to suppress clover, the field is surface-drained to grow hardy rice plants. During the first half of the growing season, irrigation is not strictly necessary, but water may be passed briefly over the field once every week to ten days. Soil moisture of approximately 80 percent is adequate. During the heading stage, irrigation is increased with plant growth. After heading, rice requires substantial water. Fukuoka made a point of not holding standing water for more than five days at a stretch.
 
-**[[permaculture-integrated-animal-systems]] management**: As an alternative to manure application, Fukuoka recommended releasing ten ducklings per quarter-acre onto the field once rice seedlings were established. The ducks weed, control insects, and turn the soil. Young carp could also be released for similar benefits. This three-dimensional use of the field simultaneously produces grain and protein.
-
-**No pest control**: Fukuoka farmed without pesticides for over thirty years. He described his fields as populated with Asiatic locusts, tree frogs, hovering clouds of dragonflies, ground sparrows, and swallows, all indicating a healthy ecosystem in natural balance.
-
-## Yields and Productivity
-
-Fukuoka consistently harvested approximately 22 bushels (1,300 pounds) each of winter grain and rice per quarter-acre, and was working toward a goal of 33 bushels per quarter-acre. His fields typically produced about 250 heads of grain per square yard, with an average of 200 grains per head. He argued these yields were actually lower than what the full powers of nature could produce, and that [[fukuoka-illusions-scientific-farming-centrifugal-centripetal-model]]'s supposed yield increases merely restored productivity after nature's inherent capacity had been suppressed by destructive practices.
+**[[fukuoka-illusions-scientific-farming-centrifugal-centripetal-model]]'s supposed yield increases merely restored productivity after nature's inherent capacity had been suppressed by destructive practices.
 
 ## Straw as the Central Input
 
@@ -66,15 +60,7 @@ Straw mulch is the single most important material input in the system, yet its s
 
 Fresh straw performs three critical functions simultaneously: it promotes germination of the next crop's seed by maintaining soil moisture and temperature, it suppresses winter and summer weed emergence by blocking light, and it decomposes into humus that feeds the soil ecosystem. The decomposition cycle is self-reinforcing -- straw feeds earthworms, earthworms aerate the soil and leave castings, microbial activity increases, and the resulting humus improves water retention for the next cycle.
 
-Fukuoka noted that returning all straw and chaff to the fields supplies approximately seventy percent of the nitrogenous components that rice and barley require, with clover providing the remainder. When straw is removed or burned -- a practice he saw spreading across Japan -- the soil loses its organic foundation and the entire cycle of [[fukuoka-natural-fertility-cycle]] collapses. A practical note: barley straw should be scattered immediately after threshing, because once dried barley straw is wet by rain it becomes more than five times as heavy and extremely difficult to transport back to the field.
-
-The reason this complete return of straw is only possible within natural farming is that healthy, robust grain grown without chemical dependence resists the diseases and pests that conventionally grown rice would succumb to under a fresh straw mulch. Weak plants produced by chemical fertilizers cannot tolerate the microbial environment of decomposing straw, which is precisely why conventional agriculture developed the practice of burning or composting straw in the first place.
-
-## Water Management
-
-Water management is described as the most important and potentially most perplexing aspect of the system for novice farmers. Critical considerations include:
-
-**Drainage channels**: Two to three weeks before rice harvest, a water outlet is cut through the levee and the field surface drained. A row of rice along the perimeter is removed and a drainage channel dug about 8 inches deep and 8 inches wide. After rice harvest, similar channels are dug at 12-15 foot intervals across the field. Once established, these channels serve for many years in both rice and [[fukuoka-textdoc-barley-cultivation-three-stage-no-tillage-evolution]].
+Fukuoka noted that returning all straw and chaff to the fields supplies approximately seventy percent of the nitrogenous components that rice and barley require, with clover providing the remainder. When straw is removed or burned -- a practice he saw spreading across Japan -- the soil loses its organic foundation and the entire cycle of [[fukuoka-textdoc-barley-cultivation-three-stage-no-tillage-evolution]].
 
 **Levee maintenance**: Fukuoka considered building and maintaining earthen levees an art form requiring traditional tools. The process involves cutting grass on the old levee, breaking it down with a hoe, digging up soil at the base, kneading earth with a three-pronged cultivator, and plastering the finished levee. He warned against concrete or vinyl sheeting, which creates ideal mole habitat and leads to worse problems over time. Grass cuttings and straw must not be left on levees as they attract earthworms, which in turn attract moles.
 
@@ -118,8 +104,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[masanobu-fukuoka]]
 - [[fukuoka-direct-seeded-no-tillage-rice-barley-clover-succession]]
-- [[doc]]
 - [[dom]]
 - [[composting]]

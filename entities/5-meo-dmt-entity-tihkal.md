@@ -8,7 +8,7 @@ sources: ["raw/papers/shulgin-a-tihkal.md"]
 ---
 # 5-MeO-DMT (5-Methoxy-N,N-Dimethyltryptamine)
 
-TIHKAL entry #38. An extremely potent, fast-acting tryptamine psychedelic. Found naturally in the venom of the [[5-meo-dmt-and-bufo-alvarius]] toad, in numerous plant species (Dictyoloma incanescens, Virola species), and as a minor endogenous [[taar1-trace-amine-associated-receptor-psychedelic-pharmacology]]. Known also as bufotenine methyl ether, O-methylbufotenine, and N,N,O-trimethylserotonin.
+TIHKAL entry #38. An extremely potent, fast-acting tryptamine psychedelic. Found naturally in the venom of the [[taar1-trace-amine-associated-receptor-psychedelic-pharmacology]]. Known also as bufotenine methyl ether, O-methylbufotenine, and N,N,O-trimethylserotonin.
 
 ## Chemical Names
 
@@ -37,7 +37,7 @@ TIHKAL entry #38. An extremely potent, fast-acting tryptamine psychedelic. Found
 
 - **6 mg, smoked**: "I felt it in a minute -- not really light head, but the head feels close to the lower parts of the body -- close to the ground -- knees weak -- distinct shakes. I peaked at 2 or three minutes. Overall comparison to DMT, more potent, slightly faster, but like DMT is largely a simple, stoning drug with no sensory contribution, no intellectual contribution."
 - **8 mg, smoked**: "I was blown away, far away I might add, but only for 10 minutes and effects were gone by half an hour. During this episode mental activity was almost absent."
-- **10 mg, smoked**: "This is like adding the MDMA experience to DMT. DMT for me is terrifying (I still go back though). The 5-MeO-DMT was much more relaxed, a kind of [[turner-essential-psychedelics-lsd-cosmic-consciousness]] type of experience. I felt a little shaky (tremor-like) [[fukuoka-textdoc-production-costs-not-coming-down]]."
+- **10 mg, smoked**: "This is like adding the MDMA experience to DMT. DMT for me is terrifying (I still go back though). The 5-MeO-DMT was much more relaxed, a kind of [[fukuoka-textdoc-production-costs-not-coming-down]]."
 - **15 mg, smoked**: "At about 60 seconds... I beheld every thought going on everywhere in the universe and all possible realities while I was wracked out with this horrible ruthless love. A definite ++++."
 - **20 mg, smoked**: "A twenty minute experience. The entire universe imploded through my consciousness... This was simply the most intense experience possible; a singularity, a white-out."
 - **25 mg, smoked**: "The entire universe imploded through my consciousness. I felt that my mind was perceiving all objects, situations and feelings at once. There was no distance, no possibility of examining the experience."
@@ -59,21 +59,7 @@ TIHKAL entry #38. An extremely potent, fast-acting tryptamine psychedelic. Found
 
 ## Natural Occurrence
 
-5-MeO-DMT was first observed in a member of the Rue family (Rutaceae) called Dictyoloma incanescens. It is now recognized as a major component of several [[chiric-caspi-brunfelsia-south-american-hallucinogen]] snuffs including yakee, yato (Colombia), parica, epena, and nyakwana (Brazil), prepared from Virola species trees of the Amazon basin.
-
-There is considerable variation in alkaloid content between Virola species. Two collections of V. theiodora gathered in Brazil had radically different compositions: in one, 5-MeO-DMT was substantially the only alkaloid in the bark, while in the other, DMT was the major alkaloid. Both had DMT almost exclusively in young green shoots. V. calophylla bark, root, leaves, and shoots run about 90% DMT. Yet V. rufuta bark and root consist of about 95% 5-MeO-DMT. This variation illustrates the longstanding disagreement between morphotaxonomists (who classify by appearance) and chemotaxonomists (who classify by chemical composition).
-
-### The Sonora Desert Toad (Bufo alvarius)
-
-The Sonora Desert Toad, also called the Colorado River Toad (Bufo alvarius), secretes venom containing up to 15% 5-MeO-DMT, along with N-methyl-5-methoxytryptamine (5-MeO-NMT) and bufotenine. Despite popular mythology of "toad-licking," the active venom is dried and smoked, not licked. When the toad is stroked near the parotid glands in the neck region, the venom squirts out and dries to a rubber-cement texture. This is not the closely related marine toad Bufo marinus, as some have insisted based on Olmec and Mayan iconography.
-
-### The Australian Cane Toad Incident
-
-Shulgin recounts a visit to Sydney where he learned about Australia's cane toad problem. Cane toads (Bufo marinus) were imported in the mid-20th century to control cane beetles, but became an invasive catastrophe. The toad-licking mythology surrounding Bufo alvarius has sometimes been incorrectly attributed to the Australian cane toad, which does not produce significant quantities of psychoactive alkaloids.
-
-## Pharmacology
-
-5-MeO-DMT is several times more potent than DMT by weight. Unlike DMT, it produces a more "stoning" experience -- often described as [[psilocybin-ego-dissolution-mechanisms]] without the rich visual imagery of DMT. The experience is frequently characterized by a sense of unity, unconditional love, or cosmic consciousness, but can also be terrifyingly overwhelming. Shulgin notes it is "like adding the MDMA experience to DMT" -- "DMT is terrifying... the 5-MeO-DMT was much more relaxed, a kind of cosmic consciousness type of experience."
+5-MeO-DMT was first observed in a member of the Rue family (Rutaceae) called Dictyoloma incanescens. It is now recognized as a major component of several [[psilocybin-ego-dissolution-mechanisms]] without the rich visual imagery of DMT. The experience is frequently characterized by a sense of unity, unconditional love, or cosmic consciousness, but can also be terrifyingly overwhelming. Shulgin notes it is "like adding the MDMA experience to DMT" -- "DMT is terrifying... the 5-MeO-DMT was much more relaxed, a kind of cosmic consciousness type of experience."
 
 The drug is not orally active at any dose tested (up to 35 mg). Smoked onset is within seconds, with peak effects reached in under a minute. Some trial i.v. experiments showed no effects at 100 micrograms, but real effects at 250 micrograms. The injection process is faster than smoking and avoids the odd smoke flavor.
 
@@ -88,3 +74,77 @@ A true academic challenge exists with studies of 5-MeO-DMT involving drug mixtur
 Removing one N-methyl group provides 5-MeO-NMT, which has its own entry. Removal of both methyl groups gives 5-methoxytryptamine (5-MeO-T, Mexamine), explored by Soviet researchers as a treatment for radiation exposure and known as a potentiator of centrally active drugs. As with the simpler N,N-dialkyltryptamines, metabolic introduction of a hydroxyl group at the 6-position leads to a lowering of pharmacological potency.
 
 ## Synthesis Notes
+
+## Overview
+
+5 Meo Dmt Entity Tihkal represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish 5 meo dmt entity tihkal
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving 5 extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+5 Meo Dmt Entity Tihkal finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for 5 meo dmt entity tihkal. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+5 meo dmt entity tihkal and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+5 Meo Dmt Entity Tihkal has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of 5 meo dmt entity tihkal into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource

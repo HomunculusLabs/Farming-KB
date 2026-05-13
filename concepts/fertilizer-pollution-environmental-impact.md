@@ -34,46 +34,10 @@ The dead zone forms each summer along the coasts of Mississippi, Louisiana, and 
 Although farmers usually receive the blame for excessive synthetic fertilizer use, gardeners play a significant role:
 
 - Studies show gardeners use **three times more synthetic nitrogen per acre** than farmers
-- [[hamilton-lawn-care-establishment]] and [[purdue-four-step-garden-fertilization-program]] contribute substantially to local watershed pollution
-- Home gardeners are less likely to have soil tests or follow calibrated [[ingham-compost-tea-application-rates-and-timing]]
-
-### Residential Lawn Fertilizer
-
-Lawn care is a major contributor to urban nutrient pollution. Many homeowners apply fertilizer on a fixed schedule regardless of actual soil nutrient levels, leading to systematic over-application. Lawn fertilizers applied before rain events are particularly likely to wash into storm drains and waterways. The cumulative effect of millions of residential lawns can exceed the impact of large agricultural operations in densely populated watersheds.
-
-## Why Synthetic Fertilizers Pollute
-
-### Leaching
-
-Many synthetic fertilizers are anions designed for instant water solubility (farmers need to feed plants quickly). These anions are easily leached from soil by rain and irrigation, carrying nitrogen and phosphorus into waterways.
-
-### Nitrate Leaching and Groundwater
-
-Nitrate (NO3-) is highly mobile in soil and readily leaches into groundwater. Elevated nitrate levels in drinking water pose serious health risks, particularly for infants (methemoglobinemia, or "blue baby syndrome"). The [[ozier-pdc-composting-and-soil-building]] acts as a natural nutrient retention system. When [[hamilton-organic-fertilizers-and-plant-nutrition]] are applied, soil microorganisms incorporate the nutrients into their biomass before releasing them slowly over time. This biological buffering prevents the sudden nutrient surges that cause leaching and runoff. In contrast, soluble synthetic fertilizers deliver nutrients all at once, far exceeding what plants and soil organisms can immediately absorb.
-
-### Mycorrhizal Networks
-
-[[glomalin-and-soil-carbon]]
-- [[biofertilizers-and-soil-inoculants]]
+- [[purdue-four-step-garden-fertilization-program]] contribute substantially to local watershed pollution
+- Home gardeners are less likely to have soil tests or follow calibrated [[ozier-pdc-composting-and-soil-building]] acts as a natural nutrient retention system. When [[glomalin-and-soil-carbon]]
 - [[ozier-pdc-composting-and-soil-building]]
-- [[soil-food-web-nutrient-cycling]]
-## Practical Considerations
-
-When working with Fertilizer Pollution and Environmental Impact, several practical factors should be
-carefully considered to achieve optimal results. These include
-the specific conditions of the implementation context, available
-resources, timing requirements, and the interactions between this
-topic and other elements of the broader system. A holistic view
-that considers these interconnections produces better outcomes.
-
-Environmental conditions such as temperature, moisture, and
-seasonal patterns significantly influence results. Monitoring these
-variables and adapting practices accordingly is essential for success.
-The most effective practitioners develop keen observation skills and
-respond flexibly to changing conditions rather than following rigid
-protocols regardless of circumstances or local variation.
-
-[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
+- [[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -111,8 +75,6 @@ through generations to modern scientific approaches, the evolution continues
 to inform current best practices and research directions.
 
 ## See Also
-- [[composting]]
 - [[mycorrhizal-networks]]
-- [[mycorrhiza]]
 - [[bloomfield-environmental-pollution-overcollection-impact-fungi]]
 - [[fungi-as-environmental-indicators-and-biosensors]]

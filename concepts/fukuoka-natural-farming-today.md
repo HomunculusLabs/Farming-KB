@@ -11,52 +11,21 @@ sources:
 
 Updated: 2026-04-18
 
-In this chapter from "The Road Back to Nature," Fukuoka contrasts Western and Japanese [[weil-cultural-attitudes-toward-altered-states]] natural farming, observing that foreigners who visit his farm often grasp the essence more quickly than his fellow Japanese.
-
-This chapter provides crucial context for understanding how [[fukuoka-european-civilization-standstill]], where Fukuoka argued that Western civilization had reached an impasse that paradoxically made its members more receptive to radical alternatives.
+In this chapter from "The Road Back to Nature," Fukuoka contrasts Western and Japanese [[fukuoka-european-civilization-standstill]], where Fukuoka argued that Western civilization had reached an impasse that paradoxically made its members more receptive to radical alternatives.
 
 ## Why Westerners Succeed at Natural Farming
 
 Several reasons:
 
-1. **They know the errors of [[fukuoka-descartes-western-philosophy-nature]]** — having stared at Western philosophy and beset with doubts, they decide to get out and turn to Eastern thought. Once resolved, they plunge right in
+1. **They know the errors of [[fukuoka-direct-observation-method]] and intuition — which is exactly what natural farming requires.
 
-2. **Societal tolerance** — In Australia, land prices are about a hundredth of Japan's. Society is more tolerant of unconventional farming
+The economic factor is equally important. [[fukuoka-desert-reclamation-projects]] — rather than mere philosophy. For Fukuoka, the test of understanding was always action: if you truly understand natural farming, you will practice it, regardless of the social consequences.
 
-3. **They come tabulae rasae** — not seeking to add to their store of knowledge, but prepared to abandon it entirely
-
-4. **Language barrier is a plus** — not speaking Japanese prevents them from over-intellectualizing the experience
-
-The language barrier point is particularly insightful. Fukuoka believed that intellectual understanding was an obstacle to natural farming. When visitors cannot understand the technical discussions happening around them, they are forced to rely on [[fukuoka-direct-observation-method]] and intuition — which is exactly what natural farming requires.
-
-The economic factor is equally important. [[fukuoka-paris-peace-march-nature-university]], where Fukuoka proposed concrete actions — seed-bombing, [[fukuoka-desert-reclamation-projects]] — rather than mere philosophy. For Fukuoka, the test of understanding was always action: if you truly understand natural farming, you will practice it, regardless of the social consequences.
-
-## The Relevance for [[fukuoka-nature-as-teacher]]
-
-- [[fukuoka-scattering-straw-technique]]
-
-- [[fukuoka-scattering-straw-technique]]
+## The Relevance for [[fukuoka-scattering-straw-technique]]
 
 - [[fukuoka-european-civilization-standstill]]
 
-- [[fukuoka-pine-blight-matsutake-research]]
-## Practical Considerations
-
-When working with Fukuoka: Natural Farming Today — East Meets West, several practical factors should be
-carefully considered to achieve optimal results. These include
-the specific conditions of the implementation context, available
-resources, timing requirements, and the interactions between this
-topic and other elements of the broader system. A holistic view
-that considers these interconnections produces better outcomes.
-
-Environmental conditions such as temperature, moisture, and
-seasonal patterns significantly influence results. Monitoring these
-variables and adapting practices accordingly is essential for success.
-The most effective practitioners develop keen observation skills and
-respond flexibly to changing conditions rather than following rigid
-protocols regardless of circumstances or local variation.
-
-[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
+- [[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -110,8 +79,6 @@ through generations to modern scientific approaches, the evolution continues
 to inform current best practices and research directions.
 
 ## See Also
-- [[natural-farming]]
 - [[doc]]
-- [[fukuoka-mahayana-and-hinayana-natural-farming]]
 - [[fukuoka-natural-farming-philosophy-of-mu]]
 - [[fukuoka-natural-livestock-farming]]

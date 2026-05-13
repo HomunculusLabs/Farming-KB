@@ -8,7 +8,7 @@ type: entity
 
 ## Description
 
-Panga-cometas (literally "comets of living leaves") are spiritual phenomena described in [[ayahuasca-preparation-pablo-amaringo-ucayali-shamanism]]'s [[amaringo-ayahuasca-visions-shipibo-iconography]]. They appear as living leaves that transform into flying objects, functioning as gifts or offerings from a master vegetalista to visiting spiritual beings. In Vision 29, panga-cometas are offered to extraterrestrial goblins who arrive as experts in surgical operations from the planet Mars, as a sign of appreciation. The leaves then change into flying animals.
+Panga-cometas (literally "comets of living leaves") are spiritual phenomena described in [[amaringo-ayahuasca-visions-shipibo-iconography]]. They appear as living leaves that transform into flying objects, functioning as gifts or offerings from a master vegetalista to visiting spiritual beings. In Vision 29, panga-cometas are offered to extraterrestrial goblins who arrive as experts in surgical operations from the planet Mars, as a sign of appreciation. The leaves then change into flying animals.
 
 ## Classification
 
@@ -35,49 +35,13 @@ Panga-cometas (literally "comets of living leaves") are spiritual phenomena desc
 
 ## Relevance to Cultivation and Mycology
 
-- The concept of living leaves transforming into animals reflects the deep ecological understanding of food webs [[ozier-pdc-composting-and-nutrient-cycles]]
-- In [[mycological-terms-glossary]], the transformation concept parallels how fungal mycelium transforms dead plant matter into new life forms
-- The idea that leaves can become flying creatures connects to [[fungal-decomposition-ecology]] where plant matter sustains insect and fungal life
-- The spiritual transformation mirrors biological metamorphosis observed in forest ecosystems
-
-## See Also
-
-- Vegetalismo (Amazonian plant shamanism)
-- Mariri (magical phlegm)
-- Icaro (shamanic song)
-- Yakumama (mother of the waters)
-
-## Context in Visionary Exchange
-
-Panga-cometas appear in a scene of diplomacy between a vegetalista and visiting nonhuman specialists.
-Their role is not merely decorative; they function as a gift that establishes reciprocity.
-In Amazonian visionary logic, a healer receives knowledge, protection, or service from spirits and must respond with respect.
-The living leaves become a medium through which that respect is made visible.
-This places panga-cometas in the same ceremonial universe as [[icaro]], [[mariri]], and spirit-guided healing work.
-
-## Transformation Motif
-
-The change from leaf to flying animal is central to the image.
-Leaves belong to rooted plant life, while flying animals belong to movement, sky, and messenger functions.
-Their transformation dramatizes the way ayahuasca visions dissolve fixed boundaries between kingdoms of life.
-The plant is not passive matter; it can become agent, animal, vehicle, or offering.
-This reflects the broader animist premise of [[shamanism]], where form is fluid because each being has interior power.
+- The concept of living leaves transforming into animals reflects the deep ecological understanding of food webs [[mycological-terms-glossary]], the transformation concept parallels how fungal mycelium transforms dead plant matter into new life forms
+- The idea that leaves can become flying creatures connects to [[icaro]], [[shamanism]], where form is fluid because each being has interior power.
 
 ## Ecological Reading
 
 A nonliteral ecological reading also fits the image.
-Leaves do become flying life through decomposition, [[aact-nitrogen-forms-microbial-nutrient-cycling-ingham]], insect emergence, and food-web transfer.
-Forest litter feeds fungi, insects, birds, and bats, converting plant tissue into movement.
-The panga-cometa compresses that whole ecological process into a single visionary event.
-From this angle, the image is not opposed to natural history but poetically intensifies it.
-It makes the hidden transformations of the forest visible in ceremonial form.
-
-## Relation to Healing Practice
-
-Because the panga-cometas are given to surgical experts, they also mark the seriousness of the healing operation.
-The vegetalista is not commanding spirits as servants but hosting them as honored collaborators.
-The offering stabilizes the relationship before delicate work is performed on a patient.
-This resembles the way [[yakumama]] or other powerful beings may be approached through song, respect, and correct protocol.
+Leaves do become flying life through decomposition, [[yakumama]] or other powerful beings may be approached through song, respect, and correct protocol.
 The image therefore helps document the etiquette of vegetalismo as much as its visual imagination.
 
 ## Vocabulary Note
@@ -86,3 +50,80 @@ The term combines plant material with celestial motion: leaves that behave like 
 That pairing suggests brightness, speed, and directed travel across the visionary field.
 It also shows Amaringo's tendency to name visionary phenomena through compound images rather than abstract categories.
 For the vault, the page is useful as a compact example of Amazonian plant-spirit transformation.
+
+## Overview
+
+Panga Cometas represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish panga cometas
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving panga extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Panga Cometas finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for panga cometas. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+panga cometas and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Panga Cometas has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of panga cometas into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.

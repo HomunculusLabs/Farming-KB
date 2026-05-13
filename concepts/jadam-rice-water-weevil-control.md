@@ -18,7 +18,6 @@ Rice water weevils (Lissorhoptrus oryzophilus) inhabit the dikes and water surfa
 
 ## Surface Spreading Agent Recipe (Concentrated)
 
-- [[jadam-sulfur-js]] 0.5 L (0.132 gal)
 - [[jadam-canola-oil-surfactant-method]] 3 L (0.8 gal)
 
 ### Mixing Instructions
@@ -37,41 +36,7 @@ Rice water weevils (Lissorhoptrus oryzophilus) inhabit the dikes and water surfa
 ### Pre-Transplant Treatment of Dikes
 Before transplanting rice, apply to the paddy dikes:
 
-- Water + [[jadam-sulfur-js]] 2 L (0.52 gal) = 500 L (132 gal)
-- Apply once or twice on the dikes in early morning
-
-### Surface Spreading After Transplant
-After transplanting rice seedlings:
-
-1. Make a fresh batch of the surface spreading agent (do not store/reuse)
-2. Sprinkle the agent undiluted on the water surface
-3. Apply once or twice
-4. Use warm/soft water
-
-### Application Methods
-- **Plastic bottle:** Drill a hole in the lid, put agent in, shake to sprinkle
-- **Backpack sprayer (20 L / 5.3 gal):** Remove the nozzle and sprinkle directly
-- Apply in early morning when there is little wind
-
-## Important Notes
-
-- Make the surface spreading agent **new every time** -- do not store or reuse
-- Use **soft water** for the mixture
-- Apply **intensively on waterways** where cold water enters the field (weevils congregate there)
-- This method does NOT kill water snails
-- Repeat application when infestation is serious
-
-## How It Works
-
-The JWA + canola oil combination spreads rapidly across the water surface, forming a thin film. When weevils come to the surface or inhabit the water edge, they contact the pesticidal film. The JS adds germicidal properties to the mixture.
-
-## See Also
-
-- [[jadam-rice-pesticide-program]] - Recipe #3 for comprehensive rice [[comparison-pheromone-based-pest-control-vs-beneficial-insect-biocontrol]]
-- [[jadam-sulfur-js]] - How to make [[ultra-low-jadam-sulfur-js]]
-- [[jadam-cover-crop-wild-grass-symbiosis]]
-
-- [[jadam-natural-pesticide-programs]]
+- Water + [[jadam-rice-pesticide-program]] - Recipe #3 for comprehensive rice [[jadam-sulfur-js]] - How to make [[jadam-cover-crop-wild-grass-symbiosis]]
 
 - [[jadam-water-quality-softening]]
 ## Practical Considerations
@@ -122,8 +87,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[youngsang-cho]]
 - [[jadam-pest-control-with-natural-pesticides-jhs]]
-- [[jadam-pest-control-recipes]]
 - [[knf-pest-control-and-soap-water]]
 - [[jadam-fruit-tree-winter-pest-control]]

@@ -15,14 +15,10 @@ Soil testing is the foundation of informed garden and farm management. A good so
 
 - Avoid applying nutrients that are already sufficient
 - Identify deficiencies before symptoms appear in plants
-- Monitor [[teaming-with-nutrients-composting-and-nutrient-cycling]]:** Nutrient holding capacity
-- **[[hamilton-composting-and-organic-matter-management]] percentage:** Key indicator of soil health
+- Monitor [[hamilton-composting-and-organic-matter-management]] percentage:** Key indicator of soil health
 
 ### Micronutrient Analysis
-Optional test for [[natural-fertilizer-sources-and-application]] can be matched to specific deficiencies
-- Regular testing prevents both under-fertilization and over-fertilization
-- Track organic matter percentage to monitor [[ph-and-nutrient-availability-garden-soils]]
-- [[natural-fertilizer-sources-and-application]]
+Optional test for [[ph-and-nutrient-availability-garden-soils]]
 - [[garden-soil-terminology-glossary]]
 
 ## Related

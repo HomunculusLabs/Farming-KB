@@ -1,11 +1,7 @@
 ---
 title: DMT Hyperspace Entities
 aliases:
-  - [[dmt-machine-elves]]
-  - self-transforming machine elves
-  - hyperspace entities
-  - DMT entities
-  - [[mckenna-translinguistic-objects-cognitive-dissonance-tryptamine]]
+  - mckenna-translinguistic-objects-cognitive-dissonance-tryptamine
   - hyperdimensional beings
 tags:
   - DMT
@@ -18,7 +14,7 @@ tags:
   - alien-intelligence
   - Terence-McKenna
 created: 2026-05-09
-source: "McKenna, T. (1983/1992). [[mckenna-tryptamine-hallucinogens-and-consciousness]] and Consciousness. In *The [[archaic-revival-partnership-vs-dominator-cultures]]*. HarperCollins."
+source: "McKenna, T. (1983/1992). archaic-revival-partnership-vs-dominator-cultures*. HarperCollins."
 ---
 
 # DMT Hyperspace Entities
@@ -51,50 +47,9 @@ McKenna emphasized these entities are not passive objects of perception but acti
 agents that initiate interaction. They demonstrate apparent curiosity, intention,
 and purpose, often attempting to communicate something — to teach, demonstrate, or
 show the experiencer something important. This quality of agency and intentionality
-distinguishes the [[mckenna-dmt-i-thou-relationship-entity-encounter-ethics]] from ordinary hallucination and elevates it to
-the status of a genuinely anomalous phenomenon demanding serious investigation.
-
-## The Logos and Translinguistic Objects
-
-The entities are intimately connected to what McKenna called the Logos — the
-generative principle behind language and meaning. McKenna described DMT as working
-directly on the language centers of the brain, producing interior dialogue
-originating from an intelligence other than the experiencer's ego. This dialogue is
-mediated not only through verbal thought but through "translinguistic objects" —
-visual or multidimensional constructs conveying meaning directly, bypassing
-conventional language structures.
-
-Translinguistic objects are the most distinctive feature of the DMT entity
-encounter. They are objects simultaneously perceived and understood — forms that
-carry their meaning in their structure rather than requiring linguistic
-interpretation. McKenna described them as "hyperdimensional" constructs existing in
-more dimensions than ordinary objects, folding and unfolding in ways suggesting a
-spatial geometry far more complex than everyday experience. These objects appear to
-be the native language of the entities — a communication form prior to and more
-fundamental than human language, conveying not merely information but the structure
-of reality itself.
-
-## Alien Intelligence and the I/Thou Relationship
-
-The encounters raise profound questions about intelligence and the possibility of
-communication with non-human minds. McKenna characterized the relationship as an
-I/Thou relationship in Martin Buber's sense — a genuine meeting between two centers
-of consciousness, each recognizing the other as subject rather than object. This
-fundamentally differs from the relationship with a hallucination, which is by
-definition a product of one's own mind (an I/It relationship).
-
-The entities consistently demonstrate apparent autonomous intelligence. They respond
-to the experiencer's thoughts in ways suggesting genuine understanding rather than
-reflexive reaction. They display what can only be called culture — complex
-behavioral patterns, aesthetic sensibilities, and apparent social structures.
-McKenna argued the most parsimonious explanation is not that they are elaborate
-
-## See Also
-- [[dmt]]
-- [[turner-essential-psychedelics-dmt-hyperspace]]
-- [[mckenna-dmt-experience-and-hyperspace]]
-- [[turner-dmt-hyperspace-and-smoked-tryptamines]]
-- [[mckenna-dmt-hyperspace-translinguistic-matter]]
+distinguishes the dmt
+- mckenna-dmt-experience-and-hyperspace
+- mckenna-dmt-hyperspace-translinguistic-matter
 
 ## Practical Applications
 
@@ -125,8 +80,14 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[dmt]]
-- [[tryptamine]]
+- tryptamine
+- turner-essential-psychedelics-dmt-hyperspace
+- mckenna-self-transforming-machine-elves-dmt-entities
+
+## See Also
+
+- [[mckenna-paradise-regained-dmt-hyperspace]]
+- [[turner-dmt-hyperspace-and-smoked-tryptamines]]
 - [[dmt-phenomenology-and-hyperspace-experience]]
-- [[turner-essential-psychedelics-dmt-hyperspace]]
-- [[mckenna-self-transforming-machine-elves-dmt-entities]]
+- [[dmt-experience-phenomenology-hyperspace]]
+- [[mckenna-dmt-hyperspace-translinguistic-matter]]

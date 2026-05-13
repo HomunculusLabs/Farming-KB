@@ -34,16 +34,9 @@ Companion planting is still an experimental field. The age of the plants involve
 
 ### Spacing for Better Companions
 
-Using GROW [[jeavons-biointensive-spacing]] with plant leaves barely touching allows good companions to be better friends.
-
-### All-Around Beneficial Plants
-
-- **Lemon balm** — Creates a beneficial atmosphere, attracts bees.
-- **Marjoram** — Beneficial effect on surrounding plants.
-- **Oregano** — Beneficial effect on surrounding plants.
-- **[[comparison-stinging-nettle-vs-horsetail]]** — Helps plants resist spoiling, increases [[permaculture-designers-manual-essential-oil-plants]] in herbs, stimulates [[lowenfels-humus-formation-benefits]], concentrates sulfur, potassium, calcium, and iron.
+Using GROW [[comparison-stinging-nettle-vs-horsetail]]** — Helps plants resist spoiling, increases [[lowenfels-humus-formation-benefits]], concentrates sulfur, potassium, calcium, and iron.
 - **Valerian** — Helps most vegetables, stimulates phosphorus activity.
-- **Chamomile** — Lime specialist, contains a [[mushroom-growth-hormone-decapitation-gill-diffusate-evidence-basidiomycetes]], combats [[cervantes-damping-off-seedling-disease-prevention]]. Concentrates calcium, sulfur, and potash.
+- **Chamomile** — Lime specialist, contains a [[cervantes-damping-off-seedling-disease-prevention]]. Concentrates calcium, sulfur, and potash.
 - **Dandelion** — Increases aromatic quality of all herbs, concentrates potash.
 - **Oak tree** — Concentrates calcium (77% in bark ash), helps plants resist diseases.
 
@@ -69,19 +62,8 @@ Different plant types can be grown in the same bed simultaneously. Example: corn
 
 - **Sun/Shade** — Corn provides shade for cucumbers. Lettuce nestles among taller plants for partial shade. Sunflowers at the north side of the garden.
 - **Shallow/Deep Rooting** — Shallower-rooting beans interplanted with deeper-rooting corn. Improved soil structure over time.
-- **Fast/Slow Maturing** — [[coleman-british-adoption-of-french-intensive-gardening]] gardeners grew 4 crops at once: radishes, carrots, lettuce, and cauliflower.
-
-### Weed, Insect, and Animal Relationships
-
-- **Weed control** — Kale and rape discourage weed growth in the following season. [[tagetes-minuta]] (Mexican marigold) kills couch grass, convolvulus, ground ivy, horsetail.
-- **[[mushroom-pests-insect-control-stamets]]** — Use older plants with well-developed aroma, and a large variety of herbs. Five different herbs help discourage the cabbageworm butterfly.
-
-### Insect Control with Specific Plants
-
-| Insect Pest | Plant Control |
-|---|---|
-| Ants | Spearmint, tansy, pennyroyal |
-| Aphids | Nasturtium, spearmint, [[comparison-arnica-vs-stinging-nettle]], southernwood, garlic |
+- **Fast/Slow Maturing** — [[tagetes-minuta]] (Mexican marigold) kills couch grass, convolvulus, ground ivy, horsetail.
+- **[[comparison-arnica-vs-stinging-nettle]], southernwood, garlic |
 | Cabbageworm | Sage, rosemary, hyssop, thyme, mint, wormwood |
 | Colorado potato beetle | Eggplant, flax, green beans |
 | Cutworm | Oak leaf mulch, tanbark |
@@ -118,8 +100,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[companion-planting]]
 - [[permaculture]]
-- [[dandelion]]
 - [[stinging-nettle]]
 - [[jeavons-companion-planting-health-nutrition]]

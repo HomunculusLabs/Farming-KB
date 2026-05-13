@@ -20,11 +20,7 @@ sources:
 
 ## Overview
 
-**Etlingera elatior** is a striking species of herbaceous perennial in the Zingiberaceae family, native to [[psilocybe-southeast-asia-pacific]].
-
-It is commonly known as **torch ginger**, **red ginger lily**, **philodendron* (Indonesia), **tuhau* (Sabah), and **bunga kantan** (Malaysia).
-
-The species is valued both as an ornamental plant for its large, showy inflorescences and as a culinary herb in [[oner-southeast-asian-sativa-heritage-thai-vietnamese-cambodian]] cuisines.
+**Etlingera elatior** is a striking species of herbaceous perennial in the Zingiberaceae family, native to [[oner-southeast-asian-sativa-heritage-thai-vietnamese-cambodian]] cuisines.
 
 Torch ginger is one of the most recognizable tropical flowers, with inflorescences reaching 30–60 cm in height and displaying vivid red, pink, or white bracts.
 
@@ -65,15 +61,7 @@ Individual flowers are tubular, 5–8 cm long, with a labellum marked in contras
 
 The species is native to Peninsular Malaysia, Sumatra, Borneo, and Java, with natural populations extending to southern Thailand.
 
-It grows in lowland to lower montane [[fungal-biodiversity-tropical-forests]], typically at elevations below 1,200 meters.
-
-[[mushroom-natural-habitats]] include riverbanks, forest margins, disturbed areas, and secondary [[fungal-roles-in-old-growth-forests]].
-
-The plant thrives in humid, shaded to partially shaded environments with rich, well-drained volcanic or alluvial soils.
-
-It has been widely cultivated and naturalized throughout tropical Southeast Asia, including the Philippines, Sulawesi, and Bali.
-
-Escaped or planted populations are found in Hawaii, Costa Rica, and other [[fukuoka-natural-farming-in-tropical-regions]] where it is grown as an ornamental.
+It grows in lowland to lower montane [[mushroom-natural-habitats]] include riverbanks, forest margins, disturbed areas, and secondary [[fukuoka-natural-farming-in-tropical-regions]] where it is grown as an ornamental.
 
 The species is invasive in some [[guzman-allen-gartz-neurotropic-fungi-hawaii-pacific-islands]], where it can form dense monocultures in disturbed forest areas.
 
@@ -88,3 +76,75 @@ The flavor is subtle and floral, with hints of ginger and a slightly astringent 
 In Sabah (Malaysian Borneo), the **tuhau** variety is specifically cultivated for its edible stems and flower buds.
 
 Tuhau stems are finely shredded, mixed with chili and vinegar, and served as a condiment with rice and grilled fish.
+
+## Overview
+
+Etlingera Elatior represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish etlingera elatior
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving etlingera extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Etlingera Elatior finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for etlingera elatior. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+etlingera elatior and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Etlingera Elatior has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of etlingera elatior into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions

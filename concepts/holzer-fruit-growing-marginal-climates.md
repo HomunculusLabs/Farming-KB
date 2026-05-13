@@ -10,7 +10,7 @@ sources:
 ---
 ## Growing Fruit Above the Conventional Limit
 
-According to expert opinion, fruit growing ends at 1,000m above sea level in Lungau. Holzer cultivates a large variety of [[comparison-pruning-fruit-trees-vs-grafting-fruit-trees]] up to 1,500m by creating sheltered microclimates and selecting hardy [[holzer-old-varieties-and-seed-saving]]. He has even grown apricots, sweet chestnuts, grapes, and kiwi fruit in particularly warm and sheltered areas.
+According to expert opinion, fruit growing ends at 1,000m above sea level in Lungau. Holzer cultivates a large variety of [[holzer-old-varieties-and-seed-saving]]. He has even grown apricots, sweet chestnuts, grapes, and kiwi fruit in particularly warm and sheltered areas.
 
 ### Key Advantages of High-Altitude Fruit
 
@@ -27,19 +27,7 @@ This is perhaps Holzer's most controversial technique:
 - Unpruned trees retain branch resilience -- branches can sink to the ground under fruit or snow weight without breaking
 - Trees stabilise themselves and are less likely to grow at an angle
 - When branches sink under fruit weight, sunlight reaches the crown naturally
-- Pruning creates wounds that invite [[bloomfield-amphibian-decline-fungal-disease-climate-interactions]] and fire blight
-- Pruning causes unnecessary stress and requires labour
-- Pruned trees produce water sprouts, creating a vicious cycle of more pruning
-
-### The Conventional Cycle (Why It Fails at Altitude)
-1. Prune the tree
-2. Tree produces water sprouts (excess energy)
-3. Prune again, creating more wounds
-4. Fertilise to compensate (tree grows too fast, does not lignify)
-5. Frost kills the soft growth
-
-### Natural Protection Against Browsing
-The side shoots between the graft and the ground serve as natural [[holzer-browsing-protection-methods]]:
+- Pruning creates wounds that invite [[holzer-browsing-protection-methods]]:
 - Ground-level twigs: eaten by hares
 - Middle twigs: eaten by roe deer
 - Upper twigs: eaten by red deer
@@ -62,30 +50,7 @@ Holzer has planted thousands of trees this way, including remainder stock from n
 
 Instead of buying grafted trees, Holzer sows fruit forests from seed:
 
-1. Prepare the soil with green [[green-manure-crops-detailed]] (2 years on acid soil)
-2. Loosen soil by grazing pigs there
-3. Sow pomace (pulp from juice/cider pressing) -- fermentation stratifies the seeds
-4. Trees grow from seed in their permanent location, fully adapted to local conditions
-5. After 1-2 years, select the best trees for grafting desired varieties
-6. Leave many ungrafted -- wild fruit seedlings often produce excellent schnapps fruit
-
-## Browsing Protection Salve
-
-A homemade remedy painted or sprinkled on trees:
-
-**Ingredients**: Bone salve, linseed oil, slaked lime, fine quartz sand, fresh cow dung
-
-- Bone salve provides intense, long-lasting odour that repels deer
-- Linseed oil binds ingredients and ensures adhesion to bark
-- Slaked lime emits heat and is beneficial to the tree
-- Cow dung bulks out the salve and aids adhesion
-- Quartz sand causes unpleasant sensation between teeth if animals bite
-- Effect: deer gag, throw their heads, and avoid treated trees
-
-## See Also
-
-- [[sepp-holzer-method]]
-- [[seed-selection-breeding-holzer]]
+1. Prepare the soil with green [[sepp-holzer-method]]
 - [[sepp-holzer-fruit-tree-varieties]]
 - holzer-fruit-tree-planting-method
 
@@ -118,8 +83,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[det]]
 - [[holzer-stone-fruit-varieties-and-growing]]
-- [[holzer-soft-fruit-bushes-and-berries]]
 - [[holzer-recommended-old-fruit-varieties]]
 - [[holzer-fruit-forest-establishment]]

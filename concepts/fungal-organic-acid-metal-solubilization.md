@@ -8,11 +8,7 @@ sources: [~/wiki/raw/papers/staycare-mngmt-fungi-in-bioremediation.md]
 type: concept
 ---
 
-Fungi are among the most [[query-how-do-you-make-effective-microorganisms-em-for-agriculture]] at solubilizing
-insoluble metal compounds in soil environments. This solubilization
-occurs primarily through the production of organic acids, which
-protonate metal-containing minerals and form soluble metal-organic
-complexes. The process has profound implications for [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]],
+Fungi are among the most [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]],
 soil weathering, and the bioremediation of contaminated sites.
 
 ## Mechanisms of Metal Solubilization
@@ -27,14 +23,7 @@ and the production of organic acids.
 Organic acid anions are frequently capable of forming soluble
 complexes with metal cations, thereby increasing their mobility in
 soil solutions. The incidence of metal-solubilizing ability among
-natural soil [[biodiversity-of-fungi-soil-fungal-communities-agriculture]] is high. In one study, approximately
-one-third of isolates tested were able to solubilize at least one
-of cobalt phosphate, zinc oxide, or zinc phosphate, and approximately
-one-tenth could solubilize all three.
-
-A further mechanism of metal solubilization is the production of
-low-molecular-weight iron-chelating siderophores. The most common
-[[singh-fungal-siderophore-production-iron-acquisition]] is ferrichrome, which solubilizes iron(III) and
+natural soil [[singh-fungal-siderophore-production-iron-acquisition]] is ferrichrome, which solubilizes iron(III) and
 makes it available for cellular uptake. Siderophores can also bind
 other metals including magnesium, manganese, chromium(III), and even
 radionuclides such as plutonium(IV).
@@ -69,8 +58,7 @@ Fungal solubilization of insoluble metal compounds is an important
 aspect of fungal physiology for releasing essential nutrients such as
 phosphate and metal cations into forms available for uptake and
 biogeochemical cycling. Most phosphate fertilizers are applied as
-solid [[bionutrients-lab-calcium-phosphate-calamansi]], which must be solubilized before becoming
-available to plants. [[aspergillus-niger]].
+solid [[aspergillus-niger]].
 Plants grown with pyromorphite as a sole phosphorus source accumulated
 both phosphorus and lead, demonstrating that fungal activities can
 undermine certain remediation strategies.
@@ -117,8 +105,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[fungal-hyphae]]
 - [[det]]
-- [[bionutrients]]
 - [[mycelium]]
 - [[staycare-fungal-organic-acid-production-metal-leaching]]

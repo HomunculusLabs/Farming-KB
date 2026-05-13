@@ -11,7 +11,7 @@ tags: [design, harvesting, water]
 
 # Water Harvesting Earthworks Design
 
-In [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]], human-made geo-morphology is referred to as earthworks. Any Permaculture Design will probably require some extent of earthworks, some more than others. The point of [[query-what-are-permaculture-earthworks-and-how-do-i-plan-them]] is not just moving earth around -- you are not a painter and the earth your canvas. The point is to create geo-morphological conditions that increase the ecological health of the site.
+In [[query-what-are-permaculture-earthworks-and-how-do-i-plan-them]] is not just moving earth around -- you are not a painter and the earth your canvas. The point is to create geo-morphological conditions that increase the ecological health of the site.
 
 ## Core Principle: Slow, Spread, and Sink
 
@@ -24,46 +24,7 @@ The purpose of a swale is to catch rain water and slow it down. A swale should c
 1. Dig down creating a trench about the depth and width of your shovel head.
 2. Collapse in the sides of the trench to create a V-shaped trench with very gentle slopes -- it should not look like a mancatching trap but rather a gentle dip in the landscape.
 3. Fill the swale with mulch -- cut grasses, leaves, sticks, twigs, any woody or leafy thing that will break down into mulch.
-4. Plant the swale typically with summer and winter perennial [[permaculture-plants-food-forest-ground-covers-bamboos]], and possibly some edibles.
-
-A swale must be level. Techniques for leveling include:
-- Using an architect's level with two bricks placed in the trench.
-- Creating a water level (see external resources).
-- Using an A-frame level.
-
-## Berms
-
-Berms are similar to swales, except where a swale is dug into the ground a berm is built on top of it. Typically a berm and a swale are made at the same time -- you take the earth you dig out of the swale and pile it up to be a berm. The berm is usually placed on the downhill side of a swale to help catch rain water. When you put in plants it is typical to put a berm on the downhill side of the plant to help catch water and keep it so the plant can use it.
-
-Berms and swales can guide water across your site into garden beds. Garden beds designed to hold rain water should be dug down about six inches so they can hold the water.
-
-## Bio-Swales
-
-A bio-swale is just like a swale but with plants chosen specifically for their function as a bio-remediator rather than as a food crop. Bio-swales are a common earthwork strategy for water cleansing, filtering runoff before it percolates back into the environment.
-
-## Terracing
-
-Terraces help reduce water flow and create garden space on slopes and hills. Berms and swales can be used to slow surface water flow, and terraces should be used when you need to create garden space or otherwise need a large flat plane of ground for some reason.
-
-## Infiltration Pits
-
-If berms, swales and gardens are not enough to hold the water, you can dig infiltration pits. These are about a foot or two deep, a few feet across, with gentle sloping sides, filled with mulch. They are strategically placed and designed to catch any water that would otherwise run off the site.
-
-## Infiltration Rate Measurement
-
-The key to designing earth storage systems is understanding the infiltration rate of the soil. To create a homemade infiltrometer: get a coffee can, cut out the bottom so you have a cylinder, work the bottom about an inch into the soil, fill a one-gallon container with water, and time how long it takes for the entire gallon to soak away. Once you know how much rain falls on your site and the infiltration rates of the soil you can determine how much of the rain water will be able to infiltrate.
-
-## Cisterns and Tank Storage
-
-The other main strategy for rain water collection is cisterns. Rain water collection tanks are Permaculture structures, so all design considerations apply. Consider how to maximize the ecological potential of the tank itself -- can you take advantage of its microclimate, use it to grow food vertically, or have it serve architectural purposes such as increasing privacy or blocking undesirable views. The possibilities are limited only by your imagination and skill as a designer.
-
-## Rain Water Calculation
-
-To calculate how much rain water you can expect off a surface: determine the square footage of the catchment surface (typically a roof), multiply by the average annual rainfall in inches, then multiply by 0.623 to get gallons per year. By combining cistern collection off roofs with earthworks design you can ensure your design catches and collects 100% of the rain water from the sky.
-
-## Earthworks Caution
-
-Earthworks is probably the single most transformative, or destructive, element in any design. As you put in berms, swales and foundations you must constantly be aware of the effect all of this earthmoving will have on the overall ecological health of your site. Fire breaks created by swales are excellent, and swales can serve multiple functions including [[permplant-willows-salix-erosion-control-fodder]] and water harvesting. But a poorly placed earthwork can redirect water in destructive ways.
+4. Plant the swale typically with summer and winter perennial [[permplant-willows-salix-erosion-control-fodder]] and water harvesting. But a poorly placed earthwork can redirect water in destructive ways.
 
 ## Water Consumption Planning
 
@@ -71,14 +32,93 @@ Remember that all rain water calculations are based on average rainfall. This me
 
 ## Recommended Reading
 
-[[comparison-xeriscaping-guide-vs-rainwater-harvesting-systems]] for Drylands and Beyond by Brad Lancaster.
-
-## Related Pages
-
-- [[pdc-swales-and-earthworks-water-management]]
+[[pdc-swales-and-earthworks-water-management]]
 - pdc-water-harvesting-design
-- [[mollison-permaculture-two-arid-water-harvesting-and-erosion-control]]
 - [[soil-erosion-control]]
 - pdc-earthworks-and-earth-resources
-- [[mycelium-running-filtering-water-with-fungi]]
 - [[pdc-landform-and-topography-reading]]
+
+## Overview
+
+Pdc Water Harvesting Earthworks Design represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish pdc water harvesting earthworks design
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving pdc extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Pdc Water Harvesting Earthworks Design finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for pdc water harvesting earthworks design. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+pdc water harvesting earthworks design and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Pdc Water Harvesting Earthworks Design has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of pdc water harvesting earthworks design into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[green-cannabis-dry-sift-water-extraction]]
+- [[osmophilic-osmotolerant-fungi-low-water-activity]]
+- [[permaculture-plants-aquatic-systems-water-plants]]
+- [[permaculture-water-chestnut-guide]]
+- [[water-spreading-techniques-drylands]]

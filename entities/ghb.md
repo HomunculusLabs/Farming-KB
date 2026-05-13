@@ -27,9 +27,7 @@ First synthesized in 1874 by Alexander Zaytsev, GHB remained pharmacologically u
 
 The substance has been called "liquid ecstasy" and "G" in recreational contexts. It occupies a unique pharmacological niche, combining stimulant-like effects at low doses with potent sedation at higher doses.
 
-GHB is found naturally in small quantities in wine, beef, citrus fruits, and nearly all living organisms. [[dmt-endogenous-production]] serves neuromodulatory functions that are still being characterized.
-
-The World Health Organization lists GHB as an essential medicine for narcolepsy. Despite its abuse potential, the therapeutic value in [[blesching-cannabis-sleep-disorders]] is well-established in clinical trials.
+GHB is found naturally in small quantities in wine, beef, citrus fruits, and nearly all living organisms. [[blesching-cannabis-sleep-disorders]] is well-established in clinical trials.
 
 ## Chemical Properties
 
@@ -37,7 +35,7 @@ GHB has the molecular formula C₄H₈O₃ and a molecular weight of 104.10 g/mo
 
 The compound exists as a colorless, odorless, slightly viscous liquid in its free acid form. The sodium salt (sodium oxybate) appears as a white crystalline powder soluble in water.
 
-GHB is endogenously produced from GABA via succinic semialdehyde. It also occurs as a minor metabolite of 1,4-butanediol (BDO) and gamma-butyrolactone (GBL).
+GHB is endogenously produced from GABA via succinic semialdehyde. It also occurs as a minor metabolite of 1,4-butanediol (BDO) and gamma-butyrolactone ([[gbl]]).
 
 The substance has a pKa of approximately 4.7, making it predominantly ionized at physiological pH. This property affects its absorption, distribution, and blood-brain barrier penetration.
 
@@ -83,8 +81,6 @@ Alexander Zaytsev first synthesized GHB in 1874. Henri Laborit began studying it
 
 During the 1980s, GHB gained popularity among bodybuilders who believed it stimulated growth hormone release. It was also marketed as a dietary supplement for sleep enhancement and weight loss.
 
-The U.S. DEA placed GHB in Schedule I of the [[controlled-substances-act-and-psychedelic-research]] in 2000, following increasing reports of use in drug-facilitated sexual assault. Sodium oxybate (Xyrem) received Schedule III exemption for narcolepsy treatment in 2002.
+The U.S. DEA placed GHB in Schedule I of the [[medicinal-mushroom-dietary-supplements]]. Legislation eventually closed these precursor loopholes in most countries.
 
-In the 1990s, GHB precursors GBL and 1,4-butanediol were sold legally as industrial solvents and [[medicinal-mushroom-dietary-supplements]]. Legislation eventually closed these precursor loopholes in most countries.
-
-[[hofmann-lsd-clinical-research-early-studies]] has explored GHB for treating alcohol withdrawal and fibromyalgia. Results have been mixed, and the narrow therapeutic window limits [[metzner-ayahuasca-therapeutic-potential]] outside controlled settings.
+[[metzner-ayahuasca-therapeutic-potential]] outside controlled settings.

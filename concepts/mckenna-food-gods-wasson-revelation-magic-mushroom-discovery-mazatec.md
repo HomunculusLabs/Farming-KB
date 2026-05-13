@@ -37,9 +37,7 @@ for understanding the role of psychoactive fungi in human history.
 
 ## The Journey to Huautla de Jiménez
 
-In 1955, Wasson and his wife [[valentina-pavlovna-wasson]] traveled to the
-remote Sierra Mazateca of Oaxaca, Mexico, following years of research
-into the indigenous use of [[ceremonial-shamanic-use-psychoactive-mushrooms]] in Mesoamerica. The
+In 1955, Wasson and his wife [[ceremonial-shamanic-use-psychoactive-mushrooms]] in Mesoamerica. The
 Wassons had been inspired by reports from the sixteenth-century Spanish
 chroniclers — most notably Bernardino de Sahagún — who described with
 horror the "devilish" mushroom rituals of the native peoples. Despite
@@ -52,9 +50,7 @@ most skilled practitioners of the mushroom velada.
 ## The Velada with María Sabina
 
 On the night of June 29–30, 1955, the Wassons participated in a **velada**
-— an all-night [[entheogen-cimora-folk-healing-ceremony]] conducted by María Sabina. In the darkness
-of a Mazatec home, surrounded by candles and the murmur of prayers, María
-Sabina consumed a quantity of [[amanita-muscaria-legal-alternative-psilocybin-mushrooms-europe]] she called *los niños
+— an all-night [[amanita-muscaria-legal-alternative-psilocybin-mushrooms-europe]] she called *los niños
 santos* ("the holy children") and began to sing her *alabados*, sacred
 chant-like invocations. The Wassons were then served the mushrooms and
 experienced what Wasson later described as an encounter with the divine.
@@ -62,75 +58,7 @@ The experience was not recreational; it was embedded in a framework of
 healing, divination, and communion with the sacred that had been
 maintained, largely in secret, since before the Spanish Conquest. The
 Wassons thus became the first known outsiders — the first Westerners —
-to participate in a [[maria-sabina-and-mazatec-mushroom-ceremony]].
-
-## "Seeking the Magic Mushroom" (1957)
-
-Wasson's account of his experience was published in the May 13, 1957
-issue of *LIFE* magazine under the title "Seeking the Magic Mushroom."
-The article was illustrated with photographs by Allan Richardson, who
-had accompanied the Wassons on a subsequent expedition. The *LIFE*
-piece brought the existence of psilocybin mushrooms to the attention
-of millions of readers worldwide. Wasson coined the term **"magic
-mushroom"** in this article, a phrase that would become permanently
-embedded in the global lexicon. The impact was immediate and enormous.
-Within months, mycologists, chemists, anthropologists, and spiritual
-seekers descended upon Oaxaca. Among the scientists drawn by Wasson's
-report was the French mycologist **Roger Heim**, director of the
-Museum National d'Histoire Naturelle in Paris, who traveled to Mexico
-to identify and classify the mushrooms used in the ceremonies.
-
-## Scientific Isolation: Heim and Hofmann
-
-Roger Heim's taxonomic work identified approximately two dozen species
-of *Psilocybe* and related genera used by the Mazatec. Heim sent
-cultures and specimens to **Albert Hofmann**, the Swiss chemist at
-Sandoz Laboratories who had famously discovered LSD in 1943. Hofmann
-succeeded in isolating and synthesizing the active compounds from the
-mushrooms: **psilocybin** and **psilocin**. In 1958, Hofmann
-published his findings, confirming that the mushrooms contained
-indole alkaloids closely related to LSD and serotonin. This
-scientific validation transformed the mushrooms from ethnographic
-curiosity into laboratory compounds. Sandoz began producing synthetic
-psilocybin under the name **Indocybin** and distributed it to
-psychiatric researchers around the world, inadvertently setting in
-motion the psychedelic research wave of the late 1950s and early
-1960s.
-
-## The Ethical Complexities of Revelation
-
-Terence McKenna and other scholars have deeply scrutinized the ethical
-dimensions of Wasson's disclosure. The Mazatec mushroom ceremony was
-a sacred practice, guarded by secrecy and passed down through
-generations of curanderos. Wasson's publication exposed it to a global
-audience that was fundamentally incapable of understanding its
-cultural and spiritual context. The flood of visitors to Huautla de
-Jiménez after 1957 disrupted the social fabric of the community. The
-ceremonies, once conducted in intimate darkness, became spectacles
-for foreign tourists. Young people in the community began to exploit
-the mushrooms for commercial gain, and the sacred *alabados* were
-recorded and sold without consent or compensation.
-
-## María Sabina's Regret
-
-María Sabina herself eventually expressed deep regret about the
-publicity. In interviews conducted late in her life, she stated that
-the mushrooms had lost their power — that *los niños santos* no longer
-spoke to her as they once had. She attributed this loss to the
-profanation of the ceremony by outsiders who consumed the mushrooms
-without reverence, without prayer, without the proper intention.
-"Before Wasson," she reportedly said, "I felt that the mushrooms
-spoke to me. After Wasson, I felt that they spoke in English." Her
-community suffered: the Mexican authorities harassed curanderos,
-tourists brought money and disruption in equal measure, and the
-delicate ecology of a sacred practice was irreparably altered. María
-Sabina's home was burned at least once, and she lived her final years
-in poverty.
-
-## The Wasson Legacy
-
-Wasson's discovery stands as one of the most consequential events in
-the history of [[terence-mckenna]] culture. It demonstrated
+to participate in a [[terence-mckenna]] culture. It demonstrated
 that indigenous societies had preserved sophisticated psychoactive
 plant knowledge — knowledge that modern science had entirely
 overlooked. It catalyzed the scientific study of psilocybin, leading
@@ -146,5 +74,76 @@ with consequences both liberating and devastating.
 
 ## See Also
 
-- [[mckenna-food-gods-lsd-invention-hofmann-sandoz-psychedelic-era]]
 - [[mckenna-food-gods-shamanism-techniques-of-ecstasy-mircea-eliade]]
+
+## Overview
+
+Mckenna Food Gods Wasson Revelation Magic Mushroom Discovery Mazatec represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish mckenna food gods wasson revelation magic mushroom discovery mazatec
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving mckenna extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Mckenna Food Gods Wasson Revelation Magic Mushroom Discovery Mazatec finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for mckenna food gods wasson revelation magic mushroom discovery mazatec. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+mckenna food gods wasson revelation magic mushroom discovery mazatec and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Mckenna Food Gods Wasson Revelation Magic Mushroom Discovery Mazatec has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of mckenna food gods wasson revelation magic mushroom discovery mazatec into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions

@@ -18,44 +18,9 @@ wastewater. Rather than using free mycelia in suspension, immobilization
 techniques entrap or attach fungal biomass to solid supports, dramatically
 increasing the effective biomass concentration within reactors and enabling
 continuous or semi-continuous treatment processes. This approach is central to
-[[staycare-fungal-immobilization-and-entrapment-for-bioremediation]].
-
-White-rot fungi such as [[staycare-phanerochaete-chrysosporium-in-bioremediation]] produce extracellular
-[[singh-ligninolytic-enzymes-fungal-bioremediation]] including [[staycare-lignin-peroxidase-and-pollutant-degradation]], and
-[[staycare-manganese-peroxidase-in-fungal-bioremediation]] that can degrade a wide
-spectrum of recalcitrant pollutants. Immobilization allows these organisms to
-maintain high enzyme-producing biomass within reactor systems over extended
-periods, achieving treatment efficiencies impossible with batch cultures.
-
-## Key Concepts
-
-### Immobilization Methods
-
-Multiple approaches have been developed for immobilizing fungal biomass in
-bioreactor systems, each with distinct advantages:
-
-1. **Calcium alginate entrapment**: Fungal mycelia are mixed with sodium
-   alginate solution and dropped into calcium chloride solution, forming
-   gel beads that entrap the living fungal cells. This method has been used
-   successfully for both P. chrysosporium and T. versicolor (Livernoche et
-   al., 1981; Royer et al., 1983; Pallerla & Chambers, 1997).
-
-2. **Polyurethane foam immobilization**: Fungi colonize the porous matrix of
-   polyurethane foam, which provides both physical support and large surface
-   area for fungal attachment. Cammarota & Sant'Anna (1992) demonstrated
-   effective decolorization using P. chrysosporium immobilized on
-   polyurethane particles in packed bed configurations.
-
-3. **Rotating biological contactors (RBCs)**: Fungi are immobilized on discs
-   that rotate through contaminated effluent, alternately exposing the biomass
-   to the liquid phase and the atmosphere. Pellinen et al. (1988a,b) and Yin
-   et al. (1990) used RBC systems for treating Kraft effluents.
-
-4. **Natural attachment and rope growth**: P. chrysosporium immobilized by
-   growth on pieces of jute rope proved successful for effluent treatment
-   (Marwaha et al., 1998), offering a low-cost support material.
-
-5. **Mycelial [[singh-fungal-pellet-formation-bioremediation]]**: Naturally grown, self-immobilized pellets of
+[[staycare-phanerochaete-chrysosporium-in-bioremediation]] produce extracellular
+[[staycare-lignin-peroxidase-and-pollutant-degradation]], and
+[[singh-fungal-pellet-formation-bioremediation]]**: Naturally grown, self-immobilized pellets of
    T. versicolor have been used directly in packed bed reactors (Bajpai et
    al., 1993), avoiding the need for artificial support materials.
 
@@ -118,8 +83,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[singh-fungal-immobilization-bioreactor-technology]]
 - [[fungal-bioreactor-types]]
-- [[singh-bioreactor-design-for-fungal-bioremediation]]
 - [[singh-fungal-bioreactor-types-configurations]]
 - [[fungal-enzyme-systems]]

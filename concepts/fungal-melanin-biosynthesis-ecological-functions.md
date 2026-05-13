@@ -10,7 +10,7 @@ created: 2026-05-09
 
 ## Introduction
 
-Melanin is a broad class of dark, insoluble pigments produced by virtually all groups of fungi. Fungal melanins are not a single chemical entity but a family of heterogeneous polymers with diverse biosynthetic origins, structures, and functions. In fungi, melanin serves as a critical survival molecule — providing protection against UV radiation, [[blesching-cannabis-oxidative-stress-and-antioxidant-defense]], temperature extremes, desiccation, [[enzymatic-degradation-in-mycoremediation]], heavy metals, and host immune responses. Melanized fungi are among the most resilient organisms on Earth, and melanin production is a key virulence factor in pathogenic species.
+Melanin is a broad class of dark, insoluble pigments produced by virtually all groups of fungi. Fungal melanins are not a single chemical entity but a family of heterogeneous polymers with diverse biosynthetic origins, structures, and functions. In fungi, melanin serves as a critical survival molecule — providing protection against UV radiation, [[enzymatic-degradation-in-mycoremediation]], heavy metals, and host immune responses. Melanized fungi are among the most resilient organisms on Earth, and melanin production is a key virulence factor in pathogenic species.
 
 ## Types of Fungal Melanin
 
@@ -40,11 +40,11 @@ DOPA melanin is produced from the amino acid L-tyrosine through the DOPA (3,4-di
 4. Dopachrome → 5,6-dihydroxyindole (DHI) and/or 5,6-dihydroxyindole-2-carboxylic acid (DHICA)
 5. Oxidation and polymerization of DHI/DHICA to melanin
 
-DOPA melanin is characteristic of melanized yeasts (*[[bloomfield-cryptococcus-neoformans-capsule-melanin-brain]]*, *[[exophiala-dermatitidis]]*) and some dimorphic fungi. *Cryptococcus* melanin is specifically deposited in the cell wall, creating a distinctive concentric layered structure visible by electron microscopy.
+DOPA melanin is characteristic of melanized yeasts (*[[exophiala-dermatitidis]]*) and some dimorphic fungi. *Cryptococcus* melanin is specifically deposited in the cell wall, creating a distinctive concentric layered structure visible by electron microscopy.
 
 ### Pyomelanin
 
-Pyomelanin is derived from homogentisic acid (HGA) through the tyrosine catabolic pathway. HGA accumulates when the enzyme homogentisate dioxygenase is impaired, and the resulting HGA auto-oxidizes and polymerizes to form a brown-black pigment. Pyomelanin is produced by some opportunistic pathogens (*[[gadd-aspergillus-fumigatus-glucan-virulence]]*, *Pseudomonas* spp.) and has distinct [[soil-physicochemical-properties-cannabis-microbiome-assembly-winston]] from DHN and DOPA melanins.
+Pyomelanin is derived from homogentisic acid (HGA) through the tyrosine catabolic pathway. HGA accumulates when the enzyme homogentisate dioxygenase is impaired, and the resulting HGA auto-oxidizes and polymerizes to form a brown-black pigment. Pyomelanin is produced by some opportunistic pathogens (*[[soil-physicochemical-properties-cannabis-microbiome-assembly-winston]] from DHN and DOPA melanins.
 
 ### Melanin-Like Compounds
 
@@ -62,7 +62,7 @@ Melanin absorbs UV radiation across a broad spectrum (200–800 nm), with peak a
 
 ### Oxidative Stress Resistance
 
-Melanin is a potent free radical scavenger. Its extended conjugated π-electron system can delocalize and neutralize [[reactive-oxygen-species-and-oxidative-stress]] (ROS), including superoxide anion, hydroxyl radical, and singlet oxygen. Melanized fungi are more resistant to [[cervantes-hydrogen-peroxide-sterilization]] and other oxidative agents used by host immune systems.
+Melanin is a potent free radical scavenger. Its extended conjugated π-electron system can delocalize and neutralize [[cervantes-hydrogen-peroxide-sterilization]] and other oxidative agents used by host immune systems.
 
 ### Desiccation and Temperature Tolerance
 
@@ -70,11 +70,7 @@ Melanin reduces water permeability of fungal cell walls, helping maintain cellul
 
 ### Heavy Metal Binding and Radiotrophic Growth
 
-Fungal melanin has exceptional metal-binding capacity due to its abundance of phenolic, carboxyl, and amine functional groups. Melanin can concentrate uranium, cesium, and other radionuclides at levels 100–1000× above environmental concentrations. Remarkably, melanized fungi at Chernobyl and other radioactive sites appear to "harvest" ionizing radiation energy through melanin-mediated electron transfer, using radiation as an energy source for growth — a phenomenon termed **[[radiotrophic-fungi-melanin-radiation-response]]**. Melanin's ability to transduce various forms of electromagnetic energy (UV, visible light, ionizing radiation) into chemical energy is unique among biological pigments.
-
-### Antimicrobial Defense
-
-Melanin inactivates antimicrobial enzymes and reactive compounds produced by competing organisms. Melanized cell walls resist degradation by lytic enzymes (chitinases, glucanases, proteases) secreted by mycoparasites and host immune cells. In *[[bloomfield-cryptococcus-neoformans-opportunistic-mycoses-aids]]*, melanin deposition in the cell wall directly protects against macrophage oxidative bursts and antimicrobial peptides.
+Fungal melanin has exceptional metal-binding capacity due to its abundance of phenolic, carboxyl, and amine functional groups. Melanin can concentrate uranium, cesium, and other radionuclides at levels 100–1000× above environmental concentrations. Remarkably, melanized fungi at Chernobyl and other radioactive sites appear to "harvest" ionizing radiation energy through melanin-mediated electron transfer, using radiation as an energy source for growth — a phenomenon termed **[[bloomfield-cryptococcus-neoformans-opportunistic-mycoses-aids]]*, melanin deposition in the cell wall directly protects against macrophage oxidative bursts and antimicrobial peptides.
 
 ### Enzyme Immobilization and Protection
 
@@ -118,8 +114,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[fungal-melanin]]
 - [[laccase]]
-- [[dom]]
 - [[cryptococcus-neoformans]]
 - [[indole]]

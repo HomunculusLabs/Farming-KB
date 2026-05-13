@@ -14,21 +14,8 @@ The set and setting hypothesis is the foundational principle governing the
 nature and quality of psychedelic experiences. It holds that the primary
 determinants of a psychedelic experience are not the pharmacological
 properties of the drug itself, but rather the internal psychological state
-("set") and the external environmental and [[emcdda-hallucinogenic-mushroom-polydrug-use-social-context]] ("setting") in
-which the drug is taken. The hypothesis was introduced and popularized by
-[[timothy-leary]], based on research conducted at Harvard University in the
-early 1960s with Ralph Metzner and [[richard-alpert]].
-
-## Definition of Set
-
-"Set" refers to the internal psychological state of the person taking the
-psychedelic, encompassing:
-
-- **Intention**: What the person hopes to achieve or explore during the
-  experience — healing, insight, creative inspiration, spiritual connection,
-  or recreation.
-- **Expectation**: Preconceptions about what the experience will be like,
-  shaped by prior knowledge, [[ayahuasca-pharmacology-and-cultural-context]], stories from others, and
+("set") and the external environmental and [[timothy-leary]], based on research conducted at Harvard University in the
+early 1960s with Ralph Metzner and [[ayahuasca-pharmacology-and-cultural-context]], stories from others, and
   previous personal experiences.
 - **Motivation**: The deeper psychological drives that lead a person to
   seek a psychedelic experience — curiosity, therapeutic need, spiritual
@@ -54,30 +41,8 @@ occurs:
 - **Lighting**: Brightness, color, and quality of light — darkness
   facilitates visions while bright light tends to ground the experience
   in ordinary reality.
-- **[[metzner-hybrid-circle-ritual-structure-and-council-practice]]**: Formal or informal ceremonial elements that
-  frame the experience with meaning and purpose.
-- **Cultural context**: The broader social [[weil-cultural-attitudes-toward-altered-states]] psychedelics
-  and [[weil-the-natural-mind-altered-states-normalcy]] that shape the meaning of the experience.
-
-## Historical Development
-
-The set and setting hypothesis emerged from research at Harvard University's
-Center for Research in Personality in the early 1960s. Leary, Metzner, and
-Alpert observed that the same dose of the same psychedelic compound produced
-vastly different experiences depending on the psychological preparation and
-environmental context of the person taking it.
-
-This was a radical departure from the dominant pharmacological model, which
-assumed that drug effects were primarily determined by the chemical
-properties of the substance. In contrast to psychiatric drugs like
-tranquilizers or antidepressants, where the pharmacological action is
-paramount and set and setting play a minor role, psychedelics proved to be
-extraordinarily sensitive to contextual factors.
-
-## Extension Beyond Psychedelics
-
-Metzner noted that the set-and-setting model "can also be extended to the
-understanding of other modalities of altered [[mckenna-food-gods-designer-states-of-consciousness]],
+- **[[weil-cultural-attitudes-toward-altered-states]] psychedelics
+  and [[mckenna-food-gods-designer-states-of-consciousness]],
 involving nondrug triggers such as hypnosis, meditation, rhythmic drumming,
 sensory isolation, fasting, and others." This makes set and setting a
 general principle of consciousness alteration, not merely a feature of
@@ -88,3 +53,88 @@ general principle of consciousness alteration, not merely a feature of
 Metzner drew a direct connection between the set and setting hypothesis and
 traditional shamanic practices. If set and setting are the crucial
 determinants of hallucinogenic experience content, then "the use of these
+
+## Overview
+
+Set And Setting Hypothesis represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish set and setting hypothesis
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving set extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Set And Setting Hypothesis finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for set and setting hypothesis. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+set and setting hypothesis and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Set And Setting Hypothesis has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of set and setting hypothesis into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[mckenna-food-gods-set-setting-psychedelic-preparation]]
+- [[mindful-healing-protocol-setting-intention-cannabis-therapy-blesching]]
+- [[psychedelic-mushroom-set-and-setting]]
+- [[set-and-setting-framework]]
+- [[set-and-setting-psychedelic-therapy-framework]]

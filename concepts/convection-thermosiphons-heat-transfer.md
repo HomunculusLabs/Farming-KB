@@ -22,7 +22,7 @@ If heated air or water is contained in pipes or ducts, a closed-loop circulation
 
 - **Solar ponds and flat plate collectors:** Transferring heat from collectors to home radiators or hot water tanks through thermosiphon circulation.
 - **Self-regulating systems:** Heat collectors should wherever possible be sited 0.5 m (1.6 feet) below the storage or use points so that they are self-regulated thermosiphons requiring no external pumping energy.
-- **Valley winds:** In the atmosphere, columns of heated air over land ascend as an "Overbeck jet," and at the top of this column condensation and rain may occur as the air is cooled in the upper atmosphere. Such convective rains are responsible for the mosaic of rainfall that patterns the deserts.
+- **Valley winds:** In the atmosphere, columns of heated air over land ascend as an "[[overbeck-jet]]," and at the top of this column condensation and rain may occur as the air is cooled in the upper atmosphere. Such convective rains are responsible for the mosaic of rainfall that patterns the deserts.
 
 ### Limitations of Convection
 
@@ -79,8 +79,6 @@ water, and atmosphere enables designers to create more resilient and productive
 landscapes that work with natural processes rather than opposing them.
 
 ## See Also
-- [[thermal-belts-heat-transfer-convection]]
 - [[heat-transfer-conduction-convection-radiation]]
-- [[convection-loops-and-thermosiphons]]
 - [[thermal-belts-thermosiphons-and-convective-heat]]
 - [[heat-transfer-coefficient]]

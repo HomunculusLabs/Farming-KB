@@ -6,15 +6,8 @@ type: concept
 tags: [mycology, fungi]
 sources: []
 ---
-# Fungal Silage Wastewater Treatment Silage wastewater is one of the most potent agricultural wastes, with a biological oxygen demand (BOD) that can be 300 times greater than raw domestic sewage. Fungal treatment of silage effluent represents an application of [[fungal-single-cell-protein-production]] from agricultural waste.
-
-## Biomass Production
-
-The protein content for C.utilis grown on silage effluent is approximately 160 mg/g dry weight, and for T2B is approximately 74 mg/g. Elemental analyses of the biomass grown on the more dilute effluent result in higher concentrations of nitrogen and phosphorus compared to biomass grown on more concentrated effluent.
-
-The simultaneous production of protein-rich [[bioremediation-fungal-biomass-biosorbent-material]] during effluent treatment adds economic value to the process and supports the principles of waste valorization in fungal-wastewater-treatment
+# Fungal Silage Wastewater Treatment Silage wastewater is one of the most potent agricultural wastes, with a biological oxygen demand (BOD) that can be 300 times greater than raw domestic sewage. Fungal treatment of silage effluent represents an application of [[bioremediation-fungal-biomass-biosorbent-material]] during effluent treatment adds economic value to the process and supports the principles of waste valorization in fungal-wastewater-treatment
 - fungal-bioremediation
-- [[fungal-distillery-waste-treatment]]
 - [[fertilizer-pollution-environmental-impact]]
 - 
 ## Practical Applications
@@ -97,8 +90,6 @@ through generations to modern scientific approaches, the evolution continues
 to inform current best practices and research directions.
 
 ## See Also
-- [[doc]]
 - [[dom]]
-- [[det]]
 - [[staycare-fungal-treatment-of-molasses-wastewater]]
 - [[singh-distillery-wastewater-fungal-treatment]]

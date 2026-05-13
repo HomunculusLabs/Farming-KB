@@ -13,13 +13,12 @@ sources:
   - Manning, J.C. & Goldblatt, P. (2010). "Iridaceae of southern Africa." Strelitzia, 28, 1–200.
   - Kew Plants of the World Online: Freesia refracta. https://powo.science.kew.org
   - Du Plessis, H. & Duncan, G. (2006). "Grow Bulbs." Kirstenbosch Gardening Series.
-  - Imsic, R. (2010). "Freesia cultivation [[haze-cannabis-lineage-and-breeding-history]]." Horticultural Reviews, 36, 183-216.
-  - Snijman, D.A. (2013). "Plants of the Greater Cape Floristic Region." [[kanna-sceletium-south-african-narcotic]] National Biodiversity Institute.
+  - Imsic, R. (2010). "Freesia cultivation kanna-sceletium-south-african-narcotic National Biodiversity Institute.
 ---
 
 ## Overview
 
-*Freesia refracta* (Jacquin) Klatt is a cormous perennial in the family Iridaceae, native to the winter-rainfall region of the Western Cape of South Africa. It is one of the parent species of the cultivated freesias widely sold as cut flowers and garden ornamentals.
+*Freesia refracta* (Jacquin) Klatt is a cormous perennial in the family Iridaceae, native to the winter-rainfall region of the Western Cape of [[table-mountain-south-africa-mollison]]. It is one of the parent species of the cultivated freesias widely sold as cut flowers and garden ornamentals.
 
 The species is renowned for its intensely fragrant, tubular flowers that bloom in one-sided racemes along slender, arching stems. The scent is sweet, citrus-like, and among the most recognizable of all floral fragrances in the horticultural trade.
 
@@ -31,7 +30,7 @@ Unlike many Iridaceae, freesias produce a characteristic branched stem that give
 
 The genus name honors Friedrich Heinrich Theodor Freese (1795–1876), a German physician who studied southern African flora.
 
-The species was among the first South African Iridaceae to reach European gardens, arriving via the plant trade routes that connected Cape Town to botanical gardens in London, Paris, and Leiden during the 1780s.
+The species was among the first [[cannabis-strain-swazi-landrace-south-african-sativa-oner]] Iridaceae to reach European gardens, arriving via the plant trade routes that connected Cape Town to botanical gardens in London, Paris, and Leiden during the 1780s.
 
 ## Taxonomy and Morphology
 
@@ -55,7 +54,7 @@ The species can be distinguished from *Freesia leichtlinii* by its smaller flowe
 
 *Freesia refracta* is endemic to the Western Cape Province of South Africa, from the Cape Peninsula eastward to Caledon and Bredasdorp. It grows in the fynbos biome, one of the world's most botanically diverse vegetation types.
 
-Populations occur on damp, sandy flats and slopes at low elevations (10–300 m), often in seasonally wet sites near streams and seeps. The species prefers acidic, nutrient-poor soils derived from Table Mountain Sandstone.
+Populations occur on damp, sandy flats and slopes at low elevations (10–300 m), often in seasonally wet sites near streams and seeps. The species prefers acidic, nutrient-poor soils derived from [[table-mountain]] Sandstone.
 
 The climate is Mediterranean with cool, wet winters and warm, dry summers. Corms sprout with the first autumn rains (April–May), grow through winter, flower in August–September, and enter dormancy by November.
 
@@ -73,9 +72,7 @@ Regular watering is essential during active growth from autumn through spring. T
 
 Flowering occurs in late winter to spring, approximately 120–140 days after planting. Each corm produces one main flowering stem with strongly fragrant flowers that last 7–10 days individually.
 
-For cut flower production, freesias are grown in controlled environments at 12–18°C. Lower night temperatures promote stronger stems and more intense flower color. Commercial growers use [[aact-natural-growth-regulators-bacteria-fungi-humus-cycle-ingham]] to control stem height.
-
-[[query-how-do-i-grow-figs-in-cold-climates]], corms can be started indoors in pots in late summer for winter flowering. Container-grown freesias benefit from a loose, well-aerated [[solomon-potting-mix-and-seedling-soil-recipe]] of equal parts peat, perlite, and coarse sand.
+For cut flower production, freesias are grown in controlled environments at 12–18°C. Lower night temperatures promote stronger stems and more intense flower color. Commercial growers use [[query-how-do-i-grow-figs-in-cold-climates]], corms can be started indoors in pots in late summer for winter flowering. Container-grown freesias benefit from a loose, well-aerated [[solomon-potting-mix-and-seedling-soil-recipe]] of equal parts peat, perlite, and coarse sand.
 
 Propagation is by corm offsets or seed. Named cultivars are propagated vegetatively to maintain flower color and form. Seed-grown plants are variable and take two to three years to flower.
 

@@ -9,8 +9,7 @@ sources:
 type: concept
 ---
 
-# [[robert-clarke]] devotes extensive attention
-to these techniques in [[clarke-marijuana-botany-cannabinoid-biosynthesis-pathway]], detailing methods for collecting,
+# [[clarke-marijuana-botany-cannabinoid-biosynthesis-pathway]], detailing methods for collecting,
 storing, and applying pollen with precision to produce seeds of known
 parentage. The quality of breeding records depends directly on the
 care taken during pollination.
@@ -21,27 +20,7 @@ Cannabis is a wind-pollinated species. Pollen grains are nearly spherical,
 slightly yellow, and 25 to 30 microns in diameter, with a smooth surface
 exhibiting 2 to 4 germ pores. Just prior to dehiscence (pollen release),
 the pollen nucleus divides to produce a small reproductive cell and a large
-[[spore-vs-vegetative-cell-resistance-microwave-sterilization]], both contained within the mature pollen grain.
-
-Germination occurs 15 to 20 minutes after contact with a receptive pistil.
-Fertilization may take up to two days in cooler temperatures. If pollen is
-subjected to extremes of temperature, humidity, or moisture, it will fail
-to germinate or the pollen tube will die before completing fertilization.
-
-## Controlled versus Random Pollination
-
-The seeds with which most cultivators begin represent varied genotypes even
-when originating from the same floral cluster. Not all genotypes will prove
-favorable. Controlled hand pollination consists of two basic steps:
-
-1. Collecting pollen from the anthers of the staminate (male) parent
-2. Applying pollen to the receptive stigmatic surfaces of the pistillate
-   (female) parent
-
-Both steps are carefully controlled so that no pollen escapes to cause
-random pollinations. Since Cannabis is wind-pollinated, enclosures are
-employed to isolate ripe flowers from wind while allowing light
-penetration and [[stamets-growing-room-air-circulation-co2-management]].
+[[stamets-growing-room-air-circulation-co2-management]].
 
 ## Pollen Collection Methods
 
@@ -118,8 +97,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[dom]]
 - [[det]]
-- [[spore]]
 - [[sterilization]]
 - [[cannabis-curing-storage-post-harvest-clarke]]

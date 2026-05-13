@@ -8,16 +8,13 @@ type: concept
 
 ## Overview
 
-Plants require a balance of primary macronutrients (nitrogen, phosphorus, potassium) and numerous micronutrients for healthy growth. In permaculture, the emphasis is on cycling these nutrients locally through biological systems rather than relying on mined or synthetic inputs. Mollison details the natural sources and cycling mechanisms for essential plant nutrients.
+Plants require a balance of primary macronutrients (nitrogen, phosphorus, potassium) and numerous micronutrients for healthy growth. In [[permaculture]], the emphasis is on cycling these nutrients locally through biological systems rather than relying on mined or synthetic inputs. Mollison details the natural sources and cycling mechanisms for essential plant nutrients.
 
 ## The Three Primary Nutrients
 
 ### Phosphorus (Phosphates)
 
-[[primary-nutrients-and-mineral-sources-in-soils|Soils]] in heavily leached areas are commonly deficient in phosphates. Natural sources include:
-
-- **Guano** — bird manures from dry islands, concentrated by seed-eating marine birds
-- **Sedimentary [[rock-phosphate]]** — older geological deposits containing 8–15% phosphorus in various combinations with oxygen or water (hydrated forms)
+[[rock-phosphate]]** — older geological deposits containing 8–15% phosphorus in various combinations with oxygen or water (hydrated forms)
 
 **Distribution:** Phosphatic rock is restricted in geological distribution, making it a non-renewable resource on human timescales.
 
@@ -45,24 +42,7 @@ Nitrogen can be supplied through biological fixation rather than synthetic ferti
 Much higher levels of nitrogen than previously thought are fixed by land plants in a series of zones extending from the roots. This root-zone nitrogen fixation has important implications:
 
 - **Persistent release after cutting** — even after nitrogen-fixing plants like Acacia, Albizzia, and Eleagnus are cut, the root zone continues to release nitrogen for **up to 6 years**
-- **Pioneer legumes serve as [[cover-crops]]** — nitrogenous trees and legumes release nitrogen during their lifetimes and for years after
-- **Forest succession** — legumes may not be needed in older forests and typically die out under canopy
-- **Persistent leguminous trees** — only a few larger species (Samanea, Acacia melanoxylon) persist as forest trees in mixed forest
-
-This means that establishing nitrogen-fixing pioneer species provides both immediate nitrogen input and a multi-year nitrogen bank in the soil.
-
-## Mineral Sources in Soils
-
-### The Sea as a Mineral Source
-
-As soils are leached and made mineral-poor, the minerals become concentrated in the sea, marine organisms, and inland saltpans. Seaweeds, seagrasses, and fish residues have always been part of agricultural fertilizers.
-
-#### Evaporation Sequence
-
-As seawater evaporates, minerals precipitate in a predictable sequence:
-
-1. **Calcite and dolomite** — first to separate out; used for soil conditioning and pH adjustment
-2. **Gypsum and anhydrite** — next to precipitate; used to restore soil [[crumb-structure]]
+- **Pioneer legumes serve as [[crumb-structure]]
 3. **Rock salts** — common salt (sodium chloride); only wet tropical uplands may lack this
 4. **Potash, magnesium salts, and minor elements** — remain in solution longest
 

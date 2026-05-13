@@ -10,7 +10,6 @@ sources:
 
 # Parasitic Wasps — Biological Pest Control Agents
 
-[[comparison-parasitoid-wasps-vs-chemical-pesticides]] (order Hymenoptera) are the largest and most diverse group of
 [[fukuoka-textdoc-arrowhead-scale-ladybug-biological-control]] agents used in agriculture, forestry, and greenhouse production.
 Unlike true parasites, parasitoids develop on or inside a single host and
 invariably kill it by emergence. This life history makes them uniquely suited as
@@ -18,30 +17,11 @@ precision biocontrol tools within IPM programs that minimize chemical inputs.
 
 ## Taxonomic Overview
 
-The majority of agronomically important [[query-how-do-parasitoid-wasps-control-pest-populations]] belong to three superfamilies:
-**Chalcidoidea**, **Ichneumonoidea**, and **Proctotrupoidea**. Chalcidoidea is the most
-speciose superfamily relevant to [[fukuoka-textdoc-biological-control-fallacy-pheromone-critique]], encompassing many of the smallest
+The majority of agronomically important [[fukuoka-textdoc-biological-control-fallacy-pheromone-critique]], encompassing many of the smallest
 wasps known (some under 0.5 mm). Key families include:
 
 - **Aphelinidae** — includes *Encarsia formosa*, a cornerstone agent for whitefly
-  control in [[mollison-designers-glasshouse-protected-cropping]] systems worldwide.
-- **Encyrtidae** — large family of endoparasitoids; many species attack scale insects,
-  mealybugs, and leafhoppers.
-- **Eulophidae** — important parasitoids of leafminers, gall-formers, and
-  lepidopteran larvae; includes *Diglyphus* and *Pnigalio*.
-- **Trichogrammatidae** — tiny egg parasitoids dominated by *Trichogramma*, released
-  in enormous quantities against lepidopteran pests.
-- **Braconidae** — diverse ichneumonoid family; *Cotesia*, *Diachasma*, and
-  *Aphidius* are widely used against caterpillars and aphids.
-- **Ichneumonidae** — largest family in Hymenoptera; includes many koinobiont
-  endoparasitoids of lepidopteran and coleopteran larvae.
-
-## Flagship Species
-
-### Trichogramma spp.
-
-*Trichogramma* species are egg parasitoids of Lepidoptera and represent the most
-widely used [[fukuoka-textdoc-scale-insect-biological-control-case-studies]] agents globally by release volume. Females oviposit
+  control in [[fukuoka-textdoc-scale-insect-biological-control-case-studies]] agents globally by release volume. Females oviposit
 into host eggs; a single larva consumes the egg contents, preventing caterpillar
 emergence. Mass releases of *T. pretiosum*, *T. brassicae*, and *T. nubilale* are
 routine in corn (European corn borer), rice (stem borers), cotton (bollworms), and
@@ -89,3 +69,82 @@ biocontrol:
   host immunity, often using viral or venom-mediated strategies.
 
 ## Host Specificity and Nontarget Effects
+
+## Overview
+
+Parasitic Wasps Biological Pest Control represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish parasitic wasps biological pest control
+from related concepts in [[permaculture]] and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving parasitic extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Parasitic Wasps Biological Pest Control finds practical application in multiple design contexts.
+[[permaculture-principles]] guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for parasitic wasps biological pest control. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+parasitic wasps biological pest control and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Parasitic Wasps Biological Pest Control has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of parasitic wasps biological pest control into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also

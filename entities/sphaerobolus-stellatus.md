@@ -11,16 +11,11 @@ sources:
 
 # Sphaerobolus stellatus
 
-**Sphaerobolus stellatus**, commonly known as the [[bloomfield-sphaerobolus-artillery-fungus-spore-launch]], is a basidiomycete renowned for its extraordinary spore-dispersal mechanism.
-
-It is a coprophilous fungus adapted for growth on partly digested cellulose fibres in herbivore dung or on sodden wood shavings in gardening mulch.
-
-The species holds the record for fungal propulsion, launching its spore masses up to 5.5 metres from the [[comparison-fruiting-body-vs-mycelium-extracts-medicinal-mushrooms]].
+**Sphaerobolus stellatus**, commonly known as the [[comparison-fruiting-body-vs-mycelium-extracts-medicinal-mushrooms]].
 
 ## Taxonomy and Classification
 
-S. stellatus belongs to the order Geastrales within the class [[coprinus-comatus]] for another fungus commonly found on enriched substrates
-- [[meruliporia-incrassata]] for another wood-decay fungus affecting human structures
+S. stellatus belongs to the order Geastrales within the class [[meruliporia-incrassata]] for another wood-decay fungus affecting human structures
 - [[coniophora-puteana]] for another fungus causing damage in damp buildings
 ## Practical Applications
 

@@ -120,4 +120,12 @@ The **carpenter's Sumerian ideogram** depicts a notched whorl for a bow-string d
 
 ---
 
-*See also:* [[amanita-identification-field-marks-palmer]]; [[allegro-religion-prehistory-oral-tradition-etymology]]; allegro heavenly twins cain abel castor pollux dioscouroi; [[amanita-identification-field-marks-palmer]]; [[allegro-secret-mushroom-names-korkoron-balag-nomenclature]]
+*See also:* [[allegro-religion-prehistory-oral-tradition-etymology]]; allegro heavenly twins cain abel castor pollux dioscouroi; [[allegro-secret-mushroom-names-korkoron-balag-nomenclature]]
+
+## See Also
+
+- [[allegro-secret-mushroom-names-korkoron-balag-nomenclature]]
+- [[allegro-christian-origins-philological-study-esoteric-names]]
+- [[allegro-heavenly-twins-and-the-mushroom-hermaphrodite]]
+- [[allegro-soma-mushroom-thesis]]
+- [[allegro-sacred-prostitute-and-the-mushroom-cult]]

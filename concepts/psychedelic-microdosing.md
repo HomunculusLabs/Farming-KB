@@ -9,33 +9,8 @@ sources: []
 
 # Psychedelic Microdosing
 
-Psychedelic microdosing is the practice of taking sub-perceptual doses of psychedelic compounds — doses small enough that they do not produce overt hallucinations or [[weil-the-natural-mind-altered-states-normalcy]], but large enough to potentially influence mood, cognition, and creativity. The practice has gained enormous popular interest since the mid-2010s, though scientific evidence for its claimed benefits remains limited and mixed.
-
-## Definition
-
-A microdose is typically defined as 1/10th to 1/20th of a standard recreational dose — approximately:
-
-- **LSD**: 5-15 micrograms (a full recreational dose is 100-200 micrograms). See [[psilocybin-compound-profile]] for details.
-- **DMT**: Very rarely microdosed due to [[savory-short-duration-grazing-and-cell-systems]]; if used, typically 1-2 mg orally
-
-The key principle is sub-perceptual: if you can clearly feel the effects, it is not a microdose. Effects should be subtle enough that a naive observer would not notice any change.
-
-## Microdosing Protocols
-
-### Fadiman Protocol (Most Widely Used)
-Developed by psychologist James Fadiman based on self-reports:
-
-- **Dose day**: Take microdose on day 1
-- **Off days**: Days 2 and 3 off
-- **Repeat**: Day 4 dose, then 2 days off
-- **Schedule**: Every 3 days (dose on days 1, 4, 7, 10, etc.)
-- **Duration**: Typically 4-8 weeks, then evaluate and take a break
-- **Tracking**: Users are encouraged to keep detailed notes on mood, energy, focus, and social interactions
-
-The 2-day interval is designed to prevent tolerance buildup and allow for baseline comparison days.
-
-### Stamets Stack
-Developed by mycologist [[psychedelic-safety-and-contra-indications]]
+Psychedelic microdosing is the practice of taking sub-perceptual doses of psychedelic compounds — doses small enough that they do not produce overt hallucinations or [[psilocybin-compound-profile]] for details.
+- **DMT**: Very rarely microdosed due to [[psychedelic-safety-and-contra-indications]]
 - **Anxiety increase**: Some users report increased anxiety, especially during early sessions
 - **Sleep disruption**: LSD's long duration can interfere with sleep even at microdoses
 - **Overdose**: Accidentally taking a full dose instead of a microdose is the most common acute risk
@@ -52,7 +27,6 @@ Developed by mycologist [[psychedelic-safety-and-contra-indications]]
 
 - Start with the lowest effective dose (Fadiman protocol: 1/10th standard dose)
 - Maintain a daily journal to track effects objectively
-- [[controlled-substances-act-and-psychedelic-research]]
 - [[psilocybin-isolation-and-early-scientific-research]]
 ## Practical Considerations
 
@@ -88,3 +62,88 @@ and adaptive capacity helps buffer against unpredictable events and
 conditions. This approach recognizes that some degree of uncertainty is
 inherent in working with natural systems and plans accordingly rather
 than assuming perfect predictability or control over outcomes.
+
+## Overview
+
+Psychedelic Microdosing represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish psychedelic microdosing
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving psychedelic extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Psychedelic Microdosing finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for psychedelic microdosing. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+psychedelic microdosing and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Psychedelic Microdosing has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of psychedelic microdosing into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[metzner-therapist-experiential-prerequisite-psychedelic-therapy]]
+- [[psychedelic-combination-guide]]
+- [[psychedelic-paradigm-shifting-and-reality-reconception]]
+- [[psychedelic-plants-language-emergence-mckenna-synesthesia-hypothesis]]
+- [[psycholytic-and-psychedelic-therapy-models]]

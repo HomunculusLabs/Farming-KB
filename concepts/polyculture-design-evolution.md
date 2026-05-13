@@ -88,56 +88,13 @@ Powerful biocides found in plants are harmless or short-term and totally biodegr
 
 ### Integrated Mosquito Control
 
-Broadscale mosquito control can combine fats or oils (e.g., lecithin), a poison (neem oil), and an infective agent ([[bacillus-thuringiensis]]). These are assisted by small fish and insect predators such as notonectids (backswimmers) in open water systems.
-
-### Ground Foragers and Canopy Predators
-
-Ground foragers (chickens, pigs, cattle, large tortoises) eat fallen fruit and larval insect infestations. Leaf foragers (birds, frogs) attend to canopy infestations, as do small skink lizards. Some lizards (Tiliqua) forage for snails and slugs at ground level, as do ducks.
-
-### Nematode Management
-
-In tropical tree crop monocultures, soil fungi and nematodes may become persistent pests. Marigolds (Tagetes) often reduce or eliminate nematodes. Crotolaria as a leguminous green crop traps nematodes in its root mycelia. Mulch and green manures (soil humus) buffer the effects of these pests by hosting fungal predators.
-
-### Animal Integration in Palm Systems
-
-Palm groves provide sheltered, shaded aspects for intercrop and livestock. The integrated animal system includes:
-- **Chickens**: Controlling pests such as rhinoceros beetle larvae
-- **Guinea pigs and geese**: Reducing grass competition
-- **Land tortoises**: General ground maintenance
-- **Pythons**: Rat and mouse control
-- **Owls**: The best rodent predators
-- **Bees**: Pollination services
-- **Pigs**: Ideal scavengers in tree crops below palms and fruit
-
-Chickens and ducks are especially valuable in weed control in pineapple, ginger, and taro. The main function of animal species in the tropics is to recycle plant wastes and help control the rampant growth of ground cover.
-
-## Planning the Whole Site
-
-### For Established Polycultures
-
-Even in established polycultures, periodic re-survey is valuable with attention to:
-- Main access and harvesting ways
-- Earth-shaping for rainwater harvest and specific crops
-- Sufficiency of mulch
-- Best water and irrigation strategies
-- Better village planning
-- Improved or more sophisticated site processing for market
-
-### For New Sites — Planning Steps in Priority Order
-
-1. **Assess market**: Future prices, potential for processing to higher value, labor, shares, legal systems, social necessities, and local self-reliance needs
-2. **Analyze soils**: Get advice on soils and necessary nutrients, including trace elements
-3. **Plan layout**: Ground layout, windbreak, access, and water — detailing can follow later
-4. **Execute earthworks**: Plan and carry out essential earthworks
-5. **Establish nursery**: Use selected varietal forms for new or replacement crop
-6. **Commence broadscale planting**: With or after windbreak and nurse crop
-7. **Iterate and adapt**: Constant assessment, consultation, feedback, and innovative trials; fill niches as they evolve
-
-## The Scale-Complexity Relationship
-
-Complex polycultures work best at small scale with close human attention. The depopulated, dehumanized, and now almost deserted wasteland of modern agriculture is unable to cope with any but the most basic and simple intercrop systems, thus sacrificing yield, quality, stability, and inevitably people. This is perhaps the most important lesson of polyculture design: human presence and attention are not obstacles to productivity but essential inputs that enable complexity, diversity, and resilience.
-## See also
-
-- [[permaculture-design]]
-- [[agroforestry]]
+Broadscale mosquito control can combine fats or oils (e.g., lecithin), a poison (neem oil), and an infective agent ([[permaculture-design]]
 - [[tropical-polyculture-evolution-and-pest-management]]
+
+## See Also
+
+- [[evolving-polyculture-design]]
+- [[holzer-polyculture-examples]]
+- [[permaculture-forest-pasture-polyculture]]
+- [[mollison-tropical-earth-shaping-polyculture-economics]]
+- [[garden-guilds-and-polyculture-design]]

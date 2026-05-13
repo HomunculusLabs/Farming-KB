@@ -11,40 +11,11 @@ tags: [winter-farming, greenhouse, cold-house, cool-house, temperature, season-e
 
 ## Overview
 
-Eliot Coleman's winter harvest system at Four Season Farm in coastal Maine (Zone 5) demonstrates that fresh vegetables can be produced year-round in cold climates without expensive heating systems. The system relies on a sophisticated understanding of how different levels of greenhouse protection interact with temperature, and how temperature management (or the deliberate absence of it) can be leveraged for economic and biological advantage. (see [[coleman-cool-house-vs-cold-house-economics-winter-production]]).
-
-## Greenhouse Temperature Classifications
-
-### Coleman's Terminology
-
-Coleman uses specific definitions for greenhouse types that differ from British horticultural conventions:
-
-- **Cold greenhouse [[coleman-rolling-greenhouse-wheel-rail-design]]**: Completely unheated structure. May have a heater available for occasional use (e.g., getting an early start on warm-season crops like tomatoes), but operates without heat during the [[coleman-french-historical-winter-vegetable-production]] season. This is the primary structure for the winter harvest system.
-- **Cool greenhouse [[coleman-rolling-greenhouse-wheel-rail-design]]**: Maintained at a minimum temperature just above freezing (approximately 32°F / 0°C). Uses minimal supplemental heat—typically propane set to keep the house just above the freezing point at night.
+Eliot Coleman's winter harvest system at Four Season Farm in coastal Maine (Zone 5) demonstrates that fresh vegetables can be produced year-round in cold climates without expensive heating systems. The system relies on a sophisticated understanding of how different levels of greenhouse protection interact with temperature, and how temperature management (or the deliberate absence of it) can be leveraged for economic and biological advantage. (see [[coleman-rolling-greenhouse-wheel-rail-design]]**: Completely unheated structure. May have a heater available for occasional use (e.g., getting an early start on warm-season crops like tomatoes), but operates without heat during the [[coleman-rolling-greenhouse-wheel-rail-design]]**: Maintained at a minimum temperature just above freezing (approximately 32°F / 0°C). Uses minimal supplemental heat—typically propane set to keep the house just above the freezing point at night.
 
 ### British vs. American Conventions
 
-In British usage, a "cold greenhouse" has a minimum of 32°F and a "cool greenhouse" has a minimum of 45°F. Coleman's definitions are different: his cold house is truly unheated, and his cool house is maintained at the lowest possible temperature above freezing to minimize fuel costs while gaining the benefits of even slight warming. (see [[coleman-double-cover-microclimate-protection]]).
-
-## The Unheated Cold House
-
-### How It Works
-
-The cold house system works because cold-hardy vegetables are far more resilient than most growers realize. The key operating principles are:
-
-1. The greenhouse itself provides one layer of protection from wind and desiccation
-2. An inner layer of floating row cover provides a second, independent layer of protection
-3. The soil acts as a thermal mass, absorbing heat during sunny days and releasing it slowly at night
-4. The double-layer system creates a "twice-tempered" microclimate
-
-### Temperature Performance
-
-Coleman provides concrete temperature data from his Zone 5 Maine operation:
-- Outdoor temperature: -15°F (-26°C)
-- Under the inner layer of the cold house: 15°F to 18°F (-10°C to -8°C)
-- The cold-hardy vegetables can survive temperatures down to 10°F (-12°C) or lower when protected from wind
-
-This 30+ degree temperature differential between outside and inside the inner layer is achieved without any supplemental heat. (see [[coleman-greenhouse-summer-crops]]).
+In British usage, a "cold greenhouse" has a minimum of 32°F and a "cool greenhouse" has a minimum of 45°F. Coleman's definitions are different: his cold house is truly unheated, and his cool house is maintained at the lowest possible temperature above freezing to minimize fuel costs while gaining the benefits of even slight warming. (see [[coleman-greenhouse-summer-crops]]).
 
 ### The Double-Layer System
 
@@ -118,8 +89,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[eliot-coleman]]
 - [[coleman-aphid-nitrogen-flushing-winter-greenhouse-management]]
-- [[coleman-aphid-management-winter-greenhouse-nitrogen-flushing]]
 - [[coleman-winter-harvest-planting-schedule]]
 - [[coleman-winter-harvest-washing-and-packing]]

@@ -2,10 +2,7 @@
 
 ## Overview
 
-Mushroom cultivation serves as a proven **[[mushroom-poverty-alleviation-developing-countries]] strategy** in developing countries.
-MushWorld's 2004 *Mushroom Growers' Handbook 1* documents successful programs across Asia and
-Africa, demonstrating that **oyster mushroom cultivation** provides income generation, nutrition
-improvement, and agricultural [[mollison-designers-banana-circle-waste-recycling-system]] for rural communities. The handbook's case studies
+Mushroom cultivation serves as a proven **[[mollison-designers-banana-circle-waste-recycling-system]] for rural communities. The handbook's case studies
 (Part I, Chapters 1–2) reveal a consistent pattern: low startup costs, locally available substrates,
 and strong market demand make mushroom farming an accessible and profitable enterprise even for
 resource-poor households.
@@ -14,14 +11,11 @@ These programs share a common architecture — a central institution provides te
 spawn, while individual growers manage cultivation using simple, locally built structures. This model
 lowers barriers to entry and ensures consistent quality across distributed production sites.
 
-## [[mushroom-poverty-alleviation-developing-countries]], [[mushworld-oyster-substrate-materials-worldwide-survey]]
+## [[mushworld-oyster-substrate-materials-worldwide-survey]]
 
 ## See Also
 
-- [[non-sterilized-wheat-straw-oyster-cultivation]]
-## Practical Applications
-
-Mushworld [[gourmet-medicinal-mushroom-oyster-cultivation-methods]] Case Studies Developing Countries has a range of practical applications that make it relevant to
+- [[gourmet-medicinal-mushroom-oyster-cultivation-methods]] Case Studies Developing Countries has a range of practical applications that make it relevant to
 both researchers and practitioners. Understanding these applications
 requires familiarity with the underlying principles and their
 manifestation in real-world contexts. The breadth of applications

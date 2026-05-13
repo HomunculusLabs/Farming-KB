@@ -1,6 +1,6 @@
 ---
 title: Eleusinian Mysteries
-aliases: [Eleusis, Eleusinian rites, [[demeter-and-persephone-in-eleusinian-mythology]] mysteries]
+aliases: [Eleusis, Eleusinian rites, demeter-and-persephone-in-eleusinian-mythology mysteries]
 tags: [history, religion, ancient-greece, psychedelics, mystery-cults]
 created: 2026-05-10
 source: Terence McKenna - Food of the Gods
@@ -46,12 +46,7 @@ classical civilization for two millennia.
 
 ## The Psychedelic Theory
 
-The theory that the Eleusinian Mysteries involved [[cultural-evolution-and-psychoactive-substances]]
-has been proposed by several scholars, most prominently by R. Gordon Wasson,
-Albert Hofmann (the discoverer of LSD), and Carl Ruck in their 1978 book
-"The Road to Eleusis." Terence McKenna popularized and expanded this theory
-in "Food of the Gods," arguing that the mysteries represented the
-institutionalized use of psychedelics in [[eleusinian-mysteries-psychoactive-fungi-western-civilization]]'s foundational
+The theory that the Eleusinian Mysteries involved [[eleusinian-mysteries-psychoactive-fungi-western-civilization]]'s foundational
 culture.
 
 ### The Ergotized Beer Theory
@@ -100,46 +95,11 @@ The Homeric Hymn to Demeter, composed in the 7th century BCE, describes the
 mysteries as conferring a blessed afterlife: "Blessed is the mortal who has
 seen these rites; but the uninitiate who has no share in them never has the
 same lot once dead in the dreary darkness." This promise of a privileged
-afterlife is consistent with the kind of transformative [[mystical-experience]]
-that psychoactive substances can facilitate.
-
-The secrecy surrounding the rites is itself suggestive. The penalty for
-revealing the mysteries was death — a severity that suggests the
-experience involved something more than mere ritual theater. If the
-mysteries involved a psychoactive substance, maintaining secrecy about the
-recipe would be essential to preserving the priests' unique role and
-authority.
-
-## Criticism of the Psychedelic Theory
-
-Skeptics argue that the transformative power of the Eleusinian experience can
-be adequately explained by the psychological effects of initiation rituals,
-dramatic reenactment, fasting, sensory deprivation, and suggestion in a
-highly charged emotional context. The combination of isolation, darkness,
-rhythmic chanting, and dramatic revelation could produce profound mystical
-experiences without pharmacological assistance. No archaeological remains
-of kykeon preparation have been analyzed for ergot alkaloids, and no written
-account from antiquity explicitly mentions psychoactive ingredients.
-
-## Historical Watershed
-
-McKenna argued that the suppression of the Eleusinian Mysteries by the
-Christian emperor Theodosius I in 392 CE represented a pivotal moment in
-Western history — the institutional elimination of a tradition of
-psychedelic religious experience that had sustained Greek and Roman
-civilization for nearly two millennia. In McKenna's narrative, this
-suppression was part of a broader shift from "partnership" to "dominator"
-cultural values, from nature-revering egalitarianism to hierarchical
-authoritarianism.
-
-Whether or not the psychedelic theory is correct, the Eleusinian Mysteries
-remain one of the most significant religious phenomena of [[allegro-plants-and-drugs-in-the-ancient-world]],
+afterlife is consistent with the kind of transformative [[allegro-plants-and-drugs-in-the-ancient-world]],
 and the question of what actually occurred in the telesterion (initiation
 hall) at Eleusis continues to fascinate scholars and the general public
 alike.
 
 ## See Also
 
-- [[stoned-ape-hypothesis]]
-- psychedelic plants in human evolution
 - [[soma-vedic-enigma]]

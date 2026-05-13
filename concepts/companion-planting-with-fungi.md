@@ -11,25 +11,8 @@ tags: [fungi, plants]
 
 # Companion Planting with Fungi
 
-Companion planting with fungi is the practice of deliberately introducing mushroom species into agricultural, garden, and [[hamilton-geoffhamilton-nick-organic-gardening-companion-planting]] between plants alone, fungal companions operate on fundamentally different ecological mechanisms.
-
-Paul Stamets argues that creating mycologically sustainable environments by introducing plant-partnering fungi in combination with mulching is essential for long-term food production and soil health.
-
-## The Fungal-Plant Partnership Spectrum
-
-Stamets identifies four categories of mushroom-plant relationships relevant to companion planting:
-
-- **Saprophytic**: Decomposers that break down dead matter and recycle nutrients into soil
-- **Mycorrhizal**: [[mycelium-running-symbiotic-fungi-relationships]] attaching to roots, exchanging minerals for carbohydrates
-- **Endophytic**: Fungi living within plant tissues, conferring disease resistance and [[fungal-lichen-stress-tolerance-and-poikilohydry]]
-- **Parasitic**: Fungi that weaken or kill plants (generally avoided but some have ecological value)
-
-The most useful companions for intentional planting are saprophytic and mycorrhizal species, though fungal-enzyme-systems-and-nutrient-cycling that degrade large molecules into simpler ones.
-
-Key companion saprophytes for garden and farm systems include:
-
-- **King Stropharia** (Stropharia rugosoannulata): The "garden giant" thrives in wood chip mulch; digests fresh debris then continues as microbial communities develop; both primary and secondary decomposer; depends on soil microbes for fruiting
-- **[[query-how-to-grow-oyster-mushrooms-at-home]]** (Pleurotus species): Fast-growing primary decomposers for straw mulch, wood chip paths, and stumps at garden edges; produce prolifically and compete well against contaminants
+Companion planting with fungi is the practice of deliberately introducing mushroom species into agricultural, garden, and [[mycelium-running-symbiotic-fungi-relationships]] attaching to roots, exchanging minerals for carbohydrates
+- **Endophytic**: Fungi living within plant tissues, conferring disease resistance and [[query-how-to-grow-oyster-mushrooms-at-home]]** (Pleurotus species): Fast-growing primary decomposers for straw mulch, wood chip paths, and stumps at garden edges; produce prolifically and compete well against contaminants
 - **Wine cap mushrooms**: Excellent companions for hugelkultur-guide|hugelkultur beds and perennial borders; process buried wood into bioavailable nutrients over many years
 
 ## Mycorrhizal Fungi as Plant Partners
@@ -43,9 +26,7 @@ Most accessible mycorrhizal genera for companion planting:
 - **Glomus**: Endomycorrhizal species including G. intraradices for broadleaf plants and garden vegetables
 
 Many believe the best way to colonize a tree's root zone is to grow its roots first in pasteurized soil, then inoculate with mycorrhizal spores. This method is used in the mycopesticides-entomopathogenic-fungi**: Some fungi attack insect pests directly
-- **[[mycological-permaculture-integration]] design:
-
-- In [[non-mycorrhizal-plants]] for exceptions including brassicas
+- **[[non-mycorrhizal-plants]] for exceptions including brassicas
 - Competition between introduced species and native mycoflora must be managed
 - Species selection should match available substrate, climate, and companion plants
 - Over-mulching can create anaerobic conditions unfavorable to both fungi and plants
@@ -67,17 +48,9 @@ When applying these concepts, consider regional variations, available resources,
 
 ## See Also
 
-- [[teaming-with-microbes-specific-bacteria-fungi]]
 - [[teaming-with-microbes-fungi-the-underground-network]]
-- [[teaming-with-microbes-fungi-and-mycorrhizal-relationships]]
 - [[teaming-with-microbes-fungi]]
-- [[teaming-with-fungi-truffle-cultivation-basics]]
-
-## See Also
-
-- [[mycological-permaculture-integration]] -- fungi in [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]]
-- king-stropharia-wine-cap-cultivation -- premier garden companion mushroom
-- [[mycorrhizal-plant-defense]] -- how fungal partners protect plants
+- [[mycological-permaculture-integration]] -- fungi in [[mycorrhizal-plant-defense]] -- how fungal partners protect plants
 - mycorrhizal-mushrooms-forest-partnerships-stamets -- forest companion systems
 
 ## Practical Considerations
@@ -114,8 +87,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[companion-planting]]
 - [[mycorrhizal-fungi]]
-- [[fungal-ecology]]
 - [[dom]]
 - [[substrate-preparation]]

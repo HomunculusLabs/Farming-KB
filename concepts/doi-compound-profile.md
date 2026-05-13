@@ -30,16 +30,7 @@ DOI (PIHKAL #67) is the most potent and longest-lasting of the commonly discusse
 | **Duration** | 16-30 hours |
 | **Onset** | 2-4 hours |
 
-DOI has the longest duration of any DOx compound at 16-30 hours. Combined with its slow onset (2-4 hours), this creates significant risk of accidental overdose through premature redosing. Its use as a laboratory research chemical reflects its high receptor selectivity. See [[lsd-compound-profile]]
-- Extremely long duration — users report still feeling effects after a full night's sleep
-- Intense visual and cognitive effects
-- Significant body load and vasoconstriction
-- Strong stimulant properties
-- Prolonged afterglow or residual stimulation
-
-## Synthesis (from PIHKAL)
-
-DOI was synthesized via phthalimide protection of the amine, followed by iodination with iodine monochloride (ICl), and then hydrazine deprotection. This route was chosen to control the regiochemistry of the iodination. The HCl salt melts at 200.5-201.5 °C. See [[phenethylamine-receptor-pharmacology]] for detailed binding data.
+DOI has the longest duration of any DOx compound at 16-30 hours. Combined with its slow onset (2-4 hours), this creates significant risk of accidental overdose through premature redosing. Its use as a laboratory research chemical reflects its high receptor selectivity. See [[phenethylamine-receptor-pharmacology]] for detailed binding data.
 
 ## Experience Reports (from PIHKAL)
 
@@ -47,7 +38,7 @@ The PIHKAL entries for DOI document experiences from 0.6 mg to 3.5 mg of the rac
 
 **At 0.6 mg:** "Nice spacey light-headedness for a few hours, time seemed to move slowly. Generic sadness came over me, reminiscing about earlier days. Mood became healthy by about the seventh hour." — A sub-threshold to light experience notable for its melancholic emotional tone.
 
-**At 1.6 mg:** "General nature of the experience was depressing, with a sad view of life. No way to connect with emotions. At ninth hour, aborted with 125 micrograms of [[dob-compound-profile]], [[ayahuasca-preparation-and-ceremony]]. The only exception was [[mdma-compound-profile]]." This R-preference is a consistent feature of psychedelic amphetamines and reflects the stereochemistry of the 5-HT2A [[tihkal-receptor-binding-serotonin]] site.
+**At 1.6 mg:** "General nature of the experience was depressing, with a sad view of life. No way to connect with emotions. At ninth hour, aborted with 125 micrograms of [[ayahuasca-preparation-and-ceremony]]. The only exception was [[tihkal-receptor-binding-serotonin]] site.
 
 ## Receptor Binding and Research Use
 
@@ -58,69 +49,91 @@ DOI has extremely high binding affinity for 5-HT2 receptors, making it one of th
 - The ability to incorporate radioactive iodine directly onto the aromatic ring makes DOI uniquely valuable among psychedelics for receptor localization studies
 - A commercial research company once offered DOI for sale, but notably stipulated that "telephone orders cannot be accepted" — reflecting the compound's dual status as both a legitimate research tool and a controlled substance
 
-The research utility of DOI has ensured that it remains one of the best-characterized DOx compounds pharmacologically, even as its recreational use remains relatively uncommon due to the extreme duration and potency challenges. See [[pihkal-introduction-and-methodology]].
+The research utility of DOI has ensured that it remains one of the best-characterized DOx compounds pharmacologically, even as its recreational use remains relatively uncommon due to the extreme duration and potency challenges. See [[dom-compound-profile]] (methyl), and [[doc-compound-profile]], [[ayahuasca]]
+- [[doc]]
+- [[det]]
 
-Within the broader DOx series, DOI sits alongside [[dom-compound-profile]] (methyl), and [[2c-family-compounds-overview]] describes the corresponding phenethylamine (non-amphetamine) analogues.
+## Overview
 
-## Harm Reduction
+Doi Compound Profile represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
 
-- Longest duration of any commonly discussed psychedelic — plan for 24-30 hours
-- NEVER redose — onset takes 2-4 hours
-- Accurate milligram scales are mandatory
-- Risk of severe anxiety and insomnia due to prolonged stimulation
-- Often encountered as a research chemical in powder form — extreme caution with dosing
-- The extreme potency means even small weighing errors can be dangerous
-- Related compounds: [[doc-compound-profile]], [[doet-compound-profile]]
-## Practical Considerations
+## Key Characteristics
 
-Successful implementation of DOI — Compound Profile requires attention to
-several practical factors including environmental conditions,
-resource availability, and timing. Careful monitoring and
-adaptive management help optimize outcomes across varying
-conditions. Integration with other system elements enhances
-overall effectiveness and creates beneficial synergies that
-improve resilience and productivity over time.
+Several defining characteristics distinguish doi compound profile
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
 
-## Future Directions
+## Ecological Context
 
-Continued development in this area promises new insights and
-improved approaches for both research and practical application.
-Cross-disciplinary collaboration and advances in analytical
-methods create opportunities for innovation and refinement.
-Recommended resources include current literature, practitioner
-communities, and systematic experimentation to build expertise.
+The ecological relationships involving doi extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
 
 ## Practical Applications
 
-The principles and techniques discussed here have wide-ranging applications
-across multiple disciplines and contexts. Practitioners and researchers
-continue to explore new ways to integrate these concepts into modern practice,
-adapting traditional knowledge to contemporary challenges and opportunities.
+Doi Compound Profile finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
 
-## Key Considerations
+## Management and Implementation
 
-Several important factors influence the effectiveness and outcomes described
-in this topic. Understanding these considerations helps practitioners make
-informed decisions and avoid common pitfalls. Environmental conditions,
-timing, and material selection all play critical roles.
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for doi compound profile. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+doi compound profile and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
 
 ## Historical Context
 
-The historical development of this subject reflects centuries of accumulated
-knowledge and practical experience. From traditional methods passed down
-through generations to modern scientific approaches, the evolution continues
-to inform current best practices and research directions.
+Doi Compound Profile has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
 
-## Common Challenges
+## Integration Strategies
 
-Practitioners frequently encounter several challenges when working with
-these concepts. Climate variability, resource limitations, and knowledge
-gaps can all affect outcomes. Addressing these challenges requires patience,
-observation, and a willingness to adapt approaches based on results.
+Successful integration of doi compound profile into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
 
 ## See Also
-- [[ayahuasca]]
-- [[mdma]]
-- [[doc]]
-- [[dom]]
-- [[det]]
+
+- [[2c-d-compound-profile]]
+- [[2c-t-7-compound-profile]]
+- [[5-meo-dipt-compound-profile]]
+- [[dpt-compound-profile]]
+- [[plant-olfaction-volatile-organic-compound-signaling]]

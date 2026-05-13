@@ -11,16 +11,7 @@ type: entity
 # Psilocybe magnivelaris
 
 **Type:** Species (Fungus)
-**Category:** Basidiomycota, [[fungal-decomposition]].
-Alluvial plains and sandy soils near waterways appear to be primary
-habitats, suggesting the species benefits from periodic flooding that
-deposits organic material.
-
-## Relevance
-Psilocybe magnivelaris is an important example of a non-psychoactive
-species within the genus Psilocybe, demonstrating that morphological
-placement in the genus does not guarantee psychoactive alkaloid
-production. Its well-developed [[membranous-annulus-loss-brassinosteroid-induced-morphological-change]] is a distinctive
+**Category:** Basidiomycota, [[membranous-annulus-loss-brassinosteroid-induced-morphological-change]] is a distinctive
 feature that separates it from most Psilocybe species. The species
 complex with P. squamosa and P. thrausta can be resolved by cheilocystidia
 length. Its presence in alluvial and riparian habitats with Salix
@@ -29,7 +20,6 @@ waterways, an ecological niche shared with several other
 Psilocybe and Stropharia species.
 
 ## See Also
-- [[psilocybe-southeast-asia-pacific]]
 - [[psilocybe-caerulea]]
 ## Practical Applications
 

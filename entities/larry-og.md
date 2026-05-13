@@ -22,10 +22,7 @@ sources:
 
 ## Overview
 
-Larry OG is an indica-dominant [[query-what-is-the-difference-between-indica-sativa-and-hybrid-cannabis]] strain with roots in the
-legendary OG Kush family tree. Believed to have been cultivated in Southern
-California during the early 2000s, it carries the characteristic fuel,
-lemon, and pine [[cannabis-terpene-profile]] that defines the OG lineage while adding
+Larry OG is an indica-dominant [[cannabis-terpene-profile]] that defines the OG lineage while adding
 its own subtle earthy sweetness.
 Named purportedly after its original grower "Larry," the strain has earned
 a reputation for potent full-body relaxation paired with cerebral calm,
@@ -42,31 +39,7 @@ and has served as a parent in several notable crosses.
 - **Type:** Indica-dominant hybrid (approximately 70% indica / 30% sativa)
 - **Lineage:** OG Kush × Unknown indica (possibly SFV OG)
 - **Breeder:** Anonymous Southern California grower, early 2000s
-- **[[thc-content-factors-cultivation-freshness-storage-degradation-blesching]]:** 19–26% (varies by cultivation)
-- **CBD content:** Low (<1%)
-
-## Aroma and Flavor Profile
-
-- **Primary aromas:** Diesel fuel, lemon zest, pine resin
-- **Secondary notes:** Earthy undertones, subtle hashy spice, light skunk
-- **Taste:** Smooth smoke with prominent lemon-pine on the inhale,
-  earthy and slightly sweet on the exhale with a lingering fuel aftertaste
-- **Smoke quality:** Medium density; generally smooth, can expand in the lungs
-
-## Effects and Pharmacology
-
-- **Onset:** 5–15 minutes when smoked or vaporized
-- **Duration:** 2–4 hours
-- **Primary effects:**
-  - Deep physical relaxation spreading from the neck and shoulders downward
-  - Calming cerebral haze that eases racing thoughts
-  - Mild euphoria, warm body sensations, heavy eyelids
-- **Body effects:** Strong sedative body stone, muscle tension relief,
-  couch-lock at higher doses
 - **[[oner-sativa-medical-applications]]:**
-  - [[cannabis-chronic-pain-management]] management (back pain, joint inflammation, neuropathy)
-  - Insomnia — one of its most consistently reported benefits
-  - Anxiety and stress relief
   - [[cannabis-for-cachexia-and-appetite-stimulation]]
   - Muscle spasms and cramping
 - **Side effects:**
@@ -77,14 +50,83 @@ and has served as a parent in several notable crosses.
 
 ## Growing Characteristics
 
-- **[[what-a-plant-knows-photoperiodism-flowering-time-measurement]]:** 8–9 weeks indoors
-- **Yield:** Moderate — 300–400 g/m² indoors; 400–500 g/plant outdoors
-- **Height:** Medium-tall, 100–150 cm indoors; can exceed 200 cm outdoors
-- **Difficulty:** Moderate — requires attention to nutrient needs and
-  training for optimal yield
-- **Climate:** Prefers warm, Mediterranean-like conditions; thrives in
-  Southern California outdoor environments
-- **Resistance:** Good resistance to mold and common pests; moderate
-  susceptibility to [[cervantes-powdery-mildew-prevention-treatment]] in humid conditions
+- **[[cervantes-powdery-mildew-prevention-treatment]] in humid conditions
 - **Nutrient needs:** Moderate to heavy feeder during [[comparison-cannabis-vegetative-stage-vs-flowering-stage]];
   reduce nitrogen in late flowering
+
+## Overview
+
+Larry Og represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish larry og
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving larry extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Larry Og finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for larry og. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+larry og and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Larry Og has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of larry og into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.

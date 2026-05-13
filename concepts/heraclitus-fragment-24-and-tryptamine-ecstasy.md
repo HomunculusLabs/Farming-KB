@@ -27,9 +27,8 @@ pais estin paizon, pessueon; paidos he basileie." The most commonly cited transl
 this as "The lifetime (aion) is a child playing, playing draughts; the kingship is the child's."
 Alternative readings translate *pessueon* as "moving colored balls" or "playing with colored
 balls," drawing on the ambiguity of the Greek term which can refer to various game pieces
-including spherical ones. [[terence-mckenna]], in his 1983 Esalen lecture on tryptamine
-[[tryptamine-hallucinogens-and-consciousness]], seized upon this fragment as perhaps the most precise literary
-description of the [[extraterrestrial-contact-and-dmt-experience]] ever committed to writing in [[fukuoka-descartes-western-philosophy-nature]], despite
+including spherical ones. [[tryptamine-hallucinogens-and-consciousness]], seized upon this fragment as perhaps the most precise literary
+description of the [[fukuoka-descartes-western-philosophy-nature]], despite
 predating the discovery of DMT by roughly two and a half millennia.
 
 ## McKenna's Phenomenological Reading
@@ -37,29 +36,13 @@ predating the discovery of DMT by roughly two and a half millennia.
 McKenna described his DMT experiences in terms that directly echo the Heraclitean fragment.
 Upon inhaling DMT, he reported arriving in a space that feels "underground" or "somehow
 insulated and domed," borrowing the German word *raum* (space) from James Joyce's *Finnegans
-Wake* to coin the phrase "[[dmt-onset-phenomenology-merry-go-raum]]" — a room that is itself going around, turning, alive.
-Within this space, one does not merely observe the Aeon at play with colored balls; one
-*becomes* the Aeon at play with colored balls. The phenomenological parallels between the
-fragment and the DMT experience are remarkably specific and operate on multiple levels
-simultaneously.
-
-The colored, shifting geometric surfaces that characterize the [[dmt-onset-phenomenology-mode-shift]] directly mirror
+Wake* to coin the phrase "[[dmt-onset-phenomenology-mode-shift]] directly mirror
 Heraclitus's "colored balls" or game pieces. The visual phenomenology of DMT — described by
 McKenna as "information being presented three-dimensionally and deployed fourth-dimensionally,
 coded as light and as evolving surfaces" — is itself a kind of cosmic game board. The
 experience is characterized by a quality of play, of childlike engagement with reality that
 McKenna insisted is ontologically authentic rather than regressive. The entities encountered
-— his "self-transforming [[dmt-machine-elves]]" — reinforce this quality by their manner: they are
-playful, instructive, reassuring, and bathed in what McKenna describes as open-hearted love
-that is "not erotic but it is open-hearted." The Heraclitean notion that "kingship belongs to
-a child" resonates with the way DMT dissolves adult cognitive structures and returns
-consciousness to a state of wonder and immediacy. The ego, the adult self with its categories
-and defenses, is not destroyed but rendered irrelevant — like a king who discovers that true
-sovereignty was always held by the child.
-
-## The Merry Go Raum as Heraclitean Space
-
-McKenna's neologism "merry go raum" draws from *[[dmt-finnegans-wake-and-the-merry-go-raum]]*, where Joyce layers multiple
+— his "self-transforming [[dmt-finnegans-wake-and-the-merry-go-raum]]*, where Joyce layers multiple
 languages and meanings into a single phrase. The German *Raum* means "space," so the phrase
 simultaneously suggests a merry-go-round and a room that is rotating, in motion, alive. This
 captures the proprioceptive quality of the DMT breakthrough: the sense that the space one
@@ -118,8 +101,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[tryptamine]]
 - [[dom]]
-- [[dmt]]
 - [[mckenna-heraclitus-aeon-child-play-tryptamine-ecstasy]]
 - [[mckenna-tryptamine-ecstasy-and-platonic-eternity]]

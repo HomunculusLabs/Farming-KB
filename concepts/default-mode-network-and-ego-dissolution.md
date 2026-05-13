@@ -9,19 +9,7 @@ sources:
 ---
 The default mode network (DMN) is a large-scale brain network that is active
 during passive rest, mind-wandering, and self-referential thinking. In the
-context of [[leary-psychedelic-experience-bardo-mapping]], the DMN has become a key neurobiological
-correlate of the ego and its dissolution, one of the most significant and
-transformative aspects of the psychedelic experience.
-
-Terence McKenna described the ego as a structure that feels terror when
-contemplating dissolution in the mysterious matrix of feeling that is all around
-us. He argued that the tendency toward the expression and emergence of the ego
-must be regularly and repeatedly dissolved for psychological and spiritual
-health. Modern neuroscience has partially validated this insight by identifying
-the DMN as the neural substrate of self-referential processing.
-
-When psychedelic compounds such as psilocybin, LSD, or DMT are administered,
-[[neurochemical-probes-brain-imaging-pihkal]] studies consistently show a marked decrease in DMN activity and
+context of [[neurochemical-probes-brain-imaging-pihkal]] studies consistently show a marked decrease in DMN activity and
 connectivity. This reduction correlates strongly with subjects' reports of ego
 dissolution, the experience of losing the sense of a separate, bounded self.
 
@@ -39,28 +27,7 @@ default mode of self-referential thinking appears to create a window of
 psychological flexibility.
 
 McKenna connected the suppression of the ego-dissolving rites of visionary
-plants to the rise of what he called the [[mckenna-dominator-culture-and-suppression-of-ecstasy]]. He argued that the
-abandonment of regular boundary-dissolving immersion in the archaic mystery of
-plant-induced psychedelic ecstasy allowed the unconstrained male ego to develop
-unchecked, leading to patriarchy, warfare, and environmental destruction.
-
-From a therapeutic perspective, ego dissolution may work by disrupting rigid
-patterns of negative self-referential thought that characterize conditions like
-depression. When the DMN is temporarily deactivated, the brain can establish
-new, healthier patterns of connectivity, a neurobiological correlate of what
-psychologists call cognitive restructuring.
-
-The experience of ego dissolution varies widely in intensity and quality. At
-mild levels, individuals may simply feel a reduced sense of self-importance and
-increased connection to their environment. At the most extreme levels, the sense
-of being a separate individual vanishes entirely, replaced by an experience of
-undifferentiated unity with all of existence.
-
-Turner noted that for people who are very controlled and have difficulties
-letting go, the dissolving of the individual self can be horrible. For other
-individuals who are more relaxed and able to surrender, who have a deep capacity
-to love, the experience is usually blissful, even ecstatic. This observation
-underscores the importance of [[lsd-set-and-setting-framework]] in determining whether ego
+plants to the rise of what he called the [[lsd-set-and-setting-framework]] in determining whether ego
 dissolution becomes a source of liberation or terror.
 
 The relationship between ego dissolution and spiritual experience is
@@ -84,11 +51,7 @@ flexibility, creativity, and spiritual well-being.
 
 See Also:
 
-[[psilocybin-psychological-mechanisms]]
-
 [[psychedelic-mushroom-set-and-setting]]
-
-[[psychedelic-consciousness-models]]
 
 [[turner-cydelikspace-and-psychedelic-reality]]
 
@@ -121,8 +84,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[psilocybin-default-mode-network-ego-dissolution]]
 - [[psilocybin]]
-- [[terence-mckenna]]
 - [[dom]]
 - [[det]]

@@ -14,31 +14,7 @@ sources:
 
 # Cactus Alkaloids Reference
 
-A comprehensive reference to the alkaloids found in [[gottlieb-psychoactive-cacti-san-pedro-and-peruvian-torch]], primarily those of the genus peyote-cultivation|lophophora (peyote), [[san-pedro-cactus-preparation]] (*Trichocereus pachanoi*), and several other [[mescaline-compound-profile]] and [[psychoactive-cacti-of-central-mexico]] species. Also found in *Acacia* species. Has pressor action with [[fukuoka-low-toxicity-pesticide-deception]].
-
-- **Synephrine** (N-methyl-4-hydroxy-β-phenethylamine): Found in citrus plants, some cacti, and human urine. A well-known sympathomimetic agent and probable intermediary in the phytosynthesis of macromerine.
-
-## Tetrahydroisoquinoline Alkaloids
-
-### Pellotine
-
-Pellotine (1,2-dimethyl-6,7-dimethoxy-8-hydroxy-1,2,3,4-tetrahydroisoquinoline) is found in peyote-cultivation|lophophora and *Pelecyphora* species. Along with anhalidine, it belongs to the tetrahydroisoquinoline class rather than the phenethylamine class, and contributes to the qualitative differences between the peyote experience and pure mescaline.
-
-### Anhalidine
-
-Anhalidine (2-methyl-6,7-dimethoxy-8-hydroxy-1,2,3,4-tetrahydroisoquinoline) is found in peyote-cultivation|lophophora and *Pelecyphora aselliformis* (peyotillo).
-
-## Sympathomimetic Amines
-
-Several cactus alkaloids are classified as sympathomimetic amines, meaning they stimulate the sympathetic nervous system:
-
-- **Hordenine** (N,N-dimethyltyramine, also called anhaline): Found in barley roots and several cacti. Has mild sympathomimetic and antiseptic activity.
-
-- **Tyramine**: Found in several cacti. Mild sympathomimetic with possible antiseptic activity.
-
-- **N-methyltyramine**: Found in some cacti and mutated barley roots. Probably an intermediate step in the methylation of tyramine to form candicine.
-
-- **3-methoxytyramine**: A phenolic β-phenethylamine first identified in the plant kingdom in San [[san-pedro-cactus-history]].
+A comprehensive reference to the alkaloids found in [[san-pedro-cactus-preparation]] (*Trichocereus pachanoi*), and several other [[psychoactive-cacti-of-central-mexico]] species. Also found in *Acacia* species. Has pressor action with [[san-pedro-cactus-history]].
 
 - **Metanephrine**: A weak sympathomimetic found in *Coryphantha* species.
 
@@ -64,12 +40,7 @@ Different cactus genera have distinct alkaloid profiles:
 
 - *Pelecyphora aselliformis* (peyotillo): Contains traces of mescaline plus anhalidine, pellotine, hordenine, and N-methylmescaline, among others.
 
-See [[phenethylamine-chemistry-basics]] for broader chemical context.
-
-## See Also
-
-- [[mescaline-biosynthesis-and-precursor-enhancement]]
-- [[false-peyotes-mexican-cactus-ethnobotany]]
+See [[mescaline-biosynthesis-and-precursor-enhancement]]
 - [[psychoactive-cacti-guide]]
 - ethnomycology
 ## Practical Considerations
@@ -120,8 +91,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[dom]]
 - [[acacia]]
-- [[lophophora-williamsii]]
 - [[mescaline]]
 - [[trichocereus-pachanoi]]

@@ -14,17 +14,7 @@ The Eleusinian Mysteries were the most important religious initiation ceremony o
 
 ## Historical Overview
 
-The Mysteries were founded in the second millennium BCE by Early Man in Greece. They were governed for close to two millennia by two [[eleusinian-hierophantic-families-eumolpidae-kerykes]], the Eumolpids and the Kerykes, who held autocratic authority over the rites. The ceremony was finally suppressed in the fourth century CE when pagan religion succumbed to the recently legitimized Christians.
-
-The Mysteries endured as the supreme experience in an initiate's life. Sophocles spoke for all initiates when he said:
-
-> Thrice happy are those of mortals, who having seen those rites depart for Hades; for to them alone is granted to have a true life there. For the rest, all there is evil.
-
-Aristides the Rhetor, writing in the 2nd century CE, described Eleusis as "a shrine common to the whole earth, and of all the divine things that exist among men, it is both the most awesome and the most luminous."
-
-## The Sacred Territory
-
-The village of Eleusis lay in a region sacred for its special affinity with the realm of departed spirits, who were thought to insure the fertility of the adjacent plain of grain. The famous Rarian plain was adjacent to the sanctuary, providing the [[rarian-plain-sacred-grain-eleusis]] from which the kykeon was prepared. A narrow bridge -- expressly too narrow for vehicles -- crossed the brackish swamp waters that divided Athens from the sacred territory of Eleusis. This crossing symbolized the passage between the world of the living and the world of the dead.
+The Mysteries were founded in the second millennium BCE by Early Man in Greece. They were governed for close to two millennia by two [[rarian-plain-sacred-grain-eleusis]] from which the kykeon was prepared. A narrow bridge -- expressly too narrow for vehicles -- crossed the brackish swamp waters that divided Athens from the sacred territory of Eleusis. This crossing symbolized the passage between the world of the living and the world of the dead.
 
 The sacred water crossed by the narrow bridge had chthonic significance -- Eleusis was a simulacrum of the other world. Outside the sanctuary walls, initiates passed a cave that was an entrance to Hades and a rock where Demeter had sat in grief. The region was sacred for its special affinity with the realm of departed spirits, who were thought to insure the fertility of the adjacent plain of grain.
 
@@ -47,22 +37,9 @@ The culminating experience took place in the telesterion, a great initiation hal
 ### The Kykeon and Vision
 Initiates drank the sacred potion called kykeon (barley, water, and mint) prepared from grain grown in the adjacent Rarian plain. After drinking, they sat on tiers of steps lining the walls of the cavernous hall in darkness, waiting. From the potion they gradually entered into ecstasy, accompanied by music and carefully orchestrated sensory effects.
 
-The experience produced physical symptoms: fear, trembling in the limbs, vertigo, nausea, and cold sweat, followed by a vision amidst an aura of brilliant light that suddenly flickered through the darkened chamber. One initiate reported: "Eyes had never before seen the like." The division between earth and sky melted into a pillar of light. Initiates became epoptai -- those who had seen. See [[wasson-hofmann-ruck-theory]].
-
-The Eleusinian experience was different from the convivial inebriation of a symposion or the drunken komos at drama festivals. Even the maenadic ecstasy of the mountain women was only partial preparation.
-
-At Eleusis alone the experience occurred with overwhelming finality: the grand design fulfilled of the maiden resurrected with her son conceived in death, and of the ear of barley that like her had sprouted beneath the earth.
-
-Source: raw/papers/the-road-to-eleusis.md
-
-## Related
-
-- [[ancient-greek-mystery-cults-comparison]]
-- [[plutarch-and-cicero-on-the-eleusinian-mysteries]]
+The experience produced physical symptoms: fear, trembling in the limbs, vertigo, nausea, and cold sweat, followed by a vision amidst an aura of brilliant light that suddenly flickered through the darkened chamber. One initiate reported: "Eyes had never before seen the like." The division between earth and sky melted into a pillar of light. Initiates became epoptai -- those who had seen. See [[ancient-greek-mystery-cults-comparison]]
 - [[kykeon-composition-and-ergot-alkaloid-hypothesis]]
-- [[psychedelic-use-in-ancient-greece]]
 - [[ergot-and-lysergic-acid-history]]
-- [[psychedelic-experience-stages]]
 - [[psychedelic-mushroom-set-and-setting]]
 ## Practical Considerations
 
@@ -112,8 +89,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[eleusinian-mysteries]]
 - [[lesser-and-greater-eleusinian-mysteries]]
-- [[eleusinian-initiation-ritual-sequence-and-comparative-mysteries]]
 - [[the-eleusinian-mysteries-and-ancient-entheogenic-cults]]
 - [[eleusinian-mysteries-and-ergot-theory]]

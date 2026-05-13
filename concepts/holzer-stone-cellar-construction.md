@@ -17,9 +17,8 @@ type: concept
 # Stone Cellar Construction
 
 Stone cellars represent the most permanent and durable approach to crop
-storage in [[comparison-sepp-holzer-vs-biodynamic]]'s permaculture system. Built on the [[holzer-roundwood-shelters-earth-cellars]], stone cellars
-provide unmatched longevity and stable [[vegetable-storage-conditions-by-temperature-and-humidity]]. They complement
-the broader traditions of [[earth-cellar-construction]].
+storage in [[holzer-roundwood-shelters-earth-cellars]], stone cellars
+provide unmatched longevity and stable [[earth-cellar-construction]].
 
 ## Comparison with Roundwood Shelters
 
@@ -47,8 +46,7 @@ humidity is usually so low that apples put into storage wither and wrinkle
 in the shortest amount of time. The high humidity and steady temperature of
 earth-insulated cellars is ideal for the majority of crops.
 
-This connects to the broader [[root-cellar-design-and-construction]] principles used in
-many traditional [[comparison-root-cellar-vs-ice-house]] designs.
+This connects to the broader [[comparison-root-cellar-vs-ice-house]] designs.
 
 ## Condensation Prevention
 
@@ -72,51 +70,12 @@ against both summer heat and winter cold. The stone also acts as a moisture
 buffer, absorbing excess humidity when levels are high and releasing it when
 the air becomes too dry.
 
-This permanence reflects the [[holzer-seed-saving-and-variety-preservation]]
-- **Grafting scion storage**: Keeping scions dormant in wet sand until spring
-  for [[holzer-mushroom-cultivation-outdoor-beds]]
+This permanence reflects the [[holzer-mushroom-cultivation-outdoor-beds]]
 - **Processing**: Providing a cool workspace for making juices, preserves,
   and other processed products
 
 ## Climate Adaptation
 
-Building roundwood shelters and [[sepp-holzer-earth-cellars-and-philosophy]] is both possible and practical
-all over the world. Holzer has had good results with all of his projects. If
-you make use of the balancing effect of the soil, you can create a pleasant,
-cool retreat in hot places and a warm one in cold places. You just have to
-understand how to make use of nature's resources properly.
-
-## Practical Applications
-
-The principles and techniques discussed here have wide-ranging applications
-across multiple disciplines and contexts. Practitioners and researchers
-continue to explore new ways to integrate these concepts into modern practice,
-adapting traditional knowledge to contemporary challenges and opportunities.
-
-## Key Considerations
-
-Several important factors influence the effectiveness and outcomes described
-in this topic. Understanding these considerations helps practitioners make
-informed decisions and avoid common pitfalls. Environmental conditions,
-timing, and material selection all play critical roles.
-
-## Historical Context
-
-The historical development of this subject reflects centuries of accumulated
-knowledge and practical experience. From traditional methods passed down
-through generations to modern scientific approaches, the evolution continues
-to inform current best practices and research directions.
-
-## Common Challenges
-
-Practitioners frequently encounter several challenges when working with
-these concepts. Climate variability, resource limitations, and knowledge
-gaps can all affect outcomes. Addressing these challenges requires patience,
-observation, and a willingness to adapt approaches based on results.
-
-## See Also
-- [[permaculture]]
-- [[holzer-roundwood-shelter-construction]]
+Building roundwood shelters and [[permaculture]]
 - [[sepp-holzer-pond-construction]]
-- [[holzer-terrace-construction-guide]]
 - [[holzer-pond-construction-and-aquaculture]]

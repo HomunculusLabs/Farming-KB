@@ -9,11 +9,11 @@ sources: []
 
 # Rocket Stove Design
 
-A rocket stove is an efficient, clean-burning cookstove that uses small-diameter wood fuel and an insulated combustion chamber to achieve near-complete combustion. They produce very little smoke, use a fraction of the fuel of open fires, and can be built from inexpensive or salvaged materials. On a homestead, rocket stoves serve as primary or backup cooking, water heating, and space heating systems.
+A [[rocket-stove]] is an efficient, clean-burning cookstove that uses small-diameter wood fuel and an insulated combustion chamber to achieve near-complete combustion. They produce very little smoke, use a fraction of the fuel of open fires, and can be built from inexpensive or salvaged materials. On a homestead, rocket stoves serve as primary or backup cooking, water heating, and space heating systems.
 
 ## How Rocket Stoves Work
 
-Rocket stoves operate on the principle of **insulated combustion [[fruiting-chamber-design-and-environmental-control]]**:
+Rocket stoves operate on the principle of **insulated combustion chamber design**:
 
 1. **Fuel is fed vertically** into a narrow (J-shaped or L-shaped) combustion chamber
 2. The chamber is heavily insulated, which keeps the combustion zone extremely hot (1000F+)
@@ -24,7 +24,7 @@ Rocket stoves operate on the principle of **insulated combustion [[fruiting-cham
 Key design ratios:
 - The fuel feed (horizontal section) should be approximately the same diameter as the chimney
 - The chimney height should be at least 3-4 times the diameter of the fuel feed
-- The gap between the pot and the top of the chimney should be narrow (1-2 inches) for efficient [[heat-transfer-coefficient]]
+- The gap between the pot and the top of the chimney should be narrow (1-2 inches) for efficient heat transfer
 - Insulation thickness should be at least 2 inches around the entire combustion chamber and chimney
 
 ## J-Tube vs. L-Tube
@@ -104,15 +104,15 @@ A well-built rocket stove achieves:
 
 - **Daily cooking** — efficient stovetop cooking for soups, stews, boiling, and frying
 - **Water heating** — heat water for bathing, cleaning, or [[wood-fired-hot-tub]]
-- **Canning** — supports a large pot for [[comparison-pressure-canning-vs-water-bath-canning]] during power outages
-- **Space heating** — rocket mass heaters use the same combustion principle with a [[comparison-windbreak-vs-thermal-mass]] bench for radiant heating (significant project, not covered here)
-- **[[query-how-to-build-a-cob-oven-for-outdoor-cooking]]** — portable rocket stoves are excellent for outdoor kitchens, camping, and emergency cooking
+- **Canning** — supports a large pot for water bath canning during power outages
+- **Space heating** — rocket mass heaters use the same combustion principle with a thermal mass bench for radiant heating (significant project, not covered here)
+- **Outdoor cooking** — portable rocket stoves are excellent for outdoor kitchens, camping, and emergency cooking
 - **Burning brush** — dispose of small brush and branches efficiently while producing useful heat
 
 ## Safety Considerations
 
 - The combustion chamber and chimney reach extreme temperatures (1000F+). Never touch during operation.
-- Provide adequate ventilation — rocket stoves are designed for outdoor use or in well-ventilated spaces. They consume oxygen and produce [[carbon-dioxide-retention-jar-lid-mushroom-cultivation]] and small amounts of carbon monoxide.
+- Provide adequate ventilation — rocket stoves are designed for outdoor use or in well-ventilated spaces. They consume oxygen and produce carbon dioxide and small amounts of carbon monoxide.
 - Never operate a rocket stove in an enclosed space without ventilation.
 - Keep flammable materials at least 3 feet from the stove.
 - Place on a non-combustible surface (concrete, dirt, stone).

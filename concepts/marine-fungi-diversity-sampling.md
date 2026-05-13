@@ -11,8 +11,7 @@ sources:
 
 Marine fungi inhabit a wide range of coastal and estuarine environments, from
 sandy beaches to coral reefs, mangrove forests, and salt marshes. Their
-diversity and [[ecological-roles-fungi-ecosystems]] are increasingly recognized as important
-components of [[dighton-fungi-mangrove-coastal-ecosystems]], though they remain among the least studied
+diversity and [[dighton-fungi-mangrove-coastal-ecosystems]], though they remain among the least studied
 groups of marine microorganisms.
 
 ## Major Groups and Habitats
@@ -57,12 +56,7 @@ calcareous substrata and Lulworthia species in coralline algae and conch shells.
 
 Traditional identification of marine fungi relied on morphological
 characteristics of fruiting structures, which required prolonged incubation and
-often failed to detect sterile mycelia. Modern [[genetic-improvement-agaricus-bisporus-molecular-approaches]] have
-revolutionized marine mycology by enabling detection and identification of fungi
-directly from environmental samples without the need for cultivation.
-
-DNA barcoding using the internal transcribed spacer (ITS) region has become the
-standard for [[dna-barcoding-fungal-identification]] in marine environments. Metabarcoding studies
+often failed to detect sterile mycelia. Modern [[dna-barcoding-fungal-identification]] in marine environments. Metabarcoding studies
 of environmental DNA from seawater, sediment, and substrate surfaces have
 revealed a far greater diversity of marine fungi than culture-based methods ever
 suggested, including many novel lineages without known cultured representatives.
@@ -75,9 +69,7 @@ understanding of fungal diversity in the oceans.
 
 ## Biogeographic Patterns
 
-[[marine-fungal-diversity-ecology]] follows distinct biogeographic patterns that reflect
-both historical and contemporary environmental processes. Tropical and subtropical
-regions, particularly [[mangrove-ecosystems-and-coastal-restoration]] coastal restoration, harbor the highest known species
+[[mangrove-ecosystems-and-coastal-restoration]] coastal restoration, harbor the highest known species
 richness of marine fungi. The Indo-Pacific region is recognized as a biodiversity
 hotspot, with many marine fungal species showing restricted geographic ranges.
 

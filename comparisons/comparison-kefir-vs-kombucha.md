@@ -30,30 +30,8 @@ The most important distinction lies in the fermentation starter.
 | Symbiotic matrix | Kefiran (polysaccharide) | Cellulose produced by Gluconacetobacter |
 | Reusability | Indefinite with proper care | Indefinite; produces baby SCOBYs each batch |
 
-Kefir grains are arguably more microbially diverse. They contain a broader range of [[comparison-kombucha-vs-kefir]]
-
-- kefir making — detailed guide to milk and water kefir
-- [[query-how-does-kombucha-brewing-work]] — full [[kombucha-brewing]] walkthrough
-- [[fermented-vegetables-guide]] — another entry point to home fermentation
-- [[wild-fermentation-vs-cultured-yeast]] — culture starters compared
-## Practical Applications
-
-Kefir vs Kombucha has a range of practical applications that make it relevant to
-both researchers and practitioners. Understanding these applications
-requires familiarity with the underlying principles and their
-manifestation in real-world contexts. The breadth of applications
-reflects the fundamental importance of this topic across disciplines.
-
-Implementation varies based on scale, available resources, and
-specific objectives. Small-scale applications may be relatively
-straightforward, while larger implementations require more careful
-planning and coordination. Adaptation to local conditions is always
-essential for achieving optimal results regardless of scale.
-
-Documented case studies provide valuable reference points, though
-each situation presents unique combinations of opportunities and
-constraints that require context-specific solutions. The most
-successful implementations combine established [[arbuscular-mycorrhizal-inoculum-production-best-practices]] with
+Kefir grains are arguably more microbially diverse. They contain a broader range of [[query-how-does-kombucha-brewing-work]] — full [[fermented-vegetables-guide]] — another entry point to home fermentation
+- [[arbuscular-mycorrhizal-inoculum-production-best-practices]] with
 creative adaptation to local conditions and emerging challenges.
 
 ## Key Considerations

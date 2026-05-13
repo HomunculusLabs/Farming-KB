@@ -10,26 +10,15 @@ type: concept
 
 # KNF IMO Diversity and Best Practices
 
-[[beneficial-indigenous-microorganisms-bim]] are the foundation of [[query-jadam-vs-korean-natural-farming]]
+[[query-jadam-vs-korean-natural-farming]]
 Farming's approach to soil health. Dr. Cho established specific
 principles for collecting, maintaining, and applying IMOs that
 maximize microbial diversity and ensure sustained soil fertility.
 This guide covers the best practices and diversity principles from
-Cho's Global [[comparison-natural-farming-vs-permaculture]].
-
-## Why Microbial Diversity Matters
-
-Microorganisms perform two major functions in farming:
-
-1. Decomposition: Microorganisms decompose complex [[fungal-volatile-organic-compounds-communication]]
+Cho's Global [[fungal-volatile-organic-compounds-communication]]
    such as dead bodies of plants and animals and wastes into
    nutrients, making them easily absorbable by plants. Without this
-   decomposition, [[hamilton-composting-and-organic-matter-management]] would accumulate and nutrients would
-   remain locked in unavailable forms.
-
-2. Protection: They create compounds such as antibiotic substances,
-   enzymes, and lactic acids that suppress various diseases and
-   promote healthy soil conditions. A diverse [[edaphic-factors-microbial-community-structure]]
+   decomposition, [[edaphic-factors-microbial-community-structure]]
    provides broader protection against a wider range of pathogens.
 
 IMOs are used primarily to create fertile and healthy soil conditions
@@ -118,8 +107,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[composting]]
 - [[permaculture]]
-- [[decomposition]]
 - [[knf-imo-processing-stages-and-utilization]]
 - [[knf-imo-four-soil-foundation-and-field-application]]

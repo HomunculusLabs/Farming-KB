@@ -1,7 +1,7 @@
 ---
 title: "Water-Soluble Potassium (WS-K)"
 created: 2026-04-28
-tags: [knf, [[natural-farming]], potassium, plant-nutrition, deficiency]
+tags: [knf, natural-farming, potassium, plant-nutrition, deficiency]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [raw/papers/chos-global-natural-farming.md]
@@ -10,30 +10,14 @@ type: concept
 
 # Water-Soluble Potassium (WS-K)
 
-Water-Soluble Potassium (WS-K) is a Korean [[comparison-natural-farming-vs-permaculture]] input
-prepared from tobacco stems. Potassium is one of the three primary
-macronutrients essential for plant growth, and its deficiency can
-significantly reduce [[fukuoka-hotel-analogy-crop-yield-model]] and quality. In KNF, WS-K is extracted
+Water-Soluble Potassium (WS-K) is a Korean [[fukuoka-hotel-analogy-crop-yield-model]] and quality. In KNF, WS-K is extracted
 through a simple water-percolation method using dried tobacco stems,
 providing a natural source of this critical nutrient without
-[[teaming-with-nutrients-natural-vs-synthetic-fertilizers]].
-
-## Understanding Potassium in Plants
-
-Potassium serves numerous vital functions in plant physiology. It
-activates the starch-synthesizing enzyme and facilitates the
-translocation of photosynthate, helping to relocate storage
-substances in starchy crops. The principal function of potassium is
-to grow meristematic tissues, which are responsible for cell
-division and new growth.
-
-Potassium regulates plant stomata and water use. At low
-concentrations, potassium decreases the [[soil-temperature-plant-growth-rate-doubling-rule]], the size of
+[[soil-temperature-plant-growth-rate-doubling-rule]], the size of
 fruit, and the moisture content in tissues. When stomata are open,
 potassium content in guard cells is high; when closed, it is low.
 Guard cells produce ATP through photosynthesis and absorb potassium
-using this energy. Potassium accumulation creates [[bloomfield-turgor-pressure-and-hyphal-invasion]]
-that opens stomata for [[mushroom-cultivation-jar-lid-management-loose-fit-vacuum-gas-exchange]].
+using this energy. Potassium accumulation creates [[mushroom-cultivation-jar-lid-management-loose-fit-vacuum-gas-exchange]].
 
 Additionally, potassium promotes synthesis of carbon dioxide-fixing
 enzymes and activates various enzyme reaction systems. It functions to
@@ -118,8 +102,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[det]]
 - [[permaculture]]
-- [[knf-water-soluble-potassium-detailed]]
 - [[knf-water-soluble-potassium-functions]]
 - [[knf-water-soluble-phosphoric-acid-detailed]]

@@ -16,13 +16,7 @@ type: concept
 
 # Syrian Rue Seeds of Civilization
 
-Syrian Rue (*[[mckenna-food-gods-peganum-harmala-soma]]* L.) is a bushy shrub of the Caltrop family
-(Zygophyllaceae) native to desert areas from western Asia across to
-northern India, with a range extending through Mongolia and Manchuria.
-Though less celebrated than New World hallucinogens, Syrian Rue possesses
-psychoactive beta-carboline alkaloids of profound pharmacological
-significance, serving both as a traditional medicine across vast regions of
-the [[datura-metel-old-world-ethnobotany]] and as a key ingredient in modern ayahuasca analog
+Syrian Rue (*[[datura-metel-old-world-ethnobotany]] and as a key ingredient in modern ayahuasca analog
 preparations.
 
 ## Botanical Description
@@ -42,11 +36,7 @@ bases. These constituents are concentrated in the seeds, which constitute
 the Indian drug known as Harmal or Harmala. These same beta-carboline
 alkaloids are known to occur in at least eight families of higher plants,
 including the Malpighiaceae, the plant family that contains
-*[[ayahuasca-and-banisteriopsis-caapi]]*, the primary ingredient of ayahuasca.
-
-The beta-carbolines are notable for their monoamine oxidase inhibitor
-(MAOI) properties. This pharmacological characteristic is central to their
-role both in traditional medicine and in [[harner-amazonian-ayahuasca-preparation-methods]], where they
+*[[harner-amazonian-ayahuasca-preparation-methods]], where they
 function to inhibit the enzymatic breakdown of dimethyltryptamine (DMT) in
 the gut, allowing the visionary compound to become orally active.
 

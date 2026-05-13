@@ -29,27 +29,7 @@ The physiological stress response involves a cascade of hormonal signals:
 4. **Adrenal activation**: ACTH stimulates the adrenal cortex to release
    cortisol (the primary glucocorticoid stress hormone) and the adrenal
    medulla to release epinephrine (adrenaline).
-5. **[[emcdda-psilocybin-cardiovascular-risks-acute-physiological-effects]]**: Cortisol and epinephrine produce the classic
-   fight-or-flight response: increased heart rate, blood pressure, blood
-   glucose, alertness, and muscle tension.
-
-Chronic activation of this cascade leads to sustained elevation of stress
-hormones, which damages cardiovascular health, suppresses immune function,
-impairs memory, promotes abdominal fat storage, and disrupts sleep.
-
-## ECS Modulation of the HPA Axis
-
-The endocannabinoid system modulates the stress response at multiple levels:
-
-### Hypothalamic Level
-CB1 receptors are densely expressed on GABAergic interneurons in the
-hypothalamus. Activation of these receptors inhibits GABA release, which
-disinhibits (activates) neurons that suppress CRH release. The net effect
-is reduced activation of the HPA axis and lower cortisol output.
-
-### Amygdala Level
-CB1 receptors in the basolateral amygdala modulate fear and anxiety responses.
-[[2-ag-endocannabinoid-signaling-blesching]] in the amygdala facilitates the extinction of fear
+5. **[[2-ag-endocannabinoid-signaling-blesching]] in the amygdala facilitates the extinction of fear
 memories and reduces the emotional intensity of threat perception. This is the
 neurobiological basis for the anxiolytic (anti-anxiety) effects of cannabis.
 
@@ -90,16 +70,7 @@ Blesching positions anandamide as the central molecule for stress modulation:
 ## Sympathetic-Parasympathetic Balance
 
 The ECS also modulates the balance between the sympathetic (fight-or-flight)
-and parasympathetic (rest-and-digest) branches of the [[endocannabinoid-autonomic-nervous-system-balance-blesching]]:
-
-- **Sympathetic inhibition**: CB1 activation reduces norepinephrine release
-  from sympathetic nerve terminals, decreasing heart rate, blood pressure,
-  and muscle tension.
-- **Parasympathetic facilitation**: The ECS enhances vagal tone (parasympathetic
-  activity), promoting digestion, immune function, and tissue repair. This is
-  mediated partly through CB1 receptors on vagal afferent fibers.
-- **Vagal tone as health indicator**: High vagal tone is associated with
-  better [[anandamide-emotional-regulation-blesching]], social engagement, and physical health.
+and parasympathetic (rest-and-digest) branches of the [[anandamide-emotional-regulation-blesching]], social engagement, and physical health.
   Blesching links vagal tone to the expansive emotional states facilitated
   by endocannabinoid signaling.
 
@@ -107,17 +78,6 @@ and parasympathetic (rest-and-digest) branches of the [[endocannabinoid-autonomi
 
 Understanding ECS-mediated stress reduction has implications for treating:
 
-- **[[cannabis-for-anxiety-disorders]]**: CBD and low-dose THC may reduce anxiety by enhancing
-  anandamide signaling and modulating amygdala activity.
-- **PTSD**: The ECS facilitates extinction of fear memories, making it a
-  target for PTSD treatment. CB1 receptor density in the amygdala is reduced
-  in PTSD patients, suggesting endocannabinoid deficiency.
-- **Insomnia**: By reducing cortisol and sympathetic activation at night, the
-  ECS promotes the physiological conditions necessary for sleep onset and
-  maintenance.
-- **Cardiovascular disease**: Chronic stress is a major risk factor for
-  cardiovascular disease. ECS-mediated stress reduction may provide
-  cardiovascular protection.
 - **[[blesching-cannabis-health-index-autoimmune-conditions]]**: Cortisol suppression of immune function is
   exacerbated by chronic stress. Restoring healthy stress regulation through
   the ECS may improve immune function.
@@ -138,7 +98,5 @@ Blesching emphasizes non-pharmacological approaches to enhancing ECS function:
 ## See Also
 
 - endocannabinoid system stress hormone reduction mechanisms blesching — Direct treatment
-- [[blesching-endocannabinoid-autonomic-nervous-system-adrenal-glands]] — ANS regulation
 - [[epinephrine-stress-response-endocannabinoid-modulation-blesching]] — Epinephrine modulation
-- [[blesching-gaba-endocannabinoid-system-anxiety-relaxation]] — GABA interaction
 - [[blesching-conscious-intervention-stress-hormone-reduction-endocannabinoid]] — Interventions

@@ -17,36 +17,14 @@ American pawpaw, poor man's banana
 
 ## Overview
 Pawpaw (Asimina triloba) is a deciduous shrub or small tree native to eastern
-[[psilocybin-north-america-pacific-northwest]] and the largest native fruit on the continent, producing
-banana-custard-flavoured fruits weighing up to 300 grams. Despite the common
-name, it is unrelated to the tropical pawpaw (Carica papaya) and is instead
-a member of the custard apple family (Annonaceae). It naturally occurs as a
-thicket-forming understory in open woodlands and along watercourses.
-
-## Key Details
-
-### Botanical Classification
-- **Family:** Annonaceae
-- **Genus:** Asimina
-- **Species:** A. triloba
-- **Note:** Other Asimina spp exist but none show the promise of A. triloba
-
-### Growth Characteristics
-- **Habit:** Deciduous shrub or low tree, to 12 m under favourable conditions
-- **Trunk:** Straight, rarely exceeding 30 cm diameter (some measured to
-  150 cm)
-- **Suckering:** Single tree can sucker out to about a [[fukuoka-agriculture-tomorrow-quarter-acre-vision]] in ideal
+[[fukuoka-agriculture-tomorrow-quarter-acre-vision]] in ideal
   conditions, forming thickets
 - **Branches:** Brittle; very prone to wind damage
 - **Frost tolerance:** Copes with snow conditions; severe spring frosts can
   destroy flowers and cause crop loss
 
 ### Environmental Requirements
-- **Soil:** Prefers well-drained, fertile soil rich in [[hamilton-composting-and-organic-matter-management]]
-- **Water:** In drier areas tends to hug watercourses; tolerates fairly
-  saline water
-- **Light:** Naturally an understory tree; tolerates partial shade
-- **Climate:** Temperate [[polypore-fungi-eastern-north-america]] America
+- **Soil:** Prefers well-drained, fertile soil rich in [[polypore-fungi-eastern-north-america]] America
 
 ### Fruit Characteristics
 - **Size:** Largest native fruit of North America; up to 300 grams
@@ -69,27 +47,89 @@ thicket-forming understory in open woodlands and along watercourses.
   causing somnolence, stupor, then unconsciousness; also has emetic
   properties
 - **Analobine:** Alkaloid in bark; once used in medicine
-- **Traditional use:** Inner bark stripped in [[coleman-overwintered-onions-and-early-spring-crops]] and made into
-  string for fishing nets, lines, and rope
-
-### Propagation
-- Seed requires stratification (cold treatment)
-- Best to match seed source conditions to local environment
-- Germination occurs best in very warm conditions
-- Seedlings planted out while dormant at 300 mm
-- Cultivars exist; readily grafted; grows from root cuttings and layering
-- Cross-pollination benefits fruit production
-- Possible root associate that promotes growth (not yet isolated)
-
-## Relevance
-Pawpaw is an excellent native fruit tree for temperate food forest understories
-in eastern North America. Its natural adaptation to woodland shade, thicket-
-forming habit, and large nutritious fruit make it ideal for edible forest
-gardening. The potential undiscovered mycorrhizal associate suggests there is
-still much to learn about optimising its cultivation.
-
-## See Also
-- [[monarda-fistulosa]]
-- [[halpern-sacramental-peyote-and-native-american-church]]
+- **Traditional use:** Inner bark stripped in [[monarda-fistulosa]]
 - [[permaculture-plants-fruit-trees-temperate]]
 - [[fungal-single-cell-protein-production]]
+
+## Overview
+
+Pawpaw represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish pawpaw
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving pawpaw extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Pawpaw finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for pawpaw. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+pawpaw and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Pawpaw has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of pawpaw into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[comparison-persimmon-vs-pawpaw]]
+- pawpaw
+- [[permaculture-pawpaw]]

@@ -61,16 +61,7 @@ particularly relevant for organocyanide compounds used in industrial synthesis.
 
 ## Key Fungal Genera in Cyanide Biodegradation
 Several fungal genera have demonstrated significant cyanide-degrading
-capabilities, each employing distinct [[fungal-saprotrophic-enzymatic-strategies]] adapted to their
-ecological niches and metabolic capacities:
-
-- **Fusarium species**: [[fusarium-oxysporum]] and [[fusarium-solani]] have been
-  extensively studied for cyanide degradation. These species produce cyanide
-  hydratase, which converts HCN to formamide. Fusarium oxysporum strains
-  isolated from cyanide-contaminated mining effluents show enhanced degradation
-  rates compared to laboratory strains, suggesting adaptive enzyme regulation.
-
-- **Trichoderma species**: [[trichoderma-harzianum]] and Trichoderma viride
+capabilities, each employing distinct [[fusarium-oxysporum]] and [[trichoderma-harzianum]] and Trichoderma viride
   exhibit robust cyanide tolerance and degradation activity. These fungi are
   commonly found in soils near metal-processing facilities and can tolerate
   cyanide concentrations that inhibit most other microorganisms. Their cell
@@ -84,42 +75,6 @@ ecological niches and metabolic capacities:
 
 - **Penicillium species**: Penicillium citrinum and related species have
   been identified in cassava processing environments where cyanogenic
-  glycosides release HCN during root fermentation. These [[query-how-do-fungi-contribute-to-carbon-sequestration]]
-  natural detoxification in traditional food processing systems.
-
-## Mechanisms of Cyanide Tolerance
-
-## Practical Applications
-
-The principles and techniques discussed here have wide-ranging applications
-across multiple disciplines and contexts. Practitioners and researchers
-continue to explore new ways to integrate these concepts into modern practice,
-adapting traditional knowledge to contemporary challenges and opportunities.
-
-## Key Considerations
-
-Several important factors influence the effectiveness and outcomes described
-in this topic. Understanding these considerations helps practitioners make
-informed decisions and avoid common pitfalls. Environmental conditions,
-timing, and material selection all play critical roles.
-
-## Historical Context
-
-The historical development of this subject reflects centuries of accumulated
-knowledge and practical experience. From traditional methods passed down
-through generations to modern scientific approaches, the evolution continues
-to inform current best practices and research directions.
-
-## Common Challenges
-
-Practitioners frequently encounter several challenges when working with
-these concepts. Climate variability, resource limitations, and knowledge
-gaps can all affect outcomes. Addressing these challenges requires patience,
-observation, and a willingness to adapt approaches based on results.
-
-## See Also
-- [[fungal-cyanide-degradation]]
-- [[det]]
+  glycosides release HCN during root fermentation. These [[fungal-cyanide-degradation]]
 - [[fusarium-oxysporum]]
-- [[trichoderma]]
 - [[aspergillus-niger]]

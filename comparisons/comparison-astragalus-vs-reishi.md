@@ -21,29 +21,6 @@ applications.
 
 ## Astragalus
 
-[[astragalus-membranaceus]]
-
-Astragalus, known as Huang Qi (黄芪) in Chinese, is a herbaceous perennial
-native to the arid regions of northern China, Mongolia, and Korea. The thick,
-woody taproot is harvested after 4–5 years of growth and serves as the primary
-medicinal part. As one of the most important herbs in TCM, Astragalus functions
-primarily as a Qi tonic that strengthens the Spleen and Lung meridians.
-
-Key active compounds include astragalosides (particularly astragaloside IV),
-polysaccharides, and flavonoids. These constituents provide potent
-immunomodulatory effects, enhancing both innate and adaptive immune function
-through macrophage activation, increased NK cell activity, and modulation of
-cytokine production. Astragalus is particularly valued for its ability to
-strengthen Wei Qi (defensive energy), making it useful for preventing frequent
-infections and supporting convalescence.
-
-Beyond immune support, Astragalus demonstrates significant cardioprotective,
-anti-inflammatory, and anti-aging properties. The herb excels in addressing
-conditions of deficiency—fatigue, poor appetite, spontaneous sweating, and organ
-prolapse—making it a foundational herb for building vital energy and resilience.
-
-## Reishi
-
 [[reishi-ganoderma-lucidum]]
 
 Reishi, known as Ling Zhi (灵芝) in Chinese, is a woody, shelf-like mushroom with
@@ -121,8 +98,6 @@ for the final 20-30 minutes to preserve its delicate compounds.
 
 ## See Also
 
-- [[comparison-ashwagandha-vs-echinacea]]
 - [[comparison-ashwagandha-vs-tulsi]]
-- [[comparison-reishi-vs-chaga-medicinal-mushrooms]]
 - [[comparison-astragalus-vs-echinacea]]
 - [[comparison-panax-ginseng-vs-siberian-ginseng]]

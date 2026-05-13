@@ -7,38 +7,22 @@ updated: 2026-04-28
 sources: []
 type: query
 ---
-## What is spent mushroom substrate? [[mushroom-compost-bed-systems-duggar]] (SMC) or used mushroom blocks — is the leftover growing medium after a mushroom crop has finished fruiting. It typically consists of a base material (straw, sawdust, wood chips, or composted manure) that has been partially decomposed by fungal mycelium. Commercial growers produce tons of SMS after every flush cycle, and home cultivators generate it from monotubs, grow bags, and fruiting blocks.
-
-## Is spent mushroom substrate safe to use in the garden?
-
-Generally yes, with caveats. SMS from edible [[soil-foodweb]] as it breaks down. Keep mulch a few inches away from plant stems to prevent rot.
+## What is spent mushroom substrate? [[soil-foodweb]] as it breaks down. Keep mulch a few inches away from plant stems to prevent rot.
 
 ### As a compost accelerator
 
-Add SMS to your compost pile at **up to 25% by volume**. The residual fungal enzymes kick-start [[ozier-pdc-composting-and-soil-building]]. Apply a thin layer (½ inch) during the transition from veg to flower.
-
-### As a worm bin food source
-
-Red wigglers (Eisenia fetida) thrive on partially decomposed SMS. The [[bioremediation-fungal-biomass-biosorbent-material]] is rich food for worms, and the resulting vermicompost is exceptionally high in plant-available nutrients. Mix SMS with kitchen scraps at a 1:1 ratio in your worm bin.
+Add SMS to your compost pile at **up to 25% by volume**. The residual fungal enzymes kick-start [[bioremediation-fungal-biomass-biosorbent-material]] is rich food for worms, and the resulting vermicompost is exceptionally high in plant-available nutrients. Mix SMS with kitchen scraps at a 1:1 ratio in your worm bin.
 
 ## Which plants benefit most from spent mushroom substrate?
 
 - **Heavy feeders** — tomatoes, peppers, squash, corn, and cannabis respond well to the nutrient boost and improved soil structure
 - **Root crops** — carrots, beets, and potatoes benefit from the loosened soil structure SMS provides
 - **Acid-loving plants** — blueberries, azaleas, and rhododendrons appreciate fresh (uncured) SMS for its lower pH, but monitor carefully
-- **[[stropharia-rugosoannulata]]) or [[cotter-king-stropharia-cultivation]] in outdoor beds, since these species are less selective about substrate. However:
+- **[[cotter-king-stropharia-cultivation]] in outdoor beds, since these species are less selective about substrate. However:
 
 - **Never reuse SMS indoors** for a second flush of the same species — contamination risk is extremely high
 - **Outdoor beds** are more forgiving; bury SMS 2–4 inches deep and inoculate with spawn of the target species
-- **Species compatibility matters** — SMS from wood-loving species (shiitake, reishi) works better for [[stamets-outdoor-wood-chip-bed-mycelium-transplantation]] decomposers, while straw-based SMS suits garden beds and mulch
-
-## How does spent mushroom substrate compare to regular compost?
-
-| Factor | Spent Mushroom Substrate | Regular Compost |
-|--------|-------------------------|-----------------|
-| Fungal biomass | Very high (residual mycelium) | Low to moderate |
-| Enzyme activity | High (cellulases, ligninases) | Moderate |
-| [[hamilton-composting-and-organic-matter-management]] | 40–60% | 30–50% |
+- **Species compatibility matters** — SMS from wood-loving species (shiitake, reishi) works better for [[hamilton-composting-and-organic-matter-management]] | 40–60% | 30–50% |
 | NPK | Low-moderate | Low-moderate |
 | pH (cured) | 6.5–7.5 | 6.0–7.5 |
 | Soil biology boost | Excellent (fungal-dominant) | Good (bacterial-dominant) |

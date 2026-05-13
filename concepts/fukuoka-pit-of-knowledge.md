@@ -11,19 +11,7 @@ sources:
 
 # Fukuoka Pit of Knowledge
 
-In the culminating section of his 1975 [[comparison-natural-farming-vs-permaculture]] speech, [[fukuoka-direct-observation-method]] that underlies all of [[fukuoka-mu-nothingness-philosophy]]:
-
-- The first principle of his thought: "We do not understand; it is not possible to know and understand"
-- The second: "Nothing, no matter what it is, has value in and of itself"
-- The third: "Anything done with the human intellect is worthless; it serves no purpose"
-- "In a word, all is unnecessary"
-- When he arrived at this conclusion, "I lost a standard by which to judge what is true and what is false"
-
-See also: [[fukuoka-scientific-farming-paradoxes]], [[fukuoka-direct-observation-method]], [[fukuoka-errors-human-intellect]], [[fukuoka-critique-laws-agricultural-science]]
-
-## See Also
-
-- [[fukuoka-pit-of-knowledge-fragmented-science]]
+In the culminating section of his 1975 [[fukuoka-direct-observation-method]] that underlies all of [[fukuoka-scientific-farming-paradoxes]], [[fukuoka-errors-human-intellect]], [[fukuoka-pit-of-knowledge-fragmented-science]]
 ## Practical Applications
 
 Fukuoka Pit of Knowledge has a range of practical applications that make it relevant to
@@ -97,8 +85,6 @@ through generations to modern scientific approaches, the evolution continues
 to inform current best practices and research directions.
 
 ## See Also
-- [[doc]]
 - [[det]]
-- [[permaculture]]
 - [[fukuoka-ignorant-agriculture-pit-of-knowledge]]
 - [[fukuoka-pit-of-knowledge-fragmented-science]]

@@ -12,9 +12,7 @@ sources:
 
 ## Principle of Asexual Propagation
 
-Asexual propagation (cloning) preserves genotype because only normal cell division (mitosis) occurs during growth and regeneration. Every [[spore-vs-vegetative-cell-resistance-microwave-sterilization]] in Cannabis has the same genotype (diploid, 2n = 20 chromosomes), so a plant resulting from asexual propagation will have the same genotype as the mother plant and develop identically under the same environmental conditions.
-
-Meristematic areas used for cloning: shoot apex, root tip meristems, and the meristematic cambium layer of the stalk. Clones can be produced from even a [[fungal-single-cell-protein-production]], because every cell possesses the genetic information necessary to regenerate a complete plant.
+Asexual propagation (cloning) preserves genotype because only normal cell division (mitosis) occurs during growth and regeneration. Every [[fungal-single-cell-protein-production]], because every cell possesses the genetic information necessary to regenerate a complete plant.
 
 ## Advantages of Cloning
 
@@ -69,23 +67,8 @@ Initiation usually begins within a week; young roots appear within four weeks. A
 - Leach soil with large amounts of fresh water
 - Withhold nitrogenous fertilizer
 - Allow stock plants to grow in full sunlight
-- Crowd roots to reduce excessive [[cannabis-vegetative-growth-stage]] and allow carbohydrate accumulation
-
-### Method 2: Select Optimal Cutting Location
-- Lower branches that have ceased lateral growth and begun to accumulate starch are best
-- Carbohydrate-to-nitrogen ratio rises moving away from limb tip; do not make cuttings too short
-
-### Method 3: Etiolation
-- Grow stem tissue in total darkness to increase root initiation possibility
-- Starch levels drop, strengthening tissues soften, cell wall thickness decreases, auxin levels rise, undifferentiated tissue forms
-- Wrap selected limbs for several inches above cutting area, two weeks prior to rooting
-- The etiolated end is then unwrapped and inserted into rooting medium
-
-## Related Topics
-
-- [[cannabis-cloning-and-mother-plants]] - Modern cloning techniques
-- [[cannabis-breeding-techniques-acclimatization-trait-fixing-clarke]] - [[cannabis-breeding-techniques-acclimatization-trait-fixing-clarke]]
-- [[plant-tissue-systems-meristematic-ground-vascular-and-dermal]]
+- Crowd roots to reduce excessive [[cannabis-cloning-and-mother-plants]] - Modern cloning techniques
+- [[cannabis-breeding-techniques-acclimatization-trait-fixing-clarke]]
 - [[cannabis-seed-selection-and-strain-types]]
 
 ## Practical Applications
@@ -117,8 +100,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[cannabis-cloning]]
 - [[det]]
-- [[indole]]
 - [[spore]]
 - [[sterilization]]

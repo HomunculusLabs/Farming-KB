@@ -63,13 +63,7 @@ Light intensity diminishes substantially beyond 4 feet from the bulb. A single 1
 
 **Single room**: Simplest approach. Grow vegetative → flower → harvest → clean → start over. Involves downtime between crops.
 
-**Two rooms** (recommended): Vegetative/clone room (¼ the size of flowering room) + dedicated flowering room. When the flowering room is harvested, plants move from [[query-how-to-transition-cannabis-from-vegetative-to-flowering]] room. Eliminates downtime.
-
-**Perpetual harvest**: Take clones daily or weekly. Harvest a few plants every day, replacing each with a rooted cutting. Maximum productivity but requires the most management.
-
-### Heat Management
-
-HID lamps generate approximately 3.41 BTU per watt per hour. A 1000W lamp produces ~3,410 BTU/hr of heat. [[cervantes-reservoir-temperature-management]] is critical:
+**Two rooms** (recommended): Vegetative/clone room (¼ the size of flowering room) + dedicated flowering room. When the flowering room is harvested, plants move from [[cervantes-reservoir-temperature-management]] is critical:
 
 - Day temperature: 70-75°F (21-24°C)
 - Night temperature: 55-60°F (13-16°C)
@@ -89,32 +83,9 @@ Case study: Nigel and Terry achieved a 137% improvement in grams-per-watt by upg
 
 ## Spectrum and Kelvin Temperature
 
-Bulbs with Kelvin temperatures from 3000K to 6500K are suitable for [[arbuscular-mycorrhizal-fungi-cannabis-cultivation]]:
-
-- **3000K (warm)**: Red-heavy spectrum, promotes flowering
-- **4000K (neutral)**: Balanced spectrum, usable for all phases
-- **5500K (daylight)**: Balanced with good CRI, similar to noon sunlight
-- **6000K+ (cool)**: Blue-heavy spectrum, promotes vegetative growth
-
-The Color Rendering Index (CRI) indicates how accurately a light source renders colors compared to natural sunlight (CRI 100). Higher CRI generally correlates with broader spectral output and better plant performance. Noon sunlight has a CRI of 100 and 5300K.
-
-## Efficiency Metrics
-
-Yield is measured in grams per watt (g/W) or grams per square meter (g/m²). These are the standard benchmarks for comparing grow system efficiency:
-
-- **Average indoor**: 0.25-0.5 g/W
-- **Good setup**: 0.5-1.0 g/W
-- **Optimized**: 1.0-1.5 g/W
-- **Elite**: 1.5+ g/W
-
-A 12.5 kg harvest from 8,400 watts equals 1.49 g/W. Power efficiency is improved by better reflectors, optimal light placement, CO₂ enrichment, and proper [[chen-maitake-growth-parameters-environmental-control]]. Space efficiency (g/m²) provides an alternative perspective — the same harvest from 24 m² yielded 521 g/m², a 65% improvement from the first crop.
+Bulbs with Kelvin temperatures from 3000K to 6500K are suitable for [[chen-maitake-growth-parameters-environmental-control]]. Space efficiency (g/m²) provides an alternative perspective — the same harvest from 24 m² yielded 521 g/m², a 65% improvement from the first crop.
 
 ## CFL and Supplemental Lighting
 
-[[cervantes-compact-fluorescent-lighting]] lamps (CFLs) serve well for clone chambers, mother plants, and early vegetative growth where lower intensity is acceptable. A 55W CFL in a single reflector provides adequate light for mothers and clones in a perpetual harvest setup. CFLs produce minimal heat and can be placed very close to plants, but their lower output limits use to small-scale applications and supplemental side-lighting.
-
-## See Also
-
-- [[marijuana-horticulture-cervantes-harvesting-and-curing]] — light affects [[cannabis-trichome-development-cannabinoid-biosynthesis-sites]]
-- [[marijuana-horticulture-cervantes-nutrient-deficiencies-and-disorders]] — light intensity affects nutrient uptake rates
+[[marijuana-horticulture-cervantes-harvesting-and-curing]] — light affects [[marijuana-horticulture-cervantes-nutrient-deficiencies-and-disorders]] — light intensity affects nutrient uptake rates
 - [[marijuana-horticulture-cervantes-pest-management-ipm]] — environmental control reduces pest pressure

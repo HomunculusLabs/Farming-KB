@@ -8,15 +8,7 @@ type: concept
 
 ## Overview
 
-Tropical soils present unique challenges for sustainable agriculture. Unlike temperate soils that are renewed by glaciation, most tropical soils are ancient, deeply weathered, and heavily leached. Understanding their chemistry and developing appropriate management strategies is essential for any [[permaculture-design]] in tropical and subtropical regions.
-
-## Fundamental Characteristics of Tropical Soils
-
-Most tropical soils are old, deeply leached, and deficient in silica and calcium. In the oxidic kaolinitic soils common on weathered volcanics, only kaolin clays and oxides of iron and aluminium remain. When forest is cleared, humic particles leach out to approximately 30% of prior levels, and infertility rapidly appears in crops such as banana and sugar cane.
-
-### Cation Exchange Capacity (CEC)
-
-In tropical clays, aluminium ions substitute for some silica ions, giving soil particles a net negative charge. The [[cation-exchange-capacity]] (CEC) — the soil's ability to hold nutrients against leaching — is directly affected by pH. As pH increases (becomes more alkaline), the negative charge on soil particles increases, improving their ability to retain calcium, sodium, and phosphates. This relationship between pH and CEC is a critical factor in tropical soil management.
+Tropical soils present unique challenges for sustainable agriculture. Unlike temperate soils that are renewed by glaciation, most tropical soils are ancient, deeply weathered, and heavily leached. Understanding their chemistry and developing appropriate management strategies is essential for any [[cation-exchange-capacity]] (CEC) — the soil's ability to hold nutrients against leaching — is directly affected by pH. As pH increases (becomes more alkaline), the negative charge on soil particles increases, improving their ability to retain calcium, sodium, and phosphates. This relationship between pH and CEC is a critical factor in tropical soil management.
 
 ## Strategies for Restoring Tropical Soil Fertility
 
@@ -34,7 +26,7 @@ Humus provides a good CEC and must be a priority. Key approaches include:
 
 ### Coral Cay Soils
 
-On coral cays, calcium-rich sands bind with phosphate to form insoluble calcium triphosphate, creating a sort of cement (platin or calcrete). Superphosphate accelerates this process due to its greater solubility. Fine rock phosphate, which releases more slowly, provides better long-term benefits on calcium-rich tropical soils. Returning crop wastes as mulch can reduce pH in coral sands from 8–9 to 6.5–7, which is suitable for gardens.
+On coral cays, calcium-rich sands bind with phosphate to form insoluble calcium triphosphate, creating a sort of cement (platin or calcrete). Superphosphate accelerates this process due to its greater solubility. Fine [[rock-phosphate]], which releases more slowly, provides better long-term benefits on calcium-rich tropical soils. Returning crop wastes as mulch can reduce pH in coral sands from 8–9 to 6.5–7, which is suitable for gardens.
 
 ### Volcanic Soils
 
@@ -86,6 +78,5 @@ The practical approach is to observe and report which useful crops are left alon
 
 ## See Also
 
-- [[soil-ph]]
 - [[plant-micronutrient-functions]]
 - [[legume-nitrogen-fixation-mechanism]]

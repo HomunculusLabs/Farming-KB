@@ -12,12 +12,7 @@ sources:
 
 # Direct-Seeded No-Tillage Rice-Barley Clover Succession
 
-The direct-seeded, no-tillage, [[direct-seeded-no-tillage-rice-winter-grain-succession]] and rice succession in a [[fukuoka-clover-cover-cropping-soil-ecology]] is Masanobu Fukuoka's signature [[natural-farming]] philosophy. Fukuoka summarized the entire method as "the symbiosis of [[fukuoka-rice-and-barley-natural-farming]] or wheat in clover." The system works because it cooperates with natural processes rather than attempting to override them. Human effort is unnecessary because nature, not man, grows the rice and wheat. The farmer's role is reduced to [[fukuoka-sowing-seed-ball-desert-revegetation]] and spreading straw — the minimum intervention needed to maintain the cycle.
-
-## See Also
-
-- [[fukuoka-textdoc-matter-spirit-unity-food]]
-- [[fukuoka-clay-pellet-desert-greening]]
+The direct-seeded, no-tillage, [[fukuoka-clover-cover-cropping-soil-ecology]] is Masanobu Fukuoka's signature [[fukuoka-rice-and-barley-natural-farming]] or wheat in clover." The system works because it cooperates with natural processes rather than attempting to override them. Human effort is unnecessary because nature, not man, grows the rice and wheat. The farmer's role is reduced to [[fukuoka-textdoc-matter-spirit-unity-food]]
 - [[query-how-do-i-use-cover-crops-to-improve-soil-health]]
 ## Practical Applications
 
@@ -97,8 +92,6 @@ through generations to modern scientific approaches, the evolution continues
 to inform current best practices and research directions.
 
 ## See Also
-- [[fukuoka-direct-seeded-no-tillage-rice-barley-clover-succession]]
 - [[direct-seeded-no-tillage-rice-barley-succession-in-clover]]
-- [[direct-seeded-notillage-rice-barley-clover-succession]]
 - [[direct-seeded-no-tillage-rice-barley-succession]]
 - [[fukuoka-direct-seeded-no-tillage-rice-barley-method]]

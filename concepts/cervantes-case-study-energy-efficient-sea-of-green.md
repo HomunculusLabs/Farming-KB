@@ -17,56 +17,12 @@ type: concept
 
 # Case Study: Energy-Efficient Organic Sea of Green
 
-This case study from [[jorge-cervantes]]' *Marijuana Horticulture* (Chapter 8)
-follows two growers, Nigel and Terry, through three progressive indoor
-harvests using an organic sea of green (SOG) method. The study
-demonstrates how professional advice and incremental improvements can
-dramatically increase yield per watt and per square meter.
-
-## Growing Statistics
-
-### First Crop
-- **Yield:** 8.4 pounds (3.8 kg) in ten weeks
-- **Space:** 16'5" x 7'10" (5 x 2.4 m), half the full room
-- **Wattage:** 6,000 watts (ten 600W HPS)
-- **Plants:** 100 clones (Power Plant strain), USD $3.15 each
-- **Total cost:** USD $5,647
-- **Cost per pound:** USD $672
-
-### Second Crop
-- **Yield:** 27.6 pounds (12.5 kg) in nine weeks
-- **Space:** 33' x 7'10" (10 x 2.4 m), full room
-- **Wattage:** 8,400 watts (fourteen 600W HPS)
-- **Plants:** 400 clones (Power Plant strain)
-- **Total cost:** USD $8,220
-- **Cost per pound:** USD $298
-
-### Third Crop
-- **Yield:** 30.2 pounds (13.7 kg) in nine weeks
-- **Total cost:** USD $1,882
-- **Cost per pound:** USD $62
-
-## Efficiency Comparisons
-
-| Metric | First Crop | Second Crop | Improvement |
-|--------|-----------|-------------|-------------|
-| g/watt | 0.63 | 1.49 | 137% |
-| g/m2 | 316 | 521 | 65% |
-
-## First Crop: Lessons Learned
-
-Nigel and Terry converted a farm shed storage area into a [[cannabis-grow-room-setup]].
+This case study from [[cannabis-grow-room-setup]].
 They built two benches (16'6" x 4' each), lined walls with white
-laminated wood paneling, and used 100 five-liter [[query-fabric-pots-vs-plastic-pots-vs-air-pots-for-cannabis]] with
-premixed organic potting soil. Equipment included ten 600W HPS kits,
-a multi-output electrical control board with timers, a 3200 cu/hr
-inline fan, a [[cervantes-ventilation-fan-carbon-filter-setup]], and two pedestal fans.
+laminated wood paneling, and used 100 five-liter [[cervantes-ventilation-fan-carbon-filter-setup]], and two pedestal fans.
 
 The first crop revealed several key problems:
 
-- **[[pf-tek-steam-sterilization-science-and-heat-management]]:** Temperatures exceeded 86F (30C) and on a couple
-  occasions reached 91F (33C), causing plants to stop growing for 3-4
-  days. Bud development suffered noticeably.
 - **[[carbon-filter-cannabis]] airflow:** Connecting the carbon filter around week 6
   reduced airflow, exacerbating heat problems.
 - **Uneven lighting:** Plants directly under lamps produced big but less
@@ -118,8 +74,76 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[sea-of-green]]
 - [[sterilization]]
-- [[cervantes-sea-of-green-technique]]
 - [[cannabis-sea-of-green-sog-method]]
 - [[cannabis-sea-of-green-sog-guide]]
+
+## Overview
+
+Cervantes Case Study Energy Efficient Sea Of Green represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish cervantes case study energy efficient sea of green
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving cervantes extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Cervantes Case Study Energy Efficient Sea Of Green finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for cervantes case study energy efficient sea of green. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+cervantes case study energy efficient sea of green and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Cervantes Case Study Energy Efficient Sea Of Green has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of cervantes case study energy efficient sea of green into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.

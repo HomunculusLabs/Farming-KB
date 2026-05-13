@@ -10,69 +10,14 @@ tags: [cannabis, harvesting]
 
 # Harvest Window Cannabis
 
-The harvest window is the optimal period of 5-7 days during which [[query-what-causes-airy-loose-cannabis-buds-and-how-to-prevent-them]] reach
-peak ripeness for harvest. Harvesting at the right time is critical because growth stops
-at harvest -- THC content cannot increase and will only decrease afterward. Proper
-handling from this point forward determines the quality of the final product.
-
-## Trichome Ripeness
-
-The most reliable indicator of harvest readiness is the appearance of resin glands
-(trichomes) under magnification (30x-100x):
-
-- **Clear trichomes:** Not yet ripe; THC is still developing; harvest is premature
-- **Milky/cloudy white trichomes:** Peak THC production; this is the ideal harvest
-  time for maximum potency and a cerebral high
-- **Amber trichomes:** THC begins degrading to CBN; produces a more sedative, body
-  high; some growers wait for partial amber for specific effects
-
-The best time to harvest is when trichomes have developed a spherical head and have
-turned from clear to milky white. Harvest when approximately half (50 percent) of the
-trichomes have turned milky for a balanced effect.
-
-## Pistil Color as a Secondary Indicator
-
-Pistil (hair) color provides a less precise but still useful harvest indicator:
-
-- **Mostly white pistils:** Not ready; buds are still developing
-- **50 percent pistils darkened and curled:** Approaching harvest window
-- **70-90 percent pistils darkened:** Within the harvest window
-- **All pistils darkened and receded:** Late harvest; potency may be declining
-
-When female flowering is at its zenith, pistils swell and swell. Soon they change in
-color, most often from white to amber and, eventually, to reddish brown. Pistil color
-alone is not definitive because some strains naturally have darker pistils earlier.
-Trichome observation is the preferred method.
-
-## Strain Variation
-
-Indica/sativa crosses are typically ready 6-10 weeks after inducing flowering. Indica-
-dominant strains finish faster (6-8 weeks). More sativa-dominant crosses may need 10 or
-more weeks. Pure sativa varieties can take four months. Commercial growers sometimes
-harvest early (6 weeks) to fit in an extra crop per year, though this sacrifices peak
-potency.
-
-## Early vs. Late Harvest Effects
-
-- **Early harvest:** Higher THC-to-CBN ratio; more energetic, cerebral high; less
-  yield; less complex flavor
-- **Peak harvest:** Maximum THC content; balanced effects; best overall quality
-- **Late harvest:** More CBN (degraded THC); heavier, more sedative body high;
-  increased yield weight but potentially less potent
-
-## Pre-Harvest Checklist
-
-1. **Flush plants** 10-14 days before harvest with plain water or a clearing solution
-   (see [[drying-cannabis]]
+The harvest window is the optimal period of 5-7 days during which [[drying-cannabis]]
 3. **Control fragrance** -- keep drying and work areas well-ventilated; use
-   [[drying-cannabis]] and [[drying-cannabis]] phase. Lower temperatures slightly and
+   [[drying-cannabis]] phase. Lower temperatures slightly and
 increase airflow. Ensure the drying space is prepared and ready before cutting plants.
 
 ## See Also
 
-- [[curing-cannabis]] -- developing full flavor and potency
 - [[flowering-phase-cannabis]] -- the stage preceding harvest
-- [[cannabis-nutrient-lockout-and-ph]] -- nutrient status at harvest
 - [[jadam-leaf-mold-soil-method]]
 ## Practical Considerations
 
@@ -122,8 +67,83 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[dom]]
 - [[det]]
-- [[cannabis-subjective-therapeutic-window-dosing]]
 - [[blesching-cannabis-therapeutic-window-methodology]]
 - [[blesching-cannabis-therapeutic-window-dosing]]
+
+## Overview
+
+Harvest Window Cannabis represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish harvest window cannabis
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving harvest extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Harvest Window Cannabis finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for harvest window cannabis. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+harvest window cannabis and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Harvest Window Cannabis has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of harvest window cannabis into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.

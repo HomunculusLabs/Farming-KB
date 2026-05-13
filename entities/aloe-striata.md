@@ -109,13 +109,8 @@ The species has no serious pest or disease problems when grown in appropriate co
 
 ## See Also
 
-- [[aloe-vera]]
 - [[aloe-ferox]]
-- [[aloe-arborescens]]
 - [[aloe-aristata]]
-- [[portulacaria-afra]]
 - [[crassula-ovata]]
-- [[aeonium-arboreum]]
 - [[bulbine-frutescens]]
-- [[echeveria-agavoides]]
 - [[agave-americana]]

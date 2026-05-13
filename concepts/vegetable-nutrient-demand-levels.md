@@ -18,7 +18,7 @@ type: concept
 
 ## Overview
 
-[[steve-solomon]] classifies vegetables into three tiers based on their soil fertility requirements: low-demand, medium-demand, and high-demand. This classification system is central to his approach in [[complete-organic-fertilizer-cof]]. No additional side-dressing is necessary.
+[[complete-organic-fertilizer-cof]]. No additional side-dressing is necessary.
 
 ### Root Crops
 - **Carrots**: Perform best in deeply dug, loose soil with moderate fertility. Excess nitrogen causes hairy, forked roots rather than large, clean ones. They are among the most space-efficient vegetables, producing well in closely spaced rows.
@@ -35,21 +35,11 @@ type: concept
 
 ## Medium-Demand Vegetables
 
-Medium-demand vegetables produce satisfactory results with the basic fertility program, but will grow significantly better with periodic side-dressings of COF or other [[hamilton-concentrated-organic-fertilizer-products]] nutrients. These are the workhorse crops of the [[fukuoka-dutch-priest-vegetable-garden-spiritual-renewal]].
+Medium-demand vegetables produce satisfactory results with the basic fertility program, but will grow significantly better with periodic side-dressings of COF or other [[fukuoka-dutch-priest-vegetable-garden-spiritual-renewal]].
 
 ### Cole Crops
 - **Cabbage**: Requires generous spacing — Solomon recommends at least 24 inches between plants. Yield per plant is directly proportional to the space allocated. Overcrowded cabbage produces small, loose heads. Fall cabbage generally performs better than spring cabbage in most climates.
-- **Broccoli**: Produces a central head followed by side shoots. Continuous production requires steady [[ph-and-nutrient-availability-garden-soils]], making side-dressing valuable.
-- **Kale**: Extremely cold-hardy; improves in flavor after frost. One of the most productive leafy greens per square foot.
-- **Kohlrabi**: Forms an edible bulb above ground on a short stem. Sensitive to root maggots like other brassicas, but the thickened stem is partially resistant. Requires about four square feet per plant for seed production.
-
-### Alliums
-- **Onions** (bulb): Require loose, well-drained soil. On clay soils, prepare beds with a two-inch layer of compost or well-rotted manure. Solomon recommends 18-inch between-row spacing to enhance air circulation and reduce fungal disease. Straight-shanked varieties are easier than globe types.
-- **Garlic**: Planted in autumn for harvest the following summer. Each clove produces a full bulb. Needs well-drained soil and moderate fertility; excessive nitrogen produces lush foliage but smaller bulbs.
-- **Leeks**: Three types exist — autumn (fastest, least cold-hardy), winter (toughest, most cold-hardy, most common in seed catalogs), and spring (bred to bolt late). Leeks must be dug, not pulled. Remarkably cold-hardy.
-
-### Other Medium-Demand Crops
-- **Sweet corn**: Wind-pollinated, requiring a planting area at least two rows wide (six plants minimum) for adequate ear fill. Each plant needs at least 24 square feet. [[cervantes-hybrid-varieties-types]] outproduce open-pollinated types by at least 50 percent, though OP varieties may offer superior nutrition.
+- **Broccoli**: Produces a central head followed by side shoots. Continuous production requires steady [[cervantes-hybrid-varieties-types]] outproduce open-pollinated types by at least 50 percent, though OP varieties may offer superior nutrition.
 - **Beets**: Dual-purpose crop (roots and greens). Side-dressing with COF every few weeks significantly improves root size.
 - **Swiss chard**: Prolific leaf producer throughout the growing season. Individual leaves can be harvested over many weeks without killing the plant.
 - **Potatoes**: Classified as medium-demand, though Solomon cautions against excessive manure or compost, which can cause scab and promote lush foliage at the expense of tuber production. Late varieties yield more than early ones. Certified disease-free seed is essential — saving your own seed leads to progressive virus accumulation and declining yields.
@@ -57,16 +47,7 @@ Medium-demand vegetables produce satisfactory results with the basic fertility p
 
 ## High-Demand Vegetables
 
-High-demand vegetables require the most intensive fertility management. Without substantial inputs of high-quality compost, well-decomposed manure, or concentrated [[hamilton-organic-fertilizers-and-plant-nutrition]] like COF with extra side-dressings, these crops will be disappointing.
-
-### Solanaceous Crops
-- **Tomatoes**: Need substantial nutrients from planting through fruiting. Solomon recommends starting seedlings in ordinary garden soil amended with compost and COF rather than sterile potting mix, because seedlings that thrive in real garden soil from the start are more likely to thrive to the end. Indeterminate varieties produce over a long season; determinate types concentrate their crop.
-- **Peppers** (sweet and hot): Require warm soil and steady nutrition. In cool climates, growing in containers against a heat-reflecting wall can extend the season. Side-dress frequently.
-- **Eggplants**: The most heat-demanding of the solanaceous vegetables. Need the longest frost-free season and the highest sustained fertility.
-
-### Other High-Demand Crops
-- **Celery**: One of the most demanding vegetables in the garden. Requires constantly moist, highly fertile soil. Growing celery successfully without substantial compost or COF inputs is nearly impossible.
-- **Cauliflower**: Extremely demanding of both nutrients and consistent moisture. Any stress (drought, [[cannabis-grow-nutrient-deficiency-problem-solving]], temperature fluctuation) can cause buttoning (forming tiny heads instead of full curds). Weaker-rooting varieties are particularly susceptible to cabbage maggot damage.
+High-demand vegetables require the most intensive fertility management. Without substantial inputs of high-quality compost, well-decomposed manure, or concentrated [[cannabis-grow-nutrient-deficiency-problem-solving]], temperature fluctuation) can cause buttoning (forming tiny heads instead of full curds). Weaker-rooting varieties are particularly susceptible to cabbage maggot damage.
 - **Melons**: Require warm soil, full sun, and high fertility. In short-season climates, starting transplants is essential.
 - **Winter squash and pumpkins**: Large-vining crops that need substantial space and nutrition to produce well. Each hill should be enriched with compost and COF.
 
@@ -87,3 +68,82 @@ The demand-level system has practical consequences for garden planning:
 6. **Observation-based adjustment**: Solomon urges gardeners to let plant performance guide fertility decisions. If a crop shows deficiency symptoms (yellowing leaves, stunted growth, poor fruit set), it is telling you its demand level has not been met. Respond by increasing inputs for that crop or bed next season. If a crop produces excessive foliage but poor fruit or root development, it may be receiving too much nitrogen relative to phosphorus and potassium.
 
 ## Fertility Requirements in Practice
+
+## Overview
+
+Vegetable Nutrient Demand Levels represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish vegetable nutrient demand levels
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving vegetable extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Vegetable Nutrient Demand Levels finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for vegetable nutrient demand levels. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+vegetable nutrient demand levels and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Vegetable Nutrient Demand Levels has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of vegetable nutrient demand levels into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also

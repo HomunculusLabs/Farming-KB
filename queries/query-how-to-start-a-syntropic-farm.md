@@ -18,9 +18,7 @@ type: query
 
 # How to Start a Syntropic Farm
 
-## What is [[syntropic-agriculture]] and is it right for my land?
-
-[[query-what-is-syntropic-agriculture-and-how-do-i-start]] is a regenerative farming method developed by Ernst Götsch that mimics natural forest succession to produce food while regenerating soil and ecosystem health. It works best on land where you want to establish long-term productive agroforestry. It suits tropical and subtropical climates best, though temperate adaptations are emerging. If you have even a small plot (100 sqm or more), access to diverse plant species, and willingness to learn through observation, syntropic farming can work for you. It is particularly effective on degraded or eroded land.
+## What is [[query-what-is-syntropic-agriculture-and-how-do-i-start]] is a regenerative farming method developed by Ernst Götsch that mimics natural forest succession to produce food while regenerating soil and ecosystem health. It works best on land where you want to establish long-term productive agroforestry. It suits tropical and subtropical climates best, though temperate adaptations are emerging. If you have even a small plot (100 sqm or more), access to diverse plant species, and willingness to learn through observation, syntropic farming can work for you. It is particularly effective on degraded or eroded land.
 
 ## What do I need before starting?
 
@@ -71,27 +69,7 @@ Total startup cost: roughly $1,000–4,000 per hectare for the planting itself. 
 This is a central design feature of syntropic agriculture, not an afterthought. Income streams by phase:
 
 - **Year 1–2**: Annual vegetables, herbs, and short-cycle crops in the understory. Bananas and papayas produce within 12–18 months in the tropics.
-- **Year 2–5**: Short-cycle fruits (citrus, passion fruit, berries), firewood from pioneer pruning, [[dry-gardening-unirrigated-vegetable-production-solomon]] continues.
-- **Year 5–15**: Medium-cycle fruits (avocado, mango, jackfruit), selected timber harvests.
-- **Year 15+**: Long-cycle timber, climax fruit and nut crops, ongoing understory production.
-
-The key is that income begins immediately and increases over time.
-
-## Can I practice syntropic agriculture in a temperate climate?
-
-Yes, with significant adaptation. The core principles — managed succession, strategic pruning, dense polyculture, organic matter cycling — transfer well. The main adaptations needed:
-
-- Use temperate-adapted pioneer species (black locust, alder, Siberian pea shrub, eleagnus).
-- Expect slower succession and longer pruning cycles (prune annually rather than multiple times per year).
-- Plan for winter dormancy — understory production pauses in cold months.
-- Focus on cold-hardy fruit and nut species for the productive tree component.
-- Start with maximum biomass accumulation to build soil quickly during the growing season.
-
-## How do I learn syntropic agriculture properly?
-
-1. **Read the foundational material**: Seek out translations of Götsch's writings and documentation from his farm, Fazenda Olhos D'Água.
-2. **Take a course**: In-person courses with experienced practitioners are the most effective learning method. Look for courses offered by organizations connected to Götsch's network or regional syntropic farming groups.
-3. **Visit established systems**: Seeing a functioning syntropic farm in person is transformative. Contact local [[regenerative-agriculture]] tive agriculture networks.
+- **Year 2–5**: Short-cycle fruits (citrus, passion fruit, berries), firewood from pioneer pruning, [[regenerative-agriculture]] tive agriculture networks.
 4. **Start small and observe**: Nothing replaces direct experience. Plant a small area and spend time watching how the plants interact, compete, and succeed each other.
 5. **Connect with other practitioners**: Online communities, social media groups, and local farming networks can provide support and shared learning.
 
@@ -110,30 +88,9 @@ Syntropic agriculture has been most extensively practiced and documented in trop
 
 ## How do I manage pests in a syntropic system?
 
-Pest management in syntropic agriculture relies on biodiversity and [[fukuoka-ecological-balance-principles]] rather than chemical or even organic sprays. Key strategies include:
-
-- **Maintain high diversity**: Complex polycultures create habitat for predatory insects and birds that keep pest populations in check.
-- **Use aromatic and pest-repellent species**: Integrate plants like neem, lemongrass, marigold, and alliums throughout the system.
-- **Accept some pest presence**: Complete pest elimination is neither necessary nor desirable in a balanced ecosystem. The goal is management, not eradication.
-- **Use pruning to improve airflow**: Dense canopies can create humid microclimates favorable to fungal diseases. Strategic pruning maintains airflow.
-- **Monitor and intervene selectively**: When pest outbreaks occur, identify the specific pest and use targeted biological controls rather than broad-spectrum interventions.
-
-## Can syntropic agriculture be combined with livestock?
-
-Yes, and this integration is increasingly common. Livestock can be incorporated into syntropic systems through:
-
-- **Silvopasture**: Integrating grazing animals beneath and between tree rows, with careful management of stocking density and rotation to prevent soil compaction a [[comparison-chicken-tractor-vs-free-range]] systems cken tractor systems**: Moving chicken flocks through fallow areas or between rows to control insects, fertilize soil, and prepare ground for new plantings.
+Pest management in syntropic agriculture relies on biodiversity and [[comparison-chicken-tractor-vs-free-range]] systems cken tractor systems**: Moving chicken flocks through fallow areas or between rows to control insects, fertilize soil, and prepare ground for new plantings.
 - **Pigs for site preparation**: Using pigs to clear and till new areas before establishing syntropic plantings (mimicking natural disturbance).
 - **Ducks and geese**: For slug and snail control in the understory, particularly in humid climates.
 
-The key principle is that [[faires-livestock-integration-permaculture]] must be managed to avoid compaction and overgrazing, which would undermine the soil-building processes that syntropic agriculture depends on.
-
-## How does syntropic farming compare to simply planting a food forest?
-
-A food forest is an end goal — a productive, multi-strata polyculture system. Syntropic agriculture is the **process and management method** for getting there food forest design e food forest design often focuses on the final arrangement of species, syntropic agriculture focuses on actively managing the successional transition from open land to productive forest. It is more interventionist (through pruning) and more temporally managed than most food forest approaches. Think of syntropic agriculture as the engine that drives the food forest toward productivity faster than passive succession would allow.
-
-## See Also
-
-- [[query-what-is-syntropic-agriculture-and-how-do-i-start]]
-- [[query-how-do-i-start-a-no-till-garden-bed]]
+The key principle is that [[query-what-is-syntropic-agriculture-and-how-do-i-start]]
 - [[query-how-to-start-growing-mushrooms-at-home]]

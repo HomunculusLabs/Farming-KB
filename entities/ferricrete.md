@@ -7,57 +7,7 @@ tags: [soil, geology, permaculture, concretion, iron, hardpan]
 
 ## Description
 
-Ferricrete refers to iron-cemented pans and soil layers of varying thickness, sometimes occurring as thin sandy layers of only 5–10 mm. It encompasses a range of iron-rich hardpans including alumina-iron laterites, iron-manganese nodular horizons, and various duricrusts. Ferricrete may lie over pale bauxites and is also known by the terms ironstone, [[plinthite]], and [[ortstein]] (when occurring in podzol soils). A specific variant, [[coffeerock]], is a thick sandy coffee-coloured horizon rich in iron that is relatively easily broken, common in humic podzol soils.
-
-The formation of ferricrete involves the dissolution, translocation, and precipitation of iron oxides within the soil profile. In tropical and subtropical regions with alternating wet and dry seasons, iron is mobilised during wet periods and precipitates as hard cement during dry periods, gradually forming an impermeable pan. This process is accelerated by deforestation and erosion, which expose iron-rich subsoils to oxidising conditions.
-
-## Classification
-
-- **Category:** Soil concretion / hardpan
-- **Composition:** Iron oxides, alumina-iron laterites, iron-manganese nodules
-- **Related terms and subtypes:**
-  - **Ironstone** — general term for iron-cemented hardpan
-  - **Plinthite** — iron-rich, humus-poor material that hardens irreversibly on exposure to air
-  - **Ortstein** — iron-organic hard B horizon in podzol soils
-  - **Coffeerock** — thick, sandy, coffee-coloured iron-rich horizon in humic podzols; easily broken
-  - **Duricrust** — hard silica-iron caps on hills in deserts
-  - **Laterite** — alumina-iron variant common in tropics
-- **Thickness range:** From 5 mm thin layers to massive deposits metres thick
-- **Geographic occurrence:** Desert hills, tropical rainforest subsoils, podzol landscapes, lateritic plateaus
-
-## Key Facts
-
-- Can range from 5 mm thin layers to massive deposits metres thick
-- Often caps desert hills with veins of silcrete running through it
-- Ortstein forms in podzols as iron-organic cemented B horizons
-- Coffeerock is relatively easily broken compared to other ferricretes, making it the most manageable variant
-- In Ecuador, iron-silica pans (cangagua) lie 3 m below tropical rainforest; exposure after deforestation is devastating
-- Ferricrete may indicate underlying bauxite deposits (aluminium ore)
-- Plinthite hardens irreversibly upon exposure — once exposed, it cannot be softened again
-- Iron-manganese nodular horizons are a distinctive variant found in certain soil types
-
-## Relevance to Cultivation
-
-Ferricrete layers impede root penetration and water movement, similar to other soil concretions (calcrete, silcrete). They must be ripped, shattered (sometimes with explosives), or bypassed using deep mulch pits to establish productive plantings. The presence of ferricrete at depth is a critical reason why clearing tropical rainforest is destructive — once the organic topsoil is lost, the exposed ferricrete becomes a near-permanent barrier to revegetation.
-
-Where ferricrete is known to exist beneath forests, Mollison recommends perpetual forests used for non-timber products (honey, fruits, medicines) as the only sustainable land use. This has profound implications for land use planning in tropical regions, where ferricrete and lateritic hardpans underlie millions of hectares of productive forest.
-
-## Management Approaches
-
-- Ripping or explosive shattering of the pan
-- Deep mulch pits to establish trees through the layer
-- Avoid clearing forest over known ferricrete subsoils
-- Use of deep-rooted pioneer species to gradually break through thinner layers
-- Coffeerock variants may be broken manually with hand tools
-- Terracing and organic matter addition on exposed ferricrete slopes
-
-## Related Entities
-
-- Calcrete — calcium-cemented hardpan (caliche, platin)
-- Silcrete — silica-cemented hardpan (cangagua)
-- Dolomite — lime amendment for acid soils above ferricrete
-- Bentonite — clay for soil improvement in sandy soils over ferricrete
-- Earthworms — [[soil-biota]] for long-term soil structure improvement
+Ferricrete refers to iron-cemented pans and soil layers of varying thickness, sometimes occurring as thin sandy layers of only 5–10 mm. It encompasses a range of iron-rich hardpans including alumina-iron laterites, iron-manganese nodular horizons, and various duricrusts. Ferricrete may lie over pale bauxites and is also known by the terms ironstone, [[ortstein]] (when occurring in podzol soils). A specific variant, [[soil-biota]] for long-term soil structure improvement
 
 ## Practical Applications
 
@@ -72,10 +22,85 @@ and long-term management goals. Integration with broader design frameworks enhan
 both resilience and productivity of the overall system.
 
 ## See Also
-- [[mollison-designers-pioneer-species-for-exhausted-tropical-soils]]
 - [[mollison-designers-humus-building-and-soil-organic-matter]]
-- [[mollison-humus-and-organic-matter-in-soils]]
 - [[humus-formation-and-soil-organic-matter]]
 - [[mollison-pdc-forest-management-products]]
 
 Continued research into ferricrete expands the knowledge base for ecological design.
+
+## Overview
+
+Ferricrete represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish ferricrete
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving ferricrete extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Ferricrete finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for ferricrete. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+ferricrete and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Ferricrete has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of ferricrete into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.

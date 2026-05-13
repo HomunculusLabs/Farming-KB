@@ -8,11 +8,10 @@ sources: []
 ---
 # Cannabis Nutrient Regimens Comparison
 
-[[green-cannabis-grow-bible-nutrient-management-ppm]] is the primary lever for yield, flavor, and plant health in [[query-how-does-no-till-cannabis-cultivation-work]]. The choice between organic and synthetic approaches — and the specific system within each category — has cascading effects on terpene production, soil health, long-term cost, and growing complexity. This comparison covers five major nutrient regimens used by home and commercial growers. For soil science fundamentals, see [[soil-food-web-structure]] and [[soil-food-web-structure]] for the biological principles that make organic regimens work.
+[[query-how-does-no-till-cannabis-cultivation-work]]. The choice between organic and synthetic approaches — and the specific system within each category — has cascading effects on terpene production, soil health, long-term cost, and growing complexity. This comparison covers five major nutrient regimens used by home and commercial growers. For soil science fundamentals, see [[soil-food-web-structure]] for the biological principles that make organic regimens work.
 
 ## Related
 
-- [[cannabis-living-soil-amendment-schedule]]
 - [[teaming-with-microbes-soil-food-web-trophic-structure-and-succession]]
 - [[gaias-garden-cover-crops-soil-building]]
 ## Background and Context

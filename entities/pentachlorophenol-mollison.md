@@ -33,10 +33,7 @@ Pentachlorophenol (PCP) is a highly toxic chlorinated phenol compound widely use
 
 ## Biodegradation by Scirpus
 
-Mollison describes a [[biological-water-purification]] system in which:
-
-- **Scirpus spp.** (bulrushes) are specifically noted for their ability to break down phenols, including pentachlorophenol.
-- The mechanism involves both direct plant metabolism and stimulation of [[rhizosphere-microbial-communities]] capable of dechlorinating the compound.
+Mollison describes a [[rhizosphere-microbial-communities]] capable of dechlorinating the compound.
 - Treatment occurs in gravel-based flowthrough systems planted with purifying species, or in lagoons and ditches with longer retention times.
 - This biological approach to PCP remediation avoids the need for chemical treatment or incineration of contaminated water.
 
@@ -50,7 +47,7 @@ Mollison describes a [[biological-water-purification]] system in which:
 ## Relevance to Cultivation and Mycology
 
 - **Phytoremediation**: The ability of Scirpus and other wetland plants to break down PCP demonstrates the potential of biological treatment systems for industrial pollutant cleanup.
-- **Mycoremediation**: Fungi, particularly white-rot fungi such as Phanerochaete chrysosporium, are known to degrade PCP through lignin-degrading enzyme systems. This makes PCP-contaminated sites candidates for combined phyto-myco remediation approaches.
+- **Mycoremediation**: Fungi, particularly white-rot fungi such as [[phanerochaete-chrysosporium]], are known to degrade PCP through lignin-degrading enzyme systems. This makes PCP-contaminated sites candidates for combined phyto-myco remediation approaches.
 - **Permaculture design**: Understanding biocide contamination pathways is essential for designing safe water collection, treatment, and reuse systems.
 - **Organic standards**: PCP residues in soil and water can disqualify land from organic certification, making remediation important for sustainable agriculture.
 
@@ -81,7 +78,5 @@ Climate zone, soil type, water availability, and existing vegetation
 all influence the optimal approach to implementation.
 
 ## See Also
-- [[schoenoplectus-mollison]]
-
 - [[fungal-pentachlorophenol-degradation]]
 - [[singh-pentachlorophenol-fungal-soil-transformation]]

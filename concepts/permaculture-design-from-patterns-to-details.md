@@ -8,9 +8,7 @@ topics: [permaculture, design, patterns, zones, sectors, holmgren]
 
 ## Permaculture Design Principle #7 — "Can't See the Wood for the Trees"
 
-[[david-holmgren]]'s seventh principle addresses the hierarchy of scale in design.
-The proverb warns that attention to detail can obscure the larger patterns that
-give those details meaning. [[mollison-lawn-reform-and-alternatives-in-permaculture-design]], we must first understand the
+[[mollison-lawn-reform-and-alternatives-in-permaculture-design]], we must first understand the
 broad patterns — of landscape, climate, culture, and energy flow — before filling
 in specific details of plantings, structures, and management.
 
@@ -32,14 +30,7 @@ analysis. Zones describe concentric areas of decreasing intensity of management
 around a central point (usually the home):
 
 - **Zone 0**: The home itself — intensive management, highest frequency of visits
-- **Zone 1**: [[culinary-herbs-cultivation-and-kitchen-garden-guide]], herbs, salad greens — visited daily
-- **Zone 2**: Orchard, chickens, main crops — visited several times weekly
-- **Zone 3**: Broadacre crops, pastures, large animals — visited weekly
-- **Zone 4**: Managed forestry, foraging, grazing — visited monthly
-- **Zone 5**: Unmanaged wilderness — visited for observation and harvest
-
-Sectors describe external energies flowing through the site: sun angles, wind
-directions, fire risk, water flow, [[permaculture-designers-manual-wildlife-corridors]], noise, and views. Design
+- **Zone 1**: [[permaculture-designers-manual-wildlife-corridors]], noise, and views. Design
 works to channel beneficial energies (winter sun, summer breezes) and block or
 deflect harmful ones (cold winds, fire, flood).
 
@@ -69,13 +60,7 @@ is high, forest systems naturally emerge and should be encouraged.
 
 ## Scale in Human Settlements
 
-Holmgren extends the patterns principle to human [[cool-climate-settlement-design-mollison]]. The optimal
-scale for various functions differs: individual gardens for vegetables, neighborhood
-scale for orchards and small livestock, community scale for forestry and water
-management, bioregional scale for trade and cultural identity.
-
-He identifies a pattern of "development hills" that must be climbed to reach the
-next [[holmgren-optimum-scale-speed-balance-industrial-post-industrial]]. Small-scale [[dry-gardening-unirrigated-vegetable-production-solomon]] reaches a productivity peak
+Holmgren extends the patterns principle to human [[holmgren-optimum-scale-speed-balance-industrial-post-industrial]]. Small-scale [[dry-gardening-unirrigated-vegetable-production-solomon]] reaches a productivity peak
 that cannot be exceeded without mechanization. But mechanization brings its own
 costs and a new development hill must be climbed to reach the next optimum.
 
@@ -88,3 +73,78 @@ moderate climate and cycle nutrients. The house itself is designed as a passive
 solar system, working with the pattern of seasonal sun angles.
 
 ## Pattern Language in Nature
+
+## Overview
+
+Permaculture Design From Patterns To Details represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish permaculture design from patterns to details
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving permaculture extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Permaculture Design From Patterns To Details finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for permaculture design from patterns to details. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+permaculture design from patterns to details and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Permaculture Design From Patterns To Details has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of permaculture design from patterns to details into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and

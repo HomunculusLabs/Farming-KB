@@ -21,11 +21,9 @@ sources:
 **Coronilla varia** (crown vetch, purple crownvetch) is a perennial
 legume in the family Fabaceae, native to Mediterranean Europe, southwest
 Asia, and North Africa. It forms dense, sprawling mats through rhizomatous
-spread and has been widely planted [[mollison-designers-vetiver-grass-for-erosion-control]] and [[fukuoka-citrus-orchard-ground-cover-cultivation]].
+spread and has been widely planted [[fukuoka-citrus-orchard-ground-cover-cultivation]].
 
-The species was introduced to [[psilocybin-north-america-pacific-northwest]] in the mid-20th century for
-highway bank stabilization and has since naturalized across much of the
-eastern [[dmt-containing-plants-united-states-halpern]] and parts of the Pacific Northwest.
+The species was introduced to [[dmt-containing-plants-united-states-halpern]] and parts of the Pacific Northwest.
 
 Crown vetch fixes atmospheric nitrogen through symbiosis with rhizobia,
 improving soil fertility. However, its aggressive colonial habit has led
@@ -42,29 +40,7 @@ along roadsides and open fields.
   emeroides*, *Coronilla coronata*
 - **Chromosomes:** 2n = 24 (tetraploid)
 
-Plants are [[permaculture-plants-herbaceous-perennials]] growing 30-60 cm tall, with trailing
-stems up to 1.5 m long. Stems are hollow, multi-branched, and
-root at nodes where they contact soil, forming dense mats.
-
-Leaves are pinnately compound with 9-25 elliptic to oblong leaflets,
-each 5-15 mm long. Leaflets are glabrous to slightly pubescent with
-entire margins. Stipules are small and ovate.
-
-Inflorescences are axillary umbels bearing 10-25 flowers each. Flowers
-are pink to white, 8-12 mm long, with a typical papilionoid structure
-(standard, wings, and keel petals). The keel is distinctly beaked.
-
-Fruits are narrow, cylindrical pods 3-6 cm long, containing 3-12
-reniform seeds. Pods dehisce explosively at maturity, dispersing seeds
-several meters from the parent plant.
-
-## Distribution and Habitat
-
-*Coronilla varia* is native to the Mediterranean basin, from Portugal and
-Morocco eastward to Turkey and the Caucasus. It occupies dry grasslands,
-rocky slopes, and open woodland margins in its native range.
-
-In [[guzman-psilocybin-mushrooms-north-america]], it has been widely planted along highways, mine
+Plants are [[guzman-psilocybin-mushrooms-north-america]], it has been widely planted along highways, mine
 reclamation sites, and eroded slopes from the 1950s onward. It has
 escaped cultivation and naturalized across much of the eastern US, from
 New England to Georgia and west to Minnesota and Missouri.
@@ -88,3 +64,80 @@ irregular, taking 2-4 weeks.
 Once established, the plant spreads aggressively by rhizomes and forms
 a dense, nearly monospecific [[fukuoka-ground-cover-strategy]] that suppresses weeds. Full
 canopy closure typically occurs within 2-3 years of planting.
+
+## Overview
+
+Coronilla Varia represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish coronilla varia
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving coronilla extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Coronilla Varia finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for coronilla varia. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+coronilla varia and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Coronilla Varia has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of coronilla varia into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.

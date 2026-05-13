@@ -11,9 +11,7 @@ sources: []
 
 ## Overview
 
-Called maitake ("dancing mushroom"), hen-of-the-woods, or kumotake ("cloud mushroom"), this delicious soft-fleshed polypore has excellent nutritional and medicinal properties. One of the most promising [[comparison-chaga-vs-turkey-tail-medicinal-mushrooms-comprehensive]] for cancer treatment, diabetes, and immune enhancement. See also [[maitake-cultivation-guide]], and [[maitake-mushroom-research]]
-- [[maitake-d-fraction-research]]
-- [[reishi-mushroom-medicinal-properties]]
+Called maitake ("dancing mushroom"), hen-of-the-woods, or kumotake ("cloud mushroom"), this delicious soft-fleshed polypore has excellent nutritional and medicinal properties. One of the most promising [[maitake-cultivation-guide]], and [[maitake-d-fraction-research]]
 - [[medicinal-mushroom-extraction-preparation]]
 
 ## See Also

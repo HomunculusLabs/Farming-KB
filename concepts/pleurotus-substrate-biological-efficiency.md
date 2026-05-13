@@ -11,11 +11,7 @@ type: concept
 # Pleurotus Substrate and Biological Efficiency
 
 Biological efficiency (BE) is the standard metric for evaluating
-substrate performance in [[accessible-mushroom-cultivation-for-disabilities]]. It is defined as the
-fresh weight of harvested mushrooms divided by the dry weight of the
-substrate, multiplied by 100. A BE of 100% means the fresh mushroom
-yield equals the dry substrate weight. Pleurotus species are among
-the most versatile [[fungi-cultivated-mushrooms-pathogens-competitors]] in terms of substrate
+substrate performance in [[fungi-cultivated-mushrooms-pathogens-competitors]] in terms of substrate
 utilization, producing crops on an enormous range of agricultural
 wastes and plant materials.
 
@@ -33,9 +29,7 @@ in mushroom quality, nutritional content, or number of flushes.
 
 ## Substrate Chemistry Fundamentals
 
-[[query-how-to-grow-oyster-mushrooms-at-home]] require substrates with adequate carbon sources
-(cellulose, hemicellulose, lignin), nitrogen, minerals, and
-moisture. [[bloomfield-mushroom-foraging-immigrant-poisonings-paddy-straw-confusion]], one of the most common substrates, contains
+[[bloomfield-mushroom-foraging-immigrant-poisonings-paddy-straw-confusion]], one of the most common substrates, contains
 approximately 14% lignin, 37% cellulose, 0.4% P2O5, 0.55% total
 N, 1.6% K2O, 12% SiO2, and has a C/N ratio of about 70. Wheat
 straw contains 1% protein, 13% lignin, 39% hemicellulose, and 40%
@@ -77,18 +71,10 @@ Substrates with moderate biological efficiency include:
   performance depends on particle size and supplementation.
 - **Rubber tree sawdust**: Used successfully in Southeast Asian
   cultivation operations.
-- **Groundnut shells**: An [[fungi-in-composting-and-agricultural-waste-conversion]] product suitable
-  for Pleurotus cultivation with proper preparation.
-
-## Spent Substrate Recycling
-
-[[volvariella-volvacea]].
+- **Groundnut shells**: An [[volvariella-volvacea]].
 Successive crops of mushrooms can be grown on spent substrate,
 though biological efficiency typically decreases with each cycle.
 
 ## Regional Substrate Adaptation
 
-[[pleurotus-natural-log-cultivation-methods]]
--  preparation techniques
-- biological efficiency calculations
-- [[accessible-mushroom-cultivation-for-disabilities]] fundamentals
+[[accessible-mushroom-cultivation-for-disabilities]] fundamentals

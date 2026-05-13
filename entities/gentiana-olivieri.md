@@ -47,7 +47,7 @@ Flowers are terminal, solitary, deep blue to violet-blue, funnel-shaped, and 3�
 
 The fruit is an elongated capsule containing numerous small, winged seeds. The root system consists of a stout, fibrous taproot, which stores the bitter principles used medicinally.
 
-The species is morphologically close to *[[gentiana-septemfida]]* and *[[gentiana-gelida]]*, all members of section *Pneumonanthe*. It can be distinguished by its solitary terminal flowers and the distinctive fringe of the corolla lobes.
+The species is morphologically close to *[[gentiana-gelida]]*, all members of section *Pneumonanthe*. It can be distinguished by its solitary terminal flowers and the distinctive fringe of the corolla lobes.
 
 Chromosome number: 2n = 20, consistent with the base number for the genus.
 
@@ -63,7 +63,7 @@ Populations are typically found on well-drained, sun-exposed sites above the tre
 
 In Turkey, *G. olivieri* is locally common in the eastern Anatolian steppe-mountain zone, particularly around Erzurum, Kars, and Ağrı provinces.
 
-It often co-occurs with other high-altitude gentians including *Gentiana gelida* and *Gentiana septemfida*. The species is adapted to the continental climate of interior Anatolia, with hot, dry summers and prolonged snow cover in winter.
+It often co-occurs with other high-altitude gentians including *Gentiana gelida* and *[[gentiana-septemfida]]*. The species is adapted to the [[continental-climate]] of interior Anatolia, with hot, dry summers and prolonged snow cover in winter.
 
 Populations at the highest elevations (above 3,000 m) flower later and produce fewer but larger flowers compared to lower-elevation plants. This altitudinal variation is common in alpine gentians.
 
@@ -75,13 +75,7 @@ The deep blue flowers are adapted to bee pollination, with nectar guides visible
 
 Bumblebees (Bombus spp.) are the primary pollinators at high altitudes where the species grows. The funnel-shaped corolla restricts access to nectar to larger, long-tongued pollinators.
 
-[[cannabis-seed-germination]] requires cold stratification for 4–8 weeks, mimicking natural winter conditions. Light exposure after stratification improves germination rates significantly.
-
-In cultivation, the species demands excellent drainage, full sun, and a neutral to alkaline soil pH. It is rarely available commercially but is grown by alpine plant specialists.
-
-Plants are intolerant of winter wet and require protection from excessive moisture in regions with maritime winters. A gritty, loam-based compost with added limestone chips provides suitable conditions.
-
-Propagation by division is possible but slow, as the plant produces few offsets. Root cuttings taken in [[coleman-overwintered-onions-and-early-spring-crops]] can also produce new plants. The species is long-lived once established, with individual plants persisting for 15–20 years.
+[[coleman-overwintered-onions-and-early-spring-crops]] can also produce new plants. The species is long-lived once established, with individual plants persisting for 15–20 years.
 
 ## Traditional and Modern Uses
 

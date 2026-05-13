@@ -21,29 +21,11 @@ residue in the final product.
 
 ## Hash Oil Overview
 
-Hash oil is a concentrate of hash or marijuana ([[cervantes-hash-cannabis-oil-production]])
-that has been dissolved in hydrocarbon solvents such as ether
-and alcohol to extract THC. Hash and [[cannabis-oil-capsules-preparation]] frequently
+Hash oil is a concentrate of hash or marijuana ([[cannabis-oil-capsules-preparation]] frequently
 retain residues from the solvents used to extract the THC.
 These residues pose a health risk to consumers.
 
-The oils can be very concentrated and potent. [[cannabis-honey-oil-production]] was
-somewhat popular in America in the early 1970s, with a
-translucent golden-amber color that transformed from stiff,
-toffee-like consistency to runny oil when warmed. Most cannabis
-oils are dark in color because they contain chlorophyll and
-other contaminants. Filtering the oil through charcoal will
-remove virtually all of the impurities.
-
-Hash oil never became super popular because it is inconvenient
-to smoke and many users do not want to be exposed to the health
-risks associated with processing solvents.
-
-## Volatile Solvent Extraction Process
-
-Cervantes explicitly warns against volatile solvent extraction
-because it requires dangerous chemical solvents including
-isopropyl alcohol, [[pf-tek-ethyl-alcohol-extraction-liqueur-concentration]], and white gas. The basic
+The oils can be very concentrated and potent. [[pf-tek-ethyl-alcohol-extraction-liqueur-concentration]], and white gas. The basic
 process involves:
 
 1. Cannabis is soaked in the solvent.
@@ -78,8 +60,7 @@ Dangers of butane extraction:
 Isomerization is a chemical resin extraction process that was
 popular in the 1970s and early 1980s but has fallen out of
 favor because of the harsh and dangerous chemical solvents
-used: white gas, [[fukuoka-textdoc-fertilizer-soil-destruction-sulfuric-acid]], hydrochloric acid, and others.
-The process converts [[cbd-to-thc-isomerization-chemistry]] through chemical
+used: white gas, [[cbd-to-thc-isomerization-chemistry]] through chemical
 transformation, but the risks and complexity make it
 impractical for most users.
 
@@ -118,8 +99,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[doc]]
 - [[isopropyl-alcohol]]
-- [[cannabis-solvent-reflux-extraction-methods]]
 - [[cervantes-15-bag-water-hash-extraction]]
 - [[oner-cannabis-co2-solvent-extraction]]

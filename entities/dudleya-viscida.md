@@ -108,13 +108,8 @@ Dudleya poaching for the horticultural trade has affected several Dudleya specie
 
 ## See Also
 
-- [[dudleya-farinosa]]
 - [[echeveria-elegans]]
-- [[crassula-ovata]]
 - [[sedum-acre]]
-- [[aeonium-arboreum]]
 - [[cotyledon-undulata]]
-- [[crassula-perforata]]
 - [[sedum-rupestre]]
-- [[aeonium-haworthii]]
 - [[echeveria-agavoides]]

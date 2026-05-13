@@ -11,13 +11,7 @@ sources:
 
 ## Overview
 
-One of JADAM's most innovative concepts is crop-specific liquid fertilizer: making [[jadam-natural-pesticide-philosophy]]
-3. Put crop residues (unsold, left-over, diseased, ugly, malformed fruits) into the water until the container is full
-4. Close the lid and wait
-
-Key points:
-- Do not worry about diseased fruits -- once microbial diversity is established, disease-causing organisms cannot gain dominance
-- A handful of [[comparison-leaf-mold-composting-vs-hot-composting-method]] is sufficient regardless of container size
+One of JADAM's most innovative concepts is crop-specific liquid fertilizer: making [[comparison-leaf-mold-composting-vs-hot-composting-method]] is sufficient regardless of container size
 - The older the fertilizer, the better (like soy sauce)
 - You can make next year's fertilizer as you go through this year's farming
 
@@ -85,18 +79,10 @@ When applying these concepts, consider regional variations, available resources,
 
 ## See Also
 
-- [[ultra-low-jadam-liquid-fertilizer-making]]
 - [[jadam-wild-grass-liquid-fertilizer]]
-- [[jadam-liquid-fertilizer-philosophy]]
 - [[jadam-liquid-fertilizer-nutritional-perspective]]
-- [[jadam-liquid-fertilizer]]
-
-## See Also
-
 - [[jadam-anaerobic-fermentation]] -- the fermentation approach
-- [[jadam-liquid-fertilizer]] -- the three principles
 - [[jadam-leaf-mold-soil-method]]
-- [[jadam-wild-grass-liquid-fertilizer]]
 - [[jadam-food-waste-liquid-fertilizer]]
 
 ## Historical Context
@@ -114,8 +100,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[dom]]
 - [[composting]]
-- [[decomposition]]
 - [[jadam-liquid-fertilizer-nutritional-perspective]]
 - [[jadam-liquid-fertilizer-philosophy]]

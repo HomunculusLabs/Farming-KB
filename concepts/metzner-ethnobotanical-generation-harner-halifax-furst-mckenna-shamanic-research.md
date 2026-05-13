@@ -3,7 +3,7 @@
 
 ## Context and Sourcing
 
-This concept draws from Ralph Metzner 1998 paper Hallucinogenic Drugs and
+This concept draws from [[ralph-metzner]] 1998 paper Hallucinogenic Drugs and
 Plants in Psychotherapy and Shamanism (Journal of Psychoactive Drugs,
 Vol. 30(4)). Metzner documents the synchronistic emergence of researchers in
 anthropology and ethnobotany inspired by psychedelic research to explore the
@@ -20,7 +20,7 @@ discovered the therapeutic potential of LSD and psilocybin, a parallel
 generation of anthropologists and ethnobotanists explored prehistoric
 indigenous roots of psychoactive plant use. The two streams developed
 independently but were informed by the same kinds of experiences. Key figures
-included Michael Harner, Joan Halifax, Peter Furst, Richard Evans Schultes,
+included Michael Harner, Joan Halifax, Peter Furst, [[richard-evans-schultes]],
 Weston LaBarre, Claudio Naranjo, and Terence and Dennis McKenna.
 
 Their work ranged from rigorous botanical documentation to speculative
@@ -120,8 +120,6 @@ research renaissance and integration of indigenous wisdom with Western science.
 
 ## See Also
 
-- [[metzner-hallucinogenic-drugs-psychotherapy-shamanism]]
 - [[metzner-shamanic-healing-and-divination-paradigm]]
-- [[metzner-four-paradigms-psychedelic-healing]]
 - [[harner-cross-cultural-patterns-shamanic-plant-use]]
 - [[harner-shamanic-journey-and-altered-states]]

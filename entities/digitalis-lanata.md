@@ -13,19 +13,9 @@ sources:
   - Schmiedt, J., Haeusler, G. (1960). "Über die Digitalisglykoside von Digitalis lanata." Arzneimittel-Forschung, 10, 476-482.
   - "Digitalis lanata." European Medicines Agency, Committee on Herbal Medicinal Products (HMPC).
   - Whiting, B. (1980). "Clinical Pharmacokinetics of Digoxin." Clinical Pharmacokinetics, 5(2), 137-155.
-  - Steyn, D.G. (1934). "The Chemistry of the Cardiac Poisons of the Digitalis Species." [[kanna-sceletium-south-african-narcotic]] Journal of Science, 31, 276-289.
-  - Ma, G. et al. (2015). "Digitalis lanata Ehrh: A review of its botany, phytochemistry, and pharmacology." Journal of Pharmacy and Pharmacology, 67(6), 789-803.
----
+  - Steyn, D.G. (1934). "The Chemistry of the Cardiac Poisons of the Digitalis Species." [[digitalis-purpurea]]), Digitalis lanata produces a higher proportion of therapeutically valuable lanatoside glycosides. These compounds are extracted for use in heart failure and arrhythmia treatment worldwide.
 
-# Digitalis lanata
-
-## Overview
-
-Digitalis lanata, commonly known as Grecian foxglove or woolly foxglove, is a biennial or short-lived perennial herbaceous plant in the family Plantaginaceae. It is native to southeastern Europe and is the primary commercial source of the cardiac glycoside digoxin.
-
-Unlike the more widely known common foxglove ([[digitalis-purpurea]]), Digitalis lanata produces a higher proportion of therapeutically valuable lanatoside glycosides. These compounds are extracted for use in heart failure and arrhythmia treatment worldwide.
-
-The species is cultivated commercially on a significant scale in Europe, [[guzman-psilocybin-mushrooms-south-america]], and Asia for pharmaceutical production. Wild populations have become established in parts [[berry-growing]].
+The species is cultivated commercially on a significant scale in Europe, [[berry-growing]].
 
 The common name "woolly foxglove" refers to the dense pubescence covering the stems and leaves. This characteristic readily distinguishes it from the relatively hairless Digitalis purpurea.
 
@@ -53,7 +43,7 @@ Digitalis lanata is native to southeastern Europe, including the Balkan Peninsul
 
 The species typically grows on dry, rocky hillsides, scrubland, open woodland margins, and road embankments. It prefers well-drained calcareous or sandy soils with moderate fertility.
 
-It is found at elevations from sea level to approximately 1,500 meters. The plant is adapted to Mediterranean and continental climate patterns with warm, dry summers.
+It is found at elevations from sea level to approximately 1,500 meters. The plant is adapted to Mediterranean and [[continental-climate]] patterns with warm, dry summers.
 
 Naturalized populations occur in scattered locations across Europe and North America, often near former cultivation sites. These populations are generally small and localized.
 
@@ -69,17 +59,7 @@ Lanatoside C is the most pharmacologically significant compound. It is enzymatic
 
 Additional cardiac glycosides include digitoxin, gitoxin, gitaloxin, and their respective derivatives. The total cardiac glycoside content of dried leaves typically ranges from 0.15 to 0.40 percent.
 
-The plant also contains saponins, flavonoids, anthraquinones, and phenolic acids. These [[antifungal-secondary-metabolites-coprophilous-fungi]] contribute to the overall phytochemical complexity of the species.
-
-The lanatoside glycosides are concentrated primarily in the leaves, with lower levels in the flowers, stems, and seeds. Glycoside content varies with plant age, growing conditions, and time of harvest.
-
-## Pharmacology and Medical Use
-
-Digoxin, derived from Digitalis lanata, is a positive inotropic agent used to treat heart failure with reduced ejection fraction. It increases myocardial contractility by inhibiting the sodium-potassium ATPase pump.
-
-The drug also has electrophysiological effects on the heart, slowing atrioventricular conduction. This makes it useful in controlling ventricular rate in patients with atrial fibrillation.
-
-The [[blesching-cannabis-safety-profile-subjective-therapeutic-window]] of digoxin is narrow, requiring careful serum level monitoring. Toxicity manifests as nausea, vomiting, visual disturbances, and potentially life-threatening cardiac arrhythmias.
+The plant also contains saponins, flavonoids, anthraquinones, and phenolic acids. These [[blesching-cannabis-safety-profile-subjective-therapeutic-window]] of digoxin is narrow, requiring careful serum level monitoring. Toxicity manifests as nausea, vomiting, visual disturbances, and potentially life-threatening cardiac arrhythmias.
 
 Historically, crude Digitalis preparations were used in folk medicine for heart conditions, dropsy, and epilepsy. William Withering documented the medicinal use of foxglove in 1785.
 
@@ -88,3 +68,82 @@ Modern pharmaceutical production involves controlled cultivation, leaf harvestin
 Digoxin-specific antibody fragments (digoxin immune fab) are used as an antidote for life-threatening digoxin toxicity. This therapeutic application underscores the ongoing clinical importance of Digitalis-derived compounds.
 
 Interest in the anticancer potential of cardiac glycosides has increased in recent years. Laboratory studies have shown cytotoxic effects against various cancer cell lines, though clinical translation remains preliminary.
+
+## Overview
+
+Digitalis Lanata represents an important element within sustainable
+design and [[solomon-gardening-aikido-pest-philosophy-ecological-management]] systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish digitalis lanata
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving digitalis extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Digitalis Lanata finds practical application in multiple design contexts.
+[[mollisonian-permaculture-principles]] guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive [[livestock-grassland-management-strategies]] that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for digitalis lanata. [[jeavons-climate-adaptation-growing-seasons]]
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+digitalis lanata and its applications. Active investigation
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Digitalis Lanata has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of digitalis lanata into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also

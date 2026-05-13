@@ -11,7 +11,7 @@ type: concept
 
 # EU Legislative Responses to Hallucinogenic Mushrooms 2001-2006
 
-Between 2001 and 2006, six European Union member states tightened their legislation on hallucinogenic mushrooms containing [[psilocin]]. These legal changes coincided with increasing prevalence of recreational use and expanding commercial markets, particularly through [[smartshop-hallucinogenic-mushroom-market]] culture with an estimated 120 to 150 smartshops, moved to regulate the market more tightly. The Dutch Risk Assessment Report (CAM, 2000) had already been conducted, noting that hallucinogenic mushrooms tended to be used experimentally and that users generally discontinued after a few experiences. The Netherlands classified psilocybin-containing fungi under their narcotics legislation, though enforcement varied and mushrooms remained commercially available for several more years before a full ban was eventually implemented.
+Between 2001 and 2006, six European Union member states tightened their legislation on hallucinogenic mushrooms containing [[smartshop-hallucinogenic-mushroom-market]] culture with an estimated 120 to 150 smartshops, moved to regulate the market more tightly. The Dutch Risk Assessment Report (CAM, 2000) had already been conducted, noting that hallucinogenic mushrooms tended to be used experimentally and that users generally discontinued after a few experiences. The Netherlands classified psilocybin-containing fungi under their narcotics legislation, though enforcement varied and mushrooms remained commercially available for several more years before a full ban was eventually implemented.
 
 ### Germany (2005)
 Germany enacted restrictions on the sale and possession of hallucinogenic mushrooms, bringing them under controlled substance legislation. German data on prevalence was based on six regions only (Bavaria, Brandenburg, Berlin, Hesse, Mecklenburg-Western Pomerania, and Thuringia), making comprehensive assessment difficult.
@@ -20,41 +20,12 @@ Germany enacted restrictions on the sale and possession of hallucinogenic mushro
 Estonia tightened controls in parallel with other EU states responding to the cross-border availability of mushrooms through internet commerce and travel.
 
 ### United Kingdom (2005)
-The UK enacted the most commercially disruptive legislation, prohibiting the sale of fresh hallucinogenic mushrooms in July 2005. Prior to this change, an estimated 300 shops and market stalls across the UK sold hallucinogenic mushrooms. The UK Treasury had been collecting sales tax estimated at up to £175,000 (approximately €255,421) per year on a turnover of around £1 million (approximately €1.46 million) per annum. After the ban, the [[emcdda-mixmag-survey-magic-mushroom-prevalence-trends-2000-2005]] conducted in 2005 found that 67% of survey respondents reported that mushrooms were less available than previously.
-
-### Ireland (2006)
-Ireland was the sixth country to tighten legislation during this period, following the pattern established by the UK and other nations.
-
-## Market Adaptation and Substitution
-
-The EMCDDA highlighted a critical observation: legal prohibitions of psilocybin-containing fungi appeared to trigger retailer interest in alternative, legal [[emcdda-hallucinogenic-mushroom-species-classification-and-chemistry]], particularly [[hallucinogenic-mushroom-telephone-helplines-and-emergency-response]]
-- [[hallucinogenic-mushroom-prevalence-europe]]
+The UK enacted the most commercially disruptive legislation, prohibiting the sale of fresh hallucinogenic mushrooms in July 2005. Prior to this change, an estimated 300 shops and market stalls across the UK sold hallucinogenic mushrooms. The UK Treasury had been collecting sales tax estimated at up to £175,000 (approximately €255,421) per year on a turnover of around £1 million (approximately €1.46 million) per annum. After the ban, the [[emcdda-hallucinogenic-mushroom-species-classification-and-chemistry]], particularly [[hallucinogenic-mushroom-prevalence-europe]]
 - emcdda-hallucinogenic-mushroom-sclerotia-truffle-products
-- [[emcdda-hallucinogenic-vs-psychedelic-terminology-debate]]
 - [[emcdda-hallucinogenic-mushrooms-emerging-trend-europe]]
-- [[emcdda-hallucinogenic-mushroom-species-classification-and-chemistry]] Topics
-
 - [[emcdda-hallucinogenic-mushroom-emerging-trend-analysis]]
-- [[emcdda-hallucinogenic-mushroom-online-retail-shops]]
 - [[psilocin]]
-- [[amanita-muscaria]]
-## Practical Considerations
-
-When working with EU Legislative Responses to Hallucinogenic Mushrooms 2001-2006, several practical factors should be
-carefully considered to achieve optimal results. These include
-the specific conditions of the implementation context, available
-resources, timing requirements, and the interactions between this
-topic and other elements of the broader system. A holistic view
-that considers these interconnections produces better outcomes.
-
-Environmental conditions such as temperature, moisture, and
-seasonal patterns significantly influence results. Monitoring these
-variables and adapting practices accordingly is essential for success.
-The most effective practitioners develop keen observation skills and
-respond flexibly to changing conditions rather than following rigid
-protocols regardless of circumstances or local variation.
-
-[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
+- [[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -111,8 +82,6 @@ through generations to modern scientific approaches, the evolution continues
 to inform current best practices and research directions.
 
 ## See Also
-- [[doc]]
 - [[psilocybin]]
-- [[dom]]
 - [[psilocin]]
 - [[smartshops]]

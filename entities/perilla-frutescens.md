@@ -22,52 +22,15 @@ sources:
 
 ## Overview
 
-Perilla frutescens, commonly known as shiso or perilla, is an annual herb in the mint family (Lamiaceae) cultivated extensively across East and [[psilocybe-southeast-asia-pacific]] as a culinary herb, traditional medicine, and oilseed crop.
+Perilla frutescens, commonly known as shiso or perilla, is an annual herb in the mint family (Lamiaceae) cultivated extensively across East and [[dmt-containing-plants-united-states-halpern]], where it is considered invasive in some states.
 
-The species encompasses several distinct cultivar groups: green-leafed (shiso), red-leafed (akajiso), and oilseed varieties (egoma), each with divergent phytochemical profiles and traditional uses.
-
-## Taxonomy and Morphology
-
-- **Kingdom:** Plantae
-- **Order:** Lamiales
-- **Family:** Lamiaceae
-- **Genus:** Perilla
-- **Species:** P. frutescens
-- **Authority:** (L.) Britt.
-- **Synonyms:** P. ocymoides L., P. nankinensis (Lour.) Decne., Ocimum frutescens L.
-
-The plant grows 30–150 cm tall with an erect, branching stem that is square in cross-section, typical of the Lamiaceae.
-
-Leaves are opposite, ovate to broadly ovate, 4–12 cm long and 3–8 cm wide, with serrated margins and a distinctive aromatic fragrance.
-
-Green-leafed varieties (*var. crispa*) have deeply frilled, bright green leaves. Red-leafed varieties contain anthocyanins that produce deep purple-red coloration.
-
-Flowers are bilabiate, white to pale purple, borne in axillary or terminal racemes. Calyx is 3–5 mm, persistent and enlarging in fruit.
-
-The fruit is a schizocarp (nutlet), approximately 1.5–2 mm in diameter, brown when mature, containing one small seed per mericarp.
-
-## Distribution and Habitat
-
-Perilla is native to the mountainous regions of India, China, and Southeast Asia, and has been naturalized widely across East Asia, Japan, and Korea.
-
-It grows as a weed in disturbed areas, forest margins, and cultivated fields, preferring well-drained soils and partial shade.
-
-The species is naturalized in parts of the eastern [[dmt-containing-plants-united-states-halpern]], where it is considered invasive in some states.
-
-Cultivation occurs commercially in Japan, Korea, China, India, and increasingly in Europe and [[psilocybin-north-america-pacific-northwest]] for specialty markets.
-
-## Phytochemistry
-
-Perilla is remarkably rich in specialized metabolites, with distinct profiles between red and green varieties.
-
-**Perillaldehyde:** The primary aromatic compound in green-leafed shiso, responsible for the characteristic sweet, basil-like fragrance. Constitutes 50–70% of the [[permaculture-designers-manual-essential-oil-plants]] in green varieties.
+Cultivation occurs commercially in Japan, Korea, China, India, and increasingly in Europe and [[permaculture-designers-manual-essential-oil-plants]] in green varieties.
 
 **Perilla ketone:** Abundant in wild-type and oilseed varieties; a potent lung toxin in livestock at high doses. Concentrations range from 0.1–0.6% of dry weight.
 
 **Rosmarinic acid:** Present at 10–25 mg/g dry weight in leaves; contributes anti-inflammatory and antioxidant activity.
 
-**[[ocimum-basilicum]] — Closely related Lamiaceae herb with overlapping culinary and aromatic profiles
-- [[menthol]] vs. perillaldehyde)
+**[[menthol]] vs. perillaldehyde)
 - [[ocimum-tenuiflorum-entity]] — Sacred basil with overlapping traditional medicine applications in Asian systems
 ## Practical Considerations
 
@@ -91,3 +54,86 @@ communities, and systematic experimentation to build expertise.
 ## See Also
 
 - sutherlandia-frutescens
+
+## Overview
+
+Perilla Frutescens represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish perilla frutescens
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving perilla extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Perilla Frutescens finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for perilla frutescens. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+perilla frutescens and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Perilla Frutescens has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of perilla frutescens into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[bulbine-frutescens]]
+- [[capsicum-frutescens]]
+- [[wisteria-frutescens]]

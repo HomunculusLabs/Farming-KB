@@ -21,20 +21,7 @@ sources:
 
 ## Overview
 
-Hickories (*Carya* spp.) and butternut (*Juglans cinerea*) are among the most valuable native nut-producing trees in North America. Long-lived, deeply rooted, and ecologically foundational, they produce nutrient-dense nuts prized for culinary use, provide exceptional timber, and serve as [[keystone-species-and-trophic-cascades]] in forest ecosystems. Despite their slow growth, they offer unmatched longevity and resilience — individual trees can live 200–500 years and continue producing for centuries.
-
-## Botanical Background
-
-### The Carya Genus
-
-The genus *Carya* contains approximately 18 species worldwide, with 12–15 native to North America. They are divided into two groups:
-
-**True Hickories (Apocarya section):**
-- Shagbark hickory (*C. ovata*) — the premier nut-producing species
-- Shellbark hickory (*C. laciniosa*) — larger nuts, bottomland species
-- Pignut hickory (*C. glabra*) — smaller nuts but very adaptable
-- Mockernut hickory (*C. tomentosa*) — thick shell, widespread
-- Sand hickory (*C. pallida*) — [[drought-tolerant-planting-design]], sandy soils
+Hickories (*Carya* spp.) and butternut (*Juglans cinerea*) are among the most valuable native nut-producing trees in North America. Long-lived, deeply rooted, and ecologically foundational, they produce nutrient-dense nuts prized for culinary use, provide exceptional timber, and serve as [[drought-tolerant-planting-design]], sandy soils
 - Red hickory (*C. ovalis*) — upland species
 
 **Pecan Hickories (Sinocarya section):**
@@ -45,26 +32,7 @@ The genus *Carya* contains approximately 18 species worldwide, with 12–15 nati
 
 ### Butternut
 
-Butternut (*Juglans cinerea*) is a close relative of [[black-walnut-juglone-plant-toxicity]], native to the eastern US and southeastern Canada. It produces oblong, sweet, oily nuts with a distinctive buttery flavor. Once common, butternut is now threatened by butternut canker disease (*Ophiognomonia clavigignenti-juglandacearum*), making cultivation and conservation critical.
-
-## Species Profiles
-
-### Shagbark Hickory (*Carya ovata*)
-
-The gold standard for hickory nut production. Named for its distinctive shaggy, peeling bark that exfoliates in long plates.
-
-**Characteristics:**
-- Height: 60–80 ft (18–24 m), occasionally to 100 ft
-- Spread: 30–50 ft (9–15 m)
-- Growth rate: Slow (12–24 inches/year)
-- Lifespan: 200–300+ years
-- Nut size: 1.5–2 inches, rounded
-- Kernel: Sweet, rich, 15–20% kernel by weight
-- Hardiness: USDA Zones 4–8
-- Chill hours: 1000–1500
-
-**Key cultivars:**
-- 'Weschcke' — Selected in Minnesota, excellent [[coleman-cold-hardiness-testing-ratings]], thin shell
+Butternut (*Juglans cinerea*) is a close relative of [[coleman-cold-hardiness-testing-ratings]], thin shell
 - 'Grainger' — Large nut, good cracking quality, from Tennessee
 - 'Yoder' — Productive, good kernel percentage
 - 'Neilson' — Iowa selection, large nut, good flavor

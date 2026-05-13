@@ -15,15 +15,11 @@ type: concept
 
 ## Overview
 
-Shelterbelts and windbreaks are integral components of Fukuoka's natural farm design. Rather than treating them as mere wind barriers, he views them as multi-functional elements that maintain soil fertility, improve the microclimate, provide [[query-how-do-i-design-habitat-for-beneficial-insects]] organisms, and supply organic material. The selection of tree species for shelterbelts follows the principle of working with [[holmgren-ecological-succession-and-pulsing]] rather than against it.
+Shelterbelts and windbreaks are integral components of Fukuoka's natural farm design. Rather than treating them as mere wind barriers, he views them as multi-functional elements that maintain soil fertility, improve the microclimate, provide [[holmgren-ecological-succession-and-pulsing]] rather than against it.
 
 ## The Natural Protected Wood: Foundation of Fertility
 
-The woods surrounding a natural farm should be treated as a natural preserve for the farm and used as a direct or indirect source of [[complete-organic-fertilizer-cof-recipe-solomon]]. The basic strategy for achieving long-term, totally fertilizer-free cultivation on a natural farm is to create deep, fertile soil. The protected wood serves this purpose through three primary mechanisms:
-
-### Three Methods of Natural Soil Creation
-
-1. **Direct burial** of coarse [[hamilton-composting-and-organic-matter-management]] deep in the ground, where it decomposes slowly and creates channels for air and water penetration while building humus in the subsoil
+The woods surrounding a natural farm should be treated as a natural preserve for the farm and used as a direct or indirect source of [[hamilton-composting-and-organic-matter-management]] deep in the ground, where it decomposes slowly and creates channels for air and water penetration while building humus in the subsoil
 2. **Gradual soil improvement** by planting grasses and trees that send roots deep into the soil, breaking up compacted layers and bringing nutrients from deep strata to the surface through leaf fall
 3. **Enrichment of the farm** by carrying nutrients built up in the humus of the upland woods or forest downhill with rainwater or by other means, creating a continuous flow of fertility from the preserve to the cultivated areas
 
@@ -74,20 +70,7 @@ Shelterbelts and windbreak trees are valuable not only for preventing wind damag
 
 ## Bamboo as a Wood Preserve
 
-A bamboo grove may serve equally well as the reserve. It takes a bamboo shoot only one year to grow to full size, so the amount of [[cannabis-vegetative-growth-stage]] is greater than for ordinary trees. Bamboo is therefore valuable as a source of coarse organic material that can be buried in the ground for soil improvement.
-
-### Advantages of Bamboo for Soil Building
-
-- Certain species of bamboo produce edible shoots that can be sold as a vegetable, providing income during the establishment phase
-- When dried, the wood is light and easy to carry, reducing labor costs for soil improvement operations
-- Bamboo is hollow and so has a large void ratio, which helps it retain air and water in the soil when buried
-- It decomposes slowly, providing long-term soil structure improvement rather than a burst of rapid decomposition
-- The rhizome system of bamboo helps stabilize soil on slopes and prevent erosion
-
-## Orchard Establishment Without Land Clearing
-
-In modern orchards, using bulldozers to clear land has become the rule rather than the exception, but a natural farm should be developed without clearing the land. When land is cleared with a bulldozer, irregular surface features on a slope are flattened and smoothed. Wide farm roads are built to permit farm mechanization. However, mechanization really only facilitates certain farm operations such as fertilizer and pesticide application. Since picking ripened fruit is the only major operation in [[fukuoka-textdoc-farm-establishment-wood-preserve-design]] for detailed preserve management
-- [[fukuoka-natural-farming-philosophy]] for companion tree planting
+A bamboo grove may serve equally well as the reserve. It takes a bamboo shoot only one year to grow to full size, so the amount of [[fukuoka-textdoc-farm-establishment-wood-preserve-design]] for detailed preserve management
 - [[fukuoka-textdoc-natural-three-dimensional-orchard-design]] for multi-layered orchard design
 - fukuoka textdoc shelterbelt design environmental tree planting for windbreak species selection
 
@@ -120,8 +103,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[doc]]
 - [[acacia]]
-- [[det]]
 - [[ecological-succession]]
 - [[composting]]

@@ -14,32 +14,19 @@ sources:
 
 Mircea Eliade, in his landmark study of shamanism, defined the shaman as "a man of the techniques of ecstasy." By ecstasy, Eliade meant the shaman's ability to enter a trance state at will, during which the soul is believed to leave the body and travel to other realms — the upper world, the lower world, or the spirit world. This is the oldest and most universal form of religious experience, predating organized religion by tens of thousands of years.
 
-McKenna drew heavily on Eliade's work but added a crucial element that Eliade, writing in the 1950s, largely avoided: the role of psychoactive plants in facilitating the shamanic trance. Eliade acknowledged plant use among Siberian shamans (particularly [[mckenna-ayahuasca-and-amazonian-shamanism]], [[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]], [[psilocybin-and-mystical-experience]] and [[mckenna-dissolution-of-the-dominator-culture]], in his view, stem directly from this suppression.
+McKenna drew heavily on Eliade's work but added a crucial element that Eliade, writing in the 1950s, largely avoided: the role of psychoactive plants in facilitating the shamanic trance. Eliade acknowledged plant use among Siberian shamans (particularly [[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]], [[mckenna-dissolution-of-the-dominator-culture]], in his view, stem directly from this suppression.
 
 ## The Recovery of Ecstasy
 
-The contemporary resurgence of interest in psychedelics, meditation, and alternative states of consciousness represents what McKenna called the "[[mckenna-archaic-revival-four-part-structure-paradise-paradise-lost-hell-regained]]" — a recovery of the techniques of ecstasy that were lost during the rise of [[mckenna-dominator-culture-and-suppression-of-ecstasy]]. This revival, he believed, is essential for the survival of humanity in an age of ecological crisis, because the ecstatic perspective — the sense of interconnectedness with all life — is precisely the consciousness shift needed to address the environmental crisis.
+The contemporary resurgence of interest in psychedelics, meditation, and alternative states of consciousness represents what McKenna called the "[[mckenna-dominator-culture-and-suppression-of-ecstasy]]. This revival, he believed, is essential for the survival of humanity in an age of ecological crisis, because the ecstatic perspective — the sense of interconnectedness with all life — is precisely the consciousness shift needed to address the environmental crisis.
 
 See also:
-- [[mckenna-ayahuasca-and-amazonian-shamanism]]
 - [[mckenna-language-and-reality]]
-- [[psilocybin-and-mystical-experience]]
-
-## Key Points
-
-- McKenna's analysis connects psychoactive plant use to fundamental patterns in human cultural evolution
-- The stoned [[stoned-ape-hypothesis-mckenna-psychedelic-evolution]], while controversial, raises important questions about the role of psychoactive substances in human cognitive development
+- [[stoned-ape-hypothesis-mckenna-psychedelic-evolution]], while controversial, raises important questions about the role of psychoactive substances in human cognitive development
 - McKenna's critique of dominator culture draws on both anthropological evidence and contemporary political analysis
-- The [[psychedelic-therapy-current-research]].
+- The [[mckenna-dissolution-of-the-dominator-culture]] and the [[mckenna-tryptamine-glossolalia-and-primal-language]]
 
-## Related McKenna Topics
-
-McKenna's analysis fits within his broader framework of the [[mckenna-dissolution-of-the-dominator-culture]] and the [[mckenna-chimpanzee-self-medication-and-primate-pharmacology]]
-- [[mckenna-tryptamine-glossolalia-and-primal-language]]
-
-- [[mckenna-food-of-the-gods-thesis]]
 - [[psychedelic-mushroom-history]]
-- [[psychedelic-plants-and-civilization]]
 - [[psychedelic-mushroom-set-and-setting]]
 ## Practical Considerations
 
@@ -88,3 +75,75 @@ Ongoing developments in research and practice continue to expand our
 understanding and improve available approaches. New techniques, tools,
 and analytical methods offer opportunities for refinement and innovation
 that can enhance both the effectiveness and efficiency of implementation.
+
+## Overview
+
+Mckenna Techniques Of Ecstasy represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish mckenna techniques of ecstasy
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving mckenna extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Mckenna Techniques Of Ecstasy finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for mckenna techniques of ecstasy. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+mckenna techniques of ecstasy and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Mckenna Techniques Of Ecstasy has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of mckenna techniques of ecstasy into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions

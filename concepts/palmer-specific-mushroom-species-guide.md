@@ -26,12 +26,7 @@ time of year.
 
 ## The Meadow and Horse Mushroom
 
-The meadow mushroom ([[palmer-mushroom-anatomy-and-structure]]
-- palmer-about-mushrooms-edible-species-identification
-
-## See Also
-
-- [[oyster-mushroom-species-guide]]
+The meadow mushroom ([[oyster-mushroom-species-guide]]
 ## Practical Applications
 
 Palmer on Specific Edible Mushroom Species has a range of practical applications that make it relevant to
@@ -88,3 +83,11 @@ uncertainty and improve the resilience of implementations over time.
 Learning from both successes and failures is essential for continuous
 improvement. Maintaining records of observations, interventions, and
 outcomes creates a valuable knowledge base that supports progressively
+
+## See Also
+
+- [[palmer-mushroom-folklore-cultural-significance]]
+- [[palmer-amanitine-poison-mechanism]]
+- [[palmer-amanitine-poison-classification-treatment]]
+- [[palmer-russula-lactarius-families]]
+- [[mushroom-cultivation-basics-spawn-biology-palmer]]

@@ -33,47 +33,11 @@ across tropical and temperate regions worldwide. Datura stramonium is
 one of the most widely recognized members and is closely related to
 several other psychoactive species including:
 
-- **[[datura-innoxia]]** Mill. — prickly Datura, native to Mexico and the
-  southwestern [[dmt-containing-plants-united-states-halpern]], used in traditional medicine.
+- **[[dmt-containing-plants-united-states-halpern]], used in traditional medicine.
 - **Datura ferox** L. — long-spined thorn apple, native to South
   America.
 - **Datura wrightii** Regel — sacred thorn apple, used by southwestern
-  [[halpern-sacramental-peyote-and-native-american-church]] peoples.
-
-All Datura species contain similar tropane alkaloids responsible for
-both their psychoactive and toxic effects, though concentrations vary
-among species and plant parts.
-
-## Description
-
-Datura stramonium is a robust, erect annual herb typically growing 2
-to 5 ft (60 to 150 cm) tall, though under optimal conditions it may
-reach greater heights. The stem is stout, green to purplish-green,
-smooth or slightly hairy, and branches freely. The entire plant
-exudes a strong, pungent, and disagreeable odor, especially when
-the leaves or stems are crushed.
-
-Leaves are large, alternate, ovate to triangular-ovate, 3 to 8 in
-(8 to 20 cm) long and 2 to 6 in (5 to 15 cm) wide, with coarsely
-toothed or wavy margins. The leaf base is unequal, and the surface
-is glabrous to sparsely pubescent.
-
-Flowers are trumpet-shaped, 2 to 4 in (5 to 10 cm) long, white to
-pale violet or lavender, and open in the evening. The calyx is tubular,
-1 to 2 in (2.5 to 5 cm) long, and persists as an enlarged capsule
-enclosure. The corolla is funnelform with five pointed lobes.
-
-The fruit is a four-valved, spiny capsule (hence the name "thorn
-apple") approximately 1.5 to 2 in (4 to 5 cm) long, containing
-numerous small, kidney-shaped seeds that are black when mature. The
-capsule dehisces at maturity, scattering seeds over considerable
-distances.
-
-## Distribution and Habitat
-
-Datura stramonium is an ancient species whose precise origin remains
-uncertain. Authorities have proposed various centers of origin including
-the Caspian Sea region, Mexico, and [[psilocybin-north-america-pacific-northwest]]. Regardless of its
+  [[psilocybin-north-america-pacific-northwest]]. Regardless of its
 exact native range, the plant has become thoroughly cosmopolitan. It
 is found throughout the Americas, North Africa, Europe, the [[ancient-cannabis-use-near-east-and-egypt]],
 and the Himalayas, growing from tropical to temperate zones in both
@@ -88,3 +52,88 @@ areas and readily colonizes newly disturbed ground.
 Datura stramonium contains tropane alkaloids, a class of bicyclic
 nitrogen-containing compounds characteristic of the Solanaceae family.
 The principal active constituents are:
+
+## Overview
+
+Datura Stramonium represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish datura stramonium
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving datura extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Datura Stramonium finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for datura stramonium. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+datura stramonium and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Datura Stramonium has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of datura stramonium into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[datura-candida]]
+- [[datura-innoxia]]
+- [[datura-metel]]
+- [[datura-metel-old-world-ethnobotany]]
+- [[golden-guide-datura-and-nightshade-deliriants]]

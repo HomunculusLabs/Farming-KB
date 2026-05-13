@@ -10,21 +10,17 @@ sources:
 
 # Psychedelic Terminology Hallucinogenic Entheogenic
 
-The language used to describe psychoactive plants and compounds has evolved significantly over the past century. Three terms, hallucinogenic, psychedelic, and entheogenic, are commonly used to describe the same or similar substances, but each carries distinct connotations reflecting different historical contexts, cultural frameworks, and [[weil-cultural-attitudes-toward-altered-states]] these compounds.
-
-[[hallucinogenic-plant-chemistry]]
+The language used to describe psychoactive plants and compounds has evolved significantly over the past century. Three terms, hallucinogenic, psychedelic, and entheogenic, are commonly used to describe the same or similar substances, but each carries distinct connotations reflecting different historical contexts, cultural frameworks, and [[hallucinogenic-plant-chemistry]]
 
 ## Psychedelic
 
 The term psychedelic was coined in 1956 by British psychiatrist Humphrey Osmond in a letter exchange with Aldous Huxley. The word combines the Greek roots psyche (mind, soul) and delos (manifest, visible), meaning mind-manifesting. Osmond proposed the term to distinguish these substances from psychotomimetic (mimicking psychosis), the prevailing classification at the time.
 
-Timothy Leary and the Harvard research group adopted and popularized the term psychedelic in the early 1960s. The Psychedelic Review was first published in 1963. The concept of [[metzner-psycholytic-psychedelic-therapy-models]] and [[mckenna-consciousness-expansion-and-drug-war]] became associated with the term, reflecting the view that these substances could enhance awareness rather than simply model psychosis.
+Timothy Leary and the Harvard research group adopted and popularized the term psychedelic in the early 1960s. The Psychedelic Review was first published in 1963. The concept of [[mckenna-consciousness-expansion-and-drug-war]] became associated with the term, reflecting the view that these substances could enhance awareness rather than simply model psychosis.
 
 The term entered widespread popular culture during the 1960s counterculture and has remained the most recognized term among the general public. However, its association with the counterculture and its subsequent political suppression contributed to a stigma that affected research funding and public acceptance for decades.
 
-In contemporary usage, psychedelic refers broadly to the classical hallucinogens (LSD, psilocybin, mescaline, DMT) and sometimes extends to related compounds such as MDMA, ketamine, and Salvia divinorum. The modern psychedelic renaissance in [[hofmann-lsd-clinical-research-early-studies]] has rehabilitated the term in academic and medical contexts.
-
-[[entheogen-culture]]
+In contemporary usage, psychedelic refers broadly to the classical hallucinogens (LSD, psilocybin, mescaline, DMT) and sometimes extends to related compounds such as MDMA, ketamine, and Salvia divinorum. The modern psychedelic renaissance in [[entheogen-culture]]
 
 ## Psychotomimetic
 
@@ -32,11 +28,7 @@ The term psychotomimetic (mimicking psychosis) was the earliest scientific class
 
 The psychotomimetic model profoundly shaped early research directions, particularly the interest of military and intelligence agencies in LSD as a potential weapon or interrogation tool. The concept of drug-induced psychosis also influenced the later prohibition of these substances.
 
-Critics of the psychotomimetic classification, including Osmond and Huxley, argued that the [[leary-psychedelic-experience-bardo-mapping]] was qualitatively different from psychotic states. While both may involve altered perception, the psychedelic experience typically includes enhanced pattern recognition, emotional insight, and mystical or transcendent elements that are absent in genuine psychosis.
-
-The term psychotimetic is now considered outdated and misleading, though it appears in historical research literature.
-
-[[ketamine-psychedelic-journey-guide]]
+Critics of the psychotomimetic classification, including Osmond and Huxley, argued that the [[ketamine-psychedelic-journey-guide]]
 
 ## Empathogen and Entactogen
 
@@ -47,16 +39,6 @@ MDMA was first synthesized by Merck in 1912 but its psychoactive properties were
 The empathogen/entactogen classification distinguishes these compounds from both the classical hallucinogens and from stimulants or depressants. The effects are centered on emotional experience and interpersonal connection rather than visual perception or consciousness expansion.
 
 The term Ecstasy, the street name for MDMA, entered popular culture in the 1980s and became associated with rave culture. This association contributed to the scheduling of MDMA as a Schedule I substance in 1985, despite its promising therapeutic applications that were being documented at the time.
-
-[[consciousness-and-psychedelics]]
-
-## Dissociative
-
-The term dissociative describes a separate class of psychoactive substances that produce feelings of detachment from reality and from one's own body. Ketamine, PCP (phencyclidine), and dextromethorphan are the primary examples. Dissociatives primarily act on NMDA (N-methyl-D-aspartate) glutamate receptors rather than the serotonin receptors targeted by classical psychedelics.
-
-The dissociative experience is qualitatively different from the classical psychedelic experience. Rather than expanded awareness and enhanced perception, dissociatives produce a sense of separation from ordinary reality, sometimes described as entering a void or experiencing ego dissolution through a different mechanism than serotonergic psychedelics.
-
-Ketamine has gained significant attention in recent years for its rapid antidepressant effects at sub-anesthetic doses, leading to FDA approval of esketamine (S-ketamine) for treatment-resistant depression. This therapeutic application represents a different paradigm from the psychotherapeutic uses of classical psychedelics.
 
 [[ketamine-compound-profile]]
 
@@ -82,3 +64,87 @@ communities, and systematic experimentation to build expertise.
 ## See Also
 
 - [[metzner-entheogenic-terminology-psychedelic-hallucinogenic-entheogenic]]
+
+## Overview
+
+Psychedelic Terminology Hallucinogenic Entheogenic represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish psychedelic terminology hallucinogenic entheogenic
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving psychedelic extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Psychedelic Terminology Hallucinogenic Entheogenic finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for psychedelic terminology hallucinogenic entheogenic. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+psychedelic terminology hallucinogenic entheogenic and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Psychedelic Terminology Hallucinogenic Entheogenic has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of psychedelic terminology hallucinogenic entheogenic into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[metzner-therapist-experiential-prerequisite-psychedelic-therapy]]
+- [[psychedelic-combination-guide]]
+- [[psychedelic-paradigm-shifting-and-reality-reconception]]
+- [[psychedelic-plants-language-emergence-mckenna-synesthesia-hypothesis]]

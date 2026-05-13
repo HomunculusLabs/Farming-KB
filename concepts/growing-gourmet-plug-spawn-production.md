@@ -20,46 +20,18 @@ inoculated with mushroom mycelium. These dowels are driven into
 holes drilled in logs or stumps, providing a direct method for
 establishing mushroom cultures in natural wood substrates. Plug
 spawn remains one of the most accessible entry points for outdoor
-[[accessible-mushroom-cultivation-for-disabilities]].
-
-## Purpose and Applications
-
-Plug spawn is designed for the inoculation of stumps and logs. It
-provides an effective bridge between laboratory-cultured mycelium
-and the natural wood environment where many [[growing-gourmet-mushrooms-civilization-history]]
+[[growing-gourmet-mushrooms-civilization-history]]
 evolved. When an oak stump is inoculated with plug spawn of
 several mushroom species, the stump becomes a platform for
-producing multiple species of gourmet and [[comparison-chaga-vs-turkey-tail-medicinal-mushrooms-comprehensive]] over
-several years. This method is especially useful for the outdoor
-cultivation of [[growing-gourmet-phoenix-oyster-pulmonarius-cultivation]],
-[[growing-gourmet-maitake-cultivation]].
-
-## The Production Path
-
-If a cultivator wants to create plug spawn for the inoculation of
-stumps and logs, the best path is to go from grain spawn to
-sterilized sawdust, and once grown out, to sterilized wooden
-dowels. Each transfer step results in an expansion of mycelial
-mass, usually by a factor of 5-10, and takes a week to two weeks
-to fully colonize.
-
-This multi-step approach is recommended because direct inoculation
-from grain to plug spawn results in fewer points of inoculation.
-Recovery is slower and colonization is not as even. The mycelium
-has already acclimated to the sawdust substrate when sawdust spawn
-is used, making the transition to wooden dowels more successful.
-
-## Matching Spawn with the Substrate
-
-When trying to match a [[dikaryon-formation-mushroom-strain-genetics]] with an available substrate,
+producing multiple species of gourmet and [[growing-gourmet-phoenix-oyster-pulmonarius-cultivation]],
+[[dikaryon-formation-mushroom-strain-genetics]] with an available substrate,
 placing a small sample of the substrate into the agar media formula
 is recommended. Upon exposure, the mushroom mycelium generates
 enzymes and acids to break down the proposed food source. Once
 acclimated, the mycelium carries a genetic memory of the end
 substrate to which it is destined.
 
-For [[growing-gourmet-enoki-cultivation]],
-[[growing-gourmet-reishi-cultivation]], the mycelium can be
+For [[growing-gourmet-reishi-cultivation]], the mycelium can be
 acquainted with the host substrate by introducing to the media a
 1-2 gram sample of the sawdust directly into the liquid
 fermentation vessels. This liquid inoculum is then used to generate
@@ -118,8 +90,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[spawn-production]]
 - [[chaga]]
-- [[incubation-and-colonization]]
 - [[mycelium]]
 - [[growing-gourmet-spawn-production]]

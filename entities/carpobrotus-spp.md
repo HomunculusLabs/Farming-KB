@@ -46,48 +46,10 @@ Carpobrotus is a genus of succulent creeping ground-cover plants native to south
 ### Environmental
 
 - Excellent sand dune stabiliser
-- Ground cover for coastal [[comparison-vetiver-grass-vs-bamboo-for-erosion-control]]
-- Habitat restoration in coastal zones
-
-## Relevance to Cultivation and Permaculture
-
-Carpobrotus is a multifunctional coastal plant providing food, medicine, and soil stabilisation. Its tolerance of salt spray, drought, and poor sandy soils makes it ideal for coastal food forests, dune restoration, and saline sites. Requires virtually no maintenance once established.
-
-## Cultivation Notes
-
-- Extremely drought and salt tolerant
-- Propagates easily from stem cuttings
-- Prefers full sun and well-drained sandy soil
-- Can become invasive outside native range (particularly C. edulis)
-- Fruit ripens in summer to autumn
-
-## Related Species
-
-- [[tetragonia-tetragonioides]] (warrigal cabbage) - coastal Aizoaceae edible
-- [[sarcocornia-quinqueflora]] (beaded glasswort) - succulent coastal edible
-- Disphyma crassifolium (ice plant) - related coastal succulent
-
-## Sources
-
-- A Selection of Permaculture Plants (chunk 35)
-
-## Botanical Description
-
-Carpobrotus Spp is a species with distinct morphological characteristics adapted to its
-native habitat. Understanding its growth form, leaf structure, and root system
-is essential for identification and cultivation purposes.
-
-## Habitat and Distribution
-
-This species occurs naturally in specific coastal and saline environments.
-Its distribution range reflects adaptations to particular soil types, salinity
-levels, and climate conditions typical of its ecological niche.
-
-## Ecological Role
-
-Carpobrotus Spp plays important [[fungal-melanin-biosynthesis-ecological-functions]] including soil stabilization,
+- Ground cover for coastal [[tetragonia-tetragonioides]] (warrigal cabbage) - coastal Aizoaceae edible
+- [[fungal-melanin-biosynthesis-ecological-functions]] including soil stabilization,
 habitat provision for wildlife, and contribution to local biodiversity.
-These [[biodiversity-of-fungi-ecosystem-services-agriculture]] make it valuable for [[tropical-rainforest-seedling-mycorrhiza-ecological-restoration]] and
+These [[tropical-rainforest-seedling-mycorrhiza-ecological-restoration]] and
 permaculture applications.
 
 ## Cultivation and Uses
@@ -96,6 +58,86 @@ Traditional and modern uses of Carpobrotus Spp span food production, erosion con
 and ornamental horticulture. Cultivation requirements include appropriate
 soil conditions, water management, and climate considerations.
 ## See Also
-- [[coastal-permaculture-plants]]
 - [[coastal-edible-plants-permaculture]]
 - [[coastal-gardening]]
+
+## Overview
+
+Carpobrotus Spp represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish carpobrotus spp
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving carpobrotus extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Carpobrotus Spp finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for carpobrotus spp. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+carpobrotus spp and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Carpobrotus Spp has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of carpobrotus spp into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[carpobrotus]]

@@ -21,64 +21,18 @@ sources:
 
 # Candyland
 
-**Candyland** is a sativa-dominant hybrid [[blesching-cannabis-strain-selection-receptor-targeting]] celebrated for its sweet, candy-like [[cannabis-terpene-profile]] and clear-headed, energizing effects. A cross between **[[granddaddy-purple]]** and **Platinum Cookies**, Candyland inherits the purple aesthetics of its GDP parent while expressing the [[cannabis-glandular-trichome-types-resin-production-clarke]] and cookie-dough terpenes of its Platinum Cookies lineage. The result is a visually striking strain that delivers an uplifting, functional high suitable for daytime creative work and social activities.
+**Candyland** is a sativa-dominant hybrid [[cannabis-terpene-profile]] and clear-headed, energizing effects. A cross between **[[cannabis-glandular-trichome-types-resin-production-clarke]] and cookie-dough terpenes of its Platinum Cookies lineage. The result is a visually striking strain that delivers an uplifting, functional high suitable for daytime creative work and social activities.
 
 ## Genetics and Lineage
 
 ```
-[[purple-urkle]] × Big Bud → Granddaddy Purple
-                        ×
-        [[girl-scout-cookies]] selection → Platinum Cookies
+[[girl-scout-cookies]] selection → Platinum Cookies
                         ↓
                     Candyland
 ```
 
 - **Granddaddy Purple** contributes deep purple coloration, grape and berry terpenes, and a relaxing physical baseline.
-- **Platinum Cookies** (a phenotype of Girl Scout Cookies) adds sweet cookie-dough terpenes, heavy [[cannabis-resin-production-and-quality-traits-clarke]], and cerebral euphoria.
-- The resulting hybrid is approximately **70–80% sativa**, though the ratio is debated and phenotypes can vary.
-
-## Appearance
-
-Candyland is one of the more visually distinctive strains in the modern cannabis landscape:
-
-- **Buds:** Medium-to-large, elongated and slightly airy with a sativa-typical structure. Calyxes are dense but not rock-hard, with good inter-nodal spacing.
-- **Color:** The defining visual feature is dramatic purple coloration — deep violet to magenta tones that can affect up to 80% of the bud surface in well-grown phenotypes. Green leaves are visible but often overwhelmed by anthocyanin expression. The purple color is genetic and does not require cold stress, though cool night temperatures will intensify it.
-- **Pistils:** Long, bright orange to amber pistils that contrast vividly against the purple calyxes, creating a candy-like color palette.
-- **Trichomes:** Dense, glandular trichome coverage giving buds a frosted, silvery-lavender appearance under magnification. Trichome heads are large and bulbous, producing abundant resin.
-- **Overall impression:** The combination of purple, orange, and frosty white creates an aesthetic that genuinely lives up to the "candy" namesake.
-
-## Aroma and Flavor
-
-### Aroma
-
-- **Primary:** Sweet grape and mixed berry candy — the Granddaddy Purple lineage is immediately apparent. The sweetness is pronounced and almost confectionery.
-- **Secondary:** Earthy cookie dough and vanilla from the Platinum Cookies parent, adding depth beneath the candy sweetness.
-- **Tertiary:** Subtle floral notes (lavender, violet) and a faint peppery spice on the exhale when ground.
-- **Intensity:** Moderate-to-strong. The aroma fills a room when a jar is opened.
-
-### Flavor
-
-- **Inhalation:** Sweet grape candy and berry preserves. The flavor is smooth, not harsh, with a distinct sugar-cookie quality.
-- **Exhalation:** Earthy undertones emerge — cookie dough, vanilla, and a subtle herbal/green note. The sweetness persists but is balanced by the earthier Platinum Cookies flavors.
-- **Aftertaste:** Lingering sweet grape-vanilla that coats the palate. The flavor is notably persistent and enjoyable, making Candyland popular for vaporizing.
-
-## Terpene Profile
-
-- **Myrcene** (secondary) — Earthy, musky base note; moderates the sativa energy with mild physical relaxation.
-- **Limonene** (prominent) — Bright citrus and sweet fruit character; contributes to mood elevation and stress relief.
-- **Caryophyllene** (moderate) — Peppery spice, adds complexity; anti-inflammatory via CB2 receptor agonism.
-- **Linalool** (moderate) — Floral lavender notes; enhances the candy-like sweetness and adds calming properties.
-- **Pinene** (trace) — Pine notes; may counteract some cognitive fogginess from THC.
-- **Humulene** (trace) — Earthy, woody; contributes subtle depth.
-
-## Cannabinoid Profile
-
-- **THC:** 16–24% (phenotype-dependent; well-grown cuts typically test 18–22%)
-- **CBD:** < 1% (negligible)
-- **CBG:** Trace amounts
-- **THCV:** Negligible
-
-The [[thc-content-factors-cultivation-freshness-storage-degradation-blesching]] is moderate by contemporary standards, contributing to Candyland's reputation as a functional, clear-headed strain that doesn't overwhelm with intensity.
+- **Platinum Cookies** (a phenotype of Girl Scout Cookies) adds sweet cookie-dough terpenes, heavy [[thc-content-factors-cultivation-freshness-storage-degradation-blesching]] is moderate by contemporary standards, contributing to Candyland's reputation as a functional, clear-headed strain that doesn't overwhelm with intensity.
 
 ## Effects
 
@@ -87,3 +41,88 @@ The [[thc-content-factors-cultivation-freshness-storage-degradation-blesching]] 
 Effects begin within 5–10 minutes of inhalation and last 2–3 hours. The experience follows a sativa-dominant arc — predominantly cerebral with light physical accompaniment.
 
 ### Experience
+
+## Overview
+
+Candyland Cannabis represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish candyland cannabis
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving candyland extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Candyland Cannabis finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for candyland cannabis. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+candyland cannabis and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Candyland Cannabis has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of candyland cannabis into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[blesching-cannabis-cancer-symptoms]]
+- [[cannabis-endorhiza-shared-otu-soil-source-validation]]
+- [[cannabis-musculoskeletal-conditions]]
+- [[cannabis-oil-consumption-methods]]
+- [[green-cannabis-dry-sift-water-extraction]]

@@ -1,7 +1,7 @@
 ---
 title: Mushroom House Design
 created: 2026-04-28
-tags: [[mycology]], architecture, cultivation, infrastructure, design]
+tags: mycology, architecture, cultivation, infrastructure, design]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/benjamin-minge-duggar-mushroom-growing.md]
@@ -10,16 +10,9 @@ type: concept
 
 # Mushroom House Design
 
-The [[pond-design-and-construction]] of [[duggar-mushroom-growing-history-and-methods]]
+The [[duggar-mushroom-growing-history-and-methods]]
 facilities is a critical factor in commercial success.
-Any situation in which [[mushroom-growing-temperature-and-moisture]] may be
-controlled according to the requirements of the mushroom
-should be satisfactory. Facilities range from natural
-caves to purpose-built structures.
-
-## French Cave Systems
-
-In France, the [[mushroom-industry-african-countries]] has fallen heir to the
+Any situation in which [[mushroom-industry-african-countries]] has fallen heir to the
 subterranean quarries constituting extensive arrays of
 artificial caves, especially under Paris and its environs.
 These caves were formed by mining limestone for building

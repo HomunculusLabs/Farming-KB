@@ -3,7 +3,7 @@
 
 ## Overview
 
-Species accumulation curves (also called collector's curves) and rarefaction are fundamental quantitative tools in [[mycology]]: determining how many species are actually present at a site when sampling is inevitably incomplete. Because [[mycorrhizal-fungi-fruit-trees]] intermittently and many species are cryptic, achieving a complete inventory requires understanding the relationship between sampling effort and species discovery.
+Species accumulation curves (also called collector's curves) and rarefaction are fundamental quantitative tools in [[mycorrhizal-fungi-fruit-trees]] intermittently and many species are cryptic, achieving a complete inventory requires understanding the relationship between sampling effort and species discovery.
 
 ## The Species Accumulation Curve
 
@@ -72,54 +72,14 @@ Several indices attempt to estimate total richness independent of sample number:
 - **Margalef index** (1958): Assumes S = kn^0.5, where k is a constant
 - **Menhinick index** (1964): Similar proportional assumption
 
-Both make specific assumptions about the relationship between species number (S) and total individuals (n) that may not hold for [[fungal-biodiversity-assessment-methods]]. Three scales of diversity are recognized:
-
-- **[[beta-diversity-root-soil-compartments-cannabis]]**: Species turnover between habitats or along environmental gradients
-- **[[alpha-beta-gamma-diversity-fungi]]**: Total species richness across all habitats in a landscape
-
-The relationship alpha/gamma provides an estimate of [[alpha-beta-diversity-cannabis-root-microbiomes]] (turnover rate). For lichens in Pacific Northwest forests, cyanolichens, alectorioid lichens, and green-alga foliose lichens respond differently to canopy position, forest age, tree density, and habitat heterogeneity, demonstrating the importance of partitioning data by functional or morphological groups.
+Both make specific assumptions about the relationship between species number (S) and total individuals (n) that may not hold for [[beta-diversity-root-soil-compartments-cannabis]]**: Species turnover between habitats or along environmental gradients
+- **[[alpha-beta-diversity-cannabis-root-microbiomes]] (turnover rate). For lichens in Pacific Northwest forests, cyanolichens, alectorioid lichens, and green-alga foliose lichens respond differently to canopy position, forest age, tree density, and habitat heterogeneity, demonstrating the importance of partitioning data by functional or morphological groups.
 
 ## Recommendations for Fungal Surveys
 
 1. Always generate species accumulation curves to determine whether sampling effort has been sufficient
 2. Use rarefaction when comparing sites with unequal sample sizes
 3. Apply non-parametric richness estimators (Chao1, ACE, jackknife) to estimate total richness
-4. Report multiple [[fungal-diversity-indices-community-analysis]] (at minimum Shannon and Simpson) alongside raw species counts
-5. Clearly define which measure of richness (numerical, density, or total) is being used
-6. Conduct long-term sampling (minimum 5 years, preferably 10+) for macrofungal inventories
-7. Use jackknifing to generate confidence intervals around diversity estimates
-
-## Practical Applications
-
-The principles and techniques discussed here have wide-ranging applications
-across multiple disciplines and contexts. Practitioners and researchers
-continue to explore new ways to integrate these concepts into modern practice,
-adapting traditional knowledge to contemporary challenges and opportunities.
-
-## Key Considerations
-
-Several important factors influence the effectiveness and outcomes described
-in this topic. Understanding these considerations helps practitioners make
-informed decisions and avoid common pitfalls. Environmental conditions,
-timing, and material selection all play critical roles.
-
-## Historical Context
-
-The historical development of this subject reflects centuries of accumulated
-knowledge and practical experience. From traditional methods passed down
-through generations to modern scientific approaches, the evolution continues
-to inform current best practices and research directions.
-
-## Common Challenges
-
-Practitioners frequently encounter several challenges when working with
-these concepts. Climate variability, resource limitations, and knowledge
-gaps can all affect outcomes. Addressing these challenges requires patience,
-observation, and a willingness to adapt approaches based on results.
-
-## See Also
-- [[dom]]
-- [[det]]
+4. Report multiple [[dom]]
 - [[lichens]]
-- [[ectomycorrhiza]]
 - [[mycology]]

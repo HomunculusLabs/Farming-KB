@@ -11,15 +11,7 @@ date: 2026-05-08
 updated: 2026-05-08
 sources:
   - Walker C, Schüßler A (2010). "The Glomeromycota: a species list with descriptions." Mycorrhiza, 20(4), 241-253.
-  - Smith SE, Read DJ (2008). "[[arbuscular-mycorrhizal-symbiosis]]." 3rd ed. Academic Press.
-  - Schüßler A, Walker C (2010). "The Glomeromycota: a species list with descriptions." Royal Botanic Garden Edinburgh.
-  - Tisdall JM, Oades JM (1979). "Stabilization of soil aggregates by the root systems of ryegrass." Australian Journal of Soil Research, 17(3), 429-441.
-  - Jeffries P et al. (2003). "The contribution of comparison-soil-food-web-vs-arbuscular-mycorrhizal-fungi fungi to the maintenance of plant structure and function." Botanical Journal of Scotland, 55(2), 145-155.
----
-
-## Overview
-
-**Funneliformis mosseae** (formerly *Glomus mosseae*) is one of the most widely distributed and intensively studied [[arbuscular-mycorrhizal-fungi]] (AMF) in the Glomeromycota phylum.
+  - Smith SE, Read DJ (2008). "[[arbuscular-mycorrhizal-fungi]] (AMF) in the Glomeromycota phylum.
 
 It forms symbiotic associations with the roots of approximately 80% of terrestrial plant families, enhancing nutrient uptake and stress tolerance in agricultural and natural ecosystems.
 
@@ -39,41 +31,13 @@ Spores are yellow to yellow-brown, 150–350 μm in diameter, with a single spor
 
 The hyphal attachment (sporiferous siphon) is cylindrical and narrows at the spore base. Vesicles are thin-walled and intercalary or terminal within cortical root cells.
 
-Arbuscules are the primary [[arbuscule-isolation-and-nutrient-exchange-mechanisms]] interface, branching repeatedly within cortical cells to maximize surface area contact.
-
-## Symbiosis and Host Range
-
-*F. mosseae* is a generalist symbiont with a remarkably broad host range spanning dicots, monocots, and some gymnosperms across temperate and [[fukuoka-natural-farming-in-tropical-regions]].
+Arbuscules are the primary [[fukuoka-natural-farming-in-tropical-regions]].
 
 The fungus penetrates root cortical cells and forms intracellular arbuscules, through which it exchanges soil-derived minerals — particularly phosphorus and nitrogen — for plant-derived carbon compounds (primarily hexose sugars).
 
 Colonized roots exhibit enhanced expression of phosphate transporter genes (PT genes), enabling plants to access orthophosphate from soil pools that would otherwise be biologically unavailable.
 
-The symbiosis also upregulates plant defense pathways, conferring [[endophytic-mycorrhizal-induced-systemic-resistance]] against certain root pathogens without significant growth penalties.
-
-## Ecology and Distribution
-
-*F. mosseae* occurs globally across arable soils, grasslands, forests, and disturbed habitats from tropical to temperate latitudes.
-
-It is particularly abundant in agricultural soils where moderate phosphorus fertilization levels maintain the mutualism without suppressing fungal colonization through luxury P uptake.
-
-Spore germination is stimulated by root exudates containing flavonoids and strigolactones, which trigger pre-symbiotic hyphal branching and directed growth toward host roots.
-
-The species tolerates a wide pH range (4.5–8.0) and moderate salinity, making it adaptable to diverse soil conditions including Mediterranean and semi-arid environments.
-
-Soil disturbance from tillage reduces *F. mosseae* propagule density by fragmenting extraradical hyphal networks, which are the primary inoculum source in mature soils.
-
-## Agricultural Applications
-
-Inoculation with *F. mosseae* has demonstrated consistent yield improvements in legumes (10–30% increase in *[[phaseolus-vulgaris]]* and *Glycine max*), cereals, and horticultural crops under low-to-moderate [[query-how-does-phosphorus-availability-change-across-soil-ph-levels]].
-
-The fungus is commercially available as a soil drench, seed coating, or granular inoculant, though field establishment can be variable depending on existing native AMF communities and soil chemical properties.
-
-In perennial cropping systems including orchards and vineyards, *F. mosseae* contributes to long-term soil aggregation through glomalin production, improving water infiltration and resistance to erosion.
-
-Reduced phosphorus fertilizer applications (up to 50% reduction) are achievable in AMF-inoculated systems without yield loss, offering economic and environmental benefits through decreased nutrient runoff.
-
-The species also enhances [[dighton-fungal-drought-tolerance-plant-water-relations]] in wheat, maize, and tomato by improving osmotic adjustment and maintaining stomatal conductance under water deficit conditions.
+The symbiosis also upregulates plant defense pathways, conferring [[phaseolus-vulgaris]]* and *Glycine max*), cereals, and horticultural crops under low-to-moderate [[dighton-fungal-drought-tolerance-plant-water-relations]] in wheat, maize, and tomato by improving osmotic adjustment and maintaining stomatal conductance under water deficit conditions.
 
 ## Heavy Metal Tolerance and Phytoremediation
 
@@ -88,3 +52,84 @@ Studies in industrial wasteland revegetation have shown that *F. mosseae*-inocul
 ## Interactions with Soil Microbiome
 
 *F. mosseae* modifies the rhizosphere [[core-endorhiza-bacterial-community-composition-cannabis]] composition, generally increasing the abundance of phosphate-solubilizing bacteria and nitrogen-fixing taxa.
+
+## Overview
+
+Funneliformis Mosseae represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish funneliformis mosseae
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving funneliformis extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Funneliformis Mosseae finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for funneliformis mosseae. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+funneliformis mosseae and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Funneliformis Mosseae has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of funneliformis mosseae into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[glomus-mosseae]]

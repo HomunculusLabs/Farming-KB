@@ -63,41 +63,7 @@ emissions.
 Carbon farming is the practice of managing land specifically to maximize
 carbon sequestration in soils and biomass. It encompasses a broad toolkit
 that includes no-till agriculture, cover cropping, composting, biochar
-production, agroforestry, [[comparison-rotational-grazing-vs-continuous-grazing]], and the deliberate
-cultivation of mycorrhizal fungal networks. This article explores the
-science behind agricultural carbon cycling, the practical methods
-available to farmers and gardeners, and the emerging understanding of how
-fungi -- particularly mycorrhizal fungi and decomposer communities --
-mediate the flow of carbon through terrestrial ecosystems.
-
-## The Carbon Cycle in Agricultural Soils
-
-Carbon enters agricultural soils through three primary pathways:
-photosynthesis (plant roots exude carbon compounds into the rhizosphere),
-residue incorporation (above-ground biomass is returned to soil as mulch,
-compost, or incorporated organic matter), and animal inputs (manure,
-composted bedding, and grazing residue). Carbon leaves soils through
-respiration (by plant roots, soil microbes, and soil animals), erosion,
-leaching of dissolved organic carbon, and decomposition that ultimately
-releases CO2 back to the atmosphere.
-
-The balance between these inputs and outputs determines whether a soil is
-gaining or losing carbon. Most conventional agricultural soils are losing
-carbon at alarming rates. Tilling the soil exposes organic matter to
-oxygen, accelerating microbial decomposition. Removing crop residues for
-animal feed or bioenergy deprives the soil of its primary carbon input.
-Synthetic nitrogen fertilizers stimulate microbial activity that burns
-through soil organic matter faster than plants can replace it. The result
-is a net carbon loss of 30 to 60 percent of original soil organic carbon
-within decades of conversion from natural vegetation to intensive
-agriculture.
-
-Reversing this loss is the central challenge of carbon farming. The good
-news is that degraded agricultural soils have significant "carbon debt"
--- room to absorb more carbon before reaching equilibrium with their
-original carbon content. The principles are straightforward: maximize
-carbon inputs through photosynthesis and residue return, minimize carbon
-losses through reduced disturbance and [[permplant-willows-salix-erosion-control-fodder]], and create
+production, agroforestry, [[permplant-willows-salix-erosion-control-fodder]], and create
 conditions that favor long-term carbon stabilization rather than rapid
 decomposition.
 
@@ -107,34 +73,17 @@ Fungi are the unsung heroes of soil carbon cycling. In most soils, fungal
 biomass dominates the decomposer community. In grassland soils, fungi
 ## See Also
 
-[[biointensive-carbon-farming]] -- Biointensive carbon crop methods
 [[biochar]] -- Biochar science and production
-[[biochar-in-agriculture]] -- Biochar applications in farming
 [[biochar-production-guide]] -- Practical biochar making
-[[biochar-soil-amendment]] -- Biochar soil science
 [[dighton-fungi-climate-change-feedback]] -- Fungi and climate feedbacks
-[[dighton-mycorrhizal-networks-carbon-transfer]] -- Mycorrhizal carbon flow
 [[dighton-fungal-responses-climate-change]] -- Fungal climate responses
-[[dighton-fungal-drought-tolerance-plant-water-relations]] -- Drought
-  protection by fungi
 [[dighton-wood-decay-ecosystem-carbon]] -- Fungal wood decay and carbon
-[[dighton-fungal-rock-weathering-mineral-dissolution]] -- Fungi in soil
-  formation
 [[fungal-decomposition-succession-resource-quality]] -- Decomposition
-  and [[fungal-decomposition-resource-quality-determinants]]
-[[mycorrhizal-carbon-phosphorus-exchange]] -- [[dighton-ericoid-mycorrhizal-nutrient-acquisition]] exchange
-[[biodiversity-of-fungi-biomass-carbon-soil-structure]] -- Fungal biomass
+  and [[mycorrhizal-carbon-phosphorus-exchange]] -- [[biodiversity-of-fungi-biomass-carbon-soil-structure]] -- Fungal biomass
   and soil structure
-[[mycorrhizal-fungi]] -- Mycorrhizal associations overview
 [[the-soil-food-web]] -- Soil food web ecology
-[[humus-and-soil-organic-matter]] -- Humus formation and function
 [[no-till-farming-and-conservation-agriculture]] -- No-till methods
-[[regenerative-agriculture-overview]] -- Regenerative agriculture
-  principles
-
-## References
-
-Dighton, John. Fungi in [[fungal-ecosystem-processes-overview]]. New York: Marcel Dekker, 2003.
+[[fungal-ecosystem-processes-overview]]. New York: Marcel Dekker, 2003.
 Lowenfels, Jeff and Wayne Lewis. Teaming with Nutrients: The Organic
   Gardener's Guide to Optimizing Plant Nutrition. Portland: Timber Press,
   2013.

@@ -9,10 +9,7 @@ sources:
 ---
 # Solomon on Growing Garlic, Onions, and Leeks
 
-From [[solomon-complete-organic-fertilizer-guide]]
-
-- [[solomon-growing-root-crops-guide]]
-- [[complete-organic-fertilizer-recipes]]
+From [[solomon-growing-root-crops-guide]]
 - [[solomon-root-cellaring-and-crop-storage]]
 - [[nutrient-movement-through-soil-to-plant-roots]]
 ## Background and Context

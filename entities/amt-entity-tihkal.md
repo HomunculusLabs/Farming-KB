@@ -33,45 +33,9 @@ TIHKAL entry #48. An indole analogue of amphetamine that functions as both a mon
 
 ### Oral Experiences
 
-- **15 mg, orally**: "I got a strong [[leary-psychedelic-experience-bardo-mapping]] that lasted about twelve hours, but an unexpected relief from my chronic depression that lasted for four days."
-- **20 mg, orally**: "Nothing happened for three hours -- I thought I had drawn a blank. Then I became a little uncomfortable, restless. I feel completely washed out, exhausted. And I had a hang-over the next morning."
-- **30 mg, orally**: "It felt a little like speed, strong speed. Yet I found myself yawning and in sort of a dreaminess state and quite lethargic. It lasted a long time."
-- **30 mg, orally** (detailed): "Effects first noted in just over an hour -- a general numbness and a mild loss of motor coordination. A hand tremor and jaw tightness persisted throughout. No open or closed-eye visuals, but the visual field was altered such that the outside world appeared unreal and alien. I slept well at the 12th hour."
-- **80 mg, orally**: "I shot up in an hour, and by another hour I was vomiting worse than with mescaline. Absolutely no visuals, no hallucinations, but extreme depersonalization. Thirteen hours into this and it is still go, go, go."
-- **100 mg, orally**: "There was pupillary dilation, jaw clenching, tachycardia and vomiting. Too much. But I really liked this compound at lower dosages."
-
-### Smoked Experiences
-
-- **4 mg, smoked**: "It burns and smells bad. After a half hour, BINGO, there was a very slow building of a definite psychedelic. It builds slowly but strongly for another few hours to a plateau at maybe four hours. Even after 18 hours following input, and after 7 hours of sleep, I awoke still feeling the effects."
-- **5 mg, smoked**: "Qualitatively milder and less intense than mushrooms, but much longer lived. Not complex, but just a lot of very good spirit, energetic feeling, enhanced colors, attractive rhythms in music."
-- **10 mg, smoked**: "While there are no true visuals to speak of, the overall picture of things seemed grainy -- as if filmed on low quality color 16mm film. There is an energized eeriness about inanimate objects."
-## Related Compounds
-
-- **4-HO-a-MT**: Markedly visual at 15-20 mg orally, but with toxic signs including abdominal pain, tachycardia, and headache.
-- **5-HO-a-MT (alpha-methylserotonin)**: An effective 5-HTP decarboxylase inhibitor; not known to be assayed in man.
-- **5-IT (5-isomer of a-MT)**: At 20 mg orally, a long-lived stimulant producing increased heart-rate, anorexia, diuresis, and slight hyperthermia for about twelve hours.
-- **alpha,O-DMS**: Alpha,N-dimethyl-5-methoxytryptamine; allows entry of this serotonin-like product directly into the brain.
-- **1,alpha-DMT and alpha,alpha-DMT**: Known compounds; neither has been explored in man. Expected to show 3-fold potency drops from the alpha-substitution pattern.
-
-## Physical Properties
-
-- Free base mp: 97–100 C
-- Acetate salt mp: 143–144 C
-- Fumarate salt mp: 200–203 C
-- MS (m/z): C2H6N+ 44 (100%); indolemethylene+ 130/131 (44%/43%); parent ion 174 (2%)
-
-## See Also
-
-- [[dmt-entity-tihkal]] -- unmethylated parent tryptamine
-- [[psilocin-entity-tihkal]] -- shorter-acting tryptamine psychedelic
+- **15 mg, orally**: "I got a strong [[dmt-entity-tihkal]] -- unmethylated parent tryptamine
 - [[a-et-entity-tihkal]]
-- [[net-entity-tihkal]]
-
-## Merged: Entities/Alpha N Dmt Entity Tihkal
-
-# alpha-N-DMT (alpha,N-Dimethyltryptamine)
-
-alpha-N-DMT, also known as alpha,N-dimethyltryptamine or N-methyl-alpha-methyltryptamine, is a synthetic tryptamine compound documented by Alexander Shulgin in TIHKAL. It occupies a unique pharmacological position as the tryptamine analogue of methamphetamine, paralleling the [[serotonin-psilocybin-structural-relationship-hallucinogenic-mechanism]] between amt entity tihkal and amphetamine.
+- [[serotonin-psilocybin-structural-relationship-hallucinogenic-mechanism]] between amt entity tihkal and amphetamine.
 
 ## Chemistry and Structure
 
@@ -88,3 +52,88 @@ Multiple synthetic routes exist for its preparation: from indoleacetone via redu
 Dosage range: 50 - 100 mg, orally.
 
 Duration: 6 - 8 hours.
+
+## Overview
+
+Amt Entity Tihkal represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish amt entity tihkal
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving amt extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Amt Entity Tihkal finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for amt entity tihkal. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+amt entity tihkal and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Amt Entity Tihkal has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of amt entity tihkal into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[2c-g-3-entity]]
+- [[4-5-mdo-dmt-entity-tihkal]]
+- [[5-6-mdo-dipt-entity-tihkal]]
+- [[mdcpm-entity-pihkal]]
+- [[methyl-k-entity-pihkal]]

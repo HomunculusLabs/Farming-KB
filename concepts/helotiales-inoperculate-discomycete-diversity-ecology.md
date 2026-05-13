@@ -17,10 +17,8 @@ type: concept
 # Helotiales: Inoperculate Discomycete Diversity and Ecology
 
 The Helotiales is one of the largest and most ecologically diverse
-orders of [[bloomfield-truffle-evolution-cup-fungi-hypogeous]] (discomycetes) within the class Leotiomycetes
-of the [[pezizales-discomycete-ascomycete-diversity]]. The order
-encompasses endophytes, [[arbuscular-mycorrhizal-fungi-biology-symbiosis]], plant pathogens, and
-saprobes of litter and [[fungal-succession-woody-debris-ecology]], making it one of the most
+orders of [[pezizales-discomycete-ascomycete-diversity]]. The order
+encompasses endophytes, [[fungal-succession-woody-debris-ecology]], making it one of the most
 ecologically heterogeneous groups of ascomycetes.
 
 ## Morphology and Classification
@@ -74,51 +72,10 @@ well-characterized:
 ### Plant Pathogens
 Several Helotiales are significant plant pathogens. Sclerotinia
 species cause damping-off, stem rot, and fruit rot in a wide
-range of hosts. Monilinia species cause [[comparison-brown-rot-vs-white-rot-bioremediation]] of stone
-fruits. These pathogens typically overwinter as sclerotia in
-soil and produce apothecia that release ascospores to initiate
-new infections during favorable conditions.
-
-### Endophytes and Mycorrhizal Fungi
-Many Helotiales function as endophytes, living asymptomatically
-within plant tissues. The dark [[dark-septate-endophytes-root-colonizing-fungi]] (DSE), which
+range of hosts. Monilinia species cause [[dark-septate-endophytes-root-colonizing-fungi]] (DSE), which
 are common root colonizers of plants in stressed environments,
 include numerous helotialean species. See
-[[ascomycota-phylogeny-major-classes-lineages]]
-- [[dark-septate-endophytes-root-colonizing-fungi]]
-- [[mycorrhizal-diversity-assessment]]
-
-## Practical Applications
-
-The principles and techniques discussed here have wide-ranging applications
-across multiple disciplines and contexts. Practitioners and researchers
-continue to explore new ways to integrate these concepts into modern practice,
-adapting traditional knowledge to contemporary challenges and opportunities.
-
-## Key Considerations
-
-Several important factors influence the effectiveness and outcomes described
-in this topic. Understanding these considerations helps practitioners make
-informed decisions and avoid common pitfalls. Environmental conditions,
-timing, and material selection all play critical roles.
-
-## Historical Context
-
-The historical development of this subject reflects centuries of accumulated
-knowledge and practical experience. From traditional methods passed down
-through generations to modern scientific approaches, the evolution continues
-to inform current best practices and research directions.
-
-## Common Challenges
-
-Practitioners frequently encounter several challenges when working with
-these concepts. Climate variability, resource limitations, and knowledge
-gaps can all affect outcomes. Addressing these challenges requires patience,
-observation, and a willingness to adapt approaches based on results.
-
-## See Also
+[[dark-septate-endophytes-root-colonizing-fungi]]
 - [[sclerotinia-sclerotiorum]]
-- [[coprophilous-fungi]]
 - [[spore]]
-- [[mycorrhizal-fungi]]
 - [[ascomycota]]

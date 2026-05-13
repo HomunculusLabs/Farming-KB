@@ -101,22 +101,6 @@ Arthur draws on oral traditions from indigenous Khemitian descendants:
 
 Arthur's Egyptian interpretations are highly speculative. While the mushroom-shaped pillars and some hieroglyphic depictions are visually suggestive, mainstream Egyptology does not accept Amanita muscaria as the basis of Egyptian religion. Andrija Puharich's "The Sacred Mushroom" also explored Egyptian-Amanita links but through psychic trance rather than conventional scholarship. The comparative mythology (3-day death, Dec 25 birth, sacramental meal) is well-documented independently of mushroom theories.
 
-## Practical Applications
-
-The concepts discussed here have direct applications in mushroom cultivation, mycoremediation, and fungal ecology research. Understanding these principles enables practitioners to optimize growing conditions and develop innovative approaches to fungal biotechnology.
-
-## Key Considerations
-
-When applying these concepts, several factors warrant attention: environmental conditions, regional climate variations, available resources, and long-term sustainability goals. Success depends on careful observation and adaptive management based on feedback from the system.
-
-## See Also
-
-- [[mythological-mushroom-symbolism]]
-- [[mckenna-glaukos-myth-blue-staining-mushroom-symbolism]]
-- [[christmas-mushroom-symbolism]]
-- [[canaanite-religion-and-mushroom-symbolism]]
-- [[allegro-cross-and-mushroom-symbolism]]
-
 ## See Also
 
 - [[mushrooms-and-mankind]] — Arthur's comprehensive ethnomycological framework

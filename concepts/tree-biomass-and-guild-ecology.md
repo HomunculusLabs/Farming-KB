@@ -50,11 +50,11 @@ A **guild** is a community of plants and animals that collectively support the t
 
 ## Each Root Can Be an Individual
 
-Just as each branch can be genetically distinct, root systems exhibit remarkable individuality. Root associates — mycorrhizal fungi, nitrogen-fixing bacteria, and various soil organisms — form an underground guild that processes minerals, water, and organic matter. The root zone is not simply an anchor but an active digestive and absorptive surface, trading carbon from the tree for phosphorus, nitrogen, and trace minerals from the soil ecosystem.
+Just as each branch can be genetically distinct, root systems exhibit remarkable individuality. Root associates — [[mycorrhizal-fungi]], nitrogen-fixing bacteria, and various soil organisms — form an underground guild that processes minerals, water, and organic matter. The root zone is not simply an anchor but an active digestive and absorptive surface, trading carbon from the tree for phosphorus, nitrogen, and trace minerals from the soil ecosystem.
 
 ## Design Implications
 
-Understanding the tree as a total biomass system has profound implications for permaculture design:
+Understanding the tree as a total biomass system has profound implications for [[permaculture-design]]:
 
 - **Never plant trees in isolation** — they depend on their guild for health and productivity
 - **Design guilds, not individual plantings** — include nitrogen fixers, insectary plants, nutrient accumulators, and animal attractants
@@ -81,8 +81,6 @@ water, and atmosphere enables designers to create more resilient and productive
 landscapes that work with natural processes rather than opposing them.
 
 ## See Also
-- [[comparison-fruit-tree-pruning-vs-fruit-tree-grafting-guide]]
 - [[tree-biomass-and-wind-effects]]
-- [[comparison-apple-tree-care-vs-apple-guild-design]]
 - [[query-how-do-i-design-an-apple-tree-guild]]
 - [[apple-tree-guild-design-species-combinations]]

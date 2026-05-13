@@ -11,8 +11,7 @@ tags: [cultivar, microbiome, plant-genotype, host-specificity, endorhiza]
 
 Cultivar-specificity refers to the phenomenon whereby different plant
 cultivars
-(varieties) of the same species harbor distinct [[cannabis-rhizosphere-microbial-communities]],
-particularly within root tissues. The [[winston-cannabis-microbiome-study-design]] by Winston et
+(varieties) of the same species harbor distinct [[winston-cannabis-microbiome-study-design]] by Winston et
 al. (2014) provided one of the clearest demonstrations of this effect, showing
 that Cannabis strains maintain significantly different endorhiza bacterial
 communities even when grown in identical soil. Cultivar-specificity is a
@@ -46,46 +45,13 @@ enrichment suggests differential root chemistry between strains.
 White Widow and Maui Wowie were grown across two distinct soil types (Mo-Bio
 and Orange County) to test cultivar effects with greater edaphic variation.
 Strain remained significant across all analyses (weighted ADONIS: R² = 0.27,
-p = 0.001). Key differentiating taxa included [[sphingomonas-wittichii-cannabis-endorhiza-strain-specificity]],
-prevalent in Maui Wowie, which metabolizes phenazine-1-carboxylic acid and
-may enhance plant survival in competitive soil environments.
-
-Notably, strain showed no impact on OTU presence/absence (0 significant OTUs
-by unweighted analysis) but strongly affected abundance (71 significant OTUs
-by weighted analysis). This means cultivar selection acts on the relative
-proportions of taxa rather than determining which taxa are present.
-
-## Mechanisms of Cultivar-Specific Selection
-
-### Root Exudate Profiles
-
-Different cultivars produce different combinations and concentrations of root
-exudates including sugars, amino acids, organic acids, flavonoids, and
-[[antifungal-secondary-metabolites-coprophilous-fungi]]. These exudates serve as carbon sources and signaling
+p = 0.001). Key differentiating taxa included [[antifungal-secondary-metabolites-coprophilous-fungi]]. These exudates serve as carbon sources and signaling
 molecules that selectively enrich or inhibit specific bacterial taxa. In
 Cannabis, cannabinoid-related compounds may contribute to cultivar-specific
 exudate profiles, though direct evidence remains limited.
 
 ### Immune System Interactions
 
-[[plant-innate-immunity-pti-eti-defense]], including pattern-triggered immunity (PTI) and
-effector-triggered immunity (ETI), differentially recognizes and responds to
-microbial-associated molecular patterns (MAMPs). Genetic variation between
-cultivars in immune receptor repertoires could produce different filtering
-effects on colonizing bacteria, favoring commensals that evade or suppress
-host immune responses while excluding potential pathogens.
-
-### Root Architecture
-
-Cultivar differences in root branching density, root hair length, cortical
-cell structure, and vascular anatomy create physically distinct colonization
-niches. A bacterium adapted to the intercellular spaces of one cultivar's
-cortex may find another cultivar's root architecture less hospitable.
-
-### Secondary Metabolites
-
-Cannabis produces hundreds of secondary metabolites beyond cannabinoids,
-including terpenes, flavonoids, and alkaloids. Some of these compounds have
 [[medicinal-mushroom-antimicrobial-properties]] that could differentially shape the endorhiza
 community. THC concentration correlated with endorhiza structure (r-stat:
 0.863), though soil confounds prevent definitive conclusions about causality.
@@ -108,7 +74,6 @@ enable marker-assisted breeding for beneficial microbiome traits.
 
 ## See Also
 
-- [[two-tier-selection-model-plant-microbiome]]
 - [[cannabis-endorhiza-microbiome]]
 - 
 

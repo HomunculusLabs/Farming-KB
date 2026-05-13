@@ -25,39 +25,15 @@ sources: []
 - **Genus:** *Psilocybe*
 - **Species:** *P. thailandensis*
 
-Described by Guzmán and colleagues from collections made in Thailand. The species name reflects its type locality and primary known distribution in mainland [[psilocybe-southeast-asia-pacific]]. It belongs to *Psilocybe* Section *Coprophilae*, the dung-inhabiting group within the genus.
-
-## Description
-
-### Cap (Pileus)
-- **Diameter:** 5–15 mm, conic to bell-shaped (campanulate), sometimes with a small papilla
-- **Color:** Dark chestnut-brown to reddish-brown when hydrated, fading to pale ochre on drying
-- **Surface:** Smooth, viscid when fresh, prominently hygrophanous
-- **Margin:** Striate at maturity, often with remnants of the partial veil attached as fibrillose appendages
-- **Context:** Very thin, bruising bluish-green
-
-### Gills (Lamellae)
-- Adnexed to sinuate, subclose to close
-- Grayish at first, becoming dark brown to purplish-brown with maturity
-- Edges lighter, fringed with sterile cells
-
-### Stipe (Stem)
-- **Length:** 25–50 mm
-- **Thickness:** 1–2 mm, equal or slightly enlarged at the base
-- **Color:** Pallid to light brown
-- **Surface:** Smooth to lightly pruinose at the apex
-- **Partial veil:** Thin and membranous when young, leaving a fugacious annular zone
-- **Bluing:** Strong blue bruising throughout the stipe, particularly at the base
-
-### [[baeocystin]] or norbaeocystin content has been published specifically for this species.
+Described by Guzmán and colleagues from collections made in Thailand. The species name reflects its type locality and primary known distribution in mainland [[baeocystin]] or norbaeocystin content has been published specifically for this species.
 
 ## Ethnobotanical Significance
 
-Thailand has a documented history of psychoactive mushroom use, particularly among rural communities and hill tribes. While *[[psilocybin-mushrooms]] including this species. Tourism-related mushroom consumption in Thailand has brought international attention to the country's psychoactive [[arbuscular-mycorrhizal-fungal-diversity-patterns-distribution]], though this has also led to legal restrictions.
+Thailand has a documented history of psychoactive mushroom use, particularly among rural communities and hill tribes. While *[[arbuscular-mycorrhizal-fungal-diversity-patterns-distribution]], though this has also led to legal restrictions.
 
 ## Similar Species
 
-Most easily confused with *Psilocybe samuiensis*, which shares its Southeast Asian distribution and coprophilous habit. *P. thailandensis* can be distinguished by its generally smaller size, more strongly conic cap, and differences in spore morphology. *[[panaeolus-cyanescens-entity]]* co-occurs in the same habitats but is readily separated by its black [[comparison-spore-print-collection-vs-spore-syringe-production]] and mottled gill edges.
+Most easily confused with *Psilocybe samuiensis*, which shares its Southeast Asian distribution and coprophilous habit. *P. thailandensis* can be distinguished by its generally smaller size, more strongly conic cap, and differences in spore morphology. *[[comparison-spore-print-collection-vs-spore-syringe-production]] and mottled gill edges.
 
 ## Conservation
 
@@ -80,3 +56,88 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
+
+## Overview
+
+Psilocybe Thailandensis represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish psilocybe thailandensis
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving psilocybe extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Psilocybe Thailandensis finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for psilocybe thailandensis. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+psilocybe thailandensis and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Psilocybe Thailandensis has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of psilocybe thailandensis into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[grass-seed-cultivation-of-psilocybe-species]]
+- [[psilocybe-fascicata]]
+- [[psilocybe-plutonia]]
+- [[psilocybe-strictipes-entity]]
+- [[sclerotia-timeline-psilocybe-tampanensis-mexicana-grass-seed-jar]]

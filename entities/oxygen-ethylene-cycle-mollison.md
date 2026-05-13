@@ -55,11 +55,11 @@ The oxygen-ethylene cycle is a continuous alternation between aerobic (oxygen-do
 
 ## Relevance to Cultivation and Mycology
 
-The oxygen-ethylene cycle directly influences fungal activity in soils. Many beneficial fungi, including mycorrhizal species, depend on the micro-site mosaic for optimal function. Anaerobic micro-sites produce ethylene which regulates not only microbial activity but also root growth patterns and fungal colonization dynamics. In [[mushroom-cultivation]], [[substrate-preparation]] aims to create appropriate aerobic-anaerobic gradients: composting creates anaerobic zones within the pile while maintaining aerobic surfaces, and the transition between these states drives the succession of microbial communities that produce a productive mushroom substrate.
+The oxygen-ethylene cycle directly influences fungal activity in soils. Many beneficial fungi, including mycorrhizal species, depend on the micro-site mosaic for optimal function. Anaerobic micro-sites produce ethylene which regulates not only microbial activity but also root growth patterns and fungal colonization dynamics. In [[substrate-preparation]] aims to create appropriate aerobic-anaerobic gradients: composting creates anaerobic zones within the pile while maintaining aerobic surfaces, and the transition between these states drives the succession of microbial communities that produce a productive mushroom substrate.
 
 ## Sources
 
-- Mollison, B. (1988). Permaculture: A Designer's Manual. Tagari Publications.
+- Mollison, B. (1988). Permaculture: A Designer's Manual. [[tagari-publications]].
 - Smith, A. (1981). The Living Soil. Permaculture Journal #7, July 1981.
 
 ## The Oxygen-Ethylene Cycle
@@ -73,7 +73,7 @@ consumption. This self-regulating cycle maintains balanced soil atmosphere.
 
 Disruption of the oxygen-ethylene cycle through compaction or waterlogging
 shifts soil toward permanently anaerobic conditions. This favors pathogenic
-organisms and reduces nutrient cycling efficiency. Permaculture earthworks
+organisms and reduces nutrient cycling efficiency. [[permaculture-earthworks]]
 and mulching strategies preserve this natural regulatory mechanism.
 
 ## Detection and Measurement
@@ -85,6 +85,5 @@ soils often smell sour from anaerobic metabolites.
 
 ## See Also
 
-- [[query-how-do-i-use-knf-inputs-through-the-plant-growth-cycle]]
 - [[query-which-legumes-fix-the-most-nitrogen-for-gardens-and-farms]]
 - [[query-which-cover-crops-are-best-for-breaking-hardpan-and-compacted-soil]]

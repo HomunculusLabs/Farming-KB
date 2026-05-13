@@ -8,7 +8,7 @@ sources:
   - "raw/papers/nicole-faires-the-ultimate-guide-to-natural-farming-and-sustainable-l"
 ---
 # Permaculture Water Harvesting and Swales
-**Source:** The Ultimate Guide to [[comparison-natural-farming-vs-permaculture]] & [[natural-farming-sustainable-living-principles]]
+**Source:** The Ultimate Guide to [[natural-farming-sustainable-living-principles]]
 (Nicole Faires, 2012)
 Water is the most important element on any piece of land. No other factor
 impacts so many other things or is affected by so many other elements. How
@@ -71,55 +71,79 @@ harvesting toolkit.
 ### Swale Planting
 The berm below a swale becomes a productive growing zone. Recommended
 planting strategies include:
-- [[comparison-pruning-fruit-trees-vs-grafting-fruit-trees]] and nitrogen-fixing support species on the berm
-- Comfrey, chicory, and other deep-rooted [[comparison-dynamic-accumulators-vs-cover-crops]]
-- [[permaculture-plants-food-forest-ground-covers-bamboos]] to protect the berm from erosion
-- A diverse polyculture that mimics natural edge communities
-## Rainwater Catchment Systems
-Collecting rainwater from roofs provides a clean water supply for domestic
-use and irrigation. Key components of a rainwater catchment system include:
-- **Collection surface**: Roof area determines volume; metal roofs are
-  ideal as they are smooth and non-toxic
-- **Conveyance**: Gutters and downspouts direct water to storage; include
-  first-flush diverters to exclude debris from the initial rainfall
-- **Storage**: Tanks, cisterns, or ponds; size based on roof area, rainfall
-  patterns, and demand
-- **Distribution**: Gravity-fed irrigation or pumped systems to move water
-  to points of use
-A good rule of thumb is that 1 inch of rain on 1,000 square feet of roof
-yields approximately 600 gallons of water. Storage capacity should be
+- [[comparison-dynamic-accumulators-vs-cover-crops]]
+- [[permaculture-water-harvesting]]
+- [[dom]]
+- [[swale]]
+
+## Overview
+
+Faires Water Harvesting And Swales represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish faires water harvesting and swales
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving faires extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
 
 ## Practical Applications
 
-The principles and techniques discussed here have wide-ranging applications
-across multiple disciplines and contexts. Practitioners and researchers
-continue to explore new ways to integrate these concepts into modern practice,
-adapting traditional knowledge to contemporary challenges and opportunities.
+Faires Water Harvesting And Swales finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
 
-## Key Considerations
+## Management and Implementation
 
-Several important factors influence the effectiveness and outcomes described
-in this topic. Understanding these considerations helps practitioners make
-informed decisions and avoid common pitfalls. Environmental conditions,
-timing, and material selection all play critical roles.
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for faires water harvesting and swales. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+faires water harvesting and swales and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
 
 ## Historical Context
 
-The historical development of this subject reflects centuries of accumulated
-knowledge and practical experience. From traditional methods passed down
-through generations to modern scientific approaches, the evolution continues
-to inform current best practices and research directions.
+Faires Water Harvesting And Swales has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
 
-## Common Challenges
+## Integration Strategies
 
-Practitioners frequently encounter several challenges when working with
-these concepts. Climate variability, resource limitations, and knowledge
-gaps can all affect outcomes. Addressing these challenges requires patience,
-observation, and a willingness to adapt approaches based on results.
+Successful integration of faires water harvesting and swales into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
 
-## See Also
-- [[permaculture-water-harvesting]]
-- [[nicole-faires]]
-- [[dom]]
-- [[det]]
-- [[swale]]
+## Challenges and Solutions

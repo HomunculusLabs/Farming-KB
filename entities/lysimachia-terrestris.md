@@ -17,17 +17,7 @@ sources:
 
 ## Overview
 
-**Lysimachia terrestris** is a species of herbaceous perennial plant in the family Primulaceae, native to northern [[guzman-psilocybin-mushrooms-north-america]]. It is commonly known as the swamp candle, yellow loosestrife, or earth loosestrife.
-
-The species is characteristic of wetland habitats including marshes, swamps, bogs, and stream margins across Canada and the northern United States. It is recognized by its tall, erect stems topped with dense spikes of bright yellow flowers.
-
-Swamp candle is a valuable component of native wetland plant communities, providing nectar and pollen for a range of pollinating insects during midsummer.
-
-## Taxonomy and Morphology
-
-Lysimachia terrestris was described by the English botanist Carl Linnaeus in 1753 as a member of the genus *Lysimachia*. The specific epithet *terrestris* means "of the earth," referencing its terrestrial habit in saturated soils.
-
-The species was later reclassified by Nathaniel Lord Britton and Addison Brown within their treatment of [[growing-gourmet-north-american-reishi-species]] flora. Modern phylogenetic studies place it within Lysimachia section Lysimachia, the core yellow-flowered clade.
+**Lysimachia terrestris** is a species of herbaceous perennial plant in the family Primulaceae, native to northern [[growing-gourmet-north-american-reishi-species]] flora. Modern phylogenetic studies place it within Lysimachia section Lysimachia, the core yellow-flowered clade.
 
 The plant produces erect, unbranched stems reaching 60–120 cm in height. Stems are smooth, slightly angular, and green to reddish-green in color, with a characteristic slight wing along each angle.
 
@@ -49,17 +39,11 @@ The root system is fibrous and relatively shallow, adapted to saturated soils wh
 
 Lysimachia terrestris ranges across northern North America from Newfoundland and Labrador west to Manitoba and south through the Great Lakes region to New England, New York, and the Appalachian Mountains.
 
-Disjunct populations occur in the [[psilocybin-north-america-pacific-northwest]], though these are less common and may represent introductions. The species is most abundant in the Canadian Maritime Provinces and the northeastern United States.
-
-The plant is found in a variety of wetland habitats including freshwater marshes, swamp margins, bog edges, wet meadows, stream banks, and roadside ditches with persistent moisture.
-
-It thrives in full sun to partial shade in saturated or shallowly inundated soils. Optimal conditions include acidic to neutral pH, high organic content, and a water table at or near the soil surface.
-
-Elevation ranges from sea level to approximately 1,200 meters. The species is tolerant of seasonal flooding and can survive brief periods of shallow inundation during [[query-how-to-protect-plants-from-frost-and-extend-the-growing-season]].
+Disjunct populations occur in the [[query-how-to-protect-plants-from-frost-and-extend-the-growing-season]].
 
 Lysimachia terrestris is not considered invasive outside its native range, though it can form substantial colonies in favorable wetland conditions. Its growth is naturally limited by competition and water availability.
 
-In the northeastern United States, it is often found growing alongside other wetland perennials including [[caltha-palustris]], [[iris-versicolor]], and various Carex species. It typically occupies the shallowest zones of marsh vegetation gradients.
+In the northeastern United States, it is often found growing alongside other wetland perennials including [[iris-versicolor]], and various Carex species. It typically occupies the shallowest zones of marsh vegetation gradients.
 
 ## Ecology and Interactions
 
@@ -69,17 +53,7 @@ The orange ring at the base of the petals serves as a nectar guide, directing po
 
 Butterflies, syrphid flies, and small beetles also visit the flowers as secondary pollinators. The extended bloom period of 4–6 weeks provides a reliable midsummer nectar resource in wetland habitats.
 
-The foliage is palatable to mammalian herbivores including deer and muskrat, though [[gadd-mycelial-network-resilience-grazing-pressure]] is typically low due to the plant's preference for flooded habitats. The seeds may be consumed by waterfowl.
-
-Lysimachia terrestris contributes to wetland stabilization through its fibrous root system, which helps bind saturated soils along stream banks and marsh edges.
-
-The species serves as a larval food plant for a limited number of Lepidoptera species. Its foliage chemistry is not well studied, though related Lysimachia species produce triterpenoid saponins that may deter generalist herbivores.
-
-Dead stems and leaf litter persist through winter in northern climates, providing shelter for overwintering arthropods and contributing to the detrital food web of wetland ecosystems.
-
-## Cultivation and Uses
-
-Swamp candle is occasionally cultivated in native plant gardens, rain gardens, and [[comparison-constructed-wetlands-vs-bioswales]] where consistent soil moisture can be maintained. It is valued for its vertical accent and reliable midsummer bloom.
+The foliage is palatable to mammalian herbivores including deer and muskrat, though [[comparison-constructed-wetlands-vs-bioswales]] where consistent soil moisture can be maintained. It is valued for its vertical accent and reliable midsummer bloom.
 
 Propagation is by seed, which germinates readily under moist, cool conditions without stratification. Division of established clumps in early spring is an effective vegetative method.
 
@@ -87,4 +61,89 @@ Seeds can be sown directly into wet soil in autumn or started indoors in trays w
 
 The species requires minimal maintenance once established in appropriate wet conditions. It spreads slowly by rhizomes and self-seeds moderately, but does not typically become aggressive in garden settings.
 
-[[companion-planting-with-fungi]] other native wetland species such as [[lobelia-cardinalis]], [[chelone-glabra]], and [[vernonia-noveboracensis]] creates attractive and ecologically functional rain garden compositions.
+[[lobelia-cardinalis]], [[vernonia-noveboracensis]] creates attractive and ecologically functional rain garden compositions.
+
+## Overview
+
+Lysimachia Terrestris represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish lysimachia terrestris
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving lysimachia extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Lysimachia Terrestris finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for lysimachia terrestris. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+lysimachia terrestris and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Lysimachia Terrestris has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of lysimachia terrestris into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[lysimachia-clethroides]]
+- [[lysimachia-ephemerum]]
+- [[lysimachia-maritima]]
+- [[lysimachia-nummularia]]
+- [[lysimachia-vulgaris]]

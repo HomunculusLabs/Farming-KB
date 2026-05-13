@@ -10,13 +10,11 @@ sources:
 ---
 # Energy-Efficient House Design
 
-The greatest cost in house maintenance in temperate cold areas is that of space and water heating; together, these may make up 80% of all domestic energy costs. In permaculture, both [[cool-climate-settlement-design-mollison]] overall and house design in detail are critical conservation factors in human occupation of any [[holzer-climate-zone-microclimate-creation]].
+The greatest cost in house maintenance in temperate cold areas is that of space and water heating; together, these may make up 80% of all domestic energy costs. In permaculture, both [[holzer-climate-zone-microclimate-creation]].
 
 ## Site Selection and Settlement Design
 
-Settlement site choice, and the surrounding plantings in landscape, are probably so critical as to provide for 70% of the conservation of heat energy in [[greenhouse-cool-climates-mollison]]; actual structural techniques cope with the rest. In creating a sustainable settlement, the following factors are important:
-
-- Village or streets aligned east-west at the mid-slope ([[mollison-frost-protection-and-thermal-belt-design]]) of a sun-facing slope, preferably with forests and high water storages above the site
+Settlement site choice, and the surrounding plantings in landscape, are probably so critical as to provide for 70% of the conservation of heat energy in [[mollison-frost-protection-and-thermal-belt-design]]) of a sun-facing slope, preferably with forests and high water storages above the site
 - Housing closely placed or conjoined at east and west walls, and preferably of two to four stories, to reduce insulation costs and create a compact site
 - Dense windbreak polewards or uphill of the settlement, and to the east and west (a "suntrap" structure)
 - Dense attached vines on all sound masonry walls, or out from wooden walls, to assist insulation
@@ -73,53 +71,80 @@ In the permaculture system, good house design includes integration with living c
 - Greywater recycling to garden systems
 - Compost systems for kitchen and garden waste
 
-In some climates, many of these structures are formed of the natural environment, and will in time return to it (bamboo and rattan, [[comparison-wattle-and-daub-vs-cob-construction]], thatch, and earth-covered or sheltered structures).
+In some climates, many of these structures are formed of the natural environment, and will in time return to it (bamboo and rattan, [[dom]]
+- [[permaculture]]
+- [[rocket-stoves-and-efficient-wood-burning-design]]
 
-## Glasshouse Integration
+## Overview
 
-A glasshouse attached to the sunward side of a house serves multiple functions:
+Energy Efficient House Design represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
 
-- Pre-heats air entering the house
-- Provides a warm buffer zone reducing heat loss from the main structure
-- Grows food plants and seedlings
-- Can house domestic animals (rabbits, poultry) whose body heat contributes to house warming
-- Acts as a solar collector for hot water systems
+## Key Characteristics
 
-## Climate-Specific Considerations
+Several defining characteristics distinguish energy efficient house design
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
 
-For hot climates, the strategy reverses:
+## Ecological Context
+
+The ecological relationships involving energy extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
 
 ## Practical Applications
 
-The principles and techniques discussed here have wide-ranging applications
-across multiple disciplines and contexts. Practitioners and researchers
-continue to explore new ways to integrate these concepts into modern practice,
-adapting traditional knowledge to contemporary challenges and opportunities.
+Energy Efficient House Design finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
 
-## Key Considerations
+## Management and Implementation
 
-Several important factors influence the effectiveness and outcomes described
-in this topic. Understanding these considerations helps practitioners make
-informed decisions and avoid common pitfalls. Environmental conditions,
-timing, and material selection all play critical roles.
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for energy efficient house design. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+energy efficient house design and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
 
 ## Historical Context
 
-The historical development of this subject reflects centuries of accumulated
-knowledge and practical experience. From traditional methods passed down
-through generations to modern scientific approaches, the evolution continues
-to inform current best practices and research directions.
+Energy Efficient House Design has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
 
-## Common Challenges
+## Integration Strategies
 
-Practitioners frequently encounter several challenges when working with
-these concepts. Climate variability, resource limitations, and knowledge
-gaps can all affect outcomes. Addressing these challenges requires patience,
-observation, and a willingness to adapt approaches based on results.
+Successful integration of energy efficient house design into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
 
-## See Also
-- [[dom]]
-- [[det]]
-- [[permaculture]]
-- [[modern-homes-mold-crisis-energy-efficient-construction]]
-- [[rocket-stoves-and-efficient-wood-burning-design]]
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource

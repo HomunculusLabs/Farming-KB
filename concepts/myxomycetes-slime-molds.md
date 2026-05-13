@@ -10,14 +10,7 @@ sources: []
 
 ## Taxonomic Status
 
-Myxomycetes are **NOT true fungi** — they have a protozoan origin (Patterson & Sogin 1992). With approximately **700 described species**, they are classified into 3 subclasses, 6 orders, and roughly 57 genera. Despite their non-fungal phylogenetic affiliation, they have traditionally been studied by mycologists and are essential components of many [[biodiversity-fungal-biodiversity-estimation-methods]] surveys.
-
-## Cosmopolitan Distribution
-
-Myxomycetes are **cosmopolitan** in distribution, achieving wide dispersal through wind-transported spores. This remarkable dispersal capacity means that many species are found on every continent, though local species composition and abundance vary with habitat type, moisture regimes, and substrate availability. They contribute significantly to overall [[soil-food-web-nutrient-cycling]] communities. Their occurrence on dung also links them to [[fuligo-septica]]
-
-- fungal-parasites-invertebrates
-- [[moist-chamber-technique-fungal-fruiting]]
+Myxomycetes are **NOT true fungi** — they have a protozoan origin (Patterson & Sogin 1992). With approximately **700 described species**, they are classified into 3 subclasses, 6 orders, and roughly 57 genera. Despite their non-fungal phylogenetic affiliation, they have traditionally been studied by mycologists and are essential components of many [[soil-food-web-nutrient-cycling]] communities. Their occurrence on dung also links them to [[moist-chamber-technique-fungal-fruiting]]
 - [[physarum-polycephalum]]
 ## Practical Applications
 

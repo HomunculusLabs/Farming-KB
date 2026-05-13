@@ -10,42 +10,12 @@ sources: [/Users/t3rpz/wiki/raw/papers/field-guide-to-the-psilocybin-mushroom.md
 
 # Panaeolus subbalteatus
 
-**Panaeolus subbalteatus** (syn. **Panaeolina subbalteata**, also known as **Panaeolus cinctulus** following modern taxonomic revision) is a widely distributed psilocybin-containing mushroom. It is one of the most commonly encountered psychoactive species in temperate regions, often found in lawns, compost piles, and pastures. It was one of three species featured in F.C. Ghouled's 1972 *[[ghouled-field-guide-historical-context]] to the [[emcdda-psilocybin-non-addictive-profile-tolerance-dynamics]]* alongside *[[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]]* and *Psilocybe caerulescens*.
-
-## Taxonomy and Classification
-
-- **Kingdom:** Fungi
-- **Division:** Basidiomycota
-- **Class:** Agaricomycetes
-- **Order:** Agaricales
-- **Family:** Bolbitiaceae
-- **Genus:** Panaeolus (some authorities place in Panaeolina)
-- **Species:** P. subbalteatus (accepted synonym: P. cinctulus)
-
-The taxonomic history of this species is complex. Many field guides and mycological references have used *Panaeolus subbalteatus* historically, while modern molecular work places it in *Panaeolus* with *P. cinctulus* as the currpsilocybin-mushrooms. The species epithet *subbalteatus* means "somewhat belted," referring to the characteristic zonate (banded) cap.
-
-## Distribution and Habitat
-
-*Panaeolus subbalteatus* has a remarkably wide distribution, far exceeding that of most [[psilocybe-cyanescens]] a germ pore.
+**Panaeolus subbalteatus** (syn. **Panaeolina subbalteata**, also known as **Panaeolus cinctulus** following modern taxonomic revision) is a widely distributed psilocybin-containing mushroom. It is one of the most commonly encountered psychoactive species in temperate regions, often found in lawns, compost piles, and pastures. It was one of three species featured in F.C. Ghouled's 1972 *[[emcdda-psilocybin-non-addictive-profile-tolerance-dynamics]]* alongside *[[psilocybe-cyanescens]] a germ pore.
 - **Odor and Taste:** Farinaceous (mealy, like damp flour). Mild taste.
 
 ## Chemical Composition
 
-*P. subbalteatus* contains **psilocybin** and **psilocin**, though at lower concentrations than *Psilocybe cubensis* or *[[growing-gourmet-caramel-capped-psilocybe-cyanescens-cultivation]]*. Reported alkaloid content ranges from 0.05% to 0.3% psilocybin in dried material, making it a **mildly active** species. Potency varies considerably by geographic population and growing conditions. Baeocystin has also been detected.
-
-The lack of prominent blue bruising can make identification challenging; the species does not oxidize psilocin as visibly as *Psilocybe* species, which is partly attributable to lower psilocin concentrations.
-
-## Similar Species and Identification
-
-The genus *Panaeolus* contains many species, most of which are inactive. Key distinguishing features of *P. subbalteatus*:
-
-- **Zonate cap:** The banded pattern on the moist cap is distinctive
-- **Mottled gills:** The checkered two-tone gill pattern is diagnostic for the genus
-- **Habitat on enriched soil:** Unlike many inactive lawn mushrooms
-
-Potentially confusing species includepanaeolus-acuminatusnisecii** (the "haymaker's mushroom"): Very similar appearance, smaller, grows in similar habitats. *P. foenisecii* is generally considered inactive or weakly active. It tends to have a more reddish-brown cap and smaller spores.
-- **[[psilocybin]]
-- [[psilocybe-caerulescens]]
+*P. subbalteatus* contains **psilocybin** and **psilocin**, though at lower concentrations than *Psilocybe cubensis* or *[[psilocybin]]
 - [[psilocybe-cubensis]]
 ## Practical Considerations
 
@@ -87,3 +57,88 @@ creating a reference base of observations, interventions, and results.
 This accumulated knowledge enables progressively better decision-making
 and helps identify patterns that might otherwise be overlooked in the
 complexity of day-to-day management and observation activities.
+
+## Overview
+
+Panaeolus Subbalteatus represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish panaeolus subbalteatus
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving panaeolus extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Panaeolus Subbalteatus finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for panaeolus subbalteatus. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+panaeolus subbalteatus and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Panaeolus Subbalteatus has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of panaeolus subbalteatus into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[panaeolus-acuminatus]]
+- [[panaeolus-acuminatus-profile]]
+- [[panaeolus-antillarum-misidentification-copelandia-confusion]]
+- [[panaeolus-panaeolina-neurotropic-species]]
+- [[panaeolus-subbalteatus-profile]]

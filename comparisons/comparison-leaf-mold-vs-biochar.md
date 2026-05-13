@@ -22,35 +22,12 @@ right amendment for specific soil challenges.
 
 ## Leaf Mold
 
-[[leaf-mold-composting]]
-
-Leaf mold is the product of fungal decomposition of fallen leaves, replicating
-the natural process that builds forest floor soils. The result is a dark,
-crumbly, earthy-smelling material rich in humic substances. While its direct
-nutrient content is modest (roughly 0.5-1% N, 0.2-0.5% P, 0.3-0.8% K), its
-true value lies in its extraordinary water-holding capacity -- up to 300-500%
-of its weight -- and its ability to support beneficial fungal networks.
-
-Production is straightforward: collect deciduous leaves in fall, pile them in
-a wire bin, keep them moist, and wait. Shredding leaves and adding thin layers
-of nitrogen-rich material can reduce the timeline from 1-2 years to 6-12
-months, but even a neglected pile produces excellent leaf mold over time. No
-precise carbon-to-nitrogen ratios, no turning schedules, and no special
-equipment are needed.
-
-Leaf mold particularly excels in sandy soils (improving water retention) and
-clay soils (improving drainage and friability). It also serves as an excellent
-mulch, potting mix component, and seed-starting medium. Its fungal dominance
-makes it especially valuable in no-till and woodland garden systems.
-
-## Biochar
-
 [[biochar]]
 
 Biochar is produced by heating biomass in a low-oxygen environment through
 pyrolysis, yielding a carbon-rich solid with a highly porous structure. 
 Surface
-areas of 100-500 m2/g give biochar exceptional cation exchange capacity,
+areas of 100-500 m2/g give biochar exceptional [[cation-exchange-capacity]],
 enabling it to retain positively charged nutrients in the root zone, reducing
 leaching losses significantly.
 
@@ -92,7 +69,7 @@ water-retention and structure-improving properties have the most dramatic
 impact. Woodland gardens, shade gardens, and perennial beds that mimic forest
 conditions benefit enormously from leaf mold's fungal-dominated biology.
 
-Choose leaf mold when your priority is feeding the soil food web rather than
+Choose leaf mold when your priority is feeding [[the-soil-food-web]] rather than
 adding specific nutrients. It is also the better option for gardeners who want
 immediate results without special equipment -- just pile leaves and wait.
 
@@ -135,7 +112,5 @@ pores, filling them with humic acids and microbial life.
 
 ## See Also
 
-- [[comparison-biochar-vs-compost]]
 - [[comparison-vermicomposting-vs-leaf-mold]]
-- [[comparison-hugelkultur-vs-biochar-soil-building]]
 - [[comparison-wood-chip-mulch-vs-leaf-mold-vs-composted-manure-soil-building]]

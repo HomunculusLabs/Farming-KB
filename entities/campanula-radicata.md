@@ -109,13 +109,8 @@ The phylogenetic relationships within this Mediterranean group continue to be re
 
 ## See Also
 
-- [[campanula-rotundifolia]]
 - [[campanula-rapunculoides]]
-- [[campanula-glomerata]]
 - [[campanula-persicifolia]]
-- [[campanula-carpatica]]
 - [[campanula-trachelium]]
-- [[lobelia-cardinalis]]
 - [[platycodon-grandiflorus]]
-- [[phyteuma-spicatum]]
 - [[jasione-montana]]

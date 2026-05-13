@@ -4,12 +4,10 @@ source: allegro-j-the-sacred-mushroomcross.md
 type: concept
 ---
 
-# [[allegro-names-gods-zeus-yahweh-uculture-semen-theology]] on the Cross, Crucifixion, Harmony, Yoke, and [[allegro-david-adonis-egypt-exodus-mushroom-myth-making]] Symbolism
+# [[allegro-david-adonis-egypt-exodus-mushroom-myth-making]] Symbolism
 
 John Allegro's *The Sacred Mushroom and the Cross* (1970) advances a philological
-argument that [[comparison-central-leader-vs-open-center-fruit-tree-training]] Christian symbols—the cross, crucifixion, the yoke, and the
-carpenter—derive from ancient [[allegro-sumerian-language-bridge-god-name-decipherment]] [[allegro-fertility-philosophy-of-the-ancient-near-east]] language encoded in
-mushroom-worship cults. The [[amanita-muscaria-historical-names-and-symbols]], with its upright stem and broad
+argument that [[allegro-sumerian-language-bridge-god-name-decipherment]] [[amanita-muscaria-historical-names-and-symbols]], with its upright stem and broad
 cap, served as a visual template for sexual and cosmological metaphors persisting
 across millennia of Near Eastern and Mediterranean religious expression.
 
@@ -76,26 +74,7 @@ becomes euphemism for sexual copulation.
 
 The cross became the symbol of the phallic god Hermes: upright post, cross-piece,
 and erect penis, welcomed at crossroads (*trivia*)—the very places the cross
-would later be erected as Christian emblem. Eastern churches [[query-how-do-i-preserve-and-store-mushrooms-after-harvest]] a double
-cross-piece recalling the full phallic iconography. In Sparta, Castor and Pollux
-were represented by crossed wooden beams. Greeks called the gibbet **"twin
-tree"** (*xulon didumon*). The twins wore a cross or star on close-fitting felt
-caps (*pilos*), an image surviving as the orb in Christian iconography.
-
-## Crucifixion as Dismemberment
-
-The Hebrew verb for "crucify" literally means "to disjoint." Crucifixion is
-dismemberment—the violent separation of what belongs together. The paradigmatic
-instance is **Jacob's hip dislocation** (Genesis 32:25, 32), struck in the
-hip-socket while wrestling a divine being. The "hip" motif recurs: **Adonis**
-killed by a boar's tusk through the hip; **Dionysus** born from Zeus's hip after
-Semele is struck by thunderbolt; **Jesus pierced in the side** (John 19:34);
-**Thomas puts his fist in the wound** (John 20:25, 27).
-
-The ball-and-socket hip-joint stands for penis in vagina, stem in mushroom cap.
-Crucifixion enacts violent separation of these joined parts—a cosmic
-dismemberment the fertility cult sought to reverse through ritual. The tearing
-apart is prelude to reassembly; death precedes [[allegro-death-and-resurrection-in-the-mushroom-cult]]; the cap falls so a
+would later be erected as Christian emblem. Eastern churches [[allegro-death-and-resurrection-in-the-mushroom-cult]]; the cap falls so a
 new fruiting body may arise. **Scourging** splayed the
 victim on a frame like a starfish; **Christ** relates to an Aramaic verb meaning
 "to smear with semen" and "to stretch out." Bacchic Maenads pulled animals
@@ -117,7 +96,5 @@ converging beneath the historical surface.
 
 ---
 
-*See also:* [[allegro-sacred-mushroom-cross-introduction-fertility-cults]]
-· [[allegro-mandrake-nectar-mushroom-phallic-nomenclature]]
-· [[allegro-religious-lamentation-and-the-bacchic-cult]]
+*See also:* [[allegro-mandrake-nectar-mushroom-phallic-nomenclature]]
 · [[allegro-philological-methodology]]

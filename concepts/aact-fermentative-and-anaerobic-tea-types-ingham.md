@@ -1,8 +1,7 @@
 ---
 title: Aact Fermentative And Anaerobic Tea Types Ingham
 source: elaine-ingham-phd_-the-field-guide-i-for-actively-aerated-com.md
-source_author: [[elaine-ingham]]
-topics: compost tea, fermentation, anaerobic, microbiology, [[chamovitz-circadian-rhythm-internal-clock-plants]]
+source_author: chamovitz-circadian-rhythm-internal-clock-plants
 ---
 
 # Fermentative and Anaerobic Compost Tea Types
@@ -15,12 +14,7 @@ Aerated Compost Tea (AACT) receives the most attention for its broad-spectrum
 benefits, understanding the fermentative and anaerobic alternatives is critical
 for growers who encounter these products or are tempted to brew them. The key
 distinction lies in oxygen availability during the brewing process and the
-[[cannabis-rhizosphere-microbial-communities]] that result.
-
-## The Four Compost Tea Production Methods
-
-### 1. Actively Aerated Compost Tea (AACT)
-The gold standard. Active aeration maintains [[aact-dissolved-oxygen-fine-bubble-aeration-ingham]] above 6 mg/L
+[[aact-dissolved-oxygen-fine-bubble-aeration-ingham]] above 6 mg/L
 throughout the brew cycle, typically 24-36 hours. This preserves the full
 complement of beneficial organisms from the parent compost: aerobic bacteria,
 fungi (including hyphal fragments), protozoa, and nematodes. AACT is the most
@@ -28,9 +22,7 @@ useful tea for improving plant-growing conditions because it delivers the
 complete soil foodweb.
 
 ### 2. Fermentative Compost Tea (FCT)
-Fermentative teas select for facultative [[ingham-anaerobic-organisms-role-soil]] that can suppress
-certain diseases through antibiotic and inhibitory interactions. These teas are
-characterized by the growth of [[bionutrients-lab-lactic-acid-bacteria-serum]] and fermentative yeasts.
+Fermentative teas select for facultative [[bionutrients-lab-lactic-acid-bacteria-serum]] and fermentative yeasts.
 While the aerobic organisms are not killed — they enter a dormant state and can
 theoretically be resuscitated if conditions return to aerobic — the beneficial
 fungi, protozoa, and nematodes are lost or severely diminished.
@@ -63,8 +55,7 @@ hydrogen sulfide, and ammonia — compounds that are biocidal at certain
 concentrations.
 
 Ingham is explicit: anaerobic liquids cannot be called compost tea. If the
-[[fukuoka-textdoc-composting-critique-futility-prepared-organic-matter]] is putrefying, the liquid should be called putrefying tea. The
-loss of [[cervantes-trichoderma-beneficial-fungi]], protozoa, and nematodes means most of the biological
+[[cervantes-trichoderma-beneficial-fungi]], protozoa, and nematodes means most of the biological
 benefit of the compost is gone. Additionally, anaerobic conditions can support
 the growth of human pathogens including Clostridium species, E. coli,
 Salmonella, and Shigella.
@@ -96,36 +87,8 @@ Aact Fermentative And Anaerobic Tea Types Ingham has significant applications in
 The development and understanding of aact fermentative and anaerobic tea types ingham has evolved considerably over recent decades, with contributions from researchers, practitioners, and indigenous knowledge systems worldwide.
 
 ## See Also
-- [[ingham-aact-vs-anaerobic-brews-mechanisms-benefits]]
 - [[aact-tea-types-and-definitions-ingham]]
-- [[aact-aerobic-vs-anaerobic-brew-comparison-ingham]]
 - [[ingham-dissolved-oxygen-anaerobic-aact-brewing-management]]
-- [[aact-definitions-and-types-ingham]]
-
-## Key Considerations
-
-Several important factors influence the effectiveness and outcomes described
-in this topic. Understanding these considerations helps practitioners make
-informed decisions and avoid common pitfalls. Environmental conditions,
-timing, and material selection all play critical roles.
-
-## Historical Context
-
-The historical development of this subject reflects centuries of accumulated
-knowledge and practical experience. From traditional methods passed down
-through generations to modern scientific approaches, the evolution continues
-to inform current best practices and research directions.
-
-## Common Challenges
-
-Practitioners frequently encounter several challenges when working with
-these concepts. Climate variability, resource limitations, and knowledge
-gaps can all affect outcomes. Addressing these challenges requires patience,
-observation, and a willingness to adapt approaches based on results.
-
-## See Also
 - [[actively-aerated-compost-tea]]
-- [[elaine-ingham]]
 - [[aact-tea-types-and-definitions-ingham]]
-- [[doc]]
 - [[soil-foodweb]]

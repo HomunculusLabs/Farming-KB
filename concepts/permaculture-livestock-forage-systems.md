@@ -19,13 +19,13 @@ Permaculture integrates livestock into designed systems through diverse forage s
 
 ## Fodder Trees and Shrubs
 
-Tree fodders are central to permaculture forage systems, providing browse during dry seasons, yielding on marginal land, and contributing to soil improvement through [[legume-nitrogen-fixation-and-green-manure]] deep nutrient cycling.
+Tree fodders are central to permaculture forage systems, providing browse during dry seasons, yielding on marginal land, and contributing to soil improvement through nitrogen fixation and deep nutrient cycling.
 
 ### Key Fodder Tree Species
 
-- **Leucaena** ([[leucaena-leucocephala]]) -- high-protein fodder tree for tropics and subtropics
+- **Leucaena** (Leucaena leucocephala) -- high-protein fodder tree for tropics and subtropics
 - **Tagasaste** (Chaemocytisus palmensis) -- tolerant and hardy from tropics to cool areas; widely used in New Zealand dry areas for cut forage, as a pioneer, mulch, and nurse crop
-- **Honey Locust** ([[gleditsia-triacanthos]]) -- selected trees bear heavy pod loads in dry subtropics; frost-hardy. Thornless, high-sugar forms preferred. Deep soil moisture needed in dry season but soil-tolerant and wind-hardy
+- **Honey Locust** (Gleditsia triacanthos) -- selected trees bear heavy pod loads in dry subtropics; frost-hardy. Thornless, high-sugar forms preferred. Deep soil moisture needed in dry season but soil-tolerant and wind-hardy
 - **Kiawe** (Prosopis pallida) -- staple pod forage on dry savannah sites; dense wood, excellent firewood and termite-resistant posts. 20% thornless trees on Hawaii, non-invasive
 - **Desmanthus virgatus** -- shrub to 3m resembling Leucaena, tolerant of heavy cutting and browsing in savannah tropics, yields 7-70 t/ha/year
 - **Desmodium species** -- browse shrubs to 2-4m, various species for different tropical conditions, yielding 2-30 t/ha/year green fodder
@@ -35,7 +35,7 @@ Tree fodders are central to permaculture forage systems, providing browse during
 
 Fodder trees are integrated into:
 - Windbreak rows (providing shelter and browse simultaneously)
-- Hedge rows along contour [[comparison-vetiver-grass-vs-bamboo-for-erosion-control]] and fodder
+- Hedge rows along contour for erosion control and fodder
 - Riparian zones for stream bank stability and browse
 - Paddock systems as shade and supplementary feed
 
@@ -48,7 +48,7 @@ Fodder trees are integrated into:
 - **Silverleaf desmodium** (D. uncinatum) -- for mulch in established orchards, rocky sites, pastures, wet areas and acid soils
 - **Glycine** (Neonotonia wightii) -- deep-rooted twining perennial, cycles phosphates from deep soil layers, resists drought
 - **Lucerne** (Medicago sativa) -- grown from cool temperate to tropics, deep-rooted, combines well with many grasses
-- **Siratro** (Macroptilium atropurpureum) -- perennial legume, excellent nitrogen contribution to grasses, ideal for [[comparison-rotational-grazing-vs-continuous-grazing]]
+- **Siratro** (Macroptilium atropurpureum) -- perennial legume, excellent nitrogen contribution to grasses, ideal for rotational grazing
 - **Puero** (Pueraria phaseoloides) -- pioneer green and cover crop, very vigorous summer mat, good in wet tropics
 - **Stylo** (Stylosanthes guianensis) -- pioneer of poor acid soils, excellent mulch in tree systems
 - **Cowpea** (Vigna sinensis) -- preferred annual cover crop, combined with sorghum, maize, millet as hay or mulch
@@ -80,6 +80,14 @@ Tagasaste is drilled with turnip for future sheep forage; seedling trees establi
 
 ## Related Concepts
 
-- permaculture livestock forage systems -- Rotational [[holistic-grazing-and-pasture-management]] management
+- permaculture livestock forage systems -- Rotational grazing and pasture management
 - permaculture livestock forage systems -- Animal species in permaculture systems
 - [[permaculture-woody-mulch-systems]] -- Forage species that double as mulch producers
+
+## See Also
+
+- [[nut-tree-cultivation-for-permaculture-food-forests]]
+- [[stametsian-permaculture-model]]
+- [[permaculture-farm-design-principles]]
+- [[nitrogen-fixing-plants-in-permaculture]]
+- [[urban-permaculture-and-integrated-land-management]]

@@ -23,7 +23,7 @@ After exercise, the body undergoes several recovery processes:
 - **Lactic acid accumulation:** Contributes to muscle fatigue and soreness (though its role is less significant than once believed)
 - **Micro-tears in muscle fibers:** Triggered by resistance training and intense exercise; repair leads to muscle growth
 - **Glycogen depletion:** Muscles deplete stored glycogen during exercise
-- **Hormonal changes:** Cortisol (stress hormone) rises during exercise and gradually returns to baseline
+- **Hormonal changes:** Cortisol ([[abscisic-acid-plant-stress-hormone]]) rises during exercise and gradually returns to baseline
 - **Immune function:** Intense exercise temporarily suppresses immune function
 
 ### Recovery Timeline
@@ -66,7 +66,7 @@ Cannabis provides analgesic effects through multiple mechanisms:
 
 ### Muscle Relaxation
 
-THC has muscle-relaxant properties through CNS modulation. CBD reduces muscle spasticity (studied in [[blesching-cannabis-multiple-sclerosis]] patients). [[cannabis-topicals-guide]] are particularly effective for targeted muscle relaxation without systemic effects.
+THC has muscle-relaxant properties through CNS modulation. CBD reduces muscle spasticity (studied in [[blesching-cannabis-multiple-sclerosis]] patients). [[cannabis-topicals-guide|Cannabis topicals]] are particularly effective for targeted muscle relaxation without systemic effects.
 
 ### Sleep Enhancement
 
@@ -74,7 +74,7 @@ Quality sleep is critical for recovery, and cannabis can influence it:
 
 - **THC:** Shortens sleep onset, may increase deep sleep. Long-term use may disrupt sleep architecture.
 - **CBD:** May improve sleep quality, particularly anxiety-related disturbance. Higher doses (160mg+) show sleep-promoting effects in studies.
-- **Myrcene and linalool:** Common [[cannabis-terpene-entourage-effect]] associated with sedative and calming properties
+- **Myrcene and linalool:** Common [[cannabis-terpenes-and-the-entourage-effect]] associated with sedative and calming properties
 - Timing matters: using cannabis too close to bedtime may disrupt REM sleep
 
 ### Stress Reduction
@@ -90,25 +90,25 @@ Quality sleep is critical for recovery, and cannabis can influence it:
 
 In 2018, WADA removed CBD from prohibited substances. THC remains banned in competition. Key points:
 - Full-spectrum CBD products contain trace THC — athletes must ensure THC-free products
-- Third-party [[cannabis-testing-and-quality]] of CBD products is critical
+- Third-party [[cannabis-testing-and-quality|testing]] of CBD products is critical
 - Broad-spectrum CBD (no THC) may be the best compromise for athletes
 - Some sports organizations have additional restrictions beyond WADA rules
 
 ## Strain Selection for Recovery
 
 ### For Anti-Inflammatory Benefits (high CBD and caryophyllene)
-Harlequin, Cannatonic, ACDC, Sour Tsunami, Pennywise (1:1 CBD:THC).
+Harlequin, Cannatonic, ACDC, [[sour-tsunami]], Pennywise (1:1 CBD:THC).
 
 ### For Muscle Relaxation (indica-dominant, myrcene and linalool)
-[[granddaddy-purple]], [[cannabis-strain-mango-haze-northern-lights-skunk-haze]], Afghan Kush, Blueberry. See [[marijuana-strain-guide-indica]] for more.
+[[granddaddy-purple]], [[cannabis-strain-mango-haze-northern-lights-skunk-haze]], Afghan Kush, Blueberry. See [[marijuana-strain-guide-indica|indica strain guide]] for more.
 
 ### For Sleep and Recovery
 
-High-myrcene, high-linalool indica strains: God's Gift, Bubba Kush, 9 Pound Hammer, Kosher Kush. See [[marijuana-strain-guide-indica]].
+High-myrcene, high-linalool indica strains: God's Gift, Bubba Kush, 9 Pound Hammer, Kosher Kush. See [[marijuana-strain-guide-indica|indica strain guide]].
 
 ### For Energy and Active Recovery
 
-Sativa-dominant strains for light movement: Green Crack, Durban Poison, [[cannabis-strain-super-lemon-haze-greenhouse-seed-co]]. See [[marijuana-strain-guide-sativa]].
+Sativa-dominant strains for light movement: Green Crack, Durban Poison, [[super-lemon-haze]]. See [[marijuana-strain-guide-sativa|sativa strain guide]].
 
 ## Timing and Method of Consumption
 

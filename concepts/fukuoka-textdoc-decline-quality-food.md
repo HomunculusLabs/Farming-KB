@@ -14,7 +14,7 @@ type: concept
 
 ## Overview
 
-[[masanobu-fukuoka]] argues that [[fukuoka-critique-modern-agriculture]]'s reliance on petroleum-based
+[[fukuoka-critique-modern-agriculture]]'s reliance on petroleum-based
 energy has fundamentally degraded the quality of food. What began as farming
 under the open skies has been reduced to the manufacture of petroleum-derived
 foods, with the farmer becoming a seller of false goods called "nutritional
@@ -51,12 +51,9 @@ the chance, at first, of insect damage or blight.
 ## Accelerated Artificial Growth
 
 Since root absorption of nutrients dissolved in water is inefficient, the
-[[cannabis-nutrient-solution-preparation]] is sprayed on a regular basis over the entire plant. Nutrients
-are taken in not only through the roots, but also through leaf surfaces, making
-them more immediately available and resulting in a higher [[soil-temperature-plant-growth-rate-doubling-rule]]. The
+[[soil-temperature-plant-growth-rate-doubling-rule]]. The
 temperature is increased and the level of light exposure raised with artificial
-lighting. [[carbon-dioxide-retention-jar-lid-mushroom-cultivation]] is sprayed and oxygen pumped in, making plant growth
-several times faster than in [[fukuoka-rice-dry-field-cultivation]].
+lighting. [[fukuoka-rice-dry-field-cultivation]].
 
 ## The Illusion of Quality
 
@@ -118,8 +115,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[fukuoka-decline-food-quality-petroleum-agriculture]]
 - [[fukuoka-petroleum-agriculture-food-quality-decline]]
-- [[fukuoka-textdoc-basic-agriculture-law-japan-food-self-sufficiency-crisis]]
 - [[fukuoka-textdoc-japan-postwar-farmer-alienation-mechanization-food-policy]]
 - [[fukuoka-textdoc-trajectory-hothouse-agriculture-to-total-food-synthesis]]

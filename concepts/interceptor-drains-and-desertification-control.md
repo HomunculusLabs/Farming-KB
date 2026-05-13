@@ -60,9 +60,7 @@ The critical assessment is long-term effects on the immediate landscape and the 
 
 ## Related Topics
 
-- [[mollison-designers-swale-design-and-water-harvesting-earthworks]]
 - [[natural-sewage-treatment-systems]]
-- [[biological-water-purification]]
 - [[greywater-systems-detailed]]
 
 ## Practical Applications
@@ -88,8 +86,6 @@ all influence the optimal approach to implementation.
 
 ## See Also
 
-- [[diversion-drains-and-spreader-banks]]
 - [[diversion-drains-interceptor-drains-spreader-banks]]
-- [[interceptor-drain-mollison]]
 - [[mollison-designers-diversion-drains-and-interceptor-banks]]
 - [[spreader-banks-and-interceptor-drains]]

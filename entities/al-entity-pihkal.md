@@ -8,47 +8,7 @@ sources: ["Shulgin - PIHKAL"]
 ---
 # AL
 
-[[2c-b-pihkal-entry-20]] #2. 4-Allyloxy-3,5-dimethoxy-PEA.
-
-## Dosage and Duration
-
-| Property | Value |
-|----------|-------|
-| Dosage | 20 - 35 mg. |
-| Duration | 8 - 12 h. |
-
-## Qualitative Comments
-
-> (with 24 mg) I first became aware of something
-> in about 10 minutes, a pleasant increase in energy. By 20 minutes it
-> was getting pronounced and was a nice, smooth development. During the
-> next hour positive and negative feelings developed simultaneously.
-> Following a suggestion, I ate a bit of food even though I had not been
-> hungry, and to my surprise all the negative feelings dropped away. I
-> felt free to join the others wherever they were at. I moved into the
-> creative, free-flowing kind of repertoire which I dearly love, and
-> found everything enormously funny. Much of the laughter was so deep
-> that I felt it working through buried depressions inside me and
-> freeing me. From this point on, the experience was most enjoyable.
-> The experience was characterized by clear-headedness and an abundance
-> of energy which kept on throughout the day and evening. At one point
-> I went out back and strolled along to find a place to worship. I had
-> a profound sense of the Presence and great love and gratitude for the
-> place, the people, and the activities taking place. The come-down
-> from the experience was very gradual and smooth. Food tasted
-> wonderful. I went to bed late, and quite ready for bed, although the
-> energy was still running. However, sleep was not long in coming.
->
-> (with 24 mg) The onset was extremely gradual and graceful, with the
->
-> first alert that one could really sense at about 50 minutes. This was
-> succeeded by a slow gentle climb to the peak at one hour and fifteen
-> minutes. The experience itself left all of the sensory modalities
-> functional; speech was cogent and rather fluid. In fact, there was an
-> unusual ease of free association. All throughout the session, the
-> talk was high in spirits and somehow indicative of an inner
-> excitement. Affect was entirely pleasant, but not exalting nor
-> conducive to insight or to [[maitake-problem-solving-troubleshooting]]. There were no
+[[maitake-problem-solving-troubleshooting]]. There were no
 > requirements for withdrawal into the self. The material seemed wholly
 > social in nature. No visual, auditory or olfactory sharpening was in
 > evidence. The plateau for this material seemed unusually long. I was
@@ -91,3 +51,88 @@ its preparation), 100 mg decyltriethylammonium iodide, and 13.6 g
 
 ## See Also
 - [[methyl-j-entity-pihkal]]
+
+## Overview
+
+Al Entity Pihkal represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish al entity pihkal
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving al extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Al Entity Pihkal finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for al entity pihkal. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+al entity pihkal and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Al Entity Pihkal has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of al entity pihkal into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[2c-g-3-entity]]
+- [[4-5-mdo-dmt-entity-tihkal]]
+- [[5-6-mdo-dipt-entity-tihkal]]
+- [[mdcpm-entity-pihkal]]
+- [[methyl-k-entity-pihkal]]

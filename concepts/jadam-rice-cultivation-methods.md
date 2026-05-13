@@ -12,7 +12,7 @@ sources:
 
 ## Overview
 
-JADAM rice cultivation combines the general JADAM soil foundation approach with specific rice pest and [[hamilton-pest-and-disease-control-organic]] programs. The system achieves high yields through strong root establishment, microbial diversity, and [[jadam-natural-pesticide-institute-and-research]] solutions that replace all chemical inputs.
+JADAM rice cultivation combines the general JADAM soil foundation approach with specific rice pest and [[jadam-natural-pesticide-institute-and-research]] solutions that replace all chemical inputs.
 
 ## Soil Foundation for Rice
 
@@ -29,100 +29,101 @@ Apply before rain or mix with water and fully soak the soil. Repeat 3-4 times be
 ### During Growth
 - Apply JMS with every watering, 3-4 times per month
 - Supplement with seawater/sea salt and phyllite solution
-- Use rice straw as fertilizer (not sold off) -- it has the perfect [[jadam-nutritional-balance-fertilizer]] for rice
-
-### Crop Residue Management
-JADAM strongly advocates returning rice straw to the field. The traditional autumn application of organic matter on the soil surface is the proven method. Rice straw contains nutrients specifically selected by rice roots from the soil's nutrient pool -- it is the perfect fertilizer for rice.
-
-## Seed Treatment
-
-### Rice Bakanae Disease Control
-Developed by Seonseop Jeong, Youngsu Hyeon, Seonsu Gim, and [[jerusalem-artichoke]] JHS -- 5 L (1.3 gal)
+- Use rice straw as fertilizer (not sold off) -- it has the perfect [[jerusalem-artichoke]] JHS -- 5 L (1.3 gal)
 - Korean pasque flower root (KPFR) JHS -- 5 L (1.3 gal)
 
 **Adjustments for specific problems:**
 - Serious pest/disease infestation: increase JWA and KPFR JHS to over 10 L each
-- Can use only KPFR JHS (take out [[comparison-jerusalem-artichoke-vs-potato]] JHS)
-- Black stinkbugs: over 10 L JWA + over 15 L KPFR JHS
-- Leaf blight: over 12 L JWA + over 2.5 L JS
-
-### Key Rice Diseases Controlled
-- Rice blast (稻熱病)
-- Rice sheath blight (紋枯病)
-- Rice bakanae disease (馬鹿苗病)
-- Smut
-- Leaf blight
-
-### Key Rice Pests Controlled
-- Brown planthopper (褐飛虱)
-- Asiatic rice borer (二化螟)
-- Armyworm (粘蟲)
-- Rice leaf roller (縱捲葉螟)
-- Rice water weevil (稻水象甲)
-- Black stinkbug
-- Rice moth larvae
-- Earth mite
-
-## Application Timing for Rice
-
-- Apply pesticides in humid/cloudy conditions
-- Early morning and sunset are best times
-- Do not spray at noon
-- For water surface spreading agent: early morning with little wind
-- Seed treatment: 48-hour cold immersion before sprouting
-- Soil foundation: 3-4 applications before transplanting
-- During growth: JMS with every watering; pesticide as needed based on monitoring
-
-## Key JADAM Principles for Rice
-
-1. **Root settlement determines yield:** Apply soil foundation intensively before transplanting
-2. **Return rice straw to the field:** It has the perfect nutritional balance for rice
-3. **Co-exist with weeds in paddies:** Wild grass in and around paddies benefits soil
-4. **Microbial diversity prevents disease:** Apply JMS continuously
-5. **Start with powdery mildew + aphid control:** If you can control these two, you are already an expert
-
-## References
-
-- Source: "JADAM Organic Farming" by Youngsang Cho, [[jadam-pest-control-with-natural-pesticides-jhs]] chapter (Formulas #1, #2, #3) and Soil Foundation chapters
+- Can use only KPFR JHS (take out [[jadam-pest-control-with-natural-pesticides-jhs]] chapter (Formulas #1, #2, #3) and Soil Foundation chapters
 
 ## See Also
 
-- [[jadam-crop-disease-prevention-methods]]
-
 - [[soil-food-web-nutrient-cycling]]
-- [[compost-tea-recipe-guide]]
+- [[det]]
+- [[jadam-rice-pesticide-program]]
+- [[fukuoka-natural-rice-barley-cultivation]]
+
+## Overview
+
+Jadam Rice Cultivation Methods represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish jadam rice cultivation methods
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving jadam extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
 
 ## Practical Applications
 
-The principles and techniques discussed here have wide-ranging applications
-across multiple disciplines and contexts. Practitioners and researchers
-continue to explore new ways to integrate these concepts into modern practice,
-adapting traditional knowledge to contemporary challenges and opportunities.
+Jadam Rice Cultivation Methods finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
 
-## Key Considerations
+## Management and Implementation
 
-Several important factors influence the effectiveness and outcomes described
-in this topic. Understanding these considerations helps practitioners make
-informed decisions and avoid common pitfalls. Environmental conditions,
-timing, and material selection all play critical roles.
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for jadam rice cultivation methods. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+jadam rice cultivation methods and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
 
 ## Historical Context
 
-The historical development of this subject reflects centuries of accumulated
-knowledge and practical experience. From traditional methods passed down
-through generations to modern scientific approaches, the evolution continues
-to inform current best practices and research directions.
+Jadam Rice Cultivation Methods has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
 
-## Common Challenges
+## Integration Strategies
 
-Practitioners frequently encounter several challenges when working with
-these concepts. Climate variability, resource limitations, and knowledge
-gaps can all affect outcomes. Addressing these challenges requires patience,
-observation, and a willingness to adapt approaches based on results.
+Successful integration of jadam rice cultivation methods into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
 
 ## See Also
-- [[det]]
-- [[youngsang-cho]]
-- [[jadam-rice-pesticide-program]]
-- [[pf-tek-brown-rice-vermiculite-cultivation]]
-- [[fukuoka-natural-rice-barley-cultivation]]
+
+- [[jadam-herb-solution-jhs]]
+- [[jadam-natural-mineral-water]]
+- [[jadam-potassium-fertilizer]]
+- [[jadam-rice-bakanae-treatment]]
+- [[jadam-soil-management-no-till-and-weed-control]]

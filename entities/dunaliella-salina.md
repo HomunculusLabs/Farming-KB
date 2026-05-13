@@ -24,9 +24,7 @@ sources:
 
 **Dunaliella salina** is an extremely halotolerant green microalga renowned for its ability to accumulate massive amounts of beta-carotene (up to 10–14% of dry weight) under high-light, high-salinity conditions. It is the world's primary commercial source of natural beta-carotene.
 
-The species is named after Michel Félix Dunal, who first observed it in salt evaporating ponds in Montpellier, France in 1838. Its extraordinary [[fungal-salt-tolerance-and-ion-homeostasis]] — surviving in saturated brine up to 35% NaCl — makes it a model organism for studying osmotic adaptation.
-
-Commercial beta-carotene production from *D. salina* has been operated at scale in Australia (Hutt Lagoon, Whyalla), Israel (Eilat), China, and the [[dmt-containing-plants-united-states-halpern]] since the 1980s, making it one of the longest-running microalgal biotechnology ventures.
+The species is named after Michel Félix Dunal, who first observed it in salt evaporating ponds in Montpellier, France in 1838. Its extraordinary [[dmt-containing-plants-united-states-halpern]] since the 1980s, making it one of the longest-running microalgal biotechnology ventures.
 
 ## Taxonomy and Morphology
 
@@ -42,48 +40,85 @@ Unlike most green algae, *Dunaliella* can regulate its internal glycerol concent
 
 ## Biochemical Composition
 
-Beta-carotene is the signature compound, accumulating to 4–14% of dry weight under stress conditions. *D. salina* produces a mixture of 9-cis and all-trans beta-carotene isomers, with the 9-cis form being particularly valued for its [[staycare-surfactant-enhanced-bioavailability-in-fungal-bioremediation]] and antioxidant activity.
-
-Total lipid content ranges from 8–20% of dry weight, increasing under stress. The lipid fraction is rich in galactolipids and betaine lipids, with notable amounts of alpha-linolenic acid (18:3n-3).
-
-Protein constitutes 30–50% of dry weight in low-salinity growth conditions but decreases significantly during carotenogenesis as nitrogen is remobilized. Glycerol, the primary osmolyte, can reach 40–50% of cellular dry weight in hypersaline conditions.
-
-Minor carotenoids include lutein, zeaxanthin, and neoxanthin. Chlorophyll *a* and *b* are present in vegetative cells but decrease during stress-induced carotenoid accumulation.
-
-## Cultivation
-
-*D. salina* is cultivated in large open ponds (raceway or lagoon systems) located in regions with high evaporation rates and abundant sunlight. The extreme salinity of the growth medium (15–35% NaCl) provides a natural defense against contamination by most competing organisms.
-
-Optimal conditions for beta-carotene production involve high light intensity (full sunlight), elevated temperature (25–35°C), and high salinity. The two-stage approach grows cells at moderate salinity for biomass, then transfers them to hypersaline ponds for carotenoid induction.
-
-Nutrient limitation, particularly nitrogen deprivation, is the primary trigger for carotenoid accumulation. However, complete nitrogen starvation must be avoided as it arrests growth prematurely and reduces total beta-carotene yield per hectare.
-
-Biomass productivity in commercial ponds is relatively low (10–30 g/m²/day) compared to other microalgae. The economics of production depend on the high per-unit value of natural beta-carotene rather than biomass volume.
-
-Harvesting is typically accomplished by stepwise salinity flotation: progressively increasing brine concentration causes *D. salina* cells to float, enabling skimming from the surface. Centrifugation completes the concentration process.
-
-## Applications
-
-**Natural beta-carotene:** The primary commercial product is dietary beta-carotene used as a provitamin A supplement, food colorant (E160a), and antioxidant. Natural beta-carotene from *D. salina* commands a premium over synthetic beta-carotene due to the presence of the 9-cis isomer.
-
-**Aquaculture feed:** Dried *D. salina* biomass is used as a feed supplement in shrimp hatcheries and ornamental fish production. The beta-carotene content enhances pigmentation and serves as a vitamin A precursor.
-
-**Cosmetics:** Beta-carotene extracts are incorporated into skincare formulations for antioxidant protection and as a natural colorant in cosmetics. The 9-cis isomer is specifically marketed for enhanced skin bioavailability.
-
-**Research model:** *D. salina* is extensively studied as a model for understanding halotolerance, osmotic regulation, carotenoid biosynthesis, and extremophile biology. Its glycerol-based osmoregulation mechanism is of particular biotechnological interest.
-
-## Ecological Significance
-
-*D. salina* naturally inhabits hypersaline environments including salt lakes, solar salterns, coastal lagoons, and salt-evaporating ponds. It is often the dominant primary producer in salterns, where salinities exceed that of seawater by 5–10 times.
-
-The species contributes to the pink and red coloration of many hypersaline lakes worldwide, including the famous pink lakes of Australia (Hutt Lagoon, Lake Hillier) and the Red Sea's coastal salterns.
-
-In its natural habitat, *D. salina* forms the base of simplified food chains supporting halophilic brine shrimp (*Artemia*), brine flies, and migratory flamingos that feed on carotenoid-rich organisms.
-
-## Strain Improvement
-
-Multiple *D. salina* strains with differing beta-carotene content, growth rates, and salinity tolerances have been isolated from diverse hypersaline habitats worldwide. [[blesching-cannabis-strain-selection-receptor-targeting]] remains the primary tool for commercial improvement, as genetic transformation protocols are less developed than for model chlorophytes.
+Beta-carotene is the signature compound, accumulating to 4–14% of dry weight under stress conditions. *D. salina* produces a mixture of 9-cis and all-trans beta-carotene isomers, with the 9-cis form being particularly valued for its [[blesching-cannabis-strain-selection-receptor-targeting]] remains the primary tool for commercial improvement, as genetic transformation protocols are less developed than for model chlorophytes.
 
 Classical mutagenesis using UV and chemical agents has yielded strains with enhanced beta-carotene accumulation. However, strain stability over extended cultivation remains a challenge due to the absence of [[fungal-life-cycles-sexual-reproduction-metamorphosis]] for strain fixation.
 
 The *D. salina* nuclear genome (~350 Mb) and chloroplast genome have been sequenced, providing resources for understanding carotenoid biosynthesis regulation and osmoregulatory gene networks.
+
+## Overview
+
+Dunaliella Salina represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish dunaliella salina
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving dunaliella extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Dunaliella Salina finds practical application in multiple design contexts.
+[[permaculture-principles]] guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for dunaliella salina. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+dunaliella salina and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Dunaliella Salina has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of dunaliella salina into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.

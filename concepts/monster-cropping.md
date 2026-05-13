@@ -12,14 +12,7 @@ tags: [reference]
 
 # Monster-Cropping
 
-Monster-cropping is a [[query-how-does-no-till-cannabis-cultivation-work]] technique that involves taking clones from a flowering female plant and reverting them to [[cannabis-vegetative-growth-stage]]. The re-vegged clones exhibit extreme branching and bushy growth patterns, producing unusually large, multi-cola plants. The technique is sometimes called "[[query-what-is-monster-cropping-and-should-i-try-it]]" because the resulting plants grow into massive, heavily branched specimens. While the specific term "monster-cropping" does not appear in Cervantes' text, he provides detailed coverage of all the underlying principles and techniques that comprise this method.
-
-## Core Concept
-
-When a cannabis plant is flowering, its growth pattern has shifted from vegetative (symmetrical branching) to reproductive (asymmetrical branching and flower production). Taking a cutting from this flowering plant and forcing it back into vegetative growth creates a genetic "memory" of the flowering state. When the clone re-vegetates, it produces an abnormal number of new growth points and branches, resulting in a bushy, multi-cola plant far more complex than a clone taken during vegetative growth.
-
-Cervantes confirms this phenomenon when he discusses [[low-stress-training]]: bend and position the many branches for an even canopy
-- [[lollipopping]]: remove lower growth to focus energy on the many top colas
+Monster-cropping is a [[cannabis-vegetative-growth-stage]]. The re-vegged clones exhibit extreme branching and bushy growth patterns, producing unusually large, multi-cola plants. The technique is sometimes called "[[low-stress-training]]: bend and position the many branches for an even canopy
 - [[sea-of-green]]: not typically combined, as monster-cropped plants are large
 
 ## Nutritional Requirements
@@ -32,9 +25,7 @@ Cervantes notes that indole-3-butyric acid (IBA) "can be used to encourage regen
 
 ## See Also
 
-- [[cannabis-clone-rooting-and-transplanting]] -- cloning techniques
 - [[cannabis-photoperiodism-and-light-cycles]] -- understanding light schedules for re-vegging
-- [[screen-of-green]] -- managing the many branches through a screen
 - [[topping-cannabis]] -- further increasing branching on re-vegged plants
 - [[cannabis-nutrient-recipes]] -- nitrogen-rich feeding for re-vegetation
 ## Practical Applications

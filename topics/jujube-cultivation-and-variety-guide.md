@@ -23,7 +23,7 @@ sources:
 
 # Jujube (Ziziphus jujuba) — Cultivation, Varieties, and Uses
 
-The jujube (*Ziziphus jujuba* Mill.), also known as the Chinese date, red date, or tsao, is a deciduous fruit tree in the buckthorn family (Rhamnaceae). Native to China, it has been cultivated for over 4,000 years and ranks among the most important fruit crops in East and South Asia. Valued for its exceptional [[dighton-fungal-drought-tolerance-plant-water-relations]], nutritional density, and medicinal properties, the jujube is increasingly recognized as a resilient [[food-forest]] species for arid and semi-arid climates. The fruit can be eaten fresh, dried, candied, or processed into vinegar, wine, and tea, while the leaves, seeds, and bark have documented uses in traditional medicine.
+The jujube (*Ziziphus jujuba* Mill.), also known as the Chinese date, red date, or tsao, is a deciduous fruit tree in the buckthorn family (Rhamnaceae). Native to China, it has been cultivated for over 4,000 years and ranks among the most important fruit crops in East and South Asia. Valued for its exceptional [[food-forest]] species for arid and semi-arid climates. The fruit can be eaten fresh, dried, candied, or processed into vinegar, wine, and tea, while the leaves, seeds, and bark have documented uses in traditional medicine.
 
 ## Taxonomy and Botanical Description
 
@@ -45,60 +45,9 @@ Jujube trees exhibit a distinctive zigzag branching pattern with paired thorns a
 
 ## History and Origin
 
-The jujube originated in the region spanning southern China to the Himalayan foothills of northern India. Archaeological evidence from the Neolithic site of Jiahu (c. 7000 BCE) in Henan Province, China, includes jujube seeds, making it one of the oldest domesticated fruit species. The tree spread along trade routes to the Middle East, North Africa, and Mediterranean Europe by the first millennium CE. It was introduced to the [[dmt-containing-plants-united-states-halpern]] in the 1830s and is now commercially grown in California, Texas, Oklahoma, and New Mexico.
+The jujube originated in the region spanning southern China to the Himalayan foothills of northern India. Archaeological evidence from the Neolithic site of Jiahu (c. 7000 BCE) in Henan Province, China, includes jujube seeds, making it one of the oldest domesticated fruit species. The tree spread along trade routes to the Middle East, North Africa, and Mediterranean Europe by the first millennium CE. It was introduced to the [[medicinal-plant-guide]] and [[fukuoka-orchard-management-detailed]] |
 
-In traditional Chinese medicine, dried jujube fruits (*Da Zao*) are one of the most commonly prescribed herbs, appearing in hundreds of classical formulations. They are considered a tonic for the spleen and qi, and are used to calm the mind, strengthen the blood, and support digestion. See also [[medicinal-plant-guide]] and [[medicinal-plant-guide]].
-
-## Major Cultivars and Varieties
-
-Hundreds of jujube cultivars exist in China, with new selections continually developed. The following table covers cultivars most relevant to growers outside China:
-
-| Cultivar | Origin | Fruit Size | Skin | Fresh/Dried | Ripening Season | Notes |
-|---|---|---|---|---|---|---|
-| **Li** | China | 3–5 cm | Brown-red | Both | Mid-Sept | Most popular US cultivar; large, sweet fruit; self-fruitful |
-| **Lang** | China | 5–7 cm | Brown-red | Dried | Mid-Sept | Very large, elongated; best for drying; self-fruitful |
-| **Sherwood** | Louisiana, USA | 3–4 cm | Dark red | Fresh | Late Sept–Oct | Selected for humid climates; very sweet; upright growth |
-| **GA-866** | Georgia, USA | 3–4 cm | Red-brown | Both | Sept | Vigorous, disease-resistant; good for the Southeast |
-| **So** | China | 2–3 cm | Red | Both | Sept | Small but extremely prolific; good for drying |
-| **Chico (GI-1187)** | California, USA | 3–5 cm | Mahogany | Fresh | Late Sept | Large, sweet, crisp; low chill requirement |
-| **Silverhill** | China | 2–3 cm | Light brown | Fresh | Early–Mid Sept | Early ripening; good for short-season areas |
-| **Honey Jar** | China | 2–3 cm | Golden-red | Fresh | Late Aug–Sept | Very sweet, small; excellent fresh eating |
-| **Shanxi Li** | Shanxi, China | 4–6 cm | Deep red | Dried | Mid-Sept | Premium drying cultivar in China; very large |
-| **Sugarcane** | China | 3–4 cm | Red | Fresh | Sept | Exceptionally sweet, crisp texture; thin skin |
-| **Coco** | China | 2–3 cm | Brown | Dried | Mid-Sept | Small, round; excellent dried flavor; high sugar |
-| **Thornless** | Various | Variable | Variable | Both | Variable | Thornless selections; easier [[fukuoka-orchard-management-detailed]] |
-
-Most jujube cultivars are partially to fully self-fruitful, though cross-pollination with a second variety can improve fruit set and size. See also [[hamilton-fruit-tree-selection-pollination]].
-
-## Cultivation Requirements
-
-### Climate
-
-Jujubes are among the most heat- and drought-tolerant fruit trees available. They thrive in hot summers (30–40 °C is optimal for fruit development) and tolerate winter cold to −28 °C (Zone 5). Their extremely low chill-hour requirement (150–400 hours) makes them ideal for warm-winter climates where [[pruning-fruit-trees]] with higher chill requirements fail. They do poorly in regions with cool, wet summers, as the fruit may not ripen fully and [[bloomfield-amphibian-decline-fungal-disease-climate-interactions]] pressure increases.
-
-### Soil
-
-Jujubes tolerate a remarkably wide range of soil conditions:
-- **pH**: 5.5–8.5 (optimally 6.0–7.5)
-- **Texture**: Sandy loam to heavy clay
-- **Salinity**: Moderately tolerant; suitable for slightly saline soils
-- **Drainage**: Prefers well-drained soils but tolerates periodic waterlogging better than most fruit trees
-
-They perform best in deep, well-drained loams but will produce acceptable crops in poor, rocky, or sandy soils where most fruit trees struggle. This makes them an excellent candidate for [[chinampas-agriculture]] and [[xeriscaping-guide]].
-
-### Water
-
-Once established (2–3 years after planting), jujubes are genuinely drought-tolerant and can survive on 250–500 mm of annual rainfall with minimal irrigation. For commercial fruit production, supplemental irrigation of 25–50 mm per week during fruit development improves size and yield. Overwatering, especially in heavy soils, promotes root rot and reduces fruit quality.
-
-### Light
-
-Full sun is essential. Jujubes planted in partial shade produce fewer flowers, lower fruit set, and less sweet fruit. A minimum of 8 hours of direct sunlight per day is recommended.
-
-## Propagation Methods
-
-### Seed Propagation
-
-Seed-grown jujubes are highly variable and generally not recommended for fruit production. Seeds require 60–90 days of cold stratification at 2–5 °C and have a hard seed coat that benefits from scarification. Germination rates are typically 40–70%. Seedlings are primarily used as rootstock or for mollison-windbreak-design and [[living-fences-and-hedgerows]].
+Most jujube cultivars are partially to fully self-fruitful, though cross-pollination with a second variety can improve fruit set and size. See also [[pruning-fruit-trees]] with higher chill requirements fail. They do poorly in regions with cool, wet summers, as the fruit may not ripen fully and [[chinampas-agriculture]] and [[living-fences-and-hedgerows]].
 
 ### Grafting and Budding
 
@@ -120,30 +69,82 @@ Clear the site of perennial weeds. In poor soils, incorporate compost or well-ro
 
 ### Planting
 
-Plant bare-root trees in early spring (before bud break) or container-grown trees in spring or early fall. Dig holes twice the root-ball width and the same depth. Avoid planting too deep—the graft union should remain 5–10 cm above the soil surface. Water thoroughly after planting and apply 5–10 cm of [[living-mulch-systems-guide]] around the base (keep mulch away from the trunk).
-
-### Spacing
-
-| System | Spacing | Trees per Hectare |
-|---|---|---|
-| Standard tree | 4–6 m × 4–6 m | 280–625 |
-| Semi-dense | 3 m × 4 m | 833 |
-| Hedgerow | 2 m × 4 m | 1,250 |
-| Container/patio | Single tree | N/A |
-
-For [[permaculture-food-forest-equivalency]], jujubes serve well as a mid-canopy or upper-understory tree at 4–6 m spacing, with [[nitrogen-fixing-trees]] as companions and [[ground-cover-plants]] beneath.
+Plant bare-root trees in early spring (before bud break) or container-grown trees in spring or early fall. Dig holes twice the root-ball width and the same depth. Avoid planting too deep—the graft union should remain 5–10 cm above the soil surface. Water thoroughly after planting and apply 5–10 cm of [[permaculture-food-forest-equivalency]], jujubes serve well as a mid-canopy or upper-understory tree at 4–6 m spacing, with [[ground-cover-plants]] beneath.
 
 ## Pruning and Training
 
-Jujubes fruit on current-season growth, so pruning strategy differs from most [[fruit-tree-pruning]] approaches:
-
-## See Also
-
-- fig cultivation — another drought-tolerant fruit tree for warm climates
-- [[pomegranate-cultivation-and-variety-guide]] — complementary [[comparison-olive-vs-fig-vs-pomegranate-mediterranean-fruit-trees]] species
-- mediterranean-herb-cultivation — understory companions for jujube orchards
-- [[drought-tolerant-planting-design]] — broader selection of water-wise fruit species
-- [[food-forest-design]] — integrating jujubes into polyculture systems
+Jujubes fruit on current-season growth, so pruning strategy differs from most [[pomegranate-cultivation-and-variety-guide]] — complementary [[drought-tolerant-planting-design]] — broader selection of water-wise fruit species
 - [[canning-and-preserving]] — methods for processing jujube harvests
-- [[drought-tolerant-planting-design]] — another Asian superfruit with similar climate requirements
 - [[living-fences-and-hedgerows]] — using thorny jujube cultivars as barrier hedgerows
+
+## Overview
+
+Jujube Cultivation And Variety Guide represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish jujube cultivation and variety guide
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving jujube extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Jujube Cultivation And Variety Guide finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for jujube cultivation and variety guide. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+jujube cultivation and variety guide and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Jujube Cultivation And Variety Guide has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of jujube cultivation and variety guide into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions

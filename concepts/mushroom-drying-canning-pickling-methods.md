@@ -10,23 +10,15 @@ sources:
 
 # Mushroom Drying, Canning, and Pickling Methods
 
-Mushroom preservation is essential for extending [[psilocybin-shelf-life-stability]], maintaining quality, and enabling long-distance transport of harvested crops. Fresh mushrooms deteriorate rapidly due to their biological characteristics, making proper processing methods critical for both commercial growers and home cultivators.
-
-This page covers the three primary preservation methods — drying, canning (including bottling), and pickling — drawing from established practices in [[cotter-oyster-mushroom-cultivation]], shiitake, and tropical [[accessible-mushroom-cultivation-for-disabilities]]. See [[mushroom-harvesting-techniques]].
+Mushroom preservation is essential for extending [[cotter-oyster-mushroom-cultivation]], shiitake, and tropical [[mushroom-harvesting-techniques]].
 
 ## Short-Term Storage
 
 Refrigeration at 1–4°C extends the shelf life of fresh mushrooms considerably. At harvest, mushrooms are typically at a temperature of 15–18°C, making pre-cooling a critical step. If mushrooms are not cooled before packaging, the metabolic heat they generate inside the container will raise the temperature further and accelerate spoilage. For more details on spoilage mechanisms, see mushroom spoilage and quality control.
 
-The best method for oyster [[oyster-mushroom-storage-processing]] is holding at 8–10°C in a packed container wrapped in microporous or perforated PVC film. The modified atmosphere inside the packaging — where CO₂ increases and O₂ decreases due to ongoing respiration — helps slow deterioration. The PVC film also reduces moisture loss and preserves overall quality. See [[mushroom-drying-storage]] and [[food-preservation-canning]].
-
-## Canning
-
-Canning is the most common commercial mushroom preservation method. It involves seven basic operations: cleaning, blanching, canning, sterilization, cooling, labeling, and packing. The process preserves mushrooms for years while retaining much of their nutritional value — see [[lacto-fermentation-and-food-preservation-methods]].
+The best method for oyster [[mushroom-drying-storage]] and [[lacto-fermentation-and-food-preservation-methods]].
 
 ## See Also
-
-- [[mushroom-drying-storage]]
 
 - [[food-preservation-canning]]
 - oyster-mushroom-bottle-cultivation

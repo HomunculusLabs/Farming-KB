@@ -20,10 +20,8 @@ tags: []
 
 ## Quick Decision Guide
 
-**What [[holzer-climate-zone-microclimate-creation]] are you in?** | USDA Zone | Best Species | Key Consideration |
-|-----------|-------------|-------------------| | 3–4 | [[query-best-walnut-varieties-for-different-climates-and-uses]]
+**What [[query-best-walnut-varieties-for-different-climates-and-uses]]
 
-- [[query-how-to-design-a-food-forest-guild-for-fruit-trees]]
 - [[query-how-do-i-prune-brambles-for-maximum-fruit-production]]
 ## Practical Applications
 

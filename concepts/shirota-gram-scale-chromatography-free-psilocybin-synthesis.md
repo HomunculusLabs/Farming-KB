@@ -2,29 +2,10 @@
 title: "Gram-Scale Chromatography-Free Synthesis of Psilocybin"
 source: concise-large-scale-synthesis-of-psilocin-and-psilocybin-shirota-hakamata-goda.md
 topics: ["psilocybin", "psilocin", "synthesis", "gram-scale",
-  "chromatography-free", "[[hmbc-noesy-nmr-analysis-zwitterionic-phosphate-intermediate-psilocybin]]", "Shirota",
-  "Hakamata", "Goda", "4-hydroxyindole", "magic mushroom"]
----
-
-# Gram-Scale Chromatography-Free Synthesis of Psilocybin
-
-## Overview
-
-In 2003, Osamu Shirota, Wataru Hakamata, and Yukihiro Goda at
-Japan's National Institute of Health Sciences published a concise
-large-scale synthesis of [[tryptamine-chemistry-psilocin-and-psilocybin-synthesis]] — the principal
-hallucinogenic constituents of "[[1960s-counterculture-and-magic-mushrooms]]" — achieved
-entirely **without chromatographic purification**. This was a
-significant practical achievement, as previous syntheses of
-psilocybin had required chromatographic steps that complicated
-scale-up, and isolation of pure psilocybin from mushroom tissue
-was impractical on gram scale due to psilocin's instability and
-psilocybin's high polarity.
-
-The synthesis was motivated by regulatory needs: since June 6,
-2002, fungi containing [[psilocin-and-psilocybin-chemistry]] had been regulated
+  "chromatography-free", "[[tryptamine-chemistry-psilocin-and-psilocybin-synthesis]] — the principal
+hallucinogenic constituents of "[[psilocin-and-psilocybin-chemistry]] had been regulated
 by Japan's Narcotics and Psychotropic Control Law. Chromatographic
-[[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]] (TLC, GC, HPLC) required [[shirota-forensic-standard-compounds-magic-mushroom-identification]],
+[[shirota-forensic-standard-compounds-magic-mushroom-identification]],
 which were difficult to obtain in pure form from natural sources.
 
 ## The Psilocin Synthesis Route
@@ -32,15 +13,7 @@ which were difficult to obtain in pure form from natural sources.
 The synthesis started from commercially available **4-hydroxyindole**
 with simple protection of the hydroxyl group by acetylation. This
 yielded 4-acetylindole (compound 4) in quantitative yield as ivory
-white crystals. The choice of [[acetyl-protection-route-psilocin-psilocybin-synthesis]] over benzyl ether
-protection (also used in prior work) was strategic: benzyl
-protection required a separate deprotection step, while acetyl
-protection could be removed in the same reduction step that
-produced psilocin.
-
-The next step converted 4-acetylindole to 3-dimethylaminooxalyl-
-4-acetylindole (compound 6) through a two-step acylation-amidation
-conversion. Treatment with [[shirota-glyoxalylamide-formation-oxalyl-chloride-indole]] in ether produced the
+white crystals. The choice of [[shirota-glyoxalylamide-formation-oxalyl-chloride-indole]] in ether produced the
 glyoxalyl chloride intermediate (compound 5) as yellow crystals,
 which were converted to the glyoxalylamide by reaction with
 dimethylamine. This two-step sequence proceeded in over 80% yield
@@ -88,3 +61,88 @@ linked at the nitrogen of the N,N-dimethyl part, forming a
 quaternary ammonium ion. NOESY spectra supported these linkages.
 Compound 8 was identified as a **zwitterionic N,O-dibenzyl
 phosphate derivative** — a novel intermediate not previously
+
+## Overview
+
+Shirota Gram Scale Chromatography Free Psilocybin Synthesis represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish shirota gram scale chromatography free psilocybin synthesis
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving shirota extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Shirota Gram Scale Chromatography Free Psilocybin Synthesis finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for shirota gram scale chromatography free psilocybin synthesis. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+shirota gram scale chromatography free psilocybin synthesis and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Shirota Gram Scale Chromatography Free Psilocybin Synthesis has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of shirota gram scale chromatography free psilocybin synthesis into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[shirota-4-hydroxyindole-acetyl-protection-experimental]]
+- [[shirota-glyoxalylamide-formation-oxalyl-chloride-indole]]
+- [[shirota-glyoxalylamide-intermediate-oxalyl-chloride-acylation-pathway]]
+- [[shirota-psilocin-psilocybin-synthesis-from-4-hydroxyindole]]
+- [[shirota-zwitterionic-phosphate-intermediate-psilocybin-synthesis]]

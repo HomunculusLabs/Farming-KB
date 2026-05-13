@@ -6,71 +6,7 @@ type: concept
 
 # Synecological Interaction Classification
 
-Synecology is the study of interactions between different species within ecological communities. A systematic classification of species interactions provides designers with a framework for understanding how organisms affect one another, which is essential for building productive guilds and polycultures in [[permaculture]] systems.
-
-## The Haskell Interaction Framework
-
-Haskell (1970) developed a comprehensive notation system for classifying two-species interactions. Each interaction is described by a pair of symbols where the first symbol represents the effect on species A (the actor) and the second represents the effect on species B (the other). Three symbols are used: `+` (benefit), `0` (neutral), and `-` (harm).
-
-## The Nine Interaction Types
-
-### Mutualism (+ +)
-Both species benefit from the interaction. This is the most desirable relationship in designed systems. Examples include nitrogen-fixing bacteria in legume root nodules, [[mycorrhizal-fungi]] with tree roots, and pollinator-flower relationships. In [[permaculture-design]], mutualism is the gold standard for guild construction—every pair placed together should ideally produce a net positive for both parties.
-
-### Competition (− −)
-Both species are harmed by the interaction. War is the extreme human example; in nature, plants competing for light, nutrients, and space exhibit this pattern. Chemical warfare between species (allelopathy) can produce lose-lose outcomes. Competition represents the pattern designers most actively work to eliminate or mediate through intervention strategies.
-
-### Amensalism (− 0)
-The actor is harmed while the other remains unaffected. Haskell terms this relationship amensalism. A butterfly attacking a rhinoceros would be a clear example, as would a wasp parasite that becomes glued to the tree it attacks, as occurs with some pine trees and Sirex wasps. In plant systems, certain ground covers may suppress themselves while having no effect on overstory species.
-
-### Allolimy (0 −)
-The actor is unaffected but the other is harmed. The classic botanical example is a walnut tree beside an apple tree: the walnut yields well, but juglones secreted by its roots act to kill or weaken the apple. Similarly, grasses act to weaken most deciduous fruit trees through competition and allelopathic effects. This interaction type is critically important in permaculture because it identifies incompatible plant pairings that must be separated or mediated.
-
-### Commensalism (+ 0)
-The actor benefits while the other remains unaffected. An epiphyte attached to a sturdy tree, such as vanilla growing on a coconut trunk, exemplifies this relationship. In designed systems, commensal relationships are useful when they provide yield without imposing costs on other system elements.
-
-### Allotrophy (0 +)
-The actor is unaffected while the other benefits. Teacher-student relationships and charitable giving are human examples. In ecological terms, a large tree providing wind shelter for smaller plants without any cost to itself demonstrates allotrophy. Deep-rooted trees that bring minerals to the surface (nutrient pumping) may benefit shallow-rooted companions without measurable cost to the tree.
-
-### Parasitism (+ −)
-The actor benefits while the other is harmed. All pathogens and parasites tend to weaken or take from their hosts. While generally undesirable in designed systems, some degree of controlled parasitism can be tolerated if the host species is a weed or unwanted element. Understanding parasitism helps designers avoid introducing species that may become problematic.
-
-### Self-Sacrifice (− +)
-The actor loses while the other benefits. This is the reverse of parasitism and might better be called self-deprivation to help others. Commonly observed in nature as individuals helping members of the same family or species. In human society, this behavior is recognized as selflessness or heroics. In ecological design, pioneer species that prepare ground for successors at the cost of their own eventual replacement demonstrate this pattern.
-
-### Neutrality (0 0)
-Neither species is significantly affected. No one is hurt, no one wins. Neutrality pacts may achieve this result in society. In nature, critical areas such as water holes, salt licks, and grooming stations sometimes see antagonistic species agree on neutrality. Many plant species appear to be basically neutral in behavior toward one another.
-
-## Co-Action Analysis in Practice
-
-The interaction matrix framework becomes a practical field tool when applied to real plant communities. The methodology involves selecting a target species and scoring its health and productivity in the presence of various companion species.
-
-### Scoring Methodology
-
-For a target species like apple trees, establish scoring criteria:
-
-- **+**: Tree is healthy, bearing very well, not stunted or over-vigorous
-- **0**: Tree is healthy, in fair order, bearing
-- **−**: Tree bearing poorly, sick or dying
-- **x**: No target tree present in the observed yard
-
-### Field Application
-
-Walk from yard to yard in an area with many planted trees, tallying scores for each pairing. The results quickly reveal compatible and incompatible combinations. For example, co-action analysis consistently shows that walnut trees cause apples to become sick or absent (−0 relationship), while healthy apple trees coexist with both mulberries and acacias (+0 and 00 respectively).
-
-Additional field observations enrich the analysis. Healthy, untended apple trees often have a specific understory community of spring bulbs, comfrey, clover, iris, and nasturtium. These companion assemblages should be noted during surveys as they reveal naturally evolved guild compositions.
-
-## Intervention Strategy: Building Guilds
-
-When a two-species analysis reveals a harmful interaction (− −), designers can introduce a third or fourth species as an **arbitrator**, **buffer**, or **intervenor** to mediate the conflict.
-
-### Step-by-Step Guild Construction
-
-1. **Identify the conflict**: Apple next to walnut produces (−0)—the apple sickens or dies.
-2. **Find a mediator**: Mulberry next to walnut produces (00)—mutual inaction.
-3. **Verify benefit**: Apple next to mulberry produces (+0)—a good result.
-4. **Assemble the chain**: Apple → mulberry → walnut gives (+00), effectively cancelling the negative interaction.
-5. **Add further mediators**: [[acacia]] next to walnut gives (0+), and acacia next to mulberry gives (0+).
+Synecology is the study of interactions between different species within ecological communities. A systematic classification of species interactions provides designers with a framework for understanding how organisms affect one another, which is essential for building productive guilds and polycultures in [[mycorrhizal-fungi]] with tree roots, and pollinator-flower relationships. In [[acacia]] next to walnut gives (0+), and acacia next to mulberry gives (0+).
 6. **Final result**: Apple → mulberry → acacia → walnut yields (++0+), a strongly positive multi-species array.
 
 This intervention strategy transforms an initially incompatible pairing into a productive guild by inserting species that neutralize negative effects while adding their own positive contributions. The approach can be extended with additional species, each selected for its ability to turn a neutral or negative co-action into a positive one.
@@ -97,3 +33,88 @@ Configuration in guild planning requires assessing the distance at which interac
 In designed systems, we typically value only one or a few species for yield. When a weed or unwanted species is present, we can construct a value-weighted matrix ranking companion species by their ability to suppress the unwanted species while benefiting the target crop. This analysis works for plant-plant, animal-animal, and plant-animal pairings equally.
 
 The interaction classification framework transforms ecology from a descriptive science into a practical design tool, enabling permaculturalists to predict outcomes, mediate conflicts, and build productive multi-species assemblages with confidence.
+
+## Overview
+
+Synecological Interaction Classification represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish synecological interaction classification
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving synecological extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Synecological Interaction Classification finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for synecological interaction classification. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+synecological interaction classification and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Synecological Interaction Classification has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of synecological interaction classification into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[aact-calcium-fungi-interaction-nutrient-bioavailability-ingham]]
+- [[forest-water-interaction-and-soil-storage]]
+- [[lowenfels-rhizosphere-bacteria-plant-interaction]]
+- [[microwave-interaction-with-microbial-cells]]
+- [[tree-rain-interaction]]

@@ -11,35 +11,7 @@ terrestrial ecosystems, directly linking the mineral world to plant nutrition
 through active weathering of soil minerals. Unlike endomycorrhizas that
 colonize root interiors, ECM fungi envelop root tips in a dense hyphal
 mantle and extend vast networks of extramatrical hyphae into surrounding soil.
-This external mycelium is the primary agent of [[dighton-fungal-rock-weathering-mineral-dissolution]], enabling
-access to phosphorus, potassium, calcium, and micronutrients locked in
-insoluble rock.
-
-## The ectomycorrhizal interface
-
-Nearly all temperate and boreal forest trees depend on ectomycorrhizal
-associations. The fungal mantle surrounds root tips while a Hartig net
-penetrates between cortical cells, creating an intimate exchange surface.
-Carbon flows from host to fungus; mineral nutrients flow back. The
-extramatrical mycelium extends centimeters to meters from the root, vastly
-expanding absorptive surface area and giving hyphal tips direct access to
-mineral grains in soil.
-
-## Organic acid exudation and heterotrophic leaching
-
-The primary biochemical mechanism of mineral dissolution is exudation of
-low-molecular-mass carboxylic acids from hyphal tips. ECM fungi secrete
-oxalic, citric, succinic, malic, formic, and gluconic acids into the
-rhizosphere. These acids chelate metal cations (particularly calcium, iron,
-and aluminum) bound in mineral crystal lattices, liberating associated
-phosphate. In podzol E horizons beneath European coniferous forests,
-weathering of hornblendes, feldspars, and granitic bedrock has been
-directly attributed to organic acid excretion by ectomycorrhizal hyphae.
-
-## Carbon allocation responds to mineral substrates
-
-ECM mycelia regulate growth and carbon allocation in response to mineral
-substrate type. [[hebeloma-crustuliniforme]] with Scots pine allocated
+This external mycelium is the primary agent of [[hebeloma-crustuliniforme]] with Scots pine allocated
 significantly more carbon to mycelium colonizing potassium feldspar patches
 than to quartz patches, demonstrating that the fungus senses mineral
 availability and invests carbon preferentially where weathering yields the
@@ -52,11 +24,7 @@ weathering, representing a significant but underappreciated carbon sink.
 Several ECM species have documented mineral-weathering capabilities:
 
 - **Piloderma** extracts potassium and magnesium from biotite, microcline,
-and chlorite, precipitating mycogenic [[fungal-calcium-oxalate-and-carbonate-precipitation]] as a byproduct.
-- **[[suillus-granulatus]]** and **[[paxillus-involutus]]** release K, Ca, Ti, Mn,
-Pb from apatite and wood ash, accumulating elements in rhizomorphs.
-- **P. involutus** with Scots pine showed that zinc phosphate dissolution,
-[[comparison-phosphorus-solubilizing-microorganisms-vs-mycorrhizal-phosphorus-acquisition]], and zinc accumulation depend on mycorrhizal status,
+and chlorite, precipitating mycogenic [[suillus-granulatus]]** and **[[comparison-phosphorus-solubilizing-microorganisms-vs-mycorrhizal-phosphorus-acquisition]], and zinc accumulation depend on mycorrhizal status,
 fungal zinc tolerance, and environmental phosphorus status.
 
 ## Zinc phosphate dissolution: context-dependent response
@@ -65,26 +33,7 @@ The P. involutus and zinc phosphate interaction reveals dynamic fungal
 behavior. Under phosphorus-replete conditions, a zinc-tolerant strain
 mobilized the least zinc, employing a metal avoidance strategy that
 protected plant tissues from toxicity. Non-mycorrhizal plants accumulated
-the highest zinc. However, under [[query-how-to-fix-phosphorus-deficiency-in-cannabis]], the same strain
-mobilized the most zinc — the nutritional imperative overrode toxicity
-avoidance. This context-dependence shows mycorrhizal weathering is a
-dynamic process responding to multiple environmental variables.
-
-## Metal tolerance strategies
-
-ECM fungi employ several strategies against toxic metals released during
-weathering: biosorption in the hyphal sheath or Hartig net, restriction of
-metal mobility via mantle hydrophobicity, complexation by organic acid
-exudates, vacuolar accumulation, and extracellular precipitation as metal
-oxalates. Metal-resistant ecotypes are more effective at protecting host
-plants, making them candidates for revegetation of contaminated sites.
-
-## Phosphorus mobilization as a central function
-
-Phosphorus mobilization is among the most important mycorrhizal functions
-globally. ECM fungi dissolve calcium phosphates (apatite), iron-aluminum
-phosphates, and synthetic metal phosphates. Under both phosphorus-replete
-and depleted conditions, [[ion-selective-microelectrodes-ectomycorrhizal-roots]] accumulate significantly
+the highest zinc. However, under [[ion-selective-microelectrodes-ectomycorrhizal-roots]] accumulate significantly
 higher phosphorus than non-mycorrhizal roots. The fungus mines phosphate
 from mineral sources that plant roots alone cannot access.
 
@@ -117,8 +66,85 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[calcium-phosphate]]
 - [[doc]]
-- [[dom]]
 - [[mycelium]]
 - [[ectomycorrhiza]]
+
+## Overview
+
+Ectomycorrhizal Mineral Weathering Phosphate Mobilization Gadd represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish ectomycorrhizal mineral weathering phosphate mobilization gadd
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving ectomycorrhizal extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Ectomycorrhizal Mineral Weathering Phosphate Mobilization Gadd finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for ectomycorrhizal mineral weathering phosphate mobilization gadd. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+ectomycorrhizal mineral weathering phosphate mobilization gadd and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Ectomycorrhizal Mineral Weathering Phosphate Mobilization Gadd has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of ectomycorrhizal mineral weathering phosphate mobilization gadd into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also

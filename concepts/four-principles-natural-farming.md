@@ -18,19 +18,7 @@ sources:
 
 # The Four Principles of Natural Farming
 
-[[natural-farming]] is built on four foundational
-principles: no cultivation, no fertilizer, no weeding, and no pesticides.
-These are not merely techniques but represent a fundamental philosophical
-orientation toward working with nature rather than imposing human will.
-After forty years, Fukuoka achieved yields equal to or better than
-scientifically grown crops, at a tiny fraction of the labor and cost,
-with no pollution whatsoever.
-
-## The Philosophical Foundation
-
-Fukuoka's "do-nothing" farming emerged from the realization that farmers
-do not produce the food of life. Only nature has the power to produce
-something from nothing. Farmers merely assist nature. [[fukuoka-critique-modern-agriculture]]
+[[fukuoka-critique-modern-agriculture]]
 is just another processing industry that uses oil energy in the form of
 fertilizers, pesticides, and machinery to manufacture synthetic food
 products that are poor imitations of natural food.
@@ -53,20 +41,10 @@ harder, denser soil.
 fields are typically tilled five to seven times per season. When
 herbicides became available after World War II and farmers reduced
 plowing, their yields actually improved, demonstrating that intertillage
-had been effective only for [[coleman-preemergence-flaming-weed-control]].
-
-**Nature already works the soil.** Soil is worked by moles, earthworms,
-insects, and plant roots producing excellent porosity. Seeds do not
-require plowed fields; plants have always grown by [[comparison-seed-starting-indoors-vs-direct-seeding-techniques]].
+had been effective only for [[comparison-seed-starting-indoors-vs-direct-seeding-techniques]].
 
 Fukuoka's own field had not been plowed in over thirty years, yet
-consistently produced close to 22 bushels of [[direct-seeded-no-tillage-rice-winter-grain-succession]] and 22 bushels
-of rice per quarter-acre. Soil enriches itself year in and year out
-without man having to lift a finger.
-
-## 2. No Fertilizer
-
-[[cervantes-chemical-fertilizers-guide]] have been thought indispensable for only the last
+consistently produced close to 22 bushels of [[cervantes-chemical-fertilizers-guide]] have been thought indispensable for only the last
 fifty years. Before that, manure and compost were used, which speed crop
 growth but also deplete the land from which the organic material is taken.
 
@@ -118,8 +96,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[four-principles-of-natural-farming]]
 - [[natural-farming]]
-- [[fukuoka-natural-farming-four-principles]]
 - [[fukuoka-four-principles-of-natural-farming]]
 - [[fukuoka-four-principles-natural-farming]]

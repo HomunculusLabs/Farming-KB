@@ -108,13 +108,8 @@ Genetic studies using microsatellite markers have found low within-population di
 
 ## See Also
 
-- [[cyathea-cooperi]]
 - [[cyathea-medullaris]]
-- [[cyathea-dealbata]]
 - [[dicksonia-antarctica]]
-- [[dicksonia-squarrosa]]
 - [[dicksonia-fibrosa]]
-- [[cibotium-barometz]]
 - [[cibotium-glaucum]]
-- [[blechnum-spicant]]
 - [[platycerium-bifurcatum]]

@@ -22,39 +22,15 @@ sources:
 
 # Nut Tree Cultivation for Permaculture Food Forests
 
-Nut trees are among the highest-yielding perennial staple crops available to [[permaculture-designers-manual-cattle-systems]] and food forest stewards. They produce calorie-dense, protein-rich, storable nuts that can serve as foundational food sources for humans, livestock, and wildlife. When integrated into polycultural systems, nut trees provide canopy structure, wind protection, mulch, and deep [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] from subsoil layers unavailable to annual crops.
+Nut trees are among the highest-yielding perennial staple crops available to [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] from subsoil layers unavailable to annual crops.
 
 ## Why Nut Trees Belong in Every Food Forest
 
 Nut trees occupy the **overstory and mid-canopy layers** of a food forest design, where they perform multiple functions simultaneously:
 
 - **Food production**: Nuts are 50–70% fat by weight, with significant protein (10–25%) and complex carbohydrates, making them among the most calorically dense plant foods on Earth.
-- **Carbon sequestration**: A mature walnut tree sequesters 20–30 kg of CO₂ per year in above-ground biomass alone, with far more in root systems and associated [[mycorrhizal-networks-and-forest-communication]].
-- **[[mollison-designers-microclimate-creation-frost-protection]]**: Tall nut tree canopies moderate temperature extremes, reduce wind speed by 40–60%, and slow evapotranspiration in understory layers.
-- **Soil building**: Deep taproots (especially in hickory and walnut) mine minerals from 3–10+ meters below the surface, cycling calcium, magnesium, and trace elements into the canopy and eventually into surface soils via [[leaf-litter-microfungal-diversity-tropical-temperate]].
-- **Fodder**: Many nut species produce edible leaves, husks, and press cake (after oil extraction) suitable for poultry and livestock feed.
-
-## Major Nut Tree Species for Temperate Climates
-
-### 1. Chestnut (*Castanea spp.*)
-
-**The "bread tree" of temperate permaculture.** Chestnuts are unique among nuts for being high in complex carbohydrates (40% starch by weight) rather than oil, making them closer nutritionally to grains than to other nuts. They can be dried and ground into flour for breads, porridges, and pancakes.
-
-| Attribute | Detail |
-|-----------|--------|
-| **Hardiness** | Zones 4–8 (American chestnut), Zones 5–8 (Chinese, European hybrids) |
-| **Mature height** | 18–25 m (60–80 ft) |
-| **Yield** | 50–100+ kg per mature tree (110–220+ lbs) |
-| **Bearing age** | 5–10 years from graft, 8–15 from seed |
-| **Spacing** | 10–15 m (33–50 ft) |
-| **Pollination** | Requires at least two genetically distinct trees |
-| **Root habit** | Deep taproot with lateral spread; somewhat drought-tolerant once established |
-| **Key pests** | Chestnut blight (*Cryphonectria parasitica*), chestnut weevil, Asian chestnut gall wasp |
-
-**Varieties and breeding:**
-- **Chinese chestnut** (*C. mollissima*): Blight-resistant, smaller nuts (8–15 g), excellent for home orchards.
-- **European/Japanese hybrids** (*C. sativa × C. crenata*): Large nuts (15–25 g), moderate blight resistance, widely available from nurseries.
-- **American chestnut** (*C. dentata*): Once dominant in [[polypore-fungi-eastern-north-america]] America; devastated by blight in the early 20th century. Breeding programs (American Chestnut Foundation) have produced blight-resistant hybrids (93% American genotype) now available for planting.
+- **Carbon sequestration**: A mature walnut tree sequesters 20–30 kg of CO₂ per year in above-ground biomass alone, with far more in root systems and associated [[mollison-designers-microclimate-creation-frost-protection]]**: Tall nut tree canopies moderate temperature extremes, reduce wind speed by 40–60%, and slow evapotranspiration in understory layers.
+- **Soil building**: Deep taproots (especially in hickory and walnut) mine minerals from 3–10+ meters below the surface, cycling calcium, magnesium, and trace elements into the canopy and eventually into surface soils via [[polypore-fungi-eastern-north-america]] America; devastated by blight in the early 20th century. Breeding programs (American Chestnut Foundation) have produced blight-resistant hybrids (93% American genotype) now available for planting.
 - **Dunstan chestnut**: A widely available hybrid with excellent blight resistance and good nut quality.
 
 **Site requirements:** Chestnuts prefer well-drained, slightly acidic soils (pH 5.5–6.5) with good organic matter content. They are intolerant of heavy, waterlogged clay but are moderately drought-tolerant once established. Full sun is essential for good nut production.
@@ -72,7 +48,7 @@ Walnuts produce the most calorically dense nut in temperate climates, with 65% f
 | **Nut quality** | Strong flavor, thick shell | Mild, thin shell |
 | **Root habit** | Deep taproot | Deep taproot |
 
-**Juglone allelopathy:** Black walnuts produce juglone (5-hydroxy-1,4-naphthoquinone), a compound toxic to many plant species including tomatoes, potatoes, nightshades, apples, and blueberries. However, many [[permaculture-plants-root-crops-and-tubers]] are juglone-tolerant: black raspberry, pawpaw, elderberry, currants, mulberry, persimmon, chestnut, and many [[nitrogen-fixing-bacteria-and-biological-nitrogen-fixation]] trees like black locust and autumn olive. Design food forest understories accordingly.
+**Juglone allelopathy:** Black walnuts produce juglone (5-hydroxy-1,4-naphthoquinone), a compound toxic to many plant species including tomatoes, potatoes, nightshades, apples, and blueberries. However, many [[nitrogen-fixing-bacteria-and-biological-nitrogen-fixation]] trees like black locust and autumn olive. Design food forest understories accordingly.
 
 **Key considerations:**
 - Walnuts need deep, well-drained soils (minimum 1 m to water table).

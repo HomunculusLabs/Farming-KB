@@ -57,7 +57,7 @@ It is classified as a pioneer species, colonizing bare ground following disturba
 
 The species is absent from permanently wet or shaded habitats. It shows a strong positive association with south-facing slopes and areas of thin, stony soil where competition from taller perennials is reduced.
 
-Associated species include [[calluna-vulgaris]], Erica cinerea, [[deschampsia-flexuosa]], and [[festuca-ovina]] on acidic heathlands. On more neutral sandy grasslands, it co-occurs with [[knautia-arvensis]], [[succisa-pratensis]], and [[centaurea-cyanus]].
+Associated species include [[deschampsia-flexuosa]], and [[knautia-arvensis]], [[centaurea-cyanus]].
 
 Climate warming may be affecting the distribution of Jasione montana, with some evidence of northward range contraction in southern Europe. However, the species remains abundant across most of its historical range.
 
@@ -67,11 +67,7 @@ Jasione montana is rarely cultivated commercially but is occasionally included i
 
 The species is intolerant of rich, fertile soils and will be outcompeted by more vigorous perennials in nutrient-enriched conditions. This makes it suitable only for lean, sandy, or gravelly garden sites that mimic its native heathland habitats.
 
-Excessive nitrogen application promotes lush grass growth that shades out Jasione montana seedlings within one [[extending-growing-season]]. Even moderate fertilization regimes in adjacent garden areas can eliminate populations through nutrient drift.
-
-Propagation is exclusively by seed, sown in autumn or early spring on the soil surface. Seeds require light for germination and should not be covered. Germination rates are moderate, and seedlings transplant poorly due to the taproot.
-
-Seed viability is relatively short (1–2 years under ambient [[spawn-storage-conditions]]), so fresh seed should be sown promptly. Commercial seed is available from specialist wildflower suppliers but is not widely stocked by mainstream [[solomon-garden-centers-seedling-traps]].
+Excessive nitrogen application promotes lush grass growth that shades out Jasione montana seedlings within one [[spawn-storage-conditions]]), so fresh seed should be sown promptly. Commercial seed is available from specialist wildflower suppliers but is not widely stocked by mainstream [[solomon-garden-centers-seedling-traps]].
 
 In garden settings, Jasione montana is best used in wildflower meadows on acidic soils, rock gardens with ericaceous conditions, or wildlife borders designed to support pollinators. It self-seeds freely in suitable open sites.
 

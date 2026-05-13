@@ -8,8 +8,7 @@ tags: [soil-amendment, organic-matter, nutrient-cycling, cultivation]
 ## Description
 
 Compost is decomposed organic matter produced through the controlled biological breakdown
-of plant and animal residues. It is a cornerstone of [[organic-soil-management]], simultaneously
-providing nutrients, improving [[crumb-structure]], buffering pH, enhancing soil life, and
+of plant and animal residues. It is a cornerstone of [[crumb-structure]], buffering pH, enhancing [[soil-life]], and
 increasing water-holding capacity. Mollison distinguishes between hot (aerobic) and cold
 (anaerobic) composting processes, each with different benefits, limitations, and applications.
 
@@ -23,7 +22,7 @@ increasing water-holding capacity. Mollison distinguishes between hot (aerobic) 
 ## Key Benefits
 
 - Preserves soil crumb structure and builds new aggregates.
-- Buffers soil pH against rapid changes.
+- Buffers [[soil-ph]] against rapid changes.
 - Improves sugar content and flavour of vegetables (confirmed in taste tests).
 - Produces gums and gels that create crumb structure, aerate soil, and darken it for
   faster spring warming.
@@ -121,6 +120,5 @@ Contamination risks identified by Kevin Handreck (Organic Growing, Autumn 1987):
 
 ## See Also
 
-- [[query-what-is-the-difference-between-aerobic-compost-tea-and-fermented-plant-extracts]]
 - [[query-what-are-the-best-ways-to-increase-soil-organic-matter-quickly]]
 - [[query-what-are-the-best-soil-amendments-for-organic-gardening]]

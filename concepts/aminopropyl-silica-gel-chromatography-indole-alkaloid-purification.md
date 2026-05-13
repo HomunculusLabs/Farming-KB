@@ -16,11 +16,7 @@ of indole alkaloids and tryptamine derivatives, which typically contain both bas
 indole ring systems that interact strongly with the aminopropyl-modified surface.
 ## Role in the Shirota 
 In the Shirota synthesis , aminopropyl silica gel chromatography was employed for the critical
-purification step following the [[shirota-tetrabenzylpyrophosphate-phosphorylation-n-butyllithium-conditions]] of psilocin, where the goal was to
-remove excess phosphorylation reagent, byproducts, and other non-polar impurities from the reaction mixture
-before the final  step.
-The phosphorylation reaction using tetrabenzylpyrophosphate generates a complex mixture containing the desired
-zwitterionic N,O-dibenzyl [[hmbc-noesy-nmr-analysis-zwitterionic-phosphate-intermediate-psilocybin]], unreacted psilocin, excess tetrabenzylpyrophosphate,
+purification step following the [[hmbc-noesy-nmr-analysis-zwitterionic-phosphate-intermediate-psilocybin]], unreacted psilocin, excess tetrabenzylpyrophosphate,
 benzyl phosphate byproducts, and potentially benzyl alcohol and other decomposition products that must be
 removed to obtain the intermediate in sufficient purity for the hydrogenolysis step.
 Aminopropyl silica gel proved effective for this purification because the zwitterionic nature of the
@@ -47,26 +43,16 @@ compounds, while aminopropyl silica gel presents basic amino groups that provide
 reproducible interactions with basic analytes.
 For indole alkaloids, which contain basic amino groups that can be protonated under chromatographic conditions,
 aminopropyl silica gel often provides superior peak shape and recovery compared to normal silica gel,
-particularly when the analytes carry multiple basic or zwitterionic functional groups as is the  ibenzyl phosphate intermediate in the [[psilocin-psilocybin-synthesis-shirota]].
-Normal silica gel 60 F254 remains the preferred medium for TLC monitoring because of its excellent resolution,
-reproducibility, and the convenience of the built-in fluorescent indicator, but aminopropyl silica gel is
-often preferred for preparative-scale purification of basic nitrogen-containing indole alkaloids.
-## Filtration Through Celite Pads
-In addition to column chromatography on aminopropyl silica gel, the Shirota synthesis employed filtration
-through Celite ([[comparison-neem-oil-cannabis-vs-diatomaceous-earth-cannabis]]) pads as a practical purification technique at multiple stages of the
+particularly when the analytes carry multiple basic or zwitterionic functional groups as is the  ibenzyl phosphate intermediate in the [[comparison-neem-oil-cannabis-vs-diatomaceous-earth-cannabis]]) pads as a practical purification technique at multiple stages of the
 synthetic sequence, particularly during workup of the LiAlH4 reduction and during isolation of the
 phosphorylation intermediate.
 Celite filtration serves a mechanical filtration function rather than a chromatographic separation function,
 removing fine particulate solids (aluminum hydroxide from LiAlH4 workup, drying agents such as sodium sulfate,
-precipitated inorganic salts, and other insoluble materials) [[query-how-does-mycoremediation-work-and-what-can-fungi-clean-up]] crude
-mushroom extracts prior to instrumental analysis by HPLC or GC-MS, removing co-extracted matrix components
-(pigments, lipids, polysaccharides, and other fungal metabolites) that would otherwise interfere with the
-detection and quantification of [[turner-brief-history-psychedelics-ancient-to-modern]] Liquid Chromatography, 2nd Ed. Wiley-Interscience.
+precipitated inorganic salts, and other insoluble materials) [[turner-brief-history-psychedelics-ancient-to-modern]] Liquid Chromatography, 2nd Ed. Wiley-Interscience.
 - Poole, C.F., and Poole, S.K. (1991). Chromatography Today. Elsevier Science Publishers.
 - Gennaro, M.C., et al. (1990). Selectivity in aminopropyl-bonded silica: a review. Journal of Chromatography A, 506, 417-434.
 
 ## See Also
-- [[shirota-zwitterionic-phosphate-intermediate-psilocybin-synthesis]]
 - [[cervantes-silicon-silica-beneficial-mineral]]
 ## Practical Considerations
 
@@ -116,8 +102,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[indole]]
 - [[psilocybin]]
-- [[psilocin]]
 - [[det]]
 - [[neem]]

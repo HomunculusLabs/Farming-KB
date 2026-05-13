@@ -33,7 +33,7 @@ through two general pathways:
    promote the chemical breakdown of organometallic compounds.
 
 Both mechanisms contribute to the overall detoxification capacity of
-[[biodiversity-of-fungi-soil-fungal-communities-agriculture]] [[singh-fungal-biofilms-in-contaminated-environments]]. The ability of fungi
+[[singh-fungal-biofilms-in-contaminated-environments]]. The ability of fungi
 to modify their local microenvironment through [[arbuscule-isolation-metabolic-activity-assays]]
 creates conditions favorable for both biological and chemical
 transformation of organometallic pollutants.
@@ -88,3 +88,11 @@ enzymatic reactions:
 This two-step enzymatic pathway effectively converts highly toxic
 organomercury compounds into elemental mercury, which is far less
 bioavailable and toxic. The similarity between fungal and bacterial
+
+## See Also
+
+- [[staycare-laccase-enzymes-in-bioremediation]]
+- [[staycare-fungal-redox-mediator-chemistry-pollutant-degradation]]
+- [[staycare-soft-rot-fungi-in-pollutant-degradation]]
+- [[staycare-fungal-metal-biosorption-reactor-systems]]
+- [[staycare-veratryl-alcohol-as-lignin-peroxidase-mediator]]

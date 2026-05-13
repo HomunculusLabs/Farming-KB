@@ -12,9 +12,7 @@ Chiripa-machaco (Quechua: *chiripa* = rainbow, *machaco* = snake) is a vibrantly
 
 ## Classification
 
-- **Domain**: Amazonian vegetalismo / mestizo [[shamanism]]
-- **Category**: Serpent spirit, rainbow entity
-- **Element**: Rainbow/[[cannabis-light-spectrum-and-color-bands]]
+- **Domain**: Amazonian vegetalismo / mestizo [[cannabis-light-spectrum-and-color-bands]]
 - **Function**: Hypnotic power, extraction of harmful substances
 
 ## Key Facts
@@ -27,11 +25,10 @@ Chiripa-machaco (Quechua: *chiripa* = rainbow, *machaco* = snake) is a vibrantly
 
 ## Relevance to Cultivation and Mycology
 
-The chiripa-machaco's association with venom extraction connects directly to Amazonian ethnomedicine for treating envenomation. Plants used for snakebite treatment in Amazonia — such as jergón-sacha (Dracontium loretense), huancahui-sacha, and pichanamachaco — are linked to this and other serpent spirits through their icaros. The belief that learning the serpent's icaro grants access to the subconscious suggests an indigenous understanding of psychosomatic healing: the practitioner uses visionary states to access deep psychological content that may be contributing to illness. For cultivation, plants associated with the chiripa-machaco are typically found in areas of high biodiversity and may contain novel [[cordyceps-cancer-bioactive-compounds]] for treating envenomation and [[cannabis-for-inflammatory-conditions]].
+The chiripa-machaco's association with venom extraction connects directly to Amazonian ethnomedicine for treating envenomation. Plants used for snakebite treatment in Amazonia — such as jergón-sacha (Dracontium loretense), huancahui-sacha, and pichanamachaco — are linked to this and other serpent spirits through their icaros. The belief that learning the serpent's icaro grants access to the subconscious suggests an indigenous understanding of psychosomatic healing: the practitioner uses visionary states to access deep psychological content that may be contributing to illness. For cultivation, plants associated with the chiripa-machaco are typically found in areas of high biodiversity and may contain novel [[cannabis-for-inflammatory-conditions]].
 
 ## Related Entities
 
-- [[sachamama]] — great forest serpent
 - [[yakumama]] — great water serpent
 - Mariri — magical phlegm used to contain extracted virotes
 - Icaro — sacred song of the chiripa-machaco
@@ -46,30 +43,10 @@ The chiripa-machaco's association with venom extraction connects directly to Ama
 - That focus is used by the vegetalista to perceive concealed causes of illness.
 - The serpent's icaro functions as a specialized therapeutic technology.
 - It is sung when the practitioner works with venom, spines, stingers, or virotes.
-- This places the being near [[icaros-shamanic-power-songs]] in the knowledge system.
-- The song, the image, and the healer's embodied practice are treated as inseparable.
-
-## Relation to Other Serpent Beings
-
-- Chiripa-machaco should be read alongside [[sachamama]].
+- This places the being near [[sachamama]].
 - Sachamama is associated with forest depth and immense terrestrial serpent power.
 - Chiripa-machaco is more specifically rainbow, hypnotic, and extractive.
-- It also contrasts with [[yakumama]], the great water serpent.
-- Together these beings map different ecological and spiritual domains.
-- Forest, river, venom, color, and trance are not separate categories in this cosmology.
-- They form a single field of relationships that a trained healer learns to navigate.
-- The rainbow serpent's twofold appearance on either side of a vision may mark balance.
-- It frames dangerous work so that harmful forces can be contained.
-
-## Healing Logic
-
-- The extraction of virotes is both physical and spiritual in the tradition.
-- Snakebite, fish quill wounds, and insect stings are concrete injuries.
-- Magical darts are subtle harmful intrusions.
-- The chiripa-machaco links those categories through the shared idea of penetrating poison.
-- The healer must identify what has entered the body.
-- The healer must also know how to remove it without absorbing harm.
-- This is where [[mariri]] becomes important as a container for extracted force.
+- It also contrasts with [[mariri]] becomes important as a container for extracted force.
 - The serpent's icaro helps make the hidden intrusion visible and movable.
 - Its hypnotic power may also calm the patient and concentrate the healer.
 - In modern terms, the practice combines pharmacology, ritual authority, and focused suggestion.
@@ -92,3 +69,80 @@ The chiripa-machaco's association with venom extraction connects directly to Ama
 - It also shows how venom medicine connects to broader shamanic extraction practice.
 - The page should remain linked to serpent, icaro, and mariri notes.
 - Those links keep the entity grounded in the existing Amazonian cosmology cluster.
+
+## Overview
+
+Chiripa Machaco represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish chiripa machaco
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving chiripa extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Chiripa Machaco finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for chiripa machaco. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+chiripa machaco and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Chiripa Machaco has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of chiripa machaco into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.

@@ -10,15 +10,7 @@ sources:
 
 # Soil Preparation and Bed Preparation
 
-Source: [[steve-solomon]], "Gardening When It Counts" (2005)
-
-## The Fundamental Task of Gardening
-
-[[home-vegetable-garden-planning]], at its core, consists of: bare and loosen the soil surface so seeds can sprout; eliminate competing wild plants; space plants so they are not overly competing with each other; and make the soil more fertile and moist than nature provides. These few practices are almost all there is to successful [[dryland-vegetable-gardening]].
-
-## Understanding Your Soil
-
-Before preparing beds, assess what [[bloomfield-what-lies-beneath-mycelial-architecture-hyphal-biology-subterranean-fungus]] your feet. Solomon recommends digging a test hole at least 36 inches (90 cm) deep. Observe:
+Source: [[home-vegetable-garden-planning]], at its core, consists of: bare and loosen the soil surface so seeds can sprout; eliminate competing wild plants; space plants so they are not overly competing with each other; and make the soil more fertile and moist than nature provides. These few practices are almost all there is to successful [[bloomfield-what-lies-beneath-mycelial-architecture-hyphal-biology-subterranean-fungus]] your feet. Solomon recommends digging a test hole at least 36 inches (90 cm) deep. Observe:
 
 - Topsoil layer (usually darker, 6-12 inches): the fertile surface layer
 - Subsoil: typically lighter in color, may be clayey
@@ -29,35 +21,7 @@ The subsoil type is critical. A sandy topsoil over open, penetrable clay subsoil
 
 ## Soil Fractional Analysis Test
 
-A simple [[solomon-soil-profile-assessment-fractional-analysis-jar-test]] determines sand, silt, and clay percentages:
-
-1. Fill a quart jar 1 inch from the top with crumbled soil
-2. Add water to within 1 inch of top plus 1 teaspoon dishwashing detergent
-3. Shake hard for 5-10 minutes until all aggregates separate
-4. Set on a windowsill and mark settled layers:
-   - Sand settles in 1-2 minutes
-   - Silt settles in 2 hours
-   - Clay may take days to weeks
-
-Soil classifications:
-- Sandy: less than 10% silt or clay
-- Loam (medium): 20-35% clay, mix of sand and silt
-- Clayey: more than 35% clay (difficult if more than half clay)
-
-## Ready-to-Till Test (for clay soils)
-
-Clay soils are extremely sensitive to moisture content when working. If dug when even slightly too wet, they form rock-hard clods. If too dry, they turn to dust that slumps into airless goo when watered. There is only a narrow window where clay can be worked into a seedbed.
-
-Solomon describes a "ready-to-till" test: squeeze a handful of soil. If it forms a ball that crumbles when poked, it is ready. If it stays in a sticky ball, it is too wet. If it will not form a ball at all, it may be too dry.
-
-## Starting a New Garden
-
-Best done at the end of summer (not spring) in harsh climates. Steps:
-
-1. Mow grass as close to the ground as possible (scalp it)
-2. Let short clippings remain; remove tall clippings
-3. Spread amendments (lime, COF, manure/compost) per Chapter 2 recommendations
-4. For clay: spread 1 inch of decomposed [[hamilton-composting-and-organic-matter-management]] and 100 lbs agricultural lime per 1,000 sq ft (first year only)
+A simple [[hamilton-composting-and-organic-matter-management]] and 100 lbs agricultural lime per 1,000 sq ft (first year only)
 5. Dig or till the area
 
 ## Tools and Sharpening
@@ -79,12 +43,89 @@ Solomon uses 4-foot-wide (1.25 m) raised beds for most of his garden. These are 
 He explicitly does NOT recommend:
 - Deep double-digging (as promoted by Jeavons) -- unnecessary effort for most soils
 - Imported raised beds filled with purchased soil mixtures -- expensive and can have mineral imbalances
-- [[solomon-permanent-mulching-critique-limitations]] -- in mild climates it harbors pests; in all climates it risks unbalancing soil nutrients
+- [[fukuoka-textdoc-composting-critique-futility-prepared-organic-matter]], loosening compaction -- helps the soil warm faster.
 
-For clay soils, the most effective long-term solution (if affordable) is to import a foot (30 cm) of loam topsoil over the clay, creating a genuine topsoil layer. This costs less over decades than annually hauling 20-25 cubic yards of compost to "build up" clay.
+## Overview
 
-## Soil Temperature and Growth
+Solomon Soil Preparation Bed Prep represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
 
-Plants do most of their growing at night. Growth speed doubles for every 10F (5C) increase in soil temperature. At 50F nighttime temperature, plants grow one unit; at 60F, two units; at 70F, four units; at 80F, eight units. This is why corn can be heard growing on hot midwestern nights.
+## Key Characteristics
 
-Roots grow at the same temperature-determined rate as tops. In cold spring soil, seeds germinate slowly and roots struggle. Anything that improves soil tilth -- incorporating [[fukuoka-textdoc-composting-critique-futility-prepared-organic-matter]], loosening compaction -- helps the soil warm faster.
+Several defining characteristics distinguish solomon soil preparation bed prep
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving solomon extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Solomon Soil Preparation Bed Prep finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for solomon soil preparation bed prep. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+solomon soil preparation bed prep and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Solomon Soil Preparation Bed Prep has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of solomon soil preparation bed prep into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[root-competition-plant-spacing-solomon]]
+- [[solomon-growing-perennials-asparagus-rhubarb]]
+- [[solomon-low-grade-compost-making-methods]]
+- [[solomon-shade-and-sunlight-requirements]]
+- [[solomon-wheelbarrow-selection-garden-tool-care-maintenance]]

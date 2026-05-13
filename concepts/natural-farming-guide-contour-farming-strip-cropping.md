@@ -21,7 +21,7 @@ type: concept
 Contour farming is a foundational practice in sustainable agriculture
 that involves orienting all planting, roads, structures, and earthworks
 along the natural contours of the land rather than in straight lines. The
-*[[comparison-natural-farming-vs-permaculture]] and [[natural-farming-sustainable-living-principles]] Guide* emphasises that following
+*[[natural-farming-sustainable-living-principles]] Guide* emphasises that following
 contours is essential for water management, erosion prevention, and
 maximising the productive potential of sloped terrain.
 
@@ -39,24 +39,17 @@ The guide stresses that roads should never be built with steep slopes but
 should follow the contours of the land. The road leading to a house should
 slope slightly uphill to drain water away, and the slope gives the road
 better access to the sun in wet or snowy climates. Roads can even be
-designed as part of a [[cover-crops-green-manures]]
-strategies and can be combined with [[ozier-pdc-hydro-cycle-and-watershed-management]]
+designed as part of a [[ozier-pdc-hydro-cycle-and-watershed-management]]
 principles.
 
 Houses in a community should be placed in the shelter of warmer sides of
 hills and follow the contour of the land. This positioning provides
-natural insulation, [[cervantes-wind-protection-outdoor-cannabis]], and drainage.
-
-## Windbreaks and Shelterbelts on Contour
-
-Tree windbreaks and forests for [[permaculture-designers-manual-animal-forage-systems]] should cover 20-30% of the
+natural insulation, [[permaculture-designers-manual-animal-forage-systems]] should cover 20-30% of the
 land and will increase production by providing shelter and microclimates
 for plants and animals. These should be planted to fit the contours of the
 land and allowed to mature enough that animals will not damage them, a
 process that can take 30 years. Animals can be allowed in to graze before
-the grass is harvested for hay or whatever [[contour-swale-irrigation-design]]
-- [[cover-crops-green-manures]]
-- [[ozier-pdc-hydro-cycle-and-watershed-management]]
+the grass is harvested for hay or whatever [[cover-crops-green-manures]]
 - [[natural-farming-guide-sheet-mulching-no-dig-garden-preparation]]
 
 ## Practical Considerations
@@ -89,8 +82,6 @@ communities, and systematic experimentation to build expertise.
 - Understanding these processes enables more targeted and effective interventions.
 
 ## See Also
-- [[natural-farming-guide-cover-cropping-and-green-manures]]
 - [[natural-farming-guide-sheet-mulching-no-dig-garden-preparation]]
-- [[natural-farming-guide-forest-garden-strategy-and-ecological-succession]]
 - [[natural-farming-guide-companion-planting-guilds]]
 - [[natural-farming-guide-seed-saving-and-heirloom-varieties]]

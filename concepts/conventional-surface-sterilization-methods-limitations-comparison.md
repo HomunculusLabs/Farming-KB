@@ -5,45 +5,16 @@
 Surface sterilization is critical in microbiology, food safety, medical device
 manufacturing, and aerospace. Multiple technologies exist for eliminating
 microorganisms from surfaces, each with distinct advantages and limitations.
-The NASA [[challenge-microorganisms-microwave-surface-sterilization]] [[microwave-surface-sterilization-technology]] (MSC-22484) was developed
-to address shortcomings of [[microwave-sterilization-versus-conventional-methods-comparison]], particularly the need for
-low-thermal-impact sterilization of [[surface-sterilization-methods-comparison-complex-geometries-thermal-chemical-residue]] in closed systems.
+The NASA [[microwave-surface-sterilization-technology]] (MSC-22484) was developed
+to address shortcomings of [[surface-sterilization-methods-comparison-complex-geometries-thermal-chemical-residue]] in closed systems.
 
 ## Autoclaving (Steam Sterilization)
 
 ### Mechanism
 
 Autoclaving uses saturated steam under pressure (typically 121 degrees C at
-15 psi) to denature proteins and destroy microorganisms through [[phase-change-materials-thermal-energy-storage]]
-transfer. The heat-moisture combination achieves sterility assurance levels
-(SAL) of 10^-6.
-
-### Limitations
-
-- **High thermal impact**: Sustained high temperature (121-134 degrees C for
-  15-60 minutes) can damage heat-sensitive materials, melt polymers, and
-  degrade biological samples, making it unsuitable for thermally labile systems
-- **Cannot sterilize enclosed systems**: Steam must physically contact all
-  surfaces. Complex geometries, blind holes, and enclosed volumes cannot be
-  reached by steam penetration alone
-- **Requires pressure vessel**: Autoclaves are bulky, expensive equipment that
-  cannot be easily made portable or field-deployable
-- **Residual moisture**: Post-cycle drying is often incomplete, leaving
-  surfaces wet and potentially promoting subsequent microbial growth
-
-### Applications
-
-Autoclaving remains the gold standard for heat-stable laboratory equipment,
-surgical instruments, [[agar-culture-media]], and biohazardous waste. It is the primary
-method used in mycology for sterilizing grain substrates and [[cotter-casing-soils-microbial-triggers]].
-
-## Gamma Irradiation
-
-### Mechanism
-
-Gamma irradiation uses high-energy photons from cobalt-60 or cesium-137
-sources to damage microbial DNA directly through ionization and indirectly
-through water radiolysis producing [[reactive-oxygen-species-and-oxidative-stress]]. Doses of 25-40
+15 psi) to denature proteins and destroy microorganisms through [[agar-culture-media]], and biohazardous waste. It is the primary
+method used in mycology for sterilizing grain substrates and [[reactive-oxygen-species-and-oxidative-stress]]. Doses of 25-40
 kGy are commonly used for sterilization.
 
 ### Limitations
@@ -118,8 +89,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[sterilization]]
 - [[spore]]
-- [[mycology]]
 - [[microwave-vs-conventional-surface-sterilization-methods]]
 - [[microwave-sterilization-versus-conventional-methods-comparison]]

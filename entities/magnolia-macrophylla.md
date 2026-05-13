@@ -107,13 +107,8 @@ The species received the Royal Horticultural Society's Award of Garden Merit in 
 
 ## See Also
 
-- [[magnolia-grandiflora]]
 - [[magnolia-stellata]]
-- [[magnolia-soulangiana]]
 - [[magnolia-kobus]]
-- [[magnolia-virginiana]]
 - [[liriodendron-tulipifera]]
-- [[cornus-florida]]
 - [[hamamelis-virginiana]]
-- [[nyssa-sylvatica]]
 - [[styrax-obassia]]

@@ -7,27 +7,7 @@ updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/unknown-mycelium-running.md]
 type: concept
 ---
-# Common Mycorrhizal Networks Common mycorrhizal networks (CMNs), sometimes called mycorrhizal networks or myconets, are [[arbuscular-mycorrhizal-colonization-patterns]] fungi form the dominant networks.
-
-The physical structure of a CMN consists of internal fungal structures within
-plant roots (arbuscules, hyphal coils, or Hartig nets, depending on the
-mycorrhizal type) connected by extraradical hyphae running through soil. The
-hyphae are typically 2-10 micrometers in diameter and can transport materials
-over distances of centimeters to meters. Rhizomorphs — cord-like aggregations
-of hyphae — can span even greater distances in ectomycorrhizal systems.
-
-Network density varies dramatically with ecosystem type, soil conditions, and
-plant community structure. In mature forests, CMN hyphal length can exceed
-100 meters per gram of soil, creating an incredibly dense web of connections.
-Seasonal dynamics also affect network extent, with hyphal biomass typically
-peaking in late summer and declining during winter dormancy in temperate
-systems.
-
-## Nutrient and Carbon Transfer
-
-One of the most studied aspects of CMNs is the movement of resources between
-connected plants. Carbon fixed by photosynthesis in one plant can travel
-through the [[mycelium-running-mycelium-natures-internet-fungal-network-theory]] to neighboring plants. This has been demonstrated
+# Common Mycorrhizal Networks Common mycorrhizal networks (CMNs), sometimes called mycorrhizal networks or myconets, are [[mycelium-running-mycelium-natures-internet-fungal-network-theory]] to neighboring plants. This has been demonstrated
 using isotopic labeling techniques, where carbon-13 or carbon-14 fed to a
 "donor" plant is later detected in connected "receiver" plants.
 
@@ -52,24 +32,11 @@ through hydraulic redistribution mediated by fungal hyphae.
 
 Beyond resource transfer, evidence suggests that CMNs facilitate chemical
 signaling between plants. Plants attacked by herbivores or pathogens can
-produce [[fungal-volatile-organic-compounds-communication]] compounds and other defense signals that travel
-through the mycorrhizal network, triggering defensive responses in neighboring
-plants before they are themselves attacked. This "eavesdropping" on neighbor
-distress signals has been documented in several plant species, including
-broad beans (*Vicia faba*) and various tree species.
-
-Allelopathic compounds may also travel through CMNs, allowing plants to
-chemically suppress competitors. The extent and ecological significance of
-signaling through CMNs remains an active and sometimes contentious area of
-research, with ongoing debate about whether fungal-mediated signaling is
-sufficiently specific and rapid to be ecologically meaningful compared to
-airborne volatile signaling or direct [[gadd-fungal-biodiversity-conservation]] and ecosystem resilience.
+produce [[gadd-fungal-biodiversity-conservation]] and ecosystem resilience.
 
 ## See Also
 
-- [[ectomycorrhizal-fungi]] — dominant network formers in forests
-- [[plant-fungal-signaling-mycorrhiza]] — [[bloomfield-siren-songs-fungal-chemical-communication-reproduction-chapter-7]] in mycorrhizae
-- [[rhizophagus-irregularis]]
+- [[plant-fungal-signaling-mycorrhiza]] — [[rhizophagus-irregularis]]
 ## Practical Considerations
 
 Successful implementation of Common Mycorrhizal Networks requires attention to
@@ -118,8 +85,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[mycorrhizal-networks]]
 - [[doc]]
-- [[dom]]
 - [[det]]
 - [[fungal-hyphae]]

@@ -55,7 +55,7 @@ Forests provide a nutrient net for materials blown by wind or gathered by birds 
 
 ## The Griggs and Putnam Index
 
-The effect of wind on trees is assessed using the Griggs and Putnam index, which assigns values based on observable crown deformations and growth patterns. These field indicators are of great use in permaculture design. When assessing any site, the condition of older trees serves as the best guide to gauge wind effect — trees indicate local wind direction and intensity, and from these indicators designers can place windbreaks to reduce heat loss in homes, avoid damage in catastrophic winds, and steer winds to well-placed wind machines.
+The effect of wind on trees is assessed using the [[griggs-and-putnam-index]], which assigns values based on observable crown deformations and growth patterns. These field indicators are of great use in permaculture design. When assessing any site, the condition of older trees serves as the best guide to gauge wind effect — trees indicate local wind direction and intensity, and from these indicators designers can place windbreaks to reduce heat loss in homes, avoid damage in catastrophic winds, and steer winds to well-placed wind machines.
 
 The index ranges from 0 (no effect, no deformations) through 4 (strong flagging, all branches swept to leeward creating a "banner" shape) to 7 (carpeting, where the tree becomes a creeping shrub-like layer of prostrate growth). These standard effects apply to trees not affected by salt, ice, or snow load.
 
@@ -84,8 +84,6 @@ water, and atmosphere enables designers to create more resilient and productive
 landscapes that work with natural processes rather than opposing them.
 
 ## See Also
-- [[comparison-fruit-tree-pruning-vs-fruit-tree-grafting-guide]]
 - [[tree-biomass-and-guild-ecology]]
-- [[tree-effects-on-precipitation]]
 - [[tree-temperature-effects-and-evapotranspiration]]
 - [[tree-biomass-and-energy-transactions]]

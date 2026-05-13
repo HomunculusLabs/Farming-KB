@@ -16,14 +16,7 @@ sources:
   - Lincoff, G.H. (1981). "National Audubon Society Field Guide to North American Mushrooms." Knopf.
   - Kuo, M. (2012). "Cantharellus cinnabarinus." MushroomExpert.com.
   - Buyck, B. et al. (2016). "The nomenclature of the cinnabar chanterelle." Mycotaxon, 131(3), 693–699.
-  - Pilz, D. & Molina, R. (2002). "Commercial Harvests of Edible Mushrooms from the Forests of the [[psilocybin-north-america-pacific-northwest]] United States." USDA Forest Service.
----
-
-## Overview
-
-**Cantharellus cinnabarinus**, commonly known as the **cinnabar chanterelle**, is a brightly colored edible mushroom in the family **Cantharellaceae**. It is one of the most visually distinctive chanterelle species, recognized by its vivid **red to orange-pink coloration**.
-
-The species is found primarily in **[[polypore-fungi-eastern-north-america]]**, from eastern Canada through the Appalachian Mountains and into the southeastern United States. It fruits from early summer through autumn, often in association with oak and hardwood forests.
+  - Pilz, D. & Molina, R. (2002). "Commercial Harvests of Edible Mushrooms from the Forests of the [[polypore-fungi-eastern-north-america]]**, from eastern Canada through the Appalachian Mountains and into the southeastern United States. It fruits from early summer through autumn, often in association with oak and hardwood forests.
 
 Like other chanterelles, *C. cinnabarinus* is an **obligate mycorrhizal species**, forming symbiotic associations with tree roots. It cannot be cultivated commercially and is exclusively harvested from wild populations. Despite its smaller size compared to the golden chanterelle (*C. cibarius*), it is considered equally edible and is prized by foragers for its color and peppery flavor.
 
@@ -45,7 +38,7 @@ The fruiting body features a **funnel-shaped to vase-shaped cap** 1–5 cm wide,
 
 The hymenophore (spore-bearing surface) consists of **shallow, blunt, forked ridges** that run down the stipe — a characteristic chanterelle trait distinguishing it from true gilled mushrooms. These ridges are the same color as the cap or slightly paler.
 
-The stipe is solid, 2–4 cm long, tapering downward, and colored similarly to the cap. Flesh is thin, firm, and pale orange. Spore print is **pale yellow to cream**. Spores measure 7–10 × 4–6 μm, ellipsoid to oblong, smooth, and inamyloid.
+The stipe is solid, 2–4 cm long, tapering downward, and colored similarly to the cap. Flesh is thin, firm, and pale orange. [[spore-print]] is **pale yellow to cream**. Spores measure 7–10 × 4–6 μm, ellipsoid to oblong, smooth, and inamyloid.
 
 ## Distribution and Habitat
 
@@ -78,12 +71,80 @@ No cases of poisoning from *C. cinnabarinus* have been documented. However, as w
 
 Several mushrooms could be confused with *C. cinnabarinus* by inexperienced foragers:
 
-**[[hygrophoropsis-aurantiaca]]** (false chanterelle) — has true gills rather than ridges; gills are thinner, more numerous, and forked. Edible but less flavorful. Cap color is similar orange but typically duller.
-
 **[[omphalotus-olearius]]** (jack-o'-lantern) — orange, gilled mushroom that is **bioluminescent and poisonous**. Grows in clusters on wood or buried roots, not on soil. True gills are sharp and blade-like, not blunt ridges. Critical to distinguish due to toxicity.
-
-**[[cantharellus-lateritius]]** (smooth chanterelle) — a closely related eastern North American species with similar shape but smoother, less ridged hymenophore and typically more yellow-orange coloration. Also edible and choice.
 
 **[[cantharellus-cibarius-entity]]** (golden chanterelle) — the common golden chanterelle is larger, yellow to egg-yolk colored, and has more pronounced ridges. The two species sometimes fruit in proximity but are easily distinguished by color.
 
 The combination of **vivid red-orange color, blunt ridges (not true gills), and growth on soil** in association with hardwoods is diagnostic for *C. cinnabarinus*.
+
+## Overview
+
+Cantharellus Cinnabarinus represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish cantharellus cinnabarinus
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving cantharellus extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Cantharellus Cinnabarinus finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for cantharellus cinnabarinus. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+cantharellus cinnabarinus and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Cantharellus Cinnabarinus has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of cantharellus cinnabarinus into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions

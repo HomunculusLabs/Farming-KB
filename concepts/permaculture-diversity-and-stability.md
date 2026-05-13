@@ -18,13 +18,7 @@ Mollison defines stress broadly: it is any factor that reduces the ability of a 
 
 A common and dangerous misconception is that simply adding more species or elements to a design automatically increases stability and yield. Mollison is emphatic on this point: **diversity of components alone does not guarantee stability or yield**. A collection of unrelated plants, animals, or structures — no matter how numerous — is not a diverse system in the functional permaculture sense.
 
-A complex but disorganized assemblage can be just as fragile as a simple one if there are no beneficial connections between the parts. True diversity is about the quality and density of relationships, not the raw count of species or elements present. This distinction is critical: a monoculture of wheat connected to a well-designed rotation, green manure, and [[integrated-pest-management]] system can be more stable and productive than a haphazard polyculture of thirty species thrown together without thought for their interactions.
-
-The designer must ask not "how many species can I fit here?" but "what beneficial relationships can I create between the species that are here?" This shift in questioning transforms design from a cataloguing exercise into a relational art.
-
-## The Principle of Stability
-
-This insight leads to one of the most fundamental principles in [[permaculture-design]]:
+A complex but disorganized assemblage can be just as fragile as a simple one if there are no beneficial connections between the parts. True diversity is about the quality and density of relationships, not the raw count of species or elements present. This distinction is critical: a monoculture of wheat connected to a well-designed rotation, green manure, and [[permaculture-design]]:
 
 > "It is not the number of diverse things in a design that leads to stability, it is the number of beneficial connections between these components."
 
@@ -72,19 +66,7 @@ From this insight, Mollison derives a practical design strategy: the **stress mo
 
 This mosaic provides habitat for species at every successional stage and disturbance tolerance level simultaneously. The undisturbed islands serve as refugia and seed sources; the disturbed areas provide high-energy niches for pioneer and edge species. The result is a landscape with far greater functional diversity than any uniformly managed area could achieve.
 
-The stress mosaic is not just a theoretical construct — it is a directly applicable design pattern. A [[food-forest]] with cleared understory alleys, a pasture with hedgerows and remnant trees, a garden with wild borders and cultivated beds — all of these are stress mosaics in practice. The designer controls the scale, frequency, and intensity of disturbance to maximize the diversity of niches available.
-
-## Stability as Self-Regulation
-
-In permaculture, stability is **not** defined as reaching a climax state or a fixed endpoint. Stability is defined as **self-regulation** — the capacity of a system to maintain its essential functions through internal feedback mechanisms, even when external conditions change.
-
-A stable system is not a static system; it is one that can absorb perturbation, adapt, and continue functioning. This understanding is fundamentally different from the old ecological idea of a stable "climax community" that represents the endpoint of succession. Climax communities, in Mollison's view, are not the most stable state — they are simply the state where competitive exclusion has reduced diversity and the system has become rigid.
-
-In permaculture, stability is a dynamic property of living systems, not a museum diorama. The most stable system is not the one that changes the least, but the one that responds most effectively to change. This is why permaculture designers work to maintain a diversity of successional stages on any site — the mix of young, establishing, and mature systems provides the broadest range of responses to perturbation.
-
-## Old Systems as Fragile
-
-The conventional reverence for old, mature ecosystems can be misleading. Mollison points to John Seymour's observation of the **[[cooloola-dune-system]]** as a cautionary example. Over time, the old dune vegetation had become increasingly efficient at capturing and storing nutrients — so efficient that it began locking nutrients into woody biomass and unavailable forms.
+The stress mosaic is not just a theoretical construct — it is a directly applicable design pattern. A [[cooloola-dune-system]]** as a cautionary example. Over time, the old dune vegetation had become increasingly efficient at capturing and storing nutrients — so efficient that it began locking nutrients into woody biomass and unavailable forms.
 
 The system became nutrient-poor for new growth, fragile, and increasingly dependent on maintaining its closed nutrient cycles. When those cycles were disrupted — by fire, erosion, or human interference — the system had little resilience and little capacity to recover. The nutrients were there, but they were inaccessible, stored in dead wood and recalcitrant humus rather than cycling through living tissue.
 
@@ -123,3 +105,11 @@ For the permaculture designer, these principles lead to clear practical guidelin
 5. **Design for dynamic balance.** Expect change, plan for adaptation, and build systems that can self-regulate through internal feedback rather than external control.
 6. **Mix ages and successional stages.** Avoid single-age plantings that will all decline together; maintain a mosaic of young, establishing, and mature elements.
 7. **Monitor energy storage vs energy flow.** Ensure that biomass storage serves the system rather than trapping energy in unproductive forms.
+
+## See Also
+
+- [[nut-tree-cultivation-for-permaculture-food-forests]]
+- [[stametsian-permaculture-model]]
+- [[permaculture-farm-design-principles]]
+- [[nitrogen-fixing-plants-in-permaculture]]
+- [[urban-permaculture-and-integrated-land-management]]

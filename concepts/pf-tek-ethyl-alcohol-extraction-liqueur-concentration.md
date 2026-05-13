@@ -8,18 +8,12 @@ tags: [mycology, extraction, psilocybin, ethyl-alcohol, pf-tek, tincture, concen
 
 ## Overview
 
-The PF TEK describes a complete ethyl [[pf-tek-alcohol-extraction-method]] method for isolating psilocybin from dried [[1960s-counterculture-and-magic-mushrooms]] and concentrating it into a "magic mushroom liqueur" of controllable potency. The technique uses only mushrooms and pure ethyl alcohol, avoiding any toxic chemical solvents. The entire process is designed for home practitioners and results in a storable, doseable liquid extract that can be precisely metered using a syringe.
+The PF TEK describes a complete ethyl [[1960s-counterculture-and-magic-mushrooms]] and concentrating it into a "magic mushroom liqueur" of controllable potency. The technique uses only mushrooms and pure ethyl alcohol, avoiding any toxic chemical solvents. The entire process is designed for home practitioners and results in a storable, doseable liquid extract that can be precisely metered using a syringe.
 
 ## Source Material Selection
 
-The quality of the final extract depends entirely on the [[shirota-4-hydroxyindole-acetyl-protection-psilocin-synthesis-starting-material]]. PF specifies using:
-
-- **Species**: Quality [[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]] specimens
-- **[[cannabis-harvest-timing-visual-cues]]**: Harvested before or just as the caps open (pre-veil-tear stage)
-- **Drying method**: Cool dried with desiccant to rock-hard consistency
-- **Minimum quantity**: At least several grams of dried mushroom material to make the process worthwhile
-
-Young, pre-sporulation specimens harvested at peak potency and preserved through [[pf-tek-time-scale-harvesting-cool-desiccation]] retain the highest alkaloid content. Mature specimens that have begun sporulation are explicitly described as weaker and unsuitable for quality extraction.
+The quality of the final extract depends entirely on the [[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]] specimens
+- **[[pf-tek-time-scale-harvesting-cool-desiccation]] retain the highest alkaloid content. Mature specimens that have begun sporulation are explicitly described as weaker and unsuitable for quality extraction.
 
 ## Reagent: 200 Proof Ethyl Alcohol
 

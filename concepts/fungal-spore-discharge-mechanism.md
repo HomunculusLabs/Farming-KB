@@ -1,19 +1,8 @@
 ---
 title: Fungal Spore Discharge Mechanism
-aliases: [Buller's drop, [[bloomfield-buller-drop-surface-tension-spore-catapult-basidiospore-discharge]], spore catapult, ballistospore]
-source: Mr. Bloomfield's Orchard (Nicholas P. Money)
-created: 2026-05-10
-tags: [[mycology]], biophysics, fungi, [[spore-dispersal]], basidiomycota]
----
-
-# Fungal Spore Discharge Mechanism
-
-## Overview
-
-The mechanism by which mushrooms discharge their spores is one of the most
-remarkable feats of biological engineering in the [[fungal-kingdom-diversity]]. Gilled
+aliases: [Buller's drop, [[mycology]], biophysics, fungi, [[fungal-kingdom-diversity]]. Gilled
 mushrooms (Agaricales) propel basidiospores from the surfaces of their
-gills using a microscopic [[mushroom-spore-catapult-mechanism]] driven by the [[bloomfield-buller-drops-and-surface-tension-spore-catapult-mechanism]]
+gills using a microscopic [[bloomfield-buller-drops-and-surface-tension-spore-catapult-mechanism]]
 of water. This process, understood in detail only in the late twentieth
 century, involves the formation and collapse of a fluid droplet called
 **Buller's drop** on the spore surface. The discharge is extraordinarily
@@ -117,8 +106,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[spore]]
 - [[dom]]
-- [[det]]
 - [[ghb]]
 - [[fungal-spore-discharge-catapult-mechanism]]

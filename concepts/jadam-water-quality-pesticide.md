@@ -11,15 +11,9 @@ sources:
 
 ## Overview
 
-Water quality is one of the most critical yet overlooked factors in pesticide effectiveness. JADAM emphasizes that only when pesticide "wets" the target fully can it effectively [[query-how-to-control-pests-without-chemicals]] and leave no marks on fruits or leaves. The quality of water plays a decisive role in determining the wetting power of any pesticide, whether natural or chemical.
+Water quality is one of the most critical yet overlooked factors in pesticide effectiveness. JADAM emphasizes that only when pesticide "wets" the target fully can it effectively [[jadam-water-softener-pesticide]] Concepts
 
-## Hard Water vs Soft Water
-
-Hard water contains high levels of calcium (Ca), magnesium (Mg), and iron (Fe). When [[jadam-water-softener-pesticide]] Concepts
-
-- [[jadam-water-softener]] -- device for converting hard water to soft
 - [[jadam-pesticide-mixing-guidelines]] -- combining JADAM inputs safely
-- [[knf-pest-control-and-soap-water]]
 - [[jadam-pesticide-for-aphids-and-mites]]
 ## Practical Applications
 
@@ -97,8 +91,6 @@ through generations to modern scientific approaches, the evolution continues
 to inform current best practices and research directions.
 
 ## See Also
-- [[doc]]
 - [[det]]
-- [[jadam-water-softener-pesticide]]
 - [[jadam-water-quality-softening]]
 - [[jadam-water-softener]]

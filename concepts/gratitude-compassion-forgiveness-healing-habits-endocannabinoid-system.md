@@ -2,11 +2,7 @@
 
 ## Overview
 
-In Chapter V of The [[blesching-cannabis-health-index-autoimmune-conditions]], Uwe Blesching identifies three
-"healing habits" — gratitude, compassion, and forgiveness — as central
-practices in the mind-body medicine framework for deeper healing. These
-habits are paired with three "destructive habits" (guilt, martyrdom, and
-[[guilt-martyrdom-harbored-anger-as-health-hazards]]) that they are designed to replace. The framework positions
+In Chapter V of The [[guilt-martyrdom-harbored-anger-as-health-hazards]]) that they are designed to replace. The framework positions
 emotional habits as active determinants of health outcomes, mediated through
 the endocannabinoid system and its interactions with other neurochemical
 systems.
@@ -15,8 +11,7 @@ systems.
 
 Blesching's framework distinguishes between expansive and constricting
 emotions. Expansive emotions (associated with anandamide, serotonin, GABA,
-oxytocin, and [[endogenous-opioids-pain-modulation-endocannabinoid-interaction]]) promote parasympathetic dominance,
-reduced inflammation, and enhanced immune function. [[blesching-cannabis-emotional-processing-expansive-constricting-emotions]]
+oxytocin, and [[blesching-cannabis-emotional-processing-expansive-constricting-emotions]]
 (associated with cortisol, epinephrine, glutamate, and vasopressin)
 promote sympathetic dominance, chronic inflammation, and immune
 suppression.
@@ -60,9 +55,7 @@ central to gratitude practice.
 Compassion activates the insula, anterior cingulate cortex, and
 hypothalamus, with particular engagement of the oxytocin system. Compassion
 meditation increases functional connectivity between the prefrontal cortex
-and insula, enhancing [[anandamide-emotional-regulation-blesching]] capacity.
-
-[[emcdda-psilocybin-cardiovascular-risks-acute-physiological-effects]] include increased oxytocin release promoting trust,
+and insula, enhancing [[emcdda-psilocybin-cardiovascular-risks-acute-physiological-effects]] include increased oxytocin release promoting trust,
 reduced amygdala reactivity to threats, enhanced vagal tone, reduced
 C-reactive protein and inflammatory markers, increased beta-endorphin
 release, and modulation of the HPA axis reducing chronic cortisol.
@@ -118,8 +111,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[endocannabinoid-system]]
 - [[doc]]
-- [[uwe-blesching]]
 - [[psilocybin]]
 - [[dom]]

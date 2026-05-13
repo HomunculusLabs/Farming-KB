@@ -11,44 +11,8 @@ type: concept
 # Environmental DNA Fungal Survey
 
 Environmental DNA (eDNA) metabarcoding has transformed fungal
-[[fungal-biodiversity-assessment-methods]] by enabling detection of species that never
-produce visible fruiting structures or that are too rare to find through
-conventional collecting.
-
-## eDNA Methods for Fungi
-
-The internal transcribed spacer (ITS) region between ribosomal RNA genes
-is the universally accepted DNA barcode for fungi. ITS1 and ITS2 sub
-regions offer the best balance of amplification reliability and taxonomic
-resolution across the fungal kingdom.
-
-The UNITE database provides curated reference sequences for ITS-based
-identification, though coverage remains incomplete, especially for
-tropical and asexual taxa. No single primer pair amplifies all fungal
-groups equally. Basal fungal lineages such as Rozellomycota and
-Chytridiomycota are often underrepresented in ITS-based surveys.
-
-Multiplexed primer approaches partially address this bias. The shift
-from OTUs to amplicon sequence variants (ASVs) has improved
-reproducibility and resolution in eDNA studies.
-
-## Sampling Techniques
-
-Soil is the most commonly surveyed substrate for fungal eDNA. Standard
-protocols involve collecting soil cores to a depth of 5 to 10
-centimeters, preserving in CTAB buffer or freezing immediately. Spatial
-pooling strategies and composite sampling help capture landscape-scale
-diversity.
-
-Airborne fungal DNA provides a window into the spore-producing community
-and is increasingly used for allergen monitoring and plant pathogen
-surveillance. High-volume air samplers equipped with filters capture
-spores over hours to days.
-
-Surface-sterilized leaf and root tissues allow targeted surveys of
-endophytic and [[arbuscular-mycorrhizal-fungi-biology-symbiosis]]. Root-tip sorting under a microscope
-enables selective analysis of [[arbuscular-mycorrhizal-colonization-patterns]] types. Aquatic
-[[biodiversity-of-fungi-soil-fungal-communities-agriculture]] are surveyed by filtering water samples or extracting
+[[arbuscular-mycorrhizal-fungi-biology-symbiosis]]. Root-tip sorting under a microscope
+enables selective analysis of [[biodiversity-of-fungi-soil-fungal-communities-agriculture]] are surveyed by filtering water samples or extracting
 DNA from sediment.
 
 ## Lab Processing
@@ -62,18 +26,7 @@ Illumina platforms.
 Bioinformatic processing clusters sequences into OTUs or amplicon
 sequence variants (ASVs). A major limitation is that many environmental
 sequences cannot be confidently assigned to described species because
-reference databases cover only a fraction of known [[arbuscular-mycorrhizal-fungal-diversity-patterns-distribution]].
-
-Laboratory contamination from reagents, equipment, and previous samples
-is a persistent concern. Negative controls, blank extractions, and mock
-community standards are essential for distinguishing genuine
-environmental signals from contaminants.
-
-## Advantages Over Traditional Survey
-
-Metabarcoding has revealed that fungal communities are far more diverse
-than fruiting-body surveys suggest, with many species detected only as
-DNA. Seasonal patterns in [[core-endorhiza-bacterial-community-composition-cannabis]] are now trackable across
+reference databases cover only a fraction of known [[core-endorhiza-bacterial-community-composition-cannabis]] are now trackable across
 entire years, revealing previously invisible phenological dynamics.
 
 Spatial patterns show strong habitat partitioning at very fine scales,
@@ -118,8 +71,80 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[dom]]
 - [[det]]
-- [[soma]]
 - [[spore]]
 - [[mycorrhiza]]
+
+## Overview
+
+Environmental Dna Fungal Survey represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish environmental dna fungal survey
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving environmental extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Environmental Dna Fungal Survey finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for environmental dna fungal survey. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+environmental dna fungal survey and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Environmental Dna Fungal Survey has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of environmental dna fungal survey into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource

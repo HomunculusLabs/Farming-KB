@@ -14,12 +14,7 @@ sources:
   - Wang, X. et al. (2018). "Anticancer activities of Scutellaria barbata extracts." Journal of Ethnopharmacology, 221, 17-29.
   - Zhou, L. et al. (2020). "Scutellarin from Scutellaria barbata: pharmacological effects and mechanisms." Phytomedicine, 67, 153161.
   - Chinese Pharmacopoeia Commission (2020). Pharmacopoeia of the People's Republic of China, Vol. I.
-  - Wu, W. et al. (2021). "[[guzman-magic-mushrooms-chemical-constituents]] and bioactivities of Scutellaria barbata." Frontiers in Pharmacology, 12, 643821.
----
-
-## Overview
-
-Scutellaria barbata is a perennial herbaceous plant in the family Lamiaceae, commonly known as banzhi cao (半枝莲) in Chinese traditional medicine. It is closely related to the well-known [[scutellaria-baicalensis]] (Huang Qin) but differs in its preferred wetland habitat and phytochemical profile.
+  - Wu, W. et al. (2021). "[[scutellaria-baicalensis]] (Huang Qin) but differs in its preferred wetland habitat and phytochemical profile.
 
 The species has attracted significant research interest for its potent anticancer, anti-inflammatory, and hepatoprotective properties. It is one of the most frequently prescribed herbs in modern Chinese anticancer formulations.
 
@@ -50,13 +45,7 @@ The species prefers moist, open habitats including stream banks, ditches, rice p
 
 It thrives in loamy to sandy soils with consistent moisture but can tolerate brief periods of inundation. Partial shade to full sun is acceptable, though flowering is most prolific in open conditions.
 
-The species exhibits moderate frost tolerance and can persist as a perennial in [[query-how-to-grow-rare-tropical-fruits-in-marginal-and-subtropical-climates]]. In [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]] it may behave as an annual, completing its lifecycle within a single [[extending-growing-season]].
-
-The plant is collected from the wild in most of its range.
-
-## Bioactive Compounds
-
-The aerial parts of Scutellaria barbata contain a diverse array of [[antifungal-secondary-metabolites-coprophilous-fungi]]. The most pharmacologically significant are flavonoids, diterpenoids, and phenolic acid derivatives.
+The species exhibits moderate frost tolerance and can persist as a perennial in [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]] it may behave as an annual, completing its lifecycle within a single [[antifungal-secondary-metabolites-coprophilous-fungi]]. The most pharmacologically significant are flavonoids, diterpenoids, and phenolic acid derivatives.
 
 **Major flavonoids** include scutellarin, apigenin, luteolin, baicalin, and wogonin. Scutellarin is considered the signature compound and primary bioactive marker for quality control.
 
@@ -87,3 +76,75 @@ Clinical observations in Chinese hospitals report improved quality of life score
 **Anti-inflammatory activity** involves suppression of pro-inflammatory cytokines including TNF-α, IL-1β, and IL-6. Extracts inhibit COX-2 and iNOS expression in LPS-stimulated macrophages.
 
 **Hepatoprotective effects** include reduction of liver fibrosis markers, inhibition of hepatic stellate cell activation, and protection against acetaminophen-induced liver injury in animal models.
+
+## Overview
+
+Scutellaria Barbata represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish scutellaria barbata
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving scutellaria extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Scutellaria Barbata finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for scutellaria barbata. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+scutellaria barbata and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Scutellaria Barbata has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of scutellaria barbata into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions

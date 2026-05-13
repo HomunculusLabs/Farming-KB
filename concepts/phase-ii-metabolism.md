@@ -10,11 +10,7 @@ sources: []
 
 ## Overview
 
-Phase II metabolism is the family of biochemical [[phase-ii-conjugation-reactions-drug-metabolism]] that attach polar endogenous groups to drugs, natural
-products, environmental chemicals, and endogenous metabolites. These reactions usually increase water solubility and promote
-excretion in bile or urine.
-
-The phrase contrasts with [[first-pass-metabolism-and-oral-bioavailability]]. If a drug is rapidly glucuronidated in
+Phase II metabolism is the family of biochemical [[first-pass-metabolism-and-oral-bioavailability]]. If a drug is rapidly glucuronidated in
 intestine or liver, only a fraction reaches systemic circulation. Prodrug design can exploit or avoid conjugation depending on the
 desired exposure profile.
 
@@ -22,7 +18,7 @@ Drug-drug interactions can occur when two compounds compete for the same conjuga
 enzymes can increase exposure to narrow-therapeutic-index drugs. Induction can lower exposure and reduce efficacy.
 
 Medicinal chemists consider Phase II liability during lead optimization. Adding steric hindrance near a phenol may reduce
-glucuronidation, whereas adding a polar group may improve clearance. These choices must balance potency, solubility, safety, and
+[[glucuronidation]], whereas adding a polar group may improve clearance. These choices must balance potency, solubility, safety, and
 duration of action.
 
 ## Toxicological Implications
@@ -45,7 +41,6 @@ including descriptions of Phase II conjugation, enzyme families, tissue distribu
 Further reading includes Goodman and Gilman's pharmacology chapters on drug metabolism, Casarett and Doull toxicology chapters on
 biotransformation, and review literature on UGT, SULT, GST, NAT, and transporter interactions.
 ## See Also
-- [[reactive-metabolites-and-bioactivation-toxicology]]
 - [[glutathione-biochemistry-and-redox-biology]]
 ## Practical Considerations
 

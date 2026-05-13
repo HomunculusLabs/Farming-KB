@@ -11,20 +11,7 @@ sources: [raw/papers/understanding-cultivar-specificity-cannabis-microbiome.md]
 
 ## Overview
 
-Edaphic factors — the physical, chemical, and biological properties of soil — are the primary determinants of microbial community composition across all root-associated compartments. The [[winston-cannabis-microbiome-study-design]] by Winston et al. (2014) systematically quantified the influence of five key edaphic variables on bacterial community structure, revealing a clear hierarchy of importance that has practical implications for soil management in cultivation.
-
-## The Edaphic Factor Hierarchy
-
-Through Mantel tests and BEST (Best Subset of Environmental Variables) analysis, the study ranked five soil properties by their correlation with microbial community beta-diversity. The ranking was consistent across both weighted and unweighted analyses:
-
-### 1. Nitrogen (Strongest Factor)
-
-Total nitrogen concentration was the single most important edaphic variable structuring microbial communities:
-
-- Weighted analysis: r-stat = 0.465, p = 0.001
-- Unweighted analysis: r-stat = 0.630, p = 0.001
-
-Nitrogen's dominance reflects its role as the primary limiting nutrient for microbial growth in most terrestrial ecosystems. Microbial community composition is strongly shaped by the availability of different nitrogen forms (ammonium, nitrate, organic nitrogen) because different microbial taxa have evolved specialized metabolic pathways for different nitrogen sources. Ammonia-oxidizing [[teaming-with-microbes-bacteria-and-archaea-in-soil]], denitrifiers, nitrogen fixers, and generalist heterotrophs each occupy distinct ecological niches defined by nitrogen availability.
+Edaphic factors — the physical, chemical, and biological properties of soil — are the primary determinants of microbial community composition across all root-associated compartments. The [[teaming-with-microbes-bacteria-and-archaea-in-soil]], denitrifiers, nitrogen fixers, and generalist heterotrophs each occupy distinct ecological niches defined by nitrogen availability.
 
 ### 2. Salinity
 
@@ -102,24 +89,13 @@ As the strongest community structuring factor, nitrogen management should be a p
 
 - Irrigation water quality directly impacts soil salinity and thus microbial community structure
 - The dramatic salinity differences between study sites (1.73 vs 7.44 dS/m) produced clearly differentiated communities
-- In container-based cultivation, salt accumulation from [[teaming-with-nutrients-natural-vs-synthetic-fertilizers]] can be managed through regular leaching and organic [[soil-mineral-management-and-amendment-strategies]]
+- In container-based cultivation, salt accumulation from [[soil-mineral-management-and-amendment-strategies]]
 
 ### Organic Matter
 
 - High organic carbon (20% in OC.2 soil) supported distinct microbial communities compared to lower-carbon soils
 - Regular composting, mulching, and organic matter inputs build the carbon reserves that support diverse microbial populations
-- The relationship between organic carbon and microbial diversity is one reason living soil approaches emphasize [[coleman-compost-and-organic-fertility-management]] amendments
-
-### Moisture Management
-
-- Consistent (not waterlogged) moisture supports aerobic microbial communities
-- Overwatering creates anaerobic conditions that favor different microbial functional groups
-- In indoor cultivation, the water content of growing media directly shapes the microbial ecology of the root zone
-
-## Related Concepts
-
-- [[rhizosphere-ecology]]
-- [[cannabis-endorhiza-bacterial-communities]]
+- The relationship between organic carbon and microbial diversity is one reason living soil approaches emphasize [[rhizosphere-ecology]]
 - [[cultivar-specificity-plant-microbiome]]
 - soil ph and microbial activity
 

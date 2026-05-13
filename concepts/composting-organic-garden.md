@@ -11,10 +11,7 @@ type: concept
 # Composting in the Organic Garden
 
 Every garden must have a compost heap. Composting is the ideal
-way to return as much [[hamilton-composting-and-organic-matter-management]] as possible to the soil,
-following nature's example. Decomposing vegetation provides a
-home for millions of soil organisms, opens up the soil,
-improves drainage, and eases the way for [[soil-moisture-management-and-root-growth]]. It also
+way to return as much [[soil-moisture-management-and-root-growth]]. It also
 helps over-drained soils hold water and nutrients.
 
 ## Why Composting Matters
@@ -25,8 +22,7 @@ flowers all contain plant food and should not be wasted.
 However, if dug in immediately while still green, the
 decomposing bacteria will draw nitrogen from the soil, leaving
 growing plants short of food. If the material is turned into
-compost first, it will actually [[query-how-do-legumes-add-nitrogen-to-soil]] because bacteria
-called Azotobacter [[query-how-to-fix-nitrogen-toxicity-in-cannabis]] from the air into a form
+compost first, it will actually [[query-how-to-fix-nitrogen-toxicity-in-cannabis]] from the air into a form
 usable by plants.
 
 A successful organic garden should have at least two compost
@@ -45,9 +41,7 @@ grass cuttings with larger items such as shredded newspaper
 or straw to create natural air spaces.
 
 ### Nitrogen
-Bacteria in the heap need nitrogen as fuel. [[fukuoka-textdoc-animal-manure-human-waste-natural-cycle-heretic]]
-is ideal. If unavailable, use organic compost activators,
-dried sewage sludge, [[comparison-fish-aminos-vs-kelp-meal]], or dried blood. A fine
+Bacteria in the heap need nitrogen as fuel. [[comparison-fish-aminos-vs-kelp-meal]], or dried blood. A fine
 dusting every 12in (30cm) of compost is sufficient.
 
 ### Lime
@@ -118,8 +112,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[composting]]
 - [[doc]]
-- [[decomposition]]
 - [[comparison-vermicomposting-vs-composting-organic-garden]]
 - [[organic-garden-soil-preparation]]

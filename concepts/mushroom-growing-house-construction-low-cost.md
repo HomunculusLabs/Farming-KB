@@ -6,7 +6,7 @@ type: concept
 tags: [mycology, mushrooms, cultivation]
 sources: [papers/benjamin-minge-duggar-mushroom-growing.md]
 ---
-Updated: 2026-04-18 Source: FAO RAP Publication 2001/12, "A [[mushroom-cultivation-disabilities-training-manual-overview]] on [[accessible-mushroom-cultivation-for-disabilities]] for People with Disabilities" by Johanne Hanko. Based on the Ubon Ratchathani mushroom [[mollison-designers-house-design-climate-zones]], Thailand. A complete [[low-cost-mushroom-growing-house-construction-developing-countries]] for 1000 [[oil-drum-sterilizer-mushroom-substrate-bags]] can be constructed for approximately 500 Baht (US$12) using locally available materials. See also [[mushroom-cultivation-for-disabilities-training-program]].
+Updated: 2026-04-18 Source: FAO RAP Publication 2001/12, "A [[accessible-mushroom-cultivation-for-disabilities]] for People with Disabilities" by Johanne Hanko. Based on the Ubon Ratchathani mushroom [[low-cost-mushroom-growing-house-construction-developing-countries]] for 1000 [[mushroom-cultivation-for-disabilities-training-program]].
 
 ## Standard House Specifications
 
@@ -14,13 +14,7 @@ Updated: 2026-04-18 Source: FAO RAP Publication 2001/12, "A [[mushroom-cultivati
 - **Capacity**: 1000 substrate bags
 - **Frame**: 8 bamboo poles (3m each) for roof supports, plus side poles
 - **Walls**: Thatch or agricultural netting (sak yong) on sides
-- **Floor**: [[savory-bare-ground-and-soil-exposure]] or packed earth with a 20cm drain
-
-## Materials List
-
-| Material | Quantity | Cost (Baht) | Notes |
-|----------|----------|-------------|-------|
-| Bamboo poles (3m) | 8+ | 160 | [[reciprocal-roof-frame]] supports |
+- **Floor**: [[reciprocal-roof-frame]] supports |
 | Rope/cord | 5 rolls | 50 | Binding frame |
 | Thatch panels or netting | Variable | 100 | Side walls |
 | Palm leaf thatch | Variable | 80 | Roof covering |

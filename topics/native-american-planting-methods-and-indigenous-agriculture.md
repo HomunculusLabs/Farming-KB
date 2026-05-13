@@ -16,24 +16,11 @@ sources:
 
 # Native American Planting Methods and Indigenous Agriculture
 
-Indigenous peoples of the Americas developed sophisticated agricultural systems over thousands of years, long before European contact. These methods were not primitive precursors to modern agriculture — they were complex, place-based food production systems refined through millennia of observation, experimentation, and ecological knowledge. Many of these techniques align closely with modern [[permaculture-design-principles]] and [[syntropic-agriculture-design-and-practice]], and they offer valuable strategies for sustainable food production today.
+Indigenous peoples of the Americas developed sophisticated agricultural systems over thousands of years, long before European contact. These methods were not primitive precursors to modern agriculture — they were complex, place-based food production systems refined through millennia of observation, experimentation, and ecological knowledge. Many of these techniques align closely with modern [[syntropic-agriculture-design-and-practice]], and they offer valuable strategies for sustainable food production today.
 
 ## Overview and Historical Context
 
-Agriculture in the Americas developed independently from Old World systems, with domestication centers in Mesoamerica (corn, beans, squash, chocolate, tomatoes, peppers), the Andes (potatoes, quinoa, oca), the eastern woodlands (sunflowers, sumpweed, goosefoot), and the Amazon basin (manioc, peach palm, Brazil nut). By the time of European contact, indigenous peoples managed an estimated 50-70% of the [[growing-gourmet-north-american-reishi-species]] landscape through active stewardship including controlled burning, selective harvesting, transplanting, and cultivation.
-
-Contrary to the myth of a pristine wilderness, the pre-contact Americas were extensively managed landscapes. Charles Mann's research documented that indigenous populations actively shaped forest composition, grassland productivity, and wetland fertility through deliberate practices that modern ecologists are only beginning to fully appreciate.
-
-## The Three Sisters: Corn, Beans, and Squash
-
-The Three Sisters polyculture is the most well-documented indigenous planting system in North America, practiced by Iroquois, Cherokee, Hopi, Navajo, and many other nations from southern Canada to [[guzman-allen-gartz-neurotropic-fungi-central-america-caribbean]]. It represents one of the world's oldest and most successful examples of [[companion-planting-and-polycultures]].
-
-### The Ecological Logic
-
-The system exploits complementary growth habits across three species:
-
-- **Corn (Zea mays)** provides structural support — tall stalks serve as living trellises for climbing beans. The dense root system anchors the mound and reduces erosion.
-- **Beans (Phaseolus vulgaris)** fix atmospheric nitrogen through their symbiotic relationship with Rhizobium bacteria, converting it to plant-available forms. This is a critical input in systems without external fertilizers. Beans contribute an estimated 40-80 kg N/ha/year to the system. See [[nitrogen-fixing-bacteria-and-biological-nitrogen-fixation]].
+Agriculture in the Americas developed independently from Old World systems, with domestication centers in Mesoamerica (corn, beans, squash, chocolate, tomatoes, peppers), the Andes (potatoes, quinoa, oca), the eastern woodlands (sunflowers, sumpweed, goosefoot), and the Amazon basin (manioc, peach palm, Brazil nut). By the time of European contact, indigenous peoples managed an estimated 50-70% of the [[guzman-allen-gartz-neurotropic-fungi-central-america-caribbean]]. It represents one of the world's oldest and most successful examples of [[nitrogen-fixing-bacteria-and-biological-nitrogen-fixation]].
 - **Squash (Cucurbita spp.) provides a living mulch** — its broad leaves shade the soil surface, reducing soil temperature by 5-10°C, suppressing weeds, and reducing evaporation by up to 50%. The spiny vines also deter mammalian pests like raccoons and deer.
 
 ### Root Zone Stratification
@@ -103,33 +90,7 @@ Traditional Zuni waffle gardens concentrated high-value crops that required cons
 
 ## Chinampas: Mesoamerican Floating Gardens
 
-The chinampa system of the Valley of Mexico represents one of the most productive agricultural systems ever developed. Sometimes called "floating gardens," chinampas are actually artificial islands built in shallow lake beds — an early and highly sophisticated form of [[water-harvesting-techniques-comparison]].
-
-### Construction
-
-Chinampas were built by layering mud, aquatic vegetation, and silt from the lake bottom within rectangular frames of woven reeds and willow stakes. The process:
-
-1. **Staking**: Willow (*Salix bonplandiana*) stakes driven into the lake bed in parallel rows 2-5 m apart
-2. **Fencing**: Woven reed mats (or later, wooden planks) attached to stakes forming a rectangular enclosure
-3. **Filling**: Layers of lake mud, aquatic plants (sedges, water hyacinth), and silt scooped from the lake bottom
-4. **Planting**: Fast-growing willows planted along edges — their roots stabilized the island and eventually formed living retaining walls
-
-Each chinampa was typically 2.5-10 m wide and 50-100 m long, separated by narrow canals (2-4 m wide) that served as irrigation channels, transportation routes, and habitat for fish and waterfowl.
-
-### Productivity
-
-Chinampas were extraordinarily productive — among the highest-yielding pre-industrial agricultural systems documented:
-
-- **Annual maize harvests**: 3-4 crops per year (compared to 1-2 in most contemporary systems)
-- **Corn yield**: Estimated 3,500-5,000 kg/ha per harvest — comparable to modern mechanized agriculture
-- **Year-round production**: Different crops grown simultaneously (corn, beans, squash, chiles, amaranth, flowers)
-- **Total system productivity**: Including fish, waterfowl, and frog harvests from the canals, the system produced more protein and calories per hectare than almost any other pre-industrial agriculture
-
-The Aztec capital Tenochtitlan (modern Mexico City) supported an estimated 200,000-300,000 people largely on chinampa production — one of the largest cities in the world at the time of contact.
-
-### Ecological Functions
-
-Beyond food production, chinampas provided critical [[biodiversity-of-fungi-ecosystem-services-agriculture]]:
+The chinampa system of the Valley of Mexico represents one of the most productive agricultural systems ever developed. Sometimes called "floating gardens," chinampas are actually artificial islands built in shallow lake beds — an early and highly sophisticated form of [[biodiversity-of-fungi-ecosystem-services-agriculture]]:
 
 - **Water filtration**: The dense root masses and microbial communities in the chinampa soils filtered lake water
 - **Flood mitigation**: The canal network absorbed and redistributed floodwaters

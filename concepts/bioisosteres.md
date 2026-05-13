@@ -38,19 +38,7 @@ Nonclassical replacements are especially useful when the original group gives ex
 
 ## Design Goals
 
-One goal is to improve metabolic stability by blocking a soft site that is rapidly oxidized, hydrolyzed, reduced, or conjugated. Another goal is to tune pKa so that the molecule has the right ionization state for target binding, membrane permeability, and [[cannabinoid-receptors-cb1-cb2-tissue-distribution-blesching]].
-
-A third goal is to lower excessive lipophilicity, because very lipophilic compounds often show poor solubility, high clearance, promiscuous binding, or toxic accumulation. A fourth goal is to remove structural alerts such as anilines, catechols, Michael acceptors, nitroaromatics, or metabolically activated heterocycles.
-
-A fifth goal is to improve selectivity by exploiting subtle differences between homologous binding pockets. Bioisosteric replacement can also improve patentability, formulation properties, synthetic robustness, and compatibility with scalable chemistry.
-
-The best replacements solve multiple problems at once without destroying the pharmacophore.
-
-## ADME and Toxicology
-
-ADME optimization is a major reason to use bioisosteres. Replacing a labile ester with an amide may increase plasma stability but may also reduce permeability or change distribution.
-
-Replacing a carboxylic acid with a tetrazole may preserve an anionic interaction while increasing lipophilicity and changing [[glucuronidation]] risk. Replacing a phenyl ring with pyridine may reduce logD and add a hydrogen-bond acceptor, but it may also introduce CYP binding or alter basicity nearby.
+One goal is to improve metabolic stability by blocking a soft site that is rapidly oxidized, hydrolyzed, reduced, or conjugated. Another goal is to tune pKa so that the molecule has the right ionization state for target binding, membrane permeability, and [[glucuronidation]] risk. Replacing a phenyl ring with pyridine may reduce logD and add a hydrogen-bond acceptor, but it may also introduce CYP binding or alter basicity nearby.
 
 Fluorination can block metabolism, alter pKa, change conformation through stereoelectronic effects, or increase lipophilicity depending on position. Heterocycles can remove aromatic metabolic hot spots, but they can also add hERG risk, phototoxicity, reactive metabolite formation, or poor chemical stability.
 
@@ -104,18 +92,17 @@ timing, and material selection all play critical roles.
 
 ## Historical Context
 
-The historical development of this subject reflects centuries of accumulated
+The [[historical-development-of-mushroom-cultivation]] this subject reflects centuries of accumulated
 knowledge and practical experience. From traditional methods passed down
 through generations to modern scientific approaches, the evolution continues
-to inform current best practices and research directions.
+to inform current [[arbuscular-mycorrhizal-inoculum-production-best-practices]] and research directions.
 
 ## Common Challenges
 
 Practitioners frequently encounter several challenges when working with
-these concepts. Climate variability, resource limitations, and knowledge
+these concepts. [[macrofungal-fruiting-phenology-climate-variability]], resource limitations, and knowledge
 gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[dom]]
 - [[glucuronidation]]

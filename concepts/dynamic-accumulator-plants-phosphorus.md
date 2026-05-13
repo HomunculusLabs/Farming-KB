@@ -20,13 +20,7 @@ Phosphorus accumulators operate through several mechanisms:
 - **Deep rooting**: Taprooted plants access phosphorus from deeper soil layers unreachable by shallow-rooted crops
 - **Mycorrhizal associations**: Many accumulators form symbiotic relationships with mycorrhizal fungi that greatly expand phosphorus uptake capacity
 - **Legume cycling**: Legumes accumulate phosphorus and slowly release it as their residues decompose
-- **Soil modification**: Root channels created by deep-rooted accumulators improve overall soil structure, indirectly improving [[query-how-does-phosphorus-availability-change-across-soil-ph-levels]] for subsequent crops
-
-## Key Phosphorus-Accumulating Plants
-
-### Legumes
-
-Legumes serve a dual role as both nitrogen fixers and phosphorus accumulators. When alfalfa (*Medicago sativa*) is left in the field as a cover crop or green manure, there is a slow but measurable improvement in the soil's supply of available phosphorus. Using legumes as cover crops is a primary strategy for enhancing [[mollison-phosphorus-cycling-and-conservation-in-permaculture-systems]] within a backyard or farm landscape.
+- **Soil modification**: Root channels created by deep-rooted accumulators improve overall soil structure, indirectly improving [[mollison-phosphorus-cycling-and-conservation-in-permaculture-systems]] within a backyard or farm landscape.
 
 All legumes noted as nitrogen fixers also contribute to phosphorus cycling, including clovers, vetches, alfalfa, cowpeas, and field beans.
 
@@ -40,53 +34,22 @@ Buckwheat is one of the most important phosphorus accumulators and deserves a ce
 - Actively excretes phosphorus from its roots for neighboring plants
 - Fast-growing — can be succession-planted multiple times through the growing season
 - Grows well in poor soils; tolerates acidic conditions
-- Attracts [[comparison-beneficial-insects-guide-vs-integrated-pest-management]] and pollinators when allowed to flower briefly
-
-### Mustards (*Brassica* spp.)
-
-Mustards are equally important phosphorus accumulators, particularly for cooler seasons:
-
-- Deep taproot system improves drainage and tilth of heavy clay soils
-- Good soil-improving crop for the cooler part of the growing season
-- Like buckwheat, excretes phosphorus through root interactions
-- Excellent for fall/winter cover cropping in mild climates
-- Biofumigation properties — releasing compounds that suppress soil-borne pathogens when incorporated
-
-## Additional Phosphorus Accumulators
-
-From documented observations, the following plants also accumulate phosphorus at notable levels:
-
-### Highly Productive Accumulators
-
-- **Comfrey** (*[[comfrey-symphytum-officinale]]*) — accumulates across nearly all nutrient categories; perennial; can be cut multiple times per season
+- Attracts [[comfrey-symphytum-officinale]]*) — accumulates across nearly all nutrient categories; perennial; can be cut multiple times per season
 - **Stinging nettle** (*Urtica urens*) — high phosphorus alongside nitrogen; excellent for compost activation
 - **Dandelion** (*Taraxacum vulgare*) — deep taproot mines subsoil phosphorus; ubiquitous and easy to use
 - **Chickweed** (*Stellaria media*) — common accumulator with broad nutrient profile; prolific in cool weather
 
 ### Perennial Accumulators
 
-- **Chicory** (*[[cichorium-intybus]]*) — deep taproot perennial; [[permplant-carob-drought-tolerant-food-tree]]
+- **Chicory** (*[[permplant-carob-drought-tolerant-food-tree]]
 - **Plantains** (*Plantago* spp.) — common broadleaf "weeds"; very deep taproots
-- **Yarrow** (*[[achillea-millefolium]]*) — perennial with extensive root system; drought tolerant once established
-- **Vetches** (*Vicia* spp.) — dual N and P accumulator; excellent cool-season cover crop
-- **Clovers** (*Trifolium* spp.) — leguminous with phosphorus cycling ability; living mulch option
-
-### Annual Accumulators
-
-- **Lamb's quarters** (*Chenopodium album*) — fast-growing annual weed; pioneer species
-- **Burdock** (*Arctium minus*) — deep taproot biennial; large leaves produce significant biomass
-- **Purslane** (*[[portulaca-oleracea]]*) — succulent summer annual; edible and nutritious
+- **Yarrow** (*[[portulaca-oleracea]]*) — succulent summer annual; edible and nutritious
 - **Red-root pigweed** (*Amaranthus retroflexus*) — large summer annual; high biomass producer
 - **Shepherd's purse** (*Capsella bursa-pastoris*) — widespread winter annual; common in gardens
 
 ### Wetland and Aquatic Accumulators
 
-- **Watercress** (*[[nasturtium-officinale]]*) — aquatic accumulator; high phosphorus content
-- **Cattail** (*Typha latifolia*) — marsh plant; accumulates P, K, and trace minerals
-
-### Herb Accumulators
-
-- **Fennel** (*[[foeniculum-vulgare-entity]]*)
+- **Watercress** (*[[foeniculum-vulgare-entity]]*)
 - **Peppermint** (*Mentha piperita*)
 
 ## Practical Applications
@@ -118,8 +81,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[doc]]
 - [[mentha-piperita]]
-- [[typha-latifolia]]
 - [[fagopyrum-esculentum]]
 - [[arctium-minus]]

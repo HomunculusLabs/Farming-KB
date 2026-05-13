@@ -15,45 +15,9 @@ sources:
   - Galet, P. (1998). Grape Varieties: A Practical Guide to Identification and Cultivation. Cassell.
   - Hegwood, D.A. (1990). "The wild grapes of Texas." Proceedings of the Texas Grape Growers Association, 19, 20-33.
   - Millardet, P.M.A. (1889). "Le mildiou et le black-rot des vignes." Annales de l'École Nationale d'Agriculture de Montpellier, 11, 181-220.
-  - Wan, Y. et al. (2007). "The genome of [[vitis-rotundifolia]] and its implications for grape breeding." Acta Horticulturae, 754, 187-192.
-  - Moore, M.O. (1991). "Classification and systematics of polypore-fungi-eastern-north-america American Vitis (north of Mexico)." Economic Botany, 45(4), 445-457.
----
+  - Wan, Y. et al. (2007). "The genome of [[dmt-containing-plants-united-states-halpern]], commonly known as the rock grape, sand grape, or mountain grape.
 
-## Overview
-
-**Vitis rupestris** is a species of wild grape native to the central and southern [[dmt-containing-plants-united-states-halpern]], commonly known as the rock grape, sand grape, or mountain grape.
-
-It is one of the most commercially significant [[growing-gourmet-north-american-reishi-species]] Vitis species due to its exceptional resistance to phylloxera (*Daktulosphaira vitifoliae*), which devastated European vineyards in the late 19th century.
-
-The species was a primary source of phylloxera-resistant rootstock that saved the global wine industry and remains widely used in hybrid grape breeding programs.
-
-Unlike the climbing habit of most Vitis species, *V. rupestris* often grows as a low, shrubby, trailing vine along rocky streambeds and limestone outcrops.
-
-## Taxonomy and Morphology
-
-**Classification:** Plantae → Tracheophyta → Magnoliopsida → Vitales → Vitaceae → Vitis → V. rupestris Scheele (1838).
-
-**Authority:** Scheele published the species in 1838 based on specimens from Texas.
-
-**Synonyms:** *Vitis rupestris* var. *monticola* Engelm.; *V. monticola* (Engelm.) Munson; *V. rupestris* var. *dissecta* L.H. Bailey.
-
-The species is placed within the *Muscadinia* subgenus debate — early classifications grouped it with muscadine grapes, but modern phylogenetics places it firmly within subgenus *Vitis* (the true grapes), section *Vitis*.
-
-**Leaves** are small to medium (8–14 cm broad), cordate to reniform, with 3–5 shallow lobes. The upper surface is dark green and glabrous; the lower surface is lighter with sparse cobwebby pubescence along veins.
-
-Leaf margins are coarsely dentate to serrate. The petiole is shorter than the leaf blade, distinguishing it from the long-petioled *V. riparia*.
-
-**Tendrils** are simple or bifid, intermittent along the stem. Unlike many Vitis species, tendrils are often reduced or absent on trailing shoots.
-
-**Canes** are slender, cylindrical, and notably short-jointed (internodes 2–5 cm). Bark on mature wood is tight and shredding, not peeling in large strips.
-
-**Fruit** are small black berries (8–12 mm diameter) in compact, conical clusters 5–10 cm long. Berry skin is thin with a bloom. Pulp is juicy but highly acidic and astringent.
-
-Seeds are small, 3–4 per berry, pyriform, with a short beak. Seed morphology is an important diagnostic character separating *V. rupestris* from related species.
-
-## Distribution and Habitat
-
-The species is native to the south-central [[dmt-maoi-plants-united-states]], with a range extending from Missouri and Kansas south through Oklahoma, Texas, Arkansas, and Louisiana.
+It is one of the most commercially significant [[dmt-maoi-plants-united-states]], with a range extending from Missouri and Kansas south through Oklahoma, Texas, Arkansas, and Louisiana.
 
 In Texas, it is most abundant in the Edwards Plateau, Cross Timbers, and limestone hills of the Hill Country, where it is one of the most common native grape species.
 
@@ -71,15 +35,7 @@ It typically occurs at elevations of 100–800 m, though some Texas populations 
 
 The historical importance of *V. rupestris* derives almost entirely from its resistance to grape phylloxera, a root-feeding aphid native to North America.
 
-When phylloxera was accidentally introduced to Europe in the 1860s, it devastated *[[vitis-vinifera]]* vineyards by destroying root systems. European viticulturists eventually discovered that grafting *V. vinifera* scions onto North American rootstock provided protection.
-
-*V. rupestris* was one of the three primary species used for phylloxera-resistant rootstock, alongside *V. riparia* and *V. berlandieri* (the "three musketeers" of rootstock breeding).
-
-The famous "Rupestris St. George" rootstock, bred in the late 19th century, was a pure *V. rupestris* selection that provided excellent phylloxera resistance but poor lime tolerance.
-
-Modern rootstock breeding has largely moved away from pure *V. rupestris* rootstocks in favor of hybrids that combine the phylloxera resistance of *V. rupestris* with the lime tolerance of *V. berlandieri* and the vigor of *V. riparia*.
-
-*V. rupestris* contributes nematode resistance, [[dighton-fungal-drought-tolerance-plant-water-relations]], and disease resistance to many hybrid rootstock cultivars still planted worldwide.
+When phylloxera was accidentally introduced to Europe in the 1860s, it devastated *[[dighton-fungal-drought-tolerance-plant-water-relations]], and disease resistance to many hybrid rootstock cultivars still planted worldwide.
 
 The species also contributed genetics to numerous French-American hybrid grape cultivars developed by T.V. Munson and other early 20th-century breeders, including cultivars in the "Rupestris" and "Ammineu" series.
 
@@ -88,3 +44,88 @@ Munson's extensive work with Texas native grapes, including *V. rupestris*, was 
 ## Cultivation
 
 *V. rupestris* is rarely cultivated for [[query-how-do-i-prune-brambles-for-maximum-fruit-production]] due to its small, highly acidic berries and low sugar content. Its primary commercial use is as rootstock germplasm.
+
+## Overview
+
+Vitis Rupestris represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish vitis rupestris
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving vitis extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Vitis Rupestris finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for vitis rupestris. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+vitis rupestris and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Vitis Rupestris has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of vitis rupestris into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[vitis-aestivalis]]
+- [[vitis-labrusca]]
+- [[vitis-riparia]]
+- [[vitis-rotundifolia]]
+- [[vitis-vinifera]]

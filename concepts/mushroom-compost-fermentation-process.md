@@ -8,7 +8,7 @@ type: concept
 
 ## Overview
 
-The fermentation (or "composting") of stable manure is one of the most critical and technically demanding aspects of commercial [[mushroom-cultivation]]. The process transforms raw, fresh stable manure into a suitable growing medium for *[[agaricus-campestris]]* by subjecting it to controlled microbial decomposition. While the same end result may be obtained by a variety of methods, understanding the underlying principles is essential for intelligent compost management.
+The fermentation (or "composting") of stable manure is one of the most critical and technically demanding aspects of commercial [[agaricus-campestris]]* by subjecting it to controlled microbial decomposition. While the same end result may be obtained by a variety of methods, understanding the underlying principles is essential for intelligent compost management.
 
 ## Principles of Fermentation
 
@@ -88,3 +88,11 @@ Where fermentation is not possible and mushrooms are desired in very small quant
 Extensive experiments with alternative vegetable products—including decayed leaves, sawdust, and woods mould—demonstrated decisively that **none of these products approaches the value of stable manure** for mushroom growing. Even when equal quantities of manure were combined with sawdust or well-fermented deciduous leaves, mushroom size was reduced and yield was lessened. While sawdust and decaying leaves are undoubtedly improved by the addition of phosphates and nitrates, no combination of fertilizers has been able to bring these products to the point of being a worthy competitor of stable manure.
 
 It is possible that certain forest species of *Agaricus*, notably *A. silvicola* and *A. placomyces*, might be more amenable to successful culture on such alternative substrata. Substitutes would be of particular value to those in towns who wish to grow mushrooms for home consumption but cannot ferment manure without objectionable consequences.
+
+## See Also
+
+- [[telluride-mushroom-festival-modern-mycological-culture]]
+- [[shroom-cultural-history-mushroom-in-ancient-civilizations]]
+- [[bloomfield-mushroom-foraging-immigrant-poisonings-paddy-straw-confusion]]
+- [[mckenna-mushroom-teonanacatl-franciscan-theophagy-and-oaxaca-survival]]
+- [[mushroom-poisoning-guide]]

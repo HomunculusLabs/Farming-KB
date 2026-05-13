@@ -15,7 +15,7 @@ type: concept
 You don't need to understand the basics of electricity to grow indoors
 or in a greenhouse, but understanding the fundamentals will save you
 money, time, and possibly the shock of your life. This page covers
-essential electrical concepts for setting up a safe [[query-how-to-set-up-an-indoor-cannabis-grow-on-a-budget]] garden. See also [[cervantes-ballasts-hid-electrical]].
+essential electrical concepts for setting up a safe [[cervantes-ballasts-hid-electrical]].
 
 ## Safety First
 
@@ -52,21 +52,7 @@ Example: A halide lamp that draws about 9.2 amperes x 120 volts =
 
 ### Hertz
 Irregular fluctuations or cycles in electricity within a conductor. In
-the [[dmt-containing-plants-united-states-halpern]], electricity runs at 60 hertz (Hz), or cycles, per
-second.
-
-## Circuit Overload Chart
-
-| Rating (amps) | Available | Overload |
-|----------------|-----------|----------|
-| 15             | 13        | 14       |
-| 20             | 16        | 17       |
-| 25             | 20        | 21       |
-| 30             | 24        | 25       |
-| 40             | 32        | 33       |
-
-Connect only one 1000-watt HID to a 15, 20, or 25 ampere 120-volt
-([[growing-gourmet-north-american-reishi-species]]) circuit. Connect two 1000-watt HID's to a 15 ampere
+the [[growing-gourmet-north-american-reishi-species]]) circuit. Connect two 1000-watt HID's to a 15 ampere
 240-volt (European) circuit.
 
 ## Safety Components
@@ -117,8 +103,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[dmt]]
 - [[cervantes-reflective-materials-grow-room-walls]]
-- [[cervantes-grow-room-design-advanced]]
 - [[cervantes-grow-room-security-law-enforcement]]
 - [[cervantes-indoor-grow-room-setup]]

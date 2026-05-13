@@ -109,13 +109,8 @@ Plants in cultivation gradually lose the farina density on older leaves, which t
 
 ## See Also
 
-- [[echeveria-agavoides]]
 - [[echeveria-elegans]]
-- [[echeveria-pulidonis]]
 - [[pachyphytum-oviferum]]
-- [[haworthia-fasciata]]
 - [[dudleya-farinosa]]
-- [[aeonium-arboreum]]
 - [[kalanchoe-blossfeldiana]]
-- [[cotyledon-tomentosa]]
 - [[crassula-ovata]]

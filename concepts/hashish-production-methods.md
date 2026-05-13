@@ -61,37 +61,11 @@ the world.
 
 Ice water extraction, popularized as "bubble hash," uses cold water and
 mechanical agitation to separate trichomes from plant material. Cannabis
-material is mixed with ice and water, then agitated. The [[snow-mold-fungi-cold-temperature-plant-pathogens]]
-makes trichomes brittle so they break free, while plant fibers remain flexible
-and intact.
-
-The mixture is filtered through a series of nested bags with progressively
-smaller micron screens (typically 220, 160, 120, 73, and 25 microns). Each bag
-captures trichomes of different sizes, producing grades that range from
-cooking-quality material to full-melt connoisseur hash.
-
-## Pressed Hash
-
-Once trichome material is collected through any method, it can be pressed into
-blocks or slabs. Traditional pressing involves wrapping collected resin in
-cellophane or parchment paper and applying heat and pressure. This process
-fuses the trichome heads together, creating a cohesive, stable product that
-ages well and develops complex flavors over time.
-
-## Quality Assessment
-
-Hashish quality is traditionally assessed by several criteria:
-- **Appearance**: Color ranges from blonde (highest quality) to dark brown or
-  black (lower quality, more plant contamination)
-- **Texture**: Properly aged hash should be pliable at room temperature
-- **Melt quality**: Premium hash bubbles and melts completely when heated
-- **Aroma**: Complex [[cannabis-terpene-profiles-sativa]] indicate careful processing
+material is mixed with ice and water, then agitated. The [[cannabis-terpene-profiles-sativa]] indicate careful processing
 
 ## See Also
 
-- [[oner-cannabis-hashish-production]]
 - [[cannabis-alchemy-overview]]
-- [[rosin-pressing-technology]]
 - [[cannabis-trichome-types-and-development]]
 
 ## Practical Applications
@@ -123,8 +97,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[hashish]]
 - [[charas]]
-- [[phosphorylation-methods-psilocybin-production-comparison]]
 - [[cannabis-hashish-production]]
 - [[oner-cannabis-hashish-production]]

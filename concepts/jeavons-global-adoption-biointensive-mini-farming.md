@@ -122,8 +122,6 @@ a healthy planet and ecosystem.
 
 ## See Also
 
-- [[jeavons-sustainability-philosophy-gbiointensive]]
 - [[jeavons-calorie-farming]]
-- [[jeavons-garden-planning-mini-farm-design]]
 - [[jeavons-carbon-and-calorie-crop-integration]]
 - [[jeavons-master-planning-mini-farms]]

@@ -9,25 +9,7 @@ sources:
 ---
 # Cannabis and Brain Cancer (Glioma/Glioblastoma)
 
-**Source:** The [[blesching-cannabis-health-index-autoimmune-conditions]], Uwe Blesching, PhD (2017)
-**Updated:** 2026-04-19
-
-## Evidence-Based Therapeutic Potential
-
-- **Total Studies Reviewed:** 9
-- **CHI Value:** 26
-
-## Overview
-
-The location and size of cancerous brain tumors largely determine survivability and symptoms. As tumors grow, impairment increases, potentially affecting the whole body and mind. Signs range from mild confusion to epileptic seizures, odd behavior to stroke-like handicaps, plus headache, visual impairments, and nausea. Orthodox medicine does not know what causes brain cancer and cannot prevent or cure it. Five-year survival rates: glioblastomas 2%, astrocytomas 30%, meningiomas 70%.
-
-Glioblastoma multiforme (GBM) is the most aggressive primary brain tumor in adults. Current standard of care includes surgical resection followed by concurrent radiation and temozolomide chemotherapy, yet median survival remains only 14–16 months. The blood-brain barrier (BBB) presents a significant challenge for drug delivery, though cannabinoids have demonstrated the ability to cross this barrier, making them uniquely suited for brain cancer therapy.
-
-## Cannabis and Brain Cancer
-
-Research on cannabinoids and brain cancer has produced remarkably consistent results across multiple international teams:
-
-- **2001–2003:** International and Italian teams showed local injections of synthetic cannabinoid JWH-133 (CB2 agonist) reduced malignant brain tumor size in mice. CBD produced significant anti-brain tumor activity, selectively producing [[blesching-cannabis-oxidative-stress-and-antioxidant-defense]] in cancer cells to cause apoptosis while leaving normal cells unaffected.
+**Source:** The [[blesching-cannabis-oxidative-stress-and-antioxidant-defense]] in cancer cells to cause apoptosis while leaving normal cells unaffected.
 - **2004:** Spanish researchers found cannabinoids effectively inhibited the chemical signal needed for brain tumors to build their blood supply — an essential survival element. They proposed "a novel pharmacological target for cannabinoid-based therapies."
 - **2006:** Madrid scientists injected THC safely into nine human brain tumor patients that had failed standard treatments, without causing psychoactive effects.
 - **2008:** Israeli researchers discovered THC down-regulates proteins E2F1 and Cyclin A that promote cell cycle progression, arresting glioblastoma multiforme.
@@ -59,31 +41,15 @@ Cannabinoids attack brain cancer through multiple independent pathways, which is
 
 The 2006 Madrid clinical trial was groundbreaking as the first administration of THC directly into brain tumors of human patients. The intracranial THC administration was well-tolerated and did not produce significant psychoactive effects at the doses used. This study established safety and feasibility for subsequent clinical investigations.
 
-GW Pharmaceuticals has conducted Phase 2 [[mushroom-cancer-clinical-trials-overview]] using a THC:CBD oromucosal spray (Sativex) in combination with temozolomide for recurrent glioblastoma. While results have been mixed, the [[cannabis-safety-profile-and-overdose-risk]] has been favorable, supporting further investigation of cannabinoid-based adjunctive therapies.
+GW Pharmaceuticals has conducted Phase 2 [[cannabis-safety-profile-and-overdose-risk]] has been favorable, supporting further investigation of cannabinoid-based adjunctive therapies.
 
 ## Dosage and Administration Considerations
 
-For brain cancer patients considering cannabinoid therapy, several factors from [[cannabis-concentrates-and-extracts]] may provide standardized cannabinoid ratios for consistent dosing
-- The synergistic relationship between THC and CBD suggests that whole-plant preparations may be more effective than isolated cannabinoids
-- Patients should consult [[cannabis-drug-interactions-and-contraindications]] with antiepileptic medications commonly prescribed to brain cancer patients
+For brain cancer patients considering cannabinoid therapy, several factors from [[cannabis-drug-interactions-and-contraindications]] with antiepileptic medications commonly prescribed to brain cancer patients
 
 ## Strain-Specific Considerations
 
-Both THC and CBD independently inhibit brain cancer cell development and produce apoptosis. Greater effect is produced synergistically when THC and CBD are applied together. Both basic strains (sativa and indica) deliver the full range of plant cannabinoids. Patients may choose based on mental/emotional preference — indicas for relaxation, sativas for energy. Non-psychoactive raw juice from fresh [[query-what-causes-cannabis-leaves-to-curl-and-how-to-fix-it]] is an option for those avoiding psychoactivity.
-
-Strains with high levels of [[cannabis-terpene-profile]] of selected strains can enhance therapeutic effects through the [[cannabis-terpene-entourage-effect-profiles]], with pinene and limonene demonstrating potential synergistic activity.
-
-## Key Finding
-
-This is one of the highest CHI-value cancer conditions in the book (CHI=26), reflecting the volume and consistency of pre-clinical evidence supporting cannabinoids as anti-brain-cancer agents through multiple independent mechanisms.
-
-## Symptom Management
-
-Beyond potential direct anti-cancer effects, cannabis may help manage symptoms commonly experienced by brain cancer patients:
-
-- Headaches and intracranial pressure-related discomfort
-- Nausea and vomiting from chemotherapy and radiation
-- Seizures associated with brain tumors (see [[cannabis-for-cancer-patients]] approach encompasses these broader symptom-management benefits, which can significantly improve quality of life during conventional brain cancer treatment.
+Both THC and CBD independently inhibit brain cancer cell development and produce apoptosis. Greater effect is produced synergistically when THC and CBD are applied together. Both basic strains (sativa and indica) deliver the full range of plant cannabinoids. Patients may choose based on mental/emotional preference — indicas for relaxation, sativas for energy. Non-psychoactive raw juice from fresh [[cannabis-terpene-profile]] of selected strains can enhance therapeutic effects through the [[cannabis-for-cancer-patients]] approach encompasses these broader symptom-management benefits, which can significantly improve quality of life during conventional brain cancer treatment.
 
 ## Limitations and Future Directions
 
@@ -118,8 +84,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[uwe-blesching]]
 - [[pinene]]
-- [[dom]]
 - [[det]]
 - [[limonene]]

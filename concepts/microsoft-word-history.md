@@ -77,10 +77,7 @@ installed word processor globally.
 
 ## See Also
 
-- [[teonanacatl-history]]
-- mushroom-cultivation-patent-history
 - [[microsoft-word-document-format-history]]
-- [[microsoft-word]]
 - [[history-psychedelics-ancient]]
 
 - word processing

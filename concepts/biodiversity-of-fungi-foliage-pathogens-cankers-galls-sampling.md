@@ -1,6 +1,6 @@
 ---
 title: "Foliage Pathogens, Cankers, and Galls — Fungal Sampling"
-source: "[[biodiversity-of-fungi-biodiversity-patterns-ecosystems]] (Mueller, Bills, Foster)"
+source: "biodiversity-of-fungi-biodiversity-patterns-ecosystems (Mueller, Bills, Foster)"
 source_key: "unknown-biodiversity-of-fungi.md"
 topics: [mycology, fungal-biodiversity, plant-pathology, foliage-fungi, cankers, galls, sampling]
 aliases: [leaf pathogens, canker fungi, gall fungi, foliar parasites]
@@ -10,24 +10,7 @@ aliases: [leaf pathogens, canker fungi, gall fungi, foliar parasites]
 
 ## Overview
 
-Fungi associated with [[fungi-living-plant-substrata]] — including foliage, stems, fruits,
-flowers, and galls — represent a functionally distinct component of fungal
-biodiversity. These organisms include biotrophic parasites, facultative
-pathogens, and endophytes that colonize living tissue. Their detection requires
-different approaches than those used for saprobic fungi on dead substrata.
-
-## Foliage Parasites and Leaf-Spotting Fungi
-
-### Recognition and Symptoms
-
-Foliar pathogens are recognized macroscopically by water-soaked areas, distortion,
-and — most commonly — chlorotic and/or necrotic lesions on leaves. Some cause
-total necrosis or shriveling of the leaf. Identification requires examination of
-reproductive structures (acervuli, pycnidia, perithecia, or apothecia) under a
-compound microscope.
-
-If reproductive structures are not present or not mature, leaves can be incubated
-in a **[[moist-chamber-technique-fungal-fruiting]]** to induce sporulation. This is especially useful for
+Fungi associated with [[moist-chamber-technique-fungal-fruiting]]** to induce sporulation. This is especially useful for
 detecting fungi that have not yet produced fruiting bodies at the time of
 collection.
 
@@ -48,13 +31,7 @@ collection.
 
 - **Tropical grasses**: *Cercospora*, *Drechslera*, *Magnaporthe*
   (*Pyricularia* anamorph), *Rhynchosporium*, and *Sphaerulina*. *Pyricularia
-  grisea* (syn. *P. oryzae*; teleomorph *[[fungi-in-the-environment-rice-blast-magnaporthe-grisea]]*), the causal agent
-  of rice blast, is one of the world's most important grass pathogens.
-
-### Taphrina — Temperate Leaf Pathogens
-
-*Taphrina* species cause hypertrophic symptoms (galls, witches' brooms) and
-leaf spots, primarily in [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]]. Foliage damage is most visible in
+  grisea* (syn. *P. oryzae*; teleomorph *[[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]]. Foliage damage is most visible in
 spring; collections not made at this time may overlook infections. The genus
 appears almost exclusively in temperate zones, with over 100 species described
 primarily from Betulaceae, Fagaceae, Juglandaceae, and Rosaceae hosts.
@@ -122,26 +99,5 @@ Gall-inducing fungi include several distinct groups:
 - **Plasmodiophoromycetes**: 15 genera of obligate endoparasites causing
   gall-like underground symptoms. Characterized by multinucleate, unwalled
   protoplasts developing into sporangia or cystosori within host cells.
-  Identification requires [[fungal-microscopic-examination-mounting-media-techniques]] of infected cells. Genera
-  include *Plasmodiophora* (cabbage clubroot), *Spongospora* (powdery scab of
-  potato), *Sorosphaera*, *Woronina*, *Sorodiscus*, *Octomyxa*, *Tetramyxa*,
-  and *Membranosorus*.
-
-## Sampling Protocol for Living Plant Fungi
-
-1. Survey during appropriate seasons (spring for temperate foliage pathogens,
-   late winter for cankers)
-2. Collect symptomatic tissue with margin between healthy and diseased areas
-3. Incubate in moist chambers if fruiting structures are immature or absent
-4. For cankers: collect bark samples from the margin zone containing both
-   healthy and necrotic tissue
-5. For galls: preserve entire gall structure; section to reveal internal
-   fungal structures
-6. Prepare permanent slides for microscopic examination
-7. Attempt isolation on selective media when possible
-
-## See Also
-
-- [[biodiversity-of-fungi-endophytic-fungi]]
-- [[biodiversity-of-fungi-plant-health-pathogens-biocontrol]]
+  Identification requires [[biodiversity-of-fungi-endophytic-fungi]]
 - [[biodiversity-of-fungi-macrofungi-sampling-methods]]

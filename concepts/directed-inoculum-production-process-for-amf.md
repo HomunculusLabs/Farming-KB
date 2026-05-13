@@ -9,7 +9,7 @@ sources: []
 
 # Directed Inoculum Production Process for AMF
 
-The directed inoculum production process (DIPP) is a methodology for adapting [[comparison-soil-food-web-vs-arbuscular-mycorrhizal-fungi]] fungal (AMF) inoculum to specific environmental conditions. Developed by Feldmann and colleagues, DIPP exploits genotypic variation within AMF populations to select for strains with enhanced performance under target stress conditions such as pH, drought, salinity, or [[dighton-fungal-biosorption-heavy-metal-remediation]] contamination.
+The directed inoculum production process (DIPP) is a methodology for adapting [[dighton-fungal-biosorption-heavy-metal-remediation]] contamination.
 
 This approach represents a practical application of evolutionary principles to inoculum production, recognizing that AMF populations harbor sufficient genetic diversity to allow rapid adaptation to environmental challenges. By applying selective pressure over multiple propagation cycles, researchers can develop inoculum tailored for specific restoration or agricultural contexts. See [[arbuscular-mycorrhizal-fungal-diversity]] for background on the genetic variability that underpins this approach.
 
@@ -29,13 +29,7 @@ Single-spore descendants of AMF exhibit significant variation in mycorrhizal eff
 
 MEI = [(weight of inoculated plant - weight of uninoculated plant) / weight of inoculated plant] x 100
 
-This index quantifies the growth benefit conferred by [[arbuscular-mycorrhizal-colonization-patterns]]. Higher MEI values indicate more effective symbiotic partnerships. The index is influenced by both fungal genotype and host plant physiology, making it an integrative measure of symbiotic performance.
-
-## The Three-Phase DIPP Protocol
-
-### Phase 1: Analytical Phase -- Strain Development
-
-1. Start with single [[single-spore-isolation-and-monokaryon-culture]] from field-collected AMF (e.g., Glomus sp.)
+This index quantifies the growth benefit conferred by [[single-spore-isolation-and-monokaryon-culture]] from field-collected AMF (e.g., Glomus sp.)
 
 2. Inoculate test plants (Anagallis arvensis, Plantago lanceolata) with individual spores
 
@@ -85,12 +79,8 @@ This limitation has important practical implications for commercial inoculum pro
 
 - The physiological status of the host plant is a major factor determining mycorrhizal dependency
 
-DIPP-adapted inoculum has potential applications in [[arbuscular-mycorrhizal-fungi]]
+DIPP-adapted inoculum has potential applications in [[mycorrhiza-soil-bioremediation]]
 
-- [[mycorrhiza-soil-bioremediation]]
-
-- [[arbuscular-mycorrhizal-inoculum-production-best-practices]]
-- mycorrhizal-nitrogen-transfer-between-plants
 - [[arbuscular-mycorrhizal-fungal-diversity-patterns-distribution]]
 
 ## Practical Applications
@@ -122,8 +112,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[anagallis-arvensis]]
 - [[det]]
-- [[plantago-lanceolata]]
 - [[spore]]
 - [[mycorrhiza]]

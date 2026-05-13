@@ -11,34 +11,12 @@ type: concept
 The Holy Grail of Arthurian legend and European mythology may not be a purely
 symbolic or religious object. A strong case can be made that the Grail legend
 originates from a practical, functional artifact — a terra cotta vessel used to
-rehydrate and cultivate *Amanita muscaria* from dried specimens. Rather than a
+rehydrate and cultivate *[[amanita-muscaria]]* from dried specimens. Rather than a
 mystical chalice of divine provenance, the original "Grail" was likely an
 ordinary clay pot that served as a perpetual source of a potent sacramental
 beverage.
 
-Across [[mandrake-mandragora-officinarum-in-european-folklore]], there are countless descriptions of a "magic cup that
-produces a magic drink." These accounts are not confined to medieval romance;
-continental legends stretching back to antiquity and persisting into the modern
-era consistently describe enchanted pots, cauldrons, and cups that generate
-miraculous draughts. When stripped of their literary embellishment, these
-descriptions map remarkably well onto a simple biological process: dried
-mushroom material is placed in a porous clay vessel, hydrated with a nutrient
-liquid, and allowed to regrow mycelium between uses. The vessel itself becomes a
-living repository — a "magic cup" that truly does produce a "magic drink" on
-demand. The Grail, in this reading, is not a metaphor. It is a technology.
-
-## Creating the Grail Vessel
-
-To create a functional Grail, you need a suitable terra cotta pot or bowl. The
-ancient vessels used for this purpose — often called "beakers" in archaeological
-literature — came in a wide range of shapes, from tall, narrow vases to shallow,
-wide bowls. The shape does not appear to matter for the cultivation process
-itself. Practicality is the main consideration: a vessel you can see into and
-reach into with your hands is the most convenient choice for daily use.
-
-The vessel should have a minimum capacity of approximately 16 ounces (500
-milliliters) to be worthwhile. Smaller vessels do not provide enough surface
-area or volume for effective [[jarrold-mycelium-colonization-monitoring-visual-assessment]] and liquid production.
+Across [[jarrold-mycelium-colonization-monitoring-visual-assessment]] and liquid production.
 
 Suitable pots are readily available at pottery shops and garden supply stores.
 The critical requirement is that the vessel must be **unglazed terra cotta** —
@@ -46,14 +24,7 @@ the same material as a standard clay flowerpot. This cannot be overstated:
 porcelain, stoneware, or any glazed ceramic pot **cannot be used**. The glazing
 process and the higher firing temperatures used for these materials cause
 vitrification, which seals the microscopic pores in the clay. Without those
-pores, moisture and [[mushroom-cultivation-jar-lid-management-loose-fit-vacuum-gas-exchange]] cannot occur, and the mycelium cannot survive.
-
-If you wish to make your own Grail vessel from raw clay, fire it at the lowest
-possible temperature — approximately 700 to 800 degrees Celsius. This produces
-a fired but still-porous ceramic body. Higher temperatures cause progressive
-vitrification, closing off the pore structure essential for the vessel's
-function. The porous terra cotta allows moisture exchange that is essential for
-[[mushroom-mycelium-growth-monitoring-colonization-cues]].
+pores, moisture and [[mushroom-mycelium-growth-monitoring-colonization-cues]].
 
 ## Preparation Process
 

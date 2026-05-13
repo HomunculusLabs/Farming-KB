@@ -11,23 +11,11 @@ sources:
 # JHS Making Guide with 100 Herbs
 
 **Updated:** 2026-04-18
-**Source:** JADAM [[coleman-deep-organic-farming-philosophy]], pp.287-297 ([[youngsang-cho]], 2016)
+**Source:** JADAM [[youngsang-cho]], 2016)
 
 ## Overview
 
-JADAM [[jadam-herb-solution-jhs]] (JHS) is made by boiling herbs in water and extracting their pesticidal compounds. JADAM has documented a selection of approximately 100 herbs for pesticide use, compiled by Geol Yu of JADAM. The process yields a powerful, low-cost insecticide that also functions as a fertilizer. This guide covers the complete making process and the documented herb selections.
-
-## Core Making Process (Step-by-Step)
-
-### Equipment
-- 100 L (26.4 gal) heat-resistant container
-- Gas burner (or electric coiled water heater)
-- Fine mesh bag (60 x 70 cm / 24 x 28 in)
-- Heavy rocks or bricks
-- Heat-resistant bottles for storage
-
-### Ingredients
-- 3 kg (6.6 lb) of [[dried-herb-storage]] material
+JADAM [[dried-herb-storage]] material
 - 75 L (19.8 gal) of water
 
 ### Procedure
@@ -46,43 +34,11 @@ JADAM [[jadam-herb-solution-jhs]] (JHS) is made by boiling herbs in water and ex
 12. **Bottle immediately** -- Pour into heat-resistant bottles
 13. **Fill completely** -- Squeeze slightly until no air is left, seal with lid
 14. **Lay on side** -- Immediately lay bottles on their side so hot liquid disinfects the lid area
-15. **[[root-cellaring-guide]]** -- Place in cold storage for long-term keeping
-
-### Alternative: Electric Heater Method
-- Use heat-resistant 110 L (29 gal) container
-- Insert electric coiled water heater
-- Maintain temperature at ~120 C (248 F)
-- Use in a warm, protected place
-- Consumes significant electricity -- use earth leakage breaker
-- Attach a valve at the bottom for convenience
-
-## Selection of 100 Herbs for Pesticide
-
-Below are the documented herbs from JADAM's guide, organized by type:
-
-### Root-Based JHS (Strongest)
-
-| Herb | Plant Part | Collection Time | Notes |
-|---|---|---|---|
-| Korean pasque flower root | Roots | Autumn | Strongest general insecticide |
-| [[comparison-jerusalem-artichoke-vs-potato]] | Leaves and roots | Spring to autumn | Controls aphids, mites, moths |
+15. **[[comparison-jerusalem-artichoke-vs-potato]] | Leaves and roots | Spring to autumn | Controls aphids, mites, moths |
 | Monkshood | Leaves and roots | Autumn | Highly toxic -- use with care |
 | Sophora root | Roots | Autumn | Strong insecticide |
 | Red spider lily | Roots | Autumn to winter | Toxic bulb |
-| Garlic | Bulbs | Any time | Universal [[cervantes-companion-planting-pest-deterrent]] |
-| Foxglove | Leaves | Spring to autumn | Contains cardiac glycosides |
-| Bracken | Leaves | Spring to autumn | Widely available |
-
-### Leaf-Based JHS
-
-| Herb | Plant Part | Collection Time | Notes |
-|---|---|---|---|
-| Ginkgo | Leaves and fruit peels | Spring to autumn | Controls planthoppers, leafhoppers |
-| Tobacco | Leaves | Spring to autumn | Can also brew in water for 15 days |
-| Garden balsam | Leaves and roots | Spring to autumn | |
-| Oleander | Leaves | Spring to autumn | Can replace KPFR in recipe #9 |
-| Peppermint | Leaves | Spring to autumn | Strong scent repels insects |
-| [[knf-soap-water-and-hot-pepper]] | Fruits | Autumn | |
+| Garlic | Bulbs | Any time | Universal [[knf-soap-water-and-hot-pepper]] | Fruits | Autumn | |
 
 ### Fruit-Based JHS
 
@@ -118,8 +74,76 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[doc]]
 - [[det]]
-- [[jadam-herb-solution-jhs]]
 - [[ultra-low-jadam-herb-solution-jhs]]
 - [[jadam-cover-crop-green-manure-selection-guide]]
+
+## Overview
+
+Jadam Jhs Herb Selection Guide represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish jadam jhs herb selection guide
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving jadam extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Jadam Jhs Herb Selection Guide finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for jadam jhs herb selection guide. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+jadam jhs herb selection guide and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Jadam Jhs Herb Selection Guide has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of jadam jhs herb selection guide into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.

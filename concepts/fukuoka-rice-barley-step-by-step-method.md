@@ -13,29 +13,11 @@ sources:
 
 Updated: 2026-04-19
 
-Masanobu Fukuoka provides a detailed step-by-step description of his direct-seeding, no-tillage rice/barley succession method with [[comparison-green-manure-guide-vs-mulch-types-and-effects]] cover in *The Natural Way of Farming*.
-
-This is the core practical method of Fukuoka's [[comparison-natural-farming-vs-permaculture]] system, embodying all four (or five) principles simultaneously. It connects directly to [[fukuoka-rice-barley-dual-culture]], and [[fukuoka-seed-selection-methods]] and [[fukuoka-no-tillage-direct-seeding-history]] for the evolution of this technique.
-
-## Step 2: Harvesting Rice
-
-Cut the rice while trampling over the clover and young two- to three-leaf barley shoots. Rice may be harvested mechanically, but sickle and pedal-powered drum are sufficient for smaller fields.
-
-Fukuoka describes his own practice: "I harvest the rice while treading on the young shoots of [[direct-seeded-no-tillage-rice-winter-grain-succession]]. After leaving the rice to dry for three days, I thresh it then scatter the straw uncut over the entire field." The labor of one or two people is more than enough to grow crops on a quarter-acre.
+Masanobu Fukuoka provides a detailed step-by-step description of his direct-seeding, no-tillage rice/barley succession method with [[comparison-natural-farming-vs-permaculture]] system, embodying all four (or five) principles simultaneously. It connects directly to [[fukuoka-seed-selection-methods]] and [[direct-seeded-no-tillage-rice-winter-grain-succession]]. After leaving the rice to dry for three days, I thresh it then scatter the straw uncut over the entire field." The labor of one or two people is more than enough to grow crops on a quarter-acre.
 
 ## Step 3: Seeding
 
-Broadcast clover and barley seed over the standing heads of rice. The high soil moisture promotes germination and winter weeds have not yet appeared. For high yields, seed sparsely and evenly (22 lbs each of [[fukuoka-rice-and-barley-natural-farming]] initially). Use hardy, panicle-weight type varieties with erect leaves for maximum yield. For [[fukuoka-textdoc-overwintering-rice-seed-clay-pellet-method]], coat seeds in [[fukuoka-seed-ball-one-seed-technique]] for the detailed preparation method.
-
-## Step 4: Fertilization
-
-After rice harvest, spread 650-900 pounds of chicken manure per quarter-acre before or after returning rice straw. Add 200 pounds in late February as top dressing during barley heading. After barley harvest, spread 450-900 pounds of dried chicken manure. Fresh manure should not be used on rice seedlings.
-
-Fukuoka acknowledges this is a concession to practical necessity: from the standpoint of pure natural farming, the [[fukuoka-straw-mulch-philosophy]] and [[fukuoka-white-clover-ground-cover]] and [[fukuoka-four-principles-natural-farming]] and [[fukuoka-road-back-clover-barley-rice-method]]
-
-- [[fukuoka-green-manure-clover-revolution]]
-
-- [[fukuoka-soil-fertility-straw-mulch]]
+Broadcast clover and barley seed over the standing heads of rice. The high soil moisture promotes germination and winter weeds have not yet appeared. For high yields, seed sparsely and evenly (22 lbs each of [[fukuoka-textdoc-overwintering-rice-seed-clay-pellet-method]], coat seeds in [[fukuoka-straw-mulch-philosophy]] and [[fukuoka-four-principles-natural-farming]] and [[fukuoka-green-manure-clover-revolution]]
 
 - [[fukuoka-green-rice-leafhopper-virus]]
 ## Practical Applications
@@ -97,8 +79,6 @@ through generations to modern scientific approaches, the evolution continues
 to inform current best practices and research directions.
 
 ## See Also
-- [[masanobu-fukuoka]]
 - [[doc]]
-- [[det]]
 - [[permaculture]]
 - [[natural-farming]]

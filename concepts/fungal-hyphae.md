@@ -7,30 +7,14 @@ updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/unknown-mycelium-running.md]
 type: concept
 ---
-# Fungal Hyphae Hyphae (singular: hypha) are the thread-like, tubular filaments that constitute the fundamental structural units of [[mycelium]] and for sexual reproduction. Vegetative compatibility systems
- regulate anastomosis — hyphae from genetically distinct individuals may
-fuse transiently but then undergo programmed cell death at the fusion
-point (heterokaryon incompatibility), preventing the formation of
-genetically unstable heterokaryons.
-
-## Hyphal Growth and Environmental Sensing
-
-Hyphae are exquisitely sensitive to their environment. They detect and
-respond to:
-- **Nutrient gradients:** Growing toward [[hamilton-composting-and-organic-matter-management]] and away from
+# Fungal Hyphae Hyphae (singular: hypha) are the thread-like, tubular filaments that constitute the fundamental structural units of [[hamilton-composting-and-organic-matter-management]] and away from
   depleted zones.
-- **[[query-how-do-plants-use-chemical-signals-to-defend-against-insects]]:** Responding to host plant exudates, pheromones,
-  or defensive compounds.
-- **Physical barriers:** Navigating around obstacles and penetrating
-  substrates of varying hardness.
-- **pH and osmolarity:** Adjusting growth patterns to optimize
-  conditions for enzyme activity and [[plant-nutrient-uptake-mechanisms]].
+- **[[plant-nutrient-uptake-mechanisms]].
 - **Other microorganisms:** Engaging in antagonistic or synergistic
   interactions with bacteria and other fungi.
 
 ## See Also
 
-- [[mycorrhizal-networks]] — Symbiotic hyphal associations with plants
 - [[saprotrophic-nutrition]] — Decompositional feeding via hyphae
 ## Practical Applications
 
@@ -97,8 +81,6 @@ through generations to modern scientific approaches, the evolution continues
 to inform current best practices and research directions.
 
 ## See Also
-- [[doc]]
 - [[det]]
-- [[composting]]
 - [[mycelium]]
 - [[decomposition]]

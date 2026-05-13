@@ -20,8 +20,7 @@ sources:
 
 ## Overview
 
-Purple Kush is a pure indica [[hindu-kush]] — two landrace indica
-lines from the [[cannabis-hindu-kush-strain-description-clarke]] mountains — it won first place in the Indica
+Purple Kush is a pure indica [[cannabis-hindu-kush-strain-description-clarke]] mountains — it won first place in the Indica
 category at the 2010 High Times Cannabis Cup.
 
 ## Lineage
@@ -58,9 +57,7 @@ Sweet, fruity inhale with grape and wild berry notes.
 Smooth, earthy exhale with hash-like qualities.
 Slight skunky aftertterpene-profile-chemotaxonomyish.
 
-## [[myrcene]] (dominant):** 0.5–1.2% — sedative, earthy aroma.medicinal-mushroom-antioxidant-anti-inflammatorye:** (GDP):** Purple Kush × Big Bud; one of the most
-famous purple strains worldwide.
-- **[[granddaddy-purple]]:** Notable descendant with sweeter profile.
+## [[granddaddy-purple]]:** Notable descendant with sweeter profile.
 - **[[northern-lights]]:** Comparable pure indica with similar therapeutic
 applications.
 ## Practical Considerations

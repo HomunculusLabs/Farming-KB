@@ -19,17 +19,8 @@ to benefit from protected growing conditions throughout the year.
 ## Concept and Rationale
 
 The fundamental insight behind moveable greenhouses is that the
-greenhouse itself is a tool for [[comparison-season-extension-techniques-vs-cold-frame-gardening]], not a permanent
-building. Most crops need protected conditions during specific periods
-— [[coleman-overwintered-onions-and-early-spring-crops]] for starting transplants, winter for cold-hardy greens,
-and late fall for [[holzer-frost-protection-techniques]]. During the remaining months, those
-same structures sit over bare ground or exhausted soil.
-
-By moving the greenhouse periodically, Coleman achieves several
-objectives simultaneously. Summer crops such as tomatoes and peppers
-grow in open field conditions with full sun exposure. When cold
-weather approaches, the greenhouse slides over a second site planted
-to [[coleman-winter-greens-nutritional-quality-cold-sweetening]]. The original site, now exposed to rain and open air,
+greenhouse itself is a tool for [[coleman-overwintered-onions-and-early-spring-crops]] for starting transplants, winter for cold-hardy greens,
+and late fall for [[coleman-winter-greens-nutritional-quality-cold-sweetening]]. The original site, now exposed to rain and open air,
 can be amended and cover-cropped to rebuild soil health.
 
 ## Track and Rail Systems
@@ -73,8 +64,7 @@ precipitation.
 When a greenhouse is moved, the soil beneath it is exposed to rain,
 snow, and cover crops for months at a time. This exposure leaches
 accumulated salts, allows beneficial soil organisms to recolonize,
-and provides an opportunity for [[fukuoka-clover-cover-cropping-soil-ecology]] and compost
-incorporation. See [[coleman-high-tunnel-cold-frame-design]] for construction
+and provides an opportunity for [[coleman-high-tunnel-cold-frame-design]] for construction
 details applicable to moveable structures.
 
 ## Practical Considerations
@@ -118,8 +108,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[eliot-coleman]]
 - [[det]]
-- [[cover-crops]]
 - [[cover-crop]]
 - [[coleman-mobile-greenhouse-system]]

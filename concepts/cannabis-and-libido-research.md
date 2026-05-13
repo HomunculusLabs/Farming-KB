@@ -10,29 +10,7 @@ sources:
 
 # Cannabis and Libido Research
 
-**Source:** Uwe Blesching, The [[blesching-cannabis-health-index-autoimmune-conditions]] (2017)
-
-**Last Updated:** 2026-04-18
-
-**CHI Value: 2** (1 study reviewed)
-
-## Condition Overview
-
-Low libido (hypoactive sexual desire disorder) has both physical and psychosomatic causes. Physical: erectile dysfunction, hormone imbalances, adverse medication effects (especially antidepressants), drug abuse, chronic medical conditions. Psychosomatic: anxiety, guilt, shame, stress, sexual abuse, PTSD.
-
-## Cannabis Research Findings
-
-Neurochemistry of sexual arousal and cannabis share similarities: both dilate pupils, elevate heart rate, alter endocrine releases, affect brain signaling, induce euphoria, relax muscles, shift respiratory patterns.
-
-**Historical use:** Hindu Tantric scriptures dating back 1,000+ years document cannabis use to enhance sexual pleasure and enlightenment.
-
-**Dose-dependent effects:**
-
-- Properly dosed: heightened sensations, increased stamina, deeper orgasms, more profound intimacy
-- Anti-anxiety properties ease performance-related tension
-- Males report harder erections; females report increased lubrication and clitoral swelling
-- Too high a dose: deepens anxiety, reduces sensations
-- [[cannabis-subjective-therapeutic-window-dosing]] window; begin with low to medium doses
+**Source:** Uwe Blesching, The [[cannabis-subjective-therapeutic-window-dosing]] window; begin with low to medium doses
 
 ## Study Summary
 
@@ -48,9 +26,7 @@ Neurochemistry of sexual arousal and cannabis share similarities: both dilate pu
 
 ## Pharmacological Mechanisms
 
-The [[cannabis-for-mental-health]] research on cannabinoid modulation of mood and sensation.
-
-CBD's role in sexual function is primarily indirect: its anxiolytic effects reduce performance-related anxiety that is one of the most common causes of low libido. CBD also modulates serotonin signaling through 5-HT1A receptor activation, which may influence sexual motivation. The [[cannabis-delivery-methods-comparison]] for administration options.
+The [[cannabis-delivery-methods-comparison]] for administration options.
 
 ## Safety and Interactions
 
@@ -60,9 +36,7 @@ THC may interact with erectile dysfunction medications (sildenafil, tadalafil) b
 
 Hormonal effects are a consideration for long-term users. While acute cannabis use may temporarily increase testosterone, chronic heavy use has been associated with reduced testosterone levels and impaired fertility in males. These effects appear dose-dependent and may resolve with reduced use or abstinence.
 
-Cannabis should not be used as a substitute for addressing underlying relationship issues, psychological factors, or medical conditions causing low libido. A comprehensive approach to sexual dysfunction may include counseling, medical evaluation, and lifestyle modifications alongside any cannabinoid therapy. See [[cannabis-for-anxiety-disorders]]
-- [[cannabis-endocannabinoid-system]]
-- [[cannabis-for-libido-and-sexual-function]]
+Cannabis should not be used as a substitute for addressing underlying relationship issues, psychological factors, or medical conditions causing low libido. A comprehensive approach to sexual dysfunction may include counseling, medical evaluation, and lifestyle modifications alongside any cannabinoid therapy. See [[cannabis-endocannabinoid-system]]
 - [[cannabis-seed-selection-and-strain-types]]
 ## Practical Considerations
 
@@ -112,8 +86,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[doc]]
 - [[uwe-blesching]]
-- [[soma]]
 - [[serotonin]]
 - [[anandamide]]

@@ -21,7 +21,7 @@ tags:
 
 In his comparative analysis of psychoactive-assisted healing practices,
 Ralph Metzner identifies three features that reliably distinguish traditional
-shamanic [[metzner-variations-traditional-entheogenic-ceremonies-peyote-huichol-san-pedro-mazatec-amazonian-bwiti]] from the typical [[shamanic-vs-western-psychedelic-healing]]
+shamanic [[shamanic-vs-western-psychedelic-healing]]
 psychotherapy session: darkness or low light, the shaman's singing, and the
 near-total silence among participants. These are not incidental cultural
 decorations but functional components of a carefully refined technology of
@@ -42,9 +42,7 @@ entheogenic state to become the dominant perceptual field. In darkness, the
 mind's eye becomes the only eye, and the visions that arise become the
 primary experiential content.
 
-The [[maria-sabina-mazatec-mushroom-ceremony]] *velada* exemplifies this principle: participants sit
-or lie in a very dark room with only a small candle, extinguished during
-the deepest phases. [[harner-amazonian-ayahuasca-preparation-methods]] ceremonies similarly take place in
+The [[harner-amazonian-ayahuasca-preparation-methods]] ceremonies similarly take place in
 semidarkness. The exception is the peyote ceremony of the [[halpern-sacramental-peyote-and-native-american-church]]
 Church, conducted around a blazing fire in a tipi — but at night, with
 participants gazing into the flames for visionary content.

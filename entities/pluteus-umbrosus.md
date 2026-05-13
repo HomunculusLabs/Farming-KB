@@ -10,17 +10,7 @@ sources: [/Users/t3rpz/wiki/raw/papers/world-wide-distribution-of-magic-mushroom
 
 # Pluteus umbrosus
 
-**Pluteus umbrosus** is a species of neurotropic mushroom in the family Pluteaceae. It is one of 6 species of *Pluteus* documented as containing or suspected to contain psilocybin and related indole alkaloids in the [[oyster-mushroom-substrate-materials-worldwide-survey-comparison]] of [[challenges-neurotropic-fungi-chemical-analysis-taxonomic-identification]] by Guzmán, Allen & Gartz (1998), which cataloged 216 species across four major groups of [[cattle-dispersal-psychoactive-fungi-australia]]. The species is notable for its dark, shadowy cap coloration and its growth on dead hardwood, distinguishing it ecologically from many other psilocybin-containing genera.
-
-## Taxonomy
-
-The genus *Pluteus* was established by the Swedish mycologist Elias Magnus Fries and contains approximately 300 described species worldwide. It is the most commonly encountered genus in the family Pluteaceae, with most species being wood-inhabiting saprotrophs. The genus name is derived from the Latin "pluteus," meaning a shelf or board, possibly referring to the shelf-like growth habit of some species.
-
-Unlike most other psilocybin-containing genera (such as Psilocybe, Panaeolus, and Conocybe) that have dark purplish brown or blackish spore prints, Pluteus is immediately distinguished by its pink spore prints — a rare trait among psychoactive mushrooms. This pink spore color, shared with the genus Volvariella, is due to the amyloid or inamyloid nature of the spore walls and the particular pigments they contain. The genus is divided into several sections based on microscopic features of the cystidia and cap cuticle structure.
-
-*Pluteus* species with confirmed or suspected psychoactive properties documented in the Guzmán, Allen & Gartz survey include [[pluteus-glaucotinctus]], and [[pluteus-saliginus]] — the most commonly encountered psychoactive Pluteus species, found on willow and other hardwoods
-- [[pluteus-romellii]] — European species with documented psychoactive properties
-- [[pluteus-saliginus]]
+**Pluteus umbrosus** is a species of neurotropic mushroom in the family Pluteaceae. It is one of 6 species of *Pluteus* documented as containing or suspected to contain psilocybin and related indole alkaloids in the [[challenges-neurotropic-fungi-chemical-analysis-taxonomic-identification]] by Guzmán, Allen & Gartz (1998), which cataloged 216 species across four major groups of [[pluteus-glaucotinctus]], and [[pluteus-romellii]] — European species with documented psychoactive properties
 - [[pluteus-salicinus-profile]]
 
 - Pluteus — genus overview

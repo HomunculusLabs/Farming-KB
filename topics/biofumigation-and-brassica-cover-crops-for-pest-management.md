@@ -36,11 +36,7 @@ Biofumigation is most effective when used as part of an integrated pest manageme
 
 The biofumigation mechanism centers on a two-component chemical defense system that evolved in the Brassicaceae family:
 
-1. **Glucosinolates (GSLs)** — secondary metabolites stored in [[plant-cell-membrane-transport-proteins-channels-carriers-and-pumps]] vacuoles. Over 130 glucosinolate structures have been identified, classified by their amino acid precursor: aliphatic (from methionine), aromatic (from phenylalanine/tyrosine), and indole (from tryptophan). The biofumigant potential depends heavily on which glucosinolates are dominant.
-
-2. **Myrosinase** — an enzyme (thioglucoside glucohydrolase) stored separately in myrosin cells. Under normal conditions, glucosinolates and myrosinase never meet.
-
-When [[plant-tissue-systems-meristematic-ground-vascular-and-dermal]] is physically disrupted — by chopping, mowing, or crushing — the cell walls rupture, bringing glucosinolates into contact with myrosinase. This triggers hydrolysis, producing several breakdown products depending on pH and cofactors:
+1. **Glucosinolates (GSLs)** — secondary metabolites stored in [[plant-tissue-systems-meristematic-ground-vascular-and-dermal]] is physically disrupted — by chopping, mowing, or crushing — the cell walls rupture, bringing glucosinolates into contact with myrosinase. This triggers hydrolysis, producing several breakdown products depending on pH and cofactors:
 
 | Breakdown Product | Conditions | Pest Suppression Activity |
 |---|---|---|
@@ -56,28 +52,7 @@ When [[plant-tissue-systems-meristematic-ground-vascular-and-dermal]] is physica
 
 Isothiocyanates (R-N=C=S) are volatile, electrophilic compounds that react with thiol and amino groups in proteins. Their pesticidal action works through:
 
-- **[[enzyme-inhibition]]** — ITCs react with cysteine residues in microbial enzymes, disrupting metabolic pathways
-- **Membrane damage** — lipophilic ITCs disrupt cell membrane integrity
-- **DNA alkylation** — some ITCs can modify nucleic acids
-- **Nematode neurotoxicity** — ITCs interfere with nematode nervous system function
-
-Different ITCs vary in volatility, water solubility, and toxicity:
-
-- **Allyl-ITC (from sinigrin)** — highly volatile, broad-spectrum, one of the most potent
-- **Benzyl-ITC (from glucotropaeolin)** — strong fungicidal activity
-- **2-Phenylethyl-ITC (from gluconasturtiin)** — excellent nematicidal activity
-- **Methylsulfinylbutyl-ITC (from glucoraphanin)** — moderate, precursor to sulforaphane
-
-## Brassica Species for Biofumigation
-
-Not all brassicas are equal. Species and variety selection critically affects glucosinolate concentration and spectrum.
-
-### Top Performing Species
-
-| Species | Common Name | Key Glucosinolates | Primary Target | Biomass Potential |
-|---|---|---|---|---|
-| *Brassica juncea* | Brown/Indian mustard | Sinigrin (allyl-ITC) | Nematodes, fungi, weeds | Very high |
-| *[[raphanus-sativus]]* | Daikon/tillage radish | Glucoraphenin, glucoraphanin | Nematodes, compaction | High (deep taproot) |
+- **[[raphanus-sativus]]* | Daikon/tillage radish | Glucoraphenin, glucoraphanin | Nematodes, compaction | High (deep taproot) |
 | *Sinapis alba* | White mustard | Sinalbin (p-hydroxybenzyl-ITC) | Fungi, weeds | High |
 | *Brassica napus* | Rapeseed/canola | Gluconasturtiin, glucobrassicin | Nematodes, fungi | Very high |
 | *Eruca sativa* | Arugula/salad rocket | Glucosatavin, DMB | Nematodes, soil fungi | Moderate |
@@ -106,10 +81,7 @@ Mechanism: ITCs are directly toxic to nematodes at all life stages. Additionally
 
 | Pathogen | Crop Impact | Biofumigation Efficacy | Best Brassica |
 |---|---|---|---|
-| *[[fusarium-oxysporum]]* | Wilt in tomato, banana, legumes | Moderate-Good | *B. juncea*, *S. alba* |
 | *[[verticillium-dahliae]]* | Wilt in potato, strawberry, mint | Good-Excellent | *B. juncea* |
-| *[[rhizoctonia-solani]]* | Damping-off, root rot | Moderate | *B. napus*, *S. alba* |
-| *Pythium* spp. | Damping-off | Moderate | *B. juncea*, *E. sativa* |
 | *[[sclerotinia-sclerotiorum]]* | White mold, stem rot | Good | *B. juncea*, *B. napus* |
 | *Macrophomina phaseolina* | Charcoal rot | Moderate | *B. juncea* |
 

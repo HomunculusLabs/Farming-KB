@@ -37,8 +37,8 @@ Butterflies need two types of plants: host plants for caterpillars and nectar pl
 ### Key Host Plants (Larval Food)
 - Milkweed (Asclepias spp.) -- Monarch butterflies (essential)
 - Parsley, dill, fennel -- Black swallowtail
-- Spicebush ([[lindera-benzoin]]) -- Spicebush swallowtail
-- Pawpaw ([[asimina-triloba]]) -- Zebra swallowtail
+- Spicebush (Lindera benzoin) -- Spicebush swallowtail
+- Pawpaw (Asimina triloba) -- Zebra swallowtail
 - Pipevine (Aristolochia spp.) -- Pipevine swallowtail
 - Sunflower (Helianthus spp.) -- Painted lady
 - Asters and violets -- Pearl crescent and fritillaries
@@ -46,7 +46,7 @@ Butterflies need two types of plants: host plants for caterpillars and nectar pl
 ### Key Nectar Plants (Adult Food)
 - Coneflower (Echinacea purpurea)
 - Joe-Pye weed (Eutrochium purpureum)
-- Butterfly weed ([[asclepias-tuberosa]])
+- Butterfly weed (Asclepias tuberosa)
 - Black-eyed Susan (Rudbeckia hirta)
 - Lantana (Lantana camara)
 - Verbena bonariensis
@@ -59,7 +59,7 @@ Butterflies need two types of plants: host plants for caterpillars and nectar pl
 Hummingbirds are drawn to tubular, nectar-rich flowers in red, orange, and pink. They have no sense of smell, so fragrance is irrelevant.
 
 Top hummingbird plants:
-- Trumpet vine ([[campsis-radicans]])
+- Trumpet vine (Campsis radicans)
 - Cardinal flower (Lobelia cardinalis)
 - Bee balm (Monarda didyma)
 - Columbine (Aquilegia spp.)
@@ -105,7 +105,7 @@ A successful pollinator garden provides continuous blooms from early spring thro
 - Crocus, daffodil, snowdrop
 - Serviceberry (Amelanchier)
 - Pussy willow (Salix discolor)
-- Wild geranium ([[geranium-maculatum]])
+- Wild geranium (Geranium maculatum)
 - Hepatica, bloodroot, spring beauties
 
 ### Late Spring (May-June)
@@ -118,7 +118,7 @@ A successful pollinator garden provides continuous blooms from early spring thro
 ### Summer (July-August)
 - Joe-Pye weed, blazing star
 - Mexican sunflower, zinnia
-- Anise hyssop ([[agastache-foeniculum]])
+- Anise hyssop (Agastache foeniculum)
 - Purple coneflower, black-eyed Susan
 - Mountain mint (Pycnanthemum spp.)
 

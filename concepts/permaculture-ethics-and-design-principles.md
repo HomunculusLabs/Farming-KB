@@ -8,7 +8,7 @@ type: concept
 
 ## Overview
 
-The ethical foundation and design principles of permaculture form the philosophical backbone of the entire design system. [[bill-mollison]] articulated these as both moral imperatives and practical guidelines that shape every decision in a [[permaculture-design]]. They emerge from the observation of natural systems and the recognition that human survival depends on cooperation with, rather than domination over, natural processes.
+The ethical foundation and design principles of permaculture form the philosophical backbone of the entire design system. [[permaculture-design]]. They emerge from the observation of natural systems and the recognition that human survival depends on cooperation with, rather than domination over, natural processes.
 
 ## The Prime Directive of Permaculture
 
@@ -34,39 +34,7 @@ By governing our own needs, we can set resources aside to further the above prin
 
 > Cooperation, not competition, is the very basis of future survival and of existing life systems.
 
-This principle directly challenges the dominant economic paradigm of competition. In nature, symbiotic relationships — [[mycorrhizal-networks]], nitrogen fixation, pollination mutualisms — are far more common and stable than purely competitive ones. Permaculture design seeks to model and amplify cooperative relationships between all system components.
-
-## Rules of Use of Natural Resources
-
-These practical rules translate ethics into action:
-
-1. **Reduce waste, hence pollution** — every output should be an input for another component.
-2. **Thoroughly replace lost minerals** — nutrient cycling must be closed-loop.
-3. **Do a careful energy accounting** — track all energy inputs and outputs honestly.
-4. **Make a biosocial impact assessment** — evaluate long-term effects on society and act to buffer or eliminate negative impacts.
-
-## The Law of Return
-
-> Whatever we take, we must return.
-> Nature demands a return for every gift received, or the user must pay.
-
-This law underpins the concept of closed-loop systems. Every nutrient harvested, every resource extracted, must be replaced or the system will degrade. This applies equally to soil minerals, water, and biological diversity.
-
-### The Directive of Return
-
-> Every object must responsibly provide for its replacement. Society must, as a condition of use, replace an equal or greater resource than that used.
-
-This extends the Law of Return from individuals to societies, establishing a collective responsibility for resource replacement.
-
-## The Life Intervention Principle
-
-> In chaos lies unparalleled opportunity for imposing creative order.
-
-When natural or social systems are in disorder — after disturbance, disaster, or collapse — the permaculture designer finds the greatest scope for beneficial intervention. Disturbance creates niches, and niches invite design.
-
-## Birch's Six Principles of Natural Systems
-
-These six principles, articulated by Birch, provide a scientific foundation for [[permaculture-ethics]]:
+This principle directly challenges the dominant economic paradigm of competition. In nature, symbiotic relationships — [[permaculture-ethics]]:
 
 1. **Nothing in nature grows forever.** There is a constant cycle of decay and rebirth. Systems that attempt perpetual growth are unsustainable.
 
@@ -148,3 +116,11 @@ Neatness, tidiness, uniformity, and straightness signify an energy-maintained di
 - A policy of responsible authority: the role of beneficial authority is to return function and responsibility to life and to people. If successful, no further authority is needed.
 
 ## The Basic Law of Thermodynamics (Restated)
+
+## See Also
+
+- [[nut-tree-cultivation-for-permaculture-food-forests]]
+- [[stametsian-permaculture-model]]
+- [[permaculture-farm-design-principles]]
+- [[nitrogen-fixing-plants-in-permaculture]]
+- [[urban-permaculture-and-integrated-land-management]]

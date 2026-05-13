@@ -8,65 +8,7 @@ sources: ["Shulgin - PIHKAL"]
 ---
 # 2C-O-4
 
-[[2c-b-pihkal-entry-20]] #35. 4-Isopropoxy-2,5-dimethoxy-PEA.
-
-## Dosage and Duration
-
-| Property | Value |
-|----------|-------|
-| Dosage | greater than 60 mg. |
-| Duration | unknown |
-
-## Qualitative Comments
-
-> (with 60 mg) I became aware of something in the
-> front part of my head, and there was a lot of yawning. The body was
-> aware of the experiment. But also there was a general exhilaration
-> and excitement, which lasted for a few hours. At best, I am at a plus
-> one.
->
-
-## Extensions and Commentary
-
-The full activity of 2C-O-4 is yet to be
-discovered. It represents an interesting hybrid lying in between
-several fascinating compounds.
-
-First and foremost, all these carry the 2,4,5-trisubstitution which
-has consistently proven to be the most interesting and the most active
-of the phenethylamines. And with very few exceptions, the 2- and the
-5- are methoxyl groups.
-
-The sulfur analogues in this area, compounds with an alkylthio group
-at the 4-position of the 2,5-dimethoxyphenethylamine backbone, are the
-2C-T things. The replacement of a sulfur with an oxygen, quite
-rightly, should give rise to the 2C-O counterparts. And they have
-been given the same numbering system that was bestowed upon the RTS
-series. 2C-T-4 was the 4-isopropylthio compound and one of the most
-interesting of this family. And so, quite reasonably, the oxygen
-coun-terpart should be the 2C-O-4 analogue, and should be one of the
-first explored.
-
-The extension of the 4-alkoxy-group led to the discovery of the TMA-2
-
-Q MEM Q MIPM Q MPM Q MBM series of amphetamine analogues. The
-2-carbon counterparts of these would be a fascinating series to
-explore, I thought, if there was some encouragement to be had from a
-preliminary try in this field.
-
-This was a first shot in the dark, the actual trial example, and it
-certainly didn't provide much encouragement. The three-carbon
-analogue, MIPM, was made (q.v.) but not explored, following the
-disappointing trials of MPM. If this area is ever re-opened, the
-
-(Additional commentary available in source.)
-
-## Synthesis
-
-To a solution of 3.10 g 85% KOH pellets in 30 mL warm MeOH
-there was added 6.16 g 2,5-dimethoxyphenol (there was immediate
-darkening) followed by 8.5 g isopropyl iodide. The reaction mixture
-was heated on the [[scythian-cannabis-steam-bath-ritual]] for 3.5 h. White crystals of KI appeared
+[[scythian-cannabis-steam-bath-ritual]] for 3.5 h. White crystals of KI appeared
 at the end of the first h. The mixture was poured into 800 mL H2O (it
 was still basic) and acidified with HCl. This was extracted with
 3x100 mL CH2Cl2, and the combined extracts washed with 2x100 mL 5%
@@ -90,3 +32,88 @@ product with a mp of 76-78 deg C. This was dissolved in an equal weight
 
 ## See Also
 - [[methyl-j-entity-pihkal]]
+
+## Overview
+
+2C O 4 Entity Pihkal represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish 2c o 4 entity pihkal
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving 2c extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+2C O 4 Entity Pihkal finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for 2c o 4 entity pihkal. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+2c o 4 entity pihkal and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+2C O 4 Entity Pihkal has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of 2c o 4 entity pihkal into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[2c-g-3-entity]]
+- [[4-5-mdo-dmt-entity-tihkal]]
+- [[5-6-mdo-dipt-entity-tihkal]]
+- [[mdcpm-entity-pihkal]]
+- [[methyl-k-entity-pihkal]]

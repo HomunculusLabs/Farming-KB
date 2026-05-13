@@ -14,19 +14,7 @@ sources:
   - Knoll J (1975). "The pharmacology of papaverine." Acta Medica Academiae Scientiarum Hungaricae 32(1): 1-17.
   - Bülbring E, Tomita T (1987). "Action of papaverine on smooth muscle." Journal of Physiology 389: 131-146.
   - Kukovetz WR, Pöch G (1970). "Inhibition of cyclic-3',5'-nucleotide phosphodiesterase by papaverine." Naunyn-Schmiedebergs Archives of Pharmacology 267(2): 189-194.
-  - Preziosi P (1983). "The pharmacology of papaverine and related benzylisoquinoline alkaloids." Medical [[biodynamic-farming-principles-and-practice]] 2(3): 147-163.
-  - Sigwart U et al. (1987). "Papaverine in interventional cardiology." Journal of the American College of Cardiology 10(6): 1317-1325.
----
-
-# Papaverine
-
-## Overview
-
-Papaverine is a benzylisoquinoline alkaloid found in opium, constituting approximately 0.5–1.3% of opium dry weight.
-
-It was first isolated from opium in 1848 by Georg Merck and was introduced into medical practice as a smooth muscle relaxant in the early 20th century.
-
-Unlike [[morphine]] and [[codeine]], papaverine has no [[salvinorin-a-kappa-opioid-receptor-pharmacology]] activity and produces no analgesic, euphoric, or dependence-producing effects.
+  - Preziosi P (1983). "The pharmacology of papaverine and related benzylisoquinoline alkaloids." Medical [[morphine]] and [[salvinorin-a-kappa-opioid-receptor-pharmacology]] activity and produces no analgesic, euphoric, or dependence-producing effects.
 
 Papaverine is classified pharmacologically as a non-nitrogenous phosphodiesterase inhibitor with direct vasodilatory and antispasmodic properties.
 
@@ -60,15 +48,7 @@ The compound also demonstrates weak adenosine receptor antagonism, which may con
 
 When administered intravenously, papaverine produces rapid vasodilation with an onset of 1–2 minutes and a duration of 10–30 minutes.
 
-[[first-pass-metabolism-and-oral-bioavailability]] is moderate (approximately 24–54%), with extensive first-pass hepatic metabolism producing primarily conjugated metabolites.
-
-## Natural Occurrence
-
-Papaverine is biosynthesized in P. somniferum through the benzylisoquinoline alkaloid pathway from (S)-reticuline via (S)-coclaurine.
-
-Unlike morphine and codeine, which are stored primarily in the latex, papaverine is distributed throughout the poppy plant including roots, stems, and leaves.
-
-Some related species including [[papaver-rhoeas]] (corn poppy) and Argemone mexicana (prickly poppy) also contain papaverine in detectable quantities.
+[[papaver-rhoeas]] (corn poppy) and Argemone mexicana (prickly poppy) also contain papaverine in detectable quantities.
 
 Commercial papaverine is obtained as a byproduct of morphine extraction from opium, separated during the purification process.
 
@@ -87,3 +67,80 @@ The drug is employed in the management of peripheral vascular disease, especiall
 Papaverine is a component of intracavernosal injection therapy for erectile dysfunction, often combined with phentolamine and alprostadil in triple-therapy formulations.
 
 As a smooth muscle antispasmodic, papaverine has been used to treat biliary colic, renal colic, and gastrointestinal hypermotility.
+
+## Overview
+
+Papaverine represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish papaverine
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving papaverine extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Papaverine finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for papaverine. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+papaverine and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Papaverine has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of papaverine into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.

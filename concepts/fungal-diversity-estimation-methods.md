@@ -3,7 +3,7 @@ title: Fungal Diversity Estimation Methods
 created: 2026-04-16
 updated: 2026-04-16
 type: concept
-tags: [[mycology]], fungi]
+tags: mycology, fungi]
 sources: []
 ---
 
@@ -11,12 +11,7 @@ sources: []
 Estimating fungal species richness and diversity from field samples requires
 specialized quantitative methods. Because most fungal species cannot be directly
 counted and complete inventories are rarely achievable, researchers rely on
-statistical approaches to estimate [[fungal-species-estimation-methods-total-diversity]] from partial sampling.
-
-## The Challenge of Estimating Fungal Diversity
-
-Fungal diversity estimation presents unique difficulties:
-- Many fungi are known only from [[environmental-dna-fungal-discovery]] and cannot be cultured
+statistical approaches to estimate [[environmental-dna-fungal-discovery]] and cannot be cultured
 - Sporocarp production is seasonal and ephemeral, causing underestimation
 - Detectability varies enormously among species and habitats
 - Sampling effort is limited by time, cost, and taxonomic expertise
@@ -64,17 +59,7 @@ where E(S) is the expected species richness, n is the standardized sample size
 (usually the smallest available), N is the total number of individuals, and Ni
 is the number of individuals in species i.
 Polishook and colleagues (1996) used rarefaction to determine the expected
-number of fungal species from decaying leaves in a Puerto Rican [[stamets-mycorrhizal-decline-europe-acid-rain-forest-health]].
-
-## Diversity Indices
-
-### Shannon Index (H')
-
-The most widely used diversity index in community ecology. H' measures the
-average uncertainty in predicting the identity of a randomly chosen individual.
-Values typically range from 1.5 to 3.5 and rarely exceed 4.5. The Shannon
-index exhibits a normal distribution across replicate samples, facilitating
-parametric statistical comparisons. See [[fungal-species-richness-and-diversity-indices]]
+number of fungal species from decaying leaves in a Puerto Rican [[fungal-species-richness-and-diversity-indices]]
 for detailed methodology.
 
 ### Simpson's Index (D)
@@ -118,8 +103,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[dom]]
 - [[det]]
-- [[mycorrhiza]]
 - [[fungal-species-estimation-methods-total-diversity]]
 - [[biodiversity-of-fungi-pcr-molecular-methods-fungal-diversity]]

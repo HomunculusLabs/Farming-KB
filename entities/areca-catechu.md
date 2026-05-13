@@ -10,20 +10,15 @@ sources: [/Users/t3rpz/wiki/raw/papers/a-golden-guide-to-hallucinogenic-plants.m
 
 # Areca catechu
 
-**Areca catechu**, the **areca palm** or **betel nut palm**, is a species of palm native to the Philippines, Malaysia, India, and other tropical regions of South and [[psilocybe-southeast-asia-pacific]]. The seed of this palm, commonly called the **betel nut**, is one of the most widely used psychoactive substances in the world, chewed by an estimated 600 million people globally. It ranks as the fourth most commonly used psychoactive substance after caffeine, nicotine, and alcohol.
-
-## Taxonomy and Description
-
-*Areca catechu* is a medium-sized, slender, unbranched palm growing 15–20 meters tall with a trunk diameter of approximately 20–30 cm. The pinnate leaves are 1.5–2 meters long, with numerous narrow leaflets. The fruit is an ovoid drupe, 4–5 cm long, orange-yellow when ripe, containing a [[cervantes-selfing-single-seed-descent]] (the betel nut) that is hard, fibrous, and reddish-brown to dark brown.
+**Areca catechu**, the **areca palm** or **betel nut palm**, is a species of palm native to the Philippines, Malaysia, India, and other tropical regions of South and [[cervantes-selfing-single-seed-descent]] (the betel nut) that is hard, fibrous, and reddish-brown to dark brown.
 
 The palm is monoecious, producing both male and female flowers on the same inflorescence. It thrives in tropical lowland climates with high humidity and well-distributed rainfall, typically at elevations below 1,000 meters.
 
 ## Psychoactive Constituents
 
-The primary psychoactive alkaloid in the betel nut is **arecoline** (methyl 1,2,5,6-tetrahydro-1-methylnicotinate), a muscarinic acetylcholine receptor agonist. Arecoline constitutes approximately 0.1–0.5% of the fresh nut weight. Additional alkaloids include arecaidine, guvacine, and guvacoline, which are structurally related GABA reuptake inhibitors.
+The primary psychoactive alkaloid in the betel nut is **[[arecoline]]** (methyl 1,2,5,6-tetrahydro-1-methylnicotinate), a muscarinic acetylcholine receptor agonist. Arecoline constitutes approximately 0.1–0.5% of the fresh nut weight. Additional alkaloids include arecaidine, guvacine, and guvacoline, which are structurally related GABA reuptake inhibitors.
 
-The betel nut is almost never chewed alone. It is traditionally prepared as a **quid** wrapped in a leaf of *[[kava-kava-ethnobotany-chemistry]]
-- [[comparison-ethnobotany-vs-ethnomycology]]
+The betel nut is almost never chewed alone. It is traditionally prepared as a **quid** wrapped in a leaf of *[[comparison-ethnobotany-vs-ethnomycology]]
 
 - [[betel-nut-arecoline-ethnobotany]] — the primary psychoactive alkaloid
 - Nicotine — another widely used plant alkaloid stimulant

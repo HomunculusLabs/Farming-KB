@@ -1,5 +1,5 @@
 ---
-title: Permaculture Fruit Trees for Temperate Climates
+title: Permaculture Fruit Trees for [[fukuoka-natural-farming-temperate-climates]]
 created: 2026-04-26
 updated: 2026-04-24
 sources:
@@ -20,15 +20,7 @@ Also called Chinese persimmon or kakee. A deciduous, round-headed tree growing t
 
 The fruit is orange, slightly larger than a tomato, must be fully ripe before eating (unripe fruit is very astringent due to tannic acid). Eaten fresh, dried, or made into jams/jellies. Astringent and non-astringent cultivars available. Bears fruit at about 3 years (grafted). Dioecious (male and female plants needed), though female flowers produce seedless fruit if unpollinated.
 
-[[dighton-fungal-nutritional-composition-animal-diets]] per 100g: Water 78.6%, Energy 77 cal, Carbohydrate 19.7g, Protein 0.7g, Vitamin A 2710 IU, Ascorbic acid 11mg.
-
-Other species: **D. virginiana** (American persimmon) with smaller, usually yellow fruit; **D. lotus** (date plum) with 1-2 cm purple-black fruit; **D. dignya** (black sapote/chocolate pudding fruit), an evergreen Central American native with very sweet chocolate-brown flesh.
-
-## Olive (Olea europaea)
-
-Family: OLACEAE
-
-A hardy, evergreen tree growing to 25-30 m, widely distributed especially in Mediterranean regions. Needs full sun and a long, comparatively dry season with some winter chilling for good fruit production. Frost hardy to about -9.5C (fruit damaged below -2C). Prefers deep, rich, well-drained soil but tolerates poorer soils. Very [[permplant-carob-drought-tolerant-food-tree]]. Withstands strong winds -- useful for windbreak. Some salt resistance.
+[[permplant-carob-drought-tolerant-food-tree]]. Withstands strong winds -- useful for windbreak. Some salt resistance.
 
 Self-pollinating, bears fruit after about 5 years and can continue for more than 100 years.
 
@@ -40,7 +32,7 @@ Also called Japanese loquat or Japanese medlar. Originally from central China, a
 
 Fruit are oval (5-6 cm), yellow or orange, with sweetly perfumed softly acid flesh. Usually one large seed per fruit. Mature in spring and early summer. Best eaten fresh, also made into jams and wine. Easily digested, though not highly nutritious. Many fine cultivars available.
 
-Nutritional composition per 100g: Water 86.5%, Energy 48 cal, Carbohydrate 12.4g, Vitamin A 670 IU, Potassium 348mg. Cross-pollination is an advantage.
+[[dighton-fungal-nutritional-composition-animal-diets]] per 100g: Water 86.5%, Energy 48 cal, Carbohydrate 12.4g, Vitamin A 670 IU, Potassium 348mg. Cross-pollination is an advantage.
 
 ## Jujube (Ziziphus jujuba)
 
@@ -64,15 +56,13 @@ Named for its white fruit. Native to China where leaves were traditionally fed t
 Also called English or Persian mulberry (native to Persia). Small rounded tree seldom exceeding 12 m with broad rounded crown. Timber prized for turnery and carving.
 
 ### Red Mulberry (M. rubra)
-Native to eastern and central [[dmt-containing-plants-united-states-halpern]]. Ripe fruits eaten fresh or made into preserves, jellies, and pies. Dried fruit mixed with almond meal for confectionery. Young shoots and unfolded leaves eaten raw or boiled.
-
-## [[permaculture-pawpaw]] (Asimina triloba)
+Native to eastern and central [[permaculture-pawpaw]] ([[asimina-triloba]])
 
 Family: ANNONACEAE
 
-Called pawpaw in Australia but not a true pawpaw -- related to custard apples. Other names: custard banana, Michigan banana. Deciduous shrub or low tree native to [[psilocybin-north-america-pacific-northwest]], growing up to 12 m. Occurs naturally as thicket understorey in open woodland. Prefers well-drained, fertile soil rich in [[hamilton-composting-and-organic-matter-management]]. Tolerant of snow conditions and fairly saline water. Brittle branches, very prone to wind damage.
+Called pawpaw in Australia but not a true pawpaw -- related to custard apples. Other names: custard banana, Michigan banana. Deciduous shrub or low tree native to [[hamilton-composting-and-organic-matter-management]]. Tolerant of snow conditions and fairly saline water. Brittle branches, very prone to wind damage.
 
-The largest native fruit of North America (up to 300g), develops in autumn. When fully ripe the skin is dark brown or almost black. Soft creamy fruits have banana custard flavour, delicious raw. Also dried, used for preserves, pies, puddings, and desserts. Yellow fruiting varieties are superior to white.
+The largest native fruit [[huckleberries-and-wild-berries-of-north-america]] (up to 300g), develops in autumn. When fully ripe the skin is dark brown or almost black. Soft creamy fruits have banana custard flavour, delicious raw. Also dried, used for preserves, pies, puddings, and desserts. Yellow fruiting varieties are superior to white.
 
 Nutritionally: carbohydrate 16.8%, protein 5.2%, fat 0.9%, water 76.6%. The seeds contain a colourless alkaloid (asimine) acting on the brain.
 
@@ -87,3 +77,73 @@ Also called nettle tree. Small to medium tree native to southern Europe, North A
 Family: ERICACEAE
 
 Attractive, easily grown evergreen tree native to Mediterranean region, Asia Minor, and Ireland. Small, rounded, densely foliaged tree or large shrub to 7 m (rarely exceeding 5 m). Good shade tree, prefers moist soil. Frost tolerant, moderately drought, shade, and salt spray tolerant. Does not tolerate tropical climates or alkaline/waterlogged soils.
+
+## Overview
+
+[[permaculture-plants-fruit-trees-selection]] Trees Temperate represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish permaculture plants fruit trees temperate
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving permaculture extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Permaculture Plants Fruit Trees Temperate finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for permaculture plants fruit trees temperate. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+permaculture plants fruit trees temperate and its applications. Active investigation
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Permaculture Plants Fruit Trees Temperate has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of permaculture plants fruit trees temperate into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.

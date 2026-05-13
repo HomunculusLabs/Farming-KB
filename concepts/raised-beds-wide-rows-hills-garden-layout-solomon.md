@@ -8,15 +8,7 @@ tags: [garden-layout, raised-beds, wide-rows, hills, spacing, irrigation, double
 
 ## Overview
 
-[[steve-solomon]] presents three distinct planting layout systems in Gardening
-When It Counts, each suited to different crops, soil conditions, and water
-availability. Rather than prescribing a single "best" method, Solomon
-argues that the choice of layout depends on whether the garden is
-irrigated, how much rainfall it receives, and what types of vegetables
-are being grown. The three systems — raised beds, raised wide rows, and
-hills — can be mixed within a single garden to match each crop's needs.
-
-Solomon explicitly rejects the [[coleman-british-adoption-of-french-intensive-gardening]] orthodoxy of deeply
+[[coleman-british-adoption-of-french-intensive-gardening]] orthodoxy of deeply
 and doubly dug raised beds with vegetables planted in precise hexagonal
 interplanted patterns. He considers this approach unnecessarily laborious
 and argues that easier methods produce higher-quality food with far less
@@ -59,8 +51,7 @@ to a depth of 24 inches (60 cm). Solomon strongly disagrees. Digging 12
 inches (30 cm) deep is plenty; loosening the second foot produces little
 additional benefit in exchange for a heap of effort. Over time, the
 second foot becomes looser without extra effort as worms transport
-[[fukuoka-textdoc-composting-critique-futility-prepared-organic-matter]] downward and as plant nutrients leach into the subsoil.
-This [[green-cannabis-soil-flushing-nutrient-leaching]] chemically loosens clay through a process called
+[[green-cannabis-soil-flushing-nutrient-leaching]] chemically loosens clay through a process called
 "flocculation," gradually improving soil structure at depth naturally.
 
 ## Raised Wide Rows

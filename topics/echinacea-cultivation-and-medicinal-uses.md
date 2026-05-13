@@ -20,15 +20,7 @@ related_concepts:
 
 Echinacea, the purple coneflower, stands as one of the most commercially
 significant medicinal herbs in the Western pharmacopoeia. Native to the
-prairies, open woodlands, and limestone glades [[huckleberries-and-wild-berries-of-north-america]], this
-genus of ten species has been woven into human medicine for centuries.
-The plant's distinctive spiny central cone, from which it takes its
-name — *echinos* is Greek for hedgehog — produces a chemistry that
-modulates the human immune system in ways modern science is still
-unraveling. Today echinacea generates hundreds of millions of dollars
-annually in the global herbal supplement market.
-
-Three species dominate the medicinal trade: *[[echinacea-purpurea]]*, the
+prairies, open woodlands, and limestone glades [[echinacea-purpurea]]*, the
 tall, vigorous purple coneflower of eastern woodlands; *E. angustifolia*,
 the narrow-leaved species of the western Great Plains prized for its
 potent roots; and *E. pallida*, the pale-flowered species whose long,
@@ -46,17 +38,8 @@ Ponca among them — regarded echinacea as one of their most important
 medicinal plants long before European settlers arrived. The roots were
 chewed for toothache, applied as poultices for snakebite and burns, and
 brewed into decoctions for sore throats and internal infections. This
-knowledge passed to Eclectic physicians in the late [[mckenna-club-des-hachischins-and-nineteenth-century-literary-hashish]],
-who made echinacea one of the most prescribed medicines in America. The
-herb fell from favor with the antibiotic revolution of the 1940s, only
-to be revived by European phytotherapists in the 1970s, particularly in
-Germany where standardized preparations became mainstream.
-
-For the gardener, farmer, or permaculture designer, echinacea offers
-extraordinary versatility. It is drought-tolerant, attractive to
-pollinators, deer-resistant, and long-lived. The deep taproots of
-several species [[query-how-do-fungi-improve-soil-structure]] and mine minerals from subsoil
-layers. As a companion plant in [[food-forest-design-and-plant-selection-guide]] and [[permaculture-plant-guilds]],
+knowledge passed to Eclectic physicians in the late [[query-how-do-fungi-improve-soil-structure]] and mine minerals from subsoil
+layers. As a companion plant in [[permaculture-plant-guilds]],
 echinacea occupies the herbaceous layer with minimal maintenance once
 established. This article covers the full arc of echinacea knowledge:
 taxonomy, ethnobotany, phytochemistry, clinical evidence, cultivation,

@@ -8,7 +8,7 @@ topics: [permaculture, energy, water-storage, soil-humus, carbon-sequestration, 
 
 ## Permaculture Design Principle #2 — "Make Hay While the Sun Shines"
 
-[[david-holmgren]]'s second [[permaculture-principle-catch-and-store-energy]] addresses the fundamental challenge
+[[permaculture-principle-catch-and-store-energy]] addresses the fundamental challenge
 of terrestrial life: energy arrives in pulses (sunlight, rainfall, seasonal growth)
 but needs to be available continuously. Natural systems have evolved sophisticated
 mechanisms for catching and storing energy; permaculture design aims to understand
@@ -27,9 +27,7 @@ is essential to designing productive, resilient landscapes.
 Water is the primary energy carrier in terrestrial ecosystems. Natural landscapes
 have evolved as efficient rainwater storages at multiple scales:
 
-- **Vegetation** holds water in tissues, [[jarrold-warm-humid-air-delivery-chamber-cold-climate-mushroom]], and moisture trapped by forest
-  canopies and understoreys
-- **[[aact-forest-litter-fungi-mycorrhizal-ingham]] and mulch** act as an open sponge, absorbing and holding water
+- **Vegetation** holds water in tissues, [[aact-forest-litter-fungi-mycorrhizal-ingham]] and mulch** act as an open sponge, absorbing and holding water
 - **Soil chemistry and humus** provide stable moisture supply for plants
 - **Deep subsoils**, especially clay, provide very stable moisture storage
 - **Springs and soaks** release water slowly from subsoil storage
@@ -56,30 +54,7 @@ floodplains that slow and divert flow optimally for maintaining productivity.
 
 Mineral nutrients are largely invisible but control ecosystem productivity in subtle
 but important ways. Carbon, oxygen, hydrogen and nitrogen are abundant in the
-atmosphere. Calcium, magnesium, potassium, phosphorus, sulphur, and [[teaming-with-nutrients-micronutrients-and-trace-elements]]
-occur in varying amounts in rock types.
-
-Plants easily absorb nutrients in water-soluble forms, but solubility also causes
-leaching. Soil ecosystems have evolved to catch and store nutrients in non-soluble
-but available forms. Ecosystems develop mechanisms to mine bedrock and catch
-nutrients leaking from adjacent systems and atmospheric transfer in dust, smoke,
-pollen, and other lifeforms.
-
-Over geological time, all ecosystems lose mineral nutrients through gravity,
-leaching, fires, droughts, and floods. Unless a landscape can mine or catch more
-than it loses, productivity progressively declines. In Australia, exquisite
-biodiversity results from endless adaptations to low and unbalanced mineral nutrients.
-
-## Carbon Storage: The Central Challenge
-
-Carbon storage in living plants and soil humus is the foundation of terrestrial
-energy systems. Ecosystems with actively growing plants accumulate several tonnes
-of carbon per hectare per year. Trees are especially significant because they keep
-accumulating carbon as wood for hundreds or thousands of years.
-
-This long-lived carbon storage is one of the best measures of ecosystem capacity to
-resist seasonal variability and disturbance. Concern about the greenhouse effect
-has increased research into [[gadd-fungal-carbon-sequestration]], but Holmgren argues the debate
+atmosphere. Calcium, magnesium, potassium, phosphorus, sulphur, and [[gadd-fungal-carbon-sequestration]], but Holmgren argues the debate
 is back-to-front: it focuses on the problem (CO2 pollution) rather than carbon as
 a source of fuel for new life.
 
@@ -88,3 +63,88 @@ a source of fuel for new life.
 Holmgren identifies humus as perhaps nature's greatest invention because it
 increases soil capacity to store mineral nutrients, water, and carbon. Organic
 matter is fuel for soil micro-organisms, which are key to cycling and availability
+
+## Overview
+
+Permaculture Catch And Store Energy represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish permaculture catch and store energy
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving permaculture extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Permaculture Catch And Store Energy finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for permaculture catch and store energy. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+permaculture catch and store energy and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Permaculture Catch And Store Energy has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of permaculture catch and store energy into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[eucalyptus-permaculture]]
+- [[holzer-thailand-permaculture-project]]
+- [[mollison-permaculture-design-course-curriculum]]
+- [[permaculture-designers-manual-sacred-groves]]
+- [[permaculture-japanese-raisin-tree-hovenia-dulcis]]

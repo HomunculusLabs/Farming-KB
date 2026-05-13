@@ -19,7 +19,7 @@ created: 2026-04-28
 
 # Tetrahydrocannabiphorol (THCP)
 
-**Tetrahydrocannabiphorol** (THCP) is a phytocannabinoid identified in 2019 by a team of Italian researchers led by Cinzia Citti at the University of Modena and Reggio Emilia. It is notable for possessing a **pentyl side chain extended by two methylene units** to a heptyl chain (7 carbon atoms), making it the first naturally occurring **heptyl homolog** of Δ⁹-tetrahydrocannabinol (THC). This structural extension confers dramatically enhanced binding affinity at cannabinoid receptors — up to 33 times that of Δ⁹-THC at CB1.
+**Tetrahydrocannabiphorol** (THCP) is a phytocannabinoid identified in 2019 by a team of Italian researchers led by Cinzia Citti at the University of Modena and Reggio Emilia. It is notable for possessing a **pentyl side chain extended by two methylene units** to a heptyl chain (7 carbon atoms), making it the first naturally occurring **heptyl homolog** of Δ⁹-[[tetrahydrocannabinol]] (THC). This structural extension confers dramatically enhanced binding affinity at cannabinoid receptors — up to 33 times that of Δ⁹-THC at CB1.
 
 ## Discovery
 
@@ -44,7 +44,7 @@ Simultaneously, the same team identified **CBDP** (cannabidiphorol), the heptyl 
 | Double Bond | Δ⁹ (C-9/C-10) | Δ⁹ (C-9/C-10) |
 | Stereochemistry | trans | trans |
 
-The sole structural difference from Δ⁹-THC is the **alkyl side [[phenethylamine-chain-length-effects]]**: seven carbons (heptyl) instead of five (pentyl). This two-carbon extension on the resorcinyl ring profoundly affects [[tihkal-receptor-binding-serotonin]], as the alkyl chain occupies a critical lipophilic pocket in the CB1 receptor binding site.
+The sole structural difference from Δ⁹-THC is the **alkyl side [[tihkal-receptor-binding-serotonin]], as the alkyl chain occupies a critical lipophilic pocket in the CB1 receptor binding site.
 
 ## Pharmacology
 
@@ -78,10 +78,7 @@ A significant implication of THCP's discovery is its potential role in explainin
 
 As of 2026, comprehensive safety and toxicity data for THCP are lacking:
 
-- **Acute toxicity**: No published LD₅₀ data; the extreme potency suggests a narrow [[blesching-cannabis-therapeutic-window-dosing]]
-- **Chronic effects**: No long-term studies exist
-- **Pharmacokinetics**: Absorption, distribution, metabolism, and excretion profiles are unknown
-- **[[emcdda-psilocybin-non-addictive-profile-tolerance-dynamics]] es concerns about acute anxiety, dissociation, and psychosis ris [[query-what-is-the-cannabis-entourage-effect]] ption. However, the possibility of **synergistic effects** with other cannabinoids (entourage effect) remains an active area of investigation.
+- **Acute toxicity**: No published LD₅₀ data; the extreme potency suggests a narrow [[emcdda-psilocybin-non-addictive-profile-tolerance-dynamics]] es concerns about acute anxiety, dissociation, and psychosis ris [[query-what-is-the-cannabis-entourage-effect]] ption. However, the possibility of **synergistic effects** with other cannabinoids (entourage effect) remains an active area of investigation.
 
 ## Synthetic and Semi-Synthetic Production
 

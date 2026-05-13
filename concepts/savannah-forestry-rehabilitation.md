@@ -15,22 +15,9 @@ The typical pathway to savannah degradation follows a predictable pattern:
 1. **Overgrazing** removes ground cover and compacts soil
 2. **Fire or cut-and-burn forestry** eliminates tree regeneration
 3. **Tough grassland species** colonize and dominate, forming near-impenetrable barriers
-4. **Blady grass** (*[[imperata-cylindrica]]*) and other tropical forage grasses establish stubborn, persistent stands
-5. **Soil quality declines** — nutrient states drop, acidity increases, erosion accelerates
-
-Despite their toughness, these grasses actually provide good mulch material when cut or mowed, which becomes a key asset in the rehabilitation process. Tropical grasses scythed or mown 5–8 times annually make good mulch for trees and gardens.
-
-## Pioneer Legume Species for Rehabilitation
-
-Given rains of 60–150 cm, a set of rough pioneer legumes are available for rehabilitating exhausted sites, including mine spoils and road embankments. Direct seeding in scratch holes or chiselled strips will result in fast establishment. Providing enough seed can be obtained, multiple species will establish simultaneously. These species restore soil fertility through leaf-drop and root nodulation:
-
-### Key Pioneer Trees
-
-- **Acacia auriculiformis** — The most important pioneer for exhausted savannah and tropical soils. Defeats blady grass (*Imperata cylindrica*), restores fertility, provides firewood, acts as a nurse crop, reduces fire intensity, and produces good paper pulp. Coppices and self-seeds. Widely used as a shade and street tree in the tropics.
-- **Acacia mangium** — Similar characteristics to *A. auriculiformis* but straight-stemmed, making it better suited to forestry operations.
-- **[[sesbania-grandiflora]]** — Exceptionally fast-growing tropical pioneer reaching 10 m. Coppices readily, provides good forage, green manure in rice paddies, and firewood. Young leaves, pods, and flowers are edible (36% crude protein; seeds are 40% protein). Wide soil tolerance, extensively used for eroded hill sites. All food from this tree should be cooked. Frost and wind tender, lifespan about 20 years. Used as light shade crop and vine support.
+4. **Blady grass** (*[[sesbania-grandiflora]]** — Exceptionally fast-growing tropical pioneer reaching 10 m. Coppices readily, provides good forage, [[green-manure]] in rice paddies, and firewood. Young leaves, pods, and flowers are edible (36% crude protein; seeds are 40% protein). Wide soil tolerance, extensively used for eroded hill sites. All food from this tree should be cooked. Frost and wind tender, lifespan about 20 years. Used as light shade crop and vine support.
 - **Calliandra colothyrsus** — A stick wood coppicing species that defeats grasses, provides abundant firewood, and repairs exhausted soils.
-- **Dalbergia sissoo** — Salt and frost tolerant, fast growing, defeats grasses. Tolerates a wide range of soil types and can be quickset from large cuttings (India).
+- **[[dalbergia-sissoo]]** — Salt and frost tolerant, fast growing, defeats grasses. Tolerates a wide range of soil types and can be quickset from large cuttings (India).
 - **Enterolobium cyclocarpum** — Durable timber tree with large pods, defeats grasses (Central America).
 - **Mimosa scabrella** — Subtropical pioneer from Brazil, provides good humus and serves as a living fence.
 - **Samanea saman** (rain tree) — Very fast-growing large tree of the tropics and subtropics with sugary pods. Grass grows well below. Wood is valuable and durable.
@@ -96,7 +83,6 @@ On man-made and natural landslide or volcanic areas of the tropics, it is first 
 
 ## See Also
 
-- [[animal-tractor-systems]] — Using chickens and pigs to clear land before forestry establishment
 - [[tropical-pasture-grasses]] — Grass species suitable for integration with reforested savannah
 - [[tropical-forage-legumes]] — Legume species for soil building and livestock feed
 - Tropical Hedgerow And Windbreak — Hedgerow establishment techniques for tropical reclamation

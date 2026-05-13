@@ -20,7 +20,7 @@ Zealand. It was formally classified by Johnston and Buchanan in 1996 and is name
 Makarora region on the South Island where it was originally collected. The species is
 recognized by its conic to campanulate cap with a pronounced umbo, greenish blue bruising, and
 its growth on rotting wood of southern beech (Nothofagus). It remains one of the lesser-
-known [[psilocybian-fungi-law-australia-nz]] from the [[guzman-allen-gartz-africa-southern-hemisphere-underexplored-neurotropic-fungi]] and has been documented only from a
+known [[guzman-allen-gartz-africa-southern-hemisphere-underexplored-neurotropic-fungi]] and has been documented only from a
 limited number of collections, primarily from the South Island of New Zealand.
 
 ## Taxonomy
@@ -36,7 +36,7 @@ congeners.
 The holotype specimen was collected from rotting wood in the Makarora vicinity. The authors
 noted its distinctive microscopic characters, particularly the presence of pleurocystidia and
 the morphology of the cheilocystidia with their relatively long necks, as key diagnostic
-features separating it from superficially similar taxa such as [[psilocybe-caerulipes]] [[coprinus-atrementarius-entity-the-mushroom-cultivator]] cultivator. No
+features separating it from superficially similar taxa such as [[coprinus-atrementarius-entity-the-mushroom-cultivator]] cultivator. No
 varieties or subspecies have been described to date.
 
 ## Description
@@ -51,22 +51,7 @@ specimen dries. Coloration ranges from yellowish brown to orangish brown overall
 noticeably as the cap dries. The margin is lighter in color than the center of the cap and is
 distinctly striate when moist, reflecting the gill plates beneath. The flesh is whitish and
 bruises greenish blue where injured, which is a key field indicator of psilocybin and/or
-[[psilocin]] content in members of this genus.
-
-### Gills
-
-The gills are adnexed in their attachment to the stem, meaning they are attached only slightly
-and taper toward the stem without actually reaching it. They are pale grayish brown in color
-with concolorous (matching) edges that do not differ noticeably in pigmentation from the gill
-faces. The gills are moderately spaced and may show some variation in length, with shorter
-gills (lamellulae) interspersed among the full length gills.
-
-### Stem
-
-The stem ranges from 30 to 60 mm in length and 2 to 4 mm in thickness. It is equal in width
-throughout (not bulbous or tapering). The upper portion of the stem is white, transitioning to
-brownish coloration near the base. The base characteristically radiates white rhizomorphs into
-the surrounding substrate, anchoring the [[comparison-fruiting-body-vs-mycelium-extracts-medicinal-mushrooms]] to its woody substrate. The stem
+[[comparison-fruiting-body-vs-mycelium-extracts-medicinal-mushrooms]] to its woody substrate. The stem
 surface is finely fibrillose and silky in texture, a feature best observed with a hand lens or
 under magnification.
 
@@ -88,3 +73,78 @@ Pleurocystidia are similar to cheilocystidia in morphology. They are ventricose-
 mucronate, measuring 4 to 8 micrometers thick, with a simple neck 2.5 to 4 micrometers long.
 The presence of pleurocystidia on the gill faces is a significant diagnostic feature for this
 species. Cheilocystidia measure 18 to 26 by 6 to 9 micrometers, also ventricose-rostrate to
+
+## Overview
+
+Psilocybe Makarorae represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish psilocybe makarorae
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving psilocybe extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Psilocybe Makarorae finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for psilocybe makarorae. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+psilocybe makarorae and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Psilocybe Makarorae has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of psilocybe makarorae into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and

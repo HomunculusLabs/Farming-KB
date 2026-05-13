@@ -7,7 +7,7 @@ topics: [cultural-philosophy, dominator-culture, sugar, addiction, environmental
 
 # Sugar and the Dominator Culture: Nature Mute and Cultural Psychosis
 
-Terence McKenna argued that sugar was not merely an addictive substance
+[[terence-mckenna]] argued that sugar was not merely an addictive substance
 but a catalyst for a deeper cultural transformation — the entrenchment
 of what he called the "ego-dominator" style of social organization.
 Sugar's role, in McKenna's analysis, extended far beyond nutrition or
@@ -79,7 +79,7 @@ defined as a food rather than a drug, which allows its addictive
 properties to remain unexamined and its destructive consequences to be
 externalized.
 
-The synergy between sugar and caffeine is particularly significant.
+The synergy between sugar and [[caffeine]] is particularly significant.
 Caffeine is bitter, and the discovery that it could be made palatable
 with honey or sugar created a powerful positive feedback loop: sugar's
 tendency toward addiction was reinforced by its use to mask the
@@ -129,8 +129,6 @@ it reveals about the civilization that cannot live without it.
 
 ## Related Concepts
 
-- [[mckenna-sugar-addiction-slavery-dominator-culture]]
 - [[mckenna-food-gods-tea-coffee-drugs-gentility]]
-- [[mckenna-four-stages-abandoning-mystery]]
 - [[mckenna-exploitation-cycles-drug-diplomacy]]
 - [[mckenna-catal-huyuk-natufian-link]]

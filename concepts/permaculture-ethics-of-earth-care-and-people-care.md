@@ -8,22 +8,7 @@ type: concept
 
 ## Core Ethical Foundation
 
-[[permaculture-ethics]] emerge from enlightened self-interest applied at the broadest scale. The fundamental insight is that human survival is inseparable from the health of natural systems. When we lose plant and animal species through our actions, we lose survival opportunities — our fates are intertwined with all life. This recognition leads to the evolution of an earthcare ethic that begins with self-preservation but expands to encompass the survival of all natural systems.
-
-## The Three Ethics
-
-### Earth Care
-
-The earth care ethic begins with the observation that we depend on the health of all systems for our own survival. This widens the self-interested idea of human survival to include the idea of "the survival of natural systems." Every species lost represents lost potential — lost medicines, lost genetic resilience, lost ecological partnerships. The ethic of earth care demands:
-
-- Implacable and uncompromising opposition to further disturbance of any remaining natural forests, where most species are still in balance
-- Vigorous rehabilitation of degraded and damaged natural systems to stable states
-- Establishment of plant systems for our own use on the least amount of land we can use for our existence
-- Establishment of plant and animal refuges for rare or threatened species
-
-### People Care
-
-Observation of natural systems reveals that cooperative species and associations of self-supporting species make healthy communities. [[mycorrhizal-fungi]] on tree roots exemplify this mutual support — organisms that give and receive, creating networks of benefit that strengthen the whole. This lesson from nature leads to a resolve to cooperate and take support roles in society, fostering interdependence that values individual contributions rather than opposition or competition.
+[[mycorrhizal-fungi]] on tree roots exemplify this mutual support — organisms that give and receive, creating networks of benefit that strengthen the whole. This lesson from nature leads to a resolve to cooperate and take support roles in society, fostering interdependence that values individual contributions rather than opposition or competition.
 
 People care begins with family and friends — those whose well-being directly affects our own — but matures into recognizing all humankind as family and all life as allied associations. Species care becomes an extension of people care, grounded in the recognition that all life shares common origins.
 
@@ -33,7 +18,7 @@ Implicit in the first two ethics is the principle of return — whatever we take
 
 ## From Self-Interest to Universal Ethics
 
-The evolution of permaculture ethics follows a developmental arc:
+The evolution of [[permaculture-ethics]] follows a developmental arc:
 
 1. **Personal survival** — the basic drive to secure food, shelter, and safety
 2. **Family and community care** — recognition that helping those close to us serves our own survival
@@ -71,7 +56,7 @@ These responses work in parallel, not in opposition. One can simultaneously prot
 
 The permaculture ethic draws on multiple philosophical traditions. Philosopher-gardeners and farmer-poets are distinguished by their sense of wonder and real feeling for the environment. When religions generalize love and respect to all living systems as a witness to the potential of creation, they join scientists and poets in admiration of the complexity and self-sustaining properties of natural systems. Gardener, scientist, philosopher, poet, and religious adherent can all conspire in reverence for the earth.
 
-The [[gaia-hypothesis]], as formulated by [[james-lovelock]], supports this ethic: the biosphere actively creates conditions required for its own support and systematically builds up the stock of materials it needs, moving toward increasing complexity, diversity, and stability. Our acts are of great effect on this self-regulating system, and the earth's reaction is to restore equilibrium and balance.
+The [[james-lovelock]], supports this ethic: the biosphere actively creates conditions required for its own support and systematically builds up the stock of materials it needs, moving toward increasing complexity, diversity, and stability. Our acts are of great effect on this self-regulating system, and the earth's reaction is to restore equilibrium and balance.
 
 ## The Transition from Ethics to Action
 
@@ -101,7 +86,7 @@ Beyond the household, ethical action extends to community participation:
 - Forming or subscribing to conservation organizations whose legal charter supports habitat protection
 - Sharing surplus production with neighbors and community food banks
 - Participating in local governance to advocate for ecologically sound policies
-- Teaching and demonstrating permaculture principles to others
+- Teaching and demonstrating [[permaculture-principles]] to others
 
 ### Bioregional Responsibility
 

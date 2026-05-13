@@ -4,42 +4,11 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Shelterbelt Species Selection and [[query-how-do-i-design-a-windbreak-or-shelterbelt-for-my-property|Design]]
-
-The effectiveness of a windbreak or shelterbelt depends not only on its physical structure and placement but critically on the species chosen. Well-chosen and designed windbreak can occupy up to 30% of the total area of any site without reducing crop yields, and if windbreak species are chosen that aid the crop itself, there will be an increase in total yield, soil quality, and moisture available. This page covers species selection criteria, plant resistance categories, shelterbelt permeability, and the integration of shelterbelts with crop and livestock systems.
-
-## Species Selection Principles
-
-Shelterbelt species must be carefully selected to give **multiple uses**, to either assist the crop yield or add to the end-[[cover-crops]] yield (e.g., forage trees in pasture). This ensures the area occupied by shelterbelts adds to total crop yields rather than deducting from them.
+# Shelterbelt Species Selection and [[cover-crops]] yield (e.g., forage trees in pasture). This ensures the area occupied by shelterbelts adds to total crop yields rather than deducting from them.
 
 ### Yield-Positive vs. Yield-Negative Shelterbelts
 
-- **Yield-positive shelterbelts** use nitrogen-fixing and browse-edible species that actively contribute to the farming [[natural-farming-guide-zone-design-system|system]]
-- **Yield-negative shelterbelts** use high water-demand, non-leguminous, and inedible species that compete with crops
-
-However, where severe sea or desert winds greatly reduce all yields, species selection must prioritise **salt-resistant or sand-blast-resistant** plants regardless of their intrinsic yields. It is rare for sea-front trees to bear effectively — the outer 4–5 rows of coconuts on exposed islands yield little crop — so choice of frontline seacoast plants for seed or fruit yields is often irrelevant when considering species for multiple function in the most exposed positions.
-
-### Selection Criteria for Shelterbelt Species
-
-A comprehensive set of factors should guide shelterbelt species selection:
-
-- **Nitrogen fixation** or good mulch potential from leaves and trimmings
-- **Hosting of predatory insects or birds** that control crop pests
-- **Least moisture competition** with crop (roots can be ripped or trenched at the edge of crops if necessary)
-- **Excellent forage yields** or concentrated foods for livestock
-- **Natural barriers to livestock** (thorny plants or woven hedge)
-- **Mulch and soil-building capacity** from leaf fall and trimmings
-
-## Plant Resistance to Wind Damage
-
-Plants show different resistances to wind damage, falling into three broad categories:
-
-### Wind-Tolerant (Wind-Fast) Species
-
-These include many short or creeping plants at the boundary layer of still air near the ground, or the front-line plants of sea coasts. Examples include:
-
-- *Cerastium* (mouse-ear chickweed)
-- *[[araucaria-heterophylla]]* ([[norfolk-island-pine]])
+- **Yield-positive shelterbelts** use nitrogen-fixing and browse-edible species that actively contribute to the farming [[araucaria-heterophylla]]* ([[norfolk-island-pine]])
 
 Yields are little affected by strong winds. These species have evolved to thrive in the harshest wind-exposed positions.
 
@@ -111,7 +80,7 @@ In more constricted areas, a matrix of single-tree lines is usual and effective 
 
 ### Interplanting with Crops
 
-Trees like avocado and crops like papaya can be grown on sub-tropical frosty sites provided there is a high canopy of hardy palms or light-crowned legumes (e.g., *Butia* palm, *Jacaranda*, *Tipuana tipu*). Such sites do not frost because:
+Trees like avocado and crops like papaya can be grown on sub-tropical frosty sites provided there is a high canopy of hardy palms or light-crowned legumes (e.g., *Butia* palm, *Jacaranda*, *[[tipuana-tipu]]*). Such sites do not frost because:
 
 - There is no bare ground radiation at night (the canopy traps heat)
 - Advected frost is impeded by the canopy barrier

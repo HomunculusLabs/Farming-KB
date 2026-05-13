@@ -15,17 +15,11 @@ sources: []
 
 # Psilocybe viridescens
 
-**Psilocybe viridescens** is a rare, bluing [[psilocybe-azurescens]] or [[psilocybin]] and [[psilocybe-cyanescens]] — more robust, with a wavy cap margin; far more common
-- [[psilocybe-pelliculosa-entity]] — smaller, more slender, with a less pronounced greenish tint
-- [[psilocybin]] for more information on pharmacology and risk factors.
-
-## Seasonality
-
-*P. viridescens* fruits in the autumn months of the Pacific Northwest, typically from October through December. It is associated with the same seasonal weather patterns that trigger fruiting in [[psilocybe-cyanescens]] — cool temperatures, sustained rainfall, and shortening [[coleman-winter-day-length-and-persephone-months]]. The species may persist into January during mild, wet winters along the Oregon and Washington coasts. Its preference for [[comparison-ramial-wood-chip-mulch-vs-composted-wood-chips]] mulch and landscaped areas means it is sometimes found in suburban and urban settings, not only in natural forest habitats.
+**Psilocybe viridescens** is a rare, bluing [[psilocybin]] and [[psilocybe-pelliculosa-entity]] — smaller, more slender, with a less pronounced greenish tint
+- [[psilocybe-cyanescens]] — cool temperatures, sustained rainfall, and shortening [[comparison-ramial-wood-chip-mulch-vs-composted-wood-chips]] mulch and landscaped areas means it is sometimes found in suburban and urban settings, not only in natural forest habitats.
 
 ## See Also
 
-- [[psilocybe-cyanescens]]
 - [[psilocybe-pelliculosa-entity]]
 - psilocybin-mushrooms-of-the-world-genus-overview
 ## Practical Applications

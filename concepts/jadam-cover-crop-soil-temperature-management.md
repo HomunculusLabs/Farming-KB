@@ -10,17 +10,14 @@ sources:
 ---
 # JADAM Cover Crop and Soil Temperature Management
 
-Youngsang Cho identifies soil temperature management as the single most important factor for successful summer farming. The [[jadam-sese-philosophy]] of working with nature rather than against it. See also [[jadam-nature-as-teacher-philosophy]] for the philosophical foundation.
+Youngsang Cho identifies soil temperature management as the single most important factor for successful summer farming. The [[jadam-nature-as-teacher-philosophy]] for the philosophical foundation.
 
 ## Relationship to Other Systems
 
-Unlike [[fukuoka-white-clover-ground-cover]] which emphasize permanent [[comparison-living-mulch-vs-cover-crops]], JADAM uses a cut-and-return approach. The [[jadam-soil-surface-management-no-till]] Concepts
-
-- [[jadam-cover-crop-method]]
-- [[cover-crop-species-comparison]]
+Unlike [[comparison-living-mulch-vs-cover-crops]], JADAM uses a cut-and-return approach. The [[jadam-cover-crop-method]]
 - [[green-manure-cover-crops]]
 
-The cumulative effect of [[fukuoka-clover-cover-cropping-soil-ecology]] -- moderated temperatures, deeper soils, more [[hamilton-composting-and-organic-matter-management]], and reduced pest pressure -- creates a farming environment that becomes more productive and resilient with each passing season.
+The cumulative effect of [[hamilton-composting-and-organic-matter-management]], and reduced pest pressure -- creates a farming environment that becomes more productive and resilient with each passing season.
 
 Farmers who commit to this practice typically find that their dependency on external inputs decreases steadily, confirming the core JADAM principle that nature itself provides everything the soil needs when given the right conditions.
 ## Practical Applications
@@ -97,8 +94,6 @@ through generations to modern scientific approaches, the evolution continues
 to inform current best practices and research directions.
 
 ## See Also
-- [[cover-crop]]
 - [[doc]]
-- [[det]]
 - [[youngsang-cho]]
 - [[composting]]

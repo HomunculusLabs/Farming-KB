@@ -28,7 +28,7 @@ sources:
 
 ## Overview
 
-*Clitopilus prunulus*, commonly known as the miller mushroom or sweetbread mushroom, is a gilled basidiomycete fungus in the family Clitopilaceae. It is widely distributed across Europe and [[psilocybin-north-america-pacific-northwest]], fruiting on the ground in mixed woodlands, grassy clearings, and along forest edges from midsummer through autumn. The species is edible and highly regarded for its mild, pleasant flavor resembling fresh meal or [[fukuoka-textdoc-plowing-ruins-soil-compaction-bread-dough-analogy]], but it is notorious among foragers for its dangerous resemblance to several toxic *Clitocybe* species that contain lethal levels of muscarine.
+*Clitopilus prunulus*, commonly known as the miller mushroom or sweetbread mushroom, is a gilled basidiomycete fungus in the family Clitopilaceae. It is widely distributed across Europe and [[fukuoka-textdoc-plowing-ruins-soil-compaction-bread-dough-analogy]], but it is notorious among foragers for its dangerous resemblance to several toxic *Clitocybe* species that contain lethal levels of muscarine.
 
 ## Taxonomy
 
@@ -49,42 +49,92 @@ Basidiomycota → Agaricomycetes → Agaricales → **Clitopilaceae → *Clitopi
 
 ## Distribution and Habitat
 
-- **Geographic range:** Widespread across temperate Europe (especially common in Britain, France, Germany, and Scandinavia) and [[polypore-fungi-eastern-north-america]] America; also reported from parts of Asia and Australia
-- **Habitat:** Terrestrial, growing singly or in scattered groups on soil in deciduous and mixed woodlands, forest edges, old pastures, and grassy clearings; often associated with oak, beech, and hornbeam
-- **Season:** Late summer to late autumn (July–November in the Northern Hemisphere); fruiting triggered by cool, damp conditions
-- **Ecological role:** Saprotrophic, decomposing leaf litter [[hamilton-composting-and-organic-matter-management]] in soil; may have a weak ectomycorrhizal association with some hardwoods
+- **Geographic range:** Widespread across temperate Europe (especially common in Britain, France, Germany, and Scandinavia) and [[hamilton-composting-and-organic-matter-management]] in soil; may have a weak ectomycorrhizal association with some hardwoods
 
 ## Edibility and Culinary Use
 
-- *C. prunulus* is considered an excellent [[bloomfield-boletus-satanus-edible-mushroom-hazards]] with a mild, nutty, farinaceous flavor
-- Best collected when young and firm; older specimens become soft and may develop an off-flavor
-- Suitable for sautéing, drying, and adding to soups and cream sauces
-- The flour-like aroma persists through cooking and is considered a desirable quality
-- **No cases of poisoning from verified *C. prunulus* collections have been documented when proper identification was confirmed**
-- Some individuals may experience mild gastrointestinal upset, possibly from confusion with similar species
-
-## Dangerous Lookalikes
-
-The greatest risk in foraging *C. prunulus* is confusion with toxic *Clitocybe* species:
-
-- ***[[clitocybe-dealbata]]*** (ivory funnel) and ***C. rivulosa*** (fool's funnel): White to pale grey caps, decurrent gills that remain white (never turn pink), white spore print; contain muscarine at dangerous concentrations causing sweating, salivation, lacrimation, blurred vision, abdominal cramps, and in severe cases respiratory failure and death
-- ***[[clitocybe-nebularis]]*** (clouded agaric): Larger, stockier mushroom with a grey clouded cap and white gills; mildly toxic causing gastrointestinal distress
-- ***Entoloma* species:** Pink gills at maturity can resemble *C. prunulus*, but *Entoloma* spores are angular (not ridged) and many species are toxic
-
-**Critical identification rule:** Always verify the spore print color. *C. prunulus* produces a salmon-pink spore print; toxic *Clitocybe* species produce a white spore print. If the spore print is not confirmed white, discard the specimen.
-
-## Key Identification Checklist
-
-1. Cap pale grey to greyish-brown, smooth and dry
-2. Strong farinaceous (flour-like) odor — one of the most reliable field characters
-3. Gills decurrent, crowded, turning salmon-pink at maturity
-4. Spore print salmon-pink (not white)
-5. Spores elliptical with longitudinal ridges under microscopy
-6. Flesh white, firm, mealy-smelling
-7. No ring, no volva, no [[partial-veil-tropism-protection-before-spore-release]] remnants
+- *C. prunulus* is considered an excellent [[clitocybe-dealbata]]*** (ivory funnel) and ***C. rivulosa*** (fool's funnel): White to pale grey caps, decurrent gills that remain white (never turn pink), white spore print; contain muscarine at dangerous concentrations causing sweating, salivation, lacrimation, blurred vision, abdominal cramps, and in severe cases respiratory failure and death
+- ***[[partial-veil-tropism-protection-before-spore-release]] remnants
 8. Found on soil in woodlands or grassy areas, not on wood
 9. Flesh does not change color significantly when cut or bruised (distinguishes it from some toxic species that discolor)
 
 ## Cultivation
 
 - *C. prunulus* is not commercially cultivated due to its slow growth and the difficulty of reliably simulating its natural woodland conditions
+
+## Overview
+
+Clitopilus Prunulus represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish clitopilus prunulus
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving clitopilus extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Clitopilus Prunulus finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for clitopilus prunulus. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+clitopilus prunulus and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Clitopilus Prunulus has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of clitopilus prunulus into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.

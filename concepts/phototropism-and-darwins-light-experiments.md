@@ -13,12 +13,7 @@ type: concept
 
 ## Overview
 
-[[phototropism]] is the directional growth response of a plant toward (positive
-phototropism) or away from (negative phototropism) a light source. The
-phenomenon was first systematically investigated by Charles Darwin and his
-son Francis in the late 19th century, whose elegant experiments revealed
-that plants possess a rudimentary form of sight. Their work, published in
-*The [[darwin-power-of-movement-in-plants]] in Plants* (1880), established foundational
+[[darwin-power-of-movement-in-plants]] in Plants* (1880), established foundational
 principles that continue to guide plant [[plant-sensory-biology]].
 
 ## Darwin's Seminal Experiments
@@ -76,8 +71,7 @@ light** is the primary colour inducing phototropism, while other colours
 have little effect. This was later confirmed and refined:
 
 - **Blue light** (~450 nm): Primary trigger for phototropic bending
-- **[[far-red-light-phytochrome-switch-mechanism]]**: Does not induce phototropism (but serves other functions
-  via [[phytochrome]])
+- **[[phytochrome]])
 - **Green light**: Generally ineffective for phototropic response
 
 This colour specificity implied a dedicated blue-light photoreceptor,

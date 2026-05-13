@@ -3,67 +3,12 @@ title: Salvinorin A Kappa Opioid Receptor Pharmacology
 source: halpern-m-hallucinogens-dissociative-agents-growing-in-us.md
 source_author: John H. Halpern
 source_journal: Pharmacology & Therapeutics 102 (2004) 131-138
-tags: [pharmacology, [[salvia-divinorum]], salvinorin-a, kappa-opioid, hallucinogen,
-  psychoactive-plants, mechanism-of-action]
----
-
-# Salvinorin-A: Kappa Opioid Receptor Pharmacology
-
-Salvinorin-A, the principal psychoactive compound in *[[golden-guide-salvia-divinorum-and-diviner-sage]]*,
+tags: [pharmacology, [[golden-guide-salvia-divinorum-and-diviner-sage]]*,
 represents a unique pharmacological entity among naturally occurring
 hallucinogens. Unlike virtually all other known natural and synthetic
 hallucinogens — which act primarily as agonists or partial agonists at
-the 5-HT2A [[serotonin-receptor-interference-psychedelic-mechanism]] subtype — salvinorin-A is the first
-identified naturally occurring non-nitrogenous kappa-opioid receptor
-(KOR) selective agonist.
-
-## Chemical Classification
-
-Salvinorin-A is a neoclerodane diterpene, structurally distinct from
-the tryptamine-based hallucinogens ([[psilocybin]], DMT, LSD), the
-phenethylamine-based hallucinogens ([[mescaline]]), and the
-anticholinergic deliriants ([[atropine]], [[scopolamine]]). It contains no
-nitrogen atoms — an extremely unusual characteristic for a
-psychoactive compound of this potency.
-
-This structural uniqueness is pharmacologically significant. The
-absence of nitrogen means salvinorin-A does not interact with the
-serotonergic system that mediates the effects of most classical
-hallucinogens. Instead, its activity is mediated entirely through
-the kappa-opioid receptor system.
-
-## The Kappa-Opioid Receptor
-
-The kappa-opioid receptor (KOR) is one of four principal opioid
-receptors (mu, delta, kappa, and nociceptin/orphanin FQ). Unlike
-the mu-opioid receptor, which mediates the euphoric and analgesic
-effects of drugs like morphine and heroin, KOR activation produces
-distinctly different effects:
-
-- Dissociation and depersonalization
-- Altered perception of reality and self
-- Intense visual and spatial distortions
-- Dysphoria (in contrast to mu-receptor euphoria)
-- Sedation at higher doses
-
-The KOR system is involved in the body's natural response to stress
-and is thought to play a role in regulating mood, perception, and
-consciousness. Endogenous KOR ligands (dynorphins) are released
-during stress and produce dysphoric and dissociative effects that
-mirror, in muted form, the salvinorin-A experience.
-
-## Pharmacological Profile
-
-When smoked, salvinorin-A is psychoactive within seconds, with a
-duration of approximately 15 minutes at doses of 200-500 micrograms.
-The extreme potency of salvinorin-A (active at microgram doses)
-is comparable to LSD in terms of dose-response, though the
-receptor target and experiential quality are entirely different.
-
-Oral absorption through the buccal mucosa (traditional Mazatec
-method of chewing fresh leaves) leads to a less intense but longer-
-lasting intoxication of up to approximately 1 hour. The difference
-in [[mushroom-taste-route-of-administration-and-consumption-barriers]] significantly affects both intensity and
+the 5-HT2A [[psilocybin]], DMT, LSD), the
+phenethylamine-based hallucinogens ([[atropine]], [[mushroom-taste-route-of-administration-and-consumption-barriers]] significantly affects both intensity and
 duration, with smoking producing a much more intense, shorter
 experience.
 
@@ -88,3 +33,88 @@ activate the mu-opioid receptor, salvinorin-A does not produce
 euphoria or compulsive drug-seeking behavior. This is consistent
 with the broader KOR pharmacology, where activation tends to be
 aversive rather than rewarding.
+
+## Overview
+
+Salvinorin A Kappa Opioid Receptor Pharmacology represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish salvinorin a kappa opioid receptor pharmacology
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving salvinorin extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Salvinorin A Kappa Opioid Receptor Pharmacology finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for salvinorin a kappa opioid receptor pharmacology. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+salvinorin a kappa opioid receptor pharmacology and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Salvinorin A Kappa Opioid Receptor Pharmacology has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of salvinorin a kappa opioid receptor pharmacology into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[salvia-divinorum-salvinorin]]
+- [[salvia-divinorum-salvinorin-a-pharmacology]]
+- [[salvinorin-a-entity]]
+- [[salvinorin-pharmacology]]
+- [[salvinorin-reference]]

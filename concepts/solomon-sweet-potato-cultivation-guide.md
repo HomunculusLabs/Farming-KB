@@ -4,18 +4,7 @@
 
 ## Core Concept
 
-Sweet potatoes ([[ipomoea-batatas]]) are a warm-climate root crop that requires
-90-150 days of frost-free growing, well-drained soil, and careful harvesting
-and curing for good storage. They are among the most productive calorie crops
-per square foot for home gardeners in suitable climates. Unlike Irish potatoes,
-sweet potatoes are grown from vegetative shoots (slips) rather than seed tubers.
-
-## Growing Conditions
-
-### Climate Requirements
-Sweet potatoes require a minimum of 90 days frost-free (Georgia Jet needs
-only 90 days; most varieties need 100-130). Night temperatures should not
-fall below 60°F (15°C) during [[query-how-to-protect-plants-from-frost-and-extend-the-growing-season]]. Soil temperature below
+Sweet potatoes ([[query-how-to-protect-plants-from-frost-and-extend-the-growing-season]]. Soil temperature below
 50°F (10°C) damages roots in the ground. They are typically grown as a
 spring crop where summers are long, hot, and humid, and dug before cool
 weather arrives.
@@ -67,20 +56,7 @@ tissue-culture clones.
 ### Moisture Management
 The light soils that sweet potatoes prefer dry out rapidly, so keep soil
 moist (but never waterlogged) as plants establish. Encourages better root
-development. Once vines cover the ground, they [[query-how-do-cover-crops-suppress-weeds]] and reduce
-evaporation. Hilling soil around the stem gradually as vines grow reduces
-insect problems and improves drainage.
-
-### Weed Management
-Keep the area well-weeded before vines run. Under good conditions, vines
-will entirely cover spaces between rows within two months. After that,
-minimal weeding is needed — step carefully between rows to avoid damaging
-vines. Hand-pull weeds that escape vine coverage.
-
-## Pests and Diseases
-
-### Crop Rotation
-The most effective pest [[query-how-to-make-and-use-plant-based-foliar-sprays-for-pest-and-disease-prevention]] is crop rotation. Do not
+development. Once vines cover the ground, they [[query-how-to-make-and-use-plant-based-foliar-sprays-for-pest-and-disease-prevention]] is crop rotation. Do not
 repeat sweet potatoes on the same beds for at least three to four years.
 During the break, do not allow pernicious relatives like bindweed or morning
 glory to grow. Clean up all vines and dig out all accessible root material
@@ -88,11 +64,7 @@ after harvest; hot-compost or burn the debris.
 
 ### Companion Planting Note
 Legumes following sweet potatoes may not grow well due to residual allelopathic
-effects. Follow sweet potatoes with a [[biofumigation-and-brassica-cover-crops-for-pest-management]] crop instead.
-
-### Quarantine Restrictions
-Several US states with major sweet potato production (Louisiana, Alabama,
-Georgia, [[north-carolina-mycodiversity]]) have restrictions on movement of planting stock.
+effects. Follow sweet potatoes with a [[north-carolina-mycodiversity]]) have restrictions on movement of planting stock.
 Check with your local agricultural extension office before transporting
 sweet potato material.
 
@@ -142,7 +114,5 @@ making them an important food security crop.
 
 ## See Also
 
-- [[sweet-potato-guide]]
 - [[potato-growing-guide]]
-- [[crop-rotation-principles]]
 - [[root-crop-harvest-and-storage]]

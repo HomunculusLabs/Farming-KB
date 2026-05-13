@@ -9,56 +9,7 @@ sources:
 ---
 # BOH
 
-**[[2c-b-pihkal-entry-20]] #15** -- beta-Methoxy-3,4-methylenedioxyphenethylamine
-
-## Chemical Name
-
-beta-Methoxy-3,4-methylenedioxyphenethylamine
-
-## Dosage and Duration
-
-- **Dosage:** 80 - 120 mg
-
-- **Duration:** 6 - 8 h
-
-## Qualitative Effects
-
-BOH produces a mild mood enhancement with primarily physical effects at low doses (20-40 mg). At higher doses (80-120 mg), users report:
-
-- Distinct body awareness and warmth
-
-- Skin prickling, cold feet
-
-- A "real plus two" experience with dilated pupils and thirst, but no visuals
-
-- Good humor without particular insightfulness
-
-- The compound has been described as a "strange mix of some sort of altered state along with bodily discomfort" at psychedelic-seeking doses
-
-At 90 mg, one subject noted threshold effects that were mostly physical: inside warmth, skin prickling, loose bowels, and anorexia. The experience was "good humored but not insightful." At 100 mg, vague nausea and chilling of feet preceded a plus-two state described as being "very turned on" but without being stoned or visual effects.
-
-## Synthesis
-
-Synthesized from piperonal via formation of 3,4-methylenedioxy-beta-nitrostyrene, followed by sodium methoxide addition to yield 1-methoxy-1-(3,4-methylenedioxyphenyl)-2-nitroethane, and final reduction with LAH in the presence of sulfuric acid. The hydrochloride salt crystallized with a mp of 152-153 degrees C (anhydrous form).
-
-## Extensions and Commentary
-
-BOH is a member of the BOX family (Benzyl + Oxy prefix). The name follows the convention discussed in the BOD recipe, with RHS for homopiperonylamine as the simplest member of the Muni-Metro family. The demethylated homologue of BOH is BOHH, the methylenedioxy analogue of norepinephrine. BOH may hydrolytically open in the body to provide this neurotransmitter, acting as a "pro-drug" -- a compound not intrinsically active but metabolizing to provide an active drug.
-
-Shulgin noted an uncanny analogy between BOH and the mdma (both Schedule I in the US). The compound's rarity and lack of
-recreational use have kept it largely below regulatory attention.
-
-## Cultural and Historical Significance
-
-BOH's primary significance is in its contribution to the understanding of
-pro-drug strategies in psychedelic chemistry. The concept that a compound
-could be pharmacologically inactive in its administered form but active
-through metabolic conversion has important implications for drug design,
-both for therapeutic and research applications.
-
-The analogy between BOH and a,O-DMS across the phenethylamine-tryptamine
-divide illustrates the deep structural and pharmacological connections
-between these two [[ascomycota-phylogeny-major-classes-lineages]] of psychedelic compounds.
+**[[ascomycota-phylogeny-major-classes-lineages]] of psychedelic compounds.
 
 ## References and Bibliography
 - Shulgin, A. and Shulgin, A. (1991). PIHKAL: A Chemical Love Story. Transform Press.
@@ -67,7 +18,6 @@ between these two [[ascomycota-phylogeny-major-classes-lineages]] of psychedelic
 - Trachsel, D. (2013). "NH2: The Psychedelic Index." Mercury Press.
 ## Related
 ## See Also
-- [[optical-isomers-psychedelic-phenethylamines]]
 - [[psychedelic-research-legal-history-united-states]]
 ## Practical Considerations
 
@@ -88,3 +38,88 @@ methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
 - [[4-ho-dpt-entity-tihkal]]
+
+## Overview
+
+Boh Entity represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish boh entity
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving boh extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Boh Entity finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for boh entity. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+boh entity and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Boh Entity has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of boh entity into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[2c-g-3-entity]]
+- [[4-5-mdo-dmt-entity-tihkal]]
+- [[5-6-mdo-dipt-entity-tihkal]]
+- [[mdcpm-entity-pihkal]]
+- [[methyl-k-entity-pihkal]]

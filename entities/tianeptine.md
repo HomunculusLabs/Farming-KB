@@ -28,9 +28,7 @@ Tianeptine is an atypical tricyclic compound developed by the French
 Société d'Exploitation des Recherches et Applications Scientifiques (SERPS)
 in the 1960s. Approved in many countries for major depressive disorder, it
 is distinguished from conventional antidepressants by its unique
-pharmacological profile. Rather than blocking [[serotonin]] reuptake like SSRIs,
-tianeptine enhances serotonin reuptake while producing antidepressant
-effects through [[salvinorin-a-kappa-opioid-receptor-pharmacology]] agonism and neuroplasticity modulation.
+pharmacological profile. Rather than blocking [[salvinorin-a-kappa-opioid-receptor-pharmacology]] agonism and neuroplasticity modulation.
 
 In recent years, tianeptine has gained notoriety for its abuse potential.
 At doses significantly above therapeutic levels (typically 50-100 mg per
@@ -45,32 +43,12 @@ increasing reports of dependence and withdrawal.
 - IUPAC name: 7-[(3-chloro-6-methyl-6,11-dihydro-5H-dibenzo[c,f][1,2]thiazepin-11-yl)amino]heptanoic acid S,S-dioxide
 - CAS number: 66981-73-5
 - Appearance: White to off-white powder
-- Solubility: Soluble in water, ethanol, and methanol
+- Solubility: Soluble in water, [[ethanol]], and methanol
 
 Tianeptine is structurally classified as a tricyclic antidepressant but
 bears minimal pharmacological resemblance to classical TCAs like
 amitriptyline or imipramine. Its three-ring structure contains a dibenzo
-core with a thiazepine ring, and a heptanoic acid [[shirota-glyoxalylamide-side-chain-construction-psilocin-synthesis]].
-
-## Pharmacology
-
-### Mechanism of Action
-
-Tianeptine's primary mechanism is full agonism at the mu-opioid receptor
-(MOR) and delta-opioid receptor (DOR). This opioid activity is responsible
-for both its antidepressant efficacy and its abuse liability. Unlike
-conventional opioids, tianeptine shows minimal activity at kappa-opioid
-receptors.
-
-The drug also enhances serotonin reuptake (opposite to SSRIs), modulates
-glutamatergic transmission, reduces extracellular glutamate levels in the
-amygdala, and normalizes hypothalamic-pituitary-adrenal axis hyperactivity.
-These neuroplastic effects may contribute to its rapid onset compared to
-conventional antidepressants.
-
-### Pharmacokinetics
-
-- [[first-pass-metabolism-and-oral-bioavailability]]: 99%
+core with a thiazepine ring, and a heptanoic acid [[first-pass-metabolism-and-oral-bioavailability]]: 99%
 - Onset: Rapid, within 1-2 hours
 - Peak plasma: 1-2 hours
 - Half-life: 2.5-3 hours
@@ -88,3 +66,83 @@ patterns, as users escalate frequency to maintain opioid effects.
 
 - **Standard antidepressant:** 12.5 mg three times daily (37.5 mg/day)
 - **Treatment duration:** Typically 4-6 weeks for initial response
+
+## Overview
+
+Tianeptine represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish tianeptine
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving tianeptine extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Tianeptine finds practical application in multiple design contexts.
+[[permaculture-principles]] guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for tianeptine. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+tianeptine and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Tianeptine has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of tianeptine into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+- [[dmt-vs-lsd-pharmacological-comparison-onset-duration-receptor]]

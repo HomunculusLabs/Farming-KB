@@ -22,32 +22,7 @@ sources: [/Users/t3rpz/wiki/raw/papers/bigwood-beug-variation-of-psilocybin-and-
 - **Genus:** Psilocybe
 - **Species:** P. marginalis
 
-The species has a complex taxonomic history and has been placed in various infrageneric classifications within Psilocybe. The epithet "marginalis" refers to the distinctive pale margin of the cap, which contrasts with the darker disc. Some authorities have questioned its specific status, suggesting it may represent a variant or ecotype of related species such as [[psilocybe-montana]]. Molecular phylogenetic studies are needed to resolve its status conclusively.
-
-## Description
-
-### Cap (Pileus)
-- 0.5 to 2.5 cm in diameter
-- Conic to convex, sometimes with a small umbo or papilla
-- Hygrophanous, dark brown to reddish-brown when moist
-- Fading to pale tan or buff when dry
-- Margin characteristically paler than the disc, a key diagnostic feature
-- Margin sometimes slightly striate when moist, especially in mature specimens
-- Surface smooth, occasionally with a silky sheen from fine radial fibrils
-
-### Gills
-- Adnate to sinuate, with a slight decurrent tooth in some specimens
-- Pallid to gray at first, becoming dark brown with purplish tones at maturity
-- Moderately close to subdistant
-- 2 to 3 tiers of lamellulae present
-
-### Stipe (Stem)
-- 3 to 8 cm long, 1 to 2 mm thick
-- Slender, equal, and fragile
-- Whitish to pale brown, sometimes with a bluish base
-- Bruising bluish-green to blue, particularly at the base when damaged
-- Surface covered with fine white to silvery fibrils
-- [[partial-veil-tropism-protection-before-spore-release]] absent or evanescent, leaving no persistent annulus
+The species has a complex taxonomic history and has been placed in various infrageneric classifications within Psilocybe. The epithet "marginalis" refers to the distinctive pale margin of the cap, which contrasts with the darker disc. Some authorities have questioned its specific status, suggesting it may represent a variant or ecotype of related species such as [[partial-veil-tropism-protection-before-spore-release]] absent or evanescent, leaving no persistent annulus
 - Hollow
 
 ### Flesh
@@ -60,31 +35,97 @@ The species has a complex taxonomic history and has been placed in various infra
 - Basidiospores 10 to 13 by 6 to 8 µm
 - Ellipsoid to slightly rhomboid in face view
 - Thick-walled with a prominent germ pore
-- [[boil-a-bag-spore-print-technique-jarrold]] dark brown to purplish-brown
-
-### Microscopic Features
-- Cheilocystidia variable in morphology, ranging from clavate to lageniform
-- Pleurocystidia absent or very rare
-- Pileipellis a cutis of interwoven, filamentous hyphae with brown intracellular pigment
-- Clamp connections present at hyphal septa
-- Subpellis composed of more or less isodiametric cells
-
-## Distribution and Habitat
-
-psilocybe marginalis has been reported from various European countries including France, Germany, Switzerland, the Netherlands, and the British Isles. Its distribution is not fully mapped due to historical confusion with similar species and the lack of modern molecular-confirmed collections.
-
-The species grows in grassy habitats including pastures, meadows, lawns, and parkland. It is occasionally found in mossy areas and along forest edges where grasses extend beneath the canopy. Fruiting occurs from late summer through autumn, typically September to November. In mild climates, it may occasionally fruit in spring as well.
-
-psilocybe marginalis appears to prefer slightly acidic to neutral soils in areas with moderate [[gadd-mycelial-network-resilience-grazing-pressure]] or regular mowing. It is not typically found in intensively fertilized agricultural fields.
+- [[gadd-mycelial-network-resilience-grazing-pressure]] or regular mowing. It is not typically found in intensively fertilized agricultural fields.
 
 ## Chemistry
 
-psilocybe marginalis contains [[psilocin]], though reported alkaloid levels are generally low to moderate compared to more well-known species. Some analytical studies of European Psilocybe species have found tryptamine concentrations in P. marginata collections ranging from 0.1% to 0.5% of dried weight, though some collections have reportedly contained higher levels.
-
-The relatively low and variable alkaloid content, combined with the species' small size and rarity, means it is not typically sought for psychoactive use. The variation in [[psilocin]] levels follows patterns documented across the genus by Bigwood and Beug, with environmental and genetic factors both contributing to inter-population differences. Baeocystin is present as a minor alkaloid.
+psilocybe marginalis contains [[psilocin]] levels follows patterns documented across the genus by Bigwood and Beug, with environmental and genetic factors both contributing to inter-population differences. Baeocystin is present as a minor alkaloid.
 
 ## Similar Species
 
-Several grassland Psilocybe species closely resemble psilocybe marginalis, making [[palmer-mushroom-hunting-field-identification]] difficult:
+Several grassland Psilocybe species closely resemble psilocybe marginalis, making [[psilocybe-montana]]** — Generally considered non-psychoactive or very weakly active; smaller overall with a more muted coloration and no blueing reaction
 
-- **[[psilocybe-montana]]** — Generally considered non-psychoactive or very weakly active; smaller overall with a more muted coloration and no blueing reaction
+## Overview
+
+Psilocybe Marginalis represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish psilocybe marginalis
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving psilocybe extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Psilocybe Marginalis finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for psilocybe marginalis. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+psilocybe marginalis and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Psilocybe Marginalis has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of psilocybe marginalis into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[psilocybe-caeruleoannulata]]
+- [[psilocybe-ovoidocystidiata]]
+- [[psilocybe-phyllogena]]
+- [[psilocybe-semilanceata-worldwide-temperate-distribution-guzman-1998]]
+- [[psilocybe-species-europe]]

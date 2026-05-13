@@ -17,8 +17,7 @@ knowledge of solanaceous herbs with powerful tropane alkaloid properties.
 
 The plants most consistently associated with European witchcraft — *Datura
 stramonium* (thornapple or jimsonweed), *Atropa belladonna* (deadly nightshade),
-*Hyoscyamus niger* (henbane), and *[[mandragora-officinarum]]* (mandrake) — all
-belong to the nightshade family (Solanaceae) and all produce [[mckenna-witch-ointments-tropane-alkaloids-flying-salves]],
+*Hyoscyamus niger* (henbane), and *[[mckenna-witch-ointments-tropane-alkaloids-flying-salves]],
 principally scopolamine, hyoscyamine, and atropine. These compounds are potent
 anticholinergics: they block the action of acetylcholine at muscarinic
 receptors, producing a characteristic syndrome that includes dry mouth,
@@ -88,10 +87,7 @@ centuries of persecution.
 
 One of the most striking features of the European psychoactive flora is its
 concentration in the Mediterranean region and the cultural networks that
-connected it to the Near East. The [[lycanthropy-solanaceous-hallucinogens]] are Old World
-plants, and their use was embedded in a cultural tradition that extended from
-classical Greece through medieval Europe. This stands in contrast to the New
-World, where the major hallucinogens — psilocybin mushrooms, [[sacred-mexican-morning-glories-ololiuqui-and-tlitliltzin]],
+connected it to the Near East. The [[sacred-mexican-morning-glories-ololiuqui-and-tlitliltzin]],
 ayahuasca, DMT-containing snuffs — belong to entirely different botanical
 families and cultural contexts.
 
@@ -109,13 +105,11 @@ The legacy of the witch persecutions persists in modern attitudes toward
 psychoactive plants. The legal classification of many solanaceous herbs as
 poisonous or restricted substances reflects the same cultural anxiety that
 once produced the burning times. Contemporary research into the potential
-[[psilocybin-therapeutic-applications]] of tropane alkaloids — particularly scopolamine as
-a treatment [[cannabis-for-motion-sickness]] and as a transdermal patch for nausea —
+[[cannabis-for-motion-sickness]] and as a transdermal patch for nausea —
 represents a partial rehabilitation of plants that were once among the most
 feared in the European pharmacopoeia.
 
 ## See Also
 
 - mckenna food gods soma indo aryan ritual beverage
-- [[mckenna-food-gods-graves-psilocybin-eleusis]]
 - [[mckenna-food-gods-stoned-ape-hypothesis]]

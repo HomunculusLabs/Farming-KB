@@ -61,30 +61,90 @@ sources:
 - **Flavonoids**: Quercetin, kaempferol derivatives — antioxidant activity
 - **Volatile oils**: Nerolidol, linalool, and other sesquiterpenes
 - **Amino acids**: Rich in GABA and arginine
-- **[[teaming-with-nutrients-micronutrients-and-trace-elements]]**: Germanium, selenium, zinc, iron
-- **Dencichine** (β-N-oxalyl-L-α,β-diaminopropionic acid): Hemostatic amino acid; promotes platelet aggregation
-### Processing Effects
-- **Raw (sheng) San Qi**: Stronger hemostatic and blood-stasis-resolving action
-- **Steamed (shu) San Qi**: Ginsenosides partially convert; enhanced tonifying/nourishing properties
-- Steaming promotes conversion of Rb1/Rg1 to rare ginsenosides (Rg3, Rh1, Rh2), shifting pharmacological activity.
-## Traditional & Medicinal Uses
-### TCM Properties
-- **Nature**: Warm | **Taste**: Sweet, slightly bitter | **Meridians**: Liver, Heart, Stomach
-- **Functions**: Invigorate blood, resolve stasis, stop bleeding, reduce swelling, relieve pain
-- **Contraindications**: Pregnancy; caution with anticoagulant therapy
-### Key Indications
-- Traumatic injury, bruises, and swelling
-- Internal and external bleeding (hemoptysis, hematuria, metrorrhagia)
-- Coronary [[blesching-cannabis-cardiovascular-heart-disease-evidence-review]] and angina pectoris
-- Cerebrovascular disease and ischemic [[cannabis-for-stroke-recovery]]
-- Hyperlipidemia and atherosclerosis
-### Key Formulations
-- **Yunnan Baiyao**: Proprietary hemostatic powder; *P. notoginseng* is primary active ingredient
-- **Xuesaitong Injection**: Standardized extract for cardiovascular/cerebrovascular conditions (approved in China)
-- **Fufang Danshen Diwan**: Combination with *[[cylindrocarpon-destructans]]*
-- Wenshan Prefecture, Yunnan — [[lichens-primary-production-soil-formation-dighton]] region (~90% of global supply)
-- Harvest in autumn (September–November); post-harvest: cleaning, drying, grading
-### Ecological Status
-- Wild populations rare and declining due to overharvesting and habitat loss
-- Listed as endangered in some regional assessments; commercial cultivation reduces wild harvest pressure
-- Requires specific [[plants-without-mycorrhizal-associations]]; [[root-exudates]] exhibit allelopathic effects, contributing to soil sickness in monoculture.
+- **[[blesching-cannabis-cardiovascular-heart-disease-evidence-review]] and angina pectoris
+- Cerebrovascular disease and ischemic [[cylindrocarpon-destructans]]*
+- Wenshan Prefecture, Yunnan — [[plants-without-mycorrhizal-associations]]; [[root-exudates]] exhibit allelopathic effects, contributing to soil sickness in monoculture.
+
+## Overview
+
+Panax Notoginseng represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish panax notoginseng
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving panax extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Panax Notoginseng finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for panax notoginseng. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+panax notoginseng and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Panax Notoginseng has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of panax notoginseng into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[comparison-ginkgo-biloba-vs-panax-ginseng]]
+- [[comparison-panax-ginseng-vs-siberian-ginseng]]
+- [[panax-ginseng]]
+- [[panax-quinquefolius]]

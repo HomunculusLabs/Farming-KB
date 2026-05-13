@@ -18,10 +18,7 @@ type: concept
 
 Amazonian vegetalismo encompasses a sophisticated taxonomy of
 sorcery, with distinct methods of causing harm classified by the
-weapons and techniques employed. [[pablo-amaringo]]'s visions enumerate
-three primary types of sorcerers, each using different means of
-attack, along with numerous secondary methods. A
-[[mariri-phantom-sorcery]] (magical phlegm). When he wishes to
+weapons and techniques employed. [[mariri-phantom-sorcery]] (magical phlegm). When he wishes to
 cause harm, he takes a chonta from his mariri and blows towards his
 victim. If the victim's body has been previously treated by a good
 vegetalista, he immediately feels the attack and seeks remedy. If
@@ -58,20 +55,7 @@ arrows and a cumaceba (Swartzia sp.) bow.
 ## Diagnostic Signs of Sorcery
 
 A curandero distinguishes sorcery types by the lights surrounding
-the patient during an [[ayahuasca-vision-art-and-shipibo-tradition]]:
-
-- **Zigzagging lights**: The patient has been hit by a chontero
-  (chonta/virote sorcery)
-- **Small waves crossed by dark lines**: The patient has been hit by
-  huani (crystal arrow sorcery)
-- **Larger waves**: Marupa sorcery was used
-
-## Sorcery Plants
-
-Several plants are specifically associated with sorcery:
-
-- **Marannara**: Used by sorcerers (unidentified)
-- **Tungara**: Its [[icaros]] are used to cause harm (unidentified)
+the patient during an [[icaros]] are used to cause harm (unidentified)
 - **Cocona-sacha**: A thorny plant used in sorcery (unidentified)
 - **Siuca-huito** (Solanum kioniotrichum): Used for harmful purposes
 - **Alambre-casha**: Used by sorcerers (unidentified)
@@ -118,8 +102,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[ayahuasca]]
 - [[marupa-sorcery]]
-- [[huani-sorcery]]
 - [[chontero]]
 - [[icaros]]

@@ -19,7 +19,7 @@ sources:
 
 ## Overview
 
-The Tilther is a custom-designed electric tillage tool created by [[eliot-coleman]] for shallow soil preparation inside greenhouses. It works only the top 2 inches of soil, making it ideal for frequent [[azurescens-outdoor-bed-preparation-woodchips]] between succession crops in winter-harvest greenhouses. Powered by a cordless drill, the Tilther produces no fumes and minimal noise, addressing the practical problems of using gas-powered rotary tillers in enclosed greenhouse spaces.
+The Tilther is a custom-designed electric tillage tool created by [[azurescens-outdoor-bed-preparation-woodchips]] between succession crops in winter-harvest greenhouses. Powered by a cordless drill, the Tilther produces no fumes and minimal noise, addressing the practical problems of using gas-powered rotary tillers in enclosed greenhouse spaces.
 
 ## Design Rationale
 
@@ -28,16 +28,7 @@ The Tilther is a custom-designed electric tillage tool created by [[eliot-colema
 Greenhouse beds require frequent replanting — often within 24 hours of harvesting a previous crop. Outdoors, Coleman uses a ten-horsepower walk-behind rotary tiller for soil preparation, but this tool is unsuited to greenhouse use for several reasons:
 
 - It is awkward to maneuver for preparing just one or two beds at a time
-- Gas engine fumes accumulate dangerously in [[guzman-voluntary-hallucinations-psilocybin-vapor-enclosed-spaces]]
-- Conventional tillers work too deeply, disturbing soil structure and bringing dormant weed seeds to the surface
-
-### Shallow Tillage Philosophy
-
-The 2-inch working depth of the Tilther was chosen deliberately based on weed research showing that weed seeds rarely germinate from more than 2 inches deep in the soil. By limiting tillage to the top 2 inches, the Tilther:
-
-- Avoids disturbing the established soil structure below
-- Prevents dormant weed seeds from being brought closer to the surface where light and moisture would trigger germination
-- Mimics natural soil processes where the highest concentration of [[fukuoka-textdoc-composting-critique-futility-prepared-organic-matter]] is at the surface
+- Gas engine fumes accumulate dangerously in [[fukuoka-textdoc-composting-critique-futility-prepared-organic-matter]] is at the surface
 
 ## Mechanical Design
 
@@ -67,26 +58,7 @@ The Tilther occupies a specific step in Coleman's greenhouse bed preparation pro
 
 ## Compost Application Technique
 
-Coleman has found that compost applications in the greenhouse are most effective when left on the surface and mixed only shallowly into the top half inch. This technique mimics natural conditions where the highest percentage of [[hamilton-composting-and-organic-matter-management]] is at the soil surface. The Tilther's shallow working depth supports this approach by incorporating amendments without burying compost deeply. The compost gets turned into the soil at the end of each crop cycle when the full bed preparation process is repeated.
-
-## Historical Context
-
-The Tilther was developed because the initial tool used for shallow incorporation — a human-powered three-tooth cultivator nicknamed "the human rototiller" — was extremely unpopular with farm workers. It was considered the least popular job on the farm. The electric Tilther eliminated the physical drudgery while achieving better results through mechanized consistency.
-
-## Advantages Over Alternatives
-
-| Feature | Tilther | Gas Rotary Tiller | Hand Cultivator |
-|---|---|---|---|
-| Fumes | None | Significant | None |
-| Noise | Minimal | Loud | Silent |
-| Working depth | 2 inches | 6 to 8 inches | Variable |
-| Suitability for 1-2 beds | Excellent | Awkward | Possible but slow |
-| Center strip | None (side gearbox) | Untilled strip | None |
-| Weed seed disturbance | Minimal | Significant | Minimal |
-
-## Manufacturing
-
-When Coleman could not find a commercially available electric tiller suited to greenhouse work, he designed the Tilther himself and convinced a local manufacturer to produce it. The design prioritizes simplicity, [[coleman-quick-hoops-low-cost-season-extension-structures-design]], and effectiveness for the specific task of shallow greenhouse bed preparation.
+Coleman has found that compost applications in the greenhouse are most effective when left on the surface and mixed only shallowly into the top half inch. This technique mimics natural conditions where the highest percentage of [[coleman-quick-hoops-low-cost-season-extension-structures-design]], and effectiveness for the specific task of shallow greenhouse bed preparation.
 
 ## Practical Applications
 
@@ -110,8 +82,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[doc]]
 - [[psilocybin]]
-- [[composting]]
 - [[coleman-rolling-greenhouse-wheel-rail-design]]
 - [[coleman-double-layer-protection-greenhouse-row-cover]]

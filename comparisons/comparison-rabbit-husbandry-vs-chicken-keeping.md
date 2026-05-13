@@ -23,14 +23,7 @@ the homestead integrates livestock into its broader food production system.
 
 ## Rabbit Husbandry
 
-[[chicken-keeping]]
-
-Chickens are the most accessible and widely kept backyard livestock, valued
-primarily for egg production with meat as a secondary output. A flock of four to
-twelve hens produces 250 to 320 eggs per bird per year from top layer breeds,
-providing a steady daily food source that no other livestock can match. Beyond
-eggs, chickens contribute manure for composting, pest control through scratching
-and foraging, food waste recycling, and — through [[comparison-chicken-tractor-vs-free-range]] systems —
+[[comparison-chicken-tractor-vs-free-range]] systems —
 mobile fertilization and tilling of garden beds.
 
 The infrastructure for chicken keeping is well-developed and flexible. Coop
@@ -76,18 +69,7 @@ close neighbors benefit from rabbits' quiet operation and small footprint.
 Homesteaders who want a steady supply of lean, mild-tasting meat with a
 favorable feed conversion ratio will find rabbits outperform larger livestock on
 every efficiency metric. Rabbit manure's direct-to-garden applicability makes
-them ideal partners for intensive [[fukuoka-semi-wild-vegetable-growing-natural-method]]. Choose rabbits when egg
-production is not a priority and you are comfortable with the processing
-requirements of meat harvesting.
-
-## When to Choose Chickens
-
-Choose chickens when egg production is your primary livestock goal — no other
-animal matches a laying hen's daily food output. First-time livestock keepers
-benefit from chickens' low barrier to entry, vast knowledge base, and forgiving
-nature compared to more specialized animals. Properties where noise is
-acceptable, space for a coop and run is available, and the family wants both
-eggs and compost integration are ideal for chickens. [[mollison-designers-chicken-tractors-egg-production]] offer
+them ideal partners for intensive [[mollison-designers-chicken-tractors-egg-production]] offer
 unique mobile soil management capabilities that rabbits cannot provide. Choose
 chickens when you want the most versatile, community-supported, and
 beginner-friendly livestock species.
@@ -102,10 +84,6 @@ coops with roosts and nesting boxes) and should be housed separately to prevent
 disease transmission. A typical homestead setup places chickens in Zone 2 near
 the garden and compost area, with rabbits in a nearby but separate structure.
 The combined manure stream — rabbit manure applied directly and chicken manure
-composted — provides balanced fertility for [[dry-gardening-unirrigated-vegetable-production-solomon]].
-
-## See Also
-
-- [[homesteading-livestock-comparison]]
+composted — provides balanced fertility for [[homesteading-livestock-comparison]]
 - chicken-integration-permaculture-guide
 - [[rabbit-husbandry]]

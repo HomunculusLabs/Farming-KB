@@ -20,19 +20,7 @@ grain jar during inoculation can overrun an entire culture within days.
 Stamets emphasizes that HEPA (High-Efficiency Particulate Air) filtration is
 the primary defense against airborne contamination. HEPA filters remove 99.97%
 of particles 0.3 microns and larger, effectively capturing mold spores and
-many bacterial cells. A [[comparison-laminar-flow-hood-vs-fruiting-chamber]] — a workspace enclosed behind a HEPA
-filter directing sterile air across the work surface — is considered essential
-for any serious cultivation work involving open vessels.
-
-Positive pressure environments, where sterile filtered air flows outward,
-prevent unfiltered air from entering during procedures. Even brief exposure of
-sterile substrates to open room air can result in contamination. Stamets
-recommends performing all open-air inoculation work inside a still-air box at
-minimum, with a laminar flow hood strongly preferred for production-scale work.
-
-## Vector 2: Water-Borne Contaminants
-
-Water used in [[bulk-substrate-preparation]], misting, and cleaning can introduce
+many bacterial cells. A [[bulk-substrate-preparation]], misting, and cleaning can introduce
 contamination. The most problematic water-borne contaminants are
 endospore-forming bacteria, particularly species of Bacillus. These bacteria
 form extremely resilient endospores that survive pasteurization temperatures
@@ -43,19 +31,14 @@ Stamets recommends using clean water sources for all cultivation purposes.
 Well water or municipal water that has been treated is generally acceptable.
 Surface water from ponds, streams, or rainwater collection should be treated
 with chlorine or UV sterilization before use. Distilled water is preferred for
-agar [[water-activity-osmophilic-fungal-media-preparation]] to avoid introducing unknown contaminants.
-
-[[pf-tek-substrate-moisture-diagnosis-and-correction]] content itself can create conditions favorable to water-borne
+agar [[pf-tek-substrate-moisture-diagnosis-and-correction]] content itself can create conditions favorable to water-borne
 contaminants. Overly wet substrates with free-standing water provide ideal
 conditions for bacterial proliferation. Maintaining substrate moisture at 60-75%
 is a critical balance.
 
 ## Vector 3: Substrate-Borne Contaminants
 
-Raw [[growing-gourmet-substrate-materials-wood-types]] — straw, sawdust, wood chips, grain, agricultural
-waste — carry their own communities of microorganisms. These native microflora
-include bacteria, yeasts, and wild fungi well-adapted to the substrate that
-will aggressively compete with cultivated [[antimicrobial-compounds-mushroom-mycelium]]. Without treatment,
+Raw [[antimicrobial-compounds-mushroom-mycelium]]. Without treatment,
 raw substrates will almost always be colonized by wild organisms before the
 cultivated species can establish itself.
 
@@ -64,10 +47,7 @@ heating the substrate to 60-80°C for a sustained period (typically 1-2 hours at
 temperature, with the total cycle lasting 6-12 hours). Pasteurization kills
 most competitors while preserving heat-resistant beneficial bacteria that help
 defend against subsequent contamination. This method suits aggressive
-colonizers like oyster [[query-how-to-grow-mushrooms-on-straw]].
-
-Sterilization involves heating the substrate to 121°C under pressure
-(typically 15 psi in an autoclave or [[double-layer-tinfoil-jar-covering-pressure-cooker-method]]) for 60-90 minutes. This
+colonizers like oyster [[double-layer-tinfoil-jar-covering-pressure-cooker-method]]) for 60-90 minutes. This
 kills virtually all organisms including heat-resistant endospores. Sterilization
 is required for supplemented substrates because added nutrients (bran, grain)
 make the substrate attractive to a wider range of competitors. Stamets notes
@@ -117,8 +97,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[six-vectors-of-contamination]]
 - [[hepa-filter]]
-- [[spore]]
 - [[mushroom-cultivation]]
 - [[mycelium]]

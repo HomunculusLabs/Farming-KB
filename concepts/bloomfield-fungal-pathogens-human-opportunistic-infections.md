@@ -35,26 +35,7 @@ immune systems cannot resist an incessant barrage of fungal spores forever.
 
 ## Dermatophytes and Surface Infections
 
-The most benign [[blesching-cannabis-fungal-infections-candida]] of humans affect skin, hair, and nails.
-Physicians refer to these as ringworms, with Latin names indicating the
-infection site: *tinea pedis* for feet, *tinea capitis* for hair, and
-*tinea unguium* for nails. Hair and nails are composed of keratin proteins
-that also comprise the outermost skin layers—a feast for dermatophytes that
-animals cannot digest, packing roughly 1,000 calories equivalent to a couple
-of cheeseburgers. In *tinea capitis*, the fungus invades the hair shaft,
-weakening it with enzymatic action, then reemerges to shower the scalp with
-spores that can infect anyone's hair. Dermatophytes are rare examples of
-fungi that are highly contagious. *Tinea corporis* can produce intricate
-patterns of concentric rings covering the entire body, expanding in
-ever-increasing circles just as a mushroom-forming mycelium spreads in a
-meadow. Modern antifungal drugs like Lamisil are highly effective cures.
-Even the healthiest skin is colonized by varied fungi: the scalp hosts
-*Malassezia*, a microscopic epicure that thrives on sebaceous fat and dandruff
-flakes, requiring olive oil to grow in culture. Tom Dawson, a biologist at
-Procter and Gamble, studies this fungus against the backdrop of $1.2 billion
-in annual global Head and Shoulders sales. The active component, pyrithione
-zinc, inhibits fungal proliferation, but the specifics of its mode of action
-remain unknown—illustrating how much about even common [[fungal-interactions-living-plant-surfaces]]
+The most benign [[fungal-interactions-living-plant-surfaces]]
 we have yet to understand.
 
 ## Deep Tissue Infections
@@ -66,28 +47,7 @@ abscesses and interconnecting canals that burst through the skin weeping
 bloody fluid laced with infectious granules. As the disease progresses,
 *Madurella* erodes bones, producing a diagnostic "moth-eaten" appearance on
 X-rays. While rarely fatal directly, mycetoma robs individuals of mobility,
-functioning as a slow death sentence in [[low-cost-mushroom-growing-house-construction-developing-countries]].
-
-## Systemic Infections and the Immunocompromised
-
-The real horror emerges when fungi breach deeper tissues. *Cryptococcus
-neoformans* causes meningitis in approximately ten percent of AIDS patients.
-This yeast is widespread, and we probably encounter its cells frequently.
-Normally, inhaled spores are cleared by the river of mucus cleansing our
-lungs and the acid bath of the stomach. But when critical defenses are damaged
-in the immune-compromised patient, *Cryptococcus* travels from the lungs to
-the nervous system. In the brain it forms abscesses called cryptococcomas,
-leading to debilitating headaches, blindness, dementia, and death. The fungus
-is diagnosed by collecting cerebrospinal fluid from a lumbar puncture and
-culturing it on agar plates, or by immunological tests detecting
-polysaccharides produced by the yeast. Treatment involves amphotericin B, a
-wonder drug synthesized by a bacterium discovered in Venezuelan soil in 1956,
-which binds to ergosterol in fungal membranes and causes lethal perforation.
-
-## Candida albicans and the Dimorphic Threat
-
-*Candida albicans* exemplifies the opportunistic pathogen. Described as a
-commensal, it is a normal component of the rich [[cannabis-cultivar-microbial-community-effects]] living on
+functioning as a slow death sentence in [[cannabis-cultivar-microbial-community-effects]] living on
 and inside our bodies. Up to 1,000 Candida cells can be present in every gram
 of feces. As a yeast it thrives on skin and mucosal linings—the vagina,
 throat, and intestine. But it often becomes unruly, causing vaginal thrush,

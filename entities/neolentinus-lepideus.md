@@ -34,57 +34,90 @@ sources:
 basidiomycete fungus in the family **Polyporaceae**. It is a brown-rot decomposer primarily
 associated with coniferous timber, notorious for colonizing railroad ties, utility poles, and
 construction lumber. The species is edible when young and has attracted interest for its
-lignocellulose-degrading enzymes and potential [[panax-ginseng]].
-
-## Taxonomy
-
-Basidiomycota → Agaricomycetes → Polyporales → **Polyporaceae → *Neolentinus → N. lepideus*** (Fr.) Redhead & Ginns (1985).
-
-Key synonyms: *Agaricus lepideus* Fr. (1821, basionym), *Lentinus lepideus* (Fr.) Fr. (1836), *Panus lepideus* (Fr.) Kuntze (1898). Transferred from *Lentinus* to *Neolentinus* by Redhead & Ginns in 1985 based on phylogenetic evidence distinguishing the brown-rot *Neolentinus* clade from the white-rot *Lentinus* clade.
-
-## Morphology
-
-- **Cap:** 5–20 cm diameter, convex to plano-convex, covered in conspicuous large brown
-  squamules over a whitish to cream ground color. Margin often appendiculate with partial
-  veil remnants.
-- **Gills:** Adnate to sinuate, narrow, crowded, white to cream. Serrate (toothed) edge is
-  a key diagnostic feature. Spore deposit white to pale cream.
-- **Stipe:** 5–12 cm × 1–2.5 cm, central, tough and fibrous, white above the annulus,
-  scaly below. Ring is membranous and persistent.
-- **Flesh:** White, tough and rubbery when fresh, hard and corky when dried. Strong,
-  fragrant, spicy or anise-like odor when cut — distinctive for field ID.
-- **Spores:** Cylindrical to ellipsoid, 8–14 × 3–4.5 µm, smooth, thin-walled, inamyloid.
-- **Chemical reactions:** Flesh stains pinkish-brown where bruised or cut.
-
-## Distribution and Habitat
-
-*N. lepideus* has a **circumboreal distribution** across temperate and boreal regions of
-[[psilocybin-north-america-pacific-northwest]], Europe, and Asia, particularly common in the Pacific Northwest. Almost
+lignocellulose-degrading enzymes and potential [[psilocybin-north-america-pacific-northwest]], Europe, and Asia, particularly common in the Pacific Northwest. Almost
 exclusively **lignicolous**, fruiting from dead or dying coniferous wood — especially
-Douglas-fir (*[[pseudotsuga-menziesii]]*), pine (*Pinus* spp.), spruce (*Picea* spp.), and
-larch (*Larix* spp.). Also fruits from treated timber including creosote-impregnated
-railroad ties and pressure-treated utility poles, earning the name "train wrecker."
-
-## Ecological Role
-
-*N. lepideus* is a **brown-rot fungus**, degrading cellulose and hemicellulose while
-largely leaving lignin intact. Brown-rot fungi are among the most efficient decomposers
-of conifer wood, which has a high lignin-to-cellulose ratio. The species plays an
-important role [[fungal-role-in-carbon-cycling]] in coniferous forest ecosystems, accelerating the
-breakdown of fallen timber and contributing to [[knf-leaf-mold-humus]]. Its ability to
-colonize treated wood makes it significant for studying wood preservation and
-biodeterioration.
-
-## Bioactive Compounds and Pharmacology
-
-- **Lentinus lepideus lectin (LLL):** Hemagglutinating protein with demonstrated
-  antitumor activity in murine models; inhibits certain cancer cell lines and
-  stimulates immune cell activity.
-- **Lentinamycin:** Peptide antibiotic from culture filtrates, active against
-  Gram-positive bacteria including *[[staphylococcus-aureus]]*.
+Douglas-fir (*[[fungal-role-in-carbon-cycling]] in coniferous forest ecosystems, accelerating the
+breakdown of fallen timber and contributing to [[staphylococcus-aureus]]*.
 - **Beta-glucans:** Polysaccharide fractions exhibit immunomodulatory properties.
 - **[[aact-tannins-terpenes-phenolic-compounds-wood-composting-ingham]] and terpenoids:** Contribute antioxidant capacity with
   radical-scavenging activity comparable to some commercial antioxidants.
 
 The lignocellulose-degrading enzyme system has been studied for biotechnological
 applications, particularly cellulases and xylanases relevant to biofuel production.
+
+## Overview
+
+Neolentinus Lepideus represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish neolentinus lepideus
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving neolentinus extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Neolentinus Lepideus finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for neolentinus lepideus. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+neolentinus lepideus and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Neolentinus Lepideus has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of neolentinus lepideus into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.

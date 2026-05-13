@@ -6,7 +6,7 @@ type: concept
 
 # Water in Permaculture — Global and Local Strategies
 
-Water is the driving force of all nature. In any organism, 99 molecules in 100 are water. The sustained flow of rivers is remarkable given that precipitation is an unusual event in most areas — at Paris, it rains only 7% of the time. Yet rivers flow year-round because the amount of water stored in soil is about fifteen times that held in river channels. Understanding and designing for water is central to permaculture practice.
+Water is the driving force of all nature. In any organism, 99 molecules in 100 are water. The sustained flow of rivers is remarkable given that precipitation is an unusual event in most areas — at Paris, it rains only 7% of the time. Yet rivers flow year-round because the amount of water stored in soil is about fifteen times that held in river channels. Understanding and designing for water is central to [[permaculture]] practice.
 
 ## The Global Water Crisis
 
@@ -32,11 +32,9 @@ Renewal times vary enormously — ocean water turns over in 37,000 years, glacie
 
 ## Neglected Water Strategies
 
-While no economically feasible technology exists for large-scale freshwater creation from seawater, several neglected strategies for [[water-management]] deserve attention:
-
-- **Tank and [[dam-construction]]** has been neglected in built-up areas and rural landscapes alike.
+While no economically feasible technology exists for large-scale freshwater creation from seawater, several neglected strategies for [[dam-construction]]** has been neglected in built-up areas and rural landscapes alike.
 - **Waste reduction** from over-irrigation, industrial non-recycling, inappropriate domestic appliances, and unnecessary uses (lawns, car washes) has not been adequately costed.
-- **Earth storages** on farms represent an underutilized resource for water conservation.
+- **Earth storages** on farms represent an underutilized resource for [[water-conservation]].
 - **Recycling and purification** systems could recover significant water currently lost to pollution and waste.
 
 ## Cloud Seeding for Precipitation Enhancement
@@ -79,6 +77,5 @@ For permaculture designers, water planning implies:
 5. **Assess land value** based on yield of potable water, not just productive capacity.
 
 ## See Also
-- [[faires-permaculture-water-harvesting]]
 - [[permaculture-water-harvesting]]
 - [[permaculture-water-design-checklist]]

@@ -19,29 +19,6 @@ slow-release phosphorus essential for root development and flowering.
 
 ## Gypsum
 
-[[gypsum]]
-
-Gypsum is a soft sulfate mineral (CaSO4·2H2O) that primarily improves soil
-structure. It causes clay particles to flocculate, increasing water
-infiltration and reducing surface crusting. This makes it especially
-valuable on sodic (high-sodium) and heavy clay soils where it displaces
-sodium from clay exchange sites. Unlike lime, gypsum does not raise pH,
-making it suitable for alkaline soils that still need calcium.
-
-Gypsum supplies approximately 23% calcium and 19% sulfur by weight. Sulfur
-is an increasingly important nutrient as atmospheric deposition has declined
-in many agricultural regions. Brassicas, alliums, and legumes benefit
-particularly from sulfur supplementation. Typical application rates range
-from 1 to 5 tonnes per hectare depending on soil sodium levels and
-structural problems.
-
-In permaculture, gypsum is valued as a widely available mineral that can
-sometimes be sourced from quarry byproducts or industrial waste streams. It
-plays a role in greywater treatment systems and constructed wetlands as a
-filtration medium, connecting soil health with water management.
-
-## Rock Phosphate
-
 [[rock-phosphate]]
 
 Rock phosphate is a naturally occurring phosphate-bearing mineral, primarily
@@ -122,8 +99,6 @@ weeks for best results.
 
 ## See Also
 
-- [[comparison-azomite-vs-rock-dust]]
 - [[comparison-kelp-meal-vs-rock-dust]]
-- [[comparison-gypsum-vs-dolomite]]
 - [[azomite-mineral-amendment]]
 - [[rock-dust-soil-remineralization]]

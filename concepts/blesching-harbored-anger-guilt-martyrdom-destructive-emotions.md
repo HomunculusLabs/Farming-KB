@@ -139,8 +139,6 @@ anger: honestly, in detail, and definitively.
 
 ## See Also
 
-- [[blesching-mind-body-medicine-psychosomatic-foundations]]
 - [[blesching-cannabis-emotional-processing-expansive-constricting-emotions]]
-- [[blesching-biology-of-emotions-expansive-constricting-neurotransmitters]]
 - [[blesching-cortisol-shame-guilt-self-worth-stress-hormone-connection]]
 - [[forgiveness-gratitude-healing-practices-blesching]]

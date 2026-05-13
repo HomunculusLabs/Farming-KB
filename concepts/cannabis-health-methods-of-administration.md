@@ -15,17 +15,7 @@ Cannabis may be eaten raw, cooked into foods, drunk as juice, inhaled
 after vaporization, smoked in a pipe, wrapped in paper and smoked, or
 rubbed into the skin. Each method of administration has distinct
 pharmacokinetic properties affecting onset time, duration of effect,
-and [[cannabidiol-cbd-therapeutic-profile-blesching]]. It is not safe to drive or operate heavy
-machinery after taking any psychoactive form of cannabis.
-
-## Inhalation (Smoking)
-
-Smoking cannabis wrapped in paper is the most traditional method but
-introduces carbon compounds from burned paper into the lungs. The
-largest population-based case-controlled study ever conducted on
-cannabis-only use (2,252 people in Los Angeles) found that smoking
-only cannabis was mildly lung-protective and not associated with
-increased [[psk-breast-lung-cancer-clinical-trials]] risk. However, to minimize any potential risk of
+and [[psk-breast-lung-cancer-clinical-trials]] risk. However, to minimize any potential risk of
 negative consequences, many patients prefer alternative methods.
 
 ## Vaporization
@@ -43,39 +33,18 @@ administration.
 
 Cannabis can be cooked into foods such as cookies, brownies, or savory
 dishes. Cannabis is usually added to recipes in the form of herbed
-butter, [[query-how-to-make-herbal-infused-oils-at-home]], or tinctures. When eaten, it may take 45 minutes
-to an hour and a half for cannabis to be absorbed through the
-gastrointestinal tract. The effects of consumed cannabis tend to be
-delayed, last much longer, and are noticeably different compared to the
-effects of inhalation.
-
-Important dosing note: Many patients have made the mistake of eating
-cannabis and thinking "I'm not feeling anything," then continuing to
-eat until [[blesching-cannabis-safety-adverse-effects-evidence]] occur. If too much is ingested, effects may
+butter, [[blesching-cannabis-safety-adverse-effects-evidence]] occur. If too much is ingested, effects may
 last many hours and can be intense and very unpleasant. Always start
 with a small measured amount and wait at least one hour (two hours on a
 full stomach) before increasing the dose.
 
 ## Tinctures and Oils
 
-[[blesching-cannabis-tinctures-infused-oils-topical-preparations]] or tinctures often come in dropper bottles, which allow
-for precise dosing. Start slowly with a few drops and wait at least one
-hour to feel the effect, then slowly increase by a couple of drops
-until the desired therapeutic effect is achieved. Many patients start
-with 3 or 4 drops and work from there. Oil or tinctures can easily be
-made at home or bought at most dispensaries. Since most products are
-not standardized, the [[blesching-cannabis-therapeutic-window-dosing]] may need to be re-established
+[[blesching-cannabis-therapeutic-window-dosing]] may need to be re-established
 with each new bottle.
 
 Alcohol or glycerin may be used as a medium to dissolve plant material
-and produce a tincture useful in oral or [[cannabis-topical-preparations]], often
-called "green dragon." Hemp oil, almond oil, or coconut oil may be
-mixed with cannabis as an additive to create topical skin creams and
-food products.
-
-## Raw Cannabis (Juicing)
-
-Fresh [[cannabis-leaf-morphology-and-phyllotaxy]] contains CBD and THC in their acid forms, which are
+and produce a tincture useful in oral or [[cannabis-leaf-morphology-and-phyllotaxy]] contains CBD and THC in their acid forms, which are
 non-psychoactive. Fresh raw leaves can be juiced and diluted with other
 vegetable juices to disguise the bitter taste. Raw cannabis is ideal
 for patients advised to consume large quantities of CBD. The juice of
@@ -118,8 +87,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[blesching-cannabis-administration-methods]]
 - [[cannabis-administration-methods-comparison]]
-- [[cannabis-for-mental-health]]
 - [[cannabis-for-womens-health]]
 - [[cannabis-health-index-chi-score]]

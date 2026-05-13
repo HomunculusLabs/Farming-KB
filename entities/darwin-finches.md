@@ -36,14 +36,9 @@ Darwin's finches (also called Galápagos finches) are a group of approximately 1
 ## Relevance to Cultivation and Mycology
 
 - The principle of adaptive radiation applies to fungal species diversification in varied substrates and ecological niches
-- Understanding how organisms specialize to fill empty niches informs [[mushroom-cultivation]] strategy — introducing fungi into unoccupied substrate niches
-- Island biogeography theory (which the finches helped establish) applies to understanding microbial and [[fungal-community-assembly]] in cultivation substrates
+- Understanding how organisms specialize to fill empty niches informs [[fungal-community-assembly]] in cultivation substrates
 - The concept that "only when many niches are empty is a species able to differentiate" parallels substrate colonization dynamics
-- Multiple mushroom species can coexist on the same substrate by occupying different [[decomposition]] niches (primary, secondary, tertiary decomposers)
-
-## Source Context
-
-Mentioned in Chapter 2, section 2.8 of *[[permaculture]]: A Designers' Manual*, alongside the dodo, as examples of unique island species that arose through species-swarm evolution when isolated from continental competition.
+- Multiple mushroom species can coexist on the same substrate by occupying different [[permaculture]]: A Designers' Manual*, alongside the dodo, as examples of unique island species that arose through species-swarm evolution when isolated from continental competition.
 
 ## Overview and Definition
 - A key concept in ecological and sustainability studies
@@ -82,8 +77,6 @@ Mentioned in Chapter 2, section 2.8 of *[[permaculture]]: A Designers' Manual*, 
 - Adaptive management recommended for changing conditions
 
 ## Related Topics
-- [[darwin-five-condition-phototropism-experiment-canary-grass]]
 - [[phototropism-darwin-experiments]]
-- [[darwin-phototropism-experiments-plant-vision-discovery]]
 - [[darwin-plant-movement-experiments]]
 - [[phototropism-darwin-plant-light-sensing]]

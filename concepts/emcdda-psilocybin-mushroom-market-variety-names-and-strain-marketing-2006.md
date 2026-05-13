@@ -10,18 +10,7 @@ tags: [emcdda, mushroom-market, strain-marketing, cubensis-varieties, smartshop,
 
 ## Overview
 
-The European market for [[legal-responses-to-hallucinogenic-mushrooms-in-the-european-union]] the early-to-mid 2000s was
-characterized by a diverse array of branded products sold through smartshops,
-internet retailers, and market stalls. The marketing of these mushrooms relied
-heavily on geographic variety names that evoked exotic origins, associating
-products with specific regions of cultivation or purported origin. These variety
-names served both as branding tools and as implicit quality indicators for
-consumers, though the actual genetic and chemical differences between marketed
-strains were often poorly characterized.
-
-## Dominant Market Species
-
-[[anemotropism-in-psilocybe-cubensis]] was by far the most frequently marketed hallucinogenic
+The European market for [[anemotropism-in-psilocybe-cubensis]] was by far the most frequently marketed hallucinogenic
 mushroom in the European retail market. The EMCDDA's 2006 case study identified
 cubensis varieties as the primary products available through smartshops and
 online retailers. Other species, while present in the wild throughout Europe,
@@ -36,14 +25,7 @@ included:
 ### Mexican
 The "Mexican" variety was among the most widely available and was often
 positioned as an entry-level product for novice consumers. Its association with
-the historical and cultural origins of [[powell-mayan-civilisation-and-psilocybin-mushroom-use]] in Mexico lent
-it an authenticity that retailers leveraged in marketing. This variety was
-commonly sold both fresh and dried, and was frequently included in basic
-growkit packages for home cultivation.
-
-### Thai
-Thai varieties of P. cubensis were marketed with reference to their Southeast
-Asian origin. The name evoked associations with [[fukuoka-natural-farming-tropical-climates]] and
+the historical and cultural origins of [[fukuoka-natural-farming-tropical-climates]] and
 traditional use contexts. Thai strains were available as fresh mushrooms, dried
 products, and in some cases as spore prints or growkits. The visual
 presentation of Thai varieties in marketing materials often emphasized their
@@ -141,7 +123,7 @@ provenance served as a proxy for quality and authenticity.
 ## See Also
 
 - emcdda-hallucinogenic-mushroom-species-classification-and-chemistry
-- emcdda-hallucinogenic-mushroom-markets-availability
+- [[emcdda-hallucinogenic-mushroom-markets-availability]]
 - emcdda-hallucinogenic-mushroom-cultivation-and-growkit-market
 - psilocybe-cubensis-strains-names-and-marketing
 - psilocybe-cubensis-strain-potency-variability-controlled-conditions-bigwood-beug

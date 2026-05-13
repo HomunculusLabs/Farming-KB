@@ -11,8 +11,7 @@ type: concept
 
 # Cannabis and Depression
 
-[[blesching-cannabis-sleep-disorders]])
-- PTSD (see [[blesching-cannabis-alcoholism]])
+[[blesching-cannabis-alcoholism]])
 
 The multifaceted symptom relief that cannabis can provide across these
 comorbidities may partly explain its popularity among patients with
@@ -22,13 +21,11 @@ treatment-resistant depression.
 
 - blesching cannabis anxiety - anxiety and depression frequently
   co-occur
-- [[blesching-cannabis-sleep-disorders]] - sleep disruption in depression
 - [[blesching-cannabis-neuroprotection]] - neuroprotective mechanisms
 
 ## Key References
 
-Blesching, U. (2017). *The [[blesching-cannabis-health-index-autoimmune-conditions]]*. North Atlantic Books.
-See Chapter on mood disorders for full study citations and [[blesching-cannabis-chi-scoring-evidence-based-medicine]]
+Blesching, U. (2017). *The [[blesching-cannabis-chi-scoring-evidence-based-medicine]]
 methodology.
 ## Practical Applications
 
@@ -96,8 +93,6 @@ through generations to modern scientific approaches, the evolution continues
 to inform current best practices and research directions.
 
 ## See Also
-- [[blesching-cannabis-anxiety]]
 - [[doc]]
-- [[det]]
 - [[blesching-cannabis-depression-and-anger-release]]
 - [[blesching-cannabis-neuroprotection-neurodegenerative]]

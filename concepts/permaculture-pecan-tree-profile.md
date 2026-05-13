@@ -17,9 +17,7 @@ type: concept
 # Pecan Tree Profile for Permaculture Systems
 
 The pecan (Carya illinoensis) is a long-lived deciduous nut tree native to
-[[psilocybin-north-america-pacific-northwest]], belonging to the Juglandaceae family alongside walnuts and
-hickories. It is cross-fertile with hickory species and represents one of
-the most valuable nut crops for [[permaculture-food-forests-design-course]] designs where
+[[permaculture-food-forests-design-course]] designs where
 intercropping with understory species maximizes productivity per unit
 area.
 
@@ -45,17 +43,13 @@ Over 500 cultivars exist, with the following being most significant:
 In many regions pecans are relatively pest-free compared to other nut
 crops. The main challenge in Australia and similar regions is damage
 from parrots and cockatoos. This makes pecans a good candidate for
-integrated [[permaculture-food-forests-design-course]] systems as a
-upper canopy element. Their deep root systems improve soil structure
-and [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]]. The deciduous canopy allows winter light through
-to understory crops. [[dighton-fungal-decomposition-leaf-litter-dynamics]] contributes to [[permaculture-plants-ground-covers-living-mulches]] creates a
+integrated [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]]. The deciduous canopy allows winter light through
+to understory crops. [[permaculture-plants-ground-covers-living-mulches]] creates a
 productive, self-maintaining polyculture system.
 
 ## Related
 
-- [[permaculture-food-forests-design-course]]
 - [[permaculture-walnut-guide]]
-- [[permaculture-plants-ground-covers-living-mulches]]
 - [[sheet-mulching]]
 ## Practical Considerations
 

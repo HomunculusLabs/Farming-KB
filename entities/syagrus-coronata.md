@@ -32,51 +32,7 @@ on the trunk, giving the species its specific epithet *coronata* (crowned).
 
 Licuri palm is best known as the primary food source for the Spix's macaw
 (Cyanopsitta spixii), one of the world's rarest birds. Although currently
-extinct in the wild, cannabis landrace conservation breeding genetic diversity breeding [[biodiversity-fungal-genetic-diversity]] programs depend on maintaining licuri
-populations for future reintroduction.
-
-The species is economically important in rural northeastern Brazil, providing
-food, fiber, and construction materials that local communities have used for
-centuries.
-
-## Taxonomy and Morphology
-
-**Classification:** Plantae → Tracheophyta → Liliopsida → Arecales → Arecaceae
-→ Arecoideae → Cocoseae → **Syagrus coronata** (Mart.) Becc. (1887). Basionym:
-Cocos coronata Mart. (1826), described from collections in the Caatinga of
-Bahia.
-
-**Synonyms:** Cocos coronata Mart., Arecastrum coronatum (Mart.) Barb.Rodr.,
-Platyglossa coronata (Mart.) O.F.Cook.
-
-**Trunk:** Solitary, erect, 8 to 15 meters tall, 20 to 30 centimeters in
-diameter. Covered in persistent old leaf bases arranged in a close overlapping
-spiral. Upper trunk becomes smooth and grey in mature specimens.
-
-**Leaves:** Pinnate, 2.5 to 4 meters long. Leaf segments 60 to 100 centimeters
-long, regularly arranged, dark green, and stiff. Leaf sheath is fibrous and
-persistent.
-
-**Inflorescence:** Interfoliar, erect to slightly pendulous, 80 to 120
-centimeters long. Spathe woody and furrowed. Flowers small, cream to yellowish,
-in triads of one female and two male flowers.
-
-**Fruit:** Ovoid drupe, 2.5 to 4.0 centimeters long, 2.0 to 3.0 centimeters
-diameter. Hard thick endocarp, ripening from green to yellowish-orange. Kernel
-is white and edible.
-
-## Distribution and Habitat
-
-Syagrus coronata is endemic to northeastern Brazil, occurring in Bahia, Alagoas,
-Pernambuco, Paraíba, Rio Grande do Norte, Ceará, Piauí, and Minas Gerais. Its
-range encompasses the Caatinga dry forest biome and the northern Atlantic Forest.
-
-The species is most abundant in the Caatinga, where it dominates rocky outcrops,
-sandy plains, and semi-arid hillsides. It is remarkably drought-tolerant,
-surviving prolonged dry seasons of 6 to 9 months.
-
-It also occurs in Caatinga-Atlantic Forest transition zones, growing in
-seasonally dry [[fungal-biodiversity-tropical-forests]] at elevations up to 800 meters. Population
+extinct in the wild, cannabis landrace conservation breeding genetic diversity breeding [[fungal-biodiversity-tropical-forests]] at elevations up to 800 meters. Population
 density varies enormously: some Bahia sites exceed 200 individuals per hectare,
 while others are fragmented and declining due to land conversion.
 
@@ -90,5 +46,85 @@ The Lear's macaw is heavily dependent on licuri palm nuts. Colonies of this
 Endangered species nest in sandstone cliffs adjacent to licuri stands in Bahia.
 
 ## See Also
-- [[syagrus-romanzoffiana]]
 - [[natural-fruit-tree-form-and-non-pruning]]
+
+## Overview
+
+Syagrus Coronata represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish syagrus coronata
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving syagrus extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Syagrus Coronata finds practical application in multiple design contexts.
+[[permaculture-principles]] guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for syagrus coronata. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+syagrus coronata and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Syagrus Coronata has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of syagrus coronata into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[syagrus-romanzoffiana]]

@@ -91,7 +91,7 @@ The key transformation: raw/fresh A. muscaria contains mostly ibotenic acid (unp
 
 4. **Urine recycling:** Traditional Siberian practice -- the Koryak and Chukchi peoples would drink the urine of those who had consumed A. muscaria, as muscimol is excreted unchanged while ibotenic acid is metabolized. Multiple "pass-throughs" were common. This unique property matches Vedic Soma descriptions and is a key argument in the [[soma-hypothesis]].
 
-For additional traditional and experimental preparation methods (ambrosia, sacred wine, seer's milk, holy oil, living bread, resurrection), see [[amanita-preparation-methods]].
+For additional traditional and experimental preparation methods (ambrosia, sacred wine, seer's milk, holy oil, living bread, resurrection), see [[amanita-muscaria-preparation-methods]].
 
 ## Effects Profile
 
@@ -147,4 +147,4 @@ Letcher also emphasizes that the term "shaman" itself is a Western imposition fr
 - [[psychedelic-mushroom-history]] for the broad historical timeline
 - [[entheogen-culture]] for Amanita's role in religious traditions
 - [[mushroom-identification]] for safety and lookalikes
-- [[amanita-preparation-methods]] for detailed preparation techniques from the Herb of Immortality
+- [[amanita-muscaria-preparation-methods]] for detailed preparation techniques from the Herb of Immortality

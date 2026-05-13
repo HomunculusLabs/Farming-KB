@@ -33,7 +33,7 @@ Creeks, rivers, and ponds can supply irrigation water but require treatment for 
 
 ### Rain Catchment
 
-[[comparison-drip-irrigation-vs-rainwater-harvesting]] collects and stores roof runoff for non-potable uses (irrigation, livestock, washing) and, with treatment, for drinking.
+Rainwater harvesting collects and stores roof runoff for non-potable uses (irrigation, livestock, washing) and, with treatment, for drinking.
 
 - 1 inch of rain on 1000 sq ft of roof yields approximately 623 gallons
 - Use metal roofing or food-grade surfaces (avoid asphalt shingles)
@@ -61,7 +61,7 @@ Gravity-fed systems use elevation difference to move water without pumping. For 
 - A 50-foot drop provides approximately 22 PSI (low but functional)
 - Minimum 10 PSI recommended for household use (23 feet of elevation)
 
-[[mycoremediation-bioreactor-design-considerations]]:
+Design considerations:
 - Place storage tank above the point of use
 - Use 1-1.5 inch pipe for main lines to minimize friction loss
 - Size pipes based on flow rate and distance
@@ -86,7 +86,7 @@ Storage capacity recommendation: Minimum 3-5 days of household use plus livestoc
 Remove particles using staged filtration:
 - 50-100 micron screen filter: Removes sand and large debris
 - 20-50 micron spun sediment filter: Removes fine sediment
-- 5 micron carbon block filter: Removes chlorine, [[chamovitz-plant-scent-communication-volatile-organic-compounds]], and improves taste
+- 5 micron carbon block filter: Removes chlorine, organic compounds, and improves taste
 
 ### Pathogen Treatment
 
@@ -97,8 +97,8 @@ Remove particles using staged filtration:
 
 ### Mineral Treatment
 
-- Water softeners: Remove [[dynamic-accumulator-plants-calcium-and-magnesium]] (hardness) using ion exchange
-- Acid neutralizers: Raise pH of acidic water using calcite media
+- Water softeners: Remove calcium and magnesium (hardness) using ion exchange
+- Acid neutralizers: Raise pH of acidic water using [[calcite]] media
 - Iron/manganese filters: Remove staining metals using oxidation and filtration
 
 ## System Design Principles
@@ -116,17 +116,3 @@ Remove particles using staged filtration:
 - [[off-grid-electricity-basics]] for powering water pumps
 - [[root-cellaring-guide]] for utilizing cool water in food storage
 - [[wildlife-habitat-creation]] for managing water features on the homestead
-## Key Considerations
-
-Understanding the fundamental principles underlying this topic enables more effective practical application. Integration with related concepts strengthens overall system function and provides multiple pathways for implementation and adaptation to specific contexts.
-
-## Common Challenges
-
-Practitioners frequently encounter challenges related to resource availability, environmental variability, and knowledge gaps. Systematic approaches to problem-solving, combined with community knowledge sharing and iterative experimentation, provide effective pathways to overcoming these obstacles.
-
-## See Also
-- [[aact-brewer-design-principles-aeration-systems-ingham]]
-- [[backyard-poultry-and-integrated-animal-systems]]
-- [[basidiomycete-mating-systems-sexual-reproduction]]
-- [[bee-forage-systems-design]]
-- [[bill-mollison-permaculture-a-designers-manual-animal-systems-in-permaculture]]

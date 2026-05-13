@@ -4,11 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Biological Sewage Treatment Using Higher [[biological-sewage-treatment-with-plants|Plants]]
-
-## Overview
-
-Biological sewage treatment using higher plants represents a mature, energy-efficient approach to wastewater purification that replaces or supplements conventional mechanical and chemical treatment [[biological-sewage-treatment-systems|systems]]. These systems leverage the natural metabolic capacities of aquatic and semi-aquatic plants to remove nutrients, heavy metals, pathogens, and organic pollutants from sewage and contaminated water. The principle is simple: contaminated water is passed through constructed wetlands, ponds, or planted channels where living plants actively uptake, transform, and sequester pollutants.
+# Biological Sewage Treatment Using Higher [[biological-sewage-treatment-systems|systems]]. These systems leverage the natural metabolic capacities of aquatic and semi-aquatic plants to remove nutrients, heavy metals, pathogens, and organic pollutants from sewage and contaminated water. The principle is simple: contaminated water is passed through constructed wetlands, ponds, or planted channels where living plants actively uptake, transform, and sequester pollutants.
 
 Unlike conventional treatment plants that consume significant energy for aeration, chemical dosing, and sludge processing, plant-based systems are largely self-maintaining, produce valuable biomass as a byproduct, and can be integrated into broader permaculture designs for food, fodder, and energy production.
 
@@ -51,21 +47,7 @@ The aerobic phase enables nitrification (ammonia to nitrate), while the anaerobi
 
 ## Water Hyacinth Systems
 
-**Water hyacinth ([[eichhornia-crassipes]])** is one of the most effective floating plants for tertiary treatment of sewage effluent. Although it is invasive and must be carefully managed in open waterways, in contained treatment systems it excels at removing:
-
-- **Residual heavy metals** — accumulated in plant tissue from the water column
-- **Dissolved nutrients** — nitrogen and phosphorus absorbed through roots
-- **Coliform bacteria** — the root zone provides substrate for antimicrobial microorganisms
-
-Water hyacinth grows rapidly under nutrient-rich conditions, producing harvestable biomass for composting or biogas digestion.
-
-## Key Plant Species for Water Purification
-
-### Phragmites communis (Common Reed)
-
-The common reed is perhaps the most widely used plant in constructed treatment wetlands worldwide. It is remarkably effective at:
-
-- **Flocculating colloids** — [[root-exudates]] cause fine suspended particles to clump together and settle
+**Water hyacinth ([[root-exudates]] cause fine suspended particles to clump together and settle
 - **Eliminating pathogens** — including E. coli, coliform bacteria, and Salmonella species
 - **Oxygenating the rhizosphere** — through aerenchyma tissue that transports atmospheric oxygen to the roots
 
@@ -148,3 +130,11 @@ Urine separation at source allows this nutrient stream to be collected, stored, 
 6. **Minimize energy inputs** through solar heating, passive aeration cycling, and gravity flow
 7. **Design for resilience** with diverse plant communities over monocultures
 8. **Account for salinity** and cumulative water quality changes
+
+## See Also
+
+- [[singh-mycelial-mats-and-biological-soil-crusts]]
+- [[biological-indicators-of-soil-conditions]]
+- [[biological-pest-control-balance]]
+- [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]]
+- [[savory-holistic-resource-management-biological-monitoring]]

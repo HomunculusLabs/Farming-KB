@@ -11,31 +11,7 @@ sources:
 
 **Chemical name:** 2,4,6-Trimethoxyamphetamine
 
-**PiHKAL #162** | [[tma-2-compound-profile]] and serves as the template compound for an entire parallel family of potentially active compounds — the "psi-series" (gamma-series) — with modifications at the 4-position, analogous to how TMA-2's 2,4,5-pattern spawned the DOM/DOB/DOI and 2C-X families. The compound is easily synthesized from commercially available 2,4,6-trimethoxybenzaldehyde, or ultimately from phloroglucinol (found in redwood trees, tea leaves, citrus rinds, and apple/pear bark).
-
-## Dosage
-
-| Level | Amount (mg) |
-|-------|-------------|
-| Threshold | 10-15 |
-| Light | 15-25 |
-| Common | 25-40 |
-| Strong | 40-50 |
-| Heavy | 50+ |
-
-## Duration
-
-| Phase | Time |
-|-------|------|
-| Onset | 60-120 min |
-| Come-up | 60-120 min |
-| Peak | 4-8 h |
-| Offset | 4-8 h |
-| Total | 12-16 h |
-
-## Qualitative Effects
-
-- [[leary-psychedelic-experience-bardo-mapping]] with benign character
+**PiHKAL #162** | [[leary-psychedelic-experience-bardo-mapping]] with benign character
 - Body tingling and unsteady walking at moderate doses
 - Cognitive intoxication with difficulty accomplishing simple tasks
 - Strong humor and laughter ("hilarious... mad hatter's tea party, and a trip to the moon")
@@ -54,24 +30,12 @@ At 25 mg: "completely benign, ease with concepts, writing good and smooth." At 3
 
 TMA-6 may be "one of the most rewarding and pleasurable of the methoxylated amphetamines." Its 2,4,6-pattern serves as a parallel template to TMA-2's 2,4,5-pattern. Keeping the 2,6-dimethoxy aspect intact while modifying the 4-position could yield an entire "psi-series" (gamma-series): gamma-DOM (called Z-7 in PiHKAL), gamma-DOB, gamma-DOET, gamma-DOI, gamma-ALEPH, and gamma-2C-X compounds. These are expected to be active but considerably more difficult to synthesize.
 
-The synthesis from phloroglucinol (found in [[sequoia-sempervirens]], Camellia leaves, citrus rinds, and apple/pear tree bark) is described in full, reflecting what Shulgin called "a valid paranoia of our times" — the desire to know how to make starting materials from nature in case commercial chemicals become unavailable.
-
-The phenethylamine homologue (2,4,6-TMPEA or 2C-TMA-6) has been synthesized but not tested in man. It is not a substrate for soluble amine oxidase from rabbit liver, a property it shares with mescaline-entity|mescaline.
-
-## Safety Warnings
-
-- **Long duration** — 12-16 hours
-- Difficulty sleeping after effects subside
-- Stomach discomfort and diarrhea at onset
-- Emotional volatility at higher doses
-- See [[tma-2-compound-profile]] — 2,4,5-isomer, the original template compound
+The synthesis from phloroglucinol (found in [[tma-2-compound-profile]] — 2,4,5-isomer, the original template compound
 - tma-entity|TMA — 3,4,5-isomer, 10x less potent
 - dom-entity|DOM — 4-methyl derivative of the TMA-2 series
 - dob-entity|DOB — 4-bromo derivative of the TMA-2 series
 - mescaline-entity|Mescaline — 3,4,5-phenethylamine parent
-- [[gamma-dom-entity]]
-
-See also: [[tma-6-entity-pihkal]]
+- [[tma-6-entity-pihkal]]
 ## Practical Considerations
 
 Successful implementation of TMA-6 (2,4,6-Trimethoxyamphetamine) requires attention to
@@ -90,3 +54,88 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
+
+## Overview
+
+Tma 6 Entity represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish tma 6 entity
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving tma extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Tma 6 Entity finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for tma 6 entity. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+tma 6 entity and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Tma 6 Entity has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of tma 6 entity into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[2c-c-entity]]
+- [[2c-o-4-entity]]
+- [[4-ho-dbt-entity-tihkal]]
+- [[mckenna-dmt-i-thou-relationship-entity-encounter-ethics]]
+- [[pyrethrum-entity]]

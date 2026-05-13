@@ -20,33 +20,7 @@ scale.
 
 ## Mycorrhizae: The Plant-Fungus Partnership
 
-[[endophytic-fungi]] live inside plant tissues without causing visible disease.
-They are found in virtually every plant species examined, and a single
-plant may host dozens or hundreds of endophyte species. These fungi
-provide their hosts with several benefits:
-
-- **Herbivore deterrence** — many endophytes produce alkaloids and other
-  compounds that are toxic or distasteful to insects and grazing animals
-- **Disease resistance** — endophytes can prime plant immune responses
-  or directly antagonize pathogenic fungi and bacteria
-- **Drought and heat tolerance** — some endophytes enhance their host's
-  ability to withstand environmental stress
-
-The most famous example is the endophyte *Epichloë festucae* in tall
-fescue grass, which produces ergot alkaloids that protect the grass from
-herbivory but can cause fescue toxicosis in livestock.
-
-## Fungus-Growing Insects
-
-Several insect lineages have evolved agriculture — cultivating fungi for
-food. The most remarkable are leafcutter ants (Atta and Acromyrmex
-species), which cut fresh vegetation, carry it back to underground nests,
-and use it as substrate to cultivate a specialized fungus (*Leucoagaricus
-gongylophorus*) in dedicated gardens. The ants weed out contaminant
-fungi, tend the fungal crop, and even carry fungal fragments to new nests
-when colonies divide. This mutualism is over 50 million years old.
-
-Similar fungus-growing behavior evolved independently in [[datura-metel-old-world-ethnobotany]]
+[[datura-metel-old-world-ethnobotany]]
 termites (Macrotermitinae), ambrosia beetles, and certain gall wasps.
 
 ## Parasitic Fungi
@@ -54,34 +28,13 @@ termites (Macrotermitinae), ambrosia beetles, and certain gall wasps.
 Not all fungal symbioses are benign. Parasitic fungi extract nutrients from
 living hosts, causing diseases of plants, animals, and even other fungi.
 Cordyceps fungi parasitize insects, replacing the host's tissue with
-[[bioremediation-fungal-biomass-biosorbent-material]] and eventually producing fruiting bodies from the dead
-insect's body. *[[bloomfield-candida-albicans-yeast-hyphal-dimorphism]]* is a commensal fungus in humans that
+[[bloomfield-candida-albicans-yeast-hyphal-dimorphism]]* is a commensal fungus in humans that
 can become pathogenic when the immune system is compromised.
 
 ## See Also
 
 - mycelium-network — How fungal networks connect organisms
-- [[myxomycete-mycetozoan-slime-mold-diversity-ecology]] — Decomposer fungi in ecosystems
-## Practical Considerations
-
-Successful implementation of Fungal Symbiosis requires attention to
-several practical factors including environmental conditions,
-resource availability, and timing. Careful monitoring and
-adaptive management help optimize outcomes across varying
-conditions. Integration with other system elements enhances
-overall effectiveness and creates beneficial synergies that
-improve resilience and productivity over time.
-
-## Future Directions
-
-Continued development in this area promises new insights and
-improved approaches for both research and practical application.
-Cross-disciplinary collaboration and advances in analytical
-methods create opportunities for innovation and refinement.
-Recommended resources include current literature, practitioner
-communities, and systematic experimentation to build expertise.
 - [[candida-albicans]]
-- [[fungal-symbiosis-with-plants]]
 - [[bloomfield-mycorrhizal-symbiosis-and-fungal-ecology]]
 
 ## Practical Applications
@@ -113,8 +66,85 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[dom]]
 - [[det]]
-- [[mycelium]]
 - [[mycorrhizae]]
 - [[mycorrhiza]]
+
+## Overview
+
+Fungal Symbiosis represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish fungal symbiosis
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving fungal extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Fungal Symbiosis finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for fungal symbiosis. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+fungal symbiosis and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Fungal Symbiosis has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of fungal symbiosis into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also

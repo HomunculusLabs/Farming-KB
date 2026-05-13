@@ -11,26 +11,12 @@ type: comparison
 # Lollipopping vs Cannabis Pruning and Defoliation
 
 ## Overview
-Lollipopping is a specific, aggressive pruning technique within the
+[[lollipopping]] is a specific, aggressive pruning technique within the
 broader category of cannabis pruning and defoliation. While general
 pruning and defoliation encompasses a range of methods from light leaf
 thinning to structural training like topping and 
 Lollipopping is a targeted cannabis pruning technique performed just
-before or during the early [[cannabis-flowering-stage-management]] (typically weeks one to two
-of flower) that involves removing the lower 30 to 40 percent of each
-branch's foliage and small bud sites. The result leaves bare stems below
-a dense canopy of top colas, resembling a lollipop. The technique's
-logic is straightforward: lower branches and bud sites receive
-insufficient light to develop quality flowers, so the energy the plant
-would spend on them is redirected upward to the premium top colas that
-receive the most intense illumination.
-
-The technique originated from Cervantes' guidance on removing spindly,
-unlit lower growth and has become a standard practice among indoor
-growers running high-intensity lighting systems. Lollipopping offers
-several practical benefits beyond energy redirection: it dramatically
-improves airflow through the lower canopy, reducing humidity pockets
-that favor [[cannabis-mold-and-mildew-prevention]], simplifies maintenance by eliminating
+before or during the early [[cannabis-mold-and-mildew-prevention]], simplifies maintenance by eliminating
 crowded lower growth, and streamlines harvest by reducing the number of
 small "popcorn" buds that require trimming. The removed material can
 also serve as quality material for making extracts or edibles.
@@ -40,12 +26,7 @@ foliage at once stresses the plant, slows growth, and reduces its
 capacity for photosynthesis. Most experienced growers limit lollipopping
 to a single session and avoid removing more than 30 to 40 percent of
 total foliage. Timing is also critical: performing the technique too
-early in [[cannabis-vegetative-growth-stage]] can trigger excessive branching, while doing
-it too late into flowering wastes the plant's energy on bud sites that
-will never mature.
-
-## Cannabis Pruning and Defoliation
-[[low-stress-training]] (bending branches to create an
+early in [[low-stress-training]] (bending branches to create an
 even canopy), and repeated topping for bush-style training. Each of
 these methods serves a different purpose: controlling plant height,
 increasing cola count, manipulating canopy shape for light distribution,
@@ -88,30 +69,7 @@ the right time.
 Lollipopping is the ideal technique for indoor growers running
 single-source overhead lighting (HPS, LED, or CMH) where lower branches
 receive dramatically less light than the canopy top. It is particularly
-effective in [[sea-of-green]] (SOG) setups where many small plants are grown
-close together and lower growth would create humidity problems. Growers
-seeking maximum quality over quantity, such as those producing premium
-flower for connoisseur markets, benefit from lollipopping because it
-eliminates the energy drain of popcorn buds and focuses all resources on
-top-tier colas.
-
-The technique also works well for commercial operations where labor
-efficiency matters: fewer lower buds means less trimming work at
-harvest, and the simplified canopy structure makes pest scouting and
-maintenance easier. Lollipopping pairs naturally with other training
-techniques like topping or scrog that have already established an even
-canopy, allowing the grower to focus the final flowering push on the
-most productive bud sites.
-
-## When to Choose General Pruning and Defoliation
-General pruning and defoliation is the better approach for growers who
-need to manage plant structure throughout the entire lifecycle,
-including controlling height in restricted spaces, creating multiple
-main colas through topping, or training plants to fill specific light
-footprints. This broader toolkit is essential for scrog (screen of
-green) grows where branches must be woven through a net, outdoor grows
-where plants need wind resistance and structural integrity, and any
-situation where the plant's [[ingham-natural-growth-regulators-soil-microbes]] habit does not match the grow
+effective in [[ingham-natural-growth-regulators-soil-microbes]] habit does not match the grow
 environment.
 
 Growers running their first few harvests should start with light
@@ -124,7 +82,7 @@ rather than requiring a dramatic all-at-once intervention.
 
 ## Hybrid Approaches
 Most experienced cannabis growers use lollipopping as one tool within a
-broader pruning program. A common sequence involves topping or fimming
+broader pruning program. A common sequence involves topping or [[fimming]]
 during early vegetative growth to establish multiple colas, training
 branches to create an even canopy, performing light defoliation during
 late vegetative and early flowering to improve light penetration, and

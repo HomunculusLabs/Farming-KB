@@ -12,8 +12,7 @@ type: comparison
 
 ## Overview / Summary
 
-Willow (*Salix* spp.) and poplar (*Populus* spp.) are the two most widely planted genera for Short Rotation Coppice (SRC) biomass systems worldwide. Both are fast-growing, woody perennials capable of producing high yields of renewable [[coppice-and-pollard-systems]] on relatively short rotations. Willow dominates in cooler, wetter climates (northern Europe, Scandinavia, UK) while poplar is favoured in continental climates with warmer summers and deeper, drier soils (central Europe, [[hamilton-organic-weed-control]], and adequate [[agroforestry]]
-- [[pollinator-habitat]]
+Willow (*Salix* spp.) and poplar (*Populus* spp.) are the two most widely planted genera for Short Rotation Coppice (SRC) biomass systems worldwide. Both are fast-growing, woody perennials capable of producing high yields of renewable [[hamilton-organic-weed-control]], and adequate [[pollinator-habitat]]
 ## Background and Context
 
 Willow vs Poplar for Coppice and Bioenergy is an important subject that has garnered significant attention
@@ -23,7 +22,7 @@ from biology, ecology, chemistry, and practical experience. A thorough
 understanding requires engagement with both the theoretical foundations
 and the accumulated wisdom of hands-on practice in the field.
 
-Historical development of knowledge in this area has been gradual and
+[[historical-development-of-mushroom-cultivation]] knowledge in this area has been gradual and
 incremental, with key contributions from researchers across different
 cultures and time periods. Modern understanding builds on centuries of
 traditional knowledge combined with contemporary scientific methods.
@@ -108,13 +107,13 @@ and environmental conditions. Honest assessment of these challenges
 leads to more realistic expectations and better long-term outcomes.
 
 Environmental variability presents one of the most significant ongoing
-challenges. Changes in weather patterns, seasonal fluctuations, and
+challenges. Changes in [[climatic-zones-and-global-weather-patterns]], seasonal fluctuations, and
 unpredictable events can disrupt even well-planned implementations.
 Building resilience into systems through diversity, redundancy, and
 adaptive capacity helps mitigate the impacts of these uncertainties.
 
 Knowledge gaps and the ongoing evolution of understanding mean that
-current best practices represent our current state of knowledge rather
+current [[biodiversity-of-fungi-herbarium-specimen-curation-best-practices]] represent our current state of knowledge rather
 than final answers. Practitioners should maintain intellectual humility
 and remain open to new information and approaches that may improve
 upon established methods. Continuous learning and observation are

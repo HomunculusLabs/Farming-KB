@@ -109,13 +109,8 @@ The species has been successfully introduced to European and North American hort
 
 ## See Also
 
-- [[adenophora-triphylla]]
 - [[adenophora-lilifolia]]
-- [[adenophora-stricta]]
 - [[codonopsis-pilosula]]
-- [[platycodon-grandiflorus]]
 - [[campanula-persicifolia]]
-- [[campanula-lactiflora]]
 - [[codonopsis-lanceolata]]
-- [[campanula-rotundifolia]]
 - [[lobelia-siphilitica]]

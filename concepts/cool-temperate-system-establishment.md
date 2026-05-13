@@ -80,13 +80,7 @@ Neil Dauce and Jason Alexandra at Tumbarumba, NSW, reduce forest fuel loads usin
 7. **Leverage guild relationships**: Combine species that support each other's growth and productivity
 ## See also
 
-- [[permaculture-design]]
 - [[cool-climate-home-garden-mollison]]
-- [[composting]]
-
-## See Also
-
 - [[cool-temperate-establishment-and-pioneer-systems]]
-- [[cool-temperate-forage-systems-and-coppice]]
 - [[cool-temperate-forage-systems-and-small-livestock]]
 - [[cool-temperate-systems-establishment]]

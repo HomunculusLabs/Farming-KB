@@ -10,9 +10,7 @@ sources:
 ---
 # Natural Farming Food Philosophy
 
-Masanobu Fukuoka's food philosophy is inseparable from his [[natural-farming-philosophy]] -- the farming system
-- [[fukuoka-seed-selection-methods]] -- selecting the right varieties
-- [[natural-farming-vs-organic-farming]] -- food quality differences
+Masanobu Fukuoka's food philosophy is inseparable from his [[fukuoka-seed-selection-methods]] -- selecting the right varieties
 - [[fukuoka-natural-diet-food-philosophy]]
 - [[fukuoka-rice-and-barley-natural-farming]]
 ## Background and Context

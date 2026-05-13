@@ -1,5 +1,5 @@
 ---
-title: Lettuce And Leafy Greens
+title: Lettuce and Leafy Greens Growing Guide
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
@@ -9,7 +9,7 @@ sources: []
 
 ## Overview
 
-Lettuce and leafy greens are among the most accessible and rewarding crops for home gardeners. They are cool-season vegetables that grow quickly, can be harvested multiple times, and fit into small spaces including containers and raised beds. This guide covers lettuce types, [[native-american-church-peyote-ceremony-structure-roles-roadman]], bolt prevention, and harvest strategies.
+Lettuce and leafy greens are among the most accessible and rewarding crops for home gardeners. They are cool-season vegetables that grow quickly, can be harvested multiple times, and fit into small spaces including containers and raised beds. This guide covers lettuce types, planting methods, bolt prevention, and harvest strategies.
 
 ## Lettuce Types
 
@@ -70,7 +70,7 @@ Lettuce and most leafy greens are best direct-sown rather than transplanted, tho
 
 ## Succession Planting
 
-Succession planting ensures a continuous harvest throughout [[query-how-to-protect-plants-from-frost-and-extend-the-growing-season]].
+Succession planting ensures a continuous harvest throughout the growing season.
 
 ### Schedule
 - Sow every 2-3 weeks from early spring through late summer
@@ -127,7 +127,7 @@ This method maximizes yield from each planting, especially for looseleaf types.
 
 ### Pests
 - **Aphids**: Wash off with strong water spray; encourage ladybugs
-- **[[jadam-pesticide-for-slugs-and-snails]]**: Use beer traps, diatomaceous earth barriers, or copper tape
+- **Slugs and snails**: Use beer traps, diatomaceous earth barriers, or copper tape
 - **Flea beetles**: Use floating row covers on seedlings; worst on arugula and mustard
 
 ### Diseases
@@ -140,7 +140,7 @@ This method maximizes yield from each planting, especially for looseleaf types.
 - Leafy greens are heavy nitrogen feeders
 - Side-dress with compost tea or diluted fish emulsion every 2-3 weeks
 - Avoid excessive nitrogen which can cause nitrate accumulation
-- Foliar feed with diluted [[comparison-seaweed-extract-vs-fish-hydrolysate]] for [[dynamic-accumulator-plants-trace-minerals]]
+- Foliar feed with diluted seaweed extract for trace minerals
 - See [[seasonal-gardening-calendar]] for timing of fertilizer applications
 
 ## See Also

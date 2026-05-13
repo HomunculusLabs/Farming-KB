@@ -6,7 +6,7 @@ type: concept
 
 # Water Conservation in Domestic Systems
 
-[[water-conservation]] in the domestic context is a critical element of [[permaculture-design]]. The typical household wastes enormous quantities of water, and much of this waste can be eliminated through thoughtful design of plumbing, appliance selection, and the reuse of greywater for productive purposes. In permaculture, the goal is not merely to reduce consumption but to transform "waste" water into a productive resource for gardens, orchards, and soil systems.
+[[permaculture-design]]. The typical household wastes enormous quantities of water, and much of this waste can be eliminated through thoughtful design of plumbing, appliance selection, and the reuse of greywater for productive purposes. In permaculture, the goal is not merely to reduce consumption but to transform "waste" water into a productive resource for gardens, orchards, and soil systems.
 
 ## The Scale of Domestic Water Waste
 
@@ -16,7 +16,7 @@ The fundamental principle is that water used for one purpose (hand-washing, bath
 
 ## Handbasin-to-Toilet Diversion
 
-One of the simplest and most effective water conservation measures is diverting handbasin outflow into the toilet flush tank. In Australia, toilets moulded with integrated handbasins are commercially available (referenced in Mollison's Figure 7.31). The principle is straightforward: the water used for washing hands is about equal in volume to that needed for flushing, so no additional clean water is consumed for toilet flushing.
+One of the simplest and most effective [[water-conservation]] measures is diverting handbasin outflow into the toilet flush tank. In Australia, toilets moulded with integrated handbasins are commercially available (referenced in Mollison's Figure 7.31). The principle is straightforward: the water used for washing hands is about equal in volume to that needed for flushing, so no additional clean water is consumed for toilet flushing.
 
 The holding tank can contain several flushes' worth of water, with any excess draining to the toilet. It is essential to pair this system with low-flush toilet bowls, as conventional bowls flush incompletely with reduced water volumes, leading to the buildup of heavy pathogenic bacteria populations. When standard toilet bowls receive insufficient water, the reduced flow fails to clear the bowl completely, creating stagnant residues that harbour and concentrate pathogenic organisms — the opposite of the intended cleanliness.
 
@@ -121,6 +121,5 @@ An additional consideration for domestic water quality is the interaction betwee
 
 ## See Also
 
-- [[greywater-systems-and-domestic-water-conservation]]
 - [[water-conservation-in-sewage-systems]]
 - [[water-harvesting-and-conservation]]

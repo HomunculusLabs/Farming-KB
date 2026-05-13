@@ -35,7 +35,7 @@ sources: []
 
 # Rhodiola rosea
 
-**Rhodiola rosea** (golden root, arctic root) is a perennial herbaceous plant in the family Crassulaceae, native to arctic and alpine regions of Europe, Asia, and [[psilocybin-north-america-pacific-northwest]]. One of the most extensively studied [[adaptogenic-herbs-guide]], it has been used for centuries in Scandinavian, Siberian, and Traditional Chinese Medicine to combat fatigue, enhance endurance, and improve resilience to stress. Its root/rhizome contains a unique profile of [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]], notably the cinnamyl alcohol glycosides rosavin, rosin, and rosarin, which are found exclusively in *R. rosea* among Rhodiola species. Over 3,000 scientific publications document its pharmacology, and standardized extracts (typically 3% rosavins, 1% salidroside) are sold worldwide as [[medicinal-mushroom-dietary-supplements]] and registered herbal medicines.
+**Rhodiola rosea** (golden root, arctic root) is a perennial herbaceous plant in the family Crassulaceae, native to arctic and alpine regions of Europe, Asia, and [[adaptogenic-herbs-guide]], it has been used for centuries in Scandinavian, Siberian, and Traditional Chinese Medicine to combat fatigue, enhance endurance, and improve resilience to stress. Its root/rhizome contains a unique profile of [[medicinal-mushroom-dietary-supplements]] and registered herbal medicines.
 
 ## Taxonomy and Nomenclature
 
@@ -45,15 +45,7 @@ sources: []
 - **Genus:** *Rhodiola* L. (approximately 60-90 species)
 - **Species:** *R. rosea* L., 1753
 - **Synonyms:** *Sedum roseum* (L.) Scop., *Sedum rhodiola* DC.
-- **Etymology:** *Rhodiola* from Greek *rhodon* (rose) + *iola* (diminutive); *rosea* for the rose-like fragrance of the cut root, due to cinnamyl alcohol in the [[permaculture-designers-manual-essential-oil-plants]]
-- **Chinese:** hong jing tian, "red scenery plant"
-- **Russian:** zolotoy koren, "golden root"
-
-## Botanical Description
-
-Rhodiola rosea is a dioecious perennial herb, meaning individual plants are either male or female. The economically important part is the thick, fleshy rhizome, which grows 5-35 cm long and emits a characteristic rose-like aroma when cut, ranging in color from golden-orange to pinkish-red.
-
-**Stems** are erect, unbranched or sparingly branched, reaching 5-40 cm tall (up to 70 cm [[gartz-gymnopilus-purpuratus-south-american-mushroom-in-europe]]**, it occurs throughout Scandinavia (Norway, Sweden, Finland), Iceland, the British Isles (Scotland, rare in northern England and Wales), the Carpathian Mountains, Alps, Pyrenees, Apennines, Balkans, and European Russia. In **Asia**, it ranges across Siberia, the Altai and Sayan Mountains, Kamchatka, Mongolia, northern China (Xinjiang, Inner Mongolia, Heilongjiang), Tibet, the Himalayas (Nepal, Bhutan), and Central Asian republics (Kazakhstan, Kyrgyzstan, Tajikistan). In **[[guzman-psilocybin-mushrooms-north-america]]**, it is found in Alaska, northern Canada (Yukon, Northwest Territories, Nunavut, Labrador, Newfoundland), and the Rocky Mountains south to Colorado at high elevations.
+- **Etymology:** *Rhodiola* from Greek *rhodon* (rose) + *iola* (diminutive); *rosea* for the rose-like fragrance of the cut root, due to cinnamyl alcohol in the [[gartz-gymnopilus-purpuratus-south-american-mushroom-in-europe]]**, it occurs throughout Scandinavia (Norway, Sweden, Finland), Iceland, the British Isles (Scotland, rare in northern England and Wales), the Carpathian Mountains, Alps, Pyrenees, Apennines, Balkans, and European Russia. In **Asia**, it ranges across Siberia, the Altai and Sayan Mountains, Kamchatka, Mongolia, northern China (Xinjiang, Inner Mongolia, Heilongjiang), Tibet, the Himalayas (Nepal, Bhutan), and Central Asian republics (Kazakhstan, Kyrgyzstan, Tajikistan). In **[[guzman-psilocybin-mushrooms-north-america]]**, it is found in Alaska, northern Canada (Yukon, Northwest Territories, Nunavut, Labrador, Newfoundland), and the Rocky Mountains south to Colorado at high elevations.
 
 Habitats include arctic tundra, alpine meadows, rocky ledges, scree slopes, cliff faces, river gravels, and sandy shores. Elevation ranges from sea level in the Arctic to above 3,000 m in southerly latitudes. The species prefers well-drained, sandy or gravelly soils and is often found on north-facing slopes. It requires winter dormancy with near-freezing temperatures.
 

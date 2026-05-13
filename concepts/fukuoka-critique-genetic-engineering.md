@@ -12,17 +12,7 @@ sources:
 
 ## Overview
 
-In "The Natural Way of Farming," [[fukuoka-critique-modern-agriculture]] to genetic engineering and biotechnology. Written before the
-widespread
-adoption of GMOs, his critique nevertheless anticipates many of the concerns
-that
-would later emerge.
-
-## The Error of Genetic Manipulation
-
-Fukuoka's critique of genetic engineering rests on the same epistemological
-foundation
-as his critique of all [[fukuoka-critique-scientific-agriculture-civilization]]: the belief that humans can
+In "The Natural Way of Farming," [[fukuoka-critique-scientific-agriculture-civilization]]: the belief that humans can
 improve
 upon nature through knowledge and manipulation is fundamentally mistaken.
 Genes are
@@ -30,31 +20,9 @@ not isolated units that can be rearranged without consequence — they are
 components
 of an integrated whole that humans cannot fully comprehend.
 
-When scientists insert a gene for [[cannabis-disease-pest-resistance-breeding-clarke]] into a crop, they are treating
-the organism as a machine that can be modified part-by-part. But organisms
-are not
-machines; they are expressions of the wholeness of nature. The inserted gene
-may
-confer the desired trait, but it also changes the organism's relationship
-to its
-environment in ways that cannot be predicted.
-
-## Nature Already Knows
-
-Fukuoka repeatedly emphasized that nature has already solved the problems
-that genetic
-engineering seeks to address. Pest resistance exists in natural ecosystems
-through
-biodiversity and [[fukuoka-ecological-balance-principles]]. Disease resistance exists through the
+When scientists insert a gene for [[fukuoka-ecological-balance-principles]]. Disease resistance exists through the
 natural
-co-evolution of plants and pathogens. [[dighton-fungal-drought-tolerance-plant-water-relations]] exists in locally
-adapted
-varieties.
-
-The scientist who develops a drought-resistant variety through genetic engineering
-is trying to solve a problem that nature solved millions of years ago — and
-that
-[[comparison-natural-farming-vs-permaculture]] addresses by working with, not against, natural systems.
+co-evolution of plants and pathogens. [[comparison-natural-farming-vs-permaculture]] addresses by working with, not against, natural systems.
 
 ## The Hubris of Creation
 
@@ -117,8 +85,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[permaculture]]
 - [[fukuoka-textdoc-genetic-engineering-critique-warning]]
-- [[fukuoka-textdoc-genetic-engineering-warning]]
 - [[fukuoka-old-rice-variety-yield-scientific-agriculture-critique]]
 - [[fukuoka-japanese-agriculture-breakdown-policy-critique]]

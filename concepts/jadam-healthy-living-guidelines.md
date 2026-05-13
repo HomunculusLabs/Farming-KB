@@ -11,21 +11,7 @@ sources:
 
 ## Overview
 
-Youngsang Cho extends JADAM's [[cho-natural-farming-philosophy-of-non-interference]] into daily health practices. Based on the principle that "my body and the soil are one" (Korean: "shindo buji"), JADAM provides eight guidelines for healthy living that parallel its agricultural principles -- just as soil needs balanced nutrition and good circulation, so does the human body.
-
-## The Eight Guidelines
-
-### 1. Eat Brown Rice Mixed with Grains and Greens
-
-Replace white rice with brown rice mixed with other grains and more than three kinds of greens. Chew well. After a week, digestion and bowel movement will improve. Within a few weeks, the abdomen becomes warm and comfortable, and healing begins.
-
-Do not eat white rice. The shift from brown to white rice in Korea corresponded with rising disease rates. Eating too many refined carbohydrates increases susceptibility to disease. The body releases calcium from bones to correct chemical imbalance caused by excessive sugar intake, directly contributing to osteoporosis and diabetes.
-
-Dr. Qi Sun of Harvard School of Public Health reviewed studies of 350,000 people across China, Japan, Australia, and the US (4 to 22 years) and concluded that white rice is a direct cause of diabetes.
-
-### 2. Drink Plenty of Water
-
-Drink water until urine turns clear. The amount of water consumed is absolutely crucial to health. Toxins follow urine to be excreted from the body. Just drinking water can heal many illnesses. Eat small amounts of [[jadam-sea-salt-and-mineral-solutions]] too.
+Youngsang Cho extends JADAM's [[jadam-sea-salt-and-mineral-solutions]] too.
 
 This directly parallels JADAM's agricultural teaching that 70% of human health (and 95% of plant structure) is determined by water quality and quantity.
 
@@ -35,7 +21,7 @@ Cosmetic products are a mixture of hundreds of different chemicals. When absorbe
 
 ### 4. Eliminate Household Chemicals
 
-[[query-how-to-get-rid-of-slugs-and-snails-organically]] of shampoos, soaps, bleach, fabric softeners, antimicrobial products, and air fresheners. These chemicals accumulate in the body and damage health. JADAM [[jadam-nutrient-management-wetting-agent-and-calcium]] (JWA) can replace all of these -- use it to wash hair, body, dishes, and clothes. This is particularly important for infants and children.
+[[jadam-nutrient-management-wetting-agent-and-calcium]] (JWA) can replace all of these -- use it to wash hair, body, dishes, and clothes. This is particularly important for infants and children.
 
 ### 5. Use Sun-Dried Sea Salt Instead of Toothpaste
 
@@ -78,9 +64,7 @@ Health is not coincidence -- it is the result of effort. "How you eat, drink, ex
 
 ## See Also
 
-- [[jadam-sea-salt-use]] -- sea salt in farming
 - [[jadam-sese-philosophy]] -- the SESE framework
-- [[jadam-i-and-others-are-one]]
 - [[fukuoka-natural-rice-farming-steps]]
 
 ## Practical Applications
@@ -112,8 +96,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[dom]]
 - [[det]]
-- [[youngsang-cho]]
 - [[jadam-concentration-guidelines]]
 - [[jadam-pesticide-mixing-guidelines]]

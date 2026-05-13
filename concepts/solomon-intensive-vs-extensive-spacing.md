@@ -11,70 +11,9 @@ type: concept
 
 ## The Core Argument
 
-Steve Solomon's "Gardening When It Counts" makes a forceful argument against [[solomon-wide-spacing-versus-intensive-gardening-debate]] methods and for what he calls "extensive" spacing -- giving each vegetable much more room than most garden books recommend. This is not merely opinion; it is rooted in understanding plant root systems and soil moisture dynamics.
+Steve Solomon's "Gardening When It Counts" makes a forceful argument against [[coleman-british-adoption-of-french-intensive-gardening]], biointensive, square foot) place plants much closer together in massed plantings on raised beds. The idea is that yield becomes greater per square foot, and the crop canopy forms quickly, shading out weeds. But there are critical problems:
 
-## Why Intensive Gardening Fails Without Abundant Water
-
-Intensive gardening methods ([[coleman-british-adoption-of-french-intensive-gardening]], biointensive, square foot) place plants much closer together in massed plantings on raised beds. The idea is that yield becomes greater per square foot, and the crop canopy forms quickly, shading out weeds. But there are critical problems:
-
-1. High plant density sucks the soil dry so rapidly that the gardener must water almost daily during the [[savory-growing-season-and-non-growing-season-management]]
-2. The gardener must make the soil super-fertile to support this intense growing activity
-3. With postage-stamp-sized gardens and looser soil (double-dug to 60 cm), roots can go down instead of out, but only if soil moisture is constantly available
-4. Once ultra-crowded plants have formed a crop canopy, moisture loss accelerates during sunny weather -- to prevent moisture stress you must apply half an inch (1.25 cm) every few days. Sandy intensive beds may need irrigation every single day
-5. The cost of water will increase with inevitable price increases in the future
-
-## Solomon's Reframe: "Drought" Is Often Bad Gardening
-
-Citing John Widstoe's 1911 "Dry Farming," Solomon defines drought as "a condition under which crops fail to mature because of an insufficient supply of water" -- and notes that in most cases, man is the cause. Before piped water was normal, over 90% of vegetable gardens were grown without running water. Widstoe's four key points:
-1. The conservation of soil moisture
-2. The most efficient use of the moisture in the soil
-3. Growing plants that can produce food with a minimum of moisture
-4. Methods for keeping moisture in the soil until needed by crops
-
-## The Four-Column Spacing Table
-
-Solomon provides a detailed spacing comparison table with four columns:
-
-| Column | Description | Watering Needs |
-|--------|-------------|---------------|
-| Column 1 | Intensive raised beds (Jeavons style) | Near-daily irrigation required |
-| Column 2 | Semi-intensive raised beds per Solomon | Every few days |
-| Column 3 | Extensive on flat, good rainfall; raised rows on flat, moderate rainfall | Minimal supplemental water |
-| Column 4 | Everything on flat, little rain or fertigation | Survives on rainfall |
-
-### Selected Crop Spacings (inches, Column 2 semi-intensive Solomon style)
-
-| Crop | Column 1 (Intensive) | Column 2 (Solomon) | Column 3 (Extensive) | Column 4 (Drought) |
-|------|---------------------|-------------------|---------------------|-------------------|
-| Beans, bush | 4x4 | 4x24 | 6x36 | 8x48 |
-| Beets | 4x4 | 4x18 | 4x24 | 6x48 |
-| Broccoli | 15x15 | 24x48 | 36x36 | 48x48 |
-| Cabbage | 15x15 | 24x30 | 30x36 | 36x48 |
-| Carrots | 3x3 | 3x18 | 3x24 | 4x36 |
-| Corn, sweet | 8x8 | 18x48 | 18x48 | 24x72 |
-| Cucumber | 12x12 | 48x48 | 48x48 | 60x72 |
-| Lettuce | 6x6 | 12x18 | 12x24 | 18x48 |
-| Onions, bulbing | 4x4 | 3x18 | 3x24 | 4x36 |
-| Peas, bush | 3x3 | 2x18 | 3x24 | 3x36 |
-| Peppers | 12x12 | 24x24 | 24x36 | 36x48 |
-| Potatoes | 9x9 | 8-12x48 | 12x36 | 14-18x48 |
-| Spinach | 6x6 | 3x18 | 3x18-24 | 4x24 |
-| Tomatoes, det. | 18x18 | 24x48 | 48x48 | 48x60 |
-| Tomatoes, indet. | 24x24 | 48x48 | 48x60 | 60x72 |
-| Squash, summer | 24x24 | 36x48 | 48x48 | 72x96 |
-
-Note: Multiply inches by 2.5 for centimeters.
-
-## Why Wide Spacing Produces More
-
-The supposed advantages of intensive spacing are largely an illusion. Instead of growing many small, crowded vegetables that take a long time to harvest and clean, people with wider spacing spend less time harvesting larger, more balanced plants.
-
-Species that produce an ongoing harvest (tomatoes, peppers, cucumbers, squash, beans) will surprise the intensivist by yielding four or more times longer when their root systems are not stopped by overcompetition. In intensive plantings these plants produce well for a few short weeks and then virtually stop yielding, their roots having filled the soil space and exhausted available moisture and nutrients.
-
-## Specific Examples
-
-### Corn
-Where soil moisture is not a problem, each corn plant should exclusively control at least 24 square feet. Eighteen inches on center works. Where water is short, increase to 9 inches apart in rows 48 inches apart. In severe drought conditions, use 16 square feet per plant (4-foot centers) in hills, putting four seeds per hill -- [[halpern-sacramental-peyote-and-native-american-church]] style. Corn should be grown in patches at least two rows wide because it is wind-pollinated with heavy pollen; single long rows will have partly filled ears.
+1. High plant density sucks the soil dry so rapidly that the gardener must water almost daily during the [[halpern-sacramental-peyote-and-native-american-church]] style. Corn should be grown in patches at least two rows wide because it is wind-pollinated with heavy pollen; single long rows will have partly filled ears.
 
 ### Beets
 Given proper nutrition and wide spacing, beetroot will not have the throat-rasping sensation many associate with raw beets. Solomon grew delicious beets spaced one foot apart in rows four feet apart. After five entirely rainless months, each root was the size of a volleyball and still delicious.
@@ -84,12 +23,91 @@ Indeterminate tomatoes given 48x48 to 60x72 inch spacing will produce far longer
 
 ## The Bottom Line
 
-The supposed yield-per-square-foot advantage of intensive gardening is largely theoretical and requires constant irrigation and super-fertility. The yield per unit of water applied is actually worse with [[row-gardening-vs-intensive-methods-solomon]]. A wider-spaced garden that can go weeks between waterings is more practical, more productive per unit of effort, and more resilient.
-
-## Related
-
-- [[intensive-gardening-critique-solomon]] for watering approaches
-- [[solomon-mulching-and-cover-cropping]] for moisture conservation
+The supposed yield-per-square-foot advantage of intensive gardening is largely theoretical and requires constant irrigation and super-fertility. The yield per unit of water applied is actually worse with [[intensive-gardening-critique-solomon]] for watering approaches
 - [[gaias-garden-cover-crops-soil-building]]
-- [[solomon-growing-beans-and-peas]]
 - [[cover-crop-species-comparison]]
+
+## Overview
+
+Solomon Intensive Vs Extensive Spacing represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish solomon intensive vs extensive spacing
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving solomon extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Solomon Intensive Vs Extensive Spacing finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for solomon intensive vs extensive spacing. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+solomon intensive vs extensive spacing and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Solomon Intensive Vs Extensive Spacing has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of solomon intensive vs extensive spacing into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[clay-soil-management-solomon]]
+- [[solomon-food-preservation-storage]]
+- [[solomon-harvesting-techniques-and-timing]]
+- [[solomon-seed-germination-science-laboratory-methods]]
+- [[solomon-soil-testing-laboratory-analysis-low-input-gardening]]

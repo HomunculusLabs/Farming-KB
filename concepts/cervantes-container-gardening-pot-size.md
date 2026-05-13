@@ -12,41 +12,7 @@ type: concept
 
 # Container Gardening and Pot Size for Cannabis
 
-Proper container selection and management are fundamental to [[query-how-to-manage-ph-for-healthy-cannabis-plants]]
-growth. Jorge Cervantes emphasizes that root-bound, cramped root systems grow
-sickly, stunted plants with sparse branching. Understanding when and how to
-transplant, and choosing the right container size, directly impacts yield.
-
-## Signs of Root-Bound Plants
-
-When plants outgrow their containers, growth slows and problems develop. Key
-indicators of root-bound plants include:
-
-- Slow, sickly overall growth
-- Branches that develop with excessive distance between internodes
-- Plants that tend to grow straight up with few lateral branches
-- Roots visibly matted on the bottom or surrounding the sides of the pot
-- Rapid drying of the growing medium between waterings
-
-To confirm root-bound status, carefully remove the plant from its pot and
-inspect the root mass. Healthy roots should be white and spreading throughout
-the medium, not densely coiled against container walls.
-
-## Minimum Container Size Guide
-
-Cervantes provides a practical container size progression based on plant age:
-
-| Plant Age       | Container Size              |
-|-----------------|-----------------------------|
-| 1-3 weeks       | Root cube or starter plug    |
-| 2-6 weeks       | 4-inch (10 cm) pot          |
-| 6-8 weeks       | 2-gallon (7.5 L) pot        |
-| 2-3 months      | 3-gallon (11 L) pot         |
-| 3-8 months      | 5-gallon (19 L) pot         |
-| 6-18 months     | 10-gallon (38 L) pot        |
-
-For short plants reaching full maturity in 90 days, there is little need for
-containers larger than three gallons (11 L). Large [[cervantes-nutrient-stock-solutions-concentrates]] solution until saturated
+Proper container selection and management are fundamental to [[cervantes-nutrient-stock-solutions-concentrates]] solution until saturated
 4. **Remove the root ball** - Place your hand over the container top with the
    stem between your fingers; invert and let the root ball slip out intact
 5. **Position carefully** - Place the root ball in the prepared hole; ensure
@@ -89,10 +55,7 @@ simple. Set the cube or pot directly into a hole in the growing medium and
 ensure firm contact. The cube integrates into the surrounding medium as roots
 grow through it, minimizing disturbance.
 
-See also: [[cervantes-growing-medium]], [[comparison-coco-coir-vs-peat]], [[comparison-greenhouse-vs-container-gardening]]
-
-## See Also
-- [[green-cannabis-transplanting-root-bound-management]]
+See also: [[comparison-coco-coir-vs-peat]], [[green-cannabis-transplanting-root-bound-management]]
 
 ## Practical Applications
 
@@ -123,8 +86,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[jorge-cervantes]]
 - [[trichoderma]]
-- [[query-how-to-choose-the-right-pot-size-for-cannabis]]
 - [[greg-green-container-and-pot-sizing]]
 - [[cannabis-pot-selection-and-container-sizing]]

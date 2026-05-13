@@ -8,86 +8,19 @@ tags: [mycology, taxonomy, agaricales, agaricomycetes, basidiomycota]
 
 ## Overview
 
-Agaricales is the largest and most diverse order of class Agaricomycetes within the phylum Basidiomycota. Commonly known as gilled mushrooms or agarics, this order contains many of the most familiar mushroom-forming fungi, including the common button mushroom ([[agaricus-bisporus]]), field mushrooms, and the majority of mushroom species encountered in temperate forests and grasslands. The defining morphological feature is the presence of lamellae (gills) on the hymenophore — the spore-producing surface on the underside of the pileus (cap).
-
-## Taxonomic History
-
-The order Agaricales was established by Paul Kummer in 1871 in his work "Der Führer in die Pilzkunde." Historically, the order was defined primarily by the presence of gills as the spore-bearing surface, a feature that unified an enormous diversity of forms. Early classification systems such as those by Fries (1821) and Singer (1949, 1986) relied heavily on macroscopic features including spore print color, gill attachment, presence of a volva or annulus, and pileus texture.
-
-Modern molecular phylogenetics, beginning with the work of Moncalvo et al. (2002) and Hibbett et al. (2007), has dramatically reshaped the understanding of Agaricales. DNA sequencing of ribosomal RNA genes (ITS, nLSU, nSSU) and protein-coding genes (RPB1, RPB2, TEF1) revealed that the traditional gill-based classification masked deep evolutionary divergences. Many genera formerly placed in Agaricales have been moved to other orders, and conversely, some fungi with non-gilled or poroid hymenophores have been shown to belong within Agaricales.
-
-## Morphological Features
-
-### Pileus (Cap)
-The pileus in Agaricales ranges from less than 1 cm to over 50 cm in diameter across different species. Cap shape varies from convex, plano-convex, and umbonate to campanulate (bell-shaped) and infundibuliform (funnel-shaped). Surface texture includes smooth, viscid, glutinous, scaly, fibrillose, silky, and tomentose varieties. Hygrophanous species change color as they dry, a trait particularly common in Psilocybe and allies.
-
-### Lamellae (Gills)
-The gills are thin, vertically arranged plates on the underside of the pileus where basidia develop. Gill attachment to the stipe is a critical taxonomic character:
-- **Free (adnexed/remote)**: gills do not reach the stipe (e.g., Agaricus)
-- **Adnate**: broadly attached to the stipe (e.g., Tricholoma)
-- **Adnexed**: narrowly attached (e.g., many Psilocybe)
-- **Sinuate (notched)**: gills with a notch near the stipe (e.g., Hebeloma)
-- **Decurrent**: gills running down the stipe (e.g., Clitocybe, Pleurotus)
-- **Subdecurrent**: slightly decurrent (e.g., Hygrophorus)
-
-Gill color, spacing (distant, close, crowded), and edge characteristics (smooth, serrate, fimbriate) provide additional diagnostic features. In some genera, the gills change color as spores mature, reflecting spore deposit color.
-
-### Stipe (Stem)
-The stipe may be central, eccentric, or lateral. Its development ranges from bare and smooth to decorated with an annulus (ring) and/or volva (cup at base). The stipe surface can be glabrous, fibrillose, scaly, or striate. Internal structure includes fleshy, fibrous, cartilaginous, or hollow types.
-
-### Spores
-Basidiospores are produced on basidia on the gill surfaces. Key spore characters include:
-- **Color**: white, cream, pink, rusty-brown, chocolate-brown, purple-brown, black
-- **Shape**: globose, ellipsoid, amygdaliform, lacrymoid, phaseoliform
-- **Size**: typically 4–20 μm in length
-- **Ornamentation**: smooth, verrucose, echinulate, or striate
-- **Germ pore**: present or absent
-- **Wall reaction**: amyloid, inamyloid, or dextrinoid in Melzer's reagent
-
-Spore print color remains one of the most useful field identification characters.
-
-## Major Families
-
-### Agaricaceae
-The Agaricaceae includes the commercially important genus Agaricus (button mushrooms, portobellos, cremini), along with Lepiota, Leucoagaricus, Chlorophyllum, and Macrolepiota. Members typically have free gills, brown spore prints, and often possess an annulus. The family includes both prized edibles and deadly poisonous species ([[guzman-chlorophyllum-molybdites-toxic-edible-paradox-yoruba-divinatory-use]]).
+Agaricales is the largest and most diverse order of class Agaricomycetes within the phylum Basidiomycota. Commonly known as gilled mushrooms or agarics, this order contains many of the most familiar mushroom-forming fungi, including the common button mushroom ([[guzman-chlorophyllum-molybdites-toxic-edible-paradox-yoruba-divinatory-use]]).
 
 ### Amanitaceae
-Amanitaceae is represented primarily by the genus Amanita, one of the most iconic mushroom genera. Species typically develop from an egg-like universal veil, producing a volva at the base and often warts or patches on the pileus. This family contains the deadly [[amanita-phalloides]] (death cap), the psychoactive [[allegro-amanita-muscaria-properties-and-pharmacology]] (fly agaric), and the edible [[amanita-caesarea]] (Caesar's mushroom). Spore prints are white.
-
-### Cortinariaceae
-Cortinariaceae is dominated by the genus Cortinarius, the largest genus of agarics with over 2,000 described species worldwide. Members are characterized by a cortina (cobweb-like partial veil), rusty-brown spore prints, and often [[plants-without-mycorrhizal-associations]] with trees. Many species contain toxins (orellanine in some). Other genera include Inocybe (also containing neurotoxic species) and Galerina.
+Amanitaceae is represented primarily by the genus Amanita, one of the most iconic mushroom genera. Species typically develop from an egg-like universal veil, producing a volva at the base and often warts or patches on the pileus. This family contains the deadly [[allegro-amanita-muscaria-properties-and-pharmacology]] (fly agaric), and the edible [[plants-without-mycorrhizal-associations]] with trees. Many species contain toxins (orellanine in some). Other genera include Inocybe (also containing neurotoxic species) and Galerina.
 
 ### Hymenogastraceae
-This family includes the genus Psilocybe and its relatives. Psilocybe species are small to medium mushrooms with dark purple-brown spore prints, often hygrophanous pilei, and many contain the psychoactive compounds [[hplc-analysis-of-psilocybin-and-psilocin]]. The family also includes Galerina (containing deadly amatoxins in G. marginata), Hebeloma, and Pholiotina. Molecular work has confirmed the placement of Deconica (non-psilocybin-containing former Psilocybe species) in a separate lineage.
-
-### Bolbitiaceae
-Bolbitiaceae includes the genera Panaeolus and Panaeolina, many of which grow on dung or enriched soils. Several Panaeolus species contain psilocybin, notably P. cyanescens and P. cinctulus. Spore prints are dark brown to black. Conocybe is also sometimes placed here, containing species with conical caps and some psychoactive members.
-
-### Pluteaceae
-Pluteaceae includes Pluteus and Volvariella. Members have free gills and pink spore prints. Pluteus species grow on wood and some contain psilocybin. [[paddy-straw-mushroom-volvariella-volvacea-cultivation]] ([[comparison-king-stropharia-vs-paddy-straw-mushroom]]) is commercially cultivated in Southeast Asia. The genus develops from a volva similar to Amanita but has pink rather than white spores.
-
-### Tricholomataceae (sensu lato)
-This historically large family has been extensively reclassified by molecular phylogenetics. Remaining members include Tricholoma (matsutake group), Clitocybe (funnel caps), Lepista (blewits), and Mycena. Many are mycorrhizal or saprotrophic on forest litter. Spore prints range from white to cream to pinkish.
-
-### Entolomataceae
-Entolomataceae is defined by pinkish angular spores (sinuate or nodulose under the microscope). Entoloma species are diverse and many are poisonous. Clitopilus is another genus in this family. Spore prints are pink to salmon.
-
-### Psathyrellaceae
-Psathyrellaceae includes Coprinellus, Coprinopsis, and Psathyrella. Coprinoid mushrooms (inky caps) deliquesce — their gills autodigest into an inky fluid as spores mature, an adaptation for spore dispersal. Psathyrella species are small, fragile mushrooms common in disturbed habitats.
-
-### Strophariaceae
-Strophariaceae includes Stropharia, Hypholoma, and Leratiomyces. Many species are lignicolous or grow in grass. [[stropharia-rugosoannulata]] (wine-cap) is cultivated. Some Hypholoma species contain psilocybin. The family has been redefined by molecular work, with several former members moved to Hymenogastraceae.
+This family includes the genus Psilocybe and its relatives. Psilocybe species are small to medium mushrooms with dark purple-brown spore prints, often hygrophanous pilei, and many contain the psychoactive compounds [[paddy-straw-mushroom-volvariella-volvacea-cultivation]] ([[stropharia-rugosoannulata]] (wine-cap) is cultivated. Some Hypholoma species contain psilocybin. The family has been redefined by molecular work, with several former members moved to Hymenogastraceae.
 
 ### Omphalotaceae
 Omphalotaceae includes the cultivated genus Pleurotus (oyster mushrooms), which have decurrent gills and grow on wood. Lentinula (shiitake, L. edodes) is sometimes placed here. The family demonstrates the diversity of gill arrangements within Agaricales, as some members have broadly spaced or anastomosing gills.
 
 ### Marasmiaceae
-Marasmiaceae includes Marasmius, Gymnopus, and Micromphale. Members are often small, tough, and can revive after drying (marcescent). They play important roles in leaf litter decomposition in tropical and temperate forests. [[marasmius-oreades]] (fairy ring mushroom) is a common lawn species.
-
-## Ecological Roles
-
-### Saprotrophic Species
-The majority of Agaricales are saprotrophs, decomposing [[maintaining-organic-matter-in-vegetable-gardens]] soil, leaf litter, dead wood, dung, and compost. Saprotrophic agarics are primary decomposers of lignin and cellulose in forest ecosystems. Key functional groups include:
+Marasmiaceae includes Marasmius, Gymnopus, and Micromphale. Members are often small, tough, and can revive after drying (marcescent). They play important roles in leaf litter decomposition in tropical and temperate forests. [[maintaining-organic-matter-in-vegetable-gardens]] soil, leaf litter, dead wood, dung, and compost. Saprotrophic agarics are primary decomposers of lignin and cellulose in forest ecosystems. Key functional groups include:
 
 ## Practical Applications
 
@@ -118,8 +51,91 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[psilocybin]]
 - [[dom]]
-- [[psilocin]]
 - [[soma]]
 - [[spore-dispersal]]
+
+## Overview
+
+Agaricales Order represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish agaricales order
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving agaricales extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Agaricales Order finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for agaricales order. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+agaricales order and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Agaricales Order has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of agaricales order into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[boletales-order]]
+- [[fukuoka-textdoc-natural-order-microbial-ecology]]
+- [[implicate-order-and-unity-of-nature]]
+- [[implicate-order-and-unity-of-phenomena]]
+- [[pattern-understanding-and-implicate-order]]

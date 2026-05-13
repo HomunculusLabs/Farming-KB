@@ -30,18 +30,7 @@ bacteria, nematodes, and environmental stress.
 
 ### Identification
 
-Leaf and stem fungi, including [[jadam-canker-leaf-spot-pesticide]], attack foliage
-producing brown, gray, black, or yellow to white spots or
-blotches on leaves and stems. Leaves and stems discolor and
-develop spots that impair plant fluid flow and other life
-processes. Spots expand over leaves causing them to yellow and
-drop. Growth is slowed, harvest is prolonged, and in severe
-cases, death results.
-
-Leaf spot is a symptomatic name given to many different
-diseases. These diseases may be caused by bacteria, fungus,
-and nematodes. Spots or lesions caused by fungi often develop
-different colors as [[bloomfield-asterophora-and-mycoparasites-of-fruiting-bodies]] grow within the affected
+Leaf and stem fungi, including [[bloomfield-asterophora-and-mycoparasites-of-fruiting-bodies]] grow within the affected
 tissue, helping distinguish fungal from other causes.
 
 ### Environmental Causes
@@ -56,19 +45,12 @@ To avoid temperature-stress spots, move HID lamps away from
 the garden canopy about 30 minutes before spraying so plants
 will not be too hot. Do not spray within four hours of turning
 lights off, as excess moisture sitting on foliage fosters
-[[brassinosteroid-fungal-growth-promotion]].
-
-### Control
-
-- Use fresh, sterile [[cervantes-green-algae-growing-medium]] with each crop
+[[cervantes-green-algae-growing-medium]] with each crop
 - Do not wet foliage when watering
 - Avoid overwatering and lower grow room
-  [[cervantes-nutrient-stock-solutions-concentrates]] and good
-  drainage to prevent nutrient buildup
-- Apply Serenade ([[bacillus-subtilis]]) against Brown Blight
+  [[bacillus-subtilis]]) against Brown Blight
 - Use biological controls including Bio-Fungus, RootShield,
-  Supresivit, Trichopel ([[trichoderma-harzianum]]), or SoilGuard
-  ([[trichoderma-virens]])
+  Supresivit, Trichopel ([[trichoderma-virens]])
 - Bordeaux mixture can stop fungal blights when applied early
 - Stopping blights in advanced stages is difficult; the best
   solution is to remove diseased plants and destroy them
@@ -118,8 +100,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[brassinosteroid]]
 - [[trichoderma]]
-- [[cervantes-downy-mildew-fungal-blight]]
 - [[fungal-fruit-tree-diseases]]
 - [[fungal-diversity-leaf-litter-coarse-woody-debris]]

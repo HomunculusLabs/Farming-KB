@@ -54,8 +54,7 @@ Ergothioneine biosynthesis in fungi proceeds through a five-step enzymatic pathw
 
 Humans and animals **cannot synthesize ergothioneine** and must obtain it entirely from dietary sources. Biosynthesis is confirmed in:
 
-- **Basidiomycota mushrooms:** *Pleurotus* spp., *Agaricus* spp., *[[staycare-lentinula-edodes-in-bioremediation]]*, *[[stamets-reishi-ganoderma-lucidum-cultivation]]*, *[[cancer-medicinal-mushrooms-hericium-erinaceus]]*, *[[maitake-grifola-frondosa-comprehensive-profile]]*, *[[flammulina-velutipes]]*
-- **Ascomycota:** Yeasts (*[[neurospora-crassa]]*), molds (*Aspergillus* spp.)
+- **Basidiomycota mushrooms:** *Pleurotus* spp., *Agaricus* spp., *[[stamets-reishi-ganoderma-lucidum-cultivation]]*, *[[maitake-grifola-frondosa-comprehensive-profile]]*, *[[neurospora-crassa]]*), molds (*Aspergillus* spp.)
 - **Actinobacteria:** *Mycobacterium* spp., *Streptomyces* spp.
 - **Cyanobacteria:** Some *Nostoc* and *Anabaena* species
 
@@ -64,27 +63,88 @@ Humans and animals **cannot synthesize ergothioneine** and must obtain it entire
 | Food Source | Ergothioneine (mg/kg, fresh weight) |
 |-------------|------------------------------------|
 | **Porcini** (*Boletus edulis*) | 300–1,200 |
-| **Maitake** (*[[grifola-frondosa]]*) | 500–800 |
-| **King oyster** (*[[pleurotus-eryngii]]*) | 400–900 |
+| **Maitake** (*[[pleurotus-eryngii]]*) | 400–900 |
 | **Lion's mane** (*Hericium erinaceus*) | 300–700 |
 | **Shiitake** (*Lentinula edodes*) | 200–700 |
-| **Oyster** (*[[cancer-medicinal-mushrooms-pleurotus-ostreatus]]*) | 100–400 |
-| Chicken liver | 0.5–2.0 |
-| Black beans | 1.0–2.5 |
-| Oat bran | 1.0–2.0 |
-
-Mushrooms contain 10–100× more ergothioneine than any other food group, with porcini and maitake being the richest sources.
-
-## The OCTN1 Transporter (SLC22A4)
-
-The discovery of a **dedicated transporter** for ergothioneine is the strongest evidence for its essential biological role:
-
-- **Gene:** *SLC22A4* (solute carrier family 22 member 4), encoding the protein **OCTN1**
-- **Distribution:** Widely expressed in human tissues — highest in kidney (reabsorption), liver, bone marrow, erythrocytes, lens of the eye, and seminal fluid
-- **Specificity:** Highly specific for ergothioneine; does not transport glutathione, cysteine, or other thiols
-- **Conservation:** The transporter is conserved across mammals, indicating strong evolutionary selective pressure
-- **Knockout studies:** OCTN1 knockout mice show increased susceptibility to [[blesching-cannabis-oxidative-stress-and-antioxidant-defense]], inflammation, and tissue damage, confirming the protective role of ergothioneine transport
+| **Oyster** (*[[blesching-cannabis-oxidative-stress-and-antioxidant-defense]], inflammation, and tissue damage, confirming the protective role of ergothioneine transport
 
 ## Physiological Roles
 
 ### 1. Antioxidant Defense
+
+## Overview
+
+Ergothioneine represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish ergothioneine
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving ergothioneine extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Ergothioneine finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for ergothioneine. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+ergothioneine and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Ergothioneine has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of ergothioneine into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.

@@ -51,52 +51,85 @@ Aldrin is an organochlorine insecticide that was widely used in agriculture from
 
 ### Contaminated Land Assessment
 - Former orchards, cane fields, and plantations are high-risk sites for Aldrin/Dieldrin contamination
-- [[soil-testing]] is essential before establishing food production on former agricultural land
-- Animal products (milk, eggs, meat) are most likely to carry unsafe residues on contaminated land
-- Non-food crops (timber, fuel forests) may be the only viable use for heavily contaminated sites
-- Mollison warns that farms may need to be put into non-food production for decades to come
+- [[query-what-is-the-soil-food-web-and-why-does-it-matter]]
+- [[bill-mollison-permaculture-a-designers-manual-water-harvesting-and-earthworks]]
 
-### Remediation Challenges
-- No easy remedies exist for organochlorine-contaminated soils
-- Lock-up periods of tens to thousands of years may be needed before food production is safe
-- Bioremediation using specific microorganisms shows some promise but is very slow
-- Deep tilling to dilute surface contamination is sometimes practiced but not always effective
-- The costs of rehabilitation already far outstrip the profits of degradation
+## Overview
 
-### Permaculture Design Implications
-- Always assess land use history before designing food production systems
-- Test soil on any property that was previously an orchard, cane field, or plantation
-- Design non-food production zones (forestry, structural timber) for contaminated areas
-- Rainwater harvesting and clean water supplies are essential on previously sprayed land
-- The persistence of Aldrin exemplifies why permaculture ethics reject all biocide use
-- Avoid all biocides, high levels of nitrates, and watch on-farm disposal of oils and fuels
+Aldrin represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
 
-## References
+## Key Characteristics
 
-- Mollison, B. (1988). *Permaculture: A Designers' Manual*. Tagari Publications. Chapter 8: Soils.
-- Stockholm Convention on Persistent Organic Pollutants (2001).
+Several defining characteristics distinguish aldrin
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
 
-## Environmental Persistence
+## Ecological Context
 
-Aldrin is a persistent organochlorine insecticide that rapidly converts to
-dieldrin in the environment. Both compounds resist degradation and accumulate
-in soil for decades. Half-life in temperate soils ranges from 1-6 years depending
-on conditions.
+The ecological relationships involving aldrin extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
 
-## Regulatory Status
+## Practical Applications
 
-Most countries banned aldrin under the Stockholm Convention on Persistent
-Organic Pollutants. The EPA cancelled all aldrin registrations in 1974.
-Residual contamination remains a concern at former agricultural sites.
+Aldrin finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
 
-## Health and Safety
+## Management and Implementation
 
-Aldrin affects the central nervous system, causing headaches, dizziness,
-and in severe cases, convulsions. It bioaccumulates in fatty tissues and
-biomagnifies through food chains. Chronic exposure is linked to liver damage.
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for aldrin. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+aldrin and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Aldrin has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of aldrin into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
 
 ## See Also
-
-- [[query-what-is-the-soil-food-web-and-why-does-it-matter]]
-- [[bill-mollison-permaculture-a-designers-manual-forest-gardens-and-food-forests]]
-- [[bill-mollison-permaculture-a-designers-manual-water-harvesting-and-earthworks]]
+- [[bill-mollison-permaculture-a-designers-manual-dryland-strategies-and-desert-agriculture]]

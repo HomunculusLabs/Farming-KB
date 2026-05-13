@@ -23,26 +23,11 @@ A comprehensive comparison of two premier subtropical food forest trees for perm
 
 ## Overview
 
-Both avocado (*Persea americana*) and mango (*[[integrated-pest-management]] and good airflow through pruning are key for both.
-
-### Permaculture Integration
-
-**Avocado strengths:** Dense [[dighton-fungal-decomposition-leaf-litter-dynamics]] for mulch, windbreak potential, pairs well with citrus, banana, and [[comparison-cassava-vs-taro-vs-sweet-potato-vs-yam]] guilds. Shade-tolerant understory plants thrive beneath avocado canopy.
-
-**Mango strengths:** Deep root architecture brings up minerals, pruned wood is excellent fuel or biochar feedstock, tolerant of polyculture settings, interplants well with leguminous trees (e.g., *Leucaena*, *Gliricidia*) for nitrogen support.
-
-### Container Growing
-
-Both can be grown in containers using dwarf or semi-dwarf cultivars. Avocados are somewhat easier to manage in pots due to their smaller mature size in dwarf forms. Mangoes need larger containers (100L+) and still require warm conditions to thrive. Container growing of either species is best for patios, urban food forests, and regions where in-ground planting would risk winter losses.
-
-### Propagation
-
-Grafting is the standard for both commercial and homestead planting, ensuring true-to-type fruit and earlier bearing. Avocado rootstocks are typically grown from seed (Mexican race for cold tolerance, West Indian for [[fungal-salt-tolerance-and-ion-homeostasis]]). Mango propagation uses veneer grafting or cleft grafting onto seedling rootstock. Both are achievable with basic grafting skills, making them accessible to homesteaders.
+Both avocado (*Persea americana*) and mango (*[[dighton-fungal-decomposition-leaf-litter-dynamics]] for mulch, windbreak potential, pairs well with citrus, banana, and [[fungal-salt-tolerance-and-ion-homeostasis]]). Mango propagation uses veneer grafting or cleft grafting onto seedling rootstock. Both are achievable with basic grafting skills, making them accessible to homesteaders.
 
 ### Pollination Considerations
 
-Avocado flowers exhibit a unique synchronous dichogamy pattern — Type A and Type B varieties open their flowers at different times of day. Planting both types in a food forest can significantly boost fruit set, though many varieties are partially self-fertile in warm climates with abundant pollinators. Bees are the primary pollinators, so maintaining healthy [[food-forest]]
-- [[homesteading]]
+Avocado flowers exhibit a unique synchronous dichogamy pattern — Type A and Type B varieties open their flowers at different times of day. Planting both types in a food forest can significantly boost fruit set, though many varieties are partially self-fertile in warm climates with abundant pollinators. Bees are the primary pollinators, so maintaining healthy [[homesteading]]
 ## Practical Considerations
 
 When working with Avocado Cultivation vs Mango Cultivation, several practical factors should be

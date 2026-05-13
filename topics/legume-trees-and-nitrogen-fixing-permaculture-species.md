@@ -39,41 +39,7 @@ Legume trees (family Fabaceae, subfamily Faboideae and Mimosoideae) are among th
 
 - **Hardiness**: USDA 9b–12; frost-tender
 - **Growth**: Extremely fast (2–4 m/year); matures at 3–5 years
-- **Uses**: Fodder (18–28% protein), firewood (high BTU), green manure, alley cropping, [[permplant-willows-salix-erosion-control-fodder]]
-- **N-fixation**: 100–500 kg N/ha/year — among the highest of any tree
-- **Nitrogen content**: Foliage contains 3.0–4.5% N on dry weight basis
-- **Pitfalls**: Can become invasive; psyllid insect (*Heteropsylla cubana*) can defoliate stands; mimosine toxicity in unadapted ruminants
-- **Best varieties**: KX2, K8 (psyllid-resistant, low-mimosine hybrids)
-- **Establishment**: Direct seed at 10,000–20,000 seeds/ha or plant seedlings; inoculate with specific *Rhizobium* strain (e.g., CB3060)
-
-#### Gliricidia (*Gliricidia sepium*)
-
-- **Hardiness**: USDA 9b–12
-- **Growth**: Fast (2–3 m/year); excellent coppicer
-- **Uses**: Living fences, fodder (20–30% protein), shade for coffee/cacao, green manure, rat poison (seeds contain coumarin)
-- **N-fixation**: 50–200 kg N/ha/year
-- **Advantages**: Tolerates acid soils, drought, and heavy pruning; establishes easily from cuttings
-- **Pruning**: Can be cut 4–6 times per year in humid tropics
-- **Companion crops**: Excellent overstory for shade-loving crops; used widely in tropical alley cropping with maize, cassava, and taro
-
-#### Calliandra (*Calliandra calothyrsus*)
-
-- **Hardiness**: USDA 10–12
-- **Growth**: Fast; multi-stemmed shrub/small tree to 8 m
-- **Uses**: Fodder (goats, rabbits), green manure, erosion control on slopes, bee forage
-- **N-fixation**: 40–100 kg N/ha/year
-- **Advantages**: Shade-tolerant (establishes under other trees), good on steep slopes, palatable to livestock
-- **Limitations**: Moderate frost sensitivity; tannin content can reduce protein digestibility if fodder is sole diet
-
-#### Acacia Species
-
-Multiple *Acacia* species serve permaculture roles across climate zones:
-
-- ***Acacia nilotica*** (babul): arid-zone-permaculture-strategies-mollison, nitrogen-fixing, pods for fodder, excellent firewood and charcoal
-- ***Acacia senegal***: Source of gum arabic; drought-hardy; provides income from resin
-- ***Acacia mangium***: Fast-growing timber for humid tropics; pulpwood and reforestation
-- ***Acacia koa***: Hawaiian endemic; premium timber; nitrogen-fixing pioneer on volcanic soils
-- **General traits**: Deep taproots, [[dighton-fungal-drought-tolerance-plant-water-relations]], wildlife habitat; many produce edible seeds or gum
+- **Uses**: Fodder (18–28% protein), firewood (high BTU), green manure, alley cropping, [[dighton-fungal-drought-tolerance-plant-water-relations]], wildlife habitat; many produce edible seeds or gum
 
 #### Sesbania (*Sesbania grandiflora* — Hummingbird Tree)
 
@@ -92,30 +58,7 @@ Multiple *Acacia* species serve permaculture roles across climate zones:
 - **Growth**: Moderate; deep taproot (documented to 50+ meters) allows survival in extreme drought
 - **Uses**: Edible pods (ground into flour — 15–25% sugar, 12–16% protein), firewood (excellent BTU), charcoal, fencing, wildlife habitat
 - **N-fixation**: 20–60 kg N/ha/year; less than tropical species but significant for arid systems
-- **Soil improvement**: Drops nitrogen-rich [[leaf-litter-microfungal-diversity-tropical-temperate]]; increases soil organic matter and nitrogen under canopy ("fertile islands")
-- **Pitfalls**: *P. juliflora* is one of the world's worst invasive species in Africa, Australia, and parts of Asia; use native *Prosopis* species when possible
-- **Pod processing**: Pods can be milled into sweet, gluten-free flour; traditional food source across the Americas
-- **Thorns**: Most species are thorny; thornless cultivars exist for some species
-
-#### Carob (*Ceratonia siliqua*)
-
-- **Hardiness**: USDA 9–11; tolerates 100°C summer heat and -7°C winter cold
-- **Growth**: Slow to moderate; long-lived (100+ years); matures at 5–7 years for first pods
-- **Uses**: Edible pods (carob/ceratonia — chocolate substitute), fodder, shade, ornamental
-- **N-fixation**: 15–40 kg N/ha/year; moderate but consistent
-- **Advantages**: Extremely drought-tolerant once established; salt-tolerant; fire-resistant (thick bark); no serious pests
-- **Yield**: 80–200 kg pods/tree/year at maturity
-- **Nutrition**: Pods are 40–50% sugar, 5–10% protein; contain B vitamins, calcium, iron
-- **Propagation**: Typically grafted (seedlings variable and may produce inferior pods); scarification required for seed germination
-- **[[comparison-companion-planting-reference-vs-jadam-monoculture-critique]]**: Understory of [[query-best-mediterranean-herbs-for-beginner-herb-garden]] (rosemary, thyme, lavender), grapes, olives
-
-### Temperate Species
-
-#### Black Locust (*Robinia pseudoacacia*)
-
-- **Hardiness**: USDA 3–9; very cold-tolerant
-- **Growth**: Very fast (1.5–3 m/year); coppices vigorously on 5–10 year rotations
-- **Uses**: Premium rot-resistant timber (fence posts last 50+ years in ground), firewood (highest BTU of any [[growing-gourmet-north-american-reishi-species]] hardwood), bee forage (major honey source), erosion control
+- **Soil improvement**: Drops nitrogen-rich [[comparison-companion-planting-reference-vs-jadam-monoculture-critique]]**: Understory of [[growing-gourmet-north-american-reishi-species]] hardwood), bee forage (major honey source), erosion control
 - **N-fixation**: 30–150 kg N/ha/year; most productive temperate N-fixer
 - **Wood quality**: Exceptionally hard, rot-resistant, and strong; used for outdoor furniture, decking, and structural posts
 - **Pitfalls**: Aggressive spread via root suckers; thorny; toxic leaves and bark (robinetin); can form monocultures
@@ -135,5 +78,5 @@ Multiple *Acacia* species serve permaculture roles across climate zones:
 - [Nitrogen-Fixing Bacteria and [[biological-nitrogen-fixation-agriculture]] Fixation](/wiki/topics/nitrogen-fixing-bacteria-and-biological-nitrogen-fixation)
 - [Black Locust vs Honey Locust](/wiki/comparisons/comparison-black-locust-vs-honey-locust)
 - [Agroforestry and Alley Cropping](/wiki/topics/agroforestry-and-alley-cropping)
-- [[carbon-farming-and-climate-resilient-agriculture]] and [[query-how-can-i-design-a-climate-resilient-food-forest]] Agriculture](/wiki/topics/carbon-farming-and-climate-resilient-agriculture)
+- [[query-how-can-i-design-a-climate-resilient-food-forest]] Agriculture](/wiki/topics/carbon-farming-and-climate-resilient-agriculture)
 - [Desert and Arid Lands Permaculture](/wiki/topics/desert-and-arid-lands-permaculture)

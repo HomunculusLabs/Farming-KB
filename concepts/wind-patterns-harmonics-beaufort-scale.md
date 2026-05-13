@@ -8,13 +8,7 @@ type: concept
 
 ## Overview
 
-Wind is both one of the most powerful forces shaping landscapes and one of the most challenging elements for [[permaculture]] designers to manage. Unlike precipitation and temperature, wind offers the least potential for storage or generation, but its behaviour can be significantly modified on-site through windbreaks, shelterbelts, and strategic landform design. Understanding wind direction, speed categories, seasonal patterns, and the phenomenon of wind harmonics is essential for productive site design.
-
-## Wind Speed Categories and Effects
-
-### The Beaufort Scale
-
-The [[beaufort-scale]] is the standard system for reporting wind speed and its effects:
+Wind is both one of the most powerful forces shaping landscapes and one of the most challenging elements for [[beaufort-scale]] is the standard system for reporting wind speed and its effects:
 
 | Beaufort No. | Knots | km/h | MPH | Description | Effect |
 |---|---|---|---|---|---|
@@ -141,3 +135,11 @@ The **chill factor**—the removal of heat from surfaces and evaporation of flui
 - Retards plant growth
 - Lowers efficiency of solar devices and insulation
 - Is the primary mechanism making wind exposure a design concern even in warm climates
+
+## See Also
+
+- [[coastal-windbreak-systems-and-plant-wind-tolerance]]
+- [[wind-power-basics]]
+- [[coleman-greenhouse-orientation-site-selection-wind-protection-coleman]]
+- [[holmgren-wind-power-and-renewable-energy-debate]]
+- [[coleman-cold-house-wind-protection-microclimate]]

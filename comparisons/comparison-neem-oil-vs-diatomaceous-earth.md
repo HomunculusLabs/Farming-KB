@@ -13,17 +13,11 @@ type: comparison
 ## Overview
 
 Neem oil and diatomaceous earth are two of the most widely used organic pest
-control products in [[query-how-does-no-till-cannabis-cultivation-work]].
-
-Both are derived from natural sources and are approved for use in organic
-growing systems, but they work through fundamentally different mechanisms.
-
-[[diatomaceous-earth-cannabis]] is a mechanical pesticide that physically
+control products in [[diatomaceous-earth-cannabis]] is a mechanical pesticide that physically
 damages pest exoskeletons through abrasive contact with sharp silica particles.
 
 Understanding these differences is critical for choosing the right tool for
-specific pest problems and for building an effective [[azadirachta-indica]]), a
-fast-growing evergreen native to the Indian subcontinent and [[psilocybe-southeast-asia-pacific]].
+specific pest problems and for building an effective [[psilocybe-southeast-asia-pacific]].
 
 The primary active compound in cold-pressed neem oil is azadirachtin, a complex
 limonoid tetranortriterpenoid that disrupts insect hormone systems.
@@ -41,13 +35,7 @@ while the azadirachtin disrupts their endocrine system, providing a dual mode
 of action against susceptible pests.
 
 Neem also possesses fungistatic properties and is effective at suppressing
-[[cervantes-powdery-mildew-prevention-treatment]] when applied early in an infection cycle, though it is not a
-true fungicide and cannot cure established powdery mildew infections.
-
-Neem oil can be applied as a soil drench for systemic protection. When roots
-absorb the active compounds, they are distributed throughout the plant vascular
-system, providing internal protection against chewing and sucking insects.
-This systemic action is particularly valuable during the [[comparison-cannabis-vegetative-stage-vs-flowering-stage]] when
+[[comparison-cannabis-vegetative-stage-vs-flowering-stage]] when
 plants actively translocate nutrients to new growth tips and developing foliage.
 
 Important considerations for neem oil use include avoiding application during
@@ -122,20 +110,6 @@ application and when powdery mildew suppression is also needed.
 Choose diatomaceous earth when targeting soil-dwelling and crawling pests,
 particularly fungus gnats at the larval stage and during adult emergence.
 
-DE is ideal for dry environments and grow rooms with [[pf-tek-low-humidity-symptoms-and-remediation]] where the
-powder will remain effective between waterings without reapplication.
-
-## Hybrid Approaches
-
-Many organic cannabis growers use both products in a complementary IPM
-program. DE is applied to the soil surface to create a physical barrier
-against crawling pests, while neem foliar sprays address foliage-feeding
-insects and provide mildew suppression simultaneously.
-
-Rotating between neem oil and other organic sprays like insecticidal soap or
-potassium bicarbonate prevents pest resistance from developing over time.
-## See Also
-
-- [[comparison-neem-oil-cannabis-vs-diatomaceous-earth-cannabis]]
+DE is ideal for dry environments and grow rooms with [[comparison-neem-oil-cannabis-vs-diatomaceous-earth-cannabis]]
 
 - [[comparison-white-rot-vs-brown-rot-bioremediation]]

@@ -62,15 +62,7 @@ treatments, though liver transplantation may be required in severe cases.
 ## Gyromitrin and False Morel Poisoning
 
 Not all deadly mushroom toxins are amatoxins. The false morel,
-[[gyromitra-esculenta]], contains gyromitrin, which is hydrolyzed in the
-body to monomethylhydrazine — the same compound used as rocket fuel.
-This toxin causes hemolysis, seizures, and liver damage. Unlike amatoxin
-poisoning, gyromitrin toxicity has a shorter latency period, typically
-manifesting within 2 to 6 hours of ingestion.
-
-## Orellanine — The Insidious Kidney Destroyer
-
-Cortinarius species, particularly [[cortinarius-orellanus]] and
+[[cortinarius-orellanus]] and
 C. speciosissimus, contain orellanine, a toxin that causes delayed
 renal failure. Symptoms may not appear for 2 to 14 days after ingestion,
 and by the time kidney dysfunction is detected, the damage is often
@@ -87,28 +79,12 @@ The symptoms appear relatively quickly, within 30 minutes to 2 hours.
 Despite its fearsome reputation and dramatic appearance, fly agaric
 is rarely fatal.
 
-[[clitocybe-dealbata]] and Inocybe species contain muscarine, which
-stimulates muscarinic receptors to produce sweating, salivation,
-lacrimation, blurred vision, and bradycardia. Unlike atropine
-poisoning, muscarine poisoning features pinpoint pupils rather than
-dilated ones. Atropine is the specific antidote.
-
-## Hallucinogenic Mushrooms
-
-Psilocybin-containing mushrooms, primarily Psilocybe species, contain
-the indole alkaloids [[hplc-analysis-of-psilocybin-and-psilocin]]. These compounds are
+[[hplc-analysis-of-psilocybin-and-psilocin]]. These compounds are
 structurally similar to serotonin and act as partial agonists at
 5-HT2A receptors, producing altered perception, visual hallucinations,
 and changes in mood and cognition. While rarely dangerous physically,
 the psychological effects can be overwhelming, particularly at high
-doses, and the primary risk lies in [[psilocybin-accidental-ingestion-australia]] of toxic
-look-alikes rather than the psilocybin itself.
-
-## Identification Challenges
-
-The fundamental difficulty in preventing mushroom poisoning lies in the
-fact that deadly species often closely resemble edible ones. The death
-cap resembles the edible paddy [[paddy-straw-mushroom-volvariella-volvacea-cultivation]] volvacea in
+doses, and the primary risk lies in [[paddy-straw-mushroom-volvariella-volvacea-cultivation]] volvacea in
 tropical regions, and can be confused with edible Agaricus species in
 temperate climates. The destroying angel resembles numerous white
 mushrooms that are harmless.
@@ -123,7 +99,5 @@ features.
 
 ## See Also
 
-- [[bloomfield-basidiomycete-biology-overview]]
 - [[bloomfield-what-lies-beneath-mycelial-architecture-hyphal-biology-subterranean-fungus]]
-- [[bloomfield-mushroom-formation-fruiting-body-development-cultivation]]
 - [[bloomfield-mushroom-formation-hyphal-construction-no-meristems]]

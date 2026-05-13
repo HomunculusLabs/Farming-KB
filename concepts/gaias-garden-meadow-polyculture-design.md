@@ -7,7 +7,7 @@ topics: polyculture, garden-design, succession, interplanting, permaculture
 
 # Ecological Polyculture: The Meadow Garden Method
 
-One of the most compelling demonstrations in [[sheet-composting]] or [[cover-crop]]; attracts pollinators; suppresses
+One of the most compelling demonstrations in [[cover-crop]]; attracts pollinators; suppresses
   weeds; accumulates phosphorus
 
 ### Phase 5: Late Season (Summer into Fall)
@@ -26,8 +26,7 @@ Each plant serves multiple functions:
 - **Parsnips** send deep taproots to access subsoil nutrients
 - **Calendula** repels pests, attracts pollinators, provides medicine
 - **Lettuce** provides rapid leaf canopy that suppresses weeds
-- **Fava beans** [[query-how-to-fix-nitrogen-toxicity-in-cannabis]], provide protein-rich food
-- **Buckwheat** provides fast cover, attracts [[comparison-beneficial-insects-guide-vs-integrated-pest-management]], accumulates
+- **Fava beans** [[comparison-beneficial-insects-guide-vs-integrated-pest-management]], accumulates
   phosphorus
 
 ### Temporal Stacking
@@ -40,26 +39,7 @@ The dense, diverse planting creates its own checks and balances:
 - Pest outbreaks are limited by predator insects attracted by dill and
   buckwheat flowers
 - Weeds are suppressed by rapid canopy closure from lettuce and buckwheat
-- Soil fertility is maintained by fava bean [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]] and buckwheat
-  phosphorus accumulation
-- Moisture is conserved by continuous ground cover
-
-## Designing Your Own Polyculture
-
-### Step 1: Identify Functions Needed
-What does your garden need? Consider:
-- Nitrogen fixation
-- Deep soil breaking
-- Pollinator attraction
-- Pest deterrent properties
-- Ground cover for moisture retention
-- Food production at different seasons
-
-### Step 2: Select Multi-Function Plants
-Choose species that serve at least two functions each. Prioritize:
-- **Fast growers** for quick canopy closure
-- **Legumes** for nitrogen fixation
-- **Deep-rooted plants** for [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]]
+- Soil fertility is maintained by fava bean [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]]
 - **Flowering plants** for pollinator and predator attraction
 - **Edible plants** at multiple harvest times
 
@@ -76,17 +56,7 @@ or use shade intentionally to protect heat-sensitive crops.
 Hemenway also describes the Jajarkot polyculture from Nepal, which stacks
 even more species into a single bed:
 - **Treelike** — Fruit trees or support species
-- **Shrubby** — Berry bushes or [[succession-planting]]
-3. **Every plant should do multiple jobs** — If a plant only produces food,
-   it's underperforming in a polyculture
-4. **Let the system self-organize** — After initial establishment, the
-   polyculture largely manages itself
-5. **Observe and adapt** — Each site and climate produces different results;
-   modify the species mix based on your observations
-
-## See Also
-
-- [[gaias-garden-meadow-garden-polyculture]]
+- **Shrubby** — Berry bushes or [[gaias-garden-meadow-garden-polyculture]]
 
 ## Practical Applications
 
@@ -117,8 +87,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[det]]
 - [[composting]]
-- [[gaias-garden-meadow-garden-polyculture]]
 - [[gaias-garden-super-guild-design]]
 - [[gaias-garden-design-process]]

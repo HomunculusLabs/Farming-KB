@@ -1,5 +1,5 @@
 ---
-title: Yeast Biology Guide
+title: [[yeast-biology]] Guide
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
@@ -9,7 +9,7 @@ sources: []
 
 # Yeast Biology Guide
 
-Yeasts are single-celled fungi that reproduce primarily by budding (blastoconidia). While many fungal groups include yeast forms, the term "yeast" most commonly refers to members of [[ascomycete-phylum-guide]], particularly [[saccharomyces-cerevisiae]]. Yeasts are among the oldest domesticated organisms, with evidence of yeast use in fermentation dating back over 9,000 years.
+Yeasts are single-celled fungi that reproduce primarily by budding (blastoconidia). While many fungal groups include yeast forms, the term "yeast" most commonly refers to members of [[ascomycete-phylum-guide|Ascomycota]], particularly [[saccharomyces-cerevisiae]]. Yeasts are among the oldest domesticated organisms, with evidence of yeast use in fermentation dating back over 9,000 years.
 
 ## What is a Yeast?
 
@@ -85,7 +85,7 @@ Relies on wild yeasts present on fruit, in the winery/brewery, or in the environ
 - Traditional cider making
 
 ### Sourdough Yeasts
-Sourdough is a symbiotic culture of wild yeasts and [[bionutrients-lab-lactic-acid-bacteria-serum]] (LAB). The dominant yeast is typically Kazachstania exigua (formerly Saccharomyces exiguus) or Candida milleri, which coexists with Lactobacillus sanfranciscensis. These yeasts are acid-tolerant, allowing them to thrive in the sourdough environment alongside LAB.
+Sourdough is a symbiotic culture of wild yeasts and [[lactic-acid-bacteria]] (LAB). The dominant yeast is typically Kazachstania exigua (formerly Saccharomyces exiguus) or Candida milleri, which coexists with Lactobacillus sanfranciscensis. These yeasts are acid-tolerant, allowing them to thrive in the sourdough environment alongside LAB.
 
 ## Brewing Applications
 
@@ -117,7 +117,7 @@ Yeast in baking produces CO2 which leavens dough, creating the light, airy textu
 - Recombinant [[fungal-single-cell-protein-production]]: yeast is a preferred expression system for pharmaceuticals (insulin, hepatitis B vaccine, human serum albumin)
 - Nutritional supplements: inactive dry yeast (nutritional yeast) is rich in B vitamins and protein
 - [[marmite-yeast-extract-straw-substrate]]: used as flavor enhancer (Marmite, Vegemite) and growth medium supplement
-- Bioremediation: certain yeast species can biodegrade pollutants or accumulate heavy metals
+- Bioremediation: certain yeast species can biodegrade pollutants or accumulate [[fungal-biosorption-of-heavy-metals-by-filamentous-fungi]]
 
 ## Related
 

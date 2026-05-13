@@ -9,7 +9,7 @@ sources: []
 
 # Tomato Growing Guide
 
-Tomatoes ([[solanum-lycopersicum]]) are the most popular home garden crop. This guide covers the key distinctions between varieties, [[pruning-techniques-organic]], support systems, [[clubroot-disease-management]], and harvesting for maximum productivity.
+Tomatoes ([[solanum-lycopersicum]]) are the most popular home garden crop. This guide covers the key distinctions between varieties, pruning techniques, support systems, disease management, and harvesting for maximum productivity.
 
 ## Determinate vs. Indeterminate
 
@@ -36,7 +36,7 @@ Tomatoes ([[solanum-lycopersicum]]) are the most popular home garden crop. This 
 - Nighttime temperatures should be consistently above 50°F.
 - Plant deep: bury stem up to the first set of true leaves — tomatoes root from the stem. Up to 2/3 of the plant can be buried.
 - Space determinates 18-24 inches apart; indeterminates 24-36 inches apart (closer with trellising).
-- Add a handful of bone meal or rock phosphate to each planting hole.
+- Add a handful of bone meal or [[rock-phosphate]] to each planting hole.
 - Water in well with diluted compost tea or fish emulsion.
 - Install supports (stakes or cages) at planting time — root damage from later installation can set plants back.
 
@@ -88,7 +88,7 @@ Suckers are the small shoots that grow in the "V" between the main stem and a br
 - **Phosphorus**: Critical for flowering and fruit set — add bone meal at planting.
 - **Potassium**: Essential for fruit quality and disease resistance — kelp meal or wood ash.
 - **Calcium**: Prevents blossom end rot — gypsum or crushed eggshells.
-- Side-dress with compost or balanced [[complete-organic-fertilizer-cof]] when first fruits set.
+- Side-dress with compost or balanced organic fertilizer when first fruits set.
 - Avoid high-nitrogen liquid feeds after flowering begins.
 
 ## Watering
@@ -121,7 +121,7 @@ Suckers are the small shoots that grow in the "V" between the main stem and a br
 
 ### Blossom End Rot
 - Black sunken spot on blossom end of fruit.
-- Caused by [[knf-calcium-deficiency-symptoms]] or inconsistent watering (calcium cannot move through the plant).
+- Caused by calcium deficiency or inconsistent watering (calcium cannot move through the plant).
 - Prevention: consistent watering, adequate calcium (gypsum, eggshells), mulch.
 
 ## Harvesting

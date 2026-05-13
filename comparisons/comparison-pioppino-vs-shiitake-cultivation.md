@@ -20,29 +20,6 @@ mild, nutty flavor and fast colonization on hardwood substrates.
 
 ## Pioppino
 
-[[growing-gourmet-black-poplar-agrocybe-cultivation]]
-
-Pioppino is a saprophytic mushroom that grows naturally on hardwood
-stumps and woody debris, particularly cottonwoods, willows, poplars,
-and maples. It forms large clusters and can reach up to 12 inches in
-diameter. The cap is convex, yellowish-gray to tan, darkening toward
-the center, with a well-developed membranous ring on the white stem.
-
-Indoor cultivation uses supplemented oak or alder sawdust and chips in
-polypropylene bags or trays. Colonization is fast at 21-24°C. The
-species fruits readily after a simple cold shock or fresh air exchange,
-making it accessible to beginners. Primordia form in clusters along
-the substrate surface, and multiple flushes are common.
-
-Pioppino is an excellent candidate for stump recycling, particularly
-in the southeastern United States and southern Europe where it occurs
-naturally. Its mycelium colonizes deciduous wood debris rapidly and
-can be used for outdoor inoculations of freshly cut stumps. The flavor
-is mellow and attractive when young, making it popular in Italian and
-Mediterranean cuisine.
-
-## Shiitake
-
 [[cultivation-of-shiitake]]
 
 Shiitake is native to East Asia and has been cultivated on hardwood
@@ -138,8 +115,6 @@ dependency and multi-year timelines.
 
 ## See Also
 
-- [[comparison-oyster-vs-shiitake-cultivation]]
 - [[comparison-maitake-vs-shiitake-cultivation]]
-- [[comparison-pioppino-vs-oyster-cultivation]]
 - [[comparison-nameko-vs-pioppino-cultivation]]
 - [[medicinal-mushroom-guide-shiitake]]

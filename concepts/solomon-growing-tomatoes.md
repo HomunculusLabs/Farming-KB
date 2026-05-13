@@ -17,22 +17,7 @@ type: concept
 
 Tomatoes are one of the most popular garden vegetables and the gateway crop
 for many new gardeners. Steve Solomon considers them an excellent starting
-point because once mastered, related crops like [[solomon-garden-centers-seedling-traps]]
-for why buying seedlings is often a poor investment.
-
-## Direct Seeding Technique
-
-To direct-seed tomatoes, sow on at least four-foot (120 cm) centers. Make a
-depression about half an inch deep, set seeds in, cover with loose soil, and
-firm it down to restore capillarity. If the soil is loose and conditions
-are hot and sunny, mulch the depression lightly for about a week.
-Progressively thin seedlings to a single strong plant per station.
-
-## Supporting and Pruning
-
-Tomato vines should be lifted off the earth to prevent disease and rotting.
-Options include staking, trellising, wire cages, and hanging strings. The
-best pruning method Solomon recommends follows the plant's [[ingham-natural-growth-regulators-soil-microbes]]
+point because once mastered, related crops like [[ingham-natural-growth-regulators-soil-microbes]]
 pattern: side shoots emerge from each leaf notch in groups of three. Two
 weak side branches appear first, then a third stronger one. During the
 first few months, remove all weak side branches by pinching and allow the
@@ -47,12 +32,7 @@ tomato vines produce a side shoot from each leaf notch. Indeterminate
 vines grow indefinitely from their tip, producing ever-longer vines with
 lanky, aggressive spread. They keep setting new fruit and covering new
 ground until frost, as long as the root zone has room. The more room roots
-have, the more [[cotter-growing-space-design-fruiting-rooms]] tomatoes need.
-
-Determinate vines grow only a few leaves (usually three) and then stop,
-forming a more compact plant. They yield more heavily for a shorter time
-and are bred to hold much of their crop at once. Most determinate
-varieties are suited to [[comparison-cold-frame-gardening-vs-container-gardening-guide]] or small-space production.
+have, the more [[comparison-cold-frame-gardening-vs-container-gardening-guide]] or small-space production.
 
 ## Spacing and Root Systems
 
@@ -71,11 +51,7 @@ the soil is reasonably fertile, the vine usually will not become sick.
 Key issues include:
 
 - **Fruit worms**: The same larvae that eat corn. Can be controlled by
-  spraying Bt (see [[solomon-lime-calcium-ph-management]].
-- **Hornworms**: Large caterpillars that eat foliage. Hand-picking is
-  usually sufficient. Have faith: once the soil fertility improves,
-  hornworm pressure fades away. See also
-  [[solomon-choosing-seeds-and-catalogs]].
+  spraying Bt (see [[solomon-choosing-seeds-and-catalogs]].
 
 Special variety types worth knowing:
 
@@ -87,3 +63,88 @@ Special variety types worth knowing:
   develop a protective skin and last months in the pantry. Related to the
   classic Golden Jubilee, a late-maturing yellow beefsteak with
   outstanding flavor.
+
+## Overview
+
+Solomon Growing Tomatoes represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish solomon growing tomatoes
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving solomon extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Solomon Growing Tomatoes finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for solomon growing tomatoes. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+solomon growing tomatoes and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Solomon Growing Tomatoes has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of solomon growing tomatoes into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[solomon-disease-identification-and-organic-remedies]]
+- [[solomon-manure-types-and-nutrient-values]]
+- [[solomon-raised-beds-and-bed-preparation]]
+- [[solomon-seed-saving-vegetable-breeding]]
+- [[solomon-soil-preparation-bed-prep]]

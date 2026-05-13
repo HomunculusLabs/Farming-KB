@@ -14,77 +14,99 @@ sources:
   - Leafly Staff (2024). "Kush Mints Cannabis Strain Information."
     Leafly.com.
   - AllBud (2024). "Kush Mints Weed Strain." AllBud.com.
-  - query-sog-vs-scrog-cannabis-training-methods University (2023). "Top Mint [[cannabis-microbiome-otu-abundance-vs-presence-cannabis-strains]]."
-    CannabisTrainingUniversity.com.
-  - DGC Magazine (2023). "Kush Mints Strain Review." DGCmag.com.
----
-
-# Kush Mints
-
-**Kush Mints** is a potent indica-dominant hybrid cannabis strain
-created by crossing Bubba Kush with Animal Mints. Developed by the
-breeding team at Seed Junky Genetics, it has become one of the most
-sought-after strains in the modern premium cannabis market since its
-release in the late 2010s.
-
-The strain is renowned for its high THC content, complex minty and
-kush-forward [[cannabis-terpene-profile]], and deeply relaxing effects that blend
+  - query-sog-vs-scrog-cannabis-training-methods University (2023). "Top Mint [[cannabis-terpene-profile]], and deeply relaxing effects that blend
 body sedation with cerebral calm.
 
 Kush Mints has served as a foundational parent for numerous
 successful crosses, including Jet Fuel Gelato and Animal Mints,
-cementing its influence on contemporary West Coast [[oner-cannabis-breeding-fundamentals]].
+cementing its influence on contemporary West Coast [[oner-sativa-medical-applications]]:**
 
-## Strain Classification
-
-- **Type:** Indica-dominant hybrid (~70/30 indica/sativa)
-- **Lineage:** Bubba Kush × Animal Mints
-- **Breeder:** Seed Junky Genetics (JBeazy)
-- **THC content:** 18-24% (occasionally testing to 27%)
-- **CBD content:** Low (<1%)
-
-## Aroma and Flavor Profile
-
-Kush Mints delivers a distinctive aroma dominated by fresh mint and
-cool menthol, layered over earthy kush undertones and subtle coffee
-and chocolate notes inherited from the Bubba Kush lineage.
-
-- **Primary aromas:** Mint, menthol, earth, gas
-- **Secondary notes:** Coffee, chocolate, pine, vanilla
-- **Taste:** Cool mint on inhale with earthy, slightly sweet kush
-  flavor on exhale; smooth smoke with lingering menthol finish
-- **Smoke quality:** Dense and expanding; moderate cough factor
-
-## Terpene Profile
-
-| Terpene | Approximate Range | Primary Effect |
-|---------|-------------------|----------------|
-| Limonene | 0.5-1.2% | Mood elevation, stress relief |
-| β-Caryophyllene | 0.8-1.5% | Anti-inflammatory, pain relief |
-| Linalool | 0.4-1.0% | Relaxation, anxiolytic |
-| Myrcene | 0.3-0.8% | Sedation, muscle relaxation |
-| Humulene | 0.2-0.5% | Anti-inflammatory, appetite suppressant |
-| α-Pinene | 0.1-0.4% | Focus, bronchodilation |
-
-The combination of limonene and linalool with high myrcene creates
-the strain's characteristic relaxed-yet-functional effect profile.
-
-## Effects and Pharmacology
-
-- **Onset:** Rapid, within 1-3 minutes of inhalation
-- **Duration:** 2-3 hours
-- **Primary effects:** Deep physical relaxation, cerebral calm,
-  euphoria, mood elevation
-- **Body effects:** Heavy body stone, muscle tension relief,
-  couch-lock at higher doses
-- **Cerebral effects:** Gentle uplifting head high that transitions
-  to sedation
-
-**[[oner-sativa-medical-applications]]:**
-
-- [[cannabis-chronic-pain-management]] (neuropathic and inflammatory)
-- Insomnia and [[cannabis-sleep-disorders-and-insomnia]]
+- [[cannabis-sleep-disorders-and-insomnia]]
 - Anxiety and stress relief
 - Muscle spasms and tension
-- [[cannabis-for-cachexia-and-appetite-stimulation]]
-- PTSD [[cannabis-cancer-symptom-management]]
+- [[cannabis-cancer-symptom-management]]
+
+## Overview
+
+Kush Mints represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish kush mints
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving kush extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Kush Mints finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for kush mints. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+kush mints and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Kush Mints has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of kush mints into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[banana-kush]]
+- [[hindu-kush]]
+- [[khalifa-kush]]
+- [[oner-mickey-kush-jack-ripper-sweet-irish-kush-subcool]]
+- [[purple-kush]]

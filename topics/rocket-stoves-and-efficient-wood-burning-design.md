@@ -15,23 +15,7 @@ sources:
 
 ## Introduction
 
-Rocket stoves are hyper-efficient, clean-burning wood combustion systems that use an insulated J-shaped (or L-shaped) combustion chamber to achieve near-complete fuel burn. Originally developed as [[mollison-designers-appropriate-technology-small-scale-tools]] for developing-world cooking, the design principles have been adapted into [[rocket-mass-heater-design]] heaters for space heating, water heating, and even [[biomass-compost-greenhouse-heating-systems]]. A well-built rocket stove can reduce wood consumption by 60–80% compared to conventional open fires or standard woodstoves, while producing dramatically less smoke and particulate emissions.
-
-The core innovation is the **insulated heat riser** — a vertical chimney section surrounding the combustion zone that creates strong draft, elevates combustion temperatures above 1000°C (1800°F), and burns off smoke and creosote that would otherwise escape as pollution. When coupled with thermal mass (as in a rocket mass heater), the system stores heat for hours after the fire goes out, providing steady, comfortable warmth from brief, intense burns.
-
-## Core Design Principles
-
-### The Six Principles of Clean-Burning Wood Combustion
-
-Larry Winiarski of the Aprovecho Research Center codified the design principles that underpin all rocket stove variants:
-
-1. **Insulate the combustion chamber** — The heat riser must be insulated from the surrounding structure. Refractory materials (ceramic fiber blanket, perlite-clay mix, pumice) keep combustion heat inside the chamber rather than conducting it into the bench or barrel. Higher internal temperatures mean cleaner, more complete combustion.
-
-2. **Keep the fire hot** — Small, hot fires burn cleaner than large, smoldering ones. Feed small-diameter wood (thumb-thick to wrist-thick) horizontally into the feed tube. The goal is a roaring, nearly smokeless flame, not a bed of coals.
-
-3. **Ensure a good draft** — The heat riser height, cross-sectional area, and chimney configuration must work together. A taller heat riser creates stronger draft. The cross-sectional area of the heat riser should be consistent throughout — any constrictions cause turbulence and backdrafting.
-
-4. **Preheat incoming air** — [[hemenway-cold-air-drainage-and-frost-management]] entering the feed tube chills the fire and creates smoke. In better designs, incoming combustion air passes alongside the hot combustion tunnel before entering the burn chamber, preheating to several hundred degrees.
+Rocket stoves are hyper-efficient, clean-burning wood combustion systems that use an insulated J-shaped (or L-shaped) combustion chamber to achieve near-complete fuel burn. Originally developed as [[rocket-mass-heater-design]] heaters for space heating, water heating, and even [[hemenway-cold-air-drainage-and-frost-management]] entering the feed tube chills the fire and creates smoke. In better designs, incoming combustion air passes alongside the hot combustion tunnel before entering the burn chamber, preheating to several hundred degrees.
 
 5. **Force gases to mix with flame** — The combustion tunnel should be of limited length (typically 2–4× the system's cross-sectional dimension) so that unburned gases don't escape before reaching the heat riser where secondary combustion occurs.
 
@@ -118,7 +102,7 @@ Disadvantages:
 
 ### Rocket Water Heaters
 
-Rocket stove combustion chambers plumbed into water heating systems. The exhaust passes through a thermosiphon loop or [[heat-exchanger-effectiveness-ntu]] before venting. Can provide domestic [[hot-water-and-hydrated-lime-substrate-treatment]] or hydronic heating. Requires careful design to avoid steam explosion risk — water must never be in direct contact with the combustion chamber.
+Rocket stove combustion chambers plumbed into water heating systems. The exhaust passes through a thermosiphon loop or [[hot-water-and-hydrated-lime-substrate-treatment]] or hydronic heating. Requires careful design to avoid steam explosion risk — water must never be in direct contact with the combustion chamber.
 
 ### Rocket Cookstoves with Oven
 

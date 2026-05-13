@@ -10,8 +10,7 @@ sources: []
 
 ## Overview
 
-Valerian ([[valeriana-officinalis]]) and echinacea
-([[echinacea-cultivation-and-medicinal-uses]]) are two of the most
+Valerian ([[echinacea-cultivation-and-medicinal-uses]]) are two of the most
 commercially important medicinal herbs in Western herbalism, yet they
 serve fundamentally different therapeutic purposes. Valerian is prized
 as a sedative and anxiolytic, targeting the nervous system to promote
@@ -22,31 +21,6 @@ but their active constituents, growing requirements, and clinical
 applications diverge sharply.
 
 ## Valerian
-
-[[valeriana-officinalis]]
-
-Valerian (Valeriana officinalis) is a perennial herb native to Europe
-and temperate Asia, growing 0.5 to 1.5 meters tall with hollow stems,
-pinnatisect leaves, and small fragrant white-to-pink flowers. The plant's
-medicinal value resides primarily in its root system — a thick rhizome
-with numerous fleshy secondary roots that develop a characteristic
-pungent odor when dried due to isovaleric acid content.
-
-Valerian's pharmacology centers on interaction with the GABA-A receptor.
-Key bioactive compounds include valerenic acid, valerenal, and
-valeranone, which modulate GABAergic neurotransmission to produce
-calming and sedative effects. The herb also contains iridoids, lignans,
-and flavonoids that contribute synergistically to its activity. Clinical
-trials have demonstrated modest improvements in sleep onset latency and
-sleep quality, though results are somewhat inconsistent across studies.
-
-The plant thrives in moist, nutrient-rich soils in partial shade to full
-sun, tolerating clay and seasonal waterlogging. Propagation is by seed
-(requiring cold stratification for four to eight weeks) or root division.
-Yields reach two to four kilograms of dried root per square meter,
-making it a productive crop for the medicinal herb grower.
-
-## Echinacea
 
 [[echinacea-cultivation-and-medicinal-uses]]
 
@@ -135,10 +109,7 @@ physiological systems.
 
 ## See Also
 
-- [[valeriana-officinalis]]
 - [[echinacea-cultivation-and-medicinal-uses]]
-- [[echinacea-purpurea]]
 - [[echinacea-angustifolia]]
-- [[comparison-valerian-vs-ashwagandha]]
 - [[comparison-valerian-vs-passionflower]]
 - [[comparison-arnica-vs-calendula]]

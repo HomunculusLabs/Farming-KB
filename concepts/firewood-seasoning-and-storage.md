@@ -3,7 +3,7 @@ title: Firewood Seasoning and Storage
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
-tags: [[homesteading]], homestead-crafts, preparation, storage, tools]
+tags: [homesteading, homestead-crafts, preparation, storage, tools]
 sources: []
 ---
 
@@ -26,12 +26,12 @@ BTU (British Thermal Unit) values are measured per cord (128 cubic feet) of drie
 | Birch (Yellow) | 21.8 | Moderate | 6-12 months |
 | Cherry | 20.0 | Moderate | 6-12 months |
 | Elm | 20.0 | Very hard | 12+ months |
-| [[black-walnut-juglans-nigra]] | 20.0 | Moderate | 12 months |
+| Black Walnut | 20.0 | Moderate | 12 months |
 
 **Softwoods (good for kindling and quick fires):**
 | Species | BTU per Cord (million) | Splitting Difficulty | Seasoning Time |
 |---|---|---|---|
-| [[douglas-fir]] | 21.3 | Moderate | 6-12 months |
+| Douglas Fir | 21.3 | Moderate | 6-12 months |
 | Pine (Ponderosa) | 16.2 | Easy | 6 months |
 | Cedar | 12.8 | Easy | 6 months |
 | Spruce | 14.5 | Easy | 6 months |
@@ -70,7 +70,7 @@ Aim for pieces 3-6 inches across the widest face. This size dries efficiently an
 
 The most common method. Wood is stacked in parallel rows with the ends visible.
 
-**[[arbuscular-mycorrhizal-inoculum-production-best-practices]]:**
+**Best practices:**
 - Stack on treated wood pallets or rails — never directly on dirt
 - Stack in single rows with 2-3 inches of space between for airflow
 - Cover only the top with a tarp — never wrap the sides
@@ -119,7 +119,7 @@ Wood must dry to below 20% moisture content for optimal burning. Target seasonin
 
 ## Using a Moisture Meter
 
-A pin-type moisture meter is the only reliable way to determine if wood is ready to burn. Relying on [[cannabis-harvest-timing-visual-cues]] (cracks, weight) is inaccurate.
+A pin-type moisture meter is the only reliable way to determine if wood is ready to burn. Relying on visual cues (cracks, weight) is inaccurate.
 
 **How to use:**
 - Push pins into the split face, not the bark side
@@ -141,9 +141,10 @@ Once wood is seasoned, store it:
 - Accessible in winter — plan your stacking location for snow access
 - Separate from green/seasoning wood to avoid confusion
 
-## Firewood Volume Measurements
+## See Also
 
-- **Cord:** 128 cubic feet (4x4x8 feet stacked)
-- **Face cord:** 4x8 feet, one-third the depth of a full cord (about 42 cubic feet)
-- **Rick:** Regional term, usually refers to a face cord
-- **Throw:** Loose-piled — about 40% less wood than a stacked cord by volume
+- [[knf-input-storage-guidelines]]
+- [[pf-tek-spore-syringe-boiling-sterilization-storage-lifecycle]]
+- [[coleman-post-harvest-handling-and-storage]]
+- [[mushroom-cultivator-harvesting-storage]]
+- [[infiltration-earthworks-water-storage]]

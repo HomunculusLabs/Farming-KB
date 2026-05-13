@@ -110,11 +110,7 @@ In botanical gardens, Campanula merxmuelleri is grown in only a handful of Europ
 
 ## See Also
 
-- [[campanula-persicifolia]]
 - [[campanula-rotundifolia]]
-- [[campanula-carpatica]]
 - [[campanula-portenschlagiana]]
-- [[campanula-alliariifolia]]
 - [[phyteuma-spicatum]]
-- [[jasione-perennis]]
 - [[physoplexis-comosa]]

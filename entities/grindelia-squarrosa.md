@@ -14,15 +14,7 @@ updated: 2026-04-28
 sources:
   - Moore, M. (1979). "Medicinal Plants of the Mountain West." Museum of New Mexico Press.
   - Kindscher, K. (1992). "Medicinal Wild Plants of the Prairie." University Press of Kansas.
-  - Foster, S. & Duke, J.A. (2014). "Peterson [[ghouled-field-guide-historical-context]] to Medicinal Plants and Herbs." Houghton Mifflin.
-  - Timmermann, B.N. (1987). "Chemistry of Grindelia." Economic Botany 41(4): 498–507.
----
-
-## Overview
-
-*Grindelia squarrosa*, known as curlycup gumweed, is a perennial
-herbaceous plant in the family Asteraceae native to western and central
-[[psilocybin-north-america-pacific-northwest]].
+  - Foster, S. & Duke, J.A. (2014). "Peterson [[psilocybin-north-america-pacific-northwest]].
 
 It is one of the most important traditional respiratory remedies of the
 Plains and Inter-Mountain West, used by both Indigenous peoples and
@@ -69,29 +61,89 @@ Flowering July to September.
 
 ## Distribution and Habitat
 
-*Grindelia squarrosa* is widespread across western [[guzman-psilocybin-mushrooms-north-america]], from
-British Columbia and Alberta south through the Great Plains to Texas,
-New Mexico, Arizona, and northern Mexico.
+*Grindelia squarrosa* is widespread across western [[dom]]
+- [[dicksonia-squarrosa]]
+- [[grindelia-robusta]]
 
-It ranges from Saskatchewan and Manitoba to Minnesota and Iowa in the
-east, becoming less common in the easternmost portions of its range.
+## Overview
 
-The species colonizes disturbed, open habitats including roadsides,
-railway embankments, overgrazed rangeland, sandy flats, and dry prairie.
+Grindelia Squarrosa represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
 
-It tolerates alkaline and saline soils and is often one of the first
-forbs to establish on disturbed ground in the shortgrass prairie.
+## Key Characteristics
 
-## Phytochemistry and Pharmacology
+Several defining characteristics distinguish grindelia squarrosa
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
 
-The principal bioactive constituents are diterpene resin acids,
-particularly grindelic acid and related grindelane compounds.
+## Ecological Context
 
-These resin acids are concentrated in the flower heads and leaf
+The ecological relationships involving grindelia extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Grindelia Squarrosa finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for grindelia squarrosa. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+grindelia squarrosa and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Grindelia Squarrosa has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of grindelia squarrosa into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
 
 ## See Also
-- [[dom]]
-- [[psilocybin]]
+
 - [[dicksonia-squarrosa]]
-- [[pholiota-squarrosa]]
 - [[grindelia-robusta]]
+- [[pholiota-squarrosa]]

@@ -49,17 +49,7 @@ The fruit consists of four nutlets (achenes), each approximately 5–6 mm long, 
 
 ## Distribution and Habitat
 
-Borage is native to the Mediterranean basin, including southern Europe, North Africa, and western Asia. It has been widely naturalized across temperate regions of Europe, [[psilocybin-north-america-pacific-northwest]], South America, and Australia.
-
-The species thrives in well-drained soils with full sun to partial shade. It is highly adaptable, growing in loamy, sandy, or clay soils with pH ranging from slightly acidic to alkaline (5.5–8.0).
-
-Borage readily self-seeds and can become persistent in gardens and disturbed sites. It is frequently found as a casual escape from cultivation along roadsides, in waste ground, and in field margins.
-
-The plant is frost-tolerant at the seedling stage and can be grown as a cool-season crop in mild climates. It performs best at temperatures between 15–25°C and requires moderate moisture.
-
-## Bioactive Compounds
-
-The primary bioactive constituents of borage are found in the seeds, which contain **gamma-linolenic acid (GLA)** at concentrations of 18–26% of total [[stable-carbon-isotope-signature-fatty-acids-mycorrhizal-carbon-tracking]]. GLA is a delta-6-desaturated derivative of linoleic acid and a precursor to dihomo-γ-linolenic acid (DGLA).
+Borage is native to the Mediterranean basin, including southern Europe, North Africa, and western Asia. It has been widely naturalized across temperate regions of Europe, [[stable-carbon-isotope-signature-fatty-acids-mycorrhizal-carbon-tracking]]. GLA is a delta-6-desaturated derivative of linoleic acid and a precursor to dihomo-γ-linolenic acid (DGLA).
 
 Additional seed constituents include linoleic acid (35–40%), oleic acid (15–20%), palmitic acid (10%), and stearic acid (3–5%). Minor compounds include tocopherols (vitamin E) and phytosterols.
 
@@ -67,12 +57,8 @@ The aerial parts contain **pyrrolizidine alkaloids (PAs)**, primarily lycopsamin
 
 Flowers contain anthocyanins, primarily delphinidin and cyanidin glycosides, responsible for the blue pigmentation. The leaves contain mucilage (approximately 8%), tannins, flavonoids, and ascorbic acid.
 
-The roots contain small quantities of allantoin, a compound with wound-healing properties also found in **[[euphrasia-officinalis]]
-
-- [[calendula-officinalis]] — companion plant with edible flowers and anti-inflammatory properties
-- [[ocimum-basilicum]] — culinary herb commonly companion-planted with borage
+The roots contain small quantities of allantoin, a compound with wound-healing properties also found in **[[calendula-officinalis]] — companion plant with edible flowers and anti-inflammatory properties
 - [[mentha-piperita]] — peppermint, a source of menthol with overlapping medicinal uses
-- [[stinging-nettle]] — nutrient-dense perennial with anti-inflammatory properties
 - [[tropaeolum-majus]] — nasturtium, an edible flower companion plant
 ## Practical Considerations
 
@@ -88,3 +74,77 @@ improve resilience and productivity over time.
 
 Continued development in this area promises new insights and
 improved approaches for both research and practical application.
+
+## Overview
+
+Borago Officinalis represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish borago officinalis
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving borago extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Borago Officinalis finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for borago officinalis. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+borago officinalis and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Borago Officinalis has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of borago officinalis into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource

@@ -8,7 +8,7 @@ sources: []
 ---
 # Cryptococcus Neoformans Pathogenesis
 
-[[cryptococcus-neoformans]] is an opportunistic [[alpha-1-3-glucan-fungal-pathogen-cell-walls]] that causes life-threatening
+[[alpha-1-3-glucan-fungal-pathogen-cell-walls]] that causes life-threatening
 meningoencephalitis, particularly in immunocompromised individuals. It is one of the most
 significant fungal killers worldwide, responsible for an estimated 200,000+ deaths annually,
 primarily among people living with HIV/AIDS.
@@ -76,16 +76,8 @@ selective advantage.
 - May present as pneumonia, lung nodules, or asymptomatic infection
 
 ### Cutaneous Cryptococcosis
-- Skin lesions that resemble molluscum contagiosum or other [[blesching-cannabis-dermatological-conditions]]
-- Often indicates disseminated disease
-
-## Diagnosis
-
-- **India ink stain:** Visualizes the capsule in cerebrospinal fluid (classic test)
-- **Cryptococcal antigen test (CrAg):** Detects capsular polysaccharide in serum or CSF —
-  highly sensitive and specific
-- **[[biodiversity-fungal-culture-preservation]]:** Gold standard but takes days to weeks
-- **PCR and [[biodiversity-of-fungi-pcr-molecular-methods-fungal-diversity]]:** Emerging [[fukuoka-textdoc-weeds-as-soil-diagnostic-tools-orchard-restoration]]
+- Skin lesions that resemble molluscum contagiosum or other [[biodiversity-fungal-culture-preservation]]:** Gold standard but takes days to weeks
+- **PCR and [[fukuoka-textdoc-weeds-as-soil-diagnostic-tools-orchard-restoration]]
 
 ## Treatment
 
@@ -118,8 +110,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[cryptococcus-neoformans]]
 - [[doc]]
-- [[dom]]
 - [[det]]
 - [[spore]]

@@ -10,18 +10,12 @@ sources:
 # JADAM Customized Microorganism Medium
 
 JADAM's approach to customized microorganisms is based on the principle that
-"that particular fruit has the best [[dighton-fungal-nutritional-composition-animal-diets]] for that fruit."
-Rather than buying commercial microbial products, JADAM farmers select and
-culture microorganisms from their own local environment and crop residues.
-
-## The Nutritional Perspective
-
-An egg is a [[fungal-single-cell-protein-production]] containing all nutrients needed to create life -- the
+"that particular fruit has the best [[fungal-single-cell-protein-production]] containing all nutrients needed to create life -- the
 "perfect food." Similarly, a fruit contains all the nutrients a seed needs to
 sprout and grow into a perfect plant. A fruit is the "egg" of a crop.
 
 This means:
-- To [[query-how-do-i-grow-tomatoes-in-a-greenhouse]], use [[jadam-liquid-fertilizer-nutritional-perspective]] made from tomatoes
+- To [[jadam-liquid-fertilizer-nutritional-perspective]] made from tomatoes
 - To grow strawberries, use strawberry liquid fertilizer
 - To grow melons, use melon liquid fertilizer
 - Fruit has exactly what that fruit needs
@@ -31,9 +25,7 @@ This means:
 ### General Method (Any Crop)
 1. Collect residues from your target crop during/after harvest
 2. Include diseased fruits -- do not worry about diseases
-3. Once [[leaf-mold-composting]]
-6. Put crop residues into water until container is full
-7. Close lid, leave at [[jadam-ambient-temperature-principle]]
+3. Once [[jadam-ambient-temperature-principle]]
 8. Time: **1+ month** (varies by material)
 
 ### Strawberry JLF
@@ -118,8 +110,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[composting]]
 - [[jadam-microorganism-grain-medium]]
-- [[jadam-customized-liquid-fertilizer]]
 - [[jadam-microorganism-diversity-over-disinfection]]
 - [[jadam-microorganism-solution-culturing]]

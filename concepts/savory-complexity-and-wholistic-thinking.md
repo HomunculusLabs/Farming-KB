@@ -16,75 +16,96 @@ type: concept
 
 # Complexity and Wholistic Thinking
 
-Allan Savory's [[savory-holistic-resource-management-animal-impact]] Management is built on the philosophical
-foundation of holism, the idea that wholes are greater than the sum of their
-parts and that the whole is the only reality in nature. This stands in direct
-opposition to the reductionist approach that has dominated Western science and
-resource management for centuries. Understanding this philosophical shift is
-essential to grasping why conventional management has failed and what makes
-the holistic approach fundamentally different.
-
-## The Reductionist Tradition
-
-Reductionist science seeks to understand wholes by reducing them to their
-component parts. In agriculture and resource management, this has led to
-specialization: soil scientists study only soil, plant scientists study only
-plants, animal scientists study only animals, and economists study only
-money. Each specialist tends to define their work entirely in terms of their
-technological tools, devoting their best energy to quick, unnatural answers
-that often achieve immediate results but at a cumulative social and
-environmental cost.
-
-The reductionist approach has produced remarkable technological advances,
-but it has also produced a dangerous blindness to the interconnected nature
-of ecosystems. Most of our most hazardous inventions have existed less than
-fifty years, and we must consider the evidence that mankind did remarkably
-well for many thousands of years using other tools for many of the same
-tasks. Our current use of technology expresses a mindset that considers only
-the problem at hand without thought of larger implications.
-
-## The Whole as the Only Reality
-
-Savory repeatedly emphasizes that in nature, the whole is the only reality
-and thus the only unit that can be managed. No amount of captive breeding,
-plantings, culling of predators, poisoning of competitors, or other narrowly
-focused actions will bring back a creature that has lost its niche. The only
-way to truly save any species is to manage for a healthy, whole ecosystem.
-
-This principle applies equally to human enterprises. A monoculture crop may
-appear profitable in gross margin analysis, but it damages the whole and
-will eventually fail. Management of a single resource without regard to the
-whole dooms that resource over time. The thin populations that hang on today
-amid the ruins of empires now lost to desert attest to the consequences of
-ignoring this principle.
-
-## The Challenge of Managing Complexity
-
-The natural world is astoundingly complex. Rangelands contain a tremendous
-variety of grasses, forbs, brush, and trees, all growing at different rates
-and responding differently to grazing, rainfall, and soil conditions. Wildlife
-interacts with livestock. Soil microorganisms [[query-how-do-fungal-volatile-compounds-affect-plant-growth-and-other-microorganisms]]. Water
-cycles connect to mineral cycles which connect to [[savory-energy-flow-and-solar-capture]]. No human mind
-can hold all these variables simultaneously.
-
-Savory adapted a military planning procedure from the Royal Military Academy
-at Sandhurst, England, to handle this complexity. The biological planning
-process, refined over close to thirty years by ranchers, farmers, foresters,
-tribal people, and others on three continents, provides a systematic way to
-manage many variables across large areas and long time periods without
-needing to hold them all in mind at once.
-
-## The Four Missing Keys to Understanding Complexity
-
-Savory identifies four concepts that were missing from our understanding of
-how natural systems function, and whose discovery opened the door to more
-effective management:
-
-1. **Holism**: The recognition that wholes must be managed as wholes, not as
-   collections of parts. See [[savory-brittleness-scale]].
+Allan Savory's [[query-how-do-fungal-volatile-compounds-affect-plant-growth-and-other-microorganisms]]. Water
+cycles connect to mineral cycles which connect to [[savory-brittleness-scale]].
 
 3. **Time**: The recognition that time governs the relationship between
    grazing animals and plants, and that overgrazing is a function of timing,
    not animal numbers. See [[savory-animal-impact-and-herd-effect]].
 
 ## From Parts to Wholes: The Testing Guidelines
+
+## Overview
+
+Savory Complexity And Wholistic Thinking represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish savory complexity and wholistic thinking
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving savory extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Savory Complexity And Wholistic Thinking finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for savory complexity and wholistic thinking. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+savory complexity and wholistic thinking and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Savory Complexity And Wholistic Thinking has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of savory complexity and wholistic thinking into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[savory-herd-composition-and-culling-strategies]]
+- [[savory-holistic-management-overview]]
+- [[savory-land-planning-and-grazing-cell-design]]
+- [[savory-mineral-cycle-management]]
+- [[savory-reductionist-vs-holistic-science]]

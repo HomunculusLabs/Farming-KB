@@ -18,25 +18,8 @@ type: concept
 
 ## Overview
 
-[[masanobu-fukuoka]]'s vision of "Farming for All," in which every household
-in Japan could be self-sufficient on a quarter-acre of land, collides with
-a dense web of agricultural and land-use laws that he argues were designed
-to serve the interests of the powerful rather than the people. In one of
-the most politically charged sections of "The Natural Way of Farming,"
-Fukuoka dissects the [[fukuoka-textdoc-postwar-japanese-agricultural-mechanization-collapse]] Land Law, the City Planning
-Law, and the National Land Use Law to show how [[permaculture-designers-manual-legal-structures]] that
-purport to protect farmland actually prevent ordinary citizens from
-acquiring land and returning to farming. This page examines his critique
-of Japanese land law and his argument that legal reform, not land
-scarcity, is the real barrier to agricultural self-sufficiency.
-
-## The Paradox of Land Scarcity
-
-Japan has about fifteen million acres of farming land, which works out to
-about a quarter-acre per adult. If Japan's land were divided evenly among
-twenty million households, this would give each household three quarters
-of an acre of farmland plus two and a half acres of mountain and meadow
-land. With total reliance on [[comparison-natural-farming-vs-permaculture]], all it takes to support a
+[[fukuoka-textdoc-postwar-japanese-agricultural-mechanization-collapse]] Land Law, the City Planning
+Law, and the National Land Use Law to show how [[comparison-natural-farming-vs-permaculture]], all it takes to support a
 household of several people is a quarter-acre. On this amount of land, one
 could build a small house, grow grains and vegetables, raise a goat, and
 even keep several chickens and a hive of bees.
@@ -118,8 +101,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[fukuoka-textdoc-agricultural-land-law-obstruction-return-farming]]
 - [[doc]]
-- [[permaculture]]
 - [[fukuoka-textdoc-farming-all-land-law-obstacles]]
 - [[fukuoka-dharmic-law-all-things-return-to-one]]

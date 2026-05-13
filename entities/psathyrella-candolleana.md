@@ -106,15 +106,9 @@ The genus Psathyrella has undergone significant taxonomic revision in recent dec
 
 ## See Also
 
-- [[coprinellus-micaceus]]
 - [[coprinus-comatus]]
-- [[panaeolus-fimicola]]
 - [[hypholoma-capnoides]]
-- [[agaricus-campestris]]
 - [[mycorrhizae]]
-- [[schizophyllum-commune]]
 - [[pleurotus-ostreatus]]
-- [[lycoperdon-perlatum]]
 - [[stropharia-rugosoannulata]]
-- [[flammulina-velutipes]]
 - [[boletus-edulis-entity]]

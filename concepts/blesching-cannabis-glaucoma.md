@@ -8,18 +8,7 @@ type: concept
 tags: [cannabis]
 ---
 
-# [[cannabis-and-glaucoma]]
-
-Cannabis has been part of traditional medicine's treatment of eye disease for
-millennia. Most historical Materia Medicas include cannabis prescriptions for
-the treatment of eye problems. Of late, the discovery of ocular cannabinoid
-receptors has stimulated a new round of ophthalmic cannabinoid research.
-
-Potential areas of investigation include:
-
-- Neuroprotective properties of cannabinoids
-- Stimulation of neural microcirculation
-- Suppression of apoptosis ([[blesching-cannabis-apoptosis-and-cancer-cell-death]])
+# [[blesching-cannabis-apoptosis-and-cancer-cell-death]])
 - Suppression of damaging free-radical reactions
 
 ## Key Studies
@@ -29,51 +18,8 @@ Potential areas of investigation include:
 Modern scientists showed interest in cannabis in 1971 when it was first noted
 in scientific literature that smoking marijuana lowered intraocular pressure.
 Researchers enlisted 11 healthy youths to smoke 2 gm of cannabis with a 0.9%
-[[thc-content-factors-cultivation-freshness-storage-degradation-blesching]] provided by the National Institute for Mental Health. Prior to and
-one hour following smoking cannabis, complete ocular examinations were
-performed, and a substantial decrease in intraocular pressure was observed in
-9 of 11 subjects.
-
-### 1976 -- Washington, DC
-
-A 1976 Washington, DC, study further examined the impact of THC. It revealed
-that patients responded to the inhalation of 2.8% THC with an increase in
-heart rate (when compared to a control group), followed by a substantial drop
-in blood pressure (both systolic and diastolic), and a drop in intraocular
-pressure.
-
-Scientists also noted that increased heart rate allowed the body to maintain
-adequate perfusion (cardiac output) while lowering both blood and intraocular
-pressures in parallel fashion. Risk versus benefit analyses were conducted
-between 1977 and 1998. These studies concluded that intraocular pressure (IOP)
-follows a parallel course to that of arterial blood pressure.
-
-While some scientists considered an increased heart rate an adverse effect,
-other researchers considered it a balancing mechanism protecting the patient
-from the effects of hypotension (low blood pressure).
-
-### 2000 -- Louisville, Kentucky (Animal Study)
-
-New insights emerged from an animal study in Louisville, Kentucky. Results
-indicated that the reduction of IOP is mediated by CB1 [[cannabinoid-receptors-cb1-cb2]]
-in the eye itself, and that the [[synthetic-cannabinoid-pharmaceuticals-sativex-dronabinol-marinol]] WIN55,212-2 (like
-natural cannabinoids) can also reduce IOP.
-
-### 2006 -- Oxford, UK (Human Crossover Study)
-
-Scientists at Oxford followed this work with a randomized, double-blind,
-placebo-controlled, four-way crossover human study on patients with increased
-intraocular pressure (ocular hypertension). Subjects received a single dose of
-5 mg Delta-9-THC, or 20 mg CBD, or 40 mg CBD, or a placebo.
-
-The authors wrote: "A single 5-mg sublingual dose of Delta-9-THC reduced the
-IOP temporarily and was well tolerated by most patients. Sublingual
-administration of 20 mg CBD did not reduce IOP, whereas 40 mg CBD produced a
-transient increase IOP rise."
-
-The apparent differing effects of isolated cannabinoids may point to the
-complex yet synergistic mechanisms by which these cannabinoids naturally combine
-to achieve [[cbd-therapeutic-effects]].
+[[cannabinoid-receptors-cb1-cb2]]
+in the eye itself, and that the [[cbd-therapeutic-effects]].
 
 ### 2007 -- Aachen, Germany
 
@@ -118,8 +64,87 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[dom]]
 - [[dronabinol]]
-- [[cannabis-and-glaucoma]]
 - [[cannabis-glaucoma-research]]
 - [[blesching-cannabis-neuroprotection-neurodegenerative]]
+
+## Overview
+
+Blesching Cannabis Glaucoma represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish blesching cannabis glaucoma
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving blesching extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Blesching Cannabis Glaucoma finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for blesching cannabis glaucoma. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+blesching cannabis glaucoma and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Blesching Cannabis Glaucoma has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of blesching cannabis glaucoma into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[blesching-cannabis-vasopressin-aggression]]

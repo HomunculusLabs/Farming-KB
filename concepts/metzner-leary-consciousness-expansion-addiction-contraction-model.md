@@ -1,24 +1,11 @@
 ---
 title: "Metzner Leary Consciousness Expansion Addiction Contraction Model"
 tags:
-  - contraction-expansion-addiction-model|consciousness]]
+  - contraction-expansion-addiction-model
   - addiction
   - psychedelics
   - leary
-  - [[metzner-addiction-transcendence-consciousness-expansion-as-antidote]]-consciousness-expansion-versus-contraction-addiction|metzner]]-consciousness-contraction-expansion-addiction-model|metzner]]
-  - psychospiritual
-date: 2026-04-28
-updated: 2026-04-28
-sources:
-  - metzner-addiction-transcendence-consciousness-expansion-as-antidote|metzner-consciousness-expansion-versus-contraction-addiction|metzner]]-consciousness-contraction-expansion-addiction-model|metzner]]_r-hallucinogenic_drugs_in_psychotherapyshamanism.md
----
-
-# Leary Consciousness Expansion and Addiction as Contraction
-
-The concept of consciousness expansion versus contraction provides a framework for
-understanding both psychedelic experience and addictive behavior as existing on a
-single continuum of awareness. Introduced by Timothy Leary and elaborated by Ralph
-[[metzner-addiction-transcendence-consciousness-expansion-as-antidote]]-consciousness-expansion-versus-contraction-addiction|metzner-consciousness-contraction-expansion-addiction-model|metzner, this model contrasts the broadened, flexible awareness characteristic
+  - [[metzner-addiction-transcendence-consciousness-expansion-as-antidote]]
 of psychedelic states with the narrowed, fixated awareness typical of narcotic
 addictions and obsessive-compulsive patterns.
 
@@ -32,26 +19,7 @@ but supportive, home-like setting.
 The concept emerged from research with graduate students, artists, musicians,
 poets, and writers who were psychologically healthy individuals seeking
 exploratory experiences with psilocybin and LSD, not clinical patients. The
-Harvard group distinguished their approach from the [[european-psycholytic-therapy-1960s-1970s]] model by
-focusing not on treating pathology but on exploring the possibilities and values
-of the psychedelic experience for psychologically healthy individuals.
-
-## The Expansion-Contraction Continuum
-
-Consciousness expansion involves a broadening of perceptual, emotional, and
-cognitive awareness across multiple dimensions simultaneously. In expanded
-states, individuals consistently report:
-
-- Increased sensitivity to sensory input, with colors appearing more vivid and
-  sounds more textured
-- Enhanced emotional awareness with a wider range of feelings accessible
-- Greater cognitive flexibility allowing novel associations and creative
-  problem-solving
-- Reduced attachment to fixed self-concepts and habitual identities
-- A sense of connection with larger patterns and processes
-- Access to memories and insights normally outside awareness
-
-[[metzner-consciousness-contraction-expansion-addiction-model]], by contrast, involves a narrowing and fixation of
+Harvard group distinguished their approach from the [[metzner-consciousness-contraction-expansion-addiction-model]], by contrast, involves a narrowing and fixation of
 awareness characterized by:
 
 - Reduced sensory awareness and responsiveness to the environment
@@ -63,8 +31,7 @@ awareness characterized by:
 
 ## Addiction as Consciousness Contraction
 
-Leary and [[metzner-addiction-transcendence-consciousness-expansion-as-antidote]]-consciousness-expansion-versus-contraction-addiction|metzner-consciousness-contraction-expansion-addiction-model|metzner proposed that narcotic addictions, as well as obsessions and
-compulsions in general, could be understood as [[mckenna-food-gods-designer-states-of-consciousness]]
+Leary and [[mckenna-food-gods-designer-states-of-consciousness]]
 contraction. The addict's awareness becomes progressively narrowed to focus on
 obtaining and using the substance, while other aspects of life recede from
 awareness.
@@ -85,8 +52,7 @@ If addiction represents consciousness contraction, then the consciousness-
 expanding properties of psychedelics suggest a potential therapeutic mechanism
 operating at the level of consciousness rather than receptor pharmacology.
 
-The [[halpern-sacramental-peyote-and-native-american-church]]'s use of peyote has been associated with reduced
-incidence of alcoholism. Similarly, the [[brazilian-ayahuasca-churches]] demonstrate
+The [[brazilian-ayahuasca-churches]] demonstrate
 that long-term participation is associated with reduction of addictions and other
 psychopathologies, as confirmed by the research of Charles Grob, Dennis McKenna,
 and colleagues.

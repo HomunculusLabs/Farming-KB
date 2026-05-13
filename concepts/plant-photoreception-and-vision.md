@@ -11,9 +11,7 @@ aliases: [Plant Vision, How Plants See Light, Plant Photoreceptors]
 Plants perceive light through a sophisticated array of photoreceptor proteins that
 detect intensity, direction, color, and duration of illumination. While plants lack
 eyes and brains, their ability to monitor the visual environment is remarkably
-comprehensive — they detect the full [[electromagnetic-spectrum-plant-light-perception]] from ultraviolet to
-far-red, sense the direction of light sources, and measure photoperiod with
-circadian precision. [[daniel-chamovitz]]'s "What a Plant Knows" explores this sensory
+comprehensive — they detect the full [[daniel-chamovitz]]'s "What a Plant Knows" explores this sensory
 world in depth.
 
 ## What Does It Mean for a Plant to "See"?
@@ -49,36 +47,7 @@ most green wavelengths.
 Plants detect UV-A (315–400 nm) and UV-B (280–315 nm) radiation. UV perception
 triggers protective responses including flavonoid production, DNA repair enzyme
 activation, and thickening of epidermal cell walls. Excessive UV causes cellular
-damage, so plants have evolved sophisticated UV-sensing and [[blesching-thc-heart-protective-mechanisms-myocardial-protection]].
-
-### Far-Red Light (700–800 nm)
-
-Plants detect far-red light through phytochromes. The ratio of red to far-red
-light (R:FR) is a critical environmental signal — direct sunlight has a high R:FR
-ratio, while light filtered through vegetation (shade) has a low R:FR ratio due
-to chlorophyll absorption of red light. Plants use this ratio to detect nearby
-competitors and trigger shade avoidance responses.
-
-### Infrared Light (>800 nm)
-
-While plants do not have specific photoreceptors for infrared radiation, they
-sense the thermal effects of infrared as changes in tissue temperature, which
-influence metabolic rates, water loss, and developmental timing.
-
-## Photoreceptor Families
-
-### Phytochromes
-
-Phytochromes are the primary red/far-red light photoreceptors. They exist in two
-interconvertible forms:
-
-- **Pr (P660)** — absorbs red light (~660 nm); biologically inactive form
-- **Pfr (P730)** — absorbs far-red light (~730 nm); biologically active form
-
-Exposure to red light converts Pr to Pfr, activating downstream signaling
-cascades. Far-red light converts Pfr back to Pr. This molecular switch allows
-plants to continuously monitor light quality. Phytochromes control seed
-germination, shade avoidance, flowering time, and [[plant-circadian-rhythms]].
+damage, so plants have evolved sophisticated UV-sensing and [[plant-circadian-rhythms]].
 
 ### Cryptochromes
 
@@ -112,26 +81,5 @@ redistribution:
 
 1. Blue light is perceived by phototropins on the illuminated side of the stem
 2. Auxin transporters (PIN proteins) redistribute auxin to the shaded side
-3. Higher auxin concentration on the shaded side promotes [[brassinosteroid-physiological-mechanisms-cell-elongation-division]]
-4. The differential elongation causes the stem to bend toward the light
-
-## Shade Avoidance Syndrome
-
-When plants detect a low red:far-red ratio (indicating nearby vegetation), they
-activate shade avoidance responses:
-
-- **Stem elongation** — rapid upward growth to overtop competitors
-- **Reduced branching** — investment in vertical rather than horizontal growth
-- **Accelerated flowering** — reproduction before being outcompeted
-- **Leaf hyponasty** — upward leaf positioning to capture more light
-
-These responses are energetically costly and reduce resources available for
-defense and reproduction, so they are tightly regulated and only activated when
-the competitive threat is real.
-
-## See Also
-
-- plant olfaction volatile chemical perception — how plants "smell"
-- [[chamovitz-ultraviolet-and-infrared-plant-light-perception]] — how plants "feel"
-- [[what-a-plant-knows-photoperiodism-flowering-time-measurement]] — light duration sensing
+3. Higher auxin concentration on the shaded side promotes [[chamovitz-ultraviolet-and-infrared-plant-light-perception]] — how plants "feel"
 - [[phytochrome-red-far-red-light-switch]] — phytochrome molecular biology

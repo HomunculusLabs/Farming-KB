@@ -12,19 +12,13 @@ sources:
 
 ## Overview
 
-Post-traumatic stress disorder (PTSD) is a debilitating condition affecting body, mind, and spirit, resulting from direct or witnessed exposure to extreme traumatic events. The amygdala, medial prefrontal cortex, and hippocampus show measurable physiological changes in PTSD patients. See also [[blesching-cannabis-alzheimers-disease]], and [[cannabis-endocannabinoid-system]] research on other stress-related conditions.
+Post-traumatic stress disorder (PTSD) is a debilitating condition affecting body, mind, and spirit, resulting from direct or witnessed exposure to extreme traumatic events. The amygdala, medial prefrontal cortex, and hippocampus show measurable physiological changes in PTSD patients. See also [[cannabis-endocannabinoid-system]] research on other stress-related conditions.
 Functional imaging studies show that PTSD patients exhibit hyperactive amygdala responses to threat-related stimuli and hypoactive medial prefrontal cortex (mPFC) regulation of the amygdala.
 CB1 receptor density in the amygdala is critical for modulating fear responses, and cannabinoid signaling facilitates mPFC-amygdala connectivity that supports emotional regulation and fear extinction.
 
 ## Clinical Trials and Observational Data
 
-A landmark 2020 observational study from the [[maps-multidisciplinary-association-for-psychedelic-studies]] for Psychedelic Studies (MAPS) examined PTSD patients enrolled in state-level medical cannabis programs.
-Participants reported significant reductions in PTSD symptom severity as measured by the Clinician-Administered PTSD Scale (CAPS), with over 75% reporting clinically meaningful improvement.
-Symptom reduction was most pronounced for sleep disturbances, hyperarousal, and intrusive memories.
-A 2021 randomized controlled trial at the University of Colorado investigated smoked cannabis with varying THC:CBD ratios in 76 PTSD veterans.
-The study found that cannabis with higher CBD content (CBD-dominant strains) produced greater reductions in symptom severity compared to THC-dominant strains, particularly for avoidance and emotional numbing symptoms.
-This aligns with preclinical evidence that CBD facilitates extinction of conditioned fear responses without the anxiogenic effects that high-dose THC can produce.
-See [[cannabis-and-insomnia]] for additional sleep-related research.
+A landmark 2020 observational study from the [[cannabis-and-insomnia]] for additional sleep-related research.
 
 ## Complementary Therapies
 
@@ -37,28 +31,9 @@ See hallucinogenic-mushroom-health-risks-and-harm-reduction for comparative risk
 
 ## Related Topics
 
-- [[cannabis-and-insomnia]]
 - [[cannabis-for-parkinsons-disease]]
 - cannabinoid-receptors
-- [[cannabis-anxiety-and-ptsd-treatment]]
-- hallucinogenic-mushroom-health-risks-and-harm-reduction
-## Practical Considerations
-
-When working with Cannabis and PTSD, several practical factors should be
-carefully considered to achieve optimal results. These include
-the specific conditions of the implementation context, available
-resources, timing requirements, and the interactions between this
-topic and other elements of the broader system. A holistic view
-that considers these interconnections produces better outcomes.
-
-Environmental conditions such as temperature, moisture, and
-seasonal patterns significantly influence results. Monitoring these
-variables and adapting practices accordingly is essential for success.
-The most effective practitioners develop keen observation skills and
-respond flexibly to changing conditions rather than following rigid
-protocols regardless of circumstances or local variation.
-
-[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
+- [[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -111,8 +86,6 @@ through generations to modern scientific approaches, the evolution continues
 to inform current best practices and research directions.
 
 ## See Also
-- [[doc]]
 - [[uwe-blesching]]
-- [[maps]]
 - [[dom]]
 - [[soma]]

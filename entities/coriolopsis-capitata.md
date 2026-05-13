@@ -22,54 +22,13 @@ aliases:
 sources:
   - Ryvarden, L. & Johansen, I. (1980). "A Preliminary Polypore Flora of East Africa." Fungiflora.
   - Núñez, M. & Ryvarden, L. (2001). "East Asian Polypores 2." Synopsis Fungorum 14.
-  - Miettinen, O. & Rajchenberg, M. (2012). "Coriolopsis and related genera." [[arbuscular-mycorrhizal-fungal-diversity]] 52: 167-193.
-  - Gugliotta, A.M. et al. (2015). "Polyporaceae from the Brazilian Atlantic Forest." Mycotaxon 130: 821-834.
-  - https://www.indexfungorum.org/names/NamesRecord.asp?RecordID=150603
----
-
-## Overview
-
-**Coriolopsis capitata** is a tropical and subtropical polypore fungus in the family Polyporaceae.
-
-It forms woody, perennial bracket [[bloomfield-asterophora-and-mycoparasites-of-fruiting-bodies]] on dead hardwood and is known for producing bioactive sesquiterpenoids and [[aact-tannins-terpenes-phenolic-compounds-wood-composting-ingham]] with antimicrobial and anti-inflammatory properties.
-
-The species is most commonly encountered in lowland [[fungal-biodiversity-tropical-forests]] of [[guzman-psilocybin-mushrooms-south-america]], Southeast Asia, and equatorial Africa, where it contributes significantly to lignocellulose decomposition.
-
-## Taxonomy and Morphology
-
-Kingdom: Fungi → Basidiomycota → Agaricomycetes → Polyporales → **Polyporaceae → Coriolopsis → C. capitata**.
-
-The species was originally described as *Polyporus capitatus* by Montagne in 1837 and has undergone several taxonomic transfers.
-
-It was placed in *Coriolopsis* by Murrill in 1905, though some authorities have treated it under *Datronia* or *Trametes*.
-
-Modern molecular phylogenetics confirms its placement in *Coriolopsis* sensu stricto.
-
-**Fruiting body:** Woody, sessile to effused-reflexed basidiocarps, 3–12 cm wide, 1–3 cm thick at the base.
-
-**Upper surface:** Concentrically zonate, yellow-brown to reddish-brown, becoming darker and cracked with age, sometimes with a green algal coating when fresh.
-
-**Pore surface:** Orange to cinnamon-buff, pores circular to angular, 4–6 per mm, tubes up to 8 mm deep.
-
-**Context:** Tough, corky, duplex with a dark crustal layer and lighter fibrous tissue, 1–3 mm thick.
-
-**Spores:** Cylindrical to allantoid, hyaline, smooth, IKI–, 6–9 × 2–3 µm.
-
-**Hyphal system:** Trimitic with clamp connections; skeletal hyphae thick-walled and dextrinoid.
-
-## Distribution and Habitat
-
-The species has a [[copelandia-cyanescens-pantropical-distribution-and-ecology]], occurring widely in Central and South America (especially the Brazilian Atlantic Forest), tropical Africa, and Southeast Asia.
+  - Miettinen, O. & Rajchenberg, M. (2012). "Coriolopsis and related genera." [[bloomfield-asterophora-and-mycoparasites-of-fruiting-bodies]] on dead hardwood and is known for producing bioactive sesquiterpenoids and [[fungal-biodiversity-tropical-forests]] of [[copelandia-cyanescens-pantropical-distribution-and-ecology]], occurring widely in Central and South America (especially the Brazilian Atlantic Forest), tropical Africa, and Southeast Asia.
 
 It fruits almost exclusively on dead hardwood logs and stumps in moist lowland to premontane forests.
 
 Preferred hosts include *Inga*, *Cecropia*, and other fast-growing secondary forest hardwoods, though it is not highly host-specific.
 
-Fruiting occurs year-round in consistently wet [[fukuoka-natural-farming-tropical-climates]] but peaks during rainy seasons in areas with pronounced seasonality.
-
-## Bioactive Compounds
-
-*C. capitata* has attracted pharmacological interest for its production of diverse [[antifungal-secondary-metabolites-coprophilous-fungi]].
+Fruiting occurs year-round in consistently wet [[antifungal-secondary-metabolites-coprophilous-fungi]].
 
 Sesquiterpenoids isolated from the species include coriolins and related sesquiterpene lactones with demonstrated antibacterial activity against Gram-positive pathogens.
 
@@ -88,3 +47,88 @@ In parts of the Brazilian Amazon, *C. capitata* is used in folk medicine as a to
 Guaraní communities in Paraguay have been documented using related *Coriolopsis* species for treating gastrointestinal complaints, though specific use of *C. capitata* is less well-documented.
 
 No formal [[mushroom-cancer-clinical-trials-overview]] have evaluated the species for therapeutic use, and its medicinal reputation rests entirely on ethnobotanical reports and in vitro bioassay data.
+
+## Overview
+
+Coriolopsis Capitata represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish coriolopsis capitata
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving coriolopsis extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Coriolopsis Capitata finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for coriolopsis capitata. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+coriolopsis capitata and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Coriolopsis Capitata has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of coriolopsis capitata into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[coriolopsis-gallica]]
+- [[coriolopsis-polyzona]]
+- [[coriolopsis-trogii]]
+- [[permaculture-dogwood-cornus-capitata]]
+- [[primula-capitata]]

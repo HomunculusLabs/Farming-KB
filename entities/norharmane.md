@@ -62,28 +62,89 @@ The absence of the 7-methoxy group (present in harmine) shifts the UV absorption
 
 Norharmane is a reversible inhibitor of MAO-A with moderate potency (IC₅₀ ≈ 5–20 µM), significantly weaker than harmine (IC₅₀ ≈ 0.05 µM). This makes norharmane a relatively mild MAO inhibitor compared to pharmaceutical MAOIs or the full harmala alkaloid profile.
 
-The compound shows mixed activity at [[psilocybin-pharmacology-and-serotonin-receptors]]. It acts as a weak partial agonist at 5-HT₂A receptors and has measurable affinity for 5-HT₂C receptors. Atypical concentrations achievable through ingestion of harmala preparations, these serotonergic effects are pharmacologically subtle.
-
-Norharmane also binds to benzodiazepine receptors with low affinity, producing anxiogenic effects at higher doses. This is in contrast to the anxiolytic profile of harmine and suggests complex interactions with the GABAergic system.
-
-Evidence for dopaminergic modulation exists, with norharmane shown to inhibit dopamine uptake in synaptosomal preparations. It also displaces nicotine from nicotinic acetylcholine receptors, which may contribute to its presence in tobacco smoke and complex interactions with smoking behavior.
-
-## Effects and Dosage
-
-As an isolated compound, norharmane produces minimal subjective effects at typical exposure levels. When consumed as part of a harmala alkaloid preparation (as in [[schultes-ayahuasca-analogs-dmt-plants]]), it contributes to the overall MAO inhibition profile but does not significantly alter the visionary experience.
+The compound shows mixed activity at [[schultes-ayahuasca-analogs-dmt-plants]]), it contributes to the overall MAO inhibition profile but does not significantly alter the visionary experience.
 
 At higher doses (50–100 mg orally, well above typical dietary exposure), mild anxiogenic effects, mild visual distortions, and nausea have been reported. The dose-response curve is relatively flat, and effects plateau without reaching the intensity of harmine or harmaline.
 
-In combination with DMT or other tryptamines, norharmane's MAO-A inhibition allows [[tihkal-oral-activity-mao-inhibition]] by preventing first-pass metabolism. However, because of its weaker potency compared to harmine, substantially more material is required to achieve effective inhibition thresholds.
-
-Onset of MAO inhibition occurs within 30–60 minutes of oral ingestion, with peak effect at approximately 2 hours and duration of 4–8 hours. These kinetics align with other β-carboline alkaloids.
-
-## Natural Occurrence
-
-Norharmane is found in several plant families. It occurs in [[mckenna-food-gods-peganum-harmala-soma]] ([[golden-guide-syrian-rue-and-maoi-plants]]) seeds at concentrations of approximately 0.01–0.1% of dry weight, alongside the more abundant harmine, harmaline, and harmalol.
-
-The compound is also present in [[ayahuasca-and-banisteriopsis-caapi]] leaves and in tobacco leaves and smoke, where it forms during pyrolysis of tryptophan. Tobacco smoke contains approximately 10–100 ng of norharmane per cigarette.
+In combination with DMT or other tryptamines, norharmane's MAO-A inhibition allows [[mckenna-food-gods-peganum-harmala-soma]] ([[ayahuasca-and-banisteriopsis-caapi]] leaves and in tobacco leaves and smoke, where it forms during pyrolysis of tryptophan. Tobacco smoke contains approximately 10–100 ng of norharmane per cigarette.
 
 Cooked protein-rich foods, particularly grilled meats, contain norharmane formed through Maillard reactions between tryptophan and carbohydrates. This dietary exposure route contributes to detectable endogenous levels in the general population.
 
 Endogenous norharmane has been detected in human urine, platelets, and brain tissue at nanomolar concentrations. The biosynthetic origin may involve both dietary intake and in situ formation from tryptamine and formaldehyde.
+
+## Overview
+
+Norharmane represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish norharmane
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving norharmane extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Norharmane finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for norharmane. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+norharmane and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Norharmane has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of norharmane into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.

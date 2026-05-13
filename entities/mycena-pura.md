@@ -10,7 +10,7 @@ sources: [/Users/t3rpz/wiki/raw/papers/world-wide-distribution-of-magic-mushroom
 
 # Mycena pura
 
-**Mycena pura**, commonly known as the lilac bonnet, is a species of mushroom in the family Mycenaceae. It is one of the few *Mycena* species documented in the [[oyster-mushroom-substrate-materials-worldwide-survey-comparison]] of [[challenges-neurotropic-fungi-chemical-analysis-taxonomic-identification]] by Guzmán, Allen & Gartz (1998), which identified only a single species of Mycena among the 216 cataloged neurotropic fungi. *M. pura* occupies a unique position among psychoactive mushrooms because it contains both small quantities of psilocybin and the toxic compound muscarine, making it simultaneously a member of the neurotropic fungi and a poisonous species.
+**Mycena pura**, commonly known as the lilac bonnet, is a species of mushroom in the family Mycenaceae. It is one of the few *Mycena* species documented in the [[challenges-neurotropic-fungi-chemical-analysis-taxonomic-identification]] by Guzmán, Allen & Gartz (1998), which identified only a single species of Mycena among the 216 cataloged neurotropic fungi. *M. pura* occupies a unique position among psychoactive mushrooms because it contains both small quantities of psilocybin and the toxic compound muscarine, making it simultaneously a member of the neurotropic fungi and a poisonous species.
 
 ## Taxonomy
 
@@ -22,35 +22,13 @@ The family Mycenaceae, to which *M. pura* belongs, also includes the genus Psilo
 
 ## Distribution
 
-*Mycena pura* has a wide distribution across temperate regions of the Northern Hemisphere. It is found throughout Europe, [[psilocybin-north-america-pacific-northwest]], and parts of Asia, occurring in both coniferous and deciduous forests. In Europe, it is particularly common in beech and oak forests, while in North America it is found in a variety of forest types from the Pacific Northwest to the Appalachian region. It is one of the more commonly encountered Mycena species due to its distinctive coloration and relatively large size for the genus, which makes it more visible to collectors than the many tiny, inconspicuous Mycena species.
-
-## Description
-
-Fruiting bodies of *M. pura* are small and delicate, though among the larger species in the genus. The pileus is typically 1 to 4 cm in diameter, conic to bell-shaped (campanulate) when young, expanding to convex or nearly flat with age, often developing a slight umbo. The cap surface is smooth and slightly viscid to lubricous when moist, often with radial grooves or striations near the margin — the translucent-striate margin is a useful field feature.
-
-The most distinctive characteristic of *M. pura* is its coloration: the cap surface ranges from lilac to purple, mauve, pink, or rose, with considerable variation both within and between populations. Some color forms are more intensely colored than others, and the color can fade with age or exposure to sunlight. The gills are adnate to slightly decurrent (running slightly down the stipe), white to pale with a pinkish or lilac tinge, and relatively well-spaced for the genus. The stipe is slender, fragile, hollow, and typically 3 to 8 cm long and 2 to 4 mm thick. The stipe surface is smooth and pruinose near the apex, typically paler than the cap, sometimes with a lilac or pinkish tint. Spore prints are white to pale cream, which distinguishes the genus Mycena from most psilocybin-containing genera that have dark spore prints.
-
-The flesh is thin, watery, and white, with a mild to slightly rancid or cucumber-like odor. The taste is typically mild to slightly farinaceous (mealy or floury).
-
-## Habitat
-
-*Mycena pura* is a saprotrophic species found on the forest floor, growing on decaying leaf litter, needles, fallen leaves, and other fine plant debris in both coniferous and deciduous woodlands. It is particularly associated with beech, oak, and spruce forests, where thick layers of leaf litter accumulate. The species often fruits in small groups, troops, or scattered clusters during the autumn months in temperate regions (typically September through November in the Northern Hemisphere). It can also be found in grassy areas near forest edges, in parks, and along woodland paths where leaf litter has accumulated.
-
-Unlike wood-inhabiting species or dung-inhabiting species, *M. pura* is a leaf-litter decomposer, breaking down the cellulose and other [[fungal-volatile-organic-compounds-communication]] in fallen leaves and contributing to the formation of humus in forest soils.
+*Mycena pura* has a wide distribution across temperate regions of the Northern Hemisphere. It is found throughout Europe, [[fungal-volatile-organic-compounds-communication]] in fallen leaves and contributing to the formation of humus in forest soils.
 
 ## Chemistry
 
 The chemical profile of *M. pura* is complex and notable for containing both psychoactive and toxic components — an unusual combination among mushrooms. In the context of neurotropic fungi, it has been reported to contain small quantities of psilocybin (4-phosphoryloxy-N,N-dimethyltryptamine), placing it in Group 1 of Guzmán's classification of neurotropic fungi.
 
-However, the concentrations of psilocybin are generally considered too low to produce significant psychoactive effects at typical consumption levels. More importantly, *M. pura* contains muscarine (2-methyl-3-hydroxy-5-(N-methyl-N-2-propenylamino)tetrahydrofuran), a toxic alkaloid that acts as an agonist at muscarinic acetylcholine receptors. Muscarine is the same toxic compound found in [[inocybe-geophylla]] — a muscarine-containing species with a similar lilac color form
-- Clitocybe rivulosa — another toxic mushroom containing muscarine, the fool's funnel
-- [[amanita-pantherina]] — the panther cap, containing [[amanita-muscaria-muscimol-ibotenic-acid-pharmacology]] and muscimol
-- Mycena galericulata — a common non-toxic relative, the common bonnet
-
-## See Also
-
-- [[mycena-citrinomarginata]]
-- [[muscarine]] — toxic alkaloid found in this species
+However, the concentrations of psilocybin are generally considered too low to produce significant psychoactive effects at typical consumption levels. More importantly, *M. pura* contains muscarine (2-methyl-3-hydroxy-5-(N-methyl-N-2-propenylamino)tetrahydrofuran), a toxic alkaloid that acts as an agonist at muscarinic acetylcholine receptors. Muscarine is the same toxic compound found in [[amanita-pantherina]] — the panther cap, containing [[mycena-citrinomarginata]]
 - [[distribution-of-neurotropic-fungi]] — Guzmán, Allen & Gartz source survey
 ## Practical Considerations
 
@@ -88,3 +66,85 @@ inherent in working with natural systems and plans accordingly rather
 than assuming perfect predictability or control over outcomes.
 
 Documentation and record-keeping support continuous improvement by
+
+## Overview
+
+Mycena Pura represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish mycena pura
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving mycena extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Mycena Pura finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for mycena pura. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+mycena pura and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Mycena Pura has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of mycena pura into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[mycena-chlorophos]]
+- [[mycena-citrinomarginata]]

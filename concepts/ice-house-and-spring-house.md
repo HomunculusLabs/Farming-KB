@@ -87,18 +87,18 @@ With good construction and packing, expect 50-75% ice retention:
 - **April-June**: 10-15% loss; ice house at peak utility
 - **July-August**: heaviest losses; 40-50% remaining if well-built
 - **September**: remaining ice is mostly gone; transition to other
-  [[egg-preservation-methods]]
+  preservation methods
 
 ### Using the Ice House
 - Lower food items into the ice house in insulated containers
-- Keep food separated from ice (cold [[stamets-growing-room-air-circulation-co2-management]], not direct contact,
+- Keep food separated from ice (cold air circulation, not direct contact,
   provides cooling)
 - A well-managed ice house maintains 33-40F (1-4C) inside
 
 ### Modern Adaptations
 - Use rigid foam insulation (R-30+ walls and ceiling) instead of sawdust
-- Install a small solar-powered [[cervantes-ventilation-fan-carbon-filter-setup]]
-- Combine with a [[root-cellaring-guide]] for a complete
+- Install a small solar-powered ventilation fan
+- Combine with a [[root-cellaring-guide|root cellar]] for a complete
   off-grid food preservation system
 - Use food-grade glycol or brine loops to distribute cooling to other areas
 
@@ -110,7 +110,7 @@ temperature (45-55F / 7-13C) year-round, providing natural refrigeration.
 
 ### How It Works
 Groundwater emerges at the earth's surface at a constant temperature equal
-to the average annual air temperature. [[query-how-to-grow-and-use-oca-in-temperate-climates]], this is
+to the average annual air temperature. In temperate climates, this is
 typically 48-55F. A spring house captures this cool water and uses it to
 chill food stored in the structure.
 
@@ -140,11 +140,11 @@ chill food stored in the structure.
 - Place perishable items (dairy, meat, eggs, vegetables) on shelves or
   directly in the flowing water (in sealed containers)
 - Maintain 45-55F — sufficient for dairy, eggs, and short-term meat storage
-- Not cold enough for freezing — use in combination with ice from an
-  [[root-cellaring-guide]] or root cellar for complete
-  preservation
 
-**Other uses:**
-- Cool storage for beverages
-- Milk cooling before processing
-- Fermentation [[hamilton-greenhouse-heating-and-temperature-control]]
+## See Also
+
+- [[desert-house-water-energy-conservation]]
+- [[oyster-mushroom-growing-house-types]]
+- [[query-what-is-the-difference-between-a-high-tunnel-and-a-hoop-house]]
+- [[energy-efficient-house-design]]
+- [[coleman-overwintered-spinach-cold-house-production]]

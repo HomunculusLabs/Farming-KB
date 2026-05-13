@@ -20,29 +20,7 @@ choose the species that matches their skill level, resources, and goals.
 
 ## Maitake Cultivation
 
-[[maitake-cultivation]]
-
-Maitake, also known as Hen of the Woods, produces large clustered fruiting
-bodies with overlapping grayish-brown caps. A wild specimen can weigh 10-50
-pounds, though cultivated yields are more modest. The flesh is firm, white,
-and has a rich, earthy, peppery flavor prized in Japanese and Western cuisine.
-
-Cultivation is challenging due to slow colonization (30-60 days), specific
-substrate requirements (oak-based supplemented sawdust), and precise fruiting
-triggers including cold shock at 55-60°F. Maitake requires sterilized
-substrate
-autoclaved at 15 psi for 90-120 minutes, making it a significant investment
-in equipment and energy. The mycelium is dense and white, forming a thick mat
-that resists contamination but colonizes slower than [[oyster-mushroom-pleurotus-ostreatus|oyster]] or
-[[shiitake-cultivation-guide|shiitake]] species.
-
-Yields typically range from 0.5-1.0 lb per 5 lb substrate block over 2-3
-flushes. Commercial operations justify the cost through premium market prices
-($12-20/lb retail), driven by both culinary demand and extensive medicinal
-research on D-fraction beta-glucans.
-
-## Wine Cap Cultivation
-
+[[oyster-mushroom-pleurotus-ostreatus|oyster]] or
 [[wine-cap-stropharia-cultivation]]
 
 Wine Cap, also called King Stropharia or Garden Giant, is among the most
@@ -140,9 +118,6 @@ production.
 
 ## See Also
 
-- [[maitake-grifola-frondosa-cultivation]]
 - [[growing-gourmet-maitake-cultivation]]
-- [[growing-gourmet-king-stropharia-cultivation]]
 - [[king-stropharia-ecological-interactions-permaculture]]
-- [[comparison-oyster-vs-wine-cap-cultivation]]
 - [[comparison-enoki-vs-maitake-cultivation]]

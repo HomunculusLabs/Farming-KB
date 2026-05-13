@@ -6,70 +6,12 @@ type: concept
 
 # Permaculture Water Design Checklist
 
-The water design checklist is a comprehensive framework for assessing, planning, and implementing [[water-management]] strategies on any property. It integrates water sourcing, storage, distribution, quality management, and landscape-scale considerations into a systematic approach that maximizes efficiency while minimizing waste and environmental damage.
-
-## Property-Level Water Assessment
-
-### Source Identification
-On any property, the first step is to **identify all sources of water** and analyze each for:
-
-- **Quality** — mineral content, biological contamination, pollutants
-- **Quantity** — seasonal availability, flow rates, reliability
-- **Reliability** — drought resilience, flood risk
-
-### Storage Site Reservation
-Reserve appropriate sites for:
-
-- **Tanks** — elevated where possible for gravity feed
-- **Swales** — on contour to intercept and infiltrate runoff
-- **Dams** — in primary valleys with suitable soil (40%+ clay content)
-
-### Gravity Flow Design
-Wherever possible, use **slope benefits** (or raise tanks) to achieve gravity flow to all use points. This eliminates energy inputs for pumping and creates passive, reliable distribution.
-
-### Plant Lists for Unirrigated Growth
-Detail plant lists that will grow as mature [[permaculture-plants-aquatic-systems-water-plants|plants]] or trees without irrigation. This reduces long-term water demand and creates resilient landscapes.
+The water design checklist is a comprehensive framework for assessing, planning, and implementing [[permaculture-plants-aquatic-systems-water-plants|plants]] or trees without irrigation. This reduces long-term water demand and creates resilient landscapes.
 
 ## Landscape-Scale Water Planning
 
 ### Dam Site Selection
-Soil samples revealing **40% or more clay content** indicate sites suited to earth-dam [[water-design-checklist-and-dam-construction|construction]]. Such sites should be reserved for future water storages even if not immediately needed.
-
-### Keyline Systems
-A sequence of **primary valleys** may enable a Keyline system to be established for:
-
-- **Downhill fire control** — water available at all elevations
-- **Irrigation** — gravity-fed distribution across the landscape
-
-## Climate-Adapted Strategies
-
-### Arid Areas (Evaporation Exceeds Precipitation)
-In arid regions, all water runoff must be infiltrated to soil storages through:
-
-- **Soil conditioning** — rip-lines to break compacted layers
-- **Swales** — on-contour earthworks to capture and infiltrate runoff
-- **Pits** — individual infiltration points
-- **Sandfield soakages** — subsurface storage in sandy soils
-
-Open-surface dams are inappropriate in arid areas due to extreme evaporation losses.
-
-### Humid Areas
-In humid regions, **open-surface dams** can be used effectively as evaporation is less critical relative to precipitation.
-
-## Water Pathway Definition
-
-### Household Water Efficiency
-Define water "pathways" in use so that water consumption is economical within houses. This includes:
-
-- Efficient fixtures and appliances
-- Conscious usage patterns
-- Greywater separation at source
-
-### Greywater Utilization
-Greywater should be directed to productive use through:
-
-- **Filtration beds** — simple gravel or sand filters before garden use
-- **Forests** — [[query-what-are-the-different-fruit-tree-training-systems-and-which-should-i-use|fruit]] trees and timber species benefit from greywater irrigation
+Soil samples revealing **40% or more clay content** indicate sites suited to earth-dam [[query-what-are-the-different-fruit-tree-training-systems-and-which-should-i-use|fruit]] trees and timber species benefit from greywater irrigation
 - **Common effluent schemes** — for villages, design on-site cleanup through maximum-use systems
 
 ### Village-Scale Maximum-Use Design
@@ -148,3 +90,11 @@ The key factors in soil formation are:
 Water plays a central role in rock breakdown:
 
 - Combines with felspars in rock to swell and fracture the rock
+
+## See Also
+
+- [[nut-tree-cultivation-for-permaculture-food-forests]]
+- [[stametsian-permaculture-model]]
+- [[permaculture-farm-design-principles]]
+- [[nitrogen-fixing-plants-in-permaculture]]
+- [[urban-permaculture-and-integrated-land-management]]

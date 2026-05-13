@@ -11,33 +11,7 @@ sources:
 
 # Leafy Greens: Growing Guide
 
-Source: [[steve-solomon]], "Gardening When It Counts" (2005)
-
-## The Importance of Leafy Greens
-
-Leafy greens provide essential vitamins, minerals, and protein. Dark green looseleaf lettuce grown on properly balanced soil has been tested at nearly 20% protein -- almost as much as some flesh foods. Unlike meat, raw greens are more digestible than cooked flesh. Iceberg and other ball-heading types with blanched cores, lacking high-protein chlorophyll, are much less healthful.
-
-## Cool-Season Greens: Spinach and Mustard
-
-Spinach and mustard have a demand difference depending on season: medium-demand for autumn/[[coleman-claytonia-winter-harvest-cultivation]], high-demand for spring harvest. Why? [[coleman-overwintered-onions-and-early-spring-crops]] must grow rapidly before bolting, requiring maximum nitrogen. Autumn crops grow through months before bolting, so high fertility is not as critical.
-
-### Growing Details (Summer/Spring)
-
-Almost all spinach varieties bolt shortly after summer heat arrives. There are a few bolt-resistant varieties, and one Asian mustard that tolerates summer. Use COF with tankage or bloodmeal for extra nitrogen. Work it in before sowing; side-dress as seedlings develop true leaves.
-
-### Growing Details (Autumn/Winter)
-
-Start about a month after the summer solstice. They grow quickly; thin progressively. Speed of growth is everything -- make soil as rich as possible and keep it moist. Each plant needs ~4 sq ft.
-
-### Harvest
-
-Cut or break off large outer leaves, leaving the plant to continue producing. One leaf per week per plant is about right. In spring, at first signs of bolting, harvest the whole patch and resow.
-
-### Seed Saving
-
-- Mustard: bee-pollinated outcrosser; maintain 12+ plants for genetic vigor
-- Spinach: wind-pollinated with separate male and female plants; need larger starting population since males produce no seed
-- Both can serve as autumn green [[green-manure-crops-detailed]]; till under before seedstalks form
+Source: [[coleman-claytonia-winter-harvest-cultivation]], high-demand for spring harvest. Why? [[green-manure-crops-detailed]]; till under before seedstalks form
 
 ## Kale and Brussels Sprouts
 
@@ -47,7 +21,7 @@ Brussels sprouts are a high-demand crop requiring rich soil. They produce small 
 
 ## Chicories: Endive, Escarole, Radicchio
 
-Remarkably cold-hardy [[growing-lettuce-salad-greens]]. [[query-how-do-i-grow-figs-in-cold-climates]], chicories survive if the soil does not freeze solid; in mild-winter climates, they are cool-season crops that grow through autumn and winter.
+Remarkably cold-hardy [[query-how-do-i-grow-figs-in-cold-climates]], chicories survive if the soil does not freeze solid; in mild-winter climates, they are cool-season crops that grow through autumn and winter.
 
 Chicories may be considered low-demand vegetables that grow faster and bigger with more fertility, but eating quality remains similar regardless. If growing on poorer soil, sow a bit earlier.
 
@@ -58,22 +32,7 @@ Growing details:
 - Capable of surviving drought and producing greens afterward
 - Varieties: productive, uniformly heading radicchio hybrids have appeared; some hybrid endive types are also available
 
-Harvest: chicory roots can be dug before hard frost, stored in [[comparison-root-cellar-vs-ice-house]], and replanted in damp soil beds for winter forcing ( Belgian endive method).
-
-Seed saving: chicories are biennials that almost always self-pollinate. Isolate by 50 feet. Tendency to cross-pollinate; best to save seed from a single good plant.
-
-## Lettuce
-
-To achieve best eating quality, lettuce must grow without moisture stress. When it must survive on reserves, new growth stops and leaves become bitter. The soil must be fertile and plants must not be crowded.
-
-### Growing Details
-
-- Treat lettuce as a medium-demand crop
-- Most varieties do not tolerate much heat
-- The most important practice: thin progressively, carefully, and thoroughly
-- Competition slows growth; never let it happen
-- Sow every 3 weeks for continuous harvest
-- In [[stamets-cultivator-agaricus-bitorquis-warm-weather-cultivation]], a sowing remains in prime condition only a few days
+Harvest: chicory roots can be dug before hard frost, stored in [[stamets-cultivator-agaricus-bitorquis-warm-weather-cultivation]], a sowing remains in prime condition only a few days
 - Plant several varieties of differing maturities at the same time for extended harvest
 
 ### Mesclun
@@ -87,3 +46,88 @@ Lettuce is a self-pollinated annual. Seeds ripen irregularly and shatter easily.
 ## Arugula
 
 A near-wild leafy annual in the cabbage family. Peppers up salads; delicious as a standalone salad when young. In hot weather, leaves go from mild to bitter in under two weeks. Sow every 3 weeks alongside lettuce. Direct seed by sprinkling thinly into a furrow; thin progressively.
+
+## Overview
+
+Solomon Leafy Greens Growing represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish solomon leafy greens growing
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving solomon extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Solomon Leafy Greens Growing finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for solomon leafy greens growing. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+solomon leafy greens growing and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Solomon Leafy Greens Growing has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of solomon leafy greens growing into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[root-competition-plant-spacing-solomon]]
+- [[solomon-growing-perennials-asparagus-rhubarb]]
+- [[solomon-low-grade-compost-making-methods]]
+- [[solomon-shade-and-sunlight-requirements]]
+- [[solomon-wheelbarrow-selection-garden-tool-care-maintenance]]

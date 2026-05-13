@@ -15,9 +15,7 @@ Vision 49 of Pablo Amaringo's ayahuasca paintings reveals a cosmological framewo
 
 ### Ray 1: Humus (Light Green)
 
-The lowest ray represents the earth itself — humus, the [[hamilton-composting-and-organic-matter-management]] of soil. Here are found animals (quadrupeds and birds), plants, and the basic powers available to beginning vegetalistas. This is the foundation: the material world and its living inhabitants that the shaman first learns to work with.
-
-This foundational ray corresponds to the everyday world of [[amazonian-vegetalista-shamanism-degrees-and-hierarchy]] of [[mckenna-food-gods-amazonian-shamanism-ayahuasca]], where different ranks of practitioners are associated with different types and levels of spiritual power. The colours of the pulsations correspond to visible spectrum phenomena, suggesting that the system maps [[weil-the-natural-mind-altered-states-normalcy]] of consciousness onto a cosmological framework.
+The lowest ray represents the earth itself — humus, the [[amazonian-vegetalista-shamanism-degrees-and-hierarchy]] of [[weil-the-natural-mind-altered-states-normalcy]] of consciousness onto a cosmological framework.
 
 ## The Three-Temple Initiation
 
@@ -27,12 +25,7 @@ In Vision 36, a three-tiered initiation structure appears:
 2. **Second temple:** Deeper esoteric knowledge. A spaceship departs, symbolizing increased protection.
 3. **Third temple:** Ordination as sublime masters with light-blue stairs. Two spaceships depart (one upward, one downward) — signifying full mastery of esoteric sciences.
 
-The three-temple structure parallels initiation systems found in many spiritual traditions worldwide, from the [[amazonian-plant-teachers-doctores]] tradition. Each grade of esoteric knowledge is accessed through dieta — the disciplined practice of consuming specific plants under the guidance of a master vegetalista. The plants are not merely chemical agents but active participants in the educational process, each offering specific lessons and powers to the dedicated practitioner.
-
-## Related Topics
-
-- [[amazonian-ship-aceropunta-and-visionary-cosmology]] — the cosmic beings and cities
-- [[amazonian-plant-teachers-doctores]] — the plants that teach
+The three-temple structure parallels initiation systems found in many spiritual traditions worldwide, from the [[amazonian-ship-aceropunta-and-visionary-cosmology]] — the cosmic beings and cities
 - [[humus-formation-and-soil-organic-matter]]
 ## Practical Applications
 
@@ -97,8 +90,6 @@ through generations to modern scientific approaches, the evolution continues
 to inform current best practices and research directions.
 
 ## See Also
-- [[ayahuasca]]
 - [[doc]]
-- [[pablo-amaringo]]
 - [[maps]]
 - [[dom]]

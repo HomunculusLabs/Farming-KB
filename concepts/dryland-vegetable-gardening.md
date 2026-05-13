@@ -3,21 +3,7 @@ title: "Dryland Vegetable Gardening"
 aliases:
   - dry gardening
   - waterwise vegetables
-  - [[comparison-desert-gardening-vs-drought-gardening]]
-  - unirrigated gardening
-tags:
-  - gardening
-  - water-conservation
-  - drought
-  - vegetable-production
-  - steve-solomon
-source: Gardening When It Counts - Steve Solomon (2005)
-created: 2026-05-11
----
-
-# Dryland Vegetable Gardening
-
-Dryland vegetable gardening is the practice of [[container-growing-vegetables-herbs]] without
+  - [[container-growing-vegetables-herbs]] without
 any irrigation, relying entirely on natural rainfall and soil moisture.
 Steve Solomon mastered this system after selling Territorial Seed Company
 in 1986 and dedicating years to researching pre-irrigation gardening
@@ -38,97 +24,7 @@ because each individual plant is larger, healthier, and more productive.
 
 ## How It Works
 
-In regions with dry summers (like the [[psilocybin-north-america-pacific-northwest]], California,
-southern Australia, or Mediterranean Europe), soil accumulates moisture
-during the wet winter and spring. This moisture is stored at depth, below
-the evaporation zone. A widely spaced vegetable plant sends roots down
-to access this deep moisture reservoir. The critical requirement is that
-the soil profile must be recharged annually by sufficient winter/spring
-precipitation.
-
-In regions with summer rainfall, dryland gardening is even easier — the
-key is timing plantings so that crops mature during reliably moist periods.
-
-## Spacing for Dry Gardening
-
-Dry gardening requires roughly 2-3 times the spacing recommended on seed
-packets. Solomon's guidelines:
-
-- **Tomatoes:** 4-6 feet apart (vs. 2-3 feet irrigated)
-- **Peppers and eggplant:** 3-4 feet apart (vs. 18-24 inches)
-- **Winter squash:** 8-12 feet apart (vs. 4-6 feet)
-- **Corn:** 12-18 inches in rows 4-5 feet apart
-- **Root crops (carrots, beets):** 4-6 inches in rows 3 feet apart
-- **Brassicas:** 24-36 inches apart (vs. 12-18 inches)
-
-The exact spacing depends on your climate's rainfall pattern, soil type
-(clay holds more moisture than sand), and the specific variety.
-
-## Soil Preparation
-
-Dryland gardening demands excellent soil preparation because plants cannot
-rely on frequent watering to compensate for poor soil structure:
-
-1. **Deep soil loosening:** Double-dig or use a broadfork to break up
-   compaction at least 18 inches deep. This allows roots to penetrate
-   quickly to moisture at depth.
-2. **Organic matter:** Incorporate compost or aged manure to improve
-   water-holding capacity. However, avoid excessive nitrogen, which
-   promotes leafy growth that increases water demand.
-3. **[[garden-soil-fertility-mineral-balance-solomon]]:** Apply [[complete-organic-fertilizer-cof-recipe-solomon]] (COF) at the
-   standard rate. Balanced minerals help plants develop efficient root
-   systems and resist drought stress.
-4. **Surface mulch:** Apply 2-4 inches of organic mulch (straw, leaves,
-   grass clippings) after planting to reduce surface evaporation. This is
-   critical — bare soil loses moisture rapidly to sun and wind.
-
-## Timing and Variety Selection
-
-Timing is critical. In Mediterranean climates, plant as early as soil can
-be worked in spring so that crops establish roots before the dry season.
-Choose early-maturing varieties so plants complete their cycle before deep
-soil moisture is exhausted.
-
-For varieties, Solomon recommends seeking drought-adapted types:
-- **Tomatoes:** Determinate or semi-determinate varieties with smaller
-  fruit tend to perform better than large indeterminate types
-- **Root crops:** Carrots and beets are among the most reliable dryland
-  vegetables — they naturally send roots deep for moisture
-- **Winter squash:** Once established, many squash varieties are remarkably
-  drought-tolerant
-- **Beans:** Bush beans can produce a crop on stored soil moisture alone
-- **Potatoes:** An excellent dryland crop when planted deep
-
-## Advantages
-
-- **No irrigation infrastructure:** No pipes, pumps, timers, or sprinklers
-- **Zero water cost:** Particularly important as municipal water prices rise
-- **Disease reduction:** Dry foliage conditions reduce fungal diseases
-- **Pest resistance:** Non-stressed plants are less attractive to pests
-- **Labor reduction:** No daily watering chores
-- **Superior flavor:** Slow growth concentrates sugars and nutrients
-
-## Limitations
-
-- **Requires more land:** 2-3x the area of irrigated gardens for the same
-  caloric output
-- **Climate-dependent:** Requires sufficient off-season rainfall to
-  recharge soil moisture
-- **Not suitable for all crops:** Celery, cauliflower, lettuce, and other
-  moisture-demanding crops are impractical without irrigation
-- **Year-to-year variability:** Yield depends on seasonal rainfall patterns
-
-## Historical Precedent
-
-Dryland vegetable gardening was the norm worldwide before the 20th century.
-The British wartime allotment gardeners grew extensive vegetables with
-minimal irrigation. Solomon himself gardens in Tasmania without irrigation,
-producing roughly half his household's yearly food from about 2,000 square
-feet of growing beds.
-
-## See Also
-
-- [[vegetable-garden-spacing-systems-solomon]]
+In regions with dry summers (like the [[garden-soil-fertility-mineral-balance-solomon]]:** Apply [[vegetable-garden-spacing-systems-solomon]]
 - [[complete-organic-fertilizer-cof]]
 
 ## References
@@ -136,3 +32,88 @@ feet of growing beds.
 - Solomon, Steve. *Gardening When It Counts*. New Society Publishers, 2005.
   Chapter 6.
 - Solomon, Steve. *Waterwise Vegetables*. Sasquatch Books, 1993 (OOP).
+
+## Overview
+
+Dryland Vegetable Gardening represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish dryland vegetable gardening
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving dryland extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Dryland Vegetable Gardening finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for dryland vegetable gardening. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+dryland vegetable gardening and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Dryland Vegetable Gardening has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of dryland vegetable gardening into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[dryland-building-settlements]]
+- [[dryland-designers-checklist]]
+- [[dryland-permaculture-strategies]]
+- [[dryland-settlements-and-interceptor-banks]]
+- [[dryland-strategies-and-desert-ecology]]

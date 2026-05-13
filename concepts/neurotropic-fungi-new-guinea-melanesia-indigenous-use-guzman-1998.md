@@ -12,43 +12,12 @@ created: 2026-05-10
 
 New Guinea and the broader Melanesian region represent one of only two major
 centers of indigenous neurotropic mushroom use worldwide, alongside Mexico.
-The documentation of [[mexican-sacred-mushroom-traditions]] in New Guinea began in the
-late 1950s through the work of Singer (1958, 1960a), Heim and Wasson (1965),
-and Heim (1965a, 1978), who reported the use of *Psilocybe*, *Russula*, and
-boletaceous fungi as sacred mushrooms among several aboriginal groups.
-
-## Discovery of New Guinean Mushroom Traditions
-
-The recognition that neurotropic mushrooms were used outside the Americas
-was a landmark discovery. Prior to the New Guinea findings, the scientific
-community generally assumed that sacred mushroom practices were unique to
-Mesoamerica. The New Guinea documentation fundamentally expanded the known
-geographical and cultural range of entheogenic mushroom use.
-
-R. Singer conducted pioneering fieldwork in the highlands of New Guinea,
-where he observed and documented indigenous practices surrounding several
-genera of fungi. His work was later expanded by Heim and Wasson, who brought
-their extensive experience with Mexican mushroom cults to bear on the
-New Guinean material.
-
-## Species Used in New Guinea
-
-The neurotropic fungi documented from New Guinea span multiple genera,
-reflecting a broader ethnobotanical scope than the primarily *Psilocybe*-
-focused traditions of Mexico:
-
-### Psilocybe Species
-Several *Psilocybe* species are known from the New Guinea region, though
-the full inventory remains incomplete due to limited [[guzman-allen-gartz-mycological-exploration-bias-and-underexplored-regions]]:
+The documentation of [[guzman-allen-gartz-mycological-exploration-bias-and-underexplored-regions]]:
 
 - ***P. papuana*** — Described by Guzmán and Horak from New Guinea
   material, this species belongs to the *Psilocybe* core neurotropic clade
 - ***P. aucklandii*** — Known from New Zealand but closely related to
-  *P. zapotecorum* from Mexico and South America ([[psilocybe-zapotecorum-section-zapotecorum-americas-pacific-distribution-guzman-1998]]),
-  suggesting ancient trans-Pacific connections
-
-### Boletaceous Fungi (Boletus and Heimiella)
-One of the most [[metzner-three-distinctive-features-shamanic-entheogenic-ceremonies]] of New Guinean sacred mushroom use
+  *P. zapotecorum* from Mexico and South America ([[metzner-three-distinctive-features-shamanic-entheogenic-ceremonies]] of New Guinean sacred mushroom use
 is the inclusion of **boletes** — pore-bearing mushrooms in the order
 Boletales — which are not known to contain psilocybin or related indole
 alkaloids. Guzmán's checklist includes:
@@ -61,31 +30,7 @@ as hallucinogenic, but Ott (1993) later stated that these fungi do not
 possess any neurotropic properties. The reasons for their inclusion in
 sacred mushroom practices remain unclear — they may serve as visual
 counterparts, ceremony accoutrements, or they may contain unidentified
-[[cordyceps-cancer-bioactive-compounds]].
-
-### Russula Species
-- **6 species of Russula** are listed among the sacred fungi used in
-  New Guinea
-- Like the boletes, *Russula* species are not known to contain
-  psilocybin or other indole hallucinogens
-- Their role in indigenous mushroom ceremonies may be primarily symbolic
-  or gustatory rather than pharmacological
-
-## The Significance of Non-Psilocybin Sacred Fungi
-
-The inclusion of boletes and *Russula* species in New Guinean sacred
-fungus traditions raises important questions about the nature of
-indigenous mushroom worship:
-
-1. **Ceremonial completeness** — The sacred fungi may form a ritual set
-   where not all members are psychoactive, similar to how indigenous
-   peoples often include multiple plant species in ceremonies where only
-   one or two are pharmacologically active
-2. **Visual identification** — Certain boletes and *Russula* species may
-   serve as recognizable markers or indicators of the right time, place,
-   or conditions for collecting the truly psychoactive species
-3. **Unidentified compounds** — Some boletes may contain as-yet-
-   unidentified [[cultural-evolution-and-psychoactive-substances]] that differ from the classical
+[[cultural-evolution-and-psychoactive-substances]] that differ from the classical
    psilocybin/psilocin profile
 4. **Cultural elaboration** — The category of "sacred mushroom" may be
    broader than "psychoactive mushroom" in indigenous New Guinean
@@ -129,6 +74,77 @@ been recorded by science.
 
 ## See Also
 
-- [[neurotropic-fungi-southern-hemisphere-origin-biogeography-guzman-1998]]
 - [[neurotropic-fungi-of-mexico]]
 - [[sacred-gasteromycetes-non-psilocybin-psychoactive-fungi]]
+
+## Overview
+
+Neurotropic Fungi New Guinea Melanesia Indigenous Use Guzman 1998 represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish neurotropic fungi new guinea melanesia indigenous use guzman 1998
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving neurotropic extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Neurotropic Fungi New Guinea Melanesia Indigenous Use Guzman 1998 finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for neurotropic fungi new guinea melanesia indigenous use guzman 1998. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+neurotropic fungi new guinea melanesia indigenous use guzman 1998 and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Neurotropic Fungi New Guinea Melanesia Indigenous Use Guzman 1998 has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of neurotropic fungi new guinea melanesia indigenous use guzman 1998 into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions

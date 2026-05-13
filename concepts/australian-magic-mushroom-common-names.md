@@ -23,33 +23,15 @@ knowledge of their scientific names. Instead, they have given their favorite
 species local epithets which are commonly used by those who collect and ingest
 them. Some of these popular names are also known and applied by users outside
 of Australia and New Zealand. The study of these common names provides insight
-into the gordon-wasson-mushroom-discovery on the ceremonial use of [[emcdda-hallucinogenic-mushrooms-emerging-trend-europe]] among the
-Mazatec Indians of Southern Mexico (see Wasson, 1957). In New Zealand, the term
-"magic mushroom" is certainly more popular than any other term used in
-identifying psilocybian mushrooms.
-
-## Gold Tops and Gold Caps
-
-[[psychedelic-mushroom-set-and-setting]] is not
+into the gordon-wasson-mushroom-discovery on the ceremonial use of [[psychedelic-mushroom-set-and-setting]] is not
 known to occur naturally in New Zealand.
 
-Those who ingest [[panaeolus-cyanescens-bali-omelette]] in the
-Hawaiian Islands. Some of these same popular names have also been used by
-visiting surfers from both New Zealand and Australia to describe the
-macroscopic characteristics of the species.
-
-The terms "gold tops" or "golden caps" often refer to the color of the pileus
-(cap) of both [[panaeolus-cyanescens-bali-omelette]], which are
+Those who ingest [[panaeolus-cyanescens-bali-omelette]], which are
 hygrophanous -- meaning they change color as they dry.
 
 ## Blue Meanies
 
-The epithet "blue meanies" refers primarily to [[metol-testing-bluing-reaction-mushrooms]].
-
-## Liberty Cap (Psilos)
-
-In the [[dmt-containing-plants-united-states-halpern]], Canada, Great Britain, and Europe, [[psychedelic-mushroom-set-and-setting]]) which was different from
-those used in New Zealand. See [[panaeolus-cyanescens-bali-omelette]]
+The epithet "blue meanies" refers primarily to [[dmt-containing-plants-united-states-halpern]], Canada, Great Britain, and Europe, [[panaeolus-cyanescens-bali-omelette]]
 - Neither the Australian "gold tops" nor the English/American "liberty caps"
   has been widely adopted in New Zealand
 
@@ -64,7 +46,6 @@ the terminology and provided location information to would-be foragers.
 
 ## See Also
 
-- [[panaeolus-cyanescens-bali-omelette]] -- the "blue meanie" species
 - [[liberty-cap-british-discovery-1970s]] -- British history of the liberty cap
 ## Practical Considerations
 
@@ -114,8 +95,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[dmt]]
 - [[d-gold]]
-- [[psilocybin-mushroom-common-names-slang]]
 - [[emcdda-european-magic-mushroom-hunting-wild-foraging-practices]]
 - [[magic-mushroom-tipping-point-1970s-america]]

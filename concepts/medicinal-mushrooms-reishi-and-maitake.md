@@ -37,14 +37,7 @@ substrate is sterilized and inoculated with grain spawn.
 
 Colonization is slower than most gourmet species, typically requiring 30 to
 60 days at 25 to 30 degrees C. Reishi prefers warmer temperatures throughout
-its life cycle compared to most cultivated mushrooms. The [[spore]]s (a
-visible brown dust). Reishi continuously produces spores in abundance during
-maturity, which are also collected for their medicinal value.
-
-### Medicinal Properties
-
-Reishi contains [[comparison-lions-mane-vs-cordyceps-cultivation]]
-- [[cancer-medicinal-mushrooms-turkey-tail-psk-and-psp]]
+its life cycle compared to most cultivated mushrooms. The [[comparison-lions-mane-vs-cordyceps-cultivation]]
 - [[gourmet-medicinal-mushroom-oyster-cultivation-methods]]
 ## Practical Considerations
 
@@ -88,3 +81,11 @@ and helps identify patterns that might otherwise be overlooked in the
 complexity of day-to-day management and observation activities.
 
 ## Future Directions
+
+## See Also
+
+- [[medicinal-herb-growing]]
+- [[medicinal-herbs-for-livestock]]
+- [[cancer-medicinal-mushrooms-reishi-ganoderma-research]]
+- [[cancer-medicinal-mushrooms-mixed-extracts-synergism]]
+- [[cancer-medicinal-mushrooms-pleurotus-ostreatus]]

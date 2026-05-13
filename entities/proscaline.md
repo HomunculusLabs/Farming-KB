@@ -12,21 +12,9 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - Shulgin, A. & Shulgin, A. (1991). "PiHKAL: A Chemical Love Story." Transform Press.
-  - Trachsel, D. et al. (2013). "The Psychopharmacology of Novel [[cultural-evolution-and-psychoactive-substances]]." Springer.
-  - Roth, B.L. et al. (1997). "LSD and phenethylamine hallucinogens." Psychopharmacology 130(3): 203-210.
-  - Ray, T.S. (2010). "Psychedelics and the human receptorome." PLoS ONE 5(2): e9019.
-created: 2026-05-07
----
+  - Trachsel, D. et al. (2013). "The Psychopharmacology of Novel [[alexander-shulgin]], who documented its synthesis and subjective effects in *PiHKAL* (Phenethylamines I Have Known and Loved), published in 1991. Shulgin assigned it the designation #39 in his research sequence.
 
-## Overview
-
-**Proscaline** (4-propyloxy-3,5-dimethoxyphenethylamine) is a synthetic psychedelic compound of the phenethylamine class. It is a homologue of mescaline, differing by the substitution of a propoxy group for mescaline's methoxy group at the 4-position of the phenyl ring.
-
-The compound was first synthesized and characterized by [[alexander-shulgin]], who documented its synthesis and subjective effects in *PiHKAL* (Phenethylamines I Have Known and Loved), published in 1991. Shulgin assigned it the designation #39 in his research sequence.
-
-Proscaline produces effects broadly similar to mescaline, including visual hallucinations, enhanced [[plant-sensory-perception]], and altered cognitive patterns. The propyl chain substitution results in a moderate increase in potency and a slightly altered duration and character of effects compared to the parent compound.
-
-The compound exists as a free base and is commonly encountered as a hydrochloride salt, a white crystalline powder. It is classified as a controlled substance in several jurisdictions due to its [[serotonin-psilocybin-structural-relationship-hallucinogenic-mechanism]] to scheduled phenethylamines.
+Proscaline produces effects broadly similar to mescaline, including visual hallucinations, enhanced [[serotonin-psilocybin-structural-relationship-hallucinogenic-mechanism]] to scheduled phenethylamines.
 
 ## Chemical Properties
 
@@ -46,33 +34,7 @@ The compound belongs to the phenylisopropylamine family of psychedelics. It is s
 
 The hydrochloride salt of proscaline forms white to off-white crystals. It is soluble in water and ethanol. The free base is an oily liquid at room temperature, consistent with higher-molecular-weight phenethylamines.
 
-[[psilocybin-storage-stability-post-harvest-degradation-mushrooms]] is good under cool, dry, dark conditions. The hydrochloride salt is hygroscopic and should be kept in a sealed container with desiccant for long-term preservation.
-
-## Pharmacology
-
-### Receptor Interactions
-
-Proscaline acts primarily as a serotonin 5-HT₂A receptor agonist, the mechanism considered responsible for its psychedelic effects. Binding affinity at 5-HT₂A is moderate, estimated to be approximately 2 to 3 times that of mescaline based on Shulgin's dose comparisons.
-
-Partial agonist activity at 5-HT₂C receptors likely contributes to the anxiogenic and stimulant components of the experience. Activity at 5-HT₁A receptors may modulate the emotional character of effects, though this has not been specifically studied for proscaline.
-
-The compound shows minimal activity at dopaminergic and adrenergic receptors in the low micromolar range, consistent with the selectivity profile of other mescaline analogues.
-
-### Pharmacokinetics
-
-Onset of effects occurs approximately 30 to 60 minutes after oral administration. Peak plasma concentrations and subjective effects are reached at 2 to 3 hours. The propoxy substitution likely increases lipophilicity relative to mescaline, potentially enhancing blood-brain barrier penetration.
-
-Duration of effects is typically 8 to 12 hours, slightly longer than mescaline's 6 to 10 hour range. The extended duration is attributed to slower metabolic clearance of the propyl side chain.
-
-Metabolism is presumed to occur via hepatic oxidative deamination by monoamine oxidase (MAO) enzymes, followed by conjugation and renal excretion. The propyl group likely undergoes omega-oxidation before cleavage.
-
-## Effects
-
-### Subjective Effects Profile
-
-The subjective effects of proscaline are broadly similar to mescaline but with subtle qualitative differences. Visual hallucinations include geometric patterns, color intensification, and trailing effects. Open-eye visuals are generally less complex than those of LSD or psilocybin.
-
-Enhanced sensory perception is a prominent feature, particularly increased appreciation of music, tactile sensitivity, and heightened [[mckenna-roland-fischer-psilocybin-visual-acuity]]. Users frequently report a warm, organic quality to the experience distinct from the more analytical character of tryptamine psychedelics.
+[[mckenna-roland-fischer-psilocybin-visual-acuity]]. Users frequently report a warm, organic quality to the experience distinct from the more analytical character of tryptamine psychedelics.
 
 Emotional effects include euphoria, increased empathy, and philosophical introspection. The headspace is described as clearer and less confusing than mescaline, with greater cognitive lucidity maintained throughout the experience.
 
@@ -87,3 +49,80 @@ Shulgin's original dosage entry in *PiHKAL* cites 60 mg as a typical active dose
 ## Synthesis
 
 The synthesis of proscaline follows a classical route analogous to Shulgin's general procedure for alkoxy-substituted phenethylamines. The [[shirota-4-hydroxyindole-acetyl-protection-psilocin-synthesis-starting-material]] is 3,5-dimethoxy-4-hydroxybenzaldehyde (syringaldehyde), which is alkylated with 1-bromopropane to yield 3,5-dimethoxy-4-propyloxybenzaldehyde.
+
+## Overview
+
+Proscaline represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish proscaline
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving proscaline extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Proscaline finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for proscaline. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+proscaline and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Proscaline has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of proscaline into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.

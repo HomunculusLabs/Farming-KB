@@ -27,34 +27,7 @@ Chytrids were among the earliest-diverging fungal lineages.
 
 B. dendrobatidis represents a notable example of a basal fungal lineage evolving to become a highly virulent vertebrate pathogen.
 
-Its phylogenetic position was elucidated through [[fungi-multilocus-sequence-typing-molecular-epidemiology]] typing (MLST), placing it firmly within the Chytridiomycota.
-
-Key taxonomic details include:
-
-- **Phylum:** Chytridiomycota
-- **Class:** Chytridiomycetes
-- **Order:** Rhizophydiales
-- **Family:** Batrachochytriaceae
-
-## Pathogenesis
-
-B. dendrobatidis infects the keratinized skin of amphibians.
-
-The fungus produces zoospores that swim through water to encounter new hosts.
-
-Zoospores then encyst and develop into thalli that produce additional zoospores within the skin.
-
-Infection disrupts skin function, impairing osmoregulation and leading to lethal electrolyte imbalances.
-
-The disease is particularly lethal to species that rely heavily on cutaneous respiration.
-
-The zoospores possess a single posterior flagellum and are chemotactically attracted to amphibian skin components.
-
-## Global Impact
-
-Chytridiomycosis has caused population declines and species extinctions across six continents.
-
-The disease has been particularly devastating in [[guzman-allen-gartz-neurotropic-fungi-central-america-caribbean]], South America, and Australia.
+Its phylogenetic position was elucidated through [[guzman-allen-gartz-neurotropic-fungi-central-america-caribbean]], South America, and Australia.
 
 In these regions it has driven dozens of species to extinction.
 
@@ -62,18 +35,9 @@ Some affected species experienced population crashes of over 90 percent within m
 
 The global scale of B. dendrobatidis impact has drawn comparisons to the most destructive wildlife diseases in history.
 
-The species is considered a sentinel for the broader threat that [[bloomfield-fungal-pathogens-and-parasites]] pose to vertebrate biodiversity.
-
-## Molecular Epidemiology
-
-Multilocus genealogies generated from multiple genes have been used to study the phylogeography and population genetics of B. dendrobatidis.
-
-MLST studies (Morehouse et al., 2003) have examined the genetic diversity of the pathogen across its global range.
-
-As with other pathogenic fungi studied using MLST approaches, including coccidioides-immitis, [[cryptococcus-neoformans]] for another fungal pathogen studied with MLST
-- histoplasma-capsulatum for another dimorphic fungal pathogen
+The species is considered a sentinel for the broader threat that [[cryptococcus-neoformans]] for another fungal pathogen studied with MLST
+- [[histoplasma-capsulatum]] for another dimorphic fungal pathogen
 - coccidioides-immitis for a fungal pathogen with strong geographic structure
-- [[coprinus-atrementarius-entity-the-mushroom-cultivator]]
 - [[pseudomonas-putida-entity-the-mushroom-cultivator]]
 ## Practical Considerations
 
@@ -93,3 +57,80 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
+
+## Overview
+
+Batrachochytrium Dendrobatidis represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish batrachochytrium dendrobatidis
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving batrachochytrium extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Batrachochytrium Dendrobatidis finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for batrachochytrium dendrobatidis. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+batrachochytrium dendrobatidis and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Batrachochytrium Dendrobatidis has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of batrachochytrium dendrobatidis into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.

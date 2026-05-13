@@ -7,22 +7,12 @@ tags:
   - ergopeptine
   - ergoline
   - dopamine-agonist
-  - lysergic-acid-derivative
+  - [[lysergic-acid]]-derivative
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "Berde, B. & Schild, H.O. (1978). claviceps-purpurea-chemistry-and-water-soluble-ergot-alkaloids and Related Compounds. Springer-Verlag."
-  - "Hofmann, A. (1978). \"The [[claviceps-purpurea-chemistry-and-water-soluble-ergot-alkaloids]]: History, chemistry, and pharmacology.\" In: Ergot Alkaloids. Springer, 3-24."
-  - "Schultz, J.E. & Tatlock, J.H. (2018). \"Biosynthesis of ergot alkaloids in fungi.\" Applied Microbiology and Biotechnology, 102(15), 6467-6482."
-  - "Pertz, H.H. & Eich, E. (1999). \"Ergot alkaloids and their derivatives as ligands for serotoninergic, dopaminergic, and adrenergic receptors.\" Current Pharmaceutical Design, 5(5), 317-339."
----
-
-# Ergocryptine
-
-## Overview
-
-Ergocryptine is an ergopeptine alkaloid of the ergot alkaloid family,
-produced by the sclerotia of *[[bloomfield-ergot-claviceps-purpurea-ergotism]]* and related fungi.
+  - "Berde, B. & Schild, H.O. (1978). [[claviceps-purpurea]]-chemistry-and-water-soluble-ergot-alkaloids and Related Compounds. Springer-Verlag."
+  - "Hofmann, A. (1978). \"The [[bloomfield-ergot-claviceps-purpurea-ergotism]]* and related fungi.
 It is a cyclic tripeptide derivative of [[ergot-and-lysergic-acid-history]], classified
 structurally as an ergoline.
 
@@ -53,38 +43,86 @@ The ergocryptine molecule consists of three structural domains:
 
 1. **Tetracyclic ergoline ring system** — the pharmacophore shared by all
    ergot alkaloids, containing the D-ring indole moiety responsible for
-   [[tihkal-receptor-binding-serotonin]]
-2. **Cyclol bridge** — linking the tripeptide chain to the ergoline at C-8,
-   forming the characteristic bicyclic peptide ring of ergopeptines
-3. **Tripeptide moiety** — composed of L-alanine, L-proline, and
-   α-aminoisobutyric acid (Aib); the Aib residue distinguishes ergocryptine
-   from ergocristine (which has L-valine) and ergocornine (which has
-   L-α-aminobutyric acid)
-
-The epimeric difference between α- and β-ergocryptine lies at the
-α-carbon of the cyclol-bridged proline residue — the "α" configuration
-places the proline hydrogen in the equatorial position and is thermodynamically
-favored.
-
-## Pharmacology
-
-Ergocryptine acts primarily as a **dopamine D₂ receptor agonist**, with
-additional activity at serotonin 5-HT₁A, 5-HT₂A, and adrenergic α₁ and
-α₂ receptors.
-
-| Receptor | Activity | Affinity (approx.) |
-|----------|----------|-------------------|
-| D₂ (dopamine) | Agonist | High (nM range) |
-| 5-HT₁A | Partial agonist | Moderate |
-| 5-HT₂A | Antagonist | Moderate |
-| α₁-adrenergic | Antagonist | Low–moderate |
-| α₂-adrenergic | Agonist | Low–moderate |
-
-The dopaminergic agonism produces:
-- Inhibition of prolactin secretion from anterior pituitary lactotrophs
-- Reduction in [[mushroom-growth-hormone-decapitation-gill-diffusate-evidence-basidiomycetes]] secretion
+   [[mushroom-growth-hormone-decapitation-gill-diffusate-evidence-basidiomycetes]] secretion
 - Antiemetic activity via the chemoreceptor trigger zone
 - Vasoconstriction via peripheral α-adrenergic action
 
 β-Ergocryptine (ergocristinine) has significantly reduced receptor affinity
 due to the unfavorable stereochemistry at the cyclol bridge, demonstrating
+
+## Overview
+
+Ergocryptine represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish ergocryptine
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving ergocryptine extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Ergocryptine finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for ergocryptine. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+ergocryptine and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Ergocryptine has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of ergocryptine into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.

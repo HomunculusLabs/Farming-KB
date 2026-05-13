@@ -24,18 +24,7 @@ The fungal cell wall is a dynamic, multi-layered structure that provides mechani
 - **Beta-glucans**: Beta-1,3-glucan forms the main amorphous matrix component, cross-linked with beta-1,6-glucan branches. This glucan network contributes to wall strength, elasticity, and porosity.
 - **Alpha-glucans**: Present in some groups, especially yeasts and certain pathogenic fungi. Alpha-1,3-glucan can serve as a major wall component that influences host immune interactions.
 - **Glycoproteins**: Mannoproteins and other glycoproteins coat the outer surface, mediating cell-cell recognition, adhesion to substrates, and interactions with animal immune systems.
-- **Melanin**: Dark pigments deposited in cell walls of many soil and environmental fungi. Melanization provides protection against UV radiation, [[enzymatic-degradation-in-mycoremediation]] by other microorganisms, temperature extremes, and oxidative stress.
-
-### Variation Among Fungal Groups
-
-The composition and architecture of cell walls vary significantly among the major fungal lineages:
-
-- **Zygomycetes**: Walls contain chitosan (deacetylated chitin) rather than pure chitin, along with polyglucuronic acid and other uronic acid-containing polymers.
-- **Ascomycetes**: Typically have walls rich in chitin and beta-glucans, with mannoproteins on the outer surface. The septal pores may contain Woronin bodies.
-- **Basidiomycetes**: Walls tend to have higher proportions of xylan-like polysaccharides and may contain alpha-glucans. Dolipore septa with parenthesomes are characteristic.
-- **Yeasts**: Cell walls are adapted for unicellular growth, with greater emphasis on mannoproteins and often containing higher proportions of beta-1,6-glucan.
-
-Cell wall composition can change during different life cycle stages, during host infection by pathogenic species, and in response to environmental conditions such as pH, [[ph-and-nutrient-availability-garden-soils]], and temperature.
+- **Melanin**: Dark pigments deposited in cell walls of many soil and environmental fungi. Melanization provides protection against UV radiation, [[ph-and-nutrient-availability-garden-soils]], and temperature.
 
 ## Hyphal Structure and Growth
 
@@ -56,11 +45,7 @@ Hyphae may be septate (divided by cross-walls called septa) or coenocytic (asept
 
 ## Mycelium Architecture
 
-The mycelium is the collective network of hyphae produced by a single fungal individual. Once established, mycelia are capable of essentially unlimited growth and persistence. This indeterminate body structure allows a single mycelium to occupy a heterogeneous suite of microenvironments while distant segments remain interconnected, facilitating [[plasmodesmata-and-intercellular-communication-in-plants]] and resource translocation.
-
-### Specialized Mycelial Structures
-
-- **Rhizomorphs**: Dense, root-like aggregations of hyphae with differentiated tissues. They facilitate long-distance [[mycelial-network-nutrient-transport-imaging-gadd]] and colonization of new substrates. Armillaria species form massive rhizomorph networks in forest soils that can extend for tens of meters.
+The mycelium is the collective network of hyphae produced by a single fungal individual. Once established, mycelia are capable of essentially unlimited growth and persistence. This indeterminate body structure allows a single mycelium to occupy a heterogeneous suite of microenvironments while distant segments remain interconnected, facilitating [[mycelial-network-nutrient-transport-imaging-gadd]] and colonization of new substrates. Armillaria species form massive rhizomorph networks in forest soils that can extend for tens of meters.
 - **Mycelial cords and strands**: Less differentiated hyphal aggregations that serve similar functions in resource translocation, commonly observed in woodland leaf litter.
 - **Sclerotia**: Compact, hardened masses of hyphae surrounded by a melanized rind. They serve as survival structures, allowing fungi to persist through unfavorable conditions such as drought, freezing, or nutrient depletion.
 - **Hyphal mats and wefts**: Dense surface growths that form at interfaces between organic substrates and mineral soil, important in nutrient cycling.
@@ -74,15 +59,8 @@ From a genetic perspective, a single underground mycelium constitutes one indivi
 Several practical methods are available for studying fungal cell structure:
 
 - **Diazonium blue B (DBB) staining**: Distinguishes filamentous basidiomycetes (positive, purple-blue stain) from ascomycetes (usually negative). Mycelia are grown statically in liquid medium, harvested, rinsed, incubated 12 hours in 1 M KOH at 4 degrees C, rinsed again, and transferred to cold 0.1 M Tris-HCl buffer containing DBB.
-- **[[fungal-microscopic-examination-mounting-media-techniques]] of septa**: Slide cultures improve resolution of individual hyphal details including septal pores and associated structures. Squash mounts and thin sections viewed under differential interference contrast or phase contrast microscopy reveal septal ultrastructure.
-- **Cell wall analysis**: Chemical extraction and quantification of chitin (via acid hydrolysis and glucosamine assay), glucans, and other wall components through enzymatic digestion and chromatographic methods.
-- **Fluorescence microscopy**: Calcofluor white and other fluorescent brighteners bind to chitin and beta-glucans, allowing visualization of hyphal walls and septa.
-
-## See Also
-
-- [[alpha-1-3-glucan-fungal-pathogen-cell-walls]]
+- **[[alpha-1-3-glucan-fungal-pathogen-cell-walls]]
 - fungal-chitin-decomposition-nutrient-cycling
-- [[gadd-fungal-nutrition-metabolism]]
 - [[gadd-fungal-biodiversity-conservation]]
 
 ## Practical Applications
@@ -114,8 +92,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[doc]]
 - [[dom]]
-- [[det]]
 - [[spore]]
 - [[mycoremediation]]

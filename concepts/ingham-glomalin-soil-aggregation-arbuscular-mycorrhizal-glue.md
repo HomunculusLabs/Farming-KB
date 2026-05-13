@@ -1,6 +1,6 @@
 ---
 title: Glomalin — Arbuscular Mycorrhizal "Glue" for Soil Aggregation
-source: Ingham, E.R. (2004). The Field Guide I for [[actively-aerated-compost-tea]] Compost Tea (AACT).
+source: Ingham, E.R. (2004). The Field Guide I for actively-aerated-compost-tea Compost Tea (AACT).
 tags: [soil-science, mycorrhizae, glomalin, soil-aggregation, soil-food-web, compost-tea, ingham]
 ---
 
@@ -40,25 +40,12 @@ In Ingham's soil food web model, glomalin production is a direct indicator of a 
 
 - **Mycorrhizal colonization**: Plants in healthy soil form symbiotic relationships with AMF, trading photosynthate (sugars) for mineral nutrients and water
 - **Hyphal networks**: As AMF hyphae extend through soil, they deposit glomalin along their length, coating root zones and beyond
-- **Food web support**: Glomalin-coated aggregates create habitat for bacteria, which in turn feed [[teaming-with-microbes-protozoa-and-nematodes]], completing the nutrient cycling loop
-- **Fungal dominance**: Soils dominated by fungal biomass (typical of perennial plant systems, forests, and pastures) tend to have higher glomalin levels than bacterial-dominated soils
-
-## The Mycorrhizal Symbiosis and Glomalin Production
-
-The process begins when a plant root exudes sugars and organic acids into the rhizosphere. These exudates signal arbuscular mycorrhizal fungi to colonize the root cortex. Once inside, the fungus forms arbuscules — tree-like structures — that facilitate nutrient exchange. In return for up to 20% of the plant's photosynthate, the fungus extends hyphae far beyond the root zone, mining phosphorus, zinc, copper, and water from soil particles that roots cannot reach.
-
-As hyphae grow through soil, they secrete glomalin continuously. This secretion serves multiple functions: it protects the hyphae from soil microbes, helps the hyphae adhere to soil particles for [[comparison-silicon-vs-calcium-in-plant-defense-and-structural-support]], and creates a sticky coating that binds mineral particles together. When hyphae eventually die and decompose, the glomalin coating remains, leaving behind a persistent glue that holds soil aggregates together long after the fungal tissue has been recycled.
+- **Food web support**: Glomalin-coated aggregates create habitat for bacteria, which in turn feed [[comparison-silicon-vs-calcium-in-plant-defense-and-structural-support]], and creates a sticky coating that binds mineral particles together. When hyphae eventually die and decompose, the glomalin coating remains, leaving behind a persistent glue that holds soil aggregates together long after the fungal tissue has been recycled.
 
 ## Factors Affecting Glomalin Production
 
 ### Positive Influences
 - **Perennial plantings**: Long-lived plant-fungal associations allow glomalin to accumulate over years
-- **[[coleman-bed-preparation-and-minimal-tillage]]**: Tilling breaks hyphal networks and physically disrupts aggregates, releasing glomalin-protected carbon
-- **Diverse plant communities**: Different plant species support different AMF species, increasing overall glomalin diversity and production
-- **Compost tea applications**: AACT that introduces or supports mycorrhizal fungi can enhance glomalin deposition, especially when applied to soil around root zones
-- **Cover crops**: Living roots year-round maintain AMF networks and continuous glomalin production
-
-### Negative Influences
 - **[[comparison-no-till-vs-conventional-tillage]]**: Breaks hyphae, destroys aggregates, oxidizes glomalin-bound carbon
 - **Fungicide applications**: Directly kill or suppress AMF populations
 - **High phosphorus fertilization**: Reduces plant dependency on AMF, causing the symbiosis to atrophy
@@ -117,8 +104,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[arbuscular-mycorrhizal-fungi]]
 - [[elaine-ingham]]
-- [[mycorrhizal-fungi]]
 - [[mycorrhizal-symbiosis]]
 - [[query-what-is-the-soil-food-web-and-why-does-it-matter]]

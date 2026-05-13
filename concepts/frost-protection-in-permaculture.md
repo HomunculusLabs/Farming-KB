@@ -21,30 +21,7 @@ On clear nights with no wind, the earth rapidly loses heat by radiation to the c
 
 ## The Radiation Principle
 
-The fundamental rule of frost protection is: **the amount of heat lost on a cold night is proportional to the area of night sky visible to the object losing heat.** This single principle drives all passive [[frost-protection-strategies]].
-
-### Steep-Sided Clearings and Pits
-
-To reduce frost on a site, create a steep-sided clearing or pit so that radiation is restricted to a small area of sky. In such clearings, two protective effects occur simultaneously:
-1. Radiant heat from the vertical edges of trees or earth walls warms the enclosed space
-2. The horizon is obscured, limiting the area of sky from which radiation loss occurs
-
-### Sizing Clearings
-
-The clearing or pit should be small relative to its height. The rule is to make the clearing approximately **one-half as wide as it is high**, with sides trimmed to vertical. In forests, frost-protective clearings should not exceed 30 meters across.
-
-This explains why:
-- Small clearings in forests are frost-free while large clearings experience severe frost
-- Plants growing in depressions or beside walls often survive when exposed plants freeze
-- A small garden surrounded by trees or buildings may be frost-free while an open field nearby is frozen solid
-
-## Staged Frost Protection with Trees
-
-### The Succession Approach
-
-Building a complete crown cover to prevent frost is best done in stages, using increasingly frost-tender species as the canopy develops:
-
-1. **Stage 1**: Plant the entire area to frost-tolerant pioneer species (e.g., silver wattle, *[[acacia-dealbata]]*)
+The fundamental rule of frost protection is: **the amount of heat lost on a cold night is proportional to the area of night sky visible to the object losing heat.** This single principle drives all passive [[acacia-dealbata]]*)
 2. **Stage 2**: Plant semi-hardy fruit trees in the shelter of the pioneers
 3. **Stage 3**: As the frost-sensitive trees gain height, progressively cut back the pioneer canopy
 
@@ -146,3 +123,11 @@ A complete frost management strategy integrates:
 7. **Tree mass moderates temperature** — even small forest clearings can be frost-free due to surrounding biomass
 8. **Black frosts are catastrophic** — research historical frost events before committing to frost-sensitive crops
 9. **Chill factor from wind** can create cold conditions beyond what altitude or latitude alone would predict
+
+## See Also
+
+- [[query-how-do-i-protect-plants-from-frost-and-freeze-damage]]
+- [[frost-protection-strategies]]
+- [[frost-protection-and-radiation-management]]
+- [[hemenway-cold-air-drainage-and-frost-management]]
+- [[permaculture-frost-protection-strategies]]

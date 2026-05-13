@@ -5,61 +5,13 @@ shown to influence not only growth rate and yield but also the
 morphological characteristics of developing fruit bodies. Research
 on Psilocybe cubensis treated with 22S,23S-homobrassinolide
 revealed notable alterations in fruit body structure, particularly
-the absence of the [[membranous-annulus-loss-brassinosteroid-induced-morphological-change]] (partial veil remnant).
-
-## The Annulus in Basidiomycetes
-
-The annulus, or ring, is a remnant of the partial veil (also
-called the inner veil) that protects the developing lamellae
-(gills) of many agaric mushrooms during early fruit body
-development. As the cap expands, the partial veil ruptures,
-leaving a ring of tissue on the stem. The presence, structure,
-and persistence of the annulus are important taxonomic
-characteristics used in mushroom identification.
-
-In Psilocybe cubensis, the annulus is typically membranous and
-persistent, forming a skirt-like structure on the upper portion
-of the stipe. It often darkens with age and may bear spore
-deposits. The annulus represents a distinct developmental
-landmark in the transition from primordium to mature sporocarp.
-
-## Observed Morphological Changes
-
-Gartz, Adam, and Vorbrodt (1990) reported that P. cubensis
-fruit bodies grown in the presence of 22S,23S-homobrassinolide
-(0.01 ppm) consistently lacked the typical membranous annulus.
-This morphological alteration was observed across multiple
-experimental runs, suggesting a systematic effect rather than
-random variation.
-
-The absence of the annulus indicates that the brassinosteroid
-interferes with normal partial veil development. This could occur
-through several mechanisms: accelerated cap expansion causing
-premature veil rupture before differentiation is complete,
-suppressed cellular differentiation of veil tissue, or altered
-timing of developmental gene expression during the transition
-from primordium to mature fruit body.
-
-## Fruiting Timeline Alterations
-
-Alongside morphological changes, [[annulus-loss-morphological-effect-brassinosteroid-treatment]]
+the absence of the [[annulus-loss-morphological-effect-brassinosteroid-treatment]]
 significantly compressed the fruiting timeline. Control cultures
 produced their first sporocarps within 4-5 weeks, while treated
 cultures fruited in only 3-3.5 weeks. This acceleration of
 approximately 25-30% was consistent across experimental runs.
 
-The first flush of [[flush-count-variation-brassinosteroid-treated-cultures]] produced 4-7 mushrooms
-compared to 1-3 in controls. This increased pinning density
-suggests that brassinosteroids either stimulate more primordia
-formation or improve the survival rate of developing primordia
-through the critical early stages of differentiation.
-
-## Yield Enhancement and Dry Mass
-
-Brassinosteroid-treated cultures produced remarkably higher dry
-mass than controls: 3.4-3.9 g versus 2.3-2.9 g per 10 g of
-dung/grain substrate across five flushes. This represents a
-30-50% increase in [[biological-efficiency]]. The effect was
+The first flush of [[biological-efficiency]]. The effect was
 consistent across the multiple flushes studied.
 
 Importantly, the formation of incomplete (aborted) fruit bodies,
@@ -71,11 +23,7 @@ yield and biological efficiency.
 
 ## Implications for Developmental Biology
 
-The [[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]] of brassinosteroids on fungal fruit
-bodies parallel their well-documented effects on plant
-development. In plants, brassinosteroids regulate cell
-elongation, cell division, and tissue differentiation through
-specific receptor-mediated [[plant-signaling-pathways]]. The analogous
+The [[plant-signaling-pathways]]. The analogous
 effects in fungi suggest either conservation of signaling
 components between kingdoms or convergent evolution of
 brassinosteroid-responsive mechanisms.
@@ -118,8 +66,85 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[brassinosteroid]]
 - [[doc]]
-- [[dom]]
 - [[mushroom-identification]]
 - [[biological-efficiency]]
+
+## Overview
+
+Brassinosteroid Effects On Fungal Fruiting Morphology represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish brassinosteroid effects on fungal fruiting morphology
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving brassinosteroid extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Brassinosteroid Effects On Fungal Fruiting Morphology finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for brassinosteroid effects on fungal fruiting morphology. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+brassinosteroid effects on fungal fruiting morphology and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Brassinosteroid Effects On Fungal Fruiting Morphology has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of brassinosteroid effects on fungal fruiting morphology into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also

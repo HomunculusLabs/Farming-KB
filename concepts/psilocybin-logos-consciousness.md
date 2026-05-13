@@ -10,7 +10,7 @@ tryptamine]
 
 ## Overview
 
-In Terence McKenna's framework, psilocybin is distinguished from other
+In [[terence-mckenna]]'s framework, psilocybin is distinguished from other
 psychedelics by its unique relationship to language and meaning. While
 LSD
 and mescaline primarily produce visual and emotional effects, psilocybin
@@ -46,7 +46,7 @@ of the experience is the interior dialogue."
 
 ## Stropharia cubensis: The Symbiotic Hypothesis
 
-McKenna proposes that Stropharia cubensis may not have originated on
+McKenna proposes that [[stropharia-cubensis]] may not have originated on
 Earth.
 Within the mushroom trance, he reports receiving information suggesting
 the
@@ -134,10 +134,7 @@ Borges' "The Sect of the Phoenix" — a secret that "all words name or
 rather inevitably allude to."
 
 ## See Also
-- [[powell-psilocybin-consciousness]]
 - [[mckenna-tryptamines-logos-consciousness]]
-- [[psilocybin-consciousness-as-information-in-process]]
-
 - [[dmt-tryptamine-hallucinogens]]
 - [[shamanism-tryptamine-ecologies]]
 

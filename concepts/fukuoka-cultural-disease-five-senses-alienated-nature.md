@@ -36,8 +36,7 @@ Fukuoka traces the progressive alienation of each sense from its natural source:
 
 1. **Touch**: People no longer tread over the bare earth. They walk on asphalt and concrete, separated from soil by rubber soles. The tactile experience of soil — its temperature, moisture, texture — has become foreign.
 2. **Touch and connection**: Their hands have drawn away from the grasses and flowers — the direct tactile experience of living plants. Children are taught not to touch dirt, to fear insects, to stay clean.
-3. **Sight**: They do not gaze up into the heavens — the natural sky is replaced by screens and ceilings. The daily observation of weather, clouds, stars, and seasonal change has been replaced by weather apps and [[cervantes-compact-fluorescent-lighting]].
-4. **Smell**: Their noses are rendered insensitive by exhaust fumes — the subtle fragrances of soil, plants, and seasons are lost. The smell of rain on dry earth, of blossoming [[comparison-pruning-fruit-trees-vs-grafting-fruit-trees]], of turned soil after a frost — these experiences no longer shape daily consciousness.
+3. **Sight**: They do not gaze up into the heavens — the natural sky is replaced by screens and ceilings. The daily observation of weather, clouds, stars, and seasonal change has been replaced by weather apps and [[comparison-pruning-fruit-trees-vs-grafting-fruit-trees]], of turned soil after a frost — these experiences no longer shape daily consciousness.
 5. **Taste**: Their tongues have forgotten the simple tastes of nature — only strong, artificial flavors register. The subtle sweetness of a sun-ripened fruit, the earthy depth of naturally grown grain, the clean taste of spring water — all have been replaced by sugar, salt, and chemical additives.
 
 All five senses have grown isolated from nature. People have become two or three steps removed from true man, in the same way that someone riding in a car over asphalt-paved roads is two or three steps removed from the bare earth.
@@ -48,36 +47,7 @@ Fukuoka identifies Japan's Meiji Reformation as the historical moment when this 
 
 "Progress in Japan since the Meiji Reformation has brought material confusion and spiritual devastation. Japan can be likened to a patient dying of cultural disease who is submitted to a medical experiment."
 
-This cultural flowering — pursued throughout the Meiji, Taisho, and Showa periods — was actually a flowering of destruction. The adoption of Western materialism and [[non-discriminating-knowledge-and-critique-of-scientific-reductionism]] severed Japan's traditional connection to nature-based living. What appeared as progress was in fact a systematic dismantling of the sensory and spiritual connections that had sustained Japanese culture for centuries.
-
-The Meiji reforms did not merely change Japan's political and economic institutions. They rewired the Japanese relationship with the natural world. Traditional farming practices that had evolved over millennia were replaced with Western scientific methods. Traditional diets gave way to processed and imported foods. The seasonal rhythms that had structured daily life were replaced by clock time and industrial schedules. Each of these changes represented a further step of sensory alienation.
-
-## The Medical Experiment Analogy
-
-The metaphor of Japan as a patient dying of cultural disease being subjected to a medical experiment is one of Fukuoka's most powerful images. It suggests that:
-
-- The disease is already terminal if left unchecked
-- The treatments being applied (more technology, more economic growth, more scientific intervention) are experimental and may themselves be harmful
-- The doctors administering the treatment do not understand the true nature of the disease
-- The patient (Japanese society, and by extension all modern civilization) is not being asked for consent
-- The experiment continues not because it shows promise of cure but because the experimenters have no alternative framework within which to work
-
-## Connection to Farming Philosophy
-
-This cultural diagnosis is not separate from Fukuoka's agricultural philosophy — it is its foundation. The objective of his do-nothing philosophy is the revival of villages of true man where people can return to the original form of nature and enjoy genuine happiness.
-
-The program to achieve this he calls simply Farming for All. It begins not with agricultural techniques but with the recognition that the sickness lies in human consciousness itself, in the severing of the senses from their natural context. Before people can farm naturally, they must first recover their natural senses. Before they can eat naturally, they must first be able to taste naturally.
-
-## The Two or Three Steps Removed
-
-Fukuoka's observation that modern people are "two or three steps removed from true man" operates on multiple levels:
-
-- **Physical removal**: Concrete, asphalt, shoes, and buildings separate the body from direct contact with earth. The skin, the body's largest sensory organ, barely encounters natural surfaces.
-- **Physiological removal**: Polluted air, processed food, and artificial environments dull the senses. The olfactory and gustatory systems are overwhelmed by synthetic chemicals and deprived of the subtle complexity of natural stimuli.
-- **Psychological removal**: Screens, schedules, and urban routines replace direct experience of natural cycles. The mind learns to process information rather than experience reality.
-- **Spiritual removal**: The belief that human knowledge surpasses natural wisdom severs the deepest connection — the sense of being part of something larger than the individual self.
-
-Each step of removal makes it harder to perceive the true nature of food, farming, and life itself. A person who has never touched soil cannot understand why [[natural-farming]] matters. A tongue that has forgotten simple flavors cannot taste the difference between naturally grown and artificially produced food.
+This cultural flowering — pursued throughout the Meiji, Taisho, and Showa periods — was actually a flowering of destruction. The adoption of Western materialism and [[natural-farming]] matters. A tongue that has forgotten simple flavors cannot taste the difference between naturally grown and artificially produced food.
 
 The accumulated effect is a population that does not know what it is missing. This is what makes cultural disease so insidious — unlike a physical illness with obvious symptoms, sensory alienation is invisible to those who suffer from it. They do not feel deprived because they have no memory of what full sensory engagement with nature feels like.
 
@@ -118,8 +88,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[doc]]
 - [[dom]]
-- [[fukuoka-five-principles-natural-farming-no-tillage-no-fertilizer]]
 - [[natural-farming-five-principles-fukuoka]]
 - [[fukuoka-natural-farming-five-principles]]

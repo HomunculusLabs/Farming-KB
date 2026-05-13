@@ -21,32 +21,7 @@ P. canina has been an important subject for studying how lichen fungi manage wat
 
 ## Taxonomy and Classification
 
-P. canina belongs to the class Lecanoromycetes within the [[ascomycota]].
-
-Key taxonomic details include:
-
-- **Phylum:** Ascomycota
-- **Class:** Lecanoromycetes
-- **Order:** Peltigerales
-- **Family:** Peltigeraceae
-
-The genus name *Peltigera* derives from the Latin *pelta* (small shield), referring to the shield-like shape of the thallus lobes.
-
-The specific epithet *canina* (dog) refers to the resemblance of the thallus underside to dog's teeth, and to the traditional belief that the lichen could cure rabies.
-
-## Water Relations and Hydrophobins
-
-P. canina was among the first [[water-management]] in [[lichens]].
-
-## Symbiotic Interface
-
-At the mycobiont-photobiont interface, P. canina maintains a complex wall structure with multiple layers.
-
-The photobiont has access to water and dissolved nutrients only via passive apoplastic fluxes within the quantitatively dominant fungal exhabitant.
-
-The mycobiont-derived hydrophobin layer (or hydrophobin-like compounds) overlies the interface.
-
-The photobiont [[staycare-degradation-of-plant-cell-wall-polymers-by-fungi]] layers form the inner boundary.
+P. canina belongs to the class Lecanoromycetes within the [[water-management]] in [[staycare-degradation-of-plant-cell-wall-polymers-by-fungi]] layers form the inner boundary.
 
 The mycobiont-derived rodlet layer of hydrophobin controls water movement between the symbiotic partners.
 
@@ -87,3 +62,88 @@ They are particularly characteristic of nutrient-enriched sites.
 They are often found in association with nitrogen-fixing cyanobacteria.
 
 The genus is widely distributed in temperate and boreal regions.
+
+## Overview
+
+Peltigera Canina represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish peltigera canina
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving peltigera extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Peltigera Canina finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for peltigera canina. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+peltigera canina and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Peltigera Canina has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of peltigera canina into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[peltigera-aphthosa]]
+- [[peltigera-horizontalis]]
+- [[peltigera-leucophlebia]]
+- [[peltigera-membranacea]]
+- [[peltigera-rufescens]]

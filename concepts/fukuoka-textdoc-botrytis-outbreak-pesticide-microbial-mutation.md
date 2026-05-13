@@ -25,8 +25,7 @@ introduction of new pesticides after World War II. His investigation of
 this incident led him to a broader and more disturbing conclusion: that
 the widespread spraying of mutagenic pesticides on easily mutated
 microbes poses a grave and largely unrecognized threat to agricultural
-ecosystems. This page explores the [[fukuoka-textdoc-loquat-incident-microbial-mutation]], the biology of the
-botrytis fungus, and Fukuoka's experiments with [[fukuoka-straw-scattering-testing-station-resistance]] and, with the whole village cooperating in a pesticide
+ecosystems. This page explores the [[fukuoka-straw-scattering-testing-station-resistance]] and, with the whole village cooperating in a pesticide
 spraying program, the organism was soon brought under control. The
 loquats gradually came back and everything appeared to look rosy again.
 
@@ -35,10 +34,8 @@ loquats gradually came back and everything appeared to look rosy again.
 One critical question remained unanswered: why had this outbreak occurred
 in the first place? Fukuoka's theory was that it was triggered by the
 sudden spraying of a whole series of new pesticides following the war in
-an attempt to [[fukuoka-mite-scale-microclimate-control-citrus-orchard]] diseases. The organism responsible was likely
-a botrytis fungus, either Botrytis cinerea, which causes [[cervantes-gray-mold-botrytis-prevention]] in
-[[hamilton-citrus-fruit-growing]], or a variant of the same species. Several factors
-contributed to the conditions that allowed the [[query-what-are-the-best-mushroom-substrates-for-different-species]] Satsuma oranges and summer
+an attempt to [[cervantes-gray-mold-botrytis-prevention]] in
+[[query-what-are-the-best-mushroom-substrates-for-different-species]] Satsuma oranges and summer
 oranges in Japan bear different scientific names, he initially thought
 they were different species. But when he tried crossing them, mycelial
 conjugation took place and ascospores were formed. By crossing these eight
@@ -62,8 +59,7 @@ mutagenic chemicals in the environment, remained unchanged or were
 actually worsened by the spraying program. The pesticides killed not only
 the target fungus but also the countless beneficial microorganisms that
 compete with pathogens and maintain the natural biological balance in the
-orch [[fukuoka-textdoc-postwar-mite-epidemic-pesticide-spiral]]
-- [[decomposition]]
+orch [[decomposition]]
 ## Practical Considerations
 
 Successful implementation of Botrytis Fungus Outbreak and Pesticide-Induced Microbial Mutation requires attention to
@@ -85,39 +81,6 @@ communities, and systematic experimentation to build expertise.
 
 ## See Also
 
-- [[fukuoka-textdoc-pesticide-spider-firefly-destruction]]
-
-## Practical Applications
-
-The principles and techniques discussed here have wide-ranging applications
-across multiple disciplines and contexts. Practitioners and researchers
-continue to explore new ways to integrate these concepts into modern practice,
-adapting traditional knowledge to contemporary challenges and opportunities.
-
-## Key Considerations
-
-Several important factors influence the effectiveness and outcomes described
-in this topic. Understanding these considerations helps practitioners make
-informed decisions and avoid common pitfalls. Environmental conditions,
-timing, and material selection all play critical roles.
-
-## Historical Context
-
-The historical development of this subject reflects centuries of accumulated
-knowledge and practical experience. From traditional methods passed down
-through generations to modern scientific approaches, the evolution continues
-to inform current best practices and research directions.
-
-## Common Challenges
-
-Practitioners frequently encounter several challenges when working with
-these concepts. Climate variability, resource limitations, and knowledge
-gaps can all affect outcomes. Addressing these challenges requires patience,
-observation, and a willingness to adapt approaches based on results.
-
-## See Also
 - [[botrytis-cinerea]]
-- [[masanobu-fukuoka]]
 - [[doc]]
-- [[det]]
 - [[spore]]

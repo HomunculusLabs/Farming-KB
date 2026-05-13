@@ -4,8 +4,7 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [safety, homesteading, climate, water, animal-husbandry]
-sources:
-  - "raw/papers/coleman-new-organic-grower.md"
+sources: []
 ---
 
 # Winter Storm Preparedness
@@ -50,7 +49,7 @@ A 5,000W generator can run a small electric furnace or several baseboard heaters
 ### Prevention
 - Wrap all exposed pipes in unheated areas with foam insulation sleeves
 - Use heat tape on the most vulnerable pipes
-- Seal gaps and cracks where [[hemenway-cold-air-drainage-and-frost-management]] enters near pipes
+- Seal gaps and cracks where cold air enters near pipes
 - During extreme cold, allow faucets to drip slowly
 - Open cabinet doors under sinks on exterior walls
 - Know the location of your main water shut-off valve
@@ -73,7 +72,7 @@ Wind + moisture is far more dangerous than cold alone.
 
 **Ducks:** Draft-free shelter at night. Ensure water does not freeze — ducks need water to eat and maintain waterproofing. Use heated water bowls. Frostbite risk on feet and bills in extreme cold.
 
-**Chickens:** Draft-free but ventilated coop. [[comparison-deep-litter-vs-hot-composting]] method provides warmth. Apply petroleum jelly to combs and wattles before extreme cold. Heated waterers or frequent replacement. Extra feed in late afternoon for overnight warmth.
+**Chickens:** Draft-free but ventilated coop. Deep litter method provides warmth. Apply petroleum jelly to combs and wattles before extreme cold. Heated waterers or frequent replacement. Extra feed in late afternoon for overnight warmth.
 
 **General:** Windbreak is the single most important shelter feature. Increase feed availability. Ensure continuous water access. Monitor animals twice daily during extreme cold.
 
@@ -81,7 +80,7 @@ Wind + moisture is far more dangerous than cold alone.
 
 **Water:** 1 gallon per person per day, additional for pets/livestock. Store indoors protected from freezing. Water purification supplies.
 
-**Food:** Non-perishable food requiring no cooking. Manual can opener. Camp stove with fuel [[query-how-to-build-a-cob-oven-for-outdoor-cooking]]. High-calorie comfort foods and hot drinks.
+**Food:** Non-perishable food requiring no cooking. Manual can opener. Camp stove with fuel for outdoor cooking. High-calorie comfort foods and hot drinks.
 
 **Warmth:** Sleeping bags rated to 0°F, extra wool blankets, warm layered clothing, waterproof boots and gloves, chemical heat packs, emergency thermal blankets (Mylar).
 
@@ -107,20 +106,6 @@ Wind + moisture is far more dangerous than cold alone.
 
 - safety — Comprehensive safety planning and [[emergency-preparedness]]
 - [[firewood-seasoning-and-storage]] — Ensuring adequate seasoned wood supply for winter heating
-- [[holzer-natural-animal-husbandry]] — Livestock care and management
+- animal husbandry — Livestock care and management
 - [[homestead-communication]] — Communication during winter power outages
 - [[homestead-first-aid-guide]] — First aid for cold-weather injuries
-## Key Considerations
-
-Understanding the fundamental principles underlying this topic enables more effective practical application. Integration with related concepts strengthens overall system function and provides multiple pathways for implementation and adaptation to specific contexts.
-
-## Common Challenges
-
-Practitioners frequently encounter challenges related to resource availability, environmental variability, and knowledge gaps. Systematic approaches to problem-solving, combined with community knowledge sharing and iterative experimentation, provide effective pathways to overcoming these obstacles.
-
-## See Also
-- [[cold-house-winter-harvest-system]]
-- [[coleman-aphid-management-winter-greenhouse-nitrogen-flushing]]
-- [[coleman-aphid-nitrogen-flushing-winter-greenhouse-management]]
-- [[coleman-backwards-farm-experiment-winter-only]]
-- [[coleman-backwards-farm-winter-only-summer-fallow]]

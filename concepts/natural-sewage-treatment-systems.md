@@ -14,7 +14,7 @@ waste into a productive resource.
 
 ## Principles
 
-In permaculture design, sewage is not viewed as waste but as a nutrient stream. The goal
+In [[permaculture-design]], sewage is not viewed as waste but as a nutrient stream. The goal
 is to safely process human and animal waste through biological filters, plant uptake, and
 microbial activity while capturing energy and returning fertility to the landscape.
 Subsoil discharge alone is insufficient — nitrogen compounds persist unless actively
@@ -137,7 +137,6 @@ When designing water and sewage systems for a permaculture property:
 - [ ] Monitor nitrogen levels — subsoil discharge alone will not remove nitrogen compounds
 
 ## See Also
-- [[fukuoka-natural-way-of-farming-theory-of-natural-farming]]
 - [[laws-and-principles-of-natural-systems]]
 - [[biological-sewage-treatment-systems]]
 

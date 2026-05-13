@@ -11,9 +11,7 @@ tags: [metzner, neoshamanism, medicine-circle, entheogenic-ceremony, hybrid-ther
 
 Ralph Metzner coined and extensively documented the phenomenon of "neoshamanic
 medicine circles" — hybrid ritual forms that blend elements of traditional
-[[metzner-shamanic-healing-and-divination-paradigm]] ceremonies with Western psychotherapeutic approaches. Over
-more than a decade of participant-observation research, Metzner attended over
-100 such circle rituals in both Europe and [[psilocybin-north-america-pacific-northwest]], involving several
+[[psilocybin-north-america-pacific-northwest]], involving several
 hundred participants, many of them repeatedly. His analysis provides the most
 detailed ethnographic account available of contemporary Western entheogenic
 practice outside of organized religious contexts.
@@ -22,11 +20,7 @@ practice outside of organized religious contexts.
 
 Neoshamanic medicine circles represent what Metzner called a "hybrid of the
 psychotherapeutic and traditional shamanic approaches." They are distinguished
-from both clinical [[metzner-psycholytic-psychedelic-therapy-models]] sessions and traditional indigenous
-ceremonies by their intentional synthesis of elements from multiple traditions.
-Participants in these circles tend to be experienced in one or more
-psychospiritual practices — including shamanic drum journeying, Buddhist
-vipassana meditation, tantra yoga, [[metzner-holotropic-breathwork-and-grof-perinatal-matrices]], and various forms of
+from both clinical [[metzner-holotropic-breathwork-and-grof-perinatal-matrices]], and various forms of
 psychotherapy and body-oriented therapy.
 
 ## Core Structural Elements

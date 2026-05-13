@@ -15,57 +15,7 @@ AMD is one of the most significant environmental impacts of the mining industry,
 
 Passive treatment systems use natural and enhanced biological and chemical processes to treat AMD without continuous energy input or chemical addition, offering sustainable long-term treatment alternatives for abandoned and post-closure mine sites.
 
-This topic complements the broader [[factors-affecting-mycoremediation-efficiency]] discussions.
-
-## Chemistry of Acid Mine Drainage
-
-The formation of acid mine drainage begins with the oxidation of pyrite, which proceeds through a series of chemical and microbial reactions.
-
-The initial chemical oxidation of pyrite by oxygen produces ferrous iron, sulfate, and hydrogen ions, lowering the pH of the water.
-
-Ferrous iron is subsequently oxidized to ferric iron by iron-oxidizing bacteria, primarily Acidithiobacillus ferrooxidans, which greatly accelerates the overall rate of acid generation.
-
-Ferric iron acts as a powerful oxidant that reacts with additional pyrite, generating more ferrous iron, sulfate, and acidity in a self-propagating cycle.
-
-The resulting AMD is characterized by low pH (often 2 to 4), elevated sulfate concentrations (hundreds to thousands of mg/L), elevated dissolved metal concentrations (iron, aluminum, manganese, copper, zinc, lead, and others), and the characteristic orange-red precipitates of iron hydroxide known as "yellow boy."
-
-The acidity and metal loading of AMD are site-specific, depending on the geology of the mined deposit, mining methods, and hydrological conditions.
-
-AMD generation can continue for decades or centuries after mine closure, making long-term treatment a critical need for the mining industry and regulatory agencies.
-
-## Principles of Passive Treatment
-
-Passive treatment systems are designed to operate without continuous chemical addition, energy input, or operator intervention, relying instead on natural processes that are enhanced or directed through system design.
-
-The key treatment processes in passive systems include alkalinity generation to neutralize acidity, metal precipitation through pH adjustment, sulfate reduction, and metal adsorption or complexation.
-
-The choice of passive treatment technology depends on the AMD characteristics, including pH, acidity, metal concentrations, flow rate, and variability.
-
-Passive treatment is generally most suitable for AMD with low to moderate acidity and metal loading, while highly contaminated discharges may require active treatment with chemical addition.
-
-The long-term sustainability of passive treatment systems depends on maintaining the reactive capacity of treatment media, managing solids accumulation, and adapting to changes in AMD quality over time.
-
-## Aerobic Wetlands
-
-Aerobic wetlands are the simplest type of passive treatment system, consisting of shallow basins filled with gravel or soil substrate and planted with wetland vegetation.
-
-Treatment in aerobic wetlands occurs primarily through metal oxidation and hydroxide precipitation as AMD is exposed to atmospheric oxygen during flow through the wetland.
-
-Iron and aluminum are the primary metals removed in aerobic wetlands, precipitating as ferric hydroxide and aluminum hydroxide as pH increases through exposure to the atmosphere.
-
-Aerobic wetlands are effective for net alkaline or low-acidity AMD but cannot treat strongly acidic discharges because the acidity exceeds the alkalinity-generating capacity of the system.
-
-The iron hydroxide precipitates that accumulate in aerobic wetlands (ochre) eventually fill pore spaces and reduce treatment capacity, requiring periodic maintenance or system expansion.
-
-[[staycare-spent-mushroom-compost-bioremediation]], is a particularly effective substrate for anaerobic AMD treatment because it contains residual nutrients, active microorganisms, and [[hamilton-composting-and-organic-matter-management]] in various stages of decomposition.
-
-## Limestone Drains and Diversion Wells
-
-Limestone drains use beds of crushed limestone (calcium carbonate) to neutralize AMD through dissolution, which raises pH and provides alkalinity.
-
-Anoxic limestone drains (ALDs) are buried limestone beds that receive AMD before it is exposed to atmospheric oxygen, preventing coating of limestone surfaces by iron hydroxide precipitates.
-
-ALDs are effective for AMD with low [[aact-dissolved-oxygen-fine-bubble-aeration-ingham]] and ferric iron concentrations, but their performance declines when oxygen or ferric iron reaches the limestone bed.
+This topic complements the broader [[staycare-spent-mushroom-compost-bioremediation]], is a particularly effective substrate for anaerobic AMD treatment because it contains residual nutrients, active microorganisms, and [[aact-dissolved-oxygen-fine-bubble-aeration-ingham]] and ferric iron concentrations, but their performance declines when oxygen or ferric iron reaches the limestone bed.
 
 Open limestone channels allow AMD to flow over limestone surfaces with enhanced oxygenation, promoting iron oxidation and precipitation alongside limestone dissolution.
 
@@ -81,11 +31,11 @@ Iron-oxidizing bacteria (Acidithiobacillus ferrooxidans, Leptospirillum ferrooxi
 
 Sulfate-reducing bacteria are the key organisms in anaerobic treatment systems, generating sulfide for metal precipitation and bicarbonate for pH adjustment.
 
-[[query-how-do-fungi-contribute-to-carbon-sequestration]] to passive treatment through [[fungal-heavy-metal-biosorption-and-detoxification]], organic acid production that can enhance mineral dissolution, and decomposition of organic substrates that maintain treatment capacity.
+[[fungal-heavy-metal-biosorption-and-detoxification]], organic acid production that can enhance mineral dissolution, and decomposition of organic substrates that maintain treatment capacity.
 
-[[fungal-biosorption-mechanisms]] describe the [[chelation-and-metal-binding-in-plants]] capacities of fungal biomass relevant to AMD treatment.
+[[chelation-and-metal-binding-in-plants]] capacities of fungal biomass relevant to AMD treatment.
 
-The role of [[arbuscular-mycorrhizal-fungi-biology-symbiosis]] in establishing and maintaining wetland vegetation on the harsh substrate conditions typical of AMD treatment sites is described in [[mycoremediation]] for AMD passive treatment includes routine measurement of pH, alkalinity, acidity, sulfate, dissolved metals, and flow rates at system inflows and outflows.
+The role of [[mycoremediation]] for AMD passive treatment includes routine measurement of pH, alkalinity, acidity, sulfate, dissolved metals, and flow rates at system inflows and outflows.
 
 ## Design Considerations and Long-Term Performance
 
@@ -96,36 +46,93 @@ Acid Mine Drainage Treatment has significant applications in sustainable agricul
 The development and understanding of acid mine drainage treatment has evolved considerably over recent decades, with contributions from researchers, practitioners, and indigenous knowledge systems worldwide.
 
 ## See Also
-- [[ingham-citric-acid-chlorine-removal-water-treatment]]
 - [[ingham-root-disease-treatment]]
-- [[singh-distillery-wastewater-fungal-treatment]]
 - [[constructed-wetlands-wastewater-treatment]]
-- [[singh-constructed-wetlands-fungal-wastewater-treatment]]
+- [[det]]
+- [[mycoremediation]]
+- [[mycorrhiza]]
 
-## Key Considerations
+## Overview
 
-Several important factors influence the effectiveness and outcomes described
-in this topic. Understanding these considerations helps practitioners make
-informed decisions and avoid common pitfalls. Environmental conditions,
-timing, and material selection all play critical roles.
+Acid Mine Drainage Treatment represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish acid mine drainage treatment
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving acid extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Acid Mine Drainage Treatment finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for acid mine drainage treatment. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+acid mine drainage treatment and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
 
 ## Historical Context
 
-The historical development of this subject reflects centuries of accumulated
-knowledge and practical experience. From traditional methods passed down
-through generations to modern scientific approaches, the evolution continues
-to inform current best practices and research directions.
+Acid Mine Drainage Treatment has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
 
-## Common Challenges
+## Integration Strategies
 
-Practitioners frequently encounter several challenges when working with
-these concepts. Climate variability, resource limitations, and knowledge
-gaps can all affect outcomes. Addressing these challenges requires patience,
-observation, and a willingness to adapt approaches based on results.
+Successful integration of acid mine drainage treatment into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
 
 ## See Also
-- [[det]]
-- [[composting]]
-- [[mycoremediation]]
-- [[decomposition]]
-- [[mycorrhiza]]
+
+- [[acid-house-rave-culture-and-second-mushroom-boom]]
+- [[cannabis-for-gerd-and-acid-reflux]]
+- [[lysergic-acid-diethylamide]]
+- [[tryptophan-large-neutral-amino-acid-competition-blood-brain-barrier]]
+- [[ursolic-acid]]

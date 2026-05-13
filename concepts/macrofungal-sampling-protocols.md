@@ -41,9 +41,6 @@ successive years.
 
 ### Temperature and Precipitation
 
-[[mycorrhizal-fungi-fruit-trees]] when temperatures are above freezing and moisture is
-available. Temperature also has a major impact on macrofungi fruiting,
-an effect that may not be limited to the fruiting season. Warm summers
 [[fukuoka-textdoc-increased-production-not-increased-yields]] of mycorrhizal sporocarps in spruce forests but
 had no effect on sporocarp production in pine forests. Excess moisture
 also can prevent fruiting in some species.
@@ -54,10 +51,7 @@ The challenge of measuring species diversity of macrofungi increases
 in years when many species fruit simultaneously. Some species may fruit
 only 1 year out of 4 or more, underscoring the need for long-term (at
 least 5-year, preferably 10-year) studies. Species richness estimators
-did not stabilize during a 21-year study of fungal [[macrofungal-fruiting-phenology-climate-variability]]
-in Switzerland. See [[lichen-biodiversity-sampling-protocols-data-analysis]]
-- [[macrofungal-sampling-methods]]
-
+did not stabilize during a 21-year study of fungal [[lichen-biodiversity-sampling-protocols-data-analysis]]
 - [[fungal-species-estimates-biodiversity-overview]] for species estimates
 - biodiversity-fungi-molecular-methods for genetic identification
 ## Practical Considerations
@@ -93,8 +87,6 @@ When applying these concepts, consider regional variations, available resources,
 
 ## See Also
 
-- [[sampling-design-macrofungal-surveys]]
 - [[recommended-protocols-sampling-macrofungi]]
-- [[macrofungal-sampling-protocol-design-plot-selection]]
 - [[macrofungal-sampling-methods]]
 - [[macrofungal-sampling-design-plots-transects]]

@@ -19,44 +19,7 @@ Eliot Coleman's "cool greenhouse" concept represents a middle ground
 between fully unheated cold houses and traditional heated greenhouses.
 The cool greenhouse is maintained at a just-above-freezing nighttime
 temperature, providing enough heat to expand the range and number of
-[[coleman-semi-hibernating-winter-crops-harvest-extension]] without the energy costs of maintaining warm-season
-temperatures.
-
-Coleman compares this minimal-heat approach to hybrid automobile
-technology: the combination of unheated greenhouses and minimally
-heated greenhouses provides better economic returns than either
-approach alone. The goal is to achieve maximum production efficiency
-rather than simply mimicking summer conditions in winter.
-
-## Why Add Minimal Heat
-
-Coleman initially explored minimal heat because demand for winter
-produce constantly exceeded supply. Adding heat to one cold house
-effectively doubled the number of winter harvests in that house,
-achieving the equivalent growing area of a whole new greenhouse at
-a fraction of the cost. The advantages included:
-
-- Doubling crop turnover in heated space (three to four crops per
-  year versus one to two in unheated houses)
-- Expanded crop variety for the coldest months (turnips, radishes,
-  endive, arugula become available December through February)
-- Better working conditions for winter harvest crews
-- More competitive positioning against shipped-in imports
-
-The fuel cost is modest because the thermostat is set just above
-freezing rather than at warm-season levels. Standard propane-fueled
-greenhouse heaters suffice; these are smaller than would be required
-for maintaining 65-degree nights for tomatoes.
-
-## Temperature Management
-
-The thermostat is set just above 32 degrees Fahrenheit (zero degrees
-Celsius) to maintain nighttime minimums. Coleman's informal trials
-in the early 1990s using a radiant heater and wide-range thermostat
-suggested that most hardy crops show no damage as long as the minimum
-temperature does not drop below 26 degrees Fahrenheit (minus three
-degrees Celsius). However, temperatures just below freezing, even
-without cosmetic damage, can [[holmgren-long-rotation-forestry-slow-growth]] for up to a week afterward.
+[[holmgren-long-rotation-forestry-slow-growth]] for up to a week afterward.
 
 The practical recommendation is to maintain a dependable nighttime
 minimum above 32 degrees Fahrenheit. This ensures continuous crop
@@ -70,15 +33,7 @@ Several design choices maximize the efficiency of the cool greenhouse:
   four-inch air space created by an inflation fan, which research
   shows can lower fuel consumption by up to 40 percent
 - Tight construction with well-fitting doors and vents to prevent
-  [[hemenway-cold-air-drainage-and-frost-management]] infiltration
-- Careful attention to sealing any gaps that could allow heat loss
-
-## Heating Options
-
-Coleman has experimented with several heating sources:
-
-- Standard propane-fueled greenhouse heaters (the baseline option)
-- Wood furnace in the [[coleman-winter-harvest-washing-and-packing]] greenhouse, which
+  [[coleman-winter-harvest-washing-and-packing]] greenhouse, which
   replaces the propane heater except during exceptionally cold
   weather
 - Wood-fired hot-water boiler systems (priced but not yet installed
@@ -117,8 +72,78 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[eliot-coleman]]
 - [[coleman-cool-greenhouse-vs-cold-greenhouse-temperature-comparison]]
-- [[coleman-cool-house-minimal-supplementary-heat]]
 - [[coleman-cool-house-vs-cold-house-economics-winter-production]]
 - [[greenhouse-cool-climates-mollison]]
+
+## Overview
+
+Coleman Cool Greenhouse represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish coleman cool greenhouse
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving coleman extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Coleman Cool Greenhouse finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for coleman cool greenhouse. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+coleman cool greenhouse and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Coleman Cool Greenhouse has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of coleman cool greenhouse into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions

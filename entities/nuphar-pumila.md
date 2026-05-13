@@ -20,53 +20,9 @@ sources:
 
 Nuphar pumila, commonly known as the least water lily or small yellow pond lily, is a perennial aquatic plant in the family Nymphaeaceae. It is among the smallest species in the genus Nuphar and is native to northern Europe and parts of northern Asia.
 
-The species produces small, cup-shaped yellow flowers that are partially emergent above the water surface. Its [[fukuoka-ideal-rice-plant-morphology-compact-growth-high-yield]] habit distinguishes it from the larger and more common Nuphar lutea.
+The species produces small, cup-shaped yellow flowers that are partially emergent above the water surface. Its [[aact-microbial-foliar-nutrient-uptake-co2-stomata-ingham]].
 
-Nuphar pumila is considered a species of conservation concern across much of its European range. Habitat loss, eutrophication, and competition from invasive aquatic plants have contributed to population declines.
-
-The plant typically inhabits clear, oligotrophic to mesotrophic waters. It is sensitive to water quality degradation, making it an indicator species for pristine freshwater habitats.
-
-## Taxonomy and Morphology
-
-Nuphar pumila was first described by Diederich Franz Leonhard von Schlechtendal in 1819. The species epithet "pumila" means dwarf, referring to its small stature relative to other Nuphar species.
-
-The accepted authority is (Timm) DC. The taxonomic placement within Nuphar has been relatively stable, though some treatments have considered it a subspecies of Nuphar lutea.
-
-Modern molecular studies support Nuphar pumila as a distinct species within the genus. It is placed in Nuphar subg. Nuphar, alongside Nuphar lutea and related taxa.
-
-The rhizome is slender compared to other Nuphar species, typically 5–10 mm in diameter. It grows horizontally in the substrate and produces roots at regular intervals along its length.
-
-Leaves are oval to elliptic, measuring 5–15 cm long and 3–10 cm wide. The upper leaf surface is dark green and glossy, while the underside is paler.
-
-A distinctive feature is the narrowly open sinus on the leaf blade. In Nuphar lutea, the sinus is broad and conspicuous, while in N. pumila it forms only a narrow V-shaped notch.
-
-Flowers are small, measuring 2–4 cm in diameter when fully open. The petals are yellow, obovate, and slightly shorter than the sepals.
-
-Sepals are five to six, greenish-yellow on the exterior and yellow within. They are persistent and become reflexed as the flower matures.
-
-The stigmatic disk is flat to slightly convex and bears 8–15 rays. Stamens are numerous and arranged in a ring around the stigmatic disk.
-
-The fruit is an ovoid capsule, 1.5–2.5 cm long, that ripens and releases seeds underwater. Seeds are roughly ovoid, approximately 3 mm long.
-
-The root system is fibrous and arises from the lower surface of the rhizome. Anchoring roots penetrate the substrate, while fine absorptive roots increase the surface area for [[aact-microbial-foliar-nutrient-uptake-co2-stomata-ingham]].
-
-Compared to Nuphar lutea, the entire plant has a more delicate appearance. The smaller leaf size, narrower sinus, and reduced flower dimensions are the most reliable [[palmer-mushroom-hunting-field-identification]] characters.
-
-## Distribution and Habitat
-
-Nuphar pumila has a circumboreal distribution concentrated in northern and central Europe. It occurs from Scandinavia and the Baltic states southward through Poland, Germany, and the Czech Republic.
-
-Disjunct populations are found in the Alps, the Carpathians, and isolated locations in France and the British Isles. In Asia, the species ranges across Siberia to the Russian Far East.
-
-The plant grows in clear, shallow freshwater bodies. Typical habitats include small lakes, ponds, oxbow lakes, and slow-moving forest streams.
-
-Water depths typically range from 0.3 to 1.5 meters. The species prefers substrates of sand, gravel, or peat.
-
-Nuphar pumila favors oligotrophic to mesotrophic waters with low nutrient levels. It is notably absent from eutrophic systems with high turbidity or dense algal growth.
-
-Partially shaded habitats, such as forest ponds and streams with overhanging canopy, are characteristic. The species tolerates moderate shading better than many other aquatic macrophytes.
-
-In northern Scandinavia, Nuphar pumila occurs in small, often ice-covered ponds. Its northern range limit is determined by the availability of open water during [[query-how-to-protect-plants-from-frost-and-extend-the-growing-season]].
+Compared to Nuphar lutea, the entire plant has a more delicate appearance. The smaller leaf size, narrower sinus, and reduced flower dimensions are the most reliable [[query-how-to-protect-plants-from-frost-and-extend-the-growing-season]].
 
 The species is occasionally found in artificial water bodies such as quarry ponds and drainage ditches. However, these populations are often small and may not be self-sustaining in the long term.
 
@@ -74,7 +30,7 @@ The species is occasionally found in artificial water bodies such as quarry pond
 
 Nuphar pumila is most closely related to Nuphar lutea, with which it frequently co-occurs. Hybrids between the two species have been reported, though they appear to be rare in nature.
 
-The genus Nuphar contains approximately 10–12 species distributed across the Northern Hemisphere. Nuphar advena is the [[growing-gourmet-north-american-reishi-species]] counterpart, occupying similar ecological niches in [[polypore-fungi-eastern-north-america]].
+The genus Nuphar contains approximately 10–12 species distributed across the Northern Hemisphere. Nuphar advena is the [[polypore-fungi-eastern-north-america]].
 
 Nuphar pumila can be distinguished from Nuphar lutea by its smaller flowers, narrower leaf sinus, and preference for oligotrophic waters. Nuphar lutea dominates in nutrient-rich, turbid habitats.
 
@@ -87,3 +43,85 @@ Pollinators include various fly species, particularly hoverflies (Syrphidae) and
 The plant reproduces both sexually through seed production and vegetatively through rhizome fragmentation. Vegetative spread is the dominant mode of colonization in stable habitats.
 
 Seed dispersal occurs primarily through water movement. The buoyant seeds can float for extended periods before settling into suitable substrate.
+
+## Overview
+
+Nuphar Pumila represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish nuphar pumila
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving nuphar extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Nuphar Pumila finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for nuphar pumila. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+nuphar pumila and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Nuphar Pumila has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of nuphar pumila into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[nuphar-advena]]
+- [[nuphar-lutea]]

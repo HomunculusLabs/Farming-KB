@@ -3,19 +3,9 @@ title: Lichenicolous Fungi
 created: 2026-04-16
 updated: 2026-04-16
 type: concept
-tags: [[mycology]], fungi]
-sources:
-  - "raw/papers/fukuoka-one-straw-revolution.md"
----
-# Lichenicolous Fungi
-
-## Overview
-Lichenicolous fungi are fungi that grow on [[lichens]], either as parasites,
+tags: [[lichens]], either as parasites,
 commensals, or saprotrophs. They represent a diverse and specialized group
-found across multiple taxonomic lineages of [[ascomycota]], Basidiomycota, and
-their anamorphic states. The number of lichenicolous fungi now probably
-exceeds 1,500 species, with many yet to be described, particularly from
-[[fukuoka-natural-farming-in-tropical-regions]].
+found across multiple taxonomic lineages of [[fukuoka-natural-farming-in-tropical-regions]].
 
 ## Taxonomic Distribution
 
@@ -77,8 +67,7 @@ of parasitism varies widely among species:
 - **Apothecium-inhabiting species**: Many lichenicolous fungi specialize
   on the reproductive structures of host lichens, colonizing apothecia
   or perithecia and often reducing or eliminating the host's spore
-  production. This can significantly impact host [[fukuoka-textdoc-microclimate-mite-scale-population-dynamics]] and
-  [[edaphic-determinants-cannabis-microbiome-community-structure]] over time.
+  production. This can significantly impact host [[edaphic-determinants-cannabis-microbiome-community-structure]] over time.
 
 - **Killer species**: The most destructive lichenicolous fungi can kill
   entire portions of the host lichen thallus, creating necrotic zones

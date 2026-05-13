@@ -4,71 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Biological Element Transport and [[soil-micronutrients-sulphur-potassium-calcium-trace-elements|Soil]] pH
-
-Living organisms are the primary movers and concentrators of elements in landscapes. In permaculture design, understanding how biology transports, concentrates, and disperses minerals—and how soil pH governs nutrient availability—is essential for creating self-fertilising, resilient systems.
-
-## Biological Transport of Elements
-
-Elements are not static in soil; they are actively sought out, concentrated, or dispersed by living organisms through several key mechanisms.
-
-### Concentration by Selective Species
-
-Fungi, bacteria, and invertebrates actively seek out and assemble specific compounds, transforming them into stable new forms such as concretions or nodules. This is a primary pathway for element concentration in natural systems.
-
-Key elements selected and concentrated by soil organisms include:
-
-- **Iron and manganese** — concentrated by root fungi and bacteria
-- **Calcium and phosphate** — assembled by mycorrhizal networks and algae
-- **Zinc, nickel, copper, and selenium** — bioaccumulated by specific fungal and bacterial species
-- **Cadmium** — sequestered by certain invertebrates and molluscs
-
-In permaculture design, fostering diverse fungal and bacterial communities through mulching, minimal tillage, and polyculture plantings directly enhances this biological mineral-harvesting capacity.
-
-### Concentration by Accumulation of Detritus
-
-Over geological time, the accumulation of organic and mineral detritus forms concentrated sediments and eventually ore bodies or distinct rock types. This process operates at both ecological and geological scales:
-
-- **Diatoms** and **sponges** (silica spicules) concentrate silica into sedimentary layers
-- **Swamp peats** and **whole forests** accumulate carbon, rare earths, and trace minerals
-- **Mollusc shells** concentrate calcium carbonate in marine and freshwater deposits
-- **Vertebrate remains** buried by vulcanism, sedimentation, or oceanic deposition form phosphate and mineral-rich strata
-- **Coal and manganese deposits** represent ancient biological concentration events
-
-For designers, this principle suggests that strategic accumulation of organic matter (composting, hugelkultur, swale systems) replicates geological concentration processes on human timescales.
-
-### Dispersal by Transpiration
-
-Many plants—especially water-loving species—can dissociate and transpire a remarkable variety of substances from soil and water into the atmosphere and back onto the land surface:
-
-- **Reeds** transpire mercury, hydrogen, and elements ranging from phosphates to chlorine
-- Elements are deposited in **special leaf repositories**, or evaporated as **wax, dust, or efflorescence** on leaves and stems
-- **Rain throughfall** beneath trees washes these deposited elements back to the soil surface
-- Both major nutrients and trace elements become concentrated in the **top 4 cm of soil** beneath tree canopies
-
-This creates a critical design insight: **tree-based systems inherently cycle and concentrate nutrients at the soil surface**, making canopy integration essential in any productive landscape.
-
-Metals, oxides, halogens, acids, alkalis, and salts are all part of this biological transpiration cycle.
-
-### Concentration by Metabolic Processes
-
-All living things build bodies by ingesting complex foods and selectively concentrating elements into specialised tissues:
-
-- **Bones** — calcium, phosphorus
-- **Blood and flesh** — iron, nitrogen, sulphur
-- **Brain and organs** — phosphorus, iodine, trace elements
-- **Nails, hair, feathers** — sulphur, keratin complexes
-- **Milk and fats** — calcium, lipids, vitamins
-
-Even faeces package distinctly different concentrations of potash, nitrates, and trace elements depending on the organism's diet. Plants and animals ceaselessly ingest, excrete, exude, and shed materials over their lifetimes, continuously altering nutrient concentrations in their immediate environment.
-
-**Permaculture implication:** Strategic placement of animals (chickens, goats, cattle) and integration of their manures into composting systems is not waste management—it is precision nutrient cycling.
-
----
-
-## pH and Soils
-
-[[soil-ph]] is a master variable governing nutrient availability, microbial activity, and plant health. It is measured on a logarithmic scale where each whole point represents a tenfold change in hydrogen ion concentration.
+# Biological Element Transport and [[soil-ph]] is a master variable governing nutrient availability, microbial activity, and plant health. It is measured on a logarithmic scale where each whole point represents a tenfold change in hydrogen ion concentration.
 
 ### The pH Scale
 
@@ -108,8 +44,6 @@ Acids and alkalis arise from the solution of oxides, hydroxides, sulphates, and 
 |--------------|---------------------------|--------------------------------|
 | Chalk        | Calcium carbonate          | General purpose, slow-release  |
 | Limestone    | Calcium carbonate          | Finer grades act faster        |
-| [[gypsum]]       | Calcium sulphate          | Does not raise pH significantly; improves structure |
-| Magnesite    | Magnesium carbonate       | For Mg-deficient soils         |
 | [[dolomite]]     | Calcium magnesium carbonate| Balances Ca and Mg simultaneously |
 
 ### Nutrient Availability (kg/ha)
@@ -150,4 +84,9 @@ Foliar sprays of manure teas combined with seaweed concentrate are rapidly absor
 4. **Animals are mineral vectors** — strategic animal integration moves concentrated nutrients across the landscape
 
 ## See Also
-- [[query-how-does-phosphorus-availability-change-across-soil-ph-levels]]
+
+- [[singh-mycelial-mats-and-biological-soil-crusts]]
+- [[biological-indicators-of-soil-conditions]]
+- [[biological-pest-control-balance]]
+- [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]]
+- [[savory-holistic-resource-management-biological-monitoring]]

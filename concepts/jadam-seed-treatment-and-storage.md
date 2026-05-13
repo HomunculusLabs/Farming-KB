@@ -16,12 +16,10 @@ fungicides and chemical coatings to protect seeds from soil-borne
 pathogens. JADAM replaces these chemical treatments with natural methods
 that are equally effective, cost nothing, and can be performed by any
 farmer using locally available materials. Seed self-sufficiency is a
-pillar of [[jadam-local-material-collection-and-use]] philosophy used throughout [[query-what-is-jadam-farming-and-how-does-it-work]]:
+pillar of [[query-what-is-jadam-farming-and-how-does-it-work]]:
 
 - **Plant extracts**: Infusions of pesticidal herbs used in
-  [[jadam-sulfur-germicide-js]]): A diluted
-  solution of JS in the treatment water provides powerful germicidal
-  action against [[bloomfield-fungal-pathogens-and-parasites]].
+  [[bloomfield-fungal-pathogens-and-parasites]].
 
 ### Practical Immersion Protocol
 
@@ -57,17 +55,7 @@ stages:
    stored properly to prevent post-treatment contamination.
 
 Cho reports that JADAM seed treatment methods have proven effective in
-controlling bakanae disease in the [[jadam-bongha-village-proof]] rice farming community,
-where chemical seed treatments have been entirely replaced with JADAM
-methods.
-
-## Seed Storage
-
-Proper seed storage is essential for maintaining viability between
-seasons. JADAM seed storage principles include:
-
-- **Complete drying**: Seeds must be thoroughly dried before storage to
-  [[query-how-do-i-prevent-mold-and-mildew-in-my-cannabis-grow]] growth and maintain germination rates. Moisture content
+controlling bakanae disease in the [[query-how-do-i-prevent-mold-and-mildew-in-my-cannabis-grow]] growth and maintain germination rates. Moisture content
   should be below 13% for most grain crops.
 - **Cool, dark location**: Store seeds away from direct sunlight and
   heat sources. Temperature fluctuations reduce seed viability.
@@ -87,39 +75,6 @@ farmers to select for traits adapted to their specific local conditions.
 Seed saving requires attention to:
 - Maintaining genetic purity by preventing cross-pollination
 - Selecting seeds from the healthiest, most vigorous plants
-- Proper [[psilocybin-mushroom-drying-and-storage-methods]] to maintain viability
-
-## Practical Applications
-
-The principles and techniques discussed here have wide-ranging applications
-across multiple disciplines and contexts. Practitioners and researchers
-continue to explore new ways to integrate these concepts into modern practice,
-adapting traditional knowledge to contemporary challenges and opportunities.
-
-## Key Considerations
-
-Several important factors influence the effectiveness and outcomes described
-in this topic. Understanding these considerations helps practitioners make
-informed decisions and avoid common pitfalls. Environmental conditions,
-timing, and material selection all play critical roles.
-
-## Historical Context
-
-The historical development of this subject reflects centuries of accumulated
-knowledge and practical experience. From traditional methods passed down
-through generations to modern scientific approaches, the evolution continues
-to inform current best practices and research directions.
-
-## Common Challenges
-
-Practitioners frequently encounter several challenges when working with
-these concepts. Climate variability, resource limitations, and knowledge
-gaps can all affect outcomes. Addressing these challenges requires patience,
-observation, and a willingness to adapt approaches based on results.
-
-## See Also
-- [[psilocybin]]
-- [[det]]
+- Proper [[psilocybin]]
 - [[spore]]
-- [[jadam-seed-treatment-and-nursery-management]]
 - [[jadam-seed-seedling-treatment]]

@@ -13,7 +13,7 @@ sources:
 **Updated:** 2026-04-18
 
  restores and maintains soil biology
-- [[lactic-acid-bacteria-knf]] improves soil ventilation and [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]]
+- [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]]
 - No plowing needed -- soil organisms maintain structure
 - Organic matter increases each year through straw return and compost
 - Soil improves progressively without chemical inputs
@@ -29,14 +29,9 @@ sources:
 - Polluting pesticides accumulate in waterways and ecosystems
 - No truly non-polluting pesticide exists
 ### Korean Natural Farming
-- Healthy plants have natural resistance to [[query-how-to-manage-pests-and-diseases-in-mushroom-cultivation]]
-- [[knf-soap-water-and-hot-pepper]] provide physical pest control
-- [[knf-fish-amino-acid]] provides nitrogen in amino acid form (directly assimilated)
+- Healthy plants have natural resistance to [[knf-soap-water-and-hot-pepper]] provide physical pest control
 - [[water-soluble-calcium-wca]] provide minerals in bioavailable forms
-- [[knf-water-soluble-potassium-detailed]] provides potassium with multiple functions
-- Nutrients are biologically processed and plant-available
-- Plants develop efficient root systems that forage for nutrients
-- Food has higher [[coleman-winter-greens-nutritional-quality-cold-sweetening]] and better taste
+- [[coleman-winter-greens-nutritional-quality-cold-sweetening]] and better taste
 
 ## Cost Comparison
 ### Chemical Farming
@@ -53,14 +48,6 @@ sources:
 - No machinery needed for tillage or spraying (or minimal equipment)
 - Costs decrease over time as soil improves
 - Farmer becomes self-sufficient in inputs
-- [[knf-seed-treatment-and-soil-foundation]] with IMO reduces purchased seed costs
-- Higher profit margins through lower input costs
-
-## Soil Quality Over Time
-### Chemical Farming
-- Soil organic matter declines
-- Soil compaction increases
-- Microbial diversity decreases
 - [[fukuoka-textdoc-fertilizer-acidification-trace-element-deficiency]] deficiencies multiply
 - Water retention capacity declines
 - Erosion increases
@@ -117,8 +104,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[natural-farming]]
 - [[korean-natural-farming]]
-- [[doc]]
 - [[det]]
 - [[natural-farming-knf-overview]]

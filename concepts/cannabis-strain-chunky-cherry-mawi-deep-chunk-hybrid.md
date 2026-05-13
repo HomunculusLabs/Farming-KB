@@ -1,6 +1,6 @@
 ---
 title: Cannabis Strain Chunky Cherry Mawi Deep Chunk Hybrid
-source: "[[blesching-cannabis-sativa-indica-classification]] Vol 3 - S.T. Oner"
+source: "blesching-cannabis-sativa-indica-classification Vol 3 - S.T. Oner"
 tags: [cannabis, strain, sativa, malawi, deep-chunk, african, kingdom-organic, genetics]
 type: concept
 created: 2026-05-10
@@ -9,40 +9,9 @@ created: 2026-05-10
 # Chunky Cherry Malawi
 
 > **A sativa-dominant F1 hybrid marrying the legendary potency of
-> southern [[african-landrace-sativa-genetic-contributions-modern-breeding-oner]] genetics with the brute yield and resin
-> production of a classic Afghani hashplant — bred through fully
-> organic, living-soil methods.**
-
-## At a Glance
-
-| Attribute        | Detail                                          |
-|------------------|-------------------------------------------------|
-| **Breeder**      | [[seed-pelleting]] (The Rev), USA        |
-| **Genetics**     | cannabis strain chunky cherry mawi deep chunk hybrid × [[oner-chunky-cherry-malawi-african-sativa-indica-hybrid]] (three-way F1 hybrid) |
-| **Type**         | Sativa-dominant hybrid                          |
-| **Flowering**    | 50–60 days                                      |
-| **Yield**        | Medium–heavy                                    |
-| **Aroma**        | Cherry Cola                                     |
-| **Effect**       | Energetic, balanced high; excellent daytime smoke |
-| **Environment**  | Indoor and outdoor                               |
-
-## Breeder — The Rev & Kingdom Organic Seeds
-
-Chunky Cherry Malawi was created by **The Rev**, cultivation columnist
-for [[cannabis-breeding-basics]] and author of *True Living Organics*. His
-breeding philosophy centres on [[cannabinoid-microbiome-interactions]], a
-living-soil methodology that rejects all synthetic bottled nutrients in
-favour of a biologically active soil food web. Kingdom Organic Seeds
-operates out of the United States
-(facebook.com/KingdomOrganicSeeds). His genetics are selected for
-performance in living soil systems — plants that express full terpene
-potential without chemical inputs.
-
-## Genetic Lineage
-
-### cannabis strain chunky cherry mawi deep chunk hybrid — The Indica Anchor
-
-Deep Chunk is a pure indica bred from original [[cannabis-strain-wild-thailand-ko-chang-landrace]]
+> southern [[seed-pelleting]] (The Rev), USA        |
+| **Genetics**     | cannabis strain chunky cherry mawi deep chunk hybrid × [[cannabis-breeding-basics]] and author of *True Living Organics*. His
+breeding philosophy centres on [[cannabis-strain-wild-thailand-ko-chang-landrace]]
 genetics, renowned for extreme yields ("like it's a million feet tall")
 despite compact, short stature. It produces dense, resinous buds rich
 in trichomes — a hallmark of its hashplant heritage. As a largely
@@ -51,12 +20,8 @@ traits to offspring. In this cross it tames the towering African
 sativa, compressing the flowering window to 50–60 days and lending
 the buds their characteristic density and fat calyxes.
 
-### [[oner-chunky-cherry-malawi-african-sativa-indica-hybrid]] — The African Sativa Fire
-
-Cherry Malawi descends from [[malawi-gold-entity]], one of Africa's most
-legendary landrace sativas. These [[comparison-cavendish-vs-east-african-highland-bananas]] landraces from the
-highlands of Malawi are revered for potent, psychedelic highs and
-unique [[cannabis-terpene-profiles]], though pure forms can require 14+ weeks to
+### [[malawi-gold-entity]], one of Africa's most
+legendary landrace sativas. These [[cannabis-terpene-profiles]], though pure forms can require 14+ weeks to
 flower. The Rev describes the Cherry Malawi parents as "among the
 dankest sativas from southern Africa," making them a prized — if
 challenging — genetic resource for modern breeders.
@@ -77,10 +42,7 @@ The split heritage is visible in the plant's phenotype:
 ## The Cherry Terpene Phenotype
 
 The distinctive **Cherry Cola aroma** places Chunky Cherry Malawi within
-a broader category of "cherry" [[oner-cannabis-phenotypes-genetic-expression]]. These aromas arise
-from specific terpene interactions:
-
-- **Myrcene** — the most common [[cannabis-terpene-and-aroma-chemistry-clarke]], contributing a
+a broader category of "cherry" [[cannabis-terpene-and-aroma-chemistry-clarke]], contributing a
   fruity, earthy base note.
 - **Caryophyllene** — adds spicy warmth and acts as a dietary
   cannabinoid (CB2 receptor agonist).
@@ -118,8 +80,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[dom]]
 - [[det]]
-- [[myrcene]]
 - [[oner-chunky-cherry-malawi-african-sativa-indica-hybrid]]
 - [[cannabis-strain-y-griega-kali-mist-amnesia-hybrid]]

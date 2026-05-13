@@ -77,14 +77,13 @@ The species also occurs naturally in Nepal, Sri Lanka, Bangladesh, tropical and 
 - Forest margins, thickets, scrublands, and grassy slopes up to 1,500 m elevation
 - Rocky, gravelly soils in semi-arid regions
 - Disturbed sites, road margins, and agricultural field borders
-- Moderate [[dighton-fungal-drought-tolerance-plant-water-relations]] once established; adapts to sandy, loamy, and rocky substrates
-
-## Phytochemistry
-
-The bioactive chemistry of A. racemosus is complex, with steroidal saponins as the principal active constituents.
-
-**Steroidal saponins:** Shatavarin I through X — a series of furostanol and spirostanol glycosides; shatavarin IV is most abundant and widely studied.
-Total saponin content ranges from 2–8% in dried root depending on source and processing.
-
-**Flavonoids:** [[quercetin]], [[kaempferol]], and rutin derivatives; hyperoside and isoquercetin.
+- Moderate [[quercetin]], [[kaempferol]], and rutin derivatives; hyperoside and isoquercetin.
 Total flavonoid content approximately 0.5–1.5%.
+
+## See Also
+
+- [[hamilton-asparagus-growing-organic]]
+- [[solomon-growing-perennials-asparagus-rhubarb]]
+- [[asparagus-officinalis]]
+- [[permaculture-asparagus]]
+- [[mucor-racemosus-entity-the-mushroom-cultivator]]

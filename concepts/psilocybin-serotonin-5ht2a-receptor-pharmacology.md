@@ -8,15 +8,11 @@ type: concept
 tags: [pharmacology, psilocybin, serotonin]
 ---
 
-# [[psilocin]]) is also a tryptamine. This structural kinship allows psilocybin to bind to serotonin receptor sites throughout the brain, effectively hijacking the brain's own chemical communication system. The tryptamine backbone that both molecules share is itself derived from the amino acid tryptophan, found commonly in dietary proteins, further underscoring the deep chemical relationship between the brain's native neurotransmitters and naturally occurring psychedelic compounds.
-
-## Serotonin, Diet, and the Environment
-
-Serotonin has emerged as a key neurotransmitter because it can be produced from raw materials available in food. If the chemical constituency of the natural environment were radically different, Nature would have had to evolve completely different neurotransmitters. In this sense, our very consciousness depends upon the hardware of the brain, which in turn depends upon chemical structure, which further depends upon diet. Natural [[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]] enter the diet, and the new chemicals subsequently operating within the brain alter awareness so that consensual serotonergic reality shifts to a rare psilocybinetic reality.
+# [[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]] enter the diet, and the new chemicals subsequently operating within the brain alter awareness so that consensual serotonergic reality shifts to a rare psilocybinetic reality.
 
 This environmental embeddedness of brain chemistry has profound implications. The various compounds employed by brains in order to process information have evolved over millions of years and they are determined by the chemicals available in the environment, in particular from the raw materials available in food. Serotonin has emerged as a key neurotransmitter because it can be produced from these raw materials. You cannot just have any old chemical compound acting as a neurotransmitter; it has to have arisen through evolution under the deterministic constraints set by the laws of chemistry and the further constraints set by food/raw material availability.
 
-Hence, serotonin is bound up with the chemistry of the environment. Our minds, our very consciousness, depends upon the hardware of the brain, which in turn depends upon chemical structure, which further depends upon diet. The psilocybin mushroom is part of the environment, and its consumption triggers an environmentally driven alteration in brain chemistry.
+Hence, serotonin is bound up with the chemistry of the environment. Our minds, our very consciousness, depends upon the hardware of the brain, which in turn depends upon chemical structure, which further depends upon diet. The [[psilocybin-mushroom]] is part of the environment, and its consumption triggers an environmentally driven alteration in brain chemistry.
 
 ## The Significance of 5-HT2 Receptor Distribution
 
@@ -32,10 +28,7 @@ The relationship between 5-HT2 receptor activation and the therapeutic potential
 
 ## See Also
 
-- [[psilocybin-5ht2a-receptor-pharmacology]]
-
 - [[default-mode-network-and-ego-dissolution]]
-- [[information-paradigm-of-consciousness]]
 - [[leary-harvard-psilocybin-project]]
 ## Practical Applications
 

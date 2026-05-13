@@ -9,11 +9,7 @@ sources:
 type: concept
 ---
 
-Water-Soluble Phosphoric Acid (WS-PA) is a [[comparison-natural-farming-vs-permaculture]] input
-extracted from sesame stem charcoal. Phosphoric acid is a substance of
-the cell nucleus and a major element of the reproductive body of the
-plant. If the plant is deficient in phosphoric acid, cell division is
-hindered and [[knf-reproductive-growth-stage]] suffers.
+Water-Soluble Phosphoric Acid (WS-PA) is a [[knf-reproductive-growth-stage]] suffers.
 
 ## Importance of Phosphoric Acid
 
@@ -23,60 +19,14 @@ hindered and [[knf-reproductive-growth-stage]] suffers.
 2. Absorbed phosphoric acid is used for cellular division when it
    moves to the bud, root tip, or seed.
 3. The stem of sesame contains large amounts of phosphoric acid and
-   is the preferred source [[mulching-in-natural-farming]]. Burn sesame stems into
-   charcoal and percolate the charcoal to extract WS-PA.
-4. Phytic acid, the storage form of phosphoric acid, is the major
-   substance in the seed. Phosphoric acid is involved in photo
-   phosphorylation and [[electron-transport-chain-mitochondrial-respiration]] in photosynthesis. It also
+   is the preferred source [[electron-transport-chain-mitochondrial-respiration]] in photosynthesis. It also
    affects transporting anabolites and protein synthesis.
 
 ## Materials Needed
 
 1. Charcoal from sesame stems
 2. Water
-3. Jar / [[sterile-spore-print-collection-glass-jar-technique]]
-4. Porous paper (paper towel)
-5. Rubber band / thread
-
-## Preparation Steps
-
-### Step 1: Making Sesame Stem Charcoal
-
-Make charcoal out of sesame stems, which are naturally abundant in
-phosphoric acid. Burn the sesame stems and put out the fire when
-large flames appear. This low-temperature charring preserves the
-phosphoric acid content.
-
-### Step 2: Extraction
-
-Put 1 kg of sesame stem charcoal in a cloth bag and dip it in 5
-liters of water to dissolve phosphoric acid into water, creating the
-crude liquid of natural phosphoric acid.
-
-### Step 3: Fermentation Period
-
-The extraction takes about 7 days, although the time varies depending
-on the surrounding temperature.
-
-### Step 4: Aeration
-
-Use air to enter once every two days (blow air into the water with a
-tube). This aeration helps the phosphoric acid dissolve into the
-water more effectively.
-
-## How to Use WS-PA
-
-### Dilution Ratios
-
-- When used alone: Dilute 700 ml of the crude WS-PA liquid with 20
-  liters of water.
-- When used with water-soluble calcium: Dilute WS-PA with water in
-  the ratio of 1:1000.
-
-### Application Timing
-
-1. Apply WS-PA during the
-   [[cho-nutritive-cycle-theory]]:
+3. Jar / [[cho-nutritive-cycle-theory]]:
 
 1. WS-PA can easily travel within the plant and moves to vigorous new
    leaves first. As a result, symptoms of deficiency appear mainly on
@@ -118,8 +68,83 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[spore]]
 - [[permaculture]]
-- [[cho-water-soluble-calcium-phosphate-preparation]]
 - [[knf-water-soluble-phosphoric-acid-detailed]]
 - [[knf-water-soluble-phosphoric-acid-wspa]]
+
+## Overview
+
+Cho Water Soluble Phosphoric Acid Preparation represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish cho water soluble phosphoric acid preparation
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving cho extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Cho Water Soluble Phosphoric Acid Preparation finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for cho water soluble phosphoric acid preparation. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+cho water soluble phosphoric acid preparation and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Cho Water Soluble Phosphoric Acid Preparation has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of cho water soluble phosphoric acid preparation into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.

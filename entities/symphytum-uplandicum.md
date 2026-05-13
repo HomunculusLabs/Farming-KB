@@ -108,13 +108,8 @@ Slugs and snails feed on young foliage in spring, though established plants quic
 
 ## See Also
 
-- [[symphytum-officinale]]
 - [[borago-officinalis]]
-- [[echium-vulgare]]
 - [[pulmonaria-officinalis]]
-- [[cynoglossum-officinale]]
 - [[mertensia-virginica]]
-- [[anchusa-azurea]]
 - [[heliotropium-europaeum]]
-- [[echium-wildpretii]]
 - [[brunnera-macrophylla]]

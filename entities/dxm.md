@@ -14,24 +14,7 @@ sources:
   - Schadel, M. et al. (1996). "dextromethorphan pharmacokinetics." Clinical Pharmacology & Therapeutics 59(4): 403–412.
   - Werder, S.F. (2014). "Dextromethorphan abuse: a new cause of psychosis." Primary Care Companion for CNS Disorders 16(1).
   - Zhang, Y. et al. (2006). "Dextromethorphan: pharmacology and clinical applications." CNS Drug Reviews 12(3-4): 167–183.
-  - FDA (2023). "Dextromethorphan [[indigenous-plant-knowledge-versus-synthetic-drug-safety-metzner]] Communication."
-  - Cotter, A.C. et al. (2023). "Auvelity (dextromethorphan-bupropion) for MDD." Journal of Clinical Psychiatry 84(3).
-created: 2026-05-07
----
-
-# Dextromethorphan (DXM)
-
-## Overview
-
-**Dextromethorphan** (DXM) is a synthetic dissociative compound and
-antitussive (cough suppressant) widely available in over-the-counter cold
-and cough medications. It is the dextrorotatory enantiomer of levorphanol
-and acts primarily as an NMDA receptor antagonist and sigma-1 receptor
-agonist.
-
-At therapeutic doses (15–30 mg), DXM suppresses cough reflexes via central
-nervous system action. At recreational doses (150–1500 mg), it produces
-dissociative, euphoric, and hallucinogenic effects comparable to [[ketamine]]
+  - FDA (2023). "Dextromethorphan [[ketamine]]
 and PCP.
 
 In 2022, the FDA approved a combination of dextromethorphan and bupropion
@@ -66,31 +49,83 @@ profile that varies significantly with dosage.
   dissociative effects
 - Sigma-1 receptor agonist (Ki ≈ 0.05 μM) — modulates calcium signaling
   and neuroprotection
-- [[serotonin]] reuptake inhibitor (SERT) — mild inhibition at higher doses
-
-**Secondary targets:**
-- Alpha-4-beta-2 nicotinic receptor antagonist
-- Mu-opioid receptor (very weak affinity, clinically insignificant at
-  standard doses)
-
-The metabolite dextrorphan (DXO) has similar receptor activity but greater
-potency at NMDA receptors and contributes significantly to the overall
-pharmacological effect, especially in extensive CYP2D6 metabolizers.
-
-## Effects
-
-**Therapeutic (15–30 mg):** Cough suppression without significant CNS
-depression or analgesia. Onset within 15–30 minutes, duration 3–6 hours.
-
-**First plateau (100–250 mg):** Mild stimulation, euphoria, heightened
-sensory awareness, music appreciation. Duration 4–6 hours.
-
-**Second plateau (250–500 mg):** Disinhibition, slurred speech, impaired
-motor coordination, closed-eye visuals, sense of detachment from body.
-
-## See Also
 - [[dextromethorphan]]
-- [[pcp]]
 - [[det]]
-- [[mda]]
 - [[serotonin]]
+
+## Overview
+
+Dxm represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish dxm
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving dxm extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Dxm finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for dxm. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+dxm and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Dxm has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of dxm into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.

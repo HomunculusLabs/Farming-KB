@@ -11,38 +11,7 @@ sources: []
 
 Updated: 2026-04-18
 
-Preserving eggs extends their usability far beyond the natural laying season, which peaks in spring and declines in fall and winter. Several traditional methods keep eggs edible for months without refrigeration, a valuable skill for [[making-ghee-and-clarified-fats]] for lard rendering instructions.
-
-1. Melt clean lard
-2. Dip each fresh, clean egg in the melted lard
-3. Lay eggs out to dry on a rack
-4. Buff gently with a clean towel to spread the lard evenly and remove excess
-5. Pack eggs in salt in a large bucket so no eggs touch each other
-6. Store in a cool place
-7. Stored this way, eggs last 6 months to a year
-
-## Method 3: Salt Storage
-
-Eggs can be buried in dry salt:
-1. Layer dry salt in a container
-2. Place eggs on the salt, not touching each other
-3. Cover with more salt
-4. Repeat layers
-5. Store in a cool, dry place
-6. Lasts approximately 6 months
-
-## Method 4: Mineral Oil
-
-Similar to lard coating but using food-grade mineral oil:
-1. Warm food-grade mineral oil slightly
-2. Coat each egg by dipping or wiping
-3. Store pointed-end down in cartons in a cool place
-4. Lasts 4-6 months
-
-## Method 5: Limewater
-
-A traditional method using calcium hydroxide solution:
-1. Mix 1 ounce of [[cervantes-hydrated-lime-quicklime-ph-adjustment]] (calcium hydroxide) per quart of water
+Preserving eggs extends their usability far beyond the natural laying season, which peaks in spring and declines in fall and winter. Several traditional methods keep eggs edible for months without refrigeration, a valuable skill for [[cervantes-hydrated-lime-quicklime-ph-adjustment]] (calcium hydroxide) per quart of water
 2. Allow to settle; the clear liquid is the limewater
 3. Submerge eggs in limewater
 4. Seal container and store cool
@@ -62,9 +31,7 @@ Before using preserved eggs, test by placing in water. Discard any that float. P
 
 ## See Also
 
-- [[root-cellaring-and-no-energy-food-storage]]
 - [[sustainable-living-habits-for-homesteads]]
-- [[faires-salt-curing-and-clarified-fats]]
 - [[solomon-root-cellaring-and-crop-storage]]
 ## Practical Considerations
 
@@ -114,8 +81,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[lacto-fermentation-and-food-preservation-methods]]
 - [[natural-farm-food-preservation-methods]]
-- [[food-preservation-canning]]
 - [[palmer-mushroom-drying-preservation-methods]]
 - [[oss-oeric-drying-and-preservation-methods]]

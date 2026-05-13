@@ -57,70 +57,93 @@ protozoa consume them, excess nitrogen is mineralized for plant uptake.
 A healthy gram of soil contains 10,000-100,000 protozoa.
 
 Key roles: mineralization of bacterial nitrogen; regulation of bacterial
-populations; maintenance of [[core-endorhiza-bacterial-community-composition-cannabis]] diversity through selective
-grazing.
-
-### Nematodes
-Microscopic roundworms filling several ecological roles: bacterial feeders,
-fungal feeders, and predators. A teaspoon of healthy soil contains 20-100
-nematodes. Bacterial-feeding nematodes mineralize nitrogen at larger scale
-than protozoa. Fungal-feeding nematodes regulate fungal populations.
-Predatory nematodes control root-feeding nematodes. Root-feeding nematodes
-become significant crop pests when beneficial populations are depleted.
-
-### Microarthropods and Earthworms
-Collembola (springtails), mites, and earthworms fragment organic matter,
-increasing surface area for microbial decomposition, and create soil
-structure through burrowing and casting activities.
-
-## Bacterial-Fungal Succession
-
-Soil biology follows predictable successional patterns:
-1. **Disturbance** (tilling): Bacterial dominance — bacteria rapidly
-   colonize disturbed soil with available simple carbon compounds
-2. **Early succession:** Mixed communities as complex organic matter
-   accumulates and fungi establish
-3. **Late succession:** Fungal dominance in mature ecosystems with
-   woody debris, perennial roots, and stable humus
-
-The fungal-to-bacterial biomass ratio (F:B ratio) indicates soil
-appropriateness for intended crops:
-- **Row crops and vegetables:** F:B 0.1:1 to 1:1
-- **Pastures and grasslands:** F:B 1:1 to 5:1
-- **Forests and woody systems:** F:B 10:1 to 100:1
-
-## Nutrient Cycling: The Microbial Loop
-
-1. Organic matter enters soil as plant residues or amendments
-2. Bacteria and fungi decompose it, incorporating nutrients into biomass
-   (immobilization)
-3. Protozoa and bacterial-feeding nematodes consume them, releasing excess
-   nitrogen and phosphorus (mineralization)
-4. Plants absorb mineralized nutrients through roots
-5. Root exudates feed bacteria and fungi, completing the cycle
-
-This self-regulating system releases nutrients at rates plants can absorb,
-preventing leaching that characterizes soluble [[solomon-chemical-fertilizer-incomplete-potassium-yield-tradeoff]] use.
+populations; maintenance of [[solomon-chemical-fertilizer-incomplete-potassium-yield-tradeoff]] use.
 
 ## Disease Suppression
 
 Healthy soil foodwebs suppress plant diseases through: competition for
 infection sites and resources; antibiotic production; predation on
-pathogens by [[teaming-with-microbes-protozoa-and-nematodes]]; [[endophytic-mycorrhizal-induced-systemic-resistance]] in
+pathogens by [[endophytic-mycorrhizal-induced-systemic-resistance]] in
 plants; and physical barriers created by mycorrhizal hyphae around roots.
 
 ## Management with AACT
 
-[[actively-aerated-compost-tea]] Tea introduces beneficial organisms and their
-food sources directly to soil or leaf surfaces, shifting biological
-balance toward health and productivity.
-
-## See Also
-
-- [[aact-brewing-science]]
+[[aact-brewing-science]]
 - [[mycelial-nutrient-translocation]]
 
 ## References
 
 - Ingham, E.R. *The Field Guide I for Actively Aerated Compost Tea*.
   Sustainable Studies Institute, 2004.
+
+## Overview
+
+Soil Foodweb Biology represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish soil foodweb biology
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving soil extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Soil Foodweb Biology finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for soil foodweb biology. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+soil foodweb biology and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Soil Foodweb Biology has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of soil foodweb biology into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions

@@ -21,12 +21,7 @@ the species composition, abundance, and distribution of fungi in
 defined areas. These efforts provide the baseline data necessary
 to measure changes in biodiversity, assess ecosystem health, and
 inform conservation decisions. The methodology of fungal surveys
-requires careful consideration of [[fungal-spatial-scale-biodiversity-hierarchical-zak-willig]], temporal dynamics,
-and the diverse life histories of fungal organisms.
-
-## Survey versus Inventory versus Monitoring
-
-Surveys are broad explorations that document [[undescribed-fungal-taxa]] present
+requires careful consideration of [[undescribed-fungal-taxa]] present
 in an area. Inventories are more structured efforts designed to
 compile comprehensive species lists for defined sites. Monitoring
 involves repeated sampling over time to detect population trends
@@ -50,32 +45,7 @@ comparable species richness.
 
 ## Sampling Approaches
 
-Two main approaches are used in [[fungal-biodiversity]] assessment:
-
-  - Convenience sampling: Experienced individuals visit a
-    location and document taxa they find. This approach is
-    efficient for preliminary estimates but precludes
-    comparisons between sites because sampling effort is not
-    standardized.
-  - Plot sampling: Collection of all fungi within defined plots
-    or transects ensures that all taxa fruiting at the time are
-    captured and provides standardized data for comparisons.
-    Plots range from 1 m2 to 1000 m2 depending on the target
-    organisms.
-
-Plot sampling provides quantitative data because sampling effort
-is standardized, either through sampling an explicitly defined
-area or for an explicitly defined amount of time. Removal and
-examination of all sporocarps in plots ensures that species
-difficult to distinguish in the field are collected.
-
-## Determining Adequate Sampling
-
-Deciding how much area to sample, the size and distribution of
-plots, and the frequency of sampling is not trivial. One rule
-states that sampling is adequate when every taxon occurs in at
-least two sampling units, but this criterion is probably
-impossible to meet when [[recommended-protocols-sampling-macrofungi]]. Species-area curves
+Two main approaches are used in [[recommended-protocols-sampling-macrofungi]]. Species-area curves
 and species-effort curves help determine when additional sampling
 yields diminishing returns. For macrofungi in forests, plots of
 1000 m2 with a minimum of five per community type have been
@@ -118,8 +88,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[doc]]
 - [[det]]
-- [[fungal-inventory-and-survey-methods]]
 - [[fungal-oomycota-straminipila-water-mold-biodiversity-inventory]]
 - [[fungal-ecological-operational-groups-biodiversity-inventory]]

@@ -22,15 +22,14 @@ belonging to the phylum Basidiomycota, class Agaricomycetes,
 order
 Polyporales, and family Polyporaceae. The species is now
 generally
-known as [[john-dighton]]'s treatment of [[fungi-in-ecosystem-processes-dighton]]
+known as [[fungi-in-ecosystem-processes-dighton]]
 processes, C. versicolor is discussed primarily in the context of
 wood
 decay succession in forest canopies and its interactions with
 specialist fungivorous insects. The species exemplifies the
 complex
 ecological dynamics that operate within deadwood habitats, where
-[[phanerochaete-velutina]]
-- [[laccaria-bicolor]]
+[[laccaria-bicolor]]
 ## Practical Applications
 
 Coriolus versicolor has a range of practical applications that make it relevant to

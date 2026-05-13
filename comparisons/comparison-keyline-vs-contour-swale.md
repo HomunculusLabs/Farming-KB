@@ -19,13 +19,7 @@ techniques developed to optimize water distribution, prevent erosion, and
 improve soil fertility on sloping land. Keyline design, developed by P.A.
 Yeomans in 1950s Australia, uses the natural topography of valleys and ridges
 to spread water from wet areas to dry areas through pattern cultivation.
-Contour swales, extensively developed in Bill Mollison's [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]]
-Course, are broad shallow trenches on contour that capture and infiltrate
-surface runoff. Both transform destructive runoff into productive soil
-moisture but operate through different mechanisms.
-
-## Keyline Design
-[[contour-swale-irrigation-design]]
+Contour swales, extensively developed in Bill Mollison's [[contour-swale-irrigation-design]]
 Swales are broad, shallow trenches excavated on true contour across sloping
 land to capture, slow, and infiltrate surface water runoff. They are typically
 at least four feet wide and often much wider, with the excavated soil placed
@@ -59,23 +53,7 @@ winter-wet climates and for establishing tree crops on marginal land.
 | Primary Tool | Yeomans plow (subsoiler) | Shovels, excavators, tractors |
 | Slope Suitability | Moderate slopes, broadacre | Moderate to shallow slopes only |
 | Scale | Large properties, farms | Any scale (garden to farm) |
-| Cost | Low ([[gottlieb-psilocybin-cultivation-equipment-and-facilities]]) | Moderate to high (earthmoving) |
-| Speed of Effect | Gradual (soil structure improves) | Immediate (first rain event) |
-| Tree Integration | Tree belts on keylines | Trees on swale berms |
-| Maintenance | Periodic cultivation | Annual sediment removal |
-| Complexity | High (design expertise needed) | Moderate (contour establishment) |
-| Best For | Broadacre farms, pasture | Gardens, food forests, urban |
-
-## When to Choose Keyline Design
-Keyline design is the superior choice for large agricultural properties,
-ranches, and broadacre farms where extensive earthworks would be prohibitively
-expensive or disruptive. It is ideal for land with pronounced valley-and-ridge
-topography where water naturally concentrates in valleys while ridges remain
-parched. Keyline cultivation works well for pasture improvement, as the
-pattern cultivation improves soil structure and water distribution across
-grazing land without installing permanent infrastructure. The system suits
-land managers who want a comprehensive, integrated approach to water, soil,
-trees, and [[grassland-pasture-management-mollison]] that works with natural landform rather than
+| Cost | Low ([[grassland-pasture-management-mollison]] that works with natural landform rather than
 against it.
 
 ## When to Choose Contour Swales
@@ -92,19 +70,81 @@ satisfying and motivating results.
 
 ## Combining Both Approaches
 The most sophisticated landscape water management plans integrate both keyline
-[[holmgren-permaculture-twelve-design-principles-framework]] and contour swales. Keyline pattern cultivation can be used
-to improve water distribution across broadacre areas between swale
-installations. Swales can be placed on keyline contours to maximize their
-effectiveness at moving water from valleys to ridges. On large properties,
-keyline design provides the overall water management framework while swales
-are installed in specific zones where concentrated infiltration is needed for
-tree crops, gardens, or intensive plantings. This integrated approach combines
-the broad-scale efficiency of keyline with the targeted water capture of
-swales.
-
-## See Also
-
-- [[comparison-keyline-vs-contour]]
-- [[comparison-windbreak-vs-swale]]
+[[comparison-keyline-vs-contour]]
 - [[comparison-keyline-vs-swale-design]]
 - [[comparison-terracing-vs-swales]]
+
+## Overview
+
+Comparison Keyline Vs Contour Swale represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish comparison keyline vs contour swale
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving comparison extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Comparison Keyline Vs Contour Swale finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for comparison keyline vs contour swale. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+comparison keyline vs contour swale and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Comparison Keyline Vs Contour Swale has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of comparison keyline vs contour swale into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and

@@ -8,13 +8,7 @@ type: concept
 
 ## Overview
 
-Mulching and composting are the two primary organic methods for building and maintaining healthy soils in permaculture systems. Together, they supply nutrients, buffer temperature extremes, prevent erosion, promote [[soil-life]], and restore soil structure — all without reliance on synthetic inputs.
-
-## What Qualifies as a Mulch
-
-In permaculture terms, mulching means **covering the soil surface with 15 cm or more of loose organic material**. A tight-rolled 8 cm layer of sawdust does not qualify. The definition is specific because depth and looseness are critical to the biological and physical functions the mulch performs.
-
-While plastic sheet mulches, soil gels (polyacrylamides), and herbicide-treated soils may prevent erosion and help [[crumb-structure]] develop, **only long periods of natural organic mulches stabilize nutrient supply and complex soil life**. Results cannot be judged over one or two seasons — it can take **3–5 years** to create balanced soil under mulch from compacted or mined-out land. Even longer periods are needed for permanent crops where mulch must be produced on-site.
+Mulching and composting are the two primary organic methods for building and maintaining healthy soils in permaculture systems. Together, they supply nutrients, buffer temperature extremes, prevent erosion, promote [[crumb-structure]] develop, **only long periods of natural organic mulches stabilize nutrient supply and complex [[soil-life]]**. Results cannot be judged over one or two seasons — it can take **3–5 years** to create balanced soil under mulch from compacted or mined-out land. Even longer periods are needed for permanent crops where mulch must be produced on-site.
 
 ## Functions of Mulch
 
@@ -120,6 +114,5 @@ After initial soil treatment, the safest long-term strategy is to **grow your ow
 
 ## See Also
 
-- [[query-which-cover-crops-are-best-for-breaking-hardpan-and-compacted-soil]]
 - [[query-what-are-the-best-soil-amendments-for-organic-gardening]]
 - [[query-what-are-the-best-ways-to-increase-soil-organic-matter-quickly]]

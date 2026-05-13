@@ -1,6 +1,6 @@
 ---
 
-title: Compost Tea Guide
+title: Compost Tea Guide — Complete AACT Manual
 created: 2026-04-11
 updated: 2026-04-12
 type: concept
@@ -24,7 +24,7 @@ sources:
 
 # Compost Tea Guide — Complete AACT Manual
 
-[[actively-aerated-compost-tea-aact-brewing]] Compost Tea (AACT) is a water extract of compost, brewed with food resources and actively aerated to multiply [[forest-and-bamboo-beneficial-microorganisms]]. Developed by Dr. Elaine Ingham, AACT delivers the full [[soil-food-web-nutrient-cycling]] — bacteria, fungi, protozoa, and nematodes — to soil and foliage. It is NOT anaerobic tea, leachate, or manure tea. True compost contains no human pathogens; AACT brewed aerobically maintains that safety.
+[[actively-aerated-compost-tea]] (AACT) is a water extract of compost, brewed with food resources and actively aerated to multiply beneficial microorganisms. Developed by Dr. Elaine Ingham, AACT delivers the full [[soil-food-web-nutrient-cycling]] — bacteria, fungi, protozoa, and nematodes — to soil and foliage. It is NOT anaerobic tea, leachate, or manure tea. True compost contains no human pathogens; AACT brewed aerobically maintains that safety.
 
 ## Equipment
 
@@ -47,14 +47,14 @@ sources:
 - Should contain visible fungal hyphae (white threads)
 - Worm castings = excellent bacterial source
 - Forest humus = excellent fungal source
-- [[aact-vermicompost-vs-thermal-compost-ingham]] = balanced bacteria:fungi depending on feedstocks
+- Thermal compost = balanced bacteria:fungi depending on feedstocks
 - Test compost via Soil Foodweb lab if possible — know your biology
 
 ### Food Resources (select for desired organism group)
 
 | Food | Feeds | Rate (per 5 gal) |
 |------|-------|-------------------|
-| Unsulfured [[ingham-blackstrap-molasses-compost-tea-concentration-osmotic-effects]] | Bacteria | 1-4 Tbsp |
+| Unsulfured blackstrap molasses | Bacteria | 1-4 Tbsp |
 | Fish hydrolysate | Bacteria + fungi | 1-2 Tbsp |
 | Kelp meal | Fungi + micronutrients | 1-2 Tbsp |
 | Humic/fulvic acid | Fungi | 1 Tbsp |
@@ -123,7 +123,7 @@ Ingham recommends microscope assessment at 400x magnification:
 | Predatory nematodes | Large mouth, fast | 1-5/g |
 
 - High ciliates indicate anaerobic/compacted conditions
-- Root-feeding nematodes present = need more [[ingham-beneficial-nematodes-soil-food-web]], mycorrhizae, and fungi
+- Root-feeding nematodes present = need more beneficial nematodes, mycorrhizae, and fungi
 
 ## Troubleshooting
 

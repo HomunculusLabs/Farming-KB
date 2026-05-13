@@ -6,22 +6,10 @@ tags:
   - mycology
   - indoor growing
   - sterilization
-  - [[cotter-compost-substrate-preparation-manure-mushroom-cultivation]]
-date: 2026-04-28
-updated: 2026-04-28
-sources:
-  - /Users/t3rpz/wiki/raw/papers/jarrold-indoor-mushroom-growing-technique-boil-a-bag.md
-type: concept
----
-
-# Boil-a-Bag Mushroom Cultivation Technique
-
-The boil-a-bag technique is a method of mushroom-cultivation developed by
-D.H. Jarrold for [[falconer-growing-mushrooms-in-sheds]] indoors using heat-resistant plastic bags as
+  - [[falconer-growing-mushrooms-in-sheds]] indoors using heat-resistant plastic bags as
 the primary growing container. The approach is designed to be accessible to
 home cultivators, requiring relatively inexpensive equipment and readily
-available materials. The technique combines elements of [[mushroom-spore-syringe-preparation]], and
-controlled fruiting in a [[mushroom-humidity-chamber-design-operation]].
+available materials. The technique combines elements of [[mushroom-humidity-chamber-design-operation]].
 
 ## Overview
 
@@ -60,15 +48,7 @@ The boil-a-bag method requires a specific set of tools and materials:
   during colonization and fruiting.
 
 Additional tools include scissors, tweezers, a flat-edged metal scraper, cotton
-wool buds, propyl alcohol for [[challenge-organisms-nasa-microwave-surface-sterilization-testing]], and a spirit burner for
-flame sterilization of instruments.
-
-## Preparing the Straw Substrate
-
-Straw preparation is a critical early step in the boil-a-bag process. The straw
-is chopped to lengths of 3 to 10 cm and placed in a watertight container. A
-nutritional supplement is prepared by dissolving approximately one heaped
-tablespoon of Marmite, Vegemite, or [[marmite-yeast-extract-straw-substrate]] in boiling water, which is
+wool buds, propyl alcohol for [[marmite-yeast-extract-straw-substrate]] in boiling water, which is
 then diluted with an additional 6 litres of boiling water. This enriched water
 is poured over the straw and the mixture is left to soak for approximately one
 hour, with the straw weighed down to ensure full submersion. After soaking, the
@@ -117,8 +97,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[mushroom-cultivation]]
 - [[spore]]
-- [[mycelium]]
 - [[sterilization]]
 - [[straw-based-mushroom-cultivation-boil-bag-method]]

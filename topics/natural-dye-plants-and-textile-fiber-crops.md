@@ -29,28 +29,7 @@ to extract and fix those colors onto fiber, constituted a vast body of
 practical wisdom passed down through generations of dyers, weavers,
 and farmers.
 
-Today, [[query-how-do-i-start-natural-dyeing-with-plants]] is experiencing a significant revival driven by
-growing awareness of the environmental costs of synthetic dye
-production — an industry that consumes enormous volumes of water,
-releases toxic effluent into waterways, and relies on petrochemical
-feedstocks. The permaculture-designers-manual-natural-dyes source
-describes how Bill Mollison integrated dye plants into permaculture
-designs, recognizing their value as multi-functional plants that can
-provide color, medicine, habitat, and soil improvement simultaneously.
-
-Textile fiber crops represent the other half of this equation: the
-plants that supply the raw materials — cellulose fibers like cotton,
-flax (linen), hemp, and ramie, plus protein fibers from animals that
-graze on forage systems. Growing both dye plants and fiber crops
-creates the foundation for a truly local textile economy, independent
-of global supply chains and petroleum inputs.
-
-## The History of Natural Dyeing
-
-The earliest archaeological evidence of textile dyeing dates to around
-2600 BCE in China, where madder-dyed fabrics have been recovered from
-ancient tombs. Indigo dyeing emerged independently in India, Egypt,
-Mesoamerica, and [[psilocybe-southeast-asia-pacific]], making it one of the most
+Today, [[psilocybe-southeast-asia-pacific]], making it one of the most
 widespread dye technologies in human history. The Phoenicians
 established Tyrian purple from Murex sea snails as a luxury dye that
 became synonymous with royalty — the word "purple" itself derives from
@@ -60,8 +39,7 @@ In medieval Europe, the dyer's craft was a closely regulated guild
 profession. Woad (Isatis tinctoria) supplied blue, madder (Rubia
 tinctorum) supplied red, and weld (Reseda luteola) supplied yellow —
 the three primary colors from which a complete palette could be mixed.
-The [[mollison-designers-wool-processing-natural-dyeing]] page
-describes traditional [[mollison-designers-wool-processing-natural-dyeing]] and dyeing workflows that
+The [[mollison-designers-wool-processing-natural-dyeing]] and dyeing workflows that
 remained largely unchanged from medieval times through the 18th
 century.
 
@@ -94,33 +72,7 @@ and isatan B, which convert to indigo through fermentation. Woad
 produces a somewhat lighter, more turquoise blue than tropical
 indigo, and the extraction process requires more plant material per
 unit of dye. Woad is a hardy biennial that grows well in temperate
-climates, making it accessible to growers in Europe, [[psilocybin-north-america-pacific-northwest]],
-and similar latitudes.
-
-Japanese indigo (Persicaria tinctoria, formerly Polygonum
-tinctorium) is the species traditionally used in Japanese dyeing
-practices. It is an annual that can be grown as far north as zone 6
-and produces excellent blues through both direct extraction and the
-traditional sukumo composting method. Fresh-leaf indigo dyeing with
-Japanese indigo is the most accessible entry point for beginners,
-requiring only fresh leaves, salt, and ice water — no fermentation
-or chemical reduction needed.
-
-### Red: Madder and Other Sources
-
-Madder (Rubia tinctorum) has been the premier source of red dye in
-Eurasia for over 4,000 years. The dye compound alizarin accumulates
-in the roots, which must grow for at least two to three years before
-harvesting for maximum pigment concentration. Madder reds range from
-coral and salmon through brick red to deep crimson depending on the
-mordant, pH, and temperature of the dye bath. Alum-mordanted madder
-produces the classic turkey red. Iron darkens it toward purple-brown.
-
-Cochineal, while technically an insect (Dactylopius coccus) rather
-than a plant, is worth mentioning as it was the most valuable dye
-commodity in the colonial Americas and remains one of the most
-vibrant and lightfast reds available to natural dyers. It is
-cultivated on [[comparison-agave-vs-prickly-pear-cultivation]] cactus (Opuntia spp.) in Mexico, Peru,
+climates, making it accessible to growers in Europe, [[comparison-agave-vs-prickly-pear-cultivation]] cactus (Opuntia spp.) in Mexico, Peru,
 and the Canary Islands. Other plant-based reds include brazilwood
 (Caesalpinia echinata, which produces pinks and reds), safflower
 (Carthamus tinctorius, yielding yellow-reds), and henna (Lawsonia
@@ -131,8 +83,6 @@ inermis, producing orange-reds on protein fibers).
 
 - fiber-plants-permaculture
 - permaculture-designers-manual-natural-dyes
-- [[mollison-designers-wool-processing-natural-dyeing]]
-- permaculture-designers-manual-tanbark-and-tannins
 - [[mycoremediation-of-textile-dyes]]
 - [[natural-building-techniques]]
 

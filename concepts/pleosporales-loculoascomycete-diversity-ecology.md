@@ -18,9 +18,7 @@ type: concept
 
 The Pleosporales is the largest order of the Loculoascomycetes
 (bitunicate ascomycetes) and one of the most diverse orders
-within the [[ascomycota-phylogeny-major-classes-lineages]]
-- chaetothyriales [[dematiaceous-fungi-melanin-fungal-ecology]]
-- [[fungal-parasites-living-plants-estimating-diversity]]
+within the [[dematiaceous-fungi-melanin-fungal-ecology]]
 - [[leaf-litter-microfungal-diversity-tropical-temperate]]
 ## Practical Applications
 

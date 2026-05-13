@@ -69,29 +69,82 @@ local climate, soil type, and management objectives. Documentation of outcomes a
 adaptive management ensures continuous improvement of results.
 
 ## See Also
-- [[mollison-designers-landscape-rehabilitation-degraded-mined-land]]
 - [[mollison-designers-vetiver-grass-for-erosion-control]]
-- [[bill-mollison-permaculture-a-designers-manual-water-harvesting-and-earthworks]]
 - [[mollison-designers-tropical-pasture-grass-species-and-establishment]]
-- [[mollison-designers-willow-water-and-natural-rooting-propagation]]
-
-## Cultivation and Uses
-
-Vetiver grass (Chrysopogon zizanioides) is a perennial bunch grass widely used for
-erosion control, soil stabilization, and phytoremediation. Its deep root system can
-extend 3-4 meters, making it exceptionally effective at stabilizing steep slopes and
-controlling runoff in tropical and subtropical regions.
-
-## Soil and Water Conservation
-
-When planted in hedgerows along contours, vetiver forms dense barriers that slow
-water flow, trap sediment, and promote infiltration. The grass is sterile and non-invasive,
-making it safe for introduction in diverse ecosystems. Essential oil from the roots
-provides an additional economic benefit for smallholder farmers.
-
-## See Also
 - [[mollison-designers-swale-design-and-water-harvesting-earthworks]]
-- [[bill-mollison-permaculture-a-designers-manual-tropical-grassland-rehabilitation]]
 - [[bill-mollison-permaculture-a-designers-manual-soil-and-humus-management]]
-- [[mollison-permaculture-two-arid-water-harvesting-and-erosion-control]]
 - [[bill-mollison-permaculture-a-designers-manual-aquaculture-and-water-systems]]
+
+## Overview
+
+Vetiver Grass represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish vetiver grass
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving vetiver extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Vetiver Grass finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for vetiver grass. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+vetiver grass and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Vetiver Grass has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of vetiver grass into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource

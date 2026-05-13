@@ -10,14 +10,7 @@ sources: [/Users/t3rpz/wiki/raw/papers/a-selection-permaculture-plants.md]
 
 # Paulownia tomentosa
 
-Paulownia tomentosa, commonly known as [[permaculture-design]] also used in traditional Chinese coffin
-manufacture, and the wood's resistance to moisture absorption has led to its use in boat
-building for lightweight components.
-
-## Permaculture and Agroforestry Applications
-
-In [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]], Paulownia tomentosa serves multiple functions as a [[nitrogen-fixing-trees]] companion. As a nurse tree,
-its rapid growth and large canopy provide quick shade and [[cervantes-wind-protection-outdoor-cannabis]] for establishing
+Paulownia tomentosa, commonly known as [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]], Paulownia tomentosa serves multiple functions as a [[cervantes-wind-protection-outdoor-cannabis]] for establishing
 understory crops and slower-growing climax species. The large leaves decompose rapidly,
 contributing significant quantities of [[hamilton-composting-and-organic-matter-management]] and nutrients to the soil surface.
 Leaf fall in autumn creates a thick mulch layer that suppresses weeds, moderates soil

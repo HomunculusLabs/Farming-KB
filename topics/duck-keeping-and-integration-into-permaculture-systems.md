@@ -21,9 +21,7 @@ sources:
 
 # Duck Keeping and Integration into Permaculture Systems
 
-Ducks are among the most versatile and underappreciated livestock a homesteader or permaculture practitioner can integrate into a diversified farm system. Unlike chickens, ducks thrive in wet environments, forage aggressively for slugs and insects, produce nutrient-rich manure, and can contribute to [[cannabis-pest-management-guide]], orchard fertility, and even aquaculture. Their hardiness, productivity, and low-maintenance nature make them an ideal complement to vegetable gardens, food forests, and pasture systems.
-
-This page covers breed selection, housing, feeding, health, breeding, predator protection, and — most importantly — how to [[query-how-do-i-integrate-ducks-into-my-permaculture-system]] into permaculture designs for maximum ecological benefit.
+Ducks are among the most versatile and underappreciated livestock a homesteader or permaculture practitioner can integrate into a diversified farm system. Unlike chickens, ducks thrive in wet environments, forage aggressively for slugs and insects, produce nutrient-rich manure, and can contribute to [[query-how-do-i-integrate-ducks-into-my-permaculture-system]] into permaculture designs for maximum ecological benefit.
 
 ## Why Ducks Over Chickens
 
@@ -35,7 +33,7 @@ Before diving into specifics, it is worth understanding why many permaculture pr
 | Wet tolerance | Thrive in rain and mud | Prone to respiratory issues in damp conditions |
 | Egg production | 200–340 eggs/year (light breeds) | 200–300 eggs/year (layer breeds) |
 | Egg quality | Larger, richer yolk, thicker shell | Standard |
-| [[comparison-pheromone-based-pest-control-vs-beneficial-insect-biocontrol]] | Superior [[hamilton-slug-and-snail-control]] hunters | Good for ticks and grasshoppers |
+| [[hamilton-slug-and-snail-control]] hunters | Good for ticks and grasshoppers |
 | Manure output | Higher nitrogen content (~0.6% N) | Moderate (~0.5% N) |
 | Noise level | Quieter (mumbles and quacks) | Louder (crowing, alarm calls) |
 | Predator vulnerability | Higher (ground-based, less alert) | Lower (roost, alarm systems) |
@@ -107,43 +105,9 @@ Ducks need protection from predators and extreme weather, but their housing requ
 1. **Simple hoop coop**: PVC or cattle panel hoop covered with tarps — cheap, portable, well-ventilated
 2. **Mobile duck tractor**: A-frame or flat-deck design on skids — moved daily across pasture or garden beds
 3. **Stationary coop with run**: Traditional coop with attached fenced area — suitable for small flocks
-4. **Night house only**: In mild climates, ducks may only need a secure lockup at night if they [[free-range-poultry-forage-design-mollison]] during the day
-
-### Bedding Management
-
-Duck bedding gets wet quickly. Strategies to manage moisture:
-
-- **Deep litter method**: Start with 4–6 inches of carbon material (straw, leaves, wood chips); add fresh material on top; the lower layers compost in place
-- **Sand floor**: Some keepers use sand as the base — easy to scoop like a litter box
-- **Pallet platform**: Raise the sleeping area on pallets with hardware cloth to allow droppings to fall through
-- **Frequent replacement**: In small coops, weekly full cleanouts may be necessary
-
-### Winter Housing
-
-Ducks are remarkably cold-hardy (down to -20°F / -29°C with shelter). Winter considerations:
-
-- Minimize drafts but maintain ventilation — moisture is the enemy, not cold
-- Provide deep bedding (8–12 inches) for insulation
-- Ensure water doesn't freeze — use heated bowls or poultry waterers
-- Some breeds (Muscovy, Mallard) are more cold-sensitive than others (Khaki Campbell, Pekin)
-- Ducks can forage in snow but appreciate supplemental feed in extreme cold
-
-## Water Management
-
-Water is central to duck husbandry. Unlike chickens, ducks need water for:
-
-- **Drinking**: 0.5–1 gallon per bird per day
-- **Feeding**: Ducks must have water available while eating to prevent choking
-- **Cleaning**: Head-dipping clears nares and eyes of debris
-- **Mating**: Drakes require water for successful copulation
-- **Thermoregulation**: Paddling helps ducks regulate body temperature in summer
-
-### Pond Design for Permaculture Systems
-
-A well-designed duck pond serves multiple functions: water for ducks, habitat for wildlife, irrigation source, and [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] hub.
+4. **Night house only**: In mild climates, ducks may only need a secure lockup at night if they [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] hub.
 
 **Minimum water depth**: 6–12 inches for small flocks; 18–24 inches is ideal for natural behavior
 
 ## Related
-- [[gaias-garden-living-plant-systems-insectary|gaias garden living plant systems insectary]]
 - [[comparison-biointensive-vs-permaculture|comparison biointensive vs permaculture]]

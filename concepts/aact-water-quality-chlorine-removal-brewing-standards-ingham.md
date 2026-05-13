@@ -2,17 +2,7 @@
 
 ## Overview
 
-Water quality is a critical but often overlooked factor in successfully brewing [[actively-aerated-compost-tea]] Tea (AACT). The water used as the base for compost tea directly affects microbial survival, reproduction, and diversity during the brewing process.
-
-Dr. Elaine Ingham's field guide emphasizes that municipal tap water containing chlorine or chloramines can devastate the beneficial [[cannabis-rhizosphere-microbial-communities]] that AACT is designed to cultivate. Understanding water chemistry, [[stamets-contamination-sources-laboratory-hygiene]], and treatment methods is essential for consistent, high-quality tea production.
-
-Water serves as the primary medium in which all microbial activity occurs during AACT brewing. Every organism in the tea — bacteria, fungi, protozoa, and nematodes — exists in an aqueous environment. The chemical and physical properties of that water determine whether these organisms thrive or perish. This page covers water [[aact-compost-quality-standards-ingham]], chlorine removal methods, [[cervantes-reservoir-temperature-management]], pH considerations, and testing protocols for AACT brewing.
-
----
-
-## Municipal Water Chlorine and Chloramine Problems
-
-Most municipal water supplies in [[guzman-psilocybin-mushrooms-north-america]] are treated with either free chlorine or chloramines as primary disinfectants. Both compounds are lethal to the bacteria, fungi, protozoa, and nematodes that form the beneficial soil food web organisms targeted by AACT brewing.
+Water quality is a critical but often overlooked factor in successfully brewing [[cannabis-rhizosphere-microbial-communities]] that AACT is designed to cultivate. Understanding water chemistry, [[aact-compost-quality-standards-ingham]], chlorine removal methods, [[guzman-psilocybin-mushrooms-north-america]] are treated with either free chlorine or chloramines as primary disinfectants. Both compounds are lethal to the bacteria, fungi, protozoa, and nematodes that form the beneficial soil food web organisms targeted by AACT brewing.
 
 ### Free Chlorine
 
@@ -30,8 +20,7 @@ The impact of residual chlorine on a compost tea brew is severe:
 
 - Even 0.5-1.0 ppm free chlorine can reduce bacterial populations by 90% or more within the first hour of brewing
 - Fungal hyphae show inhibited growth at chlorine levels above 0.2 ppm
-- Protozoa and [[ingham-beneficial-nematodes-soil-food-web]] are the most sensitive organisms, with mortality occurring at very low chlorine concentrations
-- [[arbuscular-mycorrhizal-fungi]] are particularly vulnerable, as their delicate hyphal networks are destroyed by oxidizing agents
+- Protozoa and [[arbuscular-mycorrhizal-fungi]] are particularly vulnerable, as their delicate hyphal networks are destroyed by oxidizing agents
 
 Ingham's correspondence repeatedly stresses that brewers who experience poor results despite following all other brewing protocols correctly often discover that chlorine in their water source is the culprit. She recommends that every new AACT brewer begin by testing their water supply before investing in compost, foods, or equipment.
 
@@ -59,21 +48,11 @@ High-quality activated carbon filters can remove both chlorine and chloramines, 
 
 ### Reverse Osmosis Water
 
-Reverse osmosis (RO) water provides the cleanest baseline for AACT brewing. RO systems remove virtually all contaminants including chlorine, chloramines, heavy metals, dissolved minerals, and [[chamovitz-plant-scent-communication-volatile-organic-compounds]]. However, Ingham notes that RO water may be too pure for optimal brewing, as beneficial organisms require some mineral content. The recommendation is to use RO water as a base and remineralize it with small amounts of kelp extract, rock dust, or humic acids.
-
----
-
-## Water Temperature Considerations
-
-Brewing water temperature significantly affects microbial activity and reproduction rates during the AACT brewing process.
-
-### Optimal Temperature Range
-
-The optimal brewing temperature range is 65-75°F (18-24°C). Within this range, bacterial reproduction proceeds at maximum rates and fungal hyphae extend actively. Temperature directly influences [[aact-dissolved-oxygen-fine-bubble-aeration-ingham]] capacity — as temperature rises, the water's ability to hold oxygen decreases.
+Reverse osmosis (RO) water provides the cleanest baseline for AACT brewing. RO systems remove virtually all contaminants including chlorine, chloramines, heavy metals, dissolved minerals, and [[aact-dissolved-oxygen-fine-bubble-aeration-ingham]] capacity — as temperature rises, the water's ability to hold oxygen decreases.
 
 ### Cold Water Problems
 
-Below 55°F (13°C), bacterial reproduction slows dramatically, extending the time needed to reach adequate [[soil-microbial-biomass-measurement-ecological-significance]]. Winter brewing [[query-how-do-i-grow-figs-in-cold-climates]] requires pre-warming before adding compost. Using warm (not hot) water from indoor sources or allowing water to reach ambient greenhouse temperatures helps maintain adequate microbial activity.
+Below 55°F (13°C), bacterial reproduction slows dramatically, extending the time needed to reach adequate [[query-how-do-i-grow-figs-in-cold-climates]] requires pre-warming before adding compost. Using warm (not hot) water from indoor sources or allowing water to reach ambient greenhouse temperatures helps maintain adequate microbial activity.
 
 ### Hot Water Problems
 
@@ -96,36 +75,8 @@ Aact Water Quality Chlorine Removal Brewing Standards Ingham has significant app
 The development and understanding of aact water quality chlorine removal brewing standards ingham has evolved considerably over recent decades, with contributions from researchers, practitioners, and indigenous knowledge systems worldwide.
 
 ## See Also
-- [[aact-ph-water-quality-ingham]]
 - [[ingham-citric-acid-chlorine-removal-water-treatment]]
-- [[aact-compost-quality-standards-ingham]]
 - [[ingham-aact-brewing-equipment-reliability-machine-testing-standards]]
-- [[aact-brewer-machine-design-testing-standards-ingham]]
-
-## Key Considerations
-
-Several important factors influence the effectiveness and outcomes described
-in this topic. Understanding these considerations helps practitioners make
-informed decisions and avoid common pitfalls. Environmental conditions,
-timing, and material selection all play critical roles.
-
-## Historical Context
-
-The historical development of this subject reflects centuries of accumulated
-knowledge and practical experience. From traditional methods passed down
-through generations to modern scientific approaches, the evolution continues
-to inform current best practices and research directions.
-
-## Common Challenges
-
-Practitioners frequently encounter several challenges when working with
-these concepts. Climate variability, resource limitations, and knowledge
-gaps can all affect outcomes. Addressing these challenges requires patience,
-observation, and a willingness to adapt approaches based on results.
-
-## See Also
 - [[elaine-ingham]]
-- [[psilocybin]]
 - [[det]]
-- [[fungal-hyphae]]
 - [[mycorrhiza]]

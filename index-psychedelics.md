@@ -129,7 +129,7 @@
 - [[ayahuasca-tourism-shamanic-tourism-economics]]
 - [[ayahuasca-tourism-western-seekers-and-integration]]
 - [[ayahuasca-tourist-dosage-considerations-and-shamanic-caution]]
-- [[ayahuasca-vision-art-and-Shipibo-tradition]]
+- [[ayahuasca-vision-art-and-shipibo-tradition]]
 - [[ayahuasca-visions]]
 - [[ayahuasca-yakuruna-water-spirits-shamanic-allies-amazon]]
 - [[ayahuasqueros-amazonian-shamans]]

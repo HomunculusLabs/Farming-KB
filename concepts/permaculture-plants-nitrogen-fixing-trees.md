@@ -11,10 +11,7 @@ tags: [culture, permaculture, plants, tree-crop]
 
 # Permaculture Nitrogen-Fixing Trees
 
-Nitrogen-fixing pioneer trees form the foundation of permaculture land reclamation and [[permaculture-tagasaste]] (Chamaecytisus palmensis)
-Family: Fabaceae. Native to the Canary Islands. One of the most useful pioneer species. Height to 7 m, productive in areas of low rainfall (300 mm). Crude protein 17-31% in foliage. Stock carrying capacity reaches 35 sheep/ha by year 6 at 1000 trees/ha. Valuable winter [[mollison-designers-bee-forage-tree-planting]]. Seed is prolific [[free-range-poultry-forage-design-mollison]] (25% protein). Used as [[tagasaste-nurse-crop-fodder-systems]] for fruit and [[comparison-nut-trees-vs-grain-farming-for-caloric-staple-production]] -- in New Zealand trials, trees grown within 1 m of tagasaste consistently outperformed controls. Good firewood.
-
-### Wattles ([[permaculture-plants-nitrogen-fixing-trees-shrubs]]
+Nitrogen-fixing pioneer trees form the foundation of permaculture land reclamation and [[mollison-designers-bee-forage-tree-planting]]. Seed is prolific [[tagasaste-nurse-crop-fodder-systems]] for fruit and [[permaculture-plants-nitrogen-fixing-trees-shrubs]]
 
 - mycorrhizal-nitrogen-transfer-between-plants
 - [[permaculture-design]]

@@ -11,7 +11,7 @@ sources: []
 
 ## Overview
 
-The effects of [[cap-versus-stem-alkaloid-distribution-in-psilocybin-mushrooms]] span perceptual, emotional, cognitive, and somatic domains. Effects are highly dose-dependent and profoundly influenced by set (mental state, expectations, personality) and setting (physical environment, [[emcdda-hallucinogenic-mushroom-polydrug-use-social-context]]). This guide describes the spectrum of effects organized by category and dose level.
+The effects of [[psilocybin-mushrooms]] span perceptual, emotional, cognitive, and somatic domains. Effects are highly dose-dependent and profoundly influenced by set (mental state, expectations, personality) and setting (physical environment, social context). This guide describes the spectrum of effects organized by category and dose level.
 
 ## Dose-Response Levels
 
@@ -42,7 +42,7 @@ Noticeable but manageable effects:
 
 ### Level 3: Moderate (1.5-3.0g)
 
-The classic [[leary-psychedelic-experience-bardo-mapping]]:
+The classic psychedelic experience:
 
 - **Visuals**: Clear open-eye visuals — geometric patterns overlaying surfaces, enhanced pattern recognition (pareidolia), color shifting, trails or afterimages with motion, surfaces may appear to breathe, flow, or melt
 - **Closed-eye visuals**: Complex, evolving landscapes, fractal patterns, dreamlike imagery, possible visionary content
@@ -63,7 +63,7 @@ Intense experience requiring significant preparation:
 
 ### Level 5: Heroic (5.0g+)
 
-Full [[mystical-experience]]; approach with extreme caution:
+Full mystical experience; approach with extreme caution:
 
 - **Visuals**: Complete visual immersion. Ordinary perception may be largely replaced by visionary content. May feel unable to distinguish eyes-open from eyes-closed states
 - **Ego dissolution**: Complete and often irreversible (during the experience) dissolution of ego. Merging with a perceived universal consciousness. Complete loss of ordinary self-identity
@@ -91,7 +91,7 @@ The emotional spectrum under psilocybin is dramatically widened:
 - **Challenging**: Anxiety, fear, grief, sadness, anger, guilt, shame, existential dread, paranoia, confusion
 - **Neutral**: Contemplative, meditative, detached observation
 
-Emotions are often experienced more intensely and with greater immediacy than in ordinary consciousness. Suppressed emotions may surface. The emotional tone is heavily influenced by [[lsd-set-and-setting-framework]] — see [[psychedelic-mushroom-set-and-setting]].
+Emotions are often experienced more intensely and with greater immediacy than in ordinary consciousness. Suppressed emotions may surface. The emotional tone is heavily influenced by [[set-and-setting]] — see [[psychedelic-mushroom-set-and-setting]].
 
 ## Cognitive Effects
 

@@ -27,14 +27,7 @@ Pharmacology and Therapeutics.
 N,N-dimethyltryptamine (DMT) is active when smoked (40-50 mg, peak
 in 2-5 min, clearing over 20-30 min), injected, or inhaled, but is
 orally active only when monoamine oxidase (MAO) enzymes are inhibited.
-Key US [[dmt-botanical-sources-pharmacology]] include **Phalaris spp.** (canary grass),
-found in fallow fields and lawns across the entire US with highly
-variable DMT content, and **Desmanthus illinoensis** (prairie
-bundleflower), whose root bark contains approximately 0.34% DMT by dry
-weight.
-
-The beta-carboline MAOIs in traditional ayahuasca also occur in US
-plants: **[[mckenna-food-gods-peganum-harmala-soma]]** (Syrian rue), now wild in the western US
+Key US [[mckenna-food-gods-peganum-harmala-soma]]** (Syrian rue), now wild in the western US
 with 2-4% MAOI content, and **Passiflora incarnata** (passionflower),
 growing throughout the Southeast and Midwest with approximately 1% MAOI.
 Nontraditional brews combining these US plants serve as ayahuasca
@@ -42,80 +35,102 @@ approximations, with recipes and user reports available online.
 
 ## Psilocybe Mushrooms
 
-[[mescaline]] as the principal hallucinogen at approximately 1.5%
-by dry weight. It grows along the Texas-Mexico border. Potent
-intoxication requires approximately 3.75 mg/kg, peaking at 2-4 hours.
-
-Mescaline is not exclusive to peyote. **Trichocereus pachanoi** (San
-Pedro) contains 0.33% to 2.375% mescaline, and **Trichocereus
-peruvianus** (Peruvian torch) contains 0% to 0.82%. These South American
-cacti are common US ornamentals available from garden shops nationwide,
-typically boiled into soup for ingestion. Emesis is more likely than
-with peyote due to the large volume of plant material required.
-
-## Salvia divinorum
-
 [[lysergic-acid-amide-discovery-in-ololiuhqui]] (LSA, ergine), a close analogue of LSD, is
-found in plant seeds: **[[purple-ohms-argyreia-nervosa-legal-mushroom-substitutes]]** (Hawaiian baby woodrose) at
-0.14% by seed dry weight (5-10 seeds per dose), and **Ipomoea violacea**
-(morning glory) at 0.02% (150-200 seeds per dose). **Stipa robusta**
-(sleepygrass) has the highest LSA concentrations but no known history
-of intentional ingestion. LSA produces 4-8 hour intoxication at 2-5 mg.
-Commercial morning glory seeds are typically coated with emetic poisons.
-
-## Anticholinergic Plants
-
-Atropine and scopolamine are competitive antagonists of
-muscarinic cholinergic receptors and CNS depressants. Overdose produces
-toxic delirium with anterograde amnesia, confusion, hallucinations, and
-excited affect; can be lethal. Key plants include **Datura stramonium**
-(jimson weed), wild throughout the US except Wyoming and Alaska;
-**[[belladonna-atropa-belladonna-ethnobotany]]** (deadly nightshade); **[[mandrake-mandragora-officinarum-in-european-folklore]]**
-(mandrake); and **[[henbane-hyoscyamus-niger-ethnobotany]]** (henbane). The entire plant is
+found in plant seeds: **[[belladonna-atropa-belladonna-ethnobotany]]** (deadly nightshade); **[[henbane-hyoscyamus-niger-ethnobotany]]** (henbane). The entire plant is
 toxic in most species, with seeds being particularly dangerous.
 
 ## Amanita Muscaria and Amanita Pantherina
 
-[[psychoactive-plants-united-states]]
-
-- [[mescaline]]
+[[mescaline]]
 - salvinorin-A
 
 ## See Also
 
-- [[us-native-hallucinogenic-dissociative-plants]]
+- [[ayahuasca]]
+- [[ipomoea-violacea]]
+- [[datura-stramonium]]
+
+## Overview
+
+Hallucinogenic Plants Native To United States represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish hallucinogenic plants native to united states
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving hallucinogenic extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
 
 ## Practical Applications
 
-The principles and techniques discussed here have wide-ranging applications
-across multiple disciplines and contexts. Practitioners and researchers
-continue to explore new ways to integrate these concepts into modern practice,
-adapting traditional knowledge to contemporary challenges and opportunities.
+Hallucinogenic Plants Native To United States finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
 
-## Key Considerations
+## Management and Implementation
 
-Several important factors influence the effectiveness and outcomes described
-in this topic. Understanding these considerations helps practitioners make
-informed decisions and avoid common pitfalls. Environmental conditions,
-timing, and material selection all play critical roles.
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for hallucinogenic plants native to united states. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+hallucinogenic plants native to united states and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
 
 ## Historical Context
 
-The historical development of this subject reflects centuries of accumulated
-knowledge and practical experience. From traditional methods passed down
-through generations to modern scientific approaches, the evolution continues
-to inform current best practices and research directions.
+Hallucinogenic Plants Native To United States has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
 
-## Common Challenges
+## Integration Strategies
 
-Practitioners frequently encounter several challenges when working with
-these concepts. Climate variability, resource limitations, and knowledge
-gaps can all affect outcomes. Addressing these challenges requires patience,
-observation, and a willingness to adapt approaches based on results.
+Successful integration of hallucinogenic plants native to united states into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
 
 ## See Also
-- [[ayahuasca]]
-- [[amanita-pantherina]]
-- [[ipomoea-violacea]]
-- [[passiflora-incarnata]]
-- [[datura-stramonium]]
+
+- [[anticholinergic-hallucinogenic-plants]]
+- [[chemistry-of-hallucinogenic-plants]]
+- [[european-hallucinogenic-mushroom-prevalence-trends]]
+- [[hallucinogenic-mushroom-telephone-helplines-and-emergency-response]]
+- [[hallucinogenic-plants-of-the-world]]

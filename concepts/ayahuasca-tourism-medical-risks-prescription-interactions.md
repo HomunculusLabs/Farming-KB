@@ -25,28 +25,8 @@ type: concept
 
 ## Overview
 
-R. Stuart's 2002 paper "Ayahuasca Tourism: A Cautionary Tale," published in the *MAPS Bulletin*, documents the medical risks faced by tourists who participate in [[metzner-amazonian-ayahuasca-ceremonies-icaros-and-healing-methods]] in [[guzman-psilocybin-mushrooms-south-america]]. The paper focuses on the Amazonian cities of [[ayahuasca-botany-and-preparation|Banisteriopsis caapi]] (which contains the beta-carboline alkaloids **harmine** and **harmaline**) combined with [[ayahuasca-pharmacology|ayahuasca pharmacology]] and the [[ayahuasca-pharmacology-maoi-interactions]]
-
-- [[ayahuasca-botany-and-preparation]]
-- [[alan-shoemaker-ayahuasca-legal-peru]]
-## Practical Applications
-
-Ayahuasca Tourism: Medical Risks and Dangerous Prescription Drug Interactions has a range of practical applications that make it relevant to
-both researchers and practitioners. Understanding these applications
-requires familiarity with the underlying principles and their
-manifestation in real-world contexts. The breadth of applications
-reflects the fundamental importance of this topic across disciplines.
-
-Implementation varies based on scale, available resources, and
-specific objectives. Small-scale applications may be relatively
-straightforward, while larger implementations require more careful
-planning and coordination. Adaptation to local conditions is always
-essential for achieving optimal results regardless of scale.
-
-Documented case studies provide valuable reference points, though
-each situation presents unique combinations of opportunities and
-constraints that require context-specific solutions. The most
-successful implementations combine established [[arbuscular-mycorrhizal-inoculum-production-best-practices]] with
+R. Stuart's 2002 paper "Ayahuasca Tourism: A Cautionary Tale," published in the *MAPS Bulletin*, documents the medical risks faced by tourists who participate in [[guzman-psilocybin-mushrooms-south-america]]. The paper focuses on the Amazonian cities of [[ayahuasca-pharmacology|ayahuasca pharmacology]] and the [[ayahuasca-botany-and-preparation]]
+- [[arbuscular-mycorrhizal-inoculum-production-best-practices]] with
 creative adaptation to local conditions and emerging challenges.
 
 ## Key Considerations
@@ -97,8 +77,6 @@ through generations to modern scientific approaches, the evolution continues
 to inform current best practices and research directions.
 
 ## See Also
-- [[ayahuasca-tourism]]
 - [[ayahuasca]]
-- [[ayahuasca-pharmacology]]
 - [[doc]]
 - [[harmine]]

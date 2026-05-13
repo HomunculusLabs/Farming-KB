@@ -6,7 +6,7 @@ type: concept
 
 # Microclimate Site Assessment
 
-Microclimate site assessment is the systematic observation and mapping of local climatic variations across a landscape. In permaculture design, understanding microclimates is essential because conditions can vary dramatically over short distances — even within a single property — due to differences in elevation, slope, vegetation, water features, and built structures. Accurate assessment allows the designer to place sensitive elements such as houses, gardens, and livestock shelters in the most favourable positions and to modify less favourable zones through intentional design interventions.
+Microclimate site assessment is the systematic observation and mapping of local climatic variations across a landscape. In [[permaculture-design]], understanding microclimates is essential because conditions can vary dramatically over short distances — even within a single property — due to differences in elevation, slope, vegetation, water features, and built structures. Accurate assessment allows the designer to place sensitive elements such as houses, gardens, and livestock shelters in the most favourable positions and to modify less favourable zones through intentional design interventions.
 
 The goal of microclimate assessment is to move beyond regional climate data (which describes broad averages over large areas) and identify the specific conditions that prevail at the scale of individual fields, building sites, garden beds, and livestock paddocks. This localised knowledge is what enables effective permaculture design.
 
@@ -94,44 +94,6 @@ Conversely, in cool climates, dark-coloured surfaces on buildings, water tanks, 
 
 ## Integration with Site Design
 
-Microclimate site assessment is not a standalone exercise — it feeds directly into the [[permaculture-sector-analysis]], zoning, and element placement phases. The data gathered from thermometer surveys, wind observation, frost mapping, and topographic analysis is overlaid on the site map to produce a composite microclimate assessment. This overlay becomes the primary reference for decisions about where to place houses, gardens, animal systems, water storage, and windbreaks. By designing with microclimate rather than against it, the permaculture designer reduces the energy inputs required to maintain productive and comfortable systems and increases overall system resilience.
-
-The assessment should be repeated across seasons where possible, as microclimatic conditions shift with the angle of the sun, prevailing wind direction, and vegetation state. A single-season assessment captures only a partial picture; the most reliable designs are based on observations made over at least one full annual cycle.
-
-## Altitude Effects on Climate
-
-Altitude creates significant microclimatic variation within a single property. As a general rule, every 100 metres of altitude gain is approximately equivalent to moving one degree of latitude towards the poles. This means that in subtropical regions, temperate-area plants can be grown on high hills and ridges, effectively expanding the range of species that can be cultivated on a single property.
-
-The altitude effect interacts with topography to create complex thermal patterns. South-facing slopes in the northern hemisphere (north-facing in the southern hemisphere) receive more direct solar radiation and are correspondingly warmer, while opposite-facing slopes remain cooler and moister. Ridge tops experience higher wind speeds and greater evaporative demand, while valley bottoms accumulate cold air and are prone to frost. Understanding these altitude-driven patterns allows designers to match plant species and building locations to the specific conditions of each topographic position.
-
-## Frost Zone Mapping
-
-Frost is one of the most critical microclimatic factors affecting plant survival and building comfort. Frost is produced in hollows, on flats, and in large clearings where cold air accumulates and radiative cooling is unimpeded. Conversely, frost is absent on the "thermal belt" of hillsides and under tree canopies where radiative cooling is moderated.
-
-Mapping frost zones on a site requires observation over multiple frost events, ideally through a full winter season. Simple techniques include placing shallow containers of water at various locations and recording where ice forms first and thaws last, or observing patterns of frost damage on existing vegetation. Maximum/minimum thermometers at key locations provide quantitative data. The resulting frost map guides placement of frost-sensitive species, water pipes, and living areas.
-
-## Seasonal Wind Variation
-
-Wind direction and intensity are not constant throughout the year. Seasonal wind patterns must be documented to design effective year-round wind protection. In many regions, winter winds blow from a different direction than summer winds, requiring windbreaks oriented to protect against the most damaging seasonal winds while allowing beneficial breezes during other seasons.
-
-Tall stakes with coloured cloth or plastic streamers placed at various locations around a site provide a simple, low-cost method for seasonal wind monitoring. Photographing streamer positions at regular intervals creates a visual record that can be analysed to identify prevailing wind directions, seasonal shifts, and local turbulence patterns caused by existing structures or topography.
-
-## Tools and Methods for Assessment
-
-Effective microclimate assessment employs a combination of simple tools and systematic observation:
-
-- **Maximum/minimum thermometers**: Record daily temperature extremes at multiple locations. Essential for identifying thermal belts, frost pockets, and heat islands.
-- **Wind streamers**: Coloured cloth or plastic strips on tall stakes. Reveal wind direction, relative speed, and turbulence patterns.
-- **Tree flagging surveys**: Document existing tree deformation to reconstruct historical wind patterns without long-term monitoring.
-- **Soil temperature probes**: Reveal subsurface thermal patterns that influence root zone conditions and microbial activity.
-- **Humidity measurements**: Identify areas of excessive moisture or dryness that affect plant health and building comfort.
-- **Sun path analysis**: Map the seasonal arc of the sun across the site to identify areas of full sun, partial shade, and deep shade throughout the year.
-
-These tools require minimal investment but yield data that dramatically improves design outcomes. The permaculture designer who conducts a thorough microclimate assessment before placing elements will create systems that work with natural forces rather than against them.
-
-## See Also
-
-- [[wind-effects-on-trees-and-forests]]
-- [[temperature-effects-of-trees]]
+Microclimate site assessment is not a standalone exercise — it feeds directly into the [[wind-effects-on-trees-and-forests]]
 - [[trees-and-precipitation]]
 - [[tree-biomass-and-energy-transactions]]

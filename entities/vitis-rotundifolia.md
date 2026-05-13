@@ -19,7 +19,7 @@ sources:
 
 ## Overview
 
-**Vitis rotundifolia** Michx., commonly known as the muscadine grape, bullace grape, or Southern fox grape, is a deciduous woody vine native to the southeastern [[dmt-containing-plants-united-states-halpern]]. It is one of the most culturally and economically important native [[growing-gourmet-north-american-reishi-species]] fruit species.
+**Vitis rotundifolia** Michx., commonly known as the muscadine grape, bullace grape, or Southern fox grape, is a deciduous woody vine native to the southeastern [[growing-gourmet-north-american-reishi-species]] fruit species.
 
 Muscadines are distinguished from other grape species by their thick skins, loose berry clusters, unique floral morphology, and exceptional disease resistance. They thrive in the hot, humid conditions of the American South where other grape species struggle.
 
@@ -51,13 +51,9 @@ The natural range corresponds closely to the coastal plain and piedmont physiogr
 
 Muscadines grow in a variety of habitats including hardwood forests, pine flatwoods, swamp margins, and disturbed sites. They are particularly abundant in ecotonal areas between forest and open land.
 
-Soil preferences are broad, but the species performs best on well-drained sandy loams with pH 5.5–6.5. It tolerates acidic soils that would limit growth of most [[uncommon-specialty-fruit-crops-for-permaculture]] crops for permaculture, making it suitable for marginal [[fukuoka-textdoc-agricultural-land-law-obstruction-return-farming]] in the Southeast.
+Soil preferences are broad, but the species performs best on well-drained sandy loams with pH 5.5–6.5. It tolerates acidic soils that would limit growth of most [[fukuoka-textdoc-agricultural-land-law-obstruction-return-farming]] in the Southeast.
 
-The species tolerates the high humidity, warm nights, and heavy summer rainfall characteristic of the southeastern climate. These same conditions promote devastating [[bloomfield-amphibian-decline-fungal-disease-climate-interactions]] in V. vinifera, giving muscadines a decisive ecological and agricultural advantage in the region.
-
-## Cultivation
-
-Commercial muscadine production is concentrated in the southeastern United States, with Georgia, [[north-carolina-mycodiversity]], South Carolina, Mississippi, and Alabama as leading producers. Total annual production exceeds 4,500 metric tons of fresh fruit, with additional tonnage processed into juice and wine.
+The species tolerates the high humidity, warm nights, and heavy summer rainfall characteristic of the southeastern climate. These same conditions promote devastating [[north-carolina-mycodiversity]], South Carolina, Mississippi, and Alabama as leading producers. Total annual production exceeds 4,500 metric tons of fresh fruit, with additional tonnage processed into juice and wine.
 
 Vines are typically established on 3–6 meter spacing with a single-wire or double-curtain trellis system. The species does not require grafting on phylloxera-resistant rootstocks due to its innate resistance to the pest.
 
@@ -69,11 +65,7 @@ Yield potential is high, with mature vines capable of producing 20–40 kg of fr
 
 Pruning is typically performed during dormancy, retaining 2–4 nodes per spur on a cordon-trained system. Unpruned vines rapidly become unmanageable due to the species' vigorous growth habit and dense canopy formation.
 
-Irrigation requirements are lower than for most fruit crops due to the deep, extensive root system. [[comparison-drip-irrigation-vs-passive-irrigation]] is commonly used in commercial plantings to ensure consistent fruit sizing, particularly during dry spells in late summer.
-
-## Nutritional Value and Uses
-
-Muscadine berries are notably rich in [[aact-tannins-terpenes-phenolic-compounds-wood-composting-ingham]], particularly ellagic acid, ellagitannins, and resveratrol. Ellagic acid content in muscadine skins (approximately 40–50 mg/100 g fresh weight) exceeds that of most other common fruits by a significant margin.
+Irrigation requirements are lower than for most fruit crops due to the deep, extensive root system. [[aact-tannins-terpenes-phenolic-compounds-wood-composting-ingham]], particularly ellagic acid, ellagitannins, and resveratrol. Ellagic acid content in muscadine skins (approximately 40–50 mg/100 g fresh weight) exceeds that of most other common fruits by a significant margin.
 
 Resveratrol levels in muscadine are among the highest of any fruit, reaching 5–10 mg/L in wine and 0.5–2.0 mg/100 g in fresh berries. These compounds have been investigated for anti-inflammatory, cardioprotective, and anticancer activities in numerous preclinical studies.
 
@@ -83,15 +75,6 @@ Muscadine wine has a distinctive aromatic profile with floral, musky, and tropic
 
 Color stability in muscadine wine is excellent due to high anthocyanin and polyphenol content. Bronze cultivars produce white or blush wines, while black cultivars yield deep red-purple wines with aging potential of 2–5 years.
 
-Muscadine pomace, the skins and seeds remaining after juice extraction, is increasingly utilized as a nutraceutical ingredient. Seed extracts standardized for resveratrol and proanthocyanidins are marketed as [[medicinal-mushroom-dietary-supplements]].
-
-## Viticulture and Breeding
-
-Modern muscadine breeding programs operate at the University of Georgia, North Carolina State University, and the USDA-ARS facility in Poplarville, Mississippi. Breeding objectives emphasize self-fertility, large berry size, thin skin, high sugar content, and extended harvest season.
-
-## See Also
-
-- [[vitis-aestivalis]]
-- [[vitis-labrusca]]
+Muscadine pomace, the skins and seeds remaining after juice extraction, is increasingly utilized as a nutraceutical ingredient. Seed extracts standardized for resveratrol and proanthocyanidins are marketed as [[vitis-aestivalis]]
 - [[vitis-riparia]]
 - [[vitis-rupestris]]

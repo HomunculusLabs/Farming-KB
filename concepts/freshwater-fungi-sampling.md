@@ -6,54 +6,8 @@ type: concept
 tags: [mycology, fungi]
 sources: []
 ---
-# Freshwater Fungi — Sampling, Isolation, and Diversity ## Overview Fungi are found in **ALL freshwater habitats** — rivers, streams, marshes, bogs, lakes, ponds, and wetlands. Freshwater fungal communities are taxonomically and functionally diverse, though with notable differences from terrestrial assemblages. Most conspicuously, **Basidiomycetes are mostly absent** from freshwater environments, a pattern that remains poorly explained. This page covers sampling approaches critical to [[aquatic-fungi-and-ingoldian-spores]] studies.
-
-## Diversity Estimates
-
-Current knowledge includes approximately:
-
-- **~450 species** of freshwater Ascomycetes
-- **~300 species** of aquatic (Ingoldian) hyphomycetes from freshwater habitats
-- Numerous Chytridiomycetes, Hyphochytriomycetes, and Peronosporomycetes
-
-These numbers almost certainly underestimate true diversity, as molecular studies continue to reveal novel lineages not represented in culture collections.
-
-## Four Major Groups
-
-### 1. Chytridiomycetes / Hyphochytriomycetes
-
-These **zoosporic fungi** are among the most abundant and ecologically important freshwater fungi:
-
-- **Ecological roles**: Parasites of algae, decomposers of pollen and plant debris, bacterial consumers
-- **Collection**: Baiting techniques using cellophane, onion skin, chitin, or pollen to attract zoospores
-- **[[fukuoka-matsutake-culture-medium-appendix]]**: PmTG (peptone, malt extract, tryptone, glucose) agar supports chytrid growth
-- For more details, see [[freshwater-fungi-biodiversity]] for broader context
-
-### 3. Freshwater Ascomycetes
-
-The most species-rich group of true fungi in freshwater, with representatives from **56 families** and **17 orders**:
-
-**Top orders by species count:**
-
-| Order | Approximate Species |
-|-------|-------------------|
-| Helotiales | 99 |
-| Pleosporales | 90 |
-| Sordariales | 82 |
-
-Freshwater ascomycetes are notably **polyphyletic** — adaptation to freshwater habitats has occurred **numerous times independently** across the Ascomycota. This convergent evolution complicates phylogenetic analyses but provides fascinating case studies in ecological adaptation. Unfortunately, **no comprehensive key to freshwater ascomycetes currently exists**, making identification a significant challenge.
-
-### 4. Mitosporic Fungi
-
-Two ecologically distinct groups of asexual fungi dominate freshwater habitats:
-
-**Ingoldian Hyphomycetes:**
-- Named after C.T. Ingold, who pioneered their study
-- Characterized by **tetraradiate, branched, or sigmoid conidia** adapted for attachment to submerged substrates in flowing water
-- Spores are often referred to as "aqua-spores" due to their distinctive morphology
-- Major contributors to leaf decomposition in streams
-- See [[fungal-sampling-methods]] protocols to capture the complete diversity of fungi in landscapes that include aquatic habitats, particularly in studies of [[fungal-indicators-soil-quality-ecosystem-health]]
-- [[freshwater-fungi-aquatic-hyphomycetes-ascomycetes]]
+# Freshwater Fungi — Sampling, Isolation, and Diversity ## Overview Fungi are found in **ALL freshwater habitats** — rivers, streams, marshes, bogs, lakes, ponds, and wetlands. Freshwater fungal communities are taxonomically and functionally diverse, though with notable differences from terrestrial assemblages. Most conspicuously, **Basidiomycetes are mostly absent** from freshwater environments, a pattern that remains poorly explained. This page covers sampling approaches critical to [[fukuoka-matsutake-culture-medium-appendix]]**: PmTG (peptone, malt extract, tryptone, glucose) agar supports chytrid growth
+- For more details, see [[fungal-sampling-methods]] protocols to capture the complete diversity of fungi in landscapes that include aquatic habitats, particularly in studies of [[freshwater-fungi-aquatic-hyphomycetes-ascomycetes]]
 
 ## Sampling Methodology
 
@@ -116,8 +70,81 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[zoosporic-fungi]]
 - [[doc]]
-- [[dom]]
 - [[det]]
 - [[spore]]
+
+## Overview
+
+Freshwater Fungi Sampling represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish freshwater fungi sampling
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving freshwater extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Freshwater Fungi Sampling finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for freshwater fungi sampling. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+freshwater fungi sampling and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Freshwater Fungi Sampling has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of freshwater fungi sampling into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and

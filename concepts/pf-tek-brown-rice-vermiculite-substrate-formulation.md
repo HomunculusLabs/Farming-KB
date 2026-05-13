@@ -43,13 +43,7 @@ Beginners should start with the base formula before experimenting.
 - Particle size: approximately 1 mm
 - Holds significantly more water per unit volume
 - Creates smaller air gaps between particles
-- **Strongly recommended by [[pf-tek-psilocybe-fanaticus]]**
-
-### Coarse Vermiculite
-
-- Particle size: 4–5 mm, up to 8 mm
-- Larger air gaps, less water retention
-- Can still be used but requires careful [[mushroom-casing-moisture-management]]
+- **Strongly recommended by [[mushroom-casing-moisture-management]]
 
 Fine vermiculite is preferred because its smaller particle size creates a denser
 network of tiny air pockets while retaining more moisture, both critical for
@@ -96,42 +90,7 @@ layer at the top of each jar:
   an inhospitable zone where contaminant spores cannot germinate
 - **Transpiration regulation**: Slows moisture loss while allowing gas exchange
 
-This barrier allows PF TEK growers to work without a [[comparison-laminar-flow-hood-vs-fruiting-chamber]] while
-maintaining acceptable contamination rates.
-
----
-
-## Jar Selection and Preparation
-
-### Jar Requirements
-
-- **Tapered sides**: Essential — substrate cake must slide out easily; straight-
-  sided jars will trap the cake
-- **Size**: 1/2 pint (8 ounce) wide mouth
-- **Recommended brand**: KERR wide mouth half-pint jars
-
-### Step-by-Step Jar Preparation
-
-1. Place **1/2 cup vermiculite** into a mixing bowl
-2. Add the measured **brown rice powder** on top of the vermiculite
-3. Pour the **water directly onto the rice powder first** — this helps the rice
-   absorb moisture evenly before mixing
-4. Mix **thoroughly** until all components are evenly distributed with no dry
-   spots remaining
-5. Fill the jar **loosely** — do not pack or compress the substrate
-6. Leave **1/2 to 3/4 inch** of empty space at the top of the jar
-7. Wipe the **inside walls** clean with a paper towel to remove residue
-8. Fill the remaining top space with **dry vermiculite** to create the barrier
-
----
-
-## Rationale and Design Philosophy
-
-The PF substrate formulation was designed around simplicity, low cost, and
-accessibility. All ingredients are available at grocery or garden stores. No
-specialized equipment such as pressure canners or autoclaves is required. The
-combination of brown rice nutrition with vermiculite structure creates an ideal
-[[cannabis-growing-environment-setup]] that has been validated by thousands of successful cultivators.
+This barrier allows PF TEK growers to work without a [[cannabis-growing-environment-setup]] that has been validated by thousands of successful cultivators.
 
 ---
 

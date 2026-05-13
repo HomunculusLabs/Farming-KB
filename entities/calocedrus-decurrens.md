@@ -19,23 +19,7 @@ sources:
 
 ## Overview
 
-Calocedrus decurrens, commonly known as incense cedar, is a large evergreen conifer in the family Cupressaceae. It is native to western [[psilocybin-north-america-pacific-northwest]], ranging from Oregon through California into northern Baja California.
-
-The species is valued for its highly aromatic, durable timber and is widely planted as an ornamental tree. Its distinctive columnar form and reddish, exfoliating bark make it one of the most recognizable trees of the Sierra Nevada.
-
-## Taxonomy and Morphology
-
-Calocedrus decurrens is one of four species in the genus Calocedrus. The genus was formerly included in Libocedrus but was reclassified based on cone morphology and molecular evidence.
-
-The other three species are Asian: *C. macrolepis* from China and Vietnam, *C. formosana* from Taiwan, and *C. rupestris* from northern Vietnam. The disjunct distribution suggests an ancient Laurasian origin.
-
-The species was first described by John Torrey in 1853. The genus name derives from Greek *kalos* (beautiful) and *cedrus* (cedar), referring to the attractive aromatic wood.
-
-The specific epithet *decurrens* refers to the decurrent leaf bases that extend down the branchlet stems, giving the foliage its distinctive flattened appearance.
-
-Mature trees reach 30–45 meters in height with trunk diameters of 1.0–2.0 meters. The crown is narrow and columnar, often persisting to near ground level on open-grown specimens.
-
-The bark is thick, reddish-brown to cinnamon-colored, and exfoliates in long, fibrous strips. This characteristic bark is one of the most [[metzner-three-distinctive-features-shamanic-entheogenic-ceremonies]] of the species.
+Calocedrus decurrens, commonly known as incense cedar, is a large evergreen conifer in the family Cupressaceae. It is native to western [[metzner-three-distinctive-features-shamanic-entheogenic-ceremonies]] of the species.
 
 The scale-like leaves are arranged in four ranks on flattened branchlets. Foliage is dark green and glossy, with a strong spicy aroma when crushed.
 
@@ -43,48 +27,83 @@ Cones are small and distinctive, resembling tiny duck bills when closed.
 
 Each cone consists of 4–6 pairs of scales, with the outer pair enlarged and flattened to form conspicuous wing-like structures. This unique morphology distinguishes Calocedrus from all other Cupressaceae genera.
 
-[[cannabis-controlled-pollination-seed-production]] begins at 20–30 years of age. Good seed crops occur at 2–5 year intervals, with individual trees producing millions of small, winged seeds.
-
-## Distribution and Habitat
-
-Incense cedar occurs from southwestern Oregon through the Cascade Range and Sierra Nevada into the mountains of southern California and northern Baja California.
-
-The species grows at elevations from 50 to 2,700 meters, with optimal growth between 1,000 and 2,000 meters. It is most abundant in mixed conifer forests of the Sierra Nevada.
-
-Total estimated natural range covers approximately 150,000 square kilometers. The species is most common on the western slopes of the Sierra Nevada and in the Klamath Mountains.
-
-Soil preferences are broad, ranging from deep, fertile loams to thin, rocky substrates. The species is moderately drought-tolerant once established and grows on both north- and south-facing slopes.
-
-Incense cedar is fire-adapted, with thick bark providing moderate resistance to low-intensity surface fires.
-
-However, crown fires kill mature trees, and fire exclusion has allowed dense understories to develop that increase fire severity. Thinning treatments that reduce ladder fuels benefit incense cedar survival during prescribed burns.
-
-The species is shade-tolerant in youth but becomes increasingly intolerant with age. It often succeeds ponderosa pine and sugar pine in successional sequences on drier sites.
-
-## Cultivation and Uses
-
-Incense cedar wood is lightweight, straight-grained, and highly resistant to decay and insect attack. Heartwood is light brown to reddish with a distinctive spicy fragrance.
-
-The wood has a fine, uniform texture and works easily with both hand and machine tools. It seasons well with minimal checking or warping.
-
-The timber's natural durability made it the preferred material for cedar pencils for over a century. Other uses include fencing, siding, exterior trim, and railroad ties.
-
-The aromatic wood has been traditionally used for closet linings, chest construction, and moth repellent sachets. The volatile oils in the heartwood provide natural insect deterrent properties.
-
 [[coleman-sunlight-and-winter-crop-growth-rates]] are moderate, with trees achieving 30–60 cm of height gain per year in plantation settings. Mean annual increment ranges from 8 to 15 cubic meters per hectare on productive sites.
 
-The species is widely planted as an ornamental tree in Mediterranean and [[fukuoka-natural-farming-temperate-climates]]. Its narrow, columnar form makes it suitable for screening and vertical accent planting in urban landscapes.
+The species is widely planted as an ornamental tree in Mediterranean and [[dighton-fungal-drought-tolerance-plant-water-relations]] makes it increasingly important under warming climate conditions. Climate models project incense cedar may expand its range upslope as temperatures increase.
 
-Propagation is from seed, which requires 30–60 days of cold stratification for optimal germination. Nursery production typically uses container-grown seedlings planted as 1–2 year stock.
+## Overview
 
-## Ecological Role
+Calocedrus Decurrens represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
 
-Incense cedar provides habitat and food for numerous wildlife species. The seeds are eaten by squirrels, chipmunks, and various bird species including crossbills and siskins.
+## Key Characteristics
 
-Old-growth individuals provide nesting cavities for woodpeckers, owls, and flying squirrels. The dense, persistent canopy offers year-round thermal cover for wintering birds and mammals.
+Several defining characteristics distinguish calocedrus decurrens
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
 
-The species is a minor but consistent component of Sierra Nevada mixed conifer forests. It typically comprises 5–15% of total basal area in these stands.
+## Ecological Context
 
-Root systems are deep and widespreading, providing slope stabilization on steep mountain terrain.
+The ecological relationships involving calocedrus extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
 
-The species' [[dighton-fungal-drought-tolerance-plant-water-relations]] makes it increasingly important under warming climate conditions. Climate models project incense cedar may expand its range upslope as temperatures increase.
+## Practical Applications
+
+Calocedrus Decurrens finds practical application in multiple design contexts.
+[[permaculture-principles]] guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for calocedrus decurrens. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+calocedrus decurrens and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Calocedrus Decurrens has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of calocedrus decurrens into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.

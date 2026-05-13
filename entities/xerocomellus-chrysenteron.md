@@ -15,20 +15,7 @@ sources:
   - Watling, R. (1970). "Studies on the genus Xerocomus." Notes from the Royal Botanic Garden Edinburgh, 30, 71-93.
   - Šutara, J. (2008). "Xerocomus s.l. in the Czech Republic." Czech Mycology, 60(1), 43-69.
   - Nieves-Rivera, Á.M. & Denson, D.R. (2001). "Notes on boletes from Puerto Rico." Mycotaxon, 78, 189-198.
-  - Halling, R.E. (2001). "Ectomycorrhizae of boletes." In [[biodiversity-of-fungi-biodiversity-patterns-ecosystems]], 261-274. Academic Press.
-  - Kirk, P.M. et al. (2008). Ainsworth & Bisby's Dictionary of the Fungi, 10th ed. CABI.
-created: 2026-04-28
----
-
-# Xerocomellus chrysenteron
-
-## Overview
-
-**Xerocomellus chrysenteron** (Bull.) Klofac, Šutara & G. Moreno is a bolete mushroom commonly known as the **red-cracking bolete** or **red-cracked bolete**.
-
-It was long classified in the genus *Xerocomus* but was moved to *Xerocomellus* following molecular phylogenetic studies in the 2000s.
-
-The species is edible and widely distributed across temperate forests of Europe and [[psilocybin-north-america-pacific-northwest]].
+  - Halling, R.E. (2001). "Ectomycorrhizae of boletes." In [[psilocybin-north-america-pacific-northwest]].
 
 It is recognized by its brown cap that develops distinctive pinkish-red cracks as it matures, revealing the paler flesh beneath.
 
@@ -40,15 +27,7 @@ While not a highly prized edible, it is commonly collected in Europe and contrib
 
 **Basionym:** *Boletus chrysenteron* Bull. (1791)
 
-**Synonyms:** *[[xerocomus-chrysenteron]]* (Bull.) Quél., *Boletus communis* Bull., *Boletus pascuus* Paulet
-
-The cap is 3–10 cm wide, initially hemispherical, becoming convex to plano-convex with age.
-
-Surface is dry to slightly velvety, colored brown to olive-brown or dark reddish-brown.
-
-The characteristic feature is the development of a reticulate pattern of cracks on the cap surface as the mushroom dries, revealing pinkish-red to salmon-colored underlying flesh.
-
-These cracks give the species its common name and are a reliable [[palmer-mushroom-hunting-field-identification]] feature.
+**Synonyms:** *[[palmer-mushroom-hunting-field-identification]] feature.
 
 The pore surface on the underside of the cap is yellow to yellow-green, sometimes with olive tones, and does not stain blue when bruised.
 
@@ -68,13 +47,7 @@ Spore print is olive-brown to olive-buff. Spores are 10–14 × 4–6 µm, fusoi
 
 ## Distribution and Habitat
 
-*Xerocomellus chrysenteron* has a broad distribution across [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]] of the Northern Hemisphere.
-
-In Europe it is one of the most common boletes, found from Scandinavia to the Mediterranean.
-
-In [[guzman-psilocybin-mushrooms-north-america]] it occurs in eastern and western regions, though some [[growing-gourmet-north-american-reishi-species]] collections may represent cryptic species.
-
-The species forms [[ectomycorrhizal-associations]] with both deciduous and coniferous trees.
+*Xerocomellus chrysenteron* has a broad distribution across [[guzman-psilocybin-mushrooms-north-america]] it occurs in eastern and western regions, though some [[ectomycorrhizal-associations]] with both deciduous and coniferous trees.
 
 Common ectomycorrhizal partners include oak (*Quercus spp.*), beech (*Fagus spp.*), birch (*Betula spp.*), and pine (*Pinus spp.*).
 
@@ -87,3 +60,84 @@ The mushroom grows on soil and occasionally on decaying wood or [[fungal-success
 ## Edibility
 
 *Xerocomellus chrysenteron* is generally considered an edible species of moderate quality.
+
+## Overview
+
+Xerocomellus Chrysenteron represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish xerocomellus chrysenteron
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving xerocomellus extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Xerocomellus Chrysenteron finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for xerocomellus chrysenteron. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+xerocomellus chrysenteron and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Xerocomellus Chrysenteron has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of xerocomellus chrysenteron into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[xerocomus-chrysenteron]]

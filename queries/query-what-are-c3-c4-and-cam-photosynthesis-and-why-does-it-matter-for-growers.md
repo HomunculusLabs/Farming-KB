@@ -31,43 +31,7 @@ produced during CO₂ fixation.
 C3 is the most common and ancestral pathway, used by about 85% of plant species.
 The enzyme RuBisCO directly captures CO₂ from the air and fixes it into a 3-carbon
 compound (3-phosphoglycerate). C3 plants include most vegetables (tomato, pepper,
-lettuce, beans), grains (wheat, rice, oats), [[comparison-pruning-fruit-trees-vs-grafting-fruit-trees]], and ornamental flowers.
-
-C3 photosynthesis works best in cool to moderate temperatures (15–25°C) with
-adequate water. At higher temperatures, RuBisCO increasingly grabs oxygen instead
-of CO₂, causing photorespiration—a wasteful process that burns energy and releases
-CO₂ without producing sugar. On hot, dry days, C3 plants can lose 20–50% of their
-photosynthetic output to photorespiration.
-
-## What is C4 photosynthesis?
-
-C4 plants evolved a biochemical "CO₂ pump" that concentrates CO₂ around RuBisCO,
-virtually eliminating photorespiration. They use a different enzyme (PEP carboxylase)
-in outer leaf cells to grab CO₂ and shuttle it as a 4-carbon acid to inner bundle
-sheath cells, where RuBisCO operates in a CO₂-rich environment.
-
-This requires special leaf anatomy called Kranz anatomy and costs extra energy (5
-ATP vs 3 ATP per CO₂), but the payoff is much higher efficiency in hot, sunny
-conditions. C4 crops include corn, sorghum, sugarcane, and millet. Many of the
-world's worst agricultural weeds are also C4 (crabgrass, pigweed, barnyard grass),
-which is why they outcompete C3 crops in summer heat.
-
-## What is CAM photosynthesis?
-
-CAM (Crassulacean Acid Metabolism) plants separate CO₂ capture from sugar production
-by time of day. At night, when temperatures are cool and humidity is high, they
-open their stomata and fix CO₂ into malic acid, storing it in vacuoles. During the
-day, they close their stomata to conserve water and release the stored CO₂ for
-photosynthesis.
-
-This makes CAM plants incredibly water-efficient—5–10 times more than C3 plants—but
-also slower-growing because they can only store so much CO₂ overnight. CAM plants
-include cacti, succulents, pineapple, agave, aloe vera, orchids, and vanilla.
-
-## How do I know which pathway my plants use?
-
-The simplest rule of thumb: if it's a cool-season vegetable, grain, fruit tree, or
-temperate ornamental, it's almost certainly C3. If it's a warm-season [[fungal-endophytes-grass-crop-systems]]
+lettuce, beans), grains (wheat, rice, oats), [[fungal-endophytes-grass-crop-systems]]
 like corn or sorghum, it's C4. If it's a succulent, cactus, pineapple, or
 epiphytic orchid, it's CAM. When in doubt, look up the species—most plant databases
 include photosynthetic pathway information.
@@ -95,21 +59,7 @@ and lettuce give the best return.
 area because they maintain two sets of photosynthetic enzymes. This is why corn
 is a heavy nitrogen feeder compared to wheat.
 
-**[[growing-gourmet-light-requirements-mushroom-fruiting]]**: C4 plants use light more efficiently at high intensity,
-suited to full-sun locations. C3 plants can suffer photoinhibition under very
-intense light, especially at high temperatures. CAM plants prefer bright light
-but can adapt to lower light by reducing CAM activity.
-
-**Pest and weed dynamics**: Many summer weeds are C4 and will outgrow C3 crops as
-temperatures rise. Understanding this helps time your plantings and weed
-management—establish C3 crops early before C4 weeds become dominant.
-
-## Can a plant switch between pathways?
-
-Some plants are **facultative CAM**, normally using C3 but switching to CAM under
-drought or salinity stress. Examples include the ice plant (*Mesembryanthemum
-crystallinum*) and some *Talinum* and *Clusia* species. This flexibility is of
-great interest to researchers studying [[jeavons-climate-adaptation-growing-seasons]].
+**[[jeavons-climate-adaptation-growing-seasons]].
 
 No plant switches between C3 and C4, though rare **C3–C4 intermediates** (like
 *Flaveria* species) exhibit traits of both pathways and may represent evolutionary
@@ -140,9 +90,6 @@ pigweed (Amaranthus), barnyard grass, johnsongrass, bermudagrass, foxtail.
 **CAM**: Cacti, aloe vera, agave, pineapple, jade plant, kalanchoe, Christmas
 ## See Also
 
-- [[c4-and-cam-photosynthesis]]
-
 - [[query-why-are-mangroves-critical-for-climate-change-adaptation-and-coastal-protection]]
 
-- [[query-what-is-vapor-pressure-deficit-and-why-does-it-matter-for-cannabis]]
 - [[query-what-is-the-bauhaus-movement-and-why-does-it-matter]]

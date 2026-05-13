@@ -6,7 +6,7 @@ type: concept
 
 # Mushroom Fruiting Management and Harvesting
 
-This page covers the critical stages from opening mature spawn bags through maintaining fruiting conditions to harvesting mushrooms at the right time. Proper execution of these steps directly impacts yield, quality, and profitability.
+This page covers the critical stages from opening mature spawn bags through maintaining [[fruiting-conditions]] to harvesting mushrooms at the right time. Proper execution of these steps directly impacts yield, quality, and profitability.
 
 ## Step 9: Opening Bags
 
@@ -25,56 +25,17 @@ Different mushroom species require different bag-opening techniques to trigger f
 
 | Species | Common Name | Opening Method |
 |---------|-------------|----------------|
-| *[[cancer-medicinal-mushrooms-pleurotus-ostreatus]]* | Oyster mushroom | Remove cotton plugs from the bag opening |
-| *Lentinus squarrosulus* | Hed Khon Kao | Cut plastic bags at the shoulder using a knife or cutter |
-| *Lentinus polychrous* | Hed Lom | Cut plastic bags at the shoulder using a knife or cutter |
 | *[[auricularia-polytricha]]* | Ear mushroom | Cut four vertical lines around the bag, with four cuts per line |
 
 **Important notes on opening:**
 - Use clean, sharp tools (knives or cutters) to avoid ragged edges that could tear further
 - For cut-bag methods, cut at the shoulder of the bag — the upper curved portion — not too low
 - For ear mushrooms, space the four vertical lines evenly around the circumference of the bag, and make four small cuts along each line
-- Open bags during cooler parts of the day to reduce stress on the mycelium
+- Open bags during cooler parts of the day to reduce stress on the [[mycelium]]
 
 ## Step 10: Maintaining and Monitoring Fruiting Conditions
 
-Once bags are opened, the [[fruiting-environment-parameters]] must be carefully managed. The following nine monitoring steps ensure optimal conditions throughout the fruiting cycle:
-
-### 1. Humidity Control Through Water Spraying
-
-- Spray water frequently but lightly — the goal is high humidity, not soaking
-- Never spray water directly into the opened bags
-- Maintain relative humidity between **75% and 90%**
-- Use a fine mist sprayer for even coverage
-
-### 2. Temperature and Ventilation Control
-
-- Open and close doors and windows to regulate both light and airflow
-- If temperatures are too high, leave doors open during the night to cool the space
-- A simple rule of thumb: **if people feel comfortable in the room, the mushrooms are in a good environment**
-- Avoid direct drafts on the mushroom bags, but ensure fresh air exchange
-
-### 3. Regular Pest Inspections
-
-- Check for mites and other pests **at least twice per week**
-- Look for signs of infestation: webbing, small insects on fruiting bodies, discolored patches
-- Early detection prevents spread to healthy bags
-
-### 4. Pest Identification
-
-- When pests are found, identify the specific type (mites, flies, springtails, etc.)
-- Different pests require different management approaches
-- Keep a reference guide on hand for common mushroom pests
-
-### 5. Bag Cleanliness
-
-- Keep bags clean at all times during the fruiting cycle
-- Remove any debris, dead mushrooms, or substrate that falls from the bags
-- Clean surroundings reduce contamination and pest attraction
-
-### 6. Natural Pest Control
-
-- Allow natural [[cho-natural-pest-control-methods]] where possible
+Once bags are opened, the [[cho-natural-pest-control-methods]] where possible
 - Avoid chemical pesticides on or near fruiting mushrooms
 - Encourage natural predators and maintain a clean environment to suppress pest populations
 

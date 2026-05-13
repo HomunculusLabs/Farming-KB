@@ -11,31 +11,13 @@ tags: [cannabis, harvesting]
 # Flowering Phase and Harvest
 
 Greg Green's Cannabis Grow Bible provides comprehensive guidance on the
-[[cannabis-sativa-flowering-cycle-management]], the critical 12/12 photoperiod, sexing plants, and
 [[cannabis-harvesting-and-curing-techniques]] techniques.
 
 ## The 12/12 Photoperiod
 
 Cannabis naturally flowers when days shorten to 12 hours of light and
 12 hours of darkness (outdoors, September through November). Indoors,
-the grower triggers flowering by switching to a 12/12 [[query-best-light-schedule-for-cannabis]]
-using a timer.
-
-Critical requirements for successful 12/12:
-
-- The flowering room must be completely light-tight -- even a small
-  desk lamp across the room will prevent proper flowering
-- Total darkness during the 12-hour dark period is essential
-- A 100% light-tight room increases yields 30% over 99% light-tight
-- During dark periods, temperature can drop as low as 55 degrees F
-
-## Problems with Early 12/12
-
-Switching to 12/12 before pre-flowers appear can cause:
-
-- **Hermaphroditism**: The plant produces both male and female flowers
-  in a self-pollination response, triggered by the stress of irregular
-  photoperiod. This is not true "[[equatorial-photoperiod-early-flowering]]" -- it is a stress
+the grower triggers flowering by switching to a 12/12 [[equatorial-photoperiod-early-flowering]]" -- it is a stress
   response. Hermie plants produce only female and hermaphrodite seeds,
   never male seeds. "Feminized" seeds sold commercially come from
   stressed females forced to produce male flowers.
@@ -62,11 +44,7 @@ Switch to flowering feed (higher P than N and K) once sex is confirmed.
 Under strict 12/12, the female plant:
 
 1. Fills out with more leaves, branches, and flowers, taking a
-  [[arthur-christmas-tree-amanita-muscaria]] shape
-2. Fan leaves stretch outward to maximize light collection
-3. Pistils at flower tips swell and change color: white to orange to
-  red to brown
-4. Resin (trichomes) covers the flowers; [[greg-green-trichomes-and-resin-glands]] can burst and
+  [[greg-green-trichomes-and-resin-glands]] can burst and
   drop onto lower leaves
 5. Flowering reaches a peak, then the plant is ready for harvest
 
@@ -117,8 +95,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[green-cannabis-grow-bible-pre-flowering-and-sexing-plants]]
 - [[greg-green]]
-- [[green-cannabis-grow-bible-breeding-genetics-and-true-breeding]]
 - [[green-cannabis-grow-bible-cloning-and-seed-propagation]]
 - [[green-cannabis-grow-bible-hydroponics-and-the-bubbler]]

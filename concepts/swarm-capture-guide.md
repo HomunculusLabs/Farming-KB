@@ -11,7 +11,7 @@ sources: []
 
 Swarming is the natural means of honey bee colony reproduction. A swarm
 represents a free colony for the beekeeper who can capture and rehive it.
-This guide covers swarm biology, capture techniques, hive baiting, and
+This guide covers swarm biology, [[game-species-management-capture-techniques]], hive baiting, and
 successful rehiving.
 
 ## Swarm Biology
@@ -111,7 +111,7 @@ hive can catch swarms without any effort during swarm season.
 - After 3-4 days, inspect for eggs — confirms the queen is present and laying
 - If no eggs after one week, the queen was likely lost during capture;
   introduce a new queen or combine with another colony
-- [[queen-rearing-basics]] skills are valuable for
+- [[queen-rearing-basics|Queen rearing]] skills are valuable for
   replacing lost queens
 
 ### After-Care

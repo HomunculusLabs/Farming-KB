@@ -11,8 +11,7 @@ tags: [reference]
 # Soma Haoma Hypothesis
 
 The Soma-Haoma hypothesis concerns the identification of the sacred plants Soma
-(of Vedic India) and Haoma (of Zoroastrian Persia) with [[allegro-amanita-muscaria-properties-and-pharmacology]], the
-[[amanita-muscaria-fly-agaric-history-and-pharmacology]] mushroom. Proposed most influentially by R. Gordon Wasson in 1968,
+(of Vedic India) and Haoma (of Zoroastrian Persia) with [[amanita-muscaria-fly-agaric-history-and-pharmacology]] mushroom. Proposed most influentially by R. Gordon Wasson in 1968,
 this hypothesis suggests that Amanita muscaria was the divine intoxicant
 celebrated in the Rig Veda as the elixir of immortality and the source of
 divine inspiration for the Vedic priests. The hypothesis remains one of the
@@ -50,8 +49,7 @@ plant in the proto-Indo-Iranian period.
 
 The Iranian Haoma was a plant with stems, no leaves or blossoms, which grew on
 the mountains and was pressed for its juice. The identity of Haoma has been
-debated, with candidates including Ephedra, [[mckenna-food-gods-peganum-harmala-soma]] (see
-[[mazatec-mushroom-tradition]] in Mexico,
+debated, with candidates including Ephedra, [[mazatec-mushroom-tradition]] in Mexico,
 brought a unique combination of ethnobotanical field experience and classical
 scholarship to the question. His argument drew on multiple lines of evidence:
 

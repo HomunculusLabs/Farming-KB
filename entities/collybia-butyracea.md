@@ -18,11 +18,7 @@ sources:
 
 **Collybia butyracea** is a saprotrophic agaric fungus in the family Tricholomataceae, commonly known as the butter mushroom or greasy collybia. It is a widespread temperate species found in coniferous and mixed forests across the Northern Hemisphere.
 
-The species is named for its distinctly greasy or buttery cap surface, which is its most reliable [[palmer-mushroom-hunting-field-identification]] character. It is generally considered inedible due to its small size and unremarkable flavor.
-
-Recent molecular phylogenetic studies have confirmed the placement of this species within the Collybia sensu stricto clade, separate from the morphologically similar Rhodocollybia and Gymnopus genera.
-
-The fungus plays a role in forest [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] by decomposing needle litter and other plant debris on the forest floor. It is most commonly encountered in autumn but can appear from late summer through winter in mild climates.
+The species is named for its distinctly greasy or buttery cap surface, which is its most reliable [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] by decomposing needle litter and other plant debris on the forest floor. It is most commonly encountered in autumn but can appear from late summer through winter in mild climates.
 
 ## Taxonomy and Morphology
 
@@ -52,7 +48,7 @@ Basidiospores are ellipsoid, smooth, hyaline, non-amyloid, measuring 5.5â€“7.5 Ã
 
 ## Distribution and Habitat
 
-**Collybia butyracea** has a wide distribution across [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]] of the Northern Hemisphere. It is found throughout Europe from the Mediterranean to Scandinavia, across much [[berry-growing]], and in temperate Asia.
+**Collybia butyracea** has a wide distribution across [[berry-growing]], and in temperate Asia.
 
 The species fruits in coniferous forests, particularly under spruce (*Picea*), pine (*Pinus*), and fir (*Abies*). It also occurs in mixed woodlands where conifers are present.
 
@@ -76,14 +72,79 @@ Some older field guides list it as "edible but not recommended," while modern gu
 
 **Collybia butyracea** has received limited phytochemical investigation compared to more commercially significant mushroom species. The available research is sparse but has identified some notable metabolites.
 
-The species produces small quantities of [[fungal-volatile-organic-compounds-communication]] compounds, including several eight-carbon alcohols and ketones typical of Agaricales. These contribute to its characteristic, though not unpleasant, odor profile.
+The species produces small quantities of [[staphylococcus-aureus]]* and *[[comparison-soil-protozoa-vs-nematodes-in-nutrient-cycling]] is modest but consistent across its range.
 
-Antimicrobial screening of crude extracts has shown weak activity against Gram-positive bacteria, including *[[staphylococcus-aureus]]* and *[[bacillus-subtilis]]*. Activity against Gram-negative bacteria and fungi was negligible.
+## Overview
 
-No significant cytotoxic or pharmacological activity has been reported for this species. It is unlikely to be a source of novel bioactive compounds given its low metabolic profile.
+Collybia Butyracea represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
 
-The related genus Rhodocollybia, which was historically conflated with Collybia, contains species with more documented bioactivity, including the antibacterial compound collybolide from Rhodocollybia maculata.
+## Key Characteristics
 
-## Ecology
+Several defining characteristics distinguish collybia butyracea
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
 
-**Collybia butyracea** is a primary decomposer of conifer needle litter and other fine forest debris. Its role [[comparison-soil-protozoa-vs-nematodes-in-nutrient-cycling]] is modest but consistent across its range.
+## Ecological Context
+
+The ecological relationships involving collybia extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Collybia Butyracea finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for collybia butyracea. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+collybia butyracea and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Collybia Butyracea has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of collybia butyracea into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and

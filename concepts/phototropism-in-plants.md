@@ -18,16 +18,11 @@ demonstrations that plants possess a form of visual perception.
 
 ## Historical Discovery
 
-The [[roger-heim-scientific-study-psilocybin]] of phototropism owes much to Charles Darwin, who devoted
-twenty years following On the Origin of Species (1859) to studying plant
-movement. In his final book, The [[darwin-power-of-movement-in-plants]] in Plants (1880), co-authored
+The [[darwin-power-of-movement-in-plants]] in Plants (1880), co-authored
 with his son Francis, Darwin wrote that "there are extremely few [plants], of
 which some part does not bend towards lateral light."
 
-Before Darwin, [[chamovitz-julius-von-sachs-blue-light-phototropism]] discovered in 1864 that blue light is the
-primary color inducing phototropism, while plants are generally insensitive
-to other colors in this context. This showed plants were detecting specific
-wavelengths -- a hallmark of [[plant-sensory-perception]] rather than a thermal response.
+Before Darwin, [[plant-sensory-perception]] rather than a thermal response.
 
 ## Darwin's Classic Experiment
 

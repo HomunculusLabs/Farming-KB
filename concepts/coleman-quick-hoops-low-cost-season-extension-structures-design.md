@@ -1,6 +1,6 @@
 ---
 title: Coleman Quick Hoops Low Cost Season Extension Structures Design
-source: "[[eliot-coleman]] - The [[cold-house-winter-harvest-system]] Handbook"
+source: "cold-house-winter-harvest-system Handbook"
 source_path: "raw/papers/eliot-coleman-winter-harvest-handbook.md"
 topics: [coleman, winter-harvest, quick-hoops, season-extension, low-tunnels, protected-cultivation, row-cover, conduit-hoops, overwintering]
 ---
@@ -9,7 +9,7 @@ topics: [coleman, winter-harvest, quick-hoops, season-extension, low-tunnels, pr
 
 ## Overview
 
-Quick hoops are low-cost, low-profile tunnel structures developed by Eliot Coleman as an economical alternative to full greenhouses for [[cervantes-season-extension-cloches-row-covers]]. They represent one of the most accessible entry points for growers seeking to expand their productive season without significant capital investment. At roughly 5% the cost of a conventional [[coleman-greenhouse-covering-materials-comparison]] the same area, quick hoops have become a cornerstone of small-scale intensive farming.
+Quick hoops are low-cost, low-profile tunnel structures developed by Eliot Coleman as an economical alternative to full greenhouses for [[coleman-greenhouse-covering-materials-comparison]] the same area, quick hoops have become a cornerstone of small-scale intensive farming.
 
 ## Structural Design
 
@@ -29,45 +29,14 @@ The hoops cover two 30-inch beds side by side with a path between them, forming 
 ### Covering System
 Quick hoops use a dual-layer covering system that changes with the seasons:
 
-1. **Initial cover (mid-October)**: 10-foot-wide spun-bonded [[coleman-double-layer-protection-greenhouse-row-cover]]
-2. **Winter cover (late November/early December)**: 10-foot-wide clear plastic added over the row cover for snow protection
-
-### Securing the Edges
-Sandbags are placed every 5 feet along the edges to hold down covers:
-
-- **Advantages over burying**: Much faster, far less labor, no trenching required, and allows covering every pair of beds side by side across a field without needing to find room for soil disposal from trenches
-- **Disadvantage**: Can blow off in very strong winds, though once winter arrives and everything freezes to the ground, nothing moves
-- **Sandbag filling**: 15 pounds of road gravel per bag (eventually used for road repair when bags deteriorate); soil from the field is another option
-
-### Structural Reinforcement for Winter
-To stiffen the structure against wind and snow load when the plastic layer is added:
-
-- Drive a stake into the ground 4 feet from the last hoop at each end of the tunnel
-- Tie a rope to each end of the plastic sheet
-- Pull tightly on both ends and secure ropes to the stakes — this makes the plastic taut lengthwise
-- Shift sandbags on top of the edges of the plastic to make it taut from side to side
-
-## Crop Management Under Quick Hoops
-
-### Suitable Crops
-Coleman has used quick hoops successfully for:
-
-- **Overwintering onions**: Planted during the last week of August, hoops placed in mid-October. Five rows per bed, with the two intermediate rows harvested as scallions in spring, leaving three rows to develop bulbs that mature by end of June — five weeks or more before spring-planted onions are ready.
-- **Spinach**: Either direct-seeded or transplanted from soil blocks (seeded October 1, transplanted two weeks later)
-- **Lettuce**: Same timing as spinach — soil blocks or [[clay-seed-pellets-direct-seeding]]
+1. **Initial cover (mid-October)**: 10-foot-wide spun-bonded [[clay-seed-pellets-direct-seeding]]
 - **Scallions**: Harvested from the intermediate rows of overwintering onion beds
 
 ### Planting Timeline
 - **Overwintering onions**: Planted last week of August
 - **Soil block seeding for spinach/lettuce**: October 1
 - **Transplant to field**: Mid-October (two weeks after seeding)
-- **[[comparison-seed-balls-vs-direct-seeding]]**: Slightly earlier than soil block dates
-- **Cover installation**: Mid-October for all crops
-
-### Timing Considerations
-- Later sowings mature later in spring but are still earlier than the best spring transplants
-- Sowing too late can result in crop failure if seedlings fail to establish well enough to survive winter
-- [[coleman-winter-greens-variety-selection]] is critical — must choose hardy enough varieties to withstand overwintering stress
+- **[[coleman-winter-greens-variety-selection]] is critical — must choose hardy enough varieties to withstand overwintering stress
 - Transplants may outperform direct seeding for fall planting due to spotty outdoor germination conditions
 
 ### Spring Ventilation
@@ -118,8 +87,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[eliot-coleman]]
 - [[det]]
-- [[coleman-season-extension-timeline-and-frost-protection]]
 - [[coleman-quick-hoops]]
 - [[coleman-quick-hoops-construction]]

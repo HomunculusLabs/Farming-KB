@@ -14,11 +14,7 @@ Goats are among the most versatile and practical homestead livestock. They provi
 ## Choosing the Right Breed
 
 ### Dairy Breeds
-- **Nubian** — High butterfat milk (4-5%), gentle temperament, large size. Good for cheese and butter making (see [[poultry-housing-guide]]** for general principles of small-livestock housing design.
-
-## Feeding
-
-Goats are browsers, not grazers — they prefer shrubs, weeds, and tree leaves over grass. See [[silvopasture-systems]] are ideal for goats.
+- **Nubian** — High butterfat milk (4-5%), gentle temperament, large size. Good for cheese and butter making (see [[silvopasture-systems]] are ideal for goats.
 - **Hay** — Good quality grass or grass-legume mix. Avoid moldy hay (causes listeriosis).
 - **Grain** — Dairy does need grain during lactation (1-2 lbs/day depending on production).
 - **Minerals** — Free-choice loose goat minerals (NOT sheep minerals — goats need copper).
@@ -49,28 +45,9 @@ Dairy goats are the backbone of many homestead dairy operations:
 - Lactation lasts 10-12 months with proper management
 - Expect 1-3 gallons/day depending on breed and individual
 - Milk must be filtered and cooled rapidly to prevent off-flavors
-- See [[composting-systems]] and livestock-feed-management
-- [[poultry-housing-guide]]
-- [[animal-manure-guide]]
+- See [[poultry-housing-guide]]
 - [[faires-dairy-processing-cheese-and-butter]]
-- [[query-how-do-i-keep-goats-on-a-permaculture-homestead]]
-## Practical Considerations
-
-When working with Goat Keeping Guide, several practical factors should be
-carefully considered to achieve optimal results. These include
-the specific conditions of the implementation context, available
-resources, timing requirements, and the interactions between this
-topic and other elements of the broader system. A holistic view
-that considers these interconnections produces better outcomes.
-
-Environmental conditions such as temperature, moisture, and
-seasonal patterns significantly influence results. Monitoring these
-variables and adapting practices accordingly is essential for success.
-The most effective practitioners develop keen observation skills and
-respond flexibly to changing conditions rather than following rigid
-protocols regardless of circumstances or local variation.
-
-[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
+- [[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -111,8 +88,6 @@ through generations to modern scientific approaches, the evolution continues
 to inform current best practices and research directions.
 
 ## See Also
-- [[goat-keeping]]
 - [[silvopasture]]
-- [[composting]]
 - [[permaculture]]
 - [[chicken-keeping-guide]]

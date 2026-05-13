@@ -9,12 +9,8 @@ created: 2026-05-09
 
 ## Overview
 
-Spore inoculation is the process of introducing [[query-how-to-store-mushroom-spores-long-term]] into a prepared
-substrate jar to begin the [[mycelial-colonization]] phase. The PF TEK employs a mass
+Spore inoculation is the process of introducing [[mycelial-colonization]] phase. The PF TEK employs a mass
 spore inoculation approach where spores are delivered via syringe directly to the
-[[pf-tek-maximum-fruiting-substrate-formula]]. This method preserves the complete genotype of the organism,
-avoiding senescence that plagues tissue-culture cloning approaches. The technique
-requires careful attention to sterile procedure, proper needle placement, and
 [[mushroom-casing-moisture-management]].
 
 ## Pre-Inoculation Preparation

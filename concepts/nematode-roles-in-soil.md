@@ -58,17 +58,7 @@ herbivores) in check.
 ### 5. Omnivores
 
 Omnivorous nematodes eat any and all of the above, down to the merest fungal
-spore. Some even ingest [[hamilton-composting-and-organic-matter-management]] directly, contributing to decomposition.
-
-## Mineralization
-
-Arguably the most important function of nematodes (at least the bacterivores
-and fungivores) is mineralization. Nematodes need less nitrogen than
-[[protozoa-roles-in-soil]], [[bacterial-vs-fungal-soil-dynamics]]
-
-Source: Lowenfels & Lewis, Teaming with Microbes (Timber Press)
-- [[teaming-with-microbes-specific-bacteria-fungi]]
-- [[teaming-with-microbes-bacterial-vs-fungal-dominance]]
+spore. Some even ingest [[protozoa-roles-in-soil]], [[teaming-with-microbes-specific-bacteria-fungi]]
 - [[teaming-with-microbes-plant-control]]
 ## Practical Considerations
 

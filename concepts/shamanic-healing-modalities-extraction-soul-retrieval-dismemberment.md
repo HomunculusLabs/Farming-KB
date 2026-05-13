@@ -3,10 +3,9 @@
 
 ## Overview
 
-Ralph Metzner, in his 1998 comparative analysis of [[amazonian-ayahuasca-purge-and-diet-practices]] ceremonies, "shamanic 'sucking' methods of extracting toxic psychic residues or sorcerous implants are sometimes used." This practice is documented extensively in the work of Luis Eduardo Luna and Pablo Amaringo, whose [[amaringo-ayahuasca-visions-shipibo-iconography]] catalogues the visual imagery of [[neo-shamanic-phenomenology-and-limits-of-science]] practitioners in the West, most notably by Sandra Ingerman, whose book Soul Retrieval (1991) brought the practice to a wide audience. In the context of Metzner's [[huichol-peyote-tradition]] pilgrimage** — The journey to Wirikuta involves the death of the old self and rebirth as a new person
-- **[[entheogen-bwiti-iboga-initiation-fang-society]] initiation** — The Fang people undergo a powerful death-rebirth experience in which their "head is opened up"
+Ralph Metzner, in his 1998 comparative analysis of [[amaringo-ayahuasca-visions-shipibo-iconography]] catalogues the visual imagery of [[huichol-peyote-tradition]] pilgrimage** — The journey to Wirikuta involves the death of the old self and rebirth as a new person
 - **[[plant-teachers-ayahuasca]]-and-entheogenic-wisdom
-- [[metzner-holotropic-breathwork-and-grof-perinatal-matrices]] and [[metzner-grof-perinatal-matrices-and-transpersonal-realms]] matrices
+- [[metzner-grof-perinatal-matrices-and-transpersonal-realms]] matrices
 - [[harner-amazonian-ayahuasca-preparation-methods]] ceremonies icaros and healing methods
 - bwiti iboga ceremonies ancestor communication and addiction
 - soul retrieval in contemporary shamanic practice

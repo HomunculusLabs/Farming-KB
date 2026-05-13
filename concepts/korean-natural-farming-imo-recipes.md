@@ -9,7 +9,7 @@ sources:
 ---
 # Korean Natural Farming IMO Recipes
 
-[[beneficial-indigenous-microorganisms-bim]] (IMO) are the foundation of Korean Natural Farming (KNF). Master Han-Kyu Cho developed a 5-stage process to collect, multiply, and apply native soil microorganisms. IMO restores soil biology, decomposes [[hamilton-composting-and-organic-matter-management]], and suppresses disease — all from materials found on any farm.
+[[hamilton-composting-and-organic-matter-management]], and suppresses disease — all from materials found on any farm.
 
 ## IMO #1: Collection
 
@@ -23,35 +23,12 @@ sources:
 3. Don't use metal containers (metal inhibits microbial growth)
 4. Place the box in a location with diverse vegetation:
    - Under bamboo grove (preferred — high microbial diversity)
-   - Near a [[forest-edge-windbreak-rainfall-compression]]
-   - Under [[comparison-leaf-mold-composting-vs-hot-composting-method]]
+   - Near a [[comparison-leaf-mold-composting-vs-hot-composting-method]]
    - In a field with diverse plants
 5. Cover loosely with breathable material (cheesecloth, newspaper)
 6. Place on the ground, elevated slightly (on rocks or branches)
 7. Wait 4-10 days (depending on temperature)
-8. Done when rice is covered with white [[fungal-mycelium-hyphae-and-the-feeding-phase]] (cottony growth)
-9. Discard if: black/green/blue mold appears (wrong organisms, try different location)
-
-## IMO #2: Multiplication
-
-### Purpose
-- Multiply the collected microorganisms using sugar as food
-- Preserve them in a stable form
-
-### Method
-1. Take the rice with white mycelium (IMO #1)
-2. Mix 1:1 by weight with brown sugar (unrefined preferred)
-3. Pack into a clay jar (onggi) — fill to 2/3 (leave room for gas)
-4. Cover with breathable cloth
-5. Keep in cool, dark place at 23-25°C (73-77°F)
-6. Ferment for 5-7 days
-7. Liquid will separate to the top — this is the active extract
-8. Done when it smells sweet-sour (like fermenting fruit)
-
-## IMO #3: Expansion on Grain
-
-### Purpose
-- Expand the culture onto a bulk carrier for [[knf-imo-four-soil-foundation-and-field-application]]
+8. Done when rice is covered with white [[knf-imo-four-soil-foundation-and-field-application]]
 
 ### Method
 1. Mix rice bran or wheat bran to 65-70% moisture (squeeze test: ball holds shape, no water drips)
@@ -70,9 +47,7 @@ sources:
 
 ### Method
 1. Mix IMO #3 with equal parts good quality soil (1:1 ratio)
-2. Add small amounts of other [[query-how-do-i-use-knf-inputs-through-the-plant-growth-cycle]]:
-   - [[bionutrients-lab-oriental-herbal-nutrients-ohn]] Nutrient (OHN): 1-2% by volume
-   - [[bionutrients-lab-fermented-plant-juice-fpj]] (FPJ): 1-2%
+2. Add small amounts of other [[bionutrients-lab-oriental-herbal-nutrients-ohn]] Nutrient (OHN): 1-2% by volume
    - [[cho-fish-amino-acid-preparation]] (FAA): 1%
    - Brine Water or Sea Water: 1%
 3. Form into baseball-sized balls
@@ -118,8 +93,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[korean-natural-farming]]
 - [[natural-farming]]
-- [[bionutrients]]
 - [[composting]]
 - [[mycelium]]

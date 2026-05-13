@@ -108,13 +108,8 @@ The Royal Horticultural Society has noted the species for its garden merit. It p
 
 ## See Also
 
-- [[crassula-ovata]]
 - [[echeveria-elegans]]
-- [[sedum-rupestre]]
 - [[kalanchoe-blossfeldiana]]
-- [[aeonium-arboreum]]
 - [[haworthia-fasciata]]
-- [[portulacaria-afra]]
 - [[senecio-rowleyanus]]
-- [[sedum-morganianum]]
 - [[graptopetalum-paraguayense]]

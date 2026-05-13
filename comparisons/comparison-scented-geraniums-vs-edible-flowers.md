@@ -27,48 +27,9 @@ Scented geraniums (*Pelargonium* spp.) and edible flowers both bring beauty, fla
 | **Culinary versatility** | Infusions, jellies, baking, drinks | Garnish, salads, candying |
 | **Essential oil production** | Yes (commercial scale) | Generally no |
 | **Medicinal use** | Significant (geranium oil) | Limited (calendula, chamomile notable exceptions) |
-| **[[dighton-fungal-drought-tolerance-plant-water-relations]]** | High once established | Varies widely |
-| **Pest deterrence** | Moderate (scent masking) | Low (some like marigolds excepted) |
-| **Shade tolerance** | Low–moderate | Varies (violas, nasturtiums more tolerant) |
 | **[[coleman-cold-hardiness-testing-ratings]]** | Very low (frost-tender) | Varies (pansies hardy, basil flowers not) |
 | **Propagation ease** | Very easy (cuttings) | Easy (seed for most, division for perennials) |
-| **[[comparison-cannabis-indoor-growing-basics-vs-cannabis-outdoor-growing]]** | Excellent | Limited (mostly low-light annuals) |
-
-## Culinary Comparison
-
-### Flavor Profile
-
-**Scented geraniums** offer intense, concentrated aromatics that persist through cooking processes like baking, jelly-making, and syrup infusion. A single rose-scented leaf can perfume an entire cake. Their flavors are primarily derived from [[comparison-essential-oils-vs-neem-oil-vs-insecticidal-soap]] ([[linalool]]), giving them a depth that most edible flowers lack.
-
-**Edible flowers** (nasturtium, calendula, viola, borage, chamomile, squash blossoms, etc.) provide visual appeal with complementary flavors that are typically lighter and more subtle. Nasturtium has peppery heat, borage tastes of cucumber, calendula is slightly bitter and tangy. They excel as garnishes and fresh additions rather than as primary flavoring agents.
-
-### Use Cases Where Scented Geraniums Win
-- Flavoring cakes, cookies, and baked goods by infusing batter
-- Making herb jellies (especially rose geranium jelly)
-- Creating aromatic sugars, syrups, and vinegars
-- Brewing herbal teas with strong character
-- Potpourri and sachet-making
-- Aromatherapy and essential oil extraction
-
-### Use Cases Where Edible Flowers Win
-- Plate garnishing and food presentation
-- Fresh salads where petals add color and mild flavor
-- Candied flowers for decorative desserts
-- Stuffing squash blossoms
-- Quick garnish without prep time (no infusion needed)
-- Selling at farmers' markets (high visual appeal)
-
-## Growing Comparison
-
-### Effort and Maintenance
-
-**Scented geraniums** are low-maintenance, drought-tolerant plants that thrive on neglect once established. Their main requirements are good drainage and reasonable light. They can live for many years with proper overwintering. Propagation from cuttings is nearly foolproof, making it easy to expand your collection or share with neighbors.
-
-**Edible flowers** span a wide range of care requirements. Calendula and nasturtium are easy and self-seeding; chamomile is low-maintenance once established; but saffron crocus requires specific conditions, and squash blossoms demand a full vegetable-garden infrastructure. Most edible flowers are annual and must be replanted each year from seed.
-
-### Space Efficiency
-
-**Scented geraniums** are space-efficient in containers—a single 8-inch pot yields leaves throughout the [[savory-growing-season-and-non-growing-season-management]]. They grow well on windowsills, patios, and balconies. Their evergreen nature in warm climates means year-round productivity from a small footprint.
+| **[[comparison-essential-oils-vs-neem-oil-vs-insecticidal-soap]] ([[savory-growing-season-and-non-growing-season-management]]. They grow well on windowsills, patios, and balconies. Their evergreen nature in warm climates means year-round productivity from a small footprint.
 
 **Edible flowers** generally need more garden space to produce meaningful yields. Nasturtiums sprawl, squash needs room, and many others need dedicated bed space. However, they interplant well with vegetables, making them efficient as companion planters rather than standalone crops.
 
@@ -76,5 +37,89 @@ Scented geraniums (*Pelargonium* spp.) and edible flowers both bring beauty, fla
 
 **Scented geraniums** benefit from their aromatic oils, which provide moderate pest deterrence. Whiteflies and aphids are the main concerns. Their scent can help mask neighboring plants from certain pests, making them functional companion plants.
 
-**Edible flowers** vary enormously. Marigolds (technically edible, though mostly ornamental) repel nematodes; nasturtiums attract aphids away from crops (permaculture and [[comparison-cannabis-decarboxylation-chemistry-vs-edibles-guide]]
-- [[comparison-duck-keeping-vs-rabbit-husbandry]]
+**Edible flowers** vary enormously. Marigolds (technically edible, though mostly ornamental) repel nematodes; nasturtiums attract aphids away from crops (permaculture and [[comparison-duck-keeping-vs-rabbit-husbandry]]
+
+## Overview
+
+Comparison Scented Geraniums Vs Edible Flowers represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish comparison scented geraniums vs edible flowers
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving comparison extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Comparison Scented Geraniums Vs Edible Flowers finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for comparison scented geraniums vs edible flowers. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+comparison scented geraniums vs edible flowers and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Comparison Scented Geraniums Vs Edible Flowers has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of comparison scented geraniums vs edible flowers into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[comparison-annual-vs-perennial]]
+- [[comparison-cavendish-vs-east-african-highland-bananas]]
+- [[comparison-chamomile-vs-st-johns-wort]]
+- [[comparison-drip-irrigation-vs-rainwater-harvesting]]
+- [[comparison-mead-making-vs-beer-brewing]]

@@ -8,7 +8,7 @@ aliases: [psilocybe biogeography, psilocybe species worldwide, magic mushroom di
 
 # Psilocybe Genus Distribution
 
-The genus *Psilocybe* is the most speciose and geographically widespread of all neurotropic fungal genera, containing **116 species** — representing 54% of all known neurotropic fungi and 39% of the world's psilocybin-containing species as catalogued by Guzmán, Allen, and Gartz (2000). The distribution of *Psilocybe* reveals a striking biogeographical pattern centered on the **Austral hemisphere** and **subtropical humid forests**.
+The genus *Psilocybe* is the most speciose and geographically widespread of all neurotropic fungal genera, containing **116 species** — representing 54% of all known [[neurotropic-fungi]] and 39% of the world's psilocybin-containing species as catalogued by Guzmán, Allen, and Gartz (2000). The distribution of *Psilocybe* reveals a striking biogeographical pattern centered on the **Austral hemisphere** and **subtropical humid forests**.
 
 ## Global Distribution Patterns
 
@@ -78,7 +78,7 @@ The production of psilocybin and related compounds may serve an ecological funct
 - **Chemical defense** against fungivorous invertebrates
 - **Antimicrobial** properties protecting the fungal mycelium from bacterial competitors
 - **Growth regulation** as a byproduct of tryptophan metabolism
-- **Insect behavior modification** to aid spore dispersal
+- **Insect behavior modification** to aid [[spore-dispersal]]
 
 ## Distribution and Indigenous Knowledge
 
@@ -118,8 +118,6 @@ These naturalized populations demonstrate the ecological plasticity of some *Psi
 
 ## See Also
 
-- [[neurotropic-fungi-taxonomy]]
 - [[sacred-mushrooms-ethnography]]
-- [[psilocybin-chemistry]]
 - [[psilocybe-cubensis]]
 - [[psilocybe-semilanceata]]

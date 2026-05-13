@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Low Island and Coral Cay Permaculture Strategies
+# [[low-island-coral-cay-strategies|low-island-coral-cay-strategies|Low]] Island and Coral Cay Permaculture Strategies
 
 Coral sand cays and low atolls present some of the most challenging environments for human habitation and food production. Lying predominantly within 28° of the equator, these fragile landforms demand exceptionally careful design to address the interrelated challenges of freshwater scarcity, hurricane vulnerability, poor soil nutrition, and limited dietary diversity. Permaculture strategies for these environments focus on working with natural systems—particularly the freshwater lens, coastal vegetation succession, and marine resources—to create sustainable and resilient island communities.
 
@@ -85,16 +85,7 @@ The pit garden is planted in vertical zones according to moisture availability:
 1. **Base (damp, mulched)**: Watercress, parsley, chives, brassicas, taro, kangkong, and salad greens
 2. **First terrace (18–25 cm above base)**: Tomatoes, peppers, taro, sweet corn, beans, peas, and taller crops
 3. **Second terrace (25–60 cm above base)**: Banana, papaya, sweet potato, and cassava (all provide mulch)
-4. **Third/highest terrace**: Cassava, sweet potato, banana, dry-tolerant vegetable crops, and mulch trees such as *Leucaena*, *Gliricidia*, *Tipuana tipu*, *Moringa oleifera*, and local legume trees and shrubs. Palms provide frond mulch and high shade. Vines (passionfruit, four-winged bean) climb on the taller plants.
-
-### Surface Gardens
-
-Under light palm-legume canopies, boxes made from palm logs hold thick mulch and household waste for surface garden beds. These can be planted with potato, yam, sweet potato, and standard vegetable crops. The thicker the mulch, the less watering required.
-
-### Essential Elements for Atoll Gardens
-
-The four essentials for productive atoll food production are:
-1. **Log boxes** for raised bed gardening
+4. **Third/highest terrace**: Cassava, sweet potato, banana, dry-tolerant vegetable crops, and mulch trees such as *Leucaena*, *Gliricidia*, *Tipuana tipu*, *[[raised-bed-gardening]]
 2. **Pit gardens** for moisture access
 3. **Thick mulch** for moisture retention and soil building
 4. **High shade canopy** from palms and legume trees
@@ -148,46 +139,11 @@ Cross-slope ridges become long-term soil and water traps, accumulating mulch for
 ### Airstrip Design
 
 Airstrips on atolls require careful design to prevent catastrophic damage:
-- Aligned approximately 20° off prevailing winds
-- Both ends and sides should be lined with tall palms and trees
-- Coastal borders are especially critical
-- Light planes drop in using rudders to straighten below tree crown level
-- Airstrips carelessly aligned have destroyed whole islands when hurricane winds cut them in two along the airstrip line
 
-### Reef Entry Design
+## See Also
 
-When creating gaps in reef for boat access:
-- Cut gaps on the slant through the reef at east or west quarters
-- Winds blow southeast to northwest south of the equator, northeast to southwest north of the equator
-- Gaps should be in the most sheltered sector of the reef in any wind conditions
-- Width should be just enough (6–10 meters) to admit a vessel or barge
-
-### Coastal Shelterbelt Sequence
-
-Sandy coasts of all atolls and cays need a sequence of perennial shelterbelts to hold shorelines against hurricanes:
-
-1. **Beach level**: Beach convolvulus (*Ipomoea pes-caprae*) and beach pea
-2. **Beach berm**: Dense shrubbery of vines, *Tournefortia*, *Scaevola*, and in sheltered bays, mangroves
-3. **Behind the frontline**: A 5–6 tree deep layer of coconut palm, *Casuarina*, *Coccoloba*, *Barringtonia*, and other hardy beach trees
-
-This dense frontline shelterbelt protects all inland plantings from hurricane-force winds and salt spray.
-
-## Design Priorities for Low Islands
-
-The comprehensive design priorities for low island systems include:
-
-1. **Hurricane protection**: Erosion prevention and damage mitigation for plantations and coasts
-2. **Water security**: Water lens protection and pollution prevention
-3. **Nutrition**: Avoiding poor nutrition from limited diets (typically high in carbohydrate and oxalic acids)
-4. **Crop extension**: Expanding the range of vegetables and fruits available
-5. **Water conservation**: Extending water storage and conserving freshwater supplies
-6. **Conservation**: Protecting natural vegetation and unique birds, reptiles, and lagoon or reef fauna
-7. **Aquaculture**: Using shallow marine waters for aquaculture and pond fish
-8. **Energy**: Developing local energy resources
-## See also
-
-- [[low-island-coral-cay-strategies]]
-- [[low-island-and-coral-cay-strategies]]
-- [[coastal-windbreak-systems-and-plant-wind-tolerance]]
-- [[tropical-food-system-development]]
-- [[mollison-coconut-palm-polyculture-systems]]
+- [[mollison-pdc-high-island-design]]
+- [[tropical-island-diet-diversification-and-energy-resources]]
+- [[permaculture-designers-manual-island-climate]]
+- [[mollison-designers-low-island-coral-cay-strategies]]
+- [[mollison-designers-high-island-and-tropical-valley-design]]

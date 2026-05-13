@@ -22,9 +22,7 @@ sources:
 
 Centaurium montanum is a perennial herb in the family Gentianaceae, distributed across the mountains of southern and central Europe. It is commonly known as mountain centaury and is one of the most robust species in the genus Centaurium.
 
-The species is distinguished from the more widespread [[centaurium-erythraea]] by its perennial habit, broader leaves, and preference for montane habitats. It typically grows at elevations between 500 and 2,400 meters in subalpine meadows and rocky pastures.
-
-Like other Centaurium species, Centaurium montanum contains bitter secoiridoid glycosides, primarily gentiopicroside and sweroside. These compounds have been used in traditional European [[childrens-herbal-medicine]] as digestive bitters and febrifuges.
+The species is distinguished from the more widespread [[childrens-herbal-medicine]] as digestive bitters and febrifuges.
 
 The plant produces dense clusters of pink to rose-pink flowers from June to August, making it an attractive component of alpine meadow communities. It is occasionally cultivated in rock gardens for its compact habit and vivid floral display.
 
@@ -32,7 +30,7 @@ The plant produces dense clusters of pink to rose-pink flowers from June to Augu
 
 Centaurium montanum (Allioni) Druce belongs to the genus Centaurium within the family Gentianaceae. The basionym is Gentiana montana Allioni, described from Piedmontese Alps specimens.
 
-The species is closely related to Centaurium erythraea and [[centaurium-littorale]] but is distinguished by its perennial rootstock, broader basal leaves, and more [[fukuoka-ideal-rice-plant-morphology-compact-growth-high-yield]] form. Some authors treat it as a subspecies of Centaurium erythraea.
+The species is closely related to [[centaurium-erythraea]] and [[fukuoka-ideal-rice-plant-morphology-compact-growth-high-yield]] form. Some authors treat it as a subspecies of Centaurium erythraea.
 
 Plants grow 15–40 cm tall with erect, simple or sparingly branched stems arising from a stout, woody rootstock. The rootstock persists year to year, producing new rosettes of basal leaves each spring.
 
@@ -70,11 +68,7 @@ Sweroside and swertiamarin are present as secondary secoiridoids. Centapicrin, a
 
 Xanthone constituents include eustomin and demethyleustomin. These xanthones are more commonly associated with Eustoma and certain Swertia species, and their presence in Centaurium montanum has chemotaxonomic significance.
 
-Flavonoid glycosides including orientin and iso-orientin occur in [[leaf-tissue-analysis-crop-nutrient-status]]. These C-glycosylflavones contribute to the antioxidant activity of whole-plant extracts.
-
-Phenolic acid content includes caffeic acid and ferulic acid in modest concentrations. The total phenolic content is comparable to Centaurium erythraea but lower than Centaurium littorale.
-
-Comparative chemotaxonomic analysis places Centaurium montanum in the gentiopicroside-dominant group alongside Centaurium erythraea and [[centaurium-pulchellum]]. This distinguishes it from Centaurium littorale, which has higher swertiamarin ratios.
+Flavonoid glycosides including orientin and iso-orientin occur in [[centaurium-pulchellum]]. This distinguishes it from [[centaurium-littorale]], which has higher swertiamarin ratios.
 
 ## Traditional and Medicinal Use
 

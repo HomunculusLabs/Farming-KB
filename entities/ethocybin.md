@@ -30,7 +30,7 @@ created: 2026-05-07
 
 ## Overview
 
-**Ethocybin** (4-phosphoryloxy-*N,N*-dimethyltryptamine; **4-PO-DMT**) is a synthetic psychedelic tryptamine and a close structural analogue of [[lsd-entity-tihkal|TIHKAL]] (Tryptamines I Have Known and Loved). Ethocybin is a prodrug — the phosphate ester is cleaved in vivo by alkaline phosphatase enzymes to produce the active metabolite 4-HO-DMT ([[psilocin|psilocin]]), the same active metabolite produced by psilocybin.
+**Ethocybin** (4-phosphoryloxy-*N,N*-dimethyltryptamine; **4-PO-DMT**) is a synthetic psychedelic tryptamine and a close structural analogue of [[psilocin|psilocin]]), the same active metabolite produced by psilocybin.
 
 ## Chemical Properties
 
@@ -58,25 +58,13 @@ The subjective effects of ethocybin are essentially identical to those of psiloc
 
 Typical oral dose range: **15–30 mg** (roughly equivalent to 10–20 mg psilocybin by weight, accounting for the higher molecular weight). Effects onset within 20–60 minutes, peak at 2–3 hours, and last 4–6 hours total.
 
-The experience profile includes visual hallucinations (geometric patterns, color enhancement, morphing surfaces), altered perception of time, synesthesia, emotional lability, and mystical-type experiences at higher doses. The [[hallucinogenic-mushroom-acute-psychological-effects-and-bad-trips]] are dose-dependent and strongly influenced by [[lsd-set-and-setting-framework]].
+The experience profile includes visual hallucinations (geometric patterns, color enhancement, morphing surfaces), altered perception of time, synesthesia, emotional lability, and mystical-type experiences at higher doses. The [[lsd-set-and-setting-framework]].
 
 ## Synthesis
 
 Ethocybin is synthesized from 4-hydroxyindole via a multi-step sequence. The 4-hydroxyindole core undergoes N,N-dimethylethylenediamine coupling at the 3-position, followed by phosphorylation of the 4-hydroxy group with ethylphosphorodichloridate.
 
-The synthetic route parallels that used for [[gottlieb-psilocybin-production-extraction-methods]], with the key difference being the use of ethylphosphorodichloridate rather than phosphorus oxychloride in the phosphorylation step. This introduces the ethyl group on the phosphate ester oxygen.
-
-Purification is typically achieved via column chromatography or recrystallization from aqueous ethanol. The final phosphate salt is confirmed by NMR spectroscopy and mass spectrometry. Synthetic yields are moderate (30–50% overall from 4-hydroxyindole).
-
-## History
-
-Ethocybin was first synthesized by Alexander Shulgin and his research group in the late 1970s or early 1980s. It was included in TIHKAL with limited commentary, reflecting its
-status as a relatively obscure compound even among dedicated
-psychedelic researchers.
-
-## Legal Status
-
-Ethocybin is controlled as a Schedule I substance in the [[dmt-containing-plants-united-states-halpern]],
+The synthetic route parallels that used for [[dmt-containing-plants-united-states-halpern]],
 as it is a positional isomer of psilocybin and is covered by the Federal
 Analog Act. In the United Kingdom, it is a Class A controlled substance.
 It is also scheduled in many other jurisdictions that control psilocybin
@@ -84,10 +72,79 @@ and its analogues, including Australia, Germany, and much of the EU.
 
 ## See Also
 
-- [[psilocybin]]
 - [[4-acetoxy-dmt]]
-- [[5-meo-dmt-entity]]
 - [[bufotenine]]
-- [[tryptamine]]
 - [[5-ho-dmt]]
 - [[norbaeocystin]]
+
+## Overview
+
+Ethocybin represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish ethocybin
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving ethocybin extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Ethocybin finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for ethocybin. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+ethocybin and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Ethocybin has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of ethocybin into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions

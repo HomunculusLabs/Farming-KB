@@ -16,9 +16,7 @@ sources:
 
 ## Overview
 
-Turmeric (*Curcuma longa*) and ginger (*Zingiber officinale*) are two of the world's most important spice crops, both belonging to the family Zingiberaceae. Cultivated for their underground rhizomes — swollen, starch-rich stems that serve as storage organs — these tropical perennials have been grown for millennia across South and Southeast Asia. Both crops are increasingly valued not only as culinary spices but as medicinal plants with significant pharmacological properties. Turmeric's bioactive compound curcumin and ginger's gingerols and shogaols are the subjects of extensive [[hofmann-lsd-clinical-research-early-studies]].
-
-Despite their tropical origins, both can be grown in subtropical and even temperate regions using season [[season-extension-techniques-and-protected-culture]], container cultivation, or greenhouse production. This guide covers the complete cultivation cycle from planting to harvest, with attention to organic and permaculture-integrated approaches.
+Turmeric (*Curcuma longa*) and ginger (*Zingiber officinale*) are two of the world's most important spice crops, both belonging to the family Zingiberaceae. Cultivated for their underground rhizomes — swollen, starch-rich stems that serve as storage organs — these tropical perennials have been grown for millennia across South and Southeast Asia. Both crops are increasingly valued not only as culinary spices but as medicinal plants with significant pharmacological properties. Turmeric's bioactive compound curcumin and ginger's gingerols and shogaols are the subjects of extensive [[season-extension-techniques-and-protected-culture]], container cultivation, or greenhouse production. This guide covers the complete cultivation cycle from planting to harvest, with attention to organic and permaculture-integrated approaches.
 
 ## Botanical Background
 
@@ -83,15 +81,7 @@ Both crops perform best in well-drained, friable loams with high organic matter 
 | Organic matter | >3% ideal | >3% ideal, responds to 5%+ |
 | Drainage | Well-drained, no waterlogging | Excellent drainage critical |
 
-Raised beds (15–25 cm / 6–10 in height) are strongly recommended, especially in areas with heavy rainfall or clay soils. In permaculture systems, turmeric and ginger are excellent understory crops beneath fruit trees or in the herbaceous layer of [[food-forest]], provided the canopy allows at least 50% light transmission.
-
-## Propagation
-
-### Seed Rhizome Selection
-
-Both crops are propagated vegetatively from rhizome pieces, not from seed. True seed production is rare and genetically variable.
-
-**[[cannabis-breeding-traits-selection-criteria-clarke]] for planting material:**
+Raised beds (15–25 cm / 6–10 in height) are strongly recommended, especially in areas with heavy rainfall or clay soils. In permaculture systems, turmeric and ginger are excellent understory crops beneath fruit trees or in the herbaceous layer of [[cannabis-breeding-traits-selection-criteria-clarke]] for planting material:**
 - Disease-free, firm, plump rhizomes with visible healthy buds ("eyes")
 - No signs of soft rot, mold, or pest damage
 - Weight per piece: turmeric 25–40 g, ginger 30–50 g
@@ -101,8 +91,7 @@ Both crops are propagated vegetatively from rhizome pieces, not from seed. True 
 ### Pre-planting Treatment
 
 - **Size**: Cut larger rhizomes into pieces with 1–2 buds each. Allow cut surfaces to air-dry for 24 hours to form a protective callus.
-- **Fungicidal dip** (organic): Soak in a solution of 0.1% [[trichoderma-viride]] or 2% neem oil for 15–30 minutes before planting. This significantly reduces rhizome rot incidence.
-- **Pre-sprouting**: In cold climates, pre-sprout seed rhizomes in trays of moist [[composting]] or coconut coir at 25–28°C (77–82°F) for 2–3 weeks before field planting. This extends the effective growing season.
+- **Fungicidal dip** (organic): Soak in a solution of 0.1% [[composting]] or coconut coir at 25–28°C (77–82°F) for 2–3 weeks before field planting. This extends the effective growing season.
 - **Hot water treatment** (optional): 50°C (122°F) for 10 minutes to kill nematodes and surface pathogens, followed by rapid cooling.
 
 ### Planting
@@ -116,21 +105,7 @@ Both crops are propagated vegetatively from rhizome pieces, not from seed. True 
 | Planting density | 40,000–55,000 plants/ha | 50,000–75,000 plants/ha |
 | Optimal planting time | April–May (Northern Hemisphere) | March–May (Northern Hemisphere) |
 
-Plant with buds facing upward. In regions with heavy monsoon rains, plant on raised beds or ridges to prevent waterlogging. Mulch immediately after planting with 5–10 cm (2–4 in) of straw, dried leaves, or [[composting]] material to conserve moisture and suppress weeds.
-
-## Nutrient Management
-
-Both turmeric and ginger are heavy feeders, particularly of potassium, which is critical for rhizome development.
-
-### Recommended Nutrient Rates (per hectare, organic production)
-
-| Nutrient | Turmeric | Ginger |
-|----------|----------|--------|
-| Nitrogen (N) | 60–80 kg | 80–120 kg |
-| Phosphorus (P₂O₅) | 40–60 kg | 40–60 kg |
-| Potassium (K₂O) | 80–120 kg | 100–150 kg |
-| Farmyard manure | 10–15 t/ha | 15–25 t/ha |
-| [[biochar]] | 2–5 t/ha (optional) | 2–5 t/ha (optional) |
+Plant with buds facing upward. In regions with heavy monsoon rains, plant on raised beds or ridges to prevent waterlogging. Mulch immediately after planting with 5–10 cm (2–4 in) of straw, dried leaves, or [[biochar]] | 2–5 t/ha (optional) | 2–5 t/ha (optional) |
 
 ### Application Schedule
 
@@ -139,11 +114,7 @@ Both turmeric and ginger are heavy feeders, particularly of potassium, which is 
 2. **First topdressing** (45 days after planting): 50% N
 ## See Also
 
-- [[fermented-foods-and-beverages]] — for making pickled ginger, turmeric tonics, and fermented golden milk
 - [[cover-crops-and-green-manures]] — for rotation partners after turmeric/ginger harvest
-- [[biochar-in-regenerative-agriculture]] — biochar amendments benefit rhizome crops significantly
 - [[the-rhizosphere-ecology-and-plant-microbe-interactions]] — understanding the root-zone microbiome
-- [[tropical-root-crops-cassava-taro-sweet-potato-and-yam]] — complementary tropical staples
-- [[companion-planting-and-polycultures]] — [[holmgren-permaculture-twelve-design-principles-framework]] for intercropping systems
-- [[saffron-cultivation-and-harvesting]] — turmeric compared with other high-value spice crops
+- [[companion-planting-and-polycultures]] — [[saffron-cultivation-and-harvesting]] — turmeric compared with other high-value spice crops
 - [[comparison-turmeric-vs-ginger]] — detailed side-by-side comparison of these two crops

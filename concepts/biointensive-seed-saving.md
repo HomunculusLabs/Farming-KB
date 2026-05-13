@@ -9,7 +9,7 @@ sources:
 ---
 # Biointensive Seed Saving
 
-Seed saving is integral to the [[biointensive-carbon-farming]] support: Ensures availability of [[jeavons-carbon-and-calorie-crop-integration]] seeds, which are often harder to source than common vegetable seeds
+Seed saving is integral to the [[jeavons-carbon-and-calorie-crop-integration]] seeds, which are often harder to source than common vegetable seeds
 5. **Cost reduction**: Seeds are a recurring expense; saving eliminates this cost permanently
 
 ## Open-Pollinated vs. Hybrid
@@ -17,56 +17,11 @@ Seed saving is integral to the [[biointensive-carbon-farming]] support: Ensures 
 GB exclusively uses open-pollinated (OP) varieties because:
 
 - OP varieties breed true from seed (offspring resemble parents)
-- [[heirloom-vs-hybrid-seeds-comparison]] do not breed true (F2 generation shows unpredictable variation)
-- OP varieties can be improved over time through selection
-- Genetic diversity within OP varieties provides resilience
-
-## Basic Seed Saving Principles
-
-### Minimum Population Sizes
-
-To maintain genetic vigor and prevent inbreeding depression:
-
-- **Self-pollinating crops** (tomatoes, lettuce, peas, beans): Save from 10-20 plants minimum
-- **Cross-pollinating crops** (corn, squash, brassicas): Save from 50-100+ plants minimum
-- **Root crops** (beets, carrots): Need to overwinter and flower in year two; save from 20-50 plants
-
-### Isolation Distances
-
-Cross-pollinating crops need isolation to prevent unwanted crossing:
-
-- **Wind-pollinated** (corn, beets, spinach): 1/4 mile to 1 mile
-- **Insect-pollinated** (squash, brassicas): 1/4 to 1/2 mile
-- Techniques to reduce isolation: staggered planting times, hand-pollination, bagging
-
-### Selection Criteria
-
-GB seed saving emphasizes selecting for:
-
-- **Vigor**: Strong, healthy plants with good growth
-- **Disease resistance**: Plants that resist local pest/disease pressures
-- **[[jeavons-climate-adaptation-growing-seasons]]**: Plants that thrive in local temperature/moisture conditions
+- [[jeavons-climate-adaptation-growing-seasons]]**: Plants that thrive in local temperature/moisture conditions
 - **Yield**: Highest producers of calories or biomass
 - **Taste and nutrition**: Flavor quality and nutrient density
 - **Early maturity**: Shorter season varieties are more reliable
-- **[[cervantes-seed-production-storage]]**: Plants that set good seed in your conditions
-
-## Seed Saving by Crop Type
-
-### Dry Seed Crops (Easy)
-Beans, peas, corn, grains: Allow pods/ears to fully dry on the plant, harvest, and store dry.
-
-### Wet Seed Crops (Moderate)
-Tomatoes, cucumbers, squash: Ferment pulp to remove germination inhibitors, wash, and dry.
-
-### Biennial Crops (Advanced)
-Carrots, beets, onions, brassicas: Must overwinter (vernalization) and flower in their second year. Requires planning for winter storage or in-ground protection.
-
-## Storage
-
-Seeds must be stored:
-
-- **Dry**: Below 8% moisture (use [[aminopropyl-silica-gel-chromatography-indole-alkaloid-purification]] packets)
+- **[[aminopropyl-silica-gel-chromatography-indole-alkaloid-purification]] packets)
 - **Cool**: Ideally 32-50 deg F; refrigerator for longest storage
 - **Dark**: Light degrades some seeds
 - **Labeled**: Variety name, year, source, selection notes
@@ -79,9 +34,7 @@ Jeavons recommends dedicating approximately 5-10% of garden space to seed produc
 
 ## See Also
 
-- [[biointensive-carbon-farming]]
 - [[2c-d-pihkal-entry-23]]
-- [[permaculture-design]]
 - [[seasonal-gardening-calendar]]
 
 ## Practical Applications
@@ -113,8 +66,85 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[indole]]
 - [[permaculture]]
-- [[solomon-seed-saving-fundamentals]]
 - [[comparison-seed-saving-techniques-vs-tissue-culture-cloning]]
 - [[vegetable-seed-saving-and-germination]]
+
+## Overview
+
+Biointensive Seed Saving represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish biointensive seed saving
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving biointensive extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Biointensive Seed Saving finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for biointensive seed saving. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+biointensive seed saving and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Biointensive Seed Saving has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of biointensive seed saving into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also

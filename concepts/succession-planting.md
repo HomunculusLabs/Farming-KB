@@ -9,13 +9,13 @@ sources: []
 
 # Succession Planting
 
-Succession planting is the practice of staggering plantings of the same or different crops throughout [[query-how-to-protect-plants-from-frost-and-extend-the-growing-season]] to ensure continuous harvests and maximize garden productivity. Rather than planting everything at once and harvesting all at once, succession planting spreads production across weeks and months.
+Succession planting is the practice of staggering plantings of the same or different crops throughout the growing season to ensure continuous harvests and maximize garden productivity. Rather than planting everything at once and harvesting all at once, succession planting spreads production across weeks and months.
 
 ## Types of Succession Planting
 
 ### Same Crop Succession
 
-Planting the same crop multiple times at regular intervals for a continuous harvest. Most effective for crops that mature quickly and have a short [[harvest-window-cannabis]].
+Planting the same crop multiple times at regular intervals for a continuous harvest. Most effective for crops that mature quickly and have a short harvest window.
 
 **Best candidates for same-crop succession:**
 
@@ -29,7 +29,7 @@ Planting the same crop multiple times at regular intervals for a continuous harv
 | Cilantro | 40-50 | Every 2-3 weeks | Bolts quickly in heat |
 | Spinach | 40-50 | Every 3 weeks | Plant in cool weather only |
 | Arugula | 30-45 | Every 2-3 weeks | Bolt-resistant varieties extend season |
-| Turnips | 40-60 | Every 2-3 weeks | Harvest at 2-3 inches [[query-how-to-harvest-and-cure-cannabis-for-best-flavor]] |
+| Turnips | 40-60 | Every 2-3 weeks | Harvest at 2-3 inches for best flavor |
 | Zucchini | 50-60 | Every 4 weeks | Later plantings avoid squash vine borer peak |
 
 ### Relay Cropping (Crop-to-Crop Succession)
@@ -134,10 +134,10 @@ Plant in fall for early spring harvest:
 
 1. Determine your first and last frost dates from local records or NOAA
 2. List all crops you want to grow
-3. For each crop, note days to maturity and preferred [[coleman-second-spring-august-planting-window]]
+3. For each crop, note days to maturity and preferred planting window
 4. Mark spring, summer, and fall plantings on a calendar
 5. Identify gaps in the calendar where beds will be empty
-6. Fill gaps with cover crops, succession plantings, or [[cervantes-season-extension-cloches-row-covers]] crops
+6. Fill gaps with cover crops, succession plantings, or season extension crops
 7. Plan for overlap — have transplants ready when a crop is harvested
 
 ### Maximizing Bed Productivity

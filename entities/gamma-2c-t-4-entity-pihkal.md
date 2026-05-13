@@ -34,14 +34,8 @@ PIHKAL entry #42. 2,6-DIMETHOXY-4-(i)-PROPYLTHIOPHENETHYLAMINE).
 
 ## Extensions and Commentary
 
-Here is another example of the presentation of a compound for which there has not yet been an effective level determined. Why? For a very good reason. This is an example of a whole class of compounds that I have called the pseudos, or the gamma-compounds. Pseudo- as a prefix in the literary world generally stands for "false." A pseudopod is a thing that looks like a foot, but isn't one. A pseudonym is a fictitious name. But in chemistry, it has quite a different meaning. If something has a common name, and there is a second form (or isomer, or shape, or orientation) that is possible and it doesn't have a common name, it can be given the name of the first form with a Rpseudo-S attached. Ephedrine is the erythro-isomer of [[shulgin-safety-principles-self-experimentation]]. Exercise
-extreme caution. This compound is not approved for human consumption.
+Here is another example of the presentation of a compound for which there has not yet been an effective level determined. Why? For a very good reason. This is an example of a whole class of compounds that I have called the pseudos, or the gamma-compounds. Pseudo- as a prefix in the literary world generally stands for "false." A pseudopod is a thing that looks like a foot, but isn't one. A pseudonym is a fictitious name. But in chemistry, it has quite a different meaning. If something has a common name, and there is a second form (or isomer, or shape, or orientation) that is possible and it doesn't have a common name, it can be given the name of the first form with a Rpseudo-S attached. Ephedrine is the erythro-isomer of [[gamma-2c-t-4-entity]]
 
-## See Also
-
-- [[gamma-2c-t-4-entity]]
-
-- [[2c-o-4-entity-pihkal]]
 - [[2c-g-4-entity-pihkal]]
 
 - PIHKAL (Shulgin & Shulgin, 1991)

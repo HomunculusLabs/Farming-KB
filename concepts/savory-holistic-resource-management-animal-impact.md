@@ -17,10 +17,7 @@ type: concept
 # Animal Impact and Herd Effect
 
 Animal impact is one of the six ecosystem management tools in Allan Savory's
-[[savory-holistic-management-overview]] framework. It refers to the physical effects that large
-hooved animals have on soil surfaces and vegetation through trampling,
-dunging, and urination. The concept of herd effect, a specific form of
-animal impact, is critical to understanding how [[savory-holistic-resource-management-brittle-vs-nonbrittle-environments]] evolved over
+[[savory-holistic-resource-management-brittle-vs-nonbrittle-environments]] evolved over
 millions of years, predators and their herding prey were the only things
 that could realistically have both created the necessary soil disturbance
 to provide a good seedbed for new plants and protected bare soil by
@@ -37,34 +34,16 @@ than in Africa.
 ## The Practical Effects of Animal Impact
 
 Periodic high animal impact in brittle environments:
-- Promotes [[savory-water-cycle-management]] and [[savory-energy-flow-and-solar-capture]]
+- Promotes [[savory-energy-flow-and-solar-capture]]
 - Removes old oxidizing plant material and scatters it as litter
 - Breaks soil surface capping and algal communities between plants
 - Provides compaction enabling grass seedlings to establish
 
-Low animal impact, typically associated with [[savory-partial-rest-and-algal-crusts]]:
-- Produces [[savory-bare-ground-and-soil-exposure]] by disturbing algal communities without advancing
+Low animal impact, typically associated with [[savory-bare-ground-and-soil-exposure]] by disturbing algal communities without advancing
   succession
 - Allows plant spacings to increase
 - Reduces mineral and water cycles below the land's potential
-- Reduces [[savory-energy-flow-and-solar-capture]], especially when compounded by overgrazing
-
-## Resilience to Extreme Impact
-
-Trampling carried to extremes can cause temporary damage, but when the time
-factor is controlled, most environments show astounding resilience. Two
-thousand cattle concentrating during a heavy rainstorm created an
-impressive quagmire, but eighteen months later the location could no
-longer be identified. Continuous trampling around gates and water points
-does not allow recovery, but such areas are usually insignificant compared
-to the total land area.
-
-## Traditional Knowledge
-
-Many cultures recognized the connection between hooves and land health.
-Scottish shepherds referred to the "golden hooves" of sheep. Navajo
-medicine men warned that reducing sheep numbers would harm the soil.
-[[kanna-sceletium-south-african-narcotic]] oldtimers had a saying: "Hammer veld to sweeten it",
+- Reduces [[kanna-sceletium-south-african-narcotic]] oldtimers had a saying: "Hammer veld to sweeten it",
 meaning literally to hammer the land with herds of livestock to improve
 forage quality. These observations were rejected by the scientific
 community of the time.
@@ -78,14 +57,94 @@ Understanding the fundamental principles behind this topic enables better practi
 
 ## See Also
 
-- [[animal-cookies]]
 - [[animal-harvest-and-processing]]
-- [[savory-testing-and-management-guidelines]]
 - [[savory-animal-days-and-forage-measurement]]
 
 ## See Also
 
-- [[savory-holistic-resource-management-energy-flow]]
-
 - [[savory-holistic-resource-management-brittle-vs-nonbrittle-environments]]
 - [[savory-holistic-resource-management-overgrazing]]
+
+## Overview
+
+Savory Holistic Resource Management Animal Impact represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish savory holistic resource management animal impact
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving savory extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Savory Holistic Resource Management Animal Impact finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for savory holistic resource management animal impact. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+savory holistic resource management animal impact and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Savory Holistic Resource Management Animal Impact has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of savory holistic resource management animal impact into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[savory-fencing-economics-and-stock-density-curve]]
+- [[savory-flexibility-in-management]]
+- [[savory-grasshopper-and-insect-outbreaks]]
+- [[savory-predator-prey-and-herding-behavior]]

@@ -82,9 +82,7 @@ coast. During El Niño:
 
 ## Relevance to Cultivation and Permaculture
 
-El Niño is significant for [[permaculture-design]] because:
-
-- **Climate variability planning**: [[permaculture]] systems must be designed for
+El Niño is significant for [[permaculture]] systems must be designed for
   ENSO-related extremes — drought during El Niño years, potential flooding
   during La Niña years. Designing for average conditions is insufficient.
 - **Fail-safe cropping**: Mollison's recommendation to spread risk through
@@ -115,3 +113,11 @@ westward wind movement and affect oceanic overturn.
 - Cyclonic Fronts — weather systems affected by ENSO
 - Precipitation Variability — the direct impact of El Niño on rainfall
 - Fail-Safe Cropping — the design strategy for managing ENSO variability
+
+## See Also
+
+- [[mollison-designers-termite-and-ant-mound-niche-gardening]]
+- [[mollison-designers-contour-surveying-a-frame-bunyip-level]]
+- [[humus-soil-amendment-mollison]]
+- [[minamata-disease-mollison]]
+- [[mollison-drought-proofing-strategies]]

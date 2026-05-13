@@ -12,13 +12,7 @@ type: concept
 
 ## Overview
 
-Syrian Rue ([[banisteriopsis-caapi]] vine. It has recently been postulated that Peganum
-harmala may have been the source of Soma or Haoma of the ancient
-peoples of Persia and India.
-
-## Botanical Description
-
-[[mckenna-food-gods-peganum-harmala-soma]] L. belongs to the Zygophyllaceae (Caltrop Family). The
+Syrian Rue ([[mckenna-food-gods-peganum-harmala-soma]] L. belongs to the Zygophyllaceae (Caltrop Family). The
 Syrian Rue is an herb native to desert areas, a bushy shrub attaining a
 height of 3 ft (1 m). The leaves are cut into narrowly linear segments,
 and the small white flowers occur in the axils of branches. The globose,
@@ -46,9 +40,7 @@ of seeds from Peganum harmala, and the preparation is consumed as a
 drink. When combined with DMT-containing plants, it has visionary
 effects and can substitute for Ayahuasca.
 
-The [[plants-gods-ayahuasca]] for the traditional Amazonian preparation
-  that shares the same beta-carboline chemistry
-- [[plants-gods-fly-agaric]] for the competing Soma hypothesis
+The [[plants-gods-fly-agaric]] for the competing Soma hypothesis
 ## Practical Considerations
 
 When working with Syrian Rue (Plants of the Gods), several practical factors should be

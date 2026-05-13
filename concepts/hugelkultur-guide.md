@@ -61,7 +61,7 @@ Hugelkultur ("hill culture" in German) is a raised-bed technique that buries woo
 
 ### Established Mounds (Year 2+)
 - Virtually any crop thrives: tomatoes, squash, peppers, brassicas, root vegetables.
-- The sponge effect reduces watering to once per week or less [[query-how-to-grow-and-use-oca-in-temperate-climates]].
+- The sponge effect reduces watering to once per week or less in temperate climates.
 - Vining crops (squash, cucumbers) cascade beautifully off mound sides.
 
 ## Irrigation
@@ -72,9 +72,9 @@ Hugelkultur ("hill culture" in German) is a raised-bed technique that buries woo
 
 ## Troubleshooting
 
-- **Nitrogen deficiency (yellowing leaves)**: Top-dress with blood meal, [[comparison-wood-chip-mulch-vs-leaf-mold-vs-composted-manure-soil-building]], or [[comparison-fish-hydrolysate-vs-fish-emulsion]]. More common in year 1 with high-wood-volume mounds.
+- **Nitrogen deficiency (yellowing leaves)**: Top-dress with blood meal, composted manure, or fish emulsion. More common in year 1 with high-wood-volume mounds.
 - **Excessive settling**: Pack layers firmly during construction; add more soil/compost in year 2.
-- **Slugs and pests**: The moist environment attracts slugs. Use beer traps, [[comparison-neem-oil-cannabis-vs-diatomaceous-earth-cannabis]], or encourage predator populations (ducks, [[ground-beetles-carabidae-and-biological-pest-control]]).
+- **Slugs and pests**: The moist environment attracts slugs. Use beer traps, diatomaceous earth, or encourage predator populations (ducks, ground beetles).
 - **Dry spots**: Large logs can create air pockets; water deeply and slowly to saturate.
 
 ## Hugelkultur vs. Conventional Raised Beds
@@ -94,38 +94,3 @@ Hugelkultur ("hill culture" in German) is a raised-bed technique that buries woo
 - [[composting-methods-comparison]] for making your own compost layers
 - [[mulching-guide]] for appropriate mulch choices
 - [[companion-planting-reference]] for polyculture combinations on mounds
-
-## Practical Applications
-
-The principles and techniques discussed here have wide-ranging applications
-across multiple disciplines and contexts. Practitioners and researchers
-continue to explore new ways to integrate these concepts into modern practice,
-adapting traditional knowledge to contemporary challenges and opportunities.
-
-## Key Considerations
-
-Several important factors influence the effectiveness and outcomes described
-in this topic. Understanding these considerations helps practitioners make
-informed decisions and avoid common pitfalls. Environmental conditions,
-timing, and material selection all play critical roles.
-
-## Historical Context
-
-The historical development of this subject reflects centuries of accumulated
-knowledge and practical experience. From traditional methods passed down
-through generations to modern scientific approaches, the evolution continues
-to inform current best practices and research directions.
-
-## Common Challenges
-
-Practitioners frequently encounter several challenges when working with
-these concepts. Climate variability, resource limitations, and knowledge
-gaps can all affect outcomes. Addressing these challenges requires patience,
-observation, and a willingness to adapt approaches based on results.
-
-## See Also
-- [[hugelkultur]]
-- [[composting]]
-- [[neem]]
-- [[decomposition]]
-- [[fruit-tree-pruning]]

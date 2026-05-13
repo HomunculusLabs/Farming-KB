@@ -11,8 +11,7 @@ type: concept
 # Spawn Production
 
 Spawn is the mycelial seed material used to inoculate bulk substrates in
-[[accessible-mushroom-cultivation-for-disabilities]]. It is the critical bridge between a pure culture
-and a productive [[pf-tek-maximum-fruiting-substrate-formula]]. Without high-quality spawn,
+[[pf-tek-maximum-fruiting-substrate-formula]]. Without high-quality spawn,
 contamination rates soar and yields collapse. The entire commercial
 mushroom industry depends on reliable spawn production, making it one
 of the most important technical disciplines in mycology.
@@ -36,15 +35,8 @@ fast-colonizing, and free of competing organisms at every stage.
 - **Wood-based spawn**: Sawdust or wood chip spawn is preferred for
   wood-decomposing species like shiitake, maitake, and reishi. Hardwood
   sawdust (oak, beech, alder) provides an excellent matrix.
-- **[[oyster-mushroom-supplemented-sawdust-blocks]]**: A blend of sawdust with wheat bran (5-20%
-  by dry weight) dramatically increases mycelial growth rates and
-  final spawn vigor. This is the industry standard for log-grown species.
-- **Liquid culture**: Mycelium grown in nutrient broth can inoculate
-  grain or sawdust directly. Liquid culture is fast and scalable but
-  requires strict sterility and offers shorter shelf life.
-
-See [[spawn-grain-to-grain-transfer]] for detailed G2G expansion
-protocols and [[mushroom-substrates]] for bulk [[cotter-compost-substrate-preparation-manure-mushroom-cultivation]].
+- **[[spawn-grain-to-grain-transfer]] for detailed G2G expansion
+protocols and [[cotter-compost-substrate-preparation-manure-mushroom-cultivation]].
 
 ## Sterilization
 
@@ -53,8 +45,7 @@ by autoclaving at 15 PSI (121 degrees C) for 60-90 minutes depending
 on bag size. Sawdust spawn requires longer cycles (90-120 minutes)
 because wood particles insulate bacterial endospores. Some producers
 use tyndallization for sawdust: three consecutive 60-minute steam
-cycles with 24-hour rest periods between them. See [[sterilization]]
-for comprehensive [[conventional-surface-sterilization-methods-limitations-comparison]].
+cycles with 24-hour rest periods between them. See [[conventional-surface-sterilization-methods-limitations-comparison]].
 
 ## Inoculation
 

@@ -29,9 +29,7 @@ alpha,N,O-Trimethylserotonin
 
 alpha,N,O-TMS is alpha,N,O-trimethylserotonin, also known as 5-methoxy-alpha,N-dimethyltryptamine. Its full chemical designation is 5-methoxy-3-[2-(methylamino)propyl]indole. The compound is a trimethylated derivative of serotonin (5-hydroxytryptamine), with methyl groups on the 5-oxygen (forming the methoxy), the alpha-carbon of the side chain, and the primary amine nitrogen.
 
-The molecular formula is C14H20N2O. The free base is a colorless oil that does not crystallize, and no solid salts have been obtained. Mass [[shirota-psilocybin-crystal-form-spectral-data-and-analytical-characterization]] shows the characteristic C3H8N+ fragment at m/z 58 (100%), the methoxyindolemethylene+ fragment at m/z 161/160 (19%/7%), and the parent ion at m/z 218 (<1%).
-
-This compound is the N-methylated analogue of [[tihkal-introduction-and-methodology]], and Shulgin uses it as a case study for discussing the limitations of structure-activity relationship (SAR) predictions in psychedelic chemistry.
+The molecular formula is C14H20N2O. The free base is a colorless oil that does not crystallize, and no solid salts have been obtained. Mass [[tihkal-introduction-and-methodology]], and Shulgin uses it as a case study for discussing the limitations of structure-activity relationship (SAR) predictions in psychedelic chemistry.
 
 ## Dosage and Administration
 
@@ -39,17 +37,7 @@ The active dosage range for alpha,N,O-TMS is 10 to 20 milligrams when taken oral
 
 Duration of effects is approximately 6 to 8 hours.
 
-At 16 mg orally, the experience reaches approximately a ++ on the [[tihkal-shulgin-rating-scale]] scale. Effects onset within about an hour and a quarter. The experience is characterized as body-focused rather than visually oriented, with pronounced erotic enhancement. There is no fantasy, no color enhancement, and minimal eye dilation or appetite loss. Writing is reported as seeming easy during the experience.
-
-Another subject at 16 mg reported the experience as "maybe a plus two" with the body feeling safe. The strongest negative noted was the nature of dreaming that night, which was described as shallow with a faint metallic flavor and a distinct lack of depth or dimension.
-
-At 20 mg orally, one subject reported being in a quite depressed state. The compound did not lift the depression, and the subject concluded that "we have doomed ourselves" after a few hours of contemplation. It is noted that this depressive state may not have been caused by the compound itself.
-
-## Qualitative Effects
-
-The effects of alpha,N,O-TMS are mild and somewhat indeterminate. The compound produces a clearly perceptible altered state but one that lacks the dramatic visual, cognitive, or mystical qualities associated with more potent tryptamine psychedelics.
-
-The most consistently reported effect is erotic enhancement, which was described as both "excellent and satisfying." This body-focused quality is reminiscent of [[a-o-dms-entity-tihkal]] (alpha,O-dimethylserotonin), which is described as an extremely potent compound at 3-4 milligrams with dramatic visual effects. The N-methylation in alpha,N,O-TMS reduces potency approximately 5-fold and substantially changes the qualitative character of the experience.
+At 16 mg orally, the experience reaches approximately a ++ on the [[a-o-dms-entity-tihkal]] (alpha,O-dimethylserotonin), which is described as an extremely potent compound at 3-4 milligrams with dramatic visual effects. The N-methylation in alpha,N,O-TMS reduces potency approximately 5-fold and substantially changes the qualitative character of the experience.
 
 ## Pharmacology and Structure-Activity Relationships
 
@@ -75,8 +63,7 @@ The ketone is then subjected to reductive amination using methylamine hydrochlor
 
 ## Related Compounds
 
-The most important related compound is [[5-meo-dmt-entity-tihkal]] - 5-methoxy-N,N-dimethyltryptamine, which provides the N,N-dimethyl pattern
-- [[2-alpha-dmt-entity-tihkal]] - 2,alpha-dimethyltryptamine, another alpha-substituted compound
+The most important related compound is [[2-alpha-dmt-entity-tihkal]] - 2,alpha-dimethyltryptamine, another alpha-substituted compound
 
 The proposed but unsynthesized compound alpha,N,N,O-tetramethylserotonin would provide additional data on the interplay between alpha- and N-methylation.
 
@@ -88,7 +75,7 @@ The entry's extensions and commentary section serves as a meditation on the natu
 
 ## Toxicity and Safety
 
-No specific toxicity data is available for alpha,N,O-TMS. The compound has received limited human trials, and no [[blesching-cannabis-safety-adverse-effects-evidence]] beyond the mild subjective experiences reported have been noted. The 6-8 hour duration and moderate dose range suggest a [[cannabis-safety-profile-and-overdose-risk]] that may be comparable to other oral tryptamines, but formal toxicological evaluation has not been conducted.
+No specific toxicity data is available for alpha,N,O-TMS. The compound has received limited human trials, and no [[cannabis-safety-profile-and-overdose-risk]] that may be comparable to other oral tryptamines, but formal toxicological evaluation has not been conducted.
 
 ## Legal Status
 

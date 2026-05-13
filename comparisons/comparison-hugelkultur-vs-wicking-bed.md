@@ -9,11 +9,7 @@ type: comparison
 ---
 # Hugelkultur vs Wicking Beds
 
-[[hugelkultur]] and wicking beds both address the same core problem --
-reducing irrigation and maintaining consistent soil moisture -- but
-through fundamentally different mechanisms. Hugelkultur buries wood to
-create a biological sponge that decomposes over years, while wicking
-beds use a sealed reservoir and [[capillary-action-in-soils]] to deliver water from
+[[capillary-action-in-soils]] to deliver water from
 below. Choosing between them depends on your materials, timeline, space,
 and maintenance preferences.
 
@@ -89,7 +85,7 @@ decomposition-related variability.
 ## Soil Building vs Soil Containment
 
 Hugelkultur builds soil. The decomposing wood creates humus, feeds
-[[cannabis-rhizosphere-microbial-communities]], and supports [[permaculture]] designs. Wicking
+[[permaculture]] designs. Wicking
 beds are rectangular containers best suited to flat surfaces, patios,
 and small spaces. The 3-4 foot width limit for reachability means larger
 growing areas require multiple beds. They work well on concrete, rooftops,
@@ -114,13 +110,9 @@ fill pipe and overflow need occasional inspection.
   rainfall. Wicking beds risk becoming waterlogged without proper
   overflow drainage.
 - **Arid climates:** Both work well. Wicking beds give more control with
-  precise [[cervantes-nutrient-solution-reservoir-management]]. Hugel beds need initial irrigation until
-  the wood layer saturates.
-- **Cold climates:** Hugelkultur has an edge -- decomposition heat can
-  [[query-how-to-protect-plants-from-frost-and-extend-the-growing-season]] season by 2-4 weeks. Wicking beds offer no thermal
+  precise [[query-how-to-protect-plants-from-frost-and-extend-the-growing-season]] season by 2-4 weeks. Wicking beds offer no thermal
   benefit.
-- **[[fukuoka-natural-farming-tropical-climates]]:** Hugel beds decompose faster (advantage for
-  quick [[solomon-cool-climate-compost-soil-temperature-nutrient-release]], but beds settle sooner). Wicking beds perform
+- **[[solomon-cool-climate-compost-soil-temperature-nutrient-release]], but beds settle sooner). Wicking beds perform
   consistently regardless of temperature.
 
 ## Best Plants for Each

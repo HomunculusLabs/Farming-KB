@@ -20,18 +20,7 @@ type: concept
 A guild and animals is defined by Mollison as a
 species assembly that provides many benefits for resource
 production and self-management (more yields, but lower inputs).
-The analytic framework for in [[apple-guild-design-guide]] draws on Haskell's
-(1970) co-action theory, providing a systematic method for
-selecting beneficial species combinations.
-
-## The Interaction Spectrum
-
-In general, the interactions between plant and animal species
-fall into these categories:
-
-- Most species get along fine. Perhaps 80% of all plant
-  species can co-mingle without ill effect, as obvious from
-  a study of any complex [[cool-climate-home-garden-mollison]] or botanical garden.
+The analytic framework for in [[cool-climate-home-garden-mollison]] or botanical garden.
 - Some species greatly assist others in one or many ways.
   Positive benefits arise from placing such species together
   where they can interact (10-15% of all species).
@@ -67,8 +56,7 @@ neither acts (neutrality).
 The framework names specific interaction states:
 
 (++) Symbiosis: common in nature and society, a win-win
-situation ideally suited to guild development. The [[mollison-designers-companion-planting-charts-and-principles]]
-- [[mollison-pioneer-species-and-accelerated-succession]]
+situation ideally suited to guild development. The [[mollison-pioneer-species-and-accelerated-succession]]
 
 - bill mollison-permaculture-a-designers-manual-guild-design-in-permaculture
 

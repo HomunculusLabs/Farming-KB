@@ -14,10 +14,7 @@ type: concept
 ## Overview
 
 Winston et al. (2014) used Illumina 16S rRNA gene sequencing to characterize
-[[cultivar-endorhiza-bacterial-communities-cannabis]] associated with Cannabis roots and soil. The study
-targeted the V4 hypervariable region of the 16S rRNA gene, following the
-Earth Microbiome Project standard protocols. A total of 69 samples were
-sequenced across two experiments, analyzed using the [[qiime-bioinformatics-pipeline-16s-rrna-microbiome]]
+[[qiime-bioinformatics-pipeline-16s-rrna-microbiome]]
 pipeline with both closed and open reference OTU picking methods.
 
 ## Sample Summary
@@ -26,15 +23,7 @@ The study sequenced samples from three compartments (endorhiza, rhizosphere,
 bulk soil) across five Cannabis cultivars in two separate experiments:
 
 - **Experiment 1**: 27 samples from three cultivars (Burmese, Bookoo Kush,
-  [[maui-wowie]])
-  grown in two soil types (Vista and Orange County, California). Samples
-  were taken 2 weeks before harvest. One sample was discarded due to
-  insufficient coverage, leaving 41 samples.
-
-## DNA Extraction
-
-DNA was isolated from 0.25 g of soil or root per extraction using the
-PowerSoil [[power-soil-dna-isolation-16s-microbiome]] Kit (MO BIO, USA). A modification was applied:
+  [[power-soil-dna-isolation-16s-microbiome]] Kit (MO BIO, USA). A modification was applied:
 heating the extraction at 65 degrees Celsius for 10 minutes prior to the
 initial vortex step. Root samples were rinsed with alcohol and sterile water
 before extraction to remove surface contaminants and isolate true endorhiza
@@ -96,36 +85,8 @@ workflow:
 The development and understanding of 16s rrna sequencing microbiome analysis has evolved considerably over recent decades, with contributions from researchers, practitioners, and indigenous knowledge systems worldwide.
 
 ## See Also
-- [[16s-rrna-sequencing-microbiome-analysis-cannabis]]
 - [[16s-rrna-sequencing-cannabis-microbiome-profiling]]
-- [[rhizosphere-fungal-community-analysis-rrna-rdna]]
 - [[cannabis-microbiome-unifrac-beta-diversity-analysis]]
-- [[unifrac-weighted-unweighted-analysis-cannabis-microbiome]]
-
-## Key Considerations
-
-Several important factors influence the effectiveness and outcomes described
-in this topic. Understanding these considerations helps practitioners make
-informed decisions and avoid common pitfalls. Environmental conditions,
-timing, and material selection all play critical roles.
-
-## Historical Context
-
-The historical development of this subject reflects centuries of accumulated
-knowledge and practical experience. From traditional methods passed down
-through generations to modern scientific approaches, the evolution continues
-to inform current best practices and research directions.
-
-## Common Challenges
-
-Practitioners frequently encounter several challenges when working with
-these concepts. Climate variability, resource limitations, and knowledge
-gaps can all affect outcomes. Addressing these challenges requires patience,
-observation, and a willingness to adapt approaches based on results.
-
-## See Also
 - [[16s-rrna-sequencing-microbiome-analysis-cannabis]]
-- [[16s-rrna-sequencing-cannabis-microbiome-profiling]]
 - [[qiime-bioinformatics-pipeline-16s-rrna-microbiome]]
-- [[unifrac-weighted-unweighted-analysis-cannabis-microbiome]]
 - [[rhizosphere-fungal-community-analysis-rrna-rdna]]

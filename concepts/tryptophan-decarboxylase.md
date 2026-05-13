@@ -9,7 +9,7 @@ sources:
 ---
 # Tryptophan Decarboxylase
 
-Tryptophan decarboxylase (TDC) is the enzyme that catalyzes the conversion of the [[cho-fish-amino-acid-preparation]] tryptophan into tryptamine by removing a carboxyl group. This is the critical enzymatic step that bridges primary amino acid metabolism (via the [[psilocybin-biosynthesis-pathway]], [[psilocybin-biosynthesis-pathway]] for the complete biosynthetic context and [[psilocybin-biosynthesis-pathway]], tryptophan decarboxylase occupies the position just after tryptophan is produced from the Shikimate pathway:
+Tryptophan decarboxylase (TDC) is the enzyme that catalyzes the conversion of the [[psilocybin-biosynthesis-pathway]], [[psilocybin-biosynthesis-pathway]], tryptophan decarboxylase occupies the position just after tryptophan is produced from the Shikimate pathway:
 
 1. Glucose → (glycolysis + pentose phosphate pathway) → PEP + E4P
 2. PEP + E4P → (Shikimate pathway) → Chorismate → Anthranilate → Tryptophan
@@ -50,24 +50,14 @@ The inhibition pattern reveals important structure-activity relationships. Compe
 
 ### The Gartz Method
 
-Jochen Gartz demonstrated that adding tryptamine hydrochloride directly to the mushroom-substrates|substrate increases total alkaloid production in [[growing-gourmet-tree-species-guide-mushroom-cultivation]] that favor overall [[arbuscule-isolation-metabolic-activity-assays]] may increase flux through the entire pathway
+Jochen Gartz demonstrated that adding tryptamine hydrochloride directly to the mushroom-substrates|substrate increases total alkaloid production in [[arbuscule-isolation-metabolic-activity-assays]] may increase flux through the entire pathway
 
 ## Distribution Among Fungi
 
 Tryptophan decarboxylase activity has been documented in:
 
 - **Psilocybe species**: P. cubensis, P. tampanensis, P. mexicana, P. semilanceata, P. azurescens, and others
-- **Ergot fungi** (Claviceps spp.): Tryptophan decarboxylase feeds into the ergoline alkaloid pathway (leading to ergotamine, [[ergot-and-lysergic-acid-history]], and eventually LSD)
-- **Other Basidiomycetes**: Various genera produce tryptamine derivatives as defensive compounds or signaling molecules
-- **Plants**: TDC also occurs in plants like Catharanthus roseus (Madagascar periwinkle), where it produces tryptamine precursors for terpenoid indole alkaloids including vinblastine and vincristine (anti-cancer drugs)
-
-## Research History
-
-- The enzyme was first characterized in plants and bacteria before being studied in fungi
-- Niels Jensen attempted molecular cloning of tryptophan decarboxylase from *[[sclerotia-maturation-timeline-psilocybe-tampanensis-mexicana]]*, contributing to the effort to identify all enzymes in the psilocybin [[psilocybin-biosynthesis-pathway-and-enzymology]]
-- The 2017-2018 discovery and characterization of the psilocybin biosynthetic gene cluster (PsiM, PsiH, PsiK, PsiD) in Psilocybe species by researchers including Dirk Hoffmeister's group at Friedrich Schiller University Jena represented a major advance -- PsiD encodes an L-tryptophan decarboxylase specific to psilocybin-producing fungi
-- The identification of the complete gene cluster has enabled heterologous expression of psilocybin biosynthesis in yeast and bacteria, opening new avenues for [[psilocybin-biosynthesis-pathway]] -- Complete pathway from glucose to psilocybin
-- [[fungal-enzymatic-capabilities]] -- Broader context of fungal enzyme systems
+- **Ergot fungi** (Claviceps spp.): Tryptophan decarboxylase feeds into the ergoline alkaloid pathway (leading to ergotamine, [[sclerotia-maturation-timeline-psilocybe-tampanensis-mexicana]]*, contributing to the effort to identify all enzymes in the psilocybin [[psilocybin-biosynthesis-pathway]] -- Complete pathway from glucose to psilocybin
 - [[mushroom-substrates]] -- How substrate composition affects alkaloid production
 ## Practical Considerations
 

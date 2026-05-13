@@ -11,15 +11,7 @@ sources:
 ---
 # Lloyd Library and Museum
 
-The Lloyd Library anmycology, located in Cincinnati, Ohio, is one of the world's foremost independent research collections devoted to botany, fungal-kingdom-classification, John Uri Lloyd, and Nelson Ashley Lloyd — it grew from a pharmaceutical company's working library into an irreplaceable repository of scientific literature spanning five centuries. As described by fungal-kingdom-classification's passionate collecting. It includes complete runs of the major mycological journals, rare mycological works from the 18th and 19th centuries, and Curtis Lloyd's personal correspondence with mycologists worldwide. The [[victorian-mycology]]|Victorian era mycological literature is particularly well-represented, making the library an essential resource for historians of mycology.
-
-### Pharmaceutical and Medical Literature
-
-The pharmacy collection reflects the Lloyd Brothers' professional heritage, with extensive holdings in pharmacognosy, pharmaceutical chemistry, and the history of medicine. The Eclectic medical tradition, an important 19th-century American medical movement that emphasized botanical remedies, is particularly well-documented.
-
-## Architecture and Setting
-
-The Lloyd Library occupies a building at 917 Plum Street in Cincinnati, a modest but distinguished structure that houses reading rooms, stacks, and exhibition spaces. The building's atmosphere reflects its age and scholarly purpose — a quiet, book-filled refuge in an urban setting. The library is open to researchers by appointment and welcomes scholars from [[fungi-around-the-world-species-distribution]].
+The Lloyd Library anmycology, located in Cincinnati, Ohio, is one of the world's foremost independent research collections devoted to botany, fungal-kingdom-classification, John Uri Lloyd, and Nelson Ashley Lloyd — it grew from a pharmaceutical company's working library into an irreplaceable repository of scientific literature spanning five centuries. As described by fungal-kingdom-classification's passionate collecting. It includes complete runs of the major mycological journals, rare mycological works from the 18th and 19th centuries, and Curtis Lloyd's personal correspondence with mycologists worldwide. The [[fungi-around-the-world-species-distribution]].
 
 ## Contemporary Significance
 
@@ -32,8 +24,7 @@ The Lloyd Library remains an active research institution in the 21st century. It
 
 ## The Lloyd Brothers' Broader Impact
 
-The Lloyd family's contributions to science extend beyond the library. John Uri Lloyd was a pioneer of pharmaceutical chemistry whose techniques for preparing plant extracts influenced modern pharmacognosy. Nelson Ashley Lloyd managed the business side of the pharmaceutical company. And [[bloomfield-curtis-gates-lloyd-pharmacist-mycologist]] Lloyd made fundamental contributions to fungal-kingdom-classification — The mycologist whose collections form the library's core
-- [[mycology]] — Broader context of the era in which the library was founded
+The Lloyd family's contributions to science extend beyond the library. John Uri Lloyd was a pioneer of pharmaceutical chemistry whose techniques for preparing plant extracts influenced modern pharmacognosy. Nelson Ashley Lloyd managed the business side of the pharmaceutical company. And [[mycology]] — Broader context of the era in which the library was founded
 - [[buller-ahr]] — Subject of much of Curtis Lloyd's research housed in the library
 ## Practical Applications
 

@@ -21,19 +21,7 @@ sources:
 
 ## Overview
 
-Aquilegia flabellata, the fan columbine or dwarf columbine, is a compact herbaceous perennial in the family Ranunculaceae. It is one of the smallest columbine species, rarely exceeding 20–30 cm in height, making it a prized subject for rock [[query-how-do-i-improve-heavy-clay-soil-in-my-garden]]s and alpine troughs.
-
-The species is native to Japan and Korea, where it grows on mountain slopes and rocky outcrops in subalpine and montane zones. Its diminutive size and proportionally large flowers give it a charm that belies its rugged alpine constitution.
-
-The specific epithet *flabellata* means "fan-shaped," referring to the spreading, flared sepals. Several cultivated varieties are recognized, including the popular var. *pumila* (even more compact) and selections with white or bicolored flowers.
-
-It received the RHS Award of Garden Merit, reflecting its reliability and ornamental value in cultivation. The species has been grown in Japanese gardens since the Edo period (1603–1868).
-
-In Japanese, the plant is called *ōdamaki* (大ダマキ), referring to the prominent seed pods. The species was introduced to Western horticulture by Philipp Franz von Siebold in the early 19th century.
-
-## Taxonomy and Morphology
-
-**Scientific [[short-day-and-long-day-plant-classification]]:**
+Aquilegia flabellata, the fan columbine or dwarf columbine, is a compact herbaceous perennial in the family Ranunculaceae. It is one of the smallest columbine species, rarely exceeding 20–30 cm in height, making it a prized subject for rock [[short-day-and-long-day-plant-classification]]:**
 
 - Kingdom: Plantae
 - Clade: Tracheophytes
@@ -52,19 +40,7 @@ Flowers are 3–5 cm across, nodding, with pale blue to lavender sepals and whit
 
 Stamens are prominently exerted, creating a showy yellow center. The fruit is a cluster of 5 smooth follicles, each containing numerous small, glossy black seeds.
 
-The flowers are mildly fragrant, emitting a light, sweet scent on warm days. This fragrance is unusual among columbine species and may attract specialized [[query-how-to-attract-and-support-native-bee-pollinators]].
-
-## Distribution and Habitat
-
-*Aquilegia flabellata* is native to the mountains of central and northern Honshu, Japan, and is also found in Korea. Japanese populations occur primarily in the Japanese Alps and surrounding mountain ranges.
-
-It grows at elevations of 600–2,400 m on rocky slopes, cliff faces, and among boulders in montane forests. The species favors cool, moist, shaded crevices where roots find purchase in thin, organic-rich soil.
-
-The species is often found [[query-how-do-i-extend-my-growing-season-with-cold-frames-and-season-extension-techniques]] in moss-[[query-how-to-use-cover-crops-for-heavy-clay-soil-improvement]]ed rock crevices alongside ferns and small saxifrages. These crevice communities are characteristic of the Japanese montane rock garden aesthetic.
-
-The species is adapted to cold, snowy winters and cool, humid summers. Winter snowpack provides essential insulation for the compact root crown.
-
-Annual precipitation in its native range exceeds 150 cm, with heavy summer rainfall supplementing winter snow. The humid montane climate reduces drought stress during [[query-how-to-protect-plants-from-frost-and-extend-the-growing-season]].
+The flowers are mildly fragrant, emitting a light, sweet scent on warm days. This fragrance is unusual among columbine species and may attract specialized [[query-how-do-i-extend-my-growing-season-with-cold-frames-and-season-extension-techniques]] in moss-[[query-how-to-protect-plants-from-frost-and-extend-the-growing-season]].
 
 The Japanese Alps receive some of the heaviest snowfall in the world, with accumulations exceeding 5 m in sheltered valleys. This deep snow cover creates a stable thermal environment for overwintering plants.
 
@@ -74,7 +50,7 @@ The Japanese Alps receive some of the heaviest snowfall in the world, with accum
 
 Plants thrive in gritty, well-drained, humus-rich soil with neutral to slightly acidic pH. They are particularly well-suited to trough gardens, crevice plantings, and shaded rock walls.
 
-Propagation is by seed, [[query-which-cover-crops-are-best-for-breaking-hardpan-and-compacted-soil]] germinates best after cold stratification for 4–6 weeks. Seeds [[query-how-does-cover-cropping-benefit-soil-and-when-should-i-plant-them]] be surface-sown and kept moist until germination occurs in 3–5 weeks.
+Propagation is by seed, [[query-how-does-cover-cropping-benefit-soil-and-when-should-i-plant-them]] be surface-sown and kept moist until germination occurs in 3–5 weeks.
 
 The species self-seeds modestly in favorable conditions but is not invasive. Plants are longer-lived than many columbines, persisting 5–10 years in well-sited plantings.
 
@@ -82,12 +58,90 @@ Division is possible but challenging due to the deep, branching taproot. The com
 
 Plants pair well with other shade-loving rock garden subjects such as *Saxifraga*, *Asarum*, and small ferns. The glaucous foliage provides textural contrast even when not in flower.
 
-Slugs pose the primary pest threat, especially to emerging spring growth. Coarse grit mulch around the crown deters slug feeding and improves [[query-how-do-i-improve-soil-drainage-in-my-garden]].
+Slugs pose the primary pest threat, especially to emerging spring growth. Coarse grit mulch around the crown deters slug feeding and improves [[aquilegia-vulgaris]]
+- [[aquilegia-canadensis]]
 
-## Ecological Role
+## Overview
 
-In its native Japanese habitat, *Aquilegia flabellata* is pollinated by small bees and bee flies (Bombyliidae). The short, thick spurs are adapted to these shorter-tongued pollinators, unlike the hummingbird-adapted long spurs of American columbines.
+Aquilegia Flabellata represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish aquilegia flabellata
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving aquilegia extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Aquilegia Flabellata finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for aquilegia flabellata. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+aquilegia flabellata and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Aquilegia Flabellata has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of aquilegia flabellata into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
 
 ## See Also
-- [[aquilegia-vulgaris]]
+
+- [[aquilegia-alpina]]
+- [[aquilegia-caerulea]]
 - [[aquilegia-canadensis]]
+- [[aquilegia-chrysantha]]
+- [[aquilegia-vulgaris]]

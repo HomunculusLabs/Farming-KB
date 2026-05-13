@@ -12,7 +12,7 @@ Darwin was fascinated by the effects of light on plant growth. In his final book
 The Power of Movement in Plants (1880), he wrote: "There are extremely few plants,
 of which some part does not bend towards lateral light." The universal observation
 that plants bend toward light sources had been known since antiquity, but the
-mechanism remained entirely unknown. Darwin hypothesized that phototropism was not
+mechanism remained entirely unknown. Darwin hypothesized that [[phototropism]] was not
 related to photosynthesis but rather to some inherent light-sensing ability of the
 plant.
 
@@ -67,7 +67,7 @@ at all, proving that a signal travels from tip to bending zone.
 Taken together, these five conditions established the existence of a mobile signal
 that originates at the shoot tip in response to light perception and travels
 downward to cause asymmetric growth in the stem. This mobile signal was later
-identified as auxin (indole-3-acetic acid), the first plant hormone discovered.
+identified as auxin ([[indole]]-3-acetic acid), the first plant hormone discovered.
 Auxin accumulates on the shaded side of the stem, promoting cell elongation on
 that side and causing the plant to bend toward the light.
 
@@ -138,8 +138,6 @@ phototropic understanding relevant to optimizing grow room design.
 
 ## See Also
 
-- [[chamovitz-darwin-phototropism-experiment-canary-grass]]
 - [[canary-grass-phototropism-model-organism]]
-- [[blue-light-phototropism-red-light-photoperiodism-dual-plant-vision-system]]
 - [[chamovitz-julius-von-sachs-blue-light-phototropism]]
 - [[chamovitz-cryptochrome-blue-light-photoreception]]

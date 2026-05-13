@@ -10,8 +10,7 @@ sources: [raw/papers/harner-j-hallucinogens-and-shamanism.md]
 The relationship between psychoactive substances and spiritual practice extends
 across virtually every human culture and spans thousands of years. Psychedelic
 compounds have served as sacraments, divinatory tools, and catalysts for mystical
-experience in traditions ranging from the ancient [[mckenna-food-of-the-gods-kykeon-and-eleusinian-mysteries]] to
-contemporary [[metzner-amazonian-ayahuasca-ceremonies-icaros-and-healing-methods]] in the Amazon basin. Understanding this
+experience in traditions ranging from the ancient [[metzner-amazonian-ayahuasca-ceremonies-icaros-and-healing-methods]] in the Amazon basin. Understanding this
 relationship is essential for grasping why psychedelics continue to provoke such
 intense fascination, controversy, and scientific inquiry.
 
@@ -67,7 +66,7 @@ seeds and copper braziers found in direct association.
 ## Modern Psychedelic Spirituality
 
 The 20th century saw the emergence of distinctly modern forms of psychedelic
-spirituality. Aldous Huxley described the mystical experience induced by
+spirituality. Aldous Huxley described the [[mystical-experience]] induced by
 mescaline as revealing "the Mind at Large" — a perspective that profoundly
 influenced both the counterculture and the scientific study of consciousness.
 His writings suggested that ordinary waking consciousness is a reduction of a
@@ -75,16 +74,7 @@ vast awareness, filtered through the limiting valve of the brain and nervous
 system, and that psychedelics temporarily disable this filtering mechanism.
 
 Timothy Leary and Richard Alpert (Ram Dass) popularized the concept of set and
-setting as the primary determinants of [[leary-psychedelic-experience-bardo-mapping]], emphasizing that
-the same compound could produce either mystical revelation or psychological crisis
-depending on context, intention, and environment. The psychedelic churches and
-communities that emerged in the 1960s represent ongoing attempts to integrate
-psychedelic experience within religious frameworks, often drawing on both
-indigenous traditions and modern psychological understanding.
-
-## Psychedelics and Mystical Experience
-
-Modern [[hofmann-lsd-clinical-research-early-studies]] has formalized the connection between psychedelics and
+setting as the primary determinants of [[hofmann-lsd-clinical-research-early-studies]] has formalized the connection between psychedelics and
 mystical-type experiences. The [[early-paris-psilocybin-research-1960s]] program at Johns Hopkins
 developed validated scales (the Mystical Experience Questionnaire) to quantify
 psychedelic experiences that participants rate as among the most meaningful of

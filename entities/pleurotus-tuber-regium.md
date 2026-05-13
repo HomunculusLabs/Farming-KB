@@ -18,19 +18,9 @@ sources:
   - Oso B.A. (1977). "Pleurotus tuber-regium (Fr.) Singer — Cultivation on Agricultural Wastes and the Fruiting Body Protein Content." Nigerian Journal of Plant Protection.
   - Okhuoya J.A., Okogun J.I. (1992). "Nutritional Value of Pleurotus tuber-regium (Fr.) Singer." Mushroom Science, 14(2), 405-410.
   - Akindahunsi A.A., Oyetayo F.L. (2006). "Nutritive and Antinutritive Evaluation of Pleurotus tuber-regium Sclerotium." Journal of Food Biochemistry, 30(1), 40-50.
-  - Jonathan S.G., Fasidi I.O. (2001). "Studies on Pleurotus tuber-regium (Fr.) Singer: [[shiitake-cultivation-on-sawdust]] and stamets-biological-efficiency-yield." Mycopathologia, 152(3), 153-157.
-  - Zhang M. et al. (2007). "Antitumor Polysaccharides from Mushrooms: A Review on Their Isolation Process, Structural Characteristics and Antitumor Activity." Trends in Food Science & Technology, 18(1), 4-19.
----
+  - Jonathan S.G., Fasidi I.O. (2001). "Studies on Pleurotus tuber-regium (Fr.) Singer: [[palmer-edible-mushrooms-north-america]] for producing large underground **sclerotia** — dense, nutrient-storage masses that can exceed 1 kg in weight.
 
-# Pleurotus tuber-regium
-
-## Overview
-
-**Pleurotus tuber-regium** (syn. *Lentinus tuber-regium*), commonly known as the king tuber oyster mushroom, is a tropical saprotrophic and facultative pathogenic basidiomycete fungus in the family Pleurotaceae. It is distinctive among [[palmer-edible-mushrooms-north-america]] for producing large underground **sclerotia** — dense, nutrient-storage masses that can exceed 1 kg in weight.
-
-The species is native to tropical and subtropical regions of Africa and Asia, where it has been used for centuries as both food and traditional medicine. The sclerotium is the primary part harvested in traditional practice, valued for its nutritional content and purported [[panax-ginseng]].
-
-In recent decades, *P. tuber-regium* has attracted research interest for its **immunomodulatory polysaccharides**, particularly β-glucans, which demonstrate anti-tumor and immune-enhancing activities in preclinical studies. It is also investigated as a candidate for **bioremediation** of agricultural [[tropical-mushroom-cultivation-agricultural-waste-substrates-poverty-alleviation]].
+The species is native to tropical and subtropical regions of Africa and Asia, where it has been used for centuries as both food and traditional medicine. The sclerotium is the primary part harvested in traditional practice, valued for its nutritional content and purported [[tropical-mushroom-cultivation-agricultural-waste-substrates-poverty-alleviation]].
 
 ## Taxonomy
 
@@ -62,12 +52,7 @@ The exterior is dark brown to black and rough-textured. The interior is firm and
 
 ## Distribution and Habitat
 
-*P. tuber-regium* is pantropical, found across sub-Saharan Africa (Nigeria, Cameroon, Ghana, Tanzania), South and Southeast Asia (India, Thailand, Malaysia), and parts of tropical [[guzman-psilocybin-mushrooms-south-america]]. It grows in both wild and semi-cultivated contexts.
-
-The species is primarily a **saprotroph** on dead wood, particularly fallen hardwood logs and stumps of tropical trees. It has also been documented as a **facultative root pathogen** of living trees, including *Terminalia* and *Afzelia* species, causing a white rot of the root system.
-
-Sclerotia develop underground at the base of colonized wood or in the soil adjacent to decomposing wood.
-They are typically found at depths of 10–30 cm in well-drained [[mollison-designers-pioneer-species-for-exhausted-tropical-soils]].
+*P. tuber-regium* is pantropical, found across sub-Saharan Africa (Nigeria, Cameroon, Ghana, Tanzania), South and Southeast Asia (India, Thailand, Malaysia), and parts of tropical [[mollison-designers-pioneer-species-for-exhausted-tropical-soils]].
 Formation is triggered by nutrient depletion and environmental stress, particularly drought conditions.
 
 ## Bioactive Compounds
@@ -88,3 +73,78 @@ In vitro and animal studies demonstrate several pharmacological activities:
 - **Immunomodulation:** Polysaccharide extracts activate macrophages, enhance natural killer (NK) cell activity, and stimulate cytokine production (TNF-α, IL-2, IFN-γ). The β-glucan fraction is primarily responsible.
 - **Anti-tumor activity:** Polysaccharide extracts inhibit growth of Sarcoma 180 and Ehrlich ascites tumors in murine models, with inhibition rates of 40–60%. Mechanisms include immune-mediated tumor cell lysis rather than direct cytotoxicity.
 - **Antioxidant activity:** Methanolic extracts show DPPH and ABTS radical scavenging activity, attributed to phenolic compounds.
+
+## Overview
+
+Pleurotus Tuber Regium represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish pleurotus tuber regium
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving pleurotus extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Pleurotus Tuber Regium finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for pleurotus tuber regium. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+pleurotus tuber regium and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Pleurotus Tuber Regium has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of pleurotus tuber regium into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and

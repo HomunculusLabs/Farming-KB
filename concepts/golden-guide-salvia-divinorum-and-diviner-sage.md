@@ -23,42 +23,14 @@ filtered for drinking.
 
 The plant is not known in the wild and rarely, if ever, develops from seed.
 The Mazatecs plant this mint vegetatively in remote mountain ravines, and
-most families use it as a drug when the [[mexican-sacred-mushrooms-indigenous-use-and-ethnobotany]] or [[golden-guide-morning-glory-and-ololiuqui]]
+most families use it as a drug when the [[golden-guide-morning-glory-and-ololiuqui]]
 seeds are scarce. It is commonly believed to be the hallucinogenic
 pipilzintzintli of the ancient Aztecs. Salvia divinorum belongs to the mint
 family, Labiatae (Lamiaceae), a large family that includes many well-known
-culinary and [[permaculture-plants-medicinal-herbs-healing]]. Within the genus Salvia, which contains
-approximately 700 species distributed worldwide, S. divinorum is unique in
-its psychoactive properties.
-
-The plant grows as a large perennial herb, reaching heights of over one
-meter in its cultivated habitat. It produces characteristic large, green,
-hairy leaves and square stems typical of the mint family. The flowers are
-white to blue-violet and grow in whorls on tall inflorescences. Its apparent
-inability to reproduce sexually from seed in the wild has led to speculation
-about its origins, with some researchers suggesting it may be a cultigen,
-a plant that has been propagated by humans for so long that it has lost the
-ability to reproduce naturally.
-
-## Mazatec Ceremonial Use
-
-The Mazatec Indians of Oaxaca, Mexico, are the primary users of Salvia
-divinorum. The plant is employed in divinatory rituals similar to those
-conducted with [[ethnobotanical-use-of-sacred-mushrooms-in-indigenous-cultures]] [[schultes-ololiuqui-and-morning-glory]] seeds. In these ceremonies,
-a curandera (shaman) typically leads the ritual, during which the patient
-consumes the prepared leaves. The curandera interprets the visions and
-experiences reported by the patient to diagnose illness, locate lost objects,
-or divine future events. The Mazatec use the plant as a backup or
-substitute when their preferred sacraments, [[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]] and
+culinary and [[ethnobotanical-use-of-sacred-mushrooms-in-indigenous-cultures]] [[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]] and
 ololiuqui seeds, are not available.
 
-The [[amanita-muscaria-preparation-methods]] are relatively simple. Fresh leaves may be chewed
-and held in the mouth, or the leaves may be ground and soaked in water to
-produce an infusion that is strained and drunk. The Mazatec typically
-conduct these ceremonies at night in a quiet setting, with the patient
-lying down after consuming the preparation. The experience is characterized
-by visions and altered perceptions that the curandera interprets within the
-framework of Mazatec cosmology and traditional [[blesching-cannabis-healing-practices-setting-intention-affirmations]].
+The [[blesching-cannabis-healing-practices-setting-intention-affirmations]].
 
 ## Connection to Aztec Pipilzintzintli
 
@@ -118,8 +90,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[salvia-divinorum]]
 - [[psilocybin]]
-- [[ololiuqui]]
 - [[permaculture]]
 - [[amanita]]

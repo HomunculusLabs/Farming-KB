@@ -14,13 +14,7 @@ Soil fungi are primary drivers of the terrestrial carbon cycle, mediating the
 decomposition of organic matter, the formation of stable soil carbon pools, and
 the flux of carbon dioxide between terrestrial ecosystems and the atmosphere.
 Understanding fungal contributions to carbon cycling is critical for predicting
-how ecosystems will respond to [[dighton-fungi-climate-change-feedback]] and for developing accurate
-global carbon models.
-
-## The Fungal Carbon Pump
-
-The concept of the "fungal carbon pump" parallels the microbial carbon pump
-described for [[fungal-biodiversity-marine-ecosystems-coastal-deep-sea]]. Fungi transform labile plant carbon inputs
+how ecosystems will respond to [[fungal-biodiversity-marine-ecosystems-coastal-deep-sea]]. Fungi transform labile plant carbon inputs
 into more recalcitrant forms that persist in soil for decades to centuries.
 This transformation occurs through several mechanisms: selective degradation
 of easily metabolized compounds, leaving resistant residues; production of
@@ -45,10 +39,7 @@ completely to CO2 and water. This pathway releases substantial carbon to the
 atmosphere but leaves behind mineral-associated organic matter with long
 residence times.
 
-Brown-rot fungi lack peroxidases and instead employ [[bioremediation-fenton-chemistry-brown-rot-fungi]] to
-depolymerize cellulose while partially modifying lignin into polyphenolic
-compounds. These residues form the basis of humus and contribute to long-term
-[[holmgren-soil-humus-carbon-storage-rebuilding]]. The brown-rot pathway is considered one of the primary
+Brown-rot fungi lack peroxidases and instead employ [[holmgren-soil-humus-carbon-storage-rebuilding]]. The brown-rot pathway is considered one of the primary
 mechanisms by which carbon is sequestered in forest soils.
 
 ## Mycorrhizal Carbon Dynamics

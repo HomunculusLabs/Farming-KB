@@ -11,21 +11,16 @@ Updated: 2026-04-18
 
 ## Overview
 
-The indigenous peoples of Siberia — particularly the Chukchi, Koryak, Itelmen, and Kamchadal peoples of the Kamchatka Peninsula and surrounding regions — practiced a centuries-old tradition of using [[wasson-mycophobia-mycophilia-theory]].
+The indigenous peoples of Siberia — particularly the Chukchi, Koryak, Itelmen, and Kamchadal peoples of the Kamchatka Peninsula and surrounding regions — practiced a centuries-old tradition of using [[allegro-colour-and-consistency-of-the-amanita-muscaria]] and contains the psychoactive compounds [[wasson-mycophobia-mycophilia-theory]]. Wasson contrasted the reverent, intentional use of psychoactive mushrooms by Siberian and Mesoamerican peoples with the fear and avoidance characteristic of Anglo-Saxon and Mediterranean European cultures. He argued that these two attitudes represented fundamentally different cultural responses to fungi that had shaped human history for millennia.
 
-Source: [[allegro-colour-and-consistency-of-the-amanita-muscaria]] and contains the psychoactive compounds [[amanita-muscaria-muscimol-ibotenic-acid-pharmacology]] and muscimol. Unlike the psilocybin-containing mushrooms used in Mesoamerica, the fly agaric's chemistry produces different effects — including sedation, euphoria, visual distortions, and in higher doses, delirium.
-
-The fly agaric forms [[wasson-mycophobia-mycophilia-theory]]. Wasson contrasted the reverent, intentional use of psychoactive mushrooms by Siberian and Mesoamerican peoples with the fear and avoidance characteristic of Anglo-Saxon and Mediterranean European cultures. He argued that these two attitudes represented fundamentally different cultural responses to fungi that had shaped human history for millennia.
-
-Wasson also famously proposed that [[allegro-amanita-muscaria-properties-and-pharmacology]] was the identity of the [[mckenna-vedic-soma-indo-european-mysteries]], the sacred drink of ancient India — a hypothesis explored in his book "Soma: Divine Mushroom of Immortality." While this theory remains debated, it brought worldwide scholarly and popular attention to the Siberian fly agaric tradition.
+Wasson also famously proposed that [[mckenna-vedic-soma-indo-european-mysteries]], the sacred drink of ancient India — a hypothesis explored in his book "Soma: Divine Mushroom of Immortality." While this theory remains debated, it brought worldwide scholarly and popular attention to the Siberian fly agaric tradition.
 
 ***
 
 ## Ecological and Distribution Notes
 
-Amanita muscaria has a circumboreal distribution, found across northern Europe, Asia, and [[psilocybin-north-america-pacific-northwest]]. Its association with [[amanita-muscaria-fly-agaric-history-and-pharmacology]] — Detailed history and pharmacology of the fly agaric
-- [[amanita-muscaria-drying-and-preparation]] — Traditional and modern preparation methods
-- aztec-mushroom-feasts-and-revelations — Parallel [[sacred-mushroom-traditions-in-mexico]] in Mesoamerica
+Amanita muscaria has a circumboreal distribution, found across northern Europe, Asia, and [[amanita-muscaria-fly-agaric-history-and-pharmacology]] — Detailed history and pharmacology of the fly agaric
+- [[sacred-mushroom-traditions-in-mexico]] in Mesoamerica
 - [[ectomycorrhizae-forest-life]] — The ecology of mycorrhizal associations with birch and pine
 ## Practical Applications
 

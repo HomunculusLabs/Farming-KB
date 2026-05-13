@@ -12,22 +12,8 @@ sources:
 
 ## Overview
 
-Garden vegetables benefit from the activities of both saprophytic and mycorrhizal mushrooms. [[growing-gourmet-saprophytic-mushrooms-decomposers]] decompose [[hamilton-composting-and-organic-matter-management]], recycle nutrients, and create soil structure. [[arbuscular-mycorrhizal-fungi-biology-symbiosis]] extend root systems, improve water uptake, and protect against disease. See also antiviral-properties-of-mushrooms.
-
-## The Mycelial Wave Method
-
-The preferred method for projecting mycelium across an expansive landscape:
-1. Create 2 parallel horizontal waves of mycelium combined with fragmented mycelium between layers
-2. Also called the "lasagna method"
-3. Mycelial planes and fragments seek each other and connect, strengthening the organism
-4. Once a mycelial wave begins, cellular momentum crosses inhospitable barriers
-5. You can steer mycelium through an ecosystem by incorporating its favored debris into your landscape design
-
-## Garden Giant (Stropharia rugoso-annulata) king-stropharia-wine-cap-cultivation
-- vitamin-d-from-sun-exposed-mushrooms
-- [[medicinal-mushroom-extraction-preparation]]
+Garden vegetables benefit from the activities of both saprophytic and mycorrhizal mushrooms. [[hamilton-composting-and-organic-matter-management]], recycle nutrients, and create soil structure. [[medicinal-mushroom-extraction-preparation]]
 - mycorestoration
-- [[companion-planting-with-fungi]]
 - [[root-anatomy-structure-and-nutrient-uptake]]
 ## Practical Applications
 
@@ -97,8 +83,6 @@ through generations to modern scientific approaches, the evolution continues
 to inform current best practices and research directions.
 
 ## See Also
-- [[mycorrhizal-mushrooms]]
 - [[doc]]
-- [[det]]
 - [[composting]]
 - [[paul-stamets]]

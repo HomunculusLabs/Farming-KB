@@ -89,13 +89,7 @@ all influence the optimal approach to implementation.
 
 ## See Also
 
-- [[fukuoka-california-desertification-myth-natural-aridity]]
 - [[fukuoka-california-foxtail-greening-discovery]]
-- [[fukuoka-lundberg-natural-rice-california]]
 - [[permaculture-beginners-guide-food-forests-introduction]]
-- [[wind-effects-on-trees-and-forests]]
-
-## See Also
 - [[mollison-rain-interception-and-throughfall-in-forests]]
-- [[bill-mollison-permaculture-a-designers-manual-forest-gardens-and-food-forests]]
 - [[mollison-designers-gallery-forests-and-valley-bottomland-systems]]

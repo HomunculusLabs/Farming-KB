@@ -24,39 +24,18 @@ in the Americas.
 
 ## Pre-Columbian Use
 
-The use of [[mexican-sacred-mushrooms-indigenous-use-and-ethnobotany]] in Mesoamerica extends back at least
-3,000 years.
-Archaeological evidence from Guatemala includes "[[mckenna-mushroom-stones-of-guatemala]]"
+The use of [[mckenna-mushroom-stones-of-guatemala]]"
 dating to
 approximately 1000 B.C., which are interpreted as ceremonial objects
 associated
-with a [[african-mushroom-cult-history]]. These stone sculptures, depicting stylized
-mushroom forms
-with human or animal faces beneath the cap, have been found
-throughout the
-highlands of Guatemala, Mexico, and El Salvador.
-
-The Aztecs used teonanacatl in religious ceremonies alongside other
-sacred
-plants including [[peyote-ceremony]]), and [[mazatec-mushroom-tradition]]
-for the
-living tradition.
-
-## Rediscovery
-
-The modern rediscovery of teonanacatl began with the fieldwork of
-American
-anthropologist Jean Basset Johnson in 1938, who observed the use of
-"[[emcdda-hallucinogenic-mushrooms-emerging-trend-europe]]" among the Mazatec of Huautla de Jimenez.
+with a [[peyote-ceremony]]), and [[emcdda-hallucinogenic-mushrooms-emerging-trend-europe]]" among the Mazatec of Huautla de Jimenez.
 Johnson's
 research was cut short by his death in World War II.
 
 The definitive rediscovery came through R. Gordon Wasson, who
 traveled to
 Huautla de Jimenez in 1955 and 1956. Wasson participated in a mushroom
-velada conducted by the Mazatec curandera [[shroom-cultural-history-maria-sabina-and-mazatec-tradition]]. His 1957
-article in
-Life magazine, "Seeking the [[australian-magic-mushroom-common-names]]," brought the sacred
+velada conducted by the Mazatec curandera [[australian-magic-mushroom-common-names]]," brought the sacred
 mushrooms to
 worldwide attention.
 
@@ -91,3 +70,80 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
+
+## Overview
+
+Teonanacatl History represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish teonanacatl history
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving teonanacatl extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Teonanacatl History finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for teonanacatl history. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+teonanacatl history and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Teonanacatl History has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of teonanacatl history into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.

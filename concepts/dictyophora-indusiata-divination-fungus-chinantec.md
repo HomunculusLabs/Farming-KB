@@ -9,7 +9,7 @@ topic: ethnomycology
 
 ## Overview
 
-Dictyophora indusiata (syn. Phallus indusiatus), commonly known as the veiled stinkhorn, long-net stinkhorn, or bamboo mushroom, is a striking tropical and subtropical basidiomycete fungus notable for its elaborate net-like skirt (indusium) that hangs from beneath the cap. While not a psilocybin-containing species, D. indusiata holds a significant place in the ethnomycological literature as a fungus used for divination purposes among the Chinantec Indians of Oaxaca, Mexico.
+[[dictyophora-indusiata]] (syn. Phallus indusiatus), commonly known as the veiled stinkhorn, long-net stinkhorn, or bamboo mushroom, is a striking tropical and subtropical basidiomycete fungus notable for its elaborate net-like skirt (indusium) that hangs from beneath the cap. While not a psilocybin-containing species, D. indusiata holds a significant place in the ethnomycological literature as a fungus used for divination purposes among the Chinantec Indians of Oaxaca, Mexico.
 
 Guzmán, Allen, and Gartz (2000) documented three forms of this species (following Guzmán et al., 1990), all of which are used as special "narcotic" fungi for divination purposes. The fungus was first reported in this context by Heim and Wasson (1958) and Wasson (1959a), making it one of the earlier non-Psilocybe sacred fungi documented in Mexico.
 
@@ -23,7 +23,7 @@ Dictyophora indusiata belongs to the family Phallaceae (order Phallales) within 
 - **Indusium (veil/skirt)** — a lacy, net-like structure that hangs from the cap to near the base, giving the fungus its common name
 - **Gleba** — a dark, olive-green, foul-smelling spore mass on the cap surface
 
-The indusium is the most distinctive feature — a delicate, white, net-like skirt that can extend 10-20 cm below the cap. In some specimens, the skirt can reach the ground, creating a truly dramatic appearance. The gleba produces a strong, putrid odor that attracts flies and other insects for spore dispersal.
+The indusium is the most distinctive feature — a delicate, white, net-like skirt that can extend 10-20 cm below the cap. In some specimens, the skirt can reach the ground, creating a truly dramatic appearance. The gleba produces a strong, putrid odor that attracts flies and other insects for [[spore-dispersal]].
 
 The three forms recognized by Guzmán et al. (1990) vary in the characteristics of the indusium, stipe dimensions, and cap morphology. These forms may represent ecological variants or distinct populations adapted to different microhabitats within the Chinantec territory.
 
@@ -114,8 +114,6 @@ The documentation of D. indusiata as a divination fungus among the Chinantec is 
 
 ## See Also
 
-- [[guzman-allen-gartz-sacred-puffballs-gasteromycetes-indigenous-cultures]]
 - [[guzman-allen-gartz-sacred-non-psilocybin-fungi-polypores-boletes-puffballs]]
-- [[stinkhorn-fungi-and-insect-spore-dispersal]]
 - [[stinkhorn-fungi-morphology-and-ecology]]
 - [[traditional-indigenous-use-sacred-fungi]]

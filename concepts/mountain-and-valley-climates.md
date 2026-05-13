@@ -6,7 +6,7 @@ type: concept
 
 # Mountain and Valley Climates
 
-Mountain and valley systems create some of the most dynamic and varied microclimates on Earth. Understanding these climate patterns is essential for [[permaculture-design]] in elevated terrain, as altitude, slope, and valley geometry interact to produce conditions that differ dramatically from surrounding lowlands. The designer who reads these patterns can place elements with precision, avoiding frost pockets, capitalizing on thermal advantages, and working with natural air and water flows rather than against them. This page covers the major climatic phenomena found in mountain and valley systems, drawn from [[bill-mollison]]'s *Permaculture: A Designers Manual*, and translated into practical design guidance.
+Mountain and valley systems create some of the most dynamic and varied microclimates on Earth. Understanding these climate patterns is essential for [[bill-mollison]]'s *Permaculture: A Designers Manual*, and translated into practical design guidance.
 
 ## Altitude Effects
 
@@ -88,7 +88,7 @@ Valleys and wadis are among the most productive growing environments in arid lan
 
 - **Protection from wind damage**: Valley walls and topography shield plants from both ice-blast (in cold deserts) and sand-blast (in hot deserts), reducing physical damage to vegetation. Wind abrasion is one of the most limiting factors for plant growth in open desert, and valley walls provide critical protection.
 
-- **Wadis** (dry desert stream channels) concentrate any available water — from infrequent rains, flash floods, or subsurface flow — making them the preferred and often the only viable growing sites for desert agriculture. Permaculture design in deserts should prioritize wadi and valley systems as primary zones for food production and water harvesting. Traditional desert agriculture worldwide — from the Negev to the Sahara to the American Southwest — is concentrated in valley and wadi systems for precisely these reasons.
+- **Wadis** (dry desert stream channels) concentrate any available water — from infrequent rains, flash floods, or subsurface flow — making them the preferred and often the only viable growing sites for desert agriculture. [[permaculture-design]] in deserts should prioritize wadi and valley systems as primary zones for food production and water harvesting. Traditional desert agriculture worldwide — from the Negev to the Sahara to the American Southwest — is concentrated in valley and wadi systems for precisely these reasons.
 
 ## Key Takeaways
 
@@ -124,6 +124,5 @@ these climatic principles suggest several key strategies:
 10. **Read cloud patterns** as indicators of valley-scale air movement and moisture availability when surveying potential sites.
 
 ## See Also
-- [[mollison-valley-and-mountain-climate-effects]]
 - [[valley-climates-permaculture]]
 - [[landscape-effects-of-altitude-and-valley-climates]]

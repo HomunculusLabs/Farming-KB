@@ -21,70 +21,98 @@ created: 2026-05-07
 
 ## Overview
 
-*Laccaria ochropurpurea* is a basidiomycete fungus in the family Hydnangiaceae, commonly known as the purple laccaria or purple-gilled laccaria. It is an ectomycorrhizal associate primarily of oaks and other hardwoods in [[polypore-fungi-eastern-north-america]] America.
-
-The species is notable for its large size within the genus, reaching pileus diameters of 10–15 cm, making it one of the most robust Laccaria species. Despite being edible, it is not widely collected for the table due to its fibrous texture.
-
-## Taxonomy
-
-- **Kingdom:** Fungi
-- **Division:** Basidiomycota
-- **Class:** Agaricomycetes
-- **Order:** Agaricales
-- **Family:** Hydnangiaceae
-- **Genus:** *Laccaria*
-- **Species:** *L. ochropurpurea* (Berk.) Peck (1878)
-
-**Basionym:** *Agaricus ochropurpureus* Berk. (1872)
-
-The epithet *ochropurpurea* refers to the ochre cap color combined with purple gill pigmentation, which distinguishes it from the predominantly pinkish tones of other Laccaria species.
-
-## Morphology
-
-**Pileus:** 5–15 cm diameter, convex becoming plano-convex with a depressed center.
-
-Surface is dry to subviscid, smooth to slightly scaly, ochraceous-brown to tawny at maturity.
-
-Margin is incurved in young specimens, becoming uplifted and often wavy with age.
-
-**Lamellae:** Adnexed to sinuate, subdistant, purple to lilac when young.
-
-Gills become pinkish-brown in age from spore deposition, with distinctive purplish tones persisting longest near the stipe.
-
-**Stipe:** 6–14 cm long, 1–2.5 cm thick, equal to slightly clavate at the base.
-
-Surface is fibrillose to scaly, white to pale lilac above the annular zone, darkening below with age.
-
-**Spores:** Globose to subglobose, 7–9 × 6.5–8 µm, echinulate with prominent spines.
-
-Spore print is white to pale pinkish.
-
-## Distribution and Habitat
-
-*L. ochropurpurea* is found across eastern [[guzman-psilocybin-mushrooms-north-america]] from southeastern Canada through the eastern United States, extending west to the Great Plains.
+*Laccaria ochropurpurea* is a basidiomycete fungus in the family Hydnangiaceae, commonly known as the purple laccaria or purple-gilled laccaria. It is an ectomycorrhizal associate primarily of oaks and other hardwoods in [[guzman-psilocybin-mushrooms-north-america]] from southeastern Canada through the eastern United States, extending west to the Great Plains.
 
 Fruiting occurs from mid-summer through autumn, often in association with oak-hickory forests, mixed hardwood stands, and occasionally conifer plantations.
 
-The species forms [[ectomycorrhizal-associations]] primarily with *Quercus* spp. (oaks), but has also been documented with *Fagus* (beech), *Carya* (hickory), and *Pinus* (pine).
+The species forms [[arbuscule-isolation-and-nutrient-exchange-mechanisms]] with host trees, enhancing phosphorus and nitrogen uptake.
 
-It favors well-drained sandy or loamy soils in mature forest stands.
+The species contributes to soil aggregation through hyphal networks and is considered a moderate to good mycorrhizal colonizer in [[bloomfield-fairy-rings-armillaria-giant-fungi]].
 
-## Ecology
-
-As an ectomycorrhizal fungus, *L. ochropurpurea* facilitates [[arbuscule-isolation-and-nutrient-exchange-mechanisms]] with host trees, enhancing phosphorus and nitrogen uptake.
-
-The species contributes to soil aggregation through hyphal networks and is considered a moderate to good mycorrhizal colonizer in [[arbuscular-mycorrhizal-fungi-in-tropical-forest-restoration]] contexts.
-
-It is one of the more prominent Laccaria species in oak-dominated ecosystems, often fruiting in scattered groups or [[bloomfield-fairy-rings-armillaria-giant-fungi]].
-
-Slugs and various insect larvae feed on the [[bloomfield-asterophora-and-mycoparasites-of-fruiting-bodies]].
-
-The species is relatively resilient to moderate habitat disturbance and can persist in second-growth forests, making it a useful indicator of recovering ectomycorrhizal communities.
-
-## Chemistry
-
-The genus *Laccaria* produces several bioactive metabolites including laccarin (a fluorescent pigment) and various sesquiterpenes.
-
-*L. ochropurpurea* accumulates moderate levels [[fungal-biosorption-of-heavy-metals-by-filamentous-fungi]] from soil, particularly cadmium and lead, which may limit its edibility in contaminated sites.
+Slugs and various insect larvae feed on the [[fungal-biosorption-of-heavy-metals-by-filamentous-fungi]] from soil, particularly cadmium and lead, which may limit its edibility in contaminated sites.
 
 No significant toxic compounds have been isolated from this species.
+
+## Overview
+
+Laccaria Ochropurpurea represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish laccaria ochropurpurea
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving laccaria extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Laccaria Ochropurpurea finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for laccaria ochropurpurea. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+laccaria ochropurpurea and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Laccaria Ochropurpurea has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of laccaria ochropurpurea into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[laccaria-amethystea]]
+- [[laccaria-amethystina]]
+- [[laccaria-bicolor]]
+- [[laccaria-laccata]]

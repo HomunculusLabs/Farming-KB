@@ -11,15 +11,7 @@ type: concept
 
 # BOH (beta-Methoxy-3,4-methylenedioxyphenethylamine)
 
-**[[2c-b-pihkal-entry-20]] #15**
-
-## Chemical Identity
-
-- **Full name:** beta-Methoxy-3,4-methylenedioxyphenethylamine
-- **Class:** Phenethylamine (beta-methoxy derivative of MDPEA;
-  member of the BOX family)
-- **Molecular formula:** C10H13NO3 (free base)
-- **Hydrochloride salt:** fine white [[shirota-psilocybin-crystalline-product-catalytic-hydrogenolysis]]
+**[[shirota-psilocybin-crystalline-product-catalytic-hydrogenolysis]]
   - Hydrate form: mp 105-106.5 °C (with bubbling and darkening)
   - Anhydrous form: mp 152-153 °C (from CH3CN or heating to
     100 °C in toluene)
@@ -90,7 +82,6 @@ The demethylated homologue, BOHH, is the methylenedioxy
 analogue of norepinephrine itself and might hydrolytically open
 
 ## See Also
-- [[2c-t-pihkal-entry-39]]
 - [[bob-pihkal-entry-13]]
 
 ## Practical Applications
@@ -122,8 +113,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[psilocybin]]
 - [[bis-tom-pihkal-entry-12]]
-- [[pihkal-entry-46]]
 - [[2c-c-pihkal-entry-22]]
 - [[bob-pihkal-entry-13]]

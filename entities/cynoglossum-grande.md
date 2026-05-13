@@ -102,12 +102,8 @@ No significant medicinal or pharmacological applications have been documented fo
 
 ## See Also
 
-- [[cynoglossum-officinale]]
 - [[borago-officinalis]]
-- [[echium-vulgare]]
 - [[myosotis-sylvatica]]
-- [[pulmonaria-officinalis]]
 - [[lithospermum-officinale]]
-- [[mertensia-virginica]]
 - [[anchusa-azurea]]
 - [[heliotropium-europaeum]]

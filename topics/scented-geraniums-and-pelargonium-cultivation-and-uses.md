@@ -11,7 +11,7 @@ sources:
 
 # Scented Geraniums and Pelargonium Cultivation and Uses
 
-Scented geraniums—botanically *Pelargonium* species and their hybrids—are among the most versatile and underappreciated plants in the home garden and [[holzer-permaculture-landscape-design]]. Despite their common name, they are not true geraniums (*Geranium* spp., cranesbills) but belong to the Geraniaceae family alongside their distant cousins. Native primarily to southern Africa, these aromatic plants have been cultivated for centuries for their [[essential-oils-and-hydrosol-distillation]], culinary applications, medicinal properties, and ornamental value.
+Scented geraniums—botanically *Pelargonium* species and their hybrids—are among the most versatile and underappreciated plants in the home garden and [[essential-oils-and-hydrosol-distillation]], culinary applications, medicinal properties, and ornamental value.
 
 ## Taxonomy and Origins
 
@@ -88,8 +88,6 @@ Full sun (6–8 hours) produces the most compact growth and highest essential oi
 
 Well-drained soil is non-negotiable. Scented geraniums are highly susceptible to root rot in heavy, waterlogged soils.
 
-- **[[garden-soil-terminology-glossary]]**: Sandy loam amended with perlite or coarse sand; pH 6.0–7.0
-- **Containers**: Potting mix with 30–40% perlite or pumice; terracotta pots preferred for drainage
 - **[[raised-beds-vs-in-ground-vs-containers]]**: Excellent option in clay-heavy soils
 
 ### Watering
@@ -101,8 +99,7 @@ Allow the top inch of soil to dry between waterings. Overwatering is the most co
 These are light feeders. Excess nitrogen produces lush but scentless foliage.
 
 - **In-ground**: Side-dress with compost in spring; no additional fertilizer typically needed
-- **Containers**: Balanced [[jadam-liquid-fertilizer-nutritional-perspective]] (5-5-5 or similar) at half strength every 4–6 weeks during the growing season
-- **Avoid**: High-nitrogen fertilizers that promote [[cannabis-vegetative-growth-stage]] at the expense of essential oil production
+- **Containers**: Balanced [[cannabis-vegetative-growth-stage]] at the expense of essential oil production
 
 ### Propagation
 
@@ -110,40 +107,6 @@ These are light feeders. Excess nitrogen produces lush but scentless foliage.
 1. Take 3–4 inch cuttings from non-flowering stems in spring or late summer
 2. Remove lower leaves, leaving 2–3 nodes
 3. Dip cut end in rooting hormone (optional but improves success rate)
-4. Stick into moist perlite, sand, or [[seed-starting-methods-comparison]] mix
-5. Maintain high humidity (humidity dome or plastic bag) and bright indirect light
-6. Roots form in 2–4 weeks; transplant when roots are 1–2 inches long
-
-#### Seed
-Most scented cultivars don't come true from seed. Species pelargoniums (*P. tomentosum*, *P. crispum*) can be grown from seed, which requires a light pre-chill (stratification) for 2–4 weeks at 40°F before sowing. Germination is irregular over 2–6 weeks at 70°F.
-
-### Pruning and Maintenance
-
-Regular pinching encourages bushy, compact growth. Pinch stem tips every few weeks during the growing season. Remove spent flower stalks to direct energy into foliage production (the leaves, not flowers, are the primary harvest).
-
-Hard prune in early spring before new growth begins, cutting back by one-third to one-half. This rejuvenates leggy plants and stimulates fresh basal growth.
-
-### Overwintering
-
-In cold climates, bring plants indoors before first frost. Options include:
-
-1. **As houseplants**: Place in bright windows; reduce watering and stop fertilizing
-2. **Dormant storage**: Prune back hard, store in cool (45–55°F), dark basement; water monthly to prevent complete desiccation
-3. **Take cuttings**: Root fresh cuttings in fall to overwinter as smaller plants
-
-## Pests and Diseases
-
-### Common Pests
-- **Whiteflies**: Tiny white insects on leaf undersides; yellow sticky traps and insecticidal soap
-- **Aphids**: Clustered on new growth; jet of water or neem oil
-- **Spider mites**: Fine webbing, stippled leaves; increase humidity, miticide sprays
-- **Mealybugs**: White cottony masses at leaf nodes; alcohol swab treatment
-- **Caterpillars**: Occasional chewing damage; handpick or Bt spray
-
-### Common Diseases
-- **Root rot** (*Pythium*, *Phytophthora*): Caused by overwatering; improve drainage immediately
-- **Botrytis blight**: Gray mold in humid, poorly ventilated conditions; improve airflow
-- **Pelargonium rust**: Orange pustules on leaf undersides; remove affected leaves, avoid overhead watering
-- **Edema**: Corky bumps on leaves from inconsistent watering; stabilize [[cannabis-watering-schedule-and-frequency]]
+4. Stick into moist perlite, sand, or [[cannabis-watering-schedule-and-frequency]]
 
 ## Culinary Uses

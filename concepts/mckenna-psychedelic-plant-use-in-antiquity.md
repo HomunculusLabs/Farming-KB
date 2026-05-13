@@ -10,25 +10,13 @@ tags: [plants, psychedelics]
 
 # McKenna on Psychedelic Plant Use in Antiquity
 
-In [[psychedelic-mushroom-set-and-setting]]
-constructs a sweeping narrative of humanity's relationship to psychoactive
-plants from prehistory through classical antiquity. He argues that all natural
-narcotics, stimulants, relaxants, and hallucinogens were discovered by
-primitive peoples and have been in use from time immemorial. One of the first
-things Homo sapiens did with newly developed rationality and self-consciousness
-was to seek ways to bypass analytical thinking and transcend or temporarily
-obliterate the isolating awareness of the self.
-
-## The Archaic Period: Mushroom Religion
-
-McKenna traces psychedelic plant use to the Late Neolithic [[mckenna-tassili-plateau-round-head-civilization]] in the Sahara provides archaeological evidence: rock paintings from
+In [[mckenna-tassili-plateau-round-head-civilization]] in the Sahara provides archaeological evidence: rock paintings from
 the late Neolithic depict shamans dancing with fists full of mushrooms,
 mushrooms sprouting from their bodies, running joyfully surrounded by geometric
 hallucination structures. At Matalen-Amazar and Ti-n-Tazarift, the dancing
 shamans clearly have mushrooms in their hands.
 
-Similar imagery appears in pre-Columbian Peruvian textiles. At [[mckenna-ur-plant-hypothesis]] identifies
-[[mckenna-stropharia-cubensis-extraterrestrial-hypothesis-spore-dispersal]] as the original psychedelic at the center of this
+Similar imagery appears in pre-Columbian Peruvian textiles. At [[mckenna-stropharia-cubensis-extraterrestrial-hypothesis-spore-dispersal]] as the original psychedelic at the center of this
 religion. McKenna argues this relationship between human beings, cattle, and
 mushrooms -- a quasi-symbiotic relationship no more than a million years old
 -- gave us the model for all religions to follow. When the knowledge of the
@@ -37,46 +25,93 @@ with nature for its rape, poetry for the sophistry of science.
 
 ## Minoan Crete: Twilight in Eden
 
-McKenna identifies [[mckenna-dionysian-cults-and-suppression-of-ecstasy]] cult,
-entering Greece from the south with roots deep in the mushroom Mother Goddess
-religion, carried forward the tradition of ecstatic intoxication by indole
-hallucinogens.
-
-## The Eleusinian Mysteries
-
-The [[mckenna-ergot-and-witches-sabbath-theory]]. Later, Wasson, Hofmann, and Ruck proposed the [[mckenna-vedic-soma-indo-european-mysteries]]
-enigma, surveying candidates including the Wassons' [[allegro-amanita-muscaria-properties-and-pharmacology]] theory,
-[[mckenna-food-gods-peganum-harmala-soma]] as Soma, and ultimately favoring Stropharia cubensis or a
-conspecific coprophilic mushroom. The Indo-European encounter with psychedelic
-mushrooms, he argues, gave rise to the entire Soma/Haoma complex of religious
-practice. When S. cubensis was first encountered by the Indo-Europeans upon
-reaching the Indus Valley, the tradition could potentially be traced
-unbroken back to the African grasslands.
-
-## The Fall: From Partnership to Dominator
-
-McKenna frames the suppression of psychedelic plant use as the central
-tragedy of Western civilization. Between roughly 5000 and 3000 B.C.,
-patriarchal invaders suppressed the partnership societies and their
-open-ended investigation of nature carried on by shamans. The Archaic
-tradition was replaced by dogma, priestcraft, patriarchy, and warfare.
-[[mckenna-amazon-shamanism-and-ayahuasca]] traditions and the Oaxacan [[african-mushroom-cult-history]] (three millennia old)
-represent unbroken lineages of Archaic psychedelic practice. As late as the
-Middle Ages, European witches still sat on the Hag -- the fence between
-As late as the Middle Ages, European witches still sat on the Hag -- the fence
-between village and wilderness -- participating in both worlds. They had
-become semi-demonic figures, representing what was being expelled from culture
-only to return, distorted, in the night. That these plants were the basis
-for entry into other dimensions was the result of the relative paucity in
-Europe of hallucinogen-containing species.
-
-## The Indole Hallucinogen Families
-
-McKenna identifies four [[four-families-of-indole-hallucinogens]] hallucinogens central to this
-history: the LSD-type compounds (from [[sacred-mexican-morning-glories-ololiuqui-and-tlitliltzin]] and ergot), the
-tryptamine family (DMT and psilocybin), the beta-carboline group
-(harmine/harmaline), and the iboga-type compounds. The [[mckenna-abandonment-of-the-mystery]]
-- [[mckenna-nostalgia-for-paradise]]
+McKenna identifies [[mckenna-ergot-and-witches-sabbath-theory]]. Later, Wasson, Hofmann, and Ruck proposed the [[allegro-amanita-muscaria-properties-and-pharmacology]] theory,
+[[mckenna-amazon-shamanism-and-ayahuasca]] traditions and the Oaxacan [[four-families-of-indole-hallucinogens]] hallucinogens central to this
+history: the LSD-type compounds (from [[mckenna-abandonment-of-the-mystery]]
 - [[mckenna-eleusinian-mysteries]]
-- [[mckenna-new-world-mushroom-rediscovery]]
 - [[mckenna-four-families-of-indole-hallucinogens]]
+
+## Overview
+
+Mckenna Psychedelic Plant Use In Antiquity represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish mckenna psychedelic plant use in antiquity
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving mckenna extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Mckenna Psychedelic Plant Use In Antiquity finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for mckenna psychedelic plant use in antiquity. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+mckenna psychedelic plant use in antiquity and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Mckenna Psychedelic Plant Use In Antiquity has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of mckenna psychedelic plant use in antiquity into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[mckenna-alcohol-vs-psychedelics-dominator-cultures]]
+- [[mckenna-ayahuasca-healing-icaros-sound-suggestion]]
+- [[mckenna-genesis-first-drug-bust]]
+- [[mckenna-myth-of-glaukos-honey-death-resurrection-minoan-religion]]
+- [[mckenna-teonanacatl-franciscan-theophagy-suppression]]

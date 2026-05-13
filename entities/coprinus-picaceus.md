@@ -33,23 +33,14 @@ The taxonomy of the coprinoid fungi has undergone significant revision. The genu
 
 ### Basidiocarps
 - **Cap:** 4 to 8 cm in height when young, ovate to cylindrical, expanding with age. The cap surface is covered with prominent, recurved, dark brown to black scales over a grayispore-dispersalackground. This contrasting pattern gives rise to the common name "magpie inkcap"
-- **Gills:** Very crowded, free from the stipe, initially white but becoming black as the spores mature. The gills deliquesce (dissolve into an inky liquid) from the margin downward, facilitating [[soil-foodweb]] and their nitrogen sources. Saprotrophic fungi typically have higher d15N values than [[malt-extract-agar]], or potato dextrose agar, but may require specific conditions to produce fruiting bodies
+- **Gills:** Very crowded, free from the stipe, initially white but becoming black as the spores mature. The gills deliquesce (dissolve into an inky liquid) from the margin downward, facilitating [[malt-extract-agar]], or potato dextrose agar, but may require specific conditions to produce fruiting bodies
 - **Fruiting Induction:** Some coprinoid fungi require specific environmental triggers for basidiocarp development, including changes in temperature, light exposure, and substrate composition. Fruiting in culture is often erratic
 - **Spore Germination:** Basidiospores can be germinated on nutrient-poor agar media. The presence of compatible mating types is required for completion of the sexual cycle
 - **Microscopic Identification:** Features including spore size and shape, presence of a germ pore, cheilocystidia and pleurocystidia morphology, and pileipellis structure are diagnostic. Melzer's reagent and KOH mounts are standard
-- **[[biodiversity-fungal-molecular-identification-dna-barcoding]]:** ITS rDNA sequencing provides reliable species-level identification. LSU rDNA and TEF1-alpha gene regions are also useful for phylogenetic studies within the Psathyrellaceae
-
-## Conservation Status and Environmental Concerns
-
-- **Habitat Sensitivity:** *C. picaceus* is associated with unimproved calcareous grasslands and ancient woodlands, habitats that have declined significantly across Europe due to agricultural intensification, afforestation, and urban development
-- **Soil Disturbance:** Plowing, liming, and application of [[ingham-inorganic-fertilizers-soil-biology-damage]] to calcareous grasslands can reduce populations of *C. picaceus* and other saprotrophic fungi by altering soil chemistry and organic matter availability
+- **[[ingham-inorganic-fertilizers-soil-biology-damage]] to calcareous grasslands can reduce populations of *C. picaceus* and other saprotrophic fungi by altering soil chemistry and organic matter availability
 - **Bioindicator Potential:** The presence or absence of *C. picaceus* and other grassland fungi has been proposed as an indicator of habitat quality and continuity in calcareous grassland monitoring programs
-- **[[dighton-fungi-climate-change-feedback]]:** Changes in precipitation patterns and temperature regimes may affect [[macrofungal-fruiting-phenology-climate-variability]] and the suitability of current habitats for *C. picaceus* and related species
-- **[[dighton-nitrogen-deposition-mycorrhizal-community-shifts]]:** Elevated atmospheric nitrogen deposition from agricultural and industrial sources can alter the competitive balance between fungal species in calcareous grasslands, potentially favoring nitrophilic species over specialist fungi like *C. picaceus*
-
-## See Also
-
-- [[saprotrophic-fungi]]
+- **[[macrofungal-fruiting-phenology-climate-variability]] and the suitability of current habitats for *C. picaceus* and related species
+- **[[saprotrophic-fungi]]
 ## Practical Considerations
 
 When working with Coprinus picaceus, several practical factors should be

@@ -10,18 +10,8 @@ related: [grass-seed-as-mushroom-substrate, exotic-cultivation-flush-management-
 # Mushroom Casing Soil Recipes and Preparation
 
 A casing layer is a non-nutritive layer of material applied on top of
-fully colonized substrate to induce and support [[bacteria-and-microorganisms-in-mushroom-fruiting]]. The casing
-provides a humid microclimate at the substrate surface, protects the mycelium
-from drying, and serves as a water reservoir that mushrooms draw from during
-development. Unlike the substrate itself, the casing contains minimal
-nutrients — its role is environmental, not nutritional.
-
-## Why Casing is Necessary
-
-Many mushroom species, including *[[brassinosteroid-growth-promotion-psilocybe-cubensis]]*, *P. mexicana*, and
-*[[gartz-panaeolus-subbalteatus-taxonomy-and-intoxication-history]]*, require a casing layer to initiate fruiting. The
-casing layer triggers the shift from vegetative mycelial growth to
-reproductive [[fungal-fruiting-body-formation-environmental-triggers]] through several mechanisms:
+fully colonized substrate to induce and support [[brassinosteroid-growth-promotion-psilocybe-cubensis]]*, *P. mexicana*, and
+*[[fungal-fruiting-body-formation-environmental-triggers]] through several mechanisms:
 
 - Creates a high-humidity zone at the substrate surface
 - Provides a physical barrier that modifies CO₂ concentration gradients

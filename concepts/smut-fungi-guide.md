@@ -9,7 +9,7 @@ sources: []
 
 # Smut Fungi Guide
 
-Smut fungi (order Ustilaginales, phylum [[basidiomycete-phylum-guide]]) are plant pathogenic fungi characterized by the production of dark, sooty masses of teliospores that replace plant tissues, particularly reproductive structures. While less visually dramatic than rust fungi, smuts cause significant economic losses in cereal crops worldwide. The name "smut" refers to the soot-like appearance of the spore masses.
+Smut fungi (order Ustilaginales, phylum [[basidiomycete-phylum-guide|Basidiomycota]]) are plant pathogenic fungi characterized by the production of dark, sooty masses of teliospores that replace plant tissues, particularly reproductive structures. While less visually dramatic than rust fungi, smuts cause significant economic losses in cereal crops worldwide. The name "smut" refers to the soot-like appearance of the spore masses.
 
 ## Defining Characteristics
 
@@ -63,7 +63,7 @@ The largest genus of smut fungi. "Covering smuts" destroy the entire grain/kerne
 - Streaks contain spore balls (groups of spores surrounded by sterile cells)
 - Primarily soil-borne; spores survive in soil for years
 - More important in dryland wheat areas
-- Control through resistant [[holzer-old-varieties-and-seed-saving]] treatment
+- Control through resistant varieties and seed treatment
 
 ### Sphacelotheca (Sorghum Smuts)
 
@@ -128,23 +128,22 @@ Most smut fungi follow a similar pattern:
 - Clean seed: use certified seed from smut-free fields
 
 ### Biological Control
-- Some [[query-what-is-the-difference-between-bacterial-and-fungal-dominant-soil]] antagonists show promise against smut fungi
-- [[bacillus-subtilis]] and Trichoderma species have been investigated
+- Some bacterial and fungal antagonists show promise against smut fungi
+- Bacillus subtilis and Trichoderma species have been investigated
 - Not yet widely adopted commercially
 
 ## Economic Impact
 
 - Corn smut: estimated global losses of hundreds of millions of dollars annually
-- Loose smut of wheat: historically caused losses of 1-3% in [[guzman-psilocybin-mushrooms-north-america]]; more severe in [[low-cost-mushroom-growing-house-construction-developing-countries]]
+- Loose smut of wheat: historically caused losses of 1-3% in North America; more severe in developing countries
 - Common bunt: can cause 1-20% losses depending on severity
 - Karnal bunt (Tilletia indica): quarantine disease that affects wheat trade, even at low incidence levels
 - Total smut-related losses to cereals globally are estimated in the billions of dollars
 
-## Smut Fungi as Model Organisms
+## See Also
 
-Ustilago maydis has become an important model system for studying:
-- Plant-microbe interactions and fungal pathogenicity
-- Mating type and sex determination in fungi
-- Filamentous growth and dimorphism
-- [[fungal-signal-transduction-pathways-gpcr-two-component-mapk]]
-- Genome evolution in pathogenic fungi
+- [[ustilaginomycetes-smut-fungi-classification-diversity]]
+- [[biodiversity-smut-fungi-diversity]]
+- [[smut-fungi]]
+- [[smut-fungi-grass-cereal-parasites]]
+- [[fungi-in-the-environment-fungal-ecosystems]]

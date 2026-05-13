@@ -5,19 +5,13 @@ type: concept
 tags: [psilocybe-cubensis, mushroom-potency, harvest-timing, alkaloid-preservation, drying, aborts]
 created: 2026-05-08
 ---
-# Psilocybe Cubensis Potency [[psilocybe-semilanceata]] (liberty caps). However, Psylocybe Fanaticus and
-other experienced cultivators demonstrated that this characterization is
-misleading. The actual potency of P. cubensis depends heavily on three factors:
-what the mushroom is grown on, its age or maturity at harvest, and how it is
-preserved after harvest. When grown on [[cho-brown-rice-vinegar-preparation]], harvested young, and cool-dried
+# Psilocybe Cubensis Potency [[cho-brown-rice-vinegar-preparation]], harvested young, and cool-dried
 with desiccant, P. cubensis can achieve a baseline psilocybin content comparable
 to P. semilanceata at approximately 1%.
 
-Research by [[paul-stamets]]' dosage guidance from "[[penis-envy-cubensis]]
+Research by [[penis-envy-cubensis]]
 
-- [[pf-tek-vermiculite-brown-rice-substrate-dry-barrier]]
-- mushroom desiccation drying techniques
-- mushroom [[spore-printing-and-syringe-preparation]]
+- [[spore-printing-and-syringe-preparation]]
 ## Practical Applications
 
 Psilocybe Cubensis Potency Harvest Timing has a range of practical applications that make it relevant to

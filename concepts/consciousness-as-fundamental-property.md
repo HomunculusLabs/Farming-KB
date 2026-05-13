@@ -30,21 +30,7 @@ reality.
 
 Powell argues that if information is the basic currency of reality and
 consciousness is a particular pattern of information processing, then conscious
-experience has genuine ontological significance. The [[leary-psychedelic-experience-bardo-mapping]],
-which dramatically reorganizes informational patterns in the brain, may provide
-access to dimensions of information processing ordinarily excluded from waking
-awareness.
-
-## Connection to Panpsychism and Idealism
-
-This perspective connects to the broader philosophical tradition of panpsychism,
-the view that mind or a mind-like aspect is a fundamental and ubiquitous feature
-of the natural world. While Powell does not explicitly endorse panpsychism, his
-informational approach to consciousness implies that the boundary between
-conscious and non-conscious information processing may be more fluid than
-commonly assumed.
-
-Panpsychism has a long philosophical lineage, with proponents including Baruch Spinoza, Gottfried Wilhelm Leibniz (who proposed that all monads possess some degree of perception), [[metzner-william-james-radical-empiricism-multiple-consciousness]], and more recently, philosophers David Chalmers, Philip Goff, and Galen Strawson. Chalmers, who formulated the "hard problem of consciousness," has argued that panpsychism offers a more promising framework than physicalism for explaining subjective experience. The related position of panentheism — that everything exists within a universal consciousness — has been advocated by process philosophers like Alfred North Whitehead and finds expression in some interpretations of Eastern philosophical traditions. In the context of [[mckenna-suppression-psychedelic-research-lsd-therapy]], these philosophical positions matter because they influence how researchers and therapists interpret the content of psychedelic experiences. A materialist framework tends to dismiss mystical or transpersonal content as brain-generated hallucination, while a consciousness-fundamental framework treats the same content as potentially revelatory. See [[information-paradigm-of-consciousness]] for Powell's informational approach in detail.
+experience has genuine ontological significance. The [[metzner-william-james-radical-empiricism-multiple-consciousness]], and more recently, philosophers David Chalmers, Philip Goff, and Galen Strawson. Chalmers, who formulated the "hard problem of consciousness," has argued that panpsychism offers a more promising framework than physicalism for explaining subjective experience. The related position of panentheism — that everything exists within a universal consciousness — has been advocated by process philosophers like Alfred North Whitehead and finds expression in some interpretations of Eastern philosophical traditions. In the context of [[information-paradigm-of-consciousness]] for Powell's informational approach in detail.
 
 ## The Hard Problem and Fine-Tuning Arguments
 
@@ -69,12 +55,7 @@ consciousness is woven into the fabric of reality, then altering consciousness
 through chemistry may genuinely reveal aspects of reality ordinarily hidden
 behind the filter of ordinary perception.
 
-For psychedelic therapy, this philosophical position has practical implications. If the content of psychedelic visions and [[psilocybin-mystical-experiences-personality-change]] reflects genuine features of reality rather than mere neural noise, then therapeutic approaches that help patients integrate and find meaning in these experiences are working with authentic psychological material rather than elaborate self-deception. This does not mean that every psychedelic experience should be taken literally — the distinction between literal truth and metaphorical or symbolic truth remains important — but it does suggest that dismissing all psychedelic content as "just hallucination" may discard valuable psychological and spiritual insights. Modern [[mushroom-cancer-clinical-trials-overview]] of psilocybin-assisted therapy have consistently found that the degree of mystical-type experience during a session predicts long-term therapeutic benefit, suggesting that the phenomenological content of these experiences has genuine psychological significance regardless of one's ontological commitments. See [[psilocybin-consciousness-as-information-in-process]] for Powell's specific model of psychedelic consciousness.
-
-## Evolution and Critique
-
-The relationship between this view and evolutionary theory is complex. Powell
-argues that the evolutionary process can be interpreted as [[powell-natural-intelligence-and-the-universal-computation]]
+For psychedelic therapy, this philosophical position has practical implications. If the content of psychedelic visions and [[mushroom-cancer-clinical-trials-overview]] of psilocybin-assisted therapy have consistently found that the degree of mystical-type experience during a session predicts long-term therapeutic benefit, suggesting that the phenomenological content of these experiences has genuine psychological significance regardless of one's ontological commitments. See [[powell-natural-intelligence-and-the-universal-computation]]
 at work, with evolution itself representing the ongoing intent of an intelligence
 distributed throughout the biosphere. In this framework, the emergence of
 consciousness through evolution is not accidental but reflects the inherent
@@ -85,41 +66,85 @@ and therefore unscientific. Proponents respond that the materialist alternative
 faces its own serious difficulties, particularly the explanatory gap between
 neural activity and subjective experience.
 
-The integrated information theory (IIT) of consciousness, proposed by Giulio Tononi, attempts to bridge this gap by providing a mathematical framework for quantifying consciousness as a fundamental property of systems with high integrated information. While IIT remains controversial, it represents one of the most rigorous attempts to develop a scientific framework compatible with consciousness-as-fundamental. The theory predicts that consciousness is not unique to biological brains but exists in any system with sufficiently high integrated information — a prediction that, if confirmed, would have profound implications for our understanding of both consciousness and the nature of reality. See [[psilocybin-neuroscience]] for neuroscience perspectives on the debate.
+The integrated information theory (IIT) of consciousness, proposed by Giulio Tononi, attempts to bridge this gap by providing a mathematical framework for quantifying consciousness as a fundamental property of systems with high integrated information. While IIT remains controversial, it represents one of the most rigorous attempts to develop a scientific framework compatible with consciousness-as-fundamental. The theory predicts that consciousness is not unique to biological brains but exists in any system with sufficiently high integrated information — a prediction that, if confirmed, would have profound implications for our understanding of both consciousness and the nature of reality. See [[psilocybin]]
+- [[psychedelic-therapy-and-research]]
+- [[metzner-five-fundamental-conclusions-psychedelic-psychotherapy]]
 
-## See Also
+## Overview
+
+Consciousness As Fundamental Property represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish consciousness as fundamental property
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving consciousness extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
 
 ## Practical Applications
 
-The principles and techniques discussed here have wide-ranging applications
-across multiple disciplines and contexts. Practitioners and researchers
-continue to explore new ways to integrate these concepts into modern practice,
-adapting traditional knowledge to contemporary challenges and opportunities.
+Consciousness As Fundamental Property finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
 
-## Key Considerations
+## Management and Implementation
 
-Several important factors influence the effectiveness and outcomes described
-in this topic. Understanding these considerations helps practitioners make
-informed decisions and avoid common pitfalls. Environmental conditions,
-timing, and material selection all play critical roles.
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for consciousness as fundamental property. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+consciousness as fundamental property and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
 
 ## Historical Context
 
-The historical development of this subject reflects centuries of accumulated
-knowledge and practical experience. From traditional methods passed down
-through generations to modern scientific approaches, the evolution continues
-to inform current best practices and research directions.
+Consciousness As Fundamental Property has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
 
-## Common Challenges
+## Integration Strategies
 
-Practitioners frequently encounter several challenges when working with
-these concepts. Climate variability, resource limitations, and knowledge
-gaps can all affect outcomes. Addressing these challenges requires patience,
-observation, and a willingness to adapt approaches based on results.
+Successful integration of consciousness as fundamental property into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
 
 ## See Also
-- [[psilocybin]]
-- [[det]]
-- [[psychedelic-therapy-and-research]]
-- [[lsd]]
-- [[metzner-five-fundamental-conclusions-psychedelic-psychotherapy]]

@@ -36,17 +36,12 @@ Silcrete, also known as **cangagua** in South America, is a grey to red shiny ha
 
 ## Relevance to Cultivation and Mycology
 
-- **Mycorrhizal destruction**: Silcrete formation after deforestation permanently destroys the [[mycorrhizal-networks|mycorrhizal-networks]] that sustained the forest ecosystem.
-- **Fungal habitat loss**: The glassy, impermeable surface provides no habitat for soil fungi or other biota.
-- **Water impoundment**: Silcrete blocks water infiltration, creating surface runoff and preventing the moist soil conditions needed for fungal activity.
-- **Conservation lesson**: Silcrete exposure is one of the most dramatic examples of why tropical forest soils must be protected — the biological community (including fungi) maintains the soil above the impermeable layer.
-- **Rehabilitation challenge**: Restoring fungal communities on exposed silcrete would require extraordinary inputs of organic matter, [[water-management|water-management]], and time.
+- **Mycorrhizal destruction**: Silcrete formation after deforestation permanently destroys the [[water-management|water-management]], and time.
 
 ## Cross-References
 
-- [[calcrete|Calcrete (Caliche)]] — Calcium-cemented equivalent
 - [[ferricrete|Ferricrete]] — Iron-cemented equivalent
-- [[earthworms|Earthworms]] — [[biological-indicators-of-soil|biological-indicators-of-soil]] health above hardpan layers
+- [[biological-indicators-of-soil|biological-indicators-of-soil]] health above hardpan layers
 
 ## Practical Applications
 
@@ -61,20 +56,91 @@ and long-term management goals. Integration with broader design frameworks enhan
 both resilience and productivity of the overall system.
 
 ## See Also
-- [[fungal-indicators-soil-quality-ecosystem-health]]
 - [[singh-arbuscular-mycorrhizal-fungi-soil-remediation]]
-- [[biodiversity-fungi-soil-fungal-communities]]
 - [[biodiversity-of-fungi-soil-fungal-communities-agriculture]]
-- [[arbuscular-mycorrhizal-fungi-in-tropical-forest-restoration]]
-
-## Additional Context
-
-Silcrete Cangagua represents an important element within the broader framework of
-sustainable land management and ecological design. Integration with complementary
-techniques enhances overall system resilience and productivity.
-
-## See Also
 - [[deep-organic-soil-management]]
 
 Integration of silcrete cangagua principles with broader ecological design frameworks
 enhances the resilience and productivity of managed landscapes.
+
+## Overview
+
+Silcrete Cangagua represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish silcrete cangagua
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving silcrete extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Silcrete Cangagua finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for silcrete cangagua. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+silcrete cangagua and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Silcrete Cangagua has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of silcrete cangagua into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[cangagua]]
+- [[silcrete]]

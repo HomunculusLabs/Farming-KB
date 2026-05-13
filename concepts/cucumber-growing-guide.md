@@ -4,13 +4,12 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [vegetables, gardening, cultivation, beginner, pest-control, harvesting]
-sources:
-  - "raw/papers/cervantes-marijuana-horticulture-indoor-outdoor.md"
+sources: []
 ---
 
 ## Overview
 
-Cucumbers are warm-season vines that produce prolifically when given proper support, consistent moisture, and warm temperatures. They are among the most productive plants per [[comparison-biointensive-vs-square-foot-gardening]] in the home garden. This guide covers trellising, pruning, [[coleman-succession-planting]], pickling varieties, [[garden-myths-weeds-and-pest-management]].
+Cucumbers are warm-season vines that produce prolifically when given proper support, consistent moisture, and warm temperatures. They are among the most productive plants per square foot in the home garden. This guide covers trellising, pruning, succession planting, pickling varieties, and pest management.
 
 ## Varieties
 
@@ -38,11 +37,11 @@ Cucumbers are warm-season vines that produce prolifically when given proper supp
 
 ## Trellising
 
-Trellising cucumbers is strongly recommended for better fruit quality, [[cervantes-damping-off-seedling-disease-prevention]], and space efficiency.
+Trellising cucumbers is strongly recommended for better fruit quality, disease prevention, and space efficiency.
 
 ### Benefits of Trellising
 - Straighter, cleaner fruit (no soil contact)
-- Better [[stamets-growing-room-air-circulation-co2-management]] reduces disease
+- Better air circulation reduces disease
 - Easier to spot and harvest fruit
 - Saves garden space — grow vertically
 - Reduces slug and ground pest damage
@@ -63,7 +62,7 @@ Trellising cucumbers is strongly recommended for better fruit quality, [[cervant
 
 ## Pruning
 
-Pruning cucumbers improves air circulation, directs energy to [[query-how-do-i-prune-brambles-for-maximum-fruit-production]], and extends the harvest.
+Pruning cucumbers improves air circulation, directs energy to fruit production, and extends the harvest.
 
 ### How to Prune
 - Remove the first set of lateral shoots from the lowest 2-3 leaf nodes
@@ -74,7 +73,7 @@ Pruning cucumbers improves air circulation, directs energy to [[query-how-do-i-p
 
 ### Benefits
 - Earlier and larger fruit on the main vine
-- Reduced [[cervantes-powdery-mildew-prevention-treatment]] due to better airflow
+- Reduced powdery mildew due to better airflow
 - Easier to see and harvest fruit
 - Extends productive life of the plant
 
@@ -91,7 +90,7 @@ Cucumbers are productive but have a defined lifespan — succession planting ext
 
 ### Tips
 - Vining types have a longer productive window (8-10 weeks) than bush types (5-6 weeks)
-- Later successions often face more [[hamilton-pest-and-disease-control-organic]] pressure
+- Later successions often face more pest and disease pressure
 - In hot climates, mid-summer plantings may struggle — choose heat-tolerant varieties
 
 ## Planting and Care
@@ -101,7 +100,7 @@ Cucumbers are productive but have a defined lifespan — succession planting ext
 - Work in 2-3 inches of compost; cucumbers are heavy feeders
 - Direct sow 1 inch deep, 6-12 inches apart at trellis base
 - Germination: 5-10 days at 70F+; thin to 12-18 inches
-- [[cervantes-drip-irrigation-systems]] at the base is ideal (keeps foliage dry)
+- Drip irrigation at the base is ideal (keeps foliage dry)
 - Consistent moisture critical — drought causes bitter fruit; mulch heavily
 - Side-dress with compost or balanced fertilizer when vines run and at first fruit
 
@@ -141,10 +140,11 @@ Cucumber beetles are the primary pest of cucumbers and can devastate plantings.
 ### Types
 - **Striped cucumber beetle**: Yellow with black stripes, most common east of Rockies
 - **Spotted cucumber beetle**: Yellow with black spots, also feeds on other crops
-- Both transmit bacterial wilt, which kills vines rapidly
 
-### Damage
-- Adults chew holes in leaves, flowers, and fruit
-- Larvae feed on roots and underground stems
-- Most damaging: they transmit bacterial wilt (Erwinia tracheiphila)
-- Bacterial wilt causes vines to wilt suddenly and die — no cure once infected
+## See Also
+
+- [[hamilton-cucumber-growing-organic]]
+- [[hamilton-greenhouse-polytunnel-growing]]
+- [[greenhouse-growing]]
+- [[fukuoka-straw-vegetable-growing]]
+- [[holzer-fruit-growing-marginal-climates]]

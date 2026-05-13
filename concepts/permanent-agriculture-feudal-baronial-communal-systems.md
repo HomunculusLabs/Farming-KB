@@ -8,7 +8,7 @@ type: concept
 
 ## The Search for Permanence in Land Use
 
-[[bill-mollison]] identifies permanence and stability in land and society as the central goal of [[permaculture]], but recognizes that there is more than one historical pathway to achieve it. He categorizes these pathways into three distinct models — feudal, baronial, and communal permanence — each with fundamentally different relationships between people, land, and energy systems. Understanding these models is essential for grasping why permaculture advocates for a particular kind of permanence and rejects the others.
+[[permaculture]], but recognizes that there is more than one historical pathway to achieve it. He categorizes these pathways into three distinct models — feudal, baronial, and communal permanence — each with fundamentally different relationships between people, land, and energy systems. Understanding these models is essential for grasping why permaculture advocates for a particular kind of permanence and rejects the others.
 
 ## Feudal Permanence
 
@@ -97,8 +97,6 @@ This has been the historical fate of peasant Europe, Ireland, and much of the th
 - Understanding improves capacity for sustainable resource management
 
 ## Related Concepts
-- [[permaculture-ethics-and-permanent-agriculture]]
 - [[earthcare-ethics-and-permanent-agriculture]]
-- [[tagasaste-nurse-crop-fodder-systems]]
 - [[mollison-tree-crop-systems-permaculture]]
 - [[cervantes-top-feed-hydroponic-systems]]

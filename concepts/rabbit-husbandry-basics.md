@@ -58,8 +58,7 @@ good mothers), Satin (good meat yield, beautiful sheen).
   maintenance for bucks/non-breeders. 1-2 oz per lb body weight daily.
 - **Hay:** Unlimited timothy or grass hay always available — critical for
   dental and digestive health. Alfalfa for kits/pregnant does only.
-- **Greens:** Introduce gradually. Safe: [[dandelion]], plantain, clover, kale,
-  parsley, raspberry leaves, [[comfrey]] (small amounts). Toxic: rhubarb,
+- **Greens:** Introduce gradually. Safe: [[comfrey]] (small amounts). Toxic: rhubarb,
   potato tops, tomato leaves, foxglove.
 - **Treats (5% max):** Rolled oats, black oil sunflower seeds, apple,
   banana, carrots.
@@ -89,5 +88,12 @@ good mothers), Satin (good meat yield, beautiful sheen).
 - **Yield:** ~60% dressed weight (5 lb live = ~3 lb dressed).
 
 ## See Also
-- [[comparison-duck-keeping-vs-rabbit-husbandry]]
 - [[rabbit-husbandry]]
+
+## See Also
+
+- [[rabbit-husbandry-guide]]
+- [[rabbit-processing-guide]]
+- [[comparison-rabbit-vs-quail-husbandry]]
+- [[comparison-quail-husbandry-vs-rabbit-husbandry]]
+- [[fukuoka-textdoc-fox-rabbit-grass-energy-cascade-caloric-waste-luxury-foods]]

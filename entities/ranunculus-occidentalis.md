@@ -109,12 +109,8 @@ The species has been studied as a bioindicator for grassland health in the Willa
 
 ## See Also
 
-- [[ranunculus-bulbosus]]
 - [[ranunculus-asiaticus]]
-- [[ranunculus-lyallii]]
 - [[ranunculus-repens]]
-- [[anemone-canadensis]]
 - [[thalictrum-aquilegifolium]]
-- [[ficaria-verna]]
 - [[ranunculus-glacialis]]
 - [[ranunculus-acris]]

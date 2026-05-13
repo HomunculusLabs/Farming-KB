@@ -8,43 +8,7 @@ type: concept
 
 ## Overview
 
-In [[permaculture-design]], waste is never truly waste — it is an underutilised resource. Conventional septic systems treat effluent as a problem to be disposed of, but with thoughtful design, septic tank effluent can become a productive input for tree crops, aquatic systems, and even energy generation. Similarly, the conventional approach to swimming pools relies on toxic chemicals that undermine the very health they purport to support. Permaculture offers integrated, biological alternatives that turn both sewage and recreation into productive, regenerative systems.
-
-This concept covers two broad strategies for handling water and waste:
-
-1. **Productive septic disposal systems** — including underground leach fields planted to trees, and biogas conversion systems that feed into aquatic crop ponds.
-2. **Natural swimming pools** — chemical-free alternatives that use biological filtration, reed beds, and flowform aeration to maintain clean, safe water for human bathing.
-
-## Productive Disposal of Septic Tank Effluent
-
-### Philosophy
-
-The permaculture approach to septic effluent rejects the notion of "disposal" in favour of "productive use." Effluent is rich in nutrients — nitrogen, phosphorus, potassium, and organic matter. Rather than allowing these nutrients to pollute groundwater or waterways, designed systems route effluent through biological filters and into productive landscapes where trees and aquatic crops can absorb and cycle the nutrients.
-
-Two primary strategies are described: direct leach field systems with tree planting, and biogas conversion systems with integrated aquaculture.
-
-## Leach Field Design with Tree Planting
-
-### Trench Leach Fields
-
-The trench leach field is the most common productive disposal system. Effluent from the septic tank flows by gravity into a series of subsurface trenches where it gradually percolates into the surrounding soil, feeding planted trees.
-
-**Construction specifications:**
-
-- The trench base is sloped at **1:12** to ensure even distribution of effluent along the length of the field.
-- An **18 cm half-pipe** (split drain pipe) is laid in the trench bottom to carry and distribute effluent.
-- The pipe is surrounded by **coarse gravel** to provide drainage and prevent clogging.
-- A **plastic or tar-paper layer** is placed over the gravel to prevent soil from infiltrating and blocking the system.
-- The trench is then **backfilled** with soil.
-
-**Tree planting around leach fields:**
-
-- Trees are planted **1–2 metres off the sides** of the trench, not directly over it, to prevent root intrusion into the distribution pipes.
-- Tree spacing along the trench is **2–6 metres**, depending on the mature canopy size of the species selected.
-- **Fruit and nut trees** are ideal candidates, as they benefit enormously from the consistent moisture and nutrient supply.
-- In clay soils, the zone of benefit extends **20 metres or more** downslope from the leach field, creating a broad productive zone.
-
-This system transforms what is normally a hidden, unproductive part of the property into a productive [[food-forest]] edge, with the septic system acting as a permanent fertigation source.
+In [[food-forest]] edge, with the septic system acting as a permanent fertigation source.
 
 ### Square Pit Leach Fields
 
@@ -110,7 +74,7 @@ Natural swimming pools represent a return to the principle that clean water is l
 
 ## Design Principles
 
-Several permaculture principles are embodied in these systems:
+Several [[permaculture-principles]] are embodied in these systems:
 
 - **Every element should perform multiple functions.** A septic tank that also produces biogas, feeds aquatic crops, and irrigates fruit trees is far more valuable than one that merely disposes of waste.
 - **Use biological resources before technological solutions.** Reed beds and gravel filters replace chemical treatments; tree roots replace mechanical aeration of drainfields.
@@ -118,11 +82,10 @@ Several permaculture principles are embodied in these systems:
 - **Integrate rather than segregate.** Natural swimming pools bring recreation into the ecological web rather than isolating it behind chemical barriers. Septic systems are connected to food production rather than hidden and forgotten.
 
 ## See Also
-- [[natural-swimming-pools-and-water-design]]
 - [[natural-swimming-pools]]
 - [[mollison-designers-natural-swimming-pools-and-water-purification]]
 
 - [Water Harvesting and Storage](#)
 - [Waste Recycling Systems](#)
 - [Aquaculture and Pond Design](#)
-- [Zone Planning in Permaculture Design](#)
+- [Zone Planning in [[permaculture-design]](#)

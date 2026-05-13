@@ -18,8 +18,7 @@ type: concept
 ## Overview
 
 Compound 8, formally named {benzyl[2-(4-oxyindol-3-yl)ethyl]dimethyl-
-ammonio}-4-O-benzyl phosphate, is a novel [[psilocybin-synthesis-zwitterionic-intermediate-filtration-method]]
-discovered during the phosphorylation of [[psilocybin]] without chromatographic
+ammonio}-4-O-benzyl phosphate, is a novel [[psilocybin]] without chromatographic
 purification.
 
 ## Discovery and Formation
@@ -40,15 +39,7 @@ A similar observation had been reported by Nichols and Frescas (1999),
 who attributed the insoluble material to hydrolytic cleavage of one
 O-benzyl group, forming a zwitterionic O-monobenzyl phosphate mixture.
 However, the Shirota team's more detailed investigation using
-preparative reversed-phase HPLC and comprehensive 2D [[hmbc-noesy-nmr-analysis-zwitterionic-phosphate-intermediate-psilocybin]]
-revealed a different structural assignment.
-
-### Mechanism of Formation
-
-The conversion of compound 7 (O,O-dibenzyl phosphate) to compound 8
-(zwitterionic N,O-dibenzyl phosphate) occurs via an intramolecular
-benzyl group migration. One benzyl group migrates from a phosphate
-oxygen to the [[indole]] nitrogen (N-1), creating a quaternary ammonium
+preparative reversed-phase HPLC and comprehensive 2D [[indole]] nitrogen (N-1), creating a quaternary ammonium
 ion (positive charge) while retaining a benzyl-protected phosphate
 monoester (negative charge). This rearrangement is easily achieved by
 suspending the worked-up reaction mixture in CH2Cl2 overnight.

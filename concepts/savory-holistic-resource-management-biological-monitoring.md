@@ -17,11 +17,7 @@ type: concept
 # Biological Monitoring and Control
 
 Biological monitoring is the essential feedback mechanism in Allan Savory's
-[[savory-holistic-management-overview]] framework. A plan, no matter how sound, serves little
-purpose unless its application is monitored and deviations controlled. This
-chapter of the framework connects the [[savory-water-cycle-management]], [[savory-plant-succession-and-community-dynamics]], and
-   [[savory-water-cycle-management]], [[savory-energy-flow-and-solar-capture]], and
-[[savory-holistic-resource-management-brittle-vs-nonbrittle-environments]] worldwide, the
+[[savory-water-cycle-management]], [[savory-water-cycle-management]], [[savory-holistic-resource-management-brittle-vs-nonbrittle-environments]] worldwide, the
 procedure involves finding and marking severely grazed plants alongside
 ungrazed plants of the same species as livestock leave each paddock. A two
 or three-foot wire carrying a fluorescent flag makes relocating sample
@@ -67,7 +63,6 @@ options essential to achieving the landscape goal.
 
 ## See Also
 
-- [[savory-holistic-resource-management-decision-framework]]
 - [[savory-water-cycle-management]]
 - [[savory-holistic-resource-management-brittle-vs-nonbrittle-environments]]
 ## Practical Considerations
@@ -88,3 +83,11 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
+
+## See Also
+
+- [[savory-water-cycle-management]]
+- [[savory-predator-prey-and-herding-behavior]]
+- [[savory-mineral-cycle-management]]
+- [[savory-holistic-resource-management-overgrazing]]
+- [[savory-brittleness-scale]]

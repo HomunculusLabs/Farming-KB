@@ -30,7 +30,6 @@ The pharmacological profile of *Amanita* species differs fundamentally from psil
 | Effect class | Sedative-dissociative | Psychedelic-hallucinogenic |
 | Typical onset | 30–60 minutes | 20–60 minutes |
 | Duration | 4–8 hours | 4–6 hours |
-| [[emcdda-psilocybin-non-addictive-profile-tolerance-dynamics]] | Nausea, sweating, ataxia, mydriasis | Nausea, mydriasis, tachycardia |
 | [[hallucinogenic-mushroom-acute-psychological-effects-and-bad-trips]] | Sedation, dream-like states, distortion | Visual hallucinations, introspection |
 
 ## Species Profiles
@@ -40,9 +39,7 @@ The pharmacological profile of *Amanita* species differs fundamentally from psil
 The most iconic and culturally significant of the ibotenic acid fungi:
 
 - **Appearance**: Bright red cap with white warts (universal veil remnants), white gills, white stem with a skirt-like ring, bulbous base with volval sac. One of the most recognizable mushrooms in the world.
-- **Distribution**: Circumboreal — found across temperate and boreal forests of the Northern Hemisphere in association with **ectomycorrhizal** tree partners, particularly **birch** (*Betula*) and **pine** (*Pinus*). Also introduced to the [[guzman-allen-gartz-africa-southern-hemisphere-underexplored-neurotropic-fungi]] (New Zealand, Australia, South America) through forestry plantings.
-- **[[amanita-muscaria-cultural-history]]**: The primary entheogenic mushroom of [[harner-amanita-muscaria-siberian-shamanism]], used by the Chukchee, Koryak, and related peoples of the Kamchatka Peninsula.
-- **[[psilocybe-cubensis-street-sample-potency-variability]]**: Ibotenic acid and muscimol content varies enormously by geography, season, and specimen age. Specimens from different regions can differ by orders of magnitude in active compound concentration.
+- **Distribution**: Circumboreal — found across temperate and boreal forests of the Northern Hemisphere in association with **ectomycorrhizal** tree partners, particularly **birch** (*Betula*) and **pine** (*Pinus*). Also introduced to the [[amanita-muscaria-cultural-history]]**: The primary entheogenic mushroom of [[psilocybe-cubensis-street-sample-potency-variability]]**: Ibotenic acid and muscimol content varies enormously by geography, season, and specimen age. Specimens from different regions can differ by orders of magnitude in active compound concentration.
 - **Preparation**: Traditional Siberian preparation involved air-drying, which converts much of the ibotenic acid to muscimol and reduces gastrointestinal distress. Some traditions also involved boiling or decoction.
 
 ### Amanita pantherina (Panther Cap)
@@ -117,8 +114,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[ibotenic-acid]]
 - [[amanita-muscaria]]
-- [[neurotropic-fungi]]
 - [[amanita-pantherina]]
 - [[amanita]]

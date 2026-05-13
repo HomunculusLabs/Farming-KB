@@ -13,11 +13,7 @@ type: concept
 
 ## Overview
 
-4-Hydroxyindole is the commercially available starting material that anchors the Shirota, Hakamata, and Goda (2003) concise large-scale synthesis of [[tryptamine-chemistry-psilocin-and-psilocybin-synthesis]]. Its selection as the synthetic starting point is driven by its structural similarity to the target molecules, its commercial availability in multi-gram quantities, and the straightforward protection chemistry it enables at the 4-hydroxy position.
-
-## Structural Relevance
-
-Psilocin (4-hydroxy-N,N-dimethyltryptamine) differs from serotonin (5-hydroxytryptamine) only in the position of the hydroxyl substituent on the indole ring. 4-Hydroxyindole provides the complete indole nucleus with the hydroxyl group already in the correct position for [[acetylation-protection-psilocin-synthesis-4-hydroxyindole]]. The core synthetic challenge then becomes:
+4-Hydroxyindole is the commercially available starting material that anchors the Shirota, Hakamata, and Goda (2003) concise large-scale synthesis of [[acetylation-protection-psilocin-synthesis-4-hydroxyindole]]. The core synthetic challenge then becomes:
 
 1. Protecting the 4-hydroxy group during subsequent transformations
 2. Introducing the dimethylaminoethyl side chain at the 3-position
@@ -65,18 +61,8 @@ In the Shirota synthesis, 4-hydroxyindole serves as the foundation for a 4-step 
 2. 4-Acetylindole to 3-glyoxalyl-4-acetylindole (oxalyl chloride acylation)
 3. Glyoxalylindole to glyoxalylamide (dimethylamine amidation)
 4. Glyoxalylamide to psilocin (LiAlH4 reduction)
-5. Psilocin to [[zwitterionic-n-o-dibenzyl-phosphate-intermediate]] (phosphorylation)
-6. Dibenzyl phosphate to [[psilocybin-synthesis-zwitterionic-intermediate-filtration-method]] (intramolecular rearrangement)
-7. Zwitterionic intermediate to psilocybin ([[shirota-catalytic-hydrogenolysis-debenzylation-psilocybin]])
-
-## Historical Context
-
-The use of 4-hydroxyindole as a starting material for psilocin synthesis has precedent in earlier work by Troxler, Hofmann, and colleagues at Sandoz in the late 1950s, as well as subsequent reports through the 1990s. Shirota et al. built upon this foundation but optimized the protection strategy and phosphorylation methodology to achieve the first truly chromatography-free gram-scale synthesis.
-
-## Related Topics
-
-- [[lialh4-reduction-glyoxalylamide-psilocin-synthesis|LiAlH4 Reduction to Psilocin]]
-- [[shirota-psilocin-psilocybin-large-scale-synthesis-pathway|Shirota Large-Scale Synthesis Pathway]]
+5. Psilocin to [[psilocybin-synthesis-zwitterionic-intermediate-filtration-method]] (intramolecular rearrangement)
+7. Zwitterionic intermediate to psilocybin ([[lialh4-reduction-glyoxalylamide-psilocin-synthesis|LiAlH4 Reduction to Psilocin]]
 - [[acetyl-protection-route-psilocin-psilocybin-synthesis|Acetyl Protection Route for Psilocin and Psilocybin]]
 
 ## Practical Applications
@@ -112,15 +98,8 @@ to broader system design and look for synergies between methods
 that can amplify overall effectiveness.
 
 ## See Also
-- [[acetylation-protection-psilocin-synthesis-4-hydroxyindole]]
 - [[tryptamine-chemistry-psilocin-and-psilocybin-synthesis]]
-- [[shirota-4-hydroxyindole-acetyl-protection-psilocin-synthesis-starting-material]]
 - [[four-hydroxyindole-psilocin-synthesis-route-shirota]]
-- [[shirota-psilocin-synthesis-4-hydroxyindole-pathway]]
-## See Also
-
 - [[glyoxalylamide-intermediate-in-tryptamine-synthesis]]
-- [[glyoxalylamide-reduction-tryptamine-synthesis-pathway]]
 - [[tryptamine-chemistry-psilocin-and-psilocybin-synthesis]]
-- [[acetylation-protection-psilocin-synthesis-4-hydroxyindole]]
 - [[shirota-4-hydroxyindole-acetyl-protection-psilocin-synthesis-starting-material]]

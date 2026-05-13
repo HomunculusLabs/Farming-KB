@@ -10,23 +10,7 @@ Palms (Arecaceae) are among the most versatile and productive plant families in 
 
 ## Overview and Ecological Roles
 
-Palms occupy every stratum of tropical forest architecture — from understory species to towering canopy emergents. In permaculture design, they function as canopy trees, mid-story elements, and climbing components within food forests. Many species exhibit strong flood tolerance, making them ideal for wetland and riparian zone integration. Coastal and dune-stabilizing species like *Cocos nucifera* and *[[phoenix-canariensis]]* protect shorelines from erosion while yielding valuable products.
-
-The family's diversity allows designers to select species for virtually every niche: shade-tolerant understory palms, sun-loving canopy palms, swamp specialists, and arid-adapted desert palms. This adaptability makes them indispensable in multi-strata agroforestry systems where vertical space optimization is paramount.
-
-## Food-Producing Palms
-
-### Date Palms (*Phoenix* species)
-
-*Phoenix dactylifera* (date palm) is the quintessential desert permaculture palm, producing one of humanity's oldest cultivated fruits. *P. canariensis* (Canary Island date palm), *P. sylvestris* (wild date palm of India), and *P. zeylandica* from the Pacific extend the genus's utility across subtropical zones. Dates provide concentrated carbohydrates and sugars, while the palms themselves create microclimates and windbreaks in arid landscapes.
-
-### Sago Palm (*Metroxylon* species)
-
-*Metroxylon sagu* (sago palm) and related species including *M. amicarum*, *M. laeve*, and *M. rumphii* are among the highest-yielding starch producers in the plant kingdom. A single mature sago palm trunk can yield 200–400 kg of starch. Sago palms thrive in swampy, waterlogged soils where few other crops succeed, making them ideal for marginal wetland permaculture sites in Southeast Asia and Oceania.
-
-### Açaí and Heart of Palm (*Euterpe* species)
-
-*[[euterpe-oleracea]]* (açaí) and *E. edulis* (jussara) are understory palms of Amazonian food forests. *E. oleracea* produces the globally traded açaí berry, rich in antioxidants and healthy fats. Both species are sources of heart of palm (palmito), a delicacy harvested from the growing tip. Sustainable management requires harvesting only secondary stems in clumping populations, preserving the primary stem.
+Palms occupy every stratum of tropical forest architecture — from understory species to towering canopy emergents. In [[permaculture-design]], they function as canopy trees, mid-story elements, and climbing components within food forests. Many species exhibit strong flood tolerance, making them ideal for wetland and riparian zone integration. Coastal and dune-stabilizing species like *[[cocos-nucifera]]* and *[[euterpe-oleracea]]* (açaí) and *E. edulis* (jussara) are understory palms of Amazonian food forests. *E. oleracea* produces the globally traded açaí berry, rich in antioxidants and healthy fats. Both species are sources of heart of palm (palmito), a delicacy harvested from the growing tip. Sustainable management requires harvesting only secondary stems in clumping populations, preserving the primary stem.
 
 ### Peach Palm (*Bactris gasipaes* / *Guilielma gasipaes* / Pejibaye)
 
@@ -62,39 +46,11 @@ The pataua palm produces an edible oil of exceptionally high quality, comparable
 
 ### Rattan and Climbing Palms
 
-The climbing palms form an ecologically distinct group essential to [[mollison-wet-tropical-forest-structure-and-polyculture]]. Key genera include *Daemonorops*, *Calamus*, *Korthalsia*, *Plectocomia*, *Plectocomiopsis*, *Oncocalamus*, *Eremospatha*, *Retispatha*, *Pogonotium*, and *Polyandrococos*. These scrambling palms produce rattan cane — the primary material for furniture, basketry, and construction binding throughout the tropics. In permaculture systems, they occupy the vertical space between understory and canopy.
-
-### Talipot Palms (*Corypha* species)
-
-*[[corypha-umbraculifera]]*, *C. elata*, and *C. talliera* are among the largest palms, producing enormous fan leaves ideal for thatching and temporary shelter construction. These monocarpic palms flower once after 40–80 years and then die, but their massive leaves provide exceptional building materials throughout their long lives.
+The climbing palms form an ecologically distinct group essential to [[corypha-umbraculifera]]*, *C. elata*, and *C. talliera* are among the largest palms, producing enormous fan leaves ideal for thatching and temporary shelter construction. These monocarpic palms flower once after 40–80 years and then die, but their massive leaves provide exceptional building materials throughout their long lives.
 
 ### Additional Fiber Species
 
-*Leopoldinia piassaba* produces piassava fiber, used for brooms, ropes, and brushes. *Manicaria saccifera* yields strong, waterproof leaves used for thatch and containers. *[[lodoicea-maldivica]]* (coco de mer) produces the world's largest seed, and its fronds provide thatch. *Licuala* species supply fine thatch and weaving material from their fan-shaped leaves.
-
-## Wetland and Riparian Specialists
-
-Several palm species are adapted to permanently or seasonally waterlogged conditions, making them key components of aquatic permaculture zones:
-
-- **Nypa fruticans** (nipa palm) — mangrove-associated palm producing sugar-rich sap tapped for toddy and sugar. Thrives in brackish estuarine environments.
-- **Mauritia flexuosa** (moriche/buriti palm) — dominant palm of Amazonian swamps. Produces edible fruit, fiber, and thatch. *M. armata*, *M. gracili*, and *M. vinifera* are related species with similar uses.
-- **Metroxylon sagu** — sago palm of freshwater swamps and floodplains.
-- **Raphia taedigera** — swamp raffia palm of West Africa and the Neotropics.
-
-## Arid and Semi-Arid Palms
-
-In dryland permaculture, palms provide structure, shade, and food:
-
-- **Hyphaene thebiaca** (doum palm) — branching palm of the African Sahel, producing edible fruit and fiber.
-- **Phoenix dactylifera** — the premier desert food palm, creating productive oases.
-- **Jubaea chilensis** — cold-tolerant Chilean palm for Mediterranean climates.
-- **Pseudophoenix vinifera** — Caribbean palm adapted to dry, rocky habitats.
-
-## Ornamental and Functional Canopy Palms
-
-### Fan Palms
-
-*[[livistona-australis]]*, *L. deciplens*, and *L. saribus* are tall fan palms providing canopy structure, shade, and thatch material. *Pritchardia* species (*P. brevicalyx*, *P. gaudichaudi*, *P. hillebrandii*) are Pacific island fan palms valued for both ornamental beauty and practical uses.
+*Leopoldinia piassaba* produces piassava fiber, used for brooms, ropes, and brushes. *Manicaria saccifera* yields strong, waterproof leaves used for thatch and containers. *[[livistona-australis]]*, *L. deciplens*, and *L. saribus* are tall fan palms providing canopy structure, shade, and thatch material. *Pritchardia* species (*P. brevicalyx*, *P. gaudichaudi*, *P. hillebrandii*) are Pacific island fan palms valued for both ornamental beauty and practical uses.
 
 ### Tall Canopy Palms
 

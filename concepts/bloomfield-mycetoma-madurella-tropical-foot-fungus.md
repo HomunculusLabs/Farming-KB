@@ -24,21 +24,7 @@ is most commonly Madurella mycetomatis. Unlike superficial fungal
 infections such as athlete's foot or ringworm, mycetoma is a deep
 tissue infection that establishes itself beneath the skin and
 gradually transforms the affected limb. The disease presents a
-particular challenge in [[low-cost-mushroom-growing-house-construction-developing-countries]] where access to medical
-care is limited and where agricultural workers are at highest risk due
-to their constant exposure to soil-borne fungal spores and thorny
-plant material.
-
-## Clinical Presentation and Progression
-
-After the initial inoculation through a puncture wound, Madurella
-establishes itself in the subcutaneous tissue and begins a slow,
-insidious expansion. The fungus forms spherical abscesses within the
-tissue, interconnected by a series of tunnels or sinuses that
-resemble the architecture of a termite mound. These sinuses
-eventually burst through the skin surface, weeping a bloody fluid
-laden with infectious granules. The granules are aggregates of
-[[fungal-hyphae]], each containing thousands of viable spores capable of
+particular challenge in [[fungal-hyphae]], each containing thousands of viable spores capable of
 initiating new infections.
 
 As the disease progresses, Madurella erodes the underlying bone,
@@ -56,35 +42,7 @@ Mycetoma is classified into two major categories based on the type
 of causative organism. Eumycetoma is caused by true fungi, with
 Madurella mycetomatis being the most prevalent agent in Africa.
 Actinomycetoma is caused by filamentous bacteria called actinomycetes,
-principally species of Nocardia, [[streptomyces]], and Actinomadura.
-The clinical presentations of the two forms are nearly identical,
-but the distinction is critical for treatment because bacterial and
-fungal mycetomas respond to completely different therapeutic agents.
-
-Eumycetoma caused by Madurella is particularly resistant to
-treatment. Antifungal therapy alone is rarely curative and must
-often be combined with surgical intervention. The most common
-surgical approach is wide local excision, and in advanced cases,
-amputation of the affected limb may be necessary. The development
-of effective drug regimens has been hampered by the difficulty of
-achieving adequate antifungal concentrations in the infected tissue,
-which is poorly vascularized and protected by the dense granule
-matrix produced by the fungus.
-
-## Ecological Adaptations of Madurella
-
-From an evolutionary perspective, Madurella is well adapted as a
-parasite of humans. It forges a long-term relationship with its host,
-persisting for years or even decades without killing the host
-directly. This extended relationship maximizes the opportunity for
-dispersal: the infectious granules discharged through skin sinuses
-can be carried from one foot to another, contaminating soil and
-vegetation that may later wound another person. The fungus thus
-maintains itself in a cycle of environmental persistence and human
-infection that is difficult to interrupt.
-
-The environmental reservoir of Madurella is believed to be soil,
-particularly the thorny [[acacia]] savannahs of Sudan and other parts of
+principally species of Nocardia, [[acacia]] savannahs of Sudan and other parts of
 sub-Saharan Africa. The fungus may exist as a saprotroph in soil
 for extended periods, awaiting the opportunity to enter a human host
 through a puncture wound. This dual lifestyle, alternating between
@@ -120,9 +78,7 @@ examination, imaging, and laboratory identification of the causative
 organism. The grain color is an important initial diagnostic clue:
 black grains suggest a fungal etiology such as Madurella, while
 yellow or red grains may indicate actinomycetoma. Definitive
-diagnosis requires [[fungal-microscopic-examination-mounting-media-techniques]] of the grains and
-culture identification. Molecular techniques including PCR and
-[[environmental-dna-sequencing-fungi]] are increasingly used for rapid species identification
+diagnosis requires [[environmental-dna-sequencing-fungi]] are increasingly used for rapid species identification
 and for distinguishing eumycetoma from actinomycetoma when
 [[microwave-sterilization-versus-conventional-methods-comparison]] are inconclusive.
 

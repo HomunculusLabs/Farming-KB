@@ -124,13 +124,8 @@ central Europe. Seed banking is recommended for vulnerable western populations.
 
 ## See Also
 
-- [[campanula-persicifolia]]
 - [[campanula-glomerata]]
-- [[campanula-spicata]]
 - [[campanula-sibirica]]
-- [[phyteuma-orbiculare]]
 - [[jasione-montana]]
-- [[campanula-rapunculoides]]
 - [[campanula-patula]]
-- [[campanula-primulifolia]]
 - [[wahlenbergia-stricta]]

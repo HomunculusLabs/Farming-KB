@@ -1,61 +1,13 @@
 ---
 title: DOM (STP) - Phenethylamine and Amphetamine Family Relationship
 source: shulgin-a-pihkal.md
-author: [[alexander-shulgin]]
-topics: pihkal, DOM, STP, phenethylamines, amphetamines, 2C-D, psychedelic, history
----
-
-# DOM (STP) and the Phenethylamine-Amphetamine Relationship
-
-## Overview
-
-DOM (4-methyl-2,5-dimethoxyamphetamine), known by the street name STP, occupies a central position in understanding the structure-activity relationship between phenethylamines (the 2C series) and amphetamines (the DO series). As [[2c-b-pihkal-entry-20]] #68, DOM illustrates how the addition of a single alpha-methyl group to a phenethylamine backbone transforms the pharmacological profile — increasing potency, extending duration, and shifting the character of the experience. The DOM/STP story also represents one of the most significant episodes in [[psychedelic-drug-testing-and-adulterant-screening]] history.
-
-## Chemical Identity
-
-- **Systematic name**: 2,5-Dimethoxy-4-methylamphetamine
-- **Street name**: STP (allegedly standing for Serenity, Tranquility, and Peace; also Super Terrific Psychedelic, Stop The Police; police: Too Stupid to Puke)
-- **Molecular formula**: C12H20ClNO2 (HCl salt)
-- **Melting point**: 190.5-191.5°C (HCl salt), 131°C (sulfate)
-- **Dosage**: 3-10 mg (extremely potent)
-- **Duration**: 14-20 hours (remarkably long-acting)
-- **Active isomer**: R-isomer (the S-isomer shows little activity)
-
-## The 2C-D to DOM Transformation
-
-### The Alpha-Methyl Group
-
-The fundamental structural difference between 2C-D (4-methyl-2,5-dimethoxyphenethylamine) and DOM (4-methyl-2,5-dimethoxyamphetamine) is the alpha-methyl group on the carbon chain adjacent to the amine nitrogen. This single methyl group produces dramatic pharmacological changes:
-
-| Property | 2C-D (phenethylamine) | DOM (amphetamine) |
-|----------|----------------------|-------------------|
-| Dosage | 20-60 mg | 3-10 mg |
-| Duration | 4-6 hours | 14-20 hours |
-| Onset | Moderate | Slow (1-2 hours) |
-| Body load | Moderate | Significant |
-
-The alpha-methyl group provides metabolic stability by protecting the amine from oxidative deamination by monoamine oxidase (MAO) enzymes. This is why amphetamine derivatives consistently show longer durations than their phenethylamine counterparts.
-
-### The General Pattern
-
-This 2C-to-DO transformation pattern holds broadly across the series:
-- 2C-B (phenethylamine) → DOB (amphetamine): bromine at the 4-position
-- 2C-I (phenethylamine) → DOI (amphetamine): iodine at the 4-position
-- 2C-E (phenethylamine) → DOET (amphetamine): ethyl at the 4-position
-- 2C-C (phenethylamine) → DOC (amphetamine): chlorine at the 4-position
-- 2C-D (phenethylamine) → DOM (amphetamine): methyl at the 4-position
-
-In every case, the amphetamine analogue shows increased potency (lower dosage needed) and significantly extended duration compared to the parent phenethylamine. The character of the experience shifts as well — the DO series generally produces more intense visual phenomena and greater physical side effects.
-
-### Isomer Activity Reversal
-
-A notable finding from DOM isomer studies: the R-isomer is the more active form for DOM and other psychedelic amphetamines. This is consistent with the pattern seen across classical psychedelics (where R-isomers are more active). However, this is the opposite of the pattern seen with [[mdma]], where the S-isomer carries the primary activity — one of the first clear distinctions suggesting MDMA acts through a different mechanism than classical psychedelics.
+author: [[2c-b-pihkal-entry-20]] #68, DOM illustrates how the addition of a single alpha-methyl group to a phenethylamine backbone transforms the pharmacological profile — increasing potency, extending duration, and shifting the character of the experience. The DOM/STP story also represents one of the most significant episodes in [[mdma]], where the S-isomer carries the primary activity — one of the first clear distinctions suggesting MDMA acts through a different mechanism than classical psychedelics.
 
 ## The STP Incident of 1967
 
 ### Distribution in Haight-Ashbury
 
-DOM was distributed widely in [[shipibo-san-francisco-ceremonial-center-ucayali]]'s Haight-Ashbury district in mid-1967 under the name STP. The name was taken from the initials of a motor oil additive (Scientifically Treated Petroleum) and had no chemical relationship to the psychedelic compound. One self-proclaimed drug expert even published a book claiming that STP the motor oil additive was the same as STP the psychedelic, with properties related to LSD, [[mescaline]], and amphetamines.
+DOM was distributed widely in [[mescaline]], and amphetamines.
 
 ### The Dosage Problem
 
@@ -87,3 +39,88 @@ At 1 mg, effects include slight mouth dryness, noticeable mydriasis (pupil dilat
 At 3 mg, users report enhanced sharpness of observation with the ability to focus at different depths of concepts. Colors become more numerous rather than merely brighter. At 4 mg, one subject ranked the visual experience as surpassing LSD, mescaline, cannabis, and peyote — "THE CLOUDS!!! No visual experience has ever been like this." At 5 mg, the experience becomes challenging, with users alternating between joy and discomfort, sometimes confronting difficult personal truths.
 
 ### High Doses (8-12 mg)
+
+## Overview
+
+Shulgin Dom Stp Phenethylamine Amphetamine Relationship represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish shulgin dom stp phenethylamine amphetamine relationship
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving shulgin extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Shulgin Dom Stp Phenethylamine Amphetamine Relationship finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for shulgin dom stp phenethylamine amphetamine relationship. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+shulgin dom stp phenethylamine amphetamine relationship and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Shulgin Dom Stp Phenethylamine Amphetamine Relationship has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of shulgin dom stp phenethylamine amphetamine relationship into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[hallucinogenesis-quantum-molecular-correlates-smythies-shulgin]]
+- [[quantum-mechanical-correlates-hallucinogenesis-smythies-shulgin]]
+- [[shulgin-a-pihkal-2c-e-4-ethyl-25-dimethoxyphenethylamine]]
+- [[shulgin-a-pihkal-2c-i-4-iodo-25-dimethoxyphenethylamine]]
+- [[shulgin-future-psychedelics-scheduling-and-regulation]]

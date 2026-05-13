@@ -11,11 +11,7 @@ sources:
 
 # Deficit Farming
 
-In *The Road Back to Nature*, [[fukuoka-natural-soil-works-itself]].
-
-## The Livestock Connection
-
-Fukuoka directly challenges the common belief that [[fukuoka-textdoc-natural-livestock-farming-open-grazing]] enriches the land:
+In *The Road Back to Nature*, [[fukuoka-textdoc-natural-livestock-farming-open-grazing]] enriches the land:
 
 - "Wherever you look, [livestock farming] only depletes it"
 - The Spaniards were the first to raise cattle in America, yet the land grew poorer despite animal wastes being returned directly
@@ -23,41 +19,16 @@ Fukuoka directly challenges the common belief that [[fukuoka-textdoc-natural-liv
 
 ## The Export Drain
 
-Modern deficit farming operates through a chain of [[fukuoka-america-drying-up]], [[fukuoka-food-as-strategic-weapon]], [[fukuoka-natural-farming-new-age]], [[fukuoka-natural-farming-method]], [[fukuoka-four-principles-natural-farming]], [[fukuoka-natural-farming-philosophy]], [[fukuoka-natural-farming-philosophy-of-mu]]
-
-## Practical Applications
-
-The principles outlined on this page connect directly to hands-on work in gardens,
-farms, and homesteads. Integrating these concepts with complementary techniques from
-related disciplines can significantly improve outcomes. Start with small-scale
-implementation and scale up as understanding deepens through [[fukuoka-direct-observation-method]].
+Modern deficit farming operates through a chain of [[fukuoka-food-as-strategic-weapon]], [[fukuoka-natural-farming-method]], [[fukuoka-natural-farming-philosophy]], [[fukuoka-direct-observation-method]].
 
 ## Philosophical Context
 
 Fukuoka's work emerged from a deep disillusionment with the trajectory of modern
 civilization. His experiences as a plant pathologist, farmer, and philosopher
 converged into a worldview that questioned humanity's separation from nature.
-He argued that the more humans try to [[fukuoka-straw-pest-control-natural-balance]] systems, the further they
-drift from genuine understanding. This perspective challenges both conventional
-agriculture and the assumptions underlying industrial progress.
-
-## Implications for Modern Agriculture
-
-The principles demonstrated in Fukuoka's work have profound implications for
-contemporary food systems. As soil degradation, water scarcity, and chemical
-dependency threaten global food security, his methods offer a viable alternative.
-[[comparison-natural-farming-vs-permaculture]] requires no external inputs, builds soil fertility over time,
+He argued that the more humans try to [[comparison-natural-farming-vs-permaculture]] requires no external inputs, builds soil fertility over time,
 and produces food with minimal environmental impact. These approaches are
-increasingly relevant as [[dighton-fungi-climate-change-feedback]] accelerates the need for resilient
-agricultural systems that work with rather than against natural processes.
-
-## Connection to Permaculture
-
-Fukuoka's natural farming directly influenced the development of permaculture.
-Bill Mollison and David Holmgren drew on his principles when formulating their
-design framework. The emphasis on observation, minimal intervention, and working
-with natural patterns runs through both philosophies. Understanding Fukuoka's
-original insights provides a deeper foundation for [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]] practice
+increasingly relevant as [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]] practice
 and helps practitioners move beyond techniques to genuine ecological literacy.
 
 ## Lessons for Personal Practice
@@ -109,8 +80,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[natural-farming]]
 - [[doc]]
-- [[det]]
 - [[bill-mollison]]
 - [[permaculture]]

@@ -37,12 +37,12 @@ Research summary of psilocybin-related fungal biology compiled from published pa
 
 ## Metabolic Pathway of Psilocybin Biosynthesis
 
-Psilocybin is produced via [[primary-metabolic-precursors-to-the-shikimate-pathway]] in fungal cytosol:
+Psilocybin is produced via the Shikimate pathway in fungal cytosol:
 
 1. **Shikimate pathway**: Phosphoenolpyruvate + eryrose-4-P -> chorismate (via 7 enzymatic steps)
 2. **Tryptophan branch**: Chorismate -> anthranilate -> tryptophan (via 6 steps)
-3. **Decarboxylation**: Tryptophan -> tryptamine (via [[tryptophan-decarboxylase]] — this step is self-regulated)
-4. **Hydroxylation + methylation**: Tryptamine -> psilocin -> psilocybin (exact intermediates still unclear; [[baeocystin-and-norbaeocystin-in-psilocybin-biosynthesis]] are produced as phosphorylated intermediates)
+3. **Decarboxylation**: Tryptophan -> tryptamine (via tryptophan decarboxylase — this step is self-regulated)
+4. **Hydroxylation + methylation**: Tryptamine -> psilocin -> psilocybin (exact intermediates still unclear; baeocystin and norbaeocystin are produced as phosphorylated intermediates)
 
 ### Tryptophan Decarboxylase Inhibition
 
@@ -117,7 +117,7 @@ Total alkaloids: up to ~2.5% dry weight (25 mg/g).
 | Dry mass per 10g substrate | 2.3-2.9g | 3.4-3.9g |
 | Incomplete fruit bodies | Common | Almost completely suppressed |
 
-Morphological change: treated fruit bodies lacked the typical membranous annulus on stems. First study demonstrating [[brassinosteroid-effects-on-fungal-fruiting-morphology]] fungi.
+Morphological change: treated fruit bodies lacked the typical membranous annulus on stems. First study demonstrating brassinosteroid effects on fungi.
 
 ## Light Effects on Fruiting (Badham 1980)
 
@@ -141,10 +141,10 @@ Lentinus squarrosulus on 6 media x 3 spawn grains — significant interaction ef
 
 Key finding: corn spawn x animal bedding/rice medium produced heaviest carpophores and widest caps. Millet spawn x same medium gave widest stipes. Spawn grain choice interacts significantly with substrate medium.
 
-## Large-Scale Synthesis (Shirota, Hakamata & Goda 2003)
+## See Also
 
-Gram-scale synthesis of [[psilocin-and-psilocybin-chemistry]] without chromatographic purification. Published in J. Nat. Prod. 2003, 66, 885-887. National Institute of Health Sciences, Tokyo, Japan.
-
-### Psilocin Synthesis (3 steps from 4-hydroxyindole)
-
-| Step | Transformation | Conditions | Yield |
+- [[fungi-in-the-environment-fungal-ecosystems]]
+- [[fungal-amber-fossils]]
+- [[singh-fungal-pellet-formation-bioremediation]]
+- [[dark-septate-endophytes]]
+- [[fungal-pathogens-human-disease]]

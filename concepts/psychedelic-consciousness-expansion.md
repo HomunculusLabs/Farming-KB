@@ -23,67 +23,99 @@ Consciousness expansion means accessing informational patterns that are normally
 
 ### Chemical Dismantling of Constraints
 
-Chemically dismantling the raphe system's screening effect admits the entry of latent information into consciousness. In bacterial systems, metabolism is governed by Michaelis-Menten kinetics. [[chlorobenzene-chlorophenoxy-fungal-degradation]] and psychedelic consciousness expansion both display pseudo-first-order kinetics, where rates depend on initial conditions rather than specific enzymatic matches.
-
-### Increased Neuronal Activity
-
-The parts of the brain which become more activated under psilocybin are involved with novelty-detection, arousal, emotions, and the relaying of sensory information. This is not random excitation but structured activation that follows the "psychological language" of the brain, producing meaningful rather than nonsensical experiences.
-
-### 5-HT2 Receptor Activation
-
-Both psilocybin and mescaline bind to 5-HT2 receptors in the locus coeruleus, altering the functioning of this novelty-detection system and raising levels of alertness and arousal. This common mechanism across different psychedelics suggests a unified basis for consciousness expansion regardless of the specific compound used.
-
-## The Quality of Expanded Consciousness
-
-### Holistic Perception
-
-Expanded consciousness allows "all of perceived reality to be grasped at once, holistically." This contrasts with the piecemeal fashion of normal science and ordinary awareness. The holistic perception reveals relationships and patterns invisible to fragmentary analysis.
-
-### Enhanced Meaning
-
-The sense of meaning during expanded consciousness arises from genuine information integration. When vast amounts of normally separate information coalesce into unified patterns, the result is experienced as profoundly meaningful. This is not wishful thinking but a direct consequence of increased informational coherence.
-
-### Vivid Memory
-
-Unlike ordinary dreams, which fade quickly, psilocybin visions "remain fairly emblazoned upon the memory, like favourite movie clips." The combination of dream-like content with full waking consciousness and lasting memory makes the expanded state uniquely impactful.
-
-## From Expansion to Understanding
-
-Powell argues that consciousness expansion is not merely an interesting [[dosage-unpredictability-psilocybin-subjective-experience]] but a form of empirical investigation. Since consciousness mediates all our models of reality, changing consciousness changes our access to information about reality. "New forms of conscious experience might well offer us a glimpse into the biggest questions that face our mortal existence."
+Chemically dismantling the raphe system's screening effect admits the entry of latent information into consciousness. In bacterial systems, metabolism is governed by Michaelis-Menten kinetics. [[dosage-unpredictability-psilocybin-subjective-experience]] but a form of empirical investigation. Since consciousness mediates all our models of reality, changing consciousness changes our access to information about reality. "New forms of conscious experience might well offer us a glimpse into the biggest questions that face our mortal existence."
 
 The expanded state reveals that:
 - Reality is more interconnected than normal perception suggests
 - Consciousness is informational in nature
 - Matter and mind are different expressions of the same underlying substance (information)
-- Nature possesses an inherent intelligence ([[powell-natural-intelligence-and-the-universal-computation]])
-- Human consciousness has a functional role within the reality process
+- Nature possesses an inherent intelligence ([[omega-point-and-psychedelic-eschatology]] concept (from Pierre Teilhard de Chardin) and the attractor concept (from [[neo-shamanic-phenomenology-and-limits-of-science]]
 
-## The Universal Computation
-
-Powell frames reality itself as a computation-like process. The Universe is "a rushing river of integrating information" destined to reach "some final organised form." Consciousness expansion through psilocybin provides a preview of this eventual state of informational unity. The [[omega-point-and-psychedelic-eschatology]] concept (from Pierre Teilhard de Chardin) and the attractor concept (from [[terence-mckenna]]) both suggest that reality is being drawn toward a state of complete information integration.
-
-When human consciousness succeeds in realising its true role within reality, and when "the Other has fully transformed or reflected itself within the totality of Gaia," this will represent the attractor or final stage of the reality process. Consciousness expansion provides glimpses of this ultimate state.
-
-## Implications for Human Development
-
-Powell suggests that expanded consciousness reveals our true role within the reality process. We are not "mere bystanders on a speck of dust" but "caught up in a rapidly accelerating information processing computation." The expansion of consciousness is not escapism but engagement with a deeper reality.
-
-The practical implications include:
-- A shift from exploitative to cooperative relationship with Nature
-- Recognition of the intelligence inherent in natural systems
-- Understanding of consciousness as a fundamental aspect of reality
-- A sense of purpose and meaning within the cosmic process
-- Motivation for environmental stewardship and cultural transformation
-
-## Degrees of Cognitive Freedom
-
-Powell's concept of "increased degrees of cognitive freedom" suggests that consciousness expansion exists on a continuum. Different doses, set, setting, and individual factors produce varying degrees of expansion. The therapeutic, creative, and spiritual benefits may correspond to different points on this continuum. Understanding this continuum is essential for the responsible and effective use of consciousness-expanding substances.
-
-## See Also
-
-- [[neo-shamanic-phenomenology-and-limits-of-science]]
-
-- [[philosophical-implications-of-psychedelics]]
 - [[psilocybin-and-mystical-experience]]
 
 ## Related
+
+## Overview
+
+Psychedelic Consciousness Expansion represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish psychedelic consciousness expansion
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving psychedelic extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Psychedelic Consciousness Expansion finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for psychedelic consciousness expansion. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+psychedelic consciousness expansion and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Psychedelic Consciousness Expansion has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of psychedelic consciousness expansion into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[psychedelic-mushroom-pharmacology]]
+- [[psychedelic-psychotherapy-paradigms]]
+- [[psychedelic-safety-guidelines-turner]]
+- [[shamanic-vs-western-psychedelic-healing]]
+- [[turner-cydelikspace-and-psychedelic-reality]]

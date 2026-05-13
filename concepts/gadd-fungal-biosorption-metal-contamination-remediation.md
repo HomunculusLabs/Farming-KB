@@ -20,7 +20,7 @@ sources:
 
 ## Fungi as Geomicrobiological Agents
 
-Fungi are significant [[fungal-bioweathering-and-mineral-transformations]] agents capable of dissolving minerals and mobilizing metals at higher pH values and over a wider redox range than bacteria (Gu et al., 1998; Castro et al., 2000; Burford et al., 2003). While bacteria have traditionally dominated geomicrobiological research due to their extensive metabolic versatility — growing under both [[query-what-is-the-difference-between-aerobic-and-anaerobic-composting]] conditions — there is increasing evidence that fungi outperform bacteria in mineral dissolution under many environmental conditions.
+Fungi are significant [[query-what-is-the-difference-between-aerobic-and-anaerobic-composting]] conditions — there is increasing evidence that fungi outperform bacteria in mineral dissolution under many environmental conditions.
 
 Their filamentous growth habit, high surface-area-to-mass ratio, and ability to translocate nutrients within mycelial networks make them well suited to geomicrobiological roles. Fungi have been components of terrestrial microbial communities since the Ordovician period (~480–460 MYBP), inhabiting deserts, metal-rich habitats, and hypersaline environments. They exhibit considerable tolerance of extreme conditions — metal toxicity, desiccation, UV radiation — and can adopt diverse growth, metabolic, and morphological strategies.
 
@@ -38,11 +38,7 @@ Fungal metal immobilization reduces external free metal activity and may shift d
 
 Three primary immobilization mechanisms operate:
 
-1. **[[biosorption-isotherms|Biosorption]] to biomass** — metals bind to cell walls, pigments (e.g. melanin, mycosporines), and extracellular polysaccharides. This is largely a passive, metabolism-independent process influenced by cell wall composition and environmental pH.
-
-2. **Transport and intracellular accumulation** — metals are taken up into cells via membrane transporters and sequestered internally, often in vacuoles or bound to intracellular ligands such as metallothioneins and phytochelatins.
-
-3. **Extracellular precipitation** — metals are precipitated as [[gadd-mycogenic-mineral-precipitation-secondary-minerals]] outside the cell through both metabolism-dependent and metabolism-independent processes, including redox transformations.
+1. **[[gadd-mycogenic-mineral-precipitation-secondary-minerals]] outside the cell through both metabolism-dependent and metabolism-independent processes, including redox transformations.
 
 Fungi are highly efficient bioaccumulators of Ni, Zn, Ag, Cu, Cd, and Pb, particularly from dilute external concentrations (Gadd, 1993, 2000; Baldrian, 2003). Metal binding is an important passive process occurring in both living and dead fungal biomass (Gadd, 1990, 1993). Non-viable biomass retains biosorptive capacity — a property relevant to biotechnological metal recovery and wastewater treatment applications.
 
@@ -62,15 +58,7 @@ Microbial carbonate precipitation coupled with silicate weathering represents an
 
 During decomposition of fungal hyphae, calcite crystals act as nucleation sites for further secondary calcite precipitation, reinforcing soil structure over time. Chitin — the major component of fungal cell walls — is a substrate on which calcite readily nucleates (Manoli et al., 1997). Near-surface limestones, calcic and petrocalcic horizons are often secondarily cemented with calcite and whewellite (calcium oxalate monohydrate). Calcium oxalate can also be degraded to calcium carbonate in semi-arid environments, acting to cement pre-existing limestones (Verrecchia et al., 1990).
 
-### Metal [[fungal-cell-wall-composition-and-structural-organization]] Production
-
-Fungi produce metal oxalates with a variety of metals: Ca, Cd, Co, Cu, Mn, Sr, Zn, Ni, and Pb (Arnott, 1995; Gadd, 1999; Sayer et al., 1999; Fomina et al., 2005a). Calcium oxalate is the most common form in nature, occurring as the dihydrate (weddellite) and the more stable monohydrate (whewellite), and is associated with various ecophysiological groups of fungi.
-
-Biogenic calcium oxalate exhibits diverse crystalline forms — tetragonal, bipyramidal, plate-like, rhombohedral, and needles — depending on physicochemical conditions. Oxalate precipitation serves multiple ecological functions:
-
-- Acts as a **calcium reservoir** in the ecosystem.
-- Influences **phosphate availability** through competitive geochemical interactions.
-- Provides a **tolerance mechanism** against [[fungal-biosorption-of-heavy-metals-by-filamentous-fungi|toxic metals]] by precipitating them as insoluble oxalates.
+### Metal [[fungal-biosorption-of-heavy-metals-by-filamentous-fungi|toxic metals]] by precipitating them as insoluble oxalates.
 
 The formation of toxic metal oxalates enables fungi to tolerate environments containing high metal concentrations. *Beauveria caledonica*, an oxalate-over-excreting fungus, transforms Cd, Cu, Pb, and Zn from a variety of toxic metal minerals into corresponding oxalates and is tolerant to all tested minerals (Fomina et al., 2005a). Oxalate excretion is enhanced by NO₃⁻ as a nitrogen source (versus NH₄⁺), and by the presence of HCO₃⁻, Ca²⁺, and certain toxic metals or minerals (e.g. pyromorphite, zinc phosphate). If a fungal culture is capable of excreting large amounts of a strong chelator such as oxalate, the solubilization mechanism shifts from proton-promoted to ligand-promoted dissolution.
 
@@ -78,15 +66,7 @@ The formation of toxic metal oxalates enables fungi to tolerate environments con
 
 A specific combination of biotic and abiotic factors leads to deposition of various other secondary minerals associated with fungi, including birnessite, ferrihydrite, goethite, montmorillonite, moolooite (copper oxalate), glushkinskite (magnesium oxalate), and calcium formate. Precipitation immobilizes metals in the soil environment and limits bioavailability (Gadd, 2000).
 
-## [[bioremediation-monitoring-and-assessment|Bioremediation]] Potential
-
-The ability of fungi to immobilize [[fungal-biosorption-of-heavy-metals-by-filamentous-fungi|metals]] via biosorption, intracellular accumulation, and extracellular precipitation converts metals into chemically more inert forms, resulting in effective **detoxification** of [[mycoremediation-mushroom-cultivation-contaminated-substrates]] (Gadd, 2000; Fomina & Gadd, 2002). Key applications include:
-
-- **Cr(VI)-reducing fungi** are useful for treatment of Cr-polluted soils, reducing the highly toxic and mobile Cr(VI) to less toxic Cr(III) (Cervantes et al., 2001).
-- **Phosphate-induced metal stabilization** — a proposed cost-effective remediation technology — leads to deposition of toxic metal phosphates (e.g. hopeite, pyromorphite) in treated soils (Chen et al., 1997; Brown et al., 2004), though fungi may transform these products over time, requiring long-term assessment.
-- Fungal dissolution of toxic metal minerals can be harnessed for cleaning soils, solid industrial wastes, low-grade ores, and metal-bearing by-products.
-
-Reductive and oxidative precipitation extends beyond chromium. Reduced forms of [[staycare-fungal-biomethylation-of-metals-and-metalloids]] (elemental Ag, Se, Te) can be precipitated within and around fungal cells, often visible as colony coloration (black for Ag or Te, red for Se). Fungi oxidize Mn and Fe in minerals such as siderite (FeCO₃) and rhodochrosite (MnCO₃), precipitating them as oxides, and form dark Fe(II)- and Mn(II)-patinas on rock and glass surfaces. An oxidized metal layer (desert varnish) found on rocks in arid and semi-arid regions is also believed to be of microbial origin with some proposed fungal involvement.
+## [[fungal-biosorption-of-heavy-metals-by-filamentous-fungi|metals]] via biosorption, intracellular accumulation, and extracellular precipitation converts metals into chemically more inert forms, resulting in effective **detoxification** of [[staycare-fungal-biomethylation-of-metals-and-metalloids]] (elemental Ag, Se, Te) can be precipitated within and around fungal cells, often visible as colony coloration (black for Ag or Te, red for Se). Fungi oxidize Mn and Fe in minerals such as siderite (FeCO₃) and rhodochrosite (MnCO₃), precipitating them as oxides, and form dark Fe(II)- and Mn(II)-patinas on rock and glass surfaces. An oxidized metal layer (desert varnish) found on rocks in arid and semi-arid regions is also believed to be of microbial origin with some proposed fungal involvement.
 
 ## Practical Applications
 
@@ -117,8 +97,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[fungal-hyphae]]
 - [[doc]]
-- [[dom]]
 - [[det]]
 - [[composting]]

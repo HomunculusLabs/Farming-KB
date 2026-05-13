@@ -30,7 +30,7 @@ The king bolete, Boletus edulis, known as porcini in Italy, cep in France, and p
 
 Yet the bolete group also contains species that are bitter, species that cause gastrointestinal distress, and even a handful of species reported to have psychoactive properties.
 
-Understanding boletes means engaging with fundamental questions in mycology, forest ecology, and human culture.
+Understanding boletes means engaging with fundamental questions in [[mycology]], forest ecology, and human culture.
 
 Their obligate mycorrhizal lifestyle ties their fate directly to the health of forest ecosystems.
 
@@ -40,7 +40,7 @@ Their taxonomic complexity, currently undergoing extensive molecular revision, c
 
 ## What Makes a Bolete: Anatomy and Morphology
 
-The defining feature of any bolete is its hymenophore, the spore-producing surface on the underside of the cap.
+The defining feature of any bolete is its hymenophore, the [[spore]]-producing surface on the underside of the cap.
 
 Instead of the blade-like gills characteristic of agarics, boletes possess a dense layer of vertically oriented tubes that open downward as tiny pores.
 
@@ -80,47 +80,7 @@ Others turn red, pink, brown, or black.
 
 Some show no color change at all.
 
-These bruising reactions are among the most important diagnostic features for [[palmer-mushroom-hunting-field-identification]].
-
-## Taxonomy and Classification
-
-Boletes belong to the order Boletales within the class Agaricomycetes of the Basidiomycota.
-
-The family Boletaceae, traditionally the home of most bolete species, has undergone dramatic taxonomic revision in the molecular era.
-
-DNA phylogenetics has revealed that the classical concept of Boletus as a large genus encompassing most pored mushrooms was polyphyletic, containing many lineages only distantly related to the type species.
-
-Modern taxonomy has split the traditional Boletus into numerous genera.
-
-Species once placed in Boletus have been reassigned to genera including Butyriboletus, Suillellus, Rubroboletus, Neoboletus, Caloboletus, Retiboletus, and many others.
-
-These new genera are largely defined by molecular phylogeny, though each tends to share certain morphological and ecological traits.
-
-The genus Boletus in its modern restricted sense contains relatively few species but includes the most commercially important of all, Boletus edulis and its close relatives.
-
-Other major bolete genera include Suillus, associated primarily with conifers; Tylopilus, with pinkish pore surfaces and frequently bitter flesh; Leccinum, characterized by scabrous stems; and Xerocomus and its segregate genera, small to medium boletes with dry caps.
-
-Despite this taxonomic upheaval, the common name "bolete" continues to serve as a useful informal term for the entire group of mushrooms with poroid hymenophores within the Boletales.
-
-For foragers and naturalists, this broader usage remains far more practical than tracking the latest molecular reclassifications.
-
-## Major Genera and Their Characteristics
-
-The genus Suillus, commonly called slippery jacks, is one of the most easily recognized groups of boletes.
-
-Members typically have viscid or glutinous cap surfaces when wet, often with a partial veil that leaves a ring on the stem.
-
-The stem is frequently decorated with glandular dots, small dark specks that are actually clusters of pigmented cells.
-
-Suillus species are overwhelmingly associated with conifers, particularly pines and spruces.
-
-Some Suillus species have been introduced far beyond their native ranges alongside plantation forestry, becoming naturalized in exotic pine forests worldwide.
-
-Tylopilus is a genus where edibility requires caution.
-
-The pore surface is typically pinkish or rosy, especially when young, and the flesh of many species is intensely bitter.
-
-[[tylopilus-felleus]], the bitter bolete, is the most commonly encountered member and is notorious for its resemblance to Boletus edulis.
+These bruising reactions are among the most important diagnostic features for [[tylopilus-felleus]], the bitter bolete, is the most commonly encountered member and is notorious for its resemblance to Boletus edulis.
 
 While not toxic, its extreme bitterness makes it completely unusable in cooking, and a single specimen can ruin an entire dish.
 
@@ -130,7 +90,7 @@ These scales darken from whitish to brown or black as the mushroom matures.
 
 Most Leccinum species are mycorrhizal with birch and aspen, though some associate with poplar or oak.
 
-Several are excellent edibles, including [[leccinum-aurantiacum]] (orange birch bolete) and [[leccinum-scabrum]] (brown birch bolete), though they require thorough cooking.
+Several are excellent edibles, including [[leccinum-scabrum]] (brown birch bolete), though they require thorough cooking.
 
 The Xerocomus group, recently segregated into genera including Xerocomellus and Hemileccinum, contains many of the small to medium-sized boletes most commonly encountered in oak and mixed hardwood forests.
 
@@ -140,9 +100,7 @@ While not as commercially celebrated as porcini, many are excellent edibles and 
 
 Aureoboletus is a smaller genus containing some visually striking species.
 
-[[aureoboletus-mirabilis]] has a shaggy, fibrillose cap and bright yellow pores, and is unusual among boletes in sometimes fruiting on decaying conifer wood.
-
-Aureoboletus pulcherrimus displays a deep red cap with contrasting yellow pores, making it one of the more visually dramatic boletes in [[growing-gourmet-north-american-reishi-species]] forests.
+[[growing-gourmet-north-american-reishi-species]] forests.
 
 ## The King Bolete: Boletus edulis and the Porcini Complex
 

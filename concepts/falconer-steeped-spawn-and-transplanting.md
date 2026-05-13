@@ -2,19 +2,13 @@
 title: Falconer Steeped Spawn And Transplanting
 created: 2026-04-28
 tags:
-  [[mushroom-cultivation]], mushroom-spawn, [[mycelium]], victorian-gardening, spawning]
+  mycelium, victorian-gardening, spawning]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [ /Users/t3rpz/wiki/raw/papers/william-falconer-mushroom-how-to-grow-them.md, ]
 type: concept
 ---
-# Steeped Spawn and Transplanting Working Spawn The [[mycelium-network-intelligence]] until it is planted.
-
-## Flake Spawn from Brick
-
-Mr. Henshaw, in the first edition of Henderson's Handbook
-of Plants, described a method of creating flake spawn from
-[[french-flake-spawn-vs-brick-spawn]]: "This is produced by breaking up the brick
+# Steeped Spawn and Transplanting Working Spawn The [[french-flake-spawn-vs-brick-spawn]]: "This is produced by breaking up the brick
 spawn into pieces about two inches square and mixing them in
 a heap of manure that is fermenting gently. After lying in
 this heap about three weeks it will be found one mass of
@@ -90,9 +84,7 @@ When you want to mold over beds soon after spawning them,
 shallow planting is to be recommended. But if the beds are
 
 ## See Also
-- [[mycelium]]
 - [[falconer-mushroom-spawn-types-and-merits]]
-- [[cultivator-grain-spawn-preparation-and-inoculation]]
 - [[falconer-victorian-mushroom-spawn-making-brick-flake-production]]
 - [[grain-spawn-types-and-preparation]]
 

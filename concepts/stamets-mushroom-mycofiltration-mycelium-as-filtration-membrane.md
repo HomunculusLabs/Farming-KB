@@ -51,7 +51,7 @@ The mycofiltration concept is incorporated into an integrated farm model explore
 
 Mycofiltration is closely related to but distinct from mycoremediation. Mycofiltration focuses on the removal of biological contaminants (bacteria, nematodes, particulate organic matter) from water through the physical and biological action of the mycelial network. Mycoremediation, by contrast, focuses on the degradation of chemical pollutants (petroleum hydrocarbons, PCBs, pesticides) through the enzymatic action of wood-rotting fungi.
 
-The white rot fungi (particularly Phanerochaete chrysosporium) and brown rot fungi (notably Gloeophyllum species) are the most widely used organisms for mycoremediation. These wood-rotters produce lignin peroxidases and cellulases with unusually powerful degradative properties. These extracellular enzymes evolved to break down plant fiber, primarily lignin-cellulose, but by happenstance they also reduce recalcitrant hydrocarbons and other man-made toxins.
+The [[white-rot-fungi]] (particularly Phanerochaete chrysosporium) and brown rot fungi (notably Gloeophyllum species) are the most widely used organisms for mycoremediation. These wood-rotters produce lignin peroxidases and cellulases with unusually powerful degradative properties. These extracellular enzymes evolved to break down plant fiber, primarily lignin-cellulose, but by happenstance they also reduce recalcitrant hydrocarbons and other man-made toxins.
 
 Both processes share the fundamental principle that the mycelial network, with its enormous surface area and enzymatic capabilities, can serve as an active biological treatment system rather than a passive filter.
 
@@ -113,9 +113,6 @@ Established mycofilters require minimal intervention but benefit from periodic m
 
 ## See Also
 
-- [[stamets-king-stropharia-permaculture-mycofiltration]] - King Stropharia in permaculture systems
 - [[stamets-mycoremediation-case-studies]] - Bioremediation applications
-- [[stropharia-rugoso-annulata-mycofiltration]] - Detailed Stropharia mycofiltration
 - [[natural-culture-myco-landscaping]] - Creating mycological landscapes
-- [[growing-gourmet-mushrooms-mycelium-mycopermaculture-ecological-landscaping]] - Mycopermaculture overview
 - [[singh-mycofiltration-water-runoff]] - Technical mycofiltration methods

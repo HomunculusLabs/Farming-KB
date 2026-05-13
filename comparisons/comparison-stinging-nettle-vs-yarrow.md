@@ -12,16 +12,7 @@ sources: []
 
 Stinging nettle (*Urtica dioica*) and yarrow (*Achillea millefolium*)
 are two of the most versatile perennial plants in temperate
-permaculture systems. Both serve as [[comparison-dynamic-accumulators-vs-cover-crops]], medicinal
-herbs, and valuable companion plants, yet they differ significantly
-in growth habits, nutritional profiles, and primary ecological
-functions. Understanding these differences helps gardeners decide
-which plant best suits their needs — or how to combine both for
-maximum benefit.
-
-## Stinging Nettle
-
-[[yarrow-achillea-millefolium]]
+permaculture systems. Both serve as [[yarrow-achillea-millefolium]]
 
 Yarrow is a compact (20–100 cm) herbaceous perennial in the family
 Asteraceae, native across temperate Northern Hemisphere regions. It
@@ -57,29 +48,7 @@ tolerant ground cover.
 | Medicinal focus | BPH, allergies, arthritis | Wounds, digestion, fever |
 | Companion role | Fertilizer tea, soil builder | Insectary, predator host |
 | Pollinator value | Moderate | High (flat landing platforms) |
-| [[dighton-fungal-drought-tolerance-plant-water-relations]] | Moderate | High |
-| Sting risk | Yes (trichomes) | None |
-| USDA zones | 3–10 | 3–9 |
-
-## Nutritional and Medicinal Comparison
-
-The nutritional contrast is stark. Nettle is a nutritional powerhouse
-with extraordinary iron, calcium, and vitamins A, C, and K — one of
-the most nutrient-dense wild foods available. Yarrow, while edible,
-is valued for bitter aromatic compounds rather than macronutrients.
-
-Medicinally, nettle excels against chronic conditions (BPH, arthritis,
-allergies), while yarrow suits acute situations: wound management,
-fever reduction, digestive upset, and menstrual cramping. Yarrow's
-hemostatic action (achilleine) makes it superior for stopping
-bleeding; nettle's antihistamine properties make it superior for
-allergic reactions.
-
-## Permaculture Applications
-
-These plants serve complementary roles. Nettle is the soil builder —
-its nitrogen-rich biomass, deep mineral-mining roots, and compost tea
-make it indispensable for [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]]. Plant nettle near compost
+| [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]]. Plant nettle near compost
 piles, in chop-and-drop zones, or along nitrogen-hungry fruit trees.
 
 Yarrow is the insectary champion. Its flat flower clusters attract
@@ -92,14 +61,7 @@ nettle would struggle.
 
 Choose nettle when soil fertility and nutrient cycling are the
 priority. It suits food forests with nitrogen-demanding fruit trees,
-[[jadam-liquid-fertilizer-nutritional-perspective]] production (nettle tea), and spring green
-harvesting. Nettle also indicates nitrogen-rich soil. Be cautious
-with placement, as aggressive rhizomatous spread can overwhelm
-neighbors in small spaces.
-
-## When to Choose Yarrow
-
-Choose yarrow when attracting [[comparison-beneficial-insects-guide-vs-integrated-pest-management]], managing pests
+[[comparison-beneficial-insects-guide-vs-integrated-pest-management]], managing pests
 biologically, or adding drought-tolerant ground cover are the goals.
 It suits borders, rock gardens, meadow plantings, and orchard
 understories. Yarrow's compact size makes it appropriate for smaller
@@ -117,8 +79,5 @@ Together they form a foundation of the herbaceous layer in temperate
 permaculture designs.
 ## See Also
 
-- [[comparison-dandelion-vs-yarrow]]
-
 - [[comparison-comfrey-vs-yarrow]] — Comfrey compared with yarrow
-- [[calendula-officinalis]] — Wound-healing companion plant
 - [[comparison-calendula-vs-chamomile]] — Related herb comparison

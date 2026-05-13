@@ -41,43 +41,7 @@ mushroom industry and continue to drive innovation in both food production and
 natural health. No other genus of fungi has been so thoroughly domesticated,
 studied, and bred for commercial purposes.
 
-What makes Agaricus unique among [[fungi-cultivated-mushrooms-pathogens-competitors]] is its ecology as a
-secondary decomposer. Unlike oyster mushrooms or shiitake, which attack raw
-lignocellulosic materials directly, Agaricus species require substrates that
-have already been partially broken down by microbial communities. This
-ecological specialization gave rise to the elaborate two-phase composting
-process that defines commercial Agaricus cultivation, a bioengineering
-achievement that transforms raw agricultural waste into a precisely tuned
-growth medium.
-
-The economic scale of Agaricus cultivation is staggering. Global production
-exceeds several million metric tons annually, with China, the United States,
-the Netherlands, and France leading production. The button mushroom and its
-brown variants (cremini and portobello) account for the vast majority of this
-output, sold fresh, canned, dried, and processed into countless food products.
-Beyond food, Agaricus blazei has emerged as one of the most researched
-medicinal mushrooms, with a growing body of evidence supporting
-immunomodulatory and antitumor properties.
-
-## Historical Development of Agaricus Cultivation
-
-The cultivation of Agaricus mushrooms has a longer recorded history than any
-other mushroom species. The practice likely began in France during the
-seventeenth century, when mushroom growers near Paris discovered that Agaricus
-species fruiting wild in meadows could be encouraged to grow in caves and
-underground quarries. These early cultivators observed that mushrooms appeared
-in horse manure and began transporting manure into the cool, humid
-subterranean environments where mushrooms grew abundantly.
-
-By the early [[mckenna-club-des-hachischins-and-nineteenth-century-literary-hashish]], French [[accessible-mushroom-cultivation-for-disabilities]] had become a
-significant industry. Growers refined the practice of preparing compost from
-horse manure and straw, spawning it with mycelium from wild mushrooms, and
-managing the cave environment to produce reliable crops. The techniques
-developed in France spread to England, where commercial cultivation began in
-the mushroom houses of London around 1810, and eventually to the United States
-by the late 1800s.
-
-The [[coleman-louis-savier-twentieth-century-maraicher]] brought scientific rigor to what had been an empirical
+What makes Agaricus unique among [[mckenna-club-des-hachischins-and-nineteenth-century-literary-hashish]], French [[coleman-louis-savier-twentieth-century-maraicher]] brought scientific rigor to what had been an empirical
 art. Researchers at the USDA and European agricultural stations isolated pure
 cultures of Agaricus mycelium, developed grain spawn production, and
 systematically studied the composting process. The introduction of controlled
@@ -116,20 +80,11 @@ Sexual reproduction involves the fusion of compatible hyphae to form
 dikaryotic mycelium, which eventually produces fruiting bodies (mushrooms). On
 the gill surfaces, specialized cells called basidia undergo meiosis and
 produce basidiospores, which are forcibly discharged into the air to disperse
-and germinate on suitable substrates. [[genetic-improvement-agaricus-bisporus-molecular-approaches]] is unusual in being
-secondarily homothallic: each basidium produces only two spores, and each
-spore contains a pre-formed dikaryon, meaning a single spore can germinate
-into fully fertile mycelium capable of producing mushrooms without mating.
+and germinate on suitable substrates. [[mushroom-cultivation-fundamentals]] covers general mushroom growing principles that apply to all species.
 
-## See Also
-
-[[mushroom-cultivation-fundamentals]] covers general mushroom growing principles that apply to all species.
-
-[[composting-and-soil-biology]] provides broader context on composting and soil [[fukuoka-microbial-ecology-decomposition]].
+[[fukuoka-microbial-ecology-decomposition]].
 
 medicinal-mushroom-cultivation-and-use explores medicinal properties and cultivation of A. blazei and other therapeutic species.
-
-[[mushroom-contamination-identification-and-troubleshooting]] details pests, diseases, and competitive organisms affecting Agaricus crops.
 
 [[mushroom-spawn-production-and-laboratory-techniques]] describes grain spawn production for Agaricus cultivation.
 

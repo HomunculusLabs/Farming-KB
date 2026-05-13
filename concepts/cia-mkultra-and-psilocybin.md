@@ -8,7 +8,7 @@ tags: [reference]
 ---
 # CIA MKULTRA and Psilocybin
 
-The involvement of the United States Central Intelligence Agency with psilocybin represents one of the most unsettling episodes in the history of [[mckenna-suppression-psychedelic-research-lsd-therapy]]. As Simon G. Powell documents in "The [[powell-psilocybin-solution-ecological-cognition-theory]]," the CIA's covert interest in sacred mushrooms emerged almost simultaneously with legitimate scientific investigation, creating a counter-current to psilocybin's spiritual mystique that would ultimately contribute to the substance's prohibition.
+The involvement of the United States Central Intelligence Agency with psilocybin represents one of the most unsettling episodes in the history of [[powell-psilocybin-solution-ecological-cognition-theory]]," the CIA's covert interest in sacred mushrooms emerged almost simultaneously with legitimate scientific investigation, creating a counter-current to psilocybin's spiritual mystique that would ultimately contribute to the substance's prohibition.
 
 ## Project MKULTRA and the Search for Mind Control
 
@@ -85,44 +85,9 @@ CIA agents observed the subjects through two-way mirrors and recorded their beha
 The program was later expanded to include unwitting dosing of people in restaurants, bars, and beaches.
 Ken Kesey, who would later become a key figure in the psychedelic counterculture as author of "One Flew Over the Cuckoo's Nest," first encountered LSD as a volunteer in what he believed was a legitimate government research program at the Veterans Administration Hospital in Menlo Park — a program that was in fact an MKULTRA-funded experiment.
 The irony of MKULTRA inadvertently seeding the counterculture it sought to suppress is a recurring theme in psychedelic history.
-See [[lsd-discovery-and-history]] — CIA experiments with LSD
-- [[psychedelic-prohibition-and-the-war-on-consciousness]] — The broader prohibition movement
-- [[sacred-sacrament-mushroom-rites]] — Maria Sabina and [[maria-sabina-mazatec-mushroom-ceremony]] ceremonies
+See [[psychedelic-prohibition-and-the-war-on-consciousness]] — The broader prohibition movement
+- [[maria-sabina-and-mazatec-mushroom-ceremony]] ceremonies
 - albert hofmann — The chemist who isolated psilocybin
-- [[philosophical-implications-of-psychedelics]] — Modern psychedelic research advocacy
-- simon powell — Author of "The Psilocybin Solution"
-
-## Practical Applications
-
-The principles and techniques discussed here have wide-ranging applications
-across multiple disciplines and contexts. Practitioners and researchers
-continue to explore new ways to integrate these concepts into modern practice,
-adapting traditional knowledge to contemporary challenges and opportunities.
-
-## Key Considerations
-
-Several important factors influence the effectiveness and outcomes described
-in this topic. Understanding these considerations helps practitioners make
-informed decisions and avoid common pitfalls. Environmental conditions,
-timing, and material selection all play critical roles.
-
-## Historical Context
-
-The historical development of this subject reflects centuries of accumulated
-knowledge and practical experience. From traditional methods passed down
-through generations to modern scientific approaches, the evolution continues
-to inform current best practices and research directions.
-
-## Common Challenges
-
-Practitioners frequently encounter several challenges when working with
-these concepts. Climate variability, resource limitations, and knowledge
-gaps can all affect outcomes. Addressing these challenges requires patience,
-observation, and a willingness to adapt approaches based on results.
-
-## See Also
 - [[psilocybin]]
-- [[doc]]
 - [[dom]]
-- [[det]]
 - [[roger-heim]]

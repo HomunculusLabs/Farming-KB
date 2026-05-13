@@ -19,15 +19,10 @@ type: concept
 ## Overview
 
 Jochen Gartz documents the pivotal role of R. Gordon Wasson in bringing
-the sacred [[sacred-mushroom-traditions-in-mexico]] of Mexico to Western attention. Wasson's
-participation in a [[maria-sabina-mazatec-mushroom-ceremony]] ceremony on June 29, 1955, and his
+the sacred [[maria-sabina-and-mazatec-mushroom-ceremony]] ceremony on June 29, 1955, and his
 subsequent publication in *Life* magazine on June 10, 1957, represents
 one of the most significant events in the history of ethnobotany and
-[[mckenna-suppression-psychedelic-research-lsd-therapy]]. Gartz places this discovery within the broader
-context of gartz-magic-mushrooms-species-south-america and
-   gartz-magic-mushrooms-global-distribution-patterns
-- [[gartz-psilocybin-potency-and-alkaloid-variations]]
-- [[powell-mutability-of-consciousness-chemical-lens]]
+[[gartz-psilocybin-potency-and-alkaloid-variations]]
 - [[psilocybin-serotonin-5ht2a-receptor-pharmacology]]
 ## Practical Applications
 
@@ -97,8 +92,6 @@ through generations to modern scientific approaches, the evolution continues
 to inform current best practices and research directions.
 
 ## See Also
-- [[jochen-gartz]]
 - [[doc]]
-- [[psilocybin]]
 - [[det]]
 - [[serotonin]]

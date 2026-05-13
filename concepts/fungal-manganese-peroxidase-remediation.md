@@ -14,48 +14,9 @@ type: concept
 
 Manganese peroxidase (MnP, EC 1.11.1.7) is an extracellular
 glycosylated heme enzyme secreted by white rot fungi that uses
-[[cervantes-hydrogen-peroxide-sterilization]] to oxidize manganese(II) to manganese(III). The
-generated manganese(III)-chelate acts as a freely diffusible,
-non-specific oxidant capable of degrading phenolic lignin subunits,
-aromatic pollutants, and, in the presence of co-substrates,
-non-phenolic compounds including [[singh-fungal-biodegradation-of-polycyclic-aromatic-hydrocarbons]] hydrocarbons.
+[[singh-fungal-biodegradation-of-polycyclic-aromatic-hydrocarbons]] hydrocarbons.
 MnP is one of the three major families of lignin-modifying enzymes
-produced by white rot fungi, alongside [[fungal-lignin-peroxidase-veratryl-alcohol]] and laccase,
-and plays a central role in fungal bioremediation of organic
-pollutants.
-
-## Enzyme Classification and Structure
-
-MnP belongs to class II of the peroxidase family, designated for
-extracellular fungal peroxidases. These enzymes share limited
-homology with other peroxidases but have striking structural
-similarity within the class, related to envelopment of the protein
-around a heme moiety. The heme is the site of oxidation by hydrogen
-peroxide, creating catalytic intermediates Compound I and Compound II.
-MnP has been crystallized, and X-ray crystallographic studies show
-its heme environment is very similar to other plant and fungal
-peroxidases. MnP shares a high degree of sequence homology with
-lignin peroxidase (LiP) but has a unique manganese(II) binding site
-involving carboxylate side chains of three acidic amino acid residues.
-
-## Catalytic Cycle
-
-The MnP catalytic cycle begins with reaction of native enzyme (E)
-with hydrogen peroxide to yield Compound I, containing an oxyferryl
-heme with a porphyrin cation radical. Two sequential single-electron
-reductions by manganese(II) restore the native enzyme via Compound II,
-releasing two manganese(III) ions. The relative concentrations of
-hydrogen peroxide and manganese(II) must be carefully balanced to
-prevent Compound II from reacting with excess hydrogen peroxide to
-form catalytically inactive Compound III. This inactivation pathway
-is a practical concern in bioremediation applications where hydrogen
-peroxide concentrations are difficult to control in soil.
-
-## Requirement for Organic Acid Chelators
-
-Organic acids are essential for MnP function because they chelate
-and stabilize the manganese(III) product. Malonate, citrate,
-glyoxylate, and oxalate are common [[antifungal-secondary-metabolites-coprophilous-fungi]] of wood-
+produced by white rot fungi, alongside [[antifungal-secondary-metabolites-coprophilous-fungi]] of wood-
 rotting basidiomycetes secreted alongside MnP. Oxalate shows unique
 effects in chelating and stabilizing manganese(III) and may bind
 closely to the heme during catalysis. Manganese(II) reacts with
@@ -118,8 +79,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[laccase]]
 - [[dom]]
-- [[white-rot-fungi]]
 - [[sterilization]]
 - [[staycare-manganese-peroxidase-in-fungal-bioremediation]]

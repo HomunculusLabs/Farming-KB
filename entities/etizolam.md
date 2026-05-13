@@ -59,23 +59,7 @@ It displays full agonist activity at the benzodiazepine site with comparable eff
 
 The short half-life and lack of active metabolites distinguish etizolam from many longer-acting benzodiazepines.
 
-Metabolism occurs primarily via hepatic CYP3A4-mediated hydroxylation and [[glucuronidation]].
-
-## Dose Ranges
-
-- **Anxiolytic (therapeutic):** 0.25–1 mg
-- **Hypnotic (therapeutic):** 0.5–2 mg
-- **Recreational threshold:** 0.5–1 mg
-- **Common recreational dose:** 1–2 mg
-- **Heavy recreational dose:** 2–4 mg
-
-⚠️ Tolerance develops rapidly with daily use. Doses above 4 mg significantly increase risk of blackout and respiratory depression.
-
-## Effects Profile
-
-**Desirable effects:** Anxiolysis, euphoria (mild), sedation, muscle relaxation, disinhibition, sleep induction.
-
-**[[blesching-cannabis-safety-adverse-effects-evidence]]:** Drowsiness, cognitive impairment, memory loss (anterograde amnesia), ataxia, slurred speech, emotional blunting.
+Metabolism occurs primarily via hepatic CYP3A4-mediated hydroxylation and [[blesching-cannabis-safety-adverse-effects-evidence]]:** Drowsiness, cognitive impairment, memory loss (anterograde amnesia), ataxia, slurred speech, emotional blunting.
 
 **Hangover effects:** Residual sedation ("benzo hangover"), brain fog, and rebound anxiety are common the day after use.
 
@@ -90,4 +74,9 @@ Withdrawal onset typically begins within 12–24 hours of the last dose, peaking
 Gradual tapering over 4–12 weeks is recommended for discontinuation after prolonged use.
 
 ## See Also
-- [[blesching-cannabis-safety-profile-adverse-effects-and-overdose-risk]]
+
+- [[cannabis-safety-profile-and-overdose-risk]]
+- [[water-permaculture-global-local-strategies]]
+- [[blesching-cannabis-dental-and-oral-health]]
+- [[blesching-cannabis-prostate-cancer-cb1-cb2-receptor-targeting-research]]
+- [[keyline-design]]

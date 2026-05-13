@@ -19,48 +19,7 @@ Topsoil is typically only 6–18 cm deep. Where deeper deposits are found, the e
 Excavation in marshes, bogs, or lowlands may reveal 1–9 m (3–30 feet) of semi-compacted fibrous plant material. Peat should be stockpiled, with about 0.6 m (2 feet) returned to the surface as topsoil. The peat stockpile has multiple valuable uses:
 
 - **Soil improvement** — mixing with sands and loams creates additional topsoil
-- **Nursery growing medium** — an excellent fine-textured medium for [[plant-propagation]]
-- **Building insulation** — peat's low thermal conductivity makes it an effective insulator
-
-Peat should only be burned as fuel in absolute desperation, as those who burn peat are near the base of the resource pyramid — the next step is into barrens and rocks. Peatlands throughout the world urgently need preservation as threatened habitats of unique vegetation.
-
-### Archaeological Value of Peat
-
-Peat is a remarkable preservative. It preserves timber, animals, and unexpected treasures such as hoards of acorns and firkins of beech butter from the forests that preceded the bogs. At the base of Irish bogs, the Fir Bolg (the "little people"), their axes, bridges, butter, and forest life are well preserved. A whole archaeology may lie in peat deposits, and the pollen record can reveal past climate history and human activity.
-
-## Clay
-
-Good clay is extremely useful material that may extend 0.3–6 m (1–20 feet) in depth. Clay resources should be stockpiled and preferably covered with plastic sheets to prevent drying. Uses include:
-
-- **Brick making** — both dried (adobe) and fired brick
-- **Dam and pond sealing** — compacted clay cores create watertight barriers
-- **Pottery** — shaped and fired for containers and vessels
-- **Cricket pitches** — certain clay types provide ideal playing surfaces
-- **Porcelain and ceramics** — fine clays yield high-quality ceramic products
-- **Filters and insulators** — specialized clay compositions serve industrial purposes
-
-### Clay Composition
-
-- **Fireclay** — 58–75% silica, 25–36% alumina, 0.25–2% iron oxide
-- **Brick clay** — approximately 95% silica, no alumina, less than 2% lime
-
-## Sand
-
-Clean sand has numerous applications depending on its characteristics:
-
-- **Grinding powder or silica chips** — clean, pure sand
-- **Calcium source** — yellowish sand with enough calcium to counter soil acidity
-- **Metal casting** — fine, black sand for mould-making
-- **Solar collectors** — black sand for black-sand solar heat collectors
-- **Light reflection** — white sand reflects light like snow, reflecting heat to nearby houses and walls
-- **Ovens and mortar** — "fat sand" containing some clay (less than 20%)
-- **Glass and cement** — sharp sand (mostly silica)
-- **Nursery growing medium** — sharp sand mixed with peat for plant propagation (the best use)
-- **Grit and polish** — sieved sand provides specific particle sizes for mortars and grinders
-
-## Gravel
-
-Gravel serves multiple functions in [[permaculture]] systems:
+- **Nursery growing medium** — an excellent fine-textured medium for [[permaculture]] systems:
 
 - **Road construction** — heaped gravel makes good roads and driveways
 - **Drainage** — gravel-filled drains provide reliable water movement
@@ -117,6 +76,5 @@ Under the earth lie the stories of prior life — camps of ancestors revealed by
 
 ## See Also
 
-- [[earth-resources-excavation]]
 - [[rock-phosphate]]
 - [[soil-ph]]

@@ -16,11 +16,7 @@ updated: 2026-04-26
 
 # Pest Management
 
-[[eliot-coleman]] notes that in the [[cold-house-winter-harvest-system]], [[vegetable-insect-and-disease-control]]
-pests have not been a real consideration. The operation has found
-little new to report since Coleman discussed this topic in earlier
-books. The major pest that has developed is not a bug or a microbe
-but a mammal: the [[coleman-meadow-vole-pest-management]]. This chapter details the battle of
+[[cold-house-winter-harvest-system]], [[coleman-meadow-vole-pest-management]]. This chapter details the battle of
 wits with voles and the broader philosophy of pest prevention on
 the small farm.
 
@@ -117,8 +113,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[det]]
 - [[ghb]]
-- [[coleman-meadow-vole-pest-management]]
 - [[comparison-beneficial-insects-guide-vs-integrated-pest-management]]
 - [[solomon-pest-management-without-chemicals]]

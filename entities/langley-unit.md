@@ -41,11 +41,7 @@ Despite these losses, Mollison notes that most homes receive enough sunlight on 
 
 ### Related Measurements
 
-The Langley has been largely superseded by W/m2 (watts per square meter) in modern scientific use, but remains referenced in [[permaculture]] and agricultural literature. Conversion: 1 Ly/min = approximately 697.8 W/m2.
-
-## Relevance to Cultivation
-
-1. **[[greenhouse-design]]:** Calculating the solar energy available for passive heating of growing structures.
+The Langley has been largely superseded by W/m2 (watts per square meter) in modern scientific use, but remains referenced in [[greenhouse-design]]:** Calculating the solar energy available for passive heating of growing structures.
 2. **Site selection:** Choosing sun-facing slopes that maximize Langleys received for both house siting and crop production.
 3. **Solar thermal systems:** Sizing solar hot water and space heating collectors based on local radiation data.
 4. **Season extension:** Estimating available energy for growing crops outside their normal range by concentrating radiation.
@@ -53,7 +49,7 @@ The Langley has been largely superseded by W/m2 (watts per square meter) in mode
 
 ## Sources
 
-- [[bill-mollison]], *Permaculture: A Designers' Manual*, [[tagari-publications]], 1988. Chapter 5.
+- [[tagari-publications]], 1988. Chapter 5.
 
 ## Historical Context
 - Emerged from observations of natural systems and ecological patterns
@@ -79,5 +75,76 @@ The Langley has been largely superseded by W/m2 (watts per square meter) in mode
 - Field observations complement controlled experimental results
 
 ## See Also
-- [[langley-radiation-unit]]
 - [[tabletop-mycofiltration-unit-construction]]
+
+## Overview
+
+Langley Unit represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish langley unit
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving langley extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Langley Unit finds practical application in multiple design contexts.
+[[permaculture-principles]] guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for langley unit. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+langley unit and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Langley Unit has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of langley unit into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions

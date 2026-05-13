@@ -8,68 +8,7 @@ type: concept
 
 ## Overview
 
-Humans are not powerless in the face of water scarcity. A range of strategies exist for increasing local precipitation, enhancing soil water storage, and modifying regional water cycles. These interventions range from cloud seeding technologies to strategic tree planting on ridgelines, and from soil conditioning to earthwork systems that maximise infiltration. This concept page covers the major approaches to regional intervention in the water cycle as described in [[permaculture-design]].
-
-## Cloud Seeding
-
-### Methods
-
-Silver iodide and other ice nuclei (such as tea dust) can be "seeded" into cumulus, cumulonimbus, or nimbostratus clouds using:
-
-- **Aircraft** dispersal
-- **Ground burners** (silver iodide absorbed into coal dust, burnt when clouds form on hill crests)
-- **Rockets** for direct cloud injection
-
-### Effectiveness
-
-Early assessments of cloud seeding deemed it ineffective because researchers failed to realise how far and for how long the seeding effects spread and persisted. More recent analysis reveals that:
-
-- Rain increases over a very wide area from seeding events
-- **Secondary effects last for months**, with varying wind directions and speeds carrying induced rain effects for hundreds or thousands of square kilometres
-- Ground burners or ground release of ice nuclei can achieve similar results to aerial seeding
-- Initial precipitation increases can be as much as **30%**, subsequently averaging 19% in Australia and 17% in Israel over weeks, settling to 8% over months
-
-### Prerequisites and Risks
-
-Once initiated, cloud seeding effects cannot quickly be stopped. In areas like India or Ethiopia, seeding may create too much rain if ground storage systems are not previously developed. Necessary preconditions include:
-
-- **Flood retardation basins** to handle excess water
-- **Oversized swales** for absorption
-- **Large sand dams** for subsurface storage
-- **Water spreading systems** to distribute flows
-- **Pelleted seed of fast-growing plants** for erosion control on newly-wetted soils
-- Any sensible civil strategy to preserve soil and people from effects of increased precipitation
-
-### Natural Analogues
-
-Similar effects (thunderstorms, rain) have been noted for tea leaf dust downwind of Kenya plantations, suggesting that more homely strategies may also be effective. It may even be that the fires and dances of old "rain makers" on high hills were, in truth, effective — fires of specific vegetation and dances creating the "right" dust plume could help seed ice nuclei in clouds. Local rain falls near some factory smoke emissions for similar reasons.
-
-## Orographic and Forest Effects
-
-### Cross-Wind Ridges as Condensers
-
-Strategically-selected cross-wind ridges of even modest height — 3–20 m (10–65 feet) — are ideal sites for planting known tree "condensers" and cross-wind tree lines. These ridges are most useful when:
-
-- Lying in the path of summer afternoon sea breezes flowing inland
-- Located where air drifts in at night (e.g., Californian and sub-tropical trade-wind coasts)
-- Positioned on windward slopes facing prevailing moisture-laden winds
-
-**Critical warning**: The clearing of trees from such sites may induce long-term drought and create a drying effect for hundreds of kilometres inland.
-
-### Assessment Criteria for Vegetation Effects
-
-Permaculture design should assess vegetation for the following water-related effects:
-
-- **Rain nuclei provision**: ability to provide bacteria and natural sulphur particles as condensation nuclei, and to effectively condense water from air at night
-- **Streamline compression rainfall**: forests exceeding 6–10 m (19–32 feet) in height on ridges induce rainfall through streamline compression, credited with up to **40% of rainfall** in assessed areas of Sweden and Australia (Tasmania and Victoria)
-- **Forested catchment effects**: historical and recent evidence suggests that rainfall, streamflow, and cloud cover are all seriously depleted by upland deforestation — effects never assessed or costed against deforestation or wood-chipping operations
-
-### Policy Implications
-
-Effective conservation policies by informed regional governments would:
-
-1. Research the water effects of forests and vegetation
-2. Establish national forest and [[watershed-management]] or restoration policies based on research
+Humans are not powerless in the face of water scarcity. A range of strategies exist for increasing local precipitation, enhancing soil water storage, and modifying regional water cycles. These interventions range from cloud seeding technologies to strategic tree planting on ridgelines, and from soil conditioning to earthwork systems that maximise infiltration. This concept page covers the major approaches to regional intervention in the water cycle as described in [[watershed-management]] or restoration policies based on research
 3. Recommend permanent forests and preservation of older forests on cross-wind ridges, steep sea-facing slopes, and alpine or upland absorption areas
 
 ## Soil Storages and Conditioning
@@ -124,6 +63,88 @@ In the local microclimate, water in vegetation greatly moderates heat and cold e
 - Every intervention in the water cycle should be accompanied by adequate storage and distribution infrastructure
 
 ## See Also
-- [[greg-green-water-quality-and-hard-water]]
 - [[holzer-ring-water-feeder-living-water-supply]]
 - [[savory-water-cycle-management]]
+
+## Overview
+
+Regional Water Cycle Intervention represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish regional water cycle intervention
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving regional extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Regional Water Cycle Intervention finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for regional water cycle intervention. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+regional water cycle intervention and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Regional Water Cycle Intervention has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of regional water cycle intervention into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[desert-water-storage-evaporation]]
+- [[holzer-water-management-ponds-springs]]
+- [[mollison-designers-hand-pump-and-water-lifting-devices]]

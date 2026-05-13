@@ -54,35 +54,7 @@ Ramial wood chips (also called BRF — *Bois Raméal Fragmenté*, or Ramial Frag
 
 The key insight behind ramial wood chips is that small branches contain a fundamentally different biochemical profile than trunk wood or large limbs:
 
-- **Higher nutrient concentration**: Young branches are rich in [[cho-water-soluble-calcium-and-potassium]], potassium, phosphorus, magnesium, and trace minerals — these nutrients are concentrated in the cambium, bark, and growing tips.
-- **Lower lignin-to-cellulose ratio**: Young wood has less condensed lignin and more readily decomposable cellulose and hemicellulose.
-- **More polyphenols and tannins**: These compounds stimulate fungal growth and have allelopathic (weed-suppressing) properties.
-- **Higher protein content**: Tips and cambial tissue contain more nitrogen than heartwood.
-
-The result is a mulch that decomposes relatively quickly (compared to conventional wood chips from mature timber) and feeds a fungal-dominant soil food web while cycling significant quantities of minerals into the soil.
-
-### Ideal Sources
-
-- Pruned branches from orchard trees (apple, pear, plum, cherry)
-- Hedge trimmings (hawthorn, hazel, willow, elderberry)
-- Coppiced branches (willow, poplar, alder)
-- Woody ornamental prunings
-- Small-diameter saplings cleared from land management
-
-### How to Make Ramial Wood Chips
-
-1. **Collect fresh branches** (ideally <7 cm diameter) — do not let them dry out completely before chipping.
-2. **Chip with a garden chipper or shredder**: A hammer mill or flail mower produces ideal small fragments. Avoid chippers that produce large slabs.
-3. **Include leaves if possible**: Leaf material adds nitrogen, broadens the microbial inoculant spectrum, and accelerates decomposition.
-4. **Apply immediately or within a few days**: Fresh material retains the highest nutrient content and microbial activity.
-5. **Apply 5–15 cm (2–6 inches) thick** around trees, perennial beds, or as a pathway mulch.
-
-### Benefits of Ramial Wood Chips
-
-- **Fungal food**: The lignin and polyphenol profile specifically favors basidiomycete fungi — the same group that forms mycorrhizal partnerships with plant roots and creates stable soil aggregates.
-- **Mineral cycling**: As fungi and other decomposers break down the chips, they release calcium, potassium, phosphorus, and trace minerals in plant-available forms.
-- **Moisture conservation**: A thick layer reduces soil evaporation by 25–50% and buffers temperature fluctuations.
-- **[[permplant-willows-salix-erosion-control-fodder]]**: Excellent for slopes and bare soil.
+- **Higher nutrient concentration**: Young branches are rich in [[permplant-willows-salix-erosion-control-fodder]]**: Excellent for slopes and bare soil.
 - **Weed suppression**: Physical barrier plus allelopathic compounds from tannins and phenolics.
 - **Soil carbon building**: Converts atmospheric CO₂ into stable soil organic matter through the fungal decomposition pathway.
 - **Low cost**: Uses a waste product (prunings) that would otherwise be burned or landfilled.
@@ -104,18 +76,9 @@ Composted wood chips are wood chips that have undergone a controlled aerobic dec
 
 ### The Composting Process
 
-1. **Raw [[jadam-local-material-collection-and-use]]**: Chips from any woody source — tree work, arborist waste, construction scrap (untreated).
-2. **Preparation**: Mix with nitrogen-rich material (manure, grass clippings, food scraps) at roughly 30:1 C:N ratio. Moisten to 50–60% moisture.
-3. **Active composting phase**: Pile reaches 50–70°C as thermophilic bacteria dominate. Turn every 1–2 weeks for 2–4 months to maintain aeration.
-4. **Curing phase**: Pile cools; mesophilic organisms and fungi take over. Continue curing for 3–12 months.
-5. **Screening**: Pass through a screen (10–25 mm) to remove oversized fragments. Finished compost is dark, crumbly, and earthy-smelling.
-
-### Benefits of Composted Wood Chips
-
-- **Immediate [[ph-and-nutrient-availability-garden-soils]]**: Nitrogen and minerals have been mineralized through microbial activity.
+1. **Raw [[ph-and-nutrient-availability-garden-soils]]**: Nitrogen and minerals have been mineralized through microbial activity.
 - **No nitrogen drawdown**: Safe to incorporate into soil or use around young plants.
-- **Balanced biology**: Supports both [[query-what-is-the-difference-between-bacterial-and-fungal-dominant-soil]] communities; excellent general-purpose soil amendment.
-- **[[aact-disease-suppression-mechanisms-ingham]]**: Well-made compost contains beneficial microorganisms (Trichoderma, Bacillus, Streptomyces) that suppress soilborne pathogens.
+- **Balanced biology**: Supports both [[aact-disease-suppression-mechanisms-ingham]]**: Well-made compost contains beneficial microorganisms (Trichoderma, Bacillus, Streptomyces) that suppress soilborne pathogens.
 - **Improved soil structure**: Humic acids in finished compost improve cation exchange capacity (CEC), water-holding capacity, and aggregate stability.
 - **Versatility**: Use as mulch, soil amendment, potting mix component, or compost tea ingredient.
 - **Pathogen and weed seed destruction**: Thermophilic phase kills most weed seeds, pathogens, and viable root fragments.
@@ -138,7 +101,5 @@ Composted wood chips are wood chips that have undergone a controlled aerobic dec
 **Winner: Composted wood chips.**
 
 ## See Also
-- [[ramial-chipped-wood]]
 - [[cation-exchange-capacity]]
-- [[decomposition]]
 - [[comparison-broadfork-vs-chisel-plow]]

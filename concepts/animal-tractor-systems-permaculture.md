@@ -4,19 +4,11 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Animal Tractor Systems in Permaculture
+# Animal Tractor Systems in [[permaculture-designers-manual-animal-forage-systems|permaculture-integrated-animal-systems|Permaculture]]
 
 Animal tractor systems use confined livestock to prepare land for cultivation by clearing ground cover, consuming weeds, and fertilizing soil. Rather than using mechanical equipment, these systems harness the natural behaviors of animals—scratching, rooting, grazing, and manuring—to convert weed-infested or degraded land into productive garden and tree crop areas. The two primary systems described here are the chicken tractor and the pig tractor.
 
-## Chicken Tractor Systems
-
-### How It Works
-
-Confined chicken flocks systematically remove all green ground cover and surface bulbils from a defined area. The effectiveness depends on the ratio of birds to area. Chickens scratch up and consume persistent weeds including oxalis, nut-grass, kikuyu, onion weed, and pasture species of bindweed (*Convolvulus*). Their scratching action also incorporates manure into the soil surface and disturbs weed seed banks.
-
-### The Moloka'i Model
-
-[[dano-gorsich]] developed and executed a highly successful chicken tractor and garden system on a 0.5 hectare farm on Moloka'i, Hawaii, demonstrating the full potential of this approach on stony hillside terrain:
+## [[dano-gorsich]] developed and executed a highly successful chicken tractor and garden system on a 0.5 hectare farm on Moloka'i, Hawaii, demonstrating the full potential of this approach on stony hillside terrain:
 
 1. **Layout**: The farm is divided into 5–6 fenced plots
 2. **Flock**: A 40-chicken flock rotates through these plots over approximately 18 months
@@ -147,9 +139,11 @@ Strategic buying and selling to keep animal numbers aligned with seasonal condit
 Banna (elephant) grass serves as a valuable bridge between animal tractor systems and permanent pasture. It performs best on deep alluvial or coarse flats above 110 cm (alluvium) or 90 cm (coastal) rainfall, reaching 2.5–4.5 meters in height. It can be grazed to 1 meter or cut to 15 cm for forage and mulch. It needs a vigorous legume interplant such as Leucaena, or forage legumes like Calopogon, Centrosema, or Glycine in high-rainfall tropical areas.
 
 Banna grass can carry 7 milk cows per hectare when cut and hand-fed with Leucaena and sugar pods, making it a cornerstone of integrated tropical livestock systems.
-## See also
 
-- [[animal-tractor-systems]]
-- [[mollison-animal-integration-permaculture-design]]
-- [[chicken-tractor-systems]]
-- [[integrated-land-management-and-polyculture-design]]
+## See Also
+
+- [[permaculture-animal-integration]]
+- [[mollison-designers-domestic-animal-integration-design]]
+- [[savory-animal-impact-and-herd-effect]]
+- [[animal-face]]
+- [[permaculture-integrated-animal-systems]]

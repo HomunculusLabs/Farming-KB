@@ -30,11 +30,7 @@ metabolic energy).
 ### Biosorption (Passive Mechanisms)
 
 Biosorption occurs independently of cellular metabolism and involves
-binding of metal ions to functional groups on the [[gadd-fungal-cell-structure]] wall:
-
-- **Ion exchange**: Metal cations displace lighter cations (Ca2+, Mg2+,
-  K+, Na+) bound to cell wall functional groups. This is the dominant
-  mechanism for most [[dighton-fungal-biosorption-heavy-metal-remediation]] systems.
+binding of metal ions to functional groups on the [[dighton-fungal-biosorption-heavy-metal-remediation]] systems.
 - **Complexation**: Metal ions form coordination complexes with nitrogen,
   oxygen, and sulfur donors on cell wall polymers.
 - **Electrostatic attraction**: Negatively charged cell wall groups
@@ -45,7 +41,7 @@ binding of metal ions to functional groups on the [[gadd-fungal-cell-structure]]
 ### Bioaccumulation (Active Mechanisms)
 
 Bioaccumulation is a metabolically dependent process involving:
-- **[[diffusion-osmosis-and-active-transport-in-plants]]**: Membrane-bound [[plant-cell-membrane-transport-proteins-channels-carriers-and-pumps]] actively import
+- **[[plant-cell-membrane-transport-proteins-channels-carriers-and-pumps]] actively import
   metal ions into the cytoplasm, often as a detoxification or nutritional
   acquisition mechanism.
 - **Intracellular sequestration**: Metals are bound by intracellular
@@ -71,11 +67,9 @@ structural components and their metal-binding groups include:
 - **Proteins and glycoproteins**: Cell wall-associated proteins contribute
   carboxyl, amino, sulfhydryl, and imidazole groups.
 - **Melanin**: Pigmented polymers in some fungal cell walls (e.g.,
-  [[aspergillus-niger-in-fungal-bioleaching]]: Widely studied; high biosorption capacity for
-  Pb2+, Cd2+, Cu2+, Zn2+, Ni2+, and Cr6+.
-- [[saccharomyces-cerevisiae]]: Brewer's yeast biomass, available as
+  [[saccharomyces-cerevisiae]]: Brewer's yeast biomass, available as
   industrial waste, effective for multiple metal ions.
-- [[staycare-trametes-versicolor-bioremediation-applications]]: White-rot fungus combining [[fungal-heavy-metal-biosorption-and-detoxification]]
+- [[fungal-heavy-metal-biosorption-and-detoxification]]
   with organic pollutant degradation capability.
 
 ## Factors Affecting Biosorption

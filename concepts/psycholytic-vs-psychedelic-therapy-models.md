@@ -9,7 +9,7 @@ created: 2026-05-08
 
 ## Overview
 
-[[ralph-metzner]]'s analysis of [[hallucinogenic-drugs]] in psychotherapy and shamanism distinguishes between two primary therapeutic models: the psycholytic and the psychedelic.
+[[hallucinogenic-drugs]] in psychotherapy and shamanism distinguishes between two primary therapeutic models: the psycholytic and the psychedelic.
 
 These models represent fundamentally different approaches to the use of hallucinogenic compounds in clinical settings, differing in dosage, frequency, therapeutic goals, and theoretical framework.
 
@@ -37,15 +37,7 @@ The psycholytic approach is grounded in the psychoanalytic tradition and views t
 
 ## The Psychedelic Model
 
-The psychedelic model was developed in the late 1950s and early 1960s by North American researchers, most notably [[humphry-osmond]], Abram Hoffer, and later [[stanislav-grof]] and [[walter-pahnke]].
-
-The term "psychedelic," coined by Osmond, literally means "mind-manifesting" and refers to the use of high doses of hallucinogens to produce a profound mystical or revelatory experience.
-
-In this model, LSD or psilocybin is administered in a single high-dose session (typically 200-500 micrograms of LSD), often preceded by preparatory sessions and followed by integration sessions.
-
-The high dose is intended to produce a complete dissolution of the ego and a direct encounter with what the researchers variously described as the "transcendental," the "cosmic," or the "numinous."
-
-The therapeutic effect is understood not as a product of psychoanalytic insight but as a consequence of the transformative [[mystical-experience]] itself, which is believed to produce lasting personality change.
+The psychedelic model was developed in the late 1950s and early 1960s by North American researchers, most notably [[stanislav-grof]] and [[mystical-experience]] itself, which is believed to produce lasting personality change.
 
 The psychedelic approach draws on the tradition of mystical experience and William James's concept of the "twice-born" self, viewing the therapeutic value of hallucinogens in terms of their capacity to produce spiritual transformation.
 
@@ -79,7 +71,7 @@ Both models have been applied to a wide range of conditions, and the choice betw
 
 ## Set and Setting in Each Model
 
-The concept of "set and setting"—the psychological state of the individual and the physical and social context of the experience—is central to both models but is operationalized differently.
+The concept of "[[set-and-setting]]"—the psychological state of the individual and the physical and social context of the experience—is central to both models but is operationalized differently.
 
 In the psycholytic model, set and setting are managed to create a safe, controlled environment in which the patient can explore difficult material without becoming overwhelmed.
 

@@ -6,26 +6,7 @@ type: concept
 
 # Old World Solanaceous Hallucinogens and Iboga
 
-The nightshade family (Solanaceae) produced some of the most feared and revered hallucinogenic plants in European and Asian history. Belladonna, henbane, mandrake, and datura — the ingredients of medieval witches' brews — contain [[mckenna-witch-ointments-tropane-alkaloids-flying-salves]] that produce a characteristic deliriant syndrome distinct from true hallucinogens like psilocybin or mescaline. Beyond the solanaceous species, several other Old World hallucinogens deserve attention, including Syrian rue, kanna, and the African iboga plant.
-
-## The Tropane Alkaloid Syndrome
-
-Plants in this section share a common pharmacological profile driven by **tropane alkaloids** — principally hyoscyamine (which racemizes to atropine), scopolamine (hyoscine), and related compounds. These alkaloids are competitive antagonists of muscarinic acetylcholine receptors, producing:
-
-- **Anticholinergic delirium**: Confusion, disorientation, inability to distinguish reality from hallucination
-- **Visual hallucinations**: Often of mundane objects (people, animals) that the user cannot distinguish from reality
-- **Tachycardia**: Rapid heartbeat
-- **Mydriasis**: Pupil dilation
-- **Dry mouth and skin**: Anticholinergic effects
-- **Amnesia**: The experience is often partially or fully forgotten afterward
-
-This deliriant syndrome differs qualitatively from the "psychedelic" experience produced by serotonergic hallucinogens (tryptamines, LSD) or dopaminergic phenethylamines (mescaline). Tropane hallucinations are typically experienced as real and are not recognized as drug-induced while occurring.
-
-## Belladonna (*Atropa belladonna*)
-
-### Description and Distribution
-
-Belladonna is one of the most notoriously poisonous plants [[mandrake-mandragora-officinarum-in-european-folklore]]. It entered the mythology of virtually every European people, who feared its deadly power. The attractive, shiny black berries frequently cause accidental poisoning, especially in children. Four species of *Atropa* are distributed from Europe to the Himalayas.
+The nightshade family (Solanaceae) produced some of the most feared and revered hallucinogenic plants in European and Asian history. Belladonna, henbane, mandrake, and datura — the ingredients of medieval witches' brews — contain [[mandrake-mandragora-officinarum-in-european-folklore]]. It entered the mythology of virtually every European people, who feared its deadly power. The attractive, shiny black berries frequently cause accidental poisoning, especially in children. Four species of *Atropa* are distributed from Europe to the Himalayas.
 
 ### Etymology
 
@@ -86,31 +67,7 @@ In many parts of Asia, Datura seeds are mixed with food and tobacco for illicit 
 
 ### Chemistry
 
-The principal alkaloid is **scopolamine**, present in heaviest concentrations in the **leaves and seeds**. *Datura ferox*, a related Old World species, is also valued for narcotic [[ginseng-cultivation-and-medicinal-properties]].
-
-## Syrian Rue (*Peganum harmala*)
-
-### Description and Distribution
-
-Syrian rue grows across a vast range from the Mediterranean through northern India, Mongolia, and Manchuria. Its seeds have been employed as a spice, and its fruits are the source of a red dye and an oil. The plant belongs to the caltrop family (Zygophyllaceae), comprising about two dozen genera native to dry tropical and subtropical regions of both hemispheres.
-
-### Chemistry and Significance
-
-The seeds contain known **hallucinogenic alkaloids**, especially **harmine** and **harmaline** — β-carboline alkaloids that are potent **monoamine oxidase inhibitors (MAOIs)**. The extraordinary esteem in which the peoples of Asia hold this plant may indicate a former religious use as a hallucinogen, though purposeful visionary use has not been conclusively established through literature or fieldwork.
-
-The MAOI properties of [[harmala-alkaloids]] are critically important in the **ayahuasca** complex: *Banisteriopsis caapi* bark contains the same β-carboline alkaloids, which inhibit gastrointestinal monoamine oxidase and allow orally administered DMT (from additive plants like *[[chacruna-psychotria-viridis]]*) to become psychoactive.
-
-## Kanna (*Mesembryanthemum expansum* and *M. tortuosum*)
-
-### Description and Use
-
-Kanna (also spelled channa) refers to two species of South African carpetweed family (Aizoaceae) plants used by the Hottentots (Khoikhoi) of southern Africa as vision-inducing narcotics. A report from over two centuries ago describes the effects:
-
-> "Their animal spirits were awakened, their eyes sparkled and their faces manifested laughter and gaiety. Thousands of delightsome ideas appeared, and a pleasant jollity which enabled them to be amused by simple jests. By taking the substance to excess, they lost consciousness and fell into a terrible delirium."
-
-### Chemistry
-
-The plants contain **alkaloids with sedative, cocaine-like properties** capable of producing torpor. Whether the traditional hallucinogenic kanna was actually these *Mesembryanthemum* species or possibly Cannabis or *Sclerocarya* (cashew family) species remains debated. Some botanists place these species in a separate genus, *Sceletium*. Modern interest in *[[sceletium-tortuosum]]* ("kougoed") as an antidepressant and anxiolytic has revived research into its mesembrine alkaloids.
+The principal alkaloid is **scopolamine**, present in heaviest concentrations in the **leaves and seeds**. *Datura ferox*, a related Old World species, is also valued for narcotic [[harmala-alkaloids]] are critically important in the **ayahuasca** complex: *Banisteriopsis caapi* bark contains the same β-carboline alkaloids, which inhibit gastrointestinal monoamine oxidase and allow orally administered DMT (from additive plants like *[[sceletium-tortuosum]]* ("kougoed") as an antidepressant and anxiolytic has revived research into its mesembrine alkaloids.
 
 ## Iboga (*Tabernanthe iboga*)
 
@@ -145,6 +102,5 @@ The Mixtec Indians of Oaxaca, Mexico use puffballs as **auditory hallucinogens**
 
 ## See Also
 
-- [[hallucinogenic-plants-overview]]
 - [[chemical-composition-of-hallucinogens]]
 - [[cannabis-botany-and-history]]

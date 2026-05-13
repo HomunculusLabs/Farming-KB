@@ -10,9 +10,7 @@ created: 2026-05-10
 
 > *"A true modern classic."* — S.T. Oner, *Cannabis Sativa Vol 3*
 
-Super Lemon Haze is a sativa-dominant hybrid bred by [[green-cannabis-grow-bible-seed-selection-and-seed-banks]] of Holland.
-A cross of [[skunk-1|lemon-skunk]] and [[super-silver-haze]], it has become one of the most
-recognized and commercially successful [[cannabis-microbiome-otu-abundance-vs-presence-cannabis-strains]] of the modern era. Known for
+Super Lemon Haze is a sativa-dominant hybrid bred by [[skunk-1|lemon-skunk]] and [[cannabis-microbiome-otu-abundance-vs-presence-cannabis-strains]] of the modern era. Known for
 its intense lemony aroma, balanced social effects, and generous yields, Super Lemon Haze
 made an immediate splash when first introduced and continues to be widely popular among
 both recreational and medical consumers.
@@ -21,17 +19,9 @@ both recreational and medical consumers.
 
 | Parent | Breeder | Profile |
 |--------|---------|---------|
-| [[skunk-1|lemon-skunk]] | DNA Genetics | Lemon-scented Skunk phenotype selected for pungent citrus terpenes |
-| [[super-silver-haze]] | Green House Seed Co. | Legendary hybrid; Neville's Haze × [[cannabis-strain-mango-haze-northern-lights-skunk-haze]] × Haze |
-
-The combination merges the bright, zesty [[cannabis-terpene-profile]] of Lemon Skunk with the
+| [[super-silver-haze]] | Green House Seed Co. | Legendary hybrid; Neville's Haze × [[cannabis-terpene-profile]] of Lemon Skunk with the
 potency, resin production, and complex effect spectrum of Super Silver Haze — itself
-a three-time [[vic-high-cannabis-phenotype-selection-criteria]] champion (1997, 1998, 1999). The result is
-a strain that delivers both flavor and power in equal measure.
-
-## Breeder: Green House Seed Co.
-
-[[green-cannabis-grow-bible-seed-selection-and-seed-banks]], founded by Arjan Roskam, is one of the largest and most
+a three-time [[green-cannabis-grow-bible-seed-selection-and-seed-banks]], founded by Arjan Roskam, is one of the largest and most
 famous seed banks in the world. Operating out of Amsterdam, the company has produced
 numerous award-winning varieties and is described by S.T. Oner as "basically the
 Jay-Z of the seed world." Green House Seed Co's official site is greenhouseseeds.nl.
@@ -52,9 +42,7 @@ Jay-Z of the seed world." Green House Seed Co's official site is greenhouseseeds
 Super Lemon Haze lives up to its name with a limonene-dominant terpene profile
 responsible for its signature intense lemony aroma. Supporting terpenes include:
 
-- **[[limonene]]** — Dominant; citrus, mood elevation, stress relief
 - **[[myrcene]]** — Herbal, musky; contributes to sedative body effects
-- **[[cannabinoid-microbiome-interactions]]** — Peppery, spicy; anti-inflammatory properties
 - **[[pinene]]** — Piney; promotes mental clarity and focus
 
 The interplay of these terpenes produces a scent and flavor that is unmistakably
@@ -117,8 +105,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[super-lemon-haze]]
 - [[lemon-haze]]
-- [[super-silver-haze]]
 - [[cannabis-sativa]]
 - [[oner-super-lemon-haze-greenhouse-strain-profile]]

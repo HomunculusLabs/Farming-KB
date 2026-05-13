@@ -21,13 +21,7 @@ type: concept
 Historically cannabis has been applied topically in the form of poultices,
 plasters, salves, tinctures, and oils to treat slow-healing wounds and
 skin ulcers (as in "diabetic foot" in turn-of-the-century American
-medicine). The [[blesching-cannabis-health-index-autoimmune-conditions]] (CHI) for wound care draws on 10
-studies reviewed with a combined CHI value of 32, reflecting moderate
-evidence of therapeutic potential.
-
-Cannabinoids have shown potent abilities to destroy and inhibit the growth
-of numerous microbes. Furthermore, the involvement of the
-[[blesching-cannabis-dermatological-conditions]] for additional
+medicine). The [[blesching-cannabis-dermatological-conditions]] for additional
 dermatological applications.
 
 ## Cannabis-Infused Hempseed Oil
@@ -35,28 +29,10 @@ dermatological applications.
 Oil made from hempseed is void of mind-altering cannabinoids and has
 historically been used for the treatment of dry skin, as well as
 age-related skin blemishes and wounds. It is a rich and properly balanced
-source of omega-3 and omega-6 polyunsaturated [[stable-carbon-isotope-signature-fatty-acids-mycorrhizal-carbon-tracking]]. Recent studies
-reveal that ingestion of hempseed oil positively changes fat profiles in
-the body and significantly reduces the symptoms of dryness, itching, and
-inflammation in atopic dermatitis.
-
-Some patients have combined the skin-healing and anti-inflammatory
-properties of hempseed oil by infusing it with cannabinoid-rich cannabis to
-create a topical ointment. The skin is the largest organ of the body and
-thus provides an ideal route for the gentle delivery of biologically active
-substances. Many cannabis-hemp oil users report benefits including shrinking
-of moles and age spots, localized and systemic pain relief, therapeutic
-relaxation of tight muscles and cramps, deeper and more restful sleep,
-soothing of inflammation, and a subtle increase in libido, all with a
-gentle uplift in mood.
-
-As with all natural, biologically active substances, effects are usually
-optimal within a specific [[blesching-cannabis-therapeutic-window-dosing]], which may vary from person
+source of omega-3 and omega-6 polyunsaturated [[blesching-cannabis-therapeutic-window-dosing]], which may vary from person
 to person. Taking too much may aggravate symptoms; taking too little may
 have a sub-optimal effect. Start slowly and increase application until you
-reach your therapeutic window. See [[blesching-cannabis-dermatological-conditions]]
-- [[cannabis-chronic-pain-management]]
-- [[blesching-cannabis-dosing-strategies]]
+reach your therapeutic window. See [[cannabis-chronic-pain-management]]
 - [[blesching-cannabis-chemotherapy-nausea]]
 
 ### Key Takeaways
@@ -121,8 +97,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[doc]]
 - [[endocannabinoid-system]]
-- [[mycorrhiza]]
 - [[blesching-cannabis-palliative-care]]
 - [[blesching-cannabis-neuroprotection-neurodegenerative]]

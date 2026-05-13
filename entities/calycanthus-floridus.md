@@ -80,13 +80,8 @@ Calycanthus floridus forms endomycorrhizal associations in its native woodland h
 
 ## See Also
 
-- [[hamamelis-virginiana]]
 - [[hamamelis-mollis]]
-- [[hydrangea-macrophylla]]
 - [[parrotia-persica]]
-- [[fothergilla-gardenii]]
 - [[liquidambar-styraciflua]]
-- [[styrax-obassia]]
 - [[clethra-alnifolia]]
-- [[daphne-mezereum]]
 - [[fothergilla-major]]

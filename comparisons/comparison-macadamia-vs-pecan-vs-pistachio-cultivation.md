@@ -18,8 +18,7 @@ type: comparison
 
 # Macadamia vs Pecan vs Pistachio Cultivation
 
-This page compares three commercially important nut tree crops: [[permaculture-pecan-tree-profile]], and [[agroforestry]] systems in Australia, Hawaii, East Africa, and [[guzman-allen-gartz-neurotropic-fungi-central-america-caribbean]].
-- **Pecan:** Streamside and riparian [[comparison-hazelnut-vs-almond-vs-walnut-cultivation]], [[comparison-hazelnut-vs-almond-vs-walnut-cultivation]], [[permaculture-climate-zones]].
+This page compares three commercially important nut tree crops: [[agroforestry]] systems in Australia, Hawaii, East Africa, and [[comparison-hazelnut-vs-almond-vs-walnut-cultivation]], [[permaculture-climate-zones]].
 ## Practical Applications
 
 Macadamia vs Pecan vs Pistachio Cultivation has a range of practical applications that make it relevant to

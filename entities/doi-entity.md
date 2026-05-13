@@ -11,7 +11,7 @@ sources:
 
 **Chemical name:** 2,5-Dimethoxy-4-iodoamphetamine
 
-**PiHKAL #67** | [[dob-compound-profile]], it is one of the most potent orally active psychedelics known. The large iodine atom at the 4-position makes DOI particularly valuable as a radiolabeled research tool for studying [[phenethylamine-receptor-pharmacology]] distribution and binding in the human brain.
+**PiHKAL #67** | [[phenethylamine-receptor-pharmacology]] distribution and binding in the human brain.
 
 ## Dosage
 
@@ -71,17 +71,11 @@ At 3.0 mg, a clear, clean psychedelic with excellent eyes-closed imagery — cle
 
 ## Extensions and Commentary
 
-DOI has an extremely high binding affinity for the [[dob-compound-profile]], [[dom-compound-profile]], and MDA. The only exception noted was MDMA (which is more stimulant than psychedelic).
+DOI has an extremely high binding affinity for the [[dom-compound-profile]], and MDA. The only exception noted was MDMA (which is more stimulant than psychedelic).
 
 A number of animal studies with DOI have mapped 5-HT2 receptor subtypes, which have been subdivided based on which compounds interact most tightly with each site. Radiolabeled DOI ([¹²⁵I]-DOI) is used extensively in autoradiography and PET imaging to study serotonin receptor distribution in the brain.
 
-The heavy iodine atom and slow pharmacokinetics contribute to the extremely long duration. As with [[harm-reduction-guide]] for general [[adverse-effects-and-harm-reduction-psilocybin]] guidelines
-- [[ayahuasca-tourism-legal-status-by-country]]: Schedule I in the US and most countries
-
-## Related Compounds
-
+The heavy iodine atom and slow pharmacokinetics contribute to the extremely long duration. As with [[adverse-effects-and-harm-reduction-psilocybin]] guidelines
 - [[dom-compound-profile]] — methyl analogue (STP), less potent
-- [[phenethylamine-chemistry-basics]] — overview of substitution patterns and SAR
 - [[2-5-dma-entity]]
-- [[cannabis-skin-conditions]]
 - [[cannabis-thc-cbd-ratio-guide-for-conditions]]

@@ -23,7 +23,7 @@ view makes ethics central to developing a culture for energy descent.
 
 ## The Three Ethical Principles
 
-Since the development of the Permaculture Design Course, three broad maxims have
+Since the development of the [[permaculture-design]] Course, three broad maxims have
 been taught as the ethical foundation:
 
 1. **Care for the Earth**
@@ -127,8 +127,6 @@ elegance or short-term productivity.
 
 ## See Also
 
-- [[permaculture-ethical-principles-holmgren]]
 - [[holmgren-permaculture-twelve-design-principles-framework]]
-- [[holmgren-beyond-sustainability]]
 - [[holmgren-energy-descent-permaculture-flower]]
 - [[holmgren-wholistic-design-thinking]]

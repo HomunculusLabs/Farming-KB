@@ -19,34 +19,6 @@ depends on your land, goals, and management capacity.
 
 ## Pig Husbandry
 
-[[pig-husbandry]]
-
-Pigs grow exceptionally fast, reaching market weight of 220-280 lbs in roughly
-six to eight months on a typical homestead diet. Heritage breeds like
-Berkshire, Tamworth, and Large Black offer excellent meat quality and moderate
-foraging ability, while commercial lines (Duroc, Yorkshire) maximize growth
-rate and feed efficiency at the cost of hardiness on pasture. A pig's feed
-conversion ratio ranges from 2.5:1 to 4.5:1 depending on breed and diet, making
-them one of the most efficient meat animals per pound of input.
-
-Their rooting behavior is both their greatest asset and biggest liability. On
-the positive side, pigs can clear brush, turn compost piles, and prepare
-garden beds far more effectively than mechanical tillers. On the negative side,
-uncontrolled rooting destroys pasture, tears up fencing, and creates mud that
-harbors parasites. Management-intensive rotational systems with electric fencing
-are essential to harness this behavior productively. Pigs require sturdy fencing
-— woven hog panels at 34 inches with electric offset wires are the minimum, and
-even then they will test every weakness.
-
-Housing needs are straightforward: a three-sided shelter with deep bedding and
-access to wallows in summer. Pigs cannot sweat and are extremely heat-sensitive,
-making shade and water critical. Farrowing sows need individual pens with heat
-lamps for newborn piglets. Their manure is among the most nutrient-rich of any
-livestock, making pigs valuable in integrated systems where manure can be
-composted for crop production.
-
-## Goat Husbandry
-
 [[goat-husbandry]]
 
 Goats excel as versatile producers of milk, meat, and fiber. Dairy breeds like
@@ -64,7 +36,7 @@ supplemental grain than pigs — lactating does may receive one pound of grain p
 three pounds of milk produced, and dry animals can thrive on good hay and browse
 alone. However, goats are susceptible to internal parasites, especially the
 barber pole worm (Haemonchus contortus), which is the single greatest health
-challenge in goat keeping.
+challenge in [[goat-keeping]].
 
 Fencing must account for their reputation as escape artists. Woven wire at four
 to five feet with electric strands at top and bottom is standard, and even then
@@ -131,7 +103,5 @@ fencing design that contains both species' different escape strategies.
 
 ## See Also
 
-- [[comparison-goat-husbandry-vs-sheep-husbandry]]
 - [[comparison-cattle-husbandry-vs-goat-husbandry]]
-- [[comparison-rotational-grazing-vs-continuous-grazing]]
 - [[comparison-chicken-tractor-vs-free-range]]

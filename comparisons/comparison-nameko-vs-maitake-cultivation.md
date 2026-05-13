@@ -10,7 +10,7 @@ sources: []
 
 ## Overview
 
-[[nameko-cultivation]] and [[maitake-cultivation-guide]] are two prized
+[[maitake-cultivation-guide]] are two prized
 Asian gourmet mushrooms with deep culinary and cultural roots in Japan.
 Nameko (Pholiota nameko) is a small, amber-capped mushroom prized for
 its distinctive gelatinous coating and nutty flavor, ranking as Japan's
@@ -21,31 +21,6 @@ hardwood substrates but differ dramatically in cultivation difficulty,
 yield expectations, and market positioning.
 
 ## Nameko Cultivation
-
-[[nameko-cultivation]]
-
-Nameko is a relatively approachable species for intermediate growers.
-It colonizes supplemented hardwood sawdust blocks in 20-30 days at
-70-75°F (21-24°C), using a standard formula of 3-4 parts hardwood
-sawdust to 1 part wheat bran. Fruiting requires cool temperatures
-of 54-59°F (12-15°C) with high humidity (90-95% RH) to develop the
-characteristic gelatinous cap coating that defines the species.
-
-Nameko also adapts well to traditional log cultivation on oak, beech,
-or maple logs, making it accessible to home growers with minimal
-equipment. Yields on sawdust blocks reach 60-100% biological efficiency
-across 2-3 flushes, while log cultivation produces 20-40% of log weight
-over 2-3 years. The fruiting cycle from inoculation to first harvest
-is relatively short at approximately 6-8 weeks on sawdust blocks.
-
-The primary culinary appeal lies in the slippery, viscous texture that
-thickens soups and hot pot dishes naturally. Nameko is a staple in
-miso soup and nabemono, and its mild, nutty flavor complements rather
-than dominates dishes. Fresh nameko is highly perishable, lasting only
-5-7 days refrigerated, though canning is a traditional preservation
-method in Japan.
-
-## Maitake Cultivation
 
 [[maitake-cultivation-guide]]
 
@@ -134,8 +109,6 @@ nameko is somewhat more tolerant than the highly aerobic maitake.
 
 ## See Also
 
-- [[nameko-cultivation]]
 - [[maitake-cultivation-guide]]
-- [[comparison-enoki-vs-maitake-cultivation]]
 - [[comparison-maitake-vs-shiitake-cultivation]]
 - [[mushroom-cultivation-basics]]

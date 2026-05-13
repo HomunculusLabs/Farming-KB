@@ -9,7 +9,7 @@ created: 2026-05-08
 
 ## Overview
 
-In *The [[cannabis-health-index]]*, [[uwe-blesching]] identifies multiple factors that influence the THC content of cannabis, from cultivation conditions through post-harvest handling. Understanding these factors is essential for medical cannabis patients seeking consistent therapeutic effects, as the actual THC delivered by a given sample can vary dramatically based on variables that are often invisible to the consumer.
+In *The [[uwe-blesching]] identifies multiple factors that influence the THC content of cannabis, from cultivation conditions through post-harvest handling. Understanding these factors is essential for medical cannabis patients seeking consistent therapeutic effects, as the actual THC delivered by a given sample can vary dramatically based on variables that are often invisible to the consumer.
 
 ## Plant-Based THC vs. THC-Acid
 
@@ -31,11 +31,7 @@ The implication for medical users is that the same plant material can produce va
 
 ### THC Concentration Differences
 
-Blesching reports that indoor cultivation tends to produce cannabis with a **markedly higher THC content** than outdoor cultivation. This difference is attributed to the greater [[eclss-environmental-control-life-support]] available in indoor settings:
-
-- **Light optimization**: Indoor growers can provide optimal light spectrum, intensity, and photoperiod for THC production
-- **Temperature control**: Precise temperature management during flowering can maximize cannabinoid synthesis
-- **[[green-cannabis-grow-bible-nutrient-management-ppm]]**: Indoor cultivation allows fine-tuned nutrient delivery that can favor THC production over other cannabinoids
+Blesching reports that indoor cultivation tends to produce cannabis with a **markedly higher THC content** than outdoor cultivation. This difference is attributed to the greater [[green-cannabis-grow-bible-nutrient-management-ppm]]**: Indoor cultivation allows fine-tuned nutrient delivery that can favor THC production over other cannabinoids
 - **Pest and disease control**: Indoor environments reduce losses from pests and pathogens, allowing plants to direct more energy toward cannabinoid production
 
 ### Cultivation Cycle Differences

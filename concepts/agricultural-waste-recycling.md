@@ -11,44 +11,14 @@ sources: [raw/papers/fungi-magazine-fungi-and-sustainability.md]
 
 ## Overview
 
-Agricultural waste recycling transforms waste streams into valuable resources, aligning with natural systems where the waste of one kingdom becomes food for another. Agricultural waste recycling through biological processes like [[mushroom-cultivation-bulk-substrates]] offers significant environmental, economic, and social benefits, creating complete ecological cycles with zero waste.
-
-## Waste Stream Identification
-
-### Common Agricultural Wastes
-
-**Crop Residues:**
-- **Straw**: Wheat, rice, barley, and other grain residues
-- **Stover**: Corn stalks and leaves after harvest
-- **Hull and Shells**: Cottonseed, cocoa, coffee, and nut processing byproducts
-- **Bagasse**: Sugarcane residue after juice extraction
-- **Press Cakes**: Oilseed residues after oil extraction
-
-**Processing Wastes:**
-- **Brewery spent grain**: After beer production
-- **Fruit and vegetable processing**: Peels, stems, seeds, and trimmings
-- **Dairy processing**: Whey and other byproducts
-- **Meat processing**: Blood, feathers, bones, and other tissues
-
-**Forestry and Wood Processing:**
-- **Sawdust**: From lumber and furniture manufacturing
-- **Wood chips**: From tree trimming and forest management
-- **Bark and wood residues**: Various wood processing byproducts
-
-### Characteristics and Suitability
-
-**Substrate Suitability for Different Mushroom Species:**
-- **Oyster mushrooms (Pleurotus)**: Excellent on straw, sawdust, agricultural residues
-- **[[query-how-to-grow-shiitake-mushrooms]] (Lentinula edodes)**: Ideal for wood chips and hardwood residues
-- **Lion's mane ([[cancer-medicinal-mushrooms-hericium-erinaceus]])**: Prefers hardwood sawdust and chips
-- **Turkey tail ([[growing-gourmet-turkey-tail-trametes-versicolor-cultivation]])**: Versatile on various lignocellulosic materials
+Agricultural waste recycling transforms waste streams into valuable resources, aligning with natural systems where the waste of one kingdom becomes food for another. Agricultural waste recycling through biological processes like [[query-how-to-grow-shiitake-mushrooms]] (Lentinula edodes)**: Ideal for wood chips and hardwood residues
+- **Lion's mane ([[growing-gourmet-turkey-tail-trametes-versicolor-cultivation]])**: Versatile on various lignocellulosic materials
 
 ## Recycling Mechanisms
 
 ### Biological Transformation
 
-**[[accessible-mushroom-cultivation-for-disabilities]] Process:**
-1. **[[bulk-substrate-preparation]]**: Waste materials are processed and pasteurized
+**[[bulk-substrate-preparation]]**: Waste materials are processed and pasteurized
 2. **Inoculation**: Mushroom spawn is introduced to the substrate
 3. **Colonization**: Mycelium grows through the substrate, breaking down complex polymers
 4. **Fruiting**: Mushrooms develop and are harvested
@@ -118,8 +88,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[dom]]
 - [[oyster-mushroom]]
-- [[lentinula-edodes]]
 - [[mushroom-cultivation]]
 - [[mycelium]]

@@ -1,5 +1,5 @@
 ---
-title: Farm Design Strategies for Yield Increase
+title: Farm Design [[farm-strategies-for-yield-increase]] Increase
 source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
@@ -34,19 +34,19 @@ Deep soil preparation following keyline principles:
 
 1. **Product increase:** Deeper root penetration accesses more nutrients and moisture
 2. **Zero runoff:** Water infiltration through absorption, eliminating wasteful surface flow
-3. **Microclimate buffering:** Improved soil structure moderates temperature and moisture fluctuations
-4. **Nutrient supply:** Decomposition of soil organic matter releases essential elements
+3. **Microclimate buffering:** Improved soil structure moderates [[mushroom-growing-temperature-and-moisture]] fluctuations
+4. **Nutrient supply:** Decomposition of [[humus-and-soil-organic-matter]] releases essential elements
 
 ## Forestry and Tree Systems (20–30% of Landscape)
 
 Integrated tree systems provide shelter, products, and ecological services:
 
 1. **Shelter effects:** Increased plant yields, animal protein, and microclimate buffering above and below ground
-2. **Carrying capacity increase:** Shrubs and trees expand the productive base
+2. **[[fukuoka-textdoc-land-requirements-per-diet-type-carrying-capacity]] increase:** Shrubs and trees expand the productive base
 3. **Nutrient recycling:** Legumes and deep-rooted trees cycle minerals from subsoil
 4. **Intrinsic products:** Nectar for honey, seeds, firewood from fallen timber
 5. **Biological control:** Insect and bird habitat for pest predator populations
-6. **Wildlife corridors:** Connected habitat enabling species movement
+6. **[[permaculture-designers-manual-wildlife-corridors]]:** Connected habitat enabling species movement
 
 ## Windbreak Design
 
@@ -88,7 +88,7 @@ Community and economic structures that support sustainable yield:
 
 Low or no-tillage approaches deliver compounding savings:
 
-- Energy conservation from reduced tillage operations
+- Energy conservation from [[comparison-no-till-vs-reduced-tillage]] operations
 - Soil preservation (no structural destruction)
 - Water conservation through reduced evaporation
 - Time savings between crop cycles
@@ -111,8 +111,6 @@ Mollison argues that primary yield increases from site design are not in the com
 
 ## See Also
 
-- [[mollison-yield-theory-and-creation-strategies]]
 - [[bill-mollison-permaculture-a-designers-manual-water-harvesting-and-earthworks]]
-- [[bill-mollison-permaculture-a-designers-manual-forest-gardens-and-food-forests]]
 - [[bill-mollison-permaculture-a-designers-manual-windbreak-design-and-shelter]]
 - [[bill-mollison-permaculture-a-designers-manual-zone-and-sector-analysis]]

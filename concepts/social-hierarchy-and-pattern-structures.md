@@ -110,6 +110,13 @@ Sensible land division is identified as a long-delayed but essential precursor t
 - Data derived from studies in Tasmania, 1969–1974, sampling ~35,000 people across multiple organisations.
 
 ## See Also
-- [[patterns-of-social-hierarchy]]
 - [[social-hierarchy-patterns-and-arts-in-permaculture]]
 - [[holmgren-produce-no-waste-waste-hierarchy-refuse-reduce-reuse-repair-recycle]]
+
+## See Also
+
+- [[permaculture-social-design]]
+- [[mckenna-shamanic-identification-training-and-peripheral-social-role]]
+- [[mckenna-ecstasy-as-social-catalyst]]
+- [[social-hierarchy-and-tribal-art]]
+- [[social-hierarchy-patterns-and-arts-in-permaculture]]

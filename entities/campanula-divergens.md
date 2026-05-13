@@ -62,7 +62,7 @@ In Greek mountain communities, it grows alongside Campanula spatulata, Achillea 
 
 Populations are generally small and localized, with the species rarely forming large stands. It is classified as Near Threatened in several range states due to habitat fragmentation and limited population sizes.
 
-The species shows a degree of morphological [[psilocybin-psilocin-variation-across-flushes]] its range, with Anatolian populations tending toward smaller flowers and more [[fukuoka-ideal-rice-plant-morphology-compact-growth-high-yield]]. Some authors have treated these as separate subspecies, though the taxonomy remains unsettled.
+The species shows a degree of morphological [[fukuoka-ideal-rice-plant-morphology-compact-growth-high-yield]]. Some authors have treated these as separate subspecies, though the taxonomy remains unsettled.
 
 ## Cultivation
 
@@ -74,9 +74,7 @@ Propagation is by seed sown in autumn with a cold stratification period, or by b
 
 Fresh seed germinates reliably at 60–80% following 4–6 weeks of cold stratification at 2–4 °C. Seeds lose viability rapidly in warm storage and should be sown within 12 months of collection.
 
-In rock gardens, Campanula divergens is best positioned in a vertical crevice or limestone rubble where its roots can penetrate deeply. It associates well with other Balkan endemics such as [[edraianthus-graminifolius]] and Dianthus petraeus.
-
-The species is hardy to approximately USDA Zone 5 when protected from winter wet. In areas with high winter rainfall, a pane of glass or [[cold-frame-construction]] cover significantly improves survival rates.
+In rock gardens, Campanula divergens is best positioned in a vertical crevice or limestone rubble where its roots can penetrate deeply. It associates well with other Balkan endemics such as [[cold-frame-construction]] cover significantly improves survival rates.
 
 ## Ecological Role
 

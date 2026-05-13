@@ -1,6 +1,6 @@
 ---
 title: "comparison-stinging-nettle-vs-horsetail: Cultivation, Foraging, Nutrition, and Uses"
-subtitle: "The multifunctional powerhouse plant of permaculture, herbal medicine, and [[natural-farming-sustainable-living-principles]]"
+subtitle: "The multifunctional powerhouse plant of permaculture, herbal medicine, and natural-farming-sustainable-living-principles"
 tags: [permaculture, dynamic-accumulators, medicinal-herbs, foraging, fiber-crops]
 date: 2026-04-28
 updated: 2026-04-28
@@ -22,9 +22,7 @@ plants in the temperate world. Long dismissed as a painful weed, nettle has
 experienced a renaissance among permaculturalists, herbalists, foragers, and
 sustainable farmers who recognize its extraordinary range of applications. It
 serves simultaneously as a nutrient-dense food crop, a potent medicinal herb, a
-dynamic mineral accumulator, a valuable fiber plant, a [[permaculture-livestock-forage-systems]], a
-biostimulant tea ingredient, and an ecological habitat plant. Few other species
-can claim such [[fungal-functional-diversity-decomposition]] within a single organism.
+dynamic mineral accumulator, a valuable fiber plant, a [[fungal-functional-diversity-decomposition]] within a single organism.
 
 Nettle's reputation as a nuisance stems from the hollow silica-tipped trichomes
 on its leaves and stems that inject histamine, acetylcholine, and serotonin
@@ -33,52 +31,7 @@ mechanism, however, hints at the rich biochemical complexity that makes the
 plant so valuable. Once cooked, dried, or processed, the stinging compounds are
 completely neutralized, revealing a mild, spinach-like flavor that has
 sustained human populations for thousands of years across Europe, Asia, and
-[[psilocybin-north-america-pacific-northwest]].
-
-From a permaculture perspective, nettle is what practitioners call a "stacked
-function" plant. It accumulates nitrogen, iron, calcium, potassium, and
-magnesium from deep subsoil layers and brings them to the surface through its
-leaf litter. It supports over 40 species of insects, including several
-butterflies whose larvae feed exclusively on nettle. Its deep root system helps
-break compacted soil and improves drainage. It produces exceptional liquid
-fertilizer when fermented. And its stems yield a bast fiber comparable to linen
-that has been used for textiles, rope, and paper for millennia. Understanding
-how to cultivate, forage, and process nettle opens access to an extraordinarily
-useful resource that grows wild across much of the temperate globe.
-
-## Botany and Identification
-
-Stinging nettle is a herbaceous perennial in the family Urticaceae, native to
-Europe, much of temperate Asia, and western North Africa. It has been widely
-naturalized in North America, South America, and parts of Australasia. The
-plant typically grows 1 to 2 meters tall, though in ideal conditions it can
-reach 3 meters. It spreads through an extensive network of creeping rhizomes
-that can extend several meters horizontally and form dense monocultural stands.
-These rhizomatous root systems are one reason nettle is so effective at soil
-stabilization and nutrient mining, but they also make the plant aggressively
-invasive in cultivated gardens if not managed.
-
-The leaves are opposite, cordate (heart-shaped), and coarsely toothed, ranging
-from 3 to 15 centimeters long. Both the upper and lower leaf surfaces, along
-with the stems, are covered in stinging hairs called trichomes. These are
-hollow, silica-reinforced structures that act like tiny hypodermic needles.
-When brushed, the tip breaks off and the remaining hair injects a cocktail of
-chemicals including histamine, acetylcholine, serotonin, formic acid, and
-leukotrienes into the skin. The result is an immediate burning sensation that
-typically subsides within an hour, though sensitive individuals may experience
-reactions lasting longer.
-
-Nettle is dioecious, meaning individual plants are either male or female. Male
-flowers appear in lax, drooping racemes, while female flowers form compact,
-hanging clusters. Wind pollination is the norm, and a single male plant can
-fertilize many females. After flowering, female plants produce small, dry
-achenes that are dispersed by wind and animals. The seeds are also edible and
-nutritious, containing high levels of essential fatty acids, particularly
-linoleic acid.
-
-Several related species exist, including the annual dwarf nettle (Urtica urens),
-the Roman nettle (Urtica pilulifera), and the wood nettle (Laportea
-canadensis) of [[growing-gourmet-north-american-reishi-species]] forests. All share the characteristic stinging
+[[growing-gourmet-north-american-reishi-species]] forests. All share the characteristic stinging
 hairs and similar nutritional profiles, though Urtica dioica is the species
 most commonly used for food, medicine, and fiber.
 
@@ -131,11 +84,8 @@ zinc. It also provides significant amounts of vitamins A, C, K, and several B
 ## See Also
 
 - mollison-designers-dynamic-accumulators-comfrey
-- [[nutrient-and-dynamic-accumulators]]
 - [[chop-and-drop-mulching]]
-- [[medicinal-herb-growing-guide]]
 - [[herbal-medicine-making]]
-- [[beekeeping-and-pollinator-conservation]]
 - [[cover-crops-and-green-manures]]
 
 ## References

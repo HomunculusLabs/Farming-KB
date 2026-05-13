@@ -25,17 +25,10 @@ sources:
 ## Overview
 
 Monarda fistulosa, commonly known as wild bergamot or bee balm, is a perennial
-herbaceous plant in the mint family (Lamiaceae). Native to [[psilocybin-north-america-pacific-northwest]], it ranges
-from Canada to Mexico across prairies, open woodlands, and meadows.
-
-The plant is valued for its showy lavender-to-pink flower heads, aromatic foliage,
-and exceptional attractiveness to pollinators. Despite the common name "wild
-bergamot," it is unrelated to the bergamot orange ([[citrus-bergamia]]) used to flavor
+herbaceous plant in the mint family (Lamiaceae). Native to [[citrus-bergamia]]) used to flavor
 Earl Grey tea, though the leaf scent is reminiscent.
 
-M. fistulosa has a long history of use by Indigenous peoples [[berry-growing]] for
-medicinal, culinary, and ceremonial purposes. It remains widely used in herbal
-medicine and is a staple in native plant gardens and [[tropical-rainforest-seedling-mycorrhiza-ecological-restoration]].
+M. fistulosa has a long history of use by Indigenous peoples [[tropical-rainforest-seedling-mycorrhiza-ecological-restoration]].
 
 ## Taxonomy and Morphology
 
@@ -71,8 +64,7 @@ Several varieties are recognized: var. menthifolia (western), var. fistulosa
 
 ## Bioactive Compounds
 
-The [[permaculture-designers-manual-essential-oil-plants]] of M. fistulosa contains a complex mixture of monoterpenes and
-[[aact-tannins-terpenes-phenolic-compounds-wood-composting-ingham]]:
+The [[aact-tannins-terpenes-phenolic-compounds-wood-composting-ingham]]:
 
 - **Thymol:** Primary antimicrobial constituent (20–60% of essential oil depending
   on chemotype).

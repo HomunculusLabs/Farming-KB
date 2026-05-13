@@ -18,28 +18,7 @@ Chemical (synthetic/soluble) fertilizers are an excellent choice for indoor cont
 
 ### Soluble Fertilizers
 
-Soluble fertilizers dissolve in water and offer the most control for [[query-how-does-no-till-cannabis-cultivation-work]]:
-
-- Easy to measure and apply
-- Easy to flush from growing medium if problems arise
-- Can be applied as a water solution onto soil
-- High-quality hydroponic fertilizers using food-grade nutrients are the best value
-- Avoid low-quality fertilizers that do not list all necessary micronutrients on the label
-
-### Granular Fertilizers
-
-Chemical granular fertilizers work well but carry significant risks:
-
-- Can easily be over-applied, creating toxic soil
-- Almost impossible to leach out fast enough to save the plant
-- Not recommended for containerized cannabis cultivation
-
-### Time-Release Fertilizers (e.g., Osmocote)
-
-- Convenient; only require one application every few months
-- Exact control is lost
-- Best suited for ornamental containerized plants
-- Not recommended for cannabis where precise [[green-cannabis-grow-bible-nutrient-management-ppm]] is needed
+Soluble fertilizers dissolve in water and offer the most control for [[green-cannabis-grow-bible-nutrient-management-ppm]] is needed
 
 ## Understanding Fertilizer Labels
 
@@ -72,27 +51,11 @@ Mix fertilizer with water and apply with each watering. Use a siphon applicator 
 
 ### Foliar Feeding
 
-Spray [[jadam-liquid-fertilizer-nutritional-perspective]] solution on foliage. See [[cervantes-chemical-fertilizers-guide]]
+Spray [[cervantes-chemical-fertilizers-guide]]
 
-- [[cannabis-nutrient-solution-preparation]]
 - [[cannabis-nutrient-toxicity]]
-- [[cannabis-foliar-feeding]]
-
-## Historical Context
-- These approaches have evolved through decades of research and practical application.
-- Traditional knowledge systems have contributed significantly to modern understanding.
-- Scientific inquiry has progressively validated and refined historical practices.
-
-## Mechanisms and Processes
-- Underlying biological and ecological mechanisms drive observed outcomes.
-- Multiple interacting factors contribute to system-level effects.
-- Understanding these processes enables more targeted and effective interventions.
-
-## See Also
 - [[cannabis-organic-fertilizers]]
-- [[cervantes-chemical-fertilizers-guide]]
 - [[cannabis-chemical-burn-vs-deficiency]]
-- [[lowenfels-chemical-fertilizers-damage]]
 - [[query-what-is-the-ideal-temperature-range-for-growing-cannabis]]
 
 ## Practical Applications
@@ -117,8 +80,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[foliar-feeding]]
 - [[lowenfels-chemical-fertilizers-damage]]
-- [[cannabis-chemical-burn-vs-deficiency]]
 - [[cervantes-chemical-fertilizers-guide]]
 - [[cannabis-organic-fertilizers]]

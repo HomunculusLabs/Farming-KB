@@ -1,5 +1,5 @@
 ---
-title: Tropical Soils and Fertility
+title: Tropical [[tropical-soils-and-fertility-management]]
 source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
@@ -10,8 +10,8 @@ type: concept
 
 ## Overview
 
-Tropical soils present unique challenges for agriculture and permaculture design.
-Unlike temperate soils, periodically renewed by glaciation and physical mixing of
+Tropical soils present unique challenges for agriculture and [[bee-forage-systems-permaculture-design]].
+Unlike [[cool-temperate-soils-and-water-conservation-mollison]], periodically renewed by glaciation and physical mixing of
 mineral substrates, tropical soils are among the oldest on Earth. Millions of
 years of heavy rainfall and high temperatures have produced soils that are
 deeply leached, chemically depleted, and structurally fragile.
@@ -36,27 +36,7 @@ applied nutrients are quickly lost to leaching.
 
 ### Cation Exchange Capacity and pH
 
-The **[[cation-exchange-capacity]] (CEC)** is strongly affected by pH. As acidity
-increases, negative charge on soil particles decreases, reducing nutrient
-retention. This creates a vicious cycle: leaching lowers pH → lower pH reduces
-CEC → reduced CEC allows more leaching. Breaking this cycle is central to
-tropical soil management.
-
-## The Impact of Forest Clearing
-
-When tropical forests are cleared, humic particles — responsible for much of the
-soil's nutrient-holding capacity — can leach to **30% of prior levels**. The
-canopy and root systems that once cycled nutrients continuously are removed, and
-exposed soil faces torrential rain and baking sun. This is why cleared tropical
-areas often become barren within a few years.
-
-## Strategies for Restoring Soil Fertility
-
-### Restoring Humus
-
-The single most important step is restoring organic matter:
-
-- **[[green-manure-crops]]** and **perennial vegetation** for continuous organic
+The **[[green-manure-crops]]** and **perennial vegetation** for continuous organic
   inputs
 - **Leucaena** and other **tree legumes** as deep-rooted nitrogen fixers that
   produce leaf litter
@@ -66,20 +46,10 @@ The single most important step is restoring organic matter:
 
 | Amendment | Primary Benefit |
 |--------|----------------|
-| **Crushed basalt** | Supplies silica, calcium, trace minerals; raises pH |
+| **Crushed basalt** | Supplies silica, calcium, [[dynamic-accumulator-plants-trace-minerals]]; raises pH |
 | **Cement powder** | Provides calcium; increases pH and negative charge |
-| **Shredded bamboo or cane [[mulching-guide|mulch]]** | Excellent source of silica |
-| **Superphosphate** | Small, frequent quantities to avoid leaching losses |
-| **Lime** | Increase pH, but only *after* trees are established |
-
-The critical insight: **raising pH increases negative charge on [[soil-ph|soil]] particles**,
-which increases CEC and [[plant-micronutrient-functions|nutrient]] retention. Basalt, cement, coral, and bamboo
-all supply nutrients *and* improve holding capacity through pH modification.
-
-### Coral Cay Soils
-
-On coral cays, calcium-rich sands bind phosphate to form **insoluble calcium
-triphosphate** (*platin* or *[[rock-phosphate|calcrete]]*), making phosphorus unavailable. Use
+| **Shredded bamboo or cane [[soil-ph|soil]] particles**,
+which increases CEC and [[rock-phosphate|calcrete]]*), making phosphorus unavailable. Use
 **fine rock phosphate** rather than superphosphate — it releases phosphorus more
 slowly for long-term benefit, avoiding rapid lock-up.
 
@@ -97,42 +67,22 @@ nutrients and draining extremely rapidly. Two approaches:
 
 ### Broadscale Approach
 
-Biological engineering creates a self-sustaining nutrient cycle:
+Biological engineering creates a self-sustaining [[williams-pdc-composting-and-nutrient-cycle]]:
 
 - Plant **palms, Albizzia, Inga, and Acacia** as pioneer species
-- **Leguminous trees** create a closed [[phytochrome-ecological-function-dusk-dawn-red-far-red-light-switch|canopy]]
-- The **mycelial web** of pioneer [[legume-nitrogen-fixation-mechanism|legume]] roots becomes the primary nutrient
+- **Leguminous trees** create a closed [[legume-nitrogen-fixation-mechanism|legume]] roots becomes the primary nutrient
   retention mechanism, capturing nutrients before they leach away
-- Leaf litter and root turnover build organic matter over time
+- Leaf litter and root turnover build [[fukuoka-textdoc-composting-critique-futility-prepared-organic-matter]] over time
 
 ### Garden-Scale Approach
 
 For intensive food production, an engineered solution is needed:
 
 - **Excavate trenches** lined with plastic or cardboard to prevent rapid drainage
-- **Backfill with sandy loam** for better [[water-wise-vegetable-gardening|water]] and nutrient retention
-- Construct **log-boxes above ground** as raised beds with improved soil
-
-## The Role of Soil Life: Termites and Ants
-
-In the tropics, **termites and ants** are among the most important soil-building
-organisms. They perform critical ecological functions:
-
-- **Transport rotted rock** from depth to the surface, bringing minerals into
-  the root zone
-- **Open galleries** that improve water infiltration and reduce runoff
-- **Break down plant material** into soil organic matter
-- **Create mounds** that concentrate nutrients and assist [[nitrogen-fixing-trees-and-shrubs|forest]] succession —
+- **Backfill with sandy loam** for better [[nitrogen-fixing-trees-and-shrubs|forest]] succession —
   pioneer species establish on mounds, accelerating the transition to forest
 
-[[permaculture-resources-classification|Permaculture]] design should work *with* these organisms, not against them. Their
-activities represent continuous, free soil cultivation and fertilization.
-
-## Key Principles Summary
-
-1. **Tropical soils are old and depleted** — they cannot be managed like
-   temperate soils
-2. **Protect and build [[green-manure|humus]]** at all costs — it is the primary nutrient bank
+[[green-manure|humus]]** at all costs — it is the primary nutrient bank
 3. **Raise pH to increase CEC** — use basalt, cement, lime, and coral
 4. **Apply phosphate cautiously** — fine rock phosphate on calcium-rich soils;
    frequent small doses of superphosphate elsewhere

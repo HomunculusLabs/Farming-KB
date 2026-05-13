@@ -27,52 +27,11 @@ has become a major strategy in cancer therapy, and cannabinoids have
 demonstrated significant ability to disrupt this pathway.
 
 A pivotal 2004 study from Complutense University in Madrid examined the effects
-of THC, WIN55,212-2, and anandamide on [[blesching-cannabis-brain-cancer-glioblastoma]] cells in both laboratory
-and animal models. The results were striking: cannabinoids reduced VEGF gene
-expression, depressed VEGF pathways, decreased the production of VEGF, and
-decreased the activation of VEGF receptors in brain cancer cells. These
-changes corresponded to significant reductions in tumor size in mice.
-
-This study demonstrated that cannabinoids attack tumors not only by directly
-killing cancer cells through [[blesching-cannabis-infectious-agents-cancer]], along with THC and synthetic cannabinoids like
+of THC, WIN55,212-2, and anandamide on [[blesching-cannabis-infectious-agents-cancer]], along with THC and synthetic cannabinoids like
 WIN55,212-2, all demonstrated the ability to reduce VEGF production and
-signaling through [[cannabis-cannabinoid-receptor-pharmacology]] pathways.
-
-In brain cancer specifically, JWH-133 (a potent CB2 receptor agonist) induced
-considerable regression in the size of malignant tumors in mice. This finding
-suggests that CB2-targeted therapies could provide anti-angiogenic benefits
-without the psychoactive effects associated with CB1 activation.
-
-### Tumor Microenvironment Modulation
-
-Beyond directly targeting VEGF, cannabinoids influence the broader tumor
-microenvironment in ways that discourage angiogenesis. By reducing
-inflammation and modulating [[mushroom-immune-cell-activation-mechanisms]] activity around tumors, cannabinoids
+signaling through [[mushroom-immune-cell-activation-mechanisms]] activity around tumors, cannabinoids
 create conditions less favorable for the formation of new blood vessels. The
-[[endocannabinoid-system-overview]] functions as an innate biological mechanism for suppressing cancer
-through multiple pathways including anti-angiogenesis. The body's own
-anandamide reduces VEGF signaling and tumor invasiveness, and plant cannabinoids
-can amplify this natural defense mechanism.
-
-When combined with the direct cancer cell killing through apoptosis and the
-immune-modulating effects documented elsewhere in Blesching's work, the
-anti-angiogenic properties of cannabinoids paint a picture of a comprehensive
-multi-targeted approach to cancer therapy that works through the body's own
-regulatory systems.
-
-## Synergy with Conventional Treatment
-
-The anti-angiogenic effects of cannabinoids complement conventional cancer
-therapies. Because cannabinoids work through different mechanisms than
-traditional chemotherapy and radiation, they may enhance the effectiveness of
-standard treatments while potentially reducing side effects. The ability to
-target tumors through multiple pathways simultaneously reduces the likelihood of
-treatment resistance, a major challenge in conventional oncology.
-
-## Related Concepts
-
-- [[blesching-cannabis-oxidative-stress-and-antioxidant-defense]]
-- [[cannabinoid-receptors-cb1-cb2]]
+[[blesching-cannabis-oxidative-stress-and-antioxidant-defense]]
 - [[blesching-cannabis-four-prime-cannabinoids]]
 ## Practical Considerations
 
@@ -122,8 +81,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[doc]]
 - [[anandamide]]
-- [[blesching-cannabis-forms-and-preparations]]
 - [[blesching-cannabis-infused-honey-and-hempseed-oil]]
 - [[blesching-cannabis-decarboxylation-and-raw-cannabis]]

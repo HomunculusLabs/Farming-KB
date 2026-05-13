@@ -6,26 +6,18 @@ type: concept
 tags: [mycology, mushrooms]
 sources: [papers/shroom-a-cultural-history-of-the-magic-mushroom.md]
 ---
-Updated: 2026-04-18 ## Overview The history of accidental mushroom poisoning in Europe spans centuries, from medieval physicians to Victorian scientists, documenting how Western culture's profound mycophobia developed through repeated encounters with toxic fungi. Unlike cultures that developed sophisticated foraging traditions, Europeans largely avoided wild mushrooms, treating them with suspicion and fear. Source: [[mushroom-toxins-and-poisoning]] (Amanita phalloides) and destroying angels ([[bloomfield-destroying-angel-amanita-virosa-amatoxin-poisoning-clinical-course]]), confusion between edible and toxic look-alikes, and ingestion by children drawn to colorful fungi.
+Updated: 2026-04-18 ## Overview The history of accidental mushroom poisoning in Europe spans centuries, from medieval physicians to Victorian scientists, documenting how Western culture's profound mycophobia developed through repeated encounters with toxic fungi. Unlike cultures that developed sophisticated foraging traditions, Europeans largely avoided wild mushrooms, treating them with suspicion and fear. Source: [[bloomfield-destroying-angel-amanita-virosa-amatoxin-poisoning-clinical-course]]), confusion between edible and toxic look-alikes, and ingestion by children drawn to colorful fungi.
 
 ### Dr. Brande Case (19th Century)
 
 One of the most extensively documented Victorian-era poisoning cases involved Dr. Brande, who recorded the symptoms and progression of Amanita poisoning in clinical detail. His case studies contributed to the growing medical understanding that mushroom poisoning was not a single phenomenon but involved multiple toxin types with different mechanisms and timelines.
 
 The key recognition that emerged from these cases was the distinction between:
-- Rapid-onset poisoning (from species containing [[amanita-muscaria-muscimol-ibotenic-acid-pharmacology]] and muscimol, such as [[wasson-mycophobia-mycophilia-theory]]), most European populations never developed reliable folk taxonomies for distinguishing edible from [[palmer-poisonous-mushrooms-deadly-species]]. Knowledge was fragmented and localized, with expertise confined to certain regions (particularly in Eastern and Southern Europe) rather than being widespread.
-
-### Taxonomic Confusion
-
-The scientific classification of mushrooms lagged far behind that of flowering plants. The aztec-mushroom-feasts-and-revelations. While European cultures developed an ethos of fear and avoidance around wild mushrooms, Mesoamerican cultures maintained sophisticated taxonomic knowledge and controlled ceremonial use of psychoactive species for millennia. This divergence reflects fundamentally different relationships with [[biodiversity-fungal-biodiversity-estimation-methods]] — European peasant knowledge was largely lost during the medieval period due to cultural disruption and the church's association of mushrooms with witchcraft, while indigenous American traditions maintained continuity until Spanish conquest.
+- Rapid-onset poisoning (from species containing [[wasson-mycophobia-mycophilia-theory]]), most European populations never developed reliable folk taxonomies for distinguishing edible from [[biodiversity-fungal-biodiversity-estimation-methods]] — European peasant knowledge was largely lost during the medieval period due to cultural disruption and the church's association of mushrooms with witchcraft, while indigenous American traditions maintained continuity until Spanish conquest.
 
 ## Legacy
 
-The European history of mushroom poisoning contributed to a cultural narrative of fungi as dangerous and unknowable. This mycophobic tradition contrasted sharply with the intentional, ceremonial use of mushrooms in Mesoamerica (see [[bloomfield-amatoxin-poisoning-mechanism]] Topics
-
-- mushroom-poisoning-and-lookalikes — The death cap, responsible for most fatal poisonings
-- mushroom-foraging-traditions-europe — Foraging traditions across European cultures
-- aztec-mushroom-feasts-and-revelations — Contrasting Mesoamerican [[mazatec-mushroom-culture-and-velada]]
+The European history of mushroom poisoning contributed to a cultural narrative of fungi as dangerous and unknowable. This mycophobic tradition contrasted sharply with the intentional, ceremonial use of mushrooms in Mesoamerica (see [[mazatec-mushroom-culture-and-velada]]
 - classical-roman-mushroom-poisoning
 ## Practical Applications
 
@@ -97,8 +89,6 @@ through generations to modern scientific approaches, the evolution continues
 to inform current best practices and research directions.
 
 ## See Also
-- [[doc]]
 - [[det]]
-- [[amanita-phalloides]]
 - [[amanita]]
 - [[shroom-cultural-history-mushroom-art-and-iconography]]

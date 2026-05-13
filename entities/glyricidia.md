@@ -8,7 +8,7 @@ type: entity
 
 ## Description
 
-Glyricidia (Gliricidia sepium), commonly known as quickstick, madre de cacao, or gliricidia, is a fast-growing, nitrogen-fixing leguminous tree native to Central America and Mexico. In permaculture, Mollison repeatedly recommends it as one of the most versatile windbreak and agroforestry species, serving simultaneously as wind shelter, nitrogen fixer, fodder crop, mulch source, and living fence. Its ability to be propagated from large cuttings and coppice vigorously makes it one of the most practical multipurpose trees for tropical permaculture systems.
+Glyricidia ([[gliricidia-sepium]]), commonly known as quickstick, madre de cacao, or gliricidia, is a fast-growing, nitrogen-fixing leguminous tree native to Central America and Mexico. In permaculture, Mollison repeatedly recommends it as one of the most versatile windbreak and agroforestry species, serving simultaneously as wind shelter, nitrogen fixer, fodder crop, mulch source, and living fence. Its ability to be propagated from large cuttings and coppice vigorously makes it one of the most practical multipurpose trees for tropical permaculture systems.
 
 ## Classification
 
@@ -48,36 +48,7 @@ Mollison places Glyricidia among the most important multi-functional windbreak s
 
 ## Relevance to Cultivation and Mycology
 
-- **Tropical agroforestry**: One of the most widely adopted agroforestry trees worldwide, used in [[alley-cropping]], live fencing, and shade systems for coffee and cacao plantations.
-- **Mycorrhizal partnerships**: As a legume, forms both rhizobial root nodules and arbuscular mycorrhizal associations, building complex soil food webs that benefit all neighbouring plants.
-- **Soil building**: The combination of nitrogen fixation, leaf-litter mulch, and root turnover creates fertile, humus-rich soils in otherwise degraded tropical sites within 3-5 years.
-- **Mushroom substrate potential**: The nutrient-rich leaf litter and woody material from coppicing could serve as substrate components for tropical saprophytic mushroom cultivation, particularly for Pleurotus and Volvariella species that grow on supplemented agricultural wastes.
-- **Mushroom log culture**: Branches of appropriate diameter from coppiced Glyricidia may serve as substrate logs for tropical wood-decomposer mushroom species, integrated with the agroforestry cycle.
-
-## Cultivation Notes
-
-- Tropical species; damaged by frost below approximately 5 degrees C. Suited to USDA Zones 10-12 and elevations from sea level to 1500 m.
-- Tolerates poor, acidic, and degraded soils; thrives in well-drained sites from sandy loams to heavy clays.
-- Extremely drought-tolerant once established due to deep taproot; survives extended dry seasons by shedding leaves.
-- Propagation: direct seeding, bare-root seedlings, or large hardwood cuttings (1-2 m long) planted directly in the field.
-- Coppice every 3-6 months for continuous mulch and fodder production; annual biomass yields of 10-20 tonnes dry matter per hectare are achievable.
-- Can become weedy in some contexts; manage through regular lopping and prevent seed spread to non-target areas.
-- Generally pest-free; occasionally attacked by stem-borers in stressed trees. No serious disease problems reported.
-
-## Background and Overview
-- Important concept within ecological and sustainable systems
-- Contributes to understanding of natural processes
-- Has practical applications in land management
-- Integrates with broader design principles
-
-## Key Characteristics
-- Exhibits specific properties relevant to ecological function
-- Interacts with multiple components of natural systems
-- Role varies across different environmental contexts
-- Understanding enables more effective system design
-
-## Practical Applications
-- Applied in [[permaculture-design]] and sustainable agriculture
+- **Tropical agroforestry**: One of the most widely adopted agroforestry trees worldwide, used in [[permaculture-design]] and sustainable agriculture
 - Contributes to resource management strategies
 - Used in ecological restoration and conservation
 - Supports decision-making in land-use planning
@@ -86,6 +57,82 @@ Mollison places Glyricidia among the most important multi-functional windbreak s
 
 ## See Also
 
-- [[gliricidia-sepium]]
 - [[nitrogen-fixing-trees]]
 - [[permaculture-insectary-plants]]
+
+## Overview
+
+Glyricidia represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish glyricidia
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving glyricidia extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Glyricidia finds practical application in multiple design contexts.
+[[permaculture-principles]] guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for glyricidia. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+glyricidia and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Glyricidia has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of glyricidia into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.

@@ -47,9 +47,7 @@ challenging due to their obligate symbiotic lifestyle.
 ## Functional Diversity
 
 Despite being poorly documented, fungi play irreplaceable ecological roles. As
-primary decomposers, they drive [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] in every terrestrial ecosystem.
-Mycorrhizal fungi form symbiotic associations with over 90 percent of plant
-species, facilitating [[arbuscule-isolation-and-nutrient-exchange-mechanisms]] that underpins terrestrial productivity.
+primary decomposers, they drive [[arbuscule-isolation-and-nutrient-exchange-mechanisms]] that underpins terrestrial productivity.
 Fungal pathogens regulate populations of plants, insects, and other organisms.
 
 Endophytic fungi living within plant tissues confer resistance to herbivory and
@@ -63,13 +61,7 @@ nematode-trapping fungi that capture and digest soil nematodes.
 Fungal biodiversity is not uniformly distributed. Tropical regions harbor the
 highest species richness, particularly in tropical rainforests where warm
 temperatures, high humidity, and plant diversity create ideal conditions for
-fungal growth. The Pacific Northwest of [[psilocybin-north-america-pacific-northwest]], with its temperate
-rainforests, is another global hotspot for macrofungal diversity.
-
-Arid and polar regions support fewer species but often harbor unique adaptations
-and endemic taxa. Island biogeography applies to fungi: isolated landmasses tend
-to have fewer species with higher rates of endemism. Alpine environments host
-specialized [[biodiversity-of-fungi-soil-fungal-communities-agriculture]] adapted to cold, UV exposure, and short growing
+fungal growth. The Pacific Northwest of [[biodiversity-of-fungi-soil-fungal-communities-agriculture]] adapted to cold, UV exposure, and short growing
 seasons.
 
 ## Why Fungi Are Understudied
@@ -87,39 +79,6 @@ Undiscovered fungi represent an enormous reservoir of biotechnological value.
 Penicillin, cyclosporine, and statins all derive from fungal metabolites. Novel
 enzymes from extremophilic fungi have applications in industrial processes,
 biofuel production, and bioremediation. Each undescribed species potentially
-harbors unique [[antifungal-secondary-metabolites-coprophilous-fungi]] with pharmaceutical or industrial
-
-## Practical Applications
-
-The principles and techniques discussed here have wide-ranging applications
-across multiple disciplines and contexts. Practitioners and researchers
-continue to explore new ways to integrate these concepts into modern practice,
-adapting traditional knowledge to contemporary challenges and opportunities.
-
-## Key Considerations
-
-Several important factors influence the effectiveness and outcomes described
-in this topic. Understanding these considerations helps practitioners make
-informed decisions and avoid common pitfalls. Environmental conditions,
-timing, and material selection all play critical roles.
-
-## Historical Context
-
-The historical development of this subject reflects centuries of accumulated
-knowledge and practical experience. From traditional methods passed down
-through generations to modern scientific approaches, the evolution continues
-to inform current best practices and research directions.
-
-## Common Challenges
-
-Practitioners frequently encounter several challenges when working with
-these concepts. Climate variability, resource limitations, and knowledge
-gaps can all affect outcomes. Addressing these challenges requires patience,
-observation, and a willingness to adapt approaches based on results.
-
-## See Also
-- [[fungal-biodiversity]]
-- [[fungal-evolution]]
+harbors unique [[fungal-biodiversity]]
 - [[doc]]
-- [[psilocybin]]
 - [[dom]]

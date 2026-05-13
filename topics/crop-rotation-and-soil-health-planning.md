@@ -111,17 +111,11 @@ family crops by three to four years significantly reduces the buildup of
 family-
 ## See Also
 
-[[crop-rotation-principles]] covers the botanical family groupings, disease
-break intervals, and nutrient cycling fundamentals in detail. [[crop-rotation-benefits]] and [[crop-rotation-vegetable-garden]] provide Hamilton's practical
-three-year rotation plan for home gardens. [[jeavons-crop-rotation-system]]
-and [[jeavons-crop-rotation-detail]] explain the biointensive
-feeder-giver-light
-feeder cycle. [[crop-rotation-and-ley-farming]] describes Solomon's ley
+[[crop-rotation-benefits]] and [[jeavons-crop-rotation-system]]
+and [[crop-rotation-and-ley-farming]] describes Solomon's ley
 farming
-approach. [[mycorrhizal-crop-rotation-guide]] addresses how rotation affects
-soil fungal communities. [[jadam-crop-rotation-critique]] presents the natural
+approach. [[jadam-crop-rotation-critique]] presents the natural
 farming challenge to conventional rotation wisdom.
-[[coleman-cover-crop-rotation-and-soil-health]] covers Eliot Coleman's cover crop integration strategies.
 [[permaculture-crop-rotation]] and [[fukuoka-crop-rotation-natural-farming]]
 explore non-traditional approaches.
 

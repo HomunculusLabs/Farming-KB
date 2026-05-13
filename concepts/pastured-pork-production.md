@@ -15,7 +15,7 @@ Pasture-raised pork comes from pigs raised outdoors with access to living vegeta
 
 Benefits over confinement:
 - Higher vitamin D (sunlight exposure)
-- More omega-3 [[carbon-isotope-labelling-mycorrhizal-fatty-acids]] from forage
+- More omega-3 fatty acids from forage
 - Better animal welfare (natural behaviors: rooting, wallowing, exploring)
 - Lower feed costs (20-40% of diet from pasture/forage)
 - Superior meat flavor and fat quality
@@ -39,7 +39,7 @@ Crossbreeding: Berkshire x Duroc or Tamworth x Berkshire crosses combine fast gr
 Pigs are omnivores and will consume a wide variety of forage:
 
 ### Permanent Pasture Species
-- [[fukuoka-white-clover-cover-crop-system]], red clover, alfalfa (high protein)
+- White clover, red clover, alfalfa (high protein)
 - Orchardgrass, ryegrass, fescue
 - Chicory (deep-rooted, drought-tolerant, high mineral content)
 - Plantain (broadleaf, palatable, mineral-rich)
@@ -94,7 +94,7 @@ Ideal slaughter weight: 240-280 lbs live (175-200 lbs hanging weight).
 
 - Electric fencing is essential: 2-3 strands at 6, 12, and 24 inches
 - Train pigs to electric fence in a small enclosure first
-- Portable fencing (polywire + step-in posts) allows [[comparison-rotational-grazing-vs-continuous-grazing]]
+- Portable fencing (polywire + step-in posts) allows rotational grazing
 - Shelter: simple 3-sided hoop house or A-frame, 8x10 ft minimum per 3-4 pigs
 - Water: nipple waterers or heavy rubber tubs (they'll tip lightweight ones)
 - Wallows: pigs need access to mud in summer for cooling and sun protection
@@ -103,7 +103,7 @@ Ideal slaughter weight: 240-280 lbs live (175-200 lbs hanging weight).
 ## Pasture Rotation
 
 - Move pigs every 1-4 weeks depending on stocking density
-- Rest paddocks minimum 60 days (ideally a full [[extending-growing-season]])
+- Rest paddocks minimum 60 days (ideally a full growing season)
 - Follow pigs with poultry to break parasite cycles
 - Pigs root deeply -- use this intentionally on areas needing renovation
 - Permanent pastures: use nose rings on heavy rooters if you want to preserve sod
@@ -138,12 +138,12 @@ Average yield from 250 lb live pig:
 ### Revenue Per Pig
 - Live sale: $400-600 ($1.80-2.40/lb live)
 - Custom cuts retail: $700-1,200 ($5-8/lb average retail)
-- Premium retail ([[farmers-market-selling-guide]]): $900-1,500 ($6-10/lb)
+- Premium retail (farmers market): $900-1,500 ($6-10/lb)
 
-### Profitability
-- Net profit per pig (retail): $200-600
-- Selling live: $50-150 profit (thin margins)
-- Key is [[coleman-direct-marketing-and-csa-models]] -- see farmers market selling guide
-- Annual production of 6-10 pigs can generate $2,000-6,000 net income
+## See Also
 
-## Health Considerations
+- [[mollison-designers-poultry-forage-design-pastured-systems]]
+- [[pastured-egg-production]]
+- [[ligninolytic-enzyme-production-bioremediation]]
+- [[staycare-fungal-organic-acid-production-metal-leaching]]
+- [[cattle-health-and-production]]

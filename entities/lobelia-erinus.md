@@ -20,7 +20,7 @@ sources:
 
 Lobelia erinus, commonly called edging lobelia or garden lobelia, is a tender herbaceous plant in the family Campanulaceae. It is native to southern Africa, where it occurs from South Africa to Mozambique and Malawi.
 
-The species is one of the most widely cultivated summer bedding plants in [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]] worldwide. Its profusion of small, vividly blue flowers makes it indispensable for [[hamilton-hanging-baskets-organic]], window boxes, and edging.
+The species is one of the most widely cultivated summer bedding plants in [[hamilton-hanging-baskets-organic]], window boxes, and edging.
 
 Most garden lobelias are treated as annuals in temperate zones, though the species is perennial in frost-free climates. Hundreds of cultivars have been bred, ranging from deep blue to white, pink, and purple.
 
@@ -77,14 +77,14 @@ Hardy only to USDA zones 10–11, the plant is killed by light frost. In cooler 
 
 Trailing cultivars are the standard for hanging baskets and containers. Compact mounding types are preferred for formal bedding and edging schemes.
 
-Common cultivar series include 'Crystal Palace' (deep blue, bronze foliage), 'Cambridge Blue' (light blue), 'String of Pearls' (mixed colors, trailing), and 'Regatta' ([[equatorial-photoperiod-early-flowering]], trailing).
-
-## Ecological Role
-
-In its native southern Africa, Lobelia erinus is visited by a range of small bees, flies, and butterflies. The tubular flowers with a landing platform on the lower lip facilitate pollination by short-tongued insects.
-
-The small, lightweight seeds are dispersed primarily by wind and water. In streamside habitats, water carries seeds downstream to establish new colonies along the banks.
-
-Garden plantings provide nectar for bees and hoverflies throughout the summer months. The long bloom period makes lobelia a reliable food source in [[query-how-do-green-roofs-and-living-walls-benefit-urban-environments]].
+Common cultivar series include 'Crystal Palace' (deep blue, bronze foliage), 'Cambridge Blue' (light blue), 'String of Pearls' (mixed colors, trailing), and 'Regatta' ([[query-how-do-green-roofs-and-living-walls-benefit-urban-environments]].
 
 The species produces pyrrolizidine alkaloids as a chemical defense against herbivory. These compounds render the foliage unpalatable to most mammalian and insect browsers.
+
+## See Also
+
+- [[lobelia-tupa]]
+- [[tupa-lobelia-tupa-devils-tobacco-ethnobotany]]
+- [[lobelia-inflata]]
+- [[lobelia-cardinalis]]
+- [[lobelia-fulgens]]

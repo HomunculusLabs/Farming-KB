@@ -31,24 +31,7 @@ related_concepts:
 
 # Regenerative Agriculture
 
-Regenerative agriculture is a system of [[fukuoka-natural-farming-principles-do-nothing-agriculture-personal-testimony]] and practices that
-seeks to restore soil health, increase biodiversity, improve water cycles, and
-draw down atmospheric carbon while producing food, fiber, and fuel. It goes
-beyond sustainability -- the idea of maintaining current conditions without
-further degradation -- to actively improving the ecological capital upon which
-agriculture depends. The term has gained widespread adoption since the 2010s,
-but the practices it describes draw on decades of work by farmers, researchers,
-and land stewards including Masanobu Fukuoka, Allan Savory, Gabe Brown, Joel
-Salatin, Elaine Ingham, and many others whose work forms the foundation of
-modern regenerative thinking.
-
-The core insight of regenerative agriculture is deceptively simple: healthy
-soil produces healthy plants, healthy animals, and healthy people. Conventional
-agriculture treats soil as an inert substrate that holds plants upright and
-receives chemical inputs. Regenerative agriculture recognizes soil as a living
-ecosystem -- a community of bacteria, fungi, protozoa, nematodes, earthworms,
-insects, and organic matter that, when functioning properly, provides all the
-fertility, pest control, and [[aact-disease-suppression-mechanisms-ingham]] that crops need. The farmer's
+Regenerative agriculture is a system of [[aact-disease-suppression-mechanisms-ingham]] that crops need. The farmer's
 job, in this view, is not to feed the crop but to feed the soil biology that
 feeds the crop.
 
@@ -78,53 +61,21 @@ nutrient-rich material onto the soil surface. Predatory nematodes and fungi
 consume plant pathogens, providing natural disease suppression.
 
 When this community is intact, the soil maintains its own fertility, structure,
-and health. When it is disrupted by tillage, [[cervantes-chemical-fertilizers-guide]], pesticides,
-or compaction, the soil degrades and the farmer must work ever harder --
-applying more inputs, fighting more pests, managing more erosion -- to
-maintain productivity. Regenerative agriculture aims to restore and maintain
-the integrity of this soil ecosystem.
-
-David Holmgren grounded the permaculture ethic of "Care for the Earth" in
-the concept of living soil, arguing that "the state of our soils is the best
-measure of the future health and well-being of society." Civilizations
-throughout history have risen and fallen with their soils. Regenerative
-agriculture insists that attention to soil health is not merely a technical
-concern but a fundamental ethical imperative.
-
-## The Five Principles of Soil Health
-
-Gabe Brown, a North Dakota farmer who has become one of the most prominent
-voices in the regenerative agriculture movement, identifies five principles
-that guide regenerative soil management. These principles provide a practical
-framework for evaluating any farming practice: does it build soil or degrade
-it?
-
-### 1. Minimize Soil Disturbance
-
-Tillage is the most destructive practice in conventional agriculture. A single
-pass with a moldboard plow destroys [[dighton-mycorrhizal-networks-carbon-transfer]] that took years to
+and health. When it is disrupted by tillage, [[dighton-mycorrhizal-networks-carbon-transfer]] that took years to
 establish, vaporizes soil organic matter through exposure to air, kills
 ## See Also
 
 - the soil food web -- the biological foundation of regenerative
   agriculture
-- [[mycorrhizal-fungi]] -- fungal partnerships in soil health
-- composting and soil biology -- [[natural-farming-guide-composting-methods-and-techniques]] and soil biology
-- [[cover-crop-guide-detailed]] -- comprehensive cover crop selection and
-  management
+- [[natural-farming-guide-composting-methods-and-techniques]] and soil biology
 - [[cover-cropping-guide]] -- cover crop families and strategies
-- [[cover-crops-soil-health]] -- cover crops in the soil food web
-  framework
 - [[silvopasture-systems]] -- integrating trees, forage, and livestock
 - holmgren-living-soil-ethic -- the ethical foundation of regenerative
   practice
-- [[fukuoka-living-soil]] -- Fukuoka's understanding of soil ecology
 - [[fukuoka-no-tillage-rice-barley-succession]] -- no-till grain production
   in practice
 - permaculture-two-design-principles -- the design framework behind
   regenerative agriculture
-- [[cannabis-living-soil-guide]] -- regenerative principles in cannabis
-  cultivation
 - [[keyline-design]] -- water harvesting and landscape design for
   regeneration
 

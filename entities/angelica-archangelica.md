@@ -24,14 +24,11 @@ sources:
 
 # Angelica archangelica
 
-**Angelica archangelica**, commonly known as garden angelica, wild celery, or Norwegian angelica, is a tall biennial or short-lived perennial herbaceous plant in the family Apiaceae. Native to the cold [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]] of the Northern Hemisphere, it is one of the most historically significant [[holzer-medicinal-and-culinary-herbs-compendium]] plants in European herbalism, with a recorded use spanning over 1,500 years. The species has a distinctive sweet, musky-aromatic fragrance and all parts of the plant are utilized in medicine, cuisine, and beverage production.
+**Angelica archangelica**, commonly known as garden angelica, wild celery, or Norwegian angelica, is a tall biennial or short-lived perennial herbaceous plant in the family Apiaceae. Native to the cold [[holzer-medicinal-and-culinary-herbs-compendium]] plants in European herbalism, with a recorded use spanning over 1,500 years. The species has a distinctive sweet, musky-aromatic fragrance and all parts of the plant are utilized in medicine, cuisine, and beverage production.
 
 ## Taxonomy and Etymology
 
-The genus *Angelica* belongs to the family Apiaceae (the carrot or parsley family) and the subfamily Apioideae. The species epithet and common name derive from [[solanaceous-hallucinogens-of-medieval-european-witchcraft]] folklore: according to legend, the Archangel Michael revealed the plant's medicinal virtues to a monk during a plague epidemic, hence *archangelica* — "the angelic herb." This association with divine healing persisted throughout the medieval period, and the plant was sometimes called "herb of the Holy Ghost."
-
-Several other *Angelica* species share common names and uses:
-- *[[angelica-sinensis]]* (dong quai) — Chinese angelica; primary women's tonic in TCM
+The genus *Angelica* belongs to the family Apiaceae (the carrot or parsley family) and the subfamily Apioideae. The species epithet and common name derive from [[angelica-sinensis]]* (dong quai) — Chinese angelica; primary women's tonic in TCM
 - *Angelica dahurica* (Bai Zhi) — used in traditional Chinese and Kampo medicine
 - *Angelica sylvestris* (wild angelica) — European native, less aromatic, occasionally used
 
@@ -43,38 +40,9 @@ Several other *Angelica* species share common names and uses:
 
 **Stem:** Stout, hollow, grooved, 2–5 cm in diameter, typically purplish-green or tinged with deep red-purple, especially at the nodes. The stem is a prominent architectural feature in the second year.
 
-**Flowers:** Large, compound umbels 10–25 cm in diameter, composed of numerous smaller umbels (umbellets) each bearing 15–30 small flowers. Individual flowers are greenish-white to pale yellow, about 2–3 mm across, with 5 petals. Blooming occurs from June to August in the second year. The inflorescences are highly attractive to pollinators, particularly bees, butterflies, and [[comparison-parasitoid-wasps-vs-chemical-pesticides]].
+**Flowers:** Large, compound umbels 10–25 cm in diameter, composed of numerous smaller umbels (umbellets) each bearing 15–30 small flowers. Individual flowers are greenish-white to pale yellow, about 2–3 mm across, with 5 petals. Blooming occurs from June to August in the second year. The inflorescences are highly attractive to pollinators, particularly bees, butterflies, and [[query-how-to-protect-plants-from-frost-and-extend-the-growing-season]]. Seeds are collected when the umbels turn brown.
 
-**Fruit:** A schizocarp (splitting into two mericarps), 5–8 mm long, broadly elliptical, with prominent lateral wings (ribs). Green when immature, turning pale brown at maturity. Each mericarp contains a single seed.
-
-**Root:** Thick, fleshy, spindle-shaped taproot, up to 10–15 cm long and 5–8 cm in diameter at the crown. The root is pale yellow to cream externally, white internally, with an intense aromatic fragrance. This is the primary medicinal part of the plant.
-
-**Root system:** Extensive taproot with lateral branches, capable of reaching 1–2 m depth in loose soils.
-
-## Distribution and Native Range
-
-*Angelica archangelica* is native to subarctic and temperate regions of the Northern Hemisphere:
-- **Europe:** Scandinavia, Iceland, the Faroe Islands, northern Russia, and the British Isles
-- **Asia:** Siberia, northern China, the Himalayas, and northern Japan
-- **North America:** Greenland; naturalized in parts of Canada and the northeastern United States
-
-It is most abundant in subalpine meadows, river valleys, damp woodlands, and coastal cliffs in its native range. The species is adapted to long daylight hours, cool temperatures, and moist soils — conditions typical of Scandinavian summers.
-
-## Cultivation
-
-**Soil:** Prefers deep, rich, moisture-retentive loam with a pH of 5.5–7.0. Tolerates heavy clay soils if drainage is adequate. Mulching helps retain soil moisture.
-
-**Light:** Full sun to partial shade. In hotter climates, afternoon shade is beneficial.
-
-**Propagation:** Seed must be sown fresh — angelica seed loses viability rapidly at room temperature (often within 3–6 months). Cold stratification at 4°C for 4–6 weeks improves germination, which is typically 50–70%. Seeds are surface-sown or lightly covered, as they require some light for germination. Direct sowing in autumn or early spring is preferred.
-
-**Spacing:** 60–90 cm between plants. Second-year plants need significant space due to their large size.
-
-**Growth cycle:** Plants form a rosette in year one, overwinter, and bolt to flower in year two. After flowering and seed set, the plant typically dies. Removing flower heads can extend the lifespan to 3–4 years and encourage continued root growth.
-
-**Harvest:** Roots are harvested in the autumn of the first year (before the plant bolts) or early spring of the second year. Stems and leaves are harvested as needed during [[query-how-to-protect-plants-from-frost-and-extend-the-growing-season]]. Seeds are collected when the umbels turn brown.
-
-**[[mushroom-pests-and-diseases]]:** Relatively pest-free. Susceptible to [[cervantes-powdery-mildew-prevention-treatment]] in humid conditions, crown rot in waterlogged soils, and aphid infestation on young growth. The aromatic foliage deters many herbivores.
+**[[cervantes-powdery-mildew-prevention-treatment]] in humid conditions, crown rot in waterlogged soils, and aphid infestation on young growth. The aromatic foliage deters many herbivores.
 
 ## Medicinal Properties and Uses
 
@@ -88,3 +56,84 @@ Angelica has a rich pharmacological profile attributed to its diverse phytochemi
 | Coumarins | Bergapten, xanthotoxin, imperatorin, osthol | Photosensitizing, spasmolytic |
 | Furanocoumarins | Bergapten, psoralen | UV-absorbing; basis of PUVA therapy |
 | Organic acids | Angelic acid, tiglic acid | Anti-inflammatory |
+
+## Overview
+
+Angelica Archangelica represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish angelica archangelica
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving angelica extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Angelica Archangelica finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for angelica archangelica. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+angelica archangelica and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Angelica Archangelica has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of angelica archangelica into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[angelica-sinensis]]

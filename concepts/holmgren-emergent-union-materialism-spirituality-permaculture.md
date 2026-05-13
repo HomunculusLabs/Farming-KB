@@ -83,18 +83,10 @@ environment, tools and technology, culture and education, health and spiritual
 well-being, finance, and community governance. The Flower is notable for
 **explicitly including "Health and Spiritual Well-Being"** as a core domain
 alongside material domains like energy, water, and shelter. This embeds the
-material-spiritual [[duck-keeping]]'s foundational model rather
-than treating it as an optional overlay.
-
-## The 12 Design Principles
-
-Each of Holmgren's **12 design principles** reflects both material and
-spiritual wisdom. *[[holmgren-observe-and-interact-detailed]]* demands scientific attention and
+material-spiritual [[holmgren-observe-and-interact-detailed]]* demands scientific attention and
 meditative presence. *Apply Self-Regulation and Accept Feedback* is systems
-science and humility. *[[holmgren-produce-no-waste-waste-hierarchy-refuse-reduce-reuse-repair-recycle]]* is material efficiency and spiritual
-non-attachment. *Design from [[permaculture-principle-design-from-patterns-to-details]]* unites scientific modelling
-with holistic perception. *[[permaculture-integrate-rather-than-segregate]] Segregate* is ecological
-principle and ethical commitment. *Use [[permaculture-principle-use-and-value-diversity]]* draws on population
+science and humility. *[[permaculture-principle-design-from-patterns-to-details]]* unites scientific modelling
+with holistic perception. *[[permaculture-principle-use-and-value-diversity]]* draws on population
 ecology and the recognition of interconnectedness. *Creatively Use and Respond
 to Change* is evolutionary science and the practice of letting go.
 
@@ -143,7 +135,6 @@ depth of response the sustainability crisis demands.
 
 ## See Also
 
-- [[holmgren-permaculture-twelve-design-principles-framework]]
 - [[growing-gourmet-stametsian-permaculture-model]]
 - deep ecology naess
 - post normal science

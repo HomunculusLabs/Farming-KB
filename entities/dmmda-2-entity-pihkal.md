@@ -33,53 +33,104 @@ This is pretty sparse information upon which to build a picture of biological ac
 
 explicit directions incorporated. The procedure used was exactly the same as that described for DMMDA, except that the starting material was dillapiole rather than apiole. The dillapiole was obtained by the careful fractionation of Oil of Dill (as opposed to the isolation of apiole from the careful fractionation of Oil of Parsley). Isomerization to isodillapiole, nitration with tetra-nitromethane to give 1-(2,3-dimethoxy-4,5-methylenedioxyphenyl)-2-nitropropene, and its reduction with LAH in ether to give 2,3-dimethoxy-4,5-methylenedioxyamphetamine hydrochloride (DMMDA-2) proceeded in a precisely analogous manner to the preparation of DMMDA.
 
-And the pharmacological part is rather thin as well. I was not the taster, and can only quote what I had been given. This same observer found a threshold at 28 milligrams. Under other circumstances, this comment on DMMDA-2 would have been tucked into the commentary on DMMDA where it belongs, but the activity level was called for in a large review article, and on the basis of the above, both its initials and the value of 5x the potency of mescaline were permanently enshrined in the published literature. What is it really like? I don't know. Its structure is an appealing amalgamation of that of MMDA and MMDA-2, and it might be quite a winner if the dosage and the duration were known. It is, after all, one of the ten essential amphetamines, since dillapiole is one of the ten [[comparison-essential-oils-vs-neem-oil-vs-insecticidal-soap]].
-
-At the time that DMMDA and DMMDA-2 were synthesized, I had visions of doing the same thorough study with these as I had set up with the TMA's (six possible, six done) and the MMDA's (six possible, five done). Here, too, with a pair of methoxy groups on an amphetamine skeleton, with a methylenedioxy ring thrown in, six isomers are possible but only these two have been prepared. The unknown ones will certainly be called DMMDA-3, -4, -5 and -6, but the assignments of code to structure haven't even been thought out yet. The remarkable and totally unexpected activity of DOM was discovered at about this time and it was a much more tempting direction to follow. The remaining four possible DMMDA's have been left to that famous time, a future Rrainy day.
-
-## Synthesis
-
-No synthesis details recorded.
-
-## Safety Notes
-
-DMMDA-2 is a research chemical documented in PIHKAL. Dosage data and
-safety profiles are based on limited self-experimentation. Exercise
-extreme caution. This compound is not approved for human consumption.
-
-## Applied Notes
-
-DMMDA-2 -- 2,3-DIMETHOXY-4,5-METHYLENEDIOXYAMPHETAMINE -- PIHKAL Entry #59 should be evaluated in relation to climate, soil or substrate
-conditions, available labor, and the larger design goals of the site.
-The most reliable use comes from observation, small trials, and gradual
-scaling rather than assuming that one method works everywhere.
-
-## Implementation Factors
-
-Important variables include timing, moisture, fertility, species or
-variety selection, and the way the practice interacts with surrounding
-plants, fungi, animals, and people. Keeping records of failures is as
-useful as recording successes because it shows which constraints are
-most important locally.
-
-## System Connections
-
-This topic often overlaps with [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]], habitat design, water
+And the pharmacological part is rather thin as well. I was not the taster, and can only quote what I had been given. This same observer found a threshold at 28 milligrams. Under other circumstances, this comment on DMMDA-2 would have been tucked into the commentary on DMMDA where it belongs, but the activity level was called for in a large review article, and on the basis of the above, both its initials and the value of 5x the potency of mescaline were permanently enshrined in the published literature. What is it really like? I don't know. Its structure is an appealing amalgamation of that of MMDA and MMDA-2, and it might be quite a winner if the dosage and the duration were known. It is, after all, one of the ten essential amphetamines, since dillapiole is one of the ten [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]], habitat design, water
 management, and low-input production. In a farming knowledge base, those
 connections matter because a single intervention can affect pest
 pressure, soil biology, yields, and long-term resilience.
 
 ## Related Topics
 
-- [[dom]]
 - [[cannabis-safety-profile-and-overdose-risk]]
 
 ## See Also
-
-- [[dmmda-entity-pihkal]]
 
 - [[2c-o-4-entity-pihkal]]
 - [[2c-g-4-entity-pihkal]]
 
 - PIHKAL (Shulgin & Shulgin, 1991)
 - Related methylenedioxy compounds: MMDA, MDA, MDMA
+
+## Overview
+
+Dmmda 2 Entity Pihkal represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish dmmda 2 entity pihkal
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving dmmda extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Dmmda 2 Entity Pihkal finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for dmmda 2 entity pihkal. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+dmmda 2 entity pihkal and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Dmmda 2 Entity Pihkal has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of dmmda 2 entity pihkal into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[5-6-mdo-dipt-entity-tihkal]]
+- [[dmmda-2-entity]]
+- [[dmmda-compound-profile]]
+- [[dmmda-entity]]
+- [[dmmda-entity-pihkal]]

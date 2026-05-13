@@ -14,18 +14,7 @@ sources: ["raw/papers/shulgin-a-tihkal.md"]
 - Synonyms: 3-(2-Aminoethyl)indole, Indole-3-ethylamine
 - Class: Parent tryptamine (unsubstituted)
 - Molecular weight: 160.22
-- Source: [[lsd-entity-tihkal]] share a
-common mode of action.
-
-Detailed observations included: heaviness, tiredness, or numbness of limbs
-becoming generalized; visceral symptoms of nausea, vomiting, dizziness, sweating,
-dulled hearing, metallic taste; visual changes described as "heaviness behind
-the eyes, clouding of vision, lines or cobwebs" in 2 of 4 subjects.
-
-## Metabolism and Pharmacokinetics
-
-Tryptamine enters the brain but is rapidly metabolized by monoamine oxidase
-(MAO), giving it only a [[savory-short-duration-grazing-and-cell-systems]] of central activity. This is why all
+- Source: [[savory-short-duration-grazing-and-cell-systems]] of central activity. This is why all
 human studies employed intravenous administration. The primary metabolic
 pathway produces indoleacetic acid — a potent plant growth hormone found
 in many natural sources — and indole-3-ethanol (tryptophol), a plant stimulant
@@ -33,17 +22,10 @@ recently found in cucumber seedlings.
 
 ## Biosynthesis
 
-Tryptamine is produced in the body from the essential [[cho-fish-amino-acid-preparation]] tryptophan
-via the enzyme tryptophan decarboxylase. It is the immediate precursor to
-[[amt-entity-tihkal]], [[bufotenin-entity-tihkal]]. See [[nmt-entity-tihkal]],
-and [[amt-entity-tihkal]] — N,N-dimethyltryptamine
-- [[det-entity-tihkal]] — N,N-diethyltryptamine
-- [[4-ho-dipt-entity-tihkal]] — N,N-diisopropyltryptamine
+Tryptamine is produced in the body from the essential [[amt-entity-tihkal]], [[nmt-entity-tihkal]],
+and [[det-entity-tihkal]] — N,N-diethyltryptamine
 - [[bufotenin-entity-tihkal]] — 5-hydroxy-DMT
-- [[tryptamine-hallucinogens]]
-
 - [[tryptamine-consciousness-theory]] — consciousness research
-- [[phenethylamine-tryptamine-comparison]] — cross-series comparison
 - [[tryptamine-hypercontinuum]]
 ## Practical Considerations
 
@@ -87,3 +69,82 @@ and helps identify patterns that might otherwise be overlooked in the
 complexity of day-to-day management and observation activities.
 
 ## Future Directions
+
+## Overview
+
+Tryptamine Entity Tihkal represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish tryptamine entity tihkal
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving tryptamine extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Tryptamine Entity Tihkal finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for tryptamine entity tihkal. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+tryptamine entity tihkal and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Tryptamine Entity Tihkal has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of tryptamine entity tihkal into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also

@@ -13,12 +13,7 @@ available space, budget, target species, and yield goals. This comparison
 covers the five most common approaches used by home growers and small-scale
 cultivators, from beginner-friendly indoor techniques to outdoor perennial
 systems. For a broader overview, see
-[[mushroom-fruiting-chamber-designs]] for tub modification details.
-
-### Outdoor Beds
-
-Wood chip or straw beds inoculated with spawn and left to colonize in shaded
-garden areas. Wine cap ([[stropharia-rugosoannulata]]) and king stropharia
+[[stropharia-rugosoannulata]]) and king stropharia
 are the classic species, but blewitts, parasols, and almond mushrooms also
 thrive. Very low maintenance once established — beds can produce for years
 with annual wood chip additions. Best for gardeners who already have outdoor
@@ -28,19 +23,7 @@ space and patience for seasonal production.
 
 Hardwood logs (oak, maple, beech, sweetgum) are inoculated with plug or
 sawdust spawn and left in shaded outdoor areas. Shiitake is the primary
-target species, but [[oyster-mushroom]], lion's mane, and reishi also perform
-well. First harvest typically takes 6-18 months depending on species and
-conditions, but logs can produce for 3-6 years. Requires seasonal management
-(soaking for shiitake forcing) and protection from drying winds and direct sun.
-
-### Straw Bags/Supplemented Sawdust
-
-The standard for commercial-style small production. Pasteurized or sterilized
-straw or supplemented hardwood sawdust is packed into autoclave bags,
-inoculated, and fruited in a humidity-controlled environment. Offers the
-fastest turnaround and highest yields per input of any method. Requires more
-equipment (sterilizer, flow hood ideal) and skill to manage contamination.
-[[oyster-mushrooms]] are the most forgiving species for this method.
+target species, but [[oyster-mushrooms]] are the most forgiving species for this method.
 
 ## Yield and Cost Efficiency Comparison
 
@@ -133,7 +116,7 @@ and vermiculite. The method is valued for its simplicity and low startup cost:
 - **Success rate for beginners:** 60-80% with careful attention to sterile
   procedure
 
-The PF Tek substrate formula is 2 parts vermiculite, 1 part water, and 1 part
+The [[pf-tek-substrate-formula]] is 2 parts vermiculite, 1 part water, and 1 part
 brown rice flour by volume. The vermiculite provides structure and water
 retention while the rice flour supplies nutrition. A dry vermiculite layer at
 the top of each jar acts as a contaminant filter during gas exchange.

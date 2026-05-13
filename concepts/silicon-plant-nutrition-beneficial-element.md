@@ -47,11 +47,7 @@ to glass fibers in a composite material, conferring several agronomic advantages
 
 - **Increased stem rigidity and reduced lodging**: Stiffer culms resist bending
   under wind and rain — critical in cereals where lodging can cut yield 20–50%.
-- **[[hamilton-pest-and-disease-control-organic]] resistance via physical barrier**: A continuous silica layer
-  beneath the cuticle impedes fungal hyphae penetration and insect mandible
-  damage, reducing feeding by stem borers, leafhoppers, and other herbivores.
-- **Reduced pathogen establishment**: Silicified leaf surfaces alter
-  hydrophobicity and microtopography, making it harder [[jadam-pesticide-for-powdery-mildew]] and
+- **[[jadam-pesticide-for-powdery-mildew]] and
   blast fungi to initiate infection.
 
 ## Physiological Benefits
@@ -75,8 +71,7 @@ Beyond structural roles, silicon enhances performance under stress conditions:
 
 Field studies consistently show Si fertilization suppresses several major
 diseases. In rice, silicon reduces **blast** (Magnaporthe oryzae), **sheath
-blight** ([[gadd-mathematical-modelling-rhizoctonia-solani-mycelial-growth]]), and **brown spot** (Bipolaris oryzae). In wheat
-and barley, Si decreases **powdery mildew** ([[blumeria-graminis]]) and certain
+blight** ([[blumeria-graminis]]) and certain
 **rusts** (Puccinia spp.). Mechanisms combine physical barrier effects with
 biochemical [[mycorrhiza-induced-resistance-defense-priming]]: Si-treated plants show earlier activation of
 pathogenesis-related proteins and phytoalexin biosynthesis upon challenge.

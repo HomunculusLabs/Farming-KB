@@ -12,22 +12,10 @@ type: concept
 
 # Cho's Plant Growth Stage Treatments
 
-Dr. Cho Han Kyu's Korean [[comparison-natural-farming-vs-permaculture]] system applies specific
-cho-natural-farming-inputs-overview|natural [[natural-farming-inputs-cho]] at different stages of plant growth. This system is rooted in the [[master-cho-knf-fpj-fermented-plant-juice-guide]] is the primary input, supporting nitrogen-demanding growth.
-
--   All inputs diluted at approximately 1:1000 ml of water.
--   FPJ used at lower concentrations during early [[cannabis-vegetative-growth-stage]] to
+Dr. Cho Han Kyu's Korean [[natural-farming-inputs-cho]] at different stages of plant growth. This system is rooted in the [[cannabis-vegetative-growth-stage]] to
     build disease resistance.
 -   At juvenile leaf stage, apply at roughly 1:800 dilution.
--   Avoid inputs that stimulate [[knf-reproductive-growth-stage]] during this stage.
-
-## Treatment 2: Cross-Over Period Stage
-
-This transition from vegetative to reproductive growth is when plants
-need [[cho-water-soluble-phosphoric-acid-preparation]] most. Cho calls it "[[cho-morning-sickness-and-plant-cross-over-period]]" by analogy to
-pregnant women craving sour foods.
-
--   [[cho-water-soluble-calcium-and-potassium]] is the primary input.
+-   Avoid inputs that stimulate [[cho-water-soluble-phosphoric-acid-preparation]] most. Cho calls it "[[cho-water-soluble-calcium-and-potassium]] is the primary input.
 -   Dilution: 1:1000 ml water as base.
 -   Supports nutrient accumulation in developing fruits.
 -   Potassium inputs may be introduced for sugar accumulation and color
@@ -38,8 +26,6 @@ pregnant women craving sour foods.
 A specialized treatment applied near harvest to enhance fruit quality:
 
 **Recipe per 1000 ml water:**
--   [[knf-brown-rice-vinegar]]: 2 ml
--   FPJ: 2 ml
 -   [[cho-seed-seedling-solution-treatment]],
 applied before seeding or transplanting. The SOS creates the microbial
 and nutritional foundation that stage-specific treatments build upon.
@@ -62,10 +48,7 @@ establishment.
 
 ## See Also
 
-- [[cho-plant-growth-stage-treatment-protocols]]
-
 - [[knf-nutritive-cycle-theory]]
--   [[knf-seed-treatment-and-soil-foundation]]
 -   [[water-soluble-calcium-wca]]
 ## Practical Considerations
 
@@ -115,8 +98,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[cho-han-kyu]]
 - [[permaculture]]
-- [[cho-plant-growth-stage-treatment-protocols]]
 - [[knf-plant-stage-treatments]]
 - [[master-cho-knf-fpj-fermented-plant-juice-guide]]

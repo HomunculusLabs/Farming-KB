@@ -8,11 +8,7 @@ type: concept
 
 ## Overview
 
-Applied pattern design takes the principles of pattern understanding and imposes them on physical landscapes and structures to achieve specific ends—[[water-conservation]], space efficiency, resource capture, and aesthetic integration. These practical applications demonstrate how pattern analysis translates directly into functional design solutions.
-
-## The Herb Spiral
-
-The [[herb-spiral]], evolved by [[bill-mollison]] in 1978 as a kitchen-door design, is one of the most iconic applied patterns in [[permaculture]]. All basic culinary herbs can be planted in an ascending spiral of earth on a 2-metre wide base, ascending to 1–1.3 metres high.
+Applied pattern design takes the principles of pattern understanding and imposes them on physical landscapes and structures to achieve specific ends—[[herb-spiral]], evolved by [[permaculture]]. All basic culinary herbs can be planted in an ascending spiral of earth on a 2-metre wide base, ascending to 1–1.3 metres high.
 
 ### Design Features
 
@@ -99,3 +95,11 @@ The designer's checklist for applied pattern work includes:
 - Apply patterns that serve multiple functions simultaneously
 - Design for water efficiency, space efficiency, and accessibility
 - Use three-dimensional thinking to maximise yield per unit area
+
+## See Also
+
+- [[arts-in-the-service-of-life-and-applied-pattern]]
+- [[herb-spirals-and-applied-pattern-design]]
+- [[herb-spiral-and-applied-pattern-design]]
+- [[tribal-pattern-knowledge]]
+- [[tribal-pattern-encoding-and-mnemonics]]

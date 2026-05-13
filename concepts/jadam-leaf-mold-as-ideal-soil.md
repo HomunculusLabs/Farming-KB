@@ -11,14 +11,7 @@ sources:
 
 ## Overview
 
-JADAM believes that the leaf mold found in nearby mountains represents the ideal soil. [[coleman-deep-organic-farming-philosophy]], as JADAM defines it, is essentially about finding answers from nature. The soil formed from leaf mold in adjacent mountains, fields, and forests has been there for thousands of years, developing the environment most closely resembling any farmer's field.
-
-## Three Tenets of Soil Management
-
-JADAM establishes three foundational principles for soil management, all modeled on leaf mold:
-
-1. The microorganism composition of my field should be identical to that of the leaf mold in the mountains
-2. [[hamilton-composting-and-organic-matter-management]] in my field should be abundant like the leaf mold in the mountains
+JADAM believes that the leaf mold found in nearby mountains represents the ideal soil. [[hamilton-composting-and-organic-matter-management]] in my field should be abundant like the leaf mold in the mountains
 3. Minerals in my field should be diverse like the leaf mold in the mountains
 
 ## Why Leaf Mold Is the Key
@@ -68,24 +61,12 @@ JADAM connects this approach to four thousand years of Korean organic farming. W
 
 ## Soil Food Web Implications
 
-Leaf mold supports a complete soil food web: bacteria and fungi break down organic matter, protozoa and nematodes consume the microbes and release plant-available nutrients through the microbial loop, and larger organisms including earthworms and arthropods create soil structure through their burrowing and feeding activities. This biological complexity is what distinguishes living leaf mold soil from sterile potting mixes. Plants grown in leaf mold soil develop more extensive [[dighton-mycorrhizal-networks-carbon-transfer]] and show improved disease resistance compared to plants in conventional growing media, because the diverse [[edaphic-factors-microbial-community-structure]] provides natural [[aact-disease-suppression-mechanisms-ingham]] through competitive exclusion and antibiosis.
-
-## Comparison with Other Organic Amendments
-
-Leaf mold differs from compost in several important ways. Composting is an aerobic, thermophilic process that produces a relatively uniform, stable product — but the high temperatures (55-70°C) kill many beneficial organisms. Leaf mold decomposition occurs at ambient temperatures through fungal-dominated processes, preserving a much more diverse microbial community. Compost has a higher pH (typically 7.0-8.0) and higher available nitrogen, making it better for heavy feeders. Leaf mold has a slightly acidic pH (5.5-6.5) and lower nitrogen content but superior water-holding capacity and soil structure improvement. For seed starting and sensitive plants, leaf mold is often preferable to compost because its gentler, more fungal-dominant biology better mimics natural forest soil conditions.
-
-## Jadam Method Integration
-
-In the Jadam system, leaf mold serves as the foundation for a self-sufficient farming cycle. Fallen leaves are collected from the farm itself or nearby forests, eliminating the need to import organic matter. The leaf mold area becomes a permanent farm feature, continuously producing high-quality soil amendment. Combined with Jadam's [[jadam-microbial-solution-jms-preparation-and-use]] (JMS) and their signature surfactant (JHS, made from canola oil and potassium hydroxide), leaf-mold-based soil provides complete plant nutrition without external inputs. This closed-loop approach reduces costs and aligns with Jadam's philosophy of farming that requires minimal purchased materials.
+Leaf mold supports a complete soil food web: bacteria and fungi break down organic matter, protozoa and nematodes consume the microbes and release plant-available nutrients through the microbial loop, and larger organisms including earthworms and arthropods create soil structure through their burrowing and feeding activities. This biological complexity is what distinguishes living leaf mold soil from sterile potting mixes. Plants grown in leaf mold soil develop more extensive [[edaphic-factors-microbial-community-structure]] provides natural [[jadam-microbial-solution-jms-preparation-and-use]] (JMS) and their signature surfactant (JHS, made from canola oil and potassium hydroxide), leaf-mold-based soil provides complete plant nutrition without external inputs. This closed-loop approach reduces costs and aligns with Jadam's philosophy of farming that requires minimal purchased materials.
 
 ## Related
 
-- [[jadam-humus-soil-and-leaf-mold-distinction]]
-
 - [[jadam-microorganism-solution-jms]] -- how leaf mold is used as the starter for microorganism cultivation
-- [[jadam-cover-crop-method]] -- growing vegetation to supply organic matter like nature does
 - [[jadam-soil-foundation-work]]
-- [[jadam-leaf-mold-soil-method]]
 - [[jadam-coexisting-with-wild-grass]]
 
 ## Practical Applications
@@ -117,8 +98,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[dom]]
 - [[composting]]
-- [[decomposition]]
 - [[mycorrhiza]]
 - [[ultra-low-leaf-mold-as-ideal-soil-model]]

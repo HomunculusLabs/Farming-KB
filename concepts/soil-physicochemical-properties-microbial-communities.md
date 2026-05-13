@@ -8,15 +8,7 @@ created: 2026-05-09
 
 # Soil Physicochemical Properties and Microbial Communities
 
-Soil physicochemical properties are the primary drivers of microbial [[core-endorhiza-bacterial-community-composition-cannabis]] across terrestrial environments. Among all environmental variables measured, soil properties consistently explain the largest proportion of variance in bacterial [[edaphic-determinants-cannabis-microbiome-community-structure]], making them the dominant Tier 1 selective force in the two-tier model of plant [[edaphic-factors-cannabis-endorhiza-microbiome-assembly]].
-
-## Key Soil Physicochemical Variables
-
-### Soil pH
-Soil pH is arguably the single most important predictor of bacterial community composition globally. Across diverse ecosystems, soil pH explains more variation in bacterial community structure than any other measured variable:
-
-- **Acidic soils (pH < 5.5)**: Favor Acidobacteria, which are adapted to low-nutrient, acidic conditions. Alphaproteobacteria are also well-represented.
-- **Neutral soils (pH 6.0-7.5)**: Support the most diverse [[cannabis-endorhiza-bacterial-communities]]. Proteobacteria, Actinobacteria, Bacteroidetes, and Planctomycetes are all well-represented.
+Soil physicochemical properties are the primary drivers of microbial [[edaphic-determinants-cannabis-microbiome-community-structure]], making them the dominant Tier 1 selective force in the two-tier model of plant [[cannabis-endorhiza-bacterial-communities]]. Proteobacteria, Actinobacteria, Bacteroidetes, and Planctomycetes are all well-represented.
 - **Alkaline soils (pH > 7.5)**: Favor Firmicutes, Chloroflexi, and certain Gammaproteobacteria groups.
 
 The mechanisms behind pH's dominant influence include direct effects on enzyme activity, membrane integrity, and nutrient solubility, as well as indirect effects on the availability of toxic aluminum and manganese in acidic soils.
@@ -26,7 +18,7 @@ Organic carbon content reflects the amount of decomposed plant and animal materi
 
 - Providing the primary energy source for heterotrophic bacteria
 - Improving soil structure through aggregation, creating habitat diversity
-- Enhancing water-holding capacity and cation exchange capacity
+- Enhancing water-holding capacity and [[cation-exchange-capacity]]
 - Supporting higher microbial biomass and diversity
 
 Soils with high organic carbon (5-20% TOC) support larger and more diverse microbial communities than low-carbon soils (<2% TOC). The Cannabis microbiome study found organic carbon values ranging from 3.02% to 20.0% across sampling sites, reflecting this range.

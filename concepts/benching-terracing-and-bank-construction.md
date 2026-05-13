@@ -108,7 +108,7 @@ Terraced lands, given a reserve of local green manures or composts and adequate 
 ### Terracing vs. Benching
 
 While related, terraces and benches differ in important ways:
-- **Terraces** typically have retaining walls or bunds to hold soil on steep slopes for crop production, often with water management features
+- **Terraces** typically have retaining walls or bunds to hold soil on steep slopes for crop production, often with [[water-management]] features
 - **Benches** are simpler cuts into the slope, often without retaining walls, used more for access and tree establishment
 
 ## Machine Operation Principles
@@ -135,8 +135,6 @@ Designers should imagine themselves as the machine driver and make it as easy as
 - **Specify bank slopes** — clearly communicate desired slope angles for cuts and fills
 
 ## See Also
-- [[query-what-are-the-different-fruit-tree-training-systems-and-which-should-i-use]]
 - [[query-what-are-ectomycorrhizal-fungi-and-which-plants-do-they-associate-with]]
-- [[query-when-should-i-flush-my-cannabis-plants-before-harvest]]
 - [[building-soil-fertility-long-term]]
 - [[fukuoka-textdoc-citrus-orchard-soil-building-without-fertilizer]]

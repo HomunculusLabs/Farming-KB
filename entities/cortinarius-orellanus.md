@@ -12,8 +12,7 @@ sources:
 
 # Cortinarius orellanus
 Cortinarius orellanus, the deadly webcap, is a highly
-[[growing-gourmet-poisonous-mushroom-lookalikes]] in Cortinariaceae responsible for fatal
-poisonings across Europe. Its [[orellanine]] toxin causes
+[[orellanine]] toxin causes
 irreversible kidney damage with a long latency period of
 2-14 days. Notoriously difficult to distinguish from edible
 Cortinarius species, it is among the most dangerous fungi for
@@ -49,13 +48,7 @@ temperate forest foragers.
 - **Shape:** Equal or slightly clavate at base
 - **Surface:** Silky, fibrillose, subtle scaly zone near
   base | **Color:** Light ochre to orange-brown
-- **[[partial-veil-tropism-protection-before-spore-release]]:** Cortina (web-like), orange, leaving a
-  faint ring zone on the stem
-
-### Microscopic Features
-| Feature | Description |
-|---------|-------------|
-| [[comparison-spore-print-collection-vs-spore-syringe-production]] | Rusty brown (Cinnamomeus) |
+- **[[comparison-spore-print-collection-vs-spore-syringe-production]] | Rusty brown (Cinnamomeus) |
 | Spore size | 7.5-9.5 × 5-6.5 µm |
 | Spore shape | Ellipsoid, finely warty |
 | Basidia | 4-spored, clavate |
@@ -88,3 +81,10 @@ nephrotoxic properties.
 - **Phase 1 (hours):** Nausea, vomiting, headache; often
   mild, leading to false recovery
 - **Phase 2 (days 2-5):** Asymptomatic; kidney damage
+
+## See Also
+
+- [[cortinarius-violaceus]]
+- [[cortinarius-rubellus]]
+- [[bloomfield-cortinarius-webcap-orellanine-kidney-poisoning]]
+- [[cortinarius-cinnamomeus]]

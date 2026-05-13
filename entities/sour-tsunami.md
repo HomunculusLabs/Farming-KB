@@ -29,35 +29,8 @@ sources:
 
 ## Overview
 
-Sour Tsunami is a high-CBD [[biscotti-cannabis-strain]] bred by Lawrence Ringo of
-the Southern Humboldt Seed Collective. Released circa 2011, it was
-one of the first stabilized CBD-dominant cultivars developed
-specifically for medical patients seeking therapeutic benefits without
-significant psychoactive effects.
-
-The strain gained widespread recognition for its ability to produce
-flowers with CBD:THC ratios of 20:1 or higher, making it a foundational
-genetic in the medical cannabis movement and a parent of numerous
-subsequent high-CBD cultivars.
-
-## Lineage
-
-| Parent | Type | Role |
-|---|---|---|
-| Sour Diesel | Sativa-dominant hybrid | Pollen donor |
-| NYC Diesel | Sativa-dominant hybrid | Seed parent |
-
-The Sour Tsunami line was further refined through backcrossing and
-selection for high-CBD phenotypes over multiple generations. Ringo
-stabilized the CBD trait by selecting plants expressing high
-cannabidiolic acid (CBDA) synthase activity.
-
-### Notable Descendants
-
-- **Harlequin:** Sour Tsunami × Swiss Sativa (though some sources
-  cite [[cannabis-colombian-gold-landrace-sativa]] × Swiss; the genetics are debated)
-- **Pennywise:** Harlequin × [[oner-choke-berry-jack-the-ripper-querkle-tga-subcool]]
-- **CBD [[critical-mass]]:** Critical Mass × Sour Tsunami
+Sour Tsunami is a high-CBD [[cannabis-colombian-gold-landrace-sativa]] × Swiss; the genetics are debated)
+- **Pennywise:** Harlequin × [[critical-mass]]:** Critical Mass × Sour Tsunami
 
 ## Appearance
 
@@ -67,15 +40,7 @@ cannabidiolic acid (CBDA) synthase activity.
   conditions; pistils are pale orange to amber
 - **Trichome coverage:** Moderate to heavy; trichomes are predominantly
   clear to milky at harvest maturity
-- **[[cannabis-leaf-morphology-and-phyllotaxy]]:** Narrow, sativa-influenced leaflets with serrated
-  margins
-
-## Aroma and Flavor
-
-- **Primary notes:** Diesel, earthy, musky
-- **Secondary notes:** Citrus, sweet, tropical fruit undertones
-- **Aftertaste:** Peppery, slightly astringent
-- **Terpene expression:** Moderate; the [[cannabis-terpene-profile]] is less
+- **[[cannabis-terpene-profile]] is less
   intense than typical THC-dominant Sour Diesel phenotypes
 
 ## Terpene Profile
@@ -87,3 +52,86 @@ cannabidiolic acid (CBDA) synthase activity.
 - **Humulene:** Trace amounts
 
 ## Cannabinoid Profile
+
+## Overview
+
+Sour Tsunami represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish sour tsunami
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving sour extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Sour Tsunami finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for sour tsunami. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+sour tsunami and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Sour Tsunami has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of sour tsunami into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[cannabis-sour-diesel]]
+- [[east-coast-sour-diesel-clone-lineage-chemdawg-family-tree]]
+- [[sour-diesel]]

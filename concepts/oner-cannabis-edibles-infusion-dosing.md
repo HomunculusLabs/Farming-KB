@@ -11,47 +11,20 @@ sources:
 # Cannabis Edibles - Infusion Methods and Dosing
 
 Cannabis edibles represent a smoke-free consumption method with distinct pharmacokinetic
-properties compared to inhalation. While Oner's [[cannabis-strain-guide-reference]] is primarily focused on
-[[mushroom-strain-evaluation]] rather than edible preparation, it provides important context about
+properties compared to inhalation. While Oner's [[mushroom-strain-evaluation]] rather than edible preparation, it provides important context about
 which strains are best suited for edible production and how different cannabis profiles
 affect the edible experience.
 
 ## Strain Selection for Edibles
 
-The choice of [[blesching-cannabis-strain-selection-receptor-targeting]] significantly impacts edible quality and effects:
-
-### High-CBD Strains for Medical Edibles
-
-Oner specifically identifies Harlequin as a strain "bred specifically to produce some
-high-grade hash and oils for medical patients." With a THC 2% / CBD 4% profile,
-Harlequin exemplifies the type of strain ideal for medical edibles where the goal is
-therapeutic effect without intoxication.
-
-### Resin-Rich Strains for Infusion
-
-The amount of resin directly determines infusion potency:
-
-- Strains described as "absolutely caked in resin" or "dripping with resin" provide
-  the most raw material for cannabinoid extraction into fats and oils
-- Jack 47 with its "phenomenal amount of [[cannabis-glandular-trichome-types-resin-production-clarke]]" would yield potent
+The choice of [[cannabis-glandular-trichome-types-resin-production-clarke]]" would yield potent
   infusions
 - Multiple strains noted for hash production suitability (CookieWreck, Psycho Killer
-  Bubba Kush, Nepalese Temple) would also excel as edible [[shirota-4-hydroxyindole-acetyl-protection-psilocin-synthesis-starting-material]]
-
-### Terpene Considerations
-
-[[cannabis-terpene-profiles-sativa]] carry through into edibles and affect both flavor and effect:
+  Bubba Kush, Nepalese Temple) would also excel as edible [[cannabis-terpene-profiles-sativa]] carry through into edibles and affect both flavor and effect:
 
 - Fruity strains (Mango Haze, Bay 11, Hawaiian Wave) can mask the herbal cannabis
   taste in edibles
-- Sweet strains ([[acapulco-gold]] with "taste of burnt sugar," CookieWreck) pair well
-  with dessert-style edibles
-- Diesel and fuel-tasting strains may be better suited for savory applications or
-  well-masked in strongly flavored recipes
-
-## Decarboxylation
-
-[[blesching-cannabis-decarboxylation-and-raw-cannabis]] contains non-intoxicating acidic cannabinoids (THCA, CBDA). Converting
+- Sweet strains ([[blesching-cannabis-decarboxylation-and-raw-cannabis]] contains non-intoxicating acidic cannabinoids (THCA, CBDA). Converting
 them to active forms (THC, CBD) through heat is essential before infusion:
 
 ### Temperature and Time
@@ -88,3 +61,88 @@ Similar to cannabutter but using oil as the carrier fat:
 
 - Coconut oil is preferred for its high saturated fat content, which absorbs
   cannabinoids efficiently
+
+## Overview
+
+Oner Cannabis Edibles Infusion Dosing represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish oner cannabis edibles infusion dosing
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving oner extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Oner Cannabis Edibles Infusion Dosing finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for oner cannabis edibles infusion dosing. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+oner cannabis edibles infusion dosing and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Oner Cannabis Edibles Infusion Dosing has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of oner cannabis edibles infusion dosing into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[bay-11-medical-sativa-granddaddy-purp-pain-relief-oner]]
+- [[cannabis-strain-hawaiian-wave-tropical-sativa-landrace-oner]]
+- [[oner-cannabis-water-extraction-ice-water-hash]]
+- [[oner-temple-bodhi-seeds-super-silver-haze-williams-wonder]]
+- [[sativa-breeding-indoor-adaptation-height-reduction-oner]]

@@ -38,19 +38,7 @@ The defining structural motif is a protoporphyrin IX heme group coordinated axia
 
 ## Nomenclature
 
-The standard system (Nebert et al., 1987) follows the format CYP[family][subfamily][gene]: the first numeral denotes the family (enzymes sharing >=40% [[cho-fish-amino-acid-preparation]] identity), the letter denotes the subfamily (>=55% identity), and the second numeral identifies the individual gene. For example, CYP2D6 is family 2, subfamily D, gene 6. The root "CYP" (all caps) denotes the human gene; "Cyp" denotes mouse/rat genes. Families CYP1-3 primarily handle drugs and xenobiotics; CYP4, 5, 7, 8, 11, 17, 19, 21, 24, 27, 39, 46, 51 handle endogenous compounds.
-
-## Historical Discovery
-
-Martin Klingenberg (1955) observed a CO-binding pigment in rat liver microsomes with an unusual absorption spectrum peaking near 450 nm while studying steroid hydroxylation. Ryo Sato and Tsuneo Omura (1962) independently purified the pigment, demonstrated it contained protoheme IX, and named it "Cytochrome P-450" (*J. Biol. Chem.*, 237, PC1375-PC1376). Ronald Estabrook (1963) demonstrated that cytochrome P450 was responsible for steroid hydroxylation by showing CO inhibition of the reaction. Lu and Coon (1968) reconstituted the P450 system in vitro using purified P450, CPR, and phospholipids, proving these were the minimal components needed. The molecular era began with Fujii-Kuriyama's cloning of CYP1A1 in 1982.
-
-## The P450 Catalytic Cycle
-
-The catalytic cycle activates molecular oxygen to insert one oxygen atom into a substrate while reducing the other to water. The overall stoichiometry is: **RH + O2 + NADPH + H+ -> ROH + H2O + NADP+**. The cycle proceeds through seven key steps: (1) Substrate binding displaces water from the Fe3+ resting state, converting iron to high-spin and raising the redox potential to make reduction favorable. (2) First electron transfer from NADPH via CPR reduces Fe3+ to Fe2+ (typically rate-limiting). (3) O2 binds forming a ferrous-dioxy complex. (4) Second electron transfer forms a peroxo-iron(III) intermediate (Compound 0). (5) First protonation yields the hydroperoxo-iron(III) species. (6) Second protonation causes O-O bond heterolysis, releasing water and forming **Compound I** -- the true oxidizing species, formally an Fe4+=O oxoferryl with a porphyrin pi-cation radical. (7) Compound I abstracts hydrogen from the substrate, and the substrate radical "rebounds" to combine with the hydroxyl (Groves oxygen rebound mechanism, 1976), yielding the hydroxylated product and returning the enzyme to the Fe3+ resting state.
-
-## Major Human CYP Families in Drug Metabolism
-
-Three families dominate xenobiotic metabolism. **CYP1**: CYP1A2 (~13% of hepatic CYP) metabolizes caffeine, theophylline, and clozapine; induced by smoking and omeprazole via AhR. CYP1A1 is extrahepatic and bioactivates [[singh-fungal-biodegradation-of-polycyclic-aromatic-hydrocarbons]]. CYP1B1 hydroxylates estradiol at the 4-position. **CYP2**: CYP2C9 (~15-20% of hepatic CYP) metabolizes warfarin, phenytoin, and NSAIDs. CYP2C19 (~5-10%) metabolizes omeprazole and activates clopidogrel. CYP2D6 (~1-5% of hepatic CYP but metabolizes ~25% of all drugs) handles codeine, tamoxifen, metoprolol, and fluoxetine. CYP2E1 metabolizes ethanol and acetaminophen. CYP2B6 handles methadone and efavirenz. **CYP3**: CYP3A4 (~30-40%, the most abundant) has extremely broad substrate specificity including midazolam, cyclosporine, statins, and fentanyl. CYP3A5 is polymorphically expressed and critical for tacrolimus dosing.
+The standard system (Nebert et al., 1987) follows the format CYP[family][subfamily][gene]: the first numeral denotes the family (enzymes sharing >=40% [[singh-fungal-biodegradation-of-polycyclic-aromatic-hydrocarbons]]. CYP1B1 hydroxylates estradiol at the 4-position. **CYP2**: CYP2C9 (~15-20% of hepatic CYP) metabolizes warfarin, phenytoin, and NSAIDs. CYP2C19 (~5-10%) metabolizes omeprazole and activates clopidogrel. CYP2D6 (~1-5% of hepatic CYP but metabolizes ~25% of all drugs) handles codeine, tamoxifen, metoprolol, and fluoxetine. CYP2E1 metabolizes ethanol and acetaminophen. CYP2B6 handles methadone and efavirenz. **CYP3**: CYP3A4 (~30-40%, the most abundant) has extremely broad substrate specificity including midazolam, cyclosporine, statins, and fentanyl. CYP3A5 is polymorphically expressed and critical for tacrolimus dosing.
 
 ## Phase I Reactions (Functionalization)
 
@@ -58,11 +46,7 @@ Phase I reactions introduce or expose a functional group (-OH, -COOH, -NH2, -SH)
 
 ## Phase II Conjugation Reactions
 
-Phase II reactions conjugate hydrophilic moieties onto Phase I products, dramatically increasing water solubility for excretion. **Glucuronidation** (UGTs, 22 functional human enzymes) transfers glucuronic acid from UDPGA to -OH, -COOH, -NH2, or -SH groups. UGT1A1 handles bilirubin and irinotecan; UGT2B7 handles morphine. **Sulfation** (SULTs, 13 human enzymes) transfers sulfate from PAPS; SULT1A1 handles phenols and acetaminophen. Sulfation has high affinity but low capacity. **Glutathione conjugation** (GSTs) attaches GSH to electrophilic centers of epoxides and halogenated compounds; GSTM1 null genotype (~50% of Caucasians) is a risk factor for [[psk-breast-lung-cancer-clinical-trials]]. **Acetylation** (NAT1, NAT2) transfers acetyl from acetyl-CoA to aromatic amines. **Methylation** (COMT, TPMT, HNMT, INMT) transfers methyl from S-adenosylmethionine to catecholamines, thiopurines, histamine, and tryptamines respectively.
-
-## Phase III Transport (Efflux)
-
-ATP-binding cassette (ABC) transporters complete the elimination pathway. P-glycoprotein (ABCB1/MDR1) pumps drugs out of enterocytes, hepatocytes, and across the blood-brain barrier, determining [[reactive-metabolites-and-bioactivation-toxicology]] form covalent adducts with the heme or apoprotein (erythromycin, paroxetine on CYP2D6). Grapefruit juice furanocoumarins irreversibly inhibit intestinal CYP3A4. Ketoconazole + midazolam increases midazolam AUC 10-15x. Ritonavir is used pharmacologically as a CYP3A4 inhibitor to boost other HIV protease inhibitors.
+Phase II reactions conjugate hydrophilic moieties onto Phase I products, dramatically increasing water solubility for excretion. **Glucuronidation** (UGTs, 22 functional human enzymes) transfers glucuronic acid from UDPGA to -OH, -COOH, -NH2, or -SH groups. UGT1A1 handles bilirubin and irinotecan; UGT2B7 handles morphine. **Sulfation** (SULTs, 13 human enzymes) transfers sulfate from PAPS; SULT1A1 handles phenols and acetaminophen. Sulfation has high affinity but low capacity. **Glutathione conjugation** (GSTs) attaches GSH to electrophilic centers of epoxides and halogenated compounds; GSTM1 null genotype (~50% of Caucasians) is a risk factor for [[reactive-metabolites-and-bioactivation-toxicology]] form covalent adducts with the heme or apoprotein (erythromycin, paroxetine on CYP2D6). Grapefruit juice furanocoumarins irreversibly inhibit intestinal CYP3A4. Ketoconazole + midazolam increases midazolam AUC 10-15x. Ritonavir is used pharmacologically as a CYP3A4 inhibitor to boost other HIV protease inhibitors.
 
 ## Pharmacogenomics
 
@@ -84,41 +68,83 @@ Extrahepatic CYPs serve important physiological and toxicological roles. The sma
 
 ## Clinically Significant Drug-Drug Interactions
 
-CYP-mediated drug interactions are among the most common and clinically important. **CYP3A4 interactions** are most frequent: ritonavir + simvastatin (AUC increase ~30x, contraindicated due to rhabdomyolysis risk); ketoconazole + midazolam (AUC increase ~15x); rifampin + oral contraceptives (contraceptive failure from CYP3A4/P-gp induction); erythromycin + terfenadine (QT prolongation and torsades de pointes, leading to terfenadine withdrawal). **CYP2D6 interactions**: paroxetine + tamoxifen (reduced endoxifen formation, compromised breast cancer therapy); quinidine + codeine (no morphine formation, no analgesia). **CYP1A2 interactions**: fluvoxamine + theophylline (theophylline toxicity from narrow [[cannabis-therapeutic-index-overview]]); smoking cessation in clozapine patients causes clozapine toxicity as CYP1A2 induction reverses. **CYP2C9 interactions**: amiodarone + warfarin (increased INR and bleeding); fluconazole + phenytoin (phenytoin toxicity). These interactions underscore the need for systematic CYP assessment in drug development, codified in FDA and EMA regulatory guidance.
+CYP-mediated drug interactions are among the most common and clinically important. **CYP3A4 interactions** are most frequent: ritonavir + simvastatin (AUC increase ~30x, contraindicated due to rhabdomyolysis risk); ketoconazole + midazolam (AUC increase ~15x); rifampin + oral contraceptives (contraceptive failure from CYP3A4/P-gp induction); erythromycin + terfenadine (QT prolongation and torsades de pointes, leading to terfenadine withdrawal). **CYP2D6 interactions**: paroxetine + tamoxifen (reduced endoxifen formation, compromised breast cancer therapy); quinidine + codeine (no morphine formation, no analgesia). **CYP1A2 interactions**: fluvoxamine + theophylline (theophylline toxicity from narrow [[dom]]
+- [[det]]
+- [[caffeine]]
 
-## Acetaminophen Toxicity as a Paradigm
+## Overview
+
+Cytochrome P450 Enzymes And Xenobiotic Metabolism represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish cytochrome p450 enzymes and xenobiotic metabolism
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving cytochrome extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
 
 ## Practical Applications
 
-The principles and techniques discussed here have wide-ranging applications
-across multiple disciplines and contexts. Practitioners and researchers
-continue to explore new ways to integrate these concepts into modern practice,
-adapting traditional knowledge to contemporary challenges and opportunities.
+Cytochrome P450 Enzymes And Xenobiotic Metabolism finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
 
-## Key Considerations
+## Management and Implementation
 
-Several important factors influence the effectiveness and outcomes described
-in this topic. Understanding these considerations helps practitioners make
-informed decisions and avoid common pitfalls. Environmental conditions,
-timing, and material selection all play critical roles.
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for cytochrome p450 enzymes and xenobiotic metabolism. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+cytochrome p450 enzymes and xenobiotic metabolism and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
 
 ## Historical Context
 
-The historical development of this subject reflects centuries of accumulated
-knowledge and practical experience. From traditional methods passed down
-through generations to modern scientific approaches, the evolution continues
-to inform current best practices and research directions.
+Cytochrome P450 Enzymes And Xenobiotic Metabolism has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
 
-## Common Challenges
+## Integration Strategies
 
-Practitioners frequently encounter several challenges when working with
-these concepts. Climate variability, resource limitations, and knowledge
-gaps can all affect outcomes. Addressing these challenges requires patience,
-observation, and a willingness to adapt approaches based on results.
+Successful integration of cytochrome p450 enzymes and xenobiotic metabolism into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
 
-## See Also
-- [[dom]]
-- [[morphine]]
-- [[det]]
-- [[glutathione-conjugation]]
-- [[caffeine]]
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.

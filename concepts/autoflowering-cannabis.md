@@ -11,20 +11,9 @@ tags: [cannabis]
 # Autoflowering Cannabis
 
 Autoflowering cannabis varieties flower automatically based on age rather than in
-response to changes in the [[photoperiod-cannabis]] response that controls standard cannabis.
-
-## Advantages
-
-- **Multiple harvests per season:** Plant successive crops outdoors from spring through
-  summer for continuous harvesting
-- **No [[query-best-light-schedule-for-cannabis]] management:** No need to change to 12/12 for flowering
-- **Fast [[bloomfield-fungal-life-cycle-spiral-versus-circle]]:** Most autoflowers complete from seed to harvest in 8-12 weeks
-- **Compact size:** Typically smaller than photoperiod strains, suitable for discreet
-  growing
-- **Flexible planting:** Can be planted outdoors at any time during the [[savory-growing-season-and-non-growing-season-management]]
-- **Ideal for [[vegetative-phase-cannabis]] indefinitely:** Plants flower on
-  their own schedule
-- **Less training flexibility:** Techniques like [[screen-of-green]] are limited by the short vegetative window
+response to changes in the [[query-best-light-schedule-for-cannabis]] management:** No need to change to 12/12 for flowering
+- **Fast [[savory-growing-season-and-non-growing-season-management]]
+- **Ideal for [[screen-of-green]] are limited by the short vegetative window
 - **Stress sensitivity:** Transplanting and overfeeding can cause significant setbacks
 
 ## Light Schedule for Autoflowers
@@ -38,42 +27,9 @@ interference.
 
 ## Growing Autoflowers
 
-Autoflowering plants are sensitive to stress. [[guerilla-growing]] scenarios, the fast life cycle reduces exposure
-time and allows planting in remote sites with shorter growing seasons.
+Autoflowering plants are sensitive to stress. [[cannabis-cloning]] programs because they cannot be maintained in [[chionanthus-virginicus]]
 
-## Not Suitable as Mother Plants
-
-Autoflowering varieties do not make suitable [[cannabis-cloning]] programs because they cannot be maintained in [[cannabis-vegetative-growth-stage]]
-indefinitely. Once an autoflower begins its flowering program, it cannot be reversed.
-This is one of the key distinctions between autoflowering and photoperiod cannabis for
-commercial growers who rely on clone production.
-
-## Autoflowers in Cold Climates
-
-The ruderalis heritage makes autoflowers particularly well-suited to northern latitudes
-with short summers. They can complete their life cycle in regions where photoperiod
-strains would not have time to finish before frost. This makes them valuable for outdoor
-growers in Scandinavia, Canada, and other high-latitude regions.
-
-## Autoflowers vs. Photoperiod Strains
-
-- **Life cycle:** Autoflowers complete in 8-12 weeks; photoperiod strains take 3-5
-  months or more
-- **Light dependence:** Autoflowers ignore photoperiod; photoperiod strains require
-  12/12 to flower
-- **Clone propagation:** Photoperiod strains clone easily; autoflowers do not
-- **Yield potential:** Photoperiod strains generally produce larger yields
-- **Flexibility:** Autoflowers can be planted any time; photoperiod strains are tied to
-  seasons
-- **Mother plants:** Only photoperiod strains can serve as mother plants
-
-## See Also
-
-- [[chionanthus-virginicus]]
-
-- [[photoperiod-cannabis]] -- the mechanism autoflowers bypass
 - [[guerilla-growing]] -- ideal use case for autoflowers
-- [[light-schedule-cannabis]] -- why autoflowers differ
 - [[cannabis-cloning]] -- why autoflowers cannot be cloned effectively
 ## Practical Considerations
 
@@ -123,8 +79,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[photoperiod-cannabis]]
 - [[query-difference-between-photoperiod-and-autoflowering-cannabis]]
-- [[comparison-autoflowering-cannabis-vs-cannabis-photoperiod-flowering-cycle]]
 - [[cervantes-cannabis-ruderalis-autoflowering]]
 - [[autoflowering-cannabis-genetics]]

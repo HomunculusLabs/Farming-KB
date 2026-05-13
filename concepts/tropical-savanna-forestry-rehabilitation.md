@@ -101,11 +101,9 @@ On sea-facing slopes in tropical tradewind areas, saturated ocean winds carry he
 
 ## The Role of Tree Nurseries and Seed Sources
 
-The primary constraint on savannah forestry rehabilitation is often the lack of tree nurseries and seed sources for appropriate species. This gap presents a significant enterprise opportunity in the humid tropics. The National Academy of Sciences publication on tropical legumes (referenced in the source) provides an excellent selection of potential species for anyone establishing such a nursery operation.
+The primary constraint on [[savannah-forestry-rehabilitation]] is often the lack of tree nurseries and seed sources for appropriate species. This gap presents a significant enterprise opportunity in the humid tropics. The National Academy of Sciences publication on tropical legumes (referenced in the source) provides an excellent selection of potential species for anyone establishing such a nursery operation.
 ## See also
 
-- [[savannah-forestry-rehabilitation]]
 - [[savannah-forestry-and-difficult-terrain-pioneering]]
-- [[tropical-pioneering-grassland-rehabilitation]]
 - [[ecological-succession-in-permaculture-design]]
 - [[nitrogen-fixing-trees-in-agroforestry]]

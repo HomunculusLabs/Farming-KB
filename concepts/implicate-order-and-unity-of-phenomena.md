@@ -8,13 +8,7 @@ type: concept
 
 ## Overview
 
-The concept of **implicate order**, drawn from physicist David Bohm's *Wholeness and the Implicate Order* (1980), provides a philosophical foundation for understanding how all natural phenomena are interconnected. In [[permaculture-design]], this principle reinforces the understanding that no element, event, or organism exists in isolation — everything is part of an "enfolded" whole where separation is merely a perceptual convenience, not a reality.
-
-## Bohm's Implicate Order
-
-The word "implicate" derives from the Latin *enfolded*, suggesting that the universe is not a collection of separate parts but rather a single, interconnected fabric. When we isolate individual phenomena — organisms, disciplines, or events — from this enfolded order, we grasp only a fragment of an unknowable totality, not truth itself.
-
-Bohm's framework asserts that there are **no true opposites**, only phases of a single phenomenon. This has direct implications for [[permaculture]] design:
+The concept of **implicate order**, drawn from physicist David Bohm's *Wholeness and the Implicate Order* (1980), provides a philosophical foundation for understanding how all natural phenomena are interconnected. In [[permaculture]] design:
 
 - **Duality is misleading**: Concepts like "pest vs. beneficial insect" or "weed vs. crop" are artificial distinctions. In reality, each organism plays multiple roles within the whole system.
 - **Reductionism is limited**: Studying parts in isolation cannot reveal the emergent properties of the whole system. Holistic observation is essential.
@@ -37,11 +31,11 @@ Pattern understanding reveals that natural phenomena manifest as streams, partic
 - **Particles** represent discrete elements (plants, animals, structures)
 - **Waves** represent cyclical patterns (seasons, tides, population dynamics)
 
-Effective design works with all three modalities. A swale, for example, is a structure (particle) that directs water flow (stream) and operates on seasonal cycles (wave).
+Effective design works with all three modalities. A [[swale]], for example, is a structure (particle) that directs water flow (stream) and operates on seasonal cycles (wave).
 
 ## Lovelock and the Gaia Hypothesis
 
-[[james-lovelock]]'s **[[gaia-hypothesis]]** (1979) provides a scientific framework consistent with implicate order. Earth behaves as a self-regulating, self-generated construct — akin to a single organism or thought process. The conditions that make life possible are balanced about such fine tolerances that many processes appear to exist specifically to preserve this equilibrium in dynamic stability.
+[[gaia-hypothesis]]** (1979) provides a scientific framework consistent with implicate order. Earth behaves as a self-regulating, self-generated construct — akin to a single organism or thought process. The conditions that make life possible are balanced about such fine tolerances that many processes appear to exist specifically to preserve this equilibrium in dynamic stability.
 
 For permaculture designers, this means:
 

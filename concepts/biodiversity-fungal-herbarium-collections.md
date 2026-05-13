@@ -1,17 +1,15 @@
 ---
 title: Biodiversity Fungal Herbarium Collections
 created: 2026-04-28
-tags: [[mycology]], herbarium, specimen-management, [[fungal-taxonomy]], biodiversity]
+tags: fungal-taxonomy, biodiversity]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/unknown-biodiversity-of-fungi.md]
 type: concept
 ---
-# [[staycare-ecotoxicological-assessment-of-fungal-bioremediation]] diversity, distribution, and
-morphology. They are essential infrastructure for [[turner-harmala-alkaloids-preparation-and-dosage]] Preservation
+# [[turner-harmala-alkaloids-preparation-and-dosage]] Preservation
 
-Proper [[allegro-star-of-the-morning-venus-and-the-sacred-mushroom]] transaction, package contents,
-any restrictions on use, [[allegro-heavenly-twins-and-the-mushroom-hermaphrodite]] nature of the study.
+Proper [[allegro-heavenly-twins-and-the-mushroom-hermaphrodite]] nature of the study.
 
 Additional requirements often mandate that molecular data be submitted
 to public databases such as GenBank, with accession numbers provided
@@ -117,8 +115,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[doc]]
 - [[det]]
-- [[fungal-biodiversity-herbarium-collections]]
 - [[herbarium-specimens-fungal-collections]]
 - [[biodiversity-of-fungi-herbarium-specimen-curation-best-practices]]

@@ -74,76 +74,16 @@ Partial shade improves leaf quality in many traditions. In Japan, kabuse-cha (sh
 
 ### Seed Propagation
 
-Seed-grown plants develop deep taproots, [[dighton-fungal-drought-tolerance-plant-water-relations]], and genetic diversity — useful for breeding and marginal sites. However, they exhibit enormous phenotypic variation and inconsistent leaf quality. Seeds lose viability rapidly; they should be sown fresh or stored moist at 4°C for no more than a few weeks. Germination takes 4–8 weeks. Seedlings require 12–18 months in a nursery before field planting.
-
-### Vegetative (Clonal) Propagation
-
-Single-node cuttings from selected mother bushes are the industry standard. Cuttings of 3–5 cm with one leaf and an axillary bud are rooted in sand, peat, or a 1:1 mix under intermittent mist (80–90% relative humidity) and bottom heat (25°C). Rooting takes 6–12 weeks. Clonal propagation preserves exact flavor profiles and is essential for premium gardens. Over 1,000 registered cultivars exist in China alone.
-
-### Tissue Culture
-
-Somatic embryogenesis and micropropagation are used for rapid multiplication of elite genotypes, though field performance of tissue-cultured plants can be variable. Primarily employed in breeding programs rather than commercial field production.
-
-## Site Preparation and Planting
-
-### Field Establishment
-
-1. **Land preparation**: Deep ripping (60–80 cm) on slopes to break hardpans, followed by terracing on steep terrain. Contour planting is essential for [[permplant-willows-salix-erosion-control-fodder]].
+Seed-grown plants develop deep taproots, [[permplant-willows-salix-erosion-control-fodder]].
 2. **Drainage**: Intercept drains above the plantation; lateral drains every 15–20 m across the slope.
 3. **Soil amendment**: Incorporate well-decomposed compost or farmyard manure at 10–20 t/ha before planting. Lime is added only if pH drops below 4.0 (excessively acidic conditions impair nutrient uptake).
 4. **Spacing**: 1.0–1.5 m between plants within rows, 1.2–2.0 m between rows, depending on variety, climate, and mechanization needs. Planting density ranges from 5,000 to 15,000 plants/ha.
 5. **Windbreaks**: Essential in exposed sites. Species like *Casuarina*, *Grevillea*, or *Alnus nepalensis* provide shelter without excessive shade.
 6. **Planting time**: At the onset of monsoon rains in tropical regions; early autumn in subtropical zones.
-7. **Shade trees**: In traditional Japanese and some Indian gardens, *[[gleditsia-triacanthos]]* (honey locust) or *Alnus* species are interplanted to provide dappled shade.
+7. **Shade trees**: In traditional Japanese and some Indian gardens, *[[cannabis-vegetative-growth-stage]] but must be balanced with potassium and phosphorus to avoid quality decline.
 
-### Young Plant Care
-
-- Weed control is critical for the first 3 years.
-- First light harvest ("tipping") at 18–24 months after planting.
-- Full commercial yield begins at year 4–5.
-
-## Pruning and Harvesting
-
-### Pruning Systems
-
-Pruning maintains the bush in a vegetative "plucking table" and rejuvenates aging wood.
-
-| Pruning type | Purpose | Timing |
-|---|---|---|
-| **Centering / formation pruning** | Establish bush frame at 30–45 cm height | Year 1–2 |
-| **Light prune / tipping** | Remove apical dominance, encourage lateral branching | After each flush |
-| **Medium prune** | Remove 30–45 cm of wood to restore productivity | Every 3–5 years |
-| **Heavy prune / rejuvenation** | Cut back to 30–45 cm from ground | Every 8–12 years or when yield declines |
-| **Collar prune** | Remove all wood above the rootstock junction | For severely debilitated bushes |
-
-### Harvesting
-
-Tea is harvested as the young apical bud and the top 1–3 leaves ("two leaves and a bud" is the classic plucking standard). Harvest frequency ranges from every 7–10 days in tropical lowlands to every 15–20 days in cooler highlands. Mechanical harvesting (shear harvesters or selective pluckers) is common in large estates, while hand plucking is standard for premium grades.
-
-Seasonal flushes have distinct characters:
-- **First flush** (spring): Light, floral, astringent; prized in Darjeeling and some Chinese greens.
-- **Second flush** (early summer): Fuller body, muscatel notes in Darjeeling; the main crop in many regions.
-- **Autumn flush**: Milder; used for some oolongs and Japanese bancha.
-- **Monsoon flush** (tropics): Lower quality due to rapid growth; often used for CTC (crush, tear, curl) grades.
-
-## Nutrition and Fertilization
-
-Tea is a heavy potassium feeder. Nitrogen drives [[cannabis-vegetative-growth-stage]] but must be balanced with potassium and phosphorus to avoid quality decline.
-
-Typical annual [[ingham-compost-tea-application-rates-and-timing]] (per hectare, split across 3–4 applications):
-- **Nitrogen**: 100–300 kg N/ha (ammonium sulfate or urea preferred; nitrate fertilizers are poorly utilized by tea)
-- **Phosphorus**: 20–50 kg P₂O₅/ha
-- **Potassium**: 50–150 kg K₂O/ha
-- **Magnesium**: 10–25 kg MgO/ha (often as kieserite)
-- **Sulfur**: 30–60 kg S/ha (tea has high sulfur demand; ammonium sulfate is a good dual source)
-
-Organic approaches include:
-- Compost or vermicompost at 5–10 t/ha annually
-- Oilseed cakes (neem, castor, mustard) as slow-release nitrogen
-- Biochar amendments to improve soil [[root-anatomy-structure-and-nutrient-uptake]] retentio  rops (*Crotalaria*, *Tephrosia*, *Desmodium*) in inter-row spaces
+Typical annual [[root-anatomy-structure-and-nutrient-uptake]] retentio  rops (*Crotalaria*, *Tephrosia*, *Desmodium*) in inter-row spaces
 ## See Also
 
-- [[caffeine-plants-and-stimulant-herb-cultivation]]
 - [[comparison-caffeine-plants-yerba-mate-vs-guayusa-vs-yaupon-vs-tea]]
-- [[kombucha-brewing-and-fermented-tea-culture]]
 - [[wild-fermentation-and-spontaneous-cultures]]

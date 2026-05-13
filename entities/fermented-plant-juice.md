@@ -10,10 +10,9 @@ sources: [/Users/t3rpz/wiki/raw/papers/chos-global-natural-farming.md]
 
 # Fermented Plant Juice
 
-**Fermented Plant Juice (FPJ)** is a core [[medicinal-mushroom-antimicrobial-properties]]. Used for plant vitality and [[foliar-pest-deterrence-aact-mechanisms]].
+**Fermented Plant Juice (FPJ)** is a core [[foliar-pest-deterrence-aact-mechanisms]].
 * **Dropwort (Oenanthe javanica) FPJ:** Made from the aquatic plant water dropwort. High in minerals, particularly iron and silica. Used for leafy green vegetables and rice crops.
-* **Seaweed/Kelp FPJ:** Made from fresh seaweed collected from clean coastal waters. Extraordinarily rich in trace minerals (over 60 elements), alginates, cytokinins, and auxins. Used as a micronutrient supplement and [[fungal-lichen-stress-tolerance-and-poikilohydry]] enhancer.
-* **Strawberry FPJ:** Made from runner tips or excess strawberry plants. High in natural [[ozier-pdc-composting-and-soil-building]] support:** Dilute FPJ applied to soil feeds diverse microbial communities, supporting [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] and [[aact-disease-suppression-mechanisms-ingham]]
+* **Seaweed/Kelp FPJ:** Made from fresh seaweed collected from clean coastal waters. Extraordinarily rich in trace minerals (over 60 elements), alginates, cytokinins, and auxins. Used as a micronutrient supplement and [[ozier-pdc-composting-and-soil-building]] support:** Dilute FPJ applied to soil feeds diverse microbial communities, supporting [[aact-disease-suppression-mechanisms-ingham]]
 
 ## Troubleshooting
 
@@ -25,7 +24,6 @@ sources: [/Users/t3rpz/wiki/raw/papers/chos-global-natural-farming.md]
 
 ## See Also
 
-* [[lactic-acid-bacteria]] — Microorganisms driving FPJ fermentation
 * [[oriental-herbal-nutrient]] — OHN, herbal extract complement to FPJ
 ## Practical Applications
 

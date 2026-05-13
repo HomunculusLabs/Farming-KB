@@ -13,7 +13,7 @@ Seed germination is the process of initiating growth from a dormant cannabis see
 
 ## Seed Selection and Quality
 
-[[query-how-to-manage-ph-for-healthy-cannabis-plants]] seeds should exhibit:
+Healthy cannabis seeds should exhibit:
 
 - **Dark color**: Brown, tan, or mottled. Very pale or white seeds are often immature.
 - **Hard shell**: Should resist gentle pressure between fingers. Soft or crushable seeds are likely dead.
@@ -26,7 +26,7 @@ Store seeds in a cool, dark, dry place. Refrigeration in an airtight container w
 
 ### Paper Towel Method
 
-The most common home [[solomon-seed-sprouting-conditions-laboratory-germination-technique]]:
+The most common home germination technique:
 
 1. Moisten a paper towel (distilled or RO water, pH 5.5-6.5)
 2. Place seeds on one half of the towel, spacing them 1 inch apart
@@ -50,7 +50,7 @@ Planting seeds directly into their final medium:
 5. Maintain warm temperatures and high humidity (dome recommended)
 6. Seedling should emerge in 3-7 days
 
-Direct sowing avoids [[query-how-do-i-prevent-and-manage-transplant-shock-in-garden-plants]] but offers less control and visibility.
+Direct sowing avoids transplant shock but offers less control and visibility.
 
 ### Water Soaking
 
@@ -77,7 +77,7 @@ Using Rockwool, peat, or coco cubes:
 
 ### First Days Above Ground
 
-When the seedling emerges, it will have two embryonic leaves called cotyledons. These are rounded and unlike true [[query-what-causes-cannabis-leaves-to-curl-and-how-to-fix-it]]. Within a few days, the first set of serrated "true leaves" will appear.
+When the seedling emerges, it will have two embryonic leaves called cotyledons. These are rounded and unlike true cannabis leaves. Within a few days, the first set of serrated "true leaves" will appear.
 
 - **Light**: Use low-intensity light (CFL, T5, or dimmed LED). Start at 200-400 PPFD. Intense light burns young seedlings.
 - **Humidity**: 60-80% RH. Seedlings have underdeveloped root systems and rely on high humidity.
@@ -111,7 +111,7 @@ Feminized seeds eliminate the need for sexing but may have slightly higher herma
 
 ### Early Sexing Techniques
 
-Some growers force sex identification by taking a cutting from a vegetative plant and placing it on 12/12 in a separate small space. The clone will reveal sex in 7-10 days while the mother remains in [[cannabis-vegetative-growth-stage]]. See [[cannabis-cloning-guide]] for cloning techniques.
+Some growers force sex identification by taking a cutting from a vegetative plant and placing it on 12/12 in a separate small space. The clone will reveal sex in 7-10 days while the mother remains in vegetative growth. See [[cannabis-cloning-guide]] for cloning techniques.
 
 ## Germination Environment
 

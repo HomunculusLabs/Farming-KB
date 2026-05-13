@@ -75,51 +75,14 @@ Stewed vegetables and rice cooked with adzuki beans was a once-a-month treat. Ho
 
 ## The Broader Context: Food Production
 
-Farmers too give no thought to the meaning of a [[fukuoka-natural-diet-as-foundation]] or [[comparison-natural-farming-vs-permaculture]] and, without a trace of skepticism, see the production of food out of season as a method for increasing the food supply. Scientists and engineers follow suit, working on the development of new food products. Politicians and those in the distribution industry believe that markets well stocked with a full range of goods means food is abundant and people can live in peace and security.
+Farmers too give no thought to the meaning of a [[comparison-natural-farming-vs-permaculture]] and, without a trace of skepticism, see the production of food out of season as a method for increasing the food supply. Scientists and engineers follow suit, working on the development of new food products. Politicians and those in the distribution industry believe that markets well stocked with a full range of goods means food is abundant and people can live in peace and security.
 
-But such thinking, and the follies of people, are dragging mankind to the abyss of destruction. See [[fukuoka-agriculture-run-amok]].
-
-## A Proposal for Japan's Food
-
-Fukuoka proposes a concrete alternative: if Japan grew rice suited to the climate, stopped importing wheat, grew early-maturing naked barley harvestable before the early summer rains, and revived the practices of eating [[cho-brown-rice-vinegar-preparation]] and rice-and-barley like the farmers and samurai of old — an immediate improvement in Japan's food situation and the health of her people would be seen.
+But such thinking, and the follies of people, are dragging mankind to the abyss of destruction. See [[cho-brown-rice-vinegar-preparation]] and rice-and-barley like the farmers and samurai of old — an immediate improvement in Japan's food situation and the health of her people would be seen.
 
 If all this is asking too much of modern man, with his weakened heart and stomach, Fukuoka recommends at least making brown rice bread or delicious bread from naked barley.
 
 ## See Also
 
-- [[fukuoka-critique-western-dietetics-nutritional-science]]
-
-## Practical Applications
-
-The principles and techniques discussed here have wide-ranging applications
-across multiple disciplines and contexts. Practitioners and researchers
-continue to explore new ways to integrate these concepts into modern practice,
-adapting traditional knowledge to contemporary challenges and opportunities.
-
-## Key Considerations
-
-Several important factors influence the effectiveness and outcomes described
-in this topic. Understanding these considerations helps practitioners make
-informed decisions and avoid common pitfalls. Environmental conditions,
-timing, and material selection all play critical roles.
-
-## Historical Context
-
-The historical development of this subject reflects centuries of accumulated
-knowledge and practical experience. From traditional methods passed down
-through generations to modern scientific approaches, the evolution continues
-to inform current best practices and research directions.
-
-## Common Challenges
-
-Practitioners frequently encounter several challenges when working with
-these concepts. Climate variability, resource limitations, and knowledge
-gaps can all affect outcomes. Addressing these challenges requires patience,
-observation, and a willingness to adapt approaches based on results.
-
-## See Also
 - [[masanobu-fukuoka]]
-- [[det]]
 - [[permaculture]]
-- [[fukuoka-textdoc-staff-of-life-critique-western-dietetics]]
 - [[fukuoka-critique-western-dietetics-nutritional-science]]

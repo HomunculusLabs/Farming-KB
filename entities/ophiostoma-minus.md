@@ -24,17 +24,13 @@ forest ecosystems.
 Ophiostoma minus belongs to the Ophiostomatales, an order of fungi
 predominantly associated with bark beetles and wood-boring insects. The
 genus Ophiostoma contains numerous species that cause blue stain of
-wood, where [[fungal-biodiversity-forest-ecosystems]]
-
-- [[fungal-plant-diseases]]
+wood, where [[fungal-plant-diseases]]
 
 - ceratocystiopsis ranaculosus - mycangial fungus beneficial to bark beetle larvae
 - dendroctonus frontalis - southern pine beetle vector
 - Entomocorticium - mycangial fungus not consumed by Tarsonemus mites
-- [[suillus-luteus]] - ectomycorrhizal fungus in [[fukuoka-pine-forest-ecosystem-collapse-cascade-matsutake]] ecosystems
-- ceratocystis lariciola - [[alpha-1-3-glucan-fungal-pathogen-cell-walls]] transmitted by bark beetle Ips cembrae
-- amylostereum chailletii - fungal pathogen transmitted by wood wasp
-- Tarsonemus - phoretic mite mediating [[dighton-fungal-competition-resource-partitioning]] dynamics
+- [[fukuoka-pine-forest-ecosystem-collapse-cascade-matsutake]] ecosystems
+- ceratocystis lariciola - [[dighton-fungal-competition-resource-partitioning]] dynamics
 ## Practical Applications
 
 Ophiostoma minus has a range of practical applications that make it relevant to

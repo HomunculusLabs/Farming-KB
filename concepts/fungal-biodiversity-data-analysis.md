@@ -3,15 +3,7 @@ title: Fungal Biodiversity Data Analysis
 created: 2026-04-16
 updated: 2026-04-16
 type: concept
-tags: [[mycology]], fungi]
-sources:
-  - "raw/papers/unknown-biodiversity-of-fungi.md"
----
-# fungal-biodiversity-forest-floor data presents unique challenges due to the cryptic nature of fungi, episodic fruiting, methodological dependencies, and the difficulty of defining fungal individuals. This page covers quantitative approaches for assessing growing gourmet global, drawn from Chapter 5 of "Biodiversity of Fungi" (Zak and Willig).
-
-## Types of Biodiversity Data
-
-### [[fungal-species-estimation-methods-total-diversity]] Composition
+tags: [[fungal-species-estimation-methods-total-diversity]] Composition
 
 The most fundamental data from fungal surveys: lists of species present at each site, with associated metadata on abundance, substratum, habitat, and collection method.
 
@@ -19,8 +11,7 @@ The most fundamental data from fungal surveys: lists of species present at each 
 
 - **Presence/absence**: Binary record of species occurrence
 - **Frequency**: Proportion of samples or plots in which a species occurs
-- **Biomass**: [[stamets-forest-mycelial-biomass-topsoil-douglas-fir]] (difficult to measure for most fungi)
-- **Sporocarp counts**: Number [[bloomfield-asterophora-and-mycoparasites-of-fruiting-bodies]] (standard for macrofungi)
+- **Biomass**: [[bloomfield-asterophora-and-mycoparasites-of-fruiting-bodies]] (standard for macrofungi)
 - **Colony-forming units**: For culture-based assessments
 
 ## Quantitative Indices
@@ -118,8 +109,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[dom]]
 - [[det]]
-- [[fungal-biodiversity-power-analysis-statistical-design-zak-willig]]
 - [[lichen-biodiversity-sampling-protocols-data-analysis]]
 - [[fungal-biodiversity-built-environments-indoor-mycobiome]]

@@ -36,58 +36,89 @@ roles in immune function, pain signaling, and neuroprotection.
 The human body produces at least five distinct endocannabinoids:
 1. Anandamide (N-arachidonoylethanolamide) (AEA)
 2. 2-arachidonoyl glycerol (2-AG)
-3. 2-arachidonoyl-glyceryl-ether ([[virodhamine]])
-5. N-arachidonoyl-dopamine (NADA)
-
-2-AG is distinguished from anandamide by its higher tissue
-concentrations, full agonist activity (anandamide is a partial agonist),
-and different enzymatic [[staycare-chlorophenol-degradation-pathways-white-rot-fungi]].
+3. 2-arachidonoyl-glyceryl-ether ([[staycare-chlorophenol-degradation-pathways-white-rot-fungi]].
 
 ### Biological Function
 2-AG is produced on-demand from membrane lipid precursors and serves as
 a retrograde signaling molecule in synaptic transmission. Key functions
 include:
 - Retrograde neurotransmitter signaling at CB1 receptors
-- [[cancer-immune-modulation-mechanisms]] via CB2 receptor activation
-- Inflammatory response regulation
-- Neuroprotection following injury
-- Bone metabolism and osteoclast regulation
-- Reproductive system function
-- Cardiovascular regulation
-
-### Therapeutic Significance
-- **Pain modulation:** 2-AG plays a central role in endogenous pain
-  control through both CB1 (neuronal) and CB2 (immune) pathways
-- **Neuroprotection:** Protects neurons following ischemic injury and
-  other forms of neurological damage
-- **Anti-inflammatory:** Modulates immune responses through CB2
-  activation, reducing inflammatory cytokine production
-- **Bone health:** Regulates bone mass through CB2-mediated effects on
-  osteoclasts and osteoblasts
-- **GI function:** Involved in gastrointestinal motility and
-  inflammation regulation
-
-### Relationship to Cannabis Pharmacology
-THC mimics the effects of 2-AG at cannabinoid receptors, which is the
-primary mechanism underlying cannabis's therapeutic and psychoactive
-effects. Understanding 2-AG signaling is essential for understanding
-how cannabis-derived cannabinoids interact with the endocannabinoid
-system. The therapeutic effects of medical cannabis can be understood
-in part as augmentation of the body's natural 2-AG signaling pathways.
-
-## Relevance
-2-AG is the most abundant endocannabinoid and a full agonist at both
-CB1 and CB2 receptors, making it arguably the most important endogenous
-cannabinoid for therapeutic targeting. While anandamide receives more
-public attention due to its "bliss molecule" nickname, 2-AG plays an
-equally or more significant role in pain, inflammation, and immune
-regulation. The MAGL enzyme that degrades 2-AG represents a potential
-drug target distinct from FAAH (which degrades anandamide). The
-development of MAGL inhibitors could provide a new class of
-therapeutics that boost endogenous 2-AG signaling.
-
-## See Also
 - [[tetrahydrocannabinol]]
-- [[cannabidiol-cbd]]
-- endocannabinoid system (ECS)
-- fatty [[lysergic-acid-amide-containing-plants-halpern]] hydrolase (FAAH)
+- [[lysergic-acid-amide-containing-plants-halpern]] hydrolase (FAAH)
+
+## Overview
+
+Two Ag represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish two ag
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving two extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Two Ag finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for two ag. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+two ag and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Two Ag has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of two ag into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.

@@ -41,9 +41,7 @@ No cure exists. Current treatments focus on:
 | Substance | Study Type | Key Finding | CHI |
 |-----------|-----------|-------------|-----|
 | THC | Laboratory study (2006, Madrid) | THC reduced amyloid-beta plaque deposition in brain tissue | 2 |
-| WIN55,212-2 ([[synthetic-cannabinoid-pharmaceuticals-sativex-dronabinol-marinol]]) | Laboratory study (2006, Madrid) | CB2 receptor activation reduced neuroinflammation | 2 |
-| CBD | Laboratory study (various) | Anti-inflammatory and neuroprotective effects on brain cells | 2 |
-| **Total [[blesching-cannabis-prostate-cancer-chi-value-3]]** | | | **6** |
+| WIN55,212-2 ([[blesching-cannabis-prostate-cancer-chi-value-3]]** | | | **6** |
 
 ### Key Research Findings
 
@@ -53,9 +51,7 @@ No cure exists. Current treatments focus on:
 
 3. **Neuroprotection:** Both THC and CBD demonstrated neuroprotective properties, potentially slowing the death of brain cells
 
-4. **Antioxidant effects:** CBD has well-documented antioxidant properties that may protect neurons from [[blesching-cannabis-oxidative-stress-and-antioxidant-defense]], a key factor in neurodegeneration
-
-5. **Behavioral [[cannabis-cancer-symptom-management]]:** Anecdotal and clinical evidence suggests cannabis may help manage agitation, aggression, sleep disturbance, and appetite loss in Alzheimer's patients
+4. **Antioxidant effects:** CBD has well-documented antioxidant properties that may protect neurons from [[cannabis-cancer-symptom-management]]:** Anecdotal and clinical evidence suggests cannabis may help manage agitation, aggression, sleep disturbance, and appetite loss in Alzheimer's patients
 
 ### Mechanism of Action
 
@@ -68,25 +64,10 @@ The endocannabinoid system plays multiple roles relevant to Alzheimer's:
 
 ## Strain-Specific Considerations
 
-For Alzheimer's patients, the goals are neuroprotection and [[cannabis-hiv-aids-symptom-management-blesching]]:
-
-- **CBD-dominant preparations:** Non-intoxicating; may be preferred for daytime use and for patients who cannot tolerate psychoactive effects
-- **Balanced THC:CBD:** May provide both neuroprotection and symptom relief with moderated psychoactivity
-- **High-THC:** Not recommended for patients with significant cognitive impairment due to potential for confusion and anxiety
-
-### Special Considerations for Elderly Patients
-- Start with very low doses and increase slowly
-- Use non-smoked [[cannabis-delivery-methods-comparison]] (tinctures, edibles, capsules)
+For Alzheimer's patients, the goals are neuroprotection and [[cannabis-delivery-methods-comparison]] (tinctures, edibles, capsules)
 - Monitor for confusion, dizziness, or increased disorientation
 - Consult with neurologist and caregivers
-- Be aware of [[ayahuasca-drug-interactions]] with Alzheimer's medications
-
-## Mind-Body Medicine
-
-Research supports several non-pharmacological approaches for Alzheimer's:
-- **Cognitive stimulation:** Puzzles, reading, social interaction, learning new skills
-- **Physical exercise:** Reduces risk and slows progression; improves mood and sleep
-- **Diet:** Mediterranean diet, omega-3 [[carbon-isotope-labelling-mycorrhizal-fatty-acids]], antioxidants
+- Be aware of [[carbon-isotope-labelling-mycorrhizal-fatty-acids]], antioxidants
 - **Social engagement:** Maintains cognitive function and emotional well-being
 
 ## Practical Applications
@@ -118,8 +99,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[ayahuasca]]
 - [[doc]]
-- [[dom]]
 - [[dronabinol]]
 - [[mda]]

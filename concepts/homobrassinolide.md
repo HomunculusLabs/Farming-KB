@@ -35,15 +35,7 @@ The 22S,23S stereochemistry is one of several possible diastereomers.
 Homobrassinolide can also exist as the 22R,23R isomer, but the 22S,23S form
 has been most extensively studied for biological activity. The additional
 methylene group in the side chain (compared to brassinolide) modifies the
-molecule's conformation and may influence [[beta-glucan-receptor-binding]] affinity and
-metabolic stability.
-
-## Synthesis from Stigmasterol
-
-The synthetic preparation of 22S,23S-homobrassinolide from stigmasterol
-represents an important achievement in brassinosteroid chemistry. Stigmasterol
-is a widely available and inexpensive plant sterol, making it an attractive
-[[shirota-4-hydroxyindole-acetyl-protection-psilocin-synthesis-starting-material]] for large-scale synthesis. The synthetic route involves:
+molecule's conformation and may influence [[shirota-4-hydroxyindole-acetyl-protection-psilocin-synthesis-starting-material]] for large-scale synthesis. The synthetic route involves:
 
 1. Oxidative modification of the stigmasterol side chain to introduce
    appropriate functionality
@@ -108,22 +100,9 @@ The brassinosteroid produced dramatic effects across all measured parameters:
 - **First flush yield**: Four to seven mushrooms in the first flush with
   treatment versus one to three in controls
 - **Dry mass**: 3.4-3.9 g per 10 g substrate versus 2.3-2.9 g in controls —
-  approximately 35-48% increase in total [[biological-efficiency]]
-- **Fruit body quality**: Formation [[brassinosteroid-suppression-of-incomplete-fruit-body-formation]] bodies (aborts) was
+  approximately 35-48% increase in total [[brassinosteroid-suppression-of-incomplete-fruit-body-formation]] bodies (aborts) was
   almost completely suppressed; treated fruit bodies lacked the typical
-  [[membranous-annulus-loss-brassinosteroid-induced-morphological-change]] on their stems, suggesting a developmental effect
-
-### Proposed Mechanisms of Fungal Action
-
-The mechanism is not fully understood, but several hypotheses exist:
-
-1. **Membrane interaction**: As a sterol-like molecule, homobrassinolide may
-   incorporate into fungal cell membranes, altering fluidity and transport
-2. **Signal transduction**: Fungi may possess receptors that recognize
-   brassinosteroid-like molecules, analogous to plant BRI1 receptors
-3. **Metabolic stimulation**: Direct stimulation of fungal metabolic pathways
-   involved in growth, nutrient uptake, and differentiation
-4. **Developmental programming**: [[gartz-brassinosteroid-fruiting-body-morphological-changes-psilocybe-cubensis]] (loss of annulus)
+  [[gartz-brassinosteroid-fruiting-body-morphological-changes-psilocybe-cubensis]] (loss of annulus)
    suggest effects on the fruit body differentiation program
 
 ## Significance
@@ -133,7 +112,6 @@ physiology research, and understanding of cross-kingdom sterol signaling.
 
 ## See Also
 
-- [[brassinosteroids]]
 - [[psilocybe-cubensis]]
 - [[mycelial-growth-promotion]]
 

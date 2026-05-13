@@ -98,24 +98,6 @@ Because tissue culture has high contamination risk, do only a few bottles from f
 - Keep detailed observation notes
 - Never open a contaminated bottle inside the laminar flow cabinet
 
-## Practical Considerations
-Implementation requires careful attention to local conditions,
-available resources, and the specific goals of the practitioner.
-Documenting results and adapting approaches based on observed
-outcomes leads to continuous improvement over time.
-
-## Integration Strategies
-Combining multiple approaches often yields better results than
-relying on any single technique. Consider how this topic relates
-to broader system design and look for synergies between methods
-that can amplify overall effectiveness.
-
-## See Also
-- [[cotter-agar-tissue-culture-techniques]]
-- [[hydrogen-peroxide-tissue-culture-wild-polypores]]
-- [[cervantes-tissue-culture-micropropagation]]
-- [[tissue-culture-cloning]]
-- [[comparison-seed-saving-techniques-vs-tissue-culture-cloning]]
 ## Related
 
 - [[mushroom-spawn-making-detailed]] — Grain spawn from PDA cultures

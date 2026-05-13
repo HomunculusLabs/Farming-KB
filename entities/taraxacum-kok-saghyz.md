@@ -40,7 +40,7 @@ The taproot is the commercially important organ, typically 30–60 cm long and 1
 
 T. kok-saghyz is native to the Tien Shan and Pamir-Alai mountain systems of Central Asia, occurring at elevations of 1500–3000 meters in Kazakhstan, Kyrgyzstan, Uzbekistan, and Xinjiang Province, China. It grows in mountain meadows, stony slopes, and alluvial fans.
 
-The species requires well-drained soils and is adapted to cold winters with temperatures below -30°C. It shows moderate [[dighton-fungal-drought-tolerance-plant-water-relations]] once established but performs best with consistent moisture during the [[savory-growing-season-and-non-growing-season-management]]. Optimal growth occurs on loamy to sandy loam soils with pH 6.5–7.5.
+The species requires well-drained soils and is adapted to cold winters with temperatures below -30°C. It shows moderate [[savory-growing-season-and-non-growing-season-management]]. Optimal growth occurs on loamy to sandy loam soils with pH 6.5–7.5.
 
 Natural populations have declined significantly due to overharvesting during Soviet rubber extraction programs and habitat disturbance. The species is considered endangered in parts of its native range, with conservation efforts underway in Kazakhstan.
 
@@ -56,25 +56,9 @@ Continental Tire's Taraxagum project, initiated in 2011, successfully produced t
 
 Agricultural cultivation of T. kok-saghyz requires vernalization (cold treatment) for optimal flowering and root development. Seeds are typically sown in late summer or early autumn, overwintered as rosettes, and harvested at the end of the following growing season.
 
-Optimal planting density is 200–400 plants per m², with [[wide-row-spacing-intensive-gardening-comparison]] of 15–25 cm. Fertilizer requirements are moderate, with nitrogen application of 40–80 kg/ha and phosphorus of 30–60 kg/ha. Weed competition during establishment is the primary agronomic challenge.
+Optimal planting density is 200–400 plants per m², with [[mycorrhizal-fungi-soil-carbon-sequestration-by-type]].
 
-Current commercial root yields average 3–6 tonnes dry weight per hectare, containing 5–10% rubber by weight, equivalent to 150–600 kg rubber/ha. Breeding programs have produced lines yielding up to 15% rubber, and yield targets of 1000 kg rubber/ha are considered achievable with further genetic improvement.
-
-## Permaculture Applications
-
-T. kok-saghyz offers several advantages for permaculture and diversified farming systems. Its deep taproot accesses subsoil nutrients and water, and the extensive root system contributes to soil structure improvement and [[mycorrhizal-fungi-soil-carbon-sequestration-by-type]].
-
-The species is compatible with agroforestry systems, growing well in the understory of nut trees and other woody perennials. Its [[coleman-overwintered-onions-and-early-spring-crops]] growth provides ground cover before canopy closure, reducing soil erosion and suppressing early-season weeds.
-
-Leaves are edible raw or cooked, containing moderate levels of vitamins A and C. The flowers produce a honey with distinctive properties, and the roasted roots can be used as a coffee substitute similar to common dandelion.
-
-## History and Research
-
-The species was discovered in 1931 by Soviet botanists during a systematic search for domestic rubber sources. Following the discovery, the Soviet Union established large-scale cultivation programs in Kazakhstan and Uzbekistan, producing over 30,000 tonnes of rubber from TKS during World War II when Southeast Asian rubber supplies were cut off.
-
-The Soviet research program at the All-Union Institute of Rubber Plants (VNIISK) developed agronomic protocols, extraction methods, and breeding lines. Post-war, the program declined as synthetic rubber (SBR) and restored Hevea imports made TKS economically uncompetitive.
-
-Western interest was revived in the 2000s driven by concerns about Hevea monoculture vulnerability to [[chiric-caspi-brunfelsia-south-american-hallucinogen]] leaf blight (Microcyclus ulei). The US Bioenergy Research Centers and European consortiums have invested in TKS genomics, breeding, and metabolic engineering.
+The species is compatible with agroforestry systems, growing well in the understory of nut trees and other woody perennials. Its [[chiric-caspi-brunfelsia-south-american-hallucinogen]] leaf blight (Microcyclus ulei). The US Bioenergy Research Centers and European consortiums have invested in TKS genomics, breeding, and metabolic engineering.
 
 The T. kok-saghyz genome was sequenced in 2017, revealing a genome size of approximately 1.8 Gb and identifying candidate genes for rubber biosynthesis. CRISPR-Cas9 gene editing has been used to upregulate key enzymes in the isoprenoid pathway, increasing rubber content by 30–50% in transgenic lines.
 
@@ -87,3 +71,80 @@ Compared to Hevea, TKS offers several advantages: it grows in temperate climates
 Guayule produces rubber in its bark and branches rather than roots, with similar quality characteristics. Guayule requires arid conditions and is better suited to semi-desert regions, while TKS is adapted to temperate agricultural zones. The two species are complementary rather than competitive, potentially diversifying global rubber supply chains.
 
 ## See Also
+
+## Overview
+
+Taraxacum Kok Saghyz represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish taraxacum kok saghyz
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving taraxacum extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Taraxacum Kok Saghyz finds practical application in multiple design contexts.
+[[permaculture-principles]] guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for taraxacum kok saghyz. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+taraxacum kok saghyz and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Taraxacum Kok Saghyz has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of taraxacum kok saghyz into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.

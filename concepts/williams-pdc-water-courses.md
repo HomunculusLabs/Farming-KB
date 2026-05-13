@@ -45,7 +45,7 @@ It is a good idea to use your earthworks to aim the overflow towards a pre-exist
 
 If you do not have a pre-existing water course on your site for the overflow, you will need to make one. You can make a water course by putting a large swale at the bottom of your system that will catch all of the runoff and send it somewhere. Put in the rocks, gabions, or dams ahead of time to cut off erosion from the start. If you have nowhere to have the water course run to, you should probably be making infiltration pits at the bottom of the design instead.
 
-This overflow management connects directly to broader [[williams-pdc-earthworks]] strategies and should be considered alongside [[ozier-pdc-hydro-cycle-and-watershed-management]] principles.
+This overflow management connects directly to broader [[ozier-pdc-hydro-cycle-and-watershed-management]] principles.
 
 ## Enhancing Ponds with Edge Effect
 
@@ -53,17 +53,11 @@ If you have a pre-existing pond on your site, the main recommendation is to incr
 
 ### Aquatic Plantings for Water Courses
 
-Planting along water course edges serves multiple functions simultaneously. Riparian species like willow (Salix spp.) stabilize banks with dense root mats while providing fodder, craft material, and habitat. [[permplant-willows-salix-erosion-control-fodder]] are among the most versatile choices. Other useful species include reeds and rushes for water filtration, cattails for edible biomass, watercress as an edible aquatic crop, and sweet flag for bank stabilization.
-
-## Riparian Buffer Zones
-
-A riparian buffer is the vegetated area adjacent to a water course that acts as a protective filter between the water and upslope land use. Riparian buffers intercept runoff, filter sediment and pollutants, stabilize stream banks, provide wildlife corridors, create microclimate moderation, and supply harvestable yields. The ideal buffer width depends on slope and land use, but a minimum of 10 meters on each side is a reasonable starting point. [[savory-riparian-area-management]] provides additional guidance on integrating livestock with riparian health.
+Planting along water course edges serves multiple functions simultaneously. Riparian species like willow (Salix spp.) stabilize banks with dense root mats while providing fodder, craft material, and habitat. [[savory-riparian-area-management]] provides additional guidance on integrating livestock with riparian health.
 
 ## Creative Uses of Water Courses
 
-Inventive designers may be able to include water courses as part of sustainable irrigation systems or [[micro-hydro-power]] for electricity generation. They can be used to support populations of fish, ducks, or other animal and food systems. Water courses can also be used as part of microclimate design, moderating temperature and humidity in nearby growing areas.
-
-### Integration with [[pdc-water-harvesting-earthworks-design]]
+Inventive designers may be able to include water courses as part of sustainable irrigation systems or [[pdc-water-harvesting-earthworks-design]]
 
 Water courses should never be designed in isolation from the broader site water management strategy. Swales, keyline systems, and diversion drains all feed into or draw from water courses. The most resilient designs create redundant pathways — if one element fails during an extreme rain event, others can safely convey the overflow without catastrophic erosion.
 

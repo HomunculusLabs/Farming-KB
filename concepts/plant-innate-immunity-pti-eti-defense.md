@@ -22,23 +22,11 @@ The zigzag model (Jones and Dangl, 2006) provides a framework for understanding 
 3. **Phase 3 — ETI**: Plants evolve resistance (R) proteins that detect specific effectors (directly or indirectly), activating strong defense.
 4. **Phase 4 — ETS2**: Pathogens evolve new effectors or modify existing ones to evade detection by R proteins.
 
-This evolutionary [[bloomfield-plant-hypersensitive-response-rust-arms-race]] drives diversification in both plant resistance genes and pathogen effector repertoires.
-
-## Pattern-Triggered Immunity (PTI)
-
-### Pathogen-Associated Molecular Patterns (PAMPs)
-
-PAMPs (also called MAMPs — microbe-associated molecular patterns) are conserved molecular signatures essential for microbial survival:
-
-- **Flagellin**: The protein subunit of bacterial flagella. The conserved N-terminal 22-amino-acid peptide (flg22) is the most widely studied PAMP.
-- **EF-Tu**: Bacterial elongation factor thermo-unstable. The elf18 peptide is recognized in many plant species.
-- **Chitin**: A structural polysaccharide in fungal [[alpha-1-3-glucan-fungal-pathogen-cell-walls]]. Chitin oligomers trigger defense in most plants.
+This evolutionary [[alpha-1-3-glucan-fungal-pathogen-cell-walls]]. Chitin oligomers trigger defense in most plants.
 - **Lipopolysaccharides (LPS)**: Components of Gram-negative bacterial outer membranes.
 - **Peptidoglycan**: Bacterial cell wall polymer.
 - **β-glucans**: Structural components of oomycete cell walls.
-- **[[cold-shock-fruiting-selectivity-psilocybe-species]] proteins**: Bacterial proteins detected by some plant species.
-- **Damage-associated molecular patterns (DAMPs)**: Plant-derived molecules released during tissue damage, including:
-  - Oligogalacturonides (OGs): Fragments of [[staycare-degradation-of-plant-cell-wall-polymers-by-fungi]] pectin.
+- **[[staycare-degradation-of-plant-cell-wall-polymers-by-fungi]] pectin.
   - Extracellular ATP: Released from damaged plant cells.
   - Systemin: An 18-amino-acid peptide hormone in tomato.
   - Cutin monomers: Released from the plant cuticle during fungal penetration.
@@ -65,26 +53,93 @@ Upon PAMP binding, PRRs form complexes with co-receptors (e.g., BAK1/SERK3 for F
 - Rapid receptor phosphorylation
 - Recruitment of downstream signaling components
 - Activation of a MAP kinase cascade
-- Calcium influx and [[reactive-oxygen-species-and-oxidative-stress]] (ROS) production
-
-### PTI Defense Responses
-
-- **ROS burst**: NADPH oxidase (RBOHD) produces superoxide within minutes, converted to [[cervantes-hydrogen-peroxide-sterilization]]. ROS serve as antimicrobial agents and signaling molecules.
-- **Callose deposition**: Callose (β-1,3-glucan) is deposited at the cell wall and in papillae at attempted penetration sites, physically blocking [[foliar-pathogen-entry-mechanisms-stomata-cuticle-wounds]].
-- **Cell wall fortification**: Lignin and suberin deposition strengthens cell walls.
-- **Antimicrobial compound production**: Phytoalexins, defensins, and thionins are synthesized de novo.
-- **Pathogenesis-related (PR) proteins**: Chitinases, glucanases, and other hydrolytic enzymes degrade pathogen structures.
-- **Stomatal closure**: Many bacterial pathogens enter through stomata; PTI triggers abscisic acid-mediated stomatal closure to limit entry.
-- **Transcriptional reprogramming**: Hundreds of defense-related genes are upregulated within hours.
-
-## Effector-Triggered Immunity (ETI)
-
-### Pathogen Effectors
-
-Effectors are proteins (and some small molecules) delivered into plant cells to suppress immunity and facilitate infection:
-
-- **Bacterial effectors**: Delivered through the Type III secretion system (T3SS) directly into the plant cytoplasm. Examples: AvrPto, AvrRpt2, AvrRpm1 (Pseudomonas syringae).
-- **Fungal effectors**: Secreted into the apoplast or delivered into host cells via haustoria. Examples: Avr3a ([[bloomfield-potato-blight-phytophthora-infestans]]), AvrPm3 ([[blumeria-graminis]]).
+- Calcium influx and [[cervantes-hydrogen-peroxide-sterilization]]. ROS serve as antimicrobial agents and signaling molecules.
+- **Callose deposition**: Callose (β-1,3-glucan) is deposited at the cell wall and in papillae at attempted penetration sites, physically blocking [[bloomfield-potato-blight-phytophthora-infestans]]), AvrPm3 ([[blumeria-graminis]]).
 - **Oomycete effectors**: Similar to fungal effectors; RXLR and CRN effectors are translocated into host cells.
 
 Effector functions include:
+
+## Overview
+
+Plant Innate Immunity Pti Eti Defense represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish plant innate immunity pti eti defense
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving plant extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Plant Innate Immunity Pti Eti Defense finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for plant innate immunity pti eti defense. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+plant innate immunity pti eti defense and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Plant Innate Immunity Pti Eti Defense has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of plant innate immunity pti eti defense into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[electromagnetic-spectrum-plant-light-perception]]
+- [[lowenfels-rhizosphere-bacteria-plant-interaction]]
+- [[phytochrome-and-plant-photoperiodism]]
+- [[plant-fungal-signaling-mycorrhiza]]
+- [[plant-life-rhythms-pulsatory-growth]]

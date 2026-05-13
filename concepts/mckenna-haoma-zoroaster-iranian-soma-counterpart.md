@@ -1,6 +1,6 @@
 ---
 title: Haoma and Zoroaster - The Iranian Counterpart to Soma
-source: Food of the Gods - [[terence-mckenna]]
+source: Food of the Gods - terence-mckenna
 source_id: mckenna-food-of-the-gods
 topics: [soma, haoma, zoroastrianism, indo-iranian, entheogen-history, vedic-religion, ancient-persia]
 ---
@@ -8,16 +8,6 @@ topics: [soma, haoma, zoroastrianism, indo-iranian, entheogen-history, vedic-rel
 # Haoma and Zoroaster - The Iranian Counterpart to Soma
 
 ## The Indo-Iranian Sacred Drink Tradition
-
-The [[mckenna-vedic-soma-indo-european-mysteries]] of India and the Iranian haoma are cognate traditions
-that share a common origin in the proto-Indo-Iranian religious
-practice of the second millennium BCE. When the Indo-Iranian peoples
-split into two branches, the Indo-Aryans who migrated into the
-Indian subcontinent carried the soma tradition with them, while the
-Iranian peoples who remained on the Iranian plateau preserved the
-parallel haoma cult. Both traditions center on the ritual preparation
-and consumption of a sacred plant extract believed to confer
-immortality, spiritual insight, and divine inspiration.
 
 The [[rig-veda-soma-hymns-amanita-muscaria]] contains more than one thousand hymns, and the largest
 single collection among them is dedicated to soma, reflecting the
@@ -51,23 +41,8 @@ suggest that he actively opposed the haoma cult as a holdover
 from an earlier, less morally rigorous form of religion. The
 Avesta itself contains contradictory evidence: the Yasna, the
 central liturgical text, includes haoma praise hymns that are
-integral to Zoroastrian [[powell-shamanic-wisdom-and-ritual-practice]], suggesting that haoma
-was incorporated into rather than rejected by the reformed religion.
-
-## Haoma and the Harmala Connection
-
-The botanical identity of haoma, like that of soma, has been the
-subject of intense scholarly debate. McKenna argues for Peganum
-harmala, commonly known as [[golden-guide-syrian-rue-and-maoi-plants]], as the most plausible
-candidate for both soma and haoma. [[mckenna-food-gods-peganum-harmala-soma]] contains the
-beta-carboline alkaloids harmine and harmaline, which are potent
-monoamine oxidase inhibitors. These compounds alone can produce
-visionary effects at sufficient doses, and their MAO-inhibiting
-properties make them essential components of the Amazonian
-ayahuasca brew when combined with dimethyltryptamine-containing
-plants.
-
-The case for [[mckenna-peganum-harmala-soma-substitute-psilocybin-synergy]] as haoma draws on several lines of
+integral to Zoroastrian [[golden-guide-syrian-rue-and-maoi-plants]], as the most plausible
+candidate for both soma and haoma. [[mckenna-peganum-harmala-soma-substitute-psilocybin-synergy]] as haoma draws on several lines of
 evidence. The plant is native to the Iranian plateau and Central
 Asia, matching the geographical expectations for the haoma plant.
 It has a long history of ritual and medicinal use in the region.

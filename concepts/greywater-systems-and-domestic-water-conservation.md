@@ -8,7 +8,7 @@ type: concept
 
 ## Overview
 
-Domestic [[water-conservation]] in [[permaculture-design]] addresses the significant misuse of potable water for tasks like toilet flushing, which accounts for approximately 40% of indoor domestic water use. Permaculture approaches treat wastewater as a resource rather than a disposal problem, routing greywater from kitchens, bathrooms, and laundries to productive garden and tree systems.
+Domestic [[permaculture-design]] addresses the significant misuse of potable water for tasks like toilet flushing, which accounts for approximately 40% of indoor domestic water use. Permaculture approaches treat wastewater as a resource rather than a disposal problem, routing greywater from kitchens, bathrooms, and laundries to productive garden and tree systems.
 
 ## Toilet Water Conservation
 
@@ -94,6 +94,5 @@ There is no blanket policy for greywater management — only site-specific strat
 
 ## See Also
 
-- [[water-conservation-domestic-systems]]
 - [[water-conservation-in-sewage-systems]]
 - [[gaias-garden-water-harvesting-swales-and-greywater]]

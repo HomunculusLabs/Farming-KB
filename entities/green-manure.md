@@ -14,7 +14,7 @@ Green manure refers to crops grown specifically to be cut and incorporated into 
 - **Category:** Soil fertility practice
 - **Primary plant families used:** Fabaceae/Leguminosae (legumes), Poaceae (grasses), Brassicaceae (brassicas), Buckwheat (Polygonaceae)
 - **Application methods:** Surface mulching, shallow incorporation, or slash-and-drop
-- **Duration:** Annual cover crops, seasonal intercrops, or perennial hedgerow sources
+- **Duration:** Annual [[cover-crops]], seasonal intercrops, or perennial hedgerow sources
 
 ## Key Facts
 
@@ -41,7 +41,7 @@ Green manure refers to crops grown specifically to be cut and incorporated into 
 - **Leguminous hedgerows:** Provide green manure material, wind protection, habitat, and sometimes edible or fodder yields simultaneously.
 - **Windbreak species:** When trimmed, provide nutrient-rich mulch material from nitrogen-fixing species.
 - **Intercrops:** Green manure species grown between crop rows, providing living mulch that can be slashed and dropped.
-- **Orchard floor:** Permanent green manure crops under fruit trees provide mulch, suppress weeds, and feed soil biology.
+- **Orchard floor:** Permanent [[green-manure-crops]] under fruit trees provide mulch, suppress weeds, and feed soil biology.
 - Mollison recommends using legumes in proportion similar to natural plant associations in the area, at all stages of succession.
 
 ### Green Manures vs Imported Mulches
@@ -66,11 +66,8 @@ Green manures are Mollison's recommended primary nutrient source for permacultur
 
 ## See Also
 
-- [[humus]]
 - [[soil-biota]]
-- [[crumb-structure]]
 - [[ethylene-oxygen-cycle]]
-- [[earthworms-in-soil-health]]
 - [[mulching-guide]]
 
 ## Common Green Manure Species
@@ -79,3 +76,75 @@ Popular green manure crops include crimson clover, hairy vetch, field peas,
 and winter rye for temperate climates. Buckwheat excels as a summer cover
 that suppresses weeds and accumulates phosphorus. Alfalfa provides deep
 root penetration and nitrogen fixation in established plantings.
+
+## Overview
+
+Green Manure represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish green manure
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving green extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Green Manure finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for green manure. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+green manure and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Green Manure has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of green manure into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions

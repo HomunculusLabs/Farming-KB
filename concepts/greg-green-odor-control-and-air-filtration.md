@@ -8,17 +8,8 @@ sources: [~/wiki/raw/papers/greg-green-the-cannabis-grow-bible.md]
 type: concept
 ---
 
-Odor control is a critical concern for [[query-how-to-set-up-an-indoor-cannabis-grow-on-a-budget]] growers, especially
-those living in apartments or shared housing. Greg Green's Cannabis Grow
-Bible addresses odor management as both a quality of life issue and a
-security consideration. During flowering, cannabis plants produce strong
-aromas that can travel beyond the grow space, potentially alerting
-neighbors or visitors. See also
-[[greg-green-mother-plants-and-clone-maintenance]]
-- [[greg-green-sinsemilla-and-pollination]]
+Odor control is a critical concern for [[greg-green-mother-plants-and-clone-maintenance]]
 - [[greg-green-hermaphrodites-and-sex-problems]]
-- [[greg-green-water-quality-and-hard-water]]
-
 - [[greg-green-npk-and-nutrient-deficiency]]
 ## Practical Applications
 
@@ -97,8 +88,6 @@ through generations to modern scientific approaches, the evolution continues
 to inform current best practices and research directions.
 
 ## See Also
-- [[greg-green]]
 - [[doc]]
-- [[det]]
 - [[ghb]]
 - [[greg-green-temperature-and-humidity-control]]

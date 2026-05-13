@@ -23,23 +23,16 @@ each with distinct advantages and limitations.
 
 ## Tray Culture
 
-[[falconer-growing-mushrooms-in-sheds]] in trays is the traditional method of cropping,
-first developed by the [[growing-gourmet-casing-soils-mushroom-cultivation]], which is usually composed of peat moss
+[[growing-gourmet-casing-soils-mushroom-cultivation]], which is usually composed of peat moss
 buffered with calcium carbonate.
 
 ## The Brooke-Webster Technique
 
-In [[psilocybin-north-america-pacific-northwest]], tray culture for [[query-how-to-grow-oyster-mushrooms-at-home]] was perfected
+In [[query-how-to-grow-oyster-mushrooms-at-home]] was perfected
 by Dave Brooke-Webster (1987). This method utilizes a perforated
 plastic covering over the surface of trays. Since many Button
 mushroom farms are centered around tray technology, the replacement
-of the [[gourmet-medicinal-mushroom-casing-layer-techniques]] with a sheet of perforated plastic allows
-adaptation for Oyster mushroom production.
-
-An advantage of the Brooke-Webster technique is that bouquets of
-equal weight are produced simultaneously on the same trays. The
-perforated plastic is stripped off, depending upon the species, at
-the time of or soon after  cultivation on [[oyster-mushroom-supplemented-sawdust-blocks]], bag culture is the
+of the [[oyster-mushroom-supplemented-sawdust-blocks]], bag culture is the
 predominant method. Blocks of 6-7 lbs are incubated in bags and
 then opened for fruiting when the mycelium is fully colonized. The
 bags provide protection during colonization and can be managed
@@ -65,8 +58,7 @@ require less maintenance than indoor methods.
 
 Mound culture involves creating outdoor beds of inoculated
 substrate mounded into dome shapes. This method is well-suited for
-robust species like [[growing-gourmet-indoor-growing-environment]]
-- [[growing-gourmet-tree-species-guide-mushroom-cultivation]]
+robust species like [[growing-gourmet-tree-species-guide-mushroom-cultivation]]
 ## Practical Considerations
 
 Successful implementation of Cropping Containers and Growing Systems requires attention to
@@ -115,8 +107,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[psilocybin]]
 - [[dom]]
-- [[oyster-mushroom]]
 - [[mycelium]]
 - [[growing-gourmet-hepa-filtration-laboratory-air-systems]]

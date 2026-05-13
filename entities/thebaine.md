@@ -12,9 +12,7 @@ date: 2026-05-09
 updated: 2026-05-09
 sources:
   - Jaffe JH, Martin WR (1985). "Opioid analgesics and antagonists." The Pharmacological Basis of Therapeutics. McGraw-Hill.
-  - Schmidt H, Thede RE (1969). "Thebaine conversion to oripavine." Journal of [[pericyclic-reactions-organic-chemistry]] 34(6): 1711-1714.
-  - Lotfipour F, Amini M (2008). "Thebaine: a promising pharmacological agent for drug dependence treatment." Pharmacology & Therapeutics 118(1): 1-9.
-  - United Nations Office on Drugs and Crime (2023). "The Opium Poppy: [[controlled-substances-act-and-psychedelic-research]] and Their Derivatives."
+  - Schmidt H, Thede RE (1969). "Thebaine conversion to oripavine." Journal of controlled-substances-act-and-psychedelic-research and Their Derivatives."
   - Dedov VN et al. (2001). "Orvinols as leads for novel analgesics." Natural Product Reports 18(5): 513-527.
 ---
 
@@ -22,11 +20,9 @@ sources:
 
 ## Overview
 
-Thebaine (paramorphine) is an opiate alkaloid found in the opium poppy, [[papaver-somniferum]].
+Thebaine (paramorphine) is an opiate alkaloid found in the opium poppy, [[codeine]].
 
-It constitutes approximately 0.2–1.5% of dry opium latex, making it the third most abundant opium alkaloid after morphine and [[codeine]].
-
-Unlike morphine and codeine, thebaine produces convulsant and strychnine-like effects rather than analgesia, and is not used directly as a therapeutic agent.
+Unlike [[morphine]] and codeine, thebaine produces convulsant and [[strychnine]]-like effects rather than analgesia, and is not used directly as a therapeutic agent.
 
 Thebaine serves primarily as a critical precursor in the semi-synthesis of several important pharmaceutical compounds, including oxycodone, oxymorphone, naloxone, and naltrexone.
 
@@ -87,3 +83,6 @@ Oxycodone and oxymorphone, two widely prescribed opioid analgesics, are manufact
 The opioid antagonists naloxone, naltrexone, and nalmefene are all synthesized from thebaine, making it essential to emergency medicine [[psilocybin-and-addiction-treatment]].
 
 Buprenorphine, a partial μ-opioid agonist used in medication-assisted treatment for opioid dependence, is also derived from thebaine via the oripavine intermediate.
+
+## See Also
+- [[mckenna-opium-history-demeter-poppy]]

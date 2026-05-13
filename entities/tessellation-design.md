@@ -7,14 +7,7 @@ tags: [technique, design-pattern, permaculture, spatial-arrangement, mosaic]
 
 ## Description
 
-Tessellation in [[permaculture-design]] is the arrangement of landscape units, functions, and species into repeating mosaic patterns — analogous to the tiles in a mosaic floor or the cells in a honeycomb. Borrowed from geometry (where tessellation means covering a plane with repeating shapes without gaps or overlaps), the concept is applied in permaculture to create efficient, repeating patterns that maximize edge, distribute resources evenly, and create beneficial interactions between adjacent units. Tessellation works in concert with annidation (nesting) to create highly productive spatial designs.
-
-## Classification
-
-- **Category:** Design pattern / spatial arrangement strategy
-- **Domain:** Permaculture design, landscape architecture, spatial planning
-- **Type:** Arrangement principle
-- **Related concepts:** Mosaic, keyline, pattern language, [[edge-effect]]
+Tessellation in [[edge-effect]]
 
 ## Key Facts
 
@@ -32,53 +25,93 @@ Tessellation in [[permaculture-design]] is the arrangement of landscape units, f
 
 Common tessellation patterns applicable to landscape design:
 
-- **Hexagonal:** Most efficient packing (honeycomb pattern); maximizes area-to-perimeter ratio; ideal for orchard and [[food-forest]] planting
-- **Triangular:** Creates maximum edge; useful for windbreak and hedge networks
-- **Square/Rectangular:** Easy to lay out and manage; standard for garden beds and paddock systems
-- **Irregular/Organic:** Follows landform contours and natural features; keyline and contour patterns
-
-## Examples in Permaculture Design
-
-### Landscape Scale
-- Rotational grazing paddocks arranged in a tessellated pattern around central water points
-- Food forest units repeated across a landscape in a mosaic pattern with glades and clearings
-- Swale-and-berm systems tessellated across hillslopes for water harvesting
-
-### Garden Scale
-- Keyhole beds arranged in tessellated circles for maximum edge and access
-- Polyculture blocks of complementary species arranged as repeating mosaic units
-- Herb spirals or mandala gardens as tessellated repeating design elements
-
-### Functional Scale
-- Compost, water, and tool stations tessellated across a site for uniform access
-- Wildlife corridors and habitat patches tessellated with production zones
-
-## Relevance to Cultivation
-
-- Increases total system yield by maximizing the productive edge between elements
-- Distributes resources and access points efficiently, reducing labor and energy costs
-- Creates resilient systems where the failure of one unit is buffered by identical neighboring units
-- Enables systematic management through repeating protocols applied to identical units
-- Supports biodiversity by creating a mosaic of micro-habitats while maintaining production function
-- Works with annidation: nested elements within tessellated units create multi-layered productivity
-
-## Design Application
-
-When applying tessellation:
-
-1. **Identify the repeating unit:** What is the fundamental "tile" in the design? (a paddock, a guild, a swale-berm pair)
-2. **Choose the pattern:** Hexagonal for efficiency, triangular for edge, rectangular for simplicity
-3. **Determine the scale:** Size of each tile relative to the whole site and to management capacity
-4. **Integrate with landform:** Contour-based tessellation follows natural water and energy flows
-5. **Stack functions:** Each tile should contain annidated elements serving multiple purposes
-
-## Relationship to Other Patterns
-
-- **Annidation:** Tessellation arranges the outer pattern; annidation nests elements within each tile
-- **Edge effect:** Tessellation inherently increases edge, which is where productivity concentrates
-- **Zone planning:** Zones can be tessellated around multiple activity centers rather than a single hub
-- **[[keyline-design]]:** Keyline geometry is a form of contour-based tessellation
+- **Hexagonal:** Most efficient packing (honeycomb pattern); maximizes area-to-perimeter ratio; ideal for orchard and [[keyline-design]]:** Keyline geometry is a form of contour-based tessellation
 
 ## References
 
 - Mollison, B. (1988). *Permaculture: A Designers' Manual*. [[tagari-publications]]. Chapter 2 (Strategies That Create Yields).
+
+## Overview
+
+Tessellation Design represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish tessellation design
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving tessellation extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Tessellation Design finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for tessellation design. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+tessellation design and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Tessellation Design has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of tessellation design into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[mollison-tessellation-and-annidation-in-design]]
+- [[permaculture-building-design]]
+- [[tessellation-and-annidation-patterns]]
+- [[tessellation-annidation-patterns]]
+- [[world-as-tessellation-of-events]]

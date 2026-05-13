@@ -9,9 +9,7 @@ sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 # Fukuoka Pine Environmemycorrhizal-fungipan
-Beyond his [[natural-farming-fukuoka]] drew far-reaching conclusions about what the pine
-die-off signified for Japan's entire natural environment. His warnings connect
-[[arbuscular-mycorrhizal-fungi-biology-symbiosis]], forest health, and the survival of Japanese civilization
+Beyond his [[arbuscular-mycorrhizal-fungi-biology-symbiosis]], forest health, and the survival of Japanese civilization
 itself.
 ## The First Cataclysmic Change
 Fukuoka places the pine rot epidemic in a global context:
@@ -21,35 +19,10 @@ Fukuoka places the pine rot epidemic in a global context:
   microorganisms are concentrated and organically interconnected"
 - The red pine was able to become "the strongest plant only because it was
   strongly protected by the matsutake fungus"
-- The perishing of the [[pine-disease-and-matsutake-mushroom-decline]] symbiotic with the red pine has led
-  to "physiological irregularities in the pines, making them susceptible to
-  pests"
-## The Cascade of Destruction
-Fukuoka predicts a terrifying cascade of ecological collapse:
-- Pines protected by mycorrhizal fungi are "incredibly strong plants capable of
-  growing even in deserts and on sandy beaches"
-- But without these [[mycelium-running-symbiotic-fungi-relationships]] they are "weak and delicate"
+- The perishing of the [[mycelium-running-symbiotic-fungi-relationships]] they are "weak and delicate"
 - When exogenous mycorrhizal plants such as the pines perish, destruction will
   spread next to endogenous mycorrhizal plants
-- The progression: Japanese cypress, Japanese cedar, zelkova, [[comparison-pruning-fruit-trees-vs-grafting-fruit-trees]] —
-  "and perhaps even to rice"
-- In Tokyo Prefecture, "not a single red pine or Japanese cedar remains
-  standing any longer"
-- "The next to go will probably be the Japanese black pine, followed by the
-  zelkova"
-- In Kyoto, "the situation has deteriorated to such an extent that I believe
-  this year may be the last chance we have for controlling the disease"
-## The Survival Question
-Fukuoka frames the pine crisis as an existential question for Japan:
-- "The question of whether we can protect the pine or not really boils down to
-  whether we are able to protect Japan's natural environment"
-- "The Japanese as a people cannot survive the loss of Japan's natural
-  environment"
-- He explicitly calls pine rot "an early sign of desertification brought about
-  by a destruction in the balance between plants, animals, and microorganisms
-  in Japan"
-## Causes of the Epidemic
-Fukuoka identifies multiple [[emcdda-hallucinogenic-mushroom-contributing-factors-megatrends]] to the pine die-off:
+- The progression: Japanese cypress, Japanese cedar, zelkova, [[emcdda-hallucinogenic-mushroom-contributing-factors-megatrends]] to the pine die-off:
 - Air pollution and pesticides have "helped to provoke pine rot"
 - Imported lumber brought in non-native pathogens: "Several of these organisms
   seem to be connected in some important way with pine rot"
@@ -72,7 +45,7 @@ Fukuoka offered concrete suggestions for addressing the crisis:
   treatment of the most seriously affected areas.
 ## The Matsutake as Forest Spirit
 Fukuoka's relationship with the
-[[mycorrhizal-networks]] — sometimes called "[[wood-wide-web]]" — connect individual trees and plants through shared fungal
+[[wood-wide-web]]" — connect individual trees and plants through shared fungal
 hyphae, allowing the transfer of carbon, nitrogen, phosphorus, water, and even
 chemical alarm signals between plants. Research by Suzanne Simard and colleagues
 has demonstrated that these networks are critical to forest health, with mother
@@ -82,7 +55,6 @@ pollution, or the removal of key fungal species, the entire forest community
 becomes vulnerable — exactly the cascade Fukuoka predicted. The matsutake
 (Tricholoma matsutake), which Fukuoka studied extensively, is an ectomycorrhizal
 fungus that forms particularly deep and complex associations with
-[[fukuoka-pine-rot-root-cause]],
 [[fukuoka-matsutake-artificial-cultivation-attempt]],
 
 ## Practical Applications
@@ -114,8 +86,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[tricholoma-matsutake]]
 - [[det]]
-- [[spore]]
 - [[mycelium]]
 - [[mycorrhizal-fungi]]

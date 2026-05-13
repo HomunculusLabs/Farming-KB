@@ -68,24 +68,14 @@ Research in this area draws on multidisciplinary approaches combining field obse
 
 Emerging applications span ecological management, therapeutic protocols, and materials science. Continued research promises to reveal new properties and optimize existing methodologies for practical benefit.
 
-
 ## See Also
 
-- [[thc-acetate-synthesis-and-hashish-preparation]]
 - [[thc-bomb]]
-- [[thc-isomerization-and-acetate-synthesis]]
 - [[thc-o-acetate]]
 
 ## See Also
-- [[lemon-cannabis-alchemy-high-volume-extraction-method]]
 - [[lemon-cannabis-alchemy-thc-extraction-purification]]
-- [[lemon-cannabis-alchemy-isomerization]]
 - [[lemon-cannabis-alchemy-advanced-refinement-techniques]]
-- [[lemon-cannabis-alchemy-historical-perspective-and-references]]
-
-## Related Entities
-
 - [[tetrahydrocannabinol]] — parent compound
-- [[cannabidiol-cbd]] — precursor that can be isomerized to THC before acetylation
 - [[acetic-anhydride]] — key reagent
 - [[isomerization-cannabis]] — preceding step (CBD → THC, low-rotating → high-rotating)

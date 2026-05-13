@@ -13,7 +13,7 @@ type: concept
 # Leave Nature Alone
 
 The principle of "leaving nature alone" is the foundational tenet of Masanobu
-Fukuoka's [[fukuoka-errors-human-intellect]] and [[fukuoka-rodenticide-ecosystem-disruption-chain]].
+Fukuoka's [[fukuoka-rodenticide-ecosystem-disruption-chain]].
 
 ## The Forest Ecosystem Chain
 
@@ -36,35 +36,11 @@ abundant bamboo grass berries and multiply. The mice attack the cedar
 saplings, so man applies a rodenticide. But as the mice vanish, a decline
 occurs in the weasels and snakes that feed on them. This chain of
 consequences illustrates the interconnected nature of
-[[fukuoka-philosophy-of-non-intervention]] and connects directly to the
 [[fukuoka-textdoc-no-cause-and-effect-in-nature]]. When we stop trying to identify causes and apply targeted
-interventions, we free ourselves from the endless chain of [[fukuoka-textdoc-no-cause-and-effect-in-nature]]
-that leads only to deeper entanglement with nature's destruction.
+interventions, we free ourselves from the endless chain of [[fukuoka-textdoc-traditional-farmer-philosophy-mu-nothingness]]
 
-## See Also
-
-- [[fukuoka-textdoc-traditional-farmer-philosophy-mu-nothingness]]
-
-- [[fukuoka-natural-farming-philosophy]]
 - [[fukuoka-ecological-balance-principles]]
-- [[fukuoka-nature-is-unknowable]]
-## Practical Considerations
-
-When working with Leave Nature Alone - The Foundation of Non-Intervention, several practical factors should be
-carefully considered to achieve optimal results. These include
-the specific conditions of the implementation context, available
-resources, timing requirements, and the interactions between this
-topic and other elements of the broader system. A holistic view
-that considers these interconnections produces better outcomes.
-
-Environmental conditions such as temperature, moisture, and
-seasonal patterns significantly influence results. Monitoring these
-variables and adapting practices accordingly is essential for success.
-The most effective practitioners develop keen observation skills and
-respond flexibly to changing conditions rather than following rigid
-protocols regardless of circumstances or local variation.
-
-[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
+- [[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -111,8 +87,6 @@ through generations to modern scientific approaches, the evolution continues
 to inform current best practices and research directions.
 
 ## See Also
-- [[doc]]
 - [[fukuoka-textdoc-diet-of-the-sick-returning-nature]]
-- [[fukuoka-textdoc-color-philosophy-food-seven-prismatic-seasonal-natural-diet]]
 - [[fukuoka-textdoc-epilogue-barley-philosophy]]
 - [[fukuoka-textdoc-okuninushi-sack-parable-nature-unknowable]]

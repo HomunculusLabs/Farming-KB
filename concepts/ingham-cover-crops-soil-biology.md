@@ -16,15 +16,7 @@ Green cover crops through winter supply a source of food for soil microbes, as d
 - **Bacterial-dominated plants** (annual grasses, brassicas, legumes) support bacterial growth in soil
 - **Fungal-dominated plants** (perennials, broadleaf plants, mature grasses) support fungal growth
 
-The particular set of microbes that a specific plant needs will be benefited by growing that plant as a cover crop. The residues must remain on the soil surface as foods to sustain the microbes through winter and into the next [[savory-growing-season-and-non-growing-season-management]].
-
-## The Tillage-Cover Crop Interaction
-
-When cover crop residues are plowed or tilled into soil:
-- Bacteria bloom rapidly (disturbance stimulates bacterial growth)
-- Organic residues are burned off much more rapidly
-- Soils become bacterial-dominated
-- [[hamilton-composting-and-organic-matter-management]] is lost
+The particular set of microbes that a specific plant needs will be benefited by growing that plant as a cover crop. The residues must remain on the soil surface as foods to sustain the microbes through winter and into the next [[hamilton-composting-and-organic-matter-management]] is lost
 - Soil fertility declines over time
 
 This has been documented repeatedly in agriculture. The alternative is to maintain residues on the surface (mulch) or minimally incorporate them, preserving fungal networks and organic matter.
@@ -42,9 +34,7 @@ Cover crops contribute all three: they host specific organism communities on the
 
 Cover crops can be selected as non-host plants for specific pest nematodes:
 - The cover crop must be a non-host for the target nematode species
-- Root systems should be colonized with [[arbuscular-mycorrhizal-fungi-biology-symbiosis]]
-- The general diversity of fungi in [[ingham-anaerobic-vs-aerobic-compost-tea]] includes nematode-trapping and [[escovopsis-parasitic-fungi-attine-ant-gardens]]
-- [[ingham-beneficial-nematodes-soil-food-web]] (bacterial-feeders, fungal-feeders, predators) interfere with root-feeding species
+- Root systems should be colonized with [[ingham-anaerobic-vs-aerobic-compost-tea]] includes nematode-trapping and [[ingham-beneficial-nematodes-soil-food-web]] (bacterial-feeders, fungal-feeders, predators) interfere with root-feeding species
 
 With all these mechanisms working together, Ingham reports reducing root-feeding nematodes from nearly 100 per gram to below detectable levels within 6 months.
 
@@ -117,8 +107,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[cover-crops]]
 - [[cover-crop]]
-- [[elaine-ingham]]
 - [[doc]]
 - [[dom]]

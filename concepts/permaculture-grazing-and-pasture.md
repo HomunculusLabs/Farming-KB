@@ -1,5 +1,5 @@
 ---
-title: Permaculture Grazing And Pasture
+title: Permaculture Grazing and Pasture
 created: 2026-04-13
 updated: 2026-04-13
 type: concept
@@ -16,25 +16,25 @@ Mollison approaches grazing and pasture as components of integrated farm systems
 The permaculture approach to pasture differs fundamentally from conventional monoculture grazing:
 
 - **Diverse species mixtures** rather than introduced pasture monocultures
-- **[[comparison-rotational-grazing-vs-continuous-grazing]]** to prevent overgrazing and allow recovery
+- **Rotational grazing** to prevent overgrazing and allow recovery
 - **Integration with tree crops** for shade, fodder, and shelter
 - **Stocking rates set below worst-case conditions** to ensure survival through drought
 - **Forage conservation** (hay, silage) as insurance against seasonal shortage
 
 ## Grasslands and Range Management
 
-Mollison identifies several key [[weed-management-strategies]] for grasslands and rangelands:
+Mollison identifies several key management strategies for grasslands and rangelands:
 
 ### Addition of Forage Species
 Grasslands can be improved by adding:
-- Grass-legume mixtures ([[query-which-legumes-fix-the-most-nitrogen-for-gardens-and-farms]] nitrogen)
+- Grass-legume mixtures (legumes fix nitrogen)
 - Forage trees (Leucaena, tagasaste, carob) providing foliage and pods
 - Deep-rooted herbs (chicory, comfrey, dandelion, dock) accessing subsoil nutrients
 
 ### Environmental Modifications
 - Water storage and soil structure improvement
 - Irrigation and windbreak establishment
-- Key fertiliser or [[teaming-with-nutrients-micronutrients-and-trace-elements]] added as needed
+- Key fertiliser or trace elements added as needed
 - Plant species maintained by slashing or light cultivation
 
 ### Forage Conservation
@@ -87,4 +87,4 @@ See [[permaculture-tree-crop-systems]] for full treatment of silvopastoral syste
 - [[permaculture-livestock-forage-systems]] -- diverse forage sources including tree fodder
 - [[permaculture-domestic-animals]] -- the animals themselves and their management
 - [[permaculture-tree-crop-systems]] -- integrating trees with grazing systems
-- [[animal-manure-guide]] -- [[aact-nitrogen-forms-microbial-nutrient-cycling-ingham]] from animals to soil
+- [[animal-manure-guide]] -- nutrient cycling from animals to soil

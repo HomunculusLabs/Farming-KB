@@ -19,7 +19,7 @@ sources:
 
 Borneol is a bicyclic monoterpenoid alcohol with the molecular formula C₁₀H₁₈O. It exists as two enantiomers: (+)-borneol (also called d-borneol or endo-borneol) and (-)-borneol (l-borneol), which differ in their sensory and pharmacological profiles.
 
-The compound has a sharp, camphoraceous, and slightly minty aroma reminiscent of [[camphor]] and [[menthol]]. It has been used for millennia in traditional Chinese, Ayurvedic, and Southeast Asian medicine systems.
+The compound has a sharp, camphoraceous, and slightly minty aroma reminiscent of [[menthol]]. It has been used for millennia in traditional Chinese, Ayurvedic, and Southeast Asian medicine systems.
 
 Borneol occurs widely in nature, particularly in Dipterocarpus (camphor) trees, rosemary, and several aromatic herbs. It is a key ingredient in many incense blends and traditional medicine formulations.
 
@@ -49,11 +49,11 @@ Synthetic borneol is produced industrially from camphor reduction or from alpha-
 
 Borneol occurs in over 60 plant species across multiple families. The most commercially significant source is Dryobalanops aromatica (Borneo camphor), which produces large crystalline deposits of (+)-borneol in its wood.
 
-Other major botanical sources include Blumea balsamifera (sambong), Rosmarinus officinalis (rosemary), and Coriandrum sativum (coriander). Many Dipterocarpus species produce borneol-rich oleoresins used in traditional medicine.
+Other major botanical sources include Blumea balsamifera (sambong), Rosmarinus officinalis (rosemary), and [[coriandrum-sativum]] (coriander). Many Dipterocarpus species produce borneol-rich oleoresins used in traditional medicine.
 
-In cannabis, borneol is a minor terpene found predominantly in some landrace varieties from Southeast Asia. It typically co-occurs with [[pinene]], [[camphene]], and [[myrcene]] in these chemotypes.
+In cannabis, borneol is a minor terpene found predominantly in some landrace varieties from Southeast Asia. It typically co-occurs with [[camphene]], and [[myrcene]] in these chemotypes.
 
-The compound is also present in significant amounts in valerian root (Valeriana officinalis), sage (Salvia officinalis), and mugwort (Artemisia vulgaris). Essential oil concentrations range from 1–15% depending on species and processing.
+The compound is also present in significant amounts in valerian root ([[valeriana-officinalis]]), sage (Salvia officinalis), and mugwort (Artemisia vulgaris). Essential oil concentrations range from 1–15% depending on species and processing.
 
 Blumea balsamifera leaves contain up to 40% borneol in their essential oil, making it the most concentrated natural source. This species is cultivated commercially in the Philippines for borneol extraction.
 

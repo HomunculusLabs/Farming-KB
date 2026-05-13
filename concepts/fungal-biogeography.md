@@ -16,32 +16,12 @@ and animal biogeography, fungal biogeography has undergone a revolution
 since the 2010s thanks to molecular methods that can detect fungi directly
 from environmental samples without relying on fruiting body observations.
 
-These tools have revealed that fungal [[guzman-global-distribution-patterns-neurotropic-fungi]] are far more
-complex and geographically structured than previously assumed.
-
-## The Basidiomycota-Yunnan Hypothesis
-
-An influential body of research suggests that the global center of
-diversity for many fungal groups, particularly mushroom-forming
-Basidiomycota, lies in Southeast Asia and the broader Yunnan-Guizhou
-Plateau region of China.
-
-This region harbors extraordinary numbers of ectomycorrhizal and
-saprotrophic basidiomycete species, many of which are endemic. The
-hypothesis draws parallels with recognized centers of plant diversity and
-reflects the region's complex geological history, topographic
-heterogeneity, and climatic stability.
-
-## Latitudinal Diversity Gradients
-
-Like most groups of organisms, [[arbuscular-mycorrhizal-fungal-diversity-patterns-distribution]] generally increases toward
+These tools have revealed that fungal [[arbuscular-mycorrhizal-fungal-diversity-patterns-distribution]] generally increases toward
 the tropics. However, the pattern is more nuanced for fungi than for
 plants or animals. While overall fungal OTU richness peaks in tropical and
 subtropical regions, certain functional groups show contrasting patterns:
 
-- [[query-what-are-ectomycorrhizal-fungi-and-which-plants-do-they-associate-with]] reach peak diversity in temperate and boreal
-  forests where they associate with Pinaceae and Fagaceae.
-- Some well-known mold species such as [[aspergillus-niger]] and
+- [[aspergillus-niger]] and
   Penicillium chrysogenum do appear genuinely cosmopolitan, likely due
   to their association with human environments.
 
@@ -55,16 +35,7 @@ shapes their biogeographic patterns:
   gives many fungal species high dispersal potential.
 - Animal-mediated dispersal: fungi associated with insects, mammals,
   and birds can hitch rides across large distances. Truffle-like fungi
-  depend entirely on animal vectors for [[aquatic-fungi-spore-dispersal-ingold]].
-- Water dispersal: aquatic and riparian fungi use water movement to
-  spread spores along waterways and coastlines.
-- Human-mediated dispersal: global trade has moved many fungal species
-  far beyond their natural ranges, sometimes with devastating
-  ecological consequences.
-
-## Island Biogeography
-
-[[biodiversity-of-fungi-soil-fungal-communities-agriculture]] on islands follow patterns predicted by island
+  depend entirely on animal vectors for [[biodiversity-of-fungi-soil-fungal-communities-agriculture]] on islands follow patterns predicted by island
 biogeography theory. Island size and isolation both influence fungal
 diversity, with larger and less isolated islands harboring more species.
 
@@ -118,8 +89,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[dom]]
 - [[det]]
-- [[spore]]
 - [[mycorrhizal-fungi]]
 - [[ectomycorrhiza]]

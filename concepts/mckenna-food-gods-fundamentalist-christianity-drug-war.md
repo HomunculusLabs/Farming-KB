@@ -29,9 +29,7 @@ physical foundations and can be profoundly altered by chemical intervention.
 ### The Ego and Its Defenses
 
 The terror the ego feels in contemplating the dissolution of boundaries between
-self and world lies behind the suppression of [[weil-the-natural-mind-altered-states-normalcy]] of consciousness,
-the feminine, the foreign and exotic, and transcendental experiences. In
-prehistoric times, suppression of [[mckenna-dominator-vs-partnership-society-model]] by patriarchal invaders
+self and world lies behind the suppression of [[mckenna-dominator-vs-partnership-society-model]] by patriarchal invaders
 set the stage for suppression of the open-ended investigation of nature carried
 on by shamans. The Archaic tradition was replaced by dogma, priestcraft,
 patriarchy, and dominator values.
@@ -44,14 +42,9 @@ freedoms: religious practice and the privacy of the individual mind.
 
 ### The Original Religious Sensibility
 
-Religious use of [[partnership-vs-dominator-culture-mckenna]] Dominator Society Model
-- McKenna   A [[mckenna-modest-proposal-drug-policy-reform]] Drug Policy Reform
+Religious use of [[mckenna-modest-proposal-drug-policy-reform]] Drug Policy Reform
 - McKenna   Drug War and Human Freedom
-- McKenna   The Dissolution of the [[mckenna-dominator-culture-and-suppression-of-ecstasy]]
-
-## See Also
-
-- [[mckenna-food-gods-genesis-first-drug-bust]]
+- McKenna   The Dissolution of the [[mckenna-food-gods-genesis-first-drug-bust]]
 ## Practical Considerations
 
 When working with Mckenna Food mckenna food gods fundamentalist christianity drug war Christianity Drug War, several practical factors should be

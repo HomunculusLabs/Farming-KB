@@ -6,7 +6,6 @@ assumptions about what it means to be a sentient organism. Plants lack brains,
 neurons, and nervous systems, yet they demonstrate both the ability to
 remember past experiences and to maintain an internal representation of their
 body's orientation in space. These capabilities, documented extensively in
-[[daniel-chamovitz]]'s *What a Plant Knows*, operate through biochemical and
 [[brassinosteroid-physiological-mechanisms-cell-elongation-division]] that are fundamentally different from animal
 cognition but achieve functionally similar outcomes in terms of adaptive
 behavior.
@@ -24,8 +23,7 @@ seasonal flowering responses.
 
 A more dramatic example of plant memory is vernalization — the requirement for
 prolonged exposure to cold temperatures before certain plants will flower.
-Many temperate species, including winter wheat (*[[triticum-aestivum]]*), sugar
-beet (*Beta vulgaris*), and [[query-how-do-i-save-seeds-from-biennial-vegetables]] like cabbage and carrots, will
+Many temperate species, including winter wheat (*[[query-how-do-i-save-seeds-from-biennial-vegetables]] like cabbage and carrots, will
 not flower unless they experience several weeks of cold (typically 0-10°C)
 during winter months. The plant "counts" the duration of cold exposure through
 a remarkable epigenetic mechanism: the progressive removal of repressive
@@ -39,9 +37,7 @@ PHD-THD protein complex and VIN3 (VERNALIZATION INSENSITIVE 3). After
 sufficient cold exposure, FLC is stably silenced, and the plant becomes
 competent to flower when days lengthen in spring.
 
-This [[plant-epigenetic-memory-gene-based-remembering]] persists through cell divisions for the entire
-remaining lifespan of the plant, representing one of the longest-lasting forms
-of [[biological-memory-non-neural]] outside of the adaptive immune system. Crucially,
+This [[biological-memory-non-neural]] outside of the adaptive immune system. Crucially,
 vernalization memory is reset in the next generation — seeds produced by a
 vernalized plant are again responsive to cold, ensuring that each generation
 independently measures the passage of winter before committing to flowering.

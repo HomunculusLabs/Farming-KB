@@ -24,7 +24,7 @@ sources:
 
 Camelina sativa (camelina, gold-of-pleasure, false flax) is an annual oilseed crop in the family Brassicaceae, native to Europe and Central Asia. It was widely cultivated in Europe from the Bronze Age through the Middle Ages before being largely displaced by rapeseed in the 20th century.
 
-Camelina has experienced a renaissance since the 2000s as a low-input, drought-tolerant alternative to canola and soybean. Its short [[savory-growing-season-and-non-growing-season-management]] (85–100 days), low fertilizer requirements, and resistance to common Brassicaceae pests make it attractive for [[phosphate-accumulators-sustainable-agriculture]] systems.
+Camelina has experienced a renaissance since the 2000s as a low-input, drought-tolerant alternative to canola and soybean. Its short [[phosphate-accumulators-sustainable-agriculture]] systems.
 
 The seed oil contains 35–45% α-linolenic acid (ALA, ω-3), among the highest of any oilseed crop. This nutritional profile, combined with suitability for marginal lands, positions camelina as a promising feedstock for omega-3 enriched foods, biodiesel, and biojet fuel.
 
@@ -66,21 +66,9 @@ Camelina seed oil has a distinctive fatty acid profile that differentiates it fr
 | Palmitic acid (C16:0) | 5–7% |
 | Stearic acid (C18:0) | 2–3% |
 
-The ω-6:ω-3 ratio of approximately 0.5:1 is exceptionally favorable for human nutrition, as modern diets typically provide ratios of 10:1 to 20:1. Camelina oil thus offers a valuable plant-based source of omega-3 [[carbon-isotope-labelling-mycorrhizal-fatty-acids]].
+The ω-6:ω-3 ratio of approximately 0.5:1 is exceptionally favorable for human nutrition, as modern diets typically provide ratios of 10:1 to 20:1. Camelina oil thus offers a valuable plant-based source of omega-3 [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]]:** Camelina seeds contain significant levels of tocopherols (400–800 mg/kg, predominantly γ-tocopherol), providing natural antioxidant protection for the highly unsaturated oil. [[coleman-overwintered-onions-and-early-spring-crops]] planting and extends the viable growing range to USDA hardiness zones 3–8.
 
-**[[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]]:** Camelina seeds contain significant levels of tocopherols (400–800 mg/kg, predominantly γ-tocopherol), providing natural antioxidant protection for the highly unsaturated oil. [[aact-tannins-terpenes-phenolic-compounds-wood-composting-ingham]] including sinapine and flavonoids contribute additional antioxidant capacity.
-
-**Glucosinolates:** Total seed glucosinolate content is 20–35 μmol/g, comparable to modern canola varieties. The predominant glucosinolates are glucoarabin (C. sativa-specific) and sinigrin. Unlike rapeseed, camelina contains minimal erucic acid (<3%), eliminating concerns about cardiac lipid accumulation.
-
-The seed coat contains mucilage polysaccharides (5–8% of seed weight) that contribute to water retention and germination under drought conditions. These mucilaginous properties also have potential applications as food thickeners and cosmetic ingredients.
-
-## Cultivation and Agronomy
-
-C. sativa is exceptionally cold-tolerant for an oilseed crop, with seedlings surviving temperatures to -10°C. This allows [[coleman-overwintered-onions-and-early-spring-crops]] planting and extends the viable growing range to USDA hardiness zones 3–8.
-
-**Seeding:** Optimal planting dates are early spring (March–April in the Northern Hemisphere) or as a winter annual in mild climates. Seeding rate is 3–6 kg/ha at 15–20 cm [[wide-row-spacing-intensive-gardening-comparison]], or broadcast at 6–9 kg/ha. Seed should be placed 0.5–1.5 cm deep in firm seedbeds.
-
-**[[cannabis-soil-and-nutrient-requirements]]:** Camelina requires significantly less nitrogen than rapeseed or canola. Optimal rates are 40–60 kg N/ha, roughly half the recommendation for canola. Phosphorus and potassium requirements are similarly modest at 20–30 kg/ha each.
+**Seeding:** Optimal planting dates are early spring (March–April in the Northern Hemisphere) or as a winter annual in mild climates. Seeding rate is 3–6 kg/ha at 15–20 cm [[cannabis-soil-and-nutrient-requirements]]:** Camelina requires significantly less nitrogen than rapeseed or canola. Optimal rates are 40–60 kg N/ha, roughly half the recommendation for canola. Phosphorus and potassium requirements are similarly modest at 20–30 kg/ha each.
 
 **Water requirements:** Camelina is drought-tolerant, producing acceptable yields with 250–350 mm of [[extending-growing-season]] precipitation. It avoids the critical flowering-stage drought sensitivity that limits rapeseed in semi-arid regions.
 
@@ -88,3 +76,75 @@ C. sativa is exceptionally cold-tolerant for an oilseed crop, with seedlings sur
 
 - Growing season: 85–100 days (spring), 250–280 days (winter)
 - Seed yield: 800–2,000 kg/ha (rainfed), up to 3,000 kg/ha (irrigated)
+
+## Overview
+
+Camelina Sativa represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish camelina sativa
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving camelina extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Camelina Sativa finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for camelina sativa. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+camelina sativa and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Camelina Sativa has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of camelina sativa into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions

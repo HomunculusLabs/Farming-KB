@@ -20,52 +20,16 @@ type: concept
 
 Psychological and physical dependency does not occur with mushrooms, and
 there are no withdrawal symptoms. The overall risk profile of
-[[emcdda-hallucinogenic-mushrooms-emerging-trend-europe]] is considered relatively low, but serious
-adverse events can and do occur, particularly related to mental health.
-
-## Somatic Health Risks
-
-### Acute Toxicity
-
-Acute toxicity of [[amanita-muscaria]]* ([[amanita-muscaria-fly-agaric-history-and-pharmacology]]) as a legal alternative. The
-active chemicals in these (muscimol, [[amanita-muscaria-muscimol-ibotenic-acid-pharmacology]], muscarin) carry
+[[amanita-muscaria]]* ([[amanita-muscaria-muscimol-ibotenic-acid-pharmacology]], muscarin) carry
 substantial toxicity risks. Some closely related *Amanita* species are
 highly toxic and could cause fatal poisoning. This represents a
 potentially dangerous unintended consequence of prohibition.
 
 ## Risk Factors
 
-Key risk factors for [[blesching-cannabis-safety-adverse-effects-evidence]] include:
-- High dose or unpredictable potency
-- Use in unfamiliar or stressful settings
-- Pre-existing mental health conditions (depression, psychosis)
-- Combination with alcohol or other drugs (especially stimulants)
-- Lack of experience with hallucinogens
-- Cardiovascular conditions (due to blood pressure elevation)
-
-## Related Topics
-
-- [[emcdda-psilocybin-non-addictive-profile-tolerance-dynamics]] for the chemical
+Key risk factors for [[emcdda-psilocybin-non-addictive-profile-tolerance-dynamics]] for the chemical
   basis of toxicity
-- [[emcdda-hallucinogenic-mushroom-harm-reduction]] for prevention
-  and risk reduction approaches
-## Practical Considerations
-
-When working with Hallucinogenic Mushroom Health Risks, several practical factors should be
-carefully considered to achieve optimal results. These include
-the specific conditions of the implementation context, available
-resources, timing requirements, and the interactions between this
-topic and other elements of the broader system. A holistic view
-that considers these interconnections produces better outcomes.
-
-Environmental conditions such as temperature, moisture, and
-seasonal patterns significantly influence results. Monitoring these
-variables and adapting practices accordingly is essential for success.
-The most effective practitioners develop keen observation skills and
-respond flexibly to changing conditions rather than following rigid
-protocols regardless of circumstances or local variation.
-
-[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
+- [[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -111,8 +75,6 @@ through generations to modern scientific approaches, the evolution continues
 to inform current best practices and research directions.
 
 ## See Also
-- [[emcdda-hallucinogenic-mushroom-consequences-and-health-risks]]
 - [[doc]]
-- [[psilocybin]]
 - [[soma]]
 - [[amanita]]

@@ -21,14 +21,7 @@ type: concept
 The search for the original hallucinogenic plant that catalyzed the
 emergence of human self-reflection requires a careful process of
 elimination. Terence McKenna argued that Stropharia cubensis, also
-known as [[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]], is the most likely candidate for what he
-called the Ur plant, the umbilicus connecting early humans to what he
-described as the feminine mind of the planet.
-
-## Criteria for the Original Hallucinogen
-
-Several strict requirements must be met by any plant considered as a
-candidate for [[mckenna-catalyzing-consciousness-and-language]] in evolving hominids:
+known as [[mckenna-catalyzing-consciousness-and-language]] in evolving hominids:
 
 - **African origin**: The evidence is overwhelming that modern humans
   emerged in Africa, so the plant must be native to that continent.
@@ -50,10 +43,7 @@ New World, a pattern that has never been satisfactorily explained.
 Several plants were considered and rejected as candidates for the
 original hallucinogenic catalyst:
 
-**[[plants-of-the-gods-tabernanthe-iboga-chemistry]]**: The Bwiti religion among the Fang of Gabon and
-Zaire uses iboga root bark in prodigious amounts. However, iboga is a
-tropical forest plant, not a grassland species. No evidence of its use
-exists before the early [[mckenna-club-des-hachischins-and-nineteenth-century-literary-hashish]], and at small doses it
+**[[mckenna-club-des-hachischins-and-nineteenth-century-literary-hashish]], and at small doses it
 diminishes ordinary vision by facilitating afterimages and halos.
 
 **LSD-type compounds**: No plants containing ergoline-type

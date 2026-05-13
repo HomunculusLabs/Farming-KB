@@ -42,28 +42,9 @@ Both seaweed extract and fish hydrolysate are popular organic liquid fertilizers
 | **Trace minerals** | Rich in iodine, selenium, natural chelates | Rich in calcium, phospholipids |
 
 ### Key Differences
-Seaweed extracts are derived mainly from brown algae (*Ascophyllum nodosum*, *Ecklonia maxima*, *[[sargassum]]* spp.) and contain a broad spectrum of trace elements absorbed from seawater. Their NPK numbers are low — they are not a replacement for macronutrient fertilizers. Fish hydrolysate, produced by enzymatic breakdown of fish frames and offal, delivers meaningful nitrogen along with a full complement of amino acids, making it a legitimate nitrogen source in organic programs.
-
-## Phytohormones and Bioactive Compounds
-
-### Seaweed Extract
-
-Seaweed extract is valued above all for its natural plant hormones and bioactive compounds:
-
-- **Cytokinins** — promote cell division, delay leaf senescence, and improve fruit set
-- **Auxins** — stimulate root development and elongation (especially in *Ecklonia*-based products)
-- **Abscisic acid** — helps plants manage [[mycorrhizal-drought-and-temperature-tolerance]] stress
-- **Betaines** — osmoprotectants that improve salt and [[dighton-fungal-drought-tolerance-plant-water-relations]]
-- **Alginates and mannitol** — natural chelators that improve [[ph-and-nutrient-availability-garden-soils]] and soil structure
-- **Polyphenols and fucoidans** — [[mycelium-running-mushroom-antimicrobial-properties-species-chart]] that may suppress soil-borne pathogens
-
-### Fish Hydrolysate
-
-Fish hydrolysate contributes bioactive compounds from a different angle:
-
-- **Free amino acids** — directly absorbed by roots and foliage, reducing the plant's energy cost for nitrogen assimilation
-- **Peptides** — signaling molecules that can trigger plant defense responses
-- **Omega-3 fatty acids and fish oils** — support beneficial soil microorganisms, especially [[saprophytic-fungi]] that build stable soil organic matter.
+Seaweed extracts are derived mainly from brown algae (*Ascophyllum nodosum*, *Ecklonia maxima*, *[[mycorrhizal-drought-and-temperature-tolerance]] stress
+- **Betaines** — osmoprotectants that improve salt and [[ph-and-nutrient-availability-garden-soils]] and soil structure
+- **Polyphenols and fucoidans** — [[saprophytic-fungi]] that build stable soil organic matter.
 
 Combined, they create synergy: fish hydrolysate feeds the microbial workforce, while seaweed extract provides signaling compounds directing that workforce toward beneficial activity.
 
@@ -134,5 +115,4 @@ Seaweed extract is generally more shelf-stable and easier to handle, making it m
 **Pros:**
 ## See Also
 
-- [[composting]]
 - [[fish-amino-acid]]

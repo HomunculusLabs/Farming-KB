@@ -10,7 +10,7 @@ created: 2026-05-11
 
 ## Overview
 
-Casing soil is a non-nutritive layer applied to the surface of colonized substrate to create the microclimate necessary for [[fungal-fruiting-body-formation-environmental-triggers]]. The grass seed cultivation guide specifies a casing recipe of peat, vermiculite, and limestone (marl), and advocates for full sterilization of the casing — a position that contradicts the recommendations of some other cultivation authorities who prefer pasteurization or untreated casing to preserve [[forest-and-bamboo-beneficial-microorganisms]].
+Casing soil is a non-nutritive layer applied to the surface of colonized substrate to create the microclimate necessary for [[forest-and-bamboo-beneficial-microorganisms]].
 
 ## Standard Recipe
 
@@ -38,25 +38,7 @@ The casing soil is prepared as follows:
 
 ## The Sterilization Debate
 
-A significant point of contention [[contamination-prevention-in-mushroom-cultivation]] is whether casing soil should be sterilized or merely pasteurized:
-
-### Argument for Sterilization (Guide's Position)
-
-The cultivation guide explicitly advocates sterilizing casing soil for one hour in a pressure cooker, stating that they have "had only bad experiences with untreated or pasteurised casing soils." Their reasoning:
-
-- **Contamination control**: Pasteurized or untreated casing carries viable competitor organisms (molds, bacteria) that can overrun the mushroom mycelium during the extended fruiting period.
-
-- **Reproducibility**: Sterile casing produces more consistent results across batches. The presence of variable microbial populations in non-sterile casing introduces unpredictable outcomes.
-
-- **Simplicity**: If the cultivator already has a pressure cooker for substrate sterilization, adding casing soil to the sterilization cycle requires no additional equipment.
-
-- **Multiple flush support**: Over 3-6 flushes spanning several weeks, the casing is repeatedly exposed to ambient air during misting and harvesting. Starting with a sterile casing gives the mushroom mycelium a head start before environmental contaminants can establish.
-
-### Argument for Pasteurization (Alternative View)
-
-Some cultivation authorities recommend pasteurization (70-80°C for 60 minutes) rather than full sterilization (121°C at 15 PSI):
-
-- **Beneficial microorganism preservation**: Pasteurization kills most pathogenic organisms while preserving thermotolerant beneficial bacteria (*Pseudomonas putida*, *[[bacillus-subtilis]]*) that are believed to stimulate fruiting and suppress competitor molds.
+A significant point of contention [[bacillus-subtilis]]*) that are believed to stimulate fruiting and suppress competitor molds.
 
 - **Reduced energy requirements**: Pasteurization can be achieved with simple hot water immersion or steaming, without needing a pressure cooker.
 
@@ -91,14 +73,7 @@ The guide specifies a casing depth of 1.5-2.0 cm (approximately 5/8 to 3/4 inch)
 - **Sufficient moisture reservoir**: Deeper casing holds more water, supporting longer fruiting periods between misting.
 - **Mycelial penetration**: Mycelium must grow through the full casing depth before pinning initiates. Excessive depth delays fruiting.
 - **Gas exchange**: Thicker casing layers present greater resistance to CO₂ diffusion, potentially inhibiting pinning if too deep.
-- **[[comparison-silicon-vs-calcium-in-plant-defense-and-structural-support]]**: The casing provides a physical matrix that supports developing fruit bodies and maintains surface moisture around pins.
-
-The guide also emphasizes keeping the casing surface "rough" with small valleys and hills rather than perfectly smooth, which increases surface area and creates microclimatic variation that promotes even pinning.
-
-## See Also
-
-- [[disposable-tray-casing-method-grass-seed-substrate]]
-- [[grass-seed-substrate-preparation]]
+- **[[disposable-tray-casing-method-grass-seed-substrate]]
 - [[psilocybe-cubensis-cultivation]]
 - [[mushroom-substrate-sterilization-and-pasteurization]]
 

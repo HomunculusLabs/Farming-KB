@@ -32,13 +32,13 @@ Fungal parasitism spans the full spectrum of host organisms:
 
 **Necrotrophs**: Kill host tissue first, then feed on dead cells. Often produce phytotoxins.
 - Botrytis cinerea (gray mold): Causes gray fuzzy rot on fruits, vegetables, and flowers. One of the most widespread plant pathogens
-- [[sclerotinia-sclerotiorum]] (white mold): Major pathogen of soybeans, canola, and many vegetables
+- Sclerotinia sclerotiorum (white mold): Major pathogen of soybeans, canola, and many vegetables
 - Alternaria species: Cause leaf spots on many crops. Produce host-specific toxins
 - Fusarium species: Cause wilts, rots, and head blight. Some produce mycotoxins (fumonisins, trichothecenes)
 
 **Hemibiotrophs**: Start as biotrophs, then switch to necrotrophic phase.
 - Magnaporthe oryzae (rice blast): Most important disease of rice worldwide. Infects through a specialized appressorium that generates enormous turgor pressure to penetrate the leaf cuticle
-- [[bloomfield-potato-blight-phytophthora-infestans]] (potato late blight): Oomycete. Caused the Irish Potato Famine (1845-1852). Still a major global threat to potato and tomato production
+- Phytophthora infestans (potato late blight): Oomycete. Caused the Irish Potato Famine (1845-1852). Still a major global threat to potato and tomato production
 - Colletotrichum species (anthracnose): Important fruit and foliar pathogen
 
 ### Impact on Agriculture
@@ -72,10 +72,10 @@ Fungal parasitism spans the full spectrum of host organisms:
 - **Allergic bronchopulmonary aspergillosis (ABPA)**: Allergic reaction to Aspergillus in the lungs. Affects asthma and cystic fibrosis patients
 - **Chronic pulmonary aspergillosis**: Slowly progressive lung infection in people with pre-existing lung disease
 - **Invasive aspergillosis**: Life-threatening infection in immunocompromised patients (especially neutropenic). Mortality 50-90%. Infects lungs, can disseminate to brain and other organs
-- A. flavus: Produces aflatoxins (potent carcinogens) on stored grains and nuts. Major cause of liver cancer in [[low-cost-mushroom-growing-house-construction-developing-countries]]
+- A. flavus: Produces aflatoxins (potent carcinogens) on stored grains and nuts. Major cause of liver cancer in developing countries
 - A. niger: Industrial workhorse (citric acid production) but can cause lung infection (aspergilloma)
 
-**[[bloomfield-cryptococcus-neoformans-capsule-melanin-brain]] / C. gattii**
+**Cryptococcus neoformans / C. gattii**
 - Environmental yeast found in soil and pigeon droppings (C. neoformans) or eucalyptus trees (C. gattii)
 - **Cryptococcal meningitis**: Most common cause of adult meningitis in sub-Saharan Africa. ~220,000 cases/year, ~180,000 deaths
 - Polysaccharide capsule inhibits phagocytosis. Can cross the blood-brain barrier
@@ -121,7 +121,7 @@ Fungi that infect and kill insects are critical natural regulators of insect pop
 
 ### Major Species
 
-**[[metarhizium-anisopliae]]**
+**Metarhizium anisopliae**
 - Widely distributed soil fungus. Infects over 200 insect species
 - Spores adhere to insect cuticle, germinate, penetrate through enzymatic degradation, and proliferate inside the hemocoel (insect body cavity)
 - Insect dies within 3-14 days. Fungus then produces spores from the cadaver to infect new hosts
@@ -134,16 +134,17 @@ Fungi that infect and kill insects are critical natural regulators of insect pop
 - Also being studied for malaria mosquito control
 
 **Cordyceps / Ophiocordyceps**
-- Famous "zombie ant" fungi ([[ophiocordyceps-unilateralis]]) manipulate ant behavior — infected ants climb to elevated positions and clamp onto vegetation before dying, optimizing spore dispersal
+- Famous "zombie ant" fungi (Ophiocordyceps unilateralis) manipulate ant behavior — infected ants climb to elevated positions and clamp onto vegetation before dying, optimizing spore dispersal
 - Cordyceps militaris and C. sinensis: Medicinal fungi with immunomodulatory properties
 - Cordycepin (3'-deoxyadenosine) from Cordyceps has antitumor and antiviral activity
 - See [[fungal-pest-control]] for agricultural applications
 
 ### Mechanism of Infection
 
-1. **Attachment**: Spores adhere to insect cuticle using hydrophobins and adhesins
-2. **Germination**: Spore germinates when conditions are favorable (humidity, temperature)
-3. **Penetration**: Germ tube produces appressorium. Enzymes (proteases, chitinases, lipases) and mechanical pressure breach the cuticle
-4. **Invasion**: Hyphae proliferate in the hemocoel, producing blastospores (yeast-like cells) that circulate in hemolymph
-5. **Death**: Toxins (destruxins in Metarhizium, beauvericin in Beauveria) and nutrient depletion kill the host
-6. **Sporulation**: Under appropriate conditions, fungus emerges from the cadaver and produces conidia for dispersal
+## See Also
+
+- [[fungi-in-the-environment-fungal-ecosystems]]
+- [[fungal-amber-fossils]]
+- [[singh-fungal-pellet-formation-bioremediation]]
+- [[dark-septate-endophytes]]
+- [[fungal-pathogens-human-disease]]

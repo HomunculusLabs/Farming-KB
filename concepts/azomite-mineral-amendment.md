@@ -2,40 +2,7 @@
 
 ## Overview
 
-Azomite (an acronym for "A to Z Of Minerals Including Trace Elements") is a [[jadam-natural-mineral-leaching-and-replenishment]] product mined from a deposit in central Utah, USA. It is classified geologically as a hydrated sodium calcium aluminosilicate, formed from volcanic ash that settled in an ancient inland sea approximately 30 million years ago. Azomite is marketed as a broad-spectrum trace mineral amendment containing over 70 minerals and rare earth elements. It has gained significant popularity in organic agriculture, orcharding, and home gardening since its commercial introduction in the 1940s. The product is listed as OMRI (Organic Materials Review Institute) approved for use in certified organic production.
-
-## Geological Origin and Formation
-
-The Azomite deposit is located near Nephi, Utah, in the Sevier River Valley. The mineral formed when volcanic ash from Tertiary-period eruptions was deposited in a shallow marine environment, where it underwent prolonged alteration through interaction with seawater, sedimentation, and diagenetic processes over millions of years. This unique geological history produced a mineral matrix with an exceptionally broad elemental spectrum that is not commonly found in single-source rock dusts.
-
-The deposit covers approximately 30 acres and ranges from 20 to 40 feet in depth. Mining is conducted by open-pit methods, with the raw material crushed and screened to various grades for agricultural use. The mine has been in operation since the 1940s, when local farmers first observed that crops grown near the deposit exhibited unusual vigor.
-
-## Mineral Composition
-
-Azomite's mineral profile is notably diverse compared to other rock dusts:
-
-**Major elements (reported ranges):**
-- Silicon (Si): 30-35% — primarily as silicate minerals
-- Aluminum (Al): 8-12% — as aluminosilicate clay minerals
-- Calcium (Ca): 4-6% — plant-available calcium
-- Iron (Fe): 2-4% — plant-available iron
-- Potassium (K): 2-3% — slowly available potassium
-- Magnesium (Mg): 1-2% — chlorophyll component
-- Sodium (Na): 1-3% — relatively high sodium compared to basalt or granite dust
-- Phosphorus (P): 0.1-0.3% — low but present
-
-**Trace minerals and rare earth elements:**
-Azomite contains detectable amounts of over 70 trace elements including boron, manganese, copper, zinc, molybdenum, cobalt, selenium, chromium, vanadium, nickel, strontium, barium, and rare earth elements (lanthanum, cerium, neodymium). The rare earth element content is a distinguishing feature not found in most other agricultural rock dusts.
-
-## Agricultural Applications
-
-**Vegetable gardens:** Apply 0.5-1 kg per 10 square meters (50-100 g/m2) at planting time. Can be mixed into the top 5-10 cm of soil or side-dressed along rows. Some gardeners report improved flavor, color, and shelf life of vegetables grown with Azomite.
-
-**Fruit trees and berries:** Apply 0.5-2 kg per tree or bush, spread within the drip line. Annual applications are common for established orchards. Many orchardists report improved fruit set, Brix (sugar content), and storage quality.
-
-**Row crops:** 100-300 kg per hectare, broadcast and incorporated before planting. Responses are most consistent on soils with known trace mineral deficiencies or on land with a history of [[coleman-intensive-cropping-double-cropping-greenhouse-productivity]] without [[jadam-soil-mineral-replenishment]].
-
-**Compost enhancement:** Add 2-5 kg per cubic meter of compost during pile building. The minerals are partially solubilized during the composting process and become incorporated into the humic complex, improving [[aact-calcium-fungi-interaction-nutrient-bioavailability-ingham]].
+Azomite (an acronym for "A to Z Of Minerals Including Trace Elements") is a [[coleman-intensive-cropping-double-cropping-greenhouse-productivity]] without [[aact-calcium-fungi-interaction-nutrient-bioavailability-ingham]].
 
 **Livestock feed supplement:** Azomite is also sold as a feed additive for cattle, poultry, and other livestock. Proponents claim improvements in feed conversion efficiency, bone density, and overall animal health. This application is distinct from soil use but reflects the broad mineral spectrum.
 
@@ -60,21 +27,7 @@ The scientific evidence for Azomite's efficacy is more limited than for basalt o
 
 ## Azomite in Permaculture and Organic Systems
 
-Azomite has found a niche in permaculture and organic growing communities as a trace mineral supplement for systems that may be deficient. In permaculture design, Azomite is sometimes used during the initial establishment phase of food forests, perennial polycultures, and broadacre rehabilitation projects where the soil has been degraded by conventional agriculture. The slow-release nature of the mineral matrix aligns well with perennial cropping systems. Some permaculture practitioners combine Azomite with biochar and compost in "supercharged" sheet mulch recipes for establishing new garden beds. Within the organic certification framework, Azomite is OMRI-listed and allowed without restriction, making it a convenient choice for certified operations that need trace [[jadam-seawater-mineral-supplementation]].
-
-## Comparison with Comprehensive Mineral Programs
-
-Azomite is sometimes positioned as a complete [[jadam-phyllite-mineral-solution]], but it is more accurately viewed as one component of a comprehensive soil [[knf-soil-and-mineral-management]] program:
-
-- **Azomite + compost**: Compost provides biological activation, organic matter, and macronutrients that Azomite alone lacks. The combination is far more effective than either alone
-- **Azomite + basalt**: Some growers use Azomite for its rare earth elements and trace mineral diversity while relying on locally sourced basalt for bulk calcium, magnesium, and silica. This hybrid approach reduces cost and shipping impact
-- **Azomite + biological inoculants**: Combining Azomite with [[pgpr-mycorrhizal-inoculants-microplant-establishment]], compost tea, or [[query-how-do-you-make-effective-microorganisms-em-for-agriculture]] (EM) enhances mineral solubilization and plant uptake
-- **Azomite vs. sea minerals**: Liquid sea mineral products (such as sea-90 or ocean trace minerals) provide a similar broad-spectrum mineral profile in immediately soluble form, while Azomite provides slow-release solid minerals. The two can complement each other
-
-## Application Best Practices
-
-1. Conduct a soil test before applying Azomite to determine whether trace mineral deficiency actually exists
-2. Start with lower [[ingham-compost-tea-application-rates-and-timing]] observe plant response before increasing
+Azomite has found a niche in permaculture and organic growing communities as a trace mineral supplement for systems that may be deficient. In permaculture design, Azomite is sometimes used during the initial establishment phase of food forests, perennial polycultures, and broadacre rehabilitation projects where the soil has been degraded by conventional agriculture. The slow-release nature of the mineral matrix aligns well with perennial cropping systems. Some permaculture practitioners combine Azomite with biochar and compost in "supercharged" sheet mulch recipes for establishing new garden beds. Within the organic certification framework, Azomite is OMRI-listed and allowed without restriction, making it a convenient choice for certified operations that need trace [[jadam-phyllite-mineral-solution]], but it is more accurately viewed as one component of a comprehensive soil [[pgpr-mycorrhizal-inoculants-microplant-establishment]], compost tea, or [[ingham-compost-tea-application-rates-and-timing]] observe plant response before increasing
 3. Combine Azomite with compost, organic matter, and biological amendments for maximum effectiveness
 4. Apply in fall or early spring to allow weathering before peak nutrient demand
 5. Monitor soil sodium levels annually if using Azomite as a regular amendment
@@ -118,8 +71,80 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[permaculture-design]]
 - [[det]]
-- [[composting]]
 - [[soil-testing]]
 - [[biochar]]
+
+## Overview
+
+Azomite Mineral Amendment represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish azomite mineral amendment
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving azomite extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Azomite Mineral Amendment finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for azomite mineral amendment. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+azomite mineral amendment and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Azomite Mineral Amendment has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of azomite mineral amendment into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource

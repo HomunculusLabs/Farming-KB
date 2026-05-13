@@ -141,8 +141,6 @@ active effort:
 - Maintain analytical engagement with the translinguistic content
 ## See Also
 
-- [[dmt-hyperspace-entities]] — The entity encounters
 - [[dmt-self-transforming-machine-elves-mckenna]] — Machine elves
-- [[dmt-black-hole-effect-and-ineffability-of-tryptamine-experience]]
 - [[mckenna-glossolalia-and-primal-language-tryptamine-states]]
 - [[mckenna-tryptamine-transtemporal-eternity-and-nunc-stans]]

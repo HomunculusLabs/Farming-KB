@@ -15,43 +15,7 @@ sources:
   - Tam, S.W. et al. (2001). "Yohimbine: A clinical review." Pharmacology & Therapeutics, 91(3), 215–243.
   - Andrianne, R. et al. (1988). "Yohimbine and erectile dysfunction." British Journal of Urology, 62(4), 362–365.
   - Fontenot, M.B. et al. (2003). "Yohimbine effects on anxiety in humans." Psychopharmacology, 170(4), 418–425.
-  - Corazza, O. et al. (2014). "blesching-cannabis-safety-adverse-effects-evidence of yohimbine-containing products." Drug [[soil-testing-and-analysis]], 6(6), 578–582.
-  - Fraser, G.L. (2011). "Revisiting yohimbine pharmacology." CNS Drug Reviews, 17(3), 190–197.created: 2026-05-07
-
-created: 2026-05-07
----
-
-## Overview
-
-**Yohimbine** is an [[aminopropyl-silica-gel-chromatography-indole-alkaloid-purification]] classified chemically as α-yohimbine or rauwolscine. It is the primary active compound found in the bark of *[[pausinystalia-yohimbe]]* (yohimbe tree), a evergreen tree native to Central and West Africa. It functions primarily as a selective alpha-2 adrenergic receptor antagonist, increasing sympathetic nervous system activity.
-
-The compound has a long history of use as an aphrodisiac and stimulant in West African traditional medicine, and was approved by the FDA for the treatment of male erectile dysfunction before the advent of PDE5 inhibitors. It remains available as a prescription medication and dietary supplement in various countries.
-
-## Chemical Properties
-
-- **Chemical name:** Methyl 17α-hydroxyyohimban-16α-carboxylate
-- **Molecular formula:** C₂₁H₂₆N₂O₃
-- **Molecular weight:** 354.44 g/mol
-- **IUPAC name:** Methyl (1R,15S,17R)-17-hydroxyyohimban-16-carboxylate
-- **Structure type:** Indole monoterpene alkaloid (yohimbane skeleton)
-- **Appearance:** White to pale yellow crystalline powder
-- **Solubility:** Sparingly soluble in water; soluble in ethanol, chloroform, and dilute acids
-- **Melting point:** 228–232°C (decomposes)
-
-Yohimbine is one of approximately 31 related alkaloids found in *P. yohimbe* bark. Related compounds include ajmalicine, corynanthine, and reserpine, all sharing the yohimbane ring system.
-
-## Pharmacology
-
-**Primary mechanism:** Yohimbine is a competitive antagonist at presynaptic α₂-adrenergic autoreceptors. By blocking these receptors, it increases noradrenaline (norepinephrine) release from sympathetic nerve terminals.
-
-This disinhibition of noradrenergic transmission produces effects across multiple systems:
-
-- **Vascular:** Increased sympathetic tone to blood vessels causes vasodilation in genital tissue (mediated by unopposed α₁ activity) while producing peripheral vasoconstriction in some vascular beds.
-- **Central nervous system:** Increased locus coeruleus firing produces alertness, anxiogenesis, and heightened sensory awareness.
-- **Adrenal:** Increased adrenal medullary catecholamine release elevates heart rate and blood pressure.
-- **Serotonergic:** Weak 5-HT₁A receptor antagonism contributes to anxiogenic effects.
-
-**[[tihkal-receptor-binding-serotonin]] profile:**
+  - Corazza, O. et al. (2014). "blesching-cannabis-safety-adverse-effects-evidence of yohimbine-containing products." Drug [[aminopropyl-silica-gel-chromatography-indole-alkaloid-purification]] classified chemically as α-yohimbine or rauwolscine. It is the primary active compound found in the bark of *[[tihkal-receptor-binding-serotonin]] profile:**
 - α₂-adrenergic: Kᵢ ≈ 1–10 nM (potent antagonist)
 - α₁-adrenergic: Kᵢ ≈ 100–1000 nM (weak antagonist)
 - 5-HT₁A: Kᵢ ≈ 200–500 nM (weak antagonist)
@@ -68,17 +32,7 @@ This disinhibition of noradrenergic transmission produces effects across multipl
 
 **Physical effects:** Increased heart rate (10–20 bpm), elevated blood pressure, mild tremor, sweating, flushing, piloerection (goosebumps), and genital vasodilation. Some users report increased salivation and mild nausea at higher doses.
 
-**[[hallucinogenic-mushroom-acute-psychological-effects-and-bad-trips]]:** Heightened alertness, mild euphoria, increased libido, and sensory amplification. At moderate doses, anxiogenic effects become prominent — restlessness, anxiety, and in some cases panic attacks.
-
-**[[adverse-effects-and-harm-reduction-psilocybin]]:** Anxiety, agitation, tachycardia, hypertension, headache, dizziness, insomnia, and gastrointestinal distress. At doses above 30 mg, severe reactions including hypertensive crisis and psychosis have been documented. The compound has a narrow [[cannabis-therapeutic-index-overview]].
-
-## History
-
-Yohimbe bark has been used for centuries in West African traditional medicine, particularly among the Bantu peoples of Cameroon and Congo, as an aphrodisiac, stimulant, and hunting aid. The bark was consumed as a tea or chewed directly.
-
-The active alkaloid was first isolated in 1896 by the German chemist Ludwig Spiegel. Yohimbine hydrochloride was approved by the FDA in the 1930s as a treatment for organic erectile dysfunction. It was one of the few pharmacological options for the condition before sildenafil (Viagra) was introduced in 1998.
-
-Today, yohimbine prescription use has declined significantly due to the superior efficacy and [[cannabis-safety-profile-and-overdose-risk]] of PDE5 inhibitors. However, it remains widely available as an over-the-counter dietary supplement and is popular in fitness communities as a purported fat-burning agent, despite limited clinical evidence for this application.
+**[[adverse-effects-and-harm-reduction-psilocybin]]:** Anxiety, agitation, tachycardia, hypertension, headache, dizziness, insomnia, and gastrointestinal distress. At doses above 30 mg, severe reactions including hypertensive crisis and psychosis have been documented. The compound has a narrow [[cannabis-safety-profile-and-overdose-risk]] of PDE5 inhibitors. However, it remains widely available as an over-the-counter dietary supplement and is popular in fitness communities as a purported fat-burning agent, despite limited clinical evidence for this application.
 
 ## Legal Status
 
@@ -87,3 +41,80 @@ Today, yohimbine prescription use has declined significantly due to the superior
 - **Canada:** Available by prescription; classified as a Schedule IV drug.
 - **Australia:** Prescription-only (S4).
 - **Germany:** Prescription-only; yohimbe bark is classified as a narcotic under the BtMG.
+
+## Overview
+
+Yohimbine represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish yohimbine
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving yohimbine extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Yohimbine finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for yohimbine. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+yohimbine and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Yohimbine has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of yohimbine into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.

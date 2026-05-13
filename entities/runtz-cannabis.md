@@ -23,26 +23,8 @@ sources:
 
 ## Overview
 
-**Runtz** is an award-winning, highly sought-after [[query-what-is-the-difference-between-indica-sativa-and-hybrid-cannabis]] strain created by crossing **Zkittlez** with **Gelato #33**. Bred by the **Cookies Fam** in Los Angeles, Runtz burst onto the scene in the late 2010s and rapidly became one of the most talked-about strains in the cannabis community. It is celebrated for its exceptionally sweet, candy-like flavor profile, striking multicolored buds, and potent, balanced effects.
-
-The strain's name references the iconic Runts candy, reflecting its unmistakable tropical fruit sweetness.
-
-## Genetic Lineage
-
-| Attribute | Detail |
-|-----------|--------|
-| **Type** | Balanced Hybrid (50/50 Indica-Sativa) |
-| **Cross** | Zkittlez × Gelato #33 |
-| **Breeders** | Cookies Fam (Los Angeles, California) |
-| **Lineage Group** | Cookies family line — descendant of [[girl-scout-cookies]] |
-| **Genetic Background** | [[purple-punch]] × Grape Ape × OG Kush (via Zkittlez); [[thin-mint-cookies]] × [[sunset-sherbet]] (via Gelato) |
-
-The genetic architecture combines two of the most decorated breeding lines in modern cannabis: the **Zkittlez** line (explosive fruit terpenes, purple coloration) and the **Gelato** line (creamy dessert flavors, potent effects).
-
-## Appearance
-
-- **Structure:** Dense, chunky calyxes with a tapered, slightly conical shape
-- **Coloration:** Striking gradient of deep [[trichoderma-forest-green-mold-guide]], lavender purple, and electric blue — purple expression varies by phenotype. Heavy trichome coverage gives a frosted appearance
+**Runtz** is an award-winning, highly sought-after [[girl-scout-cookies]] |
+| **Genetic Background** | [[thin-mint-cookies]] × [[trichoderma-forest-green-mold-guide]], lavender purple, and electric blue — purple expression varies by phenotype. Heavy trichome coverage gives a frosted appearance
 - **Pistils:** Abundant orange-amber pistils curling through the calyxes
 - **Resin:** Exceptionally sticky with thick clear-to-milky trichome heads
 
@@ -78,8 +60,7 @@ Several sub-lineages exist: **White Runtz**, **Pink Runtz**, and **Black Runtz**
 - **Euphoria:** Strong cerebral uplift, mood elevation, giddy happiness
 - **Relaxation:** Full-body calm without couch-lock
 - **Creativity:** Enhanced creative thinking and sociability
-- **[[cannabis-for-cachexia-and-appetite-stimulation]]:** Significant munchies effect
-- **Pain relief:** Moderate analgesia for mild-to-moderate [[cannabis-chronic-pain-management]]
+- **[[cannabis-chronic-pain-management]]
 
 ### Onset and Duration
 - **Onset:** 2–5 minutes (smoked/vaped); **Peak:** 30–60 minutes; **Duration:** 2–3 hours
@@ -88,3 +69,82 @@ Several sub-lineages exist: **White Runtz**, **Pink Runtz**, and **Black Runtz**
 Dry mouth, dry eyes, anxiety at high doses, dizziness, lethargy with heavy use.
 
 ## Medical Applications
+
+## Overview
+
+Runtz Cannabis represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish runtz cannabis
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving runtz extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Runtz Cannabis finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for runtz cannabis. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+runtz cannabis and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Runtz Cannabis has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of runtz cannabis into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also

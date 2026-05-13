@@ -10,9 +10,7 @@ sources: ["raw/papers/beneficial-indigenous-microorganisms-bionutrients.md"]
 
 **Updated:** 2026-04-24
 
-Indigenous Microorganisms (IMO) are beneficial microorganisms collected from local environments — primarily forests, bamboo groves, and specific plant rhizospheres — and cultured for use in agriculture. The core principle is that locally adapted microorganisms are more effective than imported or commercial cultures because they are already suited to local soil, climate, and ecological conditions. As described by Gil Carandang, IMO forms the foundation of the [[query-how-do-i-use-beneficial-indigenous-microorganisms]] Microorganism (BIM) formulation alongside lactic acid bacteria.
-
-Related preparations include [[bionutrients-lab-fermented-plant-juice-fpj]], [[bionutrients-lab-fish-aminos]], and [[bahay-kubo-imo-collection-and-preparation]] and [[soil-food-web-structure]] and [[teaming-with-microbes-soil-food-web-overview]].
+Indigenous Microorganisms (IMO) are beneficial microorganisms collected from local environments — primarily forests, bamboo groves, and specific plant rhizospheres — and cultured for use in agriculture. The core principle is that locally adapted microorganisms are more effective than imported or commercial cultures because they are already suited to local soil, climate, and ecological conditions. As described by Gil Carandang, IMO forms the foundation of the [[bionutrients-lab-fermented-plant-juice-fpj]], [[bahay-kubo-imo-collection-and-preparation]] and [[teaming-with-microbes-soil-food-web-overview]].
 
 ## Why Indigenous Microorganisms
 
@@ -118,8 +116,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[indigenous-microorganisms]]
 - [[bionutrients]]
-- [[han-kyu-cho]]
 - [[lactic-acid-bacteria]]
 - [[gil-carandang]]

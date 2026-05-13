@@ -21,34 +21,6 @@ food forest, or herbal apothecary.
 
 ## Mullein
 
-[[mullein]]
-
-Mullein is a biennial plant in the figwort family (Scrophulariaceae) that
-spends its first year as a low rosette of thick, fuzzy leaves before sending
-up a dramatic flower spike in its second year. Native to Europe and Asia, it
-has naturalized across most of North America and temperate regions worldwide.
-The plant is immediately recognizable by its woolly, gray-green foliage and
-tall yellow flower stalk that can reach 2.5 meters.
-
-Medicinally, mullein is best known as a respiratory herb. Its leaves and
-flowers contain mucilage that soothes irritated mucous membranes, saponins
-that act as expectorants, and flavonoids with anti-inflammatory and
-antispasmodic properties. It is a cornerstone herb in formulations for
-bronchitis, persistent cough, asthma, and chest congestion. Mullein flower
-oil, often combined with garlic, is a widely used traditional remedy for ear
-infections. The plant also demonstrates mild antibacterial activity against
-respiratory pathogens.
-
-In permaculture, mullein serves as a dynamic mineral accumulator, with its
-deep taproot pulling calcium, potassium, and magnesium from subsoil layers.
-As a pioneer species, it colonizes disturbed and compacted soils, breaking up
-hardpan with its thick root and improving drainage. Each plant can produce
-over 100,000 seeds, making it an effective -- and sometimes aggressive --
-self-seeder. The flowers attract a wide range of pollinators, and the seed
-heads feed finches and other songbirds through winter.
-
-## Comfrey
-
 [[comfrey-symphytum-officinale]]
 
 Comfrey is a vigorous perennial in the borage family (Boraginaceae) that
@@ -142,8 +114,6 @@ apothecary without significant overlap in function.
 
 ## See Also
 
-- [[comparison-mullein-vs-calendula]]
 - [[comparison-comfrey-vs-yarrow]]
-- [[comparison-dynamic-accumulators-vs-cover-crops]]
 - [[comparison-mullein-vs-st-johns-wort]]
 - [[comparison-nettle-vs-comfrey]]

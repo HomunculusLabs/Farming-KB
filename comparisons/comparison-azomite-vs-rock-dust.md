@@ -18,44 +18,20 @@ geological materials. Understanding their differences helps growers choose
 the right amendment for their soil, budget, and farming context.
 
 ## Azomite
-[[azomite-mineral-amendment]]
-
-Azomite (A to Z Of Minerals Including Trace Elements) is a hydrated sodium
-calcium aluminosilicate mined from a 30-acre deposit near Nephi, Utah. The
-mineral formed when volcanic ash settled in an ancient inland sea roughly
-30 million years ago, producing a uniquely broad elemental spectrum. It
-contains detectable amounts of over 70 trace elements, including rare earth
-elements such as lanthanum, cerium, and neodymium — a feature not commonly
-found in other agricultural rock dusts.
-
-Azomite is OMRI-listed for organic production and available in micronized
-powder and granular grades. Typical application rates range from 5 to 10 lbs
-per 1,000 sq ft for gardens, or 100 to 300 kg per hectare for field crops.
-Growers frequently report improved Brix (soluble solids) in fruits and
-vegetables, enhanced color and shelf life, and increased microbial biomass
-in treated soils.
-
-The primary concerns with Azomite are its relatively high sodium content
-(1 to 3 percent), which warrants monitoring in arid or poorly drained soils,
-and its cost, which is significantly higher than locally sourced basalt or
-quarry dust. Because it comes from a single mine, supply chain vulnerability
-and eventual deposit depletion are long-term considerations.
-
-## Rock Dust (General)
 [[rock-dust-minerals]]
 
 Rock dust refers broadly to finely ground geological materials used to
 replenish soil minerals. The most common types include basalt (rich in
 silica, calcium, magnesium, and iron), granite (slow-releasing potassium and
 silica), and glacial moraine deposits (a naturally diverse mineral mix).
-Basalt rock dust is widely regarded as the best general-purpose option due
+[[basalt-rock-dust]] is widely regarded as the best general-purpose option due
 to its moderate weathering rate, broad mineral spectrum, and widespread
 availability from quarries worldwide.
 
 Application rates vary by type. Basalt is typically applied at 10 to 50 lbs
 per 1,000 sq ft, granite at 20 to 100 lbs, and glacial rock dust at 10 to
 30 lbs. Rock dusts provide slow-release nutrition over years rather than
-weeks, supporting microbial activity and improving cation exchange capacity
+weeks, supporting microbial activity and improving [[cation-exchange-capacity]]
 without the rapid leaching associated with soluble fertilizers.
 
 The key advantage of generic rock dust is cost and availability. Basalt
@@ -132,8 +108,6 @@ activation process.
 
 ## See Also
 
-- [[azomite-mineral-amendment]]
 - [[rock-dust-minerals]]
-- [[rock-dust-soil-remineralization]]
 - [[basalt-rock-dust-agriculture]]
 - [[jadam-natural-mineral-leaching-and-replenishment]]

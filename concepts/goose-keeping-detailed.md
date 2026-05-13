@@ -17,59 +17,7 @@ Geese eat grass and weeds and in return fertilize the soil while leaving crops a
 - Fence at least 3 feet (0.9 m) high
 - Can live in Zone 2, especially if you also keep ducks
 - Remove from garden before it ripens (they will eat fruit and vegetables)
-- Can be let into Zone 1 [[fukuoka-dutch-priest-vegetable-garden-spiritual-renewal]] after plants like strawberries and tomatoes are large enough to withstand walking
-- Six geese maximum per acre of water surface
-- Heavy breeds will not breed without sufficient water
-
-## Housing
-
-- 10 square feet (0.9 sq m) per goose
-- Yard: 30-40 square feet (2.8-3.7 sq m) per goose
-- Simple dry shed; does not need to be fancy
-- Box feeder inside; water trough outside under an awning
-- Clean bedding of chopped straw on floor
-
-## Feeding
-
-- Can live entirely off pasture -- unlike ducks, they eat older grass
-- Will not eat alfalfa unless very hungry
-- Same food as ducks works, with 15% protein ratio
-- Winter feed: dried grass, hay (not alfalfa), corn fodder, grain, scraps
-- Grit required for digestion
-
-## Sexing
-
-Difficult without practice. Flip upside down and examine vent. Less accurate method:
-- Ganders (males): broader head, longer neck, more aggressive
-- Ganders have deeper, louder call
-- Watch during mating for confirmation
-
-## Maintenance
-
-- Clip one wing after each molting: cut 5 inches (12 cm) off feathers, careful not to clip wing itself or during molting (causes permanent injury or death)
-- Always pick geese up backwards with head facing your back, wings pinned under arm
-- An irritated goose can bite your face
-- A goose kept too long can become too big to handle and dangerous if not handled daily
-- Don't eat geese over 3 years old (soft yellow down on legs indicates age)
-
-## Breeding
-
-- A big gander services 2-3 geese; smaller ganders handle 4-5
-- Once a gander picks mates, he sticks with them every year and helps raise goslings
-- Keep ganders separate; introduce to hens in late fall or early winter
-- Wait until goose is 2 years old before breeding (egg quality much better)
-- Geese want to brood outside: old tire with straw or tiny brooding house
-- Leave 2 eggs in nest when hen starts laying; take the rest
-- Full nest encourages setting and provides goose eggs while hen keeps laying
-- 28-35 days to hatch
-- Around day 20: spray eggs completely with warm water and turn them yourself
-
-## Gosling Care
-
-- Brooder space: 1.5 sq ft (0.14 sq m) until 7 weeks, then 2.5 sq ft (0.23 sq m)
-- Maximum 25 goslings per 250-watt heat lamp
-- Feed 4 times daily, enough to eat in 15 minutes
-- Diet: tender [[knf-green-grass-liquid-fertilizer]]/weeds, duck food, grit
+- Can be let into Zone 1 [[knf-green-grass-liquid-fertilizer]]/weeds, duck food, grit
 - At 5-6 weeks: can survive on large pasture (1 acre per 20-40 geese), add grain optional
 - Butcher before winter when pinfeathers are not growing in (they grow in cycles)
 - Goose grease traditionally used for frying, pastry, and hand salves (greasier than other meats)
@@ -82,42 +30,92 @@ Difficult without practice. Flip upside down and examine vent. Less accurate met
 
 ## See Also
 
-- [[duck-keeping-guide-detailed]]
-- chicken-integration-permaculture-guide
 - [[growing-vegetables-with-less-fertilizer]]
-- [[gaias-garden-cover-crops-soil-building]]
+- [[goose-keeping]]
+- [[permaculture]]
+- [[duck-keeping-guide-detailed]]
+
+## Overview
+
+Goose Keeping Detailed represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish goose keeping detailed
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving goose extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
 
 ## Practical Applications
 
-The principles and techniques discussed here have wide-ranging applications
-across multiple disciplines and contexts. Practitioners and researchers
-continue to explore new ways to integrate these concepts into modern practice,
-adapting traditional knowledge to contemporary challenges and opportunities.
+Goose Keeping Detailed finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
 
-## Key Considerations
+## Management and Implementation
 
-Several important factors influence the effectiveness and outcomes described
-in this topic. Understanding these considerations helps practitioners make
-informed decisions and avoid common pitfalls. Environmental conditions,
-timing, and material selection all play critical roles.
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for goose keeping detailed. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+goose keeping detailed and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
 
 ## Historical Context
 
-The historical development of this subject reflects centuries of accumulated
-knowledge and practical experience. From traditional methods passed down
-through generations to modern scientific approaches, the evolution continues
-to inform current best practices and research directions.
+Goose Keeping Detailed has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
 
-## Common Challenges
+## Integration Strategies
 
-Practitioners frequently encounter several challenges when working with
-these concepts. Climate variability, resource limitations, and knowledge
-gaps can all affect outcomes. Addressing these challenges requires patience,
-observation, and a willingness to adapt approaches based on results.
+Successful integration of goose keeping detailed into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
 
 ## See Also
+
+- [[comparison-chicken-keeping-vs-beekeeping-basics]]
+- [[faires-goose-management-and-integration]]
+- [[fungal-herbarium-record-keeping-specimen-transactions]]
 - [[goose-keeping]]
-- [[det]]
-- [[permaculture]]
 - [[goose-keeping-guide]]
-- [[duck-keeping-guide-detailed]]

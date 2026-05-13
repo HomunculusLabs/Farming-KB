@@ -11,21 +11,13 @@ sources:
 
 # Nature's Self-Organizing Principles
 
-Masanobu Fukuoka's observations of how nature organizes itself without human intervention form the practical backbone of his [[fukuoka-natural-orchard-development]] works with succession rather than against it. Rather than maintaining a monoculture of [[comparison-pruning-fruit-trees-vs-grafting-fruit-trees]], he allows a diverse community of plants to develop naturally beneath and between the trees. This approach creates a more resilient and productive system than conventional [[fukuoka-orchard-management-detailed]].
-
-## No Waste in Nature
-
-In natural systems, the concept of waste does not exist. The fallen leaf becomes food for soil organisms. The dead tree provides habitat for insects, birds, and fungi. The animal carcass feeds scavengers and fertilizes the soil. Every output of one process becomes the input for another.
-
-This principle directly challenges the agricultural model that treats crop residues as waste to be burned or removed. In Fukuoka's [[fukuoka-direct-observation-method]] is to observe and support, not to command and control.
+Masanobu Fukuoka's observations of how nature organizes itself without human intervention form the practical backbone of his [[comparison-pruning-fruit-trees-vs-grafting-fruit-trees]], he allows a diverse community of plants to develop naturally beneath and between the trees. This approach creates a more resilient and productive system than conventional [[fukuoka-direct-observation-method]] is to observe and support, not to command and control.
 
 ## The Limits of Human Understanding
 
 Despite the extraordinary order and efficiency of natural systems, Fukuoka repeatedly emphasizes that human understanding of these systems is fundamentally limited. The complexity of interactions in a single gram of soil exceeds anything science can fully map. The farmer who thinks he understands nature well enough to improve upon it is, in Fukuoka's view, suffering from the greatest delusion of all.
 
-This humility before nature is not passive resignation but active respect. It means proceeding cautiously, making minimal interventions, and always being willing to learn from what the land teaches. The [[fukuoka-direct-observation-method]]
-- [[fukuoka-natural-diet-theory]]
-- [[fukuoka-four-principles-natural-farming]]
+This humility before nature is not passive resignation but active respect. It means proceeding cautiously, making minimal interventions, and always being willing to learn from what the land teaches. The [[fukuoka-natural-diet-theory]]
 - [[fukuoka-nature-perfect-imperfect]]
 ## Practical Applications
 
@@ -97,8 +89,6 @@ through generations to modern scientific approaches, the evolution continues
 to inform current best practices and research directions.
 
 ## See Also
-- [[masanobu-fukuoka]]
 - [[doc]]
-- [[det]]
 - [[fukuoka-textdoc-natures-refuse-processing-microbial-self-governance]]
 - [[fukuoka-textdoc-disease-as-natures-self-defense-mechanism]]

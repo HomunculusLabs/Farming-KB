@@ -9,15 +9,7 @@ sources:
 ---
 # Fermentation Microbiology for Brewers
 
-Successful brewing requires an understanding of the microorganisms that drive fermentation. While most brewers work primarily with Saccharomyces yeast, a deeper knowledge of fermentation microbiology -- including the roles of bacteria, [[comparison-sourdough-vs-wild-yeast-bread]], and other microorganisms -- enables better troubleshooting, more creative brewing, and a richer appreciation of the biological processes behind every batch of beer, wine, mead, and other fermented beverages.
-
-## Saccharomyces: The Primary Fermenter
-
-Saccharomyces cerevisiae (ale yeast) and Saccharomyces pastorianus (lager yeast) are the workhorses of modern brewing. These species are exceptionally well-adapted to the sugar-rich, anaerobic environment of a fermentation vessel.
-
-### Metabolism
-
-Saccharomyces yeast converts sugar to ethanol, carbon dioxide, and a range of [[antifungal-secondary-metabolites-coprophilous-fungi]] through the process of alcoholic fermentation:
+Successful brewing requires an understanding of the microorganisms that drive fermentation. While most brewers work primarily with Saccharomyces yeast, a deeper knowledge of fermentation microbiology -- including the roles of bacteria, [[antifungal-secondary-metabolites-coprophilous-fungi]] through the process of alcoholic fermentation:
 
 - Ethanol: The primary alcohol in fermented beverages
 - Carbon dioxide: Provides carbonation in bottle-conditioned and cask-conditioned beers
@@ -32,7 +24,7 @@ Saccharomyces yeast converts sugar to ethanol, carbon dioxide, and a range of [[
 
 Brewing yeast goes through several distinct phases during fermentation:
 
-1. Lag phase (0-12 hours): Yeast cells adapt to the new environment, take up oxygen, and synthesize sterols and unsaturated [[stable-carbon-isotope-signature-fatty-acids-mycorrhizal-carbon-tracking]] needed for [[plant-cell-membrane-transport-proteins-channels-carriers-and-pumps]] growth. No visible fermentation activity.
+1. Lag phase (0-12 hours): Yeast cells adapt to the new environment, take up oxygen, and synthesize sterols and unsaturated [[plant-cell-membrane-transport-proteins-channels-carriers-and-pumps]] growth. No visible fermentation activity.
 2. Growth phase (12-48 hours): Rapid cell reproduction. Sugars are consumed and ethanol, CO2, and flavor compounds are produced. Krausen (foamy head) forms on the surface.
 3. Stationary phase (2-7 days): Nutrient depletion slows growth. Yeast begins to reabsorb certain off-flavor compounds, particularly diacetyl. Fermentation rate decreases.
 4. Conditioning phase (1-4+ weeks): Yeast continues to clean up byproducts and settle to the bottom of the vessel. Flavor mellows and matures.
@@ -57,17 +49,7 @@ Temperature control is the primary tool for managing lactic acid bacteria. Most 
 
 ## Acetobacter
 
-Acetobacter is an acetic acid bacteria that converts ethanol to acetic acid (vinegar). In most brewing contexts, Acetobacter is undesirable because it produces a harsh vinegar character. However, controlled acetic [[staycare-fungal-organic-acid-production-metal-leaching]] is desirable in some styles:
-
-- Flanders red ales develop a characteristic acetic sharpness from Acetobacter during barrel aging
-- Some traditional styles tolerate low levels of acetic character
-- Kombucha production relies on Acetobacter for its characteristic tang
-
-Acetobacter requires oxygen to function, so minimizing oxygen exposure during and after fermentation prevents unwanted acetic acid production. Barrel-aged sour beers develop acetic character because the porous wood allows slow oxygen ingress.
-
-## Brettanomyces
-
-Brettanomyces (often called "Brett") is a wild yeast genus that has become increasingly important in craft brewing. It was historically considered a contaminant in winemaking and clean [[comparison-beer-brewing-vs-cider-making]], but it is now valued for the complex flavors it produces in sour and wild ales.
+Acetobacter is an acetic acid bacteria that converts ethanol to acetic acid (vinegar). In most brewing contexts, Acetobacter is undesirable because it produces a harsh vinegar character. However, controlled acetic [[comparison-beer-brewing-vs-cider-making]], but it is now valued for the complex flavors it produces in sour and wild ales.
 
 Key Brettanomyces species in brewing:
 
@@ -117,8 +99,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[saccharomyces-cerevisiae]]
 - [[ethanol]]
-- [[lactic-acid-bacteria]]
 - [[lactobacillus]]
 - [[mycorrhiza]]

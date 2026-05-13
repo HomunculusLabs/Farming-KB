@@ -11,25 +11,15 @@ sources: [raw/papers/grahamholmes-what-a-plant-knowsindd.md]
 
 ## Overview
 
-The concept of memory [[comparison-jasmonate-vs-salicylic-acid-defense-signaling]] accumulates at the infection site and travels systemically through the plant. This primes distal tissues for enhanced defense, including upregulation of pathogenesis-related ([[query-how-do-i-manage-heat-stress-in-my-cannabis-garden]] vival during subsequent droughts.
+The concept of memory [[query-how-do-i-manage-heat-stress-in-my-cannabis-garden]] vival during subsequent droughts.
 
-[[query-how-do-i-manage-heat-stress-in-my-cannabis-garden]] memory operates through similar epigenetic mechanisms. After a heat wave, plants retain histone marks at heat shock protein (HSP) gene loci that enable faster induction of these protective proteins during subsequent heat events.
-
-The duration of this memory varies from days to weeks depending on the species and the severity of the initial stress. More intense initial stress tends to produce longer-lasting memory.
-
-## Habituation and Sensitization
-
-Plants exhibit behavioral phenomena analogous to animal learning. Repeated mechanical stimulation leads to habituation, a diminished response to the same stimulus.
-
-*[[tompkins-mimosa-pudica-sensitive-plant-experiments]]* plants that are repeatedly touched eventually stop folding their leaves, a response that recovers after a period of rest. This habituation is not due to fatigue but represents a genuine learned reduction in sensitivity.
+[[tompkins-mimosa-pudica-sensitive-plant-experiments]]* plants that are repeatedly touched eventually stop folding their leaves, a response that recovers after a period of rest. This habituation is not due to fatigue but represents a genuine learned reduction in sensitivity.
 
 Conversely, sensitization occurs when exposure to one stimulus enhances the response to a different stimulus.
 
 Plants exposed to herbivore damage become more sensitive to subsequent mechanical stimulation, responding more vigorously to touch than undamaged plants.
 
-These forms of non-associative learning demonstrate that plant behavioral responses are not fixed reflexes but can be modifie [[fukuoka-textdoc-soil-rehabilitation-timeline-orchard-cover-crop-management]] tions for Agriculture and Evolution
-
-Plant memory has profound implications for [[mushroom-crop-management-flush-harvesting]] and breeding. Plants that have been stress-primed through controlled exposure to mild stressors may perform better under field conditions.
+These forms of non-associative learning demonstrate that plant behavioral responses are not fixed reflexes but can be modifie [[mushroom-crop-management-flush-harvesting]] and breeding. Plants that have been stress-primed through controlled exposure to mild stressors may perform better under field conditions.
 
 Seed treatments that induce priming are being developed as alternatives to chemical pesticides and fertilizers, offering a more sustainable approach to crop protection.
 
@@ -39,9 +29,7 @@ This has reignited philosophical debates about the nature of cognition and aware
 
 ## See Also
 
-- [[phytochrome-and-photoperiodism]]
-- systemic acquired resistance in plants
-- plant [[plant-olfaction-and-volatile-signaling]] organic compound signaling
+- [[plant-olfaction-and-volatile-signaling]] organic compound signaling
 - vernalization and flowering time control
 ## Practical Considerations
 
@@ -88,3 +76,75 @@ complexity of day-to-day management and observation activities.
 
 Ongoing developments in research and practice continue to expand our
 understanding and improve available approaches. New techniques, tools,
+
+## Overview
+
+Plant Memory Environmental Learning represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish plant memory environmental learning
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving plant extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Plant Memory Environmental Learning finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for plant memory environmental learning. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+plant memory environmental learning and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Plant Memory Environmental Learning has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of plant memory environmental learning into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions

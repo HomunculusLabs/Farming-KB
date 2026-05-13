@@ -11,10 +11,7 @@ sources:
 
 **Updated:** 2026-04-18
 
-Water-Soluble Potassium (WP) is a KNF mineral input extracted from tobacco stems. Potassium regulates water use, activates enzymes, facilitates photosynthate translocation, and is critical for fruit quality, disease resistance, and [[fungal-lichen-stress-tolerance-and-poikilohydry]].
-
-## Source
-Master Cho's Korean [[comparison-natural-farming-vs-permaculture]] Recipe Book
+Water-Soluble Potassium (WP) is a KNF mineral input extracted from tobacco stems. Potassium regulates water use, activates enzymes, facilitates photosynthate translocation, and is critical for fruit quality, disease resistance, and [[comparison-natural-farming-vs-permaculture]] Recipe Book
 
 ## Functions of Potassium in Plants
 
@@ -66,12 +63,8 @@ Master Cho's Korean [[comparison-natural-farming-vs-permaculture]] Recipe Book
 This is critical: if WP is applied with nitrogen in hot and humid conditions, or on a rainy day, a synergy effect occurs that helps the plant absorb excessive nitrogen, resulting in overgrowth. Avoid applying WP:
 - On rainy days
 - During hot, humid weather
-- In combination with nitrogen-rich inputs like [[water-soluble-calcium-wca]] -- calcium (often used in alternation)
-- [[water-soluble-calcium-phosphate-wcp]] -- calcium + phosphorus from bones
-- [[knf-water-soluble-potassium-wsk]]
-
+- In combination with nitrogen-rich inputs like [[water-soluble-calcium-phosphate-wcp]] -- calcium + phosphorus from bones
 - [[water-soluble-phosphoric-acid-wpa]]
-- [[knf-reproductive-growth-stage]]
 - [[knf-soil-and-mineral-management]]
 ## Practical Considerations
 
@@ -118,8 +111,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[master-cho]]
 - [[permaculture]]
-- [[knf-water-soluble-phosphoric-acid-detailed]]
 - [[knf-water-soluble-potassium-wsk]]
 - [[knf-water-soluble-potassium-functions]]

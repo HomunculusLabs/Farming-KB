@@ -21,27 +21,11 @@ Mulch attracts and retains soil moisture and suppresses weeds. Mulch
 is a layer of decomposing foliage, straw, grass clippings, weeds, and
 other organic materials, or paper, rocks, plastic, and other materials
 laid around plants. Proper mulching is one of the most important
-practices for successful outdoor [[query-how-does-no-till-cannabis-cultivation-work]].
-
-## Benefits of Mulching
-
-Mulch provides multiple benefits to outdoor cannabis gardens:
-
-- **Moisture Retention**: A thick layer of mulch prevents soil
-  moisture from evaporating, reducing the need for frequent watering.
-  This is especially critical in remote or guerrilla gardens.
-
-- **[[hamilton-geoffhamilton-nick-organic-gardening-mulching-and-weed-suppression]]**: Mulch blocks sunlight from reaching weed
+practices for successful outdoor [[hamilton-geoffhamilton-nick-organic-gardening-mulching-and-weed-suppression]]**: Mulch blocks sunlight from reaching weed
   seeds, preventing germination and growth. This reduces competition
   for water and nutrients.
 
-- **Soil [[blesching-cannabis-fever-temperature-regulation]]**: Mulch insulates soil from extreme
-  temperature fluctuations, keeping roots cooler in summer heat.
-
-- **Soil Improvement**: Organic mulches decompose over time, adding
-  humus and nutrients to the soil while improving structure.
-
-- **[[dighton-fungal-roles-soil-erosion-prevention]]**: Mulch protects topsoil from wind and water
+- **Soil [[dighton-fungal-roles-soil-erosion-prevention]]**: Mulch protects topsoil from wind and water
   erosion on sloped terrain.
 
 ## Types of Mulch
@@ -71,8 +55,7 @@ mulch covering to hold it in place.
 
 ### Black Plastic
 
-Black [[jadam-plastic-mulch-problems]] conserves moisture and suppresses weeds
-effectively. Cover the entire [[garden-bed-designs]] with black plastic and cut
+Black [[garden-bed-designs]] with black plastic and cut
 holes through which seedlings are planted. A soaker hose can be laid
 underneath the plastic to irrigate. Make sure to cut large enough holes
 so that plant stems do not touch the plastic. Black plastic gets very
@@ -117,8 +100,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[outdoor-cannabis-growing]]
 - [[cervantes-moisture-meters-watering-technique]]
-- [[cervantes-outdoor-vertebrate-pest-control]]
 - [[cervantes-outdoor-soil-types-clay-sand-loam]]
 - [[cervantes-wind-protection-outdoor-cannabis]]

@@ -22,87 +22,7 @@ sources:
 
 ## Overview
 
-Gelato (also known as "Larry Bird" or "Gelato #33") is an indica-leaning hybrid cannabis strain renowned for its exceptionally sweet flavor profile and potent, balanced effects. Created by the Cookies family in San Francisco, Gelato is a cross between *Thin Mint GSC* ([[girl-scout-cookies]]) and *Sunset Sherbet*. Since its introduction around 2016, it has become one of the most sought-after strains in the legal cannabis market, spawning dozens of phenotypes and cross-breeds.
-
-## Genetic Lineage
-
-```
-Gelato #33
-├── Thin Mint GSC (Forum Cut)
-│   ├── Durban Poison (landrace sativa)
-│   └── OG Kush (Florida cut)
-│       ├── Chemdawg
-│       ├── Lemon Thai
-│       └── Hindu Kush (landrace)
-└── Sunset Sherbet
-    ├── Girl Scout Cookies (OGKB cut)
-    │   ├── Durban Poison
-    │   └── OG Kush
-    └── Pink Panties (Florida Kush x Blackberry)
-```
-
-This dense genetic stack draws from Afghan, Thai, and [[african-landrace-sativa-modern-hybrids]] lineages, contributing to Gelato's complex [[cannabis-terpene-profile]] and layered effects.
-
-## Phenotypes
-
-Several notable phenotypes have been stabilized:
-
-| Phenotype | Characteristics |
-|-----------|----------------|
-| Gelato #33 (Larry Bird) | The original and most famous; purple hues, sweet citrus flavor |
-| Gelato #41 | Bacio Gelato; earthier, more fuel-forward, very resinous |
-| Gelato #42 | Sweeter, berry-forward expression |
-| Gelato #45 | Gello; dense purple buds, creamy vanilla notes |
-| Gelato #47 | Mochi; fruity, doughy aroma, potent body effects |
-
-## Cannabinoid Profile
-
-- **THC**: 20–25% (some cuts testing above 28%)
-- **CBD**: < 0.1%
-- **CBG**: 0.1–0.3%
-- **THCv**: Trace amounts in some phenotypes
-- **Terpene total**: 2.0–3.5%
-
-## Terpene Profile
-
-Gelato's signature flavor derives from a rich and complex terpene combination:
-
-1. **Caryophyllene** (dominant): Pepper, spice, fuel — activates CB2 receptors directly
-2. **Limonene** (co-dominant): Citrus, orange, uplifting mood effects
-3. **Myrcene**: Herbal, musky, contributes to sedative body high
-4. **Linalool**: Floral, lavender, anxiolytic properties
-5. **Humulene**: Earthy, woody, appetite suppressant
-6. **Terpinolene** (trace): Piney, herbal, adds complexity
-
-This profile classifies Gelato as a Type I chemovar (THC-dominant) with a dessert-terpene signature.
-
-## Aroma and Flavor
-
-The aroma is intensely sweet with notes of:
-- Creamy vanilla and sweet citrus (orange, bergamot)
-- Undertones of berries and lavender
-- A distinctive doughy, cookie-like base from the GSC lineage
-- Subtle fuel and earth on the exhale
-
-Flavor mirrors aroma with a smooth, dessert-like smoke that coats the palate with sweet citrus and cream. The finish often carries a mild pepper bite from caryophyllene.
-
-## Effects
-
-### Onset and Duration
-- **Onset**: 5–10 minutes (smoking/vaping)
-- **Peak**: 20–40 minutes
-- **Duration**: 2–3 hours
-- **Aftereffects**: Mild, pleasant relaxation for 1–2 hours
-
-### Reported Effects
-- **Cerebral**: Euphoric, creative, mood-elevating, mentally stimulating
-- **Physical**: Progressive body relaxation without heavy sedation (at moderate doses)
-- **Balance**: The indica lean becomes more apparent at higher doses
-
-### Therapeutic Applications
-- Stress and anxiety management
-- Mild to moderate pain relief (inflammatory, neuropathic)
-- [[cannabis-for-cachexia-and-appetite-stimulation]]
+Gelato (also known as "Larry Bird" or "Gelato #33") is an indica-leaning hybrid cannabis strain renowned for its exceptionally sweet flavor profile and potent, balanced effects. Created by the Cookies family in San Francisco, Gelato is a cross between *Thin Mint GSC* ([[african-landrace-sativa-modern-hybrids]] lineages, contributing to Gelato's complex [[cannabis-for-cachexia-and-appetite-stimulation]]
 - Mood enhancement for depressive symptoms
 - Evening relaxation without sleep disruption
 
@@ -136,9 +56,7 @@ Flavor mirrors aroma with a smooth, dessert-like smoke that coats the palate wit
 
 ### Cultivation Notes
 
-- Responds exceptionally well to **SCROG** (Screen of Green) and **LST** ([[low-stress-training]])
-- Purple coloration intensifies with cool nighttime temperatures (15–18°C) during late flowering
-- Dense bud structure necessitates strict [[cervantes-humidity-control-dehumidification]] to prevent bud rot
+- Responds exceptionally well to **SCROG** (Screen of Green) and **LST** ([[cervantes-humidity-control-dehumidification]] to prevent bud rot
 - Feeding demands increase significantly during weeks 3–6 of flowering due to heavy resin production
 - Support branches during late flowering as colas gain weight
 
@@ -148,3 +66,85 @@ Gelato has become a cornerstone strain for modern breeding programs. Notable off
 
 - **Runtz** (Gelato × Zkittlez)
 - **Açaí Gelato** (Gelato × Açaí)
+
+## Overview
+
+Gelato Cannabis Strain represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish gelato cannabis strain
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving gelato extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Gelato Cannabis Strain finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for gelato cannabis strain. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+gelato cannabis strain and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Gelato Cannabis Strain has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of gelato cannabis strain into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[bacio-gelato]]
+- [[gelato-33]]

@@ -29,21 +29,7 @@ sources:
 
 **Capsicum annuum** is a flowering plant species in the nightshade family Solanaceae, native to the Americas, and one of the most widely cultivated spice and vegetable crops globally.
 
-The species encompasses an enormous diversity of cultivars, ranging from sweet bell peppers (0 SHU) to extremely hot [[query-how-to-grow-chili-peppers-from-seed-to-harvest]] such as cayenne and Thai bird's eye (30,000-100,000 SHU).
-
-The pungency of C. annuum is primarily attributed to capsaicin and related capsaicinoids, which activate the TRPV1 receptor and have documented analgesic, anti-inflammatory, metabolic, and cardiovascular pharmacological effects.
-
-C. annuum is among the oldest domesticated plants in the Americas, with archaeological evidence of cultivation dating back over 6,000 years in Mexico.
-
-## Taxonomy
-
-- **Kingdom:** Plantae — **Clade:** Tracheophytes — **Clade:** Angiosperms
-- **Clade:** Eudicots — **Clade:** Asterids — **Order:** Solanales
-- **Family:** Solanaceae — **Genus:** Capsicum — **Species:** C. annuum L.
-
-**Authority:** Carl Linnaeus, *Species Plantarum* (1753)
-
-**Synonyms:** [[candida-albicans]]* is also documented. These properties contributed to traditional use as food preservatives.
+The species encompasses an enormous diversity of cultivars, ranging from sweet bell peppers (0 SHU) to extremely hot [[candida-albicans]]* is also documented. These properties contributed to traditional use as food preservatives.
 
 ### Cardiovascular Benefits
 Regular consumption is associated with reduced platelet aggregation, improved endothelial function, and lower blood pressure.
@@ -58,13 +44,7 @@ Regular consumption is associated with reduced platelet aggregation, improved en
 **Spacing:** 30-60 cm between plants depending on cultivar.
 **Harvest:** 60-90 days from transplanting. Harvest green or allow full ripening (sweeter, higher carotenoids).
 **Yield:** 1-3 kg per plant depending on cultivar and conditions.
-**Pests:** Aphids, flea beetles, pepper weevils. Companion with [[ocimum-basilicum]].
-
-## Permaculture and Companion Planting
-
-**Companion planting benefits:**
-
-- **Basil:** Improves pepper flavor and deters aphids and [[cervantes-spider-mites-identification-control]].
+**Pests:** Aphids, flea beetles, pepper weevils. Companion with [[cervantes-spider-mites-identification-control]].
 - **Marigolds:** Repel nematodes in soil.
 - **Tomatoes:** Share similar growing requirements (but avoid planting too close to reduce competition).
 - **Carrots and onions:** Good understory companions that occupy different root zones.
@@ -86,10 +66,85 @@ Regular consumption is associated with reduced platelet aggregation, improved en
 - **Serrano:** Hot (10,000-23,000 SHU), smaller than jalapeño, used fresh.
 ## Related Species
 
-- **[[capsicum-baccatum]]:** Ají amarillo, [[chiric-caspi-brunfelsia-south-american-hallucinogen]], distinctive fruity flavor.
+- **[[chiric-caspi-brunfelsia-south-american-hallucinogen]], distinctive fruity flavor.
 - **Capsicum pubescens:** Rocoto pepper, high-altitude Andean species, black seeds.
 
 ## See Also
 
 - tagetes-erecta-entity — Marigold, companion plant for nematode deterrence
 - [[ocimum-basilicum]] — Basil, companion plant that improves pepper flavor
+
+## Overview
+
+Capsicum Annuum represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish capsicum annuum
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving capsicum extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Capsicum Annuum finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for capsicum annuum. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+capsicum annuum and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Capsicum Annuum has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of capsicum annuum into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and

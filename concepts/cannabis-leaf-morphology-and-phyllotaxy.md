@@ -11,16 +11,9 @@ type: concept
 
 # Cannabis Leaf Morphology and Phyllotaxy
 
-Cannabis leaf morphology is one of the most visually [[metzner-three-distinctive-features-shamanic-entheogenic-ceremonies]] of the
-genus and serves as a primary identifier for the plant. The leaves of Cannabis
-sativa are compound and palmate, meaning they consist of multiple leaflets
-radiating from a single point at the end of the petiole (leaf stem). This
-characteristic fan shape is immediately recognizable and varies in complexity
-throughout the [[bloomfield-fungal-life-cycle-spiral-versus-circle]] of the plant. Understanding leaf morphology and
+Cannabis leaf morphology is one of the most visually [[bloomfield-fungal-life-cycle-spiral-versus-circle]] of the plant. Understanding leaf morphology and
 phyllotaxy (the arrangement of leaves on the stem) is essential for cultivators
-and breeders who wish to identify [[cannabis-landrace-strains]]. Some strains produce very
-coarsely serrated leaflets while others have fine, closely spaced teeth. This
-trait can be used as a diagnostic character in [[clarke-marijuana-botany-flowering-and-photoperiodism]]
+and breeders who wish to identify [[clarke-marijuana-botany-flowering-and-photoperiodism]]
 has been initiated.
 
 ## Leaf Shape Genetics: Webbed vs. Compound-Pinnate
@@ -50,13 +43,7 @@ ratio that helps breeders determine the genotype of parental plants.
 
 ## Leaf Traits as Breeding Markers
 
-Leaf morphology serves several practical purposes in [[oner-cannabis-breeding-fundamentals]] and
-cultivation. Leaf shape, size, serration pattern, and color are all visible
-phenotypic markers that can be tracked alongside more subtle traits like
-potency, aroma, and maturation time. Because leaf traits are often controlled
-by single gene pairs with clear dominance relationships, they provide
-accessible entry points for understanding the [[cannabis-glandular-trichome-types-resin-production-clarke]]
-- [[green-cannabis-grow-bible-plant-training-pruning-and-yield]]
+Leaf morphology serves several practical purposes in [[cannabis-glandular-trichome-types-resin-production-clarke]]
 - [[cannabis-chemotype-classification-cannabinoid-breeding]]
 
 ## Practical Considerations
@@ -89,36 +76,8 @@ communities, and systematic experimentation to build expertise.
 - Understanding these processes enables more targeted and effective interventions.
 
 ## See Also
-- [[cannabis-sativa-morphology-and-plant-architecture]]
 - [[jadam-humus-soil-and-leaf-mold-distinction]]
-- [[mckenna-cannabis-cultural-style-and-feminine-plant]]
 - [[cannabis-root-rot-prevention-and-treatment]]
-- [[cannabis-dosing-and-titration]]
-
-## Practical Applications
-
-The principles and techniques discussed here have wide-ranging applications
-across multiple disciplines and contexts. Practitioners and researchers
-continue to explore new ways to integrate these concepts into modern practice,
-adapting traditional knowledge to contemporary challenges and opportunities.
-
-## Key Considerations
-
-Several important factors influence the effectiveness and outcomes described
-in this topic. Understanding these considerations helps practitioners make
-informed decisions and avoid common pitfalls. Environmental conditions,
-timing, and material selection all play critical roles.
-
-## Common Challenges
-
-Practitioners frequently encounter several challenges when working with
-these concepts. Climate variability, resource limitations, and knowledge
-gaps can all affect outcomes. Addressing these challenges requires patience,
-observation, and a willingness to adapt approaches based on results.
-
-## See Also
 - [[doc]]
-- [[dom]]
 - [[det]]
-- [[photoperiodism]]
 - [[cannabis-sativa-morphology-and-plant-architecture]]

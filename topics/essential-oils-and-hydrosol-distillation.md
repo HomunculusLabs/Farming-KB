@@ -1,6 +1,6 @@
 ---
 title: "Essential essential oils and hydrosol distillation Distillation"
-subtitle: "A comprehensive guide to extracting aromatic plant compounds through [[comparison-steam-distillation-vs-co2-extraction-for-essential-oils]]"
+subtitle: "A comprehensive guide to extracting aromatic plant compounds through comparison-steam-distillation-vs-co2-extraction-for-essential-oils"
 tags: [essential-oils, hydrosols, distillation, aromatic-plants, herbalism, herbal-medicine]
 date: 2026-04-28
 updated: 2026-04-28
@@ -39,8 +39,7 @@ movement toward small-scale and community-based production.
 
 ## The Chemistry of Essential Oils
 
-Essential oils are complex mixtures of [[fungal-volatile-organic-compounds-communication]] compounds
-biosynthesized by plants as [[antifungal-secondary-metabolites-coprophilous-fungi]].
+Essential oils are complex mixtures of [[antifungal-secondary-metabolites-coprophilous-fungi]].
 
 Unlike primary metabolites (proteins, carbohydrates, lipids),
 secondary metabolites are not directly involved in growth or
@@ -59,19 +58,7 @@ Monoterpenes like limonene and pinene are light, sharp, and
 highly volatile — they evaporate quickly and tend to be
 antimicrobial and energizing.
 
-Sesquiterpenes like [[beta-caryophyllene-dietary-cannabinoid]] and bisabolol are heavier,
-with deeper, warmer aromas and pronounced anti-inflammatory
-properties.
-
-Esters like linalyl acetate are fruity, calming, and generally
-well-tolerated by sensitive skin.
-
-Phenols like thymol and carvacrol are powerfully antimicrobial
-but can be skin irritants at high concentrations.
-
-The specific ratio of these compounds determines an essential
-oil's therapeutic profile, and this ratio varies significantly
-based on species, chemotype, growing conditions, [[cannabis-harvest-timing-visual-cues]],
+Sesquiterpenes like [[cannabis-harvest-timing-visual-cues]],
 and distillation parameters.
 
 This is why rosemary from Spain (high in camphor) smells and
@@ -103,37 +90,7 @@ water — where it condenses back into liquid form.
 
 The resulting liquid separates into two layers: the essential oil
 (lighter than water in most cases) floats on top, while the
-hydrosol (water saturated with [[water-soluble-calcium-phosphate-wcp]] plant compounds and
-trace oil) sits below.
-
-A few oils — notably clove, wintergreen, and vetiver — are denser
-than water and sink to the bottom.
-
-The Florentine flask, a specialized separatory vessel, is
-designed to capture both fractions simultaneously during
-distillation.
-
-The entire process typically takes 30 minutes to 4 hours
-depending on the plant material, still size, and desired quality.
-
-Longer distillation times extract more oil but also pull
-increasing amounts of non-volatile compounds and water-soluble
-plant material into the distillate, potentially reducing quality.
-
-Most professional distillers terminate the run when the oil drip
-rate drops below a threshold or when the hydrosol begins to
-taste bitter or flat.
-
-## Alternative Extraction Methods
-
-While steam distillation is by far the most common method, several
-alternatives exist for specific applications.
-
-Hydrodistillation submerges the plant material directly in water
-## See Also
-
-- [[permaculture-designers-manual-essential-oil-plants]]
-- [[medicinal-herb-growing]]
+hydrosol (water saturated with [[permaculture-designers-manual-essential-oil-plants]]
 - [[comparison-steam-distillation-vs-co2-extraction-for-essential-oils]]
 
 ## References

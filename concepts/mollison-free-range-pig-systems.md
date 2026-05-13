@@ -76,14 +76,9 @@ both tropical and cooler areas:
 
 Tropical trees: mulberry, Bunya pine, fig, Inga edulis,
 various palms (Chilean wine palm, Jagua, Burt, Babassu, Assai,
-oil palm, [[permaculture-date-palm-guide]], coconut), oaks, chestnuts, breadfruit,
-jak fruit, Prosopis, Chinese tallow tree.
+oil palm, [[permaculture-honey-locust-pod-fodder-system]], carob, chestnut, chinquapin, rain tree.
 
-Cooler area trees: mulberry, olive, Chilean wine palm, canary
-date palm, oaks (especially white oak, cork oak, turkey oak),
-[[permaculture-honey-locust-pod-fodder-system]], carob, chestnut, chinquapin, rain tree.
-
-[[permaculture-plants-root-crops-and-tubers]]: cattails, arrowroot, [[comparison-jerusalem-artichoke-vs-potato]], comfrey,
+[[comparison-jerusalem-artichoke-vs-potato]], comfrey,
 yams, taro, [[comparison-cassava-vs-taro-vs-sweet-potato-vs-yam]], cassava, elephant-foot yam, Maranta.
 
 ## The Pig Tractor System

@@ -13,7 +13,7 @@ Updated: 2026-04-18
 
 ## Overview
 
-Casing is the practice of covering the colonized substrate surface with a layer of moist material having specific structural characteristics. Developed by Agaricus growers who found that [[bloomfield-mushroom-formation-fruiting-body-development-cultivation]] was stimulated by covering their compost with such a layer, casing has become an integral part of [[duggar-mushroom-growing-history-and-methods]] methodology. It encourages fruiting and enhances yield potential in many, but not all, cultivated mushroom species.
+Casing is the practice of covering the colonized substrate surface with a layer of moist material having specific structural characteristics. Developed by Agaricus growers who found that [[duggar-mushroom-growing-history-and-methods]] methodology. It encourages fruiting and enhances yield potential in many, but not all, cultivated mushroom species.
 
 ## Casing Requirements by Species
 
@@ -37,7 +37,7 @@ In all species where casing is optional, yields are clearly enhanced with its ap
 ## Functions of the Casing Layer
 
 1. **Protects from drying**: Mushroom mycelium is extremely sensitive to dry air. The casing layer shields the exposed cropping surface.
-2. **Provides humid microclimate**: The casing is where mycelium develops an extensive network supporting [[growing-gourmet-primordia-formation-pinning]] and [[pf-tek-mushroom-growth-timeline]].
+2. **Provides humid microclimate**: The casing is where mycelium develops an extensive network supporting [[pf-tek-mushroom-growth-timeline]].
 3. **Water reservoir**: Enlargement of pinheads into mature mushrooms is strongly influenced by available water. The casing supplies this for heavy flushes.
 4. **Supports beneficial microorganisms**: Select groups of bacteria (especially Pseudomonas putida) in the casing result in increased primordia formation, earlier cropping, and higher yields.
 

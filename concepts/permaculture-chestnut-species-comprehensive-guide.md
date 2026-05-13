@@ -13,7 +13,7 @@ created: 2026-05-11
 Chestnuts (*Castanea* spp.) are long-lived, deciduous, drought-resistant trees in the
 family **Fagaceae**, closely related to oaks. They are among the most productive
 nut-bearing trees for temperate permaculture systems, providing staple carbohydrate
-yields alongside timber, [[hemenway-backyard-wildlife-habitat]], and [[biodiversity-of-fungi-ecosystem-services-agriculture]].
+yields alongside timber, [[biodiversity-of-fungi-ecosystem-services-agriculture]].
 
 Chestnuts thrive on **well-drained, preferably light soils** with fair lime tolerance.
 They **cannot withstand salinity** and perform poorly on waterlogged ground. By year 10,
@@ -50,16 +50,7 @@ North America as a blight-resistant alternative to *C. dentata*.
 
 ### Castanea dentata — American Chestnut
 
-Once the **major deciduous tree of [[polypore-fungi-eastern-north-america]]**, devastated by the introduced
-bark fungus (*Cryphonectria parasitica*) in the early 1900s. Few mature specimens
-survive. Produced the **sweetest nuts** of all species. Seed is still available from
-blight-free areas, and restoration breeding programs continue.
-
-### Castanea alnifolia — Downy Chinquapin
-
-Native to the **southeastern United States**. Forms a small tree or multi-stemmed
-clumps from underground stems. Produces small nuts of **good quality**, suited for
-understory planting, hedgerows, [[mollison-permaculture-two-arid-water-harvesting-and-erosion-control]] on marginal sites.
+Once the **major deciduous tree of [[mollison-permaculture-two-arid-water-harvesting-and-erosion-control]] on marginal sites.
 
 ### Castanea henryi — Henry Chestnut
 
@@ -112,14 +103,7 @@ reliable year-round calorie source in permaculture systems.
   and microclimate moderation for lower layers
 - **Shrub layer integration:** Smaller species (pumila, alnifolia, seguinii) fill
   understory niches without competing with canopy trees
-- **[[coppice-and-pollard-systems]] systems:** Crenata and sativa respond well to rotational
-  cutting, yielding both fuelwood and nuts from the same plants
-- **Wildlife habitat:** Nuts feed birds and mammals; cavities provide nesting; foliage
-  supports browse for deer and livestock
-- **Drought resilience:** Highly drought-tolerant once established, suitable for
-  climate-adapted plantings
-- **Soil improvement:** Deep leaf litter contributes to humus formation, improving
-  water retention [[mollison-designers-fish-pond-fertiliser-and-nutrient-cycling]] on light soils
+- **[[mollison-designers-fish-pond-fertiliser-and-nutrient-cycling]] on light soils
 
 ## Timber Value
 
@@ -142,8 +126,6 @@ establishment significantly boosts early growth and yield.
 
 ## See Also
 
-- [[permaculture-vine-crops]] — Overview of tree crops in permaculture design
-- food forest permaculture — Layered planting strategy for food forests
 - [[mollison-goats-and-browsing-systems-in-permaculture]] — Management of coppiced woodlands
 - [[comparison-berry-growing-vs-fruit-tree-pruning]] — Yield and suitability comparison of nut species
 - permaculture agroforestry — Integrating trees with agriculture

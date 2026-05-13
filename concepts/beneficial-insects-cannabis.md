@@ -11,13 +11,7 @@ tags: [cannabis]
 
 # Beneficial Insects for Cannabis Pest Control
 
-[[fukuoka-textdoc-biological-control-fallacy-pheromone-critique]] using predators and parasites is a cornerstone of [[aphids-cannabis]] (primary target), mealybugs, [[aphids-cannabis]].
-
-- **Target pests**: [[thrips-cannabis]], [[spider-mites-cannabis]], the most common and destructive cannabis pest. Several species are commercially available:
-
-### Phytoseiulus persimilis
-
-One of the most common and effective spider mite predators. A specialist predator that feeds almost exclusively on [[cervantes-spider-mites-identification-control]].
+[[aphids-cannabis]] (primary target), mealybugs, [[thrips-cannabis]], [[cervantes-spider-mites-identification-control]].
 
 ### Neoseiulus (Amblyseius) californicus
 
@@ -29,44 +23,11 @@ Another effective specialist predator of spider mites, commonly used alongside N
 
 ### Other Predatory Mites
 
-For [[whiteflies-cannabis]].
-
-- **Target**: Whiteflies exclusively -- the wasps do not sting people
-- **Mechanism**: The female wasp lays an egg inside the whitefly larva. The egg hatches and the parasitoid larva eats the whitefly larva alive from the inside out. Death is slow but thorough.
-- **Application rate**: Release two or more parasites per plant
-- **Release timing**: As soon as the first whitefly is detected
-- **Repeat interval**: Every two to four weeks throughout the life of the plants
-- **Note**: Because it is a parasite rather than a predator, it takes longer to control whitefly populations, but it hunts more persistently until the prey is nearly eliminated
-
-The fungus Verticillium lecanii (trade name Mycotal) is also effective against whiteflies and can be used alongside Encarsia releases.
-
-## Release Timing and Best Practices
-
-### When to Release
-
-- Introduce beneficials as early as possible -- preventative releases are more effective than responsive ones
-- Predators and parasites survive best in gardens that are not sterilized between crops
-- Gardens with perpetual harvests are ideal for maintaining beneficial insect populations
-
-### Shipping and Handling
-
-- Beneficials are shipped special delivery and may arrive separately from regular mail
-- Pick up immediately -- do not let them sit in a hot mailbox (temperatures can reach 120F / 49C)
-- Most predators are very small and must be introduced to each plant individually
-- This takes time and patience
-
-### Compatibility with Sprays
-
-- Stop all toxic chemical sprays at least two weeks before introducing predators and parasites
-- [[neem-oil-cannabis]] for cautions about neem oil toxicity to beneficial insects
+For [[neem-oil-cannabis]] for cautions about neem oil toxicity to beneficial insects
 
 ### Environmental Requirements
 
-Predators have very specific climatic requirements for [[greg-green-temperature-and-humidity-control]]. Before purchasing, confirm with the supplier:
-
-1. Latin name of the predator (to ensure correct identification)
-2. Specific pests attacked
-3. Complete [[bloomfield-fungal-life-cycle-spiral-versus-circle]] information
+Predators have very specific climatic requirements for [[bloomfield-fungal-life-cycle-spiral-versus-circle]] information
 4. Preferred climate (temperature and humidity range)
 5. Application rate and mode of application
 
@@ -109,8 +70,81 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[doc]]
 - [[det]]
-- [[neem]]
 - [[verticillium-lecanii]]
 - [[comparison-beneficial-insects-guide-vs-integrated-pest-management]]
+
+## Overview
+
+Beneficial Insects Cannabis represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish beneficial insects cannabis
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving beneficial extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Beneficial Insects Cannabis finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for beneficial insects cannabis. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+beneficial insects cannabis and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Beneficial Insects Cannabis has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of beneficial insects cannabis into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and

@@ -8,7 +8,7 @@ type: concept
 
 ## Overview
 
-Anaconda sorcery and supernatural pregnancy constitute a significant class of spiritual illness within the Shipibo-Conibo and broader [[amazonian-vegetalista-shamanism-degrees-and-hierarchy]] healing traditions, as documented by [[pablo-amaringo]] in *Ayahuasca Visions*. The central phenomenon—**boa chichuchishca** (literally "begot by a boa")—describes a condition in which a woman is supernaturally impregnated by an anaconda through sorcerous means. This malady sits at the intersection of [[sananga-eye-medicine-amazonian-ethnobotany]], animistic cosmology, and the ceremonial practices of the *vegetalista* (plant healer), involving a complex ecosystem of spirit allies, botanical remedies, and [[icaros]] (healing songs).
+Anaconda sorcery and supernatural pregnancy constitute a significant class of spiritual illness within the Shipibo-Conibo and broader [[pablo-amaringo]] in *Ayahuasca Visions*. The central phenomenon—**boa chichuchishca** (literally "begot by a boa")—describes a condition in which a woman is supernaturally impregnated by an anaconda through sorcerous means. This malady sits at the intersection of [[icaros]] (healing songs).
 
 Amaringo's Visions 32, 33, and 34—titled "Pregnant by an Anaconda," "Campana Ayahuasca," and "Maituch Iscami" respectively—form a triptych that explores sorcery, healing, and the restoration of magical power from complementary angles. Together they reveal a cosmological framework in which serpent spirits operate as both agents of illness and catalysts for the healer's development of mastery.
 
@@ -16,25 +16,7 @@ Amaringo's Visions 32, 33, and 34—titled "Pregnant by an Anaconda," "Campana A
 
 ### Etiology and Mechanism
 
-The term *boa chichuchishca* derives from the Quechua-influenced Amazonian Spanish, meaning "begot by a boa" or "conceived by a boa," and belongs to a wider complex of [[amazonian-sorcery-illness-and-curing-practices]]. According to the tradition, the malady originates when a menstruating woman leaves her wet underwear in a canoe at the riverside without wringing it out. In Amazonian sorcery belief, menstrual blood carries potent spiritual energy that can attract malevolent entities. The boa—understood not merely as a physical animal but as a powerful spirit being—detects this residue, places itself upon the garments, and excretes something living into them. This living substance is subsequently transferred to the woman's body, where it gestates within her womb as a supernatural pregnancy.
-
-The condition is understood as a form of *susto*-linked sorcery, where violation of taboos around bodily fluids creates an opening for spirit intrusion. The anaconda in Amazonian cosmology is one of the most feared sorcery animals, associated with water, the underworld, and transformation. Its ability to supernaturally impregnate a human reflects its status as a liminal being capable of crossing boundaries between species and planes of existence. The boa's power is not random but deliberate—an act of sorcery requiring specific conditions (the presence of menstrual residue, proximity to water) to execute.
-
-### Symptoms and Recognition
-
-Women afflicted by boa chichuchishca experience symptoms resembling those of actual pregnancy—abdominal swelling, nausea, and a sense of something growing within. However, the condition is recognized by the vegetalista through spiritual diagnosis during an ayahuasca ceremony, where the healer perceives the boa entity coiled within the patient's womb. The presence of the supernatural fetus is confirmed through visionary perception rather than conventional medical examination. Left untreated, the condition is believed to cause serious harm, including chronic illness, spiritual debilitation, and in severe cases, death.
-
-### The Boa as Sorcery Agent
-
-In Amazonian cosmology, the anaconda occupies a unique position among animal spirits. Unlike birds or mammals that serve primarily as messengers or omens, the boa is an active sorcerer capable of complex, intentional acts. Its association with water—the domain of life, death, and transformation—grants it access to the liminal spaces where the physical and spiritual worlds overlap. The boa's ability to impregnate a human woman reflects its mastery over boundaries: between species, between dimensions, and between the states of life and death. The father boa, referenced in the extraction narrative, represents an even more primordial serpent authority—a generative force whose hypnotic power can immobilize entire gatherings.
-
-## Treatment Protocol
-
-### Botanical Remedies
-
-The vegetalista's treatment of boa chichuchishca involves a carefully orchestrated combination of botanical preparations, icaros, and spirit invocation:
-
-1. **Jagua/Huito (*[[genipa-americana]]*)**: The fruit is cut in halves, scraped slightly, and prepared with warm water. Jagua is one of the most important plants in Amazonian healing, widely used for its antimicrobial and protective properties. The remedy is prepared while the healer sings numerous icaros over it, blowing on the preparation (*sopladura*) and imbuing it with *arkanas* (spiritual defenses or shields). The jagua preparation serves both as a physical purgative and as a spiritually charged vehicle for the healer's intention.
+The term *boa chichuchishca* derives from the Quechua-influenced Amazonian Spanish, meaning "begot by a boa" or "conceived by a boa," and belongs to a wider complex of [[genipa-americana]]*)**: The fruit is cut in halves, scraped slightly, and prepared with warm water. Jagua is one of the most important plants in Amazonian healing, widely used for its antimicrobial and protective properties. The remedy is prepared while the healer sings numerous icaros over it, blowing on the preparation (*sopladura*) and imbuing it with *arkanas* (spiritual defenses or shields). The jagua preparation serves both as a physical purgative and as a spiritually charged vehicle for the healer's intention.
 
 2. **Pucunucho (*Capsicum* sp.) and Rocoto**: These fiery pepper plants are used to stun or disorient the boa, exploiting the serpent's presumed sensitivity to intense botanical energies. Their application represents a principle common to many healing traditions—the use of opposing forces to neutralize a harmful entity. The capsaicin-containing plants create an internal environment hostile to the serpent spirit.
 
@@ -46,15 +28,7 @@ The icaros form the core of the healing process. The vegetalista calls upon spec
 
 - **Conmachaco**: A meandering serpent adorned with golden disks, summoned to help coax the boa from the womb. The conmachaco operates as a serpent of higher order—a spirit that can communicate with and command the invading boa through serpentine kinship.
 - **The Rainbow (*Kuychi*)**: Invoked as a bridging force between worlds, its spectrum of colors representing the full range of healing frequencies. The rainbow is a universal symbol in Andean and Amazonian cosmology, associated with the ancestor spirits and the connection between the lower, middle, and upper worlds.
-- **Icaros of Diamond, Gold, Silver, and Precious Stones**: These are sung to call upon the mineral spirits—embodiments of earth's crystalline energies that lend [[mycelium-running-rhizomorphic-mycelium-structural-strength-erosion-control]] and purity to the healing work. Each precious stone carries a distinct vibrational signature used to fortify the patient's defenses against the boa's residual influence.
-
-### The Achiapu and Microcosmic Warfare
-
-The *achiapu*—described as princes with spears—are spirit beings who serve as the vegetalista's warriors in the subtle realm. They destroy the microbes contained within the phlegm of the boa, addressing the infection at a microscopic spiritual level. This detail reveals a sophisticated understanding within the tradition that sorcery operates on multiple scales simultaneously—the macroscopic (the boa entity), the microscopic (microbes in phlegm), and the energetic (hypnotic influence). The achiapu's spears represent directed, piercing intention—spiritual weaponry capable of eliminating even the smallest traces of the sorcery.
-
-### Cosmic Oversight: The Spaceship from Aponia
-
-A striking element of the treatment is the involvement of a spaceship from the galaxy Aponia, which oversees the procedure to ensure the boa is not stronger than the vegetalista. This reflects the syncretic cosmology of [[harner-amazonian-ayahuasca-shamanism]], where indigenous animistic beliefs coexist with and incorporate extraterrestrial and interdimensional imagery. The Aponian spacecraft functions as a cosmic guarantor of the healer's authority, ensuring that the balance of power favors the curing side. Its presence suggests that even the most powerful terrestrial sorceries are subject to oversight from higher cosmic orders.
+- **Icaros of Diamond, Gold, Silver, and Precious Stones**: These are sung to call upon the mineral spirits—embodiments of earth's crystalline energies that lend [[harner-amazonian-ayahuasca-shamanism]], where indigenous animistic beliefs coexist with and incorporate extraterrestrial and interdimensional imagery. The Aponian spacecraft functions as a cosmic guarantor of the healer's authority, ensuring that the balance of power favors the curing side. Its presence suggests that even the most powerful terrestrial sorceries are subject to oversight from higher cosmic orders.
 
 ### The Extraction and the Father Boa's Hypnotism
 
@@ -104,14 +78,7 @@ The *huansi*, often mentioned alongside the mariri, represents the active healin
 
 ## Arkana: Spiritual Defenses
 
-The *[[arkana]]* is another key concept woven throughout these visions. Arkanas are invisible protective barriers or shields that the vegetalista installs around patients, remedies, and ceremonial spaces. They function as spiritual armor against counter-attacks from the sorcery entities being displaced. In the boa chichuchishca treatment, arkanas are placed into the jagua preparation itself, ensuring that the medicine carries its own protective field. Without arkanas, the healer risks having the sorcery redirect onto himself during the extraction process. The installation of arkanas is accomplished through specific icaros and breath, making them extensions of the healer's personal power.
-
-## Interconnections and Themes
-
-These three visions form a coherent body of knowledge about the relationship between sorcery, healing, and cosmic order in Amaringo's tradition:
-
-- **Invasion and extraction** (boa chichuchishca) represent the paradigm of sorcery as unwanted spiritual impregnation, countered by botanical and sonic medicine.
-- **Vibrational resonance** (campana ayahuasca) represents healing as restoration of harmonic frequency, with plant [[forest-spirits-and-subaquatic-world]] beings providing assistance.
+The *[[forest-spirits-and-subaquatic-world]] beings providing assistance.
 - **Energetic restoration** (maituch iscami) addresses the aftermath of sorcery—the twisting of one's innate magical capacities—and requires intervention at the highest level of the vegetalista hierarchy.
 
 Several cross-cutting themes emerge from this triptych. First, the importance of **hierarchy**—from the vegetalista to the sumiruna, from the boa to the father boa, from earthly spirits to cosmic overseers. Second, the role of **[[plant-response-to-sound-and-vibration]]** as primary healing media, whether through icaros, the campana, or the schacapa rattle. Third, the **syncretic breadth** of the tradition, which freely incorporates elements from Andean, Mesoamerican, and even extraterrestrial cosmologies into a unified healing framework.

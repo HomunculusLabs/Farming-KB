@@ -11,15 +11,11 @@ sources: [raw/papers/symbiotic-fungi.md]
 
 Updated: 2026-04-18
 
-Source: [[mycelium-running-symbiotic-fungi-relationships]] (Varma and Kharkwal, eds.), Chapters 19, 20
-
-## Introduction
-
-The application of quality assessment standards to [[comparison-soil-food-web-vs-arbuscular-mycorrhizal-fungi]] inoculum (AM) requires that the product is "fit for purpose." The product must meet or exceed the customer's requirements. Customers may define different quality characteristics for mycorrhizal inoculum: formulation, handling, weight, safety, functionality, or others. Only the application of all instruments of concurrent quality control procedures results in a traceable and reliable supply chain with the consequence of reliability of the whole product chain as basis for sustainability.
+Source: [[comparison-soil-food-web-vs-arbuscular-mycorrhizal-fungi]] inoculum (AM) requires that the product is "fit for purpose." The product must meet or exceed the customer's requirements. Customers may define different quality characteristics for mycorrhizal inoculum: formulation, handling, weight, safety, functionality, or others. Only the application of all instruments of concurrent quality control procedures results in a traceable and reliable supply chain with the consequence of reliability of the whole product chain as basis for sustainability.
 
 This pre-requisite prevents the customer from buying expensive, non-effective inoculum instead of high-quality AM inoculum.
 
-See also: mycorrhizal-inoculant-production-methods, [[techniques-arbuscular-mycorrhiza-inoculum-reduction]], [[pgpr-mycorrhizal-inoculants-microplant-establishment]], [[mycorrhizal-helper-bacteria]]
+See also: mycorrhizal-inoculant-production-methods, [[pgpr-mycorrhizal-inoculants-microplant-establishment]], [[mycorrhizal-helper-bacteria]]
 
 ### Field Application Considerations
 
@@ -29,7 +25,7 @@ When applying inoculum in the field:
 - Placement of inoculum near active root zones improves colonization
 ## Practical Applications
 
-Mycorrhizal Inoculum Production - Best Practices for Agriculture has a range of practical applications that make it relevant to
+[[mycorrhizal-inoculum-production]] - Best Practices for Agriculture has a range of practical applications that make it relevant to
 both researchers and practitioners. Understanding these applications
 requires familiarity with the underlying principles and their
 manifestation in real-world contexts. The breadth of applications

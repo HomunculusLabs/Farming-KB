@@ -30,37 +30,13 @@ decreased mobility.
 Arthritis has become the leading cause of disability in the U.S., with more
 than 46 million people suffering various forms of physical difficulties.
 
-[[fukuoka-eastern-western-medicine-healing-world-crisis]] claims little specific knowledge of the causes or cures of
-this ailment. However, more than one hundred different causes for arthritis are
-considered, including gout and scleroderma, and viral, bacterial, or fungal
-infections. Limited treatments focus on suppressing pain and/or diminishing
-inflammation flare-ups.
-
-One of the [[ascomycota-phylogeny-major-classes-lineages]] of pharmaceutical drugs for arthritis, non-steroidal
+[[ascomycota-phylogeny-major-classes-lineages]] of pharmaceutical drugs for arthritis, non-steroidal
 anti-inflammatory drugs (NSAIDs), can result in serious consequences and should
 be taken with caution. Each year 41,000 older adults are hospitalized from,
 and 3,300 of them die from ulcers caused by NSAIDs.
 
-## [[endocannabinoid-system-overview]]
-- [[cannabis-autoimmune-conditions-detailed]]
-- [[cannabis-chronic-pain-management]]
-## Practical Considerations
-
-When working with Cannabis for Arthritis (Blesching, Cannabis Health Index), several practical factors should be
-carefully considered to achieve optimal results. These include
-the specific conditions of the implementation context, available
-resources, timing requirements, and the interactions between this
-topic and other elements of the broader system. A holistic view
-that considers these interconnections produces better outcomes.
-
-Environmental conditions such as temperature, moisture, and
-seasonal patterns significantly influence results. Monitoring these
-variables and adapting practices accordingly is essential for success.
-The most effective practitioners develop keen observation skills and
-respond flexibly to changing conditions rather than following rigid
-protocols regardless of circumstances or local variation.
-
-[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
+## [[cannabis-autoimmune-conditions-detailed]]
+- [[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -111,8 +87,6 @@ through generations to modern scientific approaches, the evolution continues
 to inform current best practices and research directions.
 
 ## See Also
-- [[cannabis-health-index]]
 - [[doc]]
-- [[det]]
 - [[ascomycota]]
 - [[blesching-cannabis-rheumatoid-arthritis]]

@@ -8,74 +8,12 @@ sources: ["Shulgin - PIHKAL"]
 ---
 # ALEPH-4
 
-[[2c-b-pihkal-entry-20]] #5. 4-Isopropylthio-2,5-dimethoxy-A.
-
-## Dosage and Duration
-
-| Property | Value |
-|----------|-------|
-| Dosage | 7 - 12 mg. |
-| Duration | 12 - 20 h |
-
-## Qualitative Comments
-
-> (with 7 mg) Things started off going downhill,
-> initially negative with tension and depression, but as the momentum
-> developed, so did the positive effect. My discomfort continued to
-> develop, but I was struck by the visual beauty of the trees and the
-> small stream that flowed off the mountain. My experience continued to
-> grow, simultaneously, in both the negative and the positive direction.
-> Physically I was uncomfortable and found my breathing difficult, but I
-> acknowledged a rapture in the very act of breathing. All moved over
-> to the plus side with time, and the evening was gorgeous. I have
-> never seen the sky so beautiful. The only flaw was when I choked on
-> some lemonade and it seemed to me I almost drowned. I have been
-> extremely conscious of eating, drinking and swallowing ever since. I
-> barely slept the whole night and awoke extremely tired. I felt that
-> the experience continued for many days, and I feel that it is one of
-> the most profound and deep learning experiences I have had. I will
-> try it again, but will block out more time for it.
->
-> (with 8 mg) There was without question a plus two, but none of the
-> edges of unreality that are part of [[lsd]]. The sounds that are just
+[[lsd]]. The sounds that are just
 > outside of my hearing are intriguing, and distract me from the
 > eyes-closed imagery that is just barely possible with music while
 > lying down. But, going outside, there were no obvious sources of the
 > sounds that I heard. Could I drive? I suspect so. I took a shower
-> and did just that Q I drove to [[shipibo-san-francisco-ceremonial-center-ucayali]] without incident, and
-> walked amongst the many strange faces on the downtown streets.
->
-> (with 12 mg) The experience was very intense but completely under
-> control except for a twenty minute period right in the middle of it.
-> I had to get away from everything, from everyone. There was a sense
-> of being surrounded and moved in upon that was suffocating. I was
-> weighed down with everything Q physical, psychic, emotional. My
-> clothes had to come off, my hair had to be released, my shoes went, I
-> needed to move away from where I was, to somewhere else, to some new
-> place, any new place, with the hope that my other old place wouldn't
-> follow me. Pretty soon I found I was myself, I could breathe again,
-> and I was OK. Rather sheepishly, I dressed and rejoined the group.
-> The rest of the day was spectacular, but those few minutes were scary.
-> What if I couldn't have escaped?
->
-
-## Extensions and Commentary
-
-Again, there are hints and suggestions of
-complexities. These, and several other reports, suggest some sensory
-confusion, and interpretive aspects that are to some extent
-threatening. There is an underlying suggestion of body toxicity. I
-
-know of no experiment that exceeded 12 milligrams and I would not be
-able to predict what might come forth at higher dosages. I personally
-choose not to try them.
-
-## Synthesis
-
-A solution of 2.0 g
-2,5-dimethoxy-4-((i)-propylthio)benzaldehyde (see under 2C-T-4 for its
-synthesis) in 12 mL nitroethane was treated with 0.4 g anhydrous
-ammonium acetate and heated on the [[scythian-cannabis-steam-bath-ritual]] for 12 h, then allowed
+> and did just that Q I drove to [[scythian-cannabis-steam-bath-ritual]] for 12 h, then allowed
 to stir for another 12 h at room temperature. The excess
 solvent/reagent was removed under vacuum leaving a residue as a heavy
 deep orange two-phase oily mass. This was brought into one phase with
@@ -88,3 +26,88 @@ boiling 95% EtOH, filtering and air drying to constant weight, there
 was obtained 1.6 g of orange crystals with a mp of 99-100 deg C.
 
 A suspension of 1.0 g LAH in 100 mL warm THF was stirred under a N2
+
+## Overview
+
+Aleph 4 Entity Pihkal represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish aleph 4 entity pihkal
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving aleph extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Aleph 4 Entity Pihkal finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for aleph 4 entity pihkal. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+aleph 4 entity pihkal and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Aleph 4 Entity Pihkal has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of aleph 4 entity pihkal into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[aleph-1-entity]]
+- [[aleph-2-pihkal-entry-4]]
+- [[aleph-6-entity-pihkal]]
+- [[aleph-family-overview]]
+- [[aleph-pihkal-entry-3]]

@@ -11,7 +11,7 @@ tags: [cannabis]
 
 # Fungus Gnats on Cannabis
 
-Fungus gnats are small flying insects whose larvae (maggots) infest growing media and feed on cannabis roots. They are especially problematic in hydroponic systems with moist [[cervantes-growing-mediums-comparison]] and can cause significant root damage that invites secondary [[blesching-cannabis-fungal-infections-candida]]. While adult gnats are primarily a nuisance, their larvae can cause serious harm to the root system, and adult gnats that stick to resinous buds can contaminate the harvest.
+Fungus gnats are small flying insects whose larvae (maggots) infest growing media and feed on cannabis roots. They are especially problematic in hydroponic systems with moist [[blesching-cannabis-fungal-infections-candida]]. While adult gnats are primarily a nuisance, their larvae can cause serious harm to the root system, and adult gnats that stick to resinous buds can contaminate the harvest.
 
 ## Identification
 
@@ -62,32 +62,15 @@ Fungus gnats are small flying insects whose larvae (maggots) infest growing medi
 - **Secondary infection**: Root wounds invite wilt fungi like [Fusarium or [Pythium, especially if plants are nutrient-stressed and growing in soggy conditions
 - **Bud contamination**: Adult gnats stick to resinous buds, contaminating harvest and making finished product difficult to clean
 - **Growth reduction**: Damaged root systems cannot support normal growth rates
-- **[[cannabis-grow-nutrient-deficiency-problem-solving]] symptoms**: May appear as leaves yellow despite adequate [[ph-and-nutrient-availability-garden-soils]]
+- **[[ph-and-nutrient-availability-garden-soils]]
 
-Maggots prefer to consume dead or decaying soggy plant material and green algae, but will also feed on healthy root tissue when other food sources are depleted. The combination of direct root damage and secondary pathogen infection makes fungus gnats one of the most damaging below-ground pests in [[query-how-does-no-till-cannabis-cultivation-work]].
-
-## Cultural and Physical Control
-
-- **Avoid overwatering**: Do not let growing medium remain soggy — this is the single most important control measure
-- **Low ambient humidity**: Keep ambient humidity low to discourage adult activity and egg-laying
-- **Cover growing medium**: Cover the surface to prevent algae growth (a food source for larvae); use sand, perlite, or plastic barriers
-- **Yellow sticky traps**: Place horizontally 1-2 inches (3-6 cm) over growing medium to catch adults; check and replace regularly
-- **Sanitation**: Keep grow room clean and free of decaying plant material that could harbor larvae
-- **Proper drainage**: Ensure containers drain freely and no standing water accumulates in trays
-- **Sterile medium**: Use fresh, sterile growing medium for each crop
-
-## Organic Controls
-
-- **Neem oil**: Apply as a soil drench to kill larvae in the growing medium; effective but may require multiple applications
-- **Insecticidal soap**: Can be applied as a soil drench to the growing medium surface
-- **[[query-how-to-control-fungus-gnats-organically]]
+Maggots prefer to consume dead or decaying soggy plant material and green algae, but will also feed on healthy root tissue when other food sources are depleted. The combination of direct root damage and secondary pathogen infection makes fungus gnats one of the most damaging below-ground pests in [[query-how-to-control-fungus-gnats-organically]]
 - [[cervantes-fungus-gnats]]
 
 - [Root Rot — secondary fungal infection from gnat root damage
 - [Spider Mites — common concurrent pest in indoor gardens
 - [Thrips — another flying pest that can be monitored with sticky traps
 - cannabis pest management — comprehensive IPM overview
-- [[comparison-beneficial-insects-guide-vs-integrated-pest-management]] — predator options for gnats
 - [[nutrient-movement-through-soil-to-plant-roots]]
 
 ## Practical Applications
@@ -119,8 +102,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[cannabis-pest-management]]
 - [[neem]]
-- [[cervantes-fungus-gnats]]
 - [[query-how-to-control-fungus-gnats-organically]]
 - [[bloomfield-rust-fungus-life-cycles-puccinia-haustoria-spermatia]]

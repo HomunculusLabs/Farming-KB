@@ -18,26 +18,7 @@ updated: 2026-04-28
 sources:
   - "Lee, S.S. et al. (2012). \"Lignosus rhizophorae: A new species from Malaysia.\" Mycotaxon 121(1): 57-63."
   - "Tan, N.H. et al. (2015). \"Anti-inflammatory and immunomodulatory activities of Lignosus rhizophorae.\" BMC Complementary and Alternative Medicine 15: 332."
-  - "Wong, K.K. et al. (2017). \"Taxonomic and phylogenetic studies of Lignosus (Polyporaceae) in [[psilocybe-southeast-asia-pacific]].\" arbuscular-mycorrhizal-fungal-diversity-patterns-distribution 85(1): 145-165."
-  - "Huang, H. et al. (2020). \"Cultivation and query-what-are-the-main-bioactive-compounds-in-medicinal-plants of tiger milk mushrooms (Lignosus spp.).\" Journal of Fungi 6(3): 231."
-  - "https://www.mycobank.org/Lignosus-rhizophorae"
-aliases:
-  - Tiger Milk Mushroom
-  - Susu Harimau
-  - Cendawan Susu Rimau
-  - Lignosus rhizophorae (Murrill) Ryvarden
-created: 2026-04-28
----
-
-## Overview
-
-**Lignosus rhizophorae** is a polyporoid basidiomycete fungus in the family Polyporaceae, commonly known as tiger milk mushroom.
-
-It is one of several species within the genus Lignosus that produce a distinctive underground sclerotium, a dense storage organ that accumulates bioactive metabolites.
-
-The species was originally collected from mangrove-associated substrates in Peninsular Malaysia and described taxonomically in 2012.
-
-It is closely related to the better-known Lignosus tigris and Lignosus rhinocerotis, all of which are valued in traditional [[oner-southeast-asian-sativa-heritage-thai-vietnamese-cambodian]] medicine.
+  - "Wong, K.K. et al. (2017). \"Taxonomic and phylogenetic studies of Lignosus (Polyporaceae) in [[oner-southeast-asian-sativa-heritage-thai-vietnamese-cambodian]] medicine.
 
 ## Taxonomy and Morphology
 
@@ -63,7 +44,7 @@ Sclerotia are dark brown to black externally and white-cream internally, with a 
 
 L. rhizophorae is native to Peninsular Malaysia, Thailand, and parts of Sumatra, where it occurs in lowland dipterocarp forests and mangrove-adjacent habitats.
 
-It has been collected from decaying wood of Rhizophora (mangrove) species, as well as from buried roots and [[fungal-diversity-leaf-litter-coarse-woody-debris]] in mixed [[arbuscular-mycorrhizal-fungi-in-tropical-forest-restoration]].
+It has been collected from decaying wood of Rhizophora (mangrove) species, as well as from buried roots and [[arbuscular-mycorrhizal-fungi-in-tropical-forest-restoration]].
 
 The species is saprotrophic, decomposing lignocellulosic substrates in warm, humid tropical environments with high annual rainfall (2000–3000 mm).
 
@@ -79,7 +60,7 @@ Protein-bound polysaccharides isolated from the sclerotium have demonstrated mac
 
 Ethanolic extracts exhibit dose-dependent anti-inflammatory activity, significantly reducing nitric oxide production and TNF-α expression in LPS-stimulated macrophage cell lines.
 
-Triterpenoids, including lanostane-type compounds, have been isolated from the [[bloomfield-mushroom-formation-fruiting-body-development-cultivation]] and show moderate cytotoxic activity against human [[blesching-cannabis-apoptosis-and-cancer-cell-death]] lines (HeLa, MCF-7).
+Triterpenoids, including lanostane-type compounds, have been isolated from the [[blesching-cannabis-apoptosis-and-cancer-cell-death]] lines (HeLa, MCF-7).
 
 Antioxidant assays (DPPH, ABTS) reveal strong free-radical scavenging activity, with IC50 values comparable to ascorbic acid for certain fractions.
 
@@ -88,3 +69,80 @@ The species also contains ergosterol, ergothioneine, and phenolic acids (gallic,
 ## Cultivation
 
 [[fukuoka-matsutake-artificial-cultivation-attempt]] of L. rhizophorae remains experimental and has not yet achieved commercial scale.
+
+## Overview
+
+Lignosus Rhizophorae represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish lignosus rhizophorae
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving lignosus extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Lignosus Rhizophorae finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for lignosus rhizophorae. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+lignosus rhizophorae and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Lignosus Rhizophorae has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of lignosus rhizophorae into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.

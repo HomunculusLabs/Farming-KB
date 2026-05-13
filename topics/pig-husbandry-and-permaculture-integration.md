@@ -137,12 +137,8 @@ mud also serves as sunblock and insect repellent.
 
 Pigs are notorious for testing and destroying fencing, and any pig
 ## See Also
-- [[livestock-fencing-guide]]
 - [[rabbit-processing-guide]]
-- [[companion-planting-with-fungi]]
 - [[hamilton-composting-and-organic-matter-management]]
-- [[permaculture-design-principles]]
 - [[manure-quality-variability-and-fertilizer-value]]
-- [[solomon-growing-corn-guide]]
 - [[grain-milling-at-home]]
 - [[basic-plumbing-for-homestead]]

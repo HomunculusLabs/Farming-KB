@@ -8,7 +8,7 @@ sources: ["Shulgin - PIHKAL"]
 ---
 # MDPR
 
-[[2c-b-pihkal-entry-20]] #118. N-PROPYL-[[mda]]; 3,4-METHYLENEDIOXY-N-PROPYLAMPHETAMINE.
+[[mda]]; 3,4-METHYLENEDIOXY-N-PROPYLAMPHETAMINE.
 
 ## Chemical Name
 
@@ -37,11 +37,7 @@ value. A number of reports in the 150 to 200 milligram area suggested
 that something was taking place in the periphery even without any
 clear central effects. The term "body window" was used occasionally
 by experimenters, an outgrowth of the term "window" that was used (at
-that time, the mid-1970's) to describe the mental effects of [[mdma]]. It
-was as if the body was opened up and made receptive, instead of the
-mind. The second clue came from many anecdotal reports that
-methedrine (a potent central nervous system stimulant) would augment
-the effects of an [[lsd]] dosage which followed it. The putting of a drug
+that time, the mid-1970's) to describe the mental effects of [[lsd]] dosage which followed it. The putting of a drug
 
 on top of an inactive drug is the "primer" concept. It turned out
 that MDPR was an extraordinary primer to some following psychedelic,

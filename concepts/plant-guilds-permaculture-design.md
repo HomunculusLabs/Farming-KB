@@ -6,29 +6,7 @@ type: concept
 
 # Plant Guilds in Permaculture Design
 
-A guild is a harmonious assembly of species clustered around a central element (plant or animal). This assembly acts to assist the health of the central element, aid human work in management, and buffer adverse environmental effects. Guild design is the primary methodology for creating productive polycultures in [[permaculture]], relying on species interaction rather than spatial configuration alone.
-
-## Definition and Concept
-
-In the natural world, assemblies of plants or animals of different species are often observed occurring together over their range. Closer examination reveals a set of mutual benefits arising from such convivial togetherness—benefits that offer help or protection to the whole assembly. One bird species may act as "lookout" for another, or defend others from hawks.
-
-When designing plant guilds in a polyculture, the goal is to **maximize the benefits of each species to the others** while also incorporating factors of convenience to humans or which save inputs of fertilizer and pesticides.
-
-## Reasons for Species Association
-
-### Root Competition Reduction
-
-Almost all cultivated food trees thrive in herbal ground covers rather than grasses. Reducing root competition from invasive grasses is one of the primary reasons to establish guild understories.
-
-### Pest Control Through Multiple Mechanisms
-
-Pest control in guilds operates through several distinct pathways:
-
-- **Anti-feedants**: Plants providing bitter or unpalatable browse or chemical deterrents. Nasturtium roots supply root chemicals to tomatoes and gooseberries that deter whitefly. Many plants, fermented or in aqueous extraction, deter pests or act as anti-feedants when sprayed on leaves of target species.
-
-- **Root parasite killing**: *Crotalaria* captures nematodes that damage citrus and solanaceous roots. *Tagetes* marigolds "fumigate" soils against grasses and nematodes.
-
-- **Predator hosting**: Almost all small-flowered plants—especially *Quillaja*, many *[[acacia]]* species, tamarisk, Compositae (daisy family), and Umbelliferae such as dill, fennel, carrot, and coriander—host robber-flies and predatory wasps.
+A guild is a harmonious assembly of species clustered around a central element (plant or animal). This assembly acts to assist the health of the central element, aid human work in management, and buffer adverse environmental effects. Guild design is the primary methodology for creating productive polycultures in [[acacia]]* species, tamarisk, Compositae (daisy family), and Umbelliferae such as dill, fennel, carrot, and coriander—host robber-flies and predatory wasps.
 
 ### Soil Surface and Mulch Provision
 
@@ -140,3 +118,11 @@ Every designer and gardener can plan guilds for specific target species, specifi
 5. Observe and adjust based on actual performance rather than theory alone
 
 As Mollison cautions: be guided by analyses but study reality. The vagaries of weather in any given year mean that theoretical models must always be validated by field observation.
+
+## See Also
+
+- [[plant-sensing-communication]]
+- [[phytochrome-red-far-red-light-switch-plant-pigment]]
+- [[cervantes-supercropping-plant-stress-techniques]]
+- [[ingham-brix-plant-health-indicator-limitations]]
+- [[potassium-plant-nutrition]]

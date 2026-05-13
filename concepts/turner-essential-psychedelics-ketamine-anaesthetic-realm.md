@@ -10,7 +10,7 @@ tags: [psychedelics]
 
 # Ketamine Anaesthetic Realm
 
-Turner dedicates a full chapter to [[ketamine]], titled "The [[ketamine-ultimate-psychedelic-journey]]
+Turner dedicates a full chapter to [[ketamine-ultimate-psychedelic-journey]]
 Journey," rating its intensity at "10 -- Infinity." He calls it "the most
 intense, bizarre, and enjoyable psychedelic I've tried," a view shared by most
 of his experienced acquaintances.
@@ -18,16 +18,7 @@ of his experienced acquaintances.
 ## Nature and Clinical Background
 
 Ketamine (marketed as Ketalar by Parke Davis) is a general anesthetic
-considered "gentle" enough for children and [[cannabis-elderly-patients]]. Its psychedelic
-properties were discovered after recipients reported "reemergence" experiences
-while coming out of anesthesia. A dose much smaller than the anesthetic dose
-produces an experience of incredible intensity. Turner notes that psychedelic
-self-experimenter John Lilly injected ketamine 24 times a day for several
-consecutive months without significant difficulties.
-
-## Dosage and Administration
-
-The standard [[psychedelic-dose-response]] is approximately 100 mg intramuscularly. Turner
+considered "gentle" enough for children and [[psychedelic-dose-response]] is approximately 100 mg intramuscularly. Turner
 describes a spectrum:
 - 10-20 mg: non-psychedelic dissociative altered state
 - 50 mg: semi-conscious halfway zone
@@ -87,3 +78,11 @@ brilliant white light filled with love, bliss, and energy -- the Clear Light
 experience.
 
 ## Psychological Addiction Risk
+
+## See Also
+
+- [[turner-psychedelic-combination-experience-reports]]
+- [[turner-2cb-erotic-empathogen]]
+- [[turner-ecstasy-mdma-heart-opening-psychedelic]]
+- [[turner-dmt]]
+- [[dm-turner]]

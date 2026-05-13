@@ -13,57 +13,15 @@ sources:
   - Newbey, C.R. & Jury, S.L. (1986). "A revision of Teucrium section Scorodonia." Botanical Journal of the Linnean Society, 92(1–2), 49–73.
   - Stace, C.A. (2019). "New Flora of the British Isles." 4th ed., C&M Floristics.
   - Tutin, T.G. et al. (1972). "Flora Europaea, Vol. 3." Cambridge University Press.
-  - Pérez-García, F. et al. (2006). "[[aact-tannins-terpenes-phenolic-compounds-wood-composting-ingham]] and antioxidant activity of Teucrium scorodonia." Pharmaceutical Biology, 44(2), 117–121.
-  - Hind, N. (2022). "Teucrium scorodonia." Royal Horticultural Society Plant Profile.
----
-
-## Overview
-
-**Teucrium scorodonia** L., commonly known as wood sage or woodland germander, is a herbaceous perennial in the family Lamiaceae. It is native to Europe and parts of North Africa, where it grows in dry woodlands, heaths, and rocky slopes.
-
-The species is easily recognised by its pale greenish-yellow flowers and softly hairy, sage-like leaves. Despite its common name, it is not closely related to true sages (*Salvia* spp.) but shares the typical Lamiaceae aromatic foliage.
-
-Wood sage has a long history of use in European folk medicine as a wound herb and digestive aid. It has also been used traditionally for flavouring beer before the widespread adoption of hops.
-
-## Taxonomy and Morphology
-
-**Teucrium scorodonia** was described by Carl Linnaeus in 1753 in *Species Plantarum*. The specific epithet *scorodonia* derives from the Greek *skorodon* (garlic), referring to the slightly garlicky scent of crushed leaves.
-
-The species belongs to section *Scorodonia* within the genus *Teucrium*. Molecular phylogenetic studies place it in a clade with other European woodland germanders.
-
-The genus *Teucrium* comprises approximately 300 species distributed across the Mediterranean basin, western Asia, and the Canary Islands. *T. scorodonia* is one of the few species extending into northwestern Europe.
-
-Plants grow 30–60 cm tall from a woody, creeping rootstock. Stems are square (characteristic of Lamiaceae), ascending to erect, and densely covered in soft, glandular hairs.
-
-Leaves are ovate to cordate, 3–8 cm long, with crenate-serrate margins. They are softly pubescent on both surfaces, greyish-green above and paler beneath, resembling those of common sage.
-
-When crushed, the leaves emit a distinctive slightly garlicky, herbaceous scent. This aroma, combined with the bitter taste, discourages heavy browsing by mammals.
-
-Flowers are arranged in lax, one-sided racemes or panicles. Individual flowers are 8–12 mm long, pale yellow to greenish, with a characteristic hooded upper lip and reflexed lower lip typical of *Teucrium*.
-
-Flowering occurs from July to September. The calyx is tubular and glandular-hairy, persisting after the corolla falls.
-
-## Distribution and Habitat
-
-*Teucrium scorodonia* is native to western and central Europe, from the British Isles and northern Spain eastward to Poland, the Balkans, and Italy. It also occurs in northwestern Africa (Morocco and Algeria).
-
-The species is characteristic of dry, acidic woodlands, heathland margins, and rocky slopes. It tolerates a wide range of conditions, from full sun in open heathland to partial shade in deciduous woods.
-
-It grows on acidic to neutral soils, often in association with heather (*[[calluna-vulgaris]]*), bilberry (*[[vaccinium-myrtillus]]*), and bracken (*[[pteridium-aquilinum]]*). It is a common component of Atlantic heathland communities.
+  - Pérez-García, F. et al. (2006). "[[calluna-vulgaris]]*), bilberry (*[[pteridium-aquilinum]]*). It is a common component of Atlantic heathland communities.
 
 Elevational range extends from sea level to approximately 1,500 metres in mountainous areas of southern Europe. It is absent from the Mediterranean lowlands where summer drought is severe.
 
-The species has naturalised in parts of [[polypore-fungi-eastern-north-america]] America, particularly in the [[bolete-fungi-appalachian-region]], where it occurs in similar woodland habitats to its native European range. Naturalised populations are generally small and non-invasive.
+The species has naturalised in parts of [[bolete-fungi-appalachian-region]], where it occurs in similar woodland habitats to its native European range. Naturalised populations are generally small and non-invasive.
 
 ## Bioactive Compounds and Traditional Uses
 
-Wood sage contains a range of bioactive compounds, including flavonoids (luteolin, apigenin derivatives), phenylethanoid glycosides, iridoid glycosides, and [[permaculture-designers-manual-essential-oil-plants]]. The essential oil contains germacrene D, β-caryophyllene, and bicyclogermacrene as major components.
-
-In traditional European herbal medicine, *T. scorodonia* was used as a wound-healing herb and for treating digestive complaints. The leaves were applied as a poultice to cuts, ulcers, and skin infections.
-
-Nicholas Culpeper (1653) recommended wood sage for "wounds, ulcers, fistulas, and all running sores," and as a gargle for sore throats. It was also used as a tonic tea for convalescents.
-
-The herb was employed as a bittering agent in [[comparison-beer-brewing-vs-cider-making]] in parts of England and Scandinavia before hops became dominant. This use is reflected in several of its local names, including "wood sage" and "alehoof."
+Wood sage contains a range of bioactive compounds, including flavonoids (luteolin, apigenin derivatives), phenylethanoid glycosides, iridoid glycosides, and [[comparison-beer-brewing-vs-cider-making]] in parts of England and Scandinavia before hops became dominant. This use is reflected in several of its local names, including "wood sage" and "alehoof."
 
 Modern pharmacological studies have confirmed anti-inflammatory, antioxidant, and antimicrobial activities for leaf extracts. However, clinical data supporting specific [[psilocybin-therapeutic-applications]] remain limited.
 
@@ -88,3 +46,86 @@ Deer and rabbit resistance is good due to the slightly bitter, aromatic foliage.
 ## Ecological Role
 
 The pale flowers of *T. scorodonia* are attractive to bees, particularly bumblebees and solitary bees. The long flowering period from mid-summer to early autumn provides a late-season nectar resource.
+
+## Overview
+
+Teucrium Scorodonia represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish teucrium scorodonia
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving teucrium extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Teucrium Scorodonia finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for teucrium scorodonia. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+teucrium scorodonia and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Teucrium Scorodonia has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of teucrium scorodonia into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[teucrium-chamaedrys]]
+- [[teucrium-marum]]
+- [[teucrium-polium]]

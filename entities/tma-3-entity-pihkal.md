@@ -8,13 +8,7 @@ sources: ["Shulgin - PIHKAL"]
 ---
 # TMA-3
 
-[[2c-b-pihkal-entry-20]] #159. 2,3,4-TRIMETHOXYAMPHETAMINE.
-
-## Chemical Name
-
-2,3,4-TRIMETHOXYAMPHETAMINE
-
-## Dosage and Du[[phytochrome-red-far-red-ratio-shade-detection-plants]]n
+[[phytochrome-red-far-red-ratio-shade-detection-plants]]n
 
 | Property | Value |
 |----------|-------|
@@ -23,38 +17,8 @@ sources: ["Shulgin - PIHKAL"]
 
 ## Qualitative Comments
 
-> (with 100 mg) There were no [[blesching-cannabis-safety-profile-adverse-effects-and-overdose-risk]] at all. No
-> eye dilation, no believable diversion from complete normalcy.
-> Appetite was normal, as well.
-
-## Extensions and Commentary
-
-There is a small lesson to be learned from
-this completely inactive compound. There is no way of saying that it
-is or is not in-active. All that can be said is that trials were made
-(in this case using three separate individuals) at an oral level of
-100 milligrams. And, at this level, no[[fukuoka-textdoc-one-thing-is-all-things-holism]] happened. And since a
-bottom threshold for [[mescaline]] would be perhaps 200 milligrams, it can
-be honestly said that the activity of this compound, if expressed
-
-relative to mescaline (using mescaline units) is less than 2 M.U. Had
-200 milligrams been inactive, it would have been less than 1.0 M.U.
-If 2 grams had been inactive, it would have been less than 0.1 M.U.
-But the actual printed form, activity < 2.0 M.U. was accepted by many
-readers as indicating that TMA-3 was active, but at dosages greater
-than 100 milligrams. All that can be said is, if there is activity,
-then it will be at oral levels greater than 100 milligrams At the
-moment, as far as I know, this compound is not active in man, but then
-I know of no trials in excess of 100 milligrams.
-
-This admonition applies to all the published M.U. values that are
-preceded by the "less than" sign, the "<."
-
-## Synthesis
-
-To a solution of 12.4 g 2,3,4-trimethoxybenzaldehyde in 45
-mL glacial acetic acid, there was added 7 mL nitroethane and 4.1 g
-anhydrous ammonium acetate, and all was held at reflux [[coleman-double-cover-air-inflated-trial-temperature-data]] for
+> (with 100 mg) There were no [[fukuoka-textdoc-one-thing-is-all-things-holism]] happened. And since a
+bottom threshold for [[coleman-double-cover-air-inflated-trial-temperature-data]] for
 1.5 h. To the cooled and well stirred reaction mixture, H2O was added
 slowly, dropping out an oily crystalline solid mass. This was
 separated by filtration, and ground under a quantity of 50% aqueous
@@ -71,8 +35,7 @@ and effectively adding a warm saturated solu-tion of it dropwise.
 Refluxing was maintained for 5 h following the completion of the
 addition of the nitrostyrene. The milky reaction mixture was cooled
 and the excess hydride destroyed by the addition of 200 mL 10% H2SO4.
-When the aqueous and Et2O [[coleman-double-layer-climate-modification-temperature-data]]s were finally clear, they were
-separated, and 75 g of [[solomon-chemical-fertilizer-incomplete-potassium-yield-tradeoff]] sodium tartrate was dissolved in the
+When the aqueous and Et2O [[solomon-chemical-fertilizer-incomplete-potassium-yield-tradeoff]] sodium tartrate was dissolved in the
 aqueous fraction. NaOH (25%) was then added until the pH was >9, and
 this was then extracted with 3x75 mL CH2Cl2. Evaporation of the
 solvent under vacuum produced 2.5 g of a nearly colorless clear oil
@@ -85,6 +48,91 @@ IPA, had a mp of 148-149 deg C. Anal. (C12H20ClNO3) C,H.
 
 ## Safety Notes
 
-This compound is a research chemical with limited human data. Shulgin's dosage ranges are based on limited self-[[shulgin-safety-principles-self-experimentation]] and should not be taken as established safe doses. Many PIHKAL compounds are potent [[cultural-evolution-and-psychoactive-substances]] that may carry unknown [[ayahuasca-tourism-medical-risks-prescription-interactions]]. [[ayahuasca-tourism-legal-status-by-country]] varies by jurisdiction.
+This compound is a research chemical with limited human data. Shulgin's dosage ranges are based on limited self-[[cultural-evolution-and-psychoactive-substances]] that may carry unknown [[ayahuasca-tourism-legal-status-by-country]] varies by jurisdiction.
 
 ## See Also
+
+## Overview
+
+Tma 3 Entity Pihkal represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish tma 3 entity pihkal
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving tma extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Tma 3 Entity Pihkal finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for tma 3 entity pihkal. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+tma 3 entity pihkal and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Tma 3 Entity Pihkal has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of tma 3 entity pihkal into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[2c-g-3-entity]]
+- [[4-5-mdo-dmt-entity-tihkal]]
+- [[5-6-mdo-dipt-entity-tihkal]]
+- [[mdcpm-entity-pihkal]]
+- [[methyl-k-entity-pihkal]]

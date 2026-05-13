@@ -8,7 +8,7 @@ topics: [mycology, history-of-science, pleomorphy, taxonomy, scientific-controve
 # Ernst Hallier and the Pleomorphic Extravagances
 
 The Tulasne brothers' discovery that a single fungus could produce
-radically different spore types across its life cycle was one of the
+radically different [[spore]] types across its life cycle was one of the
 great revolutions in mycology. But every revolution attracts its
 radicals, and the concept of pleomorphy was no exception. The story of
 Ernst Hallier stands as a cautionary tale about how a valid scientific
@@ -41,7 +41,7 @@ specialized insect pathogen when consumed by flies, and that it could
 give rise to a bread mold in air, or a zoospore-producing oomycete if
 the insect fell into water. In short, he subsumed a ream of unrelated
 fungi into a single species by proposing a life cycle that — as
-Nicholas Money observed — would rival the escapades of a worm capable
+[[nicholas-money]] observed — would rival the escapades of a worm capable
 of modifying itself into an elephant or a sea snake.
 
 ## From Fungi to Bacteria
@@ -138,8 +138,6 @@ illustrations remain among the finest scientific artworks ever produced.
 
 ## Related Concepts
 
-- [[bloomfield-fungal-pleomorphy-tulasne-brothers-anamorph-teleomorph]]
 - [[bloomfield-eurotium-aspergillus-pleomorphism-dual-identity]]
-- [[bloomfield-history-of-mycology-pioneers]]
 - [[bloomfield-fungal-life-cycle-spiral-versus-circle]]
 - [[bloomfield-taxonomic-authority-debate-lloyd-underwood-atkinson]]

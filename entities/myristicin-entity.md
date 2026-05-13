@@ -10,18 +10,7 @@ sources:
 ---
 # Myristicin
 Myristicin is a naturally occurring phenylpropene compound and the principal
-psychoactive constituent of nutmeg ([[myristica-fragrans]]), the spice derived
-from the seed of the tropical evergreen nutmeg tree. It is also found in
-smaller quantities in parsley, dill, carrot, and several other common food
-plants. Myristicin is responsible for the characteristic intoxicating effects
-of nutmeg when consumed in large quantities, producing deliriant and mild
-hallucinogenic effects alongside significant anticholinergic symptoms including
-dry mouth, tachycardia, and urinary retention. While myristicin has been used
-recreationally as a readily available psychoactive, its effects are widely
-regarded as unpleasant, with a long onset time, prolonged duration, and high
-incidence of adverse physical effects. Myristicin is also a metabolic precursor
-to MMDA (3-methoxy-4,5-methylenedioxyamphetamine), a psychedelic amphetamine
-first synthesized by [[alexander-shulgin]].
+psychoactive constituent of nutmeg ([[alexander-shulgin]].
 ## Chemical Identity
 - **Chemical name:** 5-Allyl-1-methoxy-2,3-methylenedioxybenzene
 - **IUPAC name:** 1-Allyl-3-methoxy-4,5-methylenedioxybenzene
@@ -44,16 +33,10 @@ first synthesized by [[alexander-shulgin]].
 Myristicin occurs naturally in several plants, with the highest concentrations
 found in Myristica species:
 - **Myristica fragrans (nutmeg):** The primary source, with myristicin
-  comprising 0.2–1.3% of mace [[permaculture-designers-manual-essential-oil-plants]] and 1.0–3.5% of nutmeg essential
-  oil. Total myristicin content of whole dried nutmeg seed ranges from
-  0.5–1.4% by weight (5–14 mg/g).
-- **Myristica argentea (papuan nutmeg):** Related species with comparable
-  myristicin levels, used locally as a nutmeg substitute.
-- **[[petroselinum-crispum]] (parsley):** Present in parsley essential oil at
+  comprising 0.2–1.3% of mace [[petroselinum-crispum]] (parsley):** Present in parsley essential oil at
   1–5%, contributing to parsley's distinctive aroma.
-- **[[anethum-graveolens]] (dill):** Present in dill seed and herb [[comparison-essential-oils-vs-neem-oil-vs-insecticidal-soap]]
+- **[[comparison-essential-oils-vs-neem-oil-vs-insecticidal-soap]]
   at lower concentrations (0.1–0.5%).
-- **[[daucus-carota]] (carrot):** Trace amounts in carrot seed oil.
 - **[[piper-nigrum-entity]] (black pepper):** Minor constituent of pepper essential oil,
   typically below 0.1%.
 ## Pharmacology
@@ -88,3 +71,80 @@ been documented since the 16th century:
   myristicin). Doses above 30 g significantly increase [[blesching-cannabis-safety-adverse-effects-evidence]]
   without proportional enhancement of desired effects.
 - **Onset:** 2–6 hours after oral ingestion, reflecting slow absorption and
+
+## Overview
+
+Myristicin Entity represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish myristicin entity
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving myristicin extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Myristicin Entity finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for myristicin entity. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+myristicin entity and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Myristicin Entity has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of myristicin entity into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.

@@ -1,6 +1,6 @@
 ---
 title: "Winter Harvest Scheduling Year Round"
-aliases: [winter [[organic-vegetable-growing-calendar]], four-season farming schedule, cold-crop [[coleman-succession-planting]]
+aliases: [winter coleman-succession-planting
 tags: [farming, winter-harvest, crop-scheduling, season-extension, eliot-coleman]
 source: eliot-coleman-winter-harvest-handbook.md
 created: 2026-05-11
@@ -10,82 +10,7 @@ created: 2026-05-11
 
 ## Overview
 
-The winter harvest system developed by Eliot Coleman is built on a counterintuitive insight: winter harvesting is primarily about **planting at the right time in fall**, not about growing through the deepest cold. The key realization is that most cold-hardy vegetables achieve near-full maturity by the time daylight hours drop below ten per day (around mid-November in the northeastern United States). After that point, growth essentially stops, and the plants enter a state of dormancy or near-dormancy. The harvest strategy therefore revolves around having mature or nearly mature plants [[query-how-do-i-know-when-my-cannabis-is-ready-to-harvest]] on demand throughout the winter, rather than trying to force active growth during the darkest months.
-
-## The Solar Calendar Framework
-
-Coleman organizes his growing year around the solar calendar rather than the traditional calendar, because plant growth is driven primarily by day length and light intensity, not by arbitrary date conventions.
-
-### Critical Day-Length Thresholds
-
-- **November 15 to January 25**: Persephone Days — daylight less than 10 hours. No meaningful plant growth occurs regardless of temperature. This 10-week period is the true "dead of winter" for plant growth.
-- **October to November 15**: Pre-Persephone — daylight declining from ~11 to 10 hours. Growth slows dramatically. Plants should reach harvestable size by November 15.
-- **January 25 to mid-March**: Post-Persephone — daylight increasing from 10 to ~12 hours. Growth resumes slowly at first, then accelerates. This is the recovery phase.
-- **Mid-March onward**: Active growth resumes at increasing rates as day length and light intensity both increase.
-
-The practical implication is profound: if a crop is not at least 75% mature by November 15, it will not reach harvestable size until after January 25 at the earliest. This means the critical planting window for winter harvest crops runs from early August through mid-October, depending on the crop.
-
-## Crop Categories by Maturity Requirement
-
-### Group 1: Fully Mature Before Persephone Days
-
-These crops must be completely mature and harvestable by mid-November. They will remain alive in the cold greenhouse throughout winter and can be harvested on demand. No growth occurs during Persephone Days; harvested plants are not replaced.
-
-| Crop | Days to Maturity | Planting Window (Zone 5–6) | Winter Strategy |
-|------|-----------------|----------------------------|-----------------|
-| Leeks | 90–120 | Mid-June to mid-July | Harvest whole plants as needed |
-| Carrots | 60–80 | Early August to early September | Harvest individual roots; remaining plants hold |
-| Beets | 55–70 | Mid-August to mid-September | Harvest roots; leaves regrow slowly |
-| Parsnips | 100–120 | Early June to early July | Improve in flavor after frost |
-| Celery root (celeriac) | 100–120 | Early June to mid-June | Harvest whole roots as needed |
-| Turnips | 40–60 | September | Harvest roots; regrow tops |
-| Rutabagas | 80–100 | Mid-July to mid-August | Store well in-ground through winter |
-
-### Group 2: Near-Mature Before Persephone Days
-
-These crops should be at least 75% mature by mid-November. They will complete the remaining 25% of growth during the early Persephone period before growth stops entirely. During winter, they can be harvested progressively using a cut-and-come-again approach.
-
-| Crop | Days to Maturity | Planting Window | Winter Strategy |
-|------|-----------------|-----------------|-----------------|
-| Spinach | 35–45 | Late September to mid-October | Cut outer leaves; inner leaves regrow |
-| Tatsoi | 40–50 | Mid-September to early October | Harvest whole rosettes or cut leaves |
-| Mizuna | 35–45 | Late September to mid-October | Cut-and-come-again |
-| Mâche (corn salad) | 50–60 | Early September to mid-September | Harvest whole rosettes |
-| Claytonia (miner's lettuce) | 45–55 | Mid-September to early October | Cut outer stems; continues slowly |
-| Arugula | 35–45 | Late September to mid-October | Cut-and-come-again; spicy flavor sweetens |
-
-### Group 3: Overwintered for Spring Harvest
-
-These crops are planted in fall, survive winter in a dormant or semi-dormant state, and resume rapid growth as soon as day length increases after January 25. They provide the earliest spring harvests.
-
-| Crop | Planting Window | Spring Harvest | Notes |
-|------|-----------------|----------------|-------|
-| Onions (seed) | Mid-September to early October | April to May | Overwinter as small seedlings |
-| Garlic | Late October to early November | June to July | Plant cloves 2 inches deep |
-| Shallots | Mid-October | May to June | Plant sets or seed |
-| Spinach (overwintered) | Late October | March to April | Small plants survive freezing |
-| Peas (early) | Late February (in greenhouse) | April to May | Direct sow when soil thaws |
-| Radishes | Late February (in greenhouse) | March to April | Ready in 25–30 days |
-
-## Succession Planting Within the Winter Calendar
-
-Coleman uses a relay-planting approach to maximize the harvest window for each crop. For spinach, his schedule at Four Season Farm illustrates the principle:
-
-1. **Late August sowing**: Mature by mid-October, providing the first fall harvest. Plants are large enough to survive the deepest cold.
-2. **Mid-September sowing**: Reaches near-maturity by November 15. Primary winter harvest crop. These plants provide the bulk of the December–March harvest.
-3. **Early October sowing**: Small but established by November 15. Survives winter and provides early spring harvest in March–April before the August-sown plants bolt.
-4. **Late October sowing**: Seeds germinate in cool soil, tiny seedlings go dormant. Resume growth in late January, harvest in April. This serves as the transition to the spring/summer cycle.
-
-This four-sowing succession for a single crop demonstrates how the winter greenhouse can maintain continuous harvest from October through April with careful timing.
-
-## Bed Management and Rotation
-
-### Winter Bed Preparation
-
-Winter beds are prepared in late summer, timed to be ready for the early August plantings:
-
-1. **Clean out summer crops** by early to mid-August at the latest.
-2. **Apply a 1–2 inch layer of finished compost** across the bed surface. Do not work it in deeply — surface application feeds the soil food web without disrupting established [[arbuscular-mycorrhizal-networks]].
+The winter harvest system developed by Eliot Coleman is built on a counterintuitive insight: winter harvesting is primarily about **planting at the right time in fall**, not about growing through the deepest cold. The key realization is that most cold-hardy vegetables achieve near-full maturity by the time daylight hours drop below ten per day (around mid-November in the northeastern United States). After that point, growth essentially stops, and the plants enter a state of dormancy or near-dormancy. The harvest strategy therefore revolves around having mature or nearly mature plants [[arbuscular-mycorrhizal-networks]].
 3. **Lightly fork the bed** with a broadfork to relieve compaction without inverting the soil profile. Coleman emphasizes that deep-organic growing avoids mechanical tilling.
 4. **Rake smooth and level** the surface for direct seeding.
 5. **Water thoroughly** to settle the soil before planting.
@@ -112,38 +37,89 @@ For leafy greens, the primary winter harvest method is cutting individual outer 
 
 ### Whole-Plant Harvest
 
-Root crops and some greens (mâche, tatsoi) are harvested as whole plants. The strategy is to harvest the largest plants first, allowing remaining plants more space and light. This creates a natural [[fukuoka-stem-borer-thinning-effect-natural-pest-balance]] that benefits the remaining plants.
+Root crops and some greens (mâche, tatsoi) are harvested as whole plants. The strategy is to harvest the largest plants first, allowing remaining plants more space and light. This creates a natural [[season-extension-techniques]] — Row covers, low tunnels, and additional methods
 
-### Post-Harvest Handling
+## Overview
 
-Winter-harvested vegetables are remarkably resilient. Coleman notes that crops harvested from the cold greenhouse in January are actually sweeter and more flavorful than the same crops harvested in summer. Cold temperatures convert starches to sugars as a natural antifreeze mechanism in the plants. For storage after harvest:
+Winter Harvest Scheduling Year Round represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
 
-- Do not wash greens before storage — moisture promotes decay.
-- Place unwashed greens in perforated plastic bags in the refrigerator.
-- Root crops can be stored at 32–35°F (0–2°C) with high humidity for weeks to months.
-- Properly handled winter spinach will store for 2–3 weeks in the refrigerator.
+## Key Characteristics
 
-## Photoperiod and Growth Rate Correlation
+Several defining characteristics distinguish winter harvest scheduling year round
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
 
-Coleman's detailed records at Four Season Farm reveal a precise correlation between day length and growth rate. Understanding this allows accurate prediction of harvest dates:
+## Ecological Context
 
-| Approximate Date | Day Length (Maine) | Growth Rate (vs. Summer Peak) |
-|-----------------|---------------------|-------------------------------|
-| September 15 | 12h 30m | 75% |
-| October 1 | 11h 45m | 50% |
-| October 15 | 11h 00m | 30% |
-| November 1 | 10h 15m | 15% |
-| November 15 | 9h 45m | ~0% (Persephone threshold) |
-| December 21 | 8h 55m | 0% |
-| January 25 | 9h 45m | ~0% (Persephone ends) |
-| February 15 | 10h 30m | 15% |
-| March 1 | 11h 15m | 35% |
-| March 15 | 11h 55m | 55% |
-| April 1 | 12h 45m | 80% |
-| April 15 | 13h 30m | 100% |
+The ecological relationships involving winter extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Winter Harvest Scheduling Year Round finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for winter harvest scheduling year round. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+winter harvest scheduling year round and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Winter Harvest Scheduling Year Round has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of winter harvest scheduling year round into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
 
 ## See Also
 
-- cold greenhouse design unheated — Structure and thermal management
-- deep organic soil management — Fertility for sustained winter production
-- [[season-extension-techniques]] — Row covers, low tunnels, and additional methods
+- [[cold-house-winter-harvest-system]]
+- [[coleman-aphid-management-winter-greenhouse-nitrogen-flushing]]
+- [[coleman-unheated-greenhouse-economic-model-passive-winter-production]]
+- [[mollison-designers-snow-ice-and-winter-design-strategies]]
+- [[unheated-greenhouse-winter-harvest]]

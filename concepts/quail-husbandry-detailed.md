@@ -1,5 +1,5 @@
 ---
-title: Quail Husbandry Detailed
+title: Quail Husbandry (Detailed)
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
@@ -24,7 +24,7 @@ urban or space-constrained homesteads where chickens or ducks are not feasible.
 - No regulations in most areas (check local codes — often classified as
   "game birds" not poultry).
 - Feed efficiency: 2.5-3 lbs of feed per lb of gain.
-- High [[mollison-designers-chicken-tractors-egg-production]]: 250-320 eggs per hen per year.
+- High egg production: 250-320 eggs per hen per year.
 
 ## Breed Varieties
 
@@ -68,7 +68,7 @@ several color and production varieties:
 - Remove aggressive birds immediately.
 
 ### Aviary / Floor System
-- Birds kept on the ground with [[comparison-deep-litter-vs-hot-composting]] (pine shavings).
+- Birds kept on the ground with deep litter (pine shavings).
 - More natural, allows dust bathing and foraging.
 - Higher disease risk (contact with droppings).
 - Eggs must be collected from floor (may be soiled).
@@ -101,7 +101,7 @@ several color and production varieties:
 - Grit (fine) free-choice if feeding anything other than commercial pellets.
 - Oyster shell free-choice for layers.
 - Mealworms as protein supplement (10% of diet max).
-- Dark [[lettuce-and-leafy-greens]] (chopped fine), cooked egg, and seeds as treats.
+- Dark leafy greens (chopped fine), cooked egg, and seeds as treats.
 
 ### Feed Formulation
 - See [[livestock-feed-formulation]] for making custom rations.
@@ -140,11 +140,11 @@ several color and production varieties:
 - Rinse and pat dry.
 - Yield: approximately 70% dress-out (live to edible weight).
 - Quail are typically cooked whole (roasted, grilled, fried).
-- See [[animal-harvest-and-processing]] for broader processing principles.
 
-## Breeding and Incubation
+## See Also
 
-### Breeding Ratio
-- 1 male per 2-3 females in breeder cages.
-- Males become aggressive in crowded conditions. Monitor and separate.
-- Breeding season: year-round with 14+ hours of light.
+- [[comparison-quail-husbandry-vs-rabbit-husbandry]]
+- [[quail-egg-production]]
+- [[query-how-to-raise-quail-in-a-permaculture-system]]
+- [[faires-pigeon-quail-and-waterfowl-systems]]
+- [[comparison-chicken-keeping-vs-quail-husbandry]]

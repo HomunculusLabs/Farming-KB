@@ -39,19 +39,7 @@ Blesching provides specific (E)-β-caryophyllene content percentages for tested 
 | Black Ashanti Pepper | *Piper guineense* | 58% | Antibacterial (E. coli, S. aureus) |
 | White Ashanti Pepper | *Piper guineense* | 52% | Antibacterial properties |
 | Indian Bay-Leaf | *Cinnamomum tamala* | 25% | Antioxidant, antidiabetic, Ayurvedic use |
-| Grains of Paradise | *[[aframomum-melegueta]]* | 22% | Wound healing, antioxidant, anti-inflammatory, analgesic, molluscicidal, anti-diarrheal, antimicrobial, aphrodisiac |
-| Cannabis sativa | *Cannabis sativa* | 12-35% | Broad cannabinoid profile |
-
-### Moderate Content Spices (7-19%)
-
-| Spice | Species | (E)-BCP Content | Additional Medicinal Properties |
-|---|---|---|---|
-| African Basil | *Ocimum micranthum* | 14% | Antimicrobial (giardia), antiviral (herpes, hepatitis B, adenovirus, coxsackievirus), antibacterial, anti-inflammatory |
-| Black Pepper | *Piper nigrum* | 7-19% | Antibacterial, colon cancer protective, antioxidant |
-| Caraway (black) | *Carum nigrum* | 8% | Antioxidant, antibacterial, antifungal |
-| Mexican Oregano | *Lippia berlandieri* | ~7-15% (est.) | Antimicrobial, antioxidant |
-| Sri Lanka Cinnamon | *Cinnamomum zeylanicum* | 7-11% | Fat/sugar metabolism, blood pressure, antioxidant, antibiotic, antiparasitic (mites) |
-| Rosemary | *[[rosmarinus-officinalis-entity]]* | 1-8% | Antimicrobial, digestive, circulatory, radioprotective, anti-tumor, anti-inflammatory, neuroprotective |
+| Grains of Paradise | *[[rosmarinus-officinalis-entity]]* | 1-8% | Antimicrobial, digestive, circulatory, radioprotective, anti-tumor, anti-inflammatory, neuroprotective |
 
 ### Comparison with Cannabis
 
@@ -64,16 +52,7 @@ Notably, the Ashanti peppers (52-58%) exceed the (E)-β-caryophyllene content fo
 The CB2 receptor is primarily found in the immune system, peripheral tissues, and the gastrointestinal tract. Activation of CB2 receptors by (E)-BCP produces:
 
 - **Anti-inflammatory effects:** Modulates immune cell activity, reducing inflammatory cytokine production
-- **Oxidative stress reduction:** Protects cells from damage by [[reactive-oxygen-species-and-oxidative-stress]]
-- **Pain modulation:** CB2 activation reduces inflammatory and neuropathic pain signaling
-- **Antimicrobial support:** Some evidence suggests CB2 activation supports immune defense mechanisms
-
-### Conditions Potentially Addressed
-
-Blesching suggests (E)-BCP dietary supplementation may be therapeutic for:
-
-- **[[blesching-cannabis-inflammatory-diseases]]:** Arthritis, [[blesching-cannabis-inflammatory-bowel-disease]], atherosclerosis, periodontitis
-- **Oxidative stress-related conditions:** [[blesching-cannabis-neurodegenerative-diseases]], cardiovascular disease
+- **Oxidative stress reduction:** Protects cells from damage by [[blesching-cannabis-inflammatory-diseases]]:** Arthritis, [[blesching-cannabis-neurodegenerative-diseases]], cardiovascular disease
 - **Pain conditions:** Chronic inflammatory pain, neuropathic pain
 - **Cancer:** Selective oxidative stress induction in cancer cells
 - **Microbial infections:** Complementary antimicrobial support
@@ -118,8 +97,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[beta-caryophyllene-dietary-cb2-agonist-blesching]]
 - [[uwe-blesching]]
-- [[beta-caryophyllene-dietary-cannabinoid-cb2-spices-blesching]]
 - [[cannabis-health-index]]
 - [[cinnamomum-tamala]]

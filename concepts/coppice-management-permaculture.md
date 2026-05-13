@@ -12,43 +12,9 @@ Coppicing is one of the most ancient and widely practiced woodland management te
 
 When a deciduous tree is cut during its dormant season, the root system remains intact and responds by sending up multiple new stems. Over time, these stems grow into usable poles. The cycle is repeated every few years depending on the species and intended use:
 
-- **Short rotation (1–5 years):** Produces thin rods for hurdles, basketry, bean poles, and pea sticks. Species include willow (*Salix* spp.), hazel (*[[corylus-avellana]]*), and ash (*Fraxinus excelsior*).
-- **Medium rotation (5–15 years):** Produces larger poles for fencing, tool handles, and construction. Species include sweet chestnut (*Castanea sativa*), oak (*Quercus* spp.), and alder (*Alnus* spp.).
-- **Long rotation (15–30+ years):** Produces timber for building, furniture, and firewood. Species include ash, oak, and various eucalypts.
-
-## Benefits in Permaculture Systems
-
-### Sustainable Yield
-
-Coppicing provides a perpetual harvest from the same plants. Unlike clear-felling, the root system is preserved, meaning the tree regrows without replanting. This makes it an extremely efficient use of land and energy within a permaculture system.
-
-### Multiple Functions
-
-Coppiced stools serve multiple functions simultaneously:
-
-- **Firewood and fuel:** Many species are excellent firewood producers. The book references coppice as a fuel source across pages 17–97, with species like eucalypts, acacias, casuarinas, and poplars all suitable for regular coppicing.
-- **Fencing and construction:** Poles from medium-rotation coppice are used for fence posts, garden stakes, trellising, and light construction work. Many wattles (*Acacia* spp.) and eucalypts serve this purpose.
-- **Fodder:** The leafy regrowth of many coppiced species provides valuable livestock fodder, especially during dry periods.
-- **Mulch and green manure:** Leaf litter and small branches from pruning operations contribute organic matter to the soil.
-- **Craft materials:** Traditional crafts rely on coppiced materials — basketry, hurdle-making, charcoal production, and thatching all depend on regularly harvested poles.
-
-### Erosion Control and Soil Stabilization
-
-Coppiced woodlands maintain a continuous root network that holds soil in place, making them ideal for erosion-prone sites, drainage lines, and riparian zones. The root systems of nitrogen-fixing coppice species like alder (*Alnus* spp.) simultaneously stabilize soil and improve fertility.
-
-### Biodiversity Enhancement
-
-Coppiced woodlands create a mosaic of habitats at different stages of regeneration. The open areas after cutting allow light to reach the forest floor, stimulating ground flora, while the dense regrowth provides shelter and nesting sites for wildlife. This structural diversity supports a much wider range of species than uniform plantations.
-
-## Suitable Species for Coppicing
-
-### Nitrogen Fixers
-
-- **Common alder** (*Alnus glutinosa*): Fast-growing, water-loving, fixes nitrogen through *Frankia* symbiosis. Excellent for riparian planting and poor soils.
-- **Black wattle** (*Acacia mearnsii*): Rapid growth, good firewood, nitrogen-fixing. Used [[comparison-vetiver-grass-vs-bamboo-for-erosion-control]] on degraded land.
+- **Short rotation (1–5 years):** Produces thin rods for hurdles, basketry, bean poles, and pea sticks. Species include willow (*Salix* spp.), hazel (*[[comparison-vetiver-grass-vs-bamboo-for-erosion-control]] on degraded land.
 - **Tagasaste** (*Chamaecytisus proliferus*): Drought-tolerant fodder tree that responds well to regular coppicing.
-- **Leucaena** (*[[leucaena-leucocephala]]*): Tropical nitrogen-fixer with high protein foliage for livestock.
-- **Siberian pea shrub** (*[[caragana-arborescens]]*): Cold-hardy nitrogen-fixer providing edible seeds and poultry fodder.
+- **Leucaena** (*[[caragana-arborescens]]*): Cold-hardy nitrogen-fixer providing edible seeds and poultry fodder.
 
 ### Timber and Construction Species
 
@@ -86,20 +52,8 @@ In food forest designs, coppiced canopy trees can be managed to allow light for 
 
 - **Timing:** Cut during the dormant season (winter in temperate zones, dry season in tropics) to minimize stress and maximize regrowth.
 - **Stool health:** Avoid cutting below the previous cut to prevent rot entering the stool. Clean, angled cuts heal fastest.
-- **[[coleman-yearly-schedule-multi-crop-winter-rotation-planning]]:** Divide coppiced areas into sections (coups) and harvest each on rotation so some areas are always at peak production.
-- **Species selection:** Choose species matched to local climate, soil, and intended products. Avoid coppicing very old trees that have lost vigor.
-- **Protection:** New shoots may need protection from browsing animals, especially rabbits and deer.
-
-## Historical Context
-
-Coppicing has been practiced for thousands of years across Europe, Asia, and elsewhere. In Britain, many ancient woodlands have been continuously coppiced for centuries, creating rich ecosystems that depend on the regular cutting cycle. The revival of coppicing in permaculture represents a return to these time-tested sustainable practices, adapted for modern food and resource production systems.
-
-## See Also
-
-- [[nitrogen-fixing-trees]]
-- [[agroforestry]]
+- **[[nitrogen-fixing-trees]]
 - [[permaculture-windbreak-design]]
-- [[sustainable-forestry-coppicing-and-woodlot-management]]
 - [[forest-garden-design-principles]]
 
 ## Practical Applications
@@ -124,8 +78,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[permaculture-design]]
 - [[permaculture]]
-- [[alnus-glutinosa]]
 - [[acacia]]
 - [[forest-gardens]]

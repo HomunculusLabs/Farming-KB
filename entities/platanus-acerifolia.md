@@ -28,7 +28,7 @@ Its distinctive mottled bark and large palmate leaves make it immediately recogn
 
 ## Taxonomy and Morphology
 
-**Platanus × acerifolia** (Aiton) Willd. is a natural hybrid of *[[platanus-orientalis]]* L. and *[[platanus-occidentalis]]* L.
+**Platanus × acerifolia** (Aiton) Willd. is a natural hybrid of *[[platanus-occidentalis]]* L.
 
 It was first described in the late 17th century from specimens growing in the Oxford Botanic Garden and the Vauxhall Gardens in London.
 
@@ -66,11 +66,7 @@ Each ball contains 600–1,000 tiny seeds, which are dispersed by wind over cons
 
 ## Distribution and Habitat
 
-The London planetree is widely naturalized across [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]] of Europe, [[psilocybin-north-america-pacific-northwest]], Australia, and parts of [[guzman-psilocybin-mushrooms-south-america]].
-
-It is not found in the wild as a native species; all populations originate from cultivated or naturalized plantings.
-
-The tree thrives in [[query-how-do-green-roofs-and-living-walls-benefit-urban-environments]] including streets, plazas, parking lots, and parkland.
+The London planetree is widely naturalized across [[psilocybin-north-america-pacific-northwest]], Australia, and parts of [[query-how-do-green-roofs-and-living-walls-benefit-urban-environments]] including streets, plazas, parking lots, and parkland.
 
 It tolerates a wide range of soil types from sandy loams to heavy clays, provided drainage is adequate.
 

@@ -11,7 +11,7 @@ sources:
 
 ## Overview
 
-JADAM uses [[comparison-leaf-mold-composting-vs-hot-composting-method]] as a seed and seedling treatment to boost root settlement and prevent disease. This simple, nearly free method replaces commercial root promoters by leveraging the millions of [[beneficial-indigenous-microorganisms-bim]] and their excreta found in leaf mold.
+JADAM uses [[beneficial-indigenous-microorganisms-bim]] and their excreta found in leaf mold.
 
 ## The Principle
 
@@ -57,28 +57,11 @@ Use about 500 grams each time. Collect every changing season, or bring a large a
 
 You can make it yourself:
 1. Find an uncontaminated piece of land
-2. Cut [[jadam-cover-crop-wild-grass-symbiosis]] and cover the soil with it
-3. Keep it moist by frequently watering
-4. Microorganisms in soil and air will propagate on the grass and soil surface
-5. Soil becomes soft and usable as leaf mold in approximately 3 weeks (optimum conditions)
-
-Using wet grass is better than straw because straw has low moisture content. This method works anywhere on earth.
-
-## Disease Prevention Through Biodiversity
-
-JADAM's view: canker and athlete's foot are essentially the same thing. Chemical pesticide cannot control canker; medicine rarely fixes athlete's foot. However, when you tackle them with microbial diversity, the disease-causing organisms are neutralized.
-
-This is the fundamental JADAM principle applied to seed treatment: maximize microbial diversity so no single pathogen can dominate. The same microorganisms that protect soil health protect seed and seedling health.
-
-## Connection to Soil Foundation Work
-
-Seed and seedling treatment is the first step in establishing the microbial diversity that continues throughout the [[savory-growing-season-and-non-growing-season-management]]. It pairs with soil foundation work using JMS, seawater, phyllite solution, and JLF to create a comprehensive system of biological protection and nutrition.
+2. Cut [[savory-growing-season-and-non-growing-season-management]]. It pairs with soil foundation work using JMS, seawater, phyllite solution, and JLF to create a comprehensive system of biological protection and nutrition.
 
 ## See Also
 
-- [[jadam-microorganism-solution-jms]] -- the microbial culture for ongoing treatment
 - [[jadam-anaerobic-fermentation]] -- the fermentation principle behind microbial activity
-- [[jadam-seed-treatment-leaf-mold]]
 - [[jadam-cover-crop-wild-grass-symbiosis]]
 
 ## Practical Applications
@@ -110,8 +93,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[indigenous-microorganisms]]
 - [[dom]]
-- [[composting]]
 - [[cho-seed-seedling-solution-treatment]]
 - [[jadam-seed-treatment-and-storage]]

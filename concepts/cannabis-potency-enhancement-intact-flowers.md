@@ -8,14 +8,7 @@ sources: []
 ---
 # Cannabis Potency Enhancement of Intact Flowers
 
-A technique for increasing the potency of intact marijuana flowers by extracting, purifying, and intensifying the [[cervantes-hash-cannabis-oil-production]], then re-infusing it back into the original plant material. The result can be flowers over twelve times their original potency while maintaining their original appearance.
-
-## Process Overview
-
-1. **Extract oil** from intact flowers (placed in cheesecloth bag)
-2. **Purify** by re-extraction with petroleum ether
-3. **Isomerize** cannabidiol to THC
-4. **Acetylate** THC to [[cannabis-thc-acetate-preparation]] (optional, for maximum potency)
+A technique for increasing the potency of intact marijuana flowers by extracting, purifying, and intensifying the [[cannabis-thc-acetate-preparation]] (optional, for maximum potency)
 5. **Recover tars and resins** from the ether extraction byproduct
 6. **Re-infuse** the intensified oil + tars back into the original flowers
 
@@ -24,13 +17,7 @@ A technique for increasing the potency of intact marijuana flowers by extracting
 ### Extraction
 
 1. Place intact marijuana flowers in a cheesecloth bag
-2. Reflux in solvent (alcohol) using standard [[lemon-cannabis-alchemy-reflux-apparatus-and-laboratory-setup]] for 3-4 hours
-3. Remove cheesecloth bag with spent flowers; set flowers aside to dry completely
-4. Extract oil from solvent as in standard method (soxhleting, distillation)
-
-### Purification and Intensification
-
-1. Dissolve [[cannabis-hashish-from-extracted-oil-techniques]] in alcohol, pour into equal volume of water
+2. Reflux in solvent (alcohol) using standard [[cannabis-hashish-from-extracted-oil-techniques]] in alcohol, pour into equal volume of water
 2. Extract with petroleum ether (standard purification)
 3. Separate ether/oil layer from water/alcohol layer
 4. Perform isomerization (sulfuric acid in alcohol, reflux 2 hours)
@@ -63,18 +50,11 @@ The flowers are now coated with intensified oil and can be over 12× their origi
 - Medical applications requiring precise dosing with enhanced material
 - Maximizing the value of a given harvest
 
-See also [[cannabis-thc-acetate-preparation]], [[cannabis-hash-making-from-extracted-oil]].
+See also [[cannabis-hash-making-from-extracted-oil]].
 
 ## See Also
 
-- [[cannabis-potency-enhanced-flowers]], [[cannabis-microbial-terpene-enhancement]], [[cannabis-ph-management-and-soil-flushing]], [[cannabis-flowering-stage-management]], [[cannabis-drug-interactions-and-contraindications]]
-
-## Practical Applications
-
-The principles outlined on this page connect directly to hands-on work in gardens,
-farms, and homesteads. Integrating these concepts with complementary techniques from
-related disciplines can significantly improve outcomes. Start with small-scale
-implementation and scale up as understanding deepens through [[fukuoka-direct-observation-method]].
+- [[cannabis-microbial-terpene-enhancement]], [[cannabis-flowering-stage-management]], [[fukuoka-direct-observation-method]].
 
 ## Safety Considerations
 
@@ -111,8 +91,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[doc]]
 - [[thc-acetate]]
-- [[det]]
 - [[petroleum-ether]]
 - [[hashish]]

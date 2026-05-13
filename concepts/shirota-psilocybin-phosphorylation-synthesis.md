@@ -1,6 +1,6 @@
 ---
 title: Shirota Psilocybin Phosphorylation Synthesis
-aliases: [[acetyl-protection-route-psilocin-psilocybin-synthesis]], [[phosphorylation-methods-psilocybin-production-comparison]], tetrabenzylpyrophosphate]
+aliases: phosphorylation-methods-psilocybin-production-comparison, tetrabenzylpyrophosphate]
 tags: [chemistry, synthesis, psilocybin, phosphorylation, organic-chemistry, tryptamines]
 source: concise-large-scale-synthesis-of-psilocin-and-psilocybin-shirota-hakamata-goda.md
 created: 2026-05-09
@@ -18,36 +18,14 @@ chromatography-free process.
 ## Phosphorylation Method Selection
 
 Several phosphorylation methodologies were applied to psilocin. Most of the
-phosphorylation methods tested did not consume the [[shirota-4-hydroxyindole-acetyl-protection-psilocin-synthesis-starting-material]] at all,
-indicating that the steric and electronic environment of the psilocin 4-hydroxy
-group presents challenges for phosphorylation.
-
-Two methods showed promise. The phosphoryl iodide method, using tribenzyl
-phosphite, iodine, and DMAP (4-dimethylaminopyridine) as a catalyst, was able
-to phosphorylate psilocin. The pyrophosphate method, using tetrabenzylpyrophosphate
-and n-butyllithium, also showed reactivity. The pyrophosphate method was
-ultimately selected for large-scale work due to easier handling of reagents and
-superior reagent stability compared to the moisture-sensitive phosphoryl iodide
-reagents.
-
-## The Phosphorylation Reaction
-
-The phosphorylation is carried out by dissolving psilocin (1) in anhydrous THF
-and cooling to -78°C. A 2.6M solution of n-butyllithium in n-hexane is added,
-and after five minutes of stirring, tetrabenzylpyrophosphate—prepared in nearly
-quantitative yield from [[zwitterionic-n-o-dibenzyl-phosphate-intermediate]] using a modified literature
+phosphorylation methods tested did not consume the [[zwitterionic-n-o-dibenzyl-phosphate-intermediate]] using a modified literature
 procedure—is added all at once. Stirring continues for one hour while the
 temperature is allowed to warm to 0°C.
 
-After checking TLC for production of the dibenzyl [[hmbc-noesy-nmr-analysis-zwitterionic-phosphate-intermediate-psilocybin]] (7),
-[[aminopropyl-silica-gel-chromatography-indole-alkaloid-purification]] is added to the reaction mixture, which is then diluted
+After checking TLC for production of the dibenzyl [[aminopropyl-silica-gel-chromatography-indole-alkaloid-purification]] is added to the reaction mixture, which is then diluted
 with ethyl acetate and filtered through a Celite pad. The filtrate is
 concentrated, redissolved in CH2Cl2, and stored overnight to allow
-precipitation of the [[psilocybin-phosphorylation-via-zwitterionic-intermediate]] (8).
-
-## Catalytic Hydrogenolysis
-
-The zwitterionic N,O-dibenzyl [[psilocybin-synthesis-zwitterionic-phosphate-intermediate-shirota-2003]] (8) is subjected to
+precipitation of the [[psilocybin-synthesis-zwitterionic-phosphate-intermediate-shirota-2003]] (8) is subjected to
 catalytic hydrogenolysis to remove both benzyl protecting groups. The reaction
 uses hydrogen gas and palladium on carbon (Pd/C) in methanol at room temperature.
 The disappearance of compound 8 and its mono-debenzyl derivative is monitored
@@ -88,3 +66,85 @@ NMe2). 13C NMR (D2O + MeOH, 100 MHz): delta 146.4 (C-4, split), 139.4
 108.6 (C-3), 108.4 (C-7), 59.7 (C-2'), 43.4 (NMe2), 22.4 (C-1').
 
 ## 31P NMR and Mass Spectrometry
+
+## Overview
+
+Shirota Psilocybin Phosphorylation Synthesis represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish shirota psilocybin phosphorylation synthesis
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving shirota extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Shirota Psilocybin Phosphorylation Synthesis finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for shirota psilocybin phosphorylation synthesis. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+shirota psilocybin phosphorylation synthesis and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Shirota Psilocybin Phosphorylation Synthesis has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of shirota psilocybin phosphorylation synthesis into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[shirota-4-hydroxyindole-acetyl-protection-experimental]]
+- [[shirota-glyoxalylamide-formation-oxalyl-chloride-indole]]

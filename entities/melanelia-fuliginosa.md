@@ -17,53 +17,13 @@ sources:
 
 ## Overview
 
-**Melanelia fuliginosa** is a common foliose lichen in the family Parmeliaceae, widely distributed across [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]] of the Northern Hemisphere. It forms dark brown to nearly black rosettes on rock and bark surfaces in a variety of habitats.
-
-The species was long known as *Parmelia fuliginosa* before being transferred to the segregate genus Melanelia by Theodore Esslinger in 1978. It is one of the most frequently encountered melanized foliose lichens in Europe and North America.
-
-Like other Melanelia species, it produces atranorin and various depsidones as [[antifungal-secondary-metabolites-coprophilous-fungi]]. The dark pigmentation results from melanins in the upper cortex that provide protection against ultraviolet radiation.
+**Melanelia fuliginosa** is a common foliose lichen in the family Parmeliaceae, widely distributed across [[antifungal-secondary-metabolites-coprophilous-fungi]]. The dark pigmentation results from melanins in the upper cortex that provide protection against ultraviolet radiation.
 
 ## Taxonomy and Morphology
 
-Melanelia fuliginosa was first described as *Lichen fuliginosus* by Dufour in 1822. It was subsequently treated within Parmelia for most of the [[coleman-louis-savier-twentieth-century-maraicher]]. Esslinger's revision of the brown Parmeliae established Melanelia as a distinct genus based on cortical chemistry and ascus structure.
+Melanelia fuliginosa was first described as *Lichen fuliginosus* by Dufour in 1822. It was subsequently treated within Parmelia for most of the [[xanthoria-parietina]] but more tolerant than many Usnea species.
 
-The thallus is foliose, forming adnate to loosely attached rosettes 3 to 10 cm in diameter. Lobes are irregularly rounded to sublinear, 1 to 4 mm wide, with entire to slightly crenulate margins.
-
-The upper surface is dark brown to olive-brown, often appearing almost black when dry. It becomes distinctly darker when wet, a feature that distinguishes it from some similar Melanelia species.
-
-The lower surface is dark brown to black with a paler margin and sparse to moderate rhizines. Rhizines are black, simple to dichotomously branched, and up to 1.5 mm long.
-
-Apothecia are lecanorine, 1 to 3 mm in diameter, with a brown disc and a well-developed thalline margin. Ascospores are ellipsoid, simple, hyaline, and measure 9 to 14 by 5 to 7 μm.
-
-Pycnidia are common, immersed in the thallus surface, producing bacilliform to filiform conidia. Chemical spot tests show K+ yellow, C−, KC−, Pd+ pale yellow on the cortex.
-
-The medulla contains stictic acid or related substances in most chemotypes. Soralia and isidia are absent, and reproduction occurs primarily through thallus fragmentation and ascospore dispersal.
-
-The upper cortex contains a dense layer of melanin pigments 15 to 30 μm thick. This pigmentation is most pronounced in specimens from high-light exposed habitats.
-
-Melanelia fuliginosa is distinguished from the similar M. exasperatula by its broader lobes and different medullary chemistry. M. glabratula is another lookalike but has a smoother upper surface and lacks the dark pigmentation intensity of M. fuliginosa.
-
-## Distribution and Habitat
-
-Melanelia fuliginosa has a broad distribution across Europe, North America, and temperate Asia. It is particularly abundant in oceanic and suboceanic regions with relatively high humidity and moderate temperatures.
-
-The species is both saxicolous and corticolous, growing on siliceous rocks and the bark of various trees. On rock, it prefers sheltered overhangs and north-facing surfaces with reduced direct sunlight.
-
-On bark, it is most frequently found on mature oaks, elms, and other rough-barked deciduous species. It is uncommon on smooth-barked trees such as beech or birch.
-
-The species shows a preference for bark with moderate to high pH and reasonable moisture retention capacity. It is rarely found on highly acidic conifer bark in natural forest settings.
-
-It occurs from lowland to montane elevations, reaching approximately 1,500 meters in the Alps and other European mountain ranges. In Scandinavia, it extends north to the Arctic Circle in coastal oceanic areas.
-
-The species tolerates moderate levels of atmospheric pollution and can persist in suburban and semi-urban environments. It is considered an intermediate bioindicator species, more sensitive than [[xanthoria-parietina]] but more tolerant than many Usnea species.
-
-In North America, M. fuliginosa ranges from Newfoundland to the Great Lakes region and south through the Appalachian Mountains. It is less common in the [[psilocybin-north-america-pacific-northwest]] but occurs on coastal outcrops from northern California to British Columbia.
-
-Asian populations are documented from Japan, Korea, and mountainous regions of China. The species is less thoroughly collected in Asia, and its full range may be underestimated.
-
-## Chemistry and Bioactive Compounds
-
-The cortex of Melanelia fuliginosa contains atranorin as the primary [[fungal-elicitors-enhanced-secondary-metabolite-production]]. The medulla typically contains stictic acid, constictic acid, or norstictic acid depending on the chemotype.
+In North America, M. fuliginosa ranges from Newfoundland to the Great Lakes region and south through the Appalachian Mountains. It is less common in the [[fungal-elicitors-enhanced-secondary-metabolite-production]]. The medulla typically contains stictic acid, constictic acid, or norstictic acid depending on the chemotype.
 
 Several chemotypes have been recognized within M. fuliginosa based on medullary chemistry. The stictic acid chemotype is the most widespread, while the norstictic acid chemotype is more common in oceanic populations.
 
@@ -81,10 +41,89 @@ Extracts containing stictic acid have demonstrated antiviral activity in some sc
 
 Melanelia fuliginosa contributes to the biodiversity of epiphytic and saxicolous lichen communities across temperate forests. It provides substrate and shelter for diverse microarthropod communities including oribatid mites and collembolans.
 
-The species participates in [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] through the fixation of atmospheric nitrogen and the accumulation of mineral nutrients. Its thallus retains moisture that benefits surrounding cryptogamic communities including mosses and liverworts.
-
-Lichen-associated microfauna found on M. fuliginosa include tardigrades, nematodes, and various protozoan species. These communities contribute to [[fungal-decomposition-processes]] and nutrient mineralization within the lichen microhabitat.
+The species participates in [[fungal-decomposition-processes]] and nutrient mineralization within the lichen microhabitat.
 
 As an intermediate bioindicator species, M. fuliginosa provides valuable information about air quality and forest health. Its presence, abundance, and morphological condition are used in standardized lichen biomonitoring protocols throughout Europe.
 
 The species plays a role in [[dighton-fungi-volcanic-glacier-primary-succession]] on rock surfaces, facilitating the establishment of mosses and vascular plants. It is among the earlier colonizers of fresh stone and concrete surfaces in urban and rural settings.
+
+## Overview
+
+Melanelia Fuliginosa represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish melanelia fuliginosa
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving melanelia extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Melanelia Fuliginosa finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for melanelia fuliginosa. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+melanelia fuliginosa and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Melanelia Fuliginosa has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of melanelia fuliginosa into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[sticta-fuliginosa]]

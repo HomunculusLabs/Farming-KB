@@ -18,62 +18,14 @@ type: concept
 
 Fungi have colonized the human built environment with remarkable success,
 following humans indoors from forests, across oceans in wooden ships, and
-even into orbit aboard spacecraft. Beyond the serious [[fungal-spore-biology]] mechanisms in the fungal
-kingdom: a mechanical springboard that ejects a single 1 mm diameter black
-ball (gleba) filled with spores to distances of up to 5.5 metres, setting
-the record for fungal propulsion.
-
-### The Springboard Mechanism
-
-The mechanism develops as a sphere on the substrate surface that cracks open
-to reveal an inner cup glistening with fluid and cradling the gleba. Held
-under increasing tension, the inner cup finally everts, propelling the gleba
-in an arching trajectory aimed at the sun. A useful physical model is an old,
-slightly flaccid tennis ball: pressing one half into the other forms a dish
-that flips outward when released. The rapid motion of the inner cup produces
-an audible popping sound.
-
-This extraordinary mechanism was first described by Pier Antonio Micheli in
-his Nova Plantarum Genera, published in 1729. The fungus was then referred
-to as Carpobolus. The detailed mechanics were elucidated by Terence Ingold
-in a 1972 paper in the Transactions of the British Mycological Society.
-The [[indoor-wood-decay-fungi-building-deterioration]] for more on building fungi.
+even into orbit aboard spacecraft. Beyond the serious [[indoor-wood-decay-fungi-building-deterioration]] for more on building fungi.
 - **Coprinus and Coprinopsis species (ink cap mushrooms)**: commonly found
   on sodden door and window frames where persistent moisture allows
-  colonization of [[singh-wood-rot-fungi-structural-timber-decay]].
-- These fungi typically require plumbing disasters or persistent leaks in
-  the building envelope rather than the water-transport capabilities of
-  true dry [[comparison-white-rot-fungi-vs-brown-rot-fungi-biodegradation]].
+  colonization of [[comparison-white-rot-fungi-vs-brown-rot-fungi-biodegradation]].
 
 ## Fungi in Space
 
-The colonization of [[fungal-biodiversity-built-environments-indoor-mycobiome]] by fungi extends literally to outer
-space. Russian scientists studying samples from the Mir space station since
-the 1980s documented more than 100 different species of fungi growing in
-the spacecraft. Cosmonauts and astronauts have noticed fungal colonies
-growing on the portholes of the International Space Station, prompting
-extreme efforts to sterilize incoming cargo and aggressive housekeeping
-protocols.
-
-The fungi found in space habitats are the same species that grow in homes on
-Earth, demonstrating the extraordinary adaptability of these organisms and
-the difficulty of excluding them from sealed environments. After millions of
-years of 'unwitnessed toil', the biological careers of fungi have intersected
-with human history, and they will likely outlast our civilization.
-
-## Historical Context
-
-The fungus-house relationship has a long history. Samuel Pepys documented
-the destruction of Royal Navy ships by fungal decay in the 1680s. The
-artillery fungus was studied by the great mycological pioneers Micheli
-(1729), Sowerby (1812), and Ingold (1972). From the biblical 'fretting
-leprosy of the house' in Leviticus to modern multi-million-dollar insurance
-claims, fungi in the built environment have been a persistent and costly
-companion to human civilization.
-
-## See Also
-
-- [[gadd-fungal-biodegradation-bioremediation]]
+The colonization of [[gadd-fungal-biodegradation-bioremediation]]
 - fungal-cellulose-decomposition-fungal-enzymes
 ## Practical Considerations
 
@@ -116,8 +68,83 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[doc]]
 - [[dom]]
-- [[det]]
 - [[spore]]
 - [[decomposition]]
+
+## Overview
+
+Artillery Fungus And Built Environment Fungi represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish artillery fungus and built environment fungi
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving artillery extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Artillery Fungus And Built Environment Fungi finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for artillery fungus and built environment fungi. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+artillery fungus and built environment fungi and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Artillery Fungus And Built Environment Fungi has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of artillery fungus and built environment fungi into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.

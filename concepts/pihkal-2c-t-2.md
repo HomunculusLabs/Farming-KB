@@ -22,22 +22,6 @@ substituted 2C compounds.
 2C-T-2 features an ethylthio group at the 4-position, contributing to its
 distinctive effects: strong visual activity, moderate body load, and a
 duration between shorter 2C-B and longer 2C-E. The sulfur atom imparts unique
-[[tihkal-receptor-binding-serotonin]] characteristics setting the 2C-T series apart.
-
-Shulgin explored the 2C-T series extensively, synthesizing multiple variants
-with different alkyl chain lengths. This systematic exploration of thio-
-substituted phenethylamine structure-activity relationships exemplifies his
-methodical approach to psychedelic chemistry.
-
-## Chemical Structure and Classification
-
-2C-T-2's IUPAC name is 2-(4-ethylsulfanyl-2,5-dimethoxyphenyl)ethan-1-
-amine. It features the standard 2,5-dimethoxyphenethylamine backbone with a
-sulfur atom bonded to an ethyl group at the 4-position (ethylthio group).
-
-The sulfur linkage is pharmacologically significant: sulfur atoms have
-different electronic properties, polarizability, and bonding characteristics
-compared to carbon or halogen atoms. These influence interaction with
 [[psilocybin-pharmacology-and-serotonin-receptors]], particularly 5-HT2A, and may contribute to the
 distinctive body load associated with 2C-T compounds.
 
@@ -82,9 +66,85 @@ grounded, earthy quality.
 He commented on systematic trends within the 2C-T series, noting how
 increasing alkyl chain length influenced potency and duration. This careful
 documentation of structure-activity relationships exemplifies Shulgin's
-contribution to [[taar1-trace-amine-associated-receptor-psychedelic-pharmacology]].
-
-## Pharmacology
-
-2C-T-2 acts primarily as a [[serotonin]] 5-HT2A receptor agonist with
+contribution to [[serotonin]] 5-HT2A receptor agonist with
 additional activity at 5-HT2C. The ethylthio substituent's unique electronic
+
+## Overview
+
+Pihkal 2C T 2 represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish pihkal 2c t 2
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving pihkal extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Pihkal 2C T 2 finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for pihkal 2c t 2. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+pihkal 2c t 2 and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Pihkal 2C T 2 has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of pihkal 2c t 2 into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+## See Also
+
+- [[methyl-ma-entity-pihkal]]
+- [[mee-entity-pihkal]]
+- [[mdpl-entity-pihkal]]
+- [[aleph-entity-pihkal]]
+- [[im-entity-pihkal]]

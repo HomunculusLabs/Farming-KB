@@ -12,8 +12,7 @@ updated: 2026-05-09
 sources:
   - Barkworth, M.E. et al. (2007). "Grasses of the Western Great Plains." Oxford University Press.
   - USDA NRCS (2024). "Plant Profile: Hordeum jubatum." Natural Resources Conservation Service.
-  - Wilson, B.L. et al. (2010). "[[field-guide-psilocybin-bluing-reaction-identification]] to the Grasses of Oregon and Washington." Oregon State University Press.
-  - Hitchcock, A.S. (1951). "Manual of the Grasses of the [[dmt-containing-plants-united-states-halpern]]." USDA Miscellaneous Publication No. 200.
+  - Wilson, B.L. et al. (2010). "dmt-containing-plants-united-states-halpern." USDA Miscellaneous Publication No. 200.
   - Jacobs, D.L. & Jacobi, W.R. (1991). "Foliar Applied Herbicides for Control of Foxtail Barley." Weed Technology 5(2): 371-374.
 ---
 
@@ -21,7 +20,7 @@ sources:
 
 **Hordeum jubatum** is a perennial bunchgrass in the family Poaceae, commonly known as foxtail barley.
 
-The species is native to much [[berry-growing]] and has become naturalized in parts of [[guzman-psilocybin-mushrooms-south-america]], Europe, Asia, and Australia.
+The species is native to much [[guzman-psilocybin-mushrooms-south-america]], Europe, Asia, and Australia.
 
 It is readily recognized by its dense, silky-appearing inflorescences that resemble fox tails, which range from greenish to purplish-pink and fade to pale tan at maturity.
 
@@ -75,9 +74,7 @@ Foxtail barley is occasionally cultivated as an ornamental grass for its showy, 
 
 It is valued in naturalistic plantings, prairie restorations, and low-maintenance landscapes where its graceful seed heads provide visual interest through summer and fall.
 
-The species performs best in full sun and tolerates poor, saline soils that challenge many other [[ornamental-grasses-guide]].
-
-In cultivation, plants are typically propagated by seed sown in fall or [[coleman-overwintered-onions-and-early-spring-crops]], with germination occurring readily under moist conditions.
+The species performs best in full sun and tolerates poor, saline soils that challenge many other [[coleman-overwintered-onions-and-early-spring-crops]], with germination occurring readily under moist conditions.
 
 Division of established clumps is also possible but less commonly practiced due to the plant's relatively short lifespan of three to five years.
 
@@ -88,3 +85,7 @@ Young plants are grazed by livestock but palatability declines rapidly as the in
 The barbed awns can cause injury to the mouths and digestive tracts of grazing animals, particularly when mature forage is consumed in quantity.
 
 Indigenous peoples of the Great Plains reportedly harvested the seeds of foxtail barley as a minor food source, grinding them into flour.
+
+## See Also
+
+- [[hordeum-maritimum]]

@@ -3,7 +3,7 @@ title: Rainwater Harvesting Systems
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
-tags: [[homesteading]], off-grid, water, [[water-management]], engineering, sustainability]
+tags: [homesteading, off-grid, water, water-management, engineering, sustainability]
 sources: []
 ---
 
@@ -34,7 +34,7 @@ materials.
 - Downspouts direct flow to the first flush diverter and storage
 
 ### First Flush Diverter
-The first 0.02 inches of rain per [[comparison-biointensive-vs-square-foot-gardening]] of catchment washes dust,
+The first 0.02 inches of rain per square foot of catchment washes dust,
 bird droppings, pollen, and debris from the roof. A first flush diverter
 captures and discards this contaminated water.
 
@@ -69,7 +69,7 @@ events. See sizing section below.
 - Elevate tanks (at least 2 feet) for gravity-fed distribution
 - Place on a level, compacted surface (concrete pad, gravel bed)
 - Site in shade to reduce algae growth and water heating
-- Protect from freezing [[query-how-do-i-grow-figs-in-cold-climates]] (insulation, heat tape, or bury)
+- Protect from freezing in cold climates (insulation, heat tape, or bury)
 
 ### Filtration and Treatment
 
@@ -78,7 +78,7 @@ events. See sizing section below.
 1. **Coarse screen** (first flush diverter) — removes large debris
 2. **Settling tank** — allows suspended solids to settle (optional)
 3. **Cartridge filter** — 20-50 micron sediment filter
-4. **[[carbon-filter-cannabis]]** — removes taste, odor, and [[chamovitz-plant-scent-communication-volatile-organic-compounds]]
+4. **Carbon filter** — removes taste, odor, and organic compounds
 5. **UV disinfection** — ultraviolet light inactivates bacteria, viruses,
    and protozoa (requires power)
 6. **Boiling or chemical** — backup disinfection method
@@ -140,10 +140,11 @@ Test water annually for: coliform bacteria, E. coli, pH, turbidity, lead,
 and nitrate. Use a state-certified laboratory.
 
 ## Maintenance Schedule
-- **Monthly** — check gutters, screens, and first flush diverter
-- **Quarterly** — inspect tank for sediment, algae, and mosquito larvae
-- **Annually** — clean tank interior, replace sediment filters, test water
-  quality, inspect all fittings and seals
-- **After major storms** — clean gutters and screens of debris
 
-## Off-Grid Integration
+## See Also
+
+- [[comparison-greywater-vs-rainwater-harvesting]]
+- [[mollison-designers-rainwater-harvesting-swale-systems]]
+- [[solomon-rainwater-harvesting-for-gardens]]
+- [[query-how-do-i-set-up-a-rainwater-harvesting-system-for-my-garden]]
+- [[rainwater-tanks-and-water-quality]]

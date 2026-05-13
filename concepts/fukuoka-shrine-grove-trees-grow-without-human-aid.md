@@ -1,9 +1,5 @@
 ---
-source: "The Natural Way of Farming - [[masanobu-fukuoka]]"
-source_file: administrator-microsoft-word-fukuoka-textdoc.md
-extracted: 2026-04-10
-type: concept
-tags: [[natural-farming]], fukuoka, forests, shrine-groves, ecological-observation, trees, no-intervention, scientific-forestry-critique]
+source: "The Natural Way of Farming - natural-farming, fukuoka, forests, shrine-groves, ecological-observation, trees, no-intervention, scientific-forestry-critique]
 ---
 
 # Shrine Grove Trees Grow Without Human Aid
@@ -11,46 +7,8 @@ tags: [[natural-farming]], fukuoka, forests, shrine-groves, ecological-observati
 ## Summary
 
 Fukuoka observes that shrine groves in Japanese villages grow to magnificent size without any
-application of [[duggar-mushroom-nutrition-science-fermentation-biological-requirement]], plant ecology, pesticides, or human intervention whatsoever.
-Trees saved from axe and saw by the shrine deity grew into large trees "of their own accord,"
-demonstrating that nature maintains forests entirely without human knowledge or management.
-This stands in stark contrast to scientific forestry that clears diverse forests and replants
-with single species, triggering cascading ecological collapse.
-
-## Key Concepts
-
-Fukuoka draws on a powerful everyday observation to challenge the fundamental premise of
-scientific land management. Shrines in Japanese villages are, he notes, "often surrounded by a
-grove of tall trees." These trees are not the product of any forestry program, any nutrient
-management plan, any [[hamilton-beneficial-insects-and-biological-pest-control]] regimen, or any human [[boil-a-bag-mushroom-cultivation-technique]]. They were not
-"grown with the aid of nutrition science, nor were they protected by plant ecology." The single
-reason they reached their great size is that they were "saved from the axe and saw by the shrine
-deity." Left alone, they "grew into large trees of their own accord."
-
-This observation is deceptively simple but carries profound implications. It means that the entire
-apparatus of modern forestry — soil analysis, species selection, fertilization schedules, pest
-monitoring, thinning operations — is unnecessary for trees to grow to maturity. Nature already
-contains everything needed. As Fukuoka states elsewhere, "Soil enriches itself year in and year
-out without man having to lift a finger." The shrine grove is living proof of this principle on
-a grand scale, demonstrating that the earth has its own mechanisms for maintaining fertility and
-supporting plant life across generations without any input from human science or technology.
-
-The contrast with scientific forestry could not be sharper. Fukuoka describes how modern forestry
-operates: "Trees are logged for their value as lumber, and species of economic value to man, such
-as pine and cedar, are planted in large number. We even go so far as to call this 'forestry
-conservation.'" This label, he argues, is deeply misleading. What is actually happening is the
-destruction of a complex, self-sustaining ecosystem and its replacement with a fragile
-monoculture. The word "conservation" is appropriated to describe the very process of ecological
-destruction, revealing how thoroughly [[critique-of-scientific-agriculture]] has confused itself about what it
-means to care for the land and maintain the health of [[dighton-fungi-acidifying-pollutants-forest-ecosystems]] over time.
-
-When a diverse section of forest is clear-cut and replaced with cedar trees, a cascade of
-ecological consequences follows that no scientist anticipated or can fully trace. There is no
-longer enough food for small birds, so they disappear. Without the birds, long-horned beetles
-flourish. The beetles carry nematodes that attack red pines, which are themselves weakened by the
-disappearance of the edible matsutake fungus that once lived symbiotically on their roots. The
-beneficial fungus dies off due to increased harmful Botrytis fungus in the soil, driven by soil
-acidity from atmospheric pollution and [[stamets-mycorrhizal-decline-europe-acid-rain-forest-health]]. Fukuoka notes that "this backward regression
+application of [[hamilton-beneficial-insects-and-biological-pest-control]] regimen, or any human [[critique-of-scientific-agriculture]] has confused itself about what it
+means to care for the land and maintain the health of [[stamets-mycorrhizal-decline-europe-acid-rain-forest-health]]. Fukuoka notes that "this backward regression
 from effect to prior cause continues in an unending chain that leaves one wondering what the
 true cause is." No matter how closely one looks, there is no limit to the complexity and detail
 with which nature interacts to effect constant, organic change in the living world.
@@ -117,8 +75,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[det]]
 - [[mycorrhiza]]
-- [[query-what-are-the-best-medicinal-herbs-to-grow-for-a-first-aid-garden]]
 - [[fukuoka-pest-management-without-chemicals]]
 - [[fukuoka-pest-balance-without-chemicals]]

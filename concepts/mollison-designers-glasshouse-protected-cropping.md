@@ -12,7 +12,7 @@ tags: [permaculture, mollison, designers-manual, glasshouse, greenhouse, protect
 
 Glasshouses and protected cropping structures extend the growing season and
 enable cultivation of warmth-loving species in cool and cold climates.
-In permaculture design, glasshouses serve multiple functions beyond simple
+In [[permaculture-design]], glasshouses serve multiple functions beyond simple
 plant production: they provide thermal mass for house heating, create
 microclimates for seedling production, enable intensive food production in
 small areas, and can integrate with animal housing, composting, and water
@@ -90,7 +90,7 @@ decomposition heat contributes to the thermal environment.
 
 ## Water Systems Integration
 
-Glasshouses in permaculture design often incorporate water storage tanks
+Glasshouses in permaculture design often incorporate [[water-storage-tanks]]
 that serve dual functions: storing rainwater for irrigation and providing
 thermal mass for temperature moderation. Greywater from the house can be
 directed through the glasshouse for subsurface irrigation of fruiting
@@ -122,8 +122,6 @@ garden system.
 
 ## Cross-References
 
-- Related: [[permaculture-designers-manual-cold-climate-greenhouse]]
 - Related: [[mollison-designers-passive-solar-heating-building-design]]
-- Related: [[permaculture-zone-0-house-design]]
 - Related: [[mollison-designers-food-forest-succession-design]]
 - Related: [[mollison-designers-domestic-animal-integration-design]]

@@ -15,9 +15,7 @@ The skin is richly endowed with components of the endocannabinoid system. Both C
 The skin's endocannabinoid system plays crucial roles in:
 - **Cell growth and differentiation**: Regulating skin cell turnover
 - **Immune function**: Modulating inflammatory responses in skin
-- **Sebaceous gland activity**: Controlling [[cannabis-honey-oil-production]]
-- **Sensory function**: Mediating pain and itch sensation
-- **Hair follicle cycling**: Influencing [[blesching-cannabis-hirsutism-unwanted-hair-growth]] patterns
+- **Sebaceous gland activity**: Controlling [[blesching-cannabis-hirsutism-unwanted-hair-growth]] patterns
 
 ## Psoriasis
 
@@ -44,20 +42,7 @@ CBD has demonstrated particular promise for skin conditions due to:
 - Strong anti-inflammatory properties without psychoactive effects
 - Ability to reduce cytokine production in skin cells
 - Sebum-regulating properties (relevant for acne-associated dermatitis)
-- Good [[cannabis-safety-profile-and-overdose-risk]] for topical use
-
-## Acne
-
-Acne involves overactive sebaceous glands, bacterial colonization, and inflammation. The endocannabinoid system regulates sebaceous gland function:
-- CBD has been shown to normalize sebaceous gland activity
-- Anti-inflammatory properties reduce acne-associated redness and swelling
-- Antibacterial properties of certain cannabinoids may address bacterial colonization
-
-## Skin Cancer
-
-While cannabis is not presented as a cancer cure, cannabinoids have shown potential in dermatological oncology:
-- Anti-proliferative effects on skin cancer cells in laboratory studies
-- Potential to induce apoptosis (programmed [[blesching-cannabis-apoptosis-and-cancer-cell-death]]) in abnormal skin cells
+- Good [[blesching-cannabis-apoptosis-and-cancer-cell-death]]) in abnormal skin cells
 - May help manage symptoms of skin cancer treatments (pain, inflammation)
 
 This remains pre-clinical research and cannabis should not replace conventional skin cancer treatment.
@@ -83,7 +68,7 @@ Emerging research suggests cannabinoids may influence wound healing:
 - **Creams and lotions**: Water-based, easier to spread over large areas
 - **Oils and tinctures**: Can be applied directly to skin or added to baths
 - **Patches**: Transdermal delivery for sustained release
-- **[[blesching-cannabis-decarboxylation-and-raw-cannabis]] poultices**: [[kava-traditional-preparation-ceremonial-context]] using fresh plant material
+- **[[kava-traditional-preparation-ceremonial-context]] using fresh plant material
 
 ### Key Considerations for Topical Use
 - Topicals generally do not produce psychoactive effects because cannabinoids do not enter the bloodstream in significant quantities through the skin
@@ -111,8 +96,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[doc]]
 - [[kava]]
-- [[endocannabinoid-system]]
 - [[decarboxylation]]
 - [[cannabis-for-skin-conditions-detailed]]

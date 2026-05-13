@@ -10,38 +10,7 @@ sources:
 
 # Cannabis and Bipolar Disorder Research
 
-**Source:** The [[blesching-cannabis-health-index-autoimmune-conditions]] (Uwe Blesching, 2017)
-
-**Last Updated:** 2026-04-18
-
-## Overview
-
-Bipolar disorder (BPD), formerly manic depression, is a mood disorder involving episodes of elevated mood (mania or hypomania) alternating with episodes of depression. The extreme mood swings can affect sleep, energy, activity, judgment, behavior, and ability to think clearly. Bipolar I involves full manic episodes; Bipolar II involves hypomanic episodes without full mania.
-
-## Evidence-Based Summary
-
-**CHI Value: 8 (2 studies reviewed)**
-
-### Key Findings
-
-- **Cannabis use in bipolar patients (2010, UK):** Survey of 244 bipolar patients -- those using cannabis showed "clear trends" toward improved cognitive performance on tests of sustained attention, compared to non-users. However, researchers expressed concern about potential for cannabis to exacerbate manic symptoms in some individuals.
-
-- **CBD mood stabilization (2008, Gottingen, Germany):** In bipolar disorder, cannabis use can produce mood swings that may mimic manic or depressive phases. A single study found that CBD use produced both mood-stabilizing and antidepressant effects. However, in at least one case, CBD administration was associated with a transient manic episode.
-
-### Important Caveats
-
-- One study found CBD associated with a transient manic episode (negative outcome, CHI Value -5)
-- Cannabis use may trigger manic episodes in susceptible individuals
-- THC may be destabilizing for some bipolar patients
-- Cannabis should NOT replace mood stabilizers or antipsychotics without medical supervision
-
-### Strain-Specific Considerations
-
-CBD may offer mood-stabilizing properties without the psychoactive effects of THC. High-CBD, low-THC strains or CBD-only preparations may be more appropriate for bipolar patients than THC-dominant strains. Indica strains with lower THC:CBD ratios may be preferable.
-
-## Pharmacological Mechanisms
-
-The [[cannabis-for-mental-health]] research suggests that the endocannabinoid system serves as a homeostatic regulator of emotional tone, and that restoring balanced endocannabinoid signaling may help stabilize the extreme mood fluctuations characteristic of bipolar disorder.
+**Source:** The [[cannabis-for-mental-health]] research suggests that the endocannabinoid system serves as a homeostatic regulator of emotional tone, and that restoring balanced endocannabinoid signaling may help stabilize the extreme mood fluctuations characteristic of bipolar disorder.
 
 ## Clinical Evidence
 
@@ -61,16 +30,7 @@ THC should be used with extreme caution or avoided entirely. If THC is used, mic
 
 Sublingual tinctures allow the most precise dose control, which is essential for this population. Edibles carry significant risk due to delayed onset and variable absorption, making it difficult to titrate accurately. Smoking provides rapid onset but introduces respiratory concerns and makes precise dosing difficult.
 
-Consistent timing of doses is important for mood stability. Erratic dosing schedules may contribute to mood fluctuations. Patients should maintain a mood diary alongside their dosing log to identify any correlations between cannabinoid use and mood changes. See [[cannabis-cbd-therapeutic-profile]] for additional safety information.
-
-## Mind-Body Medicine Perspective
-
-Bipolar disorder may represent an extreme oscillation between two complementary poles of experience -- the expansive, creative, visionary state (mania) and the contracted, introspective, fearful state (depression). Both states have value when balanced. The manic phase provides energy and creative vision; the depressive phase provides reflection and integration. The challenge is developing a stable center from which both states can be accessed consciously rather than being unconsciously driven between them.
-
-## See Also
-
-- [[cannabis-for-anxiety-disorders]]
-- [[cannabis-cbd-therapeutic-profile]]
+Consistent timing of doses is important for mood stability. Erratic dosing schedules may contribute to mood fluctuations. Patients should maintain a mood diary alongside their dosing log to identify any correlations between cannabinoid use and mood changes. See [[cannabis-for-anxiety-disorders]]
 - [[cannabis-safety-profile-and-overdose-risk]]
 ## Practical Considerations
 
@@ -120,8 +80,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[doc]]
 - [[uwe-blesching]]
-- [[dom]]
 - [[endocannabinoid-system]]
 - [[cannabis-epilepsy-research-detailed]]

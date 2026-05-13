@@ -1,6 +1,6 @@
 ---
 title: "Sampling Design Considerations for Macrofungal Surveys"
-source: "[[biodiversity-of-fungi-biodiversity-patterns-ecosystems]]: Inventory and [[fungal-detection-and-monitoring-methods-bioremediation]]"
+source: "fungal-detection-and-monitoring-methods-bioremediation"
 source_file: "raw/papers/unknown-biodiversity-of-fungi.md"
 topics:
   - mycology
@@ -17,27 +17,13 @@ topics:
 
 ## Overview
 
-Designing an effective sampling program for macrofungal biodiversity requires careful consideration of factors that are unique to fungi or that affect fungi more severely than they affect plants and animals. The episodic visibility of fungi (they are only observable during fruiting), the fundamental challenge of defining fungal individuals, the sensitivity of fruiting to weather and season, and the enormous [[macrofungal-fruiting-phenology-interannual-variation]] in species presence all create methodological challenges that demand explicit attention during the planning phase. This page synthesizes key design considerations drawn from established protocols in fungal [[fungal-biodiversity-assessment-methods]].
+Designing an effective sampling program for macrofungal biodiversity requires careful consideration of factors that are unique to fungi or that affect fungi more severely than they affect plants and animals. The episodic visibility of fungi (they are only observable during fruiting), the fundamental challenge of defining fungal individuals, the sensitivity of fruiting to weather and season, and the enormous [[fungal-biodiversity-assessment-methods]].
 
 ## Defining the Sampling Unit
 
 ### The Fundamental Problem of the Fungal Individual
 
-Unlike plants and animals, where the concept of an individual is straightforward, fungi present a unique challenge due to their indeterminate [[brassinosteroid-psilocybe-cubensis-mycelial-growth-research]] form. A single genet (genetic individual) may produce hundreds or thousands of sporocarps (ramets) scattered across a large area, while multiple genets of the same species may occupy the same substrate. This means that population and community metrics designed for unitary organisms must be adapted for fungi.
-
-Each investigator must establish a unit by which presence-absence, biomass, density, or frequency of component species can be estimated over space and time. It is critical that these metrics be based on the same unit of collection and obtained in the same manner throughout the spatial and temporal domain of the investigation. The operational definition of "individual" should be stated explicitly and consistently in all publications.
-
-### Frequency of Occurrence
-
-Frequency of occurrence is calculated as the percentage of sample units in which a species was found, divided by the total number of sample units examined. Because multiple species can occur in the same sample unit, the sum of frequencies across all species can exceed 100%. Standardized relative frequencies, which sum to 100%, may be preferred for some analyses. Investigators should present both the average frequency and the standard error when sampling has been replicated.
-
-## Plot Size and Shape
-
-### Determining Appropriate Plot Size
-
-The most effective size for a sampling plot is determined by the total time required to erect and characterize individual plots as well as the variability of the resultant data. The investigator should have some a priori knowledge of appropriate plot size so that the range of sizes to be evaluated is not excessive. Practicality is also important — plots must be large enough to capture meaningful diversity but small enough to be searched thoroughly within the available time.
-
-A growing body of evidence suggests that ecological patterns and processes are scale-dependent, so considerable caution must be exercised when comparing the results of studies based on plots of different size. The [[fungal-spatial-scale-biodiversity-hierarchical-zak-willig]] at which data are collected should be related to the spatial scales at which causative mechanisms are thought to operate.
+Unlike plants and animals, where the concept of an individual is straightforward, fungi present a unique challenge due to their indeterminate [[fungal-spatial-scale-biodiversity-hierarchical-zak-willig]] at which data are collected should be related to the spatial scales at which causative mechanisms are thought to operate.
 
 ### Plot Shape and Environmental Gradients
 
@@ -49,17 +35,7 @@ However, elongated or rectangular quadrats provide more accurate estimates of sp
 
 ### Collector's Curves and Asymptotes
 
-The total number of species identified from an area of interest increases as the number of samples increases, but eventually attains a plateau (asymptote). The number of samples required to reach this plateau depends on the environmental heterogeneity of the area and the dispersion patterns and [[macrofungal-fruiting-phenology-climate-variability]] of the target species. Collector's curves (also called species accumulation curves) should be generated to determine when sampling effort is sufficient.
-
-If the community is relatively homogeneous, the accumulation curve will level off quickly. If several communities are mixed together, the curve will rise more slowly. For macrofungi, 8 to 12 years of regular sampling may be required to approach an asymptote, reflecting the enormous interannual variation in fruiting. Methods used to estimate total species richness will not work well if no "shoulder" is present in the species accumulation curve.
-
-### Practical Constraints on Sample Size
-
-The number of plots or samples will depend on the characteristics of the fungal assemblage, the objectives of the investigation, and the magnitude of differences considered to be biologically relevant. In practice, sample size often represents the upper limit of effort that can be expended, given available human and financial resources. Regardless, the investigator must avoid making decisions concerning sample size in a capricious manner and should always expose the criteria on which the decision was based.
-
-### Complementarity Tests
-
-When a full multi-year study is not feasible, complementarity tests conducted during a pilot study can help determine optimal [[cannabis-endorhiza-sampling-timing-post-harvest-effects]] and frequency. These tests examine how rapidly new species accumulate across sampling dates and can identify the most productive phenological windows for a given site and climate. Complementarity between sites can also be assessed to determine how many spatially distinct sites must be sampled to capture the full species complement of a landscape.
+The total number of species identified from an area of interest increases as the number of samples increases, but eventually attains a plateau (asymptote). The number of samples required to reach this plateau depends on the environmental heterogeneity of the area and the dispersion patterns and [[cannabis-endorhiza-sampling-timing-post-harvest-effects]] and frequency. These tests examine how rapidly new species accumulate across sampling dates and can identify the most productive phenological windows for a given site and climate. Complementarity between sites can also be assessed to determine how many spatially distinct sites must be sampled to capture the full species complement of a landscape.
 
 ## Vegetation Characterization
 
@@ -71,7 +47,7 @@ Learning to recognize the woody plant species and major plant associations likel
 
 ### Precipitation as a Predictor
 
-For ectomycorrhizal fungi, precipitation has been found to be a better predictor of species richness and [[edaphic-determinants-cannabis-microbiome-community-structure]] at local scales than vegetation type alone. This finding underscores the importance of recording weather data alongside fungal observations and suggests that moisture availability may be the proximate factor controlling [[biodiversity-fungal-community-assembly]] even when host plant identity determines the pool of potential species.
+For ectomycorrhizal fungi, precipitation has been found to be a better predictor of species richness and [[biodiversity-fungal-community-assembly]] even when host plant identity determines the pool of potential species.
 
 ## Species Richness Metrics
 
@@ -88,3 +64,87 @@ Because human and financial resources are often too limited to enable complete d
 ### Sampling Frequency
 
 Ideally, fleshy macrofungi should be sampled in an area every one to two weeks throughout the fruiting season to maximize the number of species observed. When such a schedule is not possible, a pilot study should be conducted to determine the optimal sampling frequency for the specific site and climate. Studies of annual variation and seasonality have been limited largely to Europe, so data from other regions should be interpreted with appropriate caution.
+
+## Overview
+
+Sampling Design Macrofungal Surveys represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish sampling design macrofungal surveys
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving sampling extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Sampling Design Macrofungal Surveys finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for sampling design macrofungal surveys. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+sampling design macrofungal surveys and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Sampling Design Macrofungal Surveys has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of sampling design macrofungal surveys into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[freshwater-fungi-sampling]]
+- [[fungal-sampling-methods]]
+- [[marine-fungi-diversity-sampling]]
+- [[recommended-protocols-sampling-macrofungi]]

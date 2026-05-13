@@ -6,7 +6,7 @@ type: concept
 
 # Ecological Succession in Permaculture Design
 
-[[ecological-succession]] — the predictable sequence of biological communities replacing one another over time on disturbed or newly formed land — is a fundamental principle that [[permaculture]] designers harness and accelerate. Rather than waiting decades for natural succession to unfold, permaculture compresses the entire sequence into a single planting event, achieving mature-system yields within years rather than centuries.
+[[permaculture]] designers harness and accelerate. Rather than waiting decades for natural succession to unfold, permaculture compresses the entire sequence into a single planting event, achieving mature-system yields within years rather than centuries.
 
 ## Natural Succession Processes
 
@@ -91,3 +91,11 @@ In commercial plantings, it is wise to restrict total commercial species to 3–
 ## The Philosophy of Evolutionary Design
 
 [[permaculture-succession]] design embodies a philosophy of modest, incremental progress: gain a foothold, stabilize a small area, develop self-reliance, then seek exportable yields or commercial gain. Constant transition from present to future state is inevitable — impressive only if widespread. The designer's role is to steer this transition intelligently, using observation and adaptive management rather than imposing rigid blueprints.
+
+## See Also
+
+- [[bloomfield-fungal-fruiting-body-morphology-ecological-function]]
+- [[soil-microbial-biomass-measurement-ecological-significance]]
+- [[cooperative-life-systems-and-ecological-philosophy]]
+- [[self-regulation-in-ecological-systems]]
+- [[ecological-gardening-principles]]

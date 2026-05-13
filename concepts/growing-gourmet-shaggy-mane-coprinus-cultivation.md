@@ -14,29 +14,9 @@ sources:
 type: concept
 ---
 
-# Shaggy Mane Cultivation ([[spawn-production]]
-
-Adaptive to liquid fermentation; [[comparison-grain-spawn-vs-grain-to-grain-transfer]] can be created with
+# Shaggy Mane Cultivation ([[comparison-grain-spawn-vs-grain-to-grain-transfer]] can be created with
 ease. Grain spawn is directly inoculated into pasteurized,
-supplemented straw-based composts. Hardwood [[growing-gourmet-sawdust-spawn-production-use]] should be
-used as inoculum for establishing outdoor patches. Suggested agar
-media: PDA, PDYA, MEA, MYPA, DFA, or OMYA. Grain (rye, wheat,
-sorghum) throughout for all spawn generations.
-
-## Substrates for Fruiting
-
-The straw/manure compost formulas described by Stamets and Chilton
-(1983) support substantial fruitings. Another excellent medium is
-manure and urea-enriched sawdust. Paper and pulp waste also
-supports fruitings. Like most coprophiles, this mushroom greatly
-benefits from placement of a peat moss-based casing soil.
-
-## Outdoor Cultivation
-
-An excellent mushroom for your yard and compost piles. Once an
-outdoor patch is established, Shaggy Manes can fruit for many
-years. Newly laid or fertilized lawns that are frequently watered
-are perfect habitats. Cow or [[falconer-horse-manure-varieties]], mixed with straw or
+supplemented straw-based composts. Hardwood [[falconer-horse-manure-varieties]], mixed with straw or
 sawdust, are also ideal. Shaggy Manes wander, often fruiting
 meters away from the original inoculation site.
 
@@ -69,19 +49,7 @@ colonized in two weeks with cottony, non-rhizomorphic mycelium. A
 moist casing (peat moss/gypsum) layer is applied. After 10 days,
 mycelium reaches through the casing surface. Lower temperature,
 increase watering, and introduce light to stimulate fruiting.
-Yields increase substantially if the [[gourmet-medicinal-mushroom-casing-layer-techniques]] is vigorously
-raked just as mycelium shows on the surface.
-
-The primordia form as circular dials, between the size of a dime
-to a quarter, wide and flat. An inner collar forms within the dial
-and arises to form a dome, which soon shoots up to form a
-recognizable mushroom. The circular zone at the primordium stage
-becomes the movable ring on the stem.
-
-## Yield and Storage
-
-When soya flour was added at a rate of 2% (giving 0.5% nitrogen
-content), yields approached 80% [[stamets-biological-efficiency-yield]], though lower
+Yields increase substantially if the [[stamets-biological-efficiency-yield]], though lower
 than manure compost which often exceeds 100% BE. Mushrooms should be
 picked before the slightest hint of gills turning black. Young
 shaggy manes can be thinly sliced and quickly dried. Freeze drying
@@ -117,8 +85,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[dom]]
 - [[mycelium]]
-- [[stamets-cultivator-coprinus-comatus-shaggy-mane-cultivation]]
 - [[growing-gourmet-lions-mane-cultivation]]
 - [[growing-gourmet-maitake-cultivation]]

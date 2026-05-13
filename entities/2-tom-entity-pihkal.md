@@ -8,62 +8,7 @@ sources: ["Shulgin - PIHKAL"]
 ---
 # 2-TOM
 
-[[2c-b-pihkal-entry-20]] #171. 5-METHOXY-4-METHYL-2-METHYLTHIOAMPHETAMINE.
-
-## Chemical Name
-
-5-METHOXY-4-METHYL-2-METHYLTHIOAMPHETAMINE
-
-## Dosage and Duration
-
-| Property | Value |
-|----------|-------|
-| Dosage | 60 - 100 mg. |
-| Duration | 8 - 10 h. |
-
-## Qualitative Comments
-
-> (with 60 mg) There is a superb body feeling,
-> and food tasted excellent but then it just might have been excellent
-> food. By the tenth hour, there were absolutely no residues, and I had
-> the feeling that there was no price to pay. Venture up a bit with
-> confidence.
->
-> (with 80 mg) For me this was excellent, in a down-to-earth, humorous,
-> matter-of-fact universe-perspective sense. Very pleasant feeling,
-> although there was a strong body awareness below the waist (not the
-> erotic thing, but rather a slight heaviness, and the next day I came
-> down with a G.I. cold). Very good feeling, and I sense that the depth
-> of the experience is way out there where the big questions lie. I
-> found it easy to go out of body (in the good sense) into a warm,
-> loving darkness. Sliding down by 6, 7th hour, and had no trouble
-> sleeping. Fully scripted dreams, vivid. Very, very good. Want to
-> try 100 mg.
->
-> (with 80 mg) Completely foul taste. The effects were quite subtle,
-> and I found this to be a strange but friendly ++. There was much
-> eyes-closed fantasizing to music, even to Bruchner, whom I found
-> unexpectedly pleasant. There was a feeling of tenseness at the
-> twilight of the experience.
-
-## Extensions and Commentary
-
-There is a most extraordinary loss of
-potency with the simple substitution of a sulfur atom for an oxygen
-
-atom. DOM is fully active at the 5 or so milligram area, whereas
-2-TOM is active at maybe the 80 milligram area, a loss of potency by a
-factor of x15 or so. And the duration is quite a bit shorter. It
-might take a fair amount of learning to become completely at peace
-with it, but it might be worth the effort. And there are none of the
-disturbing hints of neurological and physical roughness of 5-TOM.
-
-Again, as with the other TOM's and TOET's, the two-carbon homologue of
-this has been synthesized but not yet evaluated. The common
-intermediate benzaldehyde,
-5-methoxy-4-methyl-2-(methylthio)benzaldehyde was condensed with
-nitromethane and ammonium acetate to give the nitrostyrene which, upon
-re-crystallization from [[ethanol]], had a melting point of 118-118.5 deg C.
+[[ethanol]], had a melting point of 118-118.5 deg C.
 Anal. (C11H13NO3S) C,H. Reduction with aluminum hydride in THF gave
 the crystalline free base which, as the hydrochloride salt, melted at
 233-234 deg C. Anal. (C11H18ClNOS) C,H. Quite logically, it has been
@@ -90,5 +35,89 @@ bisulfate. The thermal pyrolysis of 31.0 g of dimethyl
 formation of a melt, followed by the vigorous evolution of methyl
 
 ## See Also
-- [[methyl-j-entity-pihkal]]
 - [[5-toet-entity-pihkal]]
+
+## Overview
+
+2 Tom Entity Pihkal represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish 2 tom entity pihkal
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving 2 extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+2 Tom Entity Pihkal finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for 2 tom entity pihkal. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+2 tom entity pihkal and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+2 Tom Entity Pihkal has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of 2 tom entity pihkal into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[2c-g-3-entity]]
+- [[4-5-mdo-dmt-entity-tihkal]]
+- [[5-6-mdo-dipt-entity-tihkal]]
+- [[mdcpm-entity-pihkal]]
+- [[methyl-k-entity-pihkal]]

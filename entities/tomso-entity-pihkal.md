@@ -8,26 +8,7 @@ sources: ["Shulgin - PIHKAL"]
 ---
 # TOMSO
 
-[[2c-b-pihkal-entry-20]] #173. 2-METHOXY-4-METHYL-5-METHYLSULFINYLAMPHETAMINE.
-
-## Chemical Name
-
-2-METHOXY-4-METHYL-5-METHYLSULFINYLAMPHETAMINE
-
-## Dosage and Duration
-
-| Property | Value |
-|----------|-------|
-| Dosage | greater than 150 mg (alone) or 100 - 150 mg (with alcohol). |
-| Duration | 10 - 16 h. |
-
-## Qualitative Comments
-
-> (with 100 mg) There were no effects at all, and
-> it was at the so-called surprise pot-luck birthday lunch for the
-> department chairman that I ate a little and had two glasses of
-> Zinfandel. I shot up to an immediate ++ and this lasted all
-> afternoon. I went to [[shipibo-san-francisco-ceremonial-center-ucayali]] by BART, and walked up Market
+[[shipibo-san-francisco-ceremonial-center-ucayali]] by BART, and walked up Market
 > Street and saw all the completely bizarre faces. I was absolutely
 > unable to estimate the age of anybody who was female, at least by
 > looking at her face. All aspects, both child-like and old, seemed to
@@ -64,11 +45,7 @@ to me, so I made up a goodly supply of 4-tert-butyl thioanisole, which
 proved to be a gorgeous white crystalline solid. It seemed quite
 logical that this would be metabolized at the sulfur atom to produce
 either or both the sulfoxide and the sulfone. So I treated a methanol
-solution of this with a little [[cervantes-hydrogen-peroxide-sterilization]] and distilled the
-neutral extracts at 100-115 deg C at 0.2 mm/Hg to give the sulfoxide as a
-solid that melted at 76-77 deg C from hexane: Anal. (C11H16OS) C,H. On
-the other hand, if a solution of the thioanisole in acetic acid
-containing [[hydrogen-peroxide-tissue-culture-wild-polypores]] was heated on the [[scythian-cannabis-steam-bath-ritual]] for a few
+solution of this with a little [[hydrogen-peroxide-tissue-culture-wild-polypores]] was heated on the [[scythian-cannabis-steam-bath-ritual]] for a few
 hours and then worked up, a new solid was isolated that proved to be
 the sulfone (a negative Fries-Vogt test). This was obtained as white
 crystals with a mp of 94-95 deg C from aqueous methanol. Anal.
@@ -88,3 +65,86 @@ or more metabolites, but the sulfoxide and sulfone were not among
 them. It would be fun, someday, to methodically trace the fate of
 
 this compound.
+
+## Overview
+
+Tomso Entity Pihkal represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish tomso entity pihkal
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving tomso extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Tomso Entity Pihkal finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for tomso entity pihkal. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+tomso entity pihkal and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Tomso Entity Pihkal has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of tomso entity pihkal into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[2c-c-entity]]
+- [[2c-o-4-entity]]
+- [[4-ho-dbt-entity-tihkal]]

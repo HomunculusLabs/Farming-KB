@@ -6,38 +6,9 @@ type: concept
 
 # The Garden of Adonis, Eden, and Paradise as Mushroom References
 
-In John Allegro's philological analysis, the biblical Garden of Eden, the Qur'anic "gardens of
+In [[john-allegro]]'s philological analysis, the biblical Garden of Eden, the Qur'anic "gardens of
 delight," and the ancient "Gardens of Adonis" ritual all share a common origin in Sumerian
-[[hallucinogenic-mushroom-terminology-european-languages-emcdda-2006]]. The word for "garden" itself encodes the shape of the mushroom cap, and
-the names associated with these paradisiacal gardens derive from epithets for the sacred fungus.
-What later generations understood as spiritual metaphors for paradise were, in Allegro's
-reading, originally concrete references to a very specific botanical object and the ecstatic
-religious experience it produced.
-
-## The Gardens of Adonis Ritual
-
-The prophet Ezekiel describes women weeping for Tammuz at the north gate of the Jerusalem Temple
-(Ezekiel 8:14). Jerome, in his Latin Vulgate translation, rendered Tammuz as "Adonis," correctly
-recognizing the equivalence between the Mesopotamian god Tammuz and his Semitic and later Greek
-counterpart Adonis. Both were dying-and-rising vegetation deities whose cults involved ritual
-laments designed to prompt their return from the underworld. The identification is linguistically
-sound: the names Tammuz and Adonis (from the Semitic *'adōn*, "lord") refer to the same divine
-figure worshipped across the Fertile Crescent under different local names.
-
-Well into the 4th and 5th centuries AD, a grove connected with Adonis still existed at Bethlehem.
-Christian writers of the period attest to its continued veneration, demonstrating the persistence
-of the older cult in a region that had by then been Christian for centuries. The ritual of the
-Gardens of Adonis was widely attested across the ancient Near East and Mediterranean world.
-Women would gather round shallow pots or baskets in which seedlings—wheat, barley, fennel, or
-lettuce—had been hastily planted in a thin layer of soil. They would urge the germination of
-these plants through lamentation for the dead god, weeping and wailing to call on him to return.
-The shoots would sprout rapidly in the warm sun but soon wither, having no proper root system to
-sustain them. This was a form of sympathetic magic: the quick growth and sudden death of the
-seedlings mirrored the hoped-for cycle of the crops and the god himself—death followed by swift
-renewal.
-
-Allegro argues that the ritual's true origin lies not in sympathetic crop magic but in the search
-for [[allegro-star-of-the-morning-venus-and-the-sacred-mushroom]], whose growth pattern perfectly matches the imagery of overnight
+[[allegro-star-of-the-morning-venus-and-the-sacred-mushroom]], whose growth pattern perfectly matches the imagery of overnight
 appearance and sudden death. The Old Testament provides direct evidence for this reading. In
 Jonah 4:10, God rebukes Jonah for mourning a "sunshade" plant (*qiqayôn*) that "came into being
 in a night and perished in a night." The identity of the *qiqayôn* has been endlessly debated
@@ -45,11 +16,7 @@ among scholars—candidates include the castor oil plant, the gourd, and the pal
 Allegro reads it as a reference to a fungus, something that appears overnight and dies just as
 fast, exactly matching the divine rebuke's emphasis on the plant's ephemerality.
 
-Modern mycological observation confirms the aptness of this imagery. [[allegro-colour-and-consistency-of-the-amanita-muscaria]], the
-most prominent candidate for the original sacred mushroom of the ancient Near East, has been
-observed by mycologists to first appear above ground at 8 AM and reach full growth by 4 PM the
-same day—a single eight-hour span from emergence to maturity. Even more dramatically, phalloidic
-species such as [[bloomfield-stinkhorns-phallus-impudicus-osmotic-fruiting]] (the common "stinkhorn") can rise three inches in thirty
+Modern mycological observation confirms the aptness of this imagery. [[bloomfield-stinkhorns-phallus-impudicus-osmotic-fruiting]] (the common "stinkhorn") can rise three inches in thirty
 minutes and reach full expansion in approximately one and a half hours. These growth rates are
 extraordinary in the botanical world and would have made a profound impression on ancient
 observers, who would naturally have associated such a plant with divine power.

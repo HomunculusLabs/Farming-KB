@@ -73,14 +73,14 @@ Arctic/alpine herb used in Scandinavian, Russian, and traditional Chinese medici
 - Cycling recommended: 3 weeks on, 1 week off.
 
 ### Contraindications
-- [[blesching-cannabis-bipolar-disorder]] (may trigger mania). [[cannabis-for-anxiety-disorders]] in some individuals. Avoid with MAO inhibitors. Caution with stimulant medications.
+- Bipolar disorder (may trigger mania). Anxiety disorders in some individuals. Avoid with MAO inhibitors. Caution with stimulant medications.
 
 ---
 
 ## Holy Basil (Ocimum sanctum / Ocimum tenuiflorum)
 
 ### Overview
-Sacred herb in Hinduism known as Tulsi in India. Used in Ayurvedic medicine for thousands of years as a rasayana. Called "the incomparable one" and "elixir of life." Three main varieties: Rama (green), Krishna (purple), and Vana (wild forest type). All have [[ashwagandha]], with some variation in potency.
+Sacred herb in Hinduism known as Tulsi in India. Used in Ayurvedic medicine for thousands of years as a rasayana. Called "the incomparable one" and "elixir of life." Three main varieties: Rama (green), Krishna (purple), and Vana (wild forest type). All have adaptogenic properties, with some variation in potency.
 
 ### Key Compounds
 - **Eugenol:** Phenolic compound (also found in cloves). Anti-inflammatory, analgesic, antioxidant.
@@ -113,7 +113,7 @@ Sacred herb in Hinduism known as Tulsi in India. Used in Ayurvedic medicine for 
 ## Eleuthero (Eleutherococcus senticosus)
 
 ### Overview
-Also known as [[comparison-panax-ginseng-vs-siberian-ginseng]] (though not a true Panax ginseng). Woody shrub native to Siberia, northeastern China, Korea, and Japan. The most extensively studied adaptogen in the Soviet [[hofmann-lsd-sandoz-research-program]]. Used by Soviet athletes, cosmonauts, and military personnel for performance enhancement.
+Also known as Siberian ginseng (though not a true Panax ginseng). Woody shrub native to Siberia, northeastern China, Korea, and Japan. The most extensively studied adaptogen in the Soviet research program. Used by Soviet athletes, cosmonauts, and military personnel for performance enhancement.
 
 ### Key Compounds
 - **Eleutherosides:** Glycosides designated B through E and others. Eleutheroside B (syringin) and eleutheroside E (syringaresinol diglucoside) are the primary markers.
@@ -128,3 +128,22 @@ Also known as [[comparison-panax-ginseng-vs-siberian-ginseng]] (though not a tru
 - Antifatigue: reduces exercise-induced cortisol elevation.
 - Improves mental performance under stress.
 - Anti-inflammatory: reduces pro-inflammatory cytokines.
+
+### Dosing
+- **Standardized extract (0.8-1.0% eleutherosides):** 200-400mg, 1-2 times daily.
+- **Dried root powder:** 2-4g per day.
+- **Tincture:** 2-4ml, 2-3 times daily.
+- Take consistently for 4-8 weeks for full adaptogenic effects.
+
+### Contraindications
+- Caution with cardiovascular conditions and hypertension (some reports of palpitations). Autoimmune conditions. May interact with digoxin, barbiturates, and antidiabetic drugs. Avoid in children without professional guidance.
+
+---
+
+## See Also
+
+- [[adaptogenic-herbs-overview]]
+- [[query-what-are-adaptogenic-herbs-and-how-do-they-work]]
+- [[rhodiola-rosea]]
+- [[comparison-schisandra-vs-ashwagandha-vs-rhodiola-adaptogenic-cultivation]]
+- [[ashwagandha]]

@@ -15,16 +15,9 @@ topics:
 
 ## Overview
 
-Kale and other brassica greens represent some of the most cold-tolerant vegetables available for winter harvest systems. Eliot Coleman's Four Season Farm in coastal Maine (USDA Zone 5) has demonstrated that many brassica species can survive and even thrive in unheated cold houses [[coleman-overwintered-spinach-cold-house-production]] through temperatures as low as -20°F (-29°C) outdoors, provided they are protected by the double-layer system of greenhouse plastic plus interior row cover. However, Coleman notes an important distinction: while kale survives winter cold, it largely **stops producing new growth** during the coldest months, making it a harvest-and-maintain crop rather than a cut-and-come-again crop during deep winter.
-
-## The Brassica Family in Winter Production
-
-Coleman includes numerous brassica species among his thirty-plus winter-harvest vegetables:
-- **Kale** (Brassica oleracea var. acephala): Extremely cold-hardy; survives but does not actively grow in deep winter [[coleman-cool-house-vs-cold-house-economics-winter-production]].
-- **Collards** (B. oleracea var. viridis): Similar cold tolerance to kale with thicker leaves. (see [[brassica-growing-guide]]).
-- **Broccoli raab** (B. rapa var. ruvo): Rapid-growing; excellent for fall and early spring harvest [[coleman-winter-harvest-greenhouse-temperature-management]].
-- **Tatsoi** (B. rapa var. narinosa): Rosette-forming; very cold-hardy [[coleman-cold-hardy-winter-vegetables-selection]] with spoon-shaped leaves.
-- **Mizuna** (B. juncea var. japonica): Feather-leafed; regrows well after cutting in moderate cold. (see [[lettuce-and-leafy-greens]]).
+Kale and other brassica greens represent some of the most cold-tolerant vegetables available for winter harvest systems. Eliot Coleman's Four Season Farm in coastal Maine (USDA Zone 5) has demonstrated that many brassica species can survive and even thrive in unheated cold houses [[coleman-cool-house-vs-cold-house-economics-winter-production]].
+- **Collards** (B. oleracea var. viridis): Similar cold tolerance to kale with thicker leaves. (see [[coleman-winter-harvest-greenhouse-temperature-management]].
+- **Tatsoi** (B. rapa var. narinosa): Rosette-forming; very cold-hardy [[lettuce-and-leafy-greens]]).
 - **Mustard greens** (B. juncea): Spicy flavor intensifies with cold; moderate cold tolerance.
 - **Pak choi** (B. rapa var. chinensis): Thick-stemmed; excellent for baby-leaf or full-head harvest.
 - **Radish** (Raphanus sativus): Both root and leaf production; some varieties bred for winter.
@@ -117,8 +110,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[brassica-oleracea]]
 - [[eliot-coleman]]
-- [[raphanus-sativus]]
 - [[coleman-cool-house-vs-cold-house-economics-winter-production]]
 - [[coleman-beet-greens-cold-house-winter-production]]

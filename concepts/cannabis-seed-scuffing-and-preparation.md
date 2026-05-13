@@ -9,13 +9,7 @@ sources: [/Users/t3rpz/wiki/raw/papers/greg-green-the-cannabis-grow-bible.md]
 
 Updated: 2026-04-18
 
-Source: The [[green-cannabis-grow-bible-breeding-genetics-and-true-breeding]] Bible, Greg Green (Ch. 3)
-
-Proper seed preparation improves germination rates and speeds up the sprouting process. Greg Green describes seed scuffing and handling techniques as part of the propagation chapter.
-
-## Why Scuff Seeds
-
-[[query-how-to-store-cannabis-seeds-for-long-term-viability]] have a hard outer shell designed by nature to protect the embryo inside. In the wild, this shell would be gradually worn down by soil microbes, moisture, and natural abrasion. For the indoor grower, scuffing (scarification) mimics this natural process and:
+Source: The [[query-how-to-store-cannabis-seeds-for-long-term-viability]] have a hard outer shell designed by nature to protect the embryo inside. In the wild, this shell would be gradually worn down by soil microbes, moisture, and natural abrasion. For the indoor grower, scuffing (scarification) mimics this natural process and:
 
 - Allows moisture to penetrate the seed shell more quickly
 - Helps the embryo crack through the outer layer
@@ -47,7 +41,7 @@ Proper seed preparation improves germination rates and speeds up the sprouting p
 After scuffing, soaking seeds can further speed germination:
 
 1. Place seeds in a glass of room-temperature water (68–77°F / 20–25°C)
-2. Add a few drops of [[cervantes-hydrogen-peroxide-sterilization]] (3%) to [[query-how-do-i-prevent-mold-and-mildew-in-my-cannabis-grow]] — optional but recommended
+2. Add a few drops of [[query-how-do-i-prevent-mold-and-mildew-in-my-cannabis-grow]] — optional but recommended
 3. Seeds that sink within a few hours are generally viable
 4. Seeds that float after 12–24 hours may be non-viable (though some viable seeds float initially)
 5. Soak for 12–24 hours maximum
@@ -56,13 +50,7 @@ After scuffing, soaking seeds can further speed germination:
 
 ## Handling Seeds
 
-Cannabis seeds are [[savory-living-organisms-as-tools]] and must be treated carefully:
-
-- **Avoid touching with dirty hands** — oils and contaminants from your fingers can introduce pathogens
-- **Use tweezers** when possible for handling
-- **Do not crush or squeeze** — the embryo inside is fragile
-- **Store properly before planting**: In a cool, dark, dry place. Refrigeration in an airtight container extends viability for years.
-- See [[cannabis-seed-germination-methods]] for detailed instructions on each method.
+Cannabis seeds are [[cannabis-seed-germination-methods]] for detailed instructions on each method.
 
 ## Post-Germination Care
 
@@ -76,9 +64,7 @@ Once seeds have sprouted:
 
 ## Related Topics
 
-- [[cannabis-seed-selection-and-strain-types]] — choosing the right seeds
 - [[cannabis-seed-banks-and-genetics]] — seed bank selection
-- [[first-time-grower-common-mistakes]]
 - [[cannabis-indoor-soil-mix-and-preparation]]
 
 ## Practical Applications
@@ -110,8 +96,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[det]]
 - [[greg-green]]
-- [[sterilization]]
 - [[green-cannabis-grow-bible-cloning-and-seed-propagation]]
 - [[cannabis-seed-banks-and-genetics]]

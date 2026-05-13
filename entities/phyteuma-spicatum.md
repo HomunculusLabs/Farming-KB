@@ -23,11 +23,7 @@ sources:
 
 The genus Phyteuma, known as rampions, is distinguished from Campanula by its distinctive spike-like inflorescences. In Phyteuma spicatum, the cream-white to pale yellow flowers are densely packed into an elongated, cylindrical head that gives the species its common name.
 
-The species has a long history of use as a [[fukuoka-western-root-vegetable-deficiency]] in continental Europe. The fleshy, carrot-like taproot was historically cultivated as a food crop and is still occasionally gathered from the wild in parts of France and Germany.
-
-Phyteuma spicatum is less commonly grown in gardens than Campanula species but is valued for its unusual inflorescence form and shade tolerance. It naturalizes well in woodland gardens and wildflower meadows.
-
-The genus name Phyteuma derives from the Greek phyteuma meaning "a planting" or "growth," reflecting the ancient cultivation of several species as [[growing-root-vegetables-guide]]. The common name "rampion" comes from the Latin rapum (turnip), also referring to the edible root.
+The species has a long history of use as a [[growing-root-vegetables-guide]]. The common name "rampion" comes from the Latin rapum (turnip), also referring to the edible root.
 
 ## Taxonomy and Morphology
 
@@ -55,9 +51,7 @@ In the British Isles, the species is rare and declining, restricted to a few sit
 
 The species grows in deciduous woodlands, woodland margins, hedgerows, and damp meadows on neutral to calcareous soils. It prefers partial shade and moist, humus-rich conditions but tolerates full shade in summer.
 
-Typical habitats include beech ([[fagus-sylvatica]]) and oak ([[quercus-robur]]) woodlands on clay and limestone. Associated species include [[convallaria-majalis]], [[anemone-nemorosa]], and [[symphytum-officinale]].
-
-Populations occur from sea level to 1,600 m in the Alps, with montane populations typically found on north-facing slopes where moisture is retained through [[query-how-to-protect-plants-from-frost-and-extend-the-growing-season]].
+Typical habitats include beech ([[quercus-robur]]) woodlands on clay and limestone. Associated species include [[anemone-nemorosa]], and [[query-how-to-protect-plants-from-frost-and-extend-the-growing-season]].
 
 The species shows a strong affinity for ancient woodland sites with continuous canopy cover for at least 400 years. This association with historically stable habitats makes it a valuable bioindicator for woodland antiquity in conservation assessments.
 

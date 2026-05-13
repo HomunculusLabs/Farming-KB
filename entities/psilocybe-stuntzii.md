@@ -19,15 +19,7 @@ psilocybin-containing mushroom in the family Hymenogastraceae. It is commonly
 known as Stuntz's Psilocybe, Stuntz's blue legs, or blue ringers. The species
 was named in honor of Dr. Daniel Stuntz, a prominent mycologist at the
 University of Washington. It is one of the most frequently encountered
-[[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]] in the Pacific Northwest, particularly in urban and
-suburban landscaping settings.
-
-## Taxonomy
-
-*Psilocybe stuntzii* was described by Guzmán and Ott. The taxonomic synonym
-*Psilocybe pugetensis* Harris has also been applied to this species. A field
-variety, *P. stuntzii* var. *tenuis*, is recognized as a slender, paler form.
-It belongs to section *Stuntzii* within the genus *Psilocybe*, a group characterized by species with membranous partial veils that often develop bluish discoloration. The species epithet commemorates Dr. Daniel E. Stuntz for his extensive contributions to agaric taxonomy and his role as a mentor to many [[growing-gourmet-north-american-reishi-species]] mycologists.
+[[growing-gourmet-north-american-reishi-species]] mycologists.
 
 ## Description
 
@@ -71,7 +63,7 @@ flexuous neck 1–2.2 µm thick.
 ## Habitat and Distribution
 
 *Psilocybe stuntzii* grows in gregarious to subcespitose clusters on conifer
-[[fukuoka-textdoc-sawdust-wood-chips-orchard-soil-acidification-experiment]], in soils rich with [[fungal-succession-woody-debris-ecology]], in newly placed lawns and fields,
+[[fungal-succession-woody-debris-ecology]], in newly placed lawns and fields,
 along roads, paths, and in gardens. It is particularly abundant in mulched
 landscaping beds in urban and suburban environments. The species fruits
 primarily in the fall to early winter, and to a minor degree in the spring. It
@@ -84,11 +76,9 @@ range by sheer biomass.
 
 *Psilocybe stuntzii* is considered weakly to moderately active. Beug and
 Bigwood (1982b) reported a range of 0–0.36% psilocybin and 0–0.12% psilocin
-by dry weight. Repke et al. (1977) reported 0.02% [[psilocybe-cyanescens]] — Another common Pacific Northwest psilocybin
-  mushroom found in similar habitats.
-- [[psilocybe-baeocystis]] — Named for the same psychoactive compound found
+by dry weight. Repke et al. (1977) reported 0.02% [[psilocybe-baeocystis]] — Named for the same psychoactive compound found
   in *P. stuntzii*; also native to the Pacific Northwest.
 - galerina-marginata — Deadly toxic lookalike; critical to distinguish
   from psilocybin mushrooms.
-- [[psilocybe-semilanceata]] — [[peter-mantle-liberty-cap-chromatographic-discovery-1969]]; a widespread psilocybin species
+- [[peter-mantle-liberty-cap-chromatographic-discovery-1969]]; a widespread psilocybin species
   with a different habitat preference.

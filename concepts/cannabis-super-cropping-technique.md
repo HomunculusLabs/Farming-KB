@@ -10,7 +10,7 @@ sources:
 
 Updated: 2026-04-18
 
-Source: The [[green-cannabis-grow-bible-breeding-genetics-and-true-breeding]] Bible, [[greg-green]] (Ch. 8, 9)
+Source: The [[greg-green]] (Ch. 8, 9)
 
 Super cropping is a high-stress training (HST) technique that involves intentionally damaging the stem to create a knuckle joint. This strengthens the branch, controls height, and can increase overall yield by creating a more even canopy and promoting lateral growth.
 
@@ -22,13 +22,7 @@ Super cropping is the practice of gently crushing and bending the stem of a cann
 
 1. **Stronger branches**: The knuckle joint at the bend point becomes much stronger than the original stem, better supporting heavy buds
 2. **Height control**: Bending tall branches down reduces overall plant height without removing any plant material
-3. **Better [[cervantes-reflective-hoods-light-distribution]]**: Horizontal branches expose more bud sites to light
-4. **Increased yield**: More bud sites receive adequate light, producing more even and abundant bud development
-5. **No plant material removed**: Unlike topping, all plant matter stays on the plant
-
-## When to Super Crop
-
-- **Timing**: During the [[comparison-cannabis-vegetative-stage-vs-flowering-stage]], typically 3–6 weeks into growth
+3. **Better [[comparison-cannabis-vegetative-stage-vs-flowering-stage]], typically 3–6 weeks into growth
 - **Plant readiness**: The plant should be healthy and actively growing with stems that are flexible but established
 - **Branch thickness**: Select branches that are thick enough to handle the technique — pencil thickness or greater
 - **Do NOT super crop**: Seedlings, sick or stressed plants, or plants in flowering (though mild bending is possible in early flower)
@@ -81,45 +75,6 @@ Green advises against super cropping during flowering, but notes:
 - Light bending is acceptable in the first 1–2 weeks of flowering
 - The plant is less flexible during flowering and more prone to snapping
 - Any damage during flowering can slow bud development and reduce yield
-- Focus on proper training during [[cannabis-vegetative-stage]] to minimize need for adjustment during flowering
-
-## Super Cropping vs Other Techniques
-
-| Technique | Type | Plant Material Removed | Difficulty |
-|-----------|------|----------------------|------------|
-| Super cropping | HST | No | Medium |
-
-## Practical Applications
-
-The principles and techniques discussed here have wide-ranging applications
-across multiple disciplines and contexts. Practitioners and researchers
-continue to explore new ways to integrate these concepts into modern practice,
-adapting traditional knowledge to contemporary challenges and opportunities.
-
-## Key Considerations
-
-Several important factors influence the effectiveness and outcomes described
-in this topic. Understanding these considerations helps practitioners make
-informed decisions and avoid common pitfalls. Environmental conditions,
-timing, and material selection all play critical roles.
-
-## Historical Context
-
-The historical development of this subject reflects centuries of accumulated
-knowledge and practical experience. From traditional methods passed down
-through generations to modern scientific approaches, the evolution continues
-to inform current best practices and research directions.
-
-## Common Challenges
-
-Practitioners frequently encounter several challenges when working with
-these concepts. Climate variability, resource limitations, and knowledge
-gaps can all affect outcomes. Addressing these challenges requires patience,
-observation, and a willingness to adapt approaches based on results.
-
-## See Also
-- [[super-boof-cannabis-strain]]
-- [[cannabis-strain-super-lemon-haze-greenhouse-seed-co]]
+- Focus on proper training during [[super-boof-cannabis-strain]]
 - [[cannabis-strain-temple-bodhi-seeds-super-silver-haze-oner]]
-- [[query-what-is-super-cropping-and-when-to-do-it]]
 - [[cannabis-curing-jar-technique]]

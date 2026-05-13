@@ -11,26 +11,11 @@ type: concept
 
 ## Botanical Details
 
-**Scientific name:** [[olea-europaea]]
-**Family:** OLACEAE
-
-A hardy, evergreen tree, growing to a height of 25-30 m, the olive is widely distributed throughout the world especially in Mediterranean regions.
-
-## Nutritional Composition
-
-Per 100 grams of pickled green olive (edible portion): Water - 86%, Energy - 116 calories, Carbohydrate - 1.3 g, Fat - 12.7 g, Protein - 1.4 g, Ash - 6.4 g, Calcium - 61 mg, Potassium - 55 mg, Sodium - 2400 mg, Magnesium - 22 mg, Iron - 1.6 mg, Phosphorous - 17 mg, Vitamin A - 300 I.U. Digestion time: 1.75 hours.
-
-## Climate Requirements
-
-The olive needs full sun and a long, comparatively dry season, with some winter chilling for good [[query-how-do-i-prune-brambles-for-maximum-fruit-production]]. The tree is frost hardy to about -9.5 degrees C, although the fruit is damaged below -2 degrees C.
+**Scientific name:** [[query-how-do-i-prune-brambles-for-maximum-fruit-production]]. The tree is frost hardy to about -9.5 degrees C, although the fruit is damaged below -2 degrees C.
 
 ## Soil Requirements
 
-The olive prefers deep, rich, well-drained soil, but can tolerate poorer, shallower soils. Although the olive is very [[permplant-carob-drought-tolerant-food-tree]], occasional deep watering in arid climates increases fruit size and production. It will withstand strong winds, making it a useful species for windbreak, and has some salt resistance.
-
-## Production and Longevity
-
-The olive tree is self-pollinating and will bear fruit after about 5 years and can continue for more than 2000 years. As with many trees, a heavy crop one year will often be followed by a light crop the next, although this tendency can be overcome by thinning the fruit. Average yield is about 4.8 tonnes/ha, the fruit having an oil content of between 18-25%. Between 225-270 litres of oil of all grades is usually obtained from pressing 1 tonne of olives. The fruits are green at first, but ripen to black during the winter months. They can be picked either green or black for both pickling and [[cannabis-honey-oil-production]].
+The olive prefers deep, rich, well-drained soil, but can tolerate poorer, shallower soils. Although the olive is very [[cannabis-honey-oil-production]].
 
 ## Propagation
 
@@ -55,36 +40,101 @@ Olives can either be picked green or left until they are fully ripe and starting
 
 Olives can be picked either green or tinged black for pickling, depending on the variety. It is important that the fruit be handled carefully, as they bruise easily. The processing removes the unpalatable bitterness from the olives. Slitting the skins or pricking with a fork will help to speed the process.
 
-Method: Soak olives in fresh water, ensuring that they are fully immersed and rinsing every few days. Black olives should be rinsed and soaked for a week, green olives for two weeks. Then rinse olives and store in an airtight jar in a salt-water solution. The brine should be just strong enough to allow an egg to float in it. Fresh herbs such as fennel can be packed between the olives and the lid to ensure that they are fully immersed. The olives should be left in this solution for at least a month and can be left for up to 2 years. After thoroughly rinsing, the olives can then be flavoured with a herb and garlic dressing. Place them in a jar with plenty of garlic and herbs such as marjoram and thyme. Fill the jar with 3/4 boiled and cooled water, 1/4 cider or white wine vinegar and a thin layer [[staycare-fungal-treatment-of-olive-oil-mill-wastewater]] on top. Shake and leave for a month.
-
-## Permaculture Integration
-
-- Extremely long-lived tree (2000+ years), making it a permanent permaculture-windbreak and carob and permaculture-ground-cover-plants for soil protection
-
-## Pruning and Training
-
-Olive trees require careful pruning during their early years to establish a
-strong framework, and regular maintenance pruning thereafter to maximise
-production. Young trees are typically trained to an open vase or modified
-[[comparison-central-leader-vs-open-center-fruit-tree-training]] shape, removing competing leaders and encouraging 3-4 main
+Method: Soak olives in fresh water, ensuring that they are fully immersed and rinsing every few days. Black olives should be rinsed and soaked for a week, green olives for two weeks. Then rinse olives and store in an airtight jar in a salt-water solution. The brine should be just strong enough to allow an egg to float in it. Fresh herbs such as fennel can be packed between the olives and the lid to ensure that they are fully immersed. The olives should be left in this solution for at least a month and can be left for up to 2 years. After thoroughly rinsing, the olives can then be flavoured with a herb and garlic dressing. Place them in a jar with plenty of garlic and herbs such as marjoram and thyme. Fill the jar with 3/4 boiled and cooled water, 1/4 cider or white wine vinegar and a thin layer [[comparison-central-leader-vs-open-center-fruit-tree-training]] shape, removing competing leaders and encouraging 3-4 main
 scaffold branches well-spaced around the trunk.
 
 Mature olives are pruned annually after harvest, during late winter or early
 spring before new growth begins. The primary objectives are removing dead,
 diseased, or crossing branches; opening the canopy to improve light
-penetration and [[stamets-growing-room-air-circulation-co2-management]]; and removing water shoots from the base.
-Olive trees fruit on one-year-old wood, so some annual regrowth is essential
-for continued production. Severe rejuvenation pruning can be used on neglected
-old trees, as olives readily sprout from dormant buds on old wood.
-
-## Harvesting Methods
-
-Olives are harvested at different stages depending on the intended product.
-Green olives for pickling are picked when they have reached full size but
-before any [[leaf-senescence-autumn-colour-change-active-plant-process]] begins, typically in early autumn. Turning olives
+penetration and [[leaf-senescence-autumn-colour-change-active-plant-process]] begins, typically in early autumn. Turning olives
 (partially black) offer a balance of flavour and texture. Fully black, ripe
 olives produce the highest oil yield but lower-grade eating olives.
 
 Hand harvesting produces the highest quality fruit but is labour-intensive.
 Raking or beating branches with sticks causes fruit to fall onto nets spread
 beneath the tree, a common method for oil olives. Mechanical harvesters use
+
+## Overview
+
+Permaculture Olive Guide represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish permaculture olive guide
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving permaculture extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Permaculture Olive Guide finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for permaculture olive guide. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+permaculture olive guide and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Permaculture Olive Guide has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of permaculture olive guide into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[holzer-permaculture-landscape-design]]
+- [[permaculture-design-concepts-and-methods-overview]]
+- [[permaculture-design-methods-summary]]
+- [[permaculture-design-science-concepts-themes]]
+- [[permaculture-designers-manual-wildlife-corridors]]

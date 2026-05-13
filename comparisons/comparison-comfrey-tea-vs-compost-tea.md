@@ -23,9 +23,7 @@ type: comparison
 
 ## Overview
 
-**Comfrey tea** and **compost tea** are both liquid organic fertilizers widely used in permaculture and organic growing, but they are produced by fundamentally different processes and deliver different benefits. Comfrey tea is a fermented extract made by steeping comfrey leaves (*[[symphytum-officinale]]*, typically Bocking 14) in water, yielding a potassium-rich liquid fertilizer. Compost tea is an aerated aqueous extract of finished compost, designed to multiply and deliver beneficial soil microorganisms to plant root zones and foliar surfaces.
-
-The key distinction is that comfrey tea is primarily a **nutrient delivery system**, while compost tea is primarily a **biological inoculant**. Comfrey tea supplies [[knf-water-soluble-potassium-detailed]], moderate phosphorus, and trace minerals mined by comfrey's deep taproot from subsoil layers. Compost tea supplies living bacteria, fungi, protozoa, and nematodes that improve nutrient cycling, disease suppression, and soil structure.
+**Comfrey tea** and **compost tea** are both liquid organic fertilizers widely used in permaculture and organic growing, but they are produced by fundamentally different processes and deliver different benefits. Comfrey tea is a fermented extract made by steeping comfrey leaves (*[[knf-water-soluble-potassium-detailed]], moderate phosphorus, and trace minerals mined by comfrey's deep taproot from subsoil layers. Compost tea supplies living bacteria, fungi, protozoa, and nematodes that improve nutrient cycling, disease suppression, and soil structure.
 
 ## Nutrient Profiles
 
@@ -35,19 +33,7 @@ Comfrey leaves contain one of the highest potassium concentrations of any temper
 
 - **Potassium (K)**: 3–5% in dried leaf; the dominant nutrient, essential for fruit and flower development, disease resistance, and water regulation.
 - **Phosphorus (P)**: 0.3–0.5%; moderate, supporting root development and flowering.
-- **Nitrogen (N)**: 1.5–3.0% in dried leaf; however, much of this is lost as ammonia gas during [[jadam-anaerobic-fermentation]], so finished tea is relatively nitrogen-poor.
-- **Calcium (Ca)**: 2.0–3.0%; significant, supporting cell wall structure.
-- **Trace minerals**: Comfrey accumulates magnesium, iron, manganese, zinc, copper, and boron from deep subsoil layers.
-
-### Compost Tea
-
-The nutrient content of compost tea depends entirely on the source compost. Typical finished compost has NPK around 1-1-1, and tea extracts only a fraction of these solids in dissolved form. Nutrient delivery is secondary to biological inoculation:
-
-- **Nitrogen (N)**: 0.1–0.5 ppm in solution; primarily ammonium and nitrate forms extracted from compost.
-- **Phosphorus (P)**: 0.05–0.3 ppm; soluble forms extracted aerobically.
-- **Potassium (K)**: 0.2–1.0 ppm; lower than comfrey tea by an order of magnitude.
-- **Humic and fulvic acids**: Dissolved organic compounds that improve nutrient availability and soil structure.
-- **Microbial biomass**: The primary value — billions of bacteria, [[fungal-hyphae]], protozoa, and nematodes per milliliter.
+- **Nitrogen (N)**: 1.5–3.0% in dried leaf; however, much of this is lost as ammonia gas during [[fungal-hyphae]], protozoa, and nematodes per milliliter.
 
 ## Preparation Methods
 
@@ -85,63 +71,80 @@ An aerobic "quick brew" method exists (aerating leaves and water for 24–48 hou
 | **Brew time** | 2–6 weeks | 12–24 hours |
 | **Dominant nutrient** | Potassium (3–5% in leaf) | Microbial biomass |
 | **NPK contribution** | Low-moderate (K dominant) | Very low (trace dissolved) |
-| **Microbial content** | Minimal ([[ingham-anaerobic-organisms-role-soil]]) | Very high (diverse aerobic biology) |
-| **pH of finished product** | Acidic (~4.0–5.5) | Near neutral (~6.0–7.5) |
-| **Odor** | Strong, foul (ammonia) | Earthy, sweet |
-| **Application methods** | Soil drench only | Foliar spray or soil drench |
-| **Dilution rate** | 1:10 to 1:15 | Undiluted or 1:1 |
-| **Shelf life** | Several weeks if stored cool | 4–6 hours maximum |
-| **Equipment needed** | Bucket, water, leaves | Air pump, diffuser, brewer bag |
-| **Cost to produce** | Free (if growing comfrey) | Low–moderate ($50–100 for setup) |
-| **Pathogen risk** | Low | Possible if poor compost is used |
-| **Key safety concern** | Pyrrolizidine alkaloids (PAs) | Anaerobic contamination |
-
-## Application Rates and Methods
-
-### Comfrey Tea
-
-- **Soil drench only.** Do not use as a foliar spray — PA residues on edible foliage are a food safety concern.
-- Dilute 1:10 to 1:15 with non-chlorinated water.
-- Apply every 2–4 weeks during the growing season.
-- Rate: approximately 0.5–1 liter of diluted tea per plant for established crops; 250 ml for seedlings.
-- Most effective for fruiting and flowering crops (tomatoes, peppers, potatoes, fruit trees, berries) due to high potassium content.
-- Apply to soil at the root zone; avoid splashing onto edible plant parts.
-
-### Compost Tea
-
-- **Foliar spray or soil drench.** Foliar application is preferred for disease suppression.
-- Apply undiluted or diluted 1:1 within 4–6 hours of brewing.
-- Foliar: spray to runoff on leaf surfaces, early morning or evening to avoid UV damage to microbes.
-- Soil drench: 5–10 gallons per 1,000 sq ft.
-- Apply every 2–4 weeks; can be combined with other foliar feeds if pH is compatible.
-- Effective on all crop types; especially valuable for disease-prone plants and newly transplanted seedlings.
-
-## Potential Issues
-
-### Comfrey Tea Concerns
-
-- **Pyrrolizidine alkaloids (PAs):** Comfrey contains hepatotoxic PAs, primarily in roots but also present in leaves. PA contamination of edible crops via soil application is a low but non-zero risk. Avoid applying comfrey tea directly onto edible leafy greens or herbs that will be consumed raw. Use for fruiting crops, root crops, and ornamentals where PA uptake into the harvestable portion is minimal.
-- **Odor:** Anaerobic fermentation produces strong ammonia odors that may attract pests or cause neighbor complaints. Brew in a remote area.
-- **Nutrient inconsistency:** NPK varies with comfrey age, soil quality, and fermentation time, making precise dosing difficult.
-- **Nitrogen loss:** Much of the nitrogen in comfrey leaves volatilizes as ammonia during fermentation, reducing the N content of the finished tea.
-
-### Compost Tea Concerns
-
-- **Pathogen propagation:** If the source compost is not properly cured (thermophilic compost reaching 55–65°C for 3+ days), compost tea can amplify human pathogens (*E. coli*, *Salmonella*) or plant pathogens. Only use fully cured, high-quality compost.
-- **Anaerobic contamination:** If dissolved oxygen drops below 6 mg/L during brewing, facultative anaerobes and strict anaerobes can proliferate, producing metabolites toxic to plants (ethanol, hydrogen sulfide). Always use adequate aeration and monitor dissolved oxygen if possible.
-- **Short shelf life:** Microbes die off rapidly once aeration stops. Tea must be used within hours of brewing; it cannot be stored.
-- **False confidence:** Compost tea adds biology but cannot compensate for poor soil structure, nutrient deficiency, or improper pH. It is a supplement, not a substitute for good soil management.
-
-## When to Use Each
-
-### Choose Comfrey Tea When
-
-- You grow comfrey on-site and need a free, high-potassium liquid fertilizer.
-- Your crops are heavy potassium feeders (tomatoes, peppers, potatoes, fruit trees, berries, squash).
-- You need a long-lasting liquid fertilizer that can be stored for weeks.
-- You want to cycle nutrients from comfrey's deep taproot into your crop root zone.
-## See Also
-
-- [[comparison-bokashi-vs-compost-tea]]
-- [[comparison-foliar-feeding-vs-compost-tea-nutrients]]
+| **Microbial content** | Minimal ([[comparison-bokashi-vs-compost-tea]]
 - [[comparison-compost-tea-vs-vermicompost-tea]]
+
+## Overview
+
+Comparison Comfrey Tea Vs Compost Tea represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish comparison comfrey tea vs compost tea
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving comparison extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Comparison Comfrey Tea Vs Compost Tea finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for comparison comfrey tea vs compost tea. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+comparison comfrey tea vs compost tea and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Comparison Comfrey Tea Vs Compost Tea has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of comparison comfrey tea vs compost tea into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and

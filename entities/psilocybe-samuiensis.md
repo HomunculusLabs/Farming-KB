@@ -18,38 +18,11 @@ sources: []
 *Psilocybe samuiensis* Guzmán, Allen & Merlin is a bluing, psychoactive mushroom species
 in the family Hymenogastraceae. First reported from the island of Koh Samui, Thailand,
 the species is noted for its strong morphological resemblance to the temperate liberty
-cap, [[psilocybe-semilanceata]], despite the two species being separated by thousands
-of kilometers and vastly different climatic regimes. This resemblance suggests a
-close phylogenetic relationship between geographically distant members of the genus.
-
-Additional species reported from the same general Southeast Asian region include
-[[psilocybe-cubensis]].
+cap, [[psilocybe-cubensis]].
 
 ### Microscopic Features
 
-[[fungal-microscopic-examination-mounting-media-techniques]] is essential for definitive identification:
-
-- **Spores:** Purplish brown in deposit, rhomboid to subrhomboid in face view,
-  measuring 10 to 13 µm in length by 6.5 to 8 µm in width.
-- **Basidia:** 4-spored, typical of the genus.
-- **Pleurocystidia:** Scattered across the gill face, ventricose towards the base
-  and sublageniform towards the apex, measuring 16 to 20 by 5 to 6.4 µm.
-- **Cheilocystidia:** Ventricose at the base, lageniform, narrowing to a thinner
-  neck, and often forked at the tip, measuring 18.5 to 28 (30) by 5 to 7 (8) µm.
-
-The cheilocystidia are particularly distinctive, as their frequently forked
-morphology provides a reliable microscopic identification character.
-
-## Habitat and Distribution
-
-*Psilocybe samuiensis* grows in well-manured, claylike soils in pastures, meadows,
-and amongst rice paddies. The species was first discovered by John Allen on Koh Samui,
-Thailand, with the initial collection made in early August. The full extent of its
-fruiting season remains unknown.
-
-*P. samuiensis* may be widely distributed throughout the broader Southeast Asian
-tropical and subtropical region, wherever suitable manured, warm-climate habitats
-exist. The species frequently shares its habitat with [[panaeolus-cyanescens-entity]], both common tropical psychoactive species found in similar
+[[panaeolus-cyanescens-entity]], both common tropical psychoactive species found in similar
 pasture and agricultural environments. These three species can often be found
 fruiting in close proximity during the rainy season.
 
@@ -61,21 +34,92 @@ fruiting in close proximity during the rainy season.
 | Compound     | Concentration (% dry weight) |
 |--------------|-----------------------------|
 | psilocybin | 0.73%                       |
-| [[baeocystin-and-norbaeocystin-in-psilocybin-biosynthesis]] | 0.05%                       |
+| [[baeocystin-and-norbaeocystin-in-psilocybin-biosynthesis]], produce a strong psychoactive effect with a chemical
+profile comparable to that of [[psilocybe-cubensis]] is considerably larger
+  with a more persistent annulus. [[psilocybe-semilanceata]]
+- [[panaeolus-cyanescens-entity]]
 
-These concentrations place *P. samuiensis* among the more potent tropical *Psilocybe*
-species. The relatively high psilocybin and [[baeocystin-and-norbaeocystin-in-psilocybin-biosynthesis]], produce a strong psychoactive effect with a chemical
-profile comparable to that of [[psilocin-and-psilocybin-chemistry]] content of approximately 1.25% dry weight is significant.
+## Overview
 
-## Identification Notes
+Psilocybe Samuiensis represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
 
-Several key features are useful when identifying *P. samuiensis* in the field:
+## Key Characteristics
 
-- **Size:** The small cap (0.7–1.5 cm) and slender stem (1–2 mm thick) are
-  characteristic, contributing to its resemblance to [[psilocybe-cubensis]] is considerably larger
-  with a more persistent annulus. [[panaeolus-cyanescens-entity]] belongs to a different genus
-  and has black spore deposits.
+Several defining characteristics distinguish psilocybe samuiensis
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving psilocybe extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Psilocybe Samuiensis finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for psilocybe samuiensis. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+psilocybe samuiensis and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Psilocybe Samuiensis has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of psilocybe samuiensis into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
 ## See Also
 
-- [[psilocybe-semilanceata]]
-- [[panaeolus-cyanescens-entity]]
+- [[psilocybe-caeruleoannulata]]
+- [[psilocybe-ovoidocystidiata]]
+- [[psilocybe-phyllogena]]
+- [[psilocybe-semilanceata-worldwide-temperate-distribution-guzman-1998]]
+- [[psilocybe-species-europe]]

@@ -2,7 +2,7 @@
 
 > Vegetable gardening, orcharding, food preservation, irrigation, season extension, and homesteading skills
 
-**1206 pages**
+**1208 pages**
 
 ## A
 
@@ -668,6 +668,7 @@
 - [[keyhole-bed-design]]
 - [[keyhole-garden-design]]
 - [[keyhole-garden-mandala-design]]
+- [[keypoint-irrigation-and-saddle-dams]]
 
 ## L
 
@@ -956,6 +957,7 @@
 
 ## S
 
+- [[saddle-dams-and-high-water-storages]]
 - [[salad-crops-growing-guide]]
 - [[salicylic-acid-plant-defense]]
 - [[salt-tolerant-fodder-plants]]

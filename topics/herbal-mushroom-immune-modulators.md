@@ -44,61 +44,10 @@ plants and fungi that influence the immune system, not by crudely stimulating
 it, but by modulating its activity toward homeostasis. Immunomodulation is a
 conceptually distinct approach from simple immunostimulation or
 immunosuppression. Whereas immunostimulants broadly upregulate immune
-activity (which can be dangerous in [[cannabis-autoimmune-conditions-detailed]] where the immune
-system is already overactive), and immunosuppressants broadly dampen immune
-responses (increasing infection risk), immunomodulators act as biological
-response modifiers that can either enhance or restrain immune function
-depending on the body's current state. This bidirectional capacity makes them
-particularly interesting in both traditional medicine systems and modern
-immunological research.
-
-The distinction between "boosting" and "modulating" the immune system is
-clinically important. Popular marketing often promotes immune "boosting," but
-in conditions such as rheumatoid arthritis, lupus, multiple sclerosis, and
-other autoimmune disorders, further stimulation of immune activity can worsen
-symptoms and disease progression. True immunomodulators possess the ability
-to downregulate excessive immune responses while simultaneously supporting
-immune competence where it is deficient. Many medicinal mushrooms and herbs
-demonstrate precisely this kind of intelligent, context-dependent activity,
-acting through complex signaling pathways that engage with the immune system's
-own regulatory mechanisms rather than overriding them.
-
-The use of mushrooms and herbs for immune support has deep historical roots.
-In Traditional Chinese Medicine (TCM), mushrooms such as Reishi (Lingzhi)
-have been used for over two thousand years, classified as superior tonics
-that promote longevity and vitality. Ayurvedic medicine employs herbs like
-Ashwagandha and Tulsi as rasayanas (rejuvenatives) that strengthen immune
-resilience. Western herbalism has its own rich tradition of immune-supportive
-plants, including Echinacea species native to North America and Elderberry
-(Sambucus nigra) from European folk medicine. These traditions, developed
-independently across cultures, have increasingly converged with modern
-immunological research, as scientists have identified specific bioactive
-compounds in these organisms that mediate their immune-modulating effects.
-
-## The Science of Beta-Glucans
-
-Beta-glucans are a class of polysaccharides found predominantly in the cell
-walls of fungi and certain bacteria, cereals (such as oats and barley), and
-algae. In the context of medicinal mushrooms, the most immunologically active
-beta-glucans are those with beta-1,3 backbone linkages and beta-1,6 branching
-side chains. These structural features are recognized by the innate immune
-system as pathogen-associated molecular patterns (PAMPs), meaning they
-trigger immune surveillance pathways that the body normally uses to detect
-fungal infection. However, because mushroom-derived beta-glucans are consumed
-without the attendant pathogenicity of live fungi, they activate immune
-monitoring without causing disease, effectively serving as a gentle training
-signal for immune cells.
-
-## See Also
-
-- [[ahcc-active-hexose-correlated-compound]]
-- [[beta-glucan-receptor-binding]]
+activity (which can be dangerous in [[ahcc-active-hexose-correlated-compound]]
 - [[cancer-immune-modulation-mechanisms]]
-- [[ganoderma-lucidum-reishi-comprehensive-profile]]
 - [[chaga-inonotus-obliquus-medicinal-profile]]
-- [[maitake-grifola-frondosa-comprehensive-profile]]
 - [[turkey-tail-research-psk]]
-- [[cordyceps-cultivation]]
 - [[cancer-medicinal-mushrooms-immune-modulation-beta-glucans]]
 
 ## References
@@ -135,11 +84,7 @@ signal for immune cells.
     Beta-Glucan on Human Immune and Cancer Cells. *Journal of Hematology &
     Oncology*, 2, 25.
 
-11. Li, Q.Z., et al. (2014). The Medicinal Mushroom [[stamets-reishi-ganoderma-lucidum-cultivation]] and
-    Its Potential in Treating Cancer. *Journal of Traditional and
-    Complementary Medicine*, 4(4), 245-254.
-
-12. Mishra, S.K., et al. (2012). [[chaga-inonotus-obliquus-medicinal-profile]]: A White-Rot Fungus with
+11. Li, Q.Z., et al. (2014). The Medicinal Mushroom [[chaga-inonotus-obliquus-medicinal-profile]]: A White-Rot Fungus with
     Biotechnological Potential. *Applied Microbiology and Biotechnology*,
     93(5), 1805-1815.
 

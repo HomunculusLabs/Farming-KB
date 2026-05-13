@@ -23,26 +23,6 @@ facilities, and market goals.
 
 ## Enoki Cultivation
 
-[[enoki-cultivation]]
-
-Enoki cultivation is a precision-driven process centered on controlling the
-fruiting environment to produce the long-stemmed, white clusters prized in
-Asian cuisine. In nature, enoki produces normal cap-and-stem mushrooms with
-velvety brown stems on dead hardwood in cold weather. The cultivated form is
-entirely a product of environmental manipulation: high CO2 (2000-5000 ppm),
-near-total darkness (below 50 lux), and cool temperatures (50-59°F / 10-15°C)
-suppress cap development while promoting dramatic stem elongation.
-
-The substrate is typically hardwood sawdust supplemented with 20-30% wheat or
-rice bran, packed into bottles (traditional Japanese method) or bags. Full
-sterilization at 15 psi for 60-90 minutes is required. Colonization takes
-13-20 days at 68-77°F (20-25°C). A cold shock phase at 50-55°F (10-13°C)
-triggers primordia, followed by the elongation phase lasting 10-20 days.
-Biological efficiency ranges from 80-150%, with most commercial operations
-taking only the first flush for premium quality.
-
-## Oyster Mushroom Cultivation
-
 [[oyster-mushroom-bag-preparation-and-pasteurization]]
 
 Oyster mushrooms are primary decomposers that grow on raw lignocellulosic
@@ -125,8 +105,6 @@ environmental parameter settings.
 
 ## See Also
 
-- [[comparison-enoki-vs-shiitake-cultivation]]
 - [[comparison-oyster-vs-shiitake-cultivation]]
-- [[enoki-cultivation-guide]]
 - [[comparison-enoki-vs-maitake-cultivation]]
 - [[comparison-oyster-vs-wine-cap-cultivation]]

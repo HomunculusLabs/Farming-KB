@@ -25,7 +25,7 @@ sources:
 
 The species is native to subtropical and tropical regions of Asia and has become widely naturalized across the Americas, Africa, and the Pacific Islands. Its ornamental value and aggressive growth habit have contributed to its global spread as both a cultivated and invasive species.
 
-Discovered as an arsenic hyperaccumulator in 2001 by a research team at the University of Florida, P. vittata has since become a model organism for phytoremediation research. The discovery opened new avenues for using plants to clean arsenic-contaminated soils and groundwater.
+Discovered as an arsenic hyperaccumulator in 2001 by a research team at the University of Florida, P. vittata has since become a model organism for [[phytoremediation]] research. The discovery opened new avenues for using plants to clean arsenic-contaminated soils and groundwater.
 
 The fern's common name "ladder fern" refers to the regularly spaced pinnae along the rachis, which resemble the rungs of a ladder. The species epithet *vittata* (banded) may reference the stripe-like pattern of the sori on the pinnae undersurface.
 
@@ -45,9 +45,7 @@ Spores are tetrahedral, 35–45 µm in diameter, with a prominently verrucate ex
 
 ## Distribution and Habitat
 
-P. vittata is native to southern China, Japan, Korea, Taiwan, the Indian subcontinent, and [[psilocybe-southeast-asia-pacific]]. It occurs naturally from sea level to approximately 1,500 m elevation in a variety of subtropical and tropical habitats.
-
-The species has been introduced and naturalized widely across the Americas, from the southeastern United States through [[guzman-allen-gartz-neurotropic-fungi-central-america-caribbean]] to Brazil, as well as in Africa, Australia, and numerous Pacific Islands. Naturalized populations often establish on disturbed ground near human settlements.
+P. vittata is native to southern China, Japan, Korea, Taiwan, the Indian subcontinent, and [[guzman-allen-gartz-neurotropic-fungi-central-america-caribbean]] to Brazil, as well as in Africa, Australia, and numerous Pacific Islands. Naturalized populations often establish on disturbed ground near human settlements.
 
 Natural habitats include forest margins, rocky slopes, road cuts, stream banks, and abandoned agricultural land. The fern shows strong preference for calcareous soils and is frequently found growing on limestone outcrops and mortared walls.
 
@@ -61,13 +59,7 @@ P. vittata is the first known arsenic hyperaccumulator and remains the most exte
 
 Arsenic is taken up primarily as arsenate (AsV) through the phosphate transport pathway, reflecting the chemical similarity between arsenate and phosphate. Within the plant, much of the arsenic is reduced to arsenite (AsIII) and stored in the vacuole as an arsenite-thiol complex.
 
-The hyperaccumulation mechanism involves several key adaptations. Fronds express high levels of arsenate reductase and specific arsenite transporter proteins that efficiently sequester arsenic away from [[isolation-metabolically-active-arbuscules-intraradical-hyphae]] tissues.
-
-Root-to-shoot translocation efficiency in P. vittata is remarkably high, with over 80% of total plant arsenic concentrated in the above-ground biomass. This contrasts with most plants, which retain arsenic primarily in roots.
-
-Phytoremediation applications have been demonstrated at field scale in the United States, China, and Australia. The fern can reduce soil arsenic concentrations by repeated harvesting of contaminated fronds over multiple growing seasons.
-
-Limitations include the fern's tropical climate requirement, moderate growth rate compared to some non-hyperaccumulating species, and concerns about arsenic-containing biomass disposal. Research into [[fukuoka-textdoc-genetic-engineering-critique-warning]] of related species with the P. vittata arsenic pathway is ongoing.
+The hyperaccumulation mechanism involves several key adaptations. Fronds express high levels of arsenate reductase and specific arsenite transporter proteins that efficiently sequester arsenic away from [[fukuoka-textdoc-genetic-engineering-critique-warning]] of related species with the P. vittata arsenic pathway is ongoing.
 
 Field trials have demonstrated that repeated frond harvesting over two to three growing seasons can reduce soil arsenic by 10–30% in moderately contaminated sites. The technology is most practical for sites with contamination levels above 50 mg/kg where conventional remediation is prohibitively expensive.
 

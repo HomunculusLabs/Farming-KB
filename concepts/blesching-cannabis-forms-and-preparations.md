@@ -22,34 +22,13 @@ The method by which cannabis is prepared and consumed fundamentally determines
 how its active compounds are absorbed, distributed, metabolized, and
 eliminated by the body. Different preparations offer varying ratios of
 bioavailability, meaning the proportion of administered cannabinoid that
-reaches systemic circulation differs dramatically between [[cannabis-delivery-methods-comparison]].
-This has direct implications for dosing, onset of effects, duration of action,
-and overall therapeutic efficacy.
-
-Inhalation methods (smoking and vaporization) provide the most rapid onset of
-effects, typically within minutes, because cannabinoids are absorbed directly
-through the pulmonary alveoli into the bloodstream. This route bypasses
-first-pass metabolism in the liver, preserving the original cannabinoid
-profile. However, inhaled cannabis also has the shortest duration of effect,
-generally lasting two to four hours, and carries risks associated with
-combustion byproducts (in the case of smoking).
-
-Oral preparations including edibles, capsules, and tinctures absorbed
-sublingually offer longer durations of effect but with more variable onset
-times and bioavailability. When cannabis is consumed orally, THC is
-metabolized in the liver to 11-hydroxy-THC, a more potent psychoactive
-metabolite. This conversion accounts for the often more intense and longer-
-lasting effects experienced with oral cannabis compared to inhaled forms.
-[[blesching-cannabis-tinctures-infused-oils-topical-preparations]] provide localized effects with minimal systemic
+reaches systemic circulation differs dramatically between [[blesching-cannabis-tinctures-infused-oils-topical-preparations]] provide localized effects with minimal systemic
 absorption, making them ideal for targeted relief.
 
 ## Key Concepts
 
 - Inhalation provides the fastest onset (minutes) but shortest duration
-  (2-4 hours) of [[cbd-therapeutic-effects]]
-- Oral ingestion provides slower onset (30-120 minutes) but longer duration
-  (4-8+ hours) and involves hepatic conversion of THC to 11-hydroxy-THC
-- [[cannabis-topical-applications]] provide localized relief with minimal systemic
+  (2-4 hours) of [[cannabis-topical-applications]] provide localized relief with minimal systemic
   absorption or psychoactive effects
 - Sublingual tinctures offer a middle ground with faster onset than oral
   ingestion but longer duration than inhalation
@@ -63,18 +42,7 @@ absorption, making them ideal for targeted relief.
 
 Smoking cannabis remains the most common method of consumption, though it
 introduces combustion byproducts including tar, carbon monoxide, and
-[[singh-fungal-biodegradation-of-polycyclic-aromatic-hydrocarbons]] hydrocarbons. Vaporization offers a harm-reduction
-alternative by heating cannabis to a temperature that releases cannabinoids
-and terpenes as vapor without reaching the point of combustion. Vaporization
-typically occurs between 280 and 400 degrees Fahrenheit (138-204 degrees
-Celsius), depending on the specific compounds targeted.
-
-Different cannabinoids and terpenes vaporize at different temperatures,
-allowing patients with temperature-controlled vaporizers to selectively target
-specific compounds. Lower vaporization temperatures favor terpenes and more
-volatile cannabinoids, while higher temperatures extract heavier cannabinoids
-like THC and CBD. This temperature-dependent extraction provides a degree of
-control over the [[cannabidiol-cbd-therapeutic-profile-blesching]] of the inhaled medicine.
+[[cannabidiol-cbd-therapeutic-profile-blesching]] of the inhaled medicine.
 
 The pulmonary bioavailability of THC through inhalation is estimated at
 10-60%, with significant inter-individual variability based on smoking
@@ -118,8 +86,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[blesching-cannabis-forms-preparations-and-resin-products]]
 - [[det]]
-- [[blesching-cannabis-infused-honey-and-hempseed-oil]]
 - [[blesching-cannabis-decarboxylation-and-raw-cannabis]]
 - [[blesching-cannabis-neurogenesis-and-neuroplasticity]]

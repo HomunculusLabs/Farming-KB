@@ -19,7 +19,7 @@ type: concept
 
 # Rust Germ Tube Tactile Sensing and Leaf Surface Navigation
 
-[[biodiversity-rust-fungi-urediniomycetes]] of the genus Puccinia are among the most destructive plant [[fungal-pathogens-in-agriculture]]. Black stem rust of wheat (Puccinia graminis) has caused crop losses of staggering proportions throughout history, and the ongoing evolutionary arms race between rust fungi and their cereal hosts drives one of the most intensively studied pathogen-plant interactions in biology. A remarkable aspect of rust infection is the ability of the microscopic germ tube — the first hypha emerging from a germinating spore — to navigate the complex topography of a leaf surface and locate stomatal pores using tactile sensing alone.
+[[fungal-pathogens-in-agriculture]]. Black stem rust of wheat (Puccinia graminis) has caused crop losses of staggering proportions throughout history, and the ongoing evolutionary arms race between rust fungi and their cereal hosts drives one of the most intensively studied pathogen-plant interactions in biology. A remarkable aspect of rust infection is the ability of the microscopic germ tube — the first hypha emerging from a germinating spore — to navigate the complex topography of a leaf surface and locate stomatal pores using tactile sensing alone.
 
 ## The Infection Challenge
 
@@ -42,7 +42,7 @@ The stomatal lips — the raised guard cells bordering each pore — project les
 
 ## Harvey Hoch's Surface Recognition Experiments
 
-**Harvey Hoch**, a plant pathologist at Cornell University, conducted a series of elegant experiments that demonstrated the [[bloomfield-rust-fungus-life-cycles-puccinia-haustoria-spermatia]]'s ability to locate stomata using purely physical cues. His work stands as a model of creative [[lightproof-cap-experimental-design-phototropism]] in plant pathology.
+**Harvey Hoch**, a plant pathologist at Cornell University, conducted a series of elegant experiments that demonstrated the [[lightproof-cap-experimental-design-phototropism]] in plant pathology.
 
 ### Plastic Leaf Replicas
 
@@ -69,25 +69,11 @@ By growing across the leaf rather than along it, the germling is far more likely
 
 ## Cellular Mechanisms: Stretch-Activated Calcium Channels
 
-The molecular mechanisms underlying the rust fungus's tactile perception are not fully elucidated, but current understanding points to **stretch-activated calcium channels** in the fungal [[plant-cell-membrane-transport-proteins-channels-carriers-and-pumps]]. These transmembrane proteins likely function as follows:
-
-1. As the germ tube hypha forces itself up and over a ridge, the membrane at the contact point is stretched.
-2. This mechanical deformation causes the channel proteins to open.
-3. Calcium ions flood into the cell from the external medium.
-4. The calcium surge triggers a cascade of intracellular biochemical reactions that "inform" the fungus about the size and nature of the topographic feature it has encountered.
-5. When the calcium signature matches that produced by a 0.5 µm ridge (stomatal lip height), the fungus initiates appressorium formation over the stoma.
-
-### Parallels with Human Touch
-
-These fungal mechanosensory mechanisms are directly related to the processes underlying human tactile sensation. Stretch-activated channels in the nerve cells of human fingertips open and close as fingers run over a surface, generating nerve impulses that signal contact with objects — including the varicose leaf veins detectable to human touch. However, human and fungal tactile sensitivity are tuned to fundamentally different needs. Humans cannot feel epidermal hills or stomatal lips — there would be no evolutionary advantage to such fine-scale perception. Human nerve endings are spaced far more widely than stomata, and the noise from fingerprints obscures any signal at that scale. On a molecular level, the [[woronin-bodies-septal-pore-plugging-fungal-hypha]]'s contact with the leaf is more intimate than any contact a human finger can make.
+The molecular mechanisms underlying the rust fungus's tactile perception are not fully elucidated, but current understanding points to **stretch-activated calcium channels** in the fungal [[woronin-bodies-septal-pore-plugging-fungal-hypha]]'s contact with the leaf is more intimate than any contact a human finger can make.
 
 ## Robby Roberson's Fungal Circuits
 
-**Robby Roberson**, working at Arizona State University, extended Hoch's methods to exert even finer control over [[brassinosteroid-fungal-growth-promotion]] patterns. Using manufactured surfaces with defined topographic features, he directed the growth of rust mycelia along specific pathways. Onc mycelium lium had developed along a prescribed route, he passed electrical currents through the hyphae, exploring the possibility of creating a biochip — a living, breathing fungal computer. While this research was largely exploratory, it demonstrated the remarkable controllability of fungal growth using physical surface cues.
-
-## The Arms Race: Rust vs. Wheat
-
-Following successful entry through a stoma, successive rounds of mycelial proliferation within the plant lead to pustule formation and massive uredospore production. This stage of the [[agaricus-campestris-biology-and-life-cycle]] functions like a photocopier, cloning the fungus as immense numbers of spores that can blanket entire fields after a single wind gust. With permissive winds, spores travel hundreds of miles, enabling one infected crop to spawn an epidemic.
+**Robby Roberson**, working at Arizona State University, extended Hoch's methods to exert even finer control over [[agaricus-campestris-biology-and-life-cycle]] functions like a photocopier, cloning the fungus as immense numbers of spores that can blanket entire fields after a single wind gust. With permissive winds, spores travel hundreds of miles, enabling one infected crop to spawn an epidemic.
 
 ## Practical Applications
 
@@ -118,8 +104,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[rust-fungi]]
 - [[det]]
-- [[spore]]
 - [[phototropism]]
 - [[brassinosteroid]]

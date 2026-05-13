@@ -1,8 +1,7 @@
 # Soil Temperature and Oxygen in Plant Growth
 
 ## Overview
-A critical but often overlooked aspect of [[dryland-vegetable-gardening]] is the role of soil
-temperature and oxygen availability in plant [[plant-sensory-biology-smell-touch-hearing]] growth. Most gardeners focus on
+A critical but often overlooked aspect of [[plant-sensory-biology-smell-touch-hearing]] growth. Most gardeners focus on
 above-ground conditions — sunlight, air temperature, rainfall — while
 underestimating the importance of what happens below the soil surface. Plants are
 fundamentally dependent on the below-ground environment for their growth,
@@ -13,14 +12,7 @@ Here is something most gardeners don't know: the business of construction, of
 growth, is mainly done at night. During the daytime, plants store up energy by
 converting sunshine, water, and air (CO₂) into sugar through photosynthesis. They
 burn that sugar as energy to grow during the night. This has important implications
-for [[jadam-cover-crop-soil-temperature-management]] — warm nighttime soil temperatures are critical for
-rapid growth.
-
-## Soil Temperature and Seed Germination
-The speed at which an embryo grows and develops is determined by temperature. If
-the soil is too cold, the seedling — slowed by the chill — will be attacked by
-fungi and other soil-dwelling diseases that thrive in cold conditions, and it will
-die. Each crop species has an optimal soil [[query-what-is-the-ideal-temperature-range-for-growing-cannabis]] germination:
+for [[query-what-is-the-ideal-temperature-range-for-growing-cannabis]] germination:
 
 ### Temperature Categories
 - **Cool-season crops** (lettuce, spinach, peas, radishes): germinate best at

@@ -76,14 +76,10 @@ Pachypodium lamerei shares its habitat with other Madagascan endemics including 
 
 Pachypodium lamerei is a popular container plant grown for its architectural form and relatively easy care. It requires full sun, excellent drainage, and a well-draining cactus or succulent mix.
 
-During the active [[extending-growing-season]] (spring–fall), water regularly but allow soil to dry between waterings. In winter, reduce watering drastically or withhold entirely while the plant is dormant.
-
-Propagation is primarily from seed, as stem cuttings rarely root. Fresh seeds germinate in 7–21 days at 25–30 °C in sandy, sterile medium.
-
-Growth is moderately fast, with seedlings developing a visible caudex within 2–3 years. Plants typically flower at 5–8 years from seed under optimal conditions.
-
-[[coleman-hardy-winter-vegetables-cold-tolerance-mechanisms]] extends to about 4 °C for brief periods. [[query-how-to-grow-and-use-oca-in-temperate-climates]], plants must be overwintered indoors in a bright, dry position.
-
-[[greg-green-spider-mites-and-common-pests]] mealybugs can affect indoor specimens, particularly during dry winter conditions. Regular inspection and appropriate treatment are recommended.
+During the active [[coleman-hardy-winter-vegetables-cold-tolerance-mechanisms]] extends to about 4 °C for brief periods. [[greg-green-spider-mites-and-common-pests]] mealybugs can affect indoor specimens, particularly during dry winter conditions. Regular inspection and appropriate treatment are recommended.
 
 ## Uses
+
+## See Also
+
+- [[pachypodium-geayi]]

@@ -23,20 +23,6 @@ during hyphal anastomosis (cell fusion between compatible fungal
 strains). Mycoviruses are of particular interest for their ability to
 modulate fungal virulence, including the phenomenon of hypovirulence
 where viral infection reduces or eliminates the pathogenicity of
-[[bloomfield-fungal-plant-pathogens]].
-
-## Classification and Genome Diversity
-
-Mycoviruses exhibit remarkable genomic diversity, with representatives
-in most major viral taxa. The majority have double-stranded RNA (dsRNA)
-genomes, traditionally classified into families including
-Totiviridae, Partitiviridae, Chrysoviridae, Quadriviridae, and
-Reoviridae. Single-stranded RNA (ssRNA) mycoviruses include positive-
-sense members of the Hypoviridae, Narnaviridae, and Endornaviridae,
-along with negative-sense viruses recently identified in the
-Mononegavirales.
-
-DNA mycoviruses are relatively rare but include the ssDNA virus
 [[sclerotinia-sclerotiorum]] hypovirulence-associated DNA virus (SsHADV-1)
 in the Genomoviridae family and the dsDNA mycovirus found in
  Cryphonectria parasitica. The discovery of DNA mycoviruses has
@@ -74,15 +60,7 @@ epidemiological reach.
 ## Hypovirulence and Biological Control
 
 The most celebrated application of mycovirus biology is the use of
-hypovirulence for biological control of [[fungal-plant-diseases]]. The
-prototypical example is Cryphonectria hypovirus 1 (CHV1), which
-infects Cryphonectria parasitica, the causal agent of chestnut blight.
-CHV1 infection reduces fungal growth rate, sporulation, and
-pigmentation while dramatically attenuating canker expansion on
-infected chestnut trees.
-
-The molecular basis of hypovirulence involves disruption of fungal
-[[plant-signaling-pathways]]. CHV1-encoded papain-like protease p29 suppresses
+hypovirulence for biological control of [[plant-signaling-pathways]]. CHV1-encoded papain-like protease p29 suppresses
 the cAMP-PKA signaling pathway, while the RNA-dependent RNA polymerase
 p29 modulates G-protein signaling. These disruptions impair the
 fungus's ability to sense environmental cues, form sexual structures,
@@ -110,9 +88,7 @@ soils in Yellowstone National Park. This three-way symbiosis between
 virus, fungus, and plant represents a remarkable example of beneficial
 viral ecology.
 
-Mycoviruses have been shown to alter [[fungal-elicitors-enhanced-secondary-metabolite-production]]
-in fungi, including reduction of aflatoxin synthesis in Aspergillus
-species. The mycovirus [[aspergillus-flavus]] 1 (AfV1) reduces aflatoxin
+Mycoviruses have been shown to alter [[aspergillus-flavus]] 1 (AfV1) reduces aflatoxin
 B1 production by modulating expression of the aflatoxin biosynthetic
 gene cluster. Other documented effects include modulation of
 cryptococcal virulence factor production, changes in fungal
@@ -143,8 +119,5 @@ in recent years.
 ## See Also
 
 - basidiomycete mating systems
-- [[laccase]]
 - [[fungal-melanin]]
-- [[ergothioneine-mushroom-antioxidant]]
-- beta glucan structure
 - [[fungal-bioweathering]]

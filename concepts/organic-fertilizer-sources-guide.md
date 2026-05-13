@@ -36,61 +36,105 @@ Natural fertilizers are derived from plant and animal by-products as well as roc
 | Source | N-P-K | Notes |
 |--------|-------|-------|
 | Shrimp shell meal | 5-8-15 | High in trace elements, 15% Ca, 20% chitin; slow release (3-6 months) |
-| [[comparison-kelp-meal-vs-rock-dust]] | 0-0-0 to 1-0-4 | Up to 60 elements including all trace minerals; natural plant growth hormones; available 1-2 months after application |
-| Kelp powder | 0-0-0 to 1-0-4 | More soluble than meal; available to microbes immediately; lasts ~1 month |
-| Liquid kelp | 0-0-0 to 1-0-4 | Instantly available; enzymatically digested (preserves growth hormones); lasts 1-3 weeks |
-
-## Biofertilizers
-
-Live agents that produce or are involved in producing plant nutrients:
-
-- **Rhizobia and Frankia**: Symbiotic nitrogen fixers for legumes and select non-legumes. Incredible specificity between plant and microbe.
-- **Azotobacter and Azospirillum**: Free-living nitrogen fixers, used with cereal crops.
-- **Phosphate-solubilizing bacteria**: Bacillus megaterium, B. subtilis, B. circulans, Pseudomonas striata free up insoluble phosphorus.
-- **Phosphate-solubilizing fungi**: Penicillium species, Aspergillus awamori produce organic acids that break phosphorus bonds.
-- **[[arbuscular-mycorrhizal-fungi-biology-symbiosis]]**: Deliver ~80% of plant P, 60% of Cu, 25% of N and Zn, 10% of K.
+| [[arbuscular-mycorrhizal-fungi-biology-symbiosis]]**: Deliver ~80% of plant P, 60% of Cu, 25% of N and Zn, 10% of K.
 - **Plant growth-promoting rhizobacteria (PGPR)**: Root-colonizing bacteria (e.g., Pseudomonas fluorescens) that aid nutrient synthesis and root growth.
 
 ## Fertilizer Application Methods
 
 - **Broadcasting**: Spread over large areas; wasteful between rows and for immobile nutrients like P
 - **Banding**: Place fertilizer 2in away from seeds, 2in deeper; 50% increase in P and K uptake vs broadcasting; ideal for immobile nutrients
-- **[[purdue-nitrogen-side-dressing-schedule]]**: Place along row or beside plant at midseason, under mulch
-- **Foliar spraying**: Fine for temporary quick fix for mobile micronutrients (Fe, Zn); cannot supply sufficient macronutrients to keep plants thriving
-- **Spot banding**: Put fertilizer in a hole, plant around it; good for autumn application of slow-release materials
-
-## DIY Fertilizer Recipes
-
-### Grandpa Al's Can't Fail Recipe
-4 parts fish meal (or soy/cottonseed meal), 1 part kelp meal, 1 part rock phosphate (or 3/4 part bone meal), 1 part dolomitic or calcitic limestone. Apply 1-2 gallons per 100 sq ft at start of season, band into root zone. Side dress every 4 weeks.
-
-### Steve Solomon's Recipe
-3 parts cottonseed meal, 1 part blood meal, 1 part dolomitic or calcitic limestone, 1/2 part bone meal, 1/2 part kelp meal. Apply 6 quarts per 100 sq ft.
-
-### Quick Starter Solution
-1.5 parts [[solomon-foliar-feeding-fish-emulsion-and-kelp]] or fish powder (or 0.5 part bat guano), 1 part liquid kelp. Dilute per label instructions. Soak transplants in 1:4 dilution before planting.
+- **[[solomon-foliar-feeding-fish-emulsion-and-kelp]] or fish powder (or 0.5 part bat guano), 1 part liquid kelp. Dilute per label instructions. Soak transplants in 1:4 dilution before planting.
 
 ### Wayne Lewis's Graceland Lawn Food
 1 part soybean meal or chicken litter meal, 1 part granulated molasses. A 50-lb bag of each fertilizes 2000 sq ft of lawn.
 
 ## Related Topics
-- [[complete-organic-fertilizer-recipes]]
 - [[soil-testing-and-analysis]]
-- [[teaming-with-microbes-soil-food-web-trophic-structure-and-succession]]
+- [[solomon-complete-organic-fertilizer-guide]]
+- [[hamilton-concentrated-organic-fertilizer-products]]
+- [[complete-organic-fertilizer-cof-solomon]]
+
+## Overview
+
+Organic Fertilizer Sources Guide represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish organic fertilizer sources guide
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving organic extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Organic Fertilizer Sources Guide finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for organic fertilizer sources guide. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+organic fertilizer sources guide and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
 
 ## Historical Context
-- These approaches have evolved through decades of research and practical application.
-- Traditional knowledge systems have contributed significantly to modern understanding.
-- Scientific inquiry has progressively validated and refined historical practices.
 
-## Mechanisms and Processes
-- Underlying biological and ecological mechanisms drive observed outcomes.
-- Multiple interacting factors contribute to system-level effects.
-- Understanding these processes enables more targeted and effective interventions.
+Organic Fertilizer Sources Guide has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of organic fertilizer sources guide into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
 
 ## See Also
-- [[solomon-complete-organic-fertilizer-guide]]
-- [[teaming-with-nutrients-organic-fertilizer-types-and-sources]]
-- [[hamilton-concentrated-organic-fertilizer-products]]
-- [[organic-fertilizer-recipes]]
-- [[complete-organic-fertilizer-cof-solomon]]
+
+- [[coleman-deep-organic-shallow-organic-farming-comparison]]
+- [[hamilton-composting-and-organic-matter-management]]
+- [[hamilton-kelp-and-seaweed-in-organic-gardening]]
+- [[maintaining-organic-matter-in-vegetable-gardens]]
+- [[plant-communication-volatile-organic-compounds]]

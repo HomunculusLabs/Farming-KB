@@ -19,13 +19,8 @@ type: concept
 
 Frost is identified by Mollison as the limiting factor in plant hardiness
 zones. Understanding where frost occurs, how it flows, and how to prevent
-it is critical for [[extending-growing-season]] seasons and [[holzer-fruit-growing-marginal-climates]] species.
-This page covers frost mechanics and the [[mollison-designers-snow-ice-and-winter-design-strategies]] for frost
-protection in permaculture systems.
-
-## Where Frost Forms
-
-Frost is produced in hollows, on flats, and in large clearings. [[hemenway-cold-air-drainage-and-frost-management]]
+it is critical for [[holzer-fruit-growing-marginal-climates]] species.
+This page covers frost mechanics and the [[hemenway-cold-air-drainage-and-frost-management]]
 drains downhill at night, pooling in low-lying areas where it settles
 and damages sensitive plants. In mountainous regions, valley frosts form
 below tree lines at night as cold air cascades from upper slopes.
@@ -58,10 +53,7 @@ windbreaks or in-crop crown cover, exclude frost and nullify salty or
 hot winds. In-crop trees can eliminate frost effects in marginal frost
 areas. Trees like avocado and crops like papaya can be grown on
 subtropical frosty sites providing there is a high canopy of hardy palms
-or light-crowned legumes (e.g., Butia palm, Jacaranda, [[tipuana-tipu]]).
-
-Such sites do not frost because there is no bare-ground radiation at
-night, and advected frost is impeded. The [[tree-canopy-fungal-sampling-techniques]] intercepts
+or light-crowned legumes (e.g., Butia palm, Jacaranda, [[tree-canopy-fungal-sampling-techniques]] intercepts
 outgoing longwave radiation and acts as a thermal blanket over the
 understory. This principle extends to any situation where light-canopy
 trees are planted in gardens for frost protection.

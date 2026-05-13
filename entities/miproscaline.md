@@ -22,43 +22,7 @@ Miproscaline (3,5-dimethoxy-4-methylthiophenethylamine) is a synthetic psychedel
 
 The compound was first synthesized and bioassayed by Shulgin and his research group. It is structurally related to mescaline, with the key difference being substitution of a methylthio group at the 4-position in place of mescaline's 4-hydroxy group.
 
-Miproscaline is classified as a Schedule I controlled substance in the [[dmt-containing-plants-united-states-halpern]] under the Federal Analog Act, as a positional isomer of mescaline.
-
-## Chemical Properties
-
-- **IUPAC name:** 2-(3,5-Dimethoxy-4-(methylthio)phenyl)ethan-1-amine
-- **Molecular formula:** C11H17NO2S
-- **Molecular weight:** 227.32 g/mol
-- **SMILES:** COc1cc(CCN)cc(SC)c1OC
-- **CAS number:** 207740-24-9
-
-The compound exists as a free base and is typically encountered as a crystalline solid. It is sparingly soluble in water but dissolves readily in organic solvents such as ethanol and dichloromethane.
-
-The methylthio substitution at the 4-position significantly alters the electronic properties compared to mescaline's 4-hydroxy group, affecting both binding affinity and metabolic stability.
-
-## Pharmacology
-
-Miproscaline acts primarily as a serotonin 5-HT2A receptor agonist, the primary mechanism underlying its psychedelic effects. It shows moderate affinity for 5-HT2A and 5-HT2C receptor subtypes.
-
-The methylthio group at the 4-position is a bioisostere of the hydroxy group in mescaline. This substitution generally reduces receptor affinity compared to the parent compound, resulting in a higher effective dose range.
-
-The compound also shows weak activity at trace amine-associated receptors (TAAR1). The methylthio group imparts greater lipophilicity compared to mescaline, potentially affecting blood-brain barrier penetration and duration of action.
-
-## Effects
-
-The subjective effects profile of miproscaline is described in PIHKAL as moderately psychedelic with visual and sensory enhancement. The experience is generally considered milder and less intense than mescaline.
-
-Common effects include color enhancement, pattern recognition, and mild visual distortions. The headspace is described as introspective but less emotionally intense than mescaline or other classical psychedelics.
-
-Physical effects may include pupil dilation, mild tachycardia, and increased body temperature. Nausea, common with mescaline, is less frequently reported with miproscaline.
-
-## Dosage
-
-According to PIHKAL, the effective dose range for miproscaline is 30–60 mg when taken orally. The threshold dose is approximately 20 mg, while doses above 70 mg may produce excessively intense effects.
-
-The duration of effects is approximately 8–12 hours, similar to mescaline. The onset occurs within 45–90 minutes after oral ingestion, with peak effects at 2–4 hours.
-
-Shulgin notes considerable individual variation in sensitivity. As with all serotonergic psychedelics, [[lsd-set-and-setting-framework]] significantly influence the quality of the experience.
+Miproscaline is classified as a Schedule I controlled substance in the [[lsd-set-and-setting-framework]] significantly influence the quality of the experience.
 
 ## Synthesis
 
@@ -72,9 +36,7 @@ The synthesis requires standard organic laboratory equipment and reagents. As a 
 
 Miproscaline is unscheduled in many countries but may fall under analogue acts that prohibit substances substantially similar to controlled mescaline.
 
-In the United States, the Federal Analog Act makes miproscaline a de facto Schedule I substance due to its [[serotonin-psilocybin-structural-relationship-hallucinogenic-mechanism]] to mescaline. Possession, sale, and manufacture carry the same penalties as scheduled drugs.
-
-In the United Kingdom, the Psychoactive [[controlled-substances-act-and-psychedelic-research]] 2016 may cover miproscaline as a substance with psychoactive effects. In the EU, individual member state laws vary regarding phenethylamine analogue scheduling.
+In the United States, the Federal Analog Act makes miproscaline a de facto Schedule I substance due to its [[controlled-substances-act-and-psychedelic-research]] 2016 may cover miproscaline as a substance with psychoactive effects. In the EU, individual member state laws vary regarding phenethylamine analogue scheduling.
 
 ## History
 
@@ -87,3 +49,80 @@ The compound has not been widely studied outside of Shulgin's original work. No 
 ## Related Compounds
 
 Miproscaline is part of a series of 4-substituted phenethylamines derived from the mescaline scaffold. Related compounds include escaline (4-ethoxy), proscaline (4-propyloxy), and isomescaline (4-isopropoxy).
+
+## Overview
+
+Miproscaline represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish miproscaline
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving miproscaline extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Miproscaline finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for miproscaline. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+miproscaline and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Miproscaline has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of miproscaline into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.

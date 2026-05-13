@@ -13,7 +13,7 @@ sources:
 
 Masanobu Fukuoka described in detail how he established his citrus
 orchards from bare hillside land, providing a practical model for
-[[fukuoka-natural-farming-philosophy-of-mu]] alongside rice, barley, and [[fukuoka-argument-against-pruning]]. If trees are
+[[fukuoka-argument-against-pruning]]. If trees are
 allowed to follow their natural form from the beginning, there is no
 need for pruning or sprays of pesticides. The problems that arise in
 conventional orchards -- insect attack, disease -- only appear after
@@ -26,9 +26,7 @@ to develop its natural shape.
 
 ## See Also
 
-- [[fukuoka-natural-farming-philosophy]]
 - [[fukuoka-citrus-orchard-ground-cover-cultivation]]
-- [[fukuoka-ground-cover-strategy]]
 - [[fukuoka-white-clover-ground-cover]]
 ## Practical Applications
 
@@ -96,8 +94,6 @@ through generations to modern scientific approaches, the evolution continues
 to inform current best practices and research directions.
 
 ## See Also
-- [[masanobu-fukuoka]]
 - [[doc]]
-- [[det]]
 - [[fukuoka-natural-farming-energy-utilization-orchard-establishment]]
 - [[fukuoka-mite-scale-microclimate-control-citrus-orchard]]

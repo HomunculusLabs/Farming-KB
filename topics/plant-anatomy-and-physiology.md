@@ -39,16 +39,7 @@ cellular level up to whole-organism systems.
 ## The Plant Cell
 
 Plant cells differ from animal cells in several critical ways. The most obvious
-distinction is the presence of a rigid **[[staycare-degradation-of-plant-cell-wall-polymers-by-fungi]]** composed primarily of cellulose,
-hemicellulose, and pectin. This wall provides structural support, protection against
-pathogens, and resistance to osmotic pressure that would burst an animal cell. The
-cell wall is not static—it is dynamically remodeled during growth and differentiation,
-with new cellulose microfibrils deposited by enzyme complexes in the plasma membrane.
-
-### Key Organelles
-
-Inside the wall lies the **plasma membrane**, a phospholipid bilayer studded with
-[[plant-cell-membrane-transport-proteins-channels-carriers-and-pumps]], receptors, and channels regulating ion, water, and organic
+distinction is the presence of a rigid **[[plant-cell-membrane-transport-proteins-channels-carriers-and-pumps]], receptors, and channels regulating ion, water, and organic
 molecule flow. Plant cells also contain membrane-bound organelles common to all
 eukaryotes:
 
@@ -57,7 +48,7 @@ eukaryotes:
   environmental signals.
 
 - **Mitochondria**: Site of cellular respiration and ATP production through the
-  citric [[citric-acid-cycle-tca-krebs-cycle]] and [[oxidative-phosphorylation-mitochondrial-respiration]]. Plant mitochondria also
+  citric [[oxidative-phosphorylation-mitochondrial-respiration]]. Plant mitochondria also
   participate in photorespiration and synthesis of some amino acids.
 
 - **Endoplasmic reticulum (ER)**: Rough ER synthesizes proteins for secretion or
@@ -78,31 +69,7 @@ eukaryotes:
 The **central vacuole** is a membrane-bound compartment (tonoplast) that can occupy
 up to 90% of the cell's volume in mature cells, serving multiple critical functions:
 
-1. **[[bloomfield-turgor-pressure-and-hyphal-invasion]]**: Osmotic pressure against the cell wall provides rigidity.
-   When a plant wilts, vacuoles have lost water and turgor has collapsed.
-
-2. **Metabolite storage**: Sugars, organic acids, amino acids, and secondary
-   metabolites (alkaloids, tannins, anthocyanins) are stored here.
-
-3. **Waste sequestration**: Toxic byproducts and xenobiotic compounds are
-   isolated to prevent cytoplasmic damage.
-
-4. **Pigment accumulation**: Anthocyanins stored in vacuoles contribute to flower
-   and fruit coloration and protect against UV damage.
-
-5. **Cell growth**: Vacuolar enlargement drives most increase in cell size after
-   division—cells divide small and expand primarily by vacuolar swelling.
-
-### Plasmodesmata and Cell Connectivity
-
-**Plasmodesmata** are microscopic channels piercing cell walls to connect adjacent
-cells, allowing cytoplasmic continuity and passage of signaling molecules, nutrients,
-proteins, and RNA. This symplastic connection means plant cells form a continuous
-living network. Plasmodesmata can be dynamically gated open or closed in response
-to stress, infection, or developmental cues. Viruses exploit them to spread between
-cells; plants respond by plugging channels with callose (β-1,3-glucan).
-
-[[plant-cell-membrane-transport-proteins-channels-carriers-and-pumps]] walls are dynamic signaling platforms. Cell wall integrity is constantly
+1. **[[plant-cell-membrane-transport-proteins-channels-carriers-and-pumps]] walls are dynamic signaling platforms. Cell wall integrity is constantly
 monitored by plasma membrane receptors, and damage triggers defense responses
 including [[reactive-oxygen-species-and-oxidative-stress]] and antimicrobial compound production. The middle
 lamella (pectin-rich layer between cells) holds them together and is the target of

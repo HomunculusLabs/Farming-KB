@@ -24,7 +24,7 @@ created: 2026-05-07
 
 Majorana hortensis, commonly known as sweet marjoram, is a tender perennial herb in the family Lamiaceae. Native to the Mediterranean region, it has been cultivated for thousands of years as both a culinary herb and a medicinal plant. The species produces small, oval leaves with a delicate, sweet, and slightly spicy aroma that is warmer and more nuanced than its close relative oregano.
 
-In traditional medicine, sweet marjoram has been used for digestive complaints, [[cannabis-respiratory-conditions]], and nervous system support. Modern research has confirmed antioxidant, antimicrobial, and anti-inflammatory activities in its [[permaculture-designers-manual-essential-oil-plants]] and extracts.
+In traditional medicine, sweet marjoram has been used for digestive complaints, [[permaculture-designers-manual-essential-oil-plants]] and extracts.
 
 ## Taxonomy
 
@@ -64,15 +64,9 @@ The species grows wild on dry, rocky hillsides, in garigue and maquis vegetation
 
 ## Cultivation
 
-Sweet marjoram is typically grown as an annual [[query-how-to-grow-and-use-oca-in-temperate-climates]], as it is not frost-hardy below -5°C. In warmer climates (USDA zones 9–10), it can persist as a short-lived perennial.
+Sweet marjoram is typically grown as an annual [[vegetative-propagation-methods-mollison]].
 
-**Propagation:** Primarily from seed, sown indoors 6–8 weeks before the last frost. Germination occurs in 7–14 days at 20–22°C. Softwood cuttings and division of established clumps are also effective [[vegetative-propagation-methods-mollison]].
-
-**Growing conditions:** Full sun, well-drained soil (sandy loam preferred), pH 6.5–7.5. The plant is drought-tolerant once established but performs best with regular, moderate watering. Overwatering or poorly drained soil promotes [[cannabis-root-rot-prevention-and-treatment]].
-
-**Harvest:** Leaves can be harvested once plants reach 15 cm in height. For maximum essential oil content, harvest just before flowering. Drying is the standard preservation method — hang bundles in a warm, dark, well-ventilated area.
-
-**[[comparison-companion-planting-reference-vs-jadam-monoculture-critique]]:** Sweet marjoram is an excellent companion plant [[maintaining-organic-matter-in-vegetable-gardens]]. It attracts [[comparison-beneficial-insects-guide-vs-integrated-pest-management]] including pollinators and predatory wasps. It is traditionally planted near tomatoes, peppers, and eggplants.
+**Growing conditions:** Full sun, well-drained soil (sandy loam preferred), pH 6.5–7.5. The plant is drought-tolerant once established but performs best with regular, moderate watering. Overwatering or poorly drained soil promotes [[comparison-companion-planting-reference-vs-jadam-monoculture-critique]]:** Sweet marjoram is an excellent companion plant [[comparison-beneficial-insects-guide-vs-integrated-pest-management]] including pollinators and predatory wasps. It is traditionally planted near tomatoes, peppers, and eggplants.
 
 ## Bioactive Compounds
 

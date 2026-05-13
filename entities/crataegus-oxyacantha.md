@@ -13,59 +13,7 @@ sources:
   - Roth L., Daunderer M., Kormann K. (1984). "Giftpflanzen — Pflanzengifte." ecomed.
   - Fugh-Berman A. (2003). "Herbal Medicine: What Can Phytochemistry Contribute?" Journal of Pharmacy and Pharmacology 55(5): 563–568.
   - Ammon H.P.T., Kaul R. (1994). "Pharmacology of Crataegus Extracts." Pharmacological Reviews 46(2): 141–166.
-  - USDA NRCS. "[[crataegus-monogyna]]." PLANTS Database.
-  - European Medicines Agency. (2016). "Assessment Report on Crataegus spp." EMA/HMPC/578183/2014.
----
-
-# Crataegus oxyacantha
-
-## Overview
-
-**Crataegus oxyacantha** L., commonly known as the common hawthorn or two-styled hawthorn, is a deciduous shrub or small tree in the family Rosaceae. It is native to Europe, northwest Africa, and western Asia, where it occupies hedgerows, woodland edges, and scrubland.
-
-The species is one of the most widely used medicinal plants in European phytotherapy, with a documented history of cardiovascular use spanning over 2,000 years. Modern clinical evidence supports its role as a mild cardiotonic and anti-hypertensive agent.
-
-Hawthorn fruits (haws), leaves, and flowers all contain bioactive flavonoids and procyanidins that contribute to the plant's pharmacological profile. The taxonomic status of *C. oxyacantha* remains debated; many authorities treat it as a synonym of *C. monogyna* or consider it a hybrid complex with *C. monogyna* and *C. laevigata*.
-
-## Taxonomy and Morphology
-
-**Kingdom:** Plantae — **Order:** Rosales — **Family:** Rosaceae — **Subfamily:** Amygdaloideae — **Tribe:** Maleae — **Genus:** Crataegus
-
-**Authority:** Carl Linnaeus, *Species Plantarum* (1753).
-
-*C. oxyacantha* is a thorny deciduous shrub reaching 3–8 meters in height with a dense, rounded crown. The bark is greyish-brown and fissured on older stems.
-
-Leaves are alternate, deeply 3–7 lobed, 2–6 cm long, with serrate margins and a glossy dark green upper surface. The lobes are irregularly toothed and more deeply incised than those of *C. monogyna*.
-
-Flowers are arranged in dense corymbs of 5–12, each 10–15 mm across with five white petals, pinkish anthers, and typically two styles (hence "oxyacantha" — sharp, two-styled). Flowering occurs from April to June.
-
-Fruits are ovoid to subglobose pomes (haws), 8–12 mm long, ripening from green to deep red in September–October. Each fruit typically contains 1–2 pyrenes.
-
-The distinction between *C. oxyacantha*, *C. monogyna*, and *C. laevigata* has long been problematic in European botanical literature. Many modern floras subsume *C. oxyacantha* under *C. monogyna* Jacq.
-
-## Distribution and Habitat
-
-The species is native to Europe from the British Isles east to Poland and the Balkans, south to the Mediterranean, and extending to northwest Africa (Morocco, Algeria) and western Asia (Turkey, Iran).
-
-It thrives in a wide range of habitats including hedgerows, woodland margins, scrubland, pastures, and rocky slopes. It tolerates both calcareous and acidic soils and grows at elevations from sea level to approximately 1,500 meters.
-
-*C. oxyacantha* is hardy to USDA Zone 4 (−34 °C) and prefers full sun to partial shade. It is drought-tolerant once established and withstands strong winds, making it a common component of windbreak plantings and agricultural hedgerows.
-
-The plant has been widely naturalized outside its native range, particularly in [[polypore-fungi-eastern-north-america]] America, New Zealand, and temperate [[guzman-psilocybin-mushrooms-south-america]]. It is considered an invasive species in parts of the [[psilocybin-north-america-pacific-northwest]] of the [[dmt-containing-plants-united-states-halpern]].
-
-In its native range, *C. oxyacantha* is one of the most characteristic components of traditional agricultural hedgerows, often planted alongside *[[prunus-spinosa]]* (blackthorn), *Crataegus monogyna*, and various *Rosa* species. These mixed hedges serve as livestock barriers, [[permaculture-designers-manual-wildlife-corridors]], and sources of wild-harvested fruits.
-
-## Bioactive Compounds and Pharmacology
-
-The pharmacological activity of *C. oxyacantha* is attributed primarily to flavonoids, oligomeric procyanidins (OPCs), and triterpenic acids.
-
-**Key flavonoids** include hyperoside (quercetin-3-O-galactoside), vitexin, vitexin-2″-O-rhamnoside, rutin, and orientin. These compounds are concentrated in the leaves and flowers.
-
-**Oligomeric procyanidins** (epicatechin oligomers) are the primary active constituents of the fruit and contribute to the plant's cardioprotective effects. Standardized extracts typically contain 1.8–2.2% flavonoids and 16–20% OPCs.
-
-**Triterpenic acids** including oleanolic acid, ursolic acid, and crataegolic acid are present in the leaves and contribute to anti-inflammatory activity.
-
-[[blesching-cannabis-hypertension-cardiovascular-effects]] include positive inotropic action (increased myocardial contractility), coronary vasodilation, and mild ACE-inhibitory activity. [[mushroom-cancer-clinical-trials-overview]] have demonstrated reductions in blood pressure and improvements in exercise tolerance in patients with NYHA class II heart failure.
+  - USDA NRCS. "[[polypore-fungi-eastern-north-america]] America, New Zealand, and temperate [[psilocybin-north-america-pacific-northwest]] of the [[prunus-spinosa]]* (blackthorn), *Crataegus monogyna*, and various *Rosa* species. These mixed hedges serve as livestock barriers, [[blesching-cannabis-hypertension-cardiovascular-effects]] include positive inotropic action (increased myocardial contractility), coronary vasodilation, and mild ACE-inhibitory activity. [[mushroom-cancer-clinical-trials-overview]] have demonstrated reductions in blood pressure and improvements in exercise tolerance in patients with NYHA class II heart failure.
 
 The European Medicines Agency recognizes hawthorn leaf and flower extracts as a "well-established use" herbal medicine for mild heart failure (HMPC monograph, 2016). Typical therapeutic doses range from 160–900 mg of standardized extract daily.
 
@@ -88,3 +36,86 @@ Hawthorn leaf and flower extracts are commercially available as standardized tin
 The flowers are an important nectar source for pollinators in early summer, attracting bees, hoverflies, and butterflies during a period when few other woody plants are in bloom. Pollen analysis confirms *Crataegus* is among the top 10 genera visited by honeybees in European agricultural landscapes.
 
 The fruits are consumed by over 30 species of birds, including blackbirds (*Turdus merula*), fieldfares (*Turdus pilaris*), and redwings (*Turdus iliacus*). Mammals including foxes, badgers, and small rodents also disperse haws, contributing to the species' natural regeneration and spread.
+
+## Overview
+
+Crataegus Oxyacantha represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish crataegus oxyacantha
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving crataegus extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Crataegus Oxyacantha finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for crataegus oxyacantha. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+crataegus oxyacantha and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Crataegus Oxyacantha has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of crataegus oxyacantha into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[crataegus-laevigata]]
+- [[crataegus-monogyna]]
+- [[crataegus-pinnatifida]]

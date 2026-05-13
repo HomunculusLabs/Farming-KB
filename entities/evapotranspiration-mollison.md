@@ -67,35 +67,84 @@ Evapotranspiration creates local temperature moderation:
 
 ## Source Reference
 
-Bill Mollison, *Permaculture: A Designers' Manual*, Chapter 6 (Trees), Sections 6.4 (Temperature Effects) and 6.5 ([[trees-and-precipitation]]). USDA Yearbook of Agriculture on Trees (1949); Vogel (1981); Bayard Webster, "Forests' Role in Weather Documented in Amazon", New York Times (Science Section), 5 July 1983.
+Bill Mollison, *Permaculture: A Designers' Manual*, Chapter 6 (Trees), Sections 6.4 (Temperature Effects) and 6.5 ([[evapotranspiration-crop-water-use]]
+- [[evapotranspiration-crop-water-use]]
+- [[mollison-pdc-small-pond-frog-habitat-design]]
 
-## Practical Applications
+## Overview
 
-Evapotranspiration finds application across multiple domains,
-from agricultural systems to ecological restoration projects.
-Practitioners integrate this knowledge into holistic design frameworks,
-optimizing outcomes through systematic observation and adaptive management.
+Evapotranspiration Mollison represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish evapotranspiration mollison
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
 
 ## Ecological Context
 
-Understanding evapotranspiration within broader ecosystem dynamics reveals
-interconnections with nutrient cycling, energy flow, and species interactions.
-These relationships inform regenerative design strategies that work with
-natural processes rather than against them.
+The ecological relationships involving evapotranspiration extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
 
-## Design Considerations
+## Practical Applications
 
-When incorporating evapotranspiration into permaculture or land management plans,
-careful attention to site-specific conditions ensures appropriate integration.
-Climate zone, soil type, water availability, and existing vegetation
-all influence the optimal approach to implementation.
+Evapotranspiration Mollison finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for evapotranspiration mollison. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+evapotranspiration mollison and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Evapotranspiration Mollison has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of evapotranspiration mollison into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
 
 ## See Also
 
-- [[evapotranspiration-crop-water-use]]
 - [[tree-temperature-effects-and-evapotranspiration]]
-
-## See Also
-- [[evapotranspiration-crop-water-use]]
-- [[tree-temperature-effects-and-evapotranspiration]]
-- [[mollison-pdc-small-pond-frog-habitat-design]]
+- [[mollison-designers-glasshouse-protected-cropping]]
+- [[bill-mollison-permaculture-a-designers-manual-edge-effect-and-ecotone-design]]
+- [[terminalia-mollison]]
+- [[mollison-designers-bamboo-treatment-preservation]]

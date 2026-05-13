@@ -12,31 +12,9 @@ related_concepts:
 
 # Hempcrete and Hemp-Lime Construction
 
-Hempcrete is a biocomposite [[fungal-building-material-deterioration]] made from the woody inner core
-of the hemp plant (hurd or shiv) mixed with a lime-based binder and water.
-Unlike concrete, hempcrete is not used as a structural material in load-bearing
-applications but serves as an insulation and infill material around a timber
-frame or other structural system. The material has attracted significant
-interest in the sustainable building movement because it sequesters carbon
-dioxide during the growth of the hemp plant and locks it away for the lifetime
-of the building. Hempcrete walls offer excellent thermal insulation, effective
-moisture regulation, and a high degree of vapor permeability that creates
-healthy indoor environments.
-
-The term "hempcrete" is a colloquial name; the material is more precisely
-called "hemp-lime" in technical standards and academic literature. It should
-not be confused with hemp-based plastics or hemp fiber-reinforced concrete,
-which are entirely different materials. Hempcrete contains no Portland cement
-in its traditional formulation, relying instead on lime binders that
-carbonate over time, gradually absorbing additional carbon dioxide from the
-atmosphere. This dual [[mycorrhizal-fungi-soil-carbon-sequestration-by-type]] — biological during hemp growth
+Hempcrete is a biocomposite [[mycorrhizal-fungi-soil-carbon-sequestration-by-type]] — biological during hemp growth
 and mineralogical during lime carbonation — makes hempcrete one of the few
-[[natural-building-materials-guide]] that can genuinely claim to be carbon-negative over its
-lifecycle.
-
-## Hemp Cultivation and Fiber Processing
-
-Industrial hemp ([[comparison-cannabis-sativa-vs-cannabis-indica]] L.) is a variety of cannabis cultivated
+[[comparison-cannabis-sativa-vs-cannabis-indica]] L.) is a variety of cannabis cultivated
 specifically for fiber, seed, and hurd production. Unlike drug varieties,
 industrial hemp contains less than 0.3% THC by dry weight and is legally
 distinguished from marijuana in most jurisdictions. The plant grows rapidly,
@@ -113,17 +91,8 @@ industrial hemp nationally and accelerated adoption.
 International standards have followed the material's growing use. In 2018,
 the European Committee for Standardization published technical specifications
 for hemp-lime as a building material (EN 16872 and related standards). These
-standards cover material properties, [[soil-testing-methods-interpretation]], and design guidance,
-providing architects and engineers with the technical basis for specifying
-hempcrete in regulated construction. Building codes in the US and other
-countries are gradually incorporating hempcrete, often through alternative
-materials provisions or specific code amendments.
-## See Also
-
-- [[natural-building-techniques]]
-- [[wattle-and-daub-construction]]
+standards cover material properties, [[natural-building-techniques]]
 - [[comparison-cob-vs-hempcrete]]
-- [[comparison-hempcrete-vs-straw-bale-construction]]
 - [[comparison-light-straw-clay-vs-hempcrete]]
 
 ## References

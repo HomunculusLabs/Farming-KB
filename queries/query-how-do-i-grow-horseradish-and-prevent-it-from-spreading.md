@@ -13,19 +13,7 @@ type: query
 
 ## Short Answer
 
-Horseradish (*[[cover-crops]] like buckwheat or daikon radish to outcompete any remaining horseradish sprouts and weaken residual roots.
-
-## Quick Reference: Step-by-Step Containment Planting Guide
-
-The following checklist summarizes the complete process from setup through ongoing maintenance. Print this section and keep it with your garden journal for reference each season.
-
-1. **Choose your containment method:** Buried pot or bottomless bucket for most gardeners.
-2. **Select a site:** Full sun, well-drained soil, away from other prized perennials.
-3. **Prepare the container:** Cut bucket bottom if needed; drill drainage holes in solid pots.
-4. **Install the container:** Bury 12–18 inches deep with rim 1–2 inches above soil level.
-5. **Fill with quality soil:** Sandy loam mixed with compost; avoid heavy clay.
-6. **Plant root sets:** 4–6 inches deep at a 45-degree angle, flat end up.
-7. **Water in well:** Keep soil consistently moist through the [[savory-growing-season-and-non-growing-season-management]].
+Horseradish (*[[savory-growing-season-and-non-growing-season-management]].
 8. **Monitor the rim:** Check monthly for roots attempting to escape over the top.
 9. **Harvest in fall:** Dig up the entire root mass after first frost for peak flavor.
 10. **Replant selectively:** Return only a single clean root piece to the container.
@@ -36,7 +24,6 @@ The following checklist summarizes the complete process from setup through ongoi
 
 These wiki pages provide additional context for horseradish growers:
 
-- [[query-what-is-companion-planting-and-how-does-it-work]] — How horseradish fits into polyculture systems and which plants benefit from (or tolerate) its presence.
 - [[query-how-to-transition-from-conventional-to-no-till-farming]] — Managing aggressive perennials like horseradish in no-till systems without resorting to disruptive cultivation.
 ## Practical Considerations
 

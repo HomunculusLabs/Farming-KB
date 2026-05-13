@@ -94,7 +94,7 @@ Within the family of African landrace sativas, Swazi occupies a distinctive
 niche. Compared to the legendary Malawi Gold, Swazi finishes earlier and
 behaves more predictably at higher latitudes. Against the Congolese landraces,
 Swazi offers a more manageable plant height and more consistent flowering. The
-famous Durban Poison, perhaps the most commercially successful African sativa,
+famous [[durban-poison]], perhaps the most commercially successful African sativa,
 was selectively bred over many generations for accelerated flowering; Swazi
 achieves a similar early finish through natural adaptation rather than directed
 breeding, retaining more of its original genetic character.
@@ -121,8 +121,6 @@ landraces like Swazi become both rarer and more valuable. Growing and
 documenting these strains ensures their genetic legacy endures.
 
 ## See Also
-- [[cannabis-strain-hawaiian-wave-tropical-sativa-landrace-oner]]
 - [[cannabis-strain-south-indian-landrace-autofem-oner]]
-- [[cannabis-strain-king-congo-african-sativa]]
 - [[cannabis-strain-colombian-gold-landrace-sativa]]
 - [[african-landrace-sativa-genetic-contributions-modern-breeding-oner]]

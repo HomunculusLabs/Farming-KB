@@ -40,83 +40,105 @@ Total: 183 species across 13 genera.
 
 ### Group 2: Ibotenic Acid Species
 
-Three Amanita species containing ibotenic acid: [[allegro-amanita-muscaria-properties-and-pharmacology]] (fly
-agaric), amanita pantherina, and Amanita regalis. These are the famous
-sacred fungi of Siberian shamanism, used by the Chukchee and Koryak
-peoples of Russia. Amanita muscaria grows in mycorrhizal association
-with Pinus and Betula in forests of the northern hemisphere.
-
-### Group 3: Ergot Fungi
-
-Seven species producing well-known ergot alkaloids: five species of
-Claviceps (C. purpurea, C. nigricans, C. paspali, C. rolfesii, C.
-tripsicii) and two species of Cordyceps (C. capitata and C.
-ophioglossoides). The Cordyceps species are used in Mexico in special
-nocturnal ceremonies, sometimes eaten together with [[psilocybe-aztecorum-entity-the-mushroom-cultivator]], for
+Three Amanita species containing ibotenic acid: [[psilocybe-aztecorum-entity-the-mushroom-cultivator]], for
 example, grows in the high mountains of Mexico at 4,000 meters.
 
 ### Gaps in Knowledge
 
 Significant gaps remain in the geographic record. No records exist from
 southeastern Russia, Mongolia, Arabia, or Turkey. Many regions of Africa
-are poorly documented. Even in the [[dmt-containing-plants-united-states-halpern]], several states have no
-records of neurotropic Psilocybe species. There are no records of
-Psilocybe from Korea, Malaysia (except Java and Sumatra), or Hawaii. As
-Gartz observed: "The mushrooms occur in abundance wherever mycologists
-abound."
-
-## Historical Periods of Study
-
-The history of neurotropic fungi research can be divided into five
-periods:
-
-1. Ancient use by indigenous peoples in [[psilocybin-north-america-pacific-northwest]], Mesoamerica,
+are poorly documented. Even in the [[psilocybin-north-america-pacific-northwest]], Mesoamerica,
    Siberia, and New Guinea.
 2. Early uncertain or erroneous studies in the beginning of the 20th
    century.
 3. Scientific investigations beginning with Wasson's studies in the
    1950s.
-4. Recreational drug use era in the 1960s, leading to [[emcdda-hallucinogenic-mushroom-legal-prohibition-impact-uk-netherlands]]
-   in many countries.
-5. Current period of recapitulation — new species descriptions and
-   improved chemical analysis.
+4. Recreational drug use era in the 1960s, leading to [[ethnobotanical-use-of-neurotropic-fungi-in-mexico]]
+- [[distribution-of-neurotropic-fungi]]
+- [[amanita-pantherina]]
+- [[psilocybin]]
 
-## See Also
+## Overview
 
-- [[ethnobotanical-use-of-neurotropic-fungi-in-mexico]]
-- [[mckenna-stoned-ape-hypothesis]]
+Global Distribution Of Neurotropic Fungi represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish global distribution of neurotropic fungi
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving global extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
 
 ## Practical Applications
 
-The principles and techniques discussed here have wide-ranging applications
-across multiple disciplines and contexts. Practitioners and researchers
-continue to explore new ways to integrate these concepts into modern practice,
-adapting traditional knowledge to contemporary challenges and opportunities.
+Global Distribution Of Neurotropic Fungi finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
 
-## Key Considerations
+## Management and Implementation
 
-Several important factors influence the effectiveness and outcomes described
-in this topic. Understanding these considerations helps practitioners make
-informed decisions and avoid common pitfalls. Environmental conditions,
-timing, and material selection all play critical roles.
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for global distribution of neurotropic fungi. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+global distribution of neurotropic fungi and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
 
 ## Historical Context
 
-The historical development of this subject reflects centuries of accumulated
-knowledge and practical experience. From traditional methods passed down
-through generations to modern scientific approaches, the evolution continues
-to inform current best practices and research directions.
+Global Distribution Of Neurotropic Fungi has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
 
-## Common Challenges
+## Integration Strategies
 
-Practitioners frequently encounter several challenges when working with
-these concepts. Climate variability, resource limitations, and knowledge
-gaps can all affect outcomes. Addressing these challenges requires patience,
-observation, and a willingness to adapt approaches based on results.
+Successful integration of global distribution of neurotropic fungi into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
 
 ## See Also
-- [[distribution-of-neurotropic-fungi]]
-- [[neurotropic-fungi]]
-- [[amanita-pantherina]]
-- [[doc]]
-- [[psilocybin]]
+
+- [[chos-global-natural-farming-input-reduction-methods]]
+- [[fukuoka-natural-farming-global-influence]]
+- [[fungal-decomposition]]
+- [[pf-tek-global-spread-and-cultural-impact]]
+- [[psilocybin-decriminalization-global]]

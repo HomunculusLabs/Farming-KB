@@ -23,7 +23,7 @@ The very first rule is to adopt good cultivation practices.
 Feeding the soil instead of the plant produces stronger
 growth that is less attractive to pests and better able to
 cope with attacks. Keep the garden clean and neat. Never
-leave plant debris around; put waste on the compost heap
+leave plant debris around; put waste on the [[compost]] heap
 immediately. Use only clean, sterilized pots and seed trays.
 
 ## Daily Vigilance
@@ -40,21 +40,7 @@ aphids can often be removed by simply squashing them.
 Ensure plants are healthy when purchased. Reject anything
 showing signs of disease, pest attack, or physical damage.
 Examine bulbs, corms, and tubers closely; they should be
-firm with intact skins. Some diseases like [[bloomfield-potato-blight-phytophthora-infestans]]
-and clubroot can be brought in on infected plant material.
-
-## Common Garden Pests and Controls
-
-### Caterpillars
-Larvae of moths and butterflies that strip foliage,
-especially from brassicas. Remove egg clusters and pick off
-caterpillars by hand. Birds are natural predators.
-
-### Slugs
-Small brown or black slugs live underground and surface
-in midsummer. Go out at night with a flashlight and drop
-them in paraffin. Surround vulnerable plants with lime,
-soot, or wood ash. [[fukuoka-pine-bark-weevil-ecology]] mulch is also effective.
+firm with intact skins. Some diseases like [[fukuoka-pine-bark-weevil-ecology]] mulch is also effective.
 Surround seedlings with cut plastic bottles for protection.
 
 ### Aphids (Greenfly and Blackfly)
@@ -82,6 +68,82 @@ Tiny beetles that make shot holes in seedling leaves,
 especially brassicas. Control with a grease-coated board
 passed along the row; the beetles jump up and stick.
 
-## [[composting-organic-garden]]
-- [[green-manures-organic-gardening]]
+## [[green-manures-organic-gardening]]
 - [[mulching-organic-garden]]
+
+## Overview
+
+Organic Pest Disease Control represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish organic pest disease control
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving organic extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Organic Pest Disease Control finds practical application in multiple design contexts.
+[[permaculture-principles]] guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for organic pest disease control. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+organic pest disease control and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Organic Pest Disease Control has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of organic pest disease control into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.

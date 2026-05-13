@@ -11,13 +11,7 @@ type: concept
 
 ## Overview
 
-Salt affected land is an increasing problem in many agricultural regions. By maintaining a cover on salt affected land, the farmer can: reduce evaporation from the soil (by shading from sun and offering [[cervantes-wind-protection-outdoor-cannabis]]), reduce soil erosion from otherwise bared earth, and increase transpiration to lower the water table.
-
-It is common practice in saline, waterlogged conditions to plant into mounds 200-300 mm above normal ground level. Such mounds can be fairly quickly created by use of a grader blade on a tractor. The mounds should, where possible, follow contours.
-
-Salt affected land should be fenced from stock. As useful fodder species become established, stock can be periodically turned onto these areas.
-
-See also [[permaculture-difficult-sites-plant-guide]] for complementary information.
+Salt affected land is an increasing problem in many agricultural regions. By maintaining a cover on salt affected land, the farmer can: reduce evaporation from the soil (by shading from sun and offering [[permaculture-difficult-sites-plant-guide]] for complementary information.
 
 ## Grasses
 
@@ -43,25 +37,7 @@ No treatment of grasses for pasture would be complete without accompanying legum
 
 **Trifolium fragiferum** (Strawberry Clover) -- Native to north Africa, in areas with rainfall over 300 mm. A creeping perennial adapted to heavy, poorly drained soils, often fairly saline and alkaline. Summer dormant and capable of withstanding long periods of total drought. Very salt tolerant.
 
-**Hedysarum carnosum** (Fleshy Sulla) -- A biennial native to Libya, Tunisia and Algeria with rainfalls from 100-350 mm. Occurs on medium to fine-textured saline and alkaline soils. [[fungal-salt-tolerance-and-ion-homeostasis]] is high, with irrigation from waters having 8000-10000 ppm salt giving fair yields. Palatability to stock is high.
-
-**Hedysarum coronarium** (Sulla) -- A biennial native of north Africa and southern Italy. Requires deep, fine-textured calcareous soils. Fairly resistant to water stress, very sensitive to waterlogging, mild to fair resistance to salt. Minimum rainfall 350 mm. Yields of over 20 tonnes dry matter/ha/year possible. Potential as nectar producer for bee forage.
-
-## Shrubs
-
-### Saltbush (Atriplex spp)
-
-These plants concentrate salt onto the surface of their leaves and could be used for removing salt from the soil. Yields of over 10 tonnes/ha/year possible for some species. Better growth rates in non-saline soils.
-
-**Atriplex versicaria** (Bladder Saltbush) -- Perennial shrub to 60-70 cm, adaptable to wide range of soil types. Crude protein 11.1-18.4%, digestibility 58%.
-
-**Atriplex nummularia** (Old Man Saltbush) -- Perennial shrub to 3 m, found in arid regions of all mainland states. High nutritive value and digestibility. Crude protein 17.0-21.9%, digestibility 68-74%.
-
-**Atriplex rhagodioides** (Riversaltbush) -- Spreading bush to 1 m, attaining widths up to 4 m. Drought and frost hardy, preferring light soils.
-
-**Atriplex undulata** (Wavy Leaf Saltbush) -- Native to Argentina, grows to 0.5 m tall and 2-3 m wide. Provides 900 sheep grazing days per hectare in a 350 mm rainfall area.
-
-**Atriplex canescens** (Four Winged Saltbush) -- Endemic to [[psilocybin-north-america-pacific-northwest]], grows to 1-3 m on dunes in central Utah. High growth rate. Nutrition 18-20% protein, digestibility 63.5%, with low toxicity even at increasing salinity.
+**Hedysarum carnosum** (Fleshy Sulla) -- A biennial native to Libya, Tunisia and Algeria with rainfalls from 100-350 mm. Occurs on medium to fine-textured saline and alkaline soils. [[psilocybin-north-america-pacific-northwest]], grows to 1-3 m on dunes in central Utah. High growth rate. Nutrition 18-20% protein, digestibility 63.5%, with low toxicity even at increasing salinity.
 
 ### Bluebush (Maireana spp)
 
@@ -88,3 +64,87 @@ Native to waterlogged saltlands of Western Australia. Important for the most sev
 **Acacia spp** -- Numerous wattle species tolerate saline conditions including A. ampliceps, A. cyclops, A. ligulata, A. salicina, A. saligna, A. stenophylla, and A. pendula.
 
 **Eucalyptus spp** -- E. sargentii, E. occidentalis, E. spathulata, E. platypus, and others tolerate saline conditions.
+
+## Overview
+
+Permaculture Salt Tolerant Fodder Plants represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish permaculture salt tolerant fodder plants
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving permaculture extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Permaculture Salt Tolerant Fodder Plants finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for permaculture salt tolerant fodder plants. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+permaculture salt tolerant fodder plants and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Permaculture Salt Tolerant Fodder Plants has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of permaculture salt tolerant fodder plants into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[eucalyptus-permaculture]]
+- [[holzer-thailand-permaculture-project]]
+- [[mollison-permaculture-design-course-curriculum]]
+- [[permaculture-designers-manual-sacred-groves]]

@@ -35,10 +35,7 @@ the connection between Woronin bodies and septal-pore plugging.
 
 ## Function: Emergency Septal Pore Sealing
 
-In *[[penicillium-chrysogenum]]*, Woronin bodies rapidly plugged 90% of
-septal pores within the vicinity of induced damage, compared to only
-5% in undamaged hyphae. A similar response was observed in
-*[[neurospora-crassa]]*, which produces unusually large, hexagonal
+In *[[neurospora-crassa]]*, which produces unusually large, hexagonal
 Woronin bodies. This demonstrated that Woronin bodies actively move
 to septal pores adjacent to damage sites, functioning as a cellular
 integrity defense system.
@@ -54,40 +51,7 @@ proteinaceous matrix circumscribed by a single membrane. Diameter
 varies between 100 nm and greater than 1 micrometer, generally
 exceeding septal pore diameter. In most Euascomycetes the Woronin
 body is oval; some species (including *Neurospora crassa*) display
-hexagonal forms. Studies in *[[fusarium-oxysporum]]* showed an early
-hexagonal form maturing into an oval form, suggesting shared
-structural cores.
-
-## HEX-1: The Key Structural Protein
-
-Woronin bodies were purified from *Neurospora crassa* in independent
-experiments by Jedd and Chua (2000) and Tenney et al. (2000),
-leading to identification of HEX-1, a Euascomycete-specific
-protein that defines the Woronin body core.
-
-Key findings about HEX-1:
-- Antibodies to HEX-1 decorate the Woronin body matrix in multiple
-  species (*N. crassa*, *A. nidulans*, *M. grisea*)
-- HEX-1 exists as an extremely large and stable protein complex
-- The *hex-1* gene encodes a peroxisome-targeting signal (PTS-1)
-- Expression in yeast generates intraperoxisomal assemblies
-  morphologically similar to native Woronin bodies
-- Recombinant HEX-1 spontaneously crystallizes in vitro, confirming
-  it is a self-assembling structural protein
-
-## Woronin Bodies Are Specialized Peroxisomes
-
-A *Neurospora hex-1* mutant is devoid of visible Woronin bodies,
-and mutant hyphae bleed protoplasm through septal pores following
-cellular damage. This established that Woronin bodies are
-specialized peroxisomes functioning in cellular integrity
-maintenance. HEX-1 mutants in other Euascomycetes (*Magnaporthe
-grisea*, *A. oryzae*, *A. nidulans*) are all defective in septal-
-pore sealing, confirming conserved function across the group.
-
-## Crystal Lattice Structure
-
-The HEX-1 [[crystal-structure-and-crystal-defects]] was solved at 1.8 Angstrom resolution,
+hexagonal forms. Studies in *[[crystal-structure-and-crystal-defects]] was solved at 1.8 Angstrom resolution,
 
 ## Practical Applications
 
@@ -118,8 +82,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[woronin-bodies-septal-pore-plugging-euascomycetes-jedd]]
 - [[soma]]
-- [[neurospora-crassa]]
 - [[woronin-bodies-septal-pore-plugging-fungal-hypha]]
 - [[fungi-environment-woronin-bodies-septal-pore-plugging-euascomycetes]]

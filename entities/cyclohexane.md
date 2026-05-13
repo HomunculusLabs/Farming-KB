@@ -8,24 +8,7 @@ type: entity
 
 ## Description
 
-Cyclohexane is a cycloalkane with the molecular formula C6H12. It is a colorless, flammable liquid with a mild, sweet odor, widely used as a non-polar organic solvent in [[psilocin-chemical-synthesis]] and extraction. In the context of cannabis chemistry, cyclohexane was employed as the reaction solvent for the acid-catalyzed isomerization of cannabidiol (CBD) to tetrahydrocannabinol (THC), specifically in the procedure published by Roger Adams in the Journal of the American Chemical Society (vol. 63, p. 2211).
-
-## Classification
-
-- **Category**: Chemical solvent
-- **Chemical type**: Cycloalkane (C6H12)
-- **Boiling point**: 81 degrees C
-- **Density**: 0.7791 g/ml
-- **Water solubility**: Immiscible (i)
-- **Flash point**: -20 degrees C / -4 degrees F
-
-## Key Facts
-
-- Used as the reaction solvent for CBD-to-THC isomerization in the Adams procedure: one drop of 100% sulfuric acid was added to crystalline cannabidiol dissolved in cyclohexane (1.94 gm CBD in 35 cc cyclohexane), and the mixture was refluxed for one hour.
-- After the isomerization reaction, the solution was decanted from the sulfuric acid, washed twice with 5% aqueous bicarbonate solution and twice with water, then evaporated.
-- The residue was distilled under reduced pressure to yield pure THC with an optical rotation range of 259 to 269 degrees.
-- Cyclohexane has a relatively low boiling point (81 degrees C), making it suitable for reflux conditions at moderate temperatures without excessive thermal degradation of sensitive cannabinoids.
-- NFPA hazard rating: Health 1 (slight), Fire 3 (severe [[flammability-hazard-alcohol-lysol-flame-sterilization-mycology]]), Reactivity 0 (none).
+Cyclohexane is a cycloalkane with the molecular formula C6H12. It is a colorless, flammable liquid with a mild, sweet odor, widely used as a non-polar organic solvent in [[flammability-hazard-alcohol-lysol-flame-sterilization-mycology]]), Reactivity 0 (none).
 - The solvent is completely non-polar, making it an excellent solvent for cannabinoids and other lipophilic compounds while excluding water-soluble impurities.
 - Cyclohexane is completely insoluble in water, facilitating clean phase separations during aqueous workup.
 
@@ -39,7 +22,7 @@ In the Adams isomerization procedure, cyclohexane serves multiple functions:
 
 1. **Solvent**: Dissolves crystalline cannabidiol to enable the acid-catalyzed rearrangement.
 2. **Reaction medium**: Provides a non-polar environment favorable for the cyclization of CBD to THC.
-3. **[[heat-transfer-coefficient]]**: Reflux conditions (81 degrees C) provide consistent [[hamilton-greenhouse-heating-and-temperature-control]].
+3. **[[hamilton-greenhouse-heating-and-temperature-control]].
 4. **Phase separation**: After reaction, cyclohexane can be easily separated from the denser sulfuric acid catalyst.
 5. **Volatility**: Low boiling point allows easy removal by evaporation or distillation after the reaction is complete.
 
@@ -55,7 +38,7 @@ In the Adams isomerization procedure, cyclohexane serves multiple functions:
 
 ## Comparison with Other Solvents
 
-In the [[lemon-cannabis-alchemy-solvent-properties-and-selection-guide]] table from [[cannabis-alchemy-book]], cyclohexane falls between benzene (b.p. 80.1 degrees C, more toxic with NFPA Health 2) and the higher-boiling solvents. Its fire hazard rating (NFPA 3) is the same as benzene and most low-boiling hydrocarbons. Unlike chlorinated solvents such as chloroform, cyclohexane does not promote THC decomposition during storage, making it a better choice for procedures where the product will remain in solution for extended periods. The solvent table explicitly warns that chloroform solutions can lose 25-35% of their THC content within 30 minutes in sunlight.
+In the [[cannabis-alchemy-book]], cyclohexane falls between benzene (b.p. 80.1 degrees C, more toxic with NFPA Health 2) and the higher-boiling solvents. Its fire hazard rating (NFPA 3) is the same as benzene and most low-boiling hydrocarbons. Unlike chlorinated solvents such as chloroform, cyclohexane does not promote THC decomposition during storage, making it a better choice for procedures where the product will remain in solution for extended periods. The solvent table explicitly warns that chloroform solutions can lose 25-35% of their THC content within 30 minutes in sunlight.
 
 ## Research Directions
 
@@ -70,22 +53,90 @@ This subject has relevance across multiple disciplines and applications. Underst
 Implementation spans agricultural, ecological, and cultural contexts. The methodology draws on both traditional knowledge and modern scientific understanding.
 
 ## See Also
-- [[surface-sterilization-methods-comparison-complex-geometries-thermal-chemical-residue]]
 - [[flammability-hazard-alcohol-lysol-flame-sterilization-mycology]]
-- [[lemon-cannabis-alchemy-solvent-properties-and-selection-guide]]
 - [[lemon-cannabis-alchemy-high-volume-extraction-method]]
-- [[comparison-cannabis-ice-water-extraction-vs-hashish-guide]]
-
-## See Also
 - [[lemon-cannabis-alchemy-solvent-properties-and-selection-guide]]
-- [[flammability-hazard-alcohol-lysol-flame-sterilization-mycology]]
 - [[surface-sterilization-methods-comparison-complex-geometries-thermal-chemical-residue]]
-- [[hamilton-greenhouse-heating-and-temperature-control]]
 - [[lemon-cannabis-alchemy-high-volume-extraction-method]]
 
 ## See Also
-- [[roger-adams]]
 - [[mycology]]
-- [[isomerizer]]
 - [[thc-isomerization]]
 - [[isopropyl-alcohol]]
+
+## Overview
+
+Cyclohexane represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish cyclohexane
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving cyclohexane extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Cyclohexane finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for cyclohexane. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+cyclohexane and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Cyclohexane has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of cyclohexane into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.

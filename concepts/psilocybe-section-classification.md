@@ -9,7 +9,7 @@ sources:
 ---
 # Psilocybe Section Classification
 
-The genus neurotropic-fungi-world-checklist
+The genus [[neurotropic-fungi]]-world-checklist
 with 116 species recognized by Guzman, Allen & Gartz (1998), is divided into several taxonomic
 sections based on morphological and chemical characteristics. These sections are important for
 understanding both taxonomy and biogeographic patterns.
@@ -23,9 +23,7 @@ and related indole compounds (psilocin, baeocystin, norbaeocystin):
 - Named for the Aztec civilization of Mexico
 - Alpine and subalpine habitat specialists
 - Key species: P. aztecorum var. aztecorum, P. aztecorum var. bonetii, P. baeocystis, P. quebecensis
-- Distribution: Mexican high mountains (up to 4,000 m), Pacific Northwest of [[psilocybin-north-america-pacific-northwest]] (Oregon,
-  Washington, British Columbia), Quebec, Canada
-- Shows a remarkable disjunct distribution between Mexican alpine species and [[growing-gourmet-north-american-reishi-species]]
+- Distribution: Mexican high mountains (up to 4,000 m), [[psilocybin-north-america-pacific-northwest]] of [[growing-gourmet-north-american-reishi-species]]
   temperate species
 
 ### Section Mexicanae
@@ -39,20 +37,7 @@ and related indole compounds (psilocin, baeocystin, norbaeocystin):
 ### Section Zapotecorum
 - Named for the Zapotec people of Oaxaca, Mexico
 - One of the most widespread sections
-- Key species: P. zapotecorum (Mexico, [[guzman-allen-gartz-neurotropic-fungi-central-america-caribbean]], South America), P. aucklandii (New Zealand),
-  P. pintonii (Mexico/Colombia), P. angustipleurocystidiata (Mexico/Colombia)
-- Distribution: Mexico through South America to New Zealand
-- Another section showing trans-Pacific biogeographic connections
-
-### Section Cubensies
-- Tropical and subtropical dung-inhabiting species
-- Key species: P. cubensis (cosmopolitan in tropics), P. subcubensis
-- Distribution: Pantropical; P. cubensis is the most widely distributed neurotropic Psilocybe
-- These species grow on bovine dung and may have been dispersed globally with cattle
-
-### Section Semilanceatae
-- Temperate grassland species
-- Key species: P. semilanceata ([[peter-mantle-liberty-cap-chromatographic-discovery-1969]])
+- Key species: P. zapotecorum (Mexico, [[peter-mantle-liberty-cap-chromatographic-discovery-1969]])
 - Distribution: Europe, North America, South America (Chile, Peru), New Zealand, Australia, Tasmania,
   India, Russia
 - One of the most widespread species, but notably absent from Mexico
@@ -72,13 +57,13 @@ and related indole compounds (psilocin, baeocystin, norbaeocystin):
 
 ### Section Stuntzae
 - Named after the Stuntz mycological group
-- Distribution: Pacific Northwest of North America
+- Distribution: Pacific Northwest [[huckleberries-and-wild-berries-of-north-america]]
 
 ## Bluing Reaction
 
 The neurotropic sections are generally characterized by the "bluing reaction" - a distinctive
 blue or blue-black bruising that occurs when the [[comparison-fruiting-body-vs-mycelium-extracts-medicinal-mushrooms]] is damaged. This color change is
-caused by the oxidation of psilocybin and psilocin. The bluing feature is used as a field indicator
+caused by the oxidation of [[hplc-analysis-of-psilocybin-and-psilocin]]. The bluing feature is used as a field indicator
 to identify potentially neurotropic species, though some non-neurotropic species may also show
 bluing, and some confirmed neurotropic species may not blue strongly.
 
@@ -88,3 +73,78 @@ Guzman et al. (1998) specifically excluded several species sometimes erroneously
 hallucinogenic:
 - P. atrobrunnea, P. coprophila, P. pseudobullacea - Lack confirmed indole compounds
 - Psathyrella sepulchralis - Confused with P. zapotecorum; does not contain psilocybin
+
+## Overview
+
+Psilocybe Section Classification represents an important element within sustainable
+design and [[solomon-gardening-aikido-pest-philosophy-ecological-management]] systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish psilocybe section classification
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving psilocybe extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Psilocybe Section Classification finds practical application in multiple design contexts.
+[[mollisonian-permaculture-principles]] guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for psilocybe section classification. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+psilocybe section classification and its applications. Active investigation
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Psilocybe Section Classification has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of psilocybe section classification into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and

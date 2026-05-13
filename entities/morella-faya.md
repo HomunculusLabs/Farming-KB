@@ -20,7 +20,7 @@ sources:
 
 Morella faya, commonly known as faya or the fire tree, is an evergreen shrub or small tree in the family Myricaceae. It is native to the Madeira and Azores archipelagos in the North Atlantic, where it occurs in laurel forest and coastal scrub communities.
 
-The species is of considerable ecological significance due to its capacity for [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]] through root-associated actinorhizal symbiosis with Frankia bacteria. This ability allows it to colonize nitrogen-poor volcanic soils and substantially alter ecosystem [[query-how-does-nitrogen-cycling-work-in-a-permaculture-system]].
+The species is of considerable ecological significance due to its capacity for [[query-how-does-nitrogen-cycling-work-in-a-permaculture-system]].
 
 M. faya has become a problematic invasive species in Hawai'i, where it was introduced in the late 19th century. Its nitrogen-fixing capability has fundamentally transformed nitrogen-limited volcanic ecosystems, facilitating the invasion of additional non-native plant species.
 
@@ -60,7 +60,7 @@ The most ecologically significant feature of M. faya is its nitrogen-fixing root
 
 In native Macaronesian ecosystems, this nitrogen fixation contributes to the productivity of laurisilva forests and facilitates succession on recent lava flows. However, in the nitrogen-limited volcanic soils of Hawai'i, the same trait has triggered ecosystem-level changes that favor invasive species over native Hawaiian plants.
 
-In Hawai'i, M. faya invasion has been shown to increase soil nitrogen availability by 4–10 times compared to uninvaded native forest. This nitrogen enrichment creates favorable conditions for other invasive species, particularly grasses (such as Pennisetum setaceum) that increase wildfire risk.
+In Hawai'i, M. faya invasion has been shown to increase soil nitrogen availability by 4–10 times compared to uninvaded native forest. This nitrogen enrichment creates favorable conditions for other invasive species, particularly grasses (such as [[pennisetum-setaceum]]) that increase wildfire risk.
 
 Birds including the Japanese white-eye (Zosterops japonicus) and native Hawaiian honeycreepers disperse the fruits. The waxy coating on the fruit may enhance passage through avian digestive tracts, facilitating long-distance seed dispersal.
 
@@ -74,11 +74,7 @@ M. faya has limited commercial or horticultural use outside its native range. In
 
 In traditional Madeiran agriculture, M. faya was planted as a windbreak and soil stabilizer on terraced hillsides. Its nitrogen-fixing capability was recognized as beneficial for soil improvement in traditional agricultural systems, though this same trait makes it problematic when introduced to sensitive ecosystems.
 
-The waxy fruit coating has been investigated as a potential source of natural waxes. The coating contains a mixture of fatty acids and esters similar to the bayberry wax obtained from [[growing-gourmet-north-american-reishi-species]] Myrica species, though the quantities produced per plant are relatively small.
-
-Ornamental use is occasional, primarily in botanical collections and native plant gardens in Macaronesia. The species' attractive glossy foliage, dense habit, and wildlife value give it modest landscaping appeal, but its invasive potential precludes recommendation for cultivation outside its native range.
-
-The essential oils extracted from M. faya leaves contain a complex mixture of terpenoids and phenolic compounds. Preliminary phytochemical studies suggest potential antimicrobial and antioxidant activity, though systematic investigation of the species' [[antifungal-secondary-metabolites-coprophilous-fungi]] remains limited compared to other Myricaceae members.
+The waxy fruit coating has been investigated as a potential source of natural waxes. The coating contains a mixture of fatty acids and esters similar to the bayberry wax obtained from [[antifungal-secondary-metabolites-coprophilous-fungi]] remains limited compared to other Myricaceae members.
 
 ## Invasiveness
 

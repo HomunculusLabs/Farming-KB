@@ -12,16 +12,7 @@ sources:
 
 **Updated:** 2026-04-18
 
-Zone and sector analysis is a fundamental [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]] tool for organizing elements in the landscape. Zones organize elements by frequency of human use; sectors map external energies (sun, wind, fire, water) that affect the site. Together they provide the spatial framework for all other design decisions.
-
-## Zone Analysis
-
-Zones are concentric rings of decreasing intensity of use, radiating outward from the center of activity (usually the house). They help place elements where they'll be most efficiently managed.
-
-### Zone 0: The House
-The center of activity. Includes the home itself and immediate indoor living spaces. Design focus: [[fukuoka-textdoc-energy-efficiency-agricultural-labor]], water conservation, indoor [[cervantes-air-quality-ventilation]], food storage, and integration with outdoor systems.
-
-Elements: Kitchen, bedrooms, bathroom, living areas, root cellar, food storage, [[comparison-passive-solar-vs-earth-sheltered]] features, greywater source, rainwater catchment surface.
+[[zone-and-sector-analysis]] is a fundamental [[fukuoka-textdoc-energy-efficiency-agricultural-labor]], water conservation, indoor [[comparison-passive-solar-vs-earth-sheltered]] features, greywater source, rainwater catchment surface.
 
 ### Zone 1: The Intensive Garden
 Visited daily. This is the most intensively managed area, placed immediately outside the kitchen door. Everything here needs frequent attention or harvesting.
@@ -40,12 +31,7 @@ Elements:
 Visited several times per week. Less intensive than Zone 1 but still actively managed. This is the main food production area.
 
 Elements:
-- Main [[fukuoka-dutch-priest-vegetable-garden-spiritual-renewal]]
-- Orchard (dwarf and semi-dwarf fruit trees)
-- Berry patches
-- Larger composting area
-- Pond or water feature
-- [[beneficial-insect-habitat]]
+- Main [[beneficial-insect-habitat]]
 - Chicken forage area
 
 ### Zone 3: The Farm
@@ -88,3 +74,77 @@ Sectors are external energies and influences that affect the site from outside. 
 ### Sun Sector
 - Track the sun's path through the year (winter low angle, summer high angle)
 - Identify sunny and shady areas at different seasons
+
+## Overview
+
+Zone Sector Analysis Guide represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish zone sector analysis guide
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving zone extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Zone Sector Analysis Guide finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for zone sector analysis guide. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+zone sector analysis guide and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Zone Sector Analysis Guide has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of zone sector analysis guide into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource

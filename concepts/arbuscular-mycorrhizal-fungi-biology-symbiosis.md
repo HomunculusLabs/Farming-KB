@@ -20,8 +20,7 @@ structures interfacing with plant cell plasmalemma.
 
 The plant provides carbon to the fungus largely via the arbuscule-plant cell
 plasmalemma interface. The plant also provides a protected site in root cells
-where the fungus can live. In return, external [[fungal-hyphae]] improve
-[[comparison-phosphorus-solubilizing-microorganisms-vs-mycorrhizal-phosphorus-acquisition]] by the plant in low-phosphorus soils.
+where the fungus can live. In return, external [[comparison-phosphorus-solubilizing-microorganisms-vs-mycorrhizal-phosphorus-acquisition]] by the plant in low-phosphorus soils.
 
 ### Pathogenic Potential
 
@@ -31,10 +30,7 @@ reduce plant growth, becoming pathogenic.
 
 ### Initiation
 
-Mycorrhizae are initiated by hyphae from another [[mycorrhizal-root-exudates-pathogen-interactions]] or from
-germinating spores. Colonization spreads within the root cortex via hyphal
-extension and branching, developing vesicles and auxiliary cells containing
-lipids for [[fungal-peat-decomposition-and-carbon-storage]].
+Mycorrhizae are initiated by hyphae from another [[fungal-peat-decomposition-and-carbon-storage]].
 
 ### Host Specificity
 
@@ -48,9 +44,7 @@ of mutualistic coevolution.
 The soil volume around roots constitutes a "mycorrhizosphere" due to the
 dramatic influence of fungal external hyphae on soil microorganisms:
 
-- [[arbuscule-intraradical-hyphae-isolation-mycorrhizal-roots]] have altered root exudation patterns
-- Rhizobium-Bradyrhizobium association with legumes is affected by AM fungi
-  (via increased [[phosphorus-availability]] driving nitrogenase activity)
+- [[phosphorus-availability]] driving nitrogenase activity)
 - Interactions with plant growth-promoting rhizobacteria
 - Effects on both pathogens and beneficial organisms
 
@@ -118,8 +112,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[arbuscular-mycorrhizal-fungi]]
 - [[mycorrhizal-fungi]]
-- [[det]]
 - [[spore]]
 - [[decomposition]]

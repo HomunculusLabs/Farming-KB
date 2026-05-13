@@ -9,7 +9,7 @@ sources: []
 
 # MDMA Reference
 
-[[mdma]] (3,4-methylenedioxymethamphetamine) is an empathogen-entactogen — a compound that produces feelings of emotional openness, empathy, connection, and reduced fear. Originally synthesized in 1912 and rediscovered in the 1970s, MDMA has become one of the most promising substances in modern psychiatric research, particularly for the treatment of post-traumatic stress disorder (PTSD). Unlike classical psychedelics, MDMA's primary mechanism involves serotonin release and reuptake inhibition rather than direct receptor agonism.
+MDMA (3,4-methylenedioxymethamphetamine) is an empathogen-entactogen — a compound that produces feelings of emotional openness, empathy, connection, and reduced fear. Originally synthesized in 1912 and rediscovered in the 1970s, MDMA has become one of the most promising substances in modern psychiatric research, particularly for the treatment of post-traumatic stress disorder (PTSD). Unlike classical psychedelics, MDMA's primary mechanism involves serotonin release and reuptake inhibition rather than direct receptor agonism.
 
 ## Chemistry
 
@@ -35,13 +35,13 @@ MDMA is structurally related to:
 
 - First synthesized in 1912 by Merck chemist Anton Köllisch (patented as an intermediate for blood-clotting compounds)
 - Psychoactive effects not recognized until the 1970s
-- [[alexander-shulgin]] rediscovered MDMA and synthesized it in 1976, sharing it with psychotherapist Leo Zeff
+- Alexander Shulgin rediscovered MDMA and synthesized it in 1976, sharing it with psychotherapist Leo Zeff
 - Zeff introduced MDMA to hundreds of therapists in the late 1970s and early 1980s
 - MDMA was used as an adjunct to psychotherapy before it was scheduled (estimated 1,000+ therapists used it)
 - Gained popularity in recreational settings in the early 1980s
 - Emergency scheduling by the DEA in 1985 despite ongoing legal challenges
 - Made permanently Schedule I in 1986
-- Rick Doblin founded MAPS ([[maps-multidisciplinary-association-for-psychedelic-studies]] Psychedelic Studies) in 1986 to pursue MDMA research
+- Rick Doblin founded MAPS (Multidisciplinary Association for Psychedelic Studies) in 1986 to pursue MDMA research
 - MAPS-sponsored Phase 3 clinical trials for MDMA-assisted therapy for PTSD completed in 2021-2024 with positive results
 - FDA advisory committee review for MDMA-PTSD approval began in 2024
 
@@ -73,7 +73,7 @@ The serotonin release mechanism is the key differentiator. While classical psych
 
 - High-dose or frequent use depletes serotonin stores and may damage serotonergic neurons (animal studies)
 - Relevance to humans is debated; human SERT density can recover with abstinence
-- Hyperthermia is a major risk factor; antioxidants [[hamilton-greenhouse-heating-and-temperature-control]] may help
+- Hyperthermia is a major risk factor; antioxidants and temperature control may help
 - Risk is dose- and frequency-dependent: occasional moderate doses carry much lower risk
 
 ## Dosage
@@ -86,7 +86,7 @@ The serotonin release mechanism is the key differentiator. While classical psych
 - Typical therapeutic dose in clinical trials: 80-120 mg, with optional supplemental half-dose at 1.5-2 hours
 
 Note: street MDMA varies enormously in purity and content. Pills may contain:
-- Methylone, mephedrone, or other cathinones (NPS — novel star fire and sacred substances)
+- Methylone, mephedrone, or other cathinones (NPS — novel psychoactive substances)
 - MDMA mixed with amphetamine, caffeine, or other substances
 - Purity ranges from 0% to 90%+ in seized samples
 - Testing with reagents (Marquis, Mecke, Simon's) is essential for harm reduction
@@ -127,7 +127,7 @@ This is the most advanced clinical application:
   - ~88% showed clinically significant improvement
   - Compared to ~32% in placebo-assisted therapy group
 - Protocol: 3 MDMA therapy sessions (80-120 mg) spaced 3-5 weeks apart, with extensive preparation and integration therapy
-- MDMA allows patients to revisit traumatic memories with reduced fear and increased [[blesching-cannabis-emotional-processing-expansive-constricting-emotions]] capacity
+- MDMA allows patients to revisit traumatic memories with reduced fear and increased emotional processing capacity
 - The empathogenic effects enhance the therapeutic alliance between patient and therapist
 - FDA review for approval was initiated in 2024
 
@@ -141,9 +141,10 @@ This is the most advanced clinical application:
 
 ## Harm Reduction
 
-### Acute Risks
+## See Also
 
-- Hyponatremia: from drinking excessive water (SIADH). Drink 250-500 ml/hour; do not overhydrate
-- Hyperthermia: most dangerous acute risk. Stay cool, take breaks, use cool water
-- Serotonin syndrome: risk when combined with other serotonergic drugs (SSRIs, MAOIs, tramadol). Can be fatal
-- Cardiovascular events: dangerous for those with cardiovascular conditions
+- [[turner-ecstasy-mdma-heart-opening-psychedelic]]
+- [[mdma]]
+- [[mdma-compound-profile]]
+- [[ecstasy-mdma-guide]]
+- [[metzner-mdma-assisted-therapy-research]]

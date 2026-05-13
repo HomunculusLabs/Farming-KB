@@ -12,14 +12,7 @@ White-rot fungi offer biological alternatives to physicochemical and chemical tr
 
 ## Limitations of Conventional Treatment
 
-Physicochemical treatments (flocculation, coagulation, adsorption, ion exchange, ultrafiltration, reverse osmosis) relocate contaminants rather than destroy them. Chemical bleaching with chlorine produces toxic organochlorine compounds. Ozonolysis is effective but prohibitively expensive due to high [[cervantes-electricity-consumption-cost-management]]. Conventional aerobic biological treatment is limited because most chromophores are structurally complex, contain xenobiotic units (aromatic sulfonic acids, azo bonds, conjugated aromatic rings), and resist biodegradation. This has driven interest in biological alternatives that can actually destroy recalcitrant chromophores.
-
-## White-Rot Fungal Ligninolytic System
-
-The ligninolytic enzyme system operates through "enzymatic combustion" (Kirk and Farrell, 1987) — a random oxidative depolymerization involving:
-
-1. **Lignin peroxidase (LiP)**: Oxidizes veratryl alcohol to veratryl radical cations that diffuse to lignin and abstract electrons; has a higher redox potential than most peroxidases
-2. **[[fungal-manganese-peroxidase-remediation]] (MnP)**: Oxidizes Mn(II) to Mn(III), stabilized by chelation with fungal organic acids (malonate, oxalate)
+Physicochemical treatments (flocculation, coagulation, adsorption, ion exchange, ultrafiltration, reverse osmosis) relocate contaminants rather than destroy them. Chemical bleaching with chlorine produces toxic organochlorine compounds. Ozonolysis is effective but prohibitively expensive due to high [[fungal-manganese-peroxidase-remediation]] (MnP)**: Oxidizes Mn(II) to Mn(III), stabilized by chelation with fungal organic acids (malonate, oxalate)
 3. **Laccase**: Copper-containing phenol oxidase that generates low-molecular-weight redox mediators
 4. **H2O2-generating oxidases**: Glucose oxidase, cellobiose oxidase, aryl-alcohol oxidase supply peroxide
 
@@ -41,13 +34,7 @@ Optimal decolorization generally occurs at pH 4-5.5. Most research has involved 
 
 The pH optimum represents a compromise between the optima of several enzymes (laccases, peroxidases, H2O2-producing oxidases) and the pH at which the mycelium can grow effectively. Like most filamentous fungi, white rots normally show optimal growth at acidic pH values, and growth in carbohydrate-containing media generally causes acidification.
 
-Temperature requirements vary by species but generally fall between 25°C and 30°C for mesophilic organisms. Some thermotolerant strains can operate at higher temperatures, which can be advantageous for treating warm industrial effluents. Nitrogen limitation is a critical factor for inducing the ligninolytic system in species like [[phanerochaete-chrysosporium]], where nitrogen starvation triggers secondary metabolism and enzyme production.
-
-## Effluent Treatment Applications
-
-### Kraft Mill Effluents
-
-Decolorization of kraft bleach plant effluents has been demonstrated with Phanerochaete chrysosporium, Trametes versicolor, and immobilized [[coriolus-versicolor]] in calcium alginate. The MYCOPOR system (Messner et al., 1990) was developed as a practical treatment approach using Pleurotus ostreatus for phenol content and toxicity reduction. MnP plays a primary role in kraft bleach plant effluent decolorization by P. chrysosporium (Michel et al., 1991), while laccase is primary for T. versicolor. Both MnP and LiP contribute to high-molecular-weight chlorolignin degradation.
+Temperature requirements vary by species but generally fall between 25°C and 30°C for mesophilic organisms. Some thermotolerant strains can operate at higher temperatures, which can be advantageous for treating warm industrial effluents. Nitrogen limitation is a critical factor for inducing the ligninolytic system in species like [[coriolus-versicolor]] in calcium alginate. The MYCOPOR system (Messner et al., 1990) was developed as a practical treatment approach using Pleurotus ostreatus for phenol content and toxicity reduction. MnP plays a primary role in kraft bleach plant effluent decolorization by P. chrysosporium (Michel et al., 1991), while laccase is primary for T. versicolor. Both MnP and LiP contribute to high-molecular-weight chlorolignin degradation.
 
 ### Molasses Spent Wash
 
@@ -59,7 +46,7 @@ Olive mill wastewater (OMW) is a major pollution problem in Mediterranean countr
 
 ### Textile Dye Effluents
 
-P. chrysosporium decolorizes artificial textile effluents. Decolorization of Orange II by wood-rotting fungi has been demonstrated (Knapp, Zhang and Tapley, 1997). [[pycnoporus-cinnabarinus]] laccase has been optimized for a range of industrial dyes. Knapp and Newby (1999) achieved 70-80% A(465) reduction in chemical industry effluents containing azo-linked chromophores. The [[fungal-laccase-and-textile-dye-decolorization]] pathway is particularly well-studied for azo dye breakdown.
+P. chrysosporium decolorizes artificial textile effluents. Decolorization of Orange II by wood-rotting fungi has been demonstrated (Knapp, Zhang and Tapley, 1997). [[fungal-laccase-and-textile-dye-decolorization]] pathway is particularly well-studied for azo dye breakdown.
 
 ### Chemical Industry Effluents
 
@@ -79,7 +66,7 @@ A 200-liter packed-bed bioreactor using Pycnoporus cinnabarinus demonstrated pra
 
 ### Scale-Up Challenges
 
-Transitioning from laboratory to industrial scale presents several obstacles. Maintaining sterility is difficult at scale — contaminant organisms can outcompete white-rot fungi in non-sterile environments, though some effluents (particularly those containing toxic chlorinated compounds) naturally suppress contaminants. Reactor clogging by dense mycelial growth is a common operational problem. Aeration requirements vary between species and must be carefully controlled to maintain dissolved oxygen without stripping [[chamovitz-plant-scent-communication-volatile-organic-compounds]]. The [[fungal-bioreactor-types]] reference covers these design considerations in detail.
+Transitioning from laboratory to industrial scale presents several obstacles. Maintaining sterility is difficult at scale — contaminant organisms can outcompete white-rot fungi in non-sterile environments, though some effluents (particularly those containing toxic chlorinated compounds) naturally suppress contaminants. Reactor clogging by dense mycelial growth is a common operational problem. Aeration requirements vary between species and must be carefully controlled to maintain dissolved oxygen without stripping [[fungal-bioreactor-types]] reference covers these design considerations in detail.
 
 ## Species Selection Guide
 
@@ -88,3 +75,75 @@ Choosing the right fungal species for a given effluent depends on multiple facto
 - **Phanerochaete chrysosporium**: The most extensively studied species. Produces LiP and MnP under nitrogen limitation. Best for kraft effluents and high-molecular-weight chlorolignins. Requires careful culture conditions to induce ligninolytic enzymes.
 - **Trametes versicolor (Coriolus versicolor)**: Produces laccase as the primary enzyme. Effective across a broad range of dye types and effluent compositions. More tolerant of varying nitrogen conditions than P. chrysosporium.
 - **Pleurotus ostreatus**: Produces MnP and laccase. Particularly effective for phenol-rich effluents. Edible species, making spent biomass potentially useful as animal feed or compost after treatment.
+
+## Overview
+
+Wood Rotting Fungi For Effluent Decolorization represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish wood rotting fungi for effluent decolorization
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving wood extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Wood Rotting Fungi For Effluent Decolorization finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for wood rotting fungi for effluent decolorization. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+wood rotting fungi for effluent decolorization and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Wood Rotting Fungi For Effluent Decolorization has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of wood rotting fungi for effluent decolorization into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions

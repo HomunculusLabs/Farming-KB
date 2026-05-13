@@ -17,37 +17,11 @@ type: concept
 # Mescaline Analogs — Phenethylamine Psychedelics from PIHKAL
 
 Mescaline (3,4,5-trimethoxyphenethylamine) is the prototype
-[[phenethylamine-chemistry-basics]]'s lifelong exploration of substituted
-phenethylamines. Extracted from peyote cactus (Lophophora
-williamsii) and used for millennia by indigenous peoples of the
-Americas, mescaline provided the structural template from which Shulgin
-systematically explored hundreds of analogs documented in PIHKAL.
-
-## Mescaline: The Prototype
-
-**Dosage:** 200-400 mg (oral)
-**Duration:** 10-12 hours
-**[[tihkal-shulgin-rating-scale]]:** +++
+[[tihkal-shulgin-rating-scale]]:** +++
 
 Mescaline served as Shulgin's benchmark. He described it as producing
 a richly visual, contemplative experience with a character distinct
-from LSD or [[psilocybin]]. Effects unfold slowly, peaking 2-4 hours after
-ingestion. Mescaline is known for vivid, colorful geometric patterns and
-organic imagery with a warm, emotionally grounded quality. Shulgin
-considered it the "gentle grandfather" of synthetic phenethylamines, noting its
-well-tolerated body load and predictable dose-response curve.
-
-The trimethoxy substitution pattern (3,4,5-trimethoxy) on the benzene
-ring is the defining structural feature. Shulgin systematically varied
-this pattern to discover how each modification affected the psychedelic
-experience. His work revealed that the 2,5-dimethoxy-4-substituted
-pattern consistently produced the most potent and interesting compounds.
-
-## TMA (3,4,5-Trimethoxyamphetamine)
-
-**Dosage:** 100-250 mg (oral)
-**Duration:** 12-16 hours
-**[[shulgin-rating-scale]]:** ++ to +++
+from LSD or [[shulgin-rating-scale]]:** ++ to +++
 
 TMA is the alpha-methylated analog of mescaline, adding a single carbon
 to the amine [[shirota-glyoxalylamide-side-chain-construction-psilocin-synthesis]]. This modification follows the same pattern
@@ -88,3 +62,88 @@ arrangement profoundly affects qualitative nature.
 **Shulgin Rating:** ++ to +++
 
 MMDA combines structural elements of mescaline and MDA. The
+
+## Overview
+
+Pihkal Mescaline Analogs represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish pihkal mescaline analogs
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving pihkal extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Pihkal Mescaline Analogs finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for pihkal mescaline analogs. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+pihkal mescaline analogs and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Pihkal Mescaline Analogs has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of pihkal mescaline analogs into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[aleph-4-entity-pihkal]]
+- [[pihkal-aleph-2]]
+- [[pihkal-mescaline]]
+- [[tma-2-entity-pihkal]]
+- [[tma-3-entity-pihkal]]

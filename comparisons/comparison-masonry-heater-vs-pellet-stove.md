@@ -11,44 +11,13 @@ sources: []
 ## Overview
 
 Masonry heaters and pellet stoves represent two fundamentally different
-approaches to efficient wood heating. A [[masonry-heater-design|masonry heater]] burns a fast, hot fire and stores heat in a massive brick or
-stone structure, radiating warmth for 12-24 hours from a single load. A
-[[pellet-stove-heating|pellet stove]] feeds compressed wood pellets
+approaches to efficient wood heating. A [[pellet-stove-heating|pellet stove]] feeds compressed wood pellets
 continuously via an automated auger system, offering thermostat control
 and steady output with minimal user intervention. Choosing between them
 depends on whether you value passive thermal mass storage or automated
 convenience.
 
 ## Masonry Heater
-
-[[masonry-heater-design]]
-
-Masonry heaters work by burning wood at extremely high temperatures
-(1,000-1,500°F) in an insulated firebox, then forcing the hot gases
-through a labyrinth of internal channels. The masonry mass absorbs this
-heat and releases it slowly over many hours. This contraflow or downdraft
-design achieves 80-90% efficiency with exceptionally clean combustion
-and minimal creosote buildup. A single intense fire in the morning can
-warm a home through the entire day and night without further attention.
-
-The thermal mass is the defining feature. Weighing 3,000-14,000+ pounds
-depending on the size, a masonry heater provides gentle, even radiant
-heat that avoids the hot-cold cycling of conventional wood stoves. The
-large mass also makes them remarkably safe to touch, as surface
-temperatures rarely exceed 160°F. Traditional designs like the Russian
-stove and German kachelofen have been refined over centuries, and modern
-contraflow heaters are the most common choice for new installations.
-
-The trade-off is upfront commitment. Masonry heaters require a
-substantial foundation to support their weight, skilled masonry
-construction (often by specialized builders), and significant space in
-the home. Installation costs typically range from $10,000-$30,000+,
-though the fuel itself can be free or very cheap if you have access to
-firewood. Once built, however, they have no moving parts, no
-electricity requirement, and can last generations with minimal
-maintenance beyond annual chimney inspection.
-
-## Pellet Stove
 
 [[pellet-stove-heating]]
 
@@ -129,15 +98,6 @@ Some homesteads combine both systems: a masonry heater as the primary
 heat source for its reliability and free fuel, supplemented by a pellet
 stove in a secondary zone for automated temperature control during
 absences. Others integrate pellet stoves with solar electric systems so
-the small electricity demand is offset by renewables. A [[rocket-stove]]
-mass heater offers a middle ground — the thermal mass benefits of a
-masonry heater with a simpler, DIY-friendly build — though without the
-centuries of refined engineering that masonry heaters provide.
-
-## See Also
-
-- [[comparison-rocket-stove-vs-masonry-heater]]
-- [[comparison-rocket-stove-vs-pellet-stove]]
+the small electricity demand is offset by renewables. A [[comparison-rocket-stove-vs-masonry-heater]]
 - [[comparison-passive-solar-vs-earth-sheltered]]
-- [[comparison-solar-cooking-vs-rocket-stove]]
 - [[comparison-cob-oven-vs-rocket-stove]]

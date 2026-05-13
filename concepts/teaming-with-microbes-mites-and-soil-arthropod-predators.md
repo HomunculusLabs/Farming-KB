@@ -10,9 +10,7 @@ sources:
 
 Mites are among the most numerous and ecologically significant
 arthropods in soil ecosystems. Along with springtails, they constitute
-the dominant [[teaming-with-microbes-soil-food-web-trophic-structure-and-succession]].
-Arthropods are characterized by segmented limbs, segmented bodies, and
-an exoskeleton made from [[teaming-with-microbes-springtails-and-collembola]] (springtails)
+the dominant [[teaming-with-microbes-springtails-and-collembola]] (springtails)
 - Insect larvae
 - Insect eggs
 - Nematodes (for soil-dwelling species)
@@ -66,13 +64,8 @@ imbalances that can allow pest species to proliferate.
 
 All arthropods have exoskeletons made of chitin. When arthropods molt
 or die, their chitinous remains become food for specialized bacteria
-and fungi. [[teaming-with-microbes-mineralization-and-immobilization]].
+and fungi. [[teaming-with-microbes-protists-and-nematode-predators]]
 
-## See Also
-
-- [[teaming-with-microbes-protists-and-nematode-predators]]
-
-- [[teaming-with-microbes-springtails-and-collembola]]
 - [[teaming-with-microbes-decomposition-pathways]]
 - fungal-chitin-decomposition-nutrient-cycling
 ## Practical Considerations

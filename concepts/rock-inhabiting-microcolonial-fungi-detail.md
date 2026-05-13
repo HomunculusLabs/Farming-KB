@@ -6,26 +6,16 @@ type: concept
 tags: [mycology, fungi]
 sources: []
 ---
-# Rock-Inhabiting and Microcolonial Fungi Rock-inhabiting fungi (RIF) are a specialized ecological group of ascomycetes and some basidiomycetes that colonize rock surfaces and subaerial stone substrata in extreme environments. They are characterized by slow growth, melanized cell walls, and the formation of microcolonial structures adapted to oligotrophic and xeric conditions. ## Distribution and Habitat Rock-inhabiting fungi are among the most stress-tolerant organisms on Earth, colonizing bare rock surfaces in deserts, polar regions, alpine zones, and coastal environments. They are typically the primary colonizers of lithic substrata, preparing surfaces for subsequent lichen and microbial community establishment. These fungi occur on diverse rock types including granite, limestone, sandstone, marble, and volcanic substrata. The concept of [[fungal-biodiversity-in-extreme-environments]]:
-
-1. **Oligotrophy**: They grow on extremely nutrient-poor substrata, deriving carbon from atmospheric deposition, dust particles, and trace [[fungal-volatile-organic-compounds-communication]] leached from the rock matrix
+# Rock-Inhabiting and Microcolonial Fungi Rock-inhabiting fungi (RIF) are a specialized ecological group of ascomycetes and some basidiomycetes that colonize rock surfaces and subaerial stone substrata in extreme environments. They are characterized by slow growth, melanized cell walls, and the formation of microcolonial structures adapted to oligotrophic and xeric conditions. ## Distribution and Habitat Rock-inhabiting fungi are among the most stress-tolerant organisms on Earth, colonizing bare rock surfaces in deserts, polar regions, alpine zones, and coastal environments. They are typically the primary colonizers of lithic substrata, preparing surfaces for subsequent lichen and microbial community establishment. These fungi occur on diverse rock types including granite, limestone, sandstone, marble, and volcanic substrata. The concept of [[fungal-volatile-organic-compounds-communication]] leached from the rock matrix
 2. **Desiccation tolerance**: Melanized cell walls retain structural integrity through repeated wet-dry cycles, and many species can survive in an air-dried state for months to years
 3. **UV resistance**: Melanin pigments absorb UV radiation, protecting cellular DNA and proteins. This is particularly important for species growing at high altitudes or in desert environments with intense solar radiation
 4. **Temperature tolerance**: Many RIF are eurysporous, capable of growth over wide temperature ranges. Psychrotolerant species from polar regions can grow at temperatures near freezing
-5. **[[staycare-fungal-organic-acid-production-metal-leaching]]**: Some rock-inhabiting fungi produce organic acids (oxalic, citric) that solubilize mineral components of the rock, releasing trace nutrients for [[brassinosteroid-fungal-growth-promotion]] while contributing to [[water-activity-osmophilic-fungal-media-preparation]] technique is relevant for cultivating these oligotrophic organisms.
-
-## Relationship to Xerophilic Fungi
-
-Rock-inhabiting fungi share many physiological traits with [[fungal-biodiversity-in-extreme-environments]]
-- [[water-activity-osmophilic-fungal-media-preparation]]
+5. **[[brassinosteroid-fungal-growth-promotion]] while contributing to [[fungal-biodiversity-in-extreme-environments]]
 - [[fungal-biodiversity-in-extreme-environments]]
 
 ## Sources
 
-- Chapter 14, Fungi in [[fungi-stressful-environments-thermophilic-xerophilic-halophilic]] (Zak and Wildman) in Biodiversity of Fungi
-- Chapter 17, Fungicolous Fungi (Gams et al.) in Biodiversity of Fungi
-- fungal-melanin-in-ecology-and-stress-protection
-- [[mycorrhizal-mineral-weathering-nutrient-acquisition]]
+- Chapter 14, Fungi in [[mycorrhizal-mineral-weathering-nutrient-acquisition]]
 ## Practical Applications
 
 Rock-Inhabiting and Microcolonial Fungi has a range of practical applications that make it relevant to

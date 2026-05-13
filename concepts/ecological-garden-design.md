@@ -15,7 +15,7 @@ ecological gardener creates conditions where natural processes do the heavy
 lifting. The garden becomes a self-sustaining ecosystem that provides food,
 beauty, habitat, and ecological services simultaneously.
 
-Toby Hemenway describes ecological gardens as modeled on natural ecosystems
+[[toby-hemenway]] describes ecological gardens as modeled on natural ecosystems
 such as forests, meadows, and wetlands. These systems have evolved over
 millions of years to be productive, resilient, and self-maintaining. By
 understanding and mimicking their patterns, home gardeners can create landscapes
@@ -114,14 +114,12 @@ a garden that works like an ecosystem rather than a factory.
 
 Begin by observing your site carefully. Map sun, shade, water flow, wind,
 existing vegetation, and patterns of use. Then start small: convert one area
-at a time using sheet mulching, plant a few productive perennials, and let
+at a time using [[sheet-mulching]], plant a few productive perennials, and let
 the ecosystem begin to assemble itself around your initial interventions.
 Nature is your best coworker—learn her language and she will do most of the
 work.
 
 ## See Also
-- [[gaias-garden-ecological-design-process-checklist]]
 - [[mollison-barrier-plants-in-garden-design]]
-- [[query-how-to-design-a-pollinator-garden]]
 - [[soil-building-ecological-garden]]
 - [[hamilton-cottage-garden-design]]

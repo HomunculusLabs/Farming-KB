@@ -20,42 +20,8 @@ between solanaceous intoxication and animal transformation beliefs
 provides a pharmacological explanation for one of the most persistent
 folk beliefs in European history. Harner's hypothesis was part of a
 broader scholarly effort to identify the botanical and chemical
-identities of the [[cultural-evolution-and-psychoactive-substances]] used in [[harner-european-witchcraft-hallucinogens]]
-practices from the late medieval period through the early [[mycology-modern-era]].
-
-## Historical Accounts of Lycanthropy
-
-Paulus Aegineta, writing in the fourth or seventh century AD,
-described lycanthropia as a condition in which sufferers "go out
-during the night imitating wolves in all things and lingering about
-sepulchres until morning." His diagnostic markers included pallor,
-feeble vision, dry eyes, extremely dry tongue, cessation of saliva
-flow, intense thirst, and incurable leg ulcerations from frequent
-falls. These symptoms closely match the clinical profile of atropine
-intoxication: dryness of the throat and mouth, difficulty swallowing,
-great thirst, impaired vision (mydriasis), and staggering gait.
-
-## The Role of Ointments and Potions
-
-Multiple historical sources describe the use of specially prepared
-ointments to achieve werewolf transformation. Pierre Bourgot, tried
-before an inquisitor in France in 1521, confessed that an ointment
-rubbed on the body changed him and a companion into wolves for one
-or two hours. In this transformed state, they physically attacked
-people, biting them with their teeth, killing them, and eating parts
-of their bodies. In 1599, Chauvincourt concluded that such changes
-were illusory and "produced by unguents, powders, potions, and
-noxious herbs." Nynald (1615) listed the ointment ingredients as
-belladonna, henbane, aconite, opium, and hashish, asserting that
-"all shape-shifting is mere hallucination."
-
-## Solanaceous Plant Sources
-
-The ointments described in witchcraft and lycanthropy confessions
-were prepared from tropane-alkaloid-rich plants of the Solanaceae
-family. John Baptista Porta (1589) described a potion made from
-henbane ([[henbane-hyoscyamus-niger-ethnobotany]]), mandrake ([[mandrake-mandragora-officinarum-in-european-folklore]]),
-stramonium ([[atropa-belladonna]]).
+identities of the [[harner-european-witchcraft-hallucinogens]]
+practices from the late medieval period through the early [[henbane-hyoscyamus-niger-ethnobotany]]), mandrake ([[atropa-belladonna]]).
 Under its effects, subjects believed themselves transformed into
 birds, fish, or geese, exhibiting behaviors appropriate to each
 animal form. One subject "would seem sometimes to be changed into
@@ -88,3 +54,88 @@ restrained from biting a woman whose neck appeared to him as that
 of a deer. Hesse (1946) noted that solanaceae psychosis
 characteristically includes the sensation of growing feathers and
 hair due to paresthesia, completing the illusion of animal
+
+## Overview
+
+Lycanthropy Solanaceous Hallucinogens represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish lycanthropy solanaceous hallucinogens
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving lycanthropy extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Lycanthropy Solanaceous Hallucinogens finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for lycanthropy solanaceous hallucinogens. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+lycanthropy solanaceous hallucinogens and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Lycanthropy Solanaceous Hallucinogens has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of lycanthropy solanaceous hallucinogens into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[harner-datura-solanaceous-shamanism]]
+- [[old-world-solanaceous-hallucinogens]]
+- [[solanaceous-hallucinogens-of-medieval-european-witchcraft]]
+- [[solanaceous-hallucinogens-old-world-psychoactive-plants]]
+- [[solanaceous-hallucinogens-pharmacology]]

@@ -11,11 +11,11 @@ This index covers plants from the letter I through M as catalogued in *Permacult
 ## I
 
 ### Inga and Legume Trees
-- **Inga edulis** (Ice cream bean) — pages 28, 136. Amazonian nitrogen-fixing tree with sweet edible pulp. Widely used in agroforestry for shade and soil improvement.
+- **[[inga-edulis]]** (Ice cream bean) — pages 28, 136. Amazonian nitrogen-fixing tree with sweet edible pulp. Widely used in agroforestry for shade and soil improvement.
 - **Inga spp.** — page 28. Diverse genus of neotropical legume trees forming the backbone of traditional shade-grown coffee and cacao systems.
 
 ### Ivies and Climbers
-- **Ivy** (*Hedera helix*) — pages 114, 117. Evergreen woody climber for walls, ground cover, and wildlife habitat. Provides year-round shelter for insects and birds.
+- **Ivy** (*[[hedera-helix]]*) — pages 114, 117. Evergreen woody climber for walls, ground cover, and wildlife habitat. Provides year-round shelter for insects and birds.
 
 ## J
 
@@ -49,9 +49,7 @@ This index covers plants from the letter I through M as catalogued in *Permacult
 - **JUGLANDACEAE** — pages 32, 38. The walnut and hickory family, encompassing valuable timber and nut-producing trees.
 
 ### Juniper
-- **Juniper** (*[[juniperus-communis]]*) — pages 114, 136. Coniferous shrub producing berries used in gin production, cooking, and traditional medicine. Drought and cold tolerant.
-- **Juniper myrtle** — page 111. Australian species with aromatic foliage.
-- **Creeping juniper** (*[[juniperus-horizontalis]]*) — page 136. Low-growing ground cover juniper for slopes and rock gardens.
+- **Juniper** (*[[juniperus-horizontalis]]*) — page 136. Low-growing ground cover juniper for slopes and rock gardens.
 
 ## K
 
@@ -63,19 +61,7 @@ This index covers plants from the letter I through M as catalogued in *Permacult
 - **Karri** (*Eucalyptus diversicolor*) — pages 95, 116. One of the tallest trees in the world; premium Western Australian timber with straight grain and rich color.
 
 ### Kang Kong and Aquatic Vegetables
-- **Kang kong** (*[[ipomoea-aquatica]]*) — page 123. Also called water spinach. Fast-growing aquatic vegetable popular in Southeast Asian cuisine; high in iron and vitamins.
-
-### Kola and Edible Nuts
-- **Kale** — page 114. Nutrient-dense leafy green; cold-hardy biennial. Important permaculture vegetable for cool-season production.
-- **Kernels** — page 122. Various palm and tree species produce edible kernels used as food.
-
-### Kelp and Kinnikinik
-- **Kinnikinik** (*Arctostaphylos uva-ursi*) — page 131. Low-growing evergreen ground cover of northern regions; traditional smoking mixture and medicinal plant.
-
-## L
-
-### Leucaena (*Leucaena* spp.)
-- **[[leucaena-leucocephala]]** (River tamarind/Lead tree) — page 24. Fast-growing nitrogen-fixing legume tree for fodder, green manure, and firewood. Pods and leaves provide high-protein livestock feed. Widely planted in tropical agroforestry.
+- **Kang kong** (*[[leucaena-leucocephala]]** (River tamarind/Lead tree) — page 24. Fast-growing nitrogen-fixing legume tree for fodder, green manure, and firewood. Pods and leaves provide high-protein livestock feed. Widely planted in tropical agroforestry.
 - **Leucaena diversifolia** — page 25. Cold-tolerant Leucaena species for higher elevations.
 - **Leucaena esculenta** — page 25. Edible-seeded species consumed as food in Mexico.
 - **Leucaena glauca** — page 24. Synonym for L. leucocephala.
@@ -91,25 +77,6 @@ This index covers plants from the letter I through M as catalogued in *Permacult
 - **Lupins** (*Lupinus* spp.) — page 116. Ornamental and agricultural legumes; some species produce edible seeds. Blue lupin (*L. angustifolius*) is a significant grain crop in Australia.
 
 ### Livistona Palms
-- **[[livistona-australis]]** (Cabbage tree palm) — page 103. Australian fan palm producing edible cabbage (heart) and thatch material.
-- **Livistona spp.** — page 103. Genus of fan palms distributed across Asia and Australia.
-- **Livistona decipiens** — page 103. Slender Australian fan palm.
-- **Livistona saribus** — page 103. Southeast Asian species with large, ornamental fan leaves.
-
-### Loquat and Lilli Pilli
-- **Loquat** (*Eriobotrya japonica*) — pages 62, 118. Evergreen fruit tree with sweet golden-yellow fruit; medicinal leaves; ornamental flowers in autumn and winter.
-- **Lilli pilli** (*Syzygium smithii*) — pages 73, 112. Australian rainforest tree producing edible mauve berries; popular hedge plant.
-- **Lemon** — page 114. Citrus species widely grown in subtropical and Mediterranean climates.
-
-### Lucuma and Tropical Fruits
-- **Lucuma** (*Pouteria lucuma*) — pages 66, 67. Andean fruit tree producing nutrient-dense, maple-flavored fruit used in desserts and ice cream. Important traditional crop in Peru and Ecuador.
-
-### Lumber and Timber
-- **Linden** (*Tilia* spp.) — pages 113, 115. Basswood/lime tree producing soft, workable timber for carving; fragrant flowers for tea.
-
-## M
-
-### Macadamia
 - **[[macadamia-integrifolia]]** — page 31. The primary commercial macadamia species; smooth-shelled nuts with high oil content.
 - **Macadamia tetraphylla** — page 31. Rough-shelled macadamia species; more cold tolerant than M. integrifolia.
 - **Macadamia spp.** — page 31. Australian native nut trees producing the highest-value commercial nut crop per hectare.

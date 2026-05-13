@@ -25,47 +25,13 @@ sources:
 
 It is a brown-rot fungus that colonizes dead and dying hardwood trees, producing tough, leathery basidiocarps with a distinctive dark, resinous upper surface.
 
-The species has attracted attention for its bioactive polysaccharides and potential [[panax-ginseng]], including immunomodulatory and anti-tumor activities observed in laboratory studies.
-
-## Taxonomy and Morphology
-
-**Classification:**
-
-- Kingdom: Fungi
-- Division: Basidiomycota
-- Class: Agaricomycetes
-- Order: Polyporales
-- Family: Polyporaceae
-- Genus: *Ischnoderma*
-- Species: *I. resinosum* (Schrad.) P. Karst. (1881)
-
-**Synonyms:** *Boletus resinosus* Schrad. (1794), *Polyporus resinosus* (Schrad.) Fr. (1821), *Fomes resinosus* (Schrad.) Bres. (1912)
-
-The genus name *Ischnoderma* derives from Greek *ischno-* (thin) and *derma* (skin), referring to the relatively thin upper surface layer.
-
-### Upper Surface
-
-The cap (pileus) is semicircular to kidney-shaped, 5–25 cm wide and 1–3 cm thick at the base, projecting horizontally or slightly downward from the substrate.
-
-The upper surface is dark brown to nearly black, with a distinctive wrinkled to radially furrowed texture that develops a resinous or varnished sheen when fresh.
-
-When dry, the surface develops deep concentric cracks and becomes significantly darker, sometimes appearing almost charred.
-
-A key diagnostic feature is the two-layered context: the upper layer is dark, resinous, and corky, while the lower layer is softer, lighter-colored, and fibrous.
-
-### Pore Surface
-
-The pore surface (hymenium) is white to cream when young, becoming brownish to tobacco-brown with age or upon bruising.
-
-Pores are circular to angular, 3–5 per mm, with thin dissepiments that may become torn and lacerate in older specimens.
-
-The tubes are stratified, with multiple pore layers formed during successive [[jeavons-climate-adaptation-growing-seasons]], a characteristic of perennial polypores.
+The species has attracted attention for its bioactive polysaccharides and potential [[jeavons-climate-adaptation-growing-seasons]], a characteristic of perennial polypores.
 
 Spores are cylindrical to ellipsoid, hyaline, smooth, measuring 5–7 × 2–3 μm, and inamyloid.
 
 ## Distribution and Habitat
 
-*I. resinosum* has a wide distribution across [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]] of the Northern Hemisphere, found throughout Europe, Asia, and [[psilocybin-north-america-pacific-northwest]].
+*I. resinosum* has a wide distribution across [[psilocybin-north-america-pacific-northwest]].
 
 It is a saprotrophic brown-rot fungus that primarily colonizes dead or weakened standing hardwood trunks, stumps, and fallen logs.
 
@@ -81,10 +47,83 @@ In urban and suburban environments, *I. resinosum* occasionally appears on lands
 
 *I. resinosum* is a brown-rot decomposer, meaning it primarily degrades cellulose and hemicellulose while largely leaving lignin intact as a brown, crumbly residue.
 
-This contrasts with white-rot fungi (such as *[[growing-gourmet-turkey-tail-trametes-versicolor-cultivation]]*) that decompose lignin along with cellulose.
+This contrasts with white-rot fungi (such as *[[bioremediation-fenton-chemistry-brown-rot-fungi]] mechanism, generating hydroxyl radicals through iron reduction that depolymerize cellulose extracellularly.
 
-Brown-rot fungi like *I. resinosum* employ a [[bioremediation-fenton-chemistry-brown-rot-fungi]] mechanism, generating hydroxyl radicals through iron reduction that depolymerize cellulose extracellularly.
+The brown-rot decay pattern is ecologically significant because it releases cellulose-derived carbon while leaving lignin as a persistent [[dighton-fungi-acidifying-pollutants-forest-ecosystems]], brown-rot [[fungal-diversity-leaf-litter-coarse-woody-debris]] that would otherwise persist for decades.
 
-The brown-rot decay pattern is ecologically significant because it releases cellulose-derived carbon while leaving lignin as a persistent [[knf-leaf-mold-humus]] component.
+## Overview
 
-In [[dighton-fungi-acidifying-pollutants-forest-ecosystems]], brown-rot [[query-how-do-fungi-contribute-to-carbon-sequestration]] to carbon cycling by accelerating the decomposition of [[fungal-diversity-leaf-litter-coarse-woody-debris]] that would otherwise persist for decades.
+Ischnoderma Resinosum represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish ischnoderma resinosum
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving ischnoderma extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Ischnoderma Resinosum finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for ischnoderma resinosum. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+ischnoderma resinosum and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Ischnoderma Resinosum has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of ischnoderma resinosum into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.

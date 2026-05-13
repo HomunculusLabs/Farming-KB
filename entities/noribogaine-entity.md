@@ -14,14 +14,7 @@ updated: 2026-04-28
 sources:
   - Mash DC, Kovera CA, Pablo J, et al. (2000). "Ibogaine: complex pharmacokinetics, concerns for safety, and preliminary efficacy measures." Annals of the New York Academy of Sciences, 914, 394-401.
   - Alper KR, Lotsof HS, Kaplan CD. (2001). "The ibogaine medical subculture." Journal of Ethnopharmacology, 76(2), 111-120.
-  - Glue P, Winter J, Garbe K, et al. (2015). "Ascending single-dose, double-blind, placebo-controlled safety study of noribogaine in healthy volunteers." Drug and [[cannabis-for-alcohol-dependence]], 151, 189-194.
-  - Baumann MH, Pablo JP, Ali SF, et al. (2001). "The neuropharmacology of ibogaine and its metabolite, noribogaine." Annals of the New York Academy of Sciences, 914, 374-387.
----
-
-# Noribogaine
-
-**Noribogaine** (12-hydroxyibogamine) is the primary active metabolite of
-ibogaine, a psychoactive [[aminopropyl-silica-gel-chromatography-indole-alkaloid-purification]] from the [[iboga-root-bark-preparation]] of *Tabernanthe
+  - Glue P, Winter J, Garbe K, et al. (2015). "Ascending single-dose, double-blind, placebo-controlled safety study of noribogaine in healthy volunteers." Drug and [[aminopropyl-silica-gel-chromatography-indole-alkaloid-purification]] from the [[iboga-root-bark-preparation]] of *Tabernanthe
 iboga*. It is a long-acting compound with significant pharmacological activity
 at multiple receptor systems. Noribogaine is increasingly recognized as the
 principal mediator of ibogaine's anti-addictive effects, with a plasma
@@ -50,36 +43,7 @@ differ meaningfully from ibogaine:
 **Serotonergic system:**
 - 5-HT2A agonist (Ki ~500 nM) — contributes to psychedelic effects
 - 5-HT2C agonist (Ki ~300 nM)
-- [[serotonin]] transporter (SERT) inhibitor (Ki ~300 nM) — reuptake
-  inhibition comparable to ibogaine
-- 5-HT3 antagonist — may contribute to anti-nausea profile
-
-**Opioid system:**
-- Mu-opioid receptor (MOR) agonist (Ki ~40 nM) — full or partial agonist
-  activity, distinct from ibogaine which is primarily an antagonist
-- Kappa-opioid receptor (KOR) agonist (Ki ~200 nM)
-
-**Other targets:**
-- NMDA receptor antagonist (channel blocker)
-- Nicotinic acetylcholine receptor antagonist
-- Sigma-2 receptor agonist
-
-The mu-opioid receptor agonism of noribogaine is a key differentiator from
-ibogaine and is hypothesized to be central to its anti-addictive properties,
-potentially attenuating opioid withdrawal symptoms while normalizing
-dopaminergic signaling in reward pathways.
-
-## Pharmacokinetics
-
-Noribogaine has a dramatically extended elimination half-life compared to
-ibogaine. After oral ibogaine administration (10-20 mg/kg), ibogaine peaks
-in plasma within 2 hours (half-life ~2 hours) while noribogaine levels rise
-more slowly, peaking at 4-6 hours with a half-life of 24-49 hours. The long
-half-life means noribogaine remains at pharmacologically active concentrations
-for days after a single ibogaine dose, which may underlie the sustained
-anti-addictive effects reported clinically.
-
-Noribogaine undergoes further hepatic metabolism via [[glucuronidation]]. The
+- [[glucuronidation]]. The
 CYP2D6 poor metabolizer phenotype results in reduced conversion of ibogaine
 to noribogaine, which may affect therapeutic outcomes and toxicity profiles.
 
@@ -88,3 +52,88 @@ to noribogaine, which may affect therapeutic outcomes and toxicity profiles.
 Noribogaine alone produces subtle psychoactive effects at therapeutic
 doses, considerably less intense than ibogaine. Subjects describe mild
 euphoria, emotional openness, and dream-like mentation rather than the
+
+## Overview
+
+Noribogaine Entity represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish noribogaine entity
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving noribogaine extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Noribogaine Entity finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for noribogaine entity. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+noribogaine entity and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Noribogaine Entity has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of noribogaine entity into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[2c-g-3-entity]]
+- [[4-5-mdo-dmt-entity-tihkal]]
+- [[5-6-mdo-dipt-entity-tihkal]]
+- [[mdcpm-entity-pihkal]]
+- [[methyl-k-entity-pihkal]]

@@ -21,17 +21,7 @@ preferences, and geographic distributions of conspicuous fungi at study
 sites. Quantifying populations of macrofungi is difficult because
 individual mycelia may produce from one to many sporocarps, and
 sporocarps represent an unknown fraction of total biomass, which also
-includes vegetative [[mycorrhiza]], mycelia, mycelial strands, cords, and
-rhizomorphs can also be sampled. These vegetative structures reveal taxa
-present but not fruiting. Molecular analyses of ectomycorrhizae have
-shown that substantial numbers of species present on host roots at some
-sites rarely fruit. Encouraging fruiting of some ascomycetes and small
-agarics by placing substrata in humid chambers may increase detection of
-litter-inhabiting taxa.
-
-## Extrapolation to Richness
-
-Several methods for estimating [[fungal-species-estimation-methods-total-diversity]] from a limited number of
+includes vegetative [[fungal-species-estimation-methods-total-diversity]] from a limited number of
 samples have been developed. The first-order jackknife estimator uses the
 formula S* = Sobs + L[(n-1)/n], where S* is estimated total richness,
 Sobs is total observed species, L is species found in only one sample,
@@ -42,10 +32,7 @@ of rare taxa, a situation frequently encountered with fungi.
 
 ## Recommended Integrated Approach
 
-An integrated set of [[lichen-biodiversity-sampling-protocols-data-analysis]] maximizes the number of
-macrofungal species recorded at a site. This includes opportunistic
-sampling to capture conspicuous fungi outside plots, fixed-size plot
-sampling for quantitative data on soil and [[aact-forest-litter-fungi-mycorrhizal-ingham]], microplots for
+An integrated set of [[aact-forest-litter-fungi-mycorrhizal-ingham]], microplots for
 small ascomycetes, and log sampling for lignicolous species. Repeated
 sampling over time ensures that inconspicuous fungi and fungi on scarce
 substrata are included. These protocols are being used in national fungal
@@ -56,24 +43,7 @@ studies.
 
 Specimen processing involves written descriptions, photographs, culturing-macrofungi-methods
 
-- [[biodiversity-microfungal-inventory]]
-## Practical Considerations
-
-When working with Macrofungi Inventory Methods, several practical factors should be
-carefully considered to achieve optimal results. These include
-the specific conditions of the implementation context, available
-resources, timing requirements, and the interactions between this
-topic and other elements of the broader system. A holistic view
-that considers these interconnections produces better outcomes.
-
-Environmental conditions such as temperature, moisture, and
-seasonal patterns significantly influence results. Monitoring these
-variables and adapting practices accordingly is essential for success.
-The most effective practitioners develop keen observation skills and
-respond flexibly to changing conditions rather than following rigid
-protocols regardless of circumstances or local variation.
-
-[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
+- [[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -111,8 +81,6 @@ through generations to modern scientific approaches, the evolution continues
 to inform current best practices and research directions.
 
 ## See Also
-- [[doc]]
 - [[det]]
-- [[ectomycorrhiza]]
 - [[mycorrhizae]]
 - [[mycorrhiza]]

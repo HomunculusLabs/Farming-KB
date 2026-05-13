@@ -8,22 +8,7 @@ sources: ["Shulgin - PIHKAL"]
 ---
 # MDOH
 
-[[first-time-grower-common-mistakes]] very remarkable, but felt unusually tired for several
-> days following. I feel it is important to know whether this is a
-> specific drug-induced effect, or the result of psychological
-> phenomena. The experience continued in a rich, meaningful way. There
-> was a marvelous inner glow, the warmth from all the other participants
-> was wonderful to feel, nature was most beautiful. There were no
-> 
-> dramatic breakthroughs, or rushes of insight or energy, but just a
-> wonderful contemplative space where things gently unfolded as you put
-> your attention on them.
->
-> (with 100 mg) The material came on fairly rapidly. In about 30
-> minutes, I was intensely intoxicated, and more deeply than with MDMA.
-> It was a glorious feeling, [[cultural-evolution-and-psychoactive-substances]] that may carry unknown risks. [[mdoh-entity]]
-
-- [[pihkal-introduction-and-methodology]]
+[[cultural-evolution-and-psychoactive-substances]] that may carry unknown risks. [[pihkal-introduction-and-methodology]]
 
 - PIHKAL (the source book)
 - [[mda]]
@@ -88,3 +73,78 @@ better results with each iteration of practice and experimentation.
 ## Integration and Future Development
 
 The greatest value from this topic often comes through integration
+
+## Overview
+
+[[mdoh-entity]] Pihkal represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish mdoh entity pihkal
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving mdoh extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Mdoh Entity Pihkal finds practical application in multiple design contexts.
+[[permaculture-principles]] guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for mdoh entity pihkal. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+mdoh entity pihkal and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Mdoh Entity Pihkal has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of mdoh entity pihkal into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and

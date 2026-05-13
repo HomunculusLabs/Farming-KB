@@ -10,11 +10,7 @@ tags: [climate-classification, system, botany, permaculture, life-zone]
 ## Description
 
 The Holdridge Life Zone Matrix is a **bioclimatic classification system** that
-[[maps]] world vegetation patterns based on three intersecting axes: biotemperature,
-annual precipitation, and potential evapotranspiration ratio. Developed by
-American botanist **Leslie R. Holdridge**, it provides a more finely resolved
-framework for plant list classification than the broader Köppen system, enabling
-botanists and [[permaculture]] designers to annotate plant lists with concise
+[[permaculture]] designers to annotate plant lists with concise
 climatic keys. The system is presented in Figure 5.2 of Mollison's manual as
 a key reference for matching plant species to specific climatic conditions.
 
@@ -94,3 +90,11 @@ Section 5.2 (Classification of Broad Climatic Zones).
 - Glenn Trewartha — revised Köppen's system
 - Hardiness Zones — simpler temperature-based classification
 - James Duke — botanist who used Holdridge for plant list annotation
+
+## See Also
+
+- [[marijuana-horticulture-cervantes-cannabis-life-cycle-and-photoperiod]]
+- [[soil-biology-and-underground-life]]
+- [[cooperative-life-systems-and-ecological-philosophy]]
+- [[plant-life-rhythms-pulsatory-growth]]
+- [[fungal-life-cycles]]

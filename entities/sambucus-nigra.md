@@ -42,26 +42,11 @@ Sambucus nigra typically grows 3–10 m tall, forming a multi-stemmed thicket wi
 
 ## Distribution and Habitat
 
-Native to most of Europe (absent only from the far north), across North Africa, and into western and central Asia. Naturalized in [[psilocybin-north-america-pacific-northwest]], Australasia, and parts of South America. Grows in hedgerows, woodland edges, waste ground, and disturbed soils. Prefers moist, nitrogen-rich soils in partial shade to full sun. Hardiness zones 4–8.
-
-## Cultivation
-
-Elderberry is remarkably adaptable and low-maintenance:
-
-- **Soil:** Tolerates a wide range including heavy clay, but prefers moist, fertile, well-drained loam. pH 5.5–7.5.
-- **Light:** Full sun to partial shade. [[query-how-do-i-prune-brambles-for-maximum-fruit-production]] production in full sun.
+Native to most of Europe (absent only from the far north), across North Africa, and into western and central Asia. Naturalized in [[query-how-do-i-prune-brambles-for-maximum-fruit-production]] production in full sun.
 - **Propagation:** Softwood cuttings in summer (ease of rooting is exceptional — cuttings pushed into the ground often succeed without hormone), hardwood cuttings in winter, or seed (requires cold stratification). Division of established clumps.
 - **Pruning:** Fruit is borne on the previous year's growth. Remove dead and weak canes at ground level in early spring; retain vigorous 1- and 2-year-old canes for maximum yield. A "renewal pruning" approach removing oldest third of canes annually keeps plants productive.
 - **Yield:** Established bushes yield 5–15 kg of fruit annually.
-- **Pests/diseases:** Relatively pest-free. Elder shoot borer (Aphis fabae), elderberry leafroller, and [[cervantes-powdery-mildew-prevention-treatment]] can affect plants. Birds are the primary fruit pest — netting is often necessary.
-
-## Permaculture Applications
-
-Elderberry excels in permaculture systems as a multi-functional pioneer and guild member:
-
-- **Wildlife habitat:** Flowers provide nectar for over 50 insect species; berries feed birds (especially blackcaps, thrushes, and waxwings); dense growth shelters nesting birds and small mammals.
-- **Soil improvement:** Leaf mulch is rich in potassium and decomposes rapidly. The root system helps stabilize riparian banks and disturbed slopes.
-- **[[comparison-companion-planting-reference-vs-jadam-monoculture-critique]]:** Elderberry leaves buried in soil or used as mulch are said to deter rodent pests. The shrub's canopy provides dappled shade for understory herbs and berry shrubs.
+- **Pests/diseases:** Relatively pest-free. Elder shoot borer (Aphis fabae), elderberry leafroller, and [[comparison-companion-planting-reference-vs-jadam-monoculture-critique]]:** Elderberry leaves buried in soil or used as mulch are said to deter rodent pests. The shrub's canopy provides dappled shade for understory herbs and berry shrubs.
 - **Pioneer species:** Quick to colonize disturbed ground, elder fixes edges and creates microclimate for succession species.
 - **Fodder:** Foliage is palatable to livestock (goats and cattle), though consumption of stems and roots should be avoided.
 - **Hedgerow component:** Traditional European hedgerow staple providing both fruit and windbreak function.
@@ -88,3 +73,78 @@ Elderberry extract has demonstrated antiviral activity against influenza A and B
 - **Cardiometabolic:** Animal studies suggest anti-diabetic and lipid-lowering effects via activation of AMPK pathway.
 
 ### Traditional Uses
+
+## Overview
+
+Sambucus Nigra represents an important element within sustainable
+design and [[solomon-gardening-aikido-pest-philosophy-ecological-management]] systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish sambucus nigra
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving sambucus extend
+across multiple [[ingham-soil-foodweb-trophic-levels-protozoa-nematodes]] and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Sambucus Nigra finds practical application in multiple design contexts.
+[[mollisonian-permaculture-principles]] guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive [[livestock-grassland-management-strategies]] that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for sambucus nigra. [[jeavons-climate-adaptation-growing-seasons]]
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+sambucus nigra and its applications. Active investigation
+areas include [[king-stropharia-ecological-interactions-permaculture]] and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Sambucus Nigra has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of sambucus nigra into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and

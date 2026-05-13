@@ -6,11 +6,11 @@ type: concept
 
 # Thermal Germination and Stratification
 
-Seed germination and plant development are governed by a complex interplay of **temperature, light, moisture, and seasonal cues**. Understanding these mechanisms is essential for permaculture designers seeking to propagate plants effectively, select appropriate species for their climate, and work with — rather than against — natural biological processes.
+Seed germination and plant development are governed by a complex interplay of **temperature, light, moisture, and seasonal cues**. Understanding these mechanisms is essential for [[permaculture]] designers seeking to propagate plants effectively, select appropriate species for their climate, and work with — rather than against — natural biological processes.
 
 ## Thermogenic Plants: Nature's Heat Generators
 
-Certain plants have evolved the remarkable ability to **generate their own heat** through a process called thermogenesis. The most well-known example is **[[skunk-cabbage]] (*[[symplocarpus-foetidus]]*)**, which can raise the temperature inside its spathe (the hood-like structure enclosing the flower cluster) by as much as 15–20°C above ambient air temperature.
+Certain plants have evolved the remarkable ability to **generate their own heat** through a process called thermogenesis. The most well-known example is **[[symplocarpus-foetidus]]*)**, which can raise the temperature inside its spathe (the hood-like structure enclosing the flower cluster) by as much as 15–20°C above ambient air temperature.
 
 This self-heating serves several critical functions:
 
@@ -96,7 +96,7 @@ Many seeds have evolved to **pass through the digestive tracts of animals** as p
 - **Deposition in nutrient-rich dung** provides an ideal germination medium with moisture, organic matter, and microbial activity
 - **Dispersal to new locations** — often considerable distances from the parent plant
 
-Species that benefit from or require digestive passage include **tomatoes, chili peppers, many berries, figs, and a wide range of tropical fruits**. In permaculture systems, **integrating poultry or livestock** into orchard and food forest designs can serve this natural scarification and fertilization function, improving germination rates of dropped or broadcast seeds.
+Species that benefit from or require digestive passage include **tomatoes, chili peppers, many berries, figs, and a wide range of tropical fruits**. In permaculture systems, **integrating poultry or livestock** into orchard and [[food-forest]] designs can serve this natural scarification and fertilization function, improving germination rates of dropped or broadcast seeds.
 
 **Practical application:** For species known to benefit from digestive scarification, soaking seeds in **dilute acidic solutions** (such as dilute vinegar or weak citric acid) for 24–48 hours can simulate the effect when animal passage is not feasible.
 
@@ -139,6 +139,5 @@ A skilled permaculture designer uses knowledge of **thermal conditions, light re
 Understanding these fundamental biological mechanisms transforms the designer from a gardener following instructions into a **systems thinker** who can predict, adapt, and innovate across diverse climates and conditions.
 
 ## See Also
-- [[seed-germination-and-stratification]]
 - [[seed-germination-stratification-photoperiodism]]
 - [[ingham-thermal-worm-compost-comparison]]

@@ -6,9 +6,7 @@
 
 ## Overview
 
-**Observe and Interact** is the first of [[david-holmgren]]'s twelve [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]] principles, articulated in *Permaculture: Principles & Pathways [[holmgren-beyond-sustainability]]* (2002). It establishes that good design depends on a **free and harmonious relationship to nature and people**, where **careful observation and thoughtful interaction** provide the design inspiration, repertoire, and patterns upon which all sustainable systems are built.
-
-This principle is **foundational to all [[comparison-sepp-holzer-vs-permaculture-design]] work**. Every other principle in Holmgren's framework rests on the capacity to see clearly and respond appropriately to the systems we inhabit.
+**Observe and Interact** is the first of [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]] principles, articulated in *Permaculture: Principles & Pathways [[comparison-sepp-holzer-vs-permaculture-design]] work**. Every other principle in Holmgren's framework rests on the capacity to see clearly and respond appropriately to the systems we inhabit.
 
 Without observation, design becomes projection — imposing assumptions onto landscapes rather than reading what they actually need. Without interaction, observation remains passive — accumulating insight without ever testing it against reality.
 
@@ -67,9 +65,7 @@ These guidelines function as heuristics rather than rigid rules. They support th
 
 ## Masanobu Fukuoka and the Philosophy of Doing Nothing
 
-Holmgren connects the principle of minimal intervention to the philosophy of **Masanobu Fukuoka**, the Japanese farmer and philosopher whose "do-nothing" approach to agriculture (*[[comparison-natural-farming-vs-permaculture]]*) demonstrates that the most productive systems often result from **stepping back rather than adding inputs**.
-
-Fukuoka's practice of scattering [[clay-pellet-seed-balls]], avoiding ploughing, and allowing weeds to coexist with crops is not laziness but the outcome of decades of **attentive observation** — learning what the land wants to do and removing obstacles rather than imposing will.
+Holmgren connects the principle of minimal intervention to the philosophy of **Masanobu Fukuoka**, the Japanese farmer and philosopher whose "do-nothing" approach to agriculture (*[[clay-pellet-seed-balls]], avoiding ploughing, and allowing weeds to coexist with crops is not laziness but the outcome of decades of **attentive observation** — learning what the land wants to do and removing obstacles rather than imposing will.
 
 Fukuoka's famous declaration that he had come to the conclusion that "there was nothing at all" in his farming represents not nihilism but the radical fruit of sustained observation: when you watch long enough, you realise that nature already knows what to do.
 
@@ -118,8 +114,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[maps]]
 - [[dom]]
-- [[masanobu-fukuoka]]
 - [[permaculture]]
 - [[holmgren-principle-observe-interact-experiential-learning-postmodern]]

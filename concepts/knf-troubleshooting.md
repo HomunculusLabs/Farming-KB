@@ -1,6 +1,6 @@
 ---
 
-title: Knf Troubleshooting
+title: KNF Troubleshooting — Problems and Solutions
 created: 2026-04-11
 updated: 2026-04-12
 type: concept
@@ -43,7 +43,7 @@ Synthesized from all KNF input pages. Covers preparation failures, plant symptom
 
 | Symptom | Cause | Fix |
 |---------|-------|-----|
-| Putrid/rotten smell | [[jadam-anaerobic-fermentation]], wrong plant | Discard. Ensure breathable cover first 1-2 days. Avoid cucumber, melon, strawberry (too much sugar) |
+| Putrid/rotten smell | Anaerobic fermentation, wrong plant | Discard. Ensure breathable cover first 1-2 days. Avoid cucumber, melon, strawberry (too much sugar) |
 | Alcohol smell | Too warm, yeast overgrowth | Move to cooler location (under 25C) |
 | Weak/no smell | Not enough fermentation time | Wait longer or move to warmer spot (20-25C) |
 | Too much liquid | Plant too watery | Use less sugar ratio next time (1:0.8) |
@@ -96,7 +96,7 @@ Synthesized from all KNF input pages. Covers preparation failures, plant symptom
 | Symptom | Likely Cause | KNF Response |
 |---------|-------------|--------------|
 | Yellowing lower leaves (veg) | N deficiency or natural senescence | FAA 1:1000 foliar; check if old growth (normal) |
-| Yellowing upper/new leaves | Fe, S, or general [[cannabis-nutrient-lockout-and-ph]] | Seawater 1:30 (trace minerals); check pH |
+| Yellowing upper/new leaves | Fe, S, or general nutrient lockout | Seawater 1:30 (trace minerals); check pH |
 | Leaf curl (upward) | Ca deficiency, heat stress | WS-Ca 1:500 foliar; improve airflow |
 | Leaf curl (downward) | Overwatering, P toxicity | Reduce water; check drainage |
 | Interveinal chlorosis | Mg or Fe deficiency | Seawater 1:30; Epsom salt soil drench |
@@ -115,18 +115,18 @@ Synthesized from all KNF input pages. Covers preparation failures, plant symptom
 | Cold (<10C) | Purple leaves, slow growth | Move indoors; WS-PA 1:30; reduce watering |
 | Drought | Wilting, leaf drop | Deep water; mulch; crack prevention formula (OHN+BRV+FPJ+LAB+Seawater) |
 | Overwatering | Drooping, yellowing, root rot | Improve drainage; LAB 1:500 soil drench; dry out between waterings |
-| [[query-how-do-i-prevent-and-manage-transplant-shock-in-garden-plants]] | Wilting after moving | OHN 1:500 root dip or drench; shade for 2-3 days; FPJ 1:500 |
+| Transplant shock | Wilting after moving | OHN 1:500 root dip or drench; shade for 2-3 days; FPJ 1:500 |
 
 ## Pest/Disease Solutions by Symptom
 
 | Symptom | Likely Pest/Disease | KNF Treatment |
 |---------|-------------------|---------------|
-| Fine webbing, yellow stippling | Spider mites | Mackerel FAA 1:500 + OHN 1:500; increase humidity; [[comparison-predatory-mites-vs-ladybugs-biocontrol]] |
+| Fine webbing, yellow stippling | Spider mites | Mackerel FAA 1:500 + OHN 1:500; increase humidity; predatory mites |
 | Tiny black flies at soil | Fungus gnats | Let soil dry; LAB 1:500 soil drench; BTi |
 | Silver streaks, black dots | Thrips | OHN 1:500 + neem FPJ; blue sticky traps |
 | Clusters on new growth | Aphids | OHN 1:500; ladybugs; neem FPJ |
 | White flying insects | Whiteflies | OHN 1:500; yellow sticky traps |
-| White powder on leaves | [[cervantes-powdery-mildew-prevention-treatment]] | OHN 1:500 (cinnamon antifungal); milk spray 1:9; improve airflow |
+| White powder on leaves | Powdery mildew | OHN 1:500 (cinnamon antifungal); milk spray 1:9; improve airflow |
 | Brown mushy buds | Bud rot (Botrytis) | Remove affected buds; reduce humidity <50%; OHN 1:500 preventive |
 | Wilting, brown roots | Root rot | Improve drainage; LAB 1:500 soil drench; H2O2 1:4 |
 
@@ -140,10 +140,11 @@ For weakened, stressed, or recovering crops (Cho's formula):
 | BRV | 2 ml |
 | OHN | 1 ml |
 | FAA | 1 ml (if N-deficient) |
-| WS-Ca | 1 ml (if over-luxurious/soft) |
 
-Apply every 3-5 days until recovery visible. Works for transplant shock, pest damage recovery, nutrient burn recovery.
+## See Also
 
-## Seawater Use
-
-Seawater provides full-spectrum minerals (Na, Mg, K, Ca, plus 70+ trace elements). Use surface seawater diluted 1:30.
+- [[mushroom-cultivation-troubleshooting]]
+- [[mushroom-contamination-identification]]
+- [[oss-oeric-contamination-troubleshooting]]
+- [[pf-tek-non-germination-troubleshooting]]
+- [[mushroom-troubleshooting]]

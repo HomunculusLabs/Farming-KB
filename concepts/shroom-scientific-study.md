@@ -14,8 +14,7 @@ updated: 2026-04-24
 
 The scientific study of psychoactive mushrooms encompasses mycology,
 taxonomy, chemistry, and pharmacology. The identification, classification,
-and [[challenges-neurotropic-fungi-chemical-analysis-taxonomic-identification]] of psilocybin-containing species involved some of
-the [[coleman-louis-savier-twentieth-century-maraicher]]'s most distinguished mycologists and chemists,
+and [[coleman-louis-savier-twentieth-century-maraicher]]'s most distinguished mycologists and chemists,
 including Roger Heim, gordon-wasson, Rolf Singer, and Richard Evans
 Schultes. Their work transformed magic mushrooms from obscure
 poisonous-looking fungi into chemically understood organisms whose
@@ -25,12 +24,7 @@ active compounds could be isolated, synthesised, and studied.
 
 There are currently around 186 known psilocybin species -- the figure
 is rising all the time -- of which 76 occur in Mexico alone. The most
-important species include [[psilocybe-cubensis]], a
-tropical and subtropical species widely distributed through the
-Americas and beyond.
-
-The Liberty Cap was first described by the Swedish mycologist Elias
-Magnus Fries in the early [[mckenna-club-des-hachischins-and-nineteenth-century-literary-hashish]], though its psychoactive
+important species include [[mckenna-club-des-hachischins-and-nineteenth-century-literary-hashish]], though its psychoactive
 properties were not recognised until the 1960s. The American mycologist
 Franklin Sumner Earle first described Psilocybe cubensis at the turn of
 the twentieth century. The pioneer of fungal taxonomy established the

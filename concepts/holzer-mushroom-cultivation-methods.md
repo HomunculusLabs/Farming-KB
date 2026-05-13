@@ -31,40 +31,16 @@ Mushrooms are low in calories, rich in vitamins and minerals, high in fibre, and
 
 ## Growing Mushrooms on Wood
 
-Most mushrooms that grow on wood are cultivated in almost exactly the same way, with differences limited to slight preferences in log size, type of wood, [[greg-green-temperature-and-humidity-control]]. The mushroom culture should be started in spring, giving the mycelium time to colonise the wood before frost.
+Most mushrooms that grow on wood are cultivated in almost exactly the same way, with differences limited to slight preferences in log size, type of wood, [[holzer-permaculture-landscape-design]] | [[holzer-mushroom-cultivation-outdoor-beds]]
 
-Only uncontaminated raw materials should be used. Mushrooms can absorb harmful substances and retain them. Trees near busy roads or industrial areas usually contain large amounts of heavy metals, making logs unsuitable for mushroom cultivation.
-
-Mushroom cultivation does not require large amounts of space. It is possible to grow enough mushrooms for personal consumption on just a 2m2 balcony.
-
-[[holzer-permaculture-landscape-design]] | [[shiitake-cultivation-guide]] | [[holzer-mushroom-cultivation-outdoor-beds]]
-
-Related topics in this wiki include: [[sepp-holzer-method]], [[sepp-holzer-terracing-and-hugelkultur]], [[holzer-raised-bed-design-principles]], [[holzer-microclimates-permaculture]], [[holzer-assessing-the-land]], [[holzer-terrace-construction-guide]].
+Related topics in this wiki include: [[sepp-holzer-terracing-and-hugelkultur]], [[holzer-microclimates-permaculture]], [[holzer-terrace-construction-guide]].
 
 Sepp Holzer began farming on his family's steep mountain land in Austria as a teenager, learning through experimentation.
 The Krameterhof demonstrates that high-altitude farms can be more productive than conventional lowland operations.
-Holzer's fish ponds serve multiple functions: aquaculture, irrigation, fire protection, and [[mollison-designers-microclimate-creation-frost-protection]].
-[[holzer-terrace-construction-guide]] on slopes prevents erosion while creating level planting areas with improved water retention.
+Holzer's fish ponds serve multiple functions: aquaculture, irrigation, fire protection, and [[holzer-terrace-construction-guide]] on slopes prevents erosion while creating level planting areas with improved water retention.
 Mushroom cultivation on logs and in raised beds provides additional food production and aids decomposition.
 Holzer's pig paddock system uses animals to root and fertilize soil in controlled areas before planting.
-Ancient grain varieties selected for mountain conditions show superior resilience and [[coleman-winter-greens-nutritional-quality-cold-sweetening]].
-## Practical Considerations
-
-When working with Holzer Mushroom Cultivation Methods, several practical factors should be
-carefully considered to achieve optimal results. These include
-the specific conditions of the implementation context, available
-resources, timing requirements, and the interactions between this
-topic and other elements of the broader system. A holistic view
-that considers these interconnections produces better outcomes.
-
-Environmental conditions such as temperature, moisture, and
-seasonal patterns significantly influence results. Monitoring these
-variables and adapting practices accordingly is essential for success.
-The most effective practitioners develop keen observation skills and
-respond flexibly to changing conditions rather than following rigid
-protocols regardless of circumstances or local variation.
-
-[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
+Ancient grain varieties selected for mountain conditions show superior resilience and [[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -111,8 +87,6 @@ through generations to modern scientific approaches, the evolution continues
 to inform current best practices and research directions.
 
 ## See Also
-- [[holzer-mushroom-cultivation]]
 - [[mushroom-cultivation-methods]]
-- [[mushroom-cultivation]]
 - [[sepp-holzer]]
 - [[doc]]

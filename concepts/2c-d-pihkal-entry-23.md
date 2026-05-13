@@ -13,7 +13,7 @@ LE-25; 2,5-Dimethoxy-4-methylphenethylamine
 
 ## Overview
 
-2C-D is a member [[2c-family-chemistry-and-sar-pihkal]] known for its role as "pharmacological tofu" -- a [[allegro-death-and-resurrection-in-the-mushroom-cult]] phenethylamine pharmacopeia as a communication-facilitating and therapy-oriented tool. At heroic doses (150 mg), it becomes a fully-fledged psychedelic comparable to 2c d [[beatrice-pihkal-entry-11]] 23.
+2C-D is a member [[allegro-death-and-resurrection-in-the-mushroom-cult]] phenethylamine pharmacopeia as a communication-facilitating and therapy-oriented tool. At heroic doses (150 mg), it becomes a fully-fledged psychedelic comparable to 2c d [[beatrice-pihkal-entry-11]] 23.
 
 ## Chemical Information
 
@@ -42,16 +42,7 @@ Note: The dose range is exceptionally wide (20-150 mg), reflecting the compound'
 ## Effects and Qualitative Commentary
 
 ### 10 mg ("Smart Pill" Level)
-Subtle but noticeable. Users report an ability to "slightly redirect attention" more precisely to the task at hand. A feeling of enhanced learning capacity. Described as a "smart pill" -- one [[allegro-end-of-a-road-motivation]] the first hour. Described as difficult to classify -- not quite defined as psychedelic, not quite something else. Users note they might not want to go higher but could imagine benefit from going lower (10-15 mg). The compound defies easy labeling.
-
-### 45 mg
-A rapid "rocket" from the half-hour to the 1.5-hour mark, going from nothing to a +++. Intimacy and eroticism are present but don't fully integrate. Users feel they are "always waiting for the experience to come home." Conversation is extremely easy. Good appetite. Down by the fifth hour with comfortable sleep. "This compound will take some learning."
-
-### 75 mg
-A +++ experience emphasizing talk and communication over personal interaction. Users report "putting out" while maintaining personal boundaries intact. Communication described as "excellent." Sleep possible at the sixth hour. Fast onset, moderate duration. Proposed as a "therapy tool."
-
-### 150 mg (German therapeutic research)
-A "truly remarkable psychedelic" that "could compare favorably with 2C-B." Intense colors characterize the experience, with the sense that more would be too much. This is the dose at which 2C-D transforms from its teasing, ambiguous nature into a fully-realized [[shulgin-a-pihkal-2c-t-7-25-dimethoxy-4-propylthiophenethylamine]] of potency loss from the amphetamine to the phenethylamine form. [DOM (the amphetamine homologue) is active at approximately 3 mg, while 2C-D requires 20-60 mg for comparable effects -- roughly one-tenth the potency. This pattern of reduced potency in the 2-carbon vs 3-carbon form is common but particularly pronounced in the methyl-substituted series.
+Subtle but noticeable. Users report an ability to "slightly redirect attention" more precisely to the task at hand. A feeling of enhanced learning capacity. Described as a "smart pill" -- one [[shulgin-a-pihkal-2c-t-7-25-dimethoxy-4-propylthiophenethylamine]] of potency loss from the amphetamine to the phenethylamine form. [DOM (the amphetamine homologue) is active at approximately 3 mg, while 2C-D requires 20-60 mg for comparable effects -- roughly one-tenth the potency. This pattern of reduced potency in the 2-carbon vs 3-carbon form is common but particularly pronounced in the methyl-substituted series.
 
 ### Tweetio Homologues (Ethoxy Variants)
 
@@ -72,8 +63,7 @@ Synthesized from toluhydroquinone via methylation with dimethyl sulfate to give 
 ## Comparison to Related Compounds
 
 - [DOM (STP): The amphetamine homologue, active at 3-10 mg with 14-20 hour duration. DOM is dramatically more potent (10x) and much longer-lasting. DOM is a classical psychedelic; 2C-D is a gentle, ambiguous communicator.
-- 2c d [[harm-reduction-guide]] for general psychedelic safety.
-- The [[set-and-setting-framework]] is essential, especially at higher doses.
+- 2c d [[set-and-setting-framework]] is essential, especially at higher doses.
 - See [legal context for jurisdictional status.
 
 ## Practical Context
@@ -96,36 +86,8 @@ of visible changes. Recording these factors makes the page easier to connect
 The development and understanding of 2c d pihkal entry 23 has evolved considerably over recent decades, with contributions from researchers, practitioners, and indigenous knowledge systems worldwide.
 
 ## See Also
-- [[2c-t-4-pihkal-entry-41]]
 - [[2c-i-pihkal-entry-33]]
-- [[2c-e-pihkal-entry-24]]
 - [[aem-pihkal-entry-1]]
-- [[aleph-7-pihkal-entry-7]]
-
-## Key Considerations
-
-Several important factors influence the effectiveness and outcomes described
-in this topic. Understanding these considerations helps practitioners make
-informed decisions and avoid common pitfalls. Environmental conditions,
-timing, and material selection all play critical roles.
-
-## Historical Context
-
-The historical development of this subject reflects centuries of accumulated
-knowledge and practical experience. From traditional methods passed down
-through generations to modern scientific approaches, the evolution continues
-to inform current best practices and research directions.
-
-## Common Challenges
-
-Practitioners frequently encounter several challenges when working with
-these concepts. Climate variability, resource limitations, and knowledge
-gaps can all affect outcomes. Addressing these challenges requires patience,
-observation, and a willingness to adapt approaches based on results.
-
-## See Also
 - [[dom]]
-- [[2c-d]]
 - [[lsm]]
-- [[bis-tom-pihkal-entry-12]]
 - [[pihkal-entry-46]]

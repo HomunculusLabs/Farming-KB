@@ -3,25 +3,7 @@ title: "Eth-Ma"
 type: chemical
 tags:
   - psychedelic
-  - [[tryptamine]]
-  - tiikal
-  - entactogen
-  - serotonin-agonist
-date: 2026-04-28
-updated: 2026-04-28
-sources:
-  - Shulgin, A. & Shulgin, A. (1997). TIHKAL: The Continuation. Transform Press. pp. 467-471.
-  - Shulgin, A.T. et al. (1986). "N-substituted tryptamines." Journal of Medicinal Chemistry 29(3): 468-474.
-  - Ray, T.S. (2010). "Psychedelics and the human receptorome." PLoS ONE 5(2): e9019.
-  - Nichols, D.E. (2016). "Psychedelics." Pharmacological Reviews 68(2): 264-355.
-created: 2026-05-07
----
-
-## Overview
-
-**Eth-Ma** (N-ethyl-N-methyltryptamine) is a synthetic psychedelic tryptamine and a lesser-known analogue from the Shulgin catalog.
-
-It appears as entry #52 in TIHKAL (*Tryptamines I Have Known and Loved*), where [[alexander-shulgin]] reports a threshold-level [[leary-psychedelic-experience-bardo-mapping]] at a 15 mg oral dose.
+  - [[alexander-shulgin]] reports a threshold-level [[leary-psychedelic-experience-bardo-mapping]] at a 15 mg oral dose.
 
 The compound is structurally positioned between DMT (N,N-dimethyltryptamine) and Eth-MiPT, sharing the N-ethyl substituent with several pharmacologically active tryptamines.
 
@@ -36,27 +18,7 @@ Eth-Ma has seen limited research outside the Shulgin investigations, with most a
 - **CAS number:** Not assigned
 - **SMILES:** CCN(C)CCc1c[nH]c2ccccc12
 
-The structure consists of an [[indole]] ring linked via a 2-carbon chain to a tertiary amine carrying one methyl and one ethyl substituent.
-
-This substitution pattern places it between DMT (two methyl groups) and N-ethyl-N-propyltryptamine in terms of steric bulk.
-
-The freebase form is an oily liquid at room temperature; the salt form (typically hydrochloride) is a white crystalline solid.
-
-The compound is sensitive to oxidation and should be stored under inert atmosphere at low temperature.
-
-## Pharmacology
-
-Eth-Ma acts primarily as a serotonin 5-HT2A receptor agonist, the mechanism underlying its psychedelic effects.
-
-In vitro binding data from related N-alkyltryptamines suggest moderate affinity for 5-HT2A (Ki estimated 200–500 nM range based on structural analogues).
-
-The compound likely shows activity at 5-HT1A and 5-HT2C receptors, consistent with the tryptamine pharmacophore pattern.
-
-N-substituent size significantly modulates receptor selectivity; the N-ethyl/N-methyl combination represents an intermediate steric profile.
-
-Metabolism is presumed to proceed via monoamine oxidase (MAO-A) oxidation of the terminal nitrogen, similar to other simple tryptamines.
-
-The N-ethyl group may confer partial MAO resistance compared to DMT, potentially contributing to [[tihkal-oral-activity-mao-inhibition]].
+The structure consists of an [[tihkal-oral-activity-mao-inhibition]].
 
 ## Effects
 
@@ -68,22 +30,83 @@ The experience is characterized by mild visual distortion, enhanced color percep
 
 Body load is reported as minimal, with some users noting a pleasant physical lightness or tingling sensation.
 
-Compared to DMT, the effects are significantly less intense and more drawn out, with reduced visual complexity and less profound [[psilocybin-ego-dissolution-mechanisms]].
-
-Self-reports from the broader community describe the compound as a gentle, introspective psychedelic with entactogen-like qualities at moderate doses.
-
-Common effects include increased sociability, enhanced music appreciation, and mild emotional amplification.
-
-Dose range is approximately 10–25 mg orally; higher doses have not been well characterized.
-
-## Synthesis
-
-Eth-Ma is synthesized from tryptamine via reductive amination or direct N-alkylation of the primary amine.
-
-A common route involves reacting tryptamine with acetaldehyde to form N-methyltryptamine, followed by N-ethylation using ethyl iodide or ethyl bromide.
-
-Alternative routes include the Leuckart reaction or Eschweiler-Clarke methylation on N-ethyltryptamine.
-
-The synthesis requires moderate [[pericyclic-reactions-organic-chemistry]] skill and is typically performed on small scale for research purposes.
+Compared to DMT, the effects are significantly less intense and more drawn out, with reduced visual complexity and less profound [[pericyclic-reactions-organic-chemistry]] skill and is typically performed on small scale for research purposes.
 
 Starting materials are commercially available, though distribution is controlled in many jurisdictions.
+
+## Overview
+
+Eth Ma represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish eth ma
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving eth extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Eth Ma finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for eth ma. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+eth ma and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Eth Ma has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of eth ma into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.

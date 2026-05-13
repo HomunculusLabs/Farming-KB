@@ -16,28 +16,12 @@ type: concept
 
 # SOG, ScrOG, and Advanced Indoor Grow Methods
 
-Chapter 8 of Greg Green's [[green-cannabis-grow-bible-breeding-genetics-and-true-breeding]] covers advanced indoor
-[[cannabis-advanced-refinement-fractional-distillation]] that maximize yield by concentrating on top cola
-production. The three most common methods are SOG ([[comparison-sea-of-green-vs-screen-of-green]]),
-ScrOG ([[cannabis-screen-of-green-scrog-guide]]), and Cabinet Growing.
+Chapter 8 of Greg Green's [[cannabis-advanced-refinement-fractional-distillation]] that maximize yield by concentrating on top cola
+production. The three most common methods are SOG ([[cannabis-screen-of-green-scrog-guide]]), and Cabinet Growing.
 
 ## The Principle Behind Advanced Methods
 
-The bottom branches of [[query-how-to-set-up-an-indoor-cannabis-grow-on-a-budget]] plants do not catch much light
-from HID fixtures and are mostly fan leaves that are not good to smoke.
-The top cola produces the most bud. Advanced methods create setups that
-concentrate on the top part of the plant, producing seriously large
-top colas. These methods work with soil or hydroponics.
-
-## SOG (Sea of Green)
-
-SOG is a high-density growing method that produces a full canopy of bud:
-
-1. Grow plants normally until they flower and you can select the best
-   female.
-2. Take cuttings from the chosen mother plant and root them.
-3. Create as many clones as will fit in your grow setup.
-4. SOG targets 1 plant per [[comparison-biointensive-vs-square-foot-gardening]] or even 1 per 0.10 square feet.
+The bottom branches of [[comparison-biointensive-vs-square-foot-gardening]] or even 1 per 0.10 square feet.
 5. Use tube-shaped pots (longer depth than width) to pack in maximum
    plants.
 6. Plant all clones at the same time. No new plants are introduced
@@ -49,20 +33,7 @@ flowering mother will start flowering as soon as 12/12 begins. The
 result is a full canopy of bud, hence "Sea of Green."
 
 SOG enables large bud quantity turnover every 2 months. Using clones
-means you only grow them for the remainder of their [[what-a-plant-knows-photoperiodism-flowering-time-measurement]].
-
-## ScrOG (Screen of Green)
-
-ScrOG uses fewer plants than SOG combined with a training screen:
-
-1. A wire mesh screen is placed between the light and the plants.
-2. Use clones from a female plant (like SOG).
-3. Allow at least 1 square foot per flowering plant (fewer plants than
-   SOG).
-4. Do not flower until plants have covered the entire mesh with green.
-5. Train plants to grow horizontally under the screen by weaving
-   branches through the netting.
-6. Continue training for 2 weeks into the [[cannabis-sativa-flowering-cycle-management]], then let
+means you only grow them for the remainder of their [[cannabis-sativa-flowering-cycle-management]], then let
    tops grow vertically through the screen.
 7. Train main growing tops to the outside of the screen (they grow
    tallest).
@@ -118,8 +89,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[greg-green]]
 - [[sea-of-green]]
-- [[screen-of-green]]
 - [[photoperiodism]]
 - [[green-cannabis-grow-bible-breeding-genetics-and-true-breeding]]

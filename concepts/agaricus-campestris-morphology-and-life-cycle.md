@@ -1,36 +1,15 @@
 
-# [[agaricus-campestris]]: Morphology and Life Cycle
-
-## Overview
-
-Agaricus campestris, the field mushroom, is the most widely cultivated mushroom
-species and the foundation of commercial [[spore-print]]
+# [[spore-print]]
 — a brownish-black powder deposit reproducing the gill pattern.
 
 ### Spore Structure
 
 Spores are minute, simple ovate cells — the reproductive bodies of all fungi.
 While often compared to seeds, they differ fundamentally in structure and
-development. Each spore is a [[fungal-single-cell-protein-production]] containing the genetic material needed
-to produce a new fungal organism.
-
-### The Hymenium
-
-The entire gill surface is the hymenium (spore-bearing layer), studded with
-erect cells in palisade arrangement. Each cell (basidium) bears 2 to 4 spores
-and is the site of meiosis, producing genetically diverse progeny.
-
-## Vegetative Phase: [[mycelium]] and Spawn
+development. Each spore is a [[mycelium]] and Spawn
 
 Spores serve natural reproduction but cannot be used directly by growers. Each
-spore germinates under favorable conditions to produce a [[bloomfield-rust-germ-tube-tactile-sensing-leaf-surface-navigation]], which
-develops into the filamentous growth called mycelium. The mycelium branches and
-ramifies through the substratum, forming an extensive network of thread-like
-hyphae — the vegetative body of the fungus, serving both absorptive and storage
-functions.
-
-When mushroom-spawn-and-mycelium-biology
-- [[pure-culture-spawn-method-duggar-usda-1902]]-spawn-making
+spore germinates under favorable conditions to produce a [[pure-culture-spawn-method-duggar-usda-1902]]-spawn-making
 ## Practical Applications
 
 Agaricus agaricus campestris morphology and life cycle And Life Cycle has a range of practical applications that make it relevant to
@@ -97,8 +76,6 @@ through generations to modern scientific approaches, the evolution continues
 to inform current best practices and research directions.
 
 ## See Also
-- [[agaricus-campestris]]
 - [[agaricus-campestris-biology-and-life-cycle]]
-- [[doc]]
 - [[det]]
 - [[spore]]

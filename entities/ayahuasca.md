@@ -36,38 +36,8 @@ Ayahuasca has been used for centuries — possibly millennia — in shamanic, he
 
 The classical ayahuasca brew contains two essential components:
 
-1. **[[psychotria-viridis]]** (chacruna) or **[[peganum-harmala]] ([[syrian-rue]]) seeds + Mimosa tenuiflora root bark
-- **Jurema:** Mimosa tenuiflora (jurema preta) + P. harmala
-- **Changa:** A smokable blend of DMT-infused herbs with harmala alkaloids, developed in the early 2000s by Australian psychonauts
-
-## Pharmacology
-
-### Mechanism of Oral Activation
-
-The essential pharmacological innovation of ayahuasca is the MAO-A inhibition that allows DMT to reach the central nervous system via oral administration. The β-carboline alkaloids from B. caapi reversibly inhibit MAO-A in the intestinal wall and liver, blocking the oxidative deamination of DMT during first-pass metabolism. This increases DMT oral bioavailability from near-zero (normally <1%) to therapeutic levels.
-
-### Receptor Activity
-
-- **DMT:** High affinity for 5-HT₂A (Ki ≈ 30–50 nM), 5-HT₂C, and sigma-1 receptors; also binds 5-HT₁A and TAAR1
-- **Harmine:** Moderate affinity for 5-HT₂A (Ki ≈ 1–5 μM), 5-HT₂C, and benzodiazepine site of GABA_A; also inhibits CDK5 and DYRK1A kinases
-- **THH:** Inhibits serotonin reuptake (SERT), contributing to mood-elevating effects
-- **Sigma-1 receptor activation** by DMT and harmaline may contribute to neuroprotective and anti-inflammatory effects
-
-### Pharmacokinetics
-
-- **Onset:** 20–60 minutes after ingestion
-- **Peak effects:** 1.5–3 hours
-- **Duration:** 4–6 hours (occasionally up to 8 hours)
-- **Elimination:** Primarily hepatic via MAO and CYP2D6 metabolism; individual CYP2D6 polymorphisms significantly affect duration and intensity
-
-## Traditional and Cultural Use
-
-## See Also
-
-- [[ayahuasca-chemistry-mao-inhibition-synergy]]
-- [[ayahuasca-christian-coexistence-missionary-peru]]
+1. **[[peganum-harmala]] ([[ayahuasca-chemistry-mao-inhibition-synergy]]
 - [[ayahuasca-commercial-vs-authentic-ceremony-dynamics]]
-- [[ayahuasca-pharmacology-and-safety]]
 - [[ayahuasca-shamanism-economics]]
 
 ## Merged: Amazonian Mythological Beings in Pablo Amaringo's Visionary World
@@ -91,3 +61,88 @@ The Sachamama ("mother of the forest") is a serpent of colossal proportions,
 so thoroughly integrated with the landscape that trees and weeds grow on her
 body. She may remain stationary for hundreds of years in a single location,
 becoming indistinguishable from a small hill or earthen mound. A small pond
+
+## Overview
+
+Ayahuasca represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish ayahuasca
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving ayahuasca extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Ayahuasca finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for ayahuasca. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+ayahuasca and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Ayahuasca has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of ayahuasca into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[ayahuasca-pharmacology-and-safety]]
+- [[ayahuasca-tourism-ethics-and-commodification]]
+- [[ayahuasca-tourism-ethnography]]
+- [[ayahuasca-tourism-medical-risks-prescription-interactions]]
+- [[ayahuasca-tourism-shaman-character-evaluation]]

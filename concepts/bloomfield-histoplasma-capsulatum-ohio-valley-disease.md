@@ -1,28 +1,10 @@
 ---
-title: Bloomfield Histoplasma Capsulatum Ohio Valley Disease
+title: Bloomfield [[histoplasma-capsulatum]] Ohio Valley Disease
 source: "Mr. Bloomfield's Orchard, Nicholas P. Money (2002)"
-topic: "Histoplasma capsulatum, Ohio Valley disease, histoplasmosis, bird droppings, fungal spores"
+topic: "[[histoplasma-capsulatum-ohio-valley-disease-dimorphic-fungus]], Ohio Valley disease, histoplasmosis, bird droppings, fungal spores"
 type: concept
 tags:
-  - [[mycology]]
-  - Histoplasma-capsulatum
-  - histoplasmosis
-  - Ohio-Valley-disease
-  - Ajellomyces
-  - Kwon-Chung
-  - bird-droppings
-  - starlings
-  - fungal-spores
-  - respiratory-infection
----
-
-# Histoplasma capsulatum and Ohio Valley Disease (Histoplasmosis)
-
-## Overview
-
-*Histoplasma capsulatum* is the causative agent of histoplasmosis, a fungal
-respiratory disease so intimately associated with the Ohio River Valley that
-it earned the colloquial name **Ohio Valley disease**. As [[nicholas-money]]
+  - [[nicholas-money]]
 recounts in *Mr. Bloomfield's Orchard*, this dimorphic fungus inhabits soil
 enriched with bird and bat droppings and is so prevalent in certain regions
 that most residents have been silently colonized without ever knowing it. The
@@ -35,10 +17,7 @@ and human health.
 
 The discovery of the sexual stage of *Histoplasma capsulatum* was a
 significant contribution by **Kwang-Won Kwon-Chung**, the same mycologist
-whose work on *[[bloomfield-cryptococcus-neoformans-capsule-melanin-brain]]* transformed understanding of that
-pathogen. Kwon-Chung demonstrated that *Histoplasma* has a teleomorph (sexual
-stage) classified in the genus **Ajellomyces** (specifically *Ajellomyces
-capsulatus*). This placed *Histoplasma* within the [[ascomycota]], revealing an
+whose work on *[[ascomycota]], revealing an
 unsuspected connection between a major human pathogen and a group of fungi
 better known as decomposers and plant symbionts.
 

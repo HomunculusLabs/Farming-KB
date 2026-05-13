@@ -26,19 +26,7 @@ The German Commission E, a regulatory body that evaluated herbal medicines, has 
 
 Gentian root (Gentiana lutea) is considered the archetypal bitter herb. It contains gentiopicroside and amarogentin, among the most intensely bitter compounds known. Gentian is used as a digestive tonic, appetite stimulant, and bile stimulant. It is typically taken as a tincture or tea 15 to 30 minutes before meals. Dose is low due to extreme bitterness: 10 to 20 drops of tincture or a small cup of weak tea.
 
-Dandelion root (Taraxacum officinale) is a widely available bitter tonic that also supports liver function and acts as a mild diuretic. Its bitterness is moderate compared to gentian, making it more palatable for regular use. Dandelion root is prepared as a decoction, tincture, or roasted as a coffee substitute. The roasted form loses some bitter principles but is a pleasant beverage. See [[herbal-medicine-preparation-methods]] for cold infusion instructions.
-
-Slippery elm bark (Ulmus rubra) is another important demulcent, traditionally used for sore throats and gastrointestinal inflammation. Its powdered bark can be mixed with water to create a soothing gruel. The mucilage forms a protective barrier over irritated tissue.
-
-Licorice root (Glycyrrhiza glabra) is a demulcent with additional anti-inflammatory, expectorant, and mildly laxative properties. Deglycyrrhizinated licorice (DGL) is preferred for long-term use, as it retains the gut-healing benefits without the blood pressure-elevating effects of glycyrrhizin. DGL chewable tablets are a well-studied treatment for peptic ulcers.
-
-## Digestive Spices in Traditional Practice
-
-The [[blesching-cannabis-health-index-autoimmune-conditions]] references the traditional Cuban use of cinnamon infusion for stimulating digestion and treating digestive problems. Cinnamon (Cinnamomum zeylanicum) bark contains cinnamaldehyde, which has demonstrated carminative, antiemetic, and [[mycelium-running-mushroom-antimicrobial-properties-species-chart]]. Cinnamon tea is a warming digestive preparation, especially for cold-type indigestion with bloating and gas.
-
-Turmeric (Curcuma longa) is another digestive spice with extensive research backing its anti-inflammatory properties. The German Commission E approved turmeric for digestive difficulties at specified doses. Curcumin, turmeric's primary active compound, stimulates bile production and has protective effects on the gastric mucosa.
-
-Permaculture plant references note that many traditional food plants have dual roles as digestive remedies. Plants listed in [[comparison-companion-planting-reference-vs-jadam-monoculture-critique]] and food forest literature frequently include digestive herbs such as fennel, dill, anise, balm, and chamomile, reflecting their historical integration into daily life as both food and medicine.
+Dandelion root (Taraxacum officinale) is a widely available bitter tonic that also supports liver function and acts as a mild diuretic. Its bitterness is moderate compared to gentian, making it more palatable for regular use. Dandelion root is prepared as a decoction, tincture, or roasted as a coffee substitute. The roasted form loses some bitter principles but is a pleasant beverage. See [[blesching-cannabis-health-index-autoimmune-conditions]] references the traditional Cuban use of cinnamon infusion for stimulating digestion and treating digestive problems. Cinnamon (Cinnamomum zeylanicum) bark contains cinnamaldehyde, which has demonstrated carminative, antiemetic, and [[comparison-companion-planting-reference-vs-jadam-monoculture-critique]] and food forest literature frequently include digestive herbs such as fennel, dill, anise, balm, and chamomile, reflecting their historical integration into daily life as both food and medicine.
 
 ## Formulation and Timing
 
@@ -46,34 +34,11 @@ Digestive herb formulas typically combine bitters, carminatives, and sometimes d
 
 Timing is important for digestive herbs. Bitters and carminatives are most effective when taken 15 to 30 minutes before meals. Demulcents are best taken between meals or after meals when they will coat the stomach without interfering with digestion. Laxative herbs are typically taken at bedtime for morning effect.
 
-For chronic digestive complaints, consistent use over four to eight weeks is often needed for significant improvement. Acute complaints (indigestion after a heavy meal, gas, mild nausea) respond more quickly, often within minutes for carminative teas and tinctures. See [[herbal-formulation-principles]] for specific dosing recommendations.
+For chronic digestive complaints, consistent use over four to eight weeks is often needed for significant improvement. Acute complaints (indigestion after a heavy meal, gas, mild nausea) respond more quickly, often within minutes for carminative teas and tinctures. See [[immune-modulating-mushrooms-and-herbs]] Topics
 
-## Related
-
-- [[immune-modulating-mushrooms-and-herbs]] Topics
-
-- [[herbal-materia-medica]] — Detailed profiles of individual digestive herbs
 - [[herbal-formulation-principles]] — Dosing recommendations
-- [[herbal-formulation-principles]] — Herbs for gastrointestinal inflammation
 - [[medicinal-mushroom-antioxidant-anti-inflammatory]]
-- [[cannabis-anti-inflammatory-applications]]
-## Practical Considerations
-
-When working with Digestive Herbs and Bitters, several practical factors should be
-carefully considered to achieve optimal results. These include
-the specific conditions of the implementation context, available
-resources, timing requirements, and the interactions between this
-topic and other elements of the broader system. A holistic view
-that considers these interconnections produces better outcomes.
-
-Environmental conditions such as temperature, moisture, and
-seasonal patterns significantly influence results. Monitoring these
-variables and adapting practices accordingly is essential for success.
-The most effective practitioners develop keen observation skills and
-respond flexibly to changing conditions rather than following rigid
-protocols regardless of circumstances or local variation.
-
-[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
+- [[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -111,8 +76,6 @@ through generations to modern scientific approaches, the evolution continues
 to inform current best practices and research directions.
 
 ## See Also
-- [[glycyrrhiza-glabra]]
 - [[doc]]
-- [[herbal-medicine]]
 - [[gentiana-lutea]]
 - [[det]]

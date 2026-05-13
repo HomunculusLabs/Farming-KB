@@ -21,25 +21,7 @@ sources:
 
 White yam accounts for approximately 70–75% of total yam production worldwide, with Nigeria alone producing over 50 million tonnes annually. The species is a dietary staple for over 300 million people across the yam belt of West Africa.
 
-The tubers are rich in complex carbohydrates and serve as a critical food security crop in regions where cereals and other staples are unreliable. White yam also holds deep [[ethnomycology-cultural-significance-sacred-fungi]] in traditional ceremonies and social systems.
-
-## Taxonomy and Morphology
-
-**Dioscorea rotundata** Poir. belongs to the family Dioscoreaceae, order Dioscoreales. The genus *Dioscorea* contains over 600 species, of which approximately 10 are cultivated for edible tubers.
-
-The plant is a dioecious climbing vine with stems reaching 3–12 meters in length. Stems are typically angular and twine clockwise around support structures, distinguishing them from *D. alata* which twines counter-clockwise.
-
-Leaves are broadly ovate to cordate, 10–25 cm long and 8–20 cm wide, with prominent palmate venation. The upper leaf surface is dark green and glabrous, while the lower surface may be slightly pubescent along veins.
-
-Tubers are cylindrical to oblong, weighing 1–5 kg in cultivated varieties, with some exceptional specimens exceeding 20 kg. The skin is thick, rough, and brown, while the flesh is white and firm.
-
-Flowers are small, greenish-yellow, and arranged in axillary spikes or panicles. Male and female flowers are borne on separate plants; fruit is a three-winged capsule containing flattened winged seeds.
-
-## Distribution and Habitat
-
-White yam is native to the savanna and forest-savanna transition zones of West Africa, from Senegal eastward to Cameroon and southward to the Democratic Republic of Congo. The species was domesticated in this region approximately 5,000–7,000 years ago.
-
-The crop thrives in tropical climates with annual rainfall of 1,000–1,500 mm distributed over a 6–8 month [[savory-growing-season-and-non-growing-season-management]]. It requires well-drained, sandy loam to loamy soils with pH 5.5–6.5 and moderate to high fertility.
+The tubers are rich in complex carbohydrates and serve as a critical food security crop in regions where cereals and other staples are unreliable. White yam also holds deep [[savory-growing-season-and-non-growing-season-management]]. It requires well-drained, sandy loam to loamy soils with pH 5.5–6.5 and moderate to high fertility.
 
 Optimal growth temperatures range from 25–30°C, with growth ceasing below 15°C. White yam is sensitive to waterlogging and heavy clay soils, though it tolerates seasonal drought once established through its deep root system.
 
@@ -71,20 +53,95 @@ The tubers contain dioscorine, a mildly toxic alkaloid that is destroyed by cook
 
 In traditional farming systems, white yam is intercropped with maize, cassava, cowpea, and vegetables in complex polycultures. The climbing habit allows yam to exploit vertical space above shorter companion crops.
 
-Yam contributes to soil health through the incorporation of crop residues and the [[hamilton-composting-and-organic-matter-management]] returned from discarded peelings and processing waste. The mounding practice used in yam cultivation helps aerate soil and manage weeds.
-
-In permaculture systems, white yam can be integrated into tropical food forests as a productive vine layer. It pairs well with nitrogen-fixing support trees that provide staking and partial shade.
-
-The crop faces increasing pressure from population growth, urbanization, and declining soil fertility across the yam belt. Conservation of genetic diversity through field gene banks and cryopreservation of meristems is a priority.
-
-## Pests and Diseases
-
-Yam nematode (*Scutellonema bradys*) is the most damaging pest of stored white yam, causing dry rot that can destroy up to 50% of tubers in traditional storage. The nematode infects tubers in the field and continues to develop during storage.
-
-Yam beetle (*Heteroligus meles*) attacks planting material by feeding on setts before emergence, reducing sprouting rates and plant establishment. Adults feed on tubers in the field, creating galleries that facilitate secondary [[blesching-cannabis-fungal-infections-candida]].
+Yam contributes to soil health through the incorporation of crop residues and the [[blesching-cannabis-fungal-infections-candida]].
 
 Anthracnose caused by *Colletotrichum gloeosporioides* is the most important foliar disease, producing dark lesions on leaves and stems. Severe infections can defoliate plants and reduce yields by 30–50%.
 
 [[cervantes-viral-diseases-cannabis]] including yam mosaic virus (YMV) and yam mild mosaic virus (YMMV) are widespread in West Africa. They are transmitted by aphids and through vegetative propagation, leading to progressive yield decline over successive generations.
 
 ## Breeding and Genetic Improvement
+
+## Overview
+
+Dioscorea Rotundata represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish dioscorea rotundata
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving dioscorea extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Dioscorea Rotundata finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for dioscorea rotundata. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+dioscorea rotundata and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Dioscorea Rotundata has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of dioscorea rotundata into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[dioscorea-alata]]
+- [[dioscorea-bulbifera]]
+- [[dioscorea-esculenta]]
+- [[dioscorea-trifida]]
+- [[mckenna-dioscorea-population-reproduction-effects]]

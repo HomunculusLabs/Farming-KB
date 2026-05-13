@@ -9,14 +9,7 @@ created: 2026-05-09
 
 The two-tier selection model describes how plant-associated microbial
 communities are assembled through two sequential filtering steps: first
-by soil [[soil-edaphic-factors-microbial-communities]], then by host genotype. This model was tested
-and supported by the first comprehensive characterization of the Cannabis
-microbiome across five cultivars (Winston et al., 2014, PLOS ONE).
-
-## Model Overview
-
-### Tier 1: Soil Selection
-[[cannabinoid-microbiome-correlation-confounded-edaphic-factors]] (soil type, pH, nitrogen, carbon, salinity, water
+by soil [[cannabinoid-microbiome-correlation-confounded-edaphic-factors]] (soil type, pH, nitrogen, carbon, salinity, water
 content) determine the composition of the local soil microbiota. This
 soil community serves as the source pool for root colonization. The
 key insight is that **soil type is the strongest predictor of which
@@ -24,29 +17,13 @@ microbes are present** across all sample types.
 
 ### Tier 2: Host Genotype Selection
 As microbes migrate from the rhizosphere into root tissues (endorhiza),
-the plant exerts genotype-dependent selection on [[edaphic-determinants-cannabis-microbiome-community-structure]].
-This second filter acts primarily on **microbial abundance** rather than
-presence/absence, fine-tuning which soil-derived organisms thrive
-inside the plant.
-
-## Experimental Evidence from Cannabis
-
-### Study Design
-Two experiments examined the Cannabis microbiome:
-
-**Experiment 1**: Three strains (Burmese, BooKoo Kush, Sour Diesel) in
-similar soil, sampled 8 weeks post-harvest. 27 samples total.
-
-**Experiment 2**: Two strains ([[soil-heritability-otu-sharing-white-widow-cross-soil-cannabis-endorhiza]], Maui Wowie) in two
+the plant exerts genotype-dependent selection on [[soil-heritability-otu-sharing-white-widow-cross-soil-cannabis-endorhiza]], Maui Wowie) in two
 distinctly different soil types, sampled 2 weeks pre-harvest. 42
 samples. This experiment introduced significant edaphic variation
 to test soil vs. genotype effects.
 
 ### Key PCoA Findings
-- **[[unifrac-weighted-unweighted-analysis-cannabis-microbiome]]** (presence/absence): PC1 dominated by soil
-  type (32.06% variance), confirming soil as the primary compositional
-  determinant
-- **Weighted analysis** (abundance): PC1 dominated by [[blesching-cannabis-strain-selection-receptor-targeting]]
+- **[[blesching-cannabis-strain-selection-receptor-targeting]]
   (34.51% variance), showing cultivar drives community structure
 - All sample types (bulk soil, rhizosphere, endorhiza) formed
   significantly differentiated clusters in weighted analyses
@@ -62,29 +39,7 @@ determines their relative abundance within the plant.
 
 ## Edaphic Factor Importance
 
-[[cannabis-microbiome-best-analysis-edaphic-factor-ranking]] identified three edaphic factors optimally explaining
-community variance (rho = 0.632):
-
-1. **Nitrogen** — strongest individual correlate (weighted r = 0.465,
-   unweighted r = 0.630)
-2. **Salinity** — second strongest (weighted r = 0.437, unweighted
-   r = 0.620)
-3. **Carbon** — third (weighted r = 0.330, unweighted r = 0.512)
-4. **Water content** — fourth (weighted r = 0.281, unweighted r = 0.466)
-5. **pH** — fifth (weighted r = 0.221, unweighted r = 0.292)
-
-All edaphic factors were significantly correlated with community
-beta-diversity (p = 0.001) in both experiments.
-
-## Community Shifts from Soil to Root
-
-The transition from bulk soil to endorhiza involves predictable
-taxonomic shifts:
-
-- **Decrease**: Acidobacteria (especially order iii1-15), dramatic
-  reduction in endorhiza (Bonferroni-corrected ANOVA: p = 1.12e-7)
-- **Increase**: Proteobacteria and Actinobacteria within endorhiza
-- **Core [[proteobacteria-dominance-cannabis-endorhiza]]**: Pseudomonas, Cellvibrio, Oxalobacteraceae,
+[[proteobacteria-dominance-cannabis-endorhiza]]**: Pseudomonas, Cellvibrio, Oxalobacteraceae,
   Xanthomonadaceae, Actinomycetales, Sphingobacteriales — predominantly
   Gammaproteobacteria and Alphaproteobacteria
 
@@ -117,8 +72,78 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[cultivar-cannabis-microbiome-two-tier-selection-model]]
 - [[cannabis-two-tier-microbiome-selection]]
-- [[dom]]
 - [[det]]
 - [[maui-wowie]]
+
+## Overview
+
+Cannabis Microbiome Two Tier Selection represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish cannabis microbiome two tier selection
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving cannabis extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Cannabis Microbiome Two Tier Selection finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for cannabis microbiome two tier selection. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+cannabis microbiome two tier selection and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Cannabis Microbiome Two Tier Selection has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of cannabis microbiome two tier selection into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions

@@ -9,7 +9,7 @@ tags: [plant, aquatic, water-purification, invasive, permaculture, nutrient-remo
 
 ## Description
 
-Water hyacinth (Eichhornia crassipes) is a free-floating perennial aquatic plant in the Pontederiaceae family, native to the Amazon basin of South America. Mollison describes it as a key species in biological water purification, specifically noting its use for removing residual metals, surplus nutrients, and coliform bacteria (including E. coli) from the aerobic stage of sewage treatment systems. Despite its value in water treatment, water hyacinth is one of the world's most invasive aquatic plants.
+Water hyacinth ([[eichhornia-crassipes]]) is a free-floating perennial aquatic plant in the Pontederiaceae family, native to the Amazon basin of South America. Mollison describes it as a key species in [[biological-water-purification]], specifically noting its use for removing residual metals, surplus nutrients, and coliform bacteria (including E. coli) from the aerobic stage of sewage treatment systems. Despite its value in water treatment, water hyacinth is one of the world's most invasive aquatic plants.
 
 ## Classification
 
@@ -87,8 +87,6 @@ all influence the optimal approach to implementation.
 
 ## See Also
 
-- [[cannabis-ice-water-extraction]]
 - [[cho-water-soluble-phosphoric-acid-preparation]]
-- [[grass-seed-substrate-water-calibration]]
 - [[holzer-water-landscapes]]
 - [[solomon-fertigation-bucket-drip-water-nutrient-delivery-system]]

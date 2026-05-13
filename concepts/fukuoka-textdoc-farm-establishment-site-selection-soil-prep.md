@@ -22,11 +22,9 @@ type: concept
 
 # Practical Farm Establishment, Site Selection, and Soil Preparation
 
-In *The Natural Way of Farming*, [[masanobu-fukuoka]] provides detailed
-guidance on establishing a [[fukuoka-creating-natural-farm-site-selection-establishment]] from scratch. This covers the
+In *The Natural Way of Farming*, [[fukuoka-creating-natural-farm-site-selection-establishment]] from scratch. This covers the
 critical decisions of site selection, land evaluation, soil management,
-and the [[query-how-to-transition-from-conventional-to-no-till-farming]] or degraded land to a
-self-sustaining [[comparison-natural-farming-vs-permaculture]] system. Unlike his philosophical
+and the [[comparison-natural-farming-vs-permaculture]] system. Unlike his philosophical
 chapters, this material is grounded in decades of practical experience.
 
 ## The Natural Farming Philosophy of Establishment
@@ -60,8 +58,7 @@ Gentle hillside land can be excellent if it receives adequate rainfall
 and has deep soil. Steep slopes present challenges for access and
 erosion, though Fukuoka notes that terracing, when done with natural
 materials and following the contour of the land, can convert difficult
-terrain into productive [[cotter-growing-space-design-fruiting-rooms]]. He cautions that large-scale
-terracing projects requiring [[jadam-soil-compaction-heavy-machinery]] almost always do more harm
+terrain into productive [[jadam-soil-compaction-heavy-machinery]] almost always do more harm
 than good by destroying the natural soil structure.
 
 ### Water Access
@@ -74,19 +71,7 @@ Natural water sources bring with them nutrients and microorganisms that
 support soil health.
 
 The presence of water also determines what can be grown. Rice, his
-primary crop, requires standing water during part of its [[query-how-do-i-use-knf-inputs-through-the-plant-growth-cycle]].
-Orchards need less water but benefit from consistent moisture. A good
-farm site offers a mix of wet and dry areas to support diverse cropping.
-
-### Evaluating Soil Quality
-
-Fukuoka takes a different approach to soil evaluation than conventional
-agriculture. Instead of sending samples to a laboratory for chemical
-analysis, he observes the native vegetation, soil color, texture,
-drainage, and the presence of earthworms and other soil organisms.
-
-Dark, crumbly soil with abundant earthworms indicates healthy, active
-soil life. Hard, compacted, pale soil with no visible [[hamilton-composting-and-organic-matter-management]]
+primary crop, requires standing water during part of its [[hamilton-composting-and-organic-matter-management]]
 suggests poor conditions. He notes that soil analysis can be misleading
 
 ## Practical Applications
@@ -118,8 +103,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[soil-life]]
 - [[fukuoka-creating-natural-farm-site-selection-establishment]]
-- [[det]]
 - [[composting]]
 - [[permaculture]]

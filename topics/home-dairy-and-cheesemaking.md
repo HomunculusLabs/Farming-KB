@@ -64,82 +64,14 @@ weeks, months, or an entire year.
 
 Modern home dairying combines traditional craft with contemporary sanitation
 and food-safety knowledge. Stainless steel pails, disposable filters,
-refrigeration, dairy thermometers, laboratory milk tests, and [[comparison-wild-fermentation-vs-commercial-starter-culture]]
-cultures make small-scale production more reliable than it was in earlier
-households. At the same time, many processes remain simple enough for a
-kitchen: a pot, thermometer, cloth, starter culture, and clean draining space
-can produce yogurt, chevre, ricotta, paneer, or kefir cheese.
-
-The subject also involves law and economics. Raw milk, aged cheese, and
-value-added dairy products are regulated differently across jurisdictions, and
-rules for sale often differ sharply from rules for family use. A household may
-legally milk its own animals and process the milk for private consumption, yet
-need licensing, inspections, labeled facilities, or specific aging periods to
-sell products. Thus home dairy is both a craft and a managed food system.
-
-## Historical Background
-
-Domestic dairying is among the oldest forms of food preservation. Cattle,
-goats, and sheep were milked not only for fresh consumption but also for foods
-that could travel, store, and tolerate variable climate. Fermented milk and
-fresh curd likely emerged from the natural souring of milk held in skin bags,
-wooden vessels, or earthenware. Cheesemaking developed as people learned that
-acid, rennet, heat, and drainage could separate milk into solid curd and liquid
-whey.
-
-In temperate farm households, the dairy was often a room, springhouse, or
-cellar dedicated to cool storage. Milk was set in shallow pans so cream would
-rise, cream was churned into butter, and skim milk was fed to pigs, chickens,
-or calves or made into simple cheeses. In mountain and pastoral regions, milk
-from goats and sheep became especially important because these animals could
-use rough grazing and browse inaccessible to cattle.
-
-Industrial dairying changed the scale and legal context of milk. Pasteurizers,
-centrifugal separators, mechanical refrigeration, and centralized creameries
-made commercial milk safer and more uniform. Household dairying persisted as a
-self-provisioning practice and later reappeared in homesteading, small-farm,
-and artisanal food movements. The contemporary home dairy therefore draws from
-both folk methods and microbiological control.
-
-## Dairy Animals
-
-The choice of dairy animal shapes every part of the home system. Cows provide
-the greatest volume and are well suited to households with pasture, hay
-storage, and the ability to use several gallons of milk per day. Jerseys and
-Guernseys are valued for rich, high-butterfat milk, while Holsteins provide
-larger volumes with lower butterfat. Dexter cattle occupy a smaller niche and
-may suit limited acreage where a full-sized family cow would produce excess
-milk.
-
-Goats are common in small homesteads because they require less land, housing,
-and feed than cows. Dairy breeds differ markedly. Saanens are high-volume
-producers, Nubians and Nigerian Dwarfs are valued for butterfat, Alpines and
-Toggenburgs are hardy and productive, and LaManchas are known for manageable
-temperament. Goat milk is naturally homogenized, with smaller fat globules that
-remain suspended; this gives it a creamy texture but makes gravity cream
-separation slower than with cow milk.
-
-## See Also
-
-faires-yogurt-and-sourdough-making
-[[goat-cheese-making]]
-[[raw-milk-guide]]
+refrigeration, dairy thermometers, laboratory milk tests, and [[goat-cheese-making]]
 [[cheese-making-basics]]
-[[mollison-designers-goat-dairy-and-cheese-production]]
 [[small-scale-dairy-guide]]
 kefir making
-[[homestead-dairy-guide]]
-faires-milking-goats-and-cows
 [[dairy-and-cheesemaking]]
-[[faires-dairy-processing-cheese-and-butter]]
 [[homestead-dairy-equipment]]
-[[food-fermentation-guide]]
 [[goat-keeping-guide]]
-[[pasture-management]]
-
-## References
-
-Faires, Nicole. The Ultimate Guide to [[comparison-natural-farming-vs-permaculture]] and [[natural-farming-sustainable-living-principles]].
+[[comparison-natural-farming-vs-permaculture]] and [[natural-farming-sustainable-living-principles]].
 
 Mollison, Bill. Permaculture: A Designers' Manual.
 

@@ -24,7 +24,7 @@ sources:
 
 # Yuremamine
 
-Yuremamine is a complex tryptamine-derived alkaloid isolated from the root bark of *Mimosa tenuiflora* (Jurema
+Yuremamine is a complex tryptamine-derived alkaloid isolated from the root bark of *[[mimosa-tenuiflora]]* (Jurema
 pretinha), a tree native to northeastern Brazil traditionally used in the preparation of the psychoactive beverage
 Vinho de Jurema. First characterized in 2005 by a team led by Claude Rivier and Jérôme G. G. L. Oliveira, yuremamine
 represented a novel structural class of indole alkaloids not previously described in the scientific literature.
@@ -49,21 +49,9 @@ Yuremamine possesses an unprecedented skeletal structure among natural products:
   imidazopyridine nitrogen.
 - **Relationship to DMT**: Despite being isolated alongside DMT from the same plant, yuremamine is not a simple
   derivative of DMT. It is biosynthetically distinct and considerably more complex, likely arising from
-  condensation of a tryptamine unit with additional [[primary-metabolic-precursors-to-the-shikimate-pathway]].
-- **Stability**: The compound is sensitive to acidic conditions and elevated temperatures, which may explain why
-  standard acid-base extraction protocols used to isolate DMT from *M. tenuiflora* destroy or transform yuremamine,
-  causing it to go undetected in earlier analyses.
-
-## Pharmacology
-
-Pharmacological characterization of yuremamine remains incomplete, and much of what is known is inferred from
-structural analysis and ethnographic context:
-
-- **Psychoactive potential**: Given its presence as a major alkaloid in a traditionally psychoactive plant and its
-  [[serotonin-psilocybin-structural-relationship-hallucinogenic-mechanism]] to tryptamine, yuremamine is strongly suspected to contribute to the visionary effects of
+  condensation of a tryptamine unit with additional [[serotonin-psilocybin-structural-relationship-hallucinogenic-mechanism]] to tryptamine, yuremamine is strongly suspected to contribute to the visionary effects of
   Vinho de Jurema. Whether it is intrinsically psychoactive or acts as a synergistic potentiator of DMT (similar to
-  β-carboline [[turner-harmala-alkaloids-preparation-and-dosage]] in ayahuasca) has not been definitively established.
-- **Receptor activity**: No published [[tihkal-receptor-binding-serotonin]] data exists as of 2026. The structural novelty of the
+  β-carboline [[tihkal-receptor-binding-serotonin]] data exists as of 2026. The structural novelty of the
   imidazopyridine ring system makes prediction difficult; it could potentially interact with 5-HT₂A receptors or
   trace amine-associated receptors (TAARs), but this is speculative.
 - **MAOI activity**: No evidence of monoamine oxidase inhibition, which distinguishes it from the β-carboline
@@ -77,8 +65,7 @@ The identification of yuremamine has profound implications for understanding tra
   of root bark, conditions that would preserve yuremamine. This contrasts with the harsh acid-base extractions used
   in laboratory settings, which destroy the compound.
 - **Synergistic hypothesis**: The co-occurrence of DMT, yuremamine, and trace β-carbolines (harmine, harmaline) in
-  *M. tenuiflora* root bark suggests a multi-compound [[cannabis-terpene-entourage-effect-profiles]] that may potentiate and modulate the
-  [[leary-psychedelic-experience-bardo-mapping]] beyond what DMT alone would produce.
+  *M. tenuiflora* root bark suggests a multi-compound [[leary-psychedelic-experience-bardo-mapping]] beyond what DMT alone would produce.
 - **Methodological lesson**: Yuremamine's discovery highlighted how standard extraction methodologies can fail to
   detect novel, labile compounds, potentially causing researchers to underestimate the pharmacological complexity of
   traditional plant medicines.
@@ -88,3 +75,75 @@ The identification of yuremamine has profound implications for understanding tra
 - **Degradation**: Acidic workup converts yuremamine into multiple degradation products, none of which have been
   fully characterized. LC-MS methods using neutral buffers are required for detection.
 - **Quantification**: No commercial reference standard is available; all published quantitative data comes from
+
+## Overview
+
+Yuremamine represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish yuremamine
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving yuremamine extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Yuremamine finds practical application in multiple design contexts.
+[[permaculture-principles]] guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for yuremamine. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+yuremamine and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Yuremamine has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of yuremamine into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions

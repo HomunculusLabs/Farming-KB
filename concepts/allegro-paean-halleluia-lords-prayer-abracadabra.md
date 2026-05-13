@@ -8,14 +8,7 @@ type: concept
 
 John M. Allegro argues that many of the most familiar invocations and prayers in the
 Christian tradition—including the Bacchic paean cry, Halleluia, the Lord's Prayer, and the
-magical word abracadabra—are [[sumerian-mushroom-nomenclature]] names and incantations preserved beneath
-Aramaic and Greek surfaces. The New Testament writers, working within a cryptographic
-tradition, encoded sacred fungal names into the language of worship so that initiates could
-recognize them while outsiders heard only conventional prayer.
-
-## The Paean / Eleleu Invocation
-
-[[allegro-religious-lamentation-and-the-bacchic-cult]] cry "eleleu, eleleu" was the signature chant of the Bacchantes, who were
+magical word abracadabra—are [[allegro-religious-lamentation-and-the-bacchic-cult]] cry "eleleu, eleleu" was the signature chant of the Bacchantes, who were
 themselves known as the Eleleides. The formal chant associated with this cry was the
 "Paean," linked in Greek tradition to Apollo under the epithet Paian. Allegro identifies
 Paian as a mushroom name—cognate with the New Testament designation "Bar-jona," the
@@ -40,7 +33,7 @@ The crucifixion cry attributed to Jesus—"My God, my God, why hast thou forsake
 presented in Mark 15:34 as a quotation from Psalm 22:1. Allegro shows that the Hebrew of
 Psalm 22 is nowhere rendered by "Eloi, Eloi, lama," and that "sabachthani" is a strange
 Aramaic form without clear precedent. He argues that the phrase is actually a clever
-approximation to the Sumerian mushroom name LI_4PSh_BA(LA)3_ANTA—the Aesculapius
+approximation to the [[sumerian-mushroom-nomenclature]] name LI_4PSh_BA(LA)3_ANTA—the Aesculapius
 component of Dioscorides' incantation. The full incantatory phrase reconstructs as
 E_LA_IA, E_LA_UIA, LI-MASh-BA(LA)G-ANTA.
 
@@ -90,23 +83,14 @@ by Q. Serenus Sammonicus, a Gnostic physician of the second to third century CE.
 Sammonicus' instructions for using abracadabra reinforce its cultic character: the word
 was to be stitched in diminishing cross form on parchment, worn as an amulet in the
 bosom for nine days, and then thrown backwards before sunrise into a stream flowing
-eastward—a [[eleusinian-initiation-ritual-sequence-and-comparative-mysteries]] preserving the gestures of the [[duggar-mushroom-harvest-and-post-harvest]] offering.
+eastward—a [[duggar-mushroom-harvest-and-post-harvest]] offering.
 The cross form of the inscription mirrors the mushroom's own cross-sectional shape, and
 the eastward-flowing stream recalls the orientation of ancient fertility rites toward
 the rising sun.
 
 ## Gnosticism
 
-The Gnostics were ascetics who possessed [[mckenna-sect-of-the-phoenix-and-archaic-secret-knowledge]] (gnosis) transmitted through
-esoteric tradition. Allegro connects them to the earliest Christians by this shared
-secret tradition of mushroom-encoded revelation. In Gnostic cosmology seven demons or
-angels bar the soul's way to the seventh heaven; the initiate must know their names and
-symbols and must be anointed—literally "christened"—to pass each gate. "Orthodox"
-Christianity systematically destroyed Gnostic writings, but recent discoveries in the
-Egyptian sands, including the Gospel of Truth from the Nag Hammadi library, have
-restored access to texts that preserve the mushroom vocabulary in relatively unencoded
-form. These finds confirm, for Allegro, that the cryptographic method was not his
-invention but a genuine feature of [[allegro-dead-sea-scrolls-and-early-christian-sects]] literary practice.
+The Gnostics were ascetics who possessed [[allegro-dead-sea-scrolls-and-early-christian-sects]] literary practice.
 
 ## "Daily Bread" — The Epiousion Decipherment
 

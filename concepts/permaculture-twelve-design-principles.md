@@ -1,6 +1,6 @@
 ---
 title: Permaculture Twelve Design Principles
-source: "Permaculture: Principles & Pathways [[holmgren-beyond-sustainability]] (2002) — [[david-holmgren]]"
+source: "Permaculture: Principles & Pathways david-holmgren"
 source_file: david-holmgren-permaculture-principles-pathways-beyon.md
 topics: [permaculture, design-principles, holmgren, sustainability, systems-thinking]
 created: 2026-05-10
@@ -9,14 +9,7 @@ created: 2026-05-10
 # Permaculture's Twelve Design Principles
 
 David Holmgren's *Permaculture: Principles & Pathways Beyond Sustainability*
-(2002) presents the most comprehensive articulation of [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]]
-principles. Holmgren, who co-originated the permaculture concept with Bill
-Mollison in the 1970s, distilled 25 years of practice and teaching into
-twelve design principles that serve as tools for whole-systems thinking.
-
-## The Three Ethics
-
-Before the design principles, Holmgren establishes three [[bill-mollison-permaculture-a-designers-manual-ethical-foundations-in-permaculture]]:
+(2002) presents the most comprehensive articulation of [[bill-mollison-permaculture-a-designers-manual-ethical-foundations-in-permaculture]]:
 
 1. **Care for the Earth** — Provision for all life systems to continue and
    multiply. This is the first principle because without a healthy
@@ -44,8 +37,7 @@ cultures that violate them inevitably collapse.
 Good design depends on a free and harmonious relationship between nature
 and people, in which careful observation allows us to interact appropriately
 with natural systems. Rather than imposing preconceived designs, the
-permaculturist observes [[patterns-in-nature]] and designs responses that work
-with those patterns. This principle emphasizes the [[holmgren-action-learning-loop]]:
+permaculturist observes [[holmgren-action-learning-loop]]:
 observe, design, implement, observe, redesign.
 
 ### 2. Catch and Store Energy
@@ -87,3 +79,7 @@ formation) at no cost.
 
 ### 6. Produce No Waste
 *Waste not, want not. A stitch in time saves nine.*
+
+## See Also
+
+- [[holmgren-permaculture-twelve-design-principles-framework]]

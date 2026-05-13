@@ -52,9 +52,9 @@ The species is most commonly found on moist, well-drained alluvial soils along r
 
 Bitternut hickory is shade-tolerant in youth and often grows as an understory tree before reaching the canopy. It is one of the fastest-growing hickories, especially on bottomland sites.
 
-It commonly associates with [[acer-saccharum]], [[quercus-rubra]], [[fagus-grandifolia]], [[prunus-serotina]], and [[ulmus-americana]] in mixed hardwood forests.
+It commonly associates with [[quercus-rubra]], [[prunus-serotina]], and [[ulmus-americana]] in mixed hardwood forests.
 
-The species is hardy to USDA Zone 4 and tolerates a wide range of soil pH conditions, from acidic to mildly alkaline.
+The species is hardy to USDA Zone 4 and tolerates a wide range of [[soil-ph]] conditions, from acidic to mildly alkaline.
 
 Bitternut hickory is relatively tolerant of periodic flooding and is one of the more flood-resistant hickories. It is frequently found on first terraces of major river systems where seasonal inundation occurs.
 

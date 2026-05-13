@@ -11,16 +11,7 @@ type: concept
 
 Endolithic fungi are organisms that colonize and live inside rocks, minerals,
 calcified biological structures, and other hard substrates. These fungi
-represent a remarkable example of biological adaptation to [[fungal-biodiversity-in-extreme-environments]],
-capable of weathering rock surfaces, penetrating mineral matrices, and
-surviving in habitats where few other organisms persist. Their ecological roles
-span from [[dighton-fungal-rock-weathering-mineral-dissolution]] and soil formation to [[fungi-in-the-environment-symbiotic-relationships]] with
-algae and cyanobacteria.
-
-## Definition and Habitat
-
-Endolithic fungi occur inside corals, calcified algae, and other calcareous
-substrata. They penetrate the interior of rock and [[fungal-community-profiling-rock-mineral-surfaces-gadd]], occupying
+represent a remarkable example of biological adaptation to [[dighton-fungal-rock-weathering-mineral-dissolution]] and soil formation to [[fungal-community-profiling-rock-mineral-surfaces-gadd]], occupying
 the pore spaces, fractures, and boundaries between mineral grains. The
 endolithic lifestyle includes several subcategories: euendoliths actively bore
 into rock, chasmoendoliths colonize pre-existing cracks and crevices, and
@@ -57,37 +48,16 @@ the fungal partner grows within the rock substrate while maintaining a symbiotic
 relationship with photobiont algae or cyanobacteria. These organisms play
 significant roles in the initial stages of rock colonization and soil formation,
 particularly in extreme environments such as arid and polar regions. See also
-[[biodiversity-lichenized-fungi-symbiosis]] for further discussion of these
-fascinating symbiotic relationships.
-
-## Rock-Weathering Mechanisms
-
-Endolithic [[query-how-do-fungi-contribute-to-carbon-sequestration]] to rock weathering through both mechanical and
+[[query-how-do-fungi-contribute-to-carbon-sequestration]] to rock weathering through both mechanical and
 biochemical processes. Mechanical weathering occurs through hyphal penetration
 into rock pores and along mineral grain boundaries, physically disrupting the
-substrate. [[fungal-biomechanical-biochemical-weathering-mechanisms-gadd]] involves the production of organic acids,
-including oxalic acid, which can dissolve carbonate minerals and chelate metal
-cations from silicate minerals.
-
-The combination of these mechanisms makes endolithic fungi important agents of
-biological weathering and pedogenesis. Over geological time scales, their
-activity contributes significantly to the transformation of rock into soil,
-particularly in extreme environments where higher organisms are absent. Their
-role in soil development connects them to broader themes in [[biodiversity-fungi-soil-fungal-communities]].
+substrate. [[biodiversity-fungi-soil-fungal-communities]].
 
 ## Terrestrial Endolithic Fungi
 
 In terrestrial environments, endolithic fungi colonize diverse rock types
 including limestone, sandstone, granite, and volcanic rocks. In desert
-environments, endolithic [[cannabis-rhizosphere-microbial-communities]], often dominated by fungi, algae,
-and cyanobacteria, represent one of the few life forms capable of persisting
-within rock surfaces. These communities are found several millimeters below the
-rock surface, where they are protected from extreme temperature fluctuations
-and ultraviolet radiation.
-
-Species from multiple orders of Ascomycota and some Basidiomycota have been
-documented as endoliths, reflecting the broad phylogenetic diversity of fungi
-capable of this lifestyle. [[biodiversity-of-fungi-pcr-molecular-methods-fungal-diversity]] are revealing diversity far
+environments, endolithic [[biodiversity-of-fungi-pcr-molecular-methods-fungal-diversity]] are revealing diversity far
 
 ## Practical Applications
 
@@ -118,8 +88,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[doc]]
 - [[dom]]
-- [[lichens]]
 - [[ascomycota]]
 - [[biodiversity-of-fungi-herbarium-specimen-curation-best-practices]]

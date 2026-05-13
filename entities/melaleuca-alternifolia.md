@@ -19,21 +19,11 @@ sources:
 
 ## Overview
 
-**Melaleuca alternifolia**, commonly known as narrow-leaved paperbark or tea tree, is a small tree in the family Myrtaceae native to eastern Australia.
+**[[melaleuca]] alternifolia**, commonly known as narrow-leaved paperbark or tea tree, is a small tree in the family Myrtaceae native to eastern Australia.
 
 The species is the primary commercial source of tea tree oil, one of the most widely used essential oils in dermatological and cosmetic products.
 
-Tea tree oil is renowned for its broad-spectrum [[mycelium-running-mushroom-antimicrobial-properties-species-chart]] and has been used medicinally by Aboriginal Australians for centuries.
-
-Commercial tea tree oil production is centered in northern New South Wales and southern Queensland, Australia.
-
-## Taxonomy and Morphology
-
-**Melaleuca alternifolia** (Maiden & Betche) Cheel was formally described by Cheel in 1924.
-
-The genus Melaleuca contains approximately 250 species, predominantly native to Australia, with several species extending into Southeast Asia.
-
-The family Myrtaceae includes other commercially significant genera such as [[eucalyptus-globulus]], [[myrtus-communis]], and [[pimenta-dioica]].
+Tea tree oil is renowned for its broad-spectrum [[eucalyptus-globulus]], [[pimenta-dioica]].
 
 Melaleuca alternifolia is a small tree or tall shrub, typically 4–7 meters in height, occasionally reaching 10 meters.
 
@@ -75,9 +65,7 @@ Propagation is by seed or vegetative cuttings, with clonal propagation preferred
 
 Harvesting is typically done by mechanical cutting of the aerial biomass, which regenerates from the cut stumps.
 
-Oil is extracted by [[comparison-steam-distillation-vs-co2-extraction-for-essential-oils]] of the fresh foliage, with typical yields of 1–2% oil by fresh weight.
-
-Annual Australian tea tree oil production exceeds 800 tonnes, with export markets in [[psilocybin-north-america-pacific-northwest]], Europe, and Asia.
+Oil is extracted by [[psilocybin-north-america-pacific-northwest]], Europe, and Asia.
 
 Optimal oil yield occurs when plants are harvested every 12–18 months, maintaining active vegetative growth.
 
@@ -88,3 +76,75 @@ Tea tree oil is a complex mixture of approximately 100–115 identified terpene 
 The primary constituent is terpinen-4-ol, which should constitute 30–48% of the oil according to the ISO 4730 standard.
 
 γ-terpinene typically accounts for 10–28% of the oil, and α-terpinene for 5–13%.
+
+## Overview
+
+Melaleuca Alternifolia represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish melaleuca alternifolia
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving melaleuca extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Melaleuca Alternifolia finds practical application in multiple design contexts.
+[[permaculture-principles]] guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for melaleuca alternifolia. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+melaleuca alternifolia and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Melaleuca Alternifolia has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of melaleuca alternifolia into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions

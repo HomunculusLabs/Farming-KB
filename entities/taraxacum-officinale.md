@@ -2,7 +2,7 @@
 title: Taraxacum officinale
 created: 2026-04-28
 type: species
-tags: [herbalism, [[permaculture]], edible-weed, medicinal-plants,
+tags: [herbalism, permaculture, edible-weed, medicinal-plants,
   dynamic-accumulator, Asteraceae, companion-plant]
 date: 2026-04-28
 updated: 2026-04-28
@@ -11,32 +11,7 @@ sources: []
 
 # Taraxacum officinale
 
-The common [[dandelion]] is a perennial herb in the Asteraceae
-family, native to Eurasia and naturalized on every continent
-except Antarctica. One of the most universally recognized plants,
-it has a pharmacological history spanning over 1,000 years in
-European, Middle Eastern, and Asian herbal traditions. Every part
-— root, leaves, flowers, stems — has documented food or medicinal
-use.
-
-Young leaves contain more vitamin A than carrots, more vitamin C
-than tomatoes, more potassium than bananas, and significant
-vitamins E, K, B-complex, calcium, iron, and zinc. Increasing
-scientific interest has focused on hepatoprotective, diuretic,
-anti-inflammatory, and potential anti-cancer properties.
-
-## Taxonomy and Classification
-
-- **Kingdom:** Plantae
-- **Clade:** Tracheophytes, Angiosperms, Eudicots, Asterids
-- **Order:** Asterales
-- **Family:** Asteraceae
-- **Tribe:** Cichorieae
-- **Genus:** Taraxacum
-- **Species:** T. officinale
-
-The genus contains ~2,500 species with complex taxonomy from
-widespread apomixis (asexual [[cervantes-seed-production-storage]]). Many 'T.
+The common [[cervantes-seed-production-storage]]). Many 'T.
 officinale' populations are actually microspecies within section
 Ruderalia. 'Dandelion' derives from French 'dent de lion' (lion's
 tooth), referring to deeply toothed leaf margins.
@@ -75,8 +50,6 @@ annually. Taproot is thick, fleshy, deep (15-30 cm, occasionally
 
 ### Leaf Constituents
 
-- **[[luteolin]] and luteolin-7-glucoside:** Flavones with antioxidant
-  and diuretic-enhancing activities.
 - **[[apigenin]]:** Anxiolytic (GABA_A binding) and anti-inflammatory.
 - **Vitamins:** Exceptional beta-carotene (7,700-13,500 μg/100g,
   2-3× carrots), vitamin C (18-35 mg/100g), vitamin K (250-780
@@ -88,3 +61,88 @@ annually. Taproot is thick, fleshy, deep (15-30 cm, occasionally
 
 - **Flavonoids:** Luteolin, apigenin, isorhamnetin, [[quercetin]]
   glycosides in yellow ray florets.
+
+## Overview
+
+Taraxacum Officinale represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish taraxacum officinale
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving taraxacum extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Taraxacum Officinale finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for taraxacum officinale. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+taraxacum officinale and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Taraxacum Officinale has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of taraxacum officinale into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[jasminum-officinale]]
+- [[levisticum-officinale]]
+- [[sisymbrium-officinale]]
+- [[symphytum-officinale]]
+- [[taraxacum-kok-saghyz]]

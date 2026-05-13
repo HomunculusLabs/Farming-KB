@@ -12,10 +12,7 @@ type: concept
 
 # Vermicompost and Worm Castings in Compost Tea
 
-Vermicompost ([[ingham-thermal-worm-compost-comparison]]) and worm castings are among the most
-valuable starting materials for [[compost-tea-aact]] for [[compost-tea-brewing-methods-aact]]
-- [[hot-composting-method]] for [[ingham-thermal-compost-versus-worm-compost]] production
-- [[ingham-beneficial-nematodes-soil-food-web]] for nematode roles
+Vermicompost ([[compost-tea-aact]] for [[hot-composting-method]] for [[ingham-beneficial-nematodes-soil-food-web]] for nematode roles
 ## Background and Context
 
 Vermicompost and Worm Castings in Compost Tea is an important subject that has garnered significant attention
@@ -118,8 +115,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[dom]]
 - [[det]]
-- [[composting]]
 - [[ingham-thermal-worm-compost-comparison]]
 - [[ingham-thermal-compost-versus-worm-compost]]

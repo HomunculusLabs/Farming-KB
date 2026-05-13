@@ -4,25 +4,21 @@ source_type: paper
 topics: [greenhouse-design, gothic-arch, four-season-farm, high-tunnel, winter-harvest, protected-cultivation]
 ---
 
-# Gothic Arc [[greenhouse-design]] gn Specifications
-
-## Summary
-
-Eliot Coleman's winter-harvest system [[coleman-four-season-farm]] Farm relies on
+# Gothic Arc [[coleman-four-season-farm]] Farm relies on
 standard plastic-covered gothic-style hoop houses as the primary
 protected growing structure. The largest houses measure 30 feet wide
 by 96 feet long, aligned on an east-west axis with UV-resistant plastic
 covering. The gothic arch shape was selected for its superior snow-shedding
-ability compared to tradition [[grow-tunnel-and-hoop-house]] use profile [[psilocybin-logos-consciousness]] the pipe-frame
+ability compared to tradition [[psilocybin-logos-consciousness]] the pipe-frame
 construction offers a balance of strength, simplicity, and cost-effectiveness
-for unheat [[coleman-french-historical-winter-vegetable-production]] ion [[zone-5-wilderness]] e 5 Maine.
+for unheat [[zone-5-wilderness]] e 5 Maine.
 
 ## The Gothic Arch Structure
 
 Coleman's winter-harvest cold houses are standard, plastic-covered,
 gothic-style hoop houses. The gothic arch profile is distinguished from
 simple Quonset or hoop shapes by its pointed peak, which allows snow to
-slid [[permaculture-integrate-rather-than-segregate]] r than accum [[plutarch-and-cicero-on-the-eleusinian-mysteries]] on the roof.
+slid [[plutarch-and-cicero-on-the-eleusinian-mysteries]] on the roof.
 
 This is a critical advantage in Maine winters where heavy snow loads
 can collapse structures with inadequate roof pitch. Snow accumulates on
@@ -31,18 +27,7 @@ structural capacity of lighter hoop houses. The gothic shape directs
 snow to slide cleanly off the steeper upper sections before it can build
 up to dangerous levels.
 
-The pipe-frame construction uses galvanized metal hoo [[primary-metabolic-precursors-to-the-shikimate-pathway]] hored to
-the ground, creating a structure that is both strong and relatively
-inexpensive compared to glass or rigid-panel greenhouses. The entire
-approach follows Coleman's minimalist philosophy:
-
-- Unheated (no fuel consumption)
-- No fans (passive ventilation only)
-- No complicated machinery or space-age materials
-- Soil itself serves as the heat-storage medium
-
-These are completely passive structures. There is no heating system,
-no water or stone ballast with [[allegro-christianity-as-a-fertility-cult]] s or fans as a heat-storage medium,
+The pipe-frame construction uses galvanized metal hoo [[allegro-christianity-as-a-fertility-cult]] s or fans as a heat-storage medium,
 and no buried insulation around the perimeter. The economic cold house
 is the end result of a quest begun in 1970 for simple, low-cost,
 user-friendly winter production.
@@ -118,8 +103,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[eliot-coleman]]
 - [[psilocybin]]
-- [[permaculture]]
 - [[coleman-mobile-greenhouse-design-and-operation]]
 - [[coleman-greenhouse-ventilation-design]]

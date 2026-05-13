@@ -22,16 +22,7 @@ type: concept
 ## Overview
 
 Fukuoka argues that the soil is a living system of extraordinary complexity that
-defies human comprehension, and that the application of [[cervantes-chemical-fertilizers-guide]] to
-this system is an act of staggering ignorance. A single gram of ordinary topsoil
-contains roughly one hundred million bacteria, yeasts, molds, diatoms, and other
-microbes. Far from being dead and inanimate, the soil is teeming with life. Each
-microorganism lives for a purpose, struggling, cooperating, and carrying on the
-cycles of nature.
-
-## The Unstudied Interactions
-
-Into this living soil, farmers throw powerful [[cannabis-chemical-fertilizers]]. Fukuoka points
+defies human comprehension, and that the application of [[cannabis-chemical-fertilizers]]. Fukuoka points
 out that it would take years of research to determine how fertilizer components
 combine and react with air, water, and many other substances in nonliving mineral
 matter, what changes they undergo, and what relationships should be maintained
@@ -39,35 +30,10 @@ between these components and the various microorganisms in order to guard a
 harmonious balance.
 
 Very little, if any, research has been done on the relationship between fertilizers
-and soil microbes. At [[fukuoka-inductive-deductive-intuitive-reasoning-agricultural-research]] stations, scientists place soil in pots
-and run tests, but most of the soil microbes in these pots die off. Results obtained
-from tests conducted under fixed conditions and within a limited experimental
-framework cannot be applied to situations under natural conditions.
-
-## The Sulfuric Acid Problem
-
-More than seventy percent of the big three fertilizers — ammonium sulfate,
-super-phosphate, and potassium sulfate — is concentrated sulfuric acid. Each year,
-some 1.8 million tons of sulfuric acid are dumped onto the farmlands of Japan in
-the form of fertilizer. This acidic fertilizer suppresses and kills soil
-microorganisms, disrupting and damaging the soil in a way that may one day spell
-disaster for [[fukuoka-breakdown-japanese-agriculture]].
+and soil microbes. At [[fukuoka-breakdown-japanese-agriculture]].
 
 The soil damage is both direct and indirect. Acidification changes the solubility
-of [[teaming-with-nutrients-micronutrients-and-trace-elements]], creating cascading deficiencies throughout the soil food web.
-
-## Trace Element Deficiency Cascade
-
-Fukuoka describes a cascade of deficiencies triggered by fertilizer use. When the
-soil is acidic or turns alkaline through heavy applications of lime, deficiencies
-of zinc, manganese, boron, iodine, and other elements develop because these become
-less soluble in water. Too much potassium blocks iodine uptake and reduces the
-absorption of boron. The greater the amount of nitrogen, phosphate, and potassium
-administered, the higher the resulting deficiency of zinc and boron.
-
-The interactions form a web of mutual interference:
-- Nitrogen and phosphate uptake is poor in iodine-deficient soils
-- Higher levels of nitrogen and phosphate result in lower [[query-how-to-fix-manganese-deficiency-in-cannabis]]
+of [[query-how-to-fix-manganese-deficiency-in-cannabis]]
 - Adding too much of one fertilizer renders another ineffective
 - A shortage of certain components means adding generous amounts of others does no
   good
@@ -118,8 +84,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[query-what-is-the-soil-food-web-and-why-does-it-matter]]
 - [[det]]
-- [[fukuoka-textdoc-citrus-orchard-soil-building-without-fertilizer]]
 - [[fukuoka-textdoc-fertilizer-soil-destruction-sulfuric-acid]]
 - [[fukuoka-textdoc-no-fertilizer-principle-natural-soil-fertility]]

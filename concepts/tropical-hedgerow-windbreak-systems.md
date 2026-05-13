@@ -98,8 +98,6 @@ This dense frontline shelterbelt provides the essential foundation behind which 
 - **Mulch harvest** from inner hedgerow rows feeds the developing system
 ## See also
 
-- [[tropical-hedgerow-shelterbelt-design]]
 - [[hedgerow-planting]]
-- [[comparison-windbreak-vs-hedgerow]]
 - [[forest-edge-windbreak-rainfall-compression]]
 - [[coastal-windbreak-systems-and-plant-wind-tolerance]]

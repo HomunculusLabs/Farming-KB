@@ -11,7 +11,7 @@ sources: []
 
 ## Overview
 
-After a decades-long research hiatus caused by prohibition, clinical trials of psilocybin have experienced a dramatic resurgence since the early 2000s. These trials have demonstrated significant [[metzner-ayahuasca-therapeutic-potential]] across multiple psychiatric conditions, leading to large-scale Phase III studies and the first regulatory approvals for psilocybin-assisted therapy. This page summarizes the current state of clinical evidence.
+After a decades-long research hiatus caused by prohibition, clinical trials of psilocybin have experienced a dramatic resurgence since the early 2000s. These trials have demonstrated significant therapeutic potential across multiple psychiatric conditions, leading to large-scale Phase III studies and the first regulatory approvals for psilocybin-assisted therapy. This page summarizes the current state of clinical evidence.
 
 ## Treatment-Resistant Depression
 
@@ -49,7 +49,7 @@ These studies consistently demonstrate rapid, substantial, and sustained improve
 
 ### Alcohol Use Disorder
 
-- **Bogenschutz et al. (2015, University of New Mexico)**: Open-label pilot study of 10 patients with [[cannabis-for-alcohol-dependence]]. Single psilocybin session plus motivational therapy. At 36-week follow-up, all 10 showed significant reductions in drinking days; 6 achieved complete abstinence.
+- **Bogenschutz et al. (2015, University of New Mexico)**: Open-label pilot study of 10 patients with alcohol dependence. Single psilocybin session plus motivational therapy. At 36-week follow-up, all 10 showed significant reductions in drinking days; 6 achieved complete abstinence.
 
 - **Bogenschutz et al. (2022, NYU)**: Randomized, double-blind trial of psilocybin vs. diphenhydramine (active placebo) in 96 patients with alcohol use disorder. Psilocybin group: 48% achieved complete abstinence at 8 weeks (vs. 24% control). Effect persisted at 32-week follow-up.
 
@@ -71,7 +71,7 @@ Preliminary research and ongoing trials are exploring psilocybin for:
 Emerging evidence suggests psilocybin may be effective for eating disorders:
 
 - **Anorexia nervosa**: Small open-label studies have shown reductions in body image disturbance, anxiety, and restrictive eating behaviors. A Phase II trial is underway.
-- **Binge eating disorder**: Preliminary data suggests reductions in binge frequency and improved [[anandamide-emotional-regulation-blesching]].
+- **Binge eating disorder**: Preliminary data suggests reductions in binge frequency and improved emotional regulation.
 - Proposed mechanisms include reducing rigid cognitive patterns, improving body awareness, and addressing underlying anxiety and perfectionism.
 
 ## Obsessive-Compulsive Disorder
@@ -94,7 +94,7 @@ Clinical psilocybin research faces unique methodological challenges:
 
 Most modern trials follow a similar protocol:
 
-1. **Screening**: Comprehensive psychiatric and medical evaluation; exclusion of psychosis risk, [[blesching-cannabis-bipolar-disorder]], and certain cardiovascular conditions
+1. **Screening**: Comprehensive psychiatric and medical evaluation; exclusion of psychosis risk, bipolar disorder, and certain cardiovascular conditions
 2. **Preparation sessions**: 1-3 sessions with a therapist to build rapport, set intentions, and explain the experience
 3. **Dosing session**: 6-8 hours in a comfortable clinical setting with one or two trained therapists; typically 1-2 sessions
 4. **Integration sessions**: 1-3 sessions to process the experience and apply insights
@@ -107,7 +107,7 @@ Across all published trials, psilocybin has demonstrated an excellent safety pro
 - No serious adverse events attributed to psilocybin
 - Transient anxiety, confusion, or nausea during sessions — manageable with therapeutic support
 - No cases of persistent psychosis or HPPD in clinical trial populations
-- [[blesching-cannabis-hypertension-cardiovascular-effects]] are mild and transient
+- Cardiovascular effects are mild and transient
 - No evidence of dependence or abuse potential
 
 ## Regulatory Landscape
@@ -118,3 +118,11 @@ Across all published trials, psilocybin has demonstrated an excellent safety pro
 - **Canada**: Special Access Programme available for psilocybin under specific circumstances
 
 See [[psychedelic-assisted-therapy-protocol]] for the therapeutic framework and [[psychedelic-mushroom-pharmacology]] for the pharmacological basis of clinical effects.
+
+## See Also
+
+- [[stamets-african-psilocybin-mushroom-distribution]]
+- [[emcdda-psilocybin-mushroom-market-variety-names-and-strain-marketing-2006]]
+- [[powell-psilocybin-end-of-life-anxiety]]
+- [[psilocybin-mushroom-image-guide-habitat-clues]]
+- [[emcdda-psilocybin-non-addictive-profile-tolerance-dynamics]]

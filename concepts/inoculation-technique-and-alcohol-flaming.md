@@ -13,38 +13,13 @@ type: concept
 
 ## Overview
 
-Inoculation is the process of introducing spores into the [[oyster-mushroom-non-sterilized-substrate-cultivation]]
-jars. This is one of the most critical steps in the PF TEK because it is the
-moment when the sterile environment of the jar is breached, creating
-opportunity for contamination. Proper technique, including the use of alcohol
-flaming for sterilization, is essential for success.
-
-## Pre-Inoculation Requirements
-
-Before beginning inoculation, several conditions must be met:
-
-- **Jar temperature**: Any jar to be inoculated must be cool to the touch.
-  Inoculating a warm jar will kill the spores. This is a common cause of
-  non-germination.
-
-- **Lid tightness**: Ensure the [[carbon-dioxide-retention-jar-lid-mushroom-cultivation]] is tightened securely.
+Inoculation is the process of introducing spores into the [[carbon-dioxide-retention-jar-lid-mushroom-cultivation]] is tightened securely.
 
 - **mushroom-spore-syringe-and-inoculation Inoculation Procedure
 
 ### Step 1: Expose the Needle Holes
 
-Remove the tape covering the needle holes on the [[grass-seed-jar-lid-management-loose-cooling-vacuum-prevention]]. Remove the needle
-guard from the syringe. The needle holes on the lid are now exposed and ready
-for inoculation.
-
-### Step 2: Insert the Needle
-
-Insert the syringe needle through one of the lid holes. Tilt the syringe body
-back towards the center of the lid, with the needle tip touching the inside
-glass surface of the jar. This angling is important because it directs the
-spore solution downward along the side of the jar, allowing it to flow down
-and inoculate the substrate cake rather than being absorbed by the non-
-nutritive [[pf-tek-dry-vermiculite-contaminant-barrier]] layer at the top.
+Remove the tape covering the needle holes on the [[pf-tek-dry-vermiculite-contaminant-barrier]] layer at the top.
 
 ### Step 3: Deposit the Spore Solution
 
@@ -118,8 +93,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[pf-tek]]
 - [[spore]]
-- [[sterilization]]
 - [[pf-tek-inoculation-without-lids-and-alcohol-flaming]]
 - [[pf-tek-inoculation-technique-and-syringe-management]]

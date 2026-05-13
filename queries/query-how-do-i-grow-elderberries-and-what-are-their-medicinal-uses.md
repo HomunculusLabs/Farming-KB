@@ -10,7 +10,7 @@ sources: []
 
 ## Short Answer
 
-Elderberries ([[elderberry-growing-guide]]) are among the most versatile plants you can add to a homestead or [[medicinal-herb-growing|medicinal herb garden]].
+Elderberries ([[medicinal-herb-growing|medicinal herb garden]].
 
 They produce abundant clusters of dark purple berries packed with antioxidants and immune-supporting compounds.
 
@@ -32,19 +32,7 @@ Popular cultivars include 'Adams', 'York', 'Nova', and 'Johns' for American type
 
 Elderberries thrive in full sun to partial shade, though fruit production is highest with at least six hours of direct sunlight.
 
-They prefer moist, well-drained soil rich in [[hamilton-composting-and-organic-matter-management]] but will tolerate heavier clay soils better than many other fruiting shrubs.
-
-Space plants six to ten feet apart in rows, or eight to twelve feet apart when planting multiple rows.
-
-Dig a hole twice as wide as the root ball and set the plant at the same depth it was growing in the nursery container.
-
-Water thoroughly after planting and apply a three to four inch layer of mulch to conserve moisture and suppress weeds.
-
-## Soil and Fertilizer Needs
-
-Elderberries are relatively heavy feeders compared to other fruiting shrubs.
-
-A soil pH between 5.5 and 6.5 is ideal for [[ph-and-nutrient-availability-garden-soils]] and plant health.
+They prefer moist, well-drained soil rich in [[ph-and-nutrient-availability-garden-soils]] and plant health.
 
 Incorporate compost or well-rotted manure into the planting site to provide a slow-release source of nitrogen and micronutrients.
 
@@ -62,17 +50,7 @@ In early spring, remove any dead, damaged, or diseased canes at ground level.
 
 Cut out canes that are three years old or older to encourage vigorous new growth from the base.
 
-Aim to maintain six to eight healthy canes per mature bush for optimal [[stamets-growing-room-air-circulation-co2-management]] and light penetration.
-
-Removing weak or spindly shoots directs the plant's energy into strong fruit-bearing canes.
-
-## Common Pests and Diseases
-
-Elderberry shoots are susceptible to the elder shoot borer, a caterpillar that tunnels into stems and causes wilting.
-
-Cut and destroy any infested canes below the visible damage to prevent the borer from completing its life cycle.
-
-[[cervantes-powdery-mildew-prevention-treatment]] and leaf spot can occur in humid conditions but are rarely severe enough to warrant treatment.
+Aim to maintain six to eight healthy canes per mature bush for optimal [[cervantes-powdery-mildew-prevention-treatment]] and leaf spot can occur in humid conditions but are rarely severe enough to warrant treatment.
 
 Birds are the most significant pest of ripe elderberries and will strip bushes quickly once fruit ripens.
 
@@ -106,17 +84,5 @@ Elderberry preparations are generally considered safe for adults and children ov
 
 ## Key Points
 
-- Always plant at least two different elderberry varieties for cross-pollination and [[query-how-do-i-prune-brambles-for-maximum-fruit-production]] set.
-- Prune annually to remove canes older than three years and maintain six to eight productive canes per bush.
-- Harvest berries when fully ripe and always cook them before eating to neutralize cyanogenic glycosides.
-- Protect ripening fruit from birds with netting or by planting enough bushes to share the harvest.
-- [[berry-growing]] and [[berry-species-guide]] are useful references for managing other berry crops alongside elderberries.
-- Compare elderberries with [[echinacea-growing-guide|echinacea]] in [[comparison-elderberry-vs-echinacea]] for complementary immune-support plants.
-- [[comparison-elderberry-vs-gooseberry-vs-currant]] and [[comparison-serviceberry-vs-elderberry-vs-aronia]] help evaluate elderberry against similar shrubs.
-- [[vegetative-propagation-methods-mollison]] for expanding your elderberry patch are covered in [[propagation-methods-organic]].
-
-## Related Questions
-
-- [[query-what-are-the-best-nut-trees-for-a-permaculture-food-forest]]
-- [[query-how-do-i-start-a-medicinal-herb-garden]]
+- Always plant at least two different elderberry varieties for cross-pollination and [[berry-growing]] and [[echinacea-growing-guide|echinacea]] in [[comparison-elderberry-vs-gooseberry-vs-currant]] and [[vegetative-propagation-methods-mollison]] for expanding your elderberry patch are covered in [[query-what-are-the-best-nut-trees-for-a-permaculture-food-forest]]
 - [[query-how-do-i-prune-fruit-trees-naturally]]

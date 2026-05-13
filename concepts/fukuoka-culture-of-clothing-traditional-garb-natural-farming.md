@@ -1,14 +1,13 @@
 ---
 title: Fukuoka Culture Of Clothing Traditional Garb Natural Farming
 source: masanobu-fukuoka-the-road-back-to-nature.md
-author: [[masanobu-fukuoka]]
+author: masanobu-fukuoka
 topics: [clothing, natural-farming, traditional-culture, japan, permaculture]
 ---
 
 # Culture of Clothing and Traditional Garb in Natural Farming
 
-[[masanobu-fukuoka-natural-farming-philosophy]]'s reflections on clothing form a distinctive philosophical thread
-in *The Road Back to Nature*, connecting material culture [[fukuoka-doi-garment-culture-clothing-natural-farming]] to ecological awareness
+[[fukuoka-doi-garment-culture-clothing-natural-farming]] to ecological awareness
 and the farmer's relationship with the land. His European tour wearing traditional
 Japanese peasant clothing — geta (wooden sandals), monpe (work pants), and a
 haori-style top — became a vehicle for questioning the assumptions embedded in
@@ -71,14 +70,7 @@ disconnect the farmer from the biological world.
 
 ## Traditional Clothing as Ecological Practice
 
-Fukuoka's clothing philosophy connects to core [[fukuoka-natural-farming-principles-do-nothing-agriculture-personal-testimony]]:
-
-- **Local materials**: Indigo-dyed cotton from Tokushima for men, light blue
-  jindaifuku for women — two colors sufficient for year-round dress
-- **Biodegradable**: Natural fiber clothing returns to the earth without
-  persistent pollution
-- **Breathable connection**: Natural fabrics maintain the body's relationship
-  with ambient [[greg-green-temperature-and-humidity-control]], rather than sealing it off
+Fukuoka's clothing philosophy connects to core [[greg-green-temperature-and-humidity-control]], rather than sealing it off
 - **Minimal consumption**: One bowl and one robe — the traveling robe of a Zen
   monk — would suffice for most needs
 - **Cultural identity**: Traditional clothing maintained a tidy Japanese
@@ -118,8 +110,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[natural-farming]]
 - [[fukuoka-doi-garment-culture-clothing-natural-farming]]
-- [[fukuoka-culture-of-clothing-and-meat]]
 - [[fukuoka-mahayana-and-hinayana-natural-farming]]
 - [[fukuoka-natural-farming-philosophy-of-mu]]

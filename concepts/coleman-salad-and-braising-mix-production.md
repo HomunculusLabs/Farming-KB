@@ -16,10 +16,7 @@ type: concept
 
 # Salad and Braising Mix Production
 
-Baby-leaf (mesclun) salads are an ideal crop for the [[salad-crops-growing-guide]] are far more cold tolerant than
-mature ones. The mushroom-certification-quality-standards
-
-Quality is the primary concern. The farm does not sell [[coleman-baby-leaf-salad-mix-quality-standards]]
+Baby-leaf (mesclun) salads are an ideal crop for the [[coleman-baby-leaf-salad-mix-quality-standards]]
 ingredients that are too large, bitter, tough, stringy, or frost
 damaged. If an ingredient does not meet standards, it is left out of
 the mix until conditions improve. These evaluations have led to
@@ -60,9 +57,7 @@ parents report this is the only mixed salad their children will eat.
 
 Lettuce, endive, and arugula do not consistently meet quality
 standards during the coldest parts of January and February in the
-cold houses. These three are given protection in a [[coleman-cool-house-minimal-supplementary-heat]]
-(minimally heated greenhouse) during those months. Oak-leaf lettuce
-types are very [[coleman-cold-hardy-varieties]] at the baby-leaf stage but quality is still
+cold houses. These three are given protection in a [[coleman-cold-hardy-varieties]] at the baby-leaf stage but quality is still
 better from the cool house. 'Sylvetta' wild arugula is perfectly
 hardy but requires more study of its soil-fertility needs and planting
 timing.
@@ -117,8 +112,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[succession-planting]]
 - [[coleman-baby-leaf-salad-mix-composition-production]]
-- [[coleman-winter-salad-braising-mix-composition]]
 - [[coleman-salad-braising-mix-composition]]
 - [[coleman-baby-leaf-salad-mix-quality-standards]]

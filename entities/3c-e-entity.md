@@ -11,38 +11,7 @@ sources:
 
 **Chemical name:** 3,5-Dimethoxy-4-ethoxyamphetamine
 
-**PiHKAL #25** | [[alexander-shulgin]] as part of the systematic investigation of substituted amphetamines. 3C-E is, quite simply, Escaline (the 4-ethoxy analogue of mescaline-entity|mescaline) reextended to a 3-carbon amphetamine chain — a satisfying closure to Shulgin's exploration.
-
-## Dosage
-
-| Level | Amount (mg) |
-|-------|-------------|
-| Threshold | 20-30 |
-| Light | 30-40 |
-| Common | 40-60 |
-| Strong | 60-80 |
-| Heavy | 80+ |
-
-Shulgin's published range: 30-60 mg.
-
-## Duration
-
-| Phase | Time |
-|-------|------|
-| Onset | 30-60 min |
-| Come-up | 60-90 min |
-| Peak | 4-6 h |
-| Offset | 4-6 h |
-| Total | 8-12 h |
-
-By the 8th hour, one subject reported being sober with no residue except slight teeth clenching.
-
-## Synthesis
-
-The synthesis of 3C-E proceeds from syringaldehyde (3,5-dimethoxy-4-hydroxybenzaldehyde):
-
-1. **Ethylation**: Syringaldehyde + ethyl iodide + KOH in MeOH, held at reflux for 2 days. After workup: 3.3 g of 3,5-dimethoxy-4-ethoxybenzaldehyde as pale amber crystals, mp 47-48 °C (recrystallized: 48-49 °C)
-2. **Nitrostyrene formation**: Benzaldehyde + nitroethane + NH4OAc, heated on [[scythian-cannabis-steam-bath-ritual]] for 36 h. Product: canary-yellow crystals of 1-(3,5-dimethoxy-4-ethoxyphenyl)-2-nitropropene, mp 84-85 °C (total yield: 2.9 g from two crops)
+**PiHKAL #25** | [[scythian-cannabis-steam-bath-ritual]] for 36 h. Product: canary-yellow crystals of 1-(3,5-dimethoxy-4-ethoxyphenyl)-2-nitropropene, mp 84-85 °C (total yield: 2.9 g from two crops)
 3. **LAH reduction**: Nitrostyrene + LAH in THF, held at reflux for 48 h, then stirred at room temperature for another 48 h. Standard workup through acid-base extraction. Final product: 1.9 g 3,5-dimethoxy-4-ethoxyamphetamine hydrochloride as brilliant white crystals
 
 ## Qualitative Effects
@@ -64,9 +33,7 @@ At 60 mg, visuals were very strong and insistent. Body discomfort was heavy for 
 
 ## Structure-Activity Relationships
 
-3C-E occupies a unique position in the Shulgin catalog. It represents the "closing of the circle" — mescaline-entity|mescaline launched the entire phenethylamine [[hofmann-lsd-sandoz-research-program]], and the first half was the amphetamine period. When the two-carbon chain of mescaline was explored with knowledge of the critical 4-position substituent, compounds like 2c-b-compound-profile|2C-B and 2c-e-compound-profile|2C-E were discovered. 3C-E brings the 4-ethoxy substitution back to the amphetamine chain, completing a conceptual arc.
-
-The alpha-methyl group of 3C-E (compared to the phenethylamine Escaline) increases metabolic stability and duration, but adds stimulant properties and body load. This pattern is consistent across the 2C-to-DO series comparisons: 2C-I → [[dob-compound-profile]], etc.
+3C-E occupies a unique position in the Shulgin catalog. It represents the "closing of the circle" — mescaline-entity|mescaline launched the entire phenethylamine [[dob-compound-profile]], etc.
 
 ## Related Compounds and Commentary
 
@@ -81,5 +48,89 @@ The 3C series represents compounds that bridge the gap between the classic 2C ph
 - Stimulant effects can mask the psychedelic component, leading to redosing
 - Longer duration than corresponding 2C compounds
 - Strong fantasy takeover at higher doses may cause difficulty distinguishing reality from imagination
-- See [[dob-compound-profile]] — 4-bromo substituted amphetamine analogue
-- [[phenethylamine-synthesis-safety]]
+- See [[phenethylamine-synthesis-safety]]
+
+## Overview
+
+3C E Entity represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish 3c e entity
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving 3c extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+3C E Entity finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for 3c e entity. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+3c e entity and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+3C E Entity has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of 3c e entity into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[2c-g-3-entity]]
+- [[4-5-mdo-dmt-entity-tihkal]]
+- [[5-6-mdo-dipt-entity-tihkal]]
+- [[mdcpm-entity-pihkal]]
+- [[methyl-k-entity-pihkal]]

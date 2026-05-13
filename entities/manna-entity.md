@@ -9,7 +9,7 @@ type: entity
 Manna is the miraculous substance described in the Hebrew Bible (Exodus) as
 divine food provided by God to the Israelites during their 40-year wandering in
 the desert. In ethnomycological analysis, philological and botanical evidence
-identifies Manna as *Amanita muscaria* — the fly agaric mushroom. The name
+identifies Manna as *[[amanita-muscaria]]* — the fly agaric mushroom. The name
 itself, derived from the question "What is it?" (Man-hu), points to the
 mysterious, seedless appearance of mushrooms that seemed to arise miraculously
 from the earth.
@@ -59,7 +59,7 @@ life stages.
 ## Philological Evidence
 
 John Marco Allegro, one of the world's leading philologists and a translator of
-the Dead Sea Scrolls, demonstrated in *The Sacred Mushroom and the Cross* that:
+the Dead Sea Scrolls, demonstrated in *The [[sacred-mushroom-and-the-cross]]* that:
 
 - The word "Manna" derives from Sumerian roots meaning "mushroom"
 - Multiple biblical names and terms — including the names Jesus, James, and
@@ -142,9 +142,6 @@ Manna through the wilderness. In this analysis:
 Manna appears among dozens of synonymous names for *Amanita muscaria* across
 ## See Also
 
-- [[amanita-muscaria]] — The mushroom identified as Manna
 - [[john-allegro]] — Philologist who proved the Manna-mushroom connection
-- [[soma]] — The Hindu equivalent sacrament
 - [[fly-agaric]] — Common name for *Amanita muscaria*
-- [[holy-grail-entity]] — Another vessel symbol for the same substance
 - [[siberian-shamanism]] — Living tradition using the same mushroom

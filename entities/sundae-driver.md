@@ -29,37 +29,23 @@ sources:
 
 ## Overview
 
-Sundae Driver is an indica-dominant [[query-what-is-the-difference-between-indica-sativa-and-hybrid-cannabis]] strain bred by
-Cannabitoasis Genetics by crossing **Fruit Punch** with **GMO** (also known
-as [[gmo-garlic-cookies]]). Released in the late 2010s, it gained rapid popularity
+Sundae Driver is an indica-dominant [[gmo-garlic-cookies]]). Released in the late 2010s, it gained rapid popularity
 for its sweet, fruity aroma reminiscent of a sundae dessert and its deeply
 relaxing but not overwhelmingly sedating effects.
 
 The strain produces visually striking buds with deep purple hues and a thick
 coating of trichomes. It has become a staple in the "dessert strain"
-category alongside cultivars like Wedding Cake, Ice [[ice-cream-cake-cannabis]], and Gelato.
-
-Sundae Driver carries awards and recognition in the California cannabis
-community and has become a popular parent strain for further breeding,
-contributing its sweet [[cannabis-terpene-profile]] and purple coloration to crosses.
+category alongside cultivars like Wedding Cake, Ice [[cannabis-terpene-profile]] and purple coloration to crosses.
 
 ## Lineage
 
-- **Female parent:** Fruit Punch ([[oner-temple-bodhi-seeds-super-silver-haze-williams-wonder]] × Skunk × Hawaiian)
-- **Male parent:** GMO ([[girl-scout-cookies]] × Chemdawg)
+- **Female parent:** Fruit Punch ([[girl-scout-cookies]] × Chemdawg)
 - **Genetic ratio:** Approximately 70% indica / 30% sativa
 - **Breeder:** Cannabitoasis Genetics
 
 The Fruit Punch parent contributes tropical sweetness, citrus notes, and
 moderate uplifting effects. The GMO parent adds pungent garlic and onion
-undertones, high [[cannabis-glandular-trichome-types-resin-production-clarke]], and heavy indica body effects. The
-combination results in a complex flavor profile that balances sweet dessert
-notes with savory, earthy depth.
-
-## Appearance
-
-Buds are medium to large, dense, and elongated with a tapered structure.
-Colors range from [[trichoderma-forest-green-mold-guide]] to deep violet and almost black-purple,
+undertones, high [[trichoderma-forest-green-mold-guide]] to deep violet and almost black-purple,
 particularly in cooler growing conditions. Bright orange pistils curl
 throughout the calyxes in moderate abundance.
 
@@ -88,3 +74,77 @@ lingeringly sweet with a slight chemical pungency.
   myrcene with slight uplifting brightness
 - **Linalool** (trace) — floral, calming; adds complexity to the bouquet
 - **Humulene** (trace) — earthy, woody; rounds out the flavor profile
+
+## Overview
+
+Sundae Driver represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish sundae driver
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving sundae extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Sundae Driver finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for sundae driver. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+sundae driver and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Sundae Driver has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of sundae driver into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource

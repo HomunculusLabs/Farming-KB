@@ -22,69 +22,97 @@ sources:
 
 ## Overview
 
-Mimosa pudica is a creeping or sprawling annual or short-lived perennial herb in the family Fabaceae, famous for its rapid thigmonastic (touch-induced) leaf-folding response. Native to tropical Central and [[guzman-psilocybin-mushrooms-south-america]], it has become pantropical and is valued in traditional medicine systems across Asia, Africa, and the Americas. The plant is also notable as a nitrogen-fixing legume with applications in permaculture and soil improvement.
-
-## Taxonomy
-
-- **Kingdom:** Plantae
-- **Division:** Magnoliophyta
-- **Class:** Magnoliopsida
-- **Order:** Fabales
-- **Family:** Fabaceae
-- **Subfamily:** Mimosoideae
-- **Genus:** Mimosa
-- **Species:** *M. pudica*
-- **Authority:** L.
-- **Synonyms:** *Mimosa sensitiva* L.; *Mimosa cinerascens* Dombey ex Colla
-- **Etymology:** *Pudica* from Latin meaning "bashful" or "shrinking," referring to the plant's touch-responsive leaf movements
-
-## Morphology
-
-### Growth Habit
-- Annual or short-lived perennial, prostrate to semi-erect
-- Stems 15–100 cm long, slender, green to reddish, often branching from base
-- Entire plant covered in fine, bristly hairs (trichomes)
-- Forms dense mats up to 1 m in diameter
-
-### Leaves
-- Bipinnately compound, 4–8 cm long
-- 2–4 pairs of pinnae, each bearing 10–25 pairs of leaflets
-- Leaflets oblong, 3–8 mm long, folding upward along the midrib (pinnae also fold together) within seconds of mechanical stimulation
-- Recovery takes 15–30 minutes; habituation occurs with repeated stimulation
-- **Pulvinus mechanism:** Swelling at the base of petioles and petiolules containing motor cells (turgor-mediated) drives rapid movement; involves potassium, chloride, and calcium ion fluxes
-
-### Flowers
-- Pink to purplish, spherical flower heads (globular inflorescences), 8–12 mm diameter
-- Arising from leaf axils on peduncles 1–3 cm long
-- Each head contains 20–100 individual florets with prominent stamens
-- Flowers throughout the warm season; in tropics, nearly year-round
-
-### Fruit and Seed
-- Pods linear, flat, 1.5–2.5 cm × 4–6 mm, clustered in groups of 2–5
-- Pods bear 2–8 seeds; dehiscent, breaking into 1-seeded segments (loments)
-- Seeds flattened, ovoid, 2–3 mm, brown, with hard seed coat
-- Physical dormancy (hard-seeded); scarification improves germination
-
-### Roots
-- Taproot with extensive lateral root system
-- Forms nitrogen-fixing root nodules with Bradyrhizobium spp.
-- In some regions, produces enlarged root tubers up to 5 cm in diameter
-
-## Distribution and Habitat
-
-- Native to tropical America, from southern Mexico through [[guzman-allen-gartz-neurotropic-fungi-central-america-caribbean]] to northern Argentina and the Caribbean
-- Naturalized pantropically: Africa, South and [[psilocybe-southeast-asia-pacific]], [[guzman-allen-gartz-neurotropic-fungi-hawaii-pacific-islands]], northern Australia
+Mimosa pudica is a creeping or sprawling annual or short-lived perennial herb in the family Fabaceae, famous for its rapid thigmonastic (touch-induced) leaf-folding response. Native to tropical Central and [[guzman-allen-gartz-neurotropic-fungi-central-america-caribbean]] to northern Argentina and the Caribbean
+- Naturalized pantropically: Africa, South and [[guzman-allen-gartz-neurotropic-fungi-hawaii-pacific-islands]], northern Australia
 - Grows in disturbed sites, roadsides, pastures, cultivated fields, lawns, and open woodlands
 - Thrives in full sun to partial shade; tolerates a wide range of soils from sandy to clay
-- Invasive in some [[fukuoka-natural-farming-in-tropical-regions]] (Australia, parts of Southeast Asia)
+- Invasive in some [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]] identified in *Mimosa pudica*:
 
-## Phytochemistry
-
-Key [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]] identified in *Mimosa pudica*:
-
-- **Alkaloids:** Mimosine (major alkaloid; found in leaves, seeds, and roots at 0.5–1.5% dry weight), N,N-dimethyltryptamine (DMT) in trace amounts in [[iboga-root-bark-preparation]]
-- **Flavonoids:** Quercetin, kaempferol, myricetin derivatives; apigenin, luteolin
-- **Tannins:** Condensed tannins (proanthocyanidins) at 5–10% in leaves
-- **Triterpenoids:** Friedelin, β-amyrin, [[candida-albicans]]*
+- **Alkaloids:** Mimosine (major alkaloid; found in leaves, seeds, and roots at 0.5–1.5% dry weight), N,N-dimethyltryptamine (DMT) in trace amounts in [[candida-albicans]]*
 - **Anti-inflammatory:** Significant reduction in carrageenan-induced paw edema in rodent models
 - **Antidiarrheal:** Reduces intestinal motility and fluid secretion; traditional use well-supported
+
+## Overview
+
+Mimosa Pudica represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish mimosa pudica
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving mimosa extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Mimosa Pudica finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for mimosa pudica. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+mimosa pudica and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Mimosa Pudica has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of mimosa pudica into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[mimosa-cannabis]]
+- [[mimosa-hostilis]]
+- [[mimosa-tenuiflora]]
+- [[schultes-mimosa-jurema-dmt-brazil]]
+- [[tompkins-mimosa-pudica-sensitive-plant-experiments]]

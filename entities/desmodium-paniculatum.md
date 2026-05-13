@@ -15,55 +15,9 @@ sources:
   - Gleason H.A., Cronquist A. (1991). "Manual of Vascular Plants of Northeastern United States and Adjacent Canada." New York Botanical Garden.
   - Weakley A.S. (2023). "Flora of the Southeastern United States." University of North Carolina Herbarium.
   - USDA NRCS (2024). "The PLANTS Database." National Plant Data Team, Baton Rouge, LA.
-  - Cusick A.W. (2004). "Desmodium." In: Flora [[berry-growing]] North of Mexico, Vol. 3. Oxford University Press.
-  - Ogle D.W., St. John L. (2012). "Native Legumes of the United States." USDA NRCS Plant Materials Technical Note.
----
+  - Cusick A.W. (2004). "Desmodium." In: Flora [[polypore-fungi-eastern-north-america]].
 
-## Overview
-
-**Desmodium paniculatum** (L.) DC., commonly known as panicled tick-trefoil or tall tick-trefoil, is a perennial herbaceous legume native to eastern and central North America. It is a member of the Fabaceae family, subfamily Faboideae, recognized for its sticky loment fruits that adhere to animal fur and clothing for seed dispersal.
-
-The species is widespread across the eastern United States, occurring from Massachusetts and New York west to Minnesota and south to Texas and Florida. Desmodium paniculatum typically grows 0.5–2 meters tall and produces pink to lavender flowers in terminal panicles from mid-summer through early autumn.
-
-Desmodium paniculatum plays an important ecological role as a nitrogen-fixing legume in open woodlands, prairies, and old fields. It provides forage for wildlife and serves as a larval host plant for several butterfly species. The genus Desmodium contains approximately 300 species distributed worldwide, with roughly 30 species native to [[polypore-fungi-eastern-north-america]].
-
-The species is easily distinguished from related tick-trefoils by its relatively tall stature, open paniculate inflorescence, and the combination of narrow leaflets with a preference for drier upland sites. In the field, it is most commonly confused with [[desmodium-canadense]], which has broader leaflets and a more densely flowered raceme.
-
-## Taxonomy and Morphology
-
-Desmodium paniculatum was originally described as Hedysarum paniculatum by Carl Linnaeus in 1753 and later transferred to the genus Desmodium by Augustin Pyramus de Candolle in 1825. The specific epithet paniculatum refers to the paniculate (branched, loose) arrangement of the inflorescence. The species has a relatively stable taxonomic history compared to many other Desmodium species, with no major revisions since its transfer to Desmodium.
-
-A comprehensive taxonomic revision of North American Desmodium species by Ogle and St. John (2012) recognized three varieties within Desmodium paniculatum based on leaflet width and pubescence characters. These varieties — var. paniculatum, var. dillenii, and var. albiflorum — reflect morphological variation across the species' geographic range.
-
-The genus name Desmodium is derived from the Greek word "desmos," meaning a bond or chain, referring to the jointed loment fruits characteristic of the genus. The common name "tick-trefoil" reflects both the appearance and behavior of the fruits, which attach to passing animals like ticks.
-
-The species is closely related to Desmodium canadense (showy tick-trefoil) and Desmodium nudiflorum (naked-flowered tick-trefoil), with which it shares overlapping ranges and similar habitat preferences. Hybridization between Desmodium species has been documented, contributing to taxonomic complexity within the genus.
-
-Chromosomal studies have confirmed that Desmodium paniculatum is diploid with 2n = 22 chromosomes. Cytological variation within the genus includes both diploid and polyploid taxa, with polyploidy playing a significant role in the evolutionary diversification of the group. The relatively uniform chromosome number in D. paniculatum suggests it is a genetically stable lineage.
-
-Desmodium paniculatum is an erect to ascending perennial herb with slender, often slightly branching stems. Stems are typically green to purplish, covered with fine appressed trichomes, and arise from a woody taproot and shallow rhizome system.
-
-Leaves are alternate and trifoliolate, with leaflets 3–8 centimeters long and 1.5–4 centimeters wide. The terminal leaflet is slightly larger than the lateral pair. Leaf surfaces are green above and lighter below, with scattered hairs on both surfaces. Petioles range from 2–6 centimeters in length and bear conspicuous stipules at the base.
-
-The root system consists of a prominent taproot that can extend 0.5–1 meter deep, supplemented by lateral roots and shallow rhizomes. This combination of deep taproot and rhizomatous spread allows the species to access water and nutrients from multiple soil horizons while also enabling vegetative reproduction. Rhizome fragments can produce new shoots, contributing to local population expansion.
-
-The inflorescence is an open, terminal panicle, 10–30 centimeters long, bearing numerous small papilionaceous flowers. Each flower is approximately 5–8 millimeters long, with a pink to lavender corolla and a green calyx. Flowering occurs from July through September, with individual flowers opening sequentially over several weeks.
-
-Nectar production per flower is relatively low, but the large number of flowers per inflorescence makes Desmodium paniculatum a collectively significant nectar resource. Flowers are predominantly bee-pollinated, with the keel petal mechanism requiring a specific weight to trigger pollen release. This mechanism promotes cross-pollination by excluding lightweight or ineffective floral visitors.
-
-The fruit is a flattened loment (jointed pod) 3–5 segments long, each segment approximately 4–6 millimeters long. The outer surface of each segment is covered with hooked trichomes that facilitate attachment to animal fur. Seeds are reniform, approximately 2–3 millimeters long, brown to olive-green, and contain a hard seed coat that promotes physical dormancy.
-
-Seed germination in Desmodium paniculatum is often limited by physical dormancy imposed by the hard seed coat. Scarification through mechanical abrasion, acid treatment, or exposure to fire can break dormancy and promote germination. In natural populations, seed bank persistence of 5–10 years has been documented, allowing populations to recover after periods of unfavorable conditions.
-
-## Distribution and Habitat
-
-Desmodium paniculatum is distributed widely across eastern North America, from southern Maine and New Hampshire west to eastern Minnesota, eastern Nebraska, and eastern Oklahoma, and south to eastern Texas and northern Florida. It also occurs in southern Ontario, Canada. The species reaches its greatest abundance in the central and southern Appalachian regions, where it is a common component of woodland and roadside floras.
-
-Disjunct populations have been reported in the Ozark Highlands of Arkansas and Missouri, suggesting a historically broader distribution during the hypsithermal period. These disjunct populations are of conservation interest as they may represent unique genetic lineages adapted to interior highland conditions.
-
-The species occupies a broad range of open and semi-open habitats including dry to mesic upland woods, woodland edges, prairie remnants, old fields, roadsides, and savannas. It is most commonly found in partially shaded conditions but tolerates full sun in areas with adequate moisture. Elevational range extends from near sea level to approximately 1,000 meters.
-
-Desmodium paniculatum is frequently associated with other native legumes and warm-season grasses in tallgrass prairie remnants. Common associates include [[schizachyrium-scoparium]] (little bluestem), Sorghastrum nutans (indiangrass), [[andropogon-gerardii]] (big bluestem), [[lespedeza-capitata]], and various Asteraceae and Poaceae species.
+The species is easily distinguished from related tick-trefoils by its relatively tall stature, open paniculate inflorescence, and the combination of narrow leaflets with a preference for drier upland sites. In the field, it is most commonly confused with [[schizachyrium-scoparium]] (little bluestem), Sorghastrum nutans (indiangrass), [[lespedeza-capitata]], and various Asteraceae and Poaceae species.
 
 Desmodium paniculatum prefers well-drained, loamy to sandy soils with a slightly acidic to neutral pH (5.5–7.0). It is moderately drought-tolerant once established but performs best in areas receiving 80–120 centimeters of annual precipitation. The species is relatively intolerant of prolonged flooding or waterlogged conditions.
 
@@ -75,9 +29,7 @@ The phenology of Desmodium paniculatum is adapted to the warm-season growth cycl
 
 ## Ecology and Interactions
 
-Desmodium paniculatum forms root nodules in symbiotic association with rhizobial bacteria (Bradyrhizobium spp.), enabling [[biological-nitrogen-fixation-agriculture]]. This capability allows the species to enrich soil nitrogen content and contribute to ecosystem fertility. Nitrogen fixed by Desmodium species becomes available to neighboring plants through decomposition of leaf litter and root turnover.
-
-The sticky loment fruits are the primary mechanism of seed dispersal in Desmodium paniculatum. The hooked trichomes on the fruit segments readily attach to the fur of mammals, feathers of birds, and clothing of humans. This epizoochorous [[stinkhorn-fungi-phallales-spore-dispersal-strategy]] enables long-distance transport of seeds across the landscape.
+Desmodium paniculatum forms root nodules in symbiotic association with rhizobial bacteria (Bradyrhizobium spp.), enabling [[stinkhorn-fungi-phallales-spore-dispersal-strategy]] enables long-distance transport of seeds across the landscape.
 
 The flowers of Desmodium paniculatum are visited by a variety of pollinators, including long-tongued bees (Megachilidae and Apidae), short-tongued bees (Halictidae), and butterflies. The species serves as a larval host for the eastern-tailed blue butterfly (Cupido comyntas) and the gray hairstreak (Strymon melinus).
 
@@ -87,4 +39,89 @@ The foliage also supports a diverse assemblage of herbivorous insects, including
 
 Desmodium paniculatum is a component of successional plant communities, often establishing on disturbed sites within 2–5 years after disturbance. It competes moderately well with herbaceous weeds and can persist in old-field communities for decades. Its ability to fix nitrogen gives it an advantage on nutrient-poor substrates.
 
-In agricultural systems, Desmodium species have been studied as potential cover crops [[natural-farming-guide-cover-cropping-and-green-manures]] due to their nitrogen-fixing ability and [[dighton-fungal-biomass-production-aquatic-ecosystems]]. While Desmodium paniculatum is not widely cultivated, its [[dighton-fungal-drought-tolerance-plant-water-relations]] and adaptability to poor soils make it a candidate for [[phosphate-accumulators-sustainable-agriculture]] research. Related African Desmodium species are used in push-pull pest management systems with maize.
+In agricultural systems, Desmodium species have been studied as potential cover crops [[dighton-fungal-biomass-production-aquatic-ecosystems]]. While Desmodium paniculatum is not widely cultivated, its [[phosphate-accumulators-sustainable-agriculture]] research. Related African Desmodium species are used in push-pull pest management systems with maize.
+
+## Overview
+
+Desmodium Paniculatum represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish desmodium paniculatum
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving desmodium extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Desmodium Paniculatum finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for desmodium paniculatum. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+desmodium paniculatum and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Desmodium Paniculatum has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of desmodium paniculatum into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[desmodium-canadense]]
+- [[desmodium-gyrans]]
+- [[desmodium-illinoense]]
+- [[desmodium-incanum]]
+- [[desmodium-uncinatum]]

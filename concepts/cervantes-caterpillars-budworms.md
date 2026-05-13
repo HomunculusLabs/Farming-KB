@@ -15,12 +15,7 @@ type: concept
 Caterpillars and budworms are chewing insect pests that
 can cause significant damage to cannabis foliage and
 flowers. While they are seldom a problem indoors, they
-are common in [[query-how-do-i-choose-between-indoor-outdoor-and-greenhouse-cannabis-growing]] gardens. Their
-ability to burrow into developing buds makes them one
-of the most destructive pests during the flowering
-stage.
-
-See also: [[bud-rot-cannabis]]
+are common in [[bud-rot-cannabis]]
 
 ## Borers
 
@@ -55,16 +50,6 @@ undetected caterpillar activity.
   signs of entry holes or frass.
 - **Remove and destroy** infested buds to prevent the
   spread of disease.
-- **[[solomon-row-covers-and-season-extension]] or netting** can exclude moths from
-  laying eggs on outdoor plants.
-
-## Biological Control
-
-- **Trichogramma wasps** are parasitic wasps that lay
-  their eggs inside caterpillar eggs, preventing
-  them from hatching.
-- **Spined soldier bug** (Podisus maculiventris) is a
-  generalist predator that feeds on caterpillars.
 - **[[cervantes-bacillus-thuringiensis-bt-control]] (Bt)** is the most
   effective biological control for caterpillars. Btk
   (B. thuringiensis var. kurstaki) is toxic to many
@@ -73,13 +58,7 @@ undetected caterpillar activity.
   thuringiensis var. aizawai) is effective against
   hard-to-kill budworms, borers, and armyworms.
 
-See also: [[cervantes-biological-pest-control-predators]]
-
-## Chemical Sprays
-
-- **Bt formulations** (Dipel, Biobit, Javelin) are
-  the preferred first-line spray. They are specific
-  to caterpillars and safe for [[comparison-beneficial-insects-guide-vs-integrated-pest-management]].
+See also: [[comparison-beneficial-insects-guide-vs-integrated-pest-management]].
   Microencapsulated forms (M-Trak, Mattch) extend
   effective life on foliage to more than a week.
 - **Pyrethrum** provides a quick knockdown effect for
@@ -118,8 +97,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[dom]]
 - [[det]]
-- [[marijuana-horticulture-cervantes-hydroponic-growing-systems]]
 - [[cervantes-high-pressure-sodium-lighting]]
 - [[marijuana-horticulture-cervantes-cannabis-breeding-and-genetics]]

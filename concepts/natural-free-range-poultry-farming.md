@@ -8,7 +8,7 @@ type: concept
 
 ## Overview
 
-Natural free-range poultry farming, as practiced in the [[korean-natural-farming]] system, raises chickens without vaccines, antibiotics, or purchased commercial feeds. The system relies on deep-litter housing designed around the principle of "farming with air, water and sunlight," combined with [[beneficial-indigenous-microorganisms-lacto-bacilli]] (BIM) and bionutrients to maintain health and productivity. Developed by Dr. Han Kyu Cho and demonstrated by Gil A. Carandang at Herbana Farms in the Philippines, this approach has been successfully implemented at the UCSC Farm & Garden in California.
+Natural free-range poultry farming, as practiced in the [[beneficial-indigenous-microorganisms-lacto-bacilli]] (BIM) and bionutrients to maintain health and productivity. Developed by Dr. Han Kyu Cho and demonstrated by Gil A. Carandang at Herbana Farms in the Philippines, this approach has been successfully implemented at the UCSC Farm & Garden in California.
 
 ## Housing Design
 
@@ -23,12 +23,7 @@ The foundation of the natural poultry system is a deep-litter substrate:
 1. **Excavation**: Dig the floor area as deep as one yard (approximately 90 cm)
 2. **Substrate composition**: Mix soil, compost, and large amounts of sawdust
 3. **BIM application**: Spray the substrate with beneficial indigenous microorganisms
-4. **Bionutrient supplementation**: Add [[korean-natural-farming-imo-collection-fermented-plant-extracts]] to feed the beneficial microbes
-5. **Natural composting**: The substrate functions as an active compost pile
-
-### How the System Works
-
-As chickens deposit manure, the sawdust absorbs moisture. The chickens' natural scratching behavior mixes the manure into the substrate, providing aeration. [[bionutrients-lab-lactic-acid-bacteria-serum]] (the primary BIM component) arrest foul odors and help neutralize toxins. Over time, the mixture of chicken dung and substrate converts into high-quality organic fertilizer — completing the nutrient cycle with zero waste.
+4. **Bionutrient supplementation**: Add [[bionutrients-lab-lactic-acid-bacteria-serum]] (the primary BIM component) arrest foul odors and help neutralize toxins. Over time, the mixture of chicken dung and substrate converts into high-quality organic fertilizer — completing the nutrient cycle with zero waste.
 
 ### Ventilation Requirements
 - **Mandatory exhaust ventilation** in all housing
@@ -41,31 +36,7 @@ As chickens deposit manure, the sawdust absorbs moisture. The chickens' natural 
 ### Once-Daily Feeding
 - Chickens in the natural system are fed only **once per day**
 - This contrasts with conventional operations that provide continuous feed access
-- Reduced feeding frequency encourages natural [[root-foraging-behavior]]
-- Chickens supplement their diet by free-ranging
-
-### BIM in Water and Feeds
-- Lactic acid bacteria serum is diluted and added to both drinking water and feed
-- Benefits include:
-  - Better breakdown and assimilation of feed nutrients
-  - Improved feed conversion ratios
-  - Enhanced digestive health
-  - Toxin elimination
-
-### Natural Antibiotics
-- **Ginger-garlic extract** serves as a natural antibiotic for the flock
-- Used preventively to maintain health throughout the chickens' lives
-- Applied therapeutically when animals show signs of weakening or illness
-- High sulfur content in garlic provides antifungal and antibacterial properties
-
-## Health Outcomes
-
-### Demonstrated Results
-At the UCSC Farm & Garden, natural free-range chickens exhibited:
-
-- **No vaccines** administered
-- **No antibiotics** required
-- **No foul odors** from the [[poultry-housing-guide]]
+- Reduced feeding frequency encourages natural [[poultry-housing-guide]]
 - **Healthy, vigorous birds** with good growth rates
 - **Zero waste production** — all manure converted to fertilizer
 - **Once-daily feeding** with free-range supplementation
@@ -121,7 +92,6 @@ The core principles — deep litter, BIM application, proper ventilation, sunlig
 
 ## See Also
 
-- [[designer-compost-bokashi|Bokashi]] — Culturing and applying BIM
 - [[bionutrients-fermented-plant-extracts]] — Ginger-garlic extract and other natural supplements
 - [[farming-with-air-water-sunlight]] — The foundational principle behind housing design
 - lactic acid bacteria agriculture — Detailed lactic acid bacteria culture methods

@@ -44,13 +44,13 @@ Plants with low fire potential are critical for permaculture designs in fire-pro
 - Quercus robur (English Oak) -- recovers
 - Quercus suber (Cork Oak)
 - Quercus ilex (Holm Oak)
-- [[quercus-virginiana]] (Live Oak)
-- [[quercus-macrocarpa]] (Burr Oak)
+- Quercus virginiana (Live Oak)
+- Quercus macrocarpa (Burr Oak)
 - Quercus palustris (Pin Oak)
 
 ### Fruit and Nut Trees
 - Carya illinoensis (Pecan)
-- [[ceratonia-siliqua]] (Carob) -- recovers
+- Ceratonia siliqua (Carob) -- recovers
 - Castanea sativa (Sweet Chestnut)
 - Fortunella japonica (Round Kumquat) -- recovers
 - Juglans regia (Persian Walnut)
@@ -59,12 +59,12 @@ Plants with low fire potential are critical for permaculture designs in fire-pro
 - Ginkgo biloba
 
 ### Other Notable Trees
-- [[robinia-pseudoacacia]] (Black Locust)
+- Robinia pseudoacacia (Black Locust)
 - Salix spp. (Willows)
 - Populus alba (White Poplar) -- recovers
-- [[platanus-acerifolia]] (London Plane)
+- Platanus acerifolia (London Plane)
 - Tilia vulgaris (Linden)
-- [[aesculus-hippocastanum]] (Horse Chestnut)
+- Aesculus hippocastanum (Horse Chestnut)
 - Grevillea robusta (Silky Oak) -- does NOT recover
 
 ## Ground Covers with Low Fire Potential
@@ -97,37 +97,11 @@ Plants with low fire potential are critical for permaculture designs in fire-pro
 - [[difficult-site-planting]]
 - [[bee-forage-plant-system]]
 
-## Practical Applications
-
-The principles and techniques discussed here have wide-ranging applications
-across multiple disciplines and contexts. Practitioners and researchers
-continue to explore new ways to integrate these concepts into modern practice,
-adapting traditional knowledge to contemporary challenges and opportunities.
-
-## Key Considerations
-
-Several important factors influence the effectiveness and outcomes described
-in this topic. Understanding these considerations helps practitioners make
-informed decisions and avoid common pitfalls. Environmental conditions,
-timing, and material selection all play critical roles.
-
-## Historical Context
-
-The historical development of this subject reflects centuries of accumulated
-knowledge and practical experience. From traditional methods passed down
-through generations to modern scientific approaches, the evolution continues
-to inform current best practices and research directions.
-
-## Common Challenges
-
-Practitioners frequently encounter several challenges when working with
-these concepts. Climate variability, resource limitations, and knowledge
-gaps can all affect outcomes. Addressing these challenges requires patience,
-observation, and a willingness to adapt approaches based on results.
-
 ## See Also
-- [[permaculture-design]]
-- [[juglans-regia]]
-- [[acer-platanoides]]
-- [[acacia]]
-- [[quercus-suber]]
+
+- [[fire-effect-on-forest-soils-and-nutrient-loss]]
+- [[fire-effects-on-forest-soils-and-nutrient-losses]]
+- [[fire-og]]
+- [[fire-resistant-house-design-and-siting]]
+- [[fire-resistant-housing-design]]
+- [[fire-resistant-settlement-design-and-house-siting]]

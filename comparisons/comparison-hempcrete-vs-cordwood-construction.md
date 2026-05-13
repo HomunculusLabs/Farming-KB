@@ -10,7 +10,7 @@ sources: []
 
 ## Overview
 
-Hempcrete and cordwood are two distinctive natural building methods that
+Hempcrete and cordwood are two distinctive [[natural-building]] methods that
 prioritize sustainability, low embodied energy, and healthy indoor
 environments. Both rely on plant-based materials combined with mineral
 binders, yet they differ fundamentally in their structural approach,
@@ -21,29 +21,6 @@ walls. Understanding their differences helps builders choose the right
 system for climate, budget, and available materials.
 
 ## Hempcrete
-[[hempcrete-and-hemp-lime-construction]]
-
-Hempcrete is a biocomposite material made from the woody core of the
-hemp plant (hurd or shiv) mixed with a lime-based binder and water. It
-is not a structural material — it serves as insulating infill around a
-timber frame or other load-bearing structure. Developed in France in the
-1990s, hempcrete has gained prominence as one of the few building
-materials that can genuinely claim to be carbon-negative. The hemp plant
-sequesters CO2 during its rapid 100-to-120-day growth cycle, and the
-lime binder continues absorbing carbon dioxide through carbonation for
-decades after construction.
-
-Hempcrete walls offer excellent thermal insulation (R-value roughly 2.1
-per inch), outstanding moisture regulation, and high vapor permeability.
-The material is lightweight — roughly one-seventh the density of
-concrete — and creates a healthy indoor environment by buffering
-humidity and resisting mold. Hempcrete is typically cast in place using
-temporary formwork or sprayed onto structural frames, and it requires
-several weeks to dry and begin hardening before plaster finishes can be
-applied. The lime binder continues to carbonate and strengthen over
-time, meaning a hempcrete wall actually improves with age.
-
-## Cordwood Construction
 [[cordwood-construction]]
 
 Cordwood construction (also called cordwood masonry or stackwall) is a
@@ -134,8 +111,6 @@ the log ends from persistent moisture exposure.
 
 ## See Also
 
-- [[hempcrete-and-hemp-lime-construction]]
 - [[cordwood-construction]]
-- [[comparison-hempcrete-vs-rammed-earth]]
-[[comparison-cob-vs-cordwood]]
+- [[comparison-cob-vs-cordwood]]
 - [[natural-building-materials-guide]]

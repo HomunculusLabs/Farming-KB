@@ -10,7 +10,7 @@ sources:
 ---
 # Ingham — AACT Brewing Techniques
 
-Elaine Ingham's approach to Actively [[actively-aerated-compost-tea-aact-brewing]] Tea (AACT) brewing emphasizes precise control of aeration, food resources, [[aact-compost-quality-standards-ingham]], and brew duration. The goal is to extract and multiply beneficial organisms from compost while maintaining strictly aerobic conditions throughout the process.
+Elaine Ingham's approach to Actively [[aact-compost-quality-standards-ingham]], and brew duration. The goal is to extract and multiply beneficial organisms from compost while maintaining strictly aerobic conditions throughout the process.
 
 ## Core Brewing Principles
 
@@ -18,37 +18,7 @@ AACT brewing is analogous to making milk or baking a cake — every step in the 
 
 ## Biofilm Management
 
-A critical but often overlooked aspect of brewing is biofilm accumulation on tank surfaces. Anaerobic and facultative [[ingham-anaerobic-organisms-role-soil]] exist dormant in compost. When organisms attach to tank surfaces, layer upon layer builds until oxygen can no longer diffuse into the lower biofilm layers. Dormant anaerobes in those layers then activate, producing harmful metabolites.
-
-- Flat-bottom tanks are problematic because 90-degree corners are difficult to clean and poorly aerated
-- Non-removable lids accumulate biofilm on the underside from foam and splash
-- Even ships moving through well-aerated water develop biofilm — surfaces must be cleaned
-- Biofilm must be washed off at the end of every brewing run
-
-## The 24-Hour Brew Cycle
-
-Ingham recommends brewing for only 24 hours. This limited duration is chosen to:
-- Prevent biofilm buildup from reaching anaerobic depths
-- Control food resource addition so it doesn't outstrip aeration capacity
-- Extract organisms before they begin competing for limited resources
-
-## Compost-to-Water Ratios
-
-The relationship between compost amount and water volume is non-linear — more water requires proportionally less compost. Recommended ratios for well-designed AACT machines:
-
-| Water Volume | Compost Needed |
-|---|---|
-| 5 gallons | ~1 lb |
-| 25 gallons | ~7 lbs |
-| 50 gallons | ~10 lbs |
-| 100 gallons | ~12 lbs |
-| 500 gallons | ~15–20 lbs |
-
-Machines requiring dramatically more compost (e.g., 100 lbs for 100 gallons) are considered poorly designed. Compost quality matters more than quantity — the better the compost, the less volume required.
-
-## Removing Compost Mid-Brew
-
-Taking the compost out halfway through the brew helps maintain aerobic conditions. The organisms growing in the compost mass are difficult to aerate effectively, and removing the compost reduces oxygen demand while preserving [[bioremediation-fungal-biomass-biosorbent-material]] that might otherwise be lost if the tea goes anaerobic.
+A critical but often overlooked aspect of brewing is biofilm accumulation on tank surfaces. Anaerobic and facultative [[bioremediation-fungal-biomass-biosorbent-material]] that might otherwise be lost if the tea goes anaerobic.
 
 ## Food Resource Addition
 
@@ -57,35 +27,8 @@ Food is added to grow the organisms extracted from compost, not to substitute fo
 - Some machines (e.g., Growing Solutions) should not use molasses at all — they grow E. coli
 - Kelp provides both surface area for fungi and micronutrients for plants
 - Fish hydrolysate provides fungal food and protein
-- Humic acids are the most [[ethanol-pasteurization-selective-fungal-isolation]] food
-- Diversity of food sources produces diversity of organisms
-
-## Quality Testing
-
-After brewing, Ingham recommends a simple field test:
-1. Fill a sealed plastic container 1/2 full with tea
-2. Store in a warm place for 24 hours
-3. Check smell — if it remains pleasant, the tea is likely good
-4. Send a sample to a lab for organism assessment (bacteria, fungi, protozoa)
-
-## Water Quality
-
-Chlorine in municipal water destroys organism activity. Best removal methods:
-- Aerate water overnight before brewing
-- Use a fountain or cascade system to degas chlorine
-- Water droplets falling through air (sprinklers, drip emitters) reduce chlorine impact nearly completely
-- The nose can be trained to detect insufficient de-gassing
-
-## Temperature Effects
-
-Cold water slows reproduction rates. Most tea organisms need 24 hours to activate and grow. Cold-loving psychrophilic bacteria and fungi exist in tea but require 3–4 weeks to activate. In cool conditions, longer brew times (3–4 days) can reach these cold-adapted organisms, with the oxygen probe indicating when growth begins.
-
-## See Also
-
-- [[chamovitz-circadian-rhythm-internal-clock-plants]]
-- [[ingham-field-guide-overview]]
+- Humic acids are the most [[chamovitz-circadian-rhythm-internal-clock-plants]]
 - [[ingham-aact-disease-suppression]]
-- [[compost-tea-aact]]
 - [[aact-aeration-oxygen-management-ingham]]
 
 ## Practical Applications
@@ -117,8 +60,91 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[elaine-ingham]]
 - [[det]]
-- [[ethanol]]
 - [[ingham-aact-worm-leachate-extract-comparison-brewing-methods]]
 - [[ingham-aact-brewing-equipment-reliability-machine-testing-standards]]
+
+## Overview
+
+Ingham Aact Brewing Techniques represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish ingham aact brewing techniques
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving ingham extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Ingham Aact Brewing Techniques finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for ingham aact brewing techniques. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+ingham aact brewing techniques and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Ingham Aact Brewing Techniques has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of ingham aact brewing techniques into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[aact-brewer-machine-design-testing-standards-ingham]]
+- [[aact-clopyralid-persistent-herbicide-compost-contamination-ingham]]
+- [[aact-saprophytic-pathogenic-fungal-spectrum-hyphal-diameter-ingham]]
+- [[ingham-fungal-inoculum-sourcing]]
+- [[ingham-thermal-compost-versus-worm-compost]]

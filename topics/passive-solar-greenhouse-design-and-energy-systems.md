@@ -56,29 +56,10 @@ related_concepts:
 
 # Passive Solar Greenhouse Design and Energy Systems
 
-Passive solar greenhouse design and [[holmgren-wind-power-and-renewable-energy-debate]] systems represent a convergence
-of ancient building wisdom and modern ecological engineering. At their core, these
-systems address a fundamental challenge in agriculture and homesteading: how to
-capture, store, and distribute energy from natural sources to create productive
-growing environments and comfortable living spaces without reliance on fossil fuels.
-As energy costs rise and climate instability disrupts growing seasons, the ability to
-design resilient, self-heating structures becomes essential for food security and
-sustainable land stewardship.
+Passive solar greenhouse design and [[fukuoka-textdoc-three-dimensional-solar-energy-methodless-method]] Book*.
 
-The distinction between passive and active energy systems is central to this field.
-Active systems rely on external energy inputs such as electric heaters and forced-air
-fans. Passive systems harness natural phenomena — solar radiation, thermal mass,
-gravity-driven air movement, and the insulating properties of earth and water — to
-maintain stable temperatures. A well-designed passive structure can reduce heating
-costs by 60 to 80 percent compared to conventional buildings, as documented in
-Mazria's *The Passive [[fukuoka-textdoc-three-dimensional-solar-energy-methodless-method]] Book*.
-
-This topic page synthesizes knowledge spanning [[passive-solar-design]],
-[[greenhouse-design]], earth-sheltered-structures-permaculture, and
-[[rocket-mass-heater-design]]. It is grounded in the permaculture principle of
-catch-and-store-energy-permaculture-principle, which instructs designers to
-intercept energy flows passing through a site and convert them into useful stored
-forms. Sunlight becomes heat stored in thermal mass; biomass becomes [[phase-change-materials-thermal-energy-storage]]
+This topic page synthesizes knowledge spanning [[greenhouse-design]], earth-sheltered-structures-permaculture, and
+[[phase-change-materials-thermal-energy-storage]]
 through efficient combustion; wind and water become electricity through
 appropriately scaled generators.
 
@@ -109,42 +90,8 @@ during the day while conduction provides steady radiant heat through the night.
 
 ## See Also
 
-- [[passive-solar-design]]
 - [[passive-solar-and-biomass-energy]]
-- [[greenhouse-design]]
 - [[greenhouse-growing-guide]]
-- [[geodesic-greenhouse-design]]
 - [[underground-greenhouse-walipini]]
-- [[rocket-stove-design]]
 - [[rocket-stove]]
-- [[rocket-mass-heater-design]]
 - [[masonry-heater-design]]
-- earth-sheltered-structures-permaculture
-- [[energy-efficient-house-design]]
-- [[solar-water-heating]]
-- [[solar-cooking-methods]]
-- [[solar-dehydrator-plans]]
-- [[solar-oven-cooking]]
-- [[solar-food-dehydrator-diy]]
-- faires-passive-solar-energy-systems
-- faires-thermal-mass-applications-in-building
-- faires-shaderoom-and-passive-cooling-design
-- faires-underground-and-earth-berm-homes
-- [[biomass-compost-greenhouse-heating-systems]]
-- catch-and-store-energy-permaculture-principle
-- [[energy-descent-action-planning]]
-- [[cold-climate-farming-and-season-extension]]
-- [[greenhouse-gardening-and-season-extension]]
-- [[four-season-farming-and-winter-harvest]]
-
-## References
-
-- Mazria, Edward. *The Passive Solar Energy Book*. Rodale Press, 1979.
-- McCullagh, James. *The Solar Greenhouse Book*. Rodale Press, 1978.
-- Coleman, Eliot. *Four-Season Harvest*. Chelsea Green Publishing, 1992.
-- Coleman, Eliot. *The [[coleman-claytonia-winter-harvest-cultivation]] Handbook*. Chelsea Green Publishing, 2009.
-- Mollison, Bill. *Permaculture: A Designer's Manual*. Tagari Publications, 1988.
-- Evans, Ianto, and Leslie Jackson. *[[query-what-is-a-rocket-mass-heater-and-how-does-it-work]] Heaters*. Cob Cottage, 2006.
-- Evans, Ianto, Michael G. Smith, and Linda Smiley. *The Hand-Sculpted House*.
-  Chelsea Green Publishing, 2002.
-- Hemenway, Toby. *Gaia's Garden*. Chelsea Green Publishing, 2001.

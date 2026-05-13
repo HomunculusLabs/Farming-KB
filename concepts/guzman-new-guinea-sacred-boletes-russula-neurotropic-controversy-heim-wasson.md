@@ -10,19 +10,7 @@ tags: [neurotropic-fungi, new-guinea, boletus, russula, heimiella, sacred-fungi,
 
 ## Overview
 
-New Guinea represents one of the most controversial and enigmatic regions in the study of neurotropic fungi. As documented by Guzmán, Allen & Gartz (2000), the island harbors an extraordinary assemblage of putatively psychoactive Boletus and Russula species that were studied by Roger Heim and R. Gordon Wasson in the 1950s-1960s. The neurotropic status of many of these species remains deeply contested, with Jonathan Ott (1993) and others questioning whether several of these mushrooms actually contain psychoactive compounds. New Guinea's [[ethnobotanical-use-of-sacred-mushrooms-in-indigenous-cultures]] reportedly use these mushrooms ceremonially, but the scientific evidence for their psychoactivity remains incomplete and disputed.
-
-## Historical Background
-
-The investigation of New Guinea's neurotropic fungi began with the collaborative work of Roger Heim and R. Gordon Wasson, who explored the region's mycological resources alongside their famous studies of Mexican Psilocybe species. Their work, published between 1958 and 1965, documented numerous Boletus, Heimiella, and Russula species used by indigenous peoples of the New Guinea highlands. The ethnographic context — indigenous groups reportedly consuming large, fleshy boletes for ceremonial or intoxicating purposes — was unprecedented, as psychoactive mushroom use had previously been documented only in the context of small, thin-fleshed Psilocybe and Panaeolus species.
-
-## Boletus Species
-
-The Guzmán, Allen & Gartz survey lists six Boletus species from New Guinea with reported neurotropic properties:
-
-- **Boletus flammeus** — Corner (1972), Heim (1966, 1978), Singer (1978), Ott (1993, who stated this species is not neurotropic). A brightly colored bolete with orange-red tones.
-- **Boletus kumaeus** — Heim & Wasson (1958, 1965), Heim (1963, 1965a, 1978), Singer (1978), Schultes & Hofmann (1979), Ott (1993, who stated this species is not neurotropic). Named after the Kuma people of the New Guinea highlands.
-- **[[boletus-manicus-new-guinea-psychoactive-bolete]]** — Heim & Wasson (1958, 1965), Heim (1963, 1965a, 1978), Corner (1972), Singer (1978), Schultes & Hofmann (1979), Ott (1993). The specific epithet "manicus" derives from the Latin for "madness" or "frenzy," directly referencing the reported psychoactive effects. This species is the most frequently cited in discussions of New Guinea's psychoactive boletes.
+New Guinea represents one of the most controversial and enigmatic regions in the study of neurotropic fungi. As documented by Guzmán, Allen & Gartz (2000), the island harbors an extraordinary assemblage of putatively psychoactive Boletus and Russula species that were studied by Roger Heim and R. Gordon Wasson in the 1950s-1960s. The neurotropic status of many of these species remains deeply contested, with Jonathan Ott (1993) and others questioning whether several of these mushrooms actually contain psychoactive compounds. New Guinea's [[boletus-manicus-new-guinea-psychoactive-bolete]]** — Heim & Wasson (1958, 1965), Heim (1963, 1965a, 1978), Corner (1972), Singer (1978), Schultes & Hofmann (1979), Ott (1993). The specific epithet "manicus" derives from the Latin for "madness" or "frenzy," directly referencing the reported psychoactive effects. This species is the most frequently cited in discussions of New Guinea's psychoactive boletes.
 - **Boletus nigerrimus** — Corner (1972). A very dark species, less frequently discussed in the neurotropic context.
 - **Boletus nigerimus** — Heim (1963, 1978), Heim & Wasson (1965), Corner (1972). Another dark-pigmented bolete.
 - **Boletus nigroviolaceus** — Heim & Wasson (1958, 1965), Heim (1963, 1965a, 1978), Corner (1972), Hongo (1973b), Singer (1978), Schultes & Hofmann (1979), Ott (1993, who stated this species is not neurotropic). A dark species with violaceous (purple-blue) tones.
@@ -73,30 +61,7 @@ Beyond the controversial boletes and Russula, New Guinea also hosts confirmed ne
 - **Copelandia lentispora** — Gerhardt (1996)
 - **Gerronema fibula** — Hongo (1974), Corner (1994)
 - **Panaeolus rubricaulis** — Yokoyama (1979), Gerhardt (1996)
-- **[[gartz-panaeolus-subbalteatus-taxonomy-and-intoxication-history]]** — Hongo (1976), Dennis (1986)
-- **Psilocybe brunneocystidiata** — Guzman (1983)
-- **Psilocybe incospicua** — Guzmán (1983)
-- **Psilocybe kumaenorum** — Heim et al. (1967), Heim (1978), Singer (1978), Guzmán (1983), Ott (1993)
-- **Psilocybe papuana** — Guzmán (1983)
-- **Psilocybe pseudobullacea** — Guzmán (1996)
-
-## Biogeographic Significance
-
-New Guinea's putatively neurotropic boletes and Russula species are not known from any other region, making the island a unique case in the global distribution of neurotropic fungi. The absence of these species from the well-documented Mexican, European, and Asian neurotropic mycotas raises questions about whether the reported effects are genuine or represent a distinct class of psychoactive compounds not found elsewhere. The island's isolation, ancient geological history, and extraordinary overall biodiversity (New Guinea is one of the most biodiverse regions on Earth) make evolutionary novelty plausible but unconfirmed.
-
-## Research Needs
-
-The resolution of this controversy requires:
-1. **Chemical analyses** of fresh collections using modern methods (HPLC-MS, GC-MS) to detect known indole alkaloids or novel psychoactive compounds
-2. **Ethnographic fieldwork** with contemporary indigenous communities to document current practices and verify historical reports
-3. **Taxonomic revision** using molecular phylogenetics to clarify species boundaries and relationships
-4. **Bioassay studies** to determine whether extracts produce psychoactive effects in controlled settings
-
-## Indigenous Use Context
-
-The ethnographic context of mushroom use in the New Guinea highlands is poorly documented compared to the extensive literature on Mesoamerican mushroom ceremonies. The available accounts suggest that indigenous communities in the Wahgi Valley and other highland areas consumed large, fleshy boletes, often roasted or cooked, during communal gatherings. Unlike the carefully structured Mazatec velada ceremonies documented by Wasson in Mexico, the New Guinea use appears to have been more casual and communal in nature.
-
-The possibility that the reported effects resulted from species confusion with known psychoactive mushrooms (such as Psilocybe cubensis or Copelandia species that do occur in New Guinea) cannot be entirely ruled out. However, the specificity of the [[psilocybin-chemistry-stability-indigenous-knowledge]] — reportedly distinguishing between different bolete species and selecting particular ones for their effects — argues against simple confusion.
+- **[[psilocybin-chemistry-stability-indigenous-knowledge]] — reportedly distinguishing between different bolete species and selecting particular ones for their effects — argues against simple confusion.
 
 ## Heim and Wasson's Investigation
 
@@ -112,23 +77,11 @@ The New Guinea case is unique among documented traditions of psychoactive mushro
 |---------|-------------------|----------------------------|-------------------|
 | Mushroom type | Small, thin-fleshed | Large, fleshy | Medium, fleshy |
 | Primary compounds | Psilocybin/psilocin | Unknown/disputed | Ibotenic acid/muscimol |
-| [[kava-traditional-preparation-ceremonial-context]] | Formal velada | Casual communal | Shamanic ritual |
-| Chemical confirmation | Extensive | Absent | Extensive |
-| Taxonomic certainty | High | Low (many disputed) | High |
-
-This comparison highlights how unusual the New Guinea tradition would be if confirmed. Every other well-documented tradition of psychoactive mushroom use involves species with confirmed chemistry, whereas the New Guinea boletes and Russula species remain chemically unverified despite decades of awareness.
-
-## Implications for the Field
-
-The New Guinea controversy has broader implications for ethnomycology and ethnobotany:
-- It demonstrates the difficulty of verifying ethnographic reports of psychoactive substance use when chemical confirmation is lacking
-- It highlights the importance of distinguishing between cultural beliefs about psychoactive properties and actual pharmacological activity
-- It raises the possibility that novel classes of psychoactive fungal compounds may exist, awaiting discovery in under-explored [[fukuoka-natural-farming-in-tropical-regions]]
+| [[fukuoka-natural-farming-in-tropical-regions]]
 - It serves as a cautionary example about the propagation of unverified claims through secondary literature
 
 ## See Also
 
-- [[guzman-allen-gartz-new-guinea-sacred-fungi-boletus-russula-controversy]]
 - [[guzman-allen-gartz-neurotropic-fungi-australasia]]
 - heim roger mycologist mexico neurotropic
 - wasson rgordon soma mushroom history

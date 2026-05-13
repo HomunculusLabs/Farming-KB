@@ -12,13 +12,9 @@ type: concept
 
 In the final chapters of Food of the Gods, McKenna advances one of his most controversial arguments: that modern governments, particularly through their intelligence agencies, have not merely failed to stop the drug trade but have actively participated in and profited from it.
 
-This argument reframes the [[cervantes-war-on-drugs-statistics]] not as a well-intentioned policy failure but as a deliberate mechanism of social control and illicit revenue generation by the same institutions that publicly condemn drug use.
+This argument reframes the [[dmt-containing-plants-united-states-halpern]] at the turn of the century, racist rumormongering fanned the hysterical fear that southern blacks, maddened by cocaine, might attack whites. In 1906 the Pure Food and Drug Act made cocaine and heroin illegal and set the stage for legally sanctioned suppression of addictive compounds from the opium poppy and coca bush.
 
-## Modern Antidrug Hysteria
-
-In the [[dmt-containing-plants-united-states-halpern]] at the turn of the century, racist rumormongering fanned the hysterical fear that southern blacks, maddened by cocaine, might attack whites. In 1906 the Pure Food and Drug Act made cocaine and heroin illegal and set the stage for legally sanctioned suppression of addictive compounds from the opium poppy and coca bush.
-
-In contrast to tobacco, tea, and coffee, which were initially resisted and then made legal, [[lsd]] represent one face of this phenomenon: the state's desire to control and weaponize psychoactive experience. The other face is the tacit tolerance of drug trafficking when it serves foreign policy objectives, from the Golden Triangle to [[guzman-allen-gartz-neurotropic-fungi-central-america-caribbean]].
+In contrast to tobacco, tea, and coffee, which were initially resisted and then made legal, [[guzman-allen-gartz-neurotropic-fungi-central-america-caribbean]].
 
 McKenna's broader point is that the state has always been deeply involved with drugs, not as a disinterested regulator but as an active participant seeking to shape and control the drug landscape for its own purposes. Prohibition is simply the most visible expression of this involvement.
 
@@ -26,8 +22,6 @@ The history of drugs and governments is ultimately a history of power, and of th
 
 ## See also
 
-[[ethnomycology-as-discipline]]
-mckenna-legalization-debate-and-archaic-revival
 [[mckenna-consciousness-expansion-and-drug-war]]
 ## Practical Applications
 

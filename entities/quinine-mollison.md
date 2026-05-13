@@ -9,7 +9,7 @@ tags: [medicinal-plant, alkaloid, antimalarial, permaculture, cinchona]
 
 ## Description
 
-quinine mollison is a bitter alkaloid mentioned by [[bill-mollison]] in *[[permaculture]]: A Designers' Manual* as an example of a crop with "special value" — a substance that commands unique importance beyond ordinary food production. Extracted from the bark of Cinchona trees, quinine was historically the primary treatment for malaria and remains one of the most significant medicinal compounds derived from plants.
+quinine mollison is a bitter alkaloid mentioned by [[permaculture]]: A Designers' Manual* as an example of a crop with "special value" — a substance that commands unique importance beyond ordinary food production. Extracted from the bark of Cinchona trees, quinine was historically the primary treatment for malaria and remains one of the most significant medicinal compounds derived from plants.
 
 ## Classification
 
@@ -40,13 +40,7 @@ quinine mollison is a bitter alkaloid mentioned by [[bill-mollison]] in *[[perma
 
 ## Relevance to Permaculture and Mycology
 
-Cinchona trees represent an ideal permaculture element: a long-lived perennial that produces a high-value product from bark (a renewable resource when harvested sustainably). As forest trees, Cinchona species fit naturally into agroforestry systems and [[food-forest]] designs. Their highland tropical habitat suggests integration with coffee, tea, and other understory crops.
-
-The mycorrhizal associations of Cinchona trees in their native Andean cloud forest habitat are likely crucial for nutrient uptake in the nutrient-poor montane soils. The trees support epiphytic communities including mosses, lichens, and fungi that contribute to the cloud forest ecosystem. Understanding these fungal relationships is important for successful cultivation outside native ranges.
-
-## Source Reference
-
-Mollison, B. (1988). *Permaculture: A Designers' Manual*. [[tagari-publications]]. Chapter 2, section on Maximum Product Yield Concept.
+Cinchona trees represent an ideal permaculture element: a long-lived perennial that produces a high-value product from bark (a renewable resource when harvested sustainably). As forest trees, Cinchona species fit naturally into agroforestry systems and [[tagari-publications]]. Chapter 2, section on Maximum Product Yield Concept.
 
 ## Historical Context
 - Emerged from observations of natural systems and ecological patterns
@@ -73,9 +67,7 @@ Mollison, B. (1988). *Permaculture: A Designers' Manual*. [[tagari-publications]
 
 ## See Also
 - quinine mollison
-- [[mollison-designers-wool-insulation-and-natural-textiles]]
 - [[mollison-designers-house-design-climate-zones]]
-- [[mollison-designers-seed-dormancy-and-germination-treatments]]
 - [[mollison-town-permaculture-urban-food-systems]]
 
 ## Overview and Definition
@@ -116,7 +108,5 @@ Mollison, B. (1988). *Permaculture: A Designers' Manual*. [[tagari-publications]
 
 ## Related Topics
 - quinine mollison
-- [[mollison-designers-coffee-shade-growing-systems]]
 - [[mollison-designers-willow-water-and-natural-rooting-propagation]]
-- [[mollison-earthworks-planning-and-post-earthworks-planting]]
 - [[mollison-village-enterprises-occupations]]

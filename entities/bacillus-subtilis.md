@@ -5,7 +5,7 @@ updated: 2026-05-06
 type: organism
 subtype: bacterium
 aliases:
-  - [[knf-hay-bacillus-disease-control]]
+  - knf-hay-bacillus-disease-control
   - grass bacillus
   - Bacillus subtilis 168
   - Bacillus subtilis QST 713
@@ -75,16 +75,10 @@ and leathery with sporulation.
 
 ## Ecological Role
 
-Ubiquitous in soil, decaying [[hamilton-composting-and-organic-matter-management]], and the rhizosphere. Promotes
-plant growth directly through IAA production, phosphate solubilization, and
-siderophore-mediated [[fungal-siderophores-iron-acquisition-mycorrhiza]]. Indirect mechanisms include pathogen
-biocontrol via antibiosis and [[endophytic-mycorrhizal-induced-systemic-resistance]] resistance (ISR). Also found
-in marine environments, the phyllosphere, and animal gastrointestinal tracts.
-Endospore formation allows persistence through hostile conditions and rapid
-recolonization when conditions improve.
-
-## Industrial Applications
-
-Holding FDA GRAS status, *B. subtilis* is a major industrial microorganism.
-Large-scale [[ligninolytic-enzyme-production-bioremediation]] includes amylases, proteases (detergents),
+Ubiquitous in soil, decaying [[fungal-siderophores-iron-acquisition-mycorrhiza]]. Indirect mechanisms include pathogen
+biocontrol via antibiosis and [[ligninolytic-enzyme-production-bioremediation]] includes amylases, proteases (detergents),
 lipases, cellulases, and xylanases. Excellent heterologous protein expression
+
+## See Also
+
+- [[knf-hay-bacillus-disease-control]]

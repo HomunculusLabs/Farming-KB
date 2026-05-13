@@ -10,9 +10,7 @@ sources:
 
 # Seed Quality and Germination Testing (Solomon)
 
-From [[solomon-seed-storage-for-maximum-viability]]
-- [[comparison-seed-saving-vs-hybrid-seeds]]
-- [[home-garden-seed-saving]]
+From [[comparison-seed-saving-vs-hybrid-seeds]]
 - [[david-holmgren]]
 ## Background and Context
 

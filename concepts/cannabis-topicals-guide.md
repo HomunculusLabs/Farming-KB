@@ -9,7 +9,7 @@ sources: []
 
 ## Overview
 
-Cannabis topicals are preparations applied directly to the skin for localized relief of pain, inflammation, muscle soreness, and [[cannabis-for-skin-conditions-detailed]]. Unlike inhaled or ingested cannabis, topicals do not produce psychoactive effects because cannabinoids do not readily penetrate the bloodstream through the skin when applied topically (they bind to CB2 receptors in the skin and local tissues).
+Cannabis topicals are preparations applied directly to the skin for localized relief of pain, inflammation, muscle soreness, and skin conditions. Unlike inhaled or ingested cannabis, topicals do not produce psychoactive effects because cannabinoids do not readily penetrate the bloodstream through the skin when applied topically (they bind to CB2 receptors in the skin and local tissues).
 
 ## How Cannabis Topicals Work
 
@@ -33,13 +33,13 @@ This guide focuses on topicals. Transdermal products require pharmaceutical-grad
 
 Salves are oil-based preparations with a firm, waxy consistency. They are the simplest and most common homemade cannabis topical.
 
-**Base ingredients**: Cannabis-infused oil + beeswax (or [[comparison-beeswax-vs-shellac-vs-carnauba-wax]] for vegan option)
+**Base ingredients**: Cannabis-infused oil + beeswax (or carnauba wax for vegan option)
 **Consistency**: Firm, spreadable, melts on skin contact
 **Best for**: Joint pain, muscle soreness, arthritis
 
 ### Balms
 
-Similar to salves but typically include more butter (shea, cocoa) and [[comparison-essential-oils-vs-neem-oil-vs-insecticidal-soap]] for a richer, creamier texture.
+Similar to salves but typically include more butter (shea, cocoa) and essential oils for a richer, creamier texture.
 
 **Base ingredients**: Cannabis-infused oil + beeswax + shea butter + cocoa butter
 **Consistency**: Softer than salve, more emollient
@@ -74,14 +74,14 @@ Creams are thicker than lotions with a higher oil-to-water ratio.
 
 - May offer enhanced pain relief due to THC's analgesic properties
 - Still non-psychoactive when applied topically
-- [[ayahuasca-tourism-legal-status-by-country]] varies by jurisdiction
-- May be combined with CBD for [[blesching-cannabis-cannabinoid-terpene-entourage-effect]]
+- Legal status varies by jurisdiction
+- May be combined with CBD for entourage effect
 
 ### Full-Spectrum vs Isolate
 
-- **Full-spectrum**: Contains CBD, THC, [[cannabis-minor-cannabinoids]], and terpenes. Believed to be more effective due to [[cannabis-terpene-entourage-effect]].
+- **Full-spectrum**: Contains CBD, THC, minor cannabinoids, and terpenes. Believed to be more effective due to the entourage effect.
 - **Broad-spectrum**: Contains multiple cannabinoids and terpenes but no THC.
-- **Isolate**: Pure CBD or THC only. No [[cannabinoid-terpene-entourage-effect]] but no THC concern.
+- **Isolate**: Pure CBD or THC only. No entourage effect but no THC concern.
 
 ## Making Cannabis-Infused Oil for Topicals
 
@@ -89,7 +89,7 @@ The base for most topicals is a carrier oil infused with decarboxylated cannabis
 
 ### Decarboxylation
 
-Before infusing, [[cervantes-cannabis-flower-anatomy]] must be decarboxylated to activate cannabinoids:
+Before infusing, cannabis flower must be decarboxylated to activate cannabinoids:
 
 1. Preheat oven to 240 F (115 C)
 2. Grind cannabis coarsely (not to powder)
@@ -127,7 +127,7 @@ Adding sunflower or soy lecithin (1 teaspoon per cup of oil) improves cannabinoi
 2. Stir until beeswax is fully melted
 3. Remove from heat
 4. Add shea butter and stir until melted
-5. Add [[essential-oils-and-hydrosol-distillation]] stir gently
+5. Add essential oils and stir gently
 6. Pour into small tins or jars
 7. Allow to cool and set at room temperature (1-2 hours)
 8. Store in a cool, dark place; shelf life 3-6 months
@@ -140,10 +140,10 @@ Adding sunflower or soy lecithin (1 teaspoon per cup of oil) improves cannabinoi
 
 ## Dosing
 
-Topical dosing is less precise than other methods. General guidelines:
+## See Also
 
-- **Mild potency**: 1/4 ounce (7g) cannabis per 1 cup oil
-- **Medium potency**: 1/2 ounce (14g) cannabis per 1 cup oil
-- **Strong potency**: 1 ounce (28g) cannabis per 1 cup oil
-
-Start with a small amount and apply more as needed. Effects are typically felt within 15-30 minutes and last 2-4 hours. For chronic conditions, consistent daily application is more effective than sporadic heavy use.
+- [[cannabis-cultivar-microbiome-specificity]]
+- [[weighted-vs-unweighted-unifrac-cannabis-strain-microbiome]]
+- [[cannabis-and-endometriosis]]
+- [[blesching-cannabis-immune-system-modulation]]
+- [[cannabis-seed-germination-viability-breeding-clarke]]

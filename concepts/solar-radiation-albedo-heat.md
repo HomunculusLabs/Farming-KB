@@ -8,48 +8,7 @@ type: concept
 
 ## Overview
 
-Incoming solar radiation is the fundamental energy source driving all life on Earth and all atmospheric circulation. Understanding how radiation interacts with the atmosphere, earth surfaces, and living organisms is essential for [[permaculture]] designers who need to site homes, select plant species, design space heaters, and manipulate microclimates. The behavior of radiation — how it is reflected, absorbed, transmitted, and re-emitted — determines the thermal characteristics of every element in a design.
-
-## Components of Incoming Radiation
-
-Incoming global radiation has two components:
-
-1. **Direct Solar Radiation**: Penetrates the atmosphere from the sun in straight lines
-2. **Diffuse Sky Radiation**: Scattered by atmospheric gases, dust, and clouds
-
-Diffuse radiation is a significant component at high latitudes (38° or more) where it may constitute up to 30% of total incoming energy. Near the poles, diffuse radiation approaches 100% of available energy. Most weather stations only measure direct solar radiation, meaning diffuse radiation data — which occurs whenever there is cloud, fog, or overcast skies — is often missing from climatic records.
-
-## The Radiation Budget
-
-Of the incoming short-wave radiation (taken as 100% at the outer boundary of the atmosphere):
-
-### What Never Reaches Earth (50%)
-Half of incoming radiation is scattered by gases, dust, and clouds in the atmosphere itself:
-- Half of this scattered radiation is reflected back into space from upper cloud and dust layers
-- Half is absorbed by atmospheric dust and clouds, converting to long-wave heat wavelengths that act as an insulation blanket for Earth
-
-### What Reaches Earth (50%)
-The remaining 50% reaches Earth mostly as direct radiation falling on the oceans:
-- **6%** is reflected back to space (minor loss)
-- **94%** is absorbed by the sea, earth, and lower atmosphere, re-emitted as heat or converted to biological growth
-
-### Outgoing Radiation
-Of the outgoing (terrestrial) radiation that drives atmospheric circulation:
-- **67%** is re-radiated to space and lost as heat
-- **29%** is released from condensing water as sensible heat
-
-Most heat in the atmosphere actually derives from re-radiated heat from Earth's surface, not directly from the sun.
-
-## Wavelengths and Their Effects
-
-### The Electromagnetic Spectrum
-
-Light and heat are measured in wavelengths, each with specific properties:
-
-| Wavelength | Description | Effect |
-|-----------|-------------|--------|
-| Below 300 nm | Actinic/Ultraviolet | Kills plants and animals; germicidal. Most absorbed by ozone layer. Causes sunburn and skin cancers. |
-| 300-491 nm | Violet/Blue light | Important for photosynthesis, flowering, [[photoperiodism]], fruit colouration |
+Incoming solar radiation is the fundamental energy source driving all life on Earth and all atmospheric circulation. Understanding how radiation interacts with the atmosphere, earth surfaces, and living organisms is essential for [[photoperiodism]], fruit colouration |
 | 491-574 nm | Green light | Partially reflected by most plants |
 | 574-700 nm | Yellow/Orange/Red | Visible spectrum; used in photosynthesis |
 | Above 700 nm | Far red/Infrared | Absorbed and transpired into heat by plants; no strong growth effects |
@@ -76,9 +35,7 @@ Radiation absorption and re-emission creates temperature differences that drive 
 
 Radiation triggers flowering and germination in many plant species through photoperiodism (day-length effects). This is of basic importance to the spread and success of specific plant groups.
 
-## Plant [[solar-radiation-and-plant-light-responses|Responses]] to Light
-
-Plants actively adjust to light levels through various strategies to maintain [[photosynthetic-efficiency]]:
+## Plant [[photosynthetic-efficiency]]:
 
 - **Solar range adaptation**: Silvery or shiny leaves in high-heat environments; red leaves where more of the green spectrum is absorbed and less heat is needed
 - **Leaf orientation**: Leaves may turn edge-on when light and heat levels get too high to reduce absorption
@@ -147,3 +104,11 @@ It is difficult to store heat for long periods in field conditions, although it 
 
 - **Insulated water masses** — water has high thermal mass and stores heat effectively
 - **Solid materials** such as stone and earth — absorb and release heat slowly
+
+## See Also
+
+- [[mollison-designers-solar-water-heating-systems]]
+- [[passive-solar-and-biomass-energy]]
+- [[solar-water-heating]]
+- [[mollison-designers-passive-solar-building]]
+- [[mollison-designers-home-energy-conservation-and-solar-heating]]

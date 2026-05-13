@@ -27,24 +27,7 @@ Starting a food forest on degraded land — compacted pasture, eroded slopes, ab
 
 Before touching a shovel, read the land:
 
-**Soil**: Get a professional test (pH, [[fukuoka-textdoc-composting-critique-futility-prepared-organic-matter]], NPK, CEC, heavy metals). Dig 3–5 test pits to 60cm to check compaction, root depth, and water table. Jar test for texture.
-
-**Landscape**: Map water flow (where rain pools and runs), erosion patterns, existing vegetation, aspect, and microclimate.
-
-**Key Degradation Indicators**
-| Indicator | Priority Fix |
-|---|---|
-| Hardpan at 10–30cm | Deep ripping or keyline plowing |
-| Sheet erosion, bare soil | Cover crops + mulch immediately |
-| Salty crust on surface | Leaching swales, salt-tolerant pioneers |
-| Only deep-rooted weeds | Aggressive soil building before trees |
-| Standing water after rain | Swales, deep ripping, raised plantings |
-
----
-
-## Step 2: Earthworks and Water Management
-
-Water is the architect of [[pioneer-plants-for-land-restoration]]. Get water right and everything else accelerates.
+**Soil**: Get a professional test (pH, [[pioneer-plants-for-land-restoration]]. Get water right and everything else accelerates.
 
 **Earthworks first, then biology.**
 
@@ -52,7 +35,7 @@ Water is the architect of [[pioneer-plants-for-land-restoration]]. Get water rig
 
 **Ponds**: Excavate at highest feasible points for gravity irrigation.
 
-**Deep Ripping** (if compacted): Use single-shank ripper to fracture hardpan along contour. Follow immediately with cover crop to prevent re-compaction.
+**Deep Ripping** (if compacted): Use single-shank ripper to fracture hardpan along contour. Follow immediately with [[cover-crop]] to prevent re-compaction.
 
 ---
 
@@ -61,8 +44,7 @@ Water is the architect of [[pioneer-plants-for-land-restoration]]. Get water rig
 1. **Cover crop cocktail** — Broadcast diverse seed (vetch, clover, oats, daikon radish, buckwheat) at 2–3× normal rate
 2. **Organic matter blanket** — Apply 5–15cm compost, aged manure, or green waste
 3. **Biochar** — Incorporate 0.5–2 kg/m² of charged biochar into top 15cm
-4. **[[mycorrhizal-inoculation]]** — Apply broad-spectrum inoculant with compost
-5. **Compost tea/JLF** — Monthly during [[extending-growing-season]] to jumpstart microbes
+4. **[[extending-growing-season]] to jumpstart microbes
 
 ---
 
@@ -77,29 +59,7 @@ Pioneer species are the first wave — tough, fast-growing plants that stabilize
 | Black locust | Zones 4–9 | Large tree | Timber, bee forage, coppice mulch |
 | Alder (*Alnus* spp.) | Zones 2–7 | Large tree | Wet sites, acid soils, riparian |
 | Autumn olive | Zones 3–8 | Shrub | Berries, wildlife, dry sites (check invasiveness) |
-| [[comparison-aronia-vs-goji-vs-sea-buckthorn]] | Zones 3–7 | Shrub | Sandy/coastal sites, berries |
-| Pigeon pea | Zones 9–12 | Sub-shrub | Fast annual N-fix + edible pulse |
-| Gliricidia | Zones 10–12 | Tree | Living fence, tropical chop-and-drop |
-| Tagasaste | Zones 8–11 | Small tree | Dry Mediterranean, fodder |
-| Siberian pea | Zones 2–7 | Shrub | Cold/dry sites, edible seeds |
-
-### Other Pioneer Roles
-- **Biomass**: Comfrey, artichoke, sun hemp — chop-and-drop mulch
-- **Deep rooters**: Daikon radish, chicory — break compaction, mine minerals
-- **Windbreaks**: Willow, poplar, or casuarina on exposed edges
-- **Ground covers**: White clover, sweet potato, peanut — living mulch
-
-**Density**: Plant pioneers at 20–40% of total planned tree density. They'll be progressively thinned over 5–10 years.
-
----
-
-## Step 5: Phased Planting Timeline
-
-### Phase 1: Year 0–1 — Ground Preparation
-Install earthworks, seed cover crops, apply compost/mulch, plant pioneer N-fixers along swale berms, set up irrigation.
-
-### Phase 2: Year 1–3 — Pioneer Canopy
-Pioneers establish; begin chop-and-drop 2–3× per season. Plant support species (comfrey, berries). Start first [[query-how-do-i-graft-fruit-trees-in-a-home-orchard]] best microsites.
+| [[query-how-do-i-graft-fruit-trees-in-a-home-orchard]] best microsites.
 
 ### Phase 3: Year 3–5 — Canopy and Support
 Plant main crop trees at final spacing. Establish understory (berries, perennial veg, herbs). First harvests from early-bearing species.
@@ -134,7 +94,7 @@ System largely self-sustaining. Full production from all layers. Introduce shade
 - [ ] Apply compost/mulch blanket + charged biochar + mycorrhizal inoculant
 - [ ] Plant pioneer N-fixers along swale berms (20–40% density)
 - [ ] Install windbreaks and set up irrigation for first 2 years
-- [ ] Year 2: begin chop-and-drop of established pioneers
+- [ ] Year 2: begin [[chop-and-drop]] of established pioneers
 - [ ] Year 3: plant first crop trees in best microsites
 - [ ] Year 5: thin pioneers as crop trees expand
 - [ ] Year 10: transition to maintenance mode

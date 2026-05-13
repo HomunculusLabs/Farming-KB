@@ -13,17 +13,8 @@ type: query
 ## Short Answer
 Alley cropping is an agroforestry pattern where annual crops, forage, or perennials grow in strips between rows of trees or shrubs.
 Use it when you want production, fertility, shelter, fodder, mulch, habitat, or microclimate benefits from woody plants without converting the whole field into forest.
-The design sits between open-field cropping and full [[mollison-designers-forest-garden-layer-canopy-understory]] systems, so it needs careful spacing, pruning, and equipment access.
-Existing pages such as [[leucaena-alley-cropping-systems]], and [[query-what-is-agroforestry-and-how-can-i-start]] describes the pattern as a way to combine agricultural and tree functions on the same land.
-The system works because the tree rows modify the field instead of replacing it.
-Rows can reduce wind, add biomass, feed soil organisms, support pollinators, and create vertical structure.
-The challenge is to keep those benefits larger than the competition costs.
-
-### When it makes sense
-
-Alley cropping is strongest on sites where a flat open field is losing fertility, moisture, or ecological resilience.
-It can also help farms that need fodder, mulch, fuelwood, [[hemenway-insectary-plants-and-beneficial-insects]], or slope stabilization.
-[[leucaena-alley-cropping-systems]] and [[comparison-alley-cropping-vs-silvopasture]] is useful because it shows how tree spacing changes when the alley is managed for animals instead of crops.
+The design sits between open-field cropping and full [[leucaena-alley-cropping-systems]], and [[hemenway-insectary-plants-and-beneficial-insects]], or slope stabilization.
+[[comparison-alley-cropping-vs-silvopasture]] is useful because it shows how tree spacing changes when the alley is managed for animals instead of crops.
 Row orientation can reduce or intensify shading depending on latitude and slope.
 Equipment width, turning radius, irrigation lines, and harvest paths should be planned before planting.
 A design drawn without maintenance access is usually a future problem.
@@ -33,19 +24,14 @@ A design drawn without maintenance access is usually a future problem.
 Alley cropping succeeds only when the woody row is managed repeatedly.
 Pruning controls shade, recycles nutrients, creates mulch, and prevents the tree row from taking over the alley.
 In coppice-style systems, prunings can be dropped as mulch or carried to animals.
-[[contour-line-water-management]] helps explain why alignment matters on slopes.
 [[hedgerow-planting]] focuses more on boundary, habitat, and edge functions.
-[[query-what-is-silvopasture-and-how-does-it-work]] focuses on combining trees with livestock and forage.
 [[query-what-is-agroforestry-and-how-can-i-start]] explains the overall pattern and why it belongs in agroforestry.
-- [[leucaena-alley-cropping-systems]] is a useful tropical example of nitrogen, fodder, and pruning integration.
 - [[comparison-alley-cropping-vs-silvopasture]] helps decide whether the alley should prioritize crops or animals.
-- [[hedgerow-planting]] is useful when shelter is the main goal.
-- Start small because [[wide-row-spacing-intensive-gardening-comparison]], shade, and labor are hard to change after trees mature.
+- [[wide-row-spacing-intensive-gardening-comparison]], shade, and labor are hard to change after trees mature.
 - Choose tree rows by function, not by trend.
 - Plan pruning, access, and harvest before planting.
 
 ## Related Questions
-- [[query-what-is-silvopasture-and-how-does-it-work]]
 - [[query-how-do-i-design-a-windbreak-or-shelterbelt-for-my-property]]
 ## Practical Considerations
 

@@ -16,9 +16,7 @@ type: concept
 
 # Endophytic Fungi Living Inside Plants
 
-[[endophytic-fungi]] are microorganisms that live within the tissues of living
-plants without causing apparent disease. They inhabit the spaces between and
-within plant cells, forming [[fungi-in-the-environment-symbiotic-relationships]] that can range from
+[[fungi-in-the-environment-symbiotic-relationships]] that can range from
 mutualistic to commensal. Endophytes are found in virtually every plant
 species examined, from grasses and crop plants to forest trees, making them
 one of the most widespread yet least understood groups of fungi.
@@ -58,15 +56,7 @@ systemically through the plant.
 Endophytic fungi provide a remarkable array of benefits to their host plants.
 One of the most well-documented benefits is protection against herbivorous
 insects. Endophytes in grasses produce alkaloid compounds that are toxic or
-deterrent to [[duggar-mushroom-insect-pests-and-fungal-diseases]], reducing grazing damage. In some cases, these
-compounds also protect the plant against mammalian herbivores.
-
-Endophytes can also confer resistance to plant diseases by producing
-antifungal and antibacterial compounds that suppress pathogen growth. Some
-endophytes enhance plant growth by producing plant hormones such as auxins
-and gibberellins, stimulating root development and shoot growth. Others
-improve the plant's tolerance of environmental stresses including drought,
-heat, and [[fungal-biosorption-of-heavy-metals-by-filamentous-fungi]].
+deterrent to [[fungal-biosorption-of-heavy-metals-by-filamentous-fungi]].
 
 ## The Siren Song of Endophytes
 
@@ -85,41 +75,6 @@ the plant exploits the fungus for its own competitive advantage.
 ## Ecological Significance
 
 Endophytes contribute significantly to the structure and function of plant
-communities. In [[biodiversity-fungi-grassland-ecosystems]], endophyte-infected grasses can be more
-competitive, more resistant to herbivory, and more tolerant of environmental
-stress than uninfected individuals. This can shift the species composition
-
-## Practical Applications
-
-The principles and techniques discussed here have wide-ranging applications
-across multiple disciplines and contexts. Practitioners and researchers
-continue to explore new ways to integrate these concepts into modern practice,
-adapting traditional knowledge to contemporary challenges and opportunities.
-
-## Key Considerations
-
-Several important factors influence the effectiveness and outcomes described
-in this topic. Understanding these considerations helps practitioners make
-informed decisions and avoid common pitfalls. Environmental conditions,
-timing, and material selection all play critical roles.
-
-## Historical Context
-
-The historical development of this subject reflects centuries of accumulated
-knowledge and practical experience. From traditional methods passed down
-through generations to modern scientific approaches, the evolution continues
-to inform current best practices and research directions.
-
-## Common Challenges
-
-Practitioners frequently encounter several challenges when working with
-these concepts. Climate variability, resource limitations, and knowledge
-gaps can all affect outcomes. Addressing these challenges requires patience,
-observation, and a willingness to adapt approaches based on results.
-
-## See Also
-- [[endophytic-fungi]]
-- [[doc]]
+communities. In [[endophytic-fungi]]
 - [[det]]
-- [[spore]]
 - [[symbiotic-fungi-endophytic-fungi-in-plants]]

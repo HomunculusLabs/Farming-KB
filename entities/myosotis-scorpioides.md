@@ -108,13 +108,8 @@ The genus name Myosotis derives from the Greek "mouse ear," referring to the sha
 
 ## See Also
 
-- [[myosotis-sylvatica]]
 - [[borago-officinalis]]
-- [[echium-vulgare]]
 - [[pulmonaria-officinalis]]
-- [[cynoglossum-officinale]]
 - [[mertensia-virginica]]
-- [[anchusa-azurea]]
 - [[cerinthe-major]]
-- [[symphytum-officinale]]
 - [[heliotropium-europaeum]]

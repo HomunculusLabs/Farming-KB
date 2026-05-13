@@ -17,8 +17,7 @@ sources: [/Users/t3rpz/wiki/raw/papers/unknown-biodiversity-of-fungi.md]
 ## Overview
 Talaromyces flavus is an ascomycete fungus and the teleomorph
 (sexual stage) of a Penicillium-like anamorph. It is one of the
-most successful [[fukuoka-textdoc-biological-control-fallacy-pheromone-critique]] agents against Verticillium
-dahliae, a major soil-borne [[cervantes-fusarium-vascular-wilt-diseases]] pathogen, and also
+most successful [[cervantes-fusarium-vascular-wilt-diseases]] pathogen, and also
 demonstrates efficacy against Sclerotinia sclerotiorum. The
 species produces ascospores as its primary dispersal propagules
 and acts as an aggressive sclerotial parasite in soil.
@@ -52,15 +51,7 @@ Penicillium-like asexual (anamorph) fungus. The dual naming
 reflects the historical practice of separately naming sexual and
 asexual stages. The genus Talaromyces contains both teleomorphic
 and exclusively anamorphic species. Selective isolation uses PDA
-medium amended with 0.1% [[bionutrients-lab-lactic-acid-bacteria-serum]], antibacterial antibiotics,
-pimaricin, nystatin, and oxgall per liter (Marois et al. 1984).
-
-## Key Details
-
-### Glucose Oxidase System
-The primary weapon in the T. flavus arsenal is the enzyme glucose
-oxidase (Kim et al. 1990), which oxidizes glucose to gluconic
-acid and releases [[cervantes-hydrogen-peroxide-sterilization]]. Hydrogen peroxide is a
+medium amended with 0.1% [[cervantes-hydrogen-peroxide-sterilization]]. Hydrogen peroxide is a
 reactive oxygen species highly toxic to fungal cells, causing
 oxidative damage to membranes, proteins, and nucleic acids. This
 system is particularly effective against V. dahliae, which is
@@ -70,8 +61,7 @@ The glucose oxidase system of T. flavus has become a model for
 understanding fungal antibiotic production in biological control
 contexts. The enzyme is produced constitutively by T. flavus,
 providing continuous protection in the rhizosphere where glucose
-is available from [[aspergillus-flavus]], [[lichens-primary-production-soil-formation-dighton]]
-- [[sclerotinia-sclerotiorum]]
+is available from [[lichens-primary-production-soil-formation-dighton]]
 - [[trichoderma-harzianum]]
 - [[coniothyrium-minitans]]
 ## Practical Considerations

@@ -9,74 +9,18 @@ created: 2026-05-09
 
 The root-associated microbiome of Cannabis spans three distinct
 compartments — bulk soil, rhizosphere, and endorhiza — each with
-characteristic [[edaphic-factors-microbial-community-structure]] structures. Winston et al. (2014)
-provided the first comprehensive characterization across five cultivars,
-revealing how [[core-endorhiza-bacterial-community-composition-cannabis]] shifts from soil to root interior.
+characteristic [[core-endorhiza-bacterial-community-composition-cannabis]] shifts from soil to root interior.
 
 ## Sample Compartments
 
 ### Bulk Soil
 The background soil community not directly influenced by plant roots.
-Serves as the microbial source pool. Highest [[alpha-diversity-gradient-bulk-soil-cannabis-endorhiza]] of all
-compartments. [[edaphic-determinants-cannabis-microbiome-community-structure]] determined primarily by edaphic
+Serves as the microbial source pool. Highest [[edaphic-determinants-cannabis-microbiome-community-structure]] determined primarily by edaphic
 factors (soil type, pH, nitrogen, carbon, salinity, water content).
 
 ### Rhizosphere
 The narrow zone of soil directly influenced by root exudates
-(rhizodeposition). [[cannabis-rhizosphere-microbial-communities]] are enriched by plant-derived
-carbon sources. Diversity is slightly lower than bulk soil. Acts as a
-transitional zone between bulk soil and the root interior.
-
-### Endorhiza
-The root interior — bacteria that have colonized root tissue. Endorhiza
-communities are the most plant-specific and are shaped by host genotype.
-Diversity is dramatically lower than rhizosphere. These endophytes
-provide [[brassinosteroid-fungal-growth-promotion]], [[aact-disease-suppression-mechanisms-ingham]], and environmental stress
-tolerance to their host.
-
-## Community Differentiation
-
-Beta-diversity analysis reveals clear compartment separation:
-
-- **Rhizosphere vs. bulk soil**: Significantly lower beta-distances
-  than either compared to endorhiza (unweighted t = 24.59, p < 0.001)
-- **Endorhiza vs. bulk soil**: Largest distances; significantly
-  different (ADONIS R² = 0.215, p = 0.001 pooled experiments)
-- **Endorhiza vs. rhizosphere**: Intermediate distances; significantly
-  different but closer to each other than either is to bulk soil
-
-Rhizosphere and bulk soil communities are more similar to each other
-than either is to endorhiza communities.
-
-## Taxonomic Composition
-
-### Bulk Soil Dominant Phyla
-Bulk soil communities are dominated by typical soil taxa:
-- Acidobacteria (order iii1-15 prominent)
-- Proteobacteria
-- Actinobacteria
-- Bacteroidetes
-- Verrucomicrobia
-
-### Rhizosphere Shifts
-The rhizosphere shows enrichment in copiotrophic taxa responding to
-root exudates:
-- Increased Proteobacteria (especially Alpha- and Gammaproteobacteria)
-- Increased Bacteroidetes
-- Slight decrease in Acidobacteria
-
-### Endorhiza Core Community
-A consistent core community was found across all Cannabis cultivars:
-- **Pseudomonas** — well-known plant growth-promoting endophyte
-- **Cellvibrio** — aerobic cellulolytic bacterium (elevated in
-  post-harvest samples suggesting root decay)
-- **Oxalobacteraceae** — associated with plant rhizosphere
-- **Xanthomonadaceae** — diverse plant-associated bacteria
-- **Actinomycetales** — common soil and root colonizers
-- **Sphingobacteriales** — root-associated bacteria
-
-With the exception of Cellvibrio, all prevalent core endorhiza members
-are well-known [[endorhiza-endophytic-bacteria]], primarily within Gammaproteobacteria
+(rhizodeposition). [[brassinosteroid-fungal-growth-promotion]], [[endorhiza-endophytic-bacteria]], primarily within Gammaproteobacteria
 and Alphaproteobacteria.
 
 ## Cultivar-Specific Differences
@@ -118,8 +62,89 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[dom]]
 - [[det]]
-- [[root-exudates]]
 - [[brassinosteroid]]
 - [[sour-diesel]]
+
+## Overview
+
+Cannabis Rhizosphere Endorhiza Communities represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish cannabis rhizosphere endorhiza communities
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving cannabis extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Cannabis Rhizosphere Endorhiza Communities finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for cannabis rhizosphere endorhiza communities. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+cannabis rhizosphere endorhiza communities and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Cannabis Rhizosphere Endorhiza Communities has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of cannabis rhizosphere endorhiza communities into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[blesching-cannabis-vasopressin-aggression]]
+- [[cannabis-cultivar-microbiome-specificity]]
+- [[green-cannabis-grow-bible-species-indica-sativa-ruderalis]]

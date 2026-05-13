@@ -29,26 +29,7 @@ related_concepts:
 Heritage and landrace crop varieties represent the genetic backbone of human
 agriculture. These open-pollinated plants have been shaped by centuries of
 farmer selection, environmental pressure, and cultural preference. Unlike modern
-[[cervantes-hybrid-varieties-types]] bred for uniformity and industrial transport, heritage
-varieties prioritize flavor, nutritional density, regional adaptation, and the
-ability to reproduce true from saved seed. For small farmers, homesteaders,
-and permaculture practitioners, these varieties offer a pathway to food
-sovereignty, reduced input costs, and long-term resilience against pests,
-diseases, and climate instability.
-
-The distinction between heirlooms, landraces, and modern varieties is
-important but often blurred. Heirlooms are typically open-pollinated varieties
-with a documented history of at least fifty years, often maintained by families
-or seed-saving organizations. Landraces are dynamic populations shaped by local
-growing conditions over many generations, exhibiting greater internal genetic
-diversity than named heirloom varieties. Both categories contrast sharply with
-F1 hybrids, which are first-generation crosses of inbred parent lines that
-produce vigorous but non-reproducible offspring.
-
-The commercial seed industry has dramatically narrowed the genetic base of
-major food crops over the past century. The Food and Agriculture Organization
-has estimated that roughly 75 percent of crop genetic diversity was lost during
-the [[coleman-louis-savier-twentieth-century-maraicher]]. This erosion continues as industrial agriculture
+[[coleman-louis-savier-twentieth-century-maraicher]]. This erosion continues as industrial agriculture
 consolidates around a shrinking number of patented hybrid and genetically
 modified varieties. Small farmers who maintain heritage and landrace varieties
 are not merely preserving nostalgia; they are safeguarding the raw genetic
@@ -102,38 +83,11 @@ rather than uniform cultivars. A landrace of maize grown in a Mexican village
 will contain considerable genetic variation from plant to plant, with some
 ## See Also
 
-- [[seed-saving-techniques]] for detailed processing methods
 - [[seed-saving-vegetables]] for crop-specific guidance
-- [[seed-saving-in-permaculture]] for integration with [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]]
-- [[seed-quality-and-selection-solomon]] for evaluating seed sources
+- [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]]
 - [[seed-selection-breeding-holzer]] for Holzer's selection philosophy
-- [[biointensive-seed-saving]] for biointensive population requirements
-- seed-saving-seed-resources-mollison for community seed strategies
 - [[companion-planting-and-polycultures]] for varietal combinations
-- [[permaculture-design-principles]] for systems-level seed sovereignty
-- [[seed-saving-and-plant-breeding]] for advanced [[cannabis-breeding-techniques-acclimatization-trait-fixing-clarke]]
-
-## References
-
-- Solomon, Steve. *Gardening When It Counts: Growing Food in Hard Times*.
-  New Society Publishers, 2005.
-
-- Mollison, Bill. *Permaculture: A Designer's Manual*. Tagari Publications,
-  1988.
-
-- Mollison, Bill. *Permaculture Two: Practical Design for Town and Country
-  in Permanent Agriculture*. Tagari Publications, 1979.
-
-- Holzer, Sepp. *Sepp Holzer's Permaculture: A Practical Guide to
-  Small-Scale, Integrative Farming and Gardening*. Chelsea Green, 2011.
-
-- Mooney, Pat Roy. *Seeds of the Earth: A Private or Public Resource?*.
-  World Council of Churches, 1979.
-
-- Jeavons, John. *How to Grow More Vegetables*, 9th Edition. Ten Speed
-  Press, 2012.
-
-- Hamilton, Geoff. *[[hamilton-geoffhamilton-nick-organic-gardening-companion-planting]]*. BBC Books, 1990.
+- [[seed-saving-and-plant-breeding]] for advanced [[hamilton-geoffhamilton-nick-organic-gardening-companion-planting]]*. BBC Books, 1990.
 
 - Fowler, Cary and Mooney, Pat. *Shattering: Food, Politics, and the Loss
   of Genetic Diversity*. University of Arizona Press, 1990.

@@ -13,11 +13,7 @@ type: concept
 # Living Mulch Systems Guide
 
 Living mulch refers to low-growing plants deliberately maintained beneath or
-between crop plants to provide continuous [[fukuoka-citrus-orchard-ground-cover-cultivation]]. Unlike dead mulch
-(materials like straw, leaves, or cardboard that must be collected and carried
-in), living mulch consists of actively growing plants that self-maintain
-through reproduction. Both types serve important functions in [[fukuoka-clover-and-green-manure-cropping]]
-- [[fukuoka-straw-mulch-system]]
+between crop plants to provide continuous [[fukuoka-clover-and-green-manure-cropping]]
 - [[cover-cropping-guide]]
 ## Background and Context
 

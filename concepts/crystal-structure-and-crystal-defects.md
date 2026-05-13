@@ -1,6 +1,4 @@
-Crystal [[hex1-protein-woronin-body-crystal-structure-euascomycetes]] and crystal defects defects are central concepts in materials
-science, governing the mechanical, electrical, thermal, and optical
-properties of virtually all [[silicon]] fset by ¼[111]. Silicon (0.5431 nm),
+Crystal [[silicon]] fset by ¼[111]. Silicon (0.5431 nm),
 germanium (0.5658 nm), diamond (0.3567 nm). The open covalent structure
 makes these critical for semiconductor and optical applications.
 
@@ -90,39 +88,6 @@ crystallite size via Scherrer broadening. **Transmission electron
 microscopy (TEM)** directly images dislocations, stacking faults, and
 
 ## See Also
-- [[mycelium-structure-and-growth]]
-
-## Practical Applications
-
-The principles and techniques discussed here have wide-ranging applications
-across multiple disciplines and contexts. Practitioners and researchers
-continue to explore new ways to integrate these concepts into modern practice,
-adapting traditional knowledge to contemporary challenges and opportunities.
-
-## Key Considerations
-
-Several important factors influence the effectiveness and outcomes described
-in this topic. Understanding these considerations helps practitioners make
-informed decisions and avoid common pitfalls. Environmental conditions,
-timing, and material selection all play critical roles.
-
-## Historical Context
-
-The historical development of this subject reflects centuries of accumulated
-knowledge and practical experience. From traditional methods passed down
-through generations to modern scientific approaches, the evolution continues
-to inform current best practices and research directions.
-
-## Common Challenges
-
-Practitioners frequently encounter several challenges when working with
-these concepts. Climate variability, resource limitations, and knowledge
-gaps can all affect outcomes. Addressing these challenges requires patience,
-observation, and a willingness to adapt approaches based on results.
-
-## See Also
 - [[det]]
-- [[mycelium]]
 - [[silicon]]
-- [[hex1-protein-woronin-body-crystal-structure-euascomycetes]]
 - [[shirota-psilocybin-crystal-form-spectral-data-and-analytical-characterization]]

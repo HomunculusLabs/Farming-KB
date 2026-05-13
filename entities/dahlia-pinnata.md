@@ -20,28 +20,7 @@ sources:
 
 ## Overview
 
-**Dahlia pinnata** is a species of flowering plant in the aster family, Asteraceae, native to the mountainous regions of Mexico and [[guzman-allen-gartz-neurotropic-fungi-caribbean-central-america]]. It is one of the parent species of the modern cultivated dahlia, which encompasses over 57,000 registered cultivars worldwide.
-
-The species is commonly known as the garden dahlia or pinnate dahlia, referring to the divided, pinnate leaf arrangement. Wild-type plants produce single-row flower heads with 8–12 ray florets surrounding a central disc of yellow tubular florets.
-
-Dahlias were cultivated by the Aztecs long before European contact, who used the tuberous roots as both a food source and a ceremonial plant. The genus was named in honor of the Swedish botanist Anders Dahl by the Spanish taxonomist Vicente Cervantes in 1791.
-
-Modern dahlias are among the most diverse ornamental plants in cultivation, with flower forms ranging from tiny pompons to dinner-plate-sized blooms exceeding 30 cm in diameter. The Royal Horticultural Society recognizes 14 distinct flower forms for classification purposes.
-
-Dahlias hold significant cultural importance in many countries and are the national flower of Mexico. Annual dahlia shows and competitions attract enthusiasts worldwide, with societies dedicated to the genus in over thirty countries.
-
-## Taxonomy
-
-- **Kingdom:** Plantae
-- **Order:** Asterales
-- **Family:** Asteraceae
-- **Subfamily:** Asteroideae
-- **Tribe:** Coreopsideae
-- **Genus:** Dahlia
-- **Species:** D. pinnata
-- **Authority:** Cav. (1791)
-
-The genus Dahlia contains approximately 42 species distributed primarily in Mexico, with some species extending into [[guzman-allen-gartz-neurotropic-fungi-central-america-caribbean]] as far south as Colombia. The taxonomy of the genus has been extensively revised, with many early species names now considered synonyms.
+**Dahlia pinnata** is a species of flowering plant in the aster family, Asteraceae, native to the mountainous regions of Mexico and [[guzman-allen-gartz-neurotropic-fungi-central-america-caribbean]] as far south as Colombia. The taxonomy of the genus has been extensively revised, with many early species names now considered synonyms.
 
 Dahlia pinnata is a tetraploid species with a chromosome count of 2n=32. The polyploid nature of many Dahlia species has contributed to the extraordinary morphological diversity observed in cultivated forms through hybridization and chromosome doubling.
 
@@ -59,32 +38,98 @@ The foliage texture varies from medium green to dark green, with some cultivars 
 
 The involucral bracts form a bell-shaped structure behind the flower head, with 8–12 overlapping bracts. Ray florets are typically lavender-purple in the wild species, while cultivated forms span virtually every color except true blue.
 
-**Roots** are tuberous, forming a cluster of fleshy, elongated storage organs at the base of the stem. These tubers store nutrients over winter and produce new shoots in spring, enabling [[hamilton-vegetative-propagation]].
-
-Individual tubers range from 5–20 cm in length and are irregularly shaped, with a thin skin that is easily damaged during handling. Each tuber must contain at least one viable bud (eye) at the crown to produce new growth.
-
-## Distribution and Habitat
-
-Dahlia pinnata is native to the mountainous regions of central and southern Mexico, primarily in the states of Mexico, Puebla, Oaxaca, Veracruz, and Guerrero. It occurs at elevations between 1500–2500 meters in pine-oak woodlands and subalpine meadows.
-
-The species prefers well-drained volcanic soils in open, sunny situations with moderate annual rainfall. In its native habitat, plants die back to the tubers during the dry season and resprout with the summer rains.
-
-Wild populations of Dahlia pinnata have become increasingly rare due to habitat destruction and over-collection. Conservation efforts in Mexico have focused on protecting remaining wild populations in designated natural areas.
-
-Several wild Dahlia species are listed as endangered or critically endangered on the IUCN Red List. Ex situ conservation through botanical garden collections [[green-cannabis-grow-bible-seed-selection-and-seed-banks]] provides an additional safeguard against extinction of wild genetic resources.
+**Roots** are tuberous, forming a cluster of fleshy, elongated storage organs at the base of the stem. These tubers store nutrients over winter and produce new shoots in spring, enabling [[green-cannabis-grow-bible-seed-selection-and-seed-banks]] provides an additional safeguard against extinction of wild genetic resources.
 
 Associated species in wild populations include Mexican pines (Pinus species), oaks (Quercus species), and various grasses and wildflowers of the montane meadow community. The species tolerates light frost but is killed by prolonged freezing temperatures.
 
 ## Cultivation
 
-Dahlias prefer full sun and rich, well-drained soils with a pH between 6.0 and 7.5. They require consistent moisture during [[query-how-to-protect-plants-from-frost-and-extend-the-growing-season]] but are susceptible to rot in waterlogged conditions.
-
-Tubers are planted in spring after the danger of frost has passed, at a depth of 10–15 cm with the growing point (eye) facing upward. [[query-how-do-i-grow-figs-in-cold-climates]], tubers must be lifted and stored over winter in a cool, dry location.
+Dahlias prefer full sun and rich, well-drained soils with a pH between 6.0 and 7.5. They require consistent moisture during [[query-how-do-i-grow-figs-in-cold-climates]], tubers must be lifted and stored over winter in a cool, dry location.
 
 Pinching the growing tips when plants reach 30–45 cm in height encourages lateral branching and more flower production. Disbudding — removing the smaller lateral buds — produces larger central flowers for exhibition purposes.
 
-Deadheading spent flowers promotes continued blooming from midsummer through the first autumn frosts. A single plant may produce dozens of flower heads over the course of a [[extending-growing-season]] under favorable conditions.
+Deadheading spent flowers promotes continued blooming from midsummer through the first autumn frosts. A single plant may produce dozens of flower heads over the course of a [[cervantes-spider-mites-identification-control]], thrips, and earwigs, which may damage both foliage and flower buds. [[cervantes-powdery-mildew-prevention-treatment]], botrytis, and verticillium wilt can affect plants in humid conditions with poor [[stamets-growing-room-air-circulation-co2-management]].
 
-Fertilization with a low-nitrogen, high-phosphorus formula promotes flowering rather than excessive foliage growth. Excessive nitrogen produces tall, floppy plants with fewer blooms and weaker stems.
+## Overview
 
-Common pests include aphids, [[cervantes-spider-mites-identification-control]], thrips, and earwigs, which may damage both foliage and flower buds. [[duggar-mushroom-insect-pests-and-fungal-diseases]] such as [[cervantes-powdery-mildew-prevention-treatment]], botrytis, and verticillium wilt can affect plants in humid conditions with poor [[stamets-growing-room-air-circulation-co2-management]].
+Dahlia Pinnata represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish dahlia pinnata
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving dahlia extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Dahlia Pinnata finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for dahlia pinnata. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+dahlia pinnata and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Dahlia Pinnata has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of dahlia pinnata into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[arenga-pinnata]]
+- [[petromarula-pinnata]]
+- [[pongamia-pinnata]]
+- [[ratibida-pinnata]]

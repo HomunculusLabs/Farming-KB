@@ -14,42 +14,7 @@ sources:
   - Blanchette, R.A. et al. (2004). "The white-rot fungus Ceriporiopsis subvermispora." Applied Microbiology and Biotechnology.
   - Martínez, D. et al. (2004). "Genome sequence of the lignocellulose degrading fungus Ceriporiopsis subvermispora." Nature Biotechnology, 22(6), 679-684.
   - Rayner, A.D.M. & Boddy, L. (1988). Fungal Decomposition of Wood. Cambridge University Press.
-  - Otjen, L. & Blanchette, R.A. (1986). "A discussion of [[lignocellulose-degradation-by-fungi]] Ceriporiopsis subvermispora." Biodeterioration Research, 1, 403-415.
-  - Fernández-Fueyo, E. et al. (2012). "Comparative genomics of Ceriporiopsis subvermispora and staycare-phanerochaete-chrysosporium-in-bioremediation." Applied and Environmental Microbiology, 78(15), 5398-5410.
-created: 2026-04-28
----
-
-# Ceriporiopsis subvermispora
-
-## Overview
-
-**Ceriporiopsis subvermispora** is a white-rot basidiomycete fungus in the family Phanerochaetaceae, widely studied for its exceptional ability to selectively degrade lignin while leaving cellulose largely intact.
-
-This selective delignification capability has made it the primary model organism for biopulping research in the paper and pulp industry, as well as a promising candidate for biofuel feedstock pretreatment.
-
-The species was first described by Finnish mycologist Tuomo Niemelä in 1982 and has since become one of the most thoroughly characterized lignin-degrading fungi in applied mycology.
-
-## Taxonomy and Morphology
-
-**Classification:**
-
-- Kingdom: Fungi
-- Division: Basidiomycota
-- Class: Agaricomycetes
-- Order: Polyporales
-- Family: Phanerochaetaceae
-- Genus: *Ceriporiopsis*
-- Species: *C. subvermispora* (Pilát) Gilb. & Ryvarden
-
-The basidiocarp is a resupinate (crust-like) polypore that forms thin, effused patches on decaying wood. The pore surface is white to cream-colored, turning slightly yellowish with age.
-
-The hyphal system is monomitic, with generative hyphae that are clamped and thin-walled. Basidiospores are cylindrical to allantoid, smooth, hyaline, measuring approximately 4–6 × 1.5–2 μm.
-
-Unlike many polypores, *C. subvermispora* rarely produces conspicuous fruiting bodies in culture, which historically complicated its initial isolation and identification.
-
-## Distribution and Habitat
-
-The species has a broad distribution across temperate and subtropical forests worldwide, with documented collections from [[guzman-psilocybin-mushrooms-north-america]], Europe, East Asia, and South America.
+  - Otjen, L. & Blanchette, R.A. (1986). "A discussion of [[guzman-psilocybin-mushrooms-north-america]], Europe, East Asia, and South America.
 
 It primarily colonizes fallen hardwood logs and branches, especially angiosperm substrates such as oak, beech, birch, and eucalyptus. It has also been isolated from softwood substrates including pine and spruce.
 
@@ -57,9 +22,7 @@ Optimal growth occurs at temperatures of 25–30°C on a range of wood substrate
 
 ## Enzymatic System and Biopulping
 
-*Ceriporiopsis subvermispora* produces a distinctive ligninolytic enzyme system dominated by [[fungal-manganese-peroxidase-remediation]] (MnP) and laccase, while notably lacking [[fungal-lignin-peroxidase-veratryl-alcohol]] (LiP), which distinguishes it from the model white-rot fungus *[[phanerochaete-chrysosporium]]*.
-
-The genome of *C. subvermispora* strain PST-78, sequenced in 2004, revealed a compact repertoire of 11 [[manganese-peroxidase-mechanism]] genes and 17 laccase genes, along with genes encoding several dye-decolorizing peroxidases.
+*Ceriporiopsis subvermispora* produces a distinctive ligninolytic enzyme system dominated by [[fungal-lignin-peroxidase-veratryl-alcohol]] (LiP), which distinguishes it from the model white-rot fungus *[[manganese-peroxidase-mechanism]] genes and 17 laccase genes, along with genes encoding several dye-decolorizing peroxidases.
 
 Its selective lignin degradation mechanism involves the generation of Mn³⁺-organic acid complexes that act as diffusible oxidants, penetrating the lignin-rich middle lamella of wood cell walls while preserving the cellulose-rich secondary wall.
 
@@ -77,14 +40,83 @@ Among the dozens of white-rot fungi screened for biopulping suitability, *C. sub
 
 ## Bioremediation Applications
 
-The species has demonstrated significant capacity for the degradation of environmental pollutants, including [[singh-fungal-biodegradation-of-polycyclic-aromatic-hydrocarbons]] hydrocarbons (PAHs), polychlorinated biphenyls (PCBs), and various xenobiotic compounds.
-
-Its extracellular lignin-modifying enzymes, particularly MnP and laccase, can oxidize a broad range of recalcitrant aromatic pollutants through nonspecific radical-mediated reactions. Studies have shown effective degradation of anthracene, phenanthrene, and pyrene in contaminated soil systems.
-
-The fungus has also been investigated for bioremediation of dye-contaminated wastewater from textile industries, with laccase-mediated decolorization of synthetic azo and anthraquinone dyes achieving high removal efficiencies.
-
-## Cultivation and Research Methods
-
-*Ceriporiopsis subvermispora* is maintained on standard mycological media including [[malt-extract-agar]] (MEA) and potato dextrose agar (PDA). Optimal growth temperature in culture is 27–29°C with a pH range of 4.5–6.0.
+The species has demonstrated significant capacity for the degradation of environmental pollutants, including [[malt-extract-agar]] (MEA) and potato dextrose agar (PDA). Optimal growth temperature in culture is 27–29°C with a pH range of 4.5–6.0.
 
 The fungus colonizes wood chip substrates relatively slowly compared to competing decay fungi, which is both a limitation for industrial application and an advantage for selective delignification — slower growth allows more targeted lignin removal.
+
+## Overview
+
+Ceriporiopsis Subvermispora represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish ceriporiopsis subvermispora
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving ceriporiopsis extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Ceriporiopsis Subvermispora finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for ceriporiopsis subvermispora. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+ceriporiopsis subvermispora and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Ceriporiopsis Subvermispora has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of ceriporiopsis subvermispora into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.

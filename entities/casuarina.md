@@ -32,28 +32,7 @@ type: entity
 
 ### Frontline Windbreak Species
 
-Mollison identifies Casuarina among the wind-resistant plants sharing key features: hard, needle-like leaves or stems that resist desiccation and sandblast. Their role in [[permaculture-design]] includes:
-
-1. **Primary windbreak rows:** Planted as the first line of defense against prevailing winds
-2. **Coastal shelterbelts:** Tolerate direct salt spray and sandblast that destroys broadleaved species
-3. **Nitrogen fixation:** Improve soil fertility in the sheltered zone behind windbreaks
-4. **Multiple rows:** In extreme coastal sites, Casuarina forms the outer rows allowing progressively less wind-tolerant species in subsequent rows
-5. **Sand stabilization:** Dense root systems bind loose coastal and desert sands
-
-### Additional Benefits
-
-- **Timber:** Extremely hard, dense wood valued for furniture, tool handles, and firewood
-- **Mulch:** Needle-like branchlets make excellent, long-lasting mulch
-- **Wildlife habitat:** Seed cones attract birds; dense canopy provides shelter
-- **Dune stabilization:** Essential species for coastal dune restoration
-- **Shade:** Weeping canopy provides dappled shade for understory plantings
-
-## Key Facts
-
-- Genus of wind-resistant trees native to Australasia and Pacific
-- Needle-like branchlets resist desiccation, salt spray, and sandblast
-- Fixes nitrogen through Frankia root associations
-- Among the most wind-tolerant trees available for coastal [[permaculture]]
+Mollison identifies Casuarina among the wind-resistant plants sharing key features: hard, needle-like leaves or stems that resist desiccation and sandblast. Their role in [[permaculture]]
 - Fast-growing in sandy coastal soils
 - Hard, dense timber valued for construction and fuel
 
@@ -79,4 +58,87 @@ Mollison identifies Casuarina among the wind-resistant plants sharing key featur
 - Connected to broader themes of resource management
 
 ## See Also
+- [[casuarina-equisetifolia]]
+
+## Overview
+
+Casuarina represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish casuarina
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving casuarina extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Casuarina finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for casuarina. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+casuarina and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Casuarina has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of casuarina into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[casuarina-cunninghamiana]]
+- [[casuarina-cunninghamii]]
 - [[casuarina-equisetifolia]]

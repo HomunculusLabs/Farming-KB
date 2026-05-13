@@ -1,13 +1,6 @@
 # Fukuoka's Hotel Analogy: A Model for Understanding Crop Yields
 
-**Source:** [[masanobu-fukuoka]], *The Natural Way of Farming* (1985)
-
-## Overview
-
-Fukuoka developed an extended architectural metaphor — the "hotel" analogy — to explain
-how crop yields are determined by the interplay of environmental conditions, cultivation
-factors, and the inherent limits set by nature. This model directly challenges the
-reductionist assumptions of Liebig's [[liebig-law-of-minimum-critique-natural-farming]] and the entire framework of
+**Source:** [[liebig-law-of-minimum-critique-natural-farming]] and the entire framework of
 scientific high-yield theory.
 
 ## The Hotel Structure
@@ -28,22 +21,10 @@ best and highest yield possible.
 3. **Actual harvest is always less:** The actual harvest falls short of maximum yield
 because some rooms are invariably vacant — flaws or weaknesses in some elements of
 cultivation hold down yields. The actual harvest equals total rooms minus vacancies.
-4. **[[fukuoka-illusions-scientific-farming-centrifugal-centripetal-model]] fills vacancies:** The approach of [[fukuoka-illusions-of-scientific-farming]] is to fill
+4. **[[fukuoka-illusions-of-scientific-farming]] is to fill
 as many rooms as possible. But this is merely minimizing losses, not truly raising yields.
 5. **The artificial annex:** Any attempt to outdo nature — increasing production by
-purely industrial methods that disregard the [[fukuoka-textdoc-natural-order-food-chain-unity]] — is analogous to adding an
-annex onto the building, built on sand rather than the rock foundation. Inherently
-unstable, these additions do not represent true production.
-6. **Interconnected rooms:** One cannot make selective improvements in specific factors
-because all rooms are closely interconnected. Good conditions in one room do not
-necessarily have a positive effect on the whole building, and bad conditions on one
-floor do not always exert a negative influence on another.
-
-## Critique of Liebig's Law of Minimum
-
-Fukuoka used the [[fukuoka-hotel-model-harvest-yield-architecture]] to directly challenge Justus [[von-liebig-law-of-the-minimum-and-fertilizer-history]]'s principle that
-yield is dominated by the nutrient present in shortest supply. Under Liebig's reasoning,
-applying more fertilizer or improving [[hamilton-beneficial-insects-and-biological-pest-control]] would raise yields — equivalent to
+purely industrial methods that disregard the [[fukuoka-hotel-model-harvest-yield-architecture]] to directly challenge Justus [[hamilton-beneficial-insects-and-biological-pest-control]] would raise yields — equivalent to
 renovating just one room or one floor of the hotel.
 
 The problem is that there are no absolute criteria for judging whether an element is
@@ -74,8 +55,7 @@ work and what will not, there is no reason for excessive concern about minor imp
 
 ## Inductive Versus Deductive Reasoning in Agriculture
 
-Fukuoka connected the hotel analogy to his broader [[fukuoka-critique-of-scientific-agriculture]] methodology.
-Scientific farming studies all aspects of [[fukuoka-energy-analysis-rice-production-natural-vs-mechanized]] through inductive
+Fukuoka connected the hotel analogy to his broader [[fukuoka-energy-analysis-rice-production-natural-vs-mechanized]] through inductive
 experimentation — running tests without a clear goal, oblivious to the direction research
 takes them. Scientists amass new data they call progress, but in the absence of a clear
 goal, this activity is "just aimless wandering."
@@ -117,8 +97,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[doc]]
 - [[dom]]
-- [[det]]
 - [[fukuoka-hotel-model-harvest-yields-building-analogy]]
 - [[fukuoka-hotel-model-harvest-yield-architecture]]

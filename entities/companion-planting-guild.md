@@ -39,12 +39,9 @@ Plants that provide edible yields — fruits, nuts, vegetables, herbs, tubers, s
 ### 2. Nitrogen Fixers
 Leguminous plants that form symbiotic relationships with rhizobia bacteria in root nodules, converting atmospheric nitrogen (N₂) into bioavailable forms (ammonia, NH₃). This reduces or eliminates the need for external nitrogen fertilization.
 
-**Examples**: Clover (*Trifolium* spp.), lupine (*Lupinus* spp.), beans (*Phaseolus* spp.), peas (*Pisum sativum*), alfalfa (*Medicago sativa*), vetch (*Vicia* spp.), seaberry (*Hippophae rhamnoides*), goumi (*[[elaeagnus-multiflora]]*), Russian comfrey ([[nutrient-dynamic-accumulator-reference]], not a true fixer but deep nitrogen miner)
+**Examples**: Clover (*Trifolium* spp.), lupine (*Lupinus* spp.), beans (*Phaseolus* spp.), peas (*Pisum sativum*), alfalfa (*Medicago sativa*), vetch (*Vicia* spp.), seaberry (*Hippophae rhamnoides*), goumi (*[[nutrient-dynamic-accumulator-reference]], not a true fixer but deep nitrogen miner)
 
-### 3. [[dynamic-accumulators]]
-Deep-rooted plants that mine minerals from subsoil layers and bring them to the surface through their leaf litter and biomass. When these plants are cut and used as mulch ("chop-and-drop"), the accumulated minerals become available to shallow-rooted plants.
-
-**Examples**: Comfrey (*[[symphytum-officinale]]* — accumulates potassium, calcium, phosphorus, silica, magnesium), yarrow (*[[achillea-millefolium]]* — potassium, phosphorus, copper), dandelion (*[[taraxacum-officinale]]* — potassium, iron, calcium, copper), chicory (*Cichorium intybus* — potassium, phosphorus, calcium), nettle (*Urtica dioica* — iron, nitrogen, calcium, magnesium, sulfur), borage (*Borago officinalis* — potassium, calcium)
+### 3. [[symphytum-officinale]]* — accumulates potassium, calcium, phosphorus, silica, magnesium), yarrow (*[[taraxacum-officinale]]* — potassium, iron, calcium, copper), chicory (*Cichorium intybus* — potassium, phosphorus, calcium), nettle (*Urtica dioica* — iron, nitrogen, calcium, magnesium, sulfur), borage (*Borago officinalis* — potassium, calcium)
 
 ### 4. Pest Confusers and Repellents
 Plants that disrupt pest insect life cycles through aromatic compounds, physical barriers, or by providing habitat for predatory insects. They work by masking host plant scents, creating physical barriers, or actively repelling pests.
@@ -52,12 +49,7 @@ Plants that disrupt pest insect life cycles through aromatic compounds, physical
 **Examples**: Alliums (garlic, onions, chives — repel aphids, cabbage moths, carrot rust flies), marigolds (*Tagetes* spp. — repel nematodes, whiteflies; produce alpha-terthienyl), nasturtiums (*Tropaeolum majus* — trap crop for aphids; repel squash bugs), lavender (repels moths, fleas, mosquitoes), mint (repels cabbage moths, ants, flea beetles), basil (repels tomato hornworms, aphids, flies)
 
 ### 5. Habitat Plants (Insectaries)
-Flowering plants that provide nectar, pollen, and shelter for [[comparison-beneficial-insects-guide-vs-integrated-pest-management]] — pollinators and predatory insects that control pest populations. A continuous bloom succession from early spring through late fall is ideal.
-
-**Examples**: Umbellifers (dill, fennel, cilantro — parasitic wasps, ladybugs, lacewings), alyssum (hoverflies, parasitic wasps), buckwheat (bees, predatory wasps, ladybugs; green manure), phacelia (best all-purpose insectary), clover, echinacea, sunflowers.
-
-### 6. Mulch Producers
-Plants that generate abundant biomass for [[comparison-sheet-mulching-vs-chop-and-drop-mulching]], suppressing weeds, retaining soil moisture, and building soil organic matter. In guild design, mulch producers are strategically placed so their cut material falls where it's needed.
+Flowering plants that provide nectar, pollen, and shelter for [[comparison-sheet-mulching-vs-chop-and-drop-mulching]], suppressing weeds, retaining soil moisture, and building soil organic matter. In guild design, mulch producers are strategically placed so their cut material falls where it's needed.
 
 **Examples**: Comfrey (produces 4–5 cuts of biomass per season), hostas (shade-tolerant mulch production), cardoon (*Cynara cardunculus* — massive biomass producer), rhubarb (large leaves for mulch), [[comparison-jerusalem-artichoke-vs-potato]] (tall stalks for winter mulch), sorghum sudangrass (cover crop mulch)
 

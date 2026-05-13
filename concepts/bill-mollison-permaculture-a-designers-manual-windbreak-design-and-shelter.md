@@ -1,7 +1,7 @@
 ---
 title: Bill Mollison Permaculture A Designers Manual Windbreak Design And Shelter
 source: bill-mollison-permaculture-a-designers-manual.md
-source_author: [[bill-mollison]]
+source_author: bill-mollison
 category: permaculture
 tags: [windbreak, shelterbelt, wind-protection, tree-selection, microclimate, livestock-shelter, crop-yield, permaculture, soil-moisture, wind-erosion]
 created: 2026-05-11
@@ -12,19 +12,7 @@ created: 2026-05-11
 ## Why Windbreaks Matter
 
 Wind chill - the removal of heat from surfaces and evaporation of
-fluids - creates cool to [[query-best-kiwifruit-varieties-for-cold-climates]] even in the tropics at
-lower altitudes than adiabatic factors alone would predict.
-
-This chill factor retards plant growth and lowers the efficiency
-of solar devices and insulation. In cyclonic or hurricane areas,
-catastrophic winds may become the overriding design modification
-around which all other factors must be arrayed.
-
-The effects of shelterbelts are compound and extend far beyond
-simple wind reduction: increased snow meltwater for soil moisture,
-greater fruit and seed set in bee-pollinated crops, preservation
-of tree shape (reducing pruning), reduced livestock weight loss,
-and significant [[fukuoka-hotel-analogy-crop-yield-model]] increases.
+fluids - creates cool to [[fukuoka-hotel-analogy-crop-yield-model]] increases.
 
 ## Species Selection
 
@@ -45,11 +33,7 @@ leaves (aloes, agaves), hard needle-like leaves (pines,
 tamarisks, Casuarinas), or hairy/waxy leaf covers (Coprosma,
 eucalypts, some Acacias).
 
-**Multi-functional species**: Chosen for [[biological-nitrogen-fixation-agriculture]]
-(Acacia, Casuarina, Leucaena), mulch production (Prosopis,
-Erythrina, Melia, Canna), livestock fodder, hosting predatory
-insects or birds, minimal moisture competition with crops, and
-[[fukuoka-natural-livestock-farming]] barriers (thorny plants or woven hedges).
+**Multi-functional species**: Chosen for [[fukuoka-natural-livestock-farming]] barriers (thorny plants or woven hedges).
 
 ## Establishment Methods
 
@@ -148,3 +132,7 @@ duststorms are prevented by windbreak and tussock grasses;
 Coastal deforestation causes up to 30% more silt per annum,
 reducing water storage lifespans. Removal of mangroves and
 coastal dune vegetation results in sudden acceleration of
+
+## See Also
+
+- [[bill-mollison-permaculture-a-designers-manual-climatic-factors-in-design]]

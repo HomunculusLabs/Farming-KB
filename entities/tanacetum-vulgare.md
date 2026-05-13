@@ -23,11 +23,8 @@ sources:
 
 ## Overview
 
-*Tanacetum vulgare*, commonly known as tansy, is a perennial herbaceous plant in the aster family (Asteraceae), native to temperate Europe and Asia. It is recognized for its strong aromatic foliage, bright yellow button-shaped flower heads, and its long history of use in traditional European medicine, [[cannabis-pest-management-guide]], and culinary applications.
-
-Tansy contains thujone, a bioactive monoterpene ketone also found in [[artemisia-absinthium]] — Wormwood, another thujone-containing medicinal plant
-- achillea-millefolium — Yarrow, a companion [[permaculture-herb-spiral-design]] with similar [[ecological-roles-fungi-ecosystems]]
-- [[mentha-piperita]] — Peppermint, an aromatic companion plant with insect-repellent properties
+*Tanacetum vulgare*, commonly known as tansy, is a perennial herbaceous plant in the aster family (Asteraceae), native to temperate Europe and Asia. It is recognized for its strong aromatic foliage, bright yellow button-shaped flower heads, and its long history of use in traditional European medicine, [[artemisia-absinthium]] — Wormwood, another thujone-containing medicinal plant
+- achillea-millefolium — Yarrow, a companion [[ecological-roles-fungi-ecosystems]]
 - [[thujone]] — The primary bioactive compound in tansy
 - tagetes-erecta-entity — Marigold, another insect-repellent companion plant in agriculture
 ## Practical Applications

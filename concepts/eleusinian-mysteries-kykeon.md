@@ -12,15 +12,9 @@ type: concept
 
 ## Overview
 
-[[plutarch-and-cicero-on-the-eleusinian-mysteries]] were the most sacred and enduring religious
-rites of the [[ancient-greek-mystery-cults-comparison]] and Roman worlds. Celebrated each September
+[[ancient-greek-mystery-cults-comparison]] and Roman worlds. Celebrated each September
 on the Eleusinian plain near Athens for nearly two thousand years,
-the Mysteries centered on the myth of [[demeter-and-persephone-in-eleusinian-mythology]] and
-involved the consumption of a sacred potion called kykeon. The
-identity of the psychoactive ingredient in kykeon has been one of
-the great unsolved puzzles of classical scholarship, with the leading
-theory proposing that it was an ergotized beer derived from barley
-infected with [[bloomfield-ergot-claviceps-purpurea-ergotism]].
+the Mysteries centered on the myth of [[bloomfield-ergot-claviceps-purpurea-ergotism]].
 
 ## The Myth of Demeter and Persephone
 
@@ -34,18 +28,7 @@ Eleusinian Mysteries were celebrated.
 The festival of the Mysteries was held on two occasions during the
 Athenian year: the Lesser Mysteries celebrated in spring to welcome
 the return of vegetation, and the Great Mysteries celebrated at
-harvest time. The [[cannabis-harvest-timing-visual-cues]] connected the rites directly to the
-grain cycle and the agricultural abundance that Demeter governed.
-
-## Minoan Origins
-
-The Mysteries had deep roots in Minoan civilization. Archaeological
-evidence supports a Cretan origin: the oldest Telesteria (cult
-structures) are pre-Hellenic; the name Eleusis suggests pre-Hellenic
-Crete; certain cult vessels, the kemoi and libation jugs, are common
-to Eleusinian and Minoan cults; and the purifications of the
-Eleusinian cult come from Crete, where they originally belonged to
-the [[mckenna-myth-of-glaukos-honey-death-resurrection-minoan-religion]]. The kernel of the mysteries was a cult of
+harvest time. The [[mckenna-myth-of-glaukos-honey-death-resurrection-minoan-religion]]. The kernel of the mysteries was a cult of
 fertility, which was also the central element of Minoan religion.
 
 In 1900, Sir Arthur Evans excavating near the palace of Knossos
@@ -74,18 +57,14 @@ memory for the rest of their life.
 
 ## The Wasson-Hofmann Ergot Theory
 
-In 1977, R. Gordon Wasson, working with [[albert-hofmann]] and Carl Ruck,
-proposed that the Eleusinian sacrament was an ergotized beer brewed
-from barley infected with [[claviceps-purpurea]]. Claviceps purpurea is a
+In 1977, R. Gordon Wasson, working with [[claviceps-purpurea]]. Claviceps purpurea is a
 small fungus that infects edible grains and produces ergot, a source
 of powerful alkaloids capable of causing hallucination, triggering
 labor, and having strong vasoconstrictive effects.
 
 The purple color traditionally associated with the robe of Demeter
 may signify the distinctive purple color of the ergot sclerotia, the
-asexual resting stage in the [[bloomfield-fungal-life-cycle-spiral-versus-circle]] of the organism. Wasson and
-his colleagues argued: "Clearly ergot of barley is the likely
-psychotropic ingredient in the [[albert-hofmann-eleusinian-potion-analysis]]. Its seeming
+asexual resting stage in the [[albert-hofmann-eleusinian-potion-analysis]]. Its seeming
 symbiotic relationship to the barley signified an appropriate
 expropriation and transmutation of the Dionysian spirit."
 
@@ -118,8 +97,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[eleusinian-mysteries]]
 - [[claviceps-purpurea]]
-- [[mckenna-food-of-the-gods-kykeon-and-eleusinian-mysteries]]
 - [[mckenna-food-gods-ergot-kykeon-eleusinian]]
 - [[lesser-and-greater-eleusinian-mysteries]]

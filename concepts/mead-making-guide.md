@@ -22,7 +22,7 @@ Mead with fruit added. The most popular mead category. Fruit can be added as fre
 - Cyser: apple mead (honey + apple juice/cider)
 - Pyment: grape mead (honey + grape juice)
 - Berry meads: blackberry, raspberry, strawberry, blueberry, cherry
-- [[holzer-stone-fruit-varieties-and-growing]] meads: peach, plum, cherry, apricot
+- Stone fruit meads: peach, plum, cherry, apricot
 - Tropical meads: mango, pineapple, [[comparison-dragon-fruit-vs-passion-fruit-cultivation]]
 
 ### Metheglin (Spiced Mead)
@@ -111,7 +111,7 @@ Optional but helpful: pH meter or strips, [[hamilton-greenhouse-heating-and-temp
 12. Bottle. Age at least 1 month before drinking.
 
 ### Melomel Variation
-Add 1-3 pounds of fruit per gallon. Fresh or frozen fruit works (freezing breaks down cell walls for better juice extraction). Add fruit in primary fermentation (more fruit flavor integration) or secondary fermentation (clearer mead, more fruit aroma). Berries are added whole or crushed; stone fruits should be pitted and sliced.
+Add 1-3 pounds of fruit per gallon. Fresh or frozen fruit works (freezing breaks down cell walls for better juice extraction). Add fruit in primary fermentation (more fruit flavor integration) or secondary fermentation (clearer mead, more fruit aroma). Berries are added whole or crushed; [[query-how-do-i-grow-stone-fruits-like-peaches-plums-and-cherries]] should be pitted and sliced.
 
 ### Metheglin Variation
 Add spices during secondary fermentation. Start with small amounts -- spices intensify over time. Typical additions per gallon: 1 cinnamon stick, 3-4 whole cloves, 1 inch fresh ginger (sliced), 1 vanilla bean. Taste monthly and remove when flavor is where you want it.

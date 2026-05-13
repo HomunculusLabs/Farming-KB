@@ -10,15 +10,9 @@ sources:
 
 # Cannabis SCROG and SOG Methods
 
-[[cannabis-screen-of-green-scrog-guide]] (ScrOG) and [[comparison-sea-of-green-vs-screen-of-green]] (SOG) are two advanced [[comparison-cannabis-indoor-growing-basics-vs-cannabis-outdoor-growing]] techniques designed to maximize yield per [[comparison-biointensive-vs-square-foot-gardening]] by optimizing light distribution across a horizontal canopy. Both methods manipulate plant architecture but differ fundamentally in their approach: SOG uses many small plants flowered early, while ScrOG uses fewer plants trained through a horizontal screen.
+[[comparison-sea-of-green-vs-screen-of-green]] (SOG) are two advanced [[comparison-biointensive-vs-square-foot-gardening]] by optimizing light distribution across a horizontal canopy. Both methods manipulate plant architecture but differ fundamentally in their approach: SOG uses many small plants flowered early, while ScrOG uses fewer plants trained through a horizontal screen.
 
-See [[cannabis-vegetative-stage-management]] for timing considerations.
-
-## Sea of Green (SOG)
-
-### Concept
-
-SOG is a method of growing that uses a large number of small plants packed closely together in the grow area. Each plant is flowered at a very small size, typically after only 2-3 weeks of [[cannabis-vegetative-growth-stage]]. The goal is to create a uniform "sea" of bud-covered colas across the entire grow surface. Because no individual plant is allowed to grow large, the method produces fast harvests with minimal vegetative time.
+See [[cannabis-vegetative-growth-stage]]. The goal is to create a uniform "sea" of bud-covered colas across the entire grow surface. Because no individual plant is allowed to grow large, the method produces fast harvests with minimal vegetative time.
 
 ### How SOG Works
 
@@ -117,8 +111,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[sea-of-green]]
 - [[dom]]
-- [[screen-of-green]]
 - [[query-sog-vs-scrog-cannabis-training-methods]]
 - [[green-cannabis-grow-bible-sog-scrog-advanced-methods]]

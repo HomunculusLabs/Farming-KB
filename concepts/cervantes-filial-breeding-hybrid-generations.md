@@ -38,10 +38,7 @@ generation. This uniformity is lost when F1 plants are inter-bred.
 
 ## Hybrid Types
 
-Cervantes describes several types of [[cervantes-hybrid-varieties-types]] found in cannabis
-breeding:
-- F1 hybrids: Single cross of two true-breeding lines (e.g.,
-  '[[cannabis-strain-mango-haze-northern-lights-skunk-haze]]' x 'Haze')
+Cervantes describes several types of [[cannabis-strain-mango-haze-northern-lights-skunk-haze]]' x 'Haze')
 - Three-way crosses: A hybrid crossed with a third parent (e.g.,
   'Skunk #1' which is (Mexican x Colombian) x Afghani)
 - Double cross hybrids: A cross of two unrelated F1 hybrids (e.g.,
@@ -69,24 +66,7 @@ show entirely novel trait combinations not seen in either parent. This
 is the generation where careful selection has the greatest impact.
 
 Breeders should grow as many F2 plants as possible to maximize the
-chance of finding exceptional individuals. Polygenic [[cervantes-dominance-recessive-traits-alleles]]
-may only appear in a small fraction of the F2 population, requiring
-large sample sizes to discover.
-
-## Subsequent Filial Generations
-
-Mating siblings chosen from the F2 results in the F3 population. F4,
-F5, F6, and further generations are obtained in the same manner, by
-crossing plants of the same generation and progeny lot. As long as
-siblings of a generation F(n) are mated, the resulting generation is
-denoted F(n+1).
-
-With each successive generation of inbreeding, homozygosity increases.
-The population gradually becomes more uniform as heterozygous loci
-become fixed. After several generations of selection, the population
-approaches a true-breeding state. The rate of homozygosity increase
-depends on the population size; smaller populations fix faster but
-risk losing more [[biodiversity-fungal-genetic-diversity]] in the process.
+chance of finding exceptional individuals. Polygenic [[biodiversity-fungal-genetic-diversity]] in the process.
 
 ## Practical Applications
 
@@ -117,8 +97,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[dom]]
 - [[cervantes-hybrid-vigor-inbreeding-depression]]
-- [[hybrid-to-op-variety-conversion-breeding-solomon]]
 - [[cervantes-hybrid-varieties-types]]
 - [[cervantes-seed-population-types-ibl-hybrid]]

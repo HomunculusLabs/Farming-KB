@@ -1,6 +1,6 @@
 ---
 title: Carbon-Nitrogen Ratio and Soil Humus Dynamics
-source: Gardening When It Counts ([[steve-solomon]], 2005)
+source: Gardening When It Counts (steve-solomon, 2005)
 tags: [carbon-nitrogen, cn-ratio, humus, soil, compost, decomposition, microbiology, fertility, solomon]
 ---
 
@@ -8,7 +8,7 @@ tags: [carbon-nitrogen, cn-ratio, humus, soil, compost, decomposition, microbiol
 
 ## Overview
 
-In *Gardening When It Counts*, Steve Solomon provides one of the clearest practical explanations of how the carbon-to-nitrogen (C/N) ratio governs [[knf-leaf-mold-humus]] dynamics, microbial activity, and ultimately plant nutrition. Understanding C/N mechanics is essential for anyone who composts, sheet-composts, mulches, or applies [[cervantes-organic-amendments-chart]]—because the C/N ratio of what you add to soil determines whether you build or destroy soil humus, and whether you feed plants or feed soil microbes.
+In *Gardening When It Counts*, Steve Solomon provides one of the clearest practical explanations of how the carbon-to-nitrogen (C/N) ratio governs [[cervantes-organic-amendments-chart]]—because the C/N ratio of what you add to soil determines whether you build or destroy soil humus, and whether you feed plants or feed soil microbes.
 
 ## The 12:1 Standard
 
@@ -50,11 +50,7 @@ When nitrogen-rich material (C/N below 12:1) enters the soil, the opposite occur
 6. Expanded microbial populations more aggressively attack existing soil humus
 7. **Net result: soil humus decreases**
 
-**Net effect**: Short-term fertility boost, but long-term soil degradation. This is exactly the same mechanism by which [[cannabis-chemical-fertilizers]] degrade soil organic matter over time.
-
-### Solomon's Critical Insight
-
-> "If we put something into the soil with C/N below 12:1, whether it is chemical or 'organic,' the consequence is immediate formation of nitrates. The plants rapidly [[query-how-do-i-start-growing-hazelnut-bushes]], and when it is all over we have slightly reduced the soil's humus content, a less-healthy microbial population, and poorer tilth."
+**Net effect**: Short-term fertility boost, but long-term soil degradation. This is exactly the same mechanism by which [[query-how-do-i-start-growing-hazelnut-bushes]], and when it is all over we have slightly reduced the soil's humus content, a less-healthy microbial population, and poorer tilth."
 
 This means that excessive use of even organic nitrogen-rich fertilizers (like poultry manure or seed meals) can degrade soil structure over time—exactly the same problem caused by synthetic chemical fertilizers, just slower.
 

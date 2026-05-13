@@ -13,30 +13,11 @@ Many free-living fungi and lichens are dispersed by arthropods in addition to
 wind. These dispersal associations range from obligate symbioses to casual
 encounters. The study of arthropod-dispersed fungi encompasses ophiostomatoid
 ascomycetes, mycoparasites, capilliconidia-producing fungi, and a diverse array
-of spore-dispersal mechanisms. [[biodiversity-of-fungi-pcr-molecular-methods-fungal-diversity]] are increasingly essential for
-resolving the taxonomy of these often minute and morphologically convergent
-organisms.
-
-## Types of Arthropod-Fungal Dispersal
-
-Dispersal of fungi by arthropods occurs through several mechanisms. Spores may
-be caught and carried among the setae of arthropods, or they may adhere to
-smooth surfaces. Because many spores have gelatinous outer parts or may be damp,
-they occasionally adhere to the outer surfaces of mites and insects and are
-coincidentally dispersed. Spores from genera such as Scolecobasidium, Sordaria,
-Penicillium, and Coprinus can be observed on arthropods collected from nature.
-
-Arthropods that routinely use fungi as a nutritional resource, grazing on hyphae
-or spore-containing structures, may disperse their food source as they move to
-new habitats. Bees and other flower-visiting insects actively collect fungal
-spores on occasion. The crucifer rusts such as [[bark-beetle-fungi-ophiostomatales-collection-isolation]] and [[insect-arthropod-associated-fungi]], sometimes
-assigned to the [[insect-arthropod-associated-fungi]] species living in beached
+of spore-dispersal mechanisms. [[bark-beetle-fungi-ophiostomatales-collection-isolation]] and [[insect-arthropod-associated-fungi]] species living in beached
 seaweeds.
 
 Many of the spores described cannot withstand desiccation and must be processed
-immediately if [[myxomycete-sampling-collection-moist-chamber-culturing]] techniques are to succeed. Some species sporulate
-early in the decomposition cycle and are ephemeral, requiring careful daily
-observation. [[fungal-life-cycles]] are often synchronized with those of their
+immediately if [[fungal-life-cycles]] are often synchronized with those of their
 arthropod dispersers, so mature diaspores are available when arthropods are
 ready to disperse.
 
@@ -66,27 +47,13 @@ using PCR amplification and characterization of discrete genomic DNA targets.
 
 For mycoparasitic, insect-dispersed fungi such as some Pyxidiophora species,
 which must be cultured with a fungal host, culture conditions are manipulated to
-favor [[basidiomycete-mating-systems-sexual-reproduction]]. Ascospores extruded from long-necked perithecia are
-collected on glass shards and used as a pure source of DNA. For nonculturable
-fungi, [[fungal-destructive-sampling-herbarium-dna-extraction]] from minute thalli is performed by crushing three to five
+favor [[fungal-destructive-sampling-herbarium-dna-extraction]] from minute thalli is performed by crushing three to five
 thalli dry between silanized microscope slides, with primers designed to
 discriminate between insect and ascomycete DNA templates.
 
 ## Bark Beetle and Ophiostomatoid Fungi
 
-[[dighton-fungus-cultivation-ants-termites-bark-beetles]] (Coleoptera: Curculionidae: Scolytinae) maintain some of the most
-well-studied arthropod-fungal symbioses. Ophiostomatoid fungi, including
-Ophiostoma, Ceratocystis, and Grosmannia species, are carried in specialized
-mycangia (storage structures) on the beetle exoskeleton. When beetles attack
-new trees, these fungi are inoculated into the vascular tissue, where they help
-overwhelm tree defenses and provide a nutritional substrate for developing
-beetle larvae.
-
-The Dutch elm disease pandemic, caused by Ophiostoma novo-ulmi and spread by the
-elm bark beetle, exemplifies the ecological and economic impact of these
-associations. Similar beetle-fungal partnerships are critical in pine forest
-ecology, where blue-stain fungi (Grosmannia spp.) carried by mountain pine
-beetles contribute to tree mortality across vast areas of [[growing-gourmet-north-american-reishi-species]] forests.
+[[growing-gourmet-north-american-reishi-species]] forests.
 
 ## Practical Applications
 
@@ -117,8 +84,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[spore]]
 - [[lichens]]
-- [[decomposition]]
 - [[biodiversity-of-fungi-herbarium-specimen-curation-best-practices]]
 - [[guzman-africa-neurotropic-fungi-underexplored-biodiversity]]

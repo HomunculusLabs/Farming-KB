@@ -11,7 +11,7 @@ sources: []
 
 ## Overview
 
-Many entheogenic plants can be grown indoors with appropriate setup and care. Indoor cultivation offers advantages including year-round growing, [[psilocybe-cubensis-strain-potency-variability-controlled-conditions-bigwood-beug]], privacy, and the ability to maintain tropical species outside their native range. This guide covers the indoor cultivation of four key entheogenic plants: San Pedro cactus, Salvia divinorum, [[chacruna-psychotria-viridis]], [[ayahuasca-and-banisteriopsis-caapi]].
+Many entheogenic plants can be grown indoors with appropriate setup and care. Indoor cultivation offers advantages including year-round growing, controlled conditions, privacy, and the ability to maintain tropical species outside their native range. This guide covers the indoor cultivation of four key entheogenic plants: San Pedro cactus, Salvia divinorum, Psychotria viridis, and Banisteriopsis caapi.
 
 Note: Growing these plants is legal in most jurisdictions when done for ornamental or botanical purposes. Consuming them for psychoactive content may be illegal. See [[psychedelic-plants-legal-status]] for jurisdiction-specific information.
 
@@ -43,7 +43,7 @@ Note: Growing these plants is legal in most jurisdictions when done for ornament
 7. Growth rate from seed is slow: 1–2 inches per year for the first few years
 
 ### Care
-- Fertilize monthly during [[query-how-to-protect-plants-from-frost-and-extend-the-growing-season]] (spring–fall) with low-nitrogen cactus fertilizer (1-7-6 or similar)
+- Fertilize monthly during the growing season (spring–fall) with low-nitrogen cactus fertilizer (1-7-6 or similar)
 - Reduce or stop watering and fertilizing in winter (dormancy period)
 - Watch for pests: mealybugs, scale, spider mites — treat with neem oil or insecticidal soap
 - Rotate pots quarterly for even growth
@@ -78,7 +78,7 @@ Salvia rarely produces viable seeds. Propagation is by stem cuttings:
 ### Care
 - Maintain high humidity: use a humidifier, humidity dome, or pebble tray
 - Mist daily if ambient humidity is below 60%
-- Fertilize lightly every 2–4 weeks during the [[query-how-do-i-extend-my-growing-season-with-cold-frames-and-season-extension-techniques]] balanced liquid fertilizer at half strength
+- Fertilize lightly every 2–4 weeks during the growing season with balanced liquid fertilizer at half strength
 - Pinch growing tips to encourage bushier growth
 - Support tall stems with stakes — Salvia can become leggy indoors
 - Watch for pests: aphids, whiteflies, spider mites — neem oil treatment
@@ -129,3 +129,22 @@ From cuttings:
 - Humidity: High (60–90%) — rainforest conditions preferred
 - Soil: Rich, well-draining tropical mix — potting soil, peat, perlite, orchid bark
 - Support: B. caapi is a climbing vine — provide a trellis, pole, or wire support
+- Pots: Large — 5–20 gallon as the vine matures
+
+### Propagation
+From seed:
+1. Fresh seeds are essential — viability is very short-lived
+2. Soak seeds in water for 24 hours before planting
+3. Sow 1/4 inch deep in moist, sterile seed mix
+4. Maintain 75–85°F and high humidity
+5. Germination: 2–6 weeks (highly variable)
+
+From cuttings:
+
+## See Also
+
+- [[metzner-entheogenic-terminology-psychedelic-hallucinogenic-entheogenic]]
+- [[psychedelic-1960s-counterculture]]
+- [[psychedelic-consciousness-expansion]]
+- [[psychedelic-prohibition-and-the-war-on-consciousness]]
+- [[psychedelic-therapy-set-and-setting]]

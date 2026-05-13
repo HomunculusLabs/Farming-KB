@@ -23,12 +23,9 @@ created: 2026-05-07
 
 **Acapulco Golden** · **Mexican Gold** · **Oro de Acapulco**
 
-Acapulco Gold is a legendary heirloom sativa-dominant [[neurotropic-fungi-of-mexico]], near the Pacific coast city of Acapulco. Once one of the most famous cannabis varieties in the world, it was a primary staple of the [[growing-gourmet-north-american-reishi-species]] illicit cannabis market from the 1960s through the early 1980s. The strain is named for its golden-brown appearance when properly cured, reminiscent of a gold nugget.
+Acapulco Gold is a legendary heirloom sativa-dominant [[growing-gourmet-north-american-reishi-species]] illicit cannabis market from the 1960s through the early 1980s. The strain is named for its golden-brown appearance when properly cured, reminiscent of a gold nugget.
 
-## Lineage [[myrcene]], acapulco gold
-
-- [[panama-red]] — Another legendary Central American [[african-landrace-sativa-modern-hybrids]]
-- [[colombian-gold]] — Colombian landrace with similar [[ethnomycology-cultural-significance-sacred-fungi]]
+## Lineage [[panama-red]] — Another legendary Central American [[colombian-gold]] — Colombian landrace with similar [[ethnomycology-cultural-significance-sacred-fungi]]
 ## Practical Applications
 
 Acapulco Gold has a range of practical applications that make it relevant to

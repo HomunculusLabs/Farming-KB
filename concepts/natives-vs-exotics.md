@@ -25,9 +25,7 @@ that native oaks support over 500 species of Lepidoptera (butterflies
 and moths), while exotic ginkgos support virtually none. Native plants
 are adapted to local climate and soils, often requiring less water and
 care once established. They also tend to be more resistant to local
-[[mushroom-pests-and-diseases]], having evolved natural defenses over millennia.
-
-Native plants preserve regional character and [[biodiversity-fungal-genetic-diversity]]. They
+[[biodiversity-fungal-genetic-diversity]]. They
 connect our gardens to the broader landscape, allowing wildlife to move
 through corridors of familiar habitat. They provide a sense of place
 that generic, globally-sourced landscapes cannot match. For many
@@ -36,15 +34,9 @@ ecological purposes, natives are excellent choices.
 ## The Case Against Exclusivity
 
 However, the strict native-only approach has limitations. Many valuable
-food plants are not native to [[guzman-psilocybin-mushrooms-north-america]]: apples, pears, peaches,
-plums, most vegetables, and many herbs originated elsewhere. Eliminating
-all non-native species would mean giving up most of our food supply.
-
-Some exotics actually provide superior [[fungal-melanin-biosynthesis-ecological-functions]]. Certain
+food plants are not native to [[fungal-melanin-biosynthesis-ecological-functions]]. Certain
 non-native nitrogen fixers, such as Russian olive (Elaeagnus
-angustifolia) and Siberian pea shrub ([[ecological-gardening-principles]]
-- permaculture
-- [[biodiversity-fungicolous-mycoparasitic-fungi]]
+angustifolia) and Siberian pea shrub ([[biodiversity-fungicolous-mycoparasitic-fungi]]
 ## Practical Considerations
 
 When working with Natives vs Exotics, several practical factors should be

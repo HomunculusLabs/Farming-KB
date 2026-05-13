@@ -42,7 +42,7 @@ The destruction of tribal art has served not just monetary gain but the replacem
 
 ## Applied Art: The Flowform Revolution
 
-A significant step toward restoring art's functional role is the **Flowform** system, developed at the Virbella Institute, Emerson College, Kent, UK. Flowforms are sculptural water cascades modeled on older Roman water designs and naturally occurring stream basins carved into sandstone and mudstone.
+A significant step toward restoring art's functional role is the **[[flowform]]** system, developed at the Virbella Institute, Emerson College, Kent, UK. Flowforms are sculptural water cascades modeled on older Roman water designs and naturally occurring stream basins carved into sandstone and mudstone.
 
 ### How Flowforms Work
 
@@ -82,11 +82,6 @@ Mollison issues a dual challenge:
 
 Art belongs to, and relates to, people. It is not a way to waste energy on resources for the few. The most damaging act is not the destruction of art for monetary gain, but the destruction of the information and aids to understanding that art carries.
 
-The lesson for [[permaculture-design]] is clear: **design itself is an art form**, and the best designs are those that are beautiful, functional, educational, and transmissible — designs that teach their users about the natural systems they work with, and that can be shared and adapted across communities and generations.
-
-## See Also
-
-- [[tribal-uses-of-patterning]]
-- [[mnemonics-of-meaning]]
+The lesson for [[tribal-uses-of-patterning]]
 - [[flowform-water-aeration]]
 - [[herb-spiral-design]]

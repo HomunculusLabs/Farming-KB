@@ -24,40 +24,10 @@ designers to select the right tool, or combination of tools, for a given site an
 
 ## Swale Design
 
-[[urban-permaculture-rainwater-harvesting-graywater]]
-
-Rainwater harvesting captures water from roof surfaces and stores it in containers for later use. Systems range from
-simple 55-gallon drum catchments to large ferrocement cisterns holding thousands of gallons. Brad Lancaster's pioneering
-work in Tucson, Arizona, demonstrates that significant water self-sufficiency is achievable even in arid urban
-environments using salvaged materials and thoughtful design that treats every drop of rain as a resource.
-
-The simplest entry point is 55-gallon drum catchment from a garage or shed roof. One inch of rain on a 100-square-foot
-roof produces about 62 gallons, and multiple drums linked together create a gravity-fed system requiring no pumps or
-electricity. For larger storage needs, ferrocement cisterns of 1000+ gallons provide substantial, long-lasting water
-reserves that can sustain a household garden through extended dry periods. First-flush diverters separate the initial
-contaminated runoff from the clean water that follows, and screens on inlets prevent mosquitoes and debris from entering
-storage.
-
-Rainwater harvesting is particularly valuable in urban environments where earthworks like swales may not be practical
-due to limited space, property boundaries, or municipal regulations. Captured rainwater is free of chlorine and other
-municipal treatment chemicals, making it superior for irrigating food crops and supporting soil biology. Stored water
-provides a buffer against drought periods and can supplement municipal supply during water restrictions or emergencies.
-
-The versatility of rainwater harvesting extends beyond simple irrigation. Harvested water can be used for [[comparison-biofertilizers-and-soil-inoculants-vs-compost-tea-guide]]
+[[comparison-biofertilizers-and-soil-inoculants-vs-compost-tea-guide]]
 brewing, aquaponics, livestock watering, and even household non-potable uses with appropriate filtration. Graywater
 integration further amplifies system capacity by routing laundry, shower, and sink water through mulch basins or
-[[comparison-constructed-wetlands-vs-bioswales]] before it recharges the soil. Brad Lancaster's eight principles of water harvesting emphasise
-starting with simple, small-scale interventions and expanding as observation and experience dictate.
-
-## Key Differences
-
-| Aspect | Swale | Rainwater Harvesting |
-|--------|-------|---------------------|
-| Water Source | Surface runoff from land | Roof runoff from impervious surfaces |
-| Storage Mechanism | Soil infiltration and groundwater recharge | Containers (drums, cisterns, tanks) |
-| Storage Duration | Weeks to months (in soil profile) | Months (in sealed containers) |
-| Space Required | Significant (contour earthworks) | Minimal (vertical storage) |
-| Construction Effort | High (earthmoving, [[mollison-designers-contour-surveying-a-frame-bunyip-level]]) | Low to moderate (plumbing, container setup) |
+[[mollison-designers-contour-surveying-a-frame-bunyip-level]]) | Low to moderate (plumbing, container setup) |
 | Primary Benefit | Rehydrates entire landscape | Provides discrete water supply |
 | Ideal Scale | Broadacre, slopes, orchards | Buildings, gardens, urban areas |
 | Irrigation Method | Passive (soil moisture for planted berms) | Active (gravity-fed or pumped distribution) |
@@ -87,31 +57,94 @@ supplemental watering during dry periods. Rainwater harvesting works effectively
 no benefit. For renters and those with limited land rights, portable rain barrel systems can be installed and removed
 without permanent modifications to the property.
 
-The chemical-free water quality of harvested rainwater makes it especially valuable for compost [[chamovitz-circadian-rhythm-internal-clock-plants]], seedling
-irrigation, and sensitive biological applications where chlorine and other municipal treatment chemicals would harm soil
-microbiology. Brad Lancaster's framework prioritises rainwater harvesting as the first step in any water management
-strategy because it is accessible, scalable, and immediately beneficial regardless of property size, slope, or soil
-conditions. Graywater integration further extends the utility of rainwater systems by providing additional water for
-landscape irrigation during dry periods.
-
-## Hybrid Approaches
-
-The most resilient water systems combine both approaches. Swales capture and infiltrate landscape runoff while rain
-barrels collect roof water for targeted irrigation needs. On sloped urban properties, swales can capture runoff from
-paving and driveways while rain barrels collect cleaner roof water for household and garden use. Graywater from laundry
-and shower use can supplement both systems, providing additional water during dry periods when rainwater stores are
-depleted.
-
-Brad Lancaster's integrated approach demonstrates that even small urban lots can combine swales, rain barrels, cisterns,
-and [[natfarm-graywater-recycling-systems]] for near-complete water self-sufficiency. The key principle is to create multiple pathways for
+The chemical-free water quality of harvested rainwater makes it especially valuable for compost [[natfarm-graywater-recycling-systems]] for near-complete water self-sufficiency. The key principle is to create multiple pathways for
 water to enter and remain on the landscape, so that no single failure point can compromise the entire system. Starting
 with rain barrels and simple earthworks, designers can progressively add complexity as they observe how water moves
 across their site through seasons and years.
 
 ## See Also
 
-- [[comparison-drip-irrigation-vs-passive-irrigation]]
-- water-catchment-permaculture
 - [[rainwater-harvesting-systems]]
-- [[compost-tea-brewing]]
 - [[water-management]]
+
+## Overview
+
+Comparison Swale Vs Rainwater Harvesting represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish comparison swale vs rainwater harvesting
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving comparison extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Comparison Swale Vs Rainwater Harvesting finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for comparison swale vs rainwater harvesting. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+comparison swale vs rainwater harvesting and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Comparison Swale Vs Rainwater Harvesting has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of comparison swale vs rainwater harvesting into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[comparison-beeswax-vs-shellac-vs-carnauba-wax]]
+- [[comparison-bioaugmentation-vs-biostimulation]]

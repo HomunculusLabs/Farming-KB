@@ -18,33 +18,7 @@ sources:
 
 **Satureja montana** L., commonly known as winter savory, is a perennial aromatic herb in the family Lamiaceae.
 
-It is native to the Mediterranean basin, southern Europe, and western Asia. The plant has been used as a culinary spice and [[query-how-do-i-build-a-medicinal-herb-drying-rack-and-optimize-drying-conditions]] since classical antiquity.
-
-Winter savory is distinguished from summer savory (*Satureja hortensis*) by its woody basal stems, evergreen leaves, and more intense pungency.
-
-The essential oil of *S. montana* exhibits significant antibacterial and antifungal activity, making it a subject of ongoing pharmacological research.
-
-## Taxonomy and Morphology
-
-*Satureja montana* was described by Carl Linnaeus in 1753. The genus name derives from the Latin *satureia*, referring to the satyr-like aroma attributed to these herbs.
-
-The species belongs to the Nepetoideae subfamily and Mentheae tribe within Lamiaceae.
-
-**Key morphological features:**
-
-- **Growth habit:** Semi-woody subshrub reaching 15–40 cm in height.
-- **Stems:** Erect, densely branched at the base, often woody toward the crown.
-- **Leaves:** Linear to lanceolate, 8–20 mm long, 2–5 mm wide, dark green, glabrous or sparsely pubescent.
-- **Flowers:** Small, bilabiate, white to pale pink, arranged in axillary cymes. Calyx tubular with five teeth.
-- **Fruit:** Four nutlets (mericarps), ovoid, dark brown, approximately 1.5 mm long.
-
-Flowering occurs from June through September. The leaves are strongly aromatic when crushed, emitting a warm, peppery scent with thyme-like notes.
-
-## Distribution and Habitat
-
-Winter savory is native to the Mediterranean region, extending from the Iberian Peninsula eastward through the Balkans, Italy, Greece, and into western Anatolia.
-
-It has been naturalized in parts of central Europe, the British Isles, and [[psilocybin-north-america-pacific-northwest]] through cultivation escape.
+It is native to the Mediterranean basin, southern Europe, and western Asia. The plant has been used as a culinary spice and [[psilocybin-north-america-pacific-northwest]] through cultivation escape.
 
 The species thrives on dry, calcareous, stony soils in full sun. It is characteristic of garrigue and maquis communities, Mediterranean scrublands, and open rocky hillsides at elevations up to 1,500 meters.
 
@@ -58,13 +32,7 @@ Winter savory is easily propagated from seed, softwood cuttings, or division of 
 
 - **Soil:** Well-drained, sandy or rocky, slightly alkaline (pH 6.5–8.0). Poor to moderate fertility preferred.
 - **Light:** Full sun; tolerates light afternoon shade in hotter climates.
-- **Water:** Low to moderate after establishment. Overwatering promotes [[cannabis-root-rot-prevention-and-treatment]] and reduces essential oil content.
-- **Spacing:** 20–30 cm between plants.
-- **Harvest:** Aerial parts collected just before or during flowering for maximum essential oil yield.
-
-Leaves can be harvested year-round in mild climates. The plant typically reaches harvestable size within 60–90 days from transplant.
-
-It performs well as a border plant, container specimen, or [[hamilton-rock-garden-design]] addition. Winter savory attracts pollinators and is considered pest-resistant.
+- **Water:** Low to moderate after establishment. Overwatering promotes [[hamilton-rock-garden-design]] addition. Winter savory attracts pollinators and is considered pest-resistant.
 
 ## Chemistry and Pharmacology
 
@@ -87,3 +55,88 @@ The essential oil demonstrates broad-spectrum antibacterial activity against Gra
 Antifungal activity has been documented against *[[bloomfield-candida-albicans-yeast-hyphal-dimorphism]]* and several dermatophyte species.
 
 In vitro antioxidant assays show moderate to strong radical scavenging capacity, attributed primarily to carvacrol and thymol content.
+
+## Overview
+
+Satureja Montana represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish satureja montana
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving satureja extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Satureja Montana finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for satureja montana. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+satureja montana and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Satureja Montana has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of satureja montana into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[carex-montana]]
+- [[centaurea-montana]]
+- [[pueraria-montana]]
+- [[satureja-hortensis]]
+- [[zingiber-montana]]

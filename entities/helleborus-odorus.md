@@ -109,13 +109,8 @@ Seeds are dispersed partly by gravity and partly by ants, which are attracted to
 
 ## See Also
 
-- [[helleborus-foetidus]]
 - [[helleborus-niger]]
-- [[helleborus-orientalis]]
 - [[helleborus-argutifolius]]
-- [[helleborus-viridis]]
 - [[helleborus-lividus]]
-- [[aconitum-napellus]]
 - [[nigella-sativa]]
-- [[ranunculus-acris]]
 - [[clematis-vitalba]]

@@ -21,31 +21,6 @@ their setup, climate, and market.
 
 ## Enoki Cultivation
 
-[[enoki-cultivation-guide]]
-
-Enoki is one of the most commercially cultivated mushrooms worldwide,
-dominant in East Asian markets. The cultivated form bears almost no
-resemblance to wild specimens — long white stems with tiny caps are
-produced by growing in high CO2 (5000-10000 ppm) and near-total
-darkness at temperatures near freezing. This environmental manipulation
-stretches the stems while suppressing cap development and pigmentation.
-
-The substrate is typically hardwood sawdust supplemented with 20-25%
-wheat or rice bran, sterilized at 15 PSI for 2-3 hours. Bottles with
-narrow necks are the standard commercial container in Japan because
-they create a micro-environment of elevated CO2 around the developing
-mushrooms. Incubation runs 20-30 days at 68-75 F (20-24 C), followed
-by a cold shock at 37-46 F (3-8 C) for 7-10 days to trigger pinning.
-Biological efficiency ranges from 80-120%, making enoki one of the
-more productive cultivated species.
-
-Enoki's defining advantage is its ability to fruit at near-freezing
-temperatures, enabling winter production when most other mushrooms
-go dormant. Its fast colonization and reliable fruiting make it an
-excellent choice for beginners and commercial growers alike.
-
-## Maitake Cultivation
-
 [[growing-gourmet-maitake-cultivation]]
 
 Maitake, known as "Hen of the Woods" or the "Dancing Mushroom," is
@@ -128,8 +103,6 @@ winter and maitake during milder months.
 
 ## See Also
 
-- [[comparison-oyster-vs-shiitake-cultivation]]
 - [[comparison-maitake-vs-reishi-medicinal-mushrooms]]
-- [[mushroom-substrate-comparison]]
 - [[enoki-mushroom-cultivation]]
 - [[grifola-frondosa-maitake]]

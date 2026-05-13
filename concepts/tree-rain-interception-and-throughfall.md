@@ -100,6 +100,13 @@ Trees transform rainfall from a destructive force into a life-giving resource th
 This integrated system explains why deforestation leads simultaneously to increased flooding (from lost interception and impact buffering) and increased drought (from lost condensation, rehumidification, and nucleation). The tree is not merely a resident of the water cycle — it is one of its primary architects.
 
 ## See Also
-- [[mollison-rain-interception-and-throughfall-in-forests]]
 - [[tree-rain-interaction]]
 - [[comparison-fruit-tree-pruning-vs-fruit-tree-grafting-guide]]
+
+## See Also
+
+- [[nut-tree-cultivation-for-permaculture-food-forests]]
+- [[tree-effects-on-precipitation]]
+- [[fukuoka-textdoc-shelterbelt-design-environmental-tree-planting]]
+- [[fukuoka-no-prune-fruit-tree-method]]
+- [[organic-fruit-tree-care-calendar]]

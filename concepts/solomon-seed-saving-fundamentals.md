@@ -10,9 +10,7 @@ sources:
 
 # Seed Saving Fundamentals (Solomon)
 
-From [[solomon-seed-quality-and-germination-testing]]
-- [[comparison-seed-saving-vs-hybrid-seeds]]
-- [[biointensive-seed-saving]]
+From [[comparison-seed-saving-vs-hybrid-seeds]]
 - [[solomon-gardening-when-it-counts-index]]
 ## Background and Context
 

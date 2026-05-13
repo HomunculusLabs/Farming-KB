@@ -103,7 +103,13 @@ For permaculture designers, the complexity principle suggests:
 
 ## See Also
 
-- [[cycles-in-nature]] — cyclic processes that create connection opportunities
 - [[niche-in-space-and-time]] — how species partition ecological resources
-- [[maximum-product-yield-fallacy]] — forced yield as destructive simplicity
 - [[permaculture-design-framework]] — overall design philosophy
+
+## See Also
+
+- [[fukuoka-soil-microbe-fertilizer-complexity]]
+- [[fukuoka-textdoc-soil-complexity-microorganisms-fertilizer-interactions]]
+- [[fukuoka-human-knowledge-limits-ecosystem-complexity]]
+- [[open-systems-entropy-and-life-complexity]]
+- [[complexity-connections-and-order-in-permaculture]]

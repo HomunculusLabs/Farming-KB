@@ -16,42 +16,13 @@ type: concept
 
 # Endophyte Alkaloid Production and Grass Herbivore Defense
 
-[[fungi-in-the-environment-fungal-endophytes-plant-communities]] of grasses produce a range of alkaloid [[antifungal-secondary-metabolites-coprophilous-fungi]]
+[[antifungal-secondary-metabolites-coprophilous-fungi]]
 that deter herbivores, reduce insect feeding, and suppress pathogen attack. In
-[[fungal-ecology]], these endophyte-herbivore
-interactions illustrate how fungi can exert effects upward through entire
-communities, from individual plants to grazing animal populations and ecosystem
-structure.
-
-## The Endophyte-Grass Symbiosis
-
-Clay (1990) defines [[biodiversity-of-fungi-endophytic-fungi]] as organisms that grow within a plant for
+[[biodiversity-of-fungi-endophytic-fungi]] as organisms that grow within a plant for
 a period and then egress to sporulate, causing no apparent damage to their
 host. Clay (1997) identifies endophytic fungi as a model system showing how
-fungi can have important effects throughout the [[ingham-single-species-vs-whole-community]] by virtue of
-their interactions with grazing animals.
-
-Of particular importance are members of the Clavicepitales associated with
-grasses. The presence of these fungi in grass leaves reduces incidence of
-insect herbivory, grazing by ungulates, and oviposition on the plant by
-insects. The effect operates through both altered [[solomon-manure-quality-variable-nutrient-content-horse-steer-chicken]] of the host
-plant and the production of [[biodiversity-fungal-secondary-metabolites]] that deter animals.
-
-## Key Endophyte Genera and Their Effects
-
-Several endophyte genera have been extensively studied for their effects on
-host plants and herbivores:
-
-- **Acremonium lolii** (ryegrass) and **A. coenophialum** (tall fescue):
-  Produce alkaloids that confer broad antiherbivore protection
-- **Epichloe** species: Associated with both defensive mutualism and
-  reproductive interactions with insect vectors
-- **Neotyphodium** species: Asexual endophytes that confer natural selection
-  advantage to infected host plants
-
-Clay (1990) documented the effects of Clavicepitales endophytes on herbivore
-resistance and plant growth. Acremonium and Balansia (each from
-approximately 100 host species) increase [[cannabis-vegetative-growth-stage]] and suppress
+fungi can have important effects throughout the [[solomon-manure-quality-variable-nutrient-content-horse-steer-chicken]] of the host
+plant and the production of [[cannabis-vegetative-growth-stage]] and suppress
 reproduction while providing herbivore resistance. Atkinsoniella and
 Myriogenospora show similar patterns across fewer host species.
 
@@ -69,15 +40,7 @@ Richardson (2000) postulates that alkaloid production may have additional
 properties beyond herbivore defense. In other fungal-plant interactions,
 secondary metabolites influence host plant physiology. The pathogenic fungus
 Cercospora produces cercosporin, which kills host cells to make nutrients
-available to the fungus. [[endophytic-fungi]] similarly increase apoplastic
-carbohydrate concentrations in leaves, providing greater energy supply to
-the fungus.
-
-## Nitrogen Economics of Alkaloid Production
-
-Alkaloid production is nitrogen-demanding. Richardson (2000) cites evidence
-that endophytic fungi can alter the nitrogen balance within the host plant to
-favor [[nitrogen-availability-in-legumes]] to the fungus. This nitrogen manipulation
+available to the fungus. [[nitrogen-availability-in-legumes]] to the fungus. This nitrogen manipulation
 supports the idea that mutualistic associations (mycorrhizae and endophytes)
 exist along a continuum of fungal physiologies ranging from saprotrophy to
 pathogenicity.
@@ -118,8 +81,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[doc]]
 - [[det]]
-- [[endophytic-fungi]]
 - [[mycorrhizae]]
 - [[mycorrhiza]]

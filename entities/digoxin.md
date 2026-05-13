@@ -15,17 +15,7 @@ sources:
   - "Smith, T.W. (1988). \"Digitalis: mechanisms of action and clinical use.\" New England Journal of Medicine, 318(6), 358–365."
   - "Hauptman, P.J. & Kelly, R.A. (1999). \"Digitalis.\" Circulation, 99(9), 1265–1270."
   - "Prassas, I. et al. (2011). \"The challenge of developing effective glycosidase inhibitors.\" Nature Reviews Drug Discovery, 10, 271–281."
-  - "Ma, G. et al. (2015). \"Isolation of digoxin from [[digitalis-lanata]].\" Journal of Pharmaceutical and Biomedical Analysis, 115, 9–18."
-  - "Bauman, J.L. & DiDomenico, R.J. (2020). \"Pharmacology of cardiac glycosides.\" UpToDate."
----
-
-# Digoxin
-
-## Overview
-
-Digoxin is a cardiac glycoside derived from the foxglove plant (*Digitalis lanata*).
-It is one of the oldest cardiovascular drugs still in clinical use, prescribed
-primarily for rate control in atrial fibrillation and for [[cannabis-cancer-symptom-management]] in
+  - "Ma, G. et al. (2015). \"Isolation of digoxin from [[cannabis-cancer-symptom-management]] in
 heart failure with reduced ejection fraction (HFrEF). Its [[blesching-cannabis-therapeutic-window-dosing]] is
 notoriously narrow, requiring serum level monitoring to avoid toxicity.
 
@@ -43,17 +33,7 @@ of the most frequently prescribed oral cardiac medications worldwide.
 - **Molecular weight:** 780.94 g/mol
 - **CAS number:** 20830-75-5
 - **Appearance:** White to off-white crystalline powder
-- **Melting point:** 235 °C ([[digitalis-purpurea]]* (common foxglove) contains
-primarily digitoxin rather than digoxin.
-
-**Biosynthetic pathway:**
-- Pregnane backbone from cholesterol via the mevalonate pathway
-- Hydroxylation at C-12 and C-14 positions (key differentiating step from digitoxin)
-- Glycosylation: sequential attachment of digitoxose and glucose residues
-- The C-12 hydroxylation distinguishes digoxin from digitoxin (which lacks it)
-
-**Commercial production:** Digoxin is extracted from dried *D. lanata* leaves
-through [[cannabis-solvent-extraction]] (ethanol/chloroform), followed by chromatographic
+- **Melting point:** 235 °C ([[cannabis-solvent-extraction]] (ethanol/chloroform), followed by chromatographic
 purification. The lanatoside C precursor is enzymatically hydrolyzed to yield
 digoxin. Semi-synthetic routes from digitoxin via microbial C-12 hydroxylation
 have also been developed.
@@ -72,13 +52,7 @@ have also been developed.
 - Half-life: 36–48 hours (prolonged in renal impairment)
 - Primarily renally eliminated; requires dose adjustment in CKD
 
-**[[cannabis-drug-interactions-and-contraindications]] (clinically significant):**
-- Amiodarone, verapamil, quinidine: increase serum digoxin levels 50–100%
-- Clarithromycin, erythromycin: inhibit intestinal P-glycoprotein efflux
-- Spironolactone: may reduce mortality when combined with digoxin in HF
-- Hypokalemia: potentiates digoxin toxicity (compete for Na+/K+-ATPase binding)
-
-**The DIG trial (1997):** [[naturwissenschaften-1990-brassinosteroid-psilocybe-landmark-study]] of 6,800 patients showed digoxin reduced
+**[[naturwissenschaften-1990-brassinosteroid-psilocybe-landmark-study]] of 6,800 patients showed digoxin reduced
 hospitalization for worsening heart failure but did not reduce overall mortality.
 This shaped current guideline recommendations positioning digoxin as adjunctive
 rather than first-line therapy.
@@ -88,3 +62,80 @@ rather than first-line therapy.
 Digoxin toxicity remains a significant clinical problem due to the narrow
 [[cannabis-therapeutic-index-overview]]. Approximately 0.8–5% of hospitalized patients on digoxin
 develop toxicity.
+
+## Overview
+
+Digoxin represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish digoxin
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving digoxin extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Digoxin finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for digoxin. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+digoxin and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Digoxin has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of digoxin into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.

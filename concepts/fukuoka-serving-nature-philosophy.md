@@ -44,21 +44,7 @@ Many farmers are unaware of nature even while living and working in
 natural surroundings, but farming offers many opportunities for
 greater awareness. An old country song expresses the truth: "Whether
 autumn will bring wind or rain, I cannot know, but today I will be
-working in the fields." In simply [[fukuoka-sowing-seed-ball-desert-revegetation]] and caring tenderly
-for plants under nature's guidance, there is joy.
-
-## The Dwindling of Leisure
-
-Fukuoka used the example of the New Year's holiday to illustrate
-the decline of farming life. In the old days, the one-acre farmer
-spent January, February, and March hunting rabbits in the hills.
-The New Year's holiday lasted about three months. Gradually it was
-shortened to two months, one month, and now it is a three-day
-holiday.
-
-This dwindling indicates how busy the farmer has become and how
-they have lost their easygoing physical and spiritual well-being.
-There is no time in [[fukuoka-critique-modern-agriculture]] for a farmer to write a poem
+working in the fields." In simply [[fukuoka-critique-modern-agriculture]] for a farmer to write a poem
 or compose a song. Fukuoka found haiku poems centuries old hanging
 on the walls of the village shrine -- evidence that even poor
 farmers once had leisure for creative expression. Now there is no
@@ -88,41 +74,7 @@ and potash.
 Fukuoka calculated that if each person in Japan were given a
 quarter-acre of arable land (1.25 acres per family of five), that
 would be more than enough to support the family for the whole year
-through [[fukuoka-schools-of-natural-farming]]
-- [[fukuoka-agriculture-for-tomorrow]]
-- [[fukuoka-agriculture-tomorrow-quarter-acre-vision]]
-
-## Practical Applications
-
-The principles and techniques discussed here have wide-ranging applications
-across multiple disciplines and contexts. Practitioners and researchers
-continue to explore new ways to integrate these concepts into modern practice,
-adapting traditional knowledge to contemporary challenges and opportunities.
-
-## Key Considerations
-
-Several important factors influence the effectiveness and outcomes described
-in this topic. Understanding these considerations helps practitioners make
-informed decisions and avoid common pitfalls. Environmental conditions,
-timing, and material selection all play critical roles.
-
-## Historical Context
-
-The historical development of this subject reflects centuries of accumulated
-knowledge and practical experience. From traditional methods passed down
-through generations to modern scientific approaches, the evolution continues
-to inform current best practices and research directions.
-
-## Common Challenges
-
-Practitioners frequently encounter several challenges when working with
-these concepts. Climate variability, resource limitations, and knowledge
-gaps can all affect outcomes. Addressing these challenges requires patience,
-observation, and a willingness to adapt approaches based on results.
-
-## See Also
+through [[fukuoka-agriculture-for-tomorrow]]
 - [[fukuoka-natural-farming-philosophy-road-back-to-nature]]
-- [[fukuoka-return-to-nature-philosophy]]
 - [[fukuoka-descartes-western-philosophy-nature]]
-- [[fukuoka-philosophy-of-mu-and-nature]]
 - [[fukuoka-philosophy-non-causality-nature]]

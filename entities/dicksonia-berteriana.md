@@ -108,13 +108,8 @@ Reintroduction programs using spore-grown stock are planned for suitable habitat
 
 ## See Also
 
-- [[dicksonia-antarctica]]
 - [[dicksonia-squarrosa]]
-- [[dicksonia-fibrosa]]
 - [[cibotium-barometz]]
-- [[cyathea-dealbata]]
 - [[cyathea-medullaris]]
-- [[blechnum-spicant]]
 - [[asplenium-nidus]]
-- [[pteridium-aquilinum]]
 - [[polypodium-vulgare]]

@@ -79,18 +79,10 @@ Cobalt is seldom mentioned as necessary for plant
 growth, and most fertilizer labels do not include
 it. Cobalt is virtually never deficient in indoor
 cannabis gardens. It is necessary for countless
-[[ingham-aact-beauveria-fruit-fly-beneficial-bacteria-inoculant]] to grow and flourish, and is
-vital for nitrogen absorption. Scientific evidence
-suggests this element is linked to enzymes needed
-to form aromatic compounds.
-
-When deficient, problems with [[nitrogen-availability-in-legumes]]
+[[nitrogen-availability-in-legumes]]
 occur. This is because cobalt-deficient soil
 supports fewer nitrogen-fixing bacteria, reducing
-the overall [[query-how-does-the-nitrogen-cycle-work-in-a-garden]] efficiency.
-
-## See Also
-- [[cervantes-iron-manganese-zinc-micronutrients]]
+the overall [[cervantes-iron-manganese-zinc-micronutrients]]
 
 ## Practical Applications
 
@@ -121,8 +113,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[dom]]
 - [[beauveria]]
-- [[cervantes-iron-manganese-zinc-micronutrients]]
 - [[query-how-to-fix-boron-deficiency-in-cannabis]]
 - [[cannabis-boron-nutrient]]

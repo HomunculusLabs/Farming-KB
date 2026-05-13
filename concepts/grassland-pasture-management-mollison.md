@@ -3,13 +3,7 @@ title: Grassland and pasture-management (Mollison)
 created: 2026-04-21
 updated: 2026-04-21
 type: concept
-tags: [[permaculture]], design, forage, livestock-health]
-sources:
-  - "raw/papers/bill-mollison-permaculture-design-course.md"
-  - "raw/papers/bill-mollison-permaculture-design-course.md"
----
-# Grassland and Pasture Management (Mollison)
-Source: Permaculture: A Designers' Manual, [[bill-mollison]],
+tags: [[bill-mollison]],
 Section 12.12 (pp. 436-439)
 ## The Importance of Grasslands
 Of all of earth's great plant systems, it is grasslands that we most
@@ -50,29 +44,14 @@ and rootset plants such as comfrey are planted by these underground
 gardeners, who leave forgotten storages of tree and meadow seed, root
 cuttings, and bulbs in shallow tunnels. Today, many thoughtful farmers
 are including more and more herbs in their leys (mints, chicory,
-[[dandelion]], cleavers, daisies, plantain, and vetches) to the great
-health benefit of their herds.
-## Enhanced Pasture Design
-For [[mollison-designers-cool-humid-climate-design-overview]] areas, perennial pastures usually consist of a sward
+[[mollison-designers-cool-humid-climate-design-overview]] areas, perennial pastures usually consist of a sward
 carefully composed of grasses and legumes. In high-value landscape,
 fenced-off browse lots and hedgerow tree forage strips are obvious ways
 to extend and buffer the system. In the contoured hedgerows, an
 under-sowing of lucerne, comfrey, chicory, selected dandelion, and a
 midlevel planting of tagasaste, Caragana, Coprosma repens, and pampas
 grass (Cortaderia), with a tall overstory of willows, poplar, white
-oak, chestnut, [[comparison-black-locust-vs-honey-locust]], and known desirable woody browse could be
-designed to occupy 10% per annum of the area, until year 4, when 40%
-of the total area would be broad, complex, contoured hedgerow.
-## Ley Farming and Soil Health
-In farming, we distinguish between temporary grass lands sown to rest
-the soil and provide hay or green meadows (leys, or short-rotation
-pastures of 1-4 years), and the permanent pastures sown for constant
-grazing (100 or more years). Soil crumb structure, humus, and soil
-nitrogen all show slow improvement under permanent grasses, so that 25
-years is needed to notice a pronounced effect. In a traditional cool
-temperate farm landscape, some 25% of land will be in 1-4 year leys
-(red clover as a legume) and 15-25% permanent pasture (white clovers).
-The rest (60%) would be in grains, green crop, and [[root-crop-harvest-and-storage]].
+oak, chestnut, [[root-crop-harvest-and-storage]].
 ## Livestock Rotation Systems
 ### Long-Rotation (Extensive)
 Domestic species on extensive range, very light stocking, long rotation
@@ -118,8 +97,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[pasture-management]]
 - [[dom]]
-- [[permaculture]]
 - [[dandelion]]
 - [[permaculture-pasture-management]]

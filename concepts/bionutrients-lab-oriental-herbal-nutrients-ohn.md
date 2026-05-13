@@ -10,9 +10,7 @@ sources: ["raw/papers/beneficial-indigenous-microorganisms-bionutrients.md"]
 
 **Updated:** 2026-04-24
 
-Oriental Herbal Nutrients (OHN) is a natural antibiotic and tonic preparation used in Korean Natural Farming, originally derived from a recipe using ginger, garlic, and traditional Chinese herbs. OHN serves as both a preventive medicine and a treatment for fungal, bacterial, and pest problems in plants and animals. The preparation method involves [[pf-tek-alcohol-extraction-method]] similar to herbal tinctures in homeopathy, which extracts the final active ingredients after an initial fermentation stage.
-
-Related preparations include [[bionutrients-lab-fermented-plant-juice-fpj]], [[bionutrients-lab-fish-aminos]], and [[bionutrients-lab-calcium-phosphate-calamansi]].
+Oriental Herbal Nutrients (OHN) is a natural antibiotic and tonic preparation used in Korean Natural Farming, originally derived from a recipe using ginger, garlic, and traditional Chinese herbs. OHN serves as both a preventive medicine and a treatment for fungal, bacterial, and pest problems in plants and animals. The preparation method involves [[bionutrients-lab-fermented-plant-juice-fpj]], [[bionutrients-lab-calcium-phosphate-calamansi]].
 
 ## Original Korean Recipe
 
@@ -73,11 +71,7 @@ The two-stage process (fermentation followed by alcohol extraction) is deliberat
 - **Digestive aid:** Stimulates digestion and nutrient absorption
 - **Anti-inflammatory:** Reduces inflammation in plants and animals
 - **Warming herb:** In traditional medicine, promotes circulation and vitality
-- **Antimicrobial:** Contains gingerol and other compounds with [[mycelium-running-mushroom-antimicrobial-properties-species-chart]]
-
-### Chinese Herbs (when used)
-
-- **Angelica acutiloba:** Blood tonic, supports circulation and [[mycelial-network-nutrient-transport-imaging-gadd]]
+- **Antimicrobial:** Contains gingerol and other compounds with [[mycelial-network-nutrient-transport-imaging-gadd]]
 - **Glycyrrhiza uralensis:** Harmonizes the formula, supports digestive function
 - **Cinnamomum loureirii:** Aromatic, antimicrobial, supports digestive warmth
 
@@ -118,8 +112,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[oriental-herbal-nutrient]]
 - [[bionutrients]]
-- [[allicin]]
 - [[glycyrrhiza-uralensis]]
 - [[zingiber-officinale]]

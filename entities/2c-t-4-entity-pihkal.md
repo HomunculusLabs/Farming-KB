@@ -58,15 +58,7 @@ PIHKAL entry #41. 2,5-DIMETHOXY-4-(i)-PROPYLTHIOPHENETHYLAMINE.
 >
 > (with 14 mg) Very rational, benign, and good humored. The insight
 > and calm common to the 2C-T
-- [[2-br-4-5-mda-entity-pihkal]]
-
-- PIHKAL (Shulgin & Shulgin, 1991)
-- Related compounds in the 2C-T series
-
-## See Also
-- [[tma-5-entity-pihkal]]- [[qualitative-comments-methodology-pihkal]]
-- [[shamanic-entheogenic-ceremony-structure-common-elements]]
-- [[first-time-grower-common-mistakes]]
+- [[tma-5-entity-pihkal]]- [[shamanic-entheogenic-ceremony-structure-common-elements]]
 - [[query-how-does-phosphorus-availability-change-across-soil-ph-levels]]
 - [[savory-holistic-resource-management-biological-monitoring]]
 ## Practical Considerations

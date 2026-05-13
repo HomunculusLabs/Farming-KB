@@ -1,12 +1,6 @@
 ---
-title: Earth Dam Construction
-source: bill-[[mollison-designers-dam-construction-and-water-storage|mollison]]-permaculture-a-designers-manual.md
-type: concept
----
-
-# Earth Dam Construction
-
-Earth dams are a foundational element of [[permaculture]] [[water-management]], providing on-site water storage for irrigation, livestock, aquaculture, fire protection, and landscape rehydration. Drawing from the principles outlined in [[bill-mollison]]'s *Permaculture: A Designer's Manual*, earth [[dam-construction]] integrates careful site assessment, appropriate soil selection, and precise engineering techniques to create stable, long-lasting water storage [[bill-mollison-permaculture-a-designers-manual-aquaculture-and-water-systems|systems]] that work with natural processes rather than against them.
+title: Earth [[dam-construction]]
+source: bill-[[permaculture]] [[bill-mollison]]'s *Permaculture: A Designer's Manual*, earth [[bill-mollison-permaculture-a-designers-manual-aquaculture-and-water-systems|systems]] that work with natural processes rather than against them.
 
 ## Landscape Zoning Framework
 
@@ -17,7 +11,7 @@ The landscape can be conceptualised as a set of four interrelated zones that gui
 - **Usage zones** — where stored water is applied to gardens, orchards, pastures, or domestic supply. Gravity flow from elevated storage is highly desirable.
 - **Revitalisation zones** — downstream areas where released water rehydrates soils and restores ecological function.
 
-This cyclical model ensures dams are integrated components of a holistic water management strategy.
+This cyclical model ensures dams are integrated components of a holistic [[water-management]] strategy.
 
 ## Site Selection Criteria
 

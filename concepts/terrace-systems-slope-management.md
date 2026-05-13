@@ -4,9 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Terrace Systems for Slope Management
-
-Terrace systems are engineered earthworks that convert sloping land into a series of level or gently inclined platforms, enabling productive agriculture while preventing soil erosion and water loss. In [[permaculture-design]], terraces represent one of the most fundamental strategies for slope management, allowing steep and marginal land to become productive food-growing areas.
+# [[permaculture-design]], terraces represent one of the most fundamental strategies for slope management, allowing steep and marginal land to become productive food-growing areas.
 
 ## Overview
 
@@ -142,13 +140,11 @@ Key design essentials for terrace systems include:
 1. **Always follow natural contours** — terraces must be level along the contour to prevent water concentration and breakout erosion
 2. **Ensure adequate drainage** — every terrace needs spillways and overflow paths to handle extreme rainfall events
 3. **Maintain bund integrity** — bund walls must be regularly inspected and repaired
-4. **Integrate multiple functions** — terraces should produce food, conserve soil, manage water, and support biodiversity simultaneously
-5. **Design for access** — pathways between terraces must allow movement of people, tools, and harvest without damaging structures
-6. **Plan for succession** — terrace systems evolve; initial pioneer species give way to mature polycultures over time
 
-Variations on terrace systems include keyline-based contour swales combined with partial terracing, bench terraces with integrated chinampas, and modern variations using geotextiles and gabions for reinforcement on unstable slopes.
-## See also
+## See Also
 
-- [[terrace-design-and-construction]]
-- [[soil-erosion-control]]
-- [[slope-analysis-in-permaculture]]
+- [[terrace-construction-earthworks]]
+- [[sepp-holzer-terrace-systems-and-raised-beds]]
+- [[holzer-terrace-systems]]
+- [[holzer-terrace-construction-guide]]
+- [[terrace-earthworks-and-slope-management]]

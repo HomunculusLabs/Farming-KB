@@ -25,18 +25,8 @@ The following table documents traditional health properties attributed to specif
 | Thai Name | Scientific Name | Traditional Health Property |
 |-----------|----------------|---------------------------|
 | Hed Khon | Termitomyces sp. | Good for brain and memory |
-| Hed Fang | [[paddy-straw-mushroom-volvariella-volvacea-cultivation]] | Heals wounds |
-| Hed Muerk | Coprinus sp. | Helps digestion and decreases phlegm |
-| Hed Hu-noo | Auricularia sp. | Cleans lungs |
-| Hed Kradum | Agaricus sp. | Increases mother's milk |
-| Hed Hua-ling | Hericium erinaceus | Heals wounds in intestine |
-| Hed Nangrom | Pleurotus sp. | Decreases muscle pain (malpighia) |
-| Hed Hom | Lentinula edodes | Good for baby's cartilage |
-| Hed Khemthong | [[flammulina-velutipes]] | Good for liver |
-| Hed Yanagi | [[agrocybe-cylindracea]] | Good for kidney and urine |
-| Hed Kraeng | Schizophyllum commune | Decreases leucorrhea |
-| Hed Ranghae (Skirt mushroom) | Dictyophora sp. | Cures dysentery and decreases rotting |
-| Hed Hu-noo Khao | [[tremella-fuciformis]] | Good for sperm, semen and kidney |
+| Hed Fang | [[flammulina-velutipes]] | Good for liver |
+| Hed Yanagi | [[tremella-fuciformis]] | Good for sperm, semen and kidney |
 | Hed Bod | Lentinus sp. | Controls the whole body system |
 
 ## Nutritional Composition
@@ -70,14 +60,91 @@ The documented health properties of mushrooms serve multiple purposes in the FAO
 1. **Nutritional justification**: Demonstrates that mushroom farming addresses both income generation and nutritional security
 2. **Market education**: Farmers can use health properties as marketing points when selling mushrooms
 3. **Species selection**: Health properties may influence which species farmers choose to cultivate based on local demand
-4. **Cultural integration**: Traditional Thai knowledge about [[medicinal-mushroom-health-benefits]] supports market acceptance and consumer demand
+4. **Cultural integration**: Traditional Thai knowledge about [[auricularia-polytricha]] (Ear Mushroom)
+- Lentinula edodes (Shiitake)
+- Hericium erinaceus (Lion's Mane)
 
-The nutritional data from Chulalongkorn University provides scientific backing for the health claims and supports the argument that mushroom cultivation contributes to food security in rural communities. For people with disabilities, the nutritional benefits of mushroom farming extend beyond income — they directly improve household nutrition and health.
+## Overview
+
+Thai Medicinal Mushrooms represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish thai medicinal mushrooms
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving thai extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Thai Medicinal Mushrooms finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for thai medicinal mushrooms. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+thai medicinal mushrooms and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Thai Medicinal Mushrooms has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of thai medicinal mushrooms into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
 
 ## See Also
 
-- Pleurotus ostreatus (Oyster Mushroom)
-- Volvariella volvacea (Straw Mushroom)
-- [[auricularia-polytricha]] (Ear Mushroom)
-- Lentinula edodes (Shiitake)
-- Hericium erinaceus (Lion's Mane)
+- [[cannabis-thai-strain-description-clarke]]
+- [[mushroom-cultivation-disabilities-thai-processed-mushroom-products]]
+- [[oner-southeast-asian-sativa-heritage-thai-vietnamese-cambodian]]
+- [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]]
+- [[thai-power]]

@@ -18,49 +18,15 @@ type: concept
 Polypores are premier wood decomposers and can produce
 annual or perennial fruitbodies. Two polypores enjoying
 reputations as medicinal fungi are Maitake (Grifola
-frondosa) and Zhu Ling ([[ganoderma-applanatum]] (Elfvingia applanata)
-- Ganoderma curtisii
-- Ganoderma oregonense
-- Ganoderma sinense
-- [[chaga-inonotus-obliquus-medicinal-profile]] (Chaga)
+frondosa) and Zhu Ling ([[chaga-inonotus-obliquus-medicinal-profile]] (Chaga)
 - Oligoporus spp.
 - Oxyporus nobilissimus and allies
 - Phellinus spp.
-- [[staycare-trametes-versicolor-bioremediation-applications]])
+- [[inonotus-obliquus]])
 
-[[inonotus-obliquus]])
-
-[[chaga-inonotus-obliquus-medicinal-profile]], commonly known as Chaga, is a sterile
-conk that grows primarily on birch trees in cold northern
-climates. Rather than producing a typical mushroom
-fruitbody, Chaga forms a dark, cracked mass of mycelium
-and wood on the exterior of the host tree.
-
-Chaga has been used in traditional medicine across
-northern Europe and Siberia for centuries. It is one of
-the most antioxidant-rich foods known and has been
-studied for its immune-stimulating, anti-inflammatory,
-and potential anti-cancer properties.
-
-The sterile conk can grow for decades on living birch
-trees, slowly extracting nutrients from the host. Chaga
-is typically harvested from wild populations, and
 [[synthetic-log-cultivation-methods-guide]] are still being developed.
 
-See also: [[growing-gourmet-medicinal-polysaccharides-mushroom-compounds]]
-
-## Noble Polypore (Oxyporus nobilissimus)
-
-On a well-travelled trail in the Snoqualmie Forest of
-Washington State, hikers have been stepping upon the
-largest and oldest Polypore: Oxyporus nobilissimus, a conk
-that grows up to several feet in diameter and which can
-weigh hundreds of pounds. This species grows only on old
-growth Abies procera (California red fir) or on their
-stumps.
-
-Less than a dozen specimens have ever been collected. The
-Noble Polypore's ability to produce a [[comparison-fruiting-body-vs-mycelium-extracts-medicinal-mushrooms]] that
+See also: [[comparison-fruiting-body-vs-mycelium-extracts-medicinal-mushrooms]] that
 survives for more than 25 years suggests unique
 anti-rotting properties from antibiotics or other compounds
 that could be useful medicinally.
@@ -70,8 +36,7 @@ that could be useful medicinally.
 The cultivation of polypore species can take several
 tracks:
 
-1. **[[growing-gourmet-outdoor-log-inoculation-techniques]]**: Hardwood logs are inoculated
-   similarly to [[gourmet-medicinal-mushroom-shiitake-cultivation-logs]]. By burying the
+1. **[[gourmet-medicinal-mushroom-shiitake-cultivation-logs]]. By burying the
    inoculated logs in sawdust or soil, moisture is better
    preserved and fruitings extend over several years.
 
@@ -118,8 +83,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[chaga]]
 - [[mushroom-cultivation]]
-- [[abies-procera]]
 - [[mycelium]]
 - [[ganoderma-sinense]]

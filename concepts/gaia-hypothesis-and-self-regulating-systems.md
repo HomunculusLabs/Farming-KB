@@ -8,7 +8,7 @@ type: concept
 
 ## Overview
 
-The [[gaia-hypothesis]], formulated by [[james-lovelock]], proposes that Earth behaves not as a material assembly but as a self-regulating living system — a thought process that actively creates and maintains the conditions necessary for its own support. This concept is foundational to [[permaculture]] thinking, providing both a scientific framework and an ethical imperative for design that works with, rather than against, natural processes.
+The [[james-lovelock]], proposes that Earth behaves not as a material assembly but as a self-regulating living system — a thought process that actively creates and maintains the conditions necessary for its own support. This concept is foundational to [[permaculture]] thinking, providing both a scientific framework and an ethical imperative for design that works with, rather than against, natural processes.
 
 ## The Gaia Hypothesis
 
@@ -81,3 +81,11 @@ For the permaculture designer, the Gaia hypothesis means:
 5. **Value diversity**: Complexity and diversity are not aesthetic preferences but functional necessities for system stability
 
 The ultimate design test is whether the system continues to function productively when the designer walks away. Self-regulation is not merely desirable — it is the measure of successful design.
+
+## See Also
+
+- [[gaia-hypothesis]]
+- [[gaia-hypothesis-and-open-systems-in-permaculture]]
+- [[gaia-garden-plant-guilds]]
+- [[southern-hemisphere-origin-hypothesis-neurotropic-fungi-guzman-1998]]
+- [[amanita-muscaria-herb-of-immortality-soma-hypothesis]]

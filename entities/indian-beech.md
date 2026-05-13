@@ -11,13 +11,8 @@ type: entity
 # Indian Beech
 
 **Type:** Species (Plant)
-**Category:** Leguminous [[mollison-designers-chestnut-as-multipurpose-tree-crop]]
-**Also known as:** permaculture
-systems, particularly in coastal and saline environments where few productive
-trees can grow. Its combination of [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]], livestock fodder,
-industrial oil production, [[cho-natural-pest-control-methods]] control, and extreme environmental
-tolerance make it a cornerstone species for sustainable tropical agriculture
-and [[agroforestry]].
+**Category:** Leguminous [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]], livestock fodder,
+industrial oil production, [[agroforestry]].
 
 ## See Also
 - [[acacia]]

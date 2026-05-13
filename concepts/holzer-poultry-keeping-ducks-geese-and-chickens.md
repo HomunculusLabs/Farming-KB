@@ -11,10 +11,9 @@ sources:
 
 # Holzer Poultry Keeping: Ducks, Geese and Chickens
 
-[[comparison-sepp-holzer-vs-biodynamic]] keeps poultry extensively at the Krameterhof, with an emphasis on natural breeding, habitat creation, and bird conservation. This page expands on [[holzer-permaculture-landscape-design]] provides cavity nesters with hollow old trees
+[[holzer-permaculture-landscape-design]] provides cavity nesters with hollow old trees
 - Varied nest box sizes and entrance holes prevent dominance by competitive species like great tits
-- Piles of brushwood and thick hedges provide winter [[hemenway-insectary-plants-and-beneficial-insects]]
-- Birds in a diverse permaculture system find enough food even in winter without [[savory-supplemental-feeding-and-winter-management]]
+- Piles of brushwood and thick hedges provide winter [[savory-supplemental-feeding-and-winter-management]]
 
 ## Poultry Breeds and Natural Breeding
 
@@ -33,10 +32,8 @@ For poultry enclosures, Holzer plants thorny hedge barriers using:
 - Dog rose (Rosa canina) -- easy to cultivate, excellent medicinal plant, fruit rich in vitamin C, makes delicious jam and fruit tea
 - Japanese rose (Rosa rugosa) -- large red shiny rose hips, very tasty, corrugated leaves
 
-These hedges serve multiple functions: shelter from predators, food source (rose hips), beauty, fragrance, and [[holzer-pond-construction-and-aquaculture]], irrigation, and [[mollison-designers-microclimate-creation-frost-protection]]
-- Protective hedges produce rose hips for [[holzer-cattle-poultry-management]]
-- [[holzer-livestock-philosophy-paddock-system]]
-- [[holzer-beekeeping-and-honey-production]]
+These hedges serve multiple functions: shelter from predators, food source (rose hips), beauty, fragrance, and [[mollison-designers-microclimate-creation-frost-protection]]
+- Protective hedges produce rose hips for [[holzer-livestock-philosophy-paddock-system]]
 - [[holzer-roundwood-shelter-construction]]
 ## Practical Applications
 
@@ -97,8 +94,6 @@ through generations to modern scientific approaches, the evolution continues
 to inform current best practices and research directions.
 
 ## See Also
-- [[doc]]
 - [[dom]]
-- [[det]]
 - [[rosa-canina]]
 - [[permaculture]]

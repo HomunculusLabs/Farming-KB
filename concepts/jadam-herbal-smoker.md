@@ -14,65 +14,9 @@ The herbal smoker is a simple device that burns plant material to produce pestic
 ## What It Controls
 
 The herbal smoker is particularly effective against:
-- [[cervantes-spider-mites-identification-control]] (Tetranychus urticae)
-- Silverleaf whitefly (Bemisia tabaci)
-- Greenhouse whitefly (Trialeurodes vaporariorum)
-- Leaf miner flies
+- [[coleman-aphid-management-winter-greenhouse-nitrogen-flushing]] [[jadam-herbal-smoker-livestock]]
 
-These tiny pests are difficult to reach with liquid sprays because they hide in leaf crevices, undersides, and protected areas. Smoke penetrates everywhere.
-
-## When to Use
-
-- [[coleman-aphid-management-winter-greenhouse-nitrogen-flushing]] [[comparison-pheromone-based-pest-control-vs-beneficial-insect-biocontrol]] (primary use case)
-- Any time in greenhouses when liquid sprays would cause excess humidity
-- After 7 pm on a cloudy day (smoke sinks on cloudy days, more effective)
-- Can be used year-round but is most critical in cold months
-
-## Coverage Rate
-
-- 1-2 smokers per 330 square meters (0.08 acres) of greenhouse
-- Smoke persists for 2+ hours, thoroughly enshrouding all plants
-
-## How to Build the Smoker (DIY from Oil Tin Can)
-
-**Materials:**
-- Empty oil tin can (standard size)
-- Coal briquette
-- Plant material (herbs for smoking)
-- Wire hanger (optional, for carrying)
-- Hammer with sharp point
-
-**Construction Steps:**
-1. Clean out an empty oil tin can thoroughly
-2. Using the sharp tip of a hammer, punch holes on all four sides of the can
-3. Make slightly larger holes on the bottom for airflow
-4. Optionally attach a wire hanger for convenient carrying
-5. Place a lit coal briquette inside the can
-6. Put the herb material on top of the coal
-7. Spray water on the herb -- adequately wet material produces more smoke; too dry will not smoke well
-8. Place the smoker on the greenhouse floor
-
-## Operation Procedure
-
-1. Shut all greenhouse windows and vents completely
-2. Remove all beehives from the greenhouse (smoke kills bees)
-3. Place 1-2 smokers on the floor, evenly distributed
-4. Light the coal, add herb material, spray with water
-5. Exit the greenhouse and close the door
-6. Let smoke fill the greenhouse for 2+ hours (overnight is ideal)
-7. Next morning: open all windows and ventilate thoroughly
-8. After full ventilation, return beehives to the greenhouse
-
-## Effective Herb Materials
-
-**Tobacco** (most commonly used):
-- Very effective against mites and whiteflies
-- WARNING: tobacco can leave smell on fruits -- do not use near harvest time
-- If tobacco smell remains on produce, spray [[jadam-herbal-smoker-livestock]]
-
-- [[jadam-pesticide-for-aphids-and-mites]] -- liquid spray programs for mites and whiteflies
 - [[jadam-natural-pest-control-methods]]
-- [[jadam-natural-pesticide-programs]]
 - [[building-with-natural-materials]]
 ## Practical Considerations
 
@@ -122,8 +66,85 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[jadam-herbal-smoker-livestock]]
 - [[ultra-low-herbal-smoker-greenhouse-pest-control]]
-- [[jadam-herbal-pest-control]]
 - [[cho-oriental-herbal-nutrient-preparation]]
 - [[herbal-salves-and-balms]]
+
+## Overview
+
+Jadam Herbal Smoker represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish jadam herbal smoker
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving jadam extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Jadam Herbal Smoker finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for jadam herbal smoker. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+jadam herbal smoker and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Jadam Herbal Smoker has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of jadam herbal smoker into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also

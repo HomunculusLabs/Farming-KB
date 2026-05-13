@@ -11,24 +11,18 @@ type: concept
 
 # Weak Link Analysis
 
-In  used in [[savory-brittle-environments]] with fifteen inches of rainfall. The ranch has
-carried a conventional [[savory-animal-impact-and-herd-effect]] and long [[savory-ranch-financial-planning]], the weak
-link analysis is applied annually to guide reinvestment decisions. The
-annual reinvestment cycle shows how [[savory-solar-dollars-and-wealth-classification]] flow through the three
+In  used in [[savory-animal-impact-and-herd-effect]] and long [[savory-solar-dollars-and-wealth-classification]] flow through the three
 links and where the constraint lies. The goal is to minimize the use of
 mineral and paper dollars (nonrenewable wealth) and maximize the
 generation of solar dollars (renewable wealth from sunlight capture).
 
 Every dollar of reinvestment should go to the weakest link. If energy
-conversion is weak, invest in [[savory-plant-succession-and-community-dynamics]],
-the weak link might be soil surface condition, seed availability, moisture,
-or any of the [[savory-testing-and-management-guidelines]] as well to assure they really do address
+conversion is weak, invest in [[savory-testing-and-management-guidelines]] as well to assure they really do address
 the situation. Perceived problems that do not represent the weak link are
 nonproblems.
 
 ## See Also
 
-- [[savory-holistic-decision-making]]
 - [[savory-energy-flow-and-solar-capture]]
 ## Practical Applications
 

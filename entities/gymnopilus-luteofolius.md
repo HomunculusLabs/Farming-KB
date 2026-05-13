@@ -11,14 +11,12 @@ sources:
 
 # Gymnopilus luteofolius
 
-**Gymnopilus luteofolius** (Peck) Hesler is a [[gartz-conocybe-cyanopus-rare-psychoactive-mushroom]] in
-the family Cortinariaceae confirmed to contain [[psilocybin]]. It is one
+**Gymnopilus luteofolius** (Peck) Hesler is a [[psilocybin]]. It is one
 of several *Gymnopilus* species known to produce indole alkaloids and is
 distinguished by its striking purple to lilac cap coloration, a trait
 unusual among neurotropic fungi. The species was originally described by
 Peck and later transferred to *Gymnopilus* by Hesler (1969). Along with
-[[gymnopilus-aeruginosus]], *G. luteofolius* was confirmed as
-psilocybin-containing by Koike et al. (1981) from [[psilocybin-north-america-pacific-northwest]]
+[[psilocybin-north-america-pacific-northwest]]
 specimens.
 
 ## Taxonomy and Classification
@@ -32,37 +30,7 @@ specimens.
 - **Species:** *G. luteofolius* (Peck) Hesler
 
 The genus *Gymnopilus* comprises approximately 14 species documented as
-containing psilocybin or related [[psilocybe-semilanceata-eight-indole-compounds]]. The genus is
-characterized by its rusty-brown spore print, bitter taste, and wood-
-inhabiting habit. *G. luteofolius* is one of the more visually distinctive
-species in the genus due to its purple coloration, which helps separate it
-from the typically orange-brown [[gymnopilus-spectabilis-entity]] and
-[[gymnopilus-junonius]].
-
-## Morphology
-
-### Cap (Pileus)
-
-The pileus is 2 to 8 cm in diameter, convex when young, expanding to plane
-or slightly depressed at maturity. The surface is dry, smooth to finely
-fibrillose, and the most striking feature is the coloration: bright purple
-to lilac or violet when fresh, fading to rusty brown or ochraceous with
-age. The margin is incurved when young and becomes straight to uplifted.
-The cap flesh is thin, pale purple to yellowish, and has an intensely
-bitter taste.
-
-### Gills (Lamellae)
-
-The gills are adnate to adnexed, close to crowded, and narrow. Young gills
-are pale yellow to cream-colored, maturing to rusty brown or cinnamon-rust
-as spores develop. The rusty spore print is characteristic of the genus
-*Gymnopilus* and distinguishes it from genera with dark spore prints.
-
-### Stem (Stipe)
-
-The stipe measures 3 to 7 cm in length and 0.5 to 1.5 cm in thickness. It
-is central, cylindrical, and colored yellowish above the annulus zone with
-darker rusty tones below. The surface is fibrillose to slightly scaly. A
+containing psilocybin or related [[gymnopilus-spectabilis-entity]] and
 [[membranous-annulus-loss-brassinosteroid-induced-morphological-change]] (ring) may be present but is often evanescent. The
 flesh is fibrous, pale yellow, and intensely bitter.
 
@@ -77,8 +45,7 @@ flesh is fibrous, pale yellow, and intensely bitter.
 
 ## Distribution and Habitat
 
-*Gymnopilus luteofolius* is primarily distributed in [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]] of
-[[guzman-psilocybin-mushrooms-north-america]]. It was documented from the eastern United States by Hesler
+*Gymnopilus luteofolius* is primarily distributed in [[guzman-psilocybin-mushrooms-north-america]]. It was documented from the eastern United States by Hesler
 (1969) and has been reported from the southeastern United States and the
 Pacific Northwest. Koike et al. (1981) confirmed psilocybin in specimens
 from the Pacific Northwest. The species has also been reported from Europe,
@@ -88,3 +55,88 @@ The species is saprotrophic, growing on dead or decaying wood, stumps, and
 woody debris. It shows a preference for conifer substrates, particularly
 pine and spruce, though it can also occur on hardwood. Fruiting occurs in
 autumn, typically from September through November. It is found solitary to
+
+## Overview
+
+Gymnopilus Luteofolius represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish gymnopilus luteofolius
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving gymnopilus extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Gymnopilus Luteofolius finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for gymnopilus luteofolius. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+gymnopilus luteofolius and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Gymnopilus Luteofolius has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of gymnopilus luteofolius into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[gymnopilus-aeruginosus]]
+- [[gymnopilus-fulgens]]
+- [[gymnopilus-luteus]]
+- [[gymnopilus-sapineus]]
+- [[gymnopilus-spectabilis-entity]]

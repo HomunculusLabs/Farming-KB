@@ -11,7 +11,7 @@ sources: []
 
 ## Overview
 
-Ayahuasca is a psychoactive brew originating from the Amazon basin, used for millennia by indigenous peoples across Peru, Brazil, Colombia, Ecuador, and Bolivia. The brew combines two essential components: a DMT-containing leaf (typically [[chacruna-psychotria-viridis]], called chacruna) and a [[ayahuasca-and-banisteriopsis-caapi]] vine that provides beta-carboline alkaloids functioning as monoamine oxidase inhibitors (MAOIs). Without the MAOI, orally ingested DMT is rapidly broken down by monoamine oxidase enzymes in the gut and liver, producing no psychoactive effect. The combination allows DMT to reach the bloodstream and cross the blood-brain barrier.
+Ayahuasca is a psychoactive brew originating from the Amazon basin, used for millennia by indigenous peoples across Peru, Brazil, Colombia, Ecuador, and Bolivia. The brew combines two essential components: a DMT-containing leaf (typically Psychotria viridis, called chacruna) and a Banisteriopsis caapi vine that provides beta-carboline alkaloids functioning as monoamine oxidase inhibitors (MAOIs). Without the MAOI, orally ingested DMT is rapidly broken down by monoamine oxidase enzymes in the gut and liver, producing no psychoactive effect. The combination allows DMT to reach the bloodstream and cross the blood-brain barrier.
 
 The word "ayahuasca" comes from the Quechua language: "aya" (soul, spirit, dead) and "wasca" (vine, rope) — "vine of the soul" or "vine of the dead."
 
@@ -30,7 +30,7 @@ The word "ayahuasca" comes from the Quechua language: "aya" (soul, spirit, dead)
 
 ### Alternative DMT Sources
 - Diplopterys cabrerana (chaliponga) — stronger than chacruna, 15–30 g dried
-- [[entheogen-jurema-mimosa-hostilis-ethnobotany]] root bark — used in Brazilian-style preparations
+- Mimosa hostilis root bark — used in Brazilian-style preparations
 - Psychotria carthaginensis — less common substitute
 
 ## Proportions and Ratios
@@ -73,7 +73,7 @@ The ratio can be adjusted: more vine produces a heavier, more bodily experience 
 
 ## The Dieta
 
-In the [[ayahuasca-vision-art-and-shipibo-tradition]] and throughout the Peruvian Amazon, preparation for [[ayahuasca-ceremony-pharmacology-safety]] involves following a "dieta" — a strict dietary and behavioral regimen, typically lasting 1–2 weeks before and after ceremony:
+In the Shipibo tradition and throughout the Peruvian Amazon, preparation for ayahuasca ceremony involves following a "dieta" — a strict dietary and behavioral regimen, typically lasting 1–2 weeks before and after ceremony:
 
 ### Dietary Restrictions
 - No salt, sugar, or spices
@@ -94,7 +94,7 @@ The dieta is considered essential for purification and sensitivity to the medici
 
 ## Ceremony Structure
 
-Traditional [[metzner-amazonian-ayahuasca-ceremonies-icaros-and-healing-methods]] follow a general structure that varies between indigenous groups:
+Traditional ayahuasca ceremonies follow a general structure that varies between indigenous groups:
 
 1. **Opening**: The curandero (healer) calls upon the spirits, smokes mapacho (jungle tobacco), and sets the ceremonial space (the "maloca" or ceremonial hut)
 2. **Invocation**: Icaros (sacred songs) are sung to call the medicine and protect participants

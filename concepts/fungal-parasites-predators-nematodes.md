@@ -3,7 +3,7 @@ title: Fungal Parasites Predators Nematodes
 created: 2026-04-21
 updated: 2026-04-21
 type: concept
-tags: [[mycology]], fungi]
+tags: mycology, fungi]
 sources: []
 ---
 # Fungal Parasites and Predators of Nematodes
@@ -67,10 +67,6 @@ Spores or conidia are then released to infect new hosts.
 
 ## Life Cycle Strategies
 
-[[nematophagous-fungi]] can be broadly categorized by their life cycle strategies.
-Obligate nematophagous fungi depend entirely on nematodes for nutrition and
-reproduction, maintaining trapping structures or infective spores at all times.
-Facultative nematophagous fungi are primarily saprotrophs that switch to
 [[fungal-nematode-predation-and-trapping-mechanisms]] or parasitism when nitrogen or other nutrients are limiting.
 This facultative strategy is more common and ecologically flexible, allowing
 fungi to survive in environments where nematode prey are intermittently
@@ -80,10 +76,6 @@ available.
 
 Nematophagous fungi occupy important positions in soil food webs as top-down
 regulators of nematode populations. Their activity influences the abundance and
-[[core-endorhiza-bacterial-community-composition-cannabis]] of both plant-parasitic and free-living nematodes. In
-natural ecosystems, nematophagous fungi help maintain nematode populations
-below levels that would cause significant plant damage. Their effectiveness is
-influenced by soil environmental conditions including temperature, moisture, pH,
 [[fukuoka-textdoc-composting-critique-futility-prepared-organic-matter]] content, and the presence of competing microorganisms.
 
 ## Biological Control Applications
@@ -117,8 +109,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[fungal-parasites-and-predators]]
 - [[fungal-parasites]]
-- [[doc]]
 - [[composting]]
 - [[spore]]

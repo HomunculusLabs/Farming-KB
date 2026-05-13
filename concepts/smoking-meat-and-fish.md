@@ -9,7 +9,7 @@ sources: []
 
 ## Overview
 
-Smoking is one of the oldest [[lacto-fermentation-and-food-preservation-methods]], using wood smoke to dry, flavor, and preserve meat and fish. Smoke deposits [[antimicrobial-compounds-mushroom-mycelium]] on the food surface, while the drying process reduces moisture to levels that inhibit bacterial growth. Two primary methods exist: cold smoking (preservation focus, 68-86F) and hot smoking (cooking focus, 140-180F). Both can be done with simple equipment on a homestead.
+Smoking is one of the oldest food preservation methods, using wood smoke to dry, flavor, and preserve meat and fish. Smoke deposits antimicrobial compounds on the food surface, while the drying process reduces moisture to levels that inhibit bacterial growth. Two primary methods exist: cold smoking (preservation focus, 68-86F) and hot smoking (cooking focus, 140-180F). Both can be done with simple equipment on a homestead.
 
 ## Cold Smoking vs Hot Smoking
 
@@ -31,7 +31,7 @@ Smoking is one of the oldest [[lacto-fermentation-and-food-preservation-methods]
 - Curing optional but recommended for flavor and safety
 - Produces moist, cooked products that require refrigeration
 - Examples: smoked chicken, ribs, brisket, fish fillets, trout
-- Fire and food are in the same chamber or adjacent with direct [[heat-transfer-coefficient]]
+- Fire and food are in the same chamber or adjacent with direct heat transfer
 
 ### Warm Smoking (Intermediate)
 
@@ -92,7 +92,7 @@ Cold smoking temperatures (68-86F) are in the bacterial danger zone (40-140F). W
 - Pine, fir, spruce, cedar — Resinous, produce harsh bitter smoke and can cause illness
 - Treated or painted wood — Toxic chemicals
 - Plywood, particle board — Glues and adhesives are toxic when burned
-- Locust, [[bloomfield-ghosts-of-evolution-osage-orange-anachronism]] — Extremely dense and harsh
+- Locust, osage orange — Extremely dense and harsh
 - Moldy wood — Can produce off-flavors and mycotoxins
 
 ### Wood Preparation
@@ -110,7 +110,7 @@ Cold smoking temperatures (68-86F) are in the bacterial danger zone (40-140F). W
 
 **Vertical bullet smoker:** Cylindrical, fire at bottom, water pan in middle. Efficient, beginner-friendly, good for hot smoking.
 
-**Cabinet smoker:** Insulated box with electric/gas heat and wood chip tray. Precise [[hamilton-greenhouse-heating-and-temperature-control]], easy to use.
+**Cabinet smoker:** Insulated box with electric/gas heat and wood chip tray. Precise temperature control, easy to use.
 
 **DIY options:** 55-gallon drum ($100), cinder block stack (permanent), or small smokehouse with separate fire pit and underground pipe (ideal for cold smoking).
 
@@ -141,10 +141,10 @@ Cold smoking temperatures (68-86F) are in the bacterial danger zone (40-140F). W
 
 Cold smoking is riskier because food spends extended time in the danger zone:
 
-- Always cure with salt and nitrites before cold smoking
-- Monitor temperature; if it exceeds 90F, move product to cooler location
-- After smoking, products should lose 20-25% of original weight through moisture loss
-- Cold-smoked fish: 2-3 weeks refrigerated, 3-6 months frozen
-- Cold-smoked meats: 1-2 weeks refrigerated, 4-6 months frozen
+## See Also
 
-### Hot Smoking Safety
+- [[comparison-smoking-vs-canning]]
+- [[faires-meat-processing-curing-and-smoking]]
+- [[blesching-cannabis-smoking-lung-pulmonary-effects]]
+- [[dmt-smoking-and-administration-methods]]
+- [[dmt-smoking-technique-and-preparation]]

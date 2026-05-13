@@ -3,13 +3,13 @@ title: Masonry Heater Design
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
-tags: [energy, construction, [[homesteading]], off-grid, design, engineering]
+tags: [energy, construction, homesteading, off-grid, design, engineering]
 sources: []
 ---
 
 # Masonry Heater Design
 
-A masonry heater (also called a masonry stove, kachelofen, or Russian stove) is a high-efficiency wood-burning heating appliance that stores heat in a large [[comparison-windbreak-vs-thermal-mass]] of brick, stone, or [[cob-building-basics-detailed]]. Unlike conventional wood stoves that burn continuously and radiate heat directly, a masonry heater burns a hot, fast fire and stores the heat in its mass, releasing it slowly over 12-24 hours. A single intense fire in the morning can heat a home all day.
+A masonry heater (also called a masonry stove, kachelofen, or Russian stove) is a high-efficiency wood-burning heating appliance that stores heat in a large thermal mass of brick, stone, or [[cob-building-basics-detailed|cob]]. Unlike conventional wood stoves that burn continuously and radiate heat directly, a masonry heater burns a hot, fast fire and stores the heat in its mass, releasing it slowly over 12-24 hours. A single intense fire in the morning can heat a home all day.
 
 ## How Masonry Heaters Work
 
@@ -26,7 +26,7 @@ A masonry heater (also called a masonry stove, kachelofen, or Russian stove) is 
 
 - Complete combustion: High temperatures and excess air ensure wood burns completely, producing minimal creosote, smoke, and particulates
 - Heat extraction: Internal channels force gases to contact maximum masonry surface area
-- [[coleman-soil-heat-mass-passive-thermal-storage]]: Heat that would go up the chimney in a conventional stove is captured in mass
+- Thermal storage: Heat that would go up the chimney in a conventional stove is captured in mass
 - Overall efficiency: 80-90% (vs. 40-60% for conventional wood stoves)
 
 ## Types of Masonry Heaters
@@ -61,7 +61,7 @@ Developed in Finland, the contraflow design is the most popular for modern mason
 
 - Large horizontal masonry mass
 - Gases travel through a labyrinth of horizontal channels
-- Very large [[urban-water-catchment-cistern-thermal-mass]] — can weigh 10,000+ lbs
+- Very large thermal mass — can weigh 10,000+ lbs
 - Takes 2-3 days to fully heat up
 - Historically used as a sleeping platform on top
 
@@ -140,11 +140,11 @@ Masonry heaters are sized by the square footage they need to heat:
 2. Foundation: Pour reinforced concrete pad
 3. Base course: Lay first courses of brick, establishing the footprint
 4. Firebox: Build firebox with firebrick and refractory mortar
-5. Baffles: Build internal channels or bell chambers
-6. Outer shell: Continue masonry courses, enclosing the internal structure
-7. Cleanouts: Install access doors at channel bottoms
-8. Chimney connection: Transition to chimney flue
-9. Facing: Apply stone, tile, or plaster to the exterior
-10. Curing: Build small, cool fires for the first week to dry the mortar gradually
 
-### Safety Clearances
+## See Also
+
+- [[comparison-rocket-stove-vs-masonry-heater]]
+- [[comparison-masonry-heater-vs-pellet-stove]]
+- [[query-what-is-a-rocket-mass-heater-and-how-does-it-work]]
+- [[rocket-mass-heater-design]]
+- [[bill-mollison-permaculture-a-designers-manual-edge-effect-and-ecotone-design]]

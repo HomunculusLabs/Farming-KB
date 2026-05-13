@@ -13,7 +13,7 @@ type: concept
 ## Overview
 
 The photoperiod - the ratio of light hours to dark hours - is the
-primary environmental trigger controlling flowering in cannabis. [[sea-of-green]] (SOG) and [[cervantes-mother-plants]] to take cuttings, the 12/12 schedule
+primary environmental trigger controlling flowering in cannabis. [[cervantes-mother-plants]] to take cuttings, the 12/12 schedule
 determines flowering timing. Clones taken from flowering mothers will
 start to flower as soon as they are placed under 12/12, allowing
 rapid production cycles for strains that have already been sexed and
@@ -21,19 +21,7 @@ identified as female.
 
 ## References
 
-- Green, G. The [[query-how-do-i-transition-my-cannabis-grow-from-synthetic-to-organic-nutrients]] Bible. Green Candy Press, 2003.
-  Chapter 7 on flowering, 12/12 photoperiod, and light cycle
-  management.
-
-## Light Cycle Mechanics
-
-Cannabis is a short-day plant, meaning flowering is triggered when the
-uninterrupted dark period exceeds a critical threshold, typically 10-12
-hours. The phytochrome pigment system mediates this response: PR (active
-in darkness) accumulates during the dark period, while PFR (active in
-light) converts back under illumination. When PR levels remain elevated
-for approximately 10-12 consecutive hours, the plant shifts from
-[[cannabis-vegetative-growth-stage]] to reproductive mode, redirecting energy from foliage
+- Green, G. The [[cannabis-vegetative-growth-stage]] to reproductive mode, redirecting energy from foliage
 production to floral development.
 
 ## Vegetative Phase Under 18/6
@@ -43,25 +31,7 @@ light / 6 hours dark schedule. This provides ample energy for leaf and
 branch production without triggering flowering. Under 24/0 continuous
 light, some strains exhibit accelerated vegetative growth, but a dark
 period is generally recommended because it allows root respiration,
-[[dighton-fungal-nutrient-translocation-element-redistribution]], and reduced energy costs. Plants under 18/6
-often display more robust root systems compared to those under 24/0.
-
-## The 12/12 Transition
-
-Switching to 12 hours light / 12 hours dark initiates flowering.
-During the first 1-2 weeks of 12/12, the plant undergoes a stretch
-phase, where internodal spacing increases rapidly and calyx
-development begins. Female plants show white pistils (stigmas) at
-node sites, while male plants develop pollen sacs. Identifying and
-removing males within the first two weeks prevents pollination of
-sinsemilla crops. The stretch phase is strain-dependent, with indica
-varieties typically stretching 50-100% and sativa varieties stretching
-100-300%.
-
-## Dark Period Integrity
-
-Even brief light interruptions during the 12-hour dark period can
-revert the plant to vegetative growth or cause [[fungal-stress-responses]]
+[[fungal-stress-responses]]
 including hermaphroditism. Green-spectrum light leaks from equipment
 LEDs, hallway light under doors, or outdoor street lighting are common
 culprits. Growers use light-proofing materials, sealed tents, and
@@ -84,7 +54,7 @@ The flowering cycle can be divided into distinct phases:
 
 ## Photoperiod vs Autoflowering
 
-Unlike photoperiod strains, [[autoflowering-cannabis]] ([[cannabis-ruderalis]]
+Unlike photoperiod strains, [[cannabis-ruderalis]]
 hybrids) flowers based on age rather than light cycle, typically
 beginning flowering 2-4 weeks after germination regardless of the
 photoperiod. This makes autoflowers simpler for novice growers and
@@ -118,8 +88,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[det]]
 - [[phytochrome]]
-- [[comparison-autoflowering-cannabis-vs-cannabis-photoperiod-flowering-cycle]]
 - [[green-cannabis-photoperiod-12-12-light-cycle]]
 - [[marijuana-horticulture-cervantes-cannabis-life-cycle-and-photoperiod]]

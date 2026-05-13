@@ -9,7 +9,7 @@ date: 2026-05-08
 
 ## Overview
 
-In "[[mckenna-tryptamine-hallucinogens-and-consciousness]] and Consciousness" (1983), [[terence-mckenna]]
+In "[[terence-mckenna]]
 advanced the provocative thesis that language is not merely a human
 communication tool but a self-replicating information system that has
 achieved a degree of autonomy from its biological hosts. He described
@@ -90,3 +90,11 @@ extended phenotype of a linguistic replicator.
 
 ## See Also
 - [[mckenna-language-as-magic-shamanic-theory-linguistic-reality-plant-hallucinogens]]
+
+## See Also
+
+- [[mckenna-logos-consciousness-language]]
+- [[mckenna-tryptamine-glossolalia-and-primal-language]]
+- [[mckenna-catalyzing-consciousness-and-language]]
+- [[mckenna-glossolalia-and-primal-language-tryptamine-states]]
+- [[mckenna-women-gatherers-and-evolution-of-language]]

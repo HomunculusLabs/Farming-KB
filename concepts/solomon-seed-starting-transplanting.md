@@ -9,27 +9,13 @@ sources: ["papers/gardening-when-it-counts-steve-solomon.md"]
 
 # Seed Starting and Transplanting
 
-Source: [[steve-solomon]], "Gardening When It Counts" (2005)
-
-## The Case Against Garden-Center Transplants
-
-Solomon is deeply suspicious of purchased seedlings. Common problems:
-
-- **Mislabeled varieties**: seedling labels cost as much as the seed; vendors may substitute similar varieties when preferred ones are unavailable. This matters: a canning kraut cabbage split at harvest has entirely different value than a storage variety.
-- **Pot-bound root systems**: seedlings kept too long develop circling roots that cannot support the top in hot weather. The plant wilts and takes 1-2 weeks to recover.
-- **Soft, unhardened growth**: greenhouse seedlings grown at high temperatures with no wind develop weak-walled, water-filled cells. Moving directly to outdoor conditions causes severe shock from chilling, wind, sun, and drought -- often multiple shocks in succession.
-- **Unsuitable species sold as transplants**: beets, carrots, corn, and lettuce should be direct-seeded. Transplanting usually fails to produce useful roots (beets, carrots) or severely shocks the plant (corn, lettuce).
-- **Poor varieties**: [[solomon-garden-centers-seedling-traps]] carry what sells, not what grows best or tastes best. Tomatoes are the exception -- people remember the flavor and complain if substituted.
+Source: [[solomon-garden-centers-seedling-traps]] carry what sells, not what grows best or tastes best. Tomatoes are the exception -- people remember the flavor and complain if substituted.
 
 A properly hardened seedling looks smaller and more wiry than a soft one, but will be weeks ahead after transplanting. Commercial growers skip hardening because it costs extra weeks of greenhouse time.
 
 ## Grow Your Own: The Simple Approach
 
-Solomon recommends raising transplants only for species that benefit from every possible frost-free day: tomatoes, peppers, and eggplants. In short-season areas, also a few melon or [[cover-crops]]. Everything else should be direct-seeded.
-
-### Soil for Seedlings
-
-Use garden soil, not commercial [[solomon-potting-mix-and-seedling-soil-recipe]]:
+Solomon recommends raising transplants only for species that benefit from every possible frost-free day: tomatoes, peppers, and eggplants. In short-season areas, also a few melon or [[solomon-potting-mix-and-seedling-soil-recipe]]:
 1. Half-fill a 5-gallon bucket with garden soil
 2. If not clayey, blend in ~1.5 gallons well-rotted manure or compost
 3. If clayey, mix in an equal volume of sphagnum moss (peat moss)
@@ -40,43 +26,8 @@ Using your own garden soil means seedlings that thrive in it from the start are 
 
 ### Sowing in Pots
 
-- Use leftover [[query-fabric-pots-vs-plastic-pots-vs-air-pots-for-cannabis]] or newspaper cylinders (3-inch wide strip rolled into a squat cylinder)
-- Fill pots, firm the soil, make a small hole with a pencil
-- Drop 2-3 seeds per pot; flick loose soil to cover (nothing heavy)
-- Slip a clear plastic bag over the pot to maintain moisture until emergence
-- The bag prevents overwatering and temperature drops from evaporation
-
-### Timing
-
-Start solanum seeds (tomato, pepper, eggplant) about 6 weeks before transplanting:
-- Sow tomatoes first
-- When they are up and growing, start peppers and eggplants
-- When those are growing, consider cucurbits (zucchini, cucumbers)
-- By the time cucurbits are ready, soil should be warm enough to put out tomatoes
-
-This schedule works with one small germination area.
-
-## Direct Seeding: Solomon's Preference
-
-Most vegetables should be direct-seeded. Advantages over transplants:
-- No [[query-how-to-prevent-transplant-shock-when-moving-cannabis-plants]]; no week of setback
-- No need for greenhouse, [[faires-season-extension-cold-frames]], or indoor space
-- Seedlings that survive in-garden conditions are the strongest individuals
-- Taproots develop fully (especially important for root crops)
-
-### Sowing Depths
-
-The book provides specific guidance:
-- **Tiny seeds** (celery, basil, many herbs): barely covered, press soil firmly for capillarity
-- **Small seeds** (brassicas, carrots): about 1/2 inch deep
-- **Larger small seeds** (spinach, beet): about 3/4 inch deep
-- **Large seeds** (corn, cucurbits, beans): 1 inch or more
-
-The principle: press the soil after sowing to restore capillary contact so moisture rises to the seed. Too-deep sowing exhausts seed reserves before emergence; too-shallow sowing risks drying out.
-
-### Spacing Terminology
-
-- **In clusters**: a few seeds grouped at fixed intervals on [[cervantes-raised-beds-mound-planting]] (e.g., 5x18 inches for kohlrabi)
+- Use leftover [[query-how-to-prevent-transplant-shock-when-moving-cannabis-plants]]; no week of setback
+- No need for greenhouse, [[cervantes-raised-beds-mound-planting]] (e.g., 5x18 inches for kohlrabi)
 - **In drills**: seeds sown in a continuous furrow
 - **In hills**: seeds planted in fertile mounds (traditional for cucurbits, corn)
 
@@ -88,3 +39,88 @@ As a former [[seed-company-supplier-reference]] owner, Solomon emphasizes buying
 
 Hybrids:
 - Often higher yielding, especially for commercial traits
+
+## Overview
+
+Solomon Seed Starting Transplanting represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish solomon seed starting transplanting
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving solomon extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Solomon Seed Starting Transplanting finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for solomon seed starting transplanting. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+solomon seed starting transplanting and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Solomon Seed Starting Transplanting has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of solomon seed starting transplanting into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[root-competition-plant-spacing-solomon]]
+- [[solomon-growing-perennials-asparagus-rhubarb]]
+- [[solomon-low-grade-compost-making-methods]]
+- [[solomon-shade-and-sunlight-requirements]]
+- [[solomon-wheelbarrow-selection-garden-tool-care-maintenance]]

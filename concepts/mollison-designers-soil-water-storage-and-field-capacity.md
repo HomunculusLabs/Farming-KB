@@ -4,9 +4,7 @@ created: 2026-04-26
 tags:
   - soil-science
   - forest-ecology
-  - [[water-conservation]]
-  - hydrology
-  - [[permaculture-design]]
+  - permaculture-design
 date: 2026-04-25
 updated: 2026-04-25
 sources:
@@ -19,7 +17,6 @@ type: concept
 
 The soil beneath forests acts as the largest and most
 beneficial water storage system in the landscape. Unlike
-[[mollison-designers-soil-water-storage-in-forest-systems]] is essential for effective
 [[mollison-humus-and-organic-matter-in-soils]]
 acts like a sponge that absorbs and releases water
 depending on plant demand and soil moisture conditions.
@@ -90,8 +87,6 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 
 ## See Also
-- [[mollison-designers-dam-construction-and-water-storage]]
 - [[mollison-designers-water-purification-and-storage-principles]]
-- [[mollison-designers-soil-water-storage-in-forest-systems]]
 - [[permaculture]]
 - [[mollison-designers-trout-and-cool-water-aquaculture-species]]

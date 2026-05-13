@@ -19,14 +19,7 @@ type: concept
 Mycophagy -- the consumption of fungi by animals -- is a widespread trophic
 interaction across terrestrial ecosystems. Fungi serve as important food
 resources for both vertebrate and invertebrate animals, with consumption
-ranging from incidental to obligate dependency. In [[fungal-ecology]], mycophagy is recognized as a key link between fungal
-primary productivity and secondary production in food webs.
-
-## Fungi as Nutritional Resources
-
-Fungal fruit bodies and mycelia are rich in nitrogen, phosphorus, potassium,
-minerals, and vitamins compared to many plant materials. Clinton et al. (1999)
-measured the [[solomon-manure-quality-variable-nutrient-content-horse-steer-chicken]] of fungal fruit bodies from both mycorrhizal and
+ranging from incidental to obligate dependency. In [[solomon-manure-quality-variable-nutrient-content-horse-steer-chicken]] of fungal fruit bodies from both mycorrhizal and
 saprotrophic basidiomycetes in a Nothofagus forest and found that all elements
 except calcium were more concentrated in fungal tissue than in the surrounding
 forest floor material. This nutritional richness makes fungi preferred food
@@ -53,10 +46,7 @@ diverse fungal diet of any animal studied, feeding on 36 fungal taxa, mostly
 hypogeous species.
 
 Body size limits the diversity of fungal species consumed. Rats and mice
-(under 150 g body weight) feed mainly on [[comparison-soil-food-web-vs-arbuscular-mycorrhizal-fungi]] spores of the
-Endogonaceae, while larger animals such as feral pigs eat a wide variety of
-fungal species. The smoky mouse (Pseudomus femeus) relies on seeds and moths
-during summer when [[brassinosteroid-fungal-fruiting-body-morphology]] bodies are unavailable, but switches to a
+(under 150 g body weight) feed mainly on [[brassinosteroid-fungal-fruiting-body-morphology]] bodies are unavailable, but switches to a
 fungus-heavy diet during winter months.
 
 ### Lichen Consumption by Herbivores
@@ -66,15 +56,7 @@ Reindeer on Svalbard consume up to 2.6 kg of lichens per day during intensive
 digging periods when snow covers the ground. Each reindeer requires
 approximately 1000 kg ha-1 dry weight of lichens to sustain it through winter.
 The slow growth rate of arctic lichens (2.5 to 10.6 mg g-1 wk-1) means that
-reindeer [[gadd-mycelial-network-resilience-grazing-pressure]] can outpace lichen recovery, threatening the
-sustainability of this food resource. Trampling by reindeer herds compounds
-the damage, reducing both species diversity and biomass of lichens.
-
-### Seasonal Reliance on Fungi
-
-Many small mammals rely on fungi most heavily when other food sources are
-depleted or when [[brassinosteroid-effects-on-fungal-fruiting-morphology]] bodies are abundant. In the [[psilocybin-north-america-pacific-northwest]],
-[[fungal-contributions-soil-structure]] to the annual diet of small mammals can range from
+reindeer [[brassinosteroid-effects-on-fungal-fruiting-morphology]] bodies are abundant. In the [[fungal-contributions-soil-structure]] to the annual diet of small mammals can range from
 negligible to dominant, depending on species and season. Fogel and Trappe
 (1978) documented that fungi can form a significant proportion of the diet for
 nine small mammal species in this region.
@@ -118,8 +100,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[doc]]
 - [[psilocybin]]
-- [[dom]]
 - [[spore]]
 - [[lichens]]

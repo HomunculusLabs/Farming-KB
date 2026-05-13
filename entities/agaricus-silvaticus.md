@@ -22,49 +22,7 @@ sources:
 
 ## Overview
 
-Agaricus silvaticus, commonly known as the wood mushroom, scaly wood mushroom, or pine mushroom, is an edible basidiomycete in the family Agaricaceae. It is widely distributed across coniferous and mixed forests of Europe and [[guzman-psilocybin-mushrooms-north-america]], where it fruits in autumn on forest floors rich in [[dighton-pine-needle-litter-decomposition-fungal-succession]] [[hamilton-composting-and-organic-matter-management]].
-
-The species is an excellent edible with a distinctive almond-like aroma when fresh, similar to its close relative A. campestris but with a more robust and complex flavor profile. It is collected commercially in some European countries, particularly in Scandinavia and Central Europe.
-
-A. silvaticus has attracted attention for its [[dighton-fungal-nutritional-composition-animal-diets]] and [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]]. Studies have documented significant antioxidant, antimicrobial, and immunomodulatory activities, positioning it as a promising species for both culinary and nutraceutical applications.
-
-## Taxonomy and Morphology
-
-- **Kingdom:** Fungi
-- **Division:** Basidiomycota
-- **Class:** Agaricomycetes
-- **Order:** Agaricales
-- **Family:** Agaricaceae
-- **Genus:** Agaricus
-- **Species:** A. silvaticus Schaeff. (1774)
-- **Synonyms:** Psalliota silvatica (Schaeff.) P. Kumm. (1871), Pratella silvatica (Schaeff.) Gray (1821)
-- **Common names:** wood mushroom, scaly wood mushroom, pine mushroom
-
-**Cap:** 5–12 cm diameter, broadly convex when young, expanding to plano-convex or nearly flat with age. Surface covered in conspicuous coarse brown scales on a white to cream background, with scales more concentrated toward the center. The scales darken with age from sienna to umber.
-
-**Gills:** Free from the stipe, crowded. Color progression from white (young) → pink → chocolate-brown at maturity, characteristic of the genus Agaricus. Gill edges may be floccose when young.
-
-**Stipe:** 5–10 cm tall × 1–2 cm thick. Cylindrical, slightly clavate at the base. Surface white, smooth above the ring, with small scales below. Ring is thick, membranous, white with brown edges, superior, often persistent but may collapse with age. Flesh at the base may stain slightly yellow when cut.
-
-**Flesh:** Thick and white, turning slowly reddish-pink or salmon when exposed to air. This reddening reaction is a key diagnostic feature distinguishing A. silvaticus from toxic lookalikes that turn bright chrome-yellow (A. xanthodermus).
-
-**Spores:** Dark chocolate-brown spore print. Spores ellipsoid, 5.5–7.5 × 3.5–4.5 µm, smooth. Basidia 4-spored.
-
-**Odor and taste:** Distinctive almond or marzipan aroma when fresh, especially noticeable when the flesh is cut or bruised. Taste mild and pleasant, nutty.
-
-## Distribution and Habitat
-
-A. silvaticus is found across much of Europe, from Scandinavia to the Mediterranean, and extends into parts of North America and Asia. It is most abundant in temperate coniferous and mixed forests.
-
-The species is primarily associated with coniferous trees, particularly pine (Pinus spp.), spruce (Picea spp.), and fir (Abies spp.). It also occurs under broadleaf trees including oak and beech in mixed stands. The relationship is generally considered ectomycorrhizal or at least mycorrhiza-associated, though it can also function as a secondary decomposer of needle litter.
-
-Fruiting occurs from late summer through autumn, typically August to November, often in abundance after warm wet periods. It is found in both natural forests and plantation forestry contexts, sometimes appearing in large troops along forest roads and cleared areas.
-
-The mushroom prefers acidic to neutral soils rich in organic matter. Elevation range extends from lowlands to montane forests, with particular abundance in mid-elevation coniferous stands.
-
-## Edibility and Culinary Use
-
-A. silvaticus is a highly regarded [[bloomfield-boletus-satanus-edible-mushroom-hazards]] with a firm texture and rich, nutty flavor enhanced by its characteristic almond aroma. It is considered one of the best wild Agaricus species for culinary use.
+Agaricus silvaticus, commonly known as the wood mushroom, scaly wood mushroom, or pine mushroom, is an edible basidiomycete in the family Agaricaceae. It is widely distributed across coniferous and mixed forests of Europe and [[dighton-pine-needle-litter-decomposition-fungal-succession]] [[dighton-fungal-nutritional-composition-animal-diets]] and [[bloomfield-boletus-satanus-edible-mushroom-hazards]] with a firm texture and rich, nutty flavor enhanced by its characteristic almond aroma. It is considered one of the best wild Agaricus species for culinary use.
 
 The cap flesh is dense and holds its shape well during cooking, making it suitable for sautéing, grilling, braising, and inclusion in soups and stews. The almond aroma diminishes with prolonged cooking but contributes to an appealing overall flavor.
 
@@ -78,12 +36,95 @@ A. silvaticus contains several bioactive constituents with documented pharmacolo
 
 **Ergothioneine:** High concentrations of this antioxidant amino acid have been measured, exceeding levels found in several commercially cultivated mushroom species. Ergothioneine acts as a cellular protectant against oxidative damage.
 
-**[[aact-tannins-terpenes-phenolic-compounds-wood-composting-ingham]]:** Total phenolic content is significant, with strong DPPH and ABTS radical scavenging activity. Specific phenolics include gallic acid, protocatechuic acid, and p-hydroxybenzoic acid derivatives.
-
-**Antimicrobial activity:** Methanolic extracts demonstrate inhibitory activity against [[staphylococcus-aureus]], Escherichia coli, and [[bloomfield-candida-albicans-yeast-hyphal-dimorphism]], with Gram-positive bacteria showing greater sensitivity.
+**[[staphylococcus-aureus]], Escherichia coli, and [[bloomfield-candida-albicans-yeast-hyphal-dimorphism]], with Gram-positive bacteria showing greater sensitivity.
 
 **Nutritional profile:** The species is rich in protein (20–25% dry weight), dietary fiber, and essential minerals including potassium, phosphorus, and selenium. It contains B vitamins (particularly riboflavin and niacin) and vitamin D2 (ergocalciferol) in amounts comparable to other Agaricus species.
 
 ## Similar Species and Confusion Risks
 
 Accurate identification of A. silvaticus requires distinguishing it from several other Agaricus species that share overlapping habitats and appearances.
+
+## Overview
+
+Agaricus Silvaticus represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish agaricus silvaticus
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving agaricus extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Agaricus Silvaticus finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for agaricus silvaticus. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+agaricus silvaticus and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Agaricus Silvaticus has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of agaricus silvaticus into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[agaricus-aurora]]
+- [[agaricus-bisporus-cultivation-biology]]
+- [[agaricus-bitorquis]]
+- [[agaricus-campestris-biology-and-life-cycle]]
+- [[cancer-agaricus-blazei]]

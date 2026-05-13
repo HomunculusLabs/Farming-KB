@@ -8,7 +8,7 @@ type: entity
 
 ## Description
 
-Mariri (also spelled *mariri*) is a magical phlegm or substance stored in the chest/breast of [[ayahuasqueros-amazonian-shamans]] (vegetalistas), considered the repository of their [[icaros-shamanic-power-songs]]. The mariri is both a physical and spiritual substance that vegetalistas cultivate through long periods of dietary restriction and plant ingestion. It serves as the medium through which shamans store, deploy, and receive magical darts, healing energies, and protective forces.
+Mariri (also spelled *mariri*) is a magical phlegm or substance stored in the chest/breast of [[icaros-shamanic-power-songs]]. The mariri is both a physical and spiritual substance that vegetalistas cultivate through long periods of dietary restriction and plant ingestion. It serves as the medium through which shamans store, deploy, and receive magical darts, healing energies, and protective forces.
 
 ## Classification
 
@@ -19,27 +19,13 @@ Mariri (also spelled *mariri*) is a magical phlegm or substance stored in the ch
 
 ## Key Facts
 
-- Mariri exists in multiple color-coded forms, each with a specific role: yana-mariri (black), yura-mariri (white), puka-mariri (red), and an orange-colored mariri. Each is received through the mouth from [[queen-inamullo]] during visionary initiation.
-- Sorcerers store harmful substances in their mariri: the chontero keeps chontas (magical darts) made from thorns, bird beaks, snake fangs, or porcupine hair; the marupa sorcerer keeps miniature animals (snakes, scorpions, bats, rays, toads) inside the mariri; the huani sorcerer keeps a living piranha within it.
-- The mariri is described as spilling forth like a colored cord during visionary experiences, with each color representing a different aspect of the vegetalista's ciencia palistica (plant science).
-- It serves as both an offensive and defensive tool — curanderos use the mariri to extract illness from patients, while sorcerers use it to project harm.
-- The mariri can be stolen by powerful enemy spirits, leaving the vegetalista defenseless. Special protective icaros and practices exist to guard against this.
-
-## Relevance to Cultivation and Mycology
-
-The mariri concept reveals how Amazonian peoples understand the relationship between physical substances in the body and plant-derived spiritual power. The mariri is literally built up through the ingestion of plant medicines and maintained through strict dietary observance. This provides an indigenous framework for understanding dose-response relationships, [[ayahuasca-drug-interactions]], and the importance of dietary restrictions during plant medicine use. The concept that certain foods (like pork fat, garlic, or sexual activity) can weaken or contaminate the mariri parallels modern understandings of how diet affects [[cytochrome-p450-enzymes-drug-metabolism]] and therapeutic outcomes.
-
-## Related Entities
-
-- Chontero — sorcerer who uses mariri to store magical darts
-- [[marupa-sorcery]] — technique using mariri to send harmful animals
+- Mariri exists in multiple color-coded forms, each with a specific role: yana-mariri (black), yura-mariri (white), puka-mariri (red), and an orange-colored mariri. Each is received through the mouth from [[ayahuasca-drug-interactions]], and the importance of dietary restrictions during plant medicine use. The concept that certain foods (like pork fat, garlic, or sexual activity) can weaken or contaminate the mariri parallels modern understandings of how diet affects [[marupa-sorcery]] — technique using mariri to send harmful animals
 - Icaro — songs used to activate and direct mariri power
 - Vegetalista — practitioners who cultivate mariri
 
 ## Practice Context
 
-- Mariri should be read together with [[amazonian-medicinal-plants-in-amaringos-visions]], because Amaringo presents the substance inside a larger plant-spirit medical system.
-- It is closely connected to [[ayahuasca-preparation-and-ceremony]], where ingestion, purging, song, and vision form one therapeutic sequence.
+- Mariri should be read together with [[ayahuasca-preparation-and-ceremony]], where ingestion, purging, song, and vision form one therapeutic sequence.
 - The concept also overlaps with [[plants-gods-ayahuasca]], since the mariri is strengthened through relationships with plant teachers rather than by a purely mechanical technique.
 - In practical terms, mariri is the shaman's embodied storehouse of training, diet, and song.
 - The substance is not described as ordinary mucus alone; it is a cultivated capacity that becomes visible and usable in visionary space.
@@ -81,3 +67,84 @@ The mariri concept reveals how Amazonian peoples understand the relationship bet
 - It is accumulated slowly, displayed rarely, and judged by results in healing encounters.
 - The page should remain careful not to translate it too quickly into biomedical categories.
 - Its importance is precisely that it joins body, plant, spirit, and song in one concept.
+
+## Overview
+
+Mariri represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish mariri
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving mariri extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Mariri finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for mariri. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+mariri and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Mariri has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of mariri into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[ayahuasca-ceremony-and-mariri-system]]

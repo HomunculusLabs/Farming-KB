@@ -25,9 +25,7 @@ sources:
 
 *Ligusticum porteri*, commonly known as **osha** or **bear root**, is a
 perennial herbaceous plant in Apiaceae native to the Rocky Mountains and
-adjacent high-elevation regions of western [[psilocybin-north-america-pacific-northwest]].
-
-Osha is among the most important medicinal plants in [[halpern-sacramental-peyote-and-native-american-church]]
+adjacent high-elevation regions of western [[halpern-sacramental-peyote-and-native-american-church]]
 herbal traditions, used for centuries as a treatment for respiratory
 infections, sore throats, digestive complaints, and musculoskeletal pain.
 
@@ -63,8 +61,7 @@ Grows at elevations of 1,800–3,600 meters in subalpine meadows, aspen
 groves, mixed conifer forests, and riparian corridors.
 
 Prefers rich, moist, well-drained soils with partial shade. Commonly
-associated with *[[angelica-archangelica]] — Related Apiaceae; compare [[cannabis-root-medicine-historical-modern-perspectives]] uses
-- [[passiflora-incarnata]] — Compare nervine and sedative properties
+associated with *[[cannabis-root-medicine-historical-modern-perspectives]] uses
 - [[valeriana-officinalis]] — Another spasmolytic root herb
 ## Practical Considerations
 

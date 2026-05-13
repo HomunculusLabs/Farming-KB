@@ -55,9 +55,7 @@ Full colonization without fruiting indicates environmental or substrate issues:
 
 Pinning begins but mushrooms stop developing or abort before maturity:
 
-- **Poor primordia or growth conditions** → Check and calibrate [[greg-green-temperature-and-humidity-control]] to species-specific requirements.
-- **Contamination** → Adjust light, temperature, humidity, and ventilation. For severe cases: dissolve 0.5 tsp sulfur in 3.5L water and mist affected bags. Remove hopelessly contaminated bags.
-- **Chemical contamination** → Identify and remove all chemical toxin sources from the [[cannabis-growing-environment-setup]].
+- **Poor primordia or growth conditions** → Check and calibrate [[cannabis-growing-environment-setup]].
 - **Bad strain** → Acquire a new strain or switch to a more reliable supplier.
 
 ---
@@ -75,62 +73,13 @@ Classic signs of environmental stress with two primary causes:
 
 Abundant pins with minimal maturation suggest resource or environmental limits:
 
-- **Too long incubation** → Shorten the [[growing-gourmet-primordia-formation-pinning]] period; extended incubation exhausts substrate nutrients before fruiting.
-- **Lack of oxygen or light** → Increase ventilation rates and light duration/intensity.
-- **Poor substrate nutrition** → Reformulate with higher-quality supplements and balanced carbon-to-nitrogen ratios.
-- **Low mycelium growth rate** → Use high-vigor, fast-colonizing spawn for robust colonization before fruiting.
-- **Poor strain** → Obtain a better-performing strain suited to your conditions.
-
----
-
-## Problem 7: Deformed, Decayed Mushrooms
-
-Physical abnormalities and soft rot indicate biological or environmental problems:
-
-- **Germs or competing microorganisms** → Adjust growing conditions to favor mushrooms over competitors.
-- **Dirty substrate surface** → Clean the exposed substrate surface gently to remove debris and microbial film.
-- **Poor ventilation, too high humidity** → Increase air circulation, reduce humidity, and ensure surface water evaporates between mistings. Drain standing water from bags.
-- **Chemical use during fruiting** → **Never** apply chemicals during fruiting. All treatments must happen before or between flushes.
-
----
-
-## Problem 8: Only First Flush Produces
-
-When subsequent flushes fail to materialize:
-
-- **Inadequate substrate nutrition** → Reformulate with richer supplements; the first flush may have exhausted available nutrients.
-- **Competitors** → Check hygiene between flushes and adjust environmental conditions to suppress competitors.
-- **Poor management** → Improve post-flush management: proper soaking, temperature shock if applicable, and consistent [[chen-maitake-growth-parameters-environmental-control]].
+- **Too long incubation** → Shorten the [[chen-maitake-growth-parameters-environmental-control]].
 
 ---
 
 ## Problem 9: Pests and Insects
 
-Insect pests are a persistent challenge in humid [[mushroom-cultivation-environments]]:
-
-- **Natural humid climate attracts pests** → Place lemongrass around the growing house as a natural deterrent; spread agricultural lime on shelves and ground; keep the area meticulously clean.
-- **Mushroom waste lying around** → Spent substrate attracts pests. Use waste as fertilizer outdoors or recycle through hot composting promptly.
-- **Ants** → Mix mild detergent with water and apply to ant paths (never directly on mushrooms or substrate).
-
----
-
-## Problem 10: Mushrooms Spoil Quickly
-
-Post-harvest spoilage is almost always preventable with proper handling:
-
-- **Too mature when harvested** → Harvest at a younger stage, before the cap fully expands and the veil breaks.
-- **Too warm before packaging** → Chill harvested mushrooms promptly to slow enzymatic breakdown.
-- **Too wet when harvested** → Reduce humidity 12–24 hours before harvesting to allow mushrooms to dry slightly.
-- **Stored beyond shelf life** → Accelerate sales and distribution; fresh mushrooms have a limited window.
-
----
-
-## Problem 11: Bacterial Rot (*Pseudomonas tolaasii*, *P. fluorescens*)
-
-Bacterial blotch causes brown, sunken lesions on caps and rapid softening:
-
-- **Prevention** → Control humidity at 80–85%. Allow surface water to fully evaporate before watering again. Avoid overhead misting that leaves standing droplets on caps.
-- **Severe infection treatment** → Prepare chlorine solution: 113g chlorine in 45L water (equivalent to 4 oz per gallon). Apply as a light mist to affected areas. Prevention through [[pf-tek-dual-chambered-terrarium-design-humidity-management]] is far preferred.
+Insect pests are a persistent challenge in humid [[pf-tek-dual-chambered-terrarium-design-humidity-management]] is far preferred.
 
 ---
 

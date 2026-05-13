@@ -11,34 +11,21 @@ type: query
 # How Do I Identify and Control Thrips on Cannabis?
 
 ## Short Answer
-Thrips are tiny, slender insects that feed on [[query-what-causes-cannabis-leaves-to-curl-and-how-to-fix-it]] by piercing
-plant cells and sucking out their contents, leaving silvery stippling and
-dark fecal spots. Control involves a combination of cultural practices,
-biological predators, and organic sprays as part of an
-[[cannabis-terpene-and-aroma-chemistry-clarke]]
+Thrips are tiny, slender insects that feed on [[cannabis-terpene-and-aroma-chemistry-clarke]]
 production. The gaias-garden-host-plants-beneficial-insects programs.
 Stratiolaelaps scimitus (formerly Hypoaspis miles), a soil-dwelling
 predatory mite, targets thrips pupae that drop to the soil surface to
 complete their development.
 
 For organic spray interventions, several options are available to cannabis
-growers. neem|[[comparison-essential-oils-vs-neem-oil-vs-insecticidal-soap]] and azadirachtin-based products disrupt thrips
-feeding and molting by acting as antifeedants and [[ingham-natural-growth-regulators-soil-microbes]]. These
+growers. neem|[[ingham-natural-growth-regulators-soil-microbes]]. These
 products work best when applied to young larvae and should be used in the
 early morning or evening to avoid leaf burn. Spinosad-based sprays are
 highly effective against larvae and have a relatively short pre-harvest
 interval, making them suitable for flowering plants when used early enough.
-Insecticidal soaps and potassium salts of [[stable-carbon-isotope-signature-fatty-acids-mycorrhizal-carbon-tracking]] work on contact by
-breaking down the insect's waxy outer layer, causing desiccation. For
-persistent problems, rotating between different modes of action prevents
-resistance development and maintains effectiveness over multiple generations.
-
-Cultural practices play a significant role in thrips prevention and
-management. Maintaining proper [[cannabis-vegetative-growth-stage]] can slow their development. Removing weed hosts near the grow area
+Insecticidal soaps and potassium salts of [[cannabis-vegetative-growth-stage]] can slow their development. Removing weed hosts near the grow area
 and screening intakes with fine mesh (200 microns or finer) can prevent
-re-infestation. In outdoor grows, [[query-how-do-i-identify-and-control-whiteflies-on-cannabis]] Questions
-- [[query-how-to-control-fungus-gnats-organically]]
-- [[query-what-are-the-best-companion-plants-for-cannabis]]
+re-infestation. In outdoor grows, [[query-how-to-control-fungus-gnats-organically]]
 - [[query-what-is-integrated-pest-management-for-organic-gardens]]
 ## Practical Considerations
 

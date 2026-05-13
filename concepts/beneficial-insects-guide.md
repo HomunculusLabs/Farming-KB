@@ -9,7 +9,7 @@ sources: []
 
 # Beneficial Insects Guide
 
-Beneficial insects are predatory, parasitic, or pollinating insects that provide essential services in the garden and farm. They [[query-how-do-parasitoid-wasps-control-pest-populations]], pollinate crops, and contribute to a balanced ecosystem. Attracting and conserving beneficial insects is a cornerstone of [[integrated-pest-management]] (IPM) and [[query-what-is-the-role-of-trichoderma-in-organic-growing]].
+Beneficial insects are predatory, parasitic, or pollinating insects that provide essential services in the garden and farm. They control pest populations, pollinate crops, and contribute to a balanced ecosystem. Attracting and conserving beneficial insects is a cornerstone of integrated pest management (IPM) and organic growing.
 
 ## Predatory Insects
 
@@ -44,7 +44,7 @@ Lacewing larvae (called "aphid lions") are among the most effective generalist p
 - Adults lay eggs on thin stalks (to protect them from predation by their own larvae)
 - Larvae are active predators for 2-3 weeks, consuming 100-600 aphids each
 - Adults feed on nectar, pollen, and honeydew — not pests
-- Multiple generations per year (2-4 [[query-how-to-grow-and-use-oca-in-temperate-climates]])
+- Multiple generations per year (2-4 in temperate climates)
 
 **How to Attract:**
 - Plant dill, angelica, coreopsis, cosmos, and sunflowers for adult nectar
@@ -83,7 +83,7 @@ Microscopic predators of spider mites, thrips, and other small arthropods. Essen
 
 **Key Species:**
 - **Phytoseiulus persimilis**: Specialized spider mite predator. Consumes 5-20 spider mites per day. Prefers humid conditions (60-90% RH).
-- **Neoseiulus californicus**: More generalist; tolerates wider [[greg-green-temperature-and-humidity-control]] ranges. Survives on pollen when prey is scarce.
+- **Neoseiulus californicus**: More generalist; tolerates wider temperature and humidity ranges. Survives on pollen when prey is scarce.
 - **Amblyseius cucumeris**: Primary thrips predator. Also feeds on spider mites.
 
 **How to Attract and Maintain:**
@@ -140,11 +140,10 @@ Over 4,000 species of native bees in North America. Many are more efficient poll
 - **Sweat bees (Halictidae)**: Small, often metallic-colored bees attracted to human sweat. Excellent generalist pollinators.
 - **Leafcutter bees (Megachile spp.)**: Solitary bees that cut circular pieces from leaves to line their nests. Excellent alfalfa pollinators.
 
-### How to Attract Pollinators
+## See Also
 
-- **Provide continuous bloom**: Plant flowers that bloom from early spring through late fall
-- **Plant native species**: Native bees co-evolved with native plants and are most attracted to them
-- **Provide nesting habitat**: Leave some bare ground for ground-nesting bees; provide hollow stems, dead wood, and mason bee houses for cavity nesters
-- **Avoid pesticides**: Even organic pesticides can harm bees. Apply sprays only in the evening when bees are not foraging.
-- **Provide water**: A shallow dish with pebbles (bees need landing platforms) provides drinking water
-- See [[insectary-plantings]] for detailed plant lists
+- [[ingham-beneficial-nematodes-soil-food-web]]
+- [[gaias-garden-beneficial-insects-pest-management]]
+- [[beneficial-insects-and-biological-pest-control]]
+- [[beneficial-insects-cannabis]]
+- [[jeavons-beneficial-herbs-nutrition]]

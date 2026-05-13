@@ -111,11 +111,7 @@ The plant is also used in pot-pourri mixtures, where the dried flower clusters r
 
 ## See Also
 
-- [[stellaria-media]]
 - [[cerastium-tomentosum]]
-- [[dianthus-plumarius]]
 - [[silene-vulgaris]]
-- [[agrostemma-githago]]
 - [[lychnis-coronaria]]
-- [[dianthus-deltoides]]
 - [[saponaria-officinalis]]

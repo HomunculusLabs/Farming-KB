@@ -109,13 +109,8 @@ The succulent leaves store water in specialized bladder cells that expand during
 
 ## See Also
 
-- [[crassula-ovata]]
 - [[crassula-perforata]]
-- [[echeveria-elegans]]
 - [[kalanchoe-blossfeldiana]]
-- [[sedum-rupestre]]
 - [[aeonium-arboreum]]
-- [[haworthia-fasciata]]
 - [[portulacaria-afra]]
-- [[cotyledon-orbiculata]]
 - [[pachyphytum-oviferum]]

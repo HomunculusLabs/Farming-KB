@@ -22,16 +22,11 @@ sources:
 # Insectary Plants vs Trap Cropping
 
 ## Overview
-Insectary plants and trap cropping are two [[cervantes-biological-pest-control-predators]] management
-    strategies that work through opposite mechanisms. Insectary plants attract
-    and sustain [[comparison-beneficial-insects-guide-vs-integrated-pest-management]] that prey on or parasitize pests. Trap
+Insectary plants and trap cropping are two [[comparison-beneficial-insects-guide-vs-integrated-pest-management]] that prey on or parasitize pests. Trap
     cropping attracts the pests themselves, concentrating them on sacrificial
     plants away from the main crop. Both reduce pesticide dependence, but they
     operate on different ecological principles and timelines, making them
-    complementary components of [[natural-farming-guide-integrated-pest-management]] management programs.
-
-## Insectary Plants
-[[trap-cropping]]
+    complementary components of [[trap-cropping]]
 
 Trap cropping uses sacrificial plants that are more attractive to
     specific pests than the main crop, concentrating pest populations where
@@ -78,9 +73,7 @@ Perimeter trap cropping surrounds the main crop with the trap species,
 Choose insectary plants when building long-term ecological resilience
     and supporting overall beneficial insect populations. Insectary plantings
     are the foundation of any organic or permaculture pest management
-    strategy, providing pollination services alongside [[comparison-pheromone-based-pest-control-vs-beneficial-insect-biocontrol]]. They are
-    particularly valuable for apiaries, orchards, and diverse polyculture
-    systems where beneficial [[hemenway-insectary-plants-and-beneficial-insects]] directly increases yields.
+    strategy, providing pollination services alongside [[hemenway-insectary-plants-and-beneficial-insects]] directly increases yields.
     Insectary hedgerows and interplantings require planning for year-round
     bloom but are relatively low-maintenance once established and provide
     aesthetic and ecological benefits beyond pest control.
@@ -93,21 +86,5 @@ Choose trap cropping when a specific, identified pest problem requires
     pressure from species like squash bugs, flea beetles, or cabbage worms.
     Trap cropping works best as a precision tool within a broader integrated
     pest management program, where it addresses specific problems while
-    insectary plants provide background [[fukuoka-textdoc-biological-control-fallacy-pheromone-critique]].
-
-## Hybrid Approaches
-The most effective biological pest management combines both strategies
-    in a push-pull-inoculate system. Insectary plantings throughout the garden
-    maintain populations of predatory insects and parasitoids. Trap crops at
-    the garden perimeter concentrate pest populations where they are
-    accessible to both manual control and the beneficial insects supported by
-    the insectary plants. Repellent companion plants (the push component) near
-    the main crop create an additional barrier. This three-layered approach
-    uses insectary plants to inoculate the system with biological control
-    agents, trap crops to concentrate pests for elimination, and repellent
-    plants to protect the crop directly.
-
-## See Also
-
-- [[companion-planting-reference]]
+    insectary plants provide background [[companion-planting-reference]]
 - [[comparison-insectary-plants-vs-trap-crops]]

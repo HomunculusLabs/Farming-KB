@@ -11,9 +11,7 @@ tailored to specific health conditions.
 
 ## The Core Distinction: Cannabinoid Ratios and Receptor Activation
 
-The fundamental therapeutic [[query-what-is-the-difference-between-sativa-indica-and-hybrid-cannabis]] and indica strains lies
-in their relative ratios of THC to CBD, which in turn determines which
-[[cannabinoid-receptors-cb1-cb2-tissue-distribution-blesching]] are preferentially activated:
+The fundamental therapeutic [[cannabinoid-receptors-cb1-cb2-tissue-distribution-blesching]] are preferentially activated:
 
 - **Sativa strains** (and sativa-dominant hybrids) present with a higher THC-
   to-CBD ratio. Since THC binds both CB1 and CB2 receptors while CBD has
@@ -47,19 +45,14 @@ in immune dysregulation or inflammatory processes.
 Sativa strains are generally recommended for conditions benefiting from CB1
 activation: neurological disorders (MS, epilepsy, Parkinson's), mental/emotional
 conditions (depression, PTSD, anxiety—careful with dosing), neurological pain,
-[[cannabis-for-cachexia-and-appetite-stimulation]], and daytime use where mental alertness is desired.
-
-The cerebral quality of sativa strains makes them preferred for daytime use when
-cognitive function needs to be maintained. However, the higher THC content means
-patients must be more careful to stay within their [[blesching-cannabis-safety-profile-subjective-therapeutic-window]] window.
+[[blesching-cannabis-safety-profile-subjective-therapeutic-window]] window.
 
 ### Indica-Dominant Strains (Lower THC:CBD, CB2-Favoring)
 
 Indica strains are generally recommended for conditions that benefit from CB2
 activation, including:
 
-- Immune-compromised states and [[blesching-cannabis-health-index-autoimmune-conditions]]
-- Chronic [[cannabis-for-inflammatory-conditions]] (arthritis, inflammatory bowel disease)
+- Immune-compromised states and [[cannabis-for-inflammatory-conditions]] (arthritis, inflammatory bowel disease)
 - Chronic pain conditions with an inflammatory component
 - Insomnia and sleep disorders (indicas tend to be more physically sedating)
 - Muscle spasms and tension
@@ -118,8 +111,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[cannabis-indica]]
 - [[cannabis-sativa]]
-- [[cannabis-health-index]]
 - [[cannabis-sativa-vs-indica-therapeutic-differences-blesching]]
 - [[doc]]

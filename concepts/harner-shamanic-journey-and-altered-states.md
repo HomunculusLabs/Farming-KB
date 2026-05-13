@@ -10,77 +10,7 @@ tags: [shamanism]
 
 # The Shamanic Journey and Altered States of Consciousness
 
-A central thesis running through Harner's "[[hallucinogens-and-shamanism-harner-anthology]]" is that the shamanic journey--the experience of the soul leaving the body to travel through supernatural realms--is one of the most typical and widespread aspects of [[amazonian-boa-spirits-and-water-beings-in-shamanic-practice]] worldwide. The volume argues that this experience is not merely a cultural construct but may have a biochemical basis reinforced across millennia of human use of [[cultural-evolution-and-psychoactive-substances]]. The concept of the "trip" in modern Western culture is presented as an independent rediscovery of this ancient pattern.
-
-## Defining the Shamanic Journey
-
-Harner describes the journey as "the change into another state of consciousness, often called a trance, with the shaman feeling that he is taking a journey." During this altered state, the shaman typically passes through situations involving spirits, often hostile ones belonging to other shamans, with whom he must deal in order to cure illness or bewitch someone. The journey is not a metaphor or symbolic act but is experienced as literal and real by the practitioner.
-
-The modern parallel is striking and deliberate: "During the past few years it has become common to speak of 'taking a trip' with a psychedelic substance, and this is no coincidence." Harner notes that even the specific concept "to have a good trip" has its precise linguistic parallel among the Cashinahua of the Amazon rain forest, as documented by Kensinger in the same volume.
-
-## The Journey in Amazonian Practice
-
-The volume documents the shamanic journey across multiple Amazonian cultures with remarkable consistency:
-
-**Jivaro**: Part of the soul leaves the body with the sensation of flying, referred to as a "trip" by the Jivaro themselves. Harner's own experience included meeting bird-headed people and dragon-like creatures, and enlisting spirit helpers to "fly through the far reaches of the Galaxy." He describes being "transported into a trance where the supernatural seemed natural."
-
-**Conibo-Shipibo**: The shaman's soul leaves in the form of a bird to kill distant persons at night, changing back into human form for the kill. Another typical experience involves traveling in supernatural launches manned by demons to recapture the stolen soul of a sick patient from the demon launch of an enemy shaman. Non-shamans may also have their souls taken away by a demon launch, leaving their bodies apparently "dead" with no noticeable heartbeat or respiration.
-
-**Desana/Tukano**: Reichel-Dolmatoff reports that during the first phase of the hallucination, "the person feels and hears a violent current of air, as if a strong wind were pulling him along." The kumu (ritual leader) explains that this is the ascent to the Milky Way. "In order to arrive at their final destination, they must leave this world and first find the current of communication with the winds."
-
-**Siona**: The shaman apprentice "goes off to heaven several times, with Dios, where he spends one night and descends again." The accomplished shaman leads group sessions, makes trips to heaven to learn God's wishes, returns to reveal them, and also makes trips to Hell. "It is necessary for one to be a very good curaca or drinker in order to be able to penetrate to the deepest of Hell, because one is jeopardized such that he might not know how to get out of there."
-
-**Campa**: Grandidier states that a sick person taking ayahuasca thinks he is "flying through the air" and is "prey to strange apparitions."
-
-**Zaparo**: Villavicencio's early account reports that they feel "vertigo and spinning in the head, then a sensation of being lifted into the air and beginning an aerial journey."
-
-**Quijos**: Two ayahuasca-using shamans told Oberem they "have the power to go to a place beneath the earth, beneath Hell, from which they are able to bewitch somebody."
-
-## European Parallels: The Witches' Flight
-
-Harner's chapter on [[european-witchcraft-hallucinogenic-plants]] reveals an identical pattern on another continent, mediated by entirely different plants. European witches rubbed their bodies with hallucinogenic ointments containing [[atropa-belladonna]], Mandragora, and henbane, whose atropine content was absorbable through the skin. "The witch on the broomstick is a representation of that imagined aerial journey to a rendezvous with spirits or demons, which was called a Sabbat."
-
-This was not merely a symbolic belief but was based on genuine psychoactive experiences. Historical accounts from the fourteenth through seventeenth centuries consistently describe witches falling into deep sleep after applying ointments, then awakening to report vivid experiences of flight, dancing with demons, and journeying to distant places. The Inquisition's eradication of European witchcraft ideology means that the return of the "trip" concept to modern Western culture cannot be ascribed to cultural transmission.
-
-## Twentieth-Century Confirmations
-
-Modern experiments replicated the ancient accounts:
-
-**Karl Kiesewetter** (c. 1902) made a sample of the witches' ointment, rubbed himself with it, and experienced a flying dream in which he flew in spirals.
-
-**Will-Erich Peukert** of Gottingen recreated a seventeenth-century flying ointment formula from belladonna, henbane, and Datura. He and colleagues rubbed it on their foreheads and armpits, fell into a twenty-four-hour sleep, and dreamed "of wild rides, frenzied dancing, and other weird adventures of the type connected with medieval orgies."
-
-**Gustav Schenk** inhaled burning henbane seeds and reported: "My teeth were clenched, and a dizzy rage took possession of me... I was permeated by a peculiar sense of well-being connected with the crazy sensation that my feet were growing lighter, expanding and breaking loose from my body... I experienced an intoxicating sensation of flying."
-
-**Carlos Castaneda** described a Datura ointment experience with the Yaqui Indians of northern Mexico: "The motion of my body was slow and shaky... And from there I soared. I remember coming down once; then I pushed up with both feet, sprang backward, and glided on my back. I saw the dark sky above me, and the clouds going by me. My speed was extraordinary... I enjoyed such freedom and swiftness as I had never known before."
-
-## Methods of Achieving Altered States
-
-Harner catalogs the variety of methods used across cultures to achieve trance states conducive to shamanic experience:
-
-- Fasting (water and food)
-- Flagellation and self-torture
-- Sensory deprivation
-- Breathing exercises and yogic meditation
-- Ritual dancing and drumming
-- Ingestion of psychoactive plants
-
-He suggests that "a common psycho-physiological basis for the similarity of effects produced by all of these methods may exist," but identifies hallucinogens as "the easiest and fastest technique for reaching a believed supernatural experience and visions."
-
-## The Biochemical Hypothesis
-
-The volume's most provocative argument is that ancient and widely distributed beliefs like the shamanistic journey may have "some generalized biochemical reinforcement" not dependent on the particularistic details of the cultures in which they are found. Harner reasons that culture is learned and transmitted through human effort, and it is unlikely that cultural institutions can be maintained for centuries and millennia "without having some regular reinforcement for their maintenance."
-
-When we find an obviously ancient and widely distributed belief such as the shamanistic journey, "it seems logical to wonder whether there might not be some generalized biochemical reinforcement for the belief." This hypothesis is strengthened by the independent reinvention of the "trip" concept in 1960s America, which cannot be explained by cultural transmission from indigenous or European sources.
-
-## Implications for Religious Studies
-
-If correct, the biochemical hypothesis has profound implications for understanding the origins of religious belief. Harner raises the "intriguing possibility that hallucinogenic experiences may have also played a role in the innovation of such beliefs" as the existence of a disembodied soul, the reality of the supernatural world, and the possibility of soul flight. This represents a challenge to purely sociological or diffusionist explanations of religious universals, suggesting that the biochemical properties of psychoactive substances may have shaped the content of human religious experience at a fundamental level.
-
-## See Also
-
-- [[mckenna-amazon-shamanism-and-ayahuasca]]
-- [[harmala-alkaloids]]
+A central thesis running through Harner's "[[amazonian-boa-spirits-and-water-beings-in-shamanic-practice]] worldwide. The volume argues that this experience is not merely a cultural construct but may have a biochemical basis reinforced across millennia of human use of [[european-witchcraft-hallucinogenic-plants]] reveals an identical pattern on another continent, mediated by entirely different plants. European witches rubbed their bodies with hallucinogenic ointments containing [[mckenna-amazon-shamanism-and-ayahuasca]]
 - [[banisteriopsis-caapi]]
 
 ## Practical Applications
@@ -112,8 +42,91 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[ayahuasca]]
 - [[doc]]
-- [[dom]]
 - [[det]]
 - [[shamanism]]
+
+## Overview
+
+Harner Shamanic Journey And Altered States represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish harner shamanic journey and altered states
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving harner extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Harner Shamanic Journey And Altered States finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for harner shamanic journey and altered states. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+harner shamanic journey and altered states and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Harner Shamanic Journey And Altered States has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of harner shamanic journey and altered states into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[harner-amanita-muscaria-siberian-shamanism]]
+- [[harner-amazonian-ayahuasca-preparation-methods]]
+- [[harner-cashinahua-banisteriopsis-usage]]
+- [[harner-cross-cultural-patterns-shamanic-plant-use]]
+- [[harner-mescalero-peyote-shamanism]]

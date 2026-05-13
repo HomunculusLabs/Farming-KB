@@ -26,52 +26,21 @@ not zero-input. Applying vinegar is same as providing foliar fertilizer."
 This statement captures JADAM's core objection: vinegar is an external
 input that requires resources to produce, even if made at home.
 
-[[ultra-low-jadam-wetting-agent-jwa]], the
-foundation of the JADAM pesticide system. JWA works by creating a
-stable foam that thoroughly coats plant surfaces and pests. When
-vinegar, wood vinegar, or seawater are mixed with JWA, they reduce
-foam production and can cause clotting.
-
-The mixing compatibility hierarchy is clear:
-- **Good mixers with JWA**: JLF ([[jadam-sulfur-germicide-js]]), JHS
-  ([[master-cho-knf-fpj-fermented-plant-juice-guide]] and [[jadam-herb-solution-jhs]]
+[[jadam-sulfur-germicide-js]]), JHS
+  ([[jadam-herb-solution-jhs]]
 mixes perfectly with JWA and costs nothing beyond the herbs and water.
 
 ## Limited Vinegar Use in JADAM
 
 JADAM does not absolutely prohibit vinegar. There is one documented
 application where vinegar serves a practical purpose: the quick
-production of [[cho-brown-rice-vinegar-preparation]] is produced by
-fermenting cooked brown rice through an alcohol stage and then an acetic
-acid stage. The process takes several weeks and produces a vinegar rich
-in amino acids and [[fungal-volatile-organic-compounds-communication]]. In the KNF system, BRV serves
+production of [[fungal-volatile-organic-compounds-communication]]. In the KNF system, BRV serves
 multiple functions including as a solvent for mineral extraction, a
-foliar spray for [[foliar-pest-deterrence-aact-mechanisms]], and a soil amendment.
-
-JADAM does not produce brown rice vinegar as a [[chos-global-natural-farming-input-reduction-methods]]. The
-boiling-based JHS method replaces the herb-extraction function. [[brown-rice-vinegar-brv]]
-- [[fermented-plant-extract-fpe]]
+foliar spray for [[chos-global-natural-farming-input-reduction-methods]]. The
+boiling-based JHS method replaces the herb-extraction function. [[fermented-plant-extract-fpe]]
 - Wood Vinegar Pyroligneous Acid
-- [[jadam-herb-solution-jhs]]
 - [[jadam-ultra-low-cost-philosophy]]
-- [[jadam-ultra-low-cost-philosophy]]
-## Practical Considerations
-
-When working with JADAM Position on Brown Rice Vinegar and Vinegar-Based Inputs, several practical factors should be
-carefully considered to achieve optimal results. These include
-the specific conditions of the implementation context, available
-resources, timing requirements, and the interactions between this
-topic and other elements of the broader system. A holistic view
-that considers these interconnections produces better outcomes.
-
-Environmental conditions such as temperature, moisture, and
-seasonal patterns significantly influence results. Monitoring these
-variables and adapting practices accordingly is essential for success.
-The most effective practitioners develop keen observation skills and
-respond flexibly to changing conditions rather than following rigid
-protocols regardless of circumstances or local variation.
-
-[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
+- [[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -111,8 +80,6 @@ through generations to modern scientific approaches, the evolution continues
 to inform current best practices and research directions.
 
 ## See Also
-- [[doc]]
 - [[det]]
-- [[youngsang-cho]]
 - [[brown-rice-vinegar-brv]]
 - [[cho-brown-rice-vinegar-preparation]]

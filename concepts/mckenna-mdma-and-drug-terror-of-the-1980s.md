@@ -84,14 +84,11 @@ and available.
 Throughout the 1970s and 1980s, the need to deny the impact of the
 sixties took on something of the flavor of a mass obsession. As the
 seventies progressed, the new management agenda became clear: while
-[[heroin]] had lost some of its glamour, now there was to be television for
-the poor and cocaine for the rich. This analysis frames [[mckenna-modest-proposal-drug-policy-reform]] not
+[[mckenna-modest-proposal-drug-policy-reform]] not
 as public health but as a system of social control, with different
 intoxicants assigned to different socioeconomic strata.
 
 ## See Also
-- [[mdma-crack-cocaine-drug-terror-1980s]]
 - [[mckenna-food-gods-television-drug-mass-hypnosis]]
-- [[mckenna-spice-trade-and-medieval-drug-scarcity]]
 - [[mckenna-food-gods-fundamentalist-christianity-drug-war]]
 - [[mckenna-sugar-as-addiction-and-drug-of-the-dominator]]

@@ -30,7 +30,7 @@ Selecting for cultivars that enrich beneficial taxa like Pseudomonas (a known pl
 
 Cannabis produces numerous secondary metabolic compounds, including cannabinoids and terpenes.
 
-The study found significant correlations between [[cannabinoid-concentration-endorhiza-microbiome-correlation-cannabis]] and [[weighted-unifrac-strain-clustering-cannabis-endorhiza-community-structure]], though these were confounded by soil edaphic variables.
+The study found significant correlations between [[weighted-unifrac-strain-clustering-cannabis-endorhiza-community-structure]], though these were confounded by soil edaphic variables.
 
 This raises the possibility of a feedback loop: the plant's secondary metabolite profile may influence which bacteria colonize its roots, and the root microbiome may in turn influence the plant's metabolite production.
 
@@ -40,11 +40,7 @@ Understanding and potentially manipulating this feedback could lead to improved 
 
 ### The Primacy of Soil Type
 
-The study found that soil type had the strongest influence on microbial [[core-endorhiza-bacterial-community-composition-cannabis]], stronger than either cultivar or sample type.
-
-This means that soil management is the most powerful lever available for shaping the Cannabis microbiome.
-
-Key [[cannabinoid-microbiome-correlation-confounded-edaphic-factors]], ranked by their influence on community structure, were:
+The study found that soil type had the strongest influence on microbial [[cannabinoid-microbiome-correlation-confounded-edaphic-factors]], ranked by their influence on community structure, were:
 
 1. Nitrogen — strongest effect (weighted r-stat: 0.465)
 2. Salinity (weighted r-stat: 0.437)
@@ -58,21 +54,7 @@ All factors were highly significant (p = 0.001) for both weighted and unweighted
 
 Based on the edaphic factor rankings, several practical recommendations emerge for Cannabis cultivators seeking to optimize their microbiome.
 
-Nitrogen management should be a primary focus, as it is the single most influential edaphic factor structuring the Cannabis microbiome. Both [[knf-potassium-deficiency-and-excess]] could disrupt beneficial community structure.
-
-Salinity should be monitored carefully, particularly in container-based or indoor growing systems where salt accumulation from fertilizers can be rapid. The strong effect of salinity on community composition means that even modest salt buildup could significantly alter the root microbiome.
-
-Organic carbon additions through compost, cover crops, or organic amendments could support a more diverse and resilient soil microbiome that serves as a better source pool for endorhiza colonization.
-
-Water management affects microbiome structure both directly and through its influence on other edaphic factors. Consistent but not excessive irrigation supports stable microbial communities.
-
-### Living Soil Approaches
-
-The two-tier selection model implies that the soil microbiome serves as the recruitment pool for the endorhiza.
-
-This provides scientific support for "living soil" cultivation approaches that prioritize building a diverse and healthy soil food web.
-
-Compost teas, compost amendments, and the introduction of [[pgpr-mycorrhizal-inoculants-microplant-establishment]] could all serve to enrich the bulk soil community, thereby providing a better pool of candidates for root colonization.
+Nitrogen management should be a primary focus, as it is the single most influential edaphic factor structuring the Cannabis microbiome. Both [[pgpr-mycorrhizal-inoculants-microplant-establishment]] could all serve to enrich the bulk soil community, thereby providing a better pool of candidates for root colonization.
 
 ## Inoculation Strategies
 
@@ -117,8 +99,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[dom]]
 - [[cover-crops]]
-- [[water-management]]
 - [[cover-crop]]
 - [[pseudomonas]]

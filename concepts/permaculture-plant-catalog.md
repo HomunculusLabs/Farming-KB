@@ -101,24 +101,6 @@ Reference table of plants organised by function. Sourced primarily from "Permacu
 
 Key species for fire-prone areas: carob, black locust, English oak, holm oak, cork oak, poplar, willow, elm, hazel, hawthorn, linden, sweet chestnut, Ginkgo biloba, Paulownia, olive, photinia, Zelkova. See full list in source (150+ species).
 
-## Design Applications
-Permaculture design principles emphasize multi-functional elements,
-efficient energy cycling, and working with natural patterns rather
-than against them. Integration with existing landscape features
-maximizes productivity while minimizing external inputs.
-
-## Implementation Notes
-Practical implementation requires site-specific adaptation considering
-local climate, soil conditions, available resources, and the grower's
-experience level. Observation and iterative refinement over multiple
-seasons produce the most resilient and productive systems.
-
-## See Also
-- [[what-a-plant-knows-plant-mechanosensation-touch-response]]
-- [[permaculture-plant-propagation-guide]]
-- [[what-a-plant-knows-gravitropism-plant-spatial-awareness]]
-- [[permaculture-castor-oil-plant]]
-- [[what-a-plant-knows-plant-hearing-acoustic-sensing]]
 ## Related Pages
 - [[dynamic-accumulators]] -- Detailed accumulator profiles by nutrient
 - [[cover-cropping-guide]] -- Cover crop selection and management

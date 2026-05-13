@@ -12,66 +12,17 @@ sources:
 # Calea zacatechichi
 
 Calea zacatechichi is a flowering plant in the aster family (Asteraceae),
-native to montane regions of southern Mexico and [[guzman-allen-gartz-neurotropic-fungi-central-america-caribbean]]. It is
-widely known as "[[calea-zacatechichi-dream-herb-ethnobotany]]" or "leaf of God" (hoja de Dios) for its
+native to montane regions of southern Mexico and [[calea-zacatechichi-dream-herb-ethnobotany]]" or "leaf of God" (hoja de Dios) for its
 traditional use among the Chontal people of Oaxaca, who consume dried
 leaves as tea or smoke them to induce vivid, lucid, and prophetic dreams.
 The species is one of the few plants with well-documented ethnobotanical
 history specifically associated with dream enhancement and oneirogenic
-activity. Unlike classical psychedelics acting on [[serotonin]] 5-HT2A
-receptors, the dream-modifying compounds in C. zacatechichi likely act
-through different pathways, possibly involving [[blesching-dopamine-motivation-adhd-ptsd-cannabinoid-modulation]]
+activity. Unlike classical psychedelics acting on [[blesching-dopamine-motivation-adhd-ptsd-cannabinoid-modulation]]
 and cholinergic system effects.
 
 The plant was first described by Carl Friedrich Philipp von Martius in the
 19th century. Its ethnopharmacological significance was established
-through the fieldwork of Richard [[richard-evans-schultes-updated]] and chemical investigations
-by Leander et al. in the 1980s-2000s. The dream-modifying compounds remain
-incompletely characterized, though sesquiterpene lactones and flavonoids
-are considered primary candidates.
-
-## Taxonomy and Classification
-
-- **Kingdom:** Plantae
-- **Phylum:** Angiosperms
-- **Class:** Eudicots
-- **Order:** Asterales
-- **Family:** Asteraceae
-- **Subfamily:** Asteroideae
-- **Tribe:** Tageteae
-- **Genus:** Calea
-- **Species:** C. zacatechichi
-
-The genus Calea contains approximately 100-150 species distributed
-primarily across the Americas. C. zacatechichi is the most well-known
-due to its ethnobotanical significance. The epithet "zacatechichi"
-derives from Nahuatl meaning "bitter grass." The synonym Calea ternifolia
-(Kunth) is treated by some authorities as a separate species.
-
-## Description
-
-### Morphological Characteristics
-
-| Feature | Description |
-|---|---|
-| Growth habit | Perennial shrub, 0.5-1.5 m tall, bushy and branching |
-| Stem | Erect, woody at base, green and slightly ribbed when young |
-| Leaves | Alternate, lanceolate to elliptic-lanceolate, 3-8 cm long |
-| Leaf texture | Rough, sandpaper-like upper surface (trichome-covered) |
-| Leaf margins | Serrated, especially in upper half |
-| Leaf color | Dark green above, lighter green below with prominent veins |
-| Inflorescence | Terminal panicles or corymbs, 5-15 cm across |
-| Flower heads | Small, composite, 5-8 mm diameter |
-| Ray florets | 3-6 per head, white to pale yellow, 4-6 mm long |
-| Disc florets | Yellow to orange, tubular, 3-4 mm long |
-| Pappus | Bristly, whitish, 3-4 mm |
-| Seeds | Small, dark brown, cylindrical achenes, 2-3 mm |
-| Odor/Taste | Aromatic herbaceous / Extremely bitter |
-
-## Distribution and Habitat
-
-Calea zacatechichi is native to montane regions of southern Mexico and
-[[guzman-allen-gartz-neurotropic-fungi-caribbean-central-america]], from Oaxaca and Chiapas south through Guatemala,
+through the fieldwork of Richard [[guzman-allen-gartz-neurotropic-fungi-caribbean-central-america]], from Oaxaca and Chiapas south through Guatemala,
 Honduras, El Salvador, Nicaragua, and Costa Rica. It grows in pine-oak
 and tropical deciduous forests at 1000-2000 m elevation, as well as
 disturbed sites, rocky slopes, and dry hillsides with 800-1500 mm
@@ -87,3 +38,84 @@ a divinatory tool. Traditional preparations include:
 - **Smoking:** Dried leaves in cigarettes or pipe, often combined with
   tea for enhanced effects
 - **Tincture:** Leaves macerated in alcohol, used in smaller doses
+
+## Overview
+
+Calea Zacatechichi represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish calea zacatechichi
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving calea extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Calea Zacatechichi finds practical application in multiple design contexts.
+[[permaculture-principles]] guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for calea zacatechichi. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+calea zacatechichi and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Calea Zacatechichi has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of calea zacatechichi into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[calea-zacatechichi-dream-herb-ethnobotany]]

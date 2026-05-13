@@ -21,9 +21,7 @@ The Mediterranean climate zone, characterised by mild wet winters and hot dry
 summers, supports a distinctive assemblage of long-lived tree crops that have
 co-evolved with human agriculture over millennia. Mollison treats these species
 as keystone elements in dryland and subtropical permaculture systems, valued
-for their [[dighton-fungal-drought-tolerance-plant-water-relations]], deep root systems, low maintenance requirements,
-and high nutritional yields. These crops align with
-[[mollison-climate-zones-permaculture-strategies]].
+for their [[mollison-climate-zones-permaculture-strategies]].
 
 ## The Olive (Olea europaea)
 
@@ -75,13 +73,7 @@ values figs for several reasons:
 
 ## Carob (Ceratonia siliqua)
 
-The carob tree is a cornerstone of dryland [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]] that Mollison
-describes with particular enthusiasm for its extraordinary resilience and
-multiple yields:
-
-- **Extreme drought tolerance**: Survives on 150-250 mm annual rainfall once
-  established. Deep taproots reach 20+ metres.
-- **[[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]]**: Hosts Rhizobium bacteria, fixing atmospheric nitrogen
+The carob tree is a cornerstone of dryland [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]]**: Hosts Rhizobium bacteria, fixing atmospheric nitrogen
   in the root zone, benefiting surrounding plants.
 - **Long-lived productivity**: Trees bear pods for 80-100+ years, producing
   80-200 kg of pods per mature tree annually.

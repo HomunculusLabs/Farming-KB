@@ -9,15 +9,7 @@ topics: [desert-greening, seed-balls, reforestation, fukuoka, africa]
 ## Fukuoka's Vision for Reclaiming Arid Lands
 
 One of the most ambitious practical proposals in *The Road Back to Nature* is
-Fukuoka's plan to halt the advance of deserts using [[fukuoka-natural-farming-principles-do-nothing-agriculture-personal-testimony]].
-This vision extends his philosophy of non-intervention to a global scale,
-proposing that even the most degraded landscapes can be restored through
-methods that work with nature rather than against it.
-
-## The Desert Advance: A Global Crisis
-
-Fukuoka frames desertification not as a natural process but as a consequence of
-human [[mycorrhizal-agricultural-practices]]. He observed deserts advancing on every continent,
+Fukuoka's plan to halt the advance of deserts using [[mycorrhizal-agricultural-practices]]. He observed deserts advancing on every continent,
 driven by the same pattern of soil destruction, deforestation, and monoculture
 he documented in America, Europe, and Asia.
 
@@ -49,44 +41,10 @@ ultimate expression of Fukuoka's do-nothing philosophy applied at landscape scal
 
 ## Forty Days in Africa
 
-Fukuoka spent forty days in Africa attempting to apply natural [[cho-poultry-natural-farming-methods]] to
-desert reclamation. He reflected deeply on why the African continent had suffered
-such severe environmental degradation and humanitarian crisis.
-
-His conclusion was that the tragedy in Africa, like [[fukuoka-american-agricultural-decline]] everywhere,
+Fukuoka spent forty days in Africa attempting to apply natural [[fukuoka-american-agricultural-decline]] everywhere,
 was fundamentally connected to the separation of humanity from nature. Western
 agricultural methods imposed on African landscapes disrupted traditional systems
-that had maintained [[fukuoka-bushman-world-ecological-balance]] for millennia.
-
-## What Will Grow in the Desert?
-
-Fukuoka challenged the assumption that deserts are inherently barren. He argued
-that deserts are largely human-created, and that with appropriate seed selection
-and patience, vegetation could be reestablished without extraordinary measures.
-
-Key principles for desert greening included:
-
-- Starting with hardy pioneer species that can survive extreme conditions
-- Using deep-rooted plants to access subsoil moisture
-- Creating microclimates through initial vegetation establishment
-- Allowing natural succession to proceed from pioneers to climax communities
-- Avoiding irrigation that creates dependency and salt accumulation
-
-## The Zen Center Experiment
-
-Fukuoka discussed plans for reclaiming desert at a Zen Center in California,
-seeing this as a demonstration project that could prove the viability of natural
-reforestation. The idea was to show that even severely degraded land could be
-restored through seed ball broadcasting and patient non-intervention.
-
-## Critique of Conventional Reforestation
-
-Fukuoka was critical of conventional approaches to reforestation and desert
-reclamation, which typically involve:
-
-- Tree nurseries and planted seedlings (requiring irrigation and maintenance)
-- Terracing and earthworks (mechanical intervention in landscape)
-- [[cannabis-chemical-fertilizers]] and soil amendments
+that had maintained [[cannabis-chemical-fertilizers]] and soil amendments
 - Ongoing management and monitoring
 
 ## Practical Applications
@@ -118,8 +76,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[doc]]
 - [[permaculture]]
-- [[desertification]]
 - [[mycorrhiza]]
 - [[fukuoka-seed-ball-method]]

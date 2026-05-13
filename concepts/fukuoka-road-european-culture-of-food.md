@@ -12,8 +12,7 @@ type: concept
 
 # The European Culture of Food
 
-During his tour of the European countryside, [[masanobu-fukuoka]]|Fukuoka wanted
-to find out what [[fukuoka-western-cooking-taste-numbing-japanese-food-boom]] is all about, but found it
+During his tour of the European countryside, [[fukuoka-western-cooking-taste-numbing-japanese-food-boom]] is all about, but found it
 totally incomprehensible. His observations reveal a
 fundamental difference between Eastern and Western
 approaches to food, nature, and civilization.
@@ -77,14 +76,7 @@ Even the size of Japanese teacups differs with the type of
 tea. Teacups have no handles, so one balances the cup in
 both hands, reverently savoring the taste. With chopsticks,
 one can dexterously pick up a single grain of rice and savor
-it. The delicate method of savoring [[fukuoka-japanese-cooking-culture-disappearing]]
-represented by a pair of bamboo or lacquered chopsticks may
-itself be regarded as the soul and essence of the culture of
-diet.
-
-## The Abandonment of Chopsticks
-
-The [[fukuoka-japanese-diet-worse]] shall surely perish the moment the
+it. The delicate method of savoring [[fukuoka-japanese-diet-worse]] shall surely perish the moment the
 chopstick is abandoned for forks and spoons. Fukuoka
 acknowledges the ecological damage caused by excessive use
 of disposable chopsticks, but notes that whereas chopsticks
@@ -118,8 +110,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[doc]]
 - [[fukuoka-road-lawn-culture]]
-- [[fukuoka-food-synthesis-trajectory]]
 - [[fukuoka-artificial-food-synthesis-degradation-food-quality]]
 - [[fukuoka-textdoc-trajectory-hothouse-agriculture-to-total-food-synthesis]]

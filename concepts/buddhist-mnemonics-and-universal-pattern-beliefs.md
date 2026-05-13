@@ -8,7 +8,7 @@ type: concept
 
 ## Overview
 
-The Buddhist chant "Om mani padme hum" (pronounced "Aum ma-ni pay-may hung" by Tibetans and Nepalese) serves as a powerful example of how traditional belief systems encode complex philosophical and cosmological concepts into compact, memorizable forms. This chant reveals deep structural parallels between Eastern philosophy, modern physics, and indigenous worldviews—suggesting a universal pattern understanding that transcends cultural boundaries.
+The Buddhist chant "Om mani padme hum" (pronounced "Aum ma-ni pay-may hung" by Tibetans and Nepalese) serves as a powerful example of how traditional belief systems encode complex philosophical and cosmological concepts into compact, memorizable forms. This chant reveals deep structural parallels between [[fukuoka-western-eastern-philosophy-agriculture]], modern physics, and indigenous worldviews—suggesting a universal [[bill-mollison-permaculture-a-designers-manual-pattern-understanding-in-permaculture]] that transcends cultural boundaries.
 
 ## Decoding the Mantra
 
@@ -18,7 +18,7 @@ As explained by Peter Matthiessen in *The Snow Leopard* (Picador, 1980), each sy
 The beginning harmonic, the sound of all stillness and the sounds of all time. It is the fundamental harmonic that recalls the universe itself—a sonic representation of cosmic origin and unity. Aum serves as the "signing on" to the chant cycle, connecting the chanter to the totality of existence.
 
 ### Ma-ni — The Unchanging Essence
-The diamantine core of all phenomena; truth itself, represented as a diamond, jewel, or thunderbolt. In paintings, this is sometimes depicted as a blue orb or a radiant jewel, and sometimes as a source of lightning or fire. This represents the implicate order—the underlying, unchanging reality beneath the flux of appearances.
+The diamantine core of all phenomena; truth itself, represented as a diamond, jewel, or thunderbolt. In paintings, this is sometimes depicted as a blue orb or a radiant jewel, and sometimes as a source of lightning or fire. This represents the [[implicate-order-and-unity-of-nature]]—the underlying, unchanging reality beneath the flux of appearances.
 
 ### Pay-may — The Unfolding
 "Enfolded in the heart of the lotus" (mani enfolded). This represents the visible, everyday unfolding of events, petals, and patterns that gradually reveal the essential unchanged core (mani) to understanding. The lotus symbolizes the process by which the implicate order (tessellated and annidated events) unfolds through the passage of time in successive revelations.
@@ -49,7 +49,7 @@ The convergence of tribal chants, arts, folk decorations, and formal religious s
 - Express much the same world concept as modern physics and biology
 - Come close to realizing the actual nature of observed events
 - Are derived from contemplation of natural phenomena
-- Represent a way of life and philosophy rather than dogma or measurement
+- Represent a way of [[cho-han-kyu-life-and-philosophy]] rather than dogma or measurement
 
 ### The Drift from Universal to Dogmatic
 
@@ -65,7 +65,7 @@ Many other world-concepts based on the analogies of rainbows, serpents, and song
 
 The recurring motif across these systems—"The jewel in the heart of the lotus"—represents the core insight: that within the complex, unfolding patterns of the natural world lies an essential, unchanging truth. This truth is accessible through pattern understanding rather than through measurement or analysis alone.
 
-The implications for permaculture design are profound: effective design comes from understanding the underlying patterns of natural systems, not from applying formulas or prescriptions. The designer who can perceive the "jewel" within the "lotus"—the core principle within the complex pattern—can create systems that work with nature rather than against it.
+The implications for [[bee-forage-systems-permaculture-design]] are profound: effective design comes from understanding the underlying patterns of natural systems, not from applying formulas or prescriptions. The designer who can perceive the "jewel" within the "lotus"—the core principle within the complex pattern—can create systems that work with nature rather than against it.
 
 ## Relevance to Design Practice
 
@@ -88,8 +88,6 @@ cultural narrative demonstrates how communities maintain and transmit
 ecological intelligence across generations through embodied practice.
 
 ## See Also
-- [[mnemonics-of-meaning-and-sacred-pattern]]
 - [[mnemonics-of-meaning-and-universal-belief-patterns]]
-- [[tribal-pattern-encoding-and-mnemonics]]
 - [[holmgren-pattern-thinking-and-pattern-language]]
 - [[pattern-applications-and-tribal-pattern-knowledge]]

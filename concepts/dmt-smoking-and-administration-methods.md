@@ -9,32 +9,14 @@ sources:
 ---
 # DMT Smoking and Administration Methods
 
-DMT can be administered through several routes, each with distinct techniques and considerations. See [[psilocybin-mushroom-distribution-worldwide]] whose visuals are best in a pitch black forest. Turner recommends adjusting venetian blinds so that grids of sunlight are bouncing around the room. Other excellent visual stimuli for DMT include: blacklights, strobes, desert sunsets, full moonlight, Pink Floyd concerts, raves, multi-media images, and lasers.
-
-## Traditional Snuff Methods
-
-### Yopo (Anadenanthera peregrina)
-Amazon natives use ingenious methods for snuff administration. One method calls for a "snorter" through which they inhale with both nostrils at once. The most effective is a two-person snorting device: a tube from each person's mouth to the other's nose. One person "blows" the DMT snuff deep into the other's nasal cavity, then the receiver must quickly blow a dose back before falling into a tryptamine trance, "trypping."
-
-### Epena (Virola theiodora)
-Another Amazon snuff preparation with similar administration. Several plant sources of DMT are made into snuffs, each with uniquely different histories of use.
-
-## Ayahuasca (Oral)
-
-DMT-containing plants (like Psychotria viridis) are combined with Banisteriopsis caapi (source of [[mao-inhibitors-and-psychedelics]]). This combination:
+DMT can be administered through several routes, each with distinct techniques and considerations. See [[mao-inhibitors-and-psychedelics]]). This combination:
 - Allows DMT to be active orally — the MAO inhibitors prevent the normal breakdown of DMT in the digestive tract
 - Intensifies and deepens the experience
 - Produces a more spiritual quality according to Turner
 - Eliminates the need to consume the entire dose rapidly
-- The [[turner-harmala-alkaloids-preparation-and-dosage]] also produce their own effects (see [[psychedelic-safety-and-harm-reduction]] for comprehensive [[psychedelic-safety-guidelines-turner]].
-
-## See Also
-
-- [[dmt-smoking-technique-and-preparation]]
-- [[dmt-dimethyltryptamine-experience-guide]] — experience overview and [[dmt-entity-encounters-and-the-logos]]
-- [[beta-carboline-chemistry]] — Harmala alkaloids and their effects
-- [[psychedelic-safety-and-harm-reduction]] — [[adverse-effects-and-harm-reduction-psilocybin]]
-- [[turner-harmala-alkaloids-preparation-and-dosage]]
+- The [[psychedelic-safety-and-harm-reduction]] for comprehensive [[dmt-smoking-technique-and-preparation]]
+- [[dmt-entity-encounters-and-the-logos]]
+- [[psychedelic-safety-and-harm-reduction]] — [[turner-harmala-alkaloids-preparation-and-dosage]]
 ## Practical Applications
 
 DMT Smoking and Administration Methods has a range of practical applications that make it relevant to
@@ -96,8 +78,6 @@ through generations to modern scientific approaches, the evolution continues
 to inform current best practices and research directions.
 
 ## See Also
-- [[dmt]]
 - [[ayahuasca]]
-- [[doc]]
 - [[harmala-alkaloids]]
 - [[psilocybin]]

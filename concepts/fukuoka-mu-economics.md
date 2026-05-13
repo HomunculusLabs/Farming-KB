@@ -27,21 +27,7 @@ He poses the fundamental economic questions: "Is there intrinsic value in this t
 
 Fukuoka connects economic value to human well-being: "The fact that there is no intrinsic value to objects in nature and no need for research seems to have a direct bearing on the happiness and unhappiness of man." His conclusion: "True happiness does not arise from things."
 
-This extends his first principle of farming -- "we do not understand; it is not possible to know and understand" -- into economics. Just as [[fukuoka-critique-scientific-agriculture-civilization]] creates problems it then claims to solve, economic systems create the conditions of scarcity that give objects their apparent value.
-
-## Critique of Scientific Knowledge in Economics
-
-Fukuoka uses the physicist Hideki Yukawa (Japan's first Nobel laureate) as an example: "Yukawa went deeper and deeper into the tiny world of elementary particles and mesons, where he discovered a vast, microcosmic universe." But realizing that "there is no 'large' in a macrocosm and no 'small' in a microcosm," he was "unable to proceed any further and sought instead the salvation of the world of Buddhism."
-
-The implication: economists who delve deeper and deeper into value theory, supply curves, and market mechanisms face the same trap as physicists who fragment matter. The more they study, the less they understand the whole.
-
-## Application to Agriculture
-
-Fukuoka's economic thinking directly informs his farming critique:
-
-- Farmers are trapped in a value system created by chemical agriculture: "The key sectors of Japan's chemical industry will all collapse" if no-till farming spreads
-- Agricultural cooperatives create economic dependency: farmers who follow instructions receive payment automatically; those who deviate face financial ruin
-- The Japanese system of land ownership and cooperative control makes [[comparison-natural-farming-vs-permaculture]] economically impossible even when technically superior
+This extends his first principle of farming -- "we do not understand; it is not possible to know and understand" -- into economics. Just as [[comparison-natural-farming-vs-permaculture]] economically impossible even when technically superior
 
 His natural farming method produces yields of 50 bushels per quarter-acre -- matching or exceeding conventional methods -- yet cannot spread because the economic system is designed around chemical inputs and mechanized planting, not biological productivity.
 
@@ -49,20 +35,7 @@ His natural farming method produces yields of 50 bushels per quarter-acre -- mat
 
 In his Asahi Shimbun essay (1983), Fukuoka presents an implicit economic vision:
 
-"The hearthside is the universe; to own nothing is to never be without." This is not asceticism but a recognition that the thousand rice paddies -- built over centuries by Japanese farmers "[[fukuoka-serving-nature-philosophy]], growing crops without digging up and destroying the soil" -- already contain within them all the value needed for human flourishing.
-
-The real economy, for Fukuoka, is the biological productivity of healthy land managed with minimal intervention. The "false nature" replacing Japan's "natural beauty" represents not just ecological but economic catastrophe: "the rate of collapse of Japan's pine forests" equals "the rate at which nature is collapsing in this country."
-
-## The Natural Farming Economic Paradox
-
-Fukuoka identifies a cruel paradox: the more productive natural farming becomes (higher yields, lower costs, less labor), the less it can spread within the existing economic system, because its success threatens the profitability of:
-- Chemical fertilizer companies
-- Pesticide manufacturers
-- Farming equipment makers
-- Agricultural cooperatives (which profit from distribution of inputs)
-- Agricultural testing stations (which exist to solve problems created by their own methods)
-
-"What happens if you don't have to plow, if you don't have any need for tillers and tractors, if you don't have to spread [[cervantes-chemical-fertilizers-guide]] and pesticides? The key sectors of Japan's chemical industry will all collapse. No wonder then that no one is willing to believe such a method of farming is possible."
+"The hearthside is the universe; to own nothing is to never be without." This is not asceticism but a recognition that the thousand rice paddies -- built over centuries by Japanese farmers "[[cervantes-chemical-fertilizers-guide]] and pesticides? The key sectors of Japan's chemical industry will all collapse. No wonder then that no one is willing to believe such a method of farming is possible."
 
 ## Connection to Fukuoka's Broader Philosophy
 
@@ -71,18 +44,7 @@ Mu economics is the economic expression of Fukuoka's three principles:
 2. Nothing has intrinsic value (price reflects artificial scarcity, not natural abundance)
 3. Anything done with the human intellect is worthless (economic planning creates the problems it claims to solve)
 
-It also connects to [[fukuoka-food-and-health-philosophy]] (food as the foundation of the economic system).
-
-## Source
-
-- Masanobu Fukuoka, "The Road Back to Nature," pp. 229-253 (Mu economics, value philosophy, agricultural economics critique)
-
-updated: 2026-04-18
-
-## See Also
-
-- [[fukuoka-do-nothing-farming-philosophy]]
-- [[fukuoka-road-back-clover-barley-rice-method]]
+It also connects to [[fukuoka-do-nothing-farming-philosophy]]
 - [[fukuoka-quarter-acre-farmer-do-nothing-farming]]
 
 ## Practical Applications
@@ -114,8 +76,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[masanobu-fukuoka]]
 - [[det]]
-- [[permaculture]]
 - [[natural-farming]]
 - [[fukuoka-mu-economics-natural-economy]]

@@ -24,57 +24,9 @@ It was first synthesized by Merck in 1912 and later popularized as a recreationa
 
 MDMA acts primarily as a serotonin-norepinephrine-dopamine releasing agent (SNDRA), producing feelings of emotional openness, increased sociability, and heightened sensory perception.
 
-It is classified as a Schedule I substance under the United States Controlled [[controlled-substances-act-and-psychedelic-research]] and is regulated internationally under the UN Convention on Psychotropic Substances.
+It is classified as a Schedule I substance under the United States Controlled [[lsd]], which act primarily as 5-HT₂A agonists.
 
-## Chemical Properties
-
-MDMA has the molecular formula **C₁₁H₁₅NO₂** and a molar mass of 193.24 g/mol.
-
-Its systematic IUPAC name is (RS)-1-(1,3-benzodioxol-5-yl)-N-methylpropan-2-amine.
-
-The compound features a methylenedioxy group attached to the phenyl ring at positions 3 and 4, and an N-methyl substitution on the amine nitrogen.
-
-MDMA exists as two enantiomers, with the (S)-(+)-enantiomer being more pharmacologically active in producing the characteristic empathogenic effects.
-
-It appears as a white crystalline powder at room temperature, with a melting point of approximately 147–148 °C.
-
-The hydrochloride salt form is the most common preparation for both research and illicit distribution, owing to its improved water solubility and stability.
-
-MDMA is structurally related to both amphetamine and mescaline, sharing the phenethylamine backbone with a methylenedioxy substitution pattern also found in the  family of compounds.
-
-## Pharmacology
-
-MDMA functions as a non-selective monoamine transporter substrate, reversing the normal direction of serotonin (SERT), norepinephrine (NET), and dopamine (DAT) transporters.
-
-Its primary mechanism is the induction of serotonin release via SERT, which accounts for its characteristic emotional and prosocial effects.
-
-The compound binds to SERT with high affinity, triggering vesicular serotonin depletion through interaction with VMAT2.
-
-This leads to a massive increase in extracellular serotonin concentrations, estimated at 3–8 times baseline in animal models.
-
-Dopamine and norepinephrine release are secondary but contribute to the stimulant and cardiovascular effects observed during intoxication.
-
-MDMA also has weak direct agonist activity at 5-HT₂A and trace amine-associated receptor 1 (TAAR1), though these contribute minimally to its primary effects.
-
-The acute pharmacological profile distinguishes MDMA from classical psychedelics like [[lsd]], which act primarily as 5-HT₂A agonists.
-
-It also differs from pure stimulants like [[essential-amphetamines-and-natural-precursors]], which predominantly affect dopamine and norepinephrine systems without significant serotonergic release.
-
-## Effects
-
-The subjective effects of MDMA at recreational doses (80–150 mg) typically last 3–6 hours and include pronounced emotional openness, enhanced empathy, and feelings of interpersonal closeness.
-
-Sensory enhancement, particularly in music appreciation and tactile perception, is commonly reported by users.
-
-Physical effects include mild stimulant symptoms: pupillary dilation, increased heart rate (20–30 bpm elevation), elevated blood pressure, bruxism, and hyperthermia.
-
-The thermoregulatory disruption is the most clinically significant acute risk, particularly in crowded dance environments where dehydration compounds the danger.
-
-Onset occurs within 30–60 minutes of oral administration, with peak effects at 90–150 minutes.
-
-The experience is typically described as a "come-up" phase, a plateau of 2–3 hours, and a gradual comedown lasting 1–2 hours.
-
-[[blesching-cannabis-safety-adverse-effects-evidence]] include anxiety, depression, and fatigue during the post-acute period (24–72 hours), attributed to transient serotonergic depletion.
+It also differs from pure stimulants like [[blesching-cannabis-safety-adverse-effects-evidence]] include anxiety, depression, and fatigue during the post-acute period (24–72 hours), attributed to transient serotonergic depletion.
 
 Long-term heavy use has been associated with serotonergic neurotoxicity in animal studies, though the clinical significance in humans remains debated.
 
@@ -87,3 +39,88 @@ Safrole, a natural precursor found in sassafras oil, is itself internationally c
 In the United States, MDMA is classified as Schedule I (no accepted medical use, high abuse potential).
 
 In 2024, the FDA declined to approve MDMA-assisted therapy for PTSD, maintaining its controlled status despite Phase III [[mushroom-cancer-clinical-trials-overview]] demonstrating significant therapeutic potential.
+
+## Overview
+
+Mdma represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish mdma
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving mdma extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Mdma finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for mdma. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+mdma and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Mdma has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of mdma into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[ecstasy-mdma-guide]]
+- [[mdma-crack-cocaine-drug-terror-1980s]]
+- [[mdma-reference]]
+- [[metzner-empathogens-in-psychotherapy-mda-mdma-and-the-heart-centered-paradigm]]
+- [[metzner-mdma-assisted-therapy-research]]

@@ -17,40 +17,14 @@ Fungal pathogenesis requires a combination of traits that enable the
 fungus to colonize, invade, and persist within a mammalian host. Unlike
 bacterial pathogens, which often rely on specific toxins and secretion
 systems, fungal virulence factors tend to be derived from fundamental
-[[bloomfield-fungal-biology-and-hyphal-growth]] -- traits originally evolved for environmental survival
-that are co-opted during infection. Key virulence determinants include
-thermotolerance, cell wall composition, melanin production, capsule
-formation, and the ability to undergo morphological transitions.
-
-## Thermotolerance
-
-The ability to grow at mammalian body temperature (37 degrees C and
-above) is a fundamental prerequisite for pathogenesis. Among the three
-major systemic [[bloomfield-fungal-pathogens-and-parasites]] -- [[aspergillus-fumigatus-population-genetics]], and
-[[alpha-1-3-glucan-fungal-pathogen-cell-walls]], which
+[[bloomfield-fungal-pathogens-and-parasites]] -- [[alpha-1-3-glucan-fungal-pathogen-cell-walls]], which
 serves as a scaffold for capsule attachment.
 
 ## Morphological Transitions
 
 Several fungal pathogens undergo dimorphic transitions between yeast
 and hyphal forms that are essential for virulence. C. albicans switches
-between yeast, pseudohyphal, and true [[bloomfields-orchard-hyphal-growth-and-invasive-biology]] forms, with each
-morphology conferring distinct advantages during infection. The yeast
-form facilitates dissemination in the bloodstream, while hyphal forms
-promote tissue invasion and biofilm formation.
-
-Thermally dimorphic fungi such as Histoplasma capsulatum and
-Coccidioides species convert between a mold form in the environment and
-a yeast or spherule form at mammalian body temperature. This
-temperature-dependent transition is central to their pathogenic life
-cycle and represents a key virulence trait.
-
-## Cell Wall Remodeling and Immune Evasion
-
-The fungal cell wall is the primary interface between pathogen and host.
-Cell wall remodeling during infection serves multiple virulence-related
-functions. [[alpha-1-3-glucan-fungal-pathogen-cell-walls]]
-- [[cryptococcus-neoformans]]
+between yeast, pseudohyphal, and true [[alpha-1-3-glucan-fungal-pathogen-cell-walls]]
 - [[coccidioides-species-complex-biogeography]]
 - fungal cell wall composition and function
 
@@ -59,10 +33,7 @@ functions. [[alpha-1-3-glucan-fungal-pathogen-cell-walls]]
 - Casadevall, A. & Pirofski, L. A. (2001). Host-pathogen
   interactions: redefining the basic concepts of virulence and
   pathogenicity. Infect Immun 69, 3343-53.
-- Steenbergen, J. N. et al. (2001). [[bloomfield-cryptococcus-neoformans-capsule-melanin-brain]]
-  virulence: coming to grips with a fungal pathogen. Annu Rev
-  Microbiol 55, 413-39.
-- Latge, J. P. (1999). [[gadd-aspergillus-fumigatus-glucan-virulence]] and aspergillosis.
+- Steenbergen, J. N. et al. (2001). [[gadd-aspergillus-fumigatus-glucan-virulence]] and aspergillosis.
   Clin Microbiol Rev 12, 310-50.
 ## Practical Considerations
 
@@ -112,8 +83,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[det]]
 - [[histoplasma-capsulatum]]
-- [[host-recognition-mycoparasitism-fungal-specificity]]
 - [[fungal-endemism-host-specificity]]
 - [[fungal-fruit-tree-diseases]]

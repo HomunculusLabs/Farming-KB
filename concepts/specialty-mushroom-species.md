@@ -25,7 +25,7 @@ sources:
 
 # Specialty Mushroom Species Guide
 
-Additional cultivated and notable mushroom species beyond the core five (oyster, shiitake, lion's mane, reishi, wine cap). These species offer unique medicinal properties, ecological roles, or cultivation opportunities for advanced growers.
+Additional cultivated and notable mushroom species beyond the core five (oyster, shiitake, lion's mane, reishi, [[wine-cap]]). These species offer unique medicinal properties, ecological roles, or cultivation opportunities for advanced growers.
 
 Related: [[mushroom-species-guide]], [[medicinal-mushroom-guide]], [[mushroom-cultivation-basics]]
 
@@ -108,32 +108,3 @@ Third-largest mushroom in the world. Perennial conk with white pore surface that
 One of the most protein-rich cultivated mushrooms (33-48% dry weight). Bruises bright yellow when cut. Beta-glucans up to 14%, total polysaccharides ~27%. Promotes natural killer cells and is selectively cytotoxic to tumor cells. Absorbs cadmium, copper, lead, and mercury. Good mycofiltration candidate around dairies and feedlots. Controversial in commercial markets due to competition between growers in China, Japan, and Brazil. Samples from China found with significantly more cadmium than US-grown.
 
 ## Hypholoma capnoides (Clustered Woodlover)
-
-| Parameter | Value |
-|-----------|-------|
-| **Difficulty** | Easy (outdoor) |
-| **Substrate** | Conifer stumps and logs (Douglas fir, pine, hemlock) |
-| **Fruiting temp** | 50-60F (fall) |
-| **Warning** | Easily confused with poisonous H. fasciculare (olive-green gills) and deadly Galerina |
-
-Aggressive conifer stump decomposer and Armillaria blight fighter. Stumps inoculated with this species resist Armillaria root rot. Chapman et al. (2004) found close relative H. fasciculare reduced Armillaria by up to 67% in BC field trials. Produces long, forking rhizomorphs that penetrate deeply into wood. One of the few edible mushrooms found on aged redwoods and cedars. Nutty flavor when cooked until crispy. See [[mycelium-running-techniques]].
-
-## Hypsizygus ulmarius (Elm Oyster)
-
-| Parameter | Value |
-|-----------|-------|
-| **Difficulty** | Intermediate (outdoor logs/beds) |
-| **Substrate** | Elm, cottonwood, beech, maple, willow |
-| **Fruiting temp** | 50-70F |
-| **Flavor** | Superior to common oyster (Stamets' highest-rated oyster-like mushroom) |
-
-Despite its common name, this is NOT a Pleurotus — it produces brown rot (not white). Does not spoil as quickly as Pleurotus species, suggesting antibacterial properties. Friendly to many garden vegetables (unlike P. ostreatus, which inhibits some plants). TCM practitioners recommend it for stomach/intestinal diseases. May have anti-nematode and cholesterol-lowering properties. Lower spore load than most oyster species.
-
-## See Also
-
-- [[mushroom-species-guide]] — Core five species: oyster, shiitake, lion's mane, reishi, wine cap
-- [[medicinal-mushroom-guide]] — Medicinal compounds and preparations
-- [[mushroom-cultivation-basics]] — General cultivation processes
-- [[mushroom-substrates]] — Substrate selection and preparation
-- [[mycoremediation-techniques]] — Fungal environmental cleanup methods
-- [[mycelium-running-techniques]] — Stamets' outdoor cultivation techniques

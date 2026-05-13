@@ -18,19 +18,9 @@ source:
   - "indoor mushroom growing technique: boil a bag (jarrold)"
 ---
 
-[[oyster-straw-substrate-preparation]] on with Marmite Supplementation
+[[green-cannabis-rockwool-hydroponic-growing-media]] edia for amat [[mushroom-growing-reference]] ng Technique [[non-sterilized-wheat-straw-oyster-cultivation]] aw [[saprophytic-fungi]] gi lik [[straw-substrate-yeast-extract-enrichment-jarrold]] is an ideal substrate for several reasons:
 
-## Overview
-
-Straw-based substrates are among the most accessible and cost-effect [[green-cannabis-rockwool-hydroponic-growing-media]] edia for amat [[mushroom-cultivation]] tion. As described in Jarrold's "Indoo [[mushroom-growing-reference]] ng Technique [[boil-a-bag-pressure-sterilization-technique]] a Bag,[[non-sterilized-wheat-straw-oyster-cultivation]] aw [[straw-substrate-yeast-extract-enrichment-jarrold]] serves as the primary carbon source fo [[saprophytic-fungi]] gi lik [[oyster-mushrooms]] ms (Pleurotus ostreatus). The "boil-a-bag" method involves heat-treating straw in a sealed bag to create a selective environment favouring mushroom mycelium over competing organisms. A distinctive feature of this approach is the use of Marmite (yeast extract) as a nutritional supplement, providing B vitamins and minerals that accelerate colonisation.
-
-## Why Straw
-
-Wheat straw [[straw-substrate-yeast-extract-enrichment-jarrold]] is an ideal substrate for several reasons:
-
-- **High carbon content**: The cellulose and hemicellulose in straw [[straw-substrate-yeast-extract-enrichment-jarrold]] provide abundant energy for fungal growth
-- **Low cost and availability**: Straw is an agricultural by-product, readily available from farms and garden centres
-- **Loose structure**: Chopped straw [[straw-substrate-yeast-extract-enrichment-jarrold]] allows good air penetration, essential for mycelial respiration
+- **High carbon content**: The cellulose and hemicellulose in straw [[straw-substrate-yeast-extract-enrichment-jarrold]] allows good air penetration, essential for mycelial respiration
 - **Selective pasteurisation**: Boiling straw kills most competitors while leaving heat-tolerant beneficial organisms
 
 Oyster mushrooms are particularly well-suited to straw substrates because they are aggressive colonisers that can outcompete residual contaminants on properly pasteurised straw. Other species like lion's mane (Hericium erinaceus) and shiitake (Lentinula edodes) may require more nutrient-rich or woody substrates.
@@ -118,8 +108,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[pleurotus-ostreatus]]
 - [[oyster-mushroom]]
-- [[hericium-erinaceus]]
 - [[spore]]
 - [[lentinula-edodes]]

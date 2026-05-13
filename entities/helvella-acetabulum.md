@@ -30,15 +30,11 @@ created: 2026-04-28
 
 ## Overview
 
-*Helvella acetabulum* is a species of cup fungus in the family Helvellaceae, found across temperate regions of Europe and [[psilocybin-north-america-pacific-northwest]].
-
-It is commonly called the vinegar cup due to its shallow, cup-shaped [[comparison-fruiting-body-vs-mycelium-extracts-medicinal-mushrooms]] that resembles a small goblet or cider cup.
+*Helvella acetabulum* is a species of cup fungus in the family Helvellaceae, found across temperate regions of Europe and [[comparison-fruiting-body-vs-mycelium-extracts-medicinal-mushrooms]] that resembles a small goblet or cider cup.
 
 The species fruits in spring and early summer, typically on bare soil in forests, along trails, and in disturbed ground.
 
-Unlike many [[helvella-crispa]]
-- [[gyromitra-esculenta]]
-- [[morchella-esculenta]]
+Unlike many [[gyromitra-esculenta]]
 - [[mycorrhiza]]
 - fungi
 ## Practical Considerations

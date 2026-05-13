@@ -98,7 +98,7 @@ institutions of polite society.
 
 ## The Scale of Suffering
 
-McKenna draws a direct comparison between the modern cocaine trade and
+McKenna draws a direct comparison between the modern [[cocaine]] trade and
 the historical sugar trade — and finds the modern trade wanting in
 scale of destruction. The distortion and dehumanizing of human
 institutions caused by crack cocaine today is nothing compared with
@@ -141,8 +141,6 @@ economic, and political landscape of the entire Atlantic world.
 
 ## Related Concepts
 
-- [[mckenna-sugar-addiction-slavery-dominator-culture]]
 - [[mckenna-sugar-slavery-dominator-culture-commodities]]
-- [[mckenna-exploitation-cycles-drug-diplomacy]]
 - [[mckenna-food-gods-tea-coffee-drugs-gentility]]
 - [[mckenna-four-stages-abandoning-mystery]]

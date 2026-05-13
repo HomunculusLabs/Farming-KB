@@ -3,7 +3,7 @@ title: Blesching Cannabis Alzheimers Dementia
 created: 2026-04-26
 updated: 2026-04-25
 sources: "uwe-blesching, The blesching-cannabis-health-index-autoimmune-conditions (CHI)"
-wikilinks: "blesching-endocannabinoid-system-overview [[cannabinoid-receptors-cb1-cb2]] blesching-cannabis-neurodegenerative-diseases Blesching [[blesching-cannabis-mental-disorders]] Health Applications"
+wikilinks: "blesching-endocannabinoid-system-overview blesching-cannabis-mental-disorders Health Applications"
 type: concept
 tags: [cannabis]
 ---
@@ -59,25 +59,7 @@ reduce the risk of the disease.
 
 ## Cannabis and Alzheimer's Disease
 
-Recent experiments suggest the [[endocannabinoid-neurogenesis-neuroplasticity-blesching]] may play a significant
-role in the development of AD. A study from Madrid, Spain (2005), discovered
-that "cannabinoid receptors are important in the pathology of AD and that
-cannabinoids succeed in preventing the neurodegenerative process occurring in
-the disease."
-
-A follow-up experiment from Madrid (2009) demonstrated that the CB2 agonist
-JWH-015 could induce the removal of native beta-amyloid from frozen human
-tissue. Using available data from prior studies and experiments, scientists
-from Naples, Italy, conducted a meta-analysis (2008). Their results suggested
-that endocannabinoids likely produce a response that might counteract both the
-neurochemical and inflammatory consequences of beta-amyloid-induced tau protein
-hyperactivity -- possibly the most important underlying cause of AD.
-
-Researchers from British Columbia, Canada (2008), tested a patient with
-Alzheimer's-related behavioral symptoms (agitation and aggression) who failed
-to respond to pharmaceuticals including neurontin, trazodone, quetiapine, and
-olanzapine. Scientists gave the patient 0.5 mg of [[endocannabinoid-system-overview]]
-- [[blesching-cannabis-neurodegenerative-diseases]]
+Recent experiments suggest the [[endocannabinoid-system-overview]]
 - [[blesching-cannabis-health-index-mental-health-applications]]
 
 ## Practical Applications
@@ -109,8 +91,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[doc]]
 - [[det]]
-- [[blesching-cannabis-alzheimers-disease]]
 - [[cannabis-alzheimers-research]]
 - [[blesching-cannabis-neuroprotection-neurodegenerative]]

@@ -10,8 +10,7 @@ type: concept
 
 Composting is the controlled decomposition of organic materials by soil
 microorganisms, and in *Teaming With Microbes*, Lowenfels and Lewis describe it
-as an indispensable tool for managing the [[lowenfels-bacteria-role-soil]] and
-[[lowenfels-soil-enzymes-decomposition]] join the process. Their
+as an indispensable tool for managing the [[lowenfels-soil-enzymes-decomposition]] join the process. Their
 metabolic heat causes temperatures to continue rising, and these high
 temperatures also kill off pathogens. A properly made pile should reach 135
 degrees Fahrenheit in 24 to 72 hours and 150 degrees in three days. It is
@@ -20,30 +19,9 @@ to ensure pathogen destruction and kill weed seeds at 150 degrees.
 
 ## Maturation Stage
 
-As complex proteins and carbohydrates diminish, [[arbuscule-isolation-metabolic-activity-assays]] declines and
-temperature decreases. Mesophilic organisms return, replacing thermophilic ones.
-During maturation, the most resistant plant component, lignin, is finally broken
-down. Actinomycetes continue attacking difficult-to-digest remnants, producing
-the earthy smell of good compost through their decay of cellulose, lignin,
-chitin, and protein.  [[singh-basidiomycete-fungi-in-petroleum-hydrocarbon-cleanup]] are also active in this final stage.
+As complex proteins and carbohydrates diminish, [[singh-basidiomycete-fungi-in-petroleum-hydrocarbon-cleanup]] are also active in this final stage.
 Physical decomposers including
-[[lowenfels-soil-structure-aggregates]].
-
-## Carbon to Nitrogen Ratio
-
-The ideal carbon-to-nitrogen ratio for composting is approximately 25:1 to 30:1.
-Gardeners traditionally divide materials into brown (carbon-rich, fungal foods)
-and green (nitrogen-rich, bacterial foods). Brown items include autumn leaves,
-bark, wood chips, and twigs. Green items include grass clippings (19:1), fresh
-weeds, and kitchen scraps. Too much carbon slows decomposition; too much
-nitrogen causes carbon to be vented as gas.  A mix of grass clippings and autumn
-leaves provides a near-ideal ratio.  The C:N ratio also determines whether
-finished compost is bacterially or fungally dominated, which can be manipulated
-by adjusting the proportion of green and brown materials.
-
-## Cooling and Hot Compost Problems
-
-If a [[mushroom-cultivator-compost-pile-management]] gets too hot, above 155 degrees Fahrenheit (68 degrees
+[[mushroom-cultivator-compost-pile-management]] gets too hot, above 155 degrees Fahrenheit (68 degrees
 Celsius), carbon begins to burn off, reducing the quality of the finished
 compost. To cool an overheated pile, turn it to introduce air, add water, or mix
 in more brown materials. The brown materials shift the balance away from
@@ -60,12 +38,7 @@ between green and brown, and kept moist but not wet. Turning the pile brings in
 oxygen, ensures all material gets treated, and controls temperature. Adding
 green material heats a cooling pile; adding brown material slows an overheated
 one. The pile is finished when you cannot recognize the original ingredients.
-[[ingham-inorganic-fertilizers-soil-biology-damage]], pesticides, and herbicides should never be added, as they
-kill the very organisms that drive the composting process.
-
-## Cool Composting Alternative
-
-For gardeners who find [[comparison-bokashi-vs-hot-composting-method]] too labor-intensive, cool or cold
+[[comparison-bokashi-vs-hot-composting-method]] too labor-intensive, cool or cold
 composting offers a simpler alternative. Organic materials are piled or placed
 in a bin without concern for the carbon-to-nitrogen ratio or temperature
 monitoring. The materials will eventually decay, but the process can take a year
@@ -85,3 +58,88 @@ carbon-to-nitrogen ratios, moisture, aeration, and temperature, gardeners can
 produce compost tailored to be either bacterially or fungally dominated,
 matching the needs of specific plants.  Compost is the single most important
 tool for building soil food webs.
+
+## Overview
+
+Lowenfels Composting Science Microbiology represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish lowenfels composting science microbiology
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving lowenfels extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Lowenfels Composting Science Microbiology finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for lowenfels composting science microbiology. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+lowenfels composting science microbiology and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Lowenfels Composting Science Microbiology has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of lowenfels composting science microbiology into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[lowenfels-nutrients-nitrogen-cycle]]
+- [[lowenfels-soil-arthropod-macrofauna]]
+- [[lowenfels-soil-enzymes-decomposition]]
+- [[lowenfels-soil-fungi-decomposition]]
+- [[lowenfels-tilling-no-till-soil-health]]

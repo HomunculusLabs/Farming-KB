@@ -29,19 +29,8 @@ The shaman blows away the froth on the bubbling natem brew as it
 cooks, checking its appearance to assess readiness. After the natem
 has boiled down and cooled, it is ready to drink.
 
-[[challenges-neurotropic-fungi-chemical-analysis-taxonomic-identification]] has confirmed that the natem tea contains the
-powerful hallucinogenic beta-carboline alkaloids harmaline, harmine,
-and d-tetrahydroharmine, and quite possibly N,N-dimethyltryptamine
-([[psilocybin-mushroom-biology-chemistry]], [[hofmann-lsd-mazatec-and-psilocybin]]. The beta-carboline alkaloids function as monoamine
-oxidase inhibitors (MAOIs), which would permit orally ingested DMT
-to cross the blood-brain barrier and exert its visionary effects.
-This pharmacological synergy between the [[turner-harmala-alkaloids-preparation-and-dosage]] and DMT
-is the same mechanism that underlies the activity of [[ayahuasca-botany-and-preparation]]
-preparations used by other Amazonian peoples.
-
-## The Tsentsak Spirit Helpers
-
-Central to [[harner-jivaro-shamanism-yage]] is the concept of tsentsak, or "spirit
+[[psilocybin-mushroom-biology-chemistry]], [[turner-harmala-alkaloids-preparation-and-dosage]] and DMT
+is the same mechanism that underlies the activity of [[harner-jivaro-shamanism-yage]] is the concept of tsentsak, or "spirit
 helpers" -- magical darts that are the main supernatural forces
 believed to cause illness and death in daily life. To the non-shaman
 these spirit helpers are normally invisible, and even shamans can
@@ -118,8 +107,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[shamanism]]
 - [[ayahuasca]]
-- [[doc]]
 - [[harmine]]
 - [[psilocybin]]

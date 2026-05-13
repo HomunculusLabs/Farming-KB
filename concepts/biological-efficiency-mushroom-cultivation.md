@@ -7,20 +7,9 @@ updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/unknown-oyster-mushroom-cultivation.md]
 type: concept
 ---
-# Biological Efficiency in Mushroom Cultivation Biological efficiency (BE) is the standard metric for evaluating mushroom cultivation performance. It expresses the fresh weight of harvested mushrooms as a percentage of the dry weight of the substrate used. A BE of 100% means that one kilogram of dry substrate produced one kilogram of fresh mushrooms. This metric allows comparison across different species, substrates, cultivation methods, and growing conditions. ## Definition and Calculation Biological efficiency is calculated as: ``` BE (%) = (Fresh weight of mushrooms / Dry weight of substrate) × 100 ``` For example, if 10 kg of dry straw substrate produces 12 kg of fresh mushrooms, the biological efficiency is 120%. This seemingly impossible-sounding number reflects the fact that mushrooms are approximately 90% water, so the actual dry matter conversion is much lower than the BE suggests. ## BE by Mushroom Species Different mushroom species achieve characteristically different biological efficiencies under optimal conditions: | Species | Typical BE Range | |---------|-----------------| | [[growing-gourmet-pleurotus-sajor-caju-taxonomic-confusion]] | 80-130% |
-| [[pleurotus-eryngii]] | 40-80% |
-| [[agaricus-bisporus]] | 60-100% |
+# Biological Efficiency in Mushroom Cultivation Biological efficiency (BE) is the standard metric for evaluating mushroom cultivation performance. It expresses the fresh weight of harvested mushrooms as a percentage of the dry weight of the substrate used. A BE of 100% means that one kilogram of dry substrate produced one kilogram of fresh mushrooms. This metric allows comparison across different species, substrates, cultivation methods, and growing conditions. ## Definition and Calculation Biological efficiency is calculated as: ``` BE (%) = (Fresh weight of mushrooms / Dry weight of substrate) × 100 ``` For example, if 10 kg of dry straw substrate produces 12 kg of fresh mushrooms, the biological efficiency is 120%. This seemingly impossible-sounding number reflects the fact that mushrooms are approximately 90% water, so the actual dry matter conversion is much lower than the BE suggests. ## BE by Mushroom Species Different mushroom species achieve characteristically different biological efficiencies under optimal conditions: | Species | Typical BE Range | |---------|-----------------| | [[pleurotus-eryngii]] | 40-80% |
 | [[volvariella-volvacea]] | 20-40% |
-[[query-how-to-grow-oyster-mushrooms-at-home]] generally achieve the highest BE values among cultivated
-species, reflecting their efficient enzymatic degradation of
-lignocellulosic materials.
-
-## Factors Affecting Biological Efficiency
-### Substrate Composition
-The type and quality of substrate material is the primary determinant of
-BE. Key substrate factors include:
-- **Carbon-to-nitrogen ratio**: Optimal range is 30-50:1 for most
-  Pleurotus species. Ratios above 80:1 limit [[brassinosteroid-psilocybe-cubensis-mycelial-growth-research]]; ratios
+[[brassinosteroid-psilocybe-cubensis-mycelial-growth-research]]; ratios
   below 20:1 favor contaminant growth.
 - **Lignin content**: Higher lignin substrates (hardwood sawdust) support
   slower but more sustained fruiting compared to cellulose-rich substrates
@@ -60,28 +49,13 @@ Accounts for the actual dry matter conversion by using dried mushroom
 weight in the calculation. True BE values are typically 8-12% of standard
 BE due to the high water content of fresh mushrooms.
 ### Economic Efficiency
-Measures return on investment by relating revenue to [[fukuoka-textdoc-production-costs-not-coming-down]].
-Lower-BE systems may be more profitable if substrate costs are negligible
-(e.g., [[fungi-in-composting-and-agricultural-waste-conversion]] utilization).
+Measures return on investment by relating revenue to [[fungi-in-composting-and-agricultural-waste-conversion]] utilization).
 ### Space Efficiency
 Yield per unit growing area or volume, critical for operations where
 space is the primary constraint.
 ### Time Efficiency
 Yield per unit time from inoculation to final harvest. Fast-cycling
-species like [[pleurotus-ostreatus]], common substrate BE values include:
-| Substrate | BE Range |
-|-----------|----------|
-| Wheat straw | 60-100% |
-| Rice straw | 50-90% |
-| Sawdust + bran (10%) | 80-120% |
-| Sugarcane bagasse | 50-80% |
-| Coffee pulp | 40-70% |
-| Cotton waste | 70-110% |
-Values represent typical ranges under reasonable conditions.
-
-## See Also
-- [[mushroom-cultivation]]
-- [[oyster-mushroom-cultivation-methods]]
+species like [[mushroom-cultivation]]
 - [[mushroom-substrate-preparation]]
 - mushroom-spawn-production
 
@@ -114,8 +88,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[mushroom-cultivation]]
 - [[biological-efficiency]]
-- [[doc]]
 - [[det]]
 - [[composting]]

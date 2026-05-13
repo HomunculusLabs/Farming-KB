@@ -52,18 +52,8 @@ dilution factor 6. Sample at initiation, 30 minutes, 1 hour, 3 hours, 6 hours,
 
 ### Biological Pathogens
 
-- Oyster and [[cotter-king-stropharia-cultivation]]: Effective against fecal
-  coliforms
-- [[comparison-chaga-vs-turkey-tail-medicinal-mushrooms-comprehensive]]
-  ([[staycare-trametes-versicolor-bioremediation-applications]]): Antibacterial
-  activity
-- Hericium spp.: Inhibits Staphylococcus and other bacterial species
-- Hypholoma spp.: Effective at lower temperatures
-
-### Dyes and Textile Waste
-
-- Hericium: Treatment of paper bleaching and dye waste
-- [[query-how-to-grow-oyster-mushrooms-at-home]]: Originally researched for
+- Oyster and [[comparison-chaga-vs-turkey-tail-medicinal-mushrooms-comprehensive]]
+  ([[query-how-to-grow-oyster-mushrooms-at-home]]: Originally researched for
   indigo carmine remediation from textile mills
 
 ## Mycofiltration System Design
@@ -72,21 +62,7 @@ Mycofiltration uses living fungal mats to filter and remediate water as it
 passes through. A typical installation consists of layered substrate bags or
 berms placed in the path of contaminated water flow. The primary mushroom
 species used are oyster mushrooms (Pleurotus ostreatus) for their aggressive
-mycelial growth and broad [[fungal-enzymatic-capabilities]]. Substrate preparation follows
-standard mushroom cultivation protocols using pasteurized straw, sawdust, or
-wood chips. The mycelium is allowed to fully colonize the substrate before
-deployment. For stormwater runoff, mycofiltration barriers are placed in swales
-or drainage channels. For agricultural runoff, they are positioned between
-fields and waterways. System longevity depends on flow rates, contaminant loads,
-and seasonal conditions, typically requiring replacement every 1-2 growing
-seasons.
-
-## Heavy Metal Accumulation
-
-Certain fungal species can concentrate heavy metals from contaminated substrates.
-Oyster mushrooms (Pleurotus spp.) have demonstrated the ability to accumulate
-cadmium, lead, and mercury from contaminated soil and water. Shaggy mane
-([[coprinus-comatus]]) shows particular affinity for selenium and arsenic
+mycelial growth and broad [[coprinus-comatus]]) shows particular affinity for selenium and arsenic
 bioaccumulation. The metals are primarily sequestered in the fungal cell wall
 
 ## Practical Applications
@@ -118,8 +94,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[mycoremediation-techniques]]
 - [[mycoremediation]]
-- [[pleurotus-ostreatus]]
 - [[substrate-preparation]]
 - [[det]]

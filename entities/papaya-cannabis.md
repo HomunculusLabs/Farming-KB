@@ -26,10 +26,7 @@ sources:
 
 ### Parent Strains
 
-- **Citral #13:** An indica-dominant strain known for its strong citrus and tropical aroma. Pakistani and Afghani landrace ancestry provides the dominant flavor characteristics, [[cannabis-glandular-trichome-types-resin-production-clarke]], and physical sedation traits.
-- **Ice #2:** A hybrid selected for high trichome production and frosty appearance. Contributes increased potency, resin yield, and a subtle sweetness that rounds out Citral #13's sharp citrus notes. The "Ice" lineage also adds structural vigor and disease resistance.
-
-**Genetic ratio:** Approximately 75% indica / 25% sativa, clearly expressed in plant morphology, [[what-a-plant-knows-photoperiodism-flowering-time-measurement]], and effects profile.
+- **Citral #13:** An indica-dominant strain known for its strong citrus and tropical aroma. Pakistani and Afghani landrace ancestry provides the dominant flavor characteristics, [[what-a-plant-knows-photoperiodism-flowering-time-measurement]], and effects profile.
 
 ## Aroma and Flavor Profile
 
@@ -47,39 +44,13 @@ Smooth, sweet smoke with prominent tropical fruit on inhalation — ripe papaya 
 - Deep physical relaxation spreading from neck and shoulders downward
 - Mild euphoria and contentment without intense cerebral stimulation
 - Pronounced anxiolytic (anti-anxiety) properties
-- Significant [[cannabis-for-cachexia-and-appetite-stimulation]] (munchies)
-- Muscle tension relief and anti-spasmodic properties
-
-**Secondary effects:** Drowsiness at higher doses, enhanced [[plant-sensory-perception]] of taste and music, mild creative introspection, sociability in comfortable settings.
+- Significant [[plant-sensory-perception]] of taste and music, mild creative introspection, sociability in comfortable settings.
 
 **Potential negative effects:** Dry mouth (cottonmouth), dry eyes, dizziness at higher doses, couch-lock with heavy consumption, mild paranoia in sensitive individuals or at very high doses.
 
 ## Medicinal Applications
 
-- **[[cannabis-chronic-pain-management]]:** Effective analgesic for musculoskeletal, neuropathic, and inflammatory pain conditions
-- **Insomnia:** Sedative properties make it useful as a sleep aid (consume 1–2 hours before bed)
-- **Anxiety and stress:** Calming effects help reduce generalized anxiety and stress-related symptoms
-- **Appetite loss:** Strong stimulation benefits patients with nausea, medication-induced suppression, or eating disorders
-- **Muscle spasms:** Anti-spasmodic properties help with conditions involving muscle tension
-- **PTSD:** Grounding, relaxing effects reported beneficial for trauma-related symptoms
-
-## Cannabinoid Profile
-
-- **THC:** 18–25% (some phenotypes have tested higher)
-- **CBD:** < 1% (generally very low)
-- **CBN:** Low to moderate, increasing with age and proper curing
-
-The high [[thc-content-factors-cultivation-freshness-storage-degradation-blesching]] combined with indica-dominant [[cannabis-terpene-profile]] makes Papaya relatively potent — novice consumers should start with small doses (1–2 puffs or a low-dose edible).
-
-## Plant Characteristics
-
-**Morphology:** Medium-short (80–120 cm indoor), compact bushy growth with strong lateral branching. Broad dark green indica leaflets. Short internodal spacing producing a dense canopy. Heavy trichome coating giving buds a frosty, crystalline appearance.
-
-**Flowering:** 8–9 weeks indoor; early to mid-October outdoor (Northern Hemisphere). Yield: 350–450 g/m² indoor under optimal conditions.
-
-**Buds:** Dense, chunky, tightly packed — characteristic of indica-dominant varieties. Bright orange to reddish pistils (hairs). Heavy frosty trichome coverage. Occasional purple highlights in cooler growing conditions.
-
-**Cultivation notes:** Moderately easy, suitable for intermediate growers. Responds well to SCROG and LST. Prefers moderate nutrients — avoid overfeeding. Resistant to most molds and pests, though dense buds require good airflow to prevent [[bud-rot-cannabis]]. Benefits from lower humidity (45–55%) during late flowering. Warm temperatures (22–28°C) optimize terpene production. Performs well in both soil and hydroponic systems.
+- **[[thc-content-factors-cultivation-freshness-storage-degradation-blesching]] combined with indica-dominant [[bud-rot-cannabis]]. Benefits from lower humidity (45–55%) during late flowering. Warm temperatures (22–28°C) optimize terpene production. Performs well in both soil and hydroponic systems.
 
 **Growing tips:** Top early and use LST to create even canopy. Increase P/K during flowering; reduce nitrogen weeks 6–8 for cleaner flavor. Allow 5–8°C night temperature drop for enhanced terpenes. Flush 1–2 weeks before harvest. Harvest at 10–20% amber trichomes for balanced effect; 30%+ amber for more sedation.
 
@@ -88,3 +59,88 @@ The high [[thc-content-factors-cultivation-freshness-storage-degradation-bleschi
 Several distinct phenotypes of Papaya circulate among growers, showing variation in:
 
 - **Color expression:** Some phenotypes develop deep purple hues in cooler nighttime temperatures (below 15°C), particularly in the last 2–3 weeks of flowering. This anthocyanin production is aesthetic and does not significantly affect potency or flavor.
+
+## Overview
+
+Papaya Cannabis represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish papaya cannabis
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving papaya extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Papaya Cannabis finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for papaya cannabis. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+papaya cannabis and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Papaya Cannabis has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of papaya cannabis into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[blesching-cannabis-vasopressin-aggression]]
+- [[carica-papaya]]
+- [[green-cannabis-grow-bible-species-indica-sativa-ruderalis]]
+- [[lemon-haze-cannabis]]
+- [[query-how-to-harvest-and-cure-cannabis-for-best-flavor]]

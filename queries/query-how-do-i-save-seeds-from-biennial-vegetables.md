@@ -13,23 +13,12 @@ Biennial vegetables produce seeds in their second year of life, not their
 first. This means you must keep plants alive through winter and allow them to
 flower the following spring. The key challenges are winter survival, isolation
 distance to prevent cross-pollination, and patience — some biennials take up
-to 18 months from sowing to [[query-how-to-use-diatomaceous-earth-in-the-garden]] through winter with
-minimal protection. Mulch heavily with straw or leaves after the first hard
-frost. Carrots, parsnips, and beets are particularly cold-tolerant and can
-survive in the ground down to about -10°C if well-mulched. The roots may
-suffer some damage, but the plants recover and flower in spring.
-
-### Digging and Storing (Cold Climates)
-
-In zones 6 and colder, dig roots before hard freezing, trim foliage to 2-3 cm,
-and store in cool, humid conditions (1-4°C, 85-95% humidity). [[plant-propagation-techniques]] for storage best practices.
+to 18 months from sowing to [[plant-propagation-techniques]] for storage best practices.
 
 ## Key Points
 
 - Biennial vegetables need two growing seasons and a cold period to produce
-  seed — see [[comparison-heirloom-vegetable-varieties-vs-seed-saving-techniques]] and plant breeding for techniques.
-- In cold climates, dig roots before hard freeze and store at 1-4°C in damp
-  sand or sawdust, then replant in [[coleman-overwintered-onions-and-early-spring-crops]].
+  seed — see [[coleman-overwintered-onions-and-early-spring-crops]].
 - Most biennials are outcrossing and need 500-800m isolation to maintain
   purity; beets/chard and all brassicas will cross within their species.
 - Select seed from the best plants — ideal size, shape, disease resistance,
@@ -39,11 +28,7 @@ and store in cool, humid conditions (1-4°C, 85-95% humidity). [[plant-propagati
 
 ## Related Questions
 
-- query what is the difference between heirloom and [[heirloom-vs-hybrid-seeds-comparison]]
-
-## See Also
-
-- [[query-what-is-the-difference-between-regular-feminized-and-autoflower-seeds]]
+- query what is the difference between heirloom and [[query-what-is-the-difference-between-regular-feminized-and-autoflower-seeds]]
 ## Practical Considerations
 
 When working with How Do I Save Seeds from Biennial Vegetables?, several practical factors should be

@@ -1,7 +1,7 @@
 ---
 title: Mckenna Cognitive Dissonance Translinguistic Object
 source: mckenna_t-tryptamines_consciousness.md
-author: [[terence-mckenna]]
+author: terence-mckenna
 tags: [cognitive-dissonance, translinguistic, dmt, language, wonder, glossolalia, cognition]
 created: 2026-05-08
 ---
@@ -10,8 +10,7 @@ created: 2026-05-08
 
 ## Overview
 
-[[mckenna-heraclitus-aeon-child-play-tryptamine-ecstasy]]
-- [[mckenna-tryptamines-logos-consciousness]]
+[[mckenna-tryptamines-logos-consciousness]]
 
 ## References
 
@@ -88,3 +87,7 @@ Understanding the range of possible applications helps practitioners
 identify opportunities for implementation in their own contexts.
 
 Integration with other systems and approaches often yields the most
+
+## See Also
+
+- [[mckenna-translinguistic-objects-cognitive-dissonance-tryptamine]]

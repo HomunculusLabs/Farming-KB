@@ -23,22 +23,7 @@ IBS is classified according to the primary symptoms displayed by each patient:
 - **IBS-A**: Alternating diarrhea with constipation
 - **IBS-PI**: Post-infectious IBS
 
-[[cannabis-and-ulcerative-colitis]] is a form of IBD that can affect other body parts as well. Crohn's disease, another form of IBD, is an autoimmune disorder affecting the gastrointestinal tract.
-
-### Symptoms
-
-Other frequently observed symptoms may include:
-
-- Abdominal discomfort (gas, bloating, cramps)
-- Sensation of incomplete void of stool
-- Gastro-esophageal reflux disease (GERD)
-- Anxiety and depression
-- Pain (abdominal, back, head, muscle)
-- Increased generalized weakness and lack of energy
-
-### Orthodox Treatment
-
-Physicians manage the disease with dietary modifications, pharmaceutical medications, and referrals to psychotherapy. Canadian researchers conducted a meta-analysis of all randomized controlled trials and reported that fiber, antispasmodics, and peppermint oil exhibited greater effectiveness than a placebo in the treatment of blesching [[blesching-cannabis-irritable-bowel-syndrome]].
+[[blesching-cannabis-irritable-bowel-syndrome]].
 
 ## Cannabis and IBD/IBS: Evidence Base (CHI Value 8, 3 Studies Reviewed)
 
@@ -54,11 +39,7 @@ Italian researchers (2010) conducted a meta-analysis/review of the available pre
 
 **Boston Researchers (2006):**
 
-Tested numerous novel molecules that exert their biological effects through the endocannabinoid system. The results suggested a [[blesching-cannabis-inflammatory-diseases]] such as IBD.
-
-**Alberta, Canada (2008):**
-
-Researchers showed that cannabinoids reduced colitis in test animals. The scientists concluded that "drugs targeting EC degradation offer [[metzner-ayahuasca-therapeutic-potential]] in the treatment of inflammatory bowel diseases."
+Tested numerous novel molecules that exert their biological effects through the endocannabinoid system. The results suggested a [[metzner-ayahuasca-therapeutic-potential]] in the treatment of inflammatory bowel diseases."
 
 **Naples, Italy (2008):**
 
@@ -68,19 +49,7 @@ An experiment indicated that CBD could reduce hypermotility in mice. Based on th
 
 While research has discovered both CB1 and CB2 in parts of the gastrointestinal tract, patients with Crohn's disease reported that indica strains worked especially well for them in reducing pain, nausea, vomiting, depression, in permaculture, and lack of sleep. This observation may be supported, in part, by the pre-clinical trial from Naples, which showed that CBD could reduce hypermotility (abnormally high activity) in the guts of mice.
 
-Indicas or indica-heavy strains tend to have a lower THC:[[cannabis-thc-cbd-ratio-guide-for-conditions]] when compared to sativas, resulting in a relative increase in CB2 activation.
-
-## Mind-Body Medicine and IBD/IBS
-
-Two studies conducted by international teams of scientists using placebos demonstrated the significant therapeutic potential of belief in relieving IBS symptoms. A meta-analysis of studies on IBS revealed that "psychiatric disorders, especially major depression, anxiety, and somatoform disorders, occur in up to 94% of patients with IBS."
-
-### IBS-C (Constipation-Predominant)
-
-Consider: "Constipation occurs when an individual was grimly determined to carry on even though faced with a problem he could not solve." The authors concluded: "Constipation is a phenomenon of holding on without change." This corresponds to the patients' attitude of trying to continue with things as they are, without hope of immediate improvement or definite desire to do something different.
-
-### IBS-D (Diarrhea-Predominant)
-
-Consider: "Diarrhea occurred when an individual wanted to be done with a situation or to have it over with, or to [[query-how-to-get-rid-of-slugs-and-snails-organically]] of something or somebody."
+Indicas or indica-heavy strains tend to have a lower THC:[[query-how-to-get-rid-of-slugs-and-snails-organically]] of something or somebody."
 
 ### Nausea and Vomiting
 
@@ -117,8 +86,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[ayahuasca]]
 - [[doc]]
-- [[dom]]
 - [[det]]
 - [[soma]]

@@ -141,9 +141,10 @@ Artificial nesting structures supplement natural cavities, which are often limit
 
 ## Invasive Species Management
 
-Invasive plants degrade habitat by outcompeting natives and providing poor food value for wildlife. Common invasives to control:
-
 ## See Also
+
+- [[mollison-pdc-range-management-wildlife]]
+- [[query-how-do-i-design-a-farm-pond-for-irrigation-and-wildlife]]
 - [[hemenway-backyard-wildlife-habitat]]
-- [[habitat-nooks-for-garden-wildlife]]
-- [[amphibian-habitat-creation]]
+- [[query-how-do-i-create-a-wildlife-friendly-garden]]
+- [[savory-wildlife-livestock-integration]]

@@ -47,19 +47,7 @@ A single plant can produce up to 10,000 seeds annually. The seed bank persists f
 
 Yarrow has one of the widest natural distributions of any temperate herb, occurring across Europe, Asia, and North America. It is native from sea level to over 3,500 m elevation in alpine regions.
 
-The species thrives in grasslands, meadows, open woodlands, roadsides, and disturbed sites. It tolerates a broad range of soil conditions from sandy loams to clay, and from acidic to alkaline pH. [[dighton-fungal-drought-tolerance-plant-water-relations]] is excellent once established.
-
-Yarrow is considered an indicator species of moderately fertile, well-drained soils. It increases in abundance under moderate grazing pressure and is a characteristic component of semi-natural grasslands throughout its range.
-
-In grassland ecology, yarrow is classified as a competitive stress-tolerant ruderal (CSR strategy). It persists in both managed hay meadows and abandoned old fields, making it a reliable indicator of intermediate disturbance levels.
-
-The species has been introduced and naturalized in Australia, New Zealand, and southern South America. In some agricultural contexts, it is considered a persistent weed of pastures and hayfields.
-
-Taxonomic complexity within *A. millefolium* sensu lato has generated extensive debate. North American populations have been treated as distinct species (*A. lanulosa*, *A. borealis*) or as subspecies of *A. millefolium*. Molecular studies suggest a polyploid complex with multiple origins.
-
-## Bioactive Compounds and Pharmacology
-
-Yarrow contains a complex mixture of bioactive [[antifungal-secondary-metabolites-coprophilous-fungi]]. The essential oil (0.2–1.5% dry weight) is dominated by chamazulene, α-pinene, β-pinene, camphor, borneol, and eucalyptol.
+The species thrives in grasslands, meadows, open woodlands, roadsides, and disturbed sites. It tolerates a broad range of soil conditions from sandy loams to clay, and from acidic to alkaline pH. [[antifungal-secondary-metabolites-coprophilous-fungi]]. The essential oil (0.2–1.5% dry weight) is dominated by chamazulene, α-pinene, β-pinene, camphor, borneol, and eucalyptol.
 
 **Sesquiterpene lactones,** particularly achillin and millefin, contribute to the anti-inflammatory activity of aerial part extracts. These compounds inhibit prostaglandin synthesis and demonstrate in vitro activity against several cancer cell lines.
 
@@ -69,7 +57,7 @@ Yarrow contains a complex mixture of bioactive [[antifungal-secondary-metabolite
 
 Clinical evidence supports the use of yarrow preparations for appetite loss and dyspeptic complaints. The German Commission E and EMA have approved internal use for these indications based on traditional and pharmacological data.
 
-Topical applications of yarrow extracts and infusions are supported by in vitro evidence for antimicrobial activity against *Staphylococcus aureus* and *[[bloomfield-candida-albicans-yeast-hyphal-dimorphism]]*. The traditional use as a wound-healing herb is attributed to the combined astringent, anti-inflammatory, and [[mycelium-running-mushroom-antimicrobial-properties-species-chart]].
+Topical applications of yarrow extracts and infusions are supported by in vitro evidence for antimicrobial activity against *[[staphylococcus-aureus]]* and *[[mycelium-running-mushroom-antimicrobial-properties-species-chart]].
 
 ## Cultivation
 
@@ -81,10 +69,82 @@ Regular deadheading extends the flowering period and prevents self-seeding in ga
 
 In ornamental horticulture, numerous cultivars are available, including 'Paprika' (red flowers), 'Cerise Queen' (deep pink), 'Moonshine' (pale yellow), and 'Coronation Gold' (golden yellow). These selections vary in height from 30 cm to 90 cm.
 
-Yarrow attracts a wide range of [[comparison-beneficial-insects-guide-vs-integrated-pest-management]], including ladybirds, lacewings, hoverflies, and parasitic wasps. It is widely planted in ecological gardens and insectary strips for biological pest control.
-
-In permaculture design, yarrow is valued as a [[nutrient-dynamic-accumulator-reference]], with deep taproots that mine potassium, phosphorus, and copper from subsoil layers. The chopped foliage can be used as nutrient-rich mulch or added to compost piles.
+Yarrow attracts a wide range of [[nutrient-dynamic-accumulator-reference]], with deep taproots that mine potassium, phosphorus, and copper from subsoil layers. The chopped foliage can be used as nutrient-rich mulch or added to compost piles.
 
 ## Ecological Role
 
 Yarrow provides nectar and pollen for a broad spectrum of pollinators, including bees, butterflies, hoverflies, and beetles. Its prolonged flowering period from early summer to late autumn makes it a valuable resource for late-season foragers.
+
+## Overview
+
+Achillea Millefolium represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish achillea millefolium
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving achillea extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Achillea Millefolium finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for achillea millefolium. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+achillea millefolium and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Achillea Millefolium has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of achillea millefolium into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource

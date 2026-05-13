@@ -4,47 +4,8 @@
 
 In "The Natural Way of Farming," Masanobu Fukuoka presented one of his most
 philosophically radical ideas: the principle of non-causality. He argued
-that cause and effect, as understood by the [[fukuoka-limits-scientific-method-agriculture]], do not exist
-in nature. What appears to be causal relationships when viewed up close
-dissolves into a "tangled confusion" when examined holistically. This
-principle was not merely an abstract philosophical position but the
-intellectual foundation for his [[fukuoka-critique-of-scientific-agriculture]] agriculture and his
-advocacy of [[comparison-natural-farming-vs-permaculture]].
-
-## The Scientific Method's Limitations
-
-Fukuoka began his argument by outlining the four steps of the scientific
-method: focused observation, hypothesis formation, empirical verification,
-and acceptance as truth. He noted that this process begins with discrimination
-— breaking down and analyzing — and therefore the truths it grasps can never
-be absolute or universal. Scientific knowledge is by definition fragmented
-and incomplete. No matter how many fragments of incomplete knowledge are
-collected, they can never form a complete whole.
-
-The consequence, Fukuoka argued, was that science's understanding of nature
-was fundamentally misleading. "Man believes that the continued dissection and
-deciphering of nature enable broad generalizations to be made which give a
-full picture of nature, but this only breaks nature down into smaller and
-smaller fragments and reduces it to ever greater imperfection." The judgment
-that science understands nature and can improve upon it had, in Fukuoka's
-view, produced the opposite effect: making nature incomprehensible and
-drawing man away from its blessings.
-
-## The Infinite Regression of Causes
-
-Fukuoka demonstrated the problem with scientific causality through the
-example of soil acidity. When soil becomes acidic, the obvious response
-is to apply lime. But the lime deficiency may have been caused by erosion
-from repeated cultivation on ground exposed by weeding, or by rainfall
-patterns, or by temperature. Applying lime without understanding the
-underlying cause may actually worsen the problem by stimulating excessive
-plant growth that further depletes the soil.
-
-"Behind every cause lie countless other causes," Fukuoka wrote. "Any
-attempt to trace these back to their sources only leads one further away
-from an understanding of the true cause." The soil acidity example was
-not hypothetical. Fukuoka described his own experience of applying large
-quantities of sawdust and [[fukuoka-textdoc-sawdust-wood-chips-orchard-soil-acidification-experiment]] to his orchard over the objections
+that cause and effect, as understood by the [[fukuoka-critique-of-scientific-agriculture]] agriculture and his
+advocacy of [[fukuoka-textdoc-sawdust-wood-chips-orchard-soil-acidification-experiment]] to his orchard over the objections
 of soil experts, who predicted the resulting organic acids would make the
 soil dangerously acidic. In reality, the soil did not turn acid. As
 bacteria decomposed the sawdust, organic acids were produced; but as
@@ -61,9 +22,7 @@ infiltrate the plant, causing disease; therefore, applying bactericides
 controls the disease. Fukuoka showed that this analysis, while not
 incorrect at a surface level, was dangerously incomplete.
 
-High temperatures and heavy rainfall might be [[emcdda-hallucinogenic-mushroom-contributing-factors-megatrends]], as
-might excess nitrogen fertilizer, flooding during high temperatures, or
-low disease resistance in the [[fukuoka-old-rice-variety-testing]]. Even if excess nitrogen were
+High temperatures and heavy rainfall might be [[fukuoka-old-rice-variety-testing]]. Even if excess nitrogen were
 identified as a cause, understanding how it relates to bacterial attack
 required understanding photosynthesis, which science had not yet fully
 explained. Root rot might make plants susceptible, but defining what
@@ -118,8 +77,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[fukuoka-no-cause-and-effect-non-causality-principle]]
 - [[masanobu-fukuoka]]
-- [[doc]]
 - [[permaculture]]
 - [[fukuoka-non-causality-principle-in-nature]]

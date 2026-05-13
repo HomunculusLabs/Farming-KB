@@ -11,7 +11,7 @@ sources: []
 
 ## Overview
 
-Tropical gardening encompasses growing food and ornamental plants in regions near the equator where temperatures remain consistently warm (mean annual temperature above 64°F/18°C) and frost is absent. Tropical gardens can produce year-round harvests but face unique challenges including high humidity, heavy rainfall, pest and disease pressure, and rapid soil nutrient depletion. These systems overlap significantly with [[food-forest-design]] design and [[permaculture-design]] principles.
+Tropical gardening encompasses growing food and ornamental plants in regions near the equator where temperatures remain consistently warm (mean annual temperature above 64°F/18°C) and frost is absent. Tropical gardens can produce year-round harvests but face unique challenges including high humidity, heavy rainfall, pest and disease pressure, and rapid soil nutrient depletion. These systems overlap significantly with [[food-forest-design|food forest]] design and [[permaculture-design|permaculture]] principles.
 
 ## Tropical Climate Zones
 
@@ -55,7 +55,7 @@ Tropical gardens benefit enormously from emphasizing perennials:
 - Perennial vegetables require less replanting and soil disturbance
 - Tree crops provide shade, mulch, and food simultaneously
 - Perennial root crops (cassava, taro, yam) are calorie-dense staples
-- [[food-forest-design]] design is essentially a tropical concept adapted worldwide
+- [[food-forest-design|food forest]] design is essentially a tropical concept adapted worldwide
 
 ## Wet and Dry Season Management
 
@@ -97,7 +97,7 @@ Tropical gardens benefit enormously from emphasizing perennials:
 | Malanga (Xanthosoma) | 500 | 8-12 months | Similar to taro; more tolerant of dry conditions |
 
 ### Tropical Fruit Trees
-- **Banana and plantain**: Fast-growing; produce within 9-15 months; heavy potassium feeders
+- **[[banana-and-plantain-cultivation-and-variety-guide]]**: Fast-growing; produce within 9-15 months; heavy potassium feeders
 - **Papaya**: Bears fruit within 6-12 months from seed; short-lived (3-5 years)
 - **Citrus**: Oranges, lemons, limes, grapefruit; 2-5 years to fruiting
 - **Mango**: Large, long-lived tree; 3-6 years to fruiting
@@ -123,7 +123,7 @@ Tropical gardens benefit enormously from emphasizing perennials:
 - **Hot peppers**: Multiple species thrive in the tropics
 - **Cucumber**: Choose disease-resistant tropical varieties
 - **Cherry tomato**: More disease-resistant than large tomatoes in humid conditions
-- **Bitter melon (Momordica charantia)**: Cucurbit with medicinal properties
+- **Bitter melon ([[momordica-charantia]])**: Cucurbit with medicinal properties
 
 ## Disease Pressure
 
@@ -140,7 +140,7 @@ High humidity and warmth create ideal conditions for pathogens:
 - Remove and destroy infected plant material immediately
 - Use disease-resistant varieties when available
 - Rotate crop families to break disease cycles
-- Apply biological controls (Trichoderma, Bacillus subtilis)
+- Apply biological controls (Trichoderma, [[bacillus-subtilis]])
 
 ### Nematode Management
 Root-knot nematodes are among the most damaging tropical soil pests:

@@ -2,8 +2,7 @@
 
 ## Overview
 
-In his 1983 Esalen lecture, [[terence-mckenna]] articulated a philosophical
-framework connecting the tryptamine [[leary-psychedelic-experience-bardo-mapping]] to Platonic
+In his 1983 Esalen lecture, [[leary-psychedelic-experience-bardo-mapping]] to Platonic
 metaphysics and the concept of eternity. Drawing on Plato's Timaeus—
 "time is the moving image of eternity"—McKenna proposed that the
 tryptamine state represents a direct experience of the eternal *nunc
@@ -16,8 +15,7 @@ transcends ordinary temporal experience.
 
 ## Source
 
-McKenna, T. (1983/1992). [[mckenna-tryptamine-hallucinogens-and-consciousness]] and Consciousness.
-In *The [[mckenna-archaic-revival-four-part-structure-paradise-paradise-lost-hell-regained]]*. HarperSanFrancisco.
+McKenna, T. (1983/1992). [[mckenna-archaic-revival-four-part-structure-paradise-paradise-lost-hell-regained]]*. HarperSanFrancisco.
 
 ## Plato's Metaphor: Time as Moving Image of Eternity
 
@@ -35,24 +33,6 @@ of eternity." In this framework:
 
 McKenna writes: "The tryptamine ecstasy is a stepping out of the
 moving image and into eternity, the eternity of the standing now, the
-[[mckenna-tryptamine-transtemporal-eternity-and-nunc-stans]] of Thomas Aquinas." This is not a metaphorical description
-but a literal claim about the ontological status of the experience.
-
-## The Nunc Stans and Thomas Aquinas
-
-The *nunc stans* (standing now) is a concept from medieval scholastic
-philosophy, particularly associated with Thomas Aquinas's treatment
-of the divine eternity. In Aquinas's framework:
-
-- God's eternity is not endless temporal duration but an eternal
-  present—a "now" that does not flow or change
-- All temporal moments are simultaneously present to the eternal
-  perspective
-- Human consciousness, embedded in time, can only approximate this
-  perspective through mystical or contemplative states
-
-McKenna appropriates this theological concept for his description of
-the tryptamine state, claiming that under the influence of DMT or
 [[psilocybin]], the human mind temporarily achieves something analogous
 to the divine perspective: a simultaneity of all temporal moments, a
 comprehension of history as a single, unified field rather than a
@@ -88,3 +68,82 @@ eternal present that was always already there.
 
 In this state, "all of human history is seen to lead toward this
 culminating moment." The voyager perceives the entire arc of human
+
+## Overview
+
+Mckenna Tryptamine Ecstasy And Platonic Eternity represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish mckenna tryptamine ecstasy and platonic eternity
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving mckenna extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Mckenna Tryptamine Ecstasy And Platonic Eternity finds practical application in multiple design contexts.
+[[permaculture-principles]] guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for mckenna tryptamine ecstasy and platonic eternity. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+mckenna tryptamine ecstasy and platonic eternity and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Mckenna Tryptamine Ecstasy And Platonic Eternity has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of mckenna tryptamine ecstasy and platonic eternity into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also

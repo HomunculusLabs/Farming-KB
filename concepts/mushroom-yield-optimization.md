@@ -9,15 +9,15 @@ sources: []
 
 ## Overview
 
-Yield optimization [[contamination-prevention-in-mushroom-cultivation]] is the practice of maximizing the dry weight of harvested mushrooms per unit of substrate and effort. While individual grows vary, systematic attention to genetics, [[cotter-compost-substrate-preparation-manure-mushroom-cultivation]], environmental conditions, and harvesting technique can consistently produce above-average results. This page covers the key factors that influence yield and practical strategies for improvement.
+Yield optimization in [[mushroom-cultivation]] is the practice of maximizing the dry weight of harvested mushrooms per unit of substrate and effort. While individual grows vary, systematic attention to genetics, [[substrate-preparation]], environmental conditions, and harvesting technique can consistently produce above-average results. This page covers the key factors that influence yield and practical strategies for improvement.
 
 ## Understanding Biological Efficiency
 
-Biological efficiency (BE) is the standard metric [[grass-seed-substrate-for-mushroom-cultivation]] yield:
+Biological efficiency (BE) is the standard metric for mushroom cultivation yield:
 
 BE = (dry weight of mushrooms / dry weight of substrate) x 100
 
-[[miniculture-rye-grain-cultivation-method-for-psilocybe-cubensis]]:
+For Psilocybe cubensis:
 - Average BE: 75-100%
 - Good BE: 100-150%
 - Excellent BE: 150-200%+
@@ -71,7 +71,7 @@ The only way to confirm yield potential is to fruit the isolate. Maintain a mast
 Adding 5-10% nitrogen-rich supplements can increase yield by 20-50%:
 
 - **Wheat bran**: Most popular supplement. Add 5-10% by volume. Requires proper pasteurization.
-- **[[oyster-mushroom-coffee-grounds-cultivation]]**: 5-10% by volume. Can be added to bucket tek.
+- **Coffee grounds**: 5-10% by volume. Can be added to bucket tek.
 - **Soy hulls**: Excellent supplement, especially for oyster mushrooms. Less commonly used for cubensis.
 - **Blood meal**: 2-5% by volume. Very high nitrogen.
 
@@ -121,7 +121,7 @@ Mushrooms grow in "flushes" — distinct waves of fruiting separated by rest per
 
 ### First Flush Optimization
 
-- Allow full colonization before introducing [[fruiting-conditions]].
+- Allow full colonization before introducing fruiting conditions.
 - Introduce a "consolidation period" of 5-7 days after full colonization before fruiting. This allows the mycelium to strengthen its hold on the substrate.
 - Do not harvest early — let mushrooms mature fully for maximum dry weight.
 - Harvest all mushrooms in the flush at once (or within 24 hours of each other) to trigger the next flush cleanly.

@@ -15,9 +15,7 @@ sources:
 
 ## International Recognition
 
-Fukuoka's impact was evident during his travels. At the international conference at Olympic College in Washington, he was introduced as an advocate of [[comparison-natural-farming-vs-permaculture]] "which rejects the tenets of modern science and is founded on the philosophy of nothingness." He shared the stage with Bill Mollison (permaculture) and Wes Jackson (sustainable agriculture) -- the "Three Don Quixotes" of alternative agriculture.
-
-At UC Santa Cruz, 800 people packed the hall for his talk, half of them backers of the "nature movement" gathered from many different countries. A prominent professor of religion and philosophy declared that Fukuoka had overthrown the foundations of modern [[fukuoka-illusions-scientific-farming-centrifugal-centripetal-model]]: "I welcome Fukuoka's natural philosophy and farming as the prototype for a new age."
+Fukuoka's impact was evident during his travels. At the international conference at Olympic College in Washington, he was introduced as an advocate of [[fukuoka-illusions-scientific-farming-centrifugal-centripetal-model]]: "I welcome Fukuoka's natural philosophy and farming as the prototype for a new age."
 
 At UC Davis, the leading agricultural science university in the U.S., students were leading the faculty in new directions, running a student farm aimed at natural farming.
 
@@ -33,7 +31,7 @@ A New York Review Books Classics edition was published in 2009, introducing the 
 
 ### Japan
 
-In Japan, Fukuoka promoted the idea that every family should have a quarter-acre of land on which to live and grow food. The [[natural-way-of-farming-guide]]. The book's philosophical alignment with Indian traditions -- particularly Buddhism and Vedanta -- made it especially influential in India. See [[natural-way-of-farming-guide]] and natural [[fukuoka-orchard-management-detailed]] across France, Germany, and Italy. The European permaculture movement, building on the work of Bill Mollison and David Holmgren, frequently cited Fukuoka as a foundational influence alongside [[permaculture-principles]] are striking: both emphasize observation over intervention, polyculture over monoculture, and working with natural patterns rather than imposing external designs.
+In Japan, Fukuoka promoted the idea that every family should have a quarter-acre of land on which to live and grow food. The [[natural-way-of-farming-guide]] and natural [[permaculture-principles]] are striking: both emphasize observation over intervention, polyculture over monoculture, and working with natural patterns rather than imposing external designs.
 
 ## The Sunday Markets
 
@@ -63,29 +61,7 @@ The book has generated numerous memorable quotes that have become touchstones fo
 
 - "There is no need for plowing, no need for fertilizer, no need for pesticides, and no need for weeding."
 
-Wendell Berry, the American poet and farmer, praised Fukuoka's work as one of the most important agricultural texts of the [[coleman-louis-savier-twentieth-century-maraicher]]. Bill Mollison considered Fukuoka a key intellectual ancestor of permaculture.
-
-## The Desert Greening Vision
-
-Fukuoka's ultimate vision -- scattering seeds over the world's deserts from airplanes -- captured imaginations globally. During his American trip, a pilot in Ashland, Oregon offered his plane for seed sowing. A woman offered 750 acres of wasteland for testing. Groups of botanists in Washington and California collected seeds of primitive vegetables and native plants for desert greening efforts. The director of the Paleobotanical Gardens in San Francisco promised to collect seeds of plants suited for desert growth.
-
-This vision reached the United Nations: Henri Lucy, a Frenchman living in Africa, learned of Fukuoka's work and proposed to the U.N. that seeds be sown by airplane for desert revegetation. Lucy's wife's brother, an industrialist who owned several airplanes, offered to provide a half-year of supplies for the project.
-
-## Philosophical Impact
-
-Beyond agriculture, Fukuoka's philosophy influenced religious and philosophical thinkers. His closing statement at the Santa Cruz conference called for a "Human Charter for the Twenty-First Century" -- a gathering of sages from all religions, philosophies, and sciences to draw up principles for creating "true men -- simple, people of non-action who return to nature."
-
-## Relationship to Fukuoka's Other Works
-
-*The One-Straw Revolution* was Fukuoka's first and most widely read book, but it was followed by several other important works. *The Natural Way of Farming* (1985) provided a more technical and philosophical elaboration of his methods. *The Road Back to Nature* (1987) documented his global travels and observations. Together, these works form a complete body of thought: the first book introduces the philosophy, the second deepens it, and the third tests it against diverse global conditions.
-
-## The Japanese Kitchen Garden Movement
-
-In Japan, Fukuoka promoted the idea that every family should have a quarter-acre of land on which to live and grow food. In America, he was surprised to learn that many zoning laws prohibited building on such small lots, but that the large yards common in American homes could potentially meet all of a family's food needs through natural home gardens.
-
-## Legacy in the 21st Century
-
-As of the 2020s, Fukuoka's influence continues to grow. The global [[natural-way-of-farming-guide]] on millions of acres, and the mainstreaming of regenerative agriculture principles all reflect the intellectual foundation that *The One-Straw Revolution* helped establish. Climate change and soil degradation have made Fukuoka's warnings about [[fukuoka-critique-scientific-agriculture-civilization]] more urgent than ever. His vision of agriculture as a partnership with nature, rather than a domination of it, continues to inspire new generations of farmers, researchers, and food system reformers [[fungi-around-the-world-species-distribution]].
+Wendell Berry, the American poet and farmer, praised Fukuoka's work as one of the most important agricultural texts of the [[natural-way-of-farming-guide]] on millions of acres, and the mainstreaming of regenerative agriculture principles all reflect the intellectual foundation that *The One-Straw Revolution* helped establish. Climate change and soil degradation have made Fukuoka's warnings about [[fungi-around-the-world-species-distribution]].
 
 ## See Also
 
@@ -118,8 +94,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[doc]]
 - [[dom]]
-- [[det]]
 - [[bill-mollison]]
 - [[permaculture]]

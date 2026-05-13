@@ -22,92 +22,94 @@ All DO compounds derive from 2,5-dimethoxyamphetamine (2,5-DMA), which itself is
 
 Key members documented in PiHKAL include:
 
-- [[dom-compound-profile]] (4-methyl) -- dosage 3-10 mg, duration 14-20 h
-- DOI (4-iodo) -- dosage 1.5-3 mg, similar duration to DOB
-- DON (4-nitro) -- dosage 3-5 mg
-- DOET (4-ethyl) -- dosage 2-6 mg, duration 14-20 h
-- DOBU (4-butyl) -- active at unknown dosage
-- DOPR (4-propyl) -- dosage 2.5-5 mg, duration 20-30 h
-
-## Potency and Duration Patterns
-
-The DO-family consistently produces among the longest durations of action of any psychedelic compounds. Shulgin noted several patterns:
-
-- The propyl compound DOPR is "probably the most potent of the DO-series" in animal assays
-- Durations of 18-30 hours are common across the family
-- Potency generally increases with the size of the halogen substituent (F < Cl < Br < I), though fluorine requires indirect synthesis methods
-- The isopropyl isomer DOIP is dramatically less potent than the normal-propyl DOPR -- by one to two orders of magnitude
-
-## Pharmacological Properties
-
-### Radioisotope Research
-
-The presence of heavy atoms (bromine, iodine) in compounds like DOB and DOI makes radioactive isotope-labeled versions powerful research tools. Studies with DOB labeled with 82Br or 77Br have been used in human subjects with whole-body scanners. A key finding: DOB goes first and foremost to the human lung, where it accumulates for a couple of hours before brain levels build up. This strongly implies metabolic conversion occurs in the lung before the truly active metabolite reaches the central nervous system. This is consistent with the relatively slow onset and very long duration of action.
-
-### Animal Models and Limitations
-
-Shulgin expressed deep skepticism about animal models for assessing psychedelic activity. In the TMA-5 commentary, he outlined the fundamental problem: animal studies depend on assuming the first ten "known" psychedelics are indeed psychedelic -- a determination that can only come from human trials. If the initial inputs are flawed, the entire screening system fails.
-
-### Therapeutic Index
-
-For DOB, Shulgin calculated a therapeutic index (LD50/effective dose) of well over 1000 in mice, but noted that the actual safety margin in humans is likely much lower. The death of a young woman who snorted what she believed was MDA (receiving over 9 mg of DOB recovered post-mortem) illustrates the dangers of misidentification.
-
-## Qualitative Character
-
-Shulgin described the DO-family as "heavy duty psychedelics" that say to you: "Forget all that stuff about screening out visuals, and then proceeds to prove it." DOPR in particular was noted for producing a "hypnogogic" quality -- a drifting into a place between not-quite-awake and not-quite-asleep, with suggestions of the out-of-body character seen with dissociative agents like scopolamine or ketamine.
-
-## Template Compounds and Derivative Series
-
-The 2,5-dimethoxy pattern served as a template for derivative series:
-
-- The 2C-X phenethylamine family (2C-B, 2C-I, 2C-C, etc.) represents the two-carbon chain counterparts
-- The Aleph compounds represent another 4-position substitution series on the same skeleton
-- The gamma-series (psi-series) based on TMA-6's 2,4,6-pattern represents a parallel template system
-
-## Historical Context
-
-DOB was first prepared in 1967, with its unprecedented potency published in 1971. Multiple independent papers appeared almost simultaneously. The compound later appeared in the illicit drug trade, where misidentification with MDA led to dangerous overdoses, since a dose appropriate for MDA (100+ mg) would be many times the active dose of DOB (1-3 mg).
-
-## Safety Considerations
-
-The extreme potency and long duration of DO-family compounds creates unique risks:
-- Difficulty with dose measurement at milligram levels
-- No way to "abort" an experience lasting 20+ hours
-- Reports of arterial vascular spasm in overdose cases
-- The risk of misidentification with less potent substances
-
-## Related Topics
-
 - [[bod-pihkal-entry-14]]
 
-- [[phenethylamine-receptor-pharmacology]]
 - [[2c-family-compounds-overview]]
-- [[aleph-family-overview]]
+- [[doc]]
+- [[det]]
+- [[scopolamine]]
+
+## Overview
+
+Do Family Compounds Pihkal represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish do family compounds pihkal
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving do extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
 
 ## Practical Applications
 
-The principles and techniques discussed here have wide-ranging applications
-across multiple disciplines and contexts. Practitioners and researchers
-continue to explore new ways to integrate these concepts into modern practice,
-adapting traditional knowledge to contemporary challenges and opportunities.
+Do Family Compounds Pihkal finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
 
-## Key Considerations
+## Management and Implementation
 
-Several important factors influence the effectiveness and outcomes described
-in this topic. Understanding these considerations helps practitioners make
-informed decisions and avoid common pitfalls. Environmental conditions,
-timing, and material selection all play critical roles.
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
 
-## Common Challenges
+## Regional Considerations
 
-Practitioners frequently encounter several challenges when working with
-these concepts. Climate variability, resource limitations, and knowledge
-gaps can all affect outcomes. Addressing these challenges requires patience,
-observation, and a willingness to adapt approaches based on results.
+Different geographic regions present unique challenges and
+opportunities for do family compounds pihkal. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+do family compounds pihkal and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Do Family Compounds Pihkal has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of do family compounds pihkal into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
 
 ## See Also
-- [[doc]]
-- [[dom]]
-- [[det]]
-- [[mda]]
-- [[scopolamine]]
+
+- [[aleph-family-overview]]
+- [[pihkal-mda-family]]
+- [[shulgin-a-pihkal-the-2c-family-of-phenethylamines]]
+- [[solomon-cucurbit-family-growing-squash-melons-cucumbers]]
+- [[tryptamine-family-overview]]

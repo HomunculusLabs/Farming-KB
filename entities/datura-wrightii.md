@@ -16,53 +16,13 @@ sources:
 
 # Datura wrightii
 
-**Datura wrightii** Regel, commonly known as sacred datura, angel's trumpet, thornapple, or toloache (from Nahuatl *tloloxóchitl*, meaning "the plant that makes one crazy"), is a perennial herbaceous plant in the family Solanaceae. It is native to the southwestern [[dmt-containing-plants-united-states-halpern]] and northern Mexico and is one of the most culturally significant entheogenic plants among indigenous peoples of the American Southwest and Mesoamerica. The plant contains potent tropane alkaloids, primarily [[scopolamine]] and [[hyoscyamine]], which can induce powerful visionary states at low doses but are extremely toxic and potentially lethal at higher doses.
-
-## Taxonomy and Description
-
-*Datura wrightii* was first described by the German-born Russian botanist Eduard August von Regel in 1858 and is named in honor of Charles Wright (1811 to 1885), an American botanist and collector who explored extensively in Texas, northern Mexico, and Cuba. Wright collected the type specimen in western Texas during one of his botanical expeditions. The species belongs to the genus *Datura* within the tribe Datureae of the subfamily Solanoideae of the Solanaceae.
-
-The taxonomy of *Datura wrightii* has been complex and contentious for over a century. The species has been treated under a bewildering array of names, including *Datura inoxia* Mill., *Datura meteloides* DC. ex Dunal, *Datura suaveolens* Humb. & Bonpl. ex Willd., and *Brugmansia meteloides* (DC.) Bercht. & J. Presl. Some authorities have treated it as conspecific with *Datura inoxia*, which is morphologically similar, while others have maintained it as a distinct species. Modern molecular systematics based on nuclear and chloroplast DNA sequences generally supports the recognition of *Datura wrightii* as a distinct species from *Datura inoxia* and other New World *Datura* species, though the boundaries between some taxa remain imperfectly resolved.
-
-Key distinguishing features of *Datura wrightii* include its glandular-pubescent (sticky, hairy) foliage, its perennial habit with a thickened rootstock, its white to lavender flowers that are typically held in an erect or ascending position (rather than nodding), and its reflexed calyx that splits irregularly at maturity rather than forming a neatly circumscissile cap. The fruit is a globose capsule covered with short, blunt spines, distinguishing it from the more sharply spined capsules of *Datura stramonium*.
-
-*Datura wrightii* is a herbaceous perennial that typically grows 30 to 100 cm tall, though plants in favorable conditions with adequate moisture may exceed 150 cm. The plant forms a thick, tuberous rootstock that allows it to survive drought and winter dormancy. The stems are stout, green to purplish, and covered with fine glandular pubescence that gives the plant a sticky, clammy feel and a distinctive musky or fetid odor when crushed.
-
-The leaves are large (10 to 25 cm long, 8 to 18 cm wide), ovate to triangular-ovate, with wavy or irregularly coarsely toothed margins, and are covered with soft, sticky hairs on both surfaces. The leaf blade is attached to the stem by a stout petiole 2 to 8 cm long.
-
-The flowers are the most striking feature. They are large (12 to 20 cm long), funnel-shaped, and white to pale lavender or violet, often with a darker purple throat or venation. Flowers open in the evening and remain open through the night, closing by midday the following day. Each flower lasts only a single night. The calyx is tubular, 5-toothed, approximately 5 to 8 cm long, and becomes inflated and papery as it encloses the developing fruit. The corolla tube is slender below and abruptly expanded above, with a broadly campanulate limb.
-
-The fruit is an ovoid to subglobose capsule approximately 4 to 6 cm long, covered with numerous short, blunt spines, and dehisces irregularly at maturity to release numerous kidney-shaped brown seeds approximately 3 to 4 mm long.
-
-## Distribution and Habitat
-
-*Datura wrightii* is native to the southwestern United States and northern Mexico. In the United States, its range extends from California (where it is particularly abundant in coastal and desert regions) eastward through Arizona, New Mexico, Texas, southern Nevada, southern Utah, and southern Colorado. In Mexico, it occurs from Sonora and Chihuahua southward through the central highlands to Puebla and Veracruz.
-
-The species occurs in a remarkably wide range of habitats including desert washes, sandy flats, rocky hillsides, roadsides, disturbed ground, abandoned fields, urban vacant lots, and riparian areas. It is particularly common in the Sonoran Desert, Chihuahuan Desert, and Mohave Desert, and in the grasslands and piñon-juniper woodlands of the Colorado Plateau and southern Rocky Mountains. It is found at elevations from sea level to approximately 2,000 meters.
-
-The species is exceptionally adaptable and thrives in disturbed habitats. It often colonizes recently cleared or burned areas and is a common ruderal weed in agricultural fields, along irrigation ditches, and in urban and suburban areas within its range. The plant is drought-tolerant and can persist in areas with as little as 150 mm of annual precipitation.
-
-## Chemistry
-
-*Datura wrightii* contains a complex mixture of tropane alkaloids, with the principal constituents being scopolamine (hyoscine) and hyoscyamine (with [[atropine]] being the racemic form of hyoscyamine). The total alkaloid content of the plant varies depending on the plant part, age, growing conditions, season, and genetic factors, but typically ranges from 0.2% to 0.8% of dry weight in the leaves, and can be higher in the seeds.
+**Datura wrightii** Regel, commonly known as sacred datura, angel's trumpet, thornapple, or toloache (from Nahuatl *tloloxóchitl*, meaning "the plant that makes one crazy"), is a perennial herbaceous plant in the family Solanaceae. It is native to the southwestern [[scopolamine]] and [[atropine]] being the racemic form of hyoscyamine). The total alkaloid content of the plant varies depending on the plant part, age, growing conditions, season, and genetic factors, but typically ranges from 0.2% to 0.8% of dry weight in the leaves, and can be higher in the seeds.
 
 The leaves and seeds are the most alkaloid-rich parts of the plant. A notable chemical characteristic of *Datura wrightii* is that scopolamine generally predominates over hyoscyamine, which distinguishes it from *Datura stramonium* (jimsonweed), where hyoscyamine typically predominates. This scopolamine-dominant profile is shared with *Datura inoxia* and is one of the features used to distinguish these species from *D. stramonium* chemically.
 
 Minor alkaloids that have been reported from *Datura wrightii* include apohyoscine, meteloidine, 3-alpha-tigloyloxytropane, 3-alpha,6-beta-ditigloyloxytropane, and norhyoscyamine. The alkaloid profile varies between populations and even between individual plants.
 
-Tropane alkaloids are competitive antagonists of muscarinic acetylcholine receptors. They produce the classic anticholinergic toxidrome characterized by mydriasis (dilated pupils), cycloplegia (paralysis of accommodation), tachycardia, dry mouth and skin (xerostomia, anhidrosis), urinary retention, intestinal hypomotility, hyperthermia, and at higher doses, delirium, visual and auditory hallucinations, amnesia, and potentially fatal respiratory or cardiac arrest. The [[cannabis-therapeutic-index-overview]] of these compounds is very narrow, and the difference between a psychoactive dose and a lethal dose is dangerously small and unpredictable.
-
-## Ethnobotanical and Traditional Use
-
-*Datura wrightii* has a long and well-documented history of ceremonial and medicinal use among indigenous peoples of the American Southwest and northern Mexico, spanning many distinct cultural and linguistic groups.
-
-Among the Zuni people of western New Mexico, *Datura wrightii* is known by a name meaning "the plant that drives one crazy." The Zuni have used the plant in initiation ceremonies and as an analgesic for setting broken bones. The root was prepared as a poultice and applied to wounds and fractures. The dried leaves were smoked as a treatment for respiratory ailments. The Zuni also used the plant in rain-making ceremonies.
-
-The Chumash people of coastal southern California used *Datura wrightii* in a ritual context known as the "toloache" ceremony, which was one of the most important rites of passage in Chumash society. The initiate, typically an adolescent, would consume a preparation of the root under the supervision of an elder or shaman. The resulting vision quest, which could last 1 to 3 days, was believed to provide spiritual guidance, contact with ancestral spirits, confirmation of the individual's role in the community, and the acquisition of a personal guardian spirit (totem). The experience was carefully supervised and was considered essential to the transition from childhood to adulthood.
-
-Among the Luiseño (Payómkawichum) people of southern California, *Datura wrightii* was used by shamans to enter trance states for diagnosis and treatment of illness, divination, communication with the spirit world, and the acquisition of supernatural power. The plant was regarded with profound reverence and fear. The Luiseño word for the plant is sometimes translated as "vision plant" or "spirit plant." Its use was strictly controlled by ritual protocol, and improper or unauthorized use was believed to result in madness, permanent psychosis, or death.
-
-Similar ceremonial and medicinal uses of *Datura wrightii* have been documented among the Cahuilla, Kumeyaay (Diegueño), Tongva (Gabrielino), Apache, Yavapai, and other groups. In Mexican traditional medicine, the plant continues to be used as a remedy for asthma, rheumatism, neuralgia, hemorrhoids, and [[cannabis-for-skin-conditions-detailed]].
+Tropane alkaloids are competitive antagonists of muscarinic acetylcholine receptors. They produce the classic anticholinergic toxidrome characterized by mydriasis (dilated pupils), cycloplegia (paralysis of accommodation), tachycardia, dry mouth and skin (xerostomia, anhidrosis), urinary retention, intestinal hypomotility, hyperthermia, and at higher doses, delirium, visual and auditory hallucinations, amnesia, and potentially fatal respiratory or cardiac arrest. The [[cannabis-for-skin-conditions-detailed]].
 
 ## Toxicity and Safety
 
@@ -72,9 +32,7 @@ There is no specific antidote for tropane alkaloid poisoning; treatment is suppo
 
 ## Comparison with Other Datura Species
 
-*Datura wrightii* can be distinguished from the other commonly encountered [[growing-gourmet-north-american-reishi-species]] *Datura* species by several morphological features. From *Datura stramonium* (jimsonweed), it differs in its perennial habit, glandular-hairy (sticky) foliage, larger flowers, more robust rootstock, and the predominance of scopolamine over hyoscyamine in its alkaloid profile. *Datura stramonium* is an annual with smooth (glabrous) leaves, smaller flowers, sharply spined capsules, and a hyoscyamine-dominant chemistry.
-
-From *Datura inoxia* (downy thornapple), *D. wrightii* is distinguished by its erect flower habit (flowers held above the foliage rather than nodding), its larger and more robust growth form, and subtle differences in the calyx morphology. *Datura inoxia* has flowers that are typically held in a more pendulous position and has a more densely tomentose [[bloomfield-rust-germ-tube-tactile-sensing-leaf-surface-navigation]]. The two species have overlapping ranges in northern Mexico and the southwestern United States, and natural hybridization may occur.
+*Datura wrightii* can be distinguished from the other commonly encountered [[bloomfield-rust-germ-tube-tactile-sensing-leaf-surface-navigation]]. The two species have overlapping ranges in northern Mexico and the southwestern United States, and natural hybridization may occur.
 
 *Datura discolor* (desert thornapple) is a smaller, more compact annual species of the Sonoran Desert that can be distinguished by its purple-tinged flowers with a conspicuously banded corolla tube and its more deeply lobed capsule. *Datura quercifolia* (oak-leaved datura) is distinguished by its deeply lobed oak-like leaves.
 
@@ -87,3 +45,88 @@ In Mexican folk tradition, toloache is associated with love magic (brujería de 
 The plant has also been used historically by European settlers and physicians in the American Southwest. In the 19th and early 20th centuries, *Datura wrightii* preparations were used in American folk medicine as an antispasmodic (particularly for asthma), an analgesic, and a sedative. The dried leaves were sometimes smoked in asthma cigarettes, a practice that continued into the 20th century.
 
 ## Toxicology and Clinical Management
+
+## Overview
+
+Datura Wrightii represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish datura wrightii
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving datura extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Datura Wrightii finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for datura wrightii. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+datura wrightii and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Datura Wrightii has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of datura wrightii into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[datura-candida]]
+- [[datura-innoxia]]
+- [[datura-metel]]
+- [[datura-metel-old-world-ethnobotany]]
+- [[golden-guide-datura-and-nightshade-deliriants]]

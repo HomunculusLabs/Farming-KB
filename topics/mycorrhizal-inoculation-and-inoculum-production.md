@@ -44,13 +44,7 @@ over hundreds of millions of years.
 ## Why Inoculate?
 
 The case for mycorrhizal inoculation rests on several well-documented
-benefits. Plants colonized by [[comparison-soil-food-web-vs-arbuscular-mycorrhizal-fungi]] fungi show 30 to
-80 percent improvements in phosphorus acquisition compared to
-non-colonized controls. The fungal hyphal network accesses soil pores
-too small for root hairs, effectively mining phosphorus, zinc, copper,
-manganese, and other micronutrients from mineral matrices that roots
-alone cannot reach. Beyond nutrition, mycorrhizae confer enhanced
-[[dighton-fungal-drought-tolerance-plant-water-relations]] by extending the absorptive surface deep into the
+benefits. Plants colonized by [[dighton-fungal-drought-tolerance-plant-water-relations]] by extending the absorptive surface deep into the
 soil profile. They provide biological protection against soil-borne
 pathogens through physical barriers, competitive exclusion, and
 biochemical signaling that primes the plant's own immune defenses. The
@@ -89,51 +83,16 @@ beeches, and many other forest trees. Commercial ECM inoculants
 typically feature Pisolithus (a genus that produces conspicuous fruiting
 bodies), Laccaria, Suillus, and Rhizopogon. ECM inoculation is
 primarily used in forestry, reforestation, mine reclamation, and
-[[fukuoka-citrus-orchard-establishment-bare-hillside]]. Their production and application differ
-significantly from AMF because many ECM fungi can be propagated from
-collected fruiting bodies rather than requiring pot culture.
-
-Ericaceous mycorrhizae associate with plants in the heath family,
-including rhododendrons, azaleas, blueberries, and cranberries. These
-specialized fungi remain largely unavailable as commercial inoculants,
-limiting their use to research settings and specialized nurseries.
-
-## Inoculant Formulations
-
 [[pgpr-mycorrhizal-inoculants-microplant-establishment]] come in three primary formulation types, each
 suited to different application methods and scales of operation.
 
 Granular and powder formulations mix spores, hyphal fragments, and
 ## See Also
 
-[[mycorrhizal-fungi]] | [[mycorrhizal-networks-and-the-wood-wide-web]]
-[[dark-septate-endophytes-and-non-mycorrhizal-fungal-symbioses]]
+[[mycorrhizal-networks-and-the-wood-wide-web]]
 [[endophytic-fungi-hidden-symbionts-within-plants]]
-[[biofertilizers-and-soil-inoculants]] | [[trichoderma-and-biocontrol-fungi]]
-[[the-rhizosphere-ecology-and-plant-microbe-interactions]]
-soil-nutrient-management-and-plant-nutrition
-[[compost-tea-and-biological-extracts]] | [[microbial-inoculants-and-biological-soil-amendments]]
-[[no-till-farming-and-conservation-agriculture]] | [[cover-crops-and-green-manures]]
-[[korean-natural-farming-and-jadam]] | [[nitrogen-fixing-bacteria-and-biological-nitrogen-fixation]]
-
-## References
-
-- Lowenfels, Jeff. *Teaming with Fungi: The Organic Grower's Guide to
-  Mycorrhizae*. Timber Press, 2017.
-- Varma, Ajit, and Ram Prasad, eds. *Mycorrhiza: Biology, Chemistry,
-  and Biotechnology*. Springer, 2017.
-- Feldmann, F., and G. Idczak. "Inoculum Production of
-  Arbuscular Mycorrhizal Fungi: Increased Development of
-  Mycorrhizal Studies and Application." In *Mycorrhiza: Role and
-  Applications*, Springer, 2017.
-- Douds, David D., and Paul D. Millner. "On-Farm Production and
-  Utilization of Arbuscular Mycorrhizal Fungus Inoculum."
-  *Canadian Journal of Plant Science*, 1999.
-- Rodriguez, R., and R. S. Redman. "More Than 400 Million Years of
-  Evolution and Some Plants Still Can't Make It on Their Own: Plant
-  Stress Tolerance via Fungal Symbiosis." *Journal of Experimental
-  Botany*, 2008.
-- Smith, S. E., and D. J. Read. *[[bloomfield-mycorrhizal-symbiosis-and-fungal-ecology]]*, 3rd ed.
+[[trichoderma-and-biocontrol-fungi]]
+[[compost-tea-and-biological-extracts]] | [[no-till-farming-and-conservation-agriculture]] | [[korean-natural-farming-and-jadam]] | [[bloomfield-mycorrhizal-symbiosis-and-fungal-ecology]]*, 3rd ed.
   Academic Press, 2008.
 - Cho, Han Kyu. *JADAM Organic Farming: Ultra-Low Cost Agriculture*.
   JADAM, 2013.

@@ -34,39 +34,7 @@ The above-ground structure that interacts with light, wind, and precipitation. T
 The zone of decomposition and nutrient cycling at the base of the tree. Like all living things, a tree sheds its weight many times over to earth and air, and builds much of the soil it stands in. Not only the crown but also the roots die and shed their wastes to earth. The living tree stands in a zone of decomposition, where materials are transferred, reborn, transported, and reincarnated into grasses, bacteria, fungi, insects, birds, and mammals.
 
 ### 3. The Roots and Root Associates (The Underground Tree)
-The root system and its symbiotic partners — [[mycorrhizal-fungi]], nitrogen-fixing bacteria, and soil organisms — that mine minerals, cycle nutrients, and extend the tree's effective reach far beyond the physical root mass.
-
-## The Extended Body of the Tree
-
-Many organisms that "belong with" the tree still function as part of it. When a blue jay, currawong, or squirrel buries an acorn (and recovers only about 80% due to "divine forgetfulness"), it acts as the dispersal agent of the oak. When the squirrel or wallaby digs up the columella of fungal root associates, guided by a garlic-like smell, they swallow the spores, activate them enzymatically, and deposit them again to invest the roots of another tree or sapling with its energy translator.
-
-Root fungi intercede with water, soil, and atmosphere to manufacture cell nutrients for the tree. Myriad insects carry out summer pruning, decompose surplus leaves, and activate essential soil bacteria for nutrient flow. The rain of insect faeces may be crucial to forest and prairie health.
-
-Indigenous cultures recognise this integrated view. An Australian Aborigine might give a certain shrub, the fire that germinates the shrub, and the wallaby that feeds off it all the same "skin name" (waru), although each also has its own specific name. The Hawaiians name each part of the taro plant differently, from its child or shoot to its nodes and "umbilicus." Separating the total body of the tree into mineral, plant, animal, detritus, and life is, in Mollison's view, a simplification for "simple minds." The tree can be understood only as its total entity.
-
-## Meristems and Genetic Individuality
-
-A large tree has from 10,000 to 100,000 growing points or **meristems**, and each is capable of individual mutation. Unlike mammals, trees produce their seed from multitudinous flowers. Evidence suggests that any one main branch can therefore be an "individual" genetically. Some deciduous poplars may produce a single evergreen branch. "Seedlessness" in fruit, or a specific ripening time, may belong only to one branch. Grafts and cuttings perpetuate these isolated characteristics.
-
-The tree itself must therefore be regarded as a collection of compatible genetic individuals, each with a set of persistent characteristics that may differ from place to place on the tree, and each of which may respond differently to energy and other stimuli. Like humans, trees are a cooperative amalgam of many individuals — some of the tree body, but most free-living agents.
-
-## Wind Effects on Trees
-
-### Deformation and Streamline Adaptation
-As wind speed increases, leaves and branches deform so that the tree steadily reduces its exposed leaf area. At very high winds (in excess of 32 m/sec), interception of light, efficient water use, and convective heat dissipation become secondary to survival. Very heavy and rigid trees spread wide root mats and may rely on their weight, while other trees insert gnarled roots deep in rock crevices, anchoring themselves to the ground.
-
-### Forest Edge Adaptation
-Trees on the edge of a copse or forest develop thick, sturdy trunks. If a tree is tethered halfway up, it stops thickening below the tether point and grows in diameter only above the fixed point. Some leaves twist and reverse, showing a white underside to the wind, reflecting light energy. These light-coloured leaves are found almost exclusively in forest edge species and are absent within the forest interior.
-
-### Streamline Compression and Divergence
-As streamlines converge over trees or hills, air speed increases. Density and heat may also increase, creating fast low-pressure air. To leeward, streamlines diverge, creating an area of slower flow, higher pressure, and cooler air. The pressure differentials caused by uplift and descent may affect evaporation significantly.
-
-### Particle Transport
-Wind may carry heavy loads of ice, dust, or sand. Strand trees (palms, pines, and Casuarinas) develop tough stems or thick bark to withstand wind particle blast. Even tussock grasses slow the wind and cause dust loads to settle. Behind beaches, tree lines may accumulate mounds of driven particles within their canopy. The forest removes very fine dusts and industrial aerosols from the airstream within a few hundred metres.
-
-## The Griggs and Putnam Wind Index
-
-The [[griggs-and-putnam-index]] provides a field-based scale for assessing wind effects on trees, relating crown deformation to wind speed with approximately 17% accuracy:
+The root system and its symbiotic partners — [[griggs-and-putnam-index]] provides a field-based scale for assessing wind effects on trees, relating crown deformation to wind speed with approximately 17% accuracy:
 
 | Index | Effect | Wind Speed (m/sec) | Wind Speed (km/h) |
 |-------|--------|--------------------|--------------------|
@@ -86,6 +54,90 @@ These deformation indicators are invaluable for permaculture site assessment. Th
 Forests provide a nutrient net for materials blown by wind or gathered by birds that forage from forest edges. Migrating salmon die in headwaters after spawning, and thousands of tons of fish remains are deposited by birds and other predators in surrounding forests. In addition to these external nutrient sources, trees actively mine base rock and soils for minerals through root exudates and mycorrhizal partnerships.
 
 ## See Also
-- [[mollison-tree-biomass-and-forest-as-living-entity]]
 - [[tree-biomass-system]]
 - [[integrated-paddy-rice-and-tree-system]]
+
+## Overview
+
+Tree Biomass Forest Living System represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish tree biomass forest living system
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving tree extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Tree Biomass Forest Living System finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for tree biomass forest living system. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+tree biomass forest living system and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Tree Biomass Forest Living System has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of tree biomass forest living system into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[fukuoka-textdoc-shelterbelt-design-environmental-tree-planting]]
+- [[hemenway-apple-tree-guild-design]]
+- [[mollison-tree-biomass-and-forest-as-living-entity]]
+- [[organic-fruit-tree-care-calendar]]
+- [[permaculture-japanese-raisin-tree-hovenia-dulcis]]

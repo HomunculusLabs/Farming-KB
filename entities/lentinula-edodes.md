@@ -18,11 +18,7 @@ Lentinula edodes produces medium to large agaric basidiocarps with convex to pla
 
 ## Traditional and Culinary Use
 
-Shiitake has been cultivated in China for approximately 1,000 years and in Japan since the 17th century, making it one of the oldest deliberately [[fungi-cultivated-mushrooms-pathogens-competitors]]. It is a staple of East Asian cuisine valued for its rich umami flavor, attributed to guanylic acid and glutamic acid content. Traditional medicinal uses include treatment of colds, poor circulation, liver ailments, and general fatigue. Shiitake is also used in traditional Japanese medicine as a tonic and for promoting longevity.
-
-## Lentinan
-
-The most significant bioactive compound from L. edodes is **lentinan**, a high-molecular-weight (approximately 500 kDa) beta-(1,3)-D-glucan with beta-(1,6)-glucan branches. Lentinan is a purified polysaccharide extracted from the fruiting body and is classified as a [[medicinal-mushrooms-biological-response-modifiers]] modifier (BRM). It was first isolated and characterized by Chihara and colleagues in Japan in the late 1960s. Lentinan has been approved as an anticancer drug in Japan since 1985 and is administered intravenously as an adjunct to chemotherapy.
+Shiitake has been cultivated in China for approximately 1,000 years and in Japan since the 17th century, making it one of the oldest deliberately [[medicinal-mushrooms-biological-response-modifiers]] modifier (BRM). It was first isolated and characterized by Chihara and colleagues in Japan in the late 1960s. Lentinan has been approved as an anticancer drug in Japan since 1985 and is administered intravenously as an adjunct to chemotherapy.
 
 ### Mechanism of Action
 
@@ -52,7 +48,7 @@ Beyond lentinan, L. edodes contains:
 
 ## Cultivation
 
-Shiitake cultivation traditionally uses hardwood logs inoculated with spawn, requiring 6-18 months of mycelial colonization before fruiting. Modern cultivation increasingly employs [[oyster-mushroom-supplemented-sawdust-blocks]] blocks in synthetic log bags, reducing the growth cycle to 2-4 months. Optimal fruiting requires cool temperatures (10-18°C), high humidity (85-95%), adequate ventilation, and light. [[cancer-medicinal-mushrooms-submerged-fermentation-production]] is used for mycelial [[dighton-fungal-biomass-production-aquatic-ecosystems]] for extraction purposes. Global production of shiitake exceeds 2 million metric tons annually, with China accounting for the vast majority of output. Japan, South Korea, and the United States are also significant producers. The shift from log-based to sawdust-based cultivation has dramatically [[fukuoka-textdoc-increased-production-not-increased-yields]] efficiency while raising concerns about the sustainability of wood sourcing for substrate production.
+Shiitake cultivation traditionally uses hardwood logs inoculated with spawn, requiring 6-18 months of mycelial colonization before fruiting. Modern cultivation increasingly employs [[cancer-medicinal-mushrooms-submerged-fermentation-production]] is used for mycelial [[fukuoka-textdoc-increased-production-not-increased-yields]] efficiency while raising concerns about the sustainability of wood sourcing for substrate production.
 
 ## Nutritional Composition
 
@@ -74,8 +70,81 @@ In nature, *L. edodes* fruits in spring and autumn, triggered by temperature dro
 
 ## See Also
 
-- [[cryptoporus-volvatus]]
-
 - [[trametes-versicolor-entity]]
 - [[schizophyllum-commune]]
 - kappa opioid receptor
+
+## Overview
+
+Lentinula Edodes represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish lentinula edodes
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving lentinula extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Lentinula Edodes finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for lentinula edodes. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+lentinula edodes and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Lentinula Edodes has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of lentinula edodes into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and

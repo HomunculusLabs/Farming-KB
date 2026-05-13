@@ -37,7 +37,7 @@ clump-like colonies on limestone, sandstone, marble, and granite. In the
 McMurdo Dry Valleys of Antarctica, diverse microbial communities have been
 found living in rock pore spaces — one of the harshest environments on Earth.
 
-These extremophilic fungi survive by:
+These [[extremophilic-fungi]] survive by:
 
 - Producing thick, melanized cell walls that protect against UV radiation
 - Entering dormant states during unfavorable periods
@@ -99,7 +99,7 @@ weathering in most natural environments.
 Fungal rock colonization is not limited to natural substrates. Fungi
 actively deteriorate concrete, brick, stone, and other building materials:
 
-- Aspergillus niger and other species can degrade concrete over
+- [[aspergillus-niger]] and other species can degrade concrete over
   experimental timescales of 2+ years
 - Fungi growing in the Roman Catacombs include Sporotrichum and
   Aspergillus species
@@ -135,8 +135,6 @@ implications for:
 
 ## Related Concepts
 
-- [[fungal-bioweathering-and-mineral-transformations]]
 - [[fungal-biogeochemical-mineral-transformations]]
-- [[fungal-ecology-extreme-environments]]
 - [[fungal-oxalate-secretion-and-mineral-dissolution]]
 - [[gadd-geomycology-overview]]

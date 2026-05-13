@@ -9,11 +9,7 @@ created: 2026-05-09
 
 ## Overview
 
-Fungal mycelia in soil and leaf litter face [[comparison-rotational-grazing-vs-continuous-grazing]] pressure from
-diverse invertebrates including Collembola (springtails), nematodes, mites,
-enchytraeids, and insect larvae. This grazing exerts powerful selective forces
-shaping [[bloomfield-what-lies-beneath-mycelial-architecture-hyphal-biology-subterranean-fungus]], [[arbuscule-isolation-metabolic-activity-assays]], species composition, and
-ecosystem [[fungal-decomposition-processes]]. Rather than being merely destructive,
+Fungal mycelia in soil and leaf litter face [[bloomfield-what-lies-beneath-mycelial-architecture-hyphal-biology-subterranean-fungus]], [[fungal-decomposition-processes]]. Rather than being merely destructive,
 grazing regulates fungal growth strategies and functional diversity. Fungal
 responses to invertebrate grazing reveal sophisticated adaptive mechanisms with
 striking analogies to plant-herbivore interactions.
@@ -45,34 +41,7 @@ maintaining fungal diversity by preventing single-species dominance.
 
 ## Browse Line Analogy
 
-Invertebrate grazing creates vertical mycelial [[fungal-biogeography-distribution-patterns]] directly
-analogous to browse lines from mammalian herbivory. Just as deer and cattle
-create browse lines by consuming accessible foliage up to a maximum height,
-soil invertebrates create vertical grazing gradients within soil profiles.
-Mycelial growth in surface litter layers, where Collembola and microarthropods
-are most abundant, is heavily constrained, while deeper horizons support more
-extensive mycelial development. This vertical browse line channels
-decomposition processes into specific depth zones.
-
-## Apical Dominance and Grazing
-
-Fungal hyphal tips function as apical meristems, concentrating growth at the
-advancing colony margin. Grazing removal of tips is directly analogous to
-terminal bud herbivory in plants, where apical meristem removal releases
-lateral buds from apical dominance producing bushier growth. In fungi, tip
-removal disrupts cytoplasmic streaming and vesicle delivery maintaining
-polarized growth, causing new branch emergence behind the grazed tip. This
-apical dominance release increases branching density and produces more compact
-colony morphology near grazing sites, mirroring plant compensatory growth.
-
-## Nutrient Release During Grazing
-
-Grazing releases nutrients sequestered in fungal biomass into the soil
-solution. When Collembola consume hyphae, they digest fungal tissue and
-excrete mineralized nitrogen, phosphorus, and other nutrients as frass. This
-grazing-mediated mineralization accelerates decomposition by making fungal-
-bound nutrients available to other organisms and plant roots. Net ecosystem
-effects depend on balance between [[dighton-fungal-nutrient-immobilization-turnover]] in grazer biomass,
+Invertebrate grazing creates vertical mycelial [[dighton-fungal-nutrient-immobilization-turnover]] in grazer biomass,
 excretion release, and changes in fungal activity. Moderate grazing often
 enhances overall decomposition and nutrient turnover, while intense grazing
 suppresses fungal activity enough to reduce rates.
@@ -81,11 +50,7 @@ suppresses fungal activity enough to reduce rates.
 
 A remarkable aspect of fungal grazing responses is induction of systemic
 changes in enzyme production at locations distant from the grazing site. In
-[[phanerochaete-velutina]], Collembola grazing triggers a ligninolytic enzyme
-switch throughout the mycelial network, not only at grazed locations.
-[[staycare-lignin-peroxidase-and-pollutant-degradation]] [[fungal-manganese-peroxidase-remediation]] genes are upregulated in sectors
-far from the grazing zone. This distant response suggests internal signaling
-through calcium waves, [[chamovitz-plant-electrical-signaling-action-potentials]], or elicitor molecule transport.
+[[staycare-lignin-peroxidase-and-pollutant-degradation]] [[chamovitz-plant-electrical-signaling-action-potentials]], or elicitor molecule transport.
 The functional significance may involve strategic shifts toward recalcitrant
 carbon acquisition when readily available resources are lost to grazing.
 
@@ -118,8 +83,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[dom]]
 - [[decomposition]]
-- [[gadd-mycelial-network-resilience-grazing-pressure]]
 - [[mycelial-nutrient-translocation-networks-gadd]]
 - [[gadd-mathematical-modelling-rhizoctonia-solani-mycelial-growth]]

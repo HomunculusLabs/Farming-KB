@@ -30,48 +30,11 @@ time, they are approached in dreams by helping spirits and may receive
 instruction from them.
 
 Invariably during this prolonged trance the novice undergoes an episode of
-mystical [[allegro-death-and-resurrection-in-the-mushroom-cult]]. They may see themselves reduced to a
-skeleton and then clothed with new flesh, or boiled in a cauldron, devoured
-by spirits, and then made whole again. The shaman's organs may be removed
-and replaced with "magical stones" and then sewn up again.
-
-The general structure is clear: the neophyte shaman undergoes a symbolic
-death and resurrection, which is understood as a radical transformation into
-a superhuman condition. The shaman is transformed from a profane into a
-sacred state of being, invested with the power of the sacred, and can
-therefore cure others.
-
-As McKenna and his brother Dennis noted in "The Invisible Landscape": the
-shaman is more than merely a sick man or a madman; they are a sick man who
-has healed themselves, who is cured, and who must shamanize in order to
-remain cured.
-
-## Techniques of Ecstasy
-
-Not all shamans use intoxication with plants to obtain ecstasy, but all
-[[mckenna-cannabis-cultural-style-and-feminine-plant]] e ego-dominator [[mckenna-cannabis-cultural-style-and-feminine-plant]].
-
-The terror the ego feels in contemplating the dissolution of boundaries
-between self and world lies behind the suppression of [[guzman-allen-gartz-sacred-puffballs-gasteromycetes-indigenous-cultures]] er, diviner, psychopomp (guide of
+mystical [[mckenna-cannabis-cultural-style-and-feminine-plant]] e ego-dominator [[guzman-allen-gartz-sacred-puffballs-gasteromycetes-indigenous-cultures]] er, diviner, psychopomp (guide of
 souls), and keeper of ecological knowledge. In many indigenous cultures, the
-shaman maintains a relationship with the plant world th [[kwashi-and-galanga-minor-psychoactive-plants]] as a
-wellspring of insight and coordination flowing from the vegetable world to
-the human world." This relationship, he argued, was the original religious
-sensibility of humanity, predating all organized religion.
-
-## Modern Revival
-
-The late twentieth and early twenty-first centuries have seen a significant
-revival of interest in shamanic practices, particularly in the context of
-[[metzner-psycholytic-psychedelic-therapy-models]] and the growing acceptance of plant medicines such as
-ayahuasca, [[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]], and iboga in therapeutic and spiritual
-contexts. Contemporary movements such as the [[metzner-brazilian-ayahuasca-churches-structural-comparison-santo-daime-udv-barquinha]] and União do
-Vegetal churches in Brazil practice syncretic forms of [[mckenna-food-gods-amazonian-shamanism-ayahuasca]]
-using ayahuasca as a sacrament.
-
-## See Also
-
-- [[stropharia-cubensis-ur-plant-mckenna]]
+shaman maintains a relationship with the plant world th [[metzner-psycholytic-psychedelic-therapy-models]] and the growing acceptance of plant medicines such as
+ayahuasca, [[metzner-brazilian-ayahuasca-churches-structural-comparison-santo-daime-udv-barquinha]] and União do
+Vegetal churches in Brazil practice syncretic forms of [[stropharia-cubensis-ur-plant-mckenna]]
 - [[indole-hallucinogen-classification]]
 ## Practical Considerations
 
@@ -91,3 +54,88 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
+
+## Overview
+
+Shamanic Ecstasy And Healing represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish shamanic ecstasy and healing
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving shamanic extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Shamanic Ecstasy And Healing finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for shamanic ecstasy and healing. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+shamanic ecstasy and healing and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Shamanic Ecstasy And Healing has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of shamanic ecstasy and healing into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[shamanic-battles-and-protective-powers]]
+- [[shamanic-ecstasy-and-techniques]]
+- [[shamanic-healing-variants-and-divination]]
+- [[shamanic-powers-ayahuasca]]
+- [[shamanic-recruitment-signs-and-training-practices]]

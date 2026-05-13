@@ -23,7 +23,7 @@ type: concept
 
 ## Overview
 
-One of the most important and counterintuitive findings in [[archaeology-of-psychedelic-mushroom-use]] cultivation is that smaller, younger mushrooms are significantly more potent than larger, mature specimens. This principle, emphasized throughout the PF Tek and supported by research from Jochen Gartz and others, has major implications for harvesting strategy, dosing, and overall [[cannabis-yield-optimization]].
+One of the most important and counterintuitive findings in [[cannabis-yield-optimization]].
 
 ## The Potency-Age Principle
 
@@ -72,15 +72,13 @@ While individual aborts are tiny, "several cakes will produce quite a pile of th
 
 ### Baseline Potency
 
-"From the research of Jochen Gartz, it has been shown that P. Cubensis can achieve a base line psilocybin content of 1% (similar to [[guzman-allen-gartz-psilocybe-semilanceata-temperate-cosmopolitan-distribution]])." This 1% figure puts properly cultivated P. cubensis on par with the legendary [[liberty-cap-british-discovery-1970s]] (*[[liberty-cap-psilocybe-semilanceata-history-biology]]*), which is widely regarded as one of the most potent naturally occurring [[archaeology-of-psychedelic-mushrooms]].
+"From the research of Jochen Gartz, it has been shown that P. Cubensis can achieve a base line psilocybin content of 1% (similar to [[liberty-cap-british-discovery-1970s]] (*[[archaeology-of-psychedelic-mushrooms]].
 
 ### Conditions for Maximum Potency
 
 Gartz's findings establish that achieving this potency level "entirely depends" on four factors:
 
-1. **Substrate**: Brown rice as the [[cervantes-green-algae-growing-medium]]
-2. **Age**: Young mushrooms, harvested before maturity
-3. **Sporulation cycle**: Pre-sporulation harvest (before significant [[spore-production-geotropic-sensitivity-coupling-basidiomycete-badham-1982]] begins)
+1. **Substrate**: Brown rice as the [[spore-production-geotropic-sensitivity-coupling-basidiomycete-badham-1982]] begins)
 4. **Harvesting and preservation**: Cool [[mushroom-desiccant-drying-methods]], or consumption fresh
 
 ## Harvesting Strategy

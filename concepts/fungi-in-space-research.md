@@ -39,7 +39,7 @@ A groundbreaking 2020 study from Johns Hopkins University found that melanized f
 
 ### Cryptococcus neoformans Research
 - Studied for its melanin-based radiation response mechanisms
-- Understanding how fungi repair radiation-induced DNA damage has medical applications
+- Understanding how fungi repair radiation-induced DNA damage has [[oner-sativa-medical-applications]]
 - Potential for engineering radiation-resistant biological shielding materials
 
 ### Proposed Applications
@@ -63,12 +63,12 @@ Mushrooms offer unique advantages for space agriculture:
 - **Pleurotus ostreatus**: Primary candidate; grows on diverse substrates, good nutrition
 - **Lentinula edodes** (shiitake): Studied for flavor and nutritional value
 - **Agaricus bisporus** (button mushroom): Well-understood cultivation; common food item
-- **[[paddy-straw-mushroom-volvariella-volvacea-cultivation]]** ([[paddy-straw-mushroom]]): Fast growth; tropical species
+- **[[paddy-straw-mushroom-volvariella-volvacea-cultivation]]** ([[paddy-straw-mushroom|paddy straw mushroom]]): Fast growth; tropical species
 - **[[ganoderma-lucidum]]** (reishi): Studied for medicinal and immune-support properties
 
 ### Closed-Loop Life Support Integration
 - Mycelium can decompose astronaut waste (food scraps, paper, human waste products)
-- [[fao-spent-mushroom-substrate-composting-recycling]] can be composted for plant growing media
+- [[spent-mushroom-substrate]] can be composted for plant growing media
 - CO2 produced during fruiting can supplement plant photosynthesis
 - Creates a biological recycling loop within spacecraft life support systems
 
@@ -90,7 +90,7 @@ Mushrooms offer unique advantages for space agriculture:
 - Astronauts on long missions experience sensory deprivation and psychological stress
 - Growing and tending living organisms provides meaningful work and connection to Earth
 - Mushrooms offer visible, dynamic growth that is psychologically rewarding
-- The earthy smell [[history-of-mushroom-cultivation]] may provide olfactory comfort
+- The earthy smell [[historical-development-of-mushroom-cultivation]] may provide olfactory comfort
 
 ### Analog Research
 - Mars Desert Research Station (MDRS) has tested small-scale mushroom cultivation

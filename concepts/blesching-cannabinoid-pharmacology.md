@@ -46,34 +46,11 @@ damage from hypoxia by induction of nitric oxide, in a sense preparing heart
 cells to better withstand hypoxia (poor perfusion of heart cells and a direct
 cause of heart attacks) - THC is neuroprotective via CB1 - THC causes
 bronchodilation (enlargement of the airways leading to increased air supply -- a
-potent therapeutic element in [[blesching-cannabis-cardiovascular-heart-disease-evidence-review]]) - THC causes weight gain and an
-increase in walking distance in chronic obstructive pulmonary disease (COPD)
-
-### Synthetic THC Pharmaceuticals
-
-[[mckenna-distillation-and-the-birth-of-synthetic-drugs]] containing THC include Sativex, Dronabinol, Marinol, and
+potent therapeutic element in [[mckenna-distillation-and-the-birth-of-synthetic-drugs]] containing THC include Sativex, Dronabinol, Marinol, and
 Nabilone. These pharmaceuticals are approved by the FDA and are used to treat a
 large number of conditions, some of which include AIDS-related
 anorexia/cachexia, nausea and vomiting secondary to chemotherapy cancer
-treatments, neurological disorders, [[cannabis-for-inflammatory-conditions]], and PTSD. With the
-exception of Sativex, which is essentially a plant-derived tincture,
-pharmaceuticals that contain THC do not contain any of the other biologically
-active components of cannabis that may play an important therapeutic role in the
-human body.
-
-### Plant-Based THC Considerations
-
-Plant-based [[thc-content-factors-cultivation-freshness-storage-degradation-blesching]] varies by [[blesching-cannabis-strain-selection-receptor-targeting]] and depending upon whether it
-is fresh or dried (and if dried, its age), and whether it is grown indoors or
-outdoors. Some strains may be especially potent in THC while others may contain
-only trace amounts. Fresh cannabis contains THC in the form of
-THC-carboxylic-acid, which is considered only minutely psychoactive. Once dried,
-however, the chemical composition of THC-acid changes, and it becomes
-decarboxylated through heat. Once devoid of its carboxyl group, THC becomes
-psychoactive.
-
-THC content decreases over time and is affected by UV light, heat, and exposure
-to moisture. [[cannabis-sativa-indoor-cultivation-techniques]] follows a three-month cycle, while outdoor
+treatments, neurological disorders, [[thc-content-factors-cultivation-freshness-storage-degradation-blesching]] varies by [[cannabis-sativa-indoor-cultivation-techniques]] follows a three-month cycle, while outdoor
 cultivation follows an annual or biannual cycle. Indoor crops tend to contain a
 markedly higher THC content than outdoor crops.
 
@@ -118,8 +95,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[dronabinol]]
 - [[tetrahydrocannabinol]]
-- [[anandamide]]
 - [[nabilone]]
 - [[beta-caryophyllene-dietary-cannabinoid-cb2-spices-blesching]]

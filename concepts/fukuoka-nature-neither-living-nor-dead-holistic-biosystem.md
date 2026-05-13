@@ -1,5 +1,5 @@
 ---
-source: "The Natural Way of Farming - [[masanobu-fukuoka]]"
+source: "The Natural Way of Farming - masanobu-fukuoka"
 source_file: administrator-microsoft-word-fukuoka-textdoc.md
 extracted: 2026-04-10
 type: concept
@@ -20,46 +20,7 @@ because what he is examining is no longer nature at all.
 ## Key Concepts
 
 Fukuoka's statement that "properly speaking, nature is neither living nor dead" is one of the
-most radical and consequential claims in his entire philosophy of [[cho-loess-powder-in-natural-farming]]. It strikes
-directly at the [[holmgren-permaculture-flower-conceptual-framework]] through which [[fukuoka-road-critique-of-modern-science]] understands the natural world.
-Science depends on classification: things must be categorized as living or non-living, as
-species or genera, as beneficial or harmful. Fukuoka denies that these categories apply to
-nature itself. "Nor is it small or large, weak or strong, feeble or thriving." Nature, in his
-view, transcends all binary distinctions. It is a unity that cannot be carved up into
-oppositional categories without destroying the very thing one is trying to understand.
-
-The practical consequences of this philosophical position are far-reaching. "It is those who
-believe only in science who call an insect either a pest or a predator and cry out that nature
-is a violent world of relativity and contradiction in which the strong feed on the weak." When
-scientists look at nature through the lens of classification and opposition, they see violence,
-competition, and struggle. But this is a projection of human conceptual frameworks onto a reality
-that does not operate according to these categories. The food chain that science describes as
-"the strong feeding on the weak" is, from nature's perspective, simply the flow of matter and
-energy through an integrated whole. There is no violence in it, no morality, no winners and
-losers — only transformation without birth or death, as Fukuoka describes the "endless
-transformation" of the biosphere.
-
-"Notions of right and wrong, good and bad, are alien to nature. These are only distinctions
-invented by man." This is not merely a philosophical abstraction. It has direct consequences for
-how humans interact with the natural world. When a farmer decides that an insect is a "pest"
-and must be destroyed, he is applying a human moral judgment to a natural process that has no
-moral dimension. The insect is simply living its life within the web of relationships that
-constitutes the ecosystem. Destroying it disrupts those relationships in ways the farmer cannot
-predict or control. The consequence is not the elimination of a pest but the destabilization
-of an entire system, which then requires further intervention to manage.
-
-Fukuoka's most powerful argument against the scientific approach to nature concerns the act of
-dissection itself. "The living and holistic biosystem that is nature cannot be dissected or
-resolved into its parts. Once broken down, it dies." This is the central epistemological claim
-of his philosophy: the moment you take nature apart to study it, you have destroyed the thing
-you were trying to understand. What remains after dissection is not nature but fragments of
-something that was once alive and whole. Studying these fragments and drawing conclusions about
-nature from them is, in Fukuoka's view, the fundamental error of modern science.
-
-He elaborates: "Or rather, those who break off a piece of nature lay hold of something that is
-dead, and, unaware that what they are examining is no longer what they think it to be, claim to
-understand nature." The scientist examining a leaf in a laboratory, or a soil sample under a
-microscope, or a [[cervantes-tissue-culture-micropropagation]] in a petri dish, believes he is studying nature. But what he
+most radical and consequential claims in his entire philosophy of [[holmgren-permaculture-flower-conceptual-framework]] through which [[cervantes-tissue-culture-micropropagation]] in a petri dish, believes he is studying nature. But what he
 is actually studying is a dead fragment of nature, stripped of the relationships and context
 that gave it life and meaning. The conclusions he draws from this study may be internally
 consistent and technically precise, but they do not describe nature. They describe something
@@ -118,8 +79,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[dom]]
 - [[permaculture]]
-- [[fukuoka-microbes-scavengers-natural-decomposition-biosystem]]
 - [[fukuoka-textdoc-microbes-scavengers-natural-order-biosystem]]
 - [[fukuoka-pesticides-biosystem-ripple-effects-fungal-mutation]]

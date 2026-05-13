@@ -2,47 +2,14 @@
 
 ## Overview
 
-The geographic [[distribution-of-neurotropic-fungi]] fungi spans every continent, from Alaska
-and Siberia in the north to Chile, Australia and New Zealand in the south, and from
-sea level to elevations of 4,000 meters. However, the distribution is far from
-uniform, with striking concentration in subtropical and tropical regions, and
-significant gaps reflecting both ecological preferences and research bias.
-
-## Austral Hemisphere Concentration
-
-The majority of Psilocybe species are found in or near the Austral hemisphere,
-mainly in subtropical humid forests. These forests also harbor the most
-well-documented indigenous groups that use neurotropic fungi, including the
-native peoples of Mexico and New Guinea. The concentration in these regions
-reflects both genuine ecological suitability and the intensity of mycological
-research conducted there.
-
-## Mexico as Center of Diversity
-
-Mexico possesses the highest number of neurotropic species of any country,
-with 76 species total, of which 44 belong to the genus *Psilocybe* — representing
-39% of all known Psilocybe species worldwide. This extraordinary diversity
-reflects Mexico's varied climate zones, from tropical lowlands to high-altitude
-alpine environments, and its rich indigenous mycological traditions that have
-guided scientific discovery.
-
-Notable high-elevation species include *Psilocybe aztecorum*, found at 4,000
-meters elevation in the mountains of central Mexico — one of the highest
-recorded elevations for any neurotropic fungus.
-
-## Latitudinal Range
-
-Neurotropic fungi have been identified as far north as Alaska and Siberia in the
-Northern Hemisphere, and as far south as Chile, Australia, and New Zealand in the
-[[guzman-allen-gartz-africa-southern-hemisphere-underexplored-neurotropic-fungi]]. Longitudinally, they extend from the western United States
+The geographic [[guzman-allen-gartz-africa-southern-hemisphere-underexplored-neurotropic-fungi]]. Longitudinally, they extend from the western United States
 to China and Japan in Asia.
 
 Key distribution patterns by latitude:
 
 **Tropical and subtropical species**: *Psilocybe cubensis*, *P. subcubensis*,
 and *Copelandia* spp. are confined to tropical and subtropical regions. An
-exception is *[[copelandia-cyanescens]]*, which sometimes grows in disturbed zones
-of [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]], including the Valley of Mexico at 2,220 meters altitude
+exception is *[[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]], including the Valley of Mexico at 2,220 meters altitude
 and central Europe. In Maui, Hawaiian Archipelago, *C. cyanescens* grows at
 3,000 meters elevation.
 
@@ -58,10 +25,6 @@ Brazil, Colombia, Tanzania, Australia, and New Zealand.
 ## Cosmopolitan Species
 
 Some species cover a remarkably broad world distribution:
-- *[[guzman-panaeolina-foenisecii-psilocybin-controversy-conflicting-chemical-analyses]]* — cosmopolitan, though poorly documented in Central
-  America and the Caribbean region. Surprisingly unrecorded from Japan by
-  Imazeki and Hongo despite being very common there.
-- Nearly all *Panaeolus* species — widely distributed across multiple continents
 - *[[bloomfield-ergot-claviceps-purpurea-ergotism]]* and allies — broadly distributed in temperate grasslands
 - *Amanita muscaria* — circumboreal distribution, introduced to Southern Hemisphere
 

@@ -15,11 +15,7 @@ WYSIWYG (pronounced "wiz-ee-wig") stands for "What You See Is What You Get." A
 WYSIWYG editor is a document or content editing interface that presents users
 with a rendering of the final output during the editing process, allowing them
 to manipulate content visually rather than through markup or code. WYSIWYG
-editors are central to word processing applications like [[williams-pdc-electricity-in-permaculture]]
-- [[homestead-scale-assessment]]
-- [[luther-burbank-plant-breeding-methods]]
-
-- word processing — History of word processors and WYSIWYG evolution
+editors are central to word processing applications like [[homestead-scale-assessment]]
 - [[microsoft-word]] — The most widely used WYSIWYG word processor
 - markdown — Lightweight markup language alternative to WYSIWYG
 - latex — Markup-based academic document preparation

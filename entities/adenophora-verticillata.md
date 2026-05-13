@@ -111,11 +111,7 @@ The species is relatively short-lived for a perennial, typically persisting 5–
 
 ## See Also
 
-- [[adenophora-triophylla]]
 - [[adenophora-remotiflora]]
-- [[platycodon-grandiflorus]]
 - [[codonopsis-lanceolata]]
-- [[campanula-persicifolia]]
 - [[campanula-lactiflora]]
-- [[lobelia-inflata]]
 - [[campanula-rotundifolia]]

@@ -8,13 +8,7 @@ type: concept
 
 ## Overview
 
-The Japanese "Shiitake" mushroom (*Cortinellus Shiitake*) represents the most economically significant [[mushroom-cultivation]] on wood as a substrate — a method fundamentally different from the compost-based cultivation of *[[agaricus-campestris]]*. This centuries-old practice, developed in Japan and also practiced in China (where the mushroom is known as "Hoang-Mo"), constitutes an entire industry based on log-grown fungal production. The techniques involved demonstrate a sophisticated understanding of [[fungal-ecology]] on woody substrates.
-
-## The Shiitake Mushroom
-
-### Taxonomy
-
-*Cortinellus Shiitake* (now classified as *[[lentinula-edodes]]*) is the most important commercially grown fungus in Japan. It is one of the few mushrooms of considerable economic importance cultivated on a woody substratum, and its production attains the dimensions of a genuine industry.
+The Japanese "Shiitake" mushroom (*Cortinellus Shiitake*) represents the most economically significant [[agaricus-campestris]]*. This centuries-old practice, developed in Japan and also practiced in China (where the mushroom is known as "Hoang-Mo"), constitutes an entire industry based on log-grown fungal production. The techniques involved demonstrate a sophisticated understanding of [[lentinula-edodes]]*) is the most important commercially grown fungus in Japan. It is one of the few mushrooms of considerable economic importance cultivated on a woody substratum, and its production attains the dimensions of a genuine industry.
 
 ### Related Species
 
@@ -71,11 +65,11 @@ China offers a good market for dried mushrooms shipped both from Japan and New Z
 
 ### Industry Scale
 
-The production of Shiitake mushrooms constitutes a genuine industry in Japan, with organized cultivation practices, established trade routes, and significant economic output. This represents an alternative model to the Western compost-based mushroom industry, demonstrating that commercial mushroom cultivation can be successfully based on entirely different substrates and methods.
+The production of Shiitake mushrooms constitutes a genuine industry in Japan, with organized cultivation practices, established trade routes, and significant economic output. This represents an alternative model to the Western compost-based mushroom industry, demonstrating that commercial [[mushroom-cultivation]] can be successfully based on entirely different substrates and methods.
 
 ## Historical Context
 
-The fungus has been **cultivated in this manner for several centuries**, making it one of the oldest known deliberately cultivated mushrooms. This long history of cultivation has allowed for the refinement of techniques and the selection of optimal tree species, inoculation methods, and growing conditions.
+The fungus has been **cultivated in this manner for several centuries**, making it one of the oldest known deliberately cultivated mushrooms. This long history of cultivation has allowed for the refinement of techniques and the selection of optimal tree species, [[inoculation-methods]], and growing conditions.
 
 ## Comparison with Compost-Based Cultivation
 

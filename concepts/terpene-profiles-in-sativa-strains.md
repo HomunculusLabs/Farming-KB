@@ -1,6 +1,6 @@
 ---
 title: "Terpene Profiles In Sativa Strains"
-aliases: [[cannabis-terpenes-and-the-entourage-effect]], sativa terpene profile, cannabis aroma, terpene effects, entourage effect]
+aliases: cannabis-terpenes-and-the-entourage-effect, sativa terpene profile, cannabis aroma, terpene effects, entourage effect]
 tags: [cannabis, terpenes, chemistry, aroma, sativa, cannabinoids, entourage-effect]
 source: cannabis-sativa-volume-3-essential-guide.md
 created: 2026-05-11
@@ -16,53 +16,9 @@ Terpenes are the aromatic compounds responsible for the distinctive smells and f
 
 Terpenes are a large class of organic hydrocarbons (C₁₀H₁₆) produced by many plants, not just cannabis. They are the primary constituents of essential oils and are responsible for the characteristic aromas of pine, citrus, lavender, hops, and countless other plants. In cannabis, over 200 different terpenes have been identified, though a much smaller number of approximately 20–30 account for the majority of the aromatic profile in most strains.
 
-Terpenes serve [[fungal-melanin-biosynthesis-ecological-functions]] in the plant: attracting pollinators, repelling herbivores and pests, and protecting against environmental stress (UV radiation, temperature extremes). Their production increases as the plant approaches maturity, peaking during the late flowering stage when trichome density is highest.
-
-## Primary Terpenes in Cannabis
-
-### Myrcene
-
-- **Aroma**: Earthy, musky, herbal, slightly fruity (similar to mango)
-- **Prevalence**: The most abundant terpene in most cannabis varieties, accounting for up to 50% of the total terpene profile in some strains
-- **Sativa association**: Present in both sativa and indica strains, but typically at lower levels in pure sativas compared to indicas
-- **Effects**: Sedative, muscle relaxant, anti-inflammatory. May enhance the blood-brain barrier permeability of other cannabinoids
-- **Other sources**: Mango, hops, bay leaf, thyme, lemongrass
-
-### Limonene
-
-- **Aroma**: Citrus (lemon, orange, grapefruit), bright, fresh
-- **Prevalence**: Second most common terpene in cannabis. Prominent in many sativa strains.
-- **Sativa association**: Strongly associated with sativa-dominant effects. Strains high in limonene tend to produce uplifting, mood-elevating experiences.
-- **Effects**: Elevating mood, stress relief, anti-anxiety, anti-inflammatory, gastric reflux relief. Stimulates the immune system.
-- **Other sources**: Citrus rinds, juniper, peppermint, rosemary
-- **Notable sativa strains**: Super Lemon Haze, Lemonator, Sour Diesel, Jack Herer
-
-### Terpinolene
-
-- **Aroma**: Piney, floral, herbaceous, slightly fruity. Complex, multi-layered aroma.
-- **Prevalence**: Less common than myrcene or limonene but significant in certain sativa varieties
-- **Sativa association**: One of the most characteristic terpenes of sativa-type strains, particularly Haze and its descendants
-- **Effects**: Mildly sedative but also reported as uplifting. Antioxidant, antifungal. Modulates the effects of other terpenes.
-- **Other sources**: Lilac, tea tree, cumin, nutmeg
-- **Notable sativa strains**: Original Haze, Jack Herer, Dutch Passion's Sativa varieties
-
-### α-Pinene and β-Pinene
-
-- **Aroma**: Pine, fir, rosemary, earthy
-- **Prevalence**: Common across cannabis varieties
-- **Sativa association**: Present in many sativa strains, contributing to the "piney" quality often noted in descriptions
-- **Effects**: Mental clarity, focus, bronchodilator (may counteract THC-induced bronchoconstriction), anti-inflammatory, memory retention
-- **Other sources**: Pine needles, rosemary, basil, dill
-- **Notable sativa strains**: Blue Dream, Trainwreck, many Haze crosses
-
-### Caryophyllene (β-Caryophyllene)
-
-- **Aroma**: Peppery, spicy, woody
-- **Prevalence**: Present in most [[cannabis-microbiome-otu-abundance-vs-presence-cannabis-strains]] at moderate levels
+Terpenes serve [[cannabis-microbiome-otu-abundance-vs-presence-cannabis-strains]] at moderate levels
 - **Sativa association**: Found in both sativa and indica strains. Particularly prominent in strains with "peppery" or "spicy" aroma descriptions
-- **Effects**: Anti-inflammatory, analgesic, anti-anxiety. Unique among cannabis terpenes in that it directly activates CB2 [[cannabinoid-receptors-cb1-cb2]]
-- **Other sources**: Black pepper, cloves, cinnamon
-- **Notable sativa strains**: Chemdawg, Sour Diesel, [[girl-scout-cookies]]
+- **Effects**: Anti-inflammatory, analgesic, anti-anxiety. Unique among cannabis terpenes in that it directly activates CB2 [[girl-scout-cookies]]
 
 ### Linalool
 
@@ -115,8 +71,7 @@ The entourage effect, proposed by Ethan Russo and others, suggests that the ther
 Evidence supporting the entourage effect includes:
 
 - **Terpene-cannabinoid synergy**: Myrcene enhances THC binding to CB1 receptors. Pinene may counteract THC-induced memory impairment. Linalool may modulate THC anxiety effects.
-- **Clinical observations**: Whole-plant cannabis extracts show greater [[cbd-therapeutic-effects]] at lower doses than isolated THC, suggesting synergistic interactions.
-- **Receptor-level interactions**: Different terpenes modulate [[cannabinoid-receptor-agonists-antagonists-synthetic-reference-blesching]] activity, enzyme activity (FAAH, which breaks down anandamide), and neurotransmitter systems (GABA, serotonin, dopamine) in complex ways.
+- **Clinical observations**: Whole-plant cannabis extracts show greater [[cannabinoid-receptor-agonists-antagonists-synthetic-reference-blesching]] activity, enzyme activity (FAAH, which breaks down anandamide), and neurotransmitter systems (GABA, serotonin, dopamine) in complex ways.
 
 ### Practical Implications for Selection
 
@@ -142,6 +97,4 @@ Modern testing laboratories profile terpene content using gas chromatography-mas
 
 ## See Also
 
-- [[cannabis-sativa-taxonomy-botanical-classification]] botanical classification — Classification framework
-- haze lineage and genetic history — Haze's distinctive terpene profile
 - [[cannabis-landrace-preservation]] — Terpene diversity in original landraces

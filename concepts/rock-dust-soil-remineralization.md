@@ -2,21 +2,7 @@
 
 ## Overview
 
-Rock dust, also called rock powder or stone meal, refers to finely ground rock material applied to soil as a [[azomite-mineral-amendment]]. The practice of soil remineralization through rock dust application aims to restore trace minerals and elements that have been depleted through decades of intensive agriculture, erosion, and leaching. Unlike soluble fertilizers that provide immediately available NPK, rock dust acts as a slow-release source of the full spectrum of elements found in the Earth's crust, mimicking the natural mineralization process that occurs over geological time.
-
-## Geological Sources of Rock Dust
-
-Rock dust can be derived from various geological parent materials, each with a distinct mineral profile:
-
-- **Basalt dust**: Produced from volcanic basalt, rich in silica, calcium, magnesium, iron, and trace minerals. Basalt contains paramagnetic properties that some researchers believe enhance soil biological activity. It is one of the most commonly recommended rock dusts for general agricultural use due to its balanced mineral composition and widespread availability.
-
-- **Glacial rock dust**: Also called glacial moraine gravel, this material was ground by glaciers during ice ages and deposited as till. It contains a broad spectrum of minerals derived from the diverse rock types the glacier encountered during its advance. Glacial dust is prized for its natural mixing of mineral types.
-
-- **Granite dust**: A byproduct of quarrying operations, granite dust provides silica, potassium, feldspar, and mica minerals. It releases minerals more slowly than basalt due to granite's greater hardness and chemical resistance.
-
-- **Azomite**: A trade name for a specific hydrated sodium calcium aluminosilicate clay deposit mined in Utah. Azomite contains over 70 trace minerals and rare earth elements. It is marketed as a broad-spectrum mineral amendment and is popular in organic agriculture.
-
-- **Limestone and dolomite**: While primarily valued for pH adjustment (calcium carbonate and [[plant-secondary-macronutrients-calcium-magnesium-and-sulfur]] carbonate), these materials also provide calcium, magnesium, and trace minerals. Dolomitic limestone is preferred when magnesium is deficient.
+Rock dust, also called rock powder or stone meal, refers to finely ground rock material applied to soil as a [[plant-secondary-macronutrients-calcium-magnesium-and-sulfur]] carbonate), these materials also provide calcium, magnesium, and trace minerals. Dolomitic limestone is preferred when magnesium is deficient.
 
 - **Gypsum**: Calcium sulfate dihydrate, used primarily to supply calcium and sulfur without affecting soil pH. It improves soil structure in sodic soils by promoting flocculation of clay particles.
 
@@ -32,32 +18,16 @@ Rock dust provides both macronutrients and micronutrients that are essential for
 - Sulfur (S): Amino acid synthesis, protein formation
 
 **Micronutrients supplied:**
-- Iron (Fe): Chlorophyll synthesis, [[electron-transport-chain-mitochondrial-respiration]]
-- Manganese (Mn): Photosynthesis, enzyme cofactor
-- Zinc (Zn): Auxin synthesis, enzyme activation
-- Copper (Cu): Lignin synthesis, reproductive development
-- Boron (B): Cell wall formation, pollen tube growth
-- Molybdenum (Mo): [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]], nitrate reduction
+- Iron (Fe): Chlorophyll synthesis, [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]], nitrate reduction
 - Cobalt (Co): Nitrogen fixation in legumes
 
 ## How Rock Dust Works in Soil
 
 Rock dust minerals become plant-available through several mechanisms:
 
-1. **Chemical weathering**: Carbonic acid formed from CO2 dissolved in water slowly dissolves silicate minerals, releasing cations. This process is accelerated by lower pH and higher temperatures. In healthy soils with active microbial populations, organic acids produced by bacteria and fungi significantly enhance [[dighton-fungal-rock-weathering-mineral-dissolution]] rates.
+1. **Chemical weathering**: Carbonic acid formed from CO2 dissolved in water slowly dissolves silicate minerals, releasing cations. This process is accelerated by lower pH and higher temperatures. In healthy soils with active microbial populations, organic acids produced by bacteria and fungi significantly enhance [[mollison-designers-mycorrhizal-fungi-and-soil-microbiology]] free-living soil microorganisms produce organic acids (citric, oxalic, gluconic) that chelate and solubilize mineral cations from rock particles. Certain bacteria, including Pseudomonas and Bacillus species, are particularly effective at solubilizing phosphorus and potassium from mineral sources.
 
-2. **Biological weathering**: [[mollison-designers-mycorrhizal-fungi-and-soil-microbiology]] free-living soil microorganisms produce organic acids (citric, oxalic, gluconic) that chelate and solubilize mineral cations from rock particles. Certain bacteria, including Pseudomonas and Bacillus species, are particularly effective at solubilizing phosphorus and potassium from mineral sources.
-
-3. **[[mollison-designers-tropical-soils-and-cation-exchange-management]]**: As minerals weather, released cations are held on clay and organic matter exchange sites, preventing leaching and making them available for root uptake through cation exchange processes.
-
-4. **Physical breakdown**: Freeze-thaw cycles, root penetration, and soil fauna activity physically break down rock particles, increasing surface area for chemical and biological weathering.
-
-## Application Rates and Methods
-
-Application rates vary depending on the source material, soil mineral status, and intended crop:
-
-- **General application**: 100-500 kg per hectare (10-50 grams per square meter) annually for maintenance
-- **Deficient soils**: Up to 2,000 kg per hectare for initial correction of severe [[solomon-soil-mineral-depletion]]
+3. **[[solomon-soil-mineral-depletion]]
 - **Compost activation**: 5-10% by volume mixed into compost piles to inoculate with minerals
 - **Potting mixes**: 2-5 cups per cubic foot of soil mix
 
@@ -68,7 +38,7 @@ Application rates vary depending on the source material, soil mineral status, an
 
 **Compatibility considerations:**
 - Rock dust is compatible with compost, organic matter, and biological amendments
-- Avoid mixing rock dust with high-nitrogen [[teaming-with-nutrients-natural-vs-synthetic-fertilizers]], as rapid nitrogen release can increase soil acidity and alter [[chelation-microbial-mineral-availability-ingham]]
+- Avoid mixing rock dust with high-nitrogen [[chelation-microbial-mineral-availability-ingham]]
 - In acidic soils, combine with lime to raise pH and enhance mineral solubility
 - In alkaline soils, basalt dust is preferred over limestone-based products
 
@@ -88,3 +58,88 @@ Research on rock dust efficacy shows mixed but generally positive results:
 - **Variable quality**: Mineral content varies enormously between sources and even between batches from the same quarry. Regular mineral analysis is recommended for quality control
 - **Particle size matters**: Finer particles weather faster and provide more immediate benefit, but are more dusty and difficult to handle. A mix of particle sizes provides both immediate and long-term release
 - **Transportation costs**: Rock dust is heavy and bulky. The environmental and economic costs of long-distance transport can negate benefits for distant users. Sourcing locally is strongly preferred
+
+## Overview
+
+Rock Dust Soil Remineralization represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish rock dust soil remineralization
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving rock extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Rock Dust Soil Remineralization finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for rock dust soil remineralization. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+rock dust soil remineralization and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Rock Dust Soil Remineralization has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of rock dust soil remineralization into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[aact-fungal-foods-chitin-rock-dust-protozoa-nematodes-ingham]]
+- [[comparison-gypsum-vs-rock-phosphate]]
+- [[dighton-fungal-rock-weathering-mineral-dissolution]]
+- [[fukuoka-ancient-soil-fertility-rock-weathering]]
+- [[rock-penetrating-fungi]]

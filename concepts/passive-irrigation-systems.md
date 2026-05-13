@@ -9,7 +9,7 @@ sources: []
 
 # Passive Irrigation Systems
 
-Passive irrigation delivers water to plants without pumps, timers, or electricity. These systems rely on gravity, [[capillary-action-in-soils]], and soil moisture dynamics to distribute water efficiently. They reduce labor, conserve water, and improve plant health by maintaining consistent soil moisture at the root zone.
+Passive irrigation delivers water to plants without pumps, timers, or electricity. These systems rely on gravity, capillary action, and soil moisture dynamics to distribute water efficiently. They reduce labor, conserve water, and improve plant health by maintaining consistent soil moisture at the root zone.
 
 ## Ollas (Buried Clay Pots)
 
@@ -35,7 +35,7 @@ Spacing: Place ollas 45-90 cm apart in a grid pattern for full bed coverage. Clo
 
 - Up to 70% water savings compared to surface irrigation
 - Reduces weed growth (soil surface stays drier)
-- Eliminates foliar wetting (fewer [[duggar-mushroom-insect-pests-and-fungal-diseases]])
+- Eliminates foliar wetting (fewer fungal diseases)
 - Filled every 3-7 days depending on weather and plant demand
 - Last indefinitely if protected from freezing
 
@@ -77,7 +77,7 @@ Fill the reservoir through a vertical PVC pipe that extends from above the soil 
 - Not suitable for root vegetables that need deeper, drier soil to develop properly
 - Requires watertight container — leaks negate the system
 - Soil depth is limited to 25-35 cm above the wicking zone
-- [[jadam-salt-accumulation-in-soil]] reservoir over time — flush periodically
+- Salt accumulation in reservoir over time — flush periodically
 
 ## Swale Irrigation
 
@@ -116,7 +116,7 @@ This system irrigates entire rows or beds from a single water source. More perma
 
 ## Deep Pipe Irrigation
 
-Deep pipes deliver water directly to the root zone of established [[nitrogen-fixing-trees-and-shrubs]]:
+Deep pipes deliver water directly to the root zone of established trees and shrubs:
 
 - Bury a perforated PVC pipe (5-10 cm diameter) vertically, 30-60 cm deep, next to the plant
 - Fill the pipe with water; it drains into the deep root zone
@@ -136,4 +136,4 @@ Deep pipes deliver water directly to the root zone of established [[nitrogen-fix
 
 ## Integration Notes
 
-Passive irrigation systems work best in combination. Use swales for landscape-scale water management, wicking beds for intensive [[coleman-french-historical-winter-vegetable-production]], and ollas for targeted plant watering. Connect all systems to [[rainwater-harvesting-systems]] for a gravity-fed, self-sustaining water supply. For more controlled delivery, [[drip-irrigation-guide]] can supplement passive systems during peak demand periods.
+Passive [[irrigation-systems]] work best in combination. Use swales for landscape-scale water management, wicking beds for intensive vegetable production, and ollas for targeted plant watering. Connect all systems to [[rainwater-harvesting-systems]] for a gravity-fed, self-sustaining water supply. For more controlled delivery, [[drip-irrigation-guide]] can supplement passive systems during peak demand periods.

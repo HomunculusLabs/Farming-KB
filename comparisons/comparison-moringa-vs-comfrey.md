@@ -10,24 +10,12 @@ sources: []
 
 ## Overview
 
-Moringa ([[comparison-moringa-oleifera-vs-moringa-stenopetala]]) and comfrey (Symphytum officinale) are two of the
-most celebrated multi-purpose plants in [[decomposition]].
+Moringa ([[decomposition]].
 
 ## Hybrid Approaches
 
-In [[mollison-climate-zones-permaculture-strategies]] 8-9, creative growers can integrate both plants. Moringa
-grows as a summer annual or die-back perennial, providing peak biomass and
-food during warm months, while comfrey fills the niche during cooler seasons.
-Both can serve as chop-and-drop mulch beneath fruit trees, with moringa
-contributing nitrogen-rich summer growth and comfrey providing potassium-rich
-cuts through autumn. In container growing, moringa can be overwintered
-indoors while comfrey remains productive outside year-round.
-
-## See Also
-- [[comparison-companion-planting-reference-vs-jadam-monoculture-critique]]
-- [[comparison-nettle-vs-comfrey]]
+In [[comparison-companion-planting-reference-vs-jadam-monoculture-critique]]
 - [[comparison-comfrey-tea-vs-compost-tea]]
-- [[decomposition]]
 - [[comparison-dynamic-accumulators-vs-cover-crops]]
 
 ## Practical Applications

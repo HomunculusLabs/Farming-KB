@@ -33,33 +33,7 @@ Cicadas belong to the order **Hemiptera** (true bugs), suborder **Auchenorrhynch
 
 ### Family Cicadidae (True Cicadas)
 - The larger and more familiar group, containing the vast majority of species.
-- Includes both annual and [[query-why-do-periodical-cicadas-emerge-in-13-and-17-year-cycles]].
-- Distributed globally; most diverse in tropical and subtropical regions.
-- Subfamilies include Cicadinae, Cicadettinae, and Tettigadinae.
-
-### Family Tettigarctidae (Hairy Cicadas)
-- A relict family with only two extant species, both native to Australia (*Tettigarcta crinita* and *Tettigarcta tomentosa*).
-- Considered the most primitive living cicadas.
-- Lack the prominent tymbal organs of other cicadas; produce sound by stridulating wing veins against the body.
-- Nocturnal and cryptic — rarely observed in the wild.
-
-## Morphology
-
-### External Anatomy
-
-Cicadas are robust insects, typically measuring 2–5 cm in body length, though some tropical species (e.g., *Pomponia imperatoria*) reach 7 cm with a wingspan exceeding 18 cm.
-
-- **Head**: Broad, with prominent compound eyes set wide apart. Three ocelli (simple eyes) form a triangle between the compound eyes. The proboscis is long, slender, and adapted for piercing plant xylem tissue to feed on sap.
-- **Thorax**: Robust, bearing two pairs of membranous wings. Wings are typically transparent with prominent venation, though some species have opaque or tinted wings. Legs are stout and adapted for climbing tree trunks.
-- **Abdomen**: Large and cylindrical in males, housing the tymbal organs. Females have a modified ovipositor at the tip of the abdomen for inserting eggs into plant tissue.
-
-### Tymbal Organs and Sound Production
-
-The male cicada's song is produced by specialized structures called **tymbals**, located on the first abdominal segment. Each tymbal consists of a ribbed membrane stretched over a resonant cavity. Rapid contraction and relaxation of tymbal muscles (firing at rates up to 400–500 Hz in some species) buckle and unbuckle the membrane, producing a series of clicks that merge into a continuous buzz or whine. The large, largely hollow abdomen acts as a resonating chamber, amplifying the sound.
-
-Key features of cicada acoustics:
-- Species-specific songs facilitate mate recognition and reproductive isolation.
-- Songs are temperature-dependent; calling frequency increases with [[jadam-ambient-temperature-principle]].
+- Includes both annual and [[jadam-ambient-temperature-principle]].
 - Many species have multiple call types: a primary "calling song" to attract mates, a "courtship song" at close range, and a "disturbance call" when captured by predators.
 - Some species synchronize their calls, creating deafening choruses that can exceed 100 dB — comparable to a lawnmower or power tool at close range.
 - The Australian double drummer (*Thopha saccata*) is considered the loudest cicada, with calls reaching ~120 dB.
@@ -97,11 +71,7 @@ Adult cicadas live for only 2–6 weeks. Their sole purpose is reproduction:
 
 ### Annual Cicadas (Dog-Day Cicadas)
 
-The so-called "annual" cicadas — including familiar [[growing-gourmet-north-american-reishi-species]] genera like *Neotibicen* (formerly *Tibicen*) — have life cycles of 2–5 years. They are called "annual" not because individuals live one year, but because overlapping generations ensure that some adults emerge every summer. Their emergence is typically staggered throughout July and August, hence the common name "dog-day cicadas." Individual species may be synchronized within a year but are not synchronized across years.
-
-### Periodical Cicadas (Magicicada)
-
-The genus *Magicicada* comprises seven species of periodical cicadas endemic to [[polypore-fungi-eastern-north-america]] America, famous for their extraordinary synchronized emergences. They are divided into three groups based on life cycle length and sibling species:
+The so-called "annual" cicadas — including familiar [[polypore-fungi-eastern-north-america]] America, famous for their extraordinary synchronized emergences. They are divided into three groups based on life cycle length and sibling species:
 
 **17-Year Broods** (three species):
 - *Magicicada septendecim* (Pharaoh cicada) — largest species, orange stripes on abdomen
@@ -123,16 +93,7 @@ Each brood is designated by a Roman numeral (I–XVII for 17-year broods, XVIII�
 Cicada emergences are among the most dramatic pulsed nutrient events in temperate ecosystems. When millions of adult cicadas die after reproduction, their decomposing bodies release a massive pulse of nitrogen, phosphorus, and carbon into the soil. Studies have documented:
 - Significant increases in soil nitrogen availability following emergences.
 - Enhanced growth of understory plants in subsequent growing seasons.
-- Elevated microbial activity and [[decomposition]] rates.
-- Transfer of deep-soil nutrients (accumulated by long-lived nymphs feeding on deep roots) to the surface ecosystem.
-
-This nutrient pulse is ecologically analogous to marine salmon runs in terrestrial streams.
-
-### Food Web Dynamics
-
-Cicadas are a critical food resource at every life stage:
-- **Eggs**: Parasitized by specialist wasps and flies, including dryinid wasps and sarcophagid flies.
-- **Nymphs**: Preyed upon by soil-dwelling predators including moles, shrews, ground beetles, and [[singh-entomopathogenic-fungi-biocontrol-agents]] (particularly *Massospora cicadina*, a bizarre fungus that infects periodical cicadas, replacing their abdomen with a mass of spores and altering their behavior to continue mating — effectively a "zombie" pathogen).
+- Elevated microbial activity and [[singh-entomopathogenic-fungi-biocontrol-agents]] (particularly *Massospora cicadina*, a bizarre fungus that infects periodical cicadas, replacing their abdomen with a mass of spores and altering their behavior to continue mating — effectively a "zombie" pathogen).
 - **Adults**: Consumed by virtually every insectivorous predator in their range: birds (cicadas can constitute up to 50% of bird diets during emergence years), mammals (raccoons, opossums, squirrels, foxes, skunks), reptiles (snakes, turtles), amphibians, spiders, and predatory insects. The satiation of predators during mass emergences is called **predator satiation** — predators eat their fill but cannot make a significant dent in cicada populations, ensuring reproductive success.
 
 ### Plant Interactions
@@ -143,7 +104,5 @@ Cicadas are a critical food resource at every life stage:
 ## See Also
 
 - periodical cicadas and magicicada broods
-- [[entomopathogenic-fungi-and-biological-pest-control]]
 - [[beneficial-insects-and-biological-pest-control]]
-- [[the-soil-food-web]]
 - [[soil-mesofauna-and-microarthropod-ecology]]

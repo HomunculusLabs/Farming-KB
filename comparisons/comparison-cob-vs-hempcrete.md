@@ -12,21 +12,7 @@ type: comparison
 
 ## Overview
 
-Cob and hempcrete are two of the most popular natural [[natural-building-materials-guide]]
-available to owner-builders and sustainable construction professionals.
-Both use earth- and plant-based ingredients, but they differ dramatically
-in their structural behavior, insulation properties, sourcing logistics,
-and building techniques. Cob is a load-bearing monolithic earth mixture
-that has been used for millennia, while hempcrete is a relatively modern
-biocomposite that functions as an insulating infill rather than a
-structural wall system. Understanding their differences is essential for
-anyone choosing between them for a residential, outbuilding, or
-renovation project.
-
-## Cob
-
-[[natural-building-overview]]
-- [[comparison-hempcrete-vs-straw-bale-construction]]
+Cob and hempcrete are two of the most popular natural [[natural-building-overview]]
 - [[comparison-cob-vs-adobe]]
 - [[comparison-wattle-and-daub-vs-cob-construction]]
 ## Practical Applications

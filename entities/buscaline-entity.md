@@ -10,29 +10,7 @@ sources:
 # B (Buscaline)
 
 **Chemical name:** 4-(n)-Butoxy-3,5-dimethoxyphenethylamine
-**[[2c-b-pihkal-entry-20]]:** #10
-
-## Overview
-
-Buscaline (B) is a mescaline-entity|mescaline analogue where the 4-position methoxy group is replaced by a butoxy (four-carbon) chain. It represents the upper limit of practical alkoxy substitution on the mescaline skeleton for psychoactive purposes. Originally patented in England in 1930 without any pharmacological description, it was later evaluated by [[md-family-structure-activity]]: beyond a certain [[phenethylamine-chain-length-effects]], the 4-position alkoxy substituent no longer contributes to psychedelic activity and instead produces predominantly unpleasant physical effects.
-
-## Dosage and Activity
-
-| Dose Tested | Result |
-|-------------|--------|
-| 120 mg | Slight baseline change, gone by 8th hour. No visual or auditory changes. |
-| 150 mg | Body load without mental reward. Heart arrhythmia, GI discomfort, cold extremities. |
-
-**Effective psychedelic dose:** Greater than 150 mg (essentially inactive in the psychedelic sense)
-
-## Duration
-
-Several hours at the tested doses, but no meaningful psychoactive effects were observed.
-
-## Qualitative Comments
-
-The experience reports from [[phenethylamine-chemistry-basics]] studies of phenethylamines. It helps define the boundary conditions for psychoactive alkoxy substitution and supports the understanding that there is an optimal size range for the 4-position substituent (methoxy through propoxy) beyond which activity drops off sharply. In [[mescaline-derivatives-pihkal]]
-- [[pihkal-introduction-and-methodology]]
+**[[md-family-structure-activity]]: beyond a certain [[phenethylamine-chemistry-basics]] studies of phenethylamines. It helps define the boundary conditions for psychoactive alkoxy substitution and supports the understanding that there is an optimal size range for the 4-position substituent (methoxy through propoxy) beyond which activity drops off sharply. In [[pihkal-introduction-and-methodology]]
 - [[shulgin-dosage-guidelines]]
 ## Practical Applications
 
@@ -88,3 +66,85 @@ maintaining flexibility in approach all help manage this inherent
 uncertainty and improve the resilience of implementations over time.
 
 Learning from both successes and failures is essential for continuous
+
+## Overview
+
+Buscaline Entity represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish buscaline entity
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving buscaline extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Buscaline Entity finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for buscaline entity. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+buscaline entity and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Buscaline Entity has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of buscaline entity into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[2c-c-entity]]
+- [[2c-o-4-entity]]

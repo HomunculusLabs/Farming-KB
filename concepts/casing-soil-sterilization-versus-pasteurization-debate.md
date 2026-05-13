@@ -14,23 +14,7 @@ tags:
 source: "Grass Seed Cultivation Guide — casing-soil-preparation|Casing Soil Preparation"
 ---
 
-# Casing Soil: [[sterilization]] Versus Pasteurization
-
-## Overview
-
-Casing soil is a non-nutritive layer applied to the surface of colonized grain
-substrate to create a microclimate favorable for pinning and fruiting. The
-debate between sterilizing versus pasteurizing casing soil has been ongoing in
-cultivation communities for decades. The grass seed cultivation guide takes a
-clear position: **sterilize the casing soil in a pressure cooker for 1 hour**.
-The author explicitly advises against pasteurization and reports bad
-experiences with untreated or improperly prepared casing soils.
-
-## The Author's Position Against Pasteurization
-
-The guide states directly that the author has had **bad experiences** with
-pasteurized and untreated casing soils. While the specific failure modes are
-not enumerated in exhaustive [[det|det]]ail, the practical implication is clear:
+# Casing Soil: [[det|det]]ail, the practical implication is clear:
 pasteurization (heating to 60–80 °C for 30–90 minutes) does not reliably
 eliminate all contaminant organisms from the casing mixture.
 
@@ -39,35 +23,7 @@ eliminate all contaminant organisms from the casing mixture.
 - **Incomplete heat penetration** — Casing soil is insulating. Core
   temperatures may not reach the target range, leaving pockets of viable
   competitor organisms.
-- **Variable starting loads** — If raw ingredients carry heavy [[spore]] loads,
-  pasteurization temperatures may be insufficient.
-- **Post-treatment contamination** — Pasteurized casing lacks the biological
-  competitive exclusion some proponents claim, leaving it vulnerable.
-
-The author's conclusion is that full sterilization at 121 °C (15 psi) is the
-more reliable approach.
-
-## Casing Soil Recipe
-
-The guide specifies a precise volumetric ratio:
-
-| Component | Parts (by volume) | Notes |
-|-----------|-------------------|-------|
-| Peat | 10 | Base organic material |
-| Vermiculite | 5 | Aeration and moisture retention |
-| Limestone (Marl) | 2 | pH buffering agent |
-
-This 10:5:2 ratio produces casing with good structure, moisture-holding
-capacity, and a pH range suitable for Psilocybe fruiting.
-
-### Ingredient Notes
-
-- **Peat**: Primary organic matrix providing structure and water retention.
-  Naturally acidic, which is why limestone is essential.
-- **Vermiculite**: Expanded mineral improving aeration and preventing compaction.
-  Enhances moisture distribution throughout the casing layer.
-- **Limestone (Marl)**: Raises and buffers peat pH. Most contaminant molds
-  ([[trichoderma]], Aspergillus) prefer acidic conditions, so limestone
+- **Variable starting loads** — If raw ingredients carry heavy [[trichoderma]], Aspergillus) prefer acidic conditions, so limestone
   discourages competitors while favoring the target species.
 
 ## Moisture Calibration
@@ -89,7 +45,6 @@ and crumble apart easily when rubbed between fingers.
 ## Preparation and Sterilization Methods
 
 ## See Also
-- [[casing-soil-sterilization-versus-pasteurization-debate-mushroom-cultivation]]
 - [[casing-soil-sterilization-debate-autoclave-vs-pasteurization]]
 
 ## Practical Applications
@@ -121,8 +76,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[casing-soil-sterilization-versus-pasteurization-debate-mushroom-cultivation]]
 - [[sterilization]]
-- [[casing-soil-sterilization-debate-autoclave-vs-pasteurization]]
 - [[det]]
 - [[spore]]

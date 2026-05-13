@@ -44,7 +44,7 @@ Staminodes are spatulate, 1–2 cm long, and typically a lighter shade than the 
 
 Seed heads are ornamental, consisting of silvery, feathery styles that persist through summer. Each achene bears a persistent, plumose style 2–4 cm long.
 
-The root system is fibrous and relatively shallow compared to large-flowered clematis hybrids. Roots benefit from a cool, moist [[cervantes-root-zone-heating]], achieved through mulching or [[cervantes-companion-planting-pest-deterrent]].
+The root system is fibrous and relatively shallow compared to large-flowered clematis hybrids. Roots benefit from a cool, moist [[cervantes-companion-planting-pest-deterrent]].
 
 Chromosome number is 2n = 16. The species hybridizes readily with other Atragene-section clematis, notably Clematis macropetala, producing vigorous garden hybrids.
 
@@ -88,10 +88,7 @@ The species has received the RHS Award of Garden Merit, confirming its garden wo
 
 Beyond ornamental horticulture, Clematis alpina has limited practical uses. The plant is toxic if ingested due to protoanemonin content, precluding any culinary application.
 
-
 ## See Also
 
-- [[clematis-flammula]]
 - [[clematis-florida]]
-- [[clematis-tangutica]]
 - [[clematis-viticella]]

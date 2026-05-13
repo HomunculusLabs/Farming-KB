@@ -11,46 +11,7 @@ sources:
 
 # Holzer Brandroggen (Fire Rye) Growing and Processing
 
-Brandroggen literally means "fire rye" -- rye varieties sown after plant matter has been burnt on meadow land. This is a traditional Austrian mountain [[what-natural-farming-method-should-i-use]] still practiced at the Krameterhof. The Lungau tauernroggen is a local variety that Holzer continues to grow.
-
-## Field Preparation (Spring, Usually May)
-
-1. Free meadows from branches and plant growth once cut
-2. Rake up all bulky material
-3. Chop young shrubs and spruces
-4. Put everything into piles and burn
-5. Burning prevents meadows from becoming overgrown and makes cutting easier
-6. Prevents branches and unsuitable material from getting into hay
-7. After piles are burnt, rake ashes over the area
-8. Sow the brandroggen
-
-## Why Burning Works
-
-- Clears the meadow of woody growth and debris
-- Ashes provide potassium and other minerals to the soil
-- Creates a clean seedbed for the cereal
-- The cereal grows very well on soil prepared this way
-- Method is suited to mountain meadows that need periodic renewal
-
-## Growth Cycle
-
-### First Year
-- Harvested at end of July or beginning of August along with meadow grass
-- Dried and put in barn as whole sheaves
-- Combined with hay harvest
-
-### Second Year (Larger Plots)
-- Harvested at end of August or beginning of September for bread grain and seed
-- The cereal needs longer to mature on larger plots
-- Higher [[oyster-mushroom-spawn-types-and-quality-grain-sawdust-plug-liquid]] for milling and [[comparison-heirloom-vegetable-varieties-vs-seed-saving-techniques]]
-
-## Harvesting
-
-- Bind freshly cut grain into sheaves
-- Gather sheaves into stooks
-- Let ripen in the field for 2-3 weeks
-- Traditional method: use a sickle or scythe, bind with straw or twine
-- Stooks protect grain from rain while allowing [[stamets-growing-room-air-circulation-co2-management]]
+Brandroggen literally means "fire rye" -- rye varieties sown after plant matter has been burnt on meadow land. This is a traditional Austrian mountain [[oyster-mushroom-spawn-types-and-quality-grain-sawdust-plug-liquid]] for milling and [[stamets-growing-room-air-circulation-co2-management]]
 
 ## Barn Storage and Arrangement
 
@@ -87,8 +48,7 @@ Brandroggen literally means "fire rye" -- rye varieties sown after plant matter 
 
 Every single product of the threshing and winnowing process is used on the farm. Nothing is wasted -- the blind ears become bedding or feed, broken grains feed chickens, stalks provide scratching material, and only the finest clean grain is used for seed and bread. This complete utilization serves as an example against modern throw-away culture.
 
-See also: [[grain-harvesting-and-storage]], [[small-scale-grain-growing]]
-- [[holzer-old-varieties-and-seed-saving]]
+See also: [[small-scale-grain-growing]]
 - [[microfungi-wood-plant-debris-survey]]
 
 ## Practical Applications
@@ -120,8 +80,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[dom]]
 - [[holzer-reforestation-after-fire]]
-- [[sepp-holzer]]
 - [[holzer-browsing-protection-methods]]
 - [[holzer-terraced-landscape-design]]

@@ -55,33 +55,94 @@ formation of a solid phase, and the evolution of what appeared to be
 hydrogen cyanide. To this there were added about 4 mL 5% NaOH which
 brought the pH to the vicinity of 3 or 4. Another 1.0 g of sodium
 cyanoborohydride was added (no gas evolution this time) and stirring
-was continued at [[jadam-ambient-temperature-principle]] for 6 days. All was added to 500
-mL H2O, acidified with 10 mL HCl, and extraction with 3x100 mL CH2Cl2
-removed almost all the color. The aqueous phase was made basic with
-25% NaOH, and extracted with 4x100 mL CH2Cl2. Evaporation of the
-solvent from these extracts yielded 1.8 g of a pale yellow oil which,
-on distillation at 90-95 deg C at 0.5 mm/Hg, gave a 1.6 g fraction of an
-absolutely white, viscous, clear oil. This was dissolved in 8 mL IPA
-and neutralized with concentrated HCl. The product was an
-exceptionally weak base, and appropriate end points must be respected
-on the external pH paper (yellow to red, rather than purple to
-orange). Anhydrous Et2O was added to the point of turbidity, and as
-soon as crystallization had actually started, more Et2O was added with
-stirring, for a net total of 200 mL. After a couple of h standing,
-the fine white crystalline 3,4-methylenedioxy-N-methoxyamphetamine
-hydrochloride (MDMEO) was removed by filtration, Et2O washed, and air
-dried to constant weight. There was obtained 1.7 g of a product with
-a mp of 143-146 deg C. The proton NMR was excellent with the N-methoxyl
-group a sharp singlet at 4.06 ppm. Anal. (C11H16ClNO3) N.
-
-## Safety Notes
-
-This compound is a research chemical with limited human data. Shulgin's dosage ranges are based on limited self-experimentation and should not be taken as established safe doses. Many PIHKAL compounds are potent psychoactive substances that may carry unknown risks. [[ayahuasca-tourism-legal-status-by-country]] varies by jurisdiction.
+was continued at [[ayahuasca-tourism-legal-status-by-country]] varies by jurisdiction.
 
 ## See Also
 
-- [[pihkal-introduction-and-methodology]]
-
-- PIHKAL (the source book)
 - [[mdal-entity-pihkal]]
 - [[mdbu-entity-pihkal]]
+
+## Overview
+
+Mdmeo Entity Pihkal represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish mdmeo entity pihkal
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving mdmeo extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Mdmeo Entity Pihkal finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for mdmeo entity pihkal. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+mdmeo entity pihkal and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Mdmeo Entity Pihkal has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of mdmeo entity pihkal into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[2c-c-entity]]
+- [[2c-o-4-entity]]
+- [[4-ho-dbt-entity-tihkal]]
+- [[mckenna-dmt-i-thou-relationship-entity-encounter-ethics]]
+- [[pyrethrum-entity]]

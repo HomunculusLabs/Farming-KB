@@ -25,15 +25,7 @@ These structures represent one of the most important physiological
 adaptations of higher fungi, enabling them to function as ecosystem
 engineers by connecting spatially separated resources and redistributing
 materials across considerable distances. Rhizomorphs are produced
-primarily by [[singh-basidiomycete-fungi-in-petroleum-hydrocarbon-cleanup]] and are particularly prominent among
-fungal-nutrient-translocation-mycelial-systems
-and fungal-mineral-nutrient-immobilization,
-with nutrients released through fungal death, decomposition, or
-grazing by invertebrates.
-
-### Tropical Forest Canopies
-
-In [[mollison-wet-tropical-forest-structure-and-polyculture]] forests, hyphae and particularly rhizomorphs formed by
+primarily by [[mollison-wet-tropical-forest-structure-and-polyculture]] forests, hyphae and particularly rhizomorphs formed by
 species of Marasmius and Marasmiellus play a crucial role in trapping
 and decomposing plant litter in the tree canopy. These rhizomorphs are
 responsible for retaining approximately 7% of total expected leaf
@@ -45,8 +37,7 @@ day.
 ### Soil Stabilization
 
 Rhizomorphs contribute to soil physical structure by binding mineral
-particles and [[hamilton-composting-and-organic-matter-management]] together. Lodge and Asbury (1988) showed
-that fungal hyphae and cords binding [[dighton-fungal-decomposition-leaf-litter-dynamics]] together on the
+particles and [[dighton-fungal-decomposition-leaf-litter-dynamics]] together on the
 tropical forest floor are important in preventing downslope loss of
 organic matter, with litter loss reduced by 35% from shallow slopes
 and 45% at greater slopes.
@@ -63,27 +54,7 @@ within ecosystems.
 
 ## See Also
 
-- [[fungal-decomposition-nutrient-cycling-ecosystems-dighton]]
-## Practical Considerations
-
-Successful implementation of Fungal Rhizomorphs and Mycelial Cords requires attention to
-several practical factors including environmental conditions,
-resource availability, and timing. Careful monitoring and
-adaptive management help optimize outcomes across varying
-conditions. Integration with other system elements enhances
-overall effectiveness and creates beneficial synergies that
-improve resilience and productivity over time.
-
-## Future Directions
-
-Continued development in this area promises new insights and
-improved approaches for both research and practical application.
-Cross-disciplinary collaboration and advances in analytical
-methods create opportunities for innovation and refinement.
-Recommended resources include current literature, practitioner
-communities, and systematic experimentation to build expertise.
 - [[decomposition]]
-- [[fungal-hyphae]]
 - [[dighton-selective-grazing-fungal-community-shifts]]
 
 ## Practical Applications
@@ -115,8 +86,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[fungal-hyphae]]
 - [[composting]]
-- [[mycelium]]
 - [[decomposition]]
 - [[dighton-litter-quality-fungal-decomposition-rates]]

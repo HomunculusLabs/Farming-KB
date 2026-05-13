@@ -22,16 +22,10 @@ as much as 250 pounds per acre for alfalfa. These figures are not
 precise to the pound; results vary considerably from soil to soil and
 from climate to climate. However, the relative ranking of species holds
 true across most growing conditions, making this data valuable for
-planning [[tylosema-esculentum]]
-
-- [[legume-nitrogen-fixation-mechanism]]
-- [[mollison-designers-legume-tree-inoculation-and-nitrogen-distribution]]
-
-- Nitrogen availability in legume plants explains how [[cho-plant-growth-stage-treatment-protocols]]
+planning [[legume-nitrogen-fixation-mechanism]]
+- [[cho-plant-growth-stage-treatment-protocols]]
   affects the timing of nitrogen release.
-- Legume [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]] mechanism describes the biological process
-  by which legumes capture atmospheric nitrogen.
-- [[comparison-green-manure-guide-vs-mulch-types-and-effects]] and [[coleman-cover-crop-rotation-and-soil-health]] strategies detail practical methods for
+- Legume [[comparison-green-manure-guide-vs-mulch-types-and-effects]] and [[coleman-cover-crop-rotation-and-soil-health]] strategies detail practical methods for
   incorporating legumes into garden rotations.
 ## Practical Applications
 

@@ -18,35 +18,15 @@ sources:
   - Schisler, L.C. (1964). "The effect of the mushroom Stropharia rugosoannulata on nematodes." Phytopathology, 54(9), 1017-1018.
   - Zerova, M.Y. et al. (1986). "Symbiosis between higher plants and Stropharia rugosoannulata in garden ecosystems." Mikologiya i Fitopatologiya, 20, 455-460.
   - Traquair, J.A. (1985). "Wine-cap Stropharia, a potentially useful cultivated mushroom." Mushroom Journal for the Tropics, 5(1), 15-20.
-  - Szudyga, K. et al. (2021). "Cultivation of Stropharia rugosoannulata on [[agricultural-waste-substrates]]." Journal of Fungi, 7(12), 1043.
----
+  - Szudyga, K. et al. (2021). "Cultivation of Stropharia rugosoannulata on [[comparison-vermicomposting-vs-composting-organic-garden]] matter.
 
-## Overview
-
-*Stropharia rugosoannulata*, commonly known as the wine cap mushroom, burgundy mushroom, or garden giant, is a large, edible basidiomycete mushroom in the family Strophariaceae. It occupies a unique ecological niche as a saprotrophic species that thrives in outdoor garden environments, particularly on wood chip mulch, straw, and [[comparison-vermicomposting-vs-composting-organic-garden]] matter.
-
-The wine cap has become one of the most significant fungi [[mollison-lawn-reform-and-alternatives-in-permaculture-design]] due to its ease of cultivation, vigorous growth, substantial yields, and its documented role in soil improvement, [[fungal-nematode-predation-and-trapping-mechanisms]], and plant growth promotion. It is arguably the single best mushroom species for integration into home gardens, food forests, and broad-acre permaculture systems.
+The wine cap has become one of the most significant fungi [[fungal-nematode-predation-and-trapping-mechanisms]], and plant growth promotion. It is arguably the single best mushroom species for integration into home gardens, food forests, and broad-acre permaculture systems.
 
 ## Taxonomy and Identification
 
 **Kingdom:** Fungi → **Division:** Basidiomycota → **Class:** Agaricomycetes → **Order:** Agaricales → **Family:** Strophariaceae → **Genus:** *Stropharia* → **Species:** *S. rugosoannulata*
 
-**Synonyms:** *Agaricus rugosoannulatus* (Farlow), *Naematoloma rugosoannulatum* (Farlow), *[[psilocybe-rugosoannulata]]* (Farlow) — note that the historical placement in *Psilocybe* sometimes causes confusion, but *S. rugosoannulata* does not contain psilocybin
-
-**Key identification features:**
-
-- **Cap:** 5–20 cm diameter, convex to broadly convex when young, becoming plane to slightly depressed with age. Color is striking burgundy-wine red when young, fading to tan or brownish with age. Surface is smooth and slightly sticky when wet. The cap margin is inrolled in young specimens.
-- **Gills:** Attached to the stem (adnate to slightly decurrent), initially pale gray, maturing to purple-gray to dark purplish-brown as spores mature. The gills are relatively crowded.
-- **Stem:** 5–15 cm long, 1–3 cm thick, solid, white to pale, with a conspicuous membranous ring (annulus) near the apex that is the species' namesake feature — the ring is radially rugose (wrinkled) on the upper surface.
-- **Spore print:** Dark purplish-brown to nearly black
-- **Flesh:** White, firm, thick, with a mild to slightly earthy flavor. Does not change color when cut.
-- **Odor and taste:** Mild, pleasant, earthy. Reminiscent of asparagus or potatoes when young.
-
-The wine cap is unlikely to be confused with dangerously toxic species, though beginning mushroom hunters should note that young specimens can superficially resemble some toxic *Hebeloma* and *Inocybe* species. The distinctive wine-red cap, persistent wrinkled ring, and dark purple-brown spore print are reliable distinguishing features.
-
-## Distribution and Ecology
-
-*Stropharia rugosoannulata* is widely distributed across [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]] of the Northern Hemisphere:
+**Synonyms:** *Agaricus rugosoannulatus* (Farlow), *Naematoloma rugosoannulatum* (Farlow), *[[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]] of the Northern Hemisphere:
 
 - **Native range:** Uncertain, but likely originally European. It has been documented across Europe, North America, and parts of Asia.
 - **Introduced range:** Now found worldwide in temperate regions, largely due to deliberate cultivation and accidental spread through mulch distribution.
@@ -87,3 +67,84 @@ The wine cap is one of the easiest mushrooms to cultivate outdoors, requiring mi
 4. Remove plastic once colonization is visible and maintain moisture
 
 The species is remarkably adaptable to substrate — it will colonize and fruit from hardwood sawdust, agricultural waste (corn stalks, rice straw, sugarcane bagasse), shredded paper, and even spent brewing grain.
+
+## Overview
+
+Stropharia Rugosoannulata Permaculture represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish stropharia rugosoannulata permaculture
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving stropharia extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Stropharia Rugosoannulata Permaculture finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for stropharia rugosoannulata permaculture. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+stropharia rugosoannulata permaculture and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Stropharia Rugosoannulata Permaculture has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of stropharia rugosoannulata permaculture into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[comparison-enoki-vs-king-stropharia-cultivation]]

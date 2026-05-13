@@ -1,7 +1,7 @@
 ---
 title: "Anamorph-Telomorph Duality: Cryptococcus and Filobasidiella as One Organism"
 source: "Mr. Bloomfield's Orchard, Nicholas P. Money (2002)"
-topic: "Anamorph, telomorph, [[bloomfield-cryptococcus-neoformans-capsule-melanin-brain]], Filobasidiella neoformans, [[fungal-taxonomy]]"
+topic: "Anamorph, telomorph, fungal-taxonomy"
 type: concept
 tags:
   - mycology
@@ -21,20 +21,15 @@ tags:
 
 ## Overview
 
-One of the most [[metzner-three-distinctive-features-shamanic-entheogenic-ceremonies]] of [[bloomfield-fungal-biology-and-hyphal-growth]] is the existence of
+One of the most [[bloomfield-fungal-biology-and-hyphal-growth]] is the existence of
 **dual scientific names** for a single organism. The yeast *Cryptococcus
 neoformans*, a major cause of meningitis in immunocompromised patients, and
 the filamentous basidiomycete *Filobasidiella neoformans*, which produces
 sexual spores on hyphal structures, are not two different species. They are
 the **same organism**, expressing different developmental programs encoded by
 a single genome. This duality—the **anamorph-telomorph** system—is a
-fundamental feature of [[fungal-taxonomy-and-classification]] a source of considerable
-nomenclatural complexity.
-
-The discovery that these two forms are one organism was made in **1976** by
-**Kwang-Won Kwon-Chung**, whose work is central to several chapters of
-[[nicholas-money]]'s *Mr. Bloomfield's Orchard*. Her finding resolved a long-
-standing mystery about the [[agaricus-campestris-biology-and-life-cycle]] of *[[bloomfield-cryptococcus-neoformans-opportunistic-mycoses-aids]]* and opened
+fundamental feature of [[nicholas-money]]'s *Mr. Bloomfield's Orchard*. Her finding resolved a long-
+standing mystery about the [[bloomfield-cryptococcus-neoformans-opportunistic-mycoses-aids]]* and opened
 new avenues for understanding its pathogenicity, genetics, and epidemiology.
 
 ## Kwon-Chung's 1976 Discovery
@@ -50,59 +45,7 @@ Kwon-Chung suspected an undiscovered sexual phase. Working with clinical
 isolates, she identified two mating types designated **a** and **α** (alpha).
 When she crossed isolates of opposite mating types on laboratory media under
 specific conditions, she observed the formation of hyphae bearing basidia—
-the characteristic reproductive structures of [[singh-basidiomycete-fungi-in-petroleum-hydrocarbon-cleanup]]. These
-basidia produced basidiospores through meiosis, demonstrating conclusively
-that *Cryptococcus neoformans* undergoes a genuine sexual cycle.
-
-The hyphal, basidium-bearing form was formally described as *Filobasidiella
-neoformans*, with *Cryptococcus neoformans* retained for the yeast (anamorph)
-stage. Under the International Code of Botanical Nomenclature, the teleomorph
-name technically had precedence, but *Cryptococcus* was so entrenched in
-clinical literature that replacing it was impractical and potentially
-dangerous—it could cause confusion in medical contexts with life-or-death
-consequences.
-
-## The Anamorph: Asexual Yeast in Human Tissues
-
-The **anamorph** is the asexual (mitotic) form. In *Cryptococcus neoformans*,
-this is the encapsulated yeast that causes disease in humans. When the
-organism infects a patient—typically entering through the lungs and then
-disseminating to the central nervous system—it exists exclusively as a yeast,
-reproducing by budding. Each daughter cell is genetically identical to its
-parent (barring mutations), and no sexual structures are produced. This is
-the form most familiar to clinicians, microbiologists, and patients. When a
-cerebrospinal fluid sample reveals encapsulated yeast cells in an AIDS
-patient, it is *Cryptococcus neoformans* that is diagnosed.
-
-## The Telomorph: Sexual Hyphal Basidiomycete
-
-The **telomorph** is the sexual (meiotic) form. In *Filobasidiella
-neoformans*, this manifests as a filamentous hyphal organism producing club-
-shaped basidia, atop which four basidiospores develop through meiosis. This
-is the form in which genetic recombination occurs, generating the diversity
-that drives adaptation, drug resistance, and the emergence of new pathogenic
-strains.
-
-The sexual cycle requires fusion of compatible mating types (**a** and **α**).
-When these meet under appropriate conditions, they undergo plasmogamy,
-karyogamy, and meiosis, producing recombinant basidiospores. This process
-has been observed in the laboratory, but its frequency in nature remains
-unclear.
-
-## The Problem of Dual Names
-
-The coexistence of two names for one organism is a source of persistent
-confusion, particularly for medical professionals who encounter only the
-anamorph clinically. Formal taxonomic rules state the teleomorph name
-(*Filobasidiella*) should take precedence, but the medical community
-overwhelmingly uses *Cryptococcus*. This creates a situation in which the
-organism has two equally valid scientific names depending on context.
-
-This dual naming system is not unique to *Cryptococcus*/*Filobasidiella*. It
-is widespread among fungi with both yeast-like and mold-like phases. The mold
-*Aspergillus* has teleomorph names *Neosartorya* and *Emericella*. *Candida
-albicans* was long considered an imperfect fungus until its teleomorph was
-identified. Hundreds of fungi have this [[bloomfield-eurotium-aspergillus-pleomorphism-dual-identity]].
+the characteristic reproductive structures of [[bloomfield-eurotium-aspergillus-pleomorphism-dual-identity]].
 
 The **"One Fungus, One Name"** initiative, adopted at the International
 Botanical Congress in 2011, seeks to eliminate dual nomenclature by

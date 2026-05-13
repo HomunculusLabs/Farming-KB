@@ -10,9 +10,8 @@ sources: [papers/benjamin-minge-duggar-mushroom-growing.md]
 # Martha Tent Mushroom Growing
 
 The Martha tent, named after the Martha Stewart brand of indoor greenhouse, is a
-popular enclosed [[cannabis-growing-environment-setup]] for [[accessible-mushroom-cultivation-for-disabilities]]. It provides an
-intermediate step between simple fruiting chambers like the [[shotgun-fruiting-chamber]] and full-scale grow rooms, offering larger capacity, better
-[[eclss-environmental-control-life-support]], and more professional results while remaining affordable
+popular enclosed [[accessible-mushroom-cultivation-for-disabilities]]. It provides an
+intermediate step between simple fruiting chambers like the [[eclss-environmental-control-life-support]], and more professional results while remaining affordable
 and accessible to home cultivators.
 
 ## What Is a Martha Tent
@@ -30,7 +29,7 @@ Most models include shelves for holding growing containers at multiple levels.
 The primary advantage of a Martha tent over simpler fruiting chambers is
 capacity. A standard Martha tent can hold dozens of fruiting blocks or trays
 across multiple shelves, whereas a shotgun FC is limited to a few substrate
-cakes. This makes Martha tents practical for cultivators working with [[monotub-cultivation]], [[oyster-mushroom-supplemented-sawdust-blocks]] blocks, or multiple tray cultures
+cakes. This makes Martha tents practical for cultivators working with [[oyster-mushroom-supplemented-sawdust-blocks]] blocks, or multiple tray cultures
 simultaneously.
 
 Martha tents also provide more uniform environmental conditions across the
@@ -57,9 +56,7 @@ The humidifier is the most critical piece of equipment. Ultrasonic humidifiers
 are preferred because they produce a fine, cool mist without raising the
 temperature significantly. The humidifier should be connected to a humidistat
 controller rather than run continuously, as over-humidification leads to
-condensation problems, water pooling, and increased risk of [[growing-gourmet-bacterial-blotch-disease-management]].
-
-During [[mushroom-pin-formation]], the target humidity may be 95%+ RH. During
+condensation problems, water pooling, and increased risk of [[mushroom-pin-formation]], the target humidity may be 95%+ RH. During
 active cropping, 85-92% is typical. Some advanced setups use two-stage
 humidistats or programmable controllers that adjust humidity setpoints
 automatically based on the stage of the growing cycle.

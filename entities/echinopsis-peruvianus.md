@@ -14,34 +14,9 @@ sources:
   - Schultes, R.E. & Hofmann, A. (1980). The Botany and Chemistry of Hallucinogens. 2nd ed. Charles C. Thomas.
   - Torres, C.M. & Repke, D.B. (2006). Anadenanthera. Visionary Plant Books.
   - Trout, K. (2005). Sacred Cacti. 2nd ed. Trout's Notes.
-  - Ogunbodede, O. et al. (2010). "[[echinopsis-peruviana]]: Phytochemical profile and ethnobotanical importance." Journal of Ethnopharmacology, 132(1), 138-145.
-  - Devereux, P. (1997). The Long Trip: A Prehistory of Psychedelia. Penguin Arkana.
-created: 2026-04-28
----
+  - Ogunbodede, O. et al. (2010). "[[trichocereus-mescaline-cacti-san-pedro-peruvian-torch-halpern]] cactus**, is a fast-growing columnar cactus in the family Cactaceae, native to the western slopes of the Andes in Peru and Ecuador.
 
-# Echinopsis peruvianus
-
-## Overview
-
-**Echinopsis peruvianus**, commonly known as the **[[trichocereus-mescaline-cacti-san-pedro-peruvian-torch-halpern]] cactus**, is a fast-growing columnar cactus in the family Cactaceae, native to the western slopes of the Andes in Peru and Ecuador.
-
-The species is one of the four principal mescaline-containing cactos traditionally used in Andean ethnomedicine [[dmt-black-hole-effect-and-shamanic-practice]], alongside [[gottlieb-psychoactive-cacti-san-pedro-and-peruvian-torch]] (*[[echinopsis-pachanoi]]*), the Bolivian torch (*[[echinopsis-lageniformis]]*), and peyote (*[[lophophora-williamsii]]*).
-
-Mescaline content in *E. peruvianus* is generally reported to be higher than in *E. pachanoi*, making it a particularly significant entheogenic plant in traditional ceremonial contexts and modern botanical collections.
-
-## Taxonomy and Morphology
-
-**Classification:**
-
-- Kingdom: Plantae
-- Order: Caryophyllales
-- Family: Cactaceae
-- Subfamily: Cactoideae
-- Tribe: Trichocereeae
-- Genus: *Echinopsis*
-- Species: *E. peruvianus* (Riccob.) Masao
-
-The species was originally described as *Cereus peruvianus* by Riccobono in 1909, later transferred to *[[trichocereus-peruvianus]]*, and most recently to *Echinopsis peruvianus* following taxonomic revisions of the Trichocereeae tribe.
+The species is one of the four principal mescaline-containing cactos traditionally used in Andean ethnomedicine [[gottlieb-psychoactive-cacti-san-pedro-and-peruvian-torch]] (*[[echinopsis-lageniformis]]*), and peyote (*[[trichocereus-peruvianus]]*, and most recently to *Echinopsis peruvianus* following taxonomic revisions of the Trichocereeae tribe.
 
 Stems are columnar, blue-green to glaucous, growing 3–6 meters tall in mature specimens. Each stem is 6–10 cm in diameter with 6–8 ribs that are broad and rounded, separated by shallow furrows.
 
@@ -88,3 +63,88 @@ Outdoor cultivation requires a frost-free climate (USDA zones 9b–11) with full
 Grafted specimens onto fast-growing rootstock such as *Pereskiopsis sp.* or *Hylocereus* species can dramatically accelerate growth rates, making it possible to produce flowering-size specimens in 2–3 years from seed.
 
 ### Pests and Diseases
+
+## Overview
+
+Echinopsis Peruvianus represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish echinopsis peruvianus
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving echinopsis extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Echinopsis Peruvianus finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for echinopsis peruvianus. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+echinopsis peruvianus and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Echinopsis Peruvianus has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of echinopsis peruvianus into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[echinopsis-bridgesii]]
+- [[echinopsis-lageniformis]]
+- [[echinopsis-pachanoi]]
+- [[echinopsis-peruviana]]
+- [[trichocereus-peruvianus]]

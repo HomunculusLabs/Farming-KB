@@ -93,9 +93,9 @@ The characteristic blue-green bruising of psilocybin mushrooms is caused by oxid
 - **Molecular formula:** C13H19N2O4P
 - **Molecular weight:** 298.25 g/mol
 - **Structure:** Unique quaternary ammonium compound with three methyl groups on the nitrogen
-- **Discovery:** First isolated by [[jochen-gartz]] from [[gartz-inocybe-aeruginascens-distribution-and-psychoactivity]]
+- **Discovery:** First isolated by [[jochen-gartz]] from Inocybe aeruginascens
 - **Distribution:** Only known from I. aeruginascens (possibly present in a few other Inocybe species)
-- **Pharmacology:** Unknown; Gartz hypothesized it may have euphoriant properties (see [[inocybe-aeruginascens]] [[powell-mayan-civilisation-and-psilocybin-mushroom-use]] chemistry)
+- **Pharmacology:** Unknown; Gartz hypothesized it may have euphoriant properties (see [[inocybe-aeruginascens]] and psilocybin mushroom chemistry)
 - **Significance:** The only known tryptamine alkaloid with a quaternary ammonium group found in nature
 
 ### Other Compounds
@@ -126,7 +126,7 @@ The biosynthetic gene cluster (PsiD, PsiH, PsiK, PsiM) is found across all psilo
 The entire pathway originates from the Shikimate pathway, present in plants, fungi, and bacteria but absent in animals:
 
 1. **Glycolysis** produces phosphoenolpyruvate (PEP)
-2. **[[pentose-phosphate-pathway]]** produces erythrose 4-phosphate (E4P)
+2. **Pentose phosphate pathway** produces erythrose 4-phosphate (E4P)
 3. These combine via DAHP synthase → 3-dehydroquinate synthase → 3-dehydroquinate dehydratase → shikimate 5-dehydrogenase → shikimate kinase → EPSP synthase → chorismate synthase → **chorismate**
 4. Chorismate → anthranilate → tryptophan (via anthranilate synthase, phosphoribosyl transferase, and tryptophan synthase)
 5. Tryptophan → tryptamine via **tryptophan decarboxylase** — this is the key regulated step

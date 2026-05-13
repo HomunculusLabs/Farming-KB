@@ -30,45 +30,9 @@ sources:
 
 **Tanacetum parthenium**, commonly known as feverfew, is a perennial herbaceous
 plant in the family Asteraceae. Native to the Balkan Peninsula and the Caucasus,
-it has become naturalized across Europe, [[psilocybin-north-america-pacific-northwest]], and [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]]
+it has become naturalized across Europe, [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]]
 worldwide. Feverfew is best known for its long history of use in preventing
-migraine headaches and reducing fever, with modern [[mushroom-cancer-clinical-trials-overview]] supporting
-its prophylactic efficacy against migraines.
-
-The plant bears a strong aromatic scent reminiscent of chamomile, to which it
-is loosely related. Its daisy-like flowers and feathery leaves make it a common
-presence in herb gardens and ornamental plantings.
-
-## Taxonomy and Classification
-
-- **Kingdom:** Plantae
-- **Order:** Asterales
-- **Family:** Asteraceae
-- **Tribe:** Anthemideae
-- **Genus:** Tanacetum
-- **Species:** T. parthenium (L.) Sch. Bip.
-
-The species was originally described as *Chrysanthemum parthenium* by Linnaeus
-in 1753 and later transferred to Tanacetum. Some older sources still use the
-synonym *Matricaria parthenium*.
-
-## Morphology
-
-- **Habit:** Perennial herb, 15–60 cm tall, bushy and much-branched.
-- **Leaves:** Alternate, pinnately lobed, 2–5 cm long, yellowish-green,
-  strongly aromatic when crushed. Leaf margins are crenate to dentate.
-  The foliage resembles that of chamomile but is more deeply divided.
-- **Stems:** Erect, grooved, often purplish at the base, pubescent.
-- **Flowers:** Capitula (flower heads) 1.5–2.5 cm diameter, arranged in
-  loose corymbs. Ray florets white, 8–12 per head; disk florets yellow.
-  Blooms from July to October in temperate regions.
-- **Roots:** Fibrous, rhizomatous, forming dense clumps over time.
-- **Seeds:** Small achenes, 1–1.5 mm, without a pappus.
-
-## Distribution and Habitat
-
-- **Native range:** Balkan Peninsula, Anatolia, and the Caucasus region.
-- **Naturalized:** Widespread across Europe, [[guzman-psilocybin-mushrooms-north-america]], Australia, and
+migraine headaches and reducing fever, with modern [[guzman-psilocybin-mushrooms-north-america]], Australia, and
   parts of [[guzman-psilocybin-mushrooms-south-america]] and Asia.
 - **Habitat:** Roadsides, wastelands, old fields, and rocky slopes. Prefers
   well-drained soils in full sun to partial shade. Tolerates poor soils and
@@ -87,3 +51,84 @@ The primary pharmacologically active constituents include:
 - **Volatile oils:** Camphor, bornyl acetate, and various monoterpenes
   responsible for the characteristic aroma.
 - **Tannins and phenolic acids:** Chlorogenic acid and caffeic acid derivatives.
+
+## Overview
+
+Tanacetum Parthenium represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish tanacetum parthenium
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving tanacetum extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Tanacetum Parthenium finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for tanacetum parthenium. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+tanacetum parthenium and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Tanacetum Parthenium has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of tanacetum parthenium into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[tanacetum-vulgare]]

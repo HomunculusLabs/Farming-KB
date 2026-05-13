@@ -109,13 +109,8 @@ Seedlings are tiny and grow slowly, typically reaching flowering size in 3-4 yea
 
 ## See Also
 
-- [[lithops-optica]]
 - [[conophytum-bilobum]]
-- [[faucaria-tigrina]]
 - [[delosperma-cooperi]]
-- [[aloe-aristata]]
 - [[echeveria-elegans]]
-- [[haworthia-fasciata]]
 - [[crassula-ovata]]
-- [[sedum-acre]]
 - [[gasteria-verrucosa]]

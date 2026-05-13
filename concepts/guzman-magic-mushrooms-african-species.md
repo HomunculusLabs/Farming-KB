@@ -7,8 +7,7 @@ updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/world-wide-distribution-of-magic-mushrooms-guzman-allen-&-gartz.md]
 type: concept
 ---
-# African Neurotropic Mushroom Species ## Overview Africa remains one of the most poorly explored continents for neurotropic fungi. The existing records are scattered, with most documentation from North Africa (especially Morocco and Algeria) and southern Africa. The central and western African regions are particularly understudied, despite having suitable tropical and subtropical climates for [[gymnopilus-spectabilis-entity]]**: Reported from northern Africa
-- **[[guzman-panaeolina-foenisecii-psilocybin-controversy-conflicting-chemical-analyses]]**: Widespread in Africa
+# African Neurotropic Mushroom Species ## Overview Africa remains one of the most poorly explored continents for neurotropic fungi. The existing records are scattered, with most documentation from North Africa (especially Morocco and Algeria) and southern Africa. The central and western African regions are particularly understudied, despite having suitable tropical and subtropical climates for [[guzman-panaeolina-foenisecii-psilocybin-controversy-conflicting-chemical-analyses]]**: Widespread in Africa
 - **Panaeolus africanus**: Distinctly African species, found in Chad,
   Central African Republic, and Sudan
 - **P. fimicola**: Widespread in northern Africa
@@ -16,43 +15,13 @@ type: concept
 - **P. papilionaceus**: Widespread across Africa
 - **P. sphinctrinus**: Widespread in northern Africa
 - **P. subbalteatus**: Reported from multiple African countries
-- **[[inocybe-corydalina]]** and **I. calamistrata**: Present in Morocco
-- **Pluteus cyanopus**, **P. atricapillus**, **P. salicinus**, **P.
-  villosus**: All present in Morocco; P. villosus confirmed to contain
-  psilocybin (Stijve and Kuyper, 1985)
 - **[[allegro-amanita-muscaria-properties-and-pharmacology]]** and **A. pantherina**: Both present
 - Diverse Panaeolus species: P. fimicola, P. papilionaceus
 
 ### Algeria
 - **P. mairei**: Type locality region; originally collected by Maire
-- **[[psilocybe-natalensis]]**: First described from South Africa by Gartz,
-  Reid, Eicker, and Smith (1995); described as "the first indigenous
-  bluing member of the Agaricales of South Africa"; confirmed to contain
-  psilocybin and psilocin
-- **P. semilanceata**: Questionably reported from South Africa
-- **Amanita muscaria** and **A. pantherina**: Both present; documented
-  by Watt and Breyer-Brandwijk (1962)
-- **Panaeolina foenisecii**: Widespread in South Africa
-- **Panaeolus** species: P. papilionaceus, P. retirugis, P. subbalteatus
 - **[[guzman-magic-mushrooms-global-biogeography]] for worldwide patterns
-- [[guzman-magic-mushrooms-neotropical-species]] for American species
-## Practical Considerations
-
-When working with African Neurotropic Mushroom Species, several practical factors should be
-carefully considered to achieve optimal results. These include
-the specific conditions of the implementation context, available
-resources, timing requirements, and the interactions between this
-topic and other elements of the broader system. A holistic view
-that considers these interconnections produces better outcomes.
-
-Environmental conditions such as temperature, moisture, and
-seasonal patterns significantly influence results. Monitoring these
-variables and adapting practices accordingly is essential for success.
-The most effective practitioners develop keen observation skills and
-respond flexibly to changing conditions rather than following rigid
-protocols regardless of circumstances or local variation.
-
-[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
+- [[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -111,8 +80,6 @@ through generations to modern scientific approaches, the evolution continues
 to inform current best practices and research directions.
 
 ## See Also
-- [[doc]]
 - [[salicin]]
-- [[psilocybin]]
 - [[dom]]
 - [[psilocin]]

@@ -10,17 +10,11 @@ type: concept
 
 # Winter Harvest Planting Schedule
 
-[[coleman-row-cover-fabric-management]] for protection details.
-
-## October Planting Window
-
-October is the latest practical planting window for most [[coleman-semi-hibernating-winter-crops-harvest-extension]].
+[[coleman-semi-hibernating-winter-crops-harvest-extension]].
 Only the fastest-growing and most cold-tolerant species can still
 produce a harvestable crop if planted this late:
 - **Mache:** Late plantings may not mature until February but
-  contribute to [[coleman-overwintered-onions-and-early-spring-crops]] harvests.
-- **Radishes:** Quick-maturing varieties like 'Cherry Belle' for
-  winter [[permaculture-plants-root-crops-and-tubers]].
+  contribute to [[permaculture-plants-root-crops-and-tubers]].
 - **Pea shoots:** For micro-greens and shoot production.
 - **Overwintering onions:** Seed for spring bulb production.
 
@@ -31,12 +25,7 @@ before the Persephone Period begins.
 
 ## Spring Transition Planting
 
-As [[coleman-winter-day-length-and-persephone-months]] increases past 10 hours in February, growth resumes
-rapidly. Coleman uses this period to begin the spring transition:
-- **February:** Seed early carrots, radishes, turnips, and
-  additional salad greens. Transplant early lettuce and brassica
-  seedlings.
-- **March:** Begin [[coleman-year-round-marketing-calendar]] for how this abundance
+As [[coleman-year-round-marketing-calendar]] for how this abundance
 translates into market opportunities.
 
 ## Succession Planting Intervals
@@ -62,32 +51,7 @@ trays with 128 or 200 cells per flat are used for greens transplants,
 with seedlings moved to the field at the 4 to 6 leaf stage.
 
 Transplanting is preferred for crops that require a long growing
-season to reach full size. [[comparison-seed-starting-indoors-vs-direct-seeding-techniques]] is preferred for
-quick-growing crops like radishes and salad greens where the
-disturbance of transplanting would delay harvest.
-
-## Adjusting for Latitude
-
-The planting schedule must be adjusted for local latitude. The
-Persephone Period occurs earlier at higher latitudes and later at
-lower latitudes. Growers in more southern locations have longer fall
-growing windows and shorter Persephone Periods, allowing later
-planting dates. Coleman provides latitude adjustment tables in his
-published work.
-
-## Record Keeping
-
-Detailed records of planting dates, germination rates, first harvest
-dates, and total yield are essential for refining the schedule over
-time. Coleman recommends a simple field journal or spreadsheet that
-tracks each planting's performance. Over several seasons, this data
-reveals optimal planting windows for each crop in the local climate.
-
-## See Also
-
-- [[coleman-leek-deep-planting-technique]]
-
-- [[coleman-winter-harvest-three-components]]
+season to reach full size. [[coleman-leek-deep-planting-technique]]
 
 - [[coleman-winter-harvest-philosophy]]
 
@@ -120,8 +84,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[succession-planting]]
 - [[det]]
-- [[permaculture]]
 - [[coleman-succession-planting-winter-harvest]]
 - [[coleman-winter-harvest-washing-and-packing]]

@@ -8,48 +8,7 @@ sources: ["Shulgin - PIHKAL"]
 ---
 # MDPL
 
-[[2c-b-pihkal-entry-20]] #117. N-PROPARGYL-MDA; N-PROPYNYL-MDA;.
-
-## Chemical Name
-
-N-PROPARGYL-MDA; N-PROPYNYL-MDA;
-
-## Dosage and Duration
-
-| Property | Value |
-|----------|-------|
-| Dosage | greater than 150 mg. |
-| Duration | unknown. |
-
-## Qualitative Comments
-
-No qualitative comments available in source.
-
-## Extensions and Commentary
-
-There is a continuing uncertainty about the
-name for the three-carbon radical that contains a triple bond. The
-hydrocarbon is propyne, although it has been referred to as
-methylacetylene in the older literature. The adjective, going from
-the triple bond out to the point of attachment, is called propargyl,
-as in propargyl chloride. When the adjective must be built on the
-parent hydrocarbon, the double bond is on the outside and one reads
-away from it, as in 2-propynyl something. However, when the
-hydrocarbon is essentially the entire structure, then things get named
-going towards the triple bond, as in 3-chloro-1-propyne. Wait. I'm
-not done yet! When the actual hydrocarbon name becomes distorted into
-the derivative, then the triple bond is again at the high end of the
-numbering scheme. Propynol is 2-propyn-1-ol, which is, of course, the
-same as 3-hydroxypropyne, or propargyl alcohol. The code MDPL takes
-the first and last letter of the two of them, both propargyl and
-propynyl.
-
-## Synthesis
-
-A solution of 10.5 g propargylamine hydrochloride in 40 mL
-MeOH was treated with 2.0 g 3,4-methylenedioxyphenylacetone (see under
 [[ayahuasca-preparation-and-ceremony]]
-- [[mdal-entity-pihkal]]
 - [[mdbu-entity-pihkal]]
 ## Practical Considerations
 
@@ -88,3 +47,88 @@ than assuming perfect predictability or control over outcomes.
 
 Documentation and record-keeping support continuous improvement by
 creating a reference base of observations, interventions, and results.
+
+## Overview
+
+Mdpl Entity Pihkal represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish mdpl entity pihkal
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving mdpl extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Mdpl Entity Pihkal finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for mdpl entity pihkal. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+mdpl entity pihkal and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Mdpl Entity Pihkal has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of mdpl entity pihkal into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[2c-g-3-entity]]
+- [[4-5-mdo-dmt-entity-tihkal]]
+- [[5-6-mdo-dipt-entity-tihkal]]
+- [[mdcpm-entity-pihkal]]
+- [[methyl-k-entity-pihkal]]

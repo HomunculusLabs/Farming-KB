@@ -6,21 +6,15 @@ topics: [scallions, winter-harvest, cold-house, cool-house,
   succession-planting, four-season-farm, zone-5]
 ---
 
-# Winter Scallio [[mollison-pigeons-and-squab-production-in-permaculture-systems]] in Col [[mollison-designers-trout-and-cool-water-aquaculture-species]] ol Houses
+# Winter Scallio [[mollison-designers-trout-and-cool-water-aquaculture-species]] ol Houses
 
 ## Summary
 
 Winter scallions are among the most cold-hardy crops in Eliot
-Coleman's unhea [[cold-house-winter-harvest-system]] ouse system [[coleman-four-season-farm]] Farm [[zone-5-wilderness]] ne
-5 Maine. They can be harvested frozen and recover upon thawing,
-making them a reliabl [[coleman-sunlight-and-winter-crop-growth-rates]] op. Coleman's approach combines
-purchased short-day onion sets planted in January f [[coleman-overwintered-onions-and-early-spring-crops]] ing
-scallion harvests, and overwintered onion seedlings started
-outdoors in late August and covered with [[coleman-mobile-greenhouse-system]] use by
+Coleman's unhea [[coleman-four-season-farm]] Farm [[coleman-sunlight-and-winter-crop-growth-rates]] op. Coleman's approach combines
+purchased short-day onion sets planted in January f [[coleman-mobile-greenhouse-system]] use by
 late November, yielding both scallions and mature bulbs ahead of
-spring-planted crops.[[coleman-cold-hardiness-testing-ratings]] iness of Scallions
-
-Scallions (green onions) are extr [[coleman-cold-hardy-varieties]] hardy and represent
+spring-planted crops.[[coleman-cold-hardy-varieties]] hardy and represent
 one of the most resilient crops in the winter harvest system.
 
 Coleman notes that they can even be harvested while completely
@@ -117,8 +111,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[coleman-cool-house-vs-cold-house-economics-winter-production]]
 - [[coleman-beet-greens-cold-house-winter-production]]
-- [[permaculture]]
 - [[coleman-winter-kale-brassica-cold-house-management]]
 - [[coleman-overwintered-spinach-cold-house-production]]

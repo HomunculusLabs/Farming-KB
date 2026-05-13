@@ -1,5 +1,5 @@
 ---
-title: Comparison Jasmonate Vs Salicylic Acid Defense Signaling
+title: Comparison Jasmonate Vs [[salicylic-acid-plant-defense]] [[jasmonic-acid-plant-defense-signaling]]
 tags:
   - plant-defense
   - phytohormones
@@ -12,7 +12,7 @@ created: 2026-04-28
 updated: 2026-04-28
 sources:
   - title: "The Hormonal Dance: How Jasmonate and Salicylic Acid Shape Plant Defense"
-    author: "Pieterse, C.M.J., Van der Does, D., Zamioudis, C., Leon-Reyes, A., & Van Wees, S.C.M."
+    author: "Pieterse, C.M.J., [[erik-van-der-werf]] Does, D., Zamioudis, C., Leon-Reyes, A., & Van Wees, S.C.M."
     journal: "Plant Cell"
     year: 2012
     url: "https://doi.org/10.1105/tpc.111.089518"
@@ -41,11 +41,7 @@ type: comparison
 
 # Jasmonate vs Salicylic Acid Defense Signaling Pathways
 
-Plants rely on a sophisticated immune system that hinges on phytohormone signaling networks. Two of the most important defense hormones — **jasmonic acid (JA)** and **salicylic acid (SA)** — orchestrate largely distinct but overlapping defense programs tailored to different categories of attackers. Understanding these pathways is central to plant [[plant-defense-mechanisms]] and informs practical strategies in [[hamilton-beneficial-insects-and-biological-pest-control|biological pest control]]. The pathway also promotes [[fungal-elicitors-enhanced-secondary-metabolite-production]] accumulation, including alkaloids, glucosinolates, and terpenoids.
-
-### Induced Systemic Resistance (ISR)
-
-JA plays a central role in **induced systemic resistance (ISR)**, a form of broad-spectrum immunity triggered by beneficial soil microbes. Rhizobacteria such as *Bacillus* and *Pseudomonas* species prime JA-dependent defenses throughout the plant. ISR is notably linked to [[endophytic-fungi-plant-defense-dighton|endophytic fungi]], which can similarly prime systemic defenses.
+Plants rely on a sophisticated immune system that hinges on phytohormone signaling networks. Two of the most important defense hormones — **jasmonic acid (JA)** and **salicylic acid (SA)** — orchestrate largely distinct but overlapping defense programs tailored to different categories of attackers. Understanding these pathways is central to plant [[hamilton-beneficial-insects-and-biological-pest-control|biological pest control]]. The pathway also promotes [[endophytic-fungi-plant-defense-dighton|endophytic fungi]], which can similarly prime systemic defenses.
 
 ### Coronatine: A Pathogen Weapon
 
@@ -66,11 +62,7 @@ The central regulatory hub is **NPR1 (Nonexpressor of PR Genes 1)**:
 
 ### Defense Outputs
 
-SA-dependent defenses are most effective against **biotrophic pathogens** (e.g., [[biodiversity-powdery-mildews]], rusts, downy mildews) that require living host tissue. The pathway also triggers **hypersensitive cell death (HR)** at infection sites, walling off biotrophs by sacrificing local cells.
-
-### Systemic Acquired Resistance (SAR)
-
-SA is the primary [[chamovitz-phytochrome-mobile-signal-leaf-to-flowering]] driving **systemic acquired resistance (SAR)**, which provides long-lasting, broad-spectrum immunity throughout the plant following a local infection. Methyl salicylate (MeSA) and other derivatives serve as phloem-mobile signals. Unlike ISR (JA-dependent), SAR (SA-dependent) typically requires prior pathogen recognition and PR gene activation.
+SA-dependent defenses are most effective against **biotrophic pathogens** (e.g., [[chamovitz-phytochrome-mobile-signal-leaf-to-flowering]] driving **systemic acquired resistance (SAR)**, which provides long-lasting, broad-spectrum immunity throughout the plant following a local infection. Methyl salicylate (MeSA) and other derivatives serve as phloem-mobile signals. Unlike ISR (JA-dependent), SAR (SA-dependent) typically requires prior pathogen recognition and PR gene activation.
 
 ## Crosstalk: Antagonism and Integration
 
@@ -84,7 +76,7 @@ The JA and SA pathways are **mutually antagonistic**, mediated by several molecu
 | **Glutaredoxins (GRX480)** | SA → suppresses JA | SA-induced GRX480 binds TGA factors, blocking JA-responsive genes |
 | **Hormone-sensitive lipases** | JA → suppresses SA | Some JA-responsive genes can downregulate SA biosynthesis |
 
-This antagonism is ecologically rational: SA defenses (HR, PR proteins) are ineffective or even counterproductive against necrotrophs and herbivores, while JA responses (tissue necrosis, cell wall degradation) could facilitate biotrophic pathogen invasion. The trade-off ensures resources are allocated efficiently.
+This antagonism is ecologically rational: SA defenses (HR, PR proteins) are ineffective or even counterproductive against necrotrophs and herbivores, while JA responses (tissue necrosis, [[chitin-chitosan-fungal-cell-wall]] degradation) could facilitate biotrophic pathogen invasion. The trade-off ensures resources are allocated efficiently.
 
 However, the relationship is not purely antagonistic. Against **hemibiotrophic pathogens** that transition from biotrophic to necrotrophic phases, temporal regulation allows an initial SA response followed by a JA response. Additionally, low concentrations of SA can *prime* JA responses rather than suppress them, demonstrating dose-dependent nuance.
 
@@ -97,23 +89,7 @@ However, the relationship is not purely antagonistic. Against **hemibiotrophic p
 | **Receptor complex** | COI1-JAZ co-receptor | NPR1 (regulatory hub) |
 | **Key transcription factors** | MYC2, MYC3, ERF1 | TGA factors, WRKY45, NPR1 |
 | **Systemic signaling** | ISR (microbe-triggered) | SAR (pathogen-triggered) |
-| **Key defense outputs** | Proteinase inhibitors, VOCs, defensive metabolites | PR proteins, [[bloomfield-plant-hypersensitive-response-rust-arms-race]], callose deposition |
-| **Pathogen countermeasures** | Coronatine mimics JA-Ile | NahG degrades SA; effector suppression of NPR1 |
-| **Role in endophyte/microbe priming** | Central (ISR pathway) | Limited; some rhizobacteria also modulate SA |
-
-## Practical Applications in Organic and Permaculture Systems
-
-### Methyl Jasmonate (MeJA) Sprays
-
-Methyl jasmonate is commercially available and can be applied as a foliar spray to **prime herbivore and necrotroph defenses**. Research demonstrates reduced damage from caterpillars, thrips, and botrytis in treated crops. Applications are most effective when timed before expected pest pressure. MeJA is volatile and can also be used in companion-planting strategies to signal neighboring plants.
-
-### Salicylic Acid and Aspirin Sprays
-
-Diluted **acetylsalicylic acid (aspirin)** or pure SA solutions have been widely tested as SAR-inducing [[query-how-to-make-and-use-plant-based-foliar-sprays-for-pest-and-disease-prevention]]. Typical rates range from 0.5–1.0 mM (~75–150 mg/L of aspirin in water with a surfactant). Reported benefits include reduced powdery mildew, downy mildew, and some [[plant-viral-and-bacterial-diseases]] in cucurbits, grapes, and solanaceous crops. CAUTION: SA sprays can suppress JA-dependent defenses, potentially increasing susceptibility to herbivores if applied indiscriminately.
-
-### Integrated Approaches
-
-The antagonism between JA and SA has important implications for [[query-what-is-the-wood-wide-web-and-how-do-mycorrhizal-networks-work|mycorrhizal fungi]] provides sustained JA-dependent defense without chemical inputs.
+| **Key defense outputs** | Proteinase inhibitors, VOCs, defensive metabolites | PR proteins, [[query-how-to-make-and-use-plant-based-foliar-sprays-for-pest-and-disease-prevention]]. Typical rates range from 0.5–1.0 mM (~75–150 mg/L of aspirin in water with a surfactant). Reported benefits include reduced [[cervantes-powdery-mildew-prevention-treatment]], [[cervantes-downy-mildew-fungal-blight]], and some [[query-what-is-the-wood-wide-web-and-how-do-mycorrhizal-networks-work|mycorrhizal fungi]] provides sustained JA-dependent defense without chemical inputs.
 - **Endophyte applications**: serendipita-indica* can modulate both JA and SA signaling, offering balanced priming against diverse threats.
 
 ### Limitations and Considerations

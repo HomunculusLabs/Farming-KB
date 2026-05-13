@@ -9,9 +9,7 @@ tags: [fungi, mycelium]
 
 # Conservation Biology and Fungi
 
-[[mycelium-running-forestry-practices-and-mushrooms]] -- mycoforestry
-- [[medicinal-mushrooms]] -- medicinal conservation
-- [[mycelium-running-rot-fungi-wood-decomposition]] -- decomposition
+[[medicinal-mushrooms]] -- medicinal conservation
 - [[forest-ecology-basics]] -- [[fukuoka-pine-forest-ecosystem-collapse-cascade-matsutake]] science
 ## Background and Context
 
@@ -88,3 +86,9 @@ Integration with other systems and approaches often yields the most
 robust and resilient outcomes. Rather than treating this topic in
 isolation, the most effective practitioners consider how it connects
 with and enhances other elements of the broader system within which
+
+## See Also
+
+- [[mycelium-running-mycelial-archetype-nature]]
+- [[mycelium-running-partnerships-with-plants]]
+- [[mycelium-running-rot-fungi-wood-decomposition]]

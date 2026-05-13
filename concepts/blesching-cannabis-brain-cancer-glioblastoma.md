@@ -39,24 +39,13 @@ is: glioblastomas 2%, astrocytomas 30%, and meningiomas 70%.
 ## Cannabis Health Index (CHI) Score
 
 - Total Studies Reviewed: 9
-- [[blesching-cannabis-prostate-cancer-chi-value-3]]: 26
-
-This represents one of the highest CHI scores in the Cannabis Health Index,
-indicating strong preclinical evidence across multiple studies.
-
-## Research Evidence
-
-### Cannabinoid Mechanisms Against Brain Cancer
-
-Starting in 2001, an international research team examined cannabinoids and
-brain cancer. Local injections of the [[synthetic-cannabinoid-pharmaceuticals-sativex-dronabinol-marinol]] JWH-133 (a potent
+- [[synthetic-cannabinoid-pharmaceuticals-sativex-dronabinol-marinol]] JWH-133 (a potent
 CB2 receptor agonist) into mice with brain cancer cells considerably reduced
 malignant tumor size.
 
 By 2003, Italian studies expanded understanding by showing that the
 non-psychoactive CBD produced significant anti-brain tumor activity both in
-vitro and in vivo. CBD selectively produced [[blesching-cannabis-oxidative-stress-and-antioxidant-defense]] in brain cancer
-cells, triggering apoptosis (programmed [[blesching-cannabis-apoptosis-and-cancer-cell-death]]) while leaving normal cells
+vitro and in vivo. CBD selectively produced [[blesching-cannabis-apoptosis-and-cancer-cell-death]]) while leaving normal cells
 unaffected.
 
 A 2004 Spanish experiment revealed that cannabinoids effectively inhibited a
@@ -83,8 +72,7 @@ Two additional Spanish studies on mice and humans with recurring glioblastoma
 found that TIMP-1 down-regulation and MMP-2 down-regulation may be hallmarks
 of cannabinoid-induced inhibition of glioma progression.
 
-A 2010 [[shipibo-san-francisco-ceremonial-center-ucayali]] study showed that THC and CBD acted synergistically to
-inhibit brain cancer cell growth by inducing [[reactive-oxygen-species-and-oxidative-stress]] to produce
+A 2010 [[reactive-oxygen-species-and-oxidative-stress]] to produce
 apoptosis.
 
 ## Strain and Form Considerations
@@ -118,8 +106,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[cannabis-health-index]]
 - [[det]]
-- [[dronabinol]]
 - [[blesching-cannabis-prostate-cancer-cb1-cb2-receptor-targeting-research]]
 - [[blesching-cannabis-pain-advanced-cancer]]

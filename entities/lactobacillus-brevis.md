@@ -14,15 +14,15 @@ sources: [/Users/t3rpz/wiki/raw/papers/beneficial-indigenous-microorganisms-bion
 
 ## Habitat and Distribution
 
-*L. brevis* is widely distributed in nature and is particularly associated with plant material and fermented vegetable products. It is commonly found in sauerkraut, pickles, kimchi, [[query-how-to-make-sourdough-bread-at-home]], beer, and wine, where it can be either a beneficial contributor to fermentation or a spoilage organism depending on the context. In [[comparison-beer-brewing-vs-cider-making]], *L. brevis* is one of the most common beer-spoilage bacteria due to its ability to grow in the presence of hop bittering compounds, a trait conferred by specific multidrug resistance transporters.
+*L. brevis* is widely distributed in nature and is particularly associated with plant material and fermented vegetable products. It is commonly found in sauerkraut, pickles, kimchi, [[comparison-beer-brewing-vs-cider-making]], *L. brevis* is one of the most common beer-spoilage bacteria due to its ability to grow in the presence of hop bittering compounds, a trait conferred by specific multidrug resistance transporters.
 
 The organism is also a normal inhabitant of the human oral cavity and gastrointestinal tract, where it exists as part of the commensal microbiota at population levels of 10⁶–10⁸ CFU per gram of intestinal content. Environmental isolates have been recovered from soil, water, and decaying plant matter, reflecting its ecological adaptability.
 
 ## Role in Indigenous Microorganism Systems
 
-In Korean [[comparison-natural-farming-vs-permaculture]] and IMO (indigenous microorganism) preparations, *L. brevis* is one of the lactic [[lactic-acid-bacteria-knf]] (LAB) species that naturally develops during the fermentation of rice-based substrates. When rice wash water or steamed rice is left exposed to the environment, airborne and surface-adherent microorganisms—including *L. brevis*—colonize the substrate and begin producing lactic acid. This acidic environment selects for further LAB proliferation while suppressing many competing microorganisms.
+In Korean [[lactic-acid-bacteria-knf]] (LAB) species that naturally develops during the fermentation of rice-based substrates. When rice wash water or steamed rice is left exposed to the environment, airborne and surface-adherent microorganisms—including *L. brevis*—colonize the substrate and begin producing lactic acid. This acidic environment selects for further LAB proliferation while suppressing many competing microorganisms.
 
-In combination with *Lactobacillus plantarum* and other LAB species, *L. brevis* contributes to the production of LAB serum used as a biological input in natural farming. The mixed LAB culture is applied to compost piles, soil amendments, and [[query-how-to-make-and-use-plant-based-foliar-sprays-for-pest-and-disease-prevention]] to promote beneficial microbial communities, suppress plant pathogens, and improve [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]]. The acetic acid produced by heterofermentative species like *L. brevis* provides additional antimicrobial activity beyond that of lactic acid alone.
+In combination with *Lactobacillus plantarum* and other LAB species, *L. brevis* contributes to the production of LAB serum used as a biological input in natural farming. The mixed LAB culture is applied to compost piles, soil amendments, and [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]]. The acetic acid produced by heterofermentative species like *L. brevis* provides additional antimicrobial activity beyond that of lactic acid alone.
 
 ## Metabolism and Fermentation Products
 
@@ -65,12 +65,10 @@ on scarce inputs when a simpler ecological substitute is available.
 
 ## Related Topics
 
-- [[composting-systems]]
 - [[mushroom-cultivation]]
 
 ## See Also
 
-- [[lactobacillus-casei]]
 - [[saccharomyces-cerevisiae]]
 - [[bacillus-subtilis|Bacillus subtilis]]
 ## Practical Considerations

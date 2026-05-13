@@ -3,7 +3,7 @@ title: LSD, Consciousness, and Hofmann's Philosophical Views
 created: 2026-04-26
 updated: 2026-04-24
 sources: "albert-hofmann, LSD - My Problem Child"
-wikilinks: "[[hofmann-lsd-discovery-bicycle-day]] [[hofmann-lsd-pharmacology-and-effects]] [[hofmann-lsd-sandoz-research-program]] hofmann-lsd-psychiatric-research [[hofmann-lsd-mazatec-and-psilocybin]]"
+wikilinks: "hofmann-lsd-pharmacology-and-effects hofmann-lsd-mazatec-and-psilocybin"
 type: concept
 tags: [lsd]
 ---
@@ -87,13 +87,8 @@ catastrophe, the Western entelechy neurosis." The Hellenistic-European
 principle of victory through effort, cunning, force, and later European
 Darwinism produced an ego that analyzed matter, tested, sorted, and reduced it
 to formulas. Matter became a concept that "hung like a disaster over the West."
-This objective reality conception produced modern [[fukuoka-illusions-of-natural-science]] and
-
-## See Also
-- [[lsd]]
-- [[hofmann-lsd-black-market-and-dangers]]
+This objective reality conception produced modern [[lsd]]
 - [[hofmann-lsd-pharmacology-and-effects]]
-- [[hofmann-lsd-mazatec-and-psilocybin]]
 - [[metzner-lsd-origins-sandoz-psycholytic-osmond-hoffer-alcoholism-and-consciousness-expansion]]
 
 ## Practical Applications
@@ -125,8 +120,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[lsd]]
 - [[psilocybin]]
-- [[hofmann-lsd-mazatec-and-psilocybin]]
 - [[hofmann-lsd-black-market-and-dangers]]
 - [[hofmann-lsd-pharmacology-and-effects]]

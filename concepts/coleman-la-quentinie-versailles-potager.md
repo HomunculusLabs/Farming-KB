@@ -10,19 +10,7 @@ topics: history, intensive-gardening, season-extension, french-agriculture
 
 The intensive vegetable production system that reached its zenith in
 nineteenth-century Paris had its origins two centuries earlier in the
-royal potager ([[fukuoka-dutch-priest-vegetable-garden-spiritual-renewal]]) at the Palace of Versailles. The
-celebrated head gardener Jean-Baptiste de La Quintinie (1626-1688)
-pioneered many of the techniques that would later be refined and
-expanded by the Parisian maraichers (market gardeners).
-
-### Jean-Baptiste de La Quintinie
-
-La Quintinie was appointed by King Louis XIV in 1670 to create and
-manage the royal vegetable garden at Versailles. His official title
-was Directeur Général des Jardins Fruitiers et Potagers de Toutes les
-Maisons Royales (Director General of Fruit and Vegetable Gardens of
-All the Royal Houses). Under his direction, the Potager du Roi (King's
-[[holzer-kitchen-garden-herbs-and-medicinal-plants]]) became a model of intensive cultivation.
+royal potager ([[holzer-kitchen-garden-herbs-and-medicinal-plants]]) became a model of intensive cultivation.
 
 La Quintinie was not merely a gardener but a serious student of plant
 physiology. He conducted careful experiments on soil management, pruning,
@@ -48,27 +36,9 @@ become foundational to the French intensive system:
    was common at the time, maximizing production per unit area.
 
 4. **Succession cropping**: The garden practiced continuous
-   [[coleman-four-season-farm]]
-- [[coleman-moveable-greenhouse-system]]
+   [[coleman-moveable-greenhouse-system]]
 
-See also: [[solomon-greenhouse-and-season-extension-basics]]
-## Practical Considerations
-
-When working with La Quintinie and the Versailles Potager: Origins of Intensive Vegetable Production, several practical factors should be
-carefully considered to achieve optimal results. These include
-the specific conditions of the implementation context, available
-resources, timing requirements, and the interactions between this
-topic and other elements of the broader system. A holistic view
-that considers these interconnections produces better outcomes.
-
-Environmental conditions such as temperature, moisture, and
-seasonal patterns significantly influence results. Monitoring these
-variables and adapting practices accordingly is essential for success.
-The most effective practitioners develop keen observation skills and
-respond flexibly to changing conditions rather than following rigid
-protocols regardless of circumstances or local variation.
-
-[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
+See also: [[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -111,8 +81,6 @@ through generations to modern scientific approaches, the evolution continues
 to inform current best practices and research directions.
 
 ## See Also
-- [[doc]]
 - [[coleman-wash-pack-infrastructure-four-season-farm]]
-- [[coleman-row-cover-fabric-management]]
 - [[coleman-rolling-greenhouse-wheel-rail-design]]
 - [[coleman-double-layer-protection-greenhouse-row-cover]]

@@ -19,16 +19,7 @@ created: 2026-04-28
 
 ## Overview
 
-**Lemon Cherry Gelato** is a balanced hybrid [[blesching-cannabis-strain-selection-receptor-targeting]] descended from the
-iconic Gelato genetic line. Bred by crossing Lemon Haze with Cherry Gelato, it
-combines bright citrus terpenes with sweet, creamy dessert flavors characteristic
-of the Gelato family.
-
-The strain has gained significant popularity since 2022 for its potent effects and
-complex flavor profile. It is sought after by both recreational consumers and medical
-patients for its balanced cerebral and physical experience.
-
-With [[thc-content-factors-cultivation-freshness-storage-degradation-blesching]] typically ranging from 19–25%, Lemon Cherry Gelato delivers strong
+**Lemon Cherry Gelato** is a balanced hybrid [[thc-content-factors-cultivation-freshness-storage-degradation-blesching]] typically ranging from 19–25%, Lemon Cherry Gelato delivers strong
 but manageable potency. Its effects are described as euphoric and relaxing without
 being overly sedating at moderate doses.
 
@@ -38,9 +29,8 @@ Lemon Cherry Gelato is a three-way cross combining genetics from several promine
 modern cannabis lines:
 
 - **Lemon Haze** (sativa-dominant parent) — Silver Haze × Lemon Skunk
-- **Cherry Gelato** — [[girl-scout-cookies]] × [[granddaddy-purple]] descendant crossed
-  with [[thin-mint-cookies]] lineage
-- The Gelato backbone traces through [[sunset-sherbet]] → Girl Scout Cookies
+- **Cherry Gelato** — [[granddaddy-purple]] descendant crossed
+  with [[sunset-sherbet]] → Girl Scout Cookies
 
 The sativa influence from Lemon Haze provides uplifting, creative cerebral effects,
 while the heavy indica genetics from the Cherry and Gelato side contribute body

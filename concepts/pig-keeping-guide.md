@@ -10,7 +10,7 @@ sources:
 
 Updated: 2026-04-18
 
-Source: The Ultimate Guide to [[comparison-natural-farming-vs-permaculture]] and [[natural-farming-sustainable-living-principles]], Nicole Faires
+Source: The Ultimate Guide to [[natural-farming-sustainable-living-principles]], Nicole Faires
 
 Pigs are among the most efficient livestock for the homestead, functioning as foragers, land clearers, and waste recyclers. Their rooting behavior makes them excellent natural plows for preparing garden beds.
 
@@ -20,7 +20,6 @@ Pigs serve multiple valuable functions:
 
 - **Land clearing**: Their rooting action clears brush, blackberries, and scrub, preparing beds for planting
 - **Natural plowing**: They dig up roots and turn soil, eliminating the need for mechanical tilling
-- **[[comparison-pheromone-based-pest-control-vs-beneficial-insect-biocontrol]]**: They eat fallen fruit that would otherwise harbor pests
 - **[[mollison-designers-banana-circle-waste-recycling-system]]**: Pigs consume food waste — up to 25 pounds (11.3 kg) of food per day
 - **Foraging**: They eat grass, herbs, vines, nuts, and roots
 - **Meat production**: Efficient converters of forage and waste into high-quality protein

@@ -13,10 +13,7 @@ type: concept
 ## Overview
 
 Soil is the primary receptor for persistent organic pollutants (POPs)
-and represents the most common target for [[staycare-composting-as-a-fungal-bioremediation-strategy]].
-Fungi offer unique advantages for soil remediation through their
-filamentous growth habit, which enables efficient colonization and
-exploration of solid substrates, and their [[dighton-fungal-extracellular-enzyme-systems-decomposition]]
+and represents the most common target for [[dighton-fungal-extracellular-enzyme-systems-decomposition]]
 systems that can attack pollutants without requiring cellular uptake.
 However, the soil environment presents significant challenges including
 variable physicochemical conditions, competition from indigenous
@@ -27,10 +24,7 @@ fungal bioremediation in soil systems.
 ## Fungal Growth in Soil
 
 Soil is not the natural habitat for many fungi used in bioremediation,
-most of which are wood-decay organisms. [[phanerochaete-chrysosporium]], which naturally colonize dead wood, may
-require soil conditions to be altered to encourage their growth. Soil
-physicochemical factors including pH, moisture content, temperature,
-and [[ph-and-nutrient-availability-garden-soils]] dramatically affect pollutant transformation
+most of which are wood-decay organisms. [[ph-and-nutrient-availability-garden-soils]] dramatically affect pollutant transformation
 rates. Different fungi have different soil preferences: Lentinula
 edodes was more effective at transforming pentachlorophenol at lower
 soil moisture contents, while P. chrysosporium performed better at
@@ -118,8 +112,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[indigenous-microorganisms]]
 - [[composting]]
-- [[white-rot-fungi]]
 - [[pleurotus-species]]
 - [[dichomitus-squalens]]

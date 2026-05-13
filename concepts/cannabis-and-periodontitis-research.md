@@ -10,7 +10,7 @@ sources:
 
 # Cannabis and Periodontitis Research
 
-**Source:** [[uwe-blesching]], The [[blesching-cannabis-health-index-autoimmune-conditions]] (2017)
+**Source:** [[blesching-cannabis-health-index-autoimmune-conditions]] (2017)
 
 ## Condition Overview
 
@@ -33,17 +33,7 @@ Periodontitis is inflammation of tissues supporting the teeth, caused by oral mi
 | Agent | Study Type | Year, Location, Key Finding | CHI |
 |-------|-----------|---------------------------|-----|
 | CBD | Animal study (rats) | 2009 -- University of Uberaba, Brazil: CBD reduces alveolar bone loss | 2 |
-| | | **Total [[blesching-cannabis-prostate-cancer-chi-value-3]]: 2** | |
-
-## ECS Relevance
-
-- CB1 and CB2 receptors found in bone tissue
-
-- Anandamide is produced in bone and synovial tissue
-
-- CBD has greater affinity for CB2
-
-- Indica and indica-dominant strains tend to have lower THC:[[cannabis-thc-cbd-ratio-guide-for-conditions]], resulting in relatively higher CB2 activation
+| | | **Total [[cannabis-thc-cbd-ratio-guide-for-conditions]], resulting in relatively higher CB2 activation
 
 ## Pharmacological Mechanisms
 
@@ -57,9 +47,7 @@ The endocannabinoid system plays a significant role in bone metabolism, with bot
 
 - **Osteoblast stimulation:** Some evidence suggests that CB2 receptor activation may also promote osteoblast activity and new bone formation, potentially helping to restore bone that has been lost to periodontal disease.
 
-- **Periodontal ligament effects:** The periodontal ligament contains [[cannabinoid-receptors-cb1-cb2]] that may modulate the mechanical and biological properties of the tissue connecting teeth to bone.
-
-- **[[endogenous-opioids-pain-modulation-endocannabinoid-interaction]]:** Periodontitis causes significant oral pain. CB1 and CB2 receptors in the trigeminal nerve pathways modulate dental pain signaling, providing analgesic benefits beyond the disease-modifying effects.
+- **Periodontal ligament effects:** The periodontal ligament contains [[endogenous-opioids-pain-modulation-endocannabinoid-interaction]]:** Periodontitis causes significant oral pain. CB1 and CB2 receptors in the trigeminal nerve pathways modulate dental pain signaling, providing analgesic benefits beyond the disease-modifying effects.
 
 ## Clinical Evidence
 
@@ -67,23 +55,9 @@ The clinical evidence for cannabis in periodontitis is very limited but mechanis
 
 - **Alveolar bone loss reduction (2009, Uberaba, Brazil):** The University of Uberaba study was the first to examine CBD's effects on experimentally induced periodontitis. Rats treated with CBD showed significant reduction in alveolar bone resorption compared to untreated controls, establishing proof-of-concept for cannabinoid-based periodontal therapy.
 
-- **CB2 [[blesching-cannabis-prostate-cancer-cb1-cb2-receptor-targeting-research]]:** The study's focus on CBD (which preferentially activates CB2 receptors) is significant because CB2 receptors are the primary cannabinoid receptor type involved in bone metabolism. This suggests a targeted mechanism rather than a generalized anti-inflammatory effect.
+- **CB2 [[fukuoka-pine-rot-root-cause]] by reducing the stress-induced inflammatory cascade that exacerbates periodontal disease.
 
-- **Systemic implications:** Periodontitis is increasingly recognized as a risk factor for cardiovascular disease, with oral bacteria and inflammatory mediators entering the bloodstream and contributing to atherosclerosis. By reducing periodontal inflammation and bone destruction, cannabinoids may have systemic cardiovascular benefits beyond oral health.
-
-- **Stress-bone connection:** The CHI notes that chronic psychological stress (financial difficulties, grief, caregiving) is a significant risk factor for periodontitis. CBD's anxiolytic properties may address this [[fukuoka-pine-rot-root-cause]] by reducing the stress-induced inflammatory cascade that exacerbates periodontal disease.
-
-- **Limitations:** Only one animal study exists. Human [[mushroom-cancer-clinical-trials-overview]] are needed to confirm efficacy, optimal dosing, and delivery method for periodontal applications.
-
-## Dosing Considerations
-
-- **CBD-focused approach:** Given that CBD was the studied agent and has CB2 receptor preference, a CBD-dominant preparation is most appropriate. CBD 15-25 mg twice daily may provide anti-inflammatory and bone-protective effects.
-
-- **Local delivery potential:** Future formulations may include CBD-infused oral rinses, toothpastes, or periodontal gels for direct topical application to affected tissues. These would deliver CBD precisely where needed while minimizing systemic effects.
-
-- **Adjunctive to dental care:** Cannabis therapy should complement -- never replace -- conventional periodontal treatment including professional scaling, root planing, and improved oral hygiene.
-
-- **[[blesching-cannabis-strain-selection-receptor-targeting]]:** CBD-rich indica strains are most consistent with the evidence base. Whole-plant extracts containing myrcene (anti-inflammatory terpene) and beta-caryophyllene (CB2 agonist terpene) may provide enhanced bone-protective effects.
+- **Limitations:** Only one animal study exists. Human [[blesching-cannabis-strain-selection-receptor-targeting]]:** CBD-rich indica strains are most consistent with the evidence base. Whole-plant extracts containing myrcene (anti-inflammatory terpene) and beta-caryophyllene (CB2 agonist terpene) may provide enhanced bone-protective effects.
 
 - **THC consideration:** THC may provide additional anti-inflammatory benefits through CB1 receptor activation in periodontal tissues, but the primary evidence supports CBD. A low-THC, high-CBD ratio (1:5 to 1:10) is recommended.
 
@@ -118,8 +92,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[doc]]
 - [[dom]]
-- [[myrcene]]
 - [[endocannabinoid-system]]
 - [[anandamide]]

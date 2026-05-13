@@ -21,23 +21,10 @@ The idea that fungi can be parasitized by other fungi challenges
 the common perception of these organisms primarily as decomposers
 or plant pathogens. Mycoparasites, fungi that infect other fungi,
 represent a fascinating ecological strategy that reveals the
-predatory nature underlying much of fungal biology. [[nicholas-money]]
-explores this theme in the closing chapter of his book, using
-the genus Asterophora as a particularly conspicuous example.
-
-## Mycoparasitism as an Ecological Strategy
-
-Fungi, Money observes, are united by four common features: they
-penetrate their food with invasive hyphae, feed by absorbing
-nutrients, reproduce by [[light-role-spore-formation-geotropic-sensitivity-psilocybe-cubensis]], and show a marked
+predatory nature underlying much of fungal biology. [[light-role-spore-formation-geotropic-sensitivity-psilocybe-cubensis]], and show a marked
 propensity for attacking other organisms. While obvious parasites
 are encountered among all fungal groups, many apparently innocuous
-species will attack [[savory-living-organisms-as-tools]] when opportunities present
-themselves. Mycoparasitism is a natural extension of this
-aggressive nutritional strategy.
-
-The ecological logic is straightforward. Fruiting bodies of
-mushrooms are dense concentrations of [[organic-nutrients-vs-synthetic-nutrients]], packaged
+species will attack [[organic-nutrients-vs-synthetic-nutrients]], packaged
 in moist, protected environments. For a fungus capable of
 exploiting them, they represent an ideal food source. The
 parasitic fungus need not invest in the expensive business of
@@ -58,36 +45,11 @@ Asterophora fruiting bodies are distinctive in appearance. They
 are small, chalky, and covered in a powdery coating of spores
 that gives them a mealy texture unlike any typical mushroom.
 This unusual morphology reflects the parasitic lifestyle. The
-fungus does not need the robust [[comparison-silicon-vs-calcium-in-plant-defense-and-structural-support]] that a free-
-living mushroom requires to elevate its spore-producing surfaces
-above the forest floor. It grows directly on the collapsing
-remains of its host, conserving resources that would otherwise
-be spent on stipe and cap construction.
-
-## Cordyceps as a Truffle Parasite
-
-While most species of Cordyceps are known as [[bloomfield-cordyceps-insect-pathogens-behavior]],
+fungus does not need the robust [[bloomfield-cordyceps-insect-pathogens-behavior]],
 the genus also includes species that infect the underground
 fruiting bodies of truffles. This dual parasitic capability
 demonstrates the opportunistic flexibility of the
-[[comparison-trichoderma-vs-entomopathogenic-fungi]]. A fungus adapted to penetrating insect
-cuticle and digesting internal tissues can, with relatively
-minor modifications, adapt to exploiting the nutrient-rich
-interior of a subterranean mushroom.
-
-The truffle-parasitizing Cordyceps species face particular
-challenges. Truffles fruit below ground, often at considerable
-depth, and their spores are dispersed by mammals that dig them
-up. A parasitic fungus growing on a truffle must either exploit
-the same dispersal pathway or develop its own independent spore
-release mechanism. The evolutionary pressure to solve this
-problem has likely contributed to the diversity of reproductive
-strategies observed within the Cordyceps genus.
-
-## Cultivated Mushroom Diseases
-
-Mushroom farms provide ideal conditions for mycoparasites. The
-humid environments needed for commercial [[accessible-mushroom-cultivation-for-disabilities]]
+[[accessible-mushroom-cultivation-for-disabilities]]
 
 ## Practical Applications
 
@@ -118,8 +80,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[spore]]
 - [[mycelium]]
-- [[trichoderma]]
 - [[decomposition]]
 - [[silicon]]

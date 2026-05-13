@@ -4,20 +4,19 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [pest-management, agriculture, gardening, pest-control, troubleshooting, cover-crop, soil, biology]
-sources:
-  - "raw/papers/rudolf-steiner-biodynamic-agriculture.md"
+sources: []
 ---
 
 # Nematode Management
 
-Plant-parasitic nematodes are microscopic roundworms that attack plant roots, causing stunting, yellowing, wilting, and reduced yields. Root-knot nematodes (Meloidogyne spp.) are the most damaging and widespread group, affecting tomatoes, carrots, peppers, cucurbits, and many other crops. Management requires an [[solomon-insects-and-diseases-integrated-approach]] combining crop rotation, resistant varieties, biological controls, and soil health improvement.
+Plant-parasitic nematodes are microscopic roundworms that attack plant roots, causing stunting, yellowing, wilting, and reduced yields. Root-knot nematodes (Meloidogyne spp.) are the most damaging and widespread group, affecting tomatoes, carrots, peppers, cucurbits, and many other crops. Management requires an integrated approach combining crop rotation, resistant varieties, biological controls, and soil health improvement.
 
 ## Understanding Nematodes
 
 ### Types of Plant-Parasitic Nematodes
 
 **Root-Knot Nematodes (Meloidogyne spp.)**
-- The most destructive group in home [[query-which-legumes-fix-the-most-nitrogen-for-gardens-and-farms]]
+- The most destructive group in home gardens and farms
 - Cause characteristic galls (knots) on roots that interfere with water and nutrient uptake
 - Affected plants show stunting, wilting in hot weather (despite adequate moisture), yellowing, and reduced yields
 - Species include M. incognita (southern root-knot), M. hapla (northern root-knot), M. javanica, and M. arenaria
@@ -68,7 +67,7 @@ Not all nematodes are plant pests. Beneficial (entomopathogenic) nematodes are p
 ### Soil Testing
 
 - Collect soil samples from the root zone (4-6 inches deep, 15-20 cores per sample area)
-- Submit to a nematode [[solomon-soil-testing-laboratory-analysis-low-input-gardening]] (many university extension services offer this)
+- Submit to a nematode testing laboratory (many university extension services offer this)
 - Sample in late summer or early fall when populations are typically highest
 - Test before planting susceptible crops to determine if nematodes are present and at what level
 
@@ -82,14 +81,14 @@ Rotation is the most important long-term strategy. The key is to rotate between 
 
 ### Cover Crop Rotation for Nematode Suppression
 
-Certain [[query-how-do-cover-crops-suppress-weeds]] nematode populations through natural chemical compounds or by acting as poor hosts that stimulate nematode eggs to hatch without providing food.
+Certain cover crops suppress nematode populations through natural chemical compounds or by acting as poor hosts that stimulate nematode eggs to hatch without providing food.
 
 - **French marigolds (Tagetes patula)**: Release alpha-terthienyl from their roots, which is toxic to root-knot nematodes. Plant densely as a cover crop for one full growing season. Varieties with the highest nematicidal effect: 'Nemagone', 'Petite Harmony', 'Tangerine'. See details below.
 - **Cereal rye**: Poor host for root-knot nematodes. The rye residues contain allelopathic compounds that suppress nematode populations after incorporation.
 - **Sorghum-sudangrass**: Roots release a natural nematicide (sorgoleone). Incorporate the green manure at peak growth for maximum effect.
 - **Mustard**: Biofumigant glucosinolates suppress nematodes. See [[green-manure-crops]] for biofumigation protocol.
 - **Daikon radish**: Moderate biofumigant effect; breaks compaction, improving root growth of subsequent crops.
-- See [[cover-cropping-guide]] and [[crop-rotation-principles]] for comprehensive [[coleman-yearly-schedule-multi-crop-winter-rotation-planning]].
+- See [[cover-cropping-guide]] and [[crop-rotation-principles]] for comprehensive rotation planning.
 
 ## Marigolds for Nematode Control
 
@@ -136,7 +135,7 @@ Many vegetable varieties have been bred for nematode resistance. The letter "N" 
 
 ### Beneficial Nematodes (Entomopathogenic)
 
-While [[entomopathogenic-nematodes-biological-pest-control]] (Steinernema, Heterorhabditis) primarily target insect pests, some research suggests they may also suppress plant-parasitic nematodes through competition and antibiotic production. Apply as a soil drench in spring.
+While entomopathogenic nematodes (Steinernema, Heterorhabditis) primarily target insect pests, some research suggests they may also suppress plant-parasitic nematodes through competition and antibiotic production. Apply as a soil drench in spring.
 
 ### Mycorrhizal Fungi
 

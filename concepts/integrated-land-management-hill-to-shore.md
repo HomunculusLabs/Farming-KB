@@ -62,11 +62,11 @@ Artificial reef systems of tyres (on sand), coral blocks, and boxes of palm trun
 
 ### Living Fences
 
-Living fences provide stock-proof barriers while simultaneously producing useful materials. [[euphorbia-tirucalli]] and Euphorbia tirucalli can be propagated from cuttings even in arid conditions. [[acacia-tortilis]] is ideal for cut-and-build fences. Euphorbia species require safety precautions — eye protection with goggles and skin coverage for those allergic to the milky sap.
+Living fences provide stock-proof barriers while simultaneously producing useful materials. [[acacia-tortilis]] is ideal for cut-and-build fences. Euphorbia species require safety precautions — eye protection with goggles and skin coverage for those allergic to the milky sap.
 
 ### Windbreak Design
 
-Primary tall windbreaks of Araucaria, Cupressus, Casuarina, Pinus, hardy Phoenix palms, and even mangroves may be needed in front-line locations. These are followed in the lee by hardy quickset species such as Euphorbia tirucalli, Coprosma repens, and Echium fastuosum. It is always best to find local plant species that perform well in the district.
+Primary tall windbreaks of Araucaria, Cupressus, Casuarina, Pinus, hardy Phoenix palms, and even mangroves may be needed in front-line locations. These are followed in the lee by hardy quickset species such as [[euphorbia-tirucalli]], Coprosma repens, and [[echium-fastuosum]]. It is always best to find local plant species that perform well in the district.
 
 ### Erosion Control Grasses
 
@@ -95,6 +95,5 @@ Based on traditional and modern villages, a complex can be built from the follow
 Integrated land management requires thinking at the landscape scale rather than the individual property scale. The stable, productive landscape is one where every zone — from the protected summit forest to the managed marine environment — contributes to and is supported by the others. Nutrients flow downhill from forest to farm to sea; water is harvested and recycled at every opportunity; and human settlement is positioned at the safe, productive interface between zones. The goal is a landscape that provides for human needs while maintaining or enhancing ecological function.
 ## See also
 
-- [[permaculture-design]]
 - [[slope-analysis-in-permaculture]]
 - [[soil-erosion-control]]

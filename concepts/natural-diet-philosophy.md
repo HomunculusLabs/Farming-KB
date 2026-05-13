@@ -1,6 +1,6 @@
-# [[masanobu-fukuoka]]'s [[fukuoka-natural-alfalfa-black-wattle-ground-cover]]-farming-principlesples into
+# [[fukuoka-natural-alfalfa-black-wattle-ground-cover]]-farming-principlesples into
 human nutrition. He argued that food and farming are "the front and back of
-one body" and that a [[fukuoka-natural-diet-as-foundation]] cannot exist without [[natural-farming]], nor can
+one body" and that a [[natural-farming]], nor can
 the farmer know what to grow without a natural diet being established. His
 approach rejects both the modern scientific diet and rigid dietary doctrines,
 proposing instead a "diet of non-discrimination" guided by bodily instinct and
@@ -9,71 +9,7 @@ local seasonal availability.
 ## The Unity of Food and Farming
 
 Fukuoka insisted that the connection between food production and consumption is
-inseparable. "It is clearer than firelight that if [[comparison-natural-farming-vs-permaculture]] is not
-practiced natural food will not be available to the public. But if natural
-diet is not established the farmer will remain confused about what to grow."
-
-Unless people become natural people, there can be neither natural farming nor
-natural food. In one of the huts on the mountain he left the words "Right
-Food, Right Action, Right Awareness" inscribed on a pinewood plaque above the
-fireplace. The three cannot be separated from one another. If one is missing,
-none can be realized. If one is realized, all are realized.
-
-## Four Classifications of Diet
-
-Fukuoka identified four main categories of human diet representing stages of
-increasing awareness. First, the **lax diet**: conforming to habitual desires
-and taste preferences, swaying erratically in response to whims. This is
-self-indulgent, empty eating and the source of countless diseases.
-
-Second, the **standard nutritional diet**: proceeding from biological
-conclusions, eating nutritious foods for maintaining the body. This is
-materialist, scientific eating that isolates human beings from nature.
-
-Third, the **diet of principle**: based on spiritual principles and idealistic
-philosophy, limiting foods and aiming toward compression. Most so-called
-natural diets fall into this category.
-
-Fourth, the **natural diet**: following the will of heaven, discarding all
-human knowledge. This is the diet of non-discrimination, where the body
-follows its own instinct, eating if something tastes good and abstaining if
-it does not.
-
-## The Diet of Non-Discrimination
-
-Human life is not sustained by its own power. Nature gives birth to human
-beings and keeps them alive. Food is a gift of heaven. When food, the body,
-the heart, and the mind become perfectly united within nature, a natural diet
-becomes possible. The body as it is, following its own instinct, eating if
-something tastes good, abstaining if it does not, is free.
-
-It is impossible to prescribe rules and proportions for a natural diet. This
-diet defines itself according to the local environment and the bodily
-constitution of each person. Nature serves as a capable guide, but this subtle
-guidance goes unheard by most people because of the clamour caused by desire
-and by the activity of the discriminating mind.
-
-## Limitations of the Diet of Principle
-
-Everyone should be aware that nature is always complete, balanced in perfect
-harmony within itself. By applying the system of yin and yang, people can
-explain the origin of the universe and the transformations of nature. But if
-the doctrines are entered into too deeply, one enters the domain of science
-and fails to make the essential escape from discriminating perception.
-
-Swept along by the subtleties of human knowledge without recognizing its
-limits, the practitioner of the diet of principle comes to concern himself
-only with separate objects. When trying to grasp the meaning of nature with a
-wide and far-reaching vision, he fails to notice the small things happening
-at his feet.
-
-## Food, Taste, and the Human Spirit
-
-Fukuoka emphasized that nutrition cannot be separated from the sense of taste.
-Nutritious foods that are good for the human body whet the appetite and are
-delicious on their own account. Proper nourishment is inseparable from good
-flavour. He criticized Western nutritional science for having no effort to
-adjust the diet to the [[fukuoka-textdoc-animal-manure-human-waste-natural-cycle-heretic]], resulting in a diet that isolates human
+inseparable. "It is clearer than firelight that if [[fukuoka-textdoc-animal-manure-human-waste-natural-cycle-heretic]], resulting in a diet that isolates human
 beings from nature and creates fear and insecurity.
 
 Spiritual and emotional values are entirely forgotten in nutritional science,
@@ -88,3 +24,88 @@ Modern people have lost their clear instinct and cannot gather and enjoy the
 seven herbs of spring. They go out seeking a variety of flavours, their diet
 becomes disordered, and their instinct becomes increasingly bewildered. People
 "eat with their minds, not with their bodies" and are easily fooled by
+
+## Overview
+
+Natural Diet Philosophy represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish natural diet philosophy
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving natural extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Natural Diet Philosophy finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for natural diet philosophy. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+natural diet philosophy and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Natural Diet Philosophy has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of natural diet philosophy into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[fukuoka-natural-ecosystem-food-chain-interconnection]]
+- [[fukuoka-natural-perceiving-nature-without-relativism]]
+- [[natural-dye-plants]]
+- [[natural-farming-animal-husbandry]]
+- [[natural-farming-fukuoka]]

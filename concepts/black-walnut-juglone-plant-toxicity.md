@@ -59,25 +59,13 @@ The most sensitive garden vegetables include:
 
 Tomato is among the most severely affected vegetables and serves as a
 bioindicator plant. Even small amounts of juglone cause rapid wilting and
-death. See [[potato-growing-guide]].
-
-Other highly sensitive vegetables include eggplant, pepper, cabbage,
-broccoli, cauliflower, Brussels sprouts, and kohlrabi. Members of the
-Solanaceae (nightshade) and Brassicaceae (mustard) families are generally
-the most affected.
-
-## Juglone-Tolerant Plants
-
-Several vegetables and ornamentals can be grown near black walnut trees
-without significant [[blesching-cannabis-safety-adverse-effects-evidence]]. These include:
+death. See [[blesching-cannabis-safety-adverse-effects-evidence]]. These include:
 
 Beans (lima and snap), beets, carrots, corn, melons, onions, parsnips,
 radishes, squash, and sweet potatoes have shown good tolerance. Cherry
 trees, black raspberry, and quince are among the tolerant fruit species.
-See [[permaculture-walnut-guide]] and [[conium-maculatus]]
+See [[conium-maculatus]]
 
-- [[home-vegetable-garden-planning]]
-- permaculture-designers-manual-plant-toxins-dryland
 - [[plant-defense-mechanisms]]
 
 ## Practical Applications
@@ -109,8 +97,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[juglans-nigra]]
 - [[permaculture]]
-- [[ghb]]
 - [[black-walnut-juglans-nigra]]
 - [[psilocybin-toxicity-and-safety-profile]]

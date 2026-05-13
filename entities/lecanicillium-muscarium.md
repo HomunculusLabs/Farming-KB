@@ -21,22 +21,8 @@ sources:
   - Vega, F.E. et al. (2009). "Fungal entomopathogens: new insights into their ecology." Fungal Ecology 2(4): 149-159.
 aliases:
   - L. muscarium
-  - [[verticillium-lecanii]]
-  - V. muscarium
-  - Mycotal
----
-
-## Overview
-
-**Lecanicillium muscarium** (Petch) Zare & W. Gams is an entomopathogenic and mycoparasitic
-fungus in the family Cordycipitaceae (Hypocreales). Originally described as *Verticillium
-lecanii*, it was transferred to *Lecanicillium* following taxonomic revision by Zare and
-Gams in 2001.
-
-The species is a versatile [[fukuoka-textdoc-biological-control-fallacy-pheromone-critique]] agent with dual activity against insect pests
-and [[bloomfield-fungal-plant-pathogens]]. Commercial formulations (notably Mycotal™ and Vertalec™) have
-been used globally for decades, targeting whiteflies, aphids, thrips, and the causal agent
-of [[cervantes-powdery-mildew-prevention-treatment]] across greenhouse and field crops.
+  - [[fukuoka-textdoc-biological-control-fallacy-pheromone-critique]] agent with dual activity against insect pests
+and [[cervantes-powdery-mildew-prevention-treatment]] across greenhouse and field crops.
 
 ## Taxonomy and Classification
 
@@ -53,38 +39,89 @@ from *L. longisporum* (a pathogen predominantly of aphids) and *L. attenuatum*.
 
 ## Morphology
 
-Colonies on [[malt-extract-agar]] (MEA) grow moderately, reaching 30-45 mm diameter in 14 days
-at 22°C. Colony color is initially white, becoming pale lilac to lavender with age, with
-a velvety to floccose texture.
-
-Conidiophores are erect, bearing whorls of 3-5 phialides at each node. Conidia are
-hyaline, ellipsoidal to cylindrical, 3.0-5.0 × 1.5-2.5 μm, produced in slimy heads at
-the phialide tips. The slimy conidial masses facilitate adherence to insect cuticles.
-
-Phialides are swollen at the base, tapering to a narrow collarette. Chlamydospores may
-form in older cultures, globose, 8-15 μm diameter, with thickened walls.
-
-## Host Range and Pathogenicity
-
-*L. muscarium* has a broad host range among Hemiptera, particularly whiteflies
-(*Trialeurodes vaporariorum*, *Bemisia tabaci*), aphids (*Myzus persicae*, *Aphis gossypii*),
-and thrips (*Frankliniella occidentalis*). It also infects soft-scale insects and mites.
-
-Infection follows the typical entomopathogenic pattern: conidial adhesion to the host
-cuticle, germination, germ tube penetration through enzymatic cuticular degradation, and
-proliferation as hyphal bodies (blastospores) within the hemocoel. Death occurs within
-3-7 days, after which the fungus sporulates on the cadaver surface.
-
-The fungus additionally acts as a mycoparasite, directly parasitizing [[ingham-ampelomyces-powdery-mildew-biocontrol-aact]]
+Colonies on [[ingham-ampelomyces-powdery-mildew-biocontrol-aact]]
 conidia and haustoria. This dual activity is unique among commercial biocontrol fungi and
-provides broad-spectrum disease [[garden-myths-weeds-and-pest-management]].
-
-## Distribution and Ecology
-
-*L. muscarium* is globally distributed in tropical, subtropical, and [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]].
+provides broad-spectrum disease [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]].
 It occurs naturally in soil, leaf litter, and phyllosphere environments. Natural
 epizootics are observed in whitefly and aphid populations during humid conditions.
 
 Environmental persistence is moderate, with conidia surviving 2-4 weeks on leaf surfaces
 depending on UV exposure and humidity. Soil populations persist longer, maintained by
 infected cadavers and saprophytic growth on organic matter.
+
+## Overview
+
+Lecanicillium Muscarium represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish lecanicillium muscarium
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving lecanicillium extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Lecanicillium Muscarium finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for lecanicillium muscarium. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+lecanicillium muscarium and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Lecanicillium Muscarium has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of lecanicillium muscarium into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.

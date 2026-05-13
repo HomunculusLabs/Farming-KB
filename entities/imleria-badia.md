@@ -22,9 +22,7 @@ sources:
 
 ## Overview
 
-Imleria badia, the bay bolete, is an edible [[ectomycorrhizal-mushroom-fruiting-ecology]] in
-Boletaceae, widely distributed across temperate forests of Europe, Asia, and
-[[psilocybin-north-america-pacific-northwest]]. It fruits from mid-summer through late autumn beneath conifers
+Imleria badia, the bay bolete, is an edible [[psilocybin-north-america-pacific-northwest]]. It fruits from mid-summer through late autumn beneath conifers
 and hardwoods, and remains one of the most commonly collected wild edible
 mushrooms in central and northern Europe.
 
@@ -53,11 +51,7 @@ olive-brown. Flesh bluing faintly; taste mild, odor pleasant.
 ## Distribution and Habitat
 
 Broad circumboreal distribution: Europe, Asia (China, Japan, Korea), and
-[[guzman-psilocybin-mushrooms-north-america]]. One of the most common boletes in Europe, from Scandinavia
-to the Mediterranean.
-
-Strongly ectomycorrhizal, associating primarily with Scots pine (*Pinus
-sylvestris*), spruce (*[[picea-abies]]*), fir (*Abies* spp.), and also birch
+[[picea-abies]]*), fir (*Abies* spp.), and also birch
 and oak in mixed woodlands. Fruits on acidic to neutral forest soils from
 July through November, most abundantly in wet autumns following warm summers.
 

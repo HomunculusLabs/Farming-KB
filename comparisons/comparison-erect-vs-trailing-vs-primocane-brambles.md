@@ -38,27 +38,7 @@ Choosing the right bramble growth habit is one of the most important decisions f
 | **Thorn availability** | Thornless options common | Mostly thorny | Thornless options increasing |
 | **Harvest season** | Summer | Summer | Late summer to fall (or double crop) |
 | **Spreading habit** | Suckers / crown | Tip layering | Suckers (erect types) or tip layering |
-| **Best for** | Home gardens, general purpose | uncommon specialty uncommon specialty fruit crops for permaculture permaculture, Pacific NW | Extended season, [[container-growing-vegetables-herbs]], cold-climate simplification |
-
-## Growth Habit Comparison
-
-### Erect Brambles
-
-Erect brambles produce stiff, self-supporting canes that grow 3–6 feet tall. New canes emerge from the crown and, in many varieties, from root suckers some distance from the parent plant.
-
-**Strengths:**
-- Can be grown without trellising (though support improves yield)
-- Winter-hardy — many varieties survive to -20°F without protection
-- Easy to manage in a hedgerow or row system
-- Thornless varieties widely available ('Apache', 'Arapaho', 'Ouachita', 'Navajo')
-- Well-suited to home gardens and small-scale operations
-- Sucker production makes row renewal straightforward
-
-**Weaknesses:**
-- Generally lower fruit quality (smaller berries, less complex flavor) than trailing types
-- Suckering can become invasive without management
-- Less productive per linear foot than trailing types on trellises
-- Primocane tip pruning is required for optimal lateral branching [[query-how-do-i-grow-figs-in-cold-climates]]
+| **Best for** | Home gardens, general purpose | uncommon specialty uncommon specialty fruit crops for permaculture permaculture, Pacific NW | Extended season, [[query-how-do-i-grow-figs-in-cold-climates]]
 - Total yield per season is often lower than well-managed floricane types (unless double-cropping)
 - Fall berries are sometimes smaller and less sweet, especially in cool autumn conditions
 - Double-crop management reintroduces the complexity of distinguishing floricanes from primocanes
@@ -79,9 +59,7 @@ Erect brambles produce stiff, self-supporting canes that grow 3–6 feet tall. N
 
 ### Pruning and Labor
 
-**Erect brambles** require tip pruning of primocanes during the [[savory-growing-season-and-non-growing-season-management]] (at 36–48 inches), post-harvest removal of spent floricanes, and dormant-season thinning and lateral shortening. Annual labor estimate: 2–3 hours per 100 linear feet of row.
-
-**Trailing brambles** require training new canes onto the trellis throughout [[query-how-to-protect-plants-from-frost-and-extend-the-growing-season]], post-harvest floricane removal, and dormant-season thinning. No tip pruning. Annual labor estimate: 3–5 hours per 100 linear feet of row, primarily due to the physical challenge of untangling and managing long canes.
+**Erect brambles** require tip pruning of primocanes during the [[query-how-to-protect-plants-from-frost-and-extend-the-growing-season]], post-harvest floricane removal, and dormant-season thinning. No tip pruning. Annual labor estimate: 3–5 hours per 100 linear feet of row, primarily due to the physical challenge of untangling and managing long canes.
 
 **Primocane-fruiting brambles** (single-crop mode) require only one operation: mowing all canes to ground level in late winter before bud break. Annual labor estimate: 15–30 minutes per 100 linear feet of row. This is a dramatic reduction in management complexity.
 
@@ -93,20 +71,80 @@ Erect brambles produce stiff, self-supporting canes that grow 3–6 feet tall. N
 | Trailing blackberry | Zone 6–7 (some to Zone 5 with heavy mulch) | Canes can winter-kill below -10°F; lay canes down and mulch in cold zones |
 | Primocane red raspberry | Zone 3 ('Heritage', 'Prelude') | Extremely cold-hardy; canes don't need to overwinter for fruit in single-crop mode |
 | Primocane blackberry | Zone 5–6 ('Prime-Ark Traveler') | Less proven in extreme cold; limited data on multi-year hardiness |
-| Trailing blackberry | Zone 6–10 | Thrive in [[psilocybin-north-america-pacific-northwest]] climate; struggle with high summer heat in the South |
-
-### Yield and Fruit Quality
-
-**Yield per plant (approximate, well-managed):**
-- Erect blackberry: 10–15 lbs
-- Trailing blackberry: 12–20 lbs
-- Primocane red raspberry (single crop): 3–5 lbs
-- Primocane red raspberry (double crop): 5–8 lbs
-- Primocane blackberry: 8–15 lbs
-
-**Fruit quality metrics:**
-## See Also
-
-- comparison-fruit-tree-guilds-vs-companion-planting
-- [[comparison-windbreak-vs-hedgerow]]
+| Trailing blackberry | Zone 6–10 | Thrive in [[comparison-windbreak-vs-hedgerow]]
 - [[comparison-stevia-vs-monk-fruit-sweetener-cultivation]]
+
+## Overview
+
+Comparison Erect Vs Trailing Vs Primocane Brambles represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish comparison erect vs trailing vs primocane brambles
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving comparison extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Comparison Erect Vs Trailing Vs Primocane Brambles finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for comparison erect vs trailing vs primocane brambles. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+comparison erect vs trailing vs primocane brambles and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Comparison Erect Vs Trailing Vs Primocane Brambles has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of comparison erect vs trailing vs primocane brambles into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and

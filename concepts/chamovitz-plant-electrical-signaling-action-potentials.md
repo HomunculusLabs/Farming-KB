@@ -1,25 +1,6 @@
 ---
 title: "Electrical Signaling and Action Potentials in Plants"
-source: "What a Plant Knows - [[daniel-chamovitz]], Chapters 3-4 and Epilogue"
-tags:
-  - plant-biology
-  - action-potentials
-  - electrical-signaling
-  - venus-flytrap
-  - mimosa-pudica
-  - calcium-channels
-  - slow-wave-potentials
-  - wound-signaling
-  - systemic-acquired-resistance
-  - phloem-signaling
-  - chamovitz
----
-
-# Electrical Signaling and Action Potentials in Plants
-
-## Overview
-
-The discovery that plants generate and propagate [[tompkins-plant-electrical-signals]]
+source: "What a Plant Knows - [[tompkins-plant-electrical-signals]]
 represented a profound challenge to the assumption that electrical
 excitability is exclusive to animals. In "What a Plant Knows," Daniel
 Chamovitz examines the electrical signaling systems found in plants,
@@ -31,10 +12,7 @@ fundamentally different mechanisms and serve different biological functions.
 
 ## Action Potentials in Venus Flytrap
 
-The Venus flytrap ([[dionaea-muscipula]]) is the most dramatic example of
-electrical signaling in plants. When an insect touches trigger hairs on
-the trap's inner surface, the plant generates an action potential — a
-rapid, transient change in electrical voltage across the [[plant-cell-membrane-transport-proteins]].
+The Venus flytrap ([[plant-cell-membrane-transport-proteins]].
 This potential propagates through the trap tissue at speeds of up to
 20 centimeters per second. A single stimulation generates one action
 potential, but the trap only closes if two action potentials occur within
@@ -48,11 +26,7 @@ triggers additional channel openings, causing rapid membrane
 depolarization. The depolarization wave spreads through the symplast —
 the continuous cytoplasmic network connecting adjacent cells through
 plasmodesmata — causing the trap to snap shut through a sudden change in
-cell [[bloomfield-turgor-pressure-and-hyphal-invasion]] on the outer surface.
-
-## Mimosa Pudica: The Sensitive Plant
-
-[[mimosa-pudica]], commonly known as the sensitive plant, provides another
+cell [[mimosa-pudica]], commonly known as the sensitive plant, provides another
 striking example of plant electrical signaling. When touched, shaken, or
 exposed to heat, Mimosa rapidly folds its leaflets and droops its
 petioles — a response called thigmonasty. This movement is driven by
@@ -118,8 +92,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[plant-memory]]
 - [[det]]
-- [[mimosa-pudica]]
 - [[mimosa]]
 - [[chamovitz-plant-photoreceptors-beyond-phytochrome]]

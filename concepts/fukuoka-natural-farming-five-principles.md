@@ -7,31 +7,9 @@ created: 2026-05-09
 
 # Fukuoka's Five Principles of Natural Farming
 
-Masanobu Fukuoka (1913–2008) developed a revolutionary approach to agriculture based on five core principles: **no tillage, no fertilizer, no pesticides, no weeding, and no pruning**. Practiced on his farm in Ehime Prefecture, Japan for over fifty years, this "do-nothing" farming method consistently yielded 22 bushels (1,300 pounds) of winter grain and 22 bushels of rice per quarter-acre—comparable to or exceeding [[microwave-sterilization-versus-conventional-methods-comparison]]—without any chemical inputs or mechanized labor.
+Masanobu Fukuoka (1913–2008) developed a revolutionary approach to agriculture based on five core principles: **no tillage, no fertilizer, no pesticides, no weeding, and no pruning**. Practiced on his farm in Ehime Prefecture, Japan for over fifty years, this "do-nothing" farming method consistently yielded 22 bushels (1,300 pounds) of winter grain and 22 bushels of rice per quarter-acre—comparable to or exceeding [[fukuoka-critique-scientific-agriculture-civilization]] creates the very problems it then claims to solve: plowing compacts soil and necessitates further plowing; [[non-discriminating-knowledge-and-critique-of-scientific-reductionism]], inevitably disrupts the organic wholeness of living systems. Once broken down, nature cannot be returned to its original state. Fukuoka called this the "methodless method of nature, the unmoving way of Bodhidharma."
 
-## Philosophical Foundation
-
-Fukuoka's natural farming is rooted in the Buddhist concept of *Mu* (nothingness) and the conviction that nature cannot be understood through human intellectual analysis. He argued that [[fukuoka-critique-scientific-agriculture-civilization]] creates the very problems it then claims to solve: plowing compacts soil and necessitates further plowing; [[cervantes-chemical-fertilizers-guide]] kill soil life and create dependency; pesticides eliminate natural predators and trigger pest outbreaks.
-
-The fundamental premise is that **farmers do not produce food—nature does**. Human intervention, when guided by the fragmented logic [[non-discriminating-knowledge-and-critique-of-scientific-reductionism]], inevitably disrupts the organic wholeness of living systems. Once broken down, nature cannot be returned to its original state. Fukuoka called this the "methodless method of nature, the unmoving way of Bodhidharma."
-
-He believed that nature is [[fukuoka-nature-neither-living-nor-dead-holistic-biosystem]] dead, neither small nor large, weak or strong. Notions of right and wrong, good and bad, are alien to nature—these are distinctions invented by man. Nature maintained a great harmony without such notions, and brought forth the grasses and trees without the "helping" hand of man. The living and holistic biosystem cannot be dissected or resolved into its parts; once broken down, it dies.
-
-Natural farming is presented not merely as an agricultural technique but as a spiritual movement: a revolution to change the way humanity lives. Fukuoka called it the "practical foundation of a spiritual movement" and a return to the "absolute realm of nature."
-
-## The Five Principles in Detail
-
-### 1. No Tillage
-
-No plant on earth is so weak as to germinate only in plowed soil. Seeds sown by nature are not so weak as to grow only in plowed fields. Plants have always grown by direct seeding, without tillage. The soil in fields is worked by small animals and roots, and enriched by green manure plants—nature's own tillers.
-
-Flooding a field with water and stirring it with a plow causes the ground to harden like plaster, creating the very conditions that make plowing seem necessary. By killing the soil with plow and [[solomon-chemical-fertilizer-incomplete-potassium-yield-tradeoff]], and rotting the roots through prolonged summer flooding, farmers create weak, diseased rice plants that require both [[cannabis-chemical-fertilizers]] and pesticides. Fukuoka's fields were not plowed for over thirty years, yet produced sturdy rice plants with approximately 250 heads of grain per square yard and an average of 200 grains per head.
-
-### 2. No Fertilizer
-
-Chemical fertilizers became thought of as indispensable only in the last fifty years. Even organic farming, which moves materials from place to place in elaborate processing, ultimately depletes the land from which compost materials are taken. The ancient practice of using manure and compost does speed crop growth, but it also depletes the source land.
-
-On Fukuoka's farm, rice straw scattered uncut over the field provided sufficient nourishment. Chicken droppings were scattered when available. One gram of his soil contained approximately 100 million nitrogen-fixing bacteria and other soil-enriching microbes. Soil enriches itself year in and year out without man having to lift a finger. Shrines in Japanese villages are often surrounded by groves of tall trees grown without the aid of [[duggar-mushroom-nutrition-science-fermentation-biological-requirement]] or plant ecology—saved from the axe and saw, they grew into large trees of their own accord.
+He believed that nature is [[solomon-chemical-fertilizer-incomplete-potassium-yield-tradeoff]], and rotting the roots through prolonged summer flooding, farmers create weak, diseased rice plants that require both [[duggar-mushroom-nutrition-science-fermentation-biological-requirement]] or plant ecology—saved from the axe and saw, they grew into large trees of their own accord.
 
 ### 3. No Pesticides
 
@@ -78,9 +56,7 @@ This geometric progression has produced the energy-intensive methods of modern a
 Fukuoka distinguished between two fundamental trajectories:
 
 - **Natural farming**: Centrifugal and convergent—moving toward non-action and return to nature. Simple, economical, and labor-saving.
-- **[[fukuoka-illusions-scientific-farming-centrifugal-centripetal-model]]**: Centripetal and divergent—expanding through human desire. Ever more complex, generating increasing expense and labor.
-
-He argued that modern agricultural yields do not exceed natural productivity but merely attempt to restore it after nature has been hamstrung by human interference. "High-yield technologies are no more than glorified attempts to stave off reductions in productivity." Scientists add technical know-how [[fukuoka-organic-to-natural-farming-transition]] hoping for higher yields, but this introduces the basic contradiction of human intervention into a system that works precisely because it lacks intervention.
+- **[[fukuoka-organic-to-natural-farming-transition]] hoping for higher yields, but this introduces the basic contradiction of human intervention into a system that works precisely because it lacks intervention.
 
 ## Legacy and Influence
 
@@ -117,8 +93,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[natural-farming]]
 - [[masanobu-fukuoka]]
-- [[fukuoka-five-principles-natural-farming-no-tillage-no-fertilizer]]
 - [[natural-farming-five-principles-fukuoka]]
 - [[fukuoka-natural-farming-philosophy-five-principles]]

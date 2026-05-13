@@ -109,13 +109,8 @@ The species has naturalized in parts of East Africa outside its core range. It i
 
 ## See Also
 
-- [[kalanchoe-blossfeldiana]]
 - [[kalanchoe-tomentosa]]
-- [[kalanchoe-orgyalis]]
 - [[crassula-ovata]]
-- [[echeveria-elegans]]
 - [[aeonium-arboreum]]
-- [[cotyledon-tomentosa]]
 - [[kalanchoe-daigremontiana]]
-- [[aloe-vera]]
 - [[sedum-acre]]

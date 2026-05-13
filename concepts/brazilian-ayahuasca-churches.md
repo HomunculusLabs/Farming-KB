@@ -12,36 +12,11 @@ created: 2026-04-28
 # Brazilian Ayahuasca Churches
 
 Ralph Metzner identified three organized religious churches in Brazil that use
-[[shamanism]] and organized religion.
-
-## Historical Origins
-
-All three churches emerged from the same cultural matrix of Amazonian rubber
-tapping in the mid-twentieth century. Rubber tappers, predominantly of mixed
-European, African, and indigenous ancestry, spent long periods in remote
-forest areas where they encountered indigenous and mestizo healers working
-with ayahuasca. The foundational visions that led to each church's
-establishment followed a similar pattern: a profound entheogenic experience in
-which the drinker received explicit instructions to create an organized form
-of worship centered on the [[entheogenic-ceremony]] visions. The ceremonies
+[[entheogenic-ceremony]] visions. The ceremonies
 are highly structured, with specific sequences of hymns, dances, and prayers
-that can last for many hours. [[metzner-syncretic-entheogenic-churches-brazil-santo-daime-udv-barquinha]] has expanded significantly beyond
-Brazil, establishing centers in [[psilocybin-north-america-pacific-northwest]], Europe, and other parts of the
+that can last for many hours. [[psilocybin-north-america-pacific-northwest]], Europe, and other parts of the
 world. The hymnal itself is considered a living document, as new hymns
-continue to be received by practitioners during [[metzner-variations-traditional-entheogenic-ceremonies-peyote-huichol-san-pedro-mazatec-amazonian-bwiti]] and
-added to the collection.
-
-### Uniao do Vegetal (UDV)
-
-The Centro Espirita Beneficente Uniao do Vegetal was founded by Jose Gabriel
-da Costa. UDV ceremonies, called sessoes (sessions), are typically conducted
-in a seated circle with participants drinking ayahuasca while engaging in
-structured periods of concentration, reflection, and discussion. Unlike Santo
-Daime, UDV sessions involve verbal sharing of experiences and insights after
-the entheogenic phase. The UDV places particular emphasis on mental discipline
-and the pursuit of self-knowledge through the entheogenic experience. The
-church has developed a sophisticated organizational hierarchy and has been at
-the center of important [[sacramental-ayahuasca-legal-battles-united-states]] establishing religious freedom
+continue to be received by practitioners during [[sacramental-ayahuasca-legal-battles-united-states]] establishing religious freedom
 protections for entheogenic practice.
 
 ### Barquinha
@@ -58,9 +33,7 @@ arrived in Brazil through the transatlantic slave trade.
 ## Legal Framework in Brazil
 
 All three churches are officially recognized by the Brazilian government, and
-the religious use of [[shamanism]] and Western
-[[metzner-syncretic-entheogenic-folk-ceremonies]]
-- [[metzner-shamanic-healing-and-divination-paradigm]]
+the religious use of [[metzner-syncretic-entheogenic-folk-ceremonies]]
 - [[entheogenic-ceremony]]
 ## Practical Considerations
 
@@ -110,8 +83,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[ayahuasca]]
 - [[doc]]
-- [[psilocybin]]
 - [[dom]]
 - [[shamanism]]

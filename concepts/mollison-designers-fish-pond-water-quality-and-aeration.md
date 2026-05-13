@@ -61,8 +61,7 @@ then oxygen as air bubbles needs to be supplied.
 
 ## Classification of Water Bodies
 
-Waters (and in particular [[mollison-von-karman-trails-and-flowforms]]
-will oxygenate ponds. These are elegant [[permaculture]]
+Waters (and in particular [[permaculture]]
 solutions that use gravity rather than fossil energy.
 
 ### Partial Pond Aeration
@@ -90,5 +89,12 @@ Ponds in areas of peats, mangroves, cordgrass flats,
 samphires, and with water derived from heaths and
 
 ## See Also
-- [[mollison-designers-fish-pond-fertiliser-and-nutrient-cycling]]
 - [[bill-mollison-permaculture-a-designers-manual-aquaculture-and-water-systems]]
+
+## See Also
+
+- [[mollison-designers-termite-and-ant-mound-niche-gardening]]
+- [[mollison-designers-contour-surveying-a-frame-bunyip-level]]
+- [[humus-soil-amendment-mollison]]
+- [[minamata-disease-mollison]]
+- [[mollison-drought-proofing-strategies]]

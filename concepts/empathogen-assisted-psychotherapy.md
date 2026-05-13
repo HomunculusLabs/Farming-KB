@@ -111,13 +111,8 @@ The development of a systematic taxonomy of empathogen effects would significant
 
 ## See Also
 
-- [[mdma-compound-profile]]
 - [[psychedelic-psychotherapy]]
-- [[set-and-setting]]
 - [[psycholytic-psychotherapy]]
-- [[psilocybin-assisted-therapy]]
 - [[default-mode-network-and-ego-dissolution]]
-- [[phenethylamine-chemistry-basics]]
 - [[mescaline-compound-profile]]
-- [[lsd-therapeutic-history]]
 - [[shamanic-healing-hallucinogenic-plants]]

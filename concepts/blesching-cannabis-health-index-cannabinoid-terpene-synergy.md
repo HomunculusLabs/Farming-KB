@@ -10,42 +10,17 @@ tags: [cannabis]
 
 # Cannabinoid-Terpene Synergy
 
-How cannabinoids, terpenes, and spice-based compounds work together synergistically, from Blesching's "The [[blesching-cannabis-health-index-autoimmune-conditions]]" (2015). Covers the [[cannabis-terpene-entourage-effect-profiles]], (E)-beta-caryophyllene as a food-based cannabinoid, [[cannabis-sativa-vs-indica-guide]] profiles, and whole-plant medicine.
-
-## The Entourage Effect
-
-Blesching emphasizes that cannabis is not a single-molecule medicine but a complex botanical with **111+ cannabinoids** and **200-250 additional constituents** including terpenoids that act as important co-factors in [[cbd-therapeutic-effects]]. The whole plant produces greater efficacy than isolated compounds:
+How cannabinoids, terpenes, and spice-based compounds work together synergistically, from Blesching's "The [[cannabis-terpene-entourage-effect-profiles]], (E)-beta-caryophyllene as a food-based cannabinoid, [[cbd-therapeutic-effects]]. The whole plant produces greater efficacy than isolated compounds:
 
 - All types of cannabinoids (endogenous, plant-based, synthetic) plus non-cannabinoid plant constituents show anti-inflammatory action
-- THC and CBD work together: CBD tames THC's psychoactive effects while amplifying its [[raw-cannabis-thca-non-psychoactive-therapeutic-properties]]
-- CBD acts as a "negative allosteric modulator" at the CB1 receptor, allowing patients to access THC's therapeutic powers at higher concentrations
-- THC in low-dose combination with morphine produces synergistic analgesic effects while reducing opiate-related risks
-
-## Four Prime Cannabinoids
-
-### Anandamide (AEA) -- "The Bliss Molecule"
-- Endogenous cannabinoid, naturally produced by the body
-- Active at CB1 receptors; CBD inhibits its reuptake, prolonging its activity
-- May reduce hypertension, depression, fear, and anxiety
-
-### THC (Tetrahydrocannabinol)
-- Binds both CB1 and CB2 receptors
-- Primary psychoactive component; also analgesic, anti-inflammatory, neuroprotective
-- Higher concentrations in sativa strains; responsible for euphoria, pain relief, [[cannabis-for-cachexia-and-appetite-stimulation]]
+- THC and CBD work together: CBD tames THC's psychoactive effects while amplifying its [[cannabis-for-cachexia-and-appetite-stimulation]]
 
 ### CBD (Cannabidiol)
 - Non-psychoactive; higher affinity for CB2 receptors
 - Antipsychotic, anxiolytic, antidepressant, anti-inflammatory, anti-tumor
-- Protects against neurodegeneration; calms autonomic [[fungal-stress-responses]] via [[psilocybin-pharmacology-and-serotonin-receptors]]
+- Protects against neurodegeneration; calms autonomic [[psilocybin-pharmacology-and-serotonin-receptors]]
 - Effective for pediatric epileptic seizures refractory to pharmaceuticals
-- Selectively produces [[blesching-cannabis-oxidative-stress-and-antioxidant-defense]] in cancer cells (apoptosis) without impacting normal cells
-
-### (E)-beta-Caryophyllene (E-BCP)
-- A food-based cannabinoid/terpene, fully FDA-approved as a dietary supplement
-- Selectively binds CB2 receptors (unlike THC which binds both CB1 and CB2)
-- Potent anti-inflammatory, analgesic, antimicrobial, anti-cancer properties
-- Protects against microbes, inflammation, oxidative stress, pain, and cancer
-- Found in concentrations of 12-35% in [[comparison-cannabis-sativa-vs-cannabis-indica]]
+- Selectively produces [[comparison-cannabis-sativa-vs-cannabis-indica]]
 
 ## Spice Plants as CB2 Activators
 
@@ -118,8 +93,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[cannabis-sativa]]
 - [[psilocybin]]
-- [[morphine]]
 - [[dronabinol]]
 - [[tetrahydrocannabinol]]

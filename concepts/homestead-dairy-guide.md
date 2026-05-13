@@ -3,7 +3,7 @@ title: Homestead Dairy Guide
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
-tags: [[homesteading]], goats, animal-husbandry, food, recipe, preparation, processing, homestead-crafts, livestock-health]
+tags: [homesteading, goats, animal-husbandry, food, recipe, preparation, processing, homestead-crafts, livestock-health]
 sources: []
 ---
 
@@ -15,7 +15,7 @@ Keeping dairy goats on the homestead provides a reliable supply of fresh milk, c
 
 ### Nigerian Dwarf
 - Milk production: 1-2 quarts per day
-- Butterfat: 6-10% (very high -- excellent for [[faires-dairy-processing-cheese-and-butter]])
+- Butterfat: 6-10% (very high -- excellent for cheese and butter)
 - Size: 60-75 pounds (miniature breed)
 - Advantages: very little space needed, high butterfat, gentle temperament, good for families
 - Disadvantages: lower total volume, small teats can be harder to milk
@@ -48,7 +48,7 @@ LaMancha: 1-2 gallons/day, 3.5-4% butterfat, 125-150 lbs. Extremely docile, easy
 - Dry, draft-free shelter with good ventilation
 - Minimum 15-20 square feet per goat indoors
 - Access to outdoor space: 200+ square feet per goat minimum
-- Bedding: straw, wood shavings, or deep bedding ([[composting]] pack)
+- Bedding: straw, wood shavings, or deep bedding (composting pack)
 - Secure fencing: 4-5 foot woven wire fencing with electric offset. Goats are escape artists.
 - Separate kidding area if breeding
 
@@ -63,7 +63,7 @@ LaMancha: 1-2 gallons/day, 3.5-4% butterfat, 125-150 lbs. Extremely docile, easy
 - Hoof trimming: every 4-8 weeks
 - CD&T vaccination annually, deworming as needed (FAMANCHA scoring)
 - Test new goats for CAE and CL before introducing to the herd
-- Watch for mastitis, ketosis after kidding, bloat, and [[bloomfield-lycoperdonosis-puffball-spore-inhalation-respiratory-illness]]
+- Watch for mastitis, ketosis after kidding, bloat, and respiratory illness
 
 ## Milking
 
@@ -141,10 +141,10 @@ Aged cheeses require a cheese press, aging space, and more patience but produce 
 - Cheese press (for aged cheeses): $50-200 or build your own
 - Aging space: cool (50-55F), humid (80-95% RH), well-ventilated
 
-## Butter
+## See Also
 
-Goat milk butter is white (goats convert all beta-carotene to vitamin A, unlike cows) and delicious.
-
-1. Let fresh milk sit undisturbed in the refrigerator for 24-48 hours. Cream rises to the top.
-2. Skim the cream layer with a ladle (goat milk cream is lighter and more dispersed than cow cream -- a cream separator helps)
-3. Chill cream to 50-55F
+- [[homestead-energy-conservation]]
+- [[homestead-mushroom-business]]
+- [[homestead-winter-preparations]]
+- [[homestead-tool-maintenance]]
+- [[homestead-internet-options]]

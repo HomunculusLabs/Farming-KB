@@ -19,9 +19,7 @@ sources:
 
 ## Overview
 
-**Castanea dentata**, the American chestnut, was once one of the most important and abundant tree species in [[polypore-fungi-eastern-north-america]] American forests. Prior to the introduction of chestnut blight in the early 20th century, it accounted for an estimated 25–30% of hardwood trees across 200 million acres of Appalachian forest.
-
-The species produced abundant, nutritious nuts that served as a primary food source for wildlife, livestock, and humans throughout the eastern [[dmt-containing-plants-united-states-halpern]]. Its straight-grained, rot-resistant wood was valued for timber, furniture, fencing, and tannin extraction.
+**Castanea dentata**, the American chestnut, was once one of the most important and abundant tree species in [[dmt-containing-plants-united-states-halpern]]. Its straight-grained, rot-resistant wood was valued for timber, furniture, fencing, and tannin extraction.
 
 Chestnut blight, caused by the fungus *Cryphonectria parasitica*, was introduced from Asia around 1904 and devastated American chestnut populations within 50 years. Billions of trees were killed, fundamentally altering the composition and ecology of eastern deciduous forests.
 
@@ -29,7 +27,7 @@ Chestnut blight, caused by the fungus *Cryphonectria parasitica*, was introduced
 
 **Castanea dentata** (Marshall) Borkh. was originally described as *Fagus dentata* by Humphrey Marshall in 1785 and later transferred to *Castanea* by Heinrich Friedrich Borkhausen. The genus *Castanea* includes approximately 8–10 species distributed across the Northern Hemisphere.
 
-The specific epithet *dentata* refers to the coarsely toothed (dentate) leaf margins, which distinguish it from the closely related Chinese chestnut (*Castanea mollissima*) and European chestnut (*Castanea sativa*).
+The specific epithet *dentata* refers to the coarsely toothed (dentate) leaf margins, which distinguish it from the closely related Chinese chestnut (*[[castanea-mollissima]]*) and European chestnut (*[[castanea-sativa]]*).
 
 Pre-blight American chestnuts were among the tallest and fastest-growing hardwoods in eastern forests, commonly reaching 25–35 meters with trunk diameters of 1–2 meters. Exceptional specimens exceeded 3 meters in diameter and towered over associated oaks and hickories.
 
@@ -57,11 +55,7 @@ American chestnut was a foundational species in eastern forest ecosystems, provi
 
 The nuts were consumed by black bears, white-tailed deer, wild turkeys, passenger pigeons (now extinct), gray squirrels, chipmunks, ruffed grouse, blue jays, and numerous other species. Many of these species experienced population declines following the loss of chestnut.
 
-The flowers were an important nectar source for [[comparison-honey-bees-vs-native-solitary-bees]] and native pollinators during midsummer, when few other forest trees were in bloom. Chestnut honey was a valued bee product in Appalachian communities before the blight.
-
-The rapid growth rate and prolific sprouting ability of American chestnut meant it contributed more annual aboveground biomass than any other eastern hardwood. Its loss fundamentally altered carbon cycling and nutrient dynamics in Appalachian forests.
-
-American chestnut litter was rich in calcium and other nutrients compared to oak and hickory [[dighton-fungal-decomposition-leaf-litter-dynamics]], contributing to more fertile forest soils. The replacement of chestnut by oaks and maples shifted soil chemistry in many Appalachian stands.
+The flowers were an important nectar source for [[dighton-fungal-decomposition-leaf-litter-dynamics]], contributing to more fertile forest soils. The replacement of chestnut by oaks and maples shifted soil chemistry in many Appalachian stands.
 
 The tree's canopy architecture provided unique microhabitat conditions in the forest. Its open canopy allowed light to reach the forest floor, supporting a rich herbaceous layer that declined after chestnut was replaced by more shade-casting species.
 
@@ -69,9 +63,7 @@ The tree's canopy architecture provided unique microhabitat conditions in the fo
 
 Multiple approaches are being pursued to restore the American chestnut to eastern forests. The most advanced is the transgenic approach, which introduces a blight-tolerance gene from wheat (*oxalate oxidase*) into the American chestnut genome.
 
-The American Chestnut Foundation (TACF) has led [[cervantes-backcross-breeding-methods]] efforts since the 1980s, crossing American chestnut with blight-resistant Chinese chestnut and repeatedly backcrossing to American chestnut to recover the American genome. Several breeding generations have produced trees that are approximately 94% American chestnut.
-
-Hypovirulence, a [[fukuoka-textdoc-biological-control-fallacy-pheromone-critique]] using naturally occurring strains of the blight fungus that carry a virus reducing its virulence, has shown success in Europe but limited effectiveness in North American forests. Research continues on improving hypovirus transmission between cankers.
+The American Chestnut Foundation (TACF) has led [[fukuoka-textdoc-biological-control-fallacy-pheromone-critique]] using naturally occurring strains of the blight fungus that carry a virus reducing its virulence, has shown success in Europe but limited effectiveness in North American forests. Research continues on improving hypovirus transmission between cankers.
 
 Stands of surviving American chestnut root systems continue to produce sprouts throughout the species' former range. These sprouts typically grow for 5–15 years before being reinfected by blight, maintaining the species as a functional understory shrub but preventing canopy recruitment.
 

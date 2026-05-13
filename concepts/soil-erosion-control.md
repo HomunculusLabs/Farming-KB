@@ -1,5 +1,5 @@
 ---
-title: Soil Erosion Control
+title: [[mollison-soil-erosion-control]]
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
@@ -11,7 +11,7 @@ sources: []
 
 ## Overview
 
-Soil erosion is the detachment and transport of soil particles by water, wind, or gravity. It is the leading cause of soil degradation globally, with topsoil forming at rates of 0.5-1.0 ton per acre per year while erosion on conventionally farmed land can exceed 5-10 tons per acre per year. Erosion control is fundamental to [[pollinator-conservation]], [[water-management]], and sustainable land stewardship on any homestead.
+Soil erosion is the detachment and transport of soil particles by water, wind, or gravity. It is the leading cause of soil degradation globally, with topsoil forming at rates of 0.5-1.0 ton per acre per year while erosion on conventionally farmed land can exceed 5-10 tons per acre per year. Erosion control is fundamental to [[pollinator-conservation|conservation]], [[water-management]], and sustainable land stewardship on any homestead.
 
 ## Types of Erosion
 
@@ -22,7 +22,7 @@ Water is the primary erosive force in most environments:
 
 - **Rill erosion**: Concentrated flow creates small channels (rills) on the soil surface. Rills are small enough to be erased by normal tillage but indicate that sheet erosion has progressed to a more damaging stage.
 
-- **Gully erosion**: Concentrated flow in larger channels that cannot be smoothed by tillage. Gullies are permanent landscape features that expand during each rainfall event. They form when rills are left unchecked and flow concentrates.
+- **Gully erosion**: Concentrated flow in larger channels that cannot be smoothed by tillage. Gullies are permanent [[desert-landscape-features-and-erosion-landforms]] that expand during each rainfall event. They form when rills are left unchecked and flow concentrates.
 
 - **Stream bank erosion**: Flowing water undercuts and removes soil from stream banks and channel margins. Accelerated by removal of riparian vegetation, increased runoff, and channelization. See [[riparian-zone-restoration]] for bank stabilization methods.
 
@@ -58,7 +58,7 @@ A = R x K x LS x C x P
 1. Any exposed soil is vulnerable to erosion
 2. Erosion increases exponentially with slope steepness and length
 3. Vegetation cover is the single most effective erosion control measure
-4. [[knf-leaf-mold-humus]] and aggregation dramatically reduce erodibility
+4. [[humus-and-soil-organic-matter]] and aggregation dramatically reduce erodibility
 5. Concentrated water flow is far more erosive than sheet flow
 
 ## Vegetative Control Measures
@@ -66,10 +66,10 @@ A = R x K x LS x C x P
 ### Cover Crops
 Living plant cover protects soil from raindrop impact and binds soil with roots:
 
-- **Winter cover crops**: Cereal rye, winter wheat, [[mushroom-compost]], hairy vetch protect soil through winter
+- **Winter cover crops**: Cereal rye, winter wheat, crimson clover, hairy vetch protect soil through winter
 - **Summer cover crops**: Buckwheat, cowpeas, sorghum-sudangrass cover soil between cash crops
 - **Permanent cover**: Maintain permanent vegetation on steep slopes, waterways, and critical areas
-- See [[cover-cropping-guide]] for species selection and management details
+- See [[cover-cropping-guide|cover crop]] for species selection and management details
 
 ### Permanent Vegetation
 - **Grassed waterways**: Plant grasses in natural drainage channels to convey water without erosion; use sod-forming species like tall fescue, smooth bromegrass, or switchgrass
@@ -101,7 +101,7 @@ Swales are shallow channels on contour that slow, spread, and sink runoff:
 - Intercept runoff before it concentrates and erodes
 - Allow water to infiltrate into the soil, recharging groundwater
 - Can be planted with grasses, shrubs, or trees
-- See [[swale-design-construction]] for detailed [[pond-design-and-construction]] guidance
+- See [[swale-design-construction|swales]] for detailed [[farm-pond-design-and-construction]] guidance
 
 ### Diversion Structures
 - **Diversions**: Channels that divert water away from vulnerable areas to safe discharge points
@@ -148,9 +148,3 @@ Consider these factors when assessing erosion risk:
 - Slope length: Long uninterrupted slopes concentrate runoff
 - Soil type: Sandy and silty soils are most erodible; clay soils resist detachment but produce hard-to-manage runoff
 - Cover condition: Bare soil erodes at 100x the rate of well-vegetated soil
-
-## See Also
-
-- [[soil-erosion-and-rehabilitation]]
-- [[soil-erosion-mollison]]
-- [[soil-erosion-processes-and-control]]

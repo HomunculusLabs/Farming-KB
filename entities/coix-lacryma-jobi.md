@@ -20,31 +20,7 @@ sources:
 
 ## Overview
 
-**Coix lacryma-jobi** (Job's tears, adlay, adlai) is a tall [[savory-perennial-grass-and-desertification]] in the family Poaceae, widely cultivated across tropical and subtropical Asia for its edible grains and medicinal properties. It is one of the oldest domesticated cereals, with archaeological evidence of use dating back over 4,000 years in China and Southeast Asia.
-
-The species is recognized for its distinctive hard, tear-shaped seeds that have been used historically as beads, rosary components, and ornamental items. The soft-grained varieties are valued as a food grain with a mild, slightly sweet flavor reminiscent of rice or barley.
-
-Global production is concentrated in China, India, Vietnam, Thailand, and the Philippines. China is the dominant producer, where the grain is processed into flours, teas, beverages, and traditional medicinal preparations.
-
-## Taxonomy and Morphology
-
-**Kingdom:** Plantae — **Family:** Poaceae — **Subfamily:** Panicoideae — **Tribe:** Andropogoneae — **Genus:** Coix — **Species:** C. lacryma-jobi
-
-The species was described by Carl Linnaeus in 1753. The genus name derives from the Greek *koix*, referring to a type of palm, while the specific epithet combines Latin *lacryma* (tear) and *Jobi* (referring to the biblical Job).
-
-Several botanical varieties are recognized, with C. lacryma-jobi var. ma-yuen being the most important cultivated form for grain production. The wild type (var. lacryma-jobi) produces hard, glossy seeds used primarily as beads.
-
-Plants are robust, clump-forming grasses reaching 1–2.5 m in height. Stems are stout, solid or slightly hollow, with prominent nodes. The root system is fibrous, with some accessions producing small rhizomes.
-
-Leaves are linear-lanceolate, 30–60 cm long and 2–4 cm wide, with a prominent midrib and scabrous margins. Leaf sheaths are glabrous to pubescent, overlapping at the base.
-
-The inflorescence is a terminal or axillary panicle, 10–30 cm long, bearing pistillate (female) spikelets enclosed in a hardened, bony utricle and staminate spikelets on separate branches above. The utricle (fruit case) is oval, 8–12 mm long, white to greyish-blue, with a characteristic tear-drop shape.
-
-## Distribution and Habitat
-
-Coix lacryma-jobi is native to tropical and subtropical Asia, with a natural distribution spanning India, southern China, Southeast Asia, and the Philippines. The species has been widely introduced and naturalized in tropical Africa, the Americas, and Pacific islands.
-
-The crop grows in a range of environments from sea level to 2,000 m elevation. It tolerates a broader [[query-what-is-the-ideal-temperature-range-for-growing-cannabis]] than many tropical cereals, performing well from 20–35°C with annual rainfall of 500–1,500 mm.
+**Coix lacryma-jobi** (Job's tears, adlay, adlai) is a tall [[query-what-is-the-ideal-temperature-range-for-growing-cannabis]] than many tropical cereals, performing well from 20–35°C with annual rainfall of 500–1,500 mm.
 
 Coix thrives in moist, well-drained soils including loams, sandy loams, and alluvial soils. It shows moderate tolerance to waterlogging and poor soils, though optimal yields require adequate fertility. Soil pH preferences range from 5.0 to 7.0.
 
@@ -56,15 +32,7 @@ Coix grain contains approximately 9–14% protein, 60–70% carbohydrates, 2–5
 
 The grain is notably rich in lipids compared to most cereals, with a fatty acid profile dominated by oleic acid (35–45%), linoleic acid (30–40%), and palmitic acid (15–20%). This higher oil content contributes to both nutritional value and storage considerations.
 
-Coixenolide, a compound isolated from Coix seed oil, has been studied for antitumor and immunomodulatory properties. Additional [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]] include coixol, ferulic acid, and various phenolic acids with antioxidant activity.
-
-Mineral content includes calcium, phosphorus, iron, and potassium. The grain is gluten-free, making it suitable for celiac patients and those following gluten-free diets.
-
-## Cultivation and Uses
-
-Coix is typically direct-seeded at 15–25 kg/ha, either broadcast or in rows 40–60 cm apart. The crop matures in 120–180 days depending on variety and growing conditions. Yields range from 1–3 tonnes of grain per hectare.
-
-[[kava-traditional-preparation-ceremonial-context]] involves removing the hard fruit case by pounding or milling, then cooking the inner grain as a rice substitute, porridge, or flour. In Chinese cuisine, coix is a common ingredient in sweet and savory soups.
+Coixenolide, a compound isolated from Coix seed oil, has been studied for antitumor and immunomodulatory properties. Additional [[kava-traditional-preparation-ceremonial-context]] involves removing the hard fruit case by pounding or milling, then cooking the inner grain as a rice substitute, porridge, or flour. In Chinese cuisine, coix is a common ingredient in sweet and savory soups.
 
 Modern applications include ready-to-drink teas, breakfast cereals, snack foods, and gluten-free flour products. The grain's mild flavor and chewy texture make it a versatile ingredient in both traditional and fusion cuisines.
 
@@ -78,13 +46,83 @@ In TCM classification, coix seed (Chinese: *yi yi ren*) is considered sweet and 
 
 Modern pharmacological research has documented anti-inflammatory, antitumor, immunomodulatory, and hypoglycemic activities. Coix seed polysaccharides show immunostimulatory effects, while coixenolide has demonstrated antiproliferative activity against several cancer cell lines.
 
-Kanglaite injection, an injectable formulation derived from Coix seed oil, is approved in China as an adjunct cancer therapy. [[mushroom-cancer-clinical-trials-overview]] have reported benefits in combination with chemotherapy for non-small cell lung cancer and hepatocellular carcinoma.
-
-In Philippine traditional medicine, a decoction of the leaves and roots is used for fever, urinary complaints, and as a postpartum tonic. Similar uses are documented in Indian Ayurvedic and Japanese Kampo medical traditions.
-
-## See Also
-
-- [[chenopodium-quinoa]]
-- [[saccharum-officinarum]]
+Kanglaite injection, an injectable formulation derived from Coix seed oil, is approved in China as an adjunct cancer therapy. [[chenopodium-quinoa]]
 - [[moringa-oleifera]]
 - [[phaseolus-vulgaris]]
+
+## Overview
+
+Coix Lacryma Jobi represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish coix lacryma jobi
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving coix extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Coix Lacryma Jobi finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for coix lacryma jobi. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+coix lacryma jobi and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Coix Lacryma Jobi has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of coix lacryma jobi into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.

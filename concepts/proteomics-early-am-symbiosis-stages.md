@@ -13,9 +13,7 @@ type: concept
 
 ## Overview
 
-Proteomic analysis of early [[comparison-soil-food-web-vs-arbuscular-mycorrhizal-fungi]] (AM) symbiosis stages
-provides critical insights into the molecular events that accompany fungal
-recognition, [[functional-genomics-arbuscular-mycorrhiza]].
+Proteomic analysis of early [[functional-genomics-arbuscular-mycorrhiza]].
 
 ## Key Stages for Proteomic Investigation
 
@@ -58,11 +56,7 @@ abundance. Six spots gave positive identifications after MALDI-TOF peptide
 mass fingerprinting:
 
   - **Alanine aminotransferase**: Enzyme of primary metabolism
-  - **Serine/threonine kinase**: [[fungal-environmental-sensing-signal-transduction-read]] protein
-  - **Probable peroxidase** (two spots): Defense-related enzyme known to
-    increase during both ecto- and endomycorrhizal symbioses
-  - **Guanine nucleotide binding protein** (two spots): GTP-binding
-    proteins acting as mediators in [[fungal-environmental-sensing-signal-transduction]], protein transport,
+  - **Serine/threonine kinase**: [[fungal-environmental-sensing-signal-transduction]], protein transport,
     and [[brassinosteroid-cross-kingdom-growth-regulation-plants-fungi]]
   - **40S ribosomal protein S5**: Involved in protein synthesis
   - **Glutathione-S-transferase** (two spots): Associated with stress

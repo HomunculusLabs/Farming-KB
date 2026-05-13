@@ -6,18 +6,10 @@ tags:
   - rutaceae
   - medicinal-plants
   - tcm
-  - [[permaculture]]
-  - [[berberine]]
+  - berberine
   - bark-medicine
   - nitrogen-fixing
-  - [[agroforestry]]
-date: 2026-04-28
-updated: 2026-04-28
-sources:
-  - Jiangsu New Medical College (1977). Encyclopedia of Traditional Chinese Medicine. Shanghai People's Publishing House.
-  - Kubo M, Matsuda H, Tani T, et al. (1994). "Studies on Phellodendri cortex. V. Antibacterial principles of Phellodendri cortex." Planta Medica 60(6): 513-516.
-  - Kim DH, Kim BR, Kim JY, Jeon YD (2016). "Anti-inflammatory effects of Phellodendron amurense bark on lipopolysaccharide-activated microglia." Molecular Medicine Reports 14(6): 5347-5354.
-  - Li WL, Zheng HC, Bukuru J, De Kimpe N (2004). "Natural medicines used in the traditional Chinese medical system for therapy of [[blesching-cannabis-diabetes-mellitus-endocannabinoid-system]]." Journal of Ethnopharmacology 92(1): 1-21.
+  - blesching-cannabis-diabetes-mellitus-endocannabinoid-system." Journal of Ethnopharmacology 92(1): 1-21.
 created: 2026-04-28
 ---
 
@@ -77,8 +69,7 @@ present.
 Berberine demonstrates antibacterial, antifungal, antiviral, anti-
 inflammatory, antidiabetic, and cardioprotective activities in preclinical
 studies. It activates AMPK signaling, improves insulin sensitivity, and
-reduces hepatic glucose output. [[mushroom-cancer-clinical-trials-overview]] support berberine's efficacy
-in type 2 diabetes, dyslipidemia, and [[cannabis-metabolic-syndrome-research]].
+reduces hepatic glucose output. cannabis-metabolic-syndrome-research.
 
 Palmatine contributes additional antimicrobial and anti-inflammatory effects.
 The bark extract as a whole shows synergistic activity exceeding individual
@@ -91,4 +82,9 @@ kidney and bladder meridians. Primary indications include damp-heat in the
 
 ## See Also
 
+- mycelium-running-mushroom-antimicrobial-properties-species-chart
+
+## See Also
 - [[mycelium-running-mushroom-antimicrobial-properties-species-chart]]
+- [[mycelium-running-mushroom-bioaccumulation-heavy-metals-species-guide]]
+- [[mycelium-running-gourmet-mushroom-species]]

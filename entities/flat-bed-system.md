@@ -9,7 +9,7 @@ tags: [technique, cultivation, bed-construction, mushroom-growing, english-metho
 
 ## Description
 
-The flat bed system is the most widely used bed construction method in American mushroom cultivation, also known as the English type. Beds are prepared as horizontal, flat surfaces of compressed compost, typically arranged in tiers or shelves to maximize vertical space utilization in mushroom houses and cellars. This system dominated English and American commercial mushroom production throughout the 19th and 20th centuries.
+The flat bed system is the most widely used bed construction method in American [[mushroom-cultivation]], also known as the English type. Beds are prepared as horizontal, flat surfaces of compressed compost, typically arranged in tiers or shelves to maximize vertical space utilization in mushroom houses and cellars. This system dominated English and American commercial mushroom production throughout the 19th and 20th centuries.
 
 ## Classification
 
@@ -95,7 +95,7 @@ The tier system is critical for space efficiency in flat bed operations:
 
 ## Historical Context
 
-The flat bed system was the dominant method in England and became the standard in American commercial mushroom cultivation. Duggar (1915) describes it as "more generally employed in this country" (United States) and notes that it requires less labor than the French ridge bed system. The system's simplicity and compatibility with purpose-built mushroom houses contributed to its widespread adoption in the United States.
+The flat bed system was the dominant method in England and became the standard in American commercial mushroom cultivation. Duggar (1915) describes it as "more generally employed in this country" (United States) and notes that it requires less labor than the French [[ridge-bed-system]]. The system's simplicity and compatibility with purpose-built mushroom houses contributed to its widespread adoption in the United States.
 
 ## Modern Evolution
 
@@ -120,9 +120,6 @@ The flat bed system remains the dominant bed geometry in modern Agaricus bisporu
 
 ## See Also
 
-- [[ridge-bed-system]]
 - [[mushroom-casing]]
-- [[mushroom-compost]]
 - [[mushroom-compost-fermentation]]
-- [[mushroom-spawn]]
 - [[agaricus-campestris]]

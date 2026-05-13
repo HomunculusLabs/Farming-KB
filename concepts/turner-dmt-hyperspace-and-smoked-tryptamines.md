@@ -13,18 +13,14 @@ type: concept
 ## Introduction
 
 N,N-Dimethyltryptamine (DMT) and 5-Methoxy-DMT (5-MeO-DMT) are
-naturally occurring psychedelics found in plants [[fungi-around-the-world-species-distribution]],
-several native to the Amazon region. They are also found in the human
-brain as neurotransmitters, as well as in blood, urine, and spinal
-fluid. DMT is produced in the human [[mckenna-tryptamine-endogenous-dmt-pineal-gland-theory]], correlated to the
+naturally occurring psychedelics found in plants [[mckenna-tryptamine-endogenous-dmt-pineal-gland-theory]], correlated to the
 "third eye" or Ajna Chakra in the Indian spiritual system. Turner
 rated DMT at intensity 9 to 10 and titled it "Candy for the Mind."
 
 ## Natural Occurrence and Sources
 
 DMT and 5-MeO-DMT occur naturally in many plant species. Two notable
-snuff sources are [[psychotria-viridis]] are combined with Banisteriopsis
-caapi, which provides [[golden-guide-ayahuasca-and-caapi]]
+snuff sources are [[golden-guide-ayahuasca-and-caapi]]
 - [[turner-2cb-erotic-empathogen]]
 ## Practical Applications
 

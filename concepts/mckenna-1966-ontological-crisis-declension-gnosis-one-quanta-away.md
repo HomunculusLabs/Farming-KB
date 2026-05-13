@@ -8,7 +8,7 @@ aliases: [McKenna 1966 DMT Ontological Shock, Declension of Gnosis One Quanta Aw
 
 # McKenna's 1966 Ontological Crisis and the Declension of Gnosis at One Quanta Away
 
-In his 1983 Esalen lecture, McKenna recounts a pivotal DMT experience from 1966
+In his 1983 Esalen lecture, McKenna recounts a pivotal [[dmt]] experience from 1966
 that shattered his pre-existing ontological framework and catalysed the entire
 direction of his subsequent work. The experience produced what he calls "a
 declension of gnosis that proved to me in a moment that right here and now, one
@@ -21,7 +21,7 @@ and epistemological crisis.
 ## The Pre-Experience Ontological Framework
 
 McKenna describes himself before the 1966 experience as someone who "had thought
-that I had my ontological categories intact." He had already taken LSD — he was
+that I had my ontological categories intact." He had already taken [[lsd]] — he was
 not a psychedelic naïf — yet the DMT experience "came upon me like a bolt from
 the blue." This is a crucial detail: the ontological crisis was not produced by
 first contact with altered states in general, but by the specific qualitative
@@ -127,10 +127,7 @@ territory itself falsified the theoretical frameworks available to him.
 
 ## See Also
 
-- [[mckenna-endogenous-tryptamines-quantum-consciousness]] — quantum mechanical
-  framework
 - [[mckenna-quantum-mechanical-correlates-hallucinogenesis]] — quantum correlates
-- [[mckenna-dmt-i-thou-relationship-entity-encounter-ethics]] — engaging the alien
 - [[mckenna-baconian-exploration-tryptamine-research-methodology]] — post-crisis
   methodology
 - [[mckenna-dmt-onset-phenomenology-ripping-cellophane]] — the phenomenology of

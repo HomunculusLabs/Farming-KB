@@ -3,36 +3,8 @@ title: "Plant Maze Navigation and Spatial Memory"
 source: "What a Plant Knows - Daniel Chamovitz, Chapter 5: How a Plant Knows Where It Is"
 tags:
   - plant-biology
-  - [[gravitropism]]
-  - spatial-orientation
-  - statoliths
-  - amyloplasts
-  - auxin
-  - choldony-went-model
-  - root-navigation
-  - plant-proprioception
-  - darwin
-  - chamovitz
----
-
-# Plant Maze Navigation and Spatial Memory
-
-## Overview
-
-The question of how a plant knows where it is — how roots grow downward
-through soil, how shoots grow upward toward light, and how plants navigate
-around obstacles — represents one of the most fundamental problems in plant
-biology. In "What a Plant Knows," [[daniel-chamovitz]] explores the remarkable
-ways plants maintain [[plant-gravitropism-spatial-orientation]] and demonstrate a form of spatial
-memory. Far from being passive organisms, plants actively sense their
-position relative to gravity and light, continuously adjust their growth
-patterns, and display an awareness of their own body geometry.
-
-## Gravitropism: The Gravity Response
-
-Gravitropism is the growth response of plants to gravity, causing roots to
-grow downward (positive gravitropism) and shoots to grow upward (negative
-gravitropism). A seed buried underground with no [[cannabis-harvest-timing-visual-cues]] will reliably
+  - [[daniel-chamovitz]] explores the remarkable
+ways plants maintain [[cannabis-harvest-timing-visual-cues]] will reliably
 send its roots deeper and push its shoot upward toward the surface. Even if
 a plant is turned upside down, it will begin to reorient its growth within
 hours, curving roots back downward and shoots back upward. This persistent
@@ -74,19 +46,7 @@ The Cholodny-Went model, first proposed in the 1920s, remains the central
 framework for understanding how gravistimulation is translated into
 differential growth. According to this model, the plant hormone auxin is
 redistributed asymmetrically in response to gravity. In a horizontal root,
-auxin accumulates on the lower side, where it inhibits [[brassinosteroid-physiological-mechanisms-cell-elongation-division]],
-causing the root to bend downward. In a horizontal shoot, auxin also
-accumulates on the lower side, but there it promotes cell elongation,
-causing the shoot to bend upward. This model explains how the same hormone
-produces opposite growth responses in different organs.
-
-The redistribution depends on polar auxin transport through specialized
-membrane proteins called PIN proteins. When a plant is tilted, PIN proteins
-in statocytes relocate to the new lower side of the cell, redirecting auxin
-flow downward. This triggers the asymmetric growth response producing
-visible organ bending. Modern molecular biology has confirmed the
-Cholodny-Went model while adding considerable detail about the specific
-proteins and [[plant-signaling-pathways]] involved.
+auxin accumulates on the lower side, where it inhibits [[plant-signaling-pathways]] involved.
 
 ## Practical Applications
 
@@ -117,8 +77,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[dom]]
 - [[det]]
-- [[gravitropism]]
 - [[brassinosteroid]]
 - [[chamovitz-red-far-red-phytochrome-switch-and-plant-memory]]

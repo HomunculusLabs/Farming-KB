@@ -12,30 +12,11 @@ tags: [cannabis]
 
 ## Overview of Multiple Sclerosis
 
-Orthodox medicine considers multiple sclerosis (MS) a chronic, inflammatory, and degenerative neurological illness with no cure and no exact cause. In fact, MS is one of the most common [[cannabis-neuroprotection-mechanisms-neurological-diseases]]. The meaning of the term "multiple sclerosis" provides a clue about the general picture. It derives from the Latin words multi and plus, which together translate into "manifold," and the Greek word sclerosis which translates as "hardness." Place the words together and we get "many folded hardness." Apply "manifold hardness" to the brain and spinal cord and we have a description of MS.
-
-Multiple sclerosis is characterized by the breakdown of some of the thin sheets that cover the brain and spinal cord. These fat-based myelin sheets normally provide insulation and protection, but when lesions occur, nerve impulses misfire across the broken insulation, causing a variety of debilitating symptoms.
-
-Scientists speculate that MS might be an autoimmune disease that inadvertently prompts adhesion molecules, which summon immune cells to fight an inflammation and thus contribute to the destruction of myelin sheets. Other likely culprits include a combination of genetic factors, infections, and environmental influences such as decreased sun exposure and subsequent insufficient vitamin D.
-
-Some pharmaceutical medications exist to manage symptoms as they develop or worsen, but they come with a steep price of significant side effects. MS may initially appear as acute attacks only, or it may progress to its chronic degenerative form in which symptoms accumulate and gradually worsen.
-
-Common symptoms include:
-
-- Muscular spasms affecting the eyes, bladder, and bowels
-- Numbness and increased weakness
-- Ataxia and slurred speech
-- Acute and [[cannabis-chronic-pain-management]]
+Orthodox medicine considers multiple sclerosis (MS) a chronic, inflammatory, and degenerative neurological illness with no cure and no exact cause. In fact, MS is one of the most common [[cannabis-chronic-pain-management]]
 
 ## Evidence Base: CHI Value 91 (26 Studies Reviewed)
 
-The 26 studies on MS represent one of the largest bodies of evidence for any single condition in the [[blesching-cannabis-health-index-autoimmune-conditions]].
-
-## Cannabis and MS
-
-The earliest study listed in the National Library of Health took place in 1981 when researchers found motivation in anecdotal accounts of MS patients who reported that inhaling cannabis gave relief from spasticity. This, combined with the scientific discovery that THC is able to inhibit spasms in animal studies, opened the door to a multitude of scientific inquiries.
-
-While initial studies merely focused on observing the effect of cannabis on the most common symptoms of MS, later studies worked to discover the mechanisms underlying the observed [[cbd-therapeutic-effects]]. The scientific community began to build on the data accumulated. The therapeutic frame of cannabis in the context of MS became more clear and defined.
+The 26 studies on MS represent one of the largest bodies of evidence for any single condition in the [[cbd-therapeutic-effects]]. The scientific community began to build on the data accumulated. The therapeutic frame of cannabis in the context of MS became more clear and defined.
 
 ### Key Therapeutic Benefits
 
@@ -54,7 +35,7 @@ Even the U.S. federal government issued itself a patent on the neuroprotective p
 
 ### Adhesion Molecule Inhibition
 
-One of the latest animal studies on the [[cannabis-cannabinoid-receptor-pharmacology]] systems alludes to the involvement of cannabinoids in the inhibition of brain adhesion molecules, which in turn may be responsible for some therapeutic effects on MS. If [[mushroom-cancer-clinical-trials-overview]] can confirm these results, scientists may be able to partly understand how to slow or even reverse the progression of MS.
+One of the latest animal studies on the [[mushroom-cancer-clinical-trials-overview]] can confirm these results, scientists may be able to partly understand how to slow or even reverse the progression of MS.
 
 ### Overall Assessment
 
@@ -117,8 +98,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[cannabis-for-multiple-sclerosis]]
 - [[doc]]
-- [[anandamide]]
 - [[cannabis-and-multiple-sclerosis]]
 - [[blesching-cannabis-systemic-sclerosis]]

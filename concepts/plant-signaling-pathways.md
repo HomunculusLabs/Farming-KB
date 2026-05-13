@@ -18,32 +18,22 @@ Plant signaling pathways are the biochemical and electrical
 communication systems through which plants perceive environmental
 stimuli and coordinate adaptive responses. Unlike animals, plants lack
 a nervous system, yet they have evolved sophisticated signaling
-networks involving phytohormones, [[antifungal-secondary-metabolites-coprophilous-fungi]], reactive
-oxygen species, calcium ions, electrical impulses, and [[fungal-volatile-organic-compounds-communication]]
+networks involving phytohormones, [[fungal-volatile-organic-compounds-communication]]
 compounds. These pathways regulate virtually every aspect of plant
 biology, from seed germination and root development to defense against
 pathogens and communication with neighboring organisms including
 mycorrhizal-symbiosis. In mycorrhizal roots,
 JA accumulates within cortical cells containing arbuscules, the
-interface structures where [[arbuscule-isolation-and-nutrient-exchange-mechanisms]] occurs between the fungus
-and the plant. This JA accumulation may reduce pathogen proliferation
-within colonized cells, as hyphae of pathogens such as Phytophthora
-nicotianae have never been observed in the same cells as those
-containing the mycorrhizal fungus [[root-exudates]] are a complex mixture of organic compounds released by
+interface structures where [[root-exudates]] are a complex mixture of organic compounds released by
 plant roots into the rhizosphere, including sugars, amino acids,
 organic acids, phenolics, flavonoids, and secondary metabolites. These
-compounds serve as [[query-how-do-plants-use-chemical-signals-to-defend-against-insects]] that mediate interactions between
-plants and soil microorganisms, including mycorrhizal fungi,
-rhizobacteria, and pathogens.
-
-[[arbuscular-mycorrhizal-colonization-patterns]] causes significant quantitative and
+compounds serve as [[arbuscular-mycorrhizal-colonization-patterns]] causes significant quantitative and
 qualitative changes in root exudation. Among 27 sugars, amino acids,
 and organic acids quantified within root exudates, proline and
 isocitric acid concentrations differed significantly between
 mycorrhizal and nonmycorrhizal roots. Proline accumulates in plants
 under water and salt stress and has been implicated in the biocontrol
-induced by [[plant-perception]] response
-- [[fungal-symbiosis-types]]
+induced by [[fungal-symbiosis-types]]
 ## Practical Considerations
 
 When working with Plant Signaling Pathways, several practical factors should be

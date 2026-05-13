@@ -10,39 +10,12 @@ sources: [/Users/t3rpz/wiki/raw/papers/elaine-ingham-phd_-the-field-guide-i-for-
 
 Updated: 2026-04-18
 
-Dr. Elaine Ingham provides specific [[ingham-strawberry-potato-tomato-aact-application-protocols]] for compost
-[[query-what-is-the-difference-between-compost-tea-and-compost-extract]]/wormcastings across different crop types. The core
+Dr. Elaine Ingham provides specific [[query-what-is-the-difference-between-compost-tea-and-compost-extract]]/wormcastings across different crop types. The core
 principle is that the tea biology must match the crop type: annual
-crops need bacterial-dominant biology, while [[perennial-vegetables]] need
-fungal-dominant biology.
-
-## General Application Framework
-
-The general protocol applies across all crop types:
-
-1. Fall: Apply 1-5 tons per acre of compost/wormcastings as top
-   dressing on [[jadam-crop-residue-fertilizer]]
+crops need bacterial-dominant biology, while [[jadam-crop-residue-fertilizer]]
 2. Pre-planting: Apply 15 gallons of compost tea per acre as soil
    drench 2 weeks before planting
-3. [[savory-growing-season-and-non-growing-season-management]]: Apply 5 gallons per acre as foliar spray monthly,
-   starting 2 weeks before bud break
-4. Transplanting: Mix 30-50% compost/wormcastings with site soil,
-   gradually mixing with native soil away from the plug (no sharp
-   demarcations). Water with compost tea.
-5. Seed planting: Spray seeds with compost tea to promote rapid
-   germination (5 gallons per acre)
-6. Cover crops: Plant between rows; allow to flower and seed to
-   full maturity before mowing or turning under
-7. Disease alert: Apply weekly until alert stops, then every 10-14
-   days until harvest
-8. Disease outbreak: Apply immediately every 3-5 days until resolved
-
-## Vineyards
-
-Specific vineyard protocol:
-
-- Fall fertilization: 1-5 tons per acre compost/wormcastings as
-  [[query-what-is-the-difference-between-a-casing-layer-and-a-top-dressing]]
+3. [[query-what-is-the-difference-between-a-casing-layer-and-a-top-dressing]]
 - Spring soil drench: 15 gallons compost tea per acre directly on
   top of fall compost
 - Spring/summer foliar: 5 gallons per acre per month for every 6
@@ -54,29 +27,7 @@ Specific vineyard protocol:
   tea; plant vines 6 inches away from drip emitter
 - Cover crops: Thyme or marjoram as understory; grasses with
   nitrogen fixers between rows; mow before harvest if needed
-- Mildew: "Getting [[bacterial-vs-fungal-compost-teas]] tea on later in the season is the
-  only way not to have problems with mildew." Teas with bacteria
-  alone are not effective against mildew fungi.
-- After pesticide application (especially sulfur): Apply compost tea
-  3 days later to reinoculate beneficials. Sulfur always kills some
-  beneficial organisms.
-
-## Turf and Golf Courses
-
-Specific turf protocol:
-
-- Fall/spring: Apply 1-5 tons per acre compost/wormcastings as
-  top dressing
-- Reduce current fertilization by 1/3 each year as indicated by
-  soil foodweb reports
-- Liquid application: Initially 15 gallons per acre, then 5 gallons
-  per acre once a month throughout the year
-- Greens maintenance: After aeration, fill plugs with 30%
-  compost/wormcastings with 70% sand, water in with compost tea
-- Thatch removal: Apply fungal compost tea to decompose thatch
-  instead of physical removal
-- Overseeding: Spray seeds with compost tea; consider adding
-  [[arbuscular-mycorrhizal-fungal-diversity-patterns-distribution]] spores if root colonization is lacking
+- Mildew: "Getting [[arbuscular-mycorrhizal-fungal-diversity-patterns-distribution]] spores if root colonization is lacking
 - Fungicide recovery: Apply compost tea 3-5 days after application
 - Herbicide reduction: Expected over time as desirable grasses
   outcompete weeds and nitrate is immobilized
@@ -118,8 +69,82 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[cover-crops]]
 - [[soil-foodweb]]
-- [[dom]]
 - [[spore]]
 - [[elaine-ingham]]
+
+## Overview
+
+Compost Tea For Specific Crops represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish compost tea for specific crops
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving compost extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Compost Tea For Specific Crops finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for compost tea for specific crops. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+compost tea for specific crops and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Compost Tea For Specific Crops has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of compost tea for specific crops into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.

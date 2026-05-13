@@ -77,8 +77,6 @@ water, and atmosphere enables designers to create more resilient and productive
 landscapes that work with natural processes rather than opposing them.
 
 ## See Also
-- [[tree-biomass-forest-living-system]]
 - [[comparison-fruit-tree-pruning-vs-fruit-tree-grafting-guide]]
-- [[tree-biomass-and-wind-effects]]
 - [[tree-biomass-and-guild-ecology]]
 - [[integrated-paddy-rice-and-tree-system]]

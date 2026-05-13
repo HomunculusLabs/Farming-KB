@@ -109,13 +109,8 @@ The genus *Tylecodon* comprises approximately 50 species, all endemic to souther
 
 ## See Also
 
-- [[tylecodon-reticulatus]]
 - [[cotyledon-orbiculata]]
-- [[crassula-ovata]]
 - [[conophytum-bilobum]]
-- [[adromischus-cristatus]]
 - [[aeonium-arboreum]]
-- [[sedum-rupestre]]
 - [[pachyphytum-oviferum]]
-- [[crassula-perforata]]
 - [[faucaria-tigrina]]

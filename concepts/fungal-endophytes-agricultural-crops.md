@@ -18,39 +18,12 @@ studied to date.
 
 ## Types of Fungal Endophytes in Crops
 
-Agricultural crops harbor diverse [[endophytic-fungi-grass-symbiosis-insect-defense-alkaloids-epichloe-neotyphodium|endophytic]] fungal communities that can
-be broadly categorized:
-
-- **Clavicipitaceous endophytes**: Systemic, vertically transmitted
-  endophytes of cool-season grasses (e.g., *Epichloe* species in tall
-  fescue and perennial ryegrass). These form lifelong associations and
-  are transmitted through seeds.
-- **Non-clavicipitaceous endophytes**: A much more diverse group found
-  in virtually all crop species, including cereals, legumes, vegetables,
-  and fruit crops. These are horizontally transmitted and include species
-  from Ascomycota, Basidiomycota, and other fungal groups.
-- **Root endophytes**: Fungi colonizing root tissues, including dark
-  [[dark-septate-endophytes]] (DSE) and other root-associated fungi that may
-  overlap functionally with [[arbuscular-mycorrhizal-fungi]].
-- **Piriformospora indica**: A remarkable endophytic, root-interacting
-  basidiomycete that mimics the capabilities of typical mycorrhizal
-  fungi, promoting growth and stress tolerance across a broad range of
-  host plants including many agricultural species (Verma et al. 1998,
-  Varma et al. 1999).
-
-## Stress Tolerance Enhancement
-
-One of the most commercially significant benefits of fungal endophytes
-is their ability to enhance crop tolerance to biotic and abiotic
-stresses:
-
-- **[[dighton-fungal-drought-tolerance-plant-water-relations]]**: Endophyte-infected grasses show improved
+Agricultural crops harbor diverse [[dark-septate-endophytes]] (DSE) and other root-associated fungi that may
+  overlap functionally with [[dighton-fungal-drought-tolerance-plant-water-relations]]**: Endophyte-infected grasses show improved
   water-use efficiency, deeper rooting, and maintenance of growth under
   water-limited conditions. The endophyte may modulate host hormone
   levels (particularly abscisic acid) and osmotic adjustment.
-- **[[mycorrhizal-pathogen-resistance-mechanisms]]**: Endophytes can protect their hosts against
-  fungal, bacterial, and viral pathogens through multiple mechanisms
-  including antibiosis, [[endophytic-mycorrhizal-induced-systemic-resistance]] resistance, and niche
+- **[[endophytic-mycorrhizal-induced-systemic-resistance]] resistance, and niche
   competition.
 - **Herbivore deterrence**: Clavicipitaceous endophytes in forage
   grasses produce alkaloids (ergot alkaloids, lolines, peramine) that
@@ -60,31 +33,7 @@ stresses:
 - **Salinity tolerance**: Root endophytes including *Piriformospora
   indica* have been shown to improve plant growth under saline
   conditions, potentially through modulation of ion uptake and
-  [[blesching-cannabis-oxidative-stress-and-antioxidant-defense]] systems.
-
-## Growth Promotion Mechanisms
-
-Endophytes promote crop growth through multiple mechanisms:
-
-- **Nutrient mobilization**: Endophytic fungi produce phosphatases,
-  siderophores, and organic acids that solubilize soil nutrients and
-  make them available to the host plant.
-- **Hormone modulation**: Many endophytes produce or modulate plant
-  hormones including auxins, cytokinins, and gibberellins, directly
-  stimulating plant growth and development.
-- **Nitrogen fixation**: Some endophytic fungi harbor nitrogen-fixing
-  bacterial endosymbionts, contributing to the host plant's nitrogen
-  nutrition.
-- **Improved photosynthetic efficiency**: Endophyte-infected plants
-  often show enhanced photosynthetic rates and improved water-use
-  efficiency.
-
-## Endophyte-Mediated Plant Defense
-
-Endophytic fungi activate plant defense pathways that provide systemic
-protection:
-
-- **Induced systemic resistance (ISR)**: [[fungal-endophyte-colonization-patterns]] primes
+  [[fungal-endophyte-colonization-patterns]] primes
   the plant's immune system, enabling faster and stronger responses to
   subsequent pathogen attack without the growth costs of constitutive
   defense activation.
@@ -118,8 +67,83 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[fungal-endophytes]]
 - [[det]]
-- [[endophytic-fungi]]
 - [[piriformospora-indica]]
 - [[ascomycota]]
+
+## Overview
+
+Fungal Endophytes Agricultural Crops represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish fungal endophytes agricultural crops
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving fungal extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Fungal Endophytes Agricultural Crops finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for fungal endophytes agricultural crops. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+fungal endophytes agricultural crops and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Fungal Endophytes Agricultural Crops has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of fungal endophytes agricultural crops into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.

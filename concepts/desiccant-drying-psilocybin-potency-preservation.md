@@ -1,68 +1,13 @@
 ---
 title: Desiccant Drying Psilocybin Potency Preservation
 source: "fanaticus-pf-tek-psilocybe-fanaticus.md"
-source_authors: "[[pf-tek-psilocybe-fanaticus]] (Robert McPherson)"
-topic: "desiccant-drying-psilocybin-potency-preservation-mushroom"
----
-
-## Overview
-
-Proper drying of harvested [[cap-versus-stem-alkaloid-distribution-in-psilocybin-mushrooms]] is critical for preserving
+source_authors: "[[cap-versus-stem-alkaloid-distribution-in-psilocybin-mushrooms]] is critical for preserving
 potency and ensuring long-term storage stability. The PF Tek method, developed
 by Robert McPherson (Psilocybe Fanaticus), recommended using desiccant drying
 as a simple, effective, and accessible method for home cultivators.
 
 The choice of drying method directly affects the chemical stability of the
-active compounds [[hplc-analysis-of-psilocybin-and-psilocin]], which degrade through different
-mechanisms depending on the drying conditions employed.
-
-## Why Drying Matters for Potency
-
-Fresh psilocybin mushrooms typically contain approximately 90% water by weight.
-The active compounds are present at much lower concentrations — usually
-0.1-1.0% of fresh weight for psilocybin and 0.05-0.5% for psilocin.
-
-Proper drying concentrates the active compounds by removing water, resulting
-in a product that is approximately 10% of the original fresh weight but
-retains nearly all of the psychoactive material. This means dried mushrooms
-are roughly 10 times more potent per gram than fresh mushrooms.
-
-However, the drying process itself can degrade potency if performed
-incorrectly. Understanding the chemistry of degradation is essential for
-choosing an appropriate drying method.
-
-## Chemistry of Psilocybin and Psilocin Degradation
-
-Psilocybin (O-phosphoryl-4-hydroxy-N,N-dimethyltryptamine) is relatively
-stable as a chemical compound. The phosphate group provides some protection
-against oxidative degradation. Psilocybin degrades primarily through two
-mechanisms:
-
-**Hydrolysis.** In the presence of water, psilocybin can be dephosphorylated
-to psilocin. This reaction is catalyzed by both acid and alkaline conditions
-and proceeds more rapidly at elevated temperatures. Hydrolysis converts
-psilocybin to psilocin, which is not necessarily a loss of potency since
-psilocin is also active (indeed, it may be the primary active metabolite).
-
-**Oxidation.** Both psilocybin and psilocin are susceptible to oxidative
-degradation, particularly psilocin which lacks the protective phosphate group.
-Oxidation converts the active indole compounds to inactive blue-colored
-quinone-like products. This is the chemical basis for the blue bruising
-reaction observed when psilocybin mushrooms are handled or damaged.
-
-The practical implication is that the primary enemies of potency during drying
-are heat, moisture, and oxygen. An ideal drying method minimizes exposure to
-all three simultaneously.
-
-## Common Drying Methods Compared
-
-Several drying methods are available to home cultivators, each with different
-impacts on potency preservation:
-
-**Air drying at room temperature** is the simplest method but also the
-slowest. Mushrooms are placed on a screen or paper in a well-ventilated area.
-The extended drying period (7-14 days) increases exposure to oxygen and
-potential [[enzymatic-degradation-in-mycoremediation]]. However, the low temperature minimizes
+active compounds [[enzymatic-degradation-in-mycoremediation]]. However, the low temperature minimizes
 thermal degradation of the active compounds.
 
 **Food dehydrator drying** uses controlled heat and airflow to accelerate
@@ -131,11 +76,6 @@ freezer for longest-term storage) minimizes thermal degradation.
 
 Properly dried and stored psilocybin mushrooms can retain significant potency
 for months to years. However, gradual degradation occurs even under optimal
-[[spawn-storage-conditions]], and potency will slowly decrease over time.
-
-## See Also
-
-- [[pf-tek]] — the complete cultivation method
-- [[psilocybin]] — primary active compound and its chemical properties
+[[pf-tek]] — the complete cultivation method
 - [[psilocin]] — active metabolite, more susceptible to degradation
 - [[mushroom-harvesting-potency]] — timing and techniques for optimal potency

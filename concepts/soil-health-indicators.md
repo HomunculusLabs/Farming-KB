@@ -102,20 +102,6 @@ The simplest soil health assessment:
 ## Key Rule
 
 > "If it smells good, has worms, and crumbles nicely, your soil biology is working. If not, feed it organic matter and stop killing it with chemicals."
-## Design Integration
-
-This concept integrates effectively within broader permaculture design frameworks, contributing to system resilience and multiple ecosystem functions. When implemented as part of a holistic design, it supports the core permaculture ethics of earth care, people care, and fair share. Consider zone placement, relative location, and energy cycling principles when incorporating into landscape designs.
-
-## Economic Considerations
-
-Cost-benefit analysis should account for both immediate yields and long-term system productivity. Initial investment in infrastructure and establishment is typically offset by reduced maintenance costs and increasing outputs over time. Multiple revenue streams can be developed through value-added products, educational opportunities, and ecosystem services.
-
-## See Also
-- [[coprophilous-fungi-biodiversity-indicators]]
-- [[fungal-indicators-soil-quality-ecosystem-health]]
-- [[fungi-as-environmental-indicators-and-biosensors]]
-- [[fungi-ecosystem-health-indicators]]
-- [[ingham-compost-quality-assessment-visual-microbial-indicators]]
 
 ## See Also
 

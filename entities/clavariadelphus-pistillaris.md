@@ -24,44 +24,8 @@ sources:
 
 **Clavariadelphus pistillaris** (L.) Donk, commonly known as the piggy-back fungus, giant club, or large club coral, is a basidiomycete fungus in the family Gomphaceae. It is one of the most distinctive non-gilled mushrooms of temperate forests, producing large, club-shaped to spindle-shaped fruiting bodies that can reach imposing dimensions — up to 30 cm tall and 7 cm wide in mature specimens.
 
-The species is widely distributed across temperate regions of the Northern Hemisphere, where it forms [[spore-print]]:** Pale yellow to ochre.
-
-**Base:** The base of the club is typically insititious (arising directly from the substrate without a distinct stem base), white and mycelioid. It may be partially buried in soil or duff.
-
-### Microscopic Features
-
-- **Basidia:** Clavate to cylindrical, 4-spored, 60–90 × 10–14 µm.
-- **Spores:** Broadly ellipsoid to fusiform, 10–15 × 5–7 µm, thin-walled, hyaline, roughened with small warts or spines (echinulate), amyloid or non-amyloid depending on staining method.
-- **Hymenial cystidia:** Cylindrical to narrowly clavate, thin-walled, sometimes septate.
-- **Hyphal system:** Monomitic, composed of thin-walled, clamped generative hyphae.
-
-## Distribution and Habitat
-
-*Clavariadelphus pistillaris* has a broad circumboreal distribution:
-
-- **Europe:** Found across the continent from Scandinavia to the Mediterranean, though it is generally uncommon and localized. More frequent in mountainous and subalpine coniferous forests.
-- **North America:** Occurs in the Pacific Northwest, Rocky Mountains, and northeastern forests, primarily associated with spruce, fir, and pine.
-- **Asia:** Reported from Japan, China, Korea, and the Himalayan region.
-
-The species is almost exclusively associated with **coniferous forests**, forming ectomycorrhizal partnerships with:
-
-- Spruce (*Picea* spp.) — most common association
-- Fir (*Abies* spp.)
-- Pine (*Pinus* spp.)
-- [[beta-glucans]] with potential immunomodulatory activity, consistent with findings across many [[singh-basidiomycete-fungi-in-petroleum-hydrocarbon-cleanup]].
-
-No psychoactive or toxic compounds have been reported from this species.
-
-## Conservation Status
-
-*Clavariadelphus pistillaris* is not formally listed as threatened on a global scale, but is considered rare or uncommon throughout much of its range. Key conservation concerns include:
-
-- **Habitat loss:** Logging and forest conversion reduce available mature coniferous habitat.
-- **Air pollution:** [[dighton-nitrogen-deposition-mycorrhizal-community-shifts]] and acid rain negatively impact [[arbuscular-mycorrhizal-fungal-diversity-patterns-distribution]] communities.
-- **[[dighton-fungi-climate-change-feedback]]:** Warming temperatures and altered precipitation patterns may shift suitable habitat northward and to higher elevations.
-- **Soil disturbance:** Compaction and disruption of [[amanita-muscaria]]
-
-- [[mushroom-cultivation-basics]]
+The species is widely distributed across temperate regions of the Northern Hemisphere, where it forms [[beta-glucans]] with potential immunomodulatory activity, consistent with findings across many [[dighton-nitrogen-deposition-mycorrhizal-community-shifts]] and acid rain negatively impact [[dighton-fungi-climate-change-feedback]]:** Warming temperatures and altered precipitation patterns may shift suitable habitat northward and to higher elevations.
+- **Soil disturbance:** Compaction and disruption of [[mushroom-cultivation-basics]]
 ## Practical Considerations
 
 Successful implementation of Clavariadelphus pistillaris requires attention to
@@ -80,3 +44,80 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
+
+## Overview
+
+Clavariadelphus Pistillaris represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish clavariadelphus pistillaris
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving clavariadelphus extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Clavariadelphus Pistillaris finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for clavariadelphus pistillaris. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+clavariadelphus pistillaris and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Clavariadelphus Pistillaris has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of clavariadelphus pistillaris into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.

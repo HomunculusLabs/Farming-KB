@@ -9,32 +9,7 @@ sources: []
 
 # MDAI — 5,6-Methylenedioxy-2-aminoindane
 
-MDAI is a synthetic phenethylamine analogue developed as a non-neurotoxic entactogen substitute for MDMA. It is not a [[2c-b-pihkal-entry-20]] but is included here due to its significance as a research chemical in the phenethylamine family.
-
-## Chemical Identity
-
-- Full name: 5,6-Methylenedioxy-2-aminoindane
-- CAS number: 132741-81-2
-- Molecular formula: C10H11NO2
-- Molecular weight: 177.20 g/mol
-- Structure: An indane ring system with methylenedioxy substitution at the 5,6-positions and an amino group at the 2-position
-- Developed by: David E. Nichols and team at Purdue University
-- First published: 1990s
-
-## Dosage and Duration
-
-- Typical dosage range: 20-50 mg (oral)
-- Duration: 6-8 hours
-- Note: Dosage data comes primarily from anecdotal reports; clinical data is limited
-
-## Effects
-
-MDAI was designed to act as a selective serotonin-releasing agent (SSRA) without significant dopamine or norepinephrine release. The intended pharmacological profile:
-
-- Serotonin release: strong (primary mechanism)
-- Dopamine release: minimal (designed to be absent)
-- Norepinephrine release: minimal
-- [[tihkal-oral-activity-mao-inhibition]]: none
+MDAI is a synthetic phenethylamine analogue developed as a non-neurotoxic entactogen substitute for MDMA. It is not a [[tihkal-oral-activity-mao-inhibition]]: none
 
 Reported effects include:
 - Mild to moderate entactogenic effects similar to MDMA but notably gentler
@@ -46,7 +21,7 @@ Reported effects include:
 
 ## Pharmacology
 
-MDAI was rationally designed as a non-neurotoxic alternative to MDMA. The indane ring constrains the molecule, preventing the formation of [[reactive-metabolites-and-bioactivation-toxicology]] that are responsible for MDMA's [[mdma-serotonergic-neurotoxicity]]. The mechanism of action is primarily through serotonin transporter (SERT) activation — it acts as a serotonin-releasing agent and reuptake inhibitor.
+MDAI was rationally designed as a non-neurotoxic alternative to MDMA. The indane ring constrains the molecule, preventing the formation of [[mdma-serotonergic-neurotoxicity]]. The mechanism of action is primarily through serotonin transporter (SERT) activation — it acts as a serotonin-releasing agent and reuptake inhibitor.
 
 In animal studies, MDAI showed:
 - Potent serotonin release with ED50 values in the low micromolar range
@@ -76,6 +51,90 @@ MDAI is a controlled substance in many jurisdictions.
 
 ## See Also
 
-- [[mda]] — the parent amphetamine that inspired the entactogen class
 - [[mdea]]
 - [[tma-entity]]
+
+## Overview
+
+Mdai Entity represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish mdai entity
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving mdai extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Mdai Entity finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for mdai entity. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+mdai entity and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Mdai Entity has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of mdai entity into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[2c-g-3-entity]]
+- [[4-5-mdo-dmt-entity-tihkal]]
+- [[5-6-mdo-dipt-entity-tihkal]]
+- [[mdcpm-entity-pihkal]]
+- [[methyl-k-entity-pihkal]]

@@ -23,40 +23,7 @@ solutions effectively.
 
 ## Windbreaks
 
-[[swale-design]]
-
-Swales are dead-level channels built on contour that intercept, slow, and
-infiltrate surface water runoff into the landscape. Unlike drains that remove
-water, swales retain it on the land by creating temporary pools during and
-after rainfall. The excavated material forms a berm on the downslope side,
-which becomes the primary planting zone for trees and shrubs benefiting from
-the enhanced soil moisture.
-
-Design of swales depends on slope, soil type, and rainfall intensity. On
-gentle slopes (1-3 degrees), spacing of 20-50 metres is typical; on steeper
-slopes (5-15 degrees), spacing narrows to 5-15 metres. Construction ranges
-from hand-dug channels in home gardens (30-60 cm deep) to machine-excavated
-broadacre swales (1-2 metres deep, 2-4 metres wide). Spillways are critical
-safety features that allow excess water to escape without eroding the berm.
-
-Swales excel in arid and semi-arid climates where water is the limiting factor,
-potentially infiltrating water to depths of 3-5 metres and eliminating the need
-for irrigation in [[mollison-tree-crop-systems-permaculture]] systems. They also serve [[pdc-urban-permaculture-design-principles]] by
-managing stormwater runoff, reducing municipal drainage burdens, and creating
-productive edge habitats. Their effectiveness is largely determined by soil
-infiltration rates, meaning clay soils require larger swales while sandy soils
-can use smaller, more widely spaced installations.
-
-## Key Differences
-
-| Aspect | Windbreak | Swale |
-|--------|-----------|-------|
-| Primary Function | Reduce wind speed and protect from exposure | Capture, slow, and infiltrate surface water |
-| Physical Force Addressed | Wind | Water (gravity-driven runoff) |
-| Design Basis | Height, density, orientation to prevailing wind | Contour lines, slope, soil infiltration rate |
-| Time to Full Effectiveness | 5-10 years for mature height | Immediate upon construction |
-| Primary Material | Living trees and shrubs | Earth (excavated soil and berms) |
-| Maintenance | Pruning, replanting gaps, [[fukuoka-textdoc-weed-control-with-weeds-rice-barley-clover-discovery]] early on | Spillway clearing, sediment removal every 5-10 years |
+[[mollison-tree-crop-systems-permaculture]] systems. They also serve [[fukuoka-textdoc-weed-control-with-weeds-rice-barley-clover-discovery]] early on | Spillway clearing, sediment removal every 5-10 years |
 | Climate Focus | Windy, exposed sites in any climate | Arid to humid; most critical in drylands |
 | Scale Range | Garden hedgerows to large agricultural shelterbelts | Home garden channels to broadacre earthworks |
 | Wildlife Benefit | High: corridor habitat, nesting, food | Moderate: moist planting zones support diversity |
@@ -106,6 +73,77 @@ forces present severe challenges to agricultural productivity.
 
 ## See Also
 
-- [[comparison-windbreak-vs-hedgerow]]
 - [[permaculture-earthworks]]
 - [[comparison-swale-vs-contour-line-water-management]]
+
+## Overview
+
+Comparison Windbreak Vs Swale represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish comparison windbreak vs swale
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving comparison extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Comparison Windbreak Vs Swale finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for comparison windbreak vs swale. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+comparison windbreak vs swale and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Comparison Windbreak Vs Swale has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of comparison windbreak vs swale into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions

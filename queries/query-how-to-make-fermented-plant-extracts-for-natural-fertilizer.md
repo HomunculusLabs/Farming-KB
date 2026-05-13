@@ -10,7 +10,7 @@ type: query
 
 # How Do I Make Fermented Plant Extracts for Natural Fertilizer?
 
-Fermented plant extracts (FPEs) are liquid fertilizers made by fermenting fresh plant material in sugar or brine. They concentrate the [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]], enzymes, and micronutrients of the source plant into a stable, readily absorbed form. FPEs are a cornerstone of Korean Natural Farming, [[comparison-biodynamic-preparations-vs-biofertilizers]], and many traditional agricultural systems worldwide.
+Fermented plant extracts (FPEs) are liquid fertilizers made by fermenting fresh plant material in sugar or brine. They concentrate the [[comparison-biodynamic-preparations-vs-biofertilizers]], and many traditional agricultural systems worldwide.
 
 ## Why Use Fermented Plant Extracts?
 
@@ -32,10 +32,7 @@ Select based on what your plants or soil need:
 | Dandelion (Taraxacum officinale) | Potassium, copper, iron | Soil biology activation |
 | Bamboo shoots | Silica | Stem strength and pest resistance |
 | Mugwort (Artemisia vulgaris) | Minerals, volatile oils | Pest deterrent, growth stimulant |
-| Horsetail (Equisetum arvense) | High silica | Fungal [[cervantes-pest-disease-prevention-overview]] |
-| Seaweed (any species) | Trace minerals, cytokinins | All-purpose stress relief |
-
-**Harvesting tips:** Collect in the morning after dew dries but before the sun drives off [[query-how-do-fungal-volatile-compounds-affect-plant-growth-and-other-microorganisms]]. Use young, vigorous growth. Avoid plants from roadsides or sprayed areas. Identify species with certainty before harvesting.
+| Horsetail (Equisetum arvense) | High silica | Fungal [[query-how-do-fungal-volatile-compounds-affect-plant-growth-and-other-microorganisms]]. Use young, vigorous growth. Avoid plants from roadsides or sprayed areas. Identify species with certainty before harvesting.
 
 ## Basic FPE Recipe (Sugar Fermentation Method)
 
@@ -95,8 +92,7 @@ FPEs are concentrates and must always be diluted before use:
 | Seed soak | 1:500 | Soak seeds for 4 to 8 hours before planting |
 | Transplant dip | 1:200 | Dip bare roots for 30 seconds before planting |
 
-**Compatibility:** FPEs can be combined with [[query-how-does-living-soil-work-for-cannabis]] biology for maximum [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]]
-- Use alongside [[query-how-to-make-compost-tea-for-my-plants]] for a different spectrum of microbes
-- Layer with [[query-how-do-i-use-fermented-plant-extracts-in-my-garden]]
+**Compatibility:** FPEs can be combined with [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]]
+- Use alongside [[query-how-do-i-use-fermented-plant-extracts-in-my-garden]]
 
 - [[brassinosteroid-natural-occurrence-plant-kingdoms]]

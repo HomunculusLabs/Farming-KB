@@ -11,39 +11,11 @@ tags: [inoculation, sterile-technique, mushroom-cultivation, contamination, myco
 # Mushroom Inoculation and Aseptic Technique
 
 Inoculation is the process of introducing fungal inoculant -- spores, liquid
-culture, or agar tissue -- into a [[oyster-mushroom-non-sterilized-substrate-cultivation]]. This is the most
-critical point in the cultivation workflow, as the sterile substrate is
-temporarily exposed to ambient air during the procedure. Any contamination
-introduced at this stage will compete with the desired fungus and may
-completely overrun the substrate.
-
-## Types of Inoculant
-
-Multiple inoculant types can be used with [[grass-seed-substrate]]:
+culture, or agar tissue -- into a [[grass-seed-substrate]]:
 
 - **Spore syringe** -- A suspension of mushroom spores in sterile water.
   Spores must germinate before colonization begins, making this the slowest
-  [[boil-a-bag-long-needle-inoculation-method-jarrold]]. Genetic variability is high because each spore
-  represents a unique recombinant genotype.
-
-- **Mycelium syringe (liquid culture)** -- A suspension of living mycelial
-  fragments in a nutrient broth. Colonization begins immediately upon
-  inoculation, resulting in faster and more reliable colonization than spore
-  syringes. The genetics are clonal, preserving the characteristics of the
-  parent culture.
-
-- **Agar squares** -- Small pieces of colonized agar medium cut from a petri
-  dish and transferred directly into the substrate. This method provides
-  the fastest colonization of all options because the mycelium is already
-  actively growing on a nutrient medium. It also allows visual confirmation
-  of culture health before inoculation.
-
-## Pre-Inoculation Preparation
-
-The most important prerequisite is patience. Jars must be completely cooled
-to room temperature before inoculation. Introducing inoculant into hot
-substrate will kill spores or damage mycelium, wasting the inoculant and
-potentially the entire jar. Depending on jar size and [[jadam-ambient-temperature-principle]],
+  [[jadam-ambient-temperature-principle]],
 cooling may take several hours to overnight.
 
 All tools and surfaces should be cleaned and disinfected before beginning.
@@ -118,13 +90,5 @@ reduce total colonization time by 50% or more.
 ## Contamination Recognition
 
 Successful inoculation produces white, fluffy mycelium that spreads
-radially from the [[inoculation-point-taping-technique-sterile-bag-inoculation-jarrold]]. Common contaminants include green
-molds (Trichoderma species), black pin mold (Rhizopus), and bacterial
-slime (various species). Contaminated jars should be discarded or treated
-to kill the organisms before disposal, as they contain large numbers of
-competing spores that can infect future batches.
-
-## See Also
-- [[mushroom-spore-inoculation-technique]]
-- [[mushroom-training-inoculation-techniques]]
+radially from the [[mushroom-spore-inoculation-technique]]
 - [[jarrold-short-needle-vs-long-needle-mushroom-inoculation-methods]]

@@ -9,7 +9,7 @@ sources: []
 
 # Aquaponics
 
-Aquaponics is an integrated food production system that combines aquaculture (fish farming) with hydroponics (soilless plant growing) in a recirculating ecosystem. Fish waste provides nutrients for plants, and plants filter the water for fish. This creates a closed-loop system that uses approximately 90% less water than traditional agriculture while producing both protein and vegetables. Aquaponics fits naturally into [[permaculture-design]] as a Zone 1 [[mollison-designers-market-garden-intensive-production-design]] system.
+Aquaponics is an integrated food production system that combines aquaculture (fish farming) with hydroponics (soilless plant growing) in a recirculating ecosystem. Fish waste provides nutrients for plants, and plants filter the water for fish. This creates a closed-loop system that uses approximately 90% less water than traditional agriculture while producing both protein and vegetables. Aquaponics fits naturally into [[permaculture-design]] as a Zone 1 intensive production system.
 
 ## System Types
 
@@ -59,14 +59,14 @@ Stacked growing columns or towers that maximize production in limited space. Wat
 
 The workhorse of warm-water aquaponics. Fast-growing, hardy, tolerant of poor water quality, efficient feed converters.
 
-- **[[query-what-is-the-ideal-temperature-range-for-growing-cannabis]]**: 75-85F (will die below 55F)
+- **Temperature range**: 75-85F (will die below 55F)
 - **Growth rate**: Harvestable in 6-9 months from fingerling
 - **Stocking density**: 1 fish per 5-10 gallons (with adequate filtration)
 - **Considerations**: Illegal to possess in some states without permits; require warm water year-round
 
 ### Bluegill and Sunfish
 
-Native [[growing-gourmet-north-american-reishi-species]] fish suitable for cold-climate aquaponics.
+Native North American fish suitable for cold-climate aquaponics.
 
 - **Temperature range**: 65-80F
 - **Growth rate**: Slower than tilapia; 12-18 months to harvest
@@ -78,7 +78,7 @@ Excellent for cold-water systems. High-quality food fish.
 
 - **Temperature range**: 55-65F (require cool water; die above 72F)
 - **Growth rate**: 12-18 months to harvest
-- **Considerations**: Require excellent water quality, cool water, and higher [[aact-dissolved-oxygen-fine-bubble-aeration-ingham]] levels
+- **Considerations**: Require excellent water quality, cool water, and higher dissolved oxygen levels
 
 ### Koi and Goldfish
 
@@ -102,12 +102,12 @@ Hardy bottom-feeders suitable for warm-water systems.
 - **Leafy greens**: Lettuce (best performer), kale, Swiss chard, watercress, arugula — fast turnover, high demand
 - **Herbs**: Basil (exceptional in aquaponics), mint, cilantro, parsley, dill — premium pricing
 - **Fruiting vegetables**: Tomatoes, peppers, cucumbers, eggplant — need more nutrients and stronger light
-- **Other**: Strawberries, [[comparison-scented-geraniums-vs-edible-flowers]], microgreens
+- **Other**: Strawberries, edible flowers, microgreens
 
 ### Plants That Struggle
 
 - Root vegetables (carrots, potatoes, onions) need deeper media than most systems provide
-- Heavy-feeding brassicas (cabbage, broccoli) can cause [[hamilton-nutrient-deficiencies-and-treatment]]
+- Heavy-feeding brassicas (cabbage, broccoli) can cause nutrient deficiencies
 - Acid-loving plants (blueberries) are difficult to accommodate
 - Large trees and shrubs are impractical in most systems
 
@@ -140,11 +140,10 @@ Cycling is the process of establishing the bacterial colonies that convert fish 
 
 ## Water Quality Parameters
 
-| Parameter | Ideal Range | Critical Level |
-|---|---|---|
-| Temperature | 65-80F (species-dependent) | >90F or <50F |
-| Dissolved Oxygen | 5-8 mg/L | <3 mg/L (fish stress) |
-| pH | 6.8-7.2 | <6.0 or >8.0 |
-| Ammonia (NH3) | 0 ppm | >0.25 ppm (toxic) |
-| Nitrite (NO2-) | 0 ppm | >0.25 ppm (toxic) |
-| Nitrate (NO3-) | 20-80 ppm | >150 ppm (stress) |
+## See Also
+
+- [[comparison-aquaponics-vs-aeroponics]]
+- [[comparison-aeroponics-vs-aquaponics]]
+- [[query-how-to-use-aquaponics-to-grow-herbs-and-vegetables]]
+- aquaponics
+- [[query-what-are-the-best-fish-species-for-different-aquaponics-setups]]

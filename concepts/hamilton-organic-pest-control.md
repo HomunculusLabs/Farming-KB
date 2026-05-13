@@ -8,8 +8,7 @@ type: concept
 tags: [reference]
 ---
 
-# [[geoff-hamilton]]'s approach to pest control emphasizes that the organic
-gardener simply will not come across the [[hamilton-pest-and-disease-control-organic]] problems that
+# [[hamilton-pest-and-disease-control-organic]] problems that
 face the monoculture grower. By cultivating a natural organic garden with
 diverse planting, a balanced ecosystem of pests and predators develops
 naturally. Prevention is the best approach, and organic pesticides
@@ -36,37 +35,7 @@ of water and food.
 ## Daily Vigilance
 
 Make a habit of walking around the garden at least once a day in summer,
-when [[query-how-to-manage-pests-and-diseases-in-mushroom-cultivation]] are most likely to appear. Take a hoe and a
-plastic bag. If you see signs of mildew or find a caterpillar, pick it
-off immediately. The first attack of greenfly can often be removed by
-simply rubbing the stem with your finger to squash them.
-
-## Biological Controls
-
-Encouraging natural predators is a cornerstone of organic pest control:
-- **Ladybugs and hoverflies**: Eat aphids by the thousand. Attract them
-  by planting French marigolds (Tagetes) and other flat, open flowers.
-- **Birds**: Eat grubs, caterpillars, and slugs. Provide nesting sites,
-  berry-bearing trees, and a source of water.
-- **Ground beetles**: Eat wireworms, leatherjackets, and slugs. Encourage
-  them with [[hamilton-organic-soil-management]], [[hamilton-vegetable-planning-rotation]]
-## Practical Considerations
-
-When working with Organic Pest Control Methods, several practical factors should be
-carefully considered to achieve optimal results. These include
-the specific conditions of the implementation context, available
-resources, timing requirements, and the interactions between this
-topic and other elements of the broader system. A holistic view
-that considers these interconnections produces better outcomes.
-
-Environmental conditions such as temperature, moisture, and
-seasonal patterns significantly influence results. Monitoring these
-variables and adapting practices accordingly is essential for success.
-The most effective practitioners develop keen observation skills and
-respond flexibly to changing conditions rather than following rigid
-protocols regardless of circumstances or local variation.
-
-[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
+when [[hamilton-organic-soil-management]], [[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -111,8 +80,6 @@ through generations to modern scientific approaches, the evolution continues
 to inform current best practices and research directions.
 
 ## See Also
-- [[doc]]
 - [[dom]]
-- [[hamilton-geoffhamilton-nick-organic-gardening-organic-pest-control]]
 - [[hamilton-pest-and-disease-control-organic]]
 - [[cervantes-neem-oil-organic-pest-control]]

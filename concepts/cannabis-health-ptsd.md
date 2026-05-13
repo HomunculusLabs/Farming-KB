@@ -15,11 +15,7 @@ Post-traumatic stress disorder (PTSD) arises following exposure to
 extremely painful or traumatic events and can persist for decades.
 Primary orthodox treatments include talk-therapy and pharmaceutical
 medications, primarily antidepressants and anxiolytics. However, misuse
-of prescription drugs and severe [[blesching-cannabis-safety-adverse-effects-evidence]] frame clear limitations
-of pharmaceutical intervention. Despite success from cognitive
-behavioral therapies, patients often show vulnerability to reversal of
-progress by exposure to stress and stress triggers. Cannabis offers a
-complementary approach through the [[cannabis-health-methods-of-administration]].
+of prescription drugs and severe [[cannabis-health-methods-of-administration]].
 
 ## Scientific Evidence
 
@@ -36,10 +32,7 @@ extinction. This may explain why cannabinoids can modulate panic
 responses both before and after traumatic events.
 
 An Ottawa study (2009) reported that cannabis could remove fear
-responses to stressors such as nightmares, poor sleep, [[blesching-cannabis-cancer-night-sweats]],
-and flashbacks. Forty-seven PTSD patients whose nightmares failed to
-respond adequately to standard pharmaceutical antidepressants and
-hypnotics received the synthetic cannabinoid [[endocannabinoid-neurogenesis-neuroplasticity-blesching]] plays a necessary role in the extinction of
+responses to stressors such as nightmares, poor sleep, [[endocannabinoid-neurogenesis-neuroplasticity-blesching]] plays a necessary role in the extinction of
 aversively motivated behaviors. Their results provided compelling
 support for the hypothesis that endogenous cannabinoids are involved
 specifically in forgetting painful events while being expendable for
@@ -72,15 +65,7 @@ persistent aspects of PTSD.
 ## Extinction Learning Mechanism
 
 The endocannabinoid system's role in extinction learning is central to
-its [[metzner-ayahuasca-therapeutic-potential]] for PTSD. Extinction learning is the process
-by which conditioned fear responses are diminished through repeated
-exposure to fear-inducing stimuli without adverse consequences. This
-is the goal of most PTSD therapies. Cannabinoids facilitate this
-process by modulating CB1 receptors in the amygdala, reducing the
-impact of stress hormones like corticosterone on fear memory
-consolidation. This mechanism supports the brain's natural ability to
-"unlearn" traumatic associations. The CB1 and CB2 receptors involved
-are described in detail on the [[cannabis-health-thc-tetrahydrocannabinol]], binding with both CB1 and CB2 relatively
+its [[cannabis-health-thc-tetrahydrocannabinol]], binding with both CB1 and CB2 relatively
 equally. Rimonabant is a CB1 antagonist known to reduce learned fear
 responses. While the human case study relied on Nabilone, many patients
 prefer indicas or indica-dominant hybrids with a lower THC:CBD/CBN
@@ -118,8 +103,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[ayahuasca]]
 - [[doc]]
-- [[dom]]
 - [[det]]
 - [[tetrahydrocannabinol]]

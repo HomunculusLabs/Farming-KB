@@ -6,15 +6,7 @@ topics: [fungal-bioweathering, mineral-dissolution, acidolysis, complexolysis, r
 
 # Fungal Biochemical Weathering Mechanisms
 
-Fungi are among the most powerful biological agents of [[ectomycorrhizal-mineral-weathering-phosphate-mobilization-gadd]] on
-Earth. Gadd and colleagues identify four distinct biochemical mechanisms by which
-fungi dissolve minerals: acidolysis, complexolysis, redoxolysis, and
-protonolysis. These mechanisms often operate simultaneously and synergistically,
-enabling fungi to access nutrients locked in rock and mineral matrices.
-
-## Why Fungi Excel at Mineral Weathering
-
-Fungi possess several advantages over bacteria for [[dighton-fungal-rock-weathering-mineral-dissolution]]:
+Fungi are among the most powerful biological agents of [[dighton-fungal-rock-weathering-mineral-dissolution]]:
 
 1. **Hyphal penetration**: Fungal hyphae can physically invade rock crevices,
    microfractures, and mineral grain boundaries, bringing their biochemical
@@ -33,8 +25,7 @@ Fungi possess several advantages over bacteria for [[dighton-fungal-rock-weather
    bulk soil — pH gradients, redox gradients, and organic acid concentration
    gradients that collectively enhance weathering.
 
-5. **[[dighton-fungal-extracellular-enzyme-systems-decomposition]]**: Fungi secrete a diverse array of
-   [[fungal-extracellular-enzymes]] and organic acids that can attack mineral structures
+5. **[[fungal-extracellular-enzymes]] and organic acids that can attack mineral structures
    without requiring direct cellular contact.
 
 ## Acidolysis
@@ -118,8 +109,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[fungal-hyphae]]
 - [[ectomycorrhiza]]
-- [[decomposition]]
 - [[mycorrhiza]]
 - [[fungal-biomechanical-biochemical-weathering-mechanisms-gadd]]

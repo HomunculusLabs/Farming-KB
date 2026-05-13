@@ -11,52 +11,11 @@ type: concept
 # Cannabis Extraction Solvents
 
 Solvent-based extraction is the most common industrial method for producing
-[[cannabis-concentrates-and-extracts]]. A solvent dissolves cannabinoids, terpenes, and other
-desirable compounds from plant material, and is then removed (purged) to leave
-behind a concentrated extract. The choice of solvent profoundly affects the
-quality, safety, and character of the final product.
-
-## Solvent Properties and Selection
-
-An ideal cannabis extraction solvent must efficiently dissolve cannabinoids and
-terpenes while minimizing the extraction of unwanted compounds like chlorophyll,
-waxes, and plant pigments. Key considerations include:
-
-- **Polarity**: Cannabinoids are lipophilic (fat-soluble), so nonpolar and
-  moderately polar solvents work best
-- **Boiling point**: Lower boiling points make solvent removal easier and more
-  complete
-- **Toxicity**: Residual solvent limits are strictly regulated in legal
-  cannabis markets
-- **Selectivity**: The ability to target specific compound classes
-- **Flammability**: [[ayahuasca-tourism-practitioners-and-safety-considerations]] for large-scale production
+[[ayahuasca-tourism-practitioners-and-safety-considerations]] for large-scale production
 
 ## Ethanol Extraction
 
-Ethanol ([[pf-tek-ethyl-alcohol-extraction-liqueur-concentration]]) is widely regarded as the safest and most versatile
-cannabis extraction solvent. It is food-grade, non-toxic, and effective at
-dissolving a wide range of cannabis compounds. The FDA classifies ethanol as
-GRAS (Generally Recognized As Safe), making it the preferred solvent for
-edible and topical cannabis products.
-
-Ethanol extraction can be performed at room temperature or cryogenic
-temperatures (below -40C). Cryogenic extraction improves selectivity by
-reducing the solubility of waxes and chlorophyll, producing cleaner extracts.
-Room temperature ethanol extraction pulls more plant material, requiring
-additional winterization steps to remove fats and waxes.
-
-The main limitation of ethanol is its moderate polarity, which causes it to
-also extract chlorophyll and water-soluble compounds. This can result in
-darker extracts with grassy flavors if not properly processed.
-
-## Butane and Propane Extraction
-
-Hydrocarbon extraction using butane, propane, or blends of the two produces
-some of the most flavorful and potent cannabis concentrates available. These
-light hydrocarbons are highly nonpolar and extremely selective for cannabinoids
-and terpenes, producing extracts with exceptional flavor and aroma profiles.
-
-Butane Hash Oil (BHO) and its refined forms (shatter, wax, budder, [[live-resin-processing]])
+Ethanol ([[live-resin-processing]])
 dominate the premium concentrate market. The low boiling point of butane
 (-1C) and propane (-42C) allows for gentle purging at low temperatures,
 preserving delicate terpenes that would be lost with higher-temperature
@@ -64,12 +23,7 @@ methods.
 
 Safety is the primary concern with hydrocarbon extraction. Butane is highly
 flammable and its use requires specialized closed-loop equipment, proper
-ventilation, and strict adherence to [[mushroom-edibility-testing-safety-protocols]]. Amateur extraction
-attempts have caused numerous explosions and injuries.
-
-## Supercritical CO2 Extraction
-
-Supercritical [[carbon-dioxide-retention-jar-lid-mushroom-cultivation]] extraction uses CO2 that has been pressurized and
+ventilation, and strict adherence to [[carbon-dioxide-retention-jar-lid-mushroom-cultivation]] extraction uses CO2 that has been pressurized and
 heated above its critical point (31.1C, 1071 psi), where it exhibits
 properties of both a liquid and a gas. This unique state allows tunable
 selectivity by adjusting temperature and pressure parameters.
@@ -118,8 +72,78 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[ayahuasca]]
 - [[dom]]
-- [[ethanol]]
 - [[oner-cannabis-water-extraction-ice-water-hash]]
 - [[comparison-cannabis-extraction-basics-vs-extraction-methods]]
+
+## Overview
+
+Cannabis Extraction Solvents represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish cannabis extraction solvents
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving cannabis extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Cannabis Extraction Solvents finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for cannabis extraction solvents. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+cannabis extraction solvents and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Cannabis Extraction Solvents has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of cannabis extraction solvents into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions

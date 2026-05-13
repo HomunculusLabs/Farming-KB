@@ -4,13 +4,12 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [cannabis, pruning, indoor, plant-growth, comparison, techniques]
-sources:
-  - "raw/papers/marijuana-horticulture-cervantes.md"
+sources: []
 ---
 
 ## Overview
 
-Training techniques manipulate cannabis plant structure to optimize [[cervantes-reflective-hoods-light-distribution]], increase yield, control height, and improve airflow. These methods range from gentle bending to deliberate tissue damage, each with specific use cases and trade-offs. All structural training should be performed during the [[cannabis-vegetative-stage]] before flowering begins.
+Training techniques manipulate cannabis plant structure to optimize light distribution, increase yield, control height, and improve airflow. These methods range from gentle bending to deliberate tissue damage, each with specific use cases and trade-offs. All structural training should be performed during the [[cannabis-vegetative-stage]] before flowering begins.
 
 ## Low-Stress Training (LST)
 
@@ -41,7 +40,7 @@ ScROG uses a horizontal screen (chicken wire, trellis netting, or string grid) a
 
 ### Setup
 
-- Install screen at 8-12 inches above the [[cervantes-green-algae-growing-medium]]
+- Install screen at 8-12 inches above the growing medium
 - As branches reach screen height, tuck them under and spread laterally
 - Continue weaving until the screen is roughly 70-80% full
 - Switch to 12/12 — branches will grow vertically through the screen toward the light
@@ -50,13 +49,13 @@ ScROG uses a horizontal screen (chicken wire, trellis netting, or string grid) a
 
 - Creates the most even canopy possible
 - Maximizes light utilization across the entire footprint
-- Supports heavy buds — screen acts as [[comparison-silicon-vs-calcium-in-plant-defense-and-structural-support]]
+- Supports heavy buds — screen acts as structural support
 - Can significantly increase yield per square foot
 
 ### Considerations
 
 - Works best with fewer, larger plants (1-4 plants per 3x3 or 4x4 tent)
-- Requires commitment to daily tending during [[cannabis-vegetative-growth-stage]]
+- Requires commitment to daily tending during vegetative growth
 - Not practical for autoflowers with short veg periods
 
 ## Main-Lining / Manifolding
@@ -86,7 +85,7 @@ Main-lining is a systematic approach that creates a perfectly symmetrical plant 
 
 ## Defoliation
 
-Defoliation is the strategic removal of leaves to improve light penetration and airflow. It is one of the most debated techniques in [[arbuscular-mycorrhizal-fungi-cannabis-cultivation]].
+Defoliation is the strategic removal of leaves to improve light penetration and airflow. It is one of the most debated techniques in cannabis cultivation.
 
 ### When to Defoliate
 
@@ -141,9 +140,11 @@ Super cropping is a high-stress technique that involves crushing the inner tissu
 ### Risks
 
 - Snapping the stem completely — can be taped and recovered but is suboptimal
-- Over-stressing the plant if performed on multiple branches simultaneously
-- Not suitable for thin or young stems
 
-## Combination Approaches
+## See Also
 
-Experienced growers often combine techniques:
+- [[cannabis-cultivar-microbiome-specificity]]
+- [[weighted-vs-unweighted-unifrac-cannabis-strain-microbiome]]
+- [[cannabis-and-endometriosis]]
+- [[blesching-cannabis-immune-system-modulation]]
+- [[cannabis-seed-germination-viability-breeding-clarke]]

@@ -11,23 +11,16 @@ sources:
 
 # Forty Days in Africa
 
-In *The Road Back to Nature*, [[fukuoka-natural-farming-philosophy-of-mu]] and [[fukuoka-deficit-farming]] he observed in America are at work
+In *The Road Back to Nature*, [[fukuoka-deficit-farming]] he observed in America are at work
 - International aid often exacerbates rather than solves the problem
 
 ## Can Natural Farming Stop the Deserts?
 
-Fukuoka asks whether [[fukuoka-seed-ball-methods-advanced]] could potentially revegetate degraded land
-- The approach must work with local conditions rather than impose external methods
-- Success depends on understanding local ecology, not importing Japanese techniques wholesale
-
-## What Will Grow in the Desert?
-
-Fukuoka addresses the practical question of [[fukuoka-aerial-seeding-clay-pellets-desert-revegetation-technique]]:
+Fukuoka asks whether [[fukuoka-aerial-seeding-clay-pellets-desert-revegetation-technique]]:
 
 - Natural succession principles suggest that certain pioneer species can establish in degraded conditions
 - The key is finding the right combination of local and adapted species
-- Green [[green-manure-crops-detailed]] and deep-rooted plants can begin the process of soil restoration
-- The goal is to restart natural [[holmgren-ecological-succession-and-pulsing]], not to create instant farms
+- Green [[holmgren-ecological-succession-and-pulsing]], not to create instant farms
 
 ## Organic Farming and Ecology Are Self-Defeating
 
@@ -44,7 +37,7 @@ Africa taught Fukuoka important lessons:
 
 - Natural farming cannot be imposed from outside — it must grow from within communities
 - The scale of ecological destruction in Africa dwarfs what he encountered elsewhere
-- [[fukuoka-desert-greening-projects]], [[fukuoka-seeding-real-green-revolution]], [[fukuoka-machine-culture-doomed]], [[fukuoka-road-back-to-nature-overview]], [[fukuoka-natural-farming-philosophy]], [[fukuoka-no-weeding-no-pesticides]], [[fukuoka-desert-reclamation]]. His observations in Somalia provide a practical case study in [[fukuoka-african-agriculture-observations]].
+- [[fukuoka-seeding-real-green-revolution]], [[fukuoka-road-back-to-nature-overview]], [[fukuoka-no-weeding-no-pesticides]], [[fukuoka-african-agriculture-observations]].
 
 ## The Savanna Landscape
 
@@ -52,24 +45,7 @@ From the air, a splendid panorama of vast savanna with scattered thorny bushes o
 
 ## The Discovery of Clay
 
-The desert sand contains clay. If there is clay, there is hope. Fukuoka told the young people of Somalia: "This earth is young; it is sleeping. The land must be awakened from its slumber with natural farming." This observation about clay content became the basis for [[fukuoka-desert-greening-plant-irrigation]].
-## Practical Considerations
-
-When working with Fukuoka — Forty Days in Africa, several practical factors should be
-carefully considered to achieve optimal results. These include
-the specific conditions of the implementation context, available
-resources, timing requirements, and the interactions between this
-topic and other elements of the broader system. A holistic view
-that considers these interconnections produces better outcomes.
-
-Environmental conditions such as temperature, moisture, and
-seasonal patterns significantly influence results. Monitoring these
-variables and adapting practices accordingly is essential for success.
-The most effective practitioners develop keen observation skills and
-respond flexibly to changing conditions rather than following rigid
-protocols regardless of circumstances or local variation.
-
-[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
+The desert sand contains clay. If there is clay, there is hope. Fukuoka told the young people of Somalia: "This earth is young; it is sleeping. The land must be awakened from its slumber with natural farming." This observation about clay content became the basis for [[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -110,8 +86,6 @@ through generations to modern scientific approaches, the evolution continues
 to inform current best practices and research directions.
 
 ## See Also
-- [[det]]
 - [[soma]]
-- [[natural-farming]]
 - [[fukuoka-africa-agricultural-failure-deficit-farming-analysis]]
 - [[fukuoka-road-africa-greening-desert]]

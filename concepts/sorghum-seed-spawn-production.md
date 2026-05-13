@@ -17,7 +17,7 @@ The sequence is: tissue culture on PDA medium, transfer to sorghum seeds for mul
 
 ## Grain Selection Criteria
 
-Multiple grain types can serve as spawn substrate, with sorghum being the primary grain used in the FAO Thailand [[mushroom-disabilities-training-program-design]]. All grains used for spawn must meet these [[aact-compost-quality-standards-ingham]]:
+Multiple grain types can serve as spawn substrate, with sorghum being the primary grain used in the FAO Thailand [[aact-compost-quality-standards-ingham]]:
 
 - **Recent harvest**: Grains should be from the current or most recent harvest season
 - **Intact kernels**: Few broken kernels, as cracked grains are more prone to contamination
@@ -34,9 +34,7 @@ The choice between sorghum, millet, and wheat depends on local availability and 
 - Cotton (gauze) for plugging
 - Paper squares (7 cm by 7 cm) for covering plugs
 - Rubber bands or plastic necks for securing covers
-- Alcohol lamp for [[flammability-hazard-alcohol-lysol-flame-sterilization-mycology]]
-- Alcohol bottle for surface disinfection
-- Autoclave or [[boil-a-bag-pressure-sterilization-technique]] chamber
+- Alcohol lamp for [[boil-a-bag-pressure-sterilization-technique]] chamber
 - Laminar flow cabinet or protected clean environment
 - UV lamp for pre-operation sterilization
 - Special inoculation needle with insulated handle
@@ -46,8 +44,7 @@ The choice between sorghum, millet, and wheat depends on local availability and 
 
 ### Step 1: Soaking
 
-Sorghum seeds are soaked overnight at a ratio of 2 liters of water per 1 kilogram of grain. After soaking, the seeds are washed and strained to remove all excess water. The soaking hydrates the grains and begins the softening process needed for [[oyster-mushroom-spawn-production]]
-- [[grain-spawn-preparation]]
+Sorghum seeds are soaked overnight at a ratio of 2 liters of water per 1 kilogram of grain. After soaking, the seeds are washed and strained to remove all excess water. The soaking hydrates the grains and begins the softening process needed for [[grain-spawn-preparation]]
 ## Practical Considerations
 
 When working with Sorghum Seed Spawn Production, several practical factors should be

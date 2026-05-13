@@ -12,12 +12,7 @@ type: comparison
 Fish aminos and kelp meal are two of the most powerful organic inputs available
 to growers, but they serve fundamentally different nutritional roles. Fish aminos
 deliver rapid nitrogen in amino acid form, while kelp meal provides a broad
-spectrum of trace minerals and [[ingham-natural-growth-regulators-soil-microbes]] hormones. Understanding when and
-how to use each input maximizes their complementary benefits.
-
-## Overview
-
-**Fish Aminos** are a [[cannabis-vegetative-growth-stage]] when plants
+spectrum of trace minerals and [[cannabis-vegetative-growth-stage]] when plants
 have the highest demand for nitrogen. A key advantage over commercial fish
 emulsion is that the low-pH fermentation preserves heat-sensitive enzymes that
 commercial processing destroys. The production cost is essentially zero if fish
@@ -35,16 +30,7 @@ root development, improve stress resistance, and enhance overall plant vigor.
 It can be used as a soil amendment mixed into beds, as a compost activator,
 steeped as a foliar spray, or applied as a seed treatment. The alginate in kelp
 improves soil structure by enhancing water retention and aggregation. Kelp meal
-feeds beneficial soil microbes, supporting the [[cannabis-organic-fertilizers]] and a low NPK that means
-it cannot serve as a primary nitrogen source.
-
-## Key Differences
-
-| Aspect | Fish Aminos | Kelp Meal |
-|--------|-------------|-----------|
-| Nutrient Profile | High nitrogen in amino acid form | Low NPK with 60-70 trace elements |
-| Application Method | Foliar spray or soil drench (liquid) | Soil amendment, compost, or foliar |
-| Primary Function | Rapid nitrogen boost, [[comparison-cannabis-vegetative-stage-vs-flowering-stage]] | Trace minerals, hormones, stress resistance |
+feeds beneficial soil microbes, supporting the [[comparison-cannabis-vegetative-stage-vs-flowering-stage]] | Trace minerals, hormones, stress resistance |
 | Growth Stage | Vegetative stage primarily | All stages, especially transplanting |
 | Production Cost | Nearly free if fish scraps available | More expensive than most amendments |
 | Speed of Availability | Rapid; amino acids absorbed directly | Slow-release; minerals break down over weeks |
@@ -64,10 +50,7 @@ during active fermentation. The finished product separates into a dark liquid
 layer on top and settled solids below. Strain the liquid and store in a cool
 dark place.
 
-For [[ultra-low-cost-foliar-application-methods]], dilute at 1:20 (one part fish aminos to twenty parts
-water) and spray on leaf surfaces in early morning or late evening. For soil
-drenches, the same dilution is applied to the root zone every 1-2 weeks during
-active [[cannabis-vegetative-growth-stage]]. The amino acid form of nitrogen is absorbed through
+For [[cannabis-vegetative-growth-stage]]. The amino acid form of nitrogen is absorbed through
 leaf stomata within hours, making fish aminos one of the fastest-acting organic
 nitrogen sources available.
 
@@ -118,10 +101,9 @@ covers the full range of plant nutritional needs.
 Fish aminos should be applied in early morning or evening to avoid leaf burn
 and maximize absorption. Kelp meal foliar sprays benefit from a small amount
 of mild soap as a surfactant to improve coverage. Both inputs can be combined
-with other KNF inputs like [[bionutrients-lab-oriental-herbal-nutrients-ohn]] nutrient or [[bionutrients-lab-fermented-plant-juice-fpj]]
+with other KNF inputs like [[bionutrients-lab-fermented-plant-juice-fpj]]
 for a complete biostimulant program.
 
 ## See Also
 
-- [[kelp-meal-fertilizer]] for kelp meal application guidance
 - [[comparison-foliar-feeding-vs-compost-tea-nutrients]]

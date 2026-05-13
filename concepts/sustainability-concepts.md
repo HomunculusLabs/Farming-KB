@@ -59,11 +59,10 @@ Sustainability inherently considers the needs of future generations, ensuring th
 
 Sustainability has become increasingly practical and concrete through various applications:
 
-- **[[phosphate-accumulators-sustainable-agriculture]]** - [[cho-poultry-natural-farming-methods]] that maintain soil fertility and ecosystem health
+- **[[cho-poultry-natural-farming-methods]] that maintain soil fertility and ecosystem health
 - **Sustainable design** - environmentally conscious design principles
 - **Sustainable energy** - renewable energy systems and reduced consumption
-- **Sustainable tourism** - tourism that minimizes [[fertilizer-pollution-environmental-impact]]
-- **[[natural-farming-sustainable-living-principles]]** - lifestyle choices that reduce ecological footprint
+- **Sustainable tourism** - tourism that minimizes [[natural-farming-sustainable-living-principles]]** - lifestyle choices that reduce ecological footprint
 
 The growing shift toward sustainability represents a repudiation of the early 20th-century industrial model of exploitation of nature, with its technology-driven economic growth and demand for ever-greater consumption of products and services.
 
@@ -73,10 +72,8 @@ Fungi can play a significant role in the pursuit of sustainability. They are ess
 
 ## See Also
 
-- [[zeri-organization]] - Zero [[zero-emissions-research-and-initiatives]] and Initiatives organization
-- [[mycoremediation-applications]] - Using fungi for environmental remediation
-- [[sustainable-mushroom-cultivation]] - [[accessible-mushroom-cultivation-for-disabilities]] for sustainable development
-- [[agricultural-waste-recycling]] - Converting agricultural waste to valuable products
+- [[zero-emissions-research-and-initiatives]] and Initiatives organization
+- [[sustainable-mushroom-cultivation]] - [[agricultural-waste-recycling]] - Converting agricultural waste to valuable products
 
 ## Mechanisms and Processes
 - Underlying biological and ecological mechanisms drive observed outcomes.

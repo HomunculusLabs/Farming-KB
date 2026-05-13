@@ -14,11 +14,8 @@ Microfungi are microscopic fungi excluding yeasts, lichens, and those
 obligately associated with living plants. They include ascomycetes,
 basidiomycetes, and their anamorphic states. Surveys of microfungi on
 wood, plant debris, and leaf litter are fundamental to understanding
-[[biodiversity-fungal-biodiversity-estimation-methods]], [[fungal-decomposition-processes]], and [[dighton-mycorrhizal-diversity-ecosystem-function]].
-
-See [[biodiversity-microfungi-litter-wood-debris]] and
-[[microfungal-biodiversity-ecology-wood-debris-sampling]] for
-related topics, and [[mycetozoan-survey-methods-substratum-plating]]
+[[fungal-decomposition-processes]], and [[biodiversity-microfungi-litter-wood-debris]] and
+[[mycetozoan-survey-methods-substratum-plating]]
 for mycetozoan methods.
 
 ## Sampling Strategy for Wood and Plant Debris

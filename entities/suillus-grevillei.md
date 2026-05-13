@@ -57,34 +57,94 @@ Suillus grevillei, commonly known as the **larch bolete** or **Greville's bolete
 ## Ecology and Distribution
 
 **Host specificity**: Suillus grevillei is an obligate ectomycorrhizal symbiont of larch species (Larix spp.), including:
-- European larch ([[larix-decidua]])
-- Japanese larch ([[larix-kaempferi]])
+- European larch ([[larix-kaempferi]])
 - Dahurian larch (Larix gmelinii)
-- Tamarack ([[larix-laricina]])
-- Himalayan larch (Larix griffithii)
-
-This tight host specificity makes S. grevillei an excellent bioindicator for the presence of larch in mixed forest stands. The mycorrhizal association enhances larch nutrition (particularly phosphorus uptake) and provides the fungus with a reliable carbohydrate source.
-
-**Geographic range**: Widely distributed across the Northern Hemisphere in temperate and boreal zones. Common throughout Europe (especially Scandinavia, the Alps, Carpathians, and British Isles), Russia, Siberia, northern China, Japan, and North America (where it occurs with native and introduced Larix species). Most abundant in montane and subalpine larch forests at elevations of 500–2,500 m.
-
-**Seasonality**: Fruits from mid-summer through autumn (July–October in the Northern Hemisphere), typically peaking in August–September. Often appears in abundance 2–3 weeks after sustained rainfall in larch plantations.
-
-**Habitat**: Found on soil in larch forests, plantations, and ornamental larch plantings. Prefers acidic to neutral soils (pH 4.5–6.5) with good drainage. Common along forest edges and in young larch stands (10–30 years). Tolerates disturbed habitats and is one of the first ectomycorrhizal boletes to colonize recently planted larch seedlings.
-
-## Edibility and Culinary Use
-
-Suillus grevillei is considered an **excellent edible** mushroom when properly prepared, though some general guidelines apply to all Suillus species:
-
-- **Preparation essential**: The viscid cap cuticle should be peeled before cooking, as it can cause gastrointestinal discomfort in some individuals and has an unpleasantly slimy texture
-- **Cooking required**: Must be thoroughly cooked before consumption; raw specimens may cause digestive upset
-- **Nutritional profile** (per 100 g fresh weight, approximate): Calories 25–30 kcal, protein 1.8 g, carbohydrates 3.5 g, fat 0.5 g, fiber 1.5 g. Rich in potassium, phosphorus, and B vitamins
-- **Culinary applications**: Widely used in Eastern European cuisine — pickled, sautéed with onions and sour cream, dried for winter soups, or made into preserves. In Russian and Polish traditions, larch boletes are considered among the finest wild mushrooms for pickling due to their firm texture and mild, slightly nutty flavor
-- **Preservation**: Dries well with good flavor retention; also freezes well after blanching
-
-**Caution**: As with all wild mushrooms, proper identification is critical. S. grevillei can be confused with Suillus viscidus (also on larch, but lacks a ring), [[suillus-luteus]] (associated with two-needle pines, has a more brownish cap), and [[tylopilus-felleus]] (bitter bolete, though this has pink pores). No deadly lookalikes are associated with larch, but consumption of misidentified boletes from other hosts should be avoided.
+- Tamarack ([[suillus-luteus]] (associated with two-needle pines, has a more brownish cap), and [[tylopilus-felleus]] (bitter bolete, though this has pink pores). No deadly lookalikes are associated with larch, but consumption of misidentified boletes from other hosts should be avoided.
 
 ## Bioactive Compounds
 
 Research on Suillus grevillei has identified several notable bioactive constituents:
 - **Polysaccharides**: Water-soluble β-glucans with immunomodulatory activity; demonstrated macrophage-activating and antitumor properties in vitro
 - **Grevillin pigments**: Characteristic orange carotenoid-like pigments unique to Suillus species with antioxidant activity
+
+## Overview
+
+Suillus Grevillei represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish suillus grevillei
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving suillus extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Suillus Grevillei finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for suillus grevillei. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+suillus grevillei and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Suillus Grevillei has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of suillus grevillei into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[suillus-bovinus]]
+- [[suillus-cavipes]]

@@ -2,16 +2,11 @@
 
 ## Overview
 
-The design and engineering of compost [[chamovitz-circadian-rhythm-internal-clock-plants]] directly determines the quality and consistency of [[actively-aerated-compost-tea]] Tea (AACT). Dr. [[elaine-ingham]]'s [[field-guide-psilocybin-bluing-reaction-identification]] contains extensive correspondence about brewer design principles, aeration system requirements, and the mechanical factors that separate successful brewing systems from those that produce poor-quality or [[aact-fermentative-and-anaerobic-tea-types-ingham]]. This page covers the essential [[mycoremediation-bioreactor-design-considerations]] for AACT [[ingham-aact-brewing-equipment-reliability-machine-testing-standards]], including tank geometry, aeration systems, bubble diffuser types, and common design pitfalls.
-
-## Core Design Philosophy
-
-The fundamental purpose of an AACT brewer is to maintain aerobic conditions while extracting and multiplying [[forest-and-bamboo-beneficial-microorganisms]] from compost. Every design decision should serve this primary goal. Ingham emphasizes that the brewer is essentially a biological incubator, not a mixing machine. The engineering requirements follow directly from the biological needs of the organisms being cultivated.
+The design and engineering of compost [[actively-aerated-compost-tea]] Tea (AACT). Dr. [[field-guide-psilocybin-bluing-reaction-identification]] contains extensive correspondence about brewer design principles, aeration system requirements, and the mechanical factors that separate successful brewing systems from those that produce poor-quality or [[mycoremediation-bioreactor-design-considerations]] for AACT [[forest-and-bamboo-beneficial-microorganisms]] from compost. Every design decision should serve this primary goal. Ingham emphasizes that the brewer is essentially a biological incubator, not a mixing machine. The engineering requirements follow directly from the biological needs of the organisms being cultivated.
 
 A successful AACT brewer must accomplish three things simultaneously:
 
-1. Maintain [[aact-dissolved-oxygen-fine-bubble-aeration-ingham]] levels above 6.0 mg/L throughout the entire brew cycle
-2. Keep compost particles in suspension without damaging [[fungal-hyphae]]
+1. Maintain [[fungal-hyphae]]
 3. Provide uniform oxygen distribution throughout the entire liquid volume
 
 Failure in any one of these areas results in tea of inferior quality, regardless of the compost or food ingredients used.
@@ -22,9 +17,7 @@ Failure in any one of these areas results in tea of inferior quality, regardless
 
 ### Tank Size and Compost Ratio
 
-Ingham recommends a compost-to-water ratio of approximately 1 pound (0.45 kg) of high-quality compost per 5 gallons (19 liters) of water. This ratio provides sufficient microbial inoculum while leaving adequate water volume for organism reproduction. Overloading the tank with compost can deplete [[ingham-dissolved-oxygen-anaerobic-aact-brewing-management]] faster than the aeration system can replace it.
-
-Brewer sizes typically range from 5 gallons for home gardeners to 500+ gallons for commercial operations. Regardless of size, the same principles of aeration capacity, compost ratio, and [[aact-aeration-oxygen-management-ingham]] apply. Larger brewers require proportionally more powerful air pumps and more carefully designed distribution systems.
+Ingham recommends a compost-to-water ratio of approximately 1 pound (0.45 kg) of high-quality compost per 5 gallons (19 liters) of water. This ratio provides sufficient microbial inoculum while leaving adequate water volume for organism reproduction. Overloading the tank with compost can deplete [[aact-aeration-oxygen-management-ingham]] apply. Larger brewers require proportionally more powerful air pumps and more carefully designed distribution systems.
 
 ### Tank Shape
 
@@ -112,8 +105,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[psilocybin]]
 - [[det]]
-- [[mycoremediation]]
 - [[fungal-hyphae]]
 - [[aact-brewer-machine-design-testing-standards-ingham]]

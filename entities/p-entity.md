@@ -8,11 +8,7 @@ sources: []
 ---
 # P
 
-P (proscaline; 3,5-dimethoxy-4-(n)-propoxyphenethylamine) is a psychedelic phenethylamine described in [[2c-b-pihkal-entry-20]] #140.
-
-It occupies the middle position in the alkoxy series between [[escaline-entity]] - the ethoxy analogue with shorter [[phenethylamine-chain-length-effects]]
-
-[[me-entity]] - the meta-ethoxy isomer (3,4-dimethoxy-5-ethoxy)
+P (proscaline; 3,5-dimethoxy-4-(n)-propoxyphenethylamine) is a psychedelic phenethylamine described in [[escaline-entity]] - the ethoxy analogue with shorter [[me-entity]] - the meta-ethoxy isomer (3,4-dimethoxy-5-ethoxy)
 
 [[phenethylamine-pharmacology]] - general pharmacological context
 

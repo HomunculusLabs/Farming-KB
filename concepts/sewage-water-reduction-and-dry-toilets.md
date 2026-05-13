@@ -59,9 +59,7 @@ There is no blanket policy — only specific cases where we can expect to gain y
 
 ## Related Topics
 
-- [[natural-sewage-treatment-systems]]
 - [[biological-water-purification]]
-- [[water-filtration-and-treatment-systems]]
 - [[anaerobic-digestion-biogas-production]]
 
 ## Practical Applications
@@ -87,8 +85,6 @@ all influence the optimal approach to implementation.
 
 ## See Also
 
-- [[anaerobic-sewage-digestion-and-biogas-production]]
 - [[anaerobic-sewage-digestion-methane]]
-- [[biological-sewage-treatment-plants]]
 - [[water-conservation-in-sewage-systems]]
 - [[werribee-sewage-lagoons-mollison]]

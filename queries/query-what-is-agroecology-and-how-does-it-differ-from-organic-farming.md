@@ -39,7 +39,7 @@ While organic farming can be practiced agroecologically, the two are not the sam
 ### Organic Farming
 
 1. **No synthetic inputs**: Prohibition of synthetic fertilizers, pesticides, GMOs, and routine antibiotics
-2. **Soil health focus**: Build fertility through compost, cover crops, rotations, and biological amendments
+2. **Soil health focus**: Build fertility through compost, [[cover-crops]], rotations, and biological amendments
 3. **Natural pest management**: Use biological controls, botanical pesticides, cultural practices, and approved natural inputs
 4. **Certification standards**: Third-party verification of compliance with defined organic standards (USDA NOP, EU Organic, etc.)
 5. **Record-keeping and traceability**: Documentation of all inputs and practices for audit purposes
@@ -49,7 +49,7 @@ While organic farming can be practiced agroecologically, the two are not the sam
 | Dimension | Agroecology | Organic Farming |
 |---|---|---|
 | **Philosophy** | Farm as ecosystem; social justice integral | Avoid synthetic chemicals; meet certification standard |
-| **Inputs** | Minimize ALL external inputs; close loops | Allow natural external inputs (rock phosphate, fish emulsion, imported compost) |
+| **Inputs** | Minimize ALL external inputs; close loops | Allow natural external inputs ([[rock-phosphate]], fish emulsion, imported compost) |
 | **Scale** | Optimized for diverse small-medium farms | Scales from 0.5 ha market gardens to 5,000 ha commodity operations |
 | **Diversity** | Polyculture and integrated systems are central | Monoculture organic is permitted and common |
 | **Social lens** | Explicitly addresses food sovereignty, farmer rights, power structures | Limited social focus; primarily a production standard |
@@ -137,8 +137,6 @@ For farmers and gardeners wanting to move beyond input-substitution organic:
 
 ## See Also
 
-- [[regenerative-agriculture]]
 - [[permaculture-design-principles]]
-- [[syntropic-agriculture]]
 - [[the-soil-food-web]]
 - [[native-american-church-peyote-ceremony-structure-roles-roadman]]

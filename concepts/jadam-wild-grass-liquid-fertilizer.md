@@ -11,11 +11,7 @@ sources:
 
 ## Overview
 
-Wild grass [[jadam-liquid-fertilizer-nutritional-perspective]] Concepts
-
-- [[jadam-cover-crop-method]] -- growing [[comparison-green-manure-guide-vs-mulch-types-and-effects]] for fertilizer input
-- [[jadam-ultra-low-cost-methods]] -- the broader economic philosophy
-- [[jadam-leaf-mold-soil-method]]
+Wild grass [[jadam-cover-crop-method]] -- growing [[jadam-ultra-low-cost-methods]] -- the broader economic philosophy
 - [[jadam-food-waste-liquid-fertilizer]]
 ## Background and Context
 
@@ -117,8 +113,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[dom]]
 - [[det]]
-- [[knf-green-grass-liquid-fertilizer]]
 - [[jadam-coexisting-with-wild-grass]]
 - [[jadam-cover-crop-wild-grass-symbiosis]]

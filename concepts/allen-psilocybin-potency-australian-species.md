@@ -11,10 +11,7 @@ type: concept
 
 # Psilocybin Potency of Australian Species
 
-The psychoactive potency of [[guzman-magic-mushrooms-african-species]] varies significantly between
-species, between populations of the same species, and even between
-individual fruiting bodies. Australian collections have been the subject of
-several [[guzman-allen-gartz-conflicting-chemical-analyses-neurotropic-fungi]], revealing important patterns in the distribution
+The psychoactive potency of [[guzman-allen-gartz-conflicting-chemical-analyses-neurotropic-fungi]], revealing important patterns in the distribution
 of psilocybin, psilocine, and related alkaloids across the continent's
 psychoactive mycoflora.
 
@@ -61,33 +58,9 @@ psychoactive mushroom species can be roughly ranked by potency:
 
 ### Very High Potency
 
-- *[[psilocybe-subaeruginosa]]*: The most potent *Psilocybe* species known from
-  Australia. Southeastern Australian collections (Victoria, South Australia,
-  Tasmania) have been analyzed and found to contain significant amounts of
-  psilocybin. First confirmed as psychoactive in 1970.
-
-### Moderate Potency
-
-- *Psilocybe australiana*: Contains measurable psilocybin and psilocine,
-  comparable to many Northern Hemisphere *Psilocybe* species. The closely
-  related *P. eucalypta* and *P. tasmaniana* are expected to have similar
-  potency profiles based on their morphological similarity.
-
-### Low to Moderate Potency
-
 - *[[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]]*: Perhaps surprisingly, wild Australian specimens of
   *P. cubensis* have been reported as comparatively low in potency by
-  Margot and Watling (1981). This may reflect [[duggar-mushroom-environmental-factors-temperature-moisture-light]],
-  substrate differences, or genetic variation. Cultivated specimens can
-  vary widely depending on growing conditions and strain.
-
-### Variable Potency
-
-- *[[allen-australian-psilocybe-species-comprehensive-guide]]
-- [[allen-gymnopilus-and-other-psychoactive-genera]]
-
-## See Also
-
+  Margot and Watling (1981). This may reflect [[allen-australian-psilocybe-species-comprehensive-guide]]
 - [[psilocybin-potency-variation-species-strain-growth-conditions]]
 
 ## Practical Applications
@@ -119,8 +92,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[psilocybin]]
 - [[psilocin]]
-- [[baeocystin]]
 - [[norbaeocystin]]
 - [[nmt]]

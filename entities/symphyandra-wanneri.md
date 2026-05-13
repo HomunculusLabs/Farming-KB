@@ -109,13 +109,8 @@ Reintroduction trials have been proposed for historically occupied sites where p
 
 ## See Also
 
-- [[campanula-rotundifolia]]
 - [[campanula-persicifolia]]
-- [[campanula-garganica]]
 - [[campanula-cochleariifolia]]
-- [[phyteuma-spicatum]]
 - [[jasione-laevis]]
-- [[lobelia-cardinalis]]
 - [[platycodon-grandiflorus]]
-- [[campanula-pyramidalis]]
 - [[campanula-lactiflora]]

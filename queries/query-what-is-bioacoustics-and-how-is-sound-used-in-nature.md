@@ -14,14 +14,7 @@ sources:
 
 ## What Is Bioacoustics?
 
-Bioacoustics is the interdisciplinary [[roger-heim-scientific-study-psilocybin]] of sound production, dispersion, and reception in animals — including humans. The field sits at the intersection of biology, acoustics, ecology, and behavioral science. Researchers in bioacoustics investigate how animals generate sounds, how those sounds travel through different environments (air, water, soil), and how other organisms perceive and respond to them.
-
-The discipline encompasses everything from the anatomical structure of vocal organs to the ecological functions of acoustic signals and the evolutionary pressures that shape them. Founded as a formal discipline in the mid-20th century by scientists like Donald Griffin and Peter Marler, bioacoustics has expanded rapidly with advances in digital recording and computational analysis. Today, applications range from understanding animal behavior and evolution to developing conservation monitoring programs, informing noise-regulation policy, and even inspiring engineering solutions such as biomimetic sonar systems.
-
-Key areas of study within bioacoustics include:
-
-- **Sound production mechanisms:** Understanding the anatomical and physiological basis of sound generation across taxa, from the syrinx of songbirds to the tymbals of cicadas.
-- **Acoustic propagation:** Modeling how sound travels through different media — air, water, and solid substrates — and how [[duggar-mushroom-environmental-factors-temperature-moisture-light]] like temperature, humidity, and vegetation density affect transmission.
+Bioacoustics is the interdisciplinary [[duggar-mushroom-environmental-factors-temperature-moisture-light]] like temperature, humidity, and vegetation density affect transmission.
 - **Perception and neurobiology:** Investigating how auditory systems decode acoustic signals, including frequency discrimination, sound localization, and the neural processing of complex vocalizations.
 - **Behavioral ecology:** Studying the functional significance of acoustic signals in contexts such as mate attraction, predator avoidance, competition, and social coordination.
 - **Evolution and diversification:** Examining how acoustic signals diversify over time through processes such as sexual selection, character displacement, and adaptation to local acoustic environments.
@@ -68,8 +61,7 @@ Echolocation is the biological sonar system in which an animal emits sound pulse
 
 Insect acoustic communication is extraordinarily diverse and ecologically important, involving both airborne sound and substrate vibration:
 
-- **Crickets and katydids** produce calling songs by stridulation. The chirp rate of the snowy tree cricket (*Oecanthus fultoni*) is famously correlated with [[jadam-ambient-temperature-principle]] — Dolbear's Law states that the frequency in chirps per minute equals 40 plus four times the temperature in degrees Fahrenheit, providing a reliable natural thermometer.
-- **Cicadas** use tymbal organs to produce loud, sustained calls. Some species can reach intensities exceeding 100 dB at close range, making them among the loudest insects known. [[query-why-do-periodical-cicadas-emerge-in-13-and-17-year-cycles]] emerge in synchronized broods every 13 or 17 years, filling forests with deafening choruses that overwhelm predators through predator satiation.
+- **Crickets and katydids** produce calling songs by stridulation. The chirp rate of the snowy tree cricket (*Oecanthus fultoni*) is famously correlated with [[query-why-do-periodical-cicadas-emerge-in-13-and-17-year-cycles]] emerge in synchronized broods every 13 or 17 years, filling forests with deafening choruses that overwhelm predators through predator satiation.
 - **Mosquitoes** produce a characteristic flight-tone hum (400–600 Hz). Males and females adjust their wingbeat frequencies to harmonize during mating, and females of species like *Aedes aegypti* are attracted to frequencies matching male wingbeats — a fact exploited in acoustic mosquito traps.
 - **Ants** and other social insects use stridulation for communication within colonies, producing faint vibrations that serve as alarm signals or recruitment cues, often in combination with chemical pheromones.
 - Many insects also communicate through **substrate vibration**, transmitting signals through plant stems or soil, a channel less susceptible to wind noise and interception by predators. Treehoppers and leafhoppers are particularly adept at vibrational signaling, using plant stems as communication channels.
@@ -97,19 +89,11 @@ Ultrasound refers to sound above the upper limit of human hearing (roughly 20 kH
 
 ## How Is Bioacoustics Used in Conservation?
 
-Bioacoustic methods have become indispensable tools in modern [[mycelium-running-conservation-biology-and-fungi]], offering scalable, non-invasive approaches to monitoring biodiversity:
-
-- **Passive acoustic monitoring (PAM):** Autonomous recording units (ARUs) deployed in terrestrial and marine environments continuously capture soundscapes over weeks or months, enabling monitoring of vocal species without human presence and avoiding the observer effect.
-- **Biodiversity surveys:** Acoustic indices derived from recordings (e.g., acoustic complexity, acoustic entropy, bioacoustic index) allow researchers to estimate species richness and ecosystem health, providing cost-effective alternatives to traditional [[mycetozoan-survey-methods-substratum-plating]] that require skilled field observers.
+Bioacoustic methods have become indispensable tools in modern [[mycetozoan-survey-methods-substratum-plating]] that require skilled field observers.
 - The emerging field of **ecoacoustics** treats entire soundscapes as ecological indicators, analyzing the full spectrum of biological, geophysical, and anthropogenic sounds to assess ecosystem integrity and detect degradation before it becomes visible through traditional biodiversity metrics.
 - **Anti-poaching:** Real-time acoustic sensors detect gunshots, chainsaw activity, or vehicle engines in protected areas, alerting rangers to illegal activity within minutes. Systems like Rainforest Connection deploy recycled smartphones in forest canopies for this purpose.
 - **Marine mammal protection:** Hydrophone arrays and PAM buoys monitor whale and dolphin presence near shipping lanes and offshore energy developments, triggering speed reductions or operational shutdowns when animals are detected. These measures reduce the risk of vessel strikes and harmful noise exposure.
 - **query-how-do-i-identify-and-control-common-garden-pests-organically
 
-- [[query-what-are-the-best-fig-varieties-for-different-climates]]
-
-## See Also
-
 - [[query-what-is-a-wavelet-transform-used-for]]
-- [[query-what-is-mycelium-and-how-does-it-function-in-nature]]
 - [[query-what-is-the-difference-between-living-soil-and-hydroponic-growing]]

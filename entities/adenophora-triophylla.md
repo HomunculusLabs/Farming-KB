@@ -108,13 +108,8 @@ The roots penetrate moderately deep into subsoil layers, contributing to soil ae
 
 ## See Also
 
-- [[campanula-rotundifolia]]
 - [[platycodon-grandiflorus]]
-- [[codonopsis-pilosula]]
 - [[campanula-carpatica]]
-- [[campanula-persicifolia]]
 - [[campanula-lactiflora]]
-- [[lobelia-cardinalis]]
 - [[campanula-trachelium]]
-- [[campanula-medium]]
 - [[campanula-alliariifolia]]

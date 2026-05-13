@@ -27,10 +27,6 @@ species estimation.
 - Most are microscopic and inconspicuous
 - Many do not produce visible fruiting structures
 - Fruiting is often ephemeral and seasonal
-- [[fukuoka-natural-farming-in-tropical-regions]] are severely undercollected
-- Many species are known only from a single collection
-- Cryptic species (morphologically identical but genetically distinct) are
-  common
 - [[fungal-endemism-host-specificity]] patterns are poorly understood
 
 ## Methods of Estimation
@@ -44,12 +40,7 @@ The classic 1.5 million estimate was based on:
 
 **Assumptions:**
 - Fungal:host ratios are consistent across regions and habitats
-- Ratios from [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]] apply to tropics
-- All plant-associated niches are filled proportionally
-
-**Limitations:**
-- Ratios vary dramatically by region and habitat type
-- [[biodiversity-fungi-tropical-fungal-diversity]]:plant ratios likely much higher
+- Ratios from [[biodiversity-fungi-tropical-fungal-diversity]]:plant ratios likely much higher
 - Non-plant-associated fungi (soil, aquatic, animal-associated) not well
   captured
 
@@ -61,12 +52,9 @@ Using intensive local inventories:
   numbers of undescribed taxa
 
 ### DNA-Based Estimation Methods
-[[staycare-molecular-approaches-fungal-bioremediation]] have dramatically expanded our understanding of fungal
-diversity and provided new avenues for species estimation:
-
-- **Environmental [[environmental-dna-metabarcoding-fungi]]**: High-throughput sequencing of fungal
+[[environmental-dna-metabarcoding-fungi]]**: High-throughput sequencing of fungal
   ITS markers from environmental samples consistently reveals far more
-  [[undescribed-fungal-taxa]] than can be detected by traditional [[bloomfield-mushroom-formation-fruiting-body-development-cultivation]] surveys.
+  [[bloomfield-mushroom-formation-fruiting-body-development-cultivation]] surveys.
   Soil samples alone can contain hundreds of fungal operational taxonomic
   units in a single gram of soil, most of which do not correspond to
   described species.
@@ -74,15 +62,7 @@ diversity and provided new avenues for species estimation:
 - **Extrapolation from molecular data**: Studies comparing the proportion
   of sequences that match described species versus those that represent
   unknown taxa suggest that environmental samples contain 5 to 10 times
-  more [[arbuscular-mycorrhizal-fungal-diversity-patterns-distribution]] than currently catalogued. However, converting
-  sequence-based OTUs or ASVs to species-level estimates requires
-  assumptions about species delimitation thresholds and sampling
-  completeness.
-
-- **Intersection of morphological and molecular data**: Integrating
-  traditional specimen-based records with molecular survey data provides
-  more robust estimates than either approach alone. Studies that combine
-  both data streams consistently yield higher [[fungal-diversity-estimates]] than
+  more [[fungal-diversity-estimates]] than
   purely morphological approaches.
 
 ## Host-Specificity Based Estimates
@@ -118,8 +98,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[cryptic-species]]
 - [[det]]
-- [[lichens]]
 - [[mycology]]
 - [[mycorrhiza]]

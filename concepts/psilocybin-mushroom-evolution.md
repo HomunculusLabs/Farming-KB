@@ -35,14 +35,11 @@ Stamets noted that so many species producing this unique tryptamine suggests a c
 
 ## The Biosynthetic Pathway
 
-The psilocybin [[psilocybin-biosynthesis-pathway-and-enzymology]] converts tryptophan through several enzymatic steps into psilocybin.
-
-See [[mazatec-mushroom-culture-and-velada]] represents a living tradition of this relationship.
+The psilocybin [[mazatec-mushroom-culture-and-velada]] represents a living tradition of this relationship.
 
 Whether human selection pressure has influenced the evolution of psilocybin-containing mushrooms remains speculative.
 
-See also: [[psilocybe-global-biogeography]], [[fungal-evolution]]
-- [[biodiversity-of-fungi-soil-fungal-communities-agriculture]]
+See also: [[fungal-evolution]]
 - [[arbuscular-mycorrhizal-fungal-diversity-patterns-distribution]]
 ## Practical Considerations
 

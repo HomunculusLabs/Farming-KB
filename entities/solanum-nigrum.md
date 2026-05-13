@@ -24,7 +24,7 @@ Solanum nigrum, commonly known as black nightshade, is a widespread annual or sh
 
 Black nightshade produces small black berries that are consumed as food in many cultures when fully ripe, while unripe berries and green plant parts contain toxic glycoalkaloids. The plant also has a long history of use in traditional medicine systems across Asia, Africa, and Europe.
 
-Solanum nigrum is frequently confused with the more toxic deadly nightshade (Atropa belladonna), though the two belong to different genera and differ markedly in toxicity, growth habit, and berry morphology.
+Solanum nigrum is frequently confused with the more toxic deadly nightshade ([[atropa-belladonna]]), though the two belong to different genera and differ markedly in toxicity, growth habit, and berry morphology.
 
 ## Taxonomy and Morphology
 
@@ -36,29 +36,15 @@ Solanum nigrum is frequently confused with the more toxic deadly nightshade (Atr
 - **Genus:** Solanum
 - **Species:** Solanum nigrum L.
 
-The taxonomy of the Solanum nigrum complex remains contested. Several taxa previously treated as distinct species (including [[solanum-americanum]], Solanum villosum, and Solanum ptychanthum) are sometimes included within a broadly defined S. nigrum sensu lato.
-
-Recent molecular phylogenetic studies support recognizing S. nigrum as part of a species group rather than a single polymorphic species. The cultivated form used for edible berries in Asia is sometimes designated as Solanum nigrum var. guineense.
-
-### Morphology
-
-Solanum nigrum is an erect or decumbent herb reaching 30–100 cm in height. The stems are typically green to purplish-green, glabrous or sparingly pubescent.
-
-Leaves are ovate to broadly ovate, 4–10 cm long and 2–6 cm wide, with entire or shallowly toothed margins. Leaf surfaces are green above and paler beneath, with a smooth or minutely hairy texture.
-
-Inflorescences are umbel-like cymes bearing 4–10 white flowers, each 8–12 mm in diameter. The corolla is stellate with reflexed lobes and prominent yellow stamens.
-
-Fruits are globose berries 6–10 mm in diameter, initially green and turning dull black or purplish-black at maturity. Each berry contains numerous small yellowish seeds 1.5–2 mm long.
-
-The root system consists of a taproot with lateral branching. In favorable conditions, the root can reach depths of 30 cm, contributing to the plant's [[dighton-fungal-drought-tolerance-plant-water-relations]].
+The taxonomy of the Solanum nigrum complex remains contested. Several taxa previously treated as distinct species (including [[dighton-fungal-drought-tolerance-plant-water-relations]].
 
 ## Distribution and Habitat
 
-Solanum nigrum is native to Europe, Asia, and North Africa. It has been introduced and naturalized in the Americas, Australia, and many [[guzman-allen-gartz-neurotropic-fungi-hawaii-pacific-islands]], achieving a nearly [[guzman-allen-gartz-psilocybe-semilanceata-temperate-cosmopolitan-distribution]].
+Solanum nigrum is native to Europe, Asia, and North Africa. It has been introduced and naturalized in the Americas, Australia, and many [[guzman-allen-gartz-psilocybe-semilanceata-temperate-cosmopolitan-distribution]].
 
 The species thrives in disturbed habitats including agricultural fields, waste grounds, roadsides, forest edges, and riverbanks. It grows from sea level to approximately 2000 m elevation in tropical and temperate zones.
 
-Black nightshade demonstrates remarkable adaptability to diverse climatic conditions. It germinates throughout [[query-how-to-protect-plants-from-frost-and-extend-the-growing-season]] in [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]] and can behave as a perennial in frost-free environments.
+Black nightshade demonstrates remarkable adaptability to diverse climatic conditions. It germinates throughout [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]] and can behave as a perennial in frost-free environments.
 
 The plant is classified as an agricultural weed in many cropping systems but is also deliberately cultivated for its edible berries in parts of Africa, India, and China.
 
@@ -87,3 +73,78 @@ Unripe green berries and all green plant parts contain significant concentration
 Cases of human poisoning attributed to S. nigrum often involve misidentification with more toxic Solanaceae species. Proper identification and consumption of only fully ripe berries eliminates virtually all risk.
 
 Livestock poisoning occurs occasionally when animals graze on large quantities of green plant material. Sheep and cattle are the most commonly affected species, presenting with ataxia, salivation, and gastrointestinal distress.
+
+## Overview
+
+Solanum Nigrum represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish solanum nigrum
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving solanum extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Solanum Nigrum finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for solanum nigrum. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+solanum nigrum and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Solanum Nigrum has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of solanum nigrum into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and

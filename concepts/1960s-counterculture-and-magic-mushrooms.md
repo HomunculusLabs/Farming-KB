@@ -15,20 +15,7 @@ obscure ethnographic curiosity into a symbol of cultural rebellion. While LSD wa
 psychedelic sixties -- when Jimi Hendrix asked "Are you experienced?" he meant "Have you dropped Acid?" --
 magic mushrooms played a vital supporting role in the direction and development of the counterculture. As
 Letcher observes, the great swirling outpouring of fashion, art, and especially music that characterised the
-era all attempted in some way to reflect the [[leary-psychedelic-experience-bardo-mapping]]. "You didn't have to take the drug to
-pick up what would have been termed 'the vibes'," reminisced one writer. "The LSD culture spread far wider
-and faster than the drug itself."
-
-## Timothy Leary: From Harvard to Haight-Ashbury
-
-The story of mushrooms in the 1960s is inseparable from Timothy Leary. A married father,
-model tenured academic at Harvard, and brilliant clinical psychologist who had revolutionised personality
-testing, Leary was an unlikely candidate for the position of acid guru. In August 1960, on the recommendation
-of a colleague who had read Wasson's Life article, Leary travelled to the Mexican resort of Cuernavaca. There,
-an elderly Mexican woman willingly parted with a bundle of freshly picked mushrooms for just a few pesos.
-
-Whereas Wasson had tramped through the hinterlands in search of a primitive encounter with Sabina and her
-holy [[metzner-mazatec-mushroom-veladas-darkness-singing-and-christian-syncretism]], Leary, rather tellingly, took his mushrooms by the pool, with cold beers and dry
+era all attempted in some way to reflect the [[metzner-mazatec-mushroom-veladas-darkness-singing-and-christian-syncretism]], Leary, rather tellingly, took his mushrooms by the pool, with cold beers and dry
 martinis close at hand. He was joined by an indolent circle of academics -- and their bikini-clad wives -- who
 were moved to try anything to while away the long, hot summer days. Leary oscillated between having intense
 sensual encounters and the feeling that he was being dragged backwards through his own evolutionary history.
@@ -84,9 +71,7 @@ crime in America in 1966, and overnight many hundreds of research projects were 
 [Wasson's Life article had revealed [Maria Sabina's name and whereabouts, and the trickle of visitors to Oaxaca became a flood. Hippy culture arrived
 with a fundamentally different set of ideas from traditional indigenous practices. For hippies, mushrooms were
 "psychedelic" -- bound up with notions of authenticity, freedom, individualism, bohemianism, and rebellion.
-Used to seeing [[wasson-rediscovery-of-psilocybin]]
-- [[three-pillars-mushroom-cultivation-spawn-substrate-environment]]
-- [[three-pillars-mushroom-cultivation-spawn-substrate-environment]]
+Used to seeing [[three-pillars-mushroom-cultivation-spawn-substrate-environment]]
 - [[psilocybin-mushroom-dissemination-1950s-1970s]]
 
 ## Practical Applications
@@ -96,36 +81,8 @@ Used to seeing [[wasson-rediscovery-of-psilocybin]]
 The development and understanding of 1960s counterculture and magic mushrooms has evolved considerably over recent decades, with contributions from researchers, practitioners, and indigenous knowledge systems worldwide.
 
 ## See Also
-- [[guzman-magic-mushrooms-neotropical-species]]
 - [[magic-mushrooms-british-underground]]
-- [[guzman-magic-mushrooms-global-biogeography]]
 - [[guzman-magic-mushrooms-pacific-australian-species]]
-- [[shirota-japan-narcotics-regulation-magic-mushrooms-2002]]
-
-## Key Considerations
-
-Several important factors influence the effectiveness and outcomes described
-in this topic. Understanding these considerations helps practitioners make
-informed decisions and avoid common pitfalls. Environmental conditions,
-timing, and material selection all play critical roles.
-
-## Historical Context
-
-The historical development of this subject reflects centuries of accumulated
-knowledge and practical experience. From traditional methods passed down
-through generations to modern scientific approaches, the evolution continues
-to inform current best practices and research directions.
-
-## Common Challenges
-
-Practitioners frequently encounter several challenges when working with
-these concepts. Climate variability, resource limitations, and knowledge
-gaps can all affect outcomes. Addressing these challenges requires patience,
-observation, and a willingness to adapt approaches based on results.
-
-## See Also
 - [[psilocybin]]
-- [[aldous-huxley]]
 - [[dom]]
-- [[det]]
 - [[maria-sabina]]

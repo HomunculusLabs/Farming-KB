@@ -61,8 +61,7 @@ species. One mycologist suggests that the total figure might reach
 200,000. Almost all antibiotics in wide use are derived from fungi.
 Hallucinogenic compounds may be widespread in the fungi, but those
 that have been of importance in human affairs belong to the
-ascomycetes ([[schultes-psilocybe-little-flowers-gods]] and
-[[schultes-ayahuasca-magic-drink-amazon]].
+ascomycetes ([[schultes-ayahuasca-magic-drink-amazon]].
 
 ### Spermatophytes
 
@@ -88,3 +87,11 @@ the Plant Kingdom represents an only partially studied emporium of
 biodynamic principles.
 
 ## Key Plant Families with Hallucinogenic Species
+
+## See Also
+
+- [[water-use-efficiency-plants]]
+- [[us-native-hallucinogenic-dissociative-plants]]
+- [[query-how-to-make-lactobacillus-serum-for-plants]]
+- [[permaculture-plants-ground-covers-living-mulches]]
+- [[query-best-native-nitrogen-fixing-plants-for-permaculture-food-forests]]

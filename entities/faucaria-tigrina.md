@@ -49,42 +49,89 @@ The species hybridizes readily with other *Faucaria* species in cultivation, pro
 - Leaf color: Dark green to gray-green, often with white spotted markings
 - Teeth: 3–9 soft white teeth per leaf margin, recurved
 - Flower: Solitary, daisy-like, golden yellow, 4–6 cm diameter
-- Bloom time: Autumn to early winter (March–June in [[guzman-allen-gartz-africa-southern-hemisphere-underexplored-neurotropic-fungi]])
-- Fruit: Capsule with 5–6 locules, opening when wetted
-
-The [[aact-foliar-sticker-spreaders-leaf-surface-attachment-ingham]] is covered in tiny, white, dot-like idioblasts that give some forms a speckled appearance. These cells contain [[fungal-calcium-oxalate-crystals]] and may serve as a deterrent to insect herbivory.
-
-## Distribution and Habitat
-
-Faucaria tigrina is endemic to the Eastern Cape province of South Africa, with a restricted range centered on the Grahamstown and Port Elizabeth districts. It is one of the more range-restricted species in the genus.
-
-The species grows in shallow soil pockets on quartzite outcrops and in the partial shade of shrubs in valley bushveld vegetation. Elevations range from 200 to 800 m. The habitat receives year-round rainfall averaging 400–600 mm, with slight peaks in spring and autumn.
-
-Unlike many Aizoaceae that are winter-growing, Faucaria tigrina can grow during both spring and autumn when moisture is available. It enters a semi-dormant state during the hottest summer months and the coldest winter weeks.
-
-The quartzite rocks in its habitat reflect intense sunlight and create a microclimate with moderated temperatures. Plants often grow in moss-filled crevices that retain moisture longer than surrounding exposed soil.
-
-Associated species in the habitat include other mesembs such as *Glottiphyllum*, *Stomatium*, and *Delosperma*, as well as various Euphorbia species and bulbous plants. The plant community is adapted to periodic drought and moderate year-round temperatures influenced by proximity to the Indian Ocean.
-
-## Cultivation
-
-Faucaria tigrina is one of the easier mesembs to grow, making it a good entry point for collectors interested in Aizoaceae.
-
-**Growing requirements:**
-- Light: Bright indirect light to morning sun; avoid intense afternoon sun
-- Water: Moderate during active growth; reduce in summer and winter
-- Soil: Well-draining mineral mix with some organic content
-- Temperature: Hardy to approximately −2 °C briefly; best above 5 °C
-- Propagation: Seeds or division of clumps
-
-The species tolerates more water than many mesembs and does not require the strict summer-dry dormancy of *Conophytum* or *Lithops*. However, overwatering during hot weather causes rapid rot. Water only when the leaves begin to feel slightly soft.
-
-Plants respond well to regular feeding with a diluted balanced fertilizer during active growth. Mature clumps benefit from occasional repotting to refresh the soil mix. The roots are relatively fine and shallow compared to other succulents.
-
-Flowering is reliable in cultivation when plants receive adequate light and a rest period. Each rosette produces one flower per season. Large, multi-headed clumps create a striking floral display.
-
-[[cannabis-sativa-indoor-cultivation-techniques]] requires a sunny windowsill with at least 4 hours of direct light. Etiolated growth with widely spaced leaf pairs indicates insufficient light. Rotating the pot weekly ensures even growth and prevents one-sided development.
+- Bloom time: Autumn to early winter (March–June in [[aact-foliar-sticker-spreaders-leaf-surface-attachment-ingham]] is covered in tiny, white, dot-like idioblasts that give some forms a speckled appearance. These cells contain [[cannabis-sativa-indoor-cultivation-techniques]] requires a sunny windowsill with at least 4 hours of direct light. Etiolated growth with widely spaced leaf pairs indicates insufficient light. Rotating the pot weekly ensures even growth and prevents one-sided development.
 
 ## Ecological Role
 
 In its native Eastern Cape habitat, Faucaria tigrina is a component of the valley bushveld (now termed Albany thicket) plant community. The low-growing succulent occupies microsites between larger shrubs.
+
+## Overview
+
+Faucaria Tigrina represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish faucaria tigrina
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving faucaria extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Faucaria Tigrina finds practical application in multiple design contexts.
+[[permaculture-principles]] guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for faucaria tigrina. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+faucaria tigrina and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Faucaria Tigrina has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of faucaria tigrina into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[faucaria-tuberculosa]]

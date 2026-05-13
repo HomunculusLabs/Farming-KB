@@ -11,7 +11,7 @@ sources: [raw/papers/julius-auboineau-palmer-about-mushrooms.md]
 
 Updated: 2026-04-18
 
-Source: Julius A. Palmer, Jr., *About Mushrooms* (1894). Chapters on [[allegro-the-sacred-mushroom-amanita-identification]], [[palmer-toadstool-poisoning-cases]], and antidote discovery.
+Source: Julius A. Palmer, Jr., *About Mushrooms* (1894). Chapters on [[palmer-toadstool-poisoning-cases]], and antidote discovery.
 
 ## The Amanita Family — The Only Deadly Mushroom Group
 
@@ -23,21 +23,7 @@ Palmer identified three consistent features that distinguish the Amanita from al
 
 1. **The Volva** — A white wrapper or cup at the base of the stem, often partially or wholly buried in soil. This is the remnant of the universal veil that enclosed the young mushroom. It may appear as a loose sac, a scaly ring around the stem base, or concentric rings of tissue.
 
-2. **The Ring (Annulus)** — A membranous ring or skirt around the stem, typically located about two-thirds up from the base. This is the remnant of the [[partial-veil-tropism-protection-before-spore-release]] that protected the gills during development.
-
-3. **The Cap (Pileus)** — Scurfy, warty, or friable surface texture. The cap of the deadly Amanita is NOT smooth and shiny like many edible species.
-
-**Additional features**: White gills and white stem. Cap colors vary from pure white to drab, golden, red, or greenish. The most common deadly species has a yellow center shading to white.
-
-The key principle: if ALL THREE marks are present, the specimen is an Amanita and potentially deadly. No other mushroom family has this combination of features.
-
-## The Mushroom vs Toadstool Myth
-
-Palmer emphatically rejected the popular distinction between "mushrooms" and "toadstools":
-
-"Every mushroom is a toadstool and every toadstool is a mushroom, exactly as every plant is a vegetable and every vegetable growth is a plant."
-
-The only reason one cultivated variety (*[[agaricus-campestris]]*) is called a "mushroom" while all others are called "toadstools" is that this single variety has a world-wide reputation and commercial value. There is no reliable folk test to distinguish edible from poisonous species.
+2. **The Ring (Annulus)** — A membranous ring or skirt around the stem, typically located about two-thirds up from the base. This is the remnant of the [[agaricus-campestris]]*) is called a "mushroom" while all others are called "toadstools" is that this single variety has a world-wide reputation and commercial value. There is no reliable folk test to distinguish edible from poisonous species.
 
 ### Worthless Folk Tests
 Palmer debunked all common folk tests for edibility:
@@ -82,9 +68,8 @@ Dr. Ott's frog experiments demonstrated that muscarine stops the heart in diasto
 
 ### Solanaceous Plant Connection
 Palmer recognized that all effective antidotes come from the Solanaceae (nightshade) family:
-- **Atropine** — from *[[belladonna-atropa-belladonna-ethnobotany]]* ([[plants-of-the-gods-atropa-belladonna-deadly-nightshade]])
-- **Daturine** — from *[[datura-stramonium]]* (jimsonweed)
-- **Hyoscyamine** — from *[[henbane-hyoscyamus-niger-ethnobotany]]* (henbane)
+- **Atropine** — from *[[plants-of-the-gods-atropa-belladonna-deadly-nightshade]])
+- **Daturine** — from *[[henbane-hyoscyamus-niger-ethnobotany]]* (henbane)
 - **Stramonium** — from *Datura stramonium*
 
 ### The Farris Family Case (Shenandoah, Pennsylvania, 1885)
@@ -118,8 +103,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[amanita]]
 - [[doc]]
-- [[hyoscyamine]]
 - [[dom]]
 - [[acacia]]

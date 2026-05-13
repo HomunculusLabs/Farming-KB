@@ -49,20 +49,7 @@ nutrients faster but are more expensive to produce.
 
 - **Basalt dust**: The most widely used agricultural rock dust. Fine-grained mafic rock rich in
   calcium, magnesium, iron, silica, and trace elements. Basalt is relatively reactive due to its
-  glassy groundmass and fine-grained texture. Typical [[ingham-compost-tea-application-rates-and-timing]]: 2–10 tonnes/hectare.
-- **Granite dust**: Coarser-grained felsic rock. Higher in silica, potassium, and aluminum but
-  lower in calcium and magnesium than basalt. Slower to weather. Useful in potassium-deficient
-  soils but less reactive than mafic dusts.
-- **Volcanic ash (tuff/pozzolana)**: Historically responsible for some of the world's most
-  fertile soils (Andisols). Rich in amorphous aluminosilicates with high surface area and reactivity.
-  Contains a broad spectrum of plant-available nutrients.
-
-#### Sedimentary Rock Dusts
-
-- **Glacial rock dust (glacial moraine)**: A mixed lithology of rocks ground by glaciers, offering
-  an exceptionally broad mineral spectrum. The geological equivalent of "whole-food" mineral
-  supplementation. Variable composition depending on the source geology.
-- **Limestone and dolomite**: Primarily calcium carbonate (limestone) or [[calcium-magnesium-secondary-nutrients]] carbonate
+  glassy groundmass and fine-grained texture. Typical [[calcium-magnesium-secondary-nutrients]] carbonate
   (dolomite). Mainly used for pH amendment but also supply calcium and magnesium. Not considered
   "rock dust" in the remineralization sense since their primary function is liming.
 - **Phosphate rock (soft rock phosphate)**: Sedimentary or igneous deposits of apatite. Slow-release
@@ -112,36 +99,12 @@ nutrients in unfertilized ecosystems.
    CaAl₂Si₂O₈ + 2H₂O + CO₂ → Al₂Si₂O₅(OH)₄ + Ca²⁺ + HCO₃⁻
    ```
    This reaction releases calcium and consumes atmospheric CO₂ — a process central to the
-   geological carbon cycle and the basis of enhanced weathering for [[mycorrhizal-fungi-soil-carbon-sequestration-by-type]].
-
-2. **Carbonation**: Dissolved CO₂ forms carbonic acid (H₂CO₃), which reacts with minerals to
-   release cations and bicarbonate. This is particularly important for carbonate and
-   calcium-bearing silicate minerals.
-
-3. **Oxidation-reduction**: Iron-bearing minerals undergo redox reactions that alter their
-   structure and solubility. The oxidation of pyrite (FeS₂) in basaltic rock dust releases iron
-   and sulfur but can also generate acidity — a concern with sulfide-rich rock dusts.
-
-4. **Dissolution**: Simple dissolution of readily soluble minerals (e.g., carbonates, some
-   sulfates). This is why gypsum and langbeinite act quickly while silicate rock dusts are slow.
-
-### Biological Weathering Enhancement
-
-Abiotic weathering alone is too slow to supply significant nutrients within a [[savory-growing-season-and-non-growing-season-management]].
+   geological carbon cycle and the basis of enhanced weathering for [[savory-growing-season-and-non-growing-season-management]].
 Soil organisms dramatically accelerate the process through several mechanisms:
 
-- **[[fungal-organic-acid-metal-solubilization]] exudation**: Plant roots and [[soil-microorganisms-natural-fertility]] secrete low-molecular-weight
+- **[[soil-microorganisms-natural-fertility]] secrete low-molecular-weight
   organic acids (citric, oxalic, malic, acetic) that chelate mineral cations and protonate
-  mineral surfaces, accelerating dissolution. [[mycorrhizal-fungi]] are particularly effective
-  at this — a single ectomycorrhizal root tip can exude enough oxalate to dissolve measurable
-  quantities of mineral grains.
-
-- **Proton pumping**: Plant roots actively export protons (H⁺) into the rhizosphere in exchange
-  for cation uptake, acidifying the zone immediately around roots and promoting mineral dissolution.
-  Legumes and other N₂-fixing plants are especially effective proton pumps due to their high
-  cation demand.
-
-- **[[singh-fungal-siderophore-production-iron-acquisition]]**: Bacteria and fungi produce siderophores — high-affinity iron-chelating
+  mineral surfaces, accelerating dissolution. [[singh-fungal-siderophore-production-iron-acquisition]]**: Bacteria and fungi produce siderophores — high-affinity iron-chelating
   compounds — that extract iron from mineral surfaces. This iron is then made available to plants
   and other soil organisms through various transfer mechanisms.
 

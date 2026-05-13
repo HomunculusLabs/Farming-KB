@@ -8,77 +8,10 @@ type: concept
 
 ## Earthworms: Nature's Plough
 
-[[earthworms]] have played a more important role in the history of the world than most people would at first suppose. Charles Darwin, in his 1881 work *The Formation of Vegetable Mould Through the Action of Worms*, documented that in many parts of England, more than ten tons of dry earth annually passes through earthworm bodies per acre of land. The entire superficial bed of vegetable mould passes through their bodies in the course of every few years. Darwin concluded that "the plough is one of the most ancient and most valuable of man's inventions, but long before he existed the land was in fact regularly ploughed, and still continues to be thus ploughed by earthworms."
-
-### Functions of Earthworms in Soil
-
-Earthworms serve multiple critical functions in healthy soil ecosystems:
-
-- **Nutrient recycling**: They rapidly and efficiently recycle manure and leaves into the soil, converting plant wastes into accessible plant nutrients.
-- **Soil structure**: They keep soil structure open, creating tunnels that improve aeration and water infiltration.
-- **Aeration**: Sliding in their tunnels, they act as an innumerable army of pistons, pumping air in and out of soils on a 24-hour cycle (more rapidly at night).
-- **Protein production**: Earthworms have a dry-weight protein content of 55-71%, built up from inedible plant wastes. They can be used as a livestock feed additive for fish, poultry, and pigs.
-
-### Earthworms as Bioindicators
-
-Worms can accumulate pollutants to extraordinarily high levels — DDT, lead, cadmium, and dioxins may reach 14-20 times higher levels in worms than in surrounding soil. When eaten in quantity by blackbirds, moles, or small hawks, the worms may become lethal to these predators. This means that the presence of birds, reptiles, worms, and other vertebrate life in a garden is a reliable indicator of soil health. Farms where neither birds nor worms exist should be treated with suspicion, as their products may be dangerous to all life forms.
-
-## Difficult Soils: Concretions and Pans
-
-Several types of concretion or cemented soil layers occur in nature, each requiring specific management approaches:
-
-### Calcrete (Caliche, Platin, Kunkar)
-
 [[calcrete-caliche]] is a hard, mainly level subsurface concretion about 0.5-1.0 m below a granular or sandy topsoil. It is typical of coral islands (calcium triphosphate) and the downwind areas of desert borders. Key characteristics and management:
 
 - Must be broken open to plant trees; otherwise roots spread laterally and are vulnerable to wind-throw.
-- On atolls, fresh-water deposits develop below the [[calcrete]].
-- Broken caliche can be used as a building material and forms a safe roof for tunnels or dugouts.
-- Calcium/magnesium concretion is worsened by the addition of superphosphate and appears whitish to creamy.
-- In acid (vinegar), calcrete releases bubbles of carbon dioxide.
-
-### Silcrete (Cangagua)
-
-Silcrete is a grey to red shiny hard layer developed below some tropical forest soils, giving a glassy surface if forests are cleared. The soil is concreted by silica deposits. If such deposits lie below forests, it is unwise to clear the forest. Where cangagua is known to exist, perpetual forests used for products other than wood (honey, fruits, medicines) are the only sustainable land use.
-
-### Ferricrete
-
-Ferricrete refers to iron-cemented pans and soil layers of varying thickness, sometimes as thin sandy layers of 5-10 mm. It also includes:
-
-- Alumina-iron laterites (often capping desert hills with veins of silcrete)
-- Iron-manganese nodular horizons in soils
-- Ironstone and plinthite
-- Ortstein in podzols (iron-organic hard B horizons)
-- Coffeerock (thick sandy coffee-coloured horizon, rich in iron, common in humic podzols)
-- Duricrusts forming hard silica-iron caps on hills in deserts
-
-### Plough Pans
-
-Plough pans are usually clay-based compacted layers developed below croplands in wet periods, often caused by mouldboard ploughs. These restrict root penetration and water movement.
-
-### Remedies for Concreted Soil Layers
-
-All concreted soil layers need one or more of the following treatments:
-
-- **Ripping**: Mechanical breaking of the hardpan.
-- **Explosive shattering**: For extremely hard or deep layers.
-- **Deep mulch pits**: Establishing trees in pits filled with organic matter.
-- **Deep-rooted trees**: Their roots can gradually break through pans over time.
-- **Sodium reduction**: For solcrete (sodium-collapsed cemented pans), reduce salt and add humus.
-- **Deep drainage**: Essential for salted soils, requiring 1-2 m of drainage depth.
-
-## Non-Wetting Sands and Clays
-
-Some classes of very fine blackish sands, and sands invaded by hydrophobic soil fungi, are difficult to wet — water sits on top as droplets rather than infiltrating. Several remedies exist:
-
-### For Non-Wetting Sands
-
-1. Ridge soil to make basins.
-2. Core out sand every square metre and drop in a loam or clay-loam plug (4-10 cm by 30 cm deep).
-3. Compost thoroughly and build up organic material to 8% of surface soil.
-4. Add a handful of bentonite per square metre, or powdered clay from clay pans.
-5. Mulch thoroughly and plant.
-6. On a broad scale, deep ploughing in autumn (to 45 cm) followed by rotary plough or chopper, mixing the top non-wetting profile of 10-20 cm with subsoils, then immediately sowing a [[cover-crop]].
+- On atolls, fresh-water deposits develop below the [[cover-crop]].
 
 ### For Sealing Clays
 
@@ -97,3 +30,88 @@ For deep cracking clays and lumpy soils, add a sand layer, scatter gypsum at a h
 - Concreted soil layers must be physically broken for tree establishment.
 - Non-wetting soils can be remedied through clay addition, composting, and mulching.
 - Perennial vegetation is the most sustainable approach for areas with hardpans or difficult subsoils.
+
+## Overview
+
+Earthworms And Difficult Soils represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish earthworms and difficult soils
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving earthworms extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Earthworms And Difficult Soils finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for earthworms and difficult soils. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+earthworms and difficult soils and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Earthworms And Difficult Soils has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of earthworms and difficult soils into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[earthworms]]
+- [[earthworms-in-soil-health]]
+- [[earthworms-soil]]
+- [[lowenfels-earthworms-soil-food-web]]
+- [[query-what-is-the-role-of-earthworms-in-soil-health]]

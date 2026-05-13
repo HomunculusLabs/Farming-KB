@@ -19,26 +19,7 @@ sources:
 
 ## Overview
 
-**Pinguicula macroceras**, commonly known as the **California butterwort** or **large-spurred butterwort**, is a carnivorous perennial plant in the family Lentibulariaceae. It is native to western [[psilocybin-north-america-pacific-northwest]], ranging from Alaska through the Pacific Northwest to northern California.
-
-The species produces a basal rosette of sticky, glandular leaves that capture small insects. It is one of the most cold-hardy butterworts, capable of surviving prolonged sub-zero temperatures by retreating to a compact winter bud (hibernaculum).
-
-P. macroceras has a complex taxonomic history and has frequently been treated as conspecific with the European P. vulgaris. Modern studies recognize it as a distinct species endemic to North America, though the two taxa are closely related and morphologically similar.
-
-## Taxonomy and Morphology
-
-### Taxonomy
-
-- **Kingdom:** Plantae
-- **Order:** Lamiales
-- **Family:** Lentibulariaceae
-- **Genus:** *Pinguicula*
-- **Species:** *P. macroceras*
-- **Authority:** Link (1820)
-
-The species epithet *macroceras* derives from Greek *makros* (large) and *keras* (horn), referring to the prominent spur of the flower. It was long treated as a variety or subspecies of P. vulgaris before molecular and morphological studies supported species-level recognition.
-
-Molecular phylogenetic analyses place P. macroceras in the section *Pinguicula*, closely allied with P. vulgaris sensu stricto (Eurasian populations) and P. alpina. The [[growing-gourmet-north-american-reishi-species]] and Eurasian lineages likely diverged during the Pliocene or early Pleistocene.
+**Pinguicula macroceras**, commonly known as the **California butterwort** or **large-spurred butterwort**, is a carnivorous perennial plant in the family Lentibulariaceae. It is native to western [[growing-gourmet-north-american-reishi-species]] and Eurasian lineages likely diverged during the Pliocene or early Pleistocene.
 
 Chromosomal studies show a diploid count of 2n = 32 for P. macroceras, consistent with other members of the section. Polyploid populations have not been documented, in contrast to the variable ploidy levels seen in some Eurasian Pinguicula species.
 
@@ -46,7 +27,7 @@ Chromosomal studies show a diploid count of 2n = 32 for P. macroceras, consisten
 
 The plant forms a flat rosette of 5–12 succulent leaves, each 3–8 cm long and 1–3 cm wide. Leaves are oblong-spatulate to elliptic, pale green to yellow-green, with margins that curl slightly inward. The upper surface is covered in two types of glandular trichomes.
 
-Stalked mucilage glands produce the sticky droplets that trap insects, while sessile glands on the [[bloomfield-rust-germ-tube-tactile-sensing-leaf-surface-navigation]] secrete digestive enzymes. The lower leaf surface is hairless. Leaves are produced continuously during the [[savory-growing-season-and-non-growing-season-management]], with older leaves dying from the base.
+Stalked mucilage glands produce the sticky droplets that trap insects, while sessile glands on the [[savory-growing-season-and-non-growing-season-management]], with older leaves dying from the base.
 
 The winter hibernaculum is a compact bud of tightly overlapping scale-like leaves, 8–15 mm in diameter. This structure protects the growing point during freezing conditions and desiccation. The hibernaculum forms in autumn and breaks dormancy in early spring.
 
@@ -87,3 +68,82 @@ Ants and larger insects occasionally become trapped but are not effectively dige
 P. macroceras is one of the easier temperate butterworts to cultivate, as it tolerates a wider [[query-what-is-the-ideal-temperature-range-for-growing-cannabis]] than many alpine species. A peat-sand-vermiculite mix (1:1:1) kept consistently moist works well.
 
 The species requires a distinct cold dormancy period of 3–4 months. Winter temperatures of 0–10°C trigger hibernaculum formation. Without this chilling period, plants may weaken over successive growing seasons and eventually decline.
+
+## Overview
+
+Pinguicula Macroceras represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish pinguicula macroceras
+from related concepts in [[permaculture]] and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving pinguicula extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Pinguicula Macroceras finds practical application in multiple design contexts.
+[[permaculture-principles]] guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for pinguicula macroceras. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+pinguicula macroceras and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Pinguicula Macroceras has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of pinguicula macroceras into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also

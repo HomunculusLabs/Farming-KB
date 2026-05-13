@@ -9,70 +9,17 @@ sources:
 ---
 # Cannabis and Inflammatory Bowel Disease (IBD/IBS)
 
-**Source:** Uwe Blesching, The [[blesching-cannabis-health-index-autoimmune-conditions]]
-**Last Updated:** 2026-04-19
-
-## Overview
-
-Inflammatory Bowel Disease encompasses both IBS (syndrome) and IBD (disease including Crohn's disease and ulcerative colitis). The endocannabinoid system is widely distributed throughout the gut with regional variation and organ-specific actions, regulating food intake, nausea, gastric secretion, GI motility, ion transport, visceral sensation, intestinal inflammation, and cell proliferation.
-
-## CHI Value: 8
-
-**Total Number of Studies Reviewed: 3**
-
-## IBS Classifications
-
-- **IBS-D**: diarrhea-predominant
-
-- **IBS-C**: constipation-predominant
-
-- **IBS-A**: alternating diarrhea/constipation
-
-- **IBS-PI**: post-infectious
-
-- **Ulcerative colitis**: form of IBD affecting colon with ulcers
-
-- **Crohn's disease**: autoimmune disorder affecting the GI tract
-
-## Key Research Findings
-
-1. **CBD reduces hypermotility** (2008, University of Naples, Italy): CBD reduced hypermotility in mice, suggesting CBD normalizes motility in inflammatory bowel disease. CHI=2
-
-2. **FAAH blocker reduces colitis** (2008, University of Calgary, Canada): EC [[plant-cell-membrane-transport-proteins-channels-carriers-and-pumps]] inhibitor VDM11 enhanced endocannabinoid system action; cannabinoids reduced colitis. Scientists concluded drugs targeting EC degradation offer therapeutic potential for IBD. CHI=3
+**Source:** Uwe Blesching, The [[plant-cell-membrane-transport-proteins-channels-carriers-and-pumps]] inhibitor VDM11 enhanced endocannabinoid system action; cannabinoids reduced colitis. Scientists concluded drugs targeting EC degradation offer therapeutic potential for IBD. CHI=3
 
 3. **Cannabinoids reduce inflammation** (2006, Northeastern University, Boston): Novel molecules acting through the ECS showed therapeutic potential on inflammatory diseases including IBD. CHI=3
 
 ## Mechanisms of Action
 
-The [[cannabis-minor-cannabinoids]] like CBG may provide additional benefits, as CBG has shown significant anti-inflammatory effects in gut tissue models. The [[cannabis-edibles-guide]] recommendations should be followed, noting the delayed onset of oral products (30–120 minutes)
+The [[cannabis-edibles-guide]] recommendations should be followed, noting the delayed onset of oral products (30–120 minutes)
 - Vaporization may provide rapid relief for acute symptom flares
-- [[cannabis-drug-interactions-and-contraindications]] with medications commonly prescribed for IBS/IBD, including immunosuppressants and antispasmodics
+- [[query-how-to-get-rid-of-slugs-and-snails-organically]] of something or somebody" — desire to be done with a situation
 
-## Conventional Management
-
-Meta-analysis (2008) of RCTs on Medline, Embase, and Cochrane register found **fiber, antispasmodics, and peppermint oil** showed greater effectiveness than placebo for IBS.
-
-Additional conventional approaches include low-FODMAP diets, cognitive behavioral therapy, and prescription medications such as antidiarrheals (loperamide), laxatives (for IBS-C), tricyclic antidepressants, and selective serotonin reuptake inhibitors.
-
-## Mind-Body Connections
-
-- Psychiatric disorders occur in **up to 94% of IBS patients** (major depression, anxiety, somatoform disorders)
-
-- IBS-C associated with "holding on without change" — grim determination despite unsolvable problems
-
-- IBS-D associated with wanting to "[[query-how-to-get-rid-of-slugs-and-snails-organically]] of something or somebody" — desire to be done with a situation
-
-- Nausea/vomiting linked to preoccupation with [[holzer-past-mistakes-modern-agriculture]] and wishing to "undo" something
-
-The gut-brain axis is increasingly recognized as central to IBS pathophysiology. Stress activates the hypothalamic-pituitary-adrenal axis, which directly affects gut function through neural, hormonal, and immune pathways. Cannabis may modulate the gut-brain axis through both central nervous system effects and peripheral receptor activation.
-
-## Supporting Foods
-
-- **Acacia**: improves stool consistency, reduces fecal incontinence
-
-- **Turmeric/curcumin**: meta-study shows promise for adenomatous polyposis, IBD, and ulcerative colitis; double-blind RCT showed curcumin safe for maintaining remission from UC
-
-- **(E)-beta-Caryophyllene**: FDA-approved dietary cannabinoid activating CB2 with potent anti-inflammatory action; found in [[comparison-black-pepper-vs-cardamom-tropical-spice-cultivation]], basil, cinnamon, rosemary, oregano, clove
+- Nausea/vomiting linked to preoccupation with [[comparison-black-pepper-vs-cardamom-tropical-spice-cultivation]], basil, cinnamon, rosemary, oregano, clove
 
 - **Peppermint oil**: Natural antispasmodic with evidence for IBS symptom relief
 
@@ -80,41 +27,92 @@ The gut-brain axis is increasingly recognized as central to IBS pathophysiology.
 
 ## Related Pages
 
-- [[cannabis-endocannabinoid-system]]
 - [[cannabis-for-mental-health]]
-- [[cannabis-for-nausea-and-appetite-stimulation]]
+- [[doc]]
+- [[dom]]
+- [[det]]
+
+## Overview
+
+Cannabis And Ibs Research represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish cannabis and ibs research
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving cannabis extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
 
 ## Practical Applications
 
-The principles and techniques discussed here have wide-ranging applications
-across multiple disciplines and contexts. Practitioners and researchers
-continue to explore new ways to integrate these concepts into modern practice,
-adapting traditional knowledge to contemporary challenges and opportunities.
+Cannabis And Ibs Research finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
 
-## Key Considerations
+## Management and Implementation
 
-Several important factors influence the effectiveness and outcomes described
-in this topic. Understanding these considerations helps practitioners make
-informed decisions and avoid common pitfalls. Environmental conditions,
-timing, and material selection all play critical roles.
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for cannabis and ibs research. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+cannabis and ibs research and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
 
 ## Historical Context
 
-The historical development of this subject reflects centuries of accumulated
-knowledge and practical experience. From traditional methods passed down
-through generations to modern scientific approaches, the evolution continues
-to inform current best practices and research directions.
+Cannabis And Ibs Research has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
 
-## Common Challenges
+## Integration Strategies
 
-Practitioners frequently encounter several challenges when working with
-these concepts. Climate variability, resource limitations, and knowledge
-gaps can all affect outcomes. Addressing these challenges requires patience,
-observation, and a willingness to adapt approaches based on results.
+Successful integration of cannabis and ibs research into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
 
 ## See Also
-- [[doc]]
-- [[uwe-blesching]]
-- [[dom]]
-- [[acacia]]
-- [[det]]
+
+- [[blesching-cannabis-antiemetic-vomiting]]
+- [[blesching-cannabis-skin-diseases]]
+- [[cannabis-for-parkinsons-disease]]
+- [[cannabis-rhizosphere-bulk-soil-microbial-comparison]]
+- [[sphingomonas-wittichii-cannabis-microbiome]]

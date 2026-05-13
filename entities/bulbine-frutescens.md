@@ -18,11 +18,7 @@ sources:
 
 ## Overview
 
-**Bulbine frutescens** (syn. *Bulbine caulescens*), commonly known as **stalked bulbine**, **burn jelly plant**, or **cat's tail**, is a spreading succulent perennial in the family Asphodelaceae. Native to southern Africa, it is cultivated worldwide for its [[panax-ginseng]] and ornamental yellow or orange flower spikes.
-
-The plant forms clumps of fleshy, cylindrical leaves 15–30 cm long, arising from a woody base. Tall, unbranched racemes of star-shaped flowers bloom almost continuously in warm climates.
-
-The clear gel inside the leaves is widely used in [[kanna-sceletium-south-african-narcotic]] traditional medicine for treating burns, wounds, and skin conditions. It is often compared to aloe vera gel, though the two plants are not closely related within Asphodelaceae.
+**Bulbine frutescens** (syn. *Bulbine caulescens*), commonly known as **stalked bulbine**, **burn jelly plant**, or **cat's tail**, is a spreading succulent perennial in the family Asphodelaceae. Native to southern Africa, it is cultivated worldwide for its [[kanna-sceletium-south-african-narcotic]] traditional medicine for treating burns, wounds, and skin conditions. It is often compared to [[aloe-vera]] gel, though the two plants are not closely related within Asphodelaceae.
 
 Unlike many succulents, *Bulbine frutescens* tolerates regular watering and partial shade. This adaptability makes it useful in mixed borders and cottage gardens, not just xeriscapes.
 
@@ -60,19 +56,7 @@ Plants are frequently found in disturbed areas and road cuttings where they colo
 
 Altitudinal range extends from near sea level to approximately 1,800 m in the Drakensberg foothills.
 
-The species is not considered threatened. Its broad ecological tolerance and ability to colonize disturbed sites contribute to a stable [[fungal-biodiversity-conservation-status]].
-
-It has naturalized in parts of Mediterranean Europe, California, and Australia. In most regions it is not considered invasive due to its limited competitive ability.
-
-## Cultivation
-
-Stalked bulbine is exceptionally easy to grow in most temperate and subtropical gardens. It prefers well-drained soil in full sun to partial shade.
-
-Hardy to approximately USDA zone 9a, it tolerates light frost but may be damaged by prolonged freezing. In colder regions it is grown as a container plant or annual.
-
-Propagation is by seed, division, or stem cuttings. Cuttings root readily in water or moist sand within two weeks.
-
-The plant tolerates regular [[vegetable-garden-watering-systems-spacing]] better than most succulents. However, it performs best when allowed to dry between waterings and is drought-tolerant once established.
+The species is not considered threatened. Its broad ecological tolerance and ability to colonize disturbed sites contribute to a stable [[vegetable-garden-watering-systems-spacing]] better than most succulents. However, it performs best when allowed to dry between waterings and is drought-tolerant once established.
 
 No serious pests or diseases affect *Bulbine frutescens* in cultivation. Snails and slugs may damage young growth in damp conditions.
 
@@ -84,6 +68,83 @@ The species self-seeds freely in favorable conditions. Volunteers can be transpl
 
 The leaf gel is the primary medicinal product, applied topically to burns, rashes, insect bites, and minor wounds. It contains glycoproteins and polysaccharides that promote wound healing.
 
-Scientific studies have confirmed antimicrobial activity against *[[staphylococcus-aureus]]* and *[[bloomfield-candida-albicans-yeast-hyphal-dimorphism]]*. Anti-inflammatory properties have been demonstrated in laboratory models.
+Scientific studies have confirmed antimicrobial activity against *[[bloomfield-candida-albicans-yeast-hyphal-dimorphism]]*. Anti-inflammatory properties have been demonstrated in laboratory models.
 
 The gel is used in commercial cosmetic products in South Africa, including creams and lotions for sensitive skin. It is marketed as a natural alternative to synthetic wound-care preparations.
+
+## Overview
+
+Bulbine Frutescens represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish bulbine frutescens
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving bulbine extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Bulbine Frutescens finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for bulbine frutescens. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+bulbine frutescens and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Bulbine Frutescens has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of bulbine frutescens into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.

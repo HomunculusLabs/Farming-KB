@@ -9,7 +9,7 @@ created: 2026-05-11
 
 ## The Quest for Authentic Deep Forest Ayahuasca
 
-Terence McKenna's narrative of seeking out the "authentic deep forest ayahuasca"
+[[terence-mckenna]]'s narrative of seeking out the "authentic deep forest ayahuasca"
 represents one of the most vivid passages in *Food of the Gods*. Having spent
 years studying shamanic plant use in the Upper Amazon, McKenna had become
 convinced that a genuine mystery lay behind the practice — and equally convinced
@@ -116,22 +116,11 @@ becomes the healing — language made visible and tangible.
 ## Authentic Practice vs. Marketplace Charlatans
 
 The Dona Catalina encounter serves McKenna's broader argument about the
-difference between authentic [[amazonian-boa-spirits-and-water-beings-in-shamanic-practice]] and its commercialized imitations.
-The marketplace charlatans, who produce the "swill" of diluted or inauthentic
-brews, represent the degradation of a sacred tradition into commodity form. The
-authentic deep forest practice, by contrast, demands physical hardship, genuine
-risk, and submission to forces beyond one's control.
-
-McKenna's experience confirms his conviction that "the world of shamanism, of
-allies, shape-shifting, and magical attack are far more real than the constructs
-of science can ever be, because these spirit ancestors and their other world can
-be seen and felt, they can be known, in the [[metzner-metaphysical-realms-nonordinary-reality-shamanic-cosmology]]." The encounter
+difference between authentic [[metzner-metaphysical-realms-nonordinary-reality-shamanic-cosmology]]." The encounter
 with Dona Catalina is offered as evidence — not proof in the scientific sense,
 but the testimony of direct experience.
 
 ## See Also
 
-- [[mckenna-shamanic-initiation-death-resurrection-eliade]]: death, resurrection, and transformation (Eliade)
-- A world made of language: [[mckenna-world-made-of-language-shamanic-epistemology]]
-- The habit-obsession-addiction [[mckenna-habit-obsession-addiction-spectrum-and-cultural-formation]] formation
-- Partnership vs. [[dominator-culture-and-partnership-society]]
+- [[mckenna-world-made-of-language-shamanic-epistemology]]
+- The habit-obsession-addiction [[dominator-culture-and-partnership-society]]

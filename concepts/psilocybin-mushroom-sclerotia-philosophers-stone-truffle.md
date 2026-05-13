@@ -14,26 +14,7 @@ dryness, cold, heat, or excessive moisture. In the context of hallucinogenic
 mushrooms, sclerotia are produced by some species of Psilocybe, most notably
 Psilocybe mexicana and Psilocybe tampanensis.
 
-Unlike the familiar [[mushroom-fruiting-body-morphogenesis]], which is the reproductive
-structure that produces spores, sclerotia are compact, dense masses of
-fungal tissue that serve as nutrient storage organs. They form underground
-or within the substrate on which the fungus grows, and they can remain
-dormant for extended periods until environmental conditions become favourable
-for growth. When conditions improve, the sclerotia can either resume growth
-of the mycelial network or produce fruiting bodies to complete the
-reproductive cycle.
-
-The formation of sclerotia is a biological adaptation that allows the
-fungus to survive periods of environmental stress. This hardening process
-creates a structure that is significantly more resistant to desiccation,
-temperature extremes, and other adverse conditions than the standard
-mycelial network. The sclerotium essentially acts as a survival capsule,
-preserving the organism's genetic material and energy reserves until
-conditions allow for renewed growth and reproduction.
-
-## Species That Produce Sclerotia
-
-Among the many known [[emcdda-hallucinogenic-mushroom-species-classification-and-chemistry]], only a limited number
+Unlike the familiar [[emcdda-hallucinogenic-mushroom-species-classification-and-chemistry]], only a limited number
 are known to produce sclerotia. The two most notable species in this regard
 are Psilocybe mexicana and Psilocybe tampanensis. Both of these species are
 native to subtropical and tropical regions, particularly in Mexico and the
@@ -49,36 +30,13 @@ was identified and studied by R. Gordon Wasson and Roger Heim in the
 hallucinogenic mushrooms to a wide Western audience. The species was
 given the name 'teonanacatl' by the Aztecs, meaning 'divine flesh' or
 'the flesh of god', a name that has also gained popularity with modern
-users [[health-risks-of-hallucinogenic-mushrooms]].
-
-Psilocybe tampanensis was first discovered near Tampa, Florida, and is a
-less commonly encountered species than Psilocybe mexicana. Like P. mexicana,
-it produces both fruiting bodies and sclerotia under appropriate growing
-conditions. Both species contain [[hplc-analysis-of-psilocybin-and-psilocin]] as their primary
+users [[hplc-analysis-of-psilocybin-and-psilocin]] as their primary
 psychoactive compounds, the same active substances found in other
 hallucinogenic mushrooms of the Psilocybe genus.
 
 ## Market Presence: Sold as Truffles and Philosopher's Stone
 
-In the [[european-smartshop-economics-mushroom-supply-chain-emcdda-2006]] market, sclerotia of Psilocybe mexicana and
-Psilocybe tampanensis have been sold under several distinctive product
-names. The most common marketing terms are 'truffles' and 'philosopher's
-stone', with the latter being a particularly prominent brand name used by
-many smartshops in the Netherlands. These terms represent an example of
-the overlap between brand names used by retailers and the terminology
-adopted by users.
-
-The term 'philosopher's stone' appeared at the end of the 1990s when
-hallucinogenic mushrooms started to be commercialised by smartshops, as
-new labels and names emerged reflecting changes in the groups who sell
-and use these substances. The use of this evocative name aligns with the
-broader marketing trend of positioning psychoactive mushroom products as
-natural, spiritual, or consciousness-expanding rather than simply as
-recreational drugs.
-
-In the Dutch smartshop market, Psilocybe mexicana sclerotia were sold
-at prices ranging from EUR 10 to EUR 17.50 per 15 grams. This placed
-them at a comparable price point to fresh [[query-how-to-identify-psilocybe-cubensis-mushrooms]],
+In the [[query-how-to-identify-psilocybe-cubensis-mushrooms]],
 which sold for EUR 8.50 to EUR 45.28 per 30 grams. The availability of
 sclerotia as a commercial product expanded the range of hallucinogenic
 mushroom products available to consumers, offering a product with
@@ -142,6 +100,5 @@ brewing them in tea, similar to the preparation methods used for
 fruiting bodies of hallucinogenic mushrooms.
 
 ## See Also
-- [[psilocybin-mushroom]]
 - [[psilocybin-mushroom-cultivation-compost-basics]]
 - [[psilocybin-mushroom-biology-chemistry]]

@@ -70,7 +70,7 @@ This resource sharing has profound ecological implications:
   concentrating nutrients from diffuse sources to support fruiting body
   production at specific locations
 - **Mycorrhizal fungi** can move carbon from one plant to another through
-  common mycorrhizal networks, potentially mediating plant-plant
+  [[common-mycorrhizal-networks]], potentially mediating plant-plant
   interactions
 - **Parasitic fungi** can translocate resources from a remote infection
   site to support growth at the colony margin
@@ -137,8 +137,6 @@ mycelial networks that drive nutrient cycling and plant health.
 
 ## Related Concepts
 
-- [[fungal-environmental-sensing-signal-transduction-read]]
 - [[fungal-bioweathering-and-mineral-transformations]]
-- [[fungal-biomass-estimation-methods]]
 - [[ectomycorrhizal-fungal-ecology]]
 - [[fungal-ecology-decomposition-cycles]]

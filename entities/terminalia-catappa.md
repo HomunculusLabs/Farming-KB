@@ -15,62 +15,11 @@ sources:
   - Tholkappian, P. & Paridha V. (2018). "Terminalia catappa: a review on pharmacological and phytochemical properties." Pharmacognosy Reviews 12(23): 29-35.
   - Francis, J.K. (1992). "Terminalia catappa L." SO-ITF-SM-52. USDA Forest Service, Institute of Tropical Forestry.
   - Elevitch, C.R. (2006). "Terminalia catappa (tropical almond)." Species Profiles for Pacific Island Agroforestry.
-  - Chandrasekaran, M. & Senthilkumar, A. (2013). "Terminalia catappa: a [[mollison-designers-chestnut-as-multipurpose-tree-crop]]." Journal of Pharmacognosy and Phytochemistry 2(1): 30-35.
-  - Morton, J.F. (1985). "Indian almond (Terminalia catappa), edible nuts and useful products." Economic Botany 39(2): 141-155.
-created: 2026-04-28
----
+  - Chandrasekaran, M. & Senthilkumar, A. (2013). "Terminalia catappa: a [[mollison-designers-legume-shade-tree-pasture-systems]], ornamental, and agroforestry species.
 
-## Overview
+The tree produces edible almond-flavored seeds that are commercially harvested in many tropical countries. Its broad, symmetrical canopy and [[psilocybe-southeast-asia-pacific]] and the [[guzman-psilocybin-mushrooms-south-america]], Hawaii, and much of Polynesia.
 
-**Terminalia catappa** (tropical almond, Indian almond, or sea almond) is a large deciduous tree in the family Combretaceae. Native to the Indo-Pacific region, it is widely planted throughout the tropics as a [[mollison-designers-legume-shade-tree-pasture-systems]], ornamental, and agroforestry species.
-
-The tree produces edible almond-flavored seeds that are commercially harvested in many tropical countries. Its broad, symmetrical canopy and [[fungal-salt-tolerance-and-ion-homeostasis]] make it a popular coastal landscaping tree. Leaves undergo dramatic color changes from green to red before abscission.
-
-In traditional medicine across [[psilocybe-southeast-asia-pacific]] and the [[guzman-allen-gartz-neurotropic-fungi-hawaii-pacific-islands]], the leaves, bark, and fruit are used to treat various ailments. Modern research has confirmed antioxidant, anti-inflammatory, and hepatoprotective activities in leaf and bark extracts.
-
-## Taxonomy and Morphology
-
-**Classification:** Plantae > Tracheophyta > Magnoliopsida > Myrtales > Combretaceae > *Terminalia* > *T. catappa*.
-
-The species was described by Carl Linnaeus in 1753. The genus name *Terminalia* refers to the leaves being clustered at the ends of branchlets. The specific epithet *catappa* derives from the Malayalam name "katappa."
-
-*T. catappa* is a large tree reaching 25–35 m in height with a trunk diameter of 50–150 cm.
-
-The bole is straight and cylindrical, often with pronounced buttresses at the base in mature trees. Bark is gray-brown, rough and fissured vertically, with inner bark that is pinkish and fibrous.
-
-The crown is broadly spreading and layered (pagoda-shaped), with horizontal tiers of branches.
-
-This distinctive architecture provides dense shade. Branches are arranged in whorls, with each whorl representing one year's growth.
-
-Leaves are simple, alternate, obovate to broadly elliptic, 15–30 cm long and 8–15 cm wide. They are glossy dark green above, paler below, with prominent parallel lateral veins. Before shedding, leaves turn brilliant shades of red, orange, and purple.
-
-Flowers are small, greenish-white, arranged in axillary spikes 8–15 cm long.
-
-They are monoecious, with male and bisexual flowers on the same spike. Flowering occurs twice yearly in most tropical locations, with peaks typically preceding the two rainy seasons.
-
-The fruit is a laterally compressed, ovoid drupe 5–7 cm long and 3–5 cm wide.
-
-The green outer pericarp becomes fibrous and leathery at maturity, enclosing a single edible seed (kernel) resembling a small almond. Fruits float in seawater, facilitating natural coastal dispersal.
-
-## Distribution and Habitat
-
-*T. catappa* is native to the coastal regions of the Indian Ocean, Southeast Asia, northern Australia, and the western Pacific. Its exact native range is debated due to centuries of human-mediated dispersal.
-
-It has been introduced and naturalized throughout the tropics, including coastal East Africa, the Caribbean, Central and [[guzman-psilocybin-mushrooms-south-america]], Hawaii, and much of Polynesia.
-
-It is one of the most common roadside and beach trees in tropical [[mollison-designers-sea-level-change-coastal-zones]] worldwide. Human dispersal has been aided by the fruit's ability to float and remain viable after prolonged seawater immersion.
-
-The species thrives in tropical lowland climates from sea level to 800 m elevation. It prefers well-drained sandy or loamy soils and is highly tolerant of saline conditions, making it ideal for coastal planting.
-
-It grows best with annual rainfall of 1,000–3,000 mm but tolerates seasonal drought by shedding its leaves. Optimal growth temperature is 25–35°C; young trees are damaged by frost.
-
-## Culinary and Nutritional Use
-
-The kernel is the primary edible product, consumed raw, roasted, or salted.
-
-The flavor is mild and almond-like, with a similar but distinct nutritional profile. Kernels contain approximately 50% fat, 20% protein, and 20% carbohydrate.
-
-The oil extracted from kernels is rich in unsaturated [[carbon-isotope-labelling-mycorrhizal-fatty-acids]], particularly oleic acid (C18:1) and linoleic acid (C18:2).
+It is one of the most common roadside and beach trees in tropical [[carbon-isotope-labelling-mycorrhizal-fatty-acids]], particularly oleic acid (C18:1) and linoleic acid (C18:2).
 
 It is used in cooking in some Pacific Island communities and has potential as a specialty oil crop.
 
@@ -87,3 +36,88 @@ Antioxidant activity of leaf extracts is comparable to or exceeds that of green 
 The tannin fraction is primarily responsible for this activity, with punicalagin showing the highest radical-scavenging capacity. These findings support the traditional use of leaf preparations as a health tonic.
 
 Anti-inflammatory effects have been demonstrated in carrageenan-induced paw edema models. Leaf extracts inhibit COX-2, iNOS, and TNF-α expression in LPS-stimulated macrophages at doses of 50–200 mg/kg in rodents.
+
+## Overview
+
+Terminalia Catappa represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish terminalia catappa
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving terminalia extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Terminalia Catappa finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for terminalia catappa. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+terminalia catappa and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Terminalia Catappa has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of terminalia catappa into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[terminalia-arjuna]]
+- [[terminalia-bellerica]]
+- [[terminalia-chebula]]
+- [[terminalia-ferdinandiana]]
+- [[terminalia-mollison]]

@@ -1,5 +1,5 @@
 ---
-title: Medicinal Mushroom Guide King Tubercake
+title: King Tubercake (Pleurotus tuber-regium) — Medicinal Mushroom Guide
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
@@ -11,9 +11,9 @@ sources: []
 
 ## Overview
 
-King tubercake, also known as the king tuber mushroom, is a unique [[tropical-mushroom-cultivation-agricultural-waste-substrates-poverty-alleviation]] that produces large underground sclerotia (tubers) in addition to above-ground fruiting bodies. Native to tropical Africa and parts of Southeast Asia, it belongs to the Pleurotus (oyster mushroom) genus but is distinguished by its ability to form substantial edible tubers weighing up to several kilograms.
+King tubercake, also known as the king tuber mushroom, is a unique tropical mushroom that produces large underground sclerotia (tubers) in addition to above-ground fruiting bodies. Native to tropical Africa and parts of Southeast Asia, it belongs to the Pleurotus (oyster mushroom) genus but is distinguished by its ability to form substantial edible tubers weighing up to several kilograms.
 
-The species name "tuber-regium" means "royal tuber," reflecting the high esteem in which this mushroom is held in African traditional medicine and cuisine. It has been used for centuries across West and Central Africa for treating a wide range of ailments, and it is increasingly studied for its [[ginseng-cultivation-and-medicinal-properties]].
+The species name "tuber-regium" means "royal tuber," reflecting the high esteem in which this mushroom is held in African traditional medicine and cuisine. It has been used for centuries across West and Central Africa for treating a wide range of ailments, and it is increasingly studied for its medicinal properties.
 
 ## Distribution and Ecology
 
@@ -30,7 +30,7 @@ The species name "tuber-regium" means "royal tuber," reflecting the high esteem 
 - **Proteoglycans:** Protein-bound polysaccharides with anti-tumor and immune-enhancing activity.
 - **Triterpenoids:** Anti-inflammatory compounds found in both sclerotia and fruiting bodies.
 - **Ergosterol and ergosterol peroxide:** Sterol compounds with antioxidant and anti-tumor properties.
-- **[[aact-tannins-terpenes-phenolic-compounds-wood-composting-ingham]]:** Including flavonoids with antioxidant activity.
+- **Phenolic compounds:** Including flavonoids with antioxidant activity.
 - **Lectins:** Sugar-binding proteins with immunomodulatory and anti-cancer properties.
 - **Dietary fiber:** Both sclerotia and fruiting bodies are rich in chitin and other fungal polysaccharides.
 
@@ -39,7 +39,7 @@ The species name "tuber-regium" means "royal tuber," reflecting the high esteem 
 P. tuber-regium has a rich history in African ethnomedicine:
 
 ### Traditional Applications
-- **[[cannabis-respiratory-conditions]]:** Treatment of asthma, bronchitis, coughs, and chest congestion.
+- **Respiratory conditions:** Treatment of asthma, bronchitis, coughs, and chest congestion.
 - **Digestive health:** Treatment of diarrhea, dysentery, and stomach ailments.
 - **Wound healing:** Pounded sclerotia applied topically to wounds, ulcers, and skin infections.
 - **Diabetes management:** Sclerotium tea used traditionally to control blood sugar.
@@ -50,11 +50,11 @@ P. tuber-regium has a rich history in African ethnomedicine:
 
 ## Immune System Research
 
-P. tuber-regium is one of the most immunologically active [[termitomyces-african-mushrooms]]:
+P. tuber-regium is one of the most immunologically active African mushrooms:
 
 ### Beta-Glucan Effects
 - Potent activation of macrophages, NK cells, and neutrophils.
-- Enhances phagocytic activity and [[reactive-oxygen-species-and-oxidative-stress]] production by immune cells.
+- Enhances phagocytic activity and reactive oxygen species production by immune cells.
 - Stimulates pro-inflammatory cytokine production (IL-1, IL-6, TNF-alpha) at appropriate levels for pathogen defense.
 - Promotes dendritic cell maturation and antigen presentation.
 
@@ -70,7 +70,7 @@ P. tuber-regium is one of the most immunologically active [[termitomyces-african
 - Beta-glucans enhance immune-mediated tumor destruction.
 - Anti-angiogenic effects documented.
 - Synergistic effects with chemotherapy drugs reported in vitro.
-- Most research is preclinical — human [[cancer-medicinal-mushrooms-schizophyllan-spg-clinical-trials]] are needed.
+- Most research is preclinical — human clinical trials are needed.
 
 ## Metabolic Health
 
@@ -94,7 +94,7 @@ P. tuber-regium is one of the most immunologically active [[termitomyces-african
 ## Anti-Inflammatory and Antioxidant
 
 - Significant free radical scavenging activity (DPPH, ABTS assays).
-- Reduces lipid peroxidation and [[blesching-cannabis-oxidative-stress-and-antioxidant-defense]] markers.
+- Reduces lipid peroxidation and oxidative stress markers.
 - Inhibits COX-2 and iNOS expression, reducing inflammatory mediator production.
 - NF-kB pathway inhibition.
 - Demonstrated anti-arthritic activity in animal models.
@@ -115,7 +115,7 @@ The sclerotium is the primary part used medicinally in Africa:
 
 - **Decoction:** Boil sliced or pounded sclerotium in water for 30-60 minutes. Strain and drink as tea.
 - **Powder:** Dried sclerotium ground into powder. Added to food, drinks, or taken in capsules.
-- **Porridge:** Sclerotium powder cooked with water or milk into a thick porridge — [[kava-traditional-preparation-ceremonial-context]] for children and convalescents.
+- **Porridge:** Sclerotium powder cooked with water or milk into a thick porridge — traditional preparation for children and convalescents.
 - **Topical:** Fresh sclerotium pounded into a paste for wound application.
 
 ### Fruiting Body Preparation
@@ -141,10 +141,10 @@ The sclerotium is the primary part used medicinally in Africa:
 
 P. tuber-regium is cultivated in parts of Africa and Asia, though less widely than P. ostreatus:
 
-- **Sclerotium production:** Can be induced on various substrates (sawdust, agricultural waste). Sclerotia form underground after 2-4 months of mycelial growth.
-- **Substrate:** Hardwood sawdust, rice straw, oil palm waste, cotton waste.
-- **Temperature:** 25-30°C (77-86°F) for both colonization and sclerotium formation.
-- **Humidity:** 80-90%.
-- **Fruiting:** Fruiting bodies form from sclerotia when conditions are favorable (warm, humid, with light).
-- **Sclerotium yield:** Can produce 100-400g sclerotia per kg of substrate.
-- The ability to produce both sclerotia and fruiting bodies from the same culture is unique among cultivated Pleurotus species.
+## See Also
+
+- [[reishi-mushroom-cultivation-and-medicinal-properties]]
+- [[cancer-medicinal-mushrooms-shiitake-lentinan-clinical-trials]]
+- [[medicinal-mushrooms]]
+- [[cancer-medicinal-mushrooms-chaga-and-birch-polypore]]
+- [[cancer-medicinal-mushrooms-reishi-ganoderma-research]]

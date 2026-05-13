@@ -10,33 +10,7 @@ tags: [culture, harvesting, permaculture, water]
 # Water Harvesting and Management in Permaculture
 
 Water is the central organising element in Mollison's permaculture
-design. Pamphlet XI ("[[water-management]]
-strategy.
-
-## Pond Design for Production
-
-Mollison insists that water storages should be designed as highly
-productive systems, not just reserves. The ideal pond structure has
-a sloping or stepped floor that can be fully drained, preferably
-into another pond to take it through a dryland cycle.
-
-Pond depth zones support different plant communities:
-
-- **Marginal zone (0-20 ft from edge):** Swamp trees including
-  bamboo, willow, poplar; Chinese water chestnuts; arrowheads;
-  duck potatoes
-- **Shallow water (surface-rooting plants):** Water lilies, lotus
-  (some with popcorn seeds), cattails (excellent thatch lasting
-  40-60 years), reeds for mats and paper
-- **Open water (2.5-12 ft):** Algae bloom indicates fertility; a
-  white disc disappearing at 2.5 feet indicates a well-manured
-  pond
-- **Deep water (12-15 ft):** Allows fish to escape low oxygen and
-  temperature extremes
-
-## Aquaculture Polyculture
-
-The productive pond integrates multiple [[ingham-soil-foodweb-trophic-levels-protozoa-nematodes]]:
+design. Pamphlet XI ("[[ingham-soil-foodweb-trophic-levels-protozoa-nematodes]]:
 
 - **Plants:** Watercress, cattails, wild rice, duckweed, diatoms,
   water hyacinth (restricted locations only), mints
@@ -46,45 +20,98 @@ The productive pond integrates multiple [[ingham-soil-foodweb-trophic-levels-pro
 - **Fish:** Catfish (low on the trophic ladder), trout (extensive
   systems only; intensive trout are a curse), stickleback (fast
   breeders converting algae to trout food)
-- **Waterfowl:** Ducks (8 per [[fukuoka-agriculture-tomorrow-quarter-acre-vision]]) contributing manure,
-  eggs, and [[comparison-pheromone-based-pest-control-vs-beneficial-insect-biocontrol]]
+- **Waterfowl:** Ducks (8 per [[comparison-pheromone-based-pest-control-vs-beneficial-insect-biocontrol]]
 - **Edge plants:** Blueberries and mulberries on pond edges
-  provide [[query-which-cannabis-training-techniques-produce-highest-yields]]
-
-## The Dryland Cycle
-
-Intensively cultivated ponds should periodically go through a dry
-stage. In the dry cycle, grow heavy feeders in the first year, then
-taper off and finish with a modest crop. Then roll it down and
-re-flood. The mud surface has fantastic ability to fix passing
-nutrients from the water. Once a pond is held in gley (a sealed,
-fermented layer), it perpetuates itself.
-
-Duck ponds with wild rice illustrate the integration: wild rice
-grows above duck height, provides a [[harvest-window-cannabis]], and the
+  provide [[harvest-window-cannabis]], and the
 remainder drops as superb duck food. Mussels are always included
 as decomposers.
 
 ## Sewage Treatment Through Wetlands
 
 Sewage should be turned out into a marsh, not a pond. Grow mints
-and bog plants that have phenomenal sewage demand. [[query-how-do-i-grow-figs-in-cold-climates]]
-where marsh plants go dormant in winter, send sewage through a
-holding pond first, then seep through a marsh that can grow into
-trees. After passing through, the water has no solids left, though
-it still holds dissolved nutrients (mainly phosphates and nitrates)
-that can then feed productive ponds.
+and bog plants that have phenomenal sewage demand. [[comparison-natural-swimming-pool-vs-conventional-pool]]
 
-Mollison designed a sewage disposal system for a town of 8,000
-people, saving $30,000 per year in engineering work and equivalent
-fuel costs, while creating an industrial base through mint and
-bamboo production. The town later purchased an additional 1,500
-acres for raw material production.
+## Overview
 
-## Intertidal and Marine Systems
+Mollison Water Harvesting Management Permaculture represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
 
-Permaculture extends beyond the shoreline. Tidal fish traps, salt
-marsh forage systems, oyster and lobster cultivation, seaweed
-harvesting, and sea bird roost management are all addressed.
-Simple channel systems can create inland ponds with regulated tide
-ranges of 3-12 inches twice daily -- "the cheapest [[comparison-natural-swimming-pool-vs-conventional-pool]]
+## Key Characteristics
+
+Several defining characteristics distinguish mollison water harvesting management permaculture
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving mollison extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Mollison Water Harvesting Management Permaculture finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for mollison water harvesting management permaculture. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+mollison water harvesting management permaculture and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Mollison Water Harvesting Management Permaculture has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of mollison water harvesting management permaculture into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[hypnodinium-mollison]]
+- [[mollison-arid-lands-aquatic-species]]
+- [[mollison-orographic-and-forest-rainfall-effects]]
+- [[mollison-spiral-patterns-in-nature-and-design]]
+- [[soil-ph-nutrient-availability-mollison]]

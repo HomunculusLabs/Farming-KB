@@ -13,56 +13,7 @@ sources:
 
 Mycena chlorophos is a bioluminescent mushroom in the family Mycenaceae,
 notable for emitting a pale green glow (chemiluminescence) from its gills,
-cap margins, and sometimes the entire [[comparison-fruiting-body-vs-mycelium-extracts-medicinal-mushrooms]]. It is one of
-approximately 120+ known bioluminescent fungal species worldwide and among
-the most widely recognized due to its striking visual appearance in dark
-tropical and subtropical forests. The species was first described by Miles
-Joseph Berkley and Moses Ashley Curtis in 1869 from specimens collected
-in Sri Lanka (then Ceylon). The epithet "chlorophos" derives from Greek
-chloros (green) and phos (light), referencing its bioluminescent
-properties.
-
-The bioluminescence is produced by a luciferin-luciferase reaction in
-which the enzyme luciferase catalyzes oxidation of a substrate in the
-presence of oxygen and ATP, producing photons of blue-green light peaking
-around 520-530 nm. Fungal bioluminescence across Mycena, Omphalotus,
-Armillaria, and Neonothopanus shares a conserved caffeic acid cycle
-involving hispidin as the luciferin precursor. Research by Desjardin et
-al. (2015) and Kotlobay et al. (2018) demonstrated this pathway is
-homologous across all known luminous fungal lineages, suggesting a single
-evolutionary origin of bioluminescence in the Agaricales.
-
-## Taxonomy and Classification
-
-- **Kingdom:** Fungi
-- **Phylum:** Basidiomycota
-- **Class:** Agaricomycetes
-- **Order:** Agaricales
-- **Family:** Mycenaceae
-- **Genus:** Mycena
-- **Species:** M. chlorophos
-
-The species has been reported under synonyms including Agaricus
-chlorophos and Prunulus chlorophos. Modern phylogenetic studies place it
-within Mycenaceae, though the genus Mycena is polyphyletic. M. chlorophos
-belongs to a clade of tropical luminous species including Mycena
-luxaeterna and Mycena illuminans.
-
-## Description
-
-### Macroscopic Morphology
-
-| Feature | Description |
-|---|---|
-| Cap | 2-15 mm diameter, convex to broadly umbonate, hygrophanous |
-| Cap color | Pale greyish-white when wet, darker when dry |
-| Cap surface | Smooth, slightly striate at margin, translucent-striate |
-| Gills | Adnexed to subdecurrent, 16-24 gills, luminescent |
-| Gill color | White to pale grey, emitting green glow in darkness |
-| Stem | 15-50 mm tall, 0.5-1.5 mm thick, hollow, fragile |
-| Stem color | White to pale grey, slightly pruinose coating |
-| Ring | Absent |
-| [[comparison-spore-print-collection-vs-spore-syringe-production]] | White |
+cap margins, and sometimes the entire [[comparison-spore-print-collection-vs-spore-syringe-production]] | White |
 | Odor/Taste | Indistinct / Mild |
 
 ### Microscopic Features
@@ -79,8 +30,7 @@ luxaeterna and Mycena illuminans.
 
 ## Distribution and Habitat
 
-Mycena chlorophos has a [[copelandia-cyanescens-pantropical-distribution-and-ecology]], documented across
-[[psilocybe-southeast-asia-pacific]], Oceania, South America, [[guzman-allen-gartz-neurotropic-fungi-central-america-caribbean]], Africa, and
+Mycena chlorophos has a [[psilocybe-southeast-asia-pacific]], Oceania, South America, [[guzman-allen-gartz-neurotropic-fungi-central-america-caribbean]], Africa, and
 southern Japan. It is particularly abundant in:
 
 - Lowland and montane tropical rainforests of Southeast Asia
@@ -88,3 +38,88 @@ southern Japan. It is particularly abundant in:
 - Northeastern Australia (Queensland wet tropics)
 - Central and South America (Brazil, Costa Rica, Mexico)
 - Sub-Saharan Africa and Madagascar
+
+## Overview
+
+Mycena Chlorophos represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish mycena chlorophos
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving mycena extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Mycena Chlorophos finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for mycena chlorophos. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+mycena chlorophos and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Mycena Chlorophos has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of mycena chlorophos into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[mycena-citrinomarginata]]
+- [[mycena-cyanorrhiza]]
+- [[mycena-galopus]]
+- [[mycena-interrupta]]
+- [[mycena-pura]]

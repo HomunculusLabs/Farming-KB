@@ -21,15 +21,7 @@ Rothamsted Experimental Station (now Rothamsted Research) is the oldest agricult
 
 - After 140 continuous wheat cropping cycles, the plough layer still supports 0.5 tonnes of living microbial biomass per hectare
 - About 1.2 tonnes/ha of organic carbon is returned annually to soil as root and stalk material from grain crops
-- The [[soil-biota]] composition: 50% fungi, 20% bacteria, 20% yeasts/algae/protozoans, 10% larger fauna (earthworms, nematodes, arthropods, molluscs)
-- Soil humus at Rothamsted has a mean age of 1,400 years, likely deriving from forests that preceded wheat cultivation
-- This ancient humus yields nutrients very slowly and is resistant to bacterial attack
-
-### Insights on Soil Biomass
-
-- The soil biomass is so large relative to food input that its growth must be very slow and sporadic
-- The biota exists primarily on humus/food turnover within the soil rather than on crop waste input
-- Periodic food surpluses come from root masses at harvest and [[root-exudates]] during growth
+- The [[root-exudates]] during growth
 - Up to 30% of plant energy may be lost as sugars or compounds released to soil via roots
 - The analogy offered: soil biota exist on very meagre food supply for such biomass, like an elephant eating a cabbage once a day
 
@@ -85,6 +77,5 @@ historical pesticide residues and heavy metal deposition patterns.
 
 ## See Also
 
-- [[bill-mollison-permaculture-a-designers-manual-soil-and-humus-management]]
 - [[bill-mollison-permaculture-a-designers-manual-forest-gardens-and-food-forests]]
 - [[query-how-can-i-design-a-climate-resilient-food-forest]]

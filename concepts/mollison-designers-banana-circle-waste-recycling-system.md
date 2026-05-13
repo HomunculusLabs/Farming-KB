@@ -28,8 +28,7 @@ A banana circle begins with a shallow pit, typically 1.5 to 2 metres in diameter
 and 0.5 to 1 metre deep, excavated in a well-drained location. The excavated
 soil is mounded up around the rim of the pit to form a raised ring. This
 ring becomes the planting zone. The pit itself functions as an active
-composting chamber and [[permaculture-pawpaw]]) are
-interspersed between the bananas on the mound. [[comparison-cassava-vs-taro-vs-sweet-potato-vs-yam]], cassava,
+composting chamber and [[comparison-cassava-vs-taro-vs-sweet-potato-vs-yam]], cassava,
 lemongrass, taro, and other pdc-zone-one-garden-design intensively managed productive elements.
 
 ## Species Composition
@@ -49,12 +48,11 @@ The layered polyculture within a banana circle includes:
 
 - **Edge species:** Sugarcane, pigeon pea, and leguminous shrubs can be
   established on the outer perimeter to provide additional mulch material,
-  [[cervantes-wind-protection-outdoor-cannabis]], and [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]].
+  [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]].
 
 ## Construction Steps
 
-1. Select a site with good sunlight, preferably within permaculture-zone-planning, [[composting-systems]], and tropical food forests. They serve
-as anchor elements in [[permaculture-chicken-tractors]] and permaculture-designers-manual-keyhole-garden
+1. Select a site with good sunlight, preferably within permaculture-zone-planning, [[permaculture-chicken-tractors]] and permaculture-designers-manual-keyhole-garden
 ## Practical Considerations
 
 When working with Banana Circle Waste Recycling System, several practical factors should be

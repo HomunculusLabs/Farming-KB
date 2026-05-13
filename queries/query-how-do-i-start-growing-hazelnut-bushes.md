@@ -32,22 +32,14 @@ Hazelnuts (also called filquery-what-are-the-best- o-i-make-koji-at-home-for-beg
 | 3–4 | 'Badgersett', 'Somerset', 'Grand Traverse' | These are bred for extreme cold. 'Grand Traverse' handles -30°F. |
 | 4–5 | 'Jefferson', 'Gem', 'Theta', 'Dorris' | OSU-released disease-resistant varieties. Excellent for the Midwest and Northeast. |
 | 5–6 | 'Yamhill', 'Wepster', 'McDonald' | Compact bushes (8–12 ft), good for smaller yards. |
-| 6–8 | 'Barcelona', 'Tonda di Giffoni', 'Ennis' | Classic European filberts. [[coleman-overwintered-onions-and-early-spring-crops]] (March–April) while dormant.
-- **Container plants:** Plant in spring or early fall (September–October). Avoid planting after October 15 in zones 4–5 — roots need 4–6 weeks to establish before hard freeze.
-
-### 3. Planting
-1. Dig a hole 18–24 inches wide and 12–18 inches deep.
-2. Set the plant so the root collar (where trunk meets roots) is exactly at soil level, not buried.
-3. Spread roots outward — do not curl or jam them in.
-4. Backfill with native soil mixed with 1 part compost to 3 parts soil. Do not fill the hole w [[query-how-do-i-extend-my-growing-season-with-cold-frames-and-season-extension-techniques]] lant within 50 feet. Beyond 50 feet, pollination drops significantly.
+| 6–8 | 'Barcelona', 'Tonda di Giffoni', 'Ennis' | Classic European filberts. [[query-how-do-i-extend-my-growing-season-with-cold-frames-and-season-extension-techniques]] lant within 50 feet. Beyond 50 feet, pollination drops significantly.
 
 ## Ongoing Care
 
 ### Watering
-- **Year 2+:** 1–2 inches of water per week during the [[savory-growing-season-and-non-growing-season-management]] (April–August).
-- **Critical periods:** Late June through mid-July (nut filling stage). Drought during this window shrinks the [[permplant-chestnuts-castanea-nut-crop-coppice]].
+- **Year 2+:** 1–2 inches of water per week during the [[permplant-chestnuts-castanea-nut-crop-coppice]].
 - **Mature plants (5+ years):** Drought-tolerant but benefit from deep watering every 2 weeks in summer.
-- [[comparison-drip-irrigation-vs-passive-irrigation]] or a soaker hose is ideal. Avoid overhead watering — it promotes [[bloomfield-amphibian-decline-fungal-disease-climate-interactions]].
+- [[bloomfield-amphibian-decline-fungal-disease-climate-interactions]].
 
 ### Fertilizing
 - **Year 2:** Apply 1/4 cup of balanced granular fertilizer (10-10-10) in a ring 18 inches from the trunk in early March.
@@ -102,5 +94,4 @@ Hazelnuts (also called filquery-what-are-the-best- o-i-make-koji-at-home-for-beg
 ## See Also
 
 - query-how-do-i-start-growing-hickory-trees
-- [[nutrient-movement-through-soil-to-plant-roots]]
 - [[teaming-with-microbes-mulch-and-soil-food-web]]

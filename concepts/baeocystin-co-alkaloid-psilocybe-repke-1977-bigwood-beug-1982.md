@@ -10,7 +10,7 @@ mined: 2026-05-11
 
 ## Overview
 
-In their 1982 study of [[hplc-analysis-of-psilocybin-and-psilocin]] [[psilocybin-variation-across-flushes]],
+In their 1982 study of [[psilocybin-variation-across-flushes]],
 Bigwood and Beug referenced a key paper by Repke, Leslie, and Guzman (1977)
 that documented the presence of baeocystin in *Psilocybe*, *Conocybe*, and
 *Panaeolus* species. This reference highlights baeocystin as a third
@@ -70,23 +70,8 @@ This raises important questions about their results:
    biosynthetic output.
 
 3. **Did baeocystin contribute to the entheogenic effects?** The subjective
-   [[psilocybe-cubensis-potency-variation-by-flush]] that Bigwood and Beug attributed to psilocybin and
-   psilocin dosage differences might also reflect unmeasured variation in
-   baeocystin and other co-alkaloids.
-
-## Other Co-Alkaloids in *Psilocybe*
-
-Beyond baeocystin, *Psilocybe* species may contain several other related
-tryptamine compounds:
-
-- **Norpsilocin** (4-hydroxytryptamine): the demethylated precursor to
-  baeocystin
-- **Aeruginascin** (4-phosphoryloxy-N,N,N-trimethyltryptamine): a
-  trimethylated analogue found in *[[gartz-inocybe-aeruginascens-distribution-and-psychoactivity]]* and some
-  *Psilocybe* species, reported to modify the [[dosage-unpredictability-psilocybin-subjective-experience]]
-- **Bufotenine** (5-hydroxy-N,N-dimethyltryptamine): noted by Chilton,
-  Bigwood, and Jensen (1979) as a historically confounding compound in
-  [[psilocybin-tryptamine-chemistry-fungi]]
+   [[gartz-inocybe-aeruginascens-distribution-and-psychoactivity]]* and some
+  *Psilocybe* species, reported to modify the [[psilocybin-tryptamine-chemistry-fungi]]
 - **Serotonin** (5-hydroxytryptamine): a ubiquitous neurotransmitter also
   found in mushrooms, sharing the indoleamine backbone
 
@@ -115,7 +100,7 @@ challenges for analytical chemistry:
 
 The omission of baeocystin from most potency studies, including Bigwood and
 Beug's otherwise rigorous work, means that the total psychoactive alkaloid
-content of *Psilocybe cubensis* is likely underestimated. Future studies
+content of *[[psilocybe-cubensis]]* is likely underestimated. Future studies
 employing LC-MS with multi-analyte panels could provide a more complete
 picture of the flush-dependent dynamics of the entire tryptamine alkaloid
 profile.

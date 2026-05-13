@@ -11,19 +11,12 @@ type: concept
 
 # blesching cannabis tourette syndrome
 
-[[blesching-cannabis-adhd]])
-- Anxiety (see blesching cannabis anxiety)
-- OCD symptoms
-- Sleep disruption (see [[blesching-cannabis-neuroprotection]] - neuroprotective mechanisms
-- [[cannabis-for-epilepsy-and-seizure-disorders]] - other neurological cannabinoid
-  applications
-- blesching cannabis [[cannabis-pain-management-protocols]] - for comorbid pain
+[[blesching-cannabis-neuroprotection]] - neuroprotective mechanisms
+- [[cannabis-pain-management-protocols]] - for comorbid pain
 
 ## Key References
 
-Blesching, U. (2017). *The [[blesching-cannabis-health-index-autoimmune-conditions]]*. North Atlantic Books.
-See Chapter on movement disorders for full study citations and detailed
-[[blesching-cannabis-chi-scoring-evidence-based-medicine]] analysis. Notable studies include work by Mueller-Vahl et al.
+Blesching, U. (2017). *The [[blesching-cannabis-chi-scoring-evidence-based-medicine]] analysis. Notable studies include work by Mueller-Vahl et al.
 on THC in Tourette Syndrome.
 ## Practical Applications
 
@@ -97,8 +90,6 @@ through generations to modern scientific approaches, the evolution continues
 to inform current best practices and research directions.
 
 ## See Also
-- [[blesching-cannabis-anxiety]]
 - [[doc]]
-- [[det]]
 - [[blesching-cannabis-irritable-bowel-syndrome]]
 - [[blesching-cannabis-neuroprotection-neurodegenerative]]

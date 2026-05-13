@@ -10,17 +10,7 @@ sources:
 
 # The Sacred Mushroom — Amanita Muscaria Identification
 
-Allegro identifies the Amanita muscaria (fly agaric) as the specific fungus at the center of [[allegro-fertility-philosophy-of-the-ancient-near-east]] Eastern and Christian religion. This page details his identification, the mushroom's properties, and the evidence from comparative religion.
-
-## Why Amanita Muscaria?
-
-Several characteristics make the Amanita muscaria the most likely candidate for the "sacred mushroom" of antiquity:
-
-1. **Striking appearance**: The bright red cap with white warts is among the most recognizable organisms in nature — impossible to overlook and naturally inspiring awe
-2. **Psychoactive properties**: Contains [[amanita-muscaria-muscimol-ibotenic-acid-pharmacology]] and muscimol, producing [[weil-the-natural-mind-altered-states-normalcy]] of consciousness including visions, euphoria, and feelings of transcendence
-3. **Wide distribution**: Found across the northern hemisphere in association with birch, pine, and spruce trees — present throughout the ancient Near East, Europe, and Asia
-4. **Toxic variability**: Different specimens contain wildly different concentrations of active compounds, making expert knowledge essential — naturally restricting use to trained specialists (priests)
-5. **Life cycle**: Emerges rapidly after rain, expands to full size in hours, and dries to a durable form — a dramatic natural demonstration of "[[allegro-death-and-resurrection-in-the-mushroom-cult]]"
+Allegro identifies the Amanita muscaria (fly agaric) as the specific fungus at the center of [[amanita-muscaria-muscimol-ibotenic-acid-pharmacology]] and muscimol, producing [[allegro-death-and-resurrection-in-the-mushroom-cult]]"
 
 ## Physical Description in Ancient Terms
 
@@ -63,12 +53,7 @@ The ancients developed sophisticated methods for preparing and storing the sacre
 
 ## Scholarly Significance and Criticism
 
-Allegro's interpretation of death and resurrection mythology as mushroom-derived remains one of the most contested aspects of [[allegro-philological-methodology]] underlying these claims has been heavily criticized by mainstream scholars
-
-## See Also
-- [[allegro-philological-methodology]]
-- [[allegro-fungal-iconography-in-ancient-art]]
-- controversy-sacred-mushroom-theory
+Allegro's interpretation of death and resurrection mythology as mushroom-derived remains one of the most contested aspects of [[allegro-philological-methodology]]
 - [[allegro-death-and-resurrection-in-the-mushroom-cult]]
 ## Practical Considerations
 
@@ -118,8 +103,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[amanita-muscaria]]
 - [[amanita]]
-- [[dom]]
 - [[det]]
 - [[soma]]

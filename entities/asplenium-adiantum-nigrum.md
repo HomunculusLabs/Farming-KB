@@ -108,13 +108,8 @@ The species is classified as Least Concern throughout its European range. Howeve
 
 ## See Also
 
-- [[asplenium-trichomanes]]
 - [[asplenium-scolopendrium]]
-- [[asplenium-ruta-muraria]]
 - [[asplenium-nidus]]
-- [[asplenium-platyneuron]]
 - [[polypodium-vulgare]]
-- [[polystichum-aculeatum]]
 - [[cystopteris-fragilis]]
-- [[dryopteris-filix-mas]]
 - [[adiantum-capillus-veneris]]

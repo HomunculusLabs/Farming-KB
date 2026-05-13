@@ -28,46 +28,13 @@ type: comparison
 
 Orchid mycorrhizae (OM) and ericoid mycorrhizae (ErM) are two of the most specialized and ecologically distinctive mycorrhizal types. Both associations involve plants that evolved in nutritionally challenging environments — orchids in forest understories and epiphytic niches, and Ericaceae in acidic, organic-matter-rich soils. Despite both forming intracellular colonization structures within root cortical cells, they differ fundamentally in their fungal partners, nutritional dynamics, ecological roles, and dependency levels.
 
-Understanding the distinctions between these two symbioses illuminates how mycorrhizal strategies have diversified to solve different ecological problems — from the complete dependency of orchid seedlings on fungal carbon to the organic nitrogen mining performed by ericoid [[mycorrhizal-fungi]] in heathland soils.
-
-## Fungal Partners
-
-### Orchid Mycorrhizae
-
-Orchid mycorrhizal fungi are drawn almost exclusively from the **Basidiomycota**, with some from the **Ascomycota**:
-
-- **Tulasnellales** (most common, including *Tulasnella* spp.)
-- **Ceratobasidiales** (including *Thanatephorus*/*Rhizoctonia* complex)
-- **Sebacinales** (including *Sebacina* spp.)
-- **Serendipitaceae** within the Sebacinales
-
-These fungi are predominantly **rhizoctonoid-forming** — they produce loose, hyphal networks rather than the more structured fruiting bodies of many ectomycorrhizal basidiomycetes. A hallmark of orchid mycorrhizal fungi is their **dual lifestyle**: they can exist as free-living saprotrophs in soil or organic matter, yet also form obligate symbiotic relationships with orchids. This versatility is central to the orchid-fungus dynamic, as the fungus provides both carbon and nutrients to the host.
-
-### Ericoid Mycorrhizae
-
-Ericoid mycorrhizal fungi belong primarily to the **Ascomycota**, with a narrow taxonomic range:
-
-- **Rhizoscyphus ericae** aggregate (formerly *Pezizella erica [[oidiodendron-maius]] on maius** — dominant in acidic, peaty soils
+Understanding the distinctions between these two symbioses illuminates how mycorrhizal strategies have diversified to solve different ecological problems — from the complete dependency of orchid seedlings on fungal carbon to the organic nitrogen mining performed by ericoid [[oidiodendron-maius]] on maius** — dominant in acidic, peaty soils
 - **Meliniomyces* spp.** — common in boreal and temperate heathlands
 - **Cairneyella* spp.** — recently described from Australian Ericaceae
 - **Acrospora* spp.** — associated with *Vaccinium* and related genera
 
-This is a remarkably narrow fungal partner range compared to the broad ho [[comparison-soil-food-web-vs-arbuscular-mycorrhizal-fungi]] fungi rhizal fungi, and even compared to orchid mycorrhizal fungi. The ericoid fungal lineage has co-evolved with Ericaceae over tens of millions of years, resulting in a highly specialized partnership.
-
-## Colonization Structure and Anatomy
-
-### Orchid Mycorrhizae
-
-- **Pelotons**: The defining structure of orchid mycorrhizae. These are intricately coiled masses of [[fungal-hyphae]] within root cortical cells. Pelotons are temporary — they form, function for nutrient exchange, and are eventually digested by the host cell (a process called **peloton lysis**).
-- **Intracellular only**: Unlike most other mycorrhizal types, orchid [[arbuscular-mycorrhizal-colonization-patterns]] is strictly intracellular. Fungal hyphae do not grow between cells.
-- **Digestion cycle**: Orchid cells actively digest pelotons as a primary nutrient acquisition strategy. This is unique among mycorrhizal associations — the host cell enzymatically breaks down fungal tissue to release carbon, nitrogen, and phosphorus.
-- **Mycotrophy in seedlings**: Orchid seeds are dust-like and contain virtually no energy reserves. Germination is entirely dependent on fungal colonization, making the association **obligate at the seedling stage**. Some orchids remain fully mycoheterotrophic (fungus-feeding) throughout their lives.
-
-### Ericoid Mycorrhizae
-
-- **Hyphal coils in epidermal cells**: Ericoid mycorrhizal fungi form dense hyphal coils within the epidermal cells of the very fine "hair roots" characteristic of Ericaceae. These coils are morphologically simpler than orchid pelotons and are not digested by the host.
-- **Narrow colonization zone**: Colonization is restricted to the root epidermis, with hyphae rarely penetrating deeper cortical layers.
-- **Extensive extraradical mycelium**: ErM fungi produce extensive exter [[fungal-mycelial-networks-nutrient-translocation]] orks in the surrounding soil and organic matter, serving as the primary organ for nutrient acquisition.
+This is a remarkably narrow fungal partner range compared to the broad ho [[fungal-hyphae]] within root cortical cells. Pelotons are temporary — they form, function for nutrient exchange, and are eventually digested by the host cell (a process called **peloton lysis**).
+- **Intracellular only**: Unlike most other mycorrhizal types, orchid [[fungal-mycelial-networks-nutrient-translocation]] orks in the surrounding soil and organic matter, serving as the primary organ for nutrient acquisition.
 - **No digestion**: Unlike orchid mycorrhizae, the host plant does not digest the fungal coils. Nutrient exchange occurs across the intact fungal cell walls through transporter proteins.
 
 ## Nutritional Dynamics
@@ -92,23 +59,7 @@ Orchid mycorrhizae are unique among all mycorrhizal types in that **carbon flows
 | **Key fungal enzymes** | Limited saprotrophic enzyme production | Powerful proteases, chitinases, phosphatases |
 | **Nitrogen form supplied** | Amino acids, peptides | Amino acids, ammonium |
 
-The most critical functional difference lies in [[fungal-bacterial-predators-nitrogen-acquisition-soil-ecology]]. ErM fungi are exceptional decomposers of complex organic nitrogen compounds (proteins, chitin, tannin-protein complexes) found in acidic, organic soils. They produce a suite of **proteolytic enzymes** (proteinases, peptidases) and **chitinases** that break down recalcitrant organic matter — a capacity that most other mycorrhizal fungi lack.
-
-Orchid mycorrhizal fungi, by contrast, supply nitrogen primarily through the **sacrifice of their own biomass** during peloton digestion. The fungus essentially donates its cellular contents (amino acids, sugars, minerals) to the orchid.
-
-## Ecological Context and Distribution
-
-### Orchid Mycorrhizae
-
-- **Global distribution**: Found on every continent except Antarctica, in virtually every terrestrial habitat
-- **Habitat diversity**: Forest understories (temperate and tropical), grasslands, wetlands, rocky outcrops, and as epiphytes on tree bark
-- **Ecological role**: Critical for orchid reproduction and establishment; orchid conservation programs depend on understanding and managing OM fungal partners
-- **Specificity gradient**: Ranges from highly specific (some orchids associate with only one fungal species) to generalist (associating with multiple rhizoctonoid taxa)
-- **Succession**: Many orchids shift from mycoheterotrophic seedlings to photosynthetic adults, changing their fungal dependencies over their lifespan
-
-### Ericoid Mycorrhizae
-
-- **Geographic range**: Primarily boreal, temperate, and [[guzman-allen-gartz-africa-southern-hemisphere-underexplored-neurotropic-fungi]] regions with acidic, nutrient-poor soils
+The most critical functional difference lies in [[guzman-allen-gartz-africa-southern-hemisphere-underexplored-neurotropic-fungi]] regions with acidic, nutrient-poor soils
 - **Dominant ecosystems**: Heather moorlands, boreal coniferous forests, tundra heaths, Mediterranean chaparral, and Australian kwongan
 - **Plant families**: Primarily Ericaceae (heaths, heathers, blueberries, cranberries, rhododendrons), but also Epacridaceae (Australian heaths) and Empetraceae (crowberries)
 - **Soil specialization**: Ericoid mycorrhizae are particularly important in soils with high organic matter, low pH (3.5–5.5), high aluminum, and low available nitrogen and phosphorus
@@ -134,6 +85,5 @@ Orchid mycorrhizal fungi, by contrast, supply nitrogen primarily through the **s
 Orchid mycorrhizae and ericoid mycorrhizae represent two highly specialized evolutionary solutions to nutritional challenges, but they solve fundamentally different problems. Orchid mycorrhizae evolved to support a unique life history strategy involving dust-seed dispersal and initial mycoheterotrophy, with carbon flowing predominantly from fungus to plant. Ericoid mycorrhizae evolved to exploit acidic, organic-matter-rich soils where conventional nutrient acquisition is insufficient, with fungi serving as powerful organic nitrogen decomposers. Both associations feature intracellular fungal structures, but the orchid peloton (digested) and the ericoid hyphal coil (intact) reflect fundamentally different exchange mechanisms. Together, they demonstrate the remarkable functional diversity of mycorrhizal symbioses and underscore that "mycorrhiza" encompasses a spectrum of nutritional strategies far beyond the familiar arbuscular and ectomycorrhizal paradigms.
 
 ## See Also
-- [[ericoid-and-orchid-mycorrhizae]]
 - [[ericoid-mycorrhizae-types-and-ecology]]
 - [[comparison-rhizosphere-ecology-vs-mycorrhizal-fungi]]

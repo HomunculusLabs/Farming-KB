@@ -109,13 +109,8 @@ The species is not listed on any CITES appendix, reflecting its relatively stabl
 
 ## See Also
 
-- [[tylecodon-reticulatus]]
 - [[cotyledon-orbiculata]]
-- [[crassula-ovata]]
 - [[aloe-ferox]]
-- [[portulacaria-afra]]
 - [[aeonium-arboreum]]
-- [[kalanchoe-tomentosa]]
 - [[senecio-articulatus]]
-- [[conophytum-bilobum]]
 - [[sedum-rupestre]]

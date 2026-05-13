@@ -8,13 +8,7 @@ type: concept
 
 ## Overview
 
-Applied pattern design takes the abstract principles of pattern understanding and translates them into practical landscape and garden features. The [[herb-spiral]], circle-mulch grow pits, flood-plain embankments, and Flowform water systems demonstrate how natural patterns can be adapted to create efficient, productive, and beautiful designs that reduce resource use, increase yield, and improve system resilience.
-
-## The Herb Spiral
-
-### Concept and Origin
-
-The herb spiral was evolved by [[bill-mollison]] in 1978 as a kitchen-door garden design. It represents a rare three-dimensional earth construct on a small domestic scale, compactly coiling a linear path of herbs into a single mound placed conveniently near the kitchen.
+Applied pattern design takes the abstract principles of pattern understanding and translates them into practical landscape and garden features. The [[bill-mollison]] in 1978 as a kitchen-door garden design. It represents a rare three-dimensional earth construct on a small domestic scale, compactly coiling a linear path of herbs into a single mound placed conveniently near the kitchen.
 
 ### Physical Specifications
 
@@ -34,7 +28,7 @@ The spiral construct creates a gradient of microclimates:
 ### Design Principles Demonstrated
 
 1. **Three-dimensional stacking**: Vertical space multiplies effective growing area beyond the footprint
-2. **Edge effect**: The spiral shape maximizes edge between different microclimates, creating more niches
+2. **[[edge-effect]]**: The spiral shape maximizes edge between different microclimates, creating more niches
 3. **Least-path design**: All herbs are accessible from a single standing position
 4. **Resource efficiency**: One sprinkler waters the entire system versus multiple for row crops
 5. **Microclimate creation**: The mound shape naturally creates sun/shade and wet/dry gradients
@@ -59,7 +53,7 @@ A 3.8-meter straight row of crops requires three 1.2-meter sprinklers, while a c
 
 ### Advantages
 
-1. **Water conservation**: Central mulch pit with plants eventually overshading to prevent evaporation
+1. **[[water-conservation]]**: Central mulch pit with plants eventually overshading to prevent evaporation
 2. **Mulch concentration**: Organic matter concentrated in the center pit feeds surrounding plants
 3. **Reduced path space**: Circle gardens greatly reduce path space and land area needed
 4. **Self-shading**: Plants naturally shade the central mulch pit as they grow
@@ -122,6 +116,5 @@ Basins can be elongate, truncate, symmetrical, asymmetrical, stepped in line, st
 - Vogel, Steven, *Life in Moving Fluids*, Willard Grant Press, 1981
 
 ## See Also
-- [[herb-spiral-and-applied-pattern-design]]
 - [[herb-spirals-and-compact-garden-design]]
 - [[applied-pattern-design-in-permaculture]]

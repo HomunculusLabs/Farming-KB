@@ -114,31 +114,7 @@ Ashwagandha root extract has shown the ability to normalize thyroid hormone leve
 | Soil             | Sandy loam, well-drained, pH 7.5–8.0 |
 | Climate          | Semi-arid, 20–35°C                    |
 | Rainfall         | 500–750 mm annually                   |
-| Propagation      | [[clay-seed-pellets-direct-seeding]]; seed rate 5–6 kg/ha   |
-| Spacing          | 20–30 cm between plants              |
-| Irrigation       | Minimal; drought-tolerant once established |
-
-### Harvest and Processing
-
-- **Growing cycle**: 150–180 days from sowing to harvest
-- **Harvest**: Entire plant uprooted when berries begin to ripen; roots separated, washed, and dried
-- **Yield**: 400–600 kg dried root per hectare under rainfed conditions
-- **Post-harvest**: Roots are dried at 40–50°C, cut into pieces or powdered. Leaves may be separately harvested for withaferin A extraction
-
-### Popular Extract Standardizations
-
-| Extract       | Part Used | Standardization          | Manufacturer |
-|---------------|-----------|--------------------------|--------------|
-| KSM-66        | Root      | 5% withanolides          | Ixoreal      |
-| Sensoril      | Root+Leaf | 10% withanolides         | Natreon      |
-| Shoden        | Root+Leaf | 35% withanolides         | Arjuna       |
-
-## Safety and Dosage
-
-- **Typical dosage**: 300–600 mg/day root extract (standardized to 2.5–5% withanolides)
-- **[[blesching-cannabis-safety-profile]]**: GRAS in the US; LD50 > 5 g/kg in rodents (extremely [[fukuoka-low-toxicity-pesticide-deception]])
-- **Side effects**: Rare; mild GI upset at high doses
-- **Contraindications**: Nightshade family allergy, hyperthyroidism (may overstimulate), pregnancy (uterine stimulant properties), [[blesching-cannabis-health-index-autoimmune-conditions]] (immune-stimulating)
+| Propagation      | [[blesching-cannabis-safety-profile]]**: GRAS in the US; LD50 > 5 g/kg in rodents (extremely [[blesching-cannabis-health-index-autoimmune-conditions]] (immune-stimulating)
 - **[[ayahuasca-drug-interactions]]**: Potential interaction with thyroid medications, sedatives, and immunosuppressants
 
 ## Traditional Ayurvedic Context

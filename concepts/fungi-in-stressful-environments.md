@@ -38,8 +38,7 @@ Most fungi are mesophilic, growing between 5-35 degrees C with optima at
 also at 40-50 degrees C. These fungi are ubiquitous in soils worldwide and
 are commonly isolated from compost piles, mushroom beds, municipal waste
 deposits, bird and alligator nests, coal tips, volcanic hot springs, and soils
-of arid and [[fukuoka-natural-farming-in-tropical-regions]].
-More than 20 thermophilic taxa have [[guzman-allen-gartz-psilocybe-semilanceata-temperate-cosmopolitan-distribution]]. Notable genera
+of arid and [[guzman-allen-gartz-psilocybe-semilanceata-temperate-cosmopolitan-distribution]]. Notable genera
 include Thermomyces, Talaromyces, Thermoascus, Scytalidium, Rhizomucor, and
 Myriococcum. Recent estimates put the number at approximately 70 species.
 Thermophilism is strongly developed in Zygomycota, Ascomycota, and mitosporic
@@ -65,25 +64,7 @@ No extreme halophiles (requiring 2.5-5.2 M NaCl) have been found among
 eukaryotes. Halotolerant fungi, including Alternaria, Aspergillus,
 Penicillium, and Trichoderma, are commonly isolated from arid soils. Some
 species like Basipetospora halophila and Hortaea werneckii grow optimally at
-2.5 M NaCl salinity. See also [[fungal-salt-tolerance-and-ion-homeostasis]].
-Acidophiles tolerate pH values of 3 or below, common in hot springs, coal
-mine refuse, and mining effluents. Alkalophiles grow optimally above pH 8,
-usually between 9 and 10, found in alkaline soda lakes, limestone caves, and
-concrete surfaces (pH up to 11).
-## Heavy-Metal Tolerant Fungi
-Although copper, nickel, and zinc are essential trace elements, overabundance
-of heavy metals (cadmium, lead, mercury, silver) can be toxic, leading to
-declines in [[fungal-species-richness-and-diversity-indices]] and [[edaphic-determinants-cannabis-microbiome-community-structure]] changes.
-Nevertheless, some heavy-metal-tolerant fungi can be isolated from most
-contaminated sites. Copper-tolerant fungi have even been isolated from
-uncontaminated locations.
-Fungi employ several mechanisms for heavy metal tolerance: extracellular
-chelation by organic acids and exopolysaccharides, cell wall binding through
-melanin and chitin, intracellular sequestration by metallothionein-like
-proteins, and active efflux by ATP-binding cassette (ABC) transporters.
-Some fungi can transform toxic metals into less harmful forms. For example,
-certain yeasts can reduce mercury ions to elemental mercury, while some
-filamentous fungi can precipitate heavy metals as insoluble [[fungal-calcium-oxalate-crystals]].
+2.5 M NaCl salinity. See also [[fungal-species-richness-and-diversity-indices]] and [[fungal-calcium-oxalate-crystals]].
 ## Rock-Inhabiting and Phoenicoid Fungi
 Rocks exposed to high solar radiation, high temperatures, low nutrients, and
 low humidity are colonized by unique stress-tolerant fungi. Black yeasts and
@@ -118,8 +99,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[thermophilic-fungi]]
 - [[psychrophilic-fungi]]
-- [[doc]]
 - [[dom]]
 - [[det]]

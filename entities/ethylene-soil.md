@@ -106,16 +106,13 @@ In natural, undisturbed soil, a continuous cycle operates at the microsite level
 - Mycorrhizal associations benefit from balanced nutrient availability the cycle provides.
 - Ploughing shifts soil from fungal-dominated to bacterial-dominated communities.
 - Fungi transport materials including nitrogen into decaying wood via hyphal networks.
-- [[the-soil-food-web]] under forests (1–2 km fungal hyphae per square metre of topsoil)
-  depends on the oxygen-ethylene mosaic.
-
-## Key References
-
-- Mollison, B. (1988). Permaculture: A Designers' Manual. Chapter 8, pp. 204–205.
-- Smith, A. (1981). The Living Soil. Permaculture Journal #7, July 1981.
+- [[query-what-are-the-different-fruit-tree-training-systems-and-which-should-i-use]]
+- [[query-what-are-the-best-ways-to-increase-soil-organic-matter-quickly]]
 
 ## See Also
 
-- [[query-what-are-the-different-fruit-tree-training-systems-and-which-should-i-use]]
-- [[query-what-are-the-best-indicator-plants-for-soil-health]]
-- [[query-what-are-the-best-ways-to-increase-soil-organic-matter-quickly]]
+- [[cervantes-ethylene-hormonal-sex-reversal]]
+- [[ethylene-oxygen-cycle]]
+- [[ethylene-plant-hormone-ripening-stress]]
+- [[ethylene-involvement-fungal-tropism-avoidance-response]]
+- [[oxygen-ethylene-cycle-mollison]]

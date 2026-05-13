@@ -1,6 +1,5 @@
      1|---
-     2|title: "[[hamilton-geoffhamilton-nick-organic-gardening-greenhouse-gardening]] and Season Extension"
-     3|subtitle: "Growing food year-round through [[coleman-protected-cultivation]], from cold frames to high tunnels to climate-controlled greenhouses"
+     2|title: "[[coleman-protected-cultivation]], from cold frames to high tunnels to climate-controlled greenhouses"
      4|tags: [greenhouse, season-extension, cold-frames, high-tunnels, polytunnels, four-season-farming, protected-cultivation, winter-gardening]
      5|date: 2026-04-30
      6|updated: 2026-04-30
@@ -10,11 +9,11 @@
     10|  - coleman-cool-greenhouse
     11|  - coleman-four-season-farm
     12|  - coleman-greenhouse-soil-management
-    13|  - coleman-greenhouse-tomato-vertical-growing
+    13|  - [[coleman-greenhouse-tomato-vertical-growing]]
     14|  - coleman-deep-organic-farming
     15|  - coleman-deep-organic-history-and-philosophy
     16|  - coleman-cold-hardy-varieties
-    17|  - coleman-cold-hardiness-testing-ratings
+    17|  - [[coleman-cold-hardiness-testing-ratings]]
     18|  - coleman-high-tunnel-cold-frame-design
     19|  - coleman-drip-irrigation-and-water-management
     20|  - underground-greenhouse-walipini
@@ -68,19 +67,9 @@
     68|The economic and nutritional motivations for season extension are compelling.
     69|For commercial growers, extending the harvest season by even a few weeks at
     70|either end can dramatically increase revenue per acre by capturing early- and
-    71|late-market premiums. [[eliot-coleman]]'s Four Season Farm in Harborside, Maine
-    72|(44 degrees north latitude) demonstrated that unheated high tunnels with
-    73|interior row covers can produce salad greens and root vegetables from October
-    74|through April, turning what was traditionally a dormant period into a
-    75|productive and profitable one. For home gardeners, even modest season extension
-    76|means more months of fresh food from the backyard and a deeper connection to
-    77|the rhythms of the growing year.
-    78|
-    79|The modern revival of season extension draws on multiple traditions: the
-    80|Parisian market gardeners, who fed a major city year-round using hotbeds and
-    81|cloches; Chinese and Japanese protected [[gourmet-medicinal-mushroom-oyster-cultivation-methods]]; and the practical
+    71|late-market premiums. [[gourmet-medicinal-mushroom-oyster-cultivation-methods]]; and the practical
     82|innovations of organic pioneers such as Albert Howard and Lady Eve Balfour.
-    83|Contemporary practitioners like Coleman, [[steve-solomon]], and [[sepp-holzer]] have
+    83|Contemporary practitioners like Coleman, [[sepp-holzer]] have
     84|synthesized these traditions with new materials -- plastic films, spun-bonded
     85|fabrics, polycarbonate panels -- creating a toolkit accessible to growers at
     86|every scale.
@@ -144,6 +133,5 @@
    144|squirrel-cage blower provides insulation value roughly equivalent to a single
    145|pane of glass while costing a fraction of the price. UV-stabilized 6-mil
 ## Related
-- [[query-how-do-i-choose-between-indoor-outdoor-and-greenhouse-cannabis-growing|query how do i choose between indoor outdoor and greenhouse cannabis growing]]
 - [[organic-greenhouse-growing|organic greenhouse growing]]
 - [[comparison-greenhouse-vs-underground-walipini|comparison greenhouse vs underground walipini]]

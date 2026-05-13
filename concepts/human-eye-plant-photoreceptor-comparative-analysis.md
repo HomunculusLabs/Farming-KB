@@ -81,10 +81,10 @@ plants clearly possess vision. If vision requires image formation, then plants d
 not see. The intermediate position — that plants possess a form of environmental
 awareness mediated by light-detecting proteins — is perhaps the most accurate.
 Plants and animals have evolved different solutions to the problem of detecting
-light, each optimized for the organism's particular ecological niche and
+light, each optimized for the organism's particular [[ecological-niche]] and
 lifestyle.
 
-Daniel Chamovitz, in What a Plant Knows, argues for a gradualist framework:
+[[daniel-chamovitz]], in What a Plant Knows, argues for a gradualist framework:
 plant sensory capabilities exist on a continuum with animal senses rather than
 representing an all-or-nothing divide. The same fundamental chemistry — proteins
 that absorb specific wavelengths of light and undergo conformational changes —
@@ -121,8 +121,6 @@ functionally similar solutions through different molecular paths.
 
 ## See Also
 
-- [[blue-light-phototropism-red-light-photoperiodism-dual-plant-vision-system]]
 - [[chamovitz-photoreception-human-eye-analogy]]
-- [[phytochrome-ecological-red-far-red-dusk-dawn-signaling]]
 - [[rhodopsin-photopsins-animal-visual-pigments-plant-photoreceptor-parallels]]
 - [[chamovitz-plant-photoreceptors-beyond-phytochrome]]

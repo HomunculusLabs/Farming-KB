@@ -22,9 +22,7 @@ warm-blooded animals. These yeasts are obligate inhabitants of
 human and animal skin, where they typically exist as harmless
 commensals but can cause disease under certain conditions. The
 genus is classified within the order Malasseziales of the
-[[ustilaginomycetes-smut-fungi-classification-diversity]]
-- [[medically-important-fungi-pathogens-opportunists]]
-- [[yeast-biodiversity-isolation-ecology]]
+[[medically-important-fungi-pathogens-opportunists]]
 - [[malassezia-restricta]]
 ## Practical Applications
 

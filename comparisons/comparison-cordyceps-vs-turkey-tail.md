@@ -21,27 +21,6 @@ consumers choosing between them.
 
 ## Cordyceps militaris
 
-[[cordyceps-militaris-cultivation]]
-
-Cordyceps militaris is a bright orange, club-shaped parasitic fungus
-that in nature infects moth and butterfly pupae. Unlike the famously
-expensive wild-harvested Ophiocordyceps sinensis, C. militaris can be
-reliably cultivated on grain substrates, making it accessible to both
-commercial and home growers. It produces cordycepin and cordycepic acid
-— the same key bioactives found in wild cordyceps — at comparable or
-even higher concentrations.
-
-The primary bioactive compound, cordycepin (3'-deoxyadenosine), has
-demonstrated anti-inflammatory, antioxidant, and anti-tumor properties
-in laboratory studies. Cordyceps is best known as an adaptogen and
-ergogenic aid: it enhances ATP production, improves oxygen utilization,
-and supports respiratory function. Athletes and those seeking stamina
-and recovery support are the most common consumers. Cultivation is more
-demanding than most gourmet species, requiring sterilized grain jars,
-liquid culture inoculation, and careful temperature control at 18-25°C.
-
-## Turkey Tail (Trametes versicolor)
-
 [[medicinal-mushroom-guide-turkey-tail]]
 
 Turkey tail is one of the most abundant mushrooms on Earth, found on
@@ -120,8 +99,6 @@ tail with or between meals for immune support throughout the day.
 
 ## See Also
 
-- [[comparison-cordyceps-vs-chaga-medicinal]]
 - [[comparison-cordyceps-vs-reishi-cultivation]]
-- [[comparison-reishi-vs-turkey-tail-medicinal-mushrooms]]
 - [[comparison-chaga-vs-turkey-tail]]
 - [[comparison-cordyceps-vs-lions-mane-cultivation]]

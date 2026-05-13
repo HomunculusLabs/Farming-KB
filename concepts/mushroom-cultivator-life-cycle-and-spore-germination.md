@@ -47,7 +47,7 @@ Mushrooms that have begun to rot or dry have substantially lower germination rat
 
 ## Spore Germination
 
-Spore germination is the first step in the mushroom life cycle and often the most
+Spore germination is the first step in the [[mushroom-life-cycle]] and often the most
 challenging for the cultivator. Spores of many species are reluctant to germinate
 on standard agar media. Several techniques promote germination:
 
@@ -133,8 +133,6 @@ cultivator guides the organism through its life cycle toward abundant fruiting.
 
 ## See Also
 
-- [[mushroom-life-cycle-stamets-cultivator]]
 - [[mushroom-cultivator-tissue-culture-spore-germination]]
-- [[mushroom-cultivator-strain-selection]]
 - [[stamets-mushroom-genetics-mating-systems-reproduction]]
 - [[stamets-p-value-strain-age-system]]

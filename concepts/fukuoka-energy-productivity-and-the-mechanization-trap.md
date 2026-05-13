@@ -6,19 +6,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
-  - "The Natural Way of Farming, [[masanobu-fukuoka]]"
-type: concept
----
-
-# Energy Productivity and the Mechanization Trap in Fukuoka's Natural Farming
-
-## Overview
-
-Masanobu Fukuoka argued that the conventional metric of agricultural productivity is fundamentally misleading. When measured by **energy returned per unit of human labor invested**, natural farming is the most productive system ever devised. When measured by output per unit of fossil fuel energy, mechanized [[fukuoka-illusions-scientific-farming-centrifugal-centripetal-model]] is staggeringly inefficient. Fukuoka framed the rise of [[fukuoka-textdoc-postwar-japanese-agricultural-mechanization-collapse]] not as progress but as an escalating trap that progressively alienates farmers from the land while reducing true productivity.
-
-## The Energy Calculus
-
-Fukuoka presented a clear quantitative comparison of [[energy-efficiency-farming-systems-comparison]] across farming systems:
+  - "The Natural Way of Farming, [[fukuoka-illusions-scientific-farming-centrifugal-centripetal-model]] is staggeringly inefficient. Fukuoka framed the rise of [[energy-efficiency-farming-systems-comparison]] across farming systems:
 
 - **Natural farming**: produces approximately 130 pounds of rice, equivalent to roughly 200,000 kilocalories of food energy, per **man-day of labor** with no outside material inputs. This is roughly 100 times the daily caloric intake of a farmer on a natural diet.
 - **Traditional farming** (with draft animals): required approximately **ten times more energy input** per unit of food produced than natural farming.
@@ -54,21 +42,7 @@ The price of rice is not set by farmers or by production costs. Instead, it is c
 
 ## The "High-Yield" Delusion
 
-Fukuoka directly challenged the claim that [[fukuoka-illusions-of-scientific-farming]] methods increase yields beyond what nature can provide. His argument:
-
-- Modern high-yield practices do not exceed the natural productivity of the land. They are merely attempts to **artificially restore** productivity after the farmer has hamstrung nature.
-- The farmer creates adverse conditions through tillage, chemical application, and monoculture, then claims credit for "conquering" nature when yields recover partially through additional intervention.
-- High-yield technologies are, in reality, **glorified attempts to stave off reductions** in productivity caused by the farming methods themselves.
-
-## The Quality Argument
-
-Beyond quantity, Fukuoka argued that scientific farming produces inferior food. Because it operates by breaking down and analyzing nature rather than understanding it as an organic whole, it creates:
-
-- Artificial, deformed food products
-- Expensive synthetic imitations of natural nutrition
-- Further alienation of humans from nature through their diet
-
-[[fukuoka-critique-modern-agriculture]], in his view, has created nothing from nature. It has only made quantitative and qualitative changes to isolated aspects of natural systems, producing crude and expensive food that deepens the separation between humans and the natural world.
+Fukuoka directly challenged the claim that [[fukuoka-critique-modern-agriculture]], in his view, has created nothing from nature. It has only made quantitative and qualitative changes to isolated aspects of natural systems, producing crude and expensive food that deepens the separation between humans and the natural world.
 
 ## Comparison of Farming Systems by Energy Input
 
@@ -118,8 +92,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[masanobu-fukuoka]]
 - [[doc]]
-- [[dom]]
 - [[natural-diet]]
 - [[natural-farming]]

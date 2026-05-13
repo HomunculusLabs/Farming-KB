@@ -18,17 +18,9 @@ sources:
 
 ## Overview
 
-Chemdawg 91 (also written Chemdog 91) is a legendary [[query-what-is-the-difference-between-indica-sativa-and-hybrid-cannabis]] strain and one of the most influential parent lines in modern [[oner-cannabis-breeding-fundamentals]].
+Chemdawg 91 (also written Chemdog 91) is a legendary [[oner-cannabis-breeding-fundamentals]].
 
-The strain originated in the early 1990s from a now-famous seed found in a bag of Chemdog purchased at a [[oner-chemdawg-origin-legend-grateful-dead-genetics]] concert.
-
-Chemdawg 91 is the direct parent of numerous celebrated cultivars including Sour Diesel, OG Kush, and their countless descendants.
-
-It carries a reputation for extreme potency, distinctive diesel-kerosene aroma, and intense cerebral and physical effects.
-
-## Lineage
-
-The [[chemdawg-lineage-and-legacy]] traces back to a small number of seeds discovered in early 1990s Colorado by the breeder known as Chemdog.
+The strain originated in the early 1990s from a now-famous seed found in a bag of Chemdog purchased at a [[chemdawg-lineage-and-legacy]] traces back to a small number of seeds discovered in early 1990s Colorado by the breeder known as Chemdog.
 
 These seeds were found in approximately one ounce of high-quality cannabis purchased at a Grateful Dead show.
 
@@ -44,11 +36,7 @@ Buds are medium to large in size with a dense, rounded structure typical of indi
 
 The calyxes are tightly packed and coated in a thick layer of milky-white trichomes that give the flowers a frosted appearance.
 
-Colors range from bright to [[trichoderma-forest-green-mold-guide]] with occasional flashes of deep purple, especially in cooler growing conditions.
-
-Pistils are copper-orange to rust-colored, abundant, and curling through the resinous bud surface.
-
-[[cannabis-glandular-trichome-types-resin-production-clarke]] is notably heavy, with trichomes often extending onto the sugar leaves and small surrounding foliage.
+Colors range from bright to [[cannabis-glandular-trichome-types-resin-production-clarke]] is notably heavy, with trichomes often extending onto the sugar leaves and small surrounding foliage.
 
 ## Aroma and Flavor
 
@@ -74,16 +62,89 @@ Limonene provides citrus undertones and is associated with mood elevation and st
 
 Secondary terpenes include humulene, pinene, and trace amounts of ocimene.
 
-The terpene combination produces the signature "Chemdawg" scent that has become a benchmark in [[cannabis-breeding-basics]].
-
-## Cannabinoid Profile
-
-Chemdawg 91 is a high-THC cultivar with typical flower testing between 20% and 28% total THC.
-
-CBD content is consistently low, usually below 0.1%, which is typical of Chemdawg lineage strains.
-
-[[cannabis-minor-cannabinoids]] including CBC, CBG, and THCV may be present in trace amounts depending on phenotype and growing conditions.
+The terpene combination produces the signature "Chemdawg" scent that has become a benchmark in [[cannabis-minor-cannabinoids]] including CBC, CBG, and THCV may be present in trace amounts depending on phenotype and growing conditions.
 
 ## Effects
 
 Onset is rapid, typically within 1–3 minutes of inhalation, beginning with a pronounced cerebral rush.
+
+## Overview
+
+Chemdawg 91 represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish chemdawg 91
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving chemdawg extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Chemdawg 91 finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for chemdawg 91. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+chemdawg 91 and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Chemdawg 91 has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of chemdawg 91 into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[cannabis-strain-chemdawg-origin-genetics-lineage]]

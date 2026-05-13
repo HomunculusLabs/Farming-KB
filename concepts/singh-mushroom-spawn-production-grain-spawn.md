@@ -15,16 +15,14 @@ type: concept
 ---
 
 # Mushroom fungal-bioremediation by providing inoculum for fungal remediation
-systems. White-rot fungi used for [[staycare-bjerkandera-and-pleurotus-in-pollutant-degradation]] require mass cultivation
-techniques similar to [[singh-composted-fungal-biomass-heavy-metal-immobilization]] applications.
+systems. White-rot fungi used for [[singh-composted-fungal-biomass-heavy-metal-immobilization]] applications.
 
 ## Related Concepts
 
-- [[singh-bioreactor-design-for-fungal-bioremediation]]
 - [[singh-white-rot-fungi-lignin-modifying-enzymes]]
 ## Practical Applications
 
-Mushroom [[spawn-production-techniques]] [[comparison-grain-spawn-vs-grain-to-grain-transfer]] has a range of practical applications that make it relevant to
+Mushroom [[comparison-grain-spawn-vs-grain-to-grain-transfer]] has a range of practical applications that make it relevant to
 both researchers and practitioners. Understanding these applications
 requires familiarity with the underlying principles and their
 manifestation in real-world contexts. The breadth of applications

@@ -32,19 +32,11 @@ Phloem sap is usually alkaline (pH 7.5-8.5), contrasting with the acidic pH of v
 
 - **ATP molecules**: Energy currency for cellular processes at sink locations
 - **Potassium ions**: The primary cation balancing charge in phloem
-- **Hormones**: [[ingham-natural-growth-regulators-soil-microbes]] and stress signals (including the [[query-how-do-plants-use-chemical-signals-to-defend-against-insects]] that trigger stomatal closure)
+- **Hormones**: [[query-how-do-plants-use-chemical-signals-to-defend-against-insects]] that trigger stomatal closure)
 - **Organic acids**: Citric, oxalic, piscidic, tartaric, acetic, lactic, and malonic acids
 - **Messenger RNA**: Used for long-distance coordination of plant responses
 - **Proteins**: Including defense-related proteins
-- **Viruses**: Hijack the [[xylem-and-phloem-transport-systems-in-plants]] system for systemic infection
-
-## Long-Distance Signaling via Phloem RNA
-
-One of the most significant discoveries in plant biology is that the phloem transports messenger RNA as part of a long-distance signaling system. Identified RNAs in phloem sap are involved in:
-
-- **Virus defense**: Coordinating responses to viral attacks throughout the plant
-- **Defense setup**: Establishing systemic acquired resistance after pathogen attack
-- **Stress responses**: Signaling [[hamilton-nutrient-deficiencies-and-treatment]], drought, temperature stress
+- **Viruses**: Hijack the [[hamilton-nutrient-deficiencies-and-treatment]], drought, temperature stress
 - **Nutrient allocation**: Deciding where nutrients are used throughout the plant
 - **Gene silencing**: Regulating gene expression in distant tissues
 - **Developmental regulation**: Coordinating growth and differentiation
@@ -55,7 +47,7 @@ The presence of just one or two hormone molecules in a cell can send a message. 
 
 The phloem system delivers exudates that roots release into the soil to attract beneficial microbes. These plant-synthesized compounds include organic acids with different abilities to dissolve phosphate minerals, zinc, iron, manganese, and other nutrients. Each acid has different impacts on nutrient solubilization.
 
-Plants adjust the composition of root exudates based on their current nutrient needs. If a plant needs more phosphorus, it produces exudates better at dissolving phosphorus-bearing minerals. This targeted response demonstrates the plant's ability to sense its nutritional status and respond chemically.
+Plants adjust the composition of [[root-exudates]] based on their current nutrient needs. If a plant needs more phosphorus, it produces exudates better at dissolving phosphorus-bearing minerals. This targeted response demonstrates the plant's ability to sense its nutritional status and respond chemically.
 
 ## Carbon Partitioning
 

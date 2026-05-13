@@ -22,21 +22,9 @@ sources:
 
 **Caulerpa lentillifera** J. Agardh is a species of green marine macroalga in the family Caulerpaceae. It is commonly known as sea grapes, green caviar, or *umi-budō* in Japanese, referring to its distinctive grape-like appearance.
 
-The species is widely consumed as a raw vegetable in [[psilocybe-southeast-asia-pacific]], the [[guzman-allen-gartz-neurotropic-fungi-hawaii-pacific-islands]], and increasingly in Japan and Australia. Its texture is crisp and slightly crunchy, with a briny, fresh flavor that has made it popular in salads and cold dishes.
+The species is widely consumed as a raw vegetable in [[guzman-allen-gartz-neurotropic-fungi-hawaii-pacific-islands]], and increasingly in Japan and Australia. Its texture is crisp and slightly crunchy, with a briny, fresh flavor that has made it popular in salads and cold dishes.
 
-C. lentillifera is one of the most commercially valuable [[cervantes-green-algae-growing-medium]] species, with significant export markets from the Philippines, Vietnam, and Fiji to Japan, Korea, and other Asian countries.
-
-## Taxonomy and Morphology
-
-**Classification:** Chlorophyta, Ulvophyceae, Bryopsidales, Caulerpaceae, *Caulerpa*. The authority is J. Agardh (1837). The species epithet refers to the small lentil-sized branchlets.
-
-The genus *Caulerpa* is notable for being one of the largest single-celled organisms. Each thallus is a single coenocytic cell containing thousands of nuclei, a condition called siphonous organization.
-
-The thallus consists of horizontal creeping stolons (runners) anchored by rhizoids that penetrate the substrate. Erect fronds arise from the stolons at regular intervals, reaching 5–15 cm in height.
-
-The distinctive "sea grape" appearance comes from the gametophore axes bearing numerous spherical to ovoid vesicles (ramuli) 1–3 mm in diameter. These vesicles are clustered densely along the branch tips, resembling a cluster of small green grapes.
-
-Color ranges from bright green to yellowish-green depending on light conditions and [[ph-and-nutrient-availability-garden-soils]]. Healthy specimens have a glossy, translucent appearance with firm vesicles that detach easily from the stalk.
+C. lentillifera is one of the most commercially valuable [[ph-and-nutrient-availability-garden-soils]]. Healthy specimens have a glossy, translucent appearance with firm vesicles that detach easily from the stalk.
 
 ## Distribution and Habitat
 
@@ -46,45 +34,93 @@ The species inhabits shallow coastal waters, typically from 0.5 to 5 meters dept
 
 Optimal growth occurs at temperatures of 25–32°C and salinities of 25–35 ppt. The species is sensitive to cold temperatures and does not survive below 15°C, limiting its distribution to tropical and subtropical waters.
 
-The species is commonly found in association with mangrove root systems and seagrass beds. These habitats provide protection from wave action and a steady supply of nutrients from [[hamilton-composting-and-organic-matter-management]] decomposition.
+The species is commonly found in association with mangrove root systems and seagrass beds. These habitats provide protection from wave action and a steady supply of nutrients from [[cho-fish-amino-acid-preparation]] profile including all essential amino acids. The species contains relatively high levels of branched-chain amino acids compared to other seaweeds.
 
-## Chemistry and Nutrition
-
-C. lentillifera is rich in minerals, particularly calcium (320–680 mg per 100 g dry weight), magnesium, iron, and potassium. Its mineral content exceeds that of most land-grown vegetables.
-
-Protein content ranges from 8–15% dry weight, with a balanced [[cho-fish-amino-acid-preparation]] profile including all essential amino acids. The species contains relatively high levels of branched-chain amino acids compared to other seaweeds.
-
-The species produces unique [[antifungal-secondary-metabolites-coprophilous-fungi]] including caulerpenyne, a sesquiterpene with antibacterial and cytotoxic properties. Caulerpenyne acts as a chemical defense against herbivores and epiphytes.
-
-Dietary fiber content is 30–45% dry weight, primarily soluble polysaccharides including ulvan-like compounds. These polysaccharides exhibit prebiotic activity, supporting beneficial gut microbiota.
-The high vitamin C content is unusual for a marine vegetable and contributes to antioxidant capacity alongside the carotenoid pigments.
-
-Vitamin content includes significant amounts of vitamin C, vitamin E, and B-group vitamins. The species also contains carotenoids, primarily lutein and β-carotene, contributing to its antioxidant properties.
-
-Total lipid content is low (1–3% dry weight), but the fatty acid profile is notable for its omega-3 polyunsaturated fatty acid content. This nutritional profile supports the species' growing reputation as a functional food.
-
-## Culinary Use
-
-Sea grapes are primarily consumed raw, served as a fresh salad vegetable. They are typically rinsed in fresh water to remove excess salt, then dressed with vinegar, soy sauce, or citrus-based dressings.
-
-In the Philippines, the species is known as *latô* or *ar-arosep* and is commonly served with vinegar, onions, and tomatoes as a side dish or appetizer. It is a traditional food in coastal communities throughout the archipelago.
-
-In Vietnamese cuisine, sea grapes are called *rong nho* and are served fresh in seafood salads, spring rolls, and as a garnish for grilled seafood. Vietnam has become a major exporter to Japan and other Asian markets.
-
-In Japanese cuisine, *umi-budō* is served as a luxury appetizer, often with ponzu sauce or soy-based dipping sauces. Its premium presentation and fresh texture command high prices in seafood markets.
-
-The flavor is mildly briny with oceanic sweetness, and the texture is the primary attraction. Each vesicle pops pleasantly in the mouth, creating a distinctive sensory experience. It is increasingly used in fusion cuisine and gourmet seafood presentations.
-
-## Cultivation
-
-C. lentillifera cultivation is well-established in the Philippines, Vietnam, Japan, and Fiji. The most common method involves planting stolon fragments in shallow brackish water ponds or raceways.
-
-Pond cultivation uses earthen ponds with 20–40 cm water depth, enriched with organic or [[ingham-inorganic-fertilizers-soil-biology-damage]] to promote growth. The [[query-how-do-i-use-knf-inputs-through-the-plant-growth-cycle]] is 30–45 days, with partial harvesting allowing continuous production.
-
-Land-based tank cultivation using recirculating aquaculture systems (RAS) has been developed in Japan for premium-grade production. This method provides better quality control and reduces contamination risks.
-
-Yields range from 5–15 tonnes fresh weight per hectare per cycle. The primary market constraint is short [[ingham-aact-holding-time-shelf-life-decay]] — harvested sea grapes remain fresh for only 3–5 days under refrigeration.
+The species produces unique [[ingham-inorganic-fertilizers-soil-biology-damage]] to promote growth. The [[ingham-aact-holding-time-shelf-life-decay]] — harvested sea grapes remain fresh for only 3–5 days under refrigeration.
 
 Post-harvest handling improvements, including modified atmosphere packaging and cold chain logistics, are extending shelf life to 7–10 days. These advances are critical for expanding export markets from the Philippines and Vietnam to Japan and Korea.
 
 ## Ecological Role
+
+## Overview
+
+Caulerpa Lentillifera represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish caulerpa lentillifera
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving caulerpa extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Caulerpa Lentillifera finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for caulerpa lentillifera. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+caulerpa lentillifera and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Caulerpa Lentillifera has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of caulerpa lentillifera into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[caulerpa]]
+- [[caulerpa-racemosa]]
+- [[caulerpa-taxifolia]]

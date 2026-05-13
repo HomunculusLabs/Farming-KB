@@ -9,18 +9,7 @@ sources:
 ---
 # Organic Greenhouse Pest Management
 
-Greenhouse pests can build up rapidly because the warmth and humidity necessary for healthy plant growth are also ideal for [[query-how-to-manage-pests-and-diseases-in-mushroom-cultivation]]. Vigilance, scrupulous cleanliness, and biological controls are the organic gardener's primary weapons.
-
-## Prevention Through Cleanliness
-
-The most important defense is keeping the greenhouse spotlessly clean:
-
-- Remove any plant debris where pests and diseases may hide
-- At the end of the season, wash the house thoroughly with warm, soapy water, brushing into every corner
-- If you empty the house for winter, leave it open for frost to help sterilize it
-- Always keep the glass clean -- dirty panes reduce light and weaken plants
-- Before reusing pots or seed trays, wash thoroughly in boiling water to kill disease spores and insect eggs
-- [[query-fabric-pots-vs-plastic-pots-vs-air-pots-for-cannabis]] and trays are much easier to clean than clay (which is porous and harbors disease)
+Greenhouse pests can build up rapidly because the warmth and humidity necessary for healthy plant growth are also ideal for [[query-fabric-pots-vs-plastic-pots-vs-air-pots-for-cannabis]] and trays are much easier to clean than clay (which is porous and harbors disease)
 - Remove any damaged plant material as soon as you see it
 
 ## Common Greenhouse Pests and Organic Controls
@@ -55,14 +44,10 @@ Invisible to the naked eye, these tiny pale green or red mites cover plants with
 Small, disclike insects that cling to leaves and stems, sucking sap and secreting honeydew. Plants weaken and turn yellow.
 
 **Controls:**
-- Introduce [[fukuoka-natural-predator-protection]] Metaphycus helvolus
-- Scrape insects off with a piece of wood
-
-### Vine Weevils
-Small grubs with white bodies and brown heads invade [[hamilton-potting-compost-recipes-and-growing-media]] and eat roots. Severely affected plants may keel over.
+- Introduce [[hamilton-potting-compost-recipes-and-growing-media]] and eat roots. Severely affected plants may keel over.
 
 **Controls:**
-- Use biological control with nematodes (apply to compost)
+- Use biological control with nematodes (apply to [[compost]])
 - Knock off all compost from affected plants and repot, ensuring all larvae are removed
 
 ### Thrips
@@ -88,3 +73,78 @@ White, powdery coating on leaves causing puckering and distortion. More likely w
 
 **Controls:**
 - Remove affected leaves immediately
+
+## Overview
+
+Organic Greenhouse Pest Management represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish organic greenhouse pest management
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving organic extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Organic Greenhouse Pest Management finds practical application in multiple design contexts.
+[[permaculture-principles]] guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for organic greenhouse pest management. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+organic greenhouse pest management and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Organic Greenhouse Pest Management has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of organic greenhouse pest management into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and

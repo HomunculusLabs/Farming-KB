@@ -8,25 +8,7 @@ sources: ["Shulgin - PIHKAL"]
 ---
 # MMDA
 
-[[2c-b-pihkal-entry-20]] #132. 3-METHOXY-4,5-METHYLENEDIOXYAMPHETAMINE.
-
-## Chemical Name
-
-3-METHOXY-4,5-METHYLENEDIOXYAMPHETAMINE
-
-## Dosage and Duration
-
-| Property | Value |
-|----------|-------|
-| Dosage | 100 - 250 mg. |
-| Duration | moderate. |
-
-## Qualitative Comments
-
-> (with 100 mg) I felt completely relaxed at one
-> hour. Almost as if I was floating. There were no obvious effects on
-> taste, and the relaxation and composed feeling is much like a small
-> dose, maybe 20 mikes, of [[lsd]]. There was some dilation, and in the
+[[lsd]]. There was some dilation, and in the
 > evening I was a little restless and slightly tired. I slept well, and
 > awoke refreshed and happy.
 >
@@ -51,43 +33,89 @@ sources: ["Shulgin - PIHKAL"]
 > drug to the drugs of this class, to become familiar with the drug
 > state in as gentle a fashion as possible. This substance seems to
 > have a much gentler action than others of this class; perhaps more
-> like cannabis or [[mescaline]]. The effect
-> definitely reaches a climax with a pleasant afterglow following.
-> Apparently there are no profound motor coordination problems. MMDA
-> yields that 'Sunday afternoon' feeling of desiring to lie down and
-> enjoy life; a luxurious feeling of 'layback.' No enhancement of
-> colors in visual scene (except for some greenish tinges in faces) but
-> upon closing eyes hallucinations appear to be quite real in 3-D, like
-> watching a movie. First these dreams appear in black and white, but
-> later colors start appearing. Chartreuse and magenta first appear,
-> then blue and finally red. First I had visions of large numbers on
-> gaming tables, then people. MMDA appears to bring dreams to the
-> conscious level; is a link between the subconscious and the
-> conscious.
->
-> (with 225 mg) I had a strange awareness of my hands in about 20
-> minutes Q not a feeling in them as just that I was attracted to them
-> somehow. Then I began to get fearful, an acute experience of
-> aloneness. I lay face down (a depressed position for me). Next I was
-> talking to the kids at school (an image) or to other teachers. This
-> was very vivid. The scenes at school were more vivid that the real
-> scenes around me here. Those people were much more real. I am
-> actually very sleepy right now during the experiment. Of any
-> experience I have had, this was most like a series of dreams easily
-> remembered. When it was over, I felt as if I had had a long period of
->
->
-> sleeping Q I had gone to bed and had a series of dream-like states
-> very vivid and colorful and real.
+> like cannabis or [[mmda-3b-entity-pihkal]]
 
-## Extensions and Commentary
-The phrase that had been used by several of
-the subjects in the early trials with MMDA, again and again, was
-"brain movies." Apparently the richest of the effects were to be had
-with the eyes closed. This is the compound that I had first completed
-in 1962, and had named it MMDA, and had begun the exploring of it when
-I heard that Dr. Gordon A. Alles, a professor of pharmacology at U. C.
-L. A. who had his own private laboratory in Los Angeles, had also
+## Overview
+
+Mmda Entity Pihkal represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish mmda entity pihkal
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving mmda extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Mmda Entity Pihkal finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for mmda entity pihkal. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+mmda entity pihkal and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Mmda Entity Pihkal has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of mmda entity pihkal into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
 
 ## See Also
+
+- [[methyl-mmda-2-entity-pihkal]]
+- [[mmda-2-entity-pihkal]]
 - [[mmda-3b-entity-pihkal]]
+- [[mmda-entity]]
+- [[shulgin-a-pihkal-mmda-and-mmda-2-methoxy-methylenedioxyamphetamine]]

@@ -1,6 +1,6 @@
 ---
 title: stuart-r-ayahuasca-tourism-cautionary-ethnography
-aliases: [Ayahuasca retreat tourism, Ayahuasca travel, [[harner-amazonian-ayahuasca-preparation-methods]] tourism]
+aliases: [Ayahuasca retreat tourism, Ayahuasca travel, harner-amazonian-ayahuasca-preparation-methods tourism]
 tags: [ayahuasca, tourism, shamanism, peru, amazon, entheogen, ethnobotany]
 created: 2026-05-08
 source: stuart-r-ayahuasca-tourism.md
@@ -16,11 +16,7 @@ The practice has become a significant spiritual and economic force in the Amazon
 
 Westerners have long sought alternative spiritual traditions outside their Judeo-Christian heritage. This pattern of spiritual exploration follows a clear historical trajectory across the decades.
 
-In the 1950s, the Beat Generation explored Zen Buddhism and [[fukuoka-western-eastern-philosophy-agriculture]]. In the 1960s, hippies turned to Hindu swamis and gurus en masse. In the 1970s, cult leaders like the Reverend Moon swayed large followings.
-
-By the 1980s, New Age seekers embraced Tibetan lamas and their teachings. In the 1990s, shamanism came into vogue as the latest expression of this ongoing spiritual quest among Western spiritual seekers.
-
-Ayahuasca tourism emerged from this broader cultural current as one of the most prominent and enduring forms of alternative spiritual exploration, drawing people from [[psilocybin-north-america-pacific-northwest]], Europe, and increasingly Asia.
+In the 1950s, the Beat Generation explored Zen Buddhism and [[psilocybin-north-america-pacific-northwest]], Europe, and increasingly Asia.
 
 The brew itself, traditionally called *ayahuasca* (from the Quechua "aya" meaning spirit or soul of the dead, and "huasca" meaning vine or rope), is made primarily from *Banisteriopsis caapi* (the ayahuasca vine) and *Psychotria viridis* (chacruna leaf), which contains the psychoactive compound N,N-dimethyltryptamine (DMT).
 
@@ -32,8 +28,7 @@ Without the MAOI-containing vine, ingesting DMT orally would produce no psychoac
 
 ### Iquitos, Peru
 
-Iquitos has served as the primary hub for [[icaros-shamanic-power-songs]]
-- [[ayahuasca-and-banisteriopsis-caapi]]
+Iquitos has served as the primary hub for [[ayahuasca-and-banisteriopsis-caapi]]
 
 ## References
 
@@ -41,27 +36,10 @@ Iquitos has served as the primary hub for [[icaros-shamanic-power-songs]]
 
 ## See Also
 
-- [[ayahuasca-tourism-economics-commodification-peru]]
-## Practical Considerations
-
-When working with Ayahuasca Tourism, several practical factors should be
-carefully considered to achieve optimal results. These include
-the specific conditions of the implementation context, available
-resources, timing requirements, and the interactions between this
-topic and other elements of the broader system. A holistic view
-that considers these interconnections produces better outcomes.
-
-Environmental conditions such as temperature, moisture, and
-seasonal patterns significantly influence results. Monitoring these
-variables and adapting practices accordingly is essential for success.
-The most effective practitioners develop keen observation skills and
-respond flexibly to changing conditions rather than following rigid
-protocols regardless of circumstances or local variation.
-
-[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
-knowledge, time, and ongoing attention. Realistic assessment of what
-can be sustainably maintained helps prevent overextension and ensures
-that implementations remain viable and productive over the long term.
+- [[ayahuasca-tourism-ethics-and-commodification]]
+- [[ayahuasca-tourism-ethnography]]
+- [[ayahuasca-tourism-medical-risks-prescription-interactions]]
+- [[ayahuasca-tourism-shaman-character-evaluation]]
 
 ## Common Challenges and Solutions
 
@@ -104,8 +82,6 @@ informed decisions and avoid common pitfalls. Environmental conditions,
 timing, and material selection all play critical roles.
 
 ## See Also
-- [[ayahuasca]]
 - [[doc]]
-- [[harmine]]
 - [[psilocybin]]
 - [[tetrahydroharmine]]

@@ -15,19 +15,7 @@ plant tissues without causing apparent disease. In cannabis, endophytic
 communities inhabit roots, stems, leaves, flowers, and seeds, forming
 associations that range from commensal to mutualistic. These internal
 microbial partners contribute to plant nutrition, stress tolerance, disease
-resistance, and potentially influence the production of [[antifungal-secondary-metabolites-coprophilous-fungi]]
-including cannabinoids and terpenes. Understanding cannabis endophytes is of
-growing interest for both scientific and commercial reasons.
-
-## Types of Endophytes
-
-Endophytes are broadly categorized as obligate or facultative. Obligate
-endophytes depend on the host plant for at least part of their life cycle and
-are transmitted vertically from parent to offspring through seeds. Facultative
-endophytes have a free-living stage in soil or other environments and
-colonize plants horizontally through root entry points, wounds, or stomata.
-
-[[banyan-tree-bacterial-endophytes-isolation-visualization]] commonly found in cannabis belong to the genera
+resistance, and potentially influence the production of [[banyan-tree-bacterial-endophytes-isolation-visualization]] commonly found in cannabis belong to the genera
 Pseudomonas, Bacillus, Burkholderia, Enterobacter, Pantoea, Microbacterium,
 and Rhodococcus. Fungal endophytes include species of Trichoderma, Fusarium,
 Cladosporium, Alternaria, and Penicillium. Some fungal endophytes are
@@ -45,14 +33,6 @@ through the vascular system to colonize aboveground tissues.
 
 Leaf endophytes enter through stomata, hydathodes, or wounds caused by
 herbivory or mechanical damage. The plant immune system actively regulates
-[[fungal-endophyte-colonization-patterns]], permitting some microbes while excluding others.
-Successful endophytes must modulate or evade plant defense responses, often
-through effectors that suppress reactive oxygen species or alter defense
-hormone signaling.
-
-## Nutrient Contributions
-
-Endophytic bacteria contribute directly to plant nutrition through biological
 [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]], phosphate solubilization, and siderophore-mediated iron
 acquisition. Nitrogen-fixing endophytes convert atmospheric nitrogen into
 ammonia, a form the plant can assimilate. While the nitrogen-fixing capacity
@@ -62,33 +42,9 @@ growing systems.
 
 Phosphate-solubilizing endophytes release organic acids that chelate calcium,
 iron, or aluminum bound to phosphate, converting insoluble phosphates into
-plant-available forms. Endophytic fungi, particularly [[comparison-soil-food-web-vs-arbuscular-mycorrhizal-fungi]]
-fungi and some [[cannabis-root-microbiome]], [[fukuoka-textdoc-biological-control-fallacy-pheromone-critique]] agents,
-[[singh-ergot-alkaloid-fungal-secondary-metabolites]],
+plant-available forms. Endophytic fungi, particularly [[cannabis-root-microbiome]], [[singh-ergot-alkaloid-fungal-secondary-metabolites]],
 
-See also: [[rhizosphere-ecology]]
-## Practical Considerations
-
-Successful implementation of Endophytes in Cannabis requires attention to
-several practical factors including environmental conditions,
-resource availability, and timing. Careful monitoring and
-adaptive management help optimize outcomes across varying
-conditions. Integration with other system elements enhances
-overall effectiveness and creates beneficial synergies that
-improve resilience and productivity over time.
-
-## Future Directions
-
-Continued development in this area promises new insights and
-improved approaches for both research and practical application.
-Cross-disciplinary collaboration and advances in analytical
-methods create opportunities for innovation and refinement.
-Recommended resources include current literature, practitioner
-communities, and systematic experimentation to build expertise.
-
-## See Also
-
-- [[bryophyte-hepatic-pteridophyte-endophytes]]
+See also: [[bryophyte-hepatic-pteridophyte-endophytes]]
 
 ## Practical Applications
 
@@ -119,8 +75,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[fungal-endophytes]]
 - [[doc]]
-- [[dom]]
 - [[endophytic-fungi]]
 - [[trichoderma]]

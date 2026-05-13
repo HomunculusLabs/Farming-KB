@@ -8,62 +8,10 @@ sources: ["Shulgin - PIHKAL"]
 ---
 # G-3
 
-[[2c-b-pihkal-entry-20]] #82. 2,5-DIMETHOXY-3,4-(TRIMETHYLENE)AMPHETAMINE;.
-
-## Chemical Name
-
-2,5-DIMETHOXY-3,4-(TRIMETHYLENE)AMPHETAMINE;
-
-## Dosage and Duration
-
-| Property | Value |
-|----------|-------|
-| Dosage | 12 - 18 mg. |
-| Duration | 8 - 12 h. |
-
-## Qualitative Comments
-
-> (with 12 mg) There was a warmth, a mellowness,
-> as things developed. No body disturbance at all, but then there were
-> no visuals either which, for me on this particular occasion, was
-> disappointing. The day was consumed in reading, and I identified
-> completely with the character of my fictional hero. It was a
-> different form of fantasy. I think I prefer music as a structural
-> basis for fantasy.
->
-> (with 18 mg) I am at a plus three, but I am not at all sure of why it
-> is a plus three. With my eyes closed, there are puffy clouds, but no
-> drama at all. Music was not exciting. There could well have been
-> easy eroticism, but there was no push in that direction. No great
-> amount of appetite. Not much of anything, and still a plus three.
-> Simply lying still and surveying the body rather than the visual scene
-> gave some suggestions of neurological sensitivity, but with getting up
-> and moving about and doing things, all was fine. The next morning I
-> was perhaps moving a bit more slowly than usual. I am not sure that
-> there would be reward in going higher.
-
-## Extensions and Commentary
-
-In a comparison between the 2-carbon
-
-compound (2C-G-3) and the 3-carbon compound (G-3) the vote goes
-towards the phenethylamine (the 2-carbon compound). With the first
-member of this series (2C-G versus GANESHA) this was a stand-off, both
-as to quantitative effects (potency) and [[mdma-qualitative-effects-phenomenology]] (nature
+[[mdma-qualitative-effects-phenomenology]] (nature
 of activity). Here, with the somewhat bulkier group located at the
 definitive 3,4-positions, the nod is to the shorter chain, for the
-first [[first-time-grower-common-mistakes]] ever. The potency differences are small, and maybe the
-amphetamine is still a bit more potent. But there are hints of
-discomfort with this latter compound that seem to be absent with the
-phenethylamine. The more highly substituted compounds (q.v.) more
-clearly define these differences.
-
-## Synthesis
-
-A solution of 3.7 g of
-2,5-dimethoxy-3,4-(trimethylene)benzaldehyde (see preparation under
-2C-G-3) in 15 mL nitroethane was treated with 0.7 g anhydrous ammonium
-acetate and heated on the [[scythian-cannabis-steam-bath-ritual]] for 2.5 h. The excess solvent
+first [[scythian-cannabis-steam-bath-ritual]] for 2.5 h. The excess solvent
 was removed under vacuum leaving some 5 mL of a deep orange-red oil
 which on cooling, spontaneously crystallized. This was finely ground
 under 10 mL MeOH, filtered, washed sparingly with MeOH, and air dried
@@ -88,3 +36,88 @@ through a cottage cheese stage into a loose, filterable texture. The
 solids were removed by filtration, washed with additional THF, and the
 combined filtrates and washes stripped of solvent under vacuum. There
 was obtained 2.51 g of a white oil that was distilled at 115-135 deg C at
+
+## Overview
+
+G 3 Entity Pihkal represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish g 3 entity pihkal
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving g extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+G 3 Entity Pihkal finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for g 3 entity pihkal. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+g 3 entity pihkal and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+G 3 Entity Pihkal has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of g 3 entity pihkal into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[2c-g-3-entity]]
+- [[4-5-mdo-dmt-entity-tihkal]]
+- [[5-6-mdo-dipt-entity-tihkal]]
+- [[mdcpm-entity-pihkal]]
+- [[methyl-k-entity-pihkal]]

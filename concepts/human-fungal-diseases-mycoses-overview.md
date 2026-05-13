@@ -1,22 +1,6 @@
 # Human Fungal Diseases (Mycoses) Overview
 
-[[blesching-cannabis-fungal-infections-candida]] of humans, collectively known as mycoses, represent a
-fascinating and often underappreciated dimension of infectious disease.
-While bacteria and viruses dominate popular awareness of pathogens,
-fungi are remarkably capable colonizers of human tissue. At least 300
-species of fungi have been documented as capable of infecting human
-beings, a number that continues to grow as medical mycology advances and
-as growing populations of immunocompromised patients create new
-opportunities for opportunistic organisms.
-
-## Classification of Mycoses
-
-Mycoses are generally classified by the depth and tissue involvement of
-the infection. Superficial mycoses affect only the outermost layers of
-skin and hair, while cutaneous mycoses penetrate deeper into the
-epidermis, nails, and hair shafts. Subcutaneous mycoses involve the
-dermis and subcutaneous tissues, and systemic (deep) mycoses spread to
-internal organs. A fifth category, [[bloomfield-cryptococcus-neoformans-opportunistic-mycoses-aids]], targets
+[[bloomfield-cryptococcus-neoformans-opportunistic-mycoses-aids]], targets
 individuals with weakened immune systems and has become increasingly
 significant with the rise of HIV/AIDS, organ transplantation, and
 chemotherapy. Each category presents distinct clinical challenges and
@@ -24,16 +8,7 @@ requires different therapeutic approaches.
 
 ## Dermatophytes and Ringworm
 
-Dermatophytes are among the most common [[bloomfield-fungal-pathogens-and-parasites]] of humans.
-These fungi belong to three genera — *Trichophyton*, *Microsporum*, and
-*Epidermophyton* — and cause infections collectively known as
-tinea or ringworm. Despite the common name, no worm is involved; the
-condition takes its name from the raised, ring-shaped lesions that form
-on the skin as the fungus colonizes keratinized tissue. Different species
-target different body regions: tinea capitis affects the scalp, tinea
-pedis (athlete's foot) affects the feet, tinea cruris (jock itch)
-affects the groin, and tinea unguium attacks the nails. Dermatophytes
-secrete keratinases that [[query-can-fungi-break-down-plastic-pollution]] the structural protein keratin in
+Dermatophytes are among the most common [[query-can-fungi-break-down-plastic-pollution]] the structural protein keratin in
 skin, hair, and nails, allowing the fungus to extract nutrients from
 these normally resilient tissues.
 
@@ -67,16 +42,7 @@ require surgical intervention or even amputation if not caught early.
 
 ## Systemic Mycoses
 
-[[systemic-fungal-pathogens-vertebrate-ecology]] infections are the most dangerous category, as they
-involve the internal organs and can be life-threatening. *Cryptococcus
-neoformans* is a particularly significant pathogen that causes
-cryptococcal meningitis, an infection of the membranes surrounding the
-brain. This yeast is found in soil contaminated with pigeon droppings
-and is inhaled as airborne cells. In healthy individuals the infection
-is usually contained, but in immunocompromised patients — particularly
-those with HIV/AIDS — it can disseminate to the central nervous system
-with devastating consequences. Aspergillosis, caused by *Aspergillus*
-species, is another severe systemic infection. *[[aspergillus-fumigatus]]*
+[[aspergillus-fumigatus]]*
 spores are ubiquitous in the environment and are inhaled daily. In
 immunocompromised patients, these spores can germinate in the lungs,
 forming invasive hyphal networks that destroy lung tissue and can spread
@@ -118,8 +84,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[doc]]
 - [[dom]]
-- [[spore]]
 - [[mycology]]
 - [[fungal-fruit-tree-diseases]]

@@ -77,18 +77,8 @@ mertensii*.
 ### Anemone Symbiosis
 
 The relationship between clownfish and host anemones is a classic model of
-obligate mutualism. The fish gains shelter and [[fukuoka-natural-predator-protection]] from the
-anemone's nematocyst-laden tentacles. In return, the fish defends the
-anemone from predators, removes parasites, and provides nutrient-rich waste
-that supplements the anemone's diet.
-
-Clownfish achieve immunity to anemone stings through a behavioral
-acclimation process. Juveniles perform a carefully choreographed "dance"
-against tentacle tips, progressively increasing contact duration over
-several hours. A specialized mucus coating on the fish's skin, differing in
-glycoprotein composition from non-symbiotic fish, prevents nematocyst
-discharge.
+obligate mutualism. The fish gains shelter and [[md-family-structure-activity]]
+- [[shamanic-entheogenic-ceremony-structure-common-elements]]
 
 ## See Also
-- [[md-family-structure-activity]]
-- [[shamanic-entheogenic-ceremony-structure-common-elements]]
+- [[metzner-three-features-shamanic-entheogenic-ceremonies]]

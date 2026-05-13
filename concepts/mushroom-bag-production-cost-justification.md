@@ -6,17 +6,7 @@ type: concept
 
 # Mushroom Substrate Bag Production Cost Justification
 
-Detailed cost breakdown for producing [[mushroom-substrate-bags]], based on Mr. Satit's recommendations with February 2000 prices (Thai Baht). Data drawn from Annex 4 (complete cost per bag) and Annex 5 (detailed justifications).
-
-## Annex 4: Complete Cost per Bag
-
-### Materials
-
-| # | Item | Cost (Baht) |
-|---|------|-------------|
-| 1 | Sawdust | 0.76 |
-| 2 | PP Bags | 0.24 |
-| 3 | [[jadam-rice-bran-problems]] | 0.23 |
+Detailed cost breakdown for producing [[jadam-rice-bran-problems]] | 0.23 |
 | 4 | Gypsum | 0.06 |
 | 5 | Limestone | 0.03 |
 | 6 | Magnesium sulfate | 0.02 |
@@ -32,70 +22,7 @@ Detailed cost breakdown for producing [[mushroom-substrate-bags]], based on Mr. 
 
 | Item | Cost (Baht) |
 |------|-------------|
-| [[oyster-mushroom-bag-preparation-and-pasteurization]] labor | 0.30 |
-| Pasteurization | 0.07 |
-| Inoculation | 0.05 |
-| Transportation on farm | 0.03 |
-| Incubation | 0.10 |
-| **Total labor** | **0.55** |
-| **Materials + labor subtotal** | **2.52** |
-
-### Other Costs and Overhead
-
-| Item | Cost (Baht) |
-|------|-------------|
-| Contamination (5%) | 0.13 |
-| Water | 0.00 |
-| Electricity | 0.00 |
-| Unforeseen | 0.23 |
-| **Subtotal** | **2.88** |
-| Overhead (20%) | 0.58 |
-| **Total cost per bag** | **3.46** |
-
-> **Sales price** = 20% overhead + 17% profit = **3.95 Baht per bag**
-
-## Annex 5: Detailed Cost Justifications
-
-### 1. Sawdust — 0.76 Baht/bag
-982.39 Baht/ton. 100 kg produces 130 bags.
-`Cost = (982.39 / 1000) × 100 / 130 = 0.7557 Baht/bag`
-
-### 2. PP Bags — 0.24 Baht/bag
-47 Baht/kg, ~200 bags/kg.
-`Cost = 47 / 200 = 0.235 Baht/bag`
-
-### 3. Rice Bran — 0.23 Baht/bag
-5 Baht/kg, 6 kg per 100 kg sawdust.
-`Cost = 6 × 5 / 130 = 0.2308 Baht/bag`
-
-### 4. Gypsum — 0.06 Baht/bag
-100 Baht/25 kg bag (4 Baht/kg). 2 kg per 100 kg sawdust.
-`Cost = 4 × 2 / 130 = 0.0615 Baht/bag`
-
-### 5. Limestone — 0.03 Baht/bag
-4 Baht/kg, 1 kg per 100 kg sawdust.
-`Cost = 4 / 130 = 0.0308 Baht/bag`
-
-### 6. Magnesium Sulfate — 0.02 Baht/bag
-300 Baht/25 kg bag (12 Baht/kg). 0.2 kg per 100 kg sawdust.
-`Cost = 12 × 0.2 / 130 = 0.0185 Baht/bag`
-
-### 7. Spawn — 0.16 Baht/bag
-5 Baht/bottle, 30 bags per bottle.
-`Cost = 5 / 30 = 0.167 Baht/bag`
-
-### 8. Plastic Neck — 0.14 Baht each
-
-### 9. Fuel — 0.26 Baht/bag
-Corn cob 900 Baht/ton + wood 2,000 Baht/ton = 2,900 Baht total for 11,216 bags.
-`Cost = 2,900 / 11,216 = 0.2586 Baht/bag`
-
-### 10. Cotton — 0.01 Baht/bag
-13 Baht/kg, ~1,000 bags/kg.
-`Cost = 13 / 1000 = 0.013 Baht/bag`
-
-### 11. Rubber Bands — 0.02 Baht/bag
-37 Baht/kg, ~3,150 pieces/kg. 2 per [[mushroom-bag-inoculation-short-needle-vs-long-needle]].
+| [[mushroom-bag-inoculation-short-needle-vs-long-needle]].
 `Cost = (37 / 3150) × 2 = 0.0235 Baht/bag`
 
 ### 12. Alcohol — 0.04 Baht/bag
@@ -140,3 +67,84 @@ Water and electricity are listed at 0.00 Baht per bag because they are freely av
 ## Summary
 
 Total production cost is 3.46 Baht per bag, sold at 3.95 Baht for a 17% profit margin. The three most impactful areas for cost optimization are sourcing low-cost sawdust, substituting free fuel, and keeping contamination at or below 5%. The per-item justifications in Annex 5 provide transparent, reproducible calculations that producers can adjust based on local market prices.
+
+## Overview
+
+Mushroom Bag Production Cost Justification represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish mushroom bag production cost justification
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving mushroom extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Mushroom Bag Production Cost Justification finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for mushroom bag production cost justification. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+mushroom bag production cost justification and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Mushroom Bag Production Cost Justification has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of mushroom bag production cost justification into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[classic-mushroom-recipes-traditional-preparations]]

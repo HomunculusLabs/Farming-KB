@@ -17,21 +17,7 @@ the season, allow a few fruits to grow into squashes.
 Good zucchini varieties include Zucchini and the yellow Orelia. One
 Ball produces round, yellow fruit. Long Green is a fine trailing
 variety. All squashes prefer a pH of about 6.0. Dig in plenty of
-compost or manure before planting. In the [[animal-manure-guide]]
-fertilizer from midsummer until harvesting. Pinch off tops when plants
-reach the top of the poles. Trim sideshoots back to two leaves to
-encourage compact, bushy growth. Cut fruits when no more than 6in
-(15cm) long for zucchinis; up to 15in (35cm) for mature squashes.
-
-## Growing Cucumbers in the Greenhouse
-
-Greenhouse cucumber varieties are sweet-tasting, vigorous, resistant
-to disease, and all-female. Hana produces abundant short fruits, Carmen
-is very heavy cropping, Cumlaude RZ grows in unheated greenhouses, and
-Athene suits slightly cooler conditions. All share the same and humidity requirements as tomatoes, so they can share the greenhouse.
-
-Sow from midwinter if the greenhouse can be heated to about 50 degrees
-F (10 degrees C), or in mid-spring for a [[coleman-cold-house-wind-protection-microclimate]]. Sow individually
+compost or manure before planting. In the [[coleman-cold-house-wind-protection-microclimate]]. Sow individually
 in 3in (8cm) pots at 75 to 80 degrees F (24 to 27 degrees C) in a
 propagator. When germinated, move to 60 to 65 degrees F (15 to 18
 degrees C). Prepare the border soil and plant as for tomatoes. Handle
@@ -47,28 +33,10 @@ stem; remove any fruit that forms on sideshoots of these types.
 ## Melons
 
 Melons ([[hamilton-greenhouse-management-organic]]
-- [[hamilton-greenhouse-management-organic]]
 
 ## See Also
 
-- [[hamilton-bulb-vegetables-onion-family-organic]]
-## Practical Considerations
-
-When working with Hamilton Squash Vegetables Organic, several practical factors should be
-carefully considered to achieve optimal results. These include
-the specific conditions of the implementation context, available
-resources, timing requirements, and the interactions between this
-topic and other elements of the broader system. A holistic view
-that considers these interconnections produces better outcomes.
-
-Environmental conditions such as temperature, moisture, and
-seasonal patterns significantly influence results. Monitoring these
-variables and adapting practices accordingly is essential for success.
-The most effective practitioners develop keen observation skills and
-respond flexibly to changing conditions rather than following rigid
-protocols regardless of circumstances or local variation.
-
-[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
+- [[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -111,8 +79,6 @@ through generations to modern scientific approaches, the evolution continues
 to inform current best practices and research directions.
 
 ## See Also
-- [[doc]]
 - [[hamilton-fruit-vegetables-organic]]
-- [[hamilton-salad-vegetables-organic]]
 - [[hamilton-bulb-vegetables-onion-family-organic]]
 - [[hamilton-pod-seed-vegetables-organic]]

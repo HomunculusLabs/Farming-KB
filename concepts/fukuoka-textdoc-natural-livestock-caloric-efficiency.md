@@ -12,11 +12,8 @@ type: concept
 
 # Natural Livestock Caloric Efficiency: Bantam vs Leghorn
 
-Fukuoka presents a devastating caloric accounting of [[fukuoka-critique-modern-livestock-fisheries]] farming,
-contrasting the [[fukuoka-textdoc-energy-efficiency-agricultural-labor]] of traditional free-range poultry with industrial
-caged systems. His comparison of the [[fukuoka-textdoc-japanese-bantam-leghorn-calorie-efficiency-chicken]] with the White Leghorn
-illustrates a broader principle: that natural, self-sufficient animal husbandry is
-vastly more [[cervantes-case-study-energy-efficient-sea-of-green]] than artificially intensified production.
+Fukuoka presents a devastating caloric accounting of [[fukuoka-textdoc-energy-efficiency-agricultural-labor]] of traditional free-range poultry with industrial
+caged systems. His comparison of the [[cervantes-case-study-energy-efficient-sea-of-green]] than artificially intensified production.
 
 ## The Caloric Cost of Eating Above the Food Chain
 
@@ -79,47 +76,6 @@ enclosures is the only workable approach to mass production. They are convinced 
 this is intelligent, economical livestock farming. The very opposite is true.
 
 Artificial livestock practices consisting essentially of the conversion of feed into
-eggs, milk, or meat are actually very [[fukuoka-textdoc-energy-wasteful-modern-agriculture]]. The larger and more highly
-improved the breed of animal being raised, the greater the energy input required and
-the greater the effort and pains that must be taken by the farmer.
-
-## Land Requirements by Diet Type
-
-Fukuoka provides a striking calculation of the land required to support one human
-being under different dietary regimes:
-- Grains: 200 square yards
-
-## Practical Applications
-
-The principles and techniques discussed here have wide-ranging applications
-across multiple disciplines and contexts. Practitioners and researchers
-continue to explore new ways to integrate these concepts into modern practice,
-adapting traditional knowledge to contemporary challenges and opportunities.
-
-## Key Considerations
-
-Several important factors influence the effectiveness and outcomes described
-in this topic. Understanding these considerations helps practitioners make
-informed decisions and avoid common pitfalls. Environmental conditions,
-timing, and material selection all play critical roles.
-
-## Historical Context
-
-The historical development of this subject reflects centuries of accumulated
-knowledge and practical experience. From traditional methods passed down
-through generations to modern scientific approaches, the evolution continues
-to inform current best practices and research directions.
-
-## Common Challenges
-
-Practitioners frequently encounter several challenges when working with
-these concepts. Climate variability, resource limitations, and knowledge
-gaps can all affect outcomes. Addressing these challenges requires patience,
-observation, and a willingness to adapt approaches based on results.
-
-## See Also
-- [[doc]]
-- [[fukuoka-textdoc-livestock-caloric-land-carrying-capacity]]
+eggs, milk, or meat are actually very [[doc]]
 - [[fukuoka-textdoc-natural-livestock-unconditional-truth]]
-- [[fukuoka-textdoc-factory-livestock-abuses-natural-grazing-ideal]]
 - [[fukuoka-textdoc-natural-livestock-forest-pasture-method]]

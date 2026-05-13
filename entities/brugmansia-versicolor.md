@@ -17,37 +17,7 @@ sources:
 
 # Brugmansia versicolor
 
-**Brugmansia versicolor** Lagerh., commonly known as the angel's trumpet or the white angel's trumpet, is a large, woody shrub or small tree in the family Solanaceae. It is native to the coastal and Andean regions of Ecuador and is one of the most spectacular flowering plants in the genus *Brugmansia*. Like all *Brugmansia* species, it contains potent tropane alkaloids and has a significant history of use in traditional [[chiric-caspi-brunfelsia-south-american-hallucinogen]] medicine and shamanic practice. The species is endangered in the wild but widely cultivated as an ornamental plant worldwide.
-
-## Taxonomy and Description
-
-*Brugmansia versicolor* was first described by the Swedish botanist Nils Johan Lagerheim (1860 to 1926) in 1893, based on material collected in Ecuador. The genus *Brugmansia* was formerly included within *Datura* but was elevated to generic rank by the Austrian botanist Hermann von Berchtold and the Czech botanist Jan Svatopluk Presl in 1823, based on its woody growth habit, pendant (nodding) flowers, and indehiscent fleshy fruits, in contrast to the herbaceous habit, erect flowers, and dehiscent capsular fruits of *Datura*. The genus is named after Hieronymus van Brugmans (1730 to 1819), an 18th-century Dutch professor of natural history at Leiden University.
-
-The genus *Brugmansia* contains approximately seven to nine recognized species, all native to South America. The genus is divided into two informal groups based on flower morphology: the warm group (including *B. versicolor*, *B. suaveolens*, and *B. insignis*), which has flowers that are white to pink or yellow and are pollinated by long-tongued moths; and the cold group (including *B. arborea*, *B. sanguinea*, and *B. vulcanicola*), which has flowers that are pink, red, or orange and are pollinated by hummingbirds. *Brugmansia versicolor* belongs to the warm group.
-
-*Brugmansia versicolor* is an evergreen or semi-evergreen woody shrub that typically reaches 3 to 5 meters in height, though specimens in ideal conditions in the wild may grow to 8 meters or more. In cultivation, it is usually maintained at 2 to 4 meters. The stems are woody, branching, and covered with a smooth, grayish-brown bark that becomes fissured and rough with age. The younger branches are green and slightly pubescent.
-
-The leaves are large (15 to 30 cm long, 8 to 18 cm wide), ovate to broadly elliptic, with entire or slightly wavy margins, and are covered with fine soft pubescence (tomentose to velvety) on both surfaces, particularly on the undersides. The leaves are alternate, with a stout petiole 3 to 8 cm long. The foliage has a distinctive musky or slightly unpleasant odor when crushed.
-
-The flowers are the most remarkable feature of the species and are among the largest and most spectacular in the genus *Brugmansia* and indeed in the entire family Solanaceae. They are pendant (hanging downward), trumpet-shaped, and can reach an extraordinary 30 to 50 cm in length and 15 to 25 cm in diameter at the mouth. Newly opened flowers are white or cream-colored, aging over the course of 2 to 3 days to a soft peach, salmon-pink, or apricot tone. This progressive color change with age is the basis for the specific epithet "versicolor" (Latin for "variously colored" or "changing color"). The color transformation is caused by the accumulation of anthocyanin pigments in the petal cells as the flower matures.
-
-The calyx is tubular, approximately 5 to 8 cm long, 5-toothed, and persistent (it does not fall off with the flower). The corolla tube is long and narrow below, abruptly expanded into a broadly campanulate limb. The flowers are intensely fragrant, especially in the evening and at night, when the fragrance can be detected from a considerable distance. The fragrance is sweet, musky, and somewhat narcotic. The flowers are pollinated by long-tongued sphinx moths (Sphingidae), which are attracted by the strong nocturnal fragrance.
-
-The fruit is a fleshy, spindle-shaped (fusiform) capsule approximately 12 to 20 cm long and 3 to 5 cm in diameter. Unlike the dry, dehiscent capsules of *Datura*, the fruit of *Brugmansia* is fleshy and indehiscent (it does not open to release seeds). The fruit contains numerous flat, reniform (kidney-shaped) seeds approximately 8 to 12 mm long.
-
-## Distribution and Habitat
-
-*Brugmansia versicolor* is endemic to Ecuador, where it occurs in the western Andean foothills and Pacific coastal lowlands at elevations of approximately 200 to 2,000 meters. It is found in moist to wet montane forests (cloud forests), along forest edges, in riparian corridors, and in disturbed areas including pastures, roadsides, and abandoned cultivation. The species is adapted to a tropical to subtropical climate with high humidity, warm temperatures (mean annual temperature 18 to 25°C), and moderate to heavy rainfall (1,000 to 3,000 mm per year) distributed throughout the year or with a brief dry season.
-
-The natural habitat of *Brugmansia versicolor* has been severely reduced by deforestation, agricultural expansion, urbanization, and the conversion of native forest to banana, cacao, and oil palm plantations. The species is classified as Endangered (EN) on the IUCN Red List of Threatened Species. Remaining wild populations are fragmented and small, and the species may be extinct in some parts of its historical range. However, it is widely cultivated as an ornamental plant throughout tropical and subtropical regions worldwide and is common in botanical gardens and private collections, so the species is not at immediate risk of global extinction.
-
-## Chemistry
-
-*Brugmansia versicolor* contains tropane alkaloids typical of the Solanaceae, with [[scopolamine]] (hyoscine) and [[hyoscyamine]] as the principal constituents. The alkaloid profile is generally similar to other *Brugmansia* species, though the relative proportions of scopolamine and hyoscyamine can vary between populations, individuals, and plant parts. Total tropane alkaloid content of the leaves typically ranges from 0.1% to 0.5% of dry weight, with some analyses reporting values up to 1.0% in seed material.
-
-All plant parts — leaves, flowers, seeds, stems, and roots — contain tropane alkaloids. The seeds tend to have the highest concentrations, followed by the leaves and flowers. Minor alkaloids that have been reported from *Brugmansia* species include norhyoscyamine, aposcopolamine, meteloidine, 3-alpha-tigloyloxytropane, and 3-alpha,6-beta-ditigloyloxytropane. The alkaloid content varies seasonally, with concentrations generally highest during active growth and flowering.
-
-The pharmacological properties and toxicity profile of *Brugmansia versicolor* are identical to those of other tropane alkaloid-containing solanaceous plants. These compounds are competitive antagonists of muscarinic acetylcholine receptors. Anticholinergic effects include mydriasis (dilated pupils), cycloplegia, tachycardia, xerostomia (dry mouth), anhidrosis (dry skin), urinary retention, intestinal hypomotility, hyperthermia, and at hallucinogenic doses, delirium, visual and auditory hallucinations, amnesia, and potentially fatal respiratory or cardiac arrest. The plant is extremely dangerous and has been responsible for numerous cases of severe and fatal poisoning worldwide, including cases resulting from [[psilocybin-accidental-ingestion-australia]] of the flowers or leaves by children or from deliberate ingestion for recreational or self-medication purposes.
+**Brugmansia versicolor** Lagerh., commonly known as the angel's trumpet or the white angel's trumpet, is a large, woody shrub or small tree in the family Solanaceae. It is native to the coastal and Andean regions of Ecuador and is one of the most spectacular flowering plants in the genus *Brugmansia*. Like all *Brugmansia* species, it contains potent tropane alkaloids and has a significant history of use in traditional [[scopolamine]] (hyoscine) and [[psilocybin-accidental-ingestion-australia]] of the flowers or leaves by children or from deliberate ingestion for recreational or self-medication purposes.
 
 ## Ethnobotanical and Traditional Use
 
@@ -59,7 +29,7 @@ Internal use involves the preparation of decoctions or infusions of the leaves o
 
 In Andean shamanic practice, *Brugmansia* species are among the most important plants used in the preparation of cimora and other Andean psychoactive brews. *Brugmansia versicolor* may be combined with *Trichocereus pachanoi* (San Pedro cactus) and other plants to produce complex entheogenic preparations used in healing ceremonies (mesadas). The addition of *Brugmansia* to San Pedro preparations is believed by curanderos to potentiate the visionary effects of the mescaline-containing cactus, facilitate deeper trance states, and provide access to specific spiritual realms. However, the tropane alkaloids also significantly increase the risk of dangerous anticholinergic reactions including hyperthermia, tachycardia, and delirium.
 
-The use of *Brugmansia* in Andean [[shamanism]] is declining as younger generations adopt [[fukuoka-eastern-western-medicine-healing-world-crisis]] and as legal restrictions on the plant increase. However, traditional healers in rural communities of Ecuador and Peru continue to maintain knowledge of its preparation and use.
+The use of *Brugmansia* in Andean [[fukuoka-eastern-western-medicine-healing-world-crisis]] and as legal restrictions on the plant increase. However, traditional healers in rural communities of Ecuador and Peru continue to maintain knowledge of its preparation and use.
 
 ## Cultivation
 
@@ -88,3 +58,88 @@ The rationale for adding *Brugmansia* to the San Pedro brew is complex and refle
 ## Cultivation in Temperate Climates
 
 *Brugmansia versicolor* can be grown successfully in temperate climates with proper overwintering techniques. The most common approach is container cultivation: the plant is grown in a large pot (minimum 30 to 50 liters) with a well-draining potting mix rich in organic matter. During the growing season (May to October in the Northern Hemisphere), the plant is kept outdoors in full sun to partial shade and watered and fertilized regularly.
+
+## Overview
+
+Brugmansia Versicolor represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish brugmansia versicolor
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving brugmansia extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Brugmansia Versicolor finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for brugmansia versicolor. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+brugmansia versicolor and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Brugmansia Versicolor has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of brugmansia versicolor into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[brugmansia-candida]]
+- [[brugmansia-entheogens]]
+- [[brugmansia-sanguinea]]
+- [[plants-of-the-gods-brugmansia-angels-trumpet]]
+- [[tree-daturas-brugmansia-south-american-ethnobotany]]

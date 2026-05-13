@@ -22,7 +22,7 @@ enjoyed a legendary reputation for quality among connoisseurs, and Hawaiian
 Wave was developed to preserve and express the finest characteristics of this
 storied lineage. The choice of this particular plant as breeding stock
 reflects the discerning selection process that characterizes dedicated
-cannabis landrace preservation work.
+[[cannabis-landrace-preservation]] work.
 
 ## Pure Tropical Sativa Heritage
 
@@ -39,7 +39,7 @@ influenced by indica or ruderalis genetics.
 
 ## The Rev's Appreciation
 
-In *Cannabis Sativa Vol 3*, S.T. Oner captures The Rev's deep appreciation
+In *[[cannabis-sativa]] Vol 3*, S.T. Oner captures The Rev's deep appreciation
 for Hawaiian cannabis through enthusiastic endorsement of Hawaiian Wave. As
 The Rev expresses, "Hawaiian Wave gives me all this and so much more,"
 conveying a sense that the strain delivers beyond expectations, combining
@@ -67,30 +67,9 @@ aromatically complex.
 Hawaiian cannabis has a breeding tradition stretching back decades, rooted in
 the islands' unique agricultural history. Cannabis was introduced through
 multiple waves of migration and trade, with significant genetics arriving from
-Southeast Asia, Central and South America, and other [[fukuoka-natural-farming-in-tropical-regions]]. Over
-time, these varieties adapted to Hawaii's volcanic soil, tropical climate, and
-island isolation, developing into distinctive local populations. The Hawaiian
-environment — year-round warmth, abundant rainfall, and rich volcanic soils —
-provided ideal conditions for sativa genetics to flourish and diversify.
-
-## Island Isolation and Unique Phenotypes
-
-The geographic isolation of the Hawaiian Islands played a crucial role in
-shaping unique phenotypes. Separated by thousands of miles of ocean from
-continental landmasses, Hawaiian [[cervantes-landrace-cannabis-populations]] experienced genetic drift
+Southeast Asia, Central and South America, and other [[cervantes-landrace-cannabis-populations]] experienced genetic drift
 and local adaptation relatively free from the mixing that characterized
-[[arbuscular-mycorrhizal-fungi-cannabis-cultivation]] in more connected regions. This isolation allowed
-distinctive traits to become established and amplified, creating localized
-phenotypes that distinguish Hawaiian landrace genetics from continental
-counterparts. The result is cannabis that, while sharing broad tropical sativa
-characteristics, possesses specific qualities uniquely Hawaiian.
-
-## Sweet Tropical Flavor Profile
-
-Hawaiian Wave carries the sweet tropical flavor profile typical of island-grown
-sativas. The aromatic profile features tropical fruit, citrus, and floral
-undertones, often with distinctive sweetness reflecting terpene compositions
-favored by the Hawaiian [[cannabis-growing-environment-setup]]. This flavor profile is deeply
+[[cannabis-growing-environment-setup]]. This flavor profile is deeply
 connected to the strain's genetic heritage and the conditions under which its
 ancestors were cultivated, contributing significantly to the sensory experience
 that has made Hawaiian cannabis sought after by connoisseurs worldwide.

@@ -18,26 +18,7 @@ infusing food with cannabis, using decarboxylation as a necessary first step bef
 moving on to butter and oil infusion techniques, dosing strategies, and the unique
 pharmacology of orally consumed cannabis.
 ## Decarboxylation Chemistry
-comparison [[neo-shamanic-phenomenology-and-limits-of-science]] | Detailed molecular-level explanation | Basic, sufficient for cooking |
-| Scope | Single reaction (decarboxylation) | Full workflow from prep to consumption |
-| Temperature guidance | 110-130C optimal range | 115C (240F) practical recommendation |
-| Pharmacokinetics | Chemical conversion rates | Onset, duration, 11-hydroxy-THC effects |
-| Target audience | Extractors, chemists, advanced users | Home cooks, casual consumers |
-| Prerequisite knowledge | Basic chemistry helpful | None required |
-| Product outcomes | Activated cannabinoids for any use | Infused foods and beverages |
-## When to Choose Decarboxylation Chemistry
-Decarboxylation chemistry is the better reference for anyone who needs precise control
-over the activation of cannabinoids, whether for producing tinctures, capsules, topicals,
-or any product where accurate cannabinoid content is important. Extractors who perform
-ethanol or BHO runs need to understand decarboxylation because it can occur during
-solvent removal, potentially affecting the final product's cannabinoid profile. Knowing
-the exact temperature and time parameters helps extractors decide whether to decarboxylate
-before extraction, during solvent removal, or as a separate post-extraction step.
-The chemistry guide is also essential for producers working with CBD-dominant material
-who need to ensure complete conversion of CBDA to CBD before further processing. The
-Beam test protocol for detecting CBD presence, covered in the chemistry guide, provides
-a practical verification method that kitchen-focused guides do not address. For anyone
-engaged [[query-how-to-make-cannabis-tinctures-at-home]] without needing to understand the underlying chemistry in depth. The practical,
+comparison [[query-how-to-make-cannabis-tinctures-at-home]] without needing to understand the underlying chemistry in depth. The practical,
 step-by-step approach to decarboxylation, infusion, and recipe preparation makes the
 process accessible to cooks of all skill levels. The dosing guidance is particularly
 valuable for new consumers who may not be familiar with the delayed onset and prolonged
@@ -45,13 +26,7 @@ duration of orally consumed cannabis, helping them avoid the common mistake of c
 too much when effects seem slow to arrive.
 The edibles guide also serves as a creative resource for experienced cooks who want to
 expand their repertoire beyond basic cannabutter. Different infusion methods, flavor
-pairing strategies, [[hamilton-greenhouse-heating-and-temperature-control]], then follow the edibles guide for infusion,
-recipes, and dosing. Understanding why decarboxylation matters chemically helps
-troubleshoot problems like weak potency or off-flavors, while practical kitchen guidance
-ensures the final product is palatable and consistently dosed. This combined knowledge
-is especially valuable for medical patients requiring precise, repeatable dosing.
-## See Also
-- [[comparison-cannabis-extraction-basics-vs-extraction-methods]]
+pairing strategies, [[comparison-cannabis-extraction-basics-vs-extraction-methods]]
 ## Practical Considerations
 
 When working with Decarboxylation Chemistry vs Edibles Guide, several practical factors should be

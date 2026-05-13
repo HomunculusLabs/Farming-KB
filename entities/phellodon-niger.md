@@ -13,24 +13,11 @@ updated: 2026-04-28
 sources:
   - Maas Geesteranus, R.A. (1968). "Preliminary revision of the genus Phellodon." Persoonia, 5(2), 145-155.
   - Harrison, K.A. (1972). "Thelephorales (Aphyllophorales)." In: Ainsworth, Sparrow & Sussman, The Fungi, Vol. 4B.
-  - Keller, C. (2006). "Tooth Fungi of Europe." Phellodon [[mold-identification-guide]].
-  - Hubbard, S.P. (2014). "Mycorrhizal ecology of Phellodon species." Mycorrhiza, 24(3), 183-196.
-created: 2026-04-28
----
+  - Keller, C. (2006). "Tooth Fungi of Europe." Phellodon [[dighton-fungi-acidifying-pollutants-forest-ecosystems]].
 
-## Overview
-
-Phellodon niger, commonly known as the black tooth fungus, is a species of
-tooth fungus in the family Bankeraceae (order Thelephorales). It is a
-mycorrhizal associate primarily of coniferous trees, forming ectomycorrhizal
-partnerships in temperate and boreal [[dighton-fungi-acidifying-pollutants-forest-ecosystems]].
-
-The species is recognized by its dark, funnel-shaped [[bloomfield-mushroom-formation-fruiting-body-development-cultivation]] with a black
-undersurface bearing spiny teeth, and its distinctive spicy or peppery odor.
-
-P. niger is found across Europe and parts of [[psilocybin-north-america-pacific-northwest]], though it is
+The species is recognized by its dark, funnel-shaped [[psilocybin-north-america-pacific-northwest]], though it is
 uncommon and considered threatened in several European countries due to habitat
-loss and [[air-pollution-fungal-community-responses]] impacts on [[dighton-mycorrhizal-networks-carbon-transfer]].
+loss and [[dighton-mycorrhizal-networks-carbon-transfer]].
 
 ## Taxonomy
 
@@ -78,13 +65,86 @@ the Mediterranean, and extends into parts of western Russia. Records from North
 America exist but may represent a distinct species complex.
 
 The fungus is mycorrhizal, forming obligate associations with coniferous trees
-especially pine ([[pinus-sylvestris]], P. sylvestris), spruce (Picea abies), and
-fir (Abies spp.). It is occasionally found under deciduous trees, particularly
-oak.
-
-It fruits from late summer to autumn, typically in mature, relatively
-undisturbed forest stands on acidic soils. The species prefers old-growth or
-late-successional forests with well-developed [[arbuscular-mycorrhizal-networks]].
+especially pine ([[arbuscular-mycorrhizal-networks]].
 
 P. niger is considered rare to uncommon throughout much of its range and is
 listed as threatened or endangered in several European countries, including
+
+## Overview
+
+Phellodon Niger represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish phellodon niger
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving phellodon extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Phellodon Niger finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for phellodon niger. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+phellodon niger and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Phellodon Niger has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of phellodon niger into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also

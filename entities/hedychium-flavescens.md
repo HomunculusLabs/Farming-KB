@@ -19,11 +19,11 @@ sources:
 
 ## Overview
 
-**Hedychium flavescens** is a perennial rhizomatous herb in the family Zingiberaceae, commonly known as the yellow ginger lily or creamy ginger lily. It is closely related to the more widely cultivated white ginger lily (*Hedychium coronarium*) and shares many ornamental and ecological characteristics.
+**Hedychium flavescens** is a perennial rhizomatous herb in the family Zingiberaceae, commonly known as the yellow ginger lily or creamy ginger lily. It is closely related to the more widely cultivated white ginger lily (*[[hedychium-coronarium]]*) and shares many ornamental and ecological characteristics.
 
 The species produces dense spikes of fragrant, pale yellow to cream-colored flowers. It has become naturalized and invasive in several tropical and subtropical regions, particularly in Hawai'i, New Zealand, and parts of Australia.
 
-Despite its invasive tendencies, *H. flavescens* has a long history of use in traditional medicine across the Himalayan region and Southeast Asia. Its rhizomes contain [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]] with documented anti-inflammatory and [[mycelium-running-mushroom-antimicrobial-properties-species-chart]].
+Despite its invasive tendencies, *H. flavescens* has a long history of use in traditional medicine across the Himalayan region and Southeast Asia. Its rhizomes contain [[mycelium-running-mushroom-antimicrobial-properties-species-chart]].
 
 ## Taxonomy and Morphology
 
@@ -45,11 +45,7 @@ Pollination is primarily carried out by butterflies and long-tongued moths attra
 
 *Hedychium flavescens* is native to the eastern Himalayas, with its primary range extending from Nepal and northern India through Bhutan, Bangladesh, and Myanmar into southern China (Yunnan, Guangxi). It grows naturally in subtropical montane forests at elevations of 600–2000 meters.
 
-The species prefers moist, shaded or semi-shaded environments along stream banks, forest margins, and disturbed areas. It thrives in rich, well-draining loamy soils with high [[hamilton-composting-and-organic-matter-management]] content and consistent moisture.
-
-Outside its native range, *H. flavescens* has become widely naturalized. In Hawai'i, it is considered a significant invasive species in mesic to wet forests on Kaua'i, Maui, and the Big Island. It forms dense monocultures that displace native understory vegetation.
-
-Naturalized populations also occur in New Zealand, eastern Australia, southern Africa, and several Pacific islands. The combination of ornamental planting and aggressive rhizomatous spread has facilitated its establishment across disparate [[permaculture-designers-manual-climatic-zones-tropical]].
+The species prefers moist, shaded or semi-shaded environments along stream banks, forest margins, and disturbed areas. It thrives in rich, well-draining loamy soils with high [[permaculture-designers-manual-climatic-zones-tropical]].
 
 Rainfall requirements are moderate to high, with optimal growth above 1500 mm annually. The species tolerates brief dry periods through dormancy of above-ground growth while the rhizome remains viable underground.
 
@@ -73,7 +69,7 @@ The rhizomes of *H. flavescens* contain a profile of bioactive compounds typical
 
 Essential oil analysis reveals a complex mixture dominated by monoterpenes and sesquiterpenes. β-pinene, 1,8-cineole, and α-terpineol are among the major volatile constituents identified through gas chromatography studies.
 
-Ethanol and methanol extracts of the rhizome demonstrate significant antimicrobial activity against both Gram-positive and Gram-negative bacteria. Activity against *Staphylococcus aureus* and *Escherichia coli* has been documented in multiple in vitro studies.
+Ethanol and methanol extracts of the rhizome demonstrate significant antimicrobial activity against both Gram-positive and Gram-negative bacteria. Activity against *[[staphylococcus-aureus]]* and *Escherichia coli* has been documented in multiple in vitro studies.
 
 Anti-inflammatory activity has been demonstrated through inhibition of cyclooxygenase (COX) enzymes and reduction of pro-inflammatory cytokines in cell-based assays. These findings support the traditional use of *H. flavescens* rhizome preparations for inflammatory conditions.
 

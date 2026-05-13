@@ -3,19 +3,8 @@ title: Four Hydroxyindole Psilocin Synthesis Route Shirota
 source: concise-large-scale-synthesis-of-psilocin-and-psilocybin-shirota-hakamata-goda.md
 topic: tryptamine_chemistry
 related:
-  - [[4-hydroxyindole-tryptamine-synthesis-building-block]].md
   - [[acetyl-protection-route-psilocin-psilocybin-synthesis]].md
-  - [[glyoxalylamide-intermediate-in-tryptamine-synthesis]].md
-created: 2026-05-09
----
-
-# 4-Hydroxyindole as Starting Material for Psilocin Synthesis
-
-## Overview
-
-Shirota, Hakamata, and Goda's 2003 paper in the *Journal of Natural
-Products* describes a concise, large-scale synthesis of psilocin and
-[[psilocybin]] that achieves gram-scale production without chromatographic
+  - [[psilocybin]] that achieves gram-scale production without chromatographic
 purification. The synthesis begins from commercially available
 4-hydroxyindole and proceeds through a four-step sequence for psilocin
 followed by a phosphorylation step for psilocybin. The choice of
@@ -47,8 +36,7 @@ then stirred for 2 hours at room temperature. The product,
 4-acetylindole (4), is obtained as ivory white crystals after
 workup and filtration in constant yield (34 g scale).
 
-The [[shirota-4-hydroxyindole-acetyl-protection-experimental]] route was chosen over the benzyl ether
-protection used by Nichols and Frescas. While [[shirota-acetyl-versus-benzyl-protection-psilocin-synthesis-stability-forensic-standards]]
+The [[shirota-acetyl-versus-benzyl-protection-psilocin-synthesis-stability-forensic-standards]]
 was also explored, "a separate step was needed for its
 deprotection." The acetyl group, by contrast, is removed
 during the subsequent LiAlH4 reduction step, eliminating the
@@ -118,8 +106,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[psilocin]]
 - [[psilocybin]]
-- [[indole]]
 - [[tryptamine]]
 - [[acetic-anhydride]]

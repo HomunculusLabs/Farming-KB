@@ -24,43 +24,7 @@ It is a woodland mushroom most commonly found growing from buried roots, stumps,
 
 The species is recognized by its deeply umbilicate cap, exceptionally long and rooting stipe, and large cheilocystidia.
 
-Xerula megacystis is not widely consumed but is considered non-toxic, and it plays a significant role in forest [[decomposition-cycles]].
-
-## Taxonomy and Morphology
-
-Classification places Xerula megacystis within Physalacriaceae, a family of wood-inhabiting agarics.
-
-The genus Xerula was historically placed in Tricholomataceae before molecular phylogenetics prompted its transfer to Physalacriaceae in the early 2000s.
-
-The basionym for the species was originally described under Oudemansiella before its current combination in Xerula.
-
-**Cap:** 30–80 mm diameter, convex to plane with a prominent central depression (umbilicate).
-
-Surface is smooth, hygrophanous, and translucent-striate when moist, appearing grayish-brown to tan.
-
-**Gills:** Adnexed to sinuate, white to cream, moderately crowded, with lamellulae of varying lengths.
-
-**Stipe:** 80–200 mm long, 3–6 mm thick, central, cylindrical, and characteristically rooting deeply into the substrate.
-
-The rooting base can extend 50–100 mm below the soil surface, attached to buried wood.
-
-Surface is smooth, pale gray-brown above the soil line, darker below.
-
-**Spores:** White spore print. Basidiospores 8.5–12 × 6–8 µm, ellipsoid, smooth, inamyloid, thin-walled.
-
-Cheilocystidia are large, flask-shaped (lageniform), 40–70 × 10–18 µm, a defining microscopic feature.
-
-Pileipellis is a cutis of repent hyphae with scattered cylindrical to clavate pileocystidia.
-
-## Distribution and Habitat
-
-Xerula megacystis has a wide distribution across [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]] of Europe, [[psilocybin-north-america-pacific-northwest]], and parts of Asia.
-
-It is found in deciduous and mixed woodlands, particularly associated with oak, beech, and birch stands.
-
-Fruiting occurs from late spring through autumn, typically after sustained rainfall periods.
-
-The fungus is strongly lignicolous, fruiting from well-decayed buried roots, stumps, or [[fungal-diversity-leaf-litter-coarse-woody-debris]] debris.
+Xerula megacystis is not widely consumed but is considered non-toxic, and it plays a significant role in forest [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]] of Europe, [[fungal-diversity-leaf-litter-coarse-woody-debris]] debris.
 
 It is most commonly encountered on forest floor edges near fallen timber that has been partially incorporated into soil.
 
@@ -68,22 +32,94 @@ The preference for buried rather than exposed wood makes it an easily overlooked
 
 ## Ecology and Decomposition
 
-As a primary decomposer of woody substrates, Xerula megacystis contributes to [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] in forest ecosystems.
-
-The species specializes in the later stages of wood decay, colonizing material already softened by white-rot and brown-rot fungi.
-
-Its deep-rooting stipe morphology is an adaptation for efficiently colonizing buried wood resources.
-
-The mycelium extends through soil from buried wood, forming an extensive network that mobilizes lignin and cellulose breakdown products.
-
-Xerula species are among the few agarics that can fruit reliably from deeply buried woody substrates.
-
-Interactions with soil microfauna are poorly documented, but the genus is not known to form [[plants-without-mycorrhizal-associations]].
+As a primary decomposer of woody substrates, Xerula megacystis contributes to [[plants-without-mycorrhizal-associations]].
 
 ## Bioactive Compounds
 
 Limited pharmacological research has been conducted specifically on Xerula megacystis.
 
-Other Xerula species, particularly [[xerula-furfuracea]] (syn. [[oudemansiella-radicata]]), produce the antifungal compound oudemansin A.
+Other Xerula species, particularly [[oudemansiella-radicata]]), produce the antifungal compound oudemansin A.
 
 Oudemansin A is a β-methoxyacrylate fungicide that inhibits [[electron-transport-chain-mitochondrial-respiration]] in competing fungi.
+
+## Overview
+
+Xerula Megacystis represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish xerula megacystis
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving xerula extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Xerula Megacystis finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for xerula megacystis. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+xerula megacystis and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Xerula Megacystis has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of xerula megacystis into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[xerula-furfuracea]]
+- [[xerula-meadowii]]

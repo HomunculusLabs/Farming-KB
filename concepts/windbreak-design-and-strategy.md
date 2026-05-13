@@ -138,6 +138,9 @@ Select species with these physical characteristics for wind-exposed positions:
 7. **Monitor and adapt** — Replace failed species, fill gaps, and adjust density as the system matures.
 
 ## See Also
-- [[permaculture-windbreak-design-species]]
-- [[query-how-do-i-design-a-windbreak-or-shelterbelt-for-my-property]]
-- [[windbreak-design-and-livestock-shelter]]
+
+- [[bill-mollison-permaculture-a-designers-manual-windbreak-design-and-shelter]]
+- [[windbreak-design-griggs-putnam-index]]
+- [[desert-hedge-windbreak-species]]
+- [[query-what-is-the-difference-between-a-hedgerow-and-a-windbreak]]
+- [[windbreak-design-establishment]]

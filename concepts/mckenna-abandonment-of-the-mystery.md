@@ -12,31 +12,7 @@ sources:
 
 ## Four Stages of Loss
 
-In the absence of a partnership community and with the loss of the psychoactive plants that catalyze and maintain partnership, nostalgia for paradise appears quite naturally in a dominator society. The abandonment of the original catalyst for the emergence of self-reflection and language — the [[mckenna-stropharia-cubensis-extraterrestrial-hypothesis-spore-dispersal]] psilocybin-containing mushroom — has been a process with four distinct stages. Each stage represents a further dilution of awareness of the power and the numinous meaning resident in the mystery.
-
-## Stage One: Substitution with Other Psychoactive Plants
-
-The first step away from the symbiosis of the human-fungal partnership that characterized the early pastoralist societies was the introduction of other psychoactive plant substitutes for the original mushroom. This psychoactivity can range from being equal in profundity to the Stropharia cubensis psilocybin intoxication, as in the case with the classical hallucinogens of the New World tropics, to being relatively trivial — such as the use of Ephedra, a stimulant, and fermented honey as Soma substitutes.
-
-In the case of Stropharia cubensis in Africa, a gradual trivialization scenario is reasonable: With changes in climate, frequent low levels of mushroom ingestion gradually gave way to seasonal use. Conscious ceremonial use of mushrooms must have been at its apex during this seasonal availability phase, which may have lasted many thousands of years.
-
-## From Mushrooms to Mead to Alcohol
-
-Gradually, as mushrooms and mushroom ecologies grew more rare, there may have been efforts to preserve mushrooms by drying and by preserving them in honey. As honey itself easily ferments into an alcoholic intoxicant, it is possible that over time a practice of mixing fewer and fewer mushrooms in more and more honey may have encouraged replacement of the mushroom cult with a cult of mead.
-
-No greater shift of social values is possible to imagine than that which would accompany the gradual changeover of a psilocybin cult to an alcohol cult. Such gradual profanation of a psychoactive plant sacrament merges easily into the second step in the abandonment.
-
-## Stage Two: Symbolic Substitution
-
-The second step is the substitution of completely inactive materials for active ones. The substitutes, though usually still plants, are really no more than symbols of the former power of the mystery to authentically move initiates.
-
-## Stage Three: Dogma and Ritual Without Experience
-
-In the third stage, symbols are all that is left. Not only are psychoactive plants now out of the picture, but plants of any sort have disappeared, and in their place are esoteric teachings and dogma, rituals, stress on lineages, gestures, and cosmogonic diagrams. Today's major world religions are typical of this stage.
-
-## Stage Four: Complete Abandonment and Active Suppression
-
-The third stage leads into yet another — the complete abandonment of even the pretense of remembering the felt experience of the mystery. This last stage is typified by secular scientism as perfected in the [[coleman-louis-savier-twentieth-century-maraicher]]. A further aspect of this fourth stage is the rediscovery of the mystery and its interpretation as evil and threatening to social values. The current suppression of psychedelic research and the hysteria fanned by pharmaphobic media is an obvious case in point.
+In the absence of a partnership community and with the loss of the psychoactive plants that catalyze and maintain partnership, nostalgia for paradise appears quite naturally in a dominator society. The abandonment of the original catalyst for the emergence of self-reflection and language — the [[coleman-louis-savier-twentieth-century-maraicher]]. A further aspect of this fourth stage is the rediscovery of the mystery and its interpretation as evil and threatening to social values. The current suppression of psychedelic research and the hysteria fanned by pharmaphobic media is an obvious case in point.
 
 ## Minoan Crete as Transitional
 
@@ -54,15 +30,7 @@ The monstrous forces of scientific industrialism and global politics that have b
 
 McKenna traced the initial stages of the mystery's abandonment to ecological and climatic forces beyond human control. As the African climate shifted during the Pleistocene-Holocene transition, the grassland ecosystems that supported abundant *Psilocybe cubensis* growth contracted. Mushroom availability became seasonal rather than continuous, and the regular, low-dose psilocybin intake that McKenna believed had shaped hominid consciousness gradually diminished. This ecological context is essential to understanding the abandonment: it was not a choice but a response to environmental change, driven by the same climatic forces that were transforming hunter-gatherer societies into pastoralist and agricultural ones.
 
-The drying of the Sahara — which turned the mushroom-rich grasslands of the [[mckenna-tassili-plateau-round-head-civilization]] into desert — represents, in McKenna's narrative, the decisive environmental rupture. As mushroom habitats contracted, the frequency and intensity of the original ecstatic experience declined, opening the door to the substitution and dilution process he described. This framing connects the abandonment of the mystery to the broader story of human adaptation to a changing planet, and suggests that the loss was not merely cultural but ecological in origin.
-
-## The Nostalgia for Paradise
-
-The persistence of paradise myths across cultures — the Garden of Eden, the Golden Age of Saturn, the Hawaiian Aloha 'Aina — reflects, in McKenna's view, a genuine historical memory of a period when human beings lived in partnership with each other and with the natural world, sustained by the regular use of psychoactive plants. This nostalgia is not mere sentimentality but a kind of species-level mourning for a lost mode of being — one characterized by a sense of embeddedness in nature, a dissolution of the rigid ego boundary, and a direct, unmediated experience of the sacred.
-
-McKenna argued that this nostalgia manifests in unexpected places: in the Romantic movement's idealization of nature, in the 1960s counterculture's back-to-the-land impulse, in the New Age movement's fascination with shamanism and indigenous spirituality. Each of these cultural movements represents, in his reading, an attempt to recover something that was lost — an intuitive recognition that modern civilization is missing something essential that earlier cultures possessed.
-
-The concept of the lost mystery also connects to McKenna's broader interest in the recovery of what he called the "[[mckenna-archaic-revival-four-part-structure-paradise-paradise-lost-hell-regained]]" — a renewed engagement with the plant-based, partnership-oriented ways of being that characterized early human societies. For McKenna, the abandonment of the mystery was not irreversible. The rediscovery of psychedelic plants in the twentieth century, and the growing scientific understanding of their effects on consciousness, suggested that the mystery could be recovered — not as nostalgia but as a living, contemporary practice capable of transforming modern culture from within.
+The drying of the Sahara — which turned the mushroom-rich grasslands of the [[mckenna-archaic-revival-four-part-structure-paradise-paradise-lost-hell-regained]]" — a renewed engagement with the plant-based, partnership-oriented ways of being that characterized early human societies. For McKenna, the abandonment of the mystery was not irreversible. The rediscovery of psychedelic plants in the twentieth century, and the growing scientific understanding of their effects on consciousness, suggested that the mystery could be recovered — not as nostalgia but as a living, contemporary practice capable of transforming modern culture from within.
 
 ## The Lost Mystery and Its Meaning
 
@@ -70,13 +38,7 @@ For McKenna, the "lost mystery" was not a metaphor but a concrete historical rea
 
 The loss of this mystery created a profound spiritual vacuum in Western culture. McKenna argued that this vacuum has been filled by increasingly impoverished substitutes: dogma, ritual, hierarchy, and ultimately the sterile materialism of modern scientism. Each stage of abandonment represents not merely a change in religious practice but a contraction of human consciousness itself — a narrowing of the bandwidth of experience available to ordinary people.
 
-The consequences of this contraction extend beyond religion into every domain of Western culture. McKenna saw the ecological crisis, the arms race, and the pervasive sense of alienation that characterizes modern life as direct consequences of the loss of the mystery — the loss of the direct, felt experience of connection to the natural world and to the community of living beings that the [[leary-psychedelic-experience-bardo-mapping]] provides.
-
-## Psychedelic Suppression as Cultural Control
-
-McKenna drew a direct line between the suppression of psychedelic use and the consolidation of political and religious power. When psychoactive plants are removed from religious practice, religious authority shifts from direct experience to institutional mediation. Priests, bishops, and popes become necessary intermediaries between the individual and the divine — intermediaries who can enforce orthodoxy, extract tribute, and maintain social hierarchy.
-
-This dynamic, McKenna argued, explains the peculiar vehemence of institutional opposition to psychedelic substances throughout history. The Inquisition's persecution of alleged witches — many of whom used psychoactive plants in folk healing and religious practice — was not really about heresy. It was about eliminating unauthorized access to ecstatic experience. Similarly, the modern drug war's obsession with psychedelics, which are among the least harmful substances from a public health perspective, reveals its true purpose: the suppression of [[mckenna-consciousness-expansion-and-drug-war]] that might threaten the established order.
+The consequences of this contraction extend beyond religion into every domain of Western culture. McKenna saw the ecological crisis, the arms race, and the pervasive sense of alienation that characterizes modern life as direct consequences of the loss of the mystery — the loss of the direct, felt experience of connection to the natural world and to the community of living beings that the [[mckenna-consciousness-expansion-and-drug-war]] that might threaten the established order.
 
 ## The Role of Institutional Religion
 
@@ -90,45 +52,99 @@ The suppression of these traditions — the Inquisition, the witch-burnings, the
 
 ## See Also
 
-- [[mckenna-1966-ontological-crisis-declension-gnosis-one-quanta-away]]
 - [[mckenna-abandonment-of-mystery-four-stages]]
-- [[mckenna-absence-dmt-motifs-art-mahayana-thanka-problem]]
 - [[mckenna-acquired-tastes-chemical-addiction-syndrome]]
-- [[mckenna-borges-sect-of-phoenix-and-aleph-as-tryptamine-secret-metaphor]]
 - [[mckenna-brief-history-psychedelics]]
-- [[mckenna-catalyzing-consciousness-language-formation]]
 - [[mckenna-dionysus-dying-god-archetype]]
-- [[mckenna-dominator-vs-partnership-culture-model]]
 - [[mckenna-ecstasy-as-social-catalyst]]
-- [[mckenna-exteriorization-soul-translinguistic-matter]]
 - [[mckenna-extraterrestrial-communication-cultural-conceit]]
-- [[mckenna-gaian-holism-vegetable-mind-planetary-intelligence]]
 - [[mckenna-habit-culture-religion]]
-- [[mckenna-haoma-zoroaster-iranian-soma-counterpart]]
 - [[mckenna-hashish-scythians-and-classical-cannabis]]
-- [[mckenna-high-plains-eden-tassili]]
 - [[mckenna-hyperspace-law-and-the-remarkable-overmind]]
-- [[mckenna-interstellar-spore-percolation-theory]]
 - [[mckenna-manifesto-habit-obsession-drug-dilemma]]
-- [[mckenna-mdma-and-drug-terror-of-the-1980s]]
 - [[mckenna-minoan-crete-eleusinian]]
-- [[mckenna-minoan-crete-eleusinian-mysteries]]
 - [[mckenna-nag-hammadi-logos-hibernation-valis]]
-- [[mckenna-pandora-box-lsd-cia-mkultra-suppression]]
 - [[mckenna-prehistoric-imagination-and-consciousness-patterns]]
-- [[mckenna-psilocybin-generic-religion-humanity]]
 - [[mckenna-psilocybin-language-poetry-vocal-impulse]]
-- [[mckenna-purple-spore-ultraviolet-absorption-and-electron-density]]
 - [[mckenna-qatal-huyuk-naturalistic-art-vitiation-partnership-society]]
-- [[mckenna-scythians-cannabis-inhalation-herodotus]]
 - [[mckenna-shaman-as-phenomenologist-plant-chemist]]
-- [[mckenna-soma-haoma-identification-debate]]
 - [[mckenna-sugar-dominator-culture-nature-mute-philosophy]]
-- [[mckenna-taxonomy-hallucinogenic-demons-ions-mind-ketamine-stuttering-blind]]
 - [[mckenna-television-as-hidden-persuader]]
-- [[mckenna-teonanacatl-franciscan-theophagy-suppression]]
 - [[mckenna-tryptamine-shamanic-identification-and-signs]]
-- [[mckenna-valis-hibernation-of-the-logos]]
 - [[mckenna-war-as-vector-of-addiction]]
-- [[mckenna-wasson-soma-contradictions-and-doubts]]
 - [[mckenna-wasson-soma-doubts-and-stropharia-case]]
+
+## Overview
+
+Mckenna Abandonment Of The Mystery represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish mckenna abandonment of the mystery
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving mckenna extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Mckenna Abandonment Of The Mystery finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for mckenna abandonment of the mystery. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+mckenna abandonment of the mystery and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Mckenna Abandonment Of The Mystery has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of mckenna abandonment of the mystery into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and

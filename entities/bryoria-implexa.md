@@ -13,26 +13,14 @@ sources:
   - Brodo, I.M., Sharnoff, S.D., Sharnoff, S. (2001). "Lichens of psilocybin-north-america-pacific-northwest." Yale University Press.
   - Goward, T. (1999). "The Lichens of British Columbia: Illustrated Keys." Royal BC Museum.
   - Spribille, T., et al. (2014). "Molecular phylogeny of Bryoria (Parmeliaceae)." The Lichenologist, 46(3), 329–350.
-  - McCune, B. & Geiser, L. (2009). "Macrolichens of the [[psilocybin-north-america-pacific-northwest]]." Oregon State University Press.
----
-
-## Overview
-
-Bryoria implexa is a dark brown to blackish, fruticose (hair-like) lichen in the
-family Bryoriaceae. It forms intricate, net-like mats draping from the branches
-and twigs of coniferous trees in montane and [[fungal-diversity-boreal-forests-taiga]].
+  - McCune, B. & Geiser, L. (2009). "Macrolichens of the [[fungal-diversity-boreal-forests-taiga]].
 
 The species epithet *implexa* refers to its densely entangled, interwoven
 thallus. Unlike many Bryoria species that hang in distinct pendant strands,
 B. implexa tends to form a more compact, felted mass adhering closely to
 bark surfaces.
 
-Bryoria implexa is primarily found in western [[guzman-psilocybin-mushrooms-north-america]], ranging from
-southern Alaska through the Pacific Northwest into northern California. It
-occurs at elevations of 500 to 2,200 meters in cool, humid forest interiors.
-
-This species is considered an indicator of old-growth forest conditions and
-good [[cervantes-air-quality-ventilation]]. It is sensitive to sulfur dioxide and nitrogen pollution,
+Bryoria implexa is primarily found in western [[cervantes-air-quality-ventilation]]. It is sensitive to sulfur dioxide and nitrogen pollution,
 declining rapidly in disturbed or urban-adjacent forests.
 
 ## Taxonomy and Morphology
@@ -50,35 +38,9 @@ Branching is predominantly isotomic-dichotomous, meaning the main branches
 divide into two roughly equal sub-branches. The surface is shiny to
 semimat, lacking the frosted or whitened appearance of some congeners.
 
-Pseudocyphellae (tiny pores for [[mushroom-cultivation-jar-lid-management-loose-fit-vacuum-gas-exchange]]) are absent or extremely rare
-and inconspicuous. Soralia (structures producing vegetative propagules) are
-also absent, distinguishing B. implexa from sorediate species like
-[[bryoria-fuscescens]].
+Pseudocyphellae (tiny pores for [[bryoria-fuscescens]].
 
-Apothecia ([[bloomfield-asterophora-and-mycoparasites-of-fruiting-bodies]]) are rare in this species. When present, they
-are lateral on branches, 1–3 mm in diameter, with a brown disc and a
-slightly raised thalline margin.
-
-Spores are broadly ellipsoid, 10–15 × 6–9 μm, thin-walled, and
-non-septate. The photobiont is a trebouxioid green alga, typical of
-Bryoria species.
-
-## Distribution and Habitat
-
-Bryoria implexa is distributed across western North America, from southeast
-Alaska through coastal and interior British Columbia, Washington, Oregon,
-and into northern California. Disjunct populations have been reported from
-the Rocky Mountains of Idaho and Montana.
-
-The species is most abundant in cool, moist, old-growth coniferous forests
-dominated by western hemlock, Douglas-fir, and Pacific silver fir. It shows
-a strong preference for shaded, interior canopy positions on lower branches.
-
-Elevational range spans approximately 500 to 2,200 meters, with peak
-abundance between 800 and 1,500 meters in the Cascade and Coast ranges.
-
-Bryoria implexa is an obligate epiphyte, found almost exclusively on
-conifer bark. It is rare on [[fungal-dead-wood-diversity]] or rock.
+Apothecia ([[fungal-dead-wood-diversity]] or rock.
 
 ## Ecology and Symbiosis
 
@@ -88,3 +50,87 @@ microhabitat for invertebrates, and serves as a food source for wildlife
 during winter months.
 
 Several species of flying squirrels and deer actively consume Bryoria,
+
+## Overview
+
+Bryoria Implexa represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish bryoria implexa
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving bryoria extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Bryoria Implexa finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for bryoria implexa. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+bryoria implexa and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Bryoria Implexa has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of bryoria implexa into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[bryoria-caperata]]
+- [[bryoria-fremontii]]
+- [[bryoria-fuscescens]]
+- [[bryoria-trichodes]]

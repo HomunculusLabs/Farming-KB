@@ -23,11 +23,7 @@ with complex contamination profiles affecting both soil and groundwater.
 
 ## Rhizofiltration
 
-[[phytoextraction-mechanisms]]
-
-Phytoextraction uses plants to absorb contaminants from soil, concentrate them in
-aboveground tissues, and remove them through harvest of the contaminated biomass. This
-approach is most commonly applied to [[dighton-fungal-biosorption-heavy-metal-remediation]] contamination, where certain plant
+[[dighton-fungal-biosorption-heavy-metal-remediation]] contamination, where certain plant
 species can accumulate metals at concentrations hundreds or thousands of times higher
 than normal plants. The process involves mobilization of metals from soil via root
 exudates, uptake across root cell membranes through specific transporter proteins
@@ -36,10 +32,7 @@ sequestration within leaf and stem tissues through vacuolar compartmentation.
 
 Translocation to aboveground biomass is essential because harvest is the permanent
 removal mechanism. Phytoextraction is divided into two strategies: continuous
-phytoextraction uses [[comparison-phytoextraction-vs-phytostabilization]]
-
-- [[phytoremediation]]
-- [[phytostabilization]]
+phytoextraction uses [[phytoremediation]]
 - [[mycoremediation-basics]]
 ## Practical Considerations
 

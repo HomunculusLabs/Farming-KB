@@ -23,7 +23,7 @@ type: query
 
 ## Short Answer
 
-Soil aggregates form when mineral particles (sand, silt, clay) are glued together by biological, chemical, and physical binding agents — primarily fungal hyphae, bacterial slime, root networks, earthworm casts, and clay-organic chemical bonds. They matter because aggregates create the **pore structure** that controls water movement, air exchange, root penetration, and [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]]. Without good aggregation, soil becomes either a brick (compacted clay) or a beach (loose sand) — neither of which supports healthy plant growth. Aggregates also physically protect soil organic carbon, making them the primary mechanism for long-term [[mycorrhizal-fungi-soil-carbon-sequestration-by-type]] in soil.
+Soil aggregates form when mineral particles (sand, silt, clay) are glued together by biological, chemical, and physical binding agents — primarily fungal hyphae, bacterial slime, root networks, earthworm casts, and clay-organic chemical bonds. They matter because aggregates create the **pore structure** that controls water movement, air exchange, root penetration, and [[mycorrhizal-fungi-soil-carbon-sequestration-by-type]] in soil.
 
 ## How Aggregates Form: Step by Step
 
@@ -36,26 +36,7 @@ The process begins when organic material — leaf litter, root exudates, root de
 Bacteria and fungi rapidly colonize fresh organic matter. As they feed, they produce:
 
 - **Extracellular polysaccharides (EPS)**: Sticky sugar chains that coat mineral particles and bridge them together. These are the first and most rapid binding agents.
-- **Glycoproteins (like glomalin)**: [[arbuscular-mycorrhizal-fungi-biology-symbiosis]] produce glomalin-related soil protein (GRSP), which coats hyphae and soil particles and persists for years to decades.
-- **Fungal hyphae**: Thread-like fungal structures that physically wrap around and enmesh mineral particles, binding them over distances of centimeters.
-
-### Step 3: Roots and Soil Fauna Add Structure
-
-- **Plant roots** physically push soil particles together as they grow, and their exudates stimulate microbial activity in the rhizosphere (the root zone). When roots die, they leave channels and organic residues that become aggregate nuclei.
-- **Earthworms** ingest soil and organic matter, mix them in their gut, and excrete them as stable, nutrient-rich casts that function as pre-formed microaggregates.
-- **Other soil fauna** (mites, springtails, ants) contribute through burrowing, mixing, and producing fecal pellets.
-
-### Step 4: Macroaggregates Form (>250 μm)
-
-Fungal hyphae, root networks, and microbial polysaccharides bind mineral particles and organic matter into visible clumps called **macroaggregates**. These are the largest, most dynamic structural units — they form over weeks to months but can also be broken apart quickly by tillage or physical disturbance.
-
-### Step 5: Microaggregates Develop Inside (53–250 μm)
-
-Inside macroaggregates, microbial processing continues. As labile carbon is consumed, **microbial necromass** (dead cell material — bacterial cell walls, fungal chitin, extracellular residues) binds with clay and silt particles to form **microaggregates**. These are more stable and persist for years to decades, even after the macroaggregate that contained them breaks apart.
-
-### Step 6: Long-Term Stabilization
-
-Over decades to centuries, clay-organic associations within microaggregates become further stabilized by chemical bonds with iron and aluminum oxides, creating the most persistent form of soil [[holmgren-soil-humus-carbon-storage-rebuilding]].
+- **Glycoproteins (like glomalin)**: [[holmgren-soil-humus-carbon-storage-rebuilding]].
 
 ## The Aggregate Hierarchy at a Glance
 
@@ -120,27 +101,7 @@ Aggregates physically protect organic carbon from decomposition by:
 - **Binding** organic molecules to clay and oxide surfaces through chemical bonds
 - **Creating anoxic zones** within aggregates that slow aerobic decomposition
 
-This is why building aggregates (through no-till, cover crops, and [[cervantes-organic-amendments-chart]]) is one of the most effective strategies for increasing soil carbon.
+This is why building aggregates (through no-till, cover crops, and [[query-how-to-use-beneficial-nematodes-for-soil-pest-control]]
 
-## What Builds Aggregates vs. What Destroys Them
-
-### Builds Aggregates ✅
-
-| Practice | How It Helps |
-|----------|-------------|
-| No-till / reduced tillage | Preserves existing macroaggregate architecture |
-| Cover crops | Continuous root inputs feed aggregation microbes |
-| Perennial vegetation | Deep, persistent root systems and undisturbed soil |
-| Organic amendments (compost, manure) | Food and habitat for aggregate-forming organisms |
-| Mycorrhizal fungi | Hyphal networks physically bind particles; produce glomalin |
-| Earthworms | Produce stable casts; create macropores through burrowing |
-| Diverse rotations | Support diverse microbial communities and root architectures |
-| Adequate calcium / proper liming | Promotes clay flocculation (particles clump together) |
-
-## See Also
-
-- [[query-how-to-use-beneficial-nematodes-for-soil-pest-control]]
-
-- [[query-what-is-the-soil-food-web-and-why-does-it-matter]] — the [[savory-living-organisms-as-tools]] that build and maintain aggregates
-- [[mycorrhizal-fungi]] — key aggregate-building organisms
+- [[savory-living-organisms-as-tools]] that build and maintain aggregates
 - [[cover-crops]] — feeding the aggregate builders

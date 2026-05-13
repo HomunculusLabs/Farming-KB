@@ -18,11 +18,7 @@ sources:
 
 ## Overview
 
-**Annona squamosa**, commonly known as sugar apple, sweetsop, or custard apple, is a small deciduous tree in the Annonaceae family native to tropical [[guzman-allen-gartz-neurotropic-fungi-central-america-caribbean]] and the Caribbean. The species produces a sweet, creamy-textured aggregate fruit that is widely cultivated throughout the tropics.
-
-The fruit is among the most popular Annonaceae crops, valued for its aromatic, custard-like pulp and high sugar content. It is distinct from the cherimoya (*A. cherimola*) and the soursop (*A. muricata*), though all share the characteristic reticulate fruit surface.
-
-Sugar apple cultivation extends across South and [[psilocybe-southeast-asia-pacific]], where it was introduced by Spanish and Portuguese traders in the 16th and 17th centuries. India, Thailand, and Indonesia are among the largest producers.
+**Annona squamosa**, commonly known as sugar apple, sweetsop, or custard apple, is a small deciduous tree in the Annonaceae family native to tropical [[psilocybe-southeast-asia-pacific]], where it was introduced by Spanish and Portuguese traders in the 16th and 17th centuries. India, Thailand, and Indonesia are among the largest producers.
 
 All parts of the plant — leaves, bark, seeds, and unripe fruit — contain bioactive acetogenins and alkaloids with documented insecticidal, antiparasitic, and cytotoxic properties.
 
@@ -66,19 +62,15 @@ Seeds contain approximately 25% fixed oil composed of linoleic, oleic, and palmi
 
 ## Bioactive Compounds and Pharmacology
 
-Annonaceous acetogenins, particularly squamocin (annonacin), squamotatin, and squamosten, are the principal bioactive constituents. These long-chain fatty acid derivatives exhibit potent cytotoxic activity against multiple human [[blesching-cannabis-apoptosis-and-cancer-cell-death]] lines in vitro.
+Annonaceous acetogenins, particularly squamocin (annonacin), squamotatin, and squamosten, are the principal bioactive constituents. These long-chain fatty acid derivatives exhibit potent cytotoxic activity against multiple human [[fukuoka-indian-agriculture-observations]].
 
-Squamocin inhibits mitochondrial complex I (NADH:ubiquinone oxidoreductase), inducing apoptosis in cancer cells. However, annonacin has been linked to atypical Parkinsonism in populations consuming large quantities of Annonaceae fruits and teas, raising safety concerns.
-
-Leaf extracts demonstrate broad-spectrum insecticidal activity against mosquito larvae (*Aedes aegypti*), agricultural pests (*Spodoptera litura*), and stored-grain insects. Seed extracts are used as traditional botanical insecticides in [[fukuoka-indian-agriculture-observations]].
-
-Aqueous leaf extracts show antidiabetic activity in streptozotocin-induced diabetic rats, reducing blood glucose and improving lipid profiles. Bark extracts exhibit antimicrobial activity against *Staphylococcus aureus* and *Escherichia coli* in disc-diffusion assays.
+Aqueous leaf extracts show antidiabetic activity in streptozotocin-induced diabetic rats, reducing blood glucose and improving lipid profiles. Bark extracts exhibit antimicrobial activity against *[[staphylococcus-aureus]]* and *Escherichia coli* in disc-diffusion assays.
 
 ## Ecology and Applications
 
 Sugar apple is adapted to seasonally [[mollison-wet-dry-tropical-design-strategies]] forests in its native range. The sweet pulp attracts frugivorous birds, bats, and primates, which disperse the large seeds. The tree is relatively fast-growing and can begin fruiting within 3 years from seed.
 
-In agroforestry systems, sugar apple serves as a component of homegardens and mixed fruit orchards in tropical Asia and Latin America. Its relatively small stature allows interplanting with taller tree crops such as mango or jackfruit.
+In [[agroforestry]] systems, sugar apple serves as a component of homegardens and mixed fruit orchards in tropical Asia and Latin America. Its relatively small stature allows interplanting with taller tree crops such as mango or jackfruit.
 
 The bark, leaves, and seeds have extensive applications in traditional medicine across the species' cultivated range. In Ayurveda, the unripe fruit is used for dysentery and diarrhea, while leaf decoctions treat fever and respiratory ailments.
 

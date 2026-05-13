@@ -1,5 +1,5 @@
 ---
-title: "How to Use comparison-neem-oil-cannabis-vs-diatomaceous-earth-cannabis in the Garden"
+title: "How to Use [[comparison-neem-oil-cannabis-vs-diatomaceous-earth-cannabis]] in the Garden"
 created: 2026-04-28
 tags: [query, pest-control, organic-gardening, diatomaceous-earth]
 date: 2026-04-25
@@ -12,16 +12,11 @@ type: query
 
 ## Short Answer
 
-Diatomaceous earth (DE) is a natural, abrasive powder made from fossilized aquatic organisms called diatoms that kills soft-bodied insects by damaging their exoskeletons and causing fatal dehydration. It is most effective against crawling pests like [[spider-mites-cannabis|spider mites]], [[diatomaceous-earth-cannabis|DE is a valuable integrated pest management tool]]. Lightly dusting the soil surface creates a lethal barrier for [[aphids-cannabis|aphids]] and [[cervantes-spider-mites-identification-control|spider mite control guide]] and [[aphids-cannabis|aphids]], [[fungus-gnats-cannabis|fungus gnats]], slugs, ants, and other crawling pests
+[[diatomaceous-earth]] (DE) is a natural, abrasive powder made from fossilized aquatic organisms called diatoms that kills soft-bodied insects by damaging their exoskeletons and causing fatal dehydration. It is most effective against crawling pests like [[diatomaceous-earth-cannabis|DE is a valuable integrated pest management tool]]. Lightly dusting the soil surface creates a lethal barrier for [[cervantes-spider-mites-identification-control|spider mite control guide]] and [[fungus-gnats-cannabis|fungus gnats]], slugs, ants, and other crawling pests
 - Apply as a dry dust for maximum effectiveness; water-based sprays are less potent
 - Reapply after rain, heavy watering, or periods of high humidity
 - Wear an N95 respirator, safety goggles, and gloves during every application
-- Non-selective: avoid applying where pollinators and [[comparison-beneficial-insects-guide-vs-integrated-pest-management]] are active
-
-## Related Questions
-
-- [[query-how-to-control-fungus-gnats-organically]]
-- [[query-how-do-i-identify-and-control-aphids-on-cannabis]]
+- Non-selective: avoid applying where pollinators and [[query-how-to-control-fungus-gnats-organically]]
 - [[query-what-is-integrated-pest-management-for-organic-gardens]]
 ## Practical Applications
 
@@ -40,7 +35,7 @@ essential for achieving optimal results regardless of scale.
 Documented case studies provide valuable reference points, though
 each situation presents unique combinations of opportunities and
 constraints that require context-specific solutions. The most
-successful implementations combine established best practices with
+successful implementations combine established [[arbuscular-mycorrhizal-inoculum-production-best-practices]] with
 creative adaptation to local conditions and emerging challenges.
 
 ## Key Considerations
@@ -90,7 +85,7 @@ more robust and productive overall systems. This integrative approach
 is increasingly recognized as essential for sustainable outcomes.
 
 Future development in this area is likely to be driven by advances
-in scientific understanding, new technological capabilities, and the
+in [[fukuoka-fallacies-scientific-understanding]], new technological capabilities, and the
 growing urgency of environmental and social challenges. Staying
 current with developments and maintaining openness to new approaches
 helps practitioners continue to improve their effectiveness over time.

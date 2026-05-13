@@ -56,31 +56,13 @@ Work quickly to minimize air exposure at the cut surface. Use a clean, sharp bla
 
 ### Aeroponic Cloners
 
-- Cuttings suspended in misting chamber with no [[cervantes-green-algae-growing-medium]]
-
-- Roots form rapidly in the humid, oxygen-rich environment
-
-- Higher success rates than traditional methods but requires equipment investment
-
-## Rooting Environment
-
-- **Humidity**: 80-100% — use a humidity dome or propagation chamber
-
-- **Temperature**: 70-80°F (21-27°C)
-
-- **Light**: Low-intensity fluorescent or CFL (no strong [[cannabis-hid-lighting-specifications]])
+- Cuttings suspended in misting chamber with no [[cannabis-hid-lighting-specifications]])
 
 - **No nutrients** in the water until roots are established
 
 ## Troubleshooting Rooting Problems
 
-Wilting after 24 hours usually indicates the cutting cannot transpire fast enough — increase humidity. Yellowing leaves are normal as the cutting uses stored energy; remove severely yellowed leaves. Slime or mold on the stem indicates fungal infection — reduce humidity, improve ventilation, and consider a mild [[cervantes-hydrogen-peroxide-sterilization]] treatment. If roots do not appear after 21 days, the cutting has likely failed — discard and try again with a fresh cutting.
-
-## Transplanting
-
-Once roots emerge from the bottom of the rooting medium (1-2 inches long):
-
-1. Prepare the destination container with [[cervantes-growing-medium]]
+Wilting after 24 hours usually indicates the cutting cannot transpire fast enough — increase humidity. Yellowing leaves are normal as the cutting uses stored energy; remove severely yellowed leaves. Slime or mold on the stem indicates fungal infection — reduce humidity, improve ventilation, and consider a mild [[cervantes-growing-medium]]
 
 2. Make a hole in the medium
 
@@ -119,8 +101,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[comparison-cannabis-clone-rooting-and-transplanting-vs-seed-germination]]
 - [[dom]]
-- [[sterilization]]
 - [[cannabis-and-als]]
 - [[cannabis-and-stress-axis]]

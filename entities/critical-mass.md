@@ -24,26 +24,9 @@ sources: ["domain-knowledge"]
 
 ## Lineage & Genetics
 
-- **Parent 1 — Afghani:** Pure indica landrace from the Hindu Kush region; contributes
-  [[blesching-cannabis-deep-relaxation-healing]], heavy [[cannabis-glandular-trichome-types-resin-production-clarke]], and compact structure
-- **Parent 2 — Skunk #1:** Legendary hybrid (Afghani x Acapulco Gold x [[cannabis-colombian-gold-landrace-sativa]]);
-  contributes vigor, yield, disease resistance, and signature skunky aroma
-- **Breeder:** Shantibaba (Mr. Nice Seed Bank) — same program that produced White Widow
-  and Super Silver Haze
-- **Alternative Names:** Also sold as **"Critical +"** in some markets (particularly
-  Spain); often a slightly sativa-leaning phenotype or separate Dinafem Seeds cross
-- **Genetic Stability:** Highly stable and uniform; well-suited for large-scale grows
-- **Heritage Significance:** One of the most commercially successful indica crosses in
-  modern cannabis history
-
-## Cannabinoid Profile
-
-- **THC:** 14–22% (phenotype and grow conditions dependent)
-- **CBD:** 0.5–2% — notably high for a non-hemp, non-specifically-bred CBD strain
-- **THC:CBD Ratio:** Typically 10:1 to 5:1 in standard cuts
-- **1:1 Variants:** Critical Mass CBD achieves ~1:1 ratio with 5–8% THC and 5–10% CBD
-- **Minor Cannabinoids:** Detectable CBG and CBC in well-cured samples
-- **[[cannabis-terpene-entourage-effect-profiles]]:** Moderate-to-high THC with meaningful CBD creates balanced
+- **Parent 1 — Afghani:** Pure indica landrace from the [[hindu-kush]] region; contributes
+  [[cannabis-glandular-trichome-types-resin-production-clarke]], and compact structure
+- **Parent 2 — Skunk #1:** Legendary hybrid (Afghani x Acapulco Gold x [[cannabis-terpene-entourage-effect-profiles]]:** Moderate-to-high THC with meaningful CBD creates balanced
   psychoactivity with pronounced physical relief
 - **Testing Notes:** CBD content varies by breeder; Mr. Nice original trends higher
 
@@ -88,3 +71,80 @@ sources: ["domain-knowledge"]
   calm without heavy intoxication at lower doses
 - **Appetite Loss:** Reliable stimulant for chemotherapy, HIV/AIDS patients, or eating
   disorders
+
+## Overview
+
+Critical Mass represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish critical mass
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving critical extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Critical Mass finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for critical mass. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+critical mass and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Critical Mass has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of critical mass into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.

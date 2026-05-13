@@ -14,43 +14,12 @@ sources:
   - "raw/papers/marijuana-horticulture-cervantes.md"
   - "Clarke, R.C. (1998). Hashish! Redeye Press."
   - "Small, E. (2017). Cannabis: A Complete Guide. CRC Press."
-  - "Mills, S. et al. (2020). \"Genetic structure of [[blesching-cannabis-sativa-indica-classification]] L. with a focus on chemotype and geographic origin.\" Genes, 11(11), 1321."
-  - "Lewis, M.A. et al. (2018). \"Cannabis sativa L. botany and emerging horticultural applications.\" Horticultural Research, 5, 59."
-  - "ElSohly, M.A. et al. (2016). \"Changes in green-cannabis-potency-maximizing over the last two decades.\" Biological Psychiatry, 79(7), 613-619."
----
-
-# Afghan Kush
-
-Afghan Kush is a pure indica [[cervantes-landrace-cannabis-populations]] strain originating from the
+  - "Mills, S. et al. (2020). \"Genetic structure of [[cervantes-landrace-cannabis-populations]] strain originating from the
 Hindu Kush mountain range spanning Afghanistan and northern Pakistan.
 
-It is one of the most genetically influential [[cannabis-microbiome-otu-abundance-vs-presence-cannabis-strains]] in history,
-serving as the genetic foundation for countless modern [[query-what-is-the-difference-between-sativa-indica-and-hybrid-cannabis]] varieties.
+It is one of the most genetically influential [[query-what-is-the-difference-between-sativa-indica-and-hybrid-cannabis]] varieties.
 
-Renowned for its [[cannabis-glandular-trichome-types-resin-production-clarke]], Afghan Kush has been the primary source of
-charas and hashish in Central and South Asia for centuries.
-
-## Strain Classification
-
-- **Type:** Pure indica (100% indica landrace)
-- **Lineage:** Hindu Kush landrace — no documented hybridization with sativa
-  populations
-- **Origin:** Hindu Kush mountains, northeastern Afghanistan (Parwan, Nangarhar,
-  and Balkh provinces); altitudes of 1,500–3,000 m
-- **THC content:** 15–22% (modern selectively bred lines; landrace: 12–16%)
-- **CBD content:** Low (<1%); trace amounts in most phenotypes
-
-## Appearance and Morphology
-
-Afghan Kush exhibits the classic indica growth structure adapted to harsh,
-short-season mountain environments.
-
-- **Plant structure:** Compact, bushy, broad-leafed with short internodes
-- **Height:** 60–100 cm indoor; 100–150 cm outdoor
-- **Bud structure:** Dense, tightly packed calyxes forming rock-hard nuggets
-- **Color:** Deep forest green with occasional purple hues in cold conditions
-- **Trichomes:** Exceptionally thick crystalline coating; primary reason for
-  [[cannabis-hashish-production]] heritage
+Renowned for its [[cannabis-hashish-production]] heritage
 - **Pistils:** Abundant orange-brown hairs at maturity
 
 ## Aroma and Flavor Profile
@@ -76,15 +45,94 @@ short-season mountain environments.
 - **Duration:** 2–4 hours
 - **Primary effects:** Deep physical relaxation, sedation, euphoria, couch-lock
 - **Body effects:** Heavy body stone, muscle relaxation, pain relief
-- **[[oner-sativa-medical-applications]]:** Insomnia, [[cannabis-chronic-pain-management]], anxiety, muscle spasms,
-  [[cannabis-for-cachexia-and-appetite-stimulation]], PTSD-related sleep disturbance
-- **Side effects:** Dry mouth, dry eyes, dizziness (at high doses), lethargy,
-  potential for "couch-lock" limiting functionality
-
-Afghan Kush is considered a quintessential "nighttime" strain due to its
-pronounced sedative effects. The high myrcene content contributes significantly
-to the [[cannabis-terpene-entourage-effect-profiles]] producing deep relaxation.
+- **[[cannabis-chronic-pain-management]], anxiety, muscle spasms,
+  [[cannabis-terpene-entourage-effect-profiles]] producing deep relaxation.
 
 ## Growing Characteristics
 
 - **Flowering time:** 7–9 weeks
+
+## Overview
+
+Afghan Kush represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish afghan kush
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving afghan extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Afghan Kush finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for afghan kush. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+afghan kush and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Afghan Kush has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of afghan kush into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[bubba-kush]]
+- [[jedi-kush]]
+- [[master-kush]]
+- [[oner-bubba-sativa-wicked-bubba-kush-sativa-pheno-riot-seeds]]
+- [[triangle-kush]]

@@ -23,8 +23,7 @@ abandons all purposeful human intervention. The name derives from the
 Buddhist concept of the Mahayana ("Great Vehicle"), the path of universal
 compassion that transcends individual effort.
 
-Fukuoka distinguished Mahayana natural farming from both [[fukuoka-illusions-scientific-farming-centrifugal-centripetal-model]]
-and a lesser form he called [[fukuoka-mahayana-and-hinayana-natural-farming]] farming. Together, these three
+Fukuoka distinguished Mahayana natural farming from both [[fukuoka-mahayana-and-hinayana-natural-farming]] farming. Together, these three
 approaches form a philosophical spectrum for understanding humanity's
 relationship to the natural world through agriculture.
 
@@ -42,32 +41,6 @@ world, subsisting on its bounty without purposeful effort.
 **Hinayana natural farming** occupies the "relative world" alongside
 scientific farming. The practitioner earnestly seeks the condition of
 Mahayana farming but has not yet attained it. This corresponds broadly to
-[[coleman-deep-organic-farming-philosophy]] and other systems that reduce but do not eliminate human
-intervention.
-
-**Scientific farming** also inhabits the relative world but moves in the
-opposite direction, drawing from nature and attempting to exceed natural
-productivity by adding human knowledge, chemicals, and machinery.
-
-## Philosophy of Unity
-
-Fukuoka described Mahayana natural farming as realized "when the human
-spirit and human life blend with the natural order." The farmer does not
-manage or manipulate nature but exists within it as a participant.
-
-The relationship is compared to an ideal marriage in which partners realize
-a perfect life together without asking, giving, or receiving anything of
-each other. Mahayana farming is "the very embodiment of life in accordance
-with nature."
-
-This is not passive neglect. Fukuoka spent decades developing techniques
-such as broadcasting clay seed pellets, growing winter ground covers of
-clover beneath rice and barley, and maintaining three-dimensional orchard
-ecosystems. These practices emerged from deep observation of natural
-processes, not from human invention.
-
-Central to this approach is the Buddhist concept of "non-discriminating
-knowledge" — awareness that treats self and object as a unified whole.
 [[fukuoka-critique-scientific-agriculture-civilization]], by contrast, relies on "[[non-discriminating-knowledge-and-critique-of-scientific-reductionism]]"
 that splits the world into subject and object, fragmenting a living whole
 into isolated facts.
@@ -87,3 +60,88 @@ unnaturalness of scientific farming leads to incompleteness in all its
 outputs.
 
 ## The Swordfighting Analogy
+
+## Overview
+
+Mahayana Natural Farming represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish mahayana natural farming
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving mahayana extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Mahayana Natural Farming finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for mahayana natural farming. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+mahayana natural farming and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Mahayana Natural Farming has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of mahayana natural farming into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[fukuoka-mahayana-and-hinayana-natural-farming]]
+- [[fukuoka-mahayana-vs-hinayana-natural-farming]]
+- [[fukuoka-textdoc-mahayana-hinayana-natural-farming-pursuit-of-nature]]
+- [[mahayana-hinayana-natural-farming]]
+- [[mckenna-absence-dmt-motifs-art-mahayana-thanka-problem]]

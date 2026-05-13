@@ -18,12 +18,7 @@ created: 2026-05-11
 
 ## Overview
 
-In cannabis (*Cannabis sativa* L.) [[cannabis-microbiome-research]], nitrogen emerges as the
-single strongest edaphic (soil-derived) factor driving microbial community
-composition and structure across the rhizosphere, endorhiza, and bulk soil.
-This finding, established by Winston et al. (2014), departs from the
-conventional understanding in most plant-microbiome systems, where soil pH is
-typically the primary edaphic driver of microbial [[core-endorhiza-bacterial-community-composition-cannabis]].
+In cannabis (*Cannabis sativa* L.) [[core-endorhiza-bacterial-community-composition-cannabis]].
 
 ## Key Statistical Findings
 
@@ -60,38 +55,7 @@ relative abundance, showed the same ranking with stronger correlations:
 | Water        | 0.466          | p = 0.001    |
 | pH           | 0.292          | p = 0.001    |
 
-In both analyses, **all five [[cannabinoid-microbiome-correlation-confounded-edaphic-factors]] were significantly correlated
-with beta-diversity (p = 0.001)**, confirming that soil chemistry broadly
-shapes the cannabis microbiome, with nitrogen consistently the dominant driver.
-
-## Soil Type Comparisons
-
-The study examined two distinct soil types, **MB** and **OC**:
-
-### MB Soil
-
-- **Salinity**: 5.12–7.44 (higher)
-- **Total Carbon**: 3.02–5.00 (lower)
-- **Water content**: 0.101–0.178 (lower)
-- **Total Nitrogen**: 0.26–1.51
-
-### OC Soil
-
-- **Salinity**: 1.73 (lower)
-- **Total Carbon**: 20.0 (higher)
-- **Water content**: 0.371 (higher)
-- **Total Nitrogen**: 0.53
-
-The MB soil exhibited a much wider nitrogen range (0.26–1.51 vs. 0.53),
-likely contributing to the strong nitrogen–community structure relationship.
-MB was also characterized by higher salinity and lower organic carbon and
-moisture, placing it in a more stress-prone edaphic regime.
-
-## Nitrogen vs. pH: A Departure from Convention
-
-The most significant finding is nitrogen's dominance over soil pH. Across most
-terrestrial plant-microbiome studies, pH consistently ranks as the most
-important edaphic determinant of microbial [[leake-mycorrhizal-carbon-sequestration-plant-community-composition]] (Fierer and
+In both analyses, **all five [[leake-mycorrhizal-carbon-sequestration-plant-community-composition]] (Fierer and
 Jackson, 2006). In cannabis, pH ranked last among five tested factors in both
 weighted (r = 0.221) and unweighted (r = 0.292) analyses. Several hypotheses
 explain this departure:
@@ -128,17 +92,9 @@ Understanding nitrogen as the primary edaphic driver has practical implications:
 - **Fertilization strategy**: Nitrogen rates and forms (ammonium vs. nitrate vs.
   organic) may be the most powerful levers for shaping beneficial rhizosphere
   communities.
-- **Soil amendment selection**: Amendments modulating [[nitrogen-availability-in-legumes]] may
-  have larger microbiome effects than pH-adjusting amendments.
-- **Breeding targets**: Cultivars with efficient nitrogen-use strategies may
-  support more consistent microbiomes across diverse conditions.
-
-## See Also
-
-- [[edaphic-factors-cannabis-endorhiza-microbiome-assembly]] microbiome
+- **Soil amendment selection**: Amendments modulating [[edaphic-factors-cannabis-endorhiza-microbiome-assembly]] microbiome
 - soil type effects cannabis microbial communities
-- beta diversity [[cannabis-rhizosphere-endorhiza-communities]]
-- [[cannabis-rhizosphere-microbiome]] overview
+- beta diversity [[cannabis-rhizosphere-microbiome]] overview
 - salinity effects cannabis microbiome
 
 ## Sources

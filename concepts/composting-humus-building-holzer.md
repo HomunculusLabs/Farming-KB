@@ -43,30 +43,9 @@ Legumes (peas, beans, clover, lupins) are the most important green manure crops:
 1. Leave green manure crops standing through autumn
 2. First heavy snow pushes plants down; decomposition begins
 3. Mixed-culture plants vary in height and structure, so biomass packs loosely rather than compacting
-4. Good [[stamets-growing-room-air-circulation-co2-management]] promotes optimal [[soil-food-web-structure]]
-- [[sepp-holzer-terrace-systems-and-raised-beds]]
+4. Good [[soil-food-web-structure]]
 - [[holzer-mushroom-cultivation]]
-- [[biodiversity-of-fungi-biomass-carbon-soil-structure]]
-
-## Merged: Holzer Traditional Farm Medicine And Medicinal Herbs
-
-# Holzer Traditional Farm Medicine and Medicinal Herbs
-
-The wide selection of medicinal herbs turned kitchen gardens into an indispensable source of valuable medicines for every farm. Doctors and midwives were often difficult to reach and took a long time to arrive, so every farmer had their own recipes for medicinal creams, tinctures, compresses, poultices, and teas, passed down through generations within the family and constantly improved.
-
-## Key Medicinal Herbs and Their Uses
-
-### Culinary Herbs as Medicine
-
-**Lovage (Levisticum officinale):** Encourages the appetite, stimulates digestion, has a diuretic effect. A single plant covers a family of four. Hinders the growth of neighbouring plants and spreads vigorously, so best planted alone.
-
-**Thyme (Thymus spp.):** When freshly cut, has an antibacterial effect. Its ability to regulate makes dishes -- especially meat and sausage-based ones -- easier to digest. Develops most intense flavour and healing properties in dry, stony positions.
-
-**Garlic:** Freshly cut garlic has antibacterial and antifungal properties. Eating regularly can lower cholesterol levels and prevent thrombosis. Garlic tea (brew a few crushed cloves briefly and leave for a day) is effective against all kinds of fungal diseases including mildew. The pungent smell discourages lice.
-
-### Medicinal Herbs for Common Ailments
-
-**Marsh mallow (Althaea officinale):** Soothing effect on sore throats, hoarseness, and dry coughs. Used as tea with mint and [[comparison-lemon-balm-vs-passionflower]].
+- [[comparison-lemon-balm-vs-passionflower]].
 
 **Calendula:** Alleviates every kind of injury by encouraging wounds to heal and bringing down inflammation. Made into a tea and used to clean wounds. Farmers used calendula cream to treat udder inflammation in livestock. Additionally, calendula plants secrete substances from their roots which discourage nematodes -- sown preferably on deep, wet soil, with curled seeds collected in autumn for the following year.
 
@@ -110,8 +89,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[doc]]
 - [[soil-life]]
-- [[green-manure-crops]]
 - [[mullein]]
 - [[echinacea-purpurea]]

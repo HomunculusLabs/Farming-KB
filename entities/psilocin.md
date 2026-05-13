@@ -2,7 +2,7 @@
 title: Psilocin (4-HO-DMT)
 created: 2026-04-28
 type: chemical
-tags: [psychedelic, [[tryptamine]], serotonergic, hallucinogen,
+tags: [psychedelic, tryptamine, serotonergic, hallucinogen,
   Schedule-I, endogenous-compound]
 date: 2026-04-28
 updated: 2026-04-28
@@ -13,12 +13,9 @@ sources: []
 
 Psilocin (4-hydroxy-N,N-dimethyltryptamine, 4-HO-DMT) is a
 classical serotonergic psychedelic and the primary
-pharmacologically active metabolite of [[psilocybin]]. It acts as a
-partial agonist at the 5-HT2A receptor, producing profound
-alterations in perception, mood, and cognition characteristic of
-the [[leary-psychedelic-experience-bardo-mapping]].
+pharmacologically active metabolite of [[leary-psychedelic-experience-bardo-mapping]].
 
-First isolated from [[grass-seed-cultivation-of-psilocybe-mushrooms]] in 1959 by [[albert-hofmann]]
+First isolated from [[albert-hofmann]]
 at Sandoz, psilocin was identified as the active principle after
 psilocybin was found largely inactive until enzymatically
 dephosphorylated. In humans, psilocybin is rapidly converted to
@@ -40,11 +37,7 @@ circulation.
 - **pKa:** ~9.5 (amine), ~9.9 (phenol)
 
 The phenolic 4-hydroxyl is the key feature distinguishing
-psilocin from DMT, dramatically altering [[tihkal-receptor-binding-serotonin]] —
-converting a short-acting tryptamine into a classical psychedelic
-with enhanced 5-HT2A affinity and longer duration (4-6 hr vs
-30-90 min for DMT). The 4-hydroxyl also makes psilocin
-susceptible to [[glucuronidation]].
+psilocin from DMT, dramatically altering [[glucuronidation]].
 
 ## Pharmacology
 
@@ -65,7 +58,6 @@ V pyramidal neurons, promoting entropic neural activity. The
 partial agonist profile (lower efficacy than serotonin) may
 explain favorable safety. 5-HT1A activation contributes
 anxiolytic and antidepressant effects. fMRI shows decreased
-[[psilocybin-default-mode-network-ego-dissolution]] network connectivity with magnitude correlating to
 [[mystical-experience]] intensity and therapeutic outcomes.
 
 ### Comparison with Related Tryptamines

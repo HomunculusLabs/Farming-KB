@@ -10,59 +10,13 @@ sources:
 
 # Composting Methods
 
-Source: [[steve-solomon]], "Gardening When It Counts" (2005)
-
-## The Truth About Compost
-
-Solomon's chapter on compost challenges the [[hamilton-geoffhamilton-nick-organic-gardening-companion-planting]] orthodoxy that "all compost is good compost." His core argument: most home-made compost is nutritionally inadequate for growing high-demand vegetables, and excessive [[hamilton-composting-and-organic-matter-management]] can unbalance soil minerals.
-
-The original [[geoff-hamilton]] movement (1940s) propagated the belief that any compost would grow great vegetables. This was propaganda to build a movement, not scientific truth. In reality, for compost to serve as the sole fertility source for most vegetable crops, it needs:
+Source: [[hamilton-geoffhamilton-nick-organic-gardening-companion-planting]] orthodoxy that "all compost is good compost." His core argument: most home-made compost is nutritionally inadequate for growing high-demand vegetables, and excessive [[geoff-hamilton]] movement (1940s) propagated the belief that any compost would grow great vegetables. This was propaganda to build a movement, not scientific truth. In reality, for compost to serve as the sole fertility source for most vegetable crops, it needs:
 - Nitrogen content exceeding 3 percent
 - Total N+P+K exceeding 6 percent (with fair phosphorus)
 - C/N ratio no higher than 12:1
-- Significant calcium, magnesium, and [[dynamic-accumulator-plants-trace-minerals]] in correct proportions
+- Significant calcium, magnesium, and [[fukuoka-textdoc-composting-critique-futility-prepared-organic-matter]] on beds and digging it in) is risky because:
 
-Most home compost achieves none of these targets.
-
-## Sheet Composting: Risks and Warnings
-
-Sheet composting (spreading raw [[fukuoka-textdoc-composting-critique-futility-prepared-organic-matter]] on beds and digging it in) is risky because:
-
-1. **Microbial bloom**: When organic matter is incorporated, soil microorganisms multiply rapidly, consuming [[plant-available-nitrogen-ammonium-nitrate]], phosphorus, potassium, calcium, and magnesium. Plants are temporarily starved while the microbial population peaks.
-2. **Nutrient lockup**: Until the microbes die and release their nutrients back, the soil is effectively depleted. This period can last weeks to months depending on temperature and C/N ratio.
-3. **Temperature dependence**: In cool spring soil, decomposition is extremely slow. In freezing climates, autumn sheet composting on spring beds may not finish decomposing before planting time -- a "fatal catastrophe" where nothing grows until midsummer.
-
-### Guidelines if You Must Sheet Compost
-
-- Only use materials with C/N no higher than 30:1
-- Limit depth to 1 inch (2.5 cm) per application
-- In mild, non-freezing climates: decomposition is faster and safer
-- In freezing climates: avoid autumn sheet composting on spring beds
-- Lime at 50 lbs per 1,000 sq ft each time you sheet compost (unless manure is already limed)
-- Never sheet compost poultry or rabbit manure (too strong, too low C/N) -- use as fertilizer
-- Can include thin layers of poultry/rabbit manure to lower average C/N of leafy/dried materials
-
-## Temperature and Decomposition Speed
-
-The rule: for every 10F (5C) increase in temperature, the speed of organic decomposition doubles (geometrically, not linearly). At 75F (24C) under mulch, a 6-inch layer of hay may take a year to decompose. The same material, passed through a cow and composted, decomposes in months because it is thoroughly mixed with enzymes and microorganisms.
-
-Organic enzymes are destroyed around 120F (50C). Above ~150F (65C), nitrogen is lost as ammonia gas. Heaps that get too hot lose the bulk of their nutrients.
-
-## The Analogy: Composting as Fermentation
-
-Solomon compares composting to making wine or cheese -- it is a controlled microbial fermentation. Two things distinguish quality:
-1. Control of conditions (temperature, moisture, ingredients, timing)
-2. Standardization of inputs (consistent materials, proper C/N)
-
-Casual composting produces erratic results, like a badly made homebrew.
-
-## Three Grades of Compost
-
-### Low-Grade Compost
-
-N content around 1.5%, C/N around 20:1, N+P+K under 3%.
-
-Typical of [[solomon-municipal-compost-inadequacy-vegetable-growing]] (mostly paper, cardboard, chipped tree trimmings with C/N exceeding 50:1). After extensive processing, C/N drops to ~25:1 but nitrogen is lost as greenhouse gases. Barely suitable for low-demand vegetables in warm climates. Better suited as mulch for ornamentals.
+1. **Microbial bloom**: When organic matter is incorporated, soil microorganisms multiply rapidly, consuming [[solomon-municipal-compost-inadequacy-vegetable-growing]] (mostly paper, cardboard, chipped tree trimmings with C/N exceeding 50:1). After extensive processing, C/N drops to ~25:1 but nitrogen is lost as greenhouse gases. Barely suitable for low-demand vegetables in warm climates. Better suited as mulch for ornamentals.
 
 ### Medium-Quality Compost: The Once-a-Year Heap
 
@@ -88,3 +42,88 @@ N content exceeding 3%, C/N below 12:1, N+P+K exceeding 6%. Requires careful ing
 **Shredder-grinders**: expensive, noisy, and counterproductive. Finely ground material decomposes too fast and too hot, driving off nitrogen. Let microbes work at their own pace in an ordinary heap.
 
 ## Mulch: Solomon's Critique
+
+## Overview
+
+Solomon Composting Methods represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish solomon composting methods
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving solomon extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Solomon Composting Methods finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for solomon composting methods. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+solomon composting methods and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Solomon Composting Methods has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of solomon composting methods into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[root-competition-plant-spacing-solomon]]
+- [[solomon-growing-perennials-asparagus-rhubarb]]
+- [[solomon-low-grade-compost-making-methods]]
+- [[solomon-shade-and-sunlight-requirements]]
+- [[solomon-wheelbarrow-selection-garden-tool-care-maintenance]]

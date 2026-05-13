@@ -21,41 +21,13 @@ sources:
 
 Cycas revoluta, commonly called the sago palm or king sago, is a cycad in the family Cycadaceae. Despite its common name, it is not a true palm but a gymnosperm more closely related to conifers and ginkgos.
 
-It is native to southern Japan including the Ryukyu Islands and Kyushu. The species is one of the most widely cultivated cycads worldwide, valued as an ornamental landscape plant in subtropical and [[fukuoka-natural-farming-in-tropical-regions]].
-
-All parts of the plant contain toxic cycasin and other azoxyglycosides. Ingestion causes severe gastrointestinal distress, liver damage, and potentially fatal neurological symptoms in humans and livestock.
-
-## Taxonomy and Morphology
-
-Cycas revoluta was described by Carl Peter Thunberg in 1782. The specific epithet refers to the revolute (rolled backward) margins of the leaflets.
-
-The plant has a thick, shaggy trunk that can reach 2 to 7 meters in height over several decades. Growth is extremely slow, often producing only one flush of new leaves per year.
-
-The trunk is covered with persistent leaf bases that form a characteristic armor-like pattern. Older specimens develop multiple heads through branching at the crown.
-
-Leaves are pinnate, glossy dark green, and 1 to 2 meters long. Each leaf bears 100 to 150 stiff, narrow leaflets arranged in a V-shape along the rachis.
-
-Leaflets are 8 to 18 centimeters long and 4 to 6 millimeters wide, with revolute margins and a prominent midrib. New leaves emerge as a tight spiral before unfurling.
-
-The species is dioecious, with separate male and female plants. Male plants produce a cylindrical pollen cone up to 60 centimeters tall and 15 centimeters wide.
-
-Female plants bear a loose cluster of megasporophylls at the crown. Each megasporophyll is 15 to 25 centimeters long and bears 2 to 8 ovules along its margins.
-
-Seeds are roughly ovoid, 3 to 5 centimeters long, bright orange to red when ripe, and highly toxic. Each seed weighs approximately 20 to 30 grams.
-
-## Distribution and Habitat
-
-Cycas revoluta is native to the southern Japanese islands of Kyushu, Shikoku, and the Ryukyu archipelago. It grows on rocky hillsides, coastal cliffs, and forest margins at elevations up to 500 meters.
-
-The species has been widely naturalized in parts of southern China, Taiwan, Korea, and northern Australia. Naturalized populations also occur in Mauritius, eastern Africa, and the Americas.
-
-It thrives in well-drained, slightly acidic soils in warm [[query-how-to-grow-rare-tropical-fruits-in-marginal-and-subtropical-climates]]. Optimal growth occurs in areas with annual rainfall of 1000 to 2000 millimeters and mean temperatures of 20 to 27 degrees Celsius.
+It is native to southern Japan including the Ryukyu Islands and Kyushu. The species is one of the most widely cultivated cycads worldwide, valued as an ornamental landscape plant in subtropical and [[query-how-to-grow-rare-tropical-fruits-in-marginal-and-subtropical-climates]]. Optimal growth occurs in areas with annual rainfall of 1000 to 2000 millimeters and mean temperatures of 20 to 27 degrees Celsius.
 
 It is tolerant of coastal salt spray and brief periods of drought. It is moderately cold-hardy, surviving short freezes to minus 5 degrees Celsius with foliar damage.
 
 The species typically grows in partial shade to full sun in its native range. Under heavy canopy cover, growth slows further but the plant persists for decades.
 
-Soil pH preferences range from slightly acidic (pH 5.5) to neutral (pH 7.0). It does not tolerate saline or highly alkaline substrates despite its coastal distribution.
+[[soil-ph]] preferences range from slightly acidic (pH 5.5) to neutral (pH 7.0). It does not tolerate saline or highly alkaline substrates despite its coastal distribution.
 
 ## Cultivation
 
@@ -63,9 +35,7 @@ Cycas revoluta is among the most commonly cultivated cycads in temperate and sub
 
 Propagation is primarily from seed, which requires scarification and soaking before sowing. Seeds germinate in 2 to 6 months at soil temperatures of 25 to 30 degrees Celsius.
 
-[[hamilton-vegetative-propagation]] from offsets or "pups" that form at the base of mature trunks is also practiced. Offsets are removed, allowed to callus for several days, and rooted in well-drained sand.
-
-The species requires excellent drainage and is susceptible to [[query-what-causes-root-rot-in-cannabis-and-how-to-prevent-it]] waterlogged soils. A sandy loam mix with added perlite or pumice provides ideal growing conditions.
+[[query-what-causes-root-rot-in-cannabis-and-how-to-prevent-it]] waterlogged soils. A sandy loam mix with added perlite or pumice provides ideal growing conditions.
 
 Major pests include the cycad scale (Aulacaspis yasumatsui), which can devastate cultivated specimens. The blue cycad butterfly (Luthrodes pandava) larvae also defoliate plants in tropical regions.
 
@@ -81,10 +51,85 @@ Other toxic constituents include cycasin-related neocycasins, macrozamin, and th
 
 Ingestion of seeds causes vomiting, diarrhea, abdominal pain, and in severe cases, seizures, coma, and death. Livestock poisoning is well documented in regions where the plant is accessible to grazing animals.
 
-Despite the toxicity, seeds have been traditionally processed as a starchy food source in Japan and [[psilocybe-southeast-asia-pacific]]. Processing involves prolonged soaking, repeated washing, and fermentation to leach out water-soluble cycasin.
-
-Traditional detoxification reduces but does not entirely eliminate cycasin. Chronic consumption of poorly processed sago flour has been epidemiologically linked to higher rates of [[blesching-cannabis-liver-cancer]] and neurological disorders.
+Despite the toxicity, seeds have been traditionally processed as a starchy food source in Japan and [[blesching-cannabis-liver-cancer]] and neurological disorders.
 
 ## Ecological Role
 
 In its native habitat, Cycas revoluta serves as a host plant for the larvae of several Lepidoptera species. The cycad blue butterfly (Luthrodes pandava) is a specialist herbivore whose lifecycle depends on cycad foliage.
+
+## Overview
+
+Cycas Revoluta represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish cycas revoluta
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving cycas extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Cycas Revoluta finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for cycas revoluta. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+cycas revoluta and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Cycas Revoluta has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of cycas revoluta into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.

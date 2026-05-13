@@ -9,7 +9,7 @@ sources: []
 
 # Earth Plaster and Natural Finishes
 
-Natural [[natural-plasters-and-earthen-wall-finishes]] protect building surfaces while maintaining breathability. Unlike conventional paint and gypsum plaster, natural finishes allow moisture vapor to pass through walls, preventing trapped moisture that causes mold and decay. This is essential for earth, straw, and timber-based buildings.
+Natural wall finishes protect building surfaces while maintaining breathability. Unlike conventional paint and gypsum plaster, natural finishes allow moisture vapor to pass through walls, preventing trapped moisture that causes mold and decay. This is essential for earth, straw, and timber-based buildings.
 
 ## Why Natural Finishes Matter
 
@@ -32,7 +32,7 @@ A typical earthen plaster mix by volume:
 
 - **Clay-rich soil:** 1 part (the binder)
 - **Sand:** 2-3 parts (prevents cracking)
-- **Fiber:** 0.5 part chopped straw, cattail fluff, or [[coleman-french-maraicher-horse-manure-hotbed-system]] (tensile strength)
+- **Fiber:** 0.5 part chopped straw, cattail fluff, or horse manure (tensile strength)
 - **Water:** enough to achieve workable consistency (like thick cake batter)
 
 ### Application Process
@@ -54,13 +54,13 @@ Make test batches and apply to a small area. Watch for:
 
 ## Lime Wash
 
-Lime wash is a thin, breathable coating made from [[cervantes-hydrated-lime-quicklime-ph-adjustment]] (type S) and water. It has been used for centuries on exterior and interior masonry, earth, and [[comparison-lime-plaster-vs-earthen-plaster]] walls.
+Lime wash is a thin, breathable coating made from hydrated lime (type S) and water. It has been used for centuries on exterior and interior masonry, earth, and lime plaster walls.
 
 ### Recipe
 
 - **Hydrated lime (type S):** 1 part by volume
 - **Water:** 3-5 parts by volume
-- **Optional pigment:** [[jadam-natural-mineral-leaching-and-replenishment]] pigments (ochres, iron oxides) for color
+- **Optional pigment:** natural mineral pigments (ochres, iron oxides) for color
 - **Optional salt:** 1 tablespoon per gallon to improve adhesion on porous surfaces
 
 ### Application
@@ -116,7 +116,7 @@ Alis is a traditional earthen finish coat from the American Southwest, used on a
 - **Clay soil (fine):** 1 part
 - **Fine sand:** 0.5-1 part (optional, for reducing shrinkage)
 - **Water:** enough for a creamy consistency
-- **Additives (choose some):** wheat paste (1/4 cup per gallon), cactus juice ([[comparison-agave-vs-prickly-pear-cultivation]] pad extract), borax (1/4 cup), linseed oil (1/4 cup), milk (1 cup), or manure (1 cup)
+- **Additives (choose some):** wheat paste (1/4 cup per gallon), cactus juice (prickly pear pad extract), borax (1/4 cup), linseed oil (1/4 cup), milk (1 cup), or manure (1 cup)
 
 ### Application
 
@@ -140,11 +140,11 @@ Tadelakt is a waterproof lime plaster technique originating from Morocco. It pro
 
 - **Lime plaster:** hydraulic lime (type NHL 2 or NHL 3.5) with fine marble sand
 - **Black soap (savon noir):** olive-oil-based soft soap for burnishing
-- **Water**
 
-### Process
+## See Also
 
-1. Apply lime plaster in thin coats (1/8 inch) to a smooth substrate
-2. Allow to cure for several days until firm but still slightly damp
-3. Smooth with a wooden or stone trowel, then compress with a hard plastic trowel
-4. Apply black soap diluted in water with a rag
+- [[holzer-roundwood-shelters-earth-cellars]]
+- [[earth-shaping-and-water-management-in-the-tropics]]
+- [[earth-resources-materials-excavation]]
+- [[query-how-to-use-diatomaceous-earth-in-the-garden]]
+- [[holmgren-ethical-principles-care-earth-people-fair-shares]]

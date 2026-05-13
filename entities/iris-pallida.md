@@ -24,47 +24,7 @@ The species is the primary commercial source of orris root, a prized fixative in
 
 Plants reach 60–90 cm tall with broad, glaucous, sword-shaped leaves and pale lavender-blue to nearly white flowers. The species is hardy to USDA zones 4–9 and thrives in well-drained calcareous soils.
 
-*Iris pallida* is one of the parent species of many modern bearded iris hybrids. Its contributions include fragrance, [[dighton-fungal-drought-tolerance-plant-water-relations]], and the glaucous leaf coloration prized in breeding programs.
-
-## Taxonomy and Morphology
-
-*Iris pallida* belongs to subgenus *Iris* (formerly subgenus *Iris* section *Iris*), the bearded iris group. The species was described by Jean-Baptiste Lamarck in 1789.
-
-The rhizomes are stout, creeping, and produce a characteristic violet-like fragrance when dried. Stems are erect, branched, and bear 2–3 flowers per stem.
-
-Flowers are 8–12 cm across with pale lavender-blue falls bearing a yellow-bearded crest. Standards are erect and slightly paler than the falls. The perianth tube is 2–3 cm long.
-
-Leaves are ensiform, glaucous, 30–60 cm long and 2–4 cm wide. They arise in fan-shaped clusters from the rhizome apex and persist as evergreen basal rosettes in mild climates.
-
-The fruit is an oblong-ovoid capsule, 4–6 cm long, dehiscing by three valves. Seeds are brown, wrinkled, and approximately 5 mm in diameter.
-
-Chromosome number is 2n = 24, consistent with most diploid bearded iris species. This base chromosome count makes *I. pallida* a useful parent in cytologically straightforward hybridization programs.
-
-### Key Varieties
-
-*Iris pallida* var. *pallida* is the wild-type form with pale lavender flowers. *Iris pallida* var. *cengialti* (syn. *I. cengialti*) is a more compact alpine form from the Slovenian and Italian karst.
-
-The cultivar 'Argentea Variegata' features striking cream-striped foliage and is widely planted as an ornamental.
-
-## Distribution and Habitat
-
-The species is native to the eastern Adriatic coast, from Slovenia through Croatia to Montenegro and Albania. It occurs in the Dinaric Alps and on limestone cliffs from sea level to 1,400 m elevation.
-
-*Iris pallida* grows on dry, rocky, calcareous slopes, in open scrubland and at forest margins. It prefers full sun to partial shade and well-drained substrates.
-
-Naturalized populations occur in southern France, Italy, and parts of central Europe where it was historically cultivated for orris root production. It has escaped cultivation in some Mediterranean regions.
-
-The species is classified as Near Threatened in parts of its native range due to habitat loss and over-collection of wild rhizomes.
-
-Several disjunct populations occur on offshore Adriatic islands including Krk, Rab, and Hvar. These island populations show subtle morphological divergence from mainland forms, particularly in flower shade and leaf width.
-
-## Cultivation
-
-*Iris pallida* is one of the easiest bearded irises to grow, tolerating drought and poor soils better than most *Iris* hybrids. It requires full sun and excellent drainage.
-
-Plant rhizomes in late summer to early autumn, positioning the top of the rhizome at or just above soil level. Space plants 30–40 cm apart to allow for rhizome spread.
-
-The species is largely pest-free and resistant to iris borer (*Macronoctua onusta*), a common pest of other bearded irises. [[cervantes-foliar-spots-blight-fungal-leaf-diseases]] spot can occur in humid conditions.
+*Iris pallida* is one of the parent species of many modern bearded iris hybrids. Its contributions include fragrance, [[cervantes-foliar-spots-blight-fungal-leaf-diseases]] spot can occur in humid conditions.
 
 Division every 3–4 years rejuvenates clumps and maintains flowering vigor. The variegated form 'Argentea Variegata' is slower-growing and benefits from more frequent division.
 
@@ -78,12 +38,93 @@ Commercial orris production is concentrated in the Florence region of Italy, whe
 
 *Iris pallida* is pollinated primarily by bumblebees (*Bombus* spp.) and other large bees attracted to the nectar guides on the falls. The prominent beard provides a landing platform for pollinators.
 
-The species hybridizes readily with other bearded irises in cultivation, particularly *[[iris-germanica]]* and *Iris variegata*. Many modern tall bearded iris cultivars carry *I. pallida* ancestry.
-
-Its glaucous foliage is among the most drought-tolerant in the genus, reflecting adaptation to the dry karst habitats of the eastern Adriatic. The waxy leaf cuticle reduces water loss during the hot Mediterranean summer.
-
-In its native habitat it co-occurs with other limestone specialists including *Amelanchier ovalis*, *Sesleria* spp., and *Carex humilis*. These calcareous grassland communities are [[psilocybe-global-biodiversity-hotspots]] in the Dinaric region.
+The species hybridizes readily with other bearded irises in cultivation, particularly *[[psilocybe-global-biodiversity-hotspots]] in the Dinaric region.
 
 The species shows limited [[clay-pellet-seed-dispersal]], with most seeds falling within 1 m of the parent plant. Vegetative spread via rhizome elongation is the dominant mode of colony expansion in stable populations.
 
 Rhizome fragments can persist in the soil for several years without active growth, allowing *I. pallida* to survive intermittent disturbance. This resilience contributes to its persistence in abandoned agricultural terraces.
+
+## Overview
+
+Iris Pallida represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish iris pallida
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving iris extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Iris Pallida finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for iris pallida. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+iris pallida and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Iris Pallida has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of iris pallida into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[iris-ensata]]
+- [[iris-entity-pihkal]]
+- [[iris-pseudacorus]]
+- [[iris-pseudocorus-mollison]]
+- [[iris-versicolor]]

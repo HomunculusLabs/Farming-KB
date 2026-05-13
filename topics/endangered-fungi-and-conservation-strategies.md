@@ -1,6 +1,6 @@
 ---
 title: "Endangered Fungi and Conservation Strategies"
-subtitle: "Protecting the hidden kingdom: why [[fungal-biodiversity|fungal biodiversity]] is collapsing and what can be done"
+subtitle: "Protecting the hidden kingdom: why fungal biodiversity is collapsing and what can be done"
 tags: [mycology, conservation, biodiversity, endangered-species, fungal-ecology]
 date: 2026-05-10
 updated: 2026-05-10
@@ -37,35 +37,10 @@ The problem is not that fungi are inherently fragile. Many are
 astonishingly resilient, thriving in extreme environments from Antarctic
 rock surfaces to deep-sea hydrothermal vents. The problem is that human
 activity is dismantling the ecological networks fungi depend on faster
-than scientists can [[doc|doc]]ument them. Old-growth forests are cleared,
-wetlands are drained, and atmospheric nitrogen reshapes soil chemistry,
-each change rippling through fungal communities in ways that are
-difficult to [[det|det]]ect until it is too late.
+than scientists can [[det|det]]ect until it is too late.
 
 This article examines the scope of fungal endangerment, the unique
-challenges of assessing and protecting [[fungal-biodiversity]], the major
-threats driving declines, and the conservation strategies that offer
-hope for preserving what remains of this hidden kingdom.
-
-## The Scale of Undocumented Fungal Diversity
-
-The first and most fundamental obstacle to fungal conservation is that
-the vast majority of fungal species have never been described. Current
-estimates suggest that 90 to 97 percent of all fungal species remain
-unknown to science. No complete inventory of soil fungi exists for any
-geographic region. No single site on Earth has been comprehensively
-surveyed for fungi using all available methods.
-
-In temperate areas, approximately six times as many fungal species
-occur as native plant species. A single 200-hectare study site can
-harbor 2,500 to 3,000 fungal species if studied by multiple specialists
-over 25 years or more. Yet most of the planet has received nowhere near
-that level of attention. Tropical forests, which likely harbor the
-highest fungal diversity, are also the most undersampled and the most
-threatened by deforestation.
-
-Molecular methods continue to reveal that described species are often
-species complexes, containing multiple [[cryptic-species]] that are
+challenges of assessing and protecting [[cryptic-species]] that are
 morphologically similar but genetically distinct. Environmental DNA
 sampling from soil and water regularly detects fungal lineages that have
 no known cultivated or fruiting-body representative. The hidden
@@ -103,37 +78,7 @@ Standard IUCN Red List criteria were designed with animals and plants in
 mind and are difficult to apply to fungi. Population size is ambiguous
 for organisms whose biomass is primarily underground. Geographic range
 data relies on sporadic fruiting records rather than actual mycelial
-distribution. Generation time is difficult to estimate. [[spore-dispersal]]
-mechanisms make range calculations complex.
-
-Despite these challenges, progress is being made. The Global Fungal Red
-List Initiative, coordinated through IUCN, is systematically assessing
-threatened fungal species. As of recent assessments, approximately 50 to
-600 fungal species have been formally evaluated (the number varies by
-source and date), with many classified as threatened. This is a tiny
-fraction of described species, let alone estimated total diversity.
-
-Europe has led fungal red-listing efforts. The Netherlands pioneered
-fungal Red List assessments, documenting dramatic declines among
-ectomycorrhizal species associated with declining forest health.
-Scandinavian countries have used long-term foraging records to track
-species trends. Germany, Switzerland, and the UK maintain updated
-fungal Red Lists. In the Nordic countries, some species have shown
-declines of 80 percent or more over recent decades.
-
-## Major Threats to Fungal Biodiversity
-
-### Habitat Destruction
-
-Habitat destruction is the single greatest threat to fungal diversity
-worldwide. Deforestation, urbanization, and agricultural expansion
-eliminate the substrates and host plants that fungal communities depend
-on. Old-growth forests, which harbor exceptionally diverse fungal
-assemblages including many rare specialists, are particularly
-threatened. When these forests are cleared, entire fungal communities
-disappear.
-
-Because most fungal biomass exists below ground as [[mycelium]], habitat
+distribution. Generation time is difficult to estimate. [[mycelium]], habitat
 loss severs the hyphal connections that sustain ecosystem functioning
 long before above-ground effects become visible. A clearcut forest may
 retain some visible fungi for a few years, but the underground network

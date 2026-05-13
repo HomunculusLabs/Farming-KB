@@ -82,6 +82,13 @@ These traditional approaches suggest several principles for modern land division
 Sensible land division is not merely an aesthetic preference — it is a functional necessity for creating sustainable human settlements that maintain ecological integrity over the long term.
 
 ## See Also
-- [[brassinosteroid-physiological-mechanisms-cell-elongation-division]]
 - [[land-selection-for-homesteading]]
 - [[savory-erosion-and-land-deterioration]]
+
+## See Also
+
+- [[mollison-designers-landscape-rehabilitation-degraded-mined-land]]
+- [[integrated-land-management-tropical]]
+- [[arid-land-fertilisers-and-toxin-pollution]]
+- [[holmgren-land-systems-catchment-planning]]
+- [[pioneer-plants-for-land-restoration]]

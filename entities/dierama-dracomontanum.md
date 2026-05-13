@@ -109,13 +109,8 @@ Conservation assessments by the South African National Biodiversity Institute li
 
 ## See Also
 
-- [[dierama-pulcherrimum]]
 - [[iris-germanica]]
-- [[crocus-sativus]]
 - [[gladiolus-tristis]]
-- [[freesia-refracta]]
 - [[watsonia-borbonica]]
-- [[sparaxis-tricolor]]
 - [[ixia-maculata]]
-- [[tigridia-pavonia]]
 - [[crocosmia-lucifer]]

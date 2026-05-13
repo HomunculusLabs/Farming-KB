@@ -22,8 +22,7 @@ environmental demands throughout the cropping cycle.
 
 ## Temperature Management During Cropping
 
-During the [[cannabis-vegetative-growth-stage]] period, the substrate was held at optimum
-[[query-what-is-the-ideal-temperature-range-for-growing-cannabis]]. Once the change to generative growth is initiated, air
+During the [[query-what-is-the-ideal-temperature-range-for-growing-cannabis]]. Once the change to generative growth is initiated, air
 temperature becomes the controlling factor. Each species has an optimum
 temperature for fruitbody development within a broader growing range.
 
@@ -43,12 +42,7 @@ successive flush bearing fewer mushrooms. The manner of flushing is determined
 during the pin initiation period.
 
 Even pinning sets up a uniform flushing pattern. Uneven flushing creates
-difficult situations for watering and [[eclss-environmental-control-life-support]]. Early forming
-pinheads should be picked off as buttons unless they constitute the flush.
-
-Poor first flushes are indicative of faulty pinning procedures and lead to
-lower total yields. The progressive build-up of competing contaminant organisms
-eventually brings [[pf-tek-mushroom-growth-timeline]] to a halt, so the goal is to maximize yields
+difficult situations for watering and [[pf-tek-mushroom-growth-timeline]] to a halt, so the goal is to maximize yields
 in the early flushes.
 
 ## Watering Techniques

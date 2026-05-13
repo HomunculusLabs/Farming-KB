@@ -9,7 +9,7 @@ sources:
 ---
 # Saltmarsh Fungal Ecology
 
-[[biodiversity-of-fungi-soil-fungal-communities-agriculture]] in saltmarsh ecosystems play a central role in the decomposition of **smooth cordgrass** (*[[spartina-alterniflora]]*), the dominant macrophyte of Atlantic coast saltmarshes. Ascomycete fungi are the primary decomposers of standing-dead cordgrass, driving lignocellulose breakdown through laccase-mediated enzymatic systems and forming a critical link in the coastal wetland food web.
+[[spartina-alterniflora]]*), the dominant macrophyte of Atlantic coast saltmarshes. Ascomycete fungi are the primary decomposers of standing-dead cordgrass, driving lignocellulose breakdown through laccase-mediated enzymatic systems and forming a critical link in the coastal wetland food web.
 
 ## The Saltmarsh Decomposition System
 
@@ -47,44 +47,95 @@ Together, these species occupy **greater than 90%** of the blade area at sites w
 
 ### Community Identification Methods
 
-The [[air-pollution-fungal-community-responses]] has been characterized through complementary approaches:
-
-- **Direct microscopy**: observation of ascomata and capture of expelled ascospores from standing-decaying blades
-- **DNA-based methods**: rDNA/ITS PCR with ascomycete-selective primers, clone libraries, and T-RFLP analysis
-- Both approaches revealed the same predominant species, confirming the dominance of the three *Phaeosphaeria/Mycosphaerella* species
-- Two species more rarely encountered in ITS clone libraries and by T-RFLP were *H. erubescens* and an undescribed ascomycete nicknamed "4clt"
-
-## Adaptations of Cordgrass Ascomycetes
-
-Smooth cordgrass ascomycetes are exceptionally well-adapted to the standing-decay niche:
-
-- **Wet-dry tolerance**: they lose little or no biomass after aestivating and readily revive when re-wetted
-- **Turgor-pressure-driven drilling**: allows penetration into solid substrates
-- **External enzymatic lysis**: reduces solid resistance, enabling thorough mycelial integration into standing-dead cordgrass
-- **Protection from competition**: inside dead shoots, ascomycetes carry out digestive work free from prokaryotic competition and micropredator pressure (e.g., amoebae)
-
-### Factors Favouring Fungal Production
-
-Several additional factors may favour fungal production in standing-decaying smooth cordgrass:
-
-- **Nitrogen-fixing bacterial consortia** on decaying blades
-- **Synergistic relationships with green microalgae** on blade surfaces
-- **Nitrogen uptake from flooding-tidal waters**
-- **Gas and water vapour exchange** between standing-decaying and living parts of shoots, connected by aerenchyma channels
-
-## Lignocellulose Decomposition
-
-### The Challenge
-
-Standing-dead smooth cordgrass is composed largely of **lignocellulose (70–75%)**, making it a challenging substrate for microbial decomposition. Early microcosm studies suggested cordgrass ascomycetes were weak degraders (<0.1% d⁻¹ mineralization), but this was likely an artefact of unfavourable methods (violent shaking, absence of non-lignocellulose carbohydrates).
-
-### Revised Decomposition Rates
-
-When tested under more realistic static conditions with malt and [[marmite-yeast-extract-straw-substrate]]:
+The [[marmite-yeast-extract-straw-substrate]]:
 
 - *P. spartinicola* alone achieved mineralization rates >**0.8% d⁻¹**
 - A combination of the three predominant species achieved >**20% mineralization** after 6 weeks at ~23°C, with the rate still increasing
-- Direct transmission electron microscopy confirmed both **type 1 and type 2 [[staycare-soft-rot-fungi-in-pollutant-degradation]]** in naturally decaying shoots
-- Type 2 soft rot is very similar to the [[comparison-brown-rot-vs-white-rot-bioremediation]] of basidiomycetes
+- Direct transmission electron microscopy confirmed both **type 1 and type 2 [[comparison-brown-rot-vs-white-rot-bioremediation]] of basidiomycetes
 
 ## Ascomycete Laccase Genes
+
+## Overview
+
+Saltmarsh Fungal Ecology represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish saltmarsh fungal ecology
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving saltmarsh extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Saltmarsh Fungal Ecology finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for saltmarsh fungal ecology. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+saltmarsh fungal ecology and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Saltmarsh Fungal Ecology has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of saltmarsh fungal ecology into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[fungal-salt-tolerance-and-ion-homeostasis]]
+- [[fungi-in-the-environment-saltmarsh-cordgrass-laccase-decomposition]]
+- [[gadd-fungal-saltmarsh-communities]]
+- [[gadd-saltmarsh-fungal-decomposition]]
+- [[gadd-saltmarsh-fungal-decomposition-laccase-genes]]

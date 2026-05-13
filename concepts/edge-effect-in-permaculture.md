@@ -8,7 +8,7 @@ type: concept
 
 ## Overview
 
-The [[edge-effect]] is one of the most important principles in [[permaculture-design]]. It describes the phenomenon where the interface between two ecosystems or media creates a third, more complex system that combines elements of both. Boundaries and edges tend to be species-rich, highly productive, and richly varied—making them critical targets for deliberate design intervention.
+The [[permaculture-design]]. It describes the phenomenon where the interface between two ecosystems or media creates a third, more complex system that combines elements of both. Boundaries and edges tend to be species-rich, highly productive, and richly varied—making them critical targets for deliberate design intervention.
 
 ## Why Edges Are Rich
 
@@ -82,3 +82,11 @@ Mollison frames a key design ethic: "Stupidity is an attempt to iron out all dif
 
 - Kormondy, E.J. (1959) *Concepts of Ecology*, Prentice Hall — on estuarine and reef productivity
 - Vogel, S. (1981) — Boundary layer theory
+
+## See Also
+
+- [[urban-permaculture-edge-effect-microclimate]]
+- [[edge-geometry-and-compatible-borders]]
+- [[bill-mollison-permaculture-a-designers-manual-edge-effect-and-ecotone-design]]
+- [[boundary-conditions-and-edge-effect]]
+- [[edge-cropping]]

@@ -1,7 +1,7 @@
 ---
 title: PF TEK Spore pf-tek-syringe-sterilization-and-storage and Preparation Technique
 tags: [pf-tek, cultivation, spore-syringe, sterilization, psilocybe-cubensis]
-source: "[[pf-tek-psilocybe-fanaticus-cultivation-method]] — PF TEK Simple [[accessible-mushroom-cultivation-for-disabilities]]"
+source: "accessible-mushroom-cultivation-for-disabilities"
 created: 2026-05-09
 ---
 
@@ -12,15 +12,7 @@ created: 2026-05-09
 The spore syringe is the foundational inoculation tool in the PF TEK cultivation
 method developed by Psilocybe Fanaticus. A spore syringe is a sterile syringe
 containing a suspension of mushroom spores in water, which is used to introduce
-fungal spores into [[oyster-mushroom-non-sterilized-substrate-cultivation]] jars. The proper sterilization of syringes
-and careful preparation technique are critical to preventing contamination, which
-is the primary cause of failure in home mushroom cultivation. The PF TEK describes
-a boiling-water sterilization method for syringes that is accessible to home
-cultivators without specialized laboratory equipment.
-
-## Materials Required
-
-The PF TEK specifies the following materials for spore [[mushroom-spore-printing-syringe-preparation-pf-tek]]:
+fungal spores into [[mushroom-spore-printing-syringe-preparation-pf-tek]]:
 
 1. **Spore print in jar**: A mushroom spore print deposited on a sterile surface
    inside a glass jar with a modified lid
@@ -88,3 +80,7 @@ rod through the center hole in the lid. Using the rod end, gently scrape the
 spores from the print surface into the water, creating a spore suspension.
 
 **Step 3 — Solution collection**: Insert the sterile syringe needle through the
+
+## See Also
+
+- [[pf-tek-spore-syringe-boiling-sterilization-storage-lifecycle]]

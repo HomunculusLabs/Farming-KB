@@ -10,33 +10,7 @@ sources: []
 
 Herbal medicine preparation encompasses the various techniques used to extract, preserve, and deliver the active constituents of medicinal plants for therapeutic use. The choice of preparation method significantly affects which compounds are extracted, their concentration, bioavailability, shelf stability, and onset of action. Different preparations are suited to different herbs, conditions, and patient needs.
 
-Understanding preparation methods allows herbalists and home practitioners to select the most appropriate form for a given herb and therapeutic goal. See [[medicinal-plant-preparations-tinctures-salves-teas]] for practical preparation instructions.
-
-## Water-Based Preparations
-
-Water-based preparations are the oldest and most fundamental forms of herbal medicine. They extract water-soluble compounds including polysaccharides, tannins, glycosides, some alkaloids, mucilage, and vitamins. They are simple to prepare, safe, and well-tolerated by most people.
-
-### Infusions (Hot Water Extracts)
-
-Infusions are made by pouring hot (but not necessarily boiling) water over dried or fresh herb material and steeping for a defined period. They are the standard preparation method for delicate plant parts including leaves, flowers, and soft stems, whose active constituents are readily extracted by hot water.
-
-Standard dosage for infusions is typically 1 to 2 teaspoons of dried herb (or 2 to 4 teaspoons of fresh herb) per cup of water. Steeping time ranges from 5 to 15 minutes for dried herbs, depending on the herb and the desired strength. Flowers and leaves generally require shorter steeping times than harder plant materials.
-
-Infusions extract volatile oils, flavonoids, and water-soluble compounds efficiently. They are the preferred preparation for aromatic herbs (chamomile, peppermint, [[comparison-lemon-balm-vs-passionflower]]) where preserving volatile oils contributes to therapeutic effect. Covered steeping prevents loss of [[query-how-do-fungal-volatile-compounds-affect-plant-growth-and-other-microorganisms]] through evaporation.
-
-Infusions are best consumed fresh but can be stored in the refrigerator for up to 24 hours. For longer storage, infusions can be frozen in ice cube trays. The recommended daily intake varies by herb but typically ranges from 1 to 3 cups per day.
-
-### Decoctions (Simmered Water Extracts)
-
-Decoctions involve simmering tougher plant materials in water for an extended period to extract their active constituents. They are used for roots, bark, seeds, nuts, and dense woody materials whose cell walls are more resistant to water extraction.
-
-Standard preparation involves combining 1 to 2 tablespoons of dried herb material per cup of water in a pot, bringing to a boil, then reducing heat and simmering for 15 to 30 minutes. Some very hard materials (certain roots and barks) may require 45 minutes or more of simmering for adequate extraction.
-
-Decoctions extract minerals, bitter principles, saponins, tannins, and other compounds bound in tougher plant matrices. They are the standard preparation for herbs like dandelion root, burdock root, ginger root, cinnamon bark, and licorice root.
-
-A combined approach involves first decocting the hard materials (roots, bark) for 20 minutes, then removing from heat and adding the softer materials (leaves, flowers) to infuse for an additional 10 minutes. This method is used for compound formulas containing both tough and delicate plant parts.
-
-Decoctions have a shorter [[psilocybin-shelf-life-stability]] than tinctures, typically 24 to 48 hours refrigerated. Making fresh daily is ideal. For extended use, decoctions can be reduced through further simmering into concentrated extracts called decoctums.
+Understanding preparation methods allows herbalists and home practitioners to select the most appropriate form for a given herb and therapeutic goal. See [[comparison-lemon-balm-vs-passionflower]]) where preserving volatile oils contributes to therapeutic effect. Covered steeping prevents loss of [[psilocybin-shelf-life-stability]] than tinctures, typically 24 to 48 hours refrigerated. Making fresh daily is ideal. For extended use, decoctions can be reduced through further simmering into concentrated extracts called decoctums.
 
 ### Cold Infusions
 
@@ -54,7 +28,7 @@ Alcohol-based preparations extract a broader range of plant constituents than wa
 
 Tinctures are concentrated liquid extracts made by soaking herb material in a solution of alcohol and water. They are one of the most versatile and widely used forms of herbal medicine, offering good potency, long shelf life, and relatively fast absorption.
 
-See [[herbal-tincture-making]] for comprehensive coverage of tincture preparation methods, alcohol selection, and [[cannabis-dosing-guidelines-by-condition]].
+See [[cannabis-dosing-guidelines-by-condition]].
 
 ### Fluid Extracts
 
@@ -74,9 +48,7 @@ Calendula oil, St. John's wort oil, comfrey oil, and plantain oil are popular he
 
 ### Herbal Salves and Balms
 
-Salves are semi-solid preparations made by combining herbal oils with beeswax (typically at a ratio of 4 to 5 parts oil to 1 part beeswax). They are applied topically for localized treatment of [[cannabis-for-skin-conditions-detailed]], wounds, muscle pain, and inflammation.
-
-See [[calendula-salve-making]] for detailed salve preparation instructions and formulations.
+Salves are semi-solid preparations made by combining herbal oils with beeswax (typically at a ratio of 4 to 5 parts oil to 1 part beeswax). They are applied topically for localized treatment of [[calendula-salve-making]] for detailed salve preparation instructions and formulations.
 
 ## Vinegar-Based Preparations
 
@@ -117,8 +89,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[herbal-medicine]]
 - [[herbal-salves-and-balms]]
-- [[doc]]
 - [[psilocybin]]
 - [[det]]

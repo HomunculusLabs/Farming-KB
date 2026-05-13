@@ -108,6 +108,13 @@ Many world beliefs share an essential core derived from contemplation of natural
 4. **Applied aesthetics**: Functional beauty models the permaculture principle that every element should serve multiple functions
 
 ## See Also
-- [[patterns-in-society]]
 - [[patterns-of-social-hierarchy]]
 - [[social-hierarchy-patterns-and-arts-in-permaculture]]
+
+## See Also
+
+- [[psilocybe-semilanceata-transcontinental-distribution-patterns]]
+- [[harner-cross-cultural-patterns-shamanic-plant-use]]
+- [[mckenna-prehistoric-imagination-and-consciousness-patterns]]
+- [[species-specific-flush-patterns-psilocybe-panaeolus-grass-seed]]
+- [[climatic-zones-and-global-weather-patterns]]

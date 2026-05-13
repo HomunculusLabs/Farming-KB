@@ -12,21 +12,12 @@ type: query
 
 ## Short Answer
 Lignin is a complex structural polymer that makes up 20 to 30 percent of
-woody plant material and is one of the most resistant [[fungal-volatile-organic-compounds-communication]]
-to decomposition. Its slow breakdown by [[lignin-degradation|lignin degradation process]] is one of the
+woody plant material and is one of the most resistant [[lignin-degradation|lignin degradation process]] is one of the
 slowest steps in organic matter decomposition. Unlike cellulose and
 hemicellulose, which bacteria and many fungi can break down relatively
 quickly, lignin requires specialized enzyme systems found primarily in
-[[ligninolytic-enzymes|ligninolytic enzymes]] including
-[[fungal-lignin-peroxidase-veratryl-alcohol]], [[fungal-manganese-peroxidase-remediation]], and laccase that break the
-complex aromatic polymer into smaller, more digestible molecules. The
-[[soil-food-web-nutrient-cycling|soil food web]]. As [[teaming-with-microbes-mulch-and-soil-food-web|wood chip mulch]] provide long-lasting benefits to soil biology rather than
-the short pulse of activity created by fresh green material.
-
-The breakdown products of lignin are important precursors to
-[[teaming-with-microbes-humus-formation-and-glomalin|glomalin production from mycorrhizal fungi]], is one of the primary pathways for building
+[[fungal-lignin-peroxidase-veratryl-alcohol]], [[soil-food-web-nutrient-cycling|soil food web]]. As [[teaming-with-microbes-humus-formation-and-glomalin|glomalin production from mycorrhizal fungi]], is one of the primary pathways for building
 long-term soil organic matter. The resulting humus contributes to soil
-[[mollison-designers-tropical-soils-and-cation-exchange-management]] capacity, water retention, aggregate stability, and
 [[aact-disease-suppression-mechanisms-ingham]].
 
 From a management perspective, understanding lignin's role helps explain
@@ -37,18 +28,11 @@ nitrogen immobilization is temporary and can be mitigated by composting
 wood chips first or by adding a nitrogen source like compost or manure
 alongside fresh chips. The ligninolytic enzyme systems of white-rot fungi also have significant applications beyond
 soil health. These same enzymes are responsible for the
-[[white-rot-fungi|white-rot fungi]] possess the
-  [[soil-food-web-nutrient-cycling|soil food web]] for years
+[[soil-food-web-nutrient-cycling|soil food web]] for years
 - Lignin breakdown products are key precursors to
-  [[mycoremediation-white-rot-fungi-lignin-degradation-enzymes|fungal  bioremediation]] of environmental pollutants
+  [[query-what-is-the-role-of-actinomycetes-in-soil-health-and-decomposition]]
 
-## Related
-
-- [[query-what-is-the-role-of-actinomycetes-in-soil-health-and-decomposition]]
-
-- [[query-what-is-the-role-of-springtails-and-soil-arthropods-in-soil-health]] Questions
 - [[query-what-is-humus-and-why-is-it-important-for-soil-health]]
-- [[query-what-are-the-best-mushroom-species-for-bioremediation]]
 - [[query-how-does-mycoremediation-work-and-what-can-fungi-clean-up]]
 ## Practical Considerations
 

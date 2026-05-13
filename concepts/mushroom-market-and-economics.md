@@ -18,7 +18,7 @@ sources:
 
 ## Overview
 
-The mushroom market has grown from a niche agricultural sector into a multi-billion dollar global industry. From the button mushroom commodity market to premium specialty varieties and [[functional-mushroom-products]], the economics [[history-of-mushroom-cultivation]] span a remarkable range of scales, from backyard operations to industrial complexes producing millions of pounds annually.
+The mushroom market has grown from a niche agricultural sector into a multi-billion dollar global industry. From the button mushroom commodity market to premium specialty varieties and [[functional-mushroom-products|medicinal mushroom products]], the economics [[historical-development-of-mushroom-cultivation]] span a remarkable range of scales, from backyard operations to industrial complexes producing millions of pounds annually.
 
 ## Historical Market Context
 
@@ -71,7 +71,7 @@ Specialty mushrooms (shiitake, oyster, king oyster, lion's mane, maitake, enoki,
 
 ### Medicinal Mushroom Market
 
-The [[medicinal-mushroom-health-benefits]] product market has experienced explosive growth:
+The [[medicinal-mushroom-health-benefits|medicinal mushroom]] product market has experienced explosive growth:
 
 - **[[medicinal-mushroom-dietary-supplements]]:** Capsules, powders, tinctures, and extracts of reishi, lion's mane, turkey tail, cordyceps, and chaga
 - **Functional foods:** Mushroom-infused coffees, teas, chocolates, and snack foods
@@ -101,7 +101,7 @@ Key cost components [[contamination-prevention-in-mushroom-cultivation]]:
 ### Scale Considerations
 
 - **Home/hobby scale:** Minimal equipment investment; primarily for personal consumption or small supplementary income
-- **Small commercial (1,000-10,000 sq ft):** Feasible for [[homestead-mushroom-business]]; lower capital requirements; can access farmers' markets and restaurant accounts
+- **Small commercial (1,000-10,000 sq ft):** Feasible for [[homestead-mushroom-business|homestead mushroom businesses]]; lower capital requirements; can access farmers' markets and restaurant accounts
 - **Large commercial (50,000+ sq ft):** Requires significant capital investment; specialized climate control; mechanized processing; wholesale market focus
 
 ## Market Channels
@@ -128,7 +128,7 @@ Key cost components [[contamination-prevention-in-mushroom-cultivation]]:
 
 ## See Also
 
-- [[homestead-mushroom-business]]
-- [[farmers-market-selling-guide]]
-- [[specialty-mushroom-species]]
-- [[gourmet-mushroom-species-guide]]
+- [[homestead-mushroom-business|homestead mushroom business]]
+- [[farmers-market-selling-guide|farmers' market selling]]
+- [[specialty-mushroom-species|specialty mushroom species]]
+- [[gourmet-mushroom-species-guide|gourmet mushroom species guide]]

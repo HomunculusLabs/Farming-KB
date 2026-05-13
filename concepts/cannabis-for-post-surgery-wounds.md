@@ -18,15 +18,7 @@ Cannabis has been used topically and internally for wound care throughout histor
 
 **CHI Value: 4** (1 study reviewed)
 
-Research on wound healing with cannabis preparations has shown promising results for post-surgical wound care. The anti-inflammatory, analgesic, and [[mycelium-running-mushroom-antimicrobial-properties-species-chart]] of cannabis make it relevant to wound management.
-
-## Anti-Inflammatory Action
-
-A 2009 Worcester, Massachusetts meta-analysis reviewed all cannabinoid studies published between 2004-2009. Results revealed that all types of cannabinoids (endogenous, synthetic, and non-cannabinoid plant constituents) effectively reduce pain from inflammation. This anti-inflammatory action is critical to wound healing, as excessive inflammation impairs the healing cascade.
-
-## Beta-Caryophyllene for Deep Wound Healing
-
-Beta-caryophyllene, a dietary cannabinoid found in [[comparison-black-pepper-vs-cardamom-tropical-spice-cultivation]], cloves, cinnamon, and many other spices, signals CB2 receptors to initiate:
+Research on wound healing with cannabis preparations has shown promising results for post-surgical wound care. The anti-inflammatory, analgesic, and [[comparison-black-pepper-vs-cardamom-tropical-spice-cultivation]], cloves, cinnamon, and many other spices, signals CB2 receptors to initiate:
 - Immune strengthening
 - Inflammation reduction
 - Deep wound healing
@@ -80,13 +72,7 @@ Wounds represent a breach of our boundaries -- physical, emotional, or psycholog
 
 ## Related
 
-- [[blesching-cannabis-post-surgery-wounds]] Topics
-
 - [[cannabis-skin-conditions]]
-- [[cannabis-topical-applications]] for detailed preparation and application guidance.
-
-## Related Topics
-
 - [[cannabis-anti-inflammatory-applications]] for anti-inflammatory mechanisms
 
 ## Practical Applications
@@ -118,8 +104,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[doc]]
 - [[pinene]]
-- [[dom]]
 - [[det]]
 - [[aframomum-melegueta]]

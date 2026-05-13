@@ -9,7 +9,7 @@ tags: [root-crop, staple-food, permaculture, tropical-agriculture, starch]
 
 ## Description
 
-Arrowroot is a tropical starchy root crop mentioned by [[bill-mollison]] in *[[permaculture]]: A Designers' Manual* as one of the reliable subsistence crops that hold constant value. Mollison includes it alongside potato and taro as an example of crops worth prioritizing over high-input, market-driven varieties because they provide food security across diverse conditions.
+Arrowroot is a tropical starchy root crop mentioned by [[permaculture]]: A Designers' Manual* as one of the reliable subsistence crops that hold constant value. Mollison includes it alongside potato and taro as an example of crops worth prioritizing over high-input, market-driven varieties because they provide food security across diverse conditions.
 
 ## Classification
 
@@ -38,13 +38,7 @@ Arrowroot is a tropical starchy root crop mentioned by [[bill-mollison]] in *[[p
 
 ## Relevance to Permaculture and Mycology
 
-Arrowroot fits [[permaculture-design]] as a low-maintenance, reliable producer of calorie-dense food. Its broad leaves provide ground cover that suppresses weeds and maintains soil moisture. The plant's requirement for organic-rich soils means it benefits from, and justifies, composting and mulching regimes that support soil fungal networks.
-
-The rhizosphere of arrowroot supports diverse mycorrhizal associations that aid in nutrient uptake, particularly phosphorus. The traditional processing method — involving fermentation and settling — creates opportunities for beneficial microbial activity. As a perennial root crop, arrowroot contributes to soil structure and carbon sequestration, supporting the fungal-dominated soil food web that permaculture systems aim to cultivate.
-
-## Source Reference
-
-Mollison, B. (1988). *Permaculture: A Designers' Manual*. [[tagari-publications]]. Chapter 2, section on Maximum Product Yield Concept.
+Arrowroot fits [[tagari-publications]]. Chapter 2, section on Maximum Product Yield Concept.
 
 ## Overview and Definition
 - A key concept in ecological and sustainability studies
@@ -83,8 +77,6 @@ Mollison, B. (1988). *Permaculture: A Designers' Manual*. [[tagari-publications]
 - Adaptive management recommended for changing conditions
 
 ## Related Topics
-- [[mollison-designers-coffee-shade-growing-systems]]
 - [[mollison-designers-willow-water-and-natural-rooting-propagation]]
-- [[mollison-earthworks-planning-and-post-earthworks-planting]]
 - [[mollison-village-enterprises-occupations]]
 - [[mollison-orographic-and-forest-rainfall-effects]]

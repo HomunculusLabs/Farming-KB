@@ -9,23 +9,8 @@ extracted: 2026-05-11
 
 ## Overview of Fungal Bioluminescence
 
-Some [[indoor-wood-decay-fungi-building-deterioration]] are bioluminescent, casting a dim light from their
-mycelia and [[bloomfield-asterophora-and-mycoparasites-of-fruiting-bodies]]. The phenomenon is found among a limited
-number of basidiomycete species, most of which are [[comparison-mycorrhizal-vs-saprotrophic-fungi]]
-that decompose dead wood. The light emitted is typically a pale green
-color, though intensity varies considerably among species and
-environmental conditions.
-
-Unlike the dramatic bioluminescence of fireflies, deep-sea fish, or
-dinoflagellates, fungal luminescence is subtle. Although the light can
-be sufficiently bright to be visible outdoors at night, the best way to
-observe luminous fungi is to take them into a photography darkroom and
-wait a few minutes until one's eyes adapt to the darkness.
-
-## Jack-o'-Lantern Mushroom: Omphalotus Olearius
-
-The Jack-o'-lantern, Omphalotus olearius, is the most commonly
-encountered bioluminescent mushroom in [[guzman-psilocybin-mushrooms-north-america]]. It appears in the
+Some [[bloomfield-asterophora-and-mycoparasites-of-fruiting-bodies]]. The phenomenon is found among a limited
+number of basidiomycete species, most of which are [[guzman-psilocybin-mushrooms-north-america]]. It appears in the
 late summer and early fall, surfacing above buried wood and forming
 extravagant clusters of yellowish mushrooms. When the fruiting bodies
 are fresh they emit a green glow that is especially evident from the
@@ -78,7 +63,7 @@ Some luminescent fruiting bodies emit enough light for reading. It is
 claimed that in the trenches of the First World War, soldiers attached
 mushrooms to their helmets to avoid nighttime collisions without drawing
 the attention of a sniper. While this account may be apocryphal, the
-underlying principle is sound: bioluminescent fungi produce visible
+underlying principle is sound: [[bioluminescent-fungi]] produce visible
 light without generating heat or requiring any external energy source
 beyond oxygen.
 

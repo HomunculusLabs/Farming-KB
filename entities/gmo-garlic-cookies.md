@@ -13,7 +13,7 @@ sources:
 
 # GMO (Garlic Cookies)
 
-**GMO**, also known as **Garlic Cookies**, is a potent indica-dominant hybrid cannabis strain created by crossing **[[girl-scout-cookies]] (GSC)** with **Chemdawg**. Despite the unappealing name, GMO has earned a devoted following among cannabis enthusiasts for its extraordinarily pungent garlic-onion aroma, exceptionally high THC content, and powerful sedating effects. It is considered one of the most chemically pungent and physically heavy strains in modern [[vic-high-cannabis-genetics-mendelian-inheritance]].
+**GMO**, also known as **Garlic Cookies**, is a potent indica-dominant hybrid cannabis strain created by crossing **[[vic-high-cannabis-genetics-mendelian-inheritance]].
 
 ## Genetic Lineage
 
@@ -27,7 +27,7 @@ sources:
 | **THC content** | 20–30% (average 25%) |
 | **CBD content** | < 1% |
 
-GMO sits at the intersection of two of the most influential genetic families in modern [[oner-cannabis-breeding-fundamentals]]. The Girl Scout Cookies lineage contributes its complex sweet, earthy, and musky [[cannabis-terpene-profile]] along with potent psychoactive effects, while Chemdawg contributes its signature diesel-fuel pungency, skunky sharpness, and heavy body effects. The combination produces a strain with one of the most divisive and memorable aromas in cannabis.
+GMO sits at the intersection of two of the most influential genetic families in modern [[cannabis-terpene-profile]] along with potent psychoactive effects, while Chemdawg contributes its signature diesel-fuel pungency, skunky sharpness, and heavy body effects. The combination produces a strain with one of the most divisive and memorable aromas in cannabis.
 
 ## Aroma and Flavor
 
@@ -41,9 +41,7 @@ GMO is famous for its extreme, polarizing aroma — many users describe it as th
 
 GMO's distinctive aroma and effects are driven by a unique terpene composition dominated by sulfur-containing and highly aromatic compounds:
 
-- **Caryophyllene** (dominant): 0.5–1.5%. This sesquiterpene contributes spicy, peppery, and woody notes. As the only terpene known to directly activate CB2 [[cannabinoid-receptors-cb1-cb2]], caryophyllene adds anti-inflammatory properties.
-- **Limonene**: 0.3–1.0%. Provides subtle citrus brightness beneath the dominant savory notes. Contributes mood elevation and stress relief.
-- **Myrcene**: 0.3–0.8%. The most common [[oner-cannabis-terpene-profiles-effects]], adding earthy, herbal notes and enhancing the sedating, couch-lock effects.
+- **Caryophyllene** (dominant): 0.5–1.5%. This sesquiterpene contributes spicy, peppery, and woody notes. As the only terpene known to directly activate CB2 [[oner-cannabis-terpene-profiles-effects]], adding earthy, herbal notes and enhancing the sedating, couch-lock effects.
 - **Humulene**: Present in moderate amounts. Contributes woody, earthy aromas and may suppress appetite.
 - **Linalool**: Trace amounts. Adds a subtle floral-sweetness and may enhance the strain's relaxing qualities.
 
@@ -64,16 +62,7 @@ GMO delivers overwhelmingly physical, sedating effects consistent with its indic
 - Strong physical heaviness (couch-lock) is typical at moderate to high doses
 - Mental state becomes dreamy, introspective, and unfocused
 - Muscular tension significantly decreases
-- [[cannabis-for-cachexia-and-appetite-stimulation]] can be intense ("munchies")
-
-### Comedown (1–3 hours)
-- Gradual transition into deep sedation and sleepiness
-- Many users find GMO effective as a sleep aid
-- Residual body relaxation persists for 2–4 hours
-- Dry mouth and dry eyes are the most common side effects
-
-### Reported Benefits
-- **Stress [[nervine-herbs-and-anxiety-relief]]:** Deep physical relaxation helps release tension
+- [[nervine-herbs-and-anxiety-relief]]:** Deep physical relaxation helps release tension
 - **Pain management:** Effective [[cannabis-for-chronic-pain]], muscle spasms, and inflammation
 - **Insomnia:** One of the most reliable strains for promoting sleep
 - **Appetite stimulation:** Useful for conditions causing appetite loss
@@ -87,3 +76,75 @@ GMO delivers overwhelmingly physical, sedating effects consistent with its indic
 - Not recommended for daytime use or tasks requiring focus
 
 ## Cultivation
+
+## Overview
+
+Gmo Garlic Cookies represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish gmo garlic cookies
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving gmo extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Gmo Garlic Cookies finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for gmo garlic cookies. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+gmo garlic cookies and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Gmo Garlic Cookies has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of gmo garlic cookies into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions

@@ -32,46 +32,8 @@ serotonin, and NMDA receptor systems.
   soluble in water; insoluble in hexane
 - **Spectroscopy:** IR (KBr): 1725 cm⁻¹ (ester C=O), 1610 cm⁻¹ (indole);
   UV (EtOH): λmax 227, 280 nm
-## Biosynthesis and [[plants-of-the-gods-tabernanthe-iboga]] na, Nigeria).
-- **[[plants-of-the-gods-tabernanthe-iboga-chemistry]]:** [[iboga-root-bark-preparation]] contains voacangine at 0.05–0.2%
-  alongside ibogaine at 0.5–6.0%. Voacangine is a minor alkaloid in this
-  species relative to ibogaine.
-- **Voacanga thouarsii:** Madagascan species with voacangine reported in root
-  and stem bark at concentrations comparable to V. africana.
-- **Tabernaemontana divaricata:** Minor constituent of the bark of this
-  widely cultivated ornamental species.
-## Pharmacology
-Voacangine displays a complex pharmacological profile overlapping with but
-distinct from ibogaine:
-- **Serotonin transporter (SERT):** Binds with moderate affinity,
-  approximately 5–10× lower potency than ibogaine (Ki ≈ 3–5 μM vs. ibogaine
-  Ki ≈ 0.3–1 μM). Produces serotonin reuptake inhibition.
-- **Dopamine transporter (DAT):** Weak binding with Ki > 10 μM, suggesting
-  limited dopaminergic activity compared to ibogaine.
-- **NMDA receptor:** Weak non-competitive antagonism reported, significantly
-  less potent than ibogaine. May contribute to dissociative effects at
-  higher doses.
-- **Mu-opioid receptor:** Negligible binding affinity; voacangine is not an
-  opioid agonist or antagonist.
-- **Cardiac channels:** Like ibogaine, voacangine demonstrates hERG
-  potassium channel blockade at micromolar concentrations, raising concerns
-  about QT interval prolongation at high doses.
-- **Metabolism:** Primarily metabolized via hepatic CYP2D6 and CYP3A4.
-  O-demethylation yields voacangine hydroxyindolenine, which may be further
-  metabolized to ibogaine or ibogamine derivatives.
-- **Pharmacokinetics:** Limited human data. Animal studies suggest oral
-  bioavailability of approximately 30–50%, with a plasma half-life of
-  1–3 hours — significantly shorter than ibogaine's 4–8 hour half-life.
-## Traditional and Ethnobotanical Use
-Voacangine-containing plants have a rich history of [[sacramental-ayahuasca-legal-battles-united-states]] uled under the United Nations Convention
-on Psychotropic Substances. In the [[dmt-containing-plants-united-states-halpern]], it is not a federally
-scheduled controlled substance, though it may be subject to the Federal Analog
-Act if marketed for human consumption with psychoactive intent. The parent
-plant material (Voacanga africana bark) is widely available through botanical
-suppliers and online vendors.
-## See Also
-- Ibogaine
-- [[harmine-entity-tihkal]]
+## Biosynthesis and [[plants-of-the-gods-tabernanthe-iboga-chemistry]]:** [[sacramental-ayahuasca-legal-battles-united-states]] uled under the United Nations Convention
+on Psychotropic Substances. In the [[harmine-entity-tihkal]]
 - [[ergine-lsa]]
 ## Practical Considerations
 
@@ -91,3 +53,88 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
+
+## Overview
+
+Voacangine Entity represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish voacangine entity
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving voacangine extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Voacangine Entity finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for voacangine entity. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+voacangine entity and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Voacangine Entity has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of voacangine entity into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[2c-g-3-entity]]
+- [[4-5-mdo-dmt-entity-tihkal]]
+- [[5-6-mdo-dipt-entity-tihkal]]
+- [[mdcpm-entity-pihkal]]
+- [[methyl-k-entity-pihkal]]

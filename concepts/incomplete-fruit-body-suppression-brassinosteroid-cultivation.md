@@ -1,35 +1,14 @@
-# Incomplete Fruit Body Suppression via [[mushroom-cultivation]]
-
-## Overview
-
-Incomplete fruit bodies, commonly called aborts or pins that fail to mature, represent one of the most persistent challenges in the controlled cultivation of gourmet and [[gaias-garden-sheet-mulching-composting-in-place]] on the substrate surface.
+# Incomplete Fruit Body Suppression via [[gaias-garden-sheet-mulching-composting-in-place]] on the substrate surface.
 
 In normal cultivation conditions, abort rates of 10-30% are routinely observed across many species, with some particularly temperamental strains experiencing even higher proportions of failed fruit bodies.
 
 The phenomenon wastes substrate nutrients, occupies valuable fruiting surface area, and introduces potential contamination vectors when dead tissue begins to decompose on the substrate.
 
-The landmark 1990 study by Gartz and Vorbrodt, investigating the growth-promoting effects of 22S,23S-homobrassinolide on mushroom-flies-in-cultivation circles as aborts, pins, or dead babies, are [[growing-gourmet-growing-room-ventilation-air-exchange]], [[psilocybe-cubensis-cultivation]], incomplete fruit bodies are a common occurrence that cultivators at all experience levels encounter regularly throughout the fruiting process.
+The landmark 1990 study by Gartz and Vorbrodt, investigating the growth-promoting effects of 22S,23S-homobrassinolide on mushroom-flies-in-cultivation circles as aborts, pins, or dead babies, are [[psilocybe-cubensis-cultivation]], incomplete fruit bodies are a common occurrence that cultivators at all experience levels encounter regularly throughout the fruiting process.
 
-On bulk substrates using the horse dung and rice [[psilocybin-miniculture-rye-grain-method-bigwood-beug]] described by Gartz, abort rates in control groups typically ranged from 15-40% of initiated primordia depending on conditions.
+On bulk substrates using the horse dung and rice [[accessible-mushroom-cultivation-for-disabilities]].
 
-The Gartz and Vorbrodt study itself documented that control groups produced only 1-3 mushrooms per first flush cycle, suggesting substantial primordial investment was lost to developmental arrest.
-
-This low yield per flush in controls is characteristic of a system where a significant proportion of initiated primordia fail to reach maturity and are lost as aborts.
-
-In commercial Agaricus and Pleurotus cultivation, similar abort phenomena are well-documented economic concerns, with industry estimates suggesting 5-15% yield loss even under optimized conditions.
-
-The problem is exacerbated in less-controlled environments where fluctuations in temperature, humidity, and gas exchange are more pronounced and harder to manage.
-
-The economic impact includes not only direct yield loss but also increased labor for removal, reduced product quality, and shortened productive substrate li mushroom-cultivation-for-gardeners icance for Cultivation
-
-From a practical standpoint, the suppression of incomplete fruit bodies represents one of the most valuable attributes of brassinosteroid treatment for [[accessible-mushroom-cultivation-for-disabilities]].
-
-The combined effect of faster colonization, faster [[suppressed-incomplete-fruit-body-formation-brassinosteroid-treatment]]
-
-- incomplete-fruit-body-suppression-brassinosteroid
-## Practical Applications
-
-Incomplete Fruit Body [[abort-suppression-brassinosteroid-incomplete-fruit-body-reduction]] Cultivation has a range of practical applications that make it relevant to
+The combined effect of faster colonization, faster [[abort-suppression-brassinosteroid-incomplete-fruit-body-reduction]] Cultivation has a range of practical applications that make it relevant to
 both researchers and practitioners. Understanding these applications
 requires familiarity with the underlying principles and their
 manifestation in real-world contexts. The breadth of applications
@@ -97,8 +76,6 @@ through generations to modern scientific approaches, the evolution continues
 to inform current best practices and research directions.
 
 ## See Also
-- [[incomplete-fruit-body-suppression-brassinosteroid-mushroom-cultivation]]
 - [[brassinosteroid]]
-- [[abort-suppression-brassinosteroid-incomplete-fruit-body-reduction]]
 - [[brassinosteroid-suppression-of-incomplete-fruit-body-formation]]
 - [[doc]]

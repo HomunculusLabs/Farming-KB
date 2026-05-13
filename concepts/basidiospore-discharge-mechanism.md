@@ -22,12 +22,7 @@ type: concept
 
 The mechanism by which mushrooms launch their spores from gill surfaces remained
 one of the great unsolved problems in mycology for over a century. The solution,
-involving a microscopic fluid drop and the physics of [[bloomfield-buller-drop-surface-tension-spore-catapult-basidiospore-discharge]], represents
-one of the most elegant examples of biomechanical engineering in the biological
-world.
-
-This catapult mechanism is a defining feature of the
-[[spore-dispersal]]), careful
+involving a microscopic fluid drop and the physics of [[spore-dispersal]]), careful
 measurements with thermocouples revealed that mushrooms are actually colder than
 the air during spore release. Cooling is most extreme on warm days, when gills
 can chill as much as 5 degrees Celsius.
@@ -39,35 +34,8 @@ as vapor. If the mushroom warmed, Buller's drops would never expand and the
 spores would remain on the gills.
 
 The cooling effect is therefore an integral part of the discharge mechanism, not
-merely a side effect. [[bloomfield-mushroom-evaporative-cooling-fungal-frigidity]] and spore discharge are locked in a
-positive feedback loop: cooling promotes drop formation, drop formation launches
-spores, and the resulting disturbance of humid air promotes further cooling.
-
-### Aerodynamics of the Mushroom Cap
-
-The mushroom stem elevates the cap above the boundary layer of still air near
-the ground, exposing released spores to wind. Wind tunnel experiments revealed
-## See Also
-
-- [[basidiomycota-classification-major-clades]]
-- [[fungal-spore-dispersal]]
-## Practical Considerations
-
-When working with Basidiospore Discharge Mechanism, several practical factors should be
-carefully considered to achieve optimal results. These include
-the specific conditions of the implementation context, available
-resources, timing requirements, and the interactions between this
-topic and other elements of the broader system. A holistic view
-that considers these interconnections produces better outcomes.
-
-Environmental conditions such as temperature, moisture, and
-seasonal patterns significantly influence results. Monitoring these
-variables and adapting practices accordingly is essential for success.
-The most effective practitioners develop keen observation skills and
-respond flexibly to changing conditions rather than following rigid
-protocols regardless of circumstances or local variation.
-
-[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
+merely a side effect. [[basidiomycota-classification-major-clades]]
+- [[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -111,8 +79,6 @@ through generations to modern scientific approaches, the evolution continues
 to inform current best practices and research directions.
 
 ## See Also
-- [[doc]]
 - [[spore]]
-- [[mycology]]
 - [[bloomfield-buller-drop-surface-tension-spore-catapult-basidiospore-discharge]]
 - [[fungal-spore-discharge-mechanism]]

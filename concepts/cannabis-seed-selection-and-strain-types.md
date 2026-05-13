@@ -10,9 +10,7 @@ sources:
 
 Updated: 2026-04-18
 
-Source: The [[green-cannabis-grow-bible-breeding-genetics-and-true-breeding]] Bible, Greg Green (Ch. 2)
-
-Selecting the [[query-how-do-i-choose-the-right-cannabis-strain-for-my-grow]] seeds is one of the most important decisions a grower makes. Greg Green identifies approximately 450 seed varieties on the market, of which about 200 are worth considering and roughly 50 are outstanding.
+Source: The [[query-how-do-i-choose-the-right-cannabis-strain-for-my-grow]] seeds is one of the most important decisions a grower makes. Greg Green identifies approximately 450 seed varieties on the market, of which about 200 are worth considering and roughly 50 are outstanding.
 
 ## Strain Categories
 
@@ -45,13 +43,7 @@ The ratio of head high to body stone depends on the genetic mix:
 - Sativa-dominant Indica cross = 60% head high, 40% body stone
 - Pure Indica = 100% body stone/couch-lock
 
-**[[cannabis-harvest-timing-visual-cues]] also influences the high**: harvesting earlier produces a more cerebral effect, while harvesting later shifts toward couch-lock.
-
-## Choosing Seeds: Key Considerations
-
-1. **Indoor vs Outdoor**: Follow the breeder's recommendation. A strain bred for indoors may underperform outdoors and vice versa, though experimentation can yield good results.
-
-2. **Flowering Time**: Check the [[query-how-do-i-create-a-seed-bank-and-start-seed-saving]] listing. Shorter flowering times (6–8 weeks) are better for beginners and multiple harvests. Longer times (10–16 weeks) are typical of pure Sativas.
+**[[query-how-do-i-create-a-seed-bank-and-start-seed-saving]] listing. Shorter flowering times (6–8 weeks) are better for beginners and multiple harvests. Longer times (10–16 weeks) are typical of pure Sativas.
 
 3. **Height**: Consider your grow space. Pruning can reduce height, but you cannot double a plant's height beyond its genetic potential.
 
@@ -66,27 +58,7 @@ Best options, in order:
 1. **From a friend** who grew a strain you enjoyed — free, and you know the high type
 2. **From a reputable seed bank** online — research reviews on community forums before ordering
 
-When evaluating [[cannabis-seed-banks-and-genetics]]:
-- Check community reviews and ratings
-- Verify the website has a registered domain
-- Email the seed bank with questions about their services and delivery
-- Confirm they ship to your location
-- Compare prices (typical range: $80–$300 for 10–16 seeds)
-
-## Growing Factors to Consider Before Starting
-
-- Time availability for plant care
-- Trustworthy person to watch plants during absences
-- Security of grow area
-- Ability to control odor during flowering
-- Budget for lights, nutrients, and equipment
-- Willingness to accept higher electricity bills
-- Risk of discovery by visitors, meter readers, or service workers
-
-## Ruderalis
-
-Ruderalis is a third species that is considered substandard by most growers. It flowers according to age rather than photoperiod and produces low THC levels. However, Ruderalis has been used to create autoflowering strains — see [[cannabis-seed-germination-methods]] — germinating your selected seeds
-- [[cannabis-sativa-vs-indica-guide]] — detailed species comparison
+When evaluating [[cannabis-seed-germination-methods]] — germinating your selected seeds
 - [[cannabis-breeding-basics]] — producing your own seeds
 
 ## Practical Applications
@@ -118,8 +90,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[dom]]
 - [[det]]
-- [[greg-green]]
 - [[green-cannabis-grow-bible-seed-selection-and-seed-banks]]
 - [[cannabis-plant-stress-types-and-recovery]]

@@ -14,24 +14,12 @@ type: query
 CO2 supplementation accelerates cannabis growth by providing plants with more
 of the raw material they need for photosynthesis, potentially increasing
 yields by 20 to 30 percent when all other growing conditions are optimized.
-It requires a sealed [[cannabis-grow-room-setup]], proper ventilation timing, and elevated
-temperatures to be effective. Without optimizing light, nutrients, and
-airflow first, CO2 enrichment provides diminishing returns.
-
-## Detailed Explanation
-Carbon dioxide is one of the three essential inputs for photosynthesis, along
-with light and water. In a typical [[cannabis-indoor-grow-lighting-systems]] environment, ambient CO2
+It requires a sealed [[cannabis-indoor-grow-lighting-systems]] environment, ambient CO2
 levels are around 400 parts per million (ppm). Cannabis plants can
 effectively utilize CO2 concentrations up to approximately 1,500 ppm, which
 is nearly four times the natural level. By enriching the growing
 environment, plants can photosynthesize faster and produce more biomass,
-including larger and denser buds. The [[co2-enrichment-cannabis]] page details the specific thresholds for each
-environmental parameter that must be met before CO2 becomes a limiting
-factor.
-
-Light is the primary prerequisite for effective CO2 supplementation. Plants
-grown with CO2 enrichment need significantly more light than those grown at
-ambient CO2 levels. Most experts recommend at least 50 watts per [[comparison-biointensive-vs-square-foot-gardening]]
+including larger and denser buds. The [[comparison-biointensive-vs-square-foot-gardening]]
 from high-quality LED or HID fixtures when supplementing CO2. At these
 elevated light levels, plants can process the extra CO2 and convert it into
 additional growth. Without sufficient light, the extra CO2 simply goes
@@ -44,34 +32,14 @@ temperatures of 82 to 88 degrees Fahrenheit. The higher temperature
 accelerates metabolic processes and helps plants process the increased CO2
 more efficiently. If you add CO2 but keep temperatures at normal levels, you
 are not getting the full benefit of the enrichment. The
-[[cannabis-grow-room-setup]] page compares CO2 [[cannabis-delivery-methods-comparison]] by room
+[[cannabis-delivery-methods-comparison]] by room
 size, cost, and effectiveness.
 
 Perhaps the most critical aspect of CO2 supplementation is room sealing. If
 your grow room exhausts air during the lights-on period, you are venting the
 expensive CO2 you just added to the environment. Effective CO2 enrichment
-requires a sealed room during the photoperiod, with [[stamets-growing-room-air-circulation-co2-management]] provided
-by internal fans rather than intake and exhaust systems. Ventilation should
-only occur during the dark period when plants are not photosynthesizing and
-therefore not consuming CO2. The [[query-best-light-schedule-for-cannabis]]
-- [[query-how-do-i-set-up-co2-supplementation-for-my-cannabis-grow]]
-## Practical Considerations
-
-When working with How to Set Up CO2 Supplementation for Cannabis, several practical factors should be
-carefully considered to achieve optimal results. These include
-the specific conditions of the implementation context, available
-resources, timing requirements, and the interactions between this
-topic and other elements of the broader system. A holistic view
-that considers these interconnections produces better outcomes.
-
-Environmental conditions such as temperature, moisture, and
-seasonal patterns significantly influence results. Monitoring these
-variables and adapting practices accordingly is essential for success.
-The most effective practitioners develop keen observation skills and
-respond flexibly to changing conditions rather than following rigid
-protocols regardless of circumstances or local variation.
-
-[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
+requires a sealed room during the photoperiod, with [[query-best-light-schedule-for-cannabis]]
+- [[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.

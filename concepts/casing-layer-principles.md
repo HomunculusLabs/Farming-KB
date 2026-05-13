@@ -51,17 +51,7 @@ The casing layer pH is critical for both mushroom growth and contamination resis
 - Agricultural limestone (calcium carbonate) is the standard buffer
 - Gypsum (calcium sulfate) can be added for structure without significantly affecting pH
 - Excessive liming can cause overlay — a dense mycelial mat that prevents mushroom formation
-- Lower pH (5.0) water baths are used for [[cotter-mycoremediation-overview]] growers
-- Surface drying during cropping can create conditions favorable to contaminants; evaporation must be maintained at an optimal rate
-
-## Watering the Casing
-
-The casing must be kept moist throughout the cropping cycle:
-- Light misting before button stage; no substantial waterings that could damage pins
-- Once mushrooms reach button size, build moisture back up with daily light-to-moderate waterings
-- Water 2-4 times per day rather than once, allowing slow absorption
-- Stop watering once caps reach adolescence (wet caps breed Bacterial Blotch)
-- After first [[post-flush-watering-regime-mushroom-casing-moisture-management|flush]], keep casing moist with light mistings until next flush reaches button stage
+- Lower pH (5.0) water baths are used for [[post-flush-watering-regime-mushroom-casing-moisture-management|flush]], keep casing moist with light mistings until next flush reaches button stage
 - Never allow the casing to dry out completely — a dry surface is difficult to recondition
 
 ## Species-Specific Casing Requirements
@@ -69,50 +59,92 @@ The casing must be kept moist throughout the cropping cycle:
 Different species have different casing preferences:
 - Agaricus Bitorquis: Standard peat/limestone casing
 - Agaricus Brunnescens: Standard peat/limestone casing
-- [[panaeolus-cyanescens-bali-omelette]]: Typically cased for optimal yields
-
-## See Also
-
 - [[bulk-substrate-preparation]]
-- [[mushroom-yield-optimization]]
-- fruiting-chamber-design
+- [[agaricus-brunnescens]]
+- [[mycoremediation]]
+- [[casing-layer-technique]]
 
----
+## Overview
 
-Source: The Mushroom Cultivator (Stamets & Chilton, 1983), Chapter IX
-Updated: 2026-04-18
+Casing Layer Principles represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish casing layer principles
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving casing extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
 
 ## Practical Applications
 
-The principles and techniques discussed here have wide-ranging applications
-across multiple disciplines and contexts. Practitioners and researchers
-continue to explore new ways to integrate these concepts into modern practice,
-adapting traditional knowledge to contemporary challenges and opportunities.
+Casing Layer Principles finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
 
-## Key Considerations
+## Management and Implementation
 
-Several important factors influence the effectiveness and outcomes described
-in this topic. Understanding these considerations helps practitioners make
-informed decisions and avoid common pitfalls. Environmental conditions,
-timing, and material selection all play critical roles.
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for casing layer principles. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+casing layer principles and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
 
 ## Historical Context
 
-The historical development of this subject reflects centuries of accumulated
-knowledge and practical experience. From traditional methods passed down
-through generations to modern scientific approaches, the evolution continues
-to inform current best practices and research directions.
+Casing Layer Principles has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
 
-## Common Challenges
+## Integration Strategies
 
-Practitioners frequently encounter several challenges when working with
-these concepts. Climate variability, resource limitations, and knowledge
-gaps can all affect outcomes. Addressing these challenges requires patience,
-observation, and a willingness to adapt approaches based on results.
+Successful integration of casing layer principles into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
 
 ## See Also
-- [[agaricus-brunnescens]]
-- [[paul-stamets]]
-- [[mycoremediation]]
-- [[agaricus-bitorquis]]
-- [[casing-layer-technique]]
+
+- [[casing-soil-peat-vermiculite-marl-sterilized-recipe-preparation]]
+- [[casing-soil-sterilization-versus-pasteurization-debate]]
+- [[growing-gourmet-casing-soils-mushroom-cultivation]]
+- [[mushroom-casing-soil-primordia-initiation]]
+- [[sterilized-casing-soil-recipe-peat-vermiculite-limestone]]

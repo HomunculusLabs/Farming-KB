@@ -62,9 +62,7 @@ The significance of the Anasazi Spiral was not recognised by mainstream archaeol
 
 ## Cross-References
 
-- [[anna-soaer]] — artist who decoded the spiral's astronomical function
 - [[bill-mollison]] — references the spiral as an example of pattern-based knowledge
-- [[flowform]] — another example of applied pattern in hydrological design
 - [[herb-spiral]] — modern permaculture application of spiral form
 
 ## Practical Applications
@@ -80,8 +78,6 @@ effective designs integrate multiple functions and work with existing natural
 patterns rather than imposing artificial structures on the landscape.
 
 ## See Also
-- [[anasazi-spiral-calendar-and-pattern-timekeeping]]
 - [[mollison-designers-herb-spiral-design-construction]]
-- [[permaculture-herb-spiral-design]]
 - [[comparison-herb-spiral-vs-keyhole-garden]]
 - [[herb-spiral-and-applied-pattern-design]]

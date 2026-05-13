@@ -1,19 +1,13 @@
 ---
 title: Spectroscopic Characterization of tryptamine-chemistry-psilocin-and-psilocybin-synthesis
-aliases: [psilocin NMR data, psilocybin spectral properties, [[australian-magic-mushroom-common-names]] chemistry]
+aliases: [psilocin NMR data, psilocybin spectral properties, australian-magic-mushroom-common-names chemistry]
 tags: [chemistry, spectroscopy, psilocin, psilocybin, analytical chemistry]
 sources:
   - concise-large-scale-synthesis-of-psilocin-and-psilocybin-shirota-hakamata-goda.md
 created: 2026-05-08
 ---
 
-# Spectroscopic Characterization of [[psilocybin]]
-
-## Overview
-
-The complete spectroscopic characterization of psilocin and psilocybin by
-Shirota, Hakamata, and Goda provided essential reference data for the
-forensic identification of [[guzman-magic-mushrooms-african-species]]. Since morphological and
+# Spectroscopic Characterization of [[guzman-magic-mushrooms-african-species]]. Since morphological and
 microscopic identification of psilocybin-containing fungi is difficult without
 experts, chromatographic methods including TLC, GC, and HPLC are usually
 employed, and these require authentic standard compounds. The detailed
@@ -25,8 +19,7 @@ for analytical laboratories.
 ### Physical Properties
 Psilocin is obtained as white crystals with a melting point of 169-174
 degrees (decomposing), consistent with the literature value of 173-176
-degrees (dec). The [[indole]] chromophore and
-distinguishes psilocin from its 5-hydroxy isomer [[serotonin]], which has a
+degrees (dec). The [[serotonin]], which has a
 different UV profile.
 
 ### Infrared Spectroscopy
@@ -88,3 +81,7 @@ P=O stretch appears at 1154 cm-1, and P-O-C stretches appear at 1103 and
 C-H bending at 1439 and 1352 cm-1. The phosphate O-H bending mode appears
 at 1298 cm-1, and P-O stretches at 1244 cm-1. Additional fingerprint
 region absorptions appear at 926, 858, and 804 cm-1.
+
+## See Also
+
+- [[nmr-characterization-psilocin-psilocybin-intermediates]]

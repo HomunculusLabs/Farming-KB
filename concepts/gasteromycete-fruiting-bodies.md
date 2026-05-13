@@ -20,48 +20,16 @@ type: concept
 
 # Gasteromycete Fruiting Bodies
 Gasteromycetes (from Greek: gaster = stomach, mycetes = fungi) are a
-diverse assemblage of [[singh-basidiomycete-fungi-in-petroleum-hydrocarbon-cleanup]] characterized by their
-enclosed spore-producing tissues. Unlike gilled mushrooms that expose
-their basidia to the air for ballistic [[bloomfield-fungal-spore-discharge-and-dispersal]], gasteromycetes
+diverse assemblage of [[bloomfield-fungal-spore-discharge-and-dispersal]], gasteromycetes
 form spores internally and have evolved a remarkable circus of
-alternative [[fungal-spore-biology]].
-Though not a natural phylogenetic group (they evolved independently
-from multiple mushroom ancestors), gasteromycetes display some of the
-most inventive structures in the [[fungal-kingdom-diversity]].
+alternative [[fungal-kingdom-diversity]].
 
 ## The Stinkhorn Group (Phallales)
 
 Stinkhorns are among the most conspicuous and bizarre of all fungi.
-The common stinkhorn, *[[bloomfield-stinkhorns-phallus-impudicus-osmotic-fruiting]]* (the "shameless penis"),
-develops as a white egg-like structure buried in soil or [[dighton-fungal-decomposition-leaf-litter-dynamics]].
+The common stinkhorn, *[[dighton-fungal-decomposition-leaf-litter-dynamics]].
 Inside the egg, a prefabricated structure awaits: a hollow spongy
-receptacle surrounded by a green-black [[growing-gourmet-spore-mass-inoculation-techniques]] (gleba) encased in
-jelly and veiled with white skin.
-When conditions are right, the receptacle absorbs water, expands
-osmotically, and ruptures the outer skin, carrying the spore mass
-aloft on a 6-inch erect shaft.
-
-### The Mechanics of Stinkhorn Erection
-
-The mechanics of stinkhorn erection are strikingly similar to mammalian
-penile erection, though the fluid source differs. Both rely on
-pressurized fluid rather than solid tissue, but while penile blood
-pressure is generated muscularly, stinkhorn pressure is osmotic, akin
-to water soaking into a sponge.
-The mature stinkhorn's gleba is smeared with a cocktail of volatile
-chemicals including hydrogen sulfide, formaldehyde, methylmercaptan,
-and unique compounds called phallic acids.
-This carrion-mimicking odor is irresistible to flies and slugs, which
-consume the spore slime and disperse it through defecation.
-
-### Species Diversity
-
-At least thirty phallic mushroom species have been described. The dog
-stinkhorn (*Mutinus caninus*) is smaller with a pink shaft and no
-bulbous head. Species of *Dictyophora* add a lacy veil (indusium)
-beneath the head that may serve as a ladder for wingless insects.
-*Dictyophora* eggs are sold as delicacies in China and marketed as
-aphrodisiacs. The eggs contain the immature [[comparison-fruiting-body-vs-mycelium-extracts-medicinal-mushrooms]] and must be
+receptacle surrounded by a green-black [[comparison-fruiting-body-vs-mycelium-extracts-medicinal-mushrooms]] and must be
 harvested before hatching to preserve their culinary value.
 
 ### Historical Fascination
@@ -118,8 +86,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[dom]]
 - [[det]]
-- [[spore]]
 - [[mycelium]]
 - [[decomposition]]

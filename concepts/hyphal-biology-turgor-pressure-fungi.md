@@ -13,23 +13,7 @@ type: concept
 
 ## Overview
 
-[[fungal-hyphae]] are the filamentous cells that constitute the feeding and
-invasive structures of fungi. These microscopic tubes, typically 2-10 µm in
-diameter, can penetrate solid materials including wood, leaf tissue, animal
-skin, and even granite rock. Hyphae grow by tip extension, secreting enzymes
-that dissolve their food source and absorbing the resulting nutrients. A key
-feature of hyphal biology is turgor pressure — the internal hydrostatic
-pressure that enables hyphae to push through physical barriers, reaching
-levels of 1-10 atmospheres depending on the species.
-
-## Hyphal Structure
-
-Each hypha is a tubular cell enclosed by a rigid cell wall composed primarily
-of chitin (in true fungi) or cellulose (in oomycetes and other fungus-like
-organisms). Inside the wall lies the plasma membrane, which regulates the
-movement of materials into and out of the cell. Within the cytoplasm, the
-endoplasmic reticulum produces enzymes and other proteins, packaging them in
-minute vesicles that stream toward the [[gadd-hyphal-tip-growth-and-branching-mechanisms]].
+[[gadd-hyphal-tip-growth-and-branching-mechanisms]].
 
 These vesicles fuse with the plasma membrane at the growing apex, adding new
 surface material and releasing their enzymatic contents into the surrounding
@@ -69,8 +53,7 @@ the apex.
 
 ## Challenging the Paradigm
 
-[[nicholas-money]] and Frank Harold challenged this conventional view. Their
-research on [[bloomfield-pythium-oomycete-water-molds]] showed that these organisms actually grew
+[[bloomfield-pythium-oomycete-water-molds]] showed that these organisms actually grew
 faster when most internal pressure was eliminated — by cultivating colonies
 in high concentrations of soluble carbohydrates to disturb osmotic balance
 and limit water influx.
@@ -93,15 +76,7 @@ overcome the physical obstacles that persist after their food sources are
 weakened by enzymes.
 
 Turgor pressure is the mechanism by which fungi push through solid
-materials. The cell wall provides the [[mycelium-running-rhizomorphic-mycelium-structural-strength-erosion-control]] to contain this
-pressure, and the growing tip applies this force against the material being
-penetrated. This is fundamentally different from growing in an unobstructed
-environment — it is a mechanical solution to the problem of accessing food
-locked inside solid substrates.
-
-## Rock-Penetrating Fungi
-
-Some of the most impressive feats of [[fungal-hyphae-invasive-growth-mechanisms]] are performed by fungi
+materials. The cell wall provides the [[fungal-hyphae-invasive-growth-mechanisms]] are performed by fungi
 that grow inside granite bedrock. These species secrete organic acids (citric
 acid, oxalic acid) that dissolve minerals in the rock, then absorb the
 leached minerals and intrude deeper, pushing forward at their tips and prying
@@ -109,19 +84,9 @@ apart rock particles. This quarrying activity provides pathways for water
 percolation, and subsequent ice crystallization accelerates weathering into
 soil.
 
-These rock-penetrating fungi also form [[plants-without-mycorrhizal-associations]] with plant
-roots, transferring scarce inorganic nutrients from rock to plant in exchange
-for carbohydrates. Fossilized hyphae [[query-what-are-the-different-types-of-mycorrhizal-fungi]] are found inside
+These rock-penetrating fungi also form [[query-what-are-the-different-types-of-mycorrhizal-fungi]] are found inside
 the root cells of primitive land plants preserved 400 million years ago, and
-spores characteristic of [[arbuscular-mycorrhizal-fungi]] appear in rocks more than 600
-million years old. Fungi may have been essential partners in the colonization
-of land by plants.
-
-## The Evolutionary Significance of Hyphae
-
-The ancestors of fungi developed walls and became pressurized, adopted the
-form of microscopic javelins, and opened an inexhaustible menu of solid food.
-[[bloomfield-fungal-biology-and-hyphal-growth]] represents convergent evolution: both mushroom-forming fungi
+spores characteristic of [[bloomfield-fungal-biology-and-hyphal-growth]] represents convergent evolution: both mushroom-forming fungi
 (basidiomycetes) and the unrelated oomycetes independently evolved the
 filamentous growth form because there are few better solutions to the
 challenge of penetrating solid substances.

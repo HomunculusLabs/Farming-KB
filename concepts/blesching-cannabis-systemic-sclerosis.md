@@ -26,14 +26,7 @@ cells foreign objects and attempts to eliminate them. For many patients, no
 allopathic cure is available. Managing treatments include topical and
 systemic pharmaceuticals.
 
-According to the [[blesching-cannabis-health-index-autoimmune-conditions]], the evidence for cannabis in treating
-systemic sclerosis is based on 1 study reviewed, with a CHI value rated as
-not applicable (N/A) due to the primarily theoretical and preclinical nature
-of the evidence. However, the endocannabinoid system research provides a
-strong theoretical foundation for potential therapeutic applications.
-
-See also: [[blesching-cannabis-dermatological-conditions]],
-[[blesching-cannabis-itching-pruritis]],
+According to the [[blesching-cannabis-dermatological-conditions]],
 [[blesching-cannabis-immune-system-modulation]]
 
 ## The Endocannabinoid System and Systemic Sclerosis
@@ -44,9 +37,7 @@ pathological mechanisms in systemic sclerosis.
 
 This finding comes from the same multi-institutional 2009 study that mapped
 the endocannabinoid system across numerous skin diseases. The research team,
-with scientists from Germany, the [[dmt-containing-plants-united-states-halpern]], England, and Hungary,
-identified the ECS in the skin for targeted approaches to treating various
-[[cannabis-for-skin-conditions-detailed]].
+with scientists from Germany, the [[cannabis-for-skin-conditions-detailed]].
 
 ### Key ECS Finding for Systemic Sclerosis
 
@@ -118,8 +109,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[doc]]
 - [[det]]
-- [[endocannabinoid-system]]
 - [[dmt]]
 - [[blesching-cannabis-multiple-sclerosis]]

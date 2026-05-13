@@ -10,27 +10,8 @@ created: 2026-05-08
 
 ## Overview
 
-Self-transforming machine elves are the most commonly reported [[mckenna-dmt-i-thou-relationship-entity-encounter-ethics]]
-phenomenon in the DMT (N,N-dimethyltryptamine) experience. The term was coined by
-[[terence-mckenna]] in *The [[tryptamine-hypercontinuum-and-invisible-landscape]]* (1975), co-authored with his brother
-[[dennis-mckenna]]. These entities are described as hyperdimensional, dynamically
-contorting topological modules that appear during the peak of a [[mckenna-dmt-experience-and-hyperspace]]
-exhibit behaviors suggesting autonomous intelligence, benevolence, and an apparent
-desire to communicate or teach.
-
-## Description and Phenomenology
-
-McKenna described the machine elves as "dynamically contorting topological modules
-that are somehow distinct from the surrounding background, which is itself undergoing
-a continuous transformation." The entities exhibit several consistent features
-reported across thousands of DMT experiences:
-
-- **Fractal geometry**: The entities appear as self-similar, infinitely complex
-  geometric forms that continuously transform and reconfigure themselves.
-- **Autonomous behavior**: They move and act independently of the observer's will,
-  suggesting they are not mere projections of the imagination.
-- **Communication**: The elves emit sounds described as a combination of music and
-  language — a translinguistic "Ursprache" ([[mckenna-glossolalia-and-primal-language-tryptamine-states]]) that conveys meaning
+Self-transforming machine elves are the most commonly reported [[terence-mckenna]] in *The [[dennis-mckenna]]. These entities are described as hyperdimensional, dynamically
+contorting topological modules that appear during the peak of a [[mckenna-glossolalia-and-primal-language-tryptamine-states]]) that conveys meaning
   beyond what can be translated into English or any known human language.
 - **Benevolence**: They "bathe one in love" — an open-hearted, non-erotic affection
   that McKenna described as distinctly different from emotional states experienced
@@ -51,30 +32,14 @@ has arrived "somewhere in eternity."
 
 The encounter follows a characteristic sequence:
 1. Onset begins approximately 15 seconds after inhalation.
-2. An audible phenomenon described as "[[mckenna-dmt-onset-phenomenology-ripping-cellophane]]" or crumpling plastic.
-3. An ascending tone is heard.
-4. Geometric surfaces of migrating colored forms appear.
-5. All available [[serotonin-receptor-interference-psychedelic-mechanism]] sites become occupied (mode shift).
+2. An audible phenomenon described as "[[serotonin-receptor-interference-psychedelic-mechanism]] sites become occupied (mode shift).
 6. Arrival in the "merry go raum" — the hyperspace environment.
 7. Contact with the entities.
 
 ## Ontological Status
 
 The nature of the machine elves remains one of the most debated questions in
-[[mckenna-suppression-psychedelic-research-lsd-therapy]]. McKenna himself maintained a deliberately open position,
-referring to the entities as the "Logos" and engaging them in ongoing dialogue
-without making definitive claims about their ontological status. Several
-hypotheses have been proposed:
-
-- **Extraterrestrial intelligence**: The entities may represent contact with
-  non-human intelligences accessible through the DMT state.
-- **Autonomous psyche**: The elves could be "fractal reflections of some
-  previously hidden and suddenly autonomous part of one's own psyche."
-- **The human soul**: McKenna later suggested that the entities might actually
-  be aspects of the human soul that appear alien because modern culture has
-  become so alienated from its own depths.
-- **Transpersonal beings**: They may exist in dimensions accessible through
-  [[weil-the-natural-mind-altered-states-normalcy]] but not ordinarily perceptible — neither strictly internal
+[[weil-the-natural-mind-altered-states-normalcy]] but not ordinarily perceptible — neither strictly internal
   nor external.
 
 ## The "Black Hole Effect"
@@ -87,3 +52,88 @@ of an actual black hole, where no signal can escape to communicate its contents
 to outside observers.
 
 ## Relation to Other Traditions
+
+## Overview
+
+Self Transforming Machine Elves represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish self transforming machine elves
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving self extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Self Transforming Machine Elves finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for self transforming machine elves. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+self transforming machine elves and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Self Transforming Machine Elves has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of self transforming machine elves into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[fukuoka-nature-fundamentally-perfect-self-enriching]]
+- [[fukuoka-natures-self-organizing-principles]]
+- [[fukuoka-textdoc-four-types-diet-self-indulgence-non-discrimination]]
+- [[mckenna-perceiving-self-as-primary-datum-consciousness]]
+- [[solomon-potato-foundation-calorie-crop-self-sufficiency]]

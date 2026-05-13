@@ -20,53 +20,11 @@ sources:
 
 ## Overview
 
-Sagittaria latifolia, commonly known as wapato, broadleaf arrowhead, or duck potato, is a perennial aquatic plant native to [[psilocybin-north-america-pacific-northwest]]. It produces edible tubers that were a staple food for numerous Indigenous peoples of the Pacific Northwest and throughout the continent.
-
-The species is a member of the water plantain family (Alismataceae) and is characterized by its distinctive arrowhead-shaped leaves and clusters of white flowers. It occurs across a broad geographic range in shallow freshwater habitats.
-
-## Taxonomy and Morphology
-
-- **Kingdom:** Plantae
-- **Order:** Alismatales
-- **Family:** Alismataceae
-- **Genus:** *Sagittaria*
-- **Species:** *S. latifolia* Willd.
-
-The species was described by Carl Ludwig Willdenow in 1805. The genus name *Sagittaria* derives from the Latin *sagitta* (arrow), referring to the characteristic arrowhead-shaped leaf blade. The epithet *latifolia* means "broad-leaved," distinguishing it from narrower-leaved congeners.
-
-*S. latifolia* is a **rhizomatous perennial** herb that grows 30–120 cm tall in shallow water or moist soil. The plant produces a basal rosette of leaves and emergent flowering stems from a creeping rhizome system. Plants in deeper water tend to develop longer petioles and narrower leaf blades than those in shallow conditions.
-
-Reproductive versatility is a notable feature of the species. It reproduces sexually via seed and vegetatively through rhizome fragmentation, stolon production, and tuber formation. This dual strategy enables rapid colonization and persistence in dynamic wetland environments.
-
-**Leaves** are highly variable in shape depending on growth conditions. Submerged leaves are narrow and ribbon-like, floating leaves are broader with an arrowhead shape, and emergent leaves are the classic sagittate (arrowhead) form with two basal lobes.
-
-Emergent leaves are 10–25 cm long and 5–15 cm wide, on petioles up to 80 cm long. The distinctive arrowhead shape has a terminal triangular lobe with two backward-pointing basal lobes. Leaf venation is palmate with prominent midrib and lateral veins that converge toward the base.
-
-**Flowers** are arranged in whorled racemes on erect stems rising above the water surface. Individual flowers are white to pink-tinged, 1.5–2.5 cm across, with three petals. Male flowers are borne in the upper whorls, female flowers in the lower whorls.
-
-**Tubers** are the most economically significant plant part. They are produced on stolons at the ends of rhizome branches, 1–5 cm in diameter, white to brown-skinned, and rich in starch. A single plant can produce 10–50 tubers per growing season. Tubers develop at depths of 5–20 cm below the substrate surface and can remain viable in anaerobic mud for extended periods.
-
-## Distribution and Habitat
-
-*S. latifolia* is native to North America, ranging from southern Canada through the entire contiguous United States to [[guzman-allen-gartz-neurotropic-fungi-central-america-caribbean]]. It is absent only from the arctic and extreme desert regions. Populations in Central America represent the southern extent of the species' natural range.
+Sagittaria latifolia, commonly known as wapato, broadleaf arrowhead, or duck potato, is a perennial aquatic plant native to [[guzman-allen-gartz-neurotropic-fungi-central-america-caribbean]]. It is absent only from the arctic and extreme desert regions. Populations in Central America represent the southern extent of the species' natural range.
 
 The species grows in shallow freshwater wetlands, marshes, pond margins, slow streams, ditches, and riparian zones. Optimal water depth is 5–30 cm, though plants tolerate deeper water up to 60 cm. It is particularly abundant in the prairie pothole region and Pacific coastal marshes.
 
-*S. latifolia* also occurs in anthropogenic habitats including agricultural drainage ditches, retention ponds, and ornamental water gardens. This adaptability contributes to its wide distribution across diverse [[mollison-climate-zones-permaculture-strategies]].
-
-It prefers full sun but tolerates partial shade. Soil substrates range from mineral mud to organic muck, with pH tolerance from 5.0 to 8.0. The species is tolerant of moderate water level fluctuations.
-
-Phenology is closely tied to water temperature and day length. Active growth begins when water temperatures exceed 15°C in spring. Flowering peaks in midsummer, and tuber production accelerates as days shorten in late summer and early autumn. Above-ground biomass senesces after first hard frost.
-
-*S. latifolia* is one of the most widespread aquatic plants in North America and commonly dominates emergent plant communities in freshwater marshes. It frequently co-occurs with cattails (*Typha* spp.), bulrushes (*Schoenoplectus* spp.), and pickerelweed (*Pontederia cordata*).
-
-## Ethnobotany and Edibility
-
-The tubers of *S. latifolia* were one of the most important plant foods for Indigenous peoples of western North America. The Chinook, Klamath, Nez Perce, and numerous other nations harvested wapato as a dietary staple. Wapato harvesting grounds were considered communal resources and were actively managed through controlled burning and water level manipulation.
-
-The traditional harvesting method involved wading into muddy shallows and dislodging tubers with the feet, causing them to float to the surface. This technique is described in the ethnographic accounts of Meriwether Lewis and William Clark during their 1805–1806 expedition.
-
-Tubers are prepared by boiling, roasting, or drying and grinding into flour. Raw tubers are bitter and contain [[fungal-calcium-oxalate-crystals]] crystals that cause mouth irritation; cooking neutralizes these compounds. Dried tubers store well through winter months. The flavor is described as mild and nutty, reminiscent of chestnuts or potatoes with a slightly sweet aftertaste.
+*S. latifolia* also occurs in anthropogenic habitats including agricultural drainage ditches, retention ponds, and ornamental water gardens. This adaptability contributes to its wide distribution across diverse [[fungal-calcium-oxalate-crystals]] crystals that cause mouth irritation; cooking neutralizes these compounds. Dried tubers store well through winter months. The flavor is described as mild and nutty, reminiscent of chestnuts or potatoes with a slightly sweet aftertaste.
 
 Nutritional analysis shows tubers contain approximately 60–70% starch (dry weight), moderate protein (5–8%), and small amounts of fat. They are a good source of potassium, phosphorus, and B vitamins.
 
@@ -87,3 +45,88 @@ The species can become weedy in rice paddies and irrigation ditches in agricultu
 ## Cultivation
 
 *S. latifolia* is easily cultivated in shallow ponds, bog gardens, and water features. Planting is done by setting rhizome sections 5–10 cm deep in muddy substrate at the desired water depth.
+
+## Overview
+
+Sagittaria Latifolia represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish sagittaria latifolia
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving sagittaria extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Sagittaria Latifolia finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for sagittaria latifolia. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+sagittaria latifolia and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Sagittaria Latifolia has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of sagittaria latifolia into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[campanula-latifolia]]
+- [[kalmia-latifolia]]
+- [[sagittaria-entity]]
+- [[sagittaria-sagittifolia]]
+- [[typha-latifolia]]

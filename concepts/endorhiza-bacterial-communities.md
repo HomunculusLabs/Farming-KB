@@ -24,9 +24,7 @@ documenting the bacterial taxa that colonize root interior tissues across five c
 The endorhiza community is less diverse than the rhizosphere or bulk soil but is enriched
 in specific bacterial lineages adapted to the root interior environment.
 
-Understanding [[cannabis-rhizosphere-endorhiza-communities]] is particularly important because these bacteria
-reside in direct contact with plant tissues, where they can influence plant physiology,
-nutrient uptake, stress responses, and [[fungal-elicitors-enhanced-secondary-metabolite-production]] production through intimate
+Understanding [[fungal-elicitors-enhanced-secondary-metabolite-production]] production through intimate
 signaling interactions not possible in the more distant rhizosphere.
 
 ## Core Endorhiza Community
@@ -39,37 +37,12 @@ cultivars studied. This core community includes:
 One of the most consistently detected genera in the cannabis endorhiza. Pseudomonas
 species are well-characterized plant-associated bacteria with known roles in disease
 suppression (antibiotic and siderophore production), plant growth promotion (IAA
-production, phosphate solubilization), and [[endophytic-mycorrhizal-induced-systemic-resistance]] resistance. Their ubiquity
-across all cultivars suggests fundamental compatibility with cannabis root tissues.
-
-### Cellvibrio
-A genus of cellulolytic bacteria capable of degrading plant cell wall polysaccharides.
-The presence of Cellvibrio in the endorhiza is notable because cell wall-degrading
-capacity could reflect an opportunistic or even parasitic lifestyle. Winston et al.
-raised the possibility that Cellvibrio abundance may serve as an indicator of root
-tissue decay, particularly in older root zones where cell walls begin to break down.
-If validated, Cellvibrio could be a useful biomarker for root health monitoring.
-
-### Oxalobacteraceae
-A family of Proteobacteria commonly found in association with plant roots. Members of
-this family include genera such as Herbaspirillum and Oxalobacter, which are known for
-nitrogen fixation, plant growth promotion, and the ability to utilize oxalate (a common
-plant exudate compound) as a carbon source. Their consistent presence in the cannabis
-endorhiza suggests important functional roles in root-microbe metabolic exchange.
-
-### Xanthomonadaceae
-A family within the Gammaproteobacteria that includes both plant pathogenic and
-non-pathogenic species. The detection of Xanthomonadaceae in the cannabis endorhiza
-highlights the fine line between beneficial root colonization and potential pathogenicity.
-Non-pathogenic Xanthomonadaceae may contribute to [[soil-protozoa-nutrient-cycling-and-mineralization]] competitive
+production, phosphate solubilization), and [[soil-protozoa-nutrient-cycling-and-mineralization]] competitive
 exclusion of true pathogens within the root interior.
 
 ### Actinomycetales
 An order of Gram-positive bacteria that includes Streptomyces and related genera.
-Actinomycetales are well-known for their production of bioactive [[antifungal-secondary-metabolites-coprophilous-fungi]],
-including antibiotics that can suppress soilborne pathogens. Their presence in the
-cannabis endorhiza may contribute to natural disease resistance and could influence
-the metabolic environment of the root through the production of [[antimicrobial-compounds-mushroom-mycelium]].
+Actinomycetales are well-known for their production of bioactive [[antimicrobial-compounds-mushroom-mycelium]].
 
 ### Sphingobacteriales
 An order of Bacteroidetes commonly found in soil and plant-associated environments.
@@ -118,8 +91,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[endorhiza-microbiome]]
 - [[doc]]
-- [[dom]]
 - [[streptomyces]]
 - [[det]]

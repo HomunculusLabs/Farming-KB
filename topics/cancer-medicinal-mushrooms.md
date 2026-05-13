@@ -1,6 +1,6 @@
 ---
 title: "Medicinal Mushrooms in Cancer Treatment"
-subtitle: "Clinical evidence, immune mechanisms, and [[cordyceps-cancer-bioactive-compounds]] from
+subtitle: "Clinical evidence, immune mechanisms, and cordyceps-cancer-bioactive-compounds from
   fungi used in oncology immunotherapy"
 tags: [medicinal-mushrooms, cancer, immunotherapy, beta-glucans, clinical-trials,
   polysaccharides, PSK, lentinan, reishi, turkey-tail]
@@ -29,58 +29,14 @@ related_concepts:
 
 # Medicinal Mushrooms in Cancer Treatment
 
-Medicinal mushrooms represent one of the most clinically validated
+[[medicinal-mushrooms]] represent one of the most clinically validated
 frontiers in complementary oncology. Unlike the speculative hype that
 surrounds many alternative cancer treatments, mushroom-derived
-compounds have progressed through Phase I, II, and III [[cancer-medicinal-mushrooms-schizophyllan-spg-clinical-trials]],
-are approved as prescription drugs in Japan and China, and account for
-a significant share of national cancer-treatment expenditure. The story
-begins not with a pharmaceutical laboratory but with centuries of
-traditional use across East Asian cultures — and culminates in a body
-of evidence that mainstream oncology can no longer ignore.
-
-The key insight driving this field is deceptively simple: mushrooms do
-not attack cancer cells directly. Instead, they activate the patient's
-own immune system. The primary agents — polysaccharides called
-beta-glucans — function as [[medicinal-mushrooms-biological-response-modifiers]] modifiers, stimulating
+compounds have progressed through Phase I, II, and III [[medicinal-mushrooms-biological-response-modifiers]] modifiers, stimulating
 macrophages, natural killer cells, T-cells, and a cascade of cytokines
 that restore immune competence often depressed by chemotherapy and
 surgery. This immunomodulatory approach has proven especially valuable
-as an adjuvant therapy, where [[growing-gourmet-medicinal-polysaccharides-mushroom-compounds]] are combined with
-conventional chemotherapy and radiation to improve survival rates and
-reduce side effects.
-
-This article synthesizes evidence from clinical trials, pharmacological
-studies, and traditional practice to provide a comprehensive overview
-of how medicinal mushrooms are being used — and validated — in cancer
-treatment worldwide.
-
-## The Scientific Foundation: Beta-Glucans and Immune Activation
-
-Beta-glucans are the primary bioactive polysaccharides responsible for
-the anticancer properties of medicinal mushrooms. These compounds are
-classified as biological response modifiers (BRMs) — they activate or
-augment the host immune system rather than exerting direct cytotoxicity
-against tumor cells. Mushroom-derived polysaccharides are multi-cytokine
-inducers capable of inducing gene expression of various immunomodulatory
-cytokines and their receptors.
-
-The basic beta-D-glucan consists of D-glucose units joined in linear
-chains by beta-bonds, extending from carbon 1 to carbon 3 (beta-1,3),
-carbon 4 (beta-1,4), or carbon 6 (beta-1,6). Most medicinal mushroom
-glucans feature a beta-1,3 main chain with beta-1,6 side branches. Key
-structural factors determining antitumor activity include molecular
-weight (higher generally more active), degree and pattern of branching,
-water solubility, and triple-stranded right-winding helix conformation.
-
-Not all fungal beta-D-glucans exhibit antitumor activity. Water-insoluble
-beta-glucans soluble in dilute alkali can show marked activity. The
-triple helical structure, stabilized by beta-D-glucopyranosyl branch
-units, appears critical for immunomodulatory function. Research suggests
-that immune response could be in part non-specific, determined by
-molecular size rather than exact chemical structure.
-
-The mechanism of action follows a consistent [[psilocin-accumulation-pattern-across-flushes]] species:
+as an adjuvant therapy, where [[psilocin-accumulation-pattern-across-flushes]] species:
 beta-glucans bind to complement receptor 3 (CR3, also known as CD11b/
 CD18) on macrophages and natural killer cells, initiating NF-kappaB
 activation and downstream cytokine production including IL-1-beta, IL-2,

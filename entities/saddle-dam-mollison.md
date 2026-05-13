@@ -88,8 +88,6 @@ all influence the optimal approach to implementation.
 
 ## See Also
 
-- [[keypoint-dam-mollison]]
 - [[keyline-design]]
-- [[p-a-yeomans]]
 - [[swale]]
 - [[gley-pond-sealing-mollison]]

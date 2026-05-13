@@ -52,21 +52,7 @@ Cordyceps sinensis has shown hypoglycaemic activity, potentially useful in diabe
 - Reduces triglyceride levels
 
 ### Anti-HIV Activity
-Sulfated [[maitake-grifola-frondosa-comprehensive-profile]] extracts (not Cordyceps specifically) can prevent up to 97% of HIV-infected T-helper lymphocytes from destruction in vitro.
-
-## Safety and Quality Concerns
-
-A major concern with herbal medicine using Cordyceps collected from nature is quality and safety. Wild-harvested Cordyceps is:
-- Expensive and rare
-- Variable in quality
-- Potentially contaminated
-- Subject to adulteration
-
-Fermenter-cultivated mycelium addresses these concerns through standardized production processes.
-
-## Research Status
-
-The major chemical, pharmacological, and toxicological studies on Cordyceps sinensis have been comprehensively reviewed for both English and Chinese literature. While anti-cancer activity has been demonstrated in pre-clinical models, clinical trials specifically for cancer remain limited compared with [[psk-psp-polysaccharide-peptides]], and mushroom-polysaccharide-chemotherapy-synergy varies by species, extraction method, and molecular weight, all of which influence immunological activity. Higher molecular weight beta-glucans generally show stronger immune activation. This host-mediated mechanism explains why mushroom polysaccharides are effective across a range of tumour types — they do not directly kill cancer cells but rather enhance the body's own immune surveillance and response capabilities.
+Sulfated [[psk-psp-polysaccharide-peptides]], and mushroom-polysaccharide-chemotherapy-synergy varies by species, extraction method, and molecular weight, all of which influence immunological activity. Higher molecular weight beta-glucans generally show stronger immune activation. This host-mediated mechanism explains why mushroom polysaccharides are effective across a range of tumour types — they do not directly kill cancer cells but rather enhance the body's own immune surveillance and response capabilities.
 
 ## Cordycepin: Mechanism of Action
 
@@ -74,19 +60,7 @@ Cordycepin (3'-deoxyadenosine) is the most extensively studied bioactive compoun
 
 ## Cordyceps militaris: The Cultivable Alternative
 
-Cordyceps militaris (the orange caterpillar fungus) has emerged as an important alternative to wild-harvested C. sinensis. Unlike C. sinensis, C. militaris can be reliably cultivated to produce both mycelium and fruiting bodies, and it typically contains higher concentrations of cordycepin. The fruiting bodies of C. militaris are commercially available and used in dietary supplements worldwide. C. militaris also produces cordycepic acid (D-mannitol) and a similar profile of polysaccharides. Clinical interest in C. militaris has grown significantly as wild C. sinensis becomes increasingly scarce and expensive. See [[emcdda-hallucinogenic-mushroom-cultivation-and-growkit-market]] for broader context on medicinal mushroom production.
-
-## Traditional Usage and Modern Validation
-
-In traditional Chinese medicine, Cordyceps sinensis has been used for centuries to treat fatigue, kidney disorders, respiratory ailments, and sexual dysfunction. It was historically classified as a tonic herb, believed to replenish Jing (vital essence) and support lung and kidney function. The herb was so prized that it was reserved for the imperial court and valued more than gold by weight. Modern pharmacological research has partially validated several traditional uses: the anti-fatigue effects correlate with improved mitochondrial function and increased ATP production observed in animal studies; the respiratory benefits may relate to bronchodilatory and anti-inflammatory properties; and the immunomodulatory effects of cordyceps polysaccharides align with its traditional use as a general restorative. The [[medicinal-mushroom-guide-cordyceps]] for purchasing guidance and [[aact-compost-quality-standards-ingham]].
-
-## Entomopathogenic Fungi: Related Cordyceps Species
-
-The genus Cordyceps and its relatives in the Ophiocordyceps genus encompass hundreds of species that parasitize insects and other arthropods. While C. sinensis parasitizes Lepidoptera larvae, other species target ants, beetles, spiders, and cicadas. Ophiocordyceps unilateralis, the "zombie ant fungus," is perhaps the most famous — it infects carpenter ants and manipulates their behavior, causing them to climb to a high vantage point and clamp their mandibles onto a leaf vein before dying, positioning the fruiting body for optimal spore dispersal. These entomopathogenic fungi are being studied both for their medical potential and for applications in biological pest control. Several Cordyceps species produce bioactive compounds with antimicrobial, antiviral, and insecticidal properties. The study of these fungi contributes to our understanding of host-parasite coevolution, chemical ecology, and the mechanisms by which fungi manipulate animal behavior. For a broader exploration of these species, see [[cordyceps-cultivation]] for [[synthetic-log-cultivation-methods-guide]] applicable to multiple Cordyceps species.
-
-## Comparison with Other Medicinal Mushrooms
-
-Unlike the major pharmaceutical mushroom products (Lentinan, PSK, PSP), Cordyceps has not yet yielded a purified, clinically-approved anti-cancer drug. Its strength lies in its broad-spectrum bioactivity and traditional use as a general health tonic. Polysaccharide-peptide (PSP), derived from Coriolus versicolor (Turkey Tail), is an approved cancer adjuvant in several Asian countries, with extensive clinical data supporting its use alongside chemotherapy to improve immune function and quality of life. Lentinan, a beta-glucan from Shiitake (Lentinula edodes), is approved in Japan as an immunotherapeutic agent for gastric cancer. Cordyceps occupies a different niche — rather than a single-molecule pharmaceutical, it provides a complex mixture of bioactive compounds (cordycepin, polysaccharides, sterols, adenosine) that work synergistically through multiple mechanisms. This multi-target approach may ultimately prove advantageous for complex conditions like [[cannabis-chronic-fatigue-research]], [[cannabis-metabolic-syndrome-research]], and age-related immune decline, where single-molecule drugs often show limited efficacy. See [[medicinal-mushroom-immune-modulation]] for a broader pharmacological context.
+Cordyceps militaris (the orange caterpillar fungus) has emerged as an important alternative to wild-harvested C. sinensis. Unlike C. sinensis, C. militaris can be reliably cultivated to produce both mycelium and fruiting bodies, and it typically contains higher concentrations of cordycepin. The fruiting bodies of C. militaris are commercially available and used in dietary supplements worldwide. C. militaris also produces cordycepic acid (D-mannitol) and a similar profile of polysaccharides. Clinical interest in C. militaris has grown significantly as wild C. sinensis becomes increasingly scarce and expensive. See [[medicinal-mushroom-guide-cordyceps]] for purchasing guidance and [[cordyceps-cultivation]] for [[cannabis-chronic-fatigue-research]], [[medicinal-mushroom-immune-modulation]] for a broader pharmacological context.
 
 ## Practical Applications
 
@@ -117,8 +91,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[cordyceps-sinensis]]
 - [[cordyceps-militaris]]
-- [[herbal-medicine]]
 - [[lentinan]]
 - [[spore-dispersal]]

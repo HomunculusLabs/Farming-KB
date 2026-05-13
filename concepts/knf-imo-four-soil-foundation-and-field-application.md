@@ -16,23 +16,10 @@ type: concept
 
 # KNF IMO #4 Soil Foundation and Field Application
 
-IMO #4 is the final, field-ready form of [[beneficial-indigenous-microorganisms-bim]] in
-Korean [[comparison-natural-farming-vs-permaculture]]. It represents the transition from laboratory
+IMO #4 is the final, field-ready form of [[comparison-natural-farming-vs-permaculture]]. It represents the transition from laboratory
 cultivation to active soil inoculation, combining cultured IMOs with
 native soil to create a living microbial inoculant for building
-[[fukuoka-natural-farming]] principles:
-
-- Normal fields: soil treatment 7 days before seeding or transplanting
-- Fields with successive cropping disorder: 14 days before seeding
-- Apply IMO #4, then make soil foundation one week before seeding
-- One additional soil foundation application after IMO #4 for problem
- fields
-
-### Method 2: Fermented Mixed Compost Enhancement
-
-Mix IMO #4 with compost materials in a 1:10 ratio. Suitable compost
-materials include oil cake, fowl droppings, pig manure, cow manure,
-fish meal, and commercial [[complete-organic-fertilizer-cof-recipe-solomon]]. Ferment the mixture for
+[[complete-organic-fertilizer-cof-recipe-solomon]]. Ferment the mixture for
 7-14 days before use.
 
 For enhanced effectiveness, add cow bone powder, shrimp shell, or crab
@@ -53,26 +40,8 @@ wilt and damping-off in seedlings.
 4. Apply to seedlings in the nursery or as a foliar spray
 
 Liquid IMO #4 applied together with other 
-- [[knf-seed-treatment-and-soil-foundation]]
 - [[natural-farming-soil-management]]
-- [[imo-collection-multi-stage-cultivation]]
-## Practical Considerations
-
-When working with KNF IMO 4 Soil Foundation and Field Application, several practical factors should be
-carefully considered to achieve optimal results. These include
-the specific conditions of the implementation context, available
-resources, timing requirements, and the interactions between this
-topic and other elements of the broader system. A holistic view
-that considers these interconnections produces better outcomes.
-
-Environmental conditions such as temperature, moisture, and
-seasonal patterns significantly influence results. Monitoring these
-variables and adapting practices accordingly is essential for success.
-The most effective practitioners develop keen observation skills and
-respond flexibly to changing conditions rather than following rigid
-protocols regardless of circumstances or local variation.
-
-[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
+- [[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -111,8 +80,6 @@ through generations to modern scientific approaches, the evolution continues
 to inform current best practices and research directions.
 
 ## See Also
-- [[permaculture]]
 - [[knf-seed-treatment-and-soil-foundation]]
-- [[casing-soil-preparation-and-application]]
 - [[knf-imo-four-stage-cultivation]]
 - [[knf-imo-processing-stages-and-utilization]]

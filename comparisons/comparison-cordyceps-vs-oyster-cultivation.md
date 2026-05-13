@@ -10,10 +10,7 @@ sources: []
 ## Overview
 
 Cordyceps and Oyster mushrooms represent two extremes of mushroom
-cultivation difficulty. Oysters ([[growing-gourmet-oyster-cultivation]])
-are universally regarded as the easiest cultivated mushroom, thriving on
-almost any agricultural waste with minimal equipment. Cordyceps
-([[cordyceps-and-entomopathogenic-fungi]]), by contrast, demands sterile
+cultivation difficulty. Oysters ([[cordyceps-and-entomopathogenic-fungi]]), by contrast, demands sterile
 technique, precise temperature control, and specialized substrates that
 make it one of the most challenging species to grow commercially.
 
@@ -23,39 +20,6 @@ Cordyceps commands premium prices for its medicinal compounds, especially
 cordycepin (3'-deoxyadenosine), which has attracted significant research
 attention for anti-cancer and adaptogenic properties.
 ## Cordyceps Cultivation
-
-[[cordyceps-and-entomopathogenic-fungi]]
-
-Cordyceps militaris is the primary species cultivated commercially. Wild
-C. sinensis (Yartsa Gunbu), parasitizing ghost moth larvae at high
-Himalayan altitudes, is largely unscalable and commands tens of thousands
-of dollars per kilogram. C. militaris can be grown on grain-based
-substrates or liquid culture, but the process is demanding.
-
-### Substrate Requirements
-
-Cordyceps requires nutrient-rich substrates, typically brown rice or
-supplemented grain. Some cultivators use silk worm pupae to approximate
-the natural insect-host relationship. The substrate must be sterilized
-under pressure (15 PSI for 90+ minutes) because Cordyceps mycelium
-grows slowly and is vulnerable to contamination from faster-growing molds.
-
-### Environmental Parameters
-
-- Spawn run: 68-72F (20-22C), dark conditions, 2-4 weeks
-- Fruiting: 65-70F (18-21C), high humidity (85-95%), indirect light
-- Fresh air exchange critical during fruiting to stimulate stroma formation
-
-### Key Challenges
-
-The most significant obstacle is contamination. Cordyceps mycelium grows
-at roughly half the speed of Oyster mycelium, giving competing molds a
-substantial window to colonize. A laminar flow hood is essentially
-mandatory. Cultivation cycles run 45-60 days and yields are modest.
-Cordycepin content varies substantially with substrate composition and
-strain selection.
-
-## Oyster Mushroom Cultivation
 
 [[growing-gourmet-oyster-cultivation]]
 
@@ -137,14 +101,6 @@ Some cultivators grow both species synergistically. Oyster production
 provides steady income to subsidize Cordyceps infrastructure (laminar
 flow hood, autoclave, climate-controlled chamber). Spent Oyster substrate
 can be composted, while Cordyceps blocks are processed for extract
-production. Multi-species operations that include [[cordyceps-militaris]]
-and Pleurotus species serve both food and supplement markets from a
-single facility.
-
-## See Also
-
-- [[cordyceps-and-entomopathogenic-fungi]]
-- [[growing-gourmet-oyster-cultivation]]
+production. Multi-species operations that include [[cordyceps-and-entomopathogenic-fungi]]
 - [[comparison-cordyceps-vs-lions-mane-cultivation]]
-- [[comparison-cordyceps-vs-reishi-cultivation]]
 - [[cultivation-of-oyster-mushrooms]]

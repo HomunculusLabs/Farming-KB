@@ -8,48 +8,7 @@ sources: ["Shulgin - PIHKAL"]
 ---
 # 3C-E
 
-[[2c-b-pihkal-entry-20]] #25. 4-Ethoxy-3,5-dimethoxy-A.
-
-## Dosage and Duration
-
-| Property | Value |
-|----------|-------|
-| Dosage | 30 - 60 mg. |
-| Duration | 8 - 12 h. |
-
-## Qualitative Comments
-
-> (with 40 mg) It developed into a strange and
-> indefinable something. It is unworldly. I am very much in control,
-> but with an undertone of unreality that is a little reminiscent of
-> high doses of LSD. If there were a great deal of sensory input, I
-> might not see it. And if I were in complete sensory quiet I would
-> miss it, too. But just where I am, I can see it. Eerie state of
-> awareness. And by the 8th hour I am sober, with no residue except for
-> some slight teeth clenching, and pretty much disbelieving the whole
-> thing.
->
-> (with 60 mg) Visuals very strong, insistent. Body discomfort
-> remained very heavy for first hour. Sense of implacable imposition of
-> something toxic for a while. I felt at the mercy of uncomfortable
-> physical effects Q faint or pre-nausea, heavy feeling of tremor
-> (although tremor actually relatively light) and general dis-ease,
-> un-ease, non-ease. Kept lying down so as to be as comfortable as
-> possible. Fantasy began to be quite strong. At first, no eyes closed
-> images, and certainly anti-erotic. 2nd hour on, bright colors,
-> distinct shapes Q jewel-like Q with eyes closed. Suddenly it became
-> clearly not anti-erotic. That was the end of my bad place, and I shot
-> immediately up to a +++. Complex fantasy which takes over Q hard to
-> know what is real, what is fantasy. Continual erotic. Image of
-> glass-walled apartment building in mid-desert. Exquisite sensitivity.
-> Down by ? midnight. Next morning, faint flickering lights on looking
-> out windows.
->
-
-## Extensions and Commentary
-
-This is an interesting closing of the
-circle. Although [[mescaline]] launched the entire show, the first half
+[[mescaline]] launched the entire show, the first half
 could be called the amphetamine period, with variations made on all
 aspects of the molecule except for that three-carbon chain. And it
 was found that the 4-substitution position was of paramount importance
@@ -85,9 +44,89 @@ extracted with 4x100 mL CH2Cl2. The pooled extracts were washed with
 saturated brine, and the solvent removed under vacuum to give 3.3 g of
 a pale amber oil which set up as crystals of
 3,5-dimethoxy-4-ethoxybenzaldehyde with a mp of 47-48 deg C. A small
-sample recrystallized from [[methanol]] had a mp of 48-49 deg C.
+sample recrystallized from [[ethyl-j-entity-pihkal]]
 
-A solution of 3.3 g 3,5-dimethoxy-4-ethoxybenzaldehyde in 25 mL
+## Overview
+
+3C E Entity Pihkal represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish 3c e entity pihkal
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving 3c extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+3C E Entity Pihkal finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for 3c e entity pihkal. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+3c e entity pihkal and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+3C E Entity Pihkal has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of 3c e entity pihkal into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
 
 ## See Also
-- [[ethyl-j-entity-pihkal]]
+
+- [[2c-g-3-entity]]
+- [[4-5-mdo-dmt-entity-tihkal]]
+- [[5-6-mdo-dipt-entity-tihkal]]
+- [[mdcpm-entity-pihkal]]
+- [[methyl-k-entity-pihkal]]

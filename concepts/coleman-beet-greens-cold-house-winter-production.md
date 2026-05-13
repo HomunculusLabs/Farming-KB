@@ -6,28 +6,14 @@ topics: [beet-greens, bulls-blood, cold-house, winter-harvest,
   braising-mix, salad-mix]
 ---
 
-# Beet Greens and Baby Beets i [[cold-house-winter-harvest-system]] er Production
-
-## Summary
-
-Beet greens, particularly the 'Bull's Blood' variety, are a
-sta [[coleman-sunlight-and-winter-crop-growth-rates]] crop in Eliot Coleman's cold-house system [[coleman-four-season-farm]] Farm. They serve a dual role: providing deep maroon leaves
-for both the baby-lea [[coleman-salad-mix-quality-standards]] i [[psilocybin-logos-consciousness]] h [[coleman-salad-braising-mix-composition]] ix throughout
+# Beet Greens and Baby Beets i [[coleman-sunlight-and-winter-crop-growth-rates]] crop in Eliot Coleman's cold-house system [[coleman-salad-mix-quality-standards]] i [[coleman-salad-braising-mix-composition]] ix throughout
 the winter months, and producing exceptional quality baby beets
-i [[coleman-overwintered-onions-and-early-spring-crops]] ng that reach market six to eight weeks ahead of
-outdoor spring crops. The cool conditions of winter greenhouses
-intensify the beautiful deep maroon coloration of 'Bull's Blood'
-without developing the bitter edge associated with radicchio.
-
-##[[fungal-survey-design-role-of-volunteers]] le of Beet Greens in Winter Salads
+i [[fungal-survey-design-role-of-volunteers]] le of Beet Greens in Winter Salads
 
 Coleman's baby-leaf salad mix relies on 'Bull's Blood' beet
 leaves as the primary source of red color. The mix is composed
 exclusively of whole baby leaves no more than three inches in
-length, carefully chosen from natu [[coleman-cold-hardy-winter-vegetables]] winter varieties.
-Coleman explicitly states that they have not yet found a
-radicchio variety they like for baby leaves, and instead prefer
-'Bull's Blood' beet leaves for red [[psilocybin-in-the-counter-culture]] in the mix.
+length, carefully chosen from natu [[psilocybin-in-the-counter-culture]] in the mix.
 
 The cool conditions of winter greenhouses intensify the beautiful
 deep maroon of 'Bull's Blood' leaves, and the flavor does not
@@ -117,8 +103,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[eliot-coleman]]
 - [[coleman-cool-house-vs-cold-house-economics-winter-production]]
-- [[coleman-winter-scallion-production-cold-house]]
 - [[psilocybin]]
 - [[coleman-winter-kale-brassica-cold-house-management]]

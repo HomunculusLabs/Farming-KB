@@ -16,20 +16,7 @@ sources:
 # Neoshamanic Preparation and Integration Practices
 
 In hybrid shamanic-therapeutic circle rituals, the practices surrounding the
-[[entheogenic-ceremony]] itself are considered essential to the overall transformative
-process. The preparatory activities before and the integration work after the
-ceremony distinguish the neoshamanic approach from both purely recreational use
-and conventional clinical psychedelic therapy.
-
-These practices draw on contemplative traditions, expressive arts, and
-established therapeutic methods to create a comprehensive framework for
-psychospiritual development that honors both indigenous and Western wisdom.
-
-## The Centrality of Preparation
-
-Experienced entheogenic explorers understand the importance of set and therefore
-devote considerable attention to clarifying their intentions with respect to
-[[metzner-shamanic-healing-and-divination-paradigm]] before entering ceremony. This preparatory intention-
+metzner-shamanic-healing-and-divination-paradigm before entering ceremony. This preparatory intention-
 setting serves multiple functions simultaneously:
 
 - It focuses the expanded awareness that the entheogen will facilitate
@@ -73,33 +60,9 @@ entheogenic plants, many of which grow in specific natural environments and carr
 the signature of their ecosystem.
 
 Time alone in nature facilitates a sense of humility and openness before the
-ceremony. It allows for private reflection and [[blesching-cannabis-emotional-processing-expansive-constricting-emotions]], giving
-participants space to settle internal conflicts that might otherwise surface
-disruptively during the group ceremony.
-
-### Expressive Arts Modalities
-
-Drawing, painting, and journal work are sometimes used in the preparatory phase.
-These creative practices provide nonverbal channels for accessing and expressing
-material that may be difficult to articulate in words.
-
-They also serve as baseline documents against which post-ceremony creative
-output can be compared, offering a tangible measure of change. The creative
-process itself can activate intuitive knowing and emotional processing.
-
-## Participant Backgrounds and Prior Experience
-
-Most participants in the hybrid neoshamanic circles described by [[metzner-neoshamanic-medicine-circles-structure-and-practice]]-talking-staff-and-preparation-integration-in-hybrid-ceremonies|metzner were
+ceremony. It allows for private reflection and metzner-neoshamanic-medicine-circles-structure-and-practice-talking-staff-and-preparation-integration-in-hybrid-ceremonies|metzner were
 experienced in one or more psychospiritual practices prior to their involvement
-with [[darkness-low-light-facilitation-entheogenic-ceremonies]]. Common backgrounds include:
-
-- **Shamanic drum journeying**: Provides a framework for understanding and
-  navigating expanded states through prior experience with metzner metaphysical realms nonordinary reality shamanic cosmology
-- **Buddhist vipassana meditation**: Develops present-moment awareness and
-  nonjudgmental observation invaluable during intense experiences
-- **Tantra yoga**: Practices involving breath, energy, and consciousness
-  prepare practitioners for somatic intensity
-- **[[metzner-holotropic-breathwork-and-grof-perinatal-matrices]]**: Stanislav Grof's method of accessing nonordinary
+with metzner-holotropic-breathwork-and-grof-perinatal-matrices**: Stanislav Grof's method of accessing nonordinary
   states through accelerated breathing directly parallels entheogenic effects
 - **Various forms of psychotherapy**: Provide tools for processing emotional
   material and understanding psychological dynamics
@@ -148,3 +111,11 @@ Integration practices may include:
 - Ongoing participation in supportive community
 
 ## The Amplification Function of Plant Medicines
+
+## See Also
+
+- [[psycholytic-vs-psychedelic-therapy-historical-models-metzner]]
+- [[ralph-metzner]]
+- [[metzner-hallucinogen-etymology-alucinare-rehabilitation-and-entheogen-wasson-ott]]
+- [[metzner-william-james-radical-empiricism-multiple-consciousness]]
+- [[metzner-psychedelic-psychotherapy-clinical-history]]

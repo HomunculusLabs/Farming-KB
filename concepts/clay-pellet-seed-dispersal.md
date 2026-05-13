@@ -2,9 +2,7 @@
 title: Clay Pellet Seed Dispersal
 aliases:
   - seed balls
-  - [[fukuoka-aerial-seeding-clay-pellets-desert-revegetation-technique]]
-  - Fukuoka seed pellets
-  - [[desert-revegetation]]
+  - desert-revegetation
 tags:
   - agriculture
   - seeds
@@ -18,12 +16,7 @@ tags:
 # Clay Pellet Seed Dispersal
 
 Clay pellet seed dispersal is a revegetation technique developed by
-**[[masanobu-fukuoka]]** for restoring vegetation to barren and desertified
-lands. The method involves coating seeds in a protective layer of clay
-and soil, creating small pellets that can be scattered over large areas
-by hand. The technique is central to Fukuoka's vision of global desert
-revegetation and represents one of the most practical applications of
-[[cho-natural-farming-philosophy]] at landscape scale.
+**cho-natural-farming-philosophy at landscape scale.
 
 ## The Problem of Desertification
 
@@ -40,32 +33,14 @@ vegetation throughout the world, but human civilization and the misguided
 methods of crop cultivation that arose from man's arrogance are largely
 responsible for this global plight. Overgrazing by large animal herds
 kept by nomadic peoples reduced vegetation variety, denuding the land.
-Agricultural societies, with their shift to [[fukuoka-critique-modern-agriculture]] and heavy
-reliance on petroleum-based chemicals, confronted the problem of rapid
-debilitation of the land.
-
-## The Pellet Preparation Method
-
-The clay pellets are prepared through a straightforward process. First,
-a mixture of seeds is assembled. For desert revegetation, Fukuoka
-recommended combining seeds of green manure trees such as **black wattle**
-(*[[acacia-mearnsii]]*) that grow in areas with an annual rainfall of less
+Agricultural societies, with their shift to acacia-mearnsii*) that grow in areas with an annual rainfall of less
 than 2 inches, along with seeds of clover, alfalfa, and bur clover,
 other types of green manure plants, and grain and vegetable seeds
 appropriate to the target climate.
 
 The seed mixture is then coated in two layers. An inner layer of soil
 surrounds each seed, providing immediate contact with mineral particles
-and [[forest-and-bamboo-beneficial-microorganisms]]. Then an outer layer of clay encases the
-soil-coated seeds, hardening into a protective shell. This clay coating
-contains microorganisms from the farm soil, creating what Fukuoka called
-"microbe-containing clay pellets." The pellets are dried in the sun until
-hard and ready for scattering.
-
-## How the Pellets Work
-
-The clay pellet solves several problems simultaneously that normally
-prevent successful [[clay-seed-pellets-direct-seeding]] in harsh environments:
+and clay-seed-pellets-direct-seeding in harsh environments:
 
 **Seed protection from predation.** Seeds scattered on bare ground are
 quickly eaten by birds, rodents, and insects. The hard clay shell
@@ -118,8 +93,14 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[acacia]]
-- [[desert-revegetation]]
-- [[desertification]]
-- [[fukuoka-textdoc-overwintering-rice-seed-clay-pellet-method]]
-- [[clay-pellet-seed-dissemination-revegetation]]
+- desert-revegetation
+- fukuoka-textdoc-overwintering-rice-seed-clay-pellet-method
+- clay-pellet-seed-dissemination-revegetation
+
+## See Also
+
+- [[clay-soil-management-solomon]]
+- [[fukuoka-desert-revegetation-clay-pellets]]
+- [[cervantes-outdoor-soil-types-clay-sand-loam]]
+- [[clay-pellet-seed-encapsulation]]
+- [[query-how-do-clay-seed-balls-work-for-natural-farming]]

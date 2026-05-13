@@ -10,15 +10,8 @@ sources: []
 
 ## Overview
 
-Cannabis dosing is inherently more complex than dosing conventional pharmaceuticals. The [[cannabis-drug-interactions-and-contraindications]] is critical. There is no single "correct dose" -- the goal is to find the minimum effective dose that produces the desired therapeutic or recreational effects with minimal side effects.
-
-## Why Cannabis Dosing Is Challenging
-
-Several factors make standardized cannabis dosing difficult:
-
-- **Variable potency**: [[cervantes-cannabis-flower-anatomy]] potency ranges from less than 5% to over 30% THC. Concentrates can exceed 90% THC. Without lab testing, potency is unknown
-- **Individual sensitivity**: Genetic differences in [[set-and-setting]]**: Psychological state, environment, and expectations significantly influence the experience
-- **Plant chemistry**: Different cannabinoid and [[cannabis-terpene-profiles-sativa]] produce different effects even at the same THC dose
+Cannabis dosing is inherently more complex than dosing conventional pharmaceuticals. The [[cervantes-cannabis-flower-anatomy]] potency ranges from less than 5% to over 30% THC. Concentrates can exceed 90% THC. Without lab testing, potency is unknown
+- **Individual sensitivity**: Genetic differences in [[cannabis-terpene-profiles-sativa]] produce different effects even at the same THC dose
 
 ## Consumption Methods and Bioavailability
 
@@ -27,32 +20,7 @@ Several factors make standardized cannabis dosing difficult:
 - **Onset**: 1-5 minutes
 - **Peak effects**: 15-30 minutes
 - **Duration**: 2-4 hours
-- **Bioavailability**: 10-35% (varies with [[dmt-smoking-technique-and-preparation]])
-- **Notes**: Easiest to titrate because effects are felt almost immediately. Vaporizing is preferred over smoking as it avoids combustion byproducts. Dose by counting puffs rather than measuring weight.
-
-### Sublingual (Tinctures)
-
-- **Onset**: 15-45 minutes
-- **Peak effects**: 1-2 hours
-- **Duration**: 4-8 hours
-- **Bioavailability**: 12-35% (higher than oral, lower than inhalation)
-- **Notes**: Absorbed through mucous membranes under the tongue. Hold under tongue for 30-60 seconds before swallowing for maximum absorption.
-
-### Oral (Edibles, Capsules)
-
-- **Onset**: 30 minutes to 2 hours (sometimes up to 4 hours on a full stomach)
-- **Peak effects**: 2-4 hours
-- **Duration**: 6-12 hours (sometimes longer)
-- **Bioavailability**: 4-20% (lowest of all routes due to first-pass metabolism in the liver)
-- **Notes**: THC is converted to 11-hydroxy-THC by the liver, which is significantly more psychoactive. This is why edibles feel stronger and last longer than smoked cannabis. Start very low and wait at least 2 hours before redosing.
-
-### Topical
-
-- **Onset**: 15-60 minutes
-- **Peak effects**: 1-2 hours
-- **Duration**: 4-6 hours
-- **Bioavailability**: Local only (does not enter bloodstream significantly)
-- **Notes**: No psychoactive effects. Used for localized pain, inflammation, and skin conditions. See [[cannabis-topical-applications]] for details.
+- **Bioavailability**: 10-35% (varies with [[cannabis-topical-applications]] for details.
 
 ## THC Dosing Guidelines
 
@@ -118,8 +86,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[det]]
 - [[dmt]]
-- [[cannabis-dosing-guidelines-by-condition]]
 - [[blesching-cannabis-health-index-dosage-guidelines-medical]]
 - [[oner-cannabis-edibles-infusion-dosing]]

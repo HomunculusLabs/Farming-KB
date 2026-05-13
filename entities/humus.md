@@ -24,10 +24,7 @@ Humus is the dark, organic material formed in soil from the decayed, compressed,
 - One of the five fundamental components of soil: minerals, soil waters, gases, life forms, and once-living remains (humus)
 - The dark color of productive topsoil is primarily due to humus content
 - Tribal and traditional soil classifications use color as an indicator of humus content
-- Soils with high humus content have superior [[crumb-structure]], water retention, and fertility
-- Humus can hold 4-6 times its weight in water, dramatically improving drought resistance
-- Acts as a slow-release reservoir of plant nutrients
-- Provides [[cation-exchange-capacity]] (CEC) far exceeding that of clay minerals alone
+- Soils with high humus content have superior [[cation-exchange-capacity]] (CEC) far exceeding that of clay minerals alone
 - Estimated topsoil builds at 2-4 tonnes per hectare per year under natural conditions
 - Cropping and tillage removes 40-500 tonnes per year of topsoil
 - The only places where soils are conserved or increased: uncut forests, quiet water, permanent plant meadows, and mulched non-tillage systems
@@ -43,7 +40,7 @@ Humus is the dark, organic material formed in soil from the decayed, compressed,
 ## Functions in Soil
 
 ### Physical Functions
-- Binds soil particles into stable aggregates (crumb structure)
+- Binds soil particles into stable aggregates ([[crumb-structure]])
 - Creates and maintains pore space for air and water movement
 - Reduces soil compaction and improves tilth
 - Acts as a glue holding soil structure open during rain events
@@ -51,7 +48,7 @@ Humus is the dark, organic material formed in soil from the decayed, compressed,
 
 ### Chemical Functions
 - Provides high cation exchange capacity (CEC) for nutrient retention
-- Buffers soil pH against rapid changes
+- Buffers [[soil-ph]] against rapid changes
 - Chelates (binds) micronutrients, making them available to plants
 - Stores nutrients in organic forms resistant to leaching
 - Decomposes to release nitrogen, phosphorus, sulfur, and trace elements slowly
@@ -91,6 +88,5 @@ Humus is the dark, organic material formed in soil from the decayed, compressed,
 
 ## See Also
 
-- [[mollison-designers-humus-building-and-soil-organic-matter]]
 - [[bill-mollison-permaculture-a-designers-manual-soil-and-humus-management]]
 - [[query-what-are-the-best-indicator-plants-for-soil-health]]

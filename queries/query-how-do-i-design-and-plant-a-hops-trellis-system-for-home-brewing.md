@@ -34,28 +34,7 @@ For a home brewer making 15–20 liter (5-gallon) batches:
 **For American-style beers (IPA, pale ale):**
 - Cascade (citrus, classic American)
 - Centennial (citrus, floral, pine — "Super Cascade")
-- Simcoe or Citra (if you can find rhizomes — tropical fruit, [[holzer-stone-fruit-varieties-and-growing]])
-
-**For European-style beers (pilsner, wheat, Belgian):**
-- Saaz (noble, spicy, herbal — classic Czech pilsner hop)
-- Hallertauer Mittelfrüh (floral, delicate — German lager hop)
-- Tettnanger (noble, slightly fruity)
-
-**For English-style beers (ESB, porter, barleywine):**
-- East Kent Goldings (earthy, honey, floral — quintessential English hop)
-- Fuggle (earthy, mild, herbal)
-- Willamette (American-bred Fuggle derivative, easier to grow)
-
-**For high yield and reliability (beginners):**
-- Nugget (very vigorous, high alpha, disease-resistant)
-- Magnum (high alpha, excellent yield, good disease resistance)
-- Chinook (vigorous, productive, piney-citrus)
-
-## Trellis Design Options
-
-### Option 1: Two-Post String Trellis (Best Balance)
-
-**Materials (for 3–4 plants):** 2 × 4×4 or 6×6 posts (3.5–4.5 m, cedar/[[comparison-black-locust-vs-honey-locust]]/treated), 12-gauge wire (~5 m), 6–8 × jute twine, 4 × ground anchors, 2 bags concrete.
+- Simcoe or Citra (if you can find rhizomes — tropical fruit, [[comparison-black-locust-vs-honey-locust]]/treated), 12-gauge wire (~5 m), 6–8 × jute twine, 4 × ground anchors, 2 bags concrete.
 
 **Installation:** Set posts 4–5 m apart, 90 cm deep in concrete. Run wire taut between tops (use turnbuckle). Drop one string per plant from wire to ground anchor 30–45 cm from crown. Posts should extend 4 m+ above ground. **Cost:** ~$50–120.
 
@@ -89,19 +68,7 @@ Eye bolts, wire, pulley, twine mounted on existing wall/fence/eaves. Minimum 3�
 
 - **Water 2–3× per week**, soaking root zone deeply.
 - **Train bines** clockwise around twine at 30–45 cm. Select 2–3 strongest per plant.
-- **Feed lightly:** [[comparison-biofertilizers-and-soil-inoculants-vs-compost-tea-guide]] at planting and early June only. Don't over-fertilize year one.
-- **Expect minimal harvest** — year one is root establishment.
-
-## Seasonal Calendar
-
-| Month | Task |
-|-------|------|
-| Feb–Mar | Order rhizomes. Inspect trellis. Top-dress compost. |
-| Apr | Plant rhizomes. Begin training bines. |
-| May | Train bines to strings. Strip lower 60 cm leaves. Fertilize. |
-| Jun | Monitor aphids/mildew. Second fertilizer. |
-| Jul | Final fertilizer (by mid-month). Stop nitrogen. |
-| Aug | Check cone readiness. Watch for [[cervantes-spider-mites-identification-control]]. |
+- **Feed lightly:** [[cervantes-spider-mites-identification-control]]. |
 | Sep | **Harvest.** Dry at 50–60°C. Vacuum-seal and freeze. |
 | Oct | Cut bines at ground level. Compost debris. |
 | Nov | Top-dress compost + phosphorus. Mulch crowns 10–15 cm. |
@@ -132,6 +99,5 @@ Eye bolts, wire, pulley, twine mounted on existing wall/fence/eaves. Minimum 3�
 
 - faires-hops-cultivation-and-home-brewing
 
-- [[chamovitz-circadian-rhythm-internal-clock-plants]]
 - [[chamovitz-circadian-rhythm-internal-clock-plants]]
 - [[query-how-does-cover-cropping-benefit-soil-and-when-should-i-plant-them]]

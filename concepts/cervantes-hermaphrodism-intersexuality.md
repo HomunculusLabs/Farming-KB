@@ -28,12 +28,7 @@ stable seed lines.
 Intersex plants are often mistakenly called hermaphrodites, but the
 breeding literature distinguishes between them. Intersex plants are
 strictly genetic -- they have inherited a gene that triggers the
-intersex condition, even given a perfect [[cannabis-growing-environment-setup]]. They
-produce both pistillate and staminate flowers on the same individual
-under typical environmental conditions.
-
-Environmentally stressed females may also develop a few male flowers,
-but this is a [[mycelial-metabolite-excretion-stress-response-grain-jar-cultivation-guide]] rather than a genetic predisposition.
+intersex condition, even given a perfect [[mycelial-metabolite-excretion-stress-response-grain-jar-cultivation-guide]] rather than a genetic predisposition.
 The term "hermaphrodite" is more broadly applied to any plant showing
 both sex organs, regardless of cause.
 
@@ -59,20 +54,7 @@ typical expression of characteristics can be altered.
 
 Environmental conditions which may provoke sexual reversal include:
 
-- An inconsistent [[cervantes-feminized-seed-production]] for how breeders exploit this tendency.
-
-## Impact on Sinsemilla Production
-
-A hermaphrodite with a few male flowers can sprout on a predominately
-female plant and potentially seed the entire crop. Growers producing
-sinsemilla must inspect plants daily during flowering, removing any
-male flowers immediately upon discovery. In severe cases, the entire
-plant may need to be removed from the flowering room.
-
-Prevention is the best strategy: maintain stable environmental
-conditions, avoid interrupting the dark period, and select against
-intersex tendencies in breeding stock. See [[cervantes-sinsemilla-cultivation]]
-- [[cervantes-sex-determination-pre-flowering]]
+- An inconsistent [[cervantes-sinsemilla-cultivation]]
 - [[cannabis-phenotype-selection]]
 ## Practical Considerations
 
@@ -122,8 +104,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[dom]]
 - [[det]]
-- [[marijuana-horticulture-cervantes-hydroponic-growing-systems]]
 - [[cervantes-high-pressure-sodium-lighting]]
 - [[marijuana-horticulture-cervantes-cannabis-breeding-and-genetics]]

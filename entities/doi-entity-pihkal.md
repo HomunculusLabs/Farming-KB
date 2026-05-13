@@ -19,7 +19,7 @@ mollison-designers-cycles-niches-and-time seemed to move quite
 > with a sad view of life. There was no way I could connect with my
 > emotions. Even my sadness was vague. At about the ninth hour I
 > decided that enough was enough, and this strangely disappointing
-> about-plus-two was aborted with 125 micrograms optical [[optical-isomers-psychedelic-phenethylamines]] phenethylamines, it is the "R" isomer that is the more potent. And again, the other isomer, the "S" isomer, still shows some activity. The same was true with DOB, and DOM, and MDA. The only exception was [[mdma]], but then that is more of a stimulant, and there is virtually no psychedelic component to its action. Rat studies, where there is a measure of the discrimination of a test compound from saline, have shown the "R" isomer to have about twice the potency of the "S" isomer. That the "R" is more potent is certain, but the above reports would suggest that the factor would bserotoninto times-four rather than times-two.
+> about-plus-two was aborted with 125 micrograms optical [[mdma]], but then that is more of a stimulant, and there is virtually no psychedelic component to its action. Rat studies, where there is a measure of the discrimination of a test compound from saline, have shown the "R" isomer to have about twice the potency of the "S" isomer. That the "R" is more potent is certain, but the above reports would suggest that the factor would bserotoninto times-four rather than times-two.
 
 A number of studies with DOI in animal models have shown it to have an extremely high binding capacity to what are called the 5-HT2 receptors. Serotonin is a vital neurotransmitter in the brain, and is strongly implicated in the action of all of the phenethylamine psychedelics. The place where it acts, at the molecular level, is called its receptor site. As an outgrowth of the cooperative studies of the medicinal chemists working closely with the neuropharmacologists, a number of compounds have emerged that interact with these sites. But this one interacts with these sites and not those, and that one interacts with those sites and not these. So, there has developed a collection of sub-divisions and sub-subdivisions of receptor sites, all related to serotonin, but each defined by the particular compound that interacts most tightly with it.
 
@@ -37,34 +37,8 @@ A mixture of 14.8 g phthalic anhydride and 19.5 g of 2,5-dimethoxyamphetamine (2
 
 To a solution of 2.0 g N-(1-(2,5-dimethoxyphenyl)-2-propyl)phthalimide in 15 mL warm acetic acid which was being vigorously stirred, there was added a solution of 1.2 g iodine monochloride in 3 mL acetic acid. This was stirred for 2 h at about 40 deg C during which time there was a definite lightening of color, but no solids formed. The reaction mixture was poured into 600 mL H2O which produced a reddish glob floating in a yellow-orange opaque aqueous phase. The glob was physically removed, dissolved in 30 mL boiling MeOH which, on cooling in an ice bath, deposited off-white crystals. These were removed by filtration, washed with MeOH, and air dried to give 1.5 g of N-[1-(2,5-dimethoxy-4-iodophenyl)-2-propyl]phthalimide as fine white crystals with a slight purple cast. The mp was 103-105.5 deg C and the mixed mp with the starting non-iodinated phthalimide (mp 105-106 deg C) was depressed (85-98 deg C). Extraction of the aqueous phase, after alkalinification, provided an additional 0.15 g product. Anal. (C19H18NO4) C,H,N.
 
-A solution of 0.75 g N-(1-(2,5-dimethoxy-4-iodophenyl)-2-propyl)phthalimide in 10 mL EtOH was treated with 0.3 mL of hydrazine hydrate, and the clear solution was held at reflux on the [[scythian-cannabis-steam-bath-ritual]] overnight. After cooling, there was a crystallization of 1,4-dihydroxyphthalizine that started as small beads but finally became extensive and quite curdy. These
-
-solids were removed by filtration and had a mp of about 340 deg C (reference samples melted over a five to ten degree range in the area of 335-350 deg C). The filtrate was dissolved in 100 mL CH2Cl2 and extracted with 2x150 mL 0.1 N HCl. The aqueous extracts were washed once with CH2Cl2, made basic with 5% NaOH, and extracted with 3x100 mL CH2Cl2. Removal of the solvent under vacuum gave 0.5 g of a colorless oil which was dissolved in 300 mL anhydrous Et2O and saturated with anhydrous HCl gas. There was obtained, after filtration, and air drying, 0.35 g of 2,5-dimethoxy-4-iodoamphetamine hydrochloride (DOI) as white crystals that melted at 200.5-201.5 deg C. This value did not improved with recrystallization. Anal. (C11H17ClINO2) C,H,N.
-
-## Safety Notes
-
-DOI is a research chemical documented in PIHKAL. Dosage data [[2c-o-4-entity-pihkal]]
-- [[2-br-4-5-mda-entity-pihkal]]
-
-- PIHKAL (Shulgin & Shulgin, 1991)
-- Related compounds in the DOx family
-## Practical Considerations
-
-When working with DOI -- 2,5-DIMETHOXY-4-IODOAMPHETAMINE -- PIHKAL Entry #67, several practical factors should be
-carefully considered to achieve optimal results. These include
-the specific conditions of the implementation context, available
-resources, timing requirements, and the interactions between this
-topic and other elements of the broader system. A holistic view
-that considers these interconnections produces better outcomes.
-
-Environmental conditions such as temperature, moisture, and
-seasonal patterns significantly influence results. Monitoring these
-variables and adapting practices accordingly is essential for success.
-The most effective practitioners develop keen observation skills and
-respond flexibly to changing conditions rather than following rigid
-protocols regardless of circumstances or local variation.
-
-[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
+A solution of 0.75 g N-(1-(2,5-dimethoxy-4-iodophenyl)-2-propyl)phthalimide in 10 mL EtOH was treated with 0.3 mL of hydrazine hydrate, and the clear solution was held at reflux on the [[2c-o-4-entity-pihkal]]
+- [[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -88,3 +62,88 @@ creating a reference base of observations, interventions, and results.
 This accumulated knowledge enables progressively better decision-making
 and helps identify patterns that might otherwise be overlooked in the
 complexity of day-to-day management and observation activities.
+
+## Overview
+
+Doi Entity Pihkal represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish doi entity pihkal
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving doi extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Doi Entity Pihkal finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for doi entity pihkal. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+doi entity pihkal and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Doi Entity Pihkal has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of doi entity pihkal into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[2c-c-entity]]
+- [[2c-o-4-entity]]
+- [[4-ho-dbt-entity-tihkal]]
+- [[mckenna-dmt-i-thou-relationship-entity-encounter-ethics]]
+- [[pyrethrum-entity]]

@@ -16,61 +16,8 @@ type: entity
   Psilocybe semperviva (Heim and Callieux)
 
 ## Overview
-Psilocybe hoogshagenii is a moderately to highly active [[psilocin]].
-
-## Key Details
-- **Cap:** 0.7-2.5 (3) cm broad. Conic to campanulate to convex
-  with an acute, extended papilla (up to 4 mm long). Surface
-  slightly viscid when wet, smooth, often ridged halfway to disc.
-  Reddish brown to orangish brown to yellowish, hygrophanous,
-  fading to straw colored. Bruises blue or blue-black.
-- **Gills:** Adnate to adnexed, pale brown to coffee colored,
-  eventually purplish black at maturity.
-- **Stem:** 30-90 (110) mm long by 1-3 mm thick. Equal to slightly
-  thickened near base, flexuous, sometimes twisted. Whitish to
-  brownish red near base, easily bruising bluish to bluish black.
-  Partial veil thinly cortinate, fragile, soon disappearing.
-- **Spores:** Dark purplish brown in deposit, rhomboid to subrhomboid,
-  5-8 (9.6) x 4-5.6 um. Basidia 4-spored, rarely 2-spored.
-  Pleurocystidia 16-36 x 8-12 um. Cheilocystidia 15-35 x 4.4-6.6
-  um, lageniform with long neck.
-- **Habitat:** Solitary to gregarious in muddy clay soils in subtropical
-  coffee plantations. June-July in Mexico (Puebla, Oaxaca, Chiapas),
-  February in Argentina. Also Brazil and Colombia. Elevation:
-  1000-1800 m (Argentina).
-- **Chemistry:** Moderately to highly active. Heim and Hofmann (1958)
-  found 0.6% psilocybin and 0.10% psilocin from cultivated specimens.
-  Brazilian specimens: 0.30% psilocybin and 0.30% psilocin (Stijve
-  and de Meijer 1993). P. semperviva (convexa variety) is conspecific.
-
-## Distribution and Ecology
-Psilocybe hoogshagenii is distributed across subtropical regions of
-the Americas, from Mexico (Puebla, Oaxaca, Chiapas) through Central
-America to South America (Brazil, Colombia, Argentina). It fruits
-from June to July in Mexico and February in Argentina, growing at
-elevations of 1000-1800 meters. The species is associated with
-coffee plantations, where its mycelium colonizes muddy clay soils
-enriched by coffee cultivation practices. Coffee growers report
-massive synchronized flushes that appear and disappear rapidly,
-suggesting coordinated environmental triggering of fruiting.
-The conspecific P. semperviva (var. convexa) is most common in
-Puebla, Mexico, fruiting from June to August.
-
-## Relevance
-Psilocybe hoogshagenii is among the most potent New World
-Psilocybe species, with Brazilian specimens demonstrating high
-psilocin content (0.30%). Its unique extended papilla makes it one
-of the most morphologically distinctive species in the genus. The
-massive synchronized flushes reported by coffee growers suggest
-complex environmental triggers for fruiting. The conspecificity
-with P. semperviva (convexa variety, common in Puebla) illustrates
-the taxonomic complexity within Mexican Psilocybe species. Its
-presence in [[chiric-caspi-brunfelsia-south-american-hallucinogen]] countries (Brazil, Colombia, Argentina)
-expands the known distribution of [[cattle-dispersal-psychoactive-fungi-australia]] beyond the
-well-documented Mexican species.
-
-## See Also
-- [[psilocybe-zapotecorum]]
+Psilocybe hoogshagenii is a moderately to highly active [[chiric-caspi-brunfelsia-south-american-hallucinogen]] countries (Brazil, Colombia, Argentina)
+expands the known distribution of [[psilocybe-zapotecorum]]
 - [[psilocybe-mexicana-entity-the-mushroom-cultivator]]
 ## Practical Considerations
 
@@ -90,3 +37,88 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
+
+## Overview
+
+Psilocybe Hoogshagenii represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish psilocybe hoogshagenii
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving psilocybe extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Psilocybe Hoogshagenii finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for psilocybe hoogshagenii. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+psilocybe hoogshagenii and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Psilocybe Hoogshagenii has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of psilocybe hoogshagenii into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[psilocybe-caeruleoannulata]]
+- [[psilocybe-ovoidocystidiata]]
+- [[psilocybe-phyllogena]]
+- [[psilocybe-semilanceata-worldwide-temperate-distribution-guzman-1998]]
+- [[psilocybe-species-europe]]

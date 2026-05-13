@@ -21,55 +21,7 @@ sources:
 
 ## Overview
 
-**Elymus canadensis** L., commonly known as Canada wild rye, is a perennial cool-season bunchgrass native to prairies, savannas, open woodlands, and disturbed sites across much [[berry-growing]]. It is one of the most recognizable native grasses due to its large, nodding, bristly seed heads.
-
-The species typically grows 90–150 cm tall and forms robust tussocks with broad, flat leaves. The distinctive inflorescence, a nodding spike 10–25 cm long with long awns, makes it one of the most visually prominent grasses of the tallgrass prairie.
-
-Canada wild rye is widely used in [[tropical-rainforest-seedling-mycorrhiza-ecological-restoration]] [[mollison-permaculture-two-arid-water-harvesting-and-erosion-control]] for its rapid establishment, adaptability to disturbed sites, and extensive root system. It serves as a pioneer species in prairie reconstruction, providing quick cover while slower-establishing species mature.
-
-## Taxonomy and Morphology
-
-### Taxonomy
-
-- **Kingdom:** Plantaea
-- **Order:** Poales
-- **Family:** Poaceae
-- **Subfamily:** Pooideae
-- **Tribe:** Triticeae
-- **Genus:** Elymus L.
-- **Species:** E. canadensis L.
-
-The genus Elymus is one of the largest genera in the grass family, with approximately 150 species worldwide. Elymus canadensis is part of a complex of closely related North American wild ryes that includes E. virginicus, E. riparius, and E. glaucifolius.
-
-### Morphology
-
-Elymus canadensis is a cool-season (C3) perennial bunchgrass forming large, robust tussocks 40–80 cm in diameter. Culms are stout, erect, and 90–150 cm tall, often with a slight curve or arch at the inflorescence.
-
-Leaf blades are flat, broad, 15–40 cm long and 5–12 mm wide, with a prominent midrib and rough margins. The upper surface is scabrous, and the lower surface is smooth to sparsely hairy.
-
-The ligule is membranous, 0.5–1 mm long, and truncate. Auricles are absent or very small. Sheaths are smooth or slightly hairy and strongly compressed, overlapping at the base.
-
-The inflorescence is a large, nodding, bristly spike 10–25 cm long, 1–2 cm wide (excluding awns). Spikelets are arranged in pairs at each node of the rachis, with 2–3 florets per spikelet.
-
-Glumes are narrow, 10–18 mm long, with awns 15–30 mm long. Lemma awns are prominent, 20–40 mm long, spreading or reflexed, giving the entire spike a bristly appearance. The combination of large size, nodding posture, and long awns makes identification straightforward.
-
-## Distribution and Habitat
-
-Elymus canadensis is native to most of the contiguous United States and southern Canada, from Quebec and Nova Scotia west to British Columbia, and south to northern Georgia, Texas, New Mexico, and Arizona. It extends into northern Mexico.
-
-The species occupies a remarkably broad habitat range, including tallgrass and mixed-grass prairies, oak savannas, open woodlands, streambanks, roadside ditches, railroad rights-of-way, and recently disturbed sites. It is a common early successional species on abandoned agricultural land.
-
-It prefers full sun and mesic to dry conditions, tolerating a wide range of soil types from sandy loams to heavy clays. Soil pH tolerance spans from moderately acidic (5.5) to mildly alkaline (8.0).
-
-Elevation ranges from near sea level to approximately 2,400 m in the Rocky Mountains. It is most abundant in the Great Plains and Midwest but occurs in all major physiographic regions except the most arid deserts.
-
-Canada wild rye is classified as a facultative upland species (FACU). It tolerates brief seasonal flooding but is absent from permanently saturated wetland soils.
-
-## Cultivation
-
-Canada wild rye establishes readily from seed, which germinates without stratification. Germination rates are typically 70–90% under favorable conditions, making it one of the easiest native grasses to establish from seed.
-
-Seeding rates for pure stands are 8–12 kg PLS per hectare. In [[comparison-prairie-restoration-vs-silvopasture]] mixtures, it constitutes 5–15% of the seed mix by weight. Spring seeding is standard, though dormant fall seeding is effective in northern regions.
+**Elymus canadensis** L., commonly known as Canada wild rye, is a perennial cool-season bunchgrass native to prairies, savannas, open woodlands, and disturbed sites across much [[tropical-rainforest-seedling-mycorrhiza-ecological-restoration]] [[comparison-prairie-restoration-vs-silvopasture]] mixtures, it constitutes 5–15% of the seed mix by weight. Spring seeding is standard, though dormant fall seeding is effective in northern regions.
 
 Rapid establishment is one of the species' principal advantages. Seedlings emerge within 7–14 days and develop quickly, producing flowering culms in the first growing season. Full stand maturity is achieved within 1–2 years.
 
@@ -88,3 +40,88 @@ The species provides excellent [[hemenway-backyard-wildlife-habitat]] structure.
 Seeds are an important food source for granivorous birds, particularly during late fall and winter when other food sources are scarce. White-tailed deer and rabbits browse the foliage in spring and early summer.
 
 As a cool-season species, Canada wild rye provides early-season forage and photosynthetic activity before warm-season grasses become fully active. This phenological complementarity extends the period of active vegetation cover in restored prairies.
+
+## Overview
+
+Elymus Canadensis represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish elymus canadensis
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving elymus extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Elymus Canadensis finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for elymus canadensis. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+elymus canadensis and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Elymus Canadensis has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of elymus canadensis into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[aquilegia-canadensis]]
+- [[elymus-hystrix]]
+- [[hydrastis-canadensis]]
+- [[sanguinaria-canadensis]]
+- [[solidago-canadensis]]

@@ -9,8 +9,7 @@ sources:
 ---
 # Cannabis Cannabinoid Receptor Pharmacology (CB1 and CB2)
 
-The [[cervantes-viral-diseases-cannabis]]
-- Protection against inflammatory and [[blesching-cannabis-oxidative-stress-and-antioxidant-defense]]
+The [[blesching-cannabis-oxidative-stress-and-antioxidant-defense]]
 - Tissue repair and wound healing
 - Cancer-fighting properties (apoptosis induction in tumor cells)
 
@@ -27,8 +26,6 @@ The [[cervantes-viral-diseases-cannabis]]
 CB2 activation offers therapeutic benefits without the psychoactive effects associated with CB1. This is particularly relevant for:
 
 - Anti-inflammatory applications
-- [[cannabis-autoimmune-conditions-detailed]]
-- Neuroprotection (CB2 activation slows neurodegeneration)
 - [[cannabis-pain-management-protocols]] in chronic inflammatory conditions
 - Gastrointestinal disorders
 
@@ -47,31 +44,12 @@ This explains why sativas tend to produce more cerebral, stimulating effects (CB
 ## Receptor Distribution in Specific Conditions
 
 ### Pain Management
-- CB1: Central pain processing (brain, [[blesching-cannabis-spinal-cord-injuries]])
-- CB2: Peripheral inflammatory pain (immune-mediated)
-
-### Neurodegenerative Diseases
-- CB1: Motor control, dopamine modulation
-- CB2: Anti-inflammatory neuroprotection, slowing disease progression
-
-### Cancer
-- CB1: Central effects, appetite stimulation
-- CB2: Tumor cell apoptosis, anti-inflammatory action
-
-### Cardiovascular
-- CB1: Heart rate effects, body temperature
-- CB2: Cardioprotective, reduction of infarct size
-
-## Related Topics
-
-- [[cannabis-thc-therapeutic-profile]]
-- [[cannabis-terpene-entourage-effect-profiles]]
+- CB1: Central pain processing (brain, [[cannabis-thc-therapeutic-profile]]
 - [[cannabis-and-neuroprotection]]
 
 ## Key Insight
 
-The dual-receptor system allows cannabis to address both central nervous system conditions (via CB1) and peripheral/immune conditions (via CB2), with [[blesching-cannabis-strain-selection-receptor-targeting]] and THC:CBD ratios determining the therapeutic focus.
-- [[cannabis-terpene-entourage-effect-profiles]]
+The dual-receptor system allows cannabis to address both central nervous system conditions (via CB1) and peripheral/immune conditions (via CB2), with [[cannabis-terpene-entourage-effect-profiles]]
 
 ## Practical Applications
 
@@ -95,32 +73,11 @@ and modern research methods have all contributed to current understanding.
 
 ## See Also
 
-- [[cannabinoid-receptors-cb1-cb2]]
 - [[taar1-trace-amine-associated-receptor-psychedelic-pharmacology]]
-- [[psilocybin-pharmacology-5ht2a-receptor-mechanism]]
 - [[cannabinoid-receptor-agonists-antagonists-synthetic-reference-blesching]]
-- [[salvinorin-a-kappa-opioid-receptor-pharmacology]]
-
-## Cultivation Considerations
-Successful cultivation requires attention to environmental factors
-including light cycles, temperature ranges, humidity control, and
-nutrient management. Both indoor and outdoor approaches have
-distinct advantages depending on climate and regulatory context.
-
-## Safety and Regulation
-Regulatory frameworks vary significantly by jurisdiction. Growers
-should consult local laws regarding cultivation, possession, and use.
-Proper identification and quality control remain essential for
-consumer safety across all production methods.
-
-## See Also
 - [[cannabinoid-receptors-cb1-cb2]]
-- [[psilocybin-serotonin-5ht2a-receptor-pharmacology]]
 - [[endocannabinoid-system-and-cannabis-pharmacology]]
-- [[cannabinoid-receptors-cb1-cb2]]
 - [[emcdda-psilocybin-psilocin-serotonin-5ht2a-receptor-pharmacology]]
 ## See Also
-
-- [[tryptamine-receptor-pharmacology]]
 
 - [[cannabis-for-gastrointestinal-conditions]]

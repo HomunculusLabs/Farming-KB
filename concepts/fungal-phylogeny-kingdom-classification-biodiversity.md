@@ -1,42 +1,11 @@
-# [[fungal-phylogeny-microsporidia-slime-molds]] Phylogeny and Kingdom-Level Classification
-
-> An overview of the evolutionary relationships, taxonomic kingdoms, and [[biodiversity-of-fungi-fungal-phylogeny-kingdom-classification]]
+# [[biodiversity-of-fungi-fungal-phylogeny-kingdom-classification]]
 > implications of fungi and fungus-like organisms.
 >
-> **Source:** Blackwell & Spatafora, "Fungi and Their Allies," in *[[biodiversity-of-fungi-biodiversity-patterns-ecosystems]]*
-> (Mueller, Bills & Foster, eds.), Chapter 1.
-
----
-
-## Fungi Are More Closely Related to Animals Than Plants
-
-Molecular phylogenetic analyses have conclusively demonstrated that [[fungal-taxonomy-and-kingdom-fungi]] shares a
+> **Source:** Blackwell & Spatafora, "Fungi and Their Allies," in *[[fungal-taxonomy-and-kingdom-fungi]] shares a
 more recent common ancestor with Kingdom Animalia than with Kingdom Plantae. Both lineages
-descend from a **choanoflagellate-like ancestor** within the opisthokont clade. Shared derived characters include chitin in [[alpha-1-3-glucan-fungal-pathogen-cell-walls]], flagellar
-basal bodies with a single posterior flagellum, lysine synthesis via the α-aminoadipate
-(AAA) pathway, and ultrastructural similarities in mitochondrial cristae.
-
----
-
-## Historical Misclassification Under Botany
-
-Despite their separate evolutionary lineage, fungi were traditionally studied within
-botany. This convention arose because fungi are sessile, produce spores, and occupy niches
-similar to plants. Classical mycologists placed fungi alongside plants in taxonomic
-hierarchies, a tradition persisting well into the 20th century. It influenced collection
-curation, course organization, and biodiversity inventories. Recognition of fungi as a
-distinct kingdom is a modern insight driven by ultrastructural and molecular evidence.
-
----
-
-## Kingdom Fungi (True Fungi)
-
-The monophyly of true fungi is strongly supported by molecular data from **Bruns et al.
-(1991)** and **Baldauf et al. (2000)**. The four major phyla are:
-
-- **Chytridiomycota** — Flagellated zoospores; primarily [[fungi-aquatic-animals-pathogens-parasites]]; earliest-diverging lineage
+descend from a **choanoflagellate-like ancestor** within the opisthokont clade. Shared derived characters include chitin in [[fungi-aquatic-animals-pathogens-parasites]]; earliest-diverging lineage
 - **Zygomycota** — Zygospore formation; coenocytic hyphae; includes bread molds (*Rhizopus*)
-- **[[ascomycota]]** — Ascus-based [[basidiomycete-mating-systems-sexual-reproduction]]; largest phylum; yeasts, molds, morels
+- **[[basidiomycete-mating-systems-sexual-reproduction]]; largest phylum; yeasts, molds, morels
 - **Basidiomycota** — Basidium-based sexual reproduction; mushrooms, rusts, smuts
 
 These phyla are united by chitinous cell walls, absorptive nutrition, and absence of
@@ -50,35 +19,11 @@ The heterokont organisms — sometimes called "water molds" — represent a line
 separate from true fungi, characterized by two morphologically distinct flagella. Major
 groups formerly studied as fungi include:
 
-- **Oomycota** — [[biodiversity-fungi-plant-pathogens]] pathogens such as *[[bloomfield-potato-blight-phytophthora-infestans]]*; cellulose cell walls, not
+- **Oomycota** — [[bloomfield-potato-blight-phytophthora-infestans]]*; cellulose cell walls, not
   chitin
 - **Hyphochytriomycota** — Parasitic or saprotrophic aquatic organisms with an anterior
   tinsel flagellum
-- **Labyrinthulomycota** — Net [[biodiversity-of-fungi-slime-molds-protostelid-dictyostelid]]; ectoplasmic net for movement; primarily marine
-
-Straminipila are placed within the stramenopile lineage alongside diatoms and brown algae.
-
----
-
-## Slime Molds (Kingdom Protista)
-
-Slime molds are amoeboid organisms producing fruiting structures superficially resembling
-fungi. They are polyphyletic, distributed across several protistan lineages:
-
-- **Plasmodiophoromycota** — Obligate intracellular parasites of plants
-- **Dictyosteliomycota** — Cellular slime molds; amoebae aggregate into a pseudoplasmodium
-- **Acrasiomycota** — Cellular slime molds; aggregation under acrasin signaling
-- **Myxomycota** — True (plasmodial) slime molds; large coenocytic plasmodium
-
-Slime molds lack chitinous cell walls and are phagotrophic, fundamentally differentiating
-them from true fungi.
-
----
-
-## Convergent Evolution Among Fungus-Like Organisms
-
-The morphological similarities among true fungi, oomycetes, hyphochytrids, and slime molds
-are overwhelmingly the result of **convergent evolution**. Filamentous growth, [[spore]]
+- **Labyrinthulomycota** — Net [[spore]]
 production, and absorptive nutrition evolved independently in these lineages in response to
 similar ecological opportunities. This underscores the importance of molecular data in
 resolving evolutionary relationships and cautions against reliance on morphology alone.
@@ -118,8 +63,88 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[biodiversity-of-fungi-fungal-phylogeny-kingdom-classification]]
 - [[dom]]
-- [[spore]]
 - [[ascomycota]]
 - [[slime-molds]]
+
+## Overview
+
+Fungal Phylogeny Kingdom Classification Biodiversity represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish fungal phylogeny kingdom classification biodiversity
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving fungal extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Fungal Phylogeny Kingdom Classification Biodiversity finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for fungal phylogeny kingdom classification biodiversity. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+fungal phylogeny kingdom classification biodiversity and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Fungal Phylogeny Kingdom Classification Biodiversity has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of fungal phylogeny kingdom classification biodiversity into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[fungal-salt-tolerance-and-ion-homeostasis]]
+- [[fungal-woronin-bodies-and-septal-pore-organization]]

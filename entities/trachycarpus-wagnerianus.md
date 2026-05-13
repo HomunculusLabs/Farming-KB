@@ -21,9 +21,7 @@ sources:
 ## Overview
 
 Trachycarpus wagnerianus, the miniature Chusan palm or Waggy palm, is a cold-
-hardy solitary fan palm closely related to [[trachycarpus-fortunei]]. It is prized
-in temperate horticulture for its compact size, rigid leaf segments, and
-exceptional [[coleman-hardy-winter-vegetables-cold-tolerance-mechanisms]].
+hardy solitary fan palm closely related to [[coleman-hardy-winter-vegetables-cold-tolerance-mechanisms]].
 
 The species typically reaches 5 to 7 meters in height with a slender trunk
 covered in dense brown fibrous matting. It is significantly smaller than
@@ -73,8 +71,7 @@ forests. It tolerates deep shade in juvenile stages and occupies canopy gaps as
 it matures. Native distribution is poorly documented because the species has
 been cultivated in temple gardens for centuries.
 
-Outside Japan, the species is widely planted in [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]] including the
-British Isles, western Europe, the [[psilocybin-north-america-pacific-northwest]] [[berry-growing]], and New
+Outside Japan, the species is widely planted in [[psilocybin-north-america-pacific-northwest]] [[berry-growing]], and New
 Zealand.
 
 ## Cultivation

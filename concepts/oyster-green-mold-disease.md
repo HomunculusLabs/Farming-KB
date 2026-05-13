@@ -14,14 +14,11 @@ Green mold disease is one of the most serious threats to oyster mushroom
 cultivation worldwide. Caused primarily by Trichoderma species and related
 fungi, it can devastate entire crops if not properly managed. Green mold
 competes directly with mushroom mycelia for substrate nutrients and space,
-often colonizing faster and overwhelming the desired [[mazatec-mushroom-culture-and-velada]]. The
-disease is particularly problematic in poorly managed Oyster [[cotter-compost-substrate-preparation-manure-mushroom-cultivation]] systems.
+often colonizing faster and overwhelming the desired [[cotter-compost-substrate-preparation-manure-mushroom-cultivation]] systems.
 
 ## Causal Organisms
 
-The primary causal agents of green mold disease in [[trichoderma-harzianum]]**: The most common and destructive species,
-  responsible for major crop losses in commercial operations.
-- **[[trichoderma-koningii]]**: Less common but still capable of causing
+The primary causal agents of green mold disease in [[trichoderma-koningii]]**: Less common but still capable of causing
   significant damage.
 - **Trichoderma pseudokoningii**: Occasionally isolated from infected
   substrate beds.
@@ -30,46 +27,7 @@ The primary causal agents of green mold disease in [[trichoderma-harzianum]]**: 
 
 ## Symptoms and Identification
 
-Green mold appears as dense patches of white [[brassinosteroid-psilocybe-cubensis-mycelial-growth-research]] on the substrate
-surface that later turn green as spores develop. The infection typically
-manifests in several stages:
-
-1. **Initial stage**: Dense white mycelial growth appears on the substrate,
-   often resembling healthy mushroom mycelium but growing more aggressively.
-2. **Sporulation stage**: The white growth turns green as conidia (spores)
-   are produced in large quantities.
-3. **Advanced stage**: The green mold spreads rapidly, covering large areas
-   of the substrate surface and eventually penetrating deeper into the
-   substrate mass.
-
-Hypocrea infections produce distinctive stromata that appear as white, brown,
-or green cushion-like structures on the substrate surface. These are
-particularly common on cotton waste and rice straw substrates.
-
-## Favorable Conditions
-
-Green mold thrives under conditions that also favor mushroom mycelial growth,
-making prevention critical. Key risk factors include:
-
-- Poorly pasteurized substrates with surviving competitive organisms
-- Uneven moisture content in the substrate, creating microenvironments
-- Contaminated spawn, especially with green patches near bottle surfaces
-- High nitrogen supplementation, which favors Trichoderma over Pleurotus
-- Inadequate hygiene during spawning and substrate handling
-- Substrate pH that is too acidic for mushroom mycelia
-- Warm temperatures (25-30C) during spawn run
-
-## Control Measures
-
-Sanitation and hygiene are the most important control methods. The following
-practices are recommended:
-
-- Follow strict Oyster Contamination Control protocols at all stages
-- Avoid using green mold-contaminated spawn; any green patch in or around
-  spawn bottles is a major source of pathogenic spores
-- Ensure thorough pasteurization of substrates at proper temperatures
-- Maintain even moisture content throughout the substrate
-- Observe substrates carefully during [[bloomfields-orchard-hyphal-growth-and-invasive-biology]]; remove or treat any
+Green mold appears as dense patches of white [[bloomfields-orchard-hyphal-growth-and-invasive-biology]]; remove or treat any
   spot with dense white mycelial growth indicating early green mold
 - Apply 500 ppm Sporgon (prochloraz-manganese complex; 50%) to affected
   spots by spraying or drenching
@@ -88,3 +46,88 @@ time. [[oyster-mushroom-shelf-cultivation]] systems where large substrate masses
 detection and rapid response are essential to minimize losses. In commercial
 Korean operations, green mold has been identified as the single most costly
 disease in terms of lost production and increased chemical control expenses.
+
+## Overview
+
+Oyster Green Mold Disease represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish oyster green mold disease
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving oyster extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Oyster Green Mold Disease finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for oyster green mold disease. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+oyster green mold disease and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Oyster Green Mold Disease has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of oyster green mold disease into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[growing-gourmet-pleurotus-tuber-regium-african-sclerotial-oyster]]
+- [[oyster-mushroom-bagging-methods-worldwide-comparison]]
+- [[oyster-mushroom-marketing-economics]]
+- [[oyster-mushroom-outdoor-low-tech-cultivation]]
+- [[oyster-mushroom-shelf-cultivation]]

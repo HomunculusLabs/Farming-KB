@@ -3,12 +3,7 @@ title: Vermiculite Brown Rice Substrate
 created: 2026-05-11
 source: PF TEK by Psilocybe Fanaticus (1996)
 tags: [substrate, vermiculite, brown-rice, cultivation, mycology, PF-TEK, mushroom-growing]
-aliases: [BRF substrate, brown rice flour substrate, [[pf-substrate-formula]], BRF vermiculite tek]
----
-
-# Vermiculite Brown Rice Substrate
-
-The **vermiculite-brown rice substrate** is the foundational medium of the PF TEK [[boil-a-bag-mushroom-cultivation-method]]. Developed by Psilocybe Fanaticus, this substrate formulation combines **vermiculite** (as a structural, moisture-retaining matrix) with **powdered brown rice** (as a nutrient source) and water to create an ideal growth medium for *Psilocybe cubensis* mycelium. This combination replaced earlier grain-based substrates and remains the standard beginner substrate more than three decades after its introduction.
+aliases: [BRF substrate, brown rice flour substrate, [[boil-a-bag-mushroom-cultivation-method]]. Developed by Psilocybe Fanaticus, this substrate formulation combines **vermiculite** (as a structural, moisture-retaining matrix) with **powdered brown rice** (as a nutrient source) and water to create an ideal growth medium for *Psilocybe cubensis* mycelium. This combination replaced earlier grain-based substrates and remains the standard beginner substrate more than three decades after its introduction.
 
 ## PF Substrate Formula
 
@@ -71,28 +66,7 @@ This simple innovation is what allows the PF TEK to work without a laminar flow 
 
 ### Steam Sterilization Method
 
-Unlike grain-based substrates that typically require [[comparison-pressure-canning-vs-water-bath-canning]], the PF substrate can be effectively sterilized with **atmospheric steam**:
-
-1. Place loaded jars in a large cooking pot with a tight-fitting lid
-2. Add water to the pot (below the level of the jar lids)
-3. Layer jar lids with foil to prevent water from entering
-4. Bring to a boil and maintain steam for **60-90 minutes**
-5. Remove from heat and allow to cool naturally (overnight is recommended)
-
-The PF substrate's effectiveness with steam sterilization (rather than pressure canning) is a significant practical advantage. Pressure canners are expensive and intimidating for beginners; a simple cooking pot is available in virtually every kitchen.
-
-### Why Steam Works for PF Substrate
-
-Several factors make steam sterilization sufficient for the PF substrate:
-
-- **Lower nutrient density**: The brown rice content is relatively low compared to pure grain substrates, meaning fewer nutrients are available to feed heat-resistant bacterial endospores
-- **Vermiculite structure**: The porous vermiculite allows steam to penetrate throughout the substrate
-- **Small jar size**: Half-pint jars allow steam to reach the center of the substrate more effectively than larger containers
-- **Moisture content**: The correct moisture level facilitates heat transfer without creating steam pockets
-
-### Pressure Canner Option
-
-Fanaticus noted that a pressure canner could also be used for PF [[mushroom-substrate-sterilization-and-pasteurization]] at 15 PSI for approximately 30 minutes. While this provides a higher margin of safety against contamination, it is not strictly necessary and adds equipment cost and complexity.
+Unlike grain-based substrates that typically require [[mushroom-substrate-sterilization-and-pasteurization]] at 15 PSI for approximately 30 minutes. While this provides a higher margin of safety against contamination, it is not strictly necessary and adds equipment cost and complexity.
 
 ## Nutritional Profile
 
@@ -126,24 +100,7 @@ The vermiculite contributes no nutritional value but provides the physical struc
 ### Contamination
 - Symptom: Green (mold), black, or pink growth; sour or rotten smell
 - Cause: Inadequate sterilization, contaminated spore syringe, or poor inoculation technique
-- Solution: Improve sterilization time; use [[pf-tek-alcohol-flaming-sterilization-method]] technique; work in a clean area
-
-## Modifications and Alternatives
-
-Over the years, cultivators have developed numerous modifications to the basic PF substrate:
-
-- **Whole grain addition**: Some cultivators add whole brown rice grains or rye berries for additional nutrition
-- **Coffee supplementation**: Coffee or coffee grounds may be added to increase nitrogen content
-- **Gypsum addition**: Calcium sulfate can improve substrate structure and pH buffering
-- **Coir substitution**: Coconut coir fiber can partially replace vermiculite in areas where vermiculite is unavailable
-- **Different rice forms**: Some use brown rice flour from Asian markets; others grind their own
-
-The Italian modification of the PF TEK, mentioned by Fanaticus, used sand, perlite, whole grain brown rice, and rye grains as a vermiculite substitute. This was explicitly noted as "not recommended" but was intended for cultivators in regions where horticultural vermiculite was not readily available.
-
-## See Also
-
-- [[pf-tek-cultivation-method]]
-- [[spore-syringe-inoculation]]
+- Solution: Improve sterilization time; use [[pf-tek-cultivation-method]]
 - [[mushroom-drying-preservation]]
 - [[dual-chambered-terrarium]]
 - bulk substrate cultivation

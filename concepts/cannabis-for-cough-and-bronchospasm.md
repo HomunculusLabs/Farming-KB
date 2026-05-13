@@ -10,11 +10,7 @@ sources:
 
 updated: 2026-04-18
 
-Cannabis demonstrates antitussive (cough-suppressing) and bronchodilating properties through [[blesching-cannabis-health-index-cannabinoid-terpene-synergy]] assigns a combined CHI value of 11 from 4 studies reviewed.
-
-## Understanding Cough
-
-Cough is a sudden, involuntary reflex designed to clear the upper airways of mucus, phlegm, microbes, irritants, or foreign bodies. Differentiations include onset, duration, and type (dry, productive, chronic, or psychogenic/tic cough). The most common cause of sudden-onset cough is viral infection, for which antibiotics and antihistamines are useless. No cure exists within orthodox medicine; opiates have been the most effective antitussives for the past 200 years, with common [[blesching-cannabis-safety-adverse-effects-evidence]] and addiction risk.
+Cannabis demonstrates antitussive (cough-suppressing) and bronchodilating properties through [[blesching-cannabis-safety-adverse-effects-evidence]] and addiction risk.
 
 Treatment may be warranted when complications include severe pain, cough-induced insomnia, fainting, vomiting, incontinence, hernias, or rib cage tissue damage.
 
@@ -26,42 +22,7 @@ The anti-inflammatory, antispasmodic, and bronchodilating properties of cannabis
 Cannabinoid receptors exist in the airways and are functionally linked to inhibition of cough. The U.S. government (via UC Berkeley, 2006) holds a patent stating that locally-acting cannabinoid agents can be administered to airways to ameliorate cough without causing psychoactive effects. The patent also states that cannabinoid inactivation inhibitors can be used to ameliorate cough.
 
 ### THC as Antitussive
-THC (but not CBD or CBN) demonstrated cough-suppressing capacity similar to codeine-PO4 in anesthetized cats (1976, Wallace Laboratories). Intravenous THC is antitussive in [[hofmann-lsd-animal-experiments-toxicity]] but has not been tested in humans.
-
-### Bronchodilation
-- Smoking cannabis produces immediate bronchodilation (UC Berkeley + U.S. government, 2006)
-- A systematic review of 34 studies (2007) confirmed that short-term cannabis exposure produces bronchodilation
-- Long-term use effects remain inconclusive
-
-### Respiratory Safety
-A Vancouver study (2009) of 878 people over 40 found:
-- Smoking both tobacco and marijuana synergistically increased risk of respiratory symptoms and COPD
-- Smoking only marijuana was NOT associated with increased risk of respiratory symptoms or COPD
-
-## Evidence Summary
-
-| Agent | Study Type | Key Results | CHI |
-|-------|-----------|-------------|-----|
-| Tobacco/cannabis comparison | Survey of 878 people (Vancouver, 2009) | Only tobacco smokers had increased respiratory symptoms; marijuana-only smokers did not | 3 |
-| Smoked cannabis | Meta-analysis of 34 studies (2007, multi-institutional) | Short-term bronchodilation confirmed | 3 |
-| Cannabinoids (incl. anandamide, THC) | Meta-analysis (UC Berkeley, U.S. government, 2006) | Locally-acting cannabinoid agents ameliorate cough; government patent filed | 3 |
-| THC intravenously | Animal study (cats, 1976) | THC antitussive, similar to codeine | 2 |
-
-Combined CHI Value: 11
-
-## Administration Considerations
-
-- **Vaporization**: Heats cannabis to 350F without burning plant material or producing smoke; released THC may mitigate smoke irritation
-- **Oromucosal sprays**: Can deliver cannabinoids locally to airways without psychoactive effects; available at some dispensaries
-- **Cannabis-infused oils (oral)**: Efficacy not yet studied for cough
-- **Smoking**: Smoke of any kind may cause cough, spasm, and reduced lung function over long periods
-
-The government patent states the invention achieves desired antitussive effects "without the dysphoric side effects and habit-forming properties characteristic of centrally acting cannabimimetic or opiate drugs." Researchers believe the mechanism works via CB1 receptors.
-
-## Strain-Specific Considerations
-
-Anandamide and THC bind with CB1 and CB2 receptors relatively equally. [[cannabis-endocannabinoid-system]]
-- [[cannabis-respiratory-conditions]]
+THC (but not CBD or CBN) demonstrated cough-suppressing capacity similar to codeine-PO4 in anesthetized cats (1976, Wallace Laboratories). Intravenous THC is antitussive in [[cannabis-endocannabinoid-system]]
 - [[cannabis-anti-inflammatory-applications]]
 
 The interplay between these factors and the broader context of the topic
@@ -71,11 +32,7 @@ underlying mechanisms and their practical applications.
 
 ## Source
 
-Blesching, U. (2015). *The [[blesching-cannabis-health-index-autoimmune-conditions]]*. Chapter IV: "Cough." North Atlantic Books.
-
-## Related
-
-- [[cannabis-for-lung-cancer]]
+Blesching, U. (2015). *The [[cannabis-for-lung-cancer]]
 ## Practical Considerations
 
 Successful implementation of Cannabis for Cough and Bronchospasm requires attention to
@@ -117,8 +74,76 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[doc]]
 - [[det]]
-- [[anandamide]]
 - [[lsd]]
 - [[codeine]]
+
+## Overview
+
+Cannabis For Cough And Bronchospasm represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish cannabis for cough and bronchospasm
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving cannabis extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Cannabis For Cough And Bronchospasm finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for cannabis for cough and bronchospasm. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+cannabis for cough and bronchospasm and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Cannabis For Cough And Bronchospasm has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of cannabis for cough and bronchospasm into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.

@@ -14,42 +14,7 @@ sources:
 type: concept
 ---
 
-# Tarragon Oyster Mushroom ([[cancer-medicinal-mushrooms-pleurotus-ostreatus]].
-According to Watling and Gregory (1989), this mushroom is generally
-considered a form or variety of P. ostreatus but differs in the strong
-smell of tarragon. It has been reported from England and Scotland. P.
-euosmus behaves in culture similarly to P. ostreatus.
-
-Cap 5-15 cm broad, convex at first, soon broadly convex, expanding to
-plane, and typically deeply depressed in the center. Mushrooms are
-beige-tan at first, becoming dingy brown with time, sometimes with a
-hint of blue, becoming light beige tawny in age. Margin even at first,
-often irregular in age. Gills dingy, decurrent, broad, running deeply
-down the stem. Stem short or sometimes absent. The morphology, with its
-depressed cap at maturity and long running gills, bears strong
-resemblance to P. ostreatus.
-
-## Taxonomy
-
-Pleurotus euosmus can be distinguished from P. ostreatus by its odor
-(tarragon) and by spore size. The spore size of P. euosmus at 12-14
-micrometers is substantially larger than the 7.5-11 micrometer spores of
-European P. ostreatus collections. However, these taxa may be found
-conspecific through interfertility or DNA studies. Hilber (1989)
-suggests synonymy between these two taxa without elaboration.
-
-Pleurotus eous (Berkeley) Saccardo is discretely separate from P.
-euosmus and is more closely allied to the pink P. djamor varieties than
-to the gray-brown P. ostreatus and allies. This is an important
-distinction that has caused confusion in the literature.
-
-## Distribution and Natural Habitat
-
-Limited to the British Isles, known from England and Scotland, but not
-yet reported from Ireland. Preferring Elms (Ulmus species) stumps and
-logs. Given its close affinity to P. ostreatus and that it is native to
-Elm stumps, this mushroom is likely to produce prodigiously using the
-Natural [[agar-culture-techniques-detailed]].
+# Tarragon Oyster Mushroom ([[agar-culture-techniques-detailed]].
 
 ## Microscopic Features
 
@@ -70,11 +35,7 @@ is the primary feature separating this species from P. ostreatus.
 ## Cultivation Methods
 
 ### Spawn Expansion
-Transfer cultures from nutrified [[growing-gourmet-abalone-oyster-cystidiosus-cultivation]]
-
-## See Also
-
-- [[growing-gourmet-polypore-mushrooms-cultivation-overview]]
+Transfer cultures from nutrified [[growing-gourmet-polypore-mushrooms-cultivation-overview]]
 ## Practical Considerations
 
 Successful implementation of Tarragon Oyster Mushroom (Pleurotus euosmus) Cultivation requires attention to
@@ -123,8 +84,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[pleurotus-euosmus]]
 - [[oyster-mushroom]]
-- [[det]]
 - [[spore]]
 - [[mycelium]]

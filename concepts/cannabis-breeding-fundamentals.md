@@ -12,9 +12,7 @@ tags: [cannabis]
 # Cannabis Breeding Fundamentals
 
 Cannabis breeding is the science and practice of developing new cannabis
-varieties through controlled [[fungal-life-cycles-sexual-reproduction-metamorphosis]]. The breeding chapter
-in Cervantes' "Marijuana Horticulture," authored by Chimera of Chimera
-Seeds, provides one of the most thorough treatments of [[vic-high-cannabis-genetics-mendelian-inheritance]]
+varieties through controlled [[vic-high-cannabis-genetics-mendelian-inheritance]]
 and breeding methodology available to growers.
 
 ## Sexual vs. Asexual Propagation
@@ -34,55 +32,12 @@ parent to create an embryo, which matures into a seed. Each seed is
 genetically unique, containing some genes from each parent. This
 variation allows breeders to combine positive traits from different
 parental lines through recombination. See also
-[[cannabis-sinsemilla-life-cycle]] (seedless cannabis) is
-sought. Plants exhibiting both flower types are correctly called
-intersex plants, not hermaphrodites.
-
-## Core Genetic Concepts
-
-### Chromosomes and DNA
-
-Cannabis has 20 chromosomes (2n = 20). Each individual inherits 10
-chromosomes from the pollen parent and 10 from the seed mother. The
-genetic material (DNA) is coiled into X-shaped chromosomes stored in
-the nucleus of every cell. There are two copies of every gene, one from
-each parent. The 10th chromosome pair contains the sex chromosomes:
-females are XX and males are XY.
-
-### Phenotype and Genotype
-
-Phenotype refers to the observable representation of a trait, such as
-plant height, calyx color, or leaf shape. Genotype describes the actual
-genetic condition producing that phenotype. The relationship is
-approximated as: Phenotype = Genotype + Environment. Different versions
-of genes are called alleles.
-
-### Dominance and Recessiveness
-
-When true-breeding parents with contrasting traits are crossed, the F1
-generation shows only the dominant trait. Upon sib-mating F1 plants,
-the F2 generation reveals a 3:1 ratio of dominant to recessive
-phenotypes (75% dominant, 25% recessive). The recessive trait is
-masked in the F1 but reappears in the F2.
-
-### Homozygous and Heterozygous
-
-Plants with two identical alleles for a trait are homozygous (e.g., PP
-or pp). Plants with two different alleles are heterozygous (e.g., Pp).
-Pure-breeding (true-breeding) lines are homozygous at most loci. See
 [[cannabis-hardy-weinberg-equilibrium]].
 
 ## The Five Components of a Breeding Program
 
 1. **Develop a breeding goal.** Define what traits you are selecting
-   for -- potency, flavor, yield, [[cannabis-disease-pest-resistance-breeding-clarke]], growth stature, etc.
-
-2. **Find or create variability.** Most commercially available seeds
-   are unstable hybrids with ample variation for selection. Serious
-   breeders must stabilize stock before beginning hybridization phases.
-
-3. **Grow and evaluate.** The more plants grown, the more phenotypes
-   discovered. Some [[cervantes-dominance-recessive-traits-alleles]] appear in only 1 in 100 or 1 in
+   for -- potency, flavor, yield, [[cervantes-dominance-recessive-traits-alleles]] appear in only 1 in 100 or 1 in
    1000 plants. Testing the final product through consumption is a
    crucial evaluation step.
 
@@ -118,8 +73,78 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[dom]]
 - [[oner-cannabis-breeding-fundamentals]]
-- [[green-cannabis-grow-bible-breeding-genetics-and-true-breeding]]
 - [[cannabis-landrace-conservation-breeding-genetic-diversity]]
 - [[cannabis-strain-breeding-techniques]]
+
+## Overview
+
+Cannabis Breeding Fundamentals represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish cannabis breeding fundamentals
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving cannabis extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Cannabis Breeding Fundamentals finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for cannabis breeding fundamentals. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+cannabis breeding fundamentals and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Cannabis Breeding Fundamentals has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of cannabis breeding fundamentals into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions

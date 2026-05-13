@@ -49,8 +49,7 @@ that aims to be truly self-sustaining.
 At its core, the biointensive method is built around a closed-loop
 principle: everything the plants need is produced within the garden
 itself. Unlike many organic methods that rely on imported fertility
-inputs such as [[comparison-wood-chip-mulch-vs-leaf-mold-vs-composted-manure-soil-building]] from off-site sources or purchased
-[[hamilton-organic-fertilizers-and-plant-nutrition]], GB grows all of its own compost materials, saves
+inputs such as [[hamilton-organic-fertilizers-and-plant-nutrition]], GB grows all of its own compost materials, saves
 its own seeds, and produces complete dietary calories within a single
 integrated system. This distinguishes it sharply from conventional
 agriculture, which depletes soil at rates far exceeding natural
@@ -60,8 +59,7 @@ external inputs to maintain productivity.
 The system is designed around eight interlocking principles that work
 synergistically: deep soil preparation through double-digging, close
 plant spacing in hexagonal patterns, comprehensive composting, carbon
-farming for [[dighton-fungal-biomass-production-aquatic-ecosystems]], calorie farming for dietary staples,
-[[comparison-companion-planting-reference-vs-jadam-monoculture-critique]], open-pollinated seed saving, and whole system
+farming for [[comparison-companion-planting-reference-vs-jadam-monoculture-critique]], open-pollinated seed saving, and whole system
 integration. Proponents claim that when fully implemented, GB can reduce
 water consumption by 60 to 80 percent, reduce purchased fertilizer
 inputs by 50 percent, and achieve 99 percent less energy use compared
@@ -84,8 +82,6 @@ conservation.
 
 The biointensive method traces its lineage through several important
 traditions in intensive horticulture. Its most direct predecessor is
-the [[coleman-british-adoption-of-french-intensive-gardening]] gardening method, also known as the French
-marais system, developed in the market gardens surrounding Paris in
 the [[mckenna-club-des-hachischins-and-nineteenth-century-literary-hashish]]. French intensive gardeners achieved
 extraordinary yields through deep soil preparation, heavy composting,
 close spacing, and the use of cold frames and bell jars to extend the
@@ -123,13 +119,9 @@ a well-aerated root zone that dramatically increases the volume of
 soil available to plant roots. The second is close plant spacing in
 ## See Also
 
-- [[biointensive-gardening-overview]]
 - [[biointensive-bed-preparation]]
-- [[biointensive-close-plant-spacing]]
 - [[biointensive-composting]]
-- [[biointensive-calorie-crops]]
 - [[biointensive-carbon-farming]]
-- [[biointensive-diet-design]]
 - [[biointensive-seed-saving]]
 
 ## References

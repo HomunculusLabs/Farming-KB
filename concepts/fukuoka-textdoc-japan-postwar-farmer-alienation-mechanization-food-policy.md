@@ -1,7 +1,7 @@
 ---
 title: Japan's Postwar Farmer Alienation Through Mechanization and Food Policy
 source: administrator-microsoft-word-fukuoka-textdoc.md
-author: [[masanobu-fukuoka]]
+author: masanobu-fukuoka
 tags: [natural-farming, japan, postwar, mechanization, agriculture-policy, alienation, food-control, economic-miracle, basic-agriculture-law]
 date: 2026-05-11
 updated: 2026-05-11
@@ -10,7 +10,7 @@ type: concept
 
 # Japan's Postwar Farmer Alienation Through Mechanization and Food Policy
 
-Masanobu Fukuoka provides a scathing farmer's-eye analysis of Japan's
+[[masanobu-fukuoka]] provides a scathing farmer's-eye analysis of Japan's
 postwar agricultural transformation, arguing that the celebrated economic
 miracle was built on appropriated farm labor, that mechanization
 tightened rather than loosened the trap around farmers, and that food
@@ -114,7 +114,7 @@ incredible. The real problem in Japan was not production costs but
 distribution costs: distribution costs in Japan are five times those in
 the United States and twice as high as in West Germany.
 
-In natural farming, the cost of producing rice is nearly the same as
+In [[natural-farming]], the cost of producing rice is nearly the same as
 wheat, and both can be produced more cheaply than buying imported grain.
 The mechanism by which the market price of rice is set has nothing
 whatsoever to do with farmers. Japanese farmers are treated with
@@ -140,11 +140,7 @@ this.
 
 ## Connections
 
-- [[fukuoka-textdoc-postwar-farm-labor-appropriated-urban-prosperity]] —
-  focused treatment of labor appropriation from the countryside
 - [[fukuoka-textdoc-basic-agriculture-law-japan-food-self-sufficiency-crisis]]
   — detailed analysis of the 1961 law and food self-sufficiency
-- [[fukuoka-textdoc-tasty-rice-delusion-food-flavor-crisis]] — the
-  "tasty rice" problem examined in depth
 - [[fukuoka-textdoc-sunken-hearth-extinction-village-culture]] — the
   cultural dimension of the same transformation

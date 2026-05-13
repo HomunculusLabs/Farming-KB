@@ -9,9 +9,7 @@ sources: []
 
 # Micro-PIXE Analysis of Elements in Mycorrhizal Roots
 
-Micro-Particle Induced X-ray Emission (micro-PIXE) is a nuclear analytical technique used to localize and quantify elements at the cellular level in mycorrhizal root tissues. This technique provides spatially resolved elemental maps that reveal how [[arbuscular-mycorrhizal-colonization-patterns]] affects the distribution of both nutrients and toxic metals within root tissues.
-
-The ability to map element distributions at the tissue and cellular level is crucial for understanding how [[arbuscular-mycorrhizal-fungi-biology-symbiosis]] mediate plant interactions with soil minerals and contaminants. Traditional bulk analysis methods, such as atomic absorption spectroscopy or ICP-MS, provide total elemental concentrations but cannot reveal spatial heterogeneity within root tissues. Micro-PIXE fills this gap by combining quantitative elemental analysis with micron-scale spatial resolution.
+Micro-Particle Induced X-ray Emission (micro-PIXE) is a nuclear analytical technique used to localize and quantify elements at the cellular level in mycorrhizal root tissues. This technique provides spatially resolved elemental maps that reveal how [[arbuscular-mycorrhizal-fungi-biology-symbiosis]] mediate plant interactions with soil minerals and contaminants. Traditional bulk analysis methods, such as atomic absorption spectroscopy or ICP-MS, provide total elemental concentrations but cannot reveal spatial heterogeneity within root tissues. Micro-PIXE fills this gap by combining quantitative elemental analysis with micron-scale spatial resolution.
 
 ## Technical Principles
 
@@ -47,7 +45,7 @@ Zinc violets (Viola lutea ssp. westfalica) were collected from a non-polluted ga
 
 - Polluted site: 42% root colonization frequency
 
-The higher colonization frequency at the polluted site suggests that [[bloomfield-mycorrhizal-symbiosis-and-fungal-ecology]] may contribute to [[fungal-metal-tolerance-mechanisms]] in this species, consistent with observations in other metallophyte plants.
+The higher colonization frequency at the polluted site suggests that [[fungal-metal-tolerance-mechanisms]] in this species, consistent with observations in other metallophyte plants.
 
 ### Element Distribution Patterns
 

@@ -43,7 +43,7 @@ The first encounters between hominids and psilocybin-containing mushrooms
 may have occurred on the African grasslands. The strategy of early hominid
 omnivores was to eat everything that seemed foodlike and to test
 everything for its food potential. The eminent ethnobotanist Richard
-[[richard-evans-schultes-updated]] has documented the presence of [[ceremonial-shamanic-use-psychoactive-mushrooms]] in
+[[ceremonial-shamanic-use-psychoactive-mushrooms]] in
 virtually every area of the world where cattle graze.
 
 Hominids and hallucinogenic plants were in close association for a long
@@ -88,3 +88,11 @@ from awareness. Language under such conditions is seen, beheld, just as
 we would ordinarily see our homes and surroundings. The collectively
 designed cultural environment in which we all live is recognized as the
 objectification of our collective linguistic intent.
+
+## See Also
+
+- [[mckenna-mushroom-teonanacatl-franciscan-theophagy-and-oaxaca-survival]]
+- [[mckenna-i-thou-ethics-entity-encounter]]
+- [[mckenna-ergot-and-witches-sabbath-theory]]
+- [[mckenna-eleusinian-mysteries]]
+- [[mckenna-vegetable-mind-and-gaian-holism]]

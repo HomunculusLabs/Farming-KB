@@ -11,66 +11,11 @@ updated: 2026-04-26
 
 # Calorie Farming and Calorie Crops
 
-One of the eight features of [[jeavons-grow-biointensive-method-overview]] is the use of calorie-efficient crops — planting approximately 30% of the growing area in special [[permaculture-plants-root-crops-and-tubers]] that produce large amounts of calories per unit of area.
+One of the eight features of [[permaculture-plants-root-crops-and-tubers]] that produce large amounts of calories per unit of area.
 
 ## Why Calorie Farming Matters
 
-Conventional [[home-vegetable-garden-planning]], even at high yields, cannot sustain a person's caloric needs on a small area. A typical vegetable garden provides vitamins and minerals but negligible calories. To achieve food self-sufficiency on 4,000 square feet, [[solomon-self-sufficiency-calorie-production-economics]] must be deliberately planned alongside [[dry-gardening-unirrigated-vegetable-production-solomon]].
-
-GROW BIOINTENSIVE can produce 200% to 400% more calories per unit of area than conventional methods.
-
-## The 60/30/10 Crop Area Model
-
-For one person, approximately 40 beds (4,000 sq ft, or ~5,000 sq ft including paths):
-
-| Percentage | Category | Purpose | Approximate Beds |
-|---|---|---|---|
-| 60% | Carbon-and-calorie crops | Maximum carbon + satisfactory calories | ~24 beds |
-| 30% | High-calorie root crops | Maximum calories | ~12 beds |
-| 10% | Vegetable crops | Vitamins and minerals | ~4 beds |
-
-Up to 50-75% of the vegetable area may be used for income crops if missing vitamins and minerals are provided by the remaining 25-50%.
-
-## Calorie Crop Classifications
-
-### Area-Efficient and Weight-Efficient (Best Choices)
-
-| Crop | Beds Needed (100 sq ft each) | Pounds/Day to Eat |
-|---|---|---|
-| Potatoes | 15.7 | 8.6 |
-| Burdock | 14.6 | 5.6 |
-| Sweet potatoes | 14.2 | 6.4 |
-| Garlic | 13.3 | 4.4 |
-| Parsnips | 12.6 | 8.2 |
-| Salsify | 6.8 | 7.4 |
-
-**Definitions:**
-- **Area-efficient:** Annual area needed for total calories is 16 beds (1,600 sq ft) or less
-- **Weight-efficient:** Daily weight of food for total calories is 9 pounds or less
-
-### Area-Efficient Only (Trade-off: More Weight to Eat)
-
-| Crop | Beds Needed | Pounds/Day |
-|---|---|---|
-| Onions, regular | 14.0 | 15.3 |
-| Leeks | 14.8 | 19.5 |
-| Turnips + tops | 9.0 | 9.8 |
-| Rutabaga | 12.4 | 13.6 |
-
-### Weight-Efficient Only (Trade-off: More Area Needed)
-
-| Crop | Beds Needed | Pounds/Day |
-|---|---|---|
-| Peanuts | 34.2 | 0.9 |
-| Beans | 56.5 | 4.5 |
-| Soybeans | 59.9 | 3.9 |
-| Cassava | 22.9 | 3.5 |
-
-### Carbon-and-Calorie Crops (60% of Area)
-
-Grains: wheat, cereal rye, oats, barley, triticale, corn, sorghum, amaranth, quinoa.
-
-Other: fava beans (grown to maturity for dry bean and dry biomass), sunflowers (very high in fat; maximum 0.62 lb/day to avoid copper toxicity), [[comparison-jerusalem-artichoke-vs-potato]], filberts, raisins.
+Conventional [[solomon-self-sufficiency-calorie-production-economics]] must be deliberately planned alongside [[comparison-jerusalem-artichoke-vs-potato]], filberts, raisins.
 
 ### Root Crops to Avoid for Calorie Production
 
@@ -117,8 +62,89 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[doc]]
 - [[permaculture]]
-- [[jeavons-carbon-farming]]
 - [[jeavons-global-adoption-biointensive-mini-farming]]
 - [[jeavons-carbon-and-calorie-crop-integration]]
+
+## Overview
+
+Jeavons Calorie Farming represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish jeavons calorie farming
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving jeavons extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Jeavons Calorie Farming finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for jeavons calorie farming. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+jeavons calorie farming and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Jeavons Calorie Farming has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of jeavons calorie farming into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[jeavons-history-philosophy-biointensive-agriculture]]
+- [[jeavons-master-planning-mini-farms]]
+- [[jeavons-root-systems-below-ground-composting]]

@@ -16,7 +16,7 @@ updated: 2026-04-26
 
 ## Overview
 
-Textile dyeing and manufacturing generate large volumes of colored wastewater containing [[singh-fungal-degradation-of-synthetic-dyes-and-textile-waste]], many of which are recalcitrant to conventional [[mollison-designers-wastewater-treatment-wetlands]]. Dyes of concern include azo dyes, triphenylmethanes, anthraquinones, metal phthalocyanins, and indigoids. White rot fungi have emerged as promising bioremediation agents due to their non-specific ligninolytic enzyme systems capable of degrading a wide range of chromophoric structures.
+Textile dyeing and manufacturing generate large volumes of colored wastewater containing [[mollison-designers-wastewater-treatment-wetlands]]. Dyes of concern include azo dyes, triphenylmethanes, anthraquinones, metal phthalocyanins, and indigoids. White rot fungi have emerged as promising bioremediation agents due to their non-specific ligninolytic enzyme systems capable of degrading a wide range of chromophoric structures.
 
 ## Types of Textile Effluents and Chromophores
 
@@ -36,22 +36,12 @@ Table 10.2 from the source lists the following genera and species of white rot f
 - Bjerkandera spp. and B. adusta
 - Chrysonilia sitophila
 - Dichomitus squalens
-- [[ganoderma-lucidum]]
-- Hericium erinaceum
-- Lentinus (Lentinula) edodes
-- Merulius tremellosus
 - [[staycare-phanerochaete-chrysosporium-in-bioremediation]], P. flavido-alba
 - Phlebia radiata
 - Pleurotus ostreatus, P. eryngii, P. sajor-caju
 - Pycnoporus cinnabarinus
-- [[staycare-laccase-enzymes-in-bioremediation]]
 - [[staycare-trametes-versicolor-bioremediation-applications]]
-- [[staycare-scale-up-challenges-in-fungal-bioremediation]]
-
-## References
-
-- Ben Hamman, O., de la Rubia, T. & Martínez, J. (1997). Ligninase production by Phanerochaete flavido-alba.
-- Heinfling, A. et al. (1998). Mineralization of 14C-labeled synthetic lignin (DHP) by [[fungal-manganese-peroxidase-remediation]] from the white-rot fungus Bjerkandera adusta.
+- [[fungal-manganese-peroxidase-remediation]] from the white-rot fungus Bjerkandera adusta.
 - Jäger, A., Croan, S. & Kirk, T.K. (1985). Production of ligninases by Phanerochaete chrysosporium in agitated cultures.
 - Knapp, J.S., Vantoch-Wood, E.J. & Zhang, F. Chapter 10: Wood-rotting fungi for decolorization. In Staycare.
 - Pointing, G.B., Bucher, V.V.C. & Vrijmoed, L.L.P. (2000). Laccase and manganese peroxidase production by tropical white-rot fungi.

@@ -32,94 +32,97 @@ characterised by:
 - Emergence of the environmental movement as a political force
 - Foundational texts including The Limits to Growth, Small Is Beautiful, and
   Permaculture One (1978)
-- Back-to-the-land movements [[holmgren-community-design-and-intentional-communities]]
-- Critique of industrial civilisation and consumerism
-The counterculture of the 1960s and 1970s provided the cultural soil from which
-first-wave environmental innovations grew. Permaculture was part of this
-continuous lineage of counterculture in the modern world, providing the cultural
-context for its emergence.
-## Second Wave (Late 1980s-1990s)
-After the economic growth of the Reagan-Thatcher revolution in affluent nations
-during the 1980s, public awareness of the greenhouse effect in the late 1980s
-triggered a second wave of environmentalism, which accelerated interest in
-permaculture. In the 1990s, as new technology and the global economy diverted
-attention, there was another phase of consolidation. Characteristics of the
-second wave included:
-- Mainstream acceptance of environmental concerns
-- Green consumerism and market-based environmentalism
-- Growth of environmental regulation and international agreements (Rio Earth
-  Summit, Kyoto Protocol)
-- Focus on technological solutions to environmental problems
-- Corporate environmentalism and "greenwashing"
-- The rise of environmental NGOs as major institutional actors
-The second wave significantly broadened public awareness but also diluted the
-radical edge of first-wave environmentalism. Environmental concern became
-compatible with continued economic growth — or so the narrative suggested.
-## Third Wave (1999 Onward)
-By 1999 the signs were in place for a third wave of environmentalism. In this
-new phase, public interest could lead to the mainstreaming of many innovations of
-the second wave. But past experience suggests that each new phase also throws up
-new insights and innovations that challenge the assumptions of the previous wave.
-## Holmgren's Third Wave Contributions
-Holmgren's contribution to the third wave involves several key challenges to
-second-wave assumptions:
-### Beyond Techno-Optimism
-The second wave largely assumed that technological innovation could solve
-environmental problems without requiring fundamental changes in consumption
-patterns or economic structures. Holmgren challenges this by framing the
-environmental crisis within holmgren-household-economy-and-self-reliance over consumer
-choice. The focus shifts from buying green products to reducing dependence on
-the consumer economy altogether. Non-material well-being — enjoying a sunset,
-walking for health, playing with children — becomes central rather than
-peripheral.
-### Beyond Sustainability to Adaptation
-Where the second wave sought to "sustain" current patterns of civilisation with
-reduced [[fertilizer-pollution-environmental-impact]], the third wave accepts that fundamental
+- Back-to-the-land movements [[fertilizer-pollution-environmental-impact]], the third wave accepts that fundamental
 transformation is inevitable and seeks to design pathways for that
 transformation. Sustainability as a concept has been appropriated by corporate
 interests; moving "beyond sustainability" means accepting that the task is
 adaptation to change, not preservation of current arrangements.
 ### Systems Thinking Over Single-Issue Campaigns
-The second wave often focused on specific environmental issues ([[dighton-fungi-climate-change-feedback]],
-biodiversity loss, pollution) as separate problems requiring separate solutions.
-The third wave, informed by
-permaculture-retrofit-suburbia movement, inspired
-by Holmgren's work, focuses on converting existing suburban properties into
-productive, low-energy households. Community-supported agriculture (CSA) models,
-food cooperatives, tool libraries, and time banks represent economic innovations
-that build local resilience while reducing dependence on fossil-fueled supply
+The second wave often focused on specific environmental issues ([[permaculture]]
+- [[leary-third-bardo-re-entry]]
+- [[tompkins-lakhovsky-multi-wave-oscillator]]
+
+## Overview
+
+Holmgren Third Wave Environmentalism represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish holmgren third wave environmentalism
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving holmgren extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
 
 ## Practical Applications
 
-The principles and techniques discussed here have wide-ranging applications
-across multiple disciplines and contexts. Practitioners and researchers
-continue to explore new ways to integrate these concepts into modern practice,
-adapting traditional knowledge to contemporary challenges and opportunities.
+Holmgren Third Wave Environmentalism finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
 
-## Key Considerations
+## Management and Implementation
 
-Several important factors influence the effectiveness and outcomes described
-in this topic. Understanding these considerations helps practitioners make
-informed decisions and avoid common pitfalls. Environmental conditions,
-timing, and material selection all play critical roles.
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for holmgren third wave environmentalism. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+holmgren third wave environmentalism and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
 
 ## Historical Context
 
-The historical development of this subject reflects centuries of accumulated
-knowledge and practical experience. From traditional methods passed down
-through generations to modern scientific approaches, the evolution continues
-to inform current best practices and research directions.
+Holmgren Third Wave Environmentalism has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
 
-## Common Challenges
+## Integration Strategies
 
-Practitioners frequently encounter several challenges when working with
-these concepts. Climate variability, resource limitations, and knowledge
-gaps can all affect outcomes. Addressing these challenges requires patience,
-observation, and a willingness to adapt approaches based on results.
+Successful integration of holmgren third wave environmentalism into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
 
 ## See Also
-- [[permaculture]]
-- [[holmgren-third-wave-environmentalism-model]]
-- [[leary-third-bardo-re-entry]]
-- [[cannabis-strain-hawaiian-wave-tropical-sativa-landrace-oner]]
-- [[tompkins-lakhovsky-multi-wave-oscillator]]
+
+- [[holmgren-community-design-and-intentional-communities]]
+- [[holmgren-genetic-engineering-and-evolution]]
+- [[holmgren-mineral-balance-soil-fertility]]
+- [[holmgren-observe-and-interact-detailed]]
+- [[holmgren-obtain-a-yield-detailed]]

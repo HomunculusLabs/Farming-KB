@@ -59,8 +59,7 @@ Poultry, pigs, horses, cattle, sheep, goats, and many other animals can all be u
 ## Integration with Crop Growing
 
 - Paddocks used simultaneously for crops and livestock
-- [[comparison-pruning-fruit-trees-vs-grafting-fruit-trees]], cereal crops, and livestock on the same terraces
-- Livestock shelters serve multiple purposes: [[permaculture-designers-manual-animal-housing-detailed]], crop storage, tool storage
+- [[permaculture-designers-manual-animal-housing-detailed]], crop storage, tool storage
 - Design buildings for multiple uses from the start to prevent large-scale alterations later
 
 ## Animal Welfare Principles
@@ -78,8 +77,7 @@ Wild deer: mouflon, chamois, ibexes, red deer, roe deer, fallow deer
 Poultry: chickens, ducks, geese, quail, pheasants, capercaillie, hazel grouse
 Domestic: pigs, cattle, horses, sheep, goats, rabbits
 
-See also: [[permaculture-grazing-and-pasture]], [[goat-husbandry-detailed-guide]]
-- [[holzer-livestock-philosophy-pig-breeds]]
+See also: [[goat-husbandry-detailed-guide]]
 - [[holzer-wild-cattle-and-old-breeds]]
 
 ## Species-Specific Integration Strategies
@@ -118,8 +116,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[doc]]
 - [[dom]]
-- [[goose-keeping]]
 - [[det]]
 - [[permaculture]]

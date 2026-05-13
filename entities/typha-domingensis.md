@@ -22,9 +22,7 @@ sources:
 
 ## Overview
 
-**Typha domingensis**, commonly known as **southern cattail** or **cumbungi**, is a perennial aquatic plant in the family Typhaceae, widely distributed across tropical, subtropical, and warm [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]] worldwide.
-
-It is one of the most ecologically important emergent macrophytes in freshwater and brackish wetlands, providing habitat, water filtration, [[mollison-permaculture-two-arid-water-harvesting-and-erosion-control]].
+**Typha domingensis**, commonly known as **southern cattail** or **cumbungi**, is a perennial aquatic plant in the family Typhaceae, widely distributed across tropical, subtropical, and warm [[mollison-permaculture-two-arid-water-harvesting-and-erosion-control]].
 
 The species is closely related to and frequently hybridizes with *Typha latifolia* (broadleaf cattail), producing the introgressive hybrid *T. × glauca*.
 
@@ -58,13 +56,7 @@ The familiar "cattail" appearance results from the female spike, which disintegr
 
 *Typha domingensis* has a pantropical and subtropical distribution, occurring across the Americas, Africa, Asia, and Australia.
 
-In North America, its range extends from the southern United States through Mexico, [[guzman-allen-gartz-neurotropic-fungi-central-america-caribbean]], and into South America as far as Argentina.
-
-The species occupies a broad ecological niche within freshwater and oligohaline (low-salinity) wetlands, including marshes, swamps, pond margins, and slow-moving streams.
-
-It tolerates water depths from 0 to 100 cm and shows considerable salinity tolerance (up to 20 ppt), allowing colonization of estuarine environments.
-
-*Typha domingensis* frequently colonizes disturbed wetland sites, drainage ditches, and constructed [[mollison-designers-wastewater-treatment-wetlands]].
+In North America, its range extends from the southern United States through Mexico, [[mollison-designers-wastewater-treatment-wetlands]].
 
 The species is highly competitive in nutrient-enriched waters, often forming dense monospecific stands that exclude other wetland vegetation.
 
@@ -76,9 +68,7 @@ The rhizome matrix stabilizes sediments and reduces shoreline erosion by absorbi
 
 **Water filtration:** The species is exceptionally effective at removing nutrients (nitrogen, phosphorus), heavy metals, and organic pollutants from water.
 
-Root-zone [[cannabis-rhizosphere-microbial-communities]] associated with the rhizosphere are responsible for much of the nitrogen removal via nitrification-denitrification cycling.
-
-**[[lichens-primary-production-soil-formation-dighton]]:** *T. domingensis* is one of the most productive wetland plants, with above-ground biomass yields of 2–6 tonnes per hectare per year.
+Root-zone [[lichens-primary-production-soil-formation-dighton]]:** *T. domingensis* is one of the most productive wetland plants, with above-ground biomass yields of 2–6 tonnes per hectare per year.
 
 **Invasive dynamics:** Monospecific *Typha* stands reduce plant diversity by 50–80% compared to mixed-species wetlands, altering invertebrate and avian [[edaphic-determinants-cannabis-microbiome-community-structure]].
 
@@ -87,3 +77,73 @@ The species expands rapidly via clonal rhizome growth, with lateral spread rates
 ## Ethnobotanical and Practical Uses
 
 **Food:** Multiple plant parts are edible. Young shoots (0–30 cm tall) can be harvested in spring and eaten raw or cooked, with a flavor resembling asparagus or cucumber.
+
+## Overview
+
+Typha Domingensis represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish typha domingensis
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving typha extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Typha Domingensis finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for typha domingensis. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+typha domingensis and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Typha Domingensis has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of typha domingensis into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.

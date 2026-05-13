@@ -25,9 +25,7 @@ When the concrete cures, the forms are moved upward and reused for the next lift
 The finished wall looks like stone masonry but is easier for many owner-builders than traditional hand-laid stone.
 It is a hybrid method: local stone gives it natural-building appeal, while cement gives it modern masonry strength.
 ## When is it the right choice?
-It is right when stone is already present on the land or available nearby at [[jadam-ultra-low-cost-agriculture]].
-It is right when you want a wall that is fire-resistant, pest-resistant, and long-lived.
-It is right when thermal mass is useful, such as in [[comparison-passive-solar-vs-earth-sheltered]] buildings or root cellars.
+It is right when stone is already present on the land or available nearby at [[comparison-passive-solar-vs-earth-sheltered]] buildings or root cellars.
 It is right when the builder has time, patience, and help for heavy lifting.
 It is also right when the building should visually belong to a rocky landscape.
 The more local and abundant the stone, the stronger the case for using it.
@@ -46,33 +44,9 @@ Avoid it if the site has poor drainage that cannot be corrected.
 Avoid it if your main goal is a cement-free natural building.
 Avoid it if you expect to frequently remodel or move wall openings later.
 ## How does it compare with cordwood?
-[[earthbag-construction]] is often cheaper where suitable fill soil is available.
-Earthbag walls can be built with simple tools, but they require plaster and protection from sunlight and water.
-Slip form stone uses more cement and labor but creates a finished stone face.
-Earthbag is often better for low-cost earthen forms, domes, and bermed structures.
-Slip form stone is often better for exposed stone walls, root cellars, and rugged permanent structures.
-## How does it compare with cob or straw bale?
 [[slip-form-stone-construction]]
-- [[natural-building-overview]]
 - [[earthbag-construction]]
-- [[cob-building]]
-## Practical Considerations
-
-When working with When should I use slip form stone construction instead of another natural building method?, several practical factors should be
-carefully considered to achieve optimal results. These include
-the specific conditions of the implementation context, available
-resources, timing requirements, and the interactions between this
-topic and other elements of the broader system. A holistic view
-that considers these interconnections produces better outcomes.
-
-Environmental conditions such as temperature, moisture, and
-seasonal patterns significantly influence results. Monitoring these
-variables and adapting practices accordingly is essential for success.
-The most effective practitioners develop keen observation skills and
-respond flexibly to changing conditions rather than following rigid
-protocols regardless of circumstances or local variation.
-
-[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
+- [[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.

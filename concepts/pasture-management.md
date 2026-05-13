@@ -12,7 +12,7 @@ sources: []
 Pasture management is the foundation of any grass-based livestock system.
 Properly managed pastures produce more forage per acre, build soil health,
 sequester carbon, reduce feed costs, and break parasite life cycles. The
-principles of [[comparison-rotational-grazing-vs-continuous-grazing]] and adaptive multi-paddock management can
+principles of rotational grazing and adaptive multi-paddock management can
 transform marginal land into productive, resilient pasture.
 
 ## Rotational Grazing
@@ -26,13 +26,13 @@ plant and soil health.
 ### Benefits
 - Increased forage production (30-200% compared to continuous grazing).
 - Improved forage quality — plants are grazed at optimal stage.
-- More uniform manure distribution ([[natural-fertilizer-sources-and-application]]).
+- More uniform manure distribution (natural fertilizer).
 - Reduced parasite load — larvae die during rest periods before animals return.
 - Deeper root systems — plants grow deeper when grazed and rested properly.
-- Improved water infiltration — root channels [[hamilton-composting-and-organic-matter-management]] increase
+- Improved water infiltration — root channels and organic matter increase
   soil porosity.
 - Carbon sequestration — grazing stimulates root exudates that feed soil
-  microbes, building [[soil-organic-carbon-fractions-turnover-dynamics]].
+  microbes, building soil organic carbon.
 
 ### Implementation
 - Start simple: divide existing pasture into 4-8 paddocks with portable
@@ -100,7 +100,7 @@ plant and soil health.
   infected types cause fescue toxicosis in livestock — use novel endophyte
   varieties.
 - **Timothy:** High quality, good for hay. Less persistent under grazing.
-- **Smooth Bromegrass:** Aggressive, sod-forming. Good [[comparison-vetiver-grass-vs-bamboo-for-erosion-control]].
+- **Smooth Bromegrass:** Aggressive, sod-forming. Good for erosion control.
 
 ### Warm-Season Grasses (Grow in Summer)
 - **Bermudagrass:** Highly productive in hot climates. Requires good
@@ -140,10 +140,11 @@ plant and soil health.
   - Spring (rapid growth): 14-21 days
   - Early summer: 21-30 days
   - Mid-summer (drought): 30-60+ days
-  - Fall: 30-45 days
-- Rest until plants have 3-4 fully expanded leaves before re-grazing.
 
-### Stockpiling
-- Allow pasture to grow ungrazed in late summer/fall for winter grazing.
-- Tall fescue and orchardgrass stockpile well. Strip-graze with temporary
-  fencing to minimize waste. Can reduce winter hay feeding 30-60 days.
+## See Also
+
+- [[fukuoka-textdoc-natural-livestock-forest-pasture-method]]
+- [[mollison-designers-broadacre-grain-and-pasture-design]]
+- [[permaculture-grazing-and-pasture]]
+- [[pasture-management-and-forage]]
+- [[holistic-grazing-and-pasture-management]]

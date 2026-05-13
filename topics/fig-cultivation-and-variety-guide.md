@@ -21,34 +21,7 @@ sources:
 
 ## Overview
 
-The common fig (*Ficus carica*) is one of the oldest cultivated fruit trees, with archaeological evidence dating back to 9400 BCE in the Jordan Valley. Native to the Mediterranean basin and western Asia, figs have been spread by humans to every temperate and subtropical region where they can survive. They are exceptionally well-suited to permaculture and food forest systems due to their fast growth, minimal maintenance requirements, high productivity, and deep [[ethnomycology-cultural-significance-sacred-fungi]].
-
-Figs are unique among fruit trees in several ways: they are deciduous (in most climates) but can behave as semi-evergreen in frost-free zones, they produce fruit on new wood, their "fruit" is actually an inverted inflorescence called a syconium, and many varieties require no pollination at all thanks to parthenocarpy. These traits make them among the easiest and most rewarding fruit trees for home growers.
-
-## Fig Biology
-
-### The Syconium
-
-What we call a fig "fruit" is botanically a syconium — a hollow, pear-shaped structure lined on the inside with hundreds of tiny flowers. The ostiole, a small opening at the apex, is the only entrance to the interior. When a fig is pollinated, a specialized wasp (Blastophaga psenes) enters through the ostiole, deposits pollen on the internal flowers, and lays her eggs. The seeds that develop give the fig its characteristic crunch.
-
-### Pollination Types
-
-Figs are classified into four horticultural types based on their pollination requirements:
-
-| Type | Pollination | Description |
-|------|-------------|-------------|
-| **Common** | Parthenocarpic | No wasp needed. Most widely grown type worldwide. |
-| **Smyrna** | Requires caprifig wasp | Produces the best dried figs (e.g., Calimyrna). Needs caprifig trees nearby. |
-| **San Pedro** | Parthenocarpic breba + wasp main crop | First crop (breba) develops without pollination; second crop needs wasps. |
-| **Caprifig** | Wasp host | Inedible; grown solely to host the fig wasp lifecycle for Smyrna pollination. |
-
-For home growers, **Common type figs** are overwhelmingly the best choice since they reliably set fruit without the complication of maintaining caprifig trees and fig wasp populations. The vast majority of varieties sold in nurseries are Common type.
-
-### Breba vs. Main Crop
-
-Most fig varieties in temperate climates produce two crops per year:
-
-- **Breba crop (breba):** Develops on last year's wood during the previous [[savory-growing-season-and-non-growing-season-management]], overwinters as tiny embryonic figs, and ripens in early-to-mid summer. Breba figs are often larger but fewer in number.
+The common fig (*Ficus carica*) is one of the oldest cultivated fruit trees, with archaeological evidence dating back to 9400 BCE in the Jordan Valley. Native to the Mediterranean basin and western Asia, figs have been spread by humans to every temperate and subtropical region where they can survive. They are exceptionally well-suited to permaculture and food forest systems due to their fast growth, minimal maintenance requirements, high productivity, and deep [[savory-growing-season-and-non-growing-season-management]], overwinters as tiny embryonic figs, and ripens in early-to-mid summer. Breba figs are often larger but fewer in number.
 - **Main crop:** Develops on current season's new growth and ripens in late summer to fall. This is typically the larger and more reliable crop.
 
 In cold climates (USDA zones 6–7), the breba crop is often lost to winter dieback, so cold-hardy varieties are valued for their main crop reliability.
@@ -63,26 +36,7 @@ Figs require a dormancy period of approximately 100–200 chill hours (hours bel
 
 | Zone | Suitability | Notes |
 |------|-------------|-------|
-| **4–5** | Marginal, requires heavy protection | In-ground survival unlikely; [[container-growing-vegetables-herbs]] with winter storage is the only reliable method. |
-| **6** | Possible with cold-hardy varieties and protection | Chicago Hardy, Brown Turkey, Celeste can survive with winter mulching. Dieback to the ground is common; roots resprout in spring. |
-| **7–8** | Good | Ideal range for most Common type figs. Some winter protection advised for young trees. |
-| **9–10** | Excellent | Peak production. Virtually all varieties thrive. |
-| **11** | Possible in cooler microclimates | Excessive humidity can promote fungal issues; some varieties struggle in tropical heat. |
-
-### Microclimate Considerations
-
-- **Heat reflection:** Planting near south-facing walls dramatically extends the viable range. The thermal mass of masonry absorbs heat during the day and radiates it at night.
-- **Frost pockets:** Avoid low-lying areas where cold air settles. Figs are damaged at temperatures below 20°F (−7°C) for extended periods; young trees can be killed at 15°F (−9°C).
-- **Wind:** Figs have large, soft leaves that are easily shredded by wind. Provide windbreaks in exposed sites.
-- **Humidity:** High humidity during ripening promotes fruit splitting and fungal rot (Alternaria, Botrytis). Good air circulation is essential in humid climates.
-
-## Soil and Site Selection
-
-Figs are remarkably adaptable to soil conditions but perform best with the following:
-
-- **Soil type:** Well-drained loam to sandy loam. They tolerate clay if drainage is adequate, and even sandy soils if watered regularly.
-- **pH:** 6.0–7.5 is ideal. They are more tolerant of alkaline soils than most fruit trees.
-- **Drainage:** Critical. Fig roots are highly susceptible to root rot (Phytophthora) in waterlogged soil. [[raised-beds-vs-in-ground-vs-containers]] or mounds can compensate for heavy soils.
+| **4–5** | Marginal, requires heavy protection | In-ground survival unlikely; [[raised-beds-vs-in-ground-vs-containers]] or mounds can compensate for heavy soils.
 - **Sun:** Full sun is essential — minimum 6–8 hours of direct sunlight during the growing season.
 - **Space:** Standard trees reach 15–30 ft (4.5–9 m) tall and wide at maturity, depending on variety. They can be kept smaller with pruning or container culture.
 
@@ -98,14 +52,7 @@ Figs are remarkably adaptable to soil conditions but perform best with the follo
 
 1. Dig a hole twice as wide as the root ball but no deeper. The root flare should sit at or slightly above soil level.
 2. In heavy clay soils, plant on a mound 6–12 inches (15–30 cm) high to improve drainage.
-3. Backfill with native soil mixed with 10–20% compost. Avoid excessive nitrogen amendments, which promote [[cannabis-vegetative-growth-stage]] over fruit production.
-4. Water thoroughly at planting and mulch with 3–4 inches (7.5–10 cm) of organic mulch, keeping the mulch pulled back 2–3 inches from the trunk.
-5. Stake young trees for the first 1–2 years to prevent wind rocking.
-6. Do not fertilize at planting. Begin a light feeding program in the second year.
-
-### Establishment Care
-
-- **Watering:** Water deeply 2–3 times per week during the first growing season, tapering to once per week in the second year. Established trees are [[drought-tolerant-planting-design]] but produce best with consistent moisture.
+3. Backfill with native soil mixed with 10–20% compost. Avoid excessive nitrogen amendments, which promote [[drought-tolerant-planting-design]] but produce best with consistent moisture.
 - **Weed control:** Maintain a weed-free mulch ring extending to the drip line for at least the first 3 years.
 
 ## Pruning

@@ -44,11 +44,9 @@ determine which taxa can colonize roots.
 Soil type was the dominant factor at the OTU level, with 690 OTUs showing
 significant abundance differences and 657 showing significant
 presence/absence differences. This overwhelming soil effect underpins the
-first tier of the [[cannabis-microbiome-otu-abundance-vs-presence-cannabis-strains]]
-
-- [[proteobacteria-dominance-cannabis-endorhiza]] for Proteobacteria
+first tier of the [[proteobacteria-dominance-cannabis-endorhiza]] for Proteobacteria
   details
-- [[cannabis-cultivar-microbiome-specificity]] for [[cannabis-cultivar-effects-soil-microbiome]]
+- [[cannabis-cultivar-effects-soil-microbiome]]
 ## Practical Considerations
 
 When working with OTU Differential Abundance in Cannabis Microbiome, several practical factors should be

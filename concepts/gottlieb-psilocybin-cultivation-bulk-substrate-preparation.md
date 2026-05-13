@@ -12,23 +12,8 @@ tags: [bulk-substrate, cultivation, psilocybin]
 
 Gottlieb's "The Psilocybin Producer's Guide" (1976) is primarily oriented
 toward liquid broth mycelium cultivation rather than traditional bulk
-[[brassinosteroid-dung-grain-substrate-fruiting-enhancement]]. However, the guide contains several references to bulk
-substrate approaches for producing carpophores ([[ectomycorrhizal-mushroom-fruiting-ecology]] bodies)
-of various psilocybin species, and describes the complete [[mushroom-nutrified-agar-media-formulations]]
-used in the liquid culture system.
-
-## Primary Approach: Liquid Broth
-
-The guide's main method uses PDY (Potato Dextrose Yeast) broth in quart
-mason jars as the production medium. The substrate consists of:
-
-- Potato extract (from 250 g unpeeled, sliced, boiled potatoes)
-- 10 g dextrose per liter
-- 1.5 g yeast extract per liter
-- Distilled water to 1 liter
-
-This is a simple, low-cost liquid medium designed for rapid mycelial growth
-and [[mycelial-broth-alkaloid-production]] rather than fruiting. The potatoes are sliced 1/8
+[[ectomycorrhizal-mushroom-fruiting-ecology]] bodies)
+of various psilocybin species, and describes the complete [[mycelial-broth-alkaloid-production]] rather than fruiting. The potatoes are sliced 1/8
 inch thick, washed repeatedly until water runs clear, boiled in distilled
 water until tender, then the cooking liquid is strained through flannel
 cloth or cheesecloth. The boiled potatoes are discarded after rinsing
@@ -56,7 +41,6 @@ preparation details.
 ## Rye Grain Substrate
 
 Several species are noted as growing on sterilized rye medium:
-- [[copelandia-cyanescens]]: carpophores can be produced on rye.
 - [[psilocybe-caerulescens]]: grows on sterilized rye but it is almost
   impossible to produce carpophores on rye alone.
 
@@ -117,8 +101,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[bulk-substrate-preparation]]
 - [[psilocybin-cultivation]]
-- [[substrate-preparation]]
 - [[psilocybin]]
 - [[det]]

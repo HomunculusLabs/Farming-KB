@@ -12,114 +12,104 @@ sources:
 
 ## Overview
 
-Mutualistic associations between insects and fungi on which they feed or from which they acquire digestive enzymes are termed gardening symbioses (M.M. Martin 1987). Not all fungi in these associations are obligate members; rather, there is a continuum from fungi merely dispersed by insects to true gardening associations. Some provide systems for evolutionary studies; others are economically important as dispersers of [[bloomfield-fungal-pathogens-and-parasites]] or sapstain fungi. Many fungi rely on insects for survival because they are poor competitors with saprobes in their habitats.
-
-## Taxonomic Diversity of Gardening Symbiont Fungi
-
-### Ascomycota
-
-**Saccharomycetes (Saccharomycetales)**
-- Ascoidea, Dipodascus, Pichia, Candida
-
-**Pyrenomycetes**
-- Hypocreales: undescribed yeastlike forms associated with planthoppers
-- Xylariales, Xylariaceae: Xylaria
-- Microascales, Ceratocystiaceae: Ceratocystis, Chalara, Ambrosiella (in part)
-- Ophiostomatales, Ophiostomataceae: Ophiostoma, Leptographium, Ambrosiella (in part), Sporothrix, Raffaelea
-
-**Loculoascomycetes-Discomycetes**
-- Symbiotaphrina (unknown affinities)
-
-### Basidiomycota
-
-**Hymenomycetes**
-- Aphyllophorales, Corticiaceae: Entomocorticium and others
-- Agaricales, Lepiotaceae: Chlorophyllum, Leucoagaricus, Termitomyces, and undescribed forms
-
-## Attine Ant-Fungus Symbiosis
-
-### Significance
-
-The ant-fungus association alone is responsible for an estimated 20% of the photosynthate turnover in the Neotropics, and some specific associations rank among the most important causes of crop loss in Latin America (Cherrett et al. 1989). The fungus-culturing habit was probably acquired by ants only once in evolutionary time (Chapela et al. 1994), and all fungi-culturing ants belong to a single tribe (Attini) in the family Myrmicidae (Schultz and Meier 1995).
-
-### Ant Groups
-
-- **Higher attines:** More conspicuous; large nests easier to sample; include leaf-cutter ants (Atta, Acromyrmex)
-- **Lower attines:** Smaller nests; more difficult to locate; many species more active at night
-
-### Nest Location and Sampling
-
-- Follow worker ants to nest entrance
-- Attract workers with starchy bait: raw oat flakes, cream of wheat, or bits of pasta
-- Night searches with head lamps often more successful
-- Excavation of higher attine nests can take several days
-
-### Fungal Isolation from Attine Nests
-
-Direct isolation from nests usually fails due to contamination by faster-growing fungi. Successful protocol:
-
-1. Place nest material, brood, and worker ants in a small, moist container (e.g., 250-ml plaster-bottom [[jarrold-glass-jar-spore-print-collection-drying]])
-2. Keep for approximately 3 days — workers reconstitute quasi-axenic nest conditions, greatly reducing [[fungicide-treated-seed-contamination-risk-mushroom-substrate]]
-3. Isolate fungi under clean-air conditions
-
-Alternative method for established laboratories: trap inseminated queens (queens) during nuptial flights using light traps. Queens of several genera carry [[mycelium]] pellets for starting new gardens. Maintain trapped queens in plaster-bottom jar with moist sandy soil 15 cm deep until fungus culture matures (4 days to 7 weeks depending on species). Use disposable plastic cups for easy sectioning of soil column to expose gallery with fungus culture. Nuptial flights occur only at certain periods (sometimes a single night), limiting this method. Some queens may not carry mycelia.
+Mutualistic associations between insects and fungi on which they feed or from which they acquire digestive enzymes are termed gardening symbioses (M.M. Martin 1987). Not all fungi in these associations are obligate members; rather, there is a continuum from fungi merely dispersed by insects to true gardening associations. Some provide systems for evolutionary studies; others are economically important as dispersers of [[jarrold-glass-jar-spore-print-collection-drying]])
+2. Keep for approximately 3 days — workers reconstitute quasi-axenic nest conditions, greatly reducing [[mycelium]] pellets for starting new gardens. Maintain trapped queens in plaster-bottom jar with moist sandy soil 15 cm deep until fungus culture matures (4 days to 7 weeks depending on species). Use disposable plastic cups for easy sectioning of soil column to expose gallery with fungus culture. Nuptial flights occur only at certain periods (sometimes a single night), limiting this method. Some queens may not carry mycelia.
 
 ### Cultivation and Storage
 
 Fungi are saprobes growing well on PDA and MEA. For higher attines and Apterostigma species, cultures cannot withstand temperatures below 4 degrees C and no cryopreservation regimen has been developed. Cultures lose viability relatively quickly; subculture every 3 months. Lower attine fungi tolerate low-temperature storage better.
 
-Special handling required for Cyphomyrmex yeast pellets (1-4 mm diameter): develop short (1 mm) hyphal tips but stop growing within 48 hours. Must be broken into smaller pellets and strewn over isolation plate; after repeated subculturing, yeasts return to [[brassinosteroid-psilocybe-cubensis-mycelial-growth-research]].
-
-### Identification
-
-The only applicable binomial for higher attine fungi is Leucoagaricus gongylophorus, which may be a single species with all representatives as clonal descendants (Chapela et al. 1994; Fisher et al. 1994). Lower attine fungi produce basidiocarps consistent with Leucoagaricus or Leucocoprinus species. Until all fungi are better known, refer to each isolate by ant species name, location, and date.
-
-### Associated Fungi
-
-Attine nests usually maintained under quasi-axenic conditions (mostly single basidiomycete strain). Two types of non-host fungi occur:
-1. **[[comparison-endophytic-fungi-vs-mycorrhizal-fungi]]:** xylariaceous species, probably introduced with leaf substrata
+Special handling required for Cyphomyrmex yeast pellets (1-4 mm diameter): develop short (1 mm) hyphal tips but stop growing within 48 hours. Must be broken into smaller pellets and strewn over isolation plate; after repeated subculturing, yeasts return to [[comparison-endophytic-fungi-vs-mycorrhizal-fungi]]:** xylariaceous species, probably introduced with leaf substrata
 2. **Specialized parasites:** Escovopsis (rarely isolated; restricted to attine nests; Seifert et al. 1995)
 
 ### Culture Collections
 
 - Cornell University
-- National Fungus Collection (Systematic Botany and [[mycology]] Laboratory)
-- Department of Entomology, USNM, Smithsonian Institution (c/o Dr. T.R. Schultz)
-- UC Berkeley Department of Environmental Science, Policy, and Management (c/o Dr. I.H. Chapela)
+- National Fungus Collection (Systematic Botany and [[spore]]
+- [[mycelium]]
+- [[mycology]]
 
-## Termite-Fungus Gardens
+## Overview
+
+Insect Fungi Gardening Symbioses represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish insect fungi gardening symbioses
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving insect extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
 
 ## Practical Applications
 
-The principles and techniques discussed here have wide-ranging applications
-across multiple disciplines and contexts. Practitioners and researchers
-continue to explore new ways to integrate these concepts into modern practice,
-adapting traditional knowledge to contemporary challenges and opportunities.
+Insect Fungi Gardening Symbioses finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
 
-## Key Considerations
+## Management and Implementation
 
-Several important factors influence the effectiveness and outcomes described
-in this topic. Understanding these considerations helps practitioners make
-informed decisions and avoid common pitfalls. Environmental conditions,
-timing, and material selection all play critical roles.
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for insect fungi gardening symbioses. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+insect fungi gardening symbioses and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
 
 ## Historical Context
 
-The historical development of this subject reflects centuries of accumulated
-knowledge and practical experience. From traditional methods passed down
-through generations to modern scientific approaches, the evolution continues
-to inform current best practices and research directions.
+Insect Fungi Gardening Symbioses has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
 
-## Common Challenges
+## Integration Strategies
 
-Practitioners frequently encounter several challenges when working with
-these concepts. Climate variability, resource limitations, and knowledge
-gaps can all affect outcomes. Addressing these challenges requires patience,
-observation, and a willingness to adapt approaches based on results.
+Successful integration of insect fungi gardening symbioses into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
 
 ## See Also
-- [[spore]]
-- [[brassinosteroid]]
-- [[mycelium]]
-- [[ascomycota]]
-- [[mycology]]
+
+- [[bloomfield-parallel-carrion-stench-fungi-flowers-insect-convergence]]
+- [[cordyceps-insect-pathogenic-fungi]]
+- [[fukuoka-natural-farming-weed-and-insect-philosophy]]
+- [[fukuoka-textdoc-scale-insect-biological-control-case-studies]]
+- [[mollison-designers-insectary-plants-and-beneficial-insect-habitat]]

@@ -10,11 +10,7 @@ sources:
 
 # Sacred Prostitute and the Mushroom Cult
 
-Allegro reveals that the cultic prostitute (hierodule) of the ancient world served not merely as a sexual partner in fertility rites but primarily as a practitioner of vegetative magic — specifically, in the harvesting and seduction of the [[allegro-the-sacred-mushroom-amanita-identification]] from the earth.
-
-## The Vegetative Function
-
-In an Accadian incantation to pine-resin (kukru), the "little ones" (mushrooms) are said to have been engendered "by a sacred prostitute" and "seeds-of-a-Pine by a vestal." The "little-ones" and "seeds-of-a-Pine" are clearly substitute-words for magic vegetation too powerful even to be given their proper names. Their manner of "engendering" by sacred prostitutes and their resinous origin leave little doubt that the [[allegro-amanita-muscaria-properties-and-pharmacology]] is involved.
+Allegro reveals that the cultic prostitute (hierodule) of the ancient world served not merely as a sexual partner in fertility rites but primarily as a practitioner of vegetative magic — specifically, in the harvesting and seduction of the [[allegro-amanita-muscaria-properties-and-pharmacology]] is involved.
 
 The Bible speaks of male cult prostitutes, called otherwise "dogs." It is more likely these were sodomites than that they served female worshippers. One Sumerian term for "chanter-priest" is GALA, elsewhere meaning "womb," with a semantic equivalent "penis-anus." Their prime purpose may have been providing or extracting semen for cultic purposes, particularly for the priest's anointing as a symbolic phallus — a "christ."
 
@@ -34,23 +30,11 @@ The covering of both the seeker and the plant echoes the description of Essene p
 
 ## Atonement to the Earth
 
-The fundamental principle of [[allegro-fertility-philosophy-of-the-ancient-near-east]] was that of balance. To take any of the fruits of the earth necessitated compensation or sacrifice to the god. In the case of an especially powerful plant like the sacred mushroom, an atoning substitution posed special problems. Since the fungus was the god himself made manifest on earth, no atoning sacrifice by mortals could suffice. The seeker could only bring the Holy Plant itself or some symbol of it.
-
-Josephus describes the seizing of the Mandrake: "to touch it is fatal unless one succeeds in bringing along the thing itself, the root, hanging from one's hand." Only the god can atone for himself — herein lies the basis of the Christian doctrine of the Incarnation and Atonement.
-
-## The Cista and the Volva
-
-Ezekiel describes necromantic witches who fastened "magic bands" (kesatot) on their wrists, "trapping souls like birds." The word is related to Greek kiste, Latin cista, a container used in Dionysiac mysteries. Wherever the cista is graphically represented, it shows a basket from which a snake is emerging. The Bacchic cista and Ezekiel's "magic bands" probably represented the lower "cup" of the mushroom volva, the little "basket" from which the stalk emerged like a charmed snake.
-
-## The Serpent and the Mushroom
-
-The ancient connection between serpent and mushroom played a large part in folklore and mythology. Both emerged from holes in the ground like erect penises, and both bore in their heads a fiery poison which the ancients believed could be transferred from one to the other. "If the hole of a serpent has been near the mushroom, or should a serpent have breathed on it as it first opened, its kinship to poisons makes it capable of absorbing the venom" (Pliny).
-
-The prime example is the [[allegro-garden-of-eden-and-delight]] story (Gen 3), where the cunning reptile prevails upon Eve to eat of the tree whose fruit "made them as gods, knowing good and evil." The whole Eden story is mushroom-based mythology. Even as late as the thirteenth century, a fresco at Plaincourault in France portrayed the Amanita muscaria entwined with a serpent, whilst Eve stood by holding her belly.
+The fundamental principle of [[allegro-garden-of-eden-and-delight]] story (Gen 3), where the cunning reptile prevails upon Eve to eat of the tree whose fruit "made them as gods, knowing good and evil." The whole Eden story is mushroom-based mythology. Even as late as the thirteenth century, a fresco at Plaincourault in France portrayed the Amanita muscaria entwined with a serpent, whilst Eve stood by holding her belly.
 
 ## Scholarly Significance and Criticism
 
-Allegro's interpretation of [[allegro-death-and-resurrection-in-the-mushroom-cult]] mythology as mushroom-derived remains one of the most contested aspects of [[allegro-philological-methodology]] underlying these claims has been heavily criticized by mainstream scholars
+Allegro's interpretation of [[allegro-philological-methodology]] underlying these claims has been heavily criticized by mainstream scholars
 
 ## Practical Applications
 
@@ -74,38 +58,16 @@ and modern research methods have all contributed to current understanding.
 
 ## See Also
 
-- [[allegro-the-sacred-mushroom-amanita-identification]]
 - [[allegro-star-of-the-morning-venus-and-the-sacred-mushroom]]
-- [[allegro-death-and-resurrection-in-the-mushroom-cult]]
 - [[sacred-mushroom-and-the-cross]]
-- [[allegro-key-of-the-kingdom-and-peter-as-mushroom]]
-
-## Ecological Role
-Fungal organisms play critical roles in ecosystem functioning through
-decomposition, nutrient cycling, and symbiotic relationships with plants.
-Understanding their ecological contributions informs both cultivation
-practices and conservation efforts across diverse habitats.
-
-## Research Directions
-Current research explores applications in bioremediation, sustainable
-agriculture, and pharmaceutical development. Advances in genomic
-sequencing and cultivation techniques continue to reveal new species
-and expand our understanding of fungal biology.
-
-## See Also
 - [[allegro-star-of-the-morning-venus-and-the-sacred-mushroom]]
-- [[allegro-death-and-resurrection-in-the-mushroom-cult]]
 - [[allegro-the-sacred-mushroom-amanita-identification]]
-- [[allegro-cross-and-mushroom-symbolism]]
 - [[mushroom-training-mushroom-processing]]
 ## See Also
 
-- [[allegro-philological-methodology]]
 - [[allegro-fungal-iconography-in-ancient-art]]
 - controversy-sacred-mushroom-theory
-- [[sacred-mushroom-and-the-cross]], which proposed that the major religions of the ancient Near East and Mediterranean world were ultimately derived from a proto-historical mushroom cult. While this thesis has not gained acceptance in mainstream scholarship, it continues to be discussed in the field of entheogenic studies and has influenced contemporary debates about the role of psychoactive substances in the development of religious ideas.
-
-The question of whether ancient peoples used psychoactive mushrooms in religious contexts is separate from the question of whether Allegro's specific philological claims are correct. Archaeological evidence for psychoactive plant use in antiquity has grown substantially since Allegro's work was published, and the [[psychedelic-therapy-current-research]], has renewed interest in the historical relationship between psychoactive substances and religious experience. While Allegro's specific claims about Sumerian and Hebrew philology remain controversial, his broader argument that psychoactive plants played a significant role in the development of human religious consciousness has found new support from researchers investigating the neuroscience of mystical experience and the anthropology of shamanism.
+- [[psychedelic-therapy-current-research]], has renewed interest in the historical relationship between psychoactive substances and religious experience. While Allegro's specific claims about Sumerian and Hebrew philology remain controversial, his broader argument that psychoactive plants played a significant role in the development of human religious consciousness has found new support from researchers investigating the neuroscience of mystical experience and the anthropology of shamanism.
 ## Practical Considerations
 
 Successful implementation of Sacred Prostitute and the Mushroom Cult (Allegro) requires attention to

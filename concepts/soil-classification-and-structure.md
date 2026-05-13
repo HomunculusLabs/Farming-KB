@@ -6,7 +6,7 @@ type: concept
 
 # Soil Classification and Structure
 
-Soil classification and structure form the foundation of permaculture land assessment and design. Understanding soils—both through traditional knowledge systems and modern scientific methods—allows designers to match land use to soil capability, preserve soil health, and make informed decisions about earthworks, agriculture, and water management.
+Soil classification and structure form the foundation of permaculture land assessment and design. Understanding soils—both through traditional knowledge systems and modern scientific methods—allows designers to match land use to soil capability, preserve soil health, and make informed decisions about earthworks, agriculture, and [[water-management]].
 
 ## Tribal and Traditional Soil Classifications
 
@@ -27,51 +27,7 @@ Indigenous and traditional farming societies developed remarkably sophisticated 
 
 - **Vegetative indicators** — The "health" or performance of specific crops used as a living assay for soil conditions.
 - **Animal indicators** — Presence, behavior, and constructions of soil fauna. Termite mounds, for example, vary in shape and size depending on soil composition, revealing subsurface conditions without excavation.
-- **Plant indicators** — Specific plant species or communities that signal soil acidity, drainage conditions, and fertility levels. Indicator plants serve as a passive, continuous soil monitoring system, [[reading-the-landscape]] in ways instruments cannot.
-
-### Topographic and Positional Factors
-
-- **Drainage** — Natural water movement through and across the soil profile, determining suitability for different crops and risk of waterlogging.
-- **Slope** — Gradient affecting erosion risk, water runoff, and suitability for different land uses and earthworks.
-- **Elevation** — Altitudinal position influencing temperature, rainfall, and vegetation zones.
-- **Catena** — The sequence of soil types found along a slope, from crest to valley floor. Catena analysis recognizes that soil properties change predictably with topographic position, a concept well understood by traditional land managers who could read the landscape as a connected system rather than isolated plots.
-
-### Thermal and Practical Classifications
-
-- **"Hot" and "cold" soils** — These terms refer to relative fertility and biological activity, not actual temperature. "Hot" soils are productive and biologically active; "cold" soils are less fertile and slower to support plant growth. This classification can also indicate water retention characteristics, with "cold" soils tending to be waterlogged or compacted.
-- **Usage** — Practical applications of specific soils, including pigment production, pottery clay, salt extraction from reeds, and construction materials. This reflects a deep understanding of mineral composition gained through generations of use.
-- **Work needed for crop** — An energy-input classification ranking how much human or animal labor is required to prepare and maintain a soil for productive use, effectively a return-on-energy-investment metric.
-- **Suitability for specific crops** — Soils ranked by their fitness for particular crops (e.g., "yam soil," "taro soil"). Traditional systems may rank soils for up to twelve different crop types, providing a nuanced matching of land to food production.
-- **Organic content** — Assessed separately from colour, providing a direct measure of soil life and nutrient reserves.
-
-### Modern Classifications
-
-Modern soil science employs more complex nomenclature and standardized measurement tools, including Munsell colour charts for consistent colour description and standardized sieves for particle-size analysis. While more precise in some respects, modern systems often lack the integrated, site-specific practical wisdom embedded in traditional classifications. A permaculture approach draws on both traditions, using scientific tools where appropriate while valuing the holistic, experiential knowledge of traditional land managers.
-
-## Soil Structure
-
-Soil is a complex, living material whose structure determines its capacity to support plant life, store water, and resist erosion. Understanding soil structure is essential for earthworks, agriculture, and land rehabilitation.
-
-### Crumb Structure and Its Fragility
-
-- **Uncompacted soils** are open, crumbly, and soft. This desirable structure arises from nodules and clumps held together by plant roots, clay minerals, and chemical bonds formed by soil organisms and their exudates.
-- **Crumb structure** creates the pore spaces essential for air exchange, water infiltration, and root penetration. Well-structured soils with adequate lime can achieve 20–60% pore space, dramatically improving both water-holding capacity and aeration.
-- **Mechanical disturbance** from ploughs and harrows destroys these fragile structural assemblies. Mollison compares this destruction to a potter's ballmill—mechanical action breaks down the careful aggregations that soil organisms have built over time. Each pass of heavy machinery undoes months or years of biological soil-building.
-- **Dryland soils** with high salt content are especially susceptible to loss of crumb structure. The dispersed clay particles seal the soil surface, reducing infiltration and creating hostile conditions for plant roots. Application of gypsum (calcium sulphate) can partly relieve this condition by helping clay particles flocculate and re-form aggregates.
-
-### Plasticity and Construction Uses
-
-Soil plasticity—the ability to be shaped when wet and retain form when dry—makes certain soils valuable for building. Mudbricks, rammed earth (pise), and ceramic pottery all depend on clay content for structural integrity. The same plasticity that makes soil useful for construction, however, can make it problematic for plant growth if compaction occurs.
-
-## The Five Elements of Soil
-
-Mollison identifies five fundamental components that together constitute living soil:
-
-1. **Minerals** — The inorganic fraction derived from parent rock, dominated by silica and iron/aluminium oxides. These provide the physical framework and many essential plant nutrients.
-2. **Soil Waters** — Both fresh and saline solutions of varying pH that dissolve and transport nutrients. Soil water chemistry directly affects nutrient availability and root health.
-3. **Gases** — Atmospheric gases plus those produced by rock breakdown and the earth's interior. Oxygen is critical for root respiration and aerobic microbial activity; carbon dioxide from biological respiration influences soil pH and mineral solubility.
-4. **Life Forms** — The biological community ranging from bacteria to wombats, and from plant roots to algae. This living fraction drives nutrient cycling, creates soil structure through root channels and microbial glues, and maintains soil health as a dynamic, self-organizing system.
-5. **Once-Living Remains (Humus)** — Decomposed organic matter that provides [[cation-exchange-capacity]], water-holding ability, and a slow-release nutrient reservoir. Humus is the key to long-term soil fertility and resilience.
+- **Plant indicators** — Specific plant species or communities that signal soil acidity, drainage conditions, and fertility levels. Indicator plants serve as a passive, continuous soil monitoring system, [[cation-exchange-capacity]], water-holding ability, and a slow-release nutrient reservoir. Humus is the key to long-term soil fertility and resilience.
 
 ### Depth of the Living Soil System
 
@@ -125,7 +81,6 @@ Permaculture benefits from combining both classification traditions:
 The extreme thinness of the living soil layer (often 6–12 cm) underscores the importance of erosion control, soil-building practices, and careful earthworks. Every centimetre of topsoil lost represents centuries of biological production. Permaculture designs must prioritize soil preservation as a foundational ethic, treating soil as the irreplaceable capital upon which all productive systems depend.
 
 ## See Also
-- [[mollison-tribal-soil-classifications-and-soil-structure]]
 - [[tribal-soil-classification-and-structure]]
 - [[soil-structure-classification]]
 

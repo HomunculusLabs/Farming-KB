@@ -48,9 +48,7 @@ The calyx has four lobes, two broad and two narrow, an important diagnostic char
 
 The fruit is a capsule containing numerous small, brown, reticulate seeds. Seeds are approximately 0.5 mm long and require light for germination.
 
-Two subspecies are recognized: subsp. campestris and subsp. baltica. They differ in calyx lobe shape and [[geographic-distribution-of-psilocybe-species]].
-
-The root system is thin and fibrous, without the fleshy rhizome of perennial gentians. Plants complete their lifecycle within one or two [[jeavons-climate-adaptation-growing-seasons]].
+Two subspecies are recognized: subsp. campestris and subsp. baltica. They differ in calyx lobe shape and [[jeavons-climate-adaptation-growing-seasons]].
 
 ## Distribution and Habitat
 
@@ -64,13 +62,9 @@ Plants prefer open, short-turf conditions on calcareous or base-rich soils. It i
 
 In Scandinavia, it is a common component of species-rich meadow communities. It associates with Galium, Thymus, and Helianthemum species.
 
-The species shows considerable morphological [[psilocybin-psilocin-variation-across-flushes]] its range. Alpine populations tend to be more compact with larger flowers than lowland forms.
+The species shows considerable morphological [[agaricus-campestris-biology-and-life-cycle]] and specific habitat requirements make it challenging to maintain.
 
-## Cultivation
-
-Gentianella campestris is rarely cultivated in gardens. Its annual or biennial [[agaricus-campestris-biology-and-life-cycle]] and specific habitat requirements make it challenging to maintain.
-
-Seed should be sown in autumn on the surface of gritty, calcareous compost. Seeds require light and a period of cold stratification.
+Seed should be sown in autumn on the surface of gritty, calcareous [[compost]]. Seeds require light and a period of cold stratification.
 
 Germination rates are typically 40–60% under optimal conditions. Seedlings are tiny and vulnerable to competition from larger plants.
 

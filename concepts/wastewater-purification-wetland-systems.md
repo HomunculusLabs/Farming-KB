@@ -75,6 +75,9 @@ Separation of sewage into solids and liquids at the domestic level has significa
 - Integration of "waste" water with crop residues is more efficient and non-polluting than combustion of solid wastes alone
 
 ## See Also
-- [[graywater-wetland-marsh-filtration-systems]]
-- [[fungal-silage-wastewater-treatment]]
-- [[fungal-industrial-wastewater-treatment]]
+
+- [[singh-pharmaceutical-wastewater-fungal-treatment]]
+- [[constructed-wetlands-wastewater-treatment]]
+- [[biological-wastewater-treatment]]
+- [[singh-protein-pharmaceutical-wastewater-fungal-bioremediation]]
+- [[singh-distillery-wastewater-fungal-treatment]]

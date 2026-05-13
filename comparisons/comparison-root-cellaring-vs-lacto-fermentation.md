@@ -21,31 +21,6 @@ characteristics.
 
 ## Root Cellaring
 
-[[root-cellaring-guide]]
-
-Root cellaring is the practice of storing food in a naturally cool, humid
-environment that mimics underground conditions. A root cellar maintains
-consistent temperatures (32-40°F) and high humidity (85-95%) through the
-insulating properties of earth and proper ventilation design. This method
-works by slowing metabolic processes, reducing water loss, and preventing
-freezing damage.
-
-Root cellars excel at preserving the natural state of foods while maintaining
-their original texture, flavor, and nutritional profile. They are particularly
-suited for hardy root vegetables like potatoes, carrots, beets, and parsnips,
-as well as winter squash, apples, and cabbage. The process requires no cooking
-or transformation—simply harvest at peak maturity, cure appropriately, and store
-in optimal conditions.
-
-The key advantages of root cellaring include minimal energy requirements (passive
-earth insulation), no special processing equipment needed, and the ability to
-store large quantities of food for extended periods (4-8 months). However, root
-cellaring requires proper infrastructure (either a dedicated structure or
-suitable basement space) and works best with specific types of produce that can
-withstand cold, humid conditions.
-
-## Lacto-fermentation
-
 [[lacto-fermentation-and-food-preservation-methods]]
 
 Lacto-fermentation is a preservation method that utilizes beneficial lactic acid
@@ -133,8 +108,6 @@ nutritional enhancement, and root cellaring for extended, stable storage.
 
 ## See Also
 
-- [[food-dehydration-guide]] for another preservation alternative
 - [[comparison-fermentation-vs-canning]] for heat-based comparison
-- [[root-cellar-design-and-construction]] for building information
 - [[fermented-vegetables-guide]] for detailed fermentation techniques
 - [[comparison-root-cellaring-vs-dehydration]] for cold storage alternatives

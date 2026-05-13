@@ -8,30 +8,9 @@ topics: food-culture, western-cooking, macrobiotics, taste, japan, philosophy-of
 
 ## The Japanese Food Boom in America
 
-During his 1979 visit to the [[dmt-containing-plants-united-states-halpern]], [[masanobu-fukuoka]] observed
+During his 1979 visit to the [[masanobu-fukuoka]] observed
 a remarkable phenomenon: a growing boom in Japanese food among
-Americans. Health food stores across the country stocked [[brown-rice-flour-substrate]]
-in 5-pound and 25-pound bags, bottles of amazake (sweet fermented
-rice beverage), popped rice cakes, miso, soy sauce (sold as "shoyu"
-or "tamari"), and other traditional Japanese foods. In many West
-European countries, one could find miso and soy sauce even in country
-stores, and restaurants routinely put a bottle of soy sauce on the
-table alongside other condiments.
-
-Japanese restaurants — primarily sushi and tempura shops — were
-popping up everywhere. Even though the quality was second- or
-third-rate by Tokyo standards, the customers crowded in, indicating
-genuine appreciation.
-
-## Why Americans Found Japanese Food "Delicious"
-
-Fukuoka identified two reasons for the popularity of Japanese food
-in the West:
-
-1. **Regaining a true sense of taste**: As meat-eaters, Westerners
-   had suffered a "numbing of the palate" that made them incapable
-   of perceiving true taste and thus unable to appreciate subtle
-   flavors. [[fukuoka-japanese-cooking-culture-disappearing]], with its emphasis on the natural
+Americans. Health food stores across the country stocked [[fukuoka-japanese-cooking-culture-disappearing]], with its emphasis on the natural
    flavors of ingredients rather than heavy seasoning, appeared
    extraordinarily delicious by contrast.
 
@@ -45,14 +24,7 @@ in the West:
 Fukuoka was sharply critical of Western cooking. He characterized
 it as having "little variety in the materials used" and being "all
 very crude and careless, the only principle at work being that of
-[[fukuoka-critique-western-dietetics-nutritional-science]]."
-
-### Cooking as Nutrition Science
-
-In Fukuoka's analysis, Western cooking followed the same reasoning
-used to raise hogs on synthetic feed. Meals were prepared with the
-belief that the body is sustained by three nutritional elements
-(protein, fat, carbohydrate). The focus on [[dighton-fungal-nutritional-composition-animal-diets]]
+[[dighton-fungal-nutritional-composition-animal-diets]]
 rather than flavor and wholesomeness reduced cooking to a kind of
 chemical engineering.
 
@@ -77,9 +49,7 @@ remained alive enough to impress Western visitors.
 ## The Herman Aihara Visit
 
 Fukuoka's analysis was reinforced by a visit from Herman Aihara,
-leader of the macrobiotic movement on the American [[blue-city-diesel-west-coast-blueberry-nyc-diesel-hybrid-oner]].
-Aihara brought about twenty students to Japan to study the current
-state of [[fukuoka-natural-diet-as-foundation]]. The group was not impressed with what they
+leader of the macrobiotic movement on the American [[fukuoka-natural-diet-as-foundation]]. The group was not impressed with what they
 ate at a first-class Japanese restaurant in the city.
 
 The next day they stayed overnight at the huts in Fukuoka's orchard.
@@ -118,8 +88,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[dmt]]
 - [[fukuoka-western-vs-japanese-attitudes]]
-- [[fukuoka-western-commitment-and-japanese-halfheartedness]]
 - [[fukuoka-japanese-cooking-culture-disappearing]]
 - [[fukuoka-textdoc-seasonal-eating-japanese-food-calendar]]

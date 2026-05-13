@@ -24,9 +24,7 @@ created: 2026-05-07
 
 ## Joyce as Cartographer of Hyperspace
 
-[[tryptamine-hallucinogens-and-consciousness]] contains
-a striking and often-overlooked literary reference. Describing the characteristic space
-encountered at the peak of a [[mckenna-dmt-experience-and-hyperspace]], McKenna borrows from James Joyce's *Finnegans
+[[mckenna-dmt-experience-and-hyperspace]], McKenna borrows from James Joyce's *Finnegans
 Wake* to name what he finds there. He describes arriving, approximately thirty seconds after
 smoking DMT, in "a place that defies description, a space that has a feeling of being
 underground, or somehow insulated and domed." He then identifies this space with Joyce's
@@ -61,8 +59,7 @@ McKenna's phenomenological description of the DMT space as "insulated and domed"
 consistent across multiple reports from experienced DMT users. The sensation is one of
 entering an enclosed, self-contained reality — not a vision overlaid on ordinary space but a
 complete environment with its own physics, its own logic, its own inhabitants. This quality
-distinguishes DMT from other psychedelics like LSD or [[heraclitus-fragment-24-and-tryptamine-ecstasy]] for the Heraclitus connection
-- [[mckenna-tryptamine-glossolalia-and-primal-language]] for the language phenomenology
+distinguishes DMT from other psychedelics like LSD or [[mckenna-tryptamine-glossolalia-and-primal-language]] for the language phenomenology
 ## Practical Considerations
 
 Successful implementation of DMT, Finnegans Wake, and the Merry Go Raum requires attention to
@@ -84,39 +81,6 @@ communities, and systematic experimentation to build expertise.
 
 ## See Also
 
-- [[dmt-onset-phenomenology-merry-go-raum]]
-
-## Practical Applications
-
-The principles and techniques discussed here have wide-ranging applications
-across multiple disciplines and contexts. Practitioners and researchers
-continue to explore new ways to integrate these concepts into modern practice,
-adapting traditional knowledge to contemporary challenges and opportunities.
-
-## Key Considerations
-
-Several important factors influence the effectiveness and outcomes described
-in this topic. Understanding these considerations helps practitioners make
-informed decisions and avoid common pitfalls. Environmental conditions,
-timing, and material selection all play critical roles.
-
-## Historical Context
-
-The historical development of this subject reflects centuries of accumulated
-knowledge and practical experience. From traditional methods passed down
-through generations to modern scientific approaches, the evolution continues
-to inform current best practices and research directions.
-
-## Common Challenges
-
-Practitioners frequently encounter several challenges when working with
-these concepts. Climate variability, resource limitations, and knowledge
-gaps can all affect outcomes. Addressing these challenges requires patience,
-observation, and a willingness to adapt approaches based on results.
-
-## See Also
 - [[dmt]]
-- [[dom]]
 - [[tryptamine]]
-- [[lsd]]
 - [[dmt-onset-phenomenology-merry-go-raum]]

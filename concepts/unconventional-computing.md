@@ -18,21 +18,7 @@ what computation means at its most fundamental level.
 Moore's Law has slowed significantly, and energy consumption of data centers
 is growing unsustainably. Unconventional approaches offer potential advantages
 that address these mounting challenges:
-- **[[fukuoka-textdoc-energy-efficiency-agricultural-labor]]**: Biological and physical computations often operate at
-  room temperature with minimal energy input, compared to the megawatts
-  consumed by modern GPU clusters.
-- **Parallelism**: Physical processes are inherently parallel at molecular or
-  cellular scales, offering massive parallelism without the overhead of
-  coordinating millions of independent processors.
-- **New problem classes**: Some problems map more naturally to physical or
-  biological substrates than to Boolean logic gates — combinatorial
-  optimization, pattern matching, and analog signal processing are examples.
-- **Novel properties**: Some physical systems provide properties like true
-  randomness, continuous-valued computation, or inherent fault tolerance
-  that are expensive to emulate digitally.
-## Major Paradigms
-### Biological Computing
-Uses [[savory-living-organisms-as-tools]] or biological molecules as computational elements. This
+- **[[savory-living-organisms-as-tools]] or biological molecules as computational elements. This
 is perhaps the most diverse category, spanning molecular to organismal scales.
 Subtypes include:
 - **DNA computing**: Encodes information in DNA strands; uses hybridization
@@ -41,18 +27,8 @@ Subtypes include:
   using DNA molecules.
 - **Molecular computing**: Uses individual molecules (often proteins or
   enzymes) as logic gates, performing computations through chemical reactions.
-- **Cellular computing**: Leverages networks [[mycelial-network-computation]] and [[gadd-fungal-cell-structure]], using nested membranes with rules for
-  object transformation [[physarum-computation]].
-## Theoretical Frameworks
-### Hypercomputation
-Models that theoretically exceed the Church-Turing limit, using infinite
-precision, real-number computation, or relativistic effects (Malament-Hogarth
-spacetime). Most remain speculative; no physical realization is known and
-many may be physically impossible due to quantum limits on measurement
-precision.
-### Analog Computing
-Continuous-valued computation as opposed to discrete digital logic. Modern
-analog computing revivals focus on [[mycelial-network-computation]]
+- **Cellular computing**: Leverages networks [[gadd-fungal-cell-structure]], using nested membranes with rules for
+  object transformation [[mycelial-network-computation]]
 - biological computing
 - reservoir computing
 - quantum computing fundamentals
@@ -88,3 +64,85 @@ these challenges enables more proactive and effective management.
 
 Building resilience into implementations through diversity, redundancy,
 and adaptive capacity helps buffer against unpredictable events and
+
+## Overview
+
+Unconventional Computing represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish unconventional computing
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving unconventional extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Unconventional Computing finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for unconventional computing. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+unconventional computing and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Unconventional Computing has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of unconventional computing into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[biological-slime-mold-computing]]
+- [[myconeurological-networks-and-biological-computing]]

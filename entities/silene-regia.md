@@ -110,11 +110,7 @@ The species has proven adaptable to cultivation and is increasingly available fr
 
 ## See Also
 
-- [[silene-vulgaris]]
 - [[lychnis-coronaria]]
-- [[agrostemma-githago]]
 - [[dianthus-plumarius]]
-- [[stellaria-media]]
 - [[cerastium-tomentosum]]
-- [[dianthus-barbatus]]
 - [[saponaria-officinalis]]

@@ -8,7 +8,7 @@ sources: ["raw/papers/shulgin-a-tihkal.md"]
 ---
 # Harmine (7-Methoxy-beta-Carboline)
 
-TIHKAL entry #14. A beta-carboline alkaloid and monoamine oxidase inhibitor found in [[mckenna-food-gods-peganum-harmala-soma]] ([[golden-guide-syrian-rue-and-maoi-plants]]) and Banisteriopsis caapi (ayahuasca). Once known as "banisterine" or "telepathine," harmine was briefly celebrated as a wonder drug for Parkinson's disease in the late 1920s before falling out of favor. It is a more effective facilitator of oral DMT activity than harmaline, as it is substantially without action at effective MAOI doses.
+TIHKAL entry #14. A [[beta-carboline]] alkaloid and monoamine oxidase inhibitor found in [[golden-guide-syrian-rue-and-maoi-plants]]) and Banisteriopsis caapi (ayahuasca). Once known as "banisterine" or "telepathine," harmine was briefly celebrated as a wonder drug for Parkinson's disease in the late 1920s before falling out of favor. It is a more effective facilitator of oral DMT activity than harmaline, as it is substantially without action at effective MAOI doses.
 
 ## Chemical Names
 
@@ -83,6 +83,5 @@ Harmine is prepared by oxidative dehydrogenation of harmaline: harmaline HCl is 
 
 ## See Also
 
-- [[dmt-entity-tihkal]] — primary tryptamine potentiated by harmine
 - [[banisteriopsis-caapi]] — the ayahuasca vine, primary natural source of harmine
 - [[harm-reduction-guide]] — dietary restrictions required with MAOIs

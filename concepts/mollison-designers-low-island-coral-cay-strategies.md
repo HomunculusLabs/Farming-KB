@@ -10,7 +10,7 @@ tags: [permaculture, mollison, designers-manual, island, tropical, coral, low-is
 
 ## Overview
 
-Low islands and coral cays present unique permaculture design challenges:
+Low islands and coral cays present unique [[permaculture-design]] challenges:
 limited freshwater, poor or absent soils, exposure to salt spray and storm
 surge, and extreme isolation from mainland resources. Mollison addresses
 these environments as specialized design zones requiring distinct strategies
@@ -78,7 +78,7 @@ strategies:
 The primary strategy is massive organic matter addition. All vegetable
 matter, seaweed, fish waste, and animal manures should be composted and
 incorporated into garden beds. Mulching is essential to retain moisture
-and moderate soil temperatures. Green manure crops and nitrogen-fixing
+and moderate soil temperatures. [[green-manure-crops]] and nitrogen-fixing
 species should be rotated through beds to build nitrogen and organic matter.
 
 ### Raised Bed Gardens
@@ -93,7 +93,7 @@ top-dressed with compost and mulch.
 
 Mollison notes the traditional practice of incorporating charcoal into
 tropical soils. Biochar improves water retention, provides a buffered
-nutrient exchange medium, and creates habitat for beneficial soil
+nutrient exchange medium, and creates [[query-how-do-i-design-habitat-for-beneficial-insects]] soil
 microorganisms. On coral islands, biochar can be produced from coconut
 shells and other woody materials.
 
@@ -113,10 +113,10 @@ pioneers that stabilize sand and provide windbreaks.
 
 ### Food Crops
 
-Breadfruit (Artocarpus altilis), taro (Colocasia esculenta), sweet potato
-(Ipomoea batatas), and cassava (Manihot esculenta) form the staple
+Breadfruit ([[artocarpus-altilis]]), taro ([[colocasia-esculenta]]), sweet potato
+([[ipomoea-batatas]]), and cassava ([[manihot-esculenta]]) form the staple
 carbohydrate base. Citrus species, bananas, papaya, and guava provide
-fruit. Pandanus and Terminalia catappa provide additional food resources.
+fruit. Pandanus and [[terminalia-catappa]] provide additional food resources.
 
 ### Salt-Tolerant Vegetables
 
@@ -136,8 +136,6 @@ reinforced structures, secure roofing, and elevated positions.
 
 ## Cross-References
 
-- Related: [[mollison-designers-high-island-and-tropical-valley-design]]
 - Related: [[mollison-pdc-low-island-design]]
-- Related: [[permaculture-water-harvesting]]
 - Related: [[permaculture-date-palm-guide]]
 - Related: [[permaculture-windbreak-design]]

@@ -11,23 +11,10 @@ type: concept
 # Soil Biology and Microorganisms
 
 The health and productivity of any garden depends not on the mineral content
-of the soil alone, but on the vast community of [[savory-living-organisms-as-tools]] that inhabit
-it. In a natural soil there are millions of microorganisms working
-continuously to produce the nutrients that plants need for healthy growth.
-The organic approach to gardening begins with nurturing this subterranean
-life, understanding that feeding the soil is the foundation of feeding
-plants.
-
-## The Soil as a Living Ecosystem
-
-Soil is far more than mineral particles used to anchor roots. Its makeup
-includes [[hamilton-composting-and-organic-matter-management]] in various stages of decay, air, water, and millions
+of the soil alone, but on the vast community of [[hamilton-composting-and-organic-matter-management]] in various stages of decay, air, water, and millions
 of living organisms including soil fungi, algae, bacteria, insects, and
 worms. These organisms provide plants with food in a form they can absorb
-and [[query-how-do-fungi-improve-soil-structure]] by breaking it up and allowing air to circulate.
-
-The topsoil layer is the most biologically active zone. It contains the
-[[fukuoka-textdoc-composting-critique-futility-prepared-organic-matter]], fungi, bacteria, insects, and worms necessary for healthy
+and [[fukuoka-textdoc-composting-critique-futility-prepared-organic-matter]], fungi, bacteria, insects, and worms necessary for healthy
 plant growth. The subsoil, by contrast, is lighter in color, contains no
 humus, and is largely devoid of plant nutrients and microorganisms. This is
 why deep cultivation should bring only small amounts of subsoil to the
@@ -54,38 +41,15 @@ depleting it.
 
 Without air, a different group of microorganisms known as anaerobic bacteria
 take over. These turn organic matter into a stinking slime rather than
-useful compost. Maintaining [[stamets-growing-room-air-circulation-co2-management]] in compost heaps and garden soil
-is therefore essential for encouraging beneficial aerobic bacteria.
-
-## The Role of Fungi and Algae
-
-Fungi and algae help release nutrients from the soil so that they can be
-used by plants. Fungi are particularly important in breaking down woody
-material, since bark contains lignin, a substance difficult for bacteria to
-decompose. The rotting of lignin is primarily carried out by fungi, which
-require less air than bacteria but more light. This is why woody prunings
-take so long to compost on the main heap but can be speeded up by chopping
-them into smaller pieces.
-
-[[arbuscular-mycorrhizal-fungi-biology-symbiosis]] form associations with plant roots, extending the root
+useful compost. Maintaining [[arbuscular-mycorrhizal-fungi-biology-symbiosis]] form associations with plant roots, extending the root
 network and helping plants access nutrients and water that would otherwise
 be unavailable. These fungal relationships are especially important in
-organic systems where [[cervantes-chemical-fertilizers-guide]] are not used to supply nutrients
-directly.
-
-## Earthworms and Soil-Dwelling Invertebrates
-
-Worms are among the most visible and valuable soil organisms. They pull
-plant remains down into the upper layers of the soil, and their casts are
-a valuable [[natural-fertilizer-sources-and-application]]. Worm activity improves soil structure by
+organic systems where [[natural-fertilizer-sources-and-application]]. Worm activity improves soil structure by
 creating channels through which air, water, and roots can move freely.
 Worm-worked compost and worm-worked manure are among the finest soil
 conditioners available.
 
-Beyond worms, the soil supports centipedes, [[ground-beetles-carabidae-and-biological-pest-control]], and numerous
-other invertebrates. Centipedes are fast-moving predators of small insects
-and slugs. Ground beetles feed on eelworms, cutworms, leatherjackets, and
-insect eggs. These creatures need [[fukuoka-citrus-orchard-ground-cover-cultivation]] or mulch to hide under
+Beyond worms, the soil supports centipedes, [[fukuoka-citrus-orchard-ground-cover-cultivation]] or mulch to hide under
 during the day, emerging at night to feed on pests.
 
 ## Practical Applications
@@ -117,8 +81,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[doc]]
 - [[composting]]
-- [[decomposition]]
 - [[mycorrhiza]]
 - [[hamilton-geoffhamilton-nick-organic-gardening-soil-types-and-management]]

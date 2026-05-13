@@ -38,7 +38,7 @@ In the Nevado de Toluca region of central Mexico, Elaphomyces specimens serve as
 This practice is documented in connection with several fungi:
 
 - **Cordyceps capitata** and **C. ophioglossoides** — called "hombrecitos" (little men)
-- **Psilocybe muliercula** — called "mujercitas" (little women)
+- **[[psilocybe-muliercula]]** — called "mujercitas" (little women)
 - Various other neurotropic Psilocybe species native to the high-elevation forests
 
 The Cordyceps species are eaten either together with Psilocybe muliercula or alone during these special nocturnal ceremonies.
@@ -107,7 +107,7 @@ Gastón Guzmán, the preeminent Mexican mycologist and leading authority on Psil
 
 Guzmán first encountered Elaphomyces in ceremonial contexts during his early expeditions to Oaxaca in the late 1950s. His systematic documentation of the practice across four decades provides one of the most detailed records of indigenous fungal ceremony in the mycological literature.
 
-The Cordyceps species used in these ceremonies are closely related taxonomically to Claviceps purpurea, the famous ergot fungus that produces hallucinogenic alkaloids. Hofmann, working with Wasson, did not find indoles in preserved Cordyceps specimens from Mexican markets — likely because the specimens had been stored for too long, as Guzmán noted that psilocybin and related compounds degrade significantly with age.
+The Cordyceps species used in these ceremonies are closely related taxonomically to [[claviceps-purpurea]], the famous ergot fungus that produces hallucinogenic alkaloids. Hofmann, working with Wasson, did not find indoles in preserved Cordyceps specimens from Mexican markets — likely because the specimens had been stored for too long, as Guzmán noted that psilocybin and related compounds degrade significantly with age.
 
 ## Classification and Significance
 
@@ -119,8 +119,6 @@ The Elaphomyces ceremony represents a form of mycological knowledge that transce
 
 ## See Also
 
-- [[cordyceps-claviceps-sacred-neurotropic-mexico-ceremonies-guzman-1998]]
 - [[elaphomyces-cordyceps-ceremonial-complex-oaxaca-guzman-1998]]
-- [[guzman-allen-gartz-sacred-non-psilocybin-fungi-polypores-boletes-puffballs]]
 - [[guzman-allen-gartz-clavicipitalean-neurotropic-fungi]]
 - [[traditional-indigenous-use-sacred-fungi]]

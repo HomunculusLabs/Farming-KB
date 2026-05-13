@@ -24,7 +24,7 @@ and plant knowledge:
 1. **Muraya**: The first advanced degree. A muraya has mastered the
    basic plant medicines and can perform standard healings. They have
    established relationships with several plant spirits and learned
-   their [[icaros]] ([[icaros-power-songs]]).
+   their [[icaros-power-songs]]).
 
 2. **Sumi** (sumiruna): The second degree, representing deeper mastery.
    Sumis command greater spiritual power and can perform more complex
@@ -51,22 +51,7 @@ alcohol, minimal social contact, and purification through tobacco and
 bathing. The dieta typically lasts weeks or months.
 
 During this period, the plant spirit appears in dreams and ayahuasca
-visions, teaching the practitioner the plant's [[panax-ginseng]],
-the appropriate icaros, and the specific dietary and behavioral
-requirements for using the medicine safely. Each plant teacher demands
-different conditions, and violating these conditions during or after
-the dieta can result in illness or even death, according to the
-tradition.
-
-## The Ayahuasca Ceremony
-
-A typical ayahuasca ceremony, as described by Amaringo from the house
-of vegetalista Vicente Silvano in the settlement of Brazil, follows a
-structured format:
-
-**Preparation**: People arrive with various ailments — mal aire
-(illness from evil breeze), sorcery-induced conditions, and other
-afflictions not treatable by [[fukuoka-eastern-western-medicine-healing-world-crisis]]. They exchange stories
+visions, teaching the practitioner the plant's [[fukuoka-eastern-western-medicine-healing-world-crisis]]. They exchange stories
 about supernatural encounters. The vegetalista advises on dietary
 requirements for the ceremony.
 
@@ -88,3 +73,78 @@ reveal what was asked.
 visions, sometimes preceded by a prayer to Jesus or another divinity
 depending on their religious affiliation. The icaros guide and shape
 the visionary experience.
+
+## Overview
+
+Vegetalista Shamanism represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish vegetalista shamanism
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving vegetalista extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Vegetalista Shamanism finds practical application in multiple design contexts.
+[[permaculture-principles]] guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for vegetalista shamanism. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+vegetalista shamanism and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Vegetalista Shamanism has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of vegetalista shamanism into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and

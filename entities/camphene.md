@@ -49,13 +49,9 @@ Camphene is structurally related to α-pinene, differing in the position of the 
 
 Camphene is a common constituent of conifer-derived essential oils and is widely distributed across the plant kingdom.
 
-**Coniferous trees** are the most abundant natural source. Camphene is found in the oleoresin and needle oil of species including Douglas fir ([[pseudotsuga-menziesii]]), Scots pine (Pinus sylvestris), Norway spruce (Picea abies), and various Abies and Tsuga species. In these oils, camphene typically constitutes 5–20% of the monoterpene fraction.
+**Coniferous trees** are the most abundant natural source. Camphene is found in the oleoresin and needle oil of species including Douglas fir ([[cupressus-sempervirens]]), nutmeg ([[zingiber-officinale]]), black pepper (Piper nigrum), bergamot (Citrus bergamia), and holy basil (Ocimum tenuiflorum).
 
-**Cannabis sativa** produces camphene as a secondary monoterpene. It is found in virtually all cannabis chemovars but is most prominent in cultivars with piney, earthy, or woody aroma profiles. Strains expressing high myrcene and pinene tend to also contain elevated camphene levels.
-
-**Culinary and medicinal herbs** containing camphene include cypress ([[cupressus-sempervirens]]), nutmeg ([[myristica-fragrans]]), ginger ([[zingiber-officinale]]), black pepper (Piper nigrum), bergamot (Citrus bergamia), and holy basil (Ocimum tenuiflorum).
-
-**Other sources** include camphor tree ([[cinnamomum-camphora]]), citronella ([[cymbopogon-winterianus]]), and valerian (Valeriana officinalis) root oil. Camphene is a minor component in many commercially important essential oils used in aromatherapy and fragrance production.
+**Other sources** include camphor tree ([[cymbopogon-winterianus]]), and valerian (Valeriana officinalis) root oil. Camphene is a minor component in many commercially important essential oils used in aromatherapy and fragrance production.
 
 ## Pharmacology and Biological Activity
 
@@ -73,9 +69,7 @@ Camphene exhibits several pharmacological properties supported by preclinical ev
 
 ## Cannabis Terpene Context
 
-Within cannabis, camphene contributes to the complex aroma bouquet and participates in the [[cannabis-terpene-entourage-effect-profiles]] alongside cannabinoids and other terpenes. Its piney-woody character is most apparent in strains that also express high levels of pinene and myrcene.
-
-Research into camphene's specific role in the [[query-what-is-the-cannabis-entourage-effect]] effect has identified potential synergy with THC in modulating pain perception and with CBD in anti-inflammatory pathways. The compound's lipid-lowering properties may counterbalance some of the metabolic effects associated with chronic THC use, though this remains speculative pending clinical investigation.
+Within cannabis, camphene contributes to the complex aroma bouquet and participates in the [[query-what-is-the-cannabis-entourage-effect]] effect has identified potential synergy with THC in modulating pain perception and with CBD in anti-inflammatory pathways. The compound's lipid-lowering properties may counterbalance some of the metabolic effects associated with chronic THC use, though this remains speculative pending clinical investigation.
 
 Camphene-rich cannabis cultivars are sometimes preferred by medical patients seeking cardiovascular benefits or antioxidant support, though the clinical relevance of terpene-level contributions remains an active area of research.
 

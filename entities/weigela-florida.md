@@ -14,12 +14,7 @@ sources:
   - Bean, W.J. (1973). nitrogen-fixing-trees-and-shrubs Hardy in the British Isles, 8th ed. John Murray.
   - Dirr, M.A. (2009). Manual of Woody Landscape Plants, 6th ed. Stipes Publishing.
   - Royal Horticultural Society (2024). "Weigela." https://www.rhs.org.uk/
-  - Krüssmann, G. (1984). Manual of Cultivated Broad-Leaved [[nitrogen-fixing-trees-and-shrubs]], Vol. III. Timber Press.
----
-
-## Overview
-
-Weigela florida is a deciduous flowering shrub native to [[neurotropic-fungi-japan-east-asia-species-cultural-context]], belonging to
+  - Krüssmann, G. (1984). Manual of Cultivated Broad-Leaved [[neurotropic-fungi-japan-east-asia-species-cultural-context]], belonging to
 the honeysuckle family. It is one of the most widely planted ornamental shrubs
 in temperate gardens worldwide.
 
@@ -66,8 +61,7 @@ is adaptable to a range of soil pH levels but performs best in slightly acidic
 to neutral conditions.
 
 Weigela florida is hardy to USDA Zone 4, withstanding winter temperatures to
-minus 34 degrees Celsius. It is widely cultivated across Europe, [[guzman-psilocybin-mushrooms-north-america]],
-and [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]] of Asia.
+minus 34 degrees Celsius. It is widely cultivated across Europe, [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]] of Asia.
 
 ## Ecology and Pollinators
 

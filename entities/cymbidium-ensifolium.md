@@ -63,13 +63,9 @@ Plants can live for decades under proper care, with some documented specimens in
 
 ## Distribution and Habitat
 
-*Cymbidium ensifolium* has a broad distribution across tropical and subtropical Asia. Its range extends from India and Nepal through [[psilocybe-southeast-asia-pacific]] to southern China, Taiwan, and southern Japan.
+*Cymbidium ensifolium* has a broad distribution across tropical and subtropical Asia. Its range extends from India and Nepal through [[stamets-growing-room-air-circulation-co2-management]].
 
-In China, it occurs predominantly in the southern and southeastern provinces including Guangdong, Fujian, Guangxi, Yunnan, and Sichuan. Fujian province (historically "Jian") gives the orchid its Chinese name.
-
-The species grows at elevations from 300 to 2,800 m in forests, on rocky slopes, and along stream banks. It favors humid, shaded environments with good [[stamets-growing-room-air-circulation-co2-management]].
-
-[[mushroom-natural-habitats]] include broadleaved evergreen forests, mossy rocks near waterfalls, and tree crotches in montane cloud forests. The species tolerates a wide [[query-what-is-the-ideal-temperature-range-for-growing-cannabis]] from near-freezing to 35°C.
+[[query-what-is-the-ideal-temperature-range-for-growing-cannabis]] from near-freezing to 35°C.
 
 ## Ecology and Cultivation
 
@@ -77,13 +73,7 @@ The species grows at elevations from 300 to 2,800 m in forests, on rocky slopes,
 
 Pollination is likely performed by bees and wasps attracted to the fragrance and nectar. The flowers produce nectar at the base of the labellum lamellae.
 
-The species forms [[plants-without-mycorrhizal-associations]] typical of epiphytic orchids, with fungal partners in the Sebacinales and Ceratobasidiales. These associations are important for seedling establishment.
-
-*Cymbidium ensifolium* has a peak flowering period from June to October, with some cultivars flowering multiple times per year. This extended bloom period is unusual among *Cymbidium* species.
-
-**Cultivation:**
-
-The species is one of the most widely cultivated orchids in East Asia, with over 1,000 named cultivars in China alone. Traditional [[gourmet-medicinal-mushroom-oyster-cultivation-methods]] use clay pots with orchid bark or sphagnum moss.
+The species forms [[gourmet-medicinal-mushroom-oyster-cultivation-methods]] use clay pots with orchid bark or sphagnum moss.
 
 Modern hybridization has produced numerous inter-specific crosses with other *Cymbidium* species. Commercial production is centered in China, Taiwan, Japan, and Thailand.
 

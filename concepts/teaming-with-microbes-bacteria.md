@@ -10,10 +10,7 @@ sources:
 
 # Teaming with Microbes — Bacteria
 
-In *Teaming with Microbes*, Lowenfels and Lewis present soil bacteria as the foundation of the [[solomon-root-exudates-and-allelopathy]] are favorite foods for soil bacteria:
-- Huge bacterial populations concentrate in the rhizosphere
-- Bacteria also find nutrition from cells sloughed off during root-tip growth
-- Not all soil bacteria live in the rhizosphere — [[hamilton-composting-and-organic-matter-management]] is nearly ubiquitous
+In *Teaming with Microbes*, Lowenfels and Lewis present soil bacteria as the foundation of the [[hamilton-composting-and-organic-matter-management]] is nearly ubiquitous
 
 ## Biofilm Formation
 
@@ -27,13 +24,7 @@ Bacteria create slime layers (biofilms) that serve multiple functions:
 
 Bacterial slime acts as a glue:
 - Helps bind soil particles into aggregates
-- Contributes to [[teaming-with-microbes-overview]]). Bacteria rarely die of old age — they are usually eaten or killed by environmental changes.
-
-See also: [[teaming-with-microbes-overview]], [[bacterial-vs-fungal-soil]]
-
-## See Also
-
-- [[teaming-with-microbes-nematodes]], [[teaming-with-microbes-protozoa]], [[teaming-with-microbes-classic-soil-science]], [[teaming-with-microbes-fungi]], [[teaming-with-microbes-humus-formation-and-glomalin]]
+- Contributes to [[teaming-with-microbes-overview]], [[teaming-with-microbes-nematodes]], [[teaming-with-microbes-classic-soil-science]], [[teaming-with-microbes-humus-formation-and-glomalin]]
 ## Practical Applications
 
 Teaming with Microbes — Bacteria has a range of practical applications that make it relevant to

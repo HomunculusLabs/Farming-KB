@@ -66,10 +66,8 @@ Terraces serve multiple simultaneous functions:
 
 - Any conceivable crop can be grown on terraces
 - Plant cover established immediately after construction
-- If topsoil is poor, green [[green-manure-crops-detailed]] needed first
-- Fruit bushes and trees planted on embankments (drier, warmer conditions)
-- Sweet-smelling plants, medicinal and [[holzer-medicinal-and-culinary-herbs-compendium]] added to seed mixtures
-- Deep-rooted [[jeavons-green-manures-cover-crops]] (sweet clover, lupins) stabilise poor soils and [[query-how-to-fix-nitrogen-toxicity-in-cannabis]]
+- If topsoil is poor, green [[holzer-medicinal-and-culinary-herbs-compendium]] added to seed mixtures
+- Deep-rooted [[query-how-to-fix-nitrogen-toxicity-in-cannabis]]
 - Crops harvested seasonally for efficient land use
 - Even first-year plant cover creates substantial biomass for humus improvement
 

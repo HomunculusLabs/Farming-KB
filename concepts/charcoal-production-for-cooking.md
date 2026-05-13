@@ -1,5 +1,5 @@
 ---
-title: Charcoal Production For Cooking
+title: Charcoal Production for Cooking
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
@@ -9,7 +9,7 @@ sources: []
 
 ## Overview
 
-Charcoal is wood that has been heated in the absence of sufficient oxygen to drive off [[mycovolatiles-fungal-volatile-compounds]] (water, methane, hydrogen, tar), leaving behind a carbon-rich fuel that burns hotter, cleaner, and more consistently than raw wood. For off-grid and homestead cooking, producing your own charcoal reduces fuel costs, provides a high-quality cooking fuel, and can create biochar as a soil amendment.
+Charcoal is wood that has been heated in the absence of sufficient oxygen to drive off volatile compounds (water, methane, hydrogen, tar), leaving behind a carbon-rich fuel that burns hotter, cleaner, and more consistently than raw wood. For off-grid and homestead cooking, producing your own charcoal reduces fuel costs, provides a high-quality cooking fuel, and can create biochar as a soil amendment.
 
 ## The Chemistry of Charcoal
 
@@ -28,7 +28,7 @@ Yield varies by method and wood species:
 |--------|----------------------|-------|
 | Earth mound | 15-25% | Traditional, labor-intensive |
 | Pit kiln | 20-30% | Good for small batches |
-| Brick kiln | 25-35% | Better [[hamilton-greenhouse-heating-and-temperature-control]] |
+| Brick kiln | 25-35% | Better temperature control |
 | Retort | 30-40% | Highest yield, captures gases |
 | TLUD gasifier | 25-35% | Produces syngas as byproduct |
 
@@ -140,11 +140,11 @@ Poor quality charcoal is crumbly, lightweight, has a brownish color, produces ex
 Any charcoal production method can produce biochar for soil amendment:
 
 - Quench hot charcoal with water rather than letting it cool slowly (water quenching preserves more micropore structure)
-- Crush charcoal to particle sizes from powder to 1/2 inch
-- Incorporate into compost piles or garden beds at 5-10% by volume
-- Biochar improves soil water retention, [[cation-exchange-capacity]], and microbial habitat
-- "Charge" biochar by soaking in compost tea or mixing with compost before soil application
 
-See [[composting-methods-comparison]] for integration with [[biochar-production-guide]].
+## See Also
 
-## Safety Considerations
+- [[comparison-charcoal-production-for-cooking-vs-solar-cooking-methods]]
+- [[knf-bone-charcoal-preparation]]
+- [[mollison-designers-charcoal-production-biochar-soil-amendment]]
+- [[ingham-charcoal-biochar-compost-tea]]
+- [[ligninolytic-enzyme-production-bioremediation]]

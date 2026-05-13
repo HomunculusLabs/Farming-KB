@@ -8,96 +8,7 @@ type: concept
 
 ## Overview
 
-The [[amazonian-ship-aceropunta-and-visionary-cosmology]] of Amazonian vegetalismo, as documented by [[ayahuasca-preparation-pablo-amaringo-ucayali-shamanism]], extends far beyond the Amazon rainforest to encompass planetary realms, extraterrestrial civilizations, ancient Andean cultures, and elaborate spiritual [[blesching-cannabis-healing-practices-setting-intention-affirmations]]. This upper tier of the spirit world — the ouranian (heavenly) realm — includes beings from distant stars and galaxies who interact with shamans, provide healing technologies, and participate in the broader cosmic order. The healing practices described range from spiritual heart surgery performed by interdimensional doctors to the use of icaros for diagnosing and treating various forms of sorcery and illness.
-
-## Vision of the Planets (Vision 25)
-
-### Solar System Connections
-
-Vegetalistas are described as being able to visit the planets of the solar system with relative ease because they are "not very far away." The vision depicts:
-
-- **Mars**: Shown with four distinct regions — great volcanoes, deep canyons, great craters, and terraces full of deep caves. A spaceship comes from Mars.
-- **Jupiter**: Located beyond Mars
-- **Guibori**: A fairy with her magic blue star, positioned beyond Jupiter
-- **Saturn, Uranus, Neptune, and Pluto**: Shown in the centre, all accessible to vegetalistas
-- **Venus**: A spaceship comes from Venus
-- **Comets**: Two travelling very fast, callable by vegetalistas for travel to distant places in the universe
-
-### Terrestrial Spirit Beings
-
-- **Nina-runa**: A being with hair of fire, called upon by shamans as protection
-- **Hikko**: A magician
-- **Maullayruna**: A great shaman
-- **Two beings with old documents**: Keepers of a tunnel leading to the Supreme Divinity
-
-### Aquatic and Plant Connections
-
-Near the Sachamama, five men who are actually pink dolphins gather leaves of puka-gramalote, a red plant. The spirits of the dolphins appear as translucent women floating above them. Mermaids emerge from the river near a fountain with water capable of giving strength.
-
-## The Tiahuanaco Realm (Vision 26)
-
-### Ancestral Andean Beings
-
-The vision centres on two people from the Tiahuanaco culture of Lake Titicaca: Papamtu'a ("father that takes care of everybody") and Mamamtu'a ("mother of all human beings"). They maintain contact with huaira-cuchas — beings from distant galaxies with skin as white as paper.
-
-### Round Pyramids and Persivann
-
-Several ruiro-piramides (round pyramids), also called allpahuichcan (round tombs), rise from a mystical city called Persivann, located in the magical esoteric triangle of the radiant Pleiades. People of great wisdom emerge from these pyramids, expert in cryptesthesia (the ability to perceive without ordinary senses).
-
-### Spirit Animals
-
-- **White monkey**: Accompanies healers
-- **Black monkey**: Accompanies sorcerers
-- **Red monkey**: Accompanies vegetalistas who can both heal and cause harm
-
-### Protective and Transformative Beings
-
-- **Huatanruna** (people that tie): Snakes that spiritually take apart the vegetalista's body
-- **Muyuyruna** (turning people): Two beings who move like discs and take care of the vegetalista's heart
-- **Nitimushcanpoma** (crushing tigers): Jaguars with human heads and hair made of snakes
-
-### The Golden Bull and Star Ayahuasca
-
-The kuri-toro (golden bull) has an icaro used to cure manchari (fright sickness). Behind it grows the lucero ayahuasca (star ayahuasca), whose leaves are like boats and also like hummingbirds, carrying people from Antares who teach new medicinal techniques.
-
-### Manchay Barayuc
-
-A giant soldier from a city in the Pleiades whose body is made of triangles — representing a being of pure geometric form from an advanced extraterrestrial civilization.
-
-## Spirits Descending on a Banco (Vision 27)
-
-### The Banco Shaman
-
-The banco is a specialized type of shaman who receives visits from sublime masters of medicine while lying beneath a mosquito net. Beside him are bottles of aguardiente (cane liquor) for session participants who wait outside to converse with the descending masters.
-
-### The Three Kings
-
-Three beings sit on the banco:
-
-1. **Maucanuelotz** ("the oldest king"): A wise man with white hair, expert in occult science
-2. **Chaimibaco**: A prince sitting to Maucanuelotz's right
-3. **Huambrarrah**: A prince sitting to his left
-
-Together they devise powerful medicine and sublime love magic, and can grant great fortune. Other beings play instruments and sing icaros, executing the banco's wishes.
-
-### Magical Beings and Objects
-
-- **Fadanat**: A great magician woman with a thousand faces, guardian of immense subterranean mines, whose face appears in a magical vessel
-- **Jergón-sacha** (*Dracontium loretense*, *D. longipes*): A plant with a coiled snake, used to heal snakebites
-- **Puka-purahua**: A great water snake with magnetic rays shooting from her eyes, capable of attracting anything from above. Can transform into boats of various shapes.
-- **Papastrueno plant** (*Dioscorea sp.*): Found in high jungle hills, looking like a golden heart. When ingested with a special diet, it grants power to control rain, wind, and thunderbolt.
-- **Mannhuaira**: A terrible wind spirit with its manifestation Killo-runa (golden man), wearing a red hat with yellow ribbon. This spirit takes the soul of anyone who fears him, causing headaches and bodily illness. Only a vegetalista can heal the afflicted person with the appropriate icaro.
-- **Sachamama with rainbow eyes**: Near a medicinal plant called maramara (unidentified)
-
-### Extraterrestrial and Angelic Presence
-
-A flying saucer from one of Saturn's satellites appears above, accompanied by two angels armed with swords and spherical shields.
-
-## Spiritual Heart Operation (Vision 28)
-
-### The Healing Narrative
-
-This is a first-person account from 1959, when Amaringo arrived in Tamanco. His father took him to a settlement called Brazil, where a woman named Maria Pacaya lived. The father needed to cure several patients and took ayahuasca, also giving the brew to Amaringo, who was suffering from [[blesching-cannabis-cardiovascular-heart-disease-evidence-review]].
+The [[ayahuasca-preparation-pablo-amaringo-ucayali-shamanism]], extends far beyond the Amazon rainforest to encompass planetary realms, extraterrestrial civilizations, ancient Andean cultures, and elaborate spiritual [[blesching-cannabis-cardiovascular-heart-disease-evidence-review]].
 
 The brew was so strong that Amaringo was at the edge of screaming. The visions were vivid enough that he felt contact with something physical and real. He saw sphinxes and visited Africa, Europe, and the Americas.
 
@@ -144,7 +55,90 @@ A pregnant woman in the foreground illustrates the belief that all of the mother
 
 ## Related Topics
 
-- [[ayahuasca-ceremony-and-mariri-system]]
 - [[shamanic-sorcery-types]]
-- [[forest-spirits-and-subaquatic-world]]
 - [[yakuruna-aquatic-spirit-world]]
+
+## Overview
+
+Planetary Spirits Spiritual Healing represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish planetary spirits spiritual healing
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving planetary extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Planetary Spirits Spiritual Healing finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for planetary spirits spiritual healing. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+planetary spirits spiritual healing and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Planetary Spirits Spiritual Healing has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of planetary spirits spiritual healing into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[amazonian-boa-spirits-and-water-beings-in-shamanic-practice]]
+- [[ayahuasca-plant-spirits-sacha-huarmi-piripiri-icaro-healing]]
+- [[mckenna-gaian-holism-vegetable-mind-planetary-intelligence]]
+- [[sachamama-and-forest-spirits]]
+- [[yakuruna-water-spirits]]

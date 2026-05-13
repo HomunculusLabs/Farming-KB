@@ -10,14 +10,7 @@ sources:
 
 # Solomon on Transplanting and Hardening Off
 
-From [[steve-solomon]].
-
-## Solomon's Preference: Direct Seeding Over Transplanting
-
-Solomon strongly advocates direct seeding as the primary method for most vegetables, arguing that the nursery/seedling industry developed primarily to serve two markets: (1) people who garden as a minor hobby and are willing to accept poor results, and (2) market gardeners in cool maritime climates where some crops simply cannot mature without a head start.
-
-### Problems with Transplants
-- **Shock**: Even hardened-off seedlings experience [[query-how-to-prevent-transplant-shock-when-moving-cannabis-plants]], losing days or weeks of growth
+From [[query-how-to-prevent-transplant-shock-when-moving-cannabis-plants]], losing days or weeks of growth
 - **Root disturbance**: Most vegetables have root systems that resent disturbance; cutting or circling roots from container growing permanently damages the plant
 - **Succulence**: Greenhouse-grown seedlings are always lush and succulent, having been pushed for maximum growth rates with high fertility and regular watering. This makes them:
   - More attractive to pests (especially flea beetles)
@@ -79,11 +72,79 @@ When direct seeding, Solomon recommends sowing several seeds per station (3-5 fo
 
 ## Related
 
-- [[solomon-planting-and-transplanting-guide]]
 - [[vegetable-transplanting-and-hardening-off]]
 
-- [[solomon-complete-organic-fertilizer-guide]]
 - [[solomon-row-covers-and-season-extension]]
-- Raised Beds vs. [[comparison-double-digging-vs-no-till]]
+- Raised Beds vs. [[solomon-raised-beds]] Vs Double Digging
 
-## Merged: [[solomon-raised-beds]] Vs Double Digging
+## Overview
+
+Solomon Transplanting And Hardening Off represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish solomon transplanting and hardening off
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving solomon extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Solomon Transplanting And Hardening Off finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for solomon transplanting and hardening off. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+solomon transplanting and hardening off and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Solomon Transplanting And Hardening Off has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of solomon transplanting and hardening off into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions

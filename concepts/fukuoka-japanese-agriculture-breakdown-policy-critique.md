@@ -6,7 +6,7 @@ type: concept
 
 # The Breakdown of Japanese Agriculture
 
-Masanobu Fukuoka's second chapter presents a sweeping indictment of the forces that
+[[masanobu-fukuoka]]'s second chapter presents a sweeping indictment of the forces that
 dismantled Japan's traditional farming culture and replaced it with an industrialized,
 policy-driven system that impoverishes both the land and the farmer. His analysis weaves
 cultural history, economics, and philosophy to argue that modern agriculture represents
@@ -61,18 +61,7 @@ The arrival of the **motorized transport-tiller** marked the major turning point
 Horse-drawn plows gave way to tillers, which gave way to full-sized tractors. Motorized
 sprayers were eventually abandoned in favor of helicopter spraying — removing the
 farmer from the field almost entirely. Traditional farming with draft animals and
-organic inputs was replaced by heavy [[cannabis-chemical-fertilizers]] and pesticides. Each step of
-mechanization lit fires for the machine industry revival, while demand for pesticides
-and fertilizers laid the foundation for Japan's postwar chemical industry expansion.
-Agriculture became not a way of life but a market for industrial products.
-
-By the mid-1950s a food surplus emerged. The late 1960s and early 1970s brought
-economic vigor, and political attention turned toward farmland as a resource to be
-exploited rather than protected.
-
-## Impoverished National Agricultural Policy
-
-Fukuoka reserves his harshest criticism for the **1961 [[fukuoka-textdoc-basic-agriculture-law-japan-food-self-sufficiency-crisis]]**, which
+organic inputs was replaced by heavy [[fukuoka-textdoc-basic-agriculture-law-japan-food-self-sufficiency-crisis]]**, which
 established systematic controls over farmers and "passed the reins" to the financial
 community. Under this law, the public was encouraged to view farmland as better used
 for industry and housing than for growing food. Farmers came to be seen as "selfish
@@ -101,16 +90,7 @@ in the United States was twice that of Japan, and in France it was three times g
 ## US Agriculture: A Cautionary Comparison
 
 During a 1979 visit to the United States, Fukuoka observed a system that confirmed his
-worst fears. [[fukuoka-american-agriculture-fields-of-death]] was dominated by livestock farming where grazing had
-destroyed natural grass ecology. Low land productivity drove farmers toward ever-larger
-operations and bigger machinery — a cycle he calls "big iron." This heavy equipment
-breaks down soil structure, initiating a negative feedback loop: degraded soil demands
-more chemicals, which further degrades the soil, which demands still larger machines.
-
-His conclusion is counterintuitive but carefully supported: agriculture that ignores
-nature and relies on human intellect is fundamentally unprofitable. American farmers on
-500 to 700 acres had smaller net incomes than Japanese farmers on 3 to 5 acres. Scale
-did not produce prosperity; it produced dependency. "[[night-break-photoperiodism-manipulation-commercial-agriculture]] with
+worst fears. [[night-break-photoperiodism-manipulation-commercial-agriculture]] with
 large-scale monoculture farming," he warns, is inherently fragile.
 
 ## Warnings on Genetic Engineering

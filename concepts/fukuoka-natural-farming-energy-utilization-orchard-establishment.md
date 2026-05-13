@@ -8,13 +8,7 @@ type: concept
 
 ## Energy Cycles in the Rice Paddy
 
-In Fukuoka's natural farming, the rice paddy functions as a complex, self-sustaining energy cycle. [[green-manure-crops]] such as clover absorb solar energy during their growth phase. When the field is flooded for rice planting, the green manure withers and decomposes, releasing its stored nitrogen into the water. This nitrogen is taken up by algae, which proliferate and in turn become a phosphate source. Microorganisms then consume this phosphate and, upon dying, release nutrients that are absorbed by the rice roots. The entire process is a closed loop of energy and nutrient transfer, driven by the sun and mediated by the interplay of plants, algae, and soil microorganisms.
-
-Fukuoka regarded this interconnected web of energy and material cycles with profound reverence:
-
-> "If man were able to comprehend all these cycles of energy and elements at once, this would become a science greater than any other."
-
-He criticized the reductionist tendency of [[fukuoka-critique-agricultural-science-laws-liebig]] to isolate single variables. In his view, focusing narrowly on photosynthetic efficiency misses the forest for the trees:
+In Fukuoka's natural farming, the rice paddy functions as a complex, self-sustaining energy cycle. [[fukuoka-critique-agricultural-science-laws-liebig]] to isolate single variables. In his view, focusing narrowly on photosynthetic efficiency misses the forest for the trees:
 
 > "How foolish to focus only on solar energy apart from the rest of nature and think that merely by examining the amount of starch synthesis in the leaves of rice plants, one can gauge utilization of the sun's energy."
 
@@ -50,37 +44,13 @@ The watermelons grow on their own; the guardian merely removes obstacles. Nature
 
 > "Nature protects itself and sees to the boundless growth of the organisms that inhabit it. Man is one of these; he is neither in control nor a mere onlooker."
 
-By contrast, [[critique-of-scientific-agriculture]] narrows its focus to human preference:
+By contrast, [[fukuoka-illusions-of-scientific-farming]] consists of producing specific crops selected from the natural world to suit our human cravings."
 
-> "[[fukuoka-illusions-of-scientific-farming]] consists of producing specific crops selected from the natural world to suit our human cravings."
-
-Yet even nature has limits. The solar energy received by any given field is finite, and so there is an upper bound on [[what-natural-farming-method-should-i-use]] can produce. Fukuoka did not see this as a deficiency but as a reminder of proper scale and perspective:
-
-> "There is a limit to the yields attainable through natural farming."
-
-The sun's energy, vast as it is, becomes limited when viewed through the lens of human appetite:
-
-> "The power of the sun is vast and unlimited when seen from the standpoint of Mu, but when made the object of man's wants and cravings, even the sun's power becomes small and finite."
-
-This leads to a radical conclusion about the futility of technological overreach:
-
-> "Science cannot produce yields that exceed those possible through nature. Effort rooted in human knowledge is without avail. The only course that remains is to relinquish deeds and plans."
-
-## Establishing an Orchard
-
-Fukuoka's approach to orchard establishment mirrors his methods for reforestation. The first principle is to avoid mechanical clearing. Using a bulldozer strips away the humus-rich topsoil that represents centuries of soil building:
-
-> "Land developed with a bulldozer and left virtually bare for ten years is washed free of its topsoil."
-
-Instead, vegetation should be felled by hand and the material arranged along the contour lines of the hillside. Left to decompose naturally, this organic matter serves multiple functions: it becomes fertilizer as it breaks down, suppresses weed growth, prevents soil erosion from rainfall, and stimulates the microorganisms that build healthy soil structure.
-
-The [[fukuoka-natural-fertility-cycle]] of undisturbed soil is remarkable:
+Yet even nature has limits. The solar energy received by any given field is finite, and so there is an upper bound on [[fukuoka-natural-fertility-cycle]] of undisturbed soil is remarkable:
 
 > "One foot of topsoil holds enough nutrients to sustain fruit trees for ten years without fertilization; similarly, three feet of rich soil can probably supply enough nutrients for about thirty years."
 
-Tree roots themselves play an active role in soil health. They contribute to soil aggregation and structure, serve as a direct nutrient source through [[query-what-are-root-exudates-and-how-do-they-shape-soil-life]] eventual decomposition, and perform chelating action that solubilizes otherwise insoluble nutrients, making them available to the tree and neighboring plants.
-
-A key principle of the [[fukuoka-natural-orchard-development]] is complete nutrient recycling:
+Tree roots themselves play an active role in soil health. They contribute to soil aggregation and structure, serve as a direct nutrient source through [[fukuoka-natural-orchard-development]] is complete nutrient recycling:
 
 > "None of the vegetation cut down in the orchard should be carried away."
 
@@ -127,8 +97,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[fukuoka-natural-farming]]
 - [[natural-farming]]
-- [[det]]
 - [[ghb]]
 - [[decomposition]]

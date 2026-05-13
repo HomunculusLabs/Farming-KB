@@ -21,7 +21,7 @@ sources:
 
 The core endorhiza community of cannabis consists of bacterial taxa consistently present across different cultivars, soil types, and growing conditions. Winston et al. (2014) identified six major bacterial groups comprising the universal core community within cannabis root tissues.
 
-These are [[sour-diesel]], [[maui-wowie]].
+These are [[maui-wowie]].
 
 These span both Cannabis sativa and indica genetic backgrounds and were grown in multiple soil types across two separate experiments in Vista and Orange County, California. The persistence of these taxa across such diverse conditions indicates robust colonization ability.
 
@@ -31,41 +31,9 @@ The core microbiome concept implies these taxa provide essential services regard
 
 ### Pseudomonas
 
-[[sphingomonas-wittichii-cannabis-endorhiza-strain-specificity]].
+[[fungal-calcium-oxalate-crystals]] crystals are common in cannabis tissues.
 
-This suggests potential keystone interactions within the core community that affect overall community stability and function.
-
-### Cellvibrio
-
-Cellvibrio was part of the core community but showed dramatically different abundances between experiments. In the post-harvest first experiment, Cellvibrio comprised 16.9% of the endorhiza community (SD = 13.0%).
-
-In actively growing plants of the second experiment, it comprised only 0.095% (SD = 2.7%). This difference was attributed to root decay, as Cellvibrio is a known aerobic cellulytic bacterium.
-
-Its low-level presence in living plants may represent genuine endophytic colonization, while its post-harvest dominance reflects opportunistic decomposition of dying root tissue. This dramatic abundance shift makes Cellvibrio a useful indicator of sampling timing and root health status.
-
-### Oxalobacteraceae
-
-The family Oxalobacteraceae (order Burkholderiales, class Betaproteobacteria) was a consistent core component. Members are common in soil and rhizosphere environments, and some species degrade oxalic acid.
-
-Oxalic acid is a compound produced by many plants that can be toxic at elevated concentrations. This detoxification service may be particularly relevant for cannabis, as [[fungal-calcium-oxalate-crystals]] crystals are common in cannabis tissues.
-
-Oxalate-degrading endophytes could prevent crystal formation and associated cellular damage in root tissues, explaining their consistent selection across all cultivars through the [[two-tier-selection-model]]. This enrichment suggests the endorhiza environment selectively favors actinomycete traits such as filamentous growth aiding tissue colonization.
-
-### Sphingobacteriales
-
-Sphingobacteriales (phylum Bacteroidetes) completed the core community. Members are adapted to diverse environments including soil, freshwater, and plant-associated habitats.
-
-They are known for degrading complex carbohydrates and producing flexirubin-type pigments. Their consistent presence suggests a functional role in carbohydrate metabolism within the root environment, potentially processing root-derived polysaccharides and cell wall debris.
-
-## Phylum-Level Community Shifts
-
-At the phylum level, the core endorhiza community is dominated by Proteobacteria, consistent with observations from other plant systems. The bulk soil to endorhiza transition is characterized by dramatic Acidobacteria decrease and corresponding Proteobacteria and Actinobacteria increase.
-
-The most significant individual OTU shift was the decrease in Acidobacteria from order Solibacterales (iii1-15) in endorhiza samples (Bonferroni-corrected ANOVA: p = 1.12e-7).
-
-Of the 51 OTUs significantly differentiating sample types, 17 increased in abundance within the endorhiza relative to the rhizosphere. These were predominantly Proteobacteria from the Rhizobiales order.
-
-Mean abundance correlations declined progressively across compartments: bulk soil to rhizosphere (Pearson rho: 0.92), rhizosphere to endorhiza (rho: 0.63), bulk soil to endorhiza (rho: 0.42). This declining correlation mirrors the alpha [[alpha-diversity-gradient-bulk-soil-cannabis-endorhiza]].
+Oxalate-degrading endophytes could prevent crystal formation and associated cellular damage in root tissues, explaining their consistent selection across all cultivars through the [[alpha-diversity-gradient-bulk-soil-cannabis-endorhiza]].
 
 ## Core Versus Cultivar-Specific Communities
 
@@ -77,49 +45,97 @@ Cultivars modulate abundances within the existing soil-derived community rather 
 
 ## Functional Implications for Cultivation
 
-The core endorhiza community provides multiple simultaneous services. Pseudomonas contributes [[singh-fungal-siderophore-production-iron-acquisition]], pathogen suppression, and growth promotion. Oxalobacteraceae provides oxalate detoxification.
-
-Actinomycetales contribute antibiotic production and polymer degradation. Xanthomonadaceae contribute nutrient cycling and stress tolerance. Sphingobacteriales contribute carbohydrate degradation.
-
-This functionally diverse consortium addresses multiple plant needs simultaneously. Understanding core taxa functions and their interactions with cultivar-specific members could guide bioinoculant development for [[query-how-does-no-till-cannabis-cultivation-work]].
+The core endorhiza community provides multiple simultaneous services. Pseudomonas contributes [[query-how-does-no-till-cannabis-cultivation-work]].
 
 Core community inoculants would provide baseline benefits across cultivars, while cultivar-specific additions could optimize performance for particular genetic backgrounds. The challenge lies in developing formulations that include core organisms capable of colonizing all cannabis genotypes while also including cultivar-specific components that are only beneficial for targeted cultivars.
 
 ## Limitations of Current Knowledge
 
-The core community was defined based on 16S rRNA gene sequencing from five cultivars grown in California soils. Broader sampling across different geographic regions, soil types, and [[synthetic-log-cultivation-methods-guide]] (indoor, outdoor, greenhouse) would test whether this core is truly universal or represents a regional subset.
+The core community was defined based on 16S rRNA gene sequencing from five cultivars grown in California soils. Broader sampling across different geographic regions, soil types, and [[cannabis-sativa]]
+- [[dom]]
+- [[sour-diesel]]
+
+## Overview
+
+Core Endorhiza Bacterial Community Composition Cannabis represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish core endorhiza bacterial community composition cannabis
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving core extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
 
 ## Practical Applications
 
-The principles and techniques discussed here have wide-ranging applications
-across multiple disciplines and contexts. Practitioners and researchers
-continue to explore new ways to integrate these concepts into modern practice,
-adapting traditional knowledge to contemporary challenges and opportunities.
+Core Endorhiza Bacterial Community Composition Cannabis finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
 
-## Key Considerations
+## Management and Implementation
 
-Several important factors influence the effectiveness and outcomes described
-in this topic. Understanding these considerations helps practitioners make
-informed decisions and avoid common pitfalls. Environmental conditions,
-timing, and material selection all play critical roles.
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for core endorhiza bacterial community composition cannabis. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+core endorhiza bacterial community composition cannabis and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
 
 ## Historical Context
 
-The historical development of this subject reflects centuries of accumulated
-knowledge and practical experience. From traditional methods passed down
-through generations to modern scientific approaches, the evolution continues
-to inform current best practices and research directions.
+Core Endorhiza Bacterial Community Composition Cannabis has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
 
-## Common Challenges
+## Integration Strategies
 
-Practitioners frequently encounter several challenges when working with
-these concepts. Climate variability, resource limitations, and knowledge
-gaps can all affect outcomes. Addressing these challenges requires patience,
-observation, and a willingness to adapt approaches based on results.
+Successful integration of core endorhiza bacterial community composition cannabis into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
 
 ## See Also
-- [[cannabis-sativa]]
+
+- [[cannabis-core-endorhiza-taxa-xanthomonadaceae-oxalobacteraceae-actinomycetales]]
 - [[cannabis-endorhiza-core-community-bacterial-endophytes]]
-- [[dom]]
-- [[det]]
-- [[sour-diesel]]
+- [[cannabis-endorhiza-core-microbiome-pseudomonas-rhizobiales]]
+- [[core-endorhiza-microbiome-proteobacteria-enrichment-cannabis]]
+- [[core-microbiome-cannabis-endorhiza]]

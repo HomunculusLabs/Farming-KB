@@ -10,12 +10,7 @@ tags: [fungi, mycelium, nutrient-transport, pulsatile-flow, scintillation-imagin
 ## Overview
 
 Research by Bebber, Tlalka, and colleagues (Chapter 1 of *Fungi in the
-Environment*) revealed that saprotrophic [[singh-basidiomycete-fungi-in-petroleum-hydrocarbon-cleanup]] transport
-nutrients through their mycelial networks not by steady bulk flow but by
-pronounced **pulsatile oscillations** — rhythmic surges of amino acid
-movement superimposed on net translocation patterns. This discovery was
-made possible by a novel non-invasive imaging technique: photon-counting
-[[pcsi-scintillation-imaging-mycelial-nutrient-transport-bebber]] (PCSI) of radiolabelled compounds.
+Environment*) revealed that saprotrophic [[pcsi-scintillation-imaging-mycelial-nutrient-transport-bebber]] (PCSI) of radiolabelled compounds.
 
 ## Photon-Counting Scintillation Imaging (PCSI)
 
@@ -69,16 +64,7 @@ In larger microcosms with wood-block inocula and compressed sand:
 - Within **4 hours**, signal was present in most of the growing mycelium
   subtended by that cord
 - Not all cords transported simultaneously, suggesting selective
-  prioritization of [[the-apoplastic-symplastic-and-transcellular-transport-pathways]]
-
-## Growth Phases and Resource Response
-
-Colony development occurred in two distinct phases:
-
-### Phase 1: Symmetric Growth
-- Area growth and nutrient transport were nearly symmetrical around the
-  inoculum
-- Duration depended on [[ph-and-nutrient-availability-garden-soils]] and developmental age
+  prioritization of [[ph-and-nutrient-availability-garden-soils]] and developmental age
 - Described by a logistic equation
 
 ### Phase 2: Asymmetric Foraging
@@ -118,8 +104,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[mycelial-networks]]
 - [[maps]]
-- [[dom]]
 - [[mycelium]]
 - [[fungal-mycelial-networks-nutrient-translocation]]

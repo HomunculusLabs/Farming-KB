@@ -12,7 +12,7 @@ The living organisms within soil constitute one of the most complex and least ap
 
 ### Termites and Ants
 
-Termites and ants function as the [[earthworms]] of deserts and drylands, carrying tons of organic material to underground [[compost]] piles. In some of these mounds, they cultivate fungi to feed their colonies. The upthrown earth from ant mounds and mole hills forms a specific niche — a zone of disturbed, aerated soil — where annual plants can readily seed and wind-blown pioneer trees can establish. If birds are the seed-scatterers of the forest, burrowers are its gardeners.
+Termites and ants function as the [[compost]] piles. In some of these mounds, they cultivate fungi to feed their colonies. The upthrown earth from ant mounds and mole hills forms a specific niche — a zone of disturbed, aerated soil — where annual plants can readily seed and wind-blown pioneer trees can establish. If birds are the seed-scatterers of the forest, burrowers are its gardeners.
 
 ### Earthworms and Crustaceans
 
@@ -32,25 +32,7 @@ Many creatures mix special mudbrick soils with body secretions, and from swallow
 
 Underground fungal spores eaten by squirrels or wallabies are activated by digestive enzymes. They break hibernation to occupy new ground and help the new roots of acorns and eucalypts convert soil minerals and liquids into food. This relationship between animals, fungi, and plant roots represents a three-way symbiosis that is essential for nutrient cycling and plant establishment in natural systems.
 
-Seeds and spores are buried, excavated, hidden, activated, and forgotten by burrowers, and recycled to life or [[humus]] as chance and nature dictate. This constant churning and redistribution is the mechanism by which soil fertility is maintained and renewed in undisturbed ecosystems.
-
-## Root Systems: The Underground Topography
-
-### Root Characteristics
-
-Roots possess their own characteristics that parallel those of aerial plant parts:
-
-- **Penetrations** (depth): The depth to which roots extend
-- **Patterns** (spread): The horizontal extent and architecture of root systems
-- **Schedules**: Seasonal patterns of growth and activity
-- **Migrations**: Seasonal movement toward or away from the surface
-- **Deciduous equivalents**: Dying off and sloughing of root branches and bark
-
-There exists a topography of plants underground that parallels the canopy structure above ground. However, there are fundamental differences: underground storage organs including ligno-tubers, tubers, bulbs, and rhizomes are very common, serving as fire-resistant survival structures and nutrient reserves.
-
-### Root Depth and Diversity
-
-Agricultural crops typically exploit soil from 0.6–4 meters below the surface. Some trees may penetrate to 50 meters (164 feet) in deep desert sands. The root system of a single bluegum eucalypt ([[eucalyptus-globulus]]) can easily embrace 1.5 hectares underground. Forests are so complex and even intergrafted below ground that their aerial canopy seems simple by comparison.
+Seeds and spores are buried, excavated, hidden, activated, and forgotten by burrowers, and recycled to life or [[eucalyptus-globulus]]) can easily embrace 1.5 hectares underground. Forests are so complex and even intergrafted below ground that their aerial canopy seems simple by comparison.
 
 Many desert plants lead long and sturdy underground lives while appearing thin, straggly, and ephemeral above ground. Their below-ground biomass often vastly exceeds what is visible, representing an investment in water and nutrient storage that enables survival through extended drought.
 
@@ -102,3 +84,11 @@ A traditional Navajo saying captures the essential relationship between burrowin
 In the 1950s, amused scientists recommended the extermination of all burrowing animals in desert areas planted to rangelands, believing there was no conceivable relationship between prairie dogs and rainfall. Today, the area near Chilchinbito, Arizona, has become a virtual wasteland due to fierce runoff, soil compaction, and lack of fresh seedbed. The prairie dog burrows had served as water sinks, causing runoff to flood down into them and germinating stored underground seed — a function that their extermination eliminated entirely.
 
 On the Page ranch, where prairie dog burrows were instead used as water infiltration points and runoff was directed into them, the opposite effect was achieved: the land became productive dryland pasture. This example illustrates how understanding and working with underground biology can make the difference between landscape degradation and landscape productivity.
+
+## See Also
+
+- [[termites-ants-tropical-soil-ecology]]
+- [[clay-soil-management-solomon]]
+- [[teaming-with-microbes-mulch-and-soil-food-web]]
+- [[hamilton-geoffhamilton-nick-organic-gardening-soil-types-and-management]]
+- [[hamilton-alternative-soil-conditioners]]

@@ -42,84 +42,81 @@ based approach.
 **David Holmgren** (born 1955) joined Mollison at Hobart's Environmental
 Design School in 1973. Their intense three-year collaboration produced the
 permaculture concept. Holmgren maintained Melliodora, one of Australia's best-
-known demonstration sites, in [[holmgren-melliodora-permaculture-demonstration-site-hepburn-springs]], Victoria.
-
-## Key Publications
-
-- **Permaculture One** (1978) — Mollison & Holmgren; the foundational text
-- **Permaculture: A Designers' Manual** (1988) — Mollison; the comprehensive
-  reference covering design principles, patterns, climates, water, soils,
-  earthworks, aquaculture, and social design
-- **Permaculture: Principles & Pathways Beyond Sustainability** (2002) —
-  Holmgren; the definitive articulation of permaculture's 12 design principles
-
-The Designers' Manual argues that modern agriculture and monocultural forestry
-are unsustainable, calling into question "the very need for formal food
-agriculture if wastelands and excessive lawn culture within towns and cities
-are devoted to food production and small livestock suited to local needs."
-
-## Core Ethics
-
-1. **Earth Care** — Provision for all life systems to continue and multiply.
-   Healthy ecosystems are the foundation of all human activity.
-2. **People Care** — Provision for people to access resources necessary for
-   their existence without degrading supporting systems.
-3. **Fair Share** — Governing needs so surplus resources support Earth Care
-   and People Care. Infinite growth on a finite planet is impossible.
-
-## The Twelve Design Principles
-
-Holmgren's 12 principles, each with an associated proverb:
-
-1. **[[holmgren-observe-and-interact-detailed]]** — "Beauty is in the eye of the beholder."
+known demonstration sites, in [[holmgren-observe-and-interact-detailed]]** — "Beauty is in the eye of the beholder."
 2. **Catch and Store Energy** — "Make hay while the sun shines."
 3. **Obtain a Yield** — "You can't work on an empty stomach."
 4. **Apply Self-Regulation and Accept Feedback** — "The sins of the fathers
    are visited on the children unto the seventh generation."
-5. **Use [[permaculture-principle-use-and-value-renewable-resources]] Resources** — "Let nature take its course."
-6. **[[holmgren-produce-no-waste-waste-hierarchy-refuse-reduce-reuse-repair-recycle]]** — "Waste not, want not."
-7. **Design from [[permaculture-principle-design-from-patterns-to-details]]** — "Can't see the wood for the trees."
-8. **[[permaculture-integrate-rather-than-segregate]] Segregate** — "Many hands make light work."
+5. **Use [[holmgren-produce-no-waste-waste-hierarchy-refuse-reduce-reuse-repair-recycle]]** — "Waste not, want not."
+7. **Design from [[permaculture-integrate-rather-than-segregate]] Segregate** — "Many hands make light work."
 9. **Use Small and Slow Solutions** — "The bigger they are, the harder they
    fall."
-10. **Use [[permaculture-principle-use-and-value-diversity]]** — "Don't put all your eggs in one basket."
-11. **Use Edges and Value the Marginal** — "Don't think you're on the right
-    track just because it's a well-beaten path."
-12. **Creatively Use and [[permaculture-principle-creatively-use-and-respond-to-change]]** — "Vision is not seeing things as
+10. **Use [[permaculture-principle-creatively-use-and-respond-to-change]]** — "Vision is not seeing things as
     they are but as they will be."
 
 ## See Also
 
-- [[permaculture-almond-guide]]
 - [[permaculture-appropriate-technology-design]]
-- [[permaculture-asparagus]]
-- [[permaculture-core-design-principles-mollison]]
-- [[permaculture-core-principles]]
 - [[permaculture-cycles-mollison]]
-- [[permaculture-designers-manual-overview]]
 - [[permaculture-designers-manual-settlement-types]]
-- [[permaculture-designers-manual-village-design]]
 - [[permaculture-diversity-and-stability]]
-- [[permaculture-energy-hierarchy]]
 - [[permaculture-ethics-and-design-principles]]
-- [[permaculture-fennel]]
-- [[permaculture-forest-pasture-polyculture]]
-- [[permaculture-goat-raising]]
 - [[permaculture-groundnut]]
-- [[permaculture-history-timeline]]
 - [[permaculture-hops]]
-- [[permaculture-neem-and-indian-beech-utility-trees]]
-- [[permaculture-pattern-references-and-design-checklist]]
-- [[permaculture-pistachio-guide]]
 - [[permaculture-plants-climbers-and-vines]]
-- [[permaculture-resource-categories]]
-- [[permaculture-resource-categories-and-yield-dispersal]]
-- [[permaculture-resource-classification]]
-- [[permaculture-resources-classification]]
-- [[permaculture-settlement-siting-fire]]
 - [[permaculture-taro-guide]]
-- [[permaculture-two-species-compendium]]
 - [[permaculture-urban-design-apartments-balconies]]
-- [[permaculture-walnut-species-timber-nut-production]]
-- [[permaculture-water-chestnut-guide]]
-- [[permaculture-water-design-checklist]]
+
+## Overview
+
+Permaculture represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish permaculture
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving permaculture extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Permaculture finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for permaculture. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+permaculture and its applications. Active investigation

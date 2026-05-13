@@ -21,7 +21,7 @@ Bill Mollison addresses hurricanes and cyclones as major landscape forces
 that demand specific design responses. In cyclonic or hurricane areas,
 catastrophic winds may become the overriding design modification around
 which all other factors must be arrayed. This page covers the behavior
-of tropical cyclones and the permaculture strategies for designing
+of tropical cyclones and the [[permaculture]] strategies for designing
 resilient settlements and landscapes.
 
 ## Understanding Hurricanes and Cyclones
@@ -71,18 +71,80 @@ become paramount:
 
 ## Key Principles
 
-1. In cyclonic areas, [[cervantes-wind-protection-outdoor-cannabis]] overrides all other design factors.
-2. Design refuge structures as the first priority in hurricane zones.
-3. Site settlements above storm surge lines on well-drained hillside
-  locations.
-4. Use multiple rows of wind-resistant species for gradual wind
-  reduction.
-5. Plan for evacuation routes and emergency shelter access.
-6. Build stoutly from the outset rather than waiting for destruction to
-  teach the lesson.
-## See Also
-- [[bill-mollison]]
-- [[mollison-course-swales-and-earthworks-design]]
+1. In cyclonic areas, [[bill-mollison]]
 - [[mollison-pdc-small-pond-frog-habitat-design]]
-- [[mollison-designers-food-forest-succession-design]]
 - [[mollison-designers-high-island-and-tropical-valley-design]]
+
+## Overview
+
+Mollison Hurricane And Cyclone Resilient Design represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish mollison hurricane and cyclone resilient design
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving mollison extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Mollison Hurricane And Cyclone Resilient Design finds practical application in multiple design contexts.
+[[permaculture-principles]] guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for mollison hurricane and cyclone resilient design. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+mollison hurricane and cyclone resilient design and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Mollison Hurricane And Cyclone Resilient Design has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of mollison hurricane and cyclone resilient design into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource

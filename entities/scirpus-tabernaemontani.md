@@ -19,15 +19,13 @@ sources:
 
 ## Overview
 
-Scirpus tabernaemontani, commonly known as softstem bulrush, is a perennial emergent aquatic sedge in the family Cyperaceae. It is one of the most widespread and ecologically important bulrush species in [[growing-gourmet-north-american-reishi-species]] wetland ecosystems, forming extensive monotypic stands along lake margins, river corridors, and constructed treatment wetlands.
-
-The species is closely related to and frequently confused with hardstem bulrush (Schoenoplectus acutus, syn. Scirpus acutus), but can be distinguished by its softer, easily compressed stems and more delicate overall architecture. Softstem bulrush plays a critical role in [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]], sediment stabilization, and wildlife habitat provision across its range.
+Scirpus tabernaemontani, commonly known as softstem bulrush, is a perennial emergent aquatic sedge in the family Cyperaceae. It is one of the most widespread and ecologically important bulrush species in [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]], sediment stabilization, and wildlife habitat provision across its range.
 
 Its ability to form dense, monospecific stands covering hectares of wetland surface makes it one of the most recognizable components of North American marsh landscapes. These stands persist for decades through vegetative reproduction, with individual genets potentially exceeding 100 years in age through continuous rhizome growth.
 
 ## Taxonomy
 
-Scirpus tabernaemontani was first described by the German botanist Johann Christian Daniel von Schreber in 1789, honoring the sixteenth-century herbalist Jacobus Theodorus Tabernaemontanus. The species has undergone considerable taxonomic revision and is currently placed in the genus Schoenoplectus by many authorities (Schoenoplectus tabernaemontani), though the traditional Scirpus placement remains widely used in ecological and wetland management literature.
+Scirpus tabernaemontani was first described by the German botanist Johann Christian Daniel von Schreber in 1789, honoring the sixteenth-century herbalist Jacobus Theodorus Tabernaemontanus. The species has undergone considerable taxonomic revision and is currently placed in the genus Schoenoplectus by many authorities ([[schoenoplectus-tabernaemontani]]), though the traditional Scirpus placement remains widely used in ecological and wetland management literature.
 
 The genus Schoenoplectus is distinguished from other Cyperaceae genera by its cylindrical, pith-filled stems and reduced leaves. Molecular phylogenetic studies place the genus within the tribe Scirpeae, closely allied with Schoenoplectus acutus and Schoenoplectus lacustris of the S. lacustris complex.
 
@@ -55,11 +53,7 @@ The species is found in freshwater and brackish wetlands including marshes, swam
 
 Softstem bulrush is particularly abundant in prairie pothole wetlands of the northern Great Plains, where it dominates the emergent vegetation zone. It also colonizes disturbed sites readily, including borrow pits, drainage channels, and recently created or restored wetland habitats.
 
-The species shows considerable phenotypic plasticity in response to water depth and [[ph-and-nutrient-availability-garden-soils]]. Deep-water populations develop taller, more slender stems with reduced belowground biomass, while shallow-water or emergent populations invest more heavily in rhizome storage organs. This plasticity contributes to the species' success across heterogeneous wetland landscapes.
-
-## Ecological Role
-
-Softstem bulrush is a foundation species in temperate wetland ecosystems, providing structural habitat complexity and [[lichens-primary-production-soil-formation-dighton]] that supports diverse trophic levels. Dense stands create a three-dimensional matrix of living and dead stems that offers refuge, foraging substrate, and nesting material for numerous animal species.
+The species shows considerable phenotypic plasticity in response to water depth and [[lichens-primary-production-soil-formation-dighton]] that supports diverse trophic levels. Dense stands create a three-dimensional matrix of living and dead stems that offers refuge, foraging substrate, and nesting material for numerous animal species.
 
 Waterfowl including mallards, teal, gadwall, and diving ducks feed extensively on the achenes and tubers during autumn and winter. Muskrat (Ondatra zibethicus) heavily utilizes softstem bulrush for both food and lodge construction, and the distribution of this species is often correlated with muskrat population density.
 
@@ -75,7 +69,7 @@ Aboveground biomass senescence during autumn generates substantial standing litt
 
 ## Cultivation and Restoration
 
-Softstem bulrush is widely used in [[comparison-constructed-wetland-vs-backyard-pond]] systems for municipal [[mollison-designers-wastewater-treatment-wetlands]], stormwater polishing, and mine drainage remediation. The species is effective at removing nitrogen, phosphorus, suspended solids, and heavy metals through a combination of plant uptake, microbial transformation in the rhizosphere, and physical filtration by the dense stem matrix.
+Softstem bulrush is widely used in [[mollison-designers-wastewater-treatment-wetlands]], stormwater polishing, and mine drainage remediation. The species is effective at removing nitrogen, phosphorus, suspended solids, and heavy metals through a combination of plant uptake, microbial transformation in the rhizosphere, and physical filtration by the dense stem matrix.
 
 Propagation is accomplished through rhizome division, stem cuttings, or direct seeding. Rhizome transplants are the most reliable method for large-scale plantings, with optimal establishment occurring when rhizome sections are planted 5–10 cm below the substrate surface in saturated or shallowly flooded conditions.
 

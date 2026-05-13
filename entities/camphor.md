@@ -12,18 +12,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - "Chen, W. et al. (2013). \"Pharmacological effects of camphor.\" Evidence-Based Complementary and Alternative Medicine, 2013, 1–8."
-  - "Duke, J.A. (2002). Handbook of [[permaculture-plants-medicinal-herbs-healing]]. 2nd ed. CRC Press."
-  - "Wichtl, M. (2004). Herbal Drugs and Phytopharmaceuticals. 3rd ed. Medpharm Scientific Publishers."
-  - "De Sousa, D.P. (2011). \"Analgesic-like activity of camphor.\" Revista Brasileira de Farmacognosia, 21(5), 847–852."
-  - "Sullivan, J.B. et al. (2000). \"Camphor poisoning: a persistent problem.\" Journal of Toxicology: Clinical Toxicology, 38(1), 57–60."
----
-
-# Camphor
-
-## Overview
-
-Camphor is a bicyclic monoterpene ketone (C10H16O) with a characteristic penetrating
-aroma. It occurs naturally in the wood of *[[cinnamomum-camphora]]* (camphor tree) and
+  - "Duke, J.A. (2002). Handbook of [[cinnamomum-camphora]]* (camphor tree) and
 in several other aromatic plant species. Historically one of the most important
 commodity terpenes in global trade, camphor has been used for millennia in
 traditional Chinese, Japanese, and Indian medicine.
@@ -69,7 +58,7 @@ Camphor produces multiple pharmacological effects through several receptor syste
 - High doses: generalized CNS depression, seizures (dose-dependent biphasic effect)
 
 **Antimicrobial activity:**
-- Active against Gram-positive bacteria (*[[staphylococcus-aureus]]*, *[[candida-albicans]]* and dermatophytes
+- Active against Gram-positive bacteria (*[[candida-albicans]]* and dermatophytes
 - Insecticidal and moth-repellent properties (basis of naphthalene replacement)
 
 **Topical effects:**
@@ -83,8 +72,78 @@ exceeding 11% camphor are restricted in many jurisdictions.
 
 ## Natural Sources and Biosynthesis
 
-**Primary [[dmt-botanical-sources-pharmacology]]:**
-- *Cinnamomum camphora* (Lauraceae) — the classical camphor tree, native to
-  [[neurotropic-fungi-japan-east-asia-species-cultural-context]]; wood contains 1–3% camphor by dry weight in old trees
+**Primary [[neurotropic-fungi-japan-east-asia-species-cultural-context]]; wood contains 1–3% camphor by dry weight in old trees
 - *Dryobalanops aromatica* (Dipterocarpaceae) — Borneo camphor tree; source of
   (+)-camphor enantiomer, historically traded as "Borneo camphor"
+
+## Overview
+
+Camphor represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish camphor
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving camphor extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Camphor finds practical application in multiple design contexts.
+[[permaculture-principles]] guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for camphor. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+camphor and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Camphor has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of camphor into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions

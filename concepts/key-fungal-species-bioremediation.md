@@ -16,7 +16,7 @@ Phanerochaete chrysosporium is the most extensively studied white-rot fungus for
 
 - **Genome**: Its 30 million base pair genome was the first basidiomycete genome to be sequenced, revealing an extensive repertoire of lignin-degrading and oxidative enzymes.
 
-- **[[singh-ligninolytic-enzymes-fungal-bioremediation]]**: Produces [[fungal-lignin-peroxidase-veratryl-alcohol]] (LiP), [[fungal-manganese-peroxidase-remediation]] (MnP), and hydrogen peroxide-generating enzymes. LiP production increases under nutrient limitation, particularly nitrogen limitation, which triggers secondary metabolism.
+- **[[fungal-lignin-peroxidase-veratryl-alcohol]] (LiP), [[fungal-manganese-peroxidase-remediation]] (MnP), and hydrogen peroxide-generating enzymes. LiP production increases under nutrient limitation, particularly nitrogen limitation, which triggers secondary metabolism.
 
 - **Pesticide degradation**: LiP from P. chrysosporium reduces methoxychlor, and gene amplification for LiP is considered highly significant for enhancing pesticide biodegradation.
 
@@ -50,29 +50,7 @@ The oyster mushroom genus Pleurotus includes several species with strong bioreme
 
 - **P. sajor-caju**: Shows high dye decolorization capacity and PAH degradation capabilities. Combined with P. ostreatus, achieves 99% anthracene and 92% benz[a]anthracene degradation.
 
-- **P. eryngii**: Used in mushroom cultivation-based [[mollison-designers-wastewater-treatment-wetlands]] systems.
-
-- **P. pulmonarius**: Decolorizes 97% of Remazol Brilliant Blue R in corncob solid-state fermentation.
-
-- **P. florida**: Four Pleurotus species produced high amounts of laccase in repeated-batch olive mill wastewater treatment, significantly reducing COD and phenol content.
-
-- **Advantages**: Pleurotus species degrade xenobiotics even in nitrogen-sufficient conditions, unlike P. chrysosporium. They are also edible, enabling combined bioremediation and mushroom production.
-
-## Other Notable Bioremediation Fungi
-
-- **Bjerkandera adusta**: Shows high MnP activity and 95% decolorization of hydrolyzed reactive dyes. Efficient at degrading recalcitrant compounds.
-
-- **Irpex lacteus**: Efficiently colonizes sterile and nonsterile soil by exploratory mycelium from wheat straw inoculum. Degrades 49-52% of anthracene, phenanthrene, fluoranthene, and pyrene.
-
-- **Coriolopsis polyzona**: Effective in olive mill wastewater treatment along with Pleurotus and other species.
-
-- **Nematoloma frowardii**: Depolymerizes low-rank coal-derived humic acids and produces high levels of laccase mRNA in the presence of coal humic substances.
-
-- **Absidia cylindrospora**: During bioaugmentation of contaminated soil, degraded 98% of fluorene within 288 hours, compared to only 54% by native microflora alone.
-
-## Selection Criteria for Bioremediation Applications
-
-Choosing the appropriate fungal species depends on multiple factors: target pollutant type and concentration, environmental conditions (temperature, pH, nutrient levels), soil or water matrix characteristics, required treatment time, and whether the fungus must compete with native microorganisms. [[ligninolytic-enzyme-production-bioremediation]] profiles, growth rates, and [[fungal-lichen-stress-tolerance-and-poikilohydry]] all influence species selection for practical applications.
+- **P. eryngii**: Used in mushroom cultivation-based [[ligninolytic-enzyme-production-bioremediation]] profiles, growth rates, and [[fungal-lichen-stress-tolerance-and-poikilohydry]] all influence species selection for practical applications.
 
 ## Comparative Degradation Efficiency Across Species
 
@@ -86,7 +64,7 @@ The availability of genome sequences for key bioremediation fungi is acceleratin
 
 ## Integration with Mycoremediation Practice
 
-The practical deployment of these species requires addressing the challenges described in [[enzymatic-degradation-in-mycoremediation]] mechanisms and optimizing [[fungal-bioremediation-mechanisms]] and site-specific environmental conditions.
+The practical deployment of these species requires addressing the challenges described in [[fungal-bioremediation-mechanisms]] and site-specific environmental conditions.
 
 ## Practical Applications
 
@@ -117,8 +95,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[pleurotus-species]]
 - [[pcp]]
-- [[pleurotus-ostreatus]]
 - [[laccase]]
 - [[dom]]

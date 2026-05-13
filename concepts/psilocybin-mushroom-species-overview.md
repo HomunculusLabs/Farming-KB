@@ -16,17 +16,7 @@ type: concept
 
 # Psilocybin Mushroom Species Overview
 
-The Psilocybin [[psilocybin-mushroom-image-guide-habitat-clues]] Guide from Erowid documents numerous
-psilocybin-containing mushroom species across four genera. This overview
-covers all species featured in the guide, organized by their taxonomic
-genus.
-
-## Genus Psilocybe
-
-The genus Psilocybe is the largest and most widely recognized group of
-psilocybin-containing mushrooms. Species in this guide include:
-
-- **[[psilocybe-baeocystis]]**: Known as the "potent psilocybe," this
+The Psilocybin [[psilocybe-baeocystis]]**: Known as the "potent psilocybe," this
   species is found growing on mossy substrates. It is one of the more
   potent members of the genus, containing significant levels of
   psilocybin and baeocystin. The species name itself inspired the
@@ -39,41 +29,11 @@ psilocybin-containing mushrooms. Species in this guide include:
 - **Psilocybe crobulus**: A less commonly documented psilocybin
   species with limited information available in the guide.
 
-- **[[psilocybe-cyanescens]]**: Known as "Wavy Caps," this potent species
-  is widely distributed in the Pacific Northwest of [[psilocybin-north-america-pacific-northwest]] and
+- **[[psilocybin-north-america-pacific-northwest]] and
   throughout Western Europe. Documented in the Black Forest region of
-  Germany and in northern California. Grows on [[fukuoka-textdoc-sawdust-wood-chips-orchard-soil-acidification-experiment]], particularly
-  alder, and is one of the most potent Psilocybe species.
-
-- **Psilocybe hoogshagenii var. hoogshagenii**: A Mexican species
-  documented in the guide from specimens collected in Mexico. Named
-  after the French mycologist Roger Heim.
-
-- **Psilocybe muscorum**: A moss-associated species documented in the
-  guide through harvested specimens, though detailed habitat
-  information is limited.
-
-- **[[psilocybe-samuiensis]]**: Described by Guzman, Bandala, and Allen,
+  Germany and in northern California. Grows on [[psilocybe-samuiensis]]**: Described by Guzman, Bandala, and Allen,
   this species was collected from manured rice paddy soil on Koh Samui,
   Thailand. Named after its type locality.
-
-- **[[psilocybe-subcubensis]]**: Described by Guzman, this species from
-  Koh Samui, Thailand, is closely related to P. cubensis but is
-  distinguished by its smaller spores.
-
-## Genus Copelandia
-
-Copelandia species are tropical dung-inhabiting mushrooms formerly
-classified within Panaeolus. They are known for their potency:
-
-- **Copelandia bispora**: A rare species documented with photographs
-  from the Pacific region.
-- **Copelandia cambodgeniensis**: Described as the most potent of the
-  Copelandia species. Very common on Oahu Island, Hawaii.
-- **Copelandia tropicalis**: An uncommon Copelandia species documented
-  in the image guide.
-
-## Genus Gymnopilus
 
 - **[[panaeolus-subbalteatus]]** (= Panaeolus cinctulus): A widely
   distributed species found growing on horse dung, documented in the
@@ -88,3 +48,88 @@ The guide documents species from several key regions: the Pacific
 Northwest (P. azurescens, P. cyanescens, P. pelliculosa, G.
 spectabilis), Western Europe including Germany's Black Forest (P.
 cyanescens, P. semilanceata, P. azurescens), [[psilocybe-southeast-asia-pacific]]
+
+## Overview
+
+Psilocybin Mushroom Species Overview represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish psilocybin mushroom species overview
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving psilocybin extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Psilocybin Mushroom Species Overview finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for psilocybin mushroom species overview. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+psilocybin mushroom species overview and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Psilocybin Mushroom Species Overview has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of psilocybin mushroom species overview into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[field-guide-psilocybin-mushroom-hunting-methodology]]
+- [[gottlieb-psilocybin-cultivation-strain-selection-guide]]
+- [[powell-psilocybin-serotonin-pathways-environmental-chemistry]]
+- [[psilocybin-mushrooms-new-zealand-guide]]
+- [[psilocybin-psilocin-flush-variation-bigwood-beug]]

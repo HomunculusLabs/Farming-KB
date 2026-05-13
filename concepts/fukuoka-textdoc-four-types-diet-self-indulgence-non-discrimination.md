@@ -22,7 +22,7 @@ type: concept
 
 Fukuoka identifies four major types of diet, arranged along a spectrum from the
 most degraded to the most enlightened. This classification parallels his broader
-framework of [[comparison-natural-farming-vs-permaculture]] versus [[fukuoka-illusions-scientific-farming-centrifugal-centripetal-model]], with diet serving as the
+framework of [[fukuoka-illusions-scientific-farming-centrifugal-centripetal-model]], with diet serving as the
 personal expression of one's relationship with nature. Each successive type
 represents a movement centripetally inward, approaching the ideal of Mu
 (non-discrimination).
@@ -33,46 +33,9 @@ The first and lowest type of diet is a lax, self-indulgent diet influenced by th
 external world that submits to cravings and fancies. Directed by the mind, this
 might be called an empty diet. It is the diet of most people in modern consumer
 societies — eating whatever appeals to the senses without consideration of
-nutrition, seasonality, or [[fukuoka-textdoc-natural-order-food-chain-unity]].
-
-This diet is the root of a thousand diseases. It follows no principle, responds
-only to advertising, convenience, and immediate gratification. Fukuoka considers
-this diet a form of spiritual emptiness because it represents complete
-subordination to external stimuli rather than alignment with natural law.
-
-## Type 2: The Scientific Diet of the Body
-
-The second type is the physically centered diet of most people who have progressed
-beyond pure self-indulgence. Nutritional food is consumed to sustain the body in a
-scientific diet that spins centrifugally outward with increasing desires. This diet
-is based on Western nutritional science — the counting of calories, the balancing
-of the four food groups, the tracking of vitamins and minerals.
-
-Fukuoka critiques this diet on several grounds. First, the four-group nutrition
-system that assigns points to foods based on caloric content creates perverse
-incentives: it demands a year-round supply of foods from all groups, necessitating
-mass production and long-term storage. This drives farmers to grow lettuce,
-cucumbers, eggplant, and tomatoes in winter — out-of-season vegetables that are
-unnatural and incomplete.
-
-Second, from the perspective of yin and yang, the standard list of basic foods
-such as meat, milk, chicken, and bluefish are highly yang and acidic, while potato
-is a very yin vegetable. None of these agree with the Japanese people. The system
-is both scientifically naive and culturally inappropriate.
-
-## Type 3: The Diet of Principle
-
-The third type is the diet of natural man based on spiritual laws. Extending
-beyond Western science and centered on [[fukuoka-western-eastern-philosophy-agriculture]], it places restrictions
+nutrition, seasonality, or [[fukuoka-western-eastern-philosophy-agriculture]], it places restrictions
 on foods, aiming for centripetal convergence. This could be called a diet of
-principle and includes what is normally referred to as a [[fukuoka-natural-diet-as-foundation]].
-
-This diet draws on the yin-yang framework to guide food choices: in summer (yang),
-one should eat yin foods; in winter (yin), one should eat yang foods. Grains serve
-as the staple intermediate food, with yin vegetables consumed alongside and meat
-(very yang) avoided. However, Fukuoka warns that too much concern over yin and
-yang, acidity or alkalinity, and vitamin and mineral content leads one right back
-into the realm of science and [[non-discriminating-knowledge-and-critique-of-scientific-reductionism]].
+principle and includes what is normally referred to as a [[non-discriminating-knowledge-and-critique-of-scientific-reductionism]].
 
 The diet of principle is a necessary intermediate step but is not the final goal.
 It still relies on human intellectual frameworks to make food choices, and thus
@@ -118,8 +81,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[fukuoka-natural-diet-four-types-non-discrimination]]
 - [[natural-diet]]
-- [[fukuoka-textdoc-four-types-of-diet-classification]]
 - [[doc]]
 - [[permaculture]]

@@ -24,22 +24,14 @@ methylation, and dealkylation of metals. Certain species of Penicillium
 are known to remove iron from alloys (Siegel et al., 1990). Fungi can
 solubilize at least one toxic metal compound including ZnO, Co3(PO4)2,
 and Zn3(PO4)2, with approximately 10% of soil fungi solubilizing all
-three (Sayer et al., 1995). In [[penicillium-simplicissimum]], zinc
-adsorption is accompanied by citric [[staycare-fungal-organic-acid-production-metal-leaching]] (Franz et al., 1991).
+three (Sayer et al., 1995). In [[staycare-fungal-organic-acid-production-metal-leaching]] (Franz et al., 1991).
 
 ## Reduction Reactions
 
-[[aureobasidium-pullulans]] reduces Ag(I) to Ag(0) (Kierans et al., 1991).
 [[saccharomyces-cerevisiae]] mediates the reduction of Fe(III) to Fe(II)
 through both reductive and nonreductive pathways (Lesuisse and Labbe,
 1989). Fusarium species reduce Se(IV) or Se(VI) to Se(0) (Gharieb et
-al., 1995) and Te(II) to Te(0) (Gharieb et al., 1999). [[bloomfield-candida-albicans-yeast-hyphal-dimorphism]]
-reduces Hg(II) to Hg(0) (Yannai et al., 1991). Penicillium citrinum and
-Schizosaccharomyces pombe reduce Te(IV) or Te(VI) to Te(0) (Smith, 1974).
-
-## Silver Nanoparticle Biosynthesis
-
-[[fusarium-oxysporum]] reduces silver ions in solution, forming stable silver
+al., 1995) and Te(II) to Te(0) (Gharieb et al., 1999). [[fusarium-oxysporum]] reduces silver ions in solution, forming stable silver
 hydrosol (Ahmad et al., 2003). Silver nanoparticles of 5 to 15 nm are
 stabilized by fungal proteins. The reduction of silver ions appears to
 occur through an enzymatic process, demonstrating the potential of fungi

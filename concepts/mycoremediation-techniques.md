@@ -5,7 +5,7 @@ updated: 2026-04-12
 type: concept
 tags: [mycoremediation, mycology, ecology, pollution, remediation, fungi, environment, methods]
 sources:
-  - "raw/papers/the-mushroom-cultivator-stamets.md"
+  - "raw/papers/mycelium-running-stamets.md"
 ---
 
 # Mycoremediation Techniques
@@ -49,7 +49,7 @@ Mycofiltration uses mycelial mats or fungal networks to filter contaminated wate
 - Pleurotus ostreatus (oyster mushroom): Broad-spectrum degradation of organic pollutants, particularly effective against petroleum hydrocarbons
 - Stropharia rugosoannulata (wine-cap stropharia): Excellent for filtering bacteria (E. coli) from water
 - Trametes versicolor (turkey tail): Effective against a wide range of organic pollutants and dyes
-- Ganoderma lucidum (reishi): [[fungal-heavy-metal-biosorption-and-detoxification]]
+- Ganoderma lucidum (reishi): Heavy metal biosorption
 
 ### Design Considerations
 
@@ -86,7 +86,7 @@ Mycoaccumulation uses fungi to absorb and concentrate heavy metals and other ino
 - Suillus luteus: Tolerant of and accumulates zinc and cadmium
 - Pleurotus ostreatus: Accumulates lead and cadmium
 - Trametes versicolor: Biosorbs heavy metals effectively
-- [[arbuscular-mycorrhizal-fungi]]: Reduce metal uptake in crop plants while accumulating metals in their own networks
+- Arbuscular mycorrhizal fungi: Reduce metal uptake in crop plants while accumulating metals in their own networks
 
 ### Limitations
 
@@ -106,7 +106,7 @@ Mycodegradation uses fungal enzymes to break down (degrade) complex organic cont
 
 #### Petroleum Hydrocarbons
 
-- PAHs ([[singh-fungal-biodegradation-of-polycyclic-aromatic-hydrocarbons]]): A major class of petroleum-derived contaminants
+- PAHs (polycyclic aromatic hydrocarbons): A major class of petroleum-derived contaminants
 - BTEX (benzene, toluene, ethylbenzene, xylene): Common groundwater contaminants
 - Oil and fuel spills: Crude oil, diesel, gasoline, jet fuel
 - Oyster mushroom (Pleurotus) species are particularly effective
@@ -125,7 +125,7 @@ Mycodegradation uses fungal enzymes to break down (degrade) complex organic cont
 
 #### Dyes and Textile Chemicals
 
-- Synthetic dyes from [[staycare-fungal-treatment-of-textile-industry-wastewater]]
+- Synthetic dyes from textile industry wastewater
 - Laccase enzymes from white-rot fungi effectively decolorize dye wastewater
 - Trametes versicolor and Phanerochaete are the most studied species
 
@@ -138,12 +138,13 @@ Mycodegradation uses fungal enzymes to break down (degrade) complex organic cont
 #### Plastics
 
 - Emerging research area: Some fungi can degrade polyurethane, polyester, and other plastics
-- [[pestalotiopsis-microspora]]: Isolated from Amazonian rainforest, can degrade polyurethane
+- Pestalotiopsis microspora: Isolated from Amazonian rainforest, can degrade polyurethane
 - Aspergillus and other species show varying plastic degradation capabilities
-- Research is early-stage; not yet practical at scale
 
-## Spent Mushroom Substrate (SMS) Applications
+## See Also
 
-### What It Is
-
-Spent mushroom substrate is the residual material (compost, straw, sawdust) remaining after [[history-of-commercial-mushroom-cultivation]]. While not mycoremediation per se, SMS has remediation applications:
+- [[singh-ecology-of-mycoremediation]]
+- [[factors-affecting-mycoremediation-efficiency]]
+- [[mycoremediation-heavy-metals]]
+- [[mycoremediation-site-assessment]]
+- [[mycoremediation-applications]]

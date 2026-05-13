@@ -15,14 +15,7 @@ sources:
 
 # Perlite Humidification Technique for Mushroom Fruiting
 
-The perlite humidification technique is a passive, low-tech method for maintaining high humidity in [[simple-mushroom-fruiting-chambers]]. Originally popularized through anonymous internet newsgroup posts and later incorporated into [[pf-tek-psilocybe-fanaticus]]'s PF TEK documentation, this method uses the physical properties of expanded perlite to create sustained humidity without electric humidifiers or automated systems. It became one of the most widely adopted humidification approaches for home [[accessible-mushroom-cultivation-for-disabilities]] due to its simplicity, reliability, and minimal equipment requirements.
-
-## Physical Properties of Perlite
-
-Perlite is an amorphous volcanic glass that has been expanded by heating to approximately 900°C, causing the trapped water within the raw mineral to vaporize and expand the material into lightweight, porous granules. The resulting product is bright white, extremely lightweight, and possesses a unique combination of water-holding and water-release properties that make it ideal for passive humidification.
-
-The key distinction between perlite and its sister mineral vermiculite is critical for understanding the technique:
-- **Vermiculite**: Absorbs and holds water internally through its accordion-like [[crystal-structure-and-crystal-defects]]. It retains moisture but releases it slowly through evaporation from internal surfaces
+The perlite humidification technique is a passive, low-tech method for maintaining high humidity in [[pf-tek-psilocybe-fanaticus]]'s [[pf-tek]] documentation, this method uses the physical properties of expanded perlite to create sustained humidity without electric humidifiers or automated systems. It became one of the most widely adopted humidification approaches for home [[crystal-structure-and-crystal-defects]]. It retains moisture but releases it slowly through evaporation from internal surfaces
 - **Perlite**: Does not absorb water into its structure. Instead, water clings to the extensive external surface area of its porous granules through capillary action and [[bloomfield-buller-drop-surface-tension-spore-catapult-basidiospore-discharge]]. This external water is readily available for evaporation
 
 This distinction means perlite acts as a high-surface-area evaporative medium rather than a water reservoir. The "Rice Krispies" effect — the audible crackling when dry perlite is handled — becomes silent when wetted, indicating that the pore spaces are filled with water that evaporates into the surrounding air.
@@ -63,7 +56,7 @@ The superior performance of perlite over electric humidification for this applic
 
 Perlite humidification can be combined with passive or active air exchange methods:
 
-- **Passive exchange**: Drilling small holes near the bottom of the fruiting chamber allows natural convection to draw fresh air through the perlite layer (which also humidifies it) and exhaust stale air through upper holes. This "shotgun fruiting chamber" design is extremely popular
+- **Passive exchange**: Drilling small holes near the bottom of the fruiting chamber allows natural convection to draw fresh air through the perlite layer (which also humidifies it) and exhaust stale air through upper holes. This "[[shotgun-fruiting-chamber]]" design is extremely popular
 - **Active exchange**: The PF aquarium bubbler can be run simultaneously with perlite, providing both fresh air exchange and supplemental humidification. Fanaticus noted that the bubbler contributed but that the perlite was "the thing that was REALLY working"
 
 ## Common Mistakes and Pitfalls

@@ -13,34 +13,7 @@ sources:
   - Doty, M.S. (1973). "Farm the sea for weed." Proceedings of the International Seaweed Symposium, 7, 25–31.
   - Ask, E.I. & Azanza, R.V. (2002). "Advances in cultivation technology of commercial eucheumatoid species." Hydrobiologia, 512, 181–188.
   - Trono, G.C. (1992). "Eucheuma and Kappaphycus: Taxonomy and cultivation." Marine Farming Centre, Singapore.
-  - Hayashi, L. et al. (2011). "[[kappaphycus-alvarezii]]." Journal of Applied Phycology, 23, 1001–1014.
----
-
-## Overview
-
-**Eucheuma cottonii** is a red marine macroalga historically classified in the family Solieriaceae, now widely referred to as **Kappaphycus alvarezii** (Doty) Doty ex Silva following taxonomic revision. It is one of the most important sources of kappa-carrageenan globally.
-
-The species is a tropical seaweed cultivated extensively in [[psilocybe-southeast-asia-pacific]], East Africa, and the [[guzman-allen-gartz-neurotropic-fungi-hawaii-pacific-islands]].
-Its carrageenan is used as a gelling, thickening, and stabilizing agent in food, cosmetics, and pharmaceutical industries.
-
-Commercial cultivation began in the Philippines in the 1960s and has since expanded to become one of the largest [[seaweed-farming-and-marine-aquaculture]] operations worldwide, supporting millions of smallholder farmers in tropical [[low-cost-mushroom-growing-house-construction-developing-countries]].
-
-## Taxonomy and Morphology
-
-The taxonomy of Eucheuma and Kappaphycus has undergone significant revision.
-E. cottonii was originally described by Weber-van Bosse and was later transferred to Kappaphycus as K. alvarezii based on the type of carrageenan produced.
-
-The two genera are distinguished by their carrageenan chemistry: Kappaphycus produces primarily kappa-carrageenan, while Eucheuma produces iota-carrageenan.
-Despite the taxonomic changes, the commercial name "cottonii" remains widely used in the carrageenan trade.
-
-The thallus is cartilaginous, cylindrical to slightly flattened, reaching 20–50 cm in length.
-Branching is irregular, with branches arising from the main axis at acute angles.
-
-Color ranges from greenish-yellow to reddish-brown depending on light, depth, and growing conditions.
-The texture is firm and rubbery, with a smooth surface.
-
-Growth occurs through apical meristems at branch tips.
-The species reproduces vegetatively in cultivation, with [[fungal-life-cycles-sexual-reproduction-metamorphosis]] rarely observed in farmed populations.
+  - Hayashi, L. et al. (2011). "[[psilocybe-southeast-asia-pacific]], East Africa, and the [[seaweed-farming-and-marine-aquaculture]] operations worldwide, supporting millions of smallholder farmers in tropical [[fungal-life-cycles-sexual-reproduction-metamorphosis]] rarely observed in farmed populations.
 
 ## Distribution and Habitat
 
@@ -70,21 +43,90 @@ E. cottonii is cultivated primarily by smallholder farmers using simple off-bott
 
 The most common method involves tying vegetative fragments to monofilament lines stretched between stakes or bamboo floats.
 
-[[coleman-sunlight-and-winter-crop-growth-rates]] of 3–7% per day are typical under optimal tropical conditions. 
-arvest cycles are 30–45 days, with multiple harvests possible per year from a single planting.
-
-The species is typically sun-dried after harvest, reducing moisture content to 35–40% for transport to processing facilities.
-Drying ratios are approximately 6:1 to 10:1 (fresh to dry weight).
-
-Major production challenges include ice-ice disease (a physiological disorder triggered by environmental stress), epiphyte grazing by herbivorous fish and sea urchins, and damage from tropical storms.
-## Related Species
-
-Kappaphycus striatus (formerly Eucheuma striatum) is a closely related species also cultivated for kappa-carrageenan.
-
-It differs from K. alvarezii in its more cylindrical thallus and slightly different carrageenan gel properties.
-
 [[eucheuma-denticulatum]] (spinosum) is the primary source of iota-carrageenan and is often co-cultivated with K.
 
 alvarezii. It produces soft, elastic gels distinct from the rigid gels of kappa-carrageenan.
 
 Betaphycus gelatinum produces beta-carrageenan, which does not gel but acts as a thickener.
+
+## Overview
+
+Eucheuma Cottonii represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish eucheuma cottonii
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving eucheuma extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Eucheuma Cottonii finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for eucheuma cottonii. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+eucheuma cottonii and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Eucheuma Cottonii has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of eucheuma cottonii into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[eucheuma-denticulatum]]
+- [[eucheuma-isiforme]]

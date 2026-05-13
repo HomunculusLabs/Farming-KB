@@ -20,22 +20,7 @@ It is native to the Andes of Peru and Ecuador.
 
 Unlike the small peyote cactus, San Pedro is large and multi-branched. In its natural
 environment, it often grows to heights of 10 or 15 feet. It is a hardy cactus and
-endures [[query-best-kiwifruit-varieties-for-cold-climates]] quite well, growing at altitudes from sea level to 9000 feet
-high in the Andes, most frequently found on western slopes.
-
-### Mescaline Content
-
-- Mescaline content is less than that of peyote: 0.3 to 1.2 percent
-- Because of its great size and rapid growth, it may provide a more economical source
-  of mescaline than peyote
-- One plant may easily yield several pounds of material upon extraction
-
-### Other Alkaloids
-
-San Pedro also contains:
-
-- Tyramine
-- [[hordenine]]
+endures [[hordenine]]
 - 3-methoxytyramine
 - Anhalaninine
 - Anhalonidine
@@ -90,43 +75,8 @@ Several cacti look much like San Pedro and have even been mistaken for it by tra
 botanists. In 1960 when Turner and Heyman discovered that San Pedro contained
 
 ## See Also
-- [[trichocereus-mescaline-cacti-san-pedro-peruvian-torch-halpern]]
 - [[trichocereus-mescaline-cacti-san-pedro-peruvian-torch]]
-- [[peyote-and-psychoactive-cacti]]
 - [[psychoactive-cacti-guide]]
-- [[psychoactive-cacti-of-central-mexico]]
-
-## Practical Applications
-
-The principles and techniques discussed here have wide-ranging applications
-across multiple disciplines and contexts. Practitioners and researchers
-continue to explore new ways to integrate these concepts into modern practice,
-adapting traditional knowledge to contemporary challenges and opportunities.
-
-## Key Considerations
-
-Several important factors influence the effectiveness and outcomes described
-in this topic. Understanding these considerations helps practitioners make
-informed decisions and avoid common pitfalls. Environmental conditions,
-timing, and material selection all play critical roles.
-
-## Historical Context
-
-The historical development of this subject reflects centuries of accumulated
-knowledge and practical experience. From traditional methods passed down
-through generations to modern scientific approaches, the evolution continues
-to inform current best practices and research directions.
-
-## Common Challenges
-
-Practitioners frequently encounter several challenges when working with
-these concepts. Climate variability, resource limitations, and knowledge
-gaps can all affect outcomes. Addressing these challenges requires patience,
-observation, and a willingness to adapt approaches based on results.
-
-## See Also
 - [[trichocereus-mescaline-cacti-san-pedro-peruvian-torch-halpern]]
-- [[trichocereus-mescaline-cacti-san-pedro-peruvian-torch]]
 - [[mescaline]]
-- [[trichocereus-pachanoi]]
 - [[hordenine]]

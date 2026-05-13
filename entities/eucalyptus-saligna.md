@@ -34,7 +34,7 @@ Eucalyptus saligna, commonly known as **Sydney blue gum** or **blue gum**, is a 
 - **Firewood:** Good quality firewood (pages 20, 94)
 - **Shelter and windbreaks:** Fast growth makes it suitable for tall shelterbelts
 - **Reforestation:** Widely used in plantation forestry worldwide, especially in Brazil, South Africa, and Australia
-- **[[gadd-fungal-carbon-sequestration]]:** Fast [[soil-temperature-plant-growth-rate-doubling-rule]] provides rapid carbon capture
+- **[[soil-temperature-plant-growth-rate-doubling-rule]] provides rapid carbon capture
 
 ## Cultivation Notes
 
@@ -43,24 +43,12 @@ Eucalyptus saligna, commonly known as **Sydney blue gum** or **blue gum**, is a 
 - Extremely fast-growing — can reach sawlog size in 20–30 years
 - Intolerant of drought, frost, and saline conditions
 - Best in coastal and near-coastal climates
-- Susceptible to a range of [[mushroom-pests-and-diseases]] including psyllids and [[bloomfield-fungal-pathogens-and-parasites]]
+- Susceptible to a range of [[bloomfield-fungal-pathogens-and-parasites]]
 - Best propagated from seed
 
 ## Notable Uses from Source
 
-- [[honey-locust-pod-fodder-timber-production]] (pages 20, 94)
-- Fast-growing construction timber (pages 20, 94)
-- Firewood (pages 20, 94)
-
-## Growth Habit and Site Behavior
-
-- Sydney blue gum grows rapidly when moisture and fertility are reliable.
-- It is best suited to humid coastal and subcoastal environments.
-- The straight bole makes it valuable where clear timber is a goal.
-- In favorable sites, the crown rises quickly above surrounding vegetation.
-- This makes the tree useful for tall shelter but unsuitable for small gardens.
-- It should be planted where mature height and root spread can be accommodated.
-- The species is less appropriate for dry inland sites than [[eucalyptus-wandoo]].
+- [[eucalyptus-wandoo]].
 - Its preference for moisture distinguishes it from many semi-arid eucalypts.
 - Seedlings establish best when protected from severe frost and drought.
 - Once established, growth can be vigorous enough to shade slower companions.
@@ -75,13 +63,7 @@ Eucalyptus saligna, commonly known as **Sydney blue gum** or **blue gum**, is a 
 - In mixed farm forestry, that creates several possible harvest windows.
 - Durable posts and structural uses require correct age, seasoning, and site quality.
 - The source's timber notes place it alongside other multipurpose farm trees.
-- For comparison with nitrogen-fixing timber crops, see [[honey-locust-pod-fodder-timber-production]].
-- Eucalypt plantations should be planned with water demand in mind.
-
-## Ecological and Design Considerations
-
-- Fast growth means rapid biomass accumulation and carbon capture.
-- That makes the page relevant to [[gadd-fungal-carbon-sequestration]].
+- For comparison with nitrogen-fixing timber crops, see [[gadd-fungal-carbon-sequestration]].
 - Leaf litter can influence understorey composition.
 - Dense stands may suppress pasture or garden crops through shade and moisture competition.
 - Wider spacing allows more light and easier access for harvest.

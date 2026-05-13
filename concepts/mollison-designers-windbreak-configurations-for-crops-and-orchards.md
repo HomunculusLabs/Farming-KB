@@ -33,36 +33,7 @@ side. Windbreak height is ideally one-fifth of the space between
 windbreaks, but is still effective for low crop at one-thirtieth of the
 interspace. Briefly, we need windbreaks spread at no more than 20 times
 the hedgerow height in any severe wind area. In the establishment of
-wind-sensitive [[mollison-designers-avocado-mango-and-subtropical-tree-crops]], continuous (interplant) windbreak may be
-necessary. The length of windbreak needs to be greater than the length
-of the field protected, as wind funnels around the end of windbreaks in
-a regular flow pattern.
-
-## Configuration Types
-
-Sensible windbreak configurations serve different purposes and site
-conditions:
-
-**A. Dense windbreak with bare stem area below.** Effects: good summer
-cool shade for livestock; poor to useless winter shelter. Clumps of
-such trees on knolls allow animals to escape heat, and flies and
-mosquitoes are much reduced. Sample species: Cupressus, Pinus,
-Casuarina.
-
-**B. Alternate (zig-zag) planting of very permeable trees.** Effects:
-good "front-line" seafront systems to reduce salt burn and provide
-shelter for more dense trees on islands and coasts. Species: Araucaria,
-Pinus, Casuarina.
-
-**C. Compound windbreak of high density.** Effects: The best protection
-for eroding beaches, lifting the wind smoothly over the beach berm and
-trapping sand. Also effective in dust-storm areas as a dust trap.
-Ground: Convulvulus, Phyla (Lippia), Mesembryanthemum. Low shrubs:
-Echium fastuosum, wormwood. Shrubs: Coprosma repens. Trees: Lycium,
-Cedrus, Cupressus, some pines.
-
-**D. Permeable low hedgerow of Acacia or legumes.** Effects: Good
-effects on grass and [[coleman-sunlight-and-winter-crop-growth-rates]], allows air movement to reduce frosts.
+wind-sensitive [[coleman-sunlight-and-winter-crop-growth-rates]], allows air movement to reduce frosts.
 Species: Acacia, Leucaena, Prosopis, Albizia, Glyricidia, tagasaste
 and like tree legumes.
 
@@ -76,11 +47,7 @@ Prosopis.
 
 **E2. Complete or almost-complete crown cover in tree crop.** Effects:
 Excellent frost-free sub-tropic and tropic lowland configuration where
-[[comparison-pruning-fruit-trees-vs-grafting-fruit-trees]] are interplanted with leguminous trees as shelter and mulch,
-with Casuarinas as borders. Suited to humid climates, or irrigated
-areas. Species: Fruits from palms, avocado, Inga, banana, citrus.
-Legumes of tagasaste, Acacia, Albizia, Inga, Glyricidia, Leucaena.
-Borders of Casuarina, low palms ([[phoenix-canariensis]]), Leucaena,
+[[phoenix-canariensis]]), Leucaena,
 Prosopis, and other wind-fast trees and tall shrubs.
 
 ## Integral Windbreak Strategy
@@ -88,3 +55,88 @@ Prosopis, and other wind-fast trees and tall shrubs.
 For both tree crops and orchards, a different potential strategy exists
 in that the windbreak may be composed of trees compatible with the
 protected forest or orchard system we wish to shelter, and can then be
+
+## Overview
+
+Mollison Designers Windbreak Configurations For Crops And Orchards represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish mollison designers windbreak configurations for crops and orchards
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving mollison extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Mollison Designers Windbreak Configurations For Crops And Orchards finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for mollison designers windbreak configurations for crops and orchards. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+mollison designers windbreak configurations for crops and orchards and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Mollison Designers Windbreak Configurations For Crops And Orchards has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of mollison designers windbreak configurations for crops and orchards into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[mentha-aquatica-mollison]]
+- [[mollison-designers-conifer-forestry-and-timber]]
+- [[mollison-designers-wickiup-and-quick-shelter-construction]]
+- [[mollison-orographic-and-forest-rainfall-effects]]
+- [[mollison-permaculture-design-course-curriculum]]

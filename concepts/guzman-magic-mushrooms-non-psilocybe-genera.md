@@ -7,25 +7,11 @@ updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/world-wide-distribution-of-magic-mushrooms-guzman-allen-&-gartz.md]
 type: concept
 ---
-# Psychoactive Mushroom Species in Non-Psilocybe Genera ## Overview While [[psilocybin-potency-dosage-guide]], those with entirely different chemistry (such
-as [[amanita-muscaria-guide]] species contain isoxazole derivatives rather than
+# Psychoactive Mushroom Species in Non-Psilocybe Genera ## Overview While [[amanita-muscaria-guide]] species contain isoxazole derivatives rather than
 indole alkaloids:
-- **A. muscaria** ([[amanita-muscaria-fly-agaric-history-and-pharmacology]]): Contains [[amanita-muscaria-muscimol-ibotenic-acid-pharmacology]] and muscimol;
+- **A. muscaria** ([[amanita-muscaria-muscimol-ibotenic-acid-pharmacology]] and muscimol;
   traditionally used by Siberian peoples (Chukchee, Koryak); Wasson
-  (1968) proposed it as the [[mckenna-vedic-soma-indo-european-mysteries]]; worldwide distribution
-- **A. pantherina** (Panther Cap): Contains ibotenic acid and muscimol;
-  generally more toxic than A. muscaria; wide distribution
-- **A. regalis**: Most potent of the three; more restricted distribution
-
-### Panaeolus and Copelandia (Coprinaceae)
-
-### Copelandia (12 species)
-All confirmed Copelandia species contain psilocybin. Key species:
-- **C. cyanescens**: Most widespread tropical species; found throughout
-  the Caribbean, Americas, Africa, Asia, Australia, and Oceania
-- **C. tropicalis**: Widespread in Africa, Asia, and Oceania
-- **C. cambodginiensis**: Described from Cambodia; widespread in
-  [[psilocybe-southeast-asia-pacific]] and Hawaii
+  (1968) proposed it as the [[psilocybe-southeast-asia-pacific]] and Hawaii
 - Other species: C. anomala, C. bispora, C. mexicana, C. moelleri,
   C. tirunelveliensis, C. affinis, C. lentispora
 
@@ -118,8 +104,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[salicin]]
 - [[psilocybin]]
-- [[psilocin]]
 - [[coprophilous-fungi]]
 - [[soma]]

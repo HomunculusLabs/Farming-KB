@@ -10,32 +10,9 @@ sources: [/Users/t3rpz/wiki/raw/papers/concise-large-scale-synthesis-of-psilocin
 
 # 4-Hydroxyindole
 
-4-Hydroxyindole is an [[plant-olfaction-volatile-organic-compound-signaling]] and a key intermediate in the chemical synthesis of [[psilocybin]], and related indole-alkylamine derivatives. It serves as a fundamental building block in both laboratory synthetic routes and as a structural analog of the biosynthetic intermediates found in [[archaeology-of-psychedelic-mushroom-use]] metabolism.
+4-Hydroxyindole is an [[psilocybin]], and related indole-alkylamine derivatives. It serves as a fundamental building block in both laboratory synthetic routes and as a structural analog of the biosynthetic intermediates found in [[psilocybin]]. In the natural biosynthetic pathway within [[psilocin]].
 
-## Chemical Structure and Properties
-
-4-Hydroxyindole has the molecular formula C₈H₇NO and a molecular weight of 133.15 g/mol. The IUPAC name is 1H-indol-4-ol. The compound consists of an indole ring system — a fused bicyclic structure of a benzene ring joined to a pyrrole ring — with a hydroxyl substituent at the 4-position of the benzene moiety.
-
-This hydroxyl group at the 4-position is the defining feature that makes 4-hydroxyindole the direct precursor to [[psilocybin]]. In the natural biosynthetic pathway within [[psilocin]] and [[psilocin]].
-
-3. **Phosphorylation**: [[psilocybin]].
-
-Alternative synthetic routes may begin from other starting materials (such as 4-benzyloxyindole or 4-methoxyindole) and ultimately arrive at 4-hydroxyindole derivatives before final deprotection.
-
-## Synthesis of 4-Hydroxyindole
-
-The preparation of 4-hydroxyindole itself is non-trivial, as the direct hydroxylation of indole at the 4-position is challenging due to the reactivity patterns of the indole ring. Several approaches have been developed:
-
-- **Bischler-Möhlau indole synthesis**: Construction of the indole ring from appropriately substituted aniline precursors bearing a hydroxyl group at the ortho position relative to the amino group.
-- **Reissert indole synthesis**: From o-nitrotoluene derivatives.
-- **Ortho-lithiation strategies**: Directed metallation of protected indoles followed by oxidation.
-- **Biocatalytic approaches**: Enzymatic hydroxylation of indole or [[psilocybin]], the enzyme PsiD (a tryptamine 4-hydroxylase) catalyzes the hydroxylation of [[psilocybin]] production.
-
-## Spectroscopic Properties
-
-4-Hydroxyindole exhibits characteristic spectroscopic features useful for identification and quality control in synthetic work:
-
-- **UV-Vis absorption**: The compound shows absorption maxima at approximately 275 nm and 295 nm in neutral aqueous solution, corresponding to the pi-pi transitions of the indole chromophore. The 4-hydroxy substituent causes a bathochromic shift relative to unsubstituted [[psilocybin]] synthesis and confirming the purity of intermediates at each stage.
+3. **Phosphorylation**: [[psilocybin]], the enzyme PsiD (a tryptamine 4-hydroxylase) catalyzes the hydroxylation of [[psilocybin]] synthesis and confirming the purity of intermediates at each stage.
 
 ## Stability and Handling
 
@@ -43,12 +20,7 @@ The preparation of 4-hydroxyindole itself is non-trivial, as the direct hydroxyl
 
 - **Air sensitivity**: The phenolic hydroxyl group at the 4-position makes the compound susceptible to oxidation, particularly in solution. Exposure to air can lead to dimerization, polymerization, or the formation of quinone-type oxidation products.
 - **Light sensitivity**: The compound is photosensitive and should be stored in amber glassware or under inert atmosphere, protected from direct light.
-- **Storage**: Recommended [[vegetable-storage-conditions-by-temperature-and-humidity]] include refrigeration (2 to 8 °C) under nitrogen or argon atmosphere, either as the neat solid or in solution with added antioxidant (e.g., ascorbic acid).
-- **Protection strategies**: In synthetic sequences, the 4-hydroxy group is commonly protected as an acetate, benzyl ether, or silyl ether during transformations at other positions, then deprotected to reveal the free phenol.
-
-## Other Applications
-
-Beyond its role in [[serotonin]] receptors.
+- **Storage**: Recommended [[serotonin]] receptors.
 - **Materials science**: As precursors to indole-based polymers and conducting materials.
 - **Natural products chemistry**: As intermediates in the total synthesis of various indole alkaloids found in plants, fungi, and marine organisms.
 - **Chemical biology**: As probes for studying indole metabolism and tryptophan-derived signaling pathways.
@@ -57,7 +29,7 @@ Beyond its role in [[serotonin]] receptors.
 
 The hydroxyindoles constitute a family of six positional isomers (2-, 3-, 4-, 5-, 6-, and 7-hydroxyindole), each with distinct chemical properties and biological relevance:
 
-- **4-Hydroxyindole**: The focus of this article, critical for [[serotonin]] and melatonin biosynthesis, formed by the hydroxylation of [[4-acetoxy-nn-dimethyltryptamine]] and other 4-substituted tryptamines.
+- **4-Hydroxyindole**: The focus of this article, critical for [[4-acetoxy-nn-dimethyltryptamine]] and other 4-substituted tryptamines.
 - **4-Benzyloxyindole**: A benzyl-protected derivative commonly used in synthetic sequences where the protecting group must survive more vigorous conditions than an acetate.
 - **4-Methoxyindole**: A methyl-protected derivative with different deprotection requirements (typically requiring strong acid or Lewis acid conditions).
 - **4-Nitroindole**: A nitro-substituted derivative that can be reduced to 4-aminoindole, providing access to additional derivatives.
@@ -66,16 +38,90 @@ Each of these derivatives has specific applications in synthetic chemistry and m
 
 ## Industrial Relevance
 
-The demand for 4-hydroxyindole has increased with the growing interest in [[psilocybin]] and related compounds, the need for reliable, high-quality supplies of 4-hydroxyindole and its protected derivatives has grown correspondingly.
+The demand for 4-hydroxyindole has increased with the growing interest in [[psilocybin]] — the phosphorylated derivative of psilocin
+- [[phosphoryl-chloride]] — the phosphorylating reagent used in [[psilocin-psilocybin-synthesis-shirota]]
 
-Several contract manufacturing organizations now offer 4-hydroxyindole as a catalog item or custom synthesis service, with capacities ranging from gram-scale for research to kilogram-scale for process development. The cost has decreased as demand has increased, though it remains one of the more expensive indole building blocks due to the synthetic challenges involved in its preparation.
+## Overview
 
-## Commercial Availability
+4 Hydroxyindole represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
 
-4-Hydroxyindole is available from specialty chemical suppliers for research purposes, though it is more expensive than many simple indole derivatives due to the challenges associated with its synthesis and purification. Major chemical suppliers including Sigma-Aldrich, TCI Chemicals, and Alfa Aesar list 4-hydroxyindole in their catalogs. Typical commercial grades range from 95% to 99% purity, with higher purity material commanding premium prices. Researchers requiring large quantities often find it more economical to prepare the compound in-house using established synthetic procedures.
+## Key Characteristics
+
+Several defining characteristics distinguish 4 hydroxyindole
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving 4 extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+4 Hydroxyindole finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for 4 hydroxyindole. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+4 hydroxyindole and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+4 Hydroxyindole has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of 4 hydroxyindole into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
 
 ## See Also
 
-- [[psilocybin]] — the phosphorylated derivative of psilocin
-- [[indole]] — the parent heterocyclic compound
-- [[phosphoryl-chloride]] — the phosphorylating reagent used in [[psilocin-psilocybin-synthesis-shirota]]
+- [[acetylation-protection-psilocin-synthesis-4-hydroxyindole]]
+- [[four-hydroxyindole-psilocin-synthesis-route-shirota]]
+- [[psilocin-synthesis-4-hydroxyindole-to-psilocin]]
+- [[shirota-4-hydroxyindole-acetyl-protection-psilocin-synthesis-starting-material]]
+- [[shirota-psilocin-synthesis-4-hydroxyindole-pathway]]

@@ -107,13 +107,8 @@ Unlike many Western Cape bulbs, Gladiolus tristis tolerates slightly alkaline so
 
 ## See Also
 
-- [[gladiolus-cardinalis]]
 - [[gladiolus-communis]]
-- [[crocosmia-aurea]]
 - [[freesia-refracta]]
-- [[watsonia-borbonica]]
 - [[babiana-stricta]]
-- [[ixia-viridiflora]]
 - [[sparaxis-tricolor]]
-- [[crocosmia-lucifer]]
 - [[dierama-pulcherrimum]]

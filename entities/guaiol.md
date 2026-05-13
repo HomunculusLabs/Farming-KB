@@ -30,9 +30,7 @@ sources:
 ## Overview
 
 Guaiol (pronounced GWAH-yol) is a bicyclic sesquiterpene alcohol (C₁₅H₂₆O) found in
-the [[blesching-cannabis-food-as-medicine-anti-inflammatory-spices]], anticancer,
-and antimicrobial activities in preclinical studies. Its growing recognition as a
-minor but pharmacologically significant [[oner-cannabis-terpene-profiles-effects]] has spurred research into
+the [[oner-cannabis-terpene-profiles-effects]] has spurred research into
 its therapeutic potential.
 
 ## Chemical Properties
@@ -47,35 +45,7 @@ its therapeutic potential.
 - **Solubility**: Lipophilic; soluble in ethanol, ether, and fixed oils; insoluble
   in water.
 - **Density**: ~0.97 g/cm³ at 20°C.
-- **Optical rotation**: [[permaculture-designers-manual-essential-oil-plants]].
-- **Guaiacum spp.** (Zygophyllaceae): The primary commercial source. Guaiacwood
-  oil from *G. officinale* and *G. sanctum* contains 30–60% guaiol. The wood has
-  been used for centuries in traditional medicine and as a premium incense and
-  perfumery material.
-- **Cupressus sempervirens** (Cupressaceae): Italian cypress essential oil contains
-  guaiol as a minor component contributing to its woody, balsamic profile.
-- **Copaifera spp.** (Fabaceae): Copaiba oleoresins contain guaiol among other
-  sesquiterpenes; contributes to anti-inflammatory activity of the resin.
-- **Eucalyptus** spp. (Myrtaceae): Some eucalyptus species produce guaiol in
-  their leaf oils.
-
-## Pharmacology
-
-Preclinical research on guaiol has revealed several notable bioactivities:
-
-- **Anti-inflammatory**: Inhibits NF-κB signaling pathway and reduces production
-  of pro-inflammatory cytokines (TNF-α, IL-1β, IL-6) in LPS-stimulated
-  macrophages. The mechanism involves suppression of IκBα phosphorylation and
-  subsequent nuclear translocation of NF-κB. These effects are observed at
-  non-cytotoxic concentrations (10–50 µM in vitro).
-- **Anticancer activity [[bloomfield-candida-albicans-yeast-hyphal-dimorphism]] fungal activity against *[[bloomfield-candida-albicans-yeast-hyphal-dimorphism]]* and
-  *Aspergillus niger*.
-- **Antioxidant**: Scavenges DPPH and ABTS radicals in vitro, though activity is
-  modest compared to reference antioxidants (α-tocopherol, ascorbic acid).
-
-## Role in Cannabis
-
-In cannabis, guaiol contributes to the [[cannabis-terpene-entourage-effect-profiles]] — the theory that
+- **Optical rotation**: [[bloomfield-candida-albicans-yeast-hyphal-dimorphism]] fungal activity against *[[cannabis-terpene-entourage-effect-profiles]] — the theory that
 cannabinoids and terpenes act synergistically to modulate the overall
 pharmacological experience. While not among the dominant terpenes (like myrcene,
 limonene, or β-caryophyllene), guaiol appears at detectable levels in many
@@ -88,3 +58,80 @@ chemovars and may contribute to:
   particularly CBD and CBG.
 
 Cannabis strains reported to contain elevated guaiol levels include some OG Kush
+
+## Overview
+
+Guaiol represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish guaiol
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving guaiol extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Guaiol finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for guaiol. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+guaiol and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Guaiol has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of guaiol into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.

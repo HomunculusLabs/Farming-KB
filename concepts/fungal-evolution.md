@@ -35,7 +35,7 @@ The fungal kingdom is divided into several major phyla, representing deep evolut
 
 1. **Chytridiomycota** (chytrids) — basal lineage, flagellated spores
 2. **Zygomycota** (zygomycetes) — pin molds, bread molds
-3. **Glomeromycota** ([[arbuscular-mycorrhizal-fungi]])
+3. **Glomeromycota** (arbuscular mycorrhizal fungi)
 4. **Ascomycota** (sac fungi) — largest phylum
 5. **Basidiomycota** (club fungi) — mushrooms, rusts, smuts
 6. **Several newly described phyla**: Cryptomycota (Rozellomycota), Blastocladiomycota, Kickxellomycota, Zoopagomycota, Mucoromycota
@@ -45,14 +45,14 @@ The fungal kingdom is divided into several major phyla, representing deep evolut
 - **Key feature**: Flagellated spores (zoospores) with a single posterior flagellum
 - Flagellated spores suggest an aquatic ancestry — the ancestor of all fungi likely lived in water
 - Approximately 1,000 described species; many more estimated
-- Some are major pathogens: [[batrachochytrium-dendrobatidis]] causes chytridiomycosis, a devastating amphibian disease responsible for the decline or extinction of over 200 amphibian species
+- Some are major pathogens: Batrachochytrium dendrobatidis causes chytridiomycosis, a devastating amphibian disease responsible for the decline or extinction of over 200 amphibian species
 - Others are saprotrophs in aquatic and soil environments
 - Some are parasites of algae, other fungi, and invertebrates
 
 ### Zygomycota / Mucoromycota
 
 - **Key feature**: Sexual reproduction via zygospores — large, thick-walled resting spores formed by fusion of gametangia
-- Includes familiar bread molds ([[rhizopus-stolonifer]], Mucor)
+- Includes familiar bread molds (Rhizopus stolonifer, Mucor)
 - Mostly fast-growing, opportunistic saprotrophs
 - Some species cause human infections (mucormycosis, especially in immunocompromised patients)
 - Recent phylogenetic work has split this group into Mucoromycota and Zoopagomycota
@@ -110,7 +110,7 @@ The transition from aquatic to terrestrial life was a pivotal event in fungal ev
 - The earliest land plants (~470 Ma) already show fossil evidence of fungal associations (Aglaophyton from the Rhynie Chert, Scotland)
 - Arbuscular mycorrhizae (Glomeromycota) are the ancestral condition — present in the earliest vascular plants
 - Ectomycorrhizae evolved later (~150-200 Ma) in multiple basidiomycete and ascomycete lineages
-- [[comparison-orchid-mycorrhizae-vs-ericoid-mycorrhizae]] evolved with Ericaceae (heaths, heathers) in nutrient-poor acidic soils
+- Ericoid mycorrhizae evolved with Ericaceae (heaths, heathers) in nutrient-poor acidic soils
 - Orchid mycorrhizae represent a specialized co-evolution — orchid seeds require fungal symbionts for germination
 
 ### Pathogenic Evolution
@@ -126,7 +126,7 @@ The transition from aquatic to terrestrial life was a pivotal event in fungal ev
 
 - Evolved once in a common ancestor of white-rot fungi, approximately 300 Ma (Late Carboniferous)
 - Coincides with the end of the Carboniferous coal deposits — as fungi evolved to break down lignin, less plant material was preserved as coal
-- White-rot fungi produce lignin peroxidase, [[fungal-manganese-peroxidase-remediation]], and [[singh-fungal-laccase-enzymes-bioremediation]]
+- White-rot fungi produce lignin peroxidase, manganese peroxidase, and laccase enzymes
 - This innovation fundamentally altered the global carbon cycle
 
 ### Fruiting Bodies
@@ -141,10 +141,10 @@ The transition from aquatic to terrestrial life was a pivotal event in fungal ev
 - Convergent evolution: Saccharomyces (ascomycete) and Cryptococcus (basidiomycete) both evolved yeast forms independently
 - Yeast forms are advantageous in liquid/sugar-rich environments (fruit surfaces, tree exudates)
 
-## Evolutionary Timeline Summary
+## See Also
 
-| Time (Ma) | Event |
-|-----------|-------|
-| ~1,500 | Opisthokont ancestor splits from other eukaryotes |
-| ~1,000-1,500 | Fungi diverge from Animalia |
-| ~800-1,000 | Chytrid lineages diversify |
+- [[fungi-in-the-environment-fungal-ecosystems]]
+- [[fungal-amber-fossils]]
+- [[singh-fungal-pellet-formation-bioremediation]]
+- [[dark-septate-endophytes]]
+- [[fungal-pathogens-human-disease]]

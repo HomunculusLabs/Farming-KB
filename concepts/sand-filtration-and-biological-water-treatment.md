@@ -6,56 +6,7 @@ type: concept
 
 # Sand Filtration and Biological Water Treatment
 
-Sand filtration and biological water treatment are foundational techniques for purifying drinking water and treating sewage using natural processes. These methods, drawn from [[bill-mollison]]'s *Permaculture: A Designers' Manual*, rely on physical filtration, bacterial action, and plant-based systems to produce clean, safe water without heavy reliance on chemicals or machinery.
-
-## Sand Filtration
-
-Sand filtration is the most classical and widely-used water treatment method. Britain and many cities worldwide employ sand filters followed by chlorination to clean settled and treated raw sewage water.
-
-### Slow Sand Filter Design
-
-- **Depth**: 1.2 metres (4 feet) of sand
-- **Layering**: Top half fine sand, bottom half coarse sand
-- **Applications**: Used even in temporary rural camps for water filtration
-- **Urban installations**: Fixed sand beds with brick bases
-
-### Maintenance
-
-The top 1 cm (0.5 inch) of sand is periodically swept, removed, and dried or roasted to remove organic particles before the sand is returned to the filter bed. This typically needs to be done every 12–18 months.
-
-## Activated Charcoal Filtration
-
-Activated charcoal is used as a fine filter where high purity is essential. Sources include:
-
-- Bones
-- Willow plants
-- Coconut husks
-
-Fine dripstone (fine-pored stone) is also used in water cleaners and coolers to supply cool water in homes.
-
-## Trickle Filters and Bacterial Action
-
-Trickle filters through sand and gravel columns feed resident bacteria that remove surplus nutrients. In less polluted environments, freshwater mussels perform a similar ecological function, filtering bacteria from the water column.
-
-### Carbon for Nitrogen Removal
-
-Carbon is essential for nitrogen removal or its conversion by bacteria. It is added as carbohydrate in liquid forms:
-
-- Methanol
-- Ethanol
-- Acetic acids
-
-These can all be derived from plant residues — effectively "adding a little wine to the water" to encourage bacterial activity. Surplus nitrogen is released by bacteria to the atmosphere. Without active bacterial populations, nitrates migrate easily through subsoils where no plants or bacteria can live, eventually emerging in wells and streams.
-
-## Pond Surface Stabilisation
-
-Reducing turbidity and algae in drinking ponds is achieved through light exclusion and surface water stabilisation.
-
-### Surface Stabilisers (Floating Plants)
-
-- Water lilies
-- *Azolla*
-- Water hyacinth (*[[eichhornia-crassipes]]*)
+Sand filtration and biological water treatment are foundational techniques for purifying drinking water and treating sewage using natural processes. These methods, drawn from [[eichhornia-crassipes]]*)
 
 ### Bank Stabilisers (Marginal Plants)
 
@@ -131,6 +82,6 @@ Water from filter towers can be routed to:
 This multi-stage approach demonstrates how biological treatment can transform sewage — a perceived waste problem — into a cascade of useful products: clean water, energy, animal feed, wildlife habitat, and fertile land.
 
 ## See Also
-- [[water-filtration-and-treatment-systems]]
-- [[water-filtration-treatment-methods]]
-- [[mycofiltration-fungal-water-filtration]]
+
+- [[sand-dams-and-clearwater-reservoirs]]
+- [[sand-dams-and-water-spreading-techniques]]

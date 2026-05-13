@@ -29,13 +29,11 @@ Major channel protein families include potassium channels (KAT1, AKT1), which ar
 
 Pump proteins serve as miniature molecular motors. The most prevalent type pumps positively charged hydrogen ions (H+) out of the membrane, where they accumulate on the outer surface. This creates a proton gradient -- a form of stored energy. Other molecules can then use this hydrogen ion gradient to move into the cell (secondary active transport).
 
-Sodium and potassium pumps also exist. Because energy is consumed to run these pumps, their process is called active transport. This allows the plant to move nutrients against their concentration gradient -- pulling in scarce nutrients even when internal concentrations are already higher. ATP provides the energy for these pumps, as described in [[arbuscular-mycorrhizal-fungi]] for details on this [[arbuscule-isolation-and-nutrient-exchange-mechanisms]]. These induced transporters represent a significant metabolic investment by the plant, but the return in improved nutrient acquisition far exceeds the cost.
+Sodium and potassium pumps also exist. Because energy is consumed to run these pumps, their process is called active transport. This allows the plant to move nutrients against their concentration gradient -- pulling in scarce nutrients even when internal concentrations are already higher. ATP provides the energy for these pumps, as described in [[arbuscule-isolation-and-nutrient-exchange-mechanisms]]. These induced transporters represent a significant metabolic investment by the plant, but the return in improved nutrient acquisition far exceeds the cost.
 
 ## Regulation by Soil pH and Temperature
 
-The activity of membrane transport proteins is strongly influenced by soil pH. Most plant nutrient transporters operate optimally in slightly acidic conditions (pH 5.5-6.5). In highly acidic soils, aluminum and manganese become more soluble and can be taken up in toxic quantities, while in alkaline soils, iron, manganese, and zinc become less available. The soil's ability to buffer pH and maintain [[ph-and-nutrient-availability-garden-soils]] is fundamentally tied to the biological processes described in [[plant-cell-structure-and-organelles]] -- the cellular context for membrane transport
-
-- [[plant-micronutrient-functions]] -- the specific nutrients transported by these proteins
+The activity of membrane transport proteins is strongly influenced by soil pH. Most plant nutrient transporters operate optimally in slightly acidic conditions (pH 5.5-6.5). In highly acidic soils, aluminum and manganese become more soluble and can be taken up in toxic quantities, while in alkaline soils, iron, manganese, and zinc become less available. The soil's ability to buffer pH and maintain [[plant-cell-structure-and-organelles]] -- the cellular context for membrane transport
 
 - [[plant-cell-membrane-transport-proteins-channels-carriers-and-pumps]]
 ## Practical Considerations

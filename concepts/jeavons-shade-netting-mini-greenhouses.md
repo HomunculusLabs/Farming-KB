@@ -9,8 +9,7 @@ updated: 2026-04-26
 
 # Shade Netting and Mini-Greenhouses
 
-Shade netting and mini-greenhouses are important tools in the [[jeavons-grow-biointensive-method-overview]]
-method for protecting transplants, extending the [[savory-growing-season-and-non-growing-season-management]], and managing
+Shade netting and mini-greenhouses are important tools in the [[savory-growing-season-and-non-growing-season-management]], and managing
 the garden microclimate. Both structures are simple to build and use standard
 materials.
 
@@ -81,11 +80,7 @@ during cold weather. Certain varieties are specifically noted for winter
 growing under these conditions.
 
 For hardening off seedlings, a greenhouse or miniature greenhouse can be used
-when weather conditions require. [[hamilton-cold-frames-and-hardening-off]] serve a similar purpose for
-two-day hardening periods when seedlings are almost ready to transplant.
-
-### Relationship to [[jeavons-water-management-irrigation]]
-[[jeavons-grow-biointensive-method-overview]]
+when weather conditions require. [[jeavons-water-management-irrigation]]
 [[jeavons-double-digging-bed-preparation]]
 
 ## Practical Applications
@@ -117,8 +112,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[det]]
 - [[jeavons-global-adoption-biointensive-mini-farming]]
-- [[jeavons-grain-growing-mini-farms]]
 - [[jeavons-master-planning-mini-farms]]
 - [[jeavons-garden-planning-mini-farm-design]]

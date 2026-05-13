@@ -43,13 +43,7 @@ widely used despite reclassification.
 
 *S. indica* produces distinctive **pear-shaped chlamydospores** (12–25 x 10–20 um)
 as primary propagules for root colonization. In culture, the fungus forms dark,
-melanized [[arabidopsis-thaliana]]*. The
-colonization process involves hyphal attachment, epidermal penetration, intercellular
-cortical spread, and formation of intracellular vesicles within a periarbuscular
-membrane.
-
-The mutualistic exchange involves photosynthates (sugars, lipids) from the host
-and enhanced [[plant-nutrient-uptake-mechanisms]] from the fungus: phosphorus solubilization of insoluble
+melanized [[plant-nutrient-uptake-mechanisms]] from the fungus: phosphorus solubilization of insoluble
 phosphates, improved nitrogen and micronutrient (Zn, Fe, Cu, Mn) acquisition, and
 auxin-like compounds that stimulate lateral root formation. Colonized plants show
 increased photosynthetic efficiency, higher chlorophyll content, earlier flowering,
@@ -62,13 +56,9 @@ and yield increases of 15–30%.
 *S. indica* enhances phosphorus, nitrogen, and micronutrient uptake and solubilizes
 rock phosphate. Its axenic cultivability is a major advantage over AMF inoculants
 (requiring host plants), enabling low-cost mass production of chlamydospore-based
-formulations for [[jadam-seed-treatment-and-nursery-management]] and soil application.
-
-### Bioprotectant
-
-The fungus activates **[[endophytic-mycorrhizal-induced-systemic-resistance]] resistance (ISR)** through jasmonic acid
+formulations for [[endophytic-mycorrhizal-induced-systemic-resistance]] resistance (ISR)** through jasmonic acid
 and ethylene signaling, priming defenses without growth penalties. Colonized plants
-show enhanced resistance to [[bloomfield-fungal-pathogens-and-parasites]] (*[[fusarium-oxysporum]]*, *Rhizoctonia
+show enhanced resistance to [[fusarium-oxysporum]]*, *Rhizoctonia
 solani*, *Colletotrichum* spp.), bacterial pathogens (*Pseudomonas syringae*,
 *Ralstonia solanacearum*), root-knot nematodes (*Meloidogyne incognita*), and
 certain insect pests.

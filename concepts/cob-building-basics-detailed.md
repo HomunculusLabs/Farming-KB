@@ -3,17 +3,17 @@ title: Cob Building Basics Detailed
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
-tags: [construction, permaculture, [[homesteading]], sustainability, design, engineering]
+tags: [construction, permaculture, homesteading, sustainability, design, engineering]
 sources: []
 ---
 
 # Cob Building Basics Detailed
 
-Cob is [[query-how-do-i-choose-a-natural-building-method-for-my-climate]] material made from subsoil, sand, straw, and water. Mixed by foot on a tarp and applied in thick layers by hand, cob creates monolithic walls that are sculptural, incredibly durable, and made from materials found on most homestead sites. Cob buildings have survived for hundreds of years in England, Yemen, and other regions with wet climates.
+Cob is a natural building material made from subsoil, sand, straw, and water. Mixed by foot on a tarp and applied in thick layers by hand, cob creates monolithic walls that are sculptural, incredibly durable, and made from materials found on most homestead sites. Cob buildings have survived for hundreds of years in England, Yemen, and other regions with wet climates.
 
 ## What Is Cob
 
-Cob (from Old English "cumb" meaning lump or mass) is an ancient building technique where a wet mixture of earth, sand, and straw is sculpted into walls. Unlike adobe (formed into bricks and dried) or [[comparison-adobe-vs-rammed-earth]] (compacted in forms), cob is built up in layers while wet, creating a continuous monolithic structure with no mortar joints.
+Cob (from Old English "cumb" meaning lump or mass) is an ancient building technique where a wet mixture of earth, sand, and straw is sculpted into walls. Unlike adobe (formed into bricks and dried) or rammed earth (compacted in forms), cob is built up in layers while wet, creating a continuous monolithic structure with no mortar joints.
 
 ## Cob Mix Ratio
 
@@ -26,7 +26,7 @@ The ideal cob mix contains approximately:
 
 ### Testing Your Soil
 
-**[[solomon-soil-profile-assessment-fractional-analysis-jar-test]]:**
+**Jar Test:**
 1. Fill a clear jar 1/3 full with your subsoil
 2. Fill the rest with water and a drop of dish soap
 3. Shake vigorously and let settle for 24-48 hours
@@ -78,7 +78,7 @@ The ideal cob mix contains approximately:
 
 ### Foundation
 
-[[query-what-is-the-best-natural-plaster-for-earthship-or-cob-walls]] must be elevated above ground on a stone or concrete foundation:
+Cob walls must be elevated above ground on a stone or concrete foundation:
 
 - Rubble trench foundation with concrete stem wall (preferred)
 - Width: 6-8 inches wider than the cob wall on each side
@@ -114,7 +114,7 @@ When starting a new lift on a partially dried previous lift:
 - Standard cob walls: 18-24 inches thick
 - Load-bearing walls: minimum 18 inches
 - Non-load-bearing partitions: 12-15 inches acceptable
-- [[query-how-do-i-grow-figs-in-cold-climates]], thicker walls (24+ inches) provide more insulation
+- In cold climates, thicker walls (24+ inches) provide more insulation
 
 ## Arches and Niche Construction
 
@@ -140,11 +140,11 @@ Cob is vulnerable to water damage. Protect your walls:
 ### Roof Overhang
 
 - Minimum 2-foot overhang on all sides (3 feet in wet climates)
-- Wider overhangs protect walls from driving rain
 
-### Base Protection
+## See Also
 
-- Keep cob walls at least 18 inches above grade
-- Splashback from roof drips is a major problem — use gravel, pavers, or a concrete apron
-
-### Wall Finish
+- [[building-with-natural-materials]]
+- [[fukuoka-textdoc-vegetable-weed-family-replacement-orchard-soil-building]]
+- [[soil-fertility-building-gradient-solomon]]
+- [[fukuoka-earthen-levee-building-artistic-religious-work]]
+- [[mollison-designers-lime-and-cement-natural-building]]

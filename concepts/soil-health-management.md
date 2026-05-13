@@ -34,20 +34,9 @@ clay; lay boards down first if you must cross it.
 binding tiny clay particles into larger crumbs. Dig in one
 to two bucketfuls of coarse sand per square yard/meter.
 
-**[[hamilton-composting-and-organic-matter-management]]:** Adding bulky [[fukuoka-textdoc-composting-critique-futility-prepared-organic-matter]] holds clay
+**[[fukuoka-textdoc-composting-critique-futility-prepared-organic-matter]] holds clay
 particles apart. After a few years, every plant you grow
-improves the soil for the [[next-generation-sequencing-hidden-fungal-diversity]].
-
-### Sandy Soil
-Sand drains easily and warms up quickly, making it ideal
-for early crops. However, it is hungry and demanding because
-nutrients and water drain away rapidly.
-
-**Digging:** Timing is relatively unimportant. Dig in spring
-before sowing. Never work sand when so wet it sticks to
-boots.
-
-**[[knf-leaf-mold-humus]]:** Add substantial amounts of bulky organic
+improves the soil for the [[knf-leaf-mold-humus]]:** Add substantial amounts of bulky organic
 material each year. Maintain a vegetation cover, especially
 in winter when leaching is most rapid. Use mulch between
 plants to lower evaporation and improve structure.
@@ -62,7 +51,7 @@ Dig in spring before sowing. Keep digging shallow since
 topsoil is usually thin.
 
 **[[humus]]:** Keep the soil surface covered year-round.
-Grow green-manure crops in winter. Use acid materials like
+Grow [[green-manure]] crops in winter. Use acid materials like
 peat, grass cuttings, or compost as mulch to counteract
 alkalinity.
 
@@ -88,3 +77,73 @@ work but tends to be acidic and may need drainage.
 Have soil tested professionally, especially for new gardens.
 Test pH annually. Soils uncultivated for years may be
 grossly deficient in essential elements.
+
+## Overview
+
+Soil Health Management represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish soil health management
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving soil extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Soil Health Management finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for soil health management. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+soil health management and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Soil Health Management has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of soil health management into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.

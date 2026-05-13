@@ -38,30 +38,6 @@ made them a staple of tea blends worldwide.
 
 ## Lemon Balm
 
-[[lemon-balm-growing-guide]]
-
-Lemon balm's medicinal strength lies in its rosmarinic acid and essential
-oil content (citral, citronellal, geranial). These compounds give it notable
-antiviral activity, particularly against herpes simplex virus. Clinical
-studies have demonstrated that topical lemon balm preparations can reduce
-the duration and frequency of cold sore outbreaks, a use unique among
-calming herbs.
-
-As a nervine, lemon balm is considered one of the gentlest anxiolytics in
-the herbal materia medica. It elevates mood while calming the nervous
-system, making it suitable for daytime use without significant drowsiness.
-This "uplifting calm" quality distinguishes it from more sedating herbs.
-Research also supports its role in improving cognitive function and memory,
-and it has been studied for potential applications in Alzheimer's care.
-
-In the garden, lemon balm is extraordinarily easy to grow, perhaps to a
-fault. Like many mints, it spreads aggressively through rhizomes and can
-overtake garden beds if not contained. It thrives in partial shade to full
-sun, tolerates poor soils, and requires minimal maintenance. The leaves
-are harvested throughout the growing season and can be used fresh or dried.
-
-## Chamomile
-
 [[chamomile-cultivation-and-uses]]
 
 Chamomile's therapeutic profile centers on apigenin, a flavonoid that binds
@@ -126,8 +102,6 @@ practice.
 
 ## See Also
 
-- [[comparison-valerian-vs-lemon-balm]]
 - [[comparison-chamomile-vs-valerian]]
-- [[comparison-calendula-vs-chamomile]]
 - [[lemon-balm-melissa-officinalis]]
 - [[chamomile-growing-guide]]

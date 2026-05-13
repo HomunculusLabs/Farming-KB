@@ -11,29 +11,7 @@ tags: [beer]
 
 # AACT Brewing Methodology (Ingham Field Guide)
 
-Elaine Ingham's Field Guide I establishes the core brewing methodology for Actively [[actively-aerated-compost-tea-aact-brewing]] Tea (AACT), drawn from years of Soil Foodweb Inc. (SFI) lab testing and grower correspondence.
-
-## Standard Brew Cycle
-
-The standard AACT brew duration is 24 hours. This timeframe is critical because biofilm builds on tank surfaces over time -- as organisms layer on top of each other, oxygen cannot diffuse to lower layers, activating dormant anaerobes and facultative anaerobes. The 24-hour limit, combined with controlled food additions, prevents organisms from out-stripping the aerator's capacity to maintain aerobic conditions.
-
-## Dissolved Oxygen Requirements
-
-Maintaining dissolved oxygen (DO) above 5.5 to 6 mg/L (ppm) is critical throughout the brew:
-
-- At sea level, 72 degrees F, maximum DO is approximately 9 to 9.5 mg/L
-- If DO drops below 5.5 ppm, bacteria begin attacking fungal hyphae
-- Below this threshold, anaerobic substances are produced that cause leaf-curl, root death, and plant burning
-- DO concentration decreases as temperature increases or elevation increases (e.g., at 2000 ft elevation, maximum DO is about 8.8 mg/L)
-
-Oxygen measurement should use concentration (mg/L), not percent saturation. When reading DO versus dissolved CO2, target 80 to 95% DO. On the atmospheric oxygen scale, target 16 to 21%.
-
-## Aeration Guidelines
-
-- Coarse bubbles are preferred over fine bubbles; fine bubbles shred fungal hyphae and can damage organism membranes through supersaturation
-- Balance aeration rate against food input -- more food means greater oxygen demand
-- "Not too much, not too little" applies: over-aeration can kill organisms by creating an overly oxidizing environment
-- Aeration must offset [[query-what-is-the-difference-between-bacterial-and-fungal-dominant-soil]] growth rates; bacteria can consume all oxygen in minutes when well-fed
+Elaine Ingham's Field Guide I establishes the core brewing methodology for Actively [[query-what-is-the-difference-between-bacterial-and-fungal-dominant-soil]] growth rates; bacteria can consume all oxygen in minutes when well-fed
 
 ## Biofilm Management
 
@@ -65,64 +43,100 @@ Compost must be contained in a bag or mesh during brewing if the tea will be spr
 
 ## pH During Brewing
 
-Aerobic fungi buffer pH between 5.5 and 7.0. Hold tea pH in this range for best results. pH is a consequence of the biology, not a driver -- it serves as a symptom indicator. If oxygen drops, [[fungal-organic-acid-metal-solubilization]] production during anaerobic conditions causes pH to drop.
-
-## Bottle Test for Aeration Assessment
-
-Half-fill a sealed plastic bottle with finished tea, incubate overnight at [[jadam-ambient-temperature-principle]], then open carefully and smell:
+Aerobic fungi buffer pH between 5.5 and 7.0. Hold tea pH in this range for best results. pH is a consequence of the biology, not a driver -- it serves as a symptom indicator. If oxygen drops, [[jadam-ambient-temperature-principle]], then open carefully and smell:
 - Bottle blown up or sucked in = problem with tea maker (likely anaerobic conditions)
 - Smells bad = not enough aeration or too much food
 - Smells good and dark brown color = tea is likely in good shape
 
-If tea smells bad, apply it only to non-food areas (weeds, bare soil needing [[hamilton-composting-and-organic-matter-management]], known diseased areas). Recovery takes approximately 120 days in poor soil or as little as 3 days if the foodweb is healthy.
-
-## Key Principle
-
-Making AACT is compared to making milk or baking a cake: the compost can be "sick," the machine dirty, the aeration inadequate, the holding tank problematic, or the delivery system flawed. Every step in the production chain must be tested and controlled.
-
-## See Also
-
-- [[aact-brewing-methodology]]
-- [[ingham-aact-field-guide-index]]
-
+If tea smells bad, apply it only to non-food areas (weeds, bare soil needing [[aact-brewing-methodology]]
 - [[aact-aeration-oxygen-management-ingham]]
-- [[aact-troubleshooting-ingham]]
 - [[aact-pathogen-safety-ingham]]
-- [[compost-tea-brewing]]
 - [[ingham-field-guide-compost-tea-ingredients-and-recipes]]
-- [[keyline-design]]
+- [[aact-brewing-methodology]]
+- [[soil-foodweb]]
+- [[det]]
+
+## Overview
+
+Ingham Field Guide Aact Brewing Methodology represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish ingham field guide aact brewing methodology
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving ingham extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
 
 ## Practical Applications
 
-The principles and techniques discussed here have wide-ranging applications
-across multiple disciplines and contexts. Practitioners and researchers
-continue to explore new ways to integrate these concepts into modern practice,
-adapting traditional knowledge to contemporary challenges and opportunities.
+Ingham Field Guide Aact Brewing Methodology finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
 
-## Key Considerations
+## Management and Implementation
 
-Several important factors influence the effectiveness and outcomes described
-in this topic. Understanding these considerations helps practitioners make
-informed decisions and avoid common pitfalls. Environmental conditions,
-timing, and material selection all play critical roles.
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for ingham field guide aact brewing methodology. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+ingham field guide aact brewing methodology and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
 
 ## Historical Context
 
-The historical development of this subject reflects centuries of accumulated
-knowledge and practical experience. From traditional methods passed down
-through generations to modern scientific approaches, the evolution continues
-to inform current best practices and research directions.
+Ingham Field Guide Aact Brewing Methodology has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
 
-## Common Challenges
+## Integration Strategies
 
-Practitioners frequently encounter several challenges when working with
-these concepts. Climate variability, resource limitations, and knowledge
-gaps can all affect outcomes. Addressing these challenges requires patience,
-observation, and a willingness to adapt approaches based on results.
+Successful integration of ingham field guide aact brewing methodology into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
 
 ## See Also
-- [[aact-brewing-methodology]]
-- [[elaine-ingham]]
-- [[soil-foodweb]]
-- [[dom]]
-- [[det]]
+
+- [[aact-brewer-machine-design-testing-standards-ingham]]
+- [[aact-clopyralid-persistent-herbicide-compost-contamination-ingham]]
+- [[aact-saprophytic-pathogenic-fungal-spectrum-hyphal-diameter-ingham]]
+- [[ingham-fungal-inoculum-sourcing]]
+- [[ingham-thermal-compost-versus-worm-compost]]

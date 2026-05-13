@@ -22,15 +22,7 @@ sources:
 
 Centaurium littorale, the seashore centaury, is an annual herb in the family Gentianaceae. It is native to coastal regions of western and northern Europe, where it grows in saltmarsh margins, dune slacks, and sandy sea cliffs.
 
-The species is distinguished from the common centaury ([[centaurium-erythraea]]) by its smaller stature, coastal habitat, and compact inflorescence. It is one of several Centaurium species adapted to saline-influenced environments.
-
-Flowers are pink to rose-pink, produced in dense cymose clusters from June to September. Despite its restricted habitat, the species can be locally abundant in suitable coastal sites.
-
-## Taxonomy and Morphology
-
-**Classification:** Kingdom Plantae → Order Gentianales → Family Gentianaceae → Genus Centaurium → Species C. littorale (D.Turner) Gilmour
-
-Stems are erect, simple or branched from the base, reaching 5–25 cm in height. The [[fukuoka-ideal-rice-plant-morphology-compact-growth-high-yield]] form distinguishes it from the taller C. erythraea.
+The species is distinguished from the common centaury ([[fukuoka-ideal-rice-plant-morphology-compact-growth-high-yield]] form distinguishes it from the taller C. erythraea.
 
 The stem is typically glabrous, with prominent ridges running the length. Branching is more pronounced in open-grown plants with ample space.
 
@@ -42,7 +34,7 @@ Stamens are five, inserted in the corolla tube, with versatile anthers. The styl
 
 Flowering occurs from June to September. The fruit is a cylindrical capsule containing numerous tiny, angular seeds less than 0.5 mm long.
 
-The species is diploid with 2n = 18. It is closely related to Centaurium erythraea and C. pulchellum, forming a complex of annual species with overlapping morphological characters.
+The species is diploid with 2n = 18. It is closely related to [[centaurium-erythraea]] and C. pulchellum, forming a complex of annual species with overlapping morphological characters.
 
 Identification requires careful attention to corolla tube length and calyx lobe proportions. The coastal habitat is a strong diagnostic indicator, as no other annual Centaurium shares this strict coastal restriction.
 
@@ -62,7 +54,7 @@ The species has a classic Atlantic biogeographic distribution. Its range closely
 
 ## Ecology
 
-Centaurium littorale is a therophyte (annual), completing its entire [[agaricus-campestris-biology-and-life-cycle]] within one [[extending-growing-season]]. Seeds germinate in spring after a period of after-ripening.
+Centaurium littorale is a therophyte (annual), completing its entire [[extending-growing-season]]. Seeds germinate in spring after a period of after-ripening.
 
 Pollination is by a wide range of insects including flies, bees, and small butterflies. The pink corollas are highly visible against the pale sand of its coastal habitats.
 

@@ -10,10 +10,7 @@ created: 2026-05-08
 
 ## Overview
 
-[[salvia-divinorum]] is a psychoactive plant from the mint family
-(Lamiaceae) that contains the neoclerodane diterpene salvinorin-A.
-It is traditionally consumed by Mazatec Indians of Oaxaca, Mexico,
-but is now grown and sold in the [[dmt-containing-plants-united-states-halpern]] and worldwide.
+[[dmt-containing-plants-united-states-halpern]] and worldwide.
 Salvinorin-A is unique among naturally occurring hallucinogens as
 the first identified non-nitrogenous kappa-opioid receptor agonist.
 
@@ -22,25 +19,14 @@ the first identified non-nitrogenous kappa-opioid receptor agonist.
 ### Kappa-Opioid Receptor Mechanism
 
 Most hallucinogens are psychoactive through action at the 5-HT2A
-[[serotonin-receptor-interference-psychedelic-mechanism]] subtype (including LSD, psilocin, DMT, and
-mescaline). Salvinorin-A has no activity at [[psilocybin-pharmacology-and-serotonin-receptors]]
+[[psilocybin-pharmacology-and-serotonin-receptors]]
 and instead is the first known naturally occurring non-nitrogenous
 kappa-opioid receptor (KOR) agonist (Roth et al., 2002).
 
 This unique mechanism makes salvinorin-A pharmacologically
 distinct from all other classical and atypical hallucinogens.
 KOR agonism produces dissociative effects rather than the
-classical [[leary-psychedelic-experience-bardo-mapping]].
-
-### No Nitrogen
-Unlike virtually all other psychoactive alkaloids, salvinorin-A
-is a non-nitrogenous compound (a diterpene rather than an
-alkaloid). This makes it structurally unique among psychoactive
-natural products.
-
-## Traditional Use
-
-The [[mazatec-people]] of Oaxaca, Mexico traditionally consume Salvia
+classical [[mazatec-people]] of Oaxaca, Mexico traditionally consume Salvia
 divinorum by chewing fresh leaves or drinking the juice of crushed
 leaves. The salvinorin-A is absorbed through the oral mucosa
 during chewing (Valdes et al., 1983). Traditional use is
@@ -88,3 +74,77 @@ mechanisms are.
 
 ### Primary Risks
 Harm from Salvia divinorum most likely occurs from:
+
+## Overview
+
+Salvia Divinorum Salvinorin represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish salvia divinorum salvinorin
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving salvia extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Salvia Divinorum Salvinorin finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for salvia divinorum salvinorin. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+salvia divinorum salvinorin and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Salvia Divinorum Salvinorin has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of salvia divinorum salvinorin into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource

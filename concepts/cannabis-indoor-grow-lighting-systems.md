@@ -11,9 +11,7 @@ type: concept
 
 # Cannabis Indoor Grow Lighting Systems
 
-Lighting is the single most critical environmental factor in [[query-how-to-set-up-an-indoor-cannabis-grow-on-a-budget]]
-cultivation. The quality, intensity, and spectrum of light directly determine
-plant growth rate, [[green-cannabis-grow-bible-strain-selection-genetics]].
+Lighting is the single most critical environmental factor in [[green-cannabis-grow-bible-strain-selection-genetics]].
 
 ## Light Spectrum and Plant Requirements
 
@@ -46,36 +44,13 @@ electrical energy into heat rather than usable light.
 
 Halogen lights are the small floodlights often seen outside factories. They
 range from 75 watts to 4000 watts. Halogens get extremely hot and create
-unsuitable conditions for indoor [[query-what-is-light-deprivation-cannabis-growing-and-how-does-it-work]]. They are not recommended
-because they are dangerous to use indoors and do not provide the correct light
-spectrum for plant growth.
-
-## Average Lighting Systems
-
-### Standard Fluorescent Tubes
-
-Fluorescent tube lights are the long industrial fixtures found in schools and
-workplaces. They come in lengths from 2 to 10 feet and power ratings from 10
-to 300 watts. While they can support seedling growth, they provide
-insufficient light intensity for mature flowering plants and are difficult to
-position properly for optimal coverage.
-
-### Fluorescent White Tube Lights
-
-These are similar to standard fluorescents but are manufactured in growing
-spectrums. They are not very powerful, typically not exceeding 100 watts, and
-are only recommended for growers who do not intend to produce full flowering
-Cannabis plants. They work adequately for [[green-cannabis-grow-bible-flowering-phase-and-harvest]]. MH lights tend to give off a blue tone while HPS gives off an orange
+unsuitable conditions for indoor [[green-cannabis-grow-bible-flowering-phase-and-harvest]]. MH lights tend to give off a blue tone while HPS gives off an orange
 tone, making them visually distinguishable.
 
 ## Choosing Between MH and HPS
 
 Some growers maintain a dual-system approach, using MH lighting for seedling
-and [[cannabis-vegetative-growth-stage]] and switching to HPS for flowering. The HPS is
-generally considered a better flowering lamp, while MH is superior for
-vegetative growth. If a grower can only afford one system, HPS is the
-recommended choice because it produces acceptable results throughout the
-entire [[bloomfield-fungal-life-cycle-spiral-versus-circle]].
+and [[bloomfield-fungal-life-cycle-spiral-versus-circle]].
 
 When purchasing a lighting system, growers should examine the ballast and
 bulb to identify whether the system is MH or HPS. The type is usually printed
@@ -85,12 +60,7 @@ on the ballast housing or the bulb itself.
 
 Proper light placement is critical for maximizing canopy penetration and
 avoiding stretching. The light should be positioned as close to the plant
-canopy as possible without causing [[query-how-do-i-manage-heat-stress-in-my-cannabis-garden]]. Reflective walls and
-[[green-cannabis-grow-bible-indoor-grow-room-setup]]
-- [[greg-green-temperature-and-humidity-control]]
-
-## See Also
-
+canopy as possible without causing [[green-cannabis-grow-bible-indoor-grow-room-setup]]
 - [[phytochrome-photoreceptor-plant-vision]]
 
 ## Practical Applications
@@ -122,8 +92,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[dom]]
 - [[det]]
-- [[phytochrome]]
 - [[green-cannabis-grow-bible-indoor-grow-room-setup]]
 - [[query-how-to-set-up-an-indoor-cannabis-grow-on-a-budget]]

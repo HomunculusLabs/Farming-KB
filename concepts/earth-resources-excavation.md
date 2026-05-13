@@ -123,16 +123,7 @@ Gravel serves across infrastructure and ecological functions:
 - **Roads** — base and surface courses for unsealed and sealed roads
 - **Drains** — aggregate in French drains, soakaways, and filter trenches
 - **Concrete** — coarse aggregate providing structural strength
-- **[[water-wise-vegetable-gardening|Water]] filters** — biofiltration and greywater treatment systems
-- **[[nitrogen-fixing-trees-and-shrubs|Tree]] [[mulching-guide|mulch]]** — inorganic mulch suppressing weeds while allowing water infiltration
-- **Heat stores** — 19 mm angular gravel provides high surface-area thermal mass for rocket
-  stoves, sauna heaters, and passive solar systems
-
-### Shingle
-
-Shingle, smaller and more rounded than gravel, sits naturally under gravel deposits. Uses include:
-
-- Road and [[interceptor-drains-and-desertification-control|drain]] base layers beneath coarser gravel
+- **[[nitrogen-fixing-trees-and-shrubs|Tree]] [[interceptor-drains-and-desertification-control|drain]] base layers beneath coarser gravel
 - Mulch for desert water condensation systems — night-time moisture condenses on cool stone
   surfaces and drips to plant root zones
 - Refuge habitat for decomposer organisms in ecological wastewater systems
@@ -148,49 +139,10 @@ Slate is a fine-grained metamorphic rock that splits into flat, durable sheets:
 
 ### Boulders
 
-Boulders are the largest excavated material and serve structural and ecological roles:
+## See Also
 
-- **Coarse mulch** — slow-release thermal mass around plantings, moderating root-zone temperature
-- **Wildlife refuge** — habitat for reptiles, amphibians, insects, and small mammals
-- **Walling** — dry-stone walls for boundaries, retaining structures, and windbreaks
-- **Heat radiation** — boulders absorb heat by day and radiate it by night, creating warm
-  microclimates for frost-sensitive species
-
-## Archaeological Awareness
-
-Excavation frequently reveals traces of previous habitation and ecological history:
-
-- **Wildlife tracks and signs** — ancient or seasonal animal movement corridors
-- **Shards and artefacts** — pottery, tools, and cultural material
-- **Fossils** — preserved biological material indicating past environments
-- **Buried trees** — with readable growth rings encoding climate history
-- **Pottery with astronomical data** — some ancient ceramics encode solstice and equinox
-  alignments, offering insight into historical land use patterns
-
-Designers have a responsibility to notice, document, and preserve archaeological finds. These records
-enrich the site's design story and may carry legal protection requirements.
-
-## Supervision Principle
-
-> **Designers should never leave the site during excavation.**
-
-Earth-moving machines are expensive to mobilise, and errors made in absence — incorrect depths, wrong
-material placement, missed features — are far more costly to correct than to prevent. Continuous on-site
-supervision ensures that:
-
-- Topsoil is stripped and stockpiled correctly before deeper cuts begin
-- Materials are sorted by type and directed to appropriate stockpile locations
-- Design tolerances (levels, gradients, depths) are maintained
-- Archaeological or unexpected features are identified immediately
-- Safety is monitored around open excavations and heavy equipment
-
-## Key Principles Summary
-
-1. **Classify before moving** — identify and separate each earth resource by nature
-2. **Topsoil is sacred** — strip first, stockpile, and return to all finished surfaces
-3. **Close material loops** — sediment from dams becomes [[terrace-design-and-construction|terrace]] [[soil-ph|soil]]; excavation spoil becomes
-   landscape structure
-4. **Compaction is incremental** — never exceed 15–30 cm layers; maximum 38 cm with heavy machinery
-5. **Every material has a use** — from boulders to clay to peat, nothing should be treated as waste
-6. **Stay on site** — the designer's presence during excavation is non-negotiable
-7. **Preserve the irreplaceable** — peatlands, archaeological finds, and topsoil cannot be recreated
+- [[fukuoka-straw-healing-the-earth]]
+- [[earth-dam-building-mollison]]
+- [[earth-dam-construction]]
+- [[tropical-earth-shaping-techniques]]
+- [[mollison-tropical-earth-shaping-polyculture-economics]]

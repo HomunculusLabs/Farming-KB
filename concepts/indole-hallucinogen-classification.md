@@ -5,12 +5,7 @@
 Indole hallucinogens are a family of psychoactive compounds characterized by
 their structural feature: a five-sided pyrrole group in association with a
 benzene ring. These molecular rings make the indoles highly reactive
-chemically and hence ideal molecules for [[arbuscule-isolation-metabolic-activity-assays]] in the high-energy
-world of organic life.
-
-The indole hallucinogens represent one of the most pharmacologically and
-culturally significant classes of [[cultural-evolution-and-psychoactive-substances]]. [[terence-mckenna]],
-in "Food of the Gods," identified four principal [[four-families-of-indole-hallucinogens]]
+chemically and hence ideal molecules for [[cultural-evolution-and-psychoactive-substances]]. [[four-families-of-indole-hallucinogens]]
 hallucinogens that occur in plants and have been used by humans for visionary
 and spiritual purposes.
 
@@ -33,58 +28,14 @@ alertness.
 
 ### 1. LSD-Type Compounds
 
-Found in several related genera of [[sacred-mexican-morning-glories-ololiuqui-and-tlitliltzin]] (Ipomoea, Rivea, Argyreia)
-and in ergot fungi ([[bloomfield-ergot-claviceps-purpurea-ergotism]]), the LSD hallucinogens are relatively
+Found in several related genera of [[bloomfield-ergot-claviceps-purpurea-ergotism]]), the LSD hallucinogens are relatively
 rare in nature. That they are the best known of the hallucinogens is
 undoubtedly due to the fact that millions of doses of LSD were manufactured
 and sold during the 1960s.
 
-LSD ([[lsd-d-lysergic-acid-diethylamide]]) is a semi-synthetic derivative of lysergic
-acid, which occurs naturally in ergot. LSD is extraordinarily potent, active
-at doses measured in micrograms. While it is a psychedelic, relatively large
-doses are necessary to elicit the full hallucinogenic "paradis artificiel" of
-vivid transmundane hallucinations that are produced by DMT and psilocybin at
-traditional doses.
-
-Many researchers have stressed the importance of the non-hallucinogenic
-effects of LSD and other psychedelics, including a sense of mind expansion,
-increased speed of thought, and the ability to understand complex issues of
-behavior and life patterning. LSD has been shown to aid in psychotherapy and
-the treatment of chronic alcoholism.
-
-### 2. Tryptamine Hallucinogens
-
-The tryptamine hallucinogens — especially DMT (N,N-dimethyltryptamine),
-psilocin (4-HO-DMT), and psilocybin (4-PO-DMT) — are found throughout the
-higher plant families and in mushrooms. DMT also occurs endogenously in the
-human brain, which has led some researchers to suggest it should not be
-thought of as a "drug" at all, but rather as a naturally occurring component
-of human neurochemistry.
-
-DMT intoxication is the most profound and visually spectacular of the
-visionary hallucinogens, remarkable for its brevity, intensity, and
-nontoxicity. When smoked or injected, the DMT experience typically lasts 5
-to 15 minutes but can feel subjectively much longer. When taken orally with
-a monoamine oxidase inhibitor (MAOI), as in ayahuasca, the effects last
-several hours.
-
-[[hplc-analysis-of-psilocybin-and-psilocin]] occur in mushrooms of the genera Psilocybe,
+LSD ([[hplc-analysis-of-psilocybin-and-psilocin]] occur in mushrooms of the genera Psilocybe,
 Panaeolus, Conocybe, Copelandia, and Inocybe. They are structurally similar
-to serotonin and act primarily as 5-HT2A [[cannabinoid-receptor-agonists-antagonists-synthetic-reference-blesching]]. Psilocybin is
-the phosphate ester of psilocin and serves as a prodrug, converted to the
-active psilocin in the body.
-
-### 3. Beta-Carbolines
-
-Beta-carbolines, such as harmine and harmaline, can be hallucinogenic at
-close to toxic levels. They are important for visionary shamanism because
-they inhibit monoamine oxidase (MAO) enzymes in the body that would otherwise
-break down DMT-type hallucinogens before they can take effect.
-
-This MAO inhibition allows beta-carbolines to be used in conjunction with
-DMT to prolong and intensify visual hallucinations. This combination is the
-basis of the hallucinogenic brew ayahuasca (also called yagé or hoasca) in
-use throughout Amazonian [[guzman-psilocybin-mushrooms-south-america]].
+to serotonin and act primarily as 5-HT2A [[guzman-psilocybin-mushrooms-south-america]].
 
 The primary plant sources of beta-carbolines in ayahuasca are Banisteriopsis
 caapi (which contains harmine, harmaline, and tetrahydroharmine) and
@@ -118,8 +69,82 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[indole]]
 - [[ayahuasca]]
-- [[harmine]]
 - [[psilocybin]]
 - [[tetrahydroharmine]]
+
+## Overview
+
+Indole Hallucinogen Classification represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish indole hallucinogen classification
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving indole extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Indole Hallucinogen Classification finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for indole hallucinogen classification. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+indole hallucinogen classification and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Indole Hallucinogen Classification has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of indole hallucinogen classification into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.

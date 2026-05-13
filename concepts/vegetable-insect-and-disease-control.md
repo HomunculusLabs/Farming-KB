@@ -10,7 +10,7 @@ sources:
 ---
 # Vegetable Insect and Disease Control
 
-[[vegetable-garden-guide]], [[vegetable-watering-and-thinning]]
+[[vegetable-watering-and-thinning]]
 
 ## The First Step: Identify the Problem
 
@@ -23,21 +23,7 @@ Extension office for help with diagnosis.
 ## Pesticide Application
 
 Commercially available garden sprays or dusts applied throughout the
-growing season will control many vegetable [[solomon-insects-and-diseases-integrated-approach]]. Spray
-or dust regularly as directed on the label. Be sure to cover the
-underside of the leaves as well as the tops. Controls may need to be
-reapplied after rain.
-
-## Reducing Pesticide Dependence
-
-To reduce dependence on pesticides, use the following integrated pest
-management (IPM) techniques. These cultural and preventive practices
-form the foundation of a sustainable pest management program.
-
-## Strategy 1: Disease-Resistant Cultivars
-
-Plant only disease-resistant cultivars whenever possible. Many
-[[comparison-heirloom-vegetable-varieties-vs-seed-saving-techniques]] have been bred for resistance to common diseases.
+growing season will control many vegetable [[comparison-heirloom-vegetable-varieties-vs-seed-saving-techniques]] have been bred for resistance to common diseases.
 Resistance is the most effective and economical form of disease
 control. Examples include tomato varieties resistant to Fusarium wilt,
 Verticillium wilt, and nematodes; cabbage resistant to yellows and
@@ -88,3 +74,77 @@ insects into a container of soapy water.
 Water at the base of plants rather than overhead to keep foliage dry.
 Wet leaves promote fungal and bacterial diseases. Water early in the
 day so foliage dries quickly.
+
+## Overview
+
+Vegetable Insect And Disease Control represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish vegetable insect and disease control
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving vegetable extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Vegetable Insect And Disease Control finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for vegetable insect and disease control. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+vegetable insect and disease control and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Vegetable Insect And Disease Control has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of vegetable insect and disease control into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource

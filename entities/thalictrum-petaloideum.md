@@ -96,11 +96,7 @@ Ornamental breeding programs have selected for larger flower panicles and more c
 
 ## See Also
 
-- [[thalictrum-delavayi]]
 - [[thalictrum-aquilegifolium]]
-- [[thalictrum-thalictroides]]
 - [[thalictrum-dioicum]]
-- [[aquilegia-caerulea]]
 - [[anemone-nemorosa]]
-- [[ranunculus-acris]]
 - [[clematis-terniflora]]

@@ -10,15 +10,9 @@ tags: [gardening]
 
 # Creating Garden Communities and Guilds
 
-The pieces of an [[ecological-garden-design]] -- water, soil, plants, and animals -- create little more than a collection of fragments until assembled in proper relationships. This chapter examines how to connect these pieces into living communities that support, enhance, and benefit from each other.
+The pieces of an [[growing-gourmet-light-requirements-mushroom-fruiting]], and rooting depths that minimize competition.
 
-## From Interplanting to Polyculture
-
-### Interplanting
-
-Vegetable gardeners have long mixed different varieties to save space and avoid monoculture. A classic combination pairs onions, carrots, and lettuce: the three have different leaf forms, [[growing-gourmet-light-requirements-mushroom-fruiting]], and rooting depths that minimize competition.
-
-However, interplanting mostly avoids negative interactions rather than creating positive ones. It rarely capitalizes on mutual benefits like [[foliar-pest-deterrence-aact-mechanisms]] or [[mycelial-network-nutrient-transport-imaging-gadd]].
+However, interplanting mostly avoids negative interactions rather than creating positive ones. It rarely capitalizes on mutual benefits like [[mycelial-network-nutrient-transport-imaging-gadd]].
 
 ### Companion Planting
 
@@ -41,10 +35,7 @@ A seven-variety temperate polyculture developed by Welsh inventor Ianto Evans th
 
 **How they interact**:
 - Radishes sprout fast, casting shade to keep soil cool and protect slow germinators
-- Dill and calendula attract [[comparison-beneficial-insects-guide-vs-integrated-pest-management]] and confuse pests with scent
-- Lettuce provides early harvest, creating space for later crops
-- Cabbages grow through fall and winter, protecting soil from erosion
-- Beans [[query-how-do-legumes-add-nitrogen-to-soil]] the soil
+- Dill and calendula attract [[query-how-do-legumes-add-nitrogen-to-soil]] the soil
 - Dense planting creates living mulch that conserves soil moisture and excludes weeds
 
 ## Jajarkot's Advanced Polyculture
@@ -53,32 +44,11 @@ Developed by a village self-development program in Nepal, this expanded polycult
 
 **Species**: Mustard greens, arugula, garden purslane, radishes, chard, lettuces, carrots, fennel, dill, coriander, favas/beans/peas, alliums, cabbage/cauliflower/broccoli, basil, buckwheat
 
-The polyculture follows natural succession principles: fast-growing ground cover gives way to [[query-how-to-use-aquaponics-to-grow-herbs-and-vegetables]], which are gradually replaced as openings appear.
-
-### Guidelines for Designing Polycultures
-
-1. Seed several varieties of each species to lengthen harvest and fill niches
-2. Don't sow too thickly -- plan to eat the thinnings
-3. Begin harvest early, when plants start to crowd, not when mature
-4. Mix plant families, not just species -- avoid heavy single-genus plantings
-5. Include many fast-growing, shallow-rooted species as ground cover
-6. Overlap harvests with multiple varieties ripening at different times
-7. Avoid root and light competition from sprawling plants
-8. Harvest whole plants to create openings for remaining species
-9. Save seed from the healthiest individuals for natural reseeding
-10. Examine your polyculture daily -- "the best fertilizer is the gardener's shadow"
-
-## Guilds: Beyond Polyculture
-
-### What Is a Guild?
-
-A guild is a harmoniously interwoven group of plants and animals, often centered around one major species, that benefits humans while creating habitat. Guilds bridge the gap between conventional [[maintaining-organic-matter-in-vegetable-gardens]] (which benefit only humans) and wildlife gardens (which specifically exclude people).
+The polyculture follows natural succession principles: fast-growing ground cover gives way to [[maintaining-organic-matter-in-vegetable-gardens]] (which benefit only humans) and wildlife gardens (which specifically exclude people).
 
 ### The Three Sisters Guild
 
-The [[halpern-sacramental-peyote-and-native-american-church]] combination of corn, beans, and squash illustrates guild principles:
-
-- **Corn** forms a trellis for beans and feeds nitrogen-fixing bacteria via [[mycorrhiza-root-exudates]]
+The [[mycorrhiza-root-exudates]]
 - **Beans** draw nitrogen from the air and convert it to plant-available form, feeding all three plants
 - **Squash** forms a living mulch that shades soil, inhibits weeds, and retains moisture
 
@@ -117,8 +87,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[dom]]
 - [[aquaponics]]
-- [[det]]
 - [[companion-planting]]
 - [[mycorrhiza]]

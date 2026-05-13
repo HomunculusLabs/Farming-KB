@@ -11,30 +11,12 @@ type: concept
 
 # Cannabis, Deep Relaxation, and the Healing Response
 
-The first section of Chapter V in The [[blesching-cannabis-health-index-autoimmune-conditions]] explores the science and practice of deep relaxation as a healing modality, with particular attention to how the [[blesching-cannabis-cortisol-stress-endocannabinoid-system]]
+The first section of Chapter V in The [[blesching-cannabis-cortisol-stress-endocannabinoid-system]]
 - Decreased heart rate and resting blood pressure
 - Lowered blood sugar levels
-- [[fukuoka-textdoc-increased-production-not-increased-yields]] of nitric oxide, which dilates major blood vessels
-- Reduction in respiratory rate and oxygen consumption
+- [[anandamide-aea]], the endogenous cannabinoid produced by nerve cells, contributes to the relaxation response. Anandamide has been shown to induce the widening of coronary arteries (which supply the heart), thus reducing hypertension. This vasodilatory effect potentially benefits numerous patient populations with cardiovascular conditions.
 
-These changes are particularly important for patients with cardiovascular illnesses and those suffering from adult-onset [[anandamide-aea]], the endogenous cannabinoid produced by nerve cells, contributes to the relaxation response. Anandamide has been shown to induce the widening of coronary arteries (which supply the heart), thus reducing hypertension. This vasodilatory effect potentially benefits numerous patient populations with cardiovascular conditions.
-
-If these findings are confirmed in human trials, it would suggest that patients can learn to actively direct a relaxation response by engaging the [[endocannabinoid-neurogenesis-neuroplasticity-blesching]] with plant cannabinoids may deepen the response
-
-## Cannabis Strain Selection for Deep Relaxation
-
-Different cannabis strains may be more or less suited to facilitating the relaxation response:
-
-- **Indica-dominant strains**: Generally preferred for relaxation due to their sedating and body-focused effects
-- **High-CBD strains**: CBD modulates THC's psychoactivity and may enhance anxiolytic effects without intoxication
-- **Myrcene-rich strains**: The terpene myrcene has sedating properties that complement the relaxation response
-- **Linalool-containing strains**: Linalool, also found in lavender, has calming properties that may deepen relaxation
-
-Patients should experiment with different strains and preparations under medical guidance to find the combination that best supports their relaxation response practice.
-
-## Summary
-
-The relaxation response is a well-documented, scientifically validated physiological state that directly counteracts the harmful effects of chronic stress on the body. Its interface with the [[cannabis-mindful-healing-protocol-setting-intention-exploration-blesching]]
+If these findings are confirmed in human trials, it would suggest that patients can learn to actively direct a relaxation response by engaging the [[cannabis-mindful-healing-protocol-setting-intention-exploration-blesching]]
 ## Practical Applications
 
 Cannabis, Deep Relaxation, and the Healing Response has a range of practical applications that make it relevant to
@@ -96,8 +78,6 @@ through generations to modern scientific approaches, the evolution continues
 to inform current best practices and research directions.
 
 ## See Also
-- [[doc]]
 - [[dom]]
-- [[det]]
 - [[linalool]]
 - [[myrcene]]

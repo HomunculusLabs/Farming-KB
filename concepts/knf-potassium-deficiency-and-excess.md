@@ -13,26 +13,11 @@ type: concept
 Water-soluble potassium (WS-K) is extracted from tobacco stems and
 plays critical roles in enzyme activation, photosynthate translocation,
 stomatal regulation, and fruit quality. Understanding both deficiency
-and excess symptoms ensures proper [[knf-input-application-timing]] and dosage.
-This page complements [[natural-farming-fpj-preparation]] system.
+and excess symptoms ensures proper [[natural-farming-fpj-preparation]] system.
 
 ## Functions of Potassium in Plants
 
-Potassium performs ten [[plant-micronutrients-and-their-essential-functions]] in plant physiology:
-
-1. Activates the starch-synthesizing enzyme and facilitates
-   translocation of photosynthate throughout the plant.
-
-2. Helps relocate storage substances in starchy crops, moving
-   carbohydrates from leaves to storage organs.
-
-3. The principal function is growing meristematic tissues, which are
-   the actively dividing cells at growing tips.
-
-4. Regulates plant stomata and water use. Potassium content in guard
-   cells controls stomatal opening and closing. In light, guard cells
-   produce ATP through photosynthesis and absorb potassium using this
-   energy, causing [[bloomfield-turgor-pressure-and-hyphal-invasion]] to rise and stomata to open.
+Potassium performs ten [[bloomfield-turgor-pressure-and-hyphal-invasion]] to rise and stomata to open.
 
 5. Promotes synthesis of CO2-fixing enzyme and decreases diffusive
    resistance of CO2 in leaves.
@@ -47,31 +32,7 @@ Potassium performs ten [[plant-micronutrients-and-their-essential-functions]] in
    ionizable form.
 
 9. Helps transport carbohydrates, vitalizes carbon assimilation,
-   controls protoplasm turgidity, and improves [[fungal-melanin-environmental-protection-stress-resistance-gadd]].
-
-10. Reduces lodging problems, increases yield, and improves crop
-    quality including sugar content and disease resistance.
-
-## Causes of Potassium Deficiency
-
-Potassium deficiency occurs under several conditions:
-
-- The soil inherently lacks potassium
-- Sufficient potassium exists but the soil contains excess lime and
-  magnesium, which suppress potassium absorption
-- Sandy soil with less humus has poor potassium retention
-- Leaching of potassium from light soils during heavy rainfall
-
-## Seven Deficiency Symptoms
-
-1. Abnormal enzyme system: Lack of potassium leads to an abnormal
-   enzyme system that restrains various metabolisms. Consequently,
-   plant growth is disturbed and obstructed.
-
-2. Growth deterioration: Branches show growth deterioration, maturity
-   is stunted, and both yield and quality deteriorate progressively.
-
-3. Rare in initial stages: Deficiency rarely appears in [[cervantes-seedling-care-early-growth]].
+   controls protoplasm turgidity, and improves [[cervantes-seedling-care-early-growth]].
    Symptoms typically emerge only after the plant grows to a certain
    size, making early detection challenging.
 
@@ -118,8 +79,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[det]]
 - [[knf-imo-four-soil-foundation-and-field-application]]
-- [[knf-seed-diversity-and-conservation]]
 - [[knf-seed-treatment-and-soil-foundation]]
 - [[knf-water-soluble-potassium-detailed]]

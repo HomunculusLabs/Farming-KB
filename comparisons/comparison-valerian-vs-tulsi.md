@@ -10,7 +10,7 @@ sources: []
 
 ## Overview
 
-Valerian ([[valeriana-officinalis]]) and tulsi ([[tulsi]]) are two of the
+Valerian ([[tulsi]]) are two of the
 most widely used medicinal herbs for stress relief and relaxation, yet
 they come from completely different botanical families, traditions, and
 mechanisms of action. Valerian is a European perennial whose root has
@@ -21,32 +21,6 @@ Both are used to promote calm and support sleep, but their pharmacology,
 cultivation requirements, and ideal applications diverge significantly.
 
 ## Valerian
-
-[[valeriana-officinalis]]
-
-Valerian (Valeriana officinalis) is a hardy perennial in the family
-Caprifoliaceae, native to Europe and temperate Asia. It grows 0.5 to 1.5
-meters tall with pinnatisect leaves and clusters of small, fragrant white
-to pale-pink flowers. The thick, fleshy root system produces a
-characteristic pungent odor when dried, caused by isovaleric acid and
-other volatile compounds. This aroma is divisive -- some find it deeply
-comforting while others compare it to dirty socks.
-
-The root is the primary medicinal part, used as a tincture, decoction, or
-encapsulated powder. Valerian's principal mechanism involves modulation of
-GABA-A receptors in the central nervous system, increasing available
-GABA and producing sedative and anxiolytic effects. Key bioactive
-compounds include valerenic acid, valerenal, valeranone, and a complex
-mixture of sesquiterpenes and iridoids. Research supports its use for
-improving sleep latency and sleep quality, though effects are often
-modest and build over one to two weeks of consistent use.
-
-Valerian thrives in moist, nutrient-rich soils with partial shade to full
-sun, tolerating clay and seasonal waterlogging. It is cold-hardy and well
-suited to temperate climate gardens. Roots are typically harvested in the
-second year after the plant has gone dormant in autumn.
-
-## Tulsi
 
 [[tulsi]]
 
@@ -98,8 +72,7 @@ takes to fall asleep and for managing situational anxiety, such as before
 a medical procedure or during a stressful event. It is well suited for
 people who have no trouble managing daytime stress but need help winding
 down at night. Valerian also pairs well with other sedative herbs such as
-passionflower ([[comparison-valerian-vs-passionflower]]) or chamomile
-([[comparison-valerian-vs-chamomile]]) in bedtime formulations. Its cold hardiness
+passionflower ([[comparison-valerian-vs-chamomile]]) in bedtime formulations. Its cold hardiness
 makes it accessible to growers in temperate climates without special
 overwintering arrangements.
 
@@ -142,8 +115,6 @@ providing robust nighttime support.
 
 ## See Also
 
-- [[comparison-ashwagandha-vs-tulsi]]
 - [[comparison-ashwagandha-vs-echinacea]]
-- [[comparison-valerian-vs-passionflower]]
 - [[comparison-lemon-balm-vs-passionflower]]
 - [[comparison-echinacea-vs-tulsi]]

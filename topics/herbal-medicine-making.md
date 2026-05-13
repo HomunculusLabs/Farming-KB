@@ -63,78 +63,21 @@ infusions and decoctions extract polysaccharides, tannins, glycosides, and
 vitamins, while alcohol-based tinctures capture a broader spectrum including
 resins, volatile oils, and many alkaloids. Oil-based preparations deliver
 lipid-soluble compounds for topical use, and vinegar extracts excel at pulling
-minerals from calcium-rich herbs. Understanding these [[lemon-cannabis-alchemy-solvent-properties-and-selection-guide]] is
-essential to producing effective herbal medicines.
-
-The practice of herbal medicine making rests on several interconnected
-disciplines: botanical identification and harvesting, which ensures the correct
-species and plant part is used at peak potency; materia medica knowledge, which
-catalogs the properties, actions, and indications of individual herbs; formulation
-principles, which guide the artful combination of herbs into synergistic blends;
-and safety considerations, which govern proper dosing, awareness of
-contraindications, and recognition of herb-drug interactions. Together, these
-disciplines form a comprehensive system that enables practitioners to create
-targeted, effective, and safe herbal remedies.
-
-In the contemporary landscape, herbal medicine making occupies a unique position
-at the intersection of traditional practice and modern science. The World Health
-Organization estimates that approximately 80% of the world's population relies
-primarily on plant-based medicine for primary healthcare, while in
-industrialized nations, herbal products represent a rapidly growing segment of
-complementary and alternative medicine. This article provides a comprehensive
-overview of the methods, principles, history, and contemporary practice of
-herbal medicine making.
-
-## History of Herbal Medicine
-
-The use of plants for healing predates written history by tens of thousands of
-years. Archaeological evidence from Shanidar Cave in Iraq, dating to
-approximately 60,000 years ago, revealed pollen from several medicinal species
-including yarrow and marshmallow in Neanderthal burial deposits, suggesting
-intentional use of healing plants long before the emergence of Homo sapiens.
-The earliest written records come from Sumerian clay tablets roughly 5,000
-years old, while the Egyptian Ebers Papyrus (circa 1550 BCE) documents over
-700 herbal remedies, many with confirmed pharmacological activity.
-## See Also
-
-- [[herbal-medicine-making-basics]] — Foundational harvesting, drying, and
+minerals from calcium-rich herbs. Understanding these [[herbal-medicine-making-basics]] — Foundational harvesting, drying, and
   preparation categories
-- [[herbal-medicine-preparation-methods]] — Comprehensive guide to all
-  preparation types and their applications
 - [[herbal-medicine-safety]] — Identification, dosing, contraindications, and
   herb-drug interactions
-- [[herbal-medicine-history]] — From prehistoric origins through contemporary
-  practice
 - [[herbal-tincture-making]] — Detailed tincture extraction methods and
   solvent selection
-- [[herbal-tinctures-guide]] — Equipment, alcohol selection, and dosing
-  guidelines for tinctures
-- [[herbal-salves-and-balms]] — [[query-how-to-make-herbal-infused-oils-at-home]], salve recipes, and beeswax
-  ratios
-- [[herbal-formulation-principles]] — Synergy, hierarchical formulas, and
+- [[herbal-salves-and-balms]] — [[herbal-formulation-principles]] — Synergy, hierarchical formulas, and
   dosing in compound preparations
-- [[herbal-actions-and-energetics]] — Classification of herbs by therapeutic
-  action and energetic quality
 - [[herbal-first-aid]] — Acute injury and illness remedies for the home
   apothecary
-- [[herbal-glycerites]] — Alcohol-free extraction methods and pediatric
-  preparations
 - [[herbal-poultices-and-compresses]] — Direct application methods for
   wounds, inflammation, and pain
-- [[herbal-steam-inhalation]] — Respiratory therapy through volatile oil
-  delivery
 - [[herbal-baths-and-hydrotherapy]] — Transdermal and inhalational herbal
   delivery through immersion
-- [[herbal-materia-medica]] — Individual herb profiles organized by
-  therapeutic action
-- herbal plant remedies — Traditional folk remedies and practical
-  preparation recipes
-
-## References
-
-1. Chevallier, Andrew. *The Encyclopedia of Herbal Medicine*. DK Publishing,
-   2016.
-2. Gladstar, Rosemary. *Rosemary Gladstar's [[permaculture-plants-medicinal-herbs-healing]]: A Beginner's
+- [[permaculture-plants-medicinal-herbs-healing]]: A Beginner's
    Guide*. Storey Publishing, 2012.
 3. Green, James. *The Herbal Medicine-Maker's Handbook*. Crossing Press, 2000.
 4. Groves, Maria Noel. *Body Into Balance*. Storey Publishing, 2016.

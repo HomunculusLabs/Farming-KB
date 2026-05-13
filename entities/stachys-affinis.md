@@ -25,50 +25,11 @@ The species is native to northern China and was introduced to Europe and Japan i
 
 In France, it is known as crosne du Japon after the town where it was first cultivated commercially.
 
-Unlike the globe artichoke ([[cynara-scolymus-entity]]), which is a thistle, Chinese artichoke is a member of the mint family.
-
-## Taxonomy and Morphology
-
-**Classification:**
-
-- Kingdom: Plantae
-- Order: Lamiales
-- Family: Lamiaceae
-- Subfamily: Lamioideae
-- Genus: Stachys
-- Species: S. affinis Bunge
-
-The genus Stachys comprises approximately 300 species worldwide, many of which are ornamental or medicinal.
-
-S. affinis is closely related to S. sieboldii, with which it is sometimes confused in horticultural literature.
-
-**Morphology:**
-
-The plant grows 30–60 cm tall with square stems typical of the Lamiaceae.
-
-Leaves are opposite, ovate to lanceolate, 5–10 cm long, with serrate margins and a slightly wrinkled surface.
-
-Flowers are produced in whorls in the upper leaf axils during late summer.
-
-The corolla is pale pink to white, approximately 12–15 mm long, with a bilabiate structure characteristic of the mint family.
-
-The edible portion consists of small, white tubers produced in chains along slender rhizomes.
-
-Each tuber is 3–8 cm long, roughly spiral or figure-eight shaped, with distinct constrictions between the segments.
-
-The tubers have a thin, pale skin and crisp, white, juicy flesh.
-
-## Distribution and Habitat
-
-Stachys affinis is native to northern China, specifically the provinces of Hebei, Shandong, and Shanxi.
-
-It has been cultivated in China for centuries as a specialty [[fukuoka-western-root-vegetable-deficiency]].
+Unlike the globe artichoke ([[fukuoka-western-root-vegetable-deficiency]].
 
 The species was introduced to France in the 1880s by a French missionary, Auguste Pailleux, who brought it from China.
 
-It subsequently spread to other European countries and to Japan, where it remains a popular [[coleman-french-historical-winter-vegetable-production]].
-
-In its native range, the plant grows in moist, well-drained soils [[query-how-to-grow-and-use-oca-in-temperate-climates]].
+It subsequently spread to other European countries and to Japan, where it remains a popular [[query-how-to-grow-and-use-oca-in-temperate-climates]].
 
 It is adapted to cool-temperate conditions and tolerates winter temperatures below freezing, with tubers surviving in the ground.
 
@@ -87,3 +48,86 @@ The tubers are low in calories and contain modest amounts of protein, potassium,
 They contain small quantities of vitamins B1, B2, and C.
 
 The high stachyose content means the tubers can cause flatulence in some individuals, as humans lack the enzyme to digest this oligosaccharide.
+
+## Overview
+
+Stachys Affinis represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish stachys affinis
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving stachys extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Stachys Affinis finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for stachys affinis. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+stachys affinis and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Stachys Affinis has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of stachys affinis into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[dryopteris-affinis]]
+- [[stachys-byzantina]]
+- [[stachys-officinalis]]

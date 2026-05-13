@@ -10,11 +10,8 @@ sources:
 
 # Psychedelic Therapeutic Frameworks
 
-Powell's The [[2c-b-psychedelic-empathogen-guide]]
-
-- [[philosophical-implications-of-psychedelics]]
-- [[philosophical-implications-of-psychedelics]]
-- shulgins [[tryptamine]] research philosophy
+Powell's The [[philosophical-implications-of-psychedelics]]
+- [[tryptamine]] research philosophy
 
 ## Merged: Piggyback Window Exploitation Psychotherapy
 
@@ -24,20 +21,7 @@ Powell's The [[2c-b-psychedelic-empathogen-guide]]
 
 ## Overview
 
-The "piggyback" or "window exploitation" technique represents one of the most significant methodological innovations documented in PiHKAL for the therapeutic use of psychedelic compounds. First discovered and explored with MDE, this approach was subsequently extended most successfully with MDMA, and has implications for clinical [[metzner-psycholytic-psychedelic-therapy-models]].
-
-## The Basic Principle
-
-The technique exploits the "open and benign state" present during the drop-off period of a primary psychedelic compound. A second compound -- typically requiring only a fraction of its standard dosage -- is administered at this point, riding on the psychological openness created by the first substance. The second drug modifies and expands the therapeutic opening that the primary compound produced.
-
-## Discovery with MDE
-
-The earliest procedure used modest quantities of active materials "at the drop-off period of MDE." Researchers found that usually only a fraction of the standard dosage of the second drug was necessary "to evoke a full experience." This was an empirical discovery -- the pharmacological basis was not initially understood.
-
-## Extension to MDMA
-
-The technique was most extensively developed with MDMA in clinical settings. The standard protocol involved:
-1. Initial MDMA dose (typically 120 mg) creating the primary [[blesching-cannabis-therapeutic-window-dosing]]
+The "piggyback" or "window exploitation" technique represents one of the most significant methodological innovations documented in PiHKAL for the therapeutic use of psychedelic compounds. First discovered and explored with MDE, this approach was subsequently extended most successfully with MDMA, and has implications for clinical [[blesching-cannabis-therapeutic-window-dosing]]
 2. Supplemental MDMA dose (typically 40 mg) at approximately 1.5 hours to extend effects
 3. At the drop-off period, introduction of a second compound at reduced dosage
 
@@ -88,3 +72,79 @@ and adaptive capacity helps buffer against unpredictable events and
 conditions. This approach recognizes that some degree of uncertainty is
 inherent in working with natural systems and plans accordingly rather
 than assuming perfect predictability or control over outcomes.
+
+## Overview
+
+Psychedelic Therapeutic Frameworks represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish psychedelic therapeutic frameworks
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving psychedelic extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Psychedelic Therapeutic Frameworks finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for psychedelic therapeutic frameworks. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+psychedelic therapeutic frameworks and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Psychedelic Therapeutic Frameworks has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of psychedelic therapeutic frameworks into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.

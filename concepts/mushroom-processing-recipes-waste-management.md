@@ -65,40 +65,7 @@ Wrapped and fermented in banana leaves for a naturally sour flavor profile.
 | Garlic | 150 g |
 | Salt | 30 g |
 | Shanghai noodles (optional) | 200 g |
-| Fresh [[query-how-to-grow-chili-peppers-from-seed-to-harvest]] | to taste |
-
-### Preparation
-
-1. Clean and shred the mushrooms.
-2. Steam the shredded mushrooms, then cool.
-3. Press excess water out of the steamed mushrooms.
-4. Pound the garlic in a mortar.
-5. Mix the mushrooms with garlic, sticky rice, salt, and fresh chili peppers.
-6. Press the mixture into tight balls.
-7. Wrap each ball in banana leaves (or plastic wrap as an alternative) and tie securely.
-8. Leave at room temperature for **3 days** to ferment.
-9. The finished product has a distinctive sour taste. Eat as-is, or fry with eggs for a savory dish.
-
----
-
-## Recipe 3: Heavenly Mushrooms "Hed Sawan" (Sweet Snack)
-
-A crispy, caramelized mushroom snack — popular as a sweet treat or gift item.
-
-### Ingredients
-
-| Ingredient | Quantity |
-|---|---|
-| Dried shredded mushrooms (from fresh oyster) | 300 g |
-| Palm sugar | 400 g |
-| White soya sauce | as needed |
-| Sesame seeds | 100 g |
-| Vegetable oil | 1 liter |
-| Ground pepper | 2 tsp |
-
-### Preparation
-
-1. Trim and shred fresh [[cultivation-of-oyster-mushrooms]], then sun-dry until fully dehydrated (approximately 300 g dried).
+| Fresh [[cultivation-of-oyster-mushrooms]], then sun-dry until fully dehydrated (approximately 300 g dried).
 2. Heat vegetable oil in a wok or deep pan.
 3. Fry the dried mushrooms until browned and crispy; they will absorb oil during frying.
 4. In a separate pan, combine white soya sauce and palm sugar; cook over medium heat until the mixture becomes thick and sticky.
@@ -118,32 +85,8 @@ A simple, shelf-stable pickled mushroom product requiring minimal ingredients.
 |---|---|
 | Fresh mushrooms | 1 kg |
 | Water | 700 g |
-| Salt | 50 g |
-| White soya sauce | 50 g |
 
-### Preparation
-
-1. Clean the mushrooms thoroughly.
-2. Cut larger mushrooms into 3–4 pieces; leave small ones whole.
-3. Blanch the mushrooms briefly in boiling water.
-4. Place the mushrooms loosely into a clean [[jarrold-glass-jar-spore-print-collection-drying]], leaving **approximately half the jar empty** at the top.
-5. Dissolve the salt and soya sauce in the water to create the brine.
-6. Pour the brine into the jar until the mushrooms are fully submerged and the jar is filled to the top.
-7. Steam the sealed bottles briefly to remove trapped air.
-8. Close the jars tightly and allow to cool.
-9. Store in a cool, dark place. The pickled mushrooms will keep for several months.
-
----
-
-## Recipe 5: Shrimp Paste Mushrooms (Vegetarian)
-
-A plant-based alternative to traditional shrimp paste, made with fermented soybeans and mushrooms.
-
-### Ingredients
-
-| Ingredient | Quantity |
-|---|---|
-| Soybean tailings | 1 kg |
-| Ground mushrooms (not ear mushrooms) | 300 g |
-| Salt | 500 g |
-| Boiling water | 3 cups |
+## See Also
+- [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]]
+- [[mushroom-drying-canning-pickling-methods]]
+- [[oyster-mushroom-shelf-fermentation-substrate-preparation]]

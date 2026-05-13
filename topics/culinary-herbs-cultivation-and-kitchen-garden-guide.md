@@ -1,6 +1,6 @@
 ---
 title: "Culinary Herbs Cultivation and Kitchen Garden Guide"
-subtitle: "[[allen-australian-psilocybe-species-comprehensive-guide]] to growing, harvesting, and using culinary herbs in home gardens, containers, and permaculture systems"
+subtitle: "allen-australian-psilocybe-species-comprehensive-guide to growing, harvesting, and using culinary herbs in home gardens, containers, and permaculture systems"
 tags: [herbs, culinary, kitchen-garden, cultivation, permaculture, propagation, organic]
 date: 2026-05-09
 updated: 2026-05-09
@@ -22,7 +22,7 @@ related_concepts:
 Culinary herbs are the aromatic leaves, stems, flowers, and sometimes roots of
 plants used to flavor, garnish, and preserve food. They form the backbone of
 every major world cuisine, transforming simple ingredients into distinctive
-dishes through their [[essential-oils-and-hydrosol-distillation]] [[mycovolatiles-fungal-volatile-compounds]]. Growing herbs at
+dishes through their [[mycovolatiles-fungal-volatile-compounds]]. Growing herbs at
 home is one of the most accessible and rewarding entry points into gardening,
 requiring minimal space, yielding rapid results, and providing a tangible
 connection between garden and table that few other plant categories can match.
@@ -91,39 +91,11 @@ that can be moved, or treated as annuals and replaced each spring.
 ## Site Selection and Garden Design
 
 Herb gardens can take many forms, from dedicated formal beds to scattered
-plantings integrated throughout the [[aphid-management-vegetable-garden-solomon]] and landscape. The most
-successful herb gardens share several characteristics: proximity to the
-kitchen for convenient harvesting, excellent drainage, and at least six hours
-of direct sunlight daily.
-
-Dedicated herb gardens benefit from being positioned near the kitchen door.
-Herbs are harvested frequently and in small quantities, and a garden that
-requires a five-minute walk will be used far less than one visible from the
-kitchen window. A collection of pots on a sunny patio, a raised bed along a
-walkway, or a window box outside the kitchen all serve this principle of
-proximity. The French potager tradition places herbs in geometric beds at the
-heart of the vegetable garden precisely because they are needed daily.
-
-The herb spiral is a [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]] element that consolidates diverse
+plantings integrated throughout the [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]] element that consolidates diverse
 herb growing conditions into a compact vertical structure. Built as a
 ascending spiral mound of stone or brick, a herb spiral creates multiple
 microclimates: the top is hot and dry, suited to rosemary and thyme; the
 base is cool and moist, suited to mint and cilantro; the north face receives
 less sun, suited to shade-tolerant herbs like chervil; the south face bakes
-in full exposure, suited to [[query-best-mediterranean-herbs-for-beginner-herb-garden]]. A well-built herb spiral can
-accommodate twenty or more herb varieties in a footprint of roughly six square
-feet.
-
-Drainage is the single most important soil factor for herbs. Most culinary
-herbs, particularly the Mediterranean species, are adapted to lean, rocky,
-well-drained soils and will suffer root rot in heavy clay or waterlogged
-conditions. Raised beds, mounded rows, and containers with drainage holes all
-address this requirement. Amending heavy soils with coarse sand, perlite, or
-grit at a rate of one part amendment to two parts native soil dramatically
-improves herb performance.
-
-## See Also
-
-- [[food-forest-design-and-plant-selection-guide]]
-- [[natural-farming-guide-hugelkultur-mounded-garden-beds]]
+in full exposure, suited to [[food-forest-design-and-plant-selection-guide]]
 - [[comparison-deep-bed-cultivation-vs-square-foot-gardening]]

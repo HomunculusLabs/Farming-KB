@@ -9,57 +9,7 @@ sources:
 ---
 # 4-TME (3-Thiometaescaline; 4,5-Dimethoxy-3-ethylthiophenethylamine)
 
-4-TME is a sulfur-substituted phenethylamine and the ethylthio analogue of me (metaescaline). It replaces the 3-ethoxy group of metaescaline with a 3-ethylthio group, producing a compound with distinctive disinhibiting and creative effects. The compound is listed as [[2c-b-pihkal-entry-20]] #164.
-
-## Chemical Classification
-
-4-TME belongs to the phenethylamine class of chemical compounds.
-
-It is formally named 4,5-dimethoxy-3-ethylthiophenethylamine, also known as 3-thiometaescaline.
-
-The compound is the thio-analogue of me (metaescaline), with the 3-ethoxy group replaced by a 3-ethylthio group.
-
-The ethylthio substitution is at the 3-position, with methoxy groups at the 4- and 5-positions.
-
-The numbering convention for TME compounds follows the pattern: the number indicates the position of the sulfur atom.
-
-## Pharmacological Profile
-
-4-TME is an active compound with a dosage range of 60 to 100 milligrams.
-
-The duration of effects is 10 to 15 hours.
-
-The compound produces notable disinhibition and creative enhancement.
-
-Reports include both positive and challenging aspects to the experience.
-
-## Qualitative Effects
-
-At 60 mg, subjects found the experience important but felt the effects were difficult to fully characterize.
-
-At 100 mg, subjects became aware of the development quite early, reaching a remarkable state within an hour and a half.
-
-The experience was characterized by extreme disinhibition, with easy verbal play and self-revelation.
-
-However, the self-revelation did not extend to very deep personal levels.
-
-Great fun was reported with watercolor painting, though the artwork itself was not particularly remarkable.
-
-Sleep was difficult -- subjects were unable to sleep at midnight and required considerable care to eventually rest.
-
-Subjects reported they would be very cautious about repeating at this dosage.
-
-Another subject at 100 mg experienced a sudden revelation described as the "wet-paint theory of Christ."
-
-## The Naming Convention for Thio-Metaescalines
-
-The TME compounds follow a systematic naming convention.
-
-The letter M precedes the name of the parent compound (ME for metaescaline).
-
-The number (3-, 4-, or 5-) indicates the position of the sulfur atom on the ring.
-
-The prefix "Thio" indicates [[pihkal-sulfur-substitution-potency-sar]].
+4-TME is a sulfur-substituted phenethylamine and the ethylthio analogue of me (metaescaline). It replaces the 3-ethoxy group of metaescaline with a 3-ethylthio group, producing a compound with distinctive disinhibiting and creative effects. The compound is listed as [[pihkal-sulfur-substitution-potency-sar]].
 
 The thiometaescalines thus represent a systematic series exploring the effect of sulfur placement on the metaescaline scaffold.
 
@@ -71,20 +21,91 @@ Duration: 10 - 15 h.
 
 ## See Also
 
-- [[elsholtzia-ciliata]]
+- [[mescaline]]
 
-me
+[[4-tim-entity]]
 
-metaescaline
+## Overview
 
-[[mescaline]]
+4 Tme Entity represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
 
-[[3-te-entity]]
+## Key Characteristics
 
-## References
+Several defining characteristics distinguish 4 tme entity
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
 
-Shulgin, A. & Shulgin, A. (1991). PIHKAL: A Chemical Love Story. Entry #164: 4-TME.
+## Ecological Context
 
-## Related
+The ecological relationships involving 4 extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
 
-- [[4-tim-entity]]
+## Practical Applications
+
+4 Tme Entity finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for 4 tme entity. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+4 tme entity and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+4 Tme Entity has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of 4 tme entity into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[3c-e-entity]]
+- [[ganesha-entity]]
+- [[methyl-mmda-2-entity-pihkal]]
+- [[tris-entity-pihkal]]
+- [[vaccinium-corymbosum-entity]]

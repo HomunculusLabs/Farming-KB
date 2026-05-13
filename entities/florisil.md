@@ -8,7 +8,7 @@ type: entity
 
 ## Description
 
-Florisil is a registered trademark for a synthetic magnesium silicate adsorbent used extensively in chromatographic separation of [[chamovitz-plant-scent-communication-volatile-organic-compounds]]. In the context of [[high-volume-cannabis-extraction-and-fractional-distillation]] purification, Florisil serves as a stationary phase material for column chromatography to separate cannabinoids from non-psychoactive plant constituents and to isolate individual cannabinoids from one another. Its high surface activity and selective adsorption properties make it particularly effective for removing polar plant contaminants while allowing cannabinoid fractions to elute cleanly.
+Florisil is a registered trademark for a synthetic magnesium silicate adsorbent used extensively in chromatographic separation of [[high-volume-cannabis-extraction-and-fractional-distillation]] purification, Florisil serves as a stationary phase material for column chromatography to separate cannabinoids from non-psychoactive plant constituents and to isolate individual cannabinoids from one another. Its high surface activity and selective adsorption properties make it particularly effective for removing polar plant contaminants while allowing cannabinoid fractions to elute cleanly.
 
 ## Classification
 
@@ -16,28 +16,7 @@ Florisil is a registered trademark for a synthetic magnesium silicate adsorbent 
 - **Chemical type**: Magnesium silicate (synthetic)
 - **Approximate composition**: 15% MgO, 84% SiO2
 - **Primary use**: Column chromatography stationary phase
-- **Field**: Analytical chemistry, [[vioxx-scandal-evidence-based-medicine-gaps-lessons-cannabis-research-blesching-2015]], pesticide residue analysis
-
-## Key Facts
-
-- Florisil is a highly activated, selective adsorbent composed of magnesium silicate. Its high surface area and polar character give it strong affinity for hydroxyl-containing compounds, carotenoids, chlorophylls, and other polar plant constituents.
-- In the Lloydia Journal of Natural Products (vol. 33, no. 4, p. 456) procedure for hashish cannabinoid isolation, 30.5 kg of Florisil was used to chromatograph 3056 gm of hexane-extracted hashish oil (a ratio of approximately 10:1).
-- Elution with 2% methanol in hexane on Florisil produced a dark oil containing 50% cannabidiol, 20% cannabinol, 15% delta-9-THC, and 15% unidentified components from the initial hashish extract.
-- The original hashish extract (before Florisil chromatography) contained 29.5% cannabidiol, 8.2% cannabinol, and 5.8% delta-9-THC as determined by gas-liquid chromatography (GLC), demonstrating the concentration effect of the chromatographic step.
-- Using a 40:1 Florisil-to-sample ratio provided essentially pure cannabidiol as confirmed by GLC, though the product could not be induced to crystallize without the dinitrobenzoate derivatization procedure.
-- A smaller-scale purification used 3400 gm Florisil to chromatograph 180 gm of intermediate product, eluting with 30% chloroform in hexane to yield oily cannabidiol suitable for crystallization.
-- Florisil chromatography of the hexane extract of hashish removed unwanted constituents amounting to 49% of the oil's weight. The chromatographed extract was almost entirely composed of cannabinoid elements.
-
-## Applications in Cannabis Chemistry
-
-- **Bulk cannabinoid separation**: Resolving hashish extracts into CBD-rich, CBN-rich, and THC-rich fractions.
-- **Purification of intermediates**: Cleaning up the cannabidiol-bis-3,5-dinitrobenzoate cleavage product before final crystallization.
-- **Removal of non-cannabinoid plant material**: Chlorophyll, waxes, tars, and other polar impurities are strongly retained by Florisil while cannabinoids elute in non-polar solvent systems.
-- **Concentration of active fractions**: The dramatic shift from 5.8% THC in crude extract to 15% THC after Florisil chromatography demonstrates its concentrating power.
-
-## Relevance to Cultivation and Mycology
-
-While Florisil has no direct application in plant cultivation or mycology, it is a critical laboratory reagent for researchers seeking to isolate and characterize cannabinoid compounds from cannabis. The purity of isolated cannabinoids (especially cannabidiol and THC) achieved through Florisil chromatography enables precise pharmacological study and isomerization research. In the historical development of cannabis chemistry, Florisil-based chromatography was instrumental in establishing the cannabinoid profiles of different cannabis varieties and hashish samples, which in turn informed breeding decisions [[seed-saving-and-variety-selection]] for cultivators.
+- **Field**: Analytical chemistry, [[seed-saving-and-variety-selection]] for cultivators.
 
 ## Safety Considerations
 
@@ -48,37 +27,90 @@ While Florisil has no direct application in plant cultivation or mycology, it is
 
 ## Historical Notes
 
-The use of Florisil in cannabis research dates to the 1960s-1970s, when researchers at institutions including the National Institute of Mental Health (NIMH) were working to isolate and characterize the active components of cannabis. The 13 kg of confiscated hashish processed with Florisil chromatography as documented in the Lloydia procedure was supplied by NIMH for this purpose. This work was part of the broader scientific effort to understand [[endocannabinoid-system-and-cannabis-pharmacology]] that ultimately led to the identification of the endocannabinoid system decades later.
+The use of Florisil in cannabis research dates to the 1960s-1970s, when researchers at institutions including the National Institute of Mental Health (NIMH) were working to isolate and characterize the active components of cannabis. The 13 kg of confiscated hashish processed with Florisil chromatography as documented in the Lloydia procedure was supplied by NIMH for this purpose. This work was part of the broader scientific effort to understand [[vioxx-scandal-evidence-based-medicine-gaps-lessons-cannabis-research-blesching-2015]]
+- [[blesching-cannabis-chi-scoring-evidence-based-medicine]]
+- [[high-volume-cannabis-extraction-and-fractional-distillation]]
 
-## Research Directions
+## See Also
+- [[chamovitz-plant-scent-communication-volatile-organic-compounds]]
+- [[blesching-cannabis-health-index-mental-health-applications]]
+- [[endocannabinoid-system]]
+- [[methanol]]
+- [[det]]
 
-Current research explores applications in bioremediation, sustainable agriculture, and ecological restoration. Academic interest continues to grow as new methodologies reveal previously unknown properties and relationships.
+## Overview
 
-## Background and Context
+Florisil represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
 
-This subject has relevance across multiple disciplines and applications. Understanding its fundamental principles provides a foundation for practical application and further study.
+## Key Characteristics
+
+Several defining characteristics distinguish florisil
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving florisil extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
 
 ## Practical Applications
 
-Implementation spans agricultural, ecological, and cultural contexts. The methodology draws on both traditional knowledge and modern scientific understanding.
+Florisil finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
 
-## See Also
-- [[vioxx-scandal-evidence-based-medicine-gaps-lessons-cannabis-research-blesching-2015]]
-- [[chamovitz-plant-scent-communication-volatile-organic-compounds]]
-- [[blesching-cannabis-chi-scoring-evidence-based-medicine]]
-- [[blesching-cannabis-health-index-mental-health-applications]]
-- [[high-volume-cannabis-extraction-and-fractional-distillation]]
+## Management and Implementation
 
-## See Also
-- [[vioxx-scandal-evidence-based-medicine-gaps-lessons-cannabis-research-blesching-2015]]
-- [[chamovitz-plant-scent-communication-volatile-organic-compounds]]
-- [[blesching-cannabis-chi-scoring-evidence-based-medicine]]
-- [[blesching-cannabis-health-index-mental-health-applications]]
-- [[high-volume-cannabis-extraction-and-fractional-distillation]]
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
 
-## See Also
-- [[endocannabinoid-system]]
-- [[mycology]]
-- [[methanol]]
-- [[doc]]
-- [[det]]
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for florisil. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+florisil and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Florisil has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of florisil into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.

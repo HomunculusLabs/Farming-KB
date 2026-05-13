@@ -16,8 +16,7 @@ sources:
 # Thai Processed Mushroom Products and Fermentation Recipes
 
 Because mushrooms are highly perishable, strategies for conservation and
-processing are essential for any [[accessible-mushroom-cultivation-for-disabilities]] enterprise. The FAO
-training manual for [[fao-monitoring-evaluation-disabled-mushroom-entrepreneurs]] farmers in northeastern Thailand
+processing are essential for any [[fao-monitoring-evaluation-disabled-mushroom-entrepreneurs]] farmers in northeastern Thailand
 documents several traditional Thai methods for processing fresh mushrooms
 into shelf-stable products, representing an important income diversification
 strategy for small-scale producers.
@@ -40,9 +39,7 @@ facilities in rural areas may not support elaborate processing techniques.
 
 ## Fermented Mushrooms: Pla La Hed
 
-Pla la hed is a traditional fermented [[magic-mushroom-preparation-and-consumption-methods]] widely
-appreciated in northeastern Thailand. The recipe calls for two kilograms
-of shredded [[cultivation-of-oyster-mushrooms]] or the Nang Fa variety, 200 grams of roasted
+Pla la hed is a traditional fermented [[cultivation-of-oyster-mushrooms]] or the Nang Fa variety, 200 grams of roasted
 rice, 100 grams of salt, and three tablespoons of garlic cloves.
 
 The preparation process involves cleaning, trimming, and shredding the
@@ -88,3 +85,11 @@ oil, and two teaspoons of ground pepper.
 The preparation involves frying the dried shredded mushrooms in vegetable
 oil until crispy, then draining the oil. Palm sugar is caramelized in a
 pan, and the fried mushrooms are added along with soy sauce and ground
+
+## See Also
+
+- [[telluride-mushroom-festival-modern-mycological-culture]]
+- [[shroom-cultural-history-mushroom-in-ancient-civilizations]]
+- [[bloomfield-mushroom-foraging-immigrant-poisonings-paddy-straw-confusion]]
+- [[mckenna-mushroom-teonanacatl-franciscan-theophagy-and-oaxaca-survival]]
+- [[mushroom-poisoning-guide]]

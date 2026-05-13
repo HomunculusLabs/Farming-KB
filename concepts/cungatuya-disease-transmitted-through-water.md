@@ -10,17 +10,7 @@ type: concept
 
 Cungatuya is a serious shamanic illness in Amazonian medicine transmitted through contaminated water. The disease is caused when a sorcerer dispatches his *mashu* (bat) to drop its *yachay* (magical phlegm) into a victim's water supply. The victim becomes progressively weaker, unable to ingest any nutrition, and ultimately dies. Cungatuya can also be contracted when the same bat drops its saliva into drinking water left uncovered — a mundane lapse in hygiene that becomes, in the shamanic framework, a vector for lethal sorcery.
 
-The name *cungatuya* (also rendered *cuncatuya* in some accounts) belongs to the Quechua-influenced medical lexicon of the Peruvian Amazon. It illustrates a core principle of [[amazonian-shamanic-battles-and-defensive-powers]] pathology: that illness is not solely a biological event but a social and spiritual one, involving the intentions of other human beings mediated by invisible agents.
-
-## Etiology and Transmission
-
-Cungatuya has two recognized routes of transmission:
-
-1. **Sorcerous transmission**: A sorcerer (*brujo*) sends his mashu (bat spirit) to drop yachay (magical phlegm) directly into the victim's water container. The phlegm contains the disease agent, which the victim ingests unknowingly.
-
-2. **Accidental transmission**: The mashu or another contaminated animal drops its saliva into water that has been left uncovered — specifically, a water jar (*tinaja*) left without a cap on the grill. This represents a failure of domestic hygiene that creates vulnerability to sorcerous attack.
-
-Both routes converge on the same mechanism: the introduction of a foreign, malevolent substance into the body through water. The distinction between intentional sorcery and accidental contamination blurs in the [[multiple-realities-spirit-beings-shamanic-worldview-metzner]], where the boundary between natural and supernatural causation is permeable.
+The name *cungatuya* (also rendered *cuncatuya* in some accounts) belongs to the Quechua-influenced medical lexicon of the Peruvian Amazon. It illustrates a core principle of [[multiple-realities-spirit-beings-shamanic-worldview-metzner]], where the boundary between natural and supernatural causation is permeable.
 
 ## Pathology and Symptoms
 
@@ -40,44 +30,9 @@ These creatures intensify the sorcerer's spell through their own phlegm, creatin
 
 ### Sucking Cure
 
-The primary treatment is performed by a *vegetalista* who sucks the disease out of the patient using the *mariri* (magical phlegm) of his own throat. This is a direct counter-action: the healer's beneficial phlegm neutralizes and extracts the sorcerer's malevolent phlegm. The act of sucking (*chupar*) is one of the most fundamental healing techniques [[chullachaki-and-soul-recovery-in-amazonian-shamanism]], employed across dozens of disease categories.
+The primary treatment is performed by a *vegetalista* who sucks the disease out of the patient using the *mariri* (magical phlegm) of his own throat. This is a direct counter-action: the healer's beneficial phlegm neutralizes and extracts the sorcerer's malevolent phlegm. The act of sucking (*chupar*) is one of the most fundamental healing techniques [[eichhornia-crassipes]])
 
-### Protective Measures During Treatment
-
-The healing session requires elaborate protective measures to prevent interference:
-
-- **Tingunas**: Strong, colorful energy fields are raised around the healing circle to create an impenetrable barrier.
-- **Guardian animals**: Animals of prey are posted as sentinels, including:
-  - **Yachaygavilanes** (wise sparrow hawks)
-  - **Tahuicuros** (Monasa nigrifrons)
-  - **Supay-unchalas** (Aramides cajanea)
-- **Physical barriers**: The pushco-yuyo plant and the thorns of casha-huasca (thorny vine) are placed around the healing area.
-- **Magnetic disks**: The master raises his magnetic powers in the form of yellow disks to ensure no microbe of the disease escapes capture.
-
-### Magnetic Containment
-
-A critical element of the cure is the creation of magnetic fields — visualized as yellow disks — that prevent any disease agent from escaping the treatment area. This reflects the shamanic understanding that diseases are not merely present in the patient's body but are active, mobile entities that will flee if not contained.
-
-## Amplifying Plants
-
-Several plants are described as intensifying the pain of cungatuya, making the disease worse:
-
-- **Maramara** (unidentified)
-- **Cacao** (Theobroma cacao)
-- **Macambo** (Theobroma quinquenervia)
-- **Huamas** (water hyacinth, [[eichhornia-crassipes]])
-
-The presence of these plants near the patient or in the sorcerer's toolkit represents the ecological dimension of [[amazonian-sorcery-types]] — the manipulation of plant properties to amplify harmful intent.
-
-## The Sorcerer's Circle
-
-The sorcerers who inflict cungatuya operate from a dedicated circle of sorcery, surrounded by blue tingunas maintained by their animal familiars. This organized practice of harmful magic (*brujería* or *shitanería*) exists as a structured discipline parallel to healing, using many of the same techniques and spirit allies but directed toward harm rather than cure.
-
-## The Healer's Guardians
-
-In contrast to the sorcerer's circle, the vegetalista's healing space is protected by the "great princes of the great kingdom of the Dunas" — armed cavalry riders on white horses (*yura-caballos*), described as "quick and intrepid." These spirit allies, along with the healer's anaconda, owl (*huasi-urcututo*), and *arkana* (defensive energy), form a comprehensive defensive system.
-
-The vision also includes a "big spaceship from the Kima constellation, with powerful knowledge about meditation and levitation" — one of many references in Amaringo's work to extraterrestrial or interdimensional beings who participate in Amazonian [[metzner-metaphysical-realms-nonordinary-reality-shamanic-cosmology]] as teachers and protectors.
+The presence of these plants near the patient or in the sorcerer's toolkit represents the ecological dimension of [[metzner-metaphysical-realms-nonordinary-reality-shamanic-cosmology]] as teachers and protectors.
 
 ## Cultural Significance
 
@@ -85,9 +40,7 @@ Cungatuya encodes practical public health knowledge within a shamanic framework:
 
 ## See Also
 
-- [[amazonian-sorcery-illness-and-curing-practices]]
 - [[ayahuasca-ceremony-and-mariri-system]]
-- [[vegetalista-healing-techniques-and-plant-medicines]]
 - [[shamanic-powers-and-mariris]]
 
 ## Practical Applications
@@ -119,8 +72,78 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[ayahuasca]]
 - [[cuncatuya]]
-- [[dom]]
 - [[shamanism]]
 - [[theobroma-cacao]]
+
+## Overview
+
+Cungatuya Disease Transmitted Through Water represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish cungatuya disease transmitted through water
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving cungatuya extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Cungatuya Disease Transmitted Through Water finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for cungatuya disease transmitted through water. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+cungatuya disease transmitted through water and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Cungatuya Disease Transmitted Through Water has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of cungatuya disease transmitted through water into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions

@@ -13,7 +13,7 @@ sources:
 
 The existence of indigenous fungi confined to marine habitats was not
 recognized until about 40 years before the publication of
-"[[biodiversity-of-fungi-biodiversity-patterns-ecosystems]]" (Johnson and Sparrow 1961). [[marine-fungi-diversity-sampling]] are
+"[[marine-fungi-diversity-sampling]] are
 not a taxonomic group but are defined ecologically. Marine and
 estuarine environments -- oceans, shores, river mouths, tidal creeks,
 sounds, lagoons, and connected saltwater bodies -- occupy 75% of the
@@ -33,13 +33,7 @@ Kohlmeyer and Kohlmeyer (1979) proposed key ecological categories:
   estuarine or marine plants.
 
 These categories reflect the continuum from fully marine to
-terrestrial lifestyles and complicate [[fungal-biodiversity-estimates]].
-
-## Eumycota (True Fungi)
-
-### Habitats and Modes of Life
-
-Marine eumycotic fungi occupy diverse [[ecological-roles-fungi-ecosystems]]:
+terrestrial lifestyles and complicate [[ecological-roles-fungi-ecosystems]]:
 
 - **Saprotrophs**: Important decomposers of cellulose (driftwood,
   pilings, mangrove roots, marsh plants), washed-up algae, seagrass
@@ -49,18 +43,8 @@ Marine eumycotic fungi occupy diverse [[ecological-roles-fungi-ecosystems]]:
   lichenoids with cyanobacteria or green algae (e.g., *Halographis
   runica* in submerged snail shells), true submarine lichens
   (*Arthopyrenia halodytes* in barnacle tests), and mycophycobioses
-  (obligate symbioses with [[seaweed-and-marine-macroalgae-in-agriculture]] macroalgae in agriculture).
-- **Parasites**: About 40 species of higher marine fungi are
-  parasitic, mostly Ascomycota on algae. *Mycaureola dilseae* is the
-  only known filamentous basidiomycete parasitizing algae.
-
-### Distribution Patterns
-
-Marine fungi occur mainly in the intertidal zone where most organic
-substrata are deposited. Tropical and subtropical regions harbor
-greater species diversity than temperate zones. [[mangrove-ecosystems-and-coastal-restoration]] coastal restoration
-are particularly rich in [[marine-fungal-diversity]] species, with estimates
-suggesting over 200 species associated with mangrove [[fungal-diversity-leaf-litter-coarse-woody-debris]]
+  (obligate symbioses with [[mangrove-ecosystems-and-coastal-restoration]] coastal restoration
+are particularly rich in [[fungal-diversity-leaf-litter-coarse-woody-debris]]
 alone. Wood substrata support the highest diversity of all marine
 [[freshwater-fungal-habitats-conservation-urgency]].
 
@@ -88,3 +72,79 @@ unavailable to strictly terrestrial species.
 
 Marine fungal spores must survive immersion and locate appropriate
 substrata in a vast aquatic environment. Many produce appendaged
+
+## Overview
+
+Marine Mycelial Fungi represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish marine mycelial fungi
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving marine extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Marine Mycelial Fungi finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for marine mycelial fungi. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+marine mycelial fungi and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Marine Mycelial Fungi has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of marine mycelial fungi into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.

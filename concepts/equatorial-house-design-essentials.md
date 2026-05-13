@@ -90,15 +90,11 @@ The wet season is the "hungry gap" where plants are growing but too young to har
 
 ### Key Species
 
-The garden and orchard framework includes mango, papaya, sapote, banana, limes, coconut, cashew, macadamia nut, breadfruit, avocado, pineapple, and durian. Large legumes such as Inga, Gliricidia, [[leucaena]], and Cajanus are essential interplants for nitrogen fixation and mulch production. In the vegetable garden, yam and sweet potato yield better than potato. Amaranth serves as both green and grain crop. Lima, velvet, and Dolichos beans trellis on tree legumes.
-
-### Structural and Craft Materials
-
-Bamboos, balsa, [[teak]], palms, and mahogany provide structural and craft materials. Rattans can be encouraged along waterways and mangrove edges. Oil palm, jelly palm, Bactris, Mauritia, salak palm, and doum palm provide useful fruit trusses.
+The garden and orchard framework includes mango, papaya, sapote, banana, limes, coconut, cashew, macadamia nut, breadfruit, avocado, pineapple, and durian. Large legumes such as Inga, Gliricidia, [[teak]], palms, and mahogany provide structural and craft materials. Rattans can be encouraged along waterways and mangrove edges. Oil palm, jelly palm, Bactris, Mauritia, salak palm, and [[doum-palm]] provide useful fruit trusses.
 
 ### Pest Management
 
-Large insect pests (locust, cicadas, sucking bugs) are plentiful; guinea-fowl or chickens on range provide some defense. Native rodents and pigs can be damaging. Termites and ants largely replace earthworms in soil-building, and buildings must be constructed to resist them. Geckoes in houses eat many insect pests, as do wolf spiders—both should be welcomed rather than eliminated.
+Large insect pests (locust, cicadas, sucking bugs) are plentiful; guinea-fowl or chickens on range provide some defense. Native rodents and pigs can be damaging. Termites and ants largely replace [[earthworms]] in soil-building, and buildings must be constructed to resist them. Geckoes in houses eat many insect pests, as do wolf spiders—both should be welcomed rather than eliminated.
 
 ### Domestic Animals
 
@@ -113,6 +109,5 @@ A scatter of Banksia, Casuarina, Gigasperma calaspora, and Pultenea with their m
 Hurricane damage can be limited by raising large earth banks, selecting valley garden sites, screening plantings with bamboo groves, establishing a general tree canopy through garden and plantation, or a combination of these strategies. Oversize swales aid wet-season water run-off control and diversion to storage.
 ## See also
 
-- [[permaculture-design]]
 - [[passive-cooling-tropical-subtropical-houses]]
 - [[tropical-house-design-cooling-strategies]]

@@ -6,7 +6,7 @@ type: concept
 
 # Passiflora (Passionfruit) Species in Permaculture
 
-The genus *Passiflora* (family Passifloraceae) encompasses approximately 500 species of climbing vines, shrubs, and small trees native primarily to tropical and subtropical America. While best known for the edible passionfruit, the genus includes species with diverse uses ranging from food and medicine to ornamental display. In permaculture design, passionfruit vines are valuable vertical-layer plants that produce prolific crops while requiring relatively little ground space.
+The genus *Passiflora* (family Passifloraceae) encompasses approximately 500 species of climbing vines, shrubs, and small trees native primarily to tropical and subtropical America. While best known for the edible passionfruit, the genus includes species with diverse uses ranging from food and medicine to ornamental display. [[ecological-succession-in-permaculture-design]], passionfruit vines are valuable vertical-layer plants that produce prolific crops while requiring relatively little ground space.
 
 ## Botanical Overview
 
@@ -18,8 +18,7 @@ Passionflowers are instantly recognizable by their extraordinary floral structur
 
 The most commercially important species, native to southern Brazil through Paraguay to northern Argentina. Two distinct forms are recognized:
 
-- **Purple passionfruit:** Smaller, sweeter fruit with purple skin; better suited to subtropical and warm [[fukuoka-natural-farming-temperate-climates]] with moderate winters (can tolerate light frosts). Rich, aromatic flavor considered superior for fresh eating and juice.
-- **Yellow passionfruit (*P. edulis* f. *flavicarpa*):** Larger, more acidic fruit with yellow skin; better suited to tropical lowland conditions. More vigorous and disease-resistant than the purple form; the primary commercial type [[fukuoka-natural-farming-in-tropical-regions]].
+- **Purple passionfruit:** Smaller, sweeter fruit with purple skin; better suited to subtropical and warm [[fukuoka-natural-farming-in-tropical-regions]].
 
 **Growing requirements:**
 - Temperature: Optimal 20–30°C; purple form tolerates brief frosts to -2°C
@@ -30,7 +29,7 @@ The most commercially important species, native to southern Brazil through Parag
 
 ### Giant Granadilla (*Passiflora quadrangularis*)
 
-The largest-fruited passionfruit, native to tropical South America. Fruits can weigh 1–4 kg and measure up to 30 cm long. The pulp is milder and less aromatic than common passionfruit but produced in abundance.
+The largest-fruited passionfruit, native to tropical [[guzman-psilocybin-mushrooms-south-america]]. Fruits can weigh 1–4 kg and measure up to 30 cm long. The pulp is milder and less aromatic than common passionfruit but produced in abundance.
 
 - **Uses:** Eaten fresh, juiced, or used in desserts; the immature fruit can be cooked as a vegetable
 - **Climatic requirements:** Strictly tropical; requires warm, frost-free conditions year-round
@@ -51,21 +50,7 @@ Native to Andean South America, this species produces elongated, banana-shaped f
 - **Climatic adaptation:** Tolerates cooler conditions and higher elevations than *P. edulis*
 - **Growth habit:** Vigorous but less rampant than giant granadilla
 - **Culinary use:** Excellent for juices, jams, and desserts
-- **Note:** Can become invasive in some [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]]; manage containment carefully
-
-### Maypop (*Passiflora incarnata*)
-
-Native to the southeastern United States, this is the most cold-hardy edible passionfruit, tolerating temperatures to -15°C. It dies back to the ground in winter and regrows from the root system each spring.
-
-- **Fruit:** Smaller than tropical species (5–7 cm), with pale yellow-orange pulp
-- **Flavor:** Mild, pleasant, less intense than tropical passionfruits
-- **Medicinal use:** Leaves and roots have sedative properties; used traditionally for anxiety and insomnia
-- **Ornamental value:** Attractive flowers; hardy herbaceous perennial for temperate gardens
-
-### Other Notable Species
-
-- **Passiflora antioquiensis:** Banana passionfruit from Colombia; large pink flowers and edible fruit
-- **[[passiflora-caerulea]]:** Blue passionflower; primarily ornamental but produces edible (though bland) fruit; very cold-hardy
+- **Note:** Can become invasive in some [[passiflora-caerulea]]:** Blue passionflower; primarily ornamental but produces edible (though bland) fruit; very cold-hardy
 - **Passiflora herbertiana:** Australian native passionfruit with edible fruit; suited to subtropical conditions
 - **Passiflora laurifolia:** Water lemon; tropical species with aromatic fruit
 
@@ -96,36 +81,9 @@ Passionfruit vines are classic vertical-layer elements in food forests and garde
 Passionfruit benefits from strategic companions:
 
 - **Nitrogen fixers:** Plant near or allow to climb through nitrogen-fixing trees for improved nutrition
-- **Pollinator attractors:** Interplant with flowering species that attract native pollinators (passionfruit flowers require large-bodied bees for effective pollination)
-- **Root companions:** Shallow-rooted [[query-how-to-use-aquaponics-to-grow-herbs-and-vegetables]] can grow beneath trellised vines
-- **Banana circles:** Passionfruit grows well on the mound edges of banana circle plantings in tropical systems
-
-### Support Structures
-
-Effective support is essential for good production:
-
-- **Trellis systems:** Wire or wooden trellises at 1.8–2m height; allow good air circulation and easy harvesting
-- **Living supports:** Train through nitrogen-fixing trees like alder, leucaena, or tagasaste
-- **Fence lines:** Existing fences can serve dual purpose as support structures
-- **Pergolas and arbors:** Decorative structures that provide shade and fruit simultaneously
-
-### Soil and Nutrient Management
-
-- Passionfruit are heavy feeders and respond well to rich, organic soils
-- Regular applications of compost and well-rotted manure maintain productivity
-- Mulch heavily to retain moisture and suppress weeds
-- Maintain soil pH in the slightly acidic range (5.5–6.5)
-- Adequate potassium improves fruit quality and disease resistance
-
-### Pest and Disease Management
-
-Common issues and organic approaches:
-
-- **Fruit fly:** Netting or bagging individual fruits; biological control with parasitic wasps
-- **Fusarium wilt:** Select resistant rootstocks; avoid waterlogging; maintain good drainage
-- **Nematodes:** Crop rotation; incorporate organic matter; companion plant with marigolds
-- **Caterpillars:** Hand-picking; [[bacillus-thuringiensis]] (Bt) applications
-- **Fungal diseases:** Good air circulation; avoid overhead watering; copper-based sprays if needed
+- **Pollinator attractors:** Interplant with flowering species that [[query-how-to-attract-native-bees-and-beneficial-insects]] pollinators (passionfruit flowers require large-bodied bees for effective pollination)
+- **Root companions:** Shallow-rooted [[bacillus-thuringiensis]] (Bt) applications
+- **[[duggar-mushroom-insect-pests-and-fungal-diseases]]:** Good air circulation; avoid overhead watering; copper-based sprays if needed
 
 ### Propagation
 
@@ -145,6 +103,6 @@ Common issues and organic approaches:
 
 Several passionfruit species have documented medicinal uses:
 
-- **Sedative/anxiolytic:** *Passiflora incarnata* leaves are widely used in herbal medicine for anxiety, insomnia, and restlessness
+- **Sedative/anxiolytic:** *[[passiflora-incarnata]]* leaves are widely used in [[childrens-herbal-medicine]] for anxiety, insomnia, and restlessness
 - **Passiflorine:** An alkaloid found in some species with mild sedative effects
 - **Anti-inflammatory:** Leaf extracts show anti-inflammatory activity in research studies

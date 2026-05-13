@@ -9,14 +9,7 @@ sources: ["raw/papers/shulgin-a-tihkal.md", "raw/papers/shulgin-a-pihkal.md", "r
 
 # 5-MeO Compounds
 
-The 5-methoxy substitution on the tryptamine indole ring produces a distinct pharmacological family characterized by high potency, rapid onset, and a characteristically "stoning" rather than visionary quality. The 5-methoxy position mirrors the 4-methoxy position in the [[psilocin]].
-
-## 5-MeO-DET
-
-**Dosage**: 5-10 mg smoked, 12 mg oral (with harmaline)
-**Duration**: 12-24 hours
-
-A longer-acting 5-methoxy compound with substantially more complex psychedelic effects than 5-MeO-DMT. When combined with harmaline to enable [[tihkal-oral-activity-mao-inhibition]], the duration extends dramatically, producing what Shulgin describes as a uniquely extended experience.
+The 5-methoxy substitution on the tryptamine indole ring produces a distinct pharmacological family characterized by high potency, rapid onset, and a characteristically "stoning" rather than visionary quality. The 5-methoxy position mirrors the 4-methoxy position in the [[tihkal-oral-activity-mao-inhibition]], the duration extends dramatically, producing what Shulgin describes as a uniquely extended experience.
 
 ## 5-MeO-DIPT ("Foxy")
 
@@ -41,35 +34,19 @@ The mono-methylated parent of 5-MeO-DMT. Higher doses needed due to reduced amin
 
 ## Pharmacological Character
 
-The 5-methoxy family shares several [[metzner-three-distinctive-features-shamanic-entheogenic-ceremonies]]:
-
-1. **Extreme potency**: 5-MeO-DMT is active at doses 5-10x lower than DMT when smoked, despite similar molecular weights
-2. **Physical emphasis**: Unlike 4-hydroxy tryptamines which produce rich visual phenomenology, 5-methoxy compounds tend toward somatic intensity, a rushing or pressure sensation, and a sense of [[psilocybin-ego-dissolution-mechanisms]] without correspondingly rich imagery
+The 5-methoxy family shares several [[psilocybin-ego-dissolution-mechanisms]] without correspondingly rich imagery
 3. **Minimal auditory component**: Even compared to DMT, 5-MeO compounds tend to produce relatively silent experiences
 4. **Variable oral activity**: Unlike DMT which is strictly inactive orally without an MAOI, some 5-MeO compounds (particularly 5-MeO-DIPT and 5-MeO-MIPT) show partial oral activity, likely due to steric hindrance at the amine nitrogen reducing metabolic deamination
 
 ## See Also
 
-- [[5-meo-dmt-compound-profile]]
 - [[beta-carboline-chemistry]]
 
 ## Merged: Structure Activity Relationships Of Tryptamines
 
 # Structure-Activity Relationships of Tryptamines
 
-The structure-activity relationships (SAR) of tryptamines, systematically explored through the 55 entries of TIHKAL, reveal a complex pharmacological landscape where small molecular modifications produce dramatic changes in potency, duration, qualitative character, and route of administration. [[psilocybin]] family (4-HO-DMT, 4-HO-MET, 4-HO-DIPT, etc.). 4-hydroxy and 4-methoxy substitution produces compounds with rich visual phenomenology, moderate duration (3-6 hours), and full psychedelic character.
-
-**5-position**: 5-methoxy substitution produces compounds of extraordinary potency (5-MeO-DMT active at 6-20 mg smoked vs DMT at 60-100 mg) but with a notably different qualitative profile: more stoning, less visually rich, more physically overwhelming.
-
-The 5-position on the indole ring is analogous to the 4-position in the phenethylamine family. However, unlike the phenethylamine series where 4-methoxy substitution increases potency dramatically, in the tryptamine series the 5-methoxy substitution shifts the qualitative character more than it dramatically increases potency relative to 4-methoxy compounds.
-
-## Amine Nitrogen Substitution
-
-The pattern of substitution on the side-chain amine nitrogen is perhaps the single most important SAR variable:
-
-**N,N-Dimethyl (DMT pattern)**: Classic, short-acting, not orally active without MAOI. Smoked/injected duration: 15-30 minutes.
-
-**N,N-Diethyl (DET pattern)**: Longer duration (2-4 hours oral), fuller [[leary-psychedelic-experience-bardo-mapping]], beginning to show partial oral activity at higher doses (50-100 mg).
+The structure-activity relationships (SAR) of tryptamines, systematically explored through the 55 entries of TIHKAL, reveal a complex pharmacological landscape where small molecular modifications produce dramatic changes in potency, duration, qualitative character, and route of administration. [[leary-psychedelic-experience-bardo-mapping]], beginning to show partial oral activity at higher doses (50-100 mg).
 
 **N,N-Dipropyl (DPT pattern)**: Duration extends further, oral activity at 100-250 mg, more stoning quality.
 
@@ -117,8 +94,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[psilocybin]]
 - [[dom]]
-- [[psilocin]]
 - [[det]]
 - [[soma]]

@@ -24,9 +24,7 @@ The species is widely cultivated as an ornamental plant and as a cut flower for 
 
 Trachelium is one of the few Campanulaceae genera valued primarily for its cut-flower production rather than garden display. The airy, textured flower heads serve as filler material in mixed bouquets and wedding arrangements worldwide.
 
-Despite its long [[cuthill-mushroom-cultivation-history-19th-century]], the species remains underrepresented in botanical research compared to other Campanulaceae genera such as Campanula and Lobelia. Most published studies focus on horticultural optimization rather than basic biology or ecology.
-
-Several related Trachelium species exist but are rarely cultivated, including Trachelium lanceolatum and Trachelium cerinthoides from North Africa. These lesser-known taxa share the corymbose inflorescence but differ in [[cannabis-leaf-morphology-and-phyllotaxy]] flower color.
+Despite its long [[cannabis-leaf-morphology-and-phyllotaxy]] flower color.
 
 ## Taxonomy and Morphology
 
@@ -70,11 +68,7 @@ Notable cultivars include the 'Lake Series' (compact, uniform colors), 'White Um
 
 Plants benefit from staking in exposed sites, as the tall flower stems can flop under wind or rain. Regular deadheading encourages reblooming through late summer into autumn.
 
-Pest problems include aphids on young shoots and inflorescences, [[cervantes-spider-mites-identification-control]] under hot, dry conditions, and occasional slugs on basal foliage. Crown rot can occur in poorly drained soils, especially during wet winters.
-
-Greenhouse production requires daylength manipulation to induce flowering outside the natural season. Long-day treatment (>14 hours) accelerates flowering, making Trachelium suitable for programmed year-round harvest.
-
-Cut stems should be harvested when approximately half the florets in the corymb are open. Post-harvest treatment with [[night-interruption-photoperiodism-commercial-floral-manipulation]] preservatives extends vase life significantly beyond the untreated baseline.
+Pest problems include aphids on young shoots and inflorescences, [[night-interruption-photoperiodism-commercial-floral-manipulation]] preservatives extends vase life significantly beyond the untreated baseline.
 
 ## Ecological Role
 

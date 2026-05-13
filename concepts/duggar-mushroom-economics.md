@@ -13,27 +13,7 @@ updated: 2026-04-26
 
 ## Success and Failure
 
-Can success in mushroom work be counted upon? Not at all. There have been innumerable failures; but at the same time there are conspicuous successes. A large number of the failures have been the direct result of crediting irresponsible or deceptive advertisements. No one should be advised to undertake [[mazatec-mushroom-culture-and-velada]] on a commercial basis who cannot present good evidence of his special competence to go into this work.
-
-### Qualifications for Commercial Mushroom Growing
-A person may be considered qualified who:
-1. Is interested and not merely seeking a fortune in a few years
-2. Has successful experience on a small scale and serious study of commercial requirements
-3. Has made careful observation of market demands and careful computation of all costs involved
-
-It is true that relatively little capital may be required where it is unnecessary to build houses for the purpose. It should be remembered, however, that practically all capital invested in materials aside from houses is used up in the production of the crop; that is, it is recoverable only through successful yield.
-
-## Scale of Operations
-
-One could fifteen years ago almost count upon one's fingers the important and successful growers of the country, and any one planting 5,000 square feet of beds was considered an extensive grower. Today the largest mushroom planters report areas of 100,000 square feet or more.
-
-The minimum recommended scale for a commercial venture is 7,500 square feet, unless the work is merely experimental. If only 3,000 square feet are planted, an average crop would yield not more than 3,000 pounds of mushrooms, and these if sold to commission men might not yield more than $1,000 gross. One should not count upon more than average returns.
-
-## Expenses to Consider
-
-In computing the probable expenses of mushroom growing, the following items should be included:
-- Rent or depreciation
-- Compost ([[duggar-stable-manure-selection-compost-materials]], delivery)
+Can success in mushroom work be counted upon? Not at all. There have been innumerable failures; but at the same time there are conspicuous successes. A large number of the failures have been the direct result of crediting irresponsible or deceptive advertisements. No one should be advised to undertake [[duggar-stable-manure-selection-compost-materials]], delivery)
 - Soil (for casing)
 - Implements
 - Labor
@@ -78,15 +58,8 @@ Practically all mushrooms grown in the United States are marketed fresh. This wi
 The price paid for mushrooms was formerly much higher than at present. The large grower today cannot hope for the high prices of former days. In the winter season, one may expect to sell mushrooms at reasonable prices. Commission men cannot sell mushrooms at the prices sometimes quoted in advertisements; the retail market absorbs a large part of the profit.
 
 ### Seasonal Factors
-The small grower frequently experiences great difficulty handling his product, due to the fact that the market is flooded at the time when his beds are yielding most heavily. Mild winter weather finds the markets of all cities filled with [[edible-wild-mushrooms-by-region]], and the grower whose beds happen to be yielding at that time is seriously affected.
-
-### Shipment
-Mushrooms may be shipped considerable distances during winter months. If properly packed and shipped immediately after being gathered, there is little danger from shipment during 36 to 48 hours. Pack in small baskets (not more than 10 pounds each) to avoid "sweating."
-
-## The Spawn Industry
-
-The price of [[cuthill-mushroom-spawn-preparation-historical]] varies considerably depending upon quality:
-- Standard American [[french-flake-spawn-vs-brick-spawn]] (inoculated from [[mushroom-spawn-making-and-pure-culture-methods]]): premium pricing
+The small grower frequently experiences great difficulty handling his product, due to the fact that the market is flooded at the time when his beds are yielding most heavily. Mild winter weather finds the markets of all cities filled with [[cuthill-mushroom-spawn-preparation-historical]] varies considerably depending upon quality:
+- Standard American [[mushroom-spawn-making-and-pure-culture-methods]]): premium pricing
 - English imported brick spawn: a few cents less per brick, but subjected to longer shipment and storage
 
 ## Practical Applications
@@ -118,8 +91,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[duggar-mushroom-marketing-economics-1915]]
 - [[duggar-wild-mushroom-markets-and-seasonal-harvesting]]
-- [[mushroom-house-construction-duggar]]
 - [[european-smartshop-economics-mushroom-supply-chain-emcdda-2006]]
 - [[duggar-mushroom-culinary-preparation-and-cooking]]

@@ -10,11 +10,7 @@ sources:
 ---
 # Fukuoka Do-Nothing Farming and Spiritual Life
 
-Book V of *The One-Straw Revolution* explores the spiritual dimension of Fukuoka's philosophy -- the paradox of advocating "do-nothing" farming while recognising the hard physical work it actually requires, and his [[fukuoka-road-critique-of-modern-science]] civilisation's obsession with progress and development. This chapter weaves together conversations with young visitors at his mountain huts, philosophical reflections, and stories that illuminate the [[natural-farming-philosophy]] in miniature -- a community living close to nature, growing [[cho-brown-rice-vinegar-preparation]], vegetables, and citrus, with time for leisure and contemplation. Fukuoka tells the young people again and again: "Do not try to imitate me. Simply live in nature and apply yourself to your daily work."
-
-## The Original Insight
-
-The "do-nothing" philosophy originated in a moment of spiritual crisis. At age 25, working as a plant pathologist at the Yokohama Customs Bureau, Fukuoka contracted acute pneumonia. During his recovery, he fell into deep depression, wandering the streets at night, unable to sleep or work. One morning in May, collapsed in exhaustion against a tree on a hill overlooking the harbor, he watched the sunrise through clearing mist. A [[fukuoka-night-heron-revelation-origin-story]] cried sharply and flew away. In that instant: "All my doubts and the gloomy mist of my confusion vanished. Everything I had held in firm conviction was swept away with the wind. 'In this world there is nothing at all.'"
+Book V of *The One-Straw Revolution* explores the spiritual dimension of Fukuoka's philosophy -- the paradox of advocating "do-nothing" farming while recognising the hard physical work it actually requires, and his [[natural-farming-philosophy]] in miniature -- a community living close to nature, growing [[fukuoka-night-heron-revelation-origin-story]] cried sharply and flew away. In that instant: "All my doubts and the gloomy mist of my confusion vanished. Everything I had held in firm conviction was swept away with the wind. 'In this world there is nothing at all.'"
 
 The next day he resigned from his job, wandered Japan for a time, and eventually returned to his father's farm to put his realization into practice. This experience, which he calls understanding "nothing," became the foundation of everything that followed.
 
@@ -70,15 +66,10 @@ He argues that the concepts of self and other, strong and weak, attack and defen
 
 ## Connection to Farming Practice
 
-This philosophy directly informs [[fukuoka-textdoc-do-nothing-movement-spiritual-foundation]]
+This philosophy directly informs [[direct-seeded-no-tillage-rice-barley-succession]]
 
-- [[direct-seeded-no-tillage-rice-barley-succession]]
-
-- [[four-principles-of-natural-farming]] -- the practical principles
 - [[fukuoka-agricultural-pollution-and-consumer-culpability]] -- critique of modern agriculture
-- [[natural-farming-and-spirituality]] -- the spiritual dimension
 - [[fukuoka-nature-transcends-human-knowledge]] -- humanity and nature
-- [[fukuoka-direct-observation-method]]
 - [[fukuoka-mu-economics]]
 
 ## Practical Applications
@@ -110,8 +101,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[doc]]
 - [[fukuoka-do-nothing-farming-philosophy-and-practice]]
-- [[fukuoka-spiritual-philosophy-farming]]
 - [[fukuoka-textdoc-flavor-delusion-and-spiritual-alienation-from-food]]
 - [[fukuoka-textdoc-do-nothing-movement-spiritual-foundation]]

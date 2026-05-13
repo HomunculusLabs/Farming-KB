@@ -15,7 +15,7 @@ sources:
 
 ## Overview
 
-Dosage titration — the systematic process of determining a drug's active dose range through incremental testing — is a cornerstone of the Shulgin methodology documented throughout [[shulgin-safety-principles-self-experimentation]] and provides the empirical basis for the [[harm-reduction-guide]] because the active dose of a novel compound cannot be predicted with certainty from its chemical structure alone. Even closely related analogs can differ dramatically in potency, as Shulgin demonstrated repeatedly throughout his research program.
+Dosage titration — the systematic process of determining a drug's active dose range through incremental testing — is a cornerstone of the Shulgin methodology documented throughout [[harm-reduction-guide]] because the active dose of a novel compound cannot be predicted with certainty from its chemical structure alone. Even closely related analogs can differ dramatically in potency, as Shulgin demonstrated repeatedly throughout his research program.
 
 ## The Titration Process
 
@@ -23,47 +23,21 @@ Shulgin's titration methodology followed a consistent pattern for each new compo
 
 1. **Literature review**: Study all available information about related compounds and expected pharmacological class
 
-2. **Initial [[ultra-low-dose-brassinosteroid-response-psilocybe-cubensis]]**: Begin with a very small dose — often 1 mg or less for unknown compounds
-
-3. **Observe**: Wait for effects, using the [[qualitative-comments-methodology-pihkal]] methodology
+2. **Initial [[qualitative-comments-methodology-pihkal]] methodology
 
 6. **Establish range**: Define the threshold, active, and maximum doses
 
-This systematic approach meant that a single compound might require 4-6 separate sessions before its full dose-response profile was characterized. The [[psychedelic-mushroom-dosage-guide]] similarly demonstrates dramatic qualitative shifts within a narrow dose band, underscoring why the principle of cautious titration applies broadly across psychedelic compounds.
-
-## Between-Session Escalation
-
-A critical safety principle was that dose escalation occurred between sessions, never within a single session. Taking additional compound during an active experience — "stacking" — was considered dangerous because:
-
-- Peak effects may not have been reached when the decision to escalate is made
-
-- Duration effects make timing unpredictable
-
-- Synergistic effects can amplify intensity beyond expectation
-
-The overdose reports in PiHKAL (e.g., 2C-B at 64 mg and 100 mg) both resulted from within-session escalation and were described as frightening even though they were not physically dangerous. These reports serve as deliberate cautionary examples within the [[psychedelic-safety-and-harm-reduction]] framework.
+This systematic approach meant that a single compound might require 4-6 separate sessions before its full dose-response profile was characterized. The [[psychedelic-safety-and-harm-reduction]] framework.
 
 ## The "Museum Level" Concept
 
 Shulgin popularized the concept of the "museum level" dose — a slightly-over-threshold level that enhances perception without significantly altering functioning. This level allows the user to "enter into [public activities] without attracting attention" and serves as a reference point for the lower end of the active range.
 
-The museum level concept has been adopted by the broader [[tihkal-shulgin-rating-scale]].
-
-## Interindividual Variation
-
-An important consideration in dosage titration is the significant variation in sensitivity between individuals. Factors that affect individual [[microwave-sterilization-dose-response-microbial-kill-curves]] include:
+The museum level concept has been adopted by the broader [[microwave-sterilization-dose-response-microbial-kill-curves]] include:
 
 - Body weight and metabolic rate
 
-- Prior [[leary-psychedelic-experience-bardo-mapping]] (tolerance and cross-tolerance)
-
-- Genetic differences in enzyme expression (e.g., CYP2D6 polymorphisms)
-
-- Stomach contents and route of administration
-
-- Medication interactions, particularly with [[psilocybin-mushroom-potency-and-dosage-guide]] and the [[shulgin-dosage-guidelines]]
-- [[shulgin-safety-principles-self-experimentation]]
-- [[pihkal-introduction-and-methodology]]
+- Prior [[psilocybin-mushroom-potency-and-dosage-guide]] and the [[shulgin-safety-principles-self-experimentation]]
 - [[psychedelic-dose-response]]
 ## Practical Considerations
 
@@ -83,3 +57,88 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
+
+## Overview
+
+Psychedelic Dosage Titration Methodology represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish psychedelic dosage titration methodology
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving psychedelic extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Psychedelic Dosage Titration Methodology finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for psychedelic dosage titration methodology. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+psychedelic dosage titration methodology and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Psychedelic Dosage Titration Methodology has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of psychedelic dosage titration methodology into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[metzner-therapist-experiential-prerequisite-psychedelic-therapy]]
+- [[psychedelic-combination-guide]]
+- [[psychedelic-paradigm-shifting-and-reality-reconception]]
+- [[psychedelic-plants-language-emergence-mckenna-synesthesia-hypothesis]]
+- [[psycholytic-and-psychedelic-therapy-models]]

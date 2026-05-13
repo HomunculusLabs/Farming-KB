@@ -17,17 +17,12 @@ type: concept
 # Fungal Genomics and Comparative Approaches
 
 Fungal genomics has undergone rapid expansion since the sequencing of
-[[saccharomyces-cerevisiae]] in 1996. The availability of multiple fungal
-genomes enables comparative analyses that illuminate the genetic basis
-of pathogenicity, saprotrophic lifestyles, metabolic capabilities, and
 [[bloomfield-chytrid-fungi-early-fungal-evolution]].
 
 ## Landscape of fungal genome sequencing
 
 As of early 2006, 13 completed fungal genomes were published, including
-Ashbya gossypii, [[gadd-aspergillus-fumigatus-glucan-virulence]], A. oryzae, Cryptococcus
-neoformans, Candida glabrata, Debaryomyces hansenii, Encephalitozoon
-cuniculi, Kluyveromyces lactis, [[neurospora-crassa]], Phanerochaete
+Ashbya gossypii, [[neurospora-crassa]], Phanerochaete
 chrysosporium, Saccharomyces cerevisiae, Schizosaccharomyces pombe,
 and Yarrowia lipolytica. An additional 158 large-scale fungal sequencing
 projects were ongoing, including 136 full genome projects through the
@@ -79,47 +74,7 @@ expansion associated with plant infection.
 Comparative genomics reveals differential gene family sizes related to
 lifestyle. Plant pathogens possess expanded families of cutinases,
 cytochrome P450s, and secreted effector proteins. Wood-decay fungi
-([[staycare-phanerochaete-chrysosporium-in-bioremediation]]) have expanded families of lignin-modifying
-enzymes and carbohydrate-active enzymes. Yeast genomes show contraction
-of many gene families relative to [[environmental-sensing-filamentous-fungi-read]], correlating with
-their simpler [[stinkhorn-fungi-morphology-and-ecology]].
-
-## Signal transduction complexity
-
-Neurospora crassa possesses 35 predicted G-protein coupled receptors
-(GPCRs) versus six in S. cerevisiae. Filamentous fungi have expanded
-
-## Practical Applications
-
-The principles and techniques discussed here have wide-ranging applications
-across multiple disciplines and contexts. Practitioners and researchers
-continue to explore new ways to integrate these concepts into modern practice,
-adapting traditional knowledge to contemporary challenges and opportunities.
-
-## Key Considerations
-
-Several important factors influence the effectiveness and outcomes described
-in this topic. Understanding these considerations helps practitioners make
-informed decisions and avoid common pitfalls. Environmental conditions,
-timing, and material selection all play critical roles.
-
-## Historical Context
-
-The historical development of this subject reflects centuries of accumulated
-knowledge and practical experience. From traditional methods passed down
-through generations to modern scientific approaches, the evolution continues
-to inform current best practices and research directions.
-
-## Common Challenges
-
-Practitioners frequently encounter several challenges when working with
-these concepts. Climate variability, resource limitations, and knowledge
-gaps can all affect outcomes. Addressing these challenges requires patience,
-observation, and a willingness to adapt approaches based on results.
-
-## See Also
-- [[saccharomyces-cerevisiae]]
-- [[neurospora-crassa]]
+([[environmental-sensing-filamentous-fungi-read]], correlating with
+their simpler [[saccharomyces-cerevisiae]]
 - [[g-13]]
-- [[yarrow]]
 - [[fungal-metal-biosorption-comparative]]

@@ -8,82 +8,7 @@ sources: ["Shulgin - PIHKAL"]
 ---
 # HOT-2
 
-[[2c-b-pihkal-entry-20]] #87. 2,5-DIMETHOXY-4-ETHYLTHIO-N-HYDROXYPHENETHYLAMINE.
-
-## Chemical Name
-
-2,5-DIMETHOXY-4-ETHYLTHIO-N-HYDROXYPHENETHYLAMINE
-
-## Dosage and Duration
-
-| Property | Value |
-|----------|-------|
-| Dosage | 10 - 18 mg. |
-| Duration | 6 - 10 h. |
-
-## Qualitative Comments
-
-> (with 12 mg) Tastes OK. Some activity noticed
-> in 30 minutes. Very smooth rise with no body load for next two hours.
-> At that time I noted some visuals. Very pleasant. The bright spots
-> in the painting over the fireplace seemed to be moving backwards (as
-> if the clouds were moving in the painting). Upon concentrating on any
-> item, there was perceptual movement with a little flowing aspect. The
-> visuals were never all that strong, but could not be turned off during
-> the peak. At hour three there was still some shimmering, and it was
-> hard to focus when reading. Additionally, there was difficulty
-> concentrating (some mental confusion). The material seemed to allow
-> erotic actions; there was no problem about obtaining an erection. I
-> ate very well, some crazy dips, as well as a fabulous cake. A very
-> gentle down trend and I became close to baseline by 6 or 7 PM. I had
-> no trouble driving. The dosage was good for me. I did not want more
-> or less.
->
-> (with 12 mg) Comes on smoothly, nicely. In 40 minutes I feel nice
-> euphoria, feel home again. Then I begin to get uncomfortable
-> feelings. Gets more and more uncomfortable, feel I am sitting on a
-> big problem. Blood pressure, pulse, go up considerably. Have hard
-> time communicating, lie down for a while, get insight that most
-> important thing for me to do is learn to listen, pay attention to what
-> is going on. I do this the rest of the day, at first with
-> considerable difficulty, then easier and easier. Discomfort stays
-> with me for several hours, and although I get more comfortable towards
-> the end of the day, I am never animated or euphoric. I feel very
-> humbled, that I have a great deal to work out in my life. The next
-> day I find myself very strong and empowered. I see that all I have to
-> do is let things be as they are! This feels marvelous, and a whole
-> new way to be Q much more relaxed, accepting, being in the moment. No
-> more axes to grind. I can be free.
->
-> (with 18 mg) I found myself with complete energy. I was completely
-> 
-> centered with an absolute minimum of the dark edges that so often
-> appear as components of these experiences. The ease of talking was
-> remarkable. There was some blood-pressure run-up in the early part of
-> the day, but that quickly returned to normal. I would repeat without
-> hesitation.
-
-## Extensions and Commentary
-
-Again, a case of where the potency range of
-the "hot," or hydroxylated compound (HOT-2, 10 to 18 milligrams) is
-very similar to that of the non-hydroxylated prototype (2C-T-2, 12-25
-milligrams). It seems to be a well tolerated, and generally pleasant
-material, with a mixture of sensory as well as insightful aspects.
-Something for everyone.
-
-## Synthesis
-
-A solution of 5.50 g
-2,5-dimethoxy-4-ethylthio-beta-nitrostyrene (see under 2C-T-2 for its
-preparation) was made in 80 mL boiling anhydrous THF. On cooling,
-there was some separation of a fine crystalline phase, which was kept
-dispersed by continuous stirring. Under an inert atmosphere there was
-added 3.5 mL of a 10 M borane dimethylsulfide complex, followed by 0.5
-g sodium borohydride as a solid. There was a slight exothermic
-response, and the color slowly faded. Stirring was continued for a
-week. There was then added 40 mL H2O and 20 mL concentrated HCl, and
-the reaction mixture heated on the [[scythian-cannabis-steam-bath-ritual]] for 15 minutes, with the
+[[scythian-cannabis-steam-bath-ritual]] for 15 minutes, with the
 THF at reflux. After cooling again to room temperature, all was
 
 poured into 1 L H2O and washed with 3x75 mL CH2Cl2, which removed all
@@ -91,3 +16,88 @@ of the color but little of the product. The aqueous phase was made
 
 ## See Also
 - [[3-4-dma-entity-pihkal]]
+
+## Overview
+
+Hot 2 Entity Pihkal represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish hot 2 entity pihkal
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving hot extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Hot 2 Entity Pihkal finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for hot 2 entity pihkal. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+hot 2 entity pihkal and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Hot 2 Entity Pihkal has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of hot 2 entity pihkal into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[4-tme-entity-pihkal]]
+- [[doef-entity]]
+- [[eem-entity-pihkal]]
+- [[mdpr-entity-pihkal]]
+- [[te-entity-pihkal]]

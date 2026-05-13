@@ -3,39 +3,7 @@ title: Fukuoka: God and Nature as One -- The Nameless God
 created: 2026-04-18
 updated: 2026-04-18
 type: concept
-tags: [fukuoka, [[natural-farming]], philosophy]
-sources:
-  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
-  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
----
-
-## God and Nature Are One and the Same
-
-In a world beyond words, where language is of no consequence, "God" and "nature" are one and the same. When Fukuoka says "nature is God," what he means is that the essence of nature and the essence of God are like opposite sides of reality.
-
-- What appears on the surface is the physical form of nature
-
-- God lies concealed behind nature
-
-- When one speaks of "inner and outer" or "front and back," people conjure up images of two different things
-
-- They are unable to see nature on the outside and God on the inside as a single entity
-
-- What is one is seen with mental discrimination, and this comes deepening confusion
-
-According to Buddhist doctrine, discrimination serves to part God and nature. The gods that people speak of -- the Shinto deities, the Christian God -- all become one at the summit. But when the holy men who know this stand on the summit and speak to those below, different interpretations arise depending on whether they call what they see the absolute God of Christianity or the Nyorai of Buddhism.
-
-## All Religions Point to the Same Summit
-
-There is only one truth -- past, present, and future. And that truth is unique. Christians may say there is no God than the Christian God. The Buddhist may insist that Buddha is the Supreme Being.
-
-- But just as there is only one summit, there is only one God
-
-- Why then does this unique God seem to have different faces?
-
-- If a drop of [[fukuoka-rain-falls-from-ground-vegetation-rainfall-cycle]] onto a mountain, if this flows left, it becomes [[fukuoka-descartes-western-philosophy-nature]]
-
-- If it flows to the right, it becomes [[fukuoka-western-eastern-philosophy-agriculture]]
+tags: [fukuoka, [[fukuoka-rain-falls-from-ground-vegetation-rainfall-cycle]] onto a mountain, if this flows left, it becomes [[fukuoka-western-eastern-philosophy-agriculture]]
 
 - When seen from the left, the individual sitting on the summit may appear as the face of Christ
 
@@ -118,8 +86,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[doc]]
 - [[fukuoka-nature-god-limits-of-knowledge]]
-- [[fukuoka-reunifying-god-nature-and-man]]
 - [[fukuoka-god-nature-and-transcendent-world]]
 - [[fukuoka-spiritual-philosophy-nature-and-god]]

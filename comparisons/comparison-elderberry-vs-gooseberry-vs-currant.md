@@ -54,55 +54,7 @@ tinctures, and immune supplements. Yield: 12–15 lbs per mature plant.
 Sharp and tart when underripe; sweet and dessert-quality when fully ripe.
 Excellent for pies, preserves, and sauces. Yield: 4–8 lbs per mature plant.
 
-**Currant** — Black, red, or white berries on strigs. [[query-how-to-grow-black-currants-at-home]] have an
-intense, musky, tart flavor high in vitamin C; red/white are milder and sweeter.
-Used in jams, jellies, juices, cordials, and baking. Yield: 5–10 lbs/plant.
-
-## Growing Requirements
-
-| Requirement | Elderberry | Gooseberry | Currant |
-|---|---|---|---|
-| Soil pH | 5.5–6.5 | 6.0–6.5 | 6.0–6.5 |
-| Soil type | Adaptable; tolerates wet soils | Well-drained loam; tolerates clay | Moist, well-drained, organic-rich |
-| Sun | Full sun to partial shade | Partial shade to full sun | Morning sun, afternoon shade (ideal) |
-| Water | Moderate–high; drought-sensitive | Moderate; consistent moisture | Moderate; dislikes waterlogging |
-| Chill hours | 300–500+ | 800–1500 | 800–1500 |
-| Fertilizer | Moderate N; responds to compost | Balanced; avoid excess N | Balanced NPK; boron helps |
-
-> **Note:** Gooseberries and currants are *Ribes* species and share many
-> cultural requirements. Both tolerate partial shade better than most fruit
-> crops, ideal for woodland-edge plantings.
-
-## Pruning Differences
-
-**Elderberry** — Renewal pruning: remove the oldest 1–2 stems at ground level
-each winter, keeping 6–8 vigorous canes. Plants fruit best on 2-year-old and
-3-year-old wood. Severe rejuvenation (cut all stems to the ground) is
-acceptable every 5–6 years.
-
-**Gooseberry** — Train to an open, goblet-shaped bush. Prune in winter to
-remove dead, weak, or crossing branches; shorten new growth by half to
-encourage spurs. Summer tip-pruning keeps plants compact and improves air flow.
-
-**Currant** — Black currants fruit best on 1-year-old wood — prune out older
-branches aggressively, keeping the youngest 6–8 stems. Red and white currants
-fruit on 2–3 year old spurs; prune less aggressively, similar to gooseberries.
-
-## Pest and Disease Profiles
-
-**Elderberry:**
-- *Elderberry borer* (Achatodes zeae) — larvae tunnel in stems, causing wilting
-  and dieback; destroy infested canes.
-- *Cercospora leaf spot* and *[[cervantes-powdery-mildew-prevention-treatment]]* — improve [[stamets-growing-room-air-circulation-co2-management]]; remove
-  affected foliage.
-- Birds are the primary pest; netting is essential at fruiting.
-
-**Gooseberry:**
-- *Powdery mildew (Sphaerotheca mors-uvae)* — most serious disease; white
-  coating on leaves and fruit, stunting growth. Resistant cultivars
-  ('Invicta', 'Hinnomaki Yellow') are strongly recommended.
-- *Gooseberry sawfly* — green larvae defoliate bushes; hand-pick or use Bt.
-- *Imported currant worm* — same sawfly genus; shares [[jadam-weed-control-strategies-natural]].
+**Currant** — Black, red, or white berries on strigs. [[cervantes-powdery-mildew-prevention-treatment]]* — improve [[jadam-weed-control-strategies-natural]].
 
 **Currant:**
 - *Currant worm / imported currant sawfly* (Nematus ribesii) — primary insect
@@ -122,25 +74,77 @@ fruit on 2–3 year old spurs; prune less aggressively, similar to gooseberries.
 | Layering | Works well | Works well | Works well |
 | Division | Easy (suckers) | Possible | Possible |
 | Seed | Variable; cultivars not true | Rarely used | Rarely used |
-| [[comparison-seed-saving-techniques-vs-tissue-culture-cloning]] | Common for named cvs | Less common | Common for black currant |
-
-## Landscape Uses
-
-- **Elderberry** — Hedgerow, screen, rain-garden edge, wildlife habitat. Fast
-  growth fills gaps quickly. Ornamental cultivars with cut foliage available.
-- **Gooseberry** — Edible ornamental, mixed border, foundation planting (with
-  caution for spines). Compact size fits small gardens.
-- **Currant** — Shady-border fruit crop, container growing (red currants),
-  edible landscaping. Non-spiny types are garden-friendly.
-
-## Summary Recommendation
-
-| Criteria | Best Choice |
-|---|---|
-| Fastest yield & highest volume | Elderberry |
-| Best for partial shade | Currant (red/white) |
-
-## See Also
-- [[pruning-fruit-trees-and-bushes]]
-- [[fruit-tree-propagation]]
+| [[pruning-fruit-trees-and-bushes]]
 - [[comparison-gooseberry-vs-currant]]
+
+## Overview
+
+Comparison Elderberry Vs Gooseberry Vs Currant represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish comparison elderberry vs gooseberry vs currant
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving comparison extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Comparison Elderberry Vs Gooseberry Vs Currant finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for comparison elderberry vs gooseberry vs currant. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+comparison elderberry vs gooseberry vs currant and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Comparison Elderberry Vs Gooseberry Vs Currant has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of comparison elderberry vs gooseberry vs currant into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions

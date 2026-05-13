@@ -23,7 +23,7 @@ sources:
 
 The species is one of the most widely planted ornamental climbers in temperate gardens worldwide. Its five-parted leaves turn brilliant scarlet and crimson in autumn, creating dramatic seasonal displays.
 
-Virginia creeper is sometimes confused with poison ivy (*Toxicodendron radicans*), but is distinguished by its five leaflets (versus three) and lack of urushiol.
+Virginia creeper is sometimes confused with poison ivy (*[[toxicodendron-radicans]]*), but is distinguished by its five leaflets (versus three) and lack of urushiol.
 
 ## Taxonomy and Morphology
 
@@ -67,15 +67,9 @@ Propagation is readily achieved by seed (requiring cold stratification), softwoo
 
 The species requires minimal maintenance once established. Pruning, when necessary, is best performed in late winter or early spring before bud break.
 
-The spectacular autumn foliage colour is its primary ornamental attribute. In large-scale landscape plantings, Virginia creeper is used for [[permplant-willows-salix-erosion-control-fodder]] on slopes and as a ground cover in shaded areas.
+The spectacular autumn foliage colour is its primary ornamental attribute. In large-scale landscape plantings, Virginia creeper is used for [[dighton-fungal-drought-tolerance-plant-water-relations]], rapid establishment, and low maintenance requirements. Its root system helps stabilise soil on steep banks.
 
-The species is recommended for green roof and green wall installations due to its [[dighton-fungal-drought-tolerance-plant-water-relations]], rapid establishment, and low maintenance requirements. Its root system helps stabilise soil on steep banks.
-
-In permaculture designs, Virginia creeper serves as a multipurpose plant providing wildlife habitat, erosion control, and seasonal aesthetic value. Its productivity as a biomass accumulator contributes [[hamilton-composting-and-organic-matter-management]] to the soil surface.
-
-## Bioactive Compounds and Toxicity
-
-Virginia creeper contains [[fungal-calcium-oxalate-crystals]] crystals in its sap and tissues, which can cause contact dermatitis in sensitive individuals. The berries contain oxalic acid and are mildly toxic if ingested in quantity.
+In [[permaculture]] designs, Virginia creeper serves as a multipurpose plant providing wildlife habitat, erosion control, and seasonal aesthetic value. Its productivity as a biomass accumulator contributes [[fungal-calcium-oxalate-crystals]] crystals in its sap and tissues, which can cause contact dermatitis in sensitive individuals. The berries contain oxalic acid and are mildly toxic if ingested in quantity.
 
 Symptoms of berry ingestion include nausea, vomiting, diarrhoea, and abdominal pain. Cases of serious poisoning are rare, as the bitter taste of the berries generally discourages consumption. Children are the most commonly affected group.
 

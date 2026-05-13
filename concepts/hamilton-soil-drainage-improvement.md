@@ -25,61 +25,14 @@ its own approach to improvement.
 
 ## Understanding Drainage Problems
 
-Heavy soils like [[hamilton-deep-bed-system]], which will also improve
-drainage and help the soil dry out and warm up.
-
-### Organic Matter for Clay
-
-Adding plenty of bulky organic matter to a clay soil will hold the
-particles apart so that roots and water can pass through. After a few
-years, when the level of organic matter is satisfactory and the soil
-is filled with the roots of previous crops, clay becomes much easier
-to work.
-
-## Improving Silt Soil Drainage
-
-The main problem with a silt soil is one of drainage. The particles
-tend to pack together very closely when wet, preventing the free
-passage of water and air. To improve drainage, dig one or two
-bucketfuls of coarse sand into the soil every square yard/meter when
-you dig in the organic matter.
-
-The structure of silt soils benefits greatly from the addition of
-liberal quantities of well-rotted compost or manure. Adding plenty of
-bulky organic matter will hold the particles apart so that roots and
-water can pass through more easily.
-
-## Improving Sandy Soil Drainage
-
-On sandy soil, drainage is generally too good. The problem is
-retaining water and nutrients rather than removing excess. To reduce
-the problem, spread organic matter or [[hamilton-green-manure-crops-and-cover-cropping]] during
-the winter and dig it in during the spring. During the [[savory-growing-season-and-non-growing-season-management]],
-sow a fast-growing green-manure crop between vegetables just to keep
-the soil covered.
-
-## Artificial Drainage Systems
-
-Where natural drainage is severely inadequate, an artificial drainage
-system may need to be installed. This involves laying porous pipes in
-trenches filled with gravel at a depth below the root zone of most
-plants. Water is collected and carried away to a suitable outlet. This
-is a major undertaking and should be considered only when other methods
-have failed.
-
-## Key Principles
-
-- Never walk on clay soil when it is wet or you will destroy years of
-  work
-- Always add organic matter when improving drainage
-- Combine physical methods (sand, [[comparison-raised-beds-vs-hugelkultur]]) with chemical methods
+Heavy soils like [[hamilton-green-manure-crops-and-cover-cropping]] during
+the winter and dig it in during the spring. During the [[comparison-raised-beds-vs-hugelkultur]]) with chemical methods
   (lime for clay)
 - Match the drainage improvement method to your specific soil type
 - Maintain good drainage through regular addition of organic matter
 
 ## Related Topics
 
-- [[hamilton-organic-soil-management]]
 - [[hamilton-mulching-materials-and-techniques]]
 
 ## Practical Applications
@@ -111,8 +64,87 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[hugelkultur]]
 - [[query-how-do-i-improve-soil-drainage-in-my-garden]]
-- [[hamilton-alternative-soil-conditioners]]
 - [[hamilton-soil-biology-and-microorganisms]]
 - [[query-how-to-use-cover-crops-for-heavy-clay-soil-improvement]]
+
+## Overview
+
+Hamilton Soil Drainage Improvement represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish hamilton soil drainage improvement
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving hamilton extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Hamilton Soil Drainage Improvement finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for hamilton soil drainage improvement. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+hamilton soil drainage improvement and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Hamilton Soil Drainage Improvement has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of hamilton soil drainage improvement into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[hamilton-cottage-garden-design]]

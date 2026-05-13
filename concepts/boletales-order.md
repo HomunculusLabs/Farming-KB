@@ -43,13 +43,9 @@ Gomphidius and Chroogomphus have decurrent gills and slimy caps but belong firml
 ### Boletaceae
 Boletaceae is the largest family and contains the typical boletes. Major genera include:
 
-**Boletus (sensu stricto)**: A smaller genus after taxonomic revision, now containing primarily species with white tube context that easily separates from the pileus. *[[boletus-edulis-entity]]* (porcini, cep, king bolete) is the type species and one of the most commercially important wild mushrooms worldwide. It forms ectomycorrhizae with various trees including spruce, pine, birch, and oak.
+**Boletus (sensu stricto)**: A smaller genus after taxonomic revision, now containing primarily species with white tube context that easily separates from the pileus. *[[suillus-luteus]]* (slippery jack) and *S. granulatus* are widespread.
 
-**Suillus**: Slippery-capped boletes associated with conifers, particularly pines. Species have slimy caps, often prominent partial veils forming annuli, and are common in boreal and temperate forests. *[[suillus-luteus]]* (slippery jack) and *S. granulatus* are widespread.
-
-**Leccinum**: Scaber-stalk boletes, recognized by dark scales (scabers) on the stipe surface. Associated with birch, aspen, and poplar. *[[leccinum-scabrum]]* (birch bolete) and *L. aurantiacum* (orange birch bolete) are common and edible.
-
-**Tylopilus**: Characterized by pink to flesh-colored pore surfaces and often bitter taste. Most are inedible but not poisonous. *[[tylopilus-felleus]]* (bitter bolete) is a common lookalike of *B. edulis*.
+**Leccinum**: Scaber-stalk boletes, recognized by dark scales (scabers) on the stipe surface. Associated with birch, aspen, and poplar. *[[tylopilus-felleus]]* (bitter bolete) is a common lookalike of *B. edulis*.
 
 **Xerocomus/Xerocomellus**: Distinguished by a dry, finely fibrillose tomentose cap surface that often cracks with age, revealing pinkish flesh beneath. Taxonomy has been substantially revised.
 
@@ -61,32 +57,15 @@ Boletaceae is the largest family and contains the typical boletes. Major genera 
 Suillaceae was elevated to family level and includes *Suillus* and related genera. Members are characterized by associations with conifers (especially Pinaceae), slimy pileipellis, and often glandular dots on the stipe. *Suillus* species are important pioneer ectomycorrhizal fungi, facilitating tree establishment in disturbed or burned areas.
 
 ### Paxillaceae
-Paxillaceae includes *Paxillus* and *Paxillina*. *[[paxillus-involutus]]* (brown roll-rim) is common under birch and other trees in the Northern Hemisphere. It was long considered edible but is now known to cause a potentially fatal immune-mediated hemolytic syndrome — repeated consumption sensitizes the immune system, leading to acute kidney failure and intravascular hemolysis upon subsequent exposure. This makes it one of the most dangerous mushrooms for habitual foragers.
-
-### Gomphidiaceae
-Gomphidiaceae includes *Gomphidius* (slimecaps) and *Chroogomphus* (pine-spikes), which are actually boletes that have evolved gill-like structures. They are parasitic on or associated with Suillus species, forming a tripartite relationship with their host trees. The genus name refers to the club-shaped basidia.
-
-### Sclerodermataceae
-Sclerodermataceae includes the earthballs (*Scleroderma*) and their relatives. These puffball-like fungi have a thick, tough peridium that typically ruptures irregularly at maturity to release spores. Unlike true puffballs (Lycoperdales), Scleroderma species have a dark spore mass at maturity and often purple-brown spore prints. Some species are ectomycorrhizal (*S. citrinum*), while others are saprotrophic. *Scleroderma* species can cause gastrointestinal distress if consumed.
-
-### Rhizopogonaceae
-Rhizopogonaceae includes *Rhizopogon* (false truffles), which are hypogeous fungi forming ectomycorrhizae almost exclusively with Pinaceae. They are critical components of coniferous forest ecosystems, particularly in the [[psilocybin-north-america-pacific-northwest]] [[berry-growing]]. Small mammals, especially rodents, consume the fruiting bodies and disperse spores, maintaining forest regeneration cycles.
-
-### Serpulaceae
-Serpulaceae includes *Serpula* and related genera. *[[fungal-serpula-lacrymans-dry-rot-buildings]]* is the causative agent of dry rot in buildings, one of the most economically important wood-decay fungi. Despite its common name, dry rot requires moisture to initiate colonization but can persist in wood with low moisture content through water-conducting mycelial strands (rhizomorphs).
+Paxillaceae includes *Paxillus* and *Paxillina*. *[[psilocybin-north-america-pacific-northwest]] [[fungal-serpula-lacrymans-dry-rot-buildings]]* is the causative agent of dry rot in buildings, one of the most economically important wood-decay fungi. Despite its common name, dry rot requires moisture to initiate colonization but can persist in wood with low moisture content through water-conducting mycelial strands (rhizomorphs).
 
 ## Ecological Roles
 
 ### Ectomycorrhizal Symbiosis
-The majority of Boletales are ectomycorrhizal, forming mutualistic associations with forest trees. This symbiosis involves [[arbuscule-isolation-and-nutrient-exchange-mechanisms]]: the fungus provides mineral nutrients (particularly phosphorus and nitrogen) and water to the tree, while receiving carbohydrates from photosynthesis. Key associations include:
-
-- **Pinaceae**: Suillus, Rhizopogon, Boletus edulis group
-- **Betulaceae**: Leccinum, Paxillus
-- **Fagaceae**: Boletus, Xerocomellus, Tylopilus
-- **Nothofagaceae**: [[guzman-allen-gartz-africa-southern-hemisphere-underexplored-neurotropic-fungi]] boletes (Austroboletus, Fistulinella)
+The majority of Boletales are ectomycorrhizal, forming mutualistic associations with forest trees. This symbiosis involves [[guzman-allen-gartz-africa-southern-hemisphere-underexplored-neurotropic-fungi]] boletes (Austroboletus, Fistulinella)
 
 ### Saprotrophy
-Some Boletales are primarily saprotrophic, decaying wood and forest litter. [[serpula-lacrymans]] is a notable example, capable of extensive [[brown-rot-fungi-cellulose-degradation-wood-decay]] in built environments.
+Some Boletales are primarily saprotrophic, decaying wood and forest litter. [[brown-rot-fungi-cellulose-degradation-wood-decay]] in built environments.
 
 ## Practical Applications
 
@@ -117,8 +96,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[psilocybin]]
 - [[spore-print]]
-- [[spore]]
 - [[mycorrhizal-fungi]]
 - [[ectomycorrhizal-fungi]]

@@ -1,15 +1,7 @@
 ---
 title: Mckenna Iboga Bwiti Fang Tabernanthe Iboga
 source: mckenna_t-food_of_the_gods.md
-author: [[terence-mckenna]]
-extracted: 2026-05-11
----
-
-# Iboga, Bwiti, and the Fang
-
-## Tabernanthe Iboga: Botany and Distribution
-
-Tabernanthe iboga is a medium-sized bush native to the [[fungal-biodiversity-tropical-forests]]
+author: [[fungal-biodiversity-tropical-forests]]
 of West and Central Africa. It is not a grassland plant and is rarely
 found growing outside of cultivation. The psychoactive portion of the
 plant is concentrated in the root bark, which contains the indole
@@ -42,26 +34,7 @@ of a person's life.
 ## Ibogaine: Chemistry and Pharmacology
 
 As a result of European contacts with tropical Africa, iboga became the
-first [[aminopropyl-silica-gel-chromatography-indole-alkaloid-purification]] to come into vogue in Europe. Tonics based on the
-whole plant extract became extremely popular in France and Belgium after
-iboga was promoted to the public at the Paris Exposition of 1867. This
-crude extract was sold in Europe as Lambarene, a cure for everything
-from neurasthenia to syphilis and, above all, an aphrodisiac.
-
-The alkaloid ibogaine was not isolated until 1901. The initial wave of
-research that followed seemed promising, with a cure for male impotence
-eagerly anticipated. Yet ibogaine, once chemically characterized, was
-quickly forgotten. Though no evidence was ever offered that it was
-dangerous or addictive, the compound was placed in Schedule I, the most
-restrictive controlled category in the United States, making further
-research highly unlikely. Ibogaine remains to this day nearly unstudied
-in human beings.
-
-## Open Heartedness and Social Cohesion
-
-McKenna identified a quality he called "open heartedness" that iboga use
-promotes among the Fang. This caring awareness of others is widely
-believed to explain the internal cohesiveness of [[entheogen-bwiti-iboga-initiation-fang-society]] and the
+first [[entheogen-bwiti-iboga-initiation-fang-society]] and the
 ability of Bwitists to resist commercial and missionary incursions into
 their cultural integrity. The Fang concept of "two hearts" (good and
 bad) stands in contrast to the Christian promise of "one heartedness,"
@@ -94,21 +67,9 @@ traditional users: as a boundary-dissolving visionary hallucinogen.
 
 At small doses, iboga diminishes ordinary vision by facilitating
 afterimages, halos, and visual "streaking." At the massive doses used in
-[[mckenna-iboga-tabernanthe-ibogaine-fang-bwiti-initiation-cult]] rites, it produces full visionary ecstasy comparable to
-other major hallucinogens. McKenna speculated that ibogaine might
-activate a pheromone promoting pair bonding, which would explain its
-reputation as an aphrodisiac and its role in stabilizing Fang marriages.
-
-The dose-dependent nature of ibogaine's effects parallels that of other
 [[four-families-of-indole-hallucinogens]]. At sub-threshold doses, perceptual phenomena
 predominate. At full doses, the experience becomes fully visionary with
-cathartic and integrative [[hallucinogenic-mushroom-acute-psychological-effects-and-bad-trips]].
-
-## Comparison with Other African Psychoactive Plants
-
-No plants containing LSD-type compounds are known to have been used in
-Africa. Nor are there any striking examples of plants rich in these
-compounds. [[mckenna-food-gods-peganum-harmala-soma]], the giant Syrian rue, is rich in the beta-
+cathartic and integrative [[mckenna-food-gods-peganum-harmala-soma]], the giant Syrian rue, is rich in the beta-
 carboline harmine and occurs wild across the arid portions of
 Mediterranean North Africa, but there is no record of its use in Africa
 as a hallucinogen. In any case it must be concentrated and/or combined
@@ -118,12 +79,7 @@ This African poverty of hallucinogenic plants contrasts sharply with the
 richness of the New World tropics, where dozens of psychoactive species
 were documented. McKenna saw this as evidence that the grassland
 environments of Africa, while the cradle of humanity, were less
-conducive to the human-hallucinogen symbiosis than [[arbuscular-mycorrhizal-fungi-in-tropical-forest-restoration]]
-environments.
-
-## Modern Research Potential
-
-The impact of ibogaine on sexual dysfunction [[psilocybin-and-addiction-treatment]]
+conducive to the human-hallucinogen symbiosis than [[psilocybin-and-addiction-treatment]]
 represents research only waiting for social attitudes to change. If
 ibogaine's effect on sexual dysfunction is found congruent with its
 folklore, further research might be especially promising. Contemporary

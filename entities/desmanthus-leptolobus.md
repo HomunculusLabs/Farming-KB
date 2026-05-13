@@ -20,33 +20,9 @@ sources:
 
 Desmanthus leptolobus is a perennial herbaceous plant in the family Fabaceae, subfamily Mimosoideae, commonly known as slender-pod bundleflower or prairie mimosa. The species is native to the central and south-central United States and northern Mexico.
 
-The plant has attracted ethnobotanical interest because it contains N,N-dimethyltryptamine (DMT) in its root bark, making it one of several [[growing-gourmet-north-american-reishi-species]] legumes known to produce this psychoactive [[reversed-phase-hplc-tryptamine-alkaloid-quantification-methodology]]. The presence of DMT in Desmanthus leptolobus was first documented in the 1990s.
+The plant has attracted ethnobotanical interest because it contains N,N-dimethyltryptamine (DMT) in its root bark, making it one of several [[reversed-phase-hplc-tryptamine-alkaloid-quantification-methodology]]. The presence of DMT in Desmanthus leptolobus was first documented in the 1990s.
 
-Desmanthus leptolobus is closely related to [[desmanthus-illinoensis]], which is more widely known as a DMT-containing species. The two species are frequently confused in the ethnobotanical literature and in commercial seed offerings.
-
-The plant is also valued in agriculture and land management for its nitrogen-fixing capabilities, [[dighton-fungal-drought-tolerance-plant-water-relations]], and value as a forage and cover crop. It is increasingly planted in [[comparison-prairie-restoration-vs-silvopasture]] projects throughout its native range. Several state and federal conservation agencies recommend Desmanthus species for native habitat reclamation.
-
-## Taxonomy
-
-**Kingdom:** Plantae
-
-**Division:** Angiospermae
-
-**Class:** Magnoliopsida
-
-**Order:** Fabales
-
-**Family:** Fabaceae
-
-**Subfamily:** Caesalpinioideae (formerly Mimosoideae)
-
-**Genus:** Desmanthus
-
-**Species:** D. leptolobus
-
-**Authority:** Torr. & A. Gray (1838)
-
-The genus Desmanthus was established by Carl Ludwig Willdenow in 1791, with the name derived from the Greek "desme" (bundle) and "anthos" (flower), referring to the dense, bundled flower heads characteristic of the genus. The genus contains approximately 24 species distributed in the Americas, from the southern United States through [[guzman-allen-gartz-neurotropic-fungi-caribbean-central-america]] to Argentina.
+Desmanthus leptolobus is closely related to [[dighton-fungal-drought-tolerance-plant-water-relations]], and value as a forage and cover crop. It is increasingly planted in [[guzman-allen-gartz-neurotropic-fungi-caribbean-central-america]] to Argentina.
 
 The specific epithet "leptolobus" derives from the Greek "leptos" (slender) and "lobos" (pod or lobe), referring to the narrow, slender seed pods that distinguish this species from its close relatives.
 
@@ -66,17 +42,9 @@ The fruit is a linear, flat pod 4 to 8 centimeters long and 3 to 5 millimeters w
 
 ## Distribution and Habitat
 
-Desmanthus leptolobus is native to the central and south-central United States, occurring from Kansas and Missouri south through Oklahoma, Texas, Arkansas, and Louisiana, extending into northern and [[psychoactive-cacti-of-central-mexico]]. The species is most abundant in the Great Plains region, particularly in the Texas blackland prairies and the Cross Timbers ecoregion.
+Desmanthus leptolobus is native to the central and south-central United States, occurring from Kansas and Missouri south through Oklahoma, Texas, Arkansas, and Louisiana, extending into northern and [[query-how-do-i-extend-my-growing-season-with-cold-frames-and-season-extension-techniques]] adequate moisture.
 
-The plant grows in prairies, open woodlands, roadsides, pastures, and disturbed areas. It prefers well-drained clay or loam soils and is tolerant of both alkaline and slightly acidic conditions. It is commonly found in areas with 60 to 100 centimeters of annual rainfall.
-
-Desmanthus leptolobus is well-adapted to the climate of the southern Great Plains, with its deep root system providing drought tolerance during hot, dry summers. It is one of the earlier species to green up in spring and can remain productive through the [[query-how-do-i-extend-my-growing-season-with-cold-frames-and-season-extension-techniques]] adequate moisture.
-
-The species has been introduced outside its native range for agricultural [[mollison-permaculture-two-arid-water-harvesting-and-erosion-control]] purposes, with established populations reported in parts of the southeastern United States and in Australia. In Australia, Desmanthus species are commercially cultivated as forage legumes for cattle production in the semi-arid tropics and subtropics.
-
-## Chemistry and Bioactive Compounds
-
-The root bark of Desmanthus leptolobus contains N,N-dimethyltryptamine (DMT) as its principal psychoactive alkaloid. DMT is a potent serotonergic psychedelic that acts as a partial agonist at the 5-HT2A receptor and other [[serotonin-receptor-interference-psychedelic-mechanism]] subtypes.
+The species has been introduced outside its native range for agricultural [[serotonin-receptor-interference-psychedelic-mechanism]] subtypes.
 
 DMT concentrations in the root bark are reported to range from approximately 0.05% to 0.3% of dry weight, depending on the population, growing conditions, and the specific plant part analyzed. The root bark generally contains higher concentrations than the roots or above-ground parts.
 
@@ -84,6 +52,89 @@ Trace amounts of other tryptamine derivatives have also been detected, including
 
 The DMT in Desmanthus leptolobus is not orally active without co-administration of a monoamine oxidase inhibitor (MAOI), as the enzyme monoamine oxidase rapidly degrades DMT in the gastrointestinal tract and liver before it can reach the central nervous system. This pharmacological limitation applies to all botanical DMT sources.
 
-Beyond its [[hplc-analysis-of-tryptamine-alkaloids]], Desmanthus leptolobus contains typical Fabaceae constituents including tannins, flavonoids, and various [[aact-tannins-terpenes-phenolic-compounds-wood-composting-ingham]]. The forage quality of the aerial parts is considered good, with adequate protein content for livestock.
+Beyond its [[aact-tannins-terpenes-phenolic-compounds-wood-composting-ingham]]. The forage quality of the aerial parts is considered good, with adequate protein content for livestock.
 
 ## Ethnobotanical and Agricultural Significance
+
+## Overview
+
+Desmanthus Leptolobus represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish desmanthus leptolobus
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving desmanthus extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Desmanthus Leptolobus finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for desmanthus leptolobus. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+desmanthus leptolobus and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Desmanthus Leptolobus has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of desmanthus leptolobus into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[desmanthus-illinoensis]]
+- [[north-american-dmt-containing-plants-phalaris-desmanthus-peganum]]
+- [[north-american-dmt-plants-phalaris-desmanthus]]

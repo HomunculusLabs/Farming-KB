@@ -11,14 +11,14 @@ sources: []
 
 ## Overview
 
-Mycorrhizal inoculation involves introducing beneficial mycorrhizal fungi to plant root zones to improve nutrient uptake, disease resistance, and overall plant health. This guide covers commercial products, [[compost-tea-application-methods]], effectiveness data, and crop specificity. See [[glomeromycota-arbuscular-mycorrhizae]] for the science behind [[arbuscular-mycorrhizal-fungi-biology-symbiosis]], and [[fungal-symbiosis-types]] for the broader context of fungal symbiosis.
+Mycorrhizal inoculation involves introducing beneficial mycorrhizal fungi to plant root zones to improve nutrient uptake, disease resistance, and overall plant health. This guide covers commercial products, application methods, effectiveness data, and crop specificity. See [[glomeromycota-arbuscular-mycorrhizae]] for the science behind arbuscular mycorrhizal fungi, and [[fungal-symbiosis-types]] for the broader context of fungal symbiosis.
 
 ## Why Inoculate?
 
 Benefits of mycorrhizal colonization:
 - Increased phosphorus uptake (30-80% improvement in P acquisition)
 - Enhanced micronutrient uptake (zinc, copper, manganese)
-- Improved [[dighton-fungal-drought-tolerance-plant-water-relations]] through extended hyphal networks
+- Improved drought tolerance through extended hyphal networks
 - Protection against soil-borne pathogens
 - Improved soil structure through glomalin production
 - Enhanced nitrogen fixation when paired with rhizobia
@@ -35,7 +35,7 @@ Benefits of mycorrhizal colonization:
 
 - Used for tree seedlings, especially conifers, oaks, and other forest trees
 - Genera: Pisolithus (common in commercial products), Laccaria, Suillus, Rhizopogon
-- Applied primarily in forestry, reforestation, and [[fukuoka-citrus-orchard-establishment-bare-hillside]]
+- Applied primarily in forestry, reforestation, and orchard establishment
 
 ### Endomycorrhizal Products
 
@@ -103,7 +103,7 @@ Best for: bareroot transplants, tree seedlings
 ### General Crop Response
 
 - Row crops (corn, wheat, soy): 5-20% yield increase on average, higher on P-deficient soils
-- Vegetables (tomato, pepper, lettuce): 10-30% yield increase in [[psilocybe-cubensis-strain-potency-variability-controlled-conditions-bigwood-beug]]
+- Vegetables (tomato, pepper, lettuce): 10-30% yield increase in controlled conditions
 - Tree seedlings: 20-100% biomass increase, especially on degraded sites
 - Container-grown plants: variable — often less effective due to high fertility and limited soil volume
 
@@ -140,11 +140,11 @@ Best for: bareroot transplants, tree seedlings
 - Brassica family (cabbage, broccoli, cauliflower, radish, kale)
 - Chenopodium family (spinach, beet, quinoa)
 - Polygonum (buckwheat)
-- Some sedges (Cyperaceae)
 
-### ECM-Dependent Crops
+## See Also
 
-- Pines, spruces, firs (conifers)
-- Oaks, beech, birch
-- Eucalyptus
-- Pecan, hazelnut
+- [[staycare-mycorrhizal-hydrocarbons]]
+- [[mycorrhizal-fungi-fruit-trees]]
+- [[query-how-does-mycorrhizal-network-communication-work-between-plants]]
+- [[dark-septate-endophytes]]
+- [[aact-forest-litter-fungi-mycorrhizal-ingham]]

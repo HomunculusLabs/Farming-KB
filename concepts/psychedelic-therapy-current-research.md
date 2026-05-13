@@ -11,13 +11,13 @@ sources: []
 
 ## Overview
 
-Psychedelic-assisted therapy represents one of the most significant developments in mental health treatment in decades. After a decades-long research freeze, clinical trials are now demonstrating that substances like MDMA, psilocybin, and ketamine can produce rapid and enduring [[cbd-therapeutic-effects]] for conditions that have been resistant to conventional treatments. This page covers the current state of [[hofmann-lsd-clinical-research-early-studies]] across major [[psychedelic-compounds-reference]] and indications.
+Psychedelic-assisted therapy represents one of the most significant developments in mental health treatment in decades. After a decades-long research freeze, clinical trials are now demonstrating that substances like MDMA, psilocybin, and ketamine can produce rapid and enduring therapeutic effects for conditions that have been resistant to conventional treatments. This page covers the current state of clinical research across major psychedelic compounds and indications.
 
 ## MDMA-Assisted Therapy for PTSD
 
 ### MAPS Phase 3 Trials
 
-The [[maps-multidisciplinary-association-for-psychedelic-studies]] Psychedelic Studies (MAPS), operating through its public benefit corporation Lykos Therapeutics, has conducted the most advanced clinical trials of any psychedelic therapy:
+The Multidisciplinary Association for Psychedelic Studies (MAPS), operating through its public benefit corporation Lykos Therapeutics, has conducted the most advanced clinical trials of any psychedelic therapy:
 
 Study design:
 - Randomized, double-blind, placebo-controlled Phase 3 trials
@@ -41,7 +41,7 @@ MDMA is thought to work through:
 - Dopamine and norepinephrine release
 - Oxytocin system activation (increased trust, social bonding)
 - Reduced amygdala activity (reduced fear response)
-- Increased prefrontal cortex activity (enhanced [[blesching-cannabis-emotional-processing-expansive-constricting-emotions]])
+- Increased prefrontal cortex activity (enhanced emotional processing)
 
 These combined effects create a "window of tolerance" where patients can revisit traumatic memories without being overwhelmed by fear.
 
@@ -49,10 +49,10 @@ These combined effects create a "window of tolerance" where patients can revisit
 
 ### COMPASS Pathways
 
-COMPASS Pathways is the most commercially advanced [[psilocybin-therapy]] developer:
+COMPASS Pathways is the most commercially advanced psilocybin therapy developer:
 
 - Phase 2b trial (2021): 233 patients with treatment-resistant depression
-- Single dose of 25 mg [[psilocybin-compound-profile]] (COMP360) with psychological support
+- Single dose of 25 mg psilocybin compound (COMP360) with psychological support
 - 37% of 25 mg group in remission at 3 weeks vs. 19% for 1 mg control
 - Effects sustained at 12 weeks
 - Phase 3 trials underway across multiple sites globally
@@ -74,7 +74,7 @@ Robin Carhart-Harris and colleagues at Imperial College have conducted foundatio
 
 - First modern brain imaging studies of psilocybin (fMRI)
 - Development of the REBUS (RElaxed Beliefs Under pSychedelics) model
-- Demonstrated psilocybin's effects on [[default-mode-network-and-ego-dissolution]] connectivity
+- Demonstrated psilocybin's effects on default mode network connectivity
 - Research on psilocybin for treatment-resistant depression since 2016
 
 ### Johns Hopkins University
@@ -85,7 +85,7 @@ Roland Griffiths' group at Johns Hopkins has published extensively:
 - Psilocybin for cancer-related anxiety and depression
 - Psilocybin for tobacco addiction
 - Long-term follow-up studies showing sustained benefits
-- [[mystical-experience]] as a predictor of therapeutic outcome
+- Mystical experience as a predictor of therapeutic outcome
 
 ## Ketamine Therapy
 
@@ -140,11 +140,11 @@ Active or planned research areas include:
 - Alcohol use disorder
 - Smoking cessation
 - End-of-life anxiety
-- Social anxiety in autism spectrum disorder
 
-## Therapeutic Frameworks
+## See Also
 
-Most psychedelic therapy protocols follow a similar structure:
-
-1. Preparation (1-3 sessions): Building therapeutic alliance, setting intentions, medical screening, explaining the experience
-2. Dosing session (1-3 sessions): Administration in comfortable setting with therapist present, typically 4-8 hours for psilocybin, 6-8 hours for MDMA, eye mask and curated music playlist
+- [[metzner-entheogenic-terminology-psychedelic-hallucinogenic-entheogenic]]
+- [[psychedelic-1960s-counterculture]]
+- [[psychedelic-consciousness-expansion]]
+- [[psychedelic-prohibition-and-the-war-on-consciousness]]
+- [[psychedelic-therapy-set-and-setting]]

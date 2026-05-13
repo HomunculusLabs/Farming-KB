@@ -3,8 +3,7 @@ title: I Thou Relationship Hyperspace Entities Tryptamine
 source: mckenna_t-tryptamines_consciousness.md
 topic: entity_encounter_philosophy
 related:
-  - [[dmt-self-transforming-machine-elves-mckenna]].md
-  - [[dmt-onset-phenomenology-merry-go-raum]].md
+  - dmt-onset-phenomenology-merry-go-raum.md
 created: 2026-05-09
 ---
 
@@ -12,42 +11,7 @@ created: 2026-05-09
 
 ## Overview
 
-In his 1983 Esalen lecture, [[terence-mckenna]] articulates a framework
-for engaging with the entities encountered in tryptamine-induced
-states that draws explicitly on Martin Buber's philosophy of dialogue.
-Rather than approaching the beings of the DMT space with either
-worshipful submission or reflexive dismissal, McKenna advocates an
-"I/Thou" relationship—one in which the voyager meets the Other as
-a genuine presence while maintaining intellectual sovereignty. This
-approach stands in contrast to both the New Age tendency toward
-uncritical embrace of channelled information and the scientific
-tendency to dismiss all entity reports as hallucinatory artifacts.
-
-## Buber's Framework Applied to Psychedelic Experience
-
-Martin Buber's *Ich und Du* (1923) distinguishes between the
-"I-It" mode of relation, in which the other is treated as an object
-of use or analysis, and the "I-Thou" mode, in which the other is
-met as a presence of equal ontological standing. McKenna explicitly
-invokes this framework when describing the proper attitude toward
-tryptamine entities: "There is no dignity in the universe unless we
-meet these things on our feet, and that means having an I/Thou
-relationship."
-
-The implications are significant. An I-Thou relation requires
-acknowledging the reality of the other without subordinating oneself
-to it. This is not the "genusflection before a god" that McKenna
-rejects, nor is it the reduction of the entity to a "psychological
-projection" that mainstream science would prefer. It is a middle path
-of genuine engagement: "One say to the Other: 'You say you are
-omniscient, omnipresent, or you say you are from Zeta Reticuli.
-You're long on talk, but what can you show me?'"
-
-## The Problem of Demonic Multiplicity
-
-McKenna introduces a critical epistemological problem: "The demons
-are of many kinds: 'Some are made of ions, some of mind; the ones
-of [[ketamine]], you'll find, stutter often and are blind.'" This
+In his 1983 Esalen lecture, ketamine, you'll find, stutter often and are blind.'" This
 suggests that the entities encountered across different psychedelic
 states are not uniform but vary in character, coherence, and
 reliability according to the compound used to access them.
@@ -90,11 +54,9 @@ challenged to demonstrate its claims through observable action
 rather than through assertion alone.
 
 ## See Also
-- [[tryptamine]]
-- [[dmt]]
-- [[det]]
-- [[ketamine]]
-- [[i-thou-relationship-with-psychedelic-entities]]
+- dmt
+- ketamine
+- i-thou-relationship-with-psychedelic-entities
 
 ## Practical Applications
 
@@ -123,3 +85,11 @@ Practitioners frequently encounter several challenges when working with
 these concepts. Climate variability, resource limitations, and knowledge
 gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
+
+## See Also
+
+- [[mckenna-dmt-i-thou-relationship-entity-encounter-ethics]]
+- [[mckenna-i-thou-ethics-entity-encounter]]
+- [[i-thou-relationship-with-psychedelic-entities]]
+- [[psilocin-chemistry-and-serotonin-relationship]]
+- [[pf-tek-mushroom-potency-and-age-relationship]]

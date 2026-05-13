@@ -25,10 +25,7 @@ Commiphora mukul, known as Guggul or Indian Bdellium, is a flowering shrub or
 small tree in the family Burseraceae. It is the source of guggul resin, one of
 the oldest and most important medicaments in Ayurvedic medicine.
 
-The species is native to [[fukuoka-natural-farming-in-arid-regions]] of India, Pakistan, and Bangladesh. It
-produces a yellowish-brown oleoresin (guggul) from its bark, which has been
-used for over 3,000 years in traditional Indian medicine for treating
-[[cannabis-for-inflammatory-conditions]], obesity, and lipid disorders.
+The species is native to [[cannabis-for-inflammatory-conditions]], obesity, and lipid disorders.
 
 Modern pharmacological research has validated the resin's hypolipidemic and
 anti-inflammatory properties, leading to the development of standardized
@@ -88,3 +85,7 @@ ranges from 2.5–5.0%. These are the primary hypolipidemic compounds.
 
 Additional constituents include myrrhanol A, myrrhanone A, mukulol, and
 commipheric acids (A, B, C, D, E). The sesquiterpenoid fraction contributes
+
+## See Also
+
+- [[commiphora-myrrha]]

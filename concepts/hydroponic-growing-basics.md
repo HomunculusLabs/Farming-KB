@@ -9,7 +9,7 @@ sources: []
 
 # Hydroponic Growing Basics
 
-Hydroponics is the practice of growing plants without soil by delivering nutrients dissolved in water directly to the root zone. For [[arbuscular-mycorrhizal-fungi-cannabis-cultivation]], hydroponics offers faster growth rates, higher yields, and precise control over [[solomon-fertigation-bucket-drip-water-nutrient-delivery]] compared to soil-based methods. This guide covers the major hydroponic systems, [[cannabis-nutrient-management]], pH control, and essential practices.
+Hydroponics is the practice of growing plants without soil by delivering nutrients dissolved in water directly to the root zone. For cannabis cultivation, hydroponics offers faster growth rates, higher yields, and precise control over nutrient delivery compared to soil-based methods. This guide covers the major hydroponic systems, nutrient management, pH control, and essential practices.
 
 ## Advantages of Hydroponics
 
@@ -18,7 +18,7 @@ Hydroponics is the practice of growing plants without soil by delivering nutrien
 - Precise control over nutrient ratios and concentrations
 - Reduced water usage (water is recirculated, not lost to soil drainage)
 - Fewer soil-borne pests and pathogens
-- Cleaner [[cannabis-growing-environment-setup]]
+- Cleaner growing environment
 - Easier to automate and monitor
 
 ## Disadvantages
@@ -34,7 +34,7 @@ Hydroponics is the practice of growing plants without soil by delivering nutrien
 
 ### Deep Water Culture (DWC)
 
-The simplest active hydroponic system. Plant roots hang directly in an oxygenated [[cannabis-nutrient-solution-preparation]].
+The simplest active hydroponic system. Plant roots hang directly in an oxygenated nutrient solution.
 
 How it works:
 - Plants are suspended in net pots filled with inert growing medium (hydroton, rockwool, coco coir)
@@ -47,7 +47,7 @@ Pros:
 - Simple to build and maintain
 - Low component count
 - Excellent for single-plant or small-scale grows
-- Very low maintenance during [[cannabis-vegetative-stage]]
+- Very low maintenance during vegetative stage
 
 Cons:
 - Root rot risk if temperature exceeds 72°F / 22°C
@@ -118,14 +118,14 @@ How it works:
 
 Recirculating drip:
 - Solution drains back to reservoir and is reused
-- More water-efficient but [[cervantes-nutrient-management]] is more complex
+- More water-efficient but nutrient management is more complex
 - pH and EC shift as plants selectively absorb nutrients
 
 Drain-to-waste drip:
 - Solution passes through the medium once and is discarded
 - More precise nutrient control (fresh solution each time)
 - Higher water and nutrient consumption
-- Common in commercial [[living-soil-cannabis]]
+- Common in commercial cannabis cultivation
 
 Pros:
 - Scalable to any size operation
@@ -135,16 +135,15 @@ Pros:
 - Each plant can be individually monitored
 
 Cons:
-- Emitters can clog (especially with [[organic-nutrients-vs-synthetic-nutrients]])
+- Emitters can clog (especially with organic nutrients)
 - More plumbing and fittings than other systems
 - Requires regular maintenance of delivery lines
 - Organic nutrients are problematic in drip systems (clogging, biofilm)
 
-## Nutrient Solution Management
+## See Also
 
-### Electrical Conductivity (EC)
-
-EC measures dissolved nutrient concentration in millisiemens/cm (mS/cm) or PPM:
-
-- Seedlings/clones: EC 0.4-0.8 (PPM 200-400)
-- Early vegetative: EC 0.8-1.2 (PPM 400-600)
+- [[cervantes-hydroponic-systems]]
+- [[green-cannabis-rockwool-hydroponic-growing-media]]
+- [[query-what-is-the-difference-between-living-soil-and-hydroponic-growing]]
+- [[query-how-do-i-choose-a-hydroponic-system-for-cannabis-or-vegetables]]
+- [[comparison-aquaponics-vs-cannabis-hydroponic-systems]]

@@ -69,16 +69,13 @@ The species shows a preference for north-facing slopes and gorge systems where s
 Campanula ochroleuca is cultivated as a collector's alpine and woodland-garden plant. It is rarely available commercially but can be found through specialist seed exchanges such as the Alpine Garden Society.
 
 **Growing requirements:**
-- **Soil:** [[humus]]-rich, well-drained loam, neutral to slightly alkaline
-- **Position:** Partial shade; tolerates full sun in cool-summer climates
-- **Hardiness:** Hardy to approximately USDA zones 5–8
-- **Propagation:** Seed sown fresh in autumn, or division of rhizomes in [[coleman-overwintered-onions-and-early-spring-crops]]
+- **Soil:** [[coleman-overwintered-onions-and-early-spring-crops]]
 
 The species performs best in woodland-edge conditions with dappled shade and consistent moisture. It is less demanding than high-alpine cushion campanulas and adapts reasonably well to lowland gardens.
 
 In its native range the species experiences cold winters with reliable snow cover and warm, relatively dry summers. Garden cultivation should aim to replicate this moisture pattern, providing winter drainage and summer irrigation.
 
-The cream-white flowers provide excellent contrast when grown alongside blue-flowered campanulas such as *[[campanula-persicifolia]]* or *[[campanula-lactiflora]]*.
+The cream-white flowers provide excellent contrast when grown alongside blue-flowered campanulas such as *[[campanula-lactiflora]]*.
 
 Plants grown from seed may take 2–3 years to reach flowering size. Once established, the rhizomatous rootstock produces reliable annual flowering and gradually forms small clumps.
 
@@ -87,3 +84,11 @@ Plants grown from seed may take 2–3 years to reach flowering size. Once establ
 In its native Balkan habitats, Campanula ochroleuca contributes to the diversity of montane meadow and gorge communities. The pale flowers are visited by a variety of generalist pollinators including bees, flies, and small beetles.
 
 The species is not currently listed as threatened, but its restricted Balkan endemic distribution makes it potentially vulnerable to habitat loss. Expanding ski resort development and overgrazing in Greek mountain areas are the primary conservation concerns.
+
+## See Also
+
+- [[campanula-portenschlagiana]]
+- [[campanula-cervicaria]]
+- [[campanula-stenocodon]]
+- [[campanula-cochlearifolia]]
+- [[campanula-rhomboidalis]]

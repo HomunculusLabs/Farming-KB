@@ -49,21 +49,13 @@ Rhizomes are thick and woody, typically 5 to 15 millimeters in diameter, and can
 
 ## Distribution and Habitat
 
-Cladium jamaicense ranges from the southeastern United States through the Caribbean, [[guzman-allen-gartz-neurotropic-fungi-caribbean-central-america]], and into northern [[guzman-psilocybin-mushrooms-south-america]].
+Cladium jamaicense ranges from the southeastern United States through the Caribbean, [[guzman-psilocybin-mushrooms-south-america]].
 
 In the United States, it is most abundant in Florida, where it dominates approximately 60 percent of the Everglades landscape.
 
 The species also occurs in coastal marshes of Louisiana, Texas, Georgia, and South Carolina, though at lower densities.
 
-Outside [[guzman-psilocybin-mushrooms-north-america]], sawgrass is found throughout the Greater Antilles, the Bahamas, Belize, Honduras, and northern Brazil.
-
-Sawgrass occupies shallow freshwater marshes, wet prairies, and the seasonally flooded peatlands of the Everglades ridge-and-slough landscape.
-
-Optimal growth occurs in water depths of 10 to 60 centimeters, though plants can survive periodic inundation up to 1 meter.
-
-The species tolerates a wide range of hydroperiods, from short-duration flooding of a few weeks to nearly continuous inundation.
-
-Soils are typically organic peats or marl substrates with low to moderate [[ph-and-nutrient-availability-garden-soils]].
+Outside [[ph-and-nutrient-availability-garden-soils]].
 
 Cladium is adapted to oligotrophic conditions and shows reduced competitive ability under elevated phosphorus regimes.
 

@@ -12,16 +12,12 @@ sources:
 
 ## Overview
 
-In his 1983 Esalen lecture, Terence McKenna articulated a distinctive ethical
+In his 1983 Esalen lecture, [[terence-mckenna]] articulated a distinctive ethical
 framework for engaging with the autonomous entities encountered under the
-influence of [[mckenna-tryptamine-hallucinogens-and-consciousness]], particularly DMT and psilocybin. Drawing
-implicitly on Martin Buber's philosophy of dialogue, McKenna argued that the
-appropriate stance toward the beings one encounters in these states is one of
-I/[[i-thou-relationship-hyperspace-entities-tryptamine]] — meeting the Other as an equal with dignity, skepticism,
+influence of [[i-thou-relationship-hyperspace-entities-tryptamine]] — meeting the Other as an equal with dignity, skepticism,
 and open inquiry — rather than the genuflection and worship that such
 encounters might otherwise seem to demand. This ethical orientation represents
-a significant contribution to the phenomenology of [[dmt-entity-encounters-and-the-logos]] and has
-implications for both [[metzner-psycholytic-psychedelic-therapy-models]] and the comparative study of religious
+a significant contribution to the phenomenology of [[metzner-psycholytic-psychedelic-therapy-models]] and the comparative study of religious
 experience.
 
 ## The Problem of Genuflection

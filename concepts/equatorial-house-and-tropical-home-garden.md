@@ -1,5 +1,5 @@
 ---
-title: Equatorial House Design and Tropical Home Garden
+title: [[equatorial-house-design-principles]] and [[mollison-tropical-home-garden-design]]
 source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
@@ -8,22 +8,7 @@ type: concept
 
 ## Overview
 
-In equatorial and tropical regions, permaculture design demands a fundamentally different approach to housing and food production compared to temperate zones. Sun orientation is less critical than wind access; cooling relies on airflow rather than thermal mass; and the seasonal calendar is driven by wet and dry periods rather than temperature. [[bill-mollison]]'s guidance integrates architecture, horticulture, animal systems, and disaster preparedness into a unified tropical design strategy.
-
-## Equatorial House Essentials
-
-### Site Selection
-
-Equatorial house sites are chosen primarily for **prevailing wind exposure** rather than solar orientation. The sun sits nearly overhead year-round, so solar gain is less of a design driver. Instead, sites are selected to maximise airflow for cooling. Preferred locations include **shaded valley sites** where cooler air pools and natural drafts channel through the dwelling.
-
-### Cooling and Ventilation
-
-- **Cross-ventilation** is the primary cooling strategy — walls should be permeable and openings aligned to capture prevailing breezes.
-- **Induced ventilation** can be created by planting **palm groves** upwind; the palms channel and accelerate airflow toward the house.
-- **Light, permeable wall materials** (woven bamboo, thatch screens, timber lattice) allow air movement even when openings are closed.
-- **Vertical louvres and shutters** provide adjustable ventilation and rain protection.
-- **White or reflective wall surfaces** reduce radiant heat absorption.
-- Heat sources (kitchens, kilns, [[composting-toilets]]) should be **detached** from the main living structure.
+In equatorial and tropical regions, [[permaculture-design]] demands a fundamentally different approach to housing and food production compared to temperate zones. Sun orientation is less critical than wind access; cooling relies on airflow rather than thermal mass; and the [[beekeeping-seasonal-calendar]] is driven by wet and dry periods rather than temperature. [[composting-toilets]]) should be **detached** from the main living structure.
 
 ### Roofing
 
@@ -38,7 +23,7 @@ Tropical regions face hurricanes, tsunamis, and volcanic activity. Design respon
 - **Hurricane-resistant construction** with braced frames and minimal overhang on windward sides.
 - **Bamboo groves** planted as living wind barriers upwind of structures.
 - **Site selection** in valley positions or behind earth banks for shelter.
-- **Earth banks** and **oversize swales** that double as wind deflection and water management.
+- **Earth banks** and **oversize swales** that double as wind deflection and [[water-management]].
 
 ## The Tropical Home Garden
 
@@ -72,7 +57,7 @@ Large nitrogen-fixing legumes are interplanted throughout the orchard to supply 
 
 ### Vegetable Garden
 
-Ground-level vegetable production includes:
+Ground-level [[coleman-french-historical-winter-vegetable-production]] includes:
 
 - **Root crops:** Yam, sweet potato
 - **Leaf crops:** Amaranth
@@ -97,7 +82,7 @@ Animals are integrated for pest control, nutrient cycling, and food production:
 
 - **Guinea-fowl and chickens** patrol for insect pests.
 - **Termite-resistant construction** is critical — use naturally resistant timbers, metal-capped posts, and physical barriers.
-- **Marigolds, neem, and pyrethrum** are interplanted for biological pest control.
+- **Marigolds, neem, and pyrethrum** are interplanted for [[cervantes-biological-pest-control-predators]].
 - **Neem trees** planted to overhang ponds suppress mosquito larvae.
 
 ## Specialist Crops
@@ -128,7 +113,7 @@ Beyond food staples, tropical systems support valuable specialist crops:
 
 ## Hurricane Damage Mitigation
 
-An integrated approach combining site planning, vegetation, and earthworks:
+An [[solomon-insects-and-diseases-integrated-approach]] combining site planning, vegetation, and earthworks:
 
 1. **Earth banks** and ridges deflect wind and debris.
 2. **Valley sites** gain natural shelter from surrounding terrain.
@@ -145,6 +130,5 @@ An integrated approach combining site planning, vegetation, and earthworks:
 - Build redundancy into water storage and food preservation systems.
 ## See also
 
-- [[permaculture-design]]
 - [[equatorial-house-design-essentials]]
 - [[mushroom-geotropism-and-spore-production]]

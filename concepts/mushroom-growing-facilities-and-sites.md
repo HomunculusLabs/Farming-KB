@@ -14,15 +14,7 @@ Mushrooms may be grown in a variety of situations, provided that the key environ
 
 ### Origin of the Caves
 
-The French mushroom industry owes its enormous scale to the subterranean limestone quarries beneath and around Paris. Parisian buildings were constructed primarily of limestone mined from beneath the city itself and from adjacent suburbs. Mining operations were conducted to leave vast labyrinthine systems of caves. The caves lying directly under the city proper (the catacombs) are not used for [[mushroom-cultivation]].
-
-### Physical Characteristics
-
-The suburban caves range from a few feet to 50 feet beneath the surface. They vary usually from 5 to 25 feet in width (exceptionally up to 50 feet) and from 5 to 20 or more feet in height. The extent of these cave areas is very great.
-
-### Key Locations
-
-In many suburbs — including Montrouge, Vitry, Chatillon, Issy, Nanterre, Rosny-sous-Bois, and Passy — mushroom growing is one of the truly important industries. An estimated 2,000 kilometers (about 1,200 miles) of mushroom beds exist in these suburban caves. The term "[[champignoniere]]" (mushroom cave) became practically synonymous with "carriere" (quarry).
+The French mushroom industry owes its enormous scale to the subterranean limestone quarries beneath and around Paris. Parisian buildings were constructed primarily of limestone mined from beneath the city itself and from adjacent suburbs. Mining operations were conducted to leave vast labyrinthine systems of caves. The caves lying directly under the city proper (the catacombs) are not used for [[champignoniere]]" (mushroom cave) became practically synonymous with "carriere" (quarry).
 
 ### Ventilation
 
@@ -105,3 +97,11 @@ Sections of California with mean monthly temperatures of 50 to 60 degrees F and 
 ### Field and Pasture Spawning
 
 Inquiries about spawning pastures and lawns to establish natural cultures for increased autumn supply have generally met with inconsistent results. Both American and English experimenters report that success depends entirely on the season and that results are wholly inconstant. Nevertheless, the labor involved is so minimal that spreading spawn about lawns or pastures when it is available may be worth the occasional favorable outcome.
+
+## See Also
+
+- [[telluride-mushroom-festival-modern-mycological-culture]]
+- [[shroom-cultural-history-mushroom-in-ancient-civilizations]]
+- [[bloomfield-mushroom-foraging-immigrant-poisonings-paddy-straw-confusion]]
+- [[mckenna-mushroom-teonanacatl-franciscan-theophagy-and-oaxaca-survival]]
+- [[mushroom-poisoning-guide]]

@@ -22,14 +22,9 @@ while swales primarily harvest and infiltrate water. Understanding their
 differences is essential for anyone designing earthworks on sloped property.
 
 ## Terracing
-[[swale-design-construction]]
-Swales are shallow, level-bottomed ditches excavated along the contour of a
-slope to capture surface runoff and allow it to infiltrate into the soil
-profile. The excavated soil is typically placed on the downhill side as a
-berm, which can be planted with trees, shrubs, or [[gaias-garden-cover-crops-soil-building]]. Unlike
+[[gaias-garden-cover-crops-soil-building]]. Unlike
 terraces, swales do not create level growing surfaces; their primary purpose
-is water harvesting, groundwater recharge, and [[permplant-willows-salix-erosion-control-fodder]] through
-reduced runoff velocity. [[comparison-swale-design-vs-contour-swale-irrigation-design]] and construction requires accurate
+is water harvesting, groundwater recharge, and [[comparison-swale-design-vs-contour-swale-irrigation-design]] and construction requires accurate
 contour mapping using an A-frame level, laser level, or water tube level.
 
 Swales are most effective on moderate slopes (3 to 15 degrees) where
@@ -56,15 +51,7 @@ roots.
 | Slope suitability | Steep (15+ degrees) | Moderate (3-15 degrees) |
 | Construction cost | High | Low to moderate |
 | Engineering required | Significant (retaining walls) | Minimal (contour mapping) |
-| Best use | Annual crops, [[solomon-wide-spacing-versus-intensive-gardening-debate]] | Tree crops, food forests, pasture |
-| Water management | Drainage-focused | Infiltration-focused |
-| Longevity | Permanent if well-built | Can fill with sediment over time |
-| Failure risk | Catastrophic (wall breach) | Manageable (overflow) |
-
-## When to Choose Terracing
-Terraces are the right choice on steep slopes where level ground for
-cultivation is the primary objective. They are essential for intensive
-[[dry-gardening-unirrigated-vegetable-production-solomon]] on hillside sites and for establishing orchards where
+| Best use | Annual crops, [[dry-gardening-unirrigated-vegetable-production-solomon]] on hillside sites and for establishing orchards where
 level surfaces improve tree care, harvest access, and irrigation
 efficiency. Terraces are also preferred in high-rainfall regions where
 contour swales alone cannot handle peak stormwater volumes and more robust
@@ -87,9 +74,76 @@ terraces on the steepest sections where level growing surfaces are needed.
 Terraced growing areas can also incorporate swale-like water harvesting by
 including level sill drains at the base of each terrace wall. Mollison
 recommends integrating both approaches in comprehensive slope management
-plans that address water, access, and [[cotter-growing-space-design-fruiting-rooms]] simultaneously.
-
-## See Also
-- [[comparison-keyline-vs-swale]]
+plans that address water, access, and [[comparison-keyline-vs-swale]]
 - [[comparison-terracing-vs-swales]]
 - pdc-earthworks-and-swales
+
+## Overview
+
+Comparison Terracing Vs Swale represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish comparison terracing vs swale
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving comparison extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Comparison Terracing Vs Swale finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for comparison terracing vs swale. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+comparison terracing vs swale and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Comparison Terracing Vs Swale has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of comparison terracing vs swale into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.

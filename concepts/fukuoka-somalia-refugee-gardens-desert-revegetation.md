@@ -23,10 +23,7 @@ in developing nations.
 
 The trip came through an invitation from a UNEP Action to Combat
 Desertification official who asked Fukuoka to come up with ideas for
-[[fukuoka-textdoc-greening-deserts-plant-irrigation]]. Fukuoka had been thinking about desertification
-for seven years. The natural way of farming he had practiced for
-over forty years could serve as a means for stopping and revegetating
-deserts and as a low-cost method of farming [[mollison-arid-lands-aquatic-species]].
+[[mollison-arid-lands-aquatic-species]].
 
 ## No Agricultural Guidance Infrastructure
 
@@ -43,25 +40,7 @@ refugee camps in a remote area of Somalia.
 
 ## Political Obstacles in Somalia
 
-Fukuoka's proposal of peasant self-sufficiency through [[fukuoka-somalia-desert-greening-mission]],
-[[fukuoka-clay-pellet-desert-greening]],
-[[fukuoka-africa-natural-farming]]
-## Practical Considerations
-
-When working with Fukuoka Somalia Refugee Gardens Desert Revegetation, several practical factors should be
-carefully considered to achieve optimal results. These include
-the specific conditions of the implementation context, available
-resources, timing requirements, and the interactions between this
-topic and other elements of the broader system. A holistic view
-that considers these interconnections produces better outcomes.
-
-Environmental conditions such as temperature, moisture, and
-seasonal patterns significantly influence results. Monitoring these
-variables and adapting practices accordingly is essential for success.
-The most effective practitioners develop keen observation skills and
-respond flexibly to changing conditions rather than following rigid
-protocols regardless of circumstances or local variation.
-
+Fukuoka's proposal of peasant self-sufficiency through [[fukuoka-clay-pellet-desert-greening]],
 [[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
@@ -111,8 +90,6 @@ through generations to modern scientific approaches, the evolution continues
 to inform current best practices and research directions.
 
 ## See Also
-- [[desert-revegetation]]
 - [[doc]]
-- [[soma]]
 - [[desertification]]
 - [[fukuoka-clay-pellet-seed-balls-desert-revegetation]]

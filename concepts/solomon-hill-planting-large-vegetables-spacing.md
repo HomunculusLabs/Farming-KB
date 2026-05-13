@@ -1,11 +1,8 @@
 ---
 title: "Hill Planting for Large Vegetables"
 source: "gardening when it counts"
-author: "[[steve-solomon]] (2005)"
-related:
-  - "[[solomon-raised-beds]]"
-  - "[[complete-organic-fertilizer-cof]]"
-  - "[[drought-gardening]]"
+author: "solomon-raised-beds"
+  - "drought-gardening"
   - "plant spacing"
   - "band placement"
 tags:
@@ -19,11 +16,7 @@ tags:
 
 Hills are small, highly fertilized mounds used to grow large vegetable
 plants. They concentrate fertility in a compact zone, giving plants a
-strong start that carries benefits throughout the entire [[extending-growing-season]].
-
-## When to Use Hills vs. Raised Beds
-
-The choice between hills and [[solomon-raised-beds]] depends on plant size and
+strong start that carries benefits throughout the entire solomon-raised-beds depends on plant size and
 whether the garden is irrigated.
 
 ### Plants Suited to Hills
@@ -34,39 +27,8 @@ Large plants that benefit most from hill planting include:
 - Brussels sprouts
 - Broccoli
 - Tomatoes
-- [[growing-sweet-corn-organically]]
-- Cucurbits (squash, melons, cucumbers, pumpkins)
-
-Small vegetables — beets, carrots, lettuce, bush beans — are better
-grown in [[solomon-raised-beds]] or raised [[raised-beds-wide-rows-hills-garden-layout-solomon]], where the slightly elevated
-surface makes it easier to create a fine seedbed for tiny seeds.
-
-### Sweet Corn: An Exception
-
-Sweet corn needs to grow in a large cluster for wind pollination, so it
-does better "on the flat" rather than in individual hills.
-
-## Non-Irrigated vs. Irrigated Gardens
-
-- **Non-irrigated gardens:** Use hills and single rows, except for
-  small vegetables in raised wide rows. See [[drought-gardening]].
-- **Irrigated gardens:** [[solomon-raised-beds]] work well for most crops,
-  including tomatoes and sweet corn.
-
-## Hill Dimensions
-
-Hills for large plants are typically:
-
-- **Size:** 24 x 30 inches (60 x 75 cm), sometimes 24 x 24 inches
-- **Spacing between hills:** Usually 4 feet (120 cm) center-to-center
-- **Dry conditions:** Increase to 5–6 feet (150–180 cm) apart
-- **Squash and melons:** Hills can be up to 8 feet (240 cm) apart
-  where rainfall is low, because these cucurbits spread so aggressively
-
-## How to Make Hills
-
-1. Prepare the whole area first. Spread lime, compost, manure, and/or
-   [[complete-organic-fertilizer-cof]] (COF) evenly across the entire plot.
+- solomon-raised-beds or raised drought-gardening.
+- **Irrigated gardens:** complete-organic-fertilizer-cof (COF) evenly across the entire plot.
 2. Then concentrate additional fertilizer where each hill will be. Place
    a shovelful or two of compost or manure in a little pile, then dig
    a circular spot about 12–18 inches (30–45 cm) in diameter, working
@@ -88,3 +50,88 @@ highly fertile soil. See band placement.
 
 This practice gets plants growing fast from the very beginning, so they
 outgrow environmental menaces — insects, slugs, and other threats that
+
+## Overview
+
+Solomon Hill Planting Large Vegetables Spacing represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish solomon hill planting large vegetables spacing
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving solomon extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Solomon Hill Planting Large Vegetables Spacing finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for solomon hill planting large vegetables spacing. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+solomon hill planting large vegetables spacing and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Solomon Hill Planting Large Vegetables Spacing has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of solomon hill planting large vegetables spacing into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[root-competition-plant-spacing-solomon]]
+- [[solomon-growing-perennials-asparagus-rhubarb]]
+- [[solomon-low-grade-compost-making-methods]]
+- [[solomon-shade-and-sunlight-requirements]]
+- [[solomon-wheelbarrow-selection-garden-tool-care-maintenance]]

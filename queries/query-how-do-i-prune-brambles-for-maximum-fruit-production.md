@@ -27,14 +27,7 @@ sources:
 
 Pruning is the single most impactful practice for maximizing bramble yield and fruit quality. Neglected brambles produce tangled, shaded canopies with small, disease-prone berries. A properly pruned bramble planting can yield 2–3× more high-quality fruit than an unmanaged one. This guide covers the pruning systems for all major bramble types.
 
-## Understand the [[query-how-to-read-cannabis-trichomes-for-the-perfect-harvest-time]] | Examples |
-|------|-----------|-------------|----------|
-| **Summer-bearing raspberry** | Floricanes (2nd-year canes) | Early–mid summer | 'Tulameen', 'Nova', 'Prelude', 'Canby' |
-| **Everbearing/fall-bearing raspberry** | Primocanes (1st-year canes) | Late summer–fall (or double crop) | 'Heritage', 'Caroline', 'Joan J', 'Autumn Bliss' |
-| **Black raspberry** | Floricanes | Early–mid summer | 'Jewel', 'Bristol', 'Allen' |
-| **Erect blackberry** | Floricanes | Mid–late summer | 'Apache', 'Arapaho', 'Ouachita', 'Triple Crown' |
-| **Trailing blackberry** | Floricanes | Mid–late summer | 'Marion', 'Chehalem', 'Boysenberry', 'Obsidian' |
-| **Primocane-fruiting blackberry** | Primocanes | Late su [[savory-growing-season-and-non-growing-season-management]]. This simplicity is the main advantage of primocane-fruiting types.
+## Understand the [[savory-growing-season-and-non-growing-season-management]]. This simplicity is the main advantage of primocane-fruiting types.
 
 **Trade-off:** You sacrifice the early summer crop. Total annual yield is typically 20–30% lower than a well-managed double-crop system, but the labor savings are enormous.
 
@@ -66,11 +59,7 @@ This is a separate, mid-season operation that significantly boosts yield on flor
 
 **Do NOT tip-prune red raspberries.** They fruit along the entire length of the cane, not on laterals.
 
-## Step 5 — Sanitation and [[query-what-is-the-difference-between-hot-compost-and-cold-compost]] ll pruned material from the planting area.** Burn, chip, or compost (hot compost only — 140°F+ for several days). Do not leave cut canes on the ground as disease inoculum.
-2. **Sanitize pruning tools.** Wipe blades with 70% isopropyl alcohol or 10% bleach solution between plants, especially if any canes show disease symptoms.
-## See Also
-
-- [[query-how-to-design-a-food-forest-guild-for-fruit-trees]]
+## Step 5 — Sanitation and [[query-how-to-design-a-food-forest-guild-for-fruit-trees]]
 - [[query-best-chestnut-varieties-for-different-climates-and-uses]]
 ## Practical Considerations
 

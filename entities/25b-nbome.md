@@ -15,7 +15,7 @@ sources:
   - Brüne, S. et al. (2018). "Pharmacological profiling of NBOMe compounds at 5-HT2A and 5-HT2C receptors." Biochemical Pharmacology 158: 321-328.
   - Nichols, D.E. (2016). "Psychedelics." Pharmacological Reviews 68(2): 264-355.
   - Suzuki, J. et al. (2015). "25B-NBOMe-related death." Journal of Analytical Toxicology 39(8): 644-646.
-  - EMCDDA (2014). "Risk assessment of [[25i-nbome]]." EMCDDA-Europol.
+  - EMCDDA (2014). "Risk assessment of 25i-nbome." EMCDDA-Europol.
 ---
 
 # 25B-NBOMe
@@ -54,18 +54,7 @@ potency and metabolic stability compared to parent compound 2C-B.
 - **5-HT1A:** Ki ≈ 100–200 nM (weak)
 - **α1-Adrenergic:** Ki ≈ 50–100 nM (moderate)
 
-Partial agonist at 5-HT2A with ~50–80% efficacy relative to [[serotonin]],
-contributing to its distinct subjective character versus full agonists.
-
-Primary effects are mediated through 5-HT2A activation in cortical
-layer V pyramidal neurons, increasing glutamate release.
-
-The 2-methoxybenzyl group provides metabolic protection against rapid
-first-pass deamination.
-
-## Pharmacokinetics
-
-- **Route:** Sublingual/buccal for full effects; [[first-pass-metabolism-and-oral-bioavailability]]
+Partial agonist at 5-HT2A with ~50–80% efficacy relative to [[first-pass-metabolism-and-oral-bioavailability]]
 is very low (~5%) due to extensive first-pass metabolism.
 - **Onset:** 15–45 minutes (sublingual).
 - **Duration:** 6–10 hours.
@@ -90,7 +79,5 @@ tremor, jaw clenching.
 - **Light:** 100–250 µg
 
 ## See Also
-- [[lsd]]
 - [[serotonin]]
-- [[25i-nbome]]
 - [[25c-nbome]]

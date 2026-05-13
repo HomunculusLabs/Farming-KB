@@ -108,13 +108,8 @@ The starchy trunk core was baked in imu (underground ovens) during times of food
 
 ## See Also
 
-- [[cyathea-cooperi]]
 - [[cyathea-dealbata]]
-- [[cyathea-medullaris]]
 - [[cibotium-glaucum]]
-- [[cibotium-barometz]]
 - [[dicksonia-antarctica]]
-- [[asplenium-nidus]]
 - [[polypodium-vulgare]]
-- [[pteridium-aquilinum]]
 - [[sphagnum-palustre]]

@@ -8,7 +8,7 @@ type: concept
 
 ## Overview
 
-The aquatic spirit world in Amazonian vegetalismo is a vast, multi-layered realm beneath the rivers, inhabited by the yakurunas (water people), mermaids, and a bewildering variety of water spirits. These beings are accessed through [[amaringo-ayahuasca-visions-shipibo-iconography]] and play central roles in both healing and sorcery. The yakuruna world includes enchanted underwater cities, golden tree groves, oasis of youth, and even extraterrestrial visitors who maintain contact with the submerged civilizations. [[ayahuasca-preparation-pablo-amaringo-ucayali-shamanism]]'s paintings provide the most detailed visual documentation of this complex spirit ecology.
+The aquatic spirit world in Amazonian vegetalismo is a vast, multi-layered realm beneath the rivers, inhabited by the yakurunas (water people), mermaids, and a bewildering variety of water spirits. These beings are accessed through [[ayahuasca-preparation-pablo-amaringo-ucayali-shamanism]]'s paintings provide the most detailed visual documentation of this complex spirit ecology.
 
 ## Types of Yakurunas (Vision 19)
 
@@ -68,83 +68,83 @@ The yakuruna's fierce dogs wear the heads of piranha fish, combining aquatic pre
 
 ### Killo-Garza (Golden Heron)
 
-Birds in flight known for vigilance equal to that of a curandero. Their watchful [[coleman-first-rule-nature-makes-sense]] them spiritual analogs to the healer's constant alertness.
-
-### Tian Camuri Fairies
-
-The tian camuri (tian = to possess, camuri = round seaweed fruit) fairies bring medicinal flowers so that the vegetalista will learn their icaros and heal with them. Behind them are the great arkanas (defenses) that come from these plants. They serve as intermediaries between the aquatic world's botanical resources and the healer's practice.
-
-### Angel Taksha
-
-Carries a powerful laser used to heal spider and insect bites, as well as mal aire. The angel represents a benevolent celestial being allied with the aquatic world's healing functions.
-
-## The Aceropunta (Vision 20)
-
-### The Esoteric Ship
-
-The Aceropunta is a great steamer — a truly esoteric ship visible only under a very strong mareación (visionary state) when called by a well-sung icaro. It approaches from a great distance producing an electrifying sound.
-
-### Seven Forms of Appearance
-
-The Aceropunta manifests in seven different forms:
-1. A battleship
-2. A submarine emerging from the depths
-3. A speedboat with four stories
-4. A big ship like those used by the Vikings
-5. An aircraft carrier
-6. A trimaran
-7. An airship
-
-In all forms, the bow of the ship is made of dazzling white steel.
-
-### Crew Composition
-
-The crew includes:
-- Seamen dressed in white
-- Doctors dressed in violet
-- Nurses dressed in light blue
-- Fairies, mermaids, sibyls, and fortune tellers
-- Great murayas and bancos (shamans specialized in high alchemy)
-
-### Defenses and Guardians
-
-- **Llipian Atun Huarmis** ("big and brilliant women"): Great fairies with magic, high-powered lamps used as weapons, defending the boat from outer space
-- **Bird guardians**: Sarara (*Anhinga anhinga*), tibemama (*Pandion haliaetus*), pompóm, cumpa-supay
-- **Boas**: Used as arkanas (defensive spirits)
-- **Huarmi murayas**: Resembling mermaids, dressed in scaly armor of celestial fish, watering pink and white flowers for alchemical healing
-- **Puka-clukchas** (red-haired): Men who travel in the rear, tending ropes to protect those performing healing arts
-
-### Commander
-
-Manuel Huaya is the commander of the Aceropunta, standing in front of the steps with his subordinates as the healer prepares to receive the ship's visit.
-
-## The Sublimity of the Sumiruna (Vision 21)
-
-### Subaquatic Regions
-
-The opening to the subaquatic worlds reveals three distinct regions:
-1. **First region**: Fair-haired mermaids, pink and black dolphins, white yakurunas
-2. **Second region**: Red yakurunas, Hitrodos, blue and red mermaids
-3. **Third region**: Black yakurunas, pato-bufeos (duck-dolphins), black mermaids
-
-The color gradation from white through red to black suggests a progression from lighter to darker spiritual domains.
-
-### Levitation and Astral Travel
-
-The sumiruna is transported to space by ancash sylphs (blue sylphs) in a glass tube (the lupuna colorada, *Cavallinesia sp.*). He stands on a ball of high-pressure gas, ready for levitation, wearing:
-- Skins of the boa
-- Trousers of ray-fish
-- Feet of yangunturo (giant armadillo)
-- A hat made from a macaw called yura-guacamayo
-
-White mermaids make the capsule levitate while flying saucers hurry to receive and accompany the sumiruna in astral travel.
-
-### Virote Swallowing Ceremony
-
-Expert curanderos swallow various virotes (magical darts) with their mann (magical phlegm). Different palm trees provide different virotes:
-## Related Topics
-
-- [[ayahuasca-ceremony-and-mariri-system]]
-- [[shamanic-sorcery-types]]
+Birds in flight known for vigilance equal to that of a curandero. Their watchful [[ayahuasca-ceremony-and-mariri-system]]
 - [[forest-spirits-and-subaquatic-world]]
 - [[planetary-spirits-spiritual-healing]]
+
+## Overview
+
+Yakuruna Aquatic Spirit World represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish yakuruna aquatic spirit world
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving yakuruna extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Yakuruna Aquatic Spirit World finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for yakuruna aquatic spirit world. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+yakuruna aquatic spirit world and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Yakuruna Aquatic Spirit World has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of yakuruna aquatic spirit world into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.

@@ -11,7 +11,7 @@ sources: []
 
 Pigs are extraordinarily productive homestead livestock. They grow fast,
 convert feed efficiently, and produce excellent meat. Their rooting behavior
-can be harnessed for [[urban-permaculture-pig-land-clearing]] and tillage, and their manure is among
+can be harnessed for land clearing and tillage, and their manure is among
 the most nutrient-rich available. Pigs are intelligent and require secure
 fencing and thoughtful management.
 
@@ -19,7 +19,7 @@ fencing and thoughtful management.
 
 ### Heritage Breeds (Recommended for Homesteads)
 - **Berkshire** — Excellent meat quality, marbled, dark-fleshed. Known as
-  Kurobuta in Japan. Good mothers, moderate [[soil-temperature-plant-growth-rate-doubling-rule]].
+  Kurobuta in Japan. Good mothers, moderate growth rate.
 - **Tamworth** — Long-bodied, bacon-type. Excellent foragers, hardy, good
   mothers. Red-gold color.
 - **Large Black** — Docile, excellent foragers, good lard-type pigs. Black
@@ -51,7 +51,7 @@ fencing and thoughtful management.
 - Provide shade — pigs cannot sweat and are extremely heat-sensitive.
 
 ### Confinement (Not Recommended for Homesteads)
-- Concrete floors, slatted flooring, [[mollison-pdc-trellis-systems-climate-control]]. Higher capital cost,
+- Concrete floors, slatted flooring, climate control. Higher capital cost,
   more disease pressure.
 
 ### Farrowing Housing
@@ -70,7 +70,7 @@ Pigs are notorious for testing and destroying fencing.
 - Pigs will root under fences. Bury wire 6-12 inches or place logs/rocks
   along the bottom.
 - Electric fencing must be powerful — minimum 6 joules for perimeter.
-- Portable electric net fencing works for [[comparison-rotational-grazing-vs-continuous-grazing]] with pigs.
+- Portable electric net fencing works for rotational grazing with pigs.
 - Train piglets to electric fence early with a dedicated training paddock.
 
 ## Feeding
@@ -140,10 +140,11 @@ Pigs are notorious for testing and destroying fencing.
 ## Farrowing
 
 - Prepare farrowing pen 1 week before due date. Clean, dry, bedded deeply.
-- Signs of farrowing: restlessness, nesting behavior, vulva swelling, milk
-  letdown (12-24 hours before).
-- Farrowing typically takes 2-6 hours. Piglets born every 10-20 minutes.
-- Dry each piglet immediately, clear airways, ensure first colostrum.
-- Dip navels in iodine.
-- Process piglets (iron injection, clip needle teeth, dock tails, castrate
-  males) within first 3 days.
+
+## See Also
+
+- [[rabbit-husbandry]]
+- pig husbandry
+- [[comparison-rabbit-husbandry-vs-chicken-keeping]]
+- [[goat-husbandry-detailed-guide]]
+- [[comparison-quail-husbandry-vs-rabbit-husbandry]]

@@ -38,7 +38,7 @@ The species remains uncommon in general horticulture but is sought by alpine pla
 
 The species was first described by Friedrich Ernst Ludwig von Fischer and published by Carl Friedrich von Ledebour. It belongs to Campanula section Rupestres, a group of predominantly Caucasian rock-dwelling bellflowers.
 
-This section is characterized by procumbent stems that root at the nodes. Campanula radicans is closely allied to [[campanula-saxatilis]] and [[campanula-sibirica]] within the section.
+This section is characterized by procumbent stems that root at the nodes. Campanula radicans is closely allied to [[campanula-sibirica]] within the section.
 
 Some taxonomists have treated it as a variety of Campanula saxatilis. Modern treatments recognize it as distinct based on stem morphology and floral measurements.
 
@@ -87,3 +87,11 @@ The plant prefers full sun to partial shade. In hotter climates, afternoon shade
 Propagation is by seed or division. Seeds require cold stratification for 4–6 weeks at 4°C before germination.
 
 Division of rooted stem segments in [[coleman-overwintered-onions-and-early-spring-crops]] or autumn is reliable. Each rooted node can be separated and planted independently.
+
+## See Also
+
+- [[campanula-portenschlagiana]]
+- [[campanula-cervicaria]]
+- [[campanula-stenocodon]]
+- [[campanula-cochlearifolia]]
+- [[campanula-rhomboidalis]]

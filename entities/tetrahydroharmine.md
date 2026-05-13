@@ -13,7 +13,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - McKenna, D.J., et al. (1984). "Monoamine oxidase inhibitors in chiric-caspi-brunfelsia-south-american-hallucinogen hallucinogenic plants." Journal of Ethnopharmacology 12(2): 179–211.
-  - Samoylenko, V., et al. (2010). "[[ayahuasca-and-banisteriopsis-caapi]]: a challenges-neurotropic-fungi-chemical-analysis-taxonomic-identification of the Amazonian psychoactive beverage ayahuasca." Phytochemistry Letters 3(3): 77–81.
+  - Samoylenko, V., et al. (2010). "ayahuasca-and-banisteriopsis-caapi: a challenges-neurotropic-fungi-chemical-analysis-taxonomic-identification of the Amazonian psychoactive beverage ayahuasca." Phytochemistry Letters 3(3): 77–81.
   - Riba, J., et al. (2003). "Increasing tryptamine dose in ayahuasca." Psychopharmacology 166(1): 63–70.
   - Yritia, M., et al. (2005). "Determination of tryptamine, N-methyltryptamine, and N,N-dimethyltryptamine in ayahuasca." Journal of Chromatography B 820(2): 259–266.created: 2026-05-07
 
@@ -26,47 +26,10 @@ created: 2026-05-07
 
 THH is one of the three principal β-carboline alkaloids in ayahuasca, alongside harmine and harmaline. It is typically present at concentrations comparable to or exceeding harmine in well-prepared *B. caapi* brews, making it a major contributor to the pharmacological profile of the mixture.
 
-Unlike harmine and harmaline, which are reversible inhibitors of **monoamine oxidase A (MAO-A)**, tetrahydroharmine is a relatively weak MAO inhibitor. Its pharmacological significance lies instead in **serotonin reuptake inhibition** and possible direct agonist activity at [[psilocybin-pharmacology-and-serotonin-receptors]].
-
-## Chemical Properties
-
-- **Molecular formula**: C₁₂H₁₄N₂
-- **Molecular weight**: 186.25 g/mol
-- **IUPAC name**: 1-methyl-1,2,3,4-tetrahydro-β-carboline
-- **CAS number**: 4873-18-5
-- **SMILES**: CN1CCC2=C1C3=C(C=CC=C3)NC2
-
-Tetrahydroharmine is a structural analogue of harmine in which the pyridine ring has been **partially reduced** (the C7=C8 double bond is saturated). This reduction eliminates the planar aromaticity of the β-carboline system and significantly alters the compound's pharmacological properties compared to the fully aromatic harmine.
-
-The compound exists as a crystalline solid at room temperature. It is soluble in polar organic solvents (methanol, ethanol, DMSO) and moderately soluble in water at acidic pH. It is typically isolated from plant material using acid-base extraction followed by chromatographic purification.
-
-THH is the biosynthetic product of **Pictet-Spengler condensation** of tryptamine with acetaldehyde, followed by N-methylation. In *Banisteriopsis caapi*, it is formed via enzymatic reduction of harmine through the action of endogenous reductases.
-
-## Pharmacology
-
-Tetrahydroharmine exhibits a distinct pharmacological profile from the other major ayahuasca β-carbolines:
-
-- **Serotonin reuptake inhibition (SRI)**: THH is a moderate inhibitor of the serotonin transporter (SERT), with reported IC₅₀ values in the low micromolar range. This activity is thought to contribute to the mood-elevating and antidepressant effects associated with ayahuasca consumption.
-- **Weak MAO-A inhibition**: Unlike harmine (IC₅₀ ~0.05 µM for MAO-A) and harmaline (IC₅₀ ~0.08 µM), THH shows only minimal MAO-A inhibitory activity. It is not considered a significant contributor to the [[tihkal-oral-activity-mao-inhibition]] that enables oral DMT activity in ayahuasca.
+Unlike harmine and harmaline, which are reversible inhibitors of **monoamine oxidase A (MAO-A)**, tetrahydroharmine is a relatively weak MAO inhibitor. Its pharmacological significance lies instead in **serotonin reuptake inhibition** and possible direct agonist activity at [[tihkal-oral-activity-mao-inhibition]] that enables oral DMT activity in ayahuasca.
 - **5-HT₂A receptor interaction**: Some evidence suggests THH may act as a weak partial agonist at 5-HT₂A receptors, though this activity is substantially less than that of DMT itself. The relevance of this activity in the context of the full ayahuasca brew is unclear.
 
-In vitro studies have shown that THH can potentiate the effects of serotonin at certain receptor subtypes through its reuptake inhibition. This may explain why [[schultes-ayahuasca-preparations]] rich in THH are reported to produce smoother, more integrative experiences compared to isolated harmine-harmaline-DMT combinations.
-
-THH is rapidly absorbed after oral administration and crosses the blood-brain barrier. Metabolism occurs primarily via hepatic oxidation and conjugation. The elimination half-life has not been precisely characterized in humans but is estimated at 6–10 hours based on pharmacokinetic studies of ayahuasca alkaloids.
-
-## Role in Ayahuasca
-
-Tetrahydroharmine is a major constituent of *Banisteriopsis caapi*, typically comprising **30–50%** of the total β-carboline alkaloid content in the bark. In some *B. caapi* varieties (particularly the "Cielo" and "Trueno" types), THH may be the single most abundant alkaloid.
-
-The role of THH in the ayahuasca experience has been historically underappreciated compared to the MAO-inhibitory harmine and harmaline. However, its **serotonin reuptake inhibition** is increasingly recognized as a key pharmacological contributor to the brew's antidepressant and anxiolytic effects.
-
-Research by Samoylenko et al. (2010) demonstrated that THH concentrations vary significantly between *B. caapi* varieties. Indigenous healers (ayahuasqueros) often select specific varieties based on the desired qualities of the brew, and THH content is believed to influence the visual, emotional, and somatic characteristics of the experience.
-
-The combination of THH's SRI activity with harmine's MAO-A inhibition and DMT's 5-HT₂A agonism creates a **multi-target pharmacological profile** that is difficult to replicate with isolated compounds. This polypharmacology is considered central to the [[metzner-ayahuasca-therapeutic-potential]] of ayahuasca in contemporary [[hofmann-lsd-clinical-research-early-studies]].
-
-## Synthesis and Biosynthesis
-
-[[psilocin-chemical-synthesis]] of tetrahydroharmine typically proceeds via the **Pictet-Spengler reaction** of tryptamine with acetaldehyde, yielding tetrahydro-β-carboline (norharman), followed by N-methylation using methyl iodide or formaldehyde-formic acid reductive methylation (Eschweiler-Clarke conditions).
+In vitro studies have shown that THH can potentiate the effects of serotonin at certain receptor subtypes through its reuptake inhibition. This may explain why [[metzner-ayahuasca-therapeutic-potential]] of ayahuasca in contemporary [[psilocin-chemical-synthesis]] of tetrahydroharmine typically proceeds via the **Pictet-Spengler reaction** of tryptamine with acetaldehyde, yielding tetrahydro-β-carboline (norharman), followed by N-methylation using methyl iodide or formaldehyde-formic acid reductive methylation (Eschweiler-Clarke conditions).
 
 Total synthesis from tryptophan via decarboxylation to tryptamine followed by Pictet-Spengler cyclization has been reported. Reduction of harmine to THH can be achieved using catalytic hydrogenation (Pd/C, H₂) or chemical reducing agents (sodium borohydride), though selectivity must be carefully controlled to avoid over-reduction.
 
@@ -74,7 +37,7 @@ In the biosynthetic pathway within *Banisteriopsis caapi*, THH is formed by enzy
 
 ## Legal Status
 
-Tetrahydroharmine is not specifically scheduled under the **United Nations Convention on Psychotropic Substances** or under the Controlled [[controlled-substances-act-and-psychedelic-research]] in the [[dmt-containing-plants-united-states-halpern]]. It is generally unregulated as an isolated compound in most jurisdictions.
+Tetrahydroharmine is not specifically scheduled under the **United Nations Convention on Psychotropic Substances** or under the Controlled [[dmt-containing-plants-united-states-halpern]]. It is generally unregulated as an isolated compound in most jurisdictions.
 
 However, THH is a natural constituent of *Banisteriopsis caapi*, which is specifically exempted from scheduling in some countries. In the United States, *B. caapi* was removed from the DEA Schedule I list following a 2004 court ruling that found insufficient evidence of its own psychoactive properties independent of DMT-containing admixture plants.
 
@@ -87,3 +50,84 @@ The pharmacokinetic profile of tetrahydroharmine has been studied primarily in t
 After oral administration in ayahuasca, THH reaches peak plasma concentrations approximately **2–3 hours** post-ingestion. The absorption rate is slower than that of harmine and harmaline, likely due to differences in lipophilicity and intestinal permeability.
 
 THH crosses the blood-brain barrier, though its brain-to-plasma ratio has not been precisely quantified in humans. Animal studies suggest moderate central nervous system penetration, consistent with its demonstrated psychoactive effects at higher doses.
+
+## Overview
+
+Tetrahydroharmine represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish tetrahydroharmine
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving tetrahydroharmine extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Tetrahydroharmine finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for tetrahydroharmine. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+tetrahydroharmine and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Tetrahydroharmine has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of tetrahydroharmine into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[tetrahydroharmine-entity-tihkal]]

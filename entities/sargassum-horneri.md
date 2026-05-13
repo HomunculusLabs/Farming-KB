@@ -15,52 +15,11 @@ sources:
   - NOAA (2023). "Sargassum horneri Invasive Species Alert." NOAA National Marine Sanctuaries.
   - Yoon, Y.H. et al. (2014). "Distribution of Sargassum horneri in Korean Waters." Algae 29(1): 13–20.
   - Komatsu, T. et al. (2014). "Sargassum horneri Invasion in the Northeast Pacific." Coastal Management 42(1): 1–13.
-  - Li, R. et al. (2020). "[[dighton-fungal-nutritional-composition-animal-diets]] of Sargassum horneri." Journal of Applied Phycology 32: 2029–2038.
----
-
-## Overview
-
-**[[sargassum]] horneri** (devil weed, wireweed, horneri sargassum) is a large brown macroalga in the family Sargassaceae, order Fucales.
+  - Li, R. et al. (2020). "[[sargassum]] horneri** (devil weed, wireweed, horneri sargassum) is a large brown macroalga in the family Sargassaceae, order Fucales.
 
 It is native to the northwest Pacific, occurring along the coasts of Japan, Korea, and China, where it forms extensive subtidal beds.
 
-The species has become an aggressive invader along the Pacific coast of [[psilocybin-north-america-pacific-northwest]] and in European waters since the 2000s.
-
-It is commercially harvested as food and industrial alginate source in its native range, while being managed as an invasive nuisance in introduced regions.
-
-## Taxonomy and Morphology
-
-**Sargassum horneri** (Turner) C. Agardh was originally described as *Fucus horneri* by Dawson Turner in 1808.
-
-It was later transferred to *Sargassum* by Carl Adolph Agardh in 1820.
-
-Thalli are large, annual, and reach lengths of 2–8 meters, with a conspicuous main axis bearing lateral branches.
-
-A conical holdfast anchors the plant to rocky substrates, shells, or artificial structures.
-
-The main axis is cylindrical, 3–5 mm in diameter, with alternating branches at regular intervals.
-
-Leaves are lanceolate to oblanceolate, 5–20 cm long and 1–3 cm wide, with a distinct midrib and serrulate margins.
-
-Small vesicles (pneumatocysts) are ovoid to spherical, 3–8 mm in diameter, providing buoyancy to the thallus.
-
-Receptacles are cylindrical, borne in the axils of upper leaves, and contain reproductive structures.
-
-The species is monoecious, with both conceptacles containing antheridia and oogonia developing on the same thallus.
-
-Gamete release occurs in spring, and the zygotes settle directly on substrates without a free-living gametophyte generation.
-
-## Distribution and Habitat
-
-The native range encompasses the northwest Pacific from the Russian Far East through Japan, Korea, and eastern China.
-
-It is one of the dominant canopy-forming macroalgae in temperate reefs along the coasts of Honshu, Hokkaido, and the Korean Peninsula.
-
-The species typically grows in the subtidal zone at depths of 1–15 meters on rocky substrates and artificial structures.
-
-It tolerates a wide range of temperatures (5–25°C) and salinities (20–34 ppt), contributing to its invasive success.
-
-Introduced populations were first detected along the Pacific coast [[berry-growing]] in 2003, in Long Beach Harbor, California.
+The species has become an aggressive invader along the Pacific coast of [[berry-growing]] in 2003, in Long Beach Harbor, California.
 
 By the 2010s, it had spread along the coast from Baja California to British Columbia.
 
@@ -87,3 +46,86 @@ The phenology differs between native and introduced ranges: in California, growt
 This shifted phenology may allow the invader to exploit seasonal niches with reduced competition from native species.
 
 ## Economic and Cultural Significance
+
+## Overview
+
+Sargassum Horneri represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish sargassum horneri
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving sargassum extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Sargassum Horneri finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for sargassum horneri. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+sargassum horneri and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Sargassum Horneri has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of sargassum horneri into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[sargassum]]
+- [[sargassum-fusiforme]]
+- [[sargassum-muticum]]

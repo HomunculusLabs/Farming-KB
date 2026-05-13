@@ -26,64 +26,101 @@ sources:
 
 The species epithet "fragilis" refers to the delicate, brittle stems that break easily when handled. Despite this, the plant is surprisingly resilient in cultivation and has been grown in European rock gardens since the early 19th century.
 
-It is closely related to [[campanula-garganica]] and was formerly treated as a subspecies of that taxon. Molecular phylogenetic studies support its recognition as a distinct species endemic to the Campania and Basilicata regions.
-
-The species was first described by Domenico Cirillo in 1788 from specimens collected on the Sorrento Peninsula. It was later reduced to a subspecies of C. garganica by Fournier in 1936 but restored to species rank based on distinct morphological and genetic characters.
-
-## Taxonomy and Morphology
-
-- **Family:** Campanulaceae
-- **Genus:** Campanula
-- **Species:** C. fragilis
-- **Authority:** Cirillo (1788)
-- **Synonyms:** C. garganica subsp. fragilis (Cirillo) P.Fourn.
-
-The plant forms a loose mat 5–10 cm tall, spreading to 20–30 cm wide. Stems are filiform, trailing, and glandular-pubescent with internodes of 1–3 cm.
-
-Leaves are alternate, ovate to cordate, 8–20 mm long, crenate-dentate, and bright green. Basal leaves are larger and longer-petiolate than the stem leaves.
-
-Flowers are solitary at branch tips, broadly campanulate to nearly rotate, 15–22 mm across. The corolla is pale violet-blue, divided to about one-third into five triangular lobes.
-
-The flower color varies slightly between populations, with some showing white centers or deeper violet veining. This intraspecific variation has been noted in cultivated material but has not been formally classified as distinct varieties.
-
-The style is included or barely exserted. Anthers are lanceolate and connivent around the style. Capsules are pendulous, ovoid-cylindrical, 5–7 mm, opening by three basal pores.
-
-## Distribution and Habitat
-
-Campanula fragilis is endemic to southern peninsular Italy, occurring primarily in Campania and Basilicata. It grows on limestone cliffs, rock crevices, and dry stone walls at elevations of 200–1,400 m.
-
-The species is thermophilous, preferring warm, sheltered sites with full sun to partial shade. It colonizes vertical and overhanging rock faces where competition from other vegetation is minimal.
-
-Annual rainfall in its range is 700–1,100 mm, concentrated in autumn and winter. The species tolerates summer drought by reducing [[aact-foliar-sticker-spreaders-leaf-surface-attachment-ingham]] area and relying on residual moisture in rock fissures.
+It is closely related to [[aact-foliar-sticker-spreaders-leaf-surface-attachment-ingham]] area and relying on residual moisture in rock fissures.
 
 The Mediterranean climate of its native range features hot, dry summers with mean July temperatures of 24–28 °C and mild, wet winters with mean January temperatures of 8–12 °C.
 
-Associated species include *Centaurea tenorei*, *Potentilla caulescens*, and various Mediterranean chasmophytes. It is sympatric with *[[campanula-versicolor]]* in parts of its range but occupies narrower rock crevices.
-
-Unlike C. garganica, which tends to form more upright mounds, C. fragilis has distinctly prostrate, spreading stems that drape over rock faces. This growth habit allows it to colonize vertical surfaces where upright competitors cannot establish.
-
-## Cultivation
-
-Campanula fragilis thrives in well-drained, alkaline to neutral soil in full sun. A planting position in a crevice, retaining wall, or trough replicates its natural cliff habitat.
-
-Hardiness is rated to USDA Zone 7 (−18 °C) with good drainage. Winter wet is more damaging than cold; plants benefit from a protective pane of glass or lean-to in regions with wet winters.
-
-In its native habitat the species occasionally experiences brief snow cover at higher elevations. The cushion growth form and close adherence to rock surfaces provide insulation against frost damage.
-
-Propagation is primarily by seed sown in spring at 15–20 °C. Germination is reliable within 14–21 days. Stem cuttings taken in late summer root readily in gritty compost.
-
-The species is long-flowering in cultivation, producing blooms from May through September. Regular deadheading extends the display. No significant pest or disease problems are reported.
-
-The cultivar 'Festival' has been selected for a more compact habit and deeper flower color. It is commercially available from specialist alpine nurseries and performs well in container displays.
-
-It pairs well with other Mediterranean campanulas in trough and crevice gardens, particularly the related *Campanula garganica* and *[[campanula-poscharskyana]]*.
+Associated species include *Centaurea tenorei*, *Potentilla caulescens*, and various Mediterranean chasmophytes. It is sympatric with *[[campanula-poscharskyana]]*.
 
 ## Ecological Role
 
 As a chasmophytic specialist, Campanula fragilis contributes to the stabilization of limestone cliff-face microhabitats. Its roots penetrate cracks and fissures, binding loose substrate.
 
-The open, shallow corollas provide accessible nectar for a range of small pollinators including hoverflies (Syrphidae) and small [[comparison-honey-bees-vs-native-solitary-bees]] (Halictidae).
-
-[[clay-pellet-seed-dispersal]] occurs through the poricidal capsule mechanism characteristic of Campanula. Wind shaking the capsules releases seeds gradually over several weeks, maximizing dispersal opportunity.
+The open, shallow corollas provide accessible nectar for a range of small pollinators including hoverflies (Syrphidae) and small [[clay-pellet-seed-dispersal]] occurs through the poricidal capsule mechanism characteristic of Campanula. Wind shaking the capsules releases seeds gradually over several weeks, maximizing dispersal opportunity.
 
 Seeds require a period of after-ripening and germinate best at 15–20 °C without cold stratification. Seed viability in the wild is estimated at 2–3 years based on soil seed bank studies of related species.
+
+## Overview
+
+Campanula Fragilis represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish campanula fragilis
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving campanula extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Campanula Fragilis finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for campanula fragilis. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+campanula fragilis and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Campanula Fragilis has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of campanula fragilis into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[campanula-cochlearifolia]]
+- [[campanula-fenestrellata]]
+- [[campanula-sibirica]]
+- [[campanula-tommasiniana]]
+- [[campanula-versicolor]]

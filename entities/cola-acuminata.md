@@ -14,55 +14,7 @@ updated: 2026-04-28
 sources:
   - Burkill, H.M. (1985). "The Useful Plants of West Tropical Africa." Royal Botanic Gardens, Kew.
   - Oliver-Bever, B. (1986). "Medicinal Plants in Tropical West Africa." Cambridge University Press.
-  - Atawodi, S.E. et al. (2005). "Extracts of [[cola-nitida]] and Cola acuminata interfere with the genotoxicity of certain mutagens." Journal of Ethnopharmacology, 98(1-2), 117-124.
-  - URL: https://powo.science.kew.org/
-created: 2026-04-28
----
-
-## Overview
-
-**Cola acuminata** is an evergreen tree species in the family Malvaceae, native to the [[fungal-biodiversity-tropical-forests]] of West and Central Africa. It is one of two principal species (alongside cola nitida) whose seeds, known as kola or cola nuts, are consumed as a stimulant and hold deep [[ethnomycology-cultural-significance-sacred-fungi]] across West African societies.
-
-The seeds are rich in **caffeine** and **theobromine**, and have been traded across the Sahara and Atlantic for centuries. Cola extract was a key original ingredient in Coca-Cola and remains commercially significant today.
-
-## Taxonomy and Morphology
-
-### Taxonomy
-
-- **Kingdom:** Plantae
-- **Division:** Angiosperms
-- **Class:** Eudicots
-- **Order:** Malvales
-- **Family:** Malvaceae
-- **Subfamily:** Sterculioideae
-- **Genus:** Cola
-- **Species:** C. acuminata
-
-The species was described by P. Beauvois in 1806.
-
-The genus Cola comprises approximately 100–125 species, though only a few produce seeds of commercial or cultural importance. The two main commercial species are C. acuminata and C. nitida.
-
-### Morphology
-
-**C. acuminata** is a medium to large evergreen tree, typically 12–20 m tall in the wild but capable of reaching 30 m under favorable conditions. The trunk is straight, up to 1 m in diameter, with grey-brown, slightly fissured bark.
-
-Leaves are simple, alternate, obovate to elliptic, 15–30 cm long and 7–15 cm wide. They are glossy dark green above, paler below, with entire margins and prominent venation. Petioles are 2–5 cm long, often swollen at the base.
-
-Flowers are produced in axillary or terminal panicles. They are unisexual or bisexual, with five cream to pale yellow petals. The calyx is bell-shaped and persistent. Flowers are scented and pollinated by insects, particularly bees.
-
-The fruit is a follicle or capsule, 10–20 cm long, containing 4–10 seeds arranged in two rows. Seeds (cola nuts) are approximately 2.5–4 cm long, reddish to pinkish-white when fresh, becoming brown on drying. The cotyledons are the primary edible and pharmacologically active part.
-
-## Distribution and Habitat
-
-Native to the lowland tropical forests of West and Central Africa, from Sierra Leone eastward through Ghana, Nigeria, Cameroon, and into the Democratic Republic of Congo and Angola. Cultivated extensively beyond its native range throughout West Africa.
-
-The species grows best in humid tropical lowlands with annual rainfall of 1200–2500 mm and mean annual temperatures of 25–28°C. It occurs naturally in the understory and canopy gaps of primary and secondary rainforest, from sea level to approximately 800 m elevation.
-
-Soil preferences include well-drained, acidic to neutral sandy loams and clay loams. Natural regeneration is most successful in forest gaps with partial shade, though mature trees tolerate full sun exposure.
-
-## Chemical Composition
-
-Cola nuts are most notable for their caffeine content, which ranges from 1.0–3.5% dry weight depending on variety, growing conditions, and processing. This concentration is comparable to or slightly lower than that of coffee beans ([[coffea-arabica]]: 1.0–1.5%).
+  - Atawodi, S.E. et al. (2005). "Extracts of [[fungal-biodiversity-tropical-forests]] of West and Central Africa. It is one of two principal species (alongside cola nitida) whose seeds, known as kola or cola nuts, are consumed as a stimulant and hold deep [[coffea-arabica]]: 1.0–1.5%).
 
 **Theobromine** is the second major xanthine alkaloid, present at 0.02–0.1%. Unlike caffeine, theobromine has mild vasodilatory and diuretic properties with less central nervous system stimulation.
 
@@ -78,7 +30,7 @@ The caffeine content underlies the primary pharmacological effects: antagonism o
 
 Cola nut preparations have been traditionally used as a remedy for diarrhea and dysentery. The high tannin content provides an astringent effect that may reduce intestinal fluid secretion. This use has some pharmacological basis but limited clinical validation.
 
-Research into the [[mycelium-running-mushroom-antimicrobial-properties-species-chart]] of cola nut extracts has demonstrated activity against Gram-positive bacteria including [[staphylococcus-aureus]] and [[bacillus-subtilis]], as well as some antifungal activity against Candida species.
+Research into the [[staphylococcus-aureus]] and [[bacillus-subtilis]], as well as some antifungal activity against Candida species.
 
 In-vitro studies suggest antioxidant activity from the flavonoid and phenolic content, with DPPH radical scavenging IC50 values comparable to standard antioxidants. These findings support but do not confirm traditional uses related to general health maintenance.
 
@@ -87,3 +39,88 @@ In-vitro studies suggest antioxidant activity from the flavonoid and phenolic co
 Cola nuts hold profound cultural importance across West Africa. They are central to social ceremonies, hospitality rituals, and traditional religious practices. Offering kola nuts to guests is a universal gesture of welcome and respect in many Nigerian and Ghanaian cultures.
 
 In Yoruba tradition, kola nuts (known as *obì*) are used in divination (Ifá), ancestor veneration, and life-cycle ceremonies including naming, marriage, and funeral rites. The nuts are presented with specific protocols depending on the occasion.
+
+## Overview
+
+Cola Acuminata represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish cola acuminata
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving cola extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Cola Acuminata finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for cola acuminata. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+cola acuminata and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Cola Acuminata has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of cola acuminata into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[acacia-acuminata]]
+- [[cola-nitida]]
+- [[green-cannabis-cola-development-bud-architecture]]
+- [[magnolia-acuminata]]
+- [[musa-acuminata]]

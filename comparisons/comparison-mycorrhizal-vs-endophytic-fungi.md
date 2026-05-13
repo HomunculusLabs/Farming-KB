@@ -14,15 +14,7 @@ type: comparison
 
 Mycorrhizal fungi and endophytic fungi are two major categories of plant-fungal symbioses that differ in
 their location within the plant, their primary functions, and their ecological roles. Mycorrhizal fungi
-form associations primarily with plant roots, creating extensive external [[fungal-mycelial-networks-nutrient-translocation]] in soil that
-exchange nutrients and water for plant-derived carbon. Endophytic fungi live within plant tissues
-including leaves, stems, and roots without causing disease, providing benefits such as stress tolerance,
-pest deterrence, and growth promotion through diverse biochemical mechanisms including secondary
-metabolite production.
-
-## Mycorrhizal Fungi
-
-[[symbiotic-fungi-endophytic-fungi-in-plants]]
+form associations primarily with plant roots, creating extensive external [[symbiotic-fungi-endophytic-fungi-in-plants]]
 
 Endophytic fungi inhabit the internal tissues of plants, including leaves, stems, roots, seeds, and
 fruits, without causing any apparent disease symptoms. They are found in virtually every plant species
@@ -33,38 +25,8 @@ non-clavicipitaceous endophytes (found in all plant tissues across all plant fam
 taxa, mostly horizontally transmitted through air, water, soil, or insect vectors).
 
 The benefits provided by endophytic fungi are remarkably diverse and often exceed what might be expected
-from a simple nutrient exchange relationship. Many endophytes produce bioactive [[antifungal-secondary-metabolites-coprophilous-fungi]]
-that deter herbivores including insect pests and grazing mammals, inhibit pathogenic fungi and bacteria
-through antibiosis and competitive exclusion, and help host plants tolerate abiotic stresses such as
-drought, heat, salinity, and heavy metal contamination. The fungal endophyte Epichloe festucae in tall
-fescue, for example, produces alkaloid compounds that are toxic to livestock but simultaneously protect
-the grass from insect herbivory and environmental stress.
-
-Unlike mycorrhizal fungi, endophytes do not typically form extensive external mycelial networks in the
-soil environment. Their interactions with the plant are primarily internal, occurring within plant
-tissues where they access nutrients from plant cells or the intercellular apoplast. Some endophytes
-transition between endophytic and free-living saprotrophic lifestyles depending on environmental
-conditions and plant health status. This ecological flexibility makes many endophytes facultative rather
-than obligate symbionts, capable of surviving independently outside the host plant under favorable
-environmental conditions.
-
-## Key Differences
-
-| Aspect | Mycorrhizal Fungi | Endophytic Fungi |
-|--------|------------------|------------------|
-| Approach | Root-based nutrient exchange via external networks | Internal colonization of all plant tissues |
-| Primary Location | Roots and rhizosphere (external plus internal) | Internal: leaves, stems, roots, seeds, fruits |
-| External Soil Network | Extensive mycelial network extending into soil | Generally no significant external network |
-| Main Function | Nutrient acquisition (P, N, water) and soil structure | Biocontrol, stress tolerance, growth promotion |
-| Host Range | 80-90% of plant species | Virtually all plant species studied |
-| Symbiosis Type | Mostly obligate (both partners depend on it) | Mostly facultative (can survive independently) |
-| Nutrient Exchange | Bidirectional (carbon for nutrients and water) | Mostly unidirectional (plant provides to fungus) |
-| Specialized Structures | Arbuscules, vesicles, Hartig net, mantle | Intercellular and intracellular hyphae |
-| Cultivation | Very difficult; obligate symbionts | Many species culturable on artificial media |
-| [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]] | Some; primarily nutrient mobilization enzymes | Extensive; alkaloids, antibiotics, phytohormones |
-| Stress Benefits | [[dighton-fungal-drought-tolerance-plant-water-relations]], improved nutrient uptake | Drought, heat, salinity, pathogen, herbivore resistance |
-| Commercial Availability | Widely available as soil inoculants | Emerging; some seed treatments available |
-| Best For | Soil nutrient improvement, [[query-how-to-fix-phosphorus-deficiency-in-cannabis]] | Pest management, stress tolerance, growth enhancement |
+from a simple nutrient exchange relationship. Many endophytes produce bioactive [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]] | Some; primarily nutrient mobilization enzymes | Extensive; alkaloids, antibiotics, phytohormones |
+| Stress Benefits | [[query-how-to-fix-phosphorus-deficiency-in-cannabis]] | Pest management, stress tolerance, growth enhancement |
 | Drawbacks | Reduced effectiveness in high-phosphorus soils | Some produce toxic alkaloids harmful to livestock |
 
 ## Pros and Cons Summary
@@ -110,6 +72,79 @@ single application.
 
 ## See Also
 
-- [[arbuscular-mycorrhizal-fungi]]
- [[symbiotic-fungi-ectomycorrhizal-networks-overview]]
+- [[symbiotic-fungi-ectomycorrhizal-networks-overview]]
  [[beneficial-insects-guide]]
+
+## Overview
+
+Comparison Mycorrhizal Vs Endophytic Fungi represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish comparison mycorrhizal vs endophytic fungi
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving comparison extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Comparison Mycorrhizal Vs Endophytic Fungi finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for comparison mycorrhizal vs endophytic fungi. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+comparison mycorrhizal vs endophytic fungi and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Comparison Mycorrhizal Vs Endophytic Fungi has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of comparison mycorrhizal vs endophytic fungi into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource

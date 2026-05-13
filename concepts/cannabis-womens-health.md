@@ -45,41 +45,13 @@ Cannabis has been used historically for morning sickness. THC's well-established
 The endocannabinoid system is involved in:
 - **Embryo implantation**: Anandamide levels must be precisely balanced for successful implantation
 - **Ovarian function**: CB1 receptors modulate follicle development and ovulation
-- **Childbirth pain**: Cannabis has documented analgesic properties applicable to labor [[cannabis-pain-management-protocols]]
-
-## Libido and Sexual Function
-
-CHI Value: 2 (1 study reviewed)
-
-The neurochemistry of sexual arousal and cannabis share similarities: both dilate pupils, elevate heart rates, alter endocrine releases, affect brain signaling, induce euphoria, relax muscles, and shift respiratory patterns.
-
-### Potential Benefits
-- Properly dosed cannabis may stimulate heightened sensations, increase stamina, deepen orgasm intensity, and produce more profound intimacy
-- Anti-anxiety properties can ease performance-related tension
-- Anandamide (the body's own cannabinoid) enhances pleasure experience (University of Michigan, 2007)
-
-### The Dose Paradox
-Too high a dose can deepen anxieties and reduce sensations. The [[blesching-cannabis-therapeutic-window-dosing]] is narrow and highly individual. Users are advised to begin with low to medium doses gently and over time.
+- **Childbirth pain**: Cannabis has documented analgesic properties applicable to labor [[blesching-cannabis-therapeutic-window-dosing]] is narrow and highly individual. Users are advised to begin with low to medium doses gently and over time.
 
 Hindu Tantric scriptures dating back over 1,000 years describe cannabis use to enhance sexual pleasure and facilitate enlightenment.
 
 ## Menopause
 
-While not specifically studied in the [[blesching-cannabis-health-index-autoimmune-conditions]], cannabis's effects on:
-- Sleep disturbance (insomnia treatment)
-- Mood changes (antidepressant and anxiolytic properties)
-- Bone density (CB2 receptors in bone tissue)
-- Hot flashes (autonomic nervous system modulation)
-- Joint pain (anti-inflammatory properties)
-
-make it potentially relevant for menopausal symptom management.
-
-## Strain and Form Considerations for Women's Health
-
-- **Endometriosis and menstrual pain**: Indica strains (lower THC:CBD ratio) for anti-inflammatory and antispasmodic effects via CB2 activation
-- **Libido enhancement**: Sativa strains (higher THC:CBD ratio) for euphoric and sensation-enhancing effects
-- **Morning sickness**: Very low doses; consider CBD-dominant preparations to minimize psychoactive effects
-- **Menopausal symptoms**: [[blesching-cannabis-strain-selection-receptor-targeting]] should target the predominant symptom (indica for sleep/pain, sativa for mood/energy)
+While not specifically studied in the [[blesching-cannabis-strain-selection-receptor-targeting]] should target the predominant symptom (indica for sleep/pain, sativa for mood/energy)
 
 ## Safety Considerations
 
@@ -88,8 +60,7 @@ make it potentially relevant for menopausal symptom management.
 - Hormonal interactions: Cannabis may affect hormone levels including estrogen and progesterone
 - Fertility: Both excessive and deficient endocannabinoid signaling may affect fertility
 
-See also: doi entity, doi entity, [[cannabis-dosing-guidelines-by-condition]], [[cannabis-for-breast-cancer]]
-- [[cannabis-anxiety-and-ptsd-treatment]]
+See also: doi entity, doi entity, [[cannabis-for-breast-cancer]]
 - [[cannabis-anti-inflammatory-applications]]
 
 ## Practical Applications
@@ -121,8 +92,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[doc]]
 - [[dom]]
-- [[endocannabinoid-system]]
 - [[doi-entity]]
 - [[anandamide]]

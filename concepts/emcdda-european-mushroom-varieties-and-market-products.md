@@ -53,11 +53,7 @@ Two additional species were marketed in sclerotial form rather than as whole mus
 ### Psilocybe tampanensis
 - Originally collected near Tampa, Florida
 - Also produces sclerotia marketed under the same trade names
-- Sclerotia contain the same active compounds ([[hplc-analysis-of-psilocybin-and-psilocin]]) as the fruiting bodies but at different concentrations
-
-## Product Forms
-
-The European market offered [[legal-responses-to-hallucinogenic-mushrooms-in-the-european-union]] several product forms:
+- Sclerotia contain the same active compounds ([[legal-responses-to-hallucinogenic-mushrooms-in-the-european-union]] several product forms:
 
 1. **Fresh mushrooms**: Whole fruiting bodies sold in smartshops, requiring refrigeration
 2. **Dried mushrooms**: Preserved through desiccation, more stable and potent by weight due to water loss
@@ -79,25 +75,7 @@ The EMCDDA documented various brand names and marketing terms used in the Europe
 
 ## Wild European Species (Not Marketed)
 
-Several [[emcdda-hallucinogenic-mushroom-species-classification-and-chemistry]] grow wild in Europe but were not primary market products:
-
-- *Psilocybe semilanceata* (liberty caps): The most common wild European species, found in wet grassy fields and uncultivated pastures throughout the UK, Norway, Germany, and other central/northern European countries
-- *Psilocybe cyanescens* (wavy caps): Found in disturbed habitats, particularly on wood chip mulch in gardens and parks
-- *Psilocybe bohemica* and *Psilocybe moravica*: Reported particularly from the Czech Republic
-
-## Potency Considerations
-
-The EMCDDA noted that potency was "unpredictable" across mushroom products, varying by species, growing conditions, age at harvest, and storage conditions. This unpredictability was cited as one of the factors that limited the diffusion of mushroom use — users could not reliably predict the intensity of effects from a given dose. The psilocybin and psilocin content of *P. cubensis* varies considerably, with typical ranges of 0.5-1.5% dry weight for psilocybin, though individual specimens can deviate significantly.
-
-## Fresh vs. Dried: Market and Legal Implications
-
-The distinction between fresh and dried mushrooms had significant legal implications in the European market. In several EU countries, fresh mushrooms occupied a legal grey area or were entirely legal, while dried mushrooms were explicitly controlled. This distinction was based on the argument that fresh mushrooms were unprocessed natural products, while drying constituted "preparation" for consumption. The Netherlands' 2002 ban on dried mushrooms while initially permitting fresh ones created an unusual market dynamic where smartshops sold fresh mushrooms that users would then dry at home.
-
-The difference in potency between fresh and dried mushrooms is approximately 10:1 by weight — fresh mushrooms are roughly 90% water, so 10 grams of fresh mushrooms is roughly equivalent to 1 gram dried. This mathematical relationship was important for dosage guidance, though the EMCDDA noted that accurate dosing remained challenging due to natural potency variation.
-
-## The "Return to Nature" Trend and Market Drivers
-
-The EMCDDA identified a broader cultural "return to nature" trend as a key driver of the [[hallucinogenic-mushroom-market-in-europe]]'s growth in the late 1990s and early 2000s. Users perceived mushrooms as "natural" products in contrast to synthetic drugs like ecstasy or LSD. This perception was actively cultivated by smartshop marketing, which positioned mushrooms alongside herbal supplements, vitamins, and other "natural" health products. The internet accelerated this trend by providing cultivation information, product reviews, and a sense of community around natural psychoactives.
+Several [[hallucinogenic-mushroom-market-in-europe]]'s growth in the late 1990s and early 2000s. Users perceived mushrooms as "natural" products in contrast to synthetic drugs like ecstasy or LSD. This perception was actively cultivated by smartshop marketing, which positioned mushrooms alongside herbal supplements, vitamins, and other "natural" health products. The internet accelerated this trend by providing cultivation information, product reviews, and a sense of community around natural psychoactives.
 
 However, user accounts suggested that the actual mushroom experience did not always align with the positive marketing narrative. Negative effects including nausea, panic attacks, and lack of sociable (entactogenic) effects contributed to limited repeat use, creating a natural ceiling on market growth despite the favorable cultural positioning.
 ## Practical Cultivation Notes
@@ -109,17 +87,9 @@ Successful cultivation depends on maintaining appropriate environmental conditio
 Proper identification is essential when foraging wild specimens, as many species have toxic lookalikes. Cultivated varieties offer greater consistency and safety compared to wild-harvested material. Always follow established protocols for handling and processing, particularly when working with species that produce bioactive compounds.
 
 ## See Also
-- [[coleman-french-maraicher-parisian-intensive-market-gardening]]
 - [[coleman-louis-savier-french-market-garden-modernization]]
-- [[coleman-stir-fry-pak-winter-market-product]]
 - [[emcdda-european-magic-mushroom-smartshop-market]]
-- [[emcdda-hallucinogenic-mushroom-cultivation-and-growkit-market]]
-
-## See Also
-
-- [[emcdda-hallucinogenic-mushroom-dose-effects]] — [[oss-oeric-dosage-guidelines-and-potency]] effect profiles
-- [[emcdda-hallucinogenic-mushroom-chemistry-psilocybin-5ht2a-pharmacology]] — Pharmacology of psilocybin and psilocin
-- [[emcdda-hallucinogenic-mushroom-cultivation-and-growkit-market]] — Cultivation market analysis
+- [[emcdda-hallucinogenic-mushroom-dose-effects]] — [[emcdda-hallucinogenic-mushroom-chemistry-psilocybin-5ht2a-pharmacology]] — Pharmacology of psilocybin and psilocin
 - [[emcdda-european-magic-mushroom-hunting-wild-foraging-practices]] — [[emcdda-wild-mushroom-foraging-misidentification-hazards]] in Europe
 
 ## References

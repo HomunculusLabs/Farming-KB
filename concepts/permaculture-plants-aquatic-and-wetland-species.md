@@ -10,9 +10,8 @@ tags: [culture, permaculture, plants, species]
 
 # Permaculture Aquatic and Wetland Species
 
-Water plants provide direct food for humans and [[fungi-aquatic-animals-pathogens-parasites]], oxygenate water, filter nutrients, and create habitat. "A Selection of [[permaculture-plants-comfrey-chop-and-drop]]
+Water plants provide direct food for humans and [[permaculture-plants-comfrey-chop-and-drop]]
 
-- [[permaculture-water-systems]]
 - [[permaculture-design]]
 ## Background and Context
 

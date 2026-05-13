@@ -6,13 +6,7 @@ type: concept
 
 # Resource Classification and Management
 
-In [[permaculture]], resources are the useful reserves created when living components and non-living units translate incoming natural energies — sun, wind, rain — into stored, accessible forms. Understanding what resources are, how they behave under use, and how to manage them wisely is fundamental to sustainable design. Mollison's resource classification provides a framework for making ethical, practical decisions about resource use at every scale from household to nation.
-
-## Defining Resources
-
-Resources in a permaculture system are the reserves of energy and materials that the system accumulates and makes available for use. Some of these resources must be used by the system for its own purposes — stocks of fish must be maintained to produce more fish, soil organic matter must be retained to support plant growth. An ideal technology should at the very least fuel itself.
-
-The surplus, over and above these system maintenance needs, is the **yield**. The way to obtain yield is to be conservative in resource use, for energy, like money, is much more easily saved than generated. Resource saving involves recycling waste, insulating against heat loss, and routing resources to their next use point. Before classifying resources by type, it is essential to understand the ethics of resource use that govern [[permaculture-design]].
+In [[permaculture-design]].
 
 ## Two Categories of Ownership
 
@@ -96,11 +90,7 @@ Resources that increase with modest use deserve the highest investment priority.
 
 ### Maintaining Category 2 Resources
 
-Ecosystems that are unaffected by use represent the ideal state for all productive systems. Moving a degraded system toward Category 2 behavior — where harvest does not diminish productive capacity — is the primary goal of ecological restoration. This involves [[building-soil]] organic matter, establishing diverse plant communities, restoring hydrological cycles, and ensuring that nutrient exports are balanced by nutrient inputs.
-
-### Capturing Category 3 Resources
-
-The failure to capture time-sensitive resources represents one of the greatest sources of waste in modern systems. Water running off during storms, seasonal fruit dropping unpicked, [[green-manure-crops]] not incorporated, and organic matter not composted all represent Category 3 resources being lost. Designing capture and storage systems for these fleeting surpluses is essential for closing resource loops and eliminating waste.
+Ecosystems that are unaffected by use represent the ideal state for all productive systems. Moving a degraded system toward Category 2 behavior — where harvest does not diminish productive capacity — is the primary goal of ecological restoration. This involves [[green-manure-crops]] not incorporated, and organic matter not composted all represent Category 3 resources being lost. Designing capture and storage systems for these fleeting surpluses is essential for closing resource loops and eliminating waste.
 
 ### Transitioning Away from Category 4 and 5
 
@@ -117,3 +107,11 @@ When benefits are not returned or recycled, accumulations of unused benefits pre
 The ultimate measure of successful resource management is sustainable yield — the surplus of useful products and services that a system produces after meeting its own maintenance needs. Yield is not a fixed sum limited by circumstances that previously existed, but results from our behavior, knowledge, and the application of our intellect, skill, and comprehension. These can either limit or liberate the concept of yield.
 
 Resource management that emphasizes Categories 1-3 creates conditions for unlimited, expanding yield. Resource management that depends on Categories 4-5 creates conditions for declining yield, increasing costs, and eventual system collapse. The choice between these trajectories is, fundamentally, a choice about resource ethics and design intelligence. A society that bans Category 5 resources and wisely manages Categories 1-4 builds a durable foundation for prosperity that does not depend on the impoverishment of future generations or the destruction of the ecological systems that sustain all life.
+
+## See Also
+
+- [[permaculture-energy-cycling-and-resource-efficiency]]
+- [[permaculture-resource-categories-and-yield-dispersal]]
+- [[savory-holistic-resource-management-animal-impact]]
+- [[savory-holistic-resource-management-biological-monitoring]]
+- [[savory-holistic-resource-management-overgrazing]]

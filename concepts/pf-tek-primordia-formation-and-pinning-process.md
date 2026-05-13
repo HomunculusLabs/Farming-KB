@@ -10,8 +10,7 @@ type: concept
 
 # PF TEK Primordia Formation and Pinning Process
 
-The transition from vegetative [[brassinosteroid-psilocybe-cubensis-mycelial-growth-research]] to reproductive fruiting is the
-most critical phase in the [[pf-tek-cultivation-method]] cycle. Understanding the sequence
+The transition from vegetative [[pf-tek-cultivation-method]] cycle. Understanding the sequence
 of primordia formation, pinning, and fruit body development is essential for
 optimal timing of cake birthing and harvest.
 
@@ -31,19 +30,14 @@ shift to reproductive mode begins.
 
 ## Pinning Triggers
 
-Pinning is triggered by a combination of [[duggar-mushroom-environmental-factors-temperature-moisture-light]] that signal the
-mycelium to shift from [[cannabis-vegetative-growth-stage]] to reproductive development. Full
+Pinning is triggered by a combination of [[cannabis-vegetative-growth-stage]] to reproductive development. Full
 substrate colonization is the prerequisite; the mycelium must have completely
 consumed the available nutrients before it will commit energy to fruiting.
 This is an evolved response that ensures reproduction occurs only when
 sufficient resources have been accumulated.
 
 The primary environmental pinning triggers in the PF TEK system are: high
-humidity (near 100% in the dual [[dual-chambered-terrarium-design]]), fresh air exchange
-(provided during the daily spraying cycle), exposure to light (even ambient
-room light is sufficient), and a slight drop in temperature from incubation
-conditions. The combination of these factors mimics the natural conditions
-under which [[basidiocarp-four-stage-development-classification-psilocybe-cubensis-badham-1982]] fruits in the wild.
+humidity (near 100% in the dual [[basidiocarp-four-stage-development-classification-psilocybe-cubensis-badham-1982]] fruits in the wild.
 
 ## Fresh Air Exchange Requirements
 
@@ -82,8 +76,7 @@ results.
 
 ## Timeline from Inoculation to Pins
 
-The complete timeline from [[mushroom-spore-inoculation-technique]] to visible pin formation typically
-spans 3 to 5 weeks under optimal conditions. [[growing-gourmet-spore-germination-strain-isolation]] begins within
+The complete timeline from [[growing-gourmet-spore-germination-strain-isolation]] begins within
 3-5 days at 70F incubation temperature. Full colonization of the brown rice
 flour substrate takes 14-21 days depending on temperature, [[dikaryon-formation-mushroom-strain-genetics]],
 and inoculation quality. The post-colonization waiting period adds 3-14 days

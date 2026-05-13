@@ -11,7 +11,7 @@ type: query
 # How to Manage Humidity in a Cannabis Grow Room
 
 ## Short Answer
-Proper [[stamets-cultivator-humidity-management-fogging-systems]] is essential for [[query-how-to-manage-ph-for-healthy-cannabis-plants]] growth and
+Proper [[query-how-to-manage-ph-for-healthy-cannabis-plants]] growth and
 preventing mold and disease. Cannabis plants need higher humidity during
 seedling and vegetative stages (60 to 70 percent) and progressively lower
 humidity during flowering (40 to 50 percent) to prevent bud rot and powdery
@@ -19,19 +19,9 @@ mildew. Management involves proper ventilation, dehumidification, air
 circulation, and monitoring with a reliable hygrometer.
 
 ## Detailed Explanation
-[[cervantes-humidity-control-dehumidification]] is one of the most challenging aspects of indoor cannabis
-cultivation, yet it has an outsized impact on plant health, yield, and
-quality. Humidity, measured as relative humidity (RH), represents the
-amount of water vapor in the air relative to the maximum amount the air can
-hold at a given temperature. Warm air holds more moisture than cool air,
-which is why humidity tends to spike when lights turn off and temperatures
-drop. The [[cannabis-mold-and-mildew-prevention]] page details the
+[[cannabis-mold-and-mildew-prevention]] page details the
 specific humidity thresholds at which these pathogens become active and how
-to prevent outbreaks through [[eclss-environmental-control-life-support]].
-
-Ventilation is the first line of defense against humidity problems. An
-effective ventilation system exchanges stale, humid air from the grow room
-with fresh air from outside. The [[ventilation-cannabis]]
+to prevent outbreaks through [[ventilation-cannabis]]
 page covers how to calculate dehumidification requirements based on grow
 room size, plant count, and environmental conditions.
 
@@ -43,8 +33,7 @@ which is where mold and mildew typically start. The goal is to see gentle
 leaf movement across the entire canopy, with special attention to the lower
 and inner portions where airflow is naturally reduced.
 
-The [[query-how-do-i-manage-ph-in-my-cannabis-grow]] Questions
-- [[query-how-to-prevent-and-treat-powdery-mildew-on-cannabis]]
+The [[query-how-to-prevent-and-treat-powdery-mildew-on-cannabis]]
 ## Practical Considerations
 
 When working with How to Manage Humidity in a Cannabis Grow Room, several practical factors should be

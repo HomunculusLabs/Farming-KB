@@ -16,13 +16,7 @@ The three-dimensional structure means that water follows tortuous paths through 
 
 ### Enzymatic Degradation
 
-Beyond physical straining, mycelium secretes a remarkable array of [[fungal-extracellular-enzymes]] that break down complex organic molecules. These enzymes — including lignin peroxidases, manganese peroxidases, laccases, and various cellulases — are capable of decomposing lignin, cellulose, hydrocarbons, and even some synthetic chemicals. White-rot fungi, in particular, produce enzymes that can degrade a wide spectrum of environmental pollutants, including [[singh-fungal-biodegradation-of-polycyclic-aromatic-hydrocarbons]] hydrocarbons (PAHs), polychlorinated biphenyls (PCBs), certain pesticides, and [[mycoremediation-petroleum-hydrocarbons]].
-
-This enzymatic capacity means mycofiltration does not merely trap contaminants but actively transforms them into less harmful compounds, often breaking them down into simpler molecules that can be assimilated by the fungal organism or by other members of the soil food web.
-
-### Antibiotic and Antimicrobial Exudation
-
-One of the most significant discoveries in mycofiltration is the ability of certain fungi to secrete antibacterial and antiviral compounds directly into the water passing through their mycelial networks. Stamets' research demonstrated that mycelia of species such as *[[cancer-medicinal-mushrooms-pleurotus-ostreatus]]* (oyster mushroom) produce antibiotics that kill *Escherichia coli*, *Salmonella*, and other pathogenic bacteria.
+Beyond physical straining, mycelium secretes a remarkable array of [[singh-fungal-biodegradation-of-polycyclic-aromatic-hydrocarbons]] hydrocarbons (PAHs), polychlorinated biphenyls (PCBs), certain pesticides, and [[cancer-medicinal-mushrooms-pleurotus-ostreatus]]* (oyster mushroom) produce antibiotics that kill *Escherichia coli*, *Salmonella*, and other pathogenic bacteria.
 
 The mycelium effectively creates a biological kill zone, reducing bacterial concentrations by several orders of magnitude as water moves through the substrate. This antimicrobial exudation is continuous and self-renewing, unlike chemical disinfectants such as chlorine that must be repeatedly applied and that can create toxic byproducts. The specificity of fungal antimicrobials is also noteworthy: they tend to target pathogenic organisms while sparing beneficial bacteria.
 
@@ -36,35 +30,8 @@ Mycelium can bioaccumulate certain contaminants, particularly heavy metals, bind
 |---------|-------------|-------------------|
 | *Pleurotus ostreatus* | Oyster Mushroom | Pathogen destruction, hydrocarbon degradation |
 | *Stropharia rugosoannulata* | Wine-Cap Stropharia | Silt filtration, erosion control, pathogen reduction |
-| *[[ganoderma-lucidum]]* | Reishi | Heavy metal binding, antimicrobial activity |
 | *[[growing-gourmet-turkey-tail-trametes-versicolor-cultivation]]* | Turkey Tail | PCB degradation, enzyme production |
-| *[[pleurotus-eryngii]]* | King Oyster | Robust enzyme production, pollutant breakdown |
-| *Lentinula edodes* | Shiitake | Antiviral compounds, general filtration |
-| *Fomitopsis officinalis* | Agarikon | Potent antibacterial and antiviral properties |
-
-*Pleurotus ostreatus* is the most versatile and widely used species for mycofiltration, with aggressive mycelial growth, broad substrate tolerance, and potent antimicrobial exudates. *Stropharia rugosoannulata* excels in outdoor applications, particularly for agricultural runoff filtration, and produces edible mushrooms as a secondary yield.
-
-## Construction of Mycofiltration Barriers
-
-### Materials and Methods
-
-Mycofiltration barriers are constructed using simple, accessible materials. The basic design involves inoculating a bulk substrate — typically straw, wood chips, or sawdust — with fungal mycelium and containing this inoculated substrate within a permeable structure. Burlap sacks filled with mycelium-inoculated straw are the most commonly described barrier type in Stamets' work.
-
-These "mycobags" are placed in the path of water flow — across drainage ditches, at the base of slopes, or along the edges of agricultural fields. The burlap allows water to pass through while containing the substrate, and it eventually decomposes, becoming part of the organic matrix. The construction process follows a straightforward sequence:
-
-1. **Substrate preparation**: Straw or wood chips are pasteurized to reduce competing organisms.
-2. **Inoculation**: The cooled substrate is thoroughly mixed with fungal spawn.
-3. **Colonization**: The inoculated substrate is allowed to colonize fully, typically 2-4 weeks.
-4. **Deployment**: Fully colonized substrate is placed in burlap sacks and positioned at the target site.
-5. **Maintenance**: Barriers are monitored and refreshed periodically as the mycelium depletes its food source.
-
-### Sizing and Placement Considerations
-
-Barrier dimensions depend on the volume and flow rate of water being treated. A typical drainage ditch barrier might consist of a row of mycobags spanning the full width of the channel, stacked one or two bags high. Placement is critical: barriers must be positioned where they intercept flowing water without causing unwanted pooling or diversion of flow upstream. The substrate depth should ensure adequate contact time — generally a minimum of 6-12 inches of fully colonized material.
-
-### Mycelial Blankets and Pond Integration
-
-Beyond burlap sack barriers, mycofiltration can be implemented as mycelial blankets — large mats of inoculated substrate spread across the ground surface to filter overland flow. These are particularly useful for construction sites and mining operations where large areas of exposed soil generate contaminated runoff. In pond and wetland settings, mycelium-inoculated substrates can be placed along inflow channels or integrated into [[comparison-constructed-wetland-vs-backyard-pond]] designs, providing biological filtration as part of a multi-stage treatment system.
+| *[[comparison-constructed-wetland-vs-backyard-pond]] designs, providing biological filtration as part of a multi-stage treatment system.
 
 ## Applications
 

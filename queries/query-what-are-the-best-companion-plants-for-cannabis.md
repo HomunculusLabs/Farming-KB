@@ -14,19 +14,7 @@ type: query
 
 ## Short Answer
 
-The best companion plants for cannabis include aromatic herbs like basil, mint, and rosemary that mask cannabis scent and deter pests; flowers like marigolds, nasturtiums, and chamomile that attract [[comparison-beneficial-insects-guide-vs-integrated-pest-management]]; and nitrogen-fixing plants like clover and beans that improve soil fertility. [[comparison-companion-planting-reference-vs-jadam-monoculture-critique]] reduces pest pressure, improves soil health, and can even enhance [[cannabis-terpene-profiles-sativa]] when practiced strategically.
-
-## How Companion Planting Works
-
-Companion planting works through several mechanisms that benefit cannabis plants growing nearby.
-
-The [[companion-planting-reference]] provides a comprehensive database of plant pairings and their specific benefits. When applied to [[query-how-does-no-till-cannabis-cultivation-work]], these principles can significantly reduce the need for pesticide interventions while improving overall garden health and biodiversity.
-
-## Pest-Repelling Companions
-
-Several aromatic herbs are particularly effective at deterring common cannabis pests.
-
-The [[beneficial-insects-cannabis]] strategy relies on maintaining populations of predators that keep pest insects below damaging thresholds. These predators need nectar and pollen from flowers to sustain their adult populations, even when pest prey is scarce.
+The best companion plants for cannabis include aromatic herbs like basil, mint, and rosemary that mask cannabis scent and deter pests; flowers like marigolds, nasturtiums, and chamomile that attract [[comparison-companion-planting-reference-vs-jadam-monoculture-critique]] reduces pest pressure, improves soil health, and can even enhance [[companion-planting-reference]] provides a comprehensive database of plant pairings and their specific benefits. When applied to [[beneficial-insects-cannabis]] strategy relies on maintaining populations of predators that keep pest insects below damaging thresholds. These predators need nectar and pollen from flowers to sustain their adult populations, even when pest prey is scarce.
 
 | Flower | Attracts | Target Pests Controlled |
 |---|---|---|
@@ -38,23 +26,16 @@ The [[beneficial-insects-cannabis]] strategy relies on maintaining populations o
 | Alyssum | Hoverflies, lacewings | Aphids, thrips |
 | Zinnia | Ladybugs, butterflies | Various pest insects |
 
-Maintaining blooms throughout the growing season ensures continuous food for beneficial insects. [[query-what-is-succession-planting-and-how-do-i-plan-a-succession-planting-schedule]] of fast-flowering annuals like alyssum and zinnia provides nectar during periods when [[hamilton-perennial-flowers-organic]] are not actively blooming.
+Maintaining blooms throughout the growing season ensures continuous food for beneficial insects. [[hamilton-perennial-flowers-organic]] are not actively blooming.
 
 ## Soil-Improving Companions
 
 Some companion plants improve the soil conditions that cannabis needs for healthy growth.
 
-The [[comparison-insectary-plants-vs-trap-crops]] analysis shows that both approaches have value in an integrated pest management strategy. Trap crops like nasturtiums (attracts aphids), radishes (attracts flea beetles), and chervil (attracts slugs) can be planted at the perimeter of the cannabis garden to intercept pests before they reach the main crop.
-
-## Key Points
-
-- Aromatic herbs like basil and rosemary mask cannabis scent and deter pests per [[beneficial-insects-cannabis]] that control pests
-- [[query-how-can-companion-plants-protect-cannabis-from-pests]]
+The [[beneficial-insects-cannabis]] that control pests
 - [[query-what-is-integrated-pest-management-for-organic-gardens]]
 
 ## See Also
-
-- [[query-what-are-the-best-indicator-plants-for-soil-health]]
 
 - [[query-what-are-the-best-perennial-vegetables-for-a-food-forest]]
 ## Practical Considerations

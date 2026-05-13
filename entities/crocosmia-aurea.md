@@ -108,13 +108,8 @@ In its native range, the species is part of the Afromontane forest margin commun
 
 ## See Also
 
-- [[crocosmia-lucifer]]
 - [[gladiolus-cardinalis]]
-- [[gladiolus-communis]]
 - [[freesia-refracta]]
-- [[dietes-grandiflora]]
 - [[watsonia-borbonica]]
-- [[babiana-stricta]]
 - [[dierama-pulcherrimum]]
-- [[iris-versicolor]]
 - [[tigridia-pavonia]]

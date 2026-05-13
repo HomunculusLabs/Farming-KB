@@ -10,7 +10,7 @@ sources:
 ---
 # Fukuoka's Desert Revegetation Travels and Projects
 
-In [[natural-farming-fukuoka]] documents his travels to deserts [[fungi-around-the-world-species-distribution]] and his conviction that [[comparison-natural-farming-vs-permaculture]] methods can revegetate even the most barren landscapes. This extends his [[soil-food-web-nutrient-cycling]] argument: the biological "tilling" performed by plant roots and small animals works the soil more deeply than any machine. "When left alone, the soil deepens and enriches naturally." Mechanical tilling "only kills it."
+In [[fungi-around-the-world-species-distribution]] and his conviction that [[soil-food-web-nutrient-cycling]] argument: the biological "tilling" performed by plant roots and small animals works the soil more deeply than any machine. "When left alone, the soil deepens and enriches naturally." Mechanical tilling "only kills it."
 
 ## The Dream of Sowing Seeds from the Sky
 
@@ -20,8 +20,7 @@ His core conviction: "the natural way of farming that I have practiced now for m
 
 ## Aerial Seed Sowing
 
-Fukuoka's ultimate vision for desert revegetation was aerial seed sowing. He wanted to "run tests on methods of scattering drought-hardy clover seeds over arid lands by airplane." In his [[fukuoka-road-africa-greening-desert]] — his specific Africa experiences
-- [[fukuoka-road-back-to-nature-overview]] — the book containing these accounts
+Fukuoka's ultimate vision for desert revegetation was aerial seed sowing. He wanted to "run tests on methods of scattering drought-hardy clover seeds over arid lands by airplane." In his [[fukuoka-road-back-to-nature-overview]] — the book containing these accounts
 
 ## The Spaniards Brought Bad Grasses
 
@@ -35,7 +34,7 @@ At the California state capitol in Sacramento, Fukuoka met a mineralogist who re
 
 ## The Zen Center Experiment
 
-At the Zen Center on the San Francisco coast, founded by Shunryu Suzuki Roshi, Fukuoka found 400 members — "working people, students, and others who come and commute to work while undergoing training here." They meditated morning and evening and "tended a small, half-acre [[fukuoka-dutch-priest-vegetable-garden-spiritual-renewal]] in which they grew the food they ate." The center practiced [[coleman-deep-organic-farming-philosophy]] but concentrated "largely on spices, growing only a very limited selection of vegetables." Fukuoka was struck by how "yellow, bare-topped mountains surround the site on all sides" and showed them how to properly use tools like the hoe and scythe.
+At the Zen Center on the San Francisco coast, founded by Shunryu Suzuki Roshi, Fukuoka found 400 members — "working people, students, and others who come and commute to work while undergoing training here." They meditated morning and evening and "tended a small, half-acre [[coleman-deep-organic-farming-philosophy]] but concentrated "largely on spices, growing only a very limited selection of vegetables." Fukuoka was struck by how "yellow, bare-topped mountains surround the site on all sides" and showed them how to properly use tools like the hoe and scythe.
 
 ## The Global Desert Crisis
 
@@ -43,26 +42,8 @@ Fukuoka connected California's plight to a worldwide pattern. In Korea, China's 
 
 ## Related Concepts
 
-- [[fukuoka-road-africa-greening-desert]] — his specific Africa experiences
 - [[fukuoka-road-back-to-nature-overview]] — the book containing these accounts
-- [[fukuoka-road-critique-of-modern-science]] — why conventional approaches fail
-## Practical Considerations
-
-When working with Fukuoka's Desert Revegetation Travels and Projects, several practical factors should be
-carefully considered to achieve optimal results. These include
-the specific conditions of the implementation context, available
-resources, timing requirements, and the interactions between this
-topic and other elements of the broader system. A holistic view
-that considers these interconnections produces better outcomes.
-
-Environmental conditions such as temperature, moisture, and
-seasonal patterns significantly influence results. Monitoring these
-variables and adapting practices accordingly is essential for success.
-The most effective practitioners develop keen observation skills and
-respond flexibly to changing conditions rather than following rigid
-protocols regardless of circumstances or local variation.
-
-[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
+- [[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -111,8 +92,6 @@ through generations to modern scientific approaches, the evolution continues
 to inform current best practices and research directions.
 
 ## See Also
-- [[desert-revegetation]]
 - [[doc]]
-- [[dom]]
 - [[permaculture]]
 - [[desertification]]

@@ -19,27 +19,7 @@ type: entity
 Suillus granulatus is an ectomycorrhizal basidiomycete fungus closely
 associated with pine (Pinus) species. It is a member of the Suillaceae
 family, commonly known as slippery jacks, and plays an important role in
-forest [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]], particularly in phosphorus and nitrogen
-acquisition for its host trees. It is notably tolerant of acidic soils.
-
-## Taxonomy and Classification
-- **Kingdom:** Fungi
-- **Division:** Basidiomycota
-- **Class:** Agaricomycetes
-- **Order:** Boletales
-- **Family:** Suillaceae
-- **Genus:** Suillus
-- **Species:** S. granulatus
-
-## Key Details
-
-### Morphology
-- Cap is smooth, viscid when wet, yellow-brown to reddish-brown
-- Surface lacks typical veil remnants found in other Suillus species
-- Pores on the underside are angular and yellow, staining brownish
-- Stem is solid with granular dots near the apex
-- Flesh is pale yellow, mild-tasting (edible when thoroughly cooked)
-- [[comparison-spore-print-collection-vs-spore-syringe-production]] is cinnamon-brown
+forest [[comparison-spore-print-collection-vs-spore-syringe-production]] is cinnamon-brown
 
 ### Host Specificity
 - Strongly associated with Pinus species (pines)
@@ -56,34 +36,94 @@ acquisition for its host trees. It is notably tolerant of acidic soils.
 - Accesses nitrogen from organic sources such as bovine serum albumin
   more effectively than many other ectomycorrhizal species
 - Participates in phosphorus transfer networks between saprotrophic
-  and [[arbuscular-mycorrhizal-fungal-diversity-patterns-distribution]] communities (Lindahl et al., 1999)
-
-### Aluminum Tolerance
-- Shows remarkable tolerance to aluminum toxicity, with no growth
-  reduction below 1000 mM aluminum concentration
-- This contrasts with Cenococcum, Pisolithus, and Thelephora, which
-  show growth suppression at 146 mM aluminum
-- Makes Suillus particularly valuable for reforestation on acidic,
-  aluminum-rich soils (Thompson and Medve, 1984)
-
-### Ecological Interactions
-- Works synergistically with Paxillus involutus in decomposing leaf
-  litter in the absence of competing saprotrophs
-- Less effective than saprotrophic fungi (e.g., Lepista nuda) at leaf
-  [[dighton-pine-needle-litter-decomposition-fungal-succession]] (Colpaert and van Tichelen, 1996)
-- Forms [[fungal-mycelial-networks-nutrient-translocation]] that capture phosphorus translocated from
-  saprotrophic fungal mycelium
-
-### Successional Status
-- Generally considered an "early-stage" to "mid-stage" ectomycorrhizal
-  fungus
-- More commonly found in younger forest stands and disturbed sites
-- Suillus species as a group have greater enzyme competency than early
-  successional species like Laccaria and Pisolithus
-
-## Relevance
-Suillus granulatus is ecologically significant for [[fukuoka-pine-forest-ecosystem-collapse-cascade-matsutake]] health and
+  and [[dighton-pine-needle-litter-decomposition-fungal-succession]] (Colpaert and van Tichelen, 1996)
+- Forms [[fukuoka-pine-forest-ecosystem-collapse-cascade-matsutake]] health and
 productivity. Its exceptional aluminum tolerance makes it a candidate for
 forest reclamation on acidic, degraded soils. In sustainable forestry and
 permaculture, understanding Suillus ecology helps inform tree planting
 strategies and soil management practices for conifer-dominated systems.
+
+## Overview
+
+Suillus Granulatus represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish suillus granulatus
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving suillus extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Suillus Granulatus finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for suillus granulatus. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+suillus granulatus and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Suillus Granulatus has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of suillus granulatus into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[suillus-brevipes]]
+- [[suillus-edible-species]]
+- [[suillus-grevillei]]
+- [[suillus-luteus]]
+- [[suillus-pungens]]

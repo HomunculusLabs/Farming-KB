@@ -26,7 +26,7 @@ Vipera berus, the common European adder, is the most widely distributed venomous
 
 The adder is a relatively small and unaggressive species that rarely poses a serious threat to humans. Envenomations are typically mild and fatalities are exceedingly rare, making it one of the least dangerous venomous snakes in its range.
 
-Despite its modest medical significance, Vipera berus is ecologically important as a mesopredator in temperate ecosystems. It has been the subject of extensive research in [[clarke-marijuana-botany-sex-determination-reproductive-biology]], particularly its unique viviparous adaptation to [[query-best-kiwifruit-varieties-for-cold-climates]].
+Despite its modest medical significance, Vipera berus is ecologically important as a mesopredator in temperate ecosystems. It has been the subject of extensive research in [[query-best-kiwifruit-varieties-for-cold-climates]].
 
 ## Taxonomy and Morphology
 
@@ -87,3 +87,6 @@ In the United Kingdom, the National Health Service maintains standardized protoc
 Pediatric patients may experience more severe reactions relative to body size. Pregnant women bitten by Vipera berus have been reported to experience fetal distress and spontaneous abortion, though successful pregnancies following envenomation have also been documented.
 
 ## Ecology and Conservation
+
+## See Also
+- [[european-truffles-species-habitat-and-distribution]]

@@ -17,57 +17,10 @@ type: concept
 # Curandero Healing Practice in Ayahuasca Shamanism
 
 The curandero (healer) in Amazonian vegetalismo diagnoses and treats
-illnesses that [[fukuoka-eastern-western-medicine-healing-world-crisis]] cannot address -- conditions caused
-by sorcery, evil spirits, and spiritual imbalance. The healing
-practice integrates ayahuasca-preparation|[[amaringo-ayahuasca-visions-shipibo-iconography]],
-[[ayahuasca-sorcery-types]], marupa, or huani sorcery
-- **Manchari** (fright): Sudden fright that settles in the body
-- **Kapukiri**: A substance from rotten leaves that enters the body
-- **Saladera**: A condition of impurity or bad luck
-- **Chirimaqui** (cold band): Produced by spirits of dead people
-- **Boa chichuchishca**: "Begotten by a boa" -- a parasitic condition
-- **Cungatuya**: A disease transmitted through contaminated water
-- **Pulsano**: Treated with flint stones
-
-## Diagnostic Methods
-
-The curandero employs several diagnostic techniques:
-
-1. **Ayahuasca vision**: The healer ingests ayahuasca and observes
-   lights surrounding the patient to determine the illness type
-2. **Pulsation**: An intuitive connection between hands and brain
-   producing an immediate mental picture of the ailment
-3. **Animal arkanas**: Scorpions, snakes, and spiders placed on the
-   body detect specific illness types
-4. **Observation of signs**: Yawning once indicates beautiful visions;
-   multiple yawns mean strong visions or enemy attack. Left arm
-   contractions suggest sorcery; right arm contractions mean the
-   person will see what they asked of the ayahuasca spirit
-
-## Extraction of Illness
-
-A core healing technique involves extracting pathogenic agents from
-the patient's body. The vegetalista takes his [[banco-sumiruna-muraya]] retrieves people kidnapped by
-[[shamanic-powers-ayahuasca]] -- Powers used in healing
-- [[mariri-phantom-sorcery]] -- The mariri in extraction healing
-- [[banco-sumiruna-muraya]] -- Hierarchy of healing practitioners
-## Practical Considerations
-
-When working with Curandero Healing Practice in Ayahuasca Shamanism, several practical factors should be
-carefully considered to achieve optimal results. These include
-the specific conditions of the implementation context, available
-resources, timing requirements, and the interactions between this
-topic and other elements of the broader system. A holistic view
-that considers these interconnections produces better outcomes.
-
-Environmental conditions such as temperature, moisture, and
-seasonal patterns significantly influence results. Monitoring these
-variables and adapting practices accordingly is essential for success.
-The most effective practitioners develop keen observation skills and
-respond flexibly to changing conditions rather than following rigid
-protocols regardless of circumstances or local variation.
-
-[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
+illnesses that [[amaringo-ayahuasca-visions-shipibo-iconography]],
+[[banco-sumiruna-muraya]] retrieves people kidnapped by
+[[mariri-phantom-sorcery]] -- The mariri in extraction healing
+- [[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -111,8 +64,87 @@ through generations to modern scientific approaches, the evolution continues
 to inform current best practices and research directions.
 
 ## See Also
-- [[ayahuasca]]
 - [[doc]]
-- [[huani-sorcery]]
 - [[det]]
 - [[shamanism]]
+
+## Overview
+
+Curandero Healing Ayahuasca represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish curandero healing ayahuasca
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving curandero extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Curandero Healing Ayahuasca finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for curandero healing ayahuasca. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+curandero healing ayahuasca and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Curandero Healing Ayahuasca has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of curandero healing ayahuasca into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[blesching-cannabis-emotional-intelligence-healing-framework]]

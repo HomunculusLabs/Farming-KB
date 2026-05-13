@@ -9,7 +9,7 @@ sources: []
 
 # Wicking Bed Construction
 
-[[query-how-do-i-build-a-wicking-bed-for-my-garden]] is a self-watering garden bed that uses [[capillary-action-in-soils]] to draw water upward from a built-in reservoir below the soil. Plants access water from below, reducing surface evaporation and dramatically cutting water use. Wicking beds can reduce water consumption by 50-80% compared to conventional garden beds while providing more consistent soil moisture.
+A wicking bed is a self-watering garden bed that uses capillary action to draw water upward from a built-in reservoir below the soil. Plants access water from below, reducing surface evaporation and dramatically cutting water use. Wicking beds can reduce water consumption by 50-80% compared to conventional garden beds while providing more consistent soil moisture.
 
 ## How Wicking Beds Work
 
@@ -131,20 +131,20 @@ The growing medium sits on top of the wicking medium:
 
 - **Vegetables:** Tomatoes, peppers, eggplant, lettuce, kale, chard, beans, peas, cucumbers, zucchini, carrots, beets, radishes
 - **Herbs:** Basil, parsley, cilantro, thyme, oregano
-- **Avoid:** Potatoes (too much moisture causes rot), [[query-best-mediterranean-herbs-for-beginner-herb-garden]] that prefer dry conditions (rosemary, lavender, sage) — these do better in the upper zones or in separate beds
+- **Avoid:** Potatoes (too much moisture causes rot), Mediterranean herbs that prefer dry conditions (rosemary, lavender, sage) — these do better in the upper zones or in separate beds
 
 ### Planting Pattern
 
 - Space plants as you would in a conventional raised bed
 - Tall plants on the north side (to avoid shading), short plants on the south
-- Consider [[cervantes-companion-planting-pest-deterrent]] [[query-what-is-biofumigation-and-how-does-it-work]] and efficient space use
+- Consider companion planting for pest management and efficient space use
 
 ## Maintenance
 
-- **Check water level weekly:** Lift the fill pipe cap and look inside, or insert a dipstick
-- **Top-dress with compost:** Apply 1-2 inches of compost each season
-- **Replace soil:** Every 2-3 years, replace the top few inches of soil with fresh compost-soil mix
-- **Clean reservoir:** Every 1-2 years, drain and flush the reservoir to remove sediment buildup
-- **Winter:** In freezing climates, drain the reservoir before hard freezes to prevent ice damage
+## See Also
 
-## Water Efficiency
+- [[comparison-wicking-bed-vs-passive-wick-hydroponics]]
+- [[wicking-bed-materials-construction-variants]]
+- [[query-how-do-i-build-a-wicking-bed-for-water-efficient-gardening]]
+- [[comparison-wicking-bed-vs-raised-bed]]
+- [[comparison-raised-beds-vs-wicking-beds]]

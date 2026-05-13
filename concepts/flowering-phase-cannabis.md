@@ -11,31 +11,7 @@ tags: [cannabis]
 # Flowering Phase Cannabis
 
 The flowering phase is the reproductive stage of cannabis growth, triggered by switching
-the [[light-schedule-cannabis]] to 12/12. Plants should
-be at least two months old with well-developed sexual characteristics before triggering
-flowering. Visible signs of flowering -- primarily white pistil (hair) formation at nodes
--- appear within one to three weeks after the photoperiod switch. Older plants tend to
-show signs sooner.
-
-Always wait to induce flowering until after pre-flowers appear. Inducing flowering with
-12 hours of uninterrupted darkness and 12 hours of light before pre-flowers develop
-will stress the plant and could cause odd growth or hermaphroditism.
-
-## The Stretch Phase
-
-The first two to four weeks of flowering are characterized by rapid vertical growth
-called "the stretch." Plants can double or triple in height during this period. This
-stretch is why indoor growers must plan vertical space carefully. Indica-dominant
-strains typically stretch less than sativa-dominant varieties.
-
-## Nutrient Shift
-
-During flowering, the plant's nutrient needs change. Nitrogen takes a backseat to
-potassium, phosphorus, and calcium intake. Using a super bloom fertilizer with less
-nitrogen and more potassium, phosphorus, and calcium promotes fat, heavy, dense buds.
-Cannabis needs some nitrogen during flowering, but very little. With no nitrogen, buds
-do not develop to their full potential. In the final weeks, many growers reduce or
-eliminate nitrogen entirely. [[hps-grow-lights]]
+the [[hps-grow-lights]]
 
 ## Water Needs During Flowering
 
@@ -47,10 +23,8 @@ below the surface.
 
 - **Hermaphroditism:** Light leaks or stress can cause female plants to develop male
   pollen sacs, leading to seeded buds (sinsemilla lost)
-- **Bud mold (botrytis):** High humidity during late flowering causes [[cervantes-gray-mold-botrytis-prevention]] inside
-  dense buds
-- **[[cannabis-nutrient-burn-and-toxicity]]:** Overfeeding during flowering can affect taste and harshen smoke
-- **[[cannabis-grow-nutrient-deficiency-problem-solving]]:** Calcium and magnesium demands increase; see [[flushing-nutrients]] with plain water or a
+- **Bud mold (botrytis):** High humidity during late flowering causes [[cannabis-nutrient-burn-and-toxicity]]:** Overfeeding during flowering can affect taste and harshen smoke
+- **[[flushing-nutrients]] with plain water or a
 clearing solution to remove residual fertilizers from the growing medium and plant
 tissue. This improves the taste and smoothness of the final product.
 
@@ -79,8 +53,7 @@ predict final plant structure.
 
 ## See Also
 
-- [[vegetative-phase-cannabis]] -- the preceding [[cho-plant-growth-stage-treatment-protocols]]
-- [[light-schedule-cannabis]] -- the 12/12 trigger for flowering
+- [[cho-plant-growth-stage-treatment-protocols]]
 - [[hps-grow-lights]] -- preferred lighting for flowering
 
 ## Practical Applications
@@ -112,8 +85,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[dom]]
 - [[green-cannabis-grow-bible-flowering-phase-and-harvest]]
-- [[cervantes-flowering-phase]]
 - [[cannabis-nutrient-phase-management]]
 - [[green-cannabis-grow-bible-vegetative-phase-management]]

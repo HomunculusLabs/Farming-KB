@@ -22,7 +22,7 @@ type: concept
 
 # Brassinosteroid Morphological Effects on psilocybe cubensis Fruiting
 
-The 1990 study by Gartz, Adam, and Vorbrodt demonstrated that the brassinosteroid 22S,23S-homobrassinolide, when applied at 0.01 ppm to cultures of Psilocybe cubensis, produced not only accelerated growth and increased yield but also unexpected [[gartz-brassinosteroid-fruiting-body-morphological-changes-psilocybe-cubensis]] in the resulting fruiting bodies. This was the first published investigation of brassinosteroid [[phytohormone-activity-on-fungi-literature-gap-brassinosteroid]], extending the known biological activity of these steroidal phytohormones beyond the plant kingdom into the fungal domain.
+The 1990 study by Gartz, Adam, and Vorbrodt demonstrated that the brassinosteroid 22S,23S-homobrassinolide, when applied at 0.01 ppm to cultures of Psilocybe cubensis, produced not only accelerated growth and increased yield but also unexpected [[phytohormone-activity-on-fungi-literature-gap-brassinosteroid]], extending the known biological activity of these steroidal phytohormones beyond the plant kingdom into the fungal domain.
 
 ## Brassinosteroids as Plant Growth Regulators
 
@@ -45,11 +45,7 @@ Both substrates contained 5 g of KH2PO4 per liter. A strain of Psilocybe cubensi
 
 On 6% malt agar, mycelial growth in brassinosteroid-treated cultures proceeded two to three times faster than in untreated controls. This represents a substantial rate increase, indicating that the brassinosteroid is taken up by the fungal mycelium and accelerates its metabolic processes. The magnitude of this effect is notable given the extremely low concentration (0.01 ppm, or approximately 19 nanomolar) at which it occurs, suggesting high receptor affinity or potent signaling activity.
 
-The mechanism in plants involves binding to specific brassinosteroid receptors (BRI1) that activate a phosphorylation cascade ultimately leading to changes in gene expression affecting cell wall loosening, cell division, and metabolic rate. Whether fungi possess homologous receptor systems is unknown, but the potency of the response [[cap-and-stem-alkaloid-distribution-in-psilocybe-cubensis-strains]] suggests a specific molecular interaction rather than a nonspecific steroidal effect.
-
-## Fruiting Acceleration and Yield Enhancement
-
-The [[stamets-cultivator-light-spectrum-effects-on-fruiting]] in the dung/grain substrate were dramatic across multiple parameters:
+The mechanism in plants involves binding to specific brassinosteroid receptors (BRI1) that activate a phosphorylation cascade ultimately leading to changes in gene expression affecting cell wall loosening, cell division, and metabolic rate. Whether fungi possess homologous receptor systems is unknown, but the potency of the response [[stamets-cultivator-light-spectrum-effects-on-fruiting]] in the dung/grain substrate were dramatic across multiple parameters:
 
 ### Time to First Harvest
 The first flush of fruit bodies appeared in 3 to 3.5 weeks with brassinosteroid treatment, compared to 4 to 5 weeks in controls. This 25 to 30% reduction in time to first harvest could significantly increase annual production cycles for commercial cultivation operations. The accelerated timeline suggests that brassinosteroid treatment advances the onset of the fruiting developmental program.
@@ -61,33 +57,12 @@ Treated cultures produced 4 to 7 mushrooms in the first flush, versus 1 to 3 in 
 Steroid-treated cultures yielded 3.4 to 3.9 g dry weight per 10 g substrate, compared to 2.3 to 2.9 g in controls. This represents a 30 to 48% increase in total dry mass yield. When combined with the accelerated timeline, the effective productivity increase per unit time is even more substantial.
 
 ### Suppression of Abortive Fruit Bodies
-The formation of abortive or incomplete fruit bodies, which are normally present in [[accessible-mushroom-cultivation-for-disabilities]] and represent wasted metabolic resources, was almost completely suppressed by the brassinosteroid. This is a particularly valuable effect because abortives consume substrate nutrients without producing harvestable product and complicate the harvest process by requiring manual separation.
-
-## Morphological Alteration: Loss of the Annulus
-
-Perhaps the most scientifically intriguing finding was the morphological effect on fruit body development. The brassinosteroid-treated cultures produced fruiting bodies that lacked the typical [[membranous-annulus-loss-brassinosteroid-induced-morphological-change]] (ring) on the stems. In untreated Psilocybe cubensis, the annulus forms when the partial veil connecting the cap margin to the stem ruptures during fruit body expansion, leaving a ring of tissue on the upper stem.
+The formation of abortive or incomplete fruit bodies, which are normally present in [[membranous-annulus-loss-brassinosteroid-induced-morphological-change]] (ring) on the stems. In untreated Psilocybe cubensis, the annulus forms when the partial veil connecting the cap margin to the stem ruptures during fruit body expansion, leaving a ring of tissue on the upper stem.
 
 The absence of the annulus in treated specimens suggests that the brassinosteroid either:
 
 1. **Accelerates development past the veil-rupture stage**: If development is sufficiently accelerated, the partial veil may rupture at an earlier stage when it is less developed or more delicate, resulting in no persistent annular tissue.
-2. **Directly interferes with annulus differentiation**: The brassinosteroid may alter the gene expression program responsible for partial veil tissue development, preventing proper [[brassinosteroid-suppressed-annulus-formation-psilocybe-cubensis]].
-3. **Modifies the mechanical properties of the veil tissue**: The steroidal compound might change the cell wall composition or structure of the partial veil, causing it to tear away completely rather than leaving a remnant ring.
-
-This morphological change has taxonomic implications since the presence, structure, and position of the annulus are used as diagnostic characters in keys for identifying Psilocybe species. A brassinosteroid-responsive morphological character could potentially lead to misidentification in laboratory contexts, though this is unlikely in natural settings given the trace concentrations involved.
-
-## Implications for Fungal Physiology
-
-## Broader Context of Brassinosteroid Research in Fungi
-
-The Gartz study is notable as an early example of brassinosteroid application to fungal systems, a research area that remains relatively underexplored compared to the extensive literature on brassinosteroids in plants. Most brassinosteroid research had focused on their role as plant growth hormones, where they regulate cell elongation, division, differentiation, and stress responses across a wide range of angiosperm species. The demonstration that these compounds also affect fungal morphology and development suggested a broader biological activity that transcended the plant kingdom.
-
-The choice of homobrassinolide rather than brassinolide itself was driven by practical availability, as homobrassinolide was commercially obtainable while brassinolide remained difficult to source in the quantities needed for experimentation. The authors noted that homobrassinolide differs from brassinolide by the presence of an additional methyl group on the side chain, a structural difference that did not appear to diminish its biological activity in their fungal system.
-
-## Implications for Understanding Fruit Body Initiation
-
-The fruit body promotion observed in this study raises fundamental questions about the hormonal regulation of fungal development. While the molecular mechanisms by which brassinosteroids stimulate fruit body initiation in basidiomycetes remain unclear, several hypotheses have been proposed. These include direct interaction with fungal sterol receptors (since brassinosteroids are structurally related to animal steroid hormones), modulation of membrane properties affecting signal transduction, and influence on the expression of genes involved in the transition from vegetative mycelial growth to reproductive development.
-
-The concentration dependence observed (promotion at nanomolar concentrations, absence of effect at micromolar concentrations) is characteristic of hormonal regulation and suggests the existence of specific receptor-mediated [[plant-signaling-pathways]] in fungi. This biphasic dose-response is consistent with patterns observed in plant brassinosteroid biology, where optimal growth promotion occurs within a narrow concentration window and higher concentrations produce diminishing or even inhibitory effects.
+2. **Directly interferes with annulus differentiation**: The brassinosteroid may alter the gene expression program responsible for partial veil tissue development, preventing proper [[plant-signaling-pathways]] in fungi. This biphasic dose-response is consistent with patterns observed in plant brassinosteroid biology, where optimal growth promotion occurs within a narrow concentration window and higher concentrations produce diminishing or even inhibitory effects.
 
 ## Practical Applications
 
@@ -118,8 +93,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[psilocybe-cubensis]]
 - [[brassinosteroid]]
-- [[gartz-brassinosteroid-fruiting-body-morphological-changes-psilocybe-cubensis]]
 - [[dom]]
 - [[det]]

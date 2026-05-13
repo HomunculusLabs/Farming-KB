@@ -19,17 +19,7 @@ sources:
 
 ## Overview
 
-Evernia prunastri, commonly known as oakmoss, is a fruticose lichen in the family Parmeliaceae, widely distributed across [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]] of the Northern Hemisphere.
-
-It is one of the most commercially important lichens, harvested extensively for use in the perfumery industry as a fixative and base note in chypre and fougère fragrance families.
-
-The species forms bushy, pendulous thalli with a distinctive dichotomous branching pattern and a gray-green to gray-white coloration.
-
-E. prunastri has a long history of use in traditional medicine and continues to be studied for its antimicrobial and antioxidant properties.
-
-## Taxonomy and Morphology
-
-**Classification:** [[fungal-taxonomy-and-kingdom-fungi]] > Phylum Ascomycota > Class Lecanoromycetes > Order Lecanorales > Family Parmeliaceae > Genus Evernia.
+Evernia prunastri, commonly known as oakmoss, is a fruticose lichen in the family Parmeliaceae, widely distributed across [[fungal-taxonomy-and-kingdom-fungi]] > Phylum Ascomycota > Class Lecanoromycetes > Order Lecanorales > Family Parmeliaceae > Genus Evernia.
 
 **Authority:** (L.) Ach. (1810). Basionym: Lichen prunastri L. (1753).
 
@@ -51,19 +41,7 @@ Pycnidia are common, producing conidia that facilitate asexual reproduction.
 
 ## Distribution and Habitat
 
-E. prunastri has a wide distribution across Europe, North Africa, temperate Asia, and [[guzman-psilocybin-mushrooms-north-america]].
-
-In Europe, it is particularly abundant in Mediterranean and Atlantic regions with high humidity and moderate temperatures.
-
-The species is almost exclusively corticolous, growing on the bark of deciduous and coniferous trees.
-
-Preferred host trees include oak (Quercus spp.), hazel ([[corylus-avellana]]), pine (Pinus spp.), fir (Abies spp.), and [[comparison-pruning-fruit-trees-vs-grafting-fruit-trees]].
-
-It is most commonly found on the trunks and main branches of mature trees in open woodlands, hedgerows, and orchards.
-
-Elevation ranges from sea level to approximately 1,800 m, though it is most abundant below 1,000 m.
-
-The species favors well-lit, humid microhabitats with good [[cervantes-air-quality-ventilation]] and is less common in densely shaded interiors of closed-canopy forests.
+E. prunastri has a wide distribution across Europe, North Africa, temperate Asia, and [[corylus-avellana]]), pine (Pinus spp.), fir (Abies spp.), and [[cervantes-air-quality-ventilation]] and is less common in densely shaded interiors of closed-canopy forests.
 
 ## Chemistry
 
@@ -88,3 +66,80 @@ E. prunastri has been used in European traditional medicine for centuries, parti
 It was employed in folk medicine as a treatment for respiratory ailments, digestive complaints, and topical skin infections.
 
 The lichen was historically steeped in alcohol or boiled in water to prepare decoctions and tinctures for medicinal use.
+
+## Overview
+
+Evernia Prunastri represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish evernia prunastri
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving evernia extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Evernia Prunastri finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for evernia prunastri. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+evernia prunastri and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Evernia Prunastri has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of evernia prunastri into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.

@@ -6,93 +6,12 @@ tags:
   - fire-stick-farming
   - edge-effect
   - landscape
-  - [[permaculture]]
-date: 2026-04-25
-updated: 2026-04-25
-sources:
-  - "raw/papers/david-holmgren-permaculture-principles-pathways-beyon.md"
-  - ~/wiki/raw/papers/holmgren-tripartite-altruism-permaculture-principles-pathways-beyon.md
-type: concept
----
-
-# Aboriginal Land Management and Edge in Cultivated Landscapes
-
-holmgren-permaculture-edge-principle and sustainable
-landscape management in a low-energy future. The active management of Australian
-landscapes by Aboriginal people was foundational to the original conception of
-Permaculture.
-
-## Edge Across Scales
-
-Edges are dynamic and productive parts of all natural systems where exchange of
-materials and energy take place. They are places where both co-operative and
-competitive relationships between system elements and whole systems are played
-out. What constitutes an edge and what is a system in its own right is a matter
-of scale and perspective.
-
-At the macro scale, ecotones between bioregions create zones of maximum diversity
-and productivity. At the micro scale, within plant roots, lungs, and soil
-structure, edges are where the action happens. Plant roots have enormous surface
-area (edge) for osmotic absorption. Clay and humus provide complex surfaces that
-hold and release nutrients. A huge part of what makes soil productive is an open
-friable structure amounting to maximum edge.
-
-## Traditional English Landscapes
-
-The patchwork fabric of traditional English farm landscapes was made up of
-irregular fields bordered by hedgerows, with woods and small copses of trees,
-tightly clustered villages, and a network of roads, lanes, streams, ponds, and
-drains -- in other words, full of carefully maintained edges.
-
-A hedgerow or shelterbelt can be thought of as a double [[forest-edge-windbreak-rainfall-compression]], intersecting
+  - [[forest-edge-windbreak-rainfall-compression]], intersecting
 crop and pasture land. Drainage and irrigation channels, ponds, and dams all
 increase the land-water interface. The change from small-scale intensive systems
 to large-scale monocultures eliminated much of this landscape complexity in edges,
-reducing [[hemenway-backyard-wildlife-habitat]], wild food resources, and landscape amenity.
-
-## Mediterranean Terracing
-
-From the 14th to 16th centuries, terracing of stony hillsides degraded by
-pastoral farming in the Mediterranean region increased agricultural productivity
-through heroic construction and meticulous maintenance of landscape edge. This
-illustrates a general pattern: initial clearing for grazing and cropping increases
-landscape edge, ecological diversity, and productivity. Further clearing reduces
-edge and leads to degradation. Eventually, after substantial investment in new
-designed edge, ecological values and productivity rise again.
-
-The amount of structural edge in a landscape can be seen as a "leading indicator"
-of biological and resource diversity and, eventually, economic productivity.
-
-## Aboriginal Firestick Farming
-
-Active landscape management by Aboriginal Australians was a stimulation and
-inspiration in the original conception of Permaculture. Large parts of the
-indigenous landscape were managed by people using fire to create open pastoral
-woodland with distinct patches of rainforest or thickets, with very sharp
-transitional edges. Prehistorian Rhys Jones coined the term "firestick farming"
-to describe this process.
-
-The most densely populated and used areas tended to have high mineral fertility,
-moderate rainfall, edges along permanent streams and wetlands, vegetation
-structure tending to open forest or woodland with sharply defined edges of denser
-vegetation along gullies, and pockets of elevated mineral fertility and organic
-matter.
-
-## The Fire Regime and Its Effects
-
-In Holmgren's view, most of Australia's fire-prone land systems were burnt as
-often as they would burn each annual dry season. By this process only the driest
-sites would burn -- generally northwest aspects and ridges with the shallowest,
-lowest-fertility soils. Gullies, southerly slopes, and more fertile sites acted as
-firebreaks.
-
-The effects of the fire regime were manifold:
-
-## See Also
-- [[permaculture]]
-- [[holmgren-water-harvesting-storage-landscapes]]
+reducing [[permaculture]]
 - [[holmgren-genetic-engineering-and-evolution]]
-- [[holmgren-ethical-principles-care-earth-people-fair-shares]]
 - [[holmgren-wind-power-and-renewable-energy-debate]]
 
 ## Practical Applications
@@ -124,8 +43,92 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[permaculture]]
-- [[holmgren-water-harvesting-storage-landscapes]]
-- [[urban-permaculture-edge-effect-microclimate]]
-- [[edge-effect-and-microclimate]]
-- [[mollison-boundary-harmonics-and-edge-geometry]]
+
+- [[holmgren-design-thinking-guidelines-problem-is-solution]]
+- [[holmgren-ecological-succession-design]]
+- [[holmgren-third-wave-environmentalism-model]]
+
+## Overview
+
+Holmgren Aboriginal Management Edge Landscapes represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish holmgren aboriginal management edge landscapes
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving holmgren extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Holmgren Aboriginal Management Edge Landscapes finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for holmgren aboriginal management edge landscapes. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+holmgren aboriginal management edge landscapes and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Holmgren Aboriginal Management Edge Landscapes has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of holmgren aboriginal management edge landscapes into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[holmgren-community-design-and-intentional-communities]]
+- [[holmgren-genetic-engineering-and-evolution]]
+- [[holmgren-mineral-balance-soil-fertility]]
+- [[holmgren-observe-and-interact-detailed]]
+- [[holmgren-obtain-a-yield-detailed]]

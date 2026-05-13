@@ -1,6 +1,6 @@
 ---
 title: n-Hexane Anti-Solvent Crystallization of Indole Intermediates
-tags: [crystallization, anti-solvent, organic-synthesis, [[indole]], [[tryptamine]], psilocin, shirota, laboratory-technique, recrystallization]
+tags: [crystallization, anti-solvent, organic-synthesis, tryptamine, psilocin, shirota, laboratory-technique, recrystallization]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [concise-large-scale-synthesis-of-psilocin-and-psilocybin-shirota-hakamata-goda.md]
@@ -8,26 +8,9 @@ sources: [concise-large-scale-synthesis-of-psilocin-and-psilocybin-shirota-hakam
 # n-Hexane Anti-Solvent Crystallization of Indole Intermediates
 
 Anti-solvent crystallization using n-hexane is a purification technique
-employed in the synthesis of [[psilocin]] and [[psilocybin]] from
+employed in the synthesis of [[psilocybin]] from
 4-hydroxyindole. In the Shirota, Hakamata, and Goda (2003) route, n-hexane
-serves as a non-polar anti-solvent to precipitate the [[shirota-glyoxalylamide-formation-oxalyl-chloride-indole]] adduct
-of 4-acetylindole from diethyl ether solution, yielding crystalline material
-suitable for direct use in subsequent steps without further purification.
-
-## The Anti-Solvent Principle
-
-Anti-solvent crystallization relies on the differential solubility of a target
-compound in two miscible solvents. The compound is dissolved in a primary
-solvent (the good solvent), and a second solvent (the anti-solvent) in which
-the compound has very low solubility is added. As the anti-solvent fraction
-increases, the compound becomes progressively less soluble and eventually
-precipitates as crystals. The quality of the crystals depends on the rate of
-addition, the temperature, and the ratio of solvents.
-
-This technique is particularly valuable in large-scale synthesis because it
-avoids column chromatography, which is labor-intensive, generates large
-volumes of solvent waste, and does not scale efficiently to gram or multi-gram
-quantities. For [[shirota-forensic-standard-compounds-magic-mushroom-identification]] production, where gram quantities of
+serves as a non-polar anti-solvent to precipitate the [[shirota-forensic-standard-compounds-magic-mushroom-identification]] production, where gram quantities of
 material are needed and purity must be high, anti-solvent crystallization
 offers an elegant solution that requires only standard laboratory glassware.
 
@@ -64,11 +47,7 @@ The overnight storage in the freezer serves multiple purposes:
 
 ## Why n-Hexane Works for This System
 
-n-Hexane is an effective anti-solvent for [[indole]] intermediates for several
-reasons:
-
-1. **Complete miscibility with diethyl ether** allows uniform mixing without phase separation, ensuring homogeneous supersaturation throughout the solution
-2. **Extremely low polarity** dramatically reduces the solubility of moderately polar [[indole]] derivatives that are soluble in ether
+n-Hexane is an effective anti-solvent for [[indole]] derivatives that are soluble in ether
 3. **Low freezing point** (approximately minus 95 degrees Celsius) allows freezer storage without solvent solidification at typical freezer temperatures
 4. **Good crystal formation** produces well-ordered crystals that are easy to filter, with minimal occlusion of mother liquor
 5. **High volatility** (boiling point 69 degrees Celsius) means residual n-hexane evaporates readily from the crystal surface during drying
@@ -81,30 +60,9 @@ driving crystallization.
 ## Advantages Over Alternative Purification Methods
 
 The n-hexane anti-solvent approach offers several advantages in the context of
-[[tryptamine]] alkaloid synthesis:
+[[indole]] compounds through adsorption and acid-catalyzed degradation on the silica surface. Many [[shirota-psilocin-spectral-characterization-forensic-reference-standard]] standards. The 100 mmol scale used in the experimental section corresponds to approximately 17.6 g of 4-acetylindole.
 
-**No column chromatography needed.** The technique produces crystalline material directly, eliminating the need for silica gel columns that can decompose sensitive [[indole]] compounds through adsorption and acid-catalyzed degradation on the silica surface. Many [[indole]] derivatives are sensitive to the slightly acidic surface of silica gel, which can catalyze polymerization or decomposition.
-
-**Scalability.** The procedure works identically at milligram and gram scales, requiring only proportional increases in solvent volumes. This is particularly important for the Shirota synthesis, which was designed for gram-scale production of [[shirota-psilocin-spectral-characterization-forensic-reference-standard]] standards. The 100 mmol scale used in the experimental section corresponds to approximately 17.6 g of 4-acetylindole.
-
-**High purity.** The selective crystallization excludes unreacted starting materials and most byproducts, yielding material pure enough for direct use in the next synthetic step. The yellow crystals of compound 5 are used without further treatment in the [[dimethylamine-amidation-tryptamine-side-chain-construction]] step.
-
-**Equipment simplicity.** Only standard glassware (flask, stir bar, ice bath) and a freezer are required, making the technique accessible to laboratories without specialized equipment.
-
-**Minimal material loss.** Filtration recovery is typically greater than 90 percent compared to the 60 to 80 percent recoveries often encountered with column chromatography, where material is lost through irreversible adsorption on the stationary phase.
-
-## Crystal Characteristics
-
-The oxalyl chloride adduct precipitates as yellow crystals from the ether-
-hexane mixture. The yellow coloration is characteristic of the alpha-keto
-functionality of the oxalyl chloride adduct and provides a visual indicator of
-product formation. The crystals are described as sufficiently well-formed for
-filtration on standard laboratory filter paper or a Buchner funnel with vacuum
-assistance.
-
-The color serves as a practical quality indicator during the synthesis:
-
-- A pale or colorless product would suggest incomplete reaction of the oxalyl chloride with the [[indole]] ring
+**High purity.** The selective crystallization excludes unreacted starting materials and most byproducts, yielding material pure enough for direct use in the next synthetic step. The yellow crystals of compound 5 are used without further treatment in the [[indole]] ring
 - An intensely dark or brownish product might indicate decomposition or side reactions
 - The expected bright yellow color confirms correct electrophilic substitution and intact alpha-dicarbonyl chromophore
 
@@ -122,9 +80,8 @@ crystallization-based purification:
 
 - **4-Acetylindole** is crystallized from ethyl acetate after aqueous workup, yielding ivory white crystals in high yield through solvent evaporation
 - **Oxalyl chloride adduct** uses n-hexane anti-solvent precipitation from ether, yielding yellow crystals after overnight freezer storage
-- **[[glyoxalylamide-intermediate-in-tryptamine-synthesis]]** precipitates directly from the reaction mixture as ivory white crystalline powder after sequential washing
 - **[[psilocin]]** crystallizes as white material after lithium aluminum hydride reduction and aqueous workup
-- **[[psilocybin]]** forms white needle crystals after [[catalytic-hydrogenolysis-palladium-carbon-debenzylation]] and solvent evaporation
+- **[[catalytic-hydrogenolysis-palladium-carbon-debenzylation]] and solvent evaporation
 
 Each crystallization step is optimized for the specific solubility and
 polarity characteristics of the intermediate, contributing to the overall

@@ -39,7 +39,7 @@ Archaeological evidence indicates that C. esculentus was cultivated in ancient E
 
 The genus Cyperus is one of the largest genera of monocots, with over 600 species worldwide.
 
-C. esculentus is part of the [[cyperus-rotundus]] species complex and exhibits considerable morphological [[psilocybin-psilocin-variation-across-flushes]] its range.
+C. esculentus is part of the [[psilocybin-psilocin-variation-across-flushes]] its range.
 
 Several infraspecific taxa and cultivated varieties have been described, particularly in West Africa and the Mediterranean.
 
@@ -61,11 +61,7 @@ The flesh is white, firm, and sweet, with a distinctive nutty flavor.
 
 ## Distribution and Habitat
 
-Cyperus esculentus has a nearly [[four-groups-neurotropic-fungi-global-distribution-guzman-1998]] in tropical, subtropical, and warm-temperate regions.
-
-It is believed to be native to Africa, the Mediterranean, and southern Asia, though its exact origin is debated due to ancient cultivation.
-
-The species has been introduced widely and is now naturalized in the Americas, Australia, and [[guzman-allen-gartz-neurotropic-fungi-hawaii-pacific-islands]].
+Cyperus esculentus has a nearly [[guzman-allen-gartz-neurotropic-fungi-hawaii-pacific-islands]].
 
 As a weed, it is particularly problematic in maize, cotton, peanut, and vegetable crops in warm climates.
 
@@ -79,18 +75,75 @@ In Spain, chufa is grown as a specialized crop for horchata production under reg
 
 Tigernut tubers are nutritionally dense, containing approximately 25–35% fat, 20–30% carbohydrate, and 5–8% protein.
 
-The fat profile is notable for its high oleic acid content (approximately 65–75%), similar to [[staycare-fungal-treatment-of-olive-oil-mill-wastewater]].
-
-They are also rich in linoleic acid, making the oil potentially valuable for both culinary and cosmetic applications.
-
-Dietary fiber content is high, with significant amounts of resistant starch.
-
-Mineral content includes potassium, phosphorus, calcium, magnesium, and iron in meaningful quantities.
-
-Vitamin E (tocopherols) and vitamin C are present at moderate levels.
-
-## See Also
-
-- [[cyperus-alternifolius]]
-- [[cyperus-longus]]
+The fat profile is notable for its high oleic acid content (approximately 65–75%), similar to [[cyperus-alternifolius]]
 - [[cyperus-strigosus]]
+
+## Overview
+
+Cyperus Esculentus represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish cyperus esculentus
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving cyperus extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Cyperus Esculentus finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for cyperus esculentus. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+cyperus esculentus and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Cyperus Esculentus has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of cyperus esculentus into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.

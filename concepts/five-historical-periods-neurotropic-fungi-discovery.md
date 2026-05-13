@@ -24,43 +24,11 @@ include:
 
 - **Mesoamerica**: The Aztec, Mazatec, Mixtec, Zapotec, Chinantec,
   Trique, and other indigenous peoples of Mexico used psilocybian
-  mushrooms in [[metzner-shamanic-healing-and-divination-paradigm]] ceremonies. The Nahuatl name
-  "teonanacatl" (divine mushroom), first recorded by Sahagun
-  (1569-1582), is the most famous term, though many other indigenous
-  names existed including "apipiltzin" (kid), "atkad" (mayor/leader),
-  "di nize taaya" (fungus of the genius), and "shi tho" (that
-  eruptions thing).
-
-- **Siberia**: The Chukchee and Koryak peoples used Amanita muscaria
-  (fly agaric) as a sacred intoxicant. Wasson and Wasson (1957)
-  documented the central role of this mushroom in Siberian shamanism.
-
-- **New Guinea**: Several aboriginal groups in Papua New Guinea used
-  species of Psilocybe, Boletus, and Heimiella as sacred mushrooms,
-  as reported by Singer (1958, 1960a), Heim and Wasson (1965), and
-  Heim (1965a, 1978).
-
-- **North America**: Evidence suggests possible pre-Columbian use of
-  neurotropic fungi by indigenous peoples, though documentation is
-  more limited than for Mesoamerica.
-
-## Period 2: Early Erroneous Studies (Early 20th Century)
-
-The second period was characterized by uncertain or erroneous studies
-about the identification of neurotropic fungi. Key milestones include:
-
-- **Schultes (1939)** initially stated that the neurotropic fungi in
-  Mexico belonged only to [[panaeolus-campanulatus]] var. sphinctrinus,
+  mushrooms in [[panaeolus-campanulatus]] var. sphinctrinus,
   a position later followed by Singer (1949).
 - **Singer (1949)** also considered Psilocybe cubensis based on
   some unidentified materials from collections by Schultes in
-  Mexico, contributing to early [[growing-gourmet-pleurotus-sajor-caju-taxonomic-confusion]].
-- The scientific community initially believed that neurotropic fungi
-  only occurred in Mexico, a misconception that persisted until
-  specimens were documented from other continents.
-
-This period was marked by the fundamental challenge of connecting
-[[psilocybin-chemistry-stability-indigenous-knowledge]] with Western taxonomic frameworks, complicated
+  Mexico, contributing to early [[psilocybin-chemistry-stability-indigenous-knowledge]] with Western taxonomic frameworks, complicated
 by the complexity of fungal taxonomy and the difficulty of obtaining
 reliable field collections.
 
@@ -139,10 +107,7 @@ discovery, popularization, and into a mature phase of critical
 reevaluation and continued exploration.
 
 ## See Also
-- [[guzman-allen-gartz-history-of-neurotropic-fungi-discovery]]
 - [[neurotropic-fungi-five-historical-periods]]
-- [[five-historical-periods-neurotropic-fungi-discovery-guzman-1998]]
-
 - [[wasson-rediscovery-of-psilocybin]] psilocybin mushrooms
 - Worldwide distribution of psilocybin mushrooms
 - [[neurotropic-fungi-taxonomic-confusion-and-identification]] misidentification in neurotropic fungi

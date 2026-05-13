@@ -10,12 +10,7 @@ tags: [fungi, nutrients]
 
 # Fungal Roles in Nutrient Cycling
 
-Dighton (2003) presents fungi as central regulators of [[nutrient-cycling-in-soil]]
-ecosystems, functioning not merely as decomposers but as agents of nutrient
-immobilization, translocation, and controlled release. The traditional view
-of decomposition and mineralization by saprotrophs followed by plant uptake
-aided by mycorrhizae has been revised to recognize a much closer association
-of [[arbuscular-mycorrhizal-fungi-biology-symbiosis]] with the decomposition process, with synergistic
+Dighton (2003) presents fungi as central regulators of [[arbuscular-mycorrhizal-fungi-biology-symbiosis]] with the decomposition process, with synergistic
 interactions between saprotrophic and mycorrhizal communities.
 
 ## Nutrient Immobilization in Fungal Biomass
@@ -29,22 +24,14 @@ ephemeral molds utilizing simple carbohydrates have lower biomass investment
 than longer-lived basidiomycetes.
 
 Stark (1972) demonstrated that hyphae had 193-272% greater N content and
-104-223% greater P content than the [[dighton-pine-needle-litter-decomposition-fungal-succession]] they colonized,
-suggesting substantial nutrient immobilization into fungal biomass. Marumoto
-et al. (1982) showed that the rate of carbon loss as CO2 was similar between
-decomposing [[query-what-is-the-difference-between-bacterial-and-fungal-dominant-soil]] cells, but the rate of nitrogen
+104-223% greater P content than the [[query-what-is-the-difference-between-bacterial-and-fungal-dominant-soil]] cells, but the rate of nitrogen
 mineralization (as both NH4 and NO3-N) was slower from decomposing fungal
 cells, indicating longer N retention in fungal tissues.
 
 ## Fungal Biomass as a Nutrient Sink
 
 In a Douglas fir forest ecosystem (Fogel and Hunt, 1983), fungi accounted for
-approximately 2% of total standing stock [[savory-soil-organic-matter-and-decomposition-dynamics]] 6% of total tree
-standing stock. Despite this modest biomass proportion, fungi represent a
-significant nutrient pool because of their high element concentrations
-relative to plant litter.
-
-In wet [[fungal-biodiversity-tropical-forests]], Lodge (1993) showed that fungal biomass (5-5 mg/g
+approximately 2% of total standing stock [[fungal-biodiversity-tropical-forests]], Lodge (1993) showed that fungal biomass (5-5 mg/g
 litter and 2.5-3 mg/g soil; reports of 8-333 g/m2) contains a large
 reservoir of nutrients slowly released on death and decomposition. Fungal
 biomass as a percentage of soil extractable nutrients was: P 10.5%, Ca 23.6%,
@@ -61,17 +48,7 @@ spatial redistribution of elements across considerable distances.
 Cord-forming basidiomycetes translocate P from decomposed to freshly fallen
 leaf litter, increasing leaf litter P content by 120-140% during the first
 6 weeks of decomposition, and N by 110-160% (Lodge, 1993). Wells and Boddy
-(1990) showed that [[phanerochaete-velutina]] translocated 75% of added P from
-a decomposed wood resource to newly colonized wood through mycelial cords, at
-maximum rates of 7225 nmol P/cm2/day. Translocation can occur over distances
-of up to 75 cm between decomposing resources and living plants including wild
-strawberry and moss.
-
-Translocation mechanisms vary by element. Olsson and Jennings (1991)
-demonstrated that 14C and 32P move through Rhizopus, Trichoderma, and
-Stemphylium hyphae by diffusion, responding in real time to directional flow
-toward building hyphal fronts. In contrast, translocation of 137Cs through
-[[schizophyllum-commune]] hyphae was slower than diffusion, suggesting
+(1990) showed that [[schizophyllum-commune]] hyphae was slower than diffusion, suggesting
 incorporation into structural components, which provides a plausible mechanism
 for long-term radiocesium accumulation.
 
@@ -118,8 +95,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[dom]]
 - [[douglas-fir]]
-- [[trichoderma]]
 - [[decomposition]]
 - [[mycorrhizae]]

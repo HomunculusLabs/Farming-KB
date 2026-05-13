@@ -35,9 +35,7 @@ The root system consists of fibrous roots and a short rhizome. Cultivated variet
 
 ## Distribution and Habitat
 
-C. japonica is native to East Asia, occurring naturally in Japan, Korea, and eastern China. It has been naturalized in parts of [[psilocybin-north-america-pacific-northwest]] and Europe as an ornamental and escapee from cultivation.
-
-The species prefers moist, shaded environments in forests, along stream banks, and in mountain valleys. It thrives in rich, well-draining loam soils with high [[fukuoka-textdoc-composting-critique-futility-prepared-organic-matter]] content.
+C. japonica is native to East Asia, occurring naturally in Japan, Korea, and eastern China. It has been naturalized in parts of [[fukuoka-textdoc-composting-critique-futility-prepared-organic-matter]] content.
 
 Optimal growth occurs at temperatures between 15–25°C. The plant is hardy to approximately -10°C and can tolerate mild frost, though heavy freezes kill above-ground foliage.
 
@@ -51,11 +49,7 @@ The leaves and stems are added to soups, noodle dishes, and salads, typically as
 
 Three main cultivated forms exist: green-stemmed (*midori-mitsuba*), white-stemmed (*shiro-mitsuba*), and root-producing (*ne-mitsuba*). White-stemmed varieties are the most commercially important.
 
-[[fukuoka-textdoc-fallacy-infinite-nutritional-analysis]] shows mitsuba is rich in vitamin C, β-carotene, and potassium. The herb also contains significant amounts of calcium, iron, and dietary fiber per 100 g fresh weight.
-
-## Bioactive Compounds
-
-C. japonica produces several classes of [[antifungal-secondary-metabolites-coprophilous-fungi]] with documented biological activity. Polyacetylenes are the most notable, including falcarindiol and (8Z)-heptadeca-1,8-diene-4,6-diyn-3-ol.
+[[antifungal-secondary-metabolites-coprophilous-fungi]] with documented biological activity. Polyacetylenes are the most notable, including falcarindiol and (8Z)-heptadeca-1,8-diene-4,6-diyn-3-ol.
 
 Flavonoid glycosides identified in the species include quercetin, kaempferol, and isorhamnetin derivatives. These compounds contribute to the antioxidant capacity observed in leaf extracts.
 
@@ -71,7 +65,7 @@ Commercial production uses shade structures or greenhouse cultivation to maintai
 
 Harvesting begins approximately 60–80 days from sowing when plants reach 20–30 cm height. The cutting-and-coming-again method allows multiple harvests from a single planting.
 
-Common pests include aphids, leaf miners, and slugs. [[duggar-mushroom-insect-pests-and-fungal-diseases]] such as [[cervantes-powdery-mildew-prevention-treatment]] and downy mildew can affect plants under humid conditions with poor air circulation.
+Common pests include aphids, leaf miners, and slugs. [[cervantes-powdery-mildew-prevention-treatment]] and downy mildew can affect plants under humid conditions with poor air circulation.
 
 ## Traditional and Modern Uses
 
@@ -83,8 +77,6 @@ Modern herbal practitioners sometimes use mitsuba leaf extracts as a mild anti-i
 
 ## Ecology and Companion Planting
 
-In [[dighton-fungi-acidifying-pollutants-forest-ecosystems]], C. japonica occupies the herbaceous understory layer beneath deciduous canopy trees. It contributes to soil stabilization along stream banks and moist slopes.
+In [[comparison-pheromone-based-pest-control-vs-beneficial-insect-biocontrol]] populations.
 
-The small white flowers attract a variety of pollinators, including small bees, hoverflies, and beetles. Umbelliferous flowers are particularly valuable for supporting [[comparison-pheromone-based-pest-control-vs-beneficial-insect-biocontrol]] populations.
-
-As a companion plant [[maintaining-organic-matter-in-vegetable-gardens]], mitsuba provides [[natural-ground-cover-and-straw-mulching]] may help deter certain pests. Its shallow root system does not compete aggressively with deeper-rooted crops.
+As a companion plant [[natural-ground-cover-and-straw-mulching]] may help deter certain pests. Its shallow root system does not compete aggressively with deeper-rooted crops.

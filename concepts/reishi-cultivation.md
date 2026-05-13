@@ -16,7 +16,7 @@ sources:
 
 ## Overview
 
-Reishi ([[ganoderma-lucidum]]), known as Lingzhi in Chinese medicine, is arguably the most revered [[gourmet-medicinal-mushroom-casing-layer-techniques]] in the world, with over 2,000 years of recorded use in traditional Chinese medicine. It is characterized by its distinctive kidney- or fan-shaped, lacquered appearance with a reddish-brown, varnished upper surface. While too woody and bitter for culinary use, Reishi is cultivated primarily for its [[cotter-mushroom-nutrition-medicinal-compounds]], particularly polysaccharides and triterpenoids.
+Reishi (Ganoderma lucidum), known as Lingzhi in Chinese medicine, is arguably the most revered medicinal mushroom in the world, with over 2,000 years of recorded use in traditional Chinese medicine. It is characterized by its distinctive kidney- or fan-shaped, lacquered appearance with a reddish-brown, varnished upper surface. While too woody and bitter for culinary use, Reishi is cultivated primarily for its medicinal compounds, particularly polysaccharides and triterpenoids.
 
 ## Species Description
 
@@ -77,7 +77,7 @@ Reishi grows well on a variety of grains including rye, millet, and brown rice. 
 
 Reishi fruiting demands specific conditions:
 
-- **Temperature:** Reishi fruits at warmer temperatures than most [[fungi-cultivated-mushrooms-pathogens-competitors]] (70-85°F / 21-29°C)
+- **Temperature:** Reishi fruits at warmer temperatures than most cultivated mushrooms (70-85°F / 21-29°C)
 - **Humidity:** Very high (85-95%); lower humidity leads to cracked, malformed conks
 - **Fresh air exchange:** Moderate for standard conks; minimal for antler growth
 - **Light:** Important for color development -- low light produces pale, poorly formed conks
@@ -107,27 +107,27 @@ Reishi must be thoroughly dried before use:
 Because Reishi's active compounds (polysaccharides and triterpenoids) have different solubility profiles, dual extraction is recommended:
 
 1. **Hot water extraction:** Extracts beta-glucans and other water-soluble polysaccharides
-2. **Ethanol extraction:** Extracts triterpenoids ([[ganoderic-acids]]) and other alcohol-soluble compounds
+2. **Ethanol extraction:** Extracts triterpenoids (ganoderic acids) and other alcohol-soluble compounds
 
 Many commercial products combine both extracts for full-spectrum preparations.
 
 ## Medicinal Value
 
-Reishi is the most extensively studied [[medicinal-mushroom-guide-reishi]], with research supporting:
+Reishi is the most extensively studied [[medicinal-mushroom-guide-reishi|medicinal mushroom]], with research supporting:
 
 - **Immune modulation:** Beta-glucans enhance immune function without overstimulation
 - **Anti-inflammatory:** Ganoderic acids reduce inflammation through multiple pathways
 - **Anti-tumor activity:** Laboratory studies show tumor-inhibiting effects; clinical trials ongoing
 - **Liver protection:** Hepatoprotective effects demonstrated in multiple studies
 - **Cardiovascular benefits:** Blood pressure reduction, cholesterol modulation, antiplatelet effects
-- **[[ashwagandha]]:** Helps the body manage stress and maintain homeostasis
+- **Adaptogenic properties:** Helps the body manage stress and maintain homeostasis
 
 ## See Also
 
-- [[reishi-cultivation-guide]]
-- [[reishi-mushroom-medicinal-research]]
-- [[medicinal-mushroom-guide-reishi]]
-- [[mushroom-drying-storage]]
+- [[reishi-cultivation-guide|Reishi detailed cultivation guide]]
+- [[reishi-mushroom-medicinal-research|Reishi medicinal research]]
+- [[medicinal-mushroom-guide-reishi|Reishi medicinal properties]]
+- [[mushroom-drying-storage|mushroom drying and storage]]
 
 ## Related
 

@@ -110,12 +110,8 @@ The deep taproot helps stabilize soil on dry banks and roadside embankments. Thi
 
 ## See Also
 
-- [[anchusa-azurea]]
 - [[myosotis-scorpioides]]
-- [[pulmonaria-officinalis]]
 - [[cynoglossum-officinale]]
-- [[symphytum-uplandicum]]
 - [[echium-wildpretii]]
-- [[borago-officinalis]]
 - [[lithospermum-officinale]]
 - [[cerinthe-major]]

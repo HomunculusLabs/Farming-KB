@@ -9,7 +9,7 @@ source: raw/papers/mckenna_t-tryptamines_consciousness.md
 
 ## Overview
 
-In his 1983 Esalen lecture, Terence McKenna emphasized a crucial
+In his 1983 Esalen lecture, [[terence-mckenna]] emphasized a crucial
 pharmacological distinction between DMT and other classic
 hallucinogens: DMT is an **endogenous compound** present in small
 amounts in the human brain. This endogenous status, combined with
@@ -141,8 +141,6 @@ He contrasts the DMT response with hedonistic drug experiences:
 the fact that DMT sometimes inspires genuine fear — what he calls
 ## See Also
 
-- [[dmt-as-hallucinogen]] — General DMT compound profile
 - [[mckenna-endogenous-tryptamines-quantum-consciousness]]
-- [[mckenna-quantum-mechanical-correlates-hallucinogenesis]]
 - [[mckenna-dmt-onset-phenomenology-ripping-cellophane]]
 - [[mckenna-dmt-onset-phenomenology-and-mode-shift-experience]]

@@ -6,36 +6,7 @@ type: concept
 
 # Desert Basins, Pans, Scalds, and Gully Erosion
 
-The flat depressions, claypans, scalds, and eroded gullies of arid landscapes represent both the most degraded desert environments and some of the most responsive to [[permaculture]] restoration. Understanding the formation, behaviour, and restoration potential of these features is essential for desert reclamation work.
-
-## Depression Types
-
-### Tectonic Basins
-
-The largest-scale flat areas or near-circular depressions are called **tectonic basins**, formed by geological subsidence. It is in these great tectonic depressions that salt lakes and dune seas (draas) form. Their enormous scale means they are generally managed at regional rather than site level.
-
-### Deflation (Wind) Hollows
-
-Next in scale are fairly large **deflection (wind) hollows**, formed where persistent winds have removed surface material down to harder substrates.
-
-### Pans
-
-Depressions with flat floors are called **pans**. Smaller depressions gather run-off and develop typical base materials of suspended silts or salts carried by water and deposited as the water evaporates. Two main types exist:
-
-- **Claypans**: Clay-based evaporation areas where clay settles out after silty waters pool and evaporate.
-- **Salt pans**: Salt-based evaporation areas where dissolved salts concentrate as water evaporates.
-
-### Gilgais
-
-Small depressions called **gilgais** form as a result of the swelling and shrinking of plastic clays. They are circular in outline and function as natural water-capture systems where erosion has left them as hollows. When sand-filled, however, they cease to function as water harvesters.
-
-## Clay Soil Management
-
-Clay soils in desert environments have distinctive properties that can be either harnessed or problematic:
-
-### Sealing Properties
-
-Clays can be treated with [[gypsum]] to **decrease** their capacity to infiltrate water (useful for directing run-off to storage). Alternatively, they can be treated with sodium carbonate or bentonite to **seal** them where they are to be used for water storage.
+The flat depressions, claypans, scalds, and eroded gullies of arid landscapes represent both the most degraded desert environments and some of the most responsive to [[gypsum]] to **decrease** their capacity to infiltrate water (useful for directing run-off to storage). Alternatively, they can be treated with sodium carbonate or [[bentonite]] to **seal** them where they are to be used for water storage.
 
 Natural montmorillonite or smectite clays swell and form impermeable surfaces after a short period of rain. This property greatly impedes infiltration and is the same mechanism that makes deliberately sealed clays useful for leading run-off water to tanks.
 
@@ -128,3 +99,11 @@ The most critical intervention for gully erosion is addressing the headcut—the
 ## The Desert Profile
 
 A typical desert profile integrates all these features: fold mountains shedding water to foothills, wadis draining to alluvial plains, dune fields storing freshwater, and basins collecting the final run-off into pans and evaporative depressions. Understanding how these elements connect hydrologically allows the designer to intervene at the most effective points in the system—stabilising erosion at its source, harvesting water at points of concentration, and restoring degraded areas through the sequential strategies outlined above.
+
+## See Also
+
+- [[desert-dams-rockholes-evaporation]]
+- [[desert-mulches-and-drought-strategies]]
+- [[desert-precipitation-and-opportunistic-response]]
+- [[fukuoka-stopping-desert-advance-natural-revegetation]]
+- [[desert-revegetation-natural-farming]]

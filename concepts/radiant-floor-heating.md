@@ -17,9 +17,9 @@ Unlike forced-air systems that heat air and blow it into a room, radiant heating
 
 - Even temperature distribution (no hot/cold spots)
 - No drafts or fan noise
-- No dust circulation (better [[bloomfield-stachybotrys-indoor-mold-trichothecenes-air-quality]])
+- No dust circulation (better air quality)
 - Comfort at lower air temperatures (you feel warm even if air is cooler)
-- Compatibility with [[passive-solar-design]] [[comparison-windbreak-vs-thermal-mass]] floors
+- Compatibility with [[passive-solar-design|passive solar]] thermal mass floors
 
 ## Types of Radiant Floor Heating
 
@@ -39,12 +39,12 @@ Circulates heated water through PEX tubing embedded in the floor.
 
 1. **Slab-on-grade (Most Common for New Construction)**
    - PEX tubing stapled to wire mesh or rebar before pouring concrete
-   - Tubing spacing: 6-12 inches on center (tighter [[query-how-do-i-grow-figs-in-cold-climates]])
+   - Tubing spacing: 6-12 inches on center (tighter in cold climates)
    - 2-4 inches of concrete above the tubing provides thermal mass
    - Insulation (2 inches rigid foam) beneath the slab prevents downward heat loss
 
 2. **Thin-Slab Over Subfloor**
-   - PEX attached to subfloor with aluminum [[heat-transfer-coefficient]] plates
+   - PEX attached to subfloor with aluminum heat transfer plates
    - 1-1.5 inches of lightweight concrete or gypcrete poured over
    - Lower thermal mass but faster response time
    - Good for retrofits
@@ -61,7 +61,7 @@ Circulates heated water through PEX tubing embedded in the floor.
 - **Electric boiler**: Simple, no venting needed, higher operating cost
 - **Tankless water heater**: Dual-purpose (domestic hot water + heating)
 - **Wood gasification boiler**: Off-grid capable, uses firewood
-- [[masonry-heater-design]] with water coil: Heats water as a byproduct
+- [[masonry-heater-design|Masonry heater]] with water coil: Heats water as a byproduct
 - **Solar thermal**: Pre-heats water, reduces boiler load
 
 ### Electric Radiant — Best for Small Areas
@@ -121,7 +121,7 @@ For off-grid homesteads, radiant heating works well with:
 
 - **Solar thermal panels**: Pre-heat water for the radiant system
 - **Wood boiler**: Heat water with firewood, store in a large buffer tank
-- **[[masonry-heater-design]]**: Some designs include a water jacket for radiant heating
+- **[[masonry-heater-design|Masonry heater]]**: Some designs include a water jacket for radiant heating
 - **Battery system**: Electric radiant requires significant battery capacity (calculate carefully)
 
 ## Installation Cost Estimates

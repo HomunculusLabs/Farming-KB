@@ -23,10 +23,7 @@ sources:
 commonly known as bitter turmeric. The specific epithet *amarissima* means "most
 bitter," reflecting the intensely bitter taste of its rhizome.
 
-The species is native to mainland [[psilocybe-southeast-asia-pacific]], occurring in Vietnam, Laos,
-Cambodia, and eastern Thailand. It occupies an important position in Vietnamese
-traditional medicine, where its bitter rhizome is prescribed for digestive and
-[[cannabis-respiratory-conditions]].
+The species is native to mainland [[cannabis-respiratory-conditions]].
 
 C. amarissima is distinguished from other Curcuma species by its strongly bitter
 rhizome, which lacks the characteristic turmeric color of C. longa. Despite its
@@ -39,45 +36,7 @@ commercially important Curcuma species.
 century. It is placed in the genus *Curcuma*, tribe Hedychieae, subfamily
 Zingiberoideae.
 
-The plant is a perennial [[medicinal-herb-growing]] 30–60 cm tall. Leaves are lanceolate to
-elliptic, 20–40 cm long and 6–12 cm wide, with a prominent midrib. The leaf
-lamina is green above and slightly paler beneath, with a smooth or sparsely
-hairy surface.
-
-The inflorescence is a terminal spike bearing green bracts with purple or
-violet tips. The flowers are white with a yellow labellum marked with a purple
-central band. Flowering occurs during the rainy season from June to September.
-
-Rhizomes are tuberous and fusiform, 2–5 cm in diameter, with a pale yellow to
-cream-white interior. Unlike C. longa, the rhizome flesh is not deeply colored
-with curcuminoids. The rhizome produces a strongly bitter taste when chewed,
-the defining characteristic of the species.
-
-## Distribution and Habitat
-
-C. amarissima is distributed across mainland Southeast Asia, from northern
-Vietnam through Laos and Cambodia to eastern Thailand. It is most commonly
-encountered in Vietnam's northern mountainous provinces.
-
-The species grows in open deciduous forests, forest edges, and disturbed sites
-at elevations between 200 and 1,200 meters. It prefers well-drained loamy soils
-with moderate organic content and partial to full sun exposure.
-
-In Vietnam, wild populations are found in the provinces of Lào Cai, Hòa Bình,
-Thanh Hóa, and Thừa Thiên-Huế. The species is also cultivated in home gardens
-and small-scale medicinal plant farms, particularly in the northwestern highlands.
-
-## Ethnobotanical Uses
-
-In Vietnamese traditional medicine, C. amarissima rhizome is classified as a
-bitter-cold herb (*khổ hàn*). It is prescribed to clear heat, reduce
-inflammation, and promote digestion. The dried rhizome is decocted as a tea or
-powdered for oral administration.
-
-The species is a documented ingredient in several Vietnamese herbal formulas for
-treating hepatitis, jaundice, and liver disorders. Practitioners combine the
-rhizome with other hepatoprotective herbs such as Phyllanthus amarus and
-[[andrographis-paniculata]].
+The plant is a perennial [[andrographis-paniculata]].
 
 In Lao traditional medicine, C. amarissima is used as a febrifuge and digestive
 tonic. The bitter rhizome is chewed to relieve nausea and stomach discomfort.
@@ -88,3 +47,88 @@ and minor wounds. A poultice of pounded fresh rhizome is applied to affected
 areas for its anti-inflammatory properties.
 
 ## Bioactive Compounds
+
+## Overview
+
+Curcuma Amarissima represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish curcuma amarissima
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving curcuma extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Curcuma Amarissima finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for curcuma amarissima. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+curcuma amarissima and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Curcuma Amarissima has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of curcuma amarissima into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[curcuma-angustifolia]]
+- [[curcuma-caesia]]
+- [[curcuma-kwangsiensis]]
+- [[curcuma-phaeocaulis]]
+- [[curcuma-wenyujin]]

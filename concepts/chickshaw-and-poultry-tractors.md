@@ -9,14 +9,14 @@ sources: []
 
 # Chickshaw and Poultry Tractors
 
-A poultry tractor (or [[chicken-tractor-systems]]) is a mobile coop without a floor that is moved regularly to fresh pasture, allowing chickens to forage on grass, weeds, seeds, and insects while fertilizing the ground. A chickshaw is a specific type of poultry tractor designed as a lightweight, cart-style coop on wheels that can be easily towed or pushed by hand.
+A poultry tractor (or [[chicken-tractor-entity]]) is a mobile coop without a floor that is moved regularly to fresh pasture, allowing chickens to forage on grass, weeds, seeds, and insects while fertilizing the ground. A chickshaw is a specific type of poultry tractor designed as a lightweight, cart-style coop on wheels that can be easily towed or pushed by hand.
 
 ## Benefits of Mobile Poultry Housing
 
 -  **Fresh forage daily** — Chickens access fresh grass, clover, insects, and seeds, reducing feed costs by 10-30%
 -  **Fertilization** — Manure is distributed evenly across the pasture rather than concentrating in one area
 -  **Pasture improvement** — Chickens scratch and disturb the soil surface, incorporating manure and reducing thatch. Followed by a rest period, the area recovers with improved fertility
--  **[[hamilton-beneficial-insects-and-biological-pest-control]]** — Chickens consume ticks, grasshoppers, beetle larvae, and other pests in the pasture
+-  **Pest control** — Chickens consume ticks, grasshoppers, beetle larvae, and other pests in the pasture
 -  **Reduced disease** — Fresh ground reduces parasite load and disease transmission compared to fixed runs
 -  **No litter management** — No deep bedding to muck out; manure goes directly onto pasture
 
@@ -67,7 +67,7 @@ A arched frame covered with wire mesh and a tarp or [[coleman-wiggle-wire-channe
 A coop on wooden or metal runners (skids) without wheels. Dragged to new positions.
 
 -  **Pros**: Simplest design, no wheel maintenance, very stable, can be heavy-duty
--  **Cons**: Hard to move on rough or wet ground, can damage pasture sod when dragged
+-  **Cons**: Hard to move on rough or wet ground, can damage [[pasture-sod-seeding]] when dragged
 -  **Best for**: Flat, smooth pasture; small flocks; winter stationary use
 
 ## Pasture Rotation

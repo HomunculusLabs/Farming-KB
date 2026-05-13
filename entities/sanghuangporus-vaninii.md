@@ -61,30 +61,90 @@ These compounds exhibit anti-inflammatory activity through inhibition of NF-κB 
 
 Polyphenolic compounds, including hispidin and its oligomers, contribute to the antioxidant capacity of sanghuang extracts. Hispidin analogs also demonstrate antitumor activity via induction of apoptosis in cancer cell lines.
 
-Sesquiterpenoids, sterols, and [[stable-carbon-isotope-signature-fatty-acids-mycorrhizal-carbon-tracking]] have also been isolated. The total phenolic content of *S. vaninii* extracts ranges from 15–45 mg GAE/g dry weight depending on extraction method.
+Sesquiterpenoids, sterols, and [[fukuoka-matsutake-artificial-cultivation-attempt]] has been attempted on various hardwood substrates including oak and mulberry sawdust, supplemented with wheat bran and calcium carbonate.
 
-## Pharmacology
-
-Immunomodulatory effects are the most well-documented pharmacological activity. Polysaccharide extracts activate macrophages via TLR4/NF-κB signaling, promote dendritic cell maturation, and enhance both innate and adaptive immune responses in murine models.
-
-Antitumor activity has been demonstrated against multiple cancer cell lines including HepG2 (hepatocellular carcinoma), MCF-7 (breast cancer), and A549 (lung adenocarcinoma).
-
-IC₅₀ values for crude polysaccharide extracts range from 200–800 µg/mL depending on the cell line and extraction parameters. In vivo studies show tumor growth inhibition rates of 30–50% in murine xenograft models.
-
-The polysaccharides also exhibit direct antioxidant activity, scavenging DPPH, ABTS, and hydroxyl radicals. In vivo studies in mice demonstrate protection against carbon tetrachloride-induced liver injury, supporting the traditional use of sanghuang as a hepatoprotective agent.
-
-Anti-inflammatory effects include suppression of pro-inflammatory cytokines (TNF-α, IL-1β, IL-6) in LPS-stimulated macrophages. The triterpenoid fraction is primarily responsible for this activity.
-
-Antidiabetic effects have been reported, with polysaccharide extracts inhibiting α-glucosidase and reducing blood glucose levels in streptozotocin-induced diabetic rats at doses of 200–400 mg/kg.
-
-## Cultivation
-
-Wild *S. vaninii* remains the primary commercial source due to the slow growth and challenging cultivation of this species.
-
-[[fukuoka-matsutake-artificial-cultivation-attempt]] has been attempted on various hardwood substrates including oak and mulberry sawdust, supplemented with wheat bran and calcium carbonate.
-
-Optimal [[brassinosteroid-psilocybe-cubensis-mycelial-growth-research]] occurs at 25–30°C on malt extract agar. Fruiting requires extended incubation periods of 60–120 days after substrate inoculation. [[stamets-biological-efficiency-yield]] on [[oyster-mushroom-supplemented-sawdust-blocks]] substrates is low, typically 5–15% of dry substrate weight.
-
-[[comparison-liquid-culture-vs-grain-spawn]] fermentation offers a more practical approach for producing mycelial biomass and extracellular polysaccharides. Optimal fermentation conditions include 28°C, pH 5.5–6.0, with agitation at 150 rpm. Polysaccharide yields in submerged culture reach 2–4 g/L.
+Optimal [[stamets-biological-efficiency-yield]] on [[comparison-liquid-culture-vs-grain-spawn]] fermentation offers a more practical approach for producing mycelial biomass and extracellular polysaccharides. Optimal fermentation conditions include 28°C, pH 5.5–6.0, with agitation at 150 rpm. Polysaccharide yields in submerged culture reach 2–4 g/L.
 
 Conservation concerns have prompted research into sustainable harvesting practices and improved cultivation techniques for all sanghuang species.
+
+## Overview
+
+Sanghuangporus Vaninii represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish sanghuangporus vaninii
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving sanghuangporus extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Sanghuangporus Vaninii finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for sanghuangporus vaninii. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+sanghuangporus vaninii and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Sanghuangporus Vaninii has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of sanghuangporus vaninii into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[sanghuangporus-ctenophorus]]
+- [[sanghuangporus-linteus]]

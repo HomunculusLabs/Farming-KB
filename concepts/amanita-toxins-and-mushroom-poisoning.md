@@ -3,18 +3,7 @@
 Among the many thousands of mushroom species on Earth, a small number
 produce toxins of extraordinary potency. The most dangerous of these are
 the amatoxins, a family of cyclic peptide compounds produced primarily
-by species in the genus *Amanita*, including [[query-how-to-identify-and-avoid-the-death-cap-amanita-phalloides]] (*Amanita
-phalloides*) and the [[bloomfield-destroying-angel-amanita-virosa-amatoxin-poisoning-clinical-course]] (*[[amanita-virosa]]*). These toxins
-are responsible for the overwhelming majority of fatal mushroom
-poisonings worldwide and represent one of the most insidious categories
-of natural poisons due to their delayed action and the devastating
-irreversibility of their effects.
-
-## The Death Cap and Destroying Angel
-
-*[[amanita-phalloides]]*, the death cap, is widely regarded as the most
-[[growing-gourmet-poisonous-mushroom-lookalikes]] known. Native to Europe but now established on
-every inhabited continent through the accidental introduction of its
+by species in the genus *Amanita*, including [[bloomfield-destroying-angel-amanita-virosa-amatoxin-poisoning-clinical-course]] (*[[amanita-phalloides]]*, the death cap, is widely regarded as the most
 [[plants-without-mycorrhizal-associations]] with planted trees, the death cap is
 responsible for the majority of fatal mushroom poisonings globally.
 Its close relative *Amanita virosa*, the destroying angel, is equally
@@ -32,17 +21,7 @@ joined head-to-tail. The most lethal member of the group is
 alpha-amanitin, which acts by selectively inhibiting RNA polymerase II,
 the enzyme responsible for transcribing messenger RNA from DNA in the
 nuclei of eukaryotic cells. By blocking mRNA synthesis, alpha-amanitin
-effectively shuts down [[fungal-single-cell-protein-production]] in the affected cells. Since
-proteins have widely varying half-lives and are constantly being
-turned over, the cessation of protein synthesis leads to progressive
-cellular dysfunction and, ultimately, cell death. The liver is the
-primary target because it receives blood directly from the
-gastrointestinal tract and processes the absorbed toxin, resulting in
-the highest tissue concentrations.
-
-## The Insidious Delayed-Onset Syndrome
-
-What makes [[bloomfield-amatoxin-poisoning-mechanism]] particularly treacherous is its delayed
+effectively shuts down [[bloomfield-amatoxin-poisoning-mechanism]] particularly treacherous is its delayed
 onset. After ingestion, victims typically experience a latent period of
 6 to 12 hours — sometimes up to 24 hours — during which they feel
 entirely well. This "honeymoon period" creates a dangerous false sense
@@ -117,8 +96,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[amanita]]
 - [[amanita-virosa]]
-- [[dom]]
 - [[galerina-autumnalis]]
 - [[mycorrhiza]]

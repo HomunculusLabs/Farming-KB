@@ -33,10 +33,7 @@ related_concepts:
 # Entheogenic Plants and Psychoactive Flora
 
 Long before the development of synthetic pharmaceuticals, human cultures
-[[fungi-around-the-world-species-distribution]] discovered and cultivated plants capable of profoundly
-altering consciousness. These plants, now commonly called entheogens
-(from the Greek entheos, meaning "god within"), have served as
-gateways to the spirit world, tools of [[metzner-shamanic-healing-and-divination-paradigm]], and
+[[metzner-shamanic-healing-and-divination-paradigm]], and
 cornerstones of religious practice for thousands of years. The
 relationship between humans and psychoactive plants is one of the
 oldest and most consequential chapters in our species' history, shaping
@@ -45,35 +42,7 @@ continent.
 
 The study of these plants requires crossing disciplinary boundaries,
 drawing on botany, chemistry, anthropology, archaeology, and
-pharmacology. Richard [[richard-evans-schultes-updated]], the father of modern
-ethnobotany, and Albert Hofmann, the Swiss chemist who first
-synthesized LSD, documented the world's major psychoactive plants in
-their landmark work Plants of the Gods, providing a scientific
-foundation for understanding substances that had previously been known
-only through indigenous knowledge and colonial-era accounts. Their
-work, expanded by Christian Ratsch, remains the most comprehensive
-survey of humanity's relationship with consciousness-altering flora.
-
-## The Chemistry of Plant Hallucinogens
-
-Almost all plant hallucinogens contain nitrogen and therefore belong
-to the large class of chemical compounds known as alkaloids. The
-principal plant hallucinogens are closely related in their molecular
-structure to hormones and neurotransmitters present in the brain, which
-explains their ability to profoundly alter consciousness. The active
-principle in peyote, for example, is mescaline, a compound closely
-related to norepinephrine, the brain's fight-or-flight
-neurotransmitter. Both are derivatives of phenylethylamine. Psilocybin
-and DMT are derivatives of tryptamine, closely related to serotonin,
-another critical neurotransmitter. This structural similarity to brain
-chemistry is not coincidental; it is precisely what allows these
-compounds to interface with neural receptor systems and produce their
-characteristic effects.
-
-Among the important psychoactive plants, only cannabis and Salvia
-divinorum are significant exceptions to the alkaloid rule. The primary
-active compound in cannabis is tetrahydrocannabinol (THC), a terpenophenolic
-compound, while [[golden-guide-salvia-divinorum-and-diviner-sage]]'s active principle, salvinorin A,
+pharmacology. Richard [[golden-guide-salvia-divinorum-and-diviner-sage]]'s active principle, salvinorin A,
 is a neoclerodane diterpene. The ergot alkaloids, from which LSD was
 derived, represent another important class: they are indole alkaloids
 derived from lysergic acid, and their discovery in a parasitic fungus
@@ -86,25 +55,7 @@ The distribution of hallucinogenic plants across the globe is strikingly
 uneven. The New World, particularly the Americas, dominates in both the
 number of psychoactive species and the depth of cultural integration.
 Mexico alone is home to over two dozen species of psychoactive mushrooms,
-several psychoactive cacti, [[golden-guide-morning-glory-and-ololiuqui]] seeds containing LSD-like
-compounds, and the Datura complex. South America contributed ayahuasca,
-Virola snuffs, and coca. This New World richness has led some
-researchers to speculate that the indigenous peoples of the Americas
-developed particularly sophisticated relationships with psychoactive
-plants.
-
-Africa, despite its vast size and botanical diversity, appears relatively
-poor in hallucinogenic plants. The most significant is Tabernanthe
-iboga, whose root bark contains ibogaine and serves as the central
-sacrament of the Bwiti religion in Gabon and Congo. The Bushmen of
-Botswana historically used Sceletium (kanna) for its mood-altering
-properties, and various Datura relatives were employed across the
-continent. This relative scarcity may reflect genuine botanical
-paucity, or it may reflect the limitations of ethnobotanical research
-in Africa.
-
-Eurasia contributed several of the most culturally significant
-psychoactive plants, including [[allegro-amanita-muscaria-properties-and-pharmacology]] (the fly agaric), the
+several psychoactive cacti, [[allegro-amanita-muscaria-properties-and-pharmacology]] (the fly agaric), the
 nightshade family hexing herbs (belladonna, henbane, mandrake), and
 cannabis, which Schultes identified as the most widespread of all
 narcotic plants. Southeast Asia and Oceania contributed betel nut,
@@ -118,17 +69,11 @@ effects.
 ### Ayahuasca and the Banisteriopsis Complex
 ## See Also
 
-- [[plants-of-the-gods-overview-hallucinogenic-plant-use]]
 - [[plants-of-the-gods-chemical-structures-hallucinogens]]
-- [[plants-of-the-gods-phytochemistry-sacred-plants]]
 - [[plants-of-the-gods-geography-hallucinogenic-plants]]
-- [[plants-of-the-gods-banisteriopsis-ayahuasca]]
 - [[plants-of-the-gods-lophophora-peyote]]
-- [[plants-of-the-gods-tabernanthe-iboga]]
 - [[plants-of-the-gods-salvia-divinorum-diviners-sage]]
-- [[plants-of-the-gods-amanita-muscaria]]
 - [[plants-of-the-gods-tabernanthe-iboga-chemistry]]
-- [[plants-of-the-gods-hallucinogens-medicine]]
 - [[plants-of-the-gods-trichocereus-san-pedro-chemistry]]
 - [[plants-of-the-gods-turbina-corymbosa-ololiuqui]]
 

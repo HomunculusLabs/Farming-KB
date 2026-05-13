@@ -10,8 +10,7 @@ type: concept
 
 # Beneficial Insects and Biological Pest Control
 
-The [[comparison-vermicomposting-vs-composting-organic-garden]] is a far more conducive environment for all forms of
-wildlife than a chemically controlled one. The [[fukuoka-pesticide-cascade-collapse-natural-balance]] ensures
+The [[fukuoka-pesticide-cascade-collapse-natural-balance]] ensures
 that predators exist to feed on garden pests. A simple rule for
 distinguishing friend from foe is that pests are generally slow-moving
 while predators are faster and more agile. By careful observation and
@@ -42,31 +41,8 @@ Both the easily identifiable adult ladybug and its slate-gray larvae eat
 vast quantities of aphids. They cannot be attracted by specific plants but
 are encouraged by cultivating a varied selection of plant species. A single
 ladybug can consume hundreds of aphids during its lifetime. Their presence
-is a reliable indicator of a [[query-how-to-build-healthy-garden-soil]] ecosystem.
-
-### Hoverflies
-
-The larvae of hoverflies are among the most valuable pest predators in
-the garden. Adult females need protein from pollen before laying eggs,
-which they deposit directly in aphid colonies. The hatched young are
-voracious feeders that devour aphids by the thousand. Hoverflies can be
-attracted by planting open-structured flowers with easily accessible
-pollen, including marigolds (Tagetes and Calendula), poppies, and
-nasturtiums.
-
-### Lacewings
-
-It is the lacewing larvae that have an insatiable appetite for aphids.
-Adult lacewings lay their eggs on the undersides of leaves. Although they
-do not feed on flowers, they can be encouraged by varied planting that
-provides a diverse habitat and plenty of egg-laying sites.
-
-### Ground Beetles
-
-Black garden beetles feed on eelworms, cutworms, leatherjackets, and
-insect eggs. They are nocturnal predators that need [[fukuoka-citrus-orchard-ground-cover-cultivation]] to hide
-under during the day. Using the closely planted [[hamilton-deep-bed-system]] in the
-[[fukuoka-dutch-priest-vegetable-garden-spiritual-renewal]] and growing green-manure crops between main crops helps
+is a reliable indicator of a [[fukuoka-citrus-orchard-ground-cover-cultivation]] to hide
+under during the day. Using the closely planted [[fukuoka-dutch-priest-vegetable-garden-spiritual-renewal]] and growing green-manure crops between main crops helps
 maintain the conditions ground beetles need. Keeping the ground covered
 with mulch also provides daytime shelter.
 
@@ -119,7 +95,5 @@ observation, and a willingness to adapt approaches based on results.
 
 ## See Also
 - hamilton beneficial insects and biological pest control
-- [[coleman-beneficial-insects-and-ecological-pest-control]]
 - [[dom]]
-- [[composting]]
 - [[vermicomposting]]

@@ -11,20 +11,10 @@ sources:
 
 # Cannabis Growing Medium — Soil vs Hydro vs Coco
 
-**Source:** Marijuana Horticulture: The Indoor/Outdoor Medical Grower's Bible — [[jorge-cervantes]]
-
-## Potting Soil
-
-Potting soil fresh out of the bag often fulfills all requirements: good texture for root penetration, water retention, good drainage, stable pH between 6 and 7, and a minimum supply of nutrients.
-
-Premium fast-draining soils with good texture that will not break down quickly are the best choice. Potting soils found at nurseries are often formulated with a [[jadam-nutrient-management-wetting-agent-and-calcium]] and retain water and air evenly, drain well, and allow easy root penetration. Organic potting soils are very popular, often fortified with [[organic-nutrients-vs-synthetic-nutrients]] including readily available high-nitrogen worm castings.
-
-## Hydroponic Growing Mediums
-
-Hydroponic systems are distinguished by how the [[cannabis-nutrient-solution-preparation]] is applied:
+**Source:** Marijuana Horticulture: The Indoor/Outdoor Medical Grower's Bible — [[jadam-nutrient-management-wetting-agent-and-calcium]] and retain water and air evenly, drain well, and allow easy root penetration. Organic potting soils are very popular, often fortified with [[cannabis-nutrient-solution-preparation]] is applied:
 
 ### Passive Systems
-Rely on [[capillary-action-in-soils]] to transfer [[cervantes-ec-tds-nutrient-solution-strength]]. Absorbent mediums like vermiculite, sawdust, peat moss work well. Wick systems have no moving parts, low initial cost and low maintenance. Dutch growers line the floor with heavy plastic, fill pots with absorbent soilless mix, and flood the garden with 2-3 inches of nutrient solution. Roots absorb it in 2-5 days.
+Rely on [[cervantes-ec-tds-nutrient-solution-strength]]. Absorbent mediums like vermiculite, sawdust, peat moss work well. Wick systems have no moving parts, low initial cost and low maintenance. Dutch growers line the floor with heavy plastic, fill pots with absorbent soilless mix, and flood the garden with 2-3 inches of nutrient solution. Roots absorb it in 2-5 days.
 
 ### Active Systems
 Active systems "actively" move the nutrient solution. Cannabis is a fast-growing plant very well suited to active hydroponics.
@@ -57,15 +47,7 @@ Most popular because of proven low-maintenance track records. Individual plants 
 ## pH Management
 
 - Ideal soil pH: 6.0-7.0
-- [[cervantes-dolomite-lime-ph-buffering]] (magnesium + calcium) keeps pH stable and buffers long-term
-- Hydrated lime raises pH quickly (fast-acting) — max 0.5 cup per cubic foot
-- Raise pH: add calcium carbonate, potassium hydroxide, or sodium hydroxide
-- Lower pH: add phosphoric acid (hydroponic), nitric acid, or distilled white vinegar (1 tsp/gallon)
-
-## Hydroponic Growing Mediums
-
-### Rockwool
-Rockwool is spun from molten rock into fine fibers, creating a lightweight, sterile medium. It holds plenty of water and air and is inert — it contains no nutritional value for plants. The pH of new rockwool is high (alkaline), so it must be soaked in acidic pH water (4.5-5.0) for 24 hours before use to bring it to a stable pH of about 6.0. Rockwool is most commonly used in hydroponic systems, especially [[coleman-drip-irrigation-and-water-management]] ebb-and-flow setups. It can be difficult to dispose of, as it does not break down in landfills.
+- [[coleman-drip-irrigation-and-water-management]] ebb-and-flow setups. It can be difficult to dispose of, as it does not break down in landfills.
 
 ### Coco Coir
 Coco coir is made from the husks of coconuts. It has excellent water retention while still providing good aeration. Coco coir has a near-neutral pH (5.5-6.5), which makes it easy to work with. It is considered an organic medium and is biodegradable. However, salt content can be high in low-quality coir, so it should be leached before use. Coco coir is often mixed with perlite (70/30 ratio) to improve drainage.
@@ -74,10 +56,7 @@ Coco coir is made from the husks of coconuts. It has excellent water retention w
 Perlite is expanded volcanic glass that is extremely light and provides excellent aeration. It holds very little water on its own. Vermiculite is expanded mica that holds large quantities of water and nutrients but compacts over time. They are often mixed together (50/50) to create a balanced medium, or perlite is mixed into soil or coco coir to improve drainage. Perlite can also be used alone in hydroponic systems, but requires frequent watering because of its low water-holding capacity.
 
 ### Expanded Clay (Hydroton)
-Expanded clay pebbles (often sold as Hydroton) are lightweight, pH-neutral clay balls that provide excellent aeration and drainage. They are reusable after cleaning and sterilizing. Used primarily in hydroponic systems such as flood-and-drain and drip irrigation, they provide a stable, clean [[cannabis-growing-environment-setup]] but require frequent irrigation cycles.
-
-### Water Culture (Deep Water Culture / NFT)
-Water culture systems dispense with solid growing mediums entirely. In deep water culture (DWC), plant roots are submerged in oxygenated nutrient solution. [[nutrient-film-technique]] (NFT) runs a thin film of nutrient solution over plant roots in a shallow channel. These systems offer the fastest growth rates but also the least margin for error — pump failures or nutrient imbalances can kill plants quickly.
+Expanded clay pebbles (often sold as Hydroton) are lightweight, pH-neutral clay balls that provide excellent aeration and drainage. They are reusable after cleaning and sterilizing. Used primarily in hydroponic systems such as flood-and-drain and drip irrigation, they provide a stable, clean [[nutrient-film-technique]] (NFT) runs a thin film of nutrient solution over plant roots in a shallow channel. These systems offer the fastest growth rates but also the least margin for error — pump failures or nutrient imbalances can kill plants quickly.
 
 ## Container Selection
 
@@ -118,8 +97,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[sea-of-green]]
 - [[ebb-and-flow]]
-- [[deep-water-culture]]
 - [[cervantes-green-algae-growing-medium]]
 - [[marijuana-horticulture-cervantes-hydroponic-growing-systems]]

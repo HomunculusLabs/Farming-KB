@@ -62,18 +62,8 @@ While not energy generation per se, Holzer's building methods dramatically reduc
 ### Masonry Stove Effect
 - House and shed walls made of brick or stone store heat during the day
 - Release it slowly at night
-- Used to [[query-how-do-i-create-microclimates-in-my-garden]] for heat-loving [[comparison-pruning-fruit-trees-vs-grafting-fruit-trees]] (peach, apricot)
-- Espalier fruit trees planted against warm walls [[query-how-to-protect-plants-from-frost-and-extend-the-growing-season]] season
-- Even at altitude, this technique allows Mediterranean species to fruit
-
-## Design Philosophy
-
-Holzer's approach to energy is characterised by:
-
-1. **Multiple functions**: Every water system serves energy, irrigation, aquaculture, and ecological functions simultaneously
-2. **No external inputs**: Systems use gravity, water flow, and thermal mass -- no fossil fuels
-3. **Cascading use**: Water used for power generation then flows to fish ponds, then to irrigation
-4. **[[jadam-ultra-low-cost-agriculture]]**: Using salvaged materials (old Pelton wheels, local timber) keeps costs minimal
+- Used to [[comparison-pruning-fruit-trees-vs-grafting-fruit-trees]] (peach, apricot)
+- Espalier fruit trees planted against warm walls [[jadam-ultra-low-cost-agriculture]]**: Using salvaged materials (old Pelton wheels, local timber) keeps costs minimal
 5. **Reliability**: Simple mechanical systems with few moving parts are durable and maintainable
 6. **Scalability**: The same principles work at any scale, from a small holding to a large farm
 
@@ -81,9 +71,7 @@ The energy systems on the Krameterhof demonstrate that a modern farm can operate
 
 ## See Also
 
-- [[climate-and-microclimate-management]]
 - [[holzer-bone-salve-rock-dust]]
-- [[holzer-fish-farming]]
 - [[holzer-stone-fruit-varieties-and-growing]]
 
 ## Practical Applications
@@ -115,8 +103,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[sepp-holzer]]
 - [[holzer-browsing-protection-methods]]
-- [[holzer-terraced-landscape-design]]
 - [[holzer-water-landscapes-retention]]
 - [[holzer-livestock-philosophy-paddock-system]]

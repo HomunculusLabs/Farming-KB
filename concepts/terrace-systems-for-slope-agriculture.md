@@ -6,47 +6,7 @@ type: concept
 
 # Terrace Systems for Slope Agriculture
 
-Terrace systems are among the most productive and enduring earthworks in permaculture, transforming steep, erosion-prone slopes into stable, productive agricultural land. From the ancient rice paddies of the Ifugao people in the Philippines—some continuously productive for over 5,000 years—to modern garden terraces, these systems demonstrate the power of thoughtful earth-shaping for soil and [[water-conservation]].
-
-## Why Terraces Matter
-
-Almost every slope benefits from earth-shaping for soil conservation. Without intervention, water runoff on slopes carries away topsoil, reduces water infiltration, and degrades the land's productive capacity. Terraces interrupt this process by creating level platforms that hold water, soil, and organic matter in place. They simultaneously increase the arable area and make cultivation practical on land that would otherwise be unusable.
-
-## Types of Terrace Systems
-
-### Dry Terraces
-
-Dry terraces hold soil against erosion in cropped areas where no water source feeds the system. Deep mulch is essential to keep terrace soils moist. These are suitable for grain crops (millet, barley, wheat, rye, quinoa), legumes (lentils, peas, grams), oilseeds (rape/mustard), and vegetable crops. Dry terraces work well in winter-dry climates and areas without stream access.
-
-### Wet Terraces (Padi)
-
-Where a stream can be led to upper terraces, wet crops such as rice, taro, watercress, kangkong, and water chestnuts can be cultivated in water-level-controlled paddies. Water is continuously fed to the top terrace, and each level has a drain and sump to regulate water level. Fish may be grown in the deep areas of such terraces, adding protein yield to the system. This is the rich wet terrace culture of Asia and Oceania.
-
-### Broad Contour Banks Evolving to Terraces
-
-A low-intervention approach uses broad contour banks (tree-banks) where slow erosion of crop soils builds up behind the banks over time, gradually forming stable contour terraces. Trees serve as permanent stabilizers. This is a gradual, self-building system that requires less initial earthworks investment.
-
-### Garden Terraces
-
-Small garden terraces near homes use 1:2.5 bank ratios with pits dug to absorb rain. They can be fully planted to vegetable and herbaceous perennial crops including banana, papaya, melons, chilies, peppers, cucurbits, maize, beans, sugar cane, and cultivated greens.
-
-## Design Guidelines
-
-### Width and Scale
-
-- Hand-made terraces should be narrower (3.5–6.5 m or 12–15 feet) than machine-made systems
-- On very steep humid slopes, terraces must be kept narrow and limited to sets of 6–8 downslope to prevent instability
-- Steeper slopes require staggered, shorter sets of terraces compared to longer continuous series for gentler terrain
-
-### Vegetative Stabilization
-
-Approximately one-half to one-third of the total terraced area should be devoted to mulch tree crops providing fodder for livestock or direct leaf and branch mulch to terraces. The critical areas to plant include:
-
-- The upper one-third of hills (slopes of 30° or greater)
-- Terrace side-borders and outer faces
-- Crowns of bunds (walls)
-
-Mulch species include tree legumes (Leucaena, tagasaste), banna grass (Pennisetum), lemongrass, [[vetiver-grass]], comfrey, bamboo, palm fronds, Aleurites spp., and Cinnamomum spp.
+Terrace systems are among the most productive and enduring earthworks in permaculture, transforming steep, erosion-prone slopes into stable, productive agricultural land. From the ancient rice paddies of the Ifugao people in the Philippines—some continuously productive for over 5,000 years—to modern garden terraces, these systems demonstrate the power of thoughtful earth-shaping for soil and [[vetiver-grass]], comfrey, bamboo, palm fronds, Aleurites spp., and Cinnamomum spp.
 
 ### Slope Stability with Grass Strips
 
@@ -95,6 +55,90 @@ Terrace borders and slopes can produce significant fodder for livestock. Species
 The terraces of the Ifugao people demonstrate that well-designed terrace systems can remain productive for millennia. Key factors in this longevity include continuous mulch application, vegetative stabilization of all structural elements, integration of tree crops that provide both stability and fertility, and careful water management. When terraces combine tree plantings on borders and steep slopes with diverse cropping on the flat areas, they create self-renewing agricultural systems that improve rather than degrade over time.
 ## See also
 
-- [[terrace-design-and-construction]]
 - [[soil-erosion-control]]
 - [[slope-analysis-in-permaculture]]
+
+## Overview
+
+Terrace Systems For Slope Agriculture represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish terrace systems for slope agriculture
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving terrace extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Terrace Systems For Slope Agriculture finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for terrace systems for slope agriculture. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+terrace systems for slope agriculture and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Terrace Systems For Slope Agriculture has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of terrace systems for slope agriculture into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[fukuoka-textdoc-hillside-garden-terrace-soil-preparation]]
+- [[holzer-terrace-systems]]
+- [[terrace-construction-earthworks]]
+- [[terrace-earthworks-and-slope-management]]
+- [[terrace-systems-slope-management]]

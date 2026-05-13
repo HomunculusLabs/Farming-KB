@@ -35,23 +35,9 @@ Eucalyptus wandoo, commonly known as **wandoo** or **white gum**, is a medium-si
 - **Honey:** Produces good quality, light-coloured honey valued by beekeepers (pages 94, 96)
 - **Shelter and shade:** Well-suited to semi-arid shelterbelt plantings
 - **Soil conservation:** Deep root system helps manage dryland salinity and soil erosion
-- **[[hemenway-backyard-wildlife-habitat]]:** Provides important habitat and food source for native fauna
-
-## Cultivation Notes
-
-- Highly drought-tolerant once established
-- Prefers heavy soils — clay loams and gravels
-- Suited to semi-arid zones with 300–600 mm annual rainfall
-- [[plants-tolerant-of-alkaline-soils]] soils
+- **[[plants-tolerant-of-alkaline-soils]] soils
 - Moderate frost tolerance
-- Slow to moderate [[soil-temperature-plant-growth-rate-doubling-rule]]
-- Best planted in autumn–winter in Mediterranean climates
-
-## Notable Uses from Source
-
-- Fence posts and durable timber (pages 94, 96, 117)
-- Firewood (pages 94, 96, 117)
-- [[faires-beekeeping-and-honey-production]] (pages 94, 96)
+- Slow to moderate [[faires-beekeeping-and-honey-production]] (pages 94, 96)
 - Semi-arid zone planting (pages 94, 96)
 
 ## Woodland Ecology
@@ -61,11 +47,7 @@ Eucalyptus wandoo, commonly known as **wandoo** or **white gum**, is a medium-si
 - The canopy is generally lighter than dense forest species.
 - This can allow grasses, herbs, and shrubs to persist below.
 - The tree's adaptation to dry summers makes it useful in Mediterranean climates.
-- Its site preferences are almost the opposite of moisture-loving [[eucalyptus-saligna]].
-- Wandoo tolerates lower rainfall and heavier soils.
-- It is therefore relevant to dryland farm forestry and restoration.
-- Its flowers can support beekeeping when seasonal conditions are favorable.
-- That use connects the tree with [[faires-beekeeping-and-honey-production]].
+- Its site preferences are almost the opposite of moisture-loving [[faires-beekeeping-and-honey-production]].
 
 ## Timber Properties
 
@@ -83,18 +65,7 @@ Eucalyptus wandoo, commonly known as **wandoo** or **white gum**, is a medium-si
 
 - Wandoo often grows on clay loams, gravelly soils, valley floors, and lower slopes.
 - It is useful where sandy or acidic-site species may not thrive.
-- The note's existing link to [[plants-tolerant-of-alkaline-soils]] is important.
-- Alkaline tolerance makes it relevant to many inland and wheatbelt plantings.
-- Deep roots may help stabilize soil and manage water tables.
-- In dryland salinity contexts, trees can contribute to broader hydrological repair.
-- They are not a single cure, but they are useful components of landscape design.
-- Planting should follow local provenance guidance whenever possible.
-
-## Habitat Value
-
-- Mature wandoo provides hollows and perches for wildlife.
-- Bark, flowers, and canopy structure support insects and birds.
-- The page's link to [[hemenway-backyard-wildlife-habitat]] is therefore fitting.
+- The note's existing link to [[hemenway-backyard-wildlife-habitat]] is therefore fitting.
 - In a farm system, wandoo shelterbelts can serve production and biodiversity goals together.
 - Nectar flows can support pollinators.
 - Leaf litter and woody debris create habitat at ground level.

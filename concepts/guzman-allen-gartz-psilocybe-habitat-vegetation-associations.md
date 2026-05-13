@@ -8,18 +8,7 @@ created: 2026-05-08
 
 # Psilocybe Habitat Preferences and Vegetation Type Associations
 
-The global [[global-distribution-of-neurotropic-fungi]] fungi is not random but closely tied to
-specific vegetation types and ecological niches. Guzmán's analysis of habitat
-associations across multiple continents reveals that the majority of
-Psilocybe species prefer particular forest types, with striking concentration
-in mesophytic and subtropical environments.
-
-## The Mesophytic Forest Concentration
-
-In Mexico, which has the world's highest diversity of neurotropic Psilocybe
-species (44 taxa), the pattern is unambiguous: of 42 neurotropic species
-analyzed in Guzmán's 1983 monograph, 34 are associated with mesophytic
-forests, 4 with [[fungal-biodiversity-tropical-forests]], and only 4 with coniferous forests. This
+The global [[fungal-biodiversity-tropical-forests]], and only 4 with coniferous forests. This
 holds despite the fact that coniferous forests in Mexico have been more
 thoroughly surveyed mycologically than mesophytic forests.
 
@@ -33,24 +22,8 @@ and relatively stable microclimates.
 
 Mexico occupies a unique biogeographic position as a convergence point for
 both northern and southern mycobiotas. Northern species such as *P. caerulipes*
-extend southward from the deciduous forests of [[polypore-fungi-eastern-north-america]] into
-northeastern Mexico (Zacualtipan, Hidalgo), following the same mesophytic
-forest type but with Fagus as a dominant tree.
-
-Southern species like *P. yungensis* and *P. subyungensis* extend northward
-from South America through mesophytic forests associated with Alnus. This
-bidirectional migration makes Mexico a zone of exceptional diversity where
-northern and southern fungal lineages overlap.
-
-## Temperate vs. Tropical Patterns
-
-The habitat preferences of neurotropic fungi fall into several broad
-ecological categories:
-
-**Temperate species**: *[[bloomfield-ergot-claviceps-purpurea-ergotism]]*, *[[allegro-amanita-muscaria-properties-and-pharmacology]]*, *Gymnopilus*
-spp., *Inocybe* spp., and *[[liberty-cap-psilocybe-semilanceata-history-biology]]*. These are confined to
-[[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]] and are often associated with specific host plants.
-*A. muscaria* forms [[plants-without-mycorrhizal-associations]] with Pinus and Betula in northern
+extend southward from the deciduous forests of [[bloomfield-ergot-claviceps-purpurea-ergotism]]*, *[[liberty-cap-psilocybe-semilanceata-history-biology]]*. These are confined to
+[[plants-without-mycorrhizal-associations]] with Pinus and Betula in northern
 hemisphere forests.
 
 **Tropical and subtropical species**: *Psilocybe cubensis*, *P. subcubensis*,
@@ -78,15 +51,7 @@ naturally in Europe.
 
 ## Altitudinal Range
 
-Neurotropic fungi span a remarkable altitudinal range. *[[copelandia-cyanescens]]*
-has been recorded at 3,000 meters altitude in the Hawaiian Archipelago
-(Maui), while also growing in the Valley of Mexico at 2,220 meters. Some
-species are strictly alpine, such as *Psilocybe aztecorum* which fruits at
-high elevations in Mexican mountains.
-
-## The Puzzling Absence of P. semilanceata in Mexico
-
-One of the most surprising [[fungal-biogeography-distribution-patterns]] is the absence of *P.
+Neurotropic fungi span a remarkable altitudinal range. *[[fungal-biogeography-distribution-patterns]] is the absence of *P.
 semilanceata* from Mexico despite its presence across temperate regions of
 
 ## Practical Applications
@@ -118,8 +83,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[psilocybe-cubensis]]
 - [[dom]]
-- [[neurotropic-fungi]]
 - [[amanita]]
 - [[mycorrhiza]]

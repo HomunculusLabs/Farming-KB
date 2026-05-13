@@ -13,22 +13,12 @@ type: concept
 
 Shirota, Hakamata, and Goda of the National Institute of Health Sciences in
 Tokyo published in the Journal of Natural Products (2003, Vol. 66, pp.
-885-887) a [[psilocybin-synthesis-shirota-concise-large-scale-method]] synthesis of psilocin and psilocybin that
-required no chromatographic purification at any stage. The synthesis began
-with commercially available 4-hydroxyindole and proceeded through four
-steps to psilocin and six steps to psilocybin. The work was motivated by
-Japan's regulation of fungi containing psilocybin and psilocin under the
-Narcotics and Psychotropic [[japan-narcotics-control-law-psilocybin-fungi-2002]], effective June 6, 2002, which
+885-887) a [[japan-narcotics-control-law-psilocybin-fungi-2002]], effective June 6, 2002, which
 created demand for pure reference standards for forensic identification.
 
 ## Motivation and Regulatory Context
 
-Before the 2002 Japanese law, [[guzman-magic-mushrooms-african-species]] had become popular among young
-people because they were relatively inexpensive and carried lower awareness
-of guilt compared to other drugs. Identification of magic mushrooms using
-morphologic and microscopic analyses is difficult without experts, so
-chromatographic methods including TLC, GC, and HPLC are usually employed.
-These methods always require [[shirota-forensic-standard-compounds-magic-mushroom-identification]]. Isolating psilocin and
+Before the 2002 Japanese law, [[shirota-forensic-standard-compounds-magic-mushroom-identification]]. Isolating psilocin and
 psilocybin from mushrooms on a gram scale is difficult because psilocin
 easily decomposes and psilocybin has high polarity.
 

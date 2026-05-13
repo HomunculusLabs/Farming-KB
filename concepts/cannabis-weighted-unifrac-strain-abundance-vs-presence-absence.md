@@ -27,37 +27,7 @@ microbiome. Strain identity has **zero** influence on which taxa are
 present or absent, yet it has a **substantial** effect on the relative
 abundance of taxa already present. This decoupling of composition from
 structure is central to understanding how host genotype shapes the
-[[cannabis-rhizosphere-bacterial-communities]].
-
-## Weighted vs Unweighted UniFrac
-
-- **Unweighted UniFrac** considers only the **presence or absence** of
-  lineages. It measures community **composition** — which taxa are
-  there, regardless of abundance.
-- **Weighted UniFrac** incorporates **branch lengths weighted by
-  relative abundance**. It measures community **structure** — which
-  taxa are present *and* how dominant each one is.
-
-When PERMANOVA was applied with each metric, strain showed strikingly
-asymmetric results.
-
-## PERMANOVA Results (Table 2)
-
-| Factor | Weighted (sig OTUs) | Unweighted (sig OTUs) |
-|--------|-------------------:|----------------------:|
-| Soil Type | 690 | 657 |
-| Sample Type | 51 | 11 |
-| **Strain** | **71** | **0** |
-
-Soil type dominates by either metric. But **strain** tells two
-completely different stories:
-
-- **Unweighted**: zero significant OTU differences. Strain does not
-  determine which taxa are present or absent.
-- **Weighted**: 71 significant OTU differences. Strain strongly
-  affects the relative abundance of taxa already present.
-
-All [[purple-and-color-changing-cannabis-strains]] draw from the same pool of soil-derived
+[[purple-and-color-changing-cannabis-strains]] draw from the same pool of soil-derived
 microorganisms, but each strain alters the proportional representation
 of those organisms.
 
@@ -121,20 +91,8 @@ taxa from the shared pool).
 
 - **Cultivar selection shapes the microbiome by altering proportions of soil-derived microbes, not by recruiting unique taxa.**
 - **Soil management remains the primary lever** for influencing which organisms are available to colonize roots.
-- **Strain-specific breeding could optimize functional outcomes** if certain abundance profiles associate with [[aact-banana-cultivation-tropical-crop-disease-suppression-ingham]] or [[ph-and-nutrient-availability-garden-soils]].
-- **[[microbial-inoculants-and-biological-soil-amendments]] must be compatible with the soil pool**, since strain does not control presence or absence. Both weighted and unweighted UniFrac should be reported in future studies.
-
-## See Also
-
-- cannabis unifrac beta diversity
-- cannabis permanova soil type dominance
-- cannabis pcoa ordination
-- cannabis rhizosphere microbiome composition
-- cannabis proteobacteria bacteroidetes enrichment
-
-## Sources
-
-- Winston, M.E., et al. (2014). Divergent assembly of [[cannabis-endorhiza-bacterial-communities]] in the rhizosphere of two Cannabis sativa genotypes. *Applied Soil Ecology*, 79, 77–88.
+- **Strain-specific breeding could optimize functional outcomes** if certain abundance profiles associate with [[ph-and-nutrient-availability-garden-soils]].
+- **[[cannabis-endorhiza-bacterial-communities]] in the rhizosphere of two Cannabis sativa genotypes. *Applied Soil Ecology*, 79, 77–88.
   - Table 2: PERMANOVA results for weighted and unweighted UniFrac.
   - Figure 2: PCoA ordinations showing factor loadings on PC1.
   - Supplementary materials: OTU-level taxonomic assignments.

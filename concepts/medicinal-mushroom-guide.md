@@ -32,8 +32,8 @@ Related: [[mushroom-species-guide]], [[herbal-medicine]], [[fungal-ecology]]
 - **Lentinan**: Beta-glucan specific to shiitake (Lentinula edodes). FDA-approved as adjunct cancer therapy in Japan.
 - **PSK (Polysaccharide-K)**: Protein-bound polysaccharide from turkey tail (Trametes versicolor). Approved anticancer drug in Japan since 1977. Brand name Krestin.
 - **PSP (Polysaccharide-Peptide)**: From Trametes versicolor. Similar to PSK but with different protein binding. Approved in China.
-- **[[ganoderic-acids]]**: Triterpenoids from [[reishi-cultivation|reishi]] (Ganoderma lucidum). Anti-inflammatory, hepatoprotective, anticancer via apoptosis induction.
-- **Hericenones and erinacines**: Compounds from lion's mane ([[hericium-erinaceus]]). Stimulate NGF (nerve growth factor) synthesis. Erinacines in mycelium; hericenones in fruiting body.
+- **Ganoderic acids**: Triterpenoids from [[reishi-cultivation|reishi]] (Ganoderma lucidum). Anti-inflammatory, hepatoprotective, anticancer via apoptosis induction.
+- **Hericenones and erinacines**: Compounds from lion's mane (Hericium erinaceus). Stimulate NGF (nerve growth factor) synthesis. Erinacines in mycelium; hericenones in fruiting body.
 - **Cordycepin (3'-deoxyadenosine)**: Nucleoside analog from Cordyceps militaris. Anti-proliferative, immunomodulatory, anti-inflammatory.
 - **Ergothioneine**: Amino acid antioxidant found in all mushrooms. Protects against oxidative stress. High concentrations in shiitake, oyster, porcini.
 

@@ -110,11 +110,7 @@ The species has been used in breeding programs to introduce height and large flo
 
 ## See Also
 
-- [[campanula-lactiflora]]
 - [[campanula-alliariifolia]]
-- [[campanula-punctata]]
 - [[campanula-persicifolia]]
-- [[campanula-medium]]
 - [[campanula-rotundifolia]]
-- [[phyteuma-spicatum]]
 - [[adenophora-remotiflora]]

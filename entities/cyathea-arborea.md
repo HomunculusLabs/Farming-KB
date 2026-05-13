@@ -108,13 +108,8 @@ In cultivation, Cyathea arborea benefits from regular misting and wind protectio
 
 ## See Also
 
-- [[cyathea-cooperi]]
 - [[cyathea-dealbata]]
-- [[cyathea-medullaris]]
 - [[cyathea-brownii]]
-- [[cyathea-australis]]
 - [[dicksonia-antarctica]]
-- [[cibotium-barometz]]
 - [[blechnum-spicant]]
-- [[asplenium-nidus]]
 - [[pteridium-aquilinum]]

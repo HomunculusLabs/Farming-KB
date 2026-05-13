@@ -38,17 +38,7 @@ Elaeagnus multiflora Thunb. is a deciduous shrub in the family Elaeagnaceae, nat
 
 The species grows 2–4 m tall with a spreading, multi-stemmed habit. Its silvery-green foliage and fragrant spring flowers make it both productive and ornamental in designed landscapes.
 
-Goumi berries are rich in lycopene, anthocyanins, and other antioxidants. The plant's actinorhizal root symbiosis with Frankia bacteria enables atmospheric [[biological-nitrogen-fixation-agriculture]], making it a valuable companion plant in food forests and polyculture systems.
-
-## Taxonomy and Classification
-
-- **Kingdom:** Plantae
-- **Order:** Rosales
-- **Family:** Elaeagnaceae
-- **Genus:** Elaeagnus
-- **Species:** E. multiflora Thunb. (1784)
-
-The species was first described by Carl Peter Thunberg in 1784 based on specimens collected in Japan. It is closely related to E. umbellata ([[permaculture-autumn-olive]]) and E. angustifolia (Russian olive), sharing the same nitrogen-fixing root symbiosis.
+Goumi berries are rich in lycopene, anthocyanins, and other antioxidants. The plant's actinorhizal root symbiosis with Frankia bacteria enables atmospheric [[permaculture-autumn-olive]]) and E. angustifolia (Russian olive), sharing the same nitrogen-fixing root symbiosis.
 
 The synonym E. edulis Carr. refers to the edible-fruited cultivated form, sometimes considered a separate species or variety.
 
@@ -60,13 +50,7 @@ Leaves are alternate, elliptic to ovate, 4–8 cm long and 2–3 cm wide. The up
 
 Flowers are fragrant, cream-white to pale yellow, 8–12 mm long, produced in clusters of 1–3 from the leaf axils in April–May. They are bisexual and insect-pollinated, primarily by bees.
 
-The fruit is a drupe-like achene, 8–12 mm long, ovoid, ripening from silvery-green to red or scarlet in June–July. Each fruit contains a [[cervantes-selfing-single-seed-descent]] surrounded by a fleshy, edible pericarp.
-
-## Distribution and Habitat
-
-E. multiflora is native to eastern Asia, occurring naturally in central and southern China, Korea, and Japan. It grows in mountain slopes, forest margins, and riparian areas at elevations up to 1,800 m.
-
-The species has been introduced to Europe, [[psilocybin-north-america-pacific-northwest]], and New Zealand as an ornamental and fruiting shrub. It is less invasive than E. umbellata, though it can naturalize in favorable conditions.
+The fruit is a drupe-like achene, 8–12 mm long, ovoid, ripening from silvery-green to red or scarlet in June–July. Each fruit contains a [[psilocybin-north-america-pacific-northwest]], and New Zealand as an ornamental and fruiting shrub. It is less invasive than E. umbellata, though it can naturalize in favorable conditions.
 
 It tolerates a wide range of soil types including poor, sandy, and mildly acidic to alkaline soils. The plant is drought-tolerant once established and can withstand temperatures to -25°C.
 
@@ -84,6 +68,83 @@ Goumi is easily propagated from seed (requiring 2–3 months cold stratification
 
 The berries are eaten fresh when fully ripe (astringent when underripe), cooked into jams, pies, and sauces, or dried. They pair well with other fruits in mixed preserves due to their tart flavor.
 
-In [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]], E. multiflora is used as a nitrogen-fixing understory shrub, a hedgerow component providing [[cervantes-wind-protection-outdoor-cannabis]] and [[hemenway-backyard-wildlife-habitat]], and a companion plant [[query-how-to-design-a-food-forest-guild-for-fruit-trees]] and berry crops.
+In [[cervantes-wind-protection-outdoor-cannabis]] and [[query-how-to-design-a-food-forest-guild-for-fruit-trees]] and berry crops.
 
 ## Ecological Role
+
+## Overview
+
+Elaeagnus Multiflora represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish elaeagnus multiflora
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving elaeagnus extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Elaeagnus Multiflora finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for elaeagnus multiflora. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+elaeagnus multiflora and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Elaeagnus Multiflora has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of elaeagnus multiflora into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.

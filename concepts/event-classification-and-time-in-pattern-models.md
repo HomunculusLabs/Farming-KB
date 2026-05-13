@@ -6,7 +6,7 @@ type: concept
 
 # Event Classification and Time in Pattern Models
 
-All phenomena in nature can be classified, understood, and related through a unified system of categories. Combined with an [[bill-mollison-permaculture-a-designers-manual-pattern-understanding-in-permaculture]] of how time operates within pattern models, this classification system gives [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]]ers a comprehensive framework for analyzing any event, element, or process they encounter — and for understanding their own role within the larger patterns of nature.
+All phenomena in nature can be classified, understood, and related through a unified system of categories. Combined with an [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]]ers a comprehensive framework for analyzing any event, element, or process they encounter — and for understanding their own role within the larger patterns of nature.
 
 ## Classification of Events
 
@@ -14,9 +14,7 @@ All events are susceptible to classification across four dimensions: Nature, Sta
 
 ### A. Nature — What Kind of Event?
 
-**A1. Explosive/Disintegrative**: Events characterized by release, breakdown, erosion, impact, or percussion. Examples: a landslide, an explosion, [[mollison-designers-sea-level-change-coastal-zones]] erosion, a falling bomb.
-
-**A2. Growth/Integrative**: Events characterized by [[mollison-designers-herb-spiral-design-construction]], accumulation, integration, or translation. Examples: a growing sapling, soil formation, the building of a reef.
+**A1. Explosive/Disintegrative**: Events characterized by release, breakdown, erosion, impact, or percussion. Examples: a landslide, an explosion, [[mollison-designers-herb-spiral-design-construction]], accumulation, integration, or translation. Examples: a growing sapling, soil formation, the building of a reef.
 
 **A3. Conceptual/Creative**: Events of the mind — ideas, creative thought, insight. These are the origins of all designed change.
 
@@ -36,17 +34,7 @@ All events are susceptible to classification across four dimensions: Nature, Sta
 
 **C2. Two dimensions**: Surface phenomena, tessellae, dendrites. Examples: a lichen on a rock, a drainage pattern, a mosaic of tiles.
 
-**C3. [[coleman-mobile-greenhouse-rotation-design-two-three-four-plot-systems]] dimensions**: Solid phenomena, trees. Examples: a growing tree, a mountain, a building.
-
-**C4. Four dimensions**: Moving solid phenomena that include the time dimension. Examples: a growing sapling (A2, B2, C3 becomes C4 when considered over time), a flowing river, a migrating herd.
-
-**C5. More dimensions**: Conceptual phenomena — models of particles or forces, states of energy. These are the abstract constructs of physics and philosophy.
-
-### D. Location — Where Does It Occur?
-
-**D1. Across equi-potential surfaces**: Events generating across level surfaces. Examples: storms at sea, waves on a pond, frost patterns on a window.
-
-**D2. Within media**: Events occurring inside a medium. Examples: weather "frontal" [[bill-mollison-permaculture-a-designers-manual-animal-systems-in-permaculture]] within the atmosphere, currents within the ocean, nutrient flows within soil.
+**C3. [[bill-mollison-permaculture-a-designers-manual-animal-systems-in-permaculture]] within the atmosphere, currents within the ocean, nutrient flows within soil.
 
 **D3. Through surfaces at 90° or so**: Events penetrating boundaries. Examples: trees growing upward through the soil surface, roots penetrating downward, rain falling through the atmosphere.
 
@@ -122,15 +110,7 @@ Patterning is the way we frame our designs — the template into which we fit:
 - Information from observation
 - Map overlays
 - Analytic divination of connections
-- [[mollison-designers-small-dam-site-selection-design]] of specific materials and technologies
-
-It is patterning that permits our elements to flow and function in beneficial relationships. **The pattern is design, and design is the subject of permaculture.**
-
-## Bohm's Totality
-
-David Bohm urges us to go beyond regarding ourselves as interactive with each other and the environment, and to see all things as "projections of a single totality." As we experience this totality, incorporate new information, and develop our consciousness, we ourselves are fundamentally changed.
-
-"To fail to take this into account must inevitably lead one to a serious and sustained confusion in all that one does." This perspective — that designer and design are part of the same totality, not separate from it — is perhaps the deepest implication of the pattern model [[query-how-do-i-design-a-duck-pond-system-for-permaculture]] practice.
+- [[query-how-do-i-design-a-duck-pond-system-for-permaculture]] practice.
 
 ## Key References
 

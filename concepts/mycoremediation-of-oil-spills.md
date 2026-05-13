@@ -5,16 +5,16 @@ updated: 2026-04-12
 type: concept
 tags: [mycoremediation, pollution, fungi, ecology, remediation, decomposition, environment, mycology]
 sources:
-  - "raw/papers/the-mushroom-cultivator-stamets.md"
+  - "raw/papers/mycelium-running-stamets.md"
 ---
 
 ## Overview
 
-Mycoremediation of oil spills uses fungi -- particularly white-rot basidiomycetes -- to break down [[mycoremediation-petroleum-hydrocarbons]] into less harmful compounds. Fungi produce powerful [[fungal-extracellular-enzymes]] (laccases, manganese peroxidases, lignin peroxidases) that can oxidize the complex aromatic structures found in crude oil, diesel, and other petroleum products.
+Mycoremediation of oil spills uses fungi -- particularly white-rot basidiomycetes -- to break down petroleum hydrocarbons into less harmful compounds. Fungi produce powerful extracellular enzymes (laccases, manganese peroxidases, lignin peroxidases) that can oxidize the complex aromatic structures found in crude oil, diesel, and other petroleum products.
 
 ## Why Fungi for Petroleum Cleanup
 
-Petroleum is structurally similar to lignin -- the tough, complex polymer in wood that white-rot fungi evolved to decompose. This evolutionary capability makes them uniquely suited to breaking down [[singh-fungal-biodegradation-of-polycyclic-aromatic-hydrocarbons]] that bacteria struggle with.
+Petroleum is structurally similar to lignin -- the tough, complex polymer in wood that white-rot fungi evolved to decompose. This evolutionary capability makes them uniquely suited to breaking down aromatic hydrocarbons that bacteria struggle with.
 
 Advantages of fungal remediation over bacterial approaches:
 - Enzymes work extracellularly, degrading even poorly soluble compounds
@@ -27,8 +27,8 @@ Advantages of fungal remediation over bacterial approaches:
 ### Laccase (EC 1.10.3.2)
 - Copper-containing oxidase that degrades phenolic compounds
 - Works under mild conditions (pH 4-7, ambient temperature)
-- Does not require [[cervantes-hydrogen-peroxide-sterilization]]
-- Effective against [[staycare-fungal-degradation-of-polycyclic-aromatic-hydrocarbons]] (PAHs)
+- Does not require hydrogen peroxide
+- Effective against polycyclic aromatic hydrocarbons (PAHs)
 
 ### Manganese Peroxidase (MnP, EC 1.11.1.13)
 - Oxidizes Mn(II) to Mn(III), creating a diffusible oxidant
@@ -63,7 +63,7 @@ The most widely studied species for petroleum remediation:
 
 ### Other Effective Species
 - **Bjerkandera adusta**: High manganese peroxidase activity
-- **[[ganoderma-lucidum]]** (reishi): Degrades PAHs; produces antimicrobial compounds that may suppress competing bacteria
+- **Ganoderma lucidum** (reishi): Degrades PAHs; produces antimicrobial compounds that may suppress competing bacteria
 - **Lentinula edodes** (shiitake): Effective against lighter petroleum fractions
 
 ## Field Applications
@@ -123,6 +123,6 @@ Pioneering field demonstrations by mycologist Paul Stamets:
 
 ## See Also
 
-- [[mycoremediation-of-heavy-metals]] -- fungal remediation of metal contamination
+- [[mycoremediation-heavy-metals]] -- fungal remediation of metal contamination
 - [[mycoremediation-of-plastics]] -- emerging research on plastic biodegradation by fungi
 - [[mycofiltration-of-water]] -- fungal-based water treatment systems

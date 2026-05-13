@@ -11,26 +11,7 @@ sources:
 
 # Fukuoka Biotechnology and Computers Warning
 
-In the closing section of his [[natural-farming-fukuoka]] extends his critique beyond weapons and politics to the convergence of biotechnology, computers, and artificial intelligence -- predicting dangers that have become increasingly relevant decades later.
-
-## The Age of Sophisticated Computers
-
-Fukuoka warns that humanity is "hurtling forward into an age ruled by materialism and exaggerated faith in science, and in the process are metamorphosing into sophisticated computers."
-
-His specific concerns:
-
-- An age where "the handling of all problems and concerns by computers and robots in place of humans" is being attempted
-- The question of who would press the nuclear button -- since no human can assess all relevant information, "the responsibility will have to be delegated to computers and robots"
-- But "computers are not capable of becoming anything more than faithful watchdogs programmed by their masters"
-- The day will come when "stacks of data processed and output by computers will be transmitted directly into the human brain, which will have become a mere data receiving unit, in order that computers are able to give orders to humans and manipulate them"
-
-## The Kant Problem with Computers
-
-Fukuoka grounds his warning in philosophical reasoning drawn from Immanuel Kant:
-
-- Kant says that human thought and man's various basic notions "are all erected on the universal a priori forms of space and time"
-- Computers, being constructed on the same basis of space and time concepts, "are merely machines which make erroneous decisions that differ fundamentally from the decisions and aims of God, who makes decisions from a standpoint that transcends space and time"
-- This means computers cannot replicate divine wisdom or [[fukuoka-textdoc-natural-order-food-chain-unity]] -- they are trapped in the same conceptual limitations as the humans who built them
+In the closing section of his [[fukuoka-textdoc-natural-order-food-chain-unity]] -- they are trapped in the same conceptual limitations as the humans who built them
 - Any decisions made by computers will be inherently limited to the relativistic framework of space and time
 
 ## Genetic Engineering Dangers
@@ -74,11 +55,9 @@ Fukuoka extends his warning to human genetic manipulation:
 
 ## Specific Criticisms of Biotechnology
 
-Fukuoka's objections to biotechnology are rooted in what he saw as a fundamental misunderstanding of nature's complexity. He argued that genetic engineering treats [[savory-living-organisms-as-tools]] as machines that can be reprogrammed, ignoring the vast web of ecological relationships that sustain them. A crop engineered for higher yield, for example, may require correspondingly higher nutrient inputs, increased water, and more [[cannabis-pest-management-guide]] — effectively externalizing hidden costs that natural systems would have internalized.
+Fukuoka's objections to biotechnology are rooted in what he saw as a fundamental misunderstanding of nature's complexity. He argued that genetic engineering treats [[cannabis-pest-management-guide]] — effectively externalizing hidden costs that natural systems would have internalized.
 
-He specifically criticized the reductionist premise behind biotechnology: that individual genes can be isolated, modified, and inserted without unintended consequences. In his view, the genetic code was not a simple instruction manual but part of an interconnected whole that had evolved over millions of years. Altering one component without understanding the full system was, to Fukuoka, akin to randomly rewiring an airplane mid-flight. This perspective aligns with his broader [[fukuoka-natural-farming-philosophy-of-mu]] who argue that agricultural problems cannot be solved by the same reductionist mindset that created them.
-
-The [[comparison-natural-farming-vs-permaculture]] movement's resistance to genetically modified organisms (GMOs) draws on arguments similar to Fukuoka's: that the unpredictability of genetic modification poses ecological risks, that patenting life forms commodifies the commons, and that GMOs deepen farmer dependence on corporate seed suppliers rather than building self-reliance. Fukuoka's unique contribution was framing these concerns within a philosophical and spiritual context — he saw biotechnology not merely as a technical error but as a symptom of humanity's deeper estrangement from nature.
+He specifically criticized the reductionist premise behind biotechnology: that individual genes can be isolated, modified, and inserted without unintended consequences. In his view, the genetic code was not a simple instruction manual but part of an interconnected whole that had evolved over millions of years. Altering one component without understanding the full system was, to Fukuoka, akin to randomly rewiring an airplane mid-flight. This perspective aligns with his broader [[comparison-natural-farming-vs-permaculture]] movement's resistance to genetically modified organisms (GMOs) draws on arguments similar to Fukuoka's: that the unpredictability of genetic modification poses ecological risks, that patenting life forms commodifies the commons, and that GMOs deepen farmer dependence on corporate seed suppliers rather than building self-reliance. Fukuoka's unique contribution was framing these concerns within a philosophical and spiritual context — he saw biotechnology not merely as a technical error but as a symptom of humanity's deeper estrangement from nature.
 
 ## Comparison with Other Critics of Agricultural Biotechnology
 
@@ -117,8 +96,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[doc]]
 - [[dom]]
-- [[permaculture]]
 - [[fukuoka-textdoc-genetic-engineering-critique-warning]]
 - [[fukuoka-textdoc-genetic-engineering-warning]]

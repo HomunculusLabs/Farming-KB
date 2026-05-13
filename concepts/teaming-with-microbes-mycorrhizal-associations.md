@@ -33,13 +33,7 @@ Endomycorrhizal fungi actually penetrate and grow inside roots as well as extend
 
 Both types can extend the reach and surface area of plant roots dramatically. The effective surface area of a tree's roots can be increased 700 to 1000 times by mycorrhizal association. This massive extension allows plants to access water and nutrients far beyond the physical reach of their root systems.
 
-The longer a root is alive, the more extensive the [[arbuscular-mycorrhizal-network-visualization-anastomosis]] becomes. This is why perennial plants and trees benefit so much more from mycorrhizae than short-lived annuals — the fungi have time to establish and branch extensively.
-
-## Nutrient mining — especially phosphorus
-
-Finding and transporting phosphorus appears to be a major function of mycorrhizal fungi. The acids produced by mycorrhizal fungi can unlock, retrieve, and transport chemically locked-up phosphorus back to the host plant. They also free up copper, calcium, magnesium, zinc, and iron for plant use.
-
-Any nutrient compounds not delivered to plant roots are locked in the fungi and released when the fungi die and are decayed by other members of the [[teaming-with-microbes-overview]]. This prevents pathogenic and parasitic fungi from invading the plant. Beneficial mycorrhizal fungi compete with pathogens like Pythium and Rhizoctonia (which cause stem and root rot) for space and nutrients.
+The longer a root is alive, the more extensive the [[teaming-with-microbes-overview]]. This prevents pathogenic and parasitic fungi from invading the plant. Beneficial mycorrhizal fungi compete with pathogens like Pythium and Rhizoctonia (which cause stem and root rot) for space and nutrients.
 
 When mycorrhizal populations are reduced by poor gardening practices, plants lose this physical barrier and become vulnerable to root rots and other diseases. The soil food web populations must be in balance, or mycorrhizal fungi are consumed by other organisms and the plant suffers.
 
@@ -47,31 +41,21 @@ When mycorrhizal populations are reduced by poor gardening practices, plants los
 
 All soil fungi are very fragile. Mycorrhizal fungi are damaged or destroyed by:
 
-- **Soil compaction** — fungal tubes are crushed and fungi killed; roots cannot move through compacted soil and lose their [[dighton-ericoid-mycorrhizal-nutrient-acquisition]] delivery system
-- **Fungicides and pesticides** — chemicals suck the cytoplasm out of the fungal body, killing the organism
-- **[[ingham-inorganic-fertilizers-soil-biology-damage]]** — high NPK numbers (all three above 10) kill fragile fungi (Rule #13); these are not just bad for mycorrhizae but for the entire soil food web
-- **Rototilling and [[comparison-double-digging-vs-no-till]]** — simply break up the hyphae (Rule #18); [[dighton-mycorrhizal-networks-carbon-transfer]] that took months to establish are destroyed in an instant
+- **Soil compaction** — fungal tubes are crushed and fungi killed; roots cannot move through compacted soil and lose their [[ingham-inorganic-fertilizers-soil-biology-damage]]** — high NPK numbers (all three above 10) kill fragile fungi (Rule #13); these are not just bad for mycorrhizae but for the entire soil food web
+- **Rototilling and [[dighton-mycorrhizal-networks-carbon-transfer]] that took months to establish are destroyed in an instant
 - **Air pollution** — particularly nitrogenous substances, which decrease fruiting bodies of mycorrhizal fungi
 
 ## Nitrogen form and mycorrhizal preference
 
-[[teaming-with-microbes-soil-ph-and-biology]], suppressing nitrifying bacteria. Most trees, shrubs, and perennials — the plants that form mycorrhizae — prefer ammonium nitrogen (Rule #3).
-
-Vegetables, annuals, and grasses prefer nitrate nitrogen and do best in bacterially dominated soils (Rule #2). The fungal-to-bacterial ratio of the soil directly affects what form of nitrogen is available and therefore which plants thrive.
-
-## Plants that do not form mycorrhizae
-
-Notable non-mycorrhizal plants include many members of the Brassicaceae family (cabbages, mustards, and related vegetables). These plants have evolved alternative strategies for nutrient acquisition and do not benefit from [[teaming-with-fungi-mycorrhizal-inoculation-techniques]].
+[[teaming-with-fungi-mycorrhizal-inoculation-techniques]].
 
 ## Supporting mycorrhizae in practice
 
 To support mycorrhizal fungi in your garden:
 
-- Avoid [[teaming-with-microbes-mulch-and-soil-food-web]] that support [[teaming-with-microbes-compost-biology]] and mulch
+- Avoid [[teaming-with-microbes-compost-biology]] and mulch
 - Avoid compacted soils around trees, shrubs, and perennials
-- Use [[teaming-with-microbes-fungi-the-underground-network]]
-- [[teaming-with-microbes-tilling-damage-to-fungal-networks]]
-- [[ectomycorrhizal-mushroom-fruiting-ecology]]
+- Use [[teaming-with-microbes-tilling-damage-to-fungal-networks]]
 - [[endomycorrhizal-fungi-sampling]]
 ## Practical Considerations
 
@@ -91,3 +75,75 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
+
+## Overview
+
+Teaming With Microbes Mycorrhizal Associations represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish teaming with microbes mycorrhizal associations
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving teaming extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Teaming With Microbes Mycorrhizal Associations finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for teaming with microbes mycorrhizal associations. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+teaming with microbes mycorrhizal associations and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Teaming With Microbes Mycorrhizal Associations has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of teaming with microbes mycorrhizal associations into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions

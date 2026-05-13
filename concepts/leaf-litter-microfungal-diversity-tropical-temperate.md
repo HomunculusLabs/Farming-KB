@@ -16,13 +16,11 @@ type: concept
 
 # Leaf Litter Microfungal Diversity
 
-The microfungal communities associated with decomposing [[allegro-star-of-the-morning-venus-and-the-sacred-mushroom]] most diverse yet poorly documented components
-of terrestrial [[arbuscular-mycorrhizal-fungal-diversity-patterns-distribution]] than soil, and tropical forests harbor particularly
+The microfungal communities associated with decomposing [[arbuscular-mycorrhizal-fungal-diversity-patterns-distribution]] than soil, and tropical forests harbor particularly
 rich and understudied assemblages. Sampling studies from temperate
 and tropical sites reveal striking patterns in species richness,
-[[core-endorhiza-bacterial-community-composition-cannabis]], [[staycare-arbuscular-mycorrhizal-fungi-in-hydrocarbon-remediation]] leaf litter is significantly greater than
-that [[fungal-succession-in-decomposition]]
-- [[leaf-based-photoperiodic-perception]]
+[[staycare-arbuscular-mycorrhizal-fungi-in-hydrocarbon-remediation]] leaf litter is significantly greater than
+that [[leaf-based-photoperiodic-perception]]
 ## Practical Applications
 
 Leaf Litter Microfungal Diversity - Tropical and Temperate Patterns has a range of practical applications that make it relevant to

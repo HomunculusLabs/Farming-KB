@@ -21,31 +21,7 @@ This distinction has profound implications for ecological interpretation. An rDN
 survey may reveal hundreds of fungal taxa in a soil sample, but many of those
 organisms may be present only as dormant spores or residual extracellular DNA.
 An rRNA survey of the same sample reveals the subset of those organisms that are
-actively growing, respiring, and participating [[fungi-in-ecosystem-processes-dighton]] at that
-moment.
-
-## Why the Ribosomal Operon?
-
-The fungal rDNA is arranged in tandem repeats in multiple copies per genome. Each
-repeat contains both coding regions for the primary rRNAs (18S, 5.8S, 28S in the
-large subunit; 18S is also called SSU or small subunit) and non-coding internal
-transcribed spacer (ITS) regions with varying levels of sequence conservation.
-The ITS region has been adopted as the standard barcode for fungal identification,
-while the 18S region is useful for broader phylogenetic placement.
-
-The multi-copy nature of rDNA provides high sensitivity — even organisms present
-in low abundance can be detected because each cell contributes multiple template
-copies for PCR amplification. However, this same feature complicates quantitative
-interpretation, as copy number varies among taxa.
-
-## Limitations of rDNA-Based Surveys
-
-rDNA persists in environmental DNA pools for organisms that maintain no metabolic
-activity. Environmental DNA can include:
-
-- DNA from dead organisms (necromass)
-- Extracellular DNA adsorbed to soil particles
-- DNA from dormant spores [[fungal-sclerotia-and-resting-structures]]
+actively growing, respiring, and participating [[fungal-sclerotia-and-resting-structures]]
 - DNA from organisms that were once active but are no longer contributing to
   ecosystem function
 
@@ -109,10 +85,7 @@ DNA-based surveys overestimate active diversity.
 
 ## The Konza Prairie Study System
 
-The comparative study was conducted in the rhizosphere of *[[andropogon-gerardii]]*
-(big bluestem) at the Konza Prairie LTER site in eastern Kansas. This native
-tallgrass prairie is dominated by big bluestem, Indiangrass (*Sorghastrum
-nutans*), little bluestem (*[[schizachyrium-scoparium]]*), and switchgrass (*Panicum
+The comparative study was conducted in the rhizosphere of *[[schizachyrium-scoparium]]*), and switchgrass (*Panicum
 virgatum*). The site represents tallgrass prairie under a frequent fire cycle,
 providing a well-characterized ecological context for community analysis.
 
@@ -133,14 +106,6 @@ studies where functional interpretation is the primary goal.
 ## Implications for Symbiotic Fungi Research
 
 For mycorrhizal research, the rRNA/rDNA distinction is particularly relevant.
-[[arbuscular-mycorrhizal-fungi]] (AMF) form intraradical hyphae and arbuscules that
-may persist in root tissue after metabolic activity ceases. rDNA surveys of roots
-may detect AMF species that are no longer actively exchanging nutrients with the
-host plant, while rRNA surveys reveal the truly functional symbiotic partnerships.
-
-## See Also
-
-- [[rhizosphere-fungal-community-analysis-rrna-rdna]]
-- [[symbiotic-fungi-arbuscular-mycorrhizal-mechanisms]]
+[[rhizosphere-fungal-community-analysis-rrna-rdna]]
 - [[arbuscular-mycorrhizal-fungal-diversity-patterns-distribution]]
 - [[arbuscular-mycorrhizal-fungi-biology-symbiosis]]

@@ -108,13 +108,8 @@ The species exhibits relatively low invasive potential outside its native range 
 
 ## See Also
 
-- [[jasminum-officinale]]
 - [[syringa-vulgaris]]
-- [[camellia-japonica]]
 - [[hedera-helix]]
-- [[hydrangea-macrophylla]]
 - [[magnolia-stellata]]
-- [[edgeworthia-chrysantha]]
 - [[forsythia-suspensa]]
-- [[ligustrum-vulgare]]
 - [[fraxinus-pennsylvanica]]

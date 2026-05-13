@@ -8,8 +8,7 @@ topics: [water dipole, rotational transition, microwave physics, dielectric heat
 
 ## Overview
 
-The [[nasa-microwave-sterilization-challenge-organisms-kill-kinetics]] study identifies the fundamental physical mechanism
-underlying [[challenge-microorganisms-microwave-surface-sterilization]] sterilization: **2.45 GHz microwaves directly couple
+The [[challenge-microorganisms-microwave-surface-sterilization]] sterilization: **2.45 GHz microwaves directly couple
 with the rotational transitions of dipolar water molecules**. This interaction between
 electromagnetic radiation and molecular dipoles is the basis for all microwave heating
 and is critical to understanding why trace water enhances the sterilization process.
@@ -88,3 +87,11 @@ how efficiently a material converts microwave energy to heat:
 
 | Material | ε″ at 2.45 GHz | Microwave Response |
 |----------|----------------|-------------------|
+
+## See Also
+
+- [[query-how-do-i-plan-rotational-grazing-for-soil-health]]
+- [[comparison-rotational-grazing-vs-set-stocking]]
+- [[comparison-rotational-grazing-vs-continuous-grazing]]
+- [[rotational-transition-water-dipole-microwave-sterilization-physics]]
+- [[query-how-to-transition-from-conventional-to-no-till-farming]]

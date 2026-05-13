@@ -13,8 +13,7 @@ tags: [dmt, tryptamine, phenomenology, consciousness, psychedelics, mckenna]
 ## Overview
 
 Dimethyltryptamine (DMT) is an endogenous hallucinogenic tryptamine found in small
-amounts in the human brain. [[terence-mckenna]], in his 1983 Esalen lecture later published
-in *The [[mckenna-archaic-revival-four-part-structure-paradise-paradise-lost-hell-regained]]* (1992), described DMT as producing the most intense
+amounts in the human brain. [[mckenna-archaic-revival-four-part-structure-paradise-paradise-lost-hell-regained]]* (1992), described DMT as producing the most intense
 hallucinogenic experiences known — experiences so radically alien that they challenge
 fundamental assumptions about consciousness, reality, and the nature of mind. The
 "tryptamine hypercontinuum" refers to McKenna's concept that DMT, psilocybin, and
@@ -24,25 +23,7 @@ translinguistic, hyperdimensional experience that he termed the "world of the Lo
 ## Onset and Sensory Phenomenology
 
 DMT, when smoked, has an onset of approximately fifteen seconds. The initial
-experience includes a distinctive sound described as "[[mckenna-dmt-onset-phenomenology-ripping-cellophane]]" or
-"crumpling plastic film." An ascending tone is heard, and a shifting geometric
-surface of migrating, changing colored forms appears — the normal hallucinogenic
-modality. At peak activity, all available receptor sites become occupied, and a
-complete mode shift occurs over approximately thirty seconds.
-
-The phenomenology is distinguished from other hallucinogens by:
-- Extreme intensity and concentration in the visual cortex
-- Immense vividness of interior landscapes, presented three-dimensionally
-- Information deployed "fourth-dimensionally," coded as evolving surfaces of light
-- The subjective sense of arriving in a space that feels "underground" or
-  "insulated and domed" — McKenna referenced James Joyce's term from *Finnegans
-  Wake*, the "merry go raum" (German *raum*, "space")
-
-## Self-Transforming Machine Elves
-
-A hallmark of the DMT experience, as described by McKenna, is the encounter with
-what he called "self-transforming machine elves" in *The Invisible Landscape*
-(co-authored with [[dennis-mckenna]]). These entities are described as:
+experience includes a distinctive sound described as "[[dennis-mckenna]]). These entities are described as:
 
 - Dynamically contorting topological modules distinct from their surrounding background
 - Hyperdimensional beings that undergo continuous self-transformation
@@ -63,11 +44,7 @@ McKenna argued that psilocybin and DMT "invoke the Logos" — they work directly
 on the language centers of the brain, making interior dialogue a primary feature
 of the experience. The entities produce sounds that pass without quantized moments
 of distinction, moving seamlessly from "things heard to things beheld" (a quality
-[[mckenna-philo-judaeus-logos-hearing-to-beholding]] attributed to the perfected Logos).
-
-The experience presents "translinguistic objects" — feeling-toned, meaning-toned,
-three-dimensional rotating complexes of transforming light and color. When humans
-encounter such objects, [[mckenna-cognitive-dissonance-translinguistic-object]] arises because language cannot
+[[mckenna-cognitive-dissonance-translinguistic-object]] arises because language cannot
 encompass them. The attempt to "pour language over" these objects produces wonder,
 astonishment, and awe bordering on terror.
 
@@ -75,11 +52,7 @@ McKenna distinguished this from classical glossolalia (speaking in tongues as
 studied in religious contexts). The DMT-induced phenomenon is a brain state that
 allows expression of what he called an "assembly language" behind language — a
 primal "Ursprache" (original language) akin to what Robert Graves described in
-*The [[mckenna-primal-ursprache-kabbalistic-zohar-and-white-goddess-glossolalia]]* or what the Kabbalistic Zohar describes.
-
-## Quantum Mechanical Correlates
-
-McKenna noted that John Smythies, [[alexander-shulgin]], and others demonstrated
+*The [[alexander-shulgin]], and others demonstrated
 quantum mechanical correlates to hallucinogenesis. Moving a single atom on the
 molecular ring of an inactive compound can make it highly active — which McKenna
 saw as "perfect proof of the dynamic linkage at the formative level between
@@ -118,8 +91,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[dmt-phenomenology]]
 - [[tryptamine-hypercontinuum]]
-- [[dmt]]
 - [[tryptamine]]
 - [[ayahuasca]]

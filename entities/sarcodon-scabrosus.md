@@ -47,7 +47,7 @@ The species was originally described as *Hydnum scabrosum* by Elias Fries in 182
 - **Flesh**: Thick, firm, white to cream-colored, staining pinkish-brown to reddish on exposure; extremely bitter taste persisting for hours
 - **Hymenium (teeth/spines)**: Dark brown to purplish-brown spines 4–10 mm long, decurrent (running down the stem); brittle, easily breaking off
 - **Stem**: 3–8 cm × 1–3 cm, central, solid; brown to dark brown with a scaly surface similar to the cap; often eccentric or off-center
-- **Spore print**: Dark brown to brownish-olive
+- **[[spore-print]]**: Dark brown to brownish-olive
 - **Odor**: Indistinct to faintly mealy or farinaceous
 
 ## Microscopic Features
@@ -65,15 +65,7 @@ The species was originally described as *Hydnum scabrosum* by Elias Fries in 182
 - **Northern Europe**: Scandinavia, British Isles, Germany, Poland, Russia
 - **Central and Southern Europe**: Alps, Carpathians, Balkans
 - **Asia**: Siberia, Japan, Korea, northern China
-- **[[psilocybin-north-america-pacific-northwest]]**: Reported from the Pacific Northwest, though some of these collections may represent distinct species
-
-Fruiting occurs August through November, typically in old-growth or mature coniferous forests on acidic soils. The fungus is relatively common within suitable habitat but declining in areas with intensive forestry and habitat fragmentation. It is listed as **Near Threatened** in several European countries.
-
-## Ecological Role
-
-As an ectomycorrhizal partner, *S. scabrosus* provides its host trees with enhanced [[plant-nutrient-uptake-mechanisms]] (particularly phosphorus and nitrogen) and water access through an extensive extramatrical [[gadd-mycelial-network-dynamics]]. In return, the fungus receives photosynthetically derived carbon compounds. The species contributes to forest soil ecology through:
-
-- Decomposition of soil [[hamilton-composting-and-organic-matter-management]] via its saprotrophic capabilities at the hyphal front
+- **[[plant-nutrient-uptake-mechanisms]] (particularly phosphorus and nitrogen) and water access through an extensive extramatrical [[hamilton-composting-and-organic-matter-management]] via its saprotrophic capabilities at the hyphal front
 - Formation of nutrient-rich aggregation sites in the mycorrhizosphere
 - Supporting soil microbial communities through exudate production
 - Serving as a food substrate for soil microarthropods and nematodes

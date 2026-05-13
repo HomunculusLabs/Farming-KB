@@ -8,35 +8,7 @@ type: concept
 
 ## Overview
 
-Urban areas and degraded landscapes represent both the greatest challenge and the greatest opportunity for [[permaculture]]. Mollison documents how vacant lots, rooftops, walls, and food waste streams can be transformed into productive systems, while simultaneously presenting the Hawaiian *ohana* and Māori *marae* as models of integrated land management that integrate human settlements with their ecological context from hilltop to shoreline.
-
-## Urban Agriculture
-
-### Vacant Land Transformation
-
-The Green Guerillas of the Bronx, New York, transform vacant land in urban wastelands into productive, beautiful, and recreational spaces as city farms. This model demonstrates that urban decay can be reversed through community-driven agricultural action, turning neglected parcels into assets that produce food, build community, and improve neighborhood safety.
-
-### Glide Farm: Urban Herb Production
-
-Glide Farm in the South Bronx produces 8% of New York City's herbs while providing employment for many people in an area of urban decay. This demonstrates that even small urban agricultural operations can achieve significant market share when they focus on high-value crops suited to intensive urban production.
-
-### Schreber Gardens (Germany)
-
-The productive Schreber gardens adjoin almost every settlement in West Germany, providing food and much-needed recreation in cities. People are permitted to spend weekends on these mini-farms. This model represents a widespread cultural integration of urban agriculture into everyday life, where allotment gardening is recognized as essential infrastructure rather than a hobby.
-
-### Urban Building Surfaces as Agricultural Space
-
-Mollison argues that most urban buildings should be regarded as additional agricultural space:
-
-- **Sun-facing walls** provide radiant heat for marginal crops — espaliered pears grow well on west or sun-facing walls, "softening" the hard surfaces of urban buildings
-- **Trellis systems** over alleys, shopping complexes, and building walls create vertical growing space
-- **Rooftops** with ice plants and herbs provide active cooling through transpiration and shade (documented at Village Homes, Davis, California)
-
-This reframing transforms the urban environment from an agricultural wasteland into one of the most productive landscape types per unit area, because vertical surfaces, waste heat, and concentrated human populations create unique advantages.
-
-### Composting Urban Food Waste
-
-The Bronx Frontier group operates a small [[composting]] business — documented as "the only example of productive use of New York's food waste." The compost produced is sold off-site to create meadows over rubble-filled wastelands, completing a cycle from urban waste to urban greening.
+Urban areas and degraded landscapes represent both the greatest challenge and the greatest opportunity for [[composting]] business — documented as "the only example of productive use of New York's food waste." The compost produced is sold off-site to create meadows over rubble-filled wastelands, completing a cycle from urban waste to urban greening.
 
 This model is particularly significant because it addresses two urban problems simultaneously: food waste disposal and the rehabilitation of degraded land.
 
@@ -105,7 +77,7 @@ Based on traditional and modern villages, Mollison provides a checklist for buil
 
 ## Evolving a Polyculture on Degraded Land
 
-When starting to evolve permaculture on grasslands or compacted soils, the process follows a specific sequence:
+When starting to evolve [[permaculture]] on grasslands or compacted soils, the process follows a specific sequence:
 
 ### Site Preparation
 1. Thoroughly plan the site
@@ -132,7 +104,7 @@ All larger planting holes should be seeded with nasturtium, Dolichos, Haifa clov
 
 Mollison states: "It is far better to occupy a quarter hectare thoroughly than to scatter trees over 2 hectares, as production is higher and maintenance less, moisture is conserved, and frost excluded."
 
-This principle is central to permaculture design: intensive management of a smaller area outperforms extensive management of a larger area in terms of total yield per unit of input.
+This principle is central to [[permaculture-design]]: intensive management of a smaller area outperforms extensive management of a larger area in terms of total yield per unit of input.
 
 ## Key Principles
 
@@ -145,6 +117,5 @@ This principle is central to permaculture design: intensive management of a smal
 7. **Village design integrates all functions**: Housing, food production, water, fuel, processing, and community facilities form an interconnected system
 ## See also
 
-- [[permaculture-design]]
 - [[urban-guerrilla-gardening]]
 - [[water-catchment-urban-permaculture]]

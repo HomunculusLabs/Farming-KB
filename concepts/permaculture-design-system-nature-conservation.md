@@ -8,10 +8,6 @@ type: concept
 
 ## Overview
 
-[[permaculture]] as a design system addresses three parallel responses to environmental degradation: caring for surviving natural assemblies, rehabilitating degraded land, and creating complex living environments that meet human needs on minimal land. The system distinguishes between anthropocentric (human-centered) settlement design and nature-centered conservation ethics, arguing that both are essential and mutually reinforcing.
-
-## The Design Framework
-
 [[permaculture-design]] is defined as the result of a unique assembly of constructs, species, and social systems into a unique pattern suited to a specific site and set of occupants. The design process integrates:
 
 - **Inorganic elements**: Earth-shaping, water supply
@@ -82,3 +78,11 @@ The end result of adopting permaculture strategies is a dramatic reduction in th
 
 ## See Also
 - [[permaculture-landscape-society-anthropocentric-nature-centered-design]]
+
+## See Also
+
+- [[nut-tree-cultivation-for-permaculture-food-forests]]
+- [[stametsian-permaculture-model]]
+- [[permaculture-farm-design-principles]]
+- [[nitrogen-fixing-plants-in-permaculture]]
+- [[urban-permaculture-and-integrated-land-management]]

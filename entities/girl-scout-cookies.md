@@ -9,22 +9,12 @@ sources:
   - "general oner-cannabis-breeding-fundamentals and cultivation knowledge"
 ---
 
-Girl Scout Cookies (GSC) is a highly influential hybrid [[blesching-cannabis-strain-selection-receptor-targeting]]
-that originated in the [[san-francisco-shipibo-ayahuasca-ceremonial-center]] Bay Area around 2010-2012. Created
+Girl Scout Cookies (GSC) is a highly influential hybrid [[san-francisco-shipibo-ayahuasca-ceremonial-center]] Bay Area around 2010-2012. Created
 by crossing the OG Kush-descended "F1 Durb" (a Durban Poison x OG Kush
 hybrid) with an unknown Cookies cutting rumored to be an F1 from a
-Florida OG x [[granddaddy-purple]] cross, GSC quickly became one of the
-most recognizable and commercially significant [[cannabis-microbiome-otu-abundance-vs-presence-cannabis-strains]] in the
+Florida OG x [[cannabis-microbiome-otu-abundance-vs-presence-cannabis-strains]] in the
 world. It is the foundational mother of the broader "Cookies" genetic
-family, which includes [[thin-mint-cookies]], Forum Cookies, and dozens of
-commercial offspring.
-
-## Genetic Lineage
-
-| Parent | Role | Notable Traits |
-|--------|------|----------------|
-| OG Kush (via F1 Durb) | Pollen donor | Fuel aroma, high potency, indica structure |
-| Durban Poison (via F1 Durb) | Grandparent | Sweet [[cannabis-terpene-profile]], uplifting sativa effect |
+family, which includes [[cannabis-terpene-profile]], uplifting sativa effect |
 | Florida OG (rumored) | Maternal grandparent | Potency, [[cannabis-glandular-trichome-types-resin-production-clarke]], OG terpene profile |
 | Granddaddy Purple (rumored) | Paternal grandparent | Coloration, berry notes, indica relaxation |
 

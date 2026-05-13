@@ -52,16 +52,7 @@ The Grail, the Eucharist, the Soma ceremony, the Ambrosia feast — all are the 
 
 ---
 
-*See also: [[amanita-muscaria-herb-of-immortality-soma-hypothesis]] · [[amanita-muscaria-maga-great-gift-magi-magic-etymology]] · [[amanita-herb-maga-magic-great-gift]]*
-
-## Vessel Technology and Mythic Memory
-
-The Grail interpretation depends on a practical premise: a valuable medicine is easier to remember when it is attached to a durable ritual object.
-A clay vessel can outlast a season, a harvest, and even the particular healer who used it.
-That durability helps explain why the pot or cup becomes more prominent in legend than the perishable mushroom itself.
-In this reading, the Grail is not just a symbol of grace but the remembered container of a preparation method.
-The emphasis on drinking, restoration, and guarded access fits a technology that required correct species identification, dose control, and ritual discipline.
-The vessel also provides a bridge to Allegro's pot and jar symbolism in [[allegro-persephone-kore-pluto-easter-anthesteria-festival]].
+*See also: [[amanita-muscaria-maga-great-gift-magi-magic-etymology]] · [[allegro-persephone-kore-pluto-easter-anthesteria-festival]].
 Both pages treat containers as ritual interfaces between ordinary food and sacred pharmacology.
 
 ## Cautions About Pharmacological Claims
@@ -72,15 +63,7 @@ Historical claims about antibiotic or anti-inflammatory value may preserve real 
 Legends of complete healing compress many different outcomes into a single narrative motif.
 A wound that improved after ritual treatment could be remembered as miraculous even when the mechanism was mixed: rest, cleaning, suggestion, social care, and plant chemistry.
 For that reason, the Grail tradition is best treated as a mythologized memory of medicinal practice, not as proof of universal curative power.
-The related page [[amanita-muscaria-medicinal-properties-heart-anxiety-dreams]] is a better place to separate specific claimed effects from broader mythic themes.
-
-## Comparative Pattern
-
-The repeated Indo-European terms for divine food or drink are significant because they point to a shared grammar of sacred ingestion.
-Ambrosia, amrita, soma, nectar, and Grail liquid all name substances that blur food, medicine, and revelation.
-The stories differ in theology but agree that immortality is mediated by a special consumable held or served in a special vessel.
-That shared pattern makes the Grail useful as a comparative node for mushroom studies even when individual etymologies remain uncertain.
-It also links the page to [[mushroom-cultivation-for-disabilities-training-program]] only by contrast: here the concern is mythic preservation, while modern cultivation manuals preserve procedures explicitly.
+The related page [[mushroom-cultivation-for-disabilities-training-program]] only by contrast: here the concern is mythic preservation, while modern cultivation manuals preserve procedures explicitly.
 In both cases, reliable transmission of preparation knowledge is the key issue.
 
 ## Practical Applications
@@ -112,8 +95,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[amanita-muscaria]]
 - [[amanita-muscaria-pharmacology]]
-- [[amanita]]
 - [[dom]]
 - [[det]]

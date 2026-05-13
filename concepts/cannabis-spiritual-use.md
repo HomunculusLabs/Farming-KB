@@ -34,9 +34,7 @@ practice and other well-established sacramental traditions:
   cannabis should hold an analogous sacred role in pagan practice.
 - **Rastafarianism** recognizes cannabis as a holy sacrament central to
   worship, meditation, and connection with Jah.
-- **[[halpern-sacramental-peyote-and-native-american-church]] traditions** employ peyote and ayahuasca as ceremonial
-  tools to attain states conducive to communication with the divine.
-- The **[[allegro-dead-sea-scrolls-and-early-christian-sects]] church** may have incorporated cannabis into its
+- **[[allegro-dead-sea-scrolls-and-early-christian-sects]] church** may have incorporated cannabis into its
   practices, as Sativus suggests, noting that the sacred role of this herb is
   "not something that is foreign or alien to the earth but rather comes out of
   it naturally."
@@ -77,9 +75,8 @@ cannabis becomes a tool for enhancement rather than escape.
 
 This mirrors the broader anthropological observation that the same substance
 can serve radically different functions depending on the context and mindset
-of the user, a concept sometimes called "[[blessing-ground-ritual]] for the earth-blessing ceremony
-- [[cannabis-fire-ritual]] for the fire celebration ceremony
-- [[cannabis-anointing-oil]] for the [[cannabis-anointing-oil-blessing-rituals]] ritual
+of the user, a concept sometimes called "[[cannabis-fire-ritual]] for the fire celebration ceremony
+- [[cannabis-anointing-oil-blessing-rituals]] ritual
 
 ## Practical Applications
 
@@ -110,8 +107,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[ayahuasca]]
 - [[cannabis-spiritual-ritual-use]]
-- [[query-how-to-use-neem-oil-for-cannabis-pest-control]]
 - [[query-how-do-i-use-cover-crops-in-a-no-till-cannabis-garden]]
 - [[query-how-do-i-use-mycorrhizal-inoculants-when-growing-cannabis]]

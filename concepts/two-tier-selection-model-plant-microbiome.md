@@ -10,34 +10,12 @@ soil-selection, root-microbiome]
 
 ## Overview
 
-The two-tier selection model is a [[holmgren-permaculture-flower-conceptual-framework]] for understanding
-how
-plant root microbiomes are assembled. Originally proposed by Saharan et
-al.
-(2021) and adapted for Cannabis by rehabilitative microbiome research,
-the
-model proposes that microbial community assembly in the rhizosphere
-operates
-through two sequential filtering stages: first by [[soil-edaphic-factors-microbial-communities]]
+The two-tier selection model is a [[soil-edaphic-factors-microbial-communities]]
 (abiotic and biotic soil properties), and second by host plant genotype
 (cultivar-specific selection pressures). This framework explains why
 different plant species — and different cultivars within a species —
 harbor
-distinct [[cultivar-specific-root-microbial-communities]] even when grown in identical soils.
-
-## First Tier: Soil Selection
-
-The first tier of microbial selection is driven by the soil itself. Soil
-edaphic factors — including pH, organic matter content, moisture,
-nutrient
-availability, salinity, and texture — create a primary filter that
-determines which microorganisms are available in the soil microbial
-reservoir to potentially colonize plant roots. The soil microbial pool
-is
-shaped by long-term ecological processes including vegetation history,
-climate, and land management practices.
-
-[[soil-physicochemical-properties-cannabis-microbiome-assembly-winston]] directly select for microorganisms
+distinct [[soil-physicochemical-properties-cannabis-microbiome-assembly-winston]] directly select for microorganisms
 adapted
 to specific environmental conditions. Acidic soils favor acidophilic
 bacteria and fungi, while alkaline soils support alkaliphilic
@@ -91,28 +69,7 @@ The two tiers are not strictly independent. The soil environment
 influences
 root exudate composition — plants alter their exudate profiles in
 response
-to soil [[ph-and-nutrient-availability-garden-soils]], pH, and microbial community composition.
-Conversely, host-mediated selection can modify the rhizosphere soil
-community over time, creating feedback loops between plant and soil
-microbial dynamics.
-
-In agricultural systems, this interaction has practical implications.
-Breeding programs that select for specific cultivar traits may
-inadvertently
-alter root microbiome composition, affecting plant health and nutrient
-acquisition. Soil management practices (amendments, crop rotation,
-tillage)
-can shift the first-tier selection, potentially overriding or modifying
-cultivar-specific second-tier effects.
-
-## Implications for Cannabis Cultivation
-
-For Cannabis specifically, the two-tier model has significant
-implications.
-Different cultivars selected for specific cannabinoid and terpene
-profiles
-may also harbor distinct microbiomes that contribute to plant health,
-stress tolerance, and potentially [[fungal-elicitors-enhanced-secondary-metabolite-production]]. The
+to soil [[fungal-elicitors-enhanced-secondary-metabolite-production]]. The
 strong cultivar effect observed in endophyte communities suggests that
 microbiome management should be cultivar-specific rather than generic.
 
@@ -127,8 +84,6 @@ host genetics.
 
 ## See Also
 
-- [[cannabis-endorhiza-microbiome]]
-- 
 - [[cultivar-specificity-plant-microbiomes]]
 
 ## References

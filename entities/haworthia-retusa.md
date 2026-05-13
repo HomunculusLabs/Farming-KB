@@ -109,13 +109,8 @@ The species is non-toxic to pets and humans. This makes it suitable for househol
 
 ## See Also
 
-- [[haworthia-fasciata]]
 - [[haworthia-cooperi]]
-- [[gasteria-verrucosa]]
 - [[aloe-vera]]
-- [[aloe-aristata]]
 - [[echeveria-elegans]]
-- [[conophytum-bilobum]]
 - [[lithops-lesliei]]
-- [[crassula-ovata]]
 - [[faucaria-tigrina]]

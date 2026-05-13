@@ -19,23 +19,7 @@ sources:
 
 # Daldinia concentrica
 
-**Daldinia concentrica** is a saprotrophic ascomycete fungus commonly known as **King Alfred's cakes**, **cramp balls**, or **carbon balls**. It is one of the most recognizable pyrenomycetes in temperate forests worldwide, forming hard, hemispherical, charcoal-like stromata on dead and dying hardwood. The fungus has a long history of human use as fire-starting tinder, and recent research has revealed a rich chemistry of bioactive [[antifungal-secondary-metabolites-coprophilous-fungi]] including antimicrobial and cytotoxic compounds. Its concentric internal zonation — alternating dark and light rings visible in cross-section — is diagnostic and gives the species its epithet.
-
-## Taxonomic Classification
-
-| Feature | Description |
-|---------|-------------|
-| **Kingdom** | Fungi |
-| **Phylum** | Ascomycota |
-| **Class** | Sordariomycetes |
-| **Order** | Xylariales |
-| **Family** | Xylariaceae |
-| **Genus** | *Daldinia* Ces. & De Not. |
-| **Species** | *D. concentrica* (Bolton) Ces. & De Not. |
-| **Authority** | Originally described as *Sphaeria concentrica* by Bolton (1791) |
-| **Type** | Saprotrophic, facultatively endophytic |
-
-The genus *Daldinia* contains approximately 20 described species worldwide. *D. concentrica* is the type species and the most widely distributed member of the genus. Closely related species include *D. childiae* (tropical), *D. eschscholzii* (pantropical), and *D. vernicosa* ([[growing-gourmet-north-american-reishi-species]]). Molecular phylogenetics has shown that some previous *Daldinia* records represent species complexes requiring revision.
+**Daldinia concentrica** is a saprotrophic ascomycete fungus commonly known as **King Alfred's cakes**, **cramp balls**, or **carbon balls**. It is one of the most recognizable pyrenomycetes in temperate forests worldwide, forming hard, hemispherical, charcoal-like stromata on dead and dying hardwood. The fungus has a long history of human use as fire-starting tinder, and recent research has revealed a rich chemistry of bioactive [[growing-gourmet-north-american-reishi-species]]). Molecular phylogenetics has shown that some previous *Daldinia* records represent species complexes requiring revision.
 
 ## Morphology
 
@@ -56,15 +40,8 @@ The genus *Daldinia* contains approximately 20 described species worldwide. *D. 
 - **Asci**: Cylindrical, 8-spored, unitunicate, approximately 150–200 × 8–10 µm
 - **Spores**: Ellipsoidal to fusiform, brown to dark brown, unicellular, smooth-walled
 - **Spore dimensions**: 20–28 × 9–13 µm (a key diagnostic feature)
-- **[[malt-extract-agar]], *D. concentrica* produces initially white, rapidly spreading mycelium that darkens to gray-black. Growth rate is moderate (3–5 mm/day at 25°C). Colonies develop characteristic dark stromatic crusts in culture after 2–3 weeks. Anamorphic (asexual) conidial states belonging to the *Nodulisporium* type are frequently observed in culture.
-
-## Distribution and Habitat
-
-- **Geographic range**: Cosmopolitan in temperate regions; widespread across Europe, North America, Asia, and parts of Australasia
-- **Substrate**: Almost exclusively on dead or moribund hardwood, especially ash (*Fraxinus* spp.), beech (*Fagus* spp.), oak (*Quercus* spp.), birch (*Betula* spp.), and elm (*Ulmus* spp.)
-- **Occurrence**: Found year-round on standing [[fungal-dead-wood-diversity]], fallen branches, and stumps
-- **Ecology**: Primary decomposer of cellulose and lignin; contributes significantly to [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] in forest ecosystems
-- **Succession**: Often appears in mid-to-late stages of [[bloomfield-wood-decay-fungi-spalted-timber]] succession, following initial colonization by white-rot basidiomycetes
+- **[[fungal-dead-wood-diversity]], fallen branches, and stumps
+- **Ecology**: Primary decomposer of cellulose and lignin; contributes significantly to [[bloomfield-wood-decay-fungi-spalted-timber]] succession, following initial colonization by white-rot basidiomycetes
 
 ## Chemistry and Bioactive Compounds
 
@@ -74,11 +51,7 @@ The genus *Daldinia* contains approximately 20 described species worldwide. *D. 
 |---------------|----------|---------------------|
 | **Naphthoquinones** | Daldinin A–F, daldinone A–B | Antimicrobial, cytotoxic |
 | **Cytochalasins** | Daldinins, concentricol | Antifungal, anti-inflammatory |
-| **Xylarenone** | Xylarenone A | Cytotoxic against [[blesching-cannabis-apoptosis-and-cancer-cell-death]] lines |
-| **Daldinols** | Daldinol A–C | Antimicrobial, antioxidant |
-| **Pigments** | Melanin derivatives | UV protection, radical scavenging |
-
-Extracts of *D. concentrica* have shown activity against *Staphylococcus aureus*, *[[candida-albicans]]* in vitro. The cytochalasin compounds have attracted interest from pharmaceutical researchers for their microfilament-disrupting properties, though clinical applications remain investigational.
+| **Xylarenone** | Xylarenone A | Cytotoxic against [[candida-albicans]]* in vitro. The cytochalasin compounds have attracted interest from pharmaceutical researchers for their microfilament-disrupting properties, though clinical applications remain investigational.
 
 ## Ethnobotanical and Practical Uses
 
@@ -88,3 +61,80 @@ The common name "King Alfred's cakes" references the legend of King Alfred burni
 
 - When dry, the interior catches a spark from flint and steel and smolders for extended periods
 - This slow-burning property made it ideal for transporting fire between campsites
+
+## Overview
+
+Daldinia Concentrica represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish daldinia concentrica
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving daldinia extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Daldinia Concentrica finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for daldinia concentrica. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+daldinia concentrica and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Daldinia Concentrica has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of daldinia concentrica into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.

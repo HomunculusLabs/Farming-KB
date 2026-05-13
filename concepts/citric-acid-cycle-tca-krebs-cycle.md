@@ -13,10 +13,7 @@ sources: []
 The citric acid cycle, also known as the tricarboxylic acid
 (TCA) cycle or Krebs cycle, is a series of chemical
 reactions that oxidize acetyl-CoA derived from
-carbohydrates, fats, and proteins into [[carbon-dioxide-retention-jar-lid-mushroom-cultivation]] and
-chemical energy in the form of ATP, NADH, and FADH2. It is
-the central metabolic hub of aerobic cells, connecting
-catabolic pathways that [[query-can-fungi-break-down-plastic-pollution]] nutrients with anabolic
+carbohydrates, fats, and proteins into [[query-can-fungi-break-down-plastic-pollution]] nutrients with anabolic
 pathways that build cellular components. Discovered by Hans
 Krebs in 1937, the cycle takes place in the mitochondrial
 matrix in eukaryotes and in the cytoplasm of prokaryotes.
@@ -78,8 +75,7 @@ glucose.
 Succinate dehydrogenase oxidizes succinate to fumarate,
 reducing FAD to FADH2. Unique among TCA cycle enzymes, it is
 embedded in the inner mitochondrial membrane and serves as
-Complex II of the electron [[electron-transport-chain-mitochondrial-respiration]] chain, directly linking
-the cycle to [[knf-fish-amino-acid]] synthesis, succinyl-CoA for
+Complex II of the electron [[knf-fish-amino-acid]] synthesis, succinyl-CoA for
 heme synthesis, and citrate for fatty acid synthesis. These
 cataplerotic withdrawals must be replenished by anaplerotic
 reactions, principally pyruvate carboxylase (pyruvate to
@@ -117,8 +113,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[decarboxylation]]
 - [[ingham-citric-acid-chlorine-removal-water-treatment]]
-- [[lactic-acid-bacteria-lab]]
 - [[bloomfield-fly-agaric-amanita-muscaria-muscimol-ibotenic-acid-hallucinogens]]
 - [[cannabis-for-gerd-and-acid-reflux]]

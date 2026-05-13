@@ -18,7 +18,7 @@ Soil fungi serve as sensitive bioindicators of soil quality, providing integrate
 Soil fungi are particularly valuable bioindicators because they:
 
 - Respond rapidly to changes in soil management, chemistry, and physical structure
-- Play central roles in [[hamilton-composting-and-organic-matter-management]] decomposition, [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]], and soil aggregation
+- Play central roles in [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]], and soil aggregation
 - Form mycorrhizal symbioses essential for plant nutrition
 - Have specific habitat requirements that reflect overall soil conditions
 - Can be sampled and analyzed through multiple complementary methods
@@ -32,11 +32,7 @@ AMF bioindicators provide information on:
 - **Soil disturbance** — tillage, compaction, and chemical inputs reduce AMF diversity and colonization
 - **Plant health support capacity** — high AMF diversity indicates strong plant-fungal networks
 - **Soil aggregation** — AMF hyphae produce glomalin, a sticky protein that binds soil particles
-- **[[query-how-does-phosphorus-availability-change-across-soil-ph-levels]]** — AMF colonization intensity reflects soil phosphorus status
-
-### Saprotrophic Microfungi
-
-The diversity and [[core-endorhiza-bacterial-community-composition-cannabis]] of free-living soil fungi indicate:
+- **[[core-endorhiza-bacterial-community-composition-cannabis]] of free-living soil fungi indicate:
 
 - **Organic matter status** — diverse saprotrophic communities indicate active decomposition
 - **Pollution levels** — heavy metals, pesticides, and other contaminants shift community composition

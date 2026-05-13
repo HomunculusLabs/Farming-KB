@@ -12,7 +12,7 @@ type: comparison
 
 ## Overview
 
-Wattle and daub and straw bale construction are two of humanity's oldest
+Wattle and daub and [[straw-bale-construction]] are two of humanity's oldest
 building techniques, both relying on locally sourced, renewable materials
 to create insulated, breathable walls. Wattle and daub uses a woven
 wooden lattice packed with earthy mortar, while straw bale construction
@@ -23,10 +23,7 @@ sets required.
 
 ## Wattle and Daub
 
-[[natural-building]]
-
-Straw bale construction stacks standard agricultural bales of wheat,
-rice, oat, barley, or [[coleman-rye-straw-mat-cold-frame-insulation]] into walls, then plasters both faces
+[[coleman-rye-straw-mat-cold-frame-insulation]] into walls, then plasters both faces
 with earthen or lime-based plaster. Walls are typically 450 to 600 mm
 thick, producing deeply sculptural, rounded corners and deep window
 sills. The technique was formalized in the late 19th century in the
@@ -99,14 +96,5 @@ guidelines available in many jurisdictions.
 ## Hybrid Approaches
 
 Many natural builders combine elements of both systems. A common
-hybrid uses a [[comparison-bamboo-construction-vs-timber-frame-basics]] with wattle and daub infill on south-facing
-walls for thermal mass and solar heat gain, while using straw bale
-infill on north-facing walls for maximum insulation. Another approach
-uses a straw bale core with an earthen wattle-and-daub-style external
-plaster for added weather protection and aesthetic texture.
-
-## See Also
-
-- [[comparison-wattle-and-daub-vs-cob-construction]]
-- [[earth-plaster-and-natural-finishes]]
+hybrid uses a [[comparison-wattle-and-daub-vs-cob-construction]]
 - [[comparison-hempcrete-vs-straw-bale-construction]]

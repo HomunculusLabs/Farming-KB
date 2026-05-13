@@ -25,11 +25,7 @@ Gypsum forms through evaporation of saline waters and is one of the most common 
 
 ## Key Facts
 
-- Unlike lime (calcium carbonate), gypsum does not raise [[soil-ph]]
-- Provides calcium without pH change, making it suitable for already alkaline soils
-- Improves soil structure by causing clay particles to flocculate (aggregate)
-- Particularly effective on sodic (high-sodium) soils where it displaces sodium from clay particles
-- Mollison notes that dryland soils with high salt content are particularly susceptible to loss of [[crumb-structure]], only partly relieved by gypsum application
+- Unlike lime (calcium carbonate), gypsum does not raise [[crumb-structure]], only partly relieved by gypsum application
 - Supplies sulfur, an essential secondary macronutrient for plant growth
 - Application rates typically 1-5 tonnes per hectare for soil structure improvement
 - When heated, gypsum loses water to become anhydrite (CaSO4)
@@ -73,7 +69,7 @@ Gypsum forms through evaporation of saline waters and is one of the most common 
 
 ## References
 
-- Mollison, B. (1988). *Permaculture: A Designers' Manual*. Tagari Publications. Chapter 8: Soils.
+- Mollison, B. (1988). *Permaculture: A Designers' Manual*. [[tagari-publications]]. Chapter 8: Soils.
 - Shainberg, I. et al. (1989). *Use of Gypsum on Soils: A Review*. Advances in Soil Science, 9, 1-111.
 
 ## Agricultural Applications
@@ -97,6 +93,5 @@ before gypsum application.
 
 ## See Also
 
-- [[bill-mollison-permaculture-a-designers-manual-soil-and-humus-management]]
 - [[bill-mollison-permaculture-a-designers-manual-dryland-strategies-and-desert-agriculture]]
 - [[bill-mollison-permaculture-a-designers-manual-aquaculture-and-water-systems]]

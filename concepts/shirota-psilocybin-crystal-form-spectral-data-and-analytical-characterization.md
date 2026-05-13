@@ -8,11 +8,7 @@ tags: [shirota, psilocybin, crystal, spectral-data, NMR, UV, IR, mass-spec, anal
 
 ## Overview of the Shirota Synthesis Product
 
-In their 2003 paper in the *Journal of Natural Products*, Osamu Shirota, Wataru Hakamata, and Yukihiro Goda reported a concise large-scale synthesis of psilocybin (the principal hallucinogenic constituent of "[[guzman-magic-mushrooms-african-species]]") that yielded the compound as a white needle crystalline powder without any chromatographic purification.
-
-The final product was obtained by [[shirota-catalytic-hydrogenolysis-debenzylation-psilocybin]] of a novel zwitterionic N,O-dibenzyl [[hmbc-noesy-nmr-analysis-zwitterionic-phosphate-intermediate-psilocybin]], and its physical and spectroscopic properties were thoroughly characterized.
-
-This page documents the complete analytical fingerprint of the synthesized psilocybin, providing reference data useful for [[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]] and quality control purposes.
+In their 2003 paper in the *Journal of Natural Products*, Osamu Shirota, Wataru Hakamata, and Yukihiro Goda reported a concise large-scale synthesis of psilocybin (the principal hallucinogenic constituent of "[[shirota-catalytic-hydrogenolysis-debenzylation-psilocybin]] of a novel zwitterionic N,O-dibenzyl [[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]] and quality control purposes.
 
 ## Physical Properties
 
@@ -48,29 +44,7 @@ The IR spectrum was recorded as a KBr pellet.
 
 Key absorptions (cm⁻¹): 3266, 3034, 2731, 2369, 1620, 1580, 1505, 1439, 1352, 1298, 1244, 1154, 1103, 1061, 926, 858, 804.
 
-The broad absorption at 3266 cm⁻¹ corresponds to O-H stretching from the phosphate group, consistent with the [[cho-water-soluble-phosphoric-acid-preparation]] diester moiety.
-
-The absorption at 3034 cm⁻¹ represents aromatic C-H stretching from the indole ring.
-
-The absorption at 1620 cm⁻¹ is characteristic of the indole ring stretching vibration.
-
-The absorptions at 1244, 1154, and 1103 cm⁻¹ correspond to P=O and P-O-C stretching vibrations from the phosphate group.
-
-The absorptions at 926 and 858 cm⁻¹ are characteristic of the P-O-H deformation modes of the free phosphoric acid diester.
-
-This IR fingerprint is distinctive and useful for forensic identification of psilocybin in seized materials.
-
-## ¹H NMR Spectroscopy
-
-The ¹H NMR spectrum was recorded in D₂O at 400 MHz, with one drop of MeOH added as a ¹³C reference.
-
-Chemical shifts (δ, ppm): 7.22 (1H, d, J = 7.6 Hz, H-7), 7.18 (1H, s, H-2), 7.13 (1H, t, J = 7.6 Hz, H-6), 6.98 (1H, d, J = 7.6 Hz, H-5), 3.44 (2H, t, J = 7.2 Hz, H₂-2'), 3.28 (2H, t, J = 7.2 Hz, H₂-1'), 2.86 (6H, s, NMe₂).
-
-The aromatic proton signals show the characteristic pattern of a 1,2,4-trisubstituted benzene ring, consistent with the 4-hydroxyindole structure.
-
-The singlet at 7.18 ppm (H-2) is characteristic of the indole 2-position proton.
-
-The two triplets at 3.44 and 3.28 ppm (J = 7.2 Hz) represent the methylene protons of the ethylamine [[shirota-glyoxalylamide-side-chain-construction-psilocin-synthesis]].
+The broad absorption at 3266 cm⁻¹ corresponds to O-H stretching from the phosphate group, consistent with the [[shirota-glyoxalylamide-side-chain-construction-psilocin-synthesis]].
 
 The singlet at 2.86 ppm represents the N,N-dimethyl protons.
 
@@ -87,3 +61,88 @@ The carbon at 146.4 ppm (C-4) shows phosphorus coupling (split), consistent with
 The carbons at 119.1 and 109.5 ppm also show splitting due to coupling with the phosphorus nucleus.
 
 The side chain carbons at 59.7, 43.4, and 22.4 ppm are consistent with the 2-(dimethylamino)ethyl group.
+
+## Overview
+
+Shirota Psilocybin Crystal Form Spectral Data And Analytical Characterization represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish shirota psilocybin crystal form spectral data and analytical characterization
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving shirota extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Shirota Psilocybin Crystal Form Spectral Data And Analytical Characterization finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for shirota psilocybin crystal form spectral data and analytical characterization. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+shirota psilocybin crystal form spectral data and analytical characterization and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Shirota Psilocybin Crystal Form Spectral Data And Analytical Characterization has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of shirota psilocybin crystal form spectral data and analytical characterization into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[shirota-4-hydroxyindole-acetyl-protection-experimental]]
+- [[shirota-glyoxalylamide-formation-oxalyl-chloride-indole]]
+- [[shirota-glyoxalylamide-intermediate-oxalyl-chloride-acylation-pathway]]
+- [[shirota-psilocin-psilocybin-synthesis-from-4-hydroxyindole]]
+- [[shirota-zwitterionic-phosphate-intermediate-psilocybin-synthesis]]

@@ -26,7 +26,7 @@ sources:
 
 ## Overview
 
-5-MeO-DALT is a synthetic psychedelic tryptamine first synthesized and characterized by [[alexander-shulgin]] and described in *TiHKAL* (Tryptamines I Have Known and Loved). The compound features a 5-methoxy substitution on the [[indole]] ring and N,N-diallyl groups on the terminal amine — a substitution pattern that is rare among both natural and synthetic tryptamines. It is known for its relatively [[savory-short-duration-grazing-and-cell-systems]], mild to moderate visual effects, and distinctive body load, making it an atypical member of the psychedelic [[tryptamine-family-overview]].
+5-MeO-DALT is a synthetic psychedelic tryptamine first synthesized and characterized by [[indole]] ring and N,N-diallyl groups on the terminal amine — a substitution pattern that is rare among both natural and synthetic tryptamines. It is known for its relatively [[tryptamine-family-overview]].
 
 ## Chemical Information
 
@@ -43,8 +43,7 @@ C₁₇H₂₂N₂O
 COc1ccc2[nH]c(CCN(C=CC)C=CC)c(C)c2c1
 
 ### Structural Features
-- **Indole ring** with a **5-methoxy** substitution (positions analogous to [[psilocin]]/5-MeO-DMT)
-- **N,N-diallyl substitution** on the ethylamine [[shirota-glyoxalylamide-side-chain-construction-psilocin-synthesis]] — two allyl groups (CH₂-CH=CH₂) replacing the more common N,N-dimethyl groups
+- **Indole ring** with a **5-methoxy** substitution (positions analogous to [[shirota-glyoxalylamide-side-chain-construction-psilocin-synthesis]] — two allyl groups (CH₂-CH=CH₂) replacing the more common N,N-dimethyl groups
 - The allyl groups significantly alter the compound's pharmacokinetics compared to N,N-dimethyl tryptamines
 
 ### Physical Properties

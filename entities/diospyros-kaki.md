@@ -54,21 +54,13 @@ Persimmon trees are relatively pest-free compared to other fruit crops, though s
 
 ## Cultivation
 
-Japanese persimmons are typically propagated by grafting scions onto Diospyros lotus (date plum) rootstock, which provides good compatibility and [[coleman-cold-hardiness-testing-ratings]]. Budding and chip grafting are the preferred [[vegetative-propagation-methods-mollison]].
+Japanese persimmons are typically propagated by grafting scions onto Diospyros lotus (date plum) rootstock, which provides good compatibility and [[vegetative-propagation-methods-mollison]].
 
 Trees begin bearing fruit 3–5 years after grafting, with commercial yields of 20–50 kg per tree at maturity. Planting densities range from 200 to 400 trees per hectare in commercial orchards.
 
 Pruning focuses on maintaining an open center or modified central leader form to maximize light penetration. Fruit thinning is essential for non-astringent cultivars to prevent alternate bearing and ensure adequate fruit size.
 
-[[cannabis-harvest-timing-visual-cues]] depends on cultivar type: astringent varieties are picked when fully colored but still firm and require post-harvest ripening, while non-astringent varieties can be eaten directly from the tree when colored.
-
-Astringent cultivars can be de-astringented by exposure to carbon dioxide gas in airtight chambers, freezing and thawing, or treatment with ethanol vapor. These methods accelerate tannin polymerization, converting soluble astringent tannins into non-astringent insoluble complexes.
-
-## Chemistry and Nutrition
-
-Persimmons are rich in tannins, particularly proanthocyanidins and condensed tannins that accumulate in unripe fruit. These water-soluble tannins bind to salivary proteins, producing the characteristic astringent sensation.
-
-The primary [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]] include betulinic acid, ursolic acid, and various carotenoids (β-cryptoxanthin, β-carotene, lycopene, and lutein). These compounds contribute antioxidant, anti-inflammatory, and potential anti-cancer activities.
+[[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]] include betulinic acid, [[ursolic-acid]], and various carotenoids (β-cryptoxanthin, β-carotene, lycopene, and lutein). These compounds contribute antioxidant, anti-inflammatory, and potential anti-cancer activities.
 
 Fresh persimmon provides approximately 70 kcal per 100 g, with 18 g of carbohydrates (primarily glucose and fructose) and significant vitamin C (7.5 mg). Potassium content is 161 mg per 100 g, with additional manganese, copper, and vitamin A.
 

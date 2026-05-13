@@ -14,8 +14,8 @@ These traditional herbal remedies were once found in almost every "home pharmacy
 ## Calendula Salve
 
 ### Ingredients
-- Two heaped double handfuls of calendula ([[calendula-officinalis]]) — whole plant including stem, leaves and flowers
-- Roughly half a litre of lard (available from a butcher), or vegetable oil (e.g. [[olive-cultivation-and-olive-oil-production]])
+- Two heaped double handfuls of calendula (Calendula officinalis) — whole plant including stem, leaves and flowers
+- Roughly half a litre of lard (available from a butcher), or vegetable oil (e.g. olive oil)
 - If using vegetable oil: 200-250g beeswax per litre of oil as thickening agent
 
 ### Method
@@ -55,7 +55,7 @@ Calendula salve can be used to treat all kinds of injuries because it encourages
 ## Chicory Tea for Diabetics
 
 ### Ingredients
-- Equal amounts of: chicory root ([[cichorium-intybus]]), dandelion root, stinging nettles, French lilac, bilberry leaves
+- Equal amounts of: chicory root (Cichorium intybus), dandelion root, stinging nettles, French lilac, bilberry leaves
 - Three tablespoons of the plant mixture per litre of water
 
 ### Method
@@ -77,7 +77,7 @@ Applied directly to heavily bleeding wounds. Its ability to stop bleeding means 
 
 ## Drawing Salve (Traditional)
 
-Made from tree resin (liquid larch pitch) mixed with different [[medicinal-herbs-for-livestock]] and applied as a poultice. The effect was so powerful it could treat inflammation and festering wounds in a very short time.
+Made from tree resin (liquid larch pitch) mixed with different medicinal herbs and applied as a poultice. The effect was so powerful it could treat inflammation and festering wounds in a very short time.
 
 ## Onion, Garlic and Horseradish Poultice
 
@@ -88,38 +88,3 @@ Made with lard and applied with hot cloths. Effective medicinal remedy used trad
 - [[sepp-holzer-method]]
 - [[holzer-balcony-garden]]
 - [[polyculture-design-holzer]]
-
-## Practical Applications
-
-The principles and techniques discussed here have wide-ranging applications
-across multiple disciplines and contexts. Practitioners and researchers
-continue to explore new ways to integrate these concepts into modern practice,
-adapting traditional knowledge to contemporary challenges and opportunities.
-
-## Key Considerations
-
-Several important factors influence the effectiveness and outcomes described
-in this topic. Understanding these considerations helps practitioners make
-informed decisions and avoid common pitfalls. Environmental conditions,
-timing, and material selection all play critical roles.
-
-## Historical Context
-
-The historical development of this subject reflects centuries of accumulated
-knowledge and practical experience. From traditional methods passed down
-through generations to modern scientific approaches, the evolution continues
-to inform current best practices and research directions.
-
-## Common Challenges
-
-Practitioners frequently encounter several challenges when working with
-these concepts. Climate variability, resource limitations, and knowledge
-gaps can all affect outcomes. Addressing these challenges requires patience,
-observation, and a willingness to adapt approaches based on results.
-
-## See Also
-- [[det]]
-- [[dandelion]]
-- [[stinging-nettle]]
-- [[holzer-bone-salve-rock-dust]]
-- [[query-what-are-the-benefits-of-growing-calendula-and-how-do-i-use-it]]

@@ -34,42 +34,7 @@ Selegiline is FDA-approved for Parkinson's disease as an adjunct to
 levodopa therapy and for major depressive disorder via the transdermal
 patch formulation (Emsam). At low doses, it selectively inhibits MAO-B,
 preserving MAO-A function and avoiding the dietary tyramine restrictions
-associated with non-selective [[mao-inhibitors-and-psychedelics]]. At higher oral doses, MAO-A
-selectivity is lost and dietary restrictions become necessary.
-
-## Chemical Identity
-
-- Molecular formula: C13H17N
-- Molecular weight: 187.28 g/mol
-- IUPAC name: (R)-N,α-dimethyl-N-2-propynylphenethylamine
-- CAS number: 14611-52-0
-- Appearance: White crystalline powder
-- Solubility: Slightly soluble in water; freely soluble in ethanol
-
-Selegiline is the (R)-enantiomer of racemic deprenyl. The (R)-enantiomer
-shows significantly higher MAO-B selectivity than the (S)-form. It is
-metabolized primarily in the liver to several active metabolites including
-L-methamphetamine, L-amphetamine, and desmethylselegiline.
-
-## Pharmacology
-
-### Mechanism of Action
-
-Selegiline irreversibly binds to and inhibits MAO-B, the enzyme responsible
-for metabolizing dopamine, phenethylamine, and trace amines in the brain.
-By inhibiting MAO-B, selegiline increases synaptic dopamine availability,
-which underlies its efficacy in Parkinson's disease.
-
-Beyond MAO-B inhibition, selegiline demonstrates several neuroprotective
-mechanisms: upregulation of antioxidant enzymes (superoxide dismutase,
-catalase), anti-apoptotic activity via Bcl-2 family modulation, and
-inhibition of neuronal death through mitochondrial stabilization. These
-properties have generated interest in selegiline as a potential anti-aging
-and cognitive-enhancement compound.
-
-### Pharmacokinetics
-
-- [[first-pass-metabolism-and-oral-bioavailability]]: 10% (extensive first-pass metabolism)
+associated with non-selective [[first-pass-metabolism-and-oral-bioavailability]]: 10% (extensive first-pass metabolism)
 - Transdermal bioavailability: ~60-70% (bypasses first-pass)
 - Onset: 1-3 hours (oral), within hours (transdermal)
 - Half-life: 1.5-2 hours (parent); 18-20 hours (MAO-B inhibition)
@@ -89,8 +54,83 @@ started early, though this remains debated.
 ### Major Depressive Disorder
 
 ## See Also
-- [[first-pass-metabolism-and-oral-bioavailability]]
 - [[hofmann-lsd-clinical-research-early-studies]]
-- [[powell-psilocybin-neuronal-pharmacology-synaptic-mechanisms]]
 - [[psilocybin-and-psilocin-chemical-synthesis]]
 - [[lialh4-reduction-glyoxalylamide-psilocin-synthesis]]
+
+## Overview
+
+Selegiline represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish selegiline
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving selegiline extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Selegiline finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for selegiline. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+selegiline and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Selegiline has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of selegiline into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.

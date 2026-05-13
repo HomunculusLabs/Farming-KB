@@ -5,7 +5,7 @@ sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
   - path: /Users/t3rpz/wiki/raw/papers/masanobu-fukuoka-fukuoka.md
     title: The One-Straw Revolution - masanobu-fukuoka
-    author: [[masanobu-fukuoka]]
+    author: masanobu-fukuoka
 updated: 2026-05-08
 type: concept
 tags: [reference]
@@ -16,9 +16,7 @@ tags: [reference]
 ## The Wheat Experiment
 
 Forty years before Fukuoka wrote, increasing political hostility
-between the [[dmt-containing-plants-united-states-halpern]] and Japan made importing wheat impossible.
-A general movement encouraged domestic wheat production. The
-American wheat varieties being used required a long [[savory-growing-season-and-non-growing-season-management]]
+between the [[savory-growing-season-and-non-growing-season-management]]
 and the grain finally matured in the middle of Japan's rainy season.
 Even after the farmer had taken great pains to grow the crop, it
 would often rot during harvest. These varieties proved unreliable
@@ -37,13 +35,7 @@ choked on it.
 After the war, American wheat was again imported in large quantities,
 causing the price of domestically grown wheat to fall. The government
 simultaneously encouraged farmers to stop growing the traditional
-[[coleman-semi-hibernating-winter-crops-harvest-extension]] of rye and barley because of the cheap imported wheat.
-The fields of Japan were left to lie fallow through the winter.
-
-The slogan "Give up wheat, give up wheat!" was propagated nationwide
-by government agricultural leaders, and the farmers gladly complied.
-The traditional practice of growing winter grain and rice in
-succession -- a system that had sustained [[fukuoka-breakdown-japanese-agriculture]] for
+[[fukuoka-breakdown-japanese-agriculture]] for
 centuries -- was deliberately dismantled in favor of dependence on
 imported grain.
 
@@ -118,8 +110,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[dom]]
 - [[dmt]]
-- [[fukuoka-no-till-rice-barley-clover-succession]]
 - [[fukuoka-barley-winter-grain-method]]
 - [[fukuoka-rice-and-barley-natural-farming]]

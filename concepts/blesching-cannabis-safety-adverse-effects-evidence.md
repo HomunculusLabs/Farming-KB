@@ -2,7 +2,7 @@
 
 ## Overview
 
-Cannabis, like any medicine that affects both mind and body, evokes numerous safety concerns that warrant careful examination. Drawing on Uwe Blesching's comprehensive safety review in *The [[blesching-cannabis-health-index-autoimmune-conditions]]*, this page addresses the major categories of risk associated with cannabis use, including adverse effects, addiction potential, developmental concerns, respiratory effects, cardiovascular impact, mental health correlations, the gateway theory, and overdose risk. The evidence presented distinguishes between cannabis-specific effects and those arising from polydrug use, method of administration, or dosage exceeding the [[blesching-cannabis-therapeutic-window-dosing]].
+Cannabis, like any medicine that affects both mind and body, evokes numerous safety concerns that warrant careful examination. Drawing on Uwe Blesching's comprehensive safety review in *The [[blesching-cannabis-therapeutic-window-dosing]].
 
 ## Mortality and Comparative Risk
 
@@ -14,17 +14,13 @@ The median lethal dose of oral THC in rats was established in a 1973 laboratory 
 
 ## Expected Effects and Mental-Emotional Experience
 
-Commonly noted effects of cannabis include an energizing euphoria combined with grounding relaxation, intensification of sensory experiences, occasional infectious laughter and talkativeness, and the characteristic feeling of being "stoned." However, Blesching emphasizes that much more can be gained from the cannabis experience when basic understanding of [[lsd-set-and-setting-framework]] is applied.
-
-In a supportive environment with a conscious and caring intention, users may expect to stay more deeply in the present moment, cultivate inner silence, and allow deeper relaxation to flood areas of the body that are normally tight, tense, and achy. The experience may allow emotions to surface that were previously considered intolerable, and may facilitate suspension of barriers to the body's innate capacity for self-healing. These enhanced effects represent the intersection of [[endocannabinoid-system-and-cannabis-pharmacology]] with the mind-body medicine principles discussed elsewhere in the source material.
+Commonly noted effects of cannabis include an energizing euphoria combined with grounding relaxation, intensification of sensory experiences, occasional infectious laughter and talkativeness, and the characteristic feeling of being "stoned." However, Blesching emphasizes that much more can be gained from the cannabis experience when basic understanding of [[endocannabinoid-system-and-cannabis-pharmacology]] with the mind-body medicine principles discussed elsewhere in the source material.
 
 ## Adverse Effects
 
 Adverse effects may include increased appetite (munchies), reduced attention span, red sclera (reddening of the normally white part of the eyes), dry mouth (cottonmouth), and decreased cognitive and motor skills. These effects are generally mild and self-limiting.
 
-More significant side effects, more common when cannabis is ingested or used at higher than the [[cannabis-subjective-therapeutic-window-dosing]] dose, include ataxia (unsteady gait), aphasia (inability to speak clearly), unusual perceptions of all senses including hallucinations, anxiety, slight increase in heart rate, subtle shifts in blood pressure depending on body position, and panic upon first-ever use. Both anxiety and panic can be moderated by reassurance and a supportive environment.
-
-The vast majority of adverse effects are directly related to using cannabis in excess of the [[subjective-therapeutic-window-cannabis]]. Taking too little can be suboptimal, while too much can actually increase the very symptoms the user is attempting to treat. For instance, while cannabis has traditionally been used to reduce anxiety, using too much too rapidly may actually multiply the feeling of apprehension and anxiety.
+More significant side effects, more common when cannabis is ingested or used at higher than the [[subjective-therapeutic-window-cannabis]]. Taking too little can be suboptimal, while too much can actually increase the very symptoms the user is attempting to treat. For instance, while cannabis has traditionally been used to reduce anxiety, using too much too rapidly may actually multiply the feeling of apprehension and anxiety.
 
 ## Harm Reduction Through the Subjective Therapeutic Window
 
@@ -60,22 +56,11 @@ A Duke University study collecting subjective observational data from New Zealan
 
 Whenever plant matter is burned, smoke is released with potentially harmful particles. However, the largest population-based case-controlled study of cannabis-only use (2,252 people in Los Angeles) found that smoking cannabis exclusively was mildly lung-protective and was not associated with increased lung cancer risk. This counter-intuitive finding has been attributed to the anti-inflammatory and bronchodilatory properties of cannabinoids, which may counteract some of the harmful effects of combustion products.
 
-Cannabis oil has also demonstrated [[cbd-therapeutic-effects]] in patients with chronic obstructive pulmonary disease (COPD) and asthma, suggesting that cannabinoids themselves may benefit respiratory function even when the method of smoked delivery carries some risk.
-
-To minimize respiratory risk, several strategies are available:
-
-- **Vaporizers** heat cannabis to a precise temperature that evaporates cannabinoids just below the burning point of plant matter, eliminating combustion products including carbon compounds from burned rolling paper
-- **Infused oils** provide a non-inhalation delivery method with precise dosing capability through dropper bottles
-- **Alcohol-based tinctures** offer another sublingual delivery option that completely avoids respiratory exposure
-- **Raw cannabis juice** provides non-psychoactive cannabinoids in their acid forms without any combustion or heating
-
-The choice of delivery method is a key factor in the overall risk-benefit analysis of cannabis therapeutics, and patients with pre-existing [[cannabis-respiratory-conditions]] should particularly consider non-inhalation options.
+Cannabis oil has also demonstrated [[cannabis-respiratory-conditions]] should particularly consider non-inhalation options.
 
 ## Cardiovascular Impact
 
-Endocannabinoid receptors are present in the heart and are involved in regulating heart function. THC can increase heart rate, but not to a dangerous extent according to the available evidence. The increase is typically mild and transient, comparable to the [[blesching-cannabis-hypertension-cardiovascular-effects]] of moderate exercise or mild stress.
-
-More importantly, numerous studies have demonstrated that THC, CBD, and CBN possess potentially potent cardio-protective properties. These protective effects include anti-inflammatory actions on vascular tissue, antioxidant protection against [[blesching-cannabis-oxidative-stress-and-antioxidant-defense]], and potential anti-arrhythmic properties. The cardiovascular profile of cannabis is thus nuanced — while acute use may transiently increase heart rate, the net effect of cannabinoid exposure on cardiovascular health may be protective rather than harmful when used appropriately.
+Endocannabinoid receptors are present in the heart and are involved in regulating heart function. THC can increase heart rate, but not to a dangerous extent according to the available evidence. The increase is typically mild and transient, comparable to the [[blesching-cannabis-oxidative-stress-and-antioxidant-defense]], and potential anti-arrhythmic properties. The cardiovascular profile of cannabis is thus nuanced — while acute use may transiently increase heart rate, the net effect of cannabinoid exposure on cardiovascular health may be protective rather than harmful when used appropriately.
 
 Patients with pre-existing cardiovascular conditions should consult their healthcare providers and consider starting with low doses to assess their individual response, as with any medication affecting cardiovascular function.
 
@@ -118,8 +103,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[cannabis-safety-profile]]
 - [[uwe-blesching]]
-- [[blesching-cannabis-safety-profile-adverse-effects-and-overdose-risk]]
 - [[doc]]
 - [[pcp]]

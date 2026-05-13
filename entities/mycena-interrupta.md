@@ -16,14 +16,7 @@ sources:
   - Aronsen, A. & Laessøe, T. (2016). The genus Mycena in northern Europe. Naturhistoriska Riksmuseet.
   - Desjardin, D.E. et al. (2008). "Mycena section Calodontes in the Madrean Sky Islands." Mycologia, 100(6), 889-906.
   - Corner, E.J.H. (1994). Agarics in Malaysia and Singapore. Royal Botanic Gardens, Kew.
-  - Fuhrer, B. (2009). A [[ghouled-field-guide-historical-context]] to Australian Fungi. Bloomings Books.
----
-
-# Mycena interrupta
-
-## Overview
-
-**Mycena interrupta** (Berk.) Sacc., commonly known as the **pixie's parasol** or **blue bonnet**, is a small agaric mushroom in the family Mycenaceae. It is one of the most visually striking fungi in Australasia, recognized by its vivid blue, translucent, bell-shaped pileus. The species is saprotrophic, fruiting on decaying wood and [[dighton-fungal-decomposition-leaf-litter-dynamics]] in temperate and subtropical wet forests.
+  - Fuhrer, B. (2009). A [[dighton-fungal-decomposition-leaf-litter-dynamics]] in temperate and subtropical wet forests.
 
 ## Taxonomy
 
@@ -58,10 +51,7 @@ concolorous or slightly darker, sometimes appearing flecked.
 
 **Stipe (stem):** 15–50 × 1–2 mm, central, equal or slightly tapered toward the
 base. Hollow, fragile, smooth, pale blue to whitish. Base sometimes covered
-with fine white tomentum. No [[partial-veil-tropism-protection-before-spore-release]] or annulus.
-
-**Spores:** 7–10 × 4–6 µm, ellipsoid to pip-shaped, smooth, thin-walled,
-hyaline, inamyloid. [[spore-print]] white.
+with fine white tomentum. No [[spore-print]] white.
 
 **Microscopic features:** Cheilocystidia clavate to ventricose, sometimes
 with apical projections. Pleurocystidia absent. Pileipellis a cutis of
@@ -76,8 +66,7 @@ with no confirmed records outside this region.
 
 **Habitat:** Found in cool temperate rainforests, wet sclerophyll forests,
 and mixed native forests. Fruits solitary to scattered on decaying hardwood
-logs, branches, and [[fungal-succession-woody-debris-ecology]], particularly on *Nothofagus*, *Eucalyptus*,
-and *[[acacia]]* species. Prefers moist, shaded microsites with high humidity.
+logs, branches, and [[acacia]]* species. Prefers moist, shaded microsites with high humidity.
 Typically fruits in autumn through early winter (March–July) in Australia,
 and May–August in New Zealand.
 
@@ -88,3 +77,73 @@ The blue pigmentation is not well characterized chemically but is thought to
 derive from a pigment that degrades upon drying, similar to other hygrophanous
 Mycena species. No , breaking down
 cellulose and lignin components alongside other fungal decomposers.
+
+## Overview
+
+Mycena Interrupta represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish mycena interrupta
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving mycena extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Mycena Interrupta finds practical application in multiple design contexts.
+[[permaculture-principles]] guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for mycena interrupta. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+mycena interrupta and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Mycena Interrupta has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of mycena interrupta into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.

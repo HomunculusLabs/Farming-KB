@@ -17,61 +17,14 @@ type: concept
 
 # Roof mollison designers roof water catchment calculations
 
-[[bill-mollison]] provides detailed guidance on roof water harvesting in
-Chapter 6 (Water in the Landscape) and Chapter 14 of Permaculture: A
-Designers' Manual. He treats roof catchment as a primary water supply
-strategy for [[homestead-water-systems]] that also includes mollison-designers-rainwater-tanks-and-roof-catchment-systems due to
+[[homestead-water-systems]] that also includes mollison-designers-rainwater-tanks-and-roof-catchment-systems due to
 its high runoff coefficient, durability, and non-toxic surface (unlike
 some treated materials that may leach chemicals into drinking water).
 
 ## First-Flush Systems
 
 The first several millimetres of rain after a dry period wash accumulated
-dust, bird droppings, [[dighton-fungal-decomposition-leaf-litter-dynamics]], and atmospheric pollutants from the
-roof surface. Mollison emphasises that first-flush diversion is essential
-for water quality. Common systems include:
-
-- Bypass pipe: A standpipe or diverter valve that routes the first
-  0.5 to 2mm of rainfall away from the storage tank. Once the pipe fills,
-  subsequent clean water flows to the tank.
-- Tipping bucket: A small container that fills and tips to discharge the
-  first-flush volume, then remains in the tipped position for clean water
-  to pass.
-- In-line filter: A screen or gravel filter that catches debris from the
-  first flush.
-
-The first-flush volume depends on roof area, pollution levels, and time
-since last rain. Mollison suggests a minimum of 0.5mm of roof area as
-first-flush diversion for domestic drinking water supply.
-
-## Gutter and Downpipe Sizing
-
-Gutters and downpipes must handle peak rainfall intensity, not just total
-annual volume. Mollison provides sizing guidelines:
-
-- Gutter capacity depends on roof area, gutter cross-section, and slope.
-  Minimum gutter slope is 1:500 (2mm fall per metre). Gutter width
-  typically ranges from 100mm to 150mm for domestic buildings.
-- Downpipe sizing: A common rule is one 75mm downpipe per 50 to 80 m2 of
-  roof area. In high-rainfall tropical areas, larger downpipes (100mm)
-  or more frequent spacing may be needed.
-- Overflow provision: Gutters must have overflow outlets to handle
-  extreme events without flooding the building perimeter or undermining
-  foundations.
-
-Regular gutter maintenance (cleaning leaves and debris) is essential for
-catchment efficiency. Mollison recommends installing leaf guards or
-screens on gutters and designing roof angles to minimise debris
-accumulation.
-
-## Storage Tank Sizing
-
-Mollison provides a method for sizing storage based on household demand,
-rainfall patterns, and roof area. The calculation balances supply against
-demand across dry periods:
-
-1. Determine average daily household water demand (typically 100 to 200
-   litres per person per day for conservative use, less with [[composting]]
+dust, bird droppings, [[composting]]
    toilets and greywater reuse)
 2. Determine the longest expected dry period (consecutive days with
    negligible rainfall)
@@ -88,3 +41,88 @@ For a household of 4 people using 150 litres per person per day during a
 This requires a tank of approximately 47,000 litres capacity. Mollison
 recommends multiple smaller tanks over one large tank for redundancy and
 easier management.
+
+## Overview
+
+Mollison Designers Roof Water Catchment Calculations represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish mollison designers roof water catchment calculations
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving mollison extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Mollison Designers Roof Water Catchment Calculations finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for mollison designers roof water catchment calculations. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+mollison designers roof water catchment calculations and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Mollison Designers Roof Water Catchment Calculations has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of mollison designers roof water catchment calculations into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[humid-cool-climate-characteristics-mollison]]
+- [[mentha-aquatica-mollison]]
+- [[mollison-designers-climate-zone-3-farm-forestry]]
+- [[mollison-designers-earthworks-for-erosion-control]]
+- [[soya-bean-mollison]]

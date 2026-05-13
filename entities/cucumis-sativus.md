@@ -77,7 +77,7 @@ sensitive to frost and perform poorly below 15°C. A frost-free period of
 50–70 days is required for most cultivars.
 
 The crop prefers well-drained, fertile sandy loam soils with pH 5.5–7.0 and
-high [[hamilton-composting-and-organic-matter-management]]. [[comparison-raised-beds-vs-hugelkultur]] with [[jadam-plastic-mulch-problems]] and [[comparison-drip-irrigation-vs-passive-irrigation]] are
+high [[comparison-raised-beds-vs-hugelkultur]] with [[comparison-drip-irrigation-vs-passive-irrigation]] are
 standard in commercial production.
 
 Spacing varies by system: 0.3–0.6 meters between plants in rows 1–2 meters
@@ -88,3 +88,11 @@ increases planting density. Trellised cucumbers produce straighter fruits
 than ground culture.
 widely used in Asia and increasingly in Europe to improve disease resistance
 and vigor.
+
+## See Also
+
+- [[cucumis-melo]]
+- [[lathyrus-sativus]]
+- [[crocus-sativus]]
+- [[raphanus-sativus-var-longipinnatus]]
+- [[raphanus-sativus]]

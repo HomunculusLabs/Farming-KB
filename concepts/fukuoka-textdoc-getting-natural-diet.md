@@ -15,10 +15,8 @@ type: concept
 ## Overview
 
 Fukuoka presents his practical philosophy of natural eating, which parallels
-his approach to [[comparison-natural-farming-vs-permaculture]]. A true natural diet is a way of eating where
-one feeds randomly with an undiscriminating attitude on food taken from the
-wild, crops grown by [[cho-loess-powder-in-natural-farming]], and fish and shellfish caught using
-[[fukuoka-textdoc-creating-rice-paddy-natural-methods]]. Natural diet [[fukuoka-textdoc-three-stages-of-human-collapse-and-natural-farming-future]] are not separate ideas but
+his approach to [[cho-loess-powder-in-natural-farming]], and fish and shellfish caught using
+[[fukuoka-textdoc-three-stages-of-human-collapse-and-natural-farming-future]] are not separate ideas but
 united intimately as one whole.
 
 ## The Foundation of Natural Diet
@@ -32,17 +30,7 @@ philosophical constraints, ultimately deny and transcend these.
 
 ## The Role of Traditional Crops
 
-[[fungal-endophytes-agricultural-crops]] which for many thousands of years have merely adapted to
-the environment and survived through natural selection to become fixtures of
-human society may be thought of as foods that arose naturally. This does not
-apply to crops developed recently through breeding programs that are
-considerably alienated from nature. These, along with artificially bred fish
-and livestock, should be firmly excluded from the diet.
-
-## The Unity of Food, Clothing, Shelter, and Spirit
-
-Natural diet and natural farming are united intimately as one whole. They are
-one too with natural fishing and [[holzer-natural-animal-husbandry]]. Man's food, clothing, and
+[[holzer-natural-animal-husbandry]]. Man's food, clothing, and
 shelter, and his spiritual existence must all be blended together with nature
 in perfect harmony. To separate diet from farming, or food from spirit, is to
 commit the fundamental error that characterizes modern civilization.
@@ -75,8 +63,7 @@ urchins, and sea cucumbers.
 
 ## Beyond Yin and Yang
 
-Fukuoka incorporates but transcends both Western [[fukuoka-critique-western-dietetics-nutritional-science]] and the
-[[fukuoka-western-eastern-philosophy-agriculture]] of yin and yang. Summer is hot and yang, winter is cold and
+Fukuoka incorporates but transcends both Western [[fukuoka-western-eastern-philosophy-agriculture]] of yin and yang. Summer is hot and yang, winter is cold and
 yin. The diet maintains a balance: in summer one should eat yin foods, in
 winter yang foods. Vegetables are green, seaweed is blue, cereal grains are
 yellow, and meat is red. Grains, being intermediate, serve as the staple with
@@ -118,8 +105,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[natural-diet]]
 - [[natural-farming]]
-- [[doc]]
 - [[matsutake-mushroom]]
 - [[dom]]

@@ -13,9 +13,7 @@ type: concept
 
 ## Overview
 
-Terence McKenna proposed that the relationship between [[mckenna-psilocybin-and-language-formation]] - Direct treatment of the language hypothesis
-- [[mckenna-ur-plant-hypothesis]] - The broader evolutionary framework
-- [[mckenna-transcendent-other-and-exopheromones]] - Communication across species
+[[terence-mckenna]] proposed that the relationship between [[mckenna-ur-plant-hypothesis]] - The broader evolutionary framework
 - [[mckenna-vegetable-mind-and-gaian-holism]] - The planetary mind concept
 ## Background and Context
 

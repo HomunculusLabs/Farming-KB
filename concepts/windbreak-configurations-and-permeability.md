@@ -139,6 +139,9 @@ the permanent windbreak matures, ensuring shelter from year one.
 [Tree Systems and Forestry](tree-systems-and-forestry.md)*
 
 ## See Also
-- [[windbreak-design-and-configurations]]
-- [[windbreak-species-selection-and-permeability]]
-- [[mollison-designers-windbreak-configurations-for-crops-and-orchards]]
+
+- [[bill-mollison-permaculture-a-designers-manual-windbreak-design-and-shelter]]
+- [[windbreak-design-griggs-putnam-index]]
+- [[desert-hedge-windbreak-species]]
+- [[query-what-is-the-difference-between-a-hedgerow-and-a-windbreak]]
+- [[windbreak-design-establishment]]

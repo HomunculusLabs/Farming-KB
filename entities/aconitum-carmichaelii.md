@@ -26,53 +26,10 @@ two millennia.
 The species is one of the most important and most toxic medicinal plants in
 the Chinese pharmacopoeia. Its tuberous roots, known as fuzi (prepared lateral
 rootlets) and caowu (parent root), are prescribed for conditions including
-heart failure, [[blesching-cannabis-rheumatoid-arthritis]], and [[cannabis-chronic-pain-management]].
+heart failure, [[cannabis-chronic-pain-management]].
 
 All parts of Aconitum carmichaelii contain potent diterpenoid alkaloids,
-primarily [[aconitine]], mesaconitine, and hypaconitine. These compounds act on
-voltage-gated sodium channels, producing both therapeutic and toxic effects.
-
-## Taxonomy and Morphology
-
-Aconitum carmichaelii was described by the French botanist Louis Édouard
-Debeaux in 1877. The species is named in honour of the Irish plant collector
-Dugald Carmichael.
-
-The genus Aconitum contains approximately 350 species distributed across the
-Northern Hemisphere. Chinese species are particularly diverse, with over 200
-recorded taxa.
-
-The plant grows from a tuberous root system consisting of a large parent
-tuber (caowu) surrounded by smaller daughter tubers (fuzi). The roots are
-conical or oblong, 2-5 cm in diameter.
-
-Stems are erect, reaching 60-150 cm tall, and are typically glabrous or
-sparsely pubescent. The leaves are palmately divided into 3-5 lobes, each
-further divided into smaller segments.
-
-The distinctive helmet-shaped flowers (the origin of the common name
-monkshood) are borne in terminal racemes. Each flower is 2-3 cm long, with
-a prominent upper sepal forming the hood.
-
-Flower colour is typically blue-violet to deep indigo, though white and pink
-forms occur. The flowers bloom from late summer to early autumn.
-
-## Distribution and Habitat
-
-Aconitum carmichaelii is native to the Chinese provinces of Sichuan, Yunnan,
-Guizhou, Hunan, Hubei, Shaanxi, and Gansu. It is also found in adjacent
-regions of Nepal, Bhutan, and northern Vietnam.
-
-The species grows in mountainous areas at elevations of 1,200-3,200 metres.
-It favours damp, shady locations along stream banks, forest margins, and
-alpine meadows.
-
-Cultivated populations are extensive, particularly in Sichuan province, which
-produces the majority of commercial fuzi. Agricultural cultivation involves
-specific soil preparation, shade management, and careful harvesting schedules.
-
-The plant requires cool, moist conditions and is intolerant of prolonged
-drought or [[extreme-heat-preparedness]]. Well-drained, humus-rich soils with a slightly
+primarily [[extreme-heat-preparedness]]. Well-drained, humus-rich soils with a slightly
 acidic pH are preferred.
 
 ## Chemistry and Pharmacology
@@ -88,3 +45,88 @@ inactivation, causing persistent sodium influx and neuronal hyperexcitability.
 At therapeutic doses, the cardiac effects include positive inotropy,
 bradycardia, and improved cardiac output. These properties support the
 traditional use of fuzi in treating congestive heart failure.
+
+## Overview
+
+Aconitum Carmichaelii represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish aconitum carmichaelii
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving aconitum extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Aconitum Carmichaelii finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for aconitum carmichaelii. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+aconitum carmichaelii and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Aconitum Carmichaelii has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of aconitum carmichaelii into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[aconitum-columbianum]]
+- [[aconitum-ferox]]
+- [[aconitum-hemsleyanum]]
+- [[aconitum-napellus]]
+- [[aconitum-variegatum]]

@@ -1,5 +1,5 @@
 ---
-title: Fungal Interactions With Microbes
+title: Fungal Interactions with Microbes
 created: 2026-04-13
 updated: 2026-04-13
 type: concept
@@ -9,7 +9,7 @@ sources: [raw/papers/geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in-the-en
 
 # Fungal Interactions with Microbes
 
-Fungi in soil and other environments engage in complex interactions with bacteria, other fungi, viruses, and microfauna. These interactions shape microbial [[core-endorhiza-bacterial-community-composition-cannabis]], nutrient cycling, plant health, and [[dighton-mycorrhizal-diversity-ecosystem-function]]. Understanding these interactions is key to managing soil health and applying biological controls.
+Fungi in soil and other environments engage in complex interactions with bacteria, other fungi, viruses, and microfauna. These interactions shape microbial community composition, nutrient cycling, plant health, and ecosystem function. Understanding these interactions is key to managing soil health and applying biological controls.
 
 ## Fungal-Bacterial Interactions
 
@@ -41,14 +41,14 @@ Fungi in soil and other environments engage in complex interactions with bacteri
   - Enzyme production (degrade competitors' cell walls)
 
 ### Mycoparasitism
-- [[trichoderma-harzianum]]: commercial biocontrol agent that parasitizes plant pathogenic fungi
+- Trichoderma harzianum: commercial biocontrol agent that parasitizes plant pathogenic fungi
 - Mechanisms: coiling around hyphae, penetrating cell walls, secreting lytic enzymes
 - Used against Rhizoctonia, Fusarium, Pythium, and Sclerotinia
 
 ### Symbiosis
 - Lichens: fungus + algae/cyanobacteria partnership
 - Endophytic fungi within other fungi (mycoviruses)
-- [[arbuscular-mycorrhizal-networks]] connecting multiple plant species
+- Arbuscular mycorrhizal networks connecting multiple plant species
 
 ## Fungal-Viral Interactions
 
@@ -61,7 +61,7 @@ Fungi in soil and other environments engage in complex interactions with bacteri
 
 ### Beneficial Effects
 - Some mycoviruses enhance fungal stress tolerance
-- May increase [[fungal-elicitors-enhanced-secondary-metabolite-production]]
+- May increase secondary metabolite production
 - Potential tool for managing fungal diseases
 
 ## Fungal-Microfauna Interactions
@@ -88,37 +88,10 @@ Fungi in soil and other environments engage in complex interactions with bacteri
 - [[soil-food-web-structure]] — for the complete soil food web
 - [[mycopesticides-fungal-biocontrol]] — for fungal biocontrol agents
 
-## Practical Applications
-
-The principles and techniques discussed here have wide-ranging applications
-across multiple disciplines and contexts. Practitioners and researchers
-continue to explore new ways to integrate these concepts into modern practice,
-adapting traditional knowledge to contemporary challenges and opportunities.
-
-## Key Considerations
-
-Several important factors influence the effectiveness and outcomes described
-in this topic. Understanding these considerations helps practitioners make
-informed decisions and avoid common pitfalls. Environmental conditions,
-timing, and material selection all play critical roles.
-
-## Historical Context
-
-The historical development of this subject reflects centuries of accumulated
-knowledge and practical experience. From traditional methods passed down
-through generations to modern scientific approaches, the evolution continues
-to inform current best practices and research directions.
-
-## Common Challenges
-
-Practitioners frequently encounter several challenges when working with
-these concepts. Climate variability, resource limitations, and knowledge
-gaps can all affect outcomes. Addressing these challenges requires patience,
-observation, and a willingness to adapt approaches based on results.
-
 ## See Also
-- [[fungal-hyphae]]
-- [[streptomyces]]
-- [[composting]]
-- [[endophytic-fungi]]
-- [[spore]]
+
+- [[staycare-fungal-redox-mediator-chemistry-pollutant-degradation]]
+- [[fungal-research-compound-reference]]
+- [[staycare-fungal-in-situ-bioremediation-formulation-strategies]]
+- [[ingham-wood-chips-compost-fungal-domination]]
+- [[dighton-fungal-nutrient-immobilization-turnover]]

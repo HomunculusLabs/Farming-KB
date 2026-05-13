@@ -4,13 +4,12 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [cannabis, processing, lab-technique, chemistry, safety, potency, equipment]
-sources:
-  - "raw/papers/marijuana-horticulture-cervantes.md"
+sources: []
 ---
 
 ## Overview
 
-Cannabis extraction is the process of separating cannabinoids, terpenes, and other desirable compounds from plant material. Extracts and concentrates offer higher potency, alternative [[magic-mushroom-preparation-and-consumption-methods]], and purified cannabinoid profiles. [[arbuscular-mycorrhizal-spore-extraction-methods]] range from simple mechanical techniques to complex chemical processes requiring specialized equipment.
+Cannabis extraction is the process of separating cannabinoids, terpenes, and other desirable compounds from plant material. Extracts and concentrates offer higher potency, alternative consumption methods, and purified cannabinoid profiles. Extraction methods range from simple mechanical techniques to complex chemical processes requiring specialized equipment.
 
 ## Types of Extraction
 
@@ -20,7 +19,7 @@ Solvent-based methods use a chemical solvent to dissolve cannabinoids and terpen
 
 #### Ethanol Extraction
 
-Ethanol (food-grade grain alcohol) is a versatile solvent capable of extracting a full spectrum of cannabinoids and terpenes.
+[[ethanol]] (food-grade grain alcohol) is a versatile solvent capable of extracting a full spectrum of cannabinoids and terpenes.
 
 **Process**:
 1. Plant material is soaked or washed with cold ethanol (cryogenic extraction preserves terpenes)
@@ -90,7 +89,7 @@ Carbon dioxide is pressurized and heated beyond its critical point (supercritica
 
 #### Rosin Press
 
-Mechanical extraction using heat and pressure to squeeze resin from [[cervantes-cannabis-flower-anatomy]] or hash.
+Mechanical extraction using heat and pressure to squeeze resin from cannabis flower or hash.
 
 **Process**:
 1. Place flower, kief, or bubble hash between parchment paper
@@ -107,7 +106,7 @@ Mechanical extraction using heat and pressure to squeeze resin from [[cervantes-
 
 **Disadvantages**:
 - Lower yields than solvent-based methods (15-30% by weight vs 20-30%+)
-- Quality depends heavily on [[shirota-4-hydroxyindole-acetyl-protection-psilocin-synthesis-starting-material]]
+- Quality depends heavily on starting material
 - Manual labor-intensive for larger batches
 
 #### Water Extraction / Ice Water Hash
@@ -116,7 +115,7 @@ Uses ice and water to separate trichome heads from plant material through agitat
 
 **Process**:
 1. Mix cannabis with ice and cold water in a bucket
-2. Agitate (stir or use a [[cervantes-washing-machine-hash]]) for 10-30 minutes
+2. Agitate (stir or use a washing machine) for 10-30 minutes
 3. Pour the mixture through a series of mesh bubble bags (progressively smaller micron sizes)
 4. Trichome heads collect in the bags; plant matter passes through
 5. Collect and dry the hash from each bag separately
@@ -142,7 +141,7 @@ Winterization is not typically needed for BHO or CO2 extracts that are processed
 
 ## Decarboxylation
 
-Raw cannabis contains THCA and CBDA (acidic, non-intoxicating forms). Decarboxylation converts these to active THC and CBD through heat:
+Raw cannabis contains THCA and CBDA (acidic, non-intoxicating forms). [[decarboxylation]] converts these to active THC and CBD through heat:
 
 - THCA → THC at approximately 220 F (105 C) over 30-60 minutes
 - CBDA → CBD at similar temperatures

@@ -15,9 +15,9 @@ Passive energy works in most places most of the time with two main types: solar 
 
 ## See Also
 
-- [[micro-hydro-power]] — another [[holmgren-wind-power-and-renewable-energy-debate]] option
+- [[holmgren-wind-power-and-renewable-energy-debate]] option
 - photovoltaic systems guide — active solar electricity
-- [[permaculture-design]] — design for [[fukuoka-textdoc-energy-efficiency-agricultural-labor]]
+- [[fukuoka-textdoc-energy-efficiency-agricultural-labor]]
 
 ## Related
 

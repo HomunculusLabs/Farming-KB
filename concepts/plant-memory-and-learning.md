@@ -16,16 +16,8 @@ The concept of memory in plants challenges deeply held assumptions about
 the uniqueness of animal cognition. While plants lack brains, neurons, and
 nervous systems, they nevertheless demonstrate the ability to retain
 information about past experiences and use that information to guide future
-behavior. [[plant-memory]] operates through fundamentally different mechanisms
-than animal memory -- relying on changes in gene expression, hormonal
-signaling, and epigenetic modification [[what-a-plant-knows-plant-vision-and-light-perception]],
-the [[phytochrome-photoreceptor]] exists
-in two interconvertible forms: a red-light-absorbing form (Pr) and a far-
-red-light-absorbing form (Pfr). When a plant receives a flash of red
-light, phytochrome converts to the Pfr form and remains in that state
-until far-red light or thermal reversion converts it back. The plant
-effectively "remembers" the last color of light it perceived, using this
-information to regulate flowering, germination, and [[shade-avoidance-syndrome]].
+behavior. [[what-a-plant-knows-plant-vision-and-light-perception]],
+the [[shade-avoidance-syndrome]].
 
 ## Vernalization: Winter Memory
 
@@ -59,12 +51,7 @@ that germinate in autumn rather than spring.
 Plants can be "primed" by prior exposure to stress, resulting in faster,
 stronger, or more effective responses to subsequent stress encounters.
 This form of memory, sometimes called systemic acquired resistance (SAR)
-or [[endophytic-mycorrhizal-induced-systemic-resistance]] resistance (ISR), can persist for weeks to months
-and in some cases appears to be transmitted to offspring through
-transgenerational epigenetic inheritance.
-
-When a plant is attacked by pathogens, it activates defense pathways
-centered on the signaling molecule [[comparison-jasmonate-vs-salicylic-acid-defense-signaling]] (SA). After the
+or [[comparison-jasmonate-vs-salicylic-acid-defense-signaling]] (SA). After the
 initial infection is resolved, the plant maintains elevated levels of
 defensive proteins and a heightened state of alertness. If the same or
 a related pathogen attacks again, the primed plant mounts a defense
@@ -74,9 +61,7 @@ at defense-related gene loci, keeping these genes in a transcriptionally
 poised state ready for rapid reactivation.
 
 Herbivore priming operates through similar principles but involves
-[[jasmonic-acid-plant-defense-signaling]] rather than salicylic acid signaling. Plants that have
-experienced insect feeding produce higher baseline levels of defensive
-attacks. This defense memory interacts with [[mimosa-pudica]],
+[[mimosa-pudica]],
 famous for its rapid leaf-folding response to touch, gradually stops
 closing its leaves when touched repeatedly if no harmful consequence
 follows. This behavioral adaptation persists for days and can be
@@ -88,3 +73,78 @@ example, may lead to desensitization of mechanosensitive ion channels
 or depletion of intracellular calcium stores. The specificity and
 persistence of plant habituation demonstrate that even this seemingly
 simple learning behavior requires sophisticated molecular information
+
+## Overview
+
+Plant Memory And Learning represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish plant memory and learning
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving plant extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Plant Memory And Learning finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for plant memory and learning. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+plant memory and learning and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Plant Memory And Learning has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of plant memory and learning into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and

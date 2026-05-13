@@ -12,12 +12,7 @@ aliases: [cultivar specific microbiome, genotype-dependent microbiome, host spec
 
 **Cultivar specificity** refers to the phenomenon where different plant
 cultivars (distinct varieties within a species) maintain significantly
-different [[cannabis-rhizosphere-microbial-communities]], particularly in their endorhiza (root interior).
-This effect demonstrates that host genetics plays a deterministic role in
-shaping the plant microbiome, beyond the influence of soil environment.
-
-In Cannabis, cultivar-specific microbial associations were first systematically
-demonstrated by Winston et al. (2014), who showed that [[cannabis-rhizosphere-endorhiza-communities]]
+different [[cannabis-rhizosphere-endorhiza-communities]]
 differ significantly between strains even when grown in identical soil.
 
 ## Evidence for Cultivar Specificity
@@ -34,34 +29,9 @@ In Cannabis, cultivar-level differentiation of microbial communities was:
   R² = 0.39, p = 0.003 (unweighted) — host genotype is the dominant factor.
 
 This gradient — increasing cultivar effect from soil to rhizosphere to root
-interior — is a core prediction of the [[two-tier-selection-model]].
+interior — is a core prediction of the [[alpha-diversity-gradient-bulk-soil-cannabis-endorhiza]]. Its distribution across cultivars:
 
-### Taxonomic Drivers
-
-The genus *Methylophilus* was identified as a major driver of cultivar
-differences in the [[alpha-diversity-gradient-bulk-soil-cannabis-endorhiza]]. Its distribution across cultivars:
-
-- **Bookoo Kush**: 13% of [[proteobacteria-dominance-cannabis-endorhiza]]
-- **Burmese**: 0.13%
-- **Sour Diesel**: Completely absent
-
-This 100-fold variation across three cultivars grown in the same soil type
-demonstrates strong host selection. *Methylophilus* is a methylotroph — it
-uses methanol as a carbon source. Plant-derived methanol is released during
-pectin demethylation (cell wall metabolism), suggesting that cultivar-specific
-differences in cell wall composition or pectin metabolism rates create niche
-space for methylotrophs in some genotypes but not others.
-
-## Mechanisms of Host Selection
-
-### Root Exudate Variation
-
-Different cultivars produce distinct exudate profiles. Root exudates are the
-primary interface through which plants communicate with and select their
-microbial partners. Cultivar differences in exudate composition arise from:
-
-- **Genetic variation in metabolic pathways**: Different cultivars produce
-  different [[antifungal-secondary-metabolites-coprophilous-fungi]], which are exuded into the rhizosphere and
+- **Bookoo Kush**: 13% of [[antifungal-secondary-metabolites-coprophilous-fungi]], which are exuded into the rhizosphere and
   endorhiza at different concentrations.
 - **Cell wall composition**: Pectin, lignin, and suberin content varies between
   cultivars, affecting both the chemical environment and the degradation
@@ -118,8 +88,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[dom]]
 - [[det]]
-- [[methanol]]
 - [[root-exudates]]
 - [[ethanol]]

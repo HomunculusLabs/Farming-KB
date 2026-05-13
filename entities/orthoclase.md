@@ -80,11 +80,8 @@ Orthoclase is a potassium-rich felspar mineral and a major constituent of granit
 
 ## References
 
-- Mollison, B. (1988). *Permaculture: A Designers' Manual*. [[tagari-publications]]. Chapter 8: Soils.
-- Leeper, G.W. (1982). *Introduction to Soil Science*. Melbourne University Press.
+- Mollison, B. (1988). *Permaculture: A Designers' Manual*. [[bill-mollison-permaculture-a-designers-manual-earthworking-and-earth-resources]]
+- [[mollison-designers-soil-water-storage-and-field-capacity]]
 
 ## See Also
-
-- [[bill-mollison-permaculture-a-designers-manual-earthworking-and-earth-resources]]
-- [[mollison-designers-soil-ph-and-mineral-amendments]]
-- [[mollison-designers-soil-water-storage-and-field-capacity]]
+- [[bill-mollison-permaculture-a-designers-manual-water-harvesting-and-earthworks]]

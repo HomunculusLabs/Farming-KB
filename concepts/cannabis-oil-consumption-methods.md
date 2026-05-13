@@ -8,40 +8,14 @@ type: concept
 
 Once cannabis oil has been extracted and purified through the alchemical processes
 described in earlier chapters, the practitioner must choose how best to consume
-it. Chapters Six through Nine of *[[cannabis-alchemy-book]]* by [[ben-lemon]] detail four
+it. Chapters Six through Nine of *[[ben-lemon]] detail four
 principal methods, each with its own practical considerations and advantages.
 
 | Method | Route | Key Advantage |
 |--------|-------|---------------|
 | Oil Capsules | Oral / Ingestion | Precise dosing, no inhalation |
 | Direct Vaporization | Inhalation | Rapid onset, full flavor |
-| [[honey-oil]] (Translucent) | Refinement prerequisite | Cleaner product for any use |
-| Reefers | Inhalation (smoking) | Familiar form factor, social use |
-
-## 1. Oil Capsules (Chapter 6)
-
-Oral consumption of purified cannabis oil delivers cannabinoids through the
-digestive system. The critical challenge is bioavailability: cannabinoids are
-lipophilic (fat-soluble), so they require a fat carrier to pass efficiently
-through the stomach and intestinal membranes into the bloodstream.
-
-**Preparation:**
-
-1. **Butter Emulsion** — Mix the purified oil with an equal amount of butter.
-   The butterfat acts as a lipid carrier, enabling the oil to traverse the
-   stomach and intestinal walls more effectively than it would alone.
-2. **Powder Blending** — Blend the butter-oil mixture into two volumes of an
-   inert, edible powder. Options include finely ground marijuana leaf or flower
-   (adds synergistic cannabinoids), parsley (neutral flavor, inexpensive bulking
-   agent), lactose (milk sugar; common in pharmaceutical preparations), or any
-   other inert edible powder that absorbs the mixture evenly.
-3. **Encapsulation** — Stuff the resulting paste into large gelatin capsules.
-   Standard "00" or "000" size capsules are typical, as they hold sufficient
-   material to deliver an effective dose.
-
-**Considerations:**
-
-- **Onset time:** Oral [[hashish-preparation-and-cannabis-products]] typically take 30–90 minutes to take
+| [[hashish-preparation-and-cannabis-products]] typically take 30–90 minutes to take
   effect, as cannabinoids must pass through the digestive tract and liver.
 - **Duration:** Effects last significantly longer than inhaled methods, often
   4–8 hours, due to slower metabolism and conversion of THC to 11-hydroxy-THC
@@ -123,21 +97,5 @@ standard marijuana joint.
 - **Dipping in tincture:** The finished cigarette is dipped into a cannabis
   tincture (alcohol-based liquid extract), saturating the material. The
   cigarette must dry completely before smoking.
-- **Injecting with tincture:** A syringe injects [[cannabis-tincture-preparation]] directly
-  into the interior of the rolled cigarette, concentrating the extract in the
-  core for a potent center.
-
-**Considerations:** Reefers made with concentrated oil or tincture are
-substantially more potent than standard marijuana cigarettes — dose awareness is
-essential. Methods that distribute extract evenly (working into material,
-dipping) produce a more consistent experience than localized application.
-Tincture-based methods require adequate drying time to evaporate residual
-alcohol.
-
-## Cross-Method Notes
-
-These four approaches can be combined. Honey oil produced via charcoal refinement
-(Chapter 8) can be used to make capsules (Chapter 6), vaporized in a glass pipe
-(Chapter 7), or worked into reefers (Chapter 9). The choice of consumption
-method depends on desired onset speed, duration of effect, [[emcdda-hallucinogenic-mushroom-polydrug-use-social-context]], and
+- **Injecting with tincture:** A syringe injects [[emcdda-hallucinogenic-mushroom-polydrug-use-social-context]], and
 the practitioner's access to [[oss-oeric-equipment-and-materials-list]].

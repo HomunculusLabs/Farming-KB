@@ -16,37 +16,7 @@ Bioweathering is the erosion, decay and decomposition of rocks and minerals medi
 
 ## Fungal Habitats on Rocks
 
-Fungal communities have been components of terrestrial environments since the Ordovician period (480-460 MYBP). The filamentous growth habit provides high surface-area-to-mass ratio, [[dighton-fungal-nutrient-translocation-element-redistribution]] capability, and hydrated mucilaginous sheaths that create interconnected microenvironments within fungal networks. Rock-dwelling microorganisms are classified as:
-
-- **Epilithic** -- on the rock surface
-- **Hypolithic** -- associated with pebbles
-- **Endolithic** -- inhabiting the rock sub-surface (further divided into chasmoliths in cracks, cryptoendoliths in cavities among crystal grains, and euendoliths that actively bore into rock)
-- **Microcolonial fungi** -- darkly pigmented, occurring as spherical clusters of tightly packed cells with thick walls
-
-Fungi have been found in limestone, soapstone, marble, granite, sandstone, andesite, basalt, gneiss, dolerite, amphibolite and quartz. Alkaline rocks are more susceptible to fungal attack than acidic rocks. Fungi contribute to weathering of silicate-bearing rocks (mica, orthoclase) and iron- and manganese-bearing minerals (biotite, olivine, pyroxene).
-
-## Mechanisms of Weathering
-
-Two synergistic mechanisms degrade mineral substrates: biomechanical and biochemical weathering.
-
-### Biomechanical Weathering
-
-Direct biomechanical degradation occurs through hyphal penetration into decayed rocks and tunnelling into otherwise intact mineral matter along crystal planes, cleavage, cracks and grain boundaries. Hyphal turgor pressure provides considerable mechanical force. Penetration is facilitated by thigmotropic reactions (directed growth towards grooves, ridges and pores) and lubrication with mucilaginous slime containing acidic and metal-chelating metabolites. Indirect biomechanical weathering occurs through shrinking and swelling of hydrated mucilage.
-
-### Biochemical Weathering
-
-Biochemical processes are considered much more important than mechanical degradation. The main mechanisms are:
-
-- **Acidolysis (proton-promoted dissolution)**: Fungi acidify their microenvironment through excretion of protons, organic acids, and formation of carbonic acid from respiratory CO2. Acidolysis is the main mechanism when fungi grow with ammonium as nitrogen source.
-- **Complexolysis (ligand-promoted dissolution)**: Fungi excrete metal-complexing metabolites including carboxylic acids (oxalic, citric), amino acids, siderophores and phenolic compounds. Oxalic and citric acid perform aggressive attack on mineral surfaces. When a fungus excretes large amounts of a strong chelator like oxalate, the solubilization mechanism shifts to ligand-promoted dissolution.
-- **Redoxolysis**: Redox transformations of metals and metalloids.
-- **Metal immobilization**: Mobile metal species are bound, accumulated or precipitated by fungal biomass via biosorption to cell walls, pigments and extracellular polysaccharides, intracellular accumulation, and extracellular precipitation.
-
-## Secondary Mycogenic Minerals
-
-### Carbonates
-
-Microbial carbonate precipitation coupled with silicate weathering provides an important CO2 sink. [[fungal-calcium-oxalate-crystals]] (weddelite and whewellite) is commonly associated with various fungal ecophysiological groups. Chitin, the major component of fungal cell walls, is a substrate on which calcite readily nucleates. Fungi precipitate secondary calcite, whewellite and glushkinskite.
+Fungal communities have been components of terrestrial environments since the Ordovician period (480-460 MYBP). The filamentous growth habit provides high surface-area-to-mass ratio, [[fungal-calcium-oxalate-crystals]] (weddelite and whewellite) is commonly associated with various fungal ecophysiological groups. Chitin, the major component of fungal cell walls, is a substrate on which calcite readily nucleates. Fungi precipitate secondary calcite, whewellite and glushkinskite.
 
 ### Oxalates
 
@@ -62,34 +32,11 @@ Mycorrhizal fungi are involved in proton- and ligand-promoted metal mobilization
 
 ## Environmental Significance
 
-Fungal mineral transformations affect contaminated land treatment, [[fungal-building-material-deterioration]] deterioration, and nuclear waste storage barrier integrity. Mycorrhizal fungi can enhance plant growth on contaminated soils and contribute to phyto- and rhizo-remediation. Metal-resistant mycobionts are most efficient at ameliorating toxicity to host plants. However, fungal mineral-solubilizing activity may transform final products of chemical remediation technologies, necessitating assessment of long-term environmental consequences.
-
-## Building Material Deterioration
-
-Any type of building or ceramic material, concrete and cement can be degraded by fungi. Under certain conditions, deterioration of concrete by fungi may be more efficient than that caused by bacteria. Microfungi colonized barrier concrete in experimental studies, avoiding granite-filled areas. Melanized strains of Alternaria, Cladosporium and Aureobasidium survived and colonized highly radioactive concrete at Chernobyl. Myco-corrosion may reduce the theoretically calculated service life of concrete, causing potential risk from radionuclide release. Aspergillus niger and Penicillium expansum can degrade olivine, dunite, serpentine, muscovite, feldspar, spodumene, kaolin, nepheline and basalt; Penicillium simplicissimum and Scopulariopsis brevicaulis released aluminium from aluminosilicates.
-
-## Assessment of Geoactive Fungal Communities
-
-Lithic fungal communities are ubiquitous and play important [[dighton-fungal-roles-in-nutrient-cycling]], metal and carbon cycling. Diverse communities have been found in the McMurdo Dry Valleys of Antarctica, extreme hot and cold deserts, and rock substrates buried kilometres below the Earth's surface. Traditional culture-based methods capture only about 5% of environmental fungi at best. DNA-based characterization techniques are increasingly important, using PCR amplification of SSU (18S) or ITS rDNA regions. The ITS region provides higher species resolution than 18S. [[staycare-molecular-approaches-fungal-bioremediation]] include clone libraries, T-RFLP, ARISA, DGGE/TGGE, and automated ribosomal intergenic spacer analysis (ARISA).
-
-## Other Mycogenic Minerals
-
-A combination of biotic and abiotic factors leads to deposition of birnessite, MnO, FeO, ferrihydrite, iron gluconate, calcium formate, forsterite, goethite, halloysite, hydroserussite, todorokite, moolooite and montmorillonite. Precipitation immobilizes metals in the soil environment, limiting bioavailability. Lichens, covering an estimated 6% of Earth's land surface, play important biogeochemical roles in nutrient retention, soil formation and rock weathering. They accumulate metals (Pb, Cu, radionuclides) and form metal-organic biominerals during growth on metal-rich substrates.
-
-## See Also
-
-- [[arbuscular-mycorrhizal-fungi]]
-- [[fungal-biosorption-of-heavy-metals-by-filamentous-fungi]]
+Fungal mineral transformations affect contaminated land treatment, [[dighton-fungal-roles-in-nutrient-cycling]], metal and carbon cycling. Diverse communities have been found in the McMurdo Dry Valleys of Antarctica, extreme hot and cold deserts, and rock substrates buried kilometres below the Earth's surface. Traditional culture-based methods capture only about 5% of environmental fungi at best. DNA-based characterization techniques are increasingly important, using PCR amplification of SSU (18S) or ITS rDNA regions. The ITS region provides higher species resolution than 18S. [[arbuscular-mycorrhizal-fungi]]
 - [[bioavailability-in-fungal-bioremediation]]
-- [[gadd-fungal-biodegradation-bioremediation]]
-
 - [[gadd-fungal-cell-structure]]
 
-- [[gadd-fungal-ecology-pathogens]]
-
 - [[gadd-fungal-extremophiles]]
-
-- [[gadd-fungal-reproduction-spores]]
 
 - [[gadd-fungal-symbiosis-mycorrhizae]]
 
@@ -122,8 +69,82 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[doc]]
 - [[dom]]
-- [[det]]
 - [[paxillus-involutus]]
 - [[soma]]
+
+## Overview
+
+Gadd Fungal Rock Weathering represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish gadd fungal rock weathering
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving gadd extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Gadd Fungal Rock Weathering finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for gadd fungal rock weathering. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+gadd fungal rock weathering and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Gadd Fungal Rock Weathering has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of gadd fungal rock weathering into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.

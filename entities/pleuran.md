@@ -10,16 +10,11 @@ sources: [/Users/t3rpz/wiki/raw/papers/cancer-treatments-medicinal-mushrooms.md]
 
 # Pleuran
 
-Pleuran is an insoluble beta-1,3/1,6-D-glucan extracted from the [[comparison-fruiting-body-vs-mycelium-extracts-medicinal-mushrooms]] and mycelium of [[lentinan]], pleuran's particulate nature affects its biodistribution and receptor interaction profile. The insoluble fraction must be processed by phagocytic cells before receptor engagement.
+Pleuran is an insoluble beta-1,3/1,6-D-glucan extracted from the [[lentinan]], pleuran's particulate nature affects its biodistribution and receptor interaction profile. The insoluble fraction must be processed by phagocytic cells before receptor engagement.
 
 ## Extraction and Purification
 
-Pleuran is isolated from [[pleurotus-ostreatus]] is one of the most widely [[fungi-cultivated-mushrooms-pathogens-competitors]] globally, making pleuran extraction economically viable from industrial cultivation waste streams. Spent [[gourmet-medicinal-mushroom-substrate-preparation]] and fruiting body trimmings represent potential raw materials for pleuran production.
-
-## See Also
-
-- [[beta-glucans]]
-- [[grifolan]]
+Pleuran is isolated from [[fungi-cultivated-mushrooms-pathogens-competitors]] globally, making pleuran extraction economically viable from industrial cultivation waste streams. Spent [[beta-glucans]]
 - [[psk-polysaccharide-krestin]]
 ## Practical Applications
 

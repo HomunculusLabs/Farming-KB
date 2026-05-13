@@ -73,19 +73,11 @@ The ultimate error of modern agriculture is anthropocentrism -- the belief that 
 
 ---
 
-Source: Masanobu Fukuoka, The Natural Way of Farming: The Theory and Practice of [[fukuoka-sowing-green-philosophy-one-grain-revolution]]
+Source: Masanobu Fukuoka, The Natural Way of Farming: The Theory and Practice of [[sport-fishery-critique-mollison]]
 
-## See Also
-
-- [[sport-fishery-critique-mollison]]
-
-- [[holzer-past-mistakes-modern-agriculture]]
 - [[fukuoka-money-sucking-octopus-economy-critique]]
 
-- [[fukuoka-textdoc-energy-wasteful-modern-agriculture]]
-
 - [[fukuoka-one-straw-revolution-philosophy]]
-- [[fukuoka-critique-genetic-engineering]]
 - [[fukuoka-natural-farming-philosophy-of-mu]]
 
 ## Practical Applications
@@ -117,8 +109,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[masanobu-fukuoka]]
 - [[doc]]
-- [[det]]
 - [[composting]]
 - [[spore]]

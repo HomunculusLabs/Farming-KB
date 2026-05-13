@@ -65,12 +65,7 @@ deep-seated sociological causes: materialism, alienation from nature
 through industrialization and increasing urbanization, lack of
 satisfaction in a mechanized working world, ennui and purposelessness in
 a wealthy saturated society, and lack of a religious, nurturing, and
-meaningful [[fukuoka-spiritual-philosophical-foundation]] of life.
-
-The existence of LSD was regarded by drug enthusiasts as a predestined
-coincidence: it had to be discovered precisely at this time to help
-people suffering under modern conditions. It was not surprising that LSD
-first circulated as an inebriating drug in the [[dmt-containing-plants-united-states-halpern]], where
+meaningful [[dmt-containing-plants-united-states-halpern]], where
 industrialization, urbanization, and mechanization were most broadly
 advanced.
 
@@ -90,43 +85,8 @@ The rapid rise of nonmedicinal LSD consumption at the beginning of the
 1960s was partly attributable to the fact that drug laws in most
 
 ## See Also
-- [[hofmann-lsd-clinical-research-early-studies]]
 - [[hofmann-sandoz-crisis-lsd-withdrawal]]
-- [[wasson-hofmann-psilocybin-connection]]
 - [[hofmann-lsd-pharmacokinetics-dosage-tolerance]]
-- [[hofmann-ololiuqui-morning-glory-investigation]]
-
-## Practical Applications
-
-The principles and techniques discussed here have wide-ranging applications
-across multiple disciplines and contexts. Practitioners and researchers
-continue to explore new ways to integrate these concepts into modern practice,
-adapting traditional knowledge to contemporary challenges and opportunities.
-
-## Key Considerations
-
-Several important factors influence the effectiveness and outcomes described
-in this topic. Understanding these considerations helps practitioners make
-informed decisions and avoid common pitfalls. Environmental conditions,
-timing, and material selection all play critical roles.
-
-## Historical Context
-
-The historical development of this subject reflects centuries of accumulated
-knowledge and practical experience. From traditional methods passed down
-through generations to modern scientific approaches, the evolution continues
-to inform current best practices and research directions.
-
-## Common Challenges
-
-Practitioners frequently encounter several challenges when working with
-these concepts. Climate variability, resource limitations, and knowledge
-gaps can all affect outcomes. Addressing these challenges requires patience,
-observation, and a willingness to adapt approaches based on results.
-
-## See Also
 - [[lsd]]
-- [[psilocybin]]
 - [[ololiuqui]]
-- [[dmt]]
 - [[hofmann-ernst-junger-lsd-literary-dialogue]]

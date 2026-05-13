@@ -6,10 +6,7 @@ type: concept
 
 # Allegro on the Issachar Oracles, Census, and the Bethlehem Stable
 
-[[john-allegro]] reads the biblical figure of Issachar and the surrounding census and
-Bethlehem narratives as dense layers of mushroom-cult wordplay. In his analysis,
-what appear to be straightforward historical oracles, genealogical records, and
-nativity stories encode references to the [[amanita-muscaria]] mushroom — its shape,
+[[amanita-muscaria]] mushroom — its shape,
 names, and ritual use — woven into the fabric of Hebrew Scripture and the New
 Testament.
 
@@ -34,23 +31,7 @@ burden and became a slave at forced labour." Allegro unpacks several
 interlocking puns here. The "resting-place" (m-n-w-h) plays on Na'iman
 (n-ʾ-m, "be sweet"), a Semitic mushroom epithet. The word rendered "forced
 labour," mas-ʿōbēd, Allegro traces back to an earlier mas-palakh — itself a
-phonetic echo of the [[sumerian-mushroom-nomenclature]] name MASh-BALAG. The "burden" (s-b-l)
-and "yoke" motif is yet another way of describing the mushroom stalk bearing
-the weight of the cap.
-
-### The Forced Labour Theme
-
-The "forced labour" motif attaches to several pivotal moments in Israel's
-sacred history. The Israelites suffer forced labour in Egypt; Solomon imposes it
-on his subjects (I Kings 12:4); and David's census (II Samuel 24) brings divine
-punishment upon the nation. In each case, Allegro argues, the underlying
-wordplay revolves around MASh-BALAG and its derivatives — the mushroom as the
-true "burden" or "yoke" the community bears. The census itself, a counting of
-heads under compulsion, becomes another vehicle for the same cluster of puns.
-
-### Visual and Sexual Mushroom Allusions
-
-The [[allegro-cross-and-mushroom-symbolism]] in the Issachar oracles is not purely verbal. The
+phonetic echo of the [[allegro-cross-and-mushroom-symbolism]] in the Issachar oracles is not purely verbal. The
 "sheepfold" — two barriers arranged in an open V — mirrors the shape of a
 mushroom cap seen from below. The tribal description carries an unmistakable
 sexual charge: Issachar is a "mighty penis lying between opened legs." The
@@ -76,11 +57,7 @@ true bread of the Presence.
 
 The Roman governor Quirinius (Greek Kūrēnios), credited with ordering the
 census, is himself a wordplay target. His Greek name echoes Grunon and
-Geraneion — known Greek names for [[allegro-colour-and-consistency-of-the-amanita-muscaria]]. The historical
-difficulty is well known: Quirinius became governor of Syria in AD 6, while
-Herod the Great died around 4 BC. Allegro takes this chronological gap as
-evidence that the story was never intended as history — the names were chosen
-for their phonetic resonance with [[hallucinogenic-mushroom-terminology-european-languages-emcdda-2006]], not for their
+Geraneion — known Greek names for [[hallucinogenic-mushroom-terminology-european-languages-emcdda-2006]], not for their
 historical accuracy.
 
 ### The Stable and Manger (Luke 2:7)
@@ -107,26 +84,7 @@ pagan template whose original referent was the fungal sacrament.
 
 ### Adonis as Fertility Hero-God
 
-Adonis is the prime fertility hero-god of [[allegro-fertility-philosophy-of-the-ancient-near-east]] East, and Allegro
-argues that the biblical David is portrayed in the same phallic form. The
-parallels extend beyond narrative pattern into the very language used of each
-figure.
-
-### The Oracle of David (II Samuel 23:1)
-
-David's final oracle calls him an "erect phallus," "semen-smeared," "Na'im"
-(the sweet one), and "the stretched penis of Israel." Each title, Allegro
-contends, is a mushroom epithet in Hebrew or Sumerian disguise. Even the
-designation "Son of Jesse" (ben-yishai) is a hebraized rendering of *\*B\_ush\_SA*,
-"erect penis." The Davidic royal ideology, in this reading, is at root a
-mushroom cult mythology given a historical veneer.
-
-### Mezar, Masōr, and the Exodus from Egypt
-
-The Hebrew mezar (or masōr, "bond" / "protection") is another mushroom term.
-Allegro connects it with the name of Egypt (Mitzrayim) to argue that the entire
-Exodus narrative may rest on a pun: the "going out from Egypt" is originally a
-"going out from the [[egyptian-mushroom-symbolism]]" — a reference to a particular variety or
+Adonis is the prime fertility hero-god of [[egyptian-mushroom-symbolism]]" — a reference to a particular variety or
 source of the sacred fungus. The story of enslavement and liberation, like the
 Issachar forced-labour oracles, encodes the mushroom's role as both burden and
 saviour.

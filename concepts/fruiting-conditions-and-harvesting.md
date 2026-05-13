@@ -14,18 +14,7 @@ type: concept
 ## Overview
 
 The fruiting stage begins when colonized substrate cakes are transferred from
-their jars into the dual [[dual-chambered-terrarium-design]]. This is where the actual
-mushrooms develop and mature. Proper environmental conditions, particularly
-humidity, temperature, and light, are essential for successful fruiting.
-Understanding when and how to harvest is equally important for maximizing both
-yield and potency.
-
-## The Birthday: Transferring to the Terrarium
-
-The moment the fungus cake is removed from the jar is referred to as the
-"birthday." The best time for this is when primordia (tiny worm-like structures
-with reddish heads) appear on the cake while still inside the jar. The cake is
-slid out onto an old [[carbon-dioxide-retention-jar-lid-mushroom-cultivation]] that serves as a base, then any water droplets on
+their jars into the dual [[carbon-dioxide-retention-jar-lid-mushroom-cultivation]] that serves as a base, then any water droplets on
 the cake are daubed with tissue paper. The cake goes immediately into the
 terrarium for the fruiting cycle.
 
@@ -35,12 +24,11 @@ terrarium for the fruiting cycle.
 
 High humidity is the single most important factor for fruiting. The fungus
 needs to bathe in a shroud of floating water molecules. Near 100% humidity is
-the target. The [[dual-chambered-terrarium]] achieves this through the [[pf-tek-dual-chambered-terrarium-spray-shield-humidity-physics]]
+the target. The [[pf-tek-dual-chambered-terrarium-spray-shield-humidity-physics]]
 system, which molecularizes water spray into a fine mist that envelops the
 cakes without directly wetting them.
 
-Symptoms of [[pf-tek-low-humidity-symptoms-and-remediation]] include:
-- Fuzzy white [[spore]] collection and display.
+Symptoms of [[spore]] collection and display.
 
 ### Aborts
 
@@ -117,8 +105,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[fruiting-conditions]]
 - [[spore]]
-- [[fruiting-conditions-and-pinning]]
 - [[azurescens-fruiting-seasons-and-conditions]]
 - [[pf-tek-fruiting-and-harvesting]]

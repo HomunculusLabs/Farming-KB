@@ -11,8 +11,7 @@ date: 2026-05-08
 updated: 2026-05-08
 sources:
   - Brewster JL (2008). Onions and Other Vegetable Alliums. 2nd ed. CABI Publishing.
-  - Fritsch RM, Friesen N (2002). "Evolution, domestication and taxonomy." In: Rabinowitch HD, Currah L (eds.) Allium [[brassinosteroid-anti-stress-effects-crop-science]]. CABI.
-  - Khar A, Lawande KE, Jadhav VB (2008). "[[genetic-improvement-agaricus-bisporus-molecular-approaches]] of onion." In: Ali M et al. (eds.) Vegetable Science. Springer.
+  - Fritsch RM, Friesen N (2002). "Evolution, domestication and taxonomy." In: Rabinowitch HD, Currah L (eds.) Allium genetic-improvement-agaricus-bisporus-molecular-approaches of onion." In: Ali M et al. (eds.) Vegetable Science. Springer.
   - Block E (2010). Garlic and Other Alliums: The Lore and the Science. Royal Society of Chemistry.
   - Havey MJ (1995). "Phylogenetic relationships among cultivated onions." American Journal of Botany.
 ---
@@ -56,9 +55,7 @@ The primary center of diversity is Central Asia, spanning from Turkmenistan and 
 
 Secondary diversity centers exist in the Mediterranean region and in India, where distinct landrace groups have evolved over centuries of cultivation.
 
-Cultivation has spread globally, with major production concentrated in China, India, the [[dmt-containing-plants-united-states-halpern]], Turkey, Pakistan, and Russia.
-
-Onions are adapted to a wide range of temperate [[query-how-to-grow-rare-tropical-fruits-in-marginal-and-subtropical-climates]], though bulb formation is strongly photoperiod-dependent.
+Cultivation has spread globally, with major production concentrated in China, India, the [[query-how-to-grow-rare-tropical-fruits-in-marginal-and-subtropical-climates]], though bulb formation is strongly photoperiod-dependent.
 
 Short-day cultivars require 10–12 hours of daylight and are grown at lower latitudes, while long-day types require 14–16 hours and dominate in northern temperate zones.
 
@@ -66,7 +63,7 @@ Short-day cultivars require 10–12 hours of daylight and are grown at lower lat
 
 Onions are propagated either from seed or from sets (small, dormant bulbs produced the previous season).
 
-[[comparison-seed-starting-indoors-vs-direct-seeding-techniques]] requires careful [[soil-moisture-management-and-root-growth]], as onion seeds are small and have low vigor during emergence.
+[[soil-moisture-management-and-root-growth]], as onion seeds are small and have low vigor during emergence.
 
 Transplant production in nurseries or plug trays is common for large-scale commercial operations, allowing better establishment and earlier maturity.
 
@@ -87,3 +84,7 @@ Quercetin, a flavonol concentrated in the outer skin layers, is one of the most 
 The characteristic pungency and lachrymatory (tear-inducing) properties are produced by sulfur-containing compounds released when cells are damaged.
 
 When onion tissue is cut, the enzyme alliinase converts isoalliin (S-1-propenyl-L-cysteine sulfoxide) to 1-propenyl sulfenic acid, which rearranges to syn-propanethial-S-oxide.
+
+## See Also
+
+- [[garlic-cultivation-and-allium-growing-guide]]

@@ -43,23 +43,7 @@ L. cardiaca is an erect, branching perennial reaching 60-120 cm in height.
 Stems are square (characteristic of Lamiaceae), ribbed, and covered with
 short hairs. Leaves are opposite, palmately lobed with 3-7 pointed lobes,
 dark green above and paler below with pubescence, resembling nettle leaves
-([[beta-caryophyllene]], and
-  linalool as major components.
-
-## Pharmacology and Traditional Use
-
-The primary traditional indications for motherwort center on women's
-health and cardiovascular support:
-
-- **Uterine tonic**: Used since antiquity (Dioscorides, Gerard) to promote
-  menstrual regularity, ease dysmenorrhea, and support postpartum recovery.
-  Leonurin and stachydrine are the likely active principles.
-- **Cardiotonic and anxiolytic**: Historical use for "palpitations of the
-  heart" and anxiety-associated tachycardia. Mild cardiotonic and
-  hypotensive effects have been documented, alongside anxiolytic activity
-  in animal models.
-- **Sedative**: The aerial parts have mild sedative properties, used in
-  combination with [[passiflora-incarnata]] in
+([[passiflora-incarnata]] in
   traditional formulations for nervousness and insomnia.
 
 Modern pharmacological studies support anti-inflammatory (COX inhibition),
@@ -72,9 +56,7 @@ data from animal models and in vitro studies.
 
 Motherwort has several valuable functions in designed landscapes:
 
-- **[[nutrient-dynamic-accumulator-reference]]**: Deep taproot mines minerals (potassium,
-  calcium, iron) from subsoil layers, making them available through
-  [[dighton-fungal-decomposition-leaf-litter-dynamics]] and [[companion-planting]]**: The strong aromatic foliage may help repel
+- **[[dighton-fungal-decomposition-leaf-litter-dynamics]] and [[companion-planting]]**: The strong aromatic foliage may help repel
   certain pest insects when interplanted with vegetables.
 - **Edge species**: Well-suited to hedgerow plantings and guild margins
   in food forests, tolerating both sun and partial shade.
@@ -88,3 +70,80 @@ to a robust root system.
 
 Plants establish quickly and require minimal maintenance. Harvesting of
 aerial parts occurs during flowering (June-August) when bioactive compound
+
+## Overview
+
+Leonurus Cardiaca Entity represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish leonurus cardiaca entity
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving leonurus extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Leonurus Cardiaca Entity finds practical application in multiple design contexts.
+[[permaculture-principles]] guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for leonurus cardiaca entity. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+leonurus cardiaca entity and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Leonurus Cardiaca Entity has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of leonurus cardiaca entity into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.

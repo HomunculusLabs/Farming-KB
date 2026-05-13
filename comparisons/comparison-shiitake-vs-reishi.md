@@ -23,34 +23,6 @@ concentrated therapeutic preparation (reishi).
 
 ## Shiitake
 
-[[shiitake-mushroom-cultivation]]
-
-Shiitake is the second most cultivated mushroom worldwide and the most
-popular gourmet species for outdoor log cultivation. Native to East Asia,
-it has been cultivated for over 1,000 years on hardwood logs. Its name
-derives from the Japanese "shii" (the tree Castanopsis cuspidata) and
-"take" (mushroom).
-
-Shiitake uniquely bridges culinary and medicinal traditions. It is rich
-in umami flavor compounds (glutamic acid, guanylic acid) and provides a
-dense nutritional profile: 17-20% protein by dry weight, all essential
-amino acids, B vitamins, selenium, zinc, and copper. Dried shiitake
-produces vitamin D2 when exposed to UV light.
-
-The key medicinal compound is **lentinan**, a beta-1,3-glucan approved
-in Japan as an injectable cancer adjuvant for gastric cancer. Shiitake
-also contains **eritadenine** (cholesterol-lowering), **LEM** (antiviral
-mycelial extract), and **lenthionine** (antimicrobial sulfur compound).
-Clinical studies show 7-12% reduction in total cholesterol with regular
-consumption of 4-10 dried shiitake per day.
-
-Cultivation is straightforward on oak or maple logs (outdoor, low-tech)
-or supplemented hardwood sawdust (indoor, commercial scale). Colonization
-takes 6-18 months on logs, 2-4 weeks on sawdust blocks. Fresh mushrooms
-are harvested in flushes every 4-8 weeks.
-
-## Reishi
-
 [[reishi-cultivation]]
 
 Reishi, known as Lingzhi in Chinese medicine, is a woody polypore with
@@ -143,8 +115,6 @@ comprehensive immune support.
 
 ## See Also
 
-- [[shiitake-medicinal-compounds]]
 - [[reishi-mushroom-medicinal-properties]]
-- [[medicinal-mushroom-guide-shiitake]]
 - [[medicinal-mushroom-guide-reishi]]
 - [[comparison-cordyceps-vs-lions-mane-cultivation]]

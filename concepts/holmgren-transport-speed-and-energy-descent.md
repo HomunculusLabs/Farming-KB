@@ -40,51 +40,12 @@ low-weight durable commodities such as spices, silk and precious metals.
 ## The Fossil Fuel Revolution in Transport
 
 The shift from bullocks to horses as the basis of transport and farming
-in the lead-up to the [[mckenna-caffeine-coffee-and-industrial-revolution]] represented a significant
-increase in speed and power. Fossil fuels then reorganised human systems
-around concentrated energy. Transport of goods of great bulk and low value
-completely reconfigured the economic geography of the world.
-
-## Industrial Speed
-
-Even more dramatic than the increase in physical scale of the industrial
-world is the increase in movement and speed. Transport of goods of great
-bulk and low value completely reconfigured the economic geography of the
-world. Fast, long-distance refrigerated transport of perishable food has,
-in Holmgren's lifetime, destroyed one of the last links to the patterns of
-the seasons in ordinary people's lives. Commuting has become entrenched
-as a completely natural way of living, beginning at an early age with
-the daily trip to the childcare centre.
-
-The concept of fast food, prepared as quickly as possible and disposed of
-almost as quickly, is bizarre -- and yet normal.
-
-## Car Dependency as Addiction
-
-Holmgren describes Permaculture as "aid for addicts" and applies addiction
-frameworks to understand widespread dependence on car transport. The
-term "[[holmgren-consumer-addiction-and-hedonic-treadmill]]" describes how continuous increases in material
+in the lead-up to the [[holmgren-consumer-addiction-and-hedonic-treadmill]]" describes how continuous increases in material
 wealth are now needed to maintain happiness measures, which Holmgren
-identifies as [[permaculture-small-and-slow-solutions]].
-
-## Techno-Optimism and Its Limits
-
-The Boeing and Lockheed Corporations produced plans for large supersonic
-swing-wing passenger planes in the 1960s, but only the more modest
-Concorde and its Russian competitor ever flew regular services, both
-commercial failures. More fuel-efficient, slower, larger-capacity planes
-now dominate. Plans for slower, more efficient modern airships signal a
-trend. Significantly higher oil prices could make airships the only
-economically viable air transport.
-
-## Food Miles and Local Production
-
-At [[permaculture-small-and-slow-solutions]] applies directly: slow, local, human-powered systems are more resilient, more equitable, and more adaptive than high-speed, fossil-fuel-dependent infrastructure. Community-scale tool libraries, cooperative food processing facilities, and local energy grids further reduce transport demand by providing shared resources within walking distance.
+identifies as [[permaculture-small-and-slow-solutions]] applies directly: slow, local, human-powered systems are more resilient, more equitable, and more adaptive than high-speed, fossil-fuel-dependent infrastructure. Community-scale tool libraries, cooperative food processing facilities, and local energy grids further reduce transport demand by providing shared resources within walking distance.
 
 See also holmgren-household-economy-and-self-reliance,
-[[holmgren-fossil-fuel-pulse-and-energy-descent-cycle]].
-## See Also
-- [[david-holmgren]]
+[[david-holmgren]]
 
 ## Practical Applications
 
@@ -115,8 +76,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[david-holmgren]]
 - [[dom]]
-- [[det]]
 - [[caffeine]]
 - [[permaculture]]

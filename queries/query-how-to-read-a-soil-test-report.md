@@ -13,22 +13,17 @@ type: query
 # How to Read a Soil Test Report
 
 ## Short Answer
-A soil test report measures pH, [[hamilton-composting-and-organic-matter-management]] content, nutrient levels (NPK and
-micronutrients), [[mollison-designers-tropical-soils-and-cation-exchange-management]] capacity, and base saturation. Read it by first
+A soil test report measures pH, [[mollison-designers-tropical-soils-and-cation-exchange-management]] capacity, and base saturation. Read it by first
 checking pH and organic matter, then comparing each nutrient level to the optimal
 range for your crop, and finally looking at the base saturation percentages to
-understand nutrient balance. The [[cannabis-ph-management-and-soil-flushing]] page covers pH correction strategies
-using lime, sulfur, and [[cervantes-organic-amendments-chart]] for different growing situations.
+understand nutrient balance. The [[cervantes-organic-amendments-chart]] for different growing situations.
 
 Organic matter percentage is the second critical metric to evaluate. Organic matter
-is the foundation of soil health because it feeds the [[edaphic-factors-microbial-community-structure]], improves
-soil structure, increases water-holding capacity, and provides cation exchange sites
-that hold nutrients in a plant-available form. Most agricultural soils have 1 to 5%
-organic matter, while [[query-how-to-build-healthy-garden-soil]] soils should target 5 to 10%. If your organic
+is the foundation of soil health because it feeds the [[query-how-to-build-healthy-garden-soil]] soils should target 5 to 10%. If your organic
 matter is below 3%, adding compost, cover crops, or mulch should be your top
 priority before spending money on mineral fertilizers, because low organic matter
 limits the soil's ability to hold and cycle any nutrients you add. The
-[[cervantes-organic-amendments-chart]] and [[nutrient-lockout]] even when
+[[nutrient-lockout]] even when
 total nutrient levels appear adequate on the test report.
 
 Micronutrient levels, including iron, manganese, zinc, copper, boron, and others,
@@ -37,8 +32,7 @@ tiny quantities. Micronutrient deficiencies are often pH-related rather than act
 shortages, so always check pH before supplementing micronutrients. If your soil test
 shows adequate micronutrient levels but your plants show deficiency symptoms, the
 issue is almost certainly pH lockout or an antagonistic relationship with another
-nutrient at excessive levels. The [[cannabis-boron-nutrient]],
-and [[living-soil-cannabis]]
+nutrient at excessive levels. The [[living-soil-cannabis]]
 methods, soil testing provides a valuable baseline for building your soil recipe. By
 knowing your starting pH, organic matter content, and nutrient levels, you can
 calculate exactly what amendments are needed to create an optimal growing
@@ -54,7 +48,6 @@ recipes or guesswork.
   prioritized above mineral amendments if below 3%
 - CEC and base saturation reveal nutrient balance issues that total nutrient levels
   alone cannot detect
-- [[query-what-causes-nutrient-lockout-in-cannabis]]
 - [[query-how-to-build-healthy-garden-soil]]
 ## Practical Considerations
 

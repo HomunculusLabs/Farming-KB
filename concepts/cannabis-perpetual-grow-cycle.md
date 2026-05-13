@@ -14,19 +14,7 @@ Greg Green's "The Cannabis Grow Bible" describes the perpetual grow cycle as a m
 
 ## The Perpetual Grow Concept
 
-The objective of the perpetual grow is to keep most of the room flowering at all times. This means that while your plants are flowering you will have an equal amount of plants in the [[cannabis-vegetative-growth-stage]]. In essence, half the grow is in its [[comparison-cannabis-vegetative-stage-vs-flowering-stage]] and the other half is in its [[cannabis-sativa-flowering-cycle-management]].
-
-This dual-zone approach contrasts with traditional single-cycle growing where all plants move through their life cycle together, requiring a gap between harvests. With a perpetual setup, harvests can occur every 30 days or more frequently depending on the strains used and the number of flowering plants maintained.
-
-## Cabinet-Based Perpetual Systems
-
-Green describes the perpetual grow as originating naturally from cabinet growing setups. The basic cabinet requires three things to get started: the cabinet itself, a light, and an air vent with fan. Plants go through their entire life cycle within the cabinet environment. After harvest, clones that were kept in a small compartment within the cabinet are moved into the main grow area, and the process is repeated.
-
-The clone compartment is typically kept small with one or two fluorescent lights. It is best positioned at the top of the grow chamber near the exhaust fan, since clones need minimal light. A simple hole in the side provides enough air exchange. Once the main harvest is complete, the rooted clones are transferred to the primary growing position under the main light.
-
-## Two-Room Perpetual Setup
-
-For larger operations, Green describes a two-room approach. One room is maintained on a 24-hour or 18/6 [[query-best-light-schedule-for-cannabis]] vegetative growth, while a second room runs on a strict 12/12 light schedule for flowering. Plants are moved from the vegetative room to the flowering room as space becomes available from harvesting mature plants.
+The objective of the perpetual grow is to keep most of the room flowering at all times. This means that while your plants are flowering you will have an equal amount of plants in the [[comparison-cannabis-vegetative-stage-vs-flowering-stage]] and the other half is in its [[query-best-light-schedule-for-cannabis]] vegetative growth, while a second room runs on a strict 12/12 light schedule for flowering. Plants are moved from the vegetative room to the flowering room as space becomes available from harvesting mature plants.
 
 This setup allows the grower to have plants at various stages of flowering, providing staggered harvests throughout the year. The vegetative room can also serve as the mother plant and cloning area, ensuring a continuous supply of genetics.
 
@@ -44,17 +32,7 @@ Green advises that with the right strains, a perpetual setup can deliver 4 ounce
 
 ## Managing the Perpetual Cycle
 
-Key management considerations for a perpetual grow include maintaining separate cloning, vegetative, and flowering areas; [[goose-keeping-detailed]] records of plant ages and flowering start dates; ensuring consistent environmental conditions in each zone; and managing the clone supply to always have ready replacements when flowering plants are harvested.
-
-The grower will learn over time to make the best use of their grow space. The room becomes an intense hobby area and a rewarding one. In time the grower may begin to learn more about plant genetics and start to develop strains of their own breed and stock.
-
-## Lighting Schedules for Perpetual Harvest
-
-The perpetual grow cycle depends critically on maintaining distinct and reliable lighting schedules in each zone. The vegetative zone and flowering zone operate under fundamentally different photoperiods, and any crossover or light leak between zones can disrupt the entire cycle by triggering premature flowering or reverting flowering plants back to vegetative growth.
-
-### Vegetative Lighting: 18/6 and 24/0
-
-During the [[cannabis-vegetative-stage]], cannabis plants require long daily light exposure to sustain vigorous growth. Two common schedules are used in perpetual systems:
+Key management considerations for a perpetual grow include maintaining separate cloning, vegetative, and flowering areas; [[cannabis-vegetative-stage]], cannabis plants require long daily light exposure to sustain vigorous growth. Two common schedules are used in perpetual systems:
 
 - **18/6 schedule** (18 hours light, 6 hours dark): This is the most widely recommended vegetative schedule. The daily dark period allows plants to undergo essential metabolic processes including root respiration, starch translocation, and pigment regeneration. An 18/6 cycle also reduces electricity costs by 25% compared to continuous lighting and extends ballast and bulb life. Most growers find that vegetative growth rates under 18/6 are comparable to or only slightly slower than 24/0.
 
@@ -68,7 +46,7 @@ The flowering zone must maintain a strict 12 hours of light followed by 12 hours
 
 In a perpetual system, the 12/12 flowering zone runs continuously, with individual plants entering and exiting at different times based on their age and development. The lighting system in the flowering room should be on its own dedicated timer and circuit, isolated from the vegetative room's electrical system to prevent any possibility of accidental interference.
 
-Some advanced growers use a transition period when moving plants from [[query-how-to-transition-cannabis-from-vegetative-to-flowering]] lighting. A gradual reduction from 18 hours to 12 hours over 2-3 days can reduce [[query-how-to-prevent-transplant-shock-when-moving-cannabis-plants]] and ease the hormonal shift, though most commercial growers switch directly to 12/12 for simplicity and space management. The flowering room's light source (typically HPS or full-spectrum LED) should be optimized for the flowering spectrum, with higher red and far-red wavelengths to promote bud development.
+Some advanced growers use a transition period when moving plants from [[query-how-to-prevent-transplant-shock-when-moving-cannabis-plants]] and ease the hormonal shift, though most commercial growers switch directly to 12/12 for simplicity and space management. The flowering room's light source (typically HPS or full-spectrum LED) should be optimized for the flowering spectrum, with higher red and far-red wavelengths to promote bud development.
 
 ## Managing Multiple Growth Stages
 
@@ -118,8 +96,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[sea-of-green]]
 - [[dom]]
-- [[det]]
 - [[greg-green]]
 - [[screen-of-green]]

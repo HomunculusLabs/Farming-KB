@@ -9,7 +9,7 @@ tags: [pf-tek, mushroom-cultivation, psilocybe-cubensis]
 
 Cool desiccation is the PF TEK method for drying harvested mushrooms while
 preserving their psychoactive alkaloid content. PF considers this the best
-overall [[pf-tek-desiccant-drying-technique]] [[miniculture-rye-grain-cultivation-method-for-psilocybe-cubensis]]. The method uses chemical
+overall [[miniculture-rye-grain-cultivation-method-for-psilocybe-cubensis]]. The method uses chemical
 desiccants to absorb moisture from the air surrounding the mushrooms in a
 sealed environment, drawing water out of the fungal tissue gradually at cool
 temperatures. This approach avoids the alkaloid degradation that occurs with
@@ -26,8 +26,7 @@ harvest them when young, and cool dry them with desiccant.
 ## Why Heat Drying Must Be Avoided
 
 PF explicitly warns against using an oven or hot air dryers. Heat leaches the
-[[guzman-magic-mushrooms-chemical-constituents]] from the mushroom tissue and significantly reduces
-their quality. The psychoactive alkaloids [[hplc-analysis-of-psilocybin-and-psilocin]] are
+[[hplc-analysis-of-psilocybin-and-psilocin]] are
 sensitive to elevated temperatures, and heat drying causes measurable losses
 in potency. Cool desiccation avoids this problem entirely by removing moisture
 through ambient-temperature chemical absorption rather than thermal energy.
@@ -129,21 +128,8 @@ in their containers to protect them against moisture present in the freezer.
 
 ## Spore Syringe Boiling Sterilization Technique
 
-The PF TEK also describes a simple boiling [[pf-tek-alcohol-flaming-sterilization-method]] for preparing
-spore syringes. This technique is used when making spore syringes from spore
-prints for inoculating new substrate jars.
-
-Begin by boiling a pot of water. Draw boiling water into a syringe and squirt
-it out several times to thoroughly rinse the interior. Then refill the
-syringe with boiling water, replace the needle guard, and wrap the syringe in
-tin foil. Prepare several syringes in this manner. Drop the foil-wrapped
-syringes into the boiling water and boil them for one full hour. After
-boiling, let them cool before using.
-
-This simple method achieves effective sterilization without requiring a
-[[pf-tek-pressure-canner-sterilization]] or autoclave. The boiling water both sterilizes the syringe
+The PF TEK also describes a simple boiling [[pf-tek-pressure-canner-sterilization]] or autoclave. The boiling water both sterilizes the syringe
 interior and serves as the sterile water medium for suspending spores when
 ## See Also
-- [[desiccant-drying-psilocybin-potency-preservation]]
 - [[mushroom-desiccant-drying-methods]]
 - [[palmer-mushroom-drying-preservation-methods]]

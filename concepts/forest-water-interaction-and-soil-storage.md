@@ -8,11 +8,7 @@ type: concept
 
 ## Overview
 
-Forests are among the most effective natural [[mollison-designers-soil-water-storage-in-forest-systems|systems]] for capturing,
-storing, and recycling water. Every tree acts as an intermediary in
-the water cycle, modifying the composition, energy, and distribution
-of rainfall. The overall effect of trees is to moderate and conserve
-incoming energy while dramatically increasing the landscape's [[mollison-designers-soil-water-storage-and-field-capacity|capacity]]
+Forests are among the most effective natural [[mollison-designers-soil-water-storage-and-field-capacity|capacity]]
 to hold fresh water on land. No other storage system is so beneficial,
 or results in so much useful growth, although fairly shallow ponds
 are also valuable productive landscape features.
@@ -29,62 +25,11 @@ forests, destroys the soil mantle through splash erosion.
 
 Further impedance occurs on the forest floor, where roots, litter,
 logs, and leaves redirect, slow down, and pool the water. This
-multi-layered energy dissipation is [[query-what-are-the-different-fruit-tree-training-systems-and-which-should-i-use|what]] allows the soil beneath a
-forest to act as a major long-term water storage rather than being
-compacted and sealed by raindrop impact.
-
-## The Humus Layer as a Water Reservoir
-
-After rain passes through the canopy as throughfall, it enters the
-[[humus]] layer — a deep organic blanket on the forest floor. This layer
+multi-layered energy dissipation is [[humus]] layer — a deep organic blanket on the forest floor. This layer
 functions as an enormous blotter, capable of absorbing approximately
 1 cm of rain for every 3 cm of its depth. In old beech forests, the
 humus blanket reaches at least 40 cm in depth, and the earth beneath
-it is a dense mass of [[fungal-hyphae]]. In undisturbed rainforests, deep
-mosses carpet the forest floor, extending this absorptive zone to
-40–60 cm of depth.
-
-Throughout this zone, water is absorbed by decomposer organisms and
-living soil systems. As water percolates through the humus, its
-composition changes — it picks up humic exudates, giving water from
-deep forests and bogs a clear golden colour, similar to tea. The pH
-of water filtered through natural humic layers can reach as low as
-3.5 to 4.0, and rivers in forested regions run with a dark,
-coffee-like colour to the sea.
-
-## Tree Root Systems and Water Management
-
-Below the humus layer lie tree roots, each clothed in fungal hyphae
-and the gels secreted by bacterial colonies. Approximately 30–40% of
-a tree's total bulk lies in the soil. Most of this root mass extends
-over many acres, with thousands of kilometres of root hairs forming a
-mat-like network in the upper 60 cm of soil. Only 10–12% of the root
-mass penetrates below this depth, but the remaining deep roots can
-extend as much as 40 metres into the rock below.
-
-### Dryland Root Adaptations
-
-Some dryland plant species build up damp soil surrounds around their
-root zones, effectively storing surplus water in the earth for daytime
-use. This water is held in the root associates as gels. Notable
-examples include:
-
-- **Centrosema** — a dryland woody legume with a "wet" root zone
-- **Gleditsia** — another dryland woody legume exhibiting the same
-  trait
-- **Prosopis spp.** — desert-adapted trees reported to create moist
-  root zones in desert soils
-
-The root mat actively absorbs the soil solution, transporting water
-up the tree to transpire to air. This constant cycling means that at
-any time, trees may intercept and draw on underground reserves for
-growth, pumping water again to the atmosphere.
-
-## Nutrient Cycling Through Canopy Interception
-
-Tree canopies capture rainfall and modify its nutrient content
-dramatically. Data from naturally regenerating stands of river red gum
-(*[[eucalyptus-camaldulensis]]*) in Australia demonstrate the magnitude
+it is a dense mass of [[eucalyptus-camaldulensis]]*) in Australia demonstrate the magnitude
 of this effect:
 
 ### Old Trees (5% of total stand)

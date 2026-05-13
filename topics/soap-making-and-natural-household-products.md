@@ -29,37 +29,7 @@ The earliest evidence of soap-like substances comes from clay cylinders found in
 
 The word "soap" itself likely derives from Mount Sapo, a legendary Roman site where animal sacrifices left fats mixing with wood ash runoff, creating a clay that washed clothes cleaner than water alone. While the Mount Sapo story is likely apocryphal, it captures the essential chemistry: fats plus alkali equals soap. In medieval Europe, soap making became a guild profession, with centers in Italy, Spain, and France producing distinctive regional varieties. Castile soap, made entirely from olive oil, originated in this period and remains one of the most famous soap recipes in the world.
 
-Colonial America brought soap making into every household, where women made "lye soap" from hardwood ash leachate and saved cooking fats. This utilitarian tradition persisted into the [[coleman-louis-savier-twentieth-century-maraicher]], when commercial detergents displaced homemade soap in most households. The modern revival of handcrafted soap making began in the 1960s and 1970s alongside the back-to-the-land movement and has accelerated with growing awareness of chemical sensitivities, environmental pollution from synthetic detergents, and the desire for self-sufficient living.
-
-## The Chemistry of Saponification
-
-Saponification is the alkaline hydrolysis of triglycerides — the main constituents of fats and oils — into soap molecules and glycerin. Each triglyceride molecule contains three fatty acid chains ester-bonded to a glycerol backbone. When sodium hydroxide or potassium hydroxide reacts with these ester bonds, the fatty acids are released and combine with sodium or potassium ions to form soap salts, while the glycerol is liberated as a byproduct.
-
-Every fat or oil has a characteristic saponification value (SAP value), which represents the milligrams of potassium hydroxide needed to saponify one gram of that fat. For sodium hydroxide, the value is slightly lower because sodium has a lower atomic weight than potassium. Soap calculators use these values to determine the precise amount of lye needed for any given combination of oils. Running a "lye discount" or "superfat" of 5 to 8 percent leaves some unsaponified oil in the final bar, making the soap gentler and more moisturizing.
-
-The choice of base oil determines the soap's properties. Coconut oil produces hard, highly cleansing bars with abundant lather, but used alone it can be drying. Olive oil creates a gentle, moisturizing soap with low lather — the foundation of Castile soap. Palm oil adds hardness and contributes to a stable lather. Shea butter, cocoa butter, and other luxury fats add conditioning properties. A balanced recipe typically combines several oils to achieve the desired hardness, cleansing power, lather quality, and skin feel.
-
-## Cold Process Soap Making
-
-Cold process (CP) soap making is the most accessible method for home soap makers. It involves combining oils and a lye solution at roughly the same temperature, blending them to "trace," pouring into molds, and allowing saponification to complete over 24 to 48 hours of insulation followed by 4 to 6 weeks of curing. The term "cold process" refers to the fact that no external heat is applied after the initial oils are melted.
-
-The process begins with accurate measurement. All ingredients should be weighed in grams on a digital scale, not measured by volume. The soap maker prepares the lye solution by slowly adding sodium hydroxide flakes to distilled water — always lye into water, never the reverse — in a heat-resistant container. This dissolution is exothermic and can reach temperatures above 70 degrees Celsius, so eye protection and chemical-resistant gloves are mandatory.
-
-The oils are melted if solid (coconut oil, shea butter, palm oil) and combined with liquid oils (olive, sunflower, castor) in a separate container. Both the lye solution and the oil mixture are brought to approximately 38 to 45 degrees Celsius before combining. A stick blender accelerates the mixing process, bringing the batter to "trace" — the point where the mixture thickens enough that drizzled soap leaves a visible trail on the surface. Thin trace is pourable; medium trace holds its shape briefly; heavy trace is thick like pudding.
-
-At trace, fragrance oils, essential oils, colorants, botanicals, or exfoliants are folded in. The batter is poured into silicone or wooden molds, tapped to release air bubbles, and insulated with towels or blankets for 24 hours. After unmolding, the bars cure on a rack for 4 to 6 weeks, during which excess water evaporates and the soap becomes milder and longer-lasting. The pH drops from around 13 at pour to roughly 8 to 10 in the finished bar.
-
-## Hot Process Soap Making
-
-Hot process soap making follows the same basic chemistry but applies external heat to accelerate saponification. The soap batter is cooked in a slow cooker, double boiler, or oven for one to three hours, reaching temperatures of 70 to 90 degrees Celsius. This accelerated saponification means the soap is fully saponified within hours rather than weeks, though it still benefits from a short curing period of one to two weeks for water evaporation.
-
-The advantage of hot process is speed and flexibility. Because the soap is already saponified at pour, the soap maker can test the pH and adjust the recipe immediately. Fragrance retention can be lower because essential oils are exposed to high temperatures, but some soap makers prefer the rustic, textured appearance of hot process bars. The cooked soap has a consistency similar to mashed potatoes when scooped into molds, which can produce interesting visual effects but is less suited to intricate designs.
-
-## Liquid Soap Making
-
-Liquid soap requires potassium hydroxide rather than sodium hydroxide as the alkali. Potassium soaps are water-soluble, while sodium soaps are only sparingly soluble — which is why sodium hydroxide produces solid bars and potassium hydroxide produces liquid soap. The process is more involved than bar soap making, typically requiring paste dilution and neutralization steps.
-
-The soap paste is cooked to full trace and then diluted with distilled water over several hours, often with the aid of heat and agitation. The resulting liquid soap may need to be sequestered — allowed to rest for days to weeks — to clarify. Thickeners like borax or sodium chloride can be added to increase viscosity. Essential oils and preservatives are added after the soap has cooled below 40 degrees Celsius to preserve their [[query-how-do-fungal-volatile-compounds-affect-plant-growth-and-other-microorganisms]].
+Colonial America brought soap making into every household, where women made "lye soap" from hardwood ash leachate and saved cooking fats. This utilitarian tradition persisted into the [[query-how-do-fungal-volatile-compounds-affect-plant-growth-and-other-microorganisms]].
 
 ## Melt and Pour Soap Making
 
@@ -97,13 +67,7 @@ The same principles of simple, biodegradable ingredients that guide soap making 
 
 All-purpose cleaners can be made from white vinegar, water, and essential oils. Vinegar's acetic acid cuts grease and inhibits bacterial growth, though it should not be used on natural stone surfaces because it can etch calcareous minerals. Baking soda provides gentle abrasive action and deodorizing power. Combined, baking soda and vinegar create a fizzing reaction useful for unclogging drains, though the reaction merely produces sodium acetate, water, and carbon dioxide — the actual cleaning comes from the individual ingredients.
 
-Window and glass cleaners can be formulated from vinegar, water, and a few drops of dish soap or rubbing alcohol for streak-free drying. Floor cleaners for wood surfaces use a small amount of castile soap in warm water. For disinfecting surfaces, [[cervantes-hydrogen-peroxide-sterilization]] at 3 percent concentration is effective against bacteria and viruses and breaks down into water and oxygen, leaving no harmful residues.
-
-## Natural Dish and Laundry Products
-
-Dish soap can be made from liquid castile soap diluted with water, thickened with salt or borax, and scented with lemon or orange essential oils. grated bar soap dissolved in hot water provides another base. For automatic dishwashers, a mixture of washing soda, borax, and citric acid replaces commercial tablets, though hard water may require adjustments to prevent filming.
-
-Laundry detergent can be produced by grating a bar of homemade soap, dissolving it in hot water, and adding washing soda and borax. This powder or liquid detergent cleans effectively in most water conditions and is safe for septic systems and greywater reuse. Soap nuts (Sapindus mukorossi), which contain natural saponins, offer an alternative approach — the dried shells are placed in a cloth bag and tossed directly into the [[cervantes-washing-machine-hash]]. Soap nuts produce a mild lather and are effective for lightly soiled laundry, though heavily stained items may benefit from an added oxygen bleach booster or a pre-soak in baking soda solution.
+Window and glass cleaners can be formulated from vinegar, water, and a few drops of dish soap or rubbing alcohol for streak-free drying. Floor cleaners for wood surfaces use a small amount of castile soap in warm water. For disinfecting surfaces, [[cervantes-washing-machine-hash]]. Soap nuts produce a mild lather and are effective for lightly soiled laundry, though heavily stained items may benefit from an added oxygen bleach booster or a pre-soak in baking soda solution.
 
 Fabric softeners can be replaced with white vinegar added to the rinse cycle, which removes detergent residue and softens fabrics without coating fibers in synthetic chemicals. Wool dryer balls, optionally scented with a few drops of essential oil, reduce drying time and static electricity in tumble dryers.
 
@@ -113,11 +77,7 @@ In Korean Natural Farming, soap water serves as a direct pest control method for
 
 The KNF soap water recipe involves boiling 200 grams of laundry soap in 20 liters of water until it forms a thick, turbid concentrate. For aphid control, this concentrate is diluted at 0.7 liters per 20 liters of water and sprayed directly onto affected plants, focusing on the undersides of leaves. For mite control, the dilution is reduced to 0.5 liters per 20 liters. Application should occur during the brightest part of the day, typically between 1 and 2 PM, and must not be applied on cloudy days when the evaporation mechanism does not function.
 
-Soap water can be combined with hot pepper water, neem oil, or other natural pest deterrents for broader spectrum control. However, soap-based sprays are non-selective and can harm [[comparison-beneficial-insects-guide-vs-integrated-pest-management]] including predatory mites and ladybird beetles if applied indiscriminately. Targeted application to infested areas, rather than broadcast spraying, preserves beneficial insect populations while managing pests.
-
-## Permaculture Integration and Closed-Loop Systems
-
-Soap making fits naturally into permaculture's ethic of closing resource loops. In a well-designed homestead system, fats from animal husbandry and cooking are rendered into tallow and lard for soap production. Ashes from wood stoves and [[comparison-biochar-production-guide-vs-biochar-soil-amendment]] are leached to produce potash (potassium carbonate), which can be converted to potassium hydroxide through reaction with quicklime. Lye soap made with potassium hydroxide produces a fully biodegradable product that, when used for cleaning, generates greywater safe for garden irrigation.
+Soap water can be combined with hot pepper water, neem oil, or other natural pest deterrents for broader spectrum control. However, soap-based sprays are non-selective and can harm [[comparison-biochar-production-guide-vs-biochar-soil-amendment]] are leached to produce potash (potassium carbonate), which can be converted to potassium hydroxide through reaction with quicklime. Lye soap made with potassium hydroxide produces a fully biodegradable product that, when used for cleaning, generates greywater safe for garden irrigation.
 
 The Permaculture Designers Manual emphasizes that the choice of soap directly affects whether household wastewater can be productively reused. Commercial detergents containing phosphates, borates, synthetic surfactants, optical brighteners, and residual biocides concentrate in soil and can harm plants and soil organisms over time. Simple soap made from fats and lye, by contrast, breaks down rapidly into fatty acids that soil microorganisms can metabolize, and the glycerin byproduct actually feeds soil life.
 
@@ -140,11 +100,7 @@ Pouring temperature affects the final appearance of candles. Higher pouring temp
 ## Natural Body Care Products
 ## See Also
 
-- [[herbal-medicine-making]] for tinctures, salves, and medicinal preparations
 - [[composting-and-soil-biology]] for greywater management
-- [[beekeeping-and-pollinator-conservation]] for beeswax production
 - [[goat-husbandry-and-integration-into-permaculture-systems]] for milk-based soap
-- [[korean-natural-farming-and-jadam]] for soap water pest control
 - [[backyard-poultry-and-integrated-animal-systems]] for tallow rendering
-- [[fermented-foods-and-beverages]] for vinegar-based cleaners
 - [[permaculture-design-principles]] for closed-loop system design

@@ -4,13 +4,12 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [homesteading, off-grid, sustainability, microbes, composting, energy, ecology]
-sources:
-  - "raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md"
+sources: []
 ---
 
 ## Overview
 
-A biogas digester (anaerobic digester) is a sealed container where organic waste breaks down in the absence of oxygen, producing biogas — a mixture primarily of methane and [[carbon-dioxide-retention-jar-lid-mushroom-cultivation]] — and nutrient-rich digestate that serves as fertilizer. Small-scale digesters can provide cooking fuel, lighting, and heating for off-grid homesteads while simultaneously processing waste.
+A biogas digester (anaerobic digester) is a sealed container where organic waste breaks down in the absence of oxygen, producing biogas — a mixture primarily of methane and carbon dioxide — and nutrient-rich digestate that serves as fertilizer. Small-scale digesters can provide cooking fuel, lighting, and heating for off-grid homesteads while simultaneously processing waste.
 
 ## Biogas Composition
 
@@ -33,11 +32,11 @@ Four stages of microbial decomposition occur in sequence:
 
 ### 1. Hydrolysis
 
-Complex organic molecules (cellulose, proteins, fats) are broken down into simpler soluble compounds by hydrolytic bacteria. This is often the rate-limiting step, especially for fibrous feedstocks. [[query-what-is-the-ideal-temperature-range-for-growing-cannabis]]: psychrophilic (55-68F), mesophilic (85-105F), or thermophilic (120-140F).
+Complex organic molecules (cellulose, proteins, fats) are broken down into simpler soluble compounds by hydrolytic bacteria. This is often the rate-limiting step, especially for fibrous feedstocks. Temperature range: psychrophilic (55-68F), mesophilic (85-105F), or thermophilic (120-140F).
 
 ### 2. Acidogenesis
 
-Acidogenic bacteria convert the products of hydrolysis into short-chain volatile [[carbon-isotope-labelling-mycorrhizal-fatty-acids]] (acetic, propionic, butyric acid), alcohols, hydrogen, and carbon dioxide. The pH drops during this stage as acids accumulate.
+Acidogenic bacteria convert the products of hydrolysis into short-chain volatile fatty acids (acetic, propionic, butyric acid), alcohols, hydrogen, and carbon dioxide. The pH drops during this stage as acids accumulate.
 
 ### 3. Acetogenesis
 
@@ -82,7 +81,7 @@ Methanogenic archaea (strict anaerobes) convert acetic acid and hydrogen/carbon 
 - Shorter lifespan (3-5 years for plastic)
 - Easy to build, no special skills required
 
-**Best for:** Low-budget installations, [[fukuoka-natural-farming-tropical-climates]], temporary setups
+**Best for:** Low-budget installations, tropical climates, temporary setups
 
 ### Artisanal Small-Batch Digester
 
@@ -105,7 +104,7 @@ Methanogenic archaea (strict anaerobes) convert acetic acid and hydrogen/carbon 
 
 ### Feedstock Mixing
 
-Successful digestion requires balancing carbon and nitrogen. Ideal C:N ratio: 20:1 to 30:1. Mix high-nitrogen feedstocks (manure, food waste) with high-carbon feedstocks (straw, leaves). Avoid: antibiotics, [[fungal-biosorption-of-heavy-metals-by-filamentous-fungi]], high oil concentrations, large bones, citrus in large quantities.
+Successful digestion requires balancing carbon and nitrogen. Ideal C:N ratio: 20:1 to 30:1. Mix high-nitrogen feedstocks (manure, food waste) with high-carbon feedstocks (straw, leaves). Avoid: antibiotics, heavy metals, high oil concentrations, large bones, citrus in large quantities.
 
 ### Operating Parameters
 
@@ -132,7 +131,7 @@ The liquid effluent from a biogas digester is an excellent fertilizer:
 - Nitrogen content: 2-5% (mostly ammonium, readily available to plants)
 - Phosphorus: 1-3%
 - Potassium: 1-4%
-- [[fukuoka-textdoc-composting-critique-futility-prepared-organic-matter]]: partially stabilized, beneficial for soil
+- Organic matter: partially stabilized, beneficial for soil
 - Pathogen reduction: mesophilic digestion reduces pathogens by 90-99%
 
 Application rate: dilute 1:3 to 1:5 with water and apply to garden beds, fruit trees, or pasture. Avoid applying to crops intended for raw consumption within 30 days of harvest.
@@ -141,10 +140,10 @@ Application rate: dilute 1:3 to 1:5 with water and apply to garden beds, fruit t
 
 ### Storage
 
-- Low-pressure storage in a flexible gas bag (heavy-duty PVC or rubber)
-- Alternatively, the digester itself acts as the storage vessel (fixed-dome or floating-drum designs)
-- 1 cubic meter of biogas = roughly 2 hours of cooking on a single-burner stove
+## See Also
 
-### Use Options
-
-- Cooking (primary use, modified LPG stove), lighting (mantle lamps), space/water heating, and small-scale electricity generation (requires H2S removal)
+- [[query-what-is-biogas-and-how-do-i-build-a-small-scale-digester-system]]
+- [[comparison-biogas-vs-composting-toilet]]
+- [[biogas-digester]]
+- [[mollison-designers-biogas-digester-sewage-treatment]]
+- [[comparison-biogas-digester-basics-vs-rocket-stove-design]]

@@ -1,5 +1,5 @@
 ---
-title: Cannabis Outdoor Growing
+title: [[comparison-cannabis-indoor-growing-basics-vs-cannabis-outdoor-growing]]
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
@@ -11,7 +11,7 @@ sources: []
 
 ## Overview
 
-Outdoor cannabis cultivation leverages natural sunlight and environmental conditions to produce crops with lower costs and often superior quality compared to [[cannabis-indoor-growing-basics]]. Sun-grown cannabis benefits from the full spectrum of natural light, producing robust [[sativa-terpene-profiles-and-aromatic-diversity]] complex cannabinoid expression. This guide covers seasonal timelines, companion planting, climate considerations, and techniques for successful outdoor cultivation.
+Outdoor cannabis cultivation leverages natural sunlight and environmental conditions to produce crops with lower costs and often superior quality compared to [[cannabis-indoor-growing-basics|indoor growing]]. Sun-grown cannabis benefits from the full spectrum of natural light, producing robust [[sativa-terpene-profiles-and-aromatic-diversity]] complex cannabinoid expression. This guide covers seasonal timelines, companion planting, climate considerations, and techniques for successful outdoor cultivation.
 
 ## Advantages of Outdoor Growing
 
@@ -30,7 +30,7 @@ Outdoor cannabis cultivation leverages natural sunlight and environmental condit
 - Limited to one harvest per year (in most climates)
 - Security and privacy concerns
 - Odor control is difficult outdoors
-- Subject to [[cannabis-regulations-by-state]] on outdoor cultivation
+- Subject to [[cannabis-regulations-by-state|local regulations]] on outdoor cultivation
 - Longer vulnerability window (5-8 months vs. 3-4 months indoor)
 
 ## Climate Zones
@@ -45,11 +45,11 @@ Shorter growing season with distinct seasons. Northeast US, Northern Europe, par
 
 ### Tropical and Subtropical (Zone 10-12)
 
-Year-round growing potential in areas without frost. Hawaii, Southeast Asia, [[guzman-allen-gartz-neurotropic-fungi-caribbean-central-america]], parts of South America. High humidity requires mold-resistant strains and good airflow management. [[marijuana-strain-guide-sativa]] strains are naturally adapted to these conditions.
+Year-round growing potential in areas without frost. Hawaii, Southeast Asia, [[guzman-allen-gartz-neurotropic-fungi-caribbean-central-america]], parts of South America. High humidity requires mold-resistant strains and good airflow management. [[marijuana-strain-guide-sativa|Sativa]] strains are naturally adapted to these conditions.
 
 ### Arid and Semi-Arid
 
-Low rainfall regions with intense sunlight. Desert Southwest US, parts of the Middle East and Central Asia. Requires irrigation infrastructure. Low humidity reduces mold risk. [[marijuana-strain-guide-indica]] and Afghan [[cannabis-landrace-strains]] thrive in these conditions.
+Low rainfall regions with intense sunlight. Desert Southwest US, parts of the Middle East and Central Asia. Requires irrigation infrastructure. Low humidity reduces mold risk. [[marijuana-strain-guide-indica|Indica]] and Afghan [[cannabis-landrace-strains]] thrive in these conditions.
 
 ### Cold Climates (Zone 3-4)
 
@@ -60,7 +60,7 @@ Very short growing season. Scandinavia, high altitude, northern Canada. Greenhou
 ### Spring Preparation (February-April)
 
 - Select strains appropriate for your climate and season length
-- Source genetics from [[cannabis-seed-banks-and-genetics]]
+- Source genetics from [[cannabis-seed-banks-and-genetics|seed banks]]
 - Prepare growing site (soil amendment, bed building, irrigation)
 - [[query-what-is-seed-starting-and-when-should-i-start-seeds-indoors]] or in a greenhouse (4-6 weeks before last frost)
 - Harden off seedlings before transplanting

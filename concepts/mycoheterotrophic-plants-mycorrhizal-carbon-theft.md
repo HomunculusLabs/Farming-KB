@@ -16,7 +16,7 @@ Mycoheterotrophs are achlorophyllous (non-photosynthetic) plants that depend exc
 
 ## The Scale of Mycorrhizal Carbon Exploitation
 
-The magnitude of carbon flux through [[dighton-mycorrhizal-networks-carbon-transfer]], particularly in deeply shaded forest floor environments, has driven the evolution of plants that exploit [[arbuscular-mycorrhizal-fungi-biology-symbiosis]] as their sole carbon source. Approximately 10% of all plant species depend on exploitation of fungal carbon during at least part of their life cycle (Leake, 2004).
+The magnitude of carbon flux through [[arbuscular-mycorrhizal-fungi-biology-symbiosis]] as their sole carbon source. Approximately 10% of all plant species depend on exploitation of fungal carbon during at least part of their life cycle (Leake, 2004).
 
 ## Mycoheterotroph-Fungal Partnerships
 
@@ -26,66 +26,93 @@ DNA-based identification has revealed that most fully mycoheterotrophic plants a
 
 | Mycoheterotrophic Plant | AM Fungal Partner | Host Plants |
 |---|---|---|
-| Voyria spp. (4 species) | Glomus Group A | AM with [[dighton-fungi-tropical-forest-ecosystems]] trees |
-| Voyriella parviflora | Glomus Group A | AM with tropical forest trees |
-| Arachnitis uniflora | Glomus sp. | AM with tropical forest trees |
-| Sciaphila tosaensis | Glomus sp. | AM with tropical forest trees |
-| Gymnosiphon minutus | Glomus Group A | AM with tropical forest trees |
-
-All AM-associated mycoheterotrophs exploit Glomus Group A fungi, which also form mycorrhizae with adjacent photosynthetic tropical forest trees, providing the ultimate carbon source.
-
-### Ectomycorrhizal Partners
-
-| Mycoheterotrophic Plant | EM Fungal Partner | Reference |
-|---|---|---|
-| Neottia nidus-avis | Sebacina sp. | Selosse et al. (2002) |
-| Hexalectris revoluta | Sebacina spp. | Taylor et al. (2003) |
-| Cryptothallus mirabilis | Tulasnella sp. (EM on Betula) | Bidartondo et al. (2003) |
-| Cephalanthera austinae | Tomentella/Thelephoraceae (14 spp.) | Bidartondo et al. (2003) |
-| Corallorhiza striata | Tomentella spp. | Taylor et al. (2002) |
-| Corallorhiza trifida | Tomentella spp. (EM on Salix, Betula) | McKendrick et al. (2000) |
-| Corallorhiza maculata | Russula (20 spp.) | Taylor and Bruns (1997) |
-| Corallorhiza mertensiana | Russula (3 spp.) | Taylor and Bruns (1999) |
-| Monotropa uniflora | Russulaceae (2-3 spp.) | Young et al. (2002) |
-| Pterospora andromedea | Rhizopogon salebrosus group | Bidartondo and Bruns (2002) |
-| Sarcodes sanguinea | Rhizopogon ellenae group | Bidartondo and Bruns (2002) |
-| Allotropa virgata | Tricholoma magnivelare | Bidartondo and Bruns (2002) |
-| Monotropa hypopitys | Tricholoma (more than 12 spp.) | Bidartondo and Bruns (2002) |
-| Gastrodia elata | Armillaria mellea, Mycena osmundicola | Lan et al. (1994) |
-| Galeola septentrionalis | Armillaria jezoensis | Rasmussen (2002) |
-| Epipactis microphylla | Tuber excavatum | Selosse et al. (2004) |
-
-## Carbon Transfer Verification
-
-Pulse-labelling studies and biomass measurements in experimental microcosms with and without mycelial interconnections between autotrophs and mycoheterotrophs have confirmed that carbon is transported via co-linking mycorrhizal mycelium (McKendrick et al., 2000; Bidartondo et al., 2003).
-
-## Orchid Mycoheterotrophy
-
-The Orchidaceae, containing approximately 17,500 species (the largest number of any plant family), are particularly dependent on fungal carbon:
-
-- All orchids require fungal carbon for germination and establishment
-- Nearly half of all mycoheterotrophs that never photosynthesize are orchids
-- Most fully mycoheterotrophic orchids have switched fungal partners from saprophytic Rhizoctonia-like fungi (used during the initial establishment phase) to EM fungi that are co-infecting roots of adjacent green plants
-- This switch enables long-term supply of large amounts of carbon
-
-## Other Mycoheterotrophic Groups
-
-The phenomenon extends beyond orchids:
-
-- The mycoheterotrophic liverwort Cryptothallus mirabilis depends on a Tulasnella species that forms EM associations with birch trees in a tripartite system
-- Many ferns and clubmosses have achlorophyllous subterranean gametophytes nourished by mycoheterotrophy (Leake, 1994)
-- Achlorophyllous fern and clubmoss gametophytes appear to depend on AM fungal symbionts that obtain carbon from adjacent autotrophic plants
-
-## Broader Implications for Plant Communities
-
-The existence of mycoheterotrophs demonstrates that mycorrhizal [[fungal-mycelial-networks-nutrient-translocation]] linking different plant species can facilitate "cheating" -- individual plants gaining more nutrients than they have "paid for" in carbon, or even stealing carbon from fungi. This has important implications for plant [[core-endorhiza-bacterial-community-composition-cannabis]], as the mycorrhizal networks that interconnect roots of different species (Simard and Durall, 2004) can mediate both cooperation and exploitation between plants.
-
-Sources: Leake, J.R. in Gadd, Watkinson and Dyer, Fungi in the Environment (Cambridge University Press, 2006), Ch. 8.
-
-See also: [[arbuscular-mycorrhizal-networks]], [[mycorrhizal-networks-common-mycelial-network]]
-- fungal-symbiosis-with-plants-beyond-mycorrhizae
-- [[mycorrhizal-effects-on-plant-community-composition]]
+| Voyria spp. (4 species) | Glomus Group A | AM with [[fungal-mycelial-networks-nutrient-translocation]] linking different plant species can facilitate "cheating" -- individual plants gaining more nutrients than they have "paid for" in carbon, or even stealing carbon from fungi. This has important implications for plant [[arbuscular-mycorrhizal-networks]], [[mycorrhizal-effects-on-plant-community-composition]]
 
 ## See Also
 
 - [[monotropa-uniflora]]
+
+## Overview
+
+Mycoheterotrophic Plants Mycorrhizal Carbon Theft represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish mycoheterotrophic plants mycorrhizal carbon theft
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving mycoheterotrophic extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Mycoheterotrophic Plants Mycorrhizal Carbon Theft finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for mycoheterotrophic plants mycorrhizal carbon theft. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+mycoheterotrophic plants mycorrhizal carbon theft and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Mycoheterotrophic Plants Mycorrhizal Carbon Theft has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of mycoheterotrophic plants mycorrhizal carbon theft into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[anticholinergic-plants-dangers]]
+- [[mollison-designers-insectary-plants-and-beneficial-insect-habitat]]
+- [[query-how-do-i-grow-carnivorous-plants-outdoors]]
+- [[query-how-do-i-propagate-plants-from-cuttings-and-other-vegetative-methods]]
+- [[query-how-do-i-protect-plants-from-frost-and-freeze-damage]]

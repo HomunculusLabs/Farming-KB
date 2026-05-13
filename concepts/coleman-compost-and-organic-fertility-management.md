@@ -20,75 +20,19 @@ Eliot Coleman considers compost the single most important input for
 maintaining soil fertility on a small organic farm. His approach blends
 traditional practices inherited from the Parisian maraichers with modern
 understanding of soil biology and mineral nutrition. The result is what he
-calls "deeper [[coleman-deep-organic-farming-philosophy]]," where every possible factor affecting crop
-quality is optimized.
-
-## Compost Production
-
-Coleman makes compost from mowed forage crops supplemented with vegetable
-wastes and clay, following methods detailed in *The New Organic Grower*.
-Because Four Season Farm is near the rocky Maine coast, seaweed is added
-as a regular ingredient. Manure from the farm's livestock is also
-incorporated. The compost heap is turned twice during the summer before
-use by loading it continuously into a small manure spreader that chops,
-aerates, and throws the material into a windrow as the spreader moves
-ahead. The end result is a thoroughly decomposed, crumbly product.
-
-Historical precedent supports this approach. The nineteenth-century Parisian
-market gardeners maintained legendary soil fertility using composted horse
-manure, delivered to the beds in willow baskets along lightweight rail
-tracks. Coleman notes that composted [[falconer-horse-manure-varieties]] (without wood shavings,
+calls "deeper [[falconer-horse-manure-varieties]] (without wood shavings,
 which he considers detrimental in vegetable soils) was a key ingredient in
 their success.
 
 ## The Four-Season Compost Supply
 
-One of the practical challenges of [[coleman-winter-harvesting-techniques]] is maintaining access
-to compost during frozen months. Coleman solves this by erecting a
-temporary plastic-covered A-frame structure over one of the compost
-windrows each fall. The frame is built from leftover greenhouse pipe (or
-poles cut from the woods), with wiggle-wire channel and sandbags holding
-the plastic in place. This structure keeps rain and snow off, protects
-against leaching, and provides enough insulation to prevent more than
-surface freezing. A second layer of plastic draped directly over the
-windrow inside the A-frame is used from December through February during
-really cold winters. In milder winter areas, simply covering a windrow in
-a sunny site with plastic and sandbags should suffice.
-
-## Organic Amendments and Mineral Supplementation
-
-Beyond compost, Coleman employs a suite of organic amendments tailored to
-his farm's specific soil needs. During initial greenhouse soil
-preparation, he used limestone, phosphate rock, and greensand as base
-minerals. He has since moved to what he calls a "deeper" approach,
-focusing on rock powders, seaweeds, and specific soil minerals. For his
-sandy acid podzol, additional boron proved to be a key supplement after
-soil tests and years of trials.
-
-His standard between-crop fertilizer in the greenhouse is alfalfa meal,
-valued both for its effectiveness and because it could theoretically be
-produced on-farm. For crops following heavy-feeding winter spinach or
-claytonia, additional nitrogen beyond alfalfa meal is necessary; he uses
-a locally available fertilizer made from dried crab wastes. He cautions
-against pushing crops too hard with high-analysis fertilizers like dried
-blood, advocating "low-test" amendments like alfalfa meal for most crops.
-
-## Maintaining Soil Fertility Year-Round
-
-Soil preparation in the greenhouse happens continuously since beds are in
-constant production of varying crops. The steps are: clearing away the old
-crop, aerating the soil with a [[coleman-small-farm-equipment-and-tools]], and applying a layer of
+One of the practical challenges of [[coleman-small-farm-equipment-and-tools]], and applying a layer of
 compost. Compost applications are made as a surface topdressing that gets
 turned into the soil at the end of each crop cycle. This approach keeps
-[[hamilton-composting-and-organic-matter-management]] concentrated at the surface where it benefits soil
-structure and biological activity most.
+[[coleman-deep-organic-history-and-philosophy]] Concepts
 
-For the [[coleman-deep-organic-history-and-philosophy]] Concepts
-
-- [[coleman-cover-crop-rotation-and-soil-health]] — [[jeavons-green-manures-cover-crops]] and
+- [[jeavons-green-manures-cover-crops]] and
   rotation as complementary fertility builders
-- [[coleman-bed-preparation-and-minimal-tillage]] — tools and methods for
-  incorporating fertility amendments
 - [[coleman-french-intensive-bed-method]] — historical techniques for
   intensive soil management
 
@@ -121,8 +65,85 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[eliot-coleman]]
 - [[det]]
-- [[composting]]
 - [[coleman-french-maraicher-manure-system-and-compost-quality]]
 - [[plant-disease-ecology-and-organic-management]]
+
+## Overview
+
+Coleman Compost And Organic Fertility Management represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish coleman compost and organic fertility management
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving coleman extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Coleman Compost And Organic Fertility Management finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for coleman compost and organic fertility management. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+coleman compost and organic fertility management and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Coleman Compost And Organic Fertility Management has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of coleman compost and organic fertility management into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also

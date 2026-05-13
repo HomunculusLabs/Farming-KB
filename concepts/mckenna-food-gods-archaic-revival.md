@@ -8,9 +8,7 @@ type: concept
 updated: 2026-04-26
 ---
 
-# The [[weil-psychedelic-experience-set-and-setting]] upon which primordial shamanism is based is life trivialized, life denied, life enslaved to the ego and its fear of dissolution in the mysterious matrix of feeling that is all around us."
-
-McKenna argued that "an interrupted psychophysical symbiosis between ourselves and the visionary plants is the unrecognized cause of the alienation of modernity and the cultural mind-set of planetary civilization." The "worldwide attitude of fear toward drugs" is, in his view, "being fostered and manipulated by the [[mckenna-dominator-culture-and-suppression-of-ecstasy]] and its propaganda organs" to prevent the reemergence of the partnership values that psychedelics naturally promote.
+# The [[mckenna-dominator-culture-and-suppression-of-ecstasy]] and its propaganda organs" to prevent the reemergence of the partnership values that psychedelics naturally promote.
 
 ## The Epistemological Revolution
 
@@ -24,23 +22,7 @@ McKenna offered practical guidance for those who would undertake the psychedelic
 
 - **Good technique is obvious: one sits down, one shuts up, and one pays attention**
 - Journeys should be taken on an empty stomach, in silent darkness, in comfort, familiarity, and security
-- **[[lsd-set-and-setting-framework]]** — the interiorized feelings and expectations (set) and the external environment (setting) should both optimize feelings of security and confidence
-- External stimuli should be severely limited — phones unplugged, noisy machines stilled
-- "Study the darkness behind closed eyelids with the expectation of seeing something"
-- The preferred environment is what Plotinus called "the flight of the alone to the Alone"
-
-McKenna emphasized that he preferred organic hallucinogens over synthetics: "I believe that a long history of shamanic usage is the first seal of approval that one must look for when selecting a substance for its possible effects on personal growth."
-
-## A Modest Proposal: Drug Policy
-
-McKenna's specific policy proposals included:
-
-1. **200% federal tax on tobacco and alcohol**, with strengthened warnings and eliminated subsidies; 20% tax on sugar
-2. **Legalization of all cannabis** with 200% federal sales tax and THC content labeling
-3. **Withdrawal of IMF/World Bank lending** from countries producing hard drugs, with international inspection and certification
-4. **Strict gun control** for both manufacture and possession
-5. **The legality of nature recognized** — all plants legal to grow and possess
-6. **Legal [[metzner-psycholytic-psychedelic-therapy-models]]** with insurance coverage
+- **[[metzner-psycholytic-psychedelic-therapy-models]]** with insurance coverage
 7. **Strengthened currency and banking regulations** to prevent money laundering
 8. **Massive support for scientific research** and public education
 9. **One year after implementation**, decriminalization of all remaining illegal drugs, with government sale at cost plus 200% to fund social, medical, and educational costs
@@ -51,31 +33,93 @@ He grounded these proposals in the American founding principle: "our inalienable
 
 McKenna argued that "the war on drugs was never meant to be won." Instead, it serves to allow intelligence operations to profit from the global drug trade while simultaneously suppressing the one class of substances — psychedelics — that threatens dominator control. "In cynically manipulating nations and peoples with narcotics and stimulants, modern governments have associated themselves with an ethical disaster comparable to the eighteenth-century rebirth of the slave trade."
 
-He connected the drug war to [[mckenna-food-gods-fundamentalist-christianity-drug-war]]: the federal government "when it interferes with rights to reproductive freedom, or with the use of peyote in Native American religious rituals, and when it attempts unreasonably to regulate foods and substances, is acting as the enforcing arm for the values of right-wing fundamentalism."
-
-## The New Global Consensus
-
-McKenna saw a "new global consensus" building — the collapse of the Marxist alternative leaving "democratic values" as the only defined model. He identified democracy as "an articulation of the Archaic notion of the nomadic egalitarian group" that is "in its purest expression thoroughly psychedelic." He predicted this trend would "encounter real resistance from various forms of monotheistic religious fundamentalism" but that its triumph "seems ultimately certain."
-
-## From the Grasslands to the Starship
-
-The epilogue of *Food of the Gods* culminates in McKenna's vision of human destiny:
-
-> "Human history has been a fifteen-thousand-year dash from the equilibrium of the African cradle to the twentieth-century apotheosis of delusion, devaluation, and mass death. Now we stand on the brink of star flight, virtual reality technologies, and a revivified shamanism that heralds the abandonment of the monkey body and tribal group that has always been our context. The age of the imagination is dawning."
-
-He argued that "the shamanic plants and the worlds that they reveal are the worlds from which we imagine that we came long ago, worlds of light and power and beauty that in some form or another lie behind the eschatological visions of all of the world's great religions."
-
-## The Final Vision
-
-McKenna's closing words:
-
-> "The long night of human history is drawing at last to its conclusion. Now the air is hushed and the east is streaked with the rosy blush of dawn. Yet in the world we have always known evening grows deeper and the shadows lengthen toward a night that will know no end. One way or another the story of the foolish monkey is nearly forever over. Our destiny is to turn without regret from what has been, to face ourselves, our parents, lovers, and children, to gather our tool kits, our animals, and the old, old dreams, so that we may move out across the visionary landscape of ever-deeper understanding. Hopefully there, where we have always been most comfortable, most ourselves, we will find glory and triumph in the search for meaning in the endless life of the imagination, at play at last in the fields of an Eden refound."
-
-## Koestler's Convergence
-
-McKenna found unexpected support from Arthur Koestler, who concluded from his examination of institutionalized violence that "some form of pharmacological intervention will be necessary before we can be at peace with one another." Koestler was "apparently unaware of the shamanic tradition or of the richness of the [[leary-psychedelic-experience-bardo-mapping]]" and therefore could not imagine that "the task of managing a global human population into a state of balance and happiness could involve introducing the experience of an internal horizon of transcendence into people's lives."
+He connected the drug war to [[leary-psychedelic-experience-bardo-mapping]]" and therefore could not imagine that "the task of managing a global human population into a state of balance and happiness could involve introducing the experience of an internal horizon of transcendence into people's lives."
 
 ## See Also
 
-- [[mckenna-food-gods-fall-consciousness]]
 - [[mckenna-food-gods-partnership-dominator]]
+
+## Overview
+
+Mckenna Food Gods Archaic Revival represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish mckenna food gods archaic revival
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving mckenna extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Mckenna Food Gods Archaic Revival finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for mckenna food gods archaic revival. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+mckenna food gods archaic revival and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Mckenna Food Gods Archaic Revival has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of mckenna food gods archaic revival into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[mckenna-baconian-exploration-tryptamine-research-methodology]]
+- [[mckenna-drugs-governments-and-intelligence-agencies]]
+- [[mckenna-fall-of-partnership-society]]
+- [[mckenna-translinguistic-matter-and-exteriorized-soul]]
+- [[mckenna-translinguistic-objects-hyperdimensional-language]]

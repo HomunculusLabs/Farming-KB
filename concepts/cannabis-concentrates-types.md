@@ -4,8 +4,7 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [cannabis, processing, comparison, potency, equipment, chemistry]
-sources:
-  - "raw/papers/marijuana-horticulture-cervantes.md"
+sources: []
 ---
 
 ## Overview
@@ -16,7 +15,7 @@ Cannabis concentrates are products made by extracting and concentrating cannabin
 
 ### Kief
 
-Kief is the collection of trichome heads that have been separated from [[cervantes-cannabis-flower-anatomy]] using a mesh screen or grinder with a kief catcher.
+Kief is the collection of trichome heads that have been separated from cannabis flower using a mesh screen or grinder with a kief catcher.
 
 **Production**:
 - Grinders with 3-4 piece chambers have a bottom screen that catches fallen trichomes
@@ -48,13 +47,13 @@ Trichomes are separated from plant material using ice, water, and agitation, the
 
 **Process**:
 1. Mix cannabis with ice and cold water (near freezing)
-2. Agitate for 10-30 minutes (by hand or with a [[cervantes-washing-machine-hash]])
+2. Agitate for 10-30 minutes (by hand or with a washing machine)
 3. Pour through sequential bubble bags (220, 160, 120, 73, 45, 25 micron)
 4. Collect hash from each bag separately
 5. Air dry on parchment paper for 24-72 hours
 6. Cure in a jar for 2-4 weeks for best flavor
 
-**[[compost-quality-grades]]** (star system):
+**Quality grades** (star system):
 - **6-star (full melt)**: 120-73 micron; melts completely, tastes clean
 - **5-star**: 73-45 micron; near-full melt
 - **3-4 star**: Lower microns; contains some plant material
@@ -118,7 +117,7 @@ A dry, crumbly concentrate with a honeycomb-like texture.
 
 ### Live Resin
 
-Live resin is made from fresh frozen cannabis plants (harvested and immediately frozen at -40 F or below), rather than dried and cured flower. The freezing preserves the plant's [[cannabis-terpene-profile]].
+Live resin is made from fresh frozen cannabis plants (harvested and immediately frozen at -40 F or below), rather than dried and cured flower. The freezing preserves the plant's terpene profile.
 
 **Production**:
 - Fresh plants are frozen immediately after harvest
@@ -141,10 +140,11 @@ A highly refined, nearly pure cannabinoid extract that has been stripped of near
 2. Winterization and filtration
 3. Short-path or wiped-film distillation
 4. The distillate is heated to separate cannabinoids by their boiling points
-5. THC boils at approximately 315 F (157 C); CBD at approximately 356 F (180 C)
 
-**Characteristics**:
-- Clear, thick, honey-like liquid
-- Potency: 85-99% THC or CBD
-- Nearly tasteless and odorless (terpenes removed)
-- Base ingredient for vape cartridges, edibles, and tinctures
+## See Also
+
+- [[cannabis-cultivar-microbiome-specificity]]
+- [[weighted-vs-unweighted-unifrac-cannabis-strain-microbiome]]
+- [[cannabis-and-endometriosis]]
+- [[blesching-cannabis-immune-system-modulation]]
+- [[cannabis-seed-germination-viability-breeding-clarke]]

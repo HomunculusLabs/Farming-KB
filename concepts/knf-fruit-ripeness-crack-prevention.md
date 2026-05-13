@@ -10,11 +10,7 @@ type: concept
 
 # KNF Fruit Ripeness and Crack Prevention
 
-[[knf-nutritive-cycle-theory]].
-
-## Ripeness and Enhanced Sweetness Promotion
-
-One of the most valued outcomes of [[comparison-natural-farming-vs-permaculture]] is the production
+[[comparison-natural-farming-vs-permaculture]] is the production
 of sweet, flavorful fruits without chemical inputs. The source
 provides a specific treatment formula for promoting sweetness and
 maturity in fruits:
@@ -31,8 +27,7 @@ days before harvest and again 2 days before harvest. This dual
 application approach ensures that the fruits receive sustained
 nutritional support during the critical final ripening period.
 
-The combination of [[water-soluble-calcium-wca]] for fruit firmness
-and nutrient accumulation, and [[knf-oriental-herbal-nutrient]] plays a key role in crack prevention.
+The combination of [[knf-oriental-herbal-nutrient]] plays a key role in crack prevention.
 Fruit cracking is a common problem in many fruit crops. The source
 identifies a specific cause-and-effect relationship: fruits crack
 when rains arrive after a long drought. The sudden availability of
@@ -42,19 +37,7 @@ that exceeds the elasticity of the fruit skin, resulting in cracks.
 This pattern is particularly problematic in regions with distinct wet
 and dry seasons, where extended drought periods are followed by heavy
 rainfall. The cracking not only reduces marketability but also
-creates entry points for fungal and [[cannabis-for-bacterial-infections-and-mrsa]] that can
-destroy the fruit.
-
-## Crack Prevention Treatment
-
-The source provides a specific preventive treatment to be applied
-during drought conditions to protect fruits from cracking when rain
-eventually arrives:
-
-Inputs mixed at specified dilutions:
-- OHN: 1 ml
-- BRV (brown rice vinegar): 2 ml
-- FPJ ([[bionutrients-lab-fermented-plant-juice-fpj]]): 2 ml
+creates entry points for fungal and [[bionutrients-lab-fermented-plant-juice-fpj]]): 2 ml
 - LAB (lactic acid bacteria): 1 ml
 - SW (seawater): 30 ml
 
@@ -65,12 +48,9 @@ period, before the rains arrive. Each input serves a specific
 protective function:
 
 - **OHN** increases plant robustness and helps the plant withstand
-  stress conditions. See [[knf-brown-rice-vinegar|brown rice vinegar]]) improves the flexibility of the tree
-  and helps form the wax layer on leaves and fruit surfaces,
-  creating thicker skins that resist cracking.
-- **FPJ** ([[lactic-acid-bacteria]]) reinforces the plant's natural defenses and supports
+  stress conditions. See [[lactic-acid-bacteria]]) reinforces the plant's natural defenses and supports
   overall plant vitality during stress.
-- **Seawater** ([[knf-vegetative-growth-stage]] and [[knf-plant-stage-treatments]] for the full schedule.
+- **Seawater** ([[knf-plant-stage-treatments]] for the full schedule.
 
 1. **Vegetative growth stage**: Treatment promotes vegetative growth
   and increases crop volume and size. All NF inputs diluted at
@@ -118,8 +98,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[bionutrients]]
 - [[permaculture]]
-- [[lactic-acid-bacteria]]
 - [[master-cho-knf-ffj-fermented-fruit-juice-guide]]
 - [[knf-fermented-fruit-juice]]

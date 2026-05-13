@@ -49,9 +49,7 @@ The hybrid Gymnocarpium × intermedium, resulting from crosses between G. dryopt
 
 ## Distribution and Habitat
 
-Gymnocarpium dryopteris has a circumboreal distribution spanning northern North America, Europe, and northern Asia. In North America, it ranges from Alaska across Canada to Newfoundland and extends south in the mountains to California, Colorado, and [[north-carolina-mycodiversity]].
-
-The species is abundant throughout the boreal forest region and is one of the most common ferns in the [[growing-gourmet-north-american-reishi-species]] taiga. In Europe it occurs from Scandinavia and the British Isles south to the Alps and Carpathians.
+Gymnocarpium dryopteris has a circumboreal distribution spanning northern North America, Europe, and northern Asia. In North America, it ranges from Alaska across Canada to Newfoundland and extends south in the mountains to California, Colorado, and [[growing-gourmet-north-american-reishi-species]] taiga. In Europe it occurs from Scandinavia and the British Isles south to the Alps and Carpathians.
 
 Oak ferns are shade-tolerant understory plants found in coniferous, mixed, and deciduous forests. They are particularly abundant in spruce-fir forests, aspen groves, and birch woodlands where the canopy provides filtered light.
 
@@ -63,21 +61,13 @@ The species shows a strong preference for sites with northern or eastern exposur
 
 ## Ecology
 
-Gymnocarpium dryopteris is a mycorrhizal associate, forming relationships with [[arbuscular-mycorrhizal-fungi]] in forest soils. These symbiotic associations enhance nutrient uptake, particularly phosphorus, from the organic-rich substrates the fern inhabits.
+Gymnocarpium dryopteris is a mycorrhizal associate, forming relationships with [[arbuscular-mycorrhizal-colonization-patterns]] rates in oak fern are among the highest recorded for pteridophytes, with up to 80 percent of root length colonized by arbuscular fungi in field populations. This heavy mycorrhizal dependency explains the species' sensitivity to soil disturbance.
 
-[[arbuscular-mycorrhizal-colonization-patterns]] rates in oak fern are among the highest recorded for pteridophytes, with up to 80 percent of root length colonized by arbuscular fungi in field populations. This heavy mycorrhizal dependency explains the species' sensitivity to soil disturbance.
-
-The species plays an important role in forest floor dynamics by contributing to the formation of a dense fern layer that moderates soil [[mushroom-growing-temperature-and-moisture]]. This mat of fronds creates microhabitats favorable for seed germination of forest herbs.
-
-Oak fern is one of the first ferns to colonize disturbed forest sites, including areas affected by windthrow, fire, or logging. Its rapidly creeping rhizomes allow it to establish quickly on exposed mineral soils.
-
-White-tailed deer occasionally browse the fronds, though the species is not a preferred food source. Moose browsing pressure can be significant in [[biodiversity-fungi-temperate-boreal-forests]] during years when other forage is scarce.
+The species plays an important role in forest floor dynamics by contributing to the formation of a dense fern layer that moderates soil [[biodiversity-fungi-temperate-boreal-forests]] during years when other forage is scarce.
 
 The exposed sori of Gymnocarpium dryopteris are readily accessible to spore-feeding insects. Several species of beetle and fly larvae develop within the sorus tissue during the spore-production period.
 
-Leaf litter from oak fern decomposes relatively quickly due to its thin herbaceous frond texture, contributing to rapid [[nutrient-cycling-in-soil]] boreal forest ecosystems. Annual frond turnover adds significant organic matter to the forest floor.
-
-The species is sensitive to atmospheric [[dighton-nitrogen-deposition-mycorrhizal-community-shifts]], with [[staycare-fungal-bioremediation-field-studies]] documenting declines in Gymnocarpium abundance in forests receiving elevated nitrogen inputs. This sensitivity makes it a useful bioindicator of forest ecosystem [[dighton-fungal-greenhouse-gas-nitrogen-saturation]].
+Leaf litter from oak fern decomposes relatively quickly due to its thin herbaceous frond texture, contributing to rapid [[dighton-nitrogen-deposition-mycorrhizal-community-shifts]], with [[dighton-fungal-greenhouse-gas-nitrogen-saturation]].
 
 ## Cultivation
 

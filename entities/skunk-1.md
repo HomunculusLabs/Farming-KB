@@ -14,7 +14,7 @@ sources: ["domain-knowledge"]
 - **Breeder:** David Watson, widely known as "Sam the Skunkman"
 - **Origin:** 1970s, Northern California, United States
 - **Status:** Heirloom / foundational breeding stock
-- **Legacy:** Arguably the single most influential [[cannabis-genetic-stability]] [[haze-lineage-and-legacy-in-modern-breeding]] history
+- **Legacy:** Arguably the single most influential [[haze-lineage-and-legacy-in-modern-breeding]] history
 - **Genetic composition:** Three-way landrace cross — Afghani × Acapulco Gold × Colombian Gold
 - **Significance:** First purpose-bred stabilized hybrid; set the template for virtually all
   commercial cannabis varieties developed since the 1980s
@@ -23,9 +23,7 @@ sources: ["domain-knowledge"]
 
 ## Lineage & Genetics
 - **Afghani** (indica landrace, Afghanistan)
-  - Contributed bud density, heavy [[cannabis-glandular-trichome-types-resin-production-clarke]], and compact flowering structure
-  - Provides the indica-dominant physical foundation of the cross
-- **Acapulco Gold** ([[cannabis-sativa-landrace-strains]], Mexico)
+  - Contributed bud density, heavy [[cannabis-sativa-landrace-strains]], Mexico)
   - Contributed cerebral energy, sweet floral aroma, and golden coloration
   - Known for its potent, uplifting sativa effects
 - **Colombian Gold** (sativa landrace, Colombia)
@@ -47,19 +45,7 @@ sources: ["domain-knowledge"]
 - **THCV:** Trace amounts
 - **Total cannabinoids:** Approximately 16–21%
 - **Consistency:** One of Skunk #1's defining hallmarks — reliable potency regardless of
-  grow conditions or [[vic-high-cannabis-phenotype-selection-criteria]]
-- **Ratio:** Heavily THC-dominant with minimal CBD interference, producing clear and
-  predictable psychoactive effects
-
-## Terpene Profile
-- **Myrcene (dominant):** Musky, earthy, herbal — primary contributor to the sedative
-  body component and signature skunky aroma
-- **Caryophyllene:** Peppery, spicy — adds anti-inflammatory character and warm spice notes
-- **Humulene:** Woody, earthy — tempers aroma intensity with grounding depth
-- **Limonene:** Citrus undertone — supports mood elevation and brightness
-- **Linalool:** Trace — faint floral sweetness
-- **Overall aroma:** Intensely pungent, skunky, and sweet — this strain is the origin of
-  the term "skunk weed" in global [[mckenna-cannabis-culture-history]]
+  grow conditions or [[mckenna-cannabis-culture-history]]
 - **Flavor profile:** Earthy and sweet on inhale; smooth with lingering skunky sweetness
   and subtle citrus on exhale
 - **Cultural note:** The signature skunky aroma is one of the most recognizable scents
@@ -71,11 +57,7 @@ sources: ["domain-knowledge"]
 - **Physical effects:** Gentle, soothing body relaxation without heavy sedation or couchlock
 - **Balance:** True hybrid effect — mental clarity and stimulation paired with physical ease
 - **Duration:** Moderate, approximately 2–3 hours depending on dosage and tolerance
-- **[[oner-sativa-medical-applications]]:**
-  - Stress relief and anxiety reduction (at low to moderate doses)
-  - Mild depression management
-  - Mild-to-moderate pain and inflammation
-  - [[cannabis-for-cachexia-and-appetite-stimulation]]
+- **[[cannabis-for-cachexia-and-appetite-stimulation]]
   - Mood elevation and fatigue management
 - **Common side effects:** Dry mouth, dry eyes; higher doses may cause paranoia or
   anxiety in sensitive individuals
@@ -88,3 +70,80 @@ sources: ["domain-knowledge"]
   across multiple continents over five decades
 - **Linguistic impact:** The name "Skunk" became a generic term for any potent cannabis
   throughout the UK, Europe, Australia, and beyond
+
+## Overview
+
+Skunk 1 represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish skunk 1
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving skunk extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Skunk 1 finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for skunk 1. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+skunk 1 and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Skunk 1 has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of skunk 1 into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.

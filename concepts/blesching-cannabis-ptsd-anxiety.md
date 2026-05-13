@@ -3,7 +3,7 @@ title: Blesching Cannabis Ptsd Anxiety
 created: 2026-04-26
 updated: 2026-04-24
 sources: "uwe-blesching, The blesching-cannabis-health-index-autoimmune-conditions (CHI)"
-wikilinks: "blesching-endocannabinoid-system-overview [[cannabinoid-receptors-cb1-cb2]] [[blesching-cannabis-sleep-disorders]] [[cannabis-for-epilepsy-and-seizure-disorders]]"
+wikilinks: "blesching-endocannabinoid-system-overview blesching-cannabis-sleep-disorders cannabis-for-epilepsy-and-seizure-disorders"
 type: concept
 tags: [cannabis]
 ---
@@ -32,42 +32,7 @@ was not until 1980 that PTSD was codified and included in the DSM.
 
 ### Neuroimaging Findings
 
-With the advent of new [[gadd-fungal-imaging-techniques]], researchers discovered new insights
-pertinent to PTSD. A meta-analysis of available neuroimaging research suggests
-measurable physiological changes in the limbic system in patients with PTSD:
-
-- Changes in the amygdala, responsible for the processing of fear - Changes in
-the medial prefrontal cortex involved in decision making - Changes in the
-hippocampus, needed for the formation of long-term memories
-
-The analysis suggests that during episodes of activated PTSD, the hippocampus is
-diminished in size, neuronal integrity, and functional integrity. Furthermore,
-the medial prefrontal cortex appears to be volumetrically smaller and is
-hyporesponsive during symptomatic PTSD. Neuroimaging research reveals heightened
-amygdala responsivity in PTSD during symptomatic states.
-
-### Symptoms
-
-Symptoms often begin within three months after the traumatic event and may
-include:
-
-- Profound lack of care, emptiness, hopelessness, helplessness, worthlessness -
-Shame, emotional numbness, distrust, paranoid behavior with hypervigilance -
-Inexplicable fear, anxiety, lost memories, passivity, withdrawing - Fits of
-anger with little or no provocation, irritability, impatience, lack of focus -
-Insomnia, fitful sleep with sweating, nightmares - Flashbacks and avoidance of
-anything associated with the traumatic event
-
-Avoidance strategies themselves can become an additional problem. The
-compounding effects of detachment and unhealthy tension-reducing behaviors such
-as substance/food abuse, cutting, or promiscuous sex can make recovery more
-challenging.
-
-### Orthodox Treatment Limitations
-
-The primary treatments within orthodox medicine are talk-therapy and
-pharmaceutical medications, primarily antidepressants and anxiolytics. However,
-misuse of prescription drugs and possible severe [[blesching-cannabis-safety-adverse-effects-evidence]] frame the clear
+With the advent of new [[blesching-cannabis-safety-adverse-effects-evidence]] frame the clear
 and present limitations of pharmaceutical intervention. In addition, despite
 success from behavioral-cognitive therapies, patients often show vulnerability
 to reversal of progress by exposure to stress and stress triggers.
@@ -77,8 +42,7 @@ to reversal of progress by exposure to stress and stress triggers.
 ### Amygdala CB1 Receptors and Fear Extinction (Haifa, Israel, 2009)
 
 Recent discoveries show that the fear-processing center of the brain (amygdala)
-contains a significant number of endogenous [[cannabinoid-receptors-cb1-cb2]] (CB1). When
-the [[synthetic-cannabinoid-pharmaceuticals-sativex-dronabinol-marinol]] WIN55,212-2 was injected into the amygdala of rats,
+contains a significant number of endogenous [[synthetic-cannabinoid-pharmaceuticals-sativex-dronabinol-marinol]] WIN55,212-2 was injected into the amygdala of rats,
 the cannabinoid modulated anxiety responses, especially extinction learning via
 regulation of the hypothalamic-pituitary-adrenal axis.
 
@@ -118,8 +82,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[cannabis-and-ptsd]]
 - [[det]]
-- [[dronabinol]]
 - [[cannabis-anxiety-and-ptsd-treatment]]
 - [[blesching-cannabis-anxiety]]

@@ -39,17 +39,7 @@ price may be the critical variable.
 
 Despite its benefits, gross margin analysis has limitations:
 
-1. **It ignores [[fukuoka-natural-fertility-cycle]]
-   and creates spiraling costs not visible in short-term analysis.
-4. **Pest vulnerability**: Monocultures invite outbreaks requiring
-   pesticides that create long-term problems.
-5. **External costs**: Pollution is borne by the broader community,
-   not reflected in the analysis.
-
-## Integration with Other Guidelines
-
-Gross margin analysis must be used with other testing guidelines: the
-[[fukuoka-textdoc-no-cause-and-effect-in-nature]] guideline, [[animal-tractoring]] guideline, and the [[savory-holistic-goal-definition]] itself. The ideal is
+1. **It ignores [[fukuoka-textdoc-no-cause-and-effect-in-nature]] guideline, [[savory-holistic-goal-definition]] itself. The ideal is
 finding the enterprise combination where all tools pass all tests,
 creating a holistically sound chain from sunlight to solar dollar.
 
@@ -63,10 +53,8 @@ more per herd with good biological planning.
 
 ## See Also
 
-- [[savory-replanning-and-monitoring-feedback]]
 - [[savory-partial-rest-and-algal-crusts]]
 
-- [[animal-tractoring]] - Maximizing return per additional dollar
 - [[savory-weak-link-analysis]] - Identifying the true production bottleneck
 - [[savory-solar-dollars-and-wealth-classification]] and wealth classification - Converting energy to
   wealth

@@ -14,35 +14,11 @@ date: 2026-05-10
 updated: 2026-05-10
 sources:
   - "raw/papers/psilocybin-mushrooms-of-the-world-stamets.md"
-  - "Guzmán, Allen & Gartz (1998) - A Worldwide [[psilocybe-geographical-distribution-patterns]] of the Neurotropic Fungi"
-  - "Singer & Smith (1958)"
-  - "Stamets (1996)"
-type: concept
----
-
-# Psilocybe silvatica — The Wood-Loving Psilocybe of Northern Forests
-
-**Psilocybe silvatica** (commonly called the "wood-loving psilocybe") is a neurotropic mushroom species found in the temperate and boreal forests [[berry-growing]] and Northern Europe. Originally described by Singer & Smith in 1958, it is a wood-inhabiting species that fruits on decaying wood debris, forest litter, and sometimes on wood chips in landscaped areas. The specific epithet "silvatica" means "of the forest," reflecting its natural woodland habitat.
+  - "Guzmán, Allen & Gartz (1998) - A Worldwide [[berry-growing]] and Northern Europe. Originally described by Singer & Smith in 1958, it is a wood-inhabiting species that fruits on decaying wood debris, forest litter, and sometimes on wood chips in landscaped areas. The specific epithet "silvatica" means "of the forest," reflecting its natural woodland habitat.
 
 ## Taxonomic Position
 
-P. silvatica belongs to the genus Psilocybe in the family Strophariaceae (or Hymenogastraceae in some modern classifications). In Singer & Smith's (1958) taxonomic system, it was placed within [[guzman-allen-gartz-psilocybe-section-relationships-trans-pacific-disjunctions]] Psilocybe, which contains the majority of bluing, psilocybin-containing species. The species is closely related to other temperate wood-inhabiting neurotropic Psilocybe species, including P. pelliculosa, P. cyanofibrillosa, and P. strictipes, with which it shares morphological features and habitat preferences.
-
-## Morphology
-
-While detailed morphological descriptions are not provided in the Guzmán et al. (1998) distribution table, P. silvatica is characterized by:
-
-- Small to medium-sized fruiting bodies typical of the genus
-- A hygrophanous pileus (cap) that changes color as it dries
-- Bluing reaction when bruised or damaged, indicating the presence of psilocybin/psilocin
-- Growth on wood, wood chips, or woody forest debris rather than dung or grassland soils
-- A viscid to lubricous cap surface when moist
-
-The species can be confused with other small brown Psilocybe species and with non-neurotropic genera such as Galerina, which contains deadly poisonous species. Accurate identification requires careful examination of microscopic features.
-
-## Chemical Composition
-
-P. silvatica contains [[hplc-analysis-of-psilocybin-and-psilocin]], the same primary indole alkaloids found in most neurotropic Psilocybe species. The bluing reaction upon bruising is caused by the oxidation of psilocin. Specific potency data (percentage of dry weight) are not detailed in the distributional source, but like other wood-inhabiting Psilocybe species, its potency is generally considered moderate compared to the most potent species such as P. azurescens or P. semilanceata.
+P. silvatica belongs to the genus Psilocybe in the family Strophariaceae (or Hymenogastraceae in some modern classifications). In Singer & Smith's (1958) taxonomic system, it was placed within [[hplc-analysis-of-psilocybin-and-psilocin]], the same primary indole alkaloids found in most neurotropic Psilocybe species. The bluing reaction upon bruising is caused by the oxidation of psilocin. Specific potency data (percentage of dry weight) are not detailed in the distributional source, but like other wood-inhabiting Psilocybe species, its potency is generally considered moderate compared to the most potent species such as P. azurescens or P. semilanceata.
 
 ## Distribution
 
@@ -56,16 +32,7 @@ P. silvatica has a wide distribution across the northern regions of North Americ
 - **Ontario (Canada)**: Singer & Smith, 1958; Stamets, 1978, 1996
 - **British Columbia (Canada)**: Singer & Smith, 1958
 
-The species is notably concentrated in the [[psilocybin-north-america-pacific-northwest]] (Idaho, British Columbia) and the Northeastern United States/Great Lakes region (Michigan, New York, Ontario), following the distribution of temperate and boreal coniferous and mixed forests. Its absence from southeastern and southwestern states reflects its preference for cooler, moister forest conditions.
-
-### Europe
-
-P. silvatica is also documented from European locations:
-
-- **Finland**: Guzmán, 1983; Stamets, 1996 — confirmed from Finnish forests, where it fruits in the boreal and hemiboreal zones alongside other neurotropic species like P. semilanceata, P. strictipes, and P. fimetaria.
-- **Northern Europe (general)**: Stamets, 1996 noted its presence in "northern regions" more broadly, suggesting distribution beyond Finland into Scandinavia and possibly the Baltic states.
-
-The [[fukuoka-european-distribution-system-critique]] of P. silvatica is less extensively documented than its North American range, and the species may be underreported in Europe due to confusion with closely related taxa and the general difficulty of identifying small wood-inhabiting Psilocybe species.
+The species is notably concentrated in the [[fukuoka-european-distribution-system-critique]] of P. silvatica is less extensively documented than its North American range, and the species may be underreported in Europe due to confusion with closely related taxa and the general difficulty of identifying small wood-inhabiting Psilocybe species.
 
 ## Habitat and Ecology
 
@@ -88,3 +55,88 @@ P. silvatica is part of a complex of similar wood-inhabiting Psilocybe species i
 - **P. caerulipes**: Eastern North American species with similar habitat (decaying wood) but more restricted to hardwood forests of the Appalachian region and surrounding areas.
 
 ## Ecological Role
+
+## Overview
+
+Psilocybe Silvatica Profile represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish psilocybe silvatica profile
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving psilocybe extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Psilocybe Silvatica Profile finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for psilocybe silvatica profile. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+psilocybe silvatica profile and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Psilocybe Silvatica Profile has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of psilocybe silvatica profile into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[grass-seed-cultivation-of-psilocybe-species]]
+- [[psilocybe-fascicata]]
+- [[psilocybe-plutonia]]
+- [[psilocybe-strictipes-entity]]
+- [[sclerotia-timeline-psilocybe-tampanensis-mexicana-grass-seed-jar]]

@@ -108,13 +108,8 @@ Polypodium cambricum is unique among European polypodies for producing viable ap
 
 ## See Also
 
-- [[polypodium-vulgare]]
 - [[asplenium-scolopendrium]]
-- [[asplenium-trichomanes]]
 - [[dryopteris-filix-mas]]
-- [[blechnum-spicant]]
 - [[adiantum-capillus-veneris]]
-- [[polystichum-setiferum]]
 - [[athyrium-filix-femina]]
-- [[dryopteris-affinis]]
 - [[asplenium-nidus]]

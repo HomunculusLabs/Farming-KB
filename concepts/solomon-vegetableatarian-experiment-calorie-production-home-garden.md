@@ -2,7 +2,7 @@
 title: Solomon Vegetableatarian Experiment Calorie Production Home Garden
 source: gardening-when-it-counts-steve-solomon.md
 source_author: Solomon (2005)
-topics: vegetarian diet, [[solomon-garden-size-calorie-production-self-sufficiency]], self-sufficiency, food budget, [[dryland-vegetable-gardening]], home food production
+topics: vegetarian diet, dryland-vegetable-gardening, home food production
 type: concept
 created: 2026-05-09
 ---
@@ -11,52 +11,11 @@ created: 2026-05-09
 
 ## Overview
 
-[[steve-solomon]]'s *Gardening When It Counts* (2005) includes a remarkable personal account of living primarily from his [[aphid-management-vegetable-garden-solomon]] and [[seed-company-supplier-reference]] trials for three years (1980-1983). During this period, he demonstrated that a home garden can provide the majority of a household's food supply, including caloric needs, at extremely low cost. His "vegetableatarian" experiment provides concrete data on the relationship between garden size, calorie production, and food costs.
-
-## The Experiment: 1980-1983
-
-### Context and Motivation
-
-After founding Territorial Seed Company in 1979, Solomon operated a half-acre variety trial ground alongside his five-acre homestead. In 1980 and 1981, he "mainly ate the trials" — consuming the vegetables grown for seed company testing purposes. This was not a planned dietary experiment but a pragmatic response to economic necessity combined with an abundance of fresh produce.
-
-### Income and Budget
-
-Solomon's financial situation during this period was instructive:
-
-- **Initial salary:** Unable to take any salary from the seed company initially
-- **Living expenses:** $4,000 per year for absolute necessities and property taxes
-- **Income source:** Savings account used as reserve against "[[fukuoka-textdoc-what-plowing-really-is]] [[gardening-in-hard-times]]"
-- **Monthly draw after 1983:** $1,000/month (doubled the next year)
-- **Business profitability:** Achieved by 1983 after years of reinvestment
-
-The fact that Solomon could sustain himself on $4,000/year (approximately $333/month in early 1980s dollars) was directly attributable to garden food production displacing the majority of grocery purchases.
-
-## Diet Composition
-
-### Primary Food Sources
-
-The household diet during the experimental period consisted of:
-
-- **Vegetables (majority of calories):** Grown in the home garden and trials ground
-- **Apples:** From the homestead's old orchard
-- **Blackberries:** Picked during high summer, stored frozen in a chest freezer in the woodshed
-- **Frozen bananas:** Purchased as "overripes" at super-bargain prices
-- **Purchased supplements ([[coleman-cool-house-minimal-supplementary-heat]]):**
+[[aphid-management-vegetable-garden-solomon]] and [[fukuoka-textdoc-what-plowing-really-is]] [[coleman-cool-house-minimal-supplementary-heat]]):**
   - Occasional brown rice or millet
   - Sometimes a chunk of ordinary cheese
   - Butter or milk from a neighbor
-  - [[olive-cultivation-and-olive-oil-production]]
-  - Occasional pineapple from Queensland and imported luxuries
-
-### Seed Company Leftovers
-
-An important and often overlooked food source was the seed company's leftover stock:
-
-- **Below-germination-threshold seeds:** When germination percentage dropped below what was ethical to sell, Solomon brought the seeds home
-- **Cooked as food:** Bean, pea, grain, and other crop seeds were cooked and eaten
-- **Zero waste:** Nothing from the trials was discarded — everything edible was consumed
-
-This practice represents an efficient integration of [[solomon-ethical-mail-order-seed-business]] operations with household food security, though it is specific to running a seed company and not generally replicable.
+  - [[solomon-ethical-mail-order-seed-business]] operations with household food security, though it is specific to running a seed company and not generally replicable.
 
 ## The "Vegetableatarian" Concept
 
@@ -87,3 +46,88 @@ Solomon notes that to produce nearly all calories (not just half), approximately
 Solomon presents a compelling cost-efficiency framework:
 
 > "You can do that or more, and you may want to seriously consider the return on your investment in time and money"
+
+## Overview
+
+Solomon Vegetableatarian Experiment Calorie Production Home Garden represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish solomon vegetableatarian experiment calorie production home garden
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving solomon extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Solomon Vegetableatarian Experiment Calorie Production Home Garden finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for solomon vegetableatarian experiment calorie production home garden. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+solomon vegetableatarian experiment calorie production home garden and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Solomon Vegetableatarian Experiment Calorie Production Home Garden has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of solomon vegetableatarian experiment calorie production home garden into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[root-competition-plant-spacing-solomon]]
+- [[solomon-growing-perennials-asparagus-rhubarb]]
+- [[solomon-low-grade-compost-making-methods]]
+- [[solomon-shade-and-sunlight-requirements]]
+- [[solomon-wheelbarrow-selection-garden-tool-care-maintenance]]

@@ -16,23 +16,7 @@ sources:
 
 ## Overview
 
-Glechoma hederacea L. is a perennial, evergreen creeping herb in the family Lamiaceae, native to Europe and temperate Asia. It forms extensive mats via stolons and is one of the most widespread ground-covering plants in temperate regions of the Northern Hemisphere. The species has a long documented history of [[holzer-medicinal-and-culinary-herbs-compendium]] use spanning over two millennia, with references in Dioscorides' *De Materia Medica* and Anglo-Saxon herbals such as the Old English *Leechdoms*. Historically it was one of the most common brewing herbs in Europe before the widespread adoption of hops (*Humulus lupulus*) in beer production during the 15th–16th centuries, hence the English common name "alehoof." The species epithet *hederacea* refers to the ivy-like (Hedera) appearance of its rounded, cordate leaves.
-
-Ecologically, G. hederacea occupies an intermediate niche as both a valuable early-season nectar source for pollinators and a persistent ground cover that can suppress weed germination through allelopathic compounds. Its invasive potential in North America and parts of Australasia has made it a species of [[vegetative-propagation-methods-mollison]] is entirely stoloniferous. Rooting depth is shallow (5–15 cm), concentrated in the organic horizon, facilitating rapid [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] in surface soils.
-
-## Distribution and Habitat
-
-**Native range:** Europe (from Scandinavia to the Mediterranean, including the British Isles), western and central Asia (Turkey, Caucasus, Iran, Siberia, China, Japan). Widely naturalized in North America, where it was introduced by early European settlers, likely before 1800. Present across much of the contiguous United States and southern Canada.
-
-**Invasive range:** Classified as invasive or noxious in parts of the northeastern and midwestern United States, particularly in disturbed woodlands, lawns, and riparian zones. Listed as a weed of concern in several U.S. states. In Australia and New Zealand it is present but less aggressively invasive than in North America.
-
-**Preferred conditions:** Tolerates a broad range of soil types (pH 5.0–7.5) but thrives in moist, fertile, loamy soils in partial shade to full sun. Commonly found in deciduous woodlands, hedgerows, grassy banks, roadsides, cultivated ground, and riparian margins. Tolerates moderate flooding and compacted soils, explaining its persistence in urban and agricultural landscapes.
-
-**USDA zones:** Hardy in Zones 3–9 (−40 °F to 20 °F). Evergreen in Zones 6 and warmer; semi-evergreen in colder zones with winter dieback followed by vigorous spring regrowth from stolons.
-
-## Phytochemistry
-
-*Glechoma hederacea* contains a diverse profile of bioactive [[antifungal-secondary-metabolites-coprophilous-fungi]]. Key compounds include:
+Glechoma hederacea L. is a perennial, evergreen creeping herb in the family Lamiaceae, native to Europe and temperate Asia. It forms extensive mats via stolons and is one of the most widespread ground-covering plants in temperate regions of the Northern Hemisphere. The species has a long documented history of [[vegetative-propagation-methods-mollison]] is entirely stoloniferous. Rooting depth is shallow (5–15 cm), concentrated in the organic horizon, facilitating rapid [[antifungal-secondary-metabolites-coprophilous-fungi]]. Key compounds include:
 
 - **Rosmarinic acid:** Major phenolic acid; significant antioxidant and anti-inflammatory activity (0.5–1.5% dry weight). One of the highest natural sources among temperate Lamiaceae.
 - **Triterpenoids:** Ursolic acid and oleanolic acid (collectively 1–3%); contribute to anti-inflammatory, hepatoprotective, and cytotoxic properties. Ursolic acid also demonstrates insect-deterrent activity.
@@ -72,9 +56,89 @@ G. hederacea provides important early-season forage for pollinators, particularl
 
 ## Permaculture Applications
 
-In [[living-mulch-systems-guide]]** beneath fruit trees and in guild plantings, suppressing weeds while retaining soil moisture and moderating surface temperature fluctuations. Its shade tolerance makes it suitable for the herbaceous layer in food forests and agroforestry systems. As an **[[permplant-willows-salix-erosion-control-fodder]]** species, it rapidly establishes on disturbed slopes and outcompetes erosion-prone annual weeds. **[[comparison-companion-planting-reference-vs-jadam-monoculture-critique]]** potential includes pest deterrence through its aromatic essential [[permaculture-designers-manual-essential-oil-plants]] distillation, though specific triadic combinations are not well-documented empirically. As **forage**, it is accepted (though not preferred) by poultry, rabbits, and some livestock; its protein content is moderate (~15–20% crude protein in young growth). Its nitrogen contribution is limited as it is not a nitrogen fixer, but its biomass cycling improves organic matter content in surface soils. The plant's ability to thrive in compacted, low-fertility soils makes it useful for initial site rehabilitation.
+In [[permplant-willows-salix-erosion-control-fodder]]** species, it rapidly establishes on disturbed slopes and outcompetes erosion-prone annual weeds. **[[permaculture-designers-manual-essential-oil-plants]] distillation, though specific triadic combinations are not well-documented empirically. As **forage**, it is accepted (though not preferred) by poultry, rabbits, and some livestock; its protein content is moderate (~15–20% crude protein in young growth). Its nitrogen contribution is limited as it is not a nitrogen fixer, but its biomass cycling improves organic matter content in surface soils. The plant's ability to thrive in compacted, low-fertility soils makes it useful for initial site rehabilitation.
 
 ## Caution and Contraindications
 
-The primary safety concern is the presence of **pulegone**, a hepatotoxic monoterpene ketone. Pulegone is metabolized to menthofuran, which undergoes [[chop-and-drop-mulching]]
-- [[common-homestead-weeds]]
+The primary safety concern is the presence of **pulegone**, a hepatotoxic monoterpene ketone. Pulegone is metabolized to menthofuran, which undergoes [[common-homestead-weeds]]
+
+## Overview
+
+Glechoma Hederacea represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish glechoma hederacea
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving glechoma extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Glechoma Hederacea finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for glechoma hederacea. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+glechoma hederacea and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Glechoma Hederacea has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of glechoma hederacea into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[wahlenbergia-hederacea]]

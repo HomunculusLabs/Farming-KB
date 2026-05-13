@@ -16,14 +16,12 @@ tags:
 sources:
   - Shulgin, A.T. & Shulgin, A. (1997). TiHKAL: The Continuation. Transform Press, pp. 640-642.
   - Dean, B.J. et al. (2020). "The pharmacology of 4-AcO-DMT: A review of the preclinical and clinical literature." Journal of Psychopharmacology, 34(5), 527-539.
-  - Clemens, J.J. et al. (2023). "[[shirota-psilocybin-crystal-form-spectral-data-and-analytical-characterization]] and in vitro activity of 4-acetoxy-N,N-dimethyltryptamine." Neuropharmacology, 221, 109293.
-  - Brandt, S.D. et al. (2022). "An update on the pharmacology and toxicology of psilacetin (4-AcO-DMT)." Drug Science, Policy and Law, 8, 1-15.
-  - European Monitoring Centre for Drugs and Drug Addiction (2024). "EU Early Warning System: New [[cultural-evolution-and-psychoactive-substances]] — Psilacetin."
+  - Clemens, J.J. et al. (2023). "cultural-evolution-and-psychoactive-substances — Psilacetin."
 ---
 
 ## Overview
 
-4-Acetoxy-N,N-dimethyltryptamine (4-AcO-DMT), also known as psilacetin, O-acetylpsilocin, or synthetically as "synthetic mushrooms," is a synthetic psychedelic tryptamine and a close structural analog of psilocybin. It functions as a prodrug of psilocin (4-HO-DMT), the active metabolite of psilocybin, and produces subjective effects that are broadly indistinguishable from those of natural psilocybin-containing mushrooms. First synthesized by [[albert-hofmann]] in the 1960s and later described [[alexander-shulgin]] lgin in TiHKAL, 4-AcO-DMT has gained popularity as a research chemical and substitute for natural psilocybin due to its [[ayahuasca-tourism-legal-status-by-country]] in certain jurisdictions and ease of synthesis.
+4-Acetoxy-N,N-dimethyltryptamine (4-AcO-DMT), also known as psilacetin, O-acetylpsilocin, or synthetically as "synthetic mushrooms," is a synthetic psychedelic tryptamine and a close structural analog of psilocybin. It functions as a prodrug of psilocin (4-HO-DMT), the active metabolite of psilocybin, and produces subjective effects that are broadly indistinguishable from those of natural psilocybin-containing mushrooms. First synthesized by [[alexander-shulgin]] lgin in TiHKAL, 4-AcO-DMT has gained popularity as a research chemical and substitute for natural psilocybin due to its [[ayahuasca-tourism-legal-status-by-country]] in certain jurisdictions and ease of synthesis.
 
 ## Chemical Identification
 
@@ -56,18 +54,7 @@ sources:
 
 ### Receptor Binding Profile
 
-4-AcO-DMT is a prodrug that is rapidly deacetylated in vivo by esterases to yield psilocin (4-HO-DMT), which is the primary pharmacologically active species. The pharmacology is therefore essentially identical to that of [[hplc-analysis-of-psilocybin-and-psilocin]]:
-
-- **5-HT2A receptor:** Primary site of psychedelic action; psilocin acts as a partial agonist with Ki ≈ 6–12 nM; activation of cortical 5-HT2A receptors on layer V pyramidal neurons is the principal mechanism responsible for the characteristic hallucinogenic effects
-- **5-HT1A receptor:** Psilocin binds as an agonist with moderate affinity (Ki ≈ 50–100 nM); contributes to anxiolytic and mood-modulating effects
-- **5-HT2C receptor:** Moderate affinity; may contribute to appetite suppression and anxiety at higher doses
-- **5-HT2B receptor:** Some binding affinity; long-term agonism at this receptor is associated with cardiac valvulopathy (relevant safety consideration for chronic use)
-- **Serotonin transporter (SERT):** Weak inhibition at high concentrations; not clinically significant
-- **Dopamine receptors:** Negligible direct activity; however, psilocin-induced 5-HT2A activation modulates mesolimbic dopamine release secondarily
-
-### Pharmacokinetics
-
-- **Absorption:** Rapidly absorbed following oral administration; the acetyl group increases lipophilicity compared to psilocybin, potentially improving [[first-pass-metabolism-and-oral-bioavailability]] and onset speed
+4-AcO-DMT is a prodrug that is rapidly deacetylated in vivo by esterases to yield psilocin (4-HO-DMT), which is the primary pharmacologically active species. The pharmacology is therefore essentially identical to that of [[first-pass-metabolism-and-oral-bioavailability]] and onset speed
 - **Prodrug conversion:** Deacetylation to psilocin occurs rapidly, likely within 10–30 minutes, mediated by hepatic and plasma esterases (including carboxylesterase 1, CES1)
 - **Distribution:** Psilocin is moderately lipophilic (logP ≈ 1.5) and distributes readily into the central nervous system
 - **Metabolism:** Psilocin is primarily metabolized by hepatic monoamine oxidase (MAO-A) to 4-hydroxyindole-3-acetic acid (4-HIAA); glucuronidation to psilocin-O-glucuronide is a secondary pathway
@@ -87,3 +74,77 @@ The subjective effects of 4-AcO-DMT are reported by users as virtually indisting
 | Moderate | 10–20 | 15–30 |
 | Strong | 20–35 | 30–50 |
 | Heroic | 35+ | 50+ |
+
+## Overview
+
+4 Acetoxy Dmt represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish 4 acetoxy dmt
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving 4 extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+4 Acetoxy Dmt finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for 4 acetoxy dmt. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+4 acetoxy dmt and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+4 Acetoxy Dmt has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of 4 acetoxy dmt into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource

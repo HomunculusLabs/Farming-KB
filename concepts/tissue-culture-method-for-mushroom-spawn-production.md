@@ -8,13 +8,13 @@ type: concept
 
 ## Overview
 
-The tissue culture method for producing [[mushroom-spawn]] represents a landmark achievement in mycological technique and agricultural practice. Developed at the Bureau of Plant Industry, U.S. Department of Agriculture, around 1902, this method enabled growers to select specific mushroom varieties and propagate them as pure cultures—free from contamination by other fungi or bacteria. The technique transformed [[mushroom-cultivation]] from a chance-dependent art into a systematic, repeatable science.
+The tissue culture method for producing [[mushroom-cultivation]] from a chance-dependent art into a systematic, repeatable science.
 
 ## Scientific Background
 
 ### The Spore Germination Challenge
 
-The initial approach to controlled [[spawn-production]] focused on [[spore]] germination. In 1899, while working in the laboratory, Miss Ferguson determined certain conditions governing spore germination, raising hopes that a method of using spores in spawn-making would be practicable. However, certain difficulties arose that could not be satisfactorily overcome:
+The initial approach to controlled [[spore]] germination. In 1899, while working in the laboratory, Miss Ferguson determined certain conditions governing spore germination, raising hopes that a method of using spores in spawn-making would be practicable. However, certain difficulties arose that could not be satisfactorily overcome:
 
 - Spores of *[[agaricus-campestris]]* do not germinate readily
 - Even with suitable stimulation, only a sporadic percentage of spores grow
@@ -123,4 +123,4 @@ The concern about running out has analogues in other mycological systems—for e
 
 ## The Broader Significance
 
-The tissue culture method was the primary cause of the rapid development of mushroom growing in the United States in the early 20th century. By enabling reliable selection, propagation, and distribution of superior mushroom varieties, it transformed the industry from one dependent on chance and mystery to one built on scientific principles and systematic improvement. The method remains the foundation of modern commercial spawn production worldwide.
+The tissue culture method was the primary cause of the rapid development of mushroom growing in the United States in the early 20th century. By enabling reliable selection, propagation, and distribution of superior mushroom varieties, it transformed the industry from one dependent on chance and mystery to one built on scientific principles and systematic improvement. The method remains the foundation of modern commercial [[spawn-production]] worldwide.

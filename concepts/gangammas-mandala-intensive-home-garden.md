@@ -41,72 +41,90 @@ A circular sunken path 0.6–1 meter (2–3 feet) wide is covered with sawdust o
 Around each keyhole, a bed 1.5–2 meters (5–6 feet) wide is constructed:
 1. Edge-banked with soil 10–20 cm (4–8 inches) high to prevent water run-off
 2. Papered and mulched (as for the banana circle)
-3. Separated from the next bed by thin strips of lemongrass (*[[cymbopogon-citratus]]*) or Vetiver grass (*Vetiveria zizanioides*)
-
-This creates six major keyhole beds, each accessible from the central path without the gardener needing to step on cultivated soil. The keyhole design maximizes growing area while minimizing path space and providing easy access to all plants.
-
-## Border and Barrier Systems
-
-### Inner Border Strip
-
-Just outside the periphery ridge, strips of lemongrass, comfrey, and arrowroot (*Canna edulis*) form a barrier against invasive grasses such as kikuyu. These species serve multiple functions: grass exclusion, mulch production, forage, and food (arrowroot tubers, lemongrass for tea, comfrey for compost).
-
-### Outer Hedge and Windbreak
-
-Behind the inner barrier, a taller border of cassava, banana, papaya, pigeon pea, Leucaena, and Crotolaria forms a hedge or windbreak. All these border species provide mulch, forage, barrier effects, or food. The whole mandala is fenced or has a spiny woven hedge boundary for cattle exclusion if necessary.
-
-## Planting Zones
-
-### Zone A: Pathside Greens
-
-On the track edge border of the central path and keyholes, at stoop-reach distance, the most frequently-plucked everyday greens of high value are planted. The placement criterion is that all or most of the plant is picked for much of the year. Species include:
-
-- All chive and shallot species
-- Parsley, coriander, thyme, and sage
-- Celery and broccoli
-- Edible chrysanthemum
-- Continual greens such as Brazilian spinach, Surinam spinach, and perennial bush tomatoes
-
-These plants are positioned for maximum harvesting convenience—the gardener picks them while walking the path without entering beds.
-
-### Zone B: Mulch and Forage Strip
-
-The lemongrass, comfrey, and arrowroot strip between beds serves as a mulch source. Regular cutting provides material for top-dressing vegetable beds. Arrowroot yields edible tubers, and all species can be fed to livestock.
-
-### Zone C: Outer Production Hedge
-
-The tall outer hedge produces staple foods (cassava, banana, papaya), legumes for nitrogen fixation (pigeon pea, Leucaena, Crotolaria), and forage for livestock. This hedge also provides wind protection and privacy.
-
-## Design Principles
-
-### Water Conservation
-
-The mandala is earth-shaped and mulched to prevent water run-off and conserve moisture. The ridged bed edges, sunken path, and thick mulch layer all work together to capture and retain rainfall. The dish-shaped central circle acts as a water catchment that distributes moisture to surrounding beds.
-
-### Least-Path Efficiency
-
-The circular keyhole layout means every part of every bed is within arm's reach from a path. The gardener never steps on cultivated soil, preventing compaction. The circular path connects all beds with minimal walking distance, reducing labor and time.
-
-### Zone and Sector Integration
-
-The mandala applies permaculture zone principles in miniature:
-- Zone 1 (most visited): pathside herbs and daily greens
-- Zone 2 (frequently visited): keyhole vegetable beds
-- Zone 3 (less frequent): production hedge and tree crops
-- Water sector: central dish captures and distributes rainfall
-- Wind sector: outer hedge provides shelter
-
-### Soil Building
-
-The entire system is a soil-building machine. Mulch is produced on-site by border species, composted in-place by the thick organic layers in beds, and cycled through the kitchen-garden-livestock loop. The initial heavy mulching establishes a rich soil ecosystem that improves with each season.
-
-## Adaptability
-
-While designed for tropical and subtropical regions, the mandala pattern can be adapted to temperate zones by substituting appropriate species. The overall pattern can be altered to fit almost every site form—sloping sites can use terraced keyholes, narrow sites can stretch the mandala into an oval, and the system scales up or down depending on available space and family size.
-
-The speed and simplicity of construction, combined with the density and diversity of production, makes Gangamma's Mandala one of the most effective models for small-scale sustainable food production in permaculture design.
-## See also
-
-- [[permaculture-design]]
-- [[integrated-home-garden-design]]
+3. Separated from the next bed by thin strips of lemongrass (*[[permaculture-design]]
 - [[keyhole-garden-mandala-design]]
+
+## Overview
+
+Gangammas Mandala Intensive Home Garden represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish gangammas mandala intensive home garden
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving gangammas extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Gangammas Mandala Intensive Home Garden finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for gangammas mandala intensive home garden. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+gangammas mandala intensive home garden and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Gangammas Mandala Intensive Home Garden has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of gangammas mandala intensive home garden into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[gangammas-mandala-garden]]
+- [[gangammas-mandala-garden-design]]
+- [[gangammas-mandala-tropical-sustenance-garden]]
+- [[keyhole-garden-mandala-design]]
+- [[mollison-gangammas-mandala-and-banana-circle-gardens]]

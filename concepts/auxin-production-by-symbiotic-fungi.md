@@ -51,12 +51,8 @@ directly extracted and analysed.
 
 ## Piriformospora indica
 
-[[arbuscular-mycorrhizal-fungi]], P. indica
-grows readily on artificial media and can colonise cruciferous plants
-including A. thaliana. For broader context on [[ectomycorrhizal-fungi]] forming symbioses with trees such as oaks
-and hazels, and some shrubs including Cistus spp. See [[truffle-cultivation-basics]] for further details on truffle biology.
-Production of IAA by
-[[query-what-are-ectomycorrhizal-fungi-and-which-plants-do-they-associate-with]] is well-documented and may drive ectomycorrhiza
+[[ectomycorrhizal-fungi]] forming symbioses with trees such as oaks
+and hazels, and some shrubs including Cistus spp. See [[query-what-are-ectomycorrhizal-fungi-and-which-plants-do-they-associate-with]] is well-documented and may drive ectomycorrhiza
 genesis alongside other signalling molecules.
 
 Using the dual-medium bioassay, exudates of two truffle species (Tuber
@@ -83,43 +79,6 @@ The production of auxin by symbiotic fungi may serve several functions:
 
 Bioassays provide an indication of auxin-like activity but cannot be
 considered definitive proof of IAA production, because other substances
-may cause similar root [[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]], or inhibiting compounds may
-interfere with auxin action. Chemical quantification by HPLC-MS/MS is
-necessary to confirm IAA production and determine its concentration.
-
-## Ectomycorrhizal Fungi
-
-## Practical Applications
-
-The principles and techniques discussed here have wide-ranging applications
-across multiple disciplines and contexts. Practitioners and researchers
-continue to explore new ways to integrate these concepts into modern practice,
-adapting traditional knowledge to contemporary challenges and opportunities.
-
-## Key Considerations
-
-Several important factors influence the effectiveness and outcomes described
-in this topic. Understanding these considerations helps practitioners make
-informed decisions and avoid common pitfalls. Environmental conditions,
-timing, and material selection all play critical roles.
-
-## Historical Context
-
-The historical development of this subject reflects centuries of accumulated
-knowledge and practical experience. From traditional methods passed down
-through generations to modern scientific approaches, the evolution continues
-to inform current best practices and research directions.
-
-## Common Challenges
-
-Practitioners frequently encounter several challenges when working with
-these concepts. Climate variability, resource limitations, and knowledge
-gaps can all affect outcomes. Addressing these challenges requires patience,
-observation, and a willingness to adapt approaches based on results.
-
-## See Also
-- [[mycorrhizal-fungi]]
-- [[ectomycorrhizal-fungi]]
+may cause similar root [[mycorrhizal-fungi]]
 - [[doc]]
-- [[arabidopsis-thaliana]]
 - [[det]]

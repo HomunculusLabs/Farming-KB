@@ -11,26 +11,14 @@ sources:
 
 ## Overview
 
-Echinacea and St. John's Wort represent two pillars of Western [[herbal-medicine-making-basics]]
-with distinctly different primary applications. Echinacea is renowned as an
-immune system modulator and stimulant, most commonly used at the onset of
-infections, while St. John's Wort is primarily valued for its mood-supporting
-and antidepressant properties. Both herbs have extensive [[hofmann-lsd-clinical-research-early-studies]]
+Echinacea and St. John's Wort represent two pillars of Western [[hofmann-lsd-clinical-research-early-studies]]
 supporting their traditional uses, but they differ significantly in their
 phytochemistry, cultivation requirements, safety profiles, and therapeutic
 applications.
 
 ## Echinacea
 
-[[echinacea-growing-guide]]
-
-Echinacea (Echinacea spp.), particularly E. purpurea, E. angustifolia, and
-E. pallida, is a perennial herb native to North American prairies and open
-woodlands. As an immunomodulatory herb, it works primarily by stimulating
-and modulating various aspects of immune function, particularly during the
-early stages of infection.
-
-Key [[panax-ginseng]]:
+[[panax-ginseng]]:
 - Stimulates macrophage activity and phagocytosis
 - Enhances natural killer cell cytotoxicity
 - Modulates cytokine production during immune response
@@ -41,17 +29,7 @@ Echinacea contains several important active compounds including alkylamides
 (responsible for the characteristic tongue-tingling sensation), caffeic acid
 derivatives (particularly cichoric acid), polysaccharides, and flavonoids.
 The alkylamides are considered primary immunomodulatory agents, while cichoric
-acid serves as an important marker compound for [[ingham-compost-quality-assessment-visual-microbial-indicators]].
-
-In cultivation, echinacea prefers full sun and well-drained soils. Different
-species have varying requirements: E. purpurea is the easiest to cultivate and
-most commonly grown, while E. angustifolia develops a deep taproot and is
-considered by many herbalists to produce more potent medicine, though it is
-more challenging to grow and harvest.
-
-## St. John's Wort
-
-[[st-johns-wort-guide]]
+acid serves as an important marker compound for [[st-johns-wort-guide]]
 
 St. John's Wort (hypericum perforatum um) is a perennial herb native to Europe,
 western Asia, and North Africa, now naturalized throughout North America. It
@@ -89,20 +67,7 @@ numerous pharmaceutical medications.
 | **Best Used** | At first signs of illness, short-term (5-10 days) | Long-term for chronic conditions |
 | **Plant Family** | Asteraceae | Hypericaceae |
 | **Native Range** | North America | Europe, western Asia, North Africa |
-| **Major Safety Concern** | [[blesching-cannabis-health-index-autoimmune-conditions]] (theoretical) | Drug interactions, photosensitivity |
-| **Harvest Timing** | Roots in fall (3rd-4th year), aerials at bloom | Flowering tops at peak bloom |
-
-## When to Choose Echinacea
-
-Echinacea is the herb of choice for immune-related conditions, particularly
-in the early stages of infection. It is most effective when taken at the
-first signs of illness - that scratchy throat, slight body ache, or feeling
-of "coming down with something." Traditional use and modern research
-support its efficacy for:
-
-- Upper respiratory infections (colds, flu)
-- Early-stage bacterial and viral infections
-- Wound healing and [[cannabis-topical-applications]]
+| **Major Safety Concern** | [[cannabis-topical-applications]]
 - As a preventative during cold and flu season (short courses)
 
 Echinacea works best in high, frequent doses for short periods. The traditional

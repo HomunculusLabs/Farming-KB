@@ -38,9 +38,7 @@ reliable main crop are preferred.
 
 Choosing the right variety is the single most important decision for cold-
 climate fig growing. The following varieties have proven hardiness and
-reliable [[query-how-to-harvest-and-cure-cannabis-for-best-flavor]] for cold areas |
-| Desert King | Zone 6 (0°F) | Green skin, pink flesh | Excellent breba crop |
-| Negronne | Zone 6 (0°F) | Black, berry-like flavor | [[fukuoka-ideal-rice-plant-morphology-compact-growth-high-yield]] habit |
+reliable [[fukuoka-ideal-rice-plant-morphology-compact-growth-high-yield]] habit |
 
 Chicago Hardy is the top recommendation for zone 5 growers because the
 plant can die back to the ground and still produce figs on new growth the
@@ -49,11 +47,7 @@ offering reliable production with moderate winter protection.
 
 ## Creating a Protected Microclimate
 
-[[holzer-browsing-protection-methods]]
-
-Several winter protection methods allow figs to survive and produce in zones
-5 and 6. The simplest approach is heavy mulching. After the first hard frost
-causes leaf drop, pile 12 to 18 inches of straw, leaves, or [[container-growing-vegetables-herbs]] as an Alternative
+[[container-growing-vegetables-herbs]] as an Alternative
 
 Growing figs in containers is a practical alternative for cold-climate
 growers who want to avoid winter protection routines. Figs have shallow root
@@ -72,20 +66,8 @@ pH between 6.0 and 7.0 and benefit from the addition of compost at
 planting. Good drainage is important because fig roots rot in waterlogged
 soil, especially during winter dormancy.
 
-Water figs deeply once per week during the [[savory-growing-season-and-non-growing-season-management]], increasing
-frequency during fruit development. Established figs are somewhat drought-
-tolerant but produce the sweetest fruit with consistent moisture. Mulch
-heavily to retain moisture and suppress weeds. Reduce watering in late
-summer to slow new growth and encourage hardening off before winter.
-
-Figs need relatively little fertilizer. Excess nitrogen promotes lush
-[[cannabis-vegetative-growth-stage]] at the expense of fruit. Apply balanced organic compost
-in [[coleman-overwintered-onions-and-early-spring-crops]] and avoid feeding after midsummer.
-
-## Pruning and Problem Solving
-
-Prune in early spring after new growth reveals which wood survived winter.
-Remove [[fungal-dead-wood-diversity]] and thin to 3 to 5 vigorous shoots. If using winter
+Water figs deeply once per week during the [[cannabis-vegetative-growth-stage]] at the expense of fruit. Apply balanced organic compost
+in [[fungal-dead-wood-diversity]] and thin to 3 to 5 vigorous shoots. If using winter
 protection, maintain an open bush shape with 4 to 6 main branches that is
 easy to wrap. Never prune in fall, as fresh cuts are vulnerable to freezing.
 
@@ -98,12 +80,4 @@ fermentation. Choose closed-eye varieties like Celeste to prevent this issue.
 
 - Select cold-hardy varieties like Chicago Hardy for zone 5 or Brown
   Turkey for zone 6.
-- Plant against south-facing walls for extra heat and [[cervantes-wind-protection-outdoor-cannabis]].
-- Protect roots with heavy mulch or wrap above-ground wood for winter.
-- Container growing allows moving trees to shelter during freezing weather.
-- Figs fruit on new growth, so even dieback trees can produce a crop.
-- Avoid excess nitrogen, which promotes leaf growth over fruit.
-
-## Related
-
-- [[query-how-to-grow-passionfruit-in-different-climates]]
+- Plant against south-facing walls for extra heat and [[query-how-to-grow-passionfruit-in-different-climates]]

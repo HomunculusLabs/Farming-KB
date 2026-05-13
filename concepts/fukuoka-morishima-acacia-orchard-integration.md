@@ -18,49 +18,20 @@ type: concept
 # Morishima Acacia Orchard Integration
 
 The Morishima acacia (a fast-growing Australian native) plays a central role
-in Masanobu Fukuoka's [[fukuoka-three-dimensional-orchard-design]] where every element serves multiple purposes.
-
-## Origin and Growth Characteristics
-
-The Morishima acacia was introduced to Japan from Australia some years before
-the events described in *The One-Straw Revolution*. Fukuoka reports that it
-grows faster than any tree he has ever encountered. Within just a few months
-of planting, it sends out a deep taproot. Within six or seven years it
-stands as tall as a telephone pole, making it one of the fastest-growing
-trees available for orchard integration in temperate Japan.
-
-This rapid growth is crucial to its role in the orchard system. While many
-soil-building strategies require years of patient investment before yielding
-results, the Morishima acacia begins contributing to the ecosystem almost
-immediately through its root development and canopy formation.
-
-## Nitrogen Fixation in Deep Soil Strata
-
-One of the acacia's most important functions is [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]] fixation.
+in Masanobu Fukuoka's [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]] fixation.
 Rhizobium bacteria living within the tree's root system fix atmospheric
 nitrogen, converting it into forms available to surrounding plants. Fukuoka
-recommends planting six to ten acacia trees per [[fukuoka-agriculture-tomorrow-quarter-acre-vision]]. At this
-density, soil improvement through nitrogen fixation extends into the deep
-soil strata, eliminating the need to break one's back hauling [[hamilton-composting-and-organic-matter-management]]
+recommends planting six to ten acacia trees per [[hamilton-composting-and-organic-matter-management]]
 down from the mountain.
 
 This deep-soil nitrogen fixation complements the surface-layer soil building
-achieved through [[fukuoka-fertilizer-critique-detailed]].
-
-## Windbreak Function
-
-The Morishima acacia serves as a windbreak for the citrus trees in
-Fukuoka's orchard. [[cervantes-wind-protection-outdoor-cannabis]] is critical for fruit production, as
+achieved through [[cervantes-wind-protection-outdoor-cannabis]] is critical for fruit production, as
 strong winds can damage blossoms, strip fruit from branches, and increase
 water loss through transpiration. The rapid growth of the acacia means that
 windbreak protection is established relatively quickly compared to slower-
 growing native species.
 
-The windbreak function connects to Fukuoka's broader [[fukuoka-bushman-world-ecological-balance]].
-
-## Insect Pest Control and Ladybird Connection
-
-Fukuoka specifically links the Morishima acacia to [[fukuoka-disease-pest-management]].
+The windbreak function connects to Fukuoka's broader [[fukuoka-disease-pest-management]].
 
 ## Bee Forage and Fodder
 
@@ -71,14 +42,7 @@ suitable for fodder, providing a secondary yield from trees whose primary
 function is ecological support.
 
 This multi-yield characteristic exemplifies Fukuoka's principle that a well-
-designed [[fukuoka-creating-natural-farm-site-selection-establishment]] produces multiple outputs from the same space. The
-acacia is not a "waste tree" taking up space that could grow citrus; it is
-a productive member of the orchard ecosystem that happens to perform
-essential infrastructure services.
-
-## Integration with Orchard Soil Restoration
-
-The Morishima acacia played a key role in Fukuoka's [[fukuoka-white-clover-cover-crop-system]] addressed the surface. Japanese radish (daikon) was also
+designed [[fukuoka-white-clover-cover-crop-system]] addressed the surface. Japanese radish (daikon) was also
 planted for its deep-rooting soil-penetrating properties. Together with
 the acacia's nitrogen-fixing root system and the ground cover's organic
 matter contributions, these plants transformed hard red clay into loose,
@@ -118,8 +82,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[masanobu-fukuoka]]
 - [[acacia]]
-- [[det]]
 - [[composting]]
 - [[rhizobium]]

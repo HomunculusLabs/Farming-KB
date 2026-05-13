@@ -13,39 +13,13 @@ sources:
 
 ## Overview
 
-sarcodon imbricatus is an ectomycorrhizal basidiomycete fungus belonging to the family Bankeraceae in the order Thelephorales. It is a large, terrestrial mushroom found in association with coniferous trees in temperate and [[fungal-diversity-boreal-forests-taiga]] of the Northern Hemisphere. The species is ecologically notable for its ability to accumulate and biotransform arsenic compounds, containing a mixture of inorganic arsenic and various organoarsenic species in its fruit bodies.
-
-## Taxonomy
-
-- **Kingdom:** Fungi
-- **Phylum:** Basidiomycota
-- **Class:** Agaricomycetes
-- **Order:** Thelephorales
-- **Family:** Bankeraceae
-- **Genus:** Sarcodon
-- **Species:** S. imbricatus
-
-The genus Sarcodon contains several species that are ectomycorrhizal associates of forest trees. The species epithet "imbricatus" refers to the imbricate (overlapping, tile-like) scales on the cap surface. Some authorities recognize Sarcodon imbricatus sensu stricto as distinct from several similar species in the complex.
-
-## Morphology and Identification
-
-sarcodon imbricatus produces large, fleshy basidiocarps with the following characteristics:
-
-- **Cap:** Convex to flat or slightly depressed at the center, 5 to 25 cm in diameter. The cap surface is dry and covered with prominent, dark brown to blackish, recurved scales arranged in an imbricate pattern. The underlying flesh is whitish to pale brown.
-- **Flesh:** Thick, firm, and white to pale buff. The flesh has a mild to slightly acrid taste and a mealy or somewhat unpleasant odor in some specimens.
-- **Hymenium:** The spore-bearing surface consists of decurrent teeth (spines) rather than gills or pores. The teeth are whitish to grayish-brown, becoming darker with age. Individuaspore-print 2 to 6 mm long and crowded.
-- **Stipe:** Central, thick, solid, and cylindrical, 3 to 10 cm long and 1 to 4 cm thick. The stipe surface is brown and typically scaly below the smooth zone near the apex. The flesh of the stipe is white to brownish.
-- **[[comparison-spore-print-collection-vs-spore-syringe-production]]:** Brown to dark brown.
+sarcodon imbricatus is an ectomycorrhizal basidiomycete fungus belonging to the family Bankeraceae in the order Thelephorales. It is a large, terrestrial mushroom found in association with coniferous trees in temperate and [[comparison-spore-print-collection-vs-spore-syringe-production]]:** Brown to dark brown.
 - **Spores:** Subglobose to broadly ellipsoidal, brownectomycorrhizal-fungiulate), measuring approximately 6 to 8 micrometers in diameter.
 - **Chemical reactions:** The flesh may show blue-green reactions with iron salts (FeSO4) or other chemical reagents.
 
 ## Ecology and Habitat
 
-sarcodon imbricatus is an obligate [[dighton-ericoid-mycorrhizal-nutrient-acquisition]], particularly in nutrient-poor forest soils. The fungus may also provide some degree of protection against root pathogens.
-
-## Decomposer Organisms
-
-The ectomycorrhizal mycelium of sarcodon imbricatus interacts with soil bacteria and other fungi in the rhizosphere and mycorrhizosphere. These interactions may include competition for nutrients, synergistic relationships in [[hamilton-composting-and-organic-matter-management]] decomposition, and the exchange of signaling molecules.
+sarcodon imbricatus is an obligate [[hamilton-composting-and-organic-matter-management]] decomposition, and the exchange of signaling molecules.
 
 ### Animal Interactions
 
@@ -55,11 +29,7 @@ The basidiocarps of sarcodon imbricatus are consumed by various forest animals, 
 
 ### Edibility
 
-sarcodon imbricatus is considered edible in some traditions but is not widely regarded as a choice [[bloomfield-boletus-satanus-edible-mushroom-hazards]]. The flesh can be somewhat bitter or acrid, and some individuals report gastrointestinal upset after consumption. In some European countries, young specimens are collected and prepared for the table, often after parboiling to remove bitter compounds.
-
-### Bioremediation Potential
-
-The arsenic accumulation and biotransformation capabilities of sarcodon imbricatus suggest potential applications in bioremediation of arsenic-contaminated soils. The ability to methylate inorganic arsenic into less toxic organoarsenic forms could be harnessed for the detoxification of [[mycoremediation]] Research
+sarcodon imbricatus is considered edible in some traditions but is not widely regarded as a choice [[mycoremediation]] Research
 
 The complex arsenic speciation profile of this species makes it a model organism for studying fungal mechanisms of metalloid tolerance and transformation. Understanding these mechanisms could lead to the development of fungal-based strategies for managing arsenic-contaminated sites.
 
@@ -73,22 +43,95 @@ The presence of methylated arsenic compounds (MA and DMA) in sarcodon imbricatus
 
 ### Environmental Context
 
-The accumulation of arsenic by sarcodon imbricatus and other higher fungi reflects the bioavailability of arsenic in their [[biodiversity-fungal-secondary-metabolites]]. Some Sarcodon species produce scabronine derivatives and other terpenoid compounds with biological activity, including potential anti-inflammatory and neurotrophic properties. However, the specific bioactive compound profile of S. imbricatus requires further investigation.
-
-## Research Notes
-
-Dighton (2003) discusses sarcodon imbricatus in the context of [[dighton-fungal-heavy-metal-accumulation-bioremediation]] and transformation by fungi, specifically its capacity to contain multiple arsenic species (inorganic arsenic, MA, DMA, and AB) within its fruit bodies. This research, conducted by Byrne et al. (1995) and Slejkovec et al. (1997), highlights the complexity of metal interactions in higher fungi and the important role that ectomycorrhizal species play in biogeochemical cycling of potentially toxic elements in forest ecosystems.
+The accumulation of arsenic by sarcodon imbricatus and other higher fungi reflects the bioavailability of arsenic in their [[dighton-fungal-heavy-metal-accumulation-bioremediation]] and transformation by fungi, specifically its capacity to contain multiple arsenic species (inorganic arsenic, MA, DMA, and AB) within its fruit bodies. This research, conducted by Byrne et al. (1995) and Slejkovec et al. (1997), highlights the complexity of metal interactions in higher fungi and the important role that ectomycorrhizal species play in biogeochemical cycling of potentially toxic elements in forest ecosystems.
 
 ## See Also
-
-- [[sarcodon-scabrosus]]
 
 - [[edible-mushroom-families-boleti-russula-lactarius-clavaria-puffballs-palmer]]
 
 - Sarcodon
 - Ectomycorrhiza
 - arsenic accumulation
-- [[dighton-fungal-biosorption-heavy-metal-remediation]] accumulation
-- Bankeraceae
-- Basidiomycota
+- [[sarcodon-scorodonium]]
+
+## Overview
+
+Sarcodon Imbricatus represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish sarcodon imbricatus
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving sarcodon extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Sarcodon Imbricatus finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for sarcodon imbricatus. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+sarcodon imbricatus and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Sarcodon Imbricatus has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of sarcodon imbricatus into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[sarcodon-scabrosus]]
 - [[sarcodon-scorodonium]]

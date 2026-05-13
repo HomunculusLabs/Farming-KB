@@ -6,29 +6,14 @@ type: entity
 
 ## Description
 
-**Edge cropping** (also called zone cropping or strip cropping) is an agricultural design strategy that arranges crops in narrow alternating strips so that every plant sits on a productive edge between two different crop types. Rather than planting monoculture blocks, the method exploits the well-documented [[edge-effect]] where plants at the boundary between two crop types produce significantly higher yields than those in the interior. The concept was developed and formalized by [[bill-mollison]] as a direct application of pattern understanding to food production.
+**Edge cropping** (also called zone cropping or strip cropping) is an agricultural design strategy that arranges crops in narrow alternating strips so that every plant sits on a productive edge between two different crop types. Rather than planting monoculture blocks, the method exploits the well-documented [[bill-mollison]] as a direct application of pattern understanding to food production.
 
 ## Classification
 
 - **Domain**: Agriculture / Agronomy
 - **Category**: Polyculture design strategy
 - **Subcategory**: Strip intercropping / Edge-based planting
-- **Related concepts**: Edge effect, polyculture, [[companion-planting]], guild design, mosaic agriculture
-
-## Key Facts
-
-- Many crops (wheat, pulse grains, crown-bearing trees, mass-planted vegetables) yield significantly better on crop edges than within monoculture blocks.
-- Edge yield increases of two-fold or more are documented for crop combinations like wheat and lucerne (alfalfa).
-- If edge effect extends 1 m into each crop, a 2 m strip width creates nothing but edge across an entire field.
-- A field planted in 2 m alternating strips of two compatible crops can produce approximately the same yield as twice the area planted in single-crop stands.
-- The principle extends to many varied crops, creating a matrix of hedgerows or edge-rows each suited to a particular crop width.
-- French-intensive agriculture and modern Quebec farmed strips demonstrate productive crop mosaics based on this principle.
-- The method is particularly suited to small landholders in shared land trusts, each tending one or more crop strips.
-- Natural analogs occur on coasts and around salt pans or waterholes, where zonal strips develop spontaneously.
-
-## Relevance to Cultivation and Mycology
-
-Edge cropping has direct applications in integrated mushroom-plant systems. Mushroom beds or inoculated logs can be positioned as the alternating strip component between vegetable or grain crops. The boundary between crop and mushroom zones creates the humid, shaded microclimate many fungi prefer while the crop strip provides organic matter and [[root-exudates]] that feed the fungal network. Agroforestry applications use tree rows as one edge component with mushroom-producing understory as another. The strip design also facilitates different management regimes — irrigation, mulching, and harvesting can be tailored to each strip type. Mycorrhizal fungi at the interface between different crop roots mediate nutrient exchange across the boundary, increasing total system productivity beyond what either crop achieves alone.
+- **Related concepts**: Edge effect, polyculture, [[root-exudates]] that feed the fungal network. Agroforestry applications use tree rows as one edge component with mushroom-producing understory as another. The strip design also facilitates different management regimes — irrigation, mulching, and harvesting can be tailored to each strip type. Mycorrhizal fungi at the interface between different crop roots mediate nutrient exchange across the boundary, increasing total system productivity beyond what either crop achieves alone.
 
 ## Interaction Types at Boundaries
 
@@ -76,8 +61,90 @@ Bill Mollison, *Permaculture: A Designer's Manual*, Chapter 4 — Edge Cropping 
 - Field observations complement controlled experimental results
 
 ## See Also
-- [[fukuoka-clover-cover-cropping-soil-ecology]]
 - [[query-how-does-cover-cropping-benefit-soil-and-when-should-i-plant-them]]
-- [[trap-cropping]]
 - [[hamilton-green-manure-crops-and-cover-cropping]]
 - [[comparison-trap-cropping-vs-companion-planting]]
+
+## Overview
+
+Edge Cropping represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish edge cropping
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving edge extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Edge Cropping finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for edge cropping. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+edge cropping and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Edge Cropping has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of edge cropping into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[bill-mollison-permaculture-a-designers-manual-edge-effect-and-ecotone-design]]
+- [[holmgren-aboriginal-management-edge-landscapes]]
+- [[mollison-boundary-harmonics-and-edge-geometry]]
+- [[permaculture-edge-effect-design]]

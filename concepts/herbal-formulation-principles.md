@@ -18,18 +18,13 @@ The fundamental goal of herbal formulation is to create a whole that is greater 
 
 ### Synergy
 
-Synergy occurs when the combined effect of multiple herbs exceeds the sum of their individual effects. Many herbs contain hundreds of compounds that interact in complex ways. When herbs are combined, their constituents can enhance each other's absorption, distribution, metabolism, [[tihkal-receptor-binding-serotonin]], or therapeutic effect.
+Synergy occurs when the combined effect of multiple herbs exceeds the sum of their individual effects. Many herbs contain hundreds of compounds that interact in complex ways. When herbs are combined, their constituents can enhance each other's absorption, distribution, metabolism, [[comparison-black-pepper-vs-cardamom-tropical-spice-cultivation]]) with curcumin (from turmeric) increases curcumin bioavailability by up to 2,000% by inhibiting hepatic and intestinal glucuronidation. Combining valerian with passionflower produces more effective sleep promotion than either herb alone, likely through complementary effects on different aspects of the GABAergic system.
 
-For example, combining piperine (from [[comparison-black-pepper-vs-cardamom-tropical-spice-cultivation]]) with curcumin (from turmeric) increases curcumin bioavailability by up to 2,000% by inhibiting hepatic and intestinal glucuronidation. Combining valerian with passionflower produces more effective sleep promotion than either herb alone, likely through complementary effects on different aspects of the GABAergic system.
-
-The concept of synergy parallels the [[cannabis-terpene-entourage-effect-profiles]] described in cannabis science, where the whole plant produces effects greater than isolated compounds. See [[herbal-medicine-preparation-methods]] for preparation-specific guidance and [[smilax-ornata]]
-
-- [[herbal-materia-medica]] — individual herb profiles
-- [[herbal-tincture-making]] — tincture formulation
+The concept of synergy parallels the [[herbal-medicine-preparation-methods]] for preparation-specific guidance and [[herbal-materia-medica]] — individual herb profiles
 - [[medicinal-plant-preparations-tinctures-salves-teas]] — comprehensive reference
 
 ## Merged: Anti Inflammatory Herbs
-Inflammation is a fundamental [[medicinal-mushrooms-biological-response-modifiers]] to injury, infection, and tissue damage. While acute inflammation is protective and necessary for healing, chronic low-grade inflammation is implicated in a wide range of diseases including arthritis, cardiovascular disease, diabetes, [[cannabis-autoimmune-conditions-detailed]], neurodegenerative diseases, and cancer. See [[herb-drug-interactions]] page for specific interaction data and [[herbal-materia-medica]] — Individual herb profiles with anti-inflammatory data - herbal formulation principles 
+Inflammation is a fundamental [[cannabis-autoimmune-conditions-detailed]], neurodegenerative diseases, and cancer. See [[herbal-materia-medica]] — Individual herb profiles with anti-inflammatory data - herbal formulation principles 
 ## Practical Applications
 
 Herbal Formulation Principles has a range of practical applications that make it relevant to
@@ -96,8 +91,6 @@ through generations to modern scientific approaches, the evolution continues
 to inform current best practices and research directions.
 
 ## See Also
-- [[doc]]
 - [[piperine]]
-- [[det]]
 - [[curcumin]]
 - [[serotonin]]

@@ -10,18 +10,8 @@ sources:
 
 # Fungal Degradation of Pesticides and Persistent Organic Pollutants
 
-Fungi possess unique capabilities for degrading pesticides and persistent organic pollutants (POPs) that complement bacterial [[staycare-chlorophenol-degradation-pathways-white-rot-fungi]]. Their filamentous growth habit, enzyme systems, and ability to form symbiotic associations with plants make them particularly valuable for agricultural and environmental remediation.
-
-## Fungal Advantages in POP Degradation
-
-Compared to bacteria, fungi offer several advantages:
-- **[[dighton-fungal-extracellular-enzyme-systems-decomposition]] systems**: Non-specific [[ligninolytic-enzymes]] can attack a wide range of structurally diverse pollutants without requiring prior adaptation
-- **Filamentous growth**: Hyphae penetrate soil aggregates and reach pollutants in microenvironments inaccessible to bacteria
-- **Co-metabolic degradation**: Many POPs are degraded as incidental substrates while fungi grow on primary carbon sources
-- **Plant symbiosis**: [[mycorrhizal-fungi]] extend degradation capabilities into the root zone (see fungal-biodegradation-pesticides
+Fungi possess unique capabilities for degrading pesticides and persistent organic pollutants (POPs) that complement bacterial [[dighton-fungal-extracellular-enzyme-systems-decomposition]] systems**: Non-specific [[mycorrhizal-fungi]] extend degradation capabilities into the root zone (see fungal-biodegradation-pesticides
 - fungal-ligninolytic-enzyme-systems-overview
-- [[mycoremediation-basics]]
-
 - [[staycare-fungal-formulation-in-situ-bioremediation]]
 ## Practical Applications
 

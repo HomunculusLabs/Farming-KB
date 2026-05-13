@@ -9,7 +9,7 @@ created: 2026-05-11
 
 ## Overview
 
-Edaphic factors—the physical and chemical properties of soil—are the primary determinants of microbial [[core-endorhiza-bacterial-community-composition-cannabis]] across all plant-associated compartments. In the [[winston-cannabis-microbiome-study-design]] by Winston et al. (2014), soil type was the single most powerful predictor of microbial community structure, exceeding the effects of both sample type (bulk soil, rhizosphere, endorhiza) and plant cultivar. Understanding which edaphic factors matter most, and how they interact, is fundamental to managing soil health for optimal plant-microbe partnerships.
+Edaphic factors—the physical and chemical properties of soil—are the primary determinants of microbial [[winston-cannabis-microbiome-study-design]] by Winston et al. (2014), soil type was the single most powerful predictor of microbial community structure, exceeding the effects of both sample type (bulk soil, rhizosphere, endorhiza) and plant cultivar. Understanding which edaphic factors matter most, and how they interact, is fundamental to managing soil health for optimal plant-microbe partnerships.
 
 ## Key Edaphic Factors
 
@@ -33,39 +33,7 @@ The Orange County soil contained 20.0% total organic carbon compared to only 3.0
 
 ### Water Content
 
-Soil water content was the fourth strongest predictor (weighted: r-stat: 0.281; unweighted: r-stat: 0.466, both p = 0.001). Water availability governs microbial activity, nutrient diffusion, and gas exchange in soil. Water-filled pore space determines the balance between [[query-what-is-the-difference-between-aerobic-and-anaerobic-composting]] microsites, influencing which metabolic strategies are viable.
-
-Orange County soil had substantially higher water content (0.371) compared to Mo-Bio soils (0.101–0.178), reflecting differences in soil management, organic matter content, and possibly irrigation history.
-
-### pH
-
-Soil pH was the weakest but still highly significant predictor (weighted: r-stat: 0.221; unweighted: r-stat: 0.292, both p = 0.001). Despite its relatively lower individual effect in this study, pH is widely recognized as a master variable in soil microbiology because it affects nutrient availability, metal solubility, and enzyme activity simultaneously. All tested soils were slightly acidic (pH 6.63–6.94), which is typical for productive agricultural soils.
-
-### Soil Texture
-
-All soils in the study were classified as sandy loam, with sand content ranging from 62.0% to 66.0%, silt from 16.0% to 17.7%, and clay from 17.7% to 20.7%. While texture differences between soils were modest, they influence water-holding capacity, nutrient retention, and root penetration, creating the physical matrix within which chemical factors operate.
-
-## Combined Effects and BEST Analysis
-
-While individual factors can be ranked, they do not act independently. A BEST (Best Subset of Environmental Variables with Maximum Rank Correlation) analysis determined that the optimal combination of three edaphic variables explained community variance with a correlation of rho = 0.632. The three variables were nitrogen, carbon, and water content—suggesting that these three factors capture the most important axes of edaphic variation for microbial community structure.
-
-This multivariate approach is more informative than considering any single factor alone, as soil properties interact in complex ways. For example, organic carbon increases water-holding capacity while also providing substrate for microbial growth, and nitrogen availability interacts with carbon availability to determine the carbon-to-nitrogen ratio that constrains microbial decomposition rates.
-
-## Soil Type vs. Cultivar: Relative Importance
-
-A striking finding was the magnitude of difference between soil-driven and cultivar-driven community variation. The number of significant OTU differences between soil types was 657 (unweighted) and 690 (weighted), while strain differences showed 0 (unweighted) and 71 (weighted) significant OTUs. This approximately tenfold difference underscores that soil chemistry is the dominant force shaping which bacteria are available to colonize plant roots, while cultivar effects are secondary and primarily modulate relative abundances within the soil-derived community.
-
-This hierarchy has been observed across many plant systems. Marschner et al. (2001) showed that soil type explained more variation than plant species in rhizosphere communities. Smalla et al. (2001) demonstrated that plant-dependent enrichment in the rhizosphere was superimposed on a soil-determined background community. The Cannabis study reinforces these findings with particularly clear quantification of the relative effect sizes.
-
-## Temporal Dynamics of Edaphic Factors
-
-Edaphic factors are not static; they change over time in response to weather, plant uptake, microbial activity, and management practices. Seasonal temperature fluctuations affect microbial metabolic rates and thus nutrient cycling. Rainfall events alter water content and can leach soluble nutrients. Plant growth progressively depletes available nitrogen and other nutrients from the root zone while adding organic carbon through root exudation and litter fall.
-
-The Cannabis study's two experiments, conducted at different times (November 2011 and August 2012), likely captured some of this temporal variation. The Mo-Bio soil used in both experiments showed different properties between sampling dates, with the first experiment's soil having intermediate diversity compared to the second experiment's two soils. Understanding how edaphic factors change over a growing season is critical for predicting how microbial communities will respond.
-
-## Edaphic-Cannabinoid Confounds
-
-An important methodological challenge identified in the study was the confounding of edaphic factors with plant chemistry. Plants from one soil type (Orange County) had significantly higher THC composition and concentration, and THC variables were also significantly correlated with soil edaphic variables. This makes it extremely difficult to disentangle the effects of soil chemistry on microbial communities from the effects of cannabinoid-mediated selection. Any observed association between microbiota and THC could be driven either by direct cannabinoid effects on [[cannabis-endorhiza-bacterial-communities]] or by indirect effects through soil-mediated changes in plant metabolism. Future studies should use controlled soil conditions with multiple cultivars to isolate these effects.
+Soil water content was the fourth strongest predictor (weighted: r-stat: 0.281; unweighted: r-stat: 0.466, both p = 0.001). Water availability governs microbial activity, nutrient diffusion, and gas exchange in soil. Water-filled pore space determines the balance between [[cannabis-endorhiza-bacterial-communities]] or by indirect effects through soil-mediated changes in plant metabolism. Future studies should use controlled soil conditions with multiple cultivars to isolate these effects.
 
 ## Implications for Soil Management
 
@@ -108,15 +76,11 @@ When applying these concepts, several factors warrant attention: environmental c
 
 ## See Also
 
-- [[edaphic-factors-microbial-community-structure]]
 - [[soil-edaphic-factors-microbial-communities]]
-- [[cannabis-rhizosphere-community-structure-edaphic-factors]]
-- 
 - [[edaphic-determinants-cannabis-microbiome-community-structure]]
 
 ## See Also
 
-- [[two-tier-selection-model-plant-microbiome-assembly]]
 - [[endorhiza-rhizosphere-bulk-soil-microbial-communities]]
 - cannabis cultivar specificity microbiome
 - soil ph nitrogen microbial activity

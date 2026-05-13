@@ -6,29 +6,10 @@ type: concept
 
 # Fukuoka Pesticides Biosystem Ripple Effects and Fungal Mutation
 
-[[masanobu-fukuoka]]'s analysis of pesticides reveals a profound ecological insight:
-human interventions in agriculture—particularly [[comparison-parasitoid-wasps-vs-chemical-pesticides]]—set off
+[[comparison-parasitoid-wasps-vs-chemical-pesticides]]—set off
 cascading chain reactions through interconnected biological systems. His
-investigations into [[bloomfield-amphibian-decline-fungal-disease-climate-interactions]] outbreaks, [[fukuoka-textdoc-botrytis-outbreak-pesticide-microbial-mutation]], and ecological
-collapse form a systematic [[fukuoka-road-critique-of-modern-science]] agriculture's fundamental
-misunderstanding of nature's complexity.
-
-## Pesticides in the Biosystem
-
-Fukuoka begins with a fundamental observation about ecological order: "Plants and
-animals seem to live freely and without constraints of any sort, but in fact they
-belong to a close-knit order." This order is a deeply interwoven system where
-each element exists in relationship to countless others. The gravest
-interventions are pesticides, fertilizers, and agricultural machinery—what he
-calls the "biggest stones" cast into the delicate order of the natural world.
-
-The central problem is not merely direct harm but that indirect effects propagate
-unpredictably throughout the biosystem. The farmer "goes ahead and uses
-pesticides," Fukuoka observes, "because of their ability to destroy specific
-pests or pathogens, but is almost totally ignorant of the ripple effects
-pesticides have on the rest of the biological world." This targeted thinking—the
-assumption that one can eliminate a specific problem without affecting the larger
-system—is the foundational error of modern [[biofumigation-and-brassica-cover-crops-for-pest-management]].
+investigations into [[fukuoka-textdoc-botrytis-outbreak-pesticide-microbial-mutation]], and ecological
+collapse form a systematic [[biofumigation-and-brassica-cover-crops-for-pest-management]].
 
 ## The Loquat Botrytis Incident
 
@@ -42,7 +23,7 @@ question haunted him: "Why had this outbreak occurred in the first place?"
 Fukuoka traced the outbreak to post-war pesticide spraying campaigns for citrus
 diseases and identified four converging factors:
 
-1. **Interplanting of citrus trees**: A post-war citrus boom led farmers to
+1. **Interplanting of [[fukuoka-textdoc-search-natural-form-citrus-trees]]**: A post-war citrus boom led farmers to
    interplant citrus within loquat groves, introducing new disease vectors.
 
 2. **Shift in cultivation practices**: A rapid transition from clear cultivation
@@ -109,7 +90,7 @@ mutagenic properties may be actively generating novel organisms.
 "Some scientists are concerned about the chances of a 'retaliation' by insects,
 but I believe that much more is to be feared from bacteria, fungi, and
 viruses." The microbial world's capacity for rapid mutation makes it a far
-greater threat than insect pests.
+greater threat than [[duggar-mushroom-insect-pests-and-fungal-diseases]].
 
 His concerns were validated by radiation breeding experiments. While scientists
 focused on radiation-induced crop improvements, "I felt far greater concern over
@@ -122,7 +103,7 @@ they already exist in the microbial world?"
 Fukuoka traced how a single disruption cascades through an ecosystem.
 Atmospheric pollution kills microbes that naturally attack botrytis fungi; with
 these predators eliminated, botrytis proliferates unchecked, causing rotting of
-apple, loquat, and plum blossoms alongside massive gray mold on citrus.
+apple, loquat, and plum blossoms alongside massive [[cervantes-gray-mold-botrytis-prevention]] on citrus.
 
 The explosive mold increase triggers a secondary cascade: a sudden rise in
 nematodes feeding on mold, contributing to abnormally large numbers of dead pine

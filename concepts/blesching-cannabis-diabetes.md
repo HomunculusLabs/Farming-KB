@@ -8,9 +8,7 @@ type: concept
 tags: [cannabis]
 ---
 
-# [[cannabis-and-diabetes]]
-
-While [[cervantes-hash-cannabis-oil-production]] has been used historically in the treatment of diabetes,
+# [[cervantes-hash-cannabis-oil-production]] has been used historically in the treatment of diabetes,
 and many diabetic patients claim that cannabis lowers high blood sugar levels
 and stabilizes mood changes, no human studies have been conducted to examine
 the general effects of cannabinoids on diabetic patients. However, the known
@@ -30,29 +28,7 @@ basis for potentially novel neuroprotective drugs for diabetic patients.
 
 Two U.S. studies demonstrated that THC and CBD could reduce diabetic
 neuropathies (nerve pain). The Augusta study (2006) observed reduction in
-retinal [[blesching-cannabis-oxidative-stress-and-antioxidant-defense]] with additional attenuation of autoimmune diabetes in
-mice. A Polish research team (2008) discovered that CB1 and CB2 receptor
-agonists reduce sensitivity to pain in a dose-dependent fashion, and COX-1
-inhibitors (e.g., indomethacin) may increase these cannabinoid properties at
-low dosages.
-
-## Study Summary
-
-| Drugs | Study | Year, Place, Key Results | CHI |
-|-------|-------|--------------------------|-----|
-| HU210 | Laboratory | 2009, Edinburgh, UK: Neurite growth may play therapeutic role in reversing neuropathies | 1 |
-| WIN55,212-2, Met-F-AEA, AM1241 | Animal (mice) | 2008, Warsaw, Poland: CB1/CB2 agonists reduce pain sensitivity dose-dependently; COX-1 inhibitors synergize | 2 |
-| CBD | Animal (mice) | 2008, Jerusalem, Israel: CBD reduced diabetes manifestations, more intact islets of Langerhans | 2 |
-| CBD | Animal (mice) | 2006, Jerusalem, Israel: CBD significantly reduced incidence of diabetes in NOD mice | 2 |
-| CBD | Animal (rats) | 2006, Augusta, GA: Significant protection from developing diabetic retinopathy | 2 |
-| Delta-9-THC | Animal (mice) | 2001, East Lansing, MI: THC attenuates severity of autoimmune diabetes | 2 |
-
-Total CHI Value: 11
-
-## Strain-Specific Considerations
-
-In these studies, the synthetic cannabinoids WIN55,212-2, AM1241, and HU210
-and the plant [[cervantes-cannabinoids-thc-cbd-chemistry]] but especially CBD underwent testing.
+retinal [[cervantes-cannabinoids-thc-cbd-chemistry]] but especially CBD underwent testing.
 
 - WIN55,212-2 and AM1241 bind with higher affinity to CB2
 - HU210 has a higher affinity for CB1 receptors
@@ -89,7 +65,6 @@ when and how to exercise.
 
 ## See Also
 
-- [[cannabinoid-receptors-cb1-cb2]]
 - [[blesching-cannabis-cardiovascular-health]]
 
 ## Practical Applications
@@ -121,8 +96,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[doc]]
 - [[dom]]
-- [[det]]
 - [[blesching-cannabis-diabetes-mellitus-endocannabinoid-system]]
 - [[blesching-cannabis-neuroprotection-neurodegenerative]]

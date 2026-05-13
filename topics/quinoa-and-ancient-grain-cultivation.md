@@ -26,40 +26,12 @@ sources:
 
 # Quinoa and Ancient Grain Cultivation
 
-Ancient grains — quinoa, amaranth, teff, millet, sorghum, buckwheat, and their relatives — represent some of humanity's oldest domesticated crops. [[drought-tolerant-planting-design]], nutrient-dense, and adapted to marginal soils, they are experiencing a global resurgence as growers seek climate-resilient alternatives to wheat, rice, and maize. This guide covers the major ancient grains suitable for home gardens, homesteads, and small-scale farm production, with practical cultivation details for each.
-
-## Overview of Major Ancient Grains
-
-| Grain | Species | Origin | Days to Maturity | Annual/Perennial | Protein (%) |
-|-------|---------|--------|-----------------|------------------|-------------|
-| Quinoa | *Chenopodium quinoa* | Andes (Bolivia/Peru) | 90–120 | Annual | 12–16 |
-| Amaranth | *Amaranthus spp.* | Mesoamerica | 90–110 | Annual | 13–16 |
-| Teff | *Eragrostis tef* | Ethiopia | 45–60 | Annual | 11–14 |
-| Pearl Millet | *Pennisetum glaucum* | West Africa | 60–90 | Annual | 10–12 |
-| Sorghum | *Sorghum bicolor* | Sub-Saharan Africa | 90–120 | Annual | 9–12 |
-| Buckwheat | *Fagopyrum esculentum* | East Asia | 70–90 | Annual | 10–13 |
-| Fonio | *Digitaria exilis* | West Africa | 60–75 | Annual | 8–11 |
-| Kañiwa | *Chenopodium pallidicaule* | Andes | 150–180 | Annual | 15–17 |
-
-## Quinoa (*Chenopodium quinoa*)
-
-### Botany and History
-
-Quinoa is a broadleaf, herbaceous annual in the Amaranthaceae family (formerly classified under Chenopodiaceae). It grows 1–2 m tall with angular stems, lobed leaves, and terminal panicles bearing thousands of tiny seeds. Domesticated 5,000–7,000 years ago in the Andean Altiplano, quinoa was the staple grain of the Inca Empire, known as "chisaya mama" — mother of all grains. The plant's remarkable adaptability allows it to grow from sea level to 4,000 m elevation.
-
-Over 3,000 quinoa varieties exist, broadly grouped by ecotype:
-
-- **Valley types**: Lower altitude (2,000–3,000 m), larger seeds, milder saponin
-- **Altiplano types**: High altitude (3,000–4,000 m), frost-tolerant, bitter saponin
-- **Sea level types**: Tropical/subtropical, [[short-day-and-long-day-plant-classification]] sensitive
+Ancient grains — quinoa, amaranth, teff, millet, sorghum, buckwheat, and their relatives — represent some of humanity's oldest domesticated crops. [[short-day-and-long-day-plant-classification]] sensitive
 - **Salares types**: Salt-flat adapted, extremely salt-tolerant
 
 ### Climate Requirements
 
-Quinoa thrives in cool, dry conditions and is remarkably frost-tolerant, especially during [[cannabis-vegetative-growth-stage]]. It can survive temperatures down to −8°C (18°F) with minimal damage, making it one of the most cold-hardy grain crops.
-
-- **Temperature**: Optimal 15–20°C (59–68°F) during growth; tolerates up to 35°C (95°F) but yields drop
-- **[[coleman-winter-day-length-and-persephone-months]]**: Most Andean varieties are photoperiod-sensitive (short-day); newer photoperiod-neutral varieties are available for temperate latitudes
+Quinoa thrives in cool, dry conditions and is remarkably frost-tolerant, especially during [[coleman-winter-day-length-and-persephone-months]]**: Most Andean varieties are photoperiod-sensitive (short-day); newer photoperiod-neutral varieties are available for temperate latitudes
 - **Rainfall**: 250–500 mm annually; drought-tolerant once established
 - **Frost**: Seedlings tolerate light frost; mature plants survive hard frost briefly
 

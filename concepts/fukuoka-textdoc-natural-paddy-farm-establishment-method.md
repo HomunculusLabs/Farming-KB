@@ -35,9 +35,7 @@ Instead, vegetation on the hillside is cut in lateral strips, and large trunks, 
 
 ## Establishing a Natural Protected Wood
 
-The woods surrounding a natural farm should serve as a natural preserve and direct or indirect source of [[complete-organic-fertilizer-cof-recipe-solomon]]. The basic strategy for long-term fertilizer-free cultivation is to create deep, fertile soil through three methods:
-
-1. Direct burial of coarse [[hamilton-composting-and-organic-matter-management]] deep in the ground.
+The woods surrounding a natural farm should serve as a natural preserve and direct or indirect source of [[hamilton-composting-and-organic-matter-management]] deep in the ground.
 2. Gradual soil improvement by planting grasses and trees that send roots deep into the soil.
 3. Enrichment of the farm by carrying nutrients built up in the humus of upland woods downhill with rainwater.
 
@@ -80,46 +78,6 @@ Fruit saplings are planted at equal intervals along hill contours. A fairly deep
 
 ### Natural Seedlings vs. Grafted Nursery Stock
 
-From the standpoint of [[comparison-natural-farming-vs-permaculture]], trees grown from seed are preferable to grafted nursery stock. When a tree is grafted, the flow of sap is blocked at the graft juncture, resulting in either a dwarf tree requiring heavy fertilization or a tree with short lifetime and poor resistance to temperature extremes.
-
-However, [[comparison-seed-starting-indoors-vs-direct-seeding-techniques]] of citrus produces trees that revert or degenerate. Fukuoka used direct seeding primarily to learn the true form of the tree and its [[ingham-natural-growth-regulators-soil-microbes]] rate, which then informed his approach to training grafted stock toward a more natural form.
-
-### Orchard Management Sequence
-
-1. Years one to four: Cut weeds and underbrush twice yearly. Fruit trees grow among brush and assorted trees with irregular growth and poor harvests in some cases, but very little disease and insect damage.
-2. Years four to five: Broadcast clover seed over the entire orchard as underbrush recedes.
-
-## Practical Applications
-
-The principles and techniques discussed here have wide-ranging applications
-across multiple disciplines and contexts. Practitioners and researchers
-continue to explore new ways to integrate these concepts into modern practice,
-adapting traditional knowledge to contemporary challenges and opportunities.
-
-## Key Considerations
-
-Several important factors influence the effectiveness and outcomes described
-in this topic. Understanding these considerations helps practitioners make
-informed decisions and avoid common pitfalls. Environmental conditions,
-timing, and material selection all play critical roles.
-
-## Historical Context
-
-The historical development of this subject reflects centuries of accumulated
-knowledge and practical experience. From traditional methods passed down
-through generations to modern scientific approaches, the evolution continues
-to inform current best practices and research directions.
-
-## Common Challenges
-
-Practitioners frequently encounter several challenges when working with
-these concepts. Climate variability, resource limitations, and knowledge
-gaps can all affect outcomes. Addressing these challenges requires patience,
-observation, and a willingness to adapt approaches based on results.
-
-## See Also
-- [[masanobu-fukuoka]]
-- [[det]]
+From the standpoint of [[comparison-seed-starting-indoors-vs-direct-seeding-techniques]] of citrus produces trees that revert or degenerate. Fukuoka used direct seeding primarily to learn the true form of the tree and its [[masanobu-fukuoka]]
 - [[composting]]
-- [[camphor]]
 - [[permaculture]]

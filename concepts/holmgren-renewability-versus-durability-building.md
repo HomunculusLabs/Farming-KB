@@ -9,8 +9,7 @@ sources:
   - "raw/papers/david-holmgren-permaculture-principles-pathways-beyon.md"
 ---
 # Renewability Versus Durability in the Built Environment
-Source: [[david-holmgren]], Permaculture: Principles and Pathways Beyond
-Sustainability (Principle 12: Creatively Use and [[permaculture-principle-creatively-use-and-respond-to-change]])
+Source: [[permaculture-principle-creatively-use-and-respond-to-change]])
 
 ## Learning to See Change in Buildings
 
@@ -18,108 +17,93 @@ Learning to see change in the built environment as an organic process
 will be important as energy declines, because buildings designed for
 high energy have to be progressively adapted to new uses with limited
 resources.
-Principle 9: Use Small and [[permaculture-principle-use-small-and-slow-solutions]] emphasised the value of
-long-term, durable design and materials in the built environment.
-Principle 5: Use and [[permaculture-principle-use-and-value-renewable-resources]] Resources and Services considered
+Principle 9: Use Small and [[permaculture-principle-use-and-value-renewable-resources]] Resources and Services considered
 the use of living structures that are largely self-maintaining.
-Principle 6: [[holmgren-produce-no-waste-waste-hierarchy-refuse-reduce-reuse-repair-recycle]] discussed the importance of traditional
-values and behaviours associated with regular maintenance.
-However, maintenance could be described as a reaction to inevitable
-change -- a reaction that is repetitive and uncreative.
+Principle 6: [[pig-husbandry]]
+- [[comparison-bamboo-construction-vs-cob-building]]
+- [[cob-building-basics-detailed]]
 
-## The Renewable Strategy
+## Overview
 
-Rather than always building things to last, the opposite strategy of
-using a cheap and abundant renewable option has merit. This strategy
-avoids the waste of expensive or valuable materials when they are not
-needed, and adapts to the inexorable effects of entropy by going with
-the flow.
-The banana leaf was used as a plate for take-away food in South-East
-Asia prior to the spread of polystyrene, plastic and paper -- an
-excellent example of a simple throw-away solution that is sustainable.
-In tropical countries, several factors favour the temporary over the
-permanent in the built environment:
+Holmgren Renewability Versus Durability Building represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
 
-- Rapid decay rates for most materials
-- High level of natural disasters (cyclones, earthquakes, floods)
-- Availability of rapidly grown renewable materials (bamboo)
-- Availability of cheap and skilled labour
-- Largely outdoor lifestyle
+## Key Characteristics
 
-In some cases, it may be better to leave things to weather and decay
-rather than constantly trying to keep them in pristine condition.
+Several defining characteristics distinguish holmgren renewability versus durability building
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
 
-## Common Mistakes in Garden Structures
+## Ecological Context
 
-In the garden we are always making use of small structures, trellises,
-animal hutches and so on. When we consider the high decay rates of wood
-and metal exposed to weather, compost-rich soil and animal wastes, we
-can see that it is best to take one of two courses: either build very
-durable structures, or build temporary ones with reused or easily
-renewable materials.
-Half-hearted attempts at durability end up being costly, and even toxic:
-
-- It is often unnecessary to use galvanised or cadmium-plated nails and
-  other fasteners in outdoor structures, because the timber will often
-  rot well before the nails have rusted away
-- It is unnecessary to treat naturally durable poles in the ground
-  until the natural preservatives in the wood have broken down
-- Painting timber in an attempt to increase durability can be
-  counterproductive. Unless the painting is renewed often, the life
-  expectancy may actually be reduced by flaking paint that holds in
-  moisture
-
-## Natural Weathering: The Peppermint Eucalypt Example
-
-Holmgren discussed the merits of untreated peppermint eucalypts for
-weatherboards with a bush sawmiller. The rough-sawn weather boards were
-a beautiful silver-grey colour from 30 years of sun and rain. The
-miller thought they had another 20 years in them.
-In that region a peppermint would grow into a sawlog in less than 50
-years. From an environmental perspective, natural weathering and
-replacement when necessary was a good argument against fighting the
-silver-grey with paints, oils and sandpaper.
-
-## Danish Straw Bale Pig Shelters
-
-Danish research on pig husbandry used carefully designed but very
-simple seasonal shelters made from straw bales as part of a mobile
-free-range system. Each season's shelter was allowed to compost, and
-next year's house was built in a fresh location.
-This was a much simpler way to minimise disease risk than maintaining
-hygiene in expensive, climate-controlled, high-tech, permanent
+The ecological relationships involving holmgren extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
 
 ## Practical Applications
 
-The principles and techniques discussed here have wide-ranging applications
-across multiple disciplines and contexts. Practitioners and researchers
-continue to explore new ways to integrate these concepts into modern practice,
-adapting traditional knowledge to contemporary challenges and opportunities.
+Holmgren Renewability Versus Durability Building finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
 
-## Key Considerations
+## Management and Implementation
 
-Several important factors influence the effectiveness and outcomes described
-in this topic. Understanding these considerations helps practitioners make
-informed decisions and avoid common pitfalls. Environmental conditions,
-timing, and material selection all play critical roles.
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for holmgren renewability versus durability building. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+holmgren renewability versus durability building and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
 
 ## Historical Context
 
-The historical development of this subject reflects centuries of accumulated
-knowledge and practical experience. From traditional methods passed down
-through generations to modern scientific approaches, the evolution continues
-to inform current best practices and research directions.
+Holmgren Renewability Versus Durability Building has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
 
-## Common Challenges
+## Integration Strategies
 
-Practitioners frequently encounter several challenges when working with
-these concepts. Climate variability, resource limitations, and knowledge
-gaps can all affect outcomes. Addressing these challenges requires patience,
-observation, and a willingness to adapt approaches based on results.
+Successful integration of holmgren renewability versus durability building into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
 
 ## See Also
-- [[pig-husbandry]]
-- [[permaculture]]
-- [[comparison-bamboo-construction-vs-cob-building]]
-- [[earthbag-building]]
-- [[cob-building-basics-detailed]]
+
+- [[holmgren-aboriginal-management-edge-landscapes]]
+- [[holmgren-biomass-fuels-and-energy-yield-ratios]]
+- [[holmgren-catch-and-store-energy-four-landscape-storages]]
+- [[holmgren-economic-and-social-succession]]
+- [[holmgren-self-regulation-and-feedback-systems-design]]

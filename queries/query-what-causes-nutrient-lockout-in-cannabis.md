@@ -16,26 +16,14 @@ Nutrient lockout occurs when cannabis plants cannot absorb available nutrients f
 
 ## Understanding Nutrient Lockout
 
-The [[cannabis-nutrient-deficiency-guide]] provides a visual reference for distinguishing conditions.
-
-Lockout-induced symptoms look identical to true deficiencies:
-- Iron lockout looks exactly like iron deficiency
-- Calcium lockout looks exactly like [[knf-calcium-deficiency-symptoms]]
-- Magnesium lockout looks exactly like [[query-how-to-fix-magnesium-deficiency-in-cannabis]]
-
-Critical diagnostic rule: **always check pH before adding nutrients.**
-
-Adding more of a nutrient that is locked out will:
-- Further raise or lower the pH (making lockout worse)
-- Increase [[cervantes-salt-buildup-leaching-management]] in the root zone
+The [[knf-calcium-deficiency-symptoms]]
+- Magnesium lockout looks exactly like [[cervantes-salt-buildup-leaching-management]] in the root zone
 - Potentially cause toxicity of other nutrients
 - Waste money on unnecessary supplements
 
 ## Salt Buildup and EC Problems
 
-Excessive nutrient [[jadam-salt-accumulation-in-soil]] contributes to lockout conditions.
-
-The [[cannabis-ph-management-and-soil-flushing]] resource covers practical correction steps.
+Excessive nutrient [[cannabis-ph-management-and-soil-flushing]] resource covers practical correction steps.
 
 For soil grows:
 - Test runoff pH to confirm lockout
@@ -54,7 +42,7 @@ For hydroponic systems:
 - Lockout is most commonly caused by root zone pH outside the optimal range
 - In soil maintain pH 6.0-7.0; in hydroponics maintain pH 5.5-6.5
 - Lockout symptoms mimic true deficiencies: always check pH before adding nutrients
-- Excessive salt buildup and temperature stress contribute to [[cannabis-ph-management-and-soil-flushing]] and proper [[cannabis-nutrient-management]] are primary corrective tools
+- Excessive salt buildup and temperature stress contribute to [[cannabis-nutrient-management]] are primary corrective tools
 ## Practical Considerations
 
 When working with What Causes Nutrient Lockout in Cannabis?, several practical factors should be

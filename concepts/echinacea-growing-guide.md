@@ -12,10 +12,10 @@ sources: []
 ## Overview
 
 Echinacea, commonly known as purple coneflower, is one of the most
-commercially important medicinal herbs in [[guzman-psilocybin-mushrooms-north-america]]. Native to the
-prairies and open woodlands of central and [[polypore-fungi-eastern-north-america]], echinacea
+commercially important medicinal herbs in North America. Native to the
+prairies and open woodlands of central and eastern North America, echinacea
 has been used by Indigenous peoples for centuries and is now one of the most
-widely used immune-supporting herbs in Western [[childrens-herbal-medicine]]. Three species
+widely used immune-supporting herbs in Western herbal medicine. Three species
 are primarily used medicinally: E. purpurea, E. angustifolia, and E. pallida.
 
 ## Species Comparison
@@ -42,11 +42,11 @@ flavonoids.
 
 Primary applications:
 - Immune support at onset of colds, flu, and upper respiratory infections
-- Shortens duration and severity of [[blesching-cannabis-viral-infections]] when taken early
+- Shortens duration and severity of viral infections when taken early
 - Topical use for wounds, skin infections, and insect bites
 - Anti-inflammatory action for sore throats and swollen lymph nodes
 
-[[kava-traditional-preparation-ceremonial-context]] methods:
+Traditional preparation methods:
 - Tincture: Fresh root tincture (1:2 in 60-95% alcohol) is considered the
   gold standard. Dosage: 30-60 drops, 3-5 times daily at first sign of illness.
 - Decoction: Dried root simmered for 20-30 minutes
@@ -114,7 +114,7 @@ Echinacea is relatively trouble-free but watch for:
 - Aster yellows: A phytoplasma disease causing green, distorted flowers.
   Remove and destroy infected plants immediately.
 - Japanese beetles: May defoliate plants; handpick or use neem.
-- [[cervantes-powdery-mildew-prevention-treatment]]: Improve air circulation and avoid overhead watering.
+- Powdery mildew: Improve air circulation and avoid overhead watering.
 - Root rots: Prevent by ensuring excellent drainage.
 
 ## Harvesting
@@ -141,10 +141,10 @@ Roots:
 - Roots are fully dry when they snap rather than bend
 - Store in airtight glass jars in a cool, dark place
 
-Aerial parts:
-- Bundle stems and hang upside down to dry, or spread on screens
-- Dry away from direct sunlight to preserve compounds
-- Store dried herb in airtight containers
-- Properly stored echinacea retains potency for 1-2 years
+## See Also
 
-## Yields
+- [[comparison-echinacea-vs-yarrow]]
+- [[echinacea-tennesseensis]]
+- [[echinacea-cultivation-and-medicinal-uses]]
+- [[comparison-echinacea-vs-lemon-balm]]
+- [[comparison-valerian-vs-echinacea]]

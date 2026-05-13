@@ -8,7 +8,7 @@ type: concept
 
 ## Overview
 
-The movement of fluids and gases over landscapes and objects creates characteristic patterns that are fundamental to understanding how natural systems function and how to design effective [[permaculture]] systems. From the [[overbeck-jet]] to Kármán vortex streets, these flow phenomena reveal universal principles about energy dissipation, resource distribution, and the creation of productive edge conditions in designed landscapes.
+The movement of fluids and gases over landscapes and objects creates characteristic patterns that are fundamental to understanding how natural systems function and how to design effective [[overbeck-jet]] to Kármán vortex streets, these flow phenomena reveal universal principles about energy dissipation, resource distribution, and the creation of productive edge conditions in designed landscapes.
 
 ## The Overbeck Jet
 
@@ -34,43 +34,7 @@ When a fixed object (a "bluff body") is located in a flow — whether a post in 
 
 ### The Kármán Vortex Street
 
-This alternating pattern of vortices is known as a Kármán vortex street. The sets of vortices shed from bluff bodies form the basis of the work at the [[virbela-institute]] on **flowforms** — sculpted vessels designed to replicate natural flow patterns for water treatment and aeration.
-
-### Functional Significance
-
-Vortex shedding has several important consequences:
-- **Energy dissipation**: Vortices convert directed kinetic energy into rotational energy, gradually dissipating it
-- **Mixing**: Counter-rotating vortices create thorough mixing of fluids
-- **Erosion and deposition**: The alternating flow patterns create zones of erosion on one side and deposition on the other of objects
-- **Aeration**: Vortex patterns in water dramatically increase gas exchange at the air/water interface
-
-## Jet Streams and Air Mass Interactions
-
-Jet streams at altitude generate vortices by pushing into different air masses, similar to how muddy water entering the sea creates flow patterns. These high-altitude flow phenomena have profound effects on weather systems and demonstrate that flow principles operate at every scale from the molecular to the planetary.
-
-## Flow Over Landscapes
-
-### Wind Flow
-
-Wind flowing over landscapes encounters resistance from topographic features, vegetation, and structures. The resulting flow patterns include:
-- **Deflection**: Wind redirected around obstacles
-- **Acceleration**: Wind speed increasing through constrictions (Venturi effect)
-- **Turbulence**: Chaotic flow downstream of obstacles
-- **Shelter**: Reduced wind speed in the lee of obstacles
-
-### Water Flow
-
-Water flowing over land surfaces creates patterns determined by slope, surface roughness, and obstructions:
-- **Sheet flow**: Thin, even flow over smooth surfaces
-- **Rill formation**: Concentrated flow channels developing from sheet flow
-- **Pool and riffle sequences**: Alternating deep and shallow sections in streams
-- **Meander patterns**: Sinuous paths that develop in low-gradient channels
-
-## Design Applications
-
-### Using Vortices for Water Treatment
-
-The Virbela Institute's [[flowform]] work demonstrates how sculpted vessels can replicate natural vortex patterns to:
+This alternating pattern of vortices is known as a Kármán vortex street. The sets of vortices shed from bluff bodies form the basis of the work at the [[flowform]] work demonstrates how sculpted vessels can replicate natural vortex patterns to:
 - **Oxygenate water**: The folding and mixing action of vortices dramatically increases dissolved oxygen
 - **Pattern water**: Some biodynamic and water-quality practitioners believe vortex-treated water has enhanced biological properties
 - **Mix solutions**: Vortex flow provides thorough mixing without mechanical agitation
@@ -131,3 +95,11 @@ This universality means that understanding flow in one context provides insight 
 3. **Match form to function**: Streamlined shapes for efficient conveyance, blunt shapes for mixing and turbulence
 4. **Scale appropriately**: Flow patterns repeat at every scale, so principles learned from small models apply to large landscapes
 5. **Work with flow, not against it**: Designs that accommodate natural flow patterns require less energy to maintain than those that resist them
+
+## See Also
+
+- [[spirals-flow-and-vortices-in-nature]]
+- [[laminar-flow-hood-diy-construction]]
+- [[laminar-flow-hood-blower-and-filter-sizing]]
+- [[ebb-and-flow]]
+- [[comparison-nft-vs-ebb-and-flow]]

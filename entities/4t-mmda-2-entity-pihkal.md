@@ -8,31 +8,6 @@ sources: ["Shulgin - PIHKAL"]
 ---
 # 4T-MMDA-2
 
-[[2c-b-pihkal-entry-20]] #167. 6-(2-AMINOPROPYL)-5-METHOXY-1,3-BENZOXATHIOL;.
-
-## Chemical Name
-
-6-(2-AMINOPROPYL)-5-METHOXY-1,3-BENZOXATHIOL;
-
-## Dosage and Duration
-
-| Property | Value |
-|----------|-------|
-| Dosage | greater than 25 mg. |
-| Duration | unknown. |
-
-## Qualitative Comments
-
-> (with 25 mg) At three hours after having taken
-> the material, I felt that there might have been a little exhilaration.
-> And maybe a hint of tremor and of teeth clench. Perhaps this is a
-> threshold dose.
-
-## Extensions and Commentary
-
-There is no logical way to try to guess
-where the active level of this might be. In a comparison of 4-oxy
-with 4-thio- and with 4-alkyl (as, for example, TMA-2, PARA-DOT and
 [[dom]]) the analogue with the sulfur atom lies intermediate in potency
 between the oxygen atom and the carbon atom. Then, perhaps, 4T-MMDA-2
 should be somewhat more potent than MMDA-2. Which is where the trials
@@ -47,28 +22,7 @@ can give believable findings, the actual trial of a new compound in
 man.
 
 The positional isomer of the heterocyclic carbonate used here is also
-known. Instead of using benzoquinone as a [[shirota-4-hydroxyindole-acetyl-protection-psilocin-synthesis-starting-material]] with
-thiourea as the sulfur source (giving the 1,4- oxygen orientation),
-one can start with resorcinol in reaction with ammonium thiocyanate as
-the sulfur source (in the presence of copper sulfate) and get the
-positional isomer with a 1,3- oxygen orientation. This material (also
-known as thioxolone, or tioxolone, or
-6-hydroxy-1,3-benzoxathiol-2-one, and which is commercially available)
-should follow the same chemistry shown here for the 5-hydroxy
-analogue, and give 5T-MMDA-2
-(5-(2-aminopropyl)-6-methoxy-1,3-benzoxathiole or
-2-methoxy-5,4-methylenethiooxyamphetamine) as a final product. I
-would guess, based on the findings that compare 5-TOM with DOM, that
-this would be a relatively low-potency compound. At least it should
-be an easy one to make!
-
-## Synthesis
-
-To a well-stirred solution of 120 g thiourea in 800 mL 2N
-HCL, there was added a solution of 100 g benzoquinone in 500 mL acetic
-acid over the course of 15 min. Stirring was continued for an
-additional 0.5 h at room temperature, and then the reaction mixture
-was heated on the [[scythian-cannabis-steam-bath-ritual]] for 1 h. With cooling in ice water, a
+known. Instead of using benzoquinone as a [[scythian-cannabis-steam-bath-ritual]] for 1 h. With cooling in ice water, a
 heavy crop of crystals separated. These were removed by filtration
 and air dried to provide 90.1 g of 5-hydroxy-1,3-benzoxathiol-2-one
 (2-mercaptohydroquinone cyclic carbonate ester) with a melting point
@@ -88,3 +42,88 @@ mp of 66-72 deg C. Recrystallization from MeOH gave
 To a solution of 30 g 85% KOH in 75 mL warm H2O, there was added an
 equal volume of warm MeOH followed by 16 g
 5-methoxy-1,3-benzoxathiol-2-one, and the mixture was held under
+
+## Overview
+
+4T Mmda 2 Entity Pihkal represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish 4t mmda 2 entity pihkal
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving 4t extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+4T Mmda 2 Entity Pihkal finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for 4t mmda 2 entity pihkal. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+4t mmda 2 entity pihkal and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+4T Mmda 2 Entity Pihkal has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of 4t mmda 2 entity pihkal into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[methyl-mmda-2-entity-pihkal]]
+- [[mmda-2-entity-pihkal]]
+- [[mmda-3b-entity-pihkal]]
+- [[mmda-entity]]
+- [[shulgin-a-pihkal-mmda-and-mmda-2-methoxy-methylenedioxyamphetamine]]

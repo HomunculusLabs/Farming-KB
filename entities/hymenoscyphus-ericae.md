@@ -15,16 +15,8 @@ sources:
 mycorrhizal associations with plants in the family Ericaceae. It is one
 of the most ecologically important mycorrhizal fungi in boreal
 heathland and tundra ecosystems, playing a central role in organic
-[[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] and enabling host plants to survive in severely
-nutrient-limited acidic soils.
-
-## Taxonomy and Classification
-
-Hymenoscyphus ericae is an ascomycete in the order Helotiales. Unlike
 [[comparison-soil-food-web-vs-arbuscular-mycorrhizal-fungi]] fungi (Glomeromycota) or ectomycorrhizal
-basidiomycetes, [[dighton-ericoid-mycorrhizal-nutrient-acquisition]] fungi are primarily ascomycetes
-that form distinctive coiled hyphal structures within root cortical
-cells of their Ericaceae hosts, facilitating direct [[arbuscule-isolation-and-nutrient-exchange-mechanisms]].
+basidiomycetes, [[arbuscule-isolation-and-nutrient-exchange-mechanisms]].
 
 ## Ecosystem Distribution
 

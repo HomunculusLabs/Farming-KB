@@ -11,9 +11,7 @@ remains a living tradition in many parts of the world, from the legendary
 mushroom gatherers of Eastern Europe to the truffle hunters of Piedmont and the
 commercial matsutake pickers of the Pacific Northwest.
 
-The [[shroom-cultural-history-hippie-revolution-and-counterculture]] of mushroom gathering reveals a striking divide between
-mycophilic (mushroom-loving) and mycophobic (mushroom-fearing) societies, a
-dichotomy first articulated by the mycologist R. [[gordon-wasson-comparative-method-ethnomycology]]. Slavic
+The [[gordon-wasson-comparative-method-ethnomycology]]. Slavic
 cultures maintain some of the richest foraging traditions on Earth, with
 children learning to identify dozens of edible species from an early age and
 annual foraging seasons anticipated with the enthusiasm of holiday
@@ -51,17 +49,7 @@ because a mushroom's ecological role determines where, when, and why it
 fruits. The visible mushroom is only the reproductive structure -- the "fruit"
 -- of a much larger organism. Beneath the soil (or within decaying wood) lies
 the mycelium, a vast network of thread-like hyphae that can spread for meters
-or even hectares. This [[gadd-mycelial-network-dynamics]] is the true organism; the mushroom
-itself exists briefly to produce and disperse spores, much as an apple exists
-to disperse seeds.
-
-Fungi obtain nutrients through three primary ecological strategies.
-Mycorrhizal fungi form symbiotic associations with living tree roots,
-exchanging soil minerals and water for carbohydrates produced by photosynthesis.
-This group includes most of the most prized edible mushrooms -- chanterelles,
-porcini, matsutake, and truffles -- which is precisely why they cannot be
-cultivated and must be wild-harvested. Saprotrophic fungi decompose dead
-organic matter, breaking down cellulose and lignin in fallen trees, [[leaf-litter-microfungal-diversity-tropical-temperate]],
+or even hectares. This [[leaf-litter-microfungal-diversity-tropical-temperate]],
 and other debris. Oyster mushrooms, shaggy manes, and many Agaricus species
 are saprotrophs, which is why they can be found on logs, stumps, and compost.
 Parasitic fungi feed on living organisms, sometimes killing their hosts in the
@@ -113,11 +101,8 @@ dispersal), a sharp knife, a small brush for cleaning debris, paper bags for
 - morel hunting for comprehensive morel identification and ecology
 - porcini boletus edulis for porcini species and look-alikes
 - hen of the woods for maitake biology and foraging
-- oyster mushroom foraging for wild oyster [[psilocybin-mushroom-identification-guide]]
-- matsutake for matsutake ecology and commercial harvesting
-- [[bloomfield-truffle-hunting-and-culinary-fungi]] for truffle species and dog training methods
+- oyster mushroom foraging for wild oyster [[bloomfield-truffle-hunting-and-culinary-fungi]] for truffle species and dog training methods
 - agaricus species for Agaricus identification and field characters
-- [[mushroom-foraging-safety]] for detailed safety protocols
 - [[bloomfield-amatoxin-poisoning-mechanism]] for toxin mechanisms and emergency response
 
 ## References
@@ -131,7 +116,7 @@ Western Mushrooms*. Ten Speed Press, 1991.
 Lincoff, Gary H. *National Audubon Society Field Guide to North American
 Mushrooms*. Alfred A. Knopf, 1981.
 
-Stamets, Paul. *[[growing-gourmet-abalone-oyster-cystidiosus-cultivation]] and [[comparison-chaga-vs-turkey-tail-medicinal-mushrooms-comprehensive]]*. 3rd ed. Ten Speed
+Stamets, Paul. *[[comparison-chaga-vs-turkey-tail-medicinal-mushrooms-comprehensive]]*. 3rd ed. Ten Speed
 Press, 2000.
 
 Palmer, Julius A. *About Mushrooms: A Popular Guide to the Study of

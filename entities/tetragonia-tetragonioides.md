@@ -51,17 +51,7 @@ Tetragonia tetragonioides, commonly known as warrigal cabbage or New Zealand spi
 
 ## Relevance to Cultivation and Permaculture
 
-Warrigal cabbage is a remarkable perennial vegetable for permaculture systems in coastal and semi-arid zones. Its ability to thrive in saline soils and tolerate drought makes it a resilient food source where conventional vegetables struggle. As a creeping ground cover, it helps stabilise soil while producing an edible harvest. It is an excellent candidate for food forests in Mediterranean [[query-how-to-grow-rare-tropical-fruits-in-marginal-and-subtropical-climates]], particularly in coastal plantings. Its scurvy-prevention history with Captain Cook highlights its nutritional density.
-
-## Cultivation Notes
-
-- Prefers full sun to partial shade
-- Tolerates saline and sandy soils
-- Drought-tolerant once established
-- Can be propagated from seed or cuttings
-- Harvest leaves regularly to encourage new growth
-- Blanch leaves before eating to reduce oxalate content (as with spinach)
-- Suitable for [[container-growing-vegetables-herbs]] in non-coastal areas
+Warrigal cabbage is a remarkable perennial vegetable for permaculture systems in coastal and semi-arid zones. Its ability to thrive in saline soils and tolerate drought makes it a resilient food source where conventional vegetables struggle. As a creeping ground cover, it helps stabilise soil while producing an edible harvest. It is an excellent candidate for food forests in Mediterranean [[container-growing-vegetables-herbs]] in non-coastal areas
 - Generally pest-free and disease-resistant
 
 ## Related Species
@@ -89,17 +79,9 @@ levels, and climate conditions typical of its ecological niche.
 
 ## Ecological Role
 
-Tetragonia Tetragonioides plays important [[fungal-melanin-biosynthesis-ecological-functions]] including soil stabilization,
-habitat provision for wildlife, and contribution to local biodiversity.
-These [[biodiversity-of-fungi-ecosystem-services-agriculture]] make it valuable for [[tropical-rainforest-seedling-mycorrhiza-ecological-restoration]] and
-permaculture applications.
-
-## Cultivation and Uses
-
-Traditional and modern uses of Tetragonia Tetragonioides span food production, [[comparison-vetiver-grass-vs-bamboo-for-erosion-control]],
+Tetragonia Tetragonioides plays important [[biodiversity-of-fungi-ecosystem-services-agriculture]] make it valuable for [[comparison-vetiver-grass-vs-bamboo-for-erosion-control]],
 and ornamental horticulture. Cultivation requirements include appropriate
 soil conditions, water management, and climate considerations.
 ## See Also
-- [[coastal-permaculture-plants]]
 - [[coastal-edible-plants-permaculture]]
 - [[coastal-gardening]]

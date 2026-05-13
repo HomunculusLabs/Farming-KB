@@ -108,13 +108,8 @@ Climate change models project significant range contraction for low-elevation Ca
 
 ## See Also
 
-- [[gladiolus-communis]]
 - [[gladiolus-cardinalis]]
-- [[crocosmia-lucifer]]
 - [[freesia-refracta]]
-- [[dietes-grandiflora]]
 - [[sisyrinchium-angustifolium]]
-- [[crocus-sativus]]
 - [[iris-germanica]]
-- [[iris-pseudacorus]]
 - [[tigridia-pavonia]]

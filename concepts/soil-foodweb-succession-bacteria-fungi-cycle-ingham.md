@@ -12,7 +12,7 @@ type: concept
 
 # Soil Foodweb Succession: Bacteria Then Fungi Cycle
 
-In the [[elaine-ingham]] in her work on [[compost-tea-aact|compost tea]] is recommended for annual crops, vegetables, and early successional plant communities that evolved in bacterial soils.
+In the [[compost-tea-aact|compost tea]] is recommended for annual crops, vegetables, and early successional plant communities that evolved in bacterial soils.
 
 ## Stage Two: Fungal Emergence
 
@@ -23,13 +23,7 @@ Fungi possess several advantages over bacteria for degrading complex organic mat
 - **Hyphal penetration**: Fungal hyphae can physically penetrate solid substrates that bacteria cannot access from the outside
 - **Enzyme diversity**: Fungi produce a wider range of extracellular enzymes, including cellulases, ligninases, and phenol oxidases
 - **Nitrogen scavenging**: Fungi can grow in low-nitrogen environments by efficiently scavenging and recycling nitrogen
-- **Translocation ability**: Fungi can transport nutrients from one location to another through their [[fungal-mycelial-networks-nutrient-translocation]], enabling them to colonize nutrient-poor substrates using resources gathered from elsewhere
-
-As fungal biomass increases, the soil environment shifts:
-
-- **Lower pH**: Fungal metabolic byproducts (organic acids) tend to lower pH
-- **Higher humic content**: Fungal decomposition produces more stable humic compounds
-- **Improved soil structure**: Fungal hyphae and their exopolymer secretions (including [[compost-tea-aact|compost tea]] is recommended for perennials, trees, shrubs, and late successional plant communities.
+- **Translocation ability**: Fungi can transport nutrients from one location to another through their [[compost-tea-aact|compost tea]] is recommended for perennials, trees, shrubs, and late successional plant communities.
 
 ## Stage Three: Protozoan and Nematode Grazing
 
@@ -37,56 +31,101 @@ As bacterial and fungal populations establish, their microbial predators follow.
 
 - **Nutrient mineralization**: When protozoa consume bacteria, they release excess nitrogen and other nutrients in plant-available forms. Bacteria have a low carbon-to-nitrogen ratio (around 5:1), while protozoa require a higher ratio (around 10:1). The difference is excreted as ammonium, which plants can absorb.
 
-- **Population control**: Grazing prevents bacterial and fungal populations from crashing after their initial food source is depleted. By keeping microbial populations in a growth phase, grazing maintains [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] activity.
-
-- **Foodweb stimulation**: The presence of protozoa and nematodes stimulates bacterial and fungal activity, creating a self-reinforcing cycle of nutrient mineralization.
-
-## Stage Four: Complex Foodweb Development
-
-In mature soils, the foodweb develops additional trophic levels including:
-
-- **Predatory nematodes** that feed on bacterial and fungal-feeding nematodes
-- **Microarthropods** (mites and springtails) that fragment organic matter and graze on fungi
-- **Earthworms** that physically process organic matter and create burrow networks
-- **Higher predators** including ground beetles, centipedes, and spiders
-
-Each additional trophic level adds complexity and stability to the nutrient cycling system. Complex foodwebs are more resistant to disturbance, more efficient at nutrient retention, and more effective at [[aact-disease-suppression-mechanisms-ingham]].
+- **Population control**: Grazing prevents bacterial and fungal populations from crashing after their initial food source is depleted. By keeping microbial populations in a growth phase, grazing maintains [[aact-disease-suppression-mechanisms-ingham]].
 
 ## Managing Succession with Compost Tea
 
-The practical application of understanding soil foodweb succession lies in managing the bacterial-to-fungal ratio of [[elaine-ingham]] recommends matching the tea biology to the plant community being supported:
-
-| Plant Community | Preferred Tea Type | Target [[ingham-bacterial-to-fungal-succession-soil-food-web]] Ratio |
+The practical application of understanding soil foodweb succession lies in managing the bacterial-to-fungal ratio of [[ingham-bacterial-to-fungal-succession-soil-food-web]] Ratio |
 |---|---|---|
 | Annual vegetables, brassicas | Bacterial tea | Bacteria dominant (10:1 or higher) |
 | Lawn grass, turf | Bacterial tea | Bacteria dominant |
 | Row crops, grains | Balanced tea | Slightly bacterial |
-| [[comparison-perennial-vegetables-vs-cover-crops]] | Balanced tea | Slightly fungal |
-| Pasture, range | Balanced to fungal | Approaching 1:1 |
-| Shrubs, berries | Fungal tea | Fungi dominant (1:10 or higher) |
-| Deciduous trees | Fungal tea | Strongly fungal |
-| Coniferous forests | Fungal tea | Strongly fungal dominant |
+| [[ingham-osmotic-shock-sugar-selection-bacteria-fungi]]
 
-## Factors Controlling Bacterial versus Fungal Dominance
-
-Several factors determine whether bacteria or fungi will dominate in a given soil or compost system:
-
-- **Carbon source**: Simple sugars and proteins favor bacteria; complex woody materials favor fungi
-- **Nitrogen availability**: High nitrogen favors bacterial growth; low nitrogen favors fungi
-- **pH**: Neutral to alkaline conditions favor bacteria; slightly acidic conditions favor fungi
-- **Disturbance**: Regular disturbance (tilling, cultivation) disrupts fungal hyphae and favors bacteria; undisturbed soils allow fungal networks to develop
-- **Soil compaction**: Compacted soils with poor aeration favor bacteria; well-aerated soils with good structure favor fungi
-- **Moisture**: Wet conditions favor bacteria; drier conditions with good moisture retention in soil aggregates favor fungi
-- **Temperature**: Warm conditions accelerate bacterial activity; moderate temperatures favor fungal growth
-
-## The C:N Ratio Connection
-
-The carbon-to-nitrogen ratio of organic inputs strongly influences the succession trajectory. Materials with low C:N ratios (below 20:1), such as legume residues and manures, favor rapid bacterial growth. Materials with high C:N ratios (above 30:1), such as wood chips, straw, and sawdust, favor fungal colonization.
-
-When making [[ingham-osmotic-shock-sugar-selection-bacteria-fungi]]
-
-- [[soil-food-web-nutrient-cycling]]
 - [[bacterial-vs-fungal-compost-teas]]
-- [[glomalin-and-soil-carbon]]
-- compost
 - [[ingham-nutrient-cycling-soil-food-web]]
+
+## Overview
+
+Soil Foodweb Succession Bacteria Fungi Cycle Ingham represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish soil foodweb succession bacteria fungi cycle ingham
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving soil extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Soil Foodweb Succession Bacteria Fungi Cycle Ingham finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for soil foodweb succession bacteria fungi cycle ingham. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+soil foodweb succession bacteria fungi cycle ingham and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Soil Foodweb Succession Bacteria Fungi Cycle Ingham has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of soil foodweb succession bacteria fungi cycle ingham into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[cannabis-endorhiza-shared-otu-soil-source-validation]]
+- [[casing-soil-mushroom-cultivation]]
+- [[gaias-garden-bringing-the-soil-to-life]]
+- [[soil-rehabilitation-methods]]
+- [[teaming-with-microbes-soil-minerals-cation-exchange]]

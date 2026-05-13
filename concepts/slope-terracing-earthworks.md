@@ -55,10 +55,7 @@ The **upper one-third of any hill** and all slopes exceeding **30°** should be 
 
 On slopes and between terrace sets, establish contour strips of deeply rooted grasses and tree legumes:
 
-- **[[vetiver-grass]]** — exceptionally deep-rooted, binds soil on steep banks
-- **Lemongrass** — dense clumping habit stabilizes bund edges
-- **Banna grass** — vigorous growth provides rapid ground cover
-- **Tree legumes** (e.g., [[leucaena]], tagasaste) — fix nitrogen and provide mulch material
+- **[[leucaena-entity]], tagasaste) — fix nitrogen and provide mulch material
 
 These strips act as living barriers that slow water flow, trap sediment, and reinforce terrace structure over time.
 
@@ -98,7 +95,7 @@ Bund faces provide excellent vertical growing space for climbing and trailing sp
 Dedicated mulch and fodder plantings are essential for terrace sustainability:
 
 - **Tree legumes** — nitrogen fixation and coppiced mulch
-- **Banna grass, lemongrass, Vetiver grass** — erosion control and biomass
+- **[[banna-grass]], lemongrass, [[vetiver-grass]]** — erosion control and biomass
 - **Comfrey** — deep nutrient mining and dynamic accumulator
 - **Bamboo** — structural material and erosion control
 - **Aleurites (candlenut), Cinnamomum** — multipurpose tree crops
@@ -141,6 +138,5 @@ Living mulches grown within the terrace cropping area improve soil health:
 Terracing systems across Asia and Oceania represent some of the longest continuously productive agricultural landscapes on Earth. The Ifugao rice terraces of the Philippines have been maintained for approximately 5,000 years, demonstrating that terraced earthworks — when properly designed, vegetated, and managed — are among the most sustainable and enduring forms of land use available to human societies.
 ## See also
 
-- [[terrace-design-and-construction]]
 - [[soil-erosion-control]]
 - [[slope-analysis-in-permaculture]]

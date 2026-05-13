@@ -6,17 +6,7 @@ type: concept
 
 # Cycles and Time Niches
 
-Cycles are any recurring events or phenomena. In [[permaculture]] theory, they carry a profound additional implication: a cycle is an interruption or eddy in the straight-line progression towards entropy. It is the special provenance of life to cycle materials. So efficiently does this happen that in a tropical forest almost all material nutrients are in cycle in life forms — and it is this very complex cycling in the tropics which opened up so many opportunities for yield that thousands of species have evolved to take advantage of them.
-
-## Niche in Time vs. Niche in Space
-
-If **niches** are opportunities in space, **cycles** are opportunities in time — a time-slot. Both together give harbour to many events and species. The geese that eat grass, digest it, moult, produce waste products, add parasites, digestive enzymes, acids and alkalis, and defecate — their rejecta is received by the ground, acted upon by sun and rain, worked on by fungi, bacteria, grass roots and foliage, and re-metabolized into life. If we reorganize and encourage such cycles, our opportunities to obtain yields multiply.
-
-Every peasant farmer who keeps pigeons (as they still do along the Mediterranean borders) knows this truth. Each such farmer has, in effect, built his own phosphate factory as a pigeon loft.
-
-## The Uniqueness of Every Cycle
-
-Each cyclic event is unique: diet, choice, selection, season, weather, digestion, [[decomposition]], and regeneration differ each time it happens. Thus it is the number of such cycles, great and small, that decide the potential for diversity. We should feel ourselves privileged to be part of such eternal renewal. Just by living we have achieved immortality — as grass, grasshoppers, gulls, geese, and other people. We are of the diversity we experience in every real sense.
+Cycles are any recurring events or phenomena. In [[decomposition]], and regeneration differ each time it happens. Thus it is the number of such cycles, great and small, that decide the potential for diversity. We should feel ourselves privileged to be part of such eternal renewal. Just by living we have achieved immortality — as grass, grasshoppers, gulls, geese, and other people. We are of the diversity we experience in every real sense.
 
 The fundamental principle is simple:
 
@@ -90,8 +80,6 @@ Cycling of nutrients is continuous in the tropics, but is interrupted wherever d
 - Understanding improves capacity for sustainable resource management
 
 ## Related Concepts
-- [[space-time-niches-and-schedules]]
 - [[niches-in-space-and-time-schedules]]
-- [[fukuoka-natural-farming-transcends-time-space]]
 - [[ingham-aact-holding-time-shelf-life-decay]]
 - [[time-yield-and-ecological-succession]]

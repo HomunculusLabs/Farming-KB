@@ -12,7 +12,7 @@ tags: [cannabis]
 
 # Training (Cannabis)
 
-[[query-sog-vs-scrog-cannabis-training-methods]] encompasses all techniques used to manipulate plant structure for improved yield, light distribution, height control, and airflow. Cervantes covers training extensively, noting that "pruning and bending a plant redirects growth hormones" and that "selective pruning and bending allow us to manipulate auxin hormone levels in branch and flower tips." Training is performed during the [[low-stress-training]] for full coverage. Cervantes describes bending as "much easier on plants than pruning" and notes that "it is easy to prune too much, but it is hard to over bend." Key techniques include:
+[[low-stress-training]] for full coverage. Cervantes describes bending as "much easier on plants than pruning" and notes that "it is easy to prune too much, but it is hard to over bend." Key techniques include:
 
 - Tying branches horizontally to create an even canopy
 - Bending the main stem to encourage lateral branching
@@ -21,19 +21,14 @@ tags: [cannabis]
 
 ### High-Stress Training (HST)
 
-HST involves deliberate tissue damage to reshape the plant. See [[topping-cannabis]])
-- FIM: partial tip removal for 3-6 new colas (see [[supercropping]])
+HST involves deliberate tissue damage to reshape the plant. See [[supercropping]])
 - Stem crushing: squeezing stems to bend them without full breakage
 
 ### Pruning
 
-Pruning is the removal of branches, leaves, or growing tips. See [[sea-of-green]]: many small plants flowered immediately for maximum space efficiency
-- [[main-lining]]: systematic topping and LST for perfectly symmetrical colas
-- [[low-stress-training]] -- gentle bending techniques
+Pruning is the removal of branches, leaves, or growing tips. See [[main-lining]]: systematic topping and LST for perfectly symmetrical colas
 - [[topping-cannabis]] -- removing the main growing tip
-- [[main-lining]] -- systematic symmetrical training
 - [[screen-of-green]] -- screen-based canopy management
-- [[defoliation-cannabis]] -- selective leaf removal
 - [[cannabis-vegetative-stage]] -- [[cho-plant-growth-stage-treatment-protocols]] for all training
 ## Practical Applications
 

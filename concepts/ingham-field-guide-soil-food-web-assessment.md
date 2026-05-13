@@ -32,9 +32,7 @@ The Field Guide evaluates three main approaches:
 - Uses activity stain to distinguish active (performing functions) from total organisms
 - Identifies morpho-species based on morphology
 - Measures active and total bacterial biomass, fungal biomass, protozoa numbers, nematode numbers by functional group
-- Determines [[arbuscular-mycorrhizal-colonization-patterns]] (VAM, ericoid, or ectomycorrhizal)
-- Identifies root disease fungi and percent of root system affected
-- Has published data correlating biomass levels to disease protection, [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]], and soil aggregation
+- Determines [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]], and soil aggregation
 
 **Plate Counts:**
 - Grow organisms on specific nutrient media at one temperature and moisture
@@ -54,9 +52,7 @@ The Field Guide evaluates three main approaches:
 
 **Bacteria:** Active and total biomass. Bacteria immobilize nutrients, form microaggregates (soil structure), and compete with disease organisms for food and space.
 
-**Fungi:** Active and total biomass, hyphal diameter. Fungi retain nutrients, form macroaggregates, and are the primary disease competitors on leaf surfaces and in soil. Fungal biomass above 2 micrograms per ml in tea shows good [[hamilton-pest-and-disease-control-organic]].
-
-**Protozoa:** Flagellates, amoebae, and ciliates. Protozoa consume bacteria and release plant-available nutrients ([[query-how-does-nitrogen-cycling-work-in-a-permaculture-system]]). It takes two weeks at 72 degrees F for protozoa to wake up and begin cycling nutrients after soil improvement. Worm compost is the best source.
+**Fungi:** Active and total biomass, hyphal diameter. Fungi retain nutrients, form macroaggregates, and are the primary disease competitors on leaf surfaces and in soil. Fungal biomass above 2 micrograms per ml in tea shows good [[query-how-does-nitrogen-cycling-work-in-a-permaculture-system]]). It takes two weeks at 72 degrees F for protozoa to wake up and begin cycling nutrients after soil improvement. Worm compost is the best source.
 
 **Nematodes:** Identified by functional group:
 - Bacterial-feeders: relatively easy to establish; cycle nutrients
@@ -64,14 +60,7 @@ The Field Guide evaluates three main approaches:
 - Predatory nematodes: interfere with root-feeders; hard to establish but critical
 - Root-feeders: indicate soil health problems; can be reduced from near 100 per gram to undetectable within 6 months with a complete foodweb
 
-Forest soil is the best inoculum source for [[ingham-beneficial-nematodes-soil-food-web]]. A DIC microscope is needed for species identification.
-
-**Mycorrhizal Fungi:** Assess colonization percentage of roots. VAM for annuals, deciduous trees, and grasses; ectomycorrhizal for conifers. Mycorrhizal inocula must be placed next to roots -- addition to tea works only if applied just before the plant goes near the spores (root dips, soil injections, aeration cores).
-
-## The Assessment Process (Field Guide Protocol)
-
-1. Take soil samples according to SFI protocol (call before taking samples)
-2. Send soil samples for microbiological analysis to SFI ($252 covers active and total [[query-what-is-the-difference-between-bacterial-and-fungal-dominant-soil]] biomass, protozoa, and nematodes)
+Forest soil is the best inoculum source for [[query-what-is-the-difference-between-bacterial-and-fungal-dominant-soil]] biomass, protozoa, and nematodes)
 3. Send separate samples for nutrient/chemistry analysis (International Ag Lab, $25 for Test S-3 without recommendation)
 4. Have chemistry results faxed to SFI or included with microbiology samples
 5. Include lists of current practices and future goals with samples
@@ -118,8 +107,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[soil-food-web-assessment]]
 - [[soil-foodweb]]
-- [[ingham-soil-food-web-assessment-methods]]
 - [[ingham-soil-food-web-diversity-assessment-dna-molecular-methods]]
 - [[dom]]

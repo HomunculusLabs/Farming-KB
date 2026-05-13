@@ -27,53 +27,7 @@ related_concepts:
 
 ## Overview
 
-Insectary plants are flowering species intentionally included in garden and farm designs to attract, feed, and shelter [[comparison-beneficial-insects-guide-vs-integrated-pest-management]]. These plants form the foundation of biological pest control and pollination services, two of the most critical ecosystem functions in any cultivated landscape. Rather than relying on chemical pesticides that kill predators alongside pests, insectary planting creates the conditions where natural biological balance keeps pest populations below economic damage thresholds.
-
-The concept is rooted in a simple ecological principle: over ninety percent of all insect species are either beneficial or harmless. A diverse and balanced insect community means reliable pollination, good fruit set, and natural pest regulation. Without insects, human agriculture would produce almost nothing except wind-pollinated crops like corn and wheat. The modern destruction of hedgerows, wild margins, and diverse vegetation has devastated beneficial insect populations, placing gardens and farms on an expensive and toxic pesticide treadmill. Insectary planting reverses this trajectory by restoring the food, shelter, and reproductive conditions that beneficial insects need to thrive.
-
-## The Ecological Basis of Biological Pest Control
-
-In natural ecosystems, pest insects rarely reach damaging levels because they are held in check by predators, parasites, and disease. This natural balance has been the default state for hundreds of millions of years. The key insight that distinguishes ecological pest management from conventional approaches is understanding why predators die first when insecticides are applied.
-
-Pest insects reproduce at staggering rates. Aphids, for example, give birth to already-pregnant young and can reach pestilential proportions within one to two weeks. The insects that prey on these pests, however, reproduce more slowly and exist in far smaller numbers because their food supply is less abundant and hunting requires more energy than grazing. Less energy is available for predator reproduction than for prey reproduction, so predators always occur at much lower population densities.
-
-There is also a critical time lag between pest breeding and predator breeding. When a pest outbreak occurs, the gardener or farmer often applies insecticide, killing most of both the pests and the predators. The fast-breeding pests recover within weeks, but the slow-breeding predators remain at critically low numbers. After several rounds of this cycle, the predators are effectively eliminated while the pests continue to rebound, placing the grower on a chemical treadmill of escalating toxicity and cost.
-
-The organic and permaculture approach, articulated by Lady Eve Balfour and adopted by practitioners like Eliot Coleman, creates "conditions in which natural biological balance will prevent the multiplication of any one species to pest proportions." Rather than responding to pests with treatments, this approach seeks to understand and correct the conditions that allowed pest pressure to develop in the first place.
-
-## Four Categories of Beneficial Insects
-
-Beneficial insects that insectary plants support fall into four functional categories, each with distinct habitat requirements and ecological roles.
-
-Predatory insects come from several insect orders including beetles, true bugs, flies, and wasps. They consume prey by chewing with powerful mandibles or by piercing and sucking body fluids. Many are generalists that attack whatever prey they encounter. Both adults and larvae of species like lady beetles are predators. Spiders, though arachnids rather than insects, are superb predators that dramatically reduce pest populations. Research has found thirty times more spiders in mulched gardens than in bare-soil gardens, with correspondingly less insect damage to plants.
-
-Parasitic insects, technically called parasitoids, are primarily small wasps and flies that lay their eggs inside other insects or insect eggs. Most are specialists, preying on only one or a few pest species. Most adult parasitoids are not carnivorous and feed mainly on pollen and nectar, making flowers and wild vegetation near or in the garden absolutely critical for their survival. Many parasitic wasps are barely visible to the naked eye and most are completely stingless.
-
-Pollinators fertilize flowers with pollen, enabling fruit and seed production. The European honeybee is the best-known pollinator, but colony collapse disorder and parasitic mites have killed up to eighty percent of managed colonies in some regions, making native bees and other pollinators more important than ever. Fortunately, native bees and wasps are abundant, efficient, and often more effective per-visit than honeybees for specific crops.
-
-Weed-feeding insects form a fourth category. Certain beetles and weevils feed exclusively on invasive plant species like purple loosestrife and leafy spurge, offering targeted biological control of unwanted vegetation. While not the primary focus of insectary planting, these specialist herbivores demonstrate the broader principle that every organism has natural enemies that can be recruited for ecological management.
-
-## Key Predatory Insects and Their Requirements
-
-Understanding the specific needs of major predatory insects allows gardeners to select the most effective insectary plants and habitat features.
-
-Lady beetles, both adults and larvae, are voracious predators of aphids, mealybugs, scale insects, and other soft-bodied pests. A single lady beetle larva consumes two hundred to five hundred aphids during its development, and an adult may eat five thousand aphids over its lifetime. Adults require pollen and nectar as supplemental food, especially when overwintering. Plants in the Apiaceae family, particularly dill, fennel, coriander, and Queen Anne's lace, are especially attractive to foraging adults.
-
-Lacewing larvae, called "aphid lions," are among the most effective generalist predators in the garden. They consume aphids, thrips, whiteflies, mealybugs, small caterpillars, and insect eggs. A single larva can eat one hundred to six hundred aphids during its two to three week development period. Adults feed on nectar, pollen, and honeydew rather than pests, making flowering insectary plants essential for adult lacewing nutrition. Flowering dill, angelica, coreopsis, cosmos, and sunflowers are strong attractants.
-
-Ground beetles are large, fast-running nocturnal predators of slugs, cutworms, root maggots, and other soil-dwelling pests. They require permanent ground cover, undisturbed soil, and overwintering habitat in log piles, stone walls, or dense perennial vegetation. White clover and perennial grasses in garden pathways support ground beetle populations by providing the continuous cover they need. Research from the United Kingdom shows that beetle banks, raised earth mounds planted with perennial grasses, can increase ground beetle populations by fifty to one hundred percent within two years.
-
-Hoverflies are particularly valuable because their larvae are among the most effective aphid predators, with each larva consuming three hundred to four hundred aphids. Adult hoverflies are also important pollinators that feed on pollen and nectar. They are strongly attracted to composite flowers such as asters, yarrows, and calendula, as well as umbellifers. Open-structured flowers with easily accessible pollen, including marigolds, poppies, and nasturtiums, are especially effective for hoverfly attraction.
-
-Pirate bugs are small generalist predators of thrips, spider mites, and small caterpillars. They are attracted to small flowers like sweet alyssum, daisies, and marigolds. Their small size means they can exploit flower types that larger insects cannot access.
-
-## Parasitic Wasps and Their Host Relationships
-
-Parasitic wasps are among the most important yet least visible biological control agents in the garden. Their effectiveness depends directly on the availability of nectar from small, shallow flowers that their tiny mouthparts can access.
-
-Trichogramma wasps are egg parasitoids that attack the eggs of Lepidoptera, including cabbage loopers, codling moths, and borers. They are among the most widely released biological control agents worldwide, used on millions of acres of agricultural land. Females require nectar from small, shallow flowers to sustain egg production, making insectary planting essential for their persistence in the landscape.
-
-Aphidius wasps specialize in parasitizing aphids, turning them into mummified husks that are easy to spot on plant stems. A single female can parasitize one hundred to three hundred aphids during her lifetime. They are attracted by the same [[query-how-do-fungal-volatile-compounds-affect-plant-growth-and-other-microorganisms]] that aphids respond to, meaning that the presence of some aphids in the landscape can actually help recruit parasitoids to the area. This counterintuitive relationship is one reason why tolerating low pest levels is important for biological control.
+Insectary plants are flowering species intentionally included in garden and farm designs to attract, feed, and shelter [[query-how-do-fungal-volatile-compounds-affect-plant-growth-and-other-microorganisms]] that aphids respond to, meaning that the presence of some aphids in the landscape can actually help recruit parasitoids to the area. This counterintuitive relationship is one reason why tolerating low pest levels is important for biological control.
 
 Braconid and Ichneumonid wasps are larger parasitoids that attack caterpillars, beetle larvae, and other insect pests. They are often seen as dramatic biological control events, such as when braconid wasp cocoons appear on the backs of tomato hornworms. Adult females feed on nectar from umbelliferous flowers and composites.
 
@@ -113,17 +67,11 @@ Insect hotels and log piles, constructed from bundles of hollow stems, drilled w
 
 ## See Also
 
-[[insectary-plants-guide]]
 [[beneficial-insects-guide]]
-[[beneficial-insect-habitat]]
 [[pollinator-habitat]]
-[[integrated-pest-management-ipm]]
 [[companion-planting-and-polycultures]]
-[[permaculture-plant-guilds]]
 [[food-forest-design-and-plant-selection-guide]]
-[[beneficial-insects-and-biological-pest-control]]
 [[beekeeping-and-pollinator-conservation]]
-[[trap-cropping-and-push-pull-pest-management]]
 [[permaculture-design-principles]]
 
 ## References

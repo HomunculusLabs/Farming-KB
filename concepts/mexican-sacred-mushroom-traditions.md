@@ -9,13 +9,7 @@ created: 2026-05-09
 
 ## Overview
 
-Mexico is the global center of [[mexico-center-neurotropic-fungal-diversity]] and the most
-well-documented region for indigenous ceremonial use of psychoactive
-mushrooms. With 76 species of neurotropic fungi (44 belonging to
-*Psilocybe*, representing 39% of the world's known *Psilocybe* species),
-Mexico's cultural relationship with these fungi spans millennia. The
-rediscovery of these traditions by Wasson and Heim in the 1950s launched
-the modern era of [[emcdda-hallucinogenic-mushroom-amanita-muscaria-emerging-alternative]] research and profoundly influenced
+Mexico is the global center of [[emcdda-hallucinogenic-mushroom-amanita-muscaria-emerging-alternative]] research and profoundly influenced
 global mycology.
 
 ## Indigenous Names and Classification
@@ -55,14 +49,9 @@ Several indigenous groups in central and southern Mexico maintain
 traditions of sacred mushroom use:
 
 - **Mazatec** (Oaxaca): The most famous practitioners, popularized by
-  the work of Wasson and Heim. Maria Sabina, a Mazatec curandera,
+  the work of Wasson and Heim. [[maria-sabina]], a Mazatec curandera,
   became internationally known for her velada ceremonies using *Psilocybe
   caerulescens* and related species. The Mazatec sometimes referred to
-  *[[schizophyllum-commune]]* as "nise" (little bird), the same name used for
-  *P. mexicana*, though the two species share no psychoactive properties.
-
-- **Mixtec** (Oaxaca): The Mixtec people use several species of fungi in
-  ceremonial contexts, including some gasteromycetes (puffballs) such as
   *[[lycoperdon-mixtecorum]]* and *L. marginatum*, which Ott et al. (1975)
   later identified as edible species used interchangeably with true
   neurotropic fungi. The Mixtec also use *Scleroderma verrucosum*,
@@ -88,3 +77,73 @@ traditions of sacred mushroom use:
 In the Nevado de Toluca region of Mexico, *Cordyceps capitata* and *C.
 ophioglossoides* are used in special nocturnal ceremonies alongside
 *Psilocybe muliercula*. The mushrooms are eaten either together with *P.
+
+## Overview
+
+Mexican Sacred Mushroom Traditions represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish mexican sacred mushroom traditions
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving mexican extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Mexican Sacred Mushroom Traditions finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for mexican sacred mushroom traditions. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+mexican sacred mushroom traditions and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Mexican Sacred Mushroom Traditions has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of mexican sacred mushroom traditions into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.

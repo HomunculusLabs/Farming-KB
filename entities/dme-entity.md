@@ -9,25 +9,9 @@ sources:
 ---
 # DME (3,4-Dimethoxy-beta-hydroxyphenethylamine)
 
-DME is a phenethylamine compound and a beta-hydroxylated derivative of the phenethylamine skeleton. It is the beta-hydroxy analogue of [[mde-entity]]).
-
-Under the BOX series discussion, the more appropriate code name for this compound is BOHH.
-
-The R in BOHH stands for the free hydroxyl group, and the final HS stands for homopiperonylamine (mdpea without the hydroxyl).
-
-BOHH, or 3,4-methylenedioxy-beta-hydroxyphenethylamine, has been assayed in man at up to 100 milligrams without any effects.
-
-## Beta-Ethanolamine Toxicity
-
-The possible toxic roles of beta-ethanolamines as potential adrenolytic agents have been discussed.
-
-Adrenolytic (alpha-blocking) activity could produce dangerous drops in blood pressure.
-
-This potential toxicity is relevant to both DME and related beta-hydroxylated compounds like [[dmpea-entity]]
+DME is a phenethylamine compound and a beta-hydroxylated derivative of the phenethylamine skeleton. It is the beta-hydroxy analogue of [[dmpea-entity]]
 
 mdpea
-
-[[bohd-entity]]
 
 [[boh-entity]]
 
@@ -88,3 +72,79 @@ between multiple variables and the difficulty of predicting outcomes
 with certainty. Building in redundancy, monitoring key indicators, and
 maintaining flexibility in approach all help manage this inherent
 uncertainty and improve the resilience of implementations over time.
+
+## Overview
+
+Dme Entity represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish dme entity
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving dme extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Dme Entity finds practical application in multiple design contexts.
+[[permaculture-principles]] guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for dme entity. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+dme entity and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Dme Entity has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of dme entity into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.

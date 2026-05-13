@@ -14,14 +14,7 @@ sources:
 
 ## Overview
 
-Tangie is a sativa-dominant cannabis strain renowned for its vivid tangerine citrus aroma and uplifting cerebral effects. Created by crossing [[skunk-1]], Tangie is a modern revival of the popular Tangerine Dream phenotype that was highly sought-after in the 1990s Amsterdam coffeeshop scene. Originally bred by DNA Genetics, Tangie quickly became a staple in European [[mckenna-cannabis-culture-history]] before spreading to [[growing-gourmet-north-american-reishi-species]] markets. With a distinctive sweet-tangerine bouquet that is among the most recognizable in cannabis, Tangie has earned a devoted following among both recreational consumers and medical patients. The strain consistently rates 4.5 out of 5 stars across major platforms and has accumulated nearly 30,000 followers on Leafly alone.
-
-## Lineage and Breeding History
-
-- **Type:** Sativa (pure sativa classification)
-- **Lineage:** California Orange × Skunk #1
-  - **California Orange** (also known as Cali-O): A classic sativa-dominant strain known for its sweet orange flavor and balanced effects — provides Tangie's citrus foundation and uplifting character
-  - **Skunk #1:** The foundational hybrid that underpins much of modern [[oner-cannabis-breeding-fundamentals]] — contributes potency, yield, and the skunky undertone that balances the sweetness
+Tangie is a sativa-dominant cannabis strain renowned for its vivid tangerine citrus aroma and uplifting cerebral effects. Created by crossing [[mckenna-cannabis-culture-history]] before spreading to [[oner-cannabis-breeding-fundamentals]] — contributes potency, yield, and the skunky undertone that balances the sweetness
 - **Breeder:** DNA Genetics (Amsterdam-based seed company)
 - **Year introduced:** Approximately 2012–2013, gaining prominence after winning the High Times Cannabis Cup
 - **Genetic inspiration:** Tangie was developed as a remake of the legendary Tangerine Dream, a phenotype that circulated in Amsterdam coffeeshops during the 1990s and was prized for its exceptional citrus flavor profile
@@ -30,8 +23,6 @@ Tangie is a sativa-dominant cannabis strain renowned for its vivid tangerine cit
 
 Tangie's terpene profile is dominated by citrus-forward compounds that produce its signature tangerine aroma:
 
-- **[[pinene]]:** Provides subtle pine notes and may help counteract THC-induced memory impairment, contributing to the clear-headed, focused quality of the Tangie high.
-- **Caryophyllene:** Adds a peppery, spicy undertone and activates CB2 receptors for potential anti-inflammatory benefits.
 - **[[linalool]]:** Present in smaller quantities, adding floral sweetness and promoting relaxation that tempers the otherwise energetic sativa effects.
 - **Ocimene:** Trace amounts add sweet, woody notes and may contribute to the uplifting quality.
 
@@ -46,11 +37,7 @@ Tangie's terpene profile is dominated by citrus-forward compounds that produce i
 
 Tangie exhibits classic sativa growth patterns and is moderately challenging to cultivate:
 
-- **Plant structure:** Medium to tall height with vigorous [[cannabis-vegetative-growth-stage]]. Develops strong lateral branching with elongated, slightly airy buds typical of sativa varieties.
-- **Flowering time:** Approximately 9–10 weeks indoors (66 days average). Outdoor harvest in late October to early November in the Northern Hemisphere.
-- **Yield:** High. Indoor yields of 450–550 g/m² are typical. Outdoor plants can produce substantial harvests under favorable conditions.
-- **Preferred environment:** Performs best outdoors in warm, Mediterranean-like climates. Can be grown indoors but requires adequate vertical space due to sativa stretch.
-- **Growing difficulty:** Moderate. Responds well to topping and [[cannabis-training-techniques-comparison]] (LST, SCROG) to manage height and maximize light exposure. Medium to heavy feeder during vegetative and early flowering stages.
+- **Plant structure:** Medium to tall height with vigorous [[cannabis-training-techniques-comparison]] (LST, SCROG) to manage height and maximize light exposure. Medium to heavy feeder during vegetative and early flowering stages.
 - **Resin production:** Produces sticky, resin-coated buds with high trichome density, making it suitable for concentrate extraction.
 
 ## Effects Profile
@@ -85,11 +72,78 @@ Tangie's uplifting, clear-headed effects make it particularly well-suited for da
 - **2013 High Times Cannabis Cup** — 1st Place, Sativa category (Amsterdam)
 - Tangie's victory at the 2013 Cannabis Cup cemented its reputation and accelerated its spread from Amsterdam coffeeshops to global markets
 - Consistently featured in "Best Citrus Strains" and "Best Sativa Strains" lists across cannabis media
-- Has served as a parent strain for multiple award-winning hybrids including [[og-kush-cannabis-entity]] — Foundational West Coast indica-dominant hybrid for comparison
-- [[jack-herer]] — Classic sativa-dominant hybrid with comparable creative, cerebral effects
-- [[amnesia-haze]] — Sativa-dominant strain with similar potency and cerebral stimulation
-- [[cannabis-indoor-growing-basics]] — Pure [[african-landrace-sativa-modern-hybrids]] with energetic daytime effects
-- [[limonene]] — Citrus terpene key to Tangie's signature aroma
+- Has served as a parent strain for multiple award-winning hybrids including [[jack-herer]] — Classic sativa-dominant hybrid with comparable creative, cerebral effects
+- [[cannabis-indoor-growing-basics]] — Pure [[limonene]] — Citrus terpene key to Tangie's signature aroma
 - [[pinene]] — Pine terpene supporting Tangie's clear-headed focus
 - california-orange — Parent strain contributing citrus genetics
 - skunk — Parent strain contributing foundational hybrid vigor
+
+## Overview
+
+Tangie Cannabis represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish tangie cannabis
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving tangie extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Tangie Cannabis finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for tangie cannabis. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+tangie cannabis and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Tangie Cannabis has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of tangie cannabis into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.

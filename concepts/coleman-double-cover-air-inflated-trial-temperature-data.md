@@ -1,7 +1,6 @@
 ---
 title: Coleman Double Cover Air Inflated Trial Temperature Data
-author: [[eliot-coleman]]
-source: The [[coleman-claytonia-winter-harvest-cultivation]] Handbook
+author: coleman-claytonia-winter-harvest-cultivation Handbook
 tags: [coleman, winter-harvest, greenhouse, double-cover, air-inflated, temperature-data, cold-house, zone-shifting]
 created: 2026-05-08
 ---
@@ -10,11 +9,7 @@ created: 2026-05-08
 
 ## Overview
 
-Eliot Coleman conducted a controlled experiment comparing single-layer and double-layer air-inflated plastic coverings on unheated greenhouses (cold houses) at [[coleman-four-season-farm]] in Harborside, Maine (USDA Zone 5). The trial provided quantitative evidence for the temperature benefits of double covering and led to a specific operational protocol: double-covering houses used for new crop sowings from December 15 to February 15, while single covering suffices for storage crops like leeks.
-
-## Experimental Setup
-
-The trial used a small air-inflated house measuring 17 feet by 36 feet, with no supplemental heat. Temperature records were kept comparing this house to an identical cold house covered with a single layer of plastic. Both houses contained inner [[coleman-double-layer-protection-greenhouse-row-cover]] layers over the crops.
+Eliot Coleman conducted a controlled experiment comparing single-layer and double-layer air-inflated plastic coverings on unheated greenhouses (cold houses) at [[coleman-double-layer-protection-greenhouse-row-cover]] layers over the crops.
 
 ## Key Temperature Findings
 
@@ -22,39 +17,7 @@ The data showed that nighttime low temperatures averaged **4°F (2.2°C) warmer*
 
 ### Specific Cold Night Comparison
 
-On a night when the [[oyster-mushroom-outdoor-low-tech-cultivation]] was **-8°F (-22°C)**:
-
-| Location | Temperature |
-|----------|------------|
-| Outdoors | -8°F (-22°C) |
-| Inside single-layer house | 2°F (-17°C) |
-| Under inner layer (single-layer house) | 20°F (-7°C) |
-| Inside air-inflated house | 7°F (-14°C) |
-| Under inner layer (air-inflated house) | 24°F (-4°C) |
-
-The double-cover system provided a 5°F advantage inside the house and a 4°F advantage under the inner row cover — significant differences at these temperature extremes.
-
-## Crop Growth Observations
-
-The trial revealed differences in crop behavior between the two systems:
-
-- **No apparent difference** in quality of harvestable-size crops between the two houses
-- **Faster growth of new seedlings** in the air-inflated house during winter
-- **More rapid morning warming** in the air-inflated house because frost on the inside of the plastic melted off more slowly in the single-layer house, blocking sunlight
-
-This last observation was particularly important: a layer of sunlight-blocking frost forms on the inside of single-layer plastic during cold nights, and this frost persists longer into the morning, reducing the total light available to the plants during the already short winter days.
-
-## The Light Transmission Tradeoff
-
-The primary disadvantage of double covering is reduced light:
-
-> "Using two layers of plastic and blowing air into the space between them to inflate the plastic provides more protection from cold, but it also cuts out an additional 10 percent of ambient light."
-
-Coleman acknowledged this tradeoff and developed a nuanced approach based on it. The 10% light reduction matters more in some contexts than others:
-
-- **For new seedlings (Dec 15 - Feb 15)**: The extra warmth is more important than the light loss, since seedlings need protection during their most vulnerable stage
-- **For established crops (leeks for midwinter harvest)**: Maximum light is preferred, so single covering is used
-- **For [[coleman-overwintered-onions-and-early-spring-crops]]**: Light becomes increasingly important as days lengthen and growth accelerates
+On a night when the [[coleman-overwintered-onions-and-early-spring-crops]]**: Light becomes increasingly important as days lengthen and growth accelerates
 
 ## The Operational Decision
 
@@ -118,8 +81,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[eliot-coleman]]
 - [[coleman-double-cover-inflated-plastic-trial]]
-- [[coleman-double-layer-climate-modification-temperature-data]]
 - [[coleman-double-layer-protection-temperature-performance]]
 - [[coleman-double-layer-protection-greenhouse-row-cover]]

@@ -2,59 +2,8 @@
 
 ## Overview
 
-**Salvia apiana** Jeps., commonly known as **white sage** or **bee sage**, is an evergreen perennial shrub in the family Lamiaceae native to the southwestern  and northwestern Mexico. It is one of the most culturally significant plants in [[growing-gourmet-north-american-reishi-species]] Indigenous traditions, widely used in smudging ceremonies for spiritual purification. The species is highly aromatic, drought-adapted, and supports a diverse range of native pollinators.
-
-## Taxonomy
-
-- **Kingdom:** Plantae
-- **Order:** Lamiales
-- **Family:** Lamiaceae
-- **Genus:** Salvia
-- **Species:** S. apiana
-
-**Authority:** Willis Linn Jepson (1908). The epithet *apiana* means "bee"
-in Latin, referring to exceptional pollinator attractiveness.
-
-**Synonyms:** Audibertia polystachya Benth., Salvia polystachya (Benth.) Greene.
-
-## Morphology
-
-**Habit:** Evergreen perennial shrub, 0.5–1.5 m tall, forming a rounded
-mound of foliage. Woody base with herbaceous upper branches.
-
-**Leaves:** Simple, opposite, 4–8 cm long, lanceolate to elliptic,
-thick and leathery. Upper surface grayish-green with fine pubescence;
-lower surface white-tomentose, giving the plant its characteristic
-silvery appearance. Leaf margins entire to slightly crenate. Strongly
-aromatic when crushed, with a camphoraceous, herbaceous scent.
-
-**Stems:** Square in cross-section (typical of Lamiaceae), white-woolly
-when young, becoming woody and gray-brown at the base with age.
-
-**Inflorescence:** Panicles 15–60 cm long, terminal, with whorls of
-flowers spaced along the axis. Bracts ovate, white-woolly, often
-conspicuous and showy.
-
-**Flowers:** Bilabiate, 12–22 mm long, white to pale lavender.
-Calyx white-tomentose, 8–10 mm. Corolla with an elongated lower lip
-functioning as a landing platform. Stamens exserted, with a
-characteristic lever mechanism typical of Salvia pollination.
-
-**Fruit:** Schizocarp of four nutlets, brown, 2–3 mm, ovoid,
-smooth or minutely roughened.
-
-## Distribution and Habitat
-
-**Geographic range:** Southern California (San Luis Obispo and Inyo counties
-southward through Coast Ranges, Transverse Ranges, Peninsular Ranges, and
-western Mojave Desert), southern Nevada, Arizona, and Baja California, Mexico.
-
-**Habitat:** Coastal sage scrub, chaparral margins, dry rocky hillsides,
-canyon walls, and oak woodland edges. Elevation 0–1,500 m. Tolerates
-serpentine soils. Extremely drought-adapted, surviving on as little [[plants-of-the-gods-salvia-divinorum-diviners-sage]]
-- [[golden-guide-amanita-muscaria-and-soma]]-salvia-divinorum-and-diviner-sage
-
-See also: [[arctostaphylos-patula]]
+**Salvia apiana** Jeps., commonly known as **white sage** or **bee sage**, is an evergreen perennial shrub in the family Lamiaceae native to the southwestern  and northwestern Mexico. It is one of the most culturally significant plants in [[plants-of-the-gods-salvia-divinorum-diviners-sage]]
+- [[arctostaphylos-patula]]
 ## Practical Considerations
 
 When working with Salvia Apiana, several practical factors should be
@@ -71,26 +20,90 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
-knowledge, time, and ongoing attention. Realistic assessment of what
-can be sustainably maintained helps prevent overextension and ensures
-that implementations remain viable and productive over the long term.
+[[salvia-divinorum-pharmacology]]
+- [[salvia-sclarea]]
 
-## Common Challenges and Solutions
+## Overview
 
-Several recurring challenges tend to arise in work related to this
-topic. These include variability in environmental conditions, the
-complexity of multi-variable interactions, and the difficulty of
-predicting outcomes with certainty in dynamic systems. Anticipating
-these challenges enables more proactive and effective management.
+Salvia Apiana represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
 
-Building resilience into implementations through diversity, redundancy,
-and adaptive capacity helps buffer against unpredictable events and
-conditions. This approach recognizes that some degree of uncertainty is
-inherent in working with natural systems and plans accordingly rather
+## Key Characteristics
+
+Several defining characteristics distinguish salvia apiana
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving salvia extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Salvia Apiana finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for salvia apiana. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+salvia apiana and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Salvia Apiana has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of salvia apiana into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
 
 ## See Also
 
-- [[salvia-divinorum-pharmacology]]
-- [[salvia-divinorum-salvinorin]]
-- [[salvia-sclarea]]
+- [[hofmann-salvia-divinorum-discovery]]
+- [[plants-of-the-gods-salvia-divinorum-diviners-sage]]
+- [[salvia-divinorum]]
+- [[salvia-divinorum-and-salvinorin-a]]
+- [[salvia-miltiorrhiza]]

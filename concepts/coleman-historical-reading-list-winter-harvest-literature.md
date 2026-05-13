@@ -11,16 +11,7 @@ created: 2026-05-09
 ## Overview
 
 Chapter 2 of *The Winter Harvest Handbook* surveys the historical roots of year-round
-[[coleman-french-historical-winter-vegetable-production]], tracing the tradition from 17th-century French royal gardens through
-19th-century Parisian market gardening (*la culture maraîchère*) to its transplantation in
-Britain and eventual decline. Coleman consulted primary French and English sources to
-reconstruct techniques that inform modern winter-harvest practice.
-
-## The Parisian Maraîcher Tradition (1850–1900)
-
-The golden age of Parisian market gardening saw growers produce fresh vegetables year-round
-within the city limits using intensive techniques, horse-manure-heated hotbeds, glass
-cloches, and straw mats. At its peak, [[dry-gardening-unirrigated-vegetable-production-solomon]] occupied approximately 600
+[[dry-gardening-unirrigated-vegetable-production-solomon]] occupied approximately 600
 hectares—six percent of Paris's land area. Growers averaged four to eight harvests per year
 from the same ground, and Paris was self-sufficient in fresh produce, even exporting to
 England.
@@ -43,24 +34,12 @@ Coleman cites four foundational French texts consulted for historical research:
 
 ### Courtois-Gérard — *Manuel pratique de culture maraîchère* (1844)
 - **Publisher**: Librairie Scientifique, Industrielle et Agricole, Paris
-- **Significance**: Provides the figure of 600 hectares under [[fukuoka-textdoc-semi-wild-vegetable-cultivation]]
-  within Paris in 1844—Coleman's basis for calculating the six-percent land-use figure
-- **Content**: Practical manual covering all aspects of intensive Parisian vegetable
-  production, including soil preparation, hotbed construction, and crop scheduling
-
-### Curé, J. — *Ma pratique de la culture maraîchère ordinaire et forcée* (1904)
-- **Publisher**: Librairie Agricole de la Maison Rustique, Paris
-- **Significance**: Defines [[intensive-vegetable-spacing-systems]] culture as "a successive process
+- **Significance**: Provides the figure of 600 hectares under [[intensive-vegetable-spacing-systems]] culture as "a successive process
   uninterrupted during the year, often with many different vegetables planted together
   on the same piece of ground"
 - **Key quote**: Distinguishes professional intensive culture (with irrigation and
-  compost) from ordinary [[fukuoka-natural-vegetable-growing]]
-
-### Gressent, Vincent Alfred — *Le potager moderne*, 12th edition (1926)
-- **Publisher**: Librairie Agricole de la Maison Rustique, Paris
-- **Significance**: Contains an early (1870) argument against [[cannabis-chemical-fertilizers]] and
-  for compost-based [[query-what-is-the-role-of-trichoderma-in-organic-growing]]—remarkably modern in sensibility
-- **Key quote**: "[[cervantes-chemical-fertilizers-guide]] don't do all that one wants; they stimulate the
+  compost) from ordinary [[cannabis-chemical-fertilizers]] and
+  for compost-based [[cervantes-chemical-fertilizers-guide]] don't do all that one wants; they stimulate the
   plant and produce quantity, but to the detriment of quality... Insect pests only attack
   weak, sickly plant specimens lacking proper nutrition"
 
@@ -118,8 +97,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[doc]]
 - [[det]]
-- [[parisian-market-gardening]]
 - [[trichoderma]]
 - [[coleman-winter-harvest-planting-schedule]]

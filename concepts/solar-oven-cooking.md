@@ -3,7 +3,7 @@ title: Solar Oven Cooking
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
-tags: [[homesteading]], energy, off-grid, equipment, food, sustainability]
+tags: [homesteading, energy, off-grid, equipment, food, sustainability]
 sources: []
 ---
 
@@ -35,7 +35,7 @@ A insulated box with a dark interior, a transparent lid, and reflective
 panels that fold out to direct light into the box.
 
 **Characteristics:**
-- [[query-what-is-the-ideal-temperature-range-for-growing-cannabis]]: 200-300F (93-149C)
+- Temperature range: 200-300F (93-149C)
 - Cooking style: slow, similar to a crock pot
 - Advantages: stable temperature, easy to use, good for baking
 - Disadvantages: heavier, slower to heat up
@@ -70,9 +70,9 @@ point where the cooking pot is positioned.
 ## Building a Box Solar Oven (DIY)
 
 ### Materials
-- [[cardboard-box-inoculation-hood-draft-prevention-mycology]] (inner) — medium size, roughly 18x18x12 inches
+- Cardboard box (inner) — medium size, roughly 18x18x12 inches
 - Cardboard box (outer) — 2-3 inches larger on all sides
-- Aluminum foil — [[oner-peptide-limestone-city-seeds-heavy-duty-fruity-sweet-tooth-durban-poison]], for reflective panels
+- Aluminum foil — heavy duty, for reflective panels
 - Black spray paint — high-heat rated, for interior
 - Glazing — tempered glass or oven-safe polycarbonate
 - Insulation — crumpled newspaper, foam board, or wool
@@ -95,7 +95,7 @@ hours. More durable versions using plywood or sheet metal cost $50-150.
 
 ## Cooking Times and Techniques
 
-Solar cooking is slower than [[microwave-sterilization-versus-conventional-methods-comparison]]. Plan for 1.5-2x the
+Solar cooking is slower than conventional methods. Plan for 1.5-2x the
 normal cooking time.
 
 ### General Guidelines
@@ -140,11 +140,10 @@ normal cooking time.
 - Place in solar oven for 45-60 minutes
 - Let stand 10 minutes before opening
 
-## Water Pasteurization
+## See Also
 
-Solar ovens can pasteurize water when fuel is unavailable. Water does not
-need to boil to be safe — pasteurization occurs at 150F (65C) held for
-6 minutes. A WAPI (Water Pasteurization Indicator) — a small tube of wax
-that melts at 150F — indicates when water is safe.
-
-## Limitations and Considerations
+- [[mollison-designers-passive-solar-heating-building-design]]
+- [[comparison-charcoal-production-for-cooking-vs-solar-cooking-methods]]
+- [[comparison-agrovoltaics-vs-traditional-solar-farms]]
+- [[holmgren-trees-solar-power-plants-detailed]]
+- [[mollison-designers-home-energy-conservation-and-solar-heating]]

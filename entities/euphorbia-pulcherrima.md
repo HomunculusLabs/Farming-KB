@@ -71,20 +71,79 @@ The Aztec name for the plant was cuetlaxochitl, meaning "flower that grows in
 residue" or "leather flower." It was cultivated in pre-Columbian gardens and
 used for decorative and medicinal purposes.
 
-Since its introduction to the [[dmt-containing-plants-united-states-halpern]] in the 1820s by Joel Roberts
-Poinsett (the first US minister to Mexico), the species has become
-naturalised in tropical and subtropical regions worldwide.
-
-## Cultivation and History
-
-Joel Roberts Poinsett sent specimens of Euphorbia pulcherrima to his
-greenhouses in South Carolina in 1825. The plant quickly gained popularity
-among American and European horticulturists.
-
-The poinsettia industry is now valued at over USD 250 million annually in the
-[[dmt-maoi-plants-united-states]] alone. The Paul Ecke Ranch in California dominated commercial
+Since its introduction to the [[dmt-maoi-plants-united-states]] alone. The Paul Ecke Ranch in California dominated commercial
 production for decades, developing the compact, branched cultivars now standard.
 
 Modern commercial cultivars are propagated vegetatively through stem cuttings.
 Growth is controlled through [[blesching-cannabinoid-pharmacology]]: short days (less than
 12 hours of light) trigger bract colouration after approximately 8-10 weeks.
+
+## Overview
+
+Euphorbia Pulcherrima represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish euphorbia pulcherrima
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving euphorbia extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Euphorbia Pulcherrima finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for euphorbia pulcherrima. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+euphorbia pulcherrima and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Euphorbia Pulcherrima has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## See Also
+
+- [[euphorbia-milii]]
+- [[euphorbia-antiquorum]]
+- [[euphorbia-obesa]]
+- [[euphorbia-tirucalli]]

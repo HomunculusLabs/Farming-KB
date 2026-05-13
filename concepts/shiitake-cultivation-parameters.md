@@ -9,7 +9,7 @@ created: 2026-05-11
 
 ## Overview
 
-Shiitake (*Lentinula edodes*) is the second most cultivated mushroom worldwide after the button mushroom, and one of the most thoroughly documented species in Paul Stamets' *Growing Gourmet and Medicinal Mushrooms*. Native to East Asia, where it has been cultivated for over a thousand years, shiitake is prized both for its rich umami flavor and its well-documented medicinal properties, including [[blesching-cannabis-immune-system-modulation]], cholesterol reduction, and anti-tumor activity. The species grows on hardwood substrates and requires specific [[fungal-fruiting-body-formation-environmental-triggers]] for fruiting that make its cultivation both rewarding and technically demanding.
+Shiitake (*Lentinula edodes*) is the second most cultivated mushroom worldwide after the button mushroom, and one of the most thoroughly documented species in Paul Stamets' *Growing Gourmet and Medicinal Mushrooms*. Native to East Asia, where it has been cultivated for over a thousand years, shiitake is prized both for its rich umami flavor and its well-documented medicinal properties, including [[fungal-fruiting-body-formation-environmental-triggers]] for fruiting that make its cultivation both rewarding and technically demanding.
 
 Shiitake cultivation can be pursued through two primary methods: traditional log cultivation and modern indoor sawdust bag cultivation. Each approach has distinct advantages, and many commercial operations employ both. Log-grown shiitake are generally considered superior in flavor and texture, commanding premium prices, while sawdust-grown shiitake offer faster yields and more consistent production cycles.
 
@@ -19,25 +19,7 @@ Shiitake is a white-rot fungus that decomposes the cellulose and lignin of hardw
 
 - **Oak** (*Quercus* spp.): Considered the premier substrate for log cultivation. White oak, red oak, and other hardwood oaks provide excellent nutrition and longevity. Oak logs typically produce for 4–6 years.
 
-- **Alder** (*Alnus* spp.): Widely used in the [[psilocybin-north-america-pacific-northwest]] where it is abundant. Alder produces good yields but logs decompose faster than oak, lasting 2–4 years.
-
-- **Ironwood/Hophornbeam**: Very dense wood that supports extended production periods but is difficult to inoculate due to its hardness.
-
-- **Maple**, **beech**, **birch**, **sweetgum**: All suitable hardwoods that produce acceptable yields, though typically less than oak.
-
-Softwoods (pine, fir, spruce, cedar) contain fungistatic compounds (terpenes and phenols) that inhibit shiitake mycelium and should be avoided. For sawdust bag cultivation, a mixture of hardwood sawdust (80–85%) supplemented with wheat bran or rice bran (15–20%) is standard. The supplementation rate significantly affects yield — Stamets notes that supplemented blocks can produce 2–3 times the yield of unsupplemented ones, though the additional nitrogen also increases contamination risk.
-
-## Spawn Run Parameters
-
-The spawn run (colonization phase) conditions for shiitake are:
-
-- **Temperature**: 72–78°F (22–26°C) for sawdust blocks; slightly cooler (60–75°F) for log inoculation where ambient conditions prevail.
-
-- **Humidity**: 60–70% relative humidity. Excessive humidity during spawn run encourages bacterial contamination; insufficient humidity causes substrate drying.
-
-- **CO2**: High CO2 levels (5,000–10,000 ppm) are beneficial during spawn run, promoting vigorous mycelial growth without triggering premature fruiting. Minimal fresh air exchange is needed.
-
-- **Light**: Dark or very low light during spawn run. Light during this phase can stimulate premature [[growing-gourmet-primordia-formation-pinning]], which diverts energy from full substrate colonization.
+- **Alder** (*Alnus* spp.): Widely used in the [[growing-gourmet-primordia-formation-pinning]], which diverts energy from full substrate colonization.
 
 - **Duration**: 30–60 days for sawdust blocks (depending on block size and spawn rate); 6–18 months for log inoculation before first fruiting.
 
@@ -126,7 +108,7 @@ triggers a synchronized fruiting response. This method produces large,
 predictable flushes ideal for commercial production.
 ## See Also
 
-- mushroom substrate preparation heat treatment
+- [[mushroom-substrate-preparation-heat-treatment]]
 - mushroom spawn production grain to bulk
-- mushroom casing soil primordia initiation
+- [[mushroom-casing-soil-primordia-initiation]]
 - oyster mushroom species pleurotus diversity

@@ -8,8 +8,7 @@ monophyletic group more closely related to animals than to plants, comprising
 several major phyla. However, the traditional four-phylum classification does
 not fully represent the phylogenetic complexity revealed by molecular
 analyses, and several groups once considered fungi have been reassigned to
-separate kingdoms entirely. Understanding [[biodiversity-of-fungi-fungal-phylogeny-kingdom-classification]] is essential for
-interpreting [[arbuscular-mycorrhizal-fungal-diversity-patterns-distribution]], ecology, and evolution.
+separate kingdoms entirely. Understanding [[arbuscular-mycorrhizal-fungal-diversity-patterns-distribution]], ecology, and evolution.
 
 ## The Tree of Life: Fungi and Their Allies
 
@@ -19,27 +18,10 @@ addition to ribosomal RNA genes) have resolved the broad-scale relationships
 of fungi and fungus-like organisms with greater confidence than earlier
 single-gene analyses. These studies, notably the landmark work of Baldauf and
 colleagues (2000), have established several key findings with important
-implications for understanding [[bloomfield-chytrid-fungi-early-fungal-evolution]]:
-
-Kingdom Fungi (the "true fungi") forms a monophyletic group exclusive of slime
-molds and oomycetes. The closest relatives of fungi are the Microsporidia
-(obligate intracellular parasites once classified as protists) and the Metazoa
-(animals), linked through a choanoflagellate-like common ancestor. This
-fungal-animal grouping is a well-supported clade within the crown eukaryotes,
-a finding that has fundamentally altered our understanding of eukaryotic
-evolution and the relationships among major kingdoms of life.
-
-Oomycetes (water molds, including the devastating plant pathogen *Phytophthora
-infestans* that caused the Irish potato famine) belong to Kingdom
-Straminipila, a heterokont group that also includes brown algae, diatoms, and
-chrysophytes. Despite their filamentous, fungus-like growth form, oomycetes
-are not closely related to true fungi — their morphological similarity is a
-result of convergent evolution driven by similar [[ecological-roles-fungi-ecosystems]] as
+implications for understanding [[ecological-roles-fungi-ecosystems]] as
 decomposers and pathogens. Oomycetes have cellulose-based cell walls (unlike
 the chitinous walls of true fungi) and diploid vegetative phases, reflecting
-their fundamentally different [[tryptamine]].
-
-[[bloomfield-slime-molds-myxomycetes-plasmodial-protists]] (myxomycetes, dictyostelids, and plasmodiophorans) belong to
+their fundamentally different [[bloomfield-slime-molds-myxomycetes-plasmodial-protists]] (myxomycetes, dictyostelids, and plasmodiophorans) belong to
 Kingdom Protista and are only distantly related to true fungi, though some
 groups (myxomycetes and dictyostelids) may form a monophyletic clade.
 Plasmodiophorans, which include important plant pathogens such as
@@ -63,24 +45,10 @@ closely related to non-flagellated fungal groups than to other chytrids. The
 group is divided into five orders based on zoospore ultrastructure:
 Blastocladiales, Monoblepharidales, Neocallimastigales, Spizellomycetales, and
 Chytridiales, with phylogenetic analyses supporting the monophyly of several
-but not all of these orders. The [[anaerobic-gut-fungi]] (Neocallimastigales) are
-particularly interesting as symbionts in the rumen of herbivorous mammals,
-where they contribute significantly to the digestion of plant cell wall
-material through the production of cellulases and other fibrolytic enzymes.
-
-Chytrids have gained widespread attention due to the discovery that
-*[[batrachochytrium-dendrobatidis]]* (Bd), a chytrid pathogen of amphibians, is a
+but not all of these orders. The [[batrachochytrium-dendrobatidis]]* (Bd), a chytrid pathogen of amphibians, is a
 major driver of global amphibian population declines and extinctions. This
 finding has stimulated renewed interest in chytrid biodiversity, ecology, and
-pathogenicity, as well as in the broader question of how [[bloomfield-fungal-pathogens-and-parasites]]
-emerge and spread in response to environmental change.
-
-## Phylum Zygomycota: The Pin Molds
-
-Zygomycota (approximately 1,000 described species) are defined by the
-production of zygospores — thick-walled sexual spores formed by the fusion of
-specialized hyphae (gametangia) from two compatible mating types. The group
-includes the familiar bread mold *[[rhizopus-stolonifer]]* and many species of
+pathogenicity, as well as in the broader question of how [[rhizopus-stolonifer]]* and many species of
 ecological and economic importance as food spoilers, industrial organisms, and
 opportunistic pathogens of humans (particularly in immunocompromised
 patients). Zygomycetes are typically fast-growing, predominantly terrestrial
@@ -118,8 +86,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[fungal-taxonomy]]
 - [[dom]]
-- [[soma]]
 - [[spore]]
 - [[tryptamine]]

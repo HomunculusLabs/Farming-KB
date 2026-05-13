@@ -23,17 +23,7 @@ type: query
 
 # FAQ — Best Nut Trees for a Permaculture Food Forest by Climate Zone
 
-Choosing the right nut trees for your climate zone is one of the most important decisions in food [[comparison-food-forest-design-vs-backyard-orchard-design]]. This guide matches nut tree species and recommended cultivars to USDA Hardiness Zones, covering cold tolerance, heat requirements, chill hours, and site-specific considerations.
-
-## Quick Reference: Nut Trees by Zone
-
-| Zone | Recommended Nut Trees |
-|------|----------------------|
-| **2–3** | Siberian pea shrub (edible seeds), Korean pine, American hazelnut, beaked hazelnut, butternut |
-| **3–4** | All Zone 2–3 plus: black walnut, shagbark hickory, bur oak, Chinese chestnut (selected), American chestnut hybrids |
-| **4–5** | All above plus: heartnut, butternut, shellbark hickory, most oak species, hybrid hazels |
-| **5–6** | All above plus: English walnut, European filbert (blight-resistant cultivars), northern pecans, Chinese chestnut, yellowhorn |
-| **6–7** | All above plus: pecan (northern cultivars), almond (with [[holzer-frost-protection-techniques]]), chestnut (European × Japanese hybrids) |
+Choosing the right nut trees for your climate zone is one of the most important decisions in food [[holzer-frost-protection-techniques]]), chestnut (European × Japanese hybrids) |
 | **7–8** | All above plus: pistachio (with caveats), southern pecans, macadamia (marginal), carob |
 | **8–9** | All above plus: almond (reliable), pistachio, macadamia (protected sites), pecan (all cultivars) |
 | **9–10** | Macadamia, pistachio, pecan, almond, chestnut (Chinese), avocado (subtropical zones) |
@@ -141,9 +131,6 @@ Choosing the right nut trees for your climate zone is one of the most important 
 
 ## See Also
 
-- [[query-how-to-design-a-food-forest-for-a-tropical-climate]]
 - [[mollison-designers-climate-zone-2-orchard-food-forest]]
-- [[comparison-nut-trees-vs-grain-farming-for-caloric-staple-production]]
 - [[latania-loddigesii]]
-- [[pseudophoenix-sargentii]]
 - [[podocarpus-totara]]

@@ -15,12 +15,7 @@ sources:
 
 Phellinus igniarius, the willow bracket or fire sponge, is a perennial
 polypore in the family Hymenochaetaceae and one of the most extensively
-studied [[cancer-medicinal-mushrooms-extraction-bioavailability]] in East Asian traditional medicine. Known as
-*Sanghuang* in Chinese medicine, it has been used for over 2,000 years as
-an anti-inflammatory, antitumor, and immunomodulatory agent. The fungus
-parasitizes broadleaf trees — particularly willow, poplar, birch, and oak
-— causing white-rot heartwood decay. Modern pharmacological research has
-identified bioactive polysaccharides, [[aact-tannins-terpenes-phenolic-compounds-wood-composting-ingham]] (hispidin, hispolon,
+studied [[aact-tannins-terpenes-phenolic-compounds-wood-composting-ingham]] (hispidin, hispolon,
 phelligridins), and triterpenoids that substantiate its traditional
 medicinal applications.
 
@@ -49,10 +44,7 @@ multiple Phellinus/Fuscoporia species on mulberry and other hardwoods.
 | **Upper surface** | Concentrically ridged/fissured, dark grey to black, very hard |
 | **Pore surface** | Brown to rust-brown, pores round 4–6/mm, stratified in layers |
 | **Context** | Very hard, woody, cinnamon-brown with darker zonate bands |
-| **[[comparison-spore-print-collection-vs-spore-syringe-production]]** | Rusty brown |
-| **Odor/taste** | Earthy odor; strongly bitter taste |
-
-[[bloomfield-asterophora-and-mycoparasites-of-fruiting-bodies]] are perennial and long-lived, developing successive pore
+| **[[bloomfield-asterophora-and-mycoparasites-of-fruiting-bodies]] are perennial and long-lived, developing successive pore
 layers visible in cross-section. The dark upper surface resembles burned
 wood ("fire sponge"). Mature specimens are extremely hard.
 
@@ -68,11 +60,7 @@ wood ("fire sponge"). Mature specimens are extremely hard.
 
 The dimitic hyphal system and hymenial setae are key characters. Skeletal
 hyphae provide the tough, woody texture; setae are shorter and more
-delicate than [[inonotus-hispidus-entity]].
-
-## Distribution and Habitat
-
-- **Geographic range:** Circumboreal — Europe, Asia, [[psilocybin-north-america-pacific-northwest]]. Abundant
+delicate than [[psilocybin-north-america-pacific-northwest]]. Abundant
   in Scandinavia, Russia, northern China, and Canada.
 - **Substrate:** Broadleaf hardwoods, especially Salix (willows), Populus
   (poplars), Betula (birches), Quercus (oaks).
@@ -80,19 +68,83 @@ delicate than [[inonotus-hispidus-entity]].
   waterways in managed landscapes and coppiced woodland.
 - **Season:** Perennial; visible year-round. New pore layers produced
   annually spring through autumn.
-- **Ecological role:** White-rot pathogen; contributes to [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]].
-
-## Chemistry and Active Compounds
-
-- **Polysaccharides:** Water-soluble β-(1→3)(1→6)-glucan with protein
-  component — the primary immunomodulatory constituent. Demonstrates potent
-  macrophage activation and antitumor activity.
-- **Hispidin and hispolon:** Phenolic compounds with antioxidant,
-
-## See Also
-
-- [[phellinus-ferreus]]
-- [[phellinus-gilvus]]
+- **Ecological role:** White-rot pathogen; contributes to [[phellinus-ferreus]]
 - [[phellinus-linteus-cancer-research]]
-- [[phellinus-linteus-meshima-cancer-research]]
 - [[phellinus-pomaceus]]
+
+## Overview
+
+Phellinus Igniarius Entity represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish phellinus igniarius entity
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving phellinus extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Phellinus Igniarius Entity finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for phellinus igniarius entity. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+phellinus igniarius entity and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Phellinus Igniarius Entity has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of phellinus igniarius entity into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.

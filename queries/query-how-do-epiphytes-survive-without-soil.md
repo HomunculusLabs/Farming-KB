@@ -59,76 +59,7 @@ Nutrients available to canopy epiphytes are typically **10–100× lower** than 
 
 ### Debris-Capture and Mineralization
 
-- Epiphytes with basket-like root systems (*Asplenium* "bird's nest" ferns, some *Platycerium* staghorn ferns) catch falling [[dighton-fungal-decomposition-leaf-litter-dynamics]] and organic debris from the canopy above.
-- This debris decomposes in the root mass, creating a localized "canopy compost" that releases nutrients.
-- Some ferns (*Platycerium*) have two distinct frond types: shield fronds that press flat against the tree trunk and catch debris, and fertile fronds that hang downward and bear spores.
-
-### Tank Bromeliad Nutrient Cycling
-
-The bromeliad tank is a **nutrient-capture engine**:
-- Organic debris (leaves, insect parts, animal droppings) falls into the tank and decomposes.
-- Bacteria and other microorganisms mineralize this debris, releasing ammonium, phosphate, and other nutrients.
-- The bromeliad absorbs these dissolved nutrients through trichomes on its leaf bases.
-- Some bromeliads form associations with **nitrogen-fixing bacteria** in their tanks, providing a steady nitrogen supply.
-- The aquatic organisms in the tank (mosquito larvae, other insects) excrete nitrogenous waste that the bromeliad absorbs.
-
-(Section truncated for length.)
-
-- Nutrient content of rainwater and fog in tropical canopies includes nitrogen (as NH₄⁺ and NO₃⁻), phosphorus, potassium, calcium, magnesium, and trace elements — derived from volcanic emissions, ocean spray, biomass burning, and long-range dust transport.
-- These atmospheric inputs are the primary nutrient source for atmospheric (rootless) Tillandsia species.
-
----
-
-## Metabolic Adaptations
-
-### CAM Photosynthesis (Crassulacean Acid Metabolism)
-
-CAM is the single most important metabolic adaptation for epiphytism and is found in an extraordinary proportion of epiphytes:
-- **~60–70% of epiphytes** in tropical montane forests use CAM photosynthesis (vs. ~3–4% of all plant species).
-- CAM plants open their stomata **at night** (when humidity is highest and temperatures are lowest), fixing CO₂ into malic acid stored in vacuoles.
-- During the day, stomata remain **closed** (preventing water loss), and the stored malic acid is decarboxylated to release CO₂ for photosynthesis.
-- This temporal separation of gas exchange reduces transpiration by **80–95%** compared to C₃ photosynthesis.
-- CAM is found in epiphytic cacti, many bromeliads, some orchids, Peperomia, and several other epiphyte lineages.
-- Some species are **facultative CAM** plants — they switch between C₃ and CAM depending on water availability, using C₃ when water is abundant (for faster growth) and CAM during drought.
-
-### Slow Metabolism and Long Lifespans
-
-- Many epiphytes grow extremely slowly. Some Tillandsia species grow only 1–2 cm/year.
-- Leaf lifespans of 3–15 years are common, reducing the nutrient cost of replacing foliage.
-- Some epiphytic orchids (*Vanilla*, *Catasetum*) have leafless periods during which they rely entirely on stored carbohydrate reserves in pseudobulbs or green roots.
-- Epiphytic roots of many orchids are **chlorophyllous** (green) and perform photosynthesis — essentially, the roots function as leaves.
-
----
-
-## Attachment and Structural Strategies
-
-### Root-Based Attachment
-
-- Most epiphytic orchids and aroids attach to host surfaces using a combination of:
-  - **Adhesive mucilage** secreted by root tips
-  - **Mechanical interlocking** of root tips and velamen fibers with bark crevices and lichen mats
-  - **Gravitropic growth** — roots grow along the bark surface following gravity, spreading the attachment area
-  - Some orchids (*Vanilla*) climb using adventitious roots that grip the bark at intervals
-
-### Root Mats and Nests
-
-- Some epiphytic ferns (*Asplenium nidus*, *Platycerium*) form massive root-mat or leaf-nest structures that can weigh 10–50 kg.
-- These structures serve dual purposes: nutrient capture (catching debris) and physical anchoring.
-- *Platycerium* (staghorn ferns) are among the largest epiphytes, with individuals reaching 1–2 meters across.
-
-### Minimalist Attachment
-
-- **Tillandsia usneoides** (Spanish moss) hangs in long, pendulous strands from tree branches, attached only by small holdfasts at its base.
-- Some orchids are twig epiphytes, wrapping their roots around thin branches and hanging freely.
-- Epiphytic cacti (*Rhipsalis*, *Lepismium*) have jointed, pendulous stems that drape from branches.
-
----
-
-## Which Plant Families Dominate Epiphytism?
-
-| Family | Approximate Epiphyte Species | Key Adaptations |
-|--------|------------------------------|-----------------|
-| Orchidaceae | ~28,000 (≈70% of family) | Velamen roots, [[mycorrhizae]], pseudobulbs, CAM, dust seeds |
+- Epiphytes with basket-like root systems (*Asplenium* "bird's nest" ferns, some *Platycerium* staghorn ferns) catch falling [[mycorrhizae]], pseudobulbs, CAM, dust seeds |
 | Bromeliaceae | ~3,100 (≈60% of family) | Absorptive trichomes, tanks, CAM, phytotelmata |
 | Araceae | ~1,500 | Aerial roots, aerenchyma, shingling growth |
 | Polypodiaceae | ~1,300 | Rhizome attachment, frond dimorphism, CAM in some |
@@ -140,6 +71,80 @@ CAM is the single most important metabolic adaptation for epiphytism and is foun
 ---
 ## See Also
 
-- [[query-how-do-i-use-cover-crops-to-improve-soil-health]]
 - [[query-how-to-make-living-soil-from-scratch]]
 - [[mycorrhiza]]
+
+## Overview
+
+Query How Do Epiphytes Survive Without Soil represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish query how do epiphytes survive without soil
+from related concepts in [[permaculture]] and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving query extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Query How Do Epiphytes Survive Without Soil finds practical application in multiple design contexts.
+[[permaculture-principles]] guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for query how do epiphytes survive without soil. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+query how do epiphytes survive without soil and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Query How Do Epiphytes Survive Without Soil has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of query how do epiphytes survive without soil into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and

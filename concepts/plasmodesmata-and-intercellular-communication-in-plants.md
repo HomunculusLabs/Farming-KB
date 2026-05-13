@@ -9,13 +9,7 @@ sources: []
 
 # Plasmodesmata and Intercellular Communication in Plants
 
-Plasmodesmata (singular: plasmodesma) are microscopic channels that connect plant cells to their neighbors, creating the symplastic pathway. They are one of the most remarkable features of plant cell biology -- tunnels through [[alpha-1-3-glucan-fungal-pathogen-cell-walls]] that allow direct cytoplasm-to-cytoplasm communication and transport between adjacent cells.
-
-## Structure
-
-### Basic Anatomy
-
-Each plasmodesma is a narrow channel (20-60 nanometers wide) piercing the [[chitin-chitosan-fungal-cell-wall]] between two plant cells. Inside the channel runs the **desmotubule** -- a narrow tube of endoplasmic reticulum membrane that connects the ER of both cells. The space between the desmotubule and the plasmodesma wall is the cytoplasmic sleeve, through which molecules can pass.
+Plasmodesmata (singular: plasmodesma) are microscopic channels that connect plant cells to their neighbors, creating the symplastic pathway. They are one of the most remarkable features of plant cell biology -- tunnels through [[chitin-chitosan-fungal-cell-wall]] between two plant cells. Inside the channel runs the **desmotubule** -- a narrow tube of endoplasmic reticulum membrane that connects the ER of both cells. The space between the desmotubule and the plasmodesma wall is the cytoplasmic sleeve, through which molecules can pass.
 
 ### Morphological Variations
 
@@ -53,9 +47,7 @@ The symplastic pathway is the continuous cytoplasmic space defined by the inner 
 ### The Desmotubule Connection
 
 The desmotubule connects the endoplasmic reticulum of adjacent cells. This suggests it may:
-- Provide [[comparison-silicon-vs-calcium-in-plant-defense-and-structural-support]] for the plasmodesma
-- Regulate the size of molecules allowed to pass
-- Allow ions another mode of transport between cells (alternative to [[plant-cell-membrane-transport-proteins-channels-carriers-and-pumps]])
+- Provide [[plant-cell-membrane-transport-proteins-channels-carriers-and-pumps]])
 - Permit the transport of large protein molecules between cells
 
 ### Regulation
@@ -88,3 +80,11 @@ Plasmodesmata serve a function analogous to gap junctions in animal tissues, but
 
 | Feature | Plasmodesmata | Gap Junctions |
 |---------|--------------|---------------|
+
+## See Also
+
+- [[plant-sensing-communication]]
+- [[fungal-volatile-organic-compounds-communication]]
+- [[marcel-vogel-plant-communication]]
+- [[exopheromones-and-cross-species-communication]]
+- [[metzner-plant-teachers-diagnosis-divination-intelligence-communication]]

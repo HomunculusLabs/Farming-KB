@@ -34,16 +34,7 @@ ACDC is a phenotype of **Cannatonic**, itself a cross between **MK Ultra** and *
 
 ### Genetic Background
 
-The Cannatonic lineage brings together the heavy indica genetics of MK Ultra (itself a cross of G13 and OG Kush) with the sativa-dominant G13 Haze. The ACDC phenotype represents a rare genetic expression where CBD synthase enzymes dominate over THC synthase during [[cannabis-trichome-development-cannabinoid-biosynthesis-sites]]. This expression is controlled by specific alleles at the cannabinoid synthase gene locus, making ACDC a valuable genetic resource for CBD breeding programs.
-
-## Key Characteristics
-
-### Appearance
-
-- **Buds**: Medium to large, dense but not excessively compact. Light to medium green with occasional yellowish tones.
-- **Trichomes**: Thick, frosty coating of crystalline trichomes visible even to the naked eye, reflecting high cannabinoid content.
-- **Pistils**: Abundant orange to amber hairs (stigmas) weaving through the bud structure.
-- **Structure**: Elongated, slightly tapered cola formation characteristic of its [[cannabis-landrace-sativa-heritage-varieties]].
+The Cannatonic lineage brings together the heavy indica genetics of MK Ultra (itself a cross of G13 and OG Kush) with the sativa-dominant G13 Haze. The ACDC phenotype represents a rare genetic expression where CBD synthase enzymes dominate over THC synthase during [[cannabis-landrace-sativa-heritage-varieties]].
 
 ### Aroma and Flavor Profile
 
@@ -61,15 +52,7 @@ The Cannatonic lineage brings together the heavy indica genetics of MK Ultra (it
 | **Humulene** | Low | Anti-inflammatory, appetite suppressant |
 | **Linalool** | Trace–Low | Calming, anxiolytic, sedative |
 
-The terpene profile of ACDC contributes to its reported [[beta-caryophyllene-entourage-effects-cannabis]]. Myrcene and linalool enhance the calming, relaxing properties, while α-pinene provides a subtle alertness that prevents the heavy sedation sometimes associated with indica-dominant strains.
-
-## Effects
-
-### Reported Effects (Medical/Therapeutic)
-
-- **Non-intoxicating**: Due to the extremely low THC content, ACDC does not produce the characteristic cannabis "high." Users report feeling clear-headed, functional, and normal.
-- **Anxiety and stress relief**: One of the most commonly reported benefits. The anxiolytic properties of CBD, combined with calming terpenes like myrcene and linalool, provide significant stress reduction.
-- **[[cannabis-pain-management-protocols]]**: Effective for [[cannabis-chronic-pain-management]], neuropathic pain, and inflammatory pain conditions including arthritis and fibromyalgia.
+The terpene profile of ACDC contributes to its reported [[cannabis-pain-management-protocols]]**: Effective for [[cannabis-chronic-pain-management]], neuropathic pain, and inflammatory pain conditions including arthritis and fibromyalgia.
 - **Anti-inflammatory**: Broad anti-inflammatory effects attributed to CBD and β-caryophyllene.
 - **Seizure management**: ACDC has been used by patients with treatment-resistant epilepsy, particularly Dravet syndrome and Lennox-Gastaut syndrome. It is often compared to pharmaceutical CBD formulations.
 - **Muscle spasms**: Relief from muscle spasms and spasticity associated with multiple sclerosis and other neurological conditions.
@@ -88,3 +71,80 @@ ACDC has become a staple recommendation in medical cannabis programs across the 
 - **Patients new to cannabis**: The non-intoxicating profile makes it an ideal introductory strain.
 - **Elderly patients**: Low psychoactivity and good tolerability.
 - **Working professionals**: Therapeutic benefits without impairment of cognitive function or workplace performance.
+
+## Overview
+
+Acdc represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish acdc
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving acdc extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Acdc finds practical application in multiple design contexts.
+[[permaculture-principles]] guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for acdc. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+acdc and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Acdc has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of acdc into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.

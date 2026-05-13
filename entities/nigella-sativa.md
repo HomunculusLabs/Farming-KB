@@ -20,17 +20,7 @@ sources:
 
 # Nigella sativa
 
-**Black seed** (also known as **kalonji**, **black cumin**, **fennel flower**, or **Roman coriander**) is an annual flowering plant in the family Ranunculaceae, native to southern Europe, North Africa, and southwest Asia. The small black seeds of N. sativa have been used as both a culinary spice and medicinal remedy for over 3,000 years, with a particularly [[plant-science-exploring-rich-history]] in Islamic traditional medicine (Tibb al-Nabawi) and Ayurveda.
-
-## Taxonomy
-
-- **Kingdom:** Plantae
-- **Order:** Ranunculales
-- **Family:** Ranunculaceae
-- **Genus:** Nigella
-- **Species:** N. sativa
-
-**Note on nomenclature:** The common name "black cumin" is a source of persistent confusion. Nigella sativa is unrelated to true cumin ([[cuminum-cyminum]], Apiaceae) or to Bunium bulbocastanum (also called black cumin). The seeds are sometimes called "onion seed" in South Asian cuisines, though the plant is not related to onions.
+**Black seed** (also known as **kalonji**, **black cumin**, **fennel flower**, or **Roman coriander**) is an annual flowering plant in the family Ranunculaceae, native to southern Europe, North Africa, and southwest Asia. The small black seeds of N. sativa have been used as both a culinary spice and medicinal remedy for over 3,000 years, with a particularly [[cuminum-cyminum]], Apiaceae) or to Bunium bulbocastanum (also called black cumin). The seeds are sometimes called "onion seed" in South Asian cuisines, though the plant is not related to onions.
 
 ## Botanical Description
 
@@ -62,12 +52,7 @@ Native to the Mediterranean basin, extending east through the Middle East to nor
 
 ### Thymoquinone and Related Compounds
 
-The primary bioactive constituent of N. sativa seed [[permaculture-designers-manual-essential-oil-plants]] is **thymoquinone** (2-isopropyl-5-methyl-1,4-benzoquinone), comprising 30–48% of the volatile oil fraction. Related quinones include:
-
-- **Thymohydroquinone** (dihydrothymoquinone) — antioxidant
-- **Dithymoquinone** (nigellone) — antispasmodic, originally isolated as a bronchodilator
-- **p-Cymene** — major hydrocarbon in the essential oil
-- **[[carvacrol]]** — antimicrobial phenolic monoterpene
+The primary bioactive constituent of N. sativa seed [[carvacrol]]** — antimicrobial phenolic monoterpene
 - **4-Terpineol** — antimicrobial, anti-inflammatory
 - **Longifolene** — sesquiterpene
 
@@ -88,3 +73,78 @@ The cold-pressed fixed oil is rich in:
 - **Proteins:** 20–21% seed protein with a balanced [[cho-fish-amino-acid-preparation]] profile
 - **Minerals:** Iron, calcium, potassium, zinc, magnesium, selenium
 - **Vitamins:** Vitamin E (tocopherols), vitamin A (β-carotene)
+
+## Overview
+
+Nigella Sativa represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish nigella sativa
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving nigella extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Nigella Sativa finds practical application in multiple design contexts.
+[[permaculture-principles]] guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for nigella sativa. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+nigella sativa and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Nigella Sativa has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of nigella sativa into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and

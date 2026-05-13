@@ -15,12 +15,8 @@ and aesthetic reasons. They are generally not difficult to grow and most
 are extremely decorative plants that help attract useful predators to
 the garden, as well as those insects — such as bees — which are needed
 for pollination in the fruit garden. They can be planted around shrubs
-as a [[fukuoka-citrus-orchard-ground-cover-cultivation]] to aid [[mollison-designers-composting-toilets-and-humanure]]. Since most herbs
-like a soil pH of between 7.0 and 7.5, [[staycare-spent-mushroom-compost-bioremediation]] compost is ideal.
-
-The one thing most herbs cannot stand is bad drainage. If your soil is
-wet and heavy and cannot be improved by deep digging or the inclusion
-of coarse sand and [[hamilton-composting-and-organic-matter-management]], it is best to build a raised bed.
+as a [[mollison-designers-composting-toilets-and-humanure]]. Since most herbs
+like a soil pH of between 7.0 and 7.5, [[hamilton-composting-and-organic-matter-management]], it is best to build a raised bed.
 
 ## Sowing and Planting Herbs
 
@@ -70,24 +66,14 @@ grow unchecked.
 ### Annual Herbs
 - **Borage** (Borago officinalis): Easy to grow, reaches 2ft 6in.
   Attracts bees. Excellent companion for strawberries and tomatoes
-- **Chervil** ([[anthriscus-cerefolium]]): Fast growing, prefers shade
-- **Dill** ([[anethum-graveolens]]): Fast growing, decorative flowers
+- **Chervil** ([[anethum-graveolens]]): Fast growing, decorative flowers
 - **Sweet Basil** (Ocimum basilicum): Reaches 2ft, grown as annual
 
 ### Perennial Herbs
 - **Balm** (Melissa officinalis): Robust and aromatic, attracts bees
 - **Chives** (Allium schoenoprasum): Fast growing, lilac flowers
-- **French Tarragon** ([[artemisia-dracunculus]]): Aromatic, subtle flavor
-- **Fennel** ([[foeniculum-vulgare-entity]]): Decorative flowers, reaches 5ft
-- **Lovage** ([[levisticum-officinale]]): Very tall, attractive seedheads
-- **Mint** (Mentha spicata): Fast growing, prefers semi-shade
-- **Sorrel** (Rumex acetosa): Broad leaved, prefers semi-shade
-- **Winter Savory** (Satureia montana): Evergreen, attracts bees
-
-### Shrubby Herbs
-- **Lemon Thyme** (Thymus citriodorus): Evergreen, attracts bees
-- **Sage** (Salvia officinalis): Hardy shrub, decorative and aromatic
-- **Rosemary** ([[rosmarinus-officinalis-entity]]): Aromatic evergreen
+- **French Tarragon** ([[foeniculum-vulgare-entity]]): Decorative flowers, reaches 5ft
+- **Lovage** ([[rosmarinus-officinalis-entity]]): Aromatic evergreen
 
 ## Practical Applications
 
@@ -118,8 +104,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[hamilton-geoffhamilton-nick-organic-gardening-mulching-and-weed-suppression]]
 - [[hamilton-geoffhamilton-nick-organic-gardening-organic-weed-control]]
-- [[hamilton-geoffhamilton-nick-organic-gardening-organic-fertilizers]]
 - [[hamilton-geoffhamilton-nick-organic-gardening-organic-pest-control]]
 - [[hamilton-geoffhamilton-nick-organic-gardening-companion-planting]]

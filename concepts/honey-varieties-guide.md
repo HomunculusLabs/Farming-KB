@@ -10,9 +10,9 @@ sources: []
 # Honey Varieties Guide
 
 Monofloral honey comes predominantly from a single nectar source. The flavor,
-color, [[panax-ginseng]] vary dramatically depending on the floral
+color, and medicinal properties vary dramatically depending on the floral
 source. Understanding honey varieties helps beekeepers market their product and
-consumers [[query-how-do-i-choose-the-right-cannabis-strain-for-my-grow]] honey for culinary or therapeutic use.
+consumers choose the right honey for culinary or therapeutic use.
 
 ## Factors That Determine Honey Character
 
@@ -26,7 +26,7 @@ consumers [[query-how-do-i-choose-the-right-cannabis-strain-for-my-grow]] honey 
 ### Clover Honey
 
 Light amber color with a mild, sweet, floral flavor. One of the most common
-varieties in [[guzman-psilocybin-mushrooms-north-america]]. White and sweet clover are the primary sources.
+varieties in North America. White and sweet clover are the primary sources.
 Low crystallization tendency in liquid form. Excellent general-purpose sweetener
 and a good entry honey for new beekeepers.
 
@@ -44,7 +44,7 @@ scoparium (manuka tree). Dark, earthy, slightly bitter flavor. Unique
 non-peroxide antibacterial activity measured on the Unique Manuka Factor
 (UMF) scale. UMF 10+ is considered therapeutic grade. Used topically for
 wound healing and internally for digestive support. See
-[[bee-product-medicinal-uses]] for details on [[psilocybin-therapeutic-applications]].
+[[bee-product-medicinal-uses]] for details on therapeutic applications.
 
 ### Buckwheat Honey
 
@@ -66,7 +66,7 @@ varieties.
 ### Orange Blossom Honey
 
 Light amber to white with a delicate citrus aroma and flavor. Produced in
-Florida, Texas, and California from [[citrus-sinensis]] blossoms. Popular for
+Florida, Texas, and California from Citrus sinensis blossoms. Popular for
 tea, cheese pairings, and baking. The subtle citrus notes make it a favorite
 for mead making. Available in spring after the citrus bloom.
 
@@ -112,18 +112,4 @@ in a water bath at 95F (35C) reliquefies it without degrading enzymes.
 | Mead making | Orange blossom, wildflower |
 
 See also [[honey-extraction-and-processing]] for post-harvest handling and
-[[cover-crops]] for planting strategies to produce specific honey types.
-## Key Considerations
-
-Understanding the fundamental principles underlying this topic enables more effective practical application. Integration with related concepts strengthens overall system function and provides multiple pathways for implementation and adaptation to specific contexts.
-
-## Common Challenges
-
-Practitioners frequently encounter challenges related to resource availability, environmental variability, and knowledge gaps. Systematic approaches to problem-solving, combined with community knowledge sharing and iterative experimentation, provide effective pathways to overcoming these obstacles.
-
-## See Also
-- [[2c-b-psychedelic-empathogen-guide]]
-- [[aact-applications-guide-ingham]]
-- [[adaptogenic-herbs-guide]]
-- [[aeroponics-guide]]
-- [[african-psilocybin-mushroom-guide]]
+[[bee-forage-plants]] for planting strategies to produce specific honey types.

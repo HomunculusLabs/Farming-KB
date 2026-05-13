@@ -2,7 +2,7 @@
 
 > Side-by-side comparisons and query-based analysis pages
 
-**1332 pages**
+**1339 pages**
 
 ## A
 
@@ -110,6 +110,7 @@
 - [[comparison-biointensive-vs-permaculture]]
 - [[comparison-biointensive-vs-square-foot-gardening]]
 - [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]]
+- [[comparison-biomass-compost-greenhouse-heating-systems-vs-solar-cooking-methods]]
 - [[comparison-bioponics-vs-aquaponics]]
 - [[comparison-bioremediation-strategies-vs-biostimulation-techniques]]
 - [[comparison-black-locust-vs-honey-locust]]
@@ -347,6 +348,7 @@
 - [[comparison-kava-vs-kratom-cultivation-chemistry-and-uses]]
 - [[comparison-kefir-vs-kombucha]]
 - [[comparison-kefir-vs-yogurt]]
+- [[comparison-kelp-meal-fertilizer-vs-rock-phosphate]]
 - [[comparison-kelp-meal-vs-basalt-rock-dust]]
 - [[comparison-kelp-meal-vs-rock-dust]]
 - [[comparison-keyhole-garden-vs-raised-bed]]
@@ -400,11 +402,13 @@
 - [[comparison-mangosteen-vs-rambutan-cultivation]]
 - [[comparison-mangrove-restoration-vs-constructed-wetlands]]
 - [[comparison-martha-tent-vs-monotub]]
+- [[comparison-masonry-heater-design-vs-solar-cooking-methods]]
 - [[comparison-masonry-heater-vs-pellet-stove]]
 - [[comparison-mead-making-vs-beer-brewing]]
 - [[comparison-mead-vs-kvass-fermented-beverages]]
 - [[comparison-mealworm-farming-vs-cricket-farming]]
 - [[comparison-mesquite-vs-black-locust-vs-carob-tree]]
+- [[comparison-micro-hydro-power-vs-solar-cooking-methods]]
 - [[comparison-microgreens-vs-sprouts]]
 - [[comparison-miso-vs-natto]]
 - [[comparison-monoculture-vs-polyculture]]
@@ -465,6 +469,7 @@
 - [[comparison-passive-solar-vs-earth-sheltered]]
 - [[comparison-pasteurization-vs-sterilization]]
 - [[comparison-pasture-vs-silvopasture]]
+- [[comparison-pellet-stove-heating-vs-charcoal-production-for-cooking]]
 - [[comparison-pepper-growing-guide-vs-tomato-growing-guide]]
 - [[comparison-perennial-vegetables-vs-cover-crops]]
 - [[comparison-perlite-cannabis-vs-vermiculite-cannabis]]
@@ -846,11 +851,13 @@
 - [[query-how-do-i-grow-mushrooms-on-coffee-grounds]]
 - [[query-how-do-i-grow-mushrooms-using-log-cultivation]]
 - [[query-how-do-i-grow-onions-from-seed-sets-and-transplants]]
+- [[query-how-do-i-grow-peppers-from-seed-to-harvest]]
 - [[query-how-do-i-grow-perennial-vegetables-in-my-garden]]
 - [[query-how-do-i-grow-persimmons-and-which-variety-should-i-choose]]
 - [[query-how-do-i-grow-squash-pumpkins-and-cucumbers-successfully]]
 - [[query-how-do-i-grow-stone-fruits-like-peaches-plums-and-cherries]]
 - [[query-how-do-i-grow-sweet-potatoes-from-slips-to-harvest]]
+- [[query-how-do-i-grow-tomatoes-from-seed-to-harvest]]
 - [[query-how-do-i-grow-tomatoes-in-a-greenhouse]]
 - [[query-how-do-i-grow-tomatoes-organically]]
 - [[query-how-do-i-grow-vanilla-at-home]]

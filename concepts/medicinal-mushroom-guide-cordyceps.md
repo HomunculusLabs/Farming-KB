@@ -1,5 +1,5 @@
 ---
-title: Medicinal Mushroom Guide Cordyceps
+title: Cordyceps (C. militaris, C. sinensis) — Medicinal Mushroom Guide
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
@@ -58,11 +58,11 @@ Cordyceps is one of the most studied ergogenic mushrooms:
 ### Practical Application
 - Best taken consistently for 2-4 weeks before events, not as a one-time pre-workout.
 - Effective dose range: 1000-3000mg/day of C. militaris extract.
-- Pairing with [[adaptogenic-herbs-guide]] like rhodiola can provide synergistic energy support.
+- Pairing with [[adaptogenic-herbs-guide|adaptogenic herbs]] like rhodiola can provide synergistic energy support.
 
 ## Respiratory Health
 
-Traditional and modern use for [[cannabis-respiratory-conditions]]:
+Traditional and modern use for respiratory conditions:
 - Bronchodilatory effects (relaxation of airway smooth muscle).
 - Increased lung capacity and oxygen uptake.
 - Used traditionally for chronic bronchitis, asthma, and COPD.
@@ -87,7 +87,7 @@ Traditional use as a kidney tonic in Chinese medicine:
 ### C. militaris (Cultivated)
 Most commercially available cordyceps products are C. militaris:
 - **Whole dried fruiting bodies:** Can be added to soups, broths, or teas.
-- **Hot water extract:** Simmer 30-45 minutes for [[mushroom-polysaccharide-extraction-chemistry]].
+- **Hot water extract:** Simmer 30-45 minutes for polysaccharide extraction.
 - **Dual extraction:** Water + alcohol to capture both polysaccharides and cordycepin.
 - **Powder/capsules:** Most common supplement form. Look for standardized cordycepin content.
 
@@ -122,9 +122,9 @@ Wild O. sinensis faces severe overharvesting:
 C. militaris can be cultivated on grain substrates (rice, wheat) or insect pupae:
 - **Substrate:** Sterilized rice or wheat grain, sometimes supplemented with insect protein.
 - **Temperature:** 68-75°F (20-24°C) colonization; 50-65°F (10-18°C) for fruiting (cool fruiting triggers).
-- **Light:** Required for [[bloomfield-mushroom-formation-fruiting-body-development-cultivation]] and cordycepin production.
+- **Light:** Required for [[fruiting-body-development]] and cordycepin production.
 - **Fruiting time:** 3-6 weeks after inoculation.
-- **Yield:** 30-50% [[biological-efficiency]] on grain substrates.
+- **Yield:** 30-50% biological efficiency on grain substrates.
 - Insect pupae substrates produce fruiting bodies more chemically similar to wild O. sinensis.
 
 ## Safety Considerations
@@ -132,7 +132,7 @@ C. militaris can be cultivated on grain substrates (rice, wheat) or insect pupae
 - Generally well-tolerated.
 - May lower blood sugar — caution with diabetes medications.
 - Possible blood-thinning effects — caution with anticoagulants.
-- [[blesching-cannabis-health-index-autoimmune-conditions]]: immune-stimulating effects may be problematic.
+- Autoimmune conditions: immune-stimulating effects may be problematic.
 - Avoid during pregnancy and breastfeeding.
 - Rare reports of dry mouth, nausea, and diarrhea at high doses.
 

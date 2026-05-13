@@ -17,14 +17,6 @@ sources:
 # 2C-I (2,5-Dimethoxy-4-iodophenethylamine)
 
 2C-I is a synthetic psychedelic phenethylamine and a member of the 2C family first synthesized and bioassayed by
-[[mescaline]] and its distinctly colorful visual effects. It
-is one of the most widely encountered 2C compounds in both research and recreational contexts.
-
-## Chemical Properties
-
-2C-I is 2,5-dimethoxy-4-iodophenethylamine, with the molecular formula C₁₀H₁₄INO₂ and a molecular weight of
-307.12 g/mol. The 4-position iodine atom is notably large and heavy (atomic weight 126.9), making 2C-I the heaviest of
-the commonly discussed 2C compounds. This large halogen substituent significantly affects the molecule's lipophilicity,
 [[2c-b]] (bromine), the heavier iodine atom results in slower metabolic
 clearance and longer duration. 2C-I has negligible affinity for monoamine transporters. Metabolism proceeds through
 oxidative deamination, though the C–I bond is relatively resistant to oxidative cleavage compared to C–Br bonds,
@@ -36,40 +28,14 @@ Detailed receptor binding studies have shown that 2C-I has moderate to high affi
 in the low nanomolar range for related compounds), with lower but still significant affinity at 5-HT₂C and trace
 amine-associated receptors (TAARs). The 4-iodo substituent creates a distinct ligand-receptor interaction compared to
 the 4-bromo (2C-B) or 4-methyl (2C-D) analogues, which is reflected in the subjective differences between these
-compounds. The large iodine atom's electron-withdrawing properties also affect the [[mckenna-fungal-fossil-gap-spore-electron-density-and-metal-hardness]] distribution across
-the aromatic ring, influencing how the molecule interacts with the receptor's binding pocket. These subtle
-pharmacological differences translate into the notably different experiential profiles reported by users.
-
-## Subjective Effects
-
-2C-I is distinguished by its exceptionally vivid and colorful visual effects, which many users and Shulgin himself
-considered among the most pronounced in the 2C series. Visual phenomena include intense color enhancement and shifting,
-complex geometric patterning, halos and auras around light sources, tracers, and texture morphing. The visual character
-is often described as "bright" and "electric" compared to the warmer, more organic visuals of mescaline or the
-depth-shifting effects of lsd. Cognitive effects include enhanced pattern recognition, philosophical introspection, and
-occasional moments of profound insight. The body load is generally moderate, with some users reporting mild to moderate
-physical stimulation, jaw tension, and vasoconstriction. Nausea can occur during onset but is generally less pronounced
-than with mescaline. Effects onset within 30–60 minutes, peak at 2–3 hours, and last 6–10 hours — significantly
-longer than 2C-B.
-
-## Comparison with 2C-B
-
-2C-I and 2C-B are frequently compared due to their structural similarity — the only difference being the 4-position
-substituent (iodine vs. bromine). This single atom substitution produces notable experiential differences: 2C-I's
-effects are more visual, more stimulating, and significantly longer-lasting than those of 2C-B. The empathogenic
-qualities that characterize low-dose 2C-B are less pronounced in 2C-I, which tends toward a more purely psychedelic
-experience at all dose ranges. 2C-I also has a heavier body load and more pronounced physical stimulation. Users who
-enjoy 2C-B for its balanced, manageable character may find 2C-I more intense and demanding, while those seeking
-stronger visual effects and a deeper [[leary-psychedelic-experience-bardo-mapping]] may prefer 2C-I.
+compounds. The large iodine atom's electron-withdrawing properties also affect the [[leary-psychedelic-experience-bardo-mapping]] may prefer 2C-I.
 
 ## History and Legal Status
 
 Shulgin first synthesized 2C-I in the course of his systematic exploration of 4-substituted
 2,5-dimethoxyphenethylamines, as documented in *PiHKAL*. The compound gained popularity in the early 2000s as one of
 the first "research chemicals" to achieve wide circulation following the scheduling of 2C-B. It was sold through online
-vendors as a legal alternative before being controlled. 2C-I was emergency-scheduled in the [[dmt-containing-plants-united-states-halpern]] in 2012 and
-permanently placed in Schedule I in 2014. It is controlled under international law as a Schedule I substance. Despite
-its mckenna [[mckenna-baconian-exploration-tryptamine-research-methodology]], 2C-I continues to appear in forensic drug seizures, sometimes misrepresented as LSD or other
+vendors as a legal alternative before being controlled. 2C-I was emergency-scheduled in the [[mckenna-baconian-exploration-tryptamine-research-methodology]], 2C-I continues to appear in forensic drug seizures, sometimes misrepresented as LSD or other
 compounds.
 
 ## Relationship to Other Compounds
@@ -78,13 +44,82 @@ compounds.
 as 25I), became one of the most widely distributed and controversial novel psychedelics of the 2010s, with
 significantly higher potency but greater toxicity concerns. 2C-I-BOH, the hydroxy derivative, and 2C-I-NBOMe represent
 other pharmacological explorations based on the 2C-I scaffold. The iodine atom in 2C-I also makes it a useful
-radioligand candidate, as radioiodinated analogues have been explored for [[neurochemical-probes-brain-imaging-pihkal]] applications targeting 5-HT₂A
-receptors. These imaging applications leverage the fact that iodine-125 and iodine-123 isotopes can be readily
-incorporated into the 2C-I molecular framework for positron emission tomography (PET) and single-photon emission
-computed tomography (SPECT) studies of serotonergic receptor distribution in the living brain.
-
-## Safety Profile
-
-2C-I is generally considered to have moderate safety, though less clinical data exists compared to better-studied
-psychedelics. Common [[blesching-cannabis-safety-adverse-effects-evidence]] include nausea, vasoconstriction, tachycardia, anxiety, and insomnia at higher
+radioligand candidate, as radioiodinated analogues have been explored for [[blesching-cannabis-safety-adverse-effects-evidence]] include nausea, vasoconstriction, tachycardia, anxiety, and insomnia at higher
 doses. The extended duration means that uncomfortable effects are sustained for a longer period than with
+
+## Overview
+
+2C I represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish 2c i
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving 2c extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+2C I finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for 2c i. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+2c i and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+2C I has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of 2c i into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.

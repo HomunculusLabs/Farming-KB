@@ -19,15 +19,13 @@ sources:
 
 ## Overview
 
-**Carex canescens**, commonly known as hoary sedge or silvery sedge, is a perennial sedge of the family Cyperaceae. It has a circumboreal distribution, occurring across northern Europe, Asia, and [[guzman-psilocybin-mushrooms-north-america]].
-
-The species is characteristic of acidic bog and mire habitats. It is one of the indicator species for ombrotrophic (rain-fed) peatland communities in boreal and [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]].
+**Carex canescens**, commonly known as hoary sedge or silvery sedge, is a perennial sedge of the family Cyperaceae. It has a circumboreal distribution, occurring across northern Europe, Asia, and [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]].
 
 Hoary sedge is named for the greyish-silvery appearance of its inflorescence, which gives the plant a frosted or hoary look. This distinctive coloration makes it identifiable even from a distance in peatland landscapes.
 
 The species is a modestly sized sedge that typically forms loose tussocks in open, wet habitats. It is a component of many important peatland plant communities across its range.
 
-In North America, hoary sedge occurs from Alaska across Canada to the northeastern [[dmt-containing-plants-united-states-halpern]]. Disjunct populations exist in the Rocky Mountains and the [[bolete-fungi-appalachian-region]].
+In [[guzman-psilocybin-mushrooms-north-america]], hoary sedge occurs from Alaska across Canada to the northeastern [[bolete-fungi-appalachian-region]].
 
 The species is diploid with 2n = 54 chromosomes throughout most of its range. Polyploid populations have been reported from isolated mountain locations in Europe.
 
@@ -67,9 +65,9 @@ On restored peatland sites, colonisation by Carex canescens typically occurs wit
 
 ## Ecology
 
-**Carex canescens** is an important component of ombrotrophic peatland vegetation across the boreal and temperate zones. It contributes to peat formation through the slow decomposition of its leaves and roots.
+**Carex canescens** is an important component of ombrotrophic peatland vegetation across the boreal and temperate zones. It contributes to peat formation through the slow [[decomposition]] of its leaves and roots.
 
-The species typically grows in association with sphagnum mosses, cotton grasses, and other acidophilous sedges. In the British National Vegetation Classification, it is characteristic of the M17 Scirpus cespitosus–Eriophorum vaginatum blanket mire community.
+The species typically grows in association with sphagnum mosses, cotton grasses, and other acidophilous sedges. In the British National Vegetation Classification, it is characteristic of the M17 [[scirpus]] cespitosus–Eriophorum vaginatum blanket mire community.
 
 Hoary sedge is moderately shade-intolerant and declines as taller vegetation encroaches on open peatland. It depends on some degree of disturbance or grazing to maintain open conditions.
 
@@ -85,6 +83,6 @@ The root systems of hoary sedge are relatively shallow, concentrated in the aero
 
 ## Cultivation and Uses
 
-Hoary sedge is occasionally cultivated in specialised bog gardens and ecological plantings. It requires permanently moist to waterlogged, acidic conditions and full sun or light shade.
+Hoary sedge is occasionally cultivated in specialised bog gardens and [[query-how-do-i-replace-my-lawn-with-productive-or-ecological-plantings]]. It requires permanently moist to waterlogged, acidic conditions and full sun or light shade.
 
 Propagation from seed is possible but germination can be slow and irregular. Cold stratification for 4–8 weeks improves germination rates significantly.

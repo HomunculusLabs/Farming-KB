@@ -22,18 +22,7 @@ profiles, and the daily effort required to produce them.
 
 ## Kombucha
 
-[[query-how-does-kombucha-brewing-work]]
-
-Kombucha is produced through the fermentation of sweetened tea by a
-symbiotic culture of bacteria and yeast known as a SCOBY.
-The SCOBY forms a thick, gelatinous cellulose mat on the surface of the
-brewing liquid and houses a diverse community of microorganisms working
-together in symbiosis.
-
-The primary fermentation begins when the SCOBY is added to a mixture of
-tea and sugar, typically using black, green, or a blend of teas.
-Over the course of 7 to 30 days, the yeast in the SCOBY converts the
-sugar into ethanol, and acetic [[bionutrients-lab-lactic-acid-bacteria-serum]] then convert that ethanol
+[[bionutrients-lab-lactic-acid-bacteria-serum]] then convert that ethanol
 into acetic acid and gluconic acid, giving kombucha its characteristic
 tart and vinegary taste.
 
@@ -44,32 +33,13 @@ The resulting beverage is highly effervescent, refreshingly tart, and can
 be customized with virtually any fruit or botanical ingredient for endless
 flavor variations.
 
-Kombucha naturally contains [[comparison-kefir-vs-yogurt]]
-
-- [[food-fermentation-guide]]
+Kombucha naturally contains [[food-fermentation-guide]]
 - kefir making
 - kombucha brewing
 
 ## See Also
 
-- [[comparison-kefir-vs-kombucha]]
-## Practical Considerations
-
-When working with Kombucha vs Kefir, several practical factors should be
-carefully considered to achieve optimal results. These include
-the specific conditions of the implementation context, available
-resources, timing requirements, and the interactions between this
-topic and other elements of the broader system. A holistic view
-that considers these interconnections produces better outcomes.
-
-Environmental conditions such as temperature, moisture, and
-seasonal patterns significantly influence results. Monitoring these
-variables and adapting practices accordingly is essential for success.
-The most effective practitioners develop keen observation skills and
-respond flexibly to changing conditions rather than following rigid
-protocols regardless of circumstances or local variation.
-
-[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
+- [[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.

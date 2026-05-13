@@ -23,30 +23,6 @@ effectively and avoid dangerous misapplications.
 
 ## Arnica (Arnica montana)
 
-[[arnica-montana]]
-
-Arnica is a perennial herb in the Asteraceae family native to European
-mountain
-meadows. It has been used for centuries as a topical anti-inflammatory and
-analgesic. The primary bioactive compounds are sesquiterpene lactones,
-particularly helenalin and dihydrohelenalin, which inhibit NF-kB signaling and
-reduce inflammatory cytokine production. Arnica also contains flavonoids,
-volatile oils, and coumarins that contribute to its therapeutic effects.
-
-Critically, arnica is toxic when ingested in all but minute homeopathic doses.
-Internal use can cause gastrointestinal distress, cardiac arrhythmias, and
-organ damage. This safety profile means arnica is almost exclusively used in
-topical preparations: tinctures, salves, creams, gels, and infused oils. It is
-a first-aid staple for bruises, sprains, muscle aches, and postoperative
-swelling. Clinical trials have supported its efficacy for reducing bruising
-after cosmetic surgery and easing osteoarthritis pain in topical formulations.
-
-Arnica is challenging to cultivate, preferring nutrient-poor acidic soils at
-high elevation. Wild populations are endangered in parts of Europe due to
-overharvesting, making sustainably cultivated sources important.
-
-## St. John's Wort (Hypericum perforatum)
-
 [[st-johns-wort-guide]]
 
 St. John's Wort is a vigorous perennial herb in the Hypericaceae family,
@@ -113,8 +89,6 @@ interaction profile.
 
 ## See Also
 
-- [[comparison-arnica-vs-calendula]]
 - [[comparison-mullein-vs-st-johns-wort]]
-- [[comparison-arnica-vs-stinging-nettle]]
 - [[comparison-valerian-vs-st-johns-wort]]
 - [[comparison-echinacea-vs-lemon-balm]]

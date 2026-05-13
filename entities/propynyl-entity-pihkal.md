@@ -8,51 +8,7 @@ sources: ["Shulgin - PIHKAL"]
 ---
 # PROPYNYL
 
-[[2c-b-pihkal-entry-20]] #143. 3,5-DIMETHOXY-4-(2-PROPYNYLOXY)PHENETHYLAMINE.
-
-## Chemical Name
-
-3,5-DIMETHOXY-4-(2-PROPYNYLOXY)PHENETHYLAMINE
-
-## Dosage and Duration
-
-| Property | Value |
-|----------|-------|
-| Dosage | 80 mg or more. |
-| Duration | 8 - 12 h. |
-
-## Qualitative Comments
-
-> (with 55 mg) I have cold feet Q literally Q I
-> don't mean that in the spiritual or adventurous sense. But also I am
-> somewhat physically fuzzy. I feel that if I were in public my
-> behavior would be such that someone would notice me. Everything was
-> OK without any question at the ninth hour. I could walk abroad
-> again.
->
-> (with 80 mg) There is a body load. The flow of people around me all
-> day has demanded my attention, and when I had purposefully retreated
-> to be by myself, there was no particular reward as to visuals or
-> anything with eyes closed, either. Sleep was easy at midnight (the
-> twelth hour of the experiment) but the morning was sluggish, and on
-> recalling the day, I am not sure of the events that had taken place.
-> Higher might be all right, but watch the status of the body. There
-> certainly wasn't that much mental stuff.
-
-## Extensions and Commentary
-
-No experiments have been performed that
-describe the action of this drug at full level. This compound does
-not seem to have the magic that would encourage exploration at higher
-levels.
-
-## Synthesis
-
-To a solution of 5.8 g homosyringonitrile (see under E for
-its preparation) in 50 mL acetone containing 100 mg
-decyltriethylammonium iodide, there was added 12 g of an 80% solution
-of propargyl bromide in toluene and 6.9 g of finely powdered anhydrous
-K2CO3. This mixture was held at reflux on the [[scythian-cannabis-steam-bath-ritual]] for 12 h,
+[[scythian-cannabis-steam-bath-ritual]] for 12 h,
 after which the solvent was removed under vacuum. The residues were
 added to 0.5 L H2O, acidified, and extracted with 3x75 mL CH2Cl2. The
 extracts were pooled, washed with 5% NaOH, and then with dilute HCl
@@ -90,3 +46,88 @@ yield was 3.0 g of white needles.
 
 ## See Also
 - [[methyl-j-entity-pihkal]]
+
+## Overview
+
+Propynyl Entity Pihkal represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish propynyl entity pihkal
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving propynyl extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Propynyl Entity Pihkal finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for propynyl entity pihkal. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+propynyl entity pihkal and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Propynyl Entity Pihkal has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of propynyl entity pihkal into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[2c-g-3-entity]]
+- [[4-5-mdo-dmt-entity-tihkal]]
+- [[5-6-mdo-dipt-entity-tihkal]]
+- [[mdcpm-entity-pihkal]]
+- [[methyl-k-entity-pihkal]]

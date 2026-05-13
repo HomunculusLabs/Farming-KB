@@ -17,10 +17,8 @@ type: concept
 # Radiation-Resistant Fungi and Myco-Corrosion
 
 Certain fungi demonstrate remarkable tolerance to ionizing radiation and
-[[radioactive-contamination-and-fungi]], colonizing environments that would be lethal to
-most organisms. This [[bacillus-pumilus-radiation-resistance-surface-decontamination]] has important implications for
-[[gadd-fungal-concrete-biodegradation-nuclear-waste-concerns]] management, bioremediation of contaminated sites, and
-understanding the limits of fungal survival [[fungal-biodiversity-in-extreme-environments]].
+[[bacillus-pumilus-radiation-resistance-surface-decontamination]] has important implications for
+[[fungal-biodiversity-in-extreme-environments]].
 
 ## Fungal Colonization of Radioactive Environments
 
@@ -60,8 +58,7 @@ in bioweathering of natural rocks:
 An experimental study of the effect of microfungi on barrier concrete showed
 that fungi were able to colonize and corrode the surface of concrete,
 selectively avoiding areas filled with granite aggregate. Species including
-[[aspergillus-niger]] have been demonstrated to deteriorate cracked concrete
-surfaces over periods as long as two years under [[darwin-five-seedling-phototropism-experimental-conditions]].
+[[darwin-five-seedling-phototropism-experimental-conditions]].
 
 ## Implications for Nuclear Waste Storage
 

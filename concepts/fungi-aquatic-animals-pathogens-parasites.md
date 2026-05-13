@@ -41,26 +41,12 @@ Oomycetes and Chytridiomycota. At least 12 genera are notoriously destructive:
 - **Ichthyophonus hoferi:** Well-known pathogen of marine and freshwater
   fish; exhibits secular (18-30 year) periodicity in Atlantic herring and
   yellowtail flounder; phylogenetic position currently disputed
-- **[[batrachochytrium-dendrobatidis]]:** Associated with global amphibian
-  decline — possibly the most consequential aquatic animal pathogen
-  discovered in recent decades
-
-### Ascomycetes and Anamorphic Fungi
-Significant opportunistic pathogens include:
-- **Aspergillus species:** Cause aspergillosis in fish, corals, and other
-  marine animals
-- **Fusarium species:** Important pathogens in [[seaweed-farming-and-marine-aquaculture]]
+- **[[seaweed-farming-and-marine-aquaculture]]
 - **Exophiala species:** Black yeast pathogens of fish and crustaceans
 - **Branchiomyces species:** Cause gill disease in freshwater fish
 
 ## Transmission and Epidemiology
-Aquatic [[bloomfield-yeast-saccharomyces-fungal-pathogens]] spread through multiple routes. Waterborne
-transmission via motile zoospores is the primary mechanism for oomycetes
-and chytrids. These spores can travel considerable distances in currents
-and persist in sediment until encountering a susceptible host. Direct
-contact between infected and healthy individuals also facilitates spread,
-particularly in crowded aquaculture conditions. Environmental stressors
-including temperature fluctuations, low [[aact-dissolved-oxygen-fine-bubble-aeration-ingham]], high ammonia
+Aquatic [[aact-dissolved-oxygen-fine-bubble-aeration-ingham]], high ammonia
 levels, and handling injuries all increase host susceptibility. Many of
 these fungi are opportunistic pathogens that exploit compromised immune
 function rather than attacking healthy animals.
@@ -70,20 +56,10 @@ Fungal diseases represent a significant economic burden in global
 aquaculture. Saprolegniasis alone causes millions of dollars in annual
 losses across salmonid, catfish, and trout farming operations. Crayfish
 plague has devastated European aquaculture and wild populations since
-its introduction from [[psilocybin-north-america-pacific-northwest]]. Shellfish aquaculture faces threats
-from Lagenidium and Fusarium infections that can wipe out entire larval
-cohorts in hatcheries. Treatment options remain limited — formalin baths,
-malachite green (now banned in many jurisdictions), and improved water
-quality management are the primary interventions available.
-
-## Diagnosis and Detection
-Clinical diagnosis of aquatic [[blesching-cannabis-fungal-infections-candida]] typically relies on visual
+its introduction from [[blesching-cannabis-fungal-infections-candida]] typically relies on visual
 examination of characteristic lesions followed by microscopic confirmation.
 Wet mounts of infected tissue reveal hyphal morphology and sporulating
-structures. [[biodiversity-of-fungi-pcr-molecular-methods-fungal-diversity]] including PCR and qPCR have become
-increasingly important for early detection, particularly for
-Batrachochytrium dendrobatidis in amphibian populations. Histopathological
-examination of tissue sections can reveal internal [[bloomfield-turgor-pressure-and-hyphal-invasion]] that
+structures. [[bloomfield-turgor-pressure-and-hyphal-invasion]] that
 is not visible externally. Culture on selective media remains the gold
 standard for species-level identification of many aquatic fungi.
 
@@ -118,8 +94,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[psilocybin]]
 - [[det]]
-- [[spore]]
 - [[batrachochytrium-dendrobatidis]]
 - [[fungicolous-fungi-parasites-associates]]

@@ -1,14 +1,7 @@
 ---
 title: Banisteriopsis caapi and Harmine — MAO Inhibition Chemistry
 source: mckenna_t-food_of_the_gods.md
-author: [[terence-mckenna]]
-topics: ethnopharmacology, ayahuasca, harmine, MAO inhibition, beta-carbolines
----
-
-# Banisteriopsis caapi and Harmine — MAO Inhibition Chemistry
-
-The discovery that Amazonian peoples combined Banisteriopsis caapi with
-[[chacruna-psychotria-viridis]] to create an orally active psychedelic brew represents
+author: [[chacruna-psychotria-viridis]] to create an orally active psychedelic brew represents
 one of the most remarkable achievements in the history of ethnopharmacology.
 The biochemical mechanism — monoamine oxidase inhibition — was not
 understood by Western science until the 1950s, yet indigenous peoples had
@@ -36,8 +29,7 @@ plant species.
 The principal alkaloids in B. caapi are harmine, harmaline, and
 tetrahydroharmine (THH). All three are beta-carboline derivatives —
 tryptamine-related compounds in which an additional ring structure has
-been formed. These alkaloids belong to the [[mckenna-telepathine-harmala-alkaloid-discovery]] family,
-named for the Syrian rue plant [[mckenna-food-gods-peganum-harmala-soma]], which contains the same
+been formed. These alkaloids belong to the [[mckenna-food-gods-peganum-harmala-soma]], which contains the same
 compounds.
 
 Harmine and harmaline are potent, reversible inhibitors of monoamine
@@ -101,15 +93,7 @@ a pharmacological discovery of this complexity.
 ## Harmine in Modern Medicine
 
 Beyond its role in ayahuasca, harmine has attracted interest in
-contemporary pharmacology for its potential [[psilocybin-therapeutic-applications]].
-Research has demonstrated that harmine has antidepressant properties
-in animal models, likely mediated through MAO-A inhibition and possibly
-through interactions with the serotonin transporter. Harmine has also
-been investigated as a potential anti-cancer agent, as it inhibits
-DYRK1A, a kinase involved in cell proliferation.
-
-The broader class of beta-carboline alkaloids occurs widely in nature,
-including in trace amounts in common [[fermented-foods-and-beverages]]. Endogenous
+contemporary pharmacology for its potential [[fermented-foods-and-beverages]]. Endogenous
 beta-carbolines have been detected in human blood, urine, and brain
 tissue, though their physiological significance remains unclear. The
 presence of these compounds in the human body suggests that the
@@ -130,7 +114,5 @@ use of ayahuasca.
 
 ## See Also
 
-- [[mckenna-ayahuasca-healing-icaros-sound-suggestion]]
 - [[mckenna-television-as-electronic-drug-media-narcotic]]
-- [[mckenna-the-kingdom-of-fungi]]
 - [[mckenna-food-of-the-gods-thesis]]

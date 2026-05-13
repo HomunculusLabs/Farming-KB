@@ -13,22 +13,14 @@ updated: 2026-04-28
 sources:
   - Leafly Strain Database (Blue Dream profile)
   - Phylos Bioscience (genetic testing data)
-  - Mammen, G. et al. (2018). "Cannabis use patterns after [[cannabis-legalization-era]]." Canadian Journal of Public Health.
-  - ElSohly, M.A. et al. (2016). "Changes in [[cannabis-potency-enhanced-flowers]] Over the Last 2 Decades." Biological Psychiatry.
+  - Mammen, G. et al. (2018). "Cannabis use patterns after cannabis-potency-enhanced-flowers Over the Last 2 Decades." Biological Psychiatry.
 ---
 
 # Blue Dream
 
 ## Overview
 
-Blue Dream is a sativa-dominant [[query-what-is-the-difference-between-indica-sativa-and-hybrid-cannabis]] strain that has been one of the most popular and widely consumed cannabis varieties in the United States since the early 2010s. A cross between Blueberry (indica) and Haze (sativa), it is celebrated for delivering a balanced experience that combines gentle cerebral stimulation with full-body relaxation. Its approachable effects, fruity flavor profile, and reliable consistency have made it a staple in both recreational and medical cannabis markets.
-
-## Genetic Lineage
-
-### Parent Strains
-
-- **Blueberry (female):** An indica-dominant strain bred by DJ Short in the 1970s, known for its deep purple coloration, sweet berry aroma, and sedating body effects. Blueberry won the High Times Cannabis Cup in 2000 for Best Indica.
-- **Haze (male):** A legendary pure sativa originating in the Santa Cruz mountains of California in the 1960s–70s. Haze contributes the uplifting, energetic cerebral effects, extended flowering time, and complex [[cannabis-terpene-profile]] that defines the sativa side of Blue Dream.
+Blue Dream is a sativa-dominant [[cannabis-terpene-profile]] that defines the sativa side of Blue Dream.
 
 ### Genetic Ratio
 
@@ -81,10 +73,13 @@ Effects typically onset within 5–10 minutes when smoked or vaporized, with pea
 
 ### Commonly Reported Uses
 
-- **Stress [[nervine-herbs-and-anxiety-relief]]:** The balanced profile provides calm without lethargy
-- **Pain management:** Moderate analgesic effects suitable for mild to moderate [[cannabis-for-chronic-pain]], headaches, and muscle tension
+- **Stress [[cannabis-for-chronic-pain]], headaches, and muscle tension
 - **Mood elevation:** Useful for managing symptoms of mild depression and mood disorders
 - **Daytime functionality:** Unlike heavy indicas, Blue Dream typically allows users to remain productive and alert
 - **Social situations:** Enhanced sociability and reduced social anxiety make it popular for gatherings
 
 ### Potential Side Effects
+
+## See Also
+
+- [[grand-daddy-blue-dream-sativa-hybrid-strain]]

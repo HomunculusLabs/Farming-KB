@@ -8,11 +8,9 @@ sources: [~/wiki/raw/papers/greg-green-the-cannabis-grow-bible.md]
 type: concept
 ---
 
-[[eclss-environmental-control-life-support]], particularly temperature and [[stamets-cultivator-humidity-management-fogging-systems]],
-is fundamental to successful [[query-how-does-no-till-cannabis-cultivation-work]]. [[green-cannabis-grow-bible-indoor-grow-room-setup]] and
-[[vegetable-storage-conditions-by-temperature-and-humidity]]
-
-- [[greg-green-odor-control-and-air-filtration]]
+[[stamets-cultivator-humidity-management-fogging-systems]],
+is fundamental to successful [[green-cannabis-grow-bible-indoor-grow-room-setup]] and
+[[greg-green-odor-control-and-air-filtration]]
 ## Background and Context
 
 Temperature and Humidity Control is an important subject that has garnered significant attention
@@ -118,8 +116,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[dom]]
 - [[det]]
-- [[greg-green-odor-control-and-air-filtration]]
 - [[knf-fmc-floor-and-temperature-control]]
 - [[hamilton-greenhouse-heating-and-temperature-control]]

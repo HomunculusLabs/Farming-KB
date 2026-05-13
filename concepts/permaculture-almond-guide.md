@@ -22,49 +22,7 @@ Per 100 grams of edible portion: Water - 4.7%, Energy - 598 calories, Carbohydra
 
 ## Climate Requirements
 
-Almonds are best adapted to areas with warm, dry summers, as the nuts will not reach maturity if summers are cool and humidity high. They are fairly [[coleman-cold-hardy-varieties]] and also tolerant of drought, although yields are drastically reduced if grown under moisture stress. They require some winter chilling to break dormancy, although the blossom is very susceptible to spring frosts.
-
-## Soil Requirements
-
-Almonds prefer deep, fertile, well drained loams or sandy loams, with the roots being found as deep as 3 m. They are very sensitive to poor drainage, therefore it is preferable not to have an impervious layer within 3 m of the surface. They will not tolerate salty soils.
-
-## Propagation
-
-Almonds are propagated by budding the chosen cultivar onto a rootstock. There are three popular rootstocks available:
-
-- **Peach seedlings** produce faster growing trees, with roots that penetrate less deeply than almonds. The mature tree is smaller and does not live as long. The roots are susceptible to nematodes.
-- **Nemaguard** is a peach rootstock with resistance to nematodes. This is the most popular rootstock, producing a vigorous tree which yields good crops.
-- **Almond seedlings** produce long lived, large, vigorous trees with deep penetrating roots. Easily affected by nematodes and Armillaria.
-
-## Cross-Pollination
-
-With the exception of a few cultivars such as "All-in-one" and "Garden Prince", almonds require cross-pollination with another variety.
-
-## Planting and Spacing
-
-Planting distance is 7 m x 7 m, planting four rows of the main cultivar to two rows of the polliniser (one early, one late). Closer planting of almonds generally has only limited success.
-
-## Pruning
-
-Trees should be pruned to maintain an open "vase" shape, keeping the centre open to prevent shading of the crop. Almonds bear most of their fruit on short laterals or spurs, which usually produce for 5-6 years and then die out. Pruning to replace branches with spurs past their prime will ensure vigorous growth of new spurs.
-
-## Harvest
-
-Almonds should be harvested after the hulls have cracked open and are partially dried. Nuts can be knocked or shaken from trees. Hulls should be removed and placed in the sun to dry for one to two days and stored in a dry, well ventilated place. Almonds in the shell will keep for up to six months.
-
-## Cultivar Groups
-
-Almond cultivars are classified into three groups:
-- **Papershells** -- having soft crumbly shells
-- **Softshells** -- which have a firm shell which can be broken by hand
-- **Hardshells** -- which need to be cracked open
-
-## Key Cultivars
-
-- **All-in-One** -- A softshell similar to Nonpareil. The tree is small, vigorous, upright and bears heavily. Good quality nut with a sweet flavour. Self-fruitful. Late harvest.
-- **Baxendale** -- A softshell and a good polliniser for Nonpareil, blooming earlier.
-- **Bigg's Hardshell** -- The kernels are small to medium size and flat. Has a very hard shell.
-- **Brown Brandis** -- A softshell, which is a very [[equatorial-photoperiod-early-flowering]] cultivar, therefore susceptible to frosts and tends to produce light crops.
+Almonds are best adapted to areas with warm, dry summers, as the nuts will not reach maturity if summers are cool and humidity high. They are fairly [[equatorial-photoperiod-early-flowering]] cultivar, therefore susceptible to frosts and tends to produce light crops.
 - **Carmel** -- Small to medium, softshell tree, producing heavily. Kernel is small, plump and long and has a good flavour. Pollinisers are Nonpareil, Merced and Price. Late harvest.
 - **Chellaston** -- One of the main softshell cultivars grown in Australia. A fairly upright tree and a consistent producer of small to medium sized nuts, which are plump with good flavour. Can be susceptible to shothole disease.
 - **Fritz** -- Often producing very heavy hardshell crops. Good polliniser to Nonpareil.
@@ -81,7 +39,90 @@ Almond cultivars are classified into three groups:
 
 ## Permaculture Integration
 
-- Almonds can serve as [[permaculture-design]]
-- Intercrop young trees with [[permaculture-composting]] material or [[query-how-do-i-start-black-soldier-fly-farming-for-composting-and-animal-feed]]
-- Pair with [[gaias-garden-cover-crops-soil-building]]
+- Almonds can serve as [[permaculture-composting]] material or [[gaias-garden-cover-crops-soil-building]]
 - holzer-fruit-tree-planting-method
+
+## Overview
+
+Permaculture Almond Guide represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish permaculture almond guide
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving permaculture extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Permaculture Almond Guide finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for permaculture almond guide. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+permaculture almond guide and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Permaculture Almond Guide has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of permaculture almond guide into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[holzer-permaculture-landscape-design]]
+- [[permaculture-design-concepts-and-methods-overview]]
+- [[permaculture-design-methods-summary]]
+- [[permaculture-design-science-concepts-themes]]
+- [[permaculture-designers-manual-wildlife-corridors]]

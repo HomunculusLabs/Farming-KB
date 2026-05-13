@@ -26,13 +26,7 @@ The species has a long history of use as a bitter tonic in European folk medicin
 
 Gentiana punctata is native to the mountains of central and southern Europe, primarily the Alps, Carpathians, and Pyrenees. It grows at elevations of 1,500–2,600 meters in alpine and subalpine grasslands.
 
-The species is protected in several European countries due to overharvesting for medicinal purposes. [[gottlieb-peyote-cultivation-from-seed]] is encouraged as a sustainable alternative to wild collection.
-
-## Taxonomy and Morphology
-
-**Kingdom:** Plantae — **Family:** Gentianaceae — **Genus:** Gentiana — **Section:** Gentiana
-
-Gentiana punctata was described by Carl Linnaeus in 1753 in Species Plantarum. It belongs to Gentiana section Gentiana, which includes the commercially important [[gentiana-lutea]].
+The species is protected in several European countries due to overharvesting for medicinal purposes. [[gentiana-lutea]].
 
 The plant grows 30–60 cm tall with erect, unbranched stems arising from a short, thick rhizome. Leaves are ovate-lanceolate, 5–12 cm long, with 5–7 prominent parallel veins.
 
@@ -56,13 +50,9 @@ The species grows at elevations of 1,500–2,600 meters, occupying subalpine and
 
 In the Swiss Alps, Gentiana punctata is a characteristic species of the alliance Caricion ferrugineae, which includes species-rich calcareous grassland communities. It frequently co-occurs with Carex sempervirens and Sesleria caerulea.
 
-The species requires reliable moisture throughout [[query-how-to-protect-plants-from-frost-and-extend-the-growing-season]] and does not tolerate prolonged drought. Snow cover provides critical insulation during winter months, protecting the rhizome from freeze-desiccation.
+The species requires reliable moisture throughout [[fungal-biogeography-distribution-patterns]]. Populations on north-facing slopes tend to be more robust and numerous than those on south-facing exposures.
 
-Populations have declined in some areas due to habitat loss from ski resort development and intensive alpine grazing. The species is listed as near threatened in Austria and is protected in Switzerland.
-
-Microclimate plays an important role in local [[fungal-biogeography-distribution-patterns]]. Populations on north-facing slopes tend to be more robust and numerous than those on south-facing exposures.
-
-The species shows high [[biodiversity-fungal-genetic-diversity]] across Alpine populations, with distinct regional genotypes identified through molecular markers. This diversity is important for [[endangered-fungi-and-conservation-strategies]].
+The species shows high [[endangered-fungi-and-conservation-strategies]].
 
 ## Cultivation
 
@@ -87,3 +77,73 @@ The species is occasionally grown in botanical garden alpine collections for its
 Gentiana punctata has been used as a bitter tonic in European folk medicine for centuries. The rhizomes and roots contain gentiopicrin, swertiamarin, and amarogentin — secoiridoid glycosides responsible for the intensely bitter taste.
 
 Traditional preparations include alcoholic tinctures and decoctions used to stimulate appetite and improve digestion. The species was historically a substitute or adulterant for the official drug Gentianae radix (from Gentiana lutea).
+
+## Overview
+
+Gentiana Punctata represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish gentiana punctata
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving gentiana extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Gentiana Punctata finds practical application in multiple design contexts.
+[[permaculture-principles]] guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for gentiana punctata. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+gentiana punctata and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Gentiana Punctata has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of gentiana punctata into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.

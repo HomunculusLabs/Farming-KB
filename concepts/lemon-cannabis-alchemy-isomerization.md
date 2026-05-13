@@ -11,8 +11,7 @@ type: concept
 
 # Isomerization of Cannabis Oil
 
-Chapter 2 of *[[lemon-cannabis-alchemy-advanced-refinement-techniques]]* by [[lemon-cannabis-alchemy-thc-extraction-purification]]
-- [[lemon-cannabis-alchemy-hashing-and-extraction]]
+Chapter 2 of *[[lemon-cannabis-alchemy-thc-extraction-purification]]
 - [[lemon-cannabis-alchemy-tinctures-and-edibles]]
 ## Background and Context
 

@@ -9,25 +9,13 @@ created: 2026-05-08
 
 ## Overview
 
-[[rick-strassman]], Benny Shanon, and others have reported encounters with similar entities, spaces, and informational content.
-
-The consistency extends across cultural contexts: Westerners with no exposure to shamanic traditions report experiences that closely parallel indigenous descriptions of spirit worlds.
-
-This consistency is difficult to explain if the experiences are merely idiosyncratic products of individual psychology or cultural expectation.
-
-The repeatability of the phenomenology suggests that DMT is reliably accessing something real, whether that something is internal or external, psychological or ontological.
-
-McKenna cites this consistency as one of the strongest arguments for taking the [[mckenna-dmt-experience-and-hyperspace]] seriously as a source of knowledge about the nature of consciousness and reality.
+[[mckenna-dmt-experience-and-hyperspace]] seriously as a source of knowledge about the nature of consciousness and reality.
 
 ## See Also
 
-- [[mckenna-dmt-onset-phenomenology-and-mode-shift-experience]]
-
 - [[tryptamine-hypercontinuum]]
 
-- dmt [[mckenna-dmt-i-thou-relationship-entity-encounter-ethics]] phenomenology
-
-- [[mckenna-tryptamine-consciousness-dmt-spirit-molecule]]
+- dmt [[mckenna-tryptamine-consciousness-dmt-spirit-molecule]]
 ## Practical Applications
 
 DMT Onset Phenomenology and Mode Shift has a range of practical applications that make it relevant to
@@ -96,8 +84,6 @@ through generations to modern scientific approaches, the evolution continues
 to inform current best practices and research directions.
 
 ## See Also
-- [[dmt]]
 - [[mckenna-dmt-onset-phenomenology-and-mode-shift-experience]]
-- [[doc]]
 - [[det]]
 - [[tryptamine]]

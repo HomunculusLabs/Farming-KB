@@ -8,7 +8,7 @@ aliases: [Psilocybe Fanaticus TEK, brown rice mushroom cultivation, vermiculite 
 
 # PF TEK Cultivation Method
 
-The **PF TEK** (Psilocybe Fanaticus Technique) is a revolutionary mushroom cultivation method created by Robert "Psilocybe Fanaticus" McPherson and publicly released in 1992. Originally marketed as a commercial kit through High Times Magazine classifieds starting in September 1991, the complete TEK was published in 1992, making the kit form obsolete. The PF TEK is recognized as the most influential and widely copied amateur mushroom cultivation technique ever developed, enabling easy growing of *Psilocybe cubensis* using common kitchen utensils and readily available supplies.
+The **[[pf-tek]]** (Psilocybe Fanaticus Technique) is a revolutionary mushroom cultivation method created by Robert "Psilocybe Fanaticus" McPherson and publicly released in 1992. Originally marketed as a commercial kit through High Times Magazine classifieds starting in September 1991, the complete TEK was published in 1992, making the kit form obsolete. The PF TEK is recognized as the most influential and widely copied amateur mushroom cultivation technique ever developed, enabling easy growing of *Psilocybe cubensis* using common kitchen utensils and readily available supplies.
 
 ## Overview of the PF Method
 
@@ -143,8 +143,6 @@ Despite its influence, the PF TEK has known limitations:
 
 ## See Also
 
-- [[vermiculite-brown-rice-substrate]]
 - [[spore-syringe-inoculation]]
-- [[mushroom-drying-preservation]]
 - [[dual-chambered-terrarium]]
 - [[psilocybe-cubensis]]

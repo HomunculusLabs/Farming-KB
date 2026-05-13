@@ -10,15 +10,7 @@ tags: [gasteromycetes, puffball, earthstar, birds-nest-fungus, sphaerobolus, spo
 
 # Gasteromycete Fungi — Puffballs, Earthstars, and Bird's Nest Fungi
 
-The gasteromycetes are a section of the [[singh-basidiomycete-fungi-in-petroleum-hydrocarbon-cleanup]] distinguished by
-their internal spore formation. Their name derives from Greek: gaster means
-stomach and mycetes means fungi — literally, stomach fungi. Unlike conventional
-mushrooms whose spores develop on exposed gills, pores, or spines, gasteromycetes
-enclose their spore-producing tissue within a protective outer wall. This
-seemingly simple developmental difference has given rise to what Nicholas Money
-calls "a circus of mechanisms for dispersing their spores," rivaling the
-inventiveness of any other group of organisms in the fungal kingdom. Along with
-the [[stinkhorn-fungi-and-insect-spore-dispersal]], the gasteromycetes
+The gasteromycetes are a section of the [[stinkhorn-fungi-and-insect-spore-dispersal]], the gasteromycetes
 represent the pinnacle of fungal reproductive engineering.
 
 ## Classification: A Ragbag Rather Than a Natural Group
@@ -44,7 +36,7 @@ gleba. When mature, the outer wall (peridium) develops an aperture at the top,
 and raindrops or physical disturbance trigger the release of spore clouds that
 can resemble smoke. The common meadow puffball, Lycoperdon perlatum, is
 widespread in grasslands and forests across temperate regions. Some puffballs
-form [[bloomfield-fairy-rings-armillaria-giant-fungi]] on prairies, and among certain North [[harner-american-indian-peyote-rituals]] peoples
+form [[harner-american-indian-peyote-rituals]] peoples
 these circular growths were referred to as "fallen stars." The Mexican
 ethnomycological tradition also includes puffballs, with Lycoperdon perlatum
 forming fairy rings in grasslands and being used in traditional medicine by
@@ -62,32 +54,7 @@ places the spore release point at a greater height, improving wind dispersal.
 The species Geastrum fornicatum is a notable example. The star-like opening
 mechanism is triggered by moisture from rain or morning dew, which softens the
 outer wall and causes it to split along predetermined lines. The folding-back
-action is irreversible, so each [[comparison-fruiting-body-vs-mycelium-extracts-medicinal-mushrooms]] has a single opportunity to
-position itself for spore release.
-
-## Bird's Nest Fungi: A Two-Stage Dispersal System
-
-Bird's nest fungi (Cyathus species) have evolved one of the most elaborate
-dispersal strategies in the fungal kingdom. Their tiny fruiting bodies are
-shaped like miniature champagne flutes or goblets, typically only a few
-millimeters across. Inside each cup are several small egg-shaped packets of
-spores called peridioles. When a raindrop strikes the cup at the right angle
-and velocity, it splashes one or more peridioles out of the nest and onto
-surrounding blades of grass. This splash-cup mechanism has been studied
-extensively by physicists and biologists for its remarkable efficiency. The
-peridioles are coated with a sticky substance that ensures they adhere firmly
-to the grass. The second stage of dispersal occurs when herbivores —
-typically cattle, sheep, or deer — graze on the contaminated grass and consume
-the peridioles. The spores pass through the animal's digestive system and are
-deposited in dung, which provides an ideal nutrient-rich substrate for the
-fungus to colonize. Cow feces thus offer perfect residence for a young bird's
-nest fungus, completing a dispersal cycle that exploits both the kinetic energy
-of rain and the digestive processes of grazing animals.
-
-## Sphaerobolus: The Cannonball Fungus
-
-Among the most mechanically sophisticated of all gasteromycetes is
-Sphaerobolus, commonly known as the cannonball fungus or [[bloomfield-sphaerobolus-artillery-fungus-spore-launch]]. This
+action is irreversible, so each [[bloomfield-sphaerobolus-artillery-fungus-spore-launch]]. This
 
 ## Practical Applications
 
@@ -118,8 +85,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[gasteromycete-fungi]]
 - [[dom]]
-- [[det]]
 - [[nicholas-money]]
 - [[spore]]

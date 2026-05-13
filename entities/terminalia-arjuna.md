@@ -44,15 +44,8 @@ Its bark remains one of the most commercially significant Ayurvedic raw material
 | Species | T. arjuna |
 
 The species was originally described by the Scottish botanist William Roxburgh in 1814 in his *Flora Indica*.
-The genus Terminalia comprises approximately 250 species of [[nitrogen-fixing-trees-and-shrubs]] distributed across [[fukuoka-natural-farming-in-tropical-regions]].
-Several other Terminalia species are medicinally important, including [[terminalia-chebula]] (Haritaki) [[terminalia-bellirica]] rica (Bibhitaki), which together w [[emblica-officinalis]] alis form the Ayurvedic formulation Triphala.
-The specific epithet "arjuna" derives from Sanskrit, named after the legendary warrior Arjuna of the Mahabharata.
-Botanical synonyms include Terminalia berryi and Pentaptera arjuna.
-
-## Morphology
-
-Terminalia arjuna is a large, evergreen to briefly deciduous tree that typically reaches heights of 20 to 30 meters, occasionally attaining up to 35 meters under favorable conditions.
-The trunk is massive, often reaching 2 to 3 meters in diameter, with prominent buttressed roots that provide [[comparison-silicon-vs-calcium-in-plant-defense-and-structural-support]] in the moist, riverine habitats where it commonly grows.
+The genus Terminalia comprises approximately 250 species of [[fukuoka-natural-farming-in-tropical-regions]].
+Several other Terminalia species are medicinally important, including [[terminalia-bellirica]] rica (Bibhitaki), which together w [[comparison-silicon-vs-calcium-in-plant-defense-and-structural-support]] in the moist, riverine habitats where it commonly grows.
 The crown is spreading and forms a dense canopy that provides substantial shade.
 The bark is the most distinctive and medicinally important feature of the tree.
 It is smooth, thick, and grey-pink to pinkish-brown in color, exfoliating in large, thin, papery sheets.
@@ -66,25 +59,90 @@ Flowers are small, sessile, and creamy-white to pale yellow, borne in dense axil
 Each flower has a cupular calyx with five lobes, absent petals, and ten stamens in two whorls.
 Flowering typically occurs from March to June, though timing varies with geography and local climate.
 The fruit is a drupaceous, five-winged nut, 2.5 to 5 cm in diameter, pale green when immature and turning brown or reddish-brown at maturity.
-The five wings are fibrous and papery, aiding in wind dispersal, and each fruit contains a [[cervantes-selfing-single-seed-descent]] enclosed in a hard endocarp.
-Fruiting generally occurs from September to November.
-
-## Distribution and Habitat
-
-Terminalia arjuna is native to the Indian subcontinent, distributed widely along riverbanks and in moist deciduous forests throughout peninsular and central India, the sub-Himalayan tracts, and the Gangetic plains.
-It is particularly abundant along the banks of the Ganges, Yamuna, Godavari, Narmada, and other major rivers, where it forms a characteristic component of riparian forest communities.
-Beyond India, the species is found naturally in Sri Lanka, Bangladesh, and Myanmar.
-It has been introduced and cultivated in various tropical and subtropical regions including Thailand, Indonesia, Malaysia, the Philippines, and parts of Africa.
-The tree thrives in alluvial soils along riverbanks and in moist deciduous forests at elevations up to approximately 1,200 meters.
-It prefers well-drained, loamy to sandy-loam soils and is notably tolerant of periodic waterlogging, a trait suited to its natural riparian habitat.
-It is moderately drought-hardy once established but can be damaged by prolonged freezing temperatures.
-
-## Traditional Use
-
-The therapeutic use of Terminalia arjuna bark is deeply rooted in Ayurvedic medicine, with references dating back over 2,500 years.
-It is one of the few Ayurvedic herbs specifically classified as a cardiotonic, occupying a unique position in the classical texts as the preeminent remedy for cardiovascular conditions.
-The Charaka Samhita, compiled around 400-200 BCE, classifies arjuna among the drugs used for wound healing and as an astringent, listing it among the "lodhra" group of plants.
-The Sushruta Samhita (approximately 600 BCE) describes the use of arjuna bark powder for treating wounds, fractures, and hemorrhages, recommending it both topically and internally.
-Vagbhata, author of the Ashtanga Hridaya (7th century CE), specifically recommended arjuna for conditions of the heart, describing its use for "hridroga" (heart disease) and wounds of the heart — one of the earliest known references to a botanical treatment targeted at cardiac pathology.
-A notable [[kava-traditional-preparation-ceremonial-context]] is arjuna kshara, an alkaline extract produced by burning the bark and dissolving the resulting white ash in water, historically used for abdominal tumors, urinary disorders, and metabolic conditions.
+The five wings are fibrous and papery, aiding in wind dispersal, and each fruit contains a [[kava-traditional-preparation-ceremonial-context]] is arjuna kshara, an alkaline extract produced by burning the bark and dissolving the resulting white ash in water, historically used for abdominal tumors, urinary disorders, and metabolic conditions.
 The bark was also boiled in milk to prepare "arjuna ksheerapaka," a decoction believed to be particularly effective as a heart tonic and nervine.
+
+## Overview
+
+Terminalia Arjuna represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish terminalia arjuna
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving terminalia extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Terminalia Arjuna finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for terminalia arjuna. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+terminalia arjuna and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Terminalia Arjuna has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of terminalia arjuna into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[terminalia-bellerica]]
+- [[terminalia-catappa]]
+- [[terminalia-chebula]]
+- [[terminalia-ferdinandiana]]
+- [[terminalia-mollison]]

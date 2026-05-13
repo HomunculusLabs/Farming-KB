@@ -6,35 +6,7 @@ type: concept
 
 ## Overview
 
-Event classification and pattern unity form a foundational framework in [[permaculture]] for understanding how all phenomena in the natural world relate to one another. This system provides a universal language for describing events — from the growth of a seedling to the eruption of a volcano — through a shared set of categories. By classifying events along multiple axes, designers gain the ability to perceive the deep connections between seemingly disparate processes and to recognize that all natural phenomena are expressions of a single, underlying master pattern.
-
-## The Event Classification System
-
-Every event in nature can be annotated using four complementary axes: Nature, Stage, Dimension, and Location. Together, these axes produce a compact designation that captures the essential character of any phenomenon.
-
-### A. Nature — What Kind of Event Is Occurring?
-
-The Nature axis describes the intrinsic quality or character of the event.
-
-- **A1 — Explosive / Disintegration / Erosion / Impact**: Events that break down, release energy, or cause physical disruption. Examples include landslides, explosions, coastal erosion, and meteor impacts.
-- **A2 — Growth / Integration / Construction / Translation**: Events that build, assemble, or transform energy into structured form. Examples include plant growth, soil formation, and the weaving of a spider's web.
-- **A3 — Conceptual / Idea / Creative Thought / Insight**: Events that occur in the realm of thought, inspiration, or abstract understanding. This category acknowledges that ideas and insights are real events with tangible consequences in the world.
-
-### B. Stage — Where Is the Event in Its Life Cycle?
-
-The Stage axis places the event along a temporal arc from latent potential through active expression to eventual decay.
-
-- **B1 — Potential Only**: The event exists as latent possibility — a seed in dormancy, an unlit fuse, an idea not yet acted upon.
-- **B2 — In Process of Evolution**: The event is actively unfolding, changing, or developing toward its completed form.
-- **B3 — Completed**: The event has reached its fully expressed state — a mature forest canopy, a finished structure, a realized design.
-- **B4 — Decaying / Disintegrative**: The event is in decline, releasing stored energy and materials back into the broader system.
-
-### C. Dimension — What Spatial or Temporal Form Does the Event Take?
-
-The Dimension axis classifies the geometric or topological character of the event.
-
-- **C1 — One (Linear)**: Events that proceed along a single axis — a root tip pushing downward, water flowing in a channel, a thought following a chain of logic.
-- **C2 — Two (Surface / Tessellae / Dendrites)**: Events that spread across a plane — [[mycelial-networks]], ripples on water, branching river systems viewed from above.
+Event classification and pattern unity form a foundational framework in [[mycelial-networks]], ripples on water, branching river systems viewed from above.
 - **C3 — Three (Solid / Trees)**: Events that occupy volume — a standing tree, a boulder, a soil profile.
 - **C4 — Four (Moving Solid + Time)**: Events that involve a three-dimensional object changing through time — a falling boulder, a growing organism, a migrating herd.
 - **C5 — More (Conceptual / Models of Particles)**: Events that transcend conventional spatial dimensions — ecosystem models, theoretical frameworks, multi-variable interactions.
@@ -117,3 +89,11 @@ The physicist David Bohm proposed that all things are **projections of a single 
 **Pattern is design, and design is the subject of permaculture.** The event classification system and the philosophy of pattern unity together provide the conceptual foundation upon which all [[permaculture-design]] rests. By learning to see every phenomenon as an event with a nature, a stage, a dimension, and a location — and by recognizing that all events are expressions of a single, unifying pattern — the designer gains the ability to create systems that are in harmony with the deepest principles governing life on Earth.
 
 The journey from observation to classification to pattern recognition to design is, in essence, the journey of permaculture itself. It begins with paying attention, proceeds through systematic understanding, and culminates in the creative act of shaping systems that sustain and regenerate the living world.
+
+## See Also
+
+- [[event-classification-and-time-in-pattern-models]]
+- [[event-classification-and-orders-of-magnitude]]
+- [[pattern-classification-and-unified-event-taxonomy]]
+- [[indole-hallucinogen-classification]]
+- [[psilocybe-genus-classification]]

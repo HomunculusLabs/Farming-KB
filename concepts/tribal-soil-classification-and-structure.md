@@ -6,22 +6,7 @@ type: concept
 
 # Tribal Soil Classification and Structure
 
-Indigenous and traditional societies have developed remarkably sophisticated systems for classifying soils, often far more practical for local agriculture than modern taxonomic approaches. [[bill-mollison]] draws on research from *The Ecologist* 14(4), 1984 to illustrate the depth of tribal soil knowledge, and connects it to the physical science of soil structure.
-
-## Indigenous Soil Classification Systems
-
-Traditional soil classifiers evaluate a wide range of characteristics that reflect deep ecological understanding:
-
-- **Colour** — indicates humus content; darker soils are typically richer in organic matter
-- **Taste** — a practical proxy for pH (sour soils are acidic, bitter or sweet may indicate alkalinity)
-- **Moisture capacity** — how well a soil retains water for crop growth
-- **Sand content and texture** — felt by hand, determines drainage and workability
-- **Firmness** — resistance to pressure, related to compaction and clay content
-- **Structure** — how soil behaves in dry versus wet seasons, its cracking or binding patterns
-- **Vegetative indicators** — the plants growing on or near a soil reveal its qualities
-- **Drainage and slope** — topographic position and water movement through the profile
-- **Elevation** — altitude affects temperature, rainfall, and vegetation belts
-- **Animal indicators** — termite mounds, worm activity, and other signs of [[soil-life]]
+Indigenous and traditional societies have developed remarkably sophisticated systems for classifying soils, often far more practical for local agriculture than modern taxonomic approaches. [[soil-life]]
 - **Plant indicators** — specific plants signal acidity, drainage conditions, or fertility levels
 - **Catena** — the relationship of soils along a slope sequence, from ridge to valley
 - **"Hot" and "cold" soils** — relative fertility ratings; hot soils are productive, cold soils are poor
@@ -45,13 +30,13 @@ Soil structure depends on the arrangement of particles into aggregates (nodules 
 - **Root networks** — living and decaying roots bind soil particles
 - **Clay minerals** — provide plasticity and electrochemical bonding
 - **Chemical bonds** — calcium, iron, and aluminium oxides act as cements
-- **Organic glues and fibres** — humus, polysaccharides, and fungal hyphae
+- **Organic glues and fibres** — humus, polysaccharides, and [[fungal-hyphae]]
 
 Uncompacted, healthy soils are open, crumbly, or soft. Compacted soils require either plasticity from clay content or glue and fibre from organic sources to maintain structure.
 
 ### Threats to Soil Structure
 
-Mechanical tillage with ploughs and harrows can powder fragile soil assemblies, destroying the crumb structure that took years to develop. Once broken down, soils become prone to erosion, compaction, and surface sealing.
+Mechanical tillage with ploughs and harrows can powder fragile soil assemblies, destroying the [[crumb-structure]] that took years to develop. Once broken down, soils become prone to erosion, compaction, and surface sealing.
 
 ## The Soil Mantle
 
@@ -121,6 +106,5 @@ Particles settle by size: sand falls first (within 1–2 minutes), then silt (wi
 - Surface area, not just particle size, determines soil chemical behaviour
 
 ## See Also
-- [[mollison-tribal-soil-classifications-and-soil-structure]]
 - [[soil-structure-classification]]
 - [[soil-classification-and-structure]]

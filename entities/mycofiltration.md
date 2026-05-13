@@ -24,7 +24,7 @@ created: 2026-05-07
 
 # Mycofiltration
 
-**Mycofiltration** is the use of **fungal mycelium** as a biological filtration medium to remove contaminants from water, soil, and air. Pioneered and popularized by mycologist **Paul Stamets**, mycofiltration harnesses the natural metabolic capabilities of saprotrophic and endophytic fungi to break down, sequester, or immobilize a wide range of pollutants including bacteria, heavy metals, hydrocarbons, pesticides, and excess nutrients. The technique is a cornerstone of **mycoremediation** and represents a low-cost, sustainable alternative to conventional filtration and water treatment infrastructure.
+**Mycofiltration** is the use of **fungal mycelium** as a biological filtration medium to remove contaminants from water, soil, and air. Pioneered and popularized by mycologist **[[paul-stamets]]**, mycofiltration harnesses the natural metabolic capabilities of saprotrophic and endophytic fungi to break down, sequester, or immobilize a wide range of pollutants including bacteria, heavy metals, hydrocarbons, pesticides, and excess nutrients. The technique is a cornerstone of **mycoremediation** and represents a low-cost, sustainable alternative to conventional filtration and water treatment infrastructure.
 
 ## Principles of Mycofiltration
 
@@ -44,7 +44,6 @@ Fungal mycelium is a dense, branching network of tubular hyphae that functions a
 |---------|------------|-----------|
 | *Pleurotus ostreatus* (Oyster) | General filtration, hydrocarbons | Enzymatic degradation |
 | *Stropharia rugosoannulata* (Wine Cap) | E. coli, coliforms | Antibacterial metabolites, physical trapping |
-| *[[stamets-reishi-ganoderma-lucidum-cultivation]]* (Reishi) | Heavy metals, organics | Chitin binding, enzymatic profile |
 | *[[growing-gourmet-turkey-tail-trametes-versicolor-cultivation]]* (Turkey Tail) | PAHs, dyes, pharmaceuticals | Laccase and peroxidase secretion |
 | *Lentinula edodes* (Shiitake) | Pesticides, chlorinated compounds | Peroxidase enzymes |
 
@@ -64,16 +63,6 @@ Stamets' 2004 study demonstrated *Stropharia rugosoannulata* beds reduced *E. co
 
 - **Bioswales:** Mycelium-inoculated swales enhance pollutant removal from road runoff
 - **Rain gardens:** Mycorrhizal inoculation improves infiltration and contaminant capture
-- **[[comparison-constructed-wetlands-vs-bioswales]]:** Fungal-augmented wetlands show enhanced heavy metal and hydrocarbon removal
-
-### 3. Wastewater Treatment
-
-- **Primary/secondary treatment:** Mycofiltration beds can supplement conventional biological treatment stages
-- **Tertiary treatment:** White-rot fungi (*Trametes versicolor*, *Pleurotus* spp.) remove residual pharmaceuticals, endocrine disruptors, and microplastics
-- **Decentralized systems:** Small-scale units for rural, off-grid, or developing-world applications
-
-### 4. Industrial Effluent
-
 - **[[staycare-fungal-treatment-of-textile-industry-wastewater]]:** Decolorization of dye-laden wastewater using laccase-producing fungi
 - **Paper/pulp industry:** [[singh-fungal-degradation-of-chlorinated-compounds]] lignin byproducts
 - **Mining:** Heavy metal sequestration from acid mine drainage
@@ -88,3 +77,73 @@ Stamets' 2004 study demonstrated *Stropharia rugosoannulata* beds reduced *E. co
 4. **Mycelium inoculation:** Spawn at 10–20% by volume
 5. **Surface layer:** Straw mulch or wood chip cover
 6. **Water distribution:** Perforated pipe or level spreader
+
+## Overview
+
+Mycofiltration represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish mycofiltration
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving mycofiltration extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Mycofiltration finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for mycofiltration. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+mycofiltration and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Mycofiltration has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of mycofiltration into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.

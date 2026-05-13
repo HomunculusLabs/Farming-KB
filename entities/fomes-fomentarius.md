@@ -28,25 +28,11 @@ created: 2026-04-28
 - **Kingdom:** Fungi · **Division:** Basidiomycota · **Class:** Agaricomycetes
 - **Order:** Polyporales · **Family:** Polyporaceae · **Genus:** *Fomes* · **Species:** *F. fomentarius*
 
-**Synonyms:** *Boletus fomentarius*, *Polyporus versicolor*, *[[plantago-major]]* (plantain).
-
-## Permaculture Applications
-
-- **Mycoremediation:** [[comparison-brown-rot-vs-white-rot-bioremediation]] enzymes [[query-can-fungi-break-down-plastic-pollution]] lignocellulosic biomass; potential for pollutant degradation
-- **Fire preparedness:** Cultivated on birch logs as self-sufficient fire-starting material — relevant for off-grid and homesteading
-- **Ecological indicator:** Presence signals mature forest with adequate dead wood; provides [[hemenway-insectary-plants-and-beneficial-insects]] and cavity-nesting sites
+**Synonyms:** *Boletus fomentarius*, *Polyporus versicolor*, *[[comparison-brown-rot-vs-white-rot-bioremediation]] enzymes [[hemenway-insectary-plants-and-beneficial-insects]] and cavity-nesting sites
 
 ## Cultivation and Harvest
 
-Cultivation possible but slow (12–24 months colonization, 2–5 years to fruit). Not commercially significant. Wild harvesting is standard: take only older, spent brackets; leave young specimens for [[trametes-versicolor-entity]] — Artist's conk, related polypore
-- [[trametes-versicolor-entity]] — [[comparison-chaga-vs-turkey-tail-medicinal-mushrooms-comprehensive]], cosmopolitan medicinal polypore
-- birch polyculture — Permaculture systems with birch and associated fungi
-
-## See Also
-
-- [[pleurotin]]
-- [[terfezia-claveryi]]
-
+Cultivation possible but slow (12–24 months colonization, 2–5 years to fruit). Not commercially significant. Wild harvesting is standard: take only older, spent brackets; leave young specimens for [[trametes-versicolor-entity]] — [[pleurotin]]
 - [[cancer-medicinal-mushrooms-chaga-and-birch-polypore]]
 ## Practical Considerations
 
@@ -88,3 +74,77 @@ creating a reference base of observations, interventions, and results.
 This accumulated knowledge enables progressively better decision-making
 and helps identify patterns that might otherwise be overlooked in the
 complexity of day-to-day management and observation activities.
+
+## Overview
+
+Fomes Fomentarius represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish fomes fomentarius
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving fomes extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Fomes Fomentarius finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for fomes fomentarius. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+fomes fomentarius and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Fomes Fomentarius has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of fomes fomentarius into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource

@@ -16,9 +16,7 @@ type: concept
 
 # Green Manure Crops and Cover Cropping
 
-Green manure is a crop grown specifically to add [[hamilton-composting-and-organic-matter-management]] to beds
-that are empty for a period of time. It is sown with the intention of
-digging it into the soil to provide [[savory-soil-organic-matter-and-decomposition-dynamics]] plant food. While
+Green manure is a crop grown specifically to add [[savory-soil-organic-matter-and-decomposition-dynamics]] plant food. While
 perhaps of more value to the large-scale farmer than the home gardener,
 there are situations when a green-manure crop is useful even in the
 small garden.
@@ -30,27 +28,8 @@ The soft green material rots down quickly, leaving a small amount of
 stable organic matter in the soil. On soils short of organic matter,
 anything must be a bonus. This addition of organic matter also increases
 the amount of biological activity in the soil, and the roots serve to
-break it up and improve [[hamilton-composting-and-organic-matter-management]]
-- [[hamilton-three-year-crop-rotation]]
-- [[hamilton-mulching-materials-and-techniques]]
-## Practical Applications
-
-Green Manure Crops and Cover Cropping has a range of practical applications that make it relevant to
-both researchers and practitioners. Understanding these applications
-requires familiarity with the underlying principles and their
-manifestation in real-world contexts. The breadth of applications
-reflects the fundamental importance of this topic across disciplines.
-
-Implementation varies based on scale, available resources, and
-specific objectives. Small-scale applications may be relatively
-straightforward, while larger implementations require more careful
-planning and coordination. Adaptation to local conditions is always
-essential for achieving optimal results regardless of scale.
-
-Documented case studies provide valuable reference points, though
-each situation presents unique combinations of opportunities and
-constraints that require context-specific solutions. The most
-successful implementations combine established [[arbuscular-mycorrhizal-inoculum-production-best-practices]] with
+break it up and improve [[hamilton-three-year-crop-rotation]]
+- [[arbuscular-mycorrhizal-inoculum-production-best-practices]] with
 creative adaptation to local conditions and emerging challenges.
 
 ## Key Considerations
@@ -97,8 +76,6 @@ through generations to modern scientific approaches, the evolution continues
 to inform current best practices and research directions.
 
 ## See Also
-- [[green-manure-crops]]
 - [[cover-crop]]
-- [[mollison-designers-cover-crops-and-green-manure-species]]
 - [[doc]]
 - [[det]]

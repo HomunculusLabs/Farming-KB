@@ -1,13 +1,6 @@
 ---
 title: Neurotropic Fungi Taxonomic Groups Classification
-source: Guzmán, Allen & Gartz "Worldwide [[psilocybe-geographical-distribution-patterns]] of the Neurotropic Fungi" (1998)
----
-
-# Neurotropic Fungi Taxonomic Groups Classification
-
-## Overview
-
-The neurotropic fungi comprise approximately 216 species distributed across four major chemical and cultural groups. This classification, as established by Guzmán, Allen, and Gartz (1998), categorizes these fungi based on their active compounds, ethnobotanical significance, and the degree to which their chemical composition has been confirmed through laboratory analysis. The taxonomy of neurotropic fungi remains a dynamic field, with ongoing revisions as new species are described and chemical analyses either confirm or challenge earlier reports. Understanding this classification is essential for mycologists, ethnobotanists, and researchers studying the [[global-distribution-of-neurotropic-fungi]] psychoactive fungi.
+source: Guzmán, Allen & Gartz "Worldwide [[global-distribution-of-neurotropic-fungi]] psychoactive fungi.
 
 ## Group 1: Psilocybin and Indole-Containing Fungi
 
@@ -15,15 +8,9 @@ The largest and most chemically characterized group consists of fungi containing
 
 ### Genus Psilocybe
 
-[[psilocybe-cubensis]] is by far the dominant genus, with 116 species confirmed to contain psilocybin and related indole alkaloids. These species are distributed globally but show strong tropical and subtropical affinities. The genus belongs to the family Strophariaceae and is characterized by small to medium-sized mushrooms with spore prints ranging from dark purple-brown to nearly black. Many Psilocybe species exhibit a characteristic blue bruising reaction when handled or damaged, caused by the oxidation of psilocin.
-
-### Other Psilocybin-Containing Genera
-
-Beyond Psilocybe, psilocybin has been confirmed in the following genera, listed in approximate order of species richness:
-
-- [[gymnopilus-earlei]]: 14 species containing psilocybin, belonging to the Cortinariaceae
+[[gymnopilus-earlei]]: 14 species containing psilocybin, belonging to the Cortinariaceae
 - Panaeolus: 13 species, including several formerly classified separately
-- [[copelandia-anomalus]]: 12 species, sometimes treated as a subgenus or section of Panaeolus. See [[copelandia-panaeoloideae-neurotropic-fungi-taxonomy-distribution]]
+- [[copelandia-panaeoloideae-neurotropic-fungi-taxonomy-distribution]]
 - Hypholoma: 6 species within the Strophariaceae
 - Pluteus: 6 species in the Pluteaceae
 - Inocybe: 6 species in the Cortinariaceae
@@ -36,15 +23,7 @@ Beyond Psilocybe, psilocybin has been confirmed in the following genera, listed 
 
 ### The Bluing Reaction
 
-The blue bruising reaction is one of the most widely recognized field indicators of psilocybin-containing fungi. When the flesh of certain mushrooms is bruised, cut, or otherwise damaged, a distinctive blue to blue-green coloration develops within minutes. This reaction results from the enzymatic oxidation of psilocin and related [[aact-tannins-terpenes-phenolic-compounds-wood-composting-ingham]]. However, the bluing reaction is not universal among all psilocybin-containing species, nor is it exclusive to them, making it an imperfect but useful field characteristic for preliminary identification.
-
-## Group 2: Ibotenic Acid-Containing Fungi
-
-This group consists of three species in the genus Amanita that contain ibotenic acid and muscimol as their primary psychoactive compounds. The chemistry of these fungi is fundamentally distinct from the indole alkaloids of Group 1.
-
-### Species
-
-- [[amanita-muscaria]]: The iconic fly agaric, perhaps the most recognizable mushroom in the world. Red cap with white warts, widely distributed across temperate and boreal regions of the Northern Hemisphere in association with birch and pine.
+The blue bruising reaction is one of the most widely recognized field indicators of psilocybin-containing fungi. When the flesh of certain mushrooms is bruised, cut, or otherwise damaged, a distinctive blue to blue-green coloration develops within minutes. This reaction results from the enzymatic oxidation of psilocin and related [[amanita-muscaria]]: The iconic fly agaric, perhaps the most recognizable mushroom in the world. Red cap with white warts, widely distributed across temperate and boreal regions of the Northern Hemisphere in association with birch and pine.
 - Amanita pantherina: The panther cap, similar in appearance but generally more toxic.
 - Amanita regalis: The brown fly agaric, a less common species.
 
@@ -52,11 +31,7 @@ Unlike the psilocybin-containing fungi, these Amanita species do not produce a b
 
 ## Group 3: Ergot Fungi
 
-This group includes species of [[ergot-fungi-claviceps-and-cordyceps-as-neurotropic-organisms]] that contain ergot alkaloids, including ergine (lysergic acid amide, LSA) and related compounds.
-
-### Claviceps
-
-Five species of Claviceps have been identified as containing psychoactive ergot alkaloids. These fungi are primarily known as parasites of grasses and cereals. See [[cordyceps-claviceps-sacred-neurotropic-fungi-mexico]] for a discussion of their ethnobotanical significance in traditional Mexican practices.
+This group includes species of [[cordyceps-claviceps-sacred-neurotropic-fungi-mexico]] for a discussion of their ethnobotanical significance in traditional Mexican practices.
 
 ### Cordyceps
 
@@ -87,3 +62,88 @@ Many published chemical studies have been conducted on specimens that were later
 The alkaloid content of neurotropic fungi changes significantly with the age of the specimen and the method of preservation. Active compounds can degrade over time, particularly in dried [[herbarium-specimens-fungal-collections]]. Baeocystin, for example, has been shown to degrade within 20 to 60 days after collection, meaning that studies conducted on older herbarium material may significantly underestimate original alkaloid content in fresh specimens.
 
 ### Volatile Alkaloids
+
+## Overview
+
+Neurotropic Fungi Taxonomic Groups Classification represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish neurotropic fungi taxonomic groups classification
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving neurotropic extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Neurotropic Fungi Taxonomic Groups Classification finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for neurotropic fungi taxonomic groups classification. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+neurotropic fungi taxonomic groups classification and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Neurotropic Fungi Taxonomic Groups Classification has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of neurotropic fungi taxonomic groups classification into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[copelandia-panaeoloideae-neurotropic-fungi-taxonomy-distribution]]
+- [[guzman-allen-gartz-neurotropic-fungi-europe]]
+- [[guzman-global-distribution-patterns-neurotropic-fungi]]
+- [[neurotropic-fungi-new-guinea]]
+- [[psilocybe-aztecorum-section-aztecorum-alpine-neurotropic-fungi-guzman-1998]]

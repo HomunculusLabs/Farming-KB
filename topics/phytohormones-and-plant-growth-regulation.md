@@ -27,7 +27,7 @@ sources:
 
 # Phytohormones and Plant Growth Regulation
 
-Phytohormones (plant hormones) are naturally occurring [[fungal-volatile-organic-compounds-communication]] that [[query-how-do-phytohormones-regulate-plant-growth-and-stress-responses]], development, and responses to environmental stimuli at extremely low concentrations. Unlike animal hormones, which are typically produced in specialized glands, phytohormones can be synthesized in virtually any plant cell and often act locally or are transported to distant sites. Understanding phytohormone biology is fundamental to improving crop yields, managing plant stress, and developing sustainable growing practices.
+Phytohormones (plant hormones) are naturally occurring [[query-how-do-phytohormones-regulate-plant-growth-and-stress-responses]], development, and responses to environmental stimuli at extremely low concentrations. Unlike animal hormones, which are typically produced in specialized glands, phytohormones can be synthesized in virtually any plant cell and often act locally or are transported to distant sites. Understanding phytohormone biology is fundamental to improving crop yields, managing plant stress, and developing sustainable growing practices.
 
 ## Overview of Phytohormone Classes
 
@@ -108,42 +108,7 @@ Ethylene (C₂H₄) is the simplest plant hormone — a gaseous hydrocarbon prod
 - **Abscission:** Ethylene promotes the separation of leaves, flowers, and fruits from the plant by activating cell wall-degrading enzymes (polygalacturonases, cellulases) in the abscission zone.
 - **Flower senescence:** Ethylene accelerates the aging of cut flowers. Carnations, orchids, and petunias are particularly ethylene-sensitive.
 - **Triple response:** In dark-grown seedlings, ethylene inhibits stem elongation, promotes horizontal growth (diageotropism), and induces an apical hook — a set of responses that helps seedlings push through soil.
-- **[[mycelial-metabolite-excretion-stress-response-grain-jar-cultivation-guide]]:** Ethylene production increases dramatically in response to flooding (waterlogging), wounding, pathogen attack, and ozone exposure.
-
-**Ethylene Signaling:**
-Ethylene binds to membrane receptors (ETR1, ERS1, EIN4, ETR2, ERS2) that, in the absence of ethylene, activate a CTR1 kinase that suppresses downstream signaling. Ethylene binding inactivates the receptors, releasing suppression of EIN2, which activates EIN3/EIL1 transcription factors and ethylene-responsive gene expression.
-
-**Practical Applications:**
-- **Ethylene inhibitors:** 1-Methylcyclopropene (1-MCP, trade name EthylBloc) binds irreversibly to ethylene receptors and is used to extend shelf life of apples, cut flowers, and other produce
-- **Silver thiosulfate (STS):** Used in floriculture to block ethylene action and extend vase life
-- **AVG (aminoethoxyvinylglycine):** Inhibits ACC synthase, used to reduce pre-harvest fruit drop in apples
-- **Ethylene generators:** Ethephon (2-chloroethylphosphonic acid) releases ethylene when applied and is used for fruit ripening, abscission, and rubber tree latex flow stimulation
-
-### Abscisic Acid (ABA)
-
-**Chemistry and Biosynthesis:**
-ABA is a sesquiterpenoid (C₁₅) synthesized from carotenoids via the xanthophyll pathway. The key intermediate is violaxanthin, which is converted to neoxanthin and then to xanthoxin via NCED (9-cis-epoxycarotenoid dioxygenase). NCED is the rate-limiting enzyme and is strongly upregulated by water stress. ABA is also produced in roots in response to drying soil.
-
-**Physiological Roles:**
-- **Stomatal closure:** ABA is the primary hormone mediating drought response. When soil dries, ABA levels rise in roots and are transported to leaves via the xylem. ABA binds to guard cell receptors, triggering rapid ion efflux (particularly K⁺ and Cl⁻), loss of turgor, and stomatal closure — reducing transpirational water loss.
-- **Seed dormancy:** ABA maintains seed dormancy during embryogenesis. Dormancy is broken when ABA levels decline relative to GA levels during after-ripening or stratification. The ABA/GA ratio is a key determinant of the dormancy-to-germination transition.
-- **Desiccation tolerance:** ABA promotes the accumulation of late embryogenesis abundant (LEA) proteins, dehydrins, and osmoprotectants (proline, trehalose) that protect cellular structures during drying.
-- **Bud dormancy:** ABA contributes to the induction and maintenance of winter bud dormancy in temperate perennials.
-
-**ABA Signaling:**
-ABA is perceived by PYR/PYL/RCAR receptor proteins, which in the presence of ABA bind to and inhibit type 2C protein phosphatases (PP2Cs). This releases SnRK2 kinases to phosphorylate downstream targets including SLAC1 (anion channel) in guard cells and ABF transcription factors.
-
-**Practical Applications:**
-- **Abscisic acid analogs:** Although natural ABA is expensive, synthetic analogs and ABA-based products are emerging for use in reducing irrigation needs in horticulture
-- **Dormancy-breaking agents:** The interaction between ABA and GA is exploited commercially; gibberellic acid or hydrogen cyanamide is applied to break ABA-maintained bud dormancy in grapes, peaches, and other crops
-- **Stomatal antitranspirants:** Products like Vapor Gard (pinolene) form films on leaves to reduce transpiration, mimicking the effect of ABA-induced stomatal closure
-## See Also
-
-- [[plant-defense-chemistry-and-secondary-metabolites]] — [[antifungal-secondary-metabolites-coprophilous-fungi]] and their roles in plant defense
-- [[the-rhizosphere-ecology-and-plant-microbe-interactions]] — How root-zone microbes influence hormone signaling
-- [[microbial-inoculants-and-biological-soil-amendments]] — Biological products that modulate plant hormones
+- **[[plant-defense-chemistry-and-secondary-metabolites]] — [[the-rhizosphere-ecology-and-plant-microbe-interactions]] — How root-zone microbes influence hormone signaling
 - [[mycorrhizal-networks-and-the-wood-wide-web]] — Mycorrhizal effects on host plant hormone balance
-- [[integrated-pest-management-ipm]] — How hormone-mediated defense fits into IPM strategies
 - [[comparison-jasmonate-vs-salicylic-acid-defense-signaling]] — Detailed comparison of JA and SA defense pathways
-- [[endophytic-fungi-hidden-symbionts-within-plants]] — Endophytes that produce or modulate phytohormones
 - [[plant-propagation-techniques]] — Practical use of auxins for [[cannabis-cloning-rooting-cuttings-method-clarke]]

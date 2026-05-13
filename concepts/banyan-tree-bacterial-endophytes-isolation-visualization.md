@@ -15,18 +15,12 @@ type: concept
 
 Endophytic bacteria reside within plant tissues without causing substantive harm
 to their host. They may benefit the host through competition for habitat via
-antibiotic production, induction of [[growing-gourmet-agar-media-formulas-preparation]], dipping roots into nutrient broth, or
-streaking the final wash water onto nutrient agar. No growth from these controls
-confirms successful surface [[sterilization]].
+antibiotic production, induction of [[sterilization]].
 
 ## Cultivation of Endophytes
 
 Surface-sterilized root segments are placed on Luria agar and potato dextrose
-[[query-how-to-make-agar-plates-for-mushroom-cultivation]], spaced at least 2 cm apart. Plates are incubated at 30 plus or
-minus 2 degrees C and observed daily. Endophytes migrate from root tissue onto
-the media and begin colonizing. Bacterial growth is subcultured onto fresh media
-using sterile nichrome wire loops to obtain isolated colonies. Repeated
-subculturing ensures purity before screening for [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]].
+[[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]].
 
 Maceration is an alternative approach for recovering slow-growing endophytes.
 Surface-sterilized root tissue is homogenized in sterile buffer using a mortar
@@ -79,7 +73,6 @@ bacteria.
 
 ## See Also
 
-- [[mycorrhizal-helper-bacteria-mycorrhizosphere-interactions]]
 - [[fungal-diversity-arid-environments]]
 
 ## Practical Applications
@@ -111,8 +104,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[det]]
 - [[sterilization]]
-- [[mycorrhiza]]
 - [[bacterial-endophyte-isolation-detection-plant-roots]]
 - [[cannabis-endorhiza-core-community-bacterial-endophytes]]

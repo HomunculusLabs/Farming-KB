@@ -1,7 +1,5 @@
-# Psilocybin 5-HT2A [[plant-signaling-pathways]]y activate specific signaling pathways:
-
-- **[[psilocin]]** shows a balanced profile with both G protein and β-arrestin activation, but with a notable bias toward cortical plasticity-promoting pathways
-- **LSD** demonstrates strong β-arrestin-2 recruitment and extremely long receptor residence time (several hours), contributing to its extended duration
+# Psilocybin 5-HT2A [[psilocin]]** shows a balanced profile with both G protein and β-arrestin activation, but with a notable bias toward cortical plasticity-promoting pathways
+- **[[lsd]]** demonstrates strong β-arrestin-2 recruitment and extremely long receptor residence time (several hours), contributing to its extended duration
 - **DOB and other phenethylamines** show stronger Gq coupling relative to β-arrestin
 
 This functional selectivity may explain why different psychedelics with similar receptor binding profiles produce subjectively different experiences and may have different therapeutic potentials.
@@ -10,7 +8,7 @@ This functional selectivity may explain why different psychedelics with similar 
 
 5-HT2A activation by psilocin triggers several neuroplasticity-related molecular cascades:
 
-- **BDNF (Brain-Derived Neurotrophic Factor)** upregulation: Psilocybin administration increases serum BDNF levels, which supports synaptic growth and dendritic arborization
+- **BDNF (Brain-Derived Neurotrophic Factor)** upregulation: [[psilocybin]] administration increases serum BDNF levels, which supports synaptic growth and dendritic arborization
 - **mTOR (mammalian target of rapamycin) pathway activation**: Rapid stimulation of mTORC1 promotes dendritic spine formation and synaptic protein synthesis
 - **Synaptogenesis**: In vivo studies in rodents show increased dendritic spine density in the prefrontal cortex within 24 hours of psilocybin administration, persisting for at least a month
 - **GluA1 AMPA receptor insertion**: Enhanced AMPA receptor trafficking to the postsynaptic membrane strengthens excitatory synaptic transmission
@@ -44,15 +42,7 @@ These genetic factors may explain the substantial inter-individual variability i
 |----------|----------------|----------------------|-------------------|--------------------|
 | Psilocin | 6–10 | ~50–80% | 4–6 | Balanced signaling, moderate duration |
 | LSD | 1–5 | ~70–90% | 8–12 | Extremely long residence time |
-| [[dmt]] | 10–30 | ~60–80% | 0.5–1 | Rapid onset/offset, also 5-HT1A |
-| Mescaline | 200–500 | ~40–60% | 8–12 | Phenethylamine, lower affinity |
-| DOI | 0.5–2 | ~80–100% | 12–24 | Full agonist, research tool |
-
-## Clinical Implications
-
-Understanding psilocybin's 5-HT2A pharmacology is essential for clinical development:
-
-- **Dose-response**: Effects are non-linear, with a steep curve [[ayahuasca-drug-interactions]]rofoundly shapes the experience
+| [[ayahuasca-drug-interactions]] rofoundly shapes the experience
 - **Drug interactions**: SSRIs and other serotonergic drugs may attenuate psilocybin effects through receptor competition; contraindicated with MAOIs and serotonergic drugs that could trigger serotonin syndrome
 - **Biomarker potential**: 5-HT2A receptor binding potential (measured via PET with radioligands like [11C]Cimbi-36) may serve as a predictor of therapeutic response
 

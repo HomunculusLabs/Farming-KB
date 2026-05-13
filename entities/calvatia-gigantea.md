@@ -15,76 +15,96 @@ Calvatia gigantea, commonly known as the giant puffball, is a saprotrophic
 basidiomycete fungus renowned for producing some of the largest fruiting
 bodies of any mushroom. Specimens routinely reach 30–60 cm in diameter,
 with exceptional individuals exceeding 150 cm and weighing over 20 kg.
-Found across temperate grasslands and meadows of [[psilocybin-north-america-pacific-northwest]] and Europe,
-the giant puffball is a prized edible when young and firm, and has a
-history of use in traditional wound healing and [[cannabis-pain-management-protocols]]. Its
+Found across temperate grasslands and meadows of [[cannabis-pain-management-protocols]]. Its
 conspicuous size and unmistakable appearance when mature make it one of
-the most recognizable [[edible-wild-mushrooms-by-region]].
-## Taxonomy and Naming
-| Rank | Classification |
-|------|---------------|
-| Kingdom | Fungi |
-| Division | Basidiomycota |
-| Class | Agaricomycetes |
-| Order | Agaricales |
-| Family | Agaricaceae |
-| Genus | Calvatia |
-| Species | C. gigantea |
-| Authority | (Batsch) Lloyd (1904) |
-| Basionym | Lycoperdon giganteum Batsch (1789) |
-| Synonyms | Langermannia gigantea, Bovista gigantea |
-The taxonomic history has been turbulent. Originally described by Batsch in
-1789 as Lycoperdon giganteum, it was transferred to Calvatia by Lloyd in 1904.
-Some authorities placed it in Langermannia, but molecular phylogenetic studies
-support its placement in Calvatia within Agaricaceae. The species name
-"gigantea" refers to the enormous size of mature fruiting bodies.
-## Description
-### Macroscopic Features
-| Feature | Description |
-|---------|-------------|
-| Fruiting body | Globose to subglobose, occasionally slightly flattened |
-| Size | 10–70 cm diameter (exceptionally to 150+ cm) |
-| Weight | 1–20+ kg |
-| Surface | Smooth to finely roughened, white when young |
-| Exoperidium | Thin, papery, white to cream, cracking with age |
-| Endoperidium | Thick, leathery, white to brownish |
-| Gleba | Pure white and firm when young; olive-green to brown |
-| Subgleba | Absent or minimal |
-| Base | Small, inconspicuous stipe/root; sometimes cord-like |
-| Odor | Mild, pleasant, mushroomy when young |
-| Taste | Mild, nutty (edible stage) |
-### Microscopic Features
-| Feature | Description |
-|---------|-------------|
-| Basidiospores | Globose to subglobose, smooth |
-| Spore size | 3.5–5.5 µm diameter |
-| Spore print | Olive-brown to dark brown |
-| Spore ornamentation | Finely echinulate under SEM |
-| Capillitium | Branched, septate, hyaline, 3–7 µm thick |
-| Basidia | Clavate, 2–4 spored |
-| Cystidia | Absent |
-### Developmental Stages
-1. **Immature button**: White, firm, solid white gleba throughout —
-   prime edible stage
-2. **Maturing**: Gleba begins softening, yellowing at center
-3. **Mature**: Outer surface cracks, revealing olive-brown spore mass;
-   exoperidium may slough off in patches
-4. **Senescent**: Breaks open to release billions of spores when disturbed
-5. **Remnant**: A torn, cup-shaped base may persist for weeks
-## Distribution and Habitat
-### Geographic Range
-- North America: Widespread across the US and southern Canada; most common
-  east of the Rocky Mountains
-- Europe: Common across the British Isles, continental Europe, Scandinavia
-- Asia: Reported from China, Japan, and Korea
-- Less common in tropical and arid regions
-### Habitat
-- Temperate grasslands, pastures, and meadows
-- Open fields, lawns, parks, and roadsides
-- Occasionally in forest edges and clearings
-- Prefers nutrient-rich soils, often in areas with [[savory-livestock-grazing-planning]]
+the most recognizable [[savory-livestock-grazing-planning]]
 - Saprotrophic: decomposes [[hamilton-composting-and-organic-matter-management]], particularly grass roots
 - Typically fruits singly or in small scattered groups
 ### Seasonality
 Late summer to autumn (August–November in Northern Hemisphere).
 Occasionally fruits in early summer after heavy rains. Primarily triggered
+
+## Overview
+
+Calvatia Gigantea represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish calvatia gigantea
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving calvatia extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Calvatia Gigantea finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for calvatia gigantea. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+calvatia gigantea and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Calvatia Gigantea has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of calvatia gigantea into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[byblis-gigantea]]
+- [[calvatia-cyathiformis]]
+- [[macrocybe-gigantea]]
+- [[puffballs-lycoperdaceae-and-giant-calvatia-species]]
+- [[stipa-gigantea]]

@@ -10,14 +10,7 @@ created: 2026-05-09
 
 ## Introduction
 
-Hyphal anastomosis — the fusion of hyphae from the same or different fungal individuals — is one of the most fundamental processes in fungal biology. It enables the formation of interconnected [[fungal-mycelial-networks-nutrient-translocation]] that can share resources, information, and genetic material across large areas. However, anastomosis is tightly regulated by self-non-self recognition systems that determine whether fusion will be permitted or rejected. These recognition systems, known as vegetative (or somatic) compatibility systems, have profound implications for fungal ecology, evolution, genetics, and pathology.
-
-## The Biology of Hyphal Fusion
-
-### Types of Anastomosis
-
-1. **Vegetative (somatic) fusion**: Hyphal fusion between vegetative hyphae of the same mycelium (self-fusion) or between compatible colonies of the same species.
-2. **Parasexual fusion**: Fusion leading to [[clamp-connection-formation-and-nuclear-migration]] and genetic recombination without meiosis.
+Hyphal anastomosis — the fusion of hyphae from the same or different fungal individuals — is one of the most fundamental processes in fungal biology. It enables the formation of interconnected [[clamp-connection-formation-and-nuclear-migration]] and genetic recombination without meiosis.
 3. **Sexual fusion**: Fusion of specialized hyphal structures (gametangia) during the sexual cycle, leading to karyogamy and meiosis.
 4. **Heterokaryon formation**: Fusion resulting in a mycelium containing genetically distinct nuclei.
 
@@ -25,13 +18,7 @@ Hyphal anastomosis — the fusion of hyphae from the same or different fungal in
 
 The cellular mechanics of hyphal anastomosis follow a stereotyped sequence:
 
-1. **Chemotropism**: Hyphal tips sense and grow toward each other, guided by diffusible signals (including small peptides and [[query-how-do-fungal-volatile-compounds-affect-plant-growth-and-other-microorganisms]]).
-2. **Contact and adhesion**: Hyphae make physical contact and adhere via cell wall modifications. The Spitzenkörper reorients toward the fusion point.
-3. **Cell wall remodeling**: Localized cell wall dissolution occurs at the contact point, mediated by chitinases, glucanases, and other cell wall-degrading enzymes.
-4. **Plasma membrane fusion**: The plasma membranes of the two hyphae merge, creating a continuous cytoplasmic channel.
-5. **Cytoplasmic mixing**: Organelles, nutrients, and nuclei can flow through the fusion pore between the connected hyphae.
-
-The fusion pore is initially narrow (0.1–0.5 μm) but can widen over time. Septal pores near the fusion site may open to allow more extensive cytoplasmic exchange. In some species, [[fungal-woronin-bodies-and-septal-pore-organization]] plug septal pores adjacent to damaged fusion points, preventing uncontrolled cytoplasmic bleeding.
+1. **Chemotropism**: Hyphal tips sense and grow toward each other, guided by diffusible signals (including small peptides and [[fungal-woronin-bodies-and-septal-pore-organization]] plug septal pores adjacent to damaged fusion points, preventing uncontrolled cytoplasmic bleeding.
 
 ## Self-Non-Self Recognition Systems
 
@@ -53,14 +40,7 @@ When incompatible hyphae undergo fusion, the incompatibility reaction is trigger
 
 1. **Het gene product interaction**: When het alleles from different individuals are brought into common cytoplasm, their protein products interact. In some systems, het proteins form heterodimeric complexes that are toxic.
 2. **Programmed cell death (PCD)**: Incompatible fusion triggers a PCD-like response. Vacuolar collapse, cytoplasmic coagulation, and septal plugging occur within minutes to hours of fusion.
-3. **[[reactive-oxygen-species-and-oxidative-stress]] (ROS)**: The incompatibility reaction generates a burst of ROS that contributes to cell death at the fusion point.
-4. **Hyphal compartmentalization**: Septa near the fusion site rapidly plug with Woronin bodies (in ascomycetes) or other occlusion structures, isolating the damaged compartment.
-
-The end result is a characteristic "barrage" or "clear zone" — an area of dead or arrested hyphae at the confrontation zone between incompatible colonies.
-
-### The NIP1/HET-C Paradigm
-
-In *[[neurospora-crassa]]*, the best-characterized het system involves the het-c and het-6/vic-2 loci:
+3. **[[neurospora-crassa]]*, the best-characterized het system involves the het-c and het-6/vic-2 loci:
 
 - **HET-C**: A glycine-leucine-rich (GLR) protein with a HET domain. Different HET-C alleles encode variant GLR repeats.
 - **HET-6**: A protein containing a HET domain and a coiled-coil region.
@@ -68,25 +48,7 @@ In *[[neurospora-crassa]]*, the best-characterized het system involves the het-c
 
 ### Toll/IL-1 Receptor (TIR) Domain Proteins
 
-Recent work has revealed that many het loci encode proteins with TIR (Toll/Interleukin-1 Receptor) domains. In animals and plants, TIR domains are central to innate immune signaling. In fungi, TIR-domain het proteins appear to function as intracellular immune sensors that detect "non-self" het alleles and activate cell death pathways. The structural similarity to animal immune receptors suggests deep evolutionary conservation of [[plant-innate-immunity-pti-eti-defense]] mechanisms.
-
-## Functional Significance of Self-Non-Self Recognition
-
-### Protection Against Harmful Cytoplasmic Elements
-
-The primary function of vegetative incompatibility is to protect fungal individuals from the transmission of harmful cytoplasmic elements:
-
-- **Mycoviruses**: Fungal viruses can spread through hyphal anastomosis networks. Incompatibility barriers limit mycoviral transmission between incompatible individuals, preventing epidemic spread of deleterious viruses.
-- **Senescent plasmids**: Cytoplasmic elements that cause senescence (aging) in fungal mycelia can spread through fusion networks. Incompatibility limits the spread of senescence-inducing factors.
-- **Selfish genetic elements**: Transposons, plasmids, and other selfish elements exploit hyphal networks for horizontal transmission. Incompatibility acts as a genetic immune system.
-- **Deleterious mutations**: Nuclear mutations that impair fitness can spread through connected mycelia. Incompatibility limits the propagation of harmful nuclear genotypes.
-
-### Virulence Regulation in Plant Pathogens
-
-In many plant pathogenic fungi, vegetative incompatibility directly affects virulence:
-
-- **Cryphonectria parasitica** (chestnut blight): Hypovirulent strains containing the Cryphonectria hypovirus 1 (CHV1) are used as biocontrol agents. CHV1 spreads through anastomosis, but only within compatible VCGs. Natural populations of *C. parasitica* are subdivided into many VCGs, limiting the spread of hypovirulence. The effectiveness of [[fukuoka-textdoc-biological-control-fallacy-pheromone-critique]] depends on the diversity and distribution of VCGs in the target population.
-- **[[fusarium-oxysporum]]**: VCG structure determines the potential for horizontal gene transfer of pathogenicity chromosomes. Horizontal chromosome transfer between strains within the same VCG has generated new pathogenic lineages.
+Recent work has revealed that many het loci encode proteins with TIR (Toll/Interleukin-1 Receptor) domains. In animals and plants, TIR domains are central to innate immune signaling. In fungi, TIR-domain het proteins appear to function as intracellular immune sensors that detect "non-self" het alleles and activate cell death pathways. The structural similarity to animal immune receptors suggests deep evolutionary conservation of [[fukuoka-textdoc-biological-control-fallacy-pheromone-critique]] depends on the diversity and distribution of VCGs in the target population.
 - **[[verticillium-dahliae]]**: Vegetative compatibility affects the formation and stability of microsclerotia (survival structures), which influence disease epidemiology.
 
 ## Practical Applications
@@ -118,8 +80,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[doc]]
 - [[fungal-ecology]]
-- [[dom]]
 - [[det]]
 - [[soma]]

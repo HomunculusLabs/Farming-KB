@@ -46,7 +46,7 @@ never allowed a single book to penetrate, communing directly with plants.
   strictly analytical, similar to those of the alchemists
 - He established that peanuts and sweet potatoes could serve as the
   basis for hundreds of industrial and food products
-- [[fukuoka-natural-soil-fertility]] through [[hamilton-composting-and-organic-matter-management]] was superior to
+- [[hamilton-composting-and-organic-matter-management]] was superior to
   commercial fertilizers for maintaining agricultural productivity
 - Plants respond to human attention and care, a principle Carver
   demonstrated throughout his career
@@ -90,43 +90,8 @@ beginning. From peanuts and sweet potatoes he created cosmetics, axle
 grease, printer's ink, coffee substitutes, face powders, shampoos, wood
 
 ## See Also
-- [[tompkins-george-washington-carver-plant-alchemy]]
 - [[query-what-is-dry-farming-and-how-does-it-work]]
-- [[query-what-is-mycoremediation-and-how-does-it-work]]
 - [[query-what-is-supercropping-cannabis-and-how-does-it-work]]
-- [[query-how-does-no-till-cannabis-cultivation-work]]
-
-## Practical Applications
-
-The principles and techniques discussed here have wide-ranging applications
-across multiple disciplines and contexts. Practitioners and researchers
-continue to explore new ways to integrate these concepts into modern practice,
-adapting traditional knowledge to contemporary challenges and opportunities.
-
-## Key Considerations
-
-Several important factors influence the effectiveness and outcomes described
-in this topic. Understanding these considerations helps practitioners make
-informed decisions and avoid common pitfalls. Environmental conditions,
-timing, and material selection all play critical roles.
-
-## Historical Context
-
-The historical development of this subject reflects centuries of accumulated
-knowledge and practical experience. From traditional methods passed down
-through generations to modern scientific approaches, the evolution continues
-to inform current best practices and research directions.
-
-## Common Challenges
-
-Practitioners frequently encounter several challenges when working with
-these concepts. Climate variability, resource limitations, and knowledge
-gaps can all affect outcomes. Addressing these challenges requires patience,
-observation, and a willingness to adapt approaches based on results.
-
-## See Also
 - [[composting]]
-- [[supercropping]]
 - [[mycoremediation]]
-- [[tompkins-george-washington-carver-plant-alchemy]]
 - [[darwin-phototropism-experiments-plant-light-sensing]]

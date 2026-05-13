@@ -27,11 +27,7 @@ created: 2026-04-28
 
 Elymoclavine (8,9-didehydro-6-methylergoline) is a clavine-type ergot
 alkaloid produced by fungi of the Clavicipitaceae family, particularly
-*[[lysergic-acid-amide]] (LSA) and more complex ergopeptines.
-
-The compound exhibits mild psychedelic and uterotonic activity, though
-its psychoactive potency is significantly lower than that of LSD or
-[[ergot-and-lysergic-acid-history]] amide. It has been studied primarily as a biosynthetic
+*[[ergot-and-lysergic-acid-history]] amide. It has been studied primarily as a biosynthetic
 precursor rather than for its own pharmacological effects.
 
 Elymoclavine is classified as a Schedule III controlled substance in
@@ -78,10 +74,7 @@ development of more specific ergot derivatives such as methylergometrine.
 
 Hepatic metabolism occurs via N-dealkylation and aromatic hydroxylation.
 The elimination half-life is approximately 2–3 hours. Elymoclavine can
-serve as a substrate for the [[ergot-fungus]]) infecting
-cereal grasses, *Ipomoea* spp. ([[sacred-mexican-morning-glories-ololiuqui-and-tlitliltzin]]), *[[endophytic-fungi]] in the
-*Epichloë* and *Neotyphodium* genera. Industrial production employs
-[[cancer-medicinal-mushrooms-submerged-fermentation-production]] of selected *Claviceps* or *Aspergillus*
+serve as a substrate for the [[sacred-mexican-morning-glories-ololiuqui-and-tlitliltzin]]), *[[cancer-medicinal-mushrooms-submerged-fermentation-production]] of selected *Claviceps* or *Aspergillus*
 strains optimized for elymoclavine accumulation.
 
 ## Legal Status

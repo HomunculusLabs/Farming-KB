@@ -19,11 +19,11 @@ sources:
 
 ## Overview
 
-**Beaked hazelnut** (*Corylus cornuta*) is a deciduous shrub native to [[guzman-psilocybin-mushrooms-north-america]], recognized by its distinctive beaked involucres (husks) that extend well beyond the nut. It is one of two native [[growing-gourmet-north-american-reishi-species]] hazelnut species and the most widely distributed.
+**Beaked hazelnut** (*Corylus cornuta*) is a deciduous shrub native to [[growing-gourmet-north-american-reishi-species]] hazelnut species and the most widely distributed.
 
 The species typically grows as a multi-stemmed shrub 1–4 meters tall, forming dense thickets through clonal root suckering. Its edible nuts are smaller than those of the European filbert (*C. avellana*) but have been an important food source for Indigenous peoples for millennia.
 
-Beaked hazelnut is increasingly valued in native plant landscaping, [[tropical-rainforest-seedling-mycorrhiza-ecological-restoration]], and agroforestry systems for its [[hemenway-backyard-wildlife-habitat]] value, soil stabilization properties, and ornamental qualities.
+Beaked hazelnut is increasingly valued in native plant landscaping, [[hemenway-backyard-wildlife-habitat]] value, soil stabilization properties, and ornamental qualities.
 
 ## Taxonomy and Morphology
 
@@ -39,29 +39,7 @@ Male flowers are produced in pendulous catkins 3–6 cm long, forming in late su
 
 The fruit is a hard-shelled nut enclosed in a distinctive tubular involucre (husk) that extends 2–4 cm beyond the nut, forming a characteristic "beak." The husk is covered in stiff, bristly hairs and splits open at maturity.
 
-Nuts mature from August to October, with peak ripeness indicated by husk browning and natural drop. [[clay-pellet-seed-dispersal]] is primarily by gravity and caching rodents, with blue jays occasionally carrying nuts short distances.
-
-The chromosome number is 2n = 22, consistent with other *Corylus* species. Hybridization between *C. cornuta* and *C. avellana* produces fertile offspring, facilitating interspecific breeding for crop improvement.
-
-## Distribution and Habitat
-
-Eastern beaked hazelnut ranges from Newfoundland west to southeastern Manitoba, south to Georgia and northern Alabama. Western beaked hazelnut occurs from southern British Columbia to central California, extending east to western Montana and Idaho.
-
-The species is a common understory component of deciduous and mixed forests, often forming dense thickets along forest margins, stream banks, and disturbed sites. It tolerates moderate shade but produces more nuts in partial to full sun.
-
-Soil preferences include well-drained loams to sandy loams with pH 5.0–7.0. It is moderately drought-tolerant once established and can persist on nutrient-poor sandy soils where many other shrubs fail to thrive.
-
-Beaked hazelnut is fire-adapted — it resprouts vigorously from the root crown and rhizomes after fire or cutting. This resprouting capacity allows it to persist in fire-prone ecosystems and recover quickly from disturbance.
-
-The species is considered a climax understory component in many forest types, persisting for decades beneath a closed canopy. However, nut production declines significantly under heavy shade, limiting its reproductive capacity in dense forests.
-
-Elevation range extends from sea level to approximately 2,100 meters in the Rocky Mountains and Sierra Nevada. Western populations (var. *californica*) tend to grow at higher elevations and in drier conditions than eastern populations.
-
-## Edibility and Nutritional Value
-
-The nuts are edible and have a sweet, rich flavor comparable to European filberts, though significantly smaller (approximately 8–12 mm in diameter). Nut size varies considerably between eastern and western populations.
-
-[[dighton-fungal-nutritional-composition-animal-diets]] is similar to other hazelnut species: approximately 60% fat (predominantly oleic acid), 15% protein, and 17% carbohydrate by weight. The nuts provide significant amounts of vitamin E, manganese, and B vitamins.
+Nuts mature from August to October, with peak ripeness indicated by husk browning and natural drop. [[dighton-fungal-nutritional-composition-animal-diets]] is similar to other hazelnut species: approximately 60% fat (predominantly oleic acid), 15% protein, and 17% carbohydrate by weight. The nuts provide significant amounts of vitamin E, manganese, and B vitamins.
 
 Indigenous peoples across North America relied on beaked hazelnuts as a staple food. Nuts were harvested in late summer and fall, then dried and stored for winter use. They were eaten raw, roasted, ground into flour, or pressed for oil.
 
@@ -69,22 +47,88 @@ Commercial harvesting is limited, but interest in native nut crops for food fore
 
 ## Ecological Role
 
-Beaked hazelnut is one of the most important wildlife food plants in [[polypore-fungi-eastern-north-america]] American forests. The nuts are consumed by squirrels, chipmunks, mice, ruffed grouse, wild turkey, blue jays, and woodpeckers.
+Beaked hazelnut is one of the most important wildlife food plants in [[arbuscular-mycorrhizal-fungi-biology-symbiosis]], which enhance [[bloomfield-amphibian-decline-fungal-disease-climate-interactions]] of commercial hazelnut, also infects *C. cornuta*. However, native populations show greater resistance than cultivated European filbert, making beaked hazelnut an important genetic resource for breeding programs.
 
-The dense, multi-stemmed growth form provides excellent cover and nesting habitat for songbirds and small mammals. Thickets serve as travel corridors and protective cover for wildlife moving between habitat patches.
+## Overview
 
-The species is a larval host for several moth species, including the hazel sphinx (*Darapsa myron*) and the crocus geometer (*Xanthotype urticaria*). These specialized herbivores feed exclusively on *Corylus* foliage.
+Corylus Cornuta represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
 
-Root systems are extensive and fibrous, contributing to soil stabilization on slopes and stream banks. The species' ability to spread clonally through root suckering makes it effective at colonizing disturbed sites and preventing soil erosion.
+## Key Characteristics
 
-Beaked hazelnut also forms symbiotic associations with [[arbuscular-mycorrhizal-fungi-biology-symbiosis]], which enhance [[plant-nutrient-uptake-mechanisms]] and may facilitate nutrient transfer between plants in the forest understory. These associations are particularly important on nutrient-poor sites.
+Several defining characteristics distinguish corylus cornuta
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
 
-The pollen-rich catkins provide an early spring food source for emerging pollinators, particularly native bees that overwinter as adults. The timing of catkin expansion often coincides with the first warm days of spring when few other floral resources are available.
+## Ecological Context
 
-## Cultivation
+The ecological relationships involving corylus extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
 
-Beaked hazelnut is easily propagated from seed, which requires 90–120 days of cold stratification for germination. Softwood cuttings under mist can also be successful, though rooting percentages are variable.
+## Practical Applications
 
-In landscape settings, the species is valued for its naturalistic appearance, wildlife value, and tolerance of partial shade. It requires minimal maintenance once established and is relatively pest-free compared to European filbert.
+Corylus Cornuta finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
 
-Eastern filbert blight (*Anisogramma anomala*), a devastating [[bloomfield-amphibian-decline-fungal-disease-climate-interactions]] of commercial hazelnut, also infects *C. cornuta*. However, native populations show greater resistance than cultivated European filbert, making beaked hazelnut an important genetic resource for breeding programs.
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for corylus cornuta. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+corylus cornuta and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Corylus Cornuta has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of corylus cornuta into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[corylus-americana]]
+- [[corylus-avellana]]
+- [[corylus-maxima]]
+- [[eucalyptus-cornuta]]

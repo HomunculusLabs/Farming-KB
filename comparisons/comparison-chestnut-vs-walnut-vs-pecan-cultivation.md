@@ -31,11 +31,7 @@ This is the most fundamental difference between the three genera and drives most
 
 **Walnuts and pecans** are fat-rich (60–70% fat by weight), calorie-dense, and excellent sources of dietary lipids. Walnuts are particularly notable for their omega-3 alpha-linolenic acid (ALA) content — the highest of any common nut. Pecans are richest in monounsaturated oleic acid (the same fatty acid in olive oil). Both provide 2,600–2,800 calories per pound.
 
-**For homestead caloric production**: Chestnuts produce more total food weight per acre (and more calories per acre, because the trees are smaller and can be planted more densely), but walnuts and pecans provide more calories per nut and more fat — an essential nutrient that is harder to obtain from plant sources. The ideal staple [[black-walnut-juglone-plant-toxicity]] (*Juglans nigra*)** and to a lesser extent **English walnut (*J. regia*)** produce **juglone** (5-hydroxy-1,4-naphthoquinone), a biochemical that is toxic to many plant species. Juglone is present in all parts of the tree — roots, leaves, nut husks, bark — and is exuded into the soil in a radius extending to the drip line and beyond.
-
-**Sensitive plants** (killed or stunted by juglone): Tomatoes, potatoes, peppers, eggplant, rhododendrons, azaleas, apples, pears, blueberries, blackberries, lilacs, petunias, cabbage, broccoli.
-
-**[[pawpaw]], persimmon, quince, elderberry, hackberry, redbud.
+**For homestead caloric production**: Chestnuts produce more total food weight per acre (and more calories per acre, because the trees are smaller and can be planted more densely), but walnuts and pecans provide more calories per nut and more fat — an essential nutrient that is harder to obtain from plant sources. The ideal staple [[pawpaw]], persimmon, quince, elderberry, hackberry, redbud.
 
 **Chestnuts and pecans produce no allelopathic compounds** and are excellent companions for underplanting with fruit trees, berries, vegetables, herbs, and ground covers. This makes them far more versatile in food forest and polyculture designs. If you want a productive understory beneath your nut trees, avoid walnuts or confine them to windbreak/orchard rows where the understory is grass-only.
 
@@ -67,7 +63,7 @@ This is the most fundamental difference between the three genera and drives most
 - **Chestnut blight** (*Cryphonectria parasitica*): Devastated American chestnut. Chinese and hybrid chestnuts are resistant. Plant only blight-resistant cultivars.
 - **Chestnut weevil**: Larvae bore into nuts. Management includes orchard sanitation (collecting fallen nuts) and approved insecticides.
 - **Oriental chestnut gall wasp**: Emerging pest. Causes galls on leaves and shoots. Some cultivars show resistance.
-- **[[amf-biocontrol-phytophthora-root-exudate-modification]] rot**: Major problem on poorly drained soils. Prevention through [[fukuoka-creating-natural-farm-site-selection-establishment]] — chestnuts must have excellent drainage.
+- **[[fukuoka-creating-natural-farm-site-selection-establishment]] — chestnuts must have excellent drainage.
 
 **Walnut**:
 - **Thousand cankers disease**: Geosmithia fungus vectored by walnut twig beetle. Primarily affects black walnut. Devastating in some regions. No reliable cure — avoid planting black walnut in affected areas.
@@ -79,48 +75,6 @@ This is the most fundamental difference between the three genera and drives most
 - **Pecan scab** (*Fusicladium effusum*): The most significant pecan disease. Fungal infection of leaves and nuts. Causes black lesions, nut drop, and reduced quality. Requires fungicide sprays in humid regions. Scab-resistant varieties are essential east of the Mississippi: 'Elliott', 'Kanza', 'Lakota', 'Pawnee'.
 - **Pecan weevil**: Adults emerge from soil in late summer, lay eggs in developing nuts. Cultural controls (orchard sanitation, soil cultivation) and approved insecticides.
 - **Pecan casebearer**: Larvae tunnel into developing nuts in spring. Pheromone traps for monitoring; targeted sprays when threshold reached.
-- **Aphids and hickory shuckworm**: Secondary pests. [[comparison-beneficial-insects-guide-vs-integrated-pest-management]] usually provide adequate control.
-
-### Economic Yield and Commercial Potential
-
-| Species | Yield/acre at maturity | Estimated value/acre | Harvest difficulty | Processing |
-|---------|----------------------|---------------------|-------------------|------------|
-| Chestnut | 1,000–3,000 lbs | $2,000–9,000 | Easy (nuts fall free) | Must be cured/dried; peeled for market |
-| Walnut | 1,500–4,000 lbs | $3,000–12,000 | Moderate (husk removal) | Husk, dry, crack — hard shells |
-| Pecan | 1,000–3,500 lbs | $2,500–14,000 | Moderate (mechanical shakers) | Dry, crack — moderate shell thickness |
-
-**Chestnuts** have the lowest per-pound value but the highest per-acre yield potential (due to smaller tree size and closer spacing). Fresh market demand is strong and growing. The main bottleneck is post-harvest — chestnuts spoil quickly at room temperature (2–3 weeks refrigerated, months frozen).
-
-**Pecans** have the highest per-pound value in most markets. The US pecan industry is well-established with reliable processing and marketing infrastructure. Pecans store well for a year or more when dried and frozen.
-
-**Walnuts** fall in between. Black walnut has a niche market for its rich, distinctive flavor but the hard shells are a processing challenge. English walnut dominates commercial production.
-
-### Best Use in Permaculture Design
-
-**Chestnut — the carbohydrate staple tree**: Best for homesteads seeking calorie self-sufficiency. Compact enough for food forest integration. No allelopathy allows full understory use. Chinese and hybrid cultivars for blight resistance. Harvest is forgiving (nuts drop free from burrs).
-
-**Walnut — the fat/protein tree, windbreak specialist**: Best for boundary plantings, woodlots, and silvopasture where allelopathy is acceptable. Black walnut produces exceptionally valuable timber in addition to nuts. English walnut is better for pure nut production. Plant where understory diversity is not a priority.
-
-**Pecan — the southern staple**: Best for Zones 6–9 with adequate water. Produces the highest-value nuts and the most fat per acre. Requires the most management (spray programs, irrigation, fertilization). Best suited to dedicated orchard rows or large food forest canopy positions with irrigation.
-
-### Recommended Cultivars
-
-**Chestnut (blight-resistant)**:
-- 'Colossal' — large nut, vigorous tree, excellent flavor. Requires pollinator.
-- 'Dunstan' — hybrid (Chinese × American), blight-resistant, reliable producer.
-- 'Qing' — Chinese, very cold-hardy, small nut but prolific.
-- 'Sleeping Giant' — complex hybrid, large tree, high yield.
-
-**English Walnut**:
-- 'Chandler' — late leafing (frost avoidance), high yield, thin shell. Zone 5–8.
-- 'Hartley' — classic commercial variety, high quality. Zone 6–9.
-- 'Tehama' — early bearing, high yield. Zone 6–9.
-- 'Serr' — adapted to warmer inland climates. Zone 7–9.
-
-## See Also
-
-- comparison-hickory-vs-pecan-vs-black-walnut-cultivation
-
-- [[comparison-macadamia-vs-pecan-vs-pistachio-cultivation]]
+- **Aphids and hickory shuckworm**: Secondary pests. [[comparison-macadamia-vs-pecan-vs-pistachio-cultivation]]
 
 - [[comparison-avocado-vs-mango-cultivation]]

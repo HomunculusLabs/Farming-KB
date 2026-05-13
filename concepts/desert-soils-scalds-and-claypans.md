@@ -8,7 +8,7 @@ type: concept
 
 ## Overview
 
-Desert soils present a complex array of types and conditions that directly influence [[water-management]], plant growth, and erosion patterns. Understanding the distinctions between scalds, claypans, gilgais, and other desert soil types is essential for effective [[permaculture]] intervention in arid environments. Soils in older deserts typically show yellow or reddish colouration from iron oxide complexes, but composition varies from free sands to heavy compacted cracking clays.
+Desert soils present a complex array of types and conditions that directly influence [[permaculture]] intervention in arid environments. Soils in older deserts typically show yellow or reddish colouration from iron oxide complexes, but composition varies from free sands to heavy compacted cracking clays.
 
 ## Desert Soil Types
 
@@ -29,92 +29,89 @@ Desert soils present a complex array of types and conditions that directly influ
 
 - Most typical of flats and evaporation pans
 - Notoriously sticky when wet, preventing all vehicle movement
-- Can be treated with [[gypsum]] to decrease infiltration capacity
-- Treated with calcium carbonate or bentonite to seal for water storage
-- Natural montmorillonite or similar clays swell and form impermeable surfaces after rain
+- Can be treated with [[water-conservation]] begins on foothill slopes and generates forests downhill, following the basin and range topography that characterises most desert border landscapes.
 
-## Scalds
+## Overview
 
-### Formation and Characteristics
+Desert Soils Scalds And Claypans represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
 
-A scald is a bare clay-pan surface where a duplex soil (originally light sandy loams over a sharply-defined transition area with deep clay below) has lost its upper soil layer. The clays remaining are often **solonetic**—containing high levels of sodium ions. When first wetted by rain, solonetic clays tend to "melt," effectively sealing the clay base surface and preventing infiltration.
+## Key Characteristics
 
-The wet crust so formed is almost impermeable. This same sealing effect is used deliberately to lead run-off water to tanks. Unlike claypans, scalds have flow both into and out of the area rather than being enclosed depressions.
+Several defining characteristics distinguish desert soils scalds and claypans
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
 
-### Causes
+## Ecological Context
 
-Most scalds are produced by **over-grazing**. This creates a direct link between grazing management and regional ecological health, as scalds serve as primary breeding grounds for plague locusts in Australia. The desert grazier, by creating scalds through over-stocking, effectively inflicts plague on whole regions.
+The ecological relationships involving desert extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
 
-### Revegetation Strategy
+## Practical Applications
 
-The revegetation approach for scalds uses a simple but effective sequential bank system:
+Desert Soils Scalds And Claypans finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
 
-1. **Grade a bank** up to 10–15 cm high with the cut on the lower side
-2. Water backs up behind the bank, covering approximately **one-third** of the total area to be treated
-3. **Two-thirds** of bare soil serves as run-off, directing water to the inundated area
-4. **Pre-sow seed** on the inundated surface before water arrives
-5. Seed germinates in the pooled water; the low bank eventually "melts" flat
-6. The next one-third is treated as a **successional strategy**
-7. Over **2–3 years**, complete vegetative cover can be re-established
+## Management and Implementation
 
-**Critical design notes:**
-- If banks are made too high or too solid, plants will drown
-- Spiral earth-casting and ridges sown at their apex are also successfully used on large claypans
-- This approach works because the sealing property of solonetic clays is turned to advantage as a water-retention mechanism
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
 
-## Claypans
+## Regional Considerations
 
-### Characteristics
+Different geographic regions present unique challenges and
+opportunities for desert soils scalds and claypans. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
 
-Unlike scalds, claypans rarely overflow. They receive silty waters from clay soils, pool for a period, then clay settles out and water evaporates. Claypans represent enclosed depressions without through-flow.
+## Sustainability
 
-### Ecological Function
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
 
-Claypans serve as critical seasonal wetland habitat in desert systems:
+## Research and Development
 
-- **Wet phase:** Tall canegrass (*Eragrostis australasica*) grows; duck and waterfowl nest
-- **Drying phase:** Marsupials and rodents take refuge in the drying swamp areas
-- **Aboriginal management:** Frequently burnt in autumn as canegrass dried out, but regenerated in wet periods
+Ongoing research continues to expand understanding of
+desert soils scalds and claypans and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
 
-### Treatment Options
+## Historical Context
 
-- **Gypsum application** decreases clay's capacity to infiltrate water (useful for directing run-off)
-- **Calcium carbonate or bentonite** seal clays for water storage
-- **Natural montmorillonite clays** swell and form impermeable surfaces after short periods of rain
-- **Spiral earth-casting** and ridges sown at their apex for seeding on large claypans
-- **Circular or spiral banks** can be made on large claypans where linear banks are impractical
+Desert Soils Scalds And Claypans has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
 
-## Gilgais
+## Integration Strategies
 
-Gilgais are small depressions forming from the swelling and shrinking of plastic clays. They are:
+Successful integration of desert soils scalds and claypans into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
 
-- **Circular in outline**
-- **Useful as water-capture systems** where erosion has left them as hollows
-- Rendered non-functional when filled with sand
-- A natural self-maintaining system driven by clay physics
+## Challenges and Solutions
 
-## Tectonic Basins
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
 
-The largest-scale depressions in deserts:
+## See Also
 
-- **Salt lakes** and **dune seas (draas)** form within tectonic basins
-- Smaller depressions gather run-off and develop suspended silts or salts as base materials
-- Water carries these materials and deposits them when it evaporates
-
-## Gully Erosion in Desert Soils
-
-Active gully erosion in desert soils requires multiple integrated strategies:
-
-**Small gullies:** Can be filled, fenced, and planted directly
-
-**Large gullies** demand a comprehensive approach:
-- **Diversion of headwaters** to reduce erosive flow
-- **Swales** to hold water along side walls
-- **Gabions** on gully floor to slow water and trap sediment
-- **Fencing** to exclude livestock
-- **Tree planting** on stabilised surfaces
-- **Spreader banks** to distribute headwaters gently downstream
-
-## Integrated Soil Management
-
-The permaculture approach to desert soils recognises that each soil type—sand, clay, loam, scald, claypan, gilgai—requires a distinct management strategy. The common thread is working with the soil's inherent properties: using sand's rapid infiltration for water storage, exploiting clay's sealing capacity for run-off harvesting, and reversing the damage of over-grazing through systematic revegetation. [[water-conservation]] begins on foothill slopes and generates forests downhill, following the basin and range topography that characterises most desert border landscapes.
+- [[desert-basins-pans-scalds-revegetation]]
+- [[desert-forest-relationships-and-runoff-dynamics]]
+- [[fukuoka-desert-revegetation-natural-farming]]
+- [[fukuoka-road-africa-greening-desert]]
+- [[inselbergs-and-fold-mountains-desert]]

@@ -1,35 +1,7 @@
 
 ## Introduction
 
-*Theobroma cacao*, commonly known as cacao or cocoa, is an evergreen understory tree native to the Amazon basin and the foothills of the Andes. Belonging to the family Malvaceae, the genus name *Theobroma* translates to "food of the gods," reflecting the deep [[ethnomycology-cultural-significance-sacred-fungi]] cacao held among Mesoamerican civilizations. The tree produces large pods containing 30–50 seeds (commonly called beans) embedded in a sweet, mucilaginous pulp. These seeds, after fermentation and processing, become the raw material for all chocolate products.
-
-Cacao has been cultivated for at least 3,900 years. Evidence from archaeological sites in Ecuador and Mesoamerica traces its domestication to the Mayo-Chinchipe culture around 1900 BCE, and later to the Olmec and Maya civilizations, who consumed it as a bitter, frothy beverage. The Aztec empire elevated cacao to a luxury commodity, using cacao beans as currency and reserving chocolate drinks for nobility and religious ceremonies. Spanish colonizers introduced cacao to Europe in the sixteenth century, where sugar and milk were eventually added, transforming it into the confection known worldwide today.
-
-Global cacao production now exceeds 5 million metric tons annually, concentrated in West Africa (Côte d'Ivoire, Ghana, Cameroon, Nigeria), Southeast Asia (Indonesia), and the Americas (Ecuador, Brazil, Peru). Despite its economic importance, cacao farming remains predominantly a smallholder enterprise, with over 5 million farming families dependent on the crop worldwide.
-
-## Botany and Taxonomy
-
-*Theobroma cacao* L. is classified within the order Malvales, family Malvaceae, subfamily Byttnerioideae (formerly Sterculiaceae). The genus *Theobroma* contains approximately 22 species, several of which are used locally for food or medicine, but *T. cacao* is the only species of significant commercial importance.
-
-### Growth Habit and Morphology
-
-Cacao trees are small to medium evergreens, typically reaching 4–8 m in cultivation (up to 15 m in the wild) under a shade canopy. The trunk is upright with a spreading canopy of large, oblong leaves (15–30 cm long) that are glossy dark green above and reddish when young. A notable feature is **cauliflory** — flowers, and subsequently pods, are borne directly on the trunk and major branches (orthotropic shoots), a trait that facilitates pollination by small insects in the forest understory.
-
-Flowers are approximately 1 cm in diameter, pinkish-white to pale red, and produced in clusters along the trunk. Each flower contains five petals, a prominent pentagonal staminode, and an ovary with five locules. Only 1–5% of flowers develop into mature pods. Pollination is primarily carried out by tiny biting midges (Ceratopogonidae, especially *Forcipomyia* spp.), with some contribution from aphids and other small insects.
-
-Mature pods are large (10–35 cm long, 7–12 cm wide), ovoid to elongated, and exhibit considerable variation in color and surface texture depending on variety. Each pod contains 30–50 seeds surrounded by a white, sweet, acidic pulp (baba) that plays a critical role in fermentation.
-
-### Root System
-
-Cacao develops a superficial root system. The majority of feeder roots (over 80%) occupy the top 15–20 cm of soil, extending laterally 1.5–2 m from the trunk. This shallow root architecture makes cacao highly sensitive to drought and wind exposure but also responsive to surface mulching and organic matter amendments.
-
-## The Three Main Varieties
-
-Cacao is broadly classified into three horticultural groups, though modern genetic research recognizes considerably more diversity:
-
-### Criollo
-
-Criollo cacao is considered the finest and rarest variety, prized for its mild, complex flavor profile with low astringency and rich aromatic notes (nuts, caramel, fruit). It originated in [[guzman-allen-gartz-neurotropic-fungi-central-america-caribbean]] and northern South America. Trees are susceptible to most major diseases, which has led to declining cultivation. Criollo accounts for less than 5% of global production. The beans are large, plump, and pale-colored when fermented. Well-known Criollo-derived types include Porcelana and Chuao from Venezuela.
+*Theobroma cacao*, commonly known as cacao or cocoa, is an evergreen understory tree native to the Amazon basin and the foothills of the Andes. Belonging to the family Malvaceae, the genus name *Theobroma* translates to "food of the gods," reflecting the deep [[guzman-allen-gartz-neurotropic-fungi-central-america-caribbean]] and northern South America. Trees are susceptible to most major diseases, which has led to declining cultivation. Criollo accounts for less than 5% of global production. The beans are large, plump, and pale-colored when fermented. Well-known Criollo-derived types include Porcelana and Chuao from Venezuela.
 
 ### Forastero
 
@@ -70,7 +42,7 @@ Cacao prefers deep, well-drained, loamy soils with:
 
 ### Shade
 
-In its natural habitat, cacao is an understory tree. Cultivated cacao benefits from 25–50% shade, particularly during the first 3–4 years. Shade trees (commonly Inga spp., Gliricidia sepium, Erythrina spp., or fruit trees like banana and plantain) reduce temperature stress, protect from wind, improve soil through [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]] and [[leaf-litter-microfungal-diversity-tropical-temperate]], and can provide additional income. Some modern full-sun production systems achieve higher yields but require intensive irrigation, fertilization, and pest management.
+In its natural habitat, cacao is an understory tree. Cultivated cacao benefits from 25–50% shade, particularly during the first 3–4 years. Shade trees (commonly Inga spp., Gliricidia sepium, Erythrina spp., or fruit trees like banana and plantain) reduce temperature stress, protect from wind, improve soil through [[leaf-litter-microfungal-diversity-tropical-temperate]], and can provide additional income. Some modern full-sun production systems achieve higher yields but require intensive irrigation, fertilization, and pest management.
 
 ## Propagation Methods
 
@@ -80,70 +52,99 @@ Seeds must be planted fresh — viability drops rapidly after 2 weeks. Seeds are
 
 ### Clonal Propagation
 
-[[vegetative-propagation-methods-mollison]] preserves the exact genetic characteristics of selected mother trees:
-
-- **Cuttings:** Softwood or semi-hardwood cuttings (15–25 cm) with 2–3 leaves, treated with rooting hormone (IBA 3,000–5,000 ppm), under mist in a shaded nursery. Rooting success ranges 60–80% after 6–8 weeks. This is the simplest clonal method but produces trees with less robust root systems.
-
-- **Grafting/Budding:** Patch budding or side grafting onto vigorous seedling rootstocks is the preferred method for large-scale propagation. The scion should come from high-yielding, disease-resistant mother trees. Graft union forms in 4–6 weeks.
-
-- **Chupon grafting:** Using orthotropic (upright) shoots (chupons) as scion material produces trees with a desirable upright architecture.
-
-### Tissue Culture
-
-Somatic embryogenesis has been developed for cacao but remains largely experimental and expensive. It offers potential for mass propagation of elite genotypes and pathogen-free planting material.
-
-## Planting and Orchard Design
-
-### Site Preparation
-
-Land is cleared, contoured where necessary, and shade trees established 1–2 years before cacao planting. Soil amendments (lime, rock phosphate, organic matter) are incorporated based on soil test results. In sloping terrain, contour planting with [[permplant-willows-salix-erosion-control-fodder]] measures is essential.
+[[permplant-willows-salix-erosion-control-fodder]] measures is essential.
 
 ### Spacing and Layout
 
-- **Standard spacing:** 3 × 3 m to 4 × 4 m (625–1,111 trees/ha) depending on [[soil-fertility-building-gradient-solomon]] and shade intensity
-- **Agroforestry systems:** 4 × 4 m to 5 × 5 m with interplanted shade and companion crops
-- **Rows oriented north-south** to maximize light interception where shade is managed
-
-Planting holes (40 × 40 × 40 cm) are dug and partially filled with topsoil mixed with compost or well-rotted manure. Seedlings are transplanted at 4–6 months of age at the onset of the rainy season.
-
-### Companion Planting in Agroforestry
-
-Cacao is ideally suited to multistrata agroforestry systems:
-
-- **Upper canopy:** Timber trees (Cordia alliodora, Terminalia ivorensis) or fruit trees (Mangifera indica, Persea americana)
-- **Mid canopy:** Shade and nitrogen-fixing-plants trees (Inga edulis, Gliricidia sepium, Erythrina poeppigiana)
-- **Lower canopy:** Cacao, with possible understory crops (banana, plantain, pineapple, taro)
-- **Ground cover:** Leguminous cover crops (Arachis pintoi, Calopogonium mucunoides)
-
-This layered approach mimics natural forest structure, providing biodiversity habitat, soil protection, diversified income, and microclimate regulation.
-
-## Tree Care
-
-### Pruning
-
-Pruning begins in the second year and continues annually:
-
-- **Formative pruning** (years 1–3): Remove chupons that are not needed for the main framework, maintain a single leader or jorquette (first branching point at 1–1.5 m)
-- **Maintenance pruning:** Remove dead, diseased, or crossing branches; thin the canopy to improve air circulation and light penetration; maintain 60–80 cm clearance between canopy and ground
-- **Rehabilitation pruning:** For older, unproductive trees, chupon regrowth can be managed to regenerate the tree (a practice called "suckering")
-
-Pruning should be done after the main harvest, during a dry period, to minimize disease entry through wounds.
-
-### Fertilization
-
-Cacao has high nutrient demands, particularly for potassium (K), nitrogen (N), and magnesium (Mg):
-
-- **Young trees (0–3 years):** 50–100 g N, 25–50 g P₂O₅, 50–100 g K₂O per tree annually, split into 2–3 applications
-- **Bearing trees (4+ years):** 100–150 g N, 25–50 g P₂O₅, 150–200 g K₂O per tree annually, plus 25–50 g MgO
-- **Organic alternatives:** Composted cacao pod husks, poultry manure, [[green-manure-cover-crops]] from shade trees, rock phosphate, wood ash
+- **Standard spacing:** 3 × 3 m to 4 × 4 m (625–1,111 trees/ha) depending on [[green-manure-cover-crops]] from shade trees, rock phosphate, wood ash
 
 ## See Also
 
 - Agroforestry and Alley Cropping
 - Fermented Foods and Beverages
-- [[food-forests-and-the-seven-story-garden]]
-- Silvopasture Systems Design and Management
-- Vanilla [[vanilla-cultivation-and-orchid-ecology]] Ecology
+- [[vanilla-cultivation-and-orchid-ecology]] Ecology
 - [[query-what-is-companion-planting-and-how-does-it-work]] Polycultures
 - Terra Preta and Anthrosols
 - The Soil Food Web
+
+## Overview
+
+Cacao Cultivation And Chocolate Production represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish cacao cultivation and chocolate production
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving cacao extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Cacao Cultivation And Chocolate Production finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for cacao cultivation and chocolate production. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+cacao cultivation and chocolate production and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Cacao Cultivation And Chocolate Production has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of cacao cultivation and chocolate production into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[comparison-cacao-vs-black-pepper-tropical-crop-cultivation]]
+- [[comparison-coffee-vs-cacao-cultivation]]

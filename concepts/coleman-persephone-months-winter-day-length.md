@@ -1,5 +1,5 @@
 ---
-title: "Coleman Persephone Months: Winter Day Length and Plant Growth"
+title: "Coleman [[coleman-winter-day-length-and-persephone-months]]: Winter Day Length and Plant Growth"
 source: eliot-coleman-winter-harvest-handbook.md
 tags: [persephone-months, day-length, winter-harvest, photoperiod, coleman]
 created: 2026-05-11
@@ -12,15 +12,15 @@ In the myth,  Persephone descends to the underworld for winter,
 and the earth lies barren until she returns in spring. Similarly,
 when the days become too short,
 plants stop growing regardless of temperature,
-and the winter greenhouse becomes a storage chamber for existing crops rather than a place of active production.
+and the [[coleman-aphid-management-winter-greenhouse-nitrogen-flushing]] becomes a storage chamber for existing crops rather than a place of active production.
 Understanding this phenomenon is essential for planning winter harvest schedules and managing expectations about what the cold-house system can produce.
 
 ## The Science of Photoperiod and Plant Growth
 
-The relationship between day length and plant growth is governed by photoperiodism — the biological response of organisms to the duration of light and darkness in a 24-hour period.
+The relationship between day length and plant growth is governed by photoperiodism — the [[medicinal-mushrooms-biological-response-modifiers]] of organisms to the duration of light and darkness in a 24-hour period.
 While photoperiodism is most commonly discussed in the context of flowering (short-day plants,
 long-day plants,  and day-neutral plants),
-it also fundamentally affects vegetative growth rates.
+it also fundamentally affects [[cannabis-vegetative-growth-stage]] rates.
 All plants have a minimum daily light requirement for active photosynthesis and growth.
 When the daily light period falls below this threshold,
 the rate of photosynthesis drops below the level needed to support new growth.
@@ -36,7 +36,7 @@ conserving existing resources rather than investing in new tissue.
 
 ## Geographic Variation in Persephone Period
 
-The duration and timing of the Persephone period varies dramatically with latitude.
+The [[phenethylamine-duration-and-timing]] of the Persephone period varies dramatically with latitude.
 At Coleman's farm in coastal Maine (approximately 44°N latitude),
 the period when day length is less than 10 hours extends from approximately November 10 to January 30 — roughly 11 weeks.
 At higher latitudes,  the Persephone period is longer; at lower latitudes,
@@ -55,7 +55,7 @@ The practical implication is that the cold-house winter harvest system works bes
 At very high latitudes,
 the extended period of darkness makes winter production impractical regardless of protection.
 At very low latitudes,
-the system is unnecessary because the climate itself permits year-round outdoor growing.
+the system is unnecessary because the climate itself permits year-round [[cannabis-outdoor-growing]].
 
 ## What Happens During the Persephone Months
 
@@ -140,8 +140,6 @@ These dates define the beginning and end of the Persephone period for any given 
 
 ## See Also
 
-- [[coleman-winter-spinach-dependable-cold-house-crop]]
 - [[coleman-winter-harvest-planting-schedule]]
-- [[coleman-double-layer-protection-temperature-performance]]
 - [[coleman-mobile-greenhouse-crop-rotation-design]]
 - [[coleman-cold-hardy-winter-vegetables]]

@@ -14,37 +14,13 @@ type: comparison
 
 ## Overview
 Coco coir and peat-free gardening approaches both offer alternatives to
-traditional peat moss-based [[green-cannabis-rockwool-hydroponic-growing-media]], but from different angles. Coco coir
-is a specific [[cervantes-green-algae-growing-medium]] made from processed coconut husk fibers, valued for
+traditional peat moss-based [[cervantes-green-algae-growing-medium]] made from processed coconut husk fibers, valued for
 its excellent water retention, aeration, and sustainability. Peat-free gardening
-is a broader [[fukuoka-do-nothing-farming-philosophy-and-practice]] that encompasses multiple alternatives to
-peat moss, including coco coir, composted bark, wood fiber, green compost, and
-other organic materials. The comparison here examines coco coir as a targeted
-growing medium against the broader peat-free movement and its various media
-options for [[query-how-does-no-till-cannabis-cultivation-work]].
+is a broader [[query-how-does-no-till-cannabis-cultivation-work]].
 
 ## Coco Coir
-[[perlite-cannabis]]
-- [[living-soil-cannabis]]
-- [[biochar-in-agriculture]]
-## Practical Applications
-
-Coco Coir vs Peat-Free Gardening has a range of practical applications that make it relevant to
-both researchers and practitioners. Understanding these applications
-requires familiarity with the underlying principles and their
-manifestation in real-world contexts. The breadth of applications
-reflects the fundamental importance of this topic across disciplines.
-
-Implementation varies based on scale, available resources, and
-specific objectives. Small-scale applications may be relatively
-straightforward, while larger implementations require more careful
-planning and coordination. Adaptation to local conditions is always
-essential for achieving optimal results regardless of scale.
-
-Documented case studies provide valuable reference points, though
-each situation presents unique combinations of opportunities and
-constraints that require context-specific solutions. The most
-successful implementations combine established [[arbuscular-mycorrhizal-inoculum-production-best-practices]] with
+[[living-soil-cannabis]]
+- [[arbuscular-mycorrhizal-inoculum-production-best-practices]] with
 creative adaptation to local conditions and emerging challenges.
 
 ## Key Considerations

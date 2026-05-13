@@ -10,7 +10,7 @@ sources: [/Users/t3rpz/wiki/raw/papers/magic-mushrooms-of-australia-newzealand-b
 
 # Psilocybe collybioides
 
-**Psilocybe collybioides** is a [[psilocybe-subaeruginosa]], as part of early systematic surveys of [[cattle-dispersal-psychoactive-fungi-australia]] in the southern Australian states.
+**Psilocybe collybioides** is a [[cattle-dispersal-psychoactive-fungi-australia]] in the southern Australian states.
 
 ## Taxonomy and Classification
 
@@ -20,35 +20,16 @@ The species was documented by Dr. Malcolm Hall, who reported its occurrence from
 
 ## Morphology
 
-*Psilocybe collybioides* is a small mushroom, generally smaller and more delicate than species like [[psilocybe-cubensis]]. The pileus (cap) is typically less than 25 mm in diameter, convex to broadly convex, with a smooth surface that is hygrophanous. Color ranges from pale brown to ochraceous when moist, fading to cream or whitish as it dries. The cap margin is typically even and not translucently striate, distinguishing it from some other small Psilocybe species. The overall stature is collybioid — resembling species of the genus *Collybia* — with a central stipe and broadly attached gills, which explains the specific epithet and contributes to the difficulty of field identification among the many small brown mushrooms found in forest litter.
-
-The gills are adnate to sinuate, close to subdistant, and darkening from pale grayish to dark brown as spores mature. The stipe is slender and fragile, typically hollow, and may exhibit some bluish discoloration when bruised, though this reaction can be variable and less pronounced than in more potent species. The stipe surface is smooth, lacking a distinct annulus or annular zone.
-
-The [[comparison-spore-print-collection-vs-spore-syringe-production]] is dark purplish-brown, consistent with the Psilocybe genus. Spores are ellipsoid, smooth, and approximately 9–13 × 5–7 µm. [[fungal-microscopic-examination-mounting-media-techniques]] reveals cheilocystidia that are ventricose to lageniform, similar to other species in the genus. The pileipellis is a cutis of filamentous hyphae, consistent with the genus-level morphology.
-
-## Distribution and Habitat
-
-*P. collybioides* has been confirmed from Tasmania and is likely present in other cool, temperate regions of southeastern Australia, including Victoria and southern New South Wales. Its actual range may be broader, but the species is easily overlooked due to its small size and similarity to common litter-inhabiting mushrooms. Unlike the dung-inhabiting [[psilocybe-subaeruginosa]].
+*Psilocybe collybioides* is a small mushroom, generally smaller and more delicate than species like [[comparison-spore-print-collection-vs-spore-syringe-production]] is dark purplish-brown, consistent with the Psilocybe genus. Spores are ellipsoid, smooth, and approximately 9–13 × 5–7 µm. [[psilocybe-subaeruginosa]].
 
 ## Chemistry and Potency
 
-*Psilocybe collybioides* has been confirmed to contain [[psilocin]] through [[challenges-neurotropic-fungi-chemical-analysis-taxonomic-identification]]. It is generally regarded as a species of low to moderate potency, producing milder psychoactive effects compared to the more potent [[psilocybe-subaeruginosa]] collected from the same habitats. Based on bioassay comparisons, estimated alkaloid content likely falls in the range of 0.1–0.4% psilocybin and 0.02–0.15% psilocin per dry weight, though these figures remain unconfirmed by formal analytical studies. [[galerina-marginata]] and [[gymnopilus-spectabilis-entity]] and non-psychoactive Mycena species.
-
-## Taxonomic History
-
-The species was documented by Dr. Malcolm Hall, who reported its occurrence from Tasmanian collections in the early 1970s. Cribb and Cribb (1975) also referenced the species in their broader surveys of Australian psychoactive fungi. The taxonomic status of *P. collybioides* has been relatively stable since its original description, though some authorities have questioned whether it represents a distinct species or a morphological variant of [[psilocybe-subaeruginosa]].
-- **Psilocybe tasmaniana**: Found in similar Tasmanian habitats but typically associated with dung-enriched grassland rather than forest litter. See [[psilocybe-subaeruginosa]] during the same period, reflecting its more specific habitat requirements and possibly lower competitive ability on exposed wood substrates.
-
-## Conservation Notes
-
-While no formal conservation assessment exists for *P. collybioides*, the species may be vulnerable to habitat loss from logging, land clearing, and [[dighton-fungi-climate-change-feedback]] in Tasmania's native forests. As a species adapted to cool, wet conditions, warming temperatures and reduced rainfall could impact fruiting success and distribution. The lack of molecular phylogenetic data for this species also limits understanding of its evolutionary relationships and conservation priorities.
+*Psilocybe collybioides* has been confirmed to contain [[challenges-neurotropic-fungi-chemical-analysis-taxonomic-identification]]. It is generally regarded as a species of low to moderate potency, producing milder psychoactive effects compared to the more potent [[galerina-marginata]] and [[psilocybe-subaeruginosa]].
+- **Psilocybe tasmaniana**: Found in similar Tasmanian habitats but typically associated with dung-enriched grassland rather than forest litter. See [[dighton-fungi-climate-change-feedback]] in Tasmania's native forests. As a species adapted to cool, wet conditions, warming temperatures and reduced rainfall could impact fruiting success and distribution. The lack of molecular phylogenetic data for this species also limits understanding of its evolutionary relationships and conservation priorities.
 
 ## See Also
 
-* [[psilocybe-tasmaniana]] — another Tasmanian psychoactive species
-* psilocybe-aucklandii — related species from New Zealand
 * [[galerina-marginata]] — deadly lookalike containing amatoxins
-* [[baeocystin]] — secondary alkaloid likely present in this species
 * [[norbaeocystin]] — additional tryptamine alkaloid found in related species
 ## Practical Considerations
 
@@ -88,3 +69,82 @@ than assuming perfect predictability or control over outcomes.
 Documentation and record-keeping support continuous improvement by
 creating a reference base of observations, interventions, and results.
 This accumulated knowledge enables progressively better decision-making
+
+## Overview
+
+Psilocybe Collybioides represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish psilocybe collybioides
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving psilocybe extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Psilocybe Collybioides finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for psilocybe collybioides. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+psilocybe collybioides and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Psilocybe Collybioides has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of psilocybe collybioides into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also

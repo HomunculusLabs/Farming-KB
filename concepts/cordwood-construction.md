@@ -1,5 +1,5 @@
 ---
-title: Cordwood Construction
+title: [[comparison-bamboo-vs-cordwood-construction]]
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
@@ -125,7 +125,7 @@ A 16-inch cordwood wall has approximately R-16 to R-20 depending on wood species
 
 ### Thermal Mass
 
-The mortar provides significant thermal mass, absorbing heat during the day and releasing it at night. This makes cordwood walls ideal for [[passive-solar-design]] homes where thermal mass is desirable.
+The mortar provides significant thermal mass, absorbing heat during the day and releasing it at night. This makes cordwood walls ideal for [[passive-solar-design|passive solar]] homes where thermal mass is desirable.
 
 ## Code Considerations
 

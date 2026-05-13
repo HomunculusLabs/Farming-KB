@@ -22,36 +22,13 @@ sources:
 
 ## Overview
 
-Permanent Marker is a balanced [[query-what-is-the-difference-between-indica-sativa-and-hybrid-cannabis]] strain bred by Seed Junky
-Genetics and selected by the Cookies brand. Named Leafly's Strain of the Year
-for 2023, it has rapidly become one of the most sought-after modern
-cultivars, known for its extremely potent aroma profile and heavy resin
-production.
-
-The strain exemplifies the contemporary "exotic" trend in [[oner-cannabis-breeding-fundamentals]],
-combining loud terpene expression with high [[thc-content-factors-cultivation-freshness-storage-degradation-blesching]] and bag appeal.
-Its name references the pungent, lingering scent that seems to persist on
-everything it contacts.
-
-## Lineage
-
-Permanent Marker is a three-way cross of:
-
-- **Biscotti** (female) — itself a Gelato #25 × South Florida OG cross,
-  contributing dense [[green-cannabis-plant-anatomy-calyx-pistil-bud-structure]], cookie-dough sweetness, and relaxing
+Permanent Marker is a balanced [[oner-cannabis-breeding-fundamentals]],
+combining loud terpene expression with high [[green-cannabis-plant-anatomy-calyx-pistil-bud-structure]], cookie-dough sweetness, and relaxing
   body effects.
 - **Jealousy** — a Gelato #41 × Sherbet cross, lending creamy lavender
   notes, cerebral euphoria, and purple coloration potential.
 - **Sherbet BX1** — a backcross of Sherbet reinforcing the dessert
-  [[cannabis-terpene-profile]] and adding frosty trichome coverage.
-
-The genetic ratio is approximately 50/50 indica-sativa, though phenotype
-expression can lean slightly indica-dominant depending on selection.
-
-## Appearance
-
-Buds are medium to large with a dense, chunky structure characteristic of
-the Biscotti lineage. Colors range from deep [[trichoderma-forest-green-mold-guide]] to muted purple
+  [[trichoderma-forest-green-mold-guide]] to muted purple
 with bright orange pistils woven throughout.
 
 The most striking feature is the resin coverage: flowers are typically
@@ -64,26 +41,94 @@ and capitate-stalked trichome heads are abundant.
 The aroma is intensely pungent and complex, described as a combination of:
 - **Sharp, chemical marker-like notes** (hence the name) — gassy, acrid
 - **Creamy dessert undertones** — vanilla, cookie dough, sweet cream
-- **Earthy funk** — damp soil, skunk, [[bionutrients-lab-fermented-fruit-juice-ffj]]
-
-The flavor follows the aroma closely: initial hits deliver a creamy, sweet
-cookie-like inhale followed by an acrid, gassy, peppery exhale. The
-aftertaste is long-lasting and lingers on the palate — true to the name.
-
-## Terpene and Cannabinoid Profile
-
-**Dominant terpenes:**
-- **Caryophyllene** (~0.8–1.2%) — peppery, contributes to the sharp
-  aroma; binds CB2 receptors for anti-inflammatory effects.
-- **Limonene** (~0.6–1.0%) — citrus notes, mood elevation, stress relief.
-- **Myrcene** (~0.5–0.8%) — earthy, sedative body effects.
-- **Linalool** (trace–0.3%) — floral, anxiolytic.
-
-**Cannabinoid profile:** THC typically ranges 25–32%, with total cannabinoid
-content reaching 33–36%. CBD is very low (<0.1%). THCa content accounts for
-most of the total. [[cannabis-minor-cannabinoids]] (CBG, CBC) are present in trace
+- **Earthy funk** — damp soil, skunk, [[cannabis-minor-cannabinoids]] (CBG, CBC) are present in trace
 amounts.
 
 ## Effects
 
 **Onset:** Rapid, felt within 2–5 minutes of inhalation.
+
+## Overview
+
+Permanent Marker represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish permanent marker
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving permanent extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Permanent Marker finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for permanent marker. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+permanent marker and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Permanent Marker has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of permanent marker into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[earthcare-ethics-and-permanent-agriculture]]
+- [[permaculture-ethics-and-permanent-agriculture]]
+- [[permanent-agriculture-feudal-baronial-communal-systems]]
+- [[solomon-permanent-mulching-critique-limitations]]
+- [[solomon-permanent-mulching-critique-mild-climate-failure]]

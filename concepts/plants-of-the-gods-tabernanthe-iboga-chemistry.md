@@ -32,29 +32,8 @@ large as olives. One of the few members of the Apocynaceae utilized
 as a hallucinogen, its yellowish root is the active part of the plant,
 containing the psychoactive alkaloids.
 
-[[tabernanthe-iboga]] provides a detailed botanical profile of this sacred shrub. [[schultes-psilocybe-little-flowers-gods]]
-(*Psilocybe* spp.) and [[schultes-iboga-bwiti-cult]] and other secret societies in Gabon and Zaire. Iboga is taken
-in two ways: regularly in limited doses before and in the early part
-of ceremonies, followed after midnight by a smaller dose; and once or
-twice during initiation in excessive doses of one to three basketfuls
-over an eight-to-twenty-four-hour period, to "break open the head,"
-thus inducing contact with ancestors through collapse and hallucinations.
-
-Iboga may act as a powerful stimulant, enabling the partaker to
-maintain extraordinary physical exertion without fatigue over a long
-period. The body may feel lighter, and levitation is often experienced.
-Spectrums or rainbowlike effects are seen in surrounding objects,
-indications to the initiate that he is approaching the realms of the
-ancestors and of the gods. Time perception is altered; time is
-lengthened, and initiates feel that their spiritual trip has taken
-many hours or even days. Large doses induce auditory, olfactory, and
-gustatory synesthesia. Mood may vary greatly from fear to euphoria.
-
-## Admixture Plants
-
-Other plants of reputed narcotic properties are involved in the Iboga
-cults, sometimes used alone, sometimes as admixtures with *Tabernanthe
-iboga* itself. [[plants-gods-iboga]] Apocynaceous Plants
+[[schultes-psilocybe-little-flowers-gods]]
+(*Psilocybe* spp.) and [[plants-gods-iboga]] Apocynaceous Plants
 
 Most varieties of related Apocynaceous plants contain ibogaine-like
 alkaloids. *Voacanga* species of tropical Africa contain voacangine,
@@ -67,7 +46,6 @@ pharmacological significance of the iboga alkaloid family.
 
 The iboga alkaloids are classified as indole alkaloids, placing them
 in the same broad chemical family as the tryptamines of
-[[plants-of-the-gods-claviceps-ergot-alkaloids]] and
 [[schultes-syrian-rue-seeds-civilization]].
 Their [[plants-of-the-gods-tabernanthe-iboga]]
 ## Practical Considerations
@@ -88,3 +66,85 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
+
+## Overview
+
+Plants Of The Gods Tabernanthe Iboga Chemistry represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish plants of the gods tabernanthe iboga chemistry
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving plants extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Plants Of The Gods Tabernanthe Iboga Chemistry finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for plants of the gods tabernanthe iboga chemistry. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+plants of the gods tabernanthe iboga chemistry and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Plants Of The Gods Tabernanthe Iboga Chemistry has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of plants of the gods tabernanthe iboga chemistry into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[hallucinogenic-plants-overview]]
+- [[hallucinogenic-plants-overview-cultural-significance]]

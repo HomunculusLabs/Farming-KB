@@ -55,12 +55,7 @@ cholesterol into vitamin D.
 
 Several studies have confirmed the anti-emetic benefits of cannabinoids on
 melanoma patients undergoing radiation treatment and chemotherapy. Case
-study reports of successful applications of extracted [[cervantes-hash-cannabis-oil-production]] against
-melanoma exist, notably from the citizen experiments of Rick Simpson and
-reports by Cannabis Science, Inc. While scientific studies examining the
-efficacy of cannabis on melanoma are still limited, a study conducted by
-the National Institute of Oncology in Budapest proved that CB1 modulation
-induces apoptosis (programmed [[blesching-cannabis-apoptosis-and-cancer-cell-death]]) of human melanoma cells.
+study reports of successful applications of extracted [[blesching-cannabis-apoptosis-and-cancer-cell-death]]) of human melanoma cells.
 
 ### Study Summary
 
@@ -68,20 +63,8 @@ induces apoptosis (programmed [[blesching-cannabis-apoptosis-and-cancer-cell-dea
 |--------------------|-----------|--------------------------|-----|
 | CB1 agonist Met-F-AEA, CB1 antagonist AM251 | Laboratory on human melanoma cell lines | 2008, National Inst. of Oncology, Budapest, Hungary: CB1 modulation induces apoptosis of human melanoma cells | 1 |
 
-**Total [[blesching-cannabis-prostate-cancer-chi-value-3]]: 1**
-
-### Strain-Specific Considerations
-
-The Hungarian laboratory experiment highlights a potential pathway involving
-CB1 receptor activation in the destruction of human melanoma cells. The
-[[synthetic-cannabinoid-pharmaceuticals-sativex-dronabinol-marinol]] Met-F-AEA is similar to naturally occurring
-[[anandamide]], which binds relatively equally to CB1 and CB2 receptors.
-
-- Sativas and sativa-heavy strains tend to have higher THC:CBN ratios,
-  which may increase CB1 activation compared to indicas
-- Indicas and indica-heavy strains with lower THC:CBD ratios may increase
-  CB2 activation
-- See [[blesching-cannabis-skin-cancer-non-melanoma]] and the general
+**Total [[synthetic-cannabinoid-pharmaceuticals-sativex-dronabinol-marinol]] Met-F-AEA is similar to naturally occurring
+[[blesching-cannabis-skin-cancer-non-melanoma]] and the general
 introduction to cancer in Blesching's text for mind-body perspectives on
 skin cancer. The skin represents a boundary between self and the external
 world, and the face in particular communicates emotional states through
@@ -118,8 +101,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[dronabinol]]
 - [[anandamide]]
-- [[blesching-cannabis-skin-cancer-non-melanoma]]
 - [[blesching-cannabis-neuroprotection-neurodegenerative]]
 - [[cannabis-sativa-vs-indica-strain-profiles-therapeutic-blesching]]

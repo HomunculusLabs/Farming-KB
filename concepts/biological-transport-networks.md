@@ -13,9 +13,7 @@ type: concept
 Biological transport networks are branched distribution systems that move
 materials — nutrients, gases, signalling molecules, waste — across spatial
 scales within and between organisms. They are found in every kingdom of
-life and share remarkable [[holmgren-permaculture-twelve-design-principles-framework]] despite their diverse
-[[tryptamine]]. Prominent examples include [[davidson-mathematical-modeling-fungal-mycelia]], animal
-vasculature, plant [[xylem-and-phloem-transport-systems-in-plants]], and slime mould foraging networks.
+life and share remarkable [[tryptamine]]. Prominent examples include [[xylem-and-phloem-transport-systems-in-plants]], and slime mould foraging networks.
 
 ## Universal Design Principles
 
@@ -28,31 +26,9 @@ biological work of maintaining the vessel plus the work of pumping fluid
 through it. The same principle has been observed in:
 
 - **Xylem conduits** in vascular plants
-- **[[hyphal-branching-regulation-nutrient-sensing-gadd]]** in [[teaming-with-microbes-tilling-damage-to-fungal-networks]]
+- **[[teaming-with-microbes-tilling-damage-to-fungal-networks]]
 - **Tracheal tubes** in insect respiratory systems
-- **Slime mould veins** in *[[physarum-polycephalum]]*
-
-### Supply-Demand Matching
-
-Efficient transport networks dynamically adjust capacity to local demand:
-
-- **Angiogenesis** creates new blood vessels in response to hypoxia.
-- **Fungal cords** thicken along productive foraging routes.
-- **Xylem** produces wider vessels in environments with high transpiration
-  demand.
-- **Leaf venation** density correlates with photosynthetic capacity.
-
-### Redundancy and Robustness
-
-Biological networks are typically highly redundant. In mammalian vasculature,
-the presence of multiple parallel pathways means that occlusion of a single
-vessel rarely causes tissue death. Similarly, fungal mycelia maintain
-multiple connections between resource patches, allowing the network to
-function even when substantial portions are damaged.
-
-## Fungal Networks as Model Systems
-
-Slime moulds (*Physarum polycephalum*) have become a [[canary-grass-phototropism-model-organism]] for
+- **Slime mould veins** in *[[canary-grass-phototropism-model-organism]] for
 studying biological network optimisation. Despite lacking a nervous system,
 *Physarum* can:
 
@@ -118,8 +94,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[dom]]
 - [[det]]
-- [[phototropism]]
 - [[permaculture]]
 - [[tryptamine]]

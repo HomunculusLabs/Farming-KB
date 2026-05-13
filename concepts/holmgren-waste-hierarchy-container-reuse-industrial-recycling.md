@@ -7,10 +7,8 @@ topics: [permaculture, waste, recycling, circular-economy, industrial-design, co
 
 # Waste as Potential Abundance — Container Reuse, Industrial Recycling, and Upstream Redesign
 
-In his elaborati [[chicken-of-the-woods]] the principle "Produce No Waste," Holmgren provides a
-nuanced framework for understanding waste not as an inevitable byprodu [[fukuoka-textdoc-errors-of-human-intellect]] man activity b [[allegro-christianity-as-a-fertility-cult]] s a failure of design. His treatment [[fungal-industrial-wastewater-treatment]] goes well beyond the
-familiar waste hierarchy to examine specific industrial [[fungal-industrial-wastewater-treatment]] examples, the psychology
-of wasteful habits [[psilocybin-logos-consciousness]] he radical potential of upstream redesign.
+In his elaborati [[fukuoka-textdoc-errors-of-human-intellect]] man activity b [[fungal-industrial-wastewater-treatment]] goes well beyond the
+familiar waste hierarchy to examine specific industrial [[psilocybin-logos-consciousness]] he radical potential of upstream redesign.
 
 ## The Waste Hierarchy in Depth
 
@@ -20,7 +18,7 @@ where design interventions will have the greatest impact. Holmgren emphasizes
 that the order matters profoundly: recycling, while better than landfilling,
 is far less effective than refusing or reducing waste at source.
 
-Eac [[psilocybin-in-the-counter-culture]] in the hierarchy represents an order of magnitude improvem [[permaculture-energy-cycling-and-resource-efficiency]] iciency. Refusing unnecessary consumption eliminates the entire
+Eac [[permaculture-energy-cycling-and-resource-efficiency]] iciency. Refusing unnecessary consumption eliminates the entire
 waste stream; reducing consumption cuts it proportionally; reusing extends the
 life of materials without energy-intensive processing; repair maintains value
 in existing products; and recycling recovers materials at significant energy
@@ -118,8 +116,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[doc]]
 - [[psilocybin]]
-- [[permaculture]]
 - [[holmgren-produce-no-waste-waste-hierarchy-refuse-reduce-reuse-repair-recycle]]
 - [[holmgren-optimum-scale-speed-balance-industrial-post-industrial]]

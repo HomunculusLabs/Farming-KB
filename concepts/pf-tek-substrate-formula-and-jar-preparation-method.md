@@ -10,16 +10,7 @@ tags: [cultivation, pf-tek, substrate, mycology, psilocybe-cubensis, vermicultiv
 
 ## Overview
 
-The PF TEK ([[pf-tek-psilocybe-fanaticus]] Technique), introduced in 1991–1992, revolutionized amateur mycology by providing an accessible method for cultivating *[[basidiocarp-four-stage-development-classification-psilocybe-cubensis-badham-1982]]* using common household materials. The core innovation was the **PF substrate formula** — a simple mixture of **brown rice powder**, **vermiculite**, and **water** — which eliminated the need for expensive laboratory equipment and specialized knowledge. The technique was widely copied and became the foundation for modern home [[accessible-mushroom-cultivation-for-disabilities]] worldwide.
-
-## The PF Substrate Formula
-
-### Ingredients
-
-The PF substrate requires only three ingredients:
-
-- **Brown rice powder** (BRP): Finely ground brown rice, providing complex carbohydrates, proteins, and micronutrients for mycelial growth. Brown rice is preferred over white rice because the retained bran layer provides additional nutrients.
-- **Vermiculite**: A naturally occurring mineral (hydrated magnesium-aluminum-iron silicate) that is expanded by heating. It serves as the structural matrix of the substrate, providing water retention, aeration, and a physical scaffold for [[mycelial-colonization]].
+The PF TEK ([[basidiocarp-four-stage-development-classification-psilocybe-cubensis-badham-1982]]* using common household materials. The core innovation was the **[[pf-substrate-formula]]** — a simple mixture of **brown rice powder**, **vermiculite**, and **water** — which eliminated the need for expensive laboratory equipment and specialized knowledge. The technique was widely copied and became the foundation for modern home [[mycelial-colonization]].
 - **Distilled water**: Provides moisture for both [[mycelial-growth-and-colonization]] steam sterilization. Distilled water is preferred to avoid introducing mineral contaminants or chlorine.
 
 ### The Role of Vermiculite

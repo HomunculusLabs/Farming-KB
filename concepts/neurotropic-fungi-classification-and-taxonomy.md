@@ -6,9 +6,7 @@ Neurotropic (hallucinogenic, psychotropic, or entheogenic) fungi represent a div
 assemblage of mushroom species distributed across multiple fungal families and orders.
 The seminal work by Guzmán, Allen, and Gartz (2000) catalogued 216 species of
 neurotropic fungi worldwide, organized into four principal groups based on their
-active [[guzman-magic-mushrooms-chemical-constituents]] and ethnobotanical significance. The taxonomy of these
-fungi remains complex and subject to ongoing revision, with frequent misidentifications
-and contradictory [[guzman-allen-gartz-conflicting-chemical-analyses-neurotropic-fungi]] complicating the literature.
+active [[guzman-allen-gartz-conflicting-chemical-analyses-neurotropic-fungi]] complicating the literature.
 
 ## The Four Groups of Neurotropic Fungi
 
@@ -42,10 +40,7 @@ This group contains species with ibotenic acid and muscimol as primary active
 compounds, structurally unrelated to tryptamines:
 
 - **Amanita muscaria** (Fly Agaric) — the most culturally significant species
-- **[[amanita-pantherina]]** (Panther Cap)
-- **Amanita regalis**
-
-These species form [[plants-without-mycorrhizal-associations]] with Pinus and Betula in northern
+- **[[plants-without-mycorrhizal-associations]] with Pinus and Betula in northern
 hemisphere forests. Their chemistry and effects differ markedly from psilocybin-
 containing fungi. Several closely related Amanita species are lethally toxic,
 contributing to their lower recreational popularity.
@@ -54,13 +49,7 @@ contributing to their lower recreational popularity.
 
 The Claviceps group produces ergot alkaloids, including lysergic acid derivatives:
 
-- **[[bloomfield-ergot-claviceps-purpurea-ergotism]]** — the classic ergot parasite of cereals
-- **Claviceps nigricans**, **C. paspali**, **C. rolfesii**, **C. tripsicii**
-- **Cordyceps capitata** and **C. ophioglossoides**
-
-The Cordyceps species are taxonomically related to Claviceps and have been used
-sacredly by indigenous peoples in Mexico, particularly in the Nevado de Toluca
-region, where they are consumed alongside [[psilocybe-muliercula]] in nocturnal
+- **[[psilocybe-muliercula]] in nocturnal
 ceremonies. The host genus Elaphomyces (truffle fungi) is placed at the center
 of the ceremony as a "director."
 
@@ -76,14 +65,86 @@ chemical analyses confirming neurotropic properties:
 
 Heim (1963, 1966, 1978) reported boletes as hallucinogenic in New Guinea, though
 Ott (1993) later stated they do not possess neurotropic properties. The Mixtec
-Indians of Oaxaca traditionally used puffballs ([[lycoperdon-mixtecorum]], L.
-marginatum) as narcotic fungi, but Ott et al. (1975) demonstrated these were
-edible species used in contexts suggesting confusion with psilocybin fungi.
+Indians of Oaxaca traditionally used puffballs ([[dark-incubation-sclerotia-production-psilocybe-mexicana-tampanensis]], and P. coprophila, all identified as P. coprophila.
 
-## Taxonomic Challenges
+## Overview
 
-### Misidentification Problems
+Neurotropic Fungi Classification And Taxonomy represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
 
-Many chemical studies lack a solid taxonomic foundation. Guzmán found that material
-used by Leslie and Repke to isolate psilocybin was actually a mixture of Panaeolus
-spp., [[dark-incubation-sclerotia-production-psilocybe-mexicana-tampanensis]], and P. coprophila, all identified as P. coprophila.
+## Key Characteristics
+
+Several defining characteristics distinguish neurotropic fungi classification and taxonomy
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving neurotropic extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Neurotropic Fungi Classification And Taxonomy finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for neurotropic fungi classification and taxonomy. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+neurotropic fungi classification and taxonomy and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Neurotropic Fungi Classification And Taxonomy has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of neurotropic fungi classification and taxonomy into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[copelandia-panaeoloideae-neurotropic-fungi-taxonomy-distribution]]
+- [[guzman-allen-gartz-neurotropic-fungi-europe]]

@@ -24,13 +24,7 @@ created: 2026-05-03
 
 # What Are the Best Kiwifruit Varieties for Cold Climates?
 
-**Short answer:** For Zones 3–5, the top choices are **[[query-how-do-i-grow-figs-in-cold-climates]]
-
-*Actinidia deliciosa* (the standard brown-fuzzy kiwi) requires 600–800 chilling hours and winter temperatures no colder than about –10°C (14°F). Even in Zone 7, severe winters can cause dieback, and late spring frosts frequently destroy flowers. In Zones 3–6, winter temperatures routinely drop to –20°C to –40°C, killing fuzzy kiwi vines to the ground. Do not attempt it without a heated greenhouse.
-
-## Hardy Kiwi (*Actinidia arguta*) — Zones 4–7
-
-Hardy kiwi is t [[cotter-mushroom-products-and-value-added-applications]] products (jams, wine). Ornamental as well as productive.
+**Short answer:** For Zones 3–5, the top choices are **[[cotter-mushroom-products-and-value-added-applications]] products (jams, wine). Ornamental as well as productive.
 
 **Issai**
 - **Hardiness:** Zone 5 (less cold-hardy than other *arguta* varieties)
@@ -95,7 +89,7 @@ For growers in Zone 3 or the coldest parts of Zone 4, arctic kiwi (*A. kolomikta
 
 ## Cold Climate Growing Tips
 
-1. **[[fukuoka-creating-natural-farm-site-selection-establishment]] is everything.** Plant on a north-facing slope in Zones 3–4 to delay bud break and avoid late spring frosts. Avoid frost pockets (low-lying areas where [[hemenway-cold-air-drainage-and-frost-management]] settles).
+1. **[[hemenway-cold-air-drainage-and-frost-management]] settles).
 
 2. **Protect young vines.** For the first 1–2 winters, mulch heavily (15–20 cm of straw or leaves around the base) and consider wrapping the trunk with burlap or tree wrap.
 
@@ -103,5 +97,4 @@ For growers in Zone 3 or the coldest parts of Zone 4, arctic kiwi (*A. kolomikta
 
 ## See Also
 
-- [[comparison-hardy-kiwi-vs-fuzzy-kiwi-vs-grape-for-trellising]] — trellis crop comparison
 - [[fruit-tree-pruning-training]] — pruning techniques for kiwi vines

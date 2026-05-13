@@ -109,13 +109,8 @@ Wahlenbergia albomarginata is a New Zealand species with distinctive white-margi
 
 ## See Also
 
-- [[wahlenbergia-hederacea]]
 - [[wahlenbergia-albomarginata]]
-- [[campanula-rotundifolia]]
 - [[campanula-carpatica]]
-- [[lobelia-erinus]]
 - [[jasione-montana]]
-- [[phyteuma-spicatum]]
 - [[platycodon-grandiflorus]]
-- [[codonopsis-pilosula]]
 - [[campanula-poscharskyana]]

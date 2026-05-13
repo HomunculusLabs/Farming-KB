@@ -12,8 +12,7 @@ sources:
   - Dai, Y.C. et al. (2019). "Sanghuangporus (Hymenochaetaceae, Hymenochaetales), a genus new to science characterized by medicinal polypores." Mycoscience, 60(4), 263-275.
   - Zhou, L.W. et al. (2016). "Global diversity of hymenochaetoid polyporoid fungi." Fungal Diversity, 80(1), 387-406.
   - Wang, X.M. & Xing, J.H. (2015). "Antitumor polysaccharides from sanghuang mushrooms." Journal of Ethnopharmacology, 174, 443-451.
-  - Zhu, M. et al. (2019). "[[guzman-magic-mushrooms-chemical-constituents]] and bioactivities of Sanghuangporus species." Natural Product Reports, 36(10), 1316-1333.
-  - Chen, J. et al. (2020). "Phylogenetic [[psilocybe-genus-diversity-and-taxonomy]] of Sanghuangporus in East Asia." Mycologia, 112(3), 572-586.
+  - Zhu, M. et al. (2019). "psilocybe-genus-diversity-and-taxonomy of Sanghuangporus in East Asia." Mycologia, 112(3), 572-586.
 ---
 
 # Sanghuangporus villosus
@@ -42,13 +41,7 @@ Sanghuangporus villosus is distributed in East Asia, with confirmed records from
 
 The species is a white-rot saprotroph and facultative parasite, fruiting on the trunks and branches of broadleaf trees. Preferred hosts include species of Quercus, Castanopsis, and Betula. Fruit bodies typically develop on standing dead trees, fallen logs, and occasionally on living trees with compromised heartwood.
 
-The fungus fruits in cooler months, typically from autumn through early spring in its native range. It requires high humidity and moderate temperatures for [[four-stage-basidiocarp-development-psilocybe-cubensis-badham]]. Wild populations are declining due to overharvesting of medicinal specimens and habitat loss from deforestation.
-
-Sporulation of Sanghuangporus villosus occurs throughout the year in perennial basidiocarps, with peak spore release during warm, humid periods following rain events. Basidiospore dispersal is primarily wind-mediated, with limited effective dispersal distance estimated at 50-200 meters from the parent fruiting body.
-
-## Bioactive Compounds and Pharmacology
-
-Sanghuangporus villosus produces a diverse array of bioactive [[antifungal-secondary-metabolites-coprophilous-fungi]] consistent with the sanghuang group. Polysaccharides are the primary bioactive constituents, with beta-glucans representing the major immunomodulatory fraction. Water-soluble polysaccharides from the fruiting body show significant immunostimulatory activity.
+The fungus fruits in cooler months, typically from autumn through early spring in its native range. It requires high humidity and moderate temperatures for [[antifungal-secondary-metabolites-coprophilous-fungi]] consistent with the sanghuang group. Polysaccharides are the primary bioactive constituents, with beta-glucans representing the major immunomodulatory fraction. Water-soluble polysaccharides from the fruiting body show significant immunostimulatory activity.
 
 Triterpenoids isolated from the species include inotodiol, trametenolic acid, and several lanostane-type triterpenes unique to the Sanghuangporus genus. These compounds demonstrate anti-inflammatory activity through inhibition of NF-kappaB signaling and suppression of pro-inflammatory cytokine production.
 
@@ -66,24 +59,92 @@ Sanghuang has been used in Chinese medicine for over 2,000 years, first recorded
 
 In contemporary Chinese herbal medicine, sanghuang preparations are prescribed as immunomodulators, anti-inflammatory agents, and adjunctive cancer treatments. The fungus is commonly administered as a decoction of dried fruiting body slices, with typical dosages of 6-15 grams per day in divided doses.
 
-Korean traditional medicine also recognizes sanghuang as a valuable medicinal mushroom, where it is used for [[blesching-cannabis-gastrointestinal-disorders]], liver conditions, and general fatigue. Japanese Kampo medicine includes sanghuang-derived preparations in formulas for chronic hepatitis and immune deficiency.
+Korean traditional medicine also recognizes sanghuang as a valuable medicinal mushroom, where it is used for [[fukuoka-matsutake-artificial-cultivation-attempt]] has been achieved on supplemented hardwood sawdust substrates, primarily using oak or beech sawdust enriched with wheat bran and gypsum.
 
-Modern commercial sanghuang products include capsules, tablets, liquid extracts, and teas. The growing international market for medicinal mushrooms has increased demand for wild-harvested sanghuang, prompting cultivation research to ensure sustainable supply.
-
-Clinical trials of sanghuang-derived preparations have shown encouraging results in improving quality of life and immune function in cancer patients undergoing chemotherapy. A multicenter study in China reported significant improvements in fatigue scores and peripheral blood lymphocyte counts in patients receiving sanghuang polysaccharide injections alongside standard oncology treatment.
-
-## Cultivation
-
-Cultivation of Sanghuangporus villosus remains challenging due to its slow growth rate and specific substrate requirements. [[fukuoka-matsutake-artificial-cultivation-attempt]] has been achieved on supplemented hardwood sawdust substrates, primarily using oak or beech sawdust enriched with wheat bran and gypsum.
-
-Optimal [[mushroom-species-cultivation-parameters]] include temperatures of 25-28 degrees Celsius for mycelial growth and 18-22 degrees Celsius for fruiting initiation. High relative humidity of 85-95% is required for normal basidiocarp development. The time from inoculation to harvest ranges from 90-180 days, significantly longer than most cultivated medicinal mushrooms.
-
-[[stamets-biological-efficiency-yield]] on sawdust substrates is relatively low at 5-15% fresh weight, reflecting the slow-growing nature of the species. Research on liquid culture fermentation for production of mycelial biomass and extracellular polysaccharides offers a more efficient alternative for industrial-scale bioactive compound production.
-
-[[cancer-medicinal-mushrooms-submerged-fermentation-production]] optimization has identified glucose and yeast extract as preferred carbon and nitrogen sources for maximum polysaccharide yield. Pilot-scale bioreactors have achieved biomass concentrations of 15-25 g/L dry weight within 7-10 days, significantly faster than solid-state cultivation timelines.
-
-## Species Differentiation
-
-Accurate identification of Sanghuangporus species is critical for both medicinal use and scientific research, as commercial "sanghuang" products frequently contain misidentified species. S. villosus can be distinguished from the commercially important S. linteus by its velvety pileus surface and host preference for Quercus species.
+Optimal [[stamets-biological-efficiency-yield]] on sawdust substrates is relatively low at 5-15% fresh weight, reflecting the slow-growing nature of the species. Research on liquid culture fermentation for production of mycelial biomass and extracellular polysaccharides offers a more efficient alternative for industrial-scale bioactive compound production.
 
 [[biodiversity-fungal-molecular-identification-dna-barcoding]] using ITS (internal transcribed spacer) region sequencing has become the standard method for species discrimination within the genus. Phylogenetic analysis reveals that Sanghuangporus species form distinct clades corresponding to their geographic origin and host associations.
+
+## Overview
+
+Sanghuangporus Villosus represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish sanghuangporus villosus
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving sanghuangporus extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Sanghuangporus Villosus finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for sanghuangporus villosus. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+sanghuangporus villosus and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Sanghuangporus Villosus has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of sanghuangporus villosus into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[sanghuangporus-ctenophorus]]
+- [[sanghuangporus-linteus]]
+- [[sanghuangporus-lonicericola]]
+- [[sanghuangporus-sanghuang]]

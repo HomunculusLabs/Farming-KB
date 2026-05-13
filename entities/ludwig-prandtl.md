@@ -19,12 +19,7 @@ sources: []
 
 **Ludwig Prandtl** (4 February 1875 -- 15 August 1953) was a German fluid
 dynamicist and physicist widely regarded as the **father of modern
-aerodynamics**. His 1904 [[windward-leeward-boundary-layer-redistribution-stipe-curvature-badham-1982]] theory resolved D'Alembert's paradox
-and provided the mathematical foundation for understanding drag, lift, and
-streamlined body design. Over five decades at the University of Gottingen,
-he developed lifting-line theory, the mixing-length turbulence model, thin
-airfoil theory, and the Prandtl number, while training an extraordinary
-generation of students who [[dom]] inated  worldwide.
+aerodynamics**. His 1904 [[dom]] inated  worldwide.
 
 ## Early Life and Education
 
@@ -52,8 +47,7 @@ Reynolds number is inertia-dominated. Outside this layer, the flow obeys
 the inviscid Euler equations. This resolved **D'Alembert's paradox** (1752)
 -- inviscid theory predicting zero drag -- by showing drag arises in the
 thin viscous boundary layer. He also introduced **flow separation**, where
-the boundary layer [[det]] aches, creating wakes that fundamentally alter drag
-and lift. This single paper founded modern [[computational-fluid-dynamics]].
+the boundary layer [[computational-fluid-dynamics]].
 
 ## The Gottingen Research Center
 
@@ -88,3 +82,6 @@ trigger laminar-to-turbulent transition in boundary layers.
 ### Thin Airfoil Theory and Compressibility
 
 With students **Max Munk** and **Hermann Glauert**, Prandtl developed thin
+
+## See Also
+- [[turbulence-modeling-fluid-dynamics]]

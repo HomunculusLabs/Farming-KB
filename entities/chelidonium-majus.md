@@ -27,11 +27,7 @@ sources:
 
 Greater celandine is a perennial herb in the poppy family (Papaveraceae), native to Europe and western Asia, recognized for its bright orange-yellow latex used medicinally for over 2,000 years.
 
-The plant contains isoquinoline alkaloids — principally chelidonine, sanguinarine, chelerythrine, and coptisine — with antimicrobial, [[query-what-are-the-most-nutritious-backyard-berries-and-how-do-i-grow-them]] and New Zealand
-- **Habitat:** Highly adaptable — disturbed ground, hedgerows, woodland edges, rocky outcrops, roadsides, waste places
-- **Soil:** Wide tolerance from sandy to clay; prefers moist, nitrogen-rich soils
-- **Climate:** Temperate; hardy to USDA Zone 3; partial shade to full sun
-- **Invasive potential:** Listed as invasive in parts of [[psilocybin-north-america-pacific-northwest]] and New Zealand
+The plant contains isoquinoline alkaloids — principally chelidonine, sanguinarine, chelerythrine, and coptisine — with antimicrobial, [[psilocybin-north-america-pacific-northwest]] and New Zealand
 
 ## Phytochemistry
 
@@ -40,38 +36,7 @@ The plant contains isoquinoline alkaloids — principally chelidonine, sanguinar
 | Compound | Concentration (dried herb) | Primary Activity |
 |----------|---------------------------|-----------------|
 | Chelidonine | 0.2–0.5% | Antispasmodic, cytotoxic |
-| Sanguinarine | 0.05–0.2% | Antimicrobial, [[cannabis-drug-interactions-and-contraindications]]:** May interact with hepatotoxic medications and CYP450 substrates
-- **Fatal dose:** Estimated at 20–30 g dried herb; however, hepatotoxicity can occur at much lower doses
-
-## Cultivation
-
-- **Propagation:** Seed (stratification aids germination) or division
-- **Growth:** Easy; self-seeds prolifically; can become weedy
-- **Harvest:** Aerial parts during flowering (May–July); roots in autumn
-- **Drying:** Air-dry in shade below 40°C to preserve alkaloids
-
-## Permaculture and Ecological Notes
-
-- **Pioneer species:** Colonizes disturbed ground; useful for early-succession planting on degraded sites
-- **[[foliar-pest-deterrence-aact-mechanisms]]:** Alkaloid-ric [[sanguinaria-canadensis]] — Bloodroot, sharing sanguinarine as key alkaloid
-- [[blesching-cannabis-therapeutic-window-methodology]] denseal, another Ranunculales medicinal with narrow [[blesching-cannabis-therapeutic-window-dosing]]
-## Practical Considerations
-
-When working with Greater Celandine, several practical factors should be
-carefully considered to achieve optimal results. These include
-the specific conditions of the implementation context, available
-resources, timing requirements, and the interactions between this
-topic and other elements of the broader system. A holistic view
-that considers these interconnections produces better outcomes.
-
-Environmental conditions such as temperature, moisture, and
-seasonal patterns significantly influence results. Monitoring these
-variables and adapting practices accordingly is essential for success.
-The most effective practitioners develop keen observation skills and
-respond flexibly to changing conditions rather than following rigid
-protocols regardless of circumstances or local variation.
-
-[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
+| Sanguinarine | 0.05–0.2% | Antimicrobial, [[foliar-pest-deterrence-aact-mechanisms]]:** Alkaloid-ric [[blesching-cannabis-therapeutic-window-methodology]] denseal, another Ranunculales medicinal with narrow [[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -88,3 +53,85 @@ Building resilience into implementations through diversity, redundancy,
 and adaptive capacity helps buffer against unpredictable events and
 conditions. This approach recognizes that some degree of uncertainty is
 inherent in working with natural systems and plans accordingly rather
+
+## Overview
+
+Chelidonium Majus represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish chelidonium majus
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving chelidonium extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Chelidonium Majus finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for chelidonium majus. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+chelidonium majus and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Chelidonium Majus has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of chelidonium majus into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[antirrhinum-majus]]
+- [[tropaeolum-majus]]

@@ -9,28 +9,16 @@ sources:
 ---
 # JADAM Organic Livestock Farming (No Feces-Removing System)
 
-JADAM has developed an organic livestock [[what-natural-farming-method-should-i-use]] that eliminates the need for manure removal by using microorganisms to decompose animal waste in situ, converting it back into feed. This system draws from the Yamagishi movement of Japan and was further developed by [[jadam-ultra-low-cost-agriculture]] philosophy of eliminating purchased inputs and reducing labor through biological processes, a core tenet of [[jadam-microorganism-solution-jms]] is applied to accelerate decomposition
-4. Microbes decompose the manure; animals re-eat it after fermentation
-5. Feces does not pile up -- it is continuously recycled
-6. Manure needs to be removed only about once per year
-
-The system is almost completely free of smell and flies. The microorganisms do the work that would otherwise require expensive labor and equipment. The microbial foundation connects to [[animal-manure-guide]] for compost application guidance
+JADAM has developed an organic livestock [[jadam-ultra-low-cost-agriculture]] philosophy of eliminating purchased inputs and reducing labor through biological processes, a core tenet of [[animal-manure-guide]] for compost application guidance
 - **Reduces water pollution**: No manure runoff into waterways
 - **Increases feed conversion ratio**: JMS fed to animals (diluted 20x with water) improves digestion
 
 ## JMS Application in Livestock
 
-[[animal-manure-guide]] — Comprehensive guide to using [[fukuoka-textdoc-animal-manure-human-waste-natural-cycle-heretic]] as fertilizer
-[[jadam-compost-free-approach]] — JADAM philosophy of avoiding conventional composting
+[[fukuoka-textdoc-animal-manure-human-waste-natural-cycle-heretic]] as fertilizer
 [[jadam-liquid-fertilizer]] can incorporate fermented livestock bedding
 - The system eliminates the need for purchased microbial products
-- The no-feces-removing principle parallels [[jadam-natural-pesticide-philosophy]] thinking about local resources
-- [[jadam-ultra-low-cost-agriculture]] philosophy applied to animal husbandry: eliminate purchased inputs, reduce labor, and let natural biological processes do the work. The microbial foundation connects to [[vermicomposting]] as parallel approaches to waste transformation. For broader [[faires-livestock-integration-permaculture]] patterns, see [[jadam-monoculture-critique]] by showing how integrated farming systems can be both more productive and less expensive than specialized, input-dependent operations.
-
-## Related Concepts
-
-- [[jadam-microorganism-solution-jms]]
-- [[jadam-fertilizer-program]]
+- The no-feces-removing principle parallels [[jadam-ultra-low-cost-agriculture]] philosophy applied to animal husbandry: eliminate purchased inputs, reduce labor, and let natural biological processes do the work. The microbial foundation connects to [[faires-livestock-integration-permaculture]] patterns, see [[jadam-microorganism-solution-jms]]
 - [[jadam-natural-farming-philosophy]]
 ## Practical Applications
 
@@ -97,8 +85,6 @@ through generations to modern scientific approaches, the evolution continues
 to inform current best practices and research directions.
 
 ## See Also
-- [[doc]]
 - [[det]]
-- [[composting]]
 - [[vermicomposting]]
 - [[permaculture]]

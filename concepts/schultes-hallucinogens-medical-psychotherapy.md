@@ -1,7 +1,7 @@
 ---
 title: "Hallucinogens in Medical Psychotherapy"
 created: 2026-04-28
-tags: [psychotherapy, lsd, [[psilocybin]], [[mescaline]], psycholysis,
+tags: [psychotherapy, lsd, mescaline, psycholysis,
   psychedelic-therapy, psychiatry, consciousness]
 date: 2026-04-28
 updated: 2026-04-28
@@ -16,8 +16,7 @@ type: concept
 
 The changes in consciousness and perception produced by hallucinogens
 have found a number of applications in medicine. The pure substances
-most commonly used in this field are [[schultes-psilocybe-little-flowers-gods]], and
-[[schultes-ololiuqui-vines-serpent]]. The use of hallucinogens as an
+most commonly used in this field are [[schultes-ololiuqui-vines-serpent]]. The use of hallucinogens as an
 adjunct to psychoanalysis and psychotherapy represents a fascinating
 intersection of indigenous plant knowledge and modern clinical science.
 
@@ -38,9 +37,7 @@ This may be a joyful experience or a demonic one, involving the loss of
 the trusted ego. The new ego feels linked in bliss with outside objects
 in a special way and also with other human beings.
 
-This state of [[turner-essential-psychedelics-lsd-cosmic-consciousness]] is related to the spontaneous
-religious ecstasy known as the unio mystica or, in Eastern religious
-life, as samadhi or [[satori]] — a reality illuminated by transcendental
+This state of [[satori]] — a reality illuminated by transcendental
 awareness in which creation and ego, sender and receiver, are One.
 
 ## Hallucinogens Versus Tranquilizers
@@ -88,3 +85,7 @@ group session that follows and are expressed through painting, drawing,
 and other creative means.
 
 ## Psychedelic Therapy: The American Method
+
+## See Also
+
+- [[metzner-hallucinogens-psychotherapy-shamanism-paradigms]]

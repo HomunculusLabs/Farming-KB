@@ -14,24 +14,7 @@ sources:
 type: concept
 ---
 
-# [[arbuscular-mycorrhizal-fungal-diversity-patterns-distribution]], they do not form specialized nutrient-exchange
-structures such as arbuscules. Instead, hyphae in roots appear
-rhizoctonialike with "monilioid hyphae" (barrel-shaped cells
-resembling those of Rhizoctonia) and frequently produce a loose
-weft on the outer root surface.
-
-Root colonization is relatively extensive but intracellular
-colonization of outer cortical cells is limited. Coiled or
-branched hyphae and intracellular microsclerotia may be present.
-In culture, these fungi characteristically have thick-walled,
-dark-pigmented, septate hyphae and are usually sterile or very
-slow to sporulate.
-
-## Key Taxa
-
-The most commonly encountered taxa include:
-- **Phialocephala fortinii**: the dominant DSE in many temperate
-  [[dighton-fungi-acidifying-pollutants-forest-ecosystems]], with very broad host and geographic range
+# [[dighton-fungi-acidifying-pollutants-forest-ecosystems]], with very broad host and geographic range
 - **Phialocephala dimorphospora** and **P. finlandia**: closely
   related species with similar ecology
 - **Mycelium radicis atrovirens** (MRA): a heterogeneous taxon
@@ -54,32 +37,16 @@ sterile dematiaceous isolates.
 
 Roots colonized by these fungi have a unique morphology,
 particularly when associated with ericoid hosts. Consequently
-they sometimes are termed "[[comparison-orchid-mycorrhizae-vs-ericoid-mycorrhizae]]," although the
-fungi apparently have a much broader host range and may not
-function as true mycorrhizal symbionts.
-
-## Forest Tree Root Communities
-
-Dark septate endophytes dominated the mycobiota isolated from fine
-roots of several species of forest [[nitrogen-fixing-trees-and-shrubs]] in Europe and
+they sometimes are termed "[[nitrogen-fixing-trees-and-shrubs]] in Europe and
 western Canada. A large proportion proved to be Phialocephala
 fortinii. Nonmycorrhizal microfungi isolated from serially washed
-[[arbuscule-intraradical-hyphae-isolation-mycorrhizal-roots]] of [[picea-mariana]] were primarily sterile strains
+[[picea-mariana]] were primarily sterile strains
 of Mycelium radicis atrovirens and Penicillium species.
 
 Holdenrieder and Sieber (1992) compared populations of endophytic
 fungi colonizing Picea abies roots in relation to site and soil
 characteristics. Of 120 taxa recovered, MRA, Penicillium species,
-[[mycorrhizal-fungi]].
-
-Sterile, basidiomycetous root endophytes have been reported but
-typically are not melanized. Too little is known about basidiomycete
-involvement in DSE communities to generalize.
-
-## Ecological Significance
-
-The ecological role of most DSE species remains unknown, although
-some may form [[dark-septate-endophytes-stressed-environments]]
+[[dark-septate-endophytes-stressed-environments]]
 
 ## Practical Applications
 
@@ -110,8 +77,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[dark-septate-endophytes]]
 - [[dom]]
-- [[mycelium]]
 - [[picea-abies]]
 - [[mycorrhizae]]

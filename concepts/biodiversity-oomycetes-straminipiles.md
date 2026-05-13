@@ -21,12 +21,7 @@ Straminipila (Heterokonta) are fungus-like organisms that have
 historically been studied by mycologists but are now recognized as
 belonging to a separate kingdom-level lineage, the Stramenopila.
 These organisms include important plant pathogens, water molds,
-and marine decomposers that play significant [[ecological-roles-fungi-ecosystems]] in
-both aquatic and terrestrial environments.
-
-## Phylogenetic Position
-
-Phylogenetic hypotheses for oomycetes define two [[basidiomycota-classification-major-clades]]:
+and marine decomposers that play significant [[basidiomycota-classification-major-clades]]:
 Saprolegniomycetidae (water molds) and Peronosporomycetidae
 (plant and animal parasites). Trees have been produced by analyses
 based on morphological and biochemical traits, and the genes for
@@ -72,18 +67,8 @@ wide range of crop plants.
 
 The Saprolegniomycetidae (water molds) are primarily aquatic
 organisms found in freshwater habitats. They are important
-decomposers of dead [[hamilton-composting-and-organic-matter-management]] in water and can also act as
-opportunistic parasites of fish and other aquatic organisms. In
-biodiversity-fungi-plant-mutualisms,
-the economic impact of oomycete diseases drives much of the
-research on this group.
-
-## Related Topics
-
-- [[biodiversity-fungi-plant-pathogens]]
+decomposers of dead [[biodiversity-fungi-plant-pathogens]]
 - biodiversity-fungi-plant-mutualisms
-- [[fungal-culture-media]]
-## See Also
 - [[dom]]
 
 ## Practical Applications
@@ -115,8 +100,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[dom]]
 - [[composting]]
-- [[straminipiles-oomycetes-fungus-like-chromists]]
 - [[biodiversity-yeast-diversity-ecology]]
 - [[biodiversity-of-fungi-herbarium-specimen-curation-best-practices]]

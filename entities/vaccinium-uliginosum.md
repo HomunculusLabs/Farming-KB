@@ -20,49 +20,7 @@ sources:
 
 ## Overview
 
-**Vaccinium uliginosum**, commonly known as bog blueberry, bog bilberry, or northern blueberry, is a deciduous dwarf shrub in the family Ericaceae. It has a wide circumboreal distribution across northern [[psilocybin-north-america-pacific-northwest]], Europe, and Asia.
-
-The species is closely related to the commercially important bilberry (*V. myrtillus*) but is adapted to wetter, more open habitats. Its fruit is edible and gathered from wild stands across its range, though it has not been widely domesticated.
-
-Bog blueberry produces large, flavorful berries with a waxy bloom and blue-black coloration at maturity. The fruit is rich in anthocyanins and other polyphenolic compounds, contributing to antioxidant capacity comparable to or exceeding that of cultivated blueberries.
-
-## Taxonomy and Morphology
-
-**Classification:**
-
-- **Kingdom:** Plantae
-- **Order:** Ericales
-- **Family:** Ericaceae
-- **Genus:** *Vaccinium*
-- **Species:** *V. uliginosum* L.
-
-The species was first described by Linnaeus in 1753. The epithet *uliginosum* means "of marshes or bogs," referring to its preferred habitat. Several infraspecific taxa have been described, but their taxonomic validity remains debated.
-
-**Growth habit:** Bog blueberry is a deciduous shrub typically 15–60 cm tall, occasionally reaching 100 cm in sheltered locations. It forms loose, open bushes rather than the dense colonies characteristic of lowbush blueberry. The plant spreads slowly by layering and short rhizomes.
-
-**Leaves:** Obovate to elliptic, 10–35 mm long and 5–20 mm wide, with finely serrated margins and a thin texture. The leaves are green above and paler below, turning yellow to red in autumn before abscission.
-
-**Flowers:** Urceolate (urn-shaped), pink to white, 4–6 mm long, borne singly or in pairs in leaf axils on the previous year's growth. Flowering occurs from May to July, depending on latitude and elevation.
-
-**Fruit:** Berry 8–14 mm in diameter, blue-black with a pronounced waxy bloom (glaucous coating). The fruit is slightly larger on average than bilberry and has a milder, sweeter flavor with less acidity.
-
-## Distribution and Habitat
-
-Bog blueberry occupies a circumboreal range extending from Alaska across northern Canada to Labrador and Newfoundland, south through the Rocky Mountains to New Mexico, and across northern Eurasia from Scandinavia to eastern Siberia and Japan.
-
-The species is strongly associated with wetland habitats including bogs, fens, muskegs, and margins of ponds and streams. It also occurs on moist tundra, alpine meadows, and in open subalpine coniferous forests.
-
-Elevation ranges from sea level to approximately 3,000 m in mountainous regions. In the Rocky Mountains, it is found from subalpine zones to above treeline.
-
-The species prefers acidic, waterlogged or saturated organic soils with pH 3.5–5.5. Sphagnum peat is the most common substrate. Unlike many *Vaccinium* species, *V. uliginosum* tolerates prolonged root immersion and is often found growing directly on saturated sphagnum mats.
-
-## Cultivation
-
-Bog blueberry is rarely cultivated commercially. Its primary economic value lies in wild harvesting, which is significant in boreal regions of Scandinavia, Russia, and Canada. The fruit is gathered by hand or with small rakes for local consumption and processing.
-
-Limited cultivation trials have demonstrated that the species can be grown on peat-based substrates under acidic conditions similar to those used for cranberry production. However, yields are lower than for highbush or lowbush blueberry, and the species has not attracted significant breeding attention.
-
-Propagation is achieved through softwood cuttings taken in midsummer or by division of established plants. [[cannabis-seed-germination-methods]] requires cold stratification for 60–90 days. Genetic diversity within populations is high, reflecting the species' wide geographic range and outcrossing breeding system.
+**Vaccinium uliginosum**, commonly known as bog blueberry, bog bilberry, or northern blueberry, is a deciduous dwarf shrub in the family Ericaceae. It has a wide circumboreal distribution across northern [[cannabis-seed-germination-methods]] requires cold stratification for 60–90 days. Genetic diversity within populations is high, reflecting the species' wide geographic range and outcrossing breeding system.
 
 Ornamental use is limited but increasing. The plant's compact habit, attractive pink flowers, autumn foliage color, and edible fruit make it suitable for bog gardens and acidic ornamental plantings.
 
@@ -80,10 +38,93 @@ Studies have demonstrated that bog blueberry extracts exhibit significant antiox
 
 Bog blueberry is a significant food source for wildlife in boreal and subarctic ecosystems. The fruit is consumed by bears, moose, caribou, grouse, ptarmigan, thrushes, and numerous other birds and mammals. The timing of fruit ripening in late summer provides critical energy reserves for animals preparing for winter.
 
-The flowers are pollinated primarily by bumblebees and solitary bees. In high-latitude and high-elevation populations, the short [[savory-growing-season-and-non-growing-season-management]] makes pollinator visitation rates a limiting factor for fruit set.
-
-The species contributes to peatland ecosystem function by stabilizing sphagnum mats and contributing [[hamilton-composting-and-organic-matter-management]] through leaf litter and root turnover. Its shallow root system is adapted to the anoxic conditions of waterlogged peat soils.
+The flowers are pollinated primarily by bumblebees and solitary bees. In high-latitude and high-elevation populations, the short [[hamilton-composting-and-organic-matter-management]] through leaf litter and root turnover. Its shallow root system is adapted to the anoxic conditions of waterlogged peat soils.
 
 Bog blueberry serves as an indicator species for intact wetland ecosystems. Its presence generally indicates undisturbed, acidic peatland conditions with low [[ph-and-nutrient-availability-garden-soils]] and minimal human impact.
 
 ## Related Species
+
+## Overview
+
+Vaccinium Uliginosum represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish vaccinium uliginosum
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving vaccinium extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Vaccinium Uliginosum finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for vaccinium uliginosum. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+vaccinium uliginosum and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Vaccinium Uliginosum has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of vaccinium uliginosum into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[vaccinium-corymbosum-entity]]
+- [[vaccinium-deliciosum]]
+- [[vaccinium-myrtillus]]
+- [[vaccinium-scoparium]]
+- [[vaccinium-simulatum]]

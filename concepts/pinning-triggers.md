@@ -22,15 +22,13 @@ affected areas should be gently rinsed or scraped, and conditions optimized.
 ### Uneven Pinning
 
 Non-uniform pin distribution leads to uneven maturity at harvest time. This
-is typically caused by uneven [[pf-tek-substrate-moisture-diagnosis-and-correction]], inconsistent light exposure,
-or poor air distribution within the [[gottlieb-psilocybin-cultivation-fruiting-chamber-design]]. Ensuring even conditions
+is typically caused by uneven [[gottlieb-psilocybin-cultivation-fruiting-chamber-design]]. Ensuring even conditions
 throughout the substrate surface is key to uniform flushes.
 
 ## Species-Specific Pinning Requirements
 
 Different species have different pinning triggers and environmental
-preferences. Shiitake requires a [[growing-gourmet-cold-shock-temperature-initiation-fruiting]] and rough handling (slapping or
-soaking) to initiate pinning. [[query-how-to-grow-oyster-mushrooms-at-home]] respond primarily to FAE and
+preferences. Shiitake requires a [[query-how-to-grow-oyster-mushrooms-at-home]] respond primarily to FAE and
 light. [[growing-gourmet-king-oyster-eryngii-cultivation]] requires lower temperatures than other oyster varieties.
 Reishi responds to high CO2 levels, producing antler-like formations in high
 CO2 and conch-shaped fruiting bodies in low CO2. Understanding species-specific
@@ -44,13 +42,13 @@ transition to fruiting typically requires some exposure to light. The
 blue end of the spectrum (around 370-450 nanometers) is most effective
 at triggering primordia formation in many species.
 
-Most cultivated mushrooms do not photosynthesize and require only low
+Most [[fungi-cultivated-mushrooms-pathogens-competitors]] do not photosynthesize and require only low
 levels of light for pinning, typically 500 to 1000 lux for 12 hours
 per day. Indirect ambient room lighting or a small fluorescent fixture
 is usually sufficient. Excessive light can cause premature drying of
 the substrate surface and heat buildup, which actually inhibits pinning.
 
-Some species are more light-sensitive than others. Oyster mushrooms
+Some species are more light-sensitive than others. [[cultivation-of-oyster-mushrooms]]
 respond strongly to light direction and will grow toward the light
 source, making light placement important for controlling fruiting body
 orientation. Shiitake is less sensitive but still benefits from a
@@ -72,7 +70,7 @@ environment combined with adequate fresh air exchange, which promotes
 gentle surface evaporation, produces the best pinning results.
 
 Casing layers are commonly used to maintain surface moisture while
-allowing gas exchange. A properly prepared casing layer holds water at
+allowing [[mushroom-cultivation-jar-lid-management-loose-fit-vacuum-gas-exchange]]. A properly prepared casing layer holds water at
 the substrate surface, creating the humid microclimate needed for
 primordia without requiring constant misting. Casing also provides a
 non-nutritious barrier that reduces contamination risk at the most
@@ -80,10 +78,10 @@ vulnerable stage of the crop cycle.
 
 ## The Role of CO2 Concentration
 
-Carbon dioxide concentration is one of the most important environmental
-variables controlling the transition from vegetative growth to
+[[carbon-dioxide-retention-jar-lid-mushroom-cultivation]] concentration is one of the most important environmental
+variables controlling the transition from [[cannabis-vegetative-growth-stage]] to
 fruiting. During the colonization phase, elevated CO2 (typically 5000
-to 10000 ppm) encourages mycelial growth and suppresses premature
+to 10000 ppm) encourages [[mycelial-growth-and-colonization]] suppresses premature
 pinning. During the fruiting phase, CO2 must be reduced to near
 ambient levels (below 1000 ppm) to trigger normal development.
 

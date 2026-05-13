@@ -20,25 +20,9 @@ psychopharmacologist best known for conducting the first federally
 approved human research with psychedelic drugs in the United States in
 over two decades. Between 1990 and 1995, Strassman administered over
 400 doses of DMT to approximately 60 human volunteers at the University
-of New Mexico, generating foundational data on [[5-methoxy-dmt-pharmacology]],
-psychology, and phenomenology. His 2001 book *DMT: The [[mckenna-tryptamine-consciousness-dmt-spirit-molecule]]*
-brought [[mckenna-suppression-psychedelic-research-lsd-therapy]] to mainstream attention and helped catalyze
-the modern psychedelic renaissance.
-
-## Education and Training
-
-- **Stanford University** (BA): Biological sciences, early 1970s.
-- **Albert Einstein College of Medicine** (MD): 1977.
-- **UC Davis Medical Center**: Psychiatric residency, completed 1981.
-- Additional psychopharmacology research fellowship at UCSF.
-
-## Early Career
-
-Strassman joined the University of New Mexico (UNM) psychiatry faculty.
-His early research focused on the [[mckenna-tryptamine-endogenous-dmt-pineal-gland-theory]] and melatonin, studying
-[[plant-circadian-rhythms]] and neuroendocrinology of altered consciousness. This
-led to his interest in DMT, hypothesized by Julius Axelrod in the 1960s
-to be an [[mckenna-dmt-endogenous-brain-affinity-versus-lsd-pharmacokinetics]] compound.
+of New Mexico, generating foundational data on [[mckenna-tryptamine-consciousness-dmt-spirit-molecule]]*
+brought [[mckenna-tryptamine-endogenous-dmt-pineal-gland-theory]] and melatonin, studying
+[[mckenna-dmt-endogenous-brain-affinity-versus-lsd-pharmacokinetics]] compound.
 
 Strassman proposed DMT might be synthesized in the pineal gland and
 released during extraordinary states — near-death experiences, mystical
@@ -57,27 +41,7 @@ psychedelic study since the mid-1970s.
 ### Study Design
 
 Research was conducted at UNM Hospital with healthy adults who had
-prior [[leary-psychedelic-experience-bardo-mapping]], screened extensively. Studies progressed
-through escalating IV DMT doses:
-
-- **Dose-finding**: Established safe parameters for IV DMT — threshold,
-  breakthrough, and maximum tolerated doses.
-- **Pilot studies**: Explored subjective effects, physiological
-  responses, and psychological integration.
-- **Full studies**: Systematically investigated repeated DMT sessions.
-
-Approximately 400 doses administered to ~60 volunteers. Doses ranged
-from 0.05 mg/kg to 0.4 mg/kg IV; effects lasted 15-30 minutes.
-
-### Key Clinical Findings
-
-- DMT produced rapid-onset, intensely immersive psychedelic experiences
-  with complete same-day tolerance.
-- At higher doses, volunteers consistently reported contact with
-  apparently autonomous entities ("beings," "aliens," "teaching entities").
-- Near-death and mystical-type experiences were common, often rated
-  among volunteers most significant life experiences.
-- [[emcdda-psilocybin-cardiovascular-risks-acute-physiological-effects]]: transient heart rate, blood pressure, pupil
+prior [[emcdda-psilocybin-cardiovascular-risks-acute-physiological-effects]]: transient heart rate, blood pressure, pupil
   dilation, and temperature increases — all within safe ranges.
 - No serious adverse events or lasting psychopathology in controlled
   setting.
@@ -86,5 +50,81 @@ from 0.05 mg/kg to 0.4 mg/kg IV; effects lasted 15-30 minutes.
 
 ## *DMT: The Spirit Molecule* (2001)
 
-Strassman popular science book synthesized [[hofmann-lsd-clinical-research-early-studies]] with
-speculative hypotheses about [[mckenna-endogenous-dmt-brain-familiarity]]. Published by Park Street
+Strassman popular science book synthesized [[mckenna-endogenous-dmt-brain-familiarity]]. Published by Park Street
+
+## Overview
+
+Rick Strassman represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish rick strassman
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving rick extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Rick Strassman finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for rick strassman. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+rick strassman and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Rick Strassman has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of rick strassman into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.

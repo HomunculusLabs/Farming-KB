@@ -13,8 +13,7 @@ updated: 2026-05-08
 sources:
   - Brodo IM, Sharnoff SD, Sharnoff S (2001). "Lichens of psilocybin-north-america-pacific-northwest." Yale University Press.
   - Purvis OW, Coppins BJ, Hawksworth DL, James PW, Moore DM (1992). "The Lichen Flora of Great Britain and Ireland." Natural History Museum Publications.
-  - Hawksworth DL, Rose F (1970). "Qualitative scale for estimating sulphur dioxide [[air-pollution-fungal-community-responses]] in England and Wales using epiphytic lichens." Nature 227: 145–148.
-  - Seaward MRD (2004). "The use of lichens for [[singh-fungal-biosensors-environmental-monitoring]] in Europe." Bibliotheca Lichenologica 91: 47–69.
+  - Hawksworth DL, Rose F (1970). "Qualitative scale for estimating sulphur dioxide singh-fungal-biosensors-environmental-monitoring in Europe." Bibliotheca Lichenologica 91: 47–69.
 ---
 
 ## Overview
@@ -25,11 +24,7 @@ It became one of the most abundant lichens in industrial regions of Europe durin
 
 The species is characterized by its gray-white, granular thallus, abundant soredia, and distinctive concolorous apothecia.
 
-L. conizaeoides has become a key case study in lichen recolonization dynamics as [[cervantes-air-quality-ventilation]] has improved in formerly polluted areas.
-
-## Taxonomy and Morphology
-
-**Classification:** [[fungal-taxonomy-and-kingdom-fungi]] > Phylum Ascomycota > Class Lecanoromycetes > Order Lecanorales > Family Lecanoraceae > Genus Lecanora.
+L. conizaeoides has become a key case study in lichen recolonization dynamics as [[fungal-taxonomy-and-kingdom-fungi]] > Phylum Ascomycota > Class Lecanoromycetes > Order Lecanorales > Family Lecanoraceae > Genus Lecanora.
 
 **Authority:** Nyl. ex Cromb. (1894). The species was first recognized as distinct from L. dispersa during the industrial period when its ecological divergence became apparent.
 
@@ -49,9 +44,7 @@ The species is morphologically similar to Lecanora dispersa but can be distingui
 
 ## Distribution and Habitat
 
-L. conizaeoides has a predominantly [[fukuoka-european-distribution-system-critique]], with populations extending into western Russia and Scandinavia.
-
-It has been reported from [[guzman-psilocybin-mushrooms-north-america]] but is less common there than in Europe.
+L. conizaeoides has a predominantly [[guzman-psilocybin-mushrooms-north-america]] but is less common there than in Europe.
 
 The species is strongly associated with polluted environments and was historically the dominant epiphytic lichen in industrial regions of Britain, Germany, and the Czech Republic.
 
@@ -85,12 +78,5 @@ This tolerance is attributed to its efficient detoxification mechanisms and its 
 
 The species acts as a pioneer on bark surfaces in polluted areas, establishing before other lichens can colonize.
 
-It forms a symbiosis with a green algal photobiont, typically Trebouxia simplex or related species adapted to [[dark-septate-endophytes-stressed-environments]].
-
-L. conizaeoides plays a role in the early stages of lichen community recovery as pollution levels decline.
-
-## See Also
-
-- [[lecanora-chlarotera]]
-- [[lecanora-chlorotera]]
+It forms a symbiosis with a green algal photobiont, typically Trebouxia simplex or related species adapted to [[lecanora-chlarotera]]
 - [[lecanora-muralis]]

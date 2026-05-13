@@ -3,11 +3,10 @@ title: Sea Vegetables
 created: 2026-04-15
 updated: 2026-04-21
 type: concept
-tags: [[permaculture]], design]
+tags: permaculture, design]
 sources: [raw/papers/bill-mollison-permaculture-a-designers-manual.md]
 ---
-# Sea Vegetables updated: 2026-04-18 From: permaculture-designers-manual-marine-resources - broader marine systems - permaculture-designers-manual-mulch-systems - seaweed as mulch - [[permaculture-designers-manual-temperate-climate-design]] - seaweed in cold climate agriculture
-- [[permaculture-designers-manual-climatic-zones-tropical]]
+# Sea Vegetables updated: 2026-04-18 From: permaculture-designers-manual-marine-resources - broader marine systems - permaculture-designers-manual-mulch-systems - seaweed as mulch - [[permaculture-designers-manual-climatic-zones-tropical]]
 ## Background and Context
 
 Sea Vegetables is an important subject that has garnered significant attention
@@ -88,3 +87,7 @@ that exceed the sum of individual component contributions.
 
 Case studies and documented examples provide valuable models for
 implementation, though direct replication is rarely possible due to
+
+## See Also
+
+- [[permaculture-designers-manual-sacred-groves]]

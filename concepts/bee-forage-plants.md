@@ -20,7 +20,7 @@ homestead.
 - Fills nutritional gaps (dearth periods) when colonies might otherwise starve
 - Increases honey production and colony strength
 - Supports native pollinators alongside managed honey bees
-- Integrates with [[food-forest-design]] on the homestead
+- Integrates with [[food-forest-design|polyculture design]] on the homestead
 
 ## Understanding Bee Nutrition
 

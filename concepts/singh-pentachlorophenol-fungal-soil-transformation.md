@@ -15,15 +15,10 @@ Pentachlorophenol (PCP) is a widely used wood preservative and
 biocide that has caused extensive soil contamination. Fungal
 transformation of PCP in soils has received increasing attention,
 with white-rot fungi demonstrating significant capabilities for PCP
-degradation, mineralization, and incorporation into soil [[hamilton-composting-and-organic-matter-management]]
-as bound residues.
-
-## Fungal Tolerance to Creosote and PCP
-
-[[arbuscular-mycorrhizal-fungi-biology-symbiosis]] generally show less tolerance to creosote than
+degradation, mineralization, and incorporation into soil [[arbuscular-mycorrhizal-fungi-biology-symbiosis]] generally show less tolerance to creosote than
 saprophytic fungi (Richter et al., 2003). Among saprophytic fungi,
 Irpex lacteus, Neolentinus lepideus, Ouedemansiella radicata,
-[[staycare-phanerochaete-chrysosporium-in-bioremediation]], Postia placenta, and [[growing-gourmet-turkey-tail-trametes-versicolor-cultivation]]
+[[growing-gourmet-turkey-tail-trametes-versicolor-cultivation]]
 exhibit the greatest tolerance to creosote. Mycorrhizal fungi such as
 Cenococcum geophilum, Laccaria bicolor, L. laccata, and Suillus
 granulatus show the highest tolerance among mycorrhizal species.

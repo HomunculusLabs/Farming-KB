@@ -7,30 +7,8 @@ updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/growth-promoting-effect-of-a-brassinosteroid-in-mycelial-cultures-of-the-fungus-psilocybe-cubensis-gartz-adam-vorbrodt.md]
 type: concept
 ---
-# Brassinosteroid Effects on Fungal Morphology The 1990 study by Gartz, Adam, and Vorbrodt documented not only growth promotion but also a striking morphological alteration in [[fruiting-body-development]] Biology
-
-The absence of the annulus in brassinosteroid-treated P. cubensis raises
-interesting questions about the regulation of [[comparison-fruiting-body-vs-mycelium-extracts-medicinal-mushrooms]] development
-in [[singh-basidiomycete-fungi-in-petroleum-hydrocarbon-cleanup]]. Fruiting body morphogenesis is a complex process
-involving the coordinated differentiation of multiple tissue types
-including pileipellis (cap skin), hymenophore (gill tissue), stipe
-(stem), and veil tissues.
-
-The specific loss of the annulus while other structures (cap, gills,
-stem) developed normally suggests that brassinosteroids may selectively
-affect the developmental program governing partial veil tissue. This
-selectivity could indicate that veil formation is regulated by a distinct
-genetic pathway that is particularly sensitive to brassinosteroid
-signaling, or that the timing of veil development overlaps with a
-brassinosteroid-sensitive window of morphogenetic competence.
-
-## Possible Mechanisms of Morphological Action
-
-Several mechanisms could explain how brassinosteroids alter fungal
-morphology:
-
-**Membrane Effects:** As steroidal compounds, brassinosteroids may
-incorporate into [[gadd-fungal-cell-structure]] membranes and alter membrane fluidity or
+# Brassinosteroid Effects on Fungal Morphology The 1990 study by Gartz, Adam, and Vorbrodt documented not only growth promotion but also a striking morphological alteration in [[comparison-fruiting-body-vs-mycelium-extracts-medicinal-mushrooms]] development
+in [[gadd-fungal-cell-structure]] membranes and alter membrane fluidity or
 receptor function, indirectly affecting morphogenetic signaling cascades
 that operate through membrane-localized components.
 
@@ -55,18 +33,7 @@ altered developmental outcomes through hormonal pathway crosstalk.
 
 The loss of the annulus has practical implications for taxonomic
 identification of treated mushrooms. Since the annulus is a key
-diagnostic character for [[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]] and related species,
-brassinosteroid-treated specimens could potentially be misidentified
-if reliance is placed solely on macromorphological features. This
-observation underscores the importance of considering cultivation
-conditions and any applied growth substances when using morphological
-characters for species identification.
-## Related
-
-- fungal-sulfur-dioxide-effects Topics
-
-- [[22s-23s-homobrassinolide-chemistry-and-synthesis]]
-- [[gartz-tryptamine-supplemented-cubensis-cultivation]]
+diagnostic character for [[22s-23s-homobrassinolide-chemistry-and-synthesis]]
 - [[brassinosteroids-psilocybin-fruiting]]
 ## Practical Considerations
 
@@ -116,8 +83,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[brassinosteroid]]
 - [[doc]]
-- [[psilocybin]]
 - [[mycelium]]
 - [[tryptamine]]

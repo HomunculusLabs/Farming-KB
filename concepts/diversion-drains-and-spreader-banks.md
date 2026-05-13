@@ -1,37 +1,8 @@
 ---
 title: Diversion Drains and Spreader Banks
-source: bill-[[mollison-permaculture-two-arid-water-harvesting-and-erosion-control|mollison]]-permaculture-a-designers-manual.md
-type: concept
----
-
-# Diversion Drains and Spreader Banks
-
-Diversion drains, interceptor drains, and spreader banks form a critical triad of
-earthworks in [[permaculture-design]] for managing overland water flow, controlling
+source: bill-[[permaculture-design]] for managing overland water flow, controlling
 salinity, distributing irrigation water, and enabling wildfire suppression. When
-combined with dams, swales, and appropriate [[query-what-are-predatory-mites-and-how-can-i-use-them-for-pest-control|control]] structures, these earthworks
-harvest, store, and productively use surplus flood and overland flow.
-
-## Spill Gates
-
-Spill gates are the primary control mechanism for releasing water from drains,
-swales, and dams. They determine where, when, and how fast water is distributed
-and are essential for both irrigation and wildfire management.
-
-### Fixed Spill Gates
-
-- Constructed from **concrete slide holders and aprons**
-- Permanently installed at specific release points along a drain
-- Open onto ridge lines so water naturally spreads downhill by gravity
-- Durable and low-maintenance; suited to predictable release points
-
-### Moveable Spill Gates ("Flags")
-
-- Made from **plastic sheets weighted with chain sewn into the foot**
-- Supported by light pipe framing for stability
-- Can be placed or removed at any point along a drain system
-- One or two people can water **200–240 hectares in a morning** using flags
-- Ideal for responsive, adaptive [[water-management]] across large areas
+combined with dams, swales, and appropriate [[water-management]] across large areas
 
 ### Automated and Remote Spill Gates
 
@@ -72,58 +43,7 @@ dryland valley soils.
 
 - Always involve **ramming of subsoil layers hard against the downhill bank**
 - Ramming by bulldozer blade creates a compacted impermeable barrier
-- Unlike diversion drains ([[query-which-cover-crops-are-best-for-breaking-hardpan-and-compacted-soil|which]] redirect along contour), interceptor drains
-  actively **intercept and remove** overland flow from the system
-
-### Salinity Management Applications
-
-- **Cut off seepage from salt lakes** contaminating adjacent productive land
-- **Divert early salted overland flow around saltpans**, protecting downstream soils
-- Isolate salt-affected zones so rehabilitation proceeds without recontamination
-
-## Spreader Drains and Banks
-
-Spreader drains convert concentrated water flow into a **thin, broadly distributed
-sheet** across vegetated surfaces — achieving irrigation while preventing the
-channel scour and gullying that concentrated flow causes in arid environments.
-
-### Core Principles
-
-- Spill a thin sheet of surplus water down broad grassy slopes
-- Dual purpose: **irrigation** and **prevention of channel scour/gullying** in deserts
-- Normally take overflow from **swales and dams** as their primary water source
-
-### Construction Details
-
-- **Lower side is dead level** for even water distribution along the bank
-- Lower side is **compacted or concreted** to prevent erosion at release points
-- **Spoil is piled uphill**, preferably in mounds for micro-topographic diversity
-
-### Irrigation of Flatlands
-
-- Bank pierced by **dead-level pipe outlets** feeding irrigation bays
-- Bays confined by **steering banks** guiding shallow sheet flow
-- A **tail drain** leads excess to stream or secondary storage
-
-### Primary Feeder Systems
-
-- Primary feeder drain called the **head race**, fitted with **cross-slides**
-- **Spoil lines broken by frequent openings** to prevent ponding and allow even
-  overspill across the full width of the system
-
-## Integrated Earthworks Systems
-
-The full potential of water management is achieved through combining multiple
-earthwork types: **dams** for storage, **diversion and interceptor drains** for
-directing and removing unwanted flow, **spreader banks and swales** for broad
-irrigation distribution, and **pipes, gate-valves, spill gates, flags, and
-culverts** as control structures. Together, these elements harvest, store, and
-use surplus flood or overland flow productively rather than allowing erosion,
-waterlogging, or waste.
-
-## Ethics of Earthworks
-
-The [[permaculture]] framework draws a critical ethical distinction based on the
+- Unlike diversion drains ([[permaculture]] framework draws a critical ethical distinction based on the
 long-term landscape impact of earthworks.
 
 ### Rehabilitative Earthworks
@@ -148,3 +68,82 @@ and establish perennial systems** are aligned with [[permaculture-ethics]]. Thos
 that **extract water for inappropriate uses or accelerate degradation** must be
 rejected or redesigned. The same dam, drain, or spreader bank can be
 rehabilitative or damaging — the difference lies in how the harvested water is used.
+
+## Overview
+
+Diversion Drains And Spreader Banks represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish diversion drains and spreader banks
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving diversion extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Diversion Drains And Spreader Banks finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for diversion drains and spreader banks. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+diversion drains and spreader banks and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Diversion Drains And Spreader Banks has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of diversion drains and spreader banks into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also

@@ -34,39 +34,7 @@ of the most recognisable trees in the world.
 - **Common relatives:** A. bidwillii (bunya pine), A. angustifolia
   (Parana pine), A. heterophylla (Norfolk Island pine)
 
-## Key [[det|Det]] ails
-- **Growth rate:** Slow growing, very long lived
-- **Height:** 15-35 m, spread 8 m
-- **Climate:** Prefers cool, moist, loamy soils; intolerant of hot
-  dry conditions; native range includes volcanic soils at
-  elevations of 600-1700 m
-- **Hardiness:** Very cold hardy in temperate climates (notably the
-  UK where it is a popular ornamental); excellent wind resistance
-- **Sensitivity:** Loses lower limbs and becomes ragged from
-  industrial pollution; requires clean air for optimal growth
-- **Reproduction:** Usually monoecious (both male and female cones
-  on same tree)
-- **Seeds (piñones):** Twice the size of an almond, rich in starch;
-  roasted, boiled, eaten fresh, or made into alcoholic drink
-- **Productivity:** Eighteen good-sized trees reported capable of
-  sustaining one adult for a year; an extraordinary yield claim
-  that makes this species significant for food security planning
-- **Cultural significance:** Protected by Araucanian (Mapuche)
-  native people of Chile; the species name derives from the
-  Araucanian region
-
-## Cultivation
-Requires cool, moist conditions with shelter from hot, drying winds.
-Prefers loamy, well-drained soils similar to its native volcanic
-origin. Propagation is by seed, which requires frost protection for
-the first couple of years. The tree is slow to establish but
-extremely long-lived once mature. Best suited to cool temperate
-maritime climates with reliable rainfall and moderate summers.
-
-## Ecological Context
-The species is considered a living fossil, with the Araucariaceae
-family dating back to the Mesozoic era. It occupies a unique
-ecological niche in the southern Andes as a [[dom|dom]] inant canopy tree in
+## Key [[dom|dom]] inant canopy tree in
 mixed conifer-broadleaf forests. The seeds are an important food
 source for native wildlife including birds and rodents.
 
@@ -75,14 +43,89 @@ The monkey puzzle tree is one of the most remarkable food-producing
 conifers, offering a high-calorie staple nut in cool temperate
 climates where few other nut trees thrive. Its exceptional cold
 hardiness and wind resistance make it a valuable species for
-[[food-forest-design]]
-- araucaria angustifolia
-- [[pinus-pinea]]
+[[pinus-pinea]]
 - pinus cembra
-- [[juglans-regia]]
+- [[araucaria-angustifolia]]
 
-See also: hazelnut-corylus-spp
+## Overview
+
+Araucaria Araucana represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish araucaria araucana
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving araucaria extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Araucaria Araucana finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for araucaria araucana. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+araucaria araucana and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Araucaria Araucana has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of araucaria araucana into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
 
 ## See Also
 
+- [[araucana-entity]]
 - [[araucaria-angustifolia]]
+- [[araucaria-heterophylla]]

@@ -12,23 +12,17 @@ The movement to decriminalize psilocybin-containing mushrooms has accelerated si
 
 ## Historical Context
 
-[[hplc-analysis-of-psilocybin-and-psilocin]] have been scheduled as [[controlled-substances-act-and-psychedelic-research]] in most countries since the 1970s. In the United States, the Controlled Substances Act of 1970 placed psilocybin in Schedule I (no accepted medical use, high potential for abuse), alongside LSD, heroin, and cannabis. The United Nations Convention on Psychotropic Substances of 1971 classified psilocybin in Schedule I, requiring signatory nations to control its possession and distribution. These international and national frameworks effectively criminalized psilocybin mushrooms globally for decades.
+[[controlled-substances-act-and-psychedelic-research]] in most countries since the 1970s. In the United States, the Controlled Substances Act of 1970 placed psilocybin in Schedule I (no accepted medical use, high potential for abuse), alongside LSD, heroin, and cannabis. The United Nations Convention on Psychotropic Substances of 1971 classified psilocybin in Schedule I, requiring signatory nations to control its possession and distribution. These international and national frameworks effectively criminalized psilocybin mushrooms globally for decades.
 
-The prohibition era for psychedelics coincided with the broader "war on drugs" policies that emphasized criminalization over public health approaches. Research into [[psilocybin-therapeutic-applications]] of psilocybin was largely shut down after the early 1970s, only resuming in the 2000s with breakthrough studies at institutions like Johns Hopkins University and Imperial College London. The growing body of clinical evidence supporting psilocybin's [[metzner-ayahuasca-therapeutic-potential]] has been a key driver of reform efforts.
+The prohibition era for psychedelics coincided with the broader "war on drugs" policies that emphasized criminalization over public health approaches. Research into [[metzner-ayahuasca-therapeutic-potential]] has been a key driver of reform efforts.
 
 ## North America
 
 ### United States
 
-**Oregon (Measure 109, 2020)**: Oregon became the first U.S. state to legalize psilocybin for therapeutic use through a licensed, supervised facilitation model. The Oregon Psilocybin Services program, administered by the Oregon Health Authority, allows licensed facilitators to guide clients through psilocybin experiences at licensed service centers. The program does not require a medical diagnosis — it is available to adults 21 and older. Psilocybin products are manufactured by licensed laboratories and must meet [[aact-compost-quality-standards-ingham]]. Oregon also passed Measure 110 in 2020, which decriminalized personal possession of all drugs including psilocybin, though this measure was subsequently scaled back by the legislature in 2024.
+**Oregon (Measure 109, 2020)**: Oregon became the first U.S. state to legalize psilocybin for therapeutic use through a licensed, supervised facilitation model. The Oregon Psilocybin Services program, administered by the Oregon Health Authority, allows licensed facilitators to guide clients through psilocybin experiences at licensed service centers. The program does not require a medical diagnosis — it is available to adults 21 and older. Psilocybin products are manufactured by licensed laboratories and must meet [[medicinal-mushroom-cancer-regulatory-frameworks]] developed by the Department of Revenue.
 
-**Colorado (Proposition 122, 2022)**: Colorado voters approved the Natural Medicine Health Act, which decriminalized personal use and cultivation of psilocybin, psilocin, ibogaine, mescaline (from non-peyote sources), and DMT for adults 21 and older. The measure also established a framework for regulated "healing centers" where psilocybin can be administered under supervision. Implementation has been phased, with [[medicinal-mushroom-cancer-regulatory-frameworks]] developed by the Department of Revenue.
-
-**Local Decriminalization**: Numerous U.S. cities and municipalities have passed resolutions or ordinances decriminalizing entheogenic plants and fungi at the local level. Denver, Colorado was the first in 2019, followed by Santa Cruz, Oakland, and Ann Arbor, among dozens of others. These local measures typically direct law enforcement to deprioritize enforcement against personal use and cultivation of [[psilocybin-mushrooms-and-ecology]] other entheogenic plants. Enforcement varies considerably, and federal law still technically applies.
-
-**Washington State and California**: Washington State has considered but not yet passed statewide decriminalization legislation, though several cities including Seattle and Port Townsend have deprioritized enforcement. California has seen multiple legislative attempts (notably SB 58 in 2023, which was vetoed) to decriminalize certain psychedelics including psilocybin.
-
-**Federal Developments**: At the federal level, the FDA has granted Breakthrough Therapy designation to psilocybin for treatment-resistant depression ([[compass-pathways]], 2018; Usona Institute, 2019). This designation accelerates the review process but does not change the Schedule I status. The DEA has also approved increased production quotas for psilocybin to support clinical trials. Rescheduling from Schedule I would require action by Congress or the DEA following an administrative review process.
+**Local Decriminalization**: Numerous U.S. cities and municipalities have passed resolutions or ordinances decriminalizing entheogenic plants and fungi at the local level. Denver, Colorado was the first in 2019, followed by Santa Cruz, Oakland, and Ann Arbor, among dozens of others. These local measures typically direct law enforcement to deprioritize enforcement against personal use and cultivation of [[compass-pathways]], 2018; Usona Institute, 2019). This designation accelerates the review process but does not change the Schedule I status. The DEA has also approved increased production quotas for psilocybin to support clinical trials. Rescheduling from Schedule I would require action by Congress or the DEA following an administrative review process.
 
 ### Canada
 
@@ -66,7 +60,7 @@ In 2023, the Therapeutic Goods Administration (TGA) reclassified psilocybin (alo
 
 ## Indigenous Rights and Traditional Use
 
-An important dimension of decriminalization is the recognition of indigenous rights to use psychoactive fungi in traditional ceremonial contexts. In Mexico, indigenous communities have used psilocybin mushrooms (teonanácatl) in [[entheogenic-folk-religious-ceremonies]] for centuries. The Mexican government has historically recognized these practices, and psilocybin mushrooms occupy a complex legal position — technically controlled, but [[traditional-indigenous-use-sacred-fungi]] is largely tolerated and culturally protected. Similar protections exist in various forms in Brazil, Ecuador, and other countries with indigenous populations that use psychoactive fungi or plants.
+An important dimension of decriminalization is the recognition of indigenous rights to use psychoactive fungi in traditional ceremonial contexts. In Mexico, indigenous communities have used psilocybin mushrooms (teonanácatl) in [[traditional-indigenous-use-sacred-fungi]] is largely tolerated and culturally protected. Similar protections exist in various forms in Brazil, Ecuador, and other countries with indigenous populations that use psychoactive fungi or plants.
 
 ## Arguments For and Against Decriminalization
 
@@ -75,11 +69,7 @@ An important dimension of decriminalization is the recognition of indigenous rig
 - **Therapeutic potential**: clinical evidence supports psilocybin's efficacy for depression, anxiety, PTSD, and end-of-life distress
 - **Public health**: decriminalization enables harm reduction, education, and therapeutic access without fear of arrest
 - **Racial justice**: drug enforcement disproportionately affects communities of color
-- **[[mycelial-foraging-resource-allocation]]**: criminalization consumes law enforcement resources that could be directed to public health
-- **Sacramental use**: indigenous and religious communities have legitimate claims to ceremonial access
-
-### Arguments Against
-- **Safety concerns**: potent [[cultural-evolution-and-psychoactive-substances]] can cause acute psychological distress, especially without proper set and setting
+- **[[cultural-evolution-and-psychoactive-substances]] can cause acute psychological distress, especially without proper set and setting
 - **Vulnerable populations**: potential risks for individuals with personal or family history of psychosis
 - **Commercialization concerns**: regulated access models could be exploited for profit
 - **Insufficient research**: long-term effects of widespread psilocybin use are not fully characterized

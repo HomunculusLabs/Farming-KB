@@ -6,40 +6,8 @@ type: concept
 
 # Fukuoka's Hotel/Building Model of Crop Harvest Yields
 
-[[masanobu-fukuoka]] uses a powerful architectural metaphor—a hotel built on
-bedrock—to dismantle the claims of modern [[fukuoka-critique-agricultural-science-laws-liebig]] and reveal
-the superiority [[four-principles-of-natural-farming]].
-
-## High-Yield Theory Is Full of Holes
-
-Fukuoka identifies three reasons why high-yield theory collapses:
-
-**1. Analysis without reassembly.** Science can break nature down into its
-parts and analyze each in isolation, but it cannot reassemble those parts
-into the same whole. The result is at best an "imperfect imitation that can
-never produce higher yields than natural farming." The analytic method
-destroys the living relationships between elements that constitute the true
-source of productivity.
-
-**2. High-yield theory is really loss prevention.** "What is trumpeted as
-high-yield theory and technology amounts to nothing more than an attempt to
-approach natural harvests." The apparent gains are not genuine increases
-over nature's baseline—they are merely measures to stave off crop losses
-that scientific interference itself creates.
-
-**3. Surpassing nature is self-defeating.** Artificially achieving yields
-that surpass natural output only increases imperfection and invites breakdown.
-"Yields that outstrip nature can never be achieved." Any apparent overshoot
-is temporary, purchased at the cost of long-term degradation.
-
-## The Yield Circle Diagram
-
-Fukuoka presents a concentric-circle diagram of farming approaches:
-
-- **Circle 0 (outermost, representing the innermost truth):** Pure Mahayana
-  natural farming—the world of *Mu* (nothingness/emptiness), shown as the
-  innermost circle at center. Nature produces freely without interference.
-- **Circle 2:** Narrower [[fukuoka-mahayana-and-hinayana-natural-farming]]—a more restrained approach
+[[fukuoka-critique-agricultural-science-laws-liebig]] and reveal
+the superiority [[fukuoka-mahayana-and-hinayana-natural-farming]]—a more restrained approach
   accepting some degree of human management.
 - **Circle 3:** [[fukuoka-critique-scientific-farming-energy-efficiency]]—the narrowest ring, where human
   intervention dominates and natural processes are heavily constrained.

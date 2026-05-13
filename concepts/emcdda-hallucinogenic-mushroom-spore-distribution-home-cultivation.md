@@ -11,31 +11,13 @@ type: concept
 
 # Free Spore Ring and Home Cultivation Supply Chain
 
-The European market for [[emcdda-hallucinogenic-mushrooms-emerging-trend-europe]] was
-supported by a complex supply chain extending beyond
-retail shops to encompass spore distribution networks,
-[[gottlieb-psilocybin-cultivation-equipment-and-facilities]] suppliers, and information
+The European market for [[gottlieb-psilocybin-cultivation-equipment-and-facilities]] suppliers, and information
 resources that enabled home cultivation. A particularly
 notable element of this supply chain was the Free Spore
 Ring Europe (FSRE), a non-profit organisation that
 distributed mushroom spores at minimal cost. This
 distribution infrastructure significantly expanded access
-to hallucinogenic [[accessible-mushroom-cultivation-for-disabilities]] beyond what
-commercial retail alone could provide.
-
-## Spore Prints and Syringes
-
-Spore prints and spore syringes constituted the
-fundamental starting materials for home cultivation.
-Spore prints are created by pressing the gills of a
-mature mushroom onto paper, capturing the millions of
-spores released by the fruiting body. Spore syringes
-are produced by transferring spores from a print into
-a syringe under sterile conditions, creating an
-inoculation tool that can be used to introduce spores
-into a prepared substrate.
-
-The EMCDDA [[emcdda-hallucinogenic-mushroom-internet-shop-market-snapshot-2006]] found that spore prints or
+to hallucinogenic [[emcdda-hallucinogenic-mushroom-internet-shop-market-snapshot-2006]] found that spore prints or
 syringes were available through online shops at prices
 ranging from 9 to 28 euros per print or syringe. Prices
 varied according to the species, with prints for more
@@ -49,9 +31,8 @@ where fresh mushrooms were already prohibited.
 
 The Free Spore Ring Europe (FSRE) represented a distinct
 model of spore distribution that operated outside the
-[[porcini-commercial-market]]. This non-profit organisation offered
-a variety of [[african-psilocybin-mushroom-guide]] strains, including
-[[basidiocarp-four-stage-development-classification-psilocybe-cubensis-badham-1982]] and [[stamets-panaeolus-cyanescens-copelandia-identification-ecology]], at a price
+[[african-psilocybin-mushroom-guide]] strains, including
+[[stamets-panaeolus-cyanescens-copelandia-identification-ecology]], at a price
 of 1 euro per print. The minimal pricing structure
 reflected the organisation's stated mission of providing
 access to spore materials rather than generating profit.
@@ -71,10 +52,7 @@ when successfully cultivated into fruiting bodies.
 Beyond basic spore materials, the supply chain included
 more advanced products that simplified the cultivation
 process. Spawn bags contained sterile hardwood chips
-already colonised with [[antimicrobial-compounds-mushroom-mycelium]], reducing the
-need for users to manage the delicate early stages of
-mycelial growth. The EMCDDA snapshot recorded spawn bags
-for [[psilocybe-azurescens]] at prices of 24 to 25 euros
+already colonised with [[psilocybe-azurescens]] at prices of 24 to 25 euros
 per bag.
 
 Grow kits represented the most accessible entry point
@@ -118,8 +96,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[spore]]
 - [[spore-syringe]]
-- [[spore-print]]
 - [[psilocybin]]
 - [[psilocin]]

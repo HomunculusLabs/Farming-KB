@@ -41,52 +41,7 @@ with a few tubers of a different type each year.
 
 ## Soil and Site Preparation
 
-Potatoes need a water-retentive soil with plenty of [[hamilton-composting-and-organic-matter-management]]
-for the best results. If you do not have enough well-rotted compost
-or manure for the whole potato plot, dig the planting furrows deep
-and put a layer in the bottom. Do not lime the potato plot, as
-potatoes prefer an acid soil. If you are using a three-year crop
-[[query-how-do-i-design-a-crop-rotation-plan-for-my-vegetable-garden]], grow potatoes in [[hamilton-cloches-and-frost-protection]] in late
-winter. Plant in rows 2ft (60cm) apart, setting tubers 12in (30cm)
-apart and about 6in (15cm) deep.
-
-## Black Plastic Method
-
-Early varieties can be planted through holes made in black plastic
-sheeting, which restricts weeds and protects young plants from frost
-by warming the soil. Lay the sheeting over the area, bury the edges
-or secure them with bricks. Cut slits in the plastic every 12in
-(30cm) in staggered rows. Plant the potatoes 6in (15cm) deep with
-sprouts uppermost. Lift early varieties for immediate use, leaving
-the rest to continue growing.
-
-## Maintenance
-
-If shoots emerge before frost danger has passed, draw a little soil
-over them for protection. When shoots are 6 to 8 inches (15-20cm)
-tall, spread a handful of blood, fish, and bone meal dressing down
-each yard of row. Then earth up by pulling soil from between the
-rows up to the shoots, leaving about an inch still showing. A second
-earthing up can be done later if the plants have not met in the rows.
-Earthing up is an excellent means of controlling weeds and ensures
-the tubers do not push up into the light.
-
-## Harvesting and Storing
-
-Dig early potatoes when they begin to flower. Take only what is
-needed immediately, leaving the rest to continue growing. Main crop
-types are dug in mid-autumn. Cut down foliage and inspect it carefully
-for signs of disease. If there is any sign at all of blight, the
-foliage must be burned. Dig from the sides of the ridges to avoid
-damaging the tubers, lift the potatoes and leave them to dry for a
-few hours. Store only perfect tubers in paper or burlap bags in a
-frost-free place; blemished ones must be used immediately.
-
-## Pests and Diseases
-
-Potatoes are affected by slugs, wireworms, potato cyst eelworm,
-potato blight, scab, potato blackleg, spraing, and wart disease.
-See [[hamilton-deep-bed-system]].
+Potatoes need a water-retentive soil with plenty of [[query-how-do-i-design-a-crop-rotation-plan-for-my-vegetable-garden]], grow potatoes in [[hamilton-deep-bed-system]].
 They can be planted at the same spacing as conventional rows but
 
 ## Practical Applications
@@ -118,8 +73,78 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[geoff-hamilton]]
 - [[composting]]
-- [[hamilton-garlic-growing-organic]]
 - [[hamilton-organic-fruit-growing]]
 - [[hamilton-leek-growing-organic]]
+
+## Overview
+
+Hamilton Potato Growing Organic represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish hamilton potato growing organic
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving hamilton extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Hamilton Potato Growing Organic finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for hamilton potato growing organic. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+hamilton potato growing organic and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Hamilton Potato Growing Organic has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of hamilton potato growing organic into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions

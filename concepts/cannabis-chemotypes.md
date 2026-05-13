@@ -7,38 +7,7 @@ created: 2025-06-13
 
 # Cannabis Chemotypes
 
-Cannabis chemotypes (also called chemovars) classify cannabis varieties by their chemical composition — specifically their cannabinoid and [[cannabis-terpene-profiles]] — rather than by their physical appearance, geographic origin, or traditional names like "indica" and "sativa." This classification system, formalized by Dr. Ethan Russo and colleagues, provides a more scientifically accurate and therapeutically useful framework for understanding cannabis effects than the outdated indica/sativa dichotomy, which has little botanical or pharmacological basis.
-
-## The Problem with Indica/Sativa Classification
-
-The traditional classification of cannabis into "indica" (sedating, body-focused) and "sativa" (energizing, cerebral) categories originated with 18th-century taxonomist Jean-Baptiste Lamarck. However, modern research has thoroughly discredited this system as a predictor of effects:
-
-- Genetic studies reveal that cannabis strains labeled "indica" or "sativa" do not form genetically distinct clusters
-- A strain's physical morphology (broad vs. narrow leaves) does not reliably predict its chemical composition or effects
-- The same strain name may produce vastly different cannabinoid and terpene profiles when grown by different cultivators
-- Strain names are frequently misleading, with many popular "strains" being renamed clones or unrelated varieties sharing only a name
-- The effects attributed to "indica" and "sativa" more closely correlate with the plant's chemical profile than its purported lineage
-
-## Chemotype Classification System
-
-The modern chemotype system classifies cannabis based on its dominant cannabinoid profile, using a standardized framework that predicts therapeutic potential:
-
-### Chemotype I — THC-Dominant
-
-- **Profile**: THC > 0.3% and THC > CBD
-- **Typical THC range**: 10-30% (modern commercial cultivars)
-- **CBD content**: Usually < 1%, often < 0.3%
-- **Effects**: Primarily psychoactive; analgesic, anti-nausea, appetite-stimulating, muscle-relaxing, euphoric
-- **Therapeutic uses**: Chronic pain, chemotherapy-induced nausea, [[cannabis-for-cachexia-and-appetite-stimulation]] (HIV/AIDS, cancer cachexia), spasticity ([[blesching-cannabis-multiple-sclerosis]]), glaucoma, insomnia
-- **Considerations**: May cause anxiety, cognitive impairment, and tachycardia at higher doses; tolerance develops with regular use
-- **Examples**: Most commercially available cannabis strains fall into this category
-
-### Chemotype II — Balanced THC:CBD
-
-- **Profile**: Significant levels of both THC and CBD (typically THC:CBD ratio between 1:5 and 5:1)
-- **CBD content**: Generally > 1%, often 5-15%
-- **Effects**: Moderated psychoactivity due to CBD's antagonism of CB1 receptors; broader therapeutic profile than THC-dominant varieties
-- **Therapeutic uses**: Chronic pain with reduced psychoactive burden, [[cannabis-for-anxiety-disorders]], pediatric epilepsy, inflammatory conditions, spasticity, PTSD
+Cannabis chemotypes (also called chemovars) classify cannabis varieties by their chemical composition — specifically their cannabinoid and [[cannabis-for-cachexia-and-appetite-stimulation]] (HIV/AIDS, cancer cachexia), spasticity ([[cannabis-for-anxiety-disorders]], pediatric epilepsy, inflammatory conditions, spasticity, PTSD
 - **Considerations**: CBD modulates THC's effects, reducing anxiety and cognitive impairment while potentially extending therapeutic duration
 - **Examples**: Harlequin, Cannatonic, Pennywise, ACDC (high CBD, low THC ratio)
 
@@ -55,35 +24,7 @@ The modern chemotype system classifies cannabis based on its dominant cannabinoi
 
 - **Profile**: Dominated by THCV (tetrahydrocannabivarin) with varying THC levels
 - **Effects**: Appetite-suppressing at low doses, mildly psychoactive at high doses, energy-promoting
-- **Therapeutic uses**: Obesity [[cannabis-for-diabetes-and-metabolic-syndrome]], type 2 diabetes, Parkinson's disease
-- **Examples**: Durban Poison, Doug's Varin
-
-### Chemotype V — Cannabinoid-Free (Hemp Fiber/Seed)
-
-- **Profile**: All cannabinoids below 0.3% THC, minimal other cannabinoids
-- **Uses**: Industrial fiber production, seed for food and oil, construction materials (hempcrete), textiles
-- **Considerations**: Not used for therapeutic cannabinoid applications
-
-## Terpene Profiling Within Chemotypes
-
-Within each cannabinoid chemotype, terpene profiles create additional sub-classifications that further refine therapeutic predictions:
-
-### Myrcene-Dominant
-- Sedating, muscle-relaxing, analgesic properties
-- Common in "couch-lock" varieties regardless of THC/CBD ratio
-- Enhances cannabinoid absorption through cell membrane permeabilization
-- Found in mango, hops, lemongrass, thyme
-
-### Limonene-Dominant
-- Mood-elevating, anti-anxiety, anti-inflammatory
-- Promotes focus and energy
-- Enhances absorption of other terpenes and cannabinoids through topical and oral routes
-- Found in citrus fruits, rosemary, juniper
-
-### Pinene-Dominant
-- Alertness, memory retention, bronchodilation
-- Counteracts THC-induced short-term memory impairment
-- Anti-inflammatory and [[medicinal-mushroom-antimicrobial-properties]]
+- **Therapeutic uses**: Obesity [[medicinal-mushroom-antimicrobial-properties]]
 - Found in pine needles, rosemary, sage
 
 ### Linalool-Dominant
@@ -118,8 +59,91 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[sour-tsunami]]
 - [[pinene]]
-- [[dom]]
 - [[linalool]]
 - [[acdc]]
+
+## Overview
+
+Cannabis Chemotypes represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish cannabis chemotypes
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving cannabis extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Cannabis Chemotypes finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for cannabis chemotypes. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+cannabis chemotypes and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Cannabis Chemotypes has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of cannabis chemotypes into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[blesching-cannabis-vasopressin-aggression]]
+- [[cannabis-cultivar-microbiome-specificity]]
+- [[green-cannabis-grow-bible-species-indica-sativa-ruderalis]]
+- [[lemon-haze-cannabis]]
+- [[query-how-to-harvest-and-cure-cannabis-for-best-flavor]]

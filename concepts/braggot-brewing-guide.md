@@ -9,13 +9,7 @@ sources:
 ---
 # Braggot Brewing Guide
 
-Braggot is a hybrid fermented beverage that combines the grain-based tradition of beer with the honey-based tradition of mead. Essentially a malt and honey brew, braggot occupies the space between beer and mead, drawing characteristics from both. It is one of the oldest styles of fermented beverage, predating the clear distinction between beer and mead in many [[entheogens-in-ancient-cultures]].
-
-## What Is Braggot?
-
-Braggot (also spelled bragget or bracket) is defined as a fermented beverage made from both malted grain and honey. The proportions can vary widely -- some braggots are essentially beer with honey added, while others are mead with grain components. The BJCP style guidelines describe braggot as a beverage where both malt and honey contribute significantly to the character.
-
-Historically, the boundary between beer and mead was often blurry. Many ancient [[comparison-mead-vs-kvass-fermented-beverages]] used whatever fermentable materials were available -- grain, honey, fruit, and herbs. The distinct categories of "beer" and "mead" are somewhat modern, and braggot represents the continuation of a more integrated, ancient approach to fermentation.
+Braggot is a hybrid fermented beverage that combines the grain-based tradition of beer with the honey-based tradition of mead. Essentially a malt and honey brew, braggot occupies the space between beer and mead, drawing characteristics from both. It is one of the oldest styles of fermented beverage, predating the clear distinction between beer and mead in many [[comparison-mead-vs-kvass-fermented-beverages]] used whatever fermentable materials were available -- grain, honey, fruit, and herbs. The distinct categories of "beer" and "mead" are somewhat modern, and braggot represents the continuation of a more integrated, ancient approach to fermentation.
 
 ## Historical Context
 
@@ -90,36 +84,8 @@ English ale strains and Belgian strains tend to pair well with honey. American s
 1. Include honey in the mash tun along with grain
 
 ## See Also
-- [[ingham-field-guide-aact-brewing-methodology]]
 - [[teaming-with-microbes-compost-tea-brewing-guide]]
-- [[ayahuasca-diy-home-brewing-ethnobotanical-supplier-guide]]
 - [[ayahuasca-brewing-guide]]
-- [[ingham-molasses-types-brewing-effects]]
-
-## Practical Applications
-
-The principles and techniques discussed here have wide-ranging applications
-across multiple disciplines and contexts. Practitioners and researchers
-continue to explore new ways to integrate these concepts into modern practice,
-adapting traditional knowledge to contemporary challenges and opportunities.
-
-## Key Considerations
-
-Several important factors influence the effectiveness and outcomes described
-in this topic. Understanding these considerations helps practitioners make
-informed decisions and avoid common pitfalls. Environmental conditions,
-timing, and material selection all play critical roles.
-
-## Common Challenges
-
-Practitioners frequently encounter several challenges when working with
-these concepts. Climate variability, resource limitations, and knowledge
-gaps can all affect outcomes. Addressing these challenges requires patience,
-observation, and a willingness to adapt approaches based on results.
-
-## See Also
 - [[ayahuasca]]
-- [[dom]]
 - [[ingham-field-guide-aact-brewing-methodology]]
-- [[ayahuasca-diy-home-brewing-ethnobotanical-supplier-guide]]
 - [[teaming-with-microbes-compost-tea-brewing-guide]]

@@ -4,21 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Integrated Pest Management in Tropical Polycultures
-
-## Overview
-
-Mollison's approach to pest and disease management in tropical polycultures rejects chemical interventions in favor of integrated biological strategies that enlist plants, invertebrates, vertebrates, and common substances as allies. Rather than treating pests as enemies to be eradicated, this framework positions pest regulation as an emergent property of diverse, well-designed systems where every element serves multiple functions — including pest control.
-
-## Plant-Based Biocides
-
-### Natural Insecticides
-
-Several plants produce powerful insecticidal compounds that are harmless or short-acting and are totally biodegradable. Classic examples include:
-
-- **Chrysanthemum** species: Source of pyrethrins, among the safest and most widely used botanical insecticides. A few plants in home gardens provide a ready source of insect control.
-- **Derris** species: Source of rotenone, effective against a broad spectrum of insects. Derris also controls aquatic organisms — most insecticidal plants are lethal to aquatic species.
-- **Neem tree** (*Melia azadirachta*, syn. *[[azadirachta-indica]]*): One of the most important medicinal and pesticidal plants in the tropics. Neem leaves and oil deter pests in stored foods and have been used for this purpose for centuries in India. Neem also controls aquatic organisms.
+# Integrated Pest [[azadirachta-indica]]*): One of the most important medicinal and pesticidal plants in the tropics. Neem leaves and oil deter pests in stored foods and have been used for this purpose for centuries in India. Neem also controls aquatic organisms.
 
 These plants should be integrated into home gardens and planted in small clumps throughout crop areas to provide a distributed, on-site source of pest control materials.
 
@@ -148,32 +134,10 @@ The principle is to always find local plant species that perform well in the dis
 
 ### Erosion Control with Grass Contours
 
-Contours planted at specific intervals provide permanent, self-maintaining erosion control:
+## See Also
 
-- **Medium slopes (2°-7°)**: Contour plantings at 10-meter intervals
-- **Steep slopes**: Contour plantings at 5-meter intervals
-
-Suitable species include root sets of:
-- **Canna**: Provides edible rhizomes as a byproduct
-- **Vetiver grass**: Deep-rooted, non-invasive, excellent soil binder
-- **Lemongrass**: Culinary herb with erosion control function
-- **Pampas grass**: Vigorous growth stabilizes steep slopes
-
-These are set at 0.3-0.6 meter spacing and form unbroken cross-slope hedges, or crowns on earth walls and dam banks at spillways. They disperse water, create silt traps, and produce mulch. Behind these self-perpetuating living walls, soil is deeper and trees can be planted or crops grown.
-
-In desert areas, some yuccas, agaves, and aloes may provide the same structural erosion control effect.
-
-## Key Principles
-
-1. **Distribute biocidal plants throughout the system**: Pyrethrum daisies, neem, and derris in gardens and crop areas provide on-site pest control materials
-2. **Layer biological controls**: Ground foragers, canopy foragers, and aquatic predators each address different pest niches
-3. **Every animal serves multiple functions**: Pest control, manure production, food yield, and recycling are never single-purpose
-4. **Soil health prevents pest outbreaks**: Humus, mulch, and green manures support predator populations that keep pests in check
-5. **Use trap crops strategically**: Crotolaria and marigolds intercept nematodes before they reach cash crops
-6. **Design fences for tropical conditions**: Grass management along fence lines is essential for electric fence effectiveness
-7. **Favor endemic species**: Local animals may offer pest control functions that domesticated species cannot provide
-## See also
-
-- [[permaculture-design]]
-- [[agroforestry]]
-- [[tropical-polyculture-evolution-and-pest-management]]
+- [[mollison-geese-grass-control-and-integrated-poultry]]
+- [[query-what-is-integrated-pest-management-for-organic-mushroom-cultivation]]
+- [[integrated-land-management-tropical]]
+- [[pig-forage-and-integrated-management]]
+- [[integrated-tropical-homestead-garden-layout]]

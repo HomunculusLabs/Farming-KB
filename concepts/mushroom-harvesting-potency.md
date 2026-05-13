@@ -1,6 +1,6 @@
 ---
 
-title: Mushroom Harvesting Potency
+title: Mushroom Harvesting and Potency
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
@@ -22,7 +22,7 @@ sources:
 
 # Mushroom Harvesting and Potency
 
-Harvest timing, drying method, and storage dramatically affect the quality and potency of [[fungi-cultivated-mushrooms-pathogens-competitors]]. PF ([[psylocybe-fanaticus]]) and Paul Stamets both provide detailed guidance. This page covers harvest timing for maximum potency, drying [[food-preservation-canning]], spore printing, and [[gottlieb-psilocybin-cultivation-spore-syringe-preparation]].
+Harvest timing, drying method, and storage dramatically affect the quality and potency of cultivated mushrooms. PF (Psylocybe Fanaticus) and Paul Stamets both provide detailed guidance. This page covers harvest timing for maximum potency, drying and storage methods, spore printing, and spore syringe preparation.
 
 ## When to Harvest: Pre-Sporulation
 
@@ -114,7 +114,7 @@ Note: Individual sensitivity varies enormously. One mycologist needs only 1-2 gr
 
 ### What NOT to Do
 
-- **Never dry in an oven** -- heat leaches [[guzman-magic-mushrooms-chemical-constituents]] and reduces quality
+- **Never dry in an oven** -- heat leaches chemical constituents and reduces quality
 - **Never use hot air dryers** -- same problem
 - Mushrooms dried with desiccant "lose hardly any chemical constituents"
 
@@ -140,11 +140,10 @@ Mature specimens (with dark brown gills and purple spore deposits) are good for 
 
 ### Procedure
 
-1. **Pre-sterilize** jar and metal lid in toaster oven at ~300F for 30 minutes; cool; tighten lid
-2. **Wash hands** -- hands are "a prime source for bacteria and microspore contaminants"
-3. **Sterilize work surfaces** with rubbing alcohol; minimize drafts
-4. Run a HEPA air cleaner (99.97% efficiency) for a few hours in a closed room
-5. **Flame sterilize scissors** with alcohol flame; snip mushroom cap as far up the stem as possible
-6. **Place cap gills-down** on jar bottom using straight pin; lid on loosely
-7. **Leave 2 days** in draft-free area away from direct sunlight
-8. **Remove cap** with minimal air disturbance; let jar dehumidify a few days with loose lid
+## See Also
+
+- [[reishi-mushroom-cultivation-and-medicinal-properties]]
+- [[straw-based-mushroom-substrate-preparation]]
+- [[casing-soil-sterilization-versus-pasteurization-debate-mushroom-cultivation]]
+- [[straw-mushroom-cultivation]]
+- [[psilocybe-caerulescens-mazatec-sacred-mushroom-guzman-1998]]

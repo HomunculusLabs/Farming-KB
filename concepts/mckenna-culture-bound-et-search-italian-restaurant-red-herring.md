@@ -22,29 +22,11 @@ These assumptions are not unreasonable within the framework of mid-twentieth-cen
 
 Radio communication is the technology by which humanity itself achieved the capacity for interstellar signaling, and it is natural to project this technology onto hypothetical alien civilizations.
 
-The search for narrow-bandwidth signals in the microwave window — the region of the [[electromagnetic-spectrum-plant-light-perception]] least attenuated by the interstellar medium and by Earth's atmosphere — follows logically from the assumption that an advanced civilization would choose the most efficient available communication channel.
-
-## The Cultural Bias Argument
-
-McKenna's critique begins from the observation that these assumptions are not universal or inevitable but are products of a specific cultural and [[ghouled-field-guide-historical-context]].
+The search for narrow-bandwidth signals in the microwave window — the region of the [[ghouled-field-guide-historical-context]].
 
 Radio technology is a product of Western science and engineering; the assumption that an alien civilization would use radio waves as a communication medium is, at bottom, an assumption that the alien civilization would develop along technological trajectories similar to our own.
 
-This is an anthropocentric projection — the extension of human [[harner-cross-cultural-patterns-shamanic-plant-use]] onto the cosmos — and it is vulnerable to the same objections that anthropologists have raised against ethnocentric projections of human social patterns onto other cultures.
-
-The "Italian restaurant" metaphor captures the essential absurdity of the projection.
-
-Italian cuisine is a specific cultural product of a specific geographical region, developed under specific historical and ecological conditions.
-
-To search the galaxy for an Italian restaurant would be to assume that the entire cosmos shares the culinary preferences of a particular human population — an assumption so transparently parochial as to be laughable.
-
-McKenna argued that the search for radio signals from extraterrestrial civilizations is, in its cultural specificity, not qualitatively different from the search for interstellar Italian food.
-
-Both assume that the universe shares the particular preoccupations of a particular human culture at a particular moment in its history.
-
-The critique can be extended further.
-
-The assumption that communication between civilizations would take the form of electromagnetic signals propagating through three-dimensional space at the speed of light reflects a classical physics worldview that may be radically inadequate to the task of [[tompkins-lawrence-biological-interstellar-communication]].
+This is an anthropocentric projection — the extension of human [[tompkins-lawrence-biological-interstellar-communication]].
 
 If consciousness, information, or intelligence can exist in dimensions or on scales not described by classical physics — if, for example, there are informational dimensions accessible through altered states of consciousness, as McKenna's broader argument suggests — then the entire electromagnetic signaling paradigm may be looking in the wrong place, with the wrong instruments, for the wrong kind of phenomenon.
 
@@ -90,21 +72,7 @@ They present themselves as real beings in a real environment, and they communica
 
 The problem, from the perspective of institutional science, is that these experiences are subjective, non-reproducible, and accessible only through the deliberate alteration of consciousness by pharmacological means.
 
-They cannot be recorded by instruments, verified by independent observers, or subjected to controlled [[darwin-five-seedling-phototropism-experimental-conditions]] in any straightforward way.
-
-They are, by the criteria of instrumental epistemology, inadmissible as evidence — not because they lack informational content but because they fail to meet the methodological requirements that define what counts as evidence within the prevailing paradigm.
-
-## The Noise Problem
-
-McKenna identified what he saw as the fundamental epistemological error underlying the SETI paradigm: the assumption that genuine signals from extraterrestrial intelligence would arrive through channels that are already recognized and validated by institutional science, and that anything arriving through other channels is noise.
-
-This assumption, he argued, reverses the proper relationship between signal and noise.
-
-If extraterrestrial intelligence operates through dimensions or modalities that fall outside the scope of current scientific instrumentation — if, for example, it communicates through the informational dimensions accessible in altered states of consciousness — then the "noise" rejected by the SETI paradigm may actually contain the very signals that the paradigm is seeking.
-
-The DMT experience, in this framing, is not noise but signal — a genuine form of contact with intelligence that exists beyond the boundaries of ordinary space-time and ordinary consciousness.
-
-The fact that this contact occurs through subjective, experiential channels rather than through radio telescopes does not, in McKenna's view, diminish its epistemic status; rather, it suggests that the epistemic framework that privileges radio telescopes over [[dosage-unpredictability-psilocybin-subjective-experience]] is itself inadequate to the reality it seeks to understand.
+They cannot be recorded by instruments, verified by independent observers, or subjected to controlled [[dosage-unpredictability-psilocybin-subjective-experience]] is itself inadequate to the reality it seeks to understand.
 
 ## Recognizing Contact
 

@@ -38,9 +38,7 @@ placed on contour. The ditch catches water running down the slope and
 the berm prevents it from continuing downhill. Water fills the swale
 and slowly sinks into the soil.
 
-Fruit and [[comparison-nut-trees-vs-grain-farming-for-caloric-staple-production]] are totally important parts of swale planting. The
-trees tap into the underground water stored by the swales and their
-roots hold the soil in place. Long after your swales and [[comparison-gabions-vs-check-dams]]
+Fruit and [[comparison-gabions-vs-check-dams]]
 have silted up, they will be visible as lines of trees along the
 hillsides.
 
@@ -89,8 +87,6 @@ animal droppings and mulch, creating rich, sheltered microclimates for
 plants to establish.
 
 ## See Also
-- [[broadscale-restoration-watershed-repair]]
 - [[broadscale-watershed-restoration-techniques]]
-- [[query-how-to-test-and-remediate-urban-soil-for-food-growing]]
 - [[urban-permaculture-edge-effect-microclimate]]
 - [[urban-guerrilla-food-growing-city-agriculture]]

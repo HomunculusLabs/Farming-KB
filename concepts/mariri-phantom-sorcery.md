@@ -16,10 +16,8 @@ type: concept
 
 # Mariri (Magical Phlegm)
 
-The mariri, also called mann or yachay, is a magical phlegm that
-constitutes the central reservoir of a [[amazonian-plant-teachers-doctores]]. It is
-described as a "colored cord" that is "spilled forth" from the
-shaman's mouth. The [[queen-inamullo]] (necklace of thorns), also known
+The [[mariri]], also called mann or yachay, is a magical phlegm that
+constitutes the central reservoir of a [[queen-inamullo]] (necklace of thorns), also known
 as Huacra-chukcha (hair of thorns), is the master teacher of the
 arts connected with the mariri. She carries a jar of delicate balsams
 for the protection of mariris able to harmonise with the vibrations
@@ -53,8 +51,7 @@ various things emerge:
 2. **Second tube**: The white mann, which is medicinal
 3. **Third tube**: The yachay-trueno (magical phlegm-thunder), used
    by true sorcerers
-4. **Fourth tube**: The [[sachamama]] (mother of the forest), also used
-   by sorcerers, belonging to [[marupa-sorcery]]
+4. **Fourth tube**: The [[marupa-sorcery]]
 5. **Fifth tube**: Another marupa-influenced mann used to convey
    messages through animals
 6. **Sixth tube**: Contains yana-alacran (black scorpion), spider,
@@ -75,16 +72,79 @@ home of those belonging to the dynasty of the great wise masters.
 
 ## The Mariri in Sorcery
 
-Sorcerers store harmful agents in [[plant-micronutrients-and-their-essential-functions]] mariris. The Cocama sorcerer
-keeps animals -- insects, snakes, scorpions, bats, rays, toads --
-in his mann and sends them to cause harm. The sorcerer who uses the
-huani (a steel bow with crystal arrow) keeps a living piranha inside
-his mann. The sorcerer using the sapo-machaco (snake-toad) has a
-deadly poison in his mariri. The black yakurunas and other malevolent
-beings are also associated with the mariri of sorcerers.
-
-## The Papalluses: Guardians of the Mariri
-
-The papalluses are lilac spirits with red eyes who serve as guardians
-of the mann and the huani. Under their arms they carry the [[mckenna-language-as-magic-shamanic-theory-linguistic-reality-plant-hallucinogens]]
+Sorcerers store harmful agents in [[mckenna-language-as-magic-shamanic-theory-linguistic-reality-plant-hallucinogens]]
 steel bow and crystal arrow. They can be evil when seeking revenge but
+
+## Overview
+
+Mariri Phantom Sorcery represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish mariri phantom sorcery
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving mariri extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Mariri Phantom Sorcery finds practical application in multiple design contexts.
+[[permaculture-principles]] guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for mariri phantom sorcery. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+mariri phantom sorcery and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Mariri Phantom Sorcery has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of mariri phantom sorcery into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource

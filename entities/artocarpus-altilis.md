@@ -20,49 +20,7 @@ sources:
 
 ## Overview
 
-Artocarpus altilis, commonly known as breadfruit, is a large evergreen tree in the family Moraceae. It is widely cultivated throughout the [[guzman-allen-gartz-hawaii-neurotropic-fungi-tropical-pacific-hotspot]], Southeast Asia, the Caribbean, and parts of Africa for its large, starchy fruit that serves as a carbohydrate staple food.
-
-The species is believed to have been domesticated in the western Pacific, possibly in the Bismarck Archipelago or Vanuatu, approximately 3,500 years ago. Austronesian voyagers carried breadfruit across the Pacific as a canoe plant, establishing it throughout Oceania.
-
-Breadfruit trees typically reach 15 to 25 meters in height with a dense, spreading canopy. The fruit is a large syncarp, 10 to 30 centimeters in diameter, with a bumpy green to yellowish skin and white to cream-colored starchy flesh.
-
-The fruit is typically consumed as a starchy vegetable, prepared by boiling, baking, roasting, or frying. When cooked, the texture and flavor resemble fresh bread or potatoes, giving rise to the common name.
-
-The infamous Bounty mutiny of 1789 was directly related to breadfruit. Captain William Bligh was tasked by the British government with transporting breadfruit seedlings from Tahiti to the Caribbean as a cheap food source for enslaved people, a mission that was interrupted by the mutiny.
-
-## Taxonomy and Morphology
-
-**Taxonomy:**
-
-- Kingdom: Plantae
-- Order: Rosales
-- Family: Moraceae
-- Subfamily: Moroideae
-- Tribe: Artocarpeae
-- Genus: Artocarpus
-- Species: A. altilis (Parkinson) Fosberg
-
-The species was first described by Sydney Parkinson during Captain Cook's first voyage to the Pacific in 1769. The original basionym was Artocarpus communis, later revised by Fosberg in 1941.
-
-Recent molecular phylogenetic studies have confirmed that breadfruit is a cultigen derived from the wild species Artocarpus camansi (breadnut). Breadfruit is predominantly seedless, while A. camansi produces large, edible seeds.
-
-Three main cultivar groups are recognized: seedless (the most widely cultivated), seeded, and hybrid forms intermediate between the two. The seedless types are the result of centuries of human selection for fruit quality.
-
-**Morphology:**
-
-Breadfruit is a large, monoecious tree with a straight trunk 30 to 60 centimeters in diameter. The bark is smooth and gray-brown, exuding white to yellowish latex when cut. All plant parts contain characteristic milky latex.
-
-Leaves are large, 30 to 90 centimeters long and 20 to 50 centimeters wide, deeply pinnately lobed in mature trees with 5 to 11 lobes. Leaf margins are entire to slightly wavy, and the surface is glossy dark green above with paler green beneath and conspicuous yellowish veins.
-
-Male and female inflorescences are borne on the same tree. Male inflorescences are club-shaped spikes 10 to 25 centimeters long, producing abundant pollen. Female inflorescences are globose heads that develop into the fruit.
-
-The fruit is a fleshy syncarp composed of numerous individual flowers fused around a central core. Mature fruits weigh 0.5 to 6 kilograms, with most cultivated varieties producing fruits of 1 to 3 kilograms.
-
-## Distribution and Habitat
-
-Artocarpus altilis is pantropical in cultivation but has a narrower native distribution in the western Pacific. Wild progenitor populations (A. camansi) occur in New Guinea, the Philippines, and the Moluccas.
-
-Cultivated breadfruit is grown throughout the [[guzman-allen-gartz-neurotropic-fungi-hawaii-pacific-islands]], Southeast Asia, Sri Lanka, Madagascar, the Caribbean, [[guzman-allen-gartz-neurotropic-fungi-caribbean-central-america]], tropical Africa, and northern Australia. It thrives in equatorial and [[fukuoka-natural-farming-tropical-climates]] with consistent warmth and moisture.
+Artocarpus altilis, commonly known as breadfruit, is a large evergreen tree in the family Moraceae. It is widely cultivated throughout the [[guzman-allen-gartz-neurotropic-fungi-hawaii-pacific-islands]], Southeast Asia, Sri Lanka, Madagascar, the Caribbean, [[fukuoka-natural-farming-tropical-climates]] with consistent warmth and moisture.
 
 The species requires a mean annual temperature of 21 to 32°C and annual rainfall of 1,500 to 2,500 millimeters for optimal growth and fruit production. It is intolerant of frost and is damaged by temperatures below 5°C.
 
@@ -80,10 +38,85 @@ Breadfruit is one of the highest-yielding food plants in the tropics, with a sin
 
 The fruit is harvested when mature but firm, typically 15 to 19 weeks after flowering. Ripe fruits have a yellowish-green skin and exude small amounts of latex from the surface when touched.
 
-[[amanita-muscaria-preparation-methods]] vary widely across cultures. Common techniques include baking whole fruits in underground ovens (umu, imu), boiling and mashing into a paste, slicing and frying as chips, and fermenting into a preserved product.
+[[mollison-designers-fish-pond-fertiliser-and-nutrient-cycling]].
 
-The nutritional value of breadfruit per 100 grams (fresh weight) is approximately 70 to 120 calories, with 20 to 30 grams of carbohydrates, 1 to 2 grams of protein, and less than 1 gram of fat. It is a good source of dietary fiber, potassium, vitamin C, and several B vitamins.
+## Overview
 
-**Agroforestry:**
+Artocarpus Altilis represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
 
-Breadfruit is an important component of traditional agroforestry systems throughout Oceania and the Caribbean. Its deep root system, wide canopy, and association with mycorrhizal fungi make it valuable for soil stabilization [[mollison-designers-fish-pond-fertiliser-and-nutrient-cycling]].
+## Key Characteristics
+
+Several defining characteristics distinguish artocarpus altilis
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving artocarpus extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Artocarpus Altilis finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for artocarpus altilis. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+artocarpus altilis and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Artocarpus Altilis has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of artocarpus altilis into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[artocarpus-heterophyllus]]

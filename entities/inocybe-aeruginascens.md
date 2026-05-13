@@ -1,6 +1,6 @@
 ---
 
-title: Inocybe Aeruginascens
+title: [[gartz-inocybe-aeruginascens-distribution-and-psychoactivity]]
 created: 2026-04-12
 updated: 2026-04-12
 type: entity
@@ -22,7 +22,7 @@ sources:
 
 # Inocybe aeruginascens
 
-A psychoactive Inocybe species notable for containing the rare compound aeruginascin, unique among known [[cap-versus-stem-alkaloid-distribution-in-psilocybin-mushrooms]]. First described by [[jochen-gartz]] and romagnesi.
+A psychoactive Inocybe species notable for containing the rare compound aeruginascin, unique among known [[psilocybin-mushrooms]]. First described by [[jochen-gartz]] and romagnesi.
 
 ## Taxonomy
 
@@ -40,7 +40,7 @@ A psychoactive Inocybe species notable for containing the rare compound aerugina
 - **Gills (lamellae):** Adnexed to sinuate, moderately crowded. Color: clay-brown to olivaceous brown, becoming darker with spore maturity. Edge often whitish and fringed.
 - **Stem (stipe):** 3-6 cm long, 2-4 mm thick. Equal or slightly thicker at base. Surface pruinose (frosted) near apex, fibrillose below. Pale to brownish. No ring. Cortina (web-like veil) present in young specimens.
 - **Flesh:** Thin, pale brownish. Odor: mild or slightly spermatic (characteristic of Inocybe genus). Taste: mild.
-- **Spore print:** Dark brown to tobacco brown.
+- **[[spore-print]]:** Dark brown to tobacco brown.
 - **Spores:** Smooth, elliptical to bean-shaped (amygdaliform), 8-11 x 5-6 µm. Apex with prominent apical germ pore.
 - **Chemical reaction:** Moderate blueing reaction on bruising, especially at stem base and gill edges.
 
@@ -78,7 +78,7 @@ Gartz made a significant observation: users who consumed Inocybe aeruginascens r
 
 ### German "Fasanenstrasse" Phenomenon
 
-Gartz documented one of the most remarkable cases of urban mushroom use in Europe: the Fasanenstrasse in Berlin, where I. aeruginascens grew abundantly along a tree-lined avenue. Local residents collected and consumed these mushrooms regularly, reportedly with consistently positive experiences. This case is notable because:
+Gartz documented one of the most remarkable cases of [[cotter-urban-mushroom-cultivation]] use in Europe: the Fasanenstrasse in Berlin, where I. aeruginascens grew abundantly along a tree-lined avenue. Local residents collected and consumed these mushrooms regularly, reportedly with consistently positive experiences. This case is notable because:
 - It represents the only documented case of regular Inocybe consumption (most Inocybe species are dangerously toxic)
 - The positive user reports align with Gartz's aeruginascin hypothesis
 - It demonstrates psychoactive mushroom use in a major urban center
@@ -111,10 +111,10 @@ Consuming Inocybe species is EXTREMELY DANGEROUS without expert identification:
 
 **Critical warning:** Most Inocybe species that resemble I. aeruginascens contain muscarine and/or other dangerous toxins. Do NOT consume any Inocybe without expert verification.
 
-
 ## See Also
 
-- [[inocybe-aeruginascens-neurotropic-cortinariaceae-guzman-1998]]
-- [[inocybe-erubescens]]
-- [[inocybe-longicystis]]
-- [[inocybe-rimosa]]
+- [[psilocybin-mushroom-chemistry]] — [[challenges-neurotropic-fungi-chemical-analysis-taxonomic-identification]] and alkaloid profiles
+- [[psilocybin-mushroom-chemistry]] — Aeruginascin hypothesis and safety
+- [[psilocybin-mushroom-chemistry]] — European species distribution
+- [[jochen-gartz]] — Discoverer of aeruginascin in this species
+- [[mushroom-identification-resources]] — Identification [[shulgin-safety-principles-self-experimentation]]

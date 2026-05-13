@@ -12,10 +12,8 @@ The microscopic features essential for accurate identification of psilocybin-con
 
 ## Why Microscopy Matters
 
-Identifying [[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]] to species using macroscopic features alone is at best an educated guess.
-
-Some species like [[psilocybin-mushroom-identification]], [[psilocybin-mushroom-deadly-lookalikes]], [[psilocybin-mushroom-habitats-ecology]]
-- psilocybe-mushroom-species-guide
+Identifying [[psilocybin-mushroom-identification]], [[psilocybin-mushroom-habitats-ecology]]
+- psilocybe-[[mushroom-species-guide]]
 ## Background and Context
 
 Psilocybin Mushroom Microscopic Identification is an important subject that has garnered significant attention

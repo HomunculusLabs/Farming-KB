@@ -32,7 +32,7 @@ Many gardening books recommend interplanting corn and beans so that the nitrogen
 - Very little nitrogen gathered by a bean plant is shared with companion corn in the current season
 - The nitrogen accumulated by the bean's roots goes primarily to its seeds
 - Almost no studies show improved corn yield from bean intercropping in temperate regions
-- The few studies showing benefits are from tropical intercropping systems, not applicable to most of the US
+- The few studies showing benefits are from tropical [[intercropping-systems]], not applicable to most of the US
 - Traditional grain-legume rotations, however, are well-supported by research
 
 ## How to Actually Get Nitrogen from Legumes
@@ -52,20 +52,16 @@ To release fixed nitrogen for use by other plants during the current growing sea
 | Legume | lbs N/acre | Comparable Vegetable Need |
 |--------|-----------|--------------------------|
 | Field beans (Pisum arvensis) | 40 | Low |
-| Peanuts ([[arachis-hypogaea]]) | 40 | Low |
-| Hairy vetch ([[vicia-villosa]]) | 80 | Broccoli-level |
-| Dutch white clover ([[trifolium-repens]]) | 100 | Asparagus, lettuce |
-| Soybeans ([[glycine-max]]) | 100 | Squash, broccoli |
+| Peanuts ([[vicia-villosa]]) | 80 | Broccoli-level |
+| Dutch white clover ([[glycine-max]]) | 100 | Squash, broccoli |
 | Alsike clover (Trifolium hybridum) | 140 | Moderate |
-| Red clover ([[trifolium-pratense]]) | 140 | Moderate |
-| Sweet white clover (Melilotus alba) | 160 | Sweet potatoes + above |
-| Alfalfa ([[medicago-sativa]]) | 250 | Corn, tomatoes + all above |
+| Red clover ([[medicago-sativa]]) | 250 | Corn, tomatoes + all above |
 
 Note: Numbers vary considerably by soil type and climate, but relative rankings hold.
 
 ## Rotation vs. Intercropping
 
-The well-documented and traditional practice is planting legumes in rotation with grains, corn, and cereals -- not intercropping them simultaneously. A typical rotation: legume cover crop in year one, heavy-feeding crop in year two. This allows the terminated legume's residues (including nodules) to decompose and release nitrogen during fallow periods.
+The well-documented and traditional practice is planting legumes in rotation with grains, corn, and cereals -- not intercropping them simultaneously. A typical rotation: legume [[cover-crop]] in year one, heavy-feeding crop in year two. This allows the terminated legume's residues (including nodules) to decompose and release nitrogen during fallow periods.
 
 ## Energy Costs of Nitrogen Fixation
 

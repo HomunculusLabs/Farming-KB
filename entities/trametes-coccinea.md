@@ -22,18 +22,11 @@ created: 2026-04-28
 
 **Trametes coccinea** is a tropical and subtropical polypore fungus in the family Polyporaceae. It is a white-rot decomposer commonly found on dead hardwood, recognized by its bright orange to reddish, concentrically zoned pileus and relatively thin, flexible basidiocarps.
 
-The species is closely related to the well-known [[trametes-versicolor-entity]]** — [[comparison-chaga-vs-turkey-tail-medicinal-mushrooms-comprehensive]], the most widely known Trametes species
-- **[[trametes-ochracea]]** — Ochre polypore of temperate hardwood forests
+The species is closely related to the well-known [[comparison-chaga-vs-turkey-tail-medicinal-mushrooms-comprehensive]], the most widely known Trametes species
+- **[[quercus-coccinea]]
 
-## See Also
-
-- [[quercus-coccinea]]
-
-- [[white-rot-fungi]]
 - [[singh-fungal-composting-bioremediation-contaminated-soils]]
-- [[trametes-versicolor-entity]]
 - [[wood-decay-fungi]]
-- [[tropical-vs-temperate-distribution-neurotropic-fungi]]
 - [[mycelium]]
 - [[grifron-d-maitake-beta-glucan]]
 ## Practical Applications

@@ -13,21 +13,11 @@ updated: 2026-04-28
 sources:
   - "Kaul, R.B. (1986). \"Floral and cannabis-leaf-morphology-and-phyllotaxy phenology of Silphium laciniatum.\" American Midland Naturalist, 115(1), 81-90."
   - "Morrow, P.A. & Powles, S.B. (1988). \"Comparative biology of the prairie Silphium species.\" Prairie Naturalist, 20, 75-92."
-  - "Foster, S. & Duke, J.A. (1990). A [[field-guide-psilocybin-bluing-reaction-identification]] to Medicinal Plants. Houghton Mifflin."
-  - "Kindscher, K. (1987). Edible Wild Plants of the Prairie. University Press of Kansas."
----
-
-# Silphium lacinatum (Compass Plant)
-
-## Overview
-
-*Silphium lacinatum*, the compass plant, is a tall perennial herb in the
-Asteraceae native to the tallgrass prairies of central [[psilocybin-north-america-pacific-northwest]].
+  - "Foster, S. & Duke, J.A. (1990). A [[psilocybin-north-america-pacific-northwest]].
 Named for its distinctive north-south oriented basal leaves that track
 the sun, it is a deep-rooted, long-lived species reaching heights of
-2–3.5 meters. The compass plant is valued in [[comparison-prairie-restoration-vs-silvopasture]],
-[[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]], and ethnobotanical traditions for its resinous
-medicinal gum, [[hemenway-backyard-wildlife-habitat]], and exceptional [[dighton-fungal-drought-tolerance-plant-water-relations]].
+2–3.5 meters. The compass plant is valued in [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]], and ethnobotanical traditions for its resinous
+medicinal gum, [[dighton-fungal-drought-tolerance-plant-water-relations]].
 
 ## Taxonomy
 
@@ -40,34 +30,7 @@ medicinal gum, [[hemenway-backyard-wildlife-habitat]], and exceptional [[dighton
 - **Species:** *S. lacinatum* L. (1753)
 
 **Synonyms:** *Silphium laciniatum* (alternative orthography, less common),
-*[[silphium-perfoliatum]]* var. *laciniatum*
-
-**Etymology:** "Silphium" references the ancient Libyan resin-bearing plant
-*S. cyrenaicum* (now extinct). "Lacinatum" is Latin for "slashed" or
-"laciniate," referring to the deeply cut leaf margins.
-
-## Morphology
-
-**Stem:** Tall, stout, glabrous or sparsely hairy, 1.5–3.5 m tall.
-Exudes a bitter, resinous sap when cut. Often unbranched below the
-inflorescence.
-
-**Leaves:** Basal rosette leaves are large (30–60 cm long), deeply
-pinnately lobed with narrow, irregular segments, oriented vertically
-in a north-south plane (heliotropic tracking reduces water loss).
-Upper stem leaves are smaller, alternate, and less dissected.
-
-**Inflorescence:** Composite flower heads 5–8 cm diameter, with
-20–30 yellow ray florets surrounding a central disk of yellow disk
-florets. Blooming July–September.
-
-**Roots:** Extensive taproot system reaching 3–4.5 meters deep,
-conferring exceptional drought resistance and soil-stabilizing
-properties.
-
-## Distribution and Habitat
-
-Native to the central [[dmt-containing-plants-united-states-halpern]], from Ohio and Ontario west to
+*[[dmt-containing-plants-united-states-halpern]], from Ohio and Ontario west to
 the Great Plains (North Dakota to Texas), and south to Alabama.
 
 Occurs in tallgrass prairies, savannas, glades, and open woodland
@@ -88,3 +51,85 @@ and as a general tonic.
 
 **Bioactive constituents:** Resin containing sesquiterpene lactones,
 diterpenes, and flavonoids. Specific pharmacological studies on
+
+## Overview
+
+Silphium Laciniatum represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish silphium laciniatum
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving silphium extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Silphium Laciniatum finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for silphium laciniatum. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+silphium laciniatum and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Silphium Laciniatum has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of silphium laciniatum into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[hericium-laciniatum]]
+- [[silphium-perfoliatum]]

@@ -35,7 +35,6 @@ Test strips should include treatments ranging from soil loosening to fertiliser,
 
 ### Universal Pre-Treatments
 
-- Always add [[humus]] or manures to non-peaty soils
 - Always add [[dolomite]] to acid sands
 - In alkaline and heavy clay soils, trace elements may become insoluble — best added as foliar sprays to mulch or green crop, or to trees
 
@@ -45,35 +44,7 @@ In any local area, the composition, shape, size, and distribution of plants give
 
 ### 1. Soil Depth
 
-Shallow soils dry out quickly and hold few nutrients. An excellent indicator is to observe one tree species (e.g., [[acacia]], Prosopis, honey locust) over a range of sites. A height and spread estimate will reveal areas of deeper soils where the largest specimens grow. The same species will be dwarfish on shallow soils of the same derivation or rock type.
-
-### 2. Water Reserves
-
-Deep-rooted trees needing water — large nut trees and candlenuts (Aleurites) are good examples — occur naturally only in well-drained but water-conserving sites. They often show water-lines not associated with valleys and stand over springs or aquifer discharge areas. In sands, a great variety of deep-rooted shrubs and trees indicate where a clay base lies at 1-2 m down — common on desert borders and hills in drylands.
-
-**Rule of thumb**: Large tree stems reveal well-watered sites, small stems indicate drier sites. Armed with these observations, sites can be created by water diversion and selected for appropriate tree or shrub planting.
-
-### 3. pH Indicators
-
-**Acid conditions**: Sorrel and oxalis in pastures may indicate compact or acid conditions.
-
-**Alkaline conditions**: Several fen and limestone species establish in alkaline areas. Large snails and dense snail populations occur only over alkaline soils or in alkaline water. No snails or minute species occur in acid water (pH < 5.0).
-
-**Alkaline intolerant crops** (pH 4.5-6):
-- Blueberry, chicory, chestnut, endive, potato, fennel
-- Tea, shallot, coffee, watermelon, rhubarb
-
-**Alkali tolerant crops**:
-- Oats, kale
-
-**Acid intolerant crops** (pH 7.0-8.5):
-- Cauliflower, cabbage, asparagus, green peas, bush beans
-- Celery, leek, beet, onion, chard, parsnip, spinach
-
-**Acid tolerant crops**:
-- Lupin, oats, white clover, rye, lucerne, broccoli
-
-Providing garden soils are mulched with some lime added to [[compost]], all plants thrive in high humus soils at modest lime levels. Perennial species may need more care in site selection. Almost all pollutants and many fertilisers tend to make soils acid, as does continued cropping or over-grazing.
+Shallow soils dry out quickly and hold few nutrients. An excellent indicator is to observe one tree species (e.g., [[compost]], all plants thrive in high humus soils at modest lime levels. Perennial species may need more care in site selection. Almost all pollutants and many fertilisers tend to make soils acid, as does continued cropping or over-grazing.
 
 ### 4. Fire Frequency
 
@@ -132,3 +103,11 @@ The site of a sea-bird rookery, rabbit warren, goose or eider ground nest, owl p
 - Guide for establishing tree clumps following natural indicators
 
 A large proportion of wind-blown, nitrogen-loving, and inedible plants, or plants carried by birds as seed, depend on specific animal habits, dung, or soil disturbances. The role of animals in plant seed distribution and root associations is well-recognised; their role in soil change is less commonly noted.
+
+## See Also
+
+- [[termites-ants-tropical-soil-ecology]]
+- [[clay-soil-management-solomon]]
+- [[teaming-with-microbes-mulch-and-soil-food-web]]
+- [[hamilton-geoffhamilton-nick-organic-gardening-soil-types-and-management]]
+- [[hamilton-alternative-soil-conditioners]]

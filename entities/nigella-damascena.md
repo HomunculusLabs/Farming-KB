@@ -23,9 +23,7 @@ Nigella damascena is an annual herbaceous plant in the family Ranunculaceae, com
 
 The species is widely cultivated as an ornamental garden plant, valued for its delicate, feathery bracts that surround the flowers and form an airy "mist" effect. Flowers range from white through pale blue to deep blue and violet.
 
-Unlike its relative [[nigella-sativa]] (black cumin), Nigella damascena has limited culinary use but produces edible seeds with a mild, nutty flavor. The inflated seed capsules are popular in dried flower arrangements.
-
-The species has been in cultivation in European gardens since at least the 16th century. It was a favorite in Victorian cottage gardens and remains popular in [[hamilton-wildflower-meadow]] plantings today.
+Unlike its relative [[hamilton-wildflower-meadow]] plantings today.
 
 Butterflies and bees are attracted to the nectar-rich flowers, making the species a valuable component of pollinator-friendly plantings. Self-seeding is common, allowing naturalized colonies to persist for years.
 
@@ -51,40 +49,94 @@ The genus Nigella contains approximately 20 species distributed across the Medit
 
 The common name "love-in-a-mist" describes the characteristic bract cloud surrounding each flower. An alternative common name, "devil-in-a-bush," refers to the spiky appearance of the mature seed capsules.
 
-Nigella damascena is closely related to Nigella hispanica and [[nigella-orientalis]], both of which share the inflated capsule morphology. Hybridization between cultivated species is uncommon under garden conditions.
-
-## Morphology
-
-Plants grow 30 to 60 centimeters tall with finely divided, thread-like leaves 2 to 5 centimeters long. The foliage is grayish-green and forms a delicate, ferny canopy beneath the flowers.
-
-The plant has an upright branching habit with multiple flowering stems arising from a single taproot. Basal leaves form a rosette close to the ground, while stem leaves become progressively smaller toward the inflorescence.
-
-Each flower measures 2 to 4 centimeters in diameter with 5 to 7 sepals that resemble petals. The sepals are typically blue, though white, pink, and purple cultivars have been developed.
-
-The true petals are reduced to small nectar-producing glands at the base of the stamens. These glands attract pollinators while the showy sepals serve as visual advertisements.
-
-The distinctive feature of the species is the whorl of deeply lobed bracts that surrounds each flower, creating the "mist" effect. These bracts are 2 to 4 centimeters long and persist through the fruiting stage.
-
-The fruit is an inflated capsule composed of 5 to 7 fused carpels, forming a balloon-like structure approximately 2 centimeters long. Each capsule contains numerous small, black seeds.
-
-Seeds are trigonal, approximately 2 to 3 millimeters long, with a rough surface texture. They ripen within the inflated capsule, which turns from green to tan as the seeds mature.
-
-A single plant can produce several hundred seeds, contributing to prolific self-seeding in garden settings. Seeds remain viable for 2 to 3 years under cool, dry [[spawn-storage-conditions]].
+Nigella damascena is closely related to Nigella hispanica and [[spawn-storage-conditions]].
 
 ## Distribution and Habitat
 
-Nigella damascena is native to the Mediterranean region, including southern Europe, North Africa, and the Levant. Naturalized populations occur across temperate Europe, [[guzman-psilocybin-mushrooms-north-america]], and parts of Australia.
-
-In North America, the species is widely naturalized in the northeastern United States and parts of eastern Canada. It occasionally escapes cultivation but is not considered ecologically invasive due to its annual life cycle.
-
-The species typically grows in disturbed, open habitats including fields, roadsides, rocky slopes, and waste ground. It prefers well-drained, sandy or gravelly soils in full sun.
-
-In its native range, the plant occurs at elevations from sea level to approximately 1,500 meters. It is adapted to Mediterranean climate patterns with wet winters and dry summers.
-
-Flowering typically occurs from late spring through midsummer, with individual flowers lasting 7 to 14 days. The total bloom period for a single plant extends over 4 to 6 weeks.
-
-## Cultivation
-
-Love-in-a-mist is one of the easiest [[hamilton-annual-flowers-organic]] to grow from direct sowing. Seeds are sown in situ in early spring for summer bloom or in autumn for overwintering in mild climates.
+Nigella damascena is native to the Mediterranean region, including southern Europe, North Africa, and the Levant. Naturalized populations occur across temperate Europe, [[hamilton-annual-flowers-organic]] to grow from direct sowing. Seeds are sown in situ in early spring for summer bloom or in autumn for overwintering in mild climates.
 
 Germination typically occurs within 14 to 21 days at soil temperatures of 15 to 20 degrees Celsius. The species does not transplant well due to its sensitive taproot system.
+
+## Overview
+
+Nigella Damascena represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish nigella damascena
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving nigella extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Nigella Damascena finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for nigella damascena. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+nigella damascena and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Nigella Damascena has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of nigella damascena into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[nigella-arvensis]]
+- [[nigella-orientalis]]
+- [[nigella-sativa]]
+- [[rosa-damascena]]

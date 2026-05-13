@@ -12,14 +12,8 @@ created: 2026-04-28
 
 # Mycorrhiza Collapse and Cascade Ecosystem Failure
 
-Fukuoka's three-year investigation into [[fukuoka-pine-rot-root-cause]], conducted in a
-makeshift orchard laboratory, revealed a chain of [[fukuoka-pine-forest-ecosystem-collapse-cascade-matsutake]]
-beginning with the destruction of [[arbuscular-mycorrhizal-fungi-biology-symbiosis]]. He identifies
-this as an early warning sign of widespread desertification affecting
-not only Japan but also California.
-
-His findings connect soil microbe disruption to the death of entire
-[[dighton-fungi-acidifying-pollutants-forest-ecosystems]] and predict a cascading failure that could spread
+Fukuoka's three-year investigation into [[fukuoka-pine-forest-ecosystem-collapse-cascade-matsutake]]
+beginning with the destruction of [[dighton-fungi-acidifying-pollutants-forest-ecosystems]] and predict a cascading failure that could spread
 progressively to all plant life in Japan.
 
 ## The Orchard Hut Investigation
@@ -35,24 +29,9 @@ microscope, isolating pathogens and preparing pure cultures near
 the hearth. He presented his findings at Tsukuba University, with
 a detailed account appearing in the June 1981 issue of Atarashiki
 Sekai e. Youngsters at the farm complained they had come to learn
-[[comparison-natural-farming-vs-permaculture]], not to help cut down pines and dig up roots.
-
-## The Black Bristle Mold
-
-Fukuoka's research revealed that pine [[cannabis-root-decay-cellvibrio-biomarker-post-harvest]] precedes visible
+[[cannabis-root-decay-cellvibrio-biomarker-post-harvest]] precedes visible
 symptoms of pine rot by two to three years. The conventional view
-attributed pine rot to [[fukuoka-pine-weevil-blight-non-causality]] infestation, later updated to
-blame pine wood nematodes.
-
-But Fukuoka found the real damage begins underground, far earlier
-than either explanation accounts for. Pine roots are infested with
-a putrefactive mold he tentatively named "kurosen-kin" (black
-bristle mold), which he had not yet formally identified.
-
-## The Destruction Sequence
-
-The black bristle mold operates in a devastating sequence: it first
-destroys matsutake [[arbuscular-mycorrhizal-fungi]] normally symbiotic with the red
+attributed pine rot to [[arbuscular-mycorrhizal-fungi]] normally symbiotic with the red
 pine; the tree rootlets turn black and decay; a black mold then
 enters and damages the larger roots; and the pine is greatly weakened,
 reducing resin excretion.
@@ -118,8 +97,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[mycorrhiza]]
 - [[det]]
-- [[permaculture]]
 - [[desertification]]
 - [[fukuoka-pine-forest-ecosystem-collapse-cascade-matsutake]]

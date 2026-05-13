@@ -9,13 +9,7 @@ sources:
 ---
 # Hamilton: Container and Greenhouse Growing
 
-**Source:** Geoff Hamilton, *[[hamilton-geoffhamilton-nick-organic-gardening-companion-planting]]* (Nick Hamilton edition)
-
-**Updated:** 2026-04-21
-
-Growing plants in containers is essential for the organic gardener who cannot guarantee that commercially raised plants have been cultivated without chemical sprays or synthetic fertilizers. Containers also extend the range of plants that can be grown—acid-loving plants on alkaline soils, tender plants in cold climates, and fruits and vegetables where ground space is limited.
-
-[[hamilton-ornamental-trees]] techniques.
+**Source:** Geoff Hamilton, *[[hamilton-ornamental-trees]] techniques.
 
 ### Peat-Free Blocks
 
@@ -23,13 +17,11 @@ Compressed coir discs that reconstitute in water to fill propagation pots. Stand
 
 ## Growing in the Greenhouse
 
-A greenhouse allows vegetables to be sown in midwinter and planted out under cloches in early spring, providing the first crops by late spring. It is easier to control the environment for optimal [[cannabis-seed-germination-methods]].
-
-The [[cold-frame-construction]] is one of the most useful structures in the organic garden. It bridges the gap between the warm greenhouse and the exposed garden, allowing plants to adjust gradually to lower temperatures and greater air movement.
+A greenhouse allows vegetables to be sown in midwinter and planted out under cloches in early spring, providing the first crops by late spring. It is easier to control the environment for optimal [[cold-frame-construction]] is one of the most useful structures in the organic garden. It bridges the gap between the warm greenhouse and the exposed garden, allowing plants to adjust gradually to lower temperatures and greater air movement.
 
 ### Citrus in the Greenhouse
 
-In temperate climates, grow citrus in tubs with a minimum diameter of 18in (45cm). Use soil-based [[hamilton-potting-compost-recipes-and-growing-media]]. Maintain minimum temperature of 45F (7C). Water well during the [[savory-growing-season-and-non-growing-season-management]]; allow plants to dry between waterings in winter. Spray foliage with water every morning in summer (stop during flowering). Feed weekly with liquid kelp fertilizer. Prune only to remove dead, diseased, or crossing wood and fruited shoots after harvesting.
+In temperate climates, grow citrus in tubs with a minimum diameter of 18in (45cm). Use soil-based [[savory-growing-season-and-non-growing-season-management]]; allow plants to dry between waterings in winter. Spray foliage with water every morning in summer (stop during flowering). Feed weekly with liquid kelp fertilizer. Prune only to remove dead, diseased, or crossing wood and fruited shoots after harvesting.
 
 ### Peaches and Nectarines Under Glass
 
@@ -37,19 +29,7 @@ Grown against a wall or post-and-wire support in the same way as outdoor fan-tra
 
 ### Tomatoes and Cucumbers
 
-Tomatoes and cucumbers are among the most popular greenhouse crops. [[hamilton-organic-fertilizers-and-plant-nutrition]] every one to two weeks during the growing season.
-
-- Raise heavy-soil beds at least 18in (45cm) when growing citrus or other drainage-sensitive plants in the ground.
-
-### Compost for Containers
-
-Use a blend of loam-based compost with added mollison-aquaculture-harvest-and-fish-nutrition per container provides a good start.
-
-## Protecting Plants
-
-### Cloches
-
-Place cloches in position two weeks before sowing to warm the soil for [[coleman-fall-bed-preparation-early-outdoor-planting]] sowings. Remove once seedlings are established and weather permits.
+Tomatoes and cucumbers are among the most popular greenhouse crops. [[coleman-fall-bed-preparation-early-outdoor-planting]] sowings. Remove once seedlings are established and weather permits.
 
 ### Cold Frames
 
@@ -57,17 +37,9 @@ Essential for hardening off greenhouse-grown plants. A wood, metal, or brick fra
 
 ### Shading
 
-Use old onion nets or greenhouse [[jeavons-shade-netting-mini-greenhouses]] for adjustable shading of cuttings and seedlings. Double shading on very sunny days, single on fair days, none on dull days. Too much sun causes wilting; too little prevents feeding through leaves.
-
-## Related
-
-- [[hamilton-ornamental-trees]]
-
-- [[hamilton-pruning-and-training-fruit-trees]]
+Use old onion nets or greenhouse [[hamilton-ornamental-trees]]
 
 - [[hamilton-climbing-plants-organic]]
-
-- [[cold-frame-construction]]
 
 - [[soil-building-permaculture]]
 ## Practical Considerations
@@ -118,8 +90,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[greenhouse-growing]]
 - [[geoff-hamilton]]
-- [[permaculture]]
 - [[hamilton-greenhouse-polytunnel-growing]]
 - [[hamilton-container-raised-bed-gardening]]

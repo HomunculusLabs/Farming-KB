@@ -15,31 +15,11 @@ type: comparison
 
 # Hardneck Garlic vs Softneck Garlic
 
-All garlic falls into two broad categories: **hardneck** (*[[solomon-growing-garlic-onions-leeks]]
-
-- [[organic-pest-and-disease-management]]
+All garlic falls into two broad categories: **hardneck** (*[[organic-pest-and-disease-management]]
 
 ## See Also
 
-- [[query-what-is-the-difference-between-hardneck-and-softneck-garlic]]
-## Practical Applications
-
-Hardneck Garlic vs Softneck Garlic has a range of practical applications that make it relevant to
-both researchers and practitioners. Understanding these applications
-requires familiarity with the underlying principles and their
-manifestation in real-world contexts. The breadth of applications
-reflects the fundamental importance of this topic across disciplines.
-
-Implementation varies based on scale, available resources, and
-specific objectives. Small-scale applications may be relatively
-straightforward, while larger implementations require more careful
-planning and coordination. Adaptation to local conditions is always
-essential for achieving optimal results regardless of scale.
-
-Documented case studies provide valuable reference points, though
-each situation presents unique combinations of opportunities and
-constraints that require context-specific solutions. The most
-successful implementations combine established [[arbuscular-mycorrhizal-inoculum-production-best-practices]] with
+- [[arbuscular-mycorrhizal-inoculum-production-best-practices]] with
 creative adaptation to local conditions and emerging challenges.
 
 ## Key Considerations

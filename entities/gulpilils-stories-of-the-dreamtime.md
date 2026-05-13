@@ -9,7 +9,7 @@ categories: [books, indigenous, culture, australia]
 
 ## Description
 
-*Gulpilil's Stories of the Dreamtime* is a 1979 book compiled by Hugh Rule and Stuart Goodman, published by William Collins in Sydney, Australia. It is cited in Bill Mollison's *Permaculture: A Designers' Manual* (1988) as the source of the Rainbow Serpent legend retold in the cover story section, which establishes the mythological and philosophical context for the entire work. The book presents Aboriginal Australian dreaming stories as told by David Gulpilil, the renowned Yolngu actor, dancer, and storyteller.
+*Gulpilil's Stories of the Dreamtime* is a 1979 book compiled by Hugh Rule and Stuart Goodman, published by William Collins in Sydney, Australia. It is cited in Bill Mollison's *Permaculture: A Designers' Manual* (1988) as the source of the [[rainbow-serpent]] legend retold in the cover story section, which establishes the mythological and philosophical context for the entire work. The book presents Aboriginal Australian dreaming stories as told by David Gulpilil, the renowned Yolngu actor, dancer, and storyteller.
 
 ## Classification
 
@@ -23,7 +23,7 @@ categories: [books, indigenous, culture, australia]
 
 ## Key Facts
 
-- Published in 1979, the same year as *Permaculture Two* and the founding of [[tagari-publications]] and the [[permaculture-institute]].
+- Published in 1979, the same year as *Permaculture Two* and the founding of [[permaculture-institute]].
 - Compiled by Hugh Rule and Stuart Goodman from stories told by David Gulpilil, a Yolngu man from Arnhem Land in the Northern Territory of Australia.
 - Published by William Collins (now HarperCollins Australia) in Sydney.
 - Contains the Rainbow Serpent legend that Mollison quotes extensively in the "Cover Story" section of the Designers' Manual (between the preface and Chapter 1).
@@ -71,7 +71,7 @@ The quotation from *Gulpilil's Stories of the Dreamtime* appears in the "Cover S
 
 While primarily a cultural rather than technical source, this work is relevant to cultivation through:
 - Embedding respect for indigenous ecological knowledge in sustainable agriculture practice
-- Providing mythological context for understanding landscape formation and water management
+- Providing mythological context for understanding landscape formation and [[water-management]]
 - Supporting the philosophical framework that guides ethical cultivation practices
 - Connecting cultivation to broader cultural narratives about human-nature relationships
 
@@ -82,6 +82,5 @@ While primarily a cultural rather than technical source, this work is relevant t
 
 ## See Also
 
-- [[rainbow-serpent]]
 - [[bill-mollison]]
 - [[permaculture]]

@@ -43,7 +43,7 @@ Maiden pink is sometimes called "grass pink" or "wild pink" in different Europea
 
 The genus Dianthus contains approximately 300 species distributed across Europe, Asia, and Africa. The name derives from the Greek *dios* (divine) and *anthos* (flower), reflecting the ancient association of these plants with the gods.
 
-Dianthus deltoides belongs to the section *Dianthus*, which includes many of the most commonly cultivated garden pinks. It is closely related to *[[dianthus-plumarius]]* (garden pink) and *[[dianthus-superbus]]* (fringed pink).
+Dianthus deltoides belongs to the section *Dianthus*, which includes many of the most commonly cultivated garden pinks. It is closely related to *[[dianthus-superbus]]* (fringed pink).
 
 The species was described by Linnaeus in 1753. The specific epithet *deltoides* refers to the triangular (delta-shaped) bracts beneath the calyx, which are a useful diagnostic character.
 
@@ -69,9 +69,7 @@ Dianthus deltoides is native across much of Europe, from Spain and the British I
 
 The species inhabits dry, sandy or gravelly soils in open, sunny sites. Typical habitats include calcareous grasslands, sand dunes, rock crevices, railway embankments, and disturbed ground with thin, nutrient-poor soil.
 
-It is classified as a chamaephyte, with overwintering buds close to the ground surface. The prostrate stems are partially woody at the base, providing resilience against trampling and [[gadd-mycelial-network-resilience-grazing-pressure]].
-
-In the British Isles, it is both native and widely naturalized, occurring in dry pastures, sandy heaths, and roadside banks. It has become naturalized in parts of [[polypore-fungi-eastern-north-america]], where it occasionally escapes from cultivation.
+It is classified as a chamaephyte, with overwintering buds close to the ground surface. The prostrate stems are partially woody at the base, providing resilience against trampling and [[polypore-fungi-eastern-north-america]], where it occasionally escapes from cultivation.
 
 The species shows clinal variation across its European range, with northern populations tending to be more compact and flower earlier than southern populations. This variation reflects adaptation to different growing season lengths and temperature regimes.
 
@@ -79,9 +77,7 @@ The species shows clinal variation across its European range, with northern popu
 
 Dianthus deltoides is one of the most adaptable and trouble-free Dianthus species for garden use. It thrives in full sun and well-drained, neutral to alkaline soil, tolerating poor, sandy, or gravelly conditions.
 
-The plant spreads rapidly to form mats 30–60 cm across within 2–3 [[jeavons-climate-adaptation-growing-seasons]]. It is an excellent choice for rock gardens, gravel gardens, border edges, and green roof plantings where its spreading habit is an asset.
-
-On green roofs, Dianthus deltoides has proven exceptionally tolerant of the thin substrate, high temperatures, and limited moisture typical of extensive green roof systems. It is now included in several commercial green roof seed mixes for [[fukuoka-natural-farming-temperate-climates]].
+The plant spreads rapidly to form mats 30–60 cm across within 2–3 [[fukuoka-natural-farming-temperate-climates]].
 
 Propagation is straightforward from seed, cuttings, or division. Seeds germinate in 1–2 weeks at 15–20 °C without pretreatment. Softwood cuttings root readily in mid-summer if kept in a humid propagator.
 

@@ -22,39 +22,7 @@ sources:
 
 # Tamarind Cultivation and Uses
 
-**Tamarindus indica** (Fabaceae: Caesalpinioideae) is a long-lived, slow-growing tropical fruit tree native to the dry savannas of sub-Saharan Africa, where it has been cultivated for millennia. Revered as the "tree of life" across South Asia, the Middle East, and Latin America, tamarind ranks among the world's most versatile multipurpose trees — providing fruit, timber, medicine, fodder, shade, and [[permplant-willows-salix-erosion-control-fodder]] from a single species.
-
-## Botanical Profile
-
-| Feature | Description |
-|---|---|
-| **Family** | Fabaceae (Caesalpinioideae) |
-| **Genus** | *Tamarindus* (monotypic) |
-| **Habit** | Evergreen to semi-deciduous tree, 12–25 m tall |
-| **Crown** | Dense, spreading, dome-shaped canopy |
-| **Leaves** | Pinnately compound, 10–18 cm, 10–20 pairs of leaflets |
-| **Flowers** | Pale yellow with red veins, in lax racemes, 2.5 cm |
-| **Fruit** | Leguminous pod, 5–15 cm, brown, brittle when ripe |
-| **Seeds** | 1–12 per pod, hard-coated, brown |
-| **Root system** | Deep taproot with extensive lateral roots |
-| **Lifespan** | 100–200+ years |
-| **Chromosome number** | 2n = 24 |
-
-Tamarind is the sole species in its genus, making it unique among the legumes. The species name *indica* reflects early Linnaean confusion about its origin — the tree was introduced to India so long ago that early botanists assumed it was native there. Molecular evidence now firmly places its center of origin in tropical East Africa, likely Madagascar or the eastern African mainland.
-
-## Climate Requirements
-
-### Temperature
-
-Tamarind thrives in tropical and subtropical climates with mean annual temperatures of 20–30 °C. It is remarkably heat-tolerant and can withstand sustained temperatures above 40 °C once established. Mature trees survive brief frosts to approximately -3 °C, but young trees are frost-sensitive and require protection below 2 °C. Growth virtually ceases below 15 °C.
-
-### Rainfall
-
-The natural range spans 300–2,000 mm annual rainfall, making tamarind exceptionally adaptable:
-
-- **Arid zones (300–600 mm):** Trees survive on deep groundwater but produce lighter crops. Supplemental irrigation during flowering and fruit set dramatically improves yield.
-- **Semi-arid zones (600–1,000 mm):** Ideal conditions. Good fruit production with minimal irrigation.
-- **Humid tropics (1,000–2,000 mm):** Vigorous [[cannabis-vegetative-growth-stage]] but fruit quality can decline in very high humidity. Fungal issues increase. Trees prefer a distinct dry season.
+**Tamarindus indica** (Fabaceae: Caesalpinioideae) is a long-lived, slow-growing tropical fruit tree native to the dry savannas of sub-Saharan Africa, where it has been cultivated for millennia. Revered as the "tree of life" across South Asia, the Middle East, and Latin America, tamarind ranks among the world's most versatile multipurpose trees — providing fruit, timber, medicine, fodder, shade, and [[cannabis-vegetative-growth-stage]] but fruit quality can decline in very high humidity. Fungal issues increase. Trees prefer a distinct dry season.
 
 A pronounced dry season of 3–5 months promotes flowering and fruit set. In continuously humid climates, trees grow well but often fail to flower reliably.
 
@@ -70,7 +38,7 @@ Tamarind is among the most soil-tolerant fruit trees:
 - **pH:** Tolerates highly acidic to highly alkaline soils (pH 4.5–9.0). Optimal range is 6.0–7.5.
 - **Salinity:** Moderate tolerance. Growth is reduced but trees survive in soils with EC up to 8 dS/m.
 - **Drainage:** Critical requirement. Waterlogging kills trees quickly — even brief standing water causes root rot and can kill mature specimens within weeks.
-- **Fertility:** Grows in impoverished soils but responds well to [[cervantes-organic-amendments-chart]]. [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]] has not been confirmed; tamarind does not nodulate with rhizobia like many legumes.
+- **Fertility:** Grows in impoverished soils but responds well to [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]] has not been confirmed; tamarind does not nodulate with rhizobia like many legumes.
 
 The deep taproot allows established trees to access groundwater and nutrients unavailable to shallow-rooted crops, making them excellent companions in agroforestry systems.
 
@@ -94,15 +62,7 @@ Seed-grown trees take 6–8 years to begin fruiting. Because tamarind is outcros
 The most widely used commercial method:
 
 - Use tamarind seedlings as rootstock (6–12 months old, pencil-thick).
-- Collect budwood from elite, high-yielding mother trees during the active [[savory-growing-season-and-non-growing-season-management]].
-- Perform shield (T-) budding on the rootstock stem, 15–20 cm above ground level.
-- Wrap with polyethylene tape. Bud union forms in 3–4 weeks.
-- Scion growth begins 2–3 weeks after the wrap is loosened.
-- Budded trees fruit in 3–5 years, significantly earlier than seedlings.
-
-#### Air Layering (Marcottage)
-
-Used in South and [[psilocybe-southeast-asia-pacific]]:
+- Collect budwood from elite, high-yielding mother trees during the active [[psilocybe-southeast-asia-pacific]]:
 
 - Select 1–2 year old branches, 1–2 cm diameter.
 - Girdle the branch and apply IBA (indole-3-butyric acid) at 2,000–4,000 ppm.
@@ -142,8 +102,6 @@ Despite being a legume, tamarind shows minimal nitrogen fixation and responds we
 | 4–7 | 100–200 | 60–100 | 60–100 |
 ## See Also
 
-- [[comparison-tamarind-vs-carob]] — comparison of tamarind and carob as leguminous pod-bearing trees
 - [[tropical-root-crops-cassava-taro-sweet-potato-and-yam]] — complementary understory crops for tamarind agroforestry
-- [[desert-and-arid-lands-permaculture]] — tamarind in dryland systems
 - [[windbreaks-hedgerows-and-shelterbelts]] — tamarind as a windbreak species
 - [[biochar-in-regenerative-agriculture]] — using tamarind pruning waste for biochar

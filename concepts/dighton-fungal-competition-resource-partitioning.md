@@ -18,8 +18,7 @@ type: concept
 
 Fungal species compete for available resources including food, space, and
 nutrients. The outcome of competitive interactions determines which species
-colonize decomposing organic matter, shape fungal [[core-endorhiza-bacterial-community-composition-cannabis]], and
-ultimately influence decomposition rates and [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] processes. Fungal
+colonize decomposing organic matter, shape fungal [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] processes. Fungal
 competition operates through both exploitation (resource capture) and
 interference (antagonistic chemical interactions) mechanisms.
 
@@ -28,10 +27,7 @@ interference (antagonistic chemical interactions) mechanisms.
 Cook and Rayner (1984) and Lockwood (1992) described exploitation competition
 among fungi as the ability to capture and utilize resources more efficiently
 than competitors. The colonization of resources by fungi is a function of
-[[fungal-decomposition-resource-quality-determinants]], rate of arrival of fungal propagules (spores or hyphal
-fragments), and competitive interactions among fungal species on the resource.
-
-Different fungi possess different [[fungal-enzymatic-capabilities]] that determine which
+[[fungal-enzymatic-capabilities]] that determine which
 resources they can exploit. Sinsabaugh and Liptak (1997) catalogued the
 various ectoenzymes produced by fungi and their biochemical effects on organic
 resources in plant litters. This enzymatic specialization creates natural
@@ -40,12 +36,7 @@ resource partitioning among species.
 ## Interference Competition
 
 In addition to direct competition for resources, fungi engage in interference
-competition through the production of antibiotic [[antifungal-secondary-metabolites-coprophilous-fungi]]
-(Wicklow, 1992). These chemical weapons can suppress or kill competing
-species, allowing the producing fungus to dominate a resource. In aquatic
-ecosystems, Bergbauer et al. (1992) found that decomposition rates were
-reduced in mixed-species fungal assemblages compared to single species,
-attributing this to the production of [[antimicrobial-compounds-mushroom-mycelium]] resulting in
+competition through the production of antibiotic [[antimicrobial-compounds-mushroom-mycelium]] resulting in
 nonnutritional competition between fungal species.
 
 ## Competition Between Saprotrophs and Mycorrhizae
@@ -58,27 +49,8 @@ available) and compete directly with plant roots and their mycorrhizae
 (Norton and Firestone, 1996).
 
 Ectomycorrhizal fungi also compete with saprotrophic fungi for resources.
-Yamanaka (1999) showed that while [[laccaria-bicolor]] and Hebeloma spp. could
-utilize ammonium, nitrate, urea, and protein as nitrogen sources, none of the
-mycorrhizal fungi could utilize nitrogen from ethylenediamine or putrescine,
-suggesting they could not compete with saprotrophic fungi for resources in
-decaying animal carcasses.
-
-## Competition Among Ectomycorrhizal Species
-
-Different ectomycorrhizal fungal species show marked variation in their
-ability to access nutrients, creating competitive hierarchies. Dighton et al.
-(1990) demonstrated using radiotracer phosphorus that uptake into the canopy
-of birch trees was significantly higher in root zones colonized mainly by
-Hebeloma mycorrhizae (134 ng P per g leaf) compared to Lactarius (55 ng) or
-Laccaria (52 ng).
-
-Bending and Read (1996) showed that while some ectomycorrhizal fungi such as
-[[suillus-bovinus]] had greater access to nitrogen from bovine serum albumin,
-others such as Lactarius controversus, [[paxillus-involutus]], and Piloderma
-crocerum accumulated no more nitrogen from this organic source than from a
-basal medium. Anderson et al. (2001) showed that some variation in the ability
-of [[pisolithus-tinctorius]] isolates to utilize organic nitrogen was due to the
+Yamanaka (1999) showed that while [[suillus-bovinus]] had greater access to nitrogen from bovine serum albumin,
+others such as Lactarius controversus, [[pisolithus-tinctorius]] isolates to utilize organic nitrogen was due to the
 length of maintenance on agar culture, with longer storage times enhancing
 organic nitrogen utilization.
 
@@ -118,8 +90,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[fungal-hyphae]]
 - [[dom]]
-- [[det]]
 - [[mycena-galopus]]
 - [[spore]]

@@ -11,8 +11,7 @@ type: concept
 
 # Increasing Potency of Intact Marijuana Flowers
 
-Chapter 5 of *[[lemon-cannabis-alchemy-advanced-refinement-techniques]]* by [[lemon-cannabis-alchemy-thc-extraction-purification]]
-- [[lemon-cannabis-alchemy-thc-acetate]]
+Chapter 5 of *[[lemon-cannabis-alchemy-thc-extraction-purification]]
 - [[lemon-cannabis-alchemy-hashing-and-extraction]]
 ## Background and Context
 

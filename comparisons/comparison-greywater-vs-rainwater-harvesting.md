@@ -20,38 +20,14 @@ Together, they form the two pillars of on-site water management in permaculture 
 homesteading.
 
 ## Greywater Systems
-[[graywater-systems]]
-Greywater systems capture, treat, and reuse wastewater from household non-toilet sources (sinks,
-showers, bathtubs, washing machines) for landscape irrigation and soil fertility. Three main
-types exist: branched drain systems (simplest, gravity-fed pipes splitting to multiple mulch
-basins), laundry-to-landscape systems (washing machine pump distributing directly to yard mulch
-basins), and [[comparison-constructed-wetlands-vs-bioswales]] (gravel beds planted with reeds and rushes for advanced
+[[comparison-constructed-wetlands-vs-bioswales]] (gravel beds planted with reeds and rushes for advanced
 biological treatment). All systems require biodegradable soaps, lint filters, grease traps for
 kitchen water, and subsurface distribution into mulched basins 30-60 cm deep.
 
 Greywater's unique advantage is that it carries nutrients — nitrogen, phosphorus, potassium, and
-[[hamilton-composting-and-organic-matter-management]] from soaps and body waste — directly to the landscape, fertilizing plants while
-irrigating them. A typical household produces 100-200 liters of greywater per person per day, a
-significant irrigation resource. Simple branched drain and laundry-to-landscape systems have no
-pumps, timers, or mechanical parts — they work entirely by gravity and require virtually no
-maintenance. These systems can be implemented incrementally, starting with a single
-laundry-to-landscape line and expanding as confidence and need grow. Greywater closes a major
-nutrient loop that conventional systems break by mixing household wastewater with sewage.
+[[growing-root-vegetables-guide]] and [[comparison-rainwater-vs-greywater]]
 
-The limitations are significant: all household members must commit to using biodegradable,
-low-sodium, phosphate-free products (a single conventional shampoo bottle can harm soil
-biology). Improperly designed systems can create odor, pooling, or pathogen exposure. Kitchen
-greywater is challenging due to grease and food particles. Freezing climates require seasonal
-shutdown or buried systems below frost line. [[growing-root-vegetables-guide]] and [[solomon-leafy-greens-growing]] should not be
-irrigated with greywater due to pathogen concerns. Legal restrictions vary widely by
-jurisdiction, with some areas requiring permits or prohibiting greywater reuse entirely.
-
-## Rainwater Harvesting
-[[comparison-rainwater-vs-greywater]]
-
-- [[swale-design]]
 - [[composting-toilets]]
-- [[graywater-systems]]
 - [[rainwater-harvesting-systems]]
 ## Practical Considerations
 

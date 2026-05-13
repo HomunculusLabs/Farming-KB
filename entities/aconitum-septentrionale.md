@@ -109,13 +109,8 @@ The species hybridizes naturally with *A. lycoctonum* where their ranges overlap
 
 ## See Also
 
-- [[aconitum-napellus]]
 - [[aconitum-lycoctonum]]
-- [[aconitum-variegatum]]
 - [[delphinium-elatum]]
-- [[helleborus-niger]]
 - [[pulsatilla-vulgaris]]
-- [[caltha-palustris]]
 - [[ranunculus-acris]]
-- [[clematis-vitalba]]
 - [[thalictrum-delavayi]]

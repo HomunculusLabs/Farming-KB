@@ -1,96 +1,96 @@
 # Solomon's Watering Strategies and Dry Farming Techniques
 
-> Core principles from [[steve-solomon]]'s *Gardening When It Counts* for maximizing
-> food production with minimal irrigation.
-
----
-
-## Shallow vs. Deep Watering
-
-**Shallow watering** wets only the top few inches of soil, encouraging roots to stay near the surface where moisture evaporates quickly. This creates a fragile cycle: frequent irrigation keeps roots shallow, and any missed watering causes rapid stress.
-
-**Deep watering** saturates the soil to 12–18 inches or more. Roots follow the moisture downward, developing extensive networks that access water held deep in the profile. Deep-rooted plants are far more resilient during dry spells and require irrigation far less often.
-
-Solomon's core thesis: **infrequent deep watering produces hardier, more self-sufficient plants than frequent shallow watering**. The difference reflects fundamentally different assumptions about what a garden should be: an independent food-producing system versus a pampered setup requiring constant attention.
-
-## When to Water
-
-Rather than following a rigid schedule, Solomon advocates observing the soil and plants directly:
-
-- **Soil examination:** Dig 4–6 inches with a trowel. If soil at root depth is still moist, do not water. Surface dryness is normal and even desirable as a protective layer. Crumbly, dark soil at depth indicates adequate moisture; powdery or pale soil means it's time to irrigate.
-- **Wilting indicators:** Temporary midday wilting is often normal — many plants fold their leaves to reduce transpiration during peak heat. The real signal is **wilting that persists into the evening** when temperatures drop. That indicates genuine moisture stress requiring action.
-- **[[cannabis-growth-stage-checklist]] sensitivity:** Plants are most vulnerable during germination, [[solomon-fertigation-and-transplant-establishment]], flowering, and fruit/seed development. Prioritize these critical windows over routine watering during less demanding vegetative phases.
-
-## Solomon's Infrequent Deep Watering Approach
-
-1. **Water deeply and thoroughly** — saturate the full root zone, don't just dampen the surface.
-2. **Water infrequently** — intervals of 5 to 14 days depending on soil type, climate, and crop.
-3. **Force roots downward** by allowing upper soil layers to dry between waterings.
-4. **Reduce irrigation as plants mature.** Established plants need far less than seedlings.
-5. **Use a watering wand or soaker hose** to deliver water slowly, allowing deep penetration without runoff.
-
-The key shift is from "keeping plants constantly moist" to "training plants to access deep soil moisture." Sandy soils may need deep watering every 3–5 days, while clay loams can go 10–14 days between soakings.
-
-## Mulching
-
-A thick organic mulch layer (3–6 inches) is central to water conservation:
-
-- **Reduces surface evaporation** dramatically, keeping subsoil cool and moist for days longer than bare soil.
-- **Suppresses weed competition** that steals water and nutrients from crop plants.
-- **Moderates soil temperature,** reducing thermal stress that accelerates moisture loss.
-- **Feeds soil biology** as it breaks down, improving structure and water-holding capacity.
-
-Solomon prefers coarse, carbon-rich mulches — straw, spoiled hay, dried leaves, or woody material —
-over nitrogen-rich green matter that decomposes too quickly. Grass clippings are acceptable in thin layers but can mat and repel water if applied too thickly.
-
-A practical tip: apply mulch thickly right after a deep watering or a good rain to lock moisture in place. Applying mulch to bone-dry soil can create a barrier that prevents light rains from reaching roots. Keep mulch pulled back slightly from the base of seedlings to prevent slug damage and stem rot.
-
-## Dry Farming
-
-Dry farming means growing crops **without any irrigation after establishment**, relying entirely on stored soil moisture and rainfall. It is the ultimate expression of Solomon's water-independent philosophy and the most practical approach for gardeners without reliable irrigation infrastructure.
-
-### Drought-Adapted Varieties
-Choose varieties bred for [[dighton-fungal-drought-tolerance-plant-water-relations]]: Early Girl and Roma tomatoes, tepary beans and garbanzos, flour corns and dent corns for dryland conditions, Hubbard and butternut squash, and grains like amaranth and quinoa. Seed saved from dry-farmed plants improves adaptation over successive generations — a strong argument for saving your own seed.
+> Core principles from [[cannabis-growth-stage-checklist]] sensitivity:** Plants are most vulnerable during germination, [[dighton-fungal-drought-tolerance-plant-water-relations]]: Early Girl and Roma tomatoes, tepary beans and garbanzos, flour corns and dent corns for dryland conditions, Hubbard and butternut squash, and grains like amaranth and quinoa. Seed saved from dry-farmed plants improves adaptation over successive generations — a strong argument for saving your own seed.
 
 ### Wider Spacing
-Space plants **50–100% further apart** than standard irrigated-garden recommendations. Fewer plants per bed means each accesses a larger soil moisture reserve, and [[stamets-growing-room-air-circulation-co2-management]] improves, reducing disease pressure. The trade-off is fewer plants, but each is far more likely to produce a crop without irrigation.
-
-### No Irrigation After Establishment
-1. Start transplants with normal irrigation or time seeding to catch spring rains.
-2. Water until root systems are well established — typically 2–4 weeks.
-3. **Cease all irrigation.** Plants develop deep roots to survive.
-4. Accept smaller yields per plant in exchange for zero irrigation input.
-
-### Moisture-Retentive Soil Preparation
-- **Deep cultivation** before planting breaks up hardpan and lets roots access subsoil moisture.
-- **Incorporate [[fukuoka-textdoc-composting-critique-futility-prepared-organic-matter]]** into the root zone to increase water-holding capacity.
-- **Minimize tillage** during [[query-how-to-protect-plants-from-frost-and-extend-the-growing-season]] to avoid exposing moisture to evaporation.
-
-## Organic Matter and Water-Holding Capacity
-
-Each 1% increase in humus and [[knf-leaf-mold-humus]] allows the soil to hold roughly 20,000 additional gallons of water per acre. Solomon emphasizes:
+Space plants **50–100% further apart** than standard irrigated-garden recommendations. Fewer plants per bed means each accesses a larger soil moisture reserve, and [[fukuoka-textdoc-composting-critique-futility-prepared-organic-matter]]** into the root zone to increase water-holding capacity.
+- **Minimize tillage** during [[knf-leaf-mold-humus]] allows the soil to hold roughly 20,000 additional gallons of water per acre. Solomon emphasizes:
 
 - **Compost and aged manure** as primary organic matter sources.
-- **[[comparison-crop-rotation-vs-cover-cropping]]** with deep-rooted species (daikon radish, clover, winter rye) to build structure.
-- **Avoiding excessive nitrogen** from fresh manure, which pushes lush, watery growth susceptible to drought stress.
+- **[[solomon-fertigation-bucket-drip-water-nutrient-delivery-system]]
+- [[solomon-fertigation-bucket-drip-water-nutrient-delivery]]
 
-Sandy soils benefit most dramatically, gaining both retention and nutrient capacity. Clay soils gain improved infiltration and root penetration. Solomon notes that building organic matter is not a one-time task but an ongoing commitment — each season's mulch and compost additions compound over years to create soil that holds moisture through extended dry periods without irrigation.
+## Overview
 
-## Raised Bed Irrigation: Drip vs. Overhead
+Solomon Watering Strategies And Dry Farming Techniques represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
 
-| Method | Advantages | Drawbacks |
-|--------|-----------|-----------|
-| **Drip** | Delivers water to root zone; minimal evaporation; reduces disease | Higher setup cost; maintenance; narrow wetted zones |
-| **Overhead** | Simple; wets entire bed; good for germination | Evaporation waste; foliar disease risk; shallow roots if light |
+## Key Characteristics
 
-Solomon prefers drip for established plants but notes overhead is fine for germination if applied deeply enough to penetrate the full bed depth.
+Several defining characteristics distinguish solomon watering strategies and dry farming techniques
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
 
-## Water Needs by Growth Stage
+## Ecological Context
 
-- **Germination:** Consistent light moisture — never let the seedbed dry out.
+The ecological relationships involving solomon extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Solomon Watering Strategies And Dry Farming Techniques finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for solomon watering strategies and dry farming techniques. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+solomon watering strategies and dry farming techniques and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Solomon Watering Strategies And Dry Farming Techniques has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of solomon watering strategies and dry farming techniques into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
 
 ## See Also
 
-- [[solomon-fertigation-bucket-drip-water-nutrient-delivery-system]]
-- [[solomon-fine-seedbed-soil-tilth-clod-management-raking]]
-- [[solomon-fertigation-bucket-drip-water-nutrient-delivery]]
+- [[clay-soil-management-solomon]]
+- [[coleman-deep-organic-shallow-organic-farming-comparison]]
+- [[dry-gardening-unirrigated-vegetable-production-solomon]]
+- [[jadam-weed-control-strategies-natural]]
+- [[natural-farming-poster-korean-techniques-summary]]

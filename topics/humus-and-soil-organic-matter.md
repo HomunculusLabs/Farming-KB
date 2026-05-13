@@ -45,17 +45,7 @@ The relationship between fresh organic matter, actively decomposing material, an
 
 Soil organic matter, or SOM, is the broader category that encompasses all of the carbon-based materials found in soil. This includes fresh plant residues on the surface, partially decomposed material in various stages of breakdown, living microbial biomass, root exudates, and the highly stable humic substances that persist in soil for hundreds or thousands of years.
 
-Organic matter typically constitutes only a small percentage of total soil volume, often between one and six percent in agricultural soils, yet its influence on soil properties is vastly disproportionate to its abundance. A soil with four percent organic matter functions in fundamentally different ways than a soil with one percent, exhibiting better water retention, improved [[ph-and-nutrient-availability-garden-soils]], enhanced biological activity, greater resistance to compaction, and markedly different physical structure.
-
-The study of humus and soil organic matter sits at the intersection of chemistry, biology, physics, and agronomy. It requires understanding how organic molecules are broken down by microbial enzymes, how decomposition products interact with mineral surfaces, how roots and microorganisms shape the soil environment, and how management practices either build or deplete this critical resource.
-
-This article synthesizes knowledge from soil biology, organic farming traditions, and modern soil science to present a comprehensive picture of what humus is, how it forms, why it matters, and how agricultural practices can be oriented toward building and preserving it.
-
-## The Chemistry of Soil Organic Matter
-
-Soil organic matter is traditionally divided into several fractions based on how quickly they turn over or decompose. The most labile fraction consists of fresh plant residues, simple sugars, amino acids, and other readily available compounds that microbial communities can metabolize within days to weeks.
-
-This labile fraction is the food source that drives the soil food web, fueling [[query-what-is-the-difference-between-bacterial-and-fungal-dominant-soil]] growth, supporting protozoan and nematode populations, and ultimately making nutrients available to plants through the process of mineralization.
+Organic matter typically constitutes only a small percentage of total soil volume, often between one and six percent in agricultural soils, yet its influence on soil properties is vastly disproportionate to its abundance. A soil with four percent organic matter functions in fundamentally different ways than a soil with one percent, exhibiting better water retention, improved [[query-what-is-the-difference-between-bacterial-and-fungal-dominant-soil]] growth, supporting protozoan and nematode populations, and ultimately making nutrients available to plants through the process of mineralization.
 
 The intermediate fraction includes materials that have undergone partial decomposition but retain identifiable cellular structures. These materials decompose over months to years and include materials like cellulose, hemicellulose, and lignin fragments that require specialized enzymes to break down.
 
@@ -67,29 +57,7 @@ Humic acids are dark brown to black materials that are soluble in alkaline solut
 
 Dr. Elaine Ingham has emphasized an important distinction between humus and humic acids that is often misunderstood in commercial products. Humus, in her formulation, includes the full complex of decomposed organic material along with the living and dead microbial biomass embedded within it. Humic acid, by contrast, is a specific chemical fraction extracted through alkaline treatment.
 
-Real humic acid, produced by the slow biological activity of soil microorganisms working on organic residues over time, contributes enormously to soil structure through its ability to bind mineral particles together into stable aggregates. Commercial humic acid products vary enormously in quality and effectiveness, and many are extracted from mineral deposits rather than produced through biological decomposition. The practitioner should be aware that these extracted products may not provide the same biological benefits as humus produced through [[fukuoka-microbes-scavengers-natural-decomposition-biosystem]] processes.
-
-The formation of humic substances from simpler organic compounds involves a series of condensation, polymerization, and oxidation reactions. Phenolic compounds released during lignin breakdown can oxidize to form quinones, which then react with amino acids and other nitrogen-containing compounds to form complex, nitrogen-rich polymers.
-
-These reactions are largely mediated by microbial enzymes, particularly those produced by fungi, which are the primary decomposers of lignin and other recalcitrant materials. The result is a heterogeneous mixture of large, complex molecules that resist further enzymatic attack because their three-dimensional structures shield reactive sites from enzyme access. This recalcitrance is what allows humic substances to persist in soil for centuries, slowly releasing nutrients and contributing to soil structure over geological timescales.
-
-The molecular architecture of humic substances gives them remarkable chemical properties. They contain numerous functional groups, including carboxyl, phenolic hydroxyl, quinone, and amino groups, which give humic substances the ability to participate in a wide range of chemical reactions. These functional groups are responsible for the cation exchange capacity of humus, its ability to buffer soil pH, and its capacity to form complexes with metals and organic molecules. The diversity of functional groups also means that humic substances can interact with a wide range of soil contaminants, binding heavy metals, pesticides, and other pollutants and reducing their bioavailability and mobility in the environment.
-
-## The Role of Microorganisms in Humus Formation
-
-The transformation of fresh organic matter into stable humus is fundamentally a biological process driven by the soil food web. Bacteria are the first colonizers of fresh organic material, rapidly metabolizing simple sugars, proteins, and other readily available compounds.
-
-Their populations can double in as little as twenty minutes under ideal conditions, creating a burst of biological activity that generates heat, carbon dioxide, and a succession of increasingly complex organic byproducts. This initial bacterial bloom is what drives the rapid early phase of decomposition that can be observed in any compost pile or forest floor.
-
-Fungi enter the decomposition process somewhat later, as bacteria deplete the easily available resources and begin to encounter more recalcitrant materials like cellulose and lignin. Fungi possess a broader repertoire of extracellular enzymes than bacteria, including lignin peroxidases, manganese peroxidases, and laccases that can break down the complex aromatic structures of lignin.
-
-This enzymatic capability makes fungi essential partners in the formation of stable humus, because lignin-derived compounds are key precursors of humic substances. The fungal hyphal network also physically transports materials through soil, mixing organic and mineral components in ways that promote aggregation and humus formation.
-
-As bacteria and fungi decompose organic material, they release a constant stream of metabolic byproducts into their surroundings. These include extracellular polymeric substances, or EPS, which are sticky, carbohydrate-rich compounds that help microorganisms attach to soil particles and form biofilms. EPS plays a critical role in soil aggregation, binding mineral particles together into the crumb-like structures that characterize healthy soil.
-
-When microorganisms die, their cell walls and intracellular contents become part of the soil organic matter pool, contributing both labile and recalcitrant carbon compounds. The concept of the soil microbial carbon pump, analogous to the biological carbon pump in the ocean, describes how microbial processing of organic matter can convert labile plant inputs into more stable microbial residues that persist in soil.
-
-A particularly important contributor to stable soil organic matter is glomalin, a glycoprotein produced by [[comparison-soil-food-web-vs-arbuscular-mycorrhizal-fungi]] fungi. First identified and named by Sara Wright at the USDA Agricultural Research Service in 1996, glomalin is a sticky substance that coats hyphae and helps protect them as they extend through soil.
+Real humic acid, produced by the slow biological activity of soil microorganisms working on organic residues over time, contributes enormously to soil structure through its ability to bind mineral particles together into stable aggregates. Commercial humic acid products vary enormously in quality and effectiveness, and many are extracted from mineral deposits rather than produced through biological decomposition. The practitioner should be aware that these extracted products may not provide the same biological benefits as humus produced through [[comparison-soil-food-web-vs-arbuscular-mycorrhizal-fungi]] fungi. First identified and named by Sara Wright at the USDA Agricultural Research Service in 1996, glomalin is a sticky substance that coats hyphae and helps protect them as they extend through soil.
 
 When hyphae die and decompose, glomalin persists in soil for years to decades, contributing significantly to the pool of stable carbon. Glomalin also plays a direct role in soil aggregation, acting as a biological glue that binds microaggregates into larger, more stable structures.
 
@@ -119,32 +87,6 @@ The ability of humus to improve soil structure is closely related to its role in
 
 The presence of earthworms in soil is itself an indicator of good organic matter management, because they require adequate food supplies and favorable conditions to thrive. Different earthworm species perform different functions: epigeic species process surface litter, endogeic species create horizontal burrows and mix soil horizons, and anecic species create deep vertical burrows that improve drainage and root penetration.
 
-Water-holding capacity is another critical physical property that humus influences. Humus itself can hold several times its weight in water, and its contribution to [[soil-aggregate-formation-fungal-contributions]] creates a soil matrix with far greater water-holding capacity than the same mineral soil without organic matter. This is particularly important in agricultural contexts where irrigation is limited or unreliable. Soils with higher organic matter content buffer against both drought and waterlogging, because they can absorb and slowly release water while maintaining adequate aeration.
-
-Each percentage point increase in soil organic matter can increase the water-holding capacity of a soil by approximately seventy-five thousand to one hundred thousand liters per hectare, depending on soil texture. This figure alone demonstrates why building organic matter is one of the most effective strategies for improving agricultural resilience in the face of increasing climate variability.
-
-The dark color of humus has practical implications as well. Darker soils absorb more solar radiation, warming faster in spring and extending the growing season in cool climates. This effect can be significant in northern latitudes where soil temperature is a primary constraint on early planting and seed germination. The increased thermal absorption also extends deeper into the soil profile in darker soils, promoting root growth and microbial activity at greater depths.
-
-## Nutrient Dynamics and the Chemical Benefits of Humus
-
-Humus is often described as a slow-release fertilizer, and this description captures an important truth about how it functions in nutrient cycling. The cation exchange capacity, or CEC, of humus is enormous compared to mineral soil components.
-
-CEC is a measure of the soil's ability to hold positively charged nutrient ions, including ammonium, potassium, calcium, magnesium, and various micronutrients, against leaching. The CEC of humus can be many times higher than that of clay minerals, meaning that even modest increases in soil organic matter content can dramatically increase a soil's ability to retain nutrients where they are accessible to plant roots.
-
-A single gram of humus can have a CEC several hundred times that of a gram of kaolinite clay. This is why soils with the same mineral composition but different organic matter levels can have vastly different fertility. A sandy soil with five percent organic matter may retain nutrients as effectively as a clay soil with one percent organic matter, because the CEC of the organic matter compensates for the low CEC of the sand particles.
-
-The decomposition of organic matter releases nutrients in a pattern that aligns well with plant demand. As microbial populations grow and metabolize organic material, they release nitrogen, phosphorus, sulfur, and other nutrients through the process of mineralization. This release is not instantaneous but occurs over weeks, months, and even years, providing a sustained nutrient supply that matches the growth patterns of most crop plants.
-
-By contrast, synthetic fertilizers deliver nutrients in a sudden pulse that may exceed plant uptake capacity, leading to leaching losses and environmental contamination. The synchronization of nutrient release from organic matter with plant demand is one of the key advantages of biologically based fertility management.
-
-Humus also influences nutrient availability through its effects on soil pH and its ability to chelate metal ions. Chelation is the process by which organic molecules form stable complexes with metal ions, keeping them in solution and available for plant uptake. This is particularly important for micronutrients like iron, zinc, copper, and manganese, which tend to become unavailable in alkaline soils through precipitation reactions.
-
-The chelating capacity of humic and fulvic acids helps maintain these micronutrients in plant-available forms. Humic substances can also buffer soil pH, helping to moderate both acidification and alkalinization and maintaining soil conditions within the range optimal for nutrient availability and microbial activity.
-
-## See Also
-
-- [[query-how-do-fungal-volatile-compounds-affect-plant-growth-and-other-microorganisms]]
-- [[arbuscular-mycorrhizal-fungal-diversity-patterns-distribution]]
+Water-holding capacity is another critical physical property that humus influences. Humus itself can hold several times its weight in water, and its contribution to [[query-how-do-fungal-volatile-compounds-affect-plant-growth-and-other-microorganisms]]
 - [[nutrient-movement-through-soil-to-plant-roots]]
-- [[query-how-do-mycorrhizal-fungi-help-plants-resist-drought]]
 - [[query-how-to-protect-plants-from-frost-and-extend-the-growing-season]]

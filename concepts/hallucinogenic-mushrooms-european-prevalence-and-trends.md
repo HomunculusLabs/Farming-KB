@@ -2,8 +2,7 @@
 
 ## Overview
 
-The use of [[legal-responses-to-hallucinogenic-mushrooms-in-the-european-union]] Europe underwent a significant resurgence
-between the late 1990s and mid-2000s, driven by [[emcdda-brand-names-user-terms-smartshop-marketing]], internet sales,
+The use of [[emcdda-brand-names-user-terms-smartshop-marketing]], internet sales,
 and a broader "return to nature" trend in drug preferences. The EMCDDA's 2006
 thematic paper documented this emerging trend, finding that while overall prevalence
 remained considerably lower than cannabis, hallucinogenic mushrooms had achieved
@@ -77,49 +76,8 @@ Multiple retail channels emerged across Europe:
 - **Market stalls** — informal retail at markets and festivals
 
 Most recreationally used mushrooms in Europe were cultivated rather than wild-
-harvested, despite the [[brassinosteroid-natural-occurrence-plant-kingdoms]] of many psilocybin species throughout
-Europe. Products were sold both as fresh and dried material.
-
-### Wild European Species
-
-Several psilocybin-containing species grow wild in Europe, particularly in central
-and northern Europe. Habitats include wet grassy fields and uncultivated pastures:
-
-- **[[guzman-allen-gartz-psilocybe-semilanceata-temperate-cosmopolitan-distribution]]** (liberty caps) — the most common wild species, found
+harvested, despite the [[guzman-allen-gartz-psilocybe-semilanceata-temperate-cosmopolitan-distribution]]** (liberty caps) — the most common wild species, found
   in the UK, Norway, Germany, and across northern Europe
-- **[[growing-gourmet-caramel-capped-psilocybe-cyanescens-cultivation]]** (wavy caps) — found in disturbed habitats
-
-## Practical Applications
-
-The principles and techniques discussed here have wide-ranging applications
-across multiple disciplines and contexts. Practitioners and researchers
-continue to explore new ways to integrate these concepts into modern practice,
-adapting traditional knowledge to contemporary challenges and opportunities.
-
-## Key Considerations
-
-Several important factors influence the effectiveness and outcomes described
-in this topic. Understanding these considerations helps practitioners make
-informed decisions and avoid common pitfalls. Environmental conditions,
-timing, and material selection all play critical roles.
-
-## Historical Context
-
-The historical development of this subject reflects centuries of accumulated
-knowledge and practical experience. From traditional methods passed down
-through generations to modern scientific approaches, the evolution continues
-to inform current best practices and research directions.
-
-## Common Challenges
-
-Practitioners frequently encounter several challenges when working with
-these concepts. Climate variability, resource limitations, and knowledge
-gaps can all affect outcomes. Addressing these challenges requires patience,
-observation, and a willingness to adapt approaches based on results.
-
-## See Also
-- [[european-hallucinogenic-mushroom-prevalence-and-trends]]
-- [[doc]]
+- **[[european-hallucinogenic-mushroom-prevalence-and-trends]]
 - [[psilocybin]]
-- [[dom]]
 - [[cocaine]]

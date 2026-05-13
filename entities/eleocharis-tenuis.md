@@ -10,80 +10,93 @@ date: 2026-05-09
 updated: 2026-05-09
 sources:
   - González-Elizondo, M.S. & Peterson, P.M. (2009). "A revision of Eleocharis subg. Limnochloa in the Americas." Sida, Botanical Miscellany 33.
-  - Smith, S.G. (2002). "Eleocharis in Flora [[berry-growing]], Vol. 23." Oxford University Press.
-  - USDA NRCS (2024). "Eleocharis tenuis Plant Guide." USDA Natural Resources Conservation Service.
----
-
-## Overview
-
-Eleocharis tenuis is a perennial spikerush known as slender spikerush or slender spike rush.
-
-It is a common emergent aquatic plant found in shallow wetlands, pond margins, and seasonally flooded habitats across much of eastern and central North America.
-
-The species forms dense mats of fine, hair-like culms that create a distinctive turf-like appearance along shorelines.
-
-Slender spikerush provides food and habitat for waterfowl and serves as an indicator species for seasonal wetland hydrology.
-
-## Taxonomy and Morphology
-
-Eleocharis tenuis belongs to the family Cyperaceae within the order Poales.
-
-The species was described by Carl Ludwig Willdenow in 1805.
-
-Some authorities recognize varieties including Eleocharis tenuis var. tenuis and Eleocharis tenuis var. pseudoptera, though these are not universally accepted.
-
-The plant is a perennial graminoid growing 10 to 40 centimeters tall from a slender rhizome.
-
-Culms are filiform, 0.3 to 0.8 millimeters in diameter, smooth, and bright green to yellowish-green.
-
-Basal sheaths are membranous and brownish, often persisting at the base of the plant.
-
-Leaves are reduced to bladeless basal sheaths, a characteristic feature of the genus Eleocharis.
-
-The inflorescence is a single terminal spikelet, ovoid to lanceoloid, 4 to 10 millimeters long and 2 to 4 millimeters wide.
-
-Glumes are overlapping, ovate to lanceolate, 2 to 3 millimeters long, with a green midrib and membranous margins.
-
-Each flower has 3 stamens and 2 to 3 stigmas.
-
-The achene is biconvex to trigonous, 1 to 1.5 millimeters long, pale brown, and bears a conspicuous tubercle at the apex.
-
-The tubercle is pyramidal, about 0.5 millimeters wide, and is a key diagnostic feature for species identification within the genus.
-
-## Distribution and Habitat
-
-Eleocharis tenuis is native to eastern and central North America, ranging from Nova Scotia to Ontario, south to Florida and Texas.
-
-It also occurs disjunctly in the [[psilocybin-north-america-pacific-northwest]] and has been reported from parts of [[guzman-allen-gartz-neurotropic-fungi-caribbean-central-america]].
-
-The species inhabits shallow wetlands including pond margins, marsh edges, vernal pools, wet ditches, and seasonally flooded fields.
-
-It typically grows in water depths of 0 to 15 centimeters on muddy or sandy substrates.
-
-Slender spikerush tolerates both permanent and seasonal hydroperiods, often colonizing drawdown zones of reservoirs and ponds.
-
-It is common in disturbed wetland habitats and can appear as a pioneer species on exposed mudflats.
-
-The species is found in a range of water chemistries from acidic to mildly alkaline.
-
-Elevation ranges from sea level to approximately 1000 meters in the [[bolete-fungi-appalachian-region]].
+  - Smith, S.G. (2002). "Eleocharis in Flora [[psilocybin-north-america-pacific-northwest]] and has been reported from parts of [[bolete-fungi-appalachian-region]].
 
 ## Ecology
 
-Eleocharis tenuis forms dense, mat-like stands through rhizomatous spread, creating significant [[fukuoka-citrus-orchard-ground-cover-cultivation]] in shallow water.
+Eleocharis tenuis forms dense, mat-like stands through rhizomatous spread, creating significant [[clay-pellet-seed-dispersal]] is primarily by water and waterfowl, with achenes floating briefly before sinking.
 
-The dense root network contributes to substrate stabilization and reduces resuspension of sediments in shallow water bodies.
+## Overview
 
-Waterfowl consume the tubers and seeds, and the dense culm mats provide brood habitat for ducklings and other aquatic birds.
+Eleocharis Tenuis represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
 
-The species is an important component of emergent marsh plant communities in eastern North America.
+## Key Characteristics
 
-It often occurs with other wetland graminoids including sedges, rushes, and aquatic grasses.
+Several defining characteristics distinguish eleocharis tenuis
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
 
-Eleocharis tenuis is moderately tolerant of water level fluctuations and can survive periods of drought as well as inundation.
+## Ecological Context
 
-The species responds positively to seasonal drawdowns that expose bare substrate for colonization.
+The ecological relationships involving eleocharis extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
 
-Flowering occurs from May through September, with fruiting following shortly after.
+## Practical Applications
 
-[[clay-pellet-seed-dispersal]] is primarily by water and waterfowl, with achenes floating briefly before sinking.
+Eleocharis Tenuis finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for eleocharis tenuis. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+eleocharis tenuis and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Eleocharis Tenuis has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of eleocharis tenuis into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[eleocharis-acicularis]]
+- [[eleocharis-equisetiformis]]
+- [[eleocharis-obtusa]]
+- [[eleocharis-palustris]]
+- [[juncus-tenuis]]

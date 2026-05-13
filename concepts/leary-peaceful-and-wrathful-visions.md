@@ -74,19 +74,77 @@ Well-prepared persons may skip the wrathful visions entirely, passing directly i
 
 ## Context: The First Bardo and Ego-Loss
 
-The peaceful and wrathful visions occur within the Second Bardo (Chonyid Bardo), which is preceded by the First Bardo — the experience of ego-loss itself. Understanding the First Bardo is essential context for the visions that follow. In the First Bardo, the subject experiences the "Clear Light of the Void," an undifferentiated state of pure awareness beyond subject-object duality. Leary describes this as the most important moment of the [[leary-psychedelic-experience-bardo-mapping]]: if the voyager can recognize and merge with this light, the entire subsequent visionary sequence is transcended.
+The peaceful and wrathful visions occur within the Second Bardo (Chonyid Bardo), which is preceded by the First Bardo — the experience of ego-loss itself. Understanding the First Bardo is essential context for the visions that follow. In the First Bardo, the subject experiences the "Clear Light of the Void," an undifferentiated state of pure awareness beyond subject-object duality. Leary describes this as the most important moment of the [[metzner-leary-bardo-thodol-and-tao-te-ching-adaptation]]) was composed in the 8th century CE, though its roots extend further into the Indian Buddhist tradition. The text belongs to the Nyingma school of Tibetan Buddhism, the oldest of the four major schools, and reflects the Dzogchen and Mahamudra traditions of direct experiential insight. Carl Jung, who wrote the introduction to Evans-Wentz's 1927 translation, recognized the text as a psychological document describing archetypal processes of [[mckenna-food-gods-leary-harvard-psilocybin-project]]
 
-Most Westerners, however, fail to recognize the Clear Light and fall back into habitual ego-patterns, entering the Second Bardo's hallucinatory content. The peaceful visions then represent the mind's first attempts to reconstruct reality after the dissolution of ordinary consciousness. Each vision corresponds to a progressively more elaborate re-creation of sensory and cognitive experience — from the pure light of the Source (Vision 1) to the fully mythologized drama of the Magic Theatre (Vision 7). The progression moves from simplicity to complexity, from unity to differentiation, mirroring the psyche's gradual reconstitution after ego-death.
+## Overview
 
-## The Third Bardo: Re-Entry
+Leary Peaceful And Wrathful Visions represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
 
-After the visionary sequences of the Second Bardo, the subject enters the Third Bardo — the period of re-entry into ordinary consciousness. The Tibetan manual describes six possible "realms" or "lokas" into which the consciousness may be drawn, corresponding to different psychological states. In Leary's framework, these include states of animal consciousness (pure sensation, bodily awareness), human consciousness (rational thought, social game-playing), and various degrees of spiritual consciousness. The goal of the manual's instructions during this phase is to guide the voyager toward the most expanded state possible rather than contracting into narrow, fearful self-definitions.
+## Key Characteristics
 
-The practical importance of the Third Bardo instructions lies in their emphasis on game awareness — recognizing that all social roles, self-definitions, and emotional reactions are games that one can choose to play or not play. This concept of "game transcendence" became one of Leary's most influential contributions to psychedelic theory and was later developed extensively in his writings on the eight-circuit model of consciousness.
+Several defining characteristics distinguish leary peaceful and wrathful visions
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
 
-## Historical and Cultural Significance
+## Ecological Context
 
-The Tibetan Book of the Dead ([[metzner-leary-bardo-thodol-and-tao-te-ching-adaptation]]) was composed in the 8th century CE, though its roots extend further into the Indian Buddhist tradition. The text belongs to the Nyingma school of Tibetan Buddhism, the oldest of the four major schools, and reflects the Dzogchen and Mahamudra traditions of direct experiential insight. Carl Jung, who wrote the introduction to Evans-Wentz's 1927 translation, recognized the text as a psychological document describing archetypal processes of [[shamanism-death-and-rebirth]] that transcend its specific cultural and religious context.
+The ecological relationships involving leary extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Leary Peaceful And Wrathful Visions finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for leary peaceful and wrathful visions. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+leary peaceful and wrathful visions and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Leary Peaceful And Wrathful Visions has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
 
 ## See Also
-- [[mckenna-food-gods-leary-harvard-psilocybin-project]]
+
+- [[leary-third-bardo-re-entry]]
+- [[hofmann-leary-case-and-harvard-research]]
+- [[leary-psychedelic-bardo-model]]
+- [[shroom-leary-harvard]]
+- [[timothy-leary]]

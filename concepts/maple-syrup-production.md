@@ -9,7 +9,7 @@ sources: [raw/papers/the-ultimate-guide-to-natural-farming-and-sustainable-livin
 
 # Maple Syrup Production
 
-Maple syrup is made by boiling down the sap of sugar maple trees ([[acer-saccharum]]) into concentrated syrup. It requires specific weather conditions (freezing nights and thawing days), some basic equipment, and patience. A rewarding late-winter homestead activity that produces a valuable and delicious product. Drawn from [[nicole-faires]]' comprehensive manual.
+Maple syrup is made by boiling down the sap of sugar maple trees (Acer saccharum) into concentrated syrup. It requires specific weather conditions (freezing nights and thawing days), some basic equipment, and patience. A rewarding late-winter homestead activity that produces a valuable and delicious product. Drawn from [[nicole-faires]]' comprehensive manual.
 
 ## Tree Requirements
 
@@ -20,9 +20,9 @@ Maple syrup is made by boiling down the sap of sugar maple trees ([[acer-sacchar
 | Sugar Maple (Acer saccharum) | 2-3% | 30-40 | Best, standard for syrup |
 | Black Maple (Acer nigrum) | 2-3% | 30-40 | Excellent, similar to sugar maple |
 | Red Maple (Acer rubrum) | 1.5-2% | 50-60 | Usable but lower quality |
-| Silver Maple ([[acer-saccharinum]]) | 1-1.5% | 60-80 | Can be used, lower sugar |
-| Box Elder ([[acer-negundo]]) | 1% | 80-100 | Poor quality, buddy flavor early |
-| Norway Maple ([[acer-platanoides]]) | 1.5-2% | 50-60 | Acceptable |
+| Silver Maple (Acer saccharinum) | 1-1.5% | 60-80 | Can be used, lower sugar |
+| Box Elder (Acer negundo) | 1% | 80-100 | Poor quality, buddy flavor early |
+| Norway Maple (Acer platanoides) | 1.5-2% | 50-60 | Acceptable |
 
 Sugar maples are strongly preferred. Other species produce less sugar per gallon of sap and may produce off-flavors.
 
@@ -31,7 +31,7 @@ Sugar maples are strongly preferred. Other species produce less sugar per gallon
 - Minimum trunk diameter: 10 inches at chest height (4.5 feet above ground)
 - One tap per tree for 10-18 inch diameter
 - Two taps for 18-24 inches
-- Three taps for 24+ inches (rarely needed on [[homestead-scale-assessment]])
+- Three taps for 24+ inches (rarely needed on homestead scale)
 - Do not tap trees under 10 inches diameter
 
 ### Number of Trees Needed
@@ -139,11 +139,12 @@ Above plus: sap collection bags/tubing, storage tank, wider evaporator pan, pre-
 
 | Grade | Color | Flavor | When Produced |
 |-------|-------|--------|---------------|
-| Golden (Fancy) | Light amber | Delicate, mild | [[solomon-sprouting-seeds-and-early-season-nutrition]] |
-| Amber | Medium amber | Rich, full | Mid-season |
-| Dark | Dark amber | Robust, caramel | Late season |
-| Very Dark | Very dark | Strong, molasses-like | End of season |
+| Golden (Fancy) | Light amber | Delicate, mild | Early season |
 
-All grades are the same quality -- the grade depends on when in the season the sap was collected. Early season sap makes lighter syrup; late season makes darker.
+## See Also
 
-## Maple Sugar
+- [[guttation-root-pressure-and-maple-sap-physiology]]
+- [[ligninolytic-enzyme-production-bioremediation]]
+- [[staycare-fungal-organic-acid-production-metal-leaching]]
+- [[cattle-health-and-production]]
+- [[biodiesel-production]]

@@ -11,8 +11,7 @@ sources:
 # Mind-Body Medicine and the Endocannabinoid System
 
 The relationship between emotions, consciousness, and the
-endocannabinoid system forms a central thesis of [[uwe-blesching]]'s
-*[[blesching-cannabis-health-index-autoimmune-conditions]]*. Blesching argues that molecules and
+endocannabinoid system forms a central thesis of [[blesching-cannabis-health-index-autoimmune-conditions]]*. Blesching argues that molecules and
 emotions constitute a two-way street: emotional states influence
 neurochemistry including endocannabinoid function, while
 neurochemistry in turn shapes emotional experience. This framework
@@ -54,11 +53,6 @@ states include:
 - **Acetylcholine** — "I remember": Involved in learning, memory
   formation, and attention. Associated with cognitive engagement
   and mental clarity that supports personal growth and insight.
-
-- **[[anandamide]] (AEA)** — "I am at ease": The body's own
-  endocannabinoid, produced on demand and rapidly degraded.
-  Associated with feelings of well-being, contentment, and bliss.
-  Its name derives from the Sanskrit "ananda" (bliss).
 
 - **[[endogenous-opioids-pain-modulation-endocannabinoid-interaction]]** — "It feels so good when the pain stops":
   Endorphins and related peptides that produce analgesia and

@@ -10,7 +10,7 @@ sources: [/Users/t3rpz/wiki/raw/papers/cancer-treatments-medicinal-mushrooms.md]
 
 # Grifolan
 
-Grifolan is a beta-1,3-glucan with beta-1,6-glucosidic branches extracted from the [[comparison-fruiting-body-vs-mycelium-extracts-medicinal-mushrooms]] of [[grifola-frondosa]] fruiting bodies using hot water extraction followed by ethanol precipitation. Further purification typically involves:
+Grifolan is a beta-1,3-glucan with beta-1,6-glucosidic branches extracted from the [[grifola-frondosa]] fruiting bodies using hot water extraction followed by [[ethanol]] precipitation. Further purification typically involves:
 - Protein removal (Sevag method or protease treatment)
 - Dialysis against water
 - Gel filtration chromatography (Sephacryl S-500 or Sepharose CL-4B)
@@ -62,7 +62,7 @@ Grifolan demonstrated activity against:
 
 ## Clinical Applications
 
-Grifolan is commercially available as a dietary supplement, often marketed as "Maitake D-fraction" or similar formulations. While [[psilocybin-clinical-trial-landscape-2020-2025]] data remains limited compared to PSK or [[grifola-frondosa]] containing grifolan and related beta-glucans, developed by Dr. Hiroaki Nanba. It is standardized to contain a specific ratio of protein-bound to protein-free beta-glucan fractions. The D-Fraction preparation is claimed to have superior oral bioavailability compared to crude grifolan extracts, though independent verification remains limited.
+Grifolan is commercially available as a dietary supplement, often marketed as "Maitake D-fraction" or similar formulations. While [[grifola-frondosa]] containing grifolan and related [[beta-glucans]], developed by Dr. Hiroaki Nanba. It is standardized to contain a specific ratio of protein-bound to protein-free beta-glucan fractions. The D-Fraction preparation is claimed to have superior oral bioavailability compared to crude grifolan extracts, though independent verification remains limited.
 
 MD-Fraction represents a further refinement with improved purity and reported higher immunomodulatory potency. Both preparations are widely available as dietary supplements.
 
@@ -71,13 +71,7 @@ MD-Fraction represents a further refinement with improved purity and reported hi
 Research on grifolan structure-activity relationships has established:
 - Triple-helical conformation is essential for activity; denatured single-strand forms show <10% activity
 - Molecular weight above 100 kDa is required for optimal immune activation
-- Branching frequency affects [[tihkal-receptor-binding-serotonin]] affinity; moderate branching every 3rd residue is optimal
-- Protein contamination does not diminish and may enhance activity for some immune parameters
-- Sulfation or carboxymethylation improves water solubility but alters receptor specificity
-
-## Synergistic Combinations
-
-Grifolan shows synergistic effects when combined with Polysaccharide-Krestin|PSK (enhanced anti-tumor activity through complementary receptor activation), conventional chemotherapy agents such as 5-FU and doxorubicin (reduced side effects with maintained efficacy), and vitamin c (improved beta-glucan bioavailability and immune cell activation). Combinations with [[polysaccharide-peptide-psp]] have demonstrated enhanced NK cell and macrophage activation.
+- Branching frequency affects [[polysaccharide-peptide-psp]] have demonstrated enhanced NK cell and macrophage activation.
 
 ## Veterinary Applications
 
@@ -88,3 +82,6 @@ Grifolan has been investigated in veterinary medicine for canine immune support 
 Ongoing research on grifolan includes large-scale randomized controlled trials for cancer adjunctive therapy, mechanistic studies on trained immunity induction, development of nanoformulations for improved oral bioavailability, investigation of synergistic combinations with checkpoint inhibitor immunotherapy, and standardization of analytical methods for quality control of commercial preparations.
 
 ## Comparison with Other Mushroom Beta-Glucans
+
+## See Also
+- [[mushroom-immune-cell-activation-mechanisms]]

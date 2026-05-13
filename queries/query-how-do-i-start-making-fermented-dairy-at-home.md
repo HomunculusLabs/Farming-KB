@@ -104,42 +104,17 @@ Kefir is the easier starting point because it requires no temperature management
 Once you've mastered the basics, explore these directions:
 
 ### Yogurt Progression
-- **Strain for Greek yogurt:** Line a colander with cheesecloth, pour in yogurt, refrigerate for 2–4 hours. The liquid that drains out is whey — save it for baking or compost.
+- **Strain for Greek yogurt:** Line a colander with cheesecloth, pour in yogurt, refrigerate for 2–4 hours. The liquid that drains out is whey — save it for baking or [[compost]].
 - **Flavor it:** Add honey, maple syrup, fruit, or vanilla after fermentation (not before — sugar interferes with bacterial growth).
 - **Make labneh:** Strain for 12–24 hours. The result is a thick, tangy spread similar to cream cheese.
 - **Use as starter culture:** Save 2 tablespoons of each batch as the starter for the next. After 5–10 generations, quality may decline — refresh with a fresh commercial culture.
 
 ### Kefir Progression
 - **Make kefir cheese:** Strain finished kefir through cheesecloth for 12–24 hours. Spread on toast or use as a sour cream substitute.
-- **Second fermentation:** After straining the grains, add fruit, [[bionutrients-lab-fermented-fruit-juice-ffj]], or herbs to the kefir liquid. Seal loosely and leave at room temperature for another 6–12 hours for natural carbonation.
-- **Share your grains:** Healthy kefir grains multiply by ~10–20% per batch. Within a month, you'll likely have enough to share.
-- **Freeze for backup:** Rinse grains, pat dry, roll in milk powder, and freeze in a sealed bag for up to 6 months as an emergency backup.
-
-## Troubleshooting Quick Reference
-
-| Problem | Most Likely Cause | Fix |
-|---------|-------------------|-----|
-| Yogurt is liquid/runny | Milk wasn't heated to 85°C; UHT milk used; culture was dead | Heat milk properly; use regular pasteurized milk; get fresh starter |
-| Yogurt is too sour | Fermented too long or too hot | Reduce time; check temperature accuracy |
-| Yogurt separated (curds + whey) | Incubated too long; temperature too high | Stir and use in smoothies; reduce time next batch |
-| Kefir is too thin | Grains are young or sluggish; too cold | Be patient; grains strengthen over 3–4 batches; move to warmer spot |
-| Kefir separated into curds and whey | Over-fermented; ratio of grains to milk too high | Use more milk or fewer grains; reduce fermentation time |
-| Strange/bad smell | Contamination | Discard batch, sanitize all equipment, start fresh |
-
-## Safety Notes
-
-- **Sanitize equipment** before each batch: wash jars and utensils with hot soapy water, rinse thoroughly, and air dry. For extra caution, pour boiling water over jars.
-- **Trust your senses:** Fermented dairy should smell tangy and pleasant — like sour cream or buttermilk. Any smell that is putrid, rotten, or distinctly "off" (especially accompanied by visible mold or unusual colors) means contamination. Discard the batch.
-- **Immunocompromised individuals, pregnant women, and young children** should use pasteurized milk and commercially prepared starters rather than raw milk products.
-- **Fermentation does not neutralize milk protein allergens.** If you have a dairy allergy (not just lactose intolerance), fermented dairy is not safe for you.
-
-## See Also
-
-- [[query-how-do-plants-use-chemical-signals-to-defend-against-insects]]
-- [[query-how-to-fix-nitrogen-toxicity-in-cannabis]]
+- **Second fermentation:** After straining the grains, add fruit, [[query-how-do-plants-use-chemical-signals-to-defend-against-insects]]
 - [[comparison-mead-vs-kvass-fermented-beverages]]
 - [[query-what-are-the-benefits-of-growing-mushrooms-at-home]]
 
-- fermented foods and beverages
+- [[fermented-foods-and-beverages]]
 
 - query-how-do-i-start-farming-spirulina-at-home

@@ -15,17 +15,15 @@ While bioremediation focuses on reducing contaminant concentrations to levels th
 
 The integration of bioremediation with ecological restoration principles can produce outcomes that are more sustainable, cost-effective, and beneficial than either approach alone.
 
-This topic draws connections between the remediation-focused pages such as [[fungal-biodiversity-ecosystem-function]] describes the relationship between fungal diversity and [[fungal-ecosystem-processes-overview]] that underpin both remediation and restoration outcomes.
+This topic draws connections between the remediation-focused pages such as [[fungal-ecosystem-processes-overview]] that underpin both remediation and restoration outcomes.
 
 ## Soil Ecosystem Recovery
 
 Soil is the foundation of terrestrial ecosystem function, and its recovery is often the primary objective of restoration at contaminated sites.
 
-Bioremediation activities affect soil ecosystem properties through multiple pathways, including changes in organic matter content, microbial [[core-endorhiza-bacterial-community-composition-cannabis]], [[ph-and-nutrient-availability-garden-soils]], and soil structure.
+Bioremediation activities affect soil ecosystem properties through multiple pathways, including changes in organic matter content, microbial [[ph-and-nutrient-availability-garden-soils]], and soil structure.
 
-[[biostimulation-techniques]] that add nutrients and organic matter to support contaminant degradation simultaneously provide the organic matter and nutrient inputs needed for soil ecosystem recovery.
-
-Mycorrhizal fungi, as described in [[fungal-bacterial-partnerships-mycorrhizosphere]] describes the inter-organism relationships in the mycorrhizosphere that are essential for soil ecosystem function.
+[[fungal-bacterial-partnerships-mycorrhizosphere]] describes the inter-organism relationships in the mycorrhizosphere that are essential for soil ecosystem function.
 
 Soil macrofauna including earthworms, arthropods, and nematodes contribute to soil structure development, organic matter incorporation, and nutrient mineralization, and their recovery indicates progressing ecosystem restoration.
 
@@ -39,39 +37,13 @@ Plant community recovery depends on soil quality, seed bank availability, propag
 
 Native plant species are generally preferred for restoration because they support native food webs, are adapted to local conditions, and do not become invasive.
 
-Phytoremediation species, as described in [[phytostabilization]] provides immediate soil stabilization and contaminant immobilization while the plant community develops and matures.
-
-The selection of plant species for restoration should consider their functional traits including [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]], deep rooting, litter quality, and wildlife habitat value, in addition to their contaminant tolerance.
+Phytoremediation species, as described in [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]], deep rooting, litter quality, and wildlife habitat value, in addition to their contaminant tolerance.
 
 Plant-microbe interactions, particularly mycorrhizal associations, are critical for plant community establishment on degraded and contaminated sites.
 
-[[constructed-wetlands-wastewater-treatment]] systems can be designed to provide both contaminant treatment and ecological habitat, blurring the line between remediation infrastructure and restored ecosystem.
+[[comparison-nutrient-cycling-vs-nutrient-dense-gardening]], and plant community development.
 
-The integration of contaminant treatment functions with wildlife habitat creation, recreational opportunities, and aesthetic values represents the highest level of green remediation practice.
-
-Riparian buffer restoration along contaminated waterways provides filtration of contaminated runoff, bank stabilization, temperature moderation, and habitat connectivity.
-
-Fungal communities in restored wetlands, including both saprotrophic and mycorrhizal species, contribute to organic matter processing, [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]], and plant community development.
-
-[[soil-food-web-nutrient-cycling]] describe fungal community ecology relevant to wetland and riparian restoration.
-
-## Monitoring Ecological Recovery
-
-Monitoring ecological recovery at remediated sites requires a multi-disciplinary approach that goes beyond chemical measurements of contaminant concentrations.
-
-Biological indicators including species diversity, community composition, ecosystem productivity, and functional measures provide information about ecological condition that chemical data alone cannot provide.
-
-fungal-biosensors-environmental-monitoring describe approaches for assessing ecosystem condition through fungal indicators.
-
-Soil biological parameters including microbial biomass, enzyme activities, and functional gene abundance provide sensitive indicators of soil ecosystem recovery.
-
-Vegetation surveys, invertebrate community assessments, and wildlife monitoring provide additional lines of evidence for ecological recovery at different trophic levels.
-
-Reference sites, representing the desired ecological condition, provide benchmarks against which recovery at remediated sites can be evaluated.
-
-Ecological risk assessment at remediated sites evaluates whether residual contaminant concentrations pose unacceptable risks to ecological receptors, supporting decisions about the need for additional remediation or land use restrictions.
-
-The concept of [[biodiversity-of-fungi-ecosystem-services-agriculture]] provides a framework for quantifying the benefits of ecological recovery at remediated sites, including carbon sequestration, water purification, flood control, pollination, and recreation.
+[[biodiversity-of-fungi-ecosystem-services-agriculture]] provides a framework for quantifying the benefits of ecological recovery at remediated sites, including carbon sequestration, water purification, flood control, pollination, and recreation.
 
 ## Sustainable Remediation Principles
 
@@ -116,8 +88,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[wildlife-habitat-creation]]
 - [[mycorrhizal-fungi]]
-- [[phytostabilization]]
 - [[mycorrhiza]]
 - [[phytoremediation]]

@@ -32,14 +32,12 @@ created: 2026-04-28
 | **Order** | Hemiptera (true bugs) | Orthoptera (grasshoppers & crickets) |
 | **Family** | Cicadidae (~3,400 species) | Acrididae, swarming species (~20 species) |
 | **Key behavior** | Long subterranean development; mass synchronized emergence | Density-dependent phase polyphenism; swarming |
-| **Diet** | Xylem sap ([[rust-fungi-life-cycle]]** | 2–17 years (most spent underground as nymphs) | 2–6 months (multiple generations per year) |
-| **Sound** | Tymbal organs; [[fukuoka-natural-seedlings-versus-grafted-nursery-stock]], young trees) | Billions of dollars globally during outbreak years |
+| **Diet** | Xylem sap ([[fukuoka-natural-seedlings-versus-grafted-nursery-stock]], young trees) | Billions of dollars globally during outbreak years |
 | **Population strategy** | Predator satiation (numerical overwhelm, then disappear) | Swarm migration (gregarious phase seeks new food sources) |
 | **Mobility** | Poor flyers; mostly stay near emergence area | Excellent flyers; swarms travel 100+ km/day |
 | **Cultural perception** | Symbol of summer, rebirth, immortality | Symbol of plague, famine, divine punishment |
 
-## Biology [[savory-grasshopper-and-insect-outbreaks]]
-- [[biochar-in-agriculture]]
+## Biology [[biochar-in-agriculture]]
 ## Practical Considerations
 
 When working with Cicadas vs Locusts, several practical factors should be

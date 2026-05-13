@@ -8,12 +8,7 @@ type: person
 
 ## Description
 
-Michael Hackleman is an American author and renewable energy researcher known for his influential work on wind energy and wind-powered devices. His book *Wind and Windspinners* (1974, Peace Press, California) is cited by [[bill-mollison]] as a key reference for understanding wind patterns and windbreak design in permaculture systems. Hackleman's distinction between "prevalent winds" and "energy winds" provides a practical framework for wind energy site assessment.
-
-## Classification
-
-- **Category**: Renewable energy researcher / Author
-- **Field**: Wind energy, [[appropriate-technology]]
+Michael Hackleman is an American author and renewable energy researcher known for his influential work on wind energy and wind-powered devices. His book *Wind and Windspinners* (1974, Peace Press, California) is cited by [[appropriate-technology]]
 - **Nationality**: American
 - **Active period**: 1970s onward
 - **Key publication**: *Wind and Windspinners* (1974)
@@ -42,7 +37,7 @@ Hackleman's contribution to practical wind assessment includes:
 - **Windbreak design**: His wind categorization directly informs species selection, barrier height, and permeability choices in permaculture systems.
 - **Site assessment**: Understanding prevalent vs. energy winds helps in positioning structures, gardens, and animal shelters.
 - **Energy harvesting**: The same wind analysis relevant for windbreak design also informs wind energy generation placement.
-- **Permaculture integration**: Mollison uses Hackleman's framework alongside the Beaufort Scale and wind harmonics to build a comprehensive wind design methodology.
+- **Permaculture integration**: Mollison uses Hackleman's framework alongside the [[beaufort-scale]] and wind harmonics to build a comprehensive wind design methodology.
 
 ## Legacy
 
@@ -50,7 +45,7 @@ Hackleman's work represents the appropriate technology movement's emphasis on sm
 
 ## Sources
 
-- Bill Mollison, *Permaculture: A Designer's Manual*, Chapter 5 (Wind section)
+- [[bill-mollison]], *Permaculture: A Designer's Manual*, Chapter 5 (Wind section)
 - Michael Hackleman, *Wind and Windspinners* (1974, Peace Press, California)
 
 ## Key Contributions
@@ -66,7 +61,6 @@ patterns rather than against them remains a foundational principle in regenerati
 design and sustainable land management methodologies.
 
 ## See Also
-- [[michael-starks]]
 - [[michael-harner]]
 - [[michael-beug]]
 

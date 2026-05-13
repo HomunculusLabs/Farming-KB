@@ -20,49 +20,9 @@ Hypogeous (subterranean) fungi -- including truffles and related taxa -- have
 evolved a fundamental dependency on mammals for spore dispersal. Unlike
 epigeous fungi that release spores into air currents, hypogeous fungi produce
 fruiting bodies underground and rely entirely on animals to excavate, consume,
-and disseminate their spores through feces. In [[fungal-ecology]], this dispersal mutualism represents a critical link between
-[[bloomfield-fungal-reproduction-and-chemical-communication]] and ecosystem [[dighton-ectomycorrhizal-ecosystem-impact]].
-
-## Role in Forest Succession
-
-The dispersal of hypogeous fungal spores by rodents is an important
-determinant of [[arbuscular-mycorrhizal-inoculum-production-best-practices]] for plants during early stages of
-succession on [[savory-bare-ground-and-soil-exposure]]. Allen (1991) showed that vegetation colonizing
-Mount Saint Helens after the volcanic eruption consisted entirely of
-mycorrhizal species, with spore dispersal by small mammals playing a key
-role in establishing these fungal-plant partnerships.
-
-## Spore Viability Through Digestive Tracts
-
-Research on spore passage through rodent digestive tracts shows that many
-hypogeous fungal spores not only survive but may actually have enhanced
-germination rates after gut passage. The digestive process may scarify spore
-walls or expose them to chemical conditions that break dormancy. This
-positive effect of gut passage strengthens the mutualistic nature of the
-relationship.
-
-## See Also
-
-- [[dighton-fungal-propagule-dispersal-soil-fauna]]
-- [[sequestrate-fungi-truffles-hypogeous-dispersal]]
-- fungal-interactions-soil-fauna
-## Practical Considerations
-
-When working with Hypogeous Fungi and Mammal-Mediated Spore Dispersal, several practical factors should be
-carefully considered to achieve optimal results. These include
-the specific conditions of the implementation context, available
-resources, timing requirements, and the interactions between this
-topic and other elements of the broader system. A holistic view
-that considers these interconnections produces better outcomes.
-
-Environmental conditions such as temperature, moisture, and
-seasonal patterns significantly influence results. Monitoring these
-variables and adapting practices accordingly is essential for success.
-The most effective practitioners develop keen observation skills and
-respond flexibly to changing conditions rather than following rigid
-protocols regardless of circumstances or local variation.
-
-[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
+and disseminate their spores through feces. In [[bloomfield-fungal-reproduction-and-chemical-communication]] and ecosystem [[arbuscular-mycorrhizal-inoculum-production-best-practices]] for plants during early stages of
+succession on [[dighton-fungal-propagule-dispersal-soil-fauna]]
+- [[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -111,8 +71,80 @@ through generations to modern scientific approaches, the evolution continues
 to inform current best practices and research directions.
 
 ## See Also
-- [[spore-dispersal]]
 - [[spore]]
-- [[doc]]
 - [[det]]
 - [[ectomycorrhiza]]
+
+## Overview
+
+Dighton Hypogeous Fungi Mammal Spore Dispersal represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish dighton hypogeous fungi mammal spore dispersal
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving dighton extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Dighton Hypogeous Fungi Mammal Spore Dispersal finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for dighton hypogeous fungi mammal spore dispersal. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+dighton hypogeous fungi mammal spore dispersal and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Dighton Hypogeous Fungi Mammal Spore Dispersal has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of dighton hypogeous fungi mammal spore dispersal into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource

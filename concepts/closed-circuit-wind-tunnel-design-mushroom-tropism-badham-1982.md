@@ -11,9 +11,7 @@ type: concept
 
 # Closed-Circuit Wind Tunnel Design for Mushroom Tropism Research
 
-Edmond Badham's 1982 study of tropisms [[cap-and-stem-alkaloid-distribution-in-psilocybe-cubensis-strains]] required a
-controlled environment capable of independently regulating wind velocity,
-humidity, temperature, and light while accommodating [[falconer-growing-mushrooms-in-sheds]] over
+Edmond Badham's 1982 study of tropisms [[falconer-growing-mushrooms-in-sheds]] over
 72-hour experimental periods. The closed-circuit wind tunnel he designed
 and described in Mycologia represents a specialized piece of mycological
 equipment that enabled the first systematic investigation of anemotropism
@@ -64,8 +62,7 @@ Temperature was maintained at 24.5 plus or minus 1.5 degrees Celsius using
 a heat cable and a temperature proportioner module designated as
 Thermotrack II. A thermometer attached to the temperature proportioner
 provided continuous temperature monitoring. This temperature range is
-within the optimal growth range [[miniculture-rye-grain-cultivation-method-for-psilocybe-cubensis]], supporting
-normal metabolic function and [[four-stage-basidiocarp-development-psilocybe-cubensis-badham]] throughout the
+within the optimal growth range [[four-stage-basidiocarp-development-psilocybe-cubensis-badham]] throughout the
 72-hour experimental runs.
 
 ## Lighting System
@@ -78,48 +75,6 @@ constant illumination. The ability to direct light from above or below the
 cultures was important for distinguishing phototropic from geotropic and
 anemotropic responses. When light was directed from below, the normal
 phototropic upward growth response could be separated from the negative
-[[spore-formation-geotropic-response-psilocybe-cubensis-badham-1982]], allowing Badham to determine whether gravitropic
-sensitivity was dependent on light exposure.
-
-## Water Insulation and Light Filtering
-
-Water was used as both a light filter and thermal insulator in the wind
-tunnel design. A water barrier surrounded the working area, with a water
-heater maintaining the water temperature. This water jacket served to
-stabilize the temperature of the working area by absorbing thermal
-fluctuations and provided a filtered light environment by diffusing the
-
-## Practical Applications
-
-The principles and techniques discussed here have wide-ranging applications
-across multiple disciplines and contexts. Practitioners and researchers
-continue to explore new ways to integrate these concepts into modern practice,
-adapting traditional knowledge to contemporary challenges and opportunities.
-
-## Key Considerations
-
-Several important factors influence the effectiveness and outcomes described
-in this topic. Understanding these considerations helps practitioners make
-informed decisions and avoid common pitfalls. Environmental conditions,
-timing, and material selection all play critical roles.
-
-## Historical Context
-
-The historical development of this subject reflects centuries of accumulated
-knowledge and practical experience. From traditional methods passed down
-through generations to modern scientific approaches, the evolution continues
-to inform current best practices and research directions.
-
-## Common Challenges
-
-Practitioners frequently encounter several challenges when working with
-these concepts. Climate variability, resource limitations, and knowledge
-gaps can all affect outcomes. Addressing these challenges requires patience,
-observation, and a willingness to adapt approaches based on results.
-
-## See Also
-- [[dom]]
-- [[det]]
+[[dom]]
 - [[spore]]
-- [[wind-tunnel-methodology-mushroom-tropism-research]]
 - [[evaporative-demand-unified-four-factor-model-mushroom-tropism-badham-1982]]

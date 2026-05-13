@@ -36,31 +36,10 @@ Not all tropical fruits are equally sensitive to cold. The following species are
 | Jabuticaba (*Plinia cauliflora*) | −3°C (brief) | Brazilian native; slow but remarkably tough |
 | Feijoa / Pineapple guava (*Acca sellowiana*) | −12°C | Most cold-hardy; tolerates frosts easily |
 | Cherimoya (*Annona cherimola*) | −3°C (brief) | Andean origin; needs cool winters for dormancy |
-| Macadamia (*[[macadamia-integrifolia]]*) | −3°C (mature trees) | Select cold-hardy varieties ('Beaumont', 'A4') |
-| Tamarillo (*Solanum betaceum*) | −2°C (brief) | Short-lived but productive; grow as annual in cold zones |
-
-### Tier 2 — Moderately Cold-Sensitive (Survive to 4–10°C with protection)
-
-| Species | Minimum Temp | Notes |
-|---|---|---|
-| Avocado (Mexican race) | −4 to −6°C | 'Zutano', 'Mexicola', 'Fuerte' are most cold-hardy |
-| Banana (cold-hardy types) | −1°C (leaves die, corm survives) | 'Misi Luki', 'Rajapuri', 'Dwarf Namwah' |
-| Papaya | 0°C (kills top growth) | Short-lived anyway; replant annually in cold zones |
-| Guava (Psidium spp.) | −2 to −3°C | 'Strawberry' and 'Mexican Cream' are hardiest |
-| Passionfruit (*[[passiflora-edulis]]*) | 0°C (top damage) | 'Nelly Kelly' and 'Panama Gold' are relatively hardy |
+| Macadamia (*[[passiflora-edulis]]*) | 0°C (top damage) | 'Nelly Kelly' and 'Panama Gold' are relatively hardy |
 | Dragon fruit / Pitaya | 2–4°C (brief) | Columnar species (*Selenicereus*) are hardier than vining types |
 | Carambola (Star fruit) | −1 to 0°C | 'Arkin' is most cold-tolerant selection |
-| Longan (*[[dimocarpus-longan]]*) | 0 to −2°C (mature trees) | Kohala variety; needs winter chill for flowering |
-
-### Tier 3 — Highly Cold-Sensitive (Require 10°C+ minimum)
-
-| Species | Minimum Temp | Strategy |
-|---|---|---|
-| Mangosteen | 4°C lethal | Container culture or greenhouse only |
-| Rambutan | 10°C (stress), 5°C (damage) | Greenhouse or extreme microclimate |
-| Durian | 5°C lethal | Not viable outside true tropics |
-| Jackfruit | 4°C (severe damage) | Marginal in warm subtropics with protection |
-| Mangosteen | 4°C lethal | Not viable outdoors in [[holzer-fruit-growing-marginal-climates]] |
+| Longan (*[[holzer-fruit-growing-marginal-climates]] |
 | Breadfruit | 5°C (severe damage) | Container or greenhouse only |
 
 ## Creating Effective Microclimates
@@ -85,21 +64,7 @@ The single most effective strategy for growing tropical fruits in marginal clima
 ### Ground-Level Strategies
 
 - **Heavy mulching**: 15–30 cm of organic mulch insulates roots and moderates soil temperature fluctuations. Mulch keeps soil warmer during cold snaps by reducing heat loss.
-- **Ground cover plants**: Low-growing covers like sweet potato, peanut, or creeping herbs create a warmer [[windward-leeward-boundary-layer-redistribution-stipe-curvature-badham-1982]] near the soil surface.
-- **Raised beds**: In areas with poor drainage (cold wet soil kills roots faster than cold air kills tops), raised beds improve drainage and warm faster in spring.
-
-## Frost Protection Methods
-
-### Passive Protection
-
-1. **Plant placement**: Put the most cold-sensitive plants in the warmest spots — near south walls, under thermal mass, at the top of slopes (cold air drains downhill; avoid frost pockets at the bottom).
-2. **Plant cover**: Even a few degrees of protection from overhead canopy prevents radiation frost. String lights (the old-fashioned incandescent type, which emit heat) hung in tree canopies provide 1–3°C of frost protection.
-3. **Trunk wrapping**: Wrap young trunks with cardboard, bubble wrap, or frost cloth. This protects the cambium layer — even if all leaves are killed, the tree can resprout from a living trunk.
-4. **Soil banking**: For very young trees, mound soil up around the lower trunk before winter. This insulates the graft union and root crown.
-
-### Active Protection
-
-1. **[[solomon-sprinkler-irrigation-vegetable-gardens]]**: Running sprinklers during a freeze event keeps plant surfaces at approximately 0°C (the temperature at which water freezes, releasing latent heat). This is highly effective but requires careful management — the sprinklers must run continuously until ice melts and temperatures rise above freezing, and only works for brief freezes (not prolonged arctic events).
+- **Ground cover plants**: Low-growing covers like sweet potato, peanut, or creeping herbs create a warmer [[solomon-sprinkler-irrigation-vegetable-gardens]]**: Running sprinklers during a freeze event keeps plant surfaces at approximately 0°C (the temperature at which water freezes, releasing latent heat). This is highly effective but requires careful management — the sprinklers must run continuously until ice melts and temperatures rise above freezing, and only works for brief freezes (not prolonged arctic events).
 2. **Portable heaters**: Propane or kerosene heaters positioned under trees provide direct warmth. Effective for small plantings but labor-intensive and potentially hazardous.
 3. **Frost cloth / row covers**: Spun-bonded polyester fabric draped over plants provides 2–6°C of protection depending on thickness. For trees, drape over a frame (not directly on foliage). For small plants, use hoop structures with frost cloth.
 4. **Heat lamps**: Incandescent or ceramic heat lamps hung in tree canopies provide localized warmth. 100W bulbs per tree can prevent frost damage in calm conditions.
@@ -140,6 +105,5 @@ Add slow-release tropical fruit fertilizer (8-4-8 or similar) at planting and ev
 - **Root pruning**: If roots have filled the container, repot into a slightly larger container or root-prune (remove 20–30% of the root mass) and return to the same container with fresh soil.
 ## See Also
 
-- [[solomon-cool-climate-compost-soil-temperature-nutrient-release]]
 - [[coleman-soil-heat-mass-passive-thermal-storage]]
 - [[solomon-soil-temperature-and-nighttime-plant-growth]]

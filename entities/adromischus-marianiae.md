@@ -109,12 +109,8 @@ It is not currently listed on CITES appendices, but conservation organizations h
 
 ## See Also
 
-- [[adromischus-cristatus]]
 - [[crassula-ovata]]
-- [[conophytum-bilobum]]
 - [[cotyledon-orbiculata]]
-- [[tylecodon-reticulatus]]
 - [[haworthia-fasciata]]
-- [[gasteria-verrucosa]]
 - [[faucaria-tigrina]]
 - [[sedum-rupestre]]

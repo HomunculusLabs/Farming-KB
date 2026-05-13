@@ -29,19 +29,7 @@ principal psychoactive compound in tobacco and is responsible for the
 dependence liability of tobacco products.
 
 Beyond its well-known association with tobacco, nicotine has a complex
-pharmacological profile with potential [[psilocybin-therapeutic-applications]] in cblesching-cannabis-neurodegenerative-diseasesntion deficit disorders, and .
-It also has a documented history of traditional use as an insecticide
-and entheogen among Indigenous peoples of the Americas.
-
-## Chemical Properties
-
-- **Molecular formula:** C₁₀H₁₄N₂
-- **Molecular weight:** 162.23 g/mol
-- **IUPAC name:** 3-(1-methylpyrrolidin-2-yl)pyridine
-- **CAS number:** 54-11-5
-- **Structure:** Bicyclic alkaloid composed of a pyridine ring linked to a
-  pyrrolidine ring
-- **State:** Colorless to [[ingoldian-hyphomycetes-spore-dispersal-in-water]]  in waterlow, oily liquid at room temperature
+pharmacological profile with potential [[ingoldian-hyphomycetes-spore-dispersal-in-water]]  in waterlow, oily liquid at room temperature
   **Solubility:** Freely soluble in water, alcohol, ether, and chloroform
   **Boiling point:** 247 °C at 760 mmHg
   **pKa:** 8.02 (pyrrolidinium nitrogen), 3.12 (pyridine nitrogen)
@@ -67,10 +55,7 @@ Nicotine acts primarilemcdda--route-administration-and-effectsnist at nicotinic 
 Nicotine binding triggers ion channel opening, allowing Na⁺ and Ca²⁺ influx.
 This depolarizes the neuron, triggering neurotransmitter release — primarily
 dopamine in the mesolimbic pathway, which underlies nicotine's reinforcing
-effects. It also modulates norepinephrine, [[cervantes-terpenoid-pharmacology-therapeutic-effects]]
-- emcdda-hallucinogenic-mushroom-dose-effects-acute-pharmacology
-
-See also: [[peyote-and-psychoactive-cacti]]
+effects. It also modulates norepinephrine, [[peyote-and-psychoactive-cacti]]
 ## Practical Considerations
 
 Successful implementation of Nicotine requires attention to
@@ -88,3 +73,78 @@ improved approaches for both research and practical application.
 Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
+
+## Overview
+
+Nicotine represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish nicotine
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving nicotine extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Nicotine finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for nicotine. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+nicotine and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Nicotine has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of nicotine into broader
+
+## See Also
+
+- [[permaculture-design-concepts-and-methods-overview]]
+- [[water-permaculture-global-local-strategies]]
+- [[knf-water-soluble-calcium-phosphate]]
+- [[keyline-design]]
+- [[permaculture-site-observation-methods]]

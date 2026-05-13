@@ -18,23 +18,7 @@ sources:
 
 ## Overview
 
-**Sticta sylvatica**, commonly known as the tree lungwort or felt lichen, is a large foliose cyanolichen in the family Stictaceae. It is widely distributed in temperate and [[fungal-diversity-boreal-forests-taiga]] of the Northern Hemisphere, where it grows primarily on the bark of deciduous trees.
-
-The species is a tripartite lichen, associating with both a green algal photobiont (*Symbiochloris* or *Dictyochloropsis* sp.) and the cyanobacterium *Nostoc* sp. housed in conspicuous cephalodia on the lower surface of the thallus.
-
-*Sticta sylvatica* is recognized by its large, leafy thallus with a fuzzy upper surface and prominent cyphellae (small pore-like structures) on the lower surface. It is one of the more moisture-demanding foliose lichens and serves as an indicator of old-growth forest conditions.
-
-## Taxonomy and Morphology
-
-**Classification:** Fungi → Ascomycota → Lecanoromycetes → Peltigerales → Stictaceae → Sticta.
-
-The species was described by William Hudson in 1778. The epithet *sylvatica* means "of the forest," reflecting its preferred habitat. It has been placed in several genera historically, including *Lobaria* and *Stictina*, before molecular phylogenetics confirmed its placement in *Sticta*.
-
-The thallus is large, 8–25 cm in diameter, with broad, rounded lobes 2–6 cm wide. The upper surface is grayish to brownish-gray, covered with a dense tomentum (felt-like layer of fungal hyphae) that gives it a characteristic fuzzy appearance.
-
-The lower surface is pale brown to tan with a smooth to slightly wrinkled cortex. Cyphellae are abundant, appearing as small circular pores 0.3–1 mm in diameter. These structures facilitate gas exchange and water vapor release.
-
-Cephalodia are dark brown to black, warty to gall-like structures on the lower surface, 1–5 mm in diameter. They contain the cyanobacterial partner *Nostoc* and are the sites of [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]].
+**Sticta sylvatica**, commonly known as the tree lungwort or felt lichen, is a large foliose cyanolichen in the family Stictaceae. It is widely distributed in temperate and [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]].
 
 Apothecia are produced on the upper surface of lobes. They are reddish-brown, 1–4 mm in diameter, with a concave disc that becomes plane with age. Spores are colorless, ellipsoid, and multiseptate.
 
@@ -54,21 +38,7 @@ In the Pacific Northwest of North America, *S. sylvatica* reaches its greatest a
 
 *Sticta sylvatica* reproduces both sexually through ascospores and vegetatively through isidia and soredia. Vegetative diaspores are the primary mode of local dispersal, allowing colonization of nearby suitable substrates.
 
-[[fungal-life-cycles-sexual-reproduction-metamorphosis]] produces ascospores that must encounter compatible algal and cyanobacterial partners to form a new lichen thallus. This requirement makes successful establishment from spores a relatively rare event.
-
-## Symbiosis and Physiology
-
-*Sticta sylvatica* maintains a dual photobiont system similar to other tripartite lichens. The green algal partner provides the majority of photosynthate under moderate to high light conditions on the thallus surface.
-
-The cyanobacterial partner in cephalodia fixes atmospheric nitrogen through the nitrogenase enzyme complex. This fixed nitrogen is partially released to the surrounding environment and can be assimilated by the host tree through bark absorption.
-
-The tomentum on the upper surface serves multiple functions: it traps moisture from fog and rain, reduces desiccation rates, and may provide UV protection to the underlying photobiont layer. Thalli without intact tomentum desiccate and die more rapidly.
-
-Cyphellae on the lower surface are specialized pores that regulate gas exchange. They open and close in response to humidity changes, maintaining internal CO₂ concentrations optimal for photosynthesis while minimizing water loss.
-
-## Ecology
-
-*Sticta sylvatica* contributes to forest [[query-how-does-nitrogen-cycling-work-in-a-permaculture-system]] through its cephalodial nitrogen fixation. In old-growth forests with abundant cyanolichen communities, lichen-derived nitrogen can represent a significant input to the ecosystem nitrogen budget.
+[[query-how-does-nitrogen-cycling-work-in-a-permaculture-system]] through its cephalodial nitrogen fixation. In old-growth forests with abundant cyanolichen communities, lichen-derived nitrogen can represent a significant input to the ecosystem nitrogen budget.
 
 The lichen provides microhabitat for diverse invertebrate communities. Tardigrades, mites, and springtails colonize the thallus, using its moisture-retaining structure as shelter and feeding on associated microbial communities.
 
@@ -80,14 +50,91 @@ As an epiphyte, *S. sylvatica* does not parasitize its host tree. However, heavy
 
 Habitat loss through logging is the primary threat. The species' dependence on old-growth conditions means that second-growth forests typically do not support viable populations for decades or centuries after disturbance.
 
-[[dighton-fungi-climate-change-feedback]] poses an additional threat through altered precipitation patterns and increased drought frequency. As a highly moisture-dependent species, *S. sylvatica* may be outcompeted by more drought-tolerant lichens as conditions become drier.
+[[lobaria-virens]]
+- [[hypogymnia-physodes]]
+- [[biodiversity-lichenized-fungi-symbiosis]]
 
-The species has been used in biomonitoring programs to assess air quality and forest health. Its presence reliably indicates low levels of sulfur dioxide and other phytotoxic air pollutants.
+## Overview
+
+Sticta Sylvatica represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish sticta sylvatica
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving sticta extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Sticta Sylvatica finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for sticta sylvatica. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+sticta sylvatica and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Sticta Sylvatica has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of sticta sylvatica into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
 
 ## See Also
 
-- [[lobaria-virens]]
-- [[peltigera-canina]]
-- [[hypogymnia-physodes]]
-- [[usnea-barbata]]
-- [[biodiversity-lichenized-fungi-symbiosis]]
+- [[myosotis-sylvatica]]
+- [[nyssa-sylvatica]]
+- [[psilocybe-sylvatica]]
+- [[sticta-fuliginosa]]
+- [[sticta-limbata]]

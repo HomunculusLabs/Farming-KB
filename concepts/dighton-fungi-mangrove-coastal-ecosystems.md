@@ -21,10 +21,8 @@ type: concept
 Mangrove swamps and coastal ecosystems support distinct fungal
 communities that play essential roles in the decomposition of plant
 litter, nutrient mineralization, and the coupling of terrestrial and
-marine [[ozier-pdc-composting-and-nutrient-cycles]]. As the tropical equivalent of temperate salt
-marsh habitats, [[mangrove-ecosystems-and-coastal-restoration]] harbor unique assemblages of
-ascomycetes, [[mitosporic-fungi-diversity-species-estimates]], basidiomycetes, and oomycetes that
-drive fungal-decomposition|[[fungal-decomposition-processes]] and influence
+marine [[mangrove-ecosystems-and-coastal-restoration]] harbor unique assemblages of
+ascomycetes, [[fungal-decomposition-processes]] and influence
 nutrient export to near-shore marine environments.
 
 ## Mangrove Fungal Communities
@@ -33,10 +31,7 @@ nutrient export to near-shore marine environments.
 
 Mangrove swamps occur in sheltered coastal areas away from direct wave
 action. The litter from these ecosystems is more diverse than that of
-salt marsh systems, and high rates of [[lichens-primary-production-soil-formation-dighton]] produce
-copious detritus supporting large populations and diversity of
-detritivore fungi, bacteria, and fauna (Kohlmeyer and Kohlmeyer,
-1979). The mangrove [[air-pollution-fungal-community-responses]] is almost exclusively saprotrophic,
+salt marsh systems, and high rates of [[air-pollution-fungal-community-responses]] is almost exclusively saprotrophic,
 consisting of some 23 species of ascomycete, 17 mitosporic species, and
 two basidiomycetes.
 
@@ -57,20 +52,7 @@ Halophytophthora) do not contain ergosterol.
 
 Newell and Fell (1992) documented significant changes in fungal biomass
 during decomposition of red mangrove leaves. Lulworthia grandispora,
-an ascomycete, may comprise 50% of the [[biodiversity-fungal-community-assembly]]. Mangrove
-leaves rapidly accumulate large populations of oomycete fungi
-(Halophytophthora spp.) during initial decomposition stages.
-
-### Sequential Decomposition
-
-The decomposition of red mangrove leaves proceeds through distinct
-stages with increasing fungal biomass. Ergosterol content, as a
-measure of fungal biomass, increases from less than 1 microgram per
-gram in live or senescent leaves to 19 micrograms per gram at the
-red-brown stage (30% mass loss) and 85 micrograms per gram at the
-black, submerged stage (40 to 60% mass loss). This sequential increase
-reflects the progressive colonization by different fungal groups as
-the leaf [[fungal-decomposition-resource-quality-determinants]] changes.
+an ascomycete, may comprise 50% of the [[fungal-decomposition-resource-quality-determinants]] changes.
 
 ## Salt Marsh Fungal Communities
 
@@ -118,8 +100,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[doc]]
 - [[det]]
-- [[composting]]
 - [[lichens]]
 - [[decomposition]]

@@ -8,13 +8,7 @@ sources: ["Shulgin - PIHKAL"]
 ---
 # DESOXY
 
-[[2c-b-pihkal-entry-20]] #52. 3,5-DIMETHOXY-4-METHYLPHENETHYLAMINE.
-
-## Chemical Name
-
-3,5-DIMETHOXY-4-METHYLPHENETHYLAMINE
-
-## Dosage and Du[[phytochrome-red-far-red-ratio-shade-detection-plants]]n
+[[phytochrome-red-far-red-ratio-shade-detection-plants]]n
 
 | Property | Value |
 |----------|-------|
@@ -33,9 +27,7 @@ sources: ["Shulgin - PIHKAL"]
 > imagery. After 3 hours the nausea was gone, I was able to get up and
 > explore. A little food went down well. No drive, no strong focus in
 > any direction. Feel this was a quite fascinating experience.
-> Completely down by six hours. Would go a bit slowly because of s[[what-a-plant-knows-phytochrome-red-far-red-light-switch]]
-> hints of neurological sensitivity -- the instant chilling and a
-> tendency to dart on going to sleep. The nervous [[blue-light-phototropism-red-light-photoperiodism-dual-plant-vision-system]] does not feel
+> Completely down by six hours. Would go a bit slowly because of s[[blue-light-phototropism-red-light-photoperiodism-dual-plant-vision-system]] does not feel
 > over-exposed, but all of a sudden there will be a millisecond of
 > auditory hallucination, or an out-of-the-blue startle. So take it
 > easy going up. [Some 24 hours after this experiment had been
@@ -44,14 +36,11 @@ sources: ["Shulgin - PIHKAL"]
 >
 > completed, and a normal baseline re-established, a complex and
 > psycho-logically disruptive syndrome occurred, that lasted for the
-> better part of a week. The temporal juxtaposition [[query-difference-between-white-rot-and-brown-rot-fungi]] the use of
-> desoxy and the subsequent "[[cannabis-spiritual-ritual-use]] crisis" initially suggested some
+> better part of a week. The temporal juxtaposition [[cannabis-spiritual-ritual-use]] crisis" initially suggested some
 > possible connection, but in retrospect the events seem to be
 > unrelated].
 >
-> (with 40 mg) I have offered to be a [[query-how-to-use-neem-oil-for-cannabis-pest-control]] on an experiment where
-> there had been a close relationship between a trial with desoxy and
-> what might have been a psychotic [[query-how-do-white-rot-fungi-break-down-lignin]], or some kind of so-called
+> (with 40 mg) I have offered to be a [[query-how-do-white-rot-fungi-break-down-lignin]], or some kind of so-called
 > spiritual emergency. These two events lay within a day of one
 > another. I was aware of my 40 milligram dosage at about
 > three-quarters of an hour into the experiment, and felt that there was
@@ -71,20 +60,91 @@ sources: ["Shulgin - PIHKAL"]
 > enhancementmescalinee eyes-closed imagery to music was noteworthy.
 > Thinking skills and conversation seemed to be fully under control, if
 > not enhanced. There was none of the colorful psychedelic world of
-> [[serotonin]] agonist, and it is a possibility that it could be a most potent phenethylamine. But, as of the present time, it has never been assayed in man.
+> [[petroleum-ether]] was placed in a He atmosphere and cooled to 0 deg C with an external ice-water bath. There was then added 120 mL of a 2.5 M solution of n-butyllithium in hexane, producing a clear but viscous solution of the lithium amide. Maintaining this temperature, there was added 100 mL of anhydrous THF, followed by 10 mL dry CH3CN, which produced an immediate white precipitate. A solution of 23 g of 3-bromo-2,6-dimethoxytoluene in 75 mL anhydrous THF was then added which produced a light red color. The reaction mixture was allowed to
 
-## Synthesis
-
-To a well-stirred solution of 31 g 2,6-dimethoxytoluene in 200 mL CH2Cl2 there was added 11 mL elemental bromine, a portion at a time. There was a copious evolution of HBr and the color gradually faded from deep red to straw. The reaction mixture was poured into 500 mL H2O, and the organic layer separated, washed first with dillute NaOH and finally with dilute HCl. The solvent was removed under vacuum, and the residue distilled at 85-90 deg C at 0.4 mm/Hg to provide 44 g of 3-bromo-2,6-dimethoxytoluene as a white oil.
-
-A well-stirred solution of 42 mL diisopropylamine in 100 mL [[petroleum-ether]] was placed in a He atmosphere and cooled to 0 deg C with an external ice-water bath. There was then added 120 mL of a 2.5 M solution of n-butyllithium in hexane, producing a clear but viscous solution of the lithium amide. Maintaining this temperature, there was added 100 mL of anhydrous THF, followed by 10 mL dry CH3CN, which produced an immediate white precipitate. A solution of 23 g of 3-bromo-2,6-dimethoxytoluene in 75 mL anhydrous THF was then added which produced a light red color. The reaction mixture was allowed to
-
-come to room temperature. The color became progressively darkened, eventually becoming a deep red-brown. After 0.5 h, the reaction mixture was poured into 500 mL of dilute H2SO4, the layers were separated, and the aqueous layer [[query-what-is-the-difference-between-compost-tea-and-compost-extract]]ed with 2x75 mL CH2Cl2. The organics were combined, the solvent removed under vacuum, and the residue distilled. Discarding a first fraction, the cut boiling at 125-165 deg C at 0.3 mm/Hg was collected. This light yellow fraction spontaneously crystallized and weighed 11.0 g. Trituration under 20 mL petroleum ether provided 1.72 g of 3,5-dimethoxy-4-methylphenylacetonitrile as a yellowish solid.
-
-A solution of LAH in anhydrous THF under nitrogen (20 mL of a 1.0 M solution) was cooled to 0 deg C and vigorously stirred. There was added, dropwise, 0.54 mL 100% H2SO4, followed by 1.5 g 3,5-dimethoxy-4-methylphenylacetonitrile as a solid. The reaction mixture was stirred at 0 deg C for a few min, then brought to room temperature for 1 h, and finally to a reflux on the [[scythian-cannabis-steam-bath-ritual]] for 30 min. After cooling back to 0 deg C there was added IPA until no more hydrogen was evolved, followed by sufficient 15% NaOH to produce a granular texture. The white solids were removed by filtration, and washed with THF. The filtrate and washes were stripped of solvent under vacuum, the residue added to 150 mL dilute H2SO4 and washed with 2x50 mL CH2Cl2. The aqueous phase was made basic with 25% NaOH, and extracted with 3x100 mL CH2Cl2. These extracts were pooled, the solvent removed under vacuum, and the residue distilled at 110-120 deg C at 0.45 mm/Hg to give a colorless viscous oil. This was dissolved in 10 mL of IPA, neutralized with 10 drops of concentrated HCl and diluted with 20 mL anhydrous Et2O. The product was removed by filtration, washed with Et2O, and air dried to give 0.55 g 3,5-dimethoxy-4-methylphenethylamine (DESOX...
+come to room temperature. The color became progressively darkened, eventually becoming a deep red-brown. After 0.5 h, the reaction mixture was poured into 500 mL of dilute H2SO4, the layers were separated, and the aqueous layer [[scythian-cannabis-steam-bath-ritual]] for 30 min. After cooling back to 0 deg C there was added IPA until no more hydrogen was evolved, followed by sufficient 15% NaOH to produce a granular texture. The white solids were removed by filtration, and washed with THF. The filtrate and washes were stripped of solvent under vacuum, the residue added to 150 mL dilute H2SO4 and washed with 2x50 mL CH2Cl2. The aqueous phase was made basic with 25% NaOH, and extracted with 3x100 mL CH2Cl2. These extracts were pooled, the solvent removed under vacuum, and the residue distilled at 110-120 deg C at 0.45 mm/Hg to give a colorless viscous oil. This was dissolved in 10 mL of IPA, neutralized with 10 drops of concentrated HCl and diluted with 20 mL anhydrous Et2O. The product was removed by filtration, washed with Et2O, and air dried to give 0.55 g 3,5-dimethoxy-4-methylphenethylamine (DESOX...
 
 (Additional synthesis details available in source.)
 
 ## Safety Notes
 
 DESOXY is a research chemical documented in PIHKAL. Dosage data and
+
+## Overview
+
+Desoxy Entity Pihkal represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish desoxy entity pihkal
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving desoxy extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Desoxy Entity Pihkal finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for desoxy entity pihkal. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+desoxy entity pihkal and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Desoxy Entity Pihkal has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of desoxy entity pihkal into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also

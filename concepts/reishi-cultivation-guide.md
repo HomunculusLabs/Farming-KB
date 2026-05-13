@@ -132,7 +132,7 @@ Spore collection: Reishi spores have a separate market. Some growers place paper
 ## Yield Expectations
 
 - Log cultivation: 50-100g dry weight per log per year; slower but higher quality
-- Bag cultivation: 100-200g fresh per bag; [[biological-efficiency]] 40-70%
+- Bag cultivation: 100-200g fresh per bag; biological efficiency 40-70%
 - Bag cultivation is 2-3x faster but produces lower triterpene concentrations
 
 ## Common Problems
@@ -146,5 +146,5 @@ Spore collection: Reishi spores have a separate market. Some growers place paper
 ## Related Topics
 
 - [[lions-mane-guide]] for another medicinal mushroom with neurological benefits
-- [[shiitake-cultivation-guide]] for log cultivation techniques
+- [[shiitake-cultivation-guide]] for log [[cannabis-sativa-indoor-cultivation-techniques]]
 - [[matsutake-mushroom]] for another mushroom valued in Asian traditional medicine markets

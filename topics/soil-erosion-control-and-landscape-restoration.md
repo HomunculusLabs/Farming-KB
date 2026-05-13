@@ -85,66 +85,15 @@ expand sideways as banks collapse.
 Wind erosion dominates where soil is dry, bare, loose, and finely textured.
 Fine particles may be carried in suspension, sand-sized particles bounce in
 saltation, and larger grains creep across the surface. Because the finest
-particles often contain much of the [[hamilton-composting-and-organic-matter-management]] and fertility, wind
-erosion removes more than bulk soil; it removes the most valuable fraction.
-Gravity also contributes through slumps, landslides, creep, and tunnel
-erosion. These processes become especially dangerous when water saturates
-steep or disturbed slopes. Terraces, drains, and roads that concentrate
-water into unstable subsoil can trigger failures more severe than the
-surface erosion they were intended to prevent.
-## Reading landforms
-Erosion control begins with observation of landform, soil, vegetation, and
-flow paths. A designer reads ridges, valleys, saddles, keypoints, benches,
-headcuts, depositional fans, bare patches, animal trails, road drains, and
-sediment plumes. These features reveal where water is gaining speed, where
-it is depositing soil, and where intervention will have the greatest effect.
-A slope can be understood as a catena, or sequence of soils and processes
-from upper catchment to lower deposition zone. Upper slopes tend to shed
-water and sediment, midslopes often show rills or sheet loss, and lower
-positions may receive silt. Restoration uses this pattern by stabilizing
-the source areas before attempting to repair downstream symptoms.
-Aerial photographs, contour maps, fixed-point photographs, and walks after
-storm events are practical tools for diagnosis. The most useful survey is
-often made during rain, when hidden drains, compacted tracks, and overflow
-paths become visible. Monitoring should record both loss and deposition,
-because captured sediment can become the basis of renewed fertility.
-## Contour design
-Contour design orients rows, roads, fences, swales, tree belts, and paths
-across the slope rather than directly downhill. Each contour-aligned element
-acts as a small brake on water movement. Crop rows and strip-cropping bands
-on contour reduce velocity, increase infiltration, and prevent the repeated
-formation of straight downhill channels.
-Contour is not merely a geometric preference. It is a hydrological rule
-that linear features should not accelerate runoff unless they are designed
-as protected drains with safe outlets. Roads are especially important,
-because compacted surfaces collect water and can become artificial streams.
-Well-placed access tracks follow contours or use frequent armored crossings
-and dispersal points.
-The designer must distinguish true level contour from graded drainage.
-Level contour features hold water for infiltration; graded features move
-water slowly to a planned outlet. Confusing the two can cause failure. A
-swale that unintentionally falls along its length may scour, while a drain
-without fall may pond, saturate, and breach.
-## See Also
-[[soil-erosion-control]]
-[[mollison-soil-formation-rates-and-erosion-costs]]
+particles often contain much of the [[soil-erosion-control]]
 [[mollison-designers-earthworks-for-erosion-control]]
-[[mollison-sediment-management-and-check-dam-systems]]
 [[mollison-designers-check-dam-types-and-landscape-placement]]
 mollison-designers-gabions-and-stone-weirs-for-gully-control
-[[contour-swale-irrigation-design]]
-mollison-designers-swale-spacing-and-contour-interval
 [[holzer-terrace-systems]]
-[[holzer-terrace-construction-guide]]
 [[savory-erosion-and-land-deterioration]]
-[[mollison-designers-vetiver-grass-for-erosion-control]]
 [[natural-farming-guide-contour-farming-strip-cropping]]
-[[dighton-fungal-roles-soil-erosion-prevention]]
-mycofiltration-silt-erosion-control
-## References
-This page synthesizes the concept notes listed in the YAML frontmatter,
-including material derived from Bill Mollison's [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]] texts,
-[[comparison-sepp-holzer-vs-biodynamic]]'s terrace guidance, Savory's [[savory-holistic-management-overview]] framework,
+[[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]] texts,
+[[savory-holistic-management-overview]] framework,
 John Dighton's work on fungal [[fungal-ecosystem-processes-overview]], and Paul Stamets'
 mycofiltration examples and field-scale watershed repair methods that
 join soil conservation with biological restoration.

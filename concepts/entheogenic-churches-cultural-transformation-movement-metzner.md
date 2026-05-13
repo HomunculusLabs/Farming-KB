@@ -17,10 +17,7 @@ topics:
 
 Ralph Metzner identified the emergence of organized entheogenic
 churches as a potentially transformative development in the
-relationship between [[eleusinian-mysteries-psychoactive-fungi-western-civilization]] and consciousness-altering
-plant medicines. In his 1998 review, he argued that syncretic
-religious movements using ayahuasca, peyote, and iboga had moved these
-substances "out of the context of shamanic [[shamanic-entheogenic-healing-rituals]], where only
+relationship between [[shamanic-entheogenic-healing-rituals]], where only
 a very limited number of people came into contact with them" and made
 "profoundly spiritually transforming experiences with entheogenic
 plant medicines accessible to a large number and wide spectrum of
@@ -28,34 +25,7 @@ people in all walks of life."
 
 ## From Shamanic Healing to Organized Religion
 
-The distinction between shamanic rituals and [[entheogenic-folk-religious-ceremonies]]
-is, as Metzner acknowledged, somewhat arbitrary, existing along a
-continuum. Shamanic practices emphasize healing and divination in
-small groups of around a dozen participants, while folk religious
-ceremonies often involve larger groups of twenty to several hundred
-participants. In folk religious ceremonies, the aspect of healing and
-divination "tends to recede more into the background, and the primary
-focus is on group worship and celebration with singing and prayer."
-
-Instead of shamans or healers, these ceremonies feature priests and
-officiants. There is very little discussion or sharing of visions, in
-contrast to shamanic healing contexts. The groups have typically
-organized themselves into recognized churches, providing members with
-social cohesion and legal protection.
-
-## The Brazilian Ayahuasca Churches
-
-Metzner documented three organized Brazilian churches using ayahuasca
-as their main sacrament: Santo Daime, Uniao de Vegetal (UDV), and
-Barquinia. Each was founded by rubber tappers working in the Amazon
-region in the 1950s who came into contact with the hallucinogenic vine
-through mestizo or Indian ayahuasceros. The founder of each reported a
-significant vision instructing them to organize a church using the
-brew as the principal sacrament.
-
-Members come from all walks of life and both urban and rural
-environments. Each church has several thousand members in Brazil, and
-two have significant satellite centers in [[guzman-psilocybin-mushrooms-north-america]] and Europe.
+The distinction between shamanic rituals and [[guzman-psilocybin-mushrooms-north-america]] and Europe.
 The churches are officially recognized and ayahuasca use is legal in
 Brazil within this framework.
 
@@ -129,15 +99,7 @@ Metzner concluded that these syncretic religious movements,
 particularly the Brazilian ayahuasca churches, represent "the
 beginnings of a broader cultural transformation movement with
 significant impact." By making entheogenic experiences accessible to
-large numbers of people outside [[traditional-indigenous-use-sacred-fungi]] contexts, these
-churches have created new frameworks for spiritual growth, community
-building, and personal healing that bridge indigenous wisdom and
-modern urban life.
-
-## See Also
-
-- [[metzner-syncretic-entheogenic-churches-brazil-santo-daime-udv-barquinha]]
-- [[metzner-four-paradigms-psychedelic-healing]]
+large numbers of people outside [[metzner-syncretic-entheogenic-churches-brazil-santo-daime-udv-barquinha]]
 - [[metzner-ibogaine-addiction-treatment]]
 - [[metzner-peyote-ceremonies-native-american-church-and-huichol-traditions]]
 

@@ -51,27 +51,7 @@ and tyramine, with subsequent oxidative deamination by MAO.
 ## Effects
 
 **Dose ranges:**
-- **[[ultra-low-dose-brassinosteroid-response-psilocybe-cubensis]] (25–50 mg):** Mild alertness, subtle mood elevation,
-  increased physical energy.
-- **Moderate dose (50–150 mg):** Noticeable stimulant effects, increased
-  heart rate, mild anorexia, enhanced focus. Peripheral effects may
-  include sweating and dilated pupils.
-- **High dose (150–300+ mg):** Excessive sympathetic stimulation —
-  tachycardia, hypertension, anxiety, insomnia, headache.
-
-**Duration:** 2–4 hours when taken orally.
-** 20–45 minutes.
-
-Hordenine's effects are considerably milder than those of ephedrine or
-amphetamines, and it is sometimes described as a gentle, clean stimulant
-with less peripheral jitteriness.
-
-## Natural Sources
-
-Hordenine occurs in several plant families:
-- **Poaceae:** Barleyechinopsis-pachanoi, 0.02–0.2% in sprouted grain),
-  millet, rye grass.
-- **Cactaceae:** *[[san-pedro-cactus-history]]), *E. peruvianus*,
+- **[[san-pedro-cactus-history]]), *E. peruvianus*,
   *E. bridgesii* at 0.01–0.1% dry weight.
 - **Fabaceae:** *Acacia* species, bitter orange (*Citrus aurantium*),
   some *Prosopis* species.
@@ -81,10 +61,83 @@ contains the highest concentrations as germination activates the pathway.
 
 ## Biosynthesis
 
-In plants, hordenine is biosynthesized from the [[cho-fish-amino-acid-preparation]] tyrosine via
-the pathway: L-tyrosine → tyramine (by tyrosine decarboxylase) →
-N-methyltyramine (by SAM-dependent N-methyltransferase) → hordenine
-(second N-methylation). The pathway parallels that of other plant
-phenethylamine alkaloids and is upregulated during [[controlled-substances-act-and-psychedelic-research]]. It is sold as a dietary
+In plants, hordenine is biosynthesized from the [[controlled-substances-act-and-psychedelic-research]]. It is sold as a dietary
 supplement in many countries, often marketed as a pre-workout or weight
 loss ingredient. Its [[ayahuasca-tourism-legal-status-by-country]] varies by jurisdiction — some
+
+## Overview
+
+Hordenine represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish hordenine
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving hordenine extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Hordenine finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for hordenine. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+hordenine and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Hordenine has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of hordenine into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.

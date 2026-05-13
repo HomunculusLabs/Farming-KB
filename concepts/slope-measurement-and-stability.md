@@ -6,7 +6,7 @@ type: concept
 
 # Slope Measurement and Stability
 
-Slope measurement and stability are foundational topics in permaculture land design. Understanding how to measure, interpret, and work with slopes is critical for safe earthworks, road construction, water management, and site planning. This concept covers measurement systems, material stability, slope profiles, hazard assessment, and practical design guidelines.
+[[slope-measurement]] and stability are foundational topics in permaculture land design. Understanding how to measure, interpret, and work with slopes is critical for safe earthworks, road construction, [[water-management]], and site planning. This concept covers measurement systems, material stability, slope profiles, hazard assessment, and practical design guidelines.
 
 ## Slope Measurement Systems
 
@@ -143,8 +143,6 @@ Roads are one of the most significant slope-modifying features on a permaculture
 
 ### Road Construction Guidelines
 ## See Also
-- [[fukuoka-natural-farming-philosophy-road-back-to-nature]]
 - [[mollison-designers-humus-building-and-soil-organic-matter]]
-- [[natural-farming-guide-permaculture-design-for-small-holdings]]
 - [[keyline-design]]
 - [[mollison-designers-free-range-forage-design-principles]]

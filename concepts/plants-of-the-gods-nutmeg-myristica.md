@@ -29,11 +29,9 @@ The tree produces nutmeg from the seed and mace from the red aril
 (arillode) surrounding the seed. Both spices have different tastes
 because of differing concentrations of components of their essential
 oils. The plant belongs to the Myristicaceae (Nutmeg Family), the same
-family as [[hallucinogenic-plant-chemistry]] - chemical classification
-- [[old-world-hallucinogenic-plants-overview]] - [[datura-metel-old-world-ethnobotany]] plants
-- [[plants-of-the-gods-virola-epena-snuff]] - same plant family
-- [[plants-of-the-gods-amanita-muscaria]] - [[allegro-amanita-muscaria-properties-and-pharmacology]]
-- [[old-world-hallucinogenic-plants-overview]] - [[mckenna-spice-trade-and-medieval-drug-scarcity]] routes
+family as [[old-world-hallucinogenic-plants-overview]] - [[plants-of-the-gods-virola-epena-snuff]] - same plant family
+- [[allegro-amanita-muscaria-properties-and-pharmacology]]
+- [[mckenna-spice-trade-and-medieval-drug-scarcity]] routes
 ## Practical Applications
 
 Nutmeg Myristica in Plants of the Gods has a range of practical applications that make it relevant to

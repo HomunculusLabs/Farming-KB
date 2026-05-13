@@ -12,40 +12,16 @@ tags: [cannabis]
 
 # Drip Irrigation for Cannabis
 
-Drip irrigation is an efficient and precise method of delivering water and [[cannabis-nutrient-solution-preparation]] to cannabis plants. In drip systems, nutrient solution is delivered one drop at a time or in low volume through a low-pressure plastic pipe with friction fittings. Drip irrigation can be used with both soil and hydroponic-cannabis|[[cannabis-grow-hydroponic-growing-systems]] setups, making it one of the most versatile irrigation methods available.
+Drip irrigation is an efficient and precise method of delivering water and [[cannabis-grow-hydroponic-growing-systems]] setups, making it one of the most versatile irrigation methods available.
 
 ## How Drip Irrigation Works
 
-Water flows through a main hose and exits through emitters attached to the line. The emitters are either spaghetti tubes (small-diameter flexible tubing) or nozzle drippers that emit directly from the main hose. Nutrient solution travels through the delivery system and is deposited at the base of each plant, where it percolates through the [[query-what-is-light-deprivation-cannabis-growing-and-how-does-it-work]] Mediums and is absorbed by roots.
-
-In recirculating hydroponic drip systems, excess nutrient solution drains from the growing medium and is directed back to a central reservoir for reuse. In run-to-waste systems, the solution is applied once and not recovered.
-
-## Types of Drip Emitters
-
-Several emitter types are available for different applications, each with specific advantages:
-
-1. **Drip emitters**: Control solution flow and deliver a measured dose to each plant. Available in various flow rates (typically 0.5 to 2 gallons per hour). Consistent delivery makes them the most popular choice for [[query-how-does-no-till-cannabis-cultivation-work]].
+Water flows through a main hose and exits through emitters attached to the line. The emitters are either spaghetti tubes (small-diameter flexible tubing) or nozzle drippers that emit directly from the main hose. Nutrient solution travels through the delivery system and is deposited at the base of each plant, where it percolates through the [[query-how-does-no-till-cannabis-cultivation-work]].
 2. **Circular emitters**: Apply nutrient solution all the way around the plant, ensuring all roots receive adequate moisture. Ideal for larger plants with extensive root systems.
 3. **Spray emitters (mini-sprinklers)**: Spray nutrient solution over the top of the growing medium to aerate and disperse it evenly. Available as individual units for each plant site.
 4. **Spaghetti tubes**: Flexible delivery tubes (typically 1/8 inch diameter) that carry solution from the main manifold to individual plants. Can be fitted with various emitter tips.
 
-A single application point is common when growing in absorbent growing mediums such as [[coco-coir-cannabis]]. Expanded clay works best when nutrient solution is applied via a large round emitter, several single emitters, or a spray emitter.
-
-Emitter selection should match the growing medium: absorbent mediums work well with a single point, while fast-draining mediums benefit from multiple delivery points or spray emitters for even coverage.
-
-## Advantages of Drip Irrigation
-
-- **Efficiency**: Drip irrigation is a very efficient way to irrigate, delivering water and nutrients directly to the root zone with minimal waste.
-- **Reduced maintenance**: Once set up, drip systems lower watering maintenance and provide consistency.
-- **Fertigation capability**: Fertilizer can be injected into the irrigation system (fertigation), facilitating both watering and feeding simultaneously.
-- **Uniform delivery**: Each plant receives the same amount of water and nutrient.
-- **Automation**: Drip systems attached to timers can disperse nutrient solution at regular intervals, allowing growers to be away for short periods.
-- **Versatility**: Works with soil, soilless mixes, and hydroponic media. Suitable for indoor, greenhouse, and outdoor cultivation.
-
-## Drip Irrigation in Different Media
-
-The irrigation frequency and volume vary by growing medium:
-- **Coco coir**: Drip irrigation is applied four or five times daily in [[vermiculite-cannabis]], drain slowly and require less frequent watering, often just once per day.
+A single application point is common when growing in absorbent growing mediums such as [[vermiculite-cannabis]], drain slowly and require less frequent watering, often just once per day.
 
 ## Setting Up a Drip System
 
@@ -60,23 +36,7 @@ Drip irrigation kits are available at garden stores and building centers. Grower
 
 ## Important Considerations
 
-- **Drainage**: Ensure the growing medium drains freely to prevent soggy soil and [[cannabis-nutrient-lockout-and-ph]].
-- **Uniformity**: If growing clones of the same age and size, a drip system works very well. Different varieties may need different fertilizer regimens, making uniform drip delivery problematic.
-- **Monitoring**: Check several pots daily to ensure they are watered evenly and all soil gets wet. Spot-check different areas of the garden.
-- **Time away**: Do not leave a drip system unattended for more than four consecutive days, or you could return to a surprise. Even with automation, unexpected failures can occur.
-- **Daily care**: Even with automation, gardens need daily monitoring of moisture, pH, ventilation, humidity, and other vital signs. Automation adds consistency and uniformity but does not eliminate the need for oversight.
-- **System capacity**: Size the pump and reservoir to handle the maximum expected demand. Undersized systems lead to uneven delivery and pump strain.
-- **Backup planning**: Keep spare emitters, tubing, and a backup pump on hand for quick repairs.
-
-## Fertigation
-
-Drip systems facilitate fertigation, the practice of injecting fertilizer into the irrigation water. This allows growers to deliver precise nutrient doses with every watering. Cervantes interviewed several growers who loved the convenience and constant feeding ability of their drip systems. They mixed mild nutrient solution in a reservoir and pumped it through plastic feeder hoses to maintain a constant supply of nutrients and water.
-
-## Drip Systems in Top-Feed Hydroponics
-
-Drip irrigation is the delivery method used in [[rockwool-cannabis]] or [[comparison-coco-coir-vs-peat]] slabs are placed on the floor or on elevated tables. Drip emitters deliver nutrient solution to each plant site on the slab surface. Solution percolates through the slab to the root zone and excess drains from the bottom.
-
-Individual blocks of growing medium can be irrigated via spaghetti tubes connected to emitters pressed into the top of each block. Top-feed systems typically cycle for about five minutes or longer and should be irrigated at least three times daily during the [[comparison-cannabis-vegetative-stage-vs-flowering-stage]].
+- **Drainage**: Ensure the growing medium drains freely to prevent soggy soil and [[rockwool-cannabis]] or [[comparison-cannabis-vegetative-stage-vs-flowering-stage]].
 
 ## Maintenance Tips
 
@@ -118,8 +78,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[query-how-to-set-up-drip-irrigation-for-cannabis]]
 - [[drip-irrigation-guide]]
-- [[comparison-sprinkler-vs-drip-irrigation]]
 - [[cervantes-drip-irrigation-systems]]
 - [[comparison-drip-irrigation-vs-rainwater-harvesting]]

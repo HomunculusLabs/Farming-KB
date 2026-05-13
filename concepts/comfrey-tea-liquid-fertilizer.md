@@ -2,25 +2,14 @@
 
 ## Overview
 
-Comfrey tea is a liquid [[complete-organic-fertilizer-cof-recipe-solomon]] produced by steeping comfrey leaves (Symphytum officinale or Symphytum x uplandicum) in water. The resulting liquid is rich in potassium, nitrogen, and trace minerals, making it one of the most effective and widely used homemade [[solomon-liquid-fertilizers-and-foliar-feeding]] in [[hamilton-geoffhamilton-nick-organic-gardening-companion-planting]] and permaculture. Comfrey earns its reputation as a "[[nutrient-dynamic-accumulator-reference]]" due to its deep taproot system (extending 2-3 meters), which mines minerals from subsoil layers that are inaccessible to shallower-rooted crops. These accumulated nutrients are concentrated in the leaves, where they can be harvested and converted into liquid feed through fermentation.
+Comfrey tea is a liquid [[solomon-liquid-fertilizers-and-foliar-feeding]] in [[nutrient-dynamic-accumulator-reference]]" due to its deep taproot system (extending 2-3 meters), which mines minerals from subsoil layers that are inaccessible to shallower-rooted crops. These accumulated nutrients are concentrated in the leaves, where they can be harvested and converted into liquid feed through fermentation.
 
 ## Nutritional Profile of Comfrey
 
 Comfrey leaves contain an exceptional concentration of plant nutrients, particularly potassium:
 
 - **Potassium (K)**: 3-7% on a dry weight basis — comparable to commercial potassium fertilizers. Potassium promotes flowering, fruiting, disease resistance, and overall plant vigor
-- **Nitrogen (N)**: 1.5-3% — significant nitrogen content that supports [[cannabis-vegetative-growth-stage]]. Most of the nitrogen is in protein form rather than nitrate, providing slower release
-- **Phosphorus (P)**: 0.3-0.8% — moderate phosphorus content for root development and energy transfer
-- **Calcium (Ca)**: 2-3% — important for cell wall structure and soil pH buffering
-- **Trace minerals**: Comfrey accumulates iron, magnesium, manganese, copper, zinc, boron, and selenium from deep soil layers. These trace elements are often deficient in surface soils after years of cultivation
-
-The NPK ratio of comfrey leaves is approximately 3-1.5-5 (N-P-K), making it one of the few organic sources that is significantly higher in potassium than nitrogen. This profile makes comfrey tea particularly valuable as a feed for fruiting and flowering crops rather than leafy green vegetables.
-
-## Comfrey Species for Fertilizer Production
-
-Two main species are cultivated for fertilizer production:
-
-- **Symphytum x uplandicum (Russian comfrey, Bocking 14)**: The preferred variety for fertilizer production. Bocking 14 is a sterile hybrid that does not set seed, preventing the invasive spread that plagues common comfrey. It produces large, vigorous leaf growth and can be harvested 4-6 times per [[savory-growing-season-and-non-growing-season-management]]. Developed by Lawrence Hills at the Henry Doubleday Research Association in the 1950s
+- **Nitrogen (N)**: 1.5-3% — significant nitrogen content that supports [[savory-growing-season-and-non-growing-season-management]]. Developed by Lawrence Hills at the Henry Doubleday Research Association in the 1950s
 - **Symphytum officinale (common comfrey)**: The wild species, native to Europe. It sets viable seed and can become invasive in garden settings. While equally useful for fertilizer production, it is less preferred due to its weedy tendency. Common comfrey is also the source of pyrrolizidine alkaloids (PAs) that raise safety concerns for internal use
 
 Other Bocking cultivars (1, 2, 4, 7, etc.) were developed by HDRA for various purposes, but Bocking 14 remains the standard for organic fertilizer production due to its high yield, sterility, and nutrient content.
@@ -117,8 +106,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[dom]]
 - [[symphytum-officinale]]
-- [[permaculture]]
 - [[query-how-to-make-comfrey-tea-fertilizer]]
 - [[nettle-tea-liquid-fertilizer]]

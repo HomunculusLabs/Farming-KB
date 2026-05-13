@@ -10,8 +10,7 @@ type: concept
 
 # Psilocybin Serotonin Pathways and Environmental Chemistry
 
-Simon G. Powell's The [[powell-psilocybin-solution-ecological-cognition-theory]] presents a provocative argument
-about the relationship between diet, [[bloomfield-cordyceps-summit-disease-brain-chemistry-manipulation]], and consciousness.
+Simon G. Powell's The [[bloomfield-cordyceps-summit-disease-brain-chemistry-manipulation]], and consciousness.
 The book explores how serotonin, the neurotransmitter that psilocybin
 primarily acts upon, is fundamentally bound up with the chemistry of the
 natural environment, raising profound questions about the nature of
@@ -58,10 +57,7 @@ interaction of environmental chemistry with neuronal architecture.
 Having established the environmental basis of neurotransmitters, Powell
 argues that the psilocybin experience is wholly natural. It arises out of
 an environmentally driven alteration in brain chemistry, insofar as the
-[[psilocybin-mushroom]] is part of the natural environment. There is nothing
-artificial about this process. Just as we can selectively pick wheat to
-make bread for physical well-being, so too can we selectively consume
-natural [[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]] for spiritual well-being.
+[[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]] for spiritual well-being.
 
 Both wheat and mushroom are legitimate natural expressions of the Gaian
 system within which we are embedded. Natural [[cap-versus-stem-alkaloid-distribution-in-psilocybin-mushrooms]] can
@@ -73,7 +69,7 @@ departures from normal consciousness.
 
 ## The Mushroom as Medicine
 
-Powell draws upon Arthur Koestler's work to explore the potential of
+Powell draws upon [[arthur-koestler]]'s work to explore the potential of
 psilocybin as a therapeutic agent. Koestler's Ghost in the Machine
 documented mankind's violent, paranoid, destructive streak and argued
 that our only hope for survival is to develop techniques that supplant

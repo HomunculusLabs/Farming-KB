@@ -76,11 +76,7 @@ Over-collection by alpine plant enthusiasts has historically impacted some acces
 
 ## See Also
 
-- [[campanula-cochlearifolia]]
 - [[campanula-pulla]]
-- [[campanula-zoysii]]
 - [[campanula-raineri]]
-- [[campanula-morettiana]]
 - [[campanula-saxatilis]]
-- [[campanula-carpatica]]
 - [[campanula-garganica]]

@@ -14,8 +14,7 @@ sources:
 Leonurus sibiricus, commonly known as Siberian motherwort or
 marihuanilla (little marijuana), is an annual or biennial herb in
 the family Lamiaceae native to Siberia, Mongolia, China, and
-other parts of [[neurotropic-fungi-japan-east-asia-species-cultural-context]]. It has spread widely as an introduced
-species across the Americas, Europe, and [[psilocybe-southeast-asia-pacific]], often
+other parts of [[psilocybe-southeast-asia-pacific]], often
 growing as a weed in disturbed areas. The plant is valued in
 traditional Chinese medicine (where it is called yi mu cao) and
 has gained attention in ethnobotanical circles for its mildly
@@ -43,48 +42,92 @@ cannabis is prohibited.
 The species was first described by Carl Linnaeus in 1753.
 Synonyms include Leonurus sibiricus var. grandiflorus, Leonurus
 artemisia (a misapplied name), and Stachys sibirica. It is
-closely related to [[leonurus-cardiaca-entity]] (common motherwort), which
-is the more widely known medicinal species in Western herbalism.
-The genus name derives from the Greek 'leon' (lion) and 'oura'
-(tail), referring to the appearance of the inflorescence.
-
-## Description
-
-### Growth Habit and Morphology
-
-- **Habit:** Erect annual or biennial herb, 30-120 cm tall
-- **Stem:** Square (characteristic of Lamiaceae), branched, pubescent
-- **Leaves:** Opposite, simple, palmately lobed; lower leaves long-petiolate with 5 lobes, upper leaves smaller with 3 lobes; dark green, rough-textured
-- **Flowers:** Whorled in axillary clusters; calyx tubular, 5-toothed; corolla bilabiate, white to pink or purplish, 10-14 mm long; flowering July-September
-- **Fruit:** Schizocarp of 4 nutlets, ovoid, brown, ~2.5 mm long
-- **Root:** Taproot, fibrous lateral roots
-
-### Key Distinguishing Features
-
-| Feature | L. sibiricus | L. cardiaca |
-|---------|-------------|-------------|
-| Plant height | 30-120 cm | 60-150 cm |
-| Leaf lobes | 5 (lower), 3 (upper) | 3-5 palmate |
-| Flower color | White to pink | Pale pink |
-| Corolla length | 10-14 mm | 8-12 mm |
-| Native range | East Asia | Europe, C. Asia |
-
-## Distribution and Habitat
-
-- **Native range:** Siberia, Mongolia, northern China, Korea, Japan
-- **Introduced range:** Widespread in [[psilocybin-north-america-pacific-northwest]], Central and [[guzman-psilocybin-mushrooms-south-america]] (especially Mexico and Brazil), Europe, Southeast Asia
-- **Habitat:** Disturbed areas, roadsides, waste places, fields, riverbanks
-- **Elevation:** 0-2000 m
-- **Climate:** Temperate to subtropical; cold-hardy to -20°C
-- **Soil:** Adaptable to a wide range; prefers well-drained loamy soils
-
-In parts of Mexico and Brazil, L. sibiricus has become
-naturalized and is locally harvested for its psychoactive
-properties. In Chiapas, Mexico, it is sold in markets as
-'marihuanilla' and smoked alone or mixed with other herbs. Its
-weedy habit and prolific [[cervantes-seed-production-storage]] make it a successful
+closely related to [[psilocybin-north-america-pacific-northwest]], Central and [[cervantes-seed-production-storage]] make it a successful
 colonizer of disturbed habitats.
 
 ## Chemistry and Active Compounds
 
 | Compound | Class | Concentration | Activity |
+
+## Overview
+
+Leonurus Sibiricus represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish leonurus sibiricus
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving leonurus extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Leonurus Sibiricus finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for leonurus sibiricus. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+leonurus sibiricus and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Leonurus Sibiricus has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of leonurus sibiricus into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[leonotis-leonurus]]
+- [[leonurus-cardiaca-entity]]
+- [[leonurus-japonicus]]

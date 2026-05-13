@@ -46,17 +46,7 @@ The calyx is shorter than the corolla tube and bears five narrow lobes. Flowerin
 
 The fruit is a dry, two-valved capsule containing numerous small, light brown seeds. Seeds are wind-dispersed and require light for germination.
 
-This species is distinguished from the closely related [[gentiana-acaulis]] by its shorter calyx lobes and absence of green stripes inside the corolla tube. The two species are frequently confused in cultivation and in older botanical literature.
-
-## Distribution and Habitat
-
-Gentiana clusii is endemic to the mountain ranges of central and southern Europe. Its range extends from the Pyrenees through the Alps to the Carpathians and the mountains of the Balkan Peninsula.
-
-Notable populations occur in the Swiss Alps, the Dolomites of Italy, the Austrian Limestone Alps, and the High Tatras of Slovakia and Poland. Isolated populations are also found in the Jura Mountains and the Vosges.
-
-It grows at elevations between 1,500 and 3,000 meters, inhabiting alpine meadows, rocky grasslands, and scree slopes. The species prefers calcareous (limestone) substrates, which distinguishes it ecologically from Gentiana acaulis that favors acidic soils.
-
-Typical habitats include short alpine turf, limestone pavements, and crevices in calcareous rock outcrops. It thrives in full sun to light shade and requires excellent drainage with consistent moisture during [[query-how-to-protect-plants-from-frost-and-extend-the-growing-season]].
+This species is distinguished from the closely related [[query-how-to-protect-plants-from-frost-and-extend-the-growing-season]].
 
 Populations are often localized, restricted to bands of suitable limestone geology within mountain ranges. In the Dolomites and Northern Calcareous Alps, the species can be locally abundant on south-facing slopes.
 
@@ -74,11 +64,9 @@ Seed-grown plants may take 3–5 years to reach flowering size. Patience is requ
 
 **Watering:** Keep moderately moist during active growth but avoid waterlogging at all times. Winter wet is a primary cause of losses in cultivation.
 
-[[query-what-is-the-difference-between-a-casing-layer-and-a-top-dressing]] of limestone chips around the crown helps prevent crown rot and maintains the alkaline soil conditions the species requires. Mulching with grit also deters slugs.
+[[primula-auricula]] in rock garden settings.
 
-**Companion plants:** It pairs well with other lime-loving alpines such as Saxifraga, Androsace, and [[primula-auricula]] in rock garden settings.
-
-**[[mushroom-pests-and-diseases]]:** [[jadam-pesticide-for-slugs-and-snails]] can damage new growth in spring. Crown rot occurs in poorly drained soils and is the most common cause of plant death in cultivation.
+**[[jadam-pesticide-for-slugs-and-snails]] can damage new growth in spring. Crown rot occurs in poorly drained soils and is the most common cause of plant death in cultivation.
 
 ## Ecological Role
 
@@ -87,3 +75,75 @@ Gentiana clusii is pollinated primarily by bumblebees (Bombus spp.) that are str
 The species contributes to alpine biodiversity by providing an important early-season nectar source. Its flowering period coincides with the emergence of many overwintering bumblebee queens.
 
 In its native limestone grasslands, it is an indicator species for calcareous alpine turf communities. These communities are among the most species-rich plant assemblages in Europe at small spatial scales.
+
+## Overview
+
+Gentiana Clusii represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish gentiana clusii
+from related concepts in [[permaculture]] and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving gentiana extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Gentiana Clusii finds practical application in multiple design contexts.
+[[permaculture-principles]] guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for gentiana clusii. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+gentiana clusii and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Gentiana Clusii has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of gentiana clusii into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions

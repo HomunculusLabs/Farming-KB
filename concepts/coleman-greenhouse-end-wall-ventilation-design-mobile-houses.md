@@ -1,6 +1,6 @@
 ---
 title: "Greenhouse End-Wall Ventilation: High-Low Systems for Mobile Houses"
-source: "[[eliot-coleman]] - The [[cold-house-winter-harvest-system]] Handbook"
+source: "cold-house-winter-harvest-system Handbook"
 source_path: "raw/papers/eliot-coleman-winter-harvest-handbook.md"
 topics: [coleman, winter-harvest, greenhouse-design, end-wall-ventilation, ventilation, mobile-greenhouse, roll-up-door, wiggle-wire, passive-ventilation]
 ---
@@ -9,14 +9,7 @@ topics: [coleman, winter-harvest, greenhouse-design, end-wall-ventilation, venti
 
 ## Overview
 
-End-wall ventilation is the primary method for managing temperature and airflow in Coleman's [[mobile-greenhouses]]. Unlike static greenhouses that may rely on roll-up sidewalls or ridge vents, the end-wall approach is specifically designed for movable structures that track across multiple plots throughout the year. The design has evolved through three generations: sliding houses, rolling houses on skids, and the current wheeled houses on rails, each improving on the ventilation capabilities of the last.
-
-## The Length-to-Width Ratio Principle
-
-The fundamental constraint governing end-wall ventilation effectiveness:
-
-- Summer ventilation through end walls alone is adequate as long as the greenhouse length is no more than **three times its width**
-- Beyond this ratio, dead-air spots develop in the center of the house where stagnation prevents proper [[blesching-cannabis-fever-temperature-regulation]]
+End-wall ventilation is the primary method for managing temperature and airflow in Coleman's [[blesching-cannabis-fever-temperature-regulation]]
 - This is one of the primary reasons Coleman's newer greenhouses are 22 feet wide by 48 feet long (a ratio of 2.18:1, well within the safe range)
 - The previous generation of houses was 30 by 100 feet (3.33:1), which exceeded the end-wall ventilation threshold
 
@@ -40,31 +33,7 @@ A strip of plastic covers the space between a permanent crossbar (installed bene
 
 ### Second Generation: Improved Design for Rolling Houses
 
-Moving to wheels on rails eliminated the need for the structural crossbar, since directional stability of the leading edge is assured by the rail system. This freed up the entire end wall for [[coleman-greenhouse-ventilation-design]]:
-
-- **12-foot-wide opening** at both ends — a dramatic increase from the 8-foot opening of the sliding house design
-- **2-foot-wide winter access door** positioned between the large opening and the sidewall for cold-weather entry without opening the full end
-- The wide doorway is covered with a plastic sheet attached to a pipe at both top and bottom, creating essentially a roll-up (or roll-down) end wall
-
-### Wiggle-Wire Channel Integration
-The plastic door sheet is secured at the top and upper sides with wiggle-wire channel:
-
-- The bottom edge is held down with sandbags rather than permanently fixed, allowing flexible ventilation management
-- The wiggle-wire system allows quick clipping and unclipping of the plastic for rapid ventilation adjustments
-
-## Ventilation Management by Season
-
-### Winter Ventilation (Primary Concern: Cold Air Drafting)
-The most critical concern in winter ventilation is preventing cold air from entering at soil level and flowing directly across crops:
-
-- **Method**: Unclip the wiggle wire across the top and upper sides of one or both ends and drop the plastic sheet down
-- **Opening size**: Adjusted to provide the minimum ventilation needed — open as large an area as required
-- **Cold air protection**: Since the plastic drops from the top, neither snow nor cold air can blow in across the crops at soil level
-- **Timing**: Close up the opening in the evening when temperatures drop
-- **Wind bracing**: A wind brace is added in winter to secure the large plastic door sheet and prevent flapping; this brace is removed for summer access
-
-### Spring Ventilation (Primary Concern: Frost + Stagnation)
-[[coleman-overwintered-onions-and-early-spring-crops]] presents a transitional challenge:
+Moving to wheels on rails eliminated the need for the structural crossbar, since directional stability of the leading edge is assured by the rail system. This freed up the entire end wall for [[coleman-overwintered-onions-and-early-spring-crops]] presents a transitional challenge:
 
 - Once snow is no longer a problem, the door can be rolled up from the bottom during the day and down at night, functioning like a roll-up sidewall
 - When cold air drafting directly across crops might be detrimental, a 2-foot-wide piece of plastic is stretched horizontally across the bottom of the door opening as an **air barrier**
@@ -117,8 +86,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[det]]
 - [[coleman-mobile-greenhouse-design-and-operation]]
-- [[coleman-greenhouse-ventilation-design]]
 - [[coleman-mobile-greenhouse-crop-rotation-design]]
 - [[coleman-mobile-greenhouse-rotation-design-two-three-four-plot-systems]]

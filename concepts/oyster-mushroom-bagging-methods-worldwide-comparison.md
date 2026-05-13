@@ -1,6 +1,6 @@
 ---
 title: Oyster Mushroom Bagging Methods Worldwide Comparison
-source: "MushWorld - [[oyster-mushroom-cultivation]] (Mushrooms Handbook Vol. 1)"
+source: "MushWorld - oyster-mushroom-cultivation (Mushrooms Handbook Vol. 1)"
 topic: mushroom-cultivation
 tags: [oyster-mushroom, bagging, cultivation, substrate, worldwide, packaging]
 ---
@@ -20,16 +20,7 @@ risk, and overall yield.
 
 The prepared substrate mixture is usually filled into bags before heat-treatment,
 though some growers pasteurise or sterilise in bulk and fill bags afterward. The
-first method is recommended to minimise [[fungicide-treated-seed-contamination-risk-mushroom-substrate]].
-
-After filling and compressing, a 2–3 cm diameter hole in the centre allows for
-inoculation down at the bottom of the bag. This permits deeper inoculation and
-better oxygen supply, encouraging faster colonisation. Growers who don't compact
-the bags don't always need to make an inoculation hole.
-
-Proper ventilated sealing is critical. Mycelia need oxygen to breathe, so
-breathable plugs or stoppers with cotton balls or breathable micro-filters
-provide free [[growing-gourmet-growing-room-ventilation-air-exchange]] while filtering out contaminants.
+first method is recommended to minimise [[growing-gourmet-growing-room-ventilation-air-exchange]] while filtering out contaminants.
 
 ## Country-Specific Methods
 
@@ -87,3 +78,7 @@ polyethylene ducting cut into 2-metre columns (50 cm diameter) with metal
 support, holding approximately 50 kg of substrate. Small-scale growers use
 small plastic bags containing about 20 kg of substrate with holes punched for
 aeration and mushroom maturation.
+
+## See Also
+
+- [[oyster-mushroom-spawning-methods-worldwide-comparison]]

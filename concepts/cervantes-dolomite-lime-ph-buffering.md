@@ -18,22 +18,7 @@ type: concept
 # Dolomite Lime and pH Buffering for Cannabis
 
 **Source:** Marijuana Horticulture: The Indoor/Outdoor Medical Grower's Bible
--- [[jorge-cervantes]]
-
-## Overview
-
-Fine Dolomite Lime has long been a favorite pH stabilizer for gardeners.
-It is difficult to apply too much as long as it is thoroughly mixed into
-soil. Dolomite has a neutral pH of 7, and it can never raise the pH
-beyond 7.0. It stabilizes the pH safely. Dolomite, a compound of
-magnesium (Mg) and calcium (Ca), is popular among indoor and outdoor
-growers in rainy climates with acidic soil.
-
-## Application Rates
-
-When planting, add one cup of fine dolomite lime to each cubic foot (one
-ounce per gallon) of planting medium to stabilize the pH and provide
-[[dynamic-accumulator-plants-calcium-and-magnesium]]. The general rule of thumb is to add 1 to 2 pounds
+-- [[dynamic-accumulator-plants-calcium-and-magnesium]]. The general rule of thumb is to add 1 to 2 pounds
 (0.5 to 0.9 kg) of dolomite lime to each cubic foot of soil.
 
 Commercial potting soil almost never has a pH above 7.5. A lower pH is
@@ -56,20 +41,7 @@ fertilizer regimen and regular leaching helps flush away toxic salts.
 When purchasing, look for dolomite flour, the finest fast-acting dust-like
 grade available. Coarse dolomite could take a year or more before it
 becomes available for uptake by roots. Mix dolomite flour thoroughly with
-the [[cervantes-green-algae-growing-medium]] before planting. Improperly mixed, dolomite will
-stratify, forming a cake or layer that burns roots and repels water.
-
-## Dolomite vs. Other Lime Products
-
-### Hydrated Lime
-Contains only calcium and no magnesium. Water-soluble and fast-acting,
-hydrated lime alters pH quickly. Mix thoroughly with warm water and apply
-with each watering for fast results. Many growers use a mix of 0.25 cup
-hydrated lime and 0.75 cup dolomite lime. Hydrated lime is immediately
-available, whereas the slower-acting dolomite buffers the pH over the
-long term. Do not use more than 0.5 cup of hydrated lime per cubic foot
-of soil. The beauty of hydrated lime is that it washes out of soil in
-about two weeks. Hydrated lime is also used as a [[cannabis-grow-room-setup]] fungicide:
+the [[cannabis-grow-room-setup]] fungicide:
 sprinkle on the floor and around the room to kill fungus on contact.
 
 ### Quicklime (Calcic Lime)
@@ -82,12 +54,7 @@ use quicklime; it is toxic to plants.
 Dolomite lime adjusts and balances the pH and makes phosphates more
 available. It is generally applied to sweeten or de-acidify soil. It
 consists of calcium and magnesium, and is sometimes listed as a primary
-nutrient, though generally referred to as a [[cervantes-secondary-nutrient-deficiency]].
-
-If growing in a soil or soilless mix with a pH below 7, incorporating
-one cup of fine dolomite lime per gallon of medium ensures adequate
-supplies of calcium and magnesium. This is particularly important for
-preventing [[query-how-to-fix-magnesium-deficiency-in-cannabis]], which is common indoors, especially in
+nutrient, though generally referred to as a [[query-how-to-fix-magnesium-deficiency-in-cannabis]], which is common indoors, especially in
 
 ## Practical Applications
 
@@ -118,8 +85,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[cervantes-hydrated-lime-quicklime-ph-adjustment]]
 - [[mollison-designers-lime-and-cement-natural-building]]
-- [[fukuoka-textdoc-soil-self-regulation-failure-lime-correction]]
 - [[growing-gourmet-gypsum-lime-ph-management]]
 - [[solomon-lime-types-agricultural-dolomitic-gypsum-ph-myth-organic-garden]]

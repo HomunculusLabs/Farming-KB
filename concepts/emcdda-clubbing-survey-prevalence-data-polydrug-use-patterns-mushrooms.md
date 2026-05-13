@@ -1,11 +1,10 @@
 # EMCDDA Clubbing Survey Prevalence Data and Polydrug Use Patterns with Mushrooms
 
 ## Source
-*EMCDDA (2006) — [[emcdda-hallucinogenic-mushrooms-emerging-trend-europe]]: An [[emcdda-epod-project-emerging-trend-detection-methodology]] Case Study*
+*EMCDDA (2006) — [[emcdda-epod-project-emerging-trend-detection-methodology]] Case Study*
 
 ## Summary
-The EMCDDA's 2006 case study compiled targeted [[emcdda-hallucinogenic-mushroom-clubbing-surveys-and-prevalence]] from across Europe
-that revealed dramatically higher hallucinogenic [[emcdda-mixmag-survey-magic-mushroom-prevalence-trends-2000-2005]] among dance
+The EMCDDA's 2006 case study compiled targeted [[emcdda-mixmag-survey-magic-mushroom-prevalence-trends-2000-2005]] among dance
 music and nightclub populations compared to general population surveys. These
 non-probability surveys, conducted in Belgium, France, Hungary, Italy, the
 Netherlands, and the UK between 1999 and 2005, demonstrated that mushroom use was
@@ -78,48 +77,6 @@ The 2004 Mixmag survey reported that the average age for first use of
 hallucinogenic mushrooms was between 18 and 19 years old. Among the 305
 individuals who had used mushrooms, over half planned to take them again.
 The most commonly used variety was "Mexican" mushrooms, referring primarily to
-Psilocybe [[psilocybe-cubensis-strains-names-and-marketing]] cultivated in the Netherlands and sold through
-smartshops.
-
-The age of first use — 18-19 — was significant because it was older than the
-typical initiation age for alcohol, tobacco, and cannabis (usually 14-16) but
-roughly aligned with first use of ecstasy and other dance drugs. This suggested
-that mushroom use was not typically a first drug but rather emerged within a
-sequence of drug experimentation that began with more accessible substances.
-
-## The Norwegian Organic Lifestyle Milieu
-
-## Practical Applications
-
-The principles and techniques discussed here have wide-ranging applications
-across multiple disciplines and contexts. Practitioners and researchers
-continue to explore new ways to integrate these concepts into modern practice,
-adapting traditional knowledge to contemporary challenges and opportunities.
-
-## Key Considerations
-
-Several important factors influence the effectiveness and outcomes described
-in this topic. Understanding these considerations helps practitioners make
-informed decisions and avoid common pitfalls. Environmental conditions,
-timing, and material selection all play critical roles.
-
-## Historical Context
-
-The historical development of this subject reflects centuries of accumulated
-knowledge and practical experience. From traditional methods passed down
-through generations to modern scientific approaches, the evolution continues
-to inform current best practices and research directions.
-
-## Common Challenges
-
-Practitioners frequently encounter several challenges when working with
-these concepts. Climate variability, resource limitations, and knowledge
-gaps can all affect outcomes. Addressing these challenges requires patience,
-observation, and a willingness to adapt approaches based on results.
-
-## See Also
-- [[mdma]]
-- [[det]]
+Psilocybe [[mdma]]
 - [[cocaine]]
-- [[smartshops]]
 - [[ketamine]]

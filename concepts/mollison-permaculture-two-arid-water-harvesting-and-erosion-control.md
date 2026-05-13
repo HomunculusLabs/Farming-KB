@@ -83,12 +83,10 @@ The recommended ratio for runoff catchment to garden area is 16 to 20 to 1. A do
 
 ---
 
-See [[bill-mollison-permaculture-a-designers-manual-water-harvesting-and-earthworks]] for more on Bill Mollison Permaculture A Designers Manual Water Harvesting And Earthworks.
-See [[query-what-are-the-benefits-of-straw-mulch-in-the-garden-and-how-do-i-use-it]] for more on Query What Are The Benefits Of Straw Mulch In The Garden And How Do I Use It.
+See [[query-what-are-the-benefits-of-straw-mulch-in-the-garden-and-how-do-i-use-it]] for more on Query What Are The Benefits Of [[straw-mulch-in-agriculture]] The Garden And How Do I Use It.
 
 ## See Also
 
-- [[organic-vegetable-growing-calendar]]
 - [[permaculture-earthworks-and-water-harvesting]]
 - mollison-arid-settlement-home-garden-design
 - mollison-arid-lands-design-and-erosion-control

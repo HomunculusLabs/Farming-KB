@@ -1,9 +1,6 @@
 # Short-Day and Long-Day Plant Flowering Classification
 
-Plants are classified by their [[mollison-designers-day-length-and-flowering-response]] to photoperiod (day length) into
-three major categories: short-day plants, long-day plants, and day-neutral plants.
-This classification, arising from the work of Wightman W. Garner and Harry A.
-Allard in 1918, is fundamental to both plant biology and [[chrysanthemum-night-interruption-flowering-commercial-horticulture]].
+Plants are classified by their [[chrysanthemum-night-interruption-flowering-commercial-horticulture]].
 
 ## Short-Day Plants (SDP)
 
@@ -50,7 +47,7 @@ implications for growers managing crops across different seasons and latitudes.
 
 ## The Maryland Mammoth: Founding Example
 
-The [[maryland-mammoth-tobacco-and-the-discovery-of-photoperiodism]] began with [[garner-allard-maryland-mammoth-tobacco-experiment]], a strain
+The [[garner-allard-maryland-mammoth-tobacco-experiment]], a strain
 that appeared in southern Maryland around 1906. This remarkable plant could reach
 four and a half metres in height and produce almost a hundred leaves, but rarely
 flowered — a serious problem for farmers who needed seed for the next crop.
@@ -112,14 +109,11 @@ maintain flowering. This characteristic has made photoperiod control central to
 both indoor and outdoor cannabis cultivation. Indoor growers maintain 18/6 or
 24/0 light cycles during the vegetative phase and switch to 12/12 to trigger
 flowering. Outdoor growers must plan planting schedules around natural day-length
-changes at their latitude. [[autoflowering-cannabis]] varieties, which carry
-[[cannabis-ruderalis]] genetics, are day-neutral and flower based on age rather than
+changes at their latitude. [[cannabis-ruderalis]] genetics, are day-neutral and flower based on age rather than
 photoperiod, offering advantages in regions with short growing seasons.
 
 ## See Also
 
-- [[photoperiodism-garner-allard-discovery]]
 - [[night-interruption-photoperiodism]]
-- [[chamovitz-maryland-mammoth-photoperiodism-discovery]]
 - [[blesching-cannabinoid-pharmacology]]
 - [[phytochrome-ecological-red-far-red-dusk-dawn-signaling]]

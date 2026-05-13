@@ -1,6 +1,6 @@
 ---
 title: "Psilocybe Infrageneric Sections and Neurotropic Species Classification"
-source: "Guzmán, Allen & Gartz (1998) - Worldwide Geographical [[distribution-of-neurotropic-fungi]] Fungi"
+source: "Guzmán, Allen & Gartz (1998) - Worldwide Geographical distribution-of-neurotropic-fungi Fungi"
 mined: 2026-05-10
 tags: [mycology, psilocybe, taxonomy, neurotropic-fungi, guzman, classification]
 ---
@@ -19,74 +19,12 @@ The following sections of *Psilocybe* contain species with confirmed or strongly
 
 - Contains high-elevation species growing in subalpine and alpine habitats
 - *P. aztecorum* var. *aztecorum*: Found only in the high mountains of Mexico at elevations up to 4,000 m. This is one of the most iconic neurotropic species, named after the Aztec civilization.
-- *P. baeocystis*: Known from the [[psilocybin-north-america-pacific-northwest]] of North America (Oregon, Washington, British Columbia).
-- *P. quebecensis*: Recorded from Quebec, Canada.
-- These three species share a close phylogenetic relationship despite their disjunct geographic distribution across North America.
-
-### Section Mexicanae
-
-- Species in this section form sclerotia (hardened masses of mycelium) as a survival mechanism against adverse environmental conditions.
-- *P. mexicana*: The type species of the section, sacred to the Mazatec people of Oaxaca, Mexico. One of the most well-documented entheogenic mushrooms.
-- *P. tampanensis*: Known from Florida, famous for producing sclerotia sold as "philosopher's stones" or "magic truffles."
-- *P. samuiensis*: From Koh Samui, Thailand — demonstrates the trans-Pacific distributional link between Southeast Asian and Mesoamerican species.
-- *P. makarorae*: From New Zealand, closely related to *P. mexicana* from Mexico and Guatemala.
-
-### Section Zapotecorum
-
-- Named after the Zapotec people of Oaxaca, Mexico, who traditionally used these species.
-- *P. zapotecorum*: One of the most widely distributed neurotropic species, found from Mexico through South America.
-- *P. aucklandii*: From New Zealand, closely related to *P. zapotecorum*, illustrating the Gondwanan distribution pattern.
-- *P. muliercula*: Known as "mujercitas" (little women) by the indigenous peoples of the Nevado de Toluca region in Mexico.
-- *P. pintonii*: Colombian species closely related to Mexican *P. zapotecorum*.
-- *P. graveolens*: Another species with trans-American distributional ties.
-
-### Section Cubensies
-
-- Contains the most widely cultivated and commercially significant neurotropic mushroom.
-- *P. cubensis*: Pantropical distribution, the most common recreational species worldwide. Frequently found in cow pastures across tropical and subtropical regions. Known by numerous common names including "san isidros" in Mexico.
-
-### Section Semilanceatae
-
-- *P. semilanceata* (liberty cap): The most common wild [[european-hallucinogenic-mushroom-prevalence-and-trends]]. Found in temperate grasslands across Europe, India, Russia, North America, Chile, Peru, New Zealand, and Australia. Notably absent from Mexico despite its abundance elsewhere.
+- *P. baeocystis*: Known from the [[european-hallucinogenic-mushroom-prevalence-and-trends]]. Found in temperate grasslands across Europe, India, Russia, North America, Chile, Peru, New Zealand, and Australia. Notably absent from Mexico despite its abundance elsewhere.
 - This species has a wide temperate distribution but shows an unusual gap in its range where Mexico is concerned.
 
 ### Section Subaeruginosae
 
-- Species from this section are found primarily in the [[guzman-allen-gartz-africa-southern-hemisphere-underexplored-neurotropic-fungi]].
-- *P. subaeruginosa*: Australian species, one of the most potent wild psilocybin mushrooms.
-- Related species are found across Australasia.
-
-### Section Stuntzae
-
-- *P. stuntzii*: Restricted to the Pacific Northwest of North America.
-- Named after mycologist Alexander H. Smith.
-
-### Section Brunneocystidiatae
-
-- Contains species with brown cystidia, a microscopic feature useful in taxonomic identification.
-
-### Section Cordisporae
-
-- Species characterized by heart-shaped spores, including several from Mesoamerican and South American forests.
-
-## Non-Bluing Excluded Species
-
-Guzmán explicitly excluded certain species from the neurotropic list despite conflicting reports in the literature:
-
-- *P. atrobrunnea*: Reported as neurotropic by Høiland (1978), but likely a misidentification of *P. coprinifacies* or *P. mairei*, neither of which are neurotropic.
-- *P. coprophila*: A common dung-inhabiting species sometimes found mixed with neurotropic species in commercial collections, leading to contaminated chemical analyses.
-- *P. pseudobullacea*: A non-bluing species with no confirmed neurotropic properties, despite Marcano et al. (1994) reporting psilocybin from Venezuelan specimens — probably a misidentified species.
-
-## Taxonomic Framework
-
-The classification follows Guzmán (1983, 1995), which modified Singer's (1986) system by excluding Section Chrysocystidiatae. The authors do not follow Kühner and Romagnesi's broader concept that lumps *Psilocybe*, *Hypholoma*, and *Stropharia* into a single genus. Species of *Psilocybe* sensu Noordeloos (1995) are not accepted in this framework (e.g., *P. aeruginosa*, *P. albonitens*, *P. aurantiaca*, *P. capnoides*).
-
-## Geographic Concentration
-
-Of the 116 neurotropic *Psilocybe* species:
-- Mexico alone has 44 species (39% of the world total)
-- 34 of Mexico's 42 known neurotropic species are from mesophytic (cloud) forests
-- The majority of species are concentrated in or near the [[biogeography-austral-hemisphere-fungi]]
+- Species from this section are found primarily in the [[biogeography-austral-hemisphere-fungi]]
 - The highest diversity centers are in Mexico, the Caribbean, Mesoamerica, and Colombia
 - South America, New Guinea, eastern Australia, and New Zealand also show high diversity but remain underexplored
 
@@ -124,3 +62,88 @@ The infrageneric section classification provides a practical framework for field
 - Guzmán, G. (1983). The genus Psilocybe: A systematic monograph of the psilocybin mushrooms. J. Cramer, Vaduz.
 - Guzmán, G. (1995). Supplement to the monograph of the genus Psilocybe. Bibliotheca Mycologica, 159.
 - Singer, R. (1986). The Agaricales in Modern Taxonomy, 4th ed. Koeltz, Koenigstein.
+
+## Overview
+
+Guzman Allen Gartz Psilocybe Infrageneric Sections And Neurotropic Species represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish guzman allen gartz psilocybe infrageneric sections and neurotropic species
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving guzman extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Guzman Allen Gartz Psilocybe Infrageneric Sections And Neurotropic Species finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for guzman allen gartz psilocybe infrageneric sections and neurotropic species. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+guzman allen gartz psilocybe infrageneric sections and neurotropic species and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Guzman Allen Gartz Psilocybe Infrageneric Sections And Neurotropic Species has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of guzman allen gartz psilocybe infrageneric sections and neurotropic species into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[guzman-allen-gartz-cyanescens-complex-coprinifacies-bohemica-european-taxonomy]]
+- [[guzman-allen-gartz-mixtec-narcotic-puffballs-ott-investigation]]
+- [[guzman-allen-gartz-neurotropic-fungi-europe]]
+- [[guzman-allen-gartz-northern-southern-hemisphere-mycobiota-convergence-mexico]]
+- [[guzman-global-distribution-patterns-neurotropic-fungi]]

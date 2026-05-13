@@ -25,15 +25,10 @@ sufficiency and land restoration.
 
 ## Hugelkultur: The German Mound
 
-Hugelkultur is a [[comparison-chinampas-vs-raised-bed-gardening]] built with organic material at its core. The
-advantages are extensive: it enlarges the area for cultivation, creates
-microclimates, allows easy access due to its height, and improves soil
-through decomposing [[hamilton-composting-and-organic-matter-management]]. In wet areas it is often the best or
+Hugelkultur is a [[hamilton-composting-and-organic-matter-management]]. In wet areas it is often the best or
 only way to grow various plants because it dries quicker than the ground. It
-can also serve as a [[holzer-urban-gardening-rubbish-hugelkultur]]
-
-- [[holzer-water-landscapes-retention]] for the water foundation
-- [[permaculture-zones-in-practice]] for [[mollison-course-zone-planning-and-design]]
+can also serve as a [[holzer-water-landscapes-retention]] for the water foundation
+- [[mollison-course-zone-planning-and-design]]
 ## Practical Applications
 
 Holzer Crater Gardens and Hugelkultur has a range of practical applications that make it relevant to
@@ -97,8 +92,6 @@ through generations to modern scientific approaches, the evolution continues
 to inform current best practices and research directions.
 
 ## See Also
-- [[hugelkultur]]
 - [[doc]]
-- [[chinampas]]
 - [[det]]
 - [[composting]]

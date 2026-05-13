@@ -15,19 +15,12 @@ Sheet mulching is a no-till technique for creating new garden beds, suppressing 
 
 ## What Is Sheet Mulching?
 
-Sheet mulching layers organic materials over the ground to create a rich, weed-free planting bed without digging or tilling. It mimics the natural process of forest floor accumulation where leaves, branches, and [[hamilton-composting-and-organic-matter-management]] build soil in layers.
-
-The basic principle: cardboard or newspaper smothers existing vegetation (especially grass), compost provides nutrients and microbial life, and mulch retains moisture and suppresses new weeds.
-
-## Benefits
-
-- **No tilling required:** Preserves soil structure, [[dighton-mycorrhizal-networks-carbon-transfer]], and soil organisms
+Sheet mulching layers organic materials over the ground to create a rich, weed-free planting bed without digging or tilling. It mimics the natural process of forest floor accumulation where leaves, branches, and [[dighton-mycorrhizal-networks-carbon-transfer]], and soil organisms
 - **Weed suppression:** Cardboard/newspaper blocks light, killing weeds and grass without herbicides
 - **Soil building:** Decomposing layers add organic matter, improve soil structure, and feed microorganisms
 - **Moisture retention:** Mulch layer reduces evaporation significantly
 - **Immediate planting:** Can plant directly into the compost layer once applied
 - **Lawn conversion:** The easiest way to convert grass lawn to garden
-- **[[permplant-willows-salix-erosion-control-fodder]]:** Protects bare soil from rain and wind
 - **[[comparison-nutrient-cycling-vs-nutrient-dense-gardening]]:** All organic material is recycled into soil
 
 ## Materials Needed

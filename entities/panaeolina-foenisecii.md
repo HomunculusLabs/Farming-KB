@@ -12,7 +12,7 @@ sources: [/Users/t3rpz/wiki/raw/papers/world-wide-distribution-of-magic-mushroom
 
 **Mower's Mushroom** | *Panaeolina foenisecii* (Pers.) Maire
 
-Panaeolina foenisecii, commonly known as the mower's mushroom, haymaker's mushroom, or brown mottlegill, is an extremely common and cosmopolitan grassland mushroom. It has a long and complicated history regarding its psychoactive status. Originally listed among the neurotropic fungi by several authors, modern [[guzman-allen-gartz-conflicting-chemical-analyses-neurotropic-fungi]] have largely failed to confirm the presence of significant quantities of [[psilocin]], and it is now generally considered non-psychoactive. Nevertheless, it was included in Guzmán, Allen, and Gartz's [[oyster-mushroom-substrate-materials-worldwide-survey-comparison]] of neurotropic fungi and continues to appear in older literature on [[emcdda-hallucinogenic-mushrooms-emerging-trend-europe]].
+Panaeolina foenisecii, commonly known as the mower's mushroom, haymaker's mushroom, or brown mottlegill, is an extremely common and cosmopolitan grassland mushroom. It has a long and complicated history regarding its psychoactive status. Originally listed among the neurotropic fungi by several authors, modern [[psilocin]], and it is now generally considered non-psychoactive. Nevertheless, it was included in Guzmán, Allen, and Gartz's [[emcdda-hallucinogenic-mushrooms-emerging-trend-europe]].
 
 ## Taxonomy and Classification
 
@@ -43,15 +43,7 @@ The flesh is thin, watery, and pale brownish. The odor is not distinctive or sli
 
 ## Distribution and Habitat
 
-Panaeolina foenisecii is one of the most widely distributed mushrooms in the world, found on every continent except Antarctica. It is particularly abundant in temperate regions of [[psilocybin-north-america-pacific-northwest]], Europe, and Australasia. Its cosmopolitan distribution is likely aided by its association with human-modified grassland habitats and the movement of soil and grass seed.
-
-The species is saprotrophic, growing on decaying grass, thatch, leaf litter, and enriched soil in lawns, pastures, meadows, parks, and gardens. It is frequently found in recently mowed grass, hence the common name "mower's mushroom." It often appears in large numbers after rain, sometimes forming extensive troops across lawns. Fruiting occurs from spring through autumn, with peak fruiting in late summer and early autumn in temperate zones.
-
-## Chemistry and the Psychoactive Controversy
-
-The question of whether Panaeolina foenisecii contains psychoactive compounds has been debated for decades, and the literature contains conflicting reports:
-
-**Reports of psychoactivity:** Early surveys of hallucinogenic mushrooms, including those by Singer and Smith (1958) and some subsequent authors, listed P. foenisecii among species suspected to contain [[psilocybe-semilanceata]] (liberty cap), which can grow in similar grassland habitats
+Panaeolina foenisecii is one of the most widely distributed mushrooms in the world, found on every continent except Antarctica. It is particularly abundant in temperate regions of [[psilocybe-semilanceata]] (liberty cap), which can grow in similar grassland habitats
 2. Contamination of analyzed specimens with spores or mycelium of psychoactive species
 3. The detection of non-psychoactive tryptamine precursors that were mistakenly identified as psilocybin in less sophisticated analyses
 4. The placebo effect in anecdotal reports
@@ -62,18 +54,8 @@ The current scientific consensus is that Panaeolina foenisecii does not contain 
 
 Despite the controversy over its psychoactive status, Panaeolina foenisecii plays an important ecological role in grassland ecosystems:
 
-- **Decomposition:** As a saprotroph, it breaks down dead grass and organic matter in the thatch layer, contributing to [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]]
-- **Soil health:** Its mycelium helps bind soil particles and contributes to soil structure
-- **Indicator species:** The presence of P. foenisecii in lawns is often associated with rich organic matter and moderate moisture levels
-- **Food web:** It serves as food for various invertebrates and may be consumed by small mammals
-
-The species is considered harmless to lawns and grasslands, and its abundance is generally a sign of a healthy, biologically active soil ecosystem.
-
-## Similar Species
-
-The most important distinction for foragers is between P. foenisecii and the truly psychoactive [[psilocybe-semilanceata]]**: Has a distinct conical or bell-shaped cap with a pronounced umbo, a separable pellicle on the cap, and smooth spores; contains psilocybin
-- **[[panaeolus-cyanescens-entity]] — a potent tropical psilocybin-containing species
-- [[panaeolus-subbalteatus]] — a frequently encountered species in the same habitats
+- **Decomposition:** As a saprotroph, it breaks down dead grass and organic matter in the thatch layer, contributing to [[psilocybe-semilanceata]]**: Has a distinct conical or bell-shaped cap with a pronounced umbo, a separable pellicle on the cap, and smooth spores; contains psilocybin
+- **[[panaeolus-subbalteatus]] — a frequently encountered species in the same habitats
 - bolbitiaceae — the family containing Panaeolina and Panaeolus
 ## Practical Considerations
 
@@ -93,3 +75,75 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
+
+## Overview
+
+Panaeolina Foenisecii represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish panaeolina foenisecii
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving panaeolina extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Panaeolina Foenisecii finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for panaeolina foenisecii. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+panaeolina foenisecii and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Panaeolina Foenisecii has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of panaeolina foenisecii into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions

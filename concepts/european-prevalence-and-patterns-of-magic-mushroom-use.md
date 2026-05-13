@@ -10,7 +10,7 @@ tags: [epidemiology, prevalence, europe, hallucinogenic-mushrooms, emcdda, drug-
 
 ## Overview
 
-The European Monitoring Centre for Drugs and Drug Addiction (EMCDDA) 2006 thematic paper on [[emcdda-hallucinogenic-mushrooms-emerging-trend-europe]] provided the most comprehensive snapshot of magic mushroom use patterns across the European Union. The report revealed that while overall prevalence remained considerably lower than for cannabis, [[health-risks-and-harm-reduction-for-hallucinogenic-mushroom-use]] showed a notable increase during the late 1990s and early 2000s, driven by expanding retail availability through smartshops and internet commerce.
+The European Monitoring Centre for Drugs and Drug Addiction (EMCDDA) 2006 thematic paper on [[health-risks-and-harm-reduction-for-hallucinogenic-mushroom-use]] showed a notable increase during the late 1990s and early 2000s, driven by expanding retail availability through smartshops and internet commerce.
 
 ## Prevalence Data
 
@@ -38,17 +38,9 @@ Drug surveys conducted in club environments consistently showed:
 
 - **Higher prevalence** of all illegal drug use compared to general or school population surveys
 - Hallucinogenic mushroom use was **more common among young people who had used other illegal drugs** than among drug-naive individuals
-- Mushroom use in clubs correlated with [[emcdda-clubbing-survey-prevalence-data-polydrug-use-patterns-mushrooms]] (ecstasy, cocaine, amphetamines)
-- Club surveys captured a population segment that was more engaged with drug experimentation trends
+- Mushroom use in clubs correlated with [[psychedelic-substances-comparison]] during the 1960s and their subsequent criminalization in most Western countries, hallucinogenic mushroom use lay relatively dormant for several decades. During this period:
 
-## Temporal Trends
-
-### The Dormant Period (Late 1950s–1990s)
-
-Following the initial wave of interest in [[psychedelic-substances-comparison]] during the 1960s and their subsequent criminalization in most Western countries, hallucinogenic mushroom use lay relatively dormant for several decades. During this period:
-
-- [[hplc-analysis-of-psilocybin-and-psilocin]] were scheduled under the UN Convention on Psychotropic Substances (1971)
-- Most European countries classified psilocybin-containing mushrooms as [[controlled-substances-act-and-psychedelic-research]] by proxy
+- [[controlled-substances-act-and-psychedelic-research]] by proxy
 - Use was largely confined to mycological enthusiasts and subcultural groups
 - Wild foraging remained the primary acquisition method
 
@@ -118,8 +110,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[psilocybin-mushroom]]
 - [[mdma]]
-- [[psilocybin]]
 - [[psilocybin-mushrooms]]
 - [[dom]]

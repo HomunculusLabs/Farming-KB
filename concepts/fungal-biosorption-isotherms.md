@@ -13,22 +13,12 @@ type: concept
 ## Overview
 
 Biosorption is the non-metabolic binding of metal ions to microbial
-[[staycare-degradation-of-plant-cell-wall-polymers-by-fungi]] components. In [[environmental-sensing-filamentous-fungi-read]], biosorption levels
+[[environmental-sensing-filamentous-fungi-read]], biosorption levels
 typically exceed metabolism-dependent bioaccumulation by a significant
 margin. Fungal biosorption has been studied since the 1980s, when
-[[rhizopus-arrhizus]] demonstrated uranium and thorium uptake exceeding
-commercial ion-exchange resins. Biosorption is quantified through
-isotherms that plot metal binding as a function of equilibrium metal
-concentration. Maximum uptake for cationic metals by [[bioremediation-fungal-biomass-biosorbent-material]]
+[[bioremediation-fungal-biomass-biosorbent-material]]
 generally falls in the range of 0.1 to 1.0 mmol metal per gram dry
-weight, making [[dighton-fungal-biomass-nutrient-reservoir-ecosystems]] a potentially valuable biosorbent
-material for treating metal-bearing effluents.
-
-## Biosorption versus Bioaccumulation
-
-Biosorption refers strictly to non-active, non-metabolic binding of
-metals to cellular components. Bioaccumulation more accurately
-describes metabolism-dependent uptake involving [[diffusion-osmosis-and-active-transport-in-plants]] into
+weight, making [[diffusion-osmosis-and-active-transport-in-plants]] into
 the cell interior. For most filamentous fungal species, metabolism-
 dependent uptake is negligible compared with biosorption values.
 Biosorption is largely independent of whether cells are living,
@@ -49,34 +39,11 @@ among the highest reported values. Mucor meihi showed 1.15 mmol per
 gram for chromium(VI). While Penicillium and Aspergillus species were
 initially reported as poor biosorbents, more recent studies have
 shown contrasting evidence with improved performance. Yeasts including
-[[penicillium-chrysogenum]] [[alpha-1-3-glucan-fungal-pathogen-cell-walls]] showed phosphoryl groups
+[[alpha-1-3-glucan-fungal-pathogen-cell-walls]] showed phosphoryl groups
 accounting for up to 95% of binding, with carboxyl groups making up
 5%. At low concentrations, carboxyl groups were preferentially bound
 due to greater affinity. For zinc, carboxyl groups accounted for up
-to 55% of binding by P. chrysogenum and 70% by [[trichoderma-reesei]].
-
-## Binding Interactions
-
-The binding process involves multiple interaction types including
-ion exchange, adsorption, complexation, coordination,
-crystallization, and precipitation. The complexity and likely
-combination of these processes means specific binding details remain
-unresolved. The general model involves an initial binding step
-through either ion exchange (evidenced by ion release) or
-coordination (evidenced by proton release), followed in certain
-conditions by crystallization or precipitation. The hard and soft
-acid-base theory explains selectivity differences based on ionic
-radius and chemical nature of both metal ions and cell wall
-functional groups. Weak complexes form with cadmium, lead, nickel,
-and zinc, while stronger interactions occur with uranyl and
-chromium species.
-
-## Environmental Factors
-
-pH is the most critical factor, with optimum values in the 4 to 7
-range. Below pH 4, hydrogen ion competition diminishes cation uptake.
-Above pH 7, metal hydrolysis causes precipitation, increasing apparent
-removal but complicating interpretation. [[temperature-effects-plant-nutrient-uptake]] are minor,
+to 55% of binding by P. chrysogenum and 70% by [[temperature-effects-plant-nutrient-uptake]] are minor,
 consistent with the non-metabolic nature of biosorption. Biosorbent
 concentration affects uptake through site availability. Metal co-ions
 compete for binding sites and can reduce uptake through competitive
@@ -118,8 +85,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[biosorption-isotherms]]
 - [[det]]
-- [[trichoderma]]
 - [[rhizopus-arrhizus]]
 - [[singh-fungal-biosorption-isotherms-equilibrium-models]]

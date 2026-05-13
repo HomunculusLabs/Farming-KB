@@ -10,9 +10,7 @@ sources:
 
 # Seed Storage for Maximum Viability (Solomon)
 
-From [[solomon-seed-quality-and-germination-testing]]
-- [[cannabis-seed-storage-and-viability]]
-- [[cannabis-grow-room-setup]]
+From [[cannabis-seed-storage-and-viability]]
 - [[cannabis-seed-germination-viability-breeding-clarke]]
 ## Background and Context
 

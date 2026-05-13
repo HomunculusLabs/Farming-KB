@@ -4,13 +4,12 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [vegetables, gardening, cultivation, beginner, soil, troubleshooting]
-sources:
-  - "raw/papers/fukuoka-one-straw-revolution.md"
+sources: []
 ---
 
 ## Overview
 
-Carrots are a [[fukuoka-western-root-vegetable-deficiency]] prized for their sweetness, versatility, and storage capability. They require specific soil conditions but reward the gardener with a high-yielding, nutrient-dense crop. This guide covers soil preparation, [[coleman-winter-greens-variety-selection]], planting, care, harvesting, and common problems.
+Carrots are a root vegetable prized for their sweetness, versatility, and storage capability. They require specific soil conditions but reward the gardener with a high-yielding, nutrient-dense crop. This guide covers soil preparation, variety selection, planting, care, harvesting, and common problems.
 
 ## Soil Preparation
 
@@ -30,13 +29,13 @@ Carrots are demanding about soil texture. Poor soil is the primary cause of fork
 3. Incorporate compost and any needed amendments (phosphorus if deficient)
 4. Rake the surface smooth and level
 5. Create raised rows or beds 4-6 inches tall to improve drainage and depth
-6. [[query-how-to-use-cover-crops-for-heavy-clay-soil-improvement]] soils, consider double-digging or building tall raised beds
+6. For heavy clay soils, consider double-digging or building tall raised beds
 
 ### Improving Heavy Soils
 - Add coarse sand (not fine playground sand) to improve drainage
-- Mix in generous amounts of compost [[jadam-humus-soil-and-leaf-mold-distinction]]
+- Mix in generous amounts of compost and leaf mold
 - Consider growing shorter varieties like Paris Market or Little Finger
-- Over multiple seasons, consistent [[fukuoka-textdoc-composting-critique-futility-prepared-organic-matter]] additions transform heavy soil
+- Over multiple seasons, consistent organic matter additions transform heavy soil
 
 ## Varieties
 
@@ -55,7 +54,7 @@ Carrots are demanding about soil texture. Poor soil is the primary cause of fork
 - **White**: Lunar White, White Satin — mild, crisp
 
 ### By Season
-- **Early**: 50-60 days; sow in [[coleman-overwintered-onions-and-early-spring-crops]]
+- **Early**: 50-60 days; sow in early spring
 - **Main Season**: 65-75 days; sow late spring for summer harvest
 - **Storage**: 70-80 days; sow mid-summer for fall/winter storage
 
@@ -129,11 +128,11 @@ Thinning is essential for properly sized roots. Crowded carrots will be small, t
 
 ### Pests
 - **Carrot rust fly**: Eggs laid near crown; larvae tunnel into roots. Row covers prevent egg-laying. Avoid thinning on windy days when the fly is active
-- **Nematodes**: Cause knotty, galled roots. [[query-what-is-the-best-way-to-rotate-crops-in-a-vegetable-garden]]; marigolds may help repel
-- **Wireworms**: Tunnel into roots. Remove decaying [[hamilton-composting-and-organic-matter-management]] before planting
+- **Nematodes**: Cause knotty, galled roots. Rotate crops; marigolds may help repel
+- **Wireworms**: Tunnel into roots. Remove decaying organic matter before planting
 
 ### Diseases
-- **Alternaria leaf blight**: Brown spots on leaves; improve [[stamets-growing-room-air-circulation-co2-management]], remove affected foliage
+- **Alternaria leaf blight**: Brown spots on leaves; improve air circulation, remove affected foliage
 - **Cercospora leaf spot**: Similar to alternaria; same management approach
 
 ## Harvesting
@@ -141,10 +140,11 @@ Thinning is essential for properly sized roots. Crowded carrots will be small, t
 ### When to Harvest
 - Carrots are usually ready 60-80 days after sowing depending on variety
 - Check size by brushing soil away from the shoulder of a test carrot
-- Best flavor develops after a light frost (sugars concentrate)
-- Do not leave in ground through deep winter freezes in cold zones
 
-### How to Harvest
-- Loosen soil with a fork beside the row before pulling
-- Pull straight up gently; twist slightly if resistant
-- Harvest in the morning for best flavor and crispness
+## See Also
+
+- [[knf-carrot-enzyme-soil-preparation]]
+- [[hamilton-greenhouse-polytunnel-growing]]
+- [[greenhouse-growing]]
+- [[fukuoka-straw-vegetable-growing]]
+- [[holzer-fruit-growing-marginal-climates]]

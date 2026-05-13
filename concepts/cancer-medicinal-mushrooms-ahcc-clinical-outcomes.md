@@ -12,8 +12,7 @@ type: concept
 # AHCC Active Hexose Correlated Compound Cancer Outcomes
 
 Active Hexose Correlated Compound (AHCC) is a proprietary extract
-prepared from the co-cultivation of several [[anemotropism-in-basidiomycete-mushrooms]]
-including [[lentinus-edodes-entity-the-mushroom-cultivator]], [[growing-gourmet-turkey-tail-trametes-versicolor-cultivation]] and [[schizophyllum-commune]]
+prepared from the co-cultivation of several [[lentinus-edodes-entity-the-mushroom-cultivator]], [[schizophyllum-commune]]
 grown on rice (Ghoneum et al., 1995). The exact species complement and
 methods of preparation are not publicly available, making independent
 verification of the product difficult.
@@ -40,45 +39,12 @@ efficacy against hepatocellular carcinoma and other cancers.
 The low molecular weight of AHCC glucans may in fact contribute to
 their oral bioavailability, as larger polysaccharides such as Lentinan
 and Schizophyllan are effective only by parenteral routes. This
-parallel with the acid-treated [[cancer-medicinal-mushrooms-agaricus-blazei-polysaccharides]] glucan (which becomes
-orally active after molecular weight reduction) suggests a general
-principle: lower molecular weight may enable oral delivery of mushroom
-glucans.
-
-## Hepatocellular Carcinoma Studies
-
-Initial studies evaluated AHCC in a chemoprevention role by assessing
-its ability to prevent or delay recurrence of hepatocellular carcinoma
-after surgical resections (Kamiyama, 1999). In a non-randomised phase
-II trial, 44 patients after partial hepatectomies were given oral AHCC
-at 3g per day. After one year the AHCC group demonstrated:
-
-- Significantly higher 1-year survival rate than controls
-- Lower recurrence rate than the control group
-- Significant lowering of tumour markers including CEA and alpha-FP
-
-However, this study appeared only in abstract form, and a second report
-(Matsui et al., 1999) stated that recurrence was not lower in the AHCC
-group, although the 1-year survival rate was higher. Matsui et al.
-evaluated AHCC as a [[blesching-cannabis-beta-caryophyllene-cb2-spices-complementary-therapy]] on the prognosis of
+parallel with the acid-treated [[blesching-cannabis-beta-caryophyllene-cb2-spices-complementary-therapy]] on the prognosis of
 postoperative hepatocellular carcinoma patients.
 
 ## Arabinoxylane Derivative and NK Cell Activation
 
-A derivative of AHCC, arabinoxylane (MGN-3), derived from [[jadam-rice-bran-problems]]
-fermentation, was found by Ghoneum (1998) to increase human natural
-killer (NK) cell activity by a factor of five over a two-month period.
-This represents one of the most significant NK cell activation findings
-among mushroom-derived products. The enhancement of NK activity is
-clinically relevant because NK cells play a central role in tumour
-surveillance and the immune system's ability to recognise and destroy
-cancer cells.
-
-## AHCC Research Association
-
-The AHCC Research Association was formed in 1996 to advance awareness
-of AHCC as an anticancer therapy. According to their reports, of 300
-[[cannabis-for-cancer-patients]] administered AHCC, 58 patients experienced stabilisation
+A derivative of AHCC, arabinoxylane (MGN-3), derived from [[cannabis-for-cancer-patients]] administered AHCC, 58 patients experienced stabilisation
 of their disease, with 46 showing complete or partial responses. The
 participants in these studies had cancers of the lung, breast, stomach,
 oesophagus, colon, liver and other sites.
@@ -118,8 +84,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[ahcc]]
 - [[ahcc-active-hexose-correlated-compound]]
-- [[dom]]
 - [[schizophyllan]]
 - [[lentinan]]

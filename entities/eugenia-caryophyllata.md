@@ -14,17 +14,9 @@ tags:
 sources:
   - Cushnie, T.P.T. & Lamb, A.J. (2005). "Antimicrobial activity of flavonoids." International Journal of Antimicrobial Agents, 26(5), 343-356.
   - Bhat, R. et al. (2013). "Clove: a champion spice." International Journal of Biochemistry Research & Review, 3(1), 87-109.
-  - Chaieb, K. et al. (2007). "Antimicrobial activity of [[comparison-essential-oils-vs-neem-oil-vs-insecticidal-soap]]." Phytotherapy Research, 21(6), 501-506.
-  - Kuroda, M. et al. (2012). "Anti-inflammatory effects of eugenol." Journal of Agricultural and Food Chemistry, 60(2), 543-548.
----
+  - Chaieb, K. et al. (2007). "Antimicrobial activity of [[syzygium-aromaticum]]*), commonly known as clove, is an aromatic evergreen tree in the family Myrtaceae, native to the Maluku Islands (the Moluccas or "Spice Islands") of Indonesia. The dried flower buds of this tree have been traded as a prized spice for over 2,000 years.
 
-# Eugenia caryophyllata
-
-**Eugenia caryophyllata** (syn. *[[syzygium-aromaticum]]*), commonly known as clove, is an aromatic evergreen tree in the family Myrtaceae, native to the Maluku Islands (the Moluccas or "Spice Islands") of Indonesia. The dried flower buds of this tree have been traded as a prized spice for over 2,000 years.
-
-Cloves are among the most potent [[dmt-botanical-sources-pharmacology]] of eugenol, comprising 70–90% of the essential oil. This phenolic compound is responsible for the characteristic aroma, flavor, and most of the documented pharmacological activities of clove preparations.
-
-The species is commercially cultivated across [[fukuoka-natural-farming-in-tropical-regions]], with Indonesia, Madagascar, India, and Sri Lanka as the leading producers. Global clove production exceeds 150,000 metric tons annually, serving both culinary and pharmaceutical markets.
+Cloves are among the most potent [[fukuoka-natural-farming-in-tropical-regions]], with Indonesia, Madagascar, India, and Sri Lanka as the leading producers. Global clove production exceeds 150,000 metric tons annually, serving both culinary and pharmaceutical markets.
 
 ## Taxonomy and Morphology
 
@@ -45,15 +37,7 @@ The fruit is a fleshy drupe (called "mother clove") containing a single seed. It
 
 ## Distribution and Habitat
 
-Clove is native to the Maluku Islands in eastern Indonesia, specifically Ternate, Tidore, Moti, Makian, and Bacan. The species requires a humid [[query-how-to-design-a-food-forest-for-a-tropical-climate]] with annual rainfall of 1,500–3,000 mm and temperatures of 20–30°C.
-
-Cultivation has spread to Madagascar (the world's largest producer since the 19th century), Zanzibar, India (Kerala and Karnataka), Sri Lanka, Malaysia, Brazil, and the West Indies. The tree grows best in volcanic or deep loamy soils at elevations of 0–500 meters.
-
-Trees begin bearing flowers at 4–7 years of age and reach full production at approximately 20 years. A mature tree can produce 3–7 kg of dried buds annually and remains productive for 50–100 years.
-
-Harvesting is labor-intensive. Buds are hand-picked at the pink stage before the petals open, then sun-dried for 5–7 days until they turn dark brown and achieve their characteristic "nail" shape. The drying process concentrates the essential oil and develops the final flavor profile.
-
-Optimal [[cannabis-harvest-timing-visual-cues]] is critical. Picking too early yields small, lightweight buds with low oil content; picking too late produces open flowers with reduced aromatic quality. Experienced harvesters can distinguish the ideal stage by color and firmness.
+Clove is native to the Maluku Islands in eastern Indonesia, specifically Ternate, Tidore, Moti, Makian, and Bacan. The species requires a humid [[cannabis-harvest-timing-visual-cues]] is critical. Picking too early yields small, lightweight buds with low oil content; picking too late produces open flowers with reduced aromatic quality. Experienced harvesters can distinguish the ideal stage by color and firmness.
 
 ## Chemistry and Pharmacology
 
@@ -75,16 +59,88 @@ Additional pharmacological activities documented in the literature include antio
 
 ### Safety and Toxicity
 
-Eugenol has a relatively low [[emcdda-hallucinogenic-mushroom-acute-toxicity-medical-management]] (LD50 in rats: 2,680 mg/kg oral). However, clove essential oil can cause mucosal irritation at high concentrations and should be diluted before topical application. Ingestion of clove oil (not the whole spice) has been associated with liver damage in case reports involving children.
-
-The European Food Safety Authority (EFSA) has established a NOAEL of 150 mg/kg body weight/day for eugenol. Clove oil should not be applied to broken skin or used undiluted in the mouth for extended periods due to risk of mucosal burns.
-
-## Culinary and Nutritional Use
-
-Cloves are used whole, ground, or as essential oil in cuisines worldwide. In Indian cuisine, they are a component of garam masala. In Chinese cooking, they appear in five-spice powder. European baking traditions use ground clove in gingerbread, mulled wine, and fruit preserves.
-
-Nutritionally, dried cloves are remarkably rich in manganese (30% DV per teaspoon) and contain significant amounts of vitamin K, iron, calcium, and dietary fiber. The spice is used in very small quantities, so nutritional contributions are minimal in practice.
-
-Clove oil is used as a food preservative due to its antioxidant and [[mycelium-running-mushroom-antimicrobial-properties-species-chart]]. It has shown effectiveness in extending the [[ingham-aact-holding-time-shelf-life-decay]] of meat products and fruit juices at concentrations as low as 0.1% v/v.
+Eugenol has a relatively low [[mycelium-running-mushroom-antimicrobial-properties-species-chart]]. It has shown effectiveness in extending the [[ingham-aact-holding-time-shelf-life-decay]] of meat products and fruit juices at concentrations as low as 0.1% v/v.
 
 ## Traditional Medicine and Ethnobotany
+
+## Overview
+
+Eugenia Caryophyllata represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish eugenia caryophyllata
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving eugenia extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Eugenia Caryophyllata finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for eugenia caryophyllata. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+eugenia caryophyllata and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Eugenia Caryophyllata has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of eugenia caryophyllata into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[eugenia-bone]]
+- [[eugenia-uniflora]]

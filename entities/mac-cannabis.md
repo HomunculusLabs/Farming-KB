@@ -23,13 +23,7 @@ sources:
 
 # MAC (Miracle Alien Cookies)
 
-**MAC**, also known as **Miracle Alien Cookies**, is a premium [[cannabis-hybrid-vigor-and-phenotypes-clarke]] strain renowned for its exceptional [[cannabis-glandular-trichome-types-resin-production-clarke]], complex [[cannabis-terpene-profile]], and potent effects. Created by the breeder **Capulator** of **Alien Genetics**, MAC has become one of the most sought-after and commercially successful modern cannabis cultivars, serving as a foundational parent for numerous subsequent crosses.
-
-## Genetic Lineage
-
-MAC is a cross between two legendary cultivars:
-
-- **Female parent: Alien Cookies** — itself a cross of **[[girl-scout-cookies]] × Alien Kush**, contributing cookie-family sweetness, dense bud structure, and high resin content
+**MAC**, also known as **Miracle Alien Cookies**, is a premium [[cannabis-glandular-trichome-types-resin-production-clarke]], complex [[girl-scout-cookies]] × Alien Kush**, contributing cookie-family sweetness, dense bud structure, and high resin content
 - **Male parent: Miracle 15 (Colombian × Starfighter × Big Bud)** — contributing increased vigor, yield, unique flavor depth, and enhanced trichome production
 
 This combination produced a strain that expresses the best traits of both lineages: the cookie-dough sweetness and bag appeal of Alien Cookies merged with the exotic complexity and yield potential of the Miracle 15 background.
@@ -44,18 +38,7 @@ MAC has been extensively used as a breeding parent, giving rise to numerous popu
 - **Alien Mints** — MAC × Thin Mint GSC
 - **Cap Junky** — MAC × Alien Kush; extremely high THC and resin content
 - **Mochi** (Gelato #33 × MAC) — dessert-like flavor, heavy trichome coverage
-- **[[permanent-marker]]** — MAC × Sherb Bx — complex solvent-like aroma
-- **Jealousy** — Sherb Bx × MAC — intensely colorful, dessert-forward
-
-## Appearance
-
-MAC buds are visually striking and immediately recognizable:
-
-- **Structure:** Dense, chunky, and tightly packed calyxes with moderate stretching
-- **Color:** Light to medium green with occasional flashes of deep violet, especially when exposed to cooler nighttime temperatures during late flowering; some phenotypes display striking pinkish-purple hues
-- **Trichomes:** Extraordinarily heavy — a defining characteristic; buds appear coated in a thick layer of milky-white to amber glandular trichomes, giving them a frosted, almost powdered sugar appearance
-- **Pistils:** Abundant, long, orange to rust-colored stigmas winding through the bud structure
-- **Leaf:** Broad indica-dominant fan leaves during [[cannabis-vegetative-growth-stage]]
+- **[[cannabis-vegetative-growth-stage]]
 
 ## Aroma and Terpene Profile
 
@@ -88,3 +71,80 @@ MAC delivers a well-rounded experience that bridges cerebral stimulation and phy
 - **Initial effects:** Euphoric cerebral uplift, enhanced creativity, heightened [[plant-sensory-perception]], and sociable mood
 - **Middle phase:** Warm, relaxing body buzz that spreads from the head downward without causing heavy sedation
 - **Late phase:** Gentle physical relaxation that may lead to couch-lock in higher doses
+
+## Overview
+
+Mac Cannabis represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish mac cannabis
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving mac extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Mac Cannabis finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for mac cannabis. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+mac cannabis and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Mac Cannabis has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of mac cannabis into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.

@@ -38,19 +38,12 @@ related_concepts:
 A permaculture plant guild is a deliberately assembled community of plants,
 animals, fungi, and other organisms that work together synergistically,
 mimicking the structure and function of natural plant associations. Unlike
-conventional [[comparison-companion-planting-reference-vs-jadam-monoculture-critique]], which typically pairs two or three species
-for a single benefit such as [[foliar-pest-deterrence-aact-mechanisms]], guild design aims to create
+conventional [[foliar-pest-deterrence-aact-mechanisms]], guild design aims to create
 dense webs of mutual support where each member performs multiple ecological
 roles and every function is supported by multiple elements. The concept
 draws from observations of how plants naturally organize in forests,
 meadows, and other ecosystems, interconnecting through shared nutrient
-cycles, pest management networks, [[mollison-designers-microclimate-creation-frost-protection]], and pollination
-pathways.
-
-The term "guild" as used in permaculture was developed by co-founders Bill
-Mollison and David Holmgren, though the practice of assembling beneficial
-plant combinations has been used by indigenous peoples for millennia,
-particularly in [[mollison-tropical-home-garden-design]] gardens. Anthropologists visiting tropical
+cycles, pest management networks, [[mollison-tropical-home-garden-design]] gardens. Anthropologists visiting tropical
 villages often mistook the lush, productive gardens surrounding homes for
 wild jungle, so perfectly had inhabitants mimicked the structure of the
 surrounding forest. In temperate climates, guild design is a newer and
@@ -106,44 +99,14 @@ Russian olive, seaberry, goumi, and black locust. Place nitrogen fixers
 within the root zone of heavy-feeding fruit trees and cut them periodically
 to release nitrogen at the soil surface.
 
-[[comparison-dynamic-accumulators-vs-cover-crops]] have deep taproots that reach minerals including
-calcium, potassium, phosphorus, magnesium, and trace elements from deep
-soil layers. These minerals accumulate in their leaves and become
-surface-available when the plant is cut for mulch or composted. Comfrey
-is the classic accumulator, pulling potassium, calcium, and silica from
-deep subsoil, but yarrow, chicory, dandelion, borage, and nettle also
-serve this role. A single comfrey plant can be cut four to six times per
-season, yielding two to five kilograms of fresh material per cut with
-high potassium content that directly supports fruit development.
-
-Insectary plants attract pollinators and predatory insects essential for
-fruit set and biological pest control. Umbelliferous flowers like dill,
-fennel, coriander, and yarrow are among the most effective, attracting
-parasitic wasps, ladybirds, lacewings, and hoverflies. Borage and comfrey
-are popular insectary plants for fruit tree guilds, and flowering shrubs
-## See Also
-
-- [[companion-planting-and-polycultures]] — broader context of
+[[companion-planting-and-polycultures]] — broader context of
   multi-species plant communities
-- [[forest-gardening-and-food-forests]] — guilds scaled to landscape
-  level
 - [[dynamic-accumulators]] — plants that mine nutrients from deep soil
-- [[nitrogen-fixing-bacteria-and-biological-nitrogen-fixation]] — the
-  science behind nitrogen-fixing guild members
 - [[permaculture-design-principles]] — the design philosophy underlying
   guild thinking
-- [[fruit-tree-care-and-orchard-management]] — central element care
 - [[integrated-pest-management-ipm]] — biological pest control that
   guilds support
-- [[the-soil-food-web]] — soil biology that guilds nurture
-
-## References
-
-- Hemenway, Toby. *Gaia's Garden: A Guide to Home-Scale Permaculture*.
-  Chelsea Green, 2001.
-- Mollison, Bill. *Permaculture: A Designers' Manual*. Tagari
-  Publications, 1988.
-- Jacke, Dave, and Toensmeier, Eric. *Edible [[bill-mollison-permaculture-a-designers-manual-forest-gardens-and-food-forests]]*. Chelsea
+- [[bill-mollison-permaculture-a-designers-manual-forest-gardens-and-food-forests]]*. Chelsea
   Green, 2005.
 - Mt. Pleasant, Jane. "The Three Sisters: An Indigenous Approach to
   Sustainable Agriculture." Cornell University research.

@@ -62,71 +62,7 @@ Ordinary (non-radioactive) strontium is a trace element with normal biological f
 
 ## Molybdenum (Mo)
 
-Molybdenum is a trace element essential for clover establishment and needed by all plants and [[rhizobia]].
-
-### Application
-
-A few ounces per acre is used on many acid soils and rarely needed again. It is locked up not by alkali or lime but by sulphuric acid, and may therefore be deficient in plants subject to acid rain.
-
-### Legume Dependency
-
-Legumes need molybdenum for nodulation. Non-legumes deficient in molybdenum can concentrate dangerous levels of nitrates, causing "leaf burn" — creating a paradox where molybdenum deficiency indirectly promotes nitrate accumulation.
-
-## Cadmium (Cd)
-
-Cadmium is a poison concentrated by green leafy plants and shellfish. It is derived from **traffic (tyres)** and **superphosphate** fertiliser.
-
-### Contamination Levels
-
-Cadmium may already be at very high levels in acid soils of market gardens using artificial fertilisers. It causes:
-- **Itai-itai disease** (Japan) — painful and debilitating
-- Permanent deformities
-
-Cadmium contamination of food crops is one of the most insidious consequences of intensive phosphorus fertiliser use, as the two elements co-occur in phosphate rock deposits.
-
-## Tin (Sn)
-
-Tin ores and wastes create plant establishment problems. While not noted as toxic at low dietary levels, tin can become toxic at high levels in canned food — a concern for food preservation systems.
-
-## Antimony (Sb)
-
-Antimony behaves similarly to arsenic — sometimes needed in trace amounts by animals but a poison at elevated concentrations. Mining and industrial wastes are the primary contamination sources.
-
-## Iodine (I)
-
-Iodine deficiencies occur in weathered basalts, causing growth problems and **goitre**. Remedies include fish and shellfish in the diet and seaweed.
-
-### Radioactive Iodine (I-131)
-
-I-131 is now a common radioactive fallout from atomic plants and tests. It:
-- Poisons milk over wide areas
-- Affects thyroid function
-- Can cause cancer
-- Causes death of children from hyperthyroidism
-
-Radioactive iodine represents a real risk from atomic establishments and weapons testing. The thyroid gland's affinity for iodine makes it particularly vulnerable to concentrating radioactive isotopes.
-
-## Mercury (Hg)
-
-Mercury is a common poison released by mines, metal processing, and acid rain. It is more active in organically polluted areas. Mercury creates:
-
-- Very serious coordination problems
-- Sanity and mental health problems
-- Central nervous system malfunction
-- Bone deformity
-- Insanity
-
-Mercury contamination of aquatic ecosystems is particularly dangerous because it biomagnifies through food chains, reaching highest concentrations in predatory fish consumed by humans.
-
-## Thallium (Tl)
-
-Thallium is a toxin causing **birth deformities** and is classified as very dangerous. It is less commonly discussed than mercury or lead but poses significant risks in mining and industrial areas.
-
-## Lead (Pb)
-
-Lead is a common poison from petrol, old paints, and battery burning. It is a **serious urban soil pollutant** requiring:
-
-- [[heavy-metal-toxicity-and-biological-element-transport|Heavy]] organic soils to block plant uptake
+Molybdenum is a trace element essential for clover establishment and needed by all plants and [[heavy-metal-toxicity-and-biological-element-transport|Heavy]] organic soils to block plant uptake
 - Removal of lead-concentrating vegetation for disposal
 - Monitoring of [[earthworms]], which may concentrate lead to lethal levels in polluted soils
 
@@ -148,3 +84,10 @@ Radon is a gas from the decay of uranium. It seeps up through most soils, especi
 
 Beyond the chemical properties of individual elements, biological processes play a critical role in concentrating, dispersing, and cycling elements through soil systems.
 
+## See Also
+
+- [[mycelium-running-remediating-toxic-waste]]
+- [[toxic-mushrooms-poisoning-amatoxins-syndromes]]
+- [[mycoremediation-fungal-biodegradation-toxic-waste]]
+- [[guzman-chlorophyllum-molybdites-toxic-edible-paradox-yoruba-divinatory-use]]
+- [[trace-elements-in-soil]]

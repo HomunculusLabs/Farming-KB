@@ -25,7 +25,7 @@ sources:
 
 The species is both an important traditional food crop and a widely grown ornamental plant. It produces large, banana-like leaves and showy flowers in shades of red, orange, and yellow, making it a dual-purpose species for food production and landscape design.
 
-Despite its potential as a [[mollison-designers-sea-level-change-coastal-zones]] grown pantropically, from sea level to approximately 2,500 m elevation. It thrives in **moist, warm environments** with full sun to partial shade. Optimal growth occurs at 20–30°C with annual rainfall exce [[guzman-allen-gartz-neurotropic-fungi-hawaii-pacific-islands]] Asia, Australia (where it is known as Queensland arrowroot), and Pacific islands, largely as a legacy of historical cultivation.
+Despite its potential as a [[guzman-allen-gartz-neurotropic-fungi-hawaii-pacific-islands]] Asia, Australia (where it is known as Queensland arrowroot), and Pacific islands, largely as a legacy of historical cultivation.
 
 ## Nutritional Value and Culinary Use
 
@@ -39,25 +39,10 @@ The rhizomes are composed primarily of **starch (approximately 70–80% dry weig
 - Fat: <0.5 g
 - Dietary fiber: 2–3 g
 
-**Key minerals:** Potassium, phosphorus, magnesium, and calcium in moderate amounts. Vitamin C content is low compared to other [[growing-root-vegetables-guide]].
-
-**Culinary applications in the Andes:**
-
-- Rhizomes are peeled, sliced, and boiled or roasted
-- Boiled slices are eaten as a starchy vegetable side dish
-- Flour ground from dried rhizomes is used for breads and porridges
-- The starch is extracted and used as a thickening agent (arrowroot substitute)
-- In Colombia, achira is traditionally consumed during Holy Week
-
-**Processing:** The large starch granules gelatinize at a relatively high temperature (~65–72°C), producing a clear, glossy gel with excellent freeze-thaw stability. This makes achira starch commercially interesting for food industry applications.
-
-## Cultivation
-
-Achira is propagated vegetatively through **rhizome division**, as most cultivated clones are sterile triploids that produce little or no viable see [[comparison-cassava-vs-taro-vs-sweet-potato-vs-yam]] il. Its height and leaf area make it a useful windbreak for smaller crops.
+**Key minerals:** Potassium, phosphorus, magnesium, and calcium in moderate amounts. Vitamin C content is low compared to other [[comparison-cassava-vs-taro-vs-sweet-potato-vs-yam]] il. Its height and leaf area make it a useful windbreak for smaller crops.
 
 ## See Also
 
-- [[mckenna-dioscorea-population-reproduction-effects]] — winged yam, tropical tuber crop
 - [[helianthus-tuberosus]] — [[comparison-jerusalem-artichoke-vs-potato]], temperate tuber crop
 - xanthosoma sagittifolium — tannia, another starchy tropical tuber
 ## Practical Considerations
@@ -78,3 +63,88 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
+
+## Overview
+
+Canna Edulis represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish canna edulis
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving canna extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Canna Edulis finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for canna edulis. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+canna edulis and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Canna Edulis has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of canna edulis into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[boletus-edulis-and-pore-fungi-polyporaceae]]
+- [[canna-indica]]
+- [[catha-edulis]]
+- [[euterpe-edulis]]
+- [[inga-edulis]]

@@ -13,27 +13,7 @@ sources:
 
 ALEPH (PIHKAL #3), also designated DOT (para-DOT), holds a special place in psychedelic chemistry history as "probably the first sulfur-containing phenethylamine to have been evaluated as a potentially active CNS stimulant or psychedelic." The introduction of sulfur (as a methylthio group) into the phenethylamine framework was a completely novel concept at the time, and Shulgin's extreme caution during initial testing — starting at 0.25 micrograms — reflects both the unknown territory and the anxiety of discovery.
 
-ALEPH pioneered the exploration of sulfur-containing psychedelics, which eventually led to the [[phenethylamine-chemistry-basics]].
-
-## Chemical Identity
-
-- **Chemical name:** 2,5-dimethoxy-4-methylthioamphetamine
-- **PIHKAL number:** #3
-- **Code names:** ALEPH, DOT (para-DOT)
-- **Class:** Substituted amphetamine (thioether series)
-- **HCl melting point:** 204-205 °C (recrystallized from IPA)
-
-## Dosage and Duration
-
-| Parameter | Range |
-|-----------|-------|
-| **Threshold** | ~3 mg |
-| **Common dose** | 5-10 mg |
-| **Strong dose** | 10+ mg |
-| **Duration** | 6-8 hours |
-| **Onset** | 30-60 minutes |
-
-For Shulgin's general approach to establishing dosage ranges, see [[pihkal-introduction-and-methodology]].
+ALEPH pioneered the exploration of sulfur-containing psychedelics, which eventually led to the [[pihkal-introduction-and-methodology]].
 
 ## Experience Reports (from PIHKAL)
 
@@ -57,8 +37,7 @@ The disruption of mechanical and routine cognitive tasks at 10 mg is notable. Th
 
 ### Independent Assay at 10 mg
 
-A colleague independently assayed ALEPH at 10 mg and reported "only mild effects which he found relatively uninteresting." This inter-individual variability is common among psychedelic phenethylamines and underscores the importance of [[lsd-set-and-setting-framework]]. See [[phenethylamine-receptor-pharmacology]] and [[2c-t-7-compound-profile]] and [[phenethylamine-chemistry-basics]]
-- [[2c-t-2-compound-profile]]
+A colleague independently assayed ALEPH at 10 mg and reported "only mild effects which he found relatively uninteresting." This inter-individual variability is common among psychedelic phenethylamines and underscores the importance of [[phenethylamine-receptor-pharmacology]] and [[phenethylamine-chemistry-basics]]
 - [[psilocybin-isolation-and-early-scientific-research]]
 ## Practical Considerations
 
@@ -112,15 +91,8 @@ to broader system design and look for synergies between methods
 that can amplify overall effectiveness.
 
 ## See Also
-- [[2c-i-compound-profile]]
 - [[2c-b-compound-profile]]
-- [[mde-compound-profile]]
 - [[shulgin-mda-compound-profile]]
-- [[mescaline-compound-profile]]
-## See Also
-
 - [[5-meo-dmt-compound-profile]]
-- [[tma-2-compound-profile]]
 - [[shulgin-mda-compound-profile]]
-- [[2c-c-compound-profile]]
 - [[2c-t-7-compound-profile]]

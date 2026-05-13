@@ -23,7 +23,7 @@ Cestrum nocturnum, commonly known as night-blooming jasmine, lady of the night, 
 
 It is renowned for producing one of the most powerfully fragrant flowers in the plant kingdom, with scent released exclusively at night to attract nocturnal pollinators.
 
-The species is native to tropical and subtropical regions of the Americas, from the Caribbean and [[guzman-allen-gartz-neurotropic-fungi-caribbean-central-america]] through northern [[guzman-psilocybin-mushrooms-south-america]].
+The species is native to tropical and subtropical regions of the Americas, from the Caribbean and [[guzman-psilocybin-mushrooms-south-america]].
 
 Night-blooming jasmine is widely cultivated in tropical and subtropical gardens worldwide for its intoxicating fragrance.
 
@@ -55,17 +55,7 @@ Fruit are small, globose berries approximately 8 to 10 millimeters in diameter, 
 
 Cestrum nocturnum is native to the West Indies, Central America, and northern South America, with a natural range extending from Cuba and Jamaica through Mexico to Colombia and Venezuela.
 
-It has been introduced widely across tropical and subtropical regions and is now naturalized in parts of the southern United States, southeastern Asia, [[guzman-allen-gartz-neurotropic-fungi-hawaii-pacific-islands]], and eastern Africa.
-
-In the United States, it is established in southern Florida, southern Texas, and Hawaii, where it can become weedy in disturbed areas.
-
-The species thrives in warm, humid climates with well-drained soils and partial to full sun exposure.
-
-It is commonly found in forest margins, thickets, fence rows, and disturbed sites near human habitation.
-
-Night-blooming jasmine tolerates a range of soil types but performs best in fertile, organic-rich loams with regular moisture.
-
-It is sensitive to frost and is killed to the ground at temperatures below freezing, though roots may survive and resprout in [[query-how-to-grow-rare-tropical-fruits-in-marginal-and-subtropical-climates]].
+It has been introduced widely across tropical and subtropical regions and is now naturalized in parts of the southern United States, southeastern Asia, [[query-how-to-grow-rare-tropical-fruits-in-marginal-and-subtropical-climates]].
 
 ## Cultivation
 

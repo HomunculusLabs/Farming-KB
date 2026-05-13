@@ -109,13 +109,8 @@ Despite its weedy reputation, the species plays a valuable ecological role as a 
 
 ## See Also
 
-- [[legousia-speculum-veneris]]
 - [[jasione-montana]]
-- [[campanula-rapunculus]]
 - [[lobelia-erinus]]
-- [[campanula-rotundifolia]]
 - [[trachelium-caeruleum]]
-- [[jasione-laevis]]
 - [[campanula-persicifolia]]
-- [[platycodon-grandiflorus]]
 - [[adenophora-stricta]]

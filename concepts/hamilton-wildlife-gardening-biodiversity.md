@@ -10,13 +10,7 @@ tags: [biology, gardening, wildlife]
 
 # Wildlife Gardening and Biodiversity
 
-The organic garden is inherently wildlife-friendly. [[ground-cover-plants]] so they have leaf cover to
-hide under during the day. At night they emerge to feed on pests.
-
-### Centipedes
-Fast-moving predators of many small insects and slugs. Light brown
-with longer legs than millipedes. Like ground beetles, they need
-[[fukuoka-citrus-orchard-ground-cover-cultivation]] to hide under during the day.
+The organic garden is inherently wildlife-friendly. [[fukuoka-citrus-orchard-ground-cover-cultivation]] to hide under during the day.
 
 ### Ladybugs
 Both the adult ladybug and its slate-gray larvae eat vast quantities
@@ -33,34 +27,12 @@ directly in aphid colonies. Attract them by planting marigolds
 ### Lacewings
 Again, it is the larvae that have an insatiable appetite for aphids.
 Adult lacewings lay eggs on leaf undersides. They can be encouraged
-by varied planting and [[companion-planting-deterrents]] for Wildlife
-
-French marigolds (Tagetes) attract hoverflies and have been
-scientifically confirmed to help control eelworms through root
-secretions. Nasturtiums attract aphids away from crop plants. Herbs
-like thyme have decorative flowers that attract bees and other
-pollinating insects. Borage is an excellent bee attractor.
-
-## Practical Wildlife Gardening Tips
-
-- Avoid using [[beneficial-insects-cannabis]] along
+by varied planting and [[beneficial-insects-cannabis]] along
   with pests
 - Provide water: a bird bath, shallow dish, or pond
 - Leave seed heads on plants through winter for bird food
 - Create a compost heap -- it provides habitat for many creatures
-- Grow nectar-rich flowers from [[coleman-overwintered-onions-and-early-spring-crops]] to late autumn
-- Allow some areas of longer grass
-- Reduce the area of closely mown lawn
-- Include a mix of native and ornamental plants
-- Keep the garden tidy enough to prevent pest hiding places (remove
-  debris where snails and slugs shelter) but wild enough for
-  beneficial creatures
-
-## The Garden as an Ecosystem
-
-Hamilton's key message is that the garden should be treated as a
-complete entity. The fruit and vegetable gardens produce edible crops,
-the ornamental section attracts wildlife for [[comparison-pheromone-based-pest-control-vs-beneficial-insect-biocontrol]], herbs
+- Grow nectar-rich flowers from [[comparison-pheromone-based-pest-control-vs-beneficial-insect-biocontrol]], herbs
 ## Practical Considerations
 
 Successful implementation of Wildlife Gardening and Biodiversity requires attention to
@@ -109,8 +81,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[det]]
 - [[te-entity]]
-- [[seasonal-gardening-calendar-hamilton]]
 - [[geoff-hamilton]]
 - [[hamilton-geoffhamilton-nick-organic-gardening-propagation-techniques]]

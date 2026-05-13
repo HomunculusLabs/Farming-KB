@@ -11,11 +11,7 @@ sources:
 
 AL (4-allyloxy-3,5-dimethoxyphenethylamine) is a psychedelic phenethylamine and one of the most potent 3,4,5-trisubstituted phenethylamines yet described.
 
-It appears as [[2c-b-pihkal-entry-20]] #2, first explored by the Czech chemist Otakar Leminger in Prague.
-
-AL represents one of the few simple phenethylamines with an allyloxy group that demonstrates significant central activity.
-
-The allyloxy functional group (-O-CH2-CH=CH2) contains a double bond that distinguishes it from the more common alkoxy substituents found in [[mescaline]] analogues.
+It appears as [[mescaline]] analogues.
 
 ## Dosage and Duration
 
@@ -81,10 +77,12 @@ A young man named Stanislov Wistupkin brought the compound to Shulgin's attentio
 
 Whether Wistupkin was a student of Leminger's remains unknown.
 
-The Czechoslovakian publication that presented AL and MEPEA also described [[proscaline]], and the allyloxy analogue (AL).
+The Czechoslovakian publication that presented AL and MEPEA also described [[proscaline]] - the 4-propoxy analogue
 
-This is the only published material dealing with psychedelic drugs that Shulgin was ever able to find from the laboratory of Otakar Leminger.
+## See Also
 
-## Related Compounds
-
-[[proscaline]] - the 4-propoxy analogue
+- [[doi-entity]]
+- [[mp-entity-pihkal]]
+- [[4-ho-det-entity-tihkal]]
+- [[jealousy-cannabis-strain-entity]]
+- [[mckenna-i-thou-ethics-entity-encounter]]

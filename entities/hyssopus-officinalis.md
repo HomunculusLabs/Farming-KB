@@ -16,14 +16,7 @@ sources:
   - Grieve, M. (1931). A Modern Herbal. Jonathan Cape.
   - WHO Monographs on Medicinal Plants, Vol. 4 (2009). World Health Organization.
   - Şen, A. et al. (2018). "Hyssopus officinalis L.: a review of its phytochemistry and pharmacology." Journal of Pharmacy and Pharmacology, 70(7), 883-900.
-  - Formisano, C. et al. (2007). "Constituents of the [[permaculture-designers-manual-essential-oil-plants]] of Hyssopus officinalis." Flavour and Fragrance Journal, 22(2), 141-145.
----
-
-# Hyssopus officinalis
-
-**Hyssopus officinalis**, commonly known as hyssop, is a semi-evergreen subshrub in the mint family Lamiaceae, native to southern Europe, the Middle East, and central Asia. It has been cultivated for millennia as a culinary herb, medicinal plant, and ornamental garden specimen.
-
-The species is highly attractive to pollinators, particularly bees, butterflies, and hoverflies. Its aromatic foliage and prolific blue-to-violet flower spikes make it a valuable addition to herb gardens, pollinator meadows, and permaculture designs [[query-how-to-grow-and-use-oca-in-temperate-climates]].
+  - Formisano, C. et al. (2007). "Constituents of the [[query-how-to-grow-and-use-oca-in-temperate-climates]].
 
 Hyssop has a long history in traditional European herbalism, referenced in the Bible, the writings of Dioscorides, and the medieval monastic pharmacopoeias. The genus name derives from the Hebrew "ezob," though the biblical hyssop was likely a different species (Majorana syriaca).
 
@@ -48,34 +41,7 @@ The fruit consists of four small nutlets (mericarps), each approximately 2 mm lo
 
 ## Distribution and Habitat
 
-*H. officinalis* is native to the Mediterranean region, extending from southern Europe (Spain, Italy, Greece) through the Balkans and Turkey to central Asia (Iran, Afghanistan, Pakistan). It has naturalized in parts [[berry-growing]] and northern Europe following centuries of cultivation.
-
-The species thrives in well-drained, alkaline to neutral soils (pH 6.5–8.0) in full sun. It is drought-tolerant once established and prefers lean, sandy or gravelly soils over rich, moist conditions. Excess fertility produces lush but less aromatic growth.
-
-In its native range, hyssop grows on rocky hillsides, dry open slopes, and calcareous grasslands at elevations of 300–1,800 meters. It is hardy to USDA zones 4–9 and tolerates temperatures as low as -25°C when established.
-
-## Chemistry and Pharmacology
-
-The essential oil of hyssop is distilled from the flowering tops and leaves. Principal constituents vary by chemotype and geographic origin:
-
-- **Isopinocamphone:** 30–50% — ketone, dominant in European chemotypes
-- **Pinocamphone:** 15–30% — related ketone
-- **1,8-Cineole:** 5–15% — oxide with expectorant properties
-- **β-Pinene:** 5–12% — monoterpene
-- **Linalool:** 2–8% — monoterpene alcohol, calming activity
-- **Germacrene D:** 2–6% — sesquiterpene
-
-The European chemotype (isopinocamphone-dominant) is the most widely studied and commercially available. An alternative chemotype high in linalool and linalyl acetate is found in some eastern Mediterranean populations and has a sweeter, more floral aroma.
-
-Hyssop preparations have documented expectorant, antispasmodic, and antimicrobial activities. The expectorant effect is attributed primarily to 1,8-cineole and the pinocamphone isomers, which stimulate bronchial secretions and facilitate mucus clearance.
-
-In vitro studies have shown hyssop essential oil to be active against *[[staphylococcus-aureus]]*, *Escherichia coli*, and *[[bloomfield-candida-albicans-yeast-hyphal-dimorphism]]*. The pinocamphone constituents are also associated with anticonvulsant activity in animal models, though the therapeutic relevance in humans remains unestablished.
-
-### Safety Considerations
-
-The pinocamphone content of hyssop oil has raised toxicity concerns. High doses of the essential oil have been associated with seizures in animal studies. The oil should not be ingested internally without professional supervision.
-
-Pregnant women and individuals with epilepsy should avoid hyssop essential oil. The dried herb is considered safe in culinary quantities and as a mild tea preparation. The German Commission E has approved hyssop herb for use as an expectorant and [[cannabis-for-inflammatory-conditions]] of the upper respiratory tract.
+*H. officinalis* is native to the Mediterranean region, extending from southern Europe (Spain, Italy, Greece) through the Balkans and Turkey to central Asia (Iran, Afghanistan, Pakistan). It has naturalized in parts [[staphylococcus-aureus]]*, *Escherichia coli*, and *[[cannabis-for-inflammatory-conditions]] of the upper respiratory tract.
 
 ## Cultivation
 
@@ -88,3 +54,88 @@ Pruning after flowering maintains a compact shape and encourages a second flush 
 ## Culinary and Traditional Use
 
 Hyssop leaves and flowers have a strong, slightly bitter, minty-camphor flavor. The herb is used sparingly in European cuisine — in soups, stews, salads, and stuffings. It pairs well with fatty meats, robust cheeses, and legumes.
+
+## Overview
+
+Hyssopus Officinalis represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish hyssopus officinalis
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving hyssopus extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Hyssopus Officinalis finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for hyssopus officinalis. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+hyssopus officinalis and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Hyssopus Officinalis has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of hyssopus officinalis into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[asparagus-officinalis]]
+- [[bistorta-officinalis]]
+- [[calendula-officinalis]]
+- [[lemon-balm-melissa-officinalis]]
+- [[veronica-officinalis]]

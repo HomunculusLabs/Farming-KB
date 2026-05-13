@@ -61,26 +61,19 @@ Truffles are the world's most expensive fungi by weight, with premium specimens
 commanding prices that rival gold. These subterranean fruiting bodies belong
 primarily to the genus *Tuber* and are distinguished by their hypogeous
 (underground) growth habit and their obligate ectomycorrhizal associations with
-the roots of living trees and shrubs. Unlike [[fungi-cultivated-mushrooms-pathogens-competitors]] such as
-shiitake or oyster varieties, which decompose dead [[hamilton-composting-and-organic-matter-management]], truffles can
+the roots of living trees and shrubs. Unlike [[hamilton-composting-and-organic-matter-management]], truffles can
 only grow in intimate partnership with a living host plant, making their
 cultivation a fundamentally different and considerably more challenging
 undertaking.
 
 The global truffle market exceeds several billion dollars annually, driven by
-insatiable demand from luxury gastronomy across Europe, [[psilocybin-north-america-pacific-northwest]], and East
-Asia. European species, particularly the Perigord black truffle (*Tuber
-melanosporum*) and the Italian white truffle (*Tuber magnatum*), dominate the
-high-end market, while newer cultivation efforts in the [[guzman-allen-gartz-africa-southern-hemisphere-underexplored-neurotropic-fungi]] and
+insatiable demand from luxury gastronomy across Europe, [[guzman-allen-gartz-africa-southern-hemisphere-underexplored-neurotropic-fungi]] and
 North America are steadily expanding supply. Despite decades of research, some
 species — most notably the Italian white truffle — remain resistant to reliable
 cultivation and can only be wild-harvested, sustaining a centuries-old tradition
 of foraging with trained animals.
 
-The [[ethnomycology-cultural-significance-sacred-fungi]] of truffles stretches back to antiquity. Roman authors
-including Pliny the Elder documented truffle consumption, and the fungi have
-occupied a place of reverence in European cuisine since the Renaissance. Today,
-[[bloomfield-truffle-hunting-and-culinary-fungi]] with dogs remains a living cultural practice in regions of
+The [[bloomfield-truffle-hunting-and-culinary-fungi]] with dogs remains a living cultural practice in regions of
 France, Italy, and Spain, and truffle tourism has become a significant secondary
 industry. The intersection of mycological science, agricultural engineering, and
 culinary tradition makes truffle cultivation one of the most fascinating and
@@ -95,26 +88,15 @@ in at least eight lineages spanning both the Ascomycota and Basidiomycota
 phyla, suggesting strong convergent evolutionary pressures. Three coordinated
 ## See Also
 
-- [[truffle-cultivation-basics]]
 - [[truffle-orchard-design-establishment]]
-- [[truffle-inoculated-seedlings]]
 - [[truffle-dog-training]]
-- [[truffle-guide]]
 - [[truffle-evolution-and-hypogeous-fungi]]
-- [[truffle-auxin-root-morphogenesis]]
 - [[ectomycorrhizal-fungi]]
-- [[ectomycorrhizal-ecology]]
 - [[ectomycorrhizal-fungal-ecology]]
-- [[ectomycorrhizal-associations]]
 - [[ectomycorrhizal-host-tree-partnerships]]
-- [[ectomycorrhizal-morphological-structures]]
 - [[ectomycorrhizal-mushroom-fruiting-ecology]]
-- [[ectomycorrhizal-remediation]]
 - [[desert-truffles]]
-- [[mycorrhizal-fungi]]
 - [[mycorrhiza]]
-- [[mycorrhizal-agricultural-practices]]
-- mycorrhizal-inoculation-techniques
 - [[mycorrhizal-biocontrol]]
 
 ## References

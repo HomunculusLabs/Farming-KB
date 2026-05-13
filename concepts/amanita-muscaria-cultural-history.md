@@ -66,47 +66,15 @@ and modern research methods have all contributed to current understanding.
 
 ## See Also
 
-- [[amanita-muscaria-fly-agaric-history-and-pharmacology]]
 - [[amanita]]
-- [[muscimol-and-amanita-muscaria]]
 - [[fly-agaric-amanita-muscaria]]
-- [[bloomfield-fly-agaric-amanita-muscaria-muscimol-ibotenic-acid-hallucinogens]]
-
-## Practical Considerations
-Implementation requires careful attention to local conditions,
-available resources, and the specific goals of the practitioner.
-Documenting results and adapting approaches based on observed
-outcomes leads to continuous improvement over time.
-
-## Integration Strategies
-Combining multiple approaches often yields better results than
-relying on any single technique. Consider how this topic relates
-to broader system design and look for synergies between methods
-that can amplify overall effectiveness.
-
-## See Also
 - [[amanita]]
-- [[amanita-muscaria-fly-agaric-history-and-pharmacology]]
 - [[shroom-cultural-history-mushroom-art-and-iconography]]
-- [[shroom-cultural-history-maria-sabina-and-mazatec-tradition]]
 - [[shroom-cultural-history-hippie-revolution-and-counterculture]]
 ## See Also
 
-- [[amanita-polymorphous-symbolic-names]]
-
-- amanita-muscaria-guide
-- mushroom-poisoning-and-lookalikes
-
----
-
-Source: Shroom: A [[shroom-cultural-history-hippie-revolution-and-counterculture]] of the [[australian-magic-mushroom-common-names]] (Letcher, 2006), Chapter 6; The Mushroom Cultivator (Stamets & Chilton, 1983)
-Updated: 2026-04-18
-- [[rig-veda-soma-hymns-amanita-muscaria]]
-- [[siberian-fly-agaric-shamanism-urine-recycling]]
-
-## Practical Considerations
-
-Successful implementation of [[allegro-amanita-muscaria-properties-and-pharmacology]]: Cultural History and Pharmacology requires attention to
+- [[shroom-cultural-history-hippie-revolution-and-counterculture]] of the [[rig-veda-soma-hymns-amanita-muscaria]]
+- [[allegro-amanita-muscaria-properties-and-pharmacology]]: Cultural History and Pharmacology requires attention to
 several practical factors including environmental conditions,
 resource availability, and timing. Careful monitoring and
 adaptive management help optimize outcomes across varying

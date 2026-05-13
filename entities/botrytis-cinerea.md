@@ -12,17 +12,10 @@ sources: [/Users/t3rpz/wiki/raw/papers/unknown-biodiversity-of-fungi.md]
 
 **Type:** Species (Fungus)
 **Category:** Necrotrophic Filamentous Ascomycete
-**Also known as:** [[cervantes-gray-mold-botrytis-prevention]], bunch rot
-
-## Overview
-Botrytis cinerea is a ubiquitous necrotrophic plant pathogen and
-saprobe with one of the broadest host ranges of any [[alpha-1-3-glucan-fungal-pathogen-cell-walls]].
-It causes gray [[oyster-green-mold-disease]] on more than 200 plant species, affecting
-fruits, vegetables, ornamental flowers, and field crops. The species
-is notable for its ability to attack both living plant tissues and
-dead [[hamilton-composting-and-organic-matter-management]], transitioning between biotrophic and necrotrophic
+**Also known as:** [[alpha-1-3-glucan-fungal-pathogen-cell-walls]].
+It causes gray [[hamilton-composting-and-organic-matter-management]], transitioning between biotrophic and necrotrophic
 phases during infection. B. cinerea is also extensively studied in the
-context of [[fukuoka-textdoc-biological-control-fallacy-pheromone-critique]], as numerous [[biodiversity-fungicolous-mycoparasitic-fungi]] target
+context of [[biodiversity-fungicolous-mycoparasitic-fungi]] target
 it as a host.
 
 ## Taxonomy and Classification
@@ -51,14 +44,7 @@ it as a host.
 - Ascospores are hyaline, unicellular, and ellipsoidal
 
 ### Ecology and Habitat
-- [[guzman-allen-gartz-psilocybe-semilanceata-temperate-cosmopolitan-distribution]] across all temperate and subtropical
-  agricultural regions
-- Thrives in cool, humid conditions with optimal temperatures
-  of 18 to 25 degrees Celsius
-- Commonly found on decaying plant debris, stored produce, and
-  greenhouse crops
-- Capable of surviving as sclerotia or mycelium on plant
-  residues between [[jeavons-climate-adaptation-growing-seasons]]
+- [[jeavons-climate-adaptation-growing-seasons]]
 - Airborne conidia serve as primary inoculum for new infections
 
 ### Disease and Economic Impact
@@ -88,3 +74,77 @@ it as a host.
 
 ### Life Cycle
 - Sclerotia germinate under cool, moist conditions to produce
+
+## Overview
+
+Botrytis Cinerea represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish botrytis cinerea
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving botrytis extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Botrytis Cinerea finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for botrytis cinerea. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+botrytis cinerea and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Botrytis Cinerea has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of botrytis cinerea into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource

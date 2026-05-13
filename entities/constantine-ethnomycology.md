@@ -49,17 +49,7 @@ The text argues that this political construction of Christianity served a specif
 
 The central ethnomycological argument about Constantine's Christianity is one of **systematic corruption**:
 
-1. **Original source material** from older traditions contained genuine [[entheogenic-mushroom-species]] symbolism
-2. The **compilation process** preserved symbolic elements while removing their actual referent
-3. **Sacramental practice** (eating the mushroom) was replaced with symbolic ritual (eating a wafer)
-4. The **priest class** was established as the sole authority on spiritual matters
-5. **Direct experience** of the divine through entheogens was condemned while the religion continued to use the resulting symbolism
-
-### Preserved Symbolism
-
-Despite the corruption, the text argues that the Bible still contains numerous encoded mushroom references that survived the editing process:
-
-- manna, [[soma]], the Fruit of the Tree, the Hidden Manna, the Small White Stone
+1. **Original source material** from older traditions contained genuine [[soma]], the Fruit of the Tree, the Hidden Manna, the Small White Stone
 - The cross as a mushroom symbol
 - The "Body of Christ" (Soma = body = mushroom)
 - The Eucharist as sacramental mushroom ingestion
@@ -82,15 +72,13 @@ The Catholic ("catholic" = universal) Church's ambition to be the single world r
 
 ## Relevance to Cultivation and Mycology
 
-- Illustrates how **political power structures** have historically suppressed direct knowledge of [[entheogenic-fungi-history]]
-- Shows why **[[allegro-cross-and-mushroom-symbolism]] persists** in religious texts despite institutional denial
+- Illustrates how **political power structures** have historically suppressed direct knowledge of [[allegro-cross-and-mushroom-symbolism]] persists** in religious texts despite institutional denial
 - Demonstrates the **replacement mechanism** — substituting real mushrooms with symbolic objects and priestly authority
 - Provides historical context for **ongoing prohibition** of entheogenic substances
 - Explains why **decoding mushroom symbolism** in religious art requires understanding the political editing process
 
 ## See Also
 
-- [[amanita-muscaria]]
 - [[ethnomycology]]
 - Manna
 - holy grail

@@ -21,9 +21,8 @@ sources:
 # Amanita jacksonii
 
 **Amanita jacksonii**, commonly known as the **American caesar's mushroom** or **Jackson's amanita**, is a basidiomycete fungus in the family Amanitaceae.
-It is a strikingly beautiful [[bloomfield-boletus-satanus-edible-mushroom-hazards]] found in [[polypore-fungi-eastern-north-america]] America, closely related to the European *[[amanita-caesarea]]*.
-The species was named in honor of C. F. Jackson, an American mycologist who contributed significantly to the study of northeastern [[growing-gourmet-north-american-reishi-species]] fungi.
-*Amanita jacksonii* is widely regarded as one of the finest [[palmer-edible-mushrooms-north-america]] in eastern [[north-american-dmt-containing-plants-phalaris-desmanthus-peganum]] forests, though it requires careful identification to distinguish from toxic *Amanita* species.
+It is a strikingly beautiful [[polypore-fungi-eastern-north-america]] America, closely related to the European *[[growing-gourmet-north-american-reishi-species]] fungi.
+*Amanita jacksonii* is widely regarded as one of the finest [[north-american-dmt-containing-plants-phalaris-desmanthus-peganum]] forests, though it requires careful identification to distinguish from toxic *Amanita* species.
 
 ## Taxonomy and Classification
 

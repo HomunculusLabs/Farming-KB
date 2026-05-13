@@ -12,20 +12,7 @@ sources:
 
 ## Overview
 
-Eczema (atopic dermatitis) is a chronic inflammatory skin condition characterized by itchy, red, dry, and cracked skin. It affects up to 20% of children and 3% of adults worldwide. The skin's endocannabinoid system (ECS) plays a key role in regulating cutaneous inflammation and allergic responses, making cannabinoid therapies a promising approach. See also [[blesching-cannabis-psoriasis]], and cannabinoid-receptors.
-
-## Clinical Evidence
-
-### CHI Score: 3 (Emerging Evidence)
-
-One study supports cannabis for eczema, with additional preclinical evidence from ECS research.
-
-### Key Findings
-
-**Endocannabinoid System of the Skin (Biro et al., 2009)**
-- The skin has a fully functional endocannabinoid system with CB1 and CB2 receptors
-- This system regulates cutaneous inflammation, allergic responses, and cell proliferation
-- Dysregulation of the skin ECS may contribute to inflammatory [[cannabis-for-skin-conditions-detailed]] including eczema
+Eczema (atopic dermatitis) is a chronic inflammatory skin condition characterized by itchy, red, dry, and cracked skin. It affects up to 20% of children and 3% of adults worldwide. The skin's endocannabinoid system (ECS) plays a key role in regulating cutaneous inflammation and allergic responses, making cannabinoid therapies a promising approach. See also [[cannabis-for-skin-conditions-detailed]] including eczema
 - Anandamide (endogenous cannabinoid) modulates inflammatory responses in skin cells
 
 **Anti-inflammatory Mechanisms**
@@ -72,16 +59,13 @@ One study supports cannabis for eczema, with additional preclinical evidence fro
 ## Endocannabinoid Tone and Skin Health
 
 The concept of endocannabinoid tone — the baseline activity level of the ECS — is particularly relevant to chronic skin conditions like eczema. Research suggests that individuals with atopic dermatitis may have deficient cutaneous endocannabinoid signaling, which contributes to the chronic inflammation cycle.
-FAAH (fatty [[lysergic-acid-amide-containing-plants-halpern]] hydrolase), the enzyme responsible for breaking down anandamide, is overexpressed in eczematous skin, leading to faster degradation of the body's natural anti-inflammatory cannabinoids.
-Topical FAAH inhibitors are being investigated as a complementary strategy to restore endocannabinoid tone in affected skin.
-See [[cannabis-terpene-profile]] for a comprehensive guide to terpene properties.
+FAAH (fatty [[cannabis-terpene-profile]] for a comprehensive guide to terpene properties.
 
 ## Emerging Research Directions
 
 A 2019 study published in the journal Molecules examined the effects of a topical CBD formulation on patients with eczema and psoriasis, finding significant improvements in skin parameters including hydration, elasticity, and reduced transepidermal water loss.
 The formulation contained CBD in a lipid-based carrier system designed to penetrate the stratum corneum effectively.
-Another 2021 [[psilocybin-clinical-trial-landscape-2020-2025]] investigated a topical preparation combining CBD with palmitoylethanolamide (PEA), an endocannabinoid-like fatty acid amide that enhances anandamide signaling by inhibiting its reuptake and degradation.
-The CBD-PEA combination showed synergistic anti-inflammatory effects, consistent with the "[[cannabis-terpene-entourage-effect-profiles]]" described in cannabinoid pharmacology research.
+Another 2021 [[cannabis-terpene-entourage-effect-profiles]]" described in cannabinoid pharmacology research.
 
 ## Comparison with Conventional Treatments
 
@@ -118,8 +102,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[doc]]
 - [[uwe-blesching]]
-- [[psilocybin]]
 - [[dom]]
 - [[det]]

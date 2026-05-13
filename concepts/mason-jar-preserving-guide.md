@@ -9,7 +9,7 @@ sources: []
 
 ## Overview
 
-Mason jar preserving — canning — is the process of heat-processing food in glass jars to create a vacuum seal that prevents microbial spoilage. Two primary methods exist: [[comparison-pressure-canning-vs-water-bath-canning]] (for high-acid foods) and [[pressure-canning-food-preservation]] (for low-acid foods). This guide covers both methods with practical details for homestead-scale food preservation.
+Mason jar preserving — canning — is the process of heat-processing food in glass jars to create a vacuum seal that prevents microbial spoilage. Two primary methods exist: water bath canning (for high-acid foods) and pressure canning (for low-acid foods). This guide covers both methods with practical details for homestead-scale food preservation.
 
 ## Water Bath Canning
 
@@ -46,7 +46,7 @@ See [[pressure-canning-safety]] for detailed botulism prevention and equipment t
 
 ### Equipment
 
-- [[pf-tek-pressure-canner-sterilization]] (not a [[double-layer-tinfoil-jar-covering-pressure-cooker-method]] — must be large enough for jars, have a pressure gauge or weighted gauge, and meet USDA standards)
+- Pressure canner (not a pressure cooker — must be large enough for jars, have a pressure gauge or weighted gauge, and meet USDA standards)
 - Dial-gauge or weighted-gauge models available
 - Same jar-handling equipment as water bath canning
 
@@ -108,7 +108,7 @@ Choose jar size based on household consumption — once opened, canned food shou
 
 ## Tested Recipe Sources
 
-Only use tested recipes from reliable sources. Do not experiment with [[homestead-canning-recipes]] — the processing times and ingredient ratios are determined by laboratory testing for safety:
+Only use tested recipes from reliable sources. Do not experiment with canning recipes — the processing times and ingredient ratios are determined by laboratory testing for safety:
 
 - USDA Complete Guide to Home Canning (free online)
 - Ball Blue Book (updated regularly)
@@ -140,11 +140,11 @@ Common homestead recipes include:
 | Lid buckled | Too much headspace, pressure fluctuation | Measure headspace accurately, maintain steady pressure |
 | Liquid lost from jar | Rapid pressure change, siphoning | Let canner depressurize naturally, do not force-cool |
 | Cloudy liquid | Minerals in water, starch from food | Use soft water, blanch vegetables before canning |
-| Discolored food | Iron in water, reaction with metal | Use soft water, do not use aluminum cookware |
 
-## Storage and Shelf Life
+## See Also
 
-- Store jars in a cool (50-70F), dark, dry location
-- Do not store above 95F or below freezing
-- Remove rings before storage to detect seal failure
-- Shelf life: 12-18 months for best quality; safe indefinitely if properly sealed and stored, though quality declines over time
+- [[comparison-root-cellaring-guide-vs-canning-and-preserving]]
+- [[holzer-seed-autonomy-preserving-old-varieties]]
+- [[canning-and-preserving]]
+- [[preserving-wood-timber-framing]]
+- [[falconer-mushroom-preserving-and-drying]]

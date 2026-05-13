@@ -12,8 +12,7 @@ date: 2026-05-09
 updated: 2026-05-09
 sources:
   - Wüster, W. (1998). "The cobras of the genus Naja in India." Hamadryad, 23(1), 33-47.
-  - Whitaker, R. & Captain, A. (2004). Snakes of India: The [[field-guide-psilocybin-bluing-reaction-identification]]. Draco Books.
-  - Kularatne, S.A.M. (2001). "Epidemiology and clinical features of snake bite in Sri Lanka." [[oner-southeast-asian-sativa-heritage-thai-vietnamese-cambodian]] Journal of Tropical Medicine and Public Health, 32(4), 837-841.
+  - Whitaker, R. & Captain, A. (2004). Snakes of India: The oner-southeast-asian-sativa-heritage-thai-vietnamese-cambodian Journal of Tropical Medicine and Public Health, 32(4), 837-841.
   - Casewell, N.R. et al. (2020). "Fig-fighting snake venom evolution: A resource of toxin gene diversity in the Asiatic cobra." BMC Genomics, 21, 299.
   - The Reptile Database. "Naja naja (Linnaeus, 1758)." https://reptile-database.reptarium.cz/species?genus=Naja&species=naja
 ---
@@ -42,33 +41,7 @@ The body is moderately robust with a distinct hood that can be expanded when the
 
 The head is broadly ovate and barely distinct from the neck. The eyes are medium-sized with round pupils, and the nostrils are large. The dorsal scales are smooth and arranged in 15-17 rows at midbody.
 
-The tail constitutes approximately 15-18% of total body length. The subcaudal scales are divided in males and undivided in females, a sexually dimorphic trait useful for [[palmer-mushroom-hunting-field-identification]].
-
-## Distribution and Habitat
-
-Naja naja is widely distributed across the Indian subcontinent. Its range encompasses India, Sri Lanka, Pakistan, Nepal, and Bangladesh.
-
-Within India, the species occurs from the Himalayan foothills to the southern tip of the peninsula, and from the western deserts of Rajasthan to the eastern states bordering Myanmar. It is absent only from the extreme northwestern deserts and high-altitude Himalayan regions.
-
-The Indian cobra is highly adaptable and occupies diverse habitats. These include tropical and subtropical dry forests, moist deciduous forests, scrublands, grasslands, rocky outcrops, and agricultural fields.
-
-Proximity to human settlements is common, as the species thrives in and around villages, towns, and cities. Rodent populations attracted to grain storage and waste provide abundant prey in anthropogenic environments.
-
-Elevation range extends from sea level to approximately 2,000 meters in the foothills of the Himalayas. The species is predominantly terrestrial but is capable climbers and occasional swimmers.
-
-## Venom Composition
-
-The venom of Naja naja is primarily neurotoxic, belonging to the postsynaptic neurotoxin (alpha-neurotoxin) class of elapid venoms. The LD50 in mice is approximately 0.565 mg/kg by intravenous injection, classifying it as a highly toxic venom.
-
-Major toxin families identified in Naja naja venom include three-finger toxins (3FTx), phospholipase A2 enzymes (PLA2), and snake venom metalloproteinases (SVMP). Three-finger toxins are the most abundant component and include both long-chain and short-chain alpha-neurotoxins.
-
-Alpha-neurotoxins, particularly alpha-cobratoxin and alpha-bungarotoxin-like proteins, bind irreversibly to nicotinic acetylcholine receptors at the neuromuscular junction. This blockade prevents acetylcholine from activating the receptor, leading to flaccid paralysis of skeletal muscles.
-
-Cytotoxins, also three-finger toxins, cause local tissue damage including necrosis, blistering, and cell lysis at the bite site. These cardiotoxins can also affect cardiac muscle tissue.
-
-Phospholipase A2 enzymes contribute to both neurotoxicity and myotoxicity. They hydrolyze phospholipid membranes, disrupting cellular integrity and promoting inflammation and pain.
-
-The venom composition shows geographic [[psilocybin-psilocin-variation-across-flushes]] the species range. Populations from different regions may differ significantly in the relative abundance of neurotoxins versus cytotoxins, which has implications for antivenom efficacy.
+The tail constitutes approximately 15-18% of total body length. The subcaudal scales are divided in males and undivided in females, a sexually dimorphic trait useful for [[psilocybin-psilocin-variation-across-flushes]] the species range. Populations from different regions may differ significantly in the relative abundance of neurotoxins versus cytotoxins, which has implications for antivenom efficacy.
 
 Comparative proteomic studies have identified over 80 unique protein components in Naja naja venom from different geographical locations. Transcriptomic analysis has further revealed that venom gland gene expression varies seasonally, with higher neurotoxin expression during warmer months when prey availability increases.
 
@@ -89,6 +62,82 @@ Traditional snake charmers and folk remedies continue to delay appropriate medic
 ## Ecology and Conservation
 
 ## See Also
-- [[psilocin]]
 - [[dom]]
 - [[psilocybin]]
+
+## Overview
+
+Naja Naja represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish naja naja
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving naja extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Naja Naja finds practical application in multiple design contexts.
+[[permaculture-principles]] guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for naja naja. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+naja naja and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Naja Naja has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of naja naja into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.

@@ -13,7 +13,7 @@ sources: []
 
 ### Key ECM Species for Bioremediation
 - **Suillus variegatus** -- enhanced 2,4-dichlorophenol degradation in symbiosis with pine
-- **Amanita, Leccinum, Suillus spp.** -- [[staycare-bioavailability-pollutants-fungal-bioremediation]] may be enhanced by [[mycorrhizal-root-exudates-pathogen-interactions]]
+- **Amanita, Leccinum, Suillus spp.** -- [[mycorrhizal-root-exudates-pathogen-interactions]]
 
 ## Mycorrhizas and Heavy Metal Tolerance
 
@@ -26,11 +26,7 @@ Mycorrhizal fungi play important roles in metal-contaminated environments:
 
 ## Integration with Phytoremediation
 
-The combination of mycorrhizal fungi and plants for [[singh-ericoid-mycorrhizal-fungi-remediation]]
-
-- fungal-bioremediation
-- [[fungal-bioaugmentation-inoculation]]
-- [[fungal-oil-petroleum-bioremediation]]
+The combination of mycorrhizal fungi and plants for [[fungal-bioaugmentation-inoculation]]
 - [[fungal-bioremediation-case-studies]]
 ## Practical Considerations
 

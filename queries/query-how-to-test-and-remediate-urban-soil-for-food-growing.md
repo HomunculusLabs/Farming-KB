@@ -28,8 +28,7 @@ type: query
 
 Urban soils often carry contamination from decades or centuries of human activity — lead paint, leaded gasoline, industrial emissions, coal ash, demolition debris, and chemical spills. The most common urban soil contaminant is **lead (Pb)**, which was pervasive in exterior house paint (before 1978 in the US) and gasoline (before 1996). Other contaminants found in urban soils include arsenic (from treated lumber and historical pesticides), cadmium, chromium, petroleum hydrocarbons, PCBs, and asbestos.
 
-Contaminated soil poses [[raised-beds-vs-in-ground-vs-containers]] with imported soil for root/leafy crops; fruiting crops may be acceptable with amendments |
-| **400–1,200 ppm** | High | [[comparison-raised-beds-vs-hugelkultur]] with fungal-bioturbation-and-soil-aggregate-formation, and boosts microbial activity
+Contaminated soil poses [[comparison-raised-beds-vs-hugelkultur]] with fungal-bioturbation-and-soil-aggregate-formation, and boosts microbial activity
 - Microorganisms in compost can transform contaminants into less bioavailable forms
 - Earthworms attracted to compost-rich soil further improve soil health and contaminant binding
 - This is an ongoing, cumulative strategy — benefits increase with repeated applications
@@ -39,22 +38,8 @@ Contaminated soil poses [[raised-beds-vs-in-ground-vs-containers]] with imported
 For soils with moderate to high contamination (>200 ppm lead), raised beds with clean imported soil are the most reliable approach:
 
 - Build beds **30–60 cm tall** using untreated wood, concrete blocks, or galvanized metal
-- Line the bottom with **[[comparison-mulch-types-and-effects-vs-landscape-fabric-alternatives]]** or geotextile to prevent root penetration into contaminated native soil
-- Fill with **tested, certified clean soil** or a mix of topsoil and compost
-- For extra safety, add a **5 cm gravel layer** above the fabric before adding soil — this prevents wicking of contaminants upward
-- Re-test imported soil before filling beds
+- Line the bottom with **[[query-how-do-i-restore-saline-and-compacted-soil]]
 
-**Cost estimate:** A 3 m × 1 m × 30 cm raised bed requires approximately 0.9 m³ (1.2 cubic yards) of soil mix, costing $30–$100 depending on source and quality.
-
-### Strategy 4: Container Gardening
-
-For very high contamination (>1,200 ppm lead) or when ground access is impossible:
-
-## See Also
-
-- [[query-how-do-i-restore-saline-and-compacted-soil]]
-
-- [[holzer-raised-bed-techniques-hugelkultur]]
 - [[query-what-is-the-soil-food-web-and-why-does-it-matter]]
 ## Practical Considerations
 

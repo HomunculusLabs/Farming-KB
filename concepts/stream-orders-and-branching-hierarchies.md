@@ -1,5 +1,5 @@
 ---
-title: Stream Orders and Branching Hierarchies
+title: [[mollison-stream-orders-and-branching-magnitudes]] Branching Hierarchies
 source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
@@ -8,7 +8,7 @@ type: concept
 
 ## Overview
 
-Natural stream networks exhibit remarkably consistent mathematical patterns in their branching structure. The concept of **stream ordering** — classifying stream segments by their position in the drainage hierarchy — reveals universal ratios governing how branches join, how their lengths change, and how flow behavior transforms at each level. These patterns extend far beyond hydrology, appearing in tree branching, road networks, corporate hierarchies, settlement sizes, and even trophic pyramids. Understanding these orders provides designers with a template for creating efficient, stable multi-scale systems.
+Natural stream networks exhibit remarkably consistent mathematical patterns in their branching structure. The concept of **stream ordering** — classifying stream segments by their position in the drainage hierarchy — reveals universal ratios governing how branches join, how their lengths change, and how flow behavior transforms at each level. These patterns extend far beyond hydrology, appearing in tree branching, road networks, corporate hierarchies, settlement sizes, and even [[mollison-trophic-pyramids-food-webs-and-energy-cycling]]. Understanding these orders provides designers with a template for creating efficient, stable multi-scale systems.
 
 ## Determinants of Stream Patterns
 
@@ -39,7 +39,7 @@ Empirical observation of real stream networks reveals remarkably consistent rati
 - **Length ratio**: Approximately **2:1** — individual branch lengths double as order increases from 1 to 6
 - **Meander ratio**: Approximately **1:3.6** — the regular spacing of meanders depends on velocity and stream width (Vogel, 1981)
 
-These ratios hold across diverse stream types, including non-dendritic patterns, suggesting they reflect fundamental physical principles of fluid flow and landscape development.
+These ratios hold across diverse stream types, including non-dendritic patterns, suggesting they reflect fundamental physical principles of fluid [[pond-depth-series-flow-and-landscape-integration]] development.
 
 ### A Typical Seven-Order Stream
 
@@ -61,7 +61,7 @@ A profound insight from stream ordering is that **everything changes at each ord
 
 ### Headwater Orders (1–2): Turbulent Zone
 - **Flow**: Streamlines, turbulent, high-gradient
-- **Oxygenation**: High — turbulent flow maximizes gas exchange
+- **Oxygenation**: High — turbulent flow maximizes [[mushroom-cultivation-jar-lid-management-loose-fit-vacuum-gas-exchange]]
 - **Fish**: Suctorial mouthparts, flattened fins, streamlined bodies adapted to cling to rocks
 - **Insects**: Adapted to fast-flowing water with specialized gripping structures
 - **Profile**: Flattened S-curve stream beds with steep gradients
@@ -79,7 +79,7 @@ A profound insight from stream ordering is that **everything changes at each ord
 - **Organisms**: Bulky molluscs, jellyfish in quiet areas
 - **Shape**: Less streamlined, more sedentary body forms
 
-The correlation between stream order and organism form demonstrates that **gaseous exchange, mediated by flow turbulence, determines life forms**. This principle extends to trees, where birds and insects are similarly confined to or modified for specific orders of branching.
+The correlation between stream order and organism form demonstrates that **[[soil-gaseous-exchange-mollison]], mediated by flow turbulence, determines life forms**. This principle extends to trees, where birds and insects are similarly confined to or modified for specific orders of branching.
 
 ## Equilibrium and Maturation
 
@@ -110,28 +110,14 @@ The ordering principles observed in streams apply to many systems:
 - Functional hierarchies where information passes bidirectionally have optimal size constraints
 
 ### Biological Systems
-- **Trophic pyramids**: Size factor changes with dimensions (times ~10 for trophic levels vs. times ~3 for river branches)
+- **Trophic pyramids**: Size factor changes with dimensions (times ~10 for [[ingham-soil-foodweb-trophic-levels-protozoa-nematodes]] vs. times ~3 for river branches)
 - **Physical entities**: From protons to universes, size change produces different behaviors (giant and dwarf stars behave very differently)
 - **Tree canopies**: Birds and insects partition by branch order
 
 ## Design Implications
 
-For [[permaculture]] designers, the ordering principle offers several critical lessons:
-
-1. **Study before building**: Understand the natural stable orders for any system type before designing
-2. **Respect equilibrium**: Altering one aspect of a branching system (e.g., widening a highway) cascades through all connected levels
-3. **Function over status**: Each order level is equally necessary — the trunk is not "less than" the leaves. What matters is functional relationship, not hierarchical position
-4. **Choose appropriate scales**: When designing settlements, infrastructure, or biological systems, select from established stable size classes
-5. **Expect life-form changes**: Designing for different flow orders means planning for different associated species and behaviors
-
-The concept of "status" is explicitly rejected in favor of "function." As Mollison states: "It is not what you are; it is what you do in relation to the society you choose to live in." Each part of a branching system needs the others, and none functions without the rest — a principle that applies equally to streams, forests, organizations, and communities.
-
-## Key References
-
-- Vogel, S. (1981). *Life in Moving Fluids*. Princeton University Press.
-- Mollison, B. (1988). *Permaculture: A Designer's Manual*. [[tagari-publications]].
+For [[tagari-publications]].
 
 ## See Also
-- [[mollison-stream-orders-and-branching-magnitudes]]
 - [[branching-patterns-and-stream-orders]]
 - [[stream-orders-and-settlement-design]]

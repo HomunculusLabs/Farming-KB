@@ -2,31 +2,13 @@
 
 ## Overview
 
-Succession planting for [[cold-house-winter-harvest-system]] requires a fundamentally different approach than spring and summer planting schedules. In the winter harvest system developed by Eliot Coleman at Four Season Farm in coastal Maine, the key insight is that seasons are reversed from the usual spring-planting experience: day length is contracting rather than expanding, and temperatures are becoming cooler rather than warmer.
-
-Success in maintaining a continuity of crops for harvest through the winter depends on understanding how shorter day length and cooler temperatures increase the time from sowing to harvest. The choice of precise sowing dates for fall planting is much more crucial than for spring planting, and the dates are highly crop-specific. Getting the sowing date wrong by even two weeks can mean the difference between a harvestable crop and one that is too small to survive the winter.
-
-This page covers the day length factor, sowing date calculation methods, adjusted maturity rates for fall conditions, crop-specific timing windows, [[crop-rotation-and-ley-farming]] strategies for continuous winter harvest.
+Succession planting for [[crop-rotation-and-ley-farming]] strategies for continuous winter harvest.
 
 ---
 
 ## The Day Length Factor
 
-Coleman identifies day length as the single most important variable governing [[coleman-sunlight-and-winter-crop-growth-rates]] rates. While temperature certainly affects growth, day length is the dominant factor because it triggers hormonal responses in plants that regulate growth, flowering, and dormancy.
-
-### The Ten-Hour Day Threshold
-
-Once the day length drops below ten hours, plant growth effectively ceases for most cold-hardy vegetables. In coastal Maine (latitude 44°N), this ten-hour threshold occurs around November 20 and does not return until January 21 — a period of approximately two months that Coleman calls the "Persephone months," after the Greek goddess who spent part of each year in the underworld.
-
-During the Persephone months, plants do not die but enter a state of semi-dormancy. They are essentially in cold storage, maintaining their quality without growing appreciably. The goal of the winter harvest system is to have plants reach near-maturity before the ten-hour day threshold arrives. Once day length drops below ten hours, the crops become a living refrigerator, ready for harvest over the following months.
-
-### Latitude Dependence
-
-The Persephone months vary significantly by latitude:
-
-- **44°N (Maine, northern US)**: November 20 to January 21
-- **40°N (New York, Philadelphia)**: December 5 to January 5
-- **35°N ([[north-carolina-mycodiversity]], Tennessee)**: December 15 to December 28
+Coleman identifies day length as the single most important variable governing [[north-carolina-mycodiversity]], Tennessee)**: December 15 to December 28
 
 Growers at lower latitudes have shorter Persephone months and can achieve more winter growth. At higher latitudes, the winter dormancy period is longer and the sowing window is correspondingly earlier. The principles remain the same, but the specific dates must be adjusted for local latitude.
 
@@ -77,7 +59,7 @@ Sow August 15 through September 15 for harvest from October through March. Spina
 
 ### Carrots
 
-Sow early August for harvest beginning in December. [[coleman-sweet-winter-carrots-cold-sweetening]] require a long growing period to reach full size before growth slows. Coleman recommends selecting varieties bred for [[coleman-beet-greens-cold-house-winter-production]], such as 'Bolero' and 'Merida', which maintain sweetness in cold conditions and store well in the ground.
+Sow early August for harvest beginning in December. [[coleman-beet-greens-cold-house-winter-production]], such as 'Bolero' and 'Merida', which maintain sweetness in cold conditions and store well in the ground.
 
 ### Asian Greens
 
@@ -118,8 +100,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[winter-succession-planting]]
 - [[succession-planting]]
-- [[eliot-coleman]]
 - [[dom]]
 - [[det]]

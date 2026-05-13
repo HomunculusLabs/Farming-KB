@@ -14,12 +14,7 @@ consistent and significant gradient across the plant-soil interface in Cannabis.
 is highest in bulk soil, decreases slightly in the rhizosphere, and drops dramatically within
 the endorhiza (root interior). This pattern reflects progressive ecological filtering as
 microbes transition from open soil into the nutrient-rich but selective root zone and
-ultimately into root tissue itself. (see [[two-tier-selection-model-rhizosphere-microbiome]]).
-
-## The Three-Zone Diversity Pattern
-
-### Bulk Soil: Maximum Diversity
-Bulk soil represents the most diverse microbial habitat in the Cannabis root ecosystem. (see [[cannabis-alpha-diversity-gradient-bulk-soil-rhizosphere-endorhiza]]).
+ultimately into root tissue itself. (see [[cannabis-alpha-diversity-gradient-bulk-soil-rhizosphere-endorhiza]]).
 In the second experiment of Winston et al. (2014), bulk soil samples demonstrated the
 highest chao1 alpha-diversity estimates across both soil types tested. The Mo-Bio (MB)
 soil bulk samples had a mean chao1 of 5597 (SD = 89), while Orange County (OC) soil bulk
@@ -54,15 +49,7 @@ bulk soil had a chao1 of 2010.7 (SD = 146.2), rhizosphere 1837.2 (SD = 114.0), a
 endorhiza 916.1 (SD = 161.7). The extremely low endorhiza diversity in the first
 experiment was attributed to early stages of root decay following harvest, as the samples
 were collected long after the living plant had been removed. This finding underscores that
-alpha diversity in the endorhiza is heavily influenced by [[cho-plant-growth-stage-treatment-protocols]] and tissue
-health — living roots maintain a more diverse endophytic community than decaying roots.
-
-## Soil Type Effects on Alpha Diversity
-
-Soil type significantly influenced alpha diversity in bulk soil and rhizosphere samples
-but showed negligible differences in the endorhiza. MB soil supported higher diversity
-than OC soil in both bulk and rhizosphere compartments, likely due to differences in
-[[cannabinoid-microbiome-correlation-confounded-edaphic-factors]] including nitrogen content, salinity, organic carbon, and water content.
+alpha diversity in the endorhiza is heavily influenced by [[cannabinoid-microbiome-correlation-confounded-edaphic-factors]] including nitrogen content, salinity, organic carbon, and water content.
 However, once bacteria colonized the endorhiza, diversity converged between soil types.
 This convergence supports the two-tier selection model: soil determines the available
 species pool (Tier 1), but host genotype-dependent selection (Tier 2) overrides soil
@@ -82,11 +69,7 @@ The decline in alpha diversity is accompanied by predictable taxonomic shifts:
 
 ## Implications for Cannabis Agriculture
 
-The alpha diversity gradient has practical implications for [[arbuscular-mycorrhizal-fungi-cannabis-cultivation]]:
-1. **Soil health matters**: High bulk soil diversity provides a larger pool of potentially
-   beneficial microbes for root colonization.
-2. **Living roots vs. post-harvest**: Microbiome studies should prioritize sampling from
-   living plants, as post-harvest samples show degraded [[arbuscular-mycorrhizal-fungal-diversity-patterns-distribution]].
+The alpha diversity gradient has practical implications for [[arbuscular-mycorrhizal-fungal-diversity-patterns-distribution]].
 3. **Breeding considerations**: Cultivar-specific selection in the endorhiza (Tier 2) means
 
 ## Practical Applications
@@ -118,8 +101,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[dom]]
 - [[det]]
-- [[root-exudates]]
 - [[mycorrhiza]]
 - [[alpha-diversity-gradient-bulk-soil-cannabis-endorhiza]]

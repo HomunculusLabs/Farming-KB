@@ -12,15 +12,13 @@ type: concept
 
 # AACT Disease Suppression Mechanisms
 
-Actively [[actively-aerated-compost-tea]] Tea (AACT) suppresses plant diseases through fundamentally different mechanisms than chemical pesticides. According to Elaine Ingham's *The Field Guide I for Actively Aerated Compost Tea*, AACT is a **preventative approach**, not a pesticide. No toxic chemicals are involved — instead, disease suppression arises from ecological competition mediated by a thriving [[soil-foodweb]] functions as an active biological buffer.
+Actively [[soil-foodweb]] functions as an active biological buffer.
 
 Ingham emphasizes that food is the second major control point after site occupation. First, the beneficials take up all the space. Then, they eat all the food. Between these two mechanisms, the pathogen faces an environment where it can neither find a place to establish nor the energy to grow. This dual pressure is why well-maintained AACT programs are so effective.
 
 ## The Role of Plant Health
 
-The plant itself is a critical partner in this system. A healthy plant puts out root and leaf exudates — what Ingham calls "cakes and cookies" — that feed and sustain the beneficial [[edaphic-factors-microbial-community-structure]]. Without these exudates, even well-applied tea organisms may not persist. Plant health and microbial health are mutually reinforcing: the plant feeds the microbes, and the microbes protect the plant.
-
-This means that if a plant is stressed — from [[cannabis-grow-nutrient-deficiency-problem-solving]], compaction, poor drainage, or chemical damage — its exudate production declines, weakening the protective microbial community and opening the door to disease. AACT applications work best as part of a holistic system that addresses plant health broadly.
+The plant itself is a critical partner in this system. A healthy plant puts out root and leaf exudates — what Ingham calls "cakes and cookies" — that feed and sustain the beneficial [[cannabis-grow-nutrient-deficiency-problem-solving]], compaction, poor drainage, or chemical damage — its exudate production declines, weakening the protective microbial community and opening the door to disease. AACT applications work best as part of a holistic system that addresses plant health broadly.
 
 The exudate connection also explains why different plants support different microbial communities. The specific mix of sugars, amino acids, organic acids, and other compounds a plant releases through its roots and leaf surfaces determines which beneficial organisms will thrive there. AACT provides a diverse inoculum; the plant's exudates then select and nourish the specific community it needs.
 
@@ -28,12 +26,7 @@ The exudate connection also explains why different plants support different micr
 
 When a vineyard, orchard, or field has been in serious disease mode for years, the beneficial microbial community is likely depleted or absent. In these situations, **weekly applications of AACT are needed** to establish beneficial organisms, ensure they survive, enable them to grow, and allow them to outcompete disease organisms that have become entrenched. This is not a one-time fix — it is a restoration process that requires consistent effort until the biological system reaches self-sustaining equilibrium.
 
-Once the [[mycorrhizal-fungi]] associations also play a protective role by strengthening plant defenses and occupying infection courts.
-
-### Foliar Diseases
-
-- **Powdery mildew**: Leaf-surface beneficial organisms occupy the epidermal sites where powdery mildew spores germinate. Regular foliar AACT applications maintain this protective biofilm throughout the growing season.
-- **Anthracnose**: Suppressed by [[query-what-is-the-difference-between-bacterial-and-fungal-dominant-soil]] communities on fruit and leaf surfaces that consume nutrients anthracnose needs and physically block infection sites.
+Once the [[query-what-is-the-difference-between-bacterial-and-fungal-dominant-soil]] communities on fruit and leaf surfaces that consume nutrients anthracnose needs and physically block infection sites.
 - **Late blight** (*Phytophthora infestans*): Beneficial organisms on leaf surfaces compete for moisture and nutrients, creating conditions inhospitable to Phytophthora zoospore germination.
 - **Black spot**: The protective microbial layer on leaf surfaces prevents black spot spore germination and penetration through the cuticle.
 - **Brown rot**: Fruit-surface beneficials compete with Monilinia for the same resources, preventing fruit infection and sporulation.
@@ -70,13 +63,8 @@ This durability is why Ingham states that pesticides can be deleted once benefic
 
 Successful AACT disease suppression depends on several factors working together:
 
-1. **Tea quality**: The tea must contain adequate diversity and biomass of organisms appropriate to the target disease. See [[soil-foodweb]] that supports plant health from the roots up.
-
-## Related Concepts
-
-- [[mycorrhizal-fungi]] — Root-zone protection and plant health support
-- [[compost-tea-application-rates]] — Coverage and timing strategies
-- fungal-soil-food-web — Leaf-surface [[fukuoka-microbial-ecology-decomposition]]
+1. **Tea quality**: The tea must contain adequate diversity and biomass of organisms appropriate to the target disease. See [[mycorrhizal-fungi]] — Root-zone protection and plant health support
+- [[fukuoka-microbial-ecology-decomposition]]
 ## Practical Considerations
 
 Successful implementation of AACT Disease Suppression Mechanisms requires attention to
@@ -96,36 +84,8 @@ Aact Disease Suppression Mechanisms Ingham has significant applications in susta
 The development and understanding of aact disease suppression mechanisms ingham has evolved considerably over recent decades, with contributions from researchers, practitioners, and indigenous knowledge systems worldwide.
 
 ## See Also
-- [[ingham-aact-disease-suppression-competition-mechanisms]]
 - [[ingham-aact-disease-suppression-through-food-competition]]
-- [[ingham-aact-orchard-disease-suppression-verticillium-brown-rot-cedar-rust]]
 - [[ingham-aact-disease-suppression]]
-- [[aact-vineyard-disease-suppression-protocols-ingham]]
-
-## Key Considerations
-
-Several important factors influence the effectiveness and outcomes described
-in this topic. Understanding these considerations helps practitioners make
-informed decisions and avoid common pitfalls. Environmental conditions,
-timing, and material selection all play critical roles.
-
-## Historical Context
-
-The historical development of this subject reflects centuries of accumulated
-knowledge and practical experience. From traditional methods passed down
-through generations to modern scientific approaches, the evolution continues
-to inform current best practices and research directions.
-
-## Common Challenges
-
-Practitioners frequently encounter several challenges when working with
-these concepts. Climate variability, resource limitations, and knowledge
-gaps can all affect outcomes. Addressing these challenges requires patience,
-observation, and a willingness to adapt approaches based on results.
-
-## See Also
 - [[elaine-ingham]]
-- [[ingham-aact-disease-suppression-competition-mechanisms]]
 - [[dom]]
-- [[actively-aerated-compost-tea]]
 - [[det]]

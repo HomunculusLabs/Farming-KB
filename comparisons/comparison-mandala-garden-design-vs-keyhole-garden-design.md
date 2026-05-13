@@ -34,64 +34,8 @@ beds at intervals, creating a pattern of circular and petal-shaped growing
 areas. This approach increases usable growing area by 30-50 percent compared to 
 rectangular bed layouts with the same perimeter, because circular geometry 
 maximizes the edge-to-area ratio. Mandala gardens are typically established 
-through [[comparison-sheet-mulching-vs-chop-and-drop-mulching]] directly over lawn or compacted ground, making them 
-accessible to gardeners without heavy equipment. The design works well for 
-front-yard installations where aesthetics are important, as the geometric 
-patterns create an attractive and inviting landscape. Multiple mandala beds can 
-be linked together for larger garden areas, and the design scales naturally 
-from small courtyard installations to quarter-acre food gardens.
-
-## Keyhole Garden Design
-
-The keyhole garden is a single circular raised bed, typically 5-6 feet in 
-diameter and 2-3 feet tall, built with a wedge-shaped access notch leading to a 
-central compost basket. It functions as an independent, self-contained growing 
-unit. The central basket continuously feeds the surrounding soil with nutrients 
-and moisture through wicking action, making the keyhole garden particularly 
-effective in arid climates and on poor soils. Because it is modular, a single 
-keyhole garden can be built in an afternoon with minimal materials, making it 
-an excellent starter project. Multiple keyhole gardens can be arranged in rows, 
-clusters, or integrated into larger designs, but each unit operates 
-independently. The simplicity of the keyhole design makes it ideal for 
-community gardens, school projects, and humanitarian applications where 
-construction skill and available materials may be limited.
-
-## Key Differences
-
-| Feature | Mandala Garden | Keyhole Garden |
-|---------|---------------|----------------|
-| Scale | Landscape pattern, entire garden area | Single modular unit, 5-6ft 
-diameter |
-| Number of beds | Multiple interconnected beds | One self-contained bed per 
-unit |
-| Access pattern | Radiating walkways with keyhole notches | Single keyhole 
-notch per unit |
-| Fertility source | External compost, sheet mulch layers | Central compost 
-basket (self-fertilizing) |
-| Construction time | Days to weeks (sheet mulching) | Afternoon (single unit) |
-| Edge efficiency | 30-50% more growing area vs rectangular | Optimized single 
-bed access |
-| Establishment | Sheet mulching over existing ground | Raised bed construction 
-|
-| Aesthetic impact | Strong geometric visual pattern | Simple circular form |
-| Scalability | Multi-bed patterns scale to large areas | Modular, add units as 
-needed |
-| Ideal location | Front yard, demonstration gardens | Vegetable patches, 
-community plots |
-| Complexity | Higher planning and layout required | Simple, beginner-friendly |
-
-## When to Choose a Mandala Garden
-
-Choose a mandala garden when you are designing an entire garden area from 
-scratch and want to maximize both productivity and visual appeal. The mandala 
-layout excels in front-yard food gardens where neighbors and visitors will 
-appreciate the geometric beauty of the design. It is ideal for demonstration 
-gardens, [[holmgren-permaculture-education-training-and-pdc]] centers, and public spaces that need to 
-communicate sustainable [[holmgren-permaculture-twelve-design-principles-framework]] through their layout. The sheet 
-mulching establishment method makes it accessible without tilling, and the 
-multiple bed arrangement supports crop rotation across seasons. Larger 
-properties benefit from the scalable nature of mandala patterns, which can 
-incorporate perennial plantings, annual beds, and [[comparison-companion-planting-reference-vs-jadam-monoculture-critique]] guilds 
+through [[holmgren-permaculture-education-training-and-pdc]] centers, and public spaces that need to 
+communicate sustainable [[comparison-companion-planting-reference-vs-jadam-monoculture-critique]] guilds 
 within the radiating geometry.
 
 ## When to Choose a Keyhole Garden
@@ -123,9 +67,83 @@ improved moisture management in dry climates.
 ## See Also
 
 - permaculture-designers-manual-keyhole-garden for detailed building instructions
-- [[gaias-garden-keyhole-beds-and-mandala-gardens]] for Hemenway's integrated 
-approach
 - [[mandala-garden-design]] for the original design 
-[[permaculture-designers-manual-reference-trees]]
-- [[keyhole-garden-design]]
+[[keyhole-garden-design]]
 - [[companion-planting-guilds]]
+
+## Overview
+
+Comparison Mandala Garden Design Vs Keyhole Garden Design represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish comparison mandala garden design vs keyhole garden design
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving comparison extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Comparison Mandala Garden Design Vs Keyhole Garden Design finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for comparison mandala garden design vs keyhole garden design. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+comparison mandala garden design vs keyhole garden design and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Comparison Mandala Garden Design Vs Keyhole Garden Design has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of comparison mandala garden design vs keyhole garden design into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.

@@ -10,18 +10,12 @@ sources:
 ---
 # Fukuoka Winter Grain/Rice Rotation
 
-The winter grain/rice rotation is Masanobu Fukuoka's signature agricultural system -- a "[[comparison-seed-starting-indoors-vs-direct-seeding-techniques]] non-cultivation winter-grain/rice succession" that produces rice and barley (or rye) from the same field each year without plowing, chemical fertilizer, or pesticides. Yields of approximately 22 bushels (1,300 pounds) per [[fukuoka-agriculture-tomorrow-quarter-acre-vision]] for each crop match or exceed Japanese national averages.
+The winter grain/rice rotation is Masanobu Fukuoka's signature agricultural system -- a "[[fukuoka-agriculture-tomorrow-quarter-acre-vision]] for each crop match or exceed Japanese national averages.
 
 ## The Annual Cycle
 
 ### Early October
-- [[clay-seed-balls-tsuchi-dango]] is broadcast among the young grain
-- A thin layer of chicken manure is spread to help decompose the straw
-- The year's planting is complete
-
-### November through April
-- Winter grain (barley/rye) grows through the winter with clover as ground cover
-- Rice seeds lie dormant in their [[fukuoka-aerial-seeding-clay-pellets-desert-revegetation-technique]], protected from birds and rot
+- [[fukuoka-aerial-seeding-clay-pellets-desert-revegetation-technique]], protected from birds and rot
 - No irrigation during this period; rainwater is sufficient
 
 ### May
@@ -58,17 +52,12 @@ The straw must be scattered randomly, "just as though the stalks had fallen natu
 Contrary to the universal belief that rice must be grown in flooded paddies, Fukuoka found rice grows best when soil moisture is between 60-80% of water-holding capacity. Flooding exists mainly to control weeds, and Fukuoka replaced it with straw mulch and temporary flooding. Plants develop stronger roots and greater disease resistance when not continuously flooded.
 
 ### Compact Plant Form
-Fukuoka deliberately keeps plants small and compact rather than tall with big leaves. Small plants produce grain equal to or heavier than their straw weight (2,000 lbs straw yields 2,000+ lbs rice). Tall, over-nourished plants expend too much energy on [[cannabis-vegetative-growth-stage]], yielding less grain proportionally.
-
-## Labor Efficiency
-
-The entire cycle for a quarter-acre field requires only one or two hours for seeding and spreading straw. With the exception of harvesting, winter grain can be grown single-handedly, and two or three people can handle all rice work using traditional Japanese tools. "There is probably no easier, simpler [[query-what-is-the-kratky-method-for-growing-cannabis]] grain."
+Fukuoka deliberately keeps plants small and compact rather than tall with big leaves. Small plants produce grain equal to or heavier than their straw weight (2,000 lbs straw yields 2,000+ lbs rice). Tall, over-nourished plants expend too much energy on [[query-what-is-the-kratky-method-for-growing-cannabis]] grain."
 
 ## Related
 
-- [[four-principles-of-natural-farming]] -- the principles behind the rotation
 - [[white-clover-living-mulch]] -- the living mulch component
-- [[fukuoka-rice-barley-dual-culture]] and fukuoka winter grain rice rotation. Fukuoka demonstrated that this ancient practice could be maintained -- even improved -- through [[comparison-natural-farming-vs-permaculture]] methods, without the heavy tillage and chemical inputs that conventional wisdom deemed necessary.
+- [[comparison-natural-farming-vs-permaculture]] methods, without the heavy tillage and chemical inputs that conventional wisdom deemed necessary.
 
 ## The Political Economy of Food Dependence
 
@@ -121,8 +110,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[masanobu-fukuoka]]
 - [[dom]]
-- [[permaculture]]
 - [[water-management]]
 - [[fukuoka-barley-winter-grain-method]]

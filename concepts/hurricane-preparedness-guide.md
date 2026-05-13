@@ -3,7 +3,7 @@ title: Hurricane Preparedness Guide
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
-tags: [safety, [[homesteading]], climate, environment, water]
+tags: [safety, homesteading, climate, environment, water]
 sources: []
 ---
 
@@ -76,7 +76,7 @@ Windows are the most vulnerable point on a building during a hurricane. Once a w
 - Water: 1 gallon per person per day (drinking, cooking, hygiene) — 7 gallons minimum per person
 - Non-perishable food that requires no cooking: canned goods, granola bars, dried fruit, nuts, crackers
 - Manual can opener
-- Camp stove with fuel ([[query-how-to-build-a-cob-oven-for-outdoor-cooking]] only — never indoors)
+- Camp stove with fuel (for outdoor cooking only — never indoors)
 - Water purification: bleach (unscented, 8 drops per gallon), purification tablets, or filter
 - Cooler and ice for perishables
 
@@ -98,7 +98,7 @@ Windows are the most vulnerable point on a building during a hurricane. Once a w
 
 ### First Aid and Health
 - Complete first aid kit (see [[homestead-first-aid-guide]])
-- [[ayahuasca-interactions-with-prescription-medications]] (30-day supply minimum)
+- Prescription medications (30-day supply minimum)
 - Mosquito repellent
 - Sunscreen
 - Hand sanitizer
@@ -140,11 +140,11 @@ Windows are the most vulnerable point on a building during a hurricane. Once a w
 ## Protecting Livestock and Animals
 
 - Evacuate livestock early — trailers cannot be safely towed in hurricane winds
-- Move animals to the most sturdy, well-built shelter available
-- Ensure access to feed and water for 7+ days (water bowls may blow away — secure them)
-- Do not leave animals in pastures that may flood from storm surge or rainfall
-- Tag or mark all animals with identification
-- Have veterinary first aid supplies ready (see [[homestead-first-aid-guide]])
-- After the storm, check animals for injuries and provide clean water immediately
 
-## Recovery After Hurricane
+## See Also
+
+- [[mollison-hurricane-and-cyclone-resilient-design]]
+- [[wildfire-preparedness-guide]]
+- [[extreme-heat-preparedness]]
+- [[earthquake-preparedness-guide]]
+- [[williams-pdc-disaster-preparedness]]

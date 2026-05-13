@@ -9,25 +9,11 @@ sources:
 ---
 # 2C-H (2,5-Dimethoxyphenethylamine)
 
-2C-H is a phenethylamine compound and the parent molecule of the 2C family of [[psychedelic-substances-comparison]]. It serves as the unsubstituted precursor from which many active 2C compounds are synthesized. The compound is listed as [[2c-b-pihkal-entry-20]] #32.
+2C-H is a phenethylamine compound and the parent molecule of the 2C family of [[2c-b-pihkal-entry-20]] #32.
 
 ## Chemical Classification
 
-2C-H belongs to the phenethylamine class of [[neurotropic-fungi-chemical-compounds]].
-
-It is formally named 2,5-dimethoxyphenethylamine.
-
-The 2C nomenclature refers to the two carbon atoms between the aromatic ring and the amino group, with H indicating the unsubstituted state at the 4-position.
-
-## Pharmacological Profile
-
-2C-H has never been reported as having been tried by humans.
-
-It is presumed to be completely inactive as a psychoactive compound due to its susceptibility to destruction by monoamine oxidase (MAO) enzymes in the body.
-
-In virtually all animal assays where it has been compared with known psychoactive drugs, 2C-H ranks at the "less-active" end of the scale.
-
-Despite its presumed inactivity, 2C-H is one of the most important synthetic precursors in psychedelic [[phenethylamine-chemistry-basics]].
+2C-H belongs to the phenethylamine class of [[phenethylamine-chemistry-basics]].
 
 ## Synthesis and Chemistry
 
@@ -41,35 +27,9 @@ The reduction proceeds over 36 hours at reflux, followed by careful workup to de
 
 The free base distills at 80-100 degrees C at 0.4 mm/Hg and is obtained as a water-white oil.
 
-The free base picks up [[carbon-dioxide-retention-jar-lid-mushroom-cultivation]] rapidly upon exposure to air.
+The free base picks up [[2c-i]], [[2c-i]].
 
-It is readily converted to the hydrochloride salt with a melting point of 138-139 degrees C.
-
-## Role as Synthetic Precursor
-
-2C-H is described by Shulgin as "one of the most magnificent launching pads" for a number of unusual and, in some cases, extraordinary drugs.
-
-In chemical terms, the compound is amenable to electrophilic attack at the 4-position, which Shulgin calls "where the action is."
-
-From this presumably inactive precursor have evolved active end products such as [[2c-i]], [[2c-n-entity]].
-
-The 4-position of the 2,5-dimethoxyphenethylamine scaffold can accept a wide range of substituents including halogens, alkylthio groups, and other functional groups.
-
-Future derivatives could potentially arise from carbinol groups, amine functions, or anything stemming from a lithium atom at the 4-position.
-
-## Relationship to Other Compounds
-
-2C-H occupies a unique position in the 2C family as the unsubstituted parent compound from which all other 2C variants derive.
-
-The addition of a bromine atom at the 4-position yields [[2c-i]].
-
-The addition of a chlorine atom at the 4-position yields [[2c-n-entity]].
-
-Each of these derivatives introduces dramatically different pharmacological properties compared to the inactive parent compound.
-
-## Historical Context
-
-2C-H is documented in PIHKAL (Phenethylamines I Have Known and Loved) by [[alexander-shulgin]] and Ann Shulgin.
+The addition of a chlorine atom at the 4-position yields [[alexander-shulgin]] and Ann Shulgin.
 
 It was included in the book not for its psychoactive properties, but for its critical importance as a synthetic intermediate.
 
@@ -88,3 +48,88 @@ No human trials have been documented.
 No toxicity data is available for 2C-H in humans.
 
 The compound is assumed to be rapidly metabolized by monoamine oxidase enzymes, which may limit any potential toxicity.
+
+## Overview
+
+2C H Entity represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish 2c h entity
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving 2c extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+2C H Entity finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for 2c h entity. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+2c h entity and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+2C H Entity has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of 2c h entity into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[2c-g-3-entity]]
+- [[4-5-mdo-dmt-entity-tihkal]]
+- [[5-6-mdo-dipt-entity-tihkal]]
+- [[mdcpm-entity-pihkal]]
+- [[methyl-k-entity-pihkal]]

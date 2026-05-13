@@ -2,15 +2,13 @@
 
 ## Overview
 
-Beta diversity quantifies the degree of species turnover between sites or along [[fungal-adaptations-environmental-gradients]]. In mycology, beta diversity measures are essential for comparing [[biodiversity-fungi-soil-fungal-communities]] across habitats, assessing the impact of environmental gradients, and evaluating the effectiveness of [[endangered-fungi-and-conservation-strategies]]. The foundational work by Whittaker (1977) and subsequent refinements by Zak and Willig in *[[biodiversity-of-fungi-biodiversity-patterns-ecosystems]]* provide the framework for these analyses.
+Beta diversity quantifies the degree of species turnover between sites or along [[biodiversity-fungi-soil-fungal-communities]] across habitats, assessing the impact of environmental gradients, and evaluating the effectiveness of [[biodiversity-of-fungi-biodiversity-patterns-ecosystems]]* provide the framework for these analyses.
 
 ## Defining Beta Diversity
 
 ### Whittaker's Framework
 
 R.H. Whittaker (1977) proposed a multi-scale diversity framework:
-- **[[alpha-diversity-gradient-bulk-soil-cannabis-endorhiza]]**: Species richness within a single, homogeneous habitat
-- **Beta diversity**: The degree of species turnover between different habitats or along environmental gradients
 - **[[alpha-beta-gamma-diversity-fungi]]**: The total species richness across all habitats in a landscape
 - **Delta diversity**: Geographic turnover of species across regional boundaries
 - **Epsilon diversity**: The total diversity of a geographic region
@@ -118,8 +116,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[fungal-biodiversity-similarity-indices-beta-diversity]]
 - [[mycology]]
-- [[fungal-spatial-scale-biodiversity-hierarchical-zak-willig]]
 - [[fungal-biodiversity-power-analysis-statistical-design-zak-willig]]
 - [[fungal-beta-diversity-species-turnover]]

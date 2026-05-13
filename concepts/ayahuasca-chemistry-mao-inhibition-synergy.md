@@ -3,15 +3,7 @@ title: Ayahuasca Chemistry and the MAO Inhibition Synergy
 created: 2026-05-11
 source: mckenna_t-tryptamines_consciousness.md
 tags: [ayahuasca, dmt, maoi, beta-carboline, harmine, harmaline, ethnopharmacology]
-aliases: [[ayahuasca-pharmacology]], MAOI DMT Synergy, Yage Chemistry]
----
-
-# Ayahuasca Chemistry and the MAO Inhibition Synergy
-
-Ayahuasca is a psychoactive brew of Amazonian origin that combines
-N,N-dimethyltryptamine (DMT) with monoamine oxidase-inhibiting β-carboline
-alkaloids, enabling oral activity of a compound that would otherwise be
-instantly deactivated by hepatic metabolism. [[terence-mckenna]] described
+aliases: [[terence-mckenna]] described
 ayahuasca as "a combination of dimethyltryptamine and a monoamine oxidase
 inhibitor that is taken orally" — a deceptively simple description of one
 of the most sophisticated pharmacological discoveries in human history.
@@ -131,15 +123,6 @@ explorations:
 
 - **Clinical studies** — ayahuasca shows promise for depression, anxiety,
   and substance use disorders in controlled settings
-- **Neuroimaging** — fMRI reveals altered [[default-mode-network-and-ego-dissolution]] activity
-  and increased global connectivity
-- **Pharmacokinetics** — modern [[analytical-methods-psilocybin-psilocin-quantification]] have characterized the
-  full alkaloid profile and metabolism of [[schultes-ayahuasca-preparations]]
-
-## See Also
-
-- dmt nn dimethyltryptamine pharmacology and experience — DMT details
-- tryptamine hallucinogens and nature of consciousness — McKenna's
-  consciousness framework
-- [[ayahuasca-and-banisteriopsis-caapi]] — the vine itself
+- **Neuroimaging** — fMRI reveals altered [[analytical-methods-psilocybin-psilocin-quantification]] have characterized the
+  full alkaloid profile and metabolism of [[ayahuasca-and-banisteriopsis-caapi]] — the vine itself
 - [[beta-carboline-alkaloids]] — harmine, harmaline chemistry

@@ -37,45 +37,103 @@ And that is as high a dose as has apparently ever been tried with ETHYL-K. The c
 
 A solution of 120 mg mercuric chloride in 160 mL H2O was poured over 4.7 g aluminum foil (Reynolds Wrap, regular weight, cut into 1 inch squares) and allowed to stand until the amalgamation was well underway (about 30 min). The H2O was then drained and the foil washed with 2x200 mL H2O with thorough draining. There was then
 
-added, in sequence and with good swirling and agitation between each addition, 8.5 g ethylamine hydrochloride dissolved in 7 mL H2O, 21 mL IPA, 17 mL 25% NaOH, 7.1 g 1-(3,4-methylenedioxyphenyl)-2-pentanone (see the recipe for METHYL-K for its preparation), and finally 40 mL IPA. The reaction mixture was periodically heated on the [[scythian-cannabis-steam-bath-ritual]] to keep the reaction moving and active. After all the metal had been consumed, the mixture was filtered, and the filter cake washed with MeOH. The solvent was removed from the combined filtrate and washings, and the residue suspended in 800 mL dilute HCl. This was washed with 3x100 mL Et2O, made basic with 25% NaOH, and extracted with 3x100 mL CH2Cl2. The pooled extracts were stripped of solvent under vacuum yielding a residue of 6.3 g of an amber oil. This was distilled at 115-125 deg C at 0.4 mm/Hg to give 5.61 g of an almost white liquid which was dissolved in 28 mL IPA, neutralized with concentrated HCl, and diluted with 100 mL anhydrous Et2O. The resulting clear solution became cloudy, then set up in a cottage cheese texture, and then all broke up to a beautiful loose solid. This was filtered, Et2O washed and air dried to give 5.99 g 2-ethylamino-1-(3,4-methylenedioxyphenyl)pentane hydrochloride (ETHYL-K) with a mp of 157-158 deg C. Anal. (C14H22ClNO2) C,H.
-
-## Safety Notes
-
-ETHYL-K is a research chemical documented in PIHKAL. Dosage data and
-safety profiles are based on limited self-experimentation. Exercise
-extreme caution. This compound is not approved for human consumption.
-
-## Applied Notes
-
-ETHYL-K -- PIHKAL Entry #78 should be evaluated in relation to climate, soil or substrate
-conditions, available labor, and the larger design goals of the site.
-The most reliable use comes from observation, small trials, and gradual
-scaling rather than assuming that one method works everywhere.
-
-## Implementation Factors
-
-Important variables include timing, moisture, fertility, species or
-variety selection, and the way the practice interacts with surrounding
-plants, fungi, animals, and people. Keeping records of failures is as
-useful as recording successes because it shows which constraints are
-most important locally.
-
-## System Connections
-
-This topic often overlaps with [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]], habitat design, water
+added, in sequence and with good swirling and agitation between each addition, 8.5 g ethylamine hydrochloride dissolved in 7 mL H2O, 21 mL IPA, 17 mL 25% NaOH, 7.1 g 1-(3,4-methylenedioxyphenyl)-2-pentanone (see the recipe for METHYL-K for its preparation), and finally 40 mL IPA. The reaction mixture was periodically heated on the [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]], habitat design, water
 management, and low-input production. In a farming knowledge base, those
 connections matter because a single intervention can affect pest
 pressure, soil biology, yields, and long-term resilience.
 
 ## Related Topics
 
-- [[shulgin-safety-principles-self-experimentation]]
 - [[methyl-dob-entity-pihkal]]
 
 ## See Also
 
-- [[2c-o-4-entity-pihkal]]
 - [[2c-g-4-entity-pihkal]]
 
 - PIHKAL (Shulgin & Shulgin, 1991)
 - Related compounds: J, MDA, MDE, MDMA
+
+## Overview
+
+Ethyl K Entity Pihkal represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish ethyl k entity pihkal
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving ethyl extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Ethyl K Entity Pihkal finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for ethyl k entity pihkal. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+ethyl k entity pihkal and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Ethyl K Entity Pihkal has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of ethyl k entity pihkal into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[ethyl-j-entity-pihkal]]
+- [[pf-tek-200-proof-ethyl-alcohol-procurement-state-permit]]
+- [[pf-tek-ethyl-alcohol-extraction-liqueur-concentration]]
+- [[pf-tek-ethyl-alcohol-extraction-psilocybin-liqueur]]
+- [[shulgin-a-pihkal-2c-e-4-ethyl-25-dimethoxyphenethylamine]]

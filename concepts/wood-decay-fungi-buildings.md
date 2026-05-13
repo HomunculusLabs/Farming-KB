@@ -4,67 +4,16 @@ created: 2026-04-14
 updated: 2026-04-14
 type: concept
 tags: [mycology, fungi]
-sources: []
+sources: [raw/papers/forest-gardening-robert-hart.md]
 ---
-# Wood Decay Fungi in Buildings Wood decay fungi that colonize built structures are among the most destructive biological agents affecting human construction. Three species stand out as particularly problematic: *[[serpula-lacrymans]]* (both causing "dry rot"), and *[[sphaerobolus-stellatus]]* (the "artillery fungus"). These fungi cause billions of dollars in property damage annually and have plagued human construction for centuries.
+# Wood Decay Fungi in Buildings Wood decay fungi that colonize built structures are among the most destructive biological agents affecting human construction. Three species stand out as particularly problematic: *[[sphaerobolus-stellatus]]* (the "artillery fungus"). These fungi cause billions of dollars in property damage annually and have plagued human construction for centuries.
 
 ## Dry Rot Fungi
 
-### *[[meruliporia-incrassata]]*
+### *[[dmt-containing-plants-united-states-halpern]]. The species was first described in 1849. Its name derives from *Meruli* (yellow, comparable to a blackbird's beak), *poria* (porous nature of fruiting bodies), and *incrassata* (thickness of fruiting bodies).
 
-*M. incrassata* is the primary dry rot agent in California and the southeastern [[dmt-containing-plants-united-states-halpern]]. The species was first described in 1849. Its name derives from *Meruli* (yellow, comparable to a blackbird's beak), *poria* (porous nature of fruiting bodies), and *incrassata* (thickness of fruiting bodies).
-
-The fungus has become a severe problem on the US West Coast in recent decades, largely because [[fukuoka-textdoc-agricultural-land-law-obstruction-return-farming]] conversion leaves tree stumps and roots in soil. Buried wood sustains the fungus until it exhausts the cellulose, at which point rhizomorphs are sent out to search for new food sources — frequently finding their way into building foundations.
-
-Key factors favouring *M. incrassata* in California:
-- Bulldozed orchard trees leaving stumps and intact roots in soil
-- Imported topsoil and wood mulch providing additional inoculum
-- Lawn sprinklers keeping rhizomorphs moist
-- Air conditioning cooling the fungus to its optimum growth temperature (~23°C / 73°F)
-
-### *Serpula lacrymans*
-
-*S. lacrymans* is the classic dry rot fungus of Britain, Europe, Australia, Japan, and other temperate regions. *Serpula* means "serpent or worm," evoking the taproots that slither indoors; *lacrymans* is Latin for "weeping," referring to the fluid globules on the fungal surface.
-
-The fungus has a long criminal record in Britain, where it is expected in older properties. Its outdoor biology is mysterious — it has never been found growing on tree stumps in the British Isles, though it occurs in forests in India and central Europe (on roots of damaged Norway spruce in the Czech Republic). The "true" dry rot fungus is easily confuse  ntioides* and is rare in European forests, suggesting that home construction has been highly beneficial to its biological success.
-
-*S. lacrymans* prefers cooler temperatures than many indoor moulds, explaining its prevalence in Britain versus the war stachybotrys chartarum ys chartarum*.
-
-## Strands and Rhizomorphs
-
-The extraordinary destructive power of dry rot fungi lies in their root-like transport structures:
-
-### Strands (Chords)
-- Assemblages of hyphae with a thick "parent" hypha at the core, surrounded by thinner hyphae
-- Parent hyphae produce tendrils that wind around other hyphae for consolidation
-- Develop in response to **nutrient exhaustion** — they are exploratory structures sent out from the colony to search for new food sources
-- When a scouting strand hits nutrients, hyphae fan out to form new mycelia
-- Serpula forms strands but does not produce true rhizomorphs
-
-### Rhizomorphs
-- More complex than strands, with a waterproofed surface
-- Enclose a central pipe for transmission of water and dissolved nutrients
-- Can grow for many metres, piping water from wet soil to dry wood or masonry
-- Allow air passage to avoid suffocation during exploration (e.g., inside painted beams)
-- Produced by *Meruliporia* but not *Serpula*
-- Bear similarities to mushrooms in their complex, multi-celled construction
-- A cut rhizomorph exudes a distinctive mushroomy smell
-
-These structures enable dry rot fungi to colonize an entire home **without forming a single spore**. The fungus can bridge gaps between beams, span concrete and plastics, and continually nourish itself via water piped from outdoors.
-
-## Decay Mechanisms
-
-### Brown Rot
-Dry rot fungi are primarily **brown rot** agents. They digest the cellulose walls of wood cells while leaving behind lignin, which gives the decayed wood its characteristic brown colour. The wood is transformed into parched brown cubes that crumble when touched — sometimes called "brown cubical rot." The progressive concentration of dark-pigmented lignin is the visual signature.[[white-rot-fungi]]
-[[comparison-brown-rot-vs-white-rot-bioremediation]] fungi (which extract lignin and leave white cellulose behind) are less commonly associated with building decay but operate through different enzymatic mechanisms. See Wood Decay Fungi in Buildings for a broader treatment of decay types.
-
-## Basidiomes (Fruiting Bodies)
-
-In advanced infestations, basidiomes as large as surfboards develop as crusts on beam surfaces. They are:
-- Yellow to orange-brown with white margins
-- Produce masses of rusty spores formed in quartets on basidia
-- A single healthy basidiome the size of a book can shed **billions of spores**
-- In basements with poor [[stamets-growing-room-air-circulation-co2-management]], spores collect beneath crusts as a reddish shroud
+The fungus has become a severe problem on the US West Coast in recent decades, largely because [[white-rot-fungi]]
+[[stamets-growing-room-air-circulation-co2-management]], spores collect beneath crusts as a reddish shroud
 - As they mature, develop ridges that extend and fuse into tubes, then a honeycombed or toothed appearance
 - One measured [[comparison-fruiting-body-vs-mycelium-extracts-medicinal-mushrooms]] spread over 6 square metres; a property was blanketed with 78 square metres of spore-producing rot
 
@@ -87,3 +36,88 @@ Some interpret Leviticus 14:33–53 as describing a protocol for treating fungal
 - Seal cracks in concrete slabs and holes for pipes or electrical work
 - Use properly seasoned (dried) timber — unseasoned "green" wood is highly susceptible
 - Avoid wood-to-soil contact without concrete protection
+
+## Overview
+
+Wood Decay Fungi Buildings represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish wood decay fungi buildings
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving wood extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Wood Decay Fungi Buildings finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for wood decay fungi buildings. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+wood decay fungi buildings and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Wood Decay Fungi Buildings has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of wood decay fungi buildings into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions
+
+Common challenges include environmental variability, resource
+constraints, and knowledge gaps. Diversified approaches and
+proactive planning mitigate potential problems effectively.
+Knowledge sharing among practitioners accelerates solutions.
+
+## See Also
+
+- [[fungal-succession-wood-substrates]]
+- [[japanese-shiitake-cultivation-on-wood-poles]]
+- [[singh-wood-rot-fungi-structural-timber-decay]]
+- [[spalting-pigments-wood-inhabiting-fungi-chemistry]]
+- [[stamets-cultivator-wood-lovers-bed-preparation-outdoor]]

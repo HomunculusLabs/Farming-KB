@@ -6,29 +6,7 @@ type: concept
 
 # Dune Stabilisation and Water Storage
 
-Sand dunes are among the most dynamic and challenging landforms in arid environments, yet they also harbour some of the desert's most significant water reserves. Understanding how dunes form, move, and store water is essential for any [[permaculture]] strategy in sandy desert country.
-
-## Dune Types and Formation
-
-Depending on wind intensity, duration, streamlines and velocity, and the supply of sand downwind, dunes take characteristic forms:
-
-- **Transverse dunes**: Regular ridges oriented across prevailing wind direction.
-- **Oblique dunes**: Oriented at an angle to the wind.
-- **Longitudinal dunes**: Aligned parallel with the wind direction.
-- **Barchans**: Crescent-shaped dunes with horns pointing downwind.
-- **Sand seas (draas)**: Extensive wave-like dune complexes with lobed advance edges.
-
-Sands occur on pavements (isolated dunes) or as extensive dunefields (sand seas). The approach to stabilisation differs significantly between these two scales.
-
-## Dunes as Water Reservoirs
-
-A critical insight for desert permaculture is that dunes function as enormous water tanks. The water storage profile of dune systems follows a consistent pattern:
-
-- **Surface to a few metres**: Only about 4% water content.
-- **At approximately 6 metres depth**: Damp sands encountered.
-- **At approximately 40 metres depth**: Saturated sands found.
-
-Dunes present a very large surface area of sand grains for water to adhere to, and rapid infiltration of rain is possible. This operates much like the coral sands of an atoll, where rainwater "floats" on denser salt water below. Some dune fields (with [[humus]] and dust particles) support quite dense vegetation (50% cover), while others are almost sterile and lack basic plant nutrients.
+Sand dunes are among the most dynamic and challenging landforms in arid environments, yet they also harbour some of the desert's most significant water reserves. Understanding how dunes form, move, and store water is essential for any [[humus]] and dust particles) support quite dense vegetation (50% cover), while others are almost sterile and lack basic plant nutrients.
 
 Any traveller in vegetated deserts will notice that the largest trees—sometimes the only trees—stand in the dune ridges. This is apparent with dunes on harder pavement, dunes on clay, and in coastal dune hollows and deflation hollows in sands. At the edge of large dune complexes, water rushes and sedges appear at base seepage, and even shallow lagoons form that are as much dune-fed as dune-dammed.
 
@@ -38,23 +16,8 @@ It follows that dune on pavement or salted ground is the best site for permanent
 
 For individual dunes on hard surfaces, a relatively simple approach works after rains:
 
-1. **Plant a fast-growing grain or oat crop**—sorghum, millet, desert legumes such as moth bean, or yam beans.
-2. **Set out hardy [[acacia]] seedlings**, preferably with mixed fertiliser.
-3. If successful, grains flower and straw lasts for two or more years, moth beans leave seed, and small Acacias grow to effect permanent stabilisation. Species such as *Acacia victoriae* give copious leaf mulch.
-4. **Place desert yam bean pits** in later years using the accumulated leaf mulch.
-5. A few larger quickset trees (tamarisk) may succeed if deeply set in or near the dune base.
-
-This process depends on a good rain event, pest and browser control before sowing, and minimal protection after sowing.
-
-## Pitting for Vegetation Establishment
-
-Wherever rain flows or falls occasionally over bare sandy ground, **pitting** is an excellent device. A set of large discs with one-quarter section cut off (or a small disc fixed to a wheel) is drawn cross-country. Seed and fertiliser are spread soon after. Seed, fertiliser, and sand blow into the pits, which respond very well to subsequent rain. Many hectares of these pits have grown successfully near Alice Springs in Central Australia.
-
-## Pelleted Seed Broadcasting
-
-For extensive dune systems, pelleted seed can be broadcast from the air to await rain. The pelleting process:
-
-1. Mix seed, mud, fertiliser, and insect repellent (neutralised copper sulphate with lime, [[neem]] tree leaf powder, or magnesite) into a stiff mass.
+1. **Plant a fast-growing grain or oat crop**—sorghum, millet, desert legumes such as [[moth-bean]], or yam beans.
+2. **Set out hardy [[neem]] tree leaf powder, or magnesite) into a stiff mass.
 2. Pass through a mincer with blades removed.
 3. Spread onto a vibrating tray with a slight slope where dry powder or dusts are shaken over the extrusion.
 4. The "rolls" become round pellets on the shaker tray, which are spread out to dry.
@@ -71,7 +34,7 @@ Severe dune blowouts, particularly on coasts, need more intensive treatment:
    - Stakes 2 m long, driven 1 m deep.
    - Numerous bushy weaves between stakes.
    - Wind gaps less than 50% to drop sand out.
-4. Pits of seed and *Acacia victoriae* may succeed after rain.
+4. Pits of seed and *[[acacia]] victoriae* may succeed after rain.
 
 ## Brush Fence Design and Benefits
 

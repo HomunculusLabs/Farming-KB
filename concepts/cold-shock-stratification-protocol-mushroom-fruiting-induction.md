@@ -10,19 +10,7 @@ created: 2026-05-11
 
 ## Overview
 
-Cold shock is a fruiting induction technique in which fully colonized substrates are exposed to a sudden drop in temperature to stimulate the formation of primordia (pinheads). The [[grass-seed-cultivation-of-psilocybe-mushrooms]] guide for *Psilocybe* and *Panaeolus* species describes cold shock as an effective treatment for "harder-to-fruit strains" while noting that easy-fruiting varieties do not require it. Understanding when and how to apply cold shock is essential for optimizing fruiting success across different species and strains.
-
-## Species-Specific Cold Shock Requirements
-
-The cultivation guide provides specific guidance on cold shock applicability across species:
-
-| Species | Cold Shock Recommended | Notes |
-|---------|----------------------|-------|
-| *Psilocybe cubensis* (Ecuador) | No | Easy-fruiting strain, initiates pinning readily |
-| *Psilocybe cubensis* (other strains) | Yes (some strains) | Harder-to-fruit strains benefit significantly |
-| *Psilocybe mexicana* | No | Does not benefit from cold shock treatment |
-| *Psilocybe tampanensis* | No | Does not benefit from cold shock treatment |
-| *[[gartz-panaeolus-subbalteatus-taxonomy-and-intoxication-history]]* | No | Does not benefit from cold shock treatment |
+Cold shock is a fruiting induction technique in which fully colonized substrates are exposed to a sudden drop in temperature to stimulate the formation of primordia (pinheads). The [[gartz-panaeolus-subbalteatus-taxonomy-and-intoxication-history]]* | No | Does not benefit from cold shock treatment |
 
 This pattern suggests that cold shock responsiveness is strain-dependent within *P. cubensis* but absent in the sclerotia-producing *Psilocybe* species and *Panaeolus*.
 
@@ -36,15 +24,7 @@ The cold shock protocol as described is straightforward:
 
 3. **Method**: Cased trays are transferred from incubation temperature (20-25°C) directly to the refrigerator. No gradual cooling is specified — the shock is intended to be abrupt.
 
-4. **Post-shock handling**: After the cold shock period, trays are removed from the refrigerator and placed into the fruiting chamber (clear plastic bins with [[passive-humidity-fruit-chamber-polyethylene-sheeting]]).
-
-## Biological Mechanism
-
-Cold shock fruiting induction operates through several interconnected biological mechanisms:
-
-### Temperature Drop as an Environmental Signal
-
-In nature, [[fungal-fruiting-body-formation-environmental-triggers]] in many mushroom species coincides with seasonal temperature changes. A sudden temperature drop mimics the onset of autumn conditions, signaling the fungus to reproduce before winter:
+4. **Post-shock handling**: After the cold shock period, trays are removed from the refrigerator and placed into the fruiting chamber (clear plastic bins with [[fungal-fruiting-body-formation-environmental-triggers]] in many mushroom species coincides with seasonal temperature changes. A sudden temperature drop mimics the onset of autumn conditions, signaling the fungus to reproduce before winter:
 
 - The temperature differential between incubation (20-25°C) and cold shock (2-4°C) represents an 18-23°C drop, a substantial environmental shift.
 - This temperature change may activate cold-responsive genes that overlap with fruiting pathway regulators.
@@ -62,21 +42,7 @@ Cold temperatures temporarily reduce mycelial metabolic rate, which may:
 
 Moving warm trays to a cold environment causes condensation on the casing surface:
 
-- This condensation provides a brief period of very high surface humidity, which is one of the primary triggers for [[growing-gourmet-primordia-formation-pinning]].
-- The water droplets on the casing surface create microenvironments ideal for hyphal aggregation into pin knots.
-- Upon return to fruiting temperature, the condensed moisture is gradually absorbed back into the casing, maintaining optimal surface moisture during the critical early pinning phase.
-
-### Endogenous Hormone Accumulation
-
-Cold shock may promote the accumulation of endogenous fruiting hormones:
-
-- Some evidence suggests that cold exposure increases levels of endogenous cAMP and other secondary messengers involved in the fruiting cascade.
-- Ethylene production, which influences fruiting in several mushroom species, may be modulated by temperature changes.
-- The cold period may allow time for the depletion of inhibitory metabolites that suppress fruiting under continuous warm incubation.
-
-## Cold Shock Versus Other Fruiting Triggers
-
-Cold shock is one of several [[mushroom-cultivation-environmental-parameters]] that can trigger fruiting:
+- This condensation provides a brief period of very high surface humidity, which is one of the primary triggers for [[mushroom-cultivation-environmental-parameters]] that can trigger fruiting:
 
 | Trigger | Mechanism | Typical Application |
 |---------|-----------|-------------------|
@@ -116,7 +82,5 @@ The cold shock step fits within the complete fruiting workflow as follows:
 
 ## See Also
 
-- [[species-specific-fruiting-timelines-grass-seed-cultivation]]
 - [[species-specific-flush-patterns-psilocybe-panaeolus-grass-seed]]
-- [[psilocybe-cubensis-cultivation]]
 - [[disposable-tray-casing-method-grass-seed-substrate]]

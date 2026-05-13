@@ -11,27 +11,7 @@ sources:
 
 # Soil Food Web and Humus Formation
 
-Toby Hemenway's detailed explanation of how soil organisms decompose [[hamilton-composting-and-organic-matter-management]], create humus, build soil structure, and make nutrients available to plants. From Gaia's Garden, Chapter 4: "Bringing the Soil to Life."
-
-## The Decomposition Cascade
-
-When a leaf falls to the ground, it enters a multi-stage decomposition process involving thousands of species of soil organisms.
-
-### Stage 1: Primary Decomposers
-
-Bacteria, fungi, algae, and other microbes begin the work. They first attack the easiest compounds:
-
-1. **Sugars and starches** — converted quickly to energy, CO2, or more organisms
-2. **Celluloses and some proteins** — harder to digest, require special enzymes; chains of tightly linked molecules decompose more slowly
-3. **Lignins** (wood strength), **chitins** (insect armor), **waxes** — toughest polymers; only specialized fungi can break these down
-
-### Stage 2: Secondary Decomposers
-
-Mold mites, springtails, and certain beetles feed on the primary decomposers.
-
-### Stage 3: Tertiary Decomposers
-
-Centipedes, ground beetles, pseudoscorpions, [[comparison-predatory-mites-vs-ladybugs-biocontrol]], ants, and spiders feed on secondary and primary decomposers. The hierarchy is not strictly linear — it is a set of nested cycles with extensive interconnections.
+Toby Hemenway's detailed explanation of how soil organisms decompose [[comparison-predatory-mites-vs-ladybugs-biocontrol]], ants, and spiders feed on secondary and primary decomposers. The hierarchy is not strictly linear — it is a set of nested cycles with extensive interconnections.
 
 ## How Humus Is Made
 
@@ -75,20 +55,10 @@ Plant roots secrete very mild acids that break bonds holding nutrients onto humu
 5. Microbes excrete additional food for plants in their waste
 6. Many fungi secrete antibiotics that protect plants from disease
 
-This creates a truly [[soil-food-web-and-building-living-soil]]
+This creates a truly [[gaias-garden-humus-soil-chemistry]]
 
-- [[gaias-garden-humus-soil-chemistry]]
-
-- [[ozier-pdc-composting-and-soil-building]] — compost chemistry and the soil food web
 - [[soil-food-web-nutrient-cycling]] — nutrient cycling through the food web
-- mollison-composting-methods — Mollison's [[natural-farming-guide-composting-methods-and-techniques]]
-- [[sepp-holzer-composting-and-humus-building]] — Holzer's approach to [[composting-humus-building-holzer]]
-
-## See Also
-
-- [[gaias-garden-deer-food-hedge-design]]
-- [[gaias-garden-perennial-food-plants]]
-
+- mollison-composting-methods — Mollison's [[sepp-holzer-composting-and-humus-building]] — Holzer's approach to [[gaias-garden-deer-food-hedge-design]]
 - [[gaias-garden-soil-food-web-ecology]]
 
 ## Practical Applications
@@ -120,8 +90,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[query-what-is-the-soil-food-web-and-why-does-it-matter]]
 - [[soil-life]]
-- [[gaias-garden-soil-food-web-ecology]]
 - [[gaias-garden-soil-food-web-living-soil]]
 - [[det]]

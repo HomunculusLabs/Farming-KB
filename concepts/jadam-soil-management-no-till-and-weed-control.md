@@ -12,30 +12,10 @@ sources:
 
 ## Overview
 
-JADAM soil management centers on eliminating the compacted soil layer (plow pan), co-existing with wild grass, and building soil health through [[cover-crops]]
-
-### Hairy Vetch
-- Fixes approximately 20 kg of nitrogen per acre
-- Softens compacted soil
-- Reduces soil salinity
-- Boosts microbial activity
-- Suppresses diseases and nematodes
-- Research from Korea's Rural Development Administration (RDA) cited
-
-### Rye
-- Sow before harvesting fruit trees (seeds sprout under tree canopy)
-- Low nitrogen content -- good for nutrient balance
-- Leaves of fruit trees fall between rye plants, are not blown away
-- Complete nutrient recycling: "This is a perfect [[jadam-fertilizer-program-design]]"
+JADAM soil management centers on eliminating the compacted soil layer (plow pan), co-existing with wild grass, and building soil health through [[jadam-fertilizer-program-design]]"
 
 ### Other Cover Crops
-- **Sudan grass:** Annual summer crop, good as [[comparison-green-manure-guide-vs-mulch-types-and-effects]], helps eliminate soil salt
-- **Rapes:** Common green manure crop, no part wasted
-
-### General Guidance
-- Broadcast seeds before harvesting fruit trees
-- If growing cover crop is difficult, use manure from grass-eating (herbivorous) animals
-- Manure from herbivores contains optimum [[jadam-nutritional-balance-fertilizer]] for crops
+- **Sudan grass:** Annual summer crop, good as [[jadam-nutritional-balance-fertilizer]] for crops
 
 ## Nature's Three Rules for Fertilizer
 
@@ -44,25 +24,7 @@ Nature applies fertilizer in three ways:
 2. **Surface application** -- on top of soil, not tilled deep
 3. **Autumn application** -- before winter, not in spring
 
-This contrasts with modern agriculture which says: use fully fermented material, apply deep into soil, in spring. JADAM advocates following nature's model: apply fresh [[hamilton-composting-and-organic-matter-management]] on the surface in autumn.
-
-## Crop Residues as Fertilizer
-
-JADAM does not perceive crop residues (branches, leaves, remaining parts) as a source of disease but as a **source of nutrients**. They are the substance with the best nutritional balance for the crop because they were produced by that crop absorbing nutrients from that soil.
-
-- Rice straw is the best fertilizer for rice fields
-- Cucumber leaves contain nutrients for cucumbers
-- Fruit tree leaves are the best nutrient source for that tree
-
-The practice of removing all crop residues ("field sanitation") is identified as a major cause of:
-- Nutrient depletion (forced leaching of minerals)
-- Increased pesticide dependency (diseases are everywhere regardless)
-- Fertilizer company profits
-
-## References
-
-- Source: "JADAM [[coleman-deep-organic-farming-philosophy]]" by [[natural-farming-philosophy]]
-- [[compost-tea-recipe-guide]]
+This contrasts with modern agriculture which says: use fully fermented material, apply deep into soil, in spring. JADAM advocates following nature's model: apply fresh [[coleman-deep-organic-farming-philosophy]]" by [[compost-tea-recipe-guide]]
 ## Practical Considerations
 
 Successful implementation of JADAM Soil Management -- No-Till and Weed Control requires attention to
@@ -111,8 +73,78 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[building-soil]]
 - [[composting]]
-- [[cover-crops]]
 - [[cover-crop]]
 - [[weed-management-strategies]]
+
+## Overview
+
+Jadam Soil Management No Till And Weed Control represents an important element within sustainable
+design and ecological management systems. Its proper understanding
+and integration contributes to the resilience and productivity of
+designed ecosystems and agricultural systems.
+
+## Key Characteristics
+
+Several defining characteristics distinguish jadam soil management no till and weed control
+from related concepts in permaculture and ecological design.
+Understanding these traits supports effective implementation
+and management across diverse environmental conditions.
+
+## Ecological Context
+
+The ecological relationships involving jadam extend
+across multiple trophic levels and functional groups.
+Soil biology, water cycles, and energy flows all interact
+with this element in complex and beneficial ways.
+
+## Practical Applications
+
+Jadam Soil Management No Till And Weed Control finds practical application in multiple design contexts.
+Permaculture principles guide integration strategies that maximize
+beneficial interactions while minimizing external inputs.
+Site-specific adaptation ensures relevance to local conditions.
+
+## Management and Implementation
+
+Effective management requires attention to seasonal patterns
+and environmental feedback loops. Monitoring outcomes supports
+adaptive management strategies that improve results over time.
+Integration with complementary elements enhances system function.
+
+## Regional Considerations
+
+Different geographic regions present unique challenges and
+opportunities for jadam soil management no till and weed control. Climate adaptation
+strategies vary across cultivation zones and latitude ranges.
+Local knowledge and site observation remain essential guides.
+
+## Sustainability
+
+Sustainable management practices ensure long-term viability.
+Biodiversity considerations guide implementation decisions.
+Responsible stewardship maintains ecological health over time.
+Economic sustainability balances environmental and social needs.
+
+## Research and Development
+
+Ongoing research continues to expand understanding of
+jadam soil management no till and weed control and its applications. Active investigation
+areas include ecological interactions and optimization.
+Published findings contribute to an evolving evidence base.
+
+## Historical Context
+
+Jadam Soil Management No Till And Weed Control has been recognized across multiple knowledge traditions.
+Indigenous and traditional practices have informed modern approaches.
+The synthesis of historical and contemporary knowledge enriches
+current understanding and implementation strategies.
+
+## Integration Strategies
+
+Successful integration of jadam soil management no till and weed control into broader
+systems requires careful planning and observation.
+Design for multiple functions increases overall efficiency.
+Monitoring integration outcomes supports adaptive management.
+
+## Challenges and Solutions

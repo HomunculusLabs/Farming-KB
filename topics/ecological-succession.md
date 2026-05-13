@@ -45,11 +45,7 @@ Primary succession occurs on lifeless substrates where no biological legacy pers
 
 ### Bare Rock and Lava Flows
 
-Volcanic eruptions create new land surfaces that serve as natural laboratories for studying primary succession. Lava flows at Mount St. Helens (1980), Kilauea (Hawaiʻi), and historically at Krakatoa (1883) have provided detailed records of colonization sequences. Initial colonizers are typically lithophytic lichens and cyanobacteria that weather rock surfaces through biochemical processes, gradually forming a thin layer of [[hamilton-composting-and-organic-matter-management]]. Over decades to centuries, mosses, herbaceous plants, and eventually woody species establish as soil depth and nutrient content increase.
-
-### Glacial Retreat
-
-Glacier Bay, Alaska, has served as a paradigmatic chronosequence for primary succession following deglaciation. Research by Chapin et al. (1994) documented a predictable sequence: crustose lichens → foliose lichens and mosses → [[nitrogen-fixing-bacteria-and-biological-nitrogen-fixation]] shrubs (e.g., *Dryas drummondii*) → alder thickets (*Alnus sinuata*) → spruce (*[[picea-sitchensis]]*) and western hemloc tsuga heterophylla ylla*) forest. [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]] by *Dryas* and *Alnus* is critical, as the young glacial substrates are severely nitrogen-limited. Over approximately 200 years, aboveground biomass increases by orders of magnitude while soil organic matter accumulates to depths exceeding 50 cm.
+Volcanic eruptions create new land surfaces that serve as natural laboratories for studying primary succession. Lava flows at Mount St. Helens (1980), Kilauea (Hawaiʻi), and historically at Krakatoa (1883) have provided detailed records of colonization sequences. Initial colonizers are typically lithophytic lichens and cyanobacteria that weather rock surfaces through biochemical processes, gradually forming a thin layer of [[nitrogen-fixing-bacteria-and-biological-nitrogen-fixation]] shrubs (e.g., *Dryas drummondii*) → alder thickets (*Alnus sinuata*) → spruce (*[[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]] by *Dryas* and *Alnus* is critical, as the young glacial substrates are severely nitrogen-limited. Over approximately 200 years, aboveground biomass increases by orders of magnitude while soil organic matter accumulates to depths exceeding 50 cm.
 
 ### Sand Dunes
 
@@ -63,69 +59,12 @@ Secondary succession occurs when an existing community is disturbed but soil and
 
 ### Post-Fire Succession
 
-Fire is one of the most widespread disturbance agents globally. In many forested ecosystems, fire-adapted species resprout from root crowns or germinate from heat-triggered seed banks within weeks of a burn. In [[fungal-diversity-boreal-forests-taiga]], serotinous cones of jack pine (*[[pinus-banksiana]]*) and black spruce (*[[picea-mariana]]*) release seeds onto the mineral soil exposed by fire, initiating a stand-replacement cycle. Herbaceous fire-fo epilobium angustifolium um angustifolium*, fireweed) colonize rapidly, followed by shade-intolerant hardwoods and eventually the climax conifers.
-
-### Agricultural Abandonment (Old-Field Succession)
-
-Old-field succession is among the best-studied examples of secondary succession. Following cessation of agriculture, fields are typically colonized by annual weeds (e.g., *Ambrosia*, *Chenopodium*), followed by biennial and perennial herbs, then grasses and shrubs (e.g., *Rubus*, *Rosa*), and finally trees. In [[polypore-fungi-eastern-north-america]] America, the typical endpoint is an oak-hickory or beech-maple forest, though the trajectory can be altered by soil fertility, proximity to seed sources, and herbivory. The classic Buell-Small Succession Study in New Jersey has tracked old-field succession since 1958, providing one of the longest continuous records of community change.
+Fire is one of the most widespread disturbance agents globally. In many forested ecosystems, fire-adapted species resprout from root crowns or germinate from heat-triggered seed banks within weeks of a burn. In [[pinus-banksiana]]*) and black spruce (*[[polypore-fungi-eastern-north-america]] America, the typical endpoint is an oak-hickory or beech-maple forest, though the trajectory can be altered by soil fertility, proximity to seed sources, and herbivory. The classic Buell-Small Succession Study in New Jersey has tracked old-field succession since 1958, providing one of the longest continuous records of community change.
 
 ### Post-Logging and Flood Recovery
 
-Selective or clear-cut logging initiates secondary succession that may follow different trajectories depending on harvest intensity, soil compaction, and site preparation. In tropical forests, logging gaps are rapidly colonized by pioneer tree species (e.g., *Cecropia*, *Vismia*) that set the stage for gradual reassembly of the original forest community over decades to centuries. River floodplains undergo cyclic succession driven by depositional and erosional processes; [[pioneer-species-selection-for-permaculture-systems]] colonize fresh alluvium, and communities mature until the next flood event resets the cycle.
-
----
-
-## Seral Stages and the Chronosequence Concept
-
-### Seral Stages
-
-Each transitional community in a successional sequence is called a **seral stage**. Seral stages progress from early-successional (pioneer) communities through mid-successional communities to the late-successional or climax community. The full sequence of seral stages is termed a **sere**. Key characteristics of seral stages include:
-
-| Property | Early Seral | Mid Seral | Late Seral / Climax |
-|---|---|---|---|
-| Species diversity | Low | High | Moderate to high |
-| Net primary productivity | High | Moderate | Low (balanced) |
-| Biomass accumulation | Rapid | Moderate | Near equilibrium |
-| Nutrient retention | Low | Increasing | High |
-| Community stability | Low | Moderate | High |
-| Dominant strategy | Ruderal/r-selected | Mixed | Competitive/K-selected |
-
-### Chronosequences
-
-A **chronosequence** (or space-for-time substitution) is a research design in which sites of different ages since disturbance are compared to infer temporal dynamics. Chronosequences are powerful because they allow researchers to study processes occurring over centuries within a single field season. However, they rest on the critical assumption that sites differ only in age — an assumption frequently violated by spatial variation in soil, topography, and land-use history. Modern approaches combine chronosequences with long-term monitoring and paleoecological records to validate inferred trajectories.
-
----
-
-## Pioneer Species and Their Traits
-
-Pioneer species are the first organisms to colonize disturbed or newly formed habitats. They share a suite of adaptive traits that allow them to establish in harsh, resource-poor, or unstable environments:
-
-- **R-selected life history**: high fecundity, small seed size, rapid growth, short generation time, and semelparous reproduction (Grime's ruderal strategy).
-- **Wind-dispersed seeds**: effective long-distance dispersal to reach isolated or remote sites (e.g., composites, birch, willow).
-- **Nitrogen fixation**: symbiotic associations with *Rhizobium* (legumes) or *Frankia* (actinorhizal plants such as *Alnus*) that alleviate nitrogen limitation.
-- **Crust-forming ability**: lichens, mosses,biological soil crusts) that stabilize surfaces, trap organic particles, and fix atmospheric nitrogen and carbon.
-- **Tolerance of environmental extremes**: desiccation tolerance, high [[growing-gourmet-light-requirements-mushroom-fruiting]], wide temperature tolerance, and tolerance of low-nutrient substrates.
-- **Clonal growth**: [[vegetative-propagation-methods-mollison]] via rhizomes, stolons, or root sprouts, enabling rapid space occupation.
-
-Common pioneer taxa include lichens (*Rhizocarpon*, *Xanthoria*), cyanobacteria (*Nostoc*, *Anabaena*), mosses (*Funaria*, *Polytrichum*), herbaceous fire-followers (*Epilobium*, *Senecio*), nitrogen-fixing shrubs (*Dryas*, *Ceanothus*, *Myrica*), and fast-growing trees (*Betula*, *Populus*, *Salix*).
-
----
-
-## Facilitation, Tolerance, and Inhibition Models
-
-Connell and Slatyer (1977) proposed three mechanistic models to explain how species interactions drive successional change:
-
-### Facilitation Model
-
-Early-successional species modify the environment in ways that make it more suitable for later species. Examples include nitrogen fixers increasing soil fertility, shade-tolerant species requiring the canopy provided by pioneers, and mosses creating moist microsites for seedling establishment. Facilitation predicts a strict, ordered sequence of species replacements.
-
-### Tolerance Model
-
-Later species can colonize at any time but are outcompeted by early species under the initial environmental conditions. As conditions change (e.g., increasing shade, changing soil chemistry), later species gradually replace earlier ones through preemption of resources. This model does not require positive interactions and predicts a more flexible, overlapping sequence.
-
-### Inhibition Model
-
-Early species establish and inhibit colonization by later species through competition for resources, allelopathy, or physical space occupation. Succession proceeds only when early species are damaged or die, releasing space. This model predicts that the [[core-endorhiza-bacterial-community-composition-cannabis]] depends heavily on arrival order and that there is no single inevitable endpoint.
+Selective or clear-cut logging initiates secondary succession that may follow different trajectories depending on harvest intensity, soil compaction, and site preparation. In tropical forests, logging gaps are rapidly colonized by pioneer tree species (e.g., *Cecropia*, *Vismia*) that set the stage for gradual reassembly of the original forest community over decades to centuries. River floodplains undergo cyclic succession driven by depositional and erosional processes; [[growing-gourmet-light-requirements-mushroom-fruiting]], wide temperature tolerance, and tolerance of low-nutrient substrates.
+- **Clonal growth**: [[core-endorhiza-bacterial-community-composition-cannabis]] depends heavily on arrival order and that there is no single inevitable endpoint.
 
 These three models are not mutually exclusive; most successional sequences involve elements of all three operating at different stages and among different species pairs.
 

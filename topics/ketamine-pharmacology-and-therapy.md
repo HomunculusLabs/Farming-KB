@@ -50,31 +50,7 @@ dissolution of bodily awareness, immersion in four-dimensional hyperspace,
 experiences of ego death and rebirth, encounters with seemingly autonomous
 entities, and states of consciousness that resist description in ordinary
 language. These effects, while profoundly meaningful to some, can be
-terrifying to others, making [[lsd-set-and-setting-framework]] considerations particularly
-important for ketamine.
-
-## History and Development
-
-Ketamine was first synthesized in 1962 as part of a search for safer
-anesthetic alternatives to PCP, which had been found to produce
-unacceptably severe and prolonged psychedelic reactions in surgical
-patients. Calvin Stevens, a chemist at Parke-Davis, created a series of
-aryl cyclohexylamine derivatives and identified ketamine hydrochloride as
-the most promising candidate. It provided effective anesthesia with
-significantly shorter duration of action and less severe emergence reactions
-than PCP, though it was soon discovered that it too produced dissociative
-and psychedelic effects as patients recovered from anesthesia.
-
-The phenomenon of "reemergence" — patients reporting vivid, dreamlike, or
-out-of-body experiences upon waking from ketamine anesthesia — was noted in
-early clinical reports. Rather than viewing these effects purely as side
-effects, some researchers recognized them as potentially valuable. The
-psychiatrist John Lilly became ketamine's most famous early explorer,
-conducting extensive self-experimentation in isolation tanks and reporting
-experiences of contact with other beings, travel through alternate realities,
-and profound insights into consciousness. Lilly's work, while controversial,
-established ketamine as a substance of interest to consciousness researchers
-and the emerging [[metzner-psycholytic-psychedelic-therapy-models]] community.
+terrifying to others, making [[metzner-psycholytic-psychedelic-therapy-models]] community.
 
 The clinical antidepressant potential of ketamine was discovered almost by
 accident. In the late 1990s and early 2000s, researchers including Carlos
@@ -116,20 +92,8 @@ fewer dissociative side effects.
 
 Ketamine hydrochloride appears as a white crystalline powder that is highly
 soluble in water, making it suitable for injection. It is stable at room
-temperature and has a long [[psilocybin-shelf-life-stability]] when stored properly. The chemical
-## See Also
-
-[[ketamine-compound-profile]] | [[ketamine-dissociative-pharmacology]] |
-[[ketamine-reference]] | [[ketamine-psychedelic-journey-guide]] |
-[[ketamine-ultimate-psychedelic-journey]] | [[turner-ketamine]] |
-[[turner-ketamine-realms-dissociative-consciousness]] |
-[[turner-ketamine-combinations-and-cydelikspace-navigation]] |
+temperature and has a long [[ketamine-compound-profile]] | [[ketamine-reference]] | [[ketamine-ultimate-psychedelic-journey]] | [[turner-ketamine-realms-dissociative-consciousness]] |
 [[turner-ketamine-lsd-dmt-interactions-recovery-effects]] |
-[[turner-essential-psychedelics-ketamine-anaesthetic-realm]]
-
-## References
-
-Halpern, J.H. "Hallucinogens and Dissociative Agents Growing in the
 [[dmt-containing-plants-united-states-halpern]]." In Pharmacology and Abuse of Cocaine, Amphetamines, and
 Other [[shulgin-designer-drugs-analysis]]. Humana Press.
 

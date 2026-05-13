@@ -12,24 +12,7 @@ created: 2026-05-08
 
 N,N-Dimethyltryptamine (DMT) is a powerful psychedelic tryptamine compound that
 occurs endogenously in the human brain and throughout the natural world. It is
-one of the most potent known hallucinogens, producing extraordinary [[weil-the-natural-mind-altered-states-normalcy]]
-of consciousness when smoked, injected, or consumed in combination with a monoamine
-oxidase inhibitor (MAOI). Terence McKenna placed DMT at the center of his
-explorations of consciousness, calling it "the quintessential tryptamine
-hallucinogen" and describing its effects as uniquely intense, brief, and
-ontologically challenging.
-
-## Chemical Structure and Relationship to Serotonin
-
-DMT is a tryptophan-derived compound closely related to serotonin
-(5-hydroxytryptamine, 5-HT), the major neurotransmitter found throughout the
-human brain and concentrated most highly in humans. The structural similarity
-between DMT and serotonin is central to understanding its mechanism of action:
-DMT acts primarily as a serotonin 5-HT2A receptor agonist, though it also has
-affinity for other serotonin receptor subtypes, sigma receptors, and trace
-amine-associated receptors.
-
-The close [[serotonin-psilocybin-structural-relationship-hallucinogenic-mechanism]] between DMT and serotonin means that the brain
+one of the most potent known hallucinogens, producing extraordinary [[serotonin-psilocybin-structural-relationship-hallucinogenic-mechanism]] between DMT and serotonin means that the brain
 is "absolutely at home with this compound," as McKenna put it. The extraordinarily
 rapid onset of DMT effects — approximately 15 seconds when smoked — and the
 brief duration of action (approximately 5 minutes) reflect the brain's native
@@ -41,8 +24,7 @@ in the body for a much longer period.
 DMT is present in small amounts in the human brain, a fact first established in
 the 1960s and subsequently confirmed by multiple research groups. The enzyme
 indolethylamine N-methyltransferase (INMT), which catalyzes the biosynthesis of
-DMT from tryptamine, has been found in human brain tissue, the [[mckenna-tryptamine-endogenous-dmt-pineal-gland-theory]],
-and other organs. The functional significance of [[mckenna-endogenous-dmt-brain-familiarity]] remains a matter
+DMT from tryptamine, has been found in human brain tissue, the [[mckenna-endogenous-dmt-brain-familiarity]] remains a matter
 of active scientific investigation, though hypotheses include roles in dreaming,
 near-death experiences, and meditative states.
 
@@ -55,20 +37,7 @@ DMT can be administered through several routes, each producing different effects
   3-5 minutes and total experience duration of approximately 15-30 minutes.
   The freebase form vaporizes at approximately 60-80°C.
 - **Intravenous injection**: Produces effects nearly identical to smoking but
-  with even more rapid onset. Used in [[hofmann-lsd-clinical-research-early-studies]] settings.
-- **Oral consumption with MAOI**: DMT is normally inactive orally because it is
-  rapidly metabolized by monoamine oxidase (MAO) enzymes in the gut and liver.
-  When combined with an MAOI, DMT becomes orally active. This is the basis of
-  ayahuasca, the Amazonian brew used in shamanic ceremonies for millennia.
-  Oral DMT produces a much longer experience (2-6 hours) compared to smoking.
-
-## The DMT Experience
-
-McKenna provided one of the most detailed phenomenological accounts of the DMT
-experience, describing a characteristic sequence of events:
-
-1. **Onset (0-15 seconds)**: A rushing sensation and the sound of "ripping
-   cellophane," described as possibly the "[[mckenna-radio-entelechy-dmt-onset-acoustic-phenomena]] ripping out of the
+  with even more rapid onset. Used in [[mckenna-radio-entelechy-dmt-onset-acoustic-phenomena]] ripping out of the
    organic matrix." An ascending tone is heard.
 2. **Geometric phase (15-30 seconds)**: Shifting geometric surfaces of migrating
    and changing colored forms appear — the standard hallucinogenic modality.
@@ -118,8 +87,6 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[dmt]]
 - [[ayahuasca]]
-- [[psilocybin]]
 - [[tryptophan]]
 - [[terence-mckenna]]
